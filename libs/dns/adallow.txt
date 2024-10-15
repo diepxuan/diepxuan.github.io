@@ -20,3 +20,4 @@ wac-0003.wac-dc-msedge.net.wac-0003.wac-msedge.net
 do38.dlfl.me
 ! Shopee from HaGeZi
 down-vn.img.susercontent.com
+down-tx-vn.img.susercontent.com
