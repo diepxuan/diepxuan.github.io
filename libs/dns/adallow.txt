@@ -16,3 +16,5 @@ inapps.appsflyersdk.com^
 digibank.vn^
 ! Zalo
 view.wac.trafficmanager.net.wac-0003.wac-dc-msedge.net.wac-0003.wac-msedge.net
+wac-0003.wac-dc-msedge.net.wac-0003.wac-msedge.net
+do38.dlfl.me
