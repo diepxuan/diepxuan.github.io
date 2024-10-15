@@ -1,6 +1,6 @@
 !
-! Title: DiepXuan DNS filter
-! Description: Allow List for banking apps
+! Title: DiepXuan DNS Allow list
+! Description: Allow List for banking apps and some VietNam apps
 ! Version: 0.0.0.1
 !
 ! This section contains the list of third-party advertising networks domains.
@@ -12,4 +12,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 inapps.appsflyersdk.com^
+! Mbbank apps
 digibank.vn^
+! Zalo
+view.wac.trafficmanager.net.wac-0003.wac-dc-msedge.net.wac-0003.wac-msedge.net
