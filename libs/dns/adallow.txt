@@ -25,5 +25,5 @@ down-tx-vn.img.susercontent.com
 h5.paylater.scredit.vn
 mm.bing.net
 ! Facebook
-graph.facebook.com
+!graph.facebook.com
 web.facebook.com
