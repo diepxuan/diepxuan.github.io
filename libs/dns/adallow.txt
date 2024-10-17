@@ -24,3 +24,5 @@ down-tx-vn.img.susercontent.com
 ! Shopee Spay
 h5.paylater.scredit.vn
 mm.bing.net
+! Facebook
+graph.facebook.com
