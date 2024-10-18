@@ -29,3 +29,5 @@ mm.bing.net
 ! Facebook
 !graph.facebook.com
 web.facebook.com
+! VNPT Camera
+apionehome.vnpt-technology.vn
