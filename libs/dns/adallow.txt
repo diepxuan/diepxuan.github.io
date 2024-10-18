@@ -31,3 +31,4 @@ mm.bing.net
 web.facebook.com
 ! VNPT Camera
 apionehome.vnpt-technology.vn
+a1-cube.vnpt-technology.vn
