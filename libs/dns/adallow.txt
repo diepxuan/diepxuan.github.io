@@ -23,6 +23,7 @@ down-vn.img.susercontent.com
 down-tx-vn.img.susercontent.com
 down-cvs-vn.img.susercontent.com
 down-bs-vn.img.susercontent.com
+down-tx-vn.vod.susercontent.com
 ! Shopee Spay
 h5.paylater.scredit.vn
 mm.bing.net
