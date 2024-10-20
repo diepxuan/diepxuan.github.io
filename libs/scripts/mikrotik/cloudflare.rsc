@@ -33,8 +33,8 @@
 :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
     :set $publicIP $extractedIP
 } else={
-    :local pppIP [/ip address get [find interface="ISP2"] address]
-    :local extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
+    :set pppIP [/ip address get [find interface="ISP2"] address]
+    :set extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
     :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
         :set $publicIP $extractedIP
     } else={
@@ -44,5 +44,36 @@
         :set $publicIP $externalIP
     }
 }
-# Log the detected public IP (optional)
 :log info "Public IP detected: $publicIP"
+
+########## Cloudflare API v4 DDNS ##########
+:global currentIp
+:local newIp [:resolve myip.opendns.com server=208.67.222.222]
+
+:if ($newIp != $currentIp) do={
+  :local cfToken "******"
+  :local cfZoneId "******"
+  :local cfDnsId "******"
+  :local dnsType "A"
+  :local dnsName "***.dc.diepxuan.io.vn"
+  :local dnsTTL "1"
+  :local dnsProxied "false"
+
+  :local apiUrl "https://api.cloudflare.com/client/v4/zones/$cfZoneId/dns_records/$cfDnsId"
+
+  :local headers "Authorization: Bearer $cfToken"
+  :local payload "{\"type\":\"$dnsType\",\"name\":\"$dnsName\",\"content\":\"$newIp\",\"ttl\":$dnsTTL,\"proxied\":$dnsProxied}"
+
+  :do {
+    :local response [/tool fetch http-method="put" url=$apiUrl http-header-field=$headers http-data=$payload as-value output=user]
+
+    :if ($response->"status" = "finished") do={
+        :log info "DDNS: $dnsName changed $currentIp to $newIp"
+
+        # update $currentIp with the new one
+        :set currentIp $newIp
+    }
+  } on-error {
+    :log error "DDNS: failed to change $dnsName IP $currentIp to $newIp"
+  }
+}
