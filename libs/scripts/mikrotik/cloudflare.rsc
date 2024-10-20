@@ -1,10 +1,10 @@
-# Version: 0.1
+# Version: 0.2
 /ip address print
 /interface print
 
 ######### update scripts version ##########
 :local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
-:local localVersion "0.1"
+:local localVersion "0.2"
 :local remoteVersion ""
 :local newScript "cloudflare.rsc"
 
@@ -35,6 +35,7 @@
 } else={
     :set pppIP [/ip address get [find interface="ISP2"] address]
     :set extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
+    
     :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
         :set $publicIP $extractedIP
     } else={
