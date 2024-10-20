@@ -32,20 +32,17 @@
 :local extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
 :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
     :set $publicIP $extractedIP
+} else={
+    :local pppIP [/ip address get [find interface="ISP2"] address]
+    :local extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
+    :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
+        :set $publicIP $extractedIP
+    } else={
+        # If no public IP from PPPoE, use external service to get public IP
+        /tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value
+        :local externalIP [:pick [find name="fetch-output"] value 0]
+        :set $publicIP $externalIP
+    }
 }
-
-:local pppIP [/ip address get [find interface="ISP2"] address]
-:local extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
-:if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
-    :set $publicIP $extractedIP
-}
-
-else={
-    # If no public IP from PPPoE, use external service to get public IP
-    /tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value
-    :local externalIP [:pick [find name="fetch-output"] value 0]
-    :set $publicIP $externalIP
-}
-
 # Log the detected public IP (optional)
 :log info "Public IP detected: $publicIP"
