@@ -14,15 +14,15 @@
     :local content [/file get $newScript contents]
     :set remoteVersion [:pick $content 10 13]
     :if ($remoteVersion > $localVersion) do={
-        :put "New version found: $remoteVersion. Updating script."
+        :log info "[DDNS] New version found: $remoteVersion. Updating script."
         /import file-name=$newScript
         :set localVersion $remoteVersion
-        :put "Script updated to version $remoteVersion."
+        :log info "[DDNS] Script updated to version $remoteVersion."
     } else={
-        :put "No update required. Current version: $localVersion"
+        :log info "[DDNS] No update required. Current version: $localVersion"
     }
 } else={
-    :put "Failed to download the update script."
+    :log error "[DDNS] Failed to download the update script."
 }
 
 ######### detect public IP ##########
@@ -40,22 +40,23 @@
     } else={
         # If no public IP from PPPoE, use external service to get public IP
         /tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value
+        # :local newIp [:resolve myip.opendns.com server=208.67.222.222]
         :local externalIP [:pick [find name="fetch-output"] value 0]
         :set $publicIP $externalIP
     }
 }
-:log info "Public IP detected: $publicIP"
+:log info "[DDNS] Public IP detected: $publicIP"
 
 ########## Cloudflare API v4 DDNS ##########
 :global currentIp
-:local newIp [:resolve myip.opendns.com server=208.67.222.222]
+:local newIp $publicIP
 
 :if ($newIp != $currentIp) do={
-  :local cfToken "******"
-  :local cfZoneId "******"
-  :local cfDnsId "******"
-  :local dnsType "A"
-  :local dnsName "***.dc.diepxuan.io.vn"
+  :global cfToken
+  :global cfZoneId
+  :global cfDnsId
+  :global dnsType
+  :global dnsName
   :local dnsTTL "1"
   :local dnsProxied "false"
 
@@ -68,12 +69,25 @@
     :local response [/tool fetch http-method="put" url=$apiUrl http-header-field=$headers http-data=$payload as-value output=user]
 
     :if ($response->"status" = "finished") do={
-        :log info "DDNS: $dnsName changed $currentIp to $newIp"
+        :log info "[DDNS] $dnsName changed $currentIp to $newIp"
 
         # update $currentIp with the new one
         :set currentIp $newIp
     }
   } on-error {
-    :log error "DDNS: failed to change $dnsName IP $currentIp to $newIp"
+    :log error "[DDNS] failed to change $dnsName IP $currentIp to $newIp"
+  }
+}
+
+########## update Wireguard peers enpoint IP ##########
+foreach v in=[/interface/wireguard/peers find] do={
+  :local peerName [/interface/wireguard/peers get $v value-name=name]
+  :local peerHost [/interface/wireguard/peers get $v value-name=endpoint-address]
+  :local peerAddr [/interface/wireguard/peers get $v value-name=current-endpoint-address]
+  :local peerNewAddr [:resolve $peerHost]
+  :if ($peerAddr != $peerNewAddr) do={
+    :log info "DDNS: Peer [$peerName] $peerHost - $peerAddr => $peerNewAddr"
+    /interface/wireguard/peers set $v endpoint-address="$peerHost"
+    # /interface/wireguard/peers set $v current-endpoint-address="$peerNewAddr"
   }
 }
