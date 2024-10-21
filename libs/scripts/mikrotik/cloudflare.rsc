@@ -1,15 +1,16 @@
-# Version: 0.2
+# Version: 0.3
 /ip address print
 /interface print
 
 ######### update scripts version ##########
-:local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
-:local localVersion "0.2"
+#:local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
+:local url "https://raw.githubusercontent.com/diepxuan/diepxuan.github.io/refs/heads/main/libs/scripts/mikrotik/cloudflare.rsc"
+:local localVersion "0.3"
 :local remoteVersion ""
 :local newScript "cloudflare.rsc"
 
-/tool fetch url=$url mode=http dst-path=$newScript
-:delay 5
+/tool fetch url=$url mode=https dst-path=$newScript
+#:delay 5
 :if ([file find name=$newScript] != "") do={
     :local content [/file get $newScript contents]
     :set remoteVersion [:pick $content 10 13]
@@ -33,19 +34,24 @@
 :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
     :set $publicIP $extractedIP
 } else={
-    :set pppIP [/ip address get [find interface="ISP2"] address]
-    :set extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
-    
-    :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
-        :set $publicIP $extractedIP
-    } else={
-        # If no public IP from PPPoE, use external service to get public IP
-        /tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value
-        # :local newIp [:resolve myip.opendns.com server=208.67.222.222]
-        :local externalIP [:pick [find name="fetch-output"] value 0]
-        :set $publicIP $externalIP
-    }
+  :set pppIP [/ip address get [find interface="ISP2"] address]
+  :set extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
+  :if ($publicIP = "" && [:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
+      :set $publicIP $extractedIP
+  } else={
+    :local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
+    :set $publicIP $externalIP
+  }
 }
+
+:if ($publicIP = "") do={
+  #/tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value
+  #:local externalIP [:pick [find name="fetch-output"] value 0]
+  #:local externalIP [:resolve myip.opendns.com server=208.67.222.222]
+  :local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
+  :set $publicIP $externalIP
+}
+
 :log info "[DDNS] Public IP detected: $publicIP"
 
 ########## Cloudflare API v4 DDNS ##########
