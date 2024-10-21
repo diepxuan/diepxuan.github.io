@@ -1,28 +1,35 @@
-# Version: 0.5
+# Version: 0.6
 
 ######### detect public IP ##########
 :local publicIP ""
 
-:local pppIP [/ip address get [find interface="ISP1"] address]
-:local extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
-:if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
-    :set $publicIP $extractedIP
-} else={
-  :set pppIP [/ip address get [find interface="ISP2"] address]
-  :set extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
-  :if ($publicIP = "" && [:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
+:local listName "WAN"
+:local interfaceMembers [/interface list member find where list=$listName]
+
+:foreach member in=$interfaceMembers do={
+  :local interfaceName [/interface list member get $member interface]
+  :local running [/interface get $interfaceName running]
+
+  :if ($running && $publicIP = "") do={
+    :local pppIP [/ip address get [find interface=$interfaceName] address]
+    :local extractedIP [:pick $pppIP 0 [:find $pppIP "/"]]
+    :if ([:len $extractedIP] > 0 && [:pick $extractedIP 0 3] != "10." && [:pick $extractedIP 0 4] != "192." && [:pick $extractedIP 0 8] != "172.16.") do={
       :set $publicIP $extractedIP
-  } else={
-    :local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
-    :set $publicIP $externalIP
+    }
   }
 }
 
 :if ($publicIP = "") do={
-  #/tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value
-  #:local externalIP [:pick [find name="fetch-output"] value 0]
-  #:local externalIP [:resolve myip.opendns.com server=208.67.222.222]
-  #:local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
+  :local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
+  :set $publicIP $externalIP
+}
+
+:if ($publicIP = "") do={
+  :local externalIP [:resolve myip.opendns.com server=208.67.222.222]
+  :set $publicIP $externalIP
+}
+
+:if ($publicIP = "") do={
   :local response [/tool fetch url="http://ifconfig.me/ip" mode=http output=user as-value]
   :if ($response->"status" = "finished") do={
     :set $publicIP ($response->"data")
@@ -53,10 +60,10 @@
     :local response [/tool fetch http-method="put" url=$apiUrl http-header-field=$headers http-data=$payload as-value output=user]
 
     :if ($response->"status" = "finished") do={
-        :log info "[DDNS] $dnsName changed $currentIp to $newIp"
+      :log info "[DDNS] $dnsName changed $currentIp to $newIp"
 
-        # update $currentIp with the new one
-        :set currentIp $newIp
+      # update $currentIp with the new one
+      :set currentIp $newIp
     }
   } on-error {
     :log error "[DDNS] failed to change $dnsName IP $currentIp to $newIp"
@@ -81,7 +88,7 @@ foreach v in=[/interface/wireguard/peers find] do={
 ######### update scripts version ##########
 :local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
 #:local url "https://raw.githubusercontent.com/diepxuan/diepxuan.github.io/refs/heads/main/libs/scripts/mikrotik/cloudflare.rsc"
-:local localVersion "0.5"
+:local localVersion "0.6"
 :local remoteVersion ""
 :local newScript "cloudflare.rsc"
 
