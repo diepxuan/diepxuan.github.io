@@ -1,4 +1,4 @@
-# Version: 0.4
+# Version: 0.5
 
 ######### detect public IP ##########
 :local publicIP ""
@@ -79,25 +79,24 @@ foreach v in=[/interface/wireguard/peers find] do={
 }
 
 ######### update scripts version ##########
-#:local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
-:local url "https://raw.githubusercontent.com/diepxuan/diepxuan.github.io/refs/heads/main/libs/scripts/mikrotik/cloudflare.rsc"
-:local localVersion "0.4"
+:local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
+#:local url "https://raw.githubusercontent.com/diepxuan/diepxuan.github.io/refs/heads/main/libs/scripts/mikrotik/cloudflare.rsc"
+:local localVersion "0.5"
 :local remoteVersion ""
 :local newScript "cloudflare.rsc"
 
 /tool fetch url=$url mode=https dst-path=$newScript
-#:delay 5
 :if ([file find name=$newScript] != "") do={
-    :local content [/file get $newScript contents]
-    :set remoteVersion [:pick $content 10 13]
-    :if ($remoteVersion > $localVersion) do={
-        :log info "[DDNS] New version found: $remoteVersion. Updating script."
-        /import file-name=$newScript
-        :set localVersion $remoteVersion
-        :log info "[DDNS] Script updated to version $remoteVersion."
-    } else={
-        :log info "[DDNS] No update required. Current version: $localVersion"
-    }
+  :local content [/file get $newScript contents]
+  :set remoteVersion [:pick $content 11 14]
+  :if ($remoteVersion > $localVersion) do={
+    :log info "[DDNS] New version found: $remoteVersion. Updating script."
+    /import file-name=$newScript
+    :set localVersion $remoteVersion
+    :log info "[DDNS] Script updated to version $remoteVersion."
+  } else={
+    :log info "[DDNS] No update required. Current version: $localVersion"
+  }
 } else={
-    :log error "[DDNS] Failed to download the update script."
+  :log error "[DDNS] Failed to download the update script."
 }
