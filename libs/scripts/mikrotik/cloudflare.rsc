@@ -1,4 +1,4 @@
-# Version: 0.6
+# Version: 0.7
 
 ######### detect public IP ##########
 :local publicIP ""
@@ -20,13 +20,21 @@
 }
 
 :if ($publicIP = "") do={
-  :local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
-  :set $publicIP $externalIP
+  :do {
+    :local externalIP [:resolve whoami.cloudflare server=1.1.1.1]
+    :set $publicIP $externalIP
+  } on-error={
+    :log warning "Failed to resolve domain: whoami.cloudflare"
+  }
 }
 
 :if ($publicIP = "") do={
-  :local externalIP [:resolve myip.opendns.com server=208.67.222.222]
-  :set $publicIP $externalIP
+  :do {
+    :local externalIP [:resolve myip.opendns.com server=208.67.222.222]
+    :set $publicIP $externalIP
+  } on-error={
+    :log warning "Failed to resolve domain: myip.opendns.com"
+  }
 }
 
 :if ($publicIP = "") do={
@@ -88,7 +96,7 @@ foreach v in=[/interface/wireguard/peers find] do={
 ######### update scripts version ##########
 :local url "https://docs.diepxuan.com/libs/scripts/mikrotik/cloudflare.rsc"
 #:local url "https://raw.githubusercontent.com/diepxuan/diepxuan.github.io/refs/heads/main/libs/scripts/mikrotik/cloudflare.rsc"
-:local localVersion "0.6"
+:local localVersion "0.7"
 :local remoteVersion ""
 :local newScript "cloudflare.rsc"
 
