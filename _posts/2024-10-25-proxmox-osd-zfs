@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Create Ceph OSD over ZFS"
+categories: [Linux, Proxmox, OSD, ZFS]
+---
+
+How to Create Ceph OSD over ZFS
+---
+
+Tạo một khối ZFS mới (ví dụ: tank/osd0) để sử dụng làm OSD:
+```
+zfs create -V 2T rpool/osd0
+```bash
+Xác minh Khối ZFS đã Tạo
+Để đảm bảo rằng khối ZFS đã được tạo thành công, bạn có thể kiểm tra bằng lệnh sau:
+
+```bash
+zfs list
+```
+
+Đăng ký OSD với Ceph
+```bash
+ceph-volume lvm create --data /dev/zvol/rpool/osd0
+```
