@@ -11,9 +11,10 @@ Tạo một khối ZFS mới (ví dụ: tank/osd0) để sử dụng làm OSD:
 ```
 zfs create -V 2T rpool/osd0
 ```bash
+Option `-V 2T` cài đặt size cho khối ZFS nhằm fix lỗi `lsblk: /dev/zvol/rpool/osd0: not a block device`
+
 Xác minh Khối ZFS đã Tạo
 Để đảm bảo rằng khối ZFS đã được tạo thành công, bạn có thể kiểm tra bằng lệnh sau:
-
 ```bash
 zfs list
 ```
@@ -21,4 +22,29 @@ zfs list
 Đăng ký OSD với Ceph
 ```bash
 ceph-volume lvm create --data /dev/zvol/rpool/osd0
+```
+Tuỳ phiên bản Proxmox thì sẽ có vị trí keyring khác nhau, đôi khi sẽ gặp lỗi `auth: unable to find a keyring on /etc/pve/priv/ceph.client.bootstrap-osd.keyring: (2) No such file or directory`
+Để khắc phục lỗi này, bạn cần tạo keyring cho OSD bootstrap client.
+Kiểm tra và tạo thư mục
+```bash
+mkdir -p /etc/pve/priv
+mkdir -p /var/lib/ceph/bootstrap-osd/
+```
+Lấy thông tin keyring từ danh sánh
+```
+$ ceph auth ls
+...
+client.bootstrap-osd
+        key: AQA...DRA==
+        caps: [mon] allow profile bootstrap-osd
+...
+```
+Cấu hình và cài đặt keyring
+```bash
+ceph-authtool /etc/pve/priv/ceph.client.bootstrap-osd.keyring --create-keyring --gen-key -n client.bootstrap-osd
+ceph-authtool /etc/pve/priv/ceph.client.bootstrap-osd.keyring -n client.bootstrap-osd --add-key AQA...DRA==
+ceph-authtool /etc/pve/priv/ceph.client.bootstrap-osd.keyring -n client.bootstrap-osd --cap mon "allow profile bootstrap-osd"
+ceph-authtool /var/lib/ceph/bootstrap-osd/ceph.keyring --create-keyring --gen-key -n client.bootstrap-osd
+ceph-authtool /var/lib/ceph/bootstrap-osd/ceph.keyring -n client.bootstrap-osd --add-key AQA...DRA==
+ceph-authtool /var/lib/ceph/bootstrap-osd/ceph.keyring -n client.bootstrap-osd --cap mon "allow profile bootstrap-osd"
 ```
