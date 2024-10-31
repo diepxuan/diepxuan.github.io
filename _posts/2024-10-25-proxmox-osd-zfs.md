@@ -94,3 +94,44 @@ How to Create Ceph OSD over ZFS
    ```bash
    systemctl restart ceph.target
    ```
+
+### **NOTE**
+```bash
+ ceph-volume lvm create --data /dev/zvol/rpool/osd0
+Running command: /usr/bin/ceph-authtool --gen-print-key
+Running command: /usr/bin/ceph --cluster ceph --name client.bootstrap-osd --keyring /var/lib/ceph/bootstrap-osd/ceph.keyring -i - osd new 74208717-4437-4f61-8f95-8acefdf9d3ce
+Running command: vgcreate --force --yes ceph-cddba46d-e077-4c48-ab7d-00dde3466f05 /dev/zd0
+ stdout: Physical volume "/dev/zd0" successfully created.
+ stdout: Volume group "ceph-cddba46d-e077-4c48-ab7d-00dde3466f05" successfully created
+Running command: lvcreate --yes -l 127999 -n osd-block-74208717-4437-4f61-8f95-8acefdf9d3ce ceph-cddba46d-e077-4c48-ab7d-00dde3466f05
+ stdout: Logical volume "osd-block-74208717-4437-4f61-8f95-8acefdf9d3ce" created.
+Running command: /usr/bin/ceph-authtool --gen-print-key
+Running command: /usr/bin/mount -t tmpfs tmpfs /var/lib/ceph/osd/ceph-1
+--> Executable selinuxenabled not in PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Running command: /usr/bin/chown -h ceph:ceph /dev/ceph-cddba46d-e077-4c48-ab7d-00dde3466f05/osd-block-74208717-4437-4f61-8f95-8acefdf9d3ce
+Running command: /usr/bin/chown -R ceph:ceph /dev/dm-1
+Running command: /usr/bin/ln -s /dev/ceph-cddba46d-e077-4c48-ab7d-00dde3466f05/osd-block-74208717-4437-4f61-8f95-8acefdf9d3ce /var/lib/ceph/osd/ceph-1/block
+Running command: /usr/bin/ceph --cluster ceph --name client.bootstrap-osd --keyring /var/lib/ceph/bootstrap-osd/ceph.keyring mon getmap -o /var/lib/ceph/osd/ceph-1/activate.monmap
+ stderr: got monmap epoch 2
+--> Creating keyring file for osd.1
+Running command: /usr/bin/chown -R ceph:ceph /var/lib/ceph/osd/ceph-1/keyring
+Running command: /usr/bin/chown -R ceph:ceph /var/lib/ceph/osd/ceph-1/
+Running command: /usr/bin/ceph-osd --cluster ceph --osd-objectstore bluestore --mkfs -i 1 --monmap /var/lib/ceph/osd/ceph-1/activate.monmap --keyfile - --osd-data /var/lib/ceph/osd/ceph-1/ --osd-uuid 74208717-4437-4f61-8f95-8acefdf9d3ce --setuser ceph --setgroup ceph
+ stderr: 2024-10-31T09:18:22.295+0700 7e5ab9950840 -1 bluestore(/var/lib/ceph/osd/ceph-1//block) _read_bdev_label unable to decode label at offset 102: void bluestore_bdev_label_t::decode(ceph::buffer::v15_2_0::list::const_iterator&) decode past end of struct encoding: Malformed input [buffer:3]
+ stderr: 2024-10-31T09:18:22.295+0700 7e5ab9950840 -1 bluestore(/var/lib/ceph/osd/ceph-1//block) _read_bdev_label unable to decode label at offset 102: void bluestore_bdev_label_t::decode(ceph::buffer::v15_2_0::list::const_iterator&) decode past end of struct encoding: Malformed input [buffer:3]
+ stderr: 2024-10-31T09:18:22.295+0700 7e5ab9950840 -1 bluestore(/var/lib/ceph/osd/ceph-1//block) _read_bdev_label unable to decode label at offset 102: void bluestore_bdev_label_t::decode(ceph::buffer::v15_2_0::list::const_iterator&) decode past end of struct encoding: Malformed input [buffer:3]
+ stderr: 2024-10-31T09:18:22.296+0700 7e5ab9950840 -1 bluestore(/var/lib/ceph/osd/ceph-1/) _read_fsid unparsable uuid
+--> ceph-volume lvm prepare successful for: /dev/zd0
+Running command: /usr/bin/chown -R ceph:ceph /var/lib/ceph/osd/ceph-1
+Running command: /usr/bin/ceph-bluestore-tool --cluster=ceph prime-osd-dir --dev /dev/ceph-cddba46d-e077-4c48-ab7d-00dde3466f05/osd-block-74208717-4437-4f61-8f95-8acefdf9d3ce --path /var/lib/ceph/osd/ceph-1 --no-mon-config
+Running command: /usr/bin/ln -snf /dev/ceph-cddba46d-e077-4c48-ab7d-00dde3466f05/osd-block-74208717-4437-4f61-8f95-8acefdf9d3ce /var/lib/ceph/osd/ceph-1/block
+Running command: /usr/bin/chown -h ceph:ceph /var/lib/ceph/osd/ceph-1/block
+Running command: /usr/bin/chown -R ceph:ceph /dev/dm-1
+Running command: /usr/bin/chown -R ceph:ceph /var/lib/ceph/osd/ceph-1
+Running command: /usr/bin/systemctl enable ceph-volume@lvm-1-74208717-4437-4f61-8f95-8acefdf9d3ce
+ stderr: Created symlink /etc/systemd/system/multi-user.target.wants/ceph-volume@lvm-1-74208717-4437-4f61-8f95-8acefdf9d3ce.service → /lib/systemd/system/ceph-volume@.service.
+Running command: /usr/bin/systemctl enable --runtime ceph-osd@1
+Running command: /usr/bin/systemctl start ceph-osd@1
+--> ceph-volume lvm activate successful for osd ID: 1
+--> ceph-volume lvm create successful for: /dev/zd0
+```
