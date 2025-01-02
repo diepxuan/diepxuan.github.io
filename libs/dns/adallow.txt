@@ -36,3 +36,4 @@ a1-cube.vnpt-technology.vn
 cloud.uniview.com
 push.uniview.com
 easynvr.uniview.com
+ezcloud.uniview.com
