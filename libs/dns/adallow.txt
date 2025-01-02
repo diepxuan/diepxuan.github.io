@@ -35,3 +35,4 @@ a1-cube.vnpt-technology.vn
 ! Uniview camera
 cloud.uniview.com
 push.uniview.com
+easynvr.uniview.com
