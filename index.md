@@ -1,88 +1,88 @@
 ---
 layout: default
-title: Home
+title: Trang chủ
 permalink: /
 ---
 
-# Welcome to Điệp Xuân Documentation
+# Chào mừng đến với Tài liệu Điệp Xuân
 
-This website serves as the central documentation hub for Điệp Xuân Company, containing technical guides, company documents, and network infrastructure information.
+Trang web này là trung tâm tài liệu chính của Công ty TNHH Điệp Xuân, chứa các hướng dẫn kỹ thuật, tài liệu công ty và thông tin hạ tầng mạng.
 
-## 🚀 Quick Links
+## 🚀 Liên kết nhanh
 
-### 📄 Documents
-- [Company Documents](/documents/) - Important company files and manuals
-- [Internet Services Manual](/documents/WEBHD_INTERNET_UM_v1.0.docx) - Direct download
-- [Inventory Reports](/documents/TonKho/) - Stock tracking spreadsheets
+### 📄 Tài liệu
+- [Tài liệu Công ty](/documents/) - Các file và hướng dẫn quan trọng
+- [Hướng dẫn Dịch vụ Internet](/documents/WEBHD_INTERNET_UM_v1.0.docx) - Tải trực tiếp
+- [Báo cáo Tồn kho](/documents/TonKho/) - Theo dõi tồn kho
 
-### 📰 News & Articles
-- [Technical Blog](/news/) - Latest updates and guides
-- Recent posts about MikroTik, Windows, Proxmox, and more
+### 📰 Tin tức & Bài viết
+- [Blog Kỹ thuật](/news/) - Cập nhật và hướng dẫn mới nhất
+- Các bài viết về MikroTik, Windows, Proxmox, và nhiều hơn nữa
 
-### 🔧 Resources
-- [GitHub Organization](https://github.com/diepxuan) - Source code and projects
-- [Network Diagrams](#network-diagrams) - Infrastructure overview
+### 🔧 Tài nguyên
+- [Tổ chức GitHub](https://github.com/diepxuan) - Mã nguồn và dự án
+- [Sơ đồ Mạng](#sơ-đồ-mạng) - Tổng quan hạ tầng
 
-## 📊 Network Infrastructure
+## 📊 Hạ tầng Mạng
 
-### Network Overview
-Our infrastructure consists of multiple networks serving different purposes:
+### Tổng quan Mạng
+Hạ tầng của chúng tôi bao gồm nhiều mạng phục vụ các mục đích khác nhau:
 
-| Network | Purpose | IP Range |
-|---------|---------|----------|
-| VPN | Secure remote access | 10.20.1.0/24 |
-| Office LAN | Internal workstations | 192.168.1.0/24 |
-| Server Cluster | Virtualization hosts | 10.10.0.0/24 |
-| Virtual Network | VM communication | 10.0.0.0/24 |
+| Mạng | Mục đích | Dải IP |
+|------|----------|--------|
+| VPN | Truy cập từ xa an toàn | 10.20.1.0/24 |
+| Mạng LAN Văn phòng | Máy trạm nội bộ | 192.168.1.0/24 |
+| Cụm Máy chủ | Máy chủ ảo hóa | 10.10.0.0/24 |
+| Mạng Ảo | Giao tiếp giữa các VM | 10.0.0.0/24 |
 
-### Key Services
-- **Proxmox Cluster** - Virtualization platform (2 nodes)
-- **MikroTik Routers** - Network routing and firewall
-- **Various VMs** - DC, SQL, Portal, Immich, and more
+### Dịch vụ Chính
+- **Cụm Proxmox** - Nền tảng ảo hóa (2 node)
+- **Router MikroTik** - Định tuyến và tường lửa mạng
+- **Các VM khác nhau** - DC, SQL, Portal, Immich, và nhiều hơn nữa
 
-## 📈 Recent Updates
+## 📈 Cập nhật gần đây
 
-### Website Improvements
-- ✅ **Added Documents Section** - Company documents now accessible online
-- ✅ **New Navigation Menu** - Improved site navigation
-- ✅ **Responsive Design** - Mobile-friendly layout
-- ✅ **Better Organization** - All content in one place
+### Cải thiện Website
+- ✅ **Thêm mục Tài liệu** - Tài liệu công ty có thể truy cập trực tuyến
+- ✅ **Menu Điều hướng mới** - Cải thiện điều hướng trang web
+- ✅ **Thiết kế Đáp ứng** - Giao diện thân thiện với thiết bị di động
+- ✅ **Tổ chức tốt hơn** - Tất cả nội dung ở một nơi
 
-### Content Additions
-- Technical guides for network configuration
-- Company document repository
-- Infrastructure documentation
+### Nội dung mới
+- Hướng dẫn kỹ thuật cho cấu hình mạng
+- Kho lưu trữ tài liệu công ty
+- Tài liệu hạ tầng
 
-## 🛠️ Getting Started
+## 🛠️ Bắt đầu
 
-### For Employees
-1. **Access documents** via the [Documents](/documents/) section
-2. **Read technical guides** in the [News](/news/) section
-3. **Download files** directly from document pages
+### Cho Nhân viên
+1. **Truy cập tài liệu** qua mục [Tài liệu](/documents/)
+2. **Đọc hướng dẫn kỹ thuật** trong mục [Tin tức](/news/)
+3. **Tải file** trực tiếp từ trang tài liệu
 
-### For Developers
-1. **View source code** on [GitHub](https://github.com/diepxuan)
-2. **Contribute documentation** via pull requests
-3. **Report issues** in the repository
+### Cho Nhà phát triển
+1. **Xem mã nguồn** trên [GitHub](https://github.com/diepxuan)
+2. **Đóng góp tài liệu** qua pull requests
+3. **Báo cáo lỗi** trong repository
 
-### For Administrators
-1. **Network diagrams** below for reference
-2. **Server documentation** in technical posts
-3. **Configuration guides** for various services
+### Cho Quản trị viên
+1. **Sơ đồ mạng** bên dưới để tham khảo
+2. **Tài liệu máy chủ** trong các bài viết kỹ thuật
+3. **Hướng dẫn cấu hình** cho các dịch vụ khác nhau
 
-## 🔗 External Resources
+## 🔗 Tài nguyên bên ngoài
 
-- [GitHub Organization](https://github.com/diepxuan)
-- [.github Repository](https://github.com/diepxuan/.github) - Organization templates
-- [Portal Project](https://github.com/diepxuan/portal) - Main application
+- [Tổ chức GitHub](https://github.com/diepxuan)
+- [Repository .github](https://github.com/diepxuan/.github) - Templates tổ chức
+- [Dự án Portal](https://github.com/diepxuan/portal) - Ứng dụng chính
 
-## 📞 Contact & Support
+## 📞 Liên hệ & Hỗ trợ
 
-- **Website Issues**: Create GitHub issue
-- **Content Updates**: Submit pull request
-- **General Questions**: Contact IT department
+- **Sự cố Website**: Tạo issue trên GitHub
+- **Cập nhật Nội dung**: Gửi pull request
+- **Câu hỏi chung**: Liên hệ bộ phận IT
 
 ---
 
-*Last updated: 2026-02-21*  
+*Cập nhật lần cuối: 2026-02-21*  
 *Website: docs.diepxuan.com*
