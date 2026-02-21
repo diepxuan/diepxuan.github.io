@@ -1,65 +1,111 @@
 ---
 layout: default
-title: Tài liệu Công ty
+title: Văn bản Nội bộ
 permalink: /documents/
 ---
 
-# Tài liệu Công ty
+# 📋 Văn bản Nội bộ
 
-Kho lưu trữ tài liệu quan trọng của công ty Điệp Xuân, được phân loại theo mục đích sử dụng.
+Kho lưu trữ văn bản, báo cáo và tài liệu quản lý nội bộ của công ty Điệp Xuân.
 
-## 📂 Phân loại Tài liệu
+## 📁 Danh sách Văn bản
 
-### 📜 Văn bản Pháp luật
-Tài liệu liên quan đến quy định pháp lý, hợp đồng, và văn bản pháp quy.
+### 1. Báo cáo Tồn kho
+- **File**: [TonKho/20251130.xlsx](van-ban-noi-bo/TonKho/20251130.xlsx)
+- **Loại**: Bảng tính Microsoft Excel
+- **Dung lượng**: 53.8 KB
+- **Ngày**: 30 Tháng 11, 2025
+- **Mô tả**: Báo cáo theo dõi và quản lý tồn kho
+- **Tần suất**: Hàng tháng
+- **Phạm vi**: Toàn công ty
 
-**[Xem Văn bản Pháp luật →](/documents/van-ban-phap-luat/)**
+## 📊 Phân loại Nội bộ
 
-### 📋 Văn bản Nội bộ
-Tài liệu nội bộ, báo cáo, và tài liệu quản lý nội bộ.
+### 📈 Báo cáo Hoạt động
+- Báo cáo doanh thu
+- Báo cáo dự án
+- Báo cáo nhân sự
+- Báo cáo tài chính
 
-**[Xem Văn bản Nội bộ →](/documents/van-ban-noi-bo/)**
+### 📋 Quy trình Nội bộ
+- Quy trình làm việc
+- Hướng dẫn nội bộ
+- Biểu mẫu và template
+- Checklist công việc
 
-## 📊 Thống kê Tài liệu
+### 🏢 Quản lý Tổ chức
+- Sơ đồ tổ chức
+- Mô tả công việc
+- Quy chế nội bộ
+- Chính sách nhân sự
 
-| Loại tài liệu | Số lượng | Dung lượng | Cập nhật gần nhất |
-|---------------|----------|------------|-------------------|
-| Văn bản Pháp luật | 1 | 1.05 MB | Chưa xác định |
-| Văn bản Nội bộ | 1 | 53.8 KB | 30/11/2025 |
+## 🔍 Truy cập và Sử dụng
 
-## 🔍 Hướng dẫn Sử dụng
+### Quyền truy cập
+- **Nội bộ**: Tất cả nhân viên
+- **Hạn chế**: Một số tài liệu chỉ dành cho cấp quản lý
+- **Bảo mật**: Không chia sẻ ra ngoài tổ chức
 
-### Tải tài liệu
-Nhấp vào liên kết tài liệu để tải file trực tiếp.
+### Cách sử dụng
+1. **Tải xuống**: Nhấp vào tên file
+2. **Chỉnh sửa**: Sử dụng template có sẵn
+3. **Nộp lại**: Theo quy trình nội bộ
+4. **Lưu trữ**: Đúng thư mục quy định
 
-### Xem trên GitHub
-Bạn cũng có thể duyệt tài liệu trên GitHub:
-- [Kho tài liệu trên GitHub](https://github.com/diepxuan/diepxuan.github.io/tree/main/documents)
+## 📝 Quy trình Quản lý
 
-### Lịch sử Phiên bản
-Tất cả tài liệu được quản lý phiên bản. Xem lịch sử thay đổi:
-```bash
-git log --oneline -- documents/
+### 1. Tạo mới Văn bản
+```
+1. Sử dụng template chuẩn
+2. Điền thông tin đầy đủ
+3. Phê duyệt nội bộ
+4. Phát hành chính thức
+5. Lưu trữ đúng vị trí
 ```
 
-## 📝 Hướng dẫn Đóng góp
+### 2. Cập nhật và Bảo trì
+- **Định kỳ**: Cập nhật hàng tháng/quý
+- **Phiên bản**: Quản lý version rõ ràng
+- **Lưu trữ**: Giữ lại phiên bản cũ
+- **Thông báo**: Thông báo thay đổi đến người liên quan
 
-1. **File nhị phân**: File Word và Excel được lưu nguyên bản để đảm bảo tương thích
-2. **Cập nhật**: Khi cập nhật tài liệu, commit cả file nhị phân và cập nhật trang này
-3. **Đặt tên**: Sử dụng tên mô tả với ngày tháng (định dạng YYYYMMDD)
-4. **Tổ chức**: Nhóm tài liệu liên quan vào thư mục con phù hợp
+### 3. Bảo mật và Phân quyền
+- **Cấp độ**: Phân loại theo mức độ bảo mật
+- **Truy cập**: Kiểm soát theo vai trò
+- **Theo dõi**: Log truy cập và sửa đổi
+- **Sao lưu**: Định kỳ và tự động
 
 ## 🚀 Cải tiến Dự kiến
 
-- [ ] Chuyển đổi tài liệu sang Markdown để xem trên web
-- [ ] Thêm chức năng xem trước tài liệu
-- [ ] Triển khai tìm kiếm tài liệu
-- [ ] Thêm metadata tài liệu (tác giả, phiên bản, trạng thái)
-- [ ] Tạo quy trình phê duyệt tài liệu
+- [ ] Hệ thống quản lý văn bản điện tử
+- [ ] Workflow phê duyệt tự động
+- [ ] Tích hợp với hệ thống ERP
+- [ ] Tìm kiếm nội dung văn bản
+- [ ] Thông báo tự động khi có văn bản mới
+- [ ] Phân tích và báo cáo sử dụng
 
-## 📞 Liên hệ
+## 📞 Liên hệ Quản lý
 
-Đối với câu hỏi về các tài liệu này, vui lòng liên hệ đội ngũ tài liệu.
+Đối với câu hỏi về văn bản nội bộ, vui lòng liên hệ:
+
+- **Bộ phận Hành chính**: hanhchinh@diepxuan.com
+- **Quản lý Tài liệu**: tailieu@diepxuan.com
+- **Điện thoại**: (024) 1234 5678 (máy lẻ 101)
+- **Giờ làm việc**: Thứ 2 - Thứ 6, 8:00 - 17:00
+
+## ⚠️ Lưu Ý Quan trọng
+
+### Quy tắc Sử dụng
+1. **Bảo mật**: Không chia sẻ tài liệu nội bộ ra ngoài
+2. **Cập nhật**: Luôn sử dụng phiên bản mới nhất
+3. **Tuân thủ**: Thực hiện đúng quy trình nội bộ
+4. **Phản hồi**: Báo cáo vấn đề hoặc đề xuất cải tiến
+
+### Trách nhiệm
+- **Người tạo**: Đảm bảo tính chính xác và đầy đủ
+- **Người phê duyệt**: Kiểm tra và xác nhận nội dung
+- **Người sử dụng**: Tuân thủ hướng dẫn và quy định
+- **Người quản lý**: Đảm bảo hệ thống hoạt động hiệu quả
 
 ---
 
