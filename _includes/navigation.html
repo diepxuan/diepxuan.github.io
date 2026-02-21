@@ -1,35 +1,35 @@
 <nav class="site-nav">
   <div class="nav-container">
     <a href="{{ '/' | relative_url }}" class="nav-logo">
-      Điệp Xuân Docs
+      Tài liệu Điệp Xuân
     </a>
     
     <div class="nav-menu">
       <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' %}active{% endif %}">
-        Home
+        Trang chủ
       </a>
       
       <a href="{{ '/news/' | relative_url }}" class="nav-item {% if page.url contains '/news/' %}active{% endif %}">
-        News
+        Tin tức
       </a>
       
       <a href="{{ '/documents/' | relative_url }}" class="nav-item {% if page.url contains '/documents/' %}active{% endif %}">
-        Documents
+        Tài liệu
       </a>
       
       <div class="nav-dropdown">
         <a href="#" class="nav-item">
-          Resources
+          Tài nguyên
         </a>
         <div class="dropdown-content">
           <a href="https://github.com/diepxuan" target="_blank" class="dropdown-item">
             GitHub
           </a>
           <a href="https://github.com/diepxuan/diepxuan.github.io" target="_blank" class="dropdown-item">
-            Source Code
+            Mã nguồn
           </a>
           <a href="{{ '/documents/' | relative_url }}" class="dropdown-item">
-            Company Docs
+            Tài liệu Công ty
           </a>
         </div>
       </div>
