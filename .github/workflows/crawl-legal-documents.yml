@@ -63,7 +63,7 @@ class VietnameseLegalCrawler:
             'moj': 'https://moj.gov.vn'
         }
         
-        self.output_dir = 'documents/van-ban-phap-luat/crawled'
+        self.output_dir = 'van-ban/crawled'
         os.makedirs(self.output_dir, exist_ok=True)
         
         self.session = requests.Session()
@@ -380,6 +380,6 @@ EOF
       with:
         name: crawled-legal-documents
         path: |
-          documents/van-ban-phap-luat/crawled/
+          van-ban/crawled/
           scripts/crawl-legal-documents.py
         retention-days: 7
