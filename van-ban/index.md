@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Văn bản Pháp luật
-permalink: /documents/van-ban-phap-luat/
+permalink: /van-ban/
 ---
 
 # 📜 Văn bản Pháp luật
