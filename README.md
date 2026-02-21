@@ -102,3 +102,34 @@ style Slave fill:none
 style Server fill:none
 style SDN fill:none
 ```
+
+---
+
+# 📄 Company Documents
+
+This website now includes a **Documents** section containing important company files:
+
+## Available Documents
+
+### User Manuals
+- **Internet Services Manual** (`/documents/WEBHD_INTERNET_UM_v1.0.docx`) - Complete guide for Internet services
+
+### Inventory & Reports
+- **Inventory Report** (`/documents/TonKho/20251130.xlsx`) - Stock tracking spreadsheet (Nov 2025)
+
+## Access Documents
+
+- **Web Interface**: Visit https://docs.diepxuan.com/documents/
+- **Direct Links**: Click on document names above to download
+- **Git Repository**: All documents are version-controlled in the `documents/` directory
+- **Domain**: docs.diepxuan.com (primary website domain)
+
+## Document Management
+
+- **Location**: All documents are stored in `/documents/` directory
+- **Version Control**: Git-tracked for change history
+- **Future Plans**: Convert to Markdown for better web viewing
+
+---
+
+*Website last updated: 2026-02-21*
