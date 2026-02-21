@@ -11,12 +11,13 @@ Cập nhật mới nhất, hướng dẫn và tài liệu kỹ thuật từ đ�
 ## 📰 Bài viết gần đây
 
 {% for post in site.posts %}
-<div class="post-preview">
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p class="post-meta">{{ post.date | date: "%d %B, %Y" }}</p>
-  <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-  <a href="{{ post.url }}" class="read-more">Đọc thêm →</a>
-</div>
+### [{{ post.title }}]({{ post.url }})
+*{{ post.date | date: "%d %B, %Y" }}*
+
+{{ post.excerpt | strip_html | truncatewords: 50 }}
+
+[Đọc thêm →]({{ post.url }})
+
 {% endfor %}
 
 ## 📁 Danh mục
@@ -40,26 +41,10 @@ Cập nhật mới nhất, hướng dẫn và tài liệu kỹ thuật từ đ�
 
 Duyệt theo danh mục hoặc sử dụng bảng mục lục bên dưới:
 
-<div class="posts-table">
-  <table>
-    <thead>
-      <tr>
-        <th>Bài viết</th>
-        <th>Ngày</th>
-        <th>Danh mục</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for post in site.posts %}
-      <tr>
-        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-        <td>{{ post.date | date: "%d-%m-%Y" }}</td>
-        <td>{{ post.categories | join: ", " }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
+| Bài viết | Ngày | Danh mục |
+|----------|------|----------|
+{% for post in site.posts %}| [{{ post.title }}]({{ post.url }}) | {{ post.date | date: "%d-%m-%Y" }} | {{ post.categories | join: ", " }} |
+{% endfor %}
 
 ## 📝 Đóng góp
 
