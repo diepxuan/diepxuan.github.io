@@ -5,7 +5,7 @@
     "url":"https:\/\/vanban.chinhphu.vn\/he-thong-van-ban?classid=0&mode=1&maxresults=50",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.975956"
+    "crawled_at":"2026-02-21T23:48:34.542142"
   },
   {
     "source":"vanban_chinhphu",
@@ -13,7 +13,7 @@
     "url":"https:\/\/vanban.chinhphu.vn\/he-thong-van-ban?classid=1&mode=1",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976016"
+    "crawled_at":"2026-02-21T23:48:34.542204"
   },
   {
     "source":"vanban_chinhphu",
@@ -21,7 +21,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=1",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976042"
+    "crawled_at":"2026-02-21T23:48:34.542221"
   },
   {
     "source":"vanban_chinhphu",
@@ -29,7 +29,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=2",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976057"
+    "crawled_at":"2026-02-21T23:48:34.542241"
   },
   {
     "source":"vanban_chinhphu",
@@ -37,7 +37,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=3",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976068"
+    "crawled_at":"2026-02-21T23:48:34.542254"
   },
   {
     "source":"vanban_chinhphu",
@@ -45,7 +45,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=4",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976078"
+    "crawled_at":"2026-02-21T23:48:34.542266"
   },
   {
     "source":"vanban_chinhphu",
@@ -53,7 +53,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=5",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976087"
+    "crawled_at":"2026-02-21T23:48:34.542277"
   },
   {
     "source":"vanban_chinhphu",
@@ -61,7 +61,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=6",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976101"
+    "crawled_at":"2026-02-21T23:48:34.542293"
   },
   {
     "source":"vanban_chinhphu",
@@ -69,7 +69,7 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=1",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976112"
+    "crawled_at":"2026-02-21T23:48:34.542305"
   },
   {
     "source":"vanban_chinhphu",
@@ -77,6 +77,6 @@
     "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=2",
     "document_number":null,
     "issue_date":null,
-    "crawled_at":"2026-02-21T17:42:31.976122"
+    "crawled_at":"2026-02-21T23:48:34.542316"
   }
 ]

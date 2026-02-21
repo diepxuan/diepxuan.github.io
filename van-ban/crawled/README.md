@@ -1,6 +1,6 @@
 # Vietnamese Legal Documents (Automatically Collected)
 
-*Last updated: 2026-02-21 17:42:38*
+*Last updated: 2026-02-21 23:48:40*
 
 ## Statistics
 - **Total documents**: 10
@@ -13,43 +13,43 @@
 
 #### Văn bản mới
 - **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=0&mode=1&maxresults=50
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Văn bản quy phạm pháp luật
 - **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Quốc hội
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=1
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Chính phủ
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=2
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Thủ tướng Chính phủ
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=3
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Bộ/Cơ quan ngang bộ
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=4
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Liên bộ
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=5
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### UBND tỉnh/thành phố
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=6
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Hiến pháp
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=1
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 #### Sắc lệnh - Sắc luật
 - **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=2
-- **Crawled at**: 2026-02-21T17:42:31
+- **Crawled at**: 2026-02-21T23:48:34
 
 
 ## Configuration
