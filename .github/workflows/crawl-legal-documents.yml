@@ -5,6 +5,12 @@ on:
     # Chạy hàng tuần vào thứ 2 lúc 2:00 AM UTC (9:00 AM GMT+7)
     - cron: '0 2 * * 1'
   workflow_dispatch:  # Cho phép chạy thủ công
+    inputs:
+      test_mode:
+        description: 'Run in test mode (limited requests)'
+        required: false
+        default: 'false'
+        type: boolean
   push:
     branches:
       - main
@@ -63,7 +69,7 @@ class VietnameseLegalCrawler:
             'moj': 'https://moj.gov.vn'
         }
         
-        self.output_dir = 'documents/van-ban-phap-luat/crawled'
+        self.output_dir = 'van-ban/crawled'
         os.makedirs(self.output_dir, exist_ok=True)
         
         self.session = requests.Session()
@@ -380,6 +386,6 @@ EOF
       with:
         name: crawled-legal-documents
         path: |
-          documents/van-ban-phap-luat/crawled/
+          van-ban/crawled/
           scripts/crawl-legal-documents.py
         retention-days: 7
