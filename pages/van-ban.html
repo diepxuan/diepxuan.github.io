@@ -13,19 +13,19 @@ Trang tổng hợp văn bản pháp luật Việt Nam, bao gồm văn bản côn
 ### 📋 Văn bản Công ty
 Văn bản pháp lý của công ty Điệp Xuân, bao gồm hợp đồng, quy định và tài liệu pháp quy.
 
-**[Xem Văn bản Công ty →](/documents/van-ban-phap-luat/)**
+**[Xem Văn bản Công ty →](/van-ban/)**
 
 ### 🏛️ Văn bản Pháp luật Nhà nước
 Văn bản pháp luật được thu thập tự động từ các cơ quan nhà nước.
 
-**[Xem Văn bản Thu thập Tự động →](/documents/van-ban-phap-luat/crawled/)**
+**[Xem Văn bản Thu thập Tự động →](/van-ban/crawled/)**
 
 ## 📊 Thống kê Văn bản
 
 ### Văn bản Công ty
 | Văn bản | Loại | Dung lượng | Cập nhật |
 |---------|------|------------|----------|
-| [Hướng dẫn Dịch vụ Internet](/documents/van-ban-phap-luat/WEBHD_INTERNET_UM_v1.0.docx) | Word (.docx) | 1.05 MB | Chưa xác định |
+| [Hướng dẫn Dịch vụ Internet](/van-ban/WEBHD_INTERNET_UM_v1.0.docx) | Word (.docx) | 1.05 MB | Chưa xác định |
 
 ### Văn bản Thu thập Tự động
 *Dữ liệu được cập nhật hàng tuần thông qua GitHub Actions*
@@ -36,9 +36,9 @@ Văn bản pháp luật được thu thập tự động từ các cơ quan nhà
 
 ```
 /van-ban/                          # Trang tổng hợp này
-├── /documents/van-ban-phap-luat/  # Văn bản Công ty
+├── /van-ban/                      # Văn bản Công ty
 │   └── WEBHD_INTERNET_UM_v1.0.docx
-└── /documents/van-ban-phap-luat/crawled/  # Văn bản tự động
+└── /van-ban/crawled/              # Văn bản tự động
     ├── legal_documents.json
     ├── legal_documents.csv
     └── README.md
@@ -78,7 +78,7 @@ Văn bản pháp luật được tự động thu thập hàng tuần từ:
 4. **Phê duyệt PR**: Khi crawler phát hiện văn bản mới
 
 ### Cho Nhà phát triển
-1. **API Access**: `GET /documents/van-ban-phap-luat/crawled/legal_documents.json`
+1. **API Access**: `GET /van-ban/crawled/legal_documents.json`
 2. **Web Integration**: Load JSON và hiển thị trên frontend
 3. **Extend crawler**: Thêm nguồn dữ liệu mới trong script
 4. **Monitor**: GitHub Actions dashboard và logs
