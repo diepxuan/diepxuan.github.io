@@ -1,58 +1,58 @@
-# Company Documents
+# Tài liệu Công ty
 
-This section contains important company documents and files.
+Phần này chứa các tài liệu và file quan trọng của công ty.
 
-## 📁 Document Structure
+## 📁 Cấu trúc Tài liệu
 
 ```
 documents/
-├── WEBHD_INTERNET_UM_v1.0.docx    # User Manual (Internet Services)
-├── TonKho/20251130.xlsx           # Inventory Report (30 Nov 2025)
-├── README.md                      # Original repository README
-└── index.md                       # Original Jekyll homepage
+├── WEBHD_INTERNET_UM_v1.0.docx    # Hướng dẫn Sử dụng (Dịch vụ Internet)
+├── TonKho/20251130.xlsx           # Báo cáo Tồn kho (30 Tháng 11 2025)
+├── README.md                      # README repository gốc
+└── index.md                       # Trang chủ Jekyll gốc
 ```
 
-## 📄 File Details
+## 📄 Chi tiết File
 
 ### 1. WEBHD_INTERNET_UM_v1.0.docx
-- **Type**: Microsoft Word Document
-- **Size**: 1.05 MB
-- **Content**: User manual for Internet services
-- **Last Updated**: Unknown
-- **Access**: Download and open with Microsoft Word or compatible software
+- **Loại**: Tài liệu Microsoft Word
+- **Kích thước**: 1.05 MB
+- **Nội dung**: Hướng dẫn sử dụng cho dịch vụ Internet
+- **Cập nhật lần cuối**: Không xác định
+- **Truy cập**: Tải về và mở bằng Microsoft Word hoặc phần mềm tương thích
 
 ### 2. TonKho/20251130.xlsx
-- **Type**: Microsoft Excel Spreadsheet
-- **Size**: 53.8 KB
-- **Content**: Inventory report dated 30 November 2025
-- **Last Updated**: 30 Nov 2025
-- **Access**: Download and open with Microsoft Excel or compatible software
+- **Loại**: Bảng tính Microsoft Excel
+- **Kích thước**: 53.8 KB
+- **Nội dung**: Báo cáo tồn kho ngày 30 Tháng 11 2025
+- **Cập nhật lần cuối**: 30 Tháng 11 2025
+- **Truy cập**: Tải về và mở bằng Microsoft Excel hoặc phần mềm tương thích
 
-## 🔗 How to Access
+## 🔗 Cách Truy cập
 
-### Direct Download
+### Tải trực tiếp
 - [WEBHD_INTERNET_UM_v1.0.docx](WEBHD_INTERNET_UM_v1.0.docx)
 - [TonKho/20251130.xlsx](TonKho/20251130.xlsx)
 
-### Git History
-All documents are version-controlled using Git. You can view change history:
+### Lịch sử Git
+Tất cả tài liệu được kiểm soát phiên bản bằng Git. Bạn có thể xem lịch sử thay đổi:
 ```bash
 git log --oneline -- documents/
 ```
 
-## 📝 Notes
-- These documents are for internal company use
-- Binary files (Word/Excel) are stored as-is for compatibility
-- Consider converting to Markdown/PDF for better web viewing in the future
-- Regular updates should be committed to maintain current versions
+## 📝 Ghi chú
+- Các tài liệu này dành cho sử dụng nội bộ công ty
+- File nhị phân (Word/Excel) được lưu trữ nguyên bản để tương thích
+- Xem xét chuyển đổi sang Markdown/PDF để xem tốt hơn trên web trong tương lai
+- Cập nhật thường xuyên nên được commit để duy trì phiên bản hiện tại
 
-## 🚀 Future Improvements
-1. Convert documents to Markdown for web viewing
-2. Add document metadata (author, version, date)
-3. Implement document search functionality
-4. Add document categories and tags
-5. Create web-based document viewer
+## 🚀 Cải thiện Tương lai
+1. Chuyển đổi tài liệu sang Markdown để xem trên web
+2. Thêm metadata tài liệu (tác giả, phiên bản, ngày)
+3. Triển khai chức năng tìm kiếm tài liệu
+4. Thêm danh mục và thẻ cho tài liệu
+5. Tạo trình xem tài liệu trên web
 
 ---
 
-*Last updated: 2026-02-21*
+*Cập nhật lần cuối: 2026-02-21*

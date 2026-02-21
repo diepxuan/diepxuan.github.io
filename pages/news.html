@@ -1,66 +1,66 @@
 ---
 layout: default
-title: News
+title: Tin tức
 permalink: /news/
 ---
 
-# Technical News & Articles
+# Tin tức Kỹ thuật & Bài viết
 
-Latest updates, guides, and technical documentation from the Điệp Xuân team.
+Cập nhật mới nhất, hướng dẫn và tài liệu kỹ thuật từ đội ngũ Điệp Xuân.
 
-## 📰 Recent Posts
+## 📰 Bài viết gần đây
 
 {% for post in site.posts %}
 ### [{{ post.title }}]({{ post.url }})
-*{{ post.date | date: "%B %d, %Y" }}*
+*{{ post.date | date: "%d %B, %Y" }}*
 
 {{ post.excerpt | strip_html | truncatewords: 50 }}
 
-[Read more →]({{ post.url }})
+[Đọc thêm →]({{ post.url }})
 
 {% endfor %}
 
-## 📁 Categories
+## 📁 Danh mục
 
-### Networking
-- MikroTik configuration
-- VPN and remote access
-- Network security
+### Mạng
+- Cấu hình MikroTik
+- VPN và truy cập từ xa
+- Bảo mật mạng
 
-### System Administration
-- Windows updates and management
-- Proxmox virtualization
-- Server maintenance
+### Quản trị Hệ thống
+- Cập nhật và quản lý Windows
+- Ảo hóa Proxmox
+- Bảo trì máy chủ
 
-### Development
-- Tools and workflows
-- Best practices
-- Technical guides
+### Phát triển
+- Công cụ và quy trình làm việc
+- Thực hành tốt nhất
+- Hướng dẫn kỹ thuật
 
-## 🔍 Search Posts
+## 🔍 Tìm kiếm Bài viết
 
-Browse by category or use the table of contents below:
+Duyệt theo danh mục hoặc sử dụng bảng mục lục bên dưới:
 
-| Post | Date | Category |
-|------|------|----------|
-{% for post in site.posts %}| [{{ post.title }}]({{ post.url }}) | {{ post.date | date: "%Y-%m-%d" }} | {{ post.categories | join: ", " }} |
+| Bài viết | Ngày | Danh mục |
+|----------|------|----------|
+{% for post in site.posts %}| [{{ post.title }}]({{ post.url }}) | {{ post.date | date: "%d-%m-%Y" }} | {{ post.categories | join: ", " }} |
 {% endfor %}
 
-## 📝 Contributing
+## 📝 Đóng góp
 
-Want to contribute an article?
+Muốn đóng góp một bài viết?
 
-1. Fork the [repository](https://github.com/diepxuan/diepxuan.github.io)
-2. Add your post to `_posts/` directory
-3. Follow the naming convention: `YYYY-MM-DD-title.md`
-4. Submit a pull request
+1. Fork [repository](https://github.com/diepxuan/diepxuan.github.io)
+2. Thêm bài viết của bạn vào thư mục `_posts/`
+3. Theo quy ước đặt tên: `YYYY-MM-DD-tiêu-đề.md`
+4. Gửi pull request
 
-## 📬 Stay Updated
+## 📬 Cập nhật
 
-- Check this page regularly for new posts
-- Subscribe to repository updates on GitHub
-- Contact authors for specific questions
+- Kiểm tra trang này thường xuyên cho các bài viết mới
+- Theo dõi cập nhật repository trên GitHub
+- Liên hệ tác giả cho các câu hỏi cụ thể
 
 ---
 
-*News archive - All technical documentation and guides*
+*Lưu trữ tin tức - Tất cả tài liệu và hướng dẫn kỹ thuật*
