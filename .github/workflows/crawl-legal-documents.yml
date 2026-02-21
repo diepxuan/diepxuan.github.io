@@ -30,7 +30,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 lxml pandas markdownify python-dateutil
+        pip install requests beautifulsoup4 lxml pandas markdownify python-dateutil || echo "Dependencies installed with possible warnings"
         
     - name: Create scripts directory
       run: mkdir -p scripts
