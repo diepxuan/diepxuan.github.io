@@ -2,9 +2,15 @@ name: Crawl Vietnamese Legal Documents
 
 on:
   schedule:
-    # Chạy hàng tuần vào thứ 2 lúc 2:00 AM UTC (9:00 AM GMT+7)
+    # Run weekly on Monday at 2:00 AM UTC (9:00 AM GMT+7)
     - cron: '0 2 * * 1'
-  workflow_dispatch:  # Cho phép chạy thủ công
+  workflow_dispatch:  # Allow manual run
+    inputs:
+      test_mode:
+        description: 'Run in test mode (limited requests)'
+        required: false
+        default: 'false'
+        type: boolean
   push:
     branches:
       - main
@@ -32,345 +38,73 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4 lxml pandas markdownify python-dateutil || echo "Dependencies installed with possible warnings"
         
-    - name: Create scripts directory
-      run: mkdir -p scripts
-    
-    - name: Create crawler script
-      run: |
-        cat > scripts/crawl-legal-documents.py << 'EOF'
-#!/usr/bin/env python3
-"""
-Crawler for Vietnamese Legal Documents
-Crawls legal documents from various Vietnamese government sources
-"""
-
-import os
-import json
-import requests
-import pandas as pd
-from datetime import datetime
-from bs4 import BeautifulSoup
-from markdownify import markdownify
-from dateutil import parser
-import time
-import re
-
-class VietnameseLegalCrawler:
-    def __init__(self):
-        self.base_urls = {
-            'vanban_chinhphu': 'https://vanban.chinhphu.vn',
-            'thuvienphapluat': 'https://thuvienphapluat.vn',
-            'moj': 'https://moj.gov.vn'
-        }
-        
-        self.output_dir = 'van-ban/crawled'
-        os.makedirs(self.output_dir, exist_ok=True)
-        
-        self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'vi,en-US;q=0.9,en;q=0.8',
-            'Accept-Encoding': 'gzip, deflate, br',
-        })
-    
-    def crawl_vanban_chinhphu(self):
-        """Crawl documents from vanban.chinhphu.vn"""
-        print("Crawling vanban.chinhphu.vn...")
-        
-        try:
-            # URL for latest documents
-            url = f"{self.base_urls['vanban_chinhphu']}/portal/page/portal/chinhphu/hethongvanban"
-            response = self.session.get(url, timeout=30)
-            response.raise_for_status()
-            
-            soup = BeautifulSoup(response.content, 'html.parser')
-            documents = []
-            
-            # Find document links (adjust selector based on actual site structure)
-            doc_links = soup.select('a[href*="vanban"]')
-            
-            for link in doc_links[:10]:  # Limit to 10 documents for testing
-                doc_url = link.get('href')
-                if doc_url and not doc_url.startswith('http'):
-                    doc_url = f"{self.base_urls['vanban_chinhphu']}{doc_url}"
-                
-                doc_title = link.get_text(strip=True)
-                
-                if doc_title and doc_url:
-                    documents.append({
-                        'source': 'vanban_chinhphu',
-                        'title': doc_title,
-                        'url': doc_url,
-                        'crawled_at': datetime.now().isoformat()
-                    })
-            
-            return documents
-            
-        except Exception as e:
-            print(f"Error crawling vanban.chinhphu.vn: {e}")
-            return []
-    
-    def crawl_thuvienphapluat(self):
-        """Crawl documents from thuvienphapluat.vn"""
-        print("Crawling thuvienphapluat.vn...")
-        
-        try:
-            # Search for latest documents
-            search_url = f"{self.base_urls['thuvienphapluat']}/tim-van-ban"
-            params = {
-                'keyword': '',
-                'type': '0',
-                'status': '0',
-                'sort': '1'  # Sort by latest
-            }
-            
-            response = self.session.get(search_url, params=params, timeout=30)
-            response.raise_for_status()
-            
-            soup = BeautifulSoup(response.content, 'html.parser')
-            documents = []
-            
-            # Find document items (adjust selector)
-            doc_items = soup.select('.document-item, .vb-item')
-            
-            for item in doc_items[:10]:  # Limit to 10
-                title_elem = item.select_one('.title, .vb-title')
-                link_elem = item.select_one('a')
-                
-                if title_elem and link_elem:
-                    doc_title = title_elem.get_text(strip=True)
-                    doc_url = link_elem.get('href')
-                    
-                    if doc_url and not doc_url.startswith('http'):
-                        doc_url = f"{self.base_urls['thuvienphapluat']}{doc_url}"
-                    
-                    # Try to extract document number and date
-                    doc_number = self.extract_document_number(doc_title)
-                    doc_date = self.extract_document_date(item)
-                    
-                    documents.append({
-                        'source': 'thuvienphapluat',
-                        'title': doc_title,
-                        'url': doc_url,
-                        'document_number': doc_number,
-                        'issue_date': doc_date,
-                        'crawled_at': datetime.now().isoformat()
-                    })
-            
-            return documents
-            
-        except Exception as e:
-            print(f"Error crawling thuvienphapluat.vn: {e}")
-            return []
-    
-    def extract_document_number(self, title):
-        """Extract document number from title"""
-        # Pattern for Vietnamese document numbers: Số 123/2024/NĐ-CP
-        patterns = [
-            r'Số\s+(\d+/\d+/\S+)',
-            r'Số:\s+(\d+/\d+/\S+)',
-            r'(\d+/\d+/\S+)'
-        ]
-        
-        for pattern in patterns:
-            match = re.search(pattern, title)
-            if match:
-                return match.group(1)
-        
-        return None
-    
-    def extract_document_date(self, element):
-        """Extract document date from element"""
-        # Look for date elements
-        date_selectors = ['.date', '.vb-date', '.ngay-ban-hanh', 'time']
-        
-        for selector in date_selectors:
-            date_elem = element.select_one(selector)
-            if date_elem:
-                date_text = date_elem.get_text(strip=True)
-                try:
-                    # Try to parse date
-                    parsed_date = parser.parse(date_text, fuzzy=True)
-                    return parsed_date.isoformat()
-                except:
-                    pass
-        
-        return None
-    
-    def save_documents(self, documents):
-        """Save crawled documents to files"""
-        if not documents:
-            print("No documents to save")
-            return
-        
-        # Save as JSON
-        json_file = os.path.join(self.output_dir, 'legal_documents.json')
-        with open(json_file, 'w', encoding='utf-8') as f:
-            json.dump(documents, f, ensure_ascii=False, indent=2)
-        
-        # Save as CSV
-        csv_file = os.path.join(self.output_dir, 'legal_documents.csv')
-        df = pd.DataFrame(documents)
-        df.to_csv(csv_file, index=False, encoding='utf-8-sig')
-        
-        # Create markdown summary
-        self.create_markdown_summary(documents)
-        
-        print(f"Saved {len(documents)} documents to {self.output_dir}")
-    
-    def create_markdown_summary(self, documents):
-        """Create markdown summary of crawled documents"""
-        md_file = os.path.join(self.output_dir, 'README.md')
-        
-        with open(md_file, 'w', encoding='utf-8') as f:
-            f.write("# Tài liệu Pháp luật Việt Nam (Tự động thu thập)\n\n")
-            f.write(f"*Cập nhật lần cuối: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n\n")
-            
-            f.write("## 📊 Thống kê\n")
-            f.write(f"- **Tổng số văn bản**: {len(documents)}\n")
-            
-            # Group by source
-            sources = {}
-            for doc in documents:
-                source = doc['source']
-                sources[source] = sources.get(source, 0) + 1
-            
-            f.write("- **Phân bổ theo nguồn**:\n")
-            for source, count in sources.items():
-                f.write(f"  - {source}: {count} văn bản\n")
-            
-            f.write("\n## 📜 Danh sách Văn bản\n\n")
-            
-            # Group documents by source
-            grouped_docs = {}
-            for doc in documents:
-                source = doc['source']
-                if source not in grouped_docs:
-                    grouped_docs[source] = []
-                grouped_docs[source].append(doc)
-            
-            for source, docs in grouped_docs.items():
-                f.write(f"### Nguồn: {source}\n\n")
-                
-                for doc in docs:
-                    f.write(f"#### {doc['title']}\n")
-                    
-                    if doc.get('document_number'):
-                        f.write(f"- **Số hiệu**: {doc['document_number']}\n")
-                    
-                    if doc.get('issue_date'):
-                        issue_date = doc['issue_date'][:10]  # Just date part
-                        f.write(f"- **Ngày ban hành**: {issue_date}\n")
-                    
-                    f.write(f"- **URL**: [{doc['url']}]({doc['url']})\n")
-                    f.write(f"- **Thu thập lúc**: {doc['crawled_at'][:19]}\n\n")
-            
-            f.write("\n## 🔧 Cấu hình\n\n")
-            f.write("Tài liệu được tự động thu thập bởi GitHub Actions:\n")
-            f.write("- **Lịch trình**: Hàng tuần (thứ 2, 9:00 AM GMT+7)\n")
-            f.write("- **Nguồn dữ liệu**:\n")
-            f.write("  - vanban.chinhphu.vn\n")
-            f.write("  - thuvienphapluat.vn\n")
-            f.write("  - moj.gov.vn\n")
-            
-            f.write("\n## 📝 Ghi chú\n\n")
-            f.write("1. Dữ liệu được thu thập tự động, có thể không đầy đủ\n")
-            f.write("2. Kiểm tra link gốc để xem nội dung đầy đủ\n")
-            f.write("3. Báo cáo vấn đề tại repository GitHub\n")
-    
-    def run(self):
-        """Main execution method"""
-        print("Starting Vietnamese Legal Documents Crawler...")
-        print(f"Output directory: {self.output_dir}")
-        
-        all_documents = []
-        
-        # Crawl from multiple sources
-        all_documents.extend(self.crawl_vanban_chinhphu())
-        time.sleep(2)  # Be polite
-        
-        all_documents.extend(self.crawl_thuvienphapluat())
-        time.sleep(2)
-        
-        # Remove duplicates based on URL
-        unique_documents = []
-        seen_urls = set()
-        
-        for doc in all_documents:
-            if doc['url'] not in seen_urls:
-                seen_urls.add(doc['url'])
-                unique_documents.append(doc)
-        
-        print(f"Found {len(unique_documents)} unique documents")
-        
-        # Save documents
-        self.save_documents(unique_documents)
-        
-        print("Crawling completed successfully!")
-
-if __name__ == "__main__":
-    crawler = VietnameseLegalCrawler()
-    crawler.run()
-EOF
-        
-        chmod +x scripts/crawl-legal-documents.py
-    
     - name: Run crawler
-      run: python scripts/crawl-legal-documents.py
-      env:
-        # Add any required environment variables here
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      id: crawler
+      run: |
+        cd "$GITHUB_WORKSPACE"
+        TEST_MODE="${{ inputs.test_mode }}"
+        if [ "$TEST_MODE" = "true" ]; then
+          python scripts/crawl-legal-documents.py --test
+        else
+          python scripts/crawl-legal-documents.py
+        fi
     
     - name: Check for changes
-      id: git-check
+      id: check-changes
       run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
-        
-        if git diff --quiet; then
-          echo "No changes detected"
-          echo "has_changes=false" >> $GITHUB_OUTPUT
+        cd "$GITHUB_WORKSPACE"
+        if git status --porcelain | grep -q "van-ban/crawled/"; then
+          echo "changes=true" >> "$GITHUB_OUTPUT"
+          echo "Files changed in van-ban/crawled/"
+          git status --porcelain
         else
-          echo "Changes detected"
-          echo "has_changes=true" >> $GITHUB_OUTPUT
+          echo "changes=false" >> "$GITHUB_OUTPUT"
+          echo "No changes in van-ban/crawled/"
         fi
     
     - name: Commit and push changes
-      if: steps.git-check.outputs.has_changes == 'true'
+      if: steps.check-changes.outputs.changes == 'true'
       run: |
-        git add documents/van-ban-phap-luat/crawled/
-        git add scripts/crawl-legal-documents.py
-        git commit -m "docs: Update crawled legal documents [skip ci]"
-        git push origin HEAD:feat/legal-documents-crawler
+        cd "$GITHUB_WORKSPACE"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add van-ban/crawled/
+        git commit -m "chore: Update legal documents from automated crawl
+        
+        Automated update of Vietnamese legal documents.
+        
+        Generated by GitHub Actions workflow: ${{ github.workflow }}
+        Run ID: ${{ github.run_id }}"
+        git push origin main
     
     - name: Create Pull Request
-      if: steps.git-check.outputs.has_changes == 'true'
+      if: steps.check-changes.outputs.changes == 'true'
       uses: peter-evans/create-pull-request@v5
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        branch: feat/legal-documents-crawler
-        base: main
-        title: "docs: Update crawled Vietnamese legal documents"
+        commit-message: "chore: Update legal documents from automated crawl"
+        title: "chore: Update legal documents from automated crawl"
         body: |
-          ## Tự động cập nhật Tài liệu Pháp luật Việt Nam
+          ## Automated update of Vietnamese Legal Documents
           
-          GitHub Action đã tự động thu thập các văn bản pháp luật mới nhất từ:
-          - vanban.chinhphu.vn
-          - thuvienphapluat.vn
+          GitHub Action has automatically collected the latest legal documents from:
+          - vanban.chinhphu.vn (Government Documents)
+          - thuvienphapluat.vn (Legal Library)
           
-          ### Thay đổi:
-          - Cập nhật file JSON/CSV trong `documents/van-ban-phap-luat/crawled/`
-          - Cập nhật markdown summary
+          ### Changes:
+          - Updated JSON/CSV files in `van-ban/crawled/`
+          - Updated markdown summary
           
-          ### Lịch trình:
-          - Tự động chạy hàng tuần (thứ 2, 9:00 AM GMT+7)
-          - Có thể chạy thủ công từ GitHub Actions
+          ### Schedule:
+          - Automatically runs weekly (Monday, 9:00 AM GMT+7)
+          - Can be manually triggered from GitHub Actions
           
-          ### Files thay đổi:
+          ### Files changed:
           ```bash
-          git diff --name-only
+          git diff --name-only HEAD~1
           ```
+        branch: automated/legal-documents-update
+        base: main
         labels: automated, documentation, legal
         draft: false
     
