@@ -1,0 +1,82 @@
+[
+  {
+    "source":"vanban_chinhphu",
+    "title":"Văn bản mới",
+    "url":"https:\/\/vanban.chinhphu.vn\/he-thong-van-ban?classid=0&mode=1&maxresults=50",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.975956"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Văn bản quy phạm pháp luật",
+    "url":"https:\/\/vanban.chinhphu.vn\/he-thong-van-ban?classid=1&mode=1",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976016"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Quốc hội",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=1",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976042"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Chính phủ",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=2",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976057"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Thủ tướng Chính phủ",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=3",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976068"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Bộ\/Cơ quan ngang bộ",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=4",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976078"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Liên bộ",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=5",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976087"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"UBND tỉnh\/thành phố",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=6",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976101"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Hiến pháp",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=1",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976112"
+  },
+  {
+    "source":"vanban_chinhphu",
+    "title":"Sắc lệnh - Sắc luật",
+    "url":"https:\/\/vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=2",
+    "document_number":null,
+    "issue_date":null,
+    "crawled_at":"2026-02-21T17:42:31.976122"
+  }
+]
