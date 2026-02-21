@@ -1,14 +1,66 @@
 ---
-layout: news
+layout: default
 title: News
 permalink: /news/
-author: all
 ---
 
-{% for post in site.posts -%}
-  {% if forloop.index == 1 -%}
-    {% include news_item.html -%}
-  {% else -%}
-    {% include news_item_archive.html -%}
-  {% endif -%}
-{% endfor -%}
+# Technical News & Articles
+
+Latest updates, guides, and technical documentation from the Điệp Xuân team.
+
+## 📰 Recent Posts
+
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
+*{{ post.date | date: "%B %d, %Y" }}*
+
+{{ post.excerpt | strip_html | truncatewords: 50 }}
+
+[Read more →]({{ post.url }})
+
+{% endfor %}
+
+## 📁 Categories
+
+### Networking
+- MikroTik configuration
+- VPN and remote access
+- Network security
+
+### System Administration
+- Windows updates and management
+- Proxmox virtualization
+- Server maintenance
+
+### Development
+- Tools and workflows
+- Best practices
+- Technical guides
+
+## 🔍 Search Posts
+
+Browse by category or use the table of contents below:
+
+| Post | Date | Category |
+|------|------|----------|
+{% for post in site.posts %}| [{{ post.title }}]({{ post.url }}) | {{ post.date | date: "%Y-%m-%d" }} | {{ post.categories | join: ", " }} |
+{% endfor %}
+
+## 📝 Contributing
+
+Want to contribute an article?
+
+1. Fork the [repository](https://github.com/diepxuan/diepxuan.github.io)
+2. Add your post to `_posts/` directory
+3. Follow the naming convention: `YYYY-MM-DD-title.md`
+4. Submit a pull request
+
+## 📬 Stay Updated
+
+- Check this page regularly for new posts
+- Subscribe to repository updates on GitHub
+- Contact authors for specific questions
+
+---
+
+*News archive - All technical documentation and guides*
