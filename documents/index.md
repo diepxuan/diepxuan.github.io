@@ -1,69 +1,66 @@
 ---
 layout: default
-title: Company Documents
+title: Tài liệu Công ty
 permalink: /documents/
 ---
 
-# Company Documents
+# Tài liệu Công ty
 
-Welcome to the company documents repository. This section contains important documents and files for internal use.
+Kho lưu trữ tài liệu quan trọng của công ty Điệp Xuân, được phân loại theo mục đích sử dụng.
 
-## 📁 Available Documents
+## 📂 Phân loại Tài liệu
 
-### 1. Internet Services User Manual
-- **File**: [WEBHD_INTERNET_UM_v1.0.docx](WEBHD_INTERNET_UM_v1.0.docx)
-- **Type**: Microsoft Word Document
-- **Size**: 1.05 MB
-- **Description**: User manual for Internet services and configurations
+### 📜 Văn bản Pháp luật
+Tài liệu liên quan đến quy định pháp lý, hợp đồng, và văn bản pháp quy.
 
-### 2. Inventory Report
-- **File**: [TonKho/20251130.xlsx](TonKho/20251130.xlsx)
-- **Type**: Microsoft Excel Spreadsheet
-- **Size**: 53.8 KB
-- **Date**: 30 November 2025
-- **Description**: Inventory tracking and management report
+**[Xem Văn bản Pháp luật →](/documents/van-ban-phap-luat/)**
 
-## 📊 Document Statistics
+### 📋 Văn bản Nội bộ
+Tài liệu nội bộ, báo cáo, và tài liệu quản lý nội bộ.
 
-| Document | Type | Size | Last Updated |
-|----------|------|------|--------------|
-| WEBHD_INTERNET_UM_v1.0.docx | Word | 1.05 MB | Unknown |
-| 20251130.xlsx | Excel | 53.8 KB | 30 Nov 2025 |
+**[Xem Văn bản Nội bộ →](/documents/van-ban-noi-bo/)**
 
-## 🔍 How to Use
+## 📊 Thống kê Tài liệu
 
-### Download Documents
-Click on the document links above to download the files directly.
+| Loại tài liệu | Số lượng | Dung lượng | Cập nhật gần nhất |
+|---------------|----------|------------|-------------------|
+| Văn bản Pháp luật | 1 | 1.05 MB | Chưa xác định |
+| Văn bản Nội bộ | 1 | 53.8 KB | 30/11/2025 |
 
-### View on GitHub
-You can also browse the documents on GitHub:
-- [Documents Repository](https://github.com/diepxuan/diepxuan.github.io/tree/main/documents)
+## 🔍 Hướng dẫn Sử dụng
 
-### Version History
-All documents are version-controlled. View change history:
+### Tải tài liệu
+Nhấp vào liên kết tài liệu để tải file trực tiếp.
+
+### Xem trên GitHub
+Bạn cũng có thể duyệt tài liệu trên GitHub:
+- [Kho tài liệu trên GitHub](https://github.com/diepxuan/diepxuan.github.io/tree/main/documents)
+
+### Lịch sử Phiên bản
+Tất cả tài liệu được quản lý phiên bản. Xem lịch sử thay đổi:
 ```bash
 git log --oneline -- documents/
 ```
 
-## 📝 Notes for Contributors
+## 📝 Hướng dẫn Đóng góp
 
-1. **Binary Files**: Word and Excel files are stored as-is for compatibility
-2. **Updates**: When updating documents, commit both the binary file and update this page
-3. **Naming**: Use descriptive names with dates (YYYYMMDD format)
-4. **Organization**: Group related documents in subdirectories
+1. **File nhị phân**: File Word và Excel được lưu nguyên bản để đảm bảo tương thích
+2. **Cập nhật**: Khi cập nhật tài liệu, commit cả file nhị phân và cập nhật trang này
+3. **Đặt tên**: Sử dụng tên mô tả với ngày tháng (định dạng YYYYMMDD)
+4. **Tổ chức**: Nhóm tài liệu liên quan vào thư mục con phù hợp
 
-## 🚀 Planned Improvements
+## 🚀 Cải tiến Dự kiến
 
-- [ ] Convert documents to Markdown for web viewing
-- [ ] Add document preview functionality
-- [ ] Implement document search
-- [ ] Add document metadata (author, version, status)
-- [ ] Create document approval workflow
+- [ ] Chuyển đổi tài liệu sang Markdown để xem trên web
+- [ ] Thêm chức năng xem trước tài liệu
+- [ ] Triển khai tìm kiếm tài liệu
+- [ ] Thêm metadata tài liệu (tác giả, phiên bản, trạng thái)
+- [ ] Tạo quy trình phê duyệt tài liệu
 
-## 📞 Contact
+## 📞 Liên hệ
 
-For questions about these documents, please contact the documentation team.
+Đối với câu hỏi về các tài liệu này, vui lòng liên hệ đội ngũ tài liệu.
 
 ---
 
-*This page was last updated on 2026-02-21*
+*Trang này được cập nhật lần cuối vào 2026-02-21*
