@@ -11,7 +11,7 @@ Kho lưu trữ văn bản, báo cáo và tài liệu quản lý nội bộ của
 ## 📁 Danh sách Văn bản
 
 ### 1. Báo cáo Tồn kho
-- **File**: [TonKho/20251130.xlsx](van-ban-noi-bo/TonKho/20251130.xlsx)
+- **File**: [TonKho/20251130.xlsx](TonKho/20251130.xlsx)
 - **Loại**: Bảng tính Microsoft Excel
 - **Dung lượng**: 53.8 KB
 - **Ngày**: 30 Tháng 11, 2025
