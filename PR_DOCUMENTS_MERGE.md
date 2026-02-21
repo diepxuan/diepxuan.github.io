@@ -17,12 +17,20 @@ This PR merges the `vanban` repository content into the main `diepxuan.github.io
 - Direct download links
 - Usage guidelines
 
-### 3. **Updated Documentation**
+### 3. **Added Navigation & Layout**
+- `_includes/navigation.html` - Responsive navigation menu
+- `_layouts/default.html` - Modern website layout
+- `index.md` - New homepage with quick links
+- Updated `pages/news.html` - Improved post display
+- Mobile-responsive design
+- Company branding and colors
+
+### 4. **Updated Documentation**
 - Modified `README.md` with documents section
 - Added domain information (`docs.diepxuan.com`)
 - Clear access instructions
 
-### 4. **Fixed CNAME Conflict**
+### 5. **Fixed CNAME Conflict**
 - Removed duplicate `documents/CNAME` (`vanban.diepxuan.com`)
 - Kept only main `CNAME` (`docs.diepxuan.com`)
 - All content now accessible under single domain
@@ -42,14 +50,24 @@ This PR merges the `vanban` repository content into the main `diepxuan.github.io
 
 ```
 docs.diepxuan.com/
-├── /              # Network diagrams & documentation
-├── /news/         # Technical blog posts
+├── /              # Homepage with quick links & overview
+├── /news/         # Technical blog posts (updated layout)
 ├── /documents/    # Company documents (NEW)
 │   ├── WEBHD_INTERNET_UM_v1.0.docx
 │   ├── TonKho/20251130.xlsx
 │   ├── README_DOCUMENTS.md
 │   └── index.md
-└── (other pages)
+├── _layouts/      # Website layout (NEW)
+│   └── default.html
+├── _includes/     # Reusable components (NEW)
+│   ├── navigation.html
+│   ├── news_item.html
+│   └── news_item_archive.html
+├── assets/        # Static assets (NEW)
+│   └── favicon.ico
+└── pages/         # Website pages
+    ├── news.html
+    └── documents.html
 ```
 
 ## ✅ Benefits
@@ -88,8 +106,11 @@ docs.diepxuan.com/
 |--------|--------|-------|
 | Repositories | 3 | 2 |
 | Total Size | ~3.4MB | ~2.1MB |
-| Website Pages | 1 | 2 |
+| Website Pages | 1 | 3 (Home, News, Documents) |
 | Document Access | Separate repo | Integrated |
+| Navigation | None | Full responsive menu |
+| Layout | Default Jekyll | Custom modern design |
+| Mobile Support | Basic | Fully responsive |
 
 ## 🧪 Testing
 
@@ -98,6 +119,10 @@ docs.diepxuan.com/
 - [x] Download links work
 - [x] Navigation between pages works
 - [x] Domain resolves correctly (`docs.diepxuan.com`)
+- [x] Navigation menu works on all pages
+- [x] Responsive design works on mobile devices
+- [x] Homepage displays correctly
+- [x] News page shows all posts properly
 
 ### Automated Tests
 - GitHub Pages build passes
