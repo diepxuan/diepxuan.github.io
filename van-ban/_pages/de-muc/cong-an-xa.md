@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cong-an-xa/
 # Công an xã
 
 **Đề mục:** Công an xã  
-**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 39  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -406,7 +406,7 @@ permalink: /van-ban/de-muc/cong-an-xa/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

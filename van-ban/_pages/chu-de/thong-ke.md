@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/thong-ke/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Thống kê](/van-ban/de-muc/thong-ke/)**
+1. **[Thống kê]({{ site.baseurl }}/de-muc/thong-ke/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

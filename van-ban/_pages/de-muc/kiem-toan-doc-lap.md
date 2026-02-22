@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/kiem-toan-doc-lap/
 # Kiểm toán độc lập
 
 **Đề mục:** Kiểm toán độc lập  
-**Chủ đề:** [Kế toán, kiểm toán](/van-ban/chu-de/ke-toan-kiem-toan/)  
+**Chủ đề:** [Kế toán, kiểm toán]({{ site.baseurl }}/chu-de/ke-toan-kiem-toan/)  
 **Số điều khoản:** 278  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2796,7 +2796,7 @@ permalink: /van-ban/de-muc/kiem-toan-doc-lap/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Kế toán, kiểm toán](/van-ban/chu-de/ke-toan-kiem-toan/)  
+[← Danh sách đề mục của Kế toán, kiểm toán]({{ site.baseurl }}/chu-de/ke-toan-kiem-toan/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

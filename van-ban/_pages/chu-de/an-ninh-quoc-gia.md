@@ -12,22 +12,22 @@ permalink: /van-ban/chu-de/an-ninh-quoc-gia/
 
 ## 📋 Danh sách Đề mục
 
-1. **[An ninh quốc gia](/van-ban/de-muc/an-ninh-quoc-gia/)**
-2. **[Xuất cảnh, nhập cảnh của công dân Việt Nam](/van-ban/de-muc/xuat-canh-nhap-canh-cua-cong-dan-viet-nam/)**
-3. **[An ninh mạng](/van-ban/de-muc/an-ninh-mang/)**
-4. **[Cảnh vệ](/van-ban/de-muc/canh-ve/)**
-5. **[Bảo vệ bí mật nhà nước](/van-ban/de-muc/bao-ve-bi-mat-nha-nuoc/)**
-6. **[Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia](/van-ban/de-muc/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia/)**
-7. **[Biên giới quốc gia](/van-ban/de-muc/bien-gioi-quoc-gia/)**
-8. **[Biển Việt Nam](/van-ban/de-muc/bien-viet-nam/)**
-9. **[Công an nhân dân](/van-ban/de-muc/cong-an-nhan-dan/)**
-10. **[Cơ yếu](/van-ban/de-muc/co-yeu/)**
-11. **[Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam](/van-ban/de-muc/nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-viet-nam/)**
-12. **[Phòng, chống khủng bố](/van-ban/de-muc/phong-chong-khung-bo/)**
+1. **[An ninh quốc gia]({{ site.baseurl }}/de-muc/an-ninh-quoc-gia/)**
+2. **[Xuất cảnh, nhập cảnh của công dân Việt Nam]({{ site.baseurl }}/de-muc/xuat-canh-nhap-canh-cua-cong-dan-viet-nam/)**
+3. **[An ninh mạng]({{ site.baseurl }}/de-muc/an-ninh-mang/)**
+4. **[Cảnh vệ]({{ site.baseurl }}/de-muc/canh-ve/)**
+5. **[Bảo vệ bí mật nhà nước]({{ site.baseurl }}/de-muc/bao-ve-bi-mat-nha-nuoc/)**
+6. **[Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia]({{ site.baseurl }}/de-muc/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia/)**
+7. **[Biên giới quốc gia]({{ site.baseurl }}/de-muc/bien-gioi-quoc-gia/)**
+8. **[Biển Việt Nam]({{ site.baseurl }}/de-muc/bien-viet-nam/)**
+9. **[Công an nhân dân]({{ site.baseurl }}/de-muc/cong-an-nhan-dan/)**
+10. **[Cơ yếu]({{ site.baseurl }}/de-muc/co-yeu/)**
+11. **[Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam]({{ site.baseurl }}/de-muc/nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-viet-nam/)**
+12. **[Phòng, chống khủng bố]({{ site.baseurl }}/de-muc/phong-chong-khung-bo/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 12

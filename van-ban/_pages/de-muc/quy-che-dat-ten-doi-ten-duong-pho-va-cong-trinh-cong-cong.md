@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quy-che-dat-ten-doi-ten-duong-pho-va-cong-trinh-cong-
 # Quy chế đặt tên, đổi tên đường, phố và công trình công cộng
 
 **Đề mục:** Quy chế đặt tên, đổi tên đường, phố và công trình công cộng  
-**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/chu-de/van-hoa-the-thao-du-lich/)  
+**Chủ đề:** [Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 12  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -136,7 +136,7 @@ permalink: /van-ban/de-muc/quy-che-dat-ten-doi-ten-duong-pho-va-cong-trinh-cong-
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-ban/chu-de/van-hoa-the-thao-du-lich/)  
+[← Danh sách đề mục của Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

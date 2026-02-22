@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hinh-su/
 # Hình sự
 
 **Đề mục:** Hình sự  
-**Chủ đề:** [Hình sự](/van-ban/chu-de/hinh-su/)  
+**Chủ đề:** [Hình sự]({{ site.baseurl }}/chu-de/hinh-su/)  
 **Số điều khoản:** 582  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5836,7 +5836,7 @@ permalink: /van-ban/de-muc/hinh-su/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Hình sự](/van-ban/chu-de/hinh-su/)  
+[← Danh sách đề mục của Hình sự]({{ site.baseurl }}/chu-de/hinh-su/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

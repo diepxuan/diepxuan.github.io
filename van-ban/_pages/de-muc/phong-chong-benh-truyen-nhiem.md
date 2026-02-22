@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/phong-chong-benh-truyen-nhiem/
 # Phòng, chống bệnh truyền nhiễm
 
 **Đề mục:** Phòng, chống bệnh truyền nhiễm  
-**Chủ đề:** [Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược]({{ site.baseurl }}/chu-de/y-te-duoc/)  
 **Số điều khoản:** 446  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4476,7 +4476,7 @@ permalink: /van-ban/de-muc/phong-chong-benh-truyen-nhiem/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược]({{ site.baseurl }}/chu-de/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

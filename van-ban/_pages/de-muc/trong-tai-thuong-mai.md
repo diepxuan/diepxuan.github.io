@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/trong-tai-thuong-mai/
 # Trọng tài thương mại
 
 **Đề mục:** Trọng tài thương mại  
-**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
+**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 154  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1556,7 +1556,7 @@ permalink: /van-ban/de-muc/trong-tai-thuong-mai/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
+[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

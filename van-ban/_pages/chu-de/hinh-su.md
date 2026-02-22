@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/hinh-su/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Hình sự](/van-ban/de-muc/hinh-su/)**
+1. **[Hình sự]({{ site.baseurl }}/de-muc/hinh-su/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

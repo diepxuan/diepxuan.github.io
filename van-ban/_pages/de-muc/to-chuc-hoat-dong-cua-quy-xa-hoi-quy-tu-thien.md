@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien/
 # Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện
 
 **Đề mục:** Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện  
-**Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+**Chủ đề:** [Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 63  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -646,7 +646,7 @@ permalink: /van-ban/de-muc/to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

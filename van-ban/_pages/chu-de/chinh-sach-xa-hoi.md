@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/chinh-sach-xa-hoi/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội](/van-ban/de-muc/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi/)**
-2. **[Người cao tuổi](/van-ban/de-muc/nguoi-cao-tuoi/)**
-3. **[Người khuyết tật](/van-ban/de-muc/nguoi-khuyet-tat/)**
-4. **[Phòng, chống mại dâm](/van-ban/de-muc/phong-chong-mai-dam/)**
-5. **[Ưu đãi người có công với cách mạng](/van-ban/de-muc/uu-dai-nguoi-co-cong-voi-cach-mang/)**
+1. **[Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội]({{ site.baseurl }}/de-muc/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi/)**
+2. **[Người cao tuổi]({{ site.baseurl }}/de-muc/nguoi-cao-tuoi/)**
+3. **[Người khuyết tật]({{ site.baseurl }}/de-muc/nguoi-khuyet-tat/)**
+4. **[Phòng, chống mại dâm]({{ site.baseurl }}/de-muc/phong-chong-mai-dam/)**
+5. **[Ưu đãi người có công với cách mạng]({{ site.baseurl }}/de-muc/uu-dai-nguoi-co-cong-voi-cach-mang/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

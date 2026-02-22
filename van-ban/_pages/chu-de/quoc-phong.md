@@ -12,21 +12,21 @@ permalink: /van-ban/chu-de/quoc-phong/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc](/van-ban/de-muc/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec/)**
-2. **[Nghĩa vụ quân sự](/van-ban/de-muc/nghia-vu-quan-su/)**
-3. **[Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng](/van-ban/de-muc/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong/)**
-4. **[Quốc phòng](/van-ban/de-muc/quoc-phong/)**
-5. **[Sĩ quan Quân đội nhân dân Việt Nam](/van-ban/de-muc/si-quan-quan-doi-nhan-dan-viet-nam/)**
-6. **[Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ](/van-ban/de-muc/thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu/)**
-7. **[Biên phòng Việt Nam](/van-ban/de-muc/bien-phong-viet-nam/)**
-8. **[Dân quân tự vệ](/van-ban/de-muc/dan-quan-tu-ve/)**
-9. **[Giáo dục quốc phòng và an ninh](/van-ban/de-muc/giao-duc-quoc-phong-va-an-ninh/)**
-10. **[Cảnh sát biển Việt Nam](/van-ban/de-muc/canh-sat-bien-viet-nam/)**
-11. **[Lực lượng dự bị động viên](/van-ban/de-muc/luc-luong-du-bi-dong-vien/)**
+1. **[Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc]({{ site.baseurl }}/de-muc/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec/)**
+2. **[Nghĩa vụ quân sự]({{ site.baseurl }}/de-muc/nghia-vu-quan-su/)**
+3. **[Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng]({{ site.baseurl }}/de-muc/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong/)**
+4. **[Quốc phòng]({{ site.baseurl }}/de-muc/quoc-phong/)**
+5. **[Sĩ quan Quân đội nhân dân Việt Nam]({{ site.baseurl }}/de-muc/si-quan-quan-doi-nhan-dan-viet-nam/)**
+6. **[Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ]({{ site.baseurl }}/de-muc/thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu/)**
+7. **[Biên phòng Việt Nam]({{ site.baseurl }}/de-muc/bien-phong-viet-nam/)**
+8. **[Dân quân tự vệ]({{ site.baseurl }}/de-muc/dan-quan-tu-ve/)**
+9. **[Giáo dục quốc phòng và an ninh]({{ site.baseurl }}/de-muc/giao-duc-quoc-phong-va-an-ninh/)**
+10. **[Cảnh sát biển Việt Nam]({{ site.baseurl }}/de-muc/canh-sat-bien-viet-nam/)**
+11. **[Lực lượng dự bị động viên]({{ site.baseurl }}/de-muc/luc-luong-du-bi-dong-vien/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 11

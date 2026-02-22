@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quan-ly-ngoai-thuong/
 # Quản lý ngoại thương
 
 **Đề mục:** Quản lý ngoại thương  
-**Chủ đề:** [Thương mại, đầu tư, chứng khoán](/van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/)  
+**Chủ đề:** [Thương mại, đầu tư, chứng khoán]({{ site.baseurl }}/chu-de/thuong-mai-dau-tu-chung-khoan/)  
 **Số điều khoản:** 1330  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -13317,7 +13317,7 @@ permalink: /van-ban/de-muc/quan-ly-ngoai-thuong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán](/van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/)  
+[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán]({{ site.baseurl }}/chu-de/thuong-mai-dau-tu-chung-khoan/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

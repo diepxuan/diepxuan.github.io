@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/tuong-tro-tu-phap/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Tương trợ tư pháp](/van-ban/de-muc/tuong-tro-tu-phap/)**
+1. **[Tương trợ tư pháp]({{ site.baseurl }}/de-muc/tuong-tro-tu-phap/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

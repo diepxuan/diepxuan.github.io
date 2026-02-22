@@ -12,17 +12,17 @@ permalink: /van-ban/chu-de/khoa-hoc-cong-nghe/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Chất lượng sản phẩm, hàng hóa](/van-ban/de-muc/chat-luong-san-pham-hang-hoa/)**
-2. **[Chuyển giao công nghệ](/van-ban/de-muc/chuyen-giao-cong-nghe/)**
-3. **[Công nghệ cao](/van-ban/de-muc/cong-nghe-cao/)**
-4. **[Đo lường](/van-ban/de-muc/do-luong/)**
-5. **[Khoa học và công nghệ](/van-ban/de-muc/khoa-hoc-va-cong-nghe/)**
-6. **[Năng lượng nguyên tử](/van-ban/de-muc/nang-luong-nguyen-tu/)**
-7. **[Tiêu chuẩn và quy chuẩn kỹ thuật](/van-ban/de-muc/tieu-chuan-va-quy-chuan-ky-thuat/)**
+1. **[Chất lượng sản phẩm, hàng hóa]({{ site.baseurl }}/de-muc/chat-luong-san-pham-hang-hoa/)**
+2. **[Chuyển giao công nghệ]({{ site.baseurl }}/de-muc/chuyen-giao-cong-nghe/)**
+3. **[Công nghệ cao]({{ site.baseurl }}/de-muc/cong-nghe-cao/)**
+4. **[Đo lường]({{ site.baseurl }}/de-muc/do-luong/)**
+5. **[Khoa học và công nghệ]({{ site.baseurl }}/de-muc/khoa-hoc-va-cong-nghe/)**
+6. **[Năng lượng nguyên tử]({{ site.baseurl }}/de-muc/nang-luong-nguyen-tu/)**
+7. **[Tiêu chuẩn và quy chuẩn kỹ thuật]({{ site.baseurl }}/de-muc/tieu-chuan-va-quy-chuan-ky-thuat/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 7

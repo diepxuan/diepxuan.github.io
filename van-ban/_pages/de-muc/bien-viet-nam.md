@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bien-viet-nam/
 # Biển Việt Nam
 
 **Đề mục:** Biển Việt Nam  
-**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 144  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1456,7 +1456,7 @@ permalink: /van-ban/de-muc/bien-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

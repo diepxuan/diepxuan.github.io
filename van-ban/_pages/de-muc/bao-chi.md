@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bao-chi/
 # Báo chí
 
 **Đề mục:** Báo chí  
-**Chủ đề:** [Thông tin, báo chí, xuất bản](/van-ban/chu-de/thong-tin-bao-chi-xuat-ban/)  
+**Chủ đề:** [Thông tin, báo chí, xuất bản]({{ site.baseurl }}/chu-de/thong-tin-bao-chi-xuat-ban/)  
 **Số điều khoản:** 354  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3556,7 +3556,7 @@ permalink: /van-ban/de-muc/bao-chi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thông tin, báo chí, xuất bản](/van-ban/chu-de/thong-tin-bao-chi-xuat-ban/)  
+[← Danh sách đề mục của Thông tin, báo chí, xuất bản]({{ site.baseurl }}/chu-de/thong-tin-bao-chi-xuat-ban/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

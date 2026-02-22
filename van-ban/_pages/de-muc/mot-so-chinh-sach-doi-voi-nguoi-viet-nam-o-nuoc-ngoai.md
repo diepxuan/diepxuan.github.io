@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/mot-so-chinh-sach-doi-voi-nguoi-viet-nam-o-nuoc-ngoai
 # Một số chính sách đối với người Việt Nam ở nước ngoài
 
 **Đề mục:** Một số chính sách đối với người Việt Nam ở nước ngoài  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 37  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -386,7 +386,7 @@ permalink: /van-ban/de-muc/mot-so-chinh-sach-doi-voi-nguoi-viet-nam-o-nuoc-ngoai
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

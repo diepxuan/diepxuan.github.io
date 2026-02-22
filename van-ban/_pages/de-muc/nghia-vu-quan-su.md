@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/nghia-vu-quan-su/
 # Nghĩa vụ quân sự
 
 **Đề mục:** Nghĩa vụ quân sự  
-**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 **Số điều khoản:** 198  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1996,7 +1996,7 @@ permalink: /van-ban/de-muc/nghia-vu-quan-su/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/buu-chinh-vien-thong/
 
 ## 📋 Danh sách Đề mục
 
-1. **[An toàn thông tin mạng](/van-ban/de-muc/an-toan-thong-tin-mang/)**
-2. **[Bưu chính](/van-ban/de-muc/buu-chinh/)**
-3. **[Công nghệ thông tin](/van-ban/de-muc/cong-nghe-thong-tin/)**
-4. **[Tần số vô tuyến điện](/van-ban/de-muc/tan-so-vo-tuyen-dien/)**
+1. **[An toàn thông tin mạng]({{ site.baseurl }}/de-muc/an-toan-thong-tin-mang/)**
+2. **[Bưu chính]({{ site.baseurl }}/de-muc/buu-chinh/)**
+3. **[Công nghệ thông tin]({{ site.baseurl }}/de-muc/cong-nghe-thong-tin/)**
+4. **[Tần số vô tuyến điện]({{ site.baseurl }}/de-muc/tan-so-vo-tuyen-dien/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Hoạt động chữ thập đỏ](/van-ban/de-muc/hoat-dong-chu-thap-do/)**
-2. **[Thanh niên](/van-ban/de-muc/thanh-nien/)**
-3. **[Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện](/van-ban/de-muc/to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien/)**
-4. **[Quyền lập hội và tổ chức, hoạt động, quản lý hội](/van-ban/de-muc/quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi/)**
-5. **[Cựu chiến binh](/van-ban/de-muc/cuu-chien-binh/)**
+1. **[Hoạt động chữ thập đỏ]({{ site.baseurl }}/de-muc/hoat-dong-chu-thap-do/)**
+2. **[Thanh niên]({{ site.baseurl }}/de-muc/thanh-nien/)**
+3. **[Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện]({{ site.baseurl }}/de-muc/to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien/)**
+4. **[Quyền lập hội và tổ chức, hoạt động, quản lý hội]({{ site.baseurl }}/de-muc/quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi/)**
+5. **[Cựu chiến binh]({{ site.baseurl }}/de-muc/cuu-chien-binh/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

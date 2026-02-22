@@ -15,7 +15,7 @@ permalink: /van-ban/chu-de/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 0

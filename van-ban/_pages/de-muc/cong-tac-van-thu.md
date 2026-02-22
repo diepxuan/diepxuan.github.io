@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cong-tac-van-thu/
 # Công tác văn thư
 
 **Đề mục:** Công tác văn thư  
-**Chủ đề:** [Văn thư lưu trữ](/van-ban/chu-de/van-thu-luu-tru/)  
+**Chủ đề:** [Văn thư lưu trữ]({{ site.baseurl }}/chu-de/van-thu-luu-tru/)  
 **Số điều khoản:** 56  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -576,7 +576,7 @@ permalink: /van-ban/de-muc/cong-tac-van-thu/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn thư lưu trữ](/van-ban/chu-de/van-thu-luu-tru/)  
+[← Danh sách đề mục của Văn thư lưu trữ]({{ site.baseurl }}/chu-de/van-thu-luu-tru/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

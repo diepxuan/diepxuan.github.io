@@ -1,0 +1,9 @@
+# Netlify-style redirects (also works on some GitHub Pages setups)
+# Fix: /van-ban/chu-de/de-muc/* → /van-ban/de-muc/*
+
+/van-ban/chu-de/de-muc/* /van-ban/de-muc/:splat 301
+/van-ban/de-muc/*/index.html /van-ban/de-muc/*/ 301
+/van-ban/chu-de/*/index.html /van-ban/chu-de/*/ 301
+
+# Redirect from old .html URLs
+/van-ban/*.html /van-ban/*/ 301

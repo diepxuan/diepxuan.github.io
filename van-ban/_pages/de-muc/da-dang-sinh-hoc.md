@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/da-dang-sinh-hoc/
 # Đa dạng sinh học
 
 **Đề mục:** Đa dạng sinh học  
-**Chủ đề:** [Môi trường](/van-ban/chu-de/moi-truong/)  
+**Chủ đề:** [Môi trường]({{ site.baseurl }}/chu-de/moi-truong/)  
 **Số điều khoản:** 376  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3776,7 +3776,7 @@ permalink: /van-ban/de-muc/da-dang-sinh-hoc/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Môi trường](/van-ban/chu-de/moi-truong/)  
+[← Danh sách đề mục của Môi trường]({{ site.baseurl }}/chu-de/moi-truong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

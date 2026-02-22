@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/xu-ly-vi-pham-hanh-chinh/
 # Xử lý vi phạm hành chính
 
 **Đề mục:** Xử lý vi phạm hành chính  
-**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 4403  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -44046,7 +44046,7 @@ permalink: /van-ban/de-muc/xu-ly-vi-pham-hanh-chinh/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

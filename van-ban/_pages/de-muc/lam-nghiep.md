@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/lam-nghiep/
 # Lâm nghiệp
 
 **Đề mục:** Lâm nghiệp  
-**Chủ đề:** [Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
+**Chủ đề:** [Nông nghiệp, nông thôn]({{ site.baseurl }}/chu-de/nong-nghiep-nong-thon/)  
 **Số điều khoản:** 900  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -9016,7 +9016,7 @@ permalink: /van-ban/de-muc/lam-nghiep/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
+[← Danh sách đề mục của Nông nghiệp, nông thôn]({{ site.baseurl }}/chu-de/nong-nghiep-nong-thon/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

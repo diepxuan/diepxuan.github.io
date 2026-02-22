@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/ham-cap-ngoai-giao/
 # Hàm, cấp ngoại giao
 
 **Đề mục:** Hàm, cấp ngoại giao  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 50  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -516,7 +516,7 @@ permalink: /van-ban/de-muc/ham-cap-ngoai-giao/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

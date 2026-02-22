@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cong-bo-pho-bien-tac-pham-ra-nuoc-ngoai/
 # Công bố, phổ biến tác phẩm ra nước ngoài
 
 **Đề mục:** Công bố, phổ biến tác phẩm ra nước ngoài  
-**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/chu-de/van-hoa-the-thao-du-lich/)  
+**Chủ đề:** [Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 28  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -296,7 +296,7 @@ permalink: /van-ban/de-muc/cong-bo-pho-bien-tac-pham-ra-nuoc-ngoai/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-ban/chu-de/van-hoa-the-thao-du-lich/)  
+[← Danh sách đề mục của Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
