@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test URLs - Bộ Pháp điển Điện tử</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #1a237e;
+            border-bottom: 2px solid #1a237e;
+            padding-bottom: 10px;
+        }
+        .test-case {
+            background: #f5f5f5;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 8px;
+            border-left: 4px solid #1a237e;
+        }
+        .test-case h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .url {
+            font-family: monospace;
+            background: white;
+            padding: 8px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+        }
+        .correct {
+            color: #2e7d32;
+            font-weight: bold;
+        }
+        .incorrect {
+            color: #c62828;
+            font-weight: bold;
+        }
+        .note {
+            background: #fff3e0;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border-left: 4px solid #ff9800;
+        }
+        .button {
+            display: inline-block;
+            background: #1a237e;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 5px;
+            font-size: 14px;
+        }
+        .button:hover {
+            background: #283593;
+        }
+        .button.secondary {
+            background: #666;
+        }
+        .button.secondary:hover {
+            background: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔗 Test URLs - Bộ Pháp điển Điện tử</h1>
+    
+    <div class="note">
+        <strong>Lưu ý:</strong> Các URLs này sẽ hoạt động sau khi PR #27 được merge và GitHub Pages build xong.
+    </div>
+    
+    <div class="test-case">
+        <h3>1. Trang chính van-ban</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang chính hiển thị 45 chủ đề pháp luật</p>
+        <a href="https://docs.diepxuan.com/van-ban/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>2. Trang chủ đề: Bảo hiểm</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/chu-de/bao-hiem/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang chủ đề hiển thị 2 đề mục con</p>
+        <a href="https://docs.diepxuan.com/van-ban/chu-de/bao-hiem/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>3. Trang đề mục: Bảo hiểm y tế</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/de-muc/bao-hiem-y-te/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang đề mục hiển thị 206 điều khoản pháp luật</p>
+        <a href="https://docs.diepxuan.com/van-ban/de-muc/bao-hiem-y-te/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>4. URL SAI (404) - Cần tránh</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/chu-de/de-muc/bao-hiem-y-te/</div>
+        <p><span class="incorrect">❌ SAI</span> - Thừa "chu-de/" trong URL. Sẽ báo 404.</p>
+        <a href="https://docs.diepxuan.com/van-ban/chu-de/de-muc/bao-hiem-y-te/" class="button secondary" target="_blank">Test URL (sẽ 404)</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>5. Trang chủ đề: An ninh quốc gia</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/chu-de/an-ninh-quoc-gia/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang chủ đề hiển thị 12 đề mục con</p>
+        <a href="https://docs.diepxuan.com/van-ban/chu-de/an-ninh-quoc-gia/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>6. Trang đề mục: An ninh quốc gia</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/de-muc/an-ninh-quoc-gia/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang đề mục hiển thị 206 điều khoản</p>
+        <a href="https://docs.diepxuan.com/van-ban/de-muc/an-ninh-quoc-gia/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>7. Trang chủ đề: Doanh nghiệp, hợp tác xã</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/chu-de/doanh-nghiep-hop-tac-xa/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang chủ đề hiển thị 3 đề mục con</p>
+        <a href="https://docs.diepxuan.com/van-ban/chu-de/doanh-nghiep-hop-tac-xa/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="test-case">
+        <h3>8. Trang đề mục: Doanh nghiệp</h3>
+        <div class="url">https://docs.diepxuan.com/van-ban/de-muc/doanh-nghiep/</div>
+        <p><span class="correct">✅ ĐÚNG</span> - Trang đề mục hiển thị 206 điều khoản</p>
+        <a href="https://docs.diepxuan.com/van-ban/de-muc/doanh-nghiep/" class="button" target="_blank">Test URL</a>
+    </div>
+    
+    <div class="note">
+        <h3>📋 Hướng dẫn sử dụng</h3>
+        <ol>
+            <li>Truy cập <strong>https://docs.diepxuan.com/van-ban/</strong></li>
+            <li>Click vào chủ đề (ví dụ: Bảo hiểm)</li>
+            <li>Click vào đề mục (ví dụ: Bảo hiểm y tế)</li>
+            <li>Xem nội dung đầy đủ các điều khoản pháp luật</li>
+        </ol>
+        
+        <h3>🚫 URLs cần tránh</h3>
+        <ul>
+            <li>❌ <code>/van-ban/chu-de/de-muc/[slug]/</code> - Thừa "chu-de/"</li>
+            <li>❌ <code>/van-ban/chu-de/[slug]</code> (không có / ở cuối)</li>
+            <li>❌ <code>/van-ban/de-muc/[slug]</code> (không có / ở cuối)</li>
+        </ul>
+        
+        <h3>✅ URLs đúng</h3>
+        <ul>
+            <li>✅ <code>/van-ban/</code> - Trang chính</li>
+            <li>✅ <code>/van-ban/chu-de/[slug]/</code> - Chủ đề</li>
+            <li>✅ <code>/van-ban/de-muc/[slug]/</code> - Đề mục</li>
+        </ul>
+    </div>
+    
+    <div class="note">
+        <h3>🔧 Cấu trúc kỹ thuật</h3>
+        <p>Sau khi PR #27 merge:</p>
+        <ul>
+            <li>Tất cả files trong <code>_pages/</code> collection</li>
+            <li>Jekyll build tự động trên GitHub Pages</li>
+            <li>Layout: <code>_layouts/default.html</code></li>
+            <li>Config: <code>_config.yml</code></li>
+            <li>Tổng: 262 pages (1 index + 45 chủ đề + 216 đề mục)</li>
+        </ul>
+    </div>
+    
+    <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd;">
+        <p><strong>PR #27:</strong> "fix: proper Jekyll structure for van-ban with 262 pages"</p>
+        <p><strong>Branch:</strong> feat/van-ban-hierarchical-structure</p>
+        <p><strong>Status:</strong> Đang chờ review và merge</p>
+        <p><strong>Test sau merge:</strong> Đợi 1-2 phút để GitHub Pages build xong, sau đó test các URLs trên.</p>
+    </div>
+</body>
+</html>
