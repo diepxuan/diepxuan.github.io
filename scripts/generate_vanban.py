@@ -18,7 +18,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 BASE_DIR = SCRIPT_DIR.parent
 
 VB_PATH = os.path.join(BASE_DIR, "van-ban")
-DB_PATH = os.path.join (VB_PATH, "phap-dien/sqlite/phapdien_complete.db")
+DB_PATH = os.path.join (VB_PATH, "phap-dien/sqlite/phapdien.db")
 
 def slugify(text):
     """Convert text to URL-friendly slug"""
