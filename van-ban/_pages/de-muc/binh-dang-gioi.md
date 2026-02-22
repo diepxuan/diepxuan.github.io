@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/binh-dang-gioi/
 # Bình đẳng giới
 
 **Đề mục:** Bình đẳng giới  
-**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới](../chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
+**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 **Số điều khoản:** 106  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1076,7 +1076,7 @@ permalink: /van-ban/de-muc/binh-dang-gioi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới](../chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
+[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

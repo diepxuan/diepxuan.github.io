@@ -12,21 +12,21 @@ permalink: /van-ban/chu-de/nong-nghiep-nong-thon/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Bảo vệ và kiểm dịch thực vật](../de-muc/bao-ve-va-kiem-dich-thuc-vat/)**
-2. **[Phòng, chống thiên tai](../de-muc/phong-chong-thien-tai/)**
-3. **[Thú y](../de-muc/thu-y/)**
-4. **[Thủy sản](../de-muc/thuy-san/)**
-5. **[Lâm nghiệp](../de-muc/lam-nghiep/)**
-6. **[Đê điều](../de-muc/de-dieu/)**
-7. **[Trồng trọt](../de-muc/trong-trot/)**
-8. **[Chăn nuôi](../de-muc/chan-nuoi/)**
-9. **[Thủy lợi](../de-muc/thuy-loi/)**
-10. **[Quản lý sản xuất, kinh doanh muối](../de-muc/quan-ly-san-xuat-kinh-doanh-muoi/)**
-11. **[Phát triển ngành nghề nông thôn](../de-muc/phat-trien-nganh-nghe-nong-thon/)**
+1. **[Bảo vệ và kiểm dịch thực vật](/van-ban/de-muc/bao-ve-va-kiem-dich-thuc-vat/)**
+2. **[Phòng, chống thiên tai](/van-ban/de-muc/phong-chong-thien-tai/)**
+3. **[Thú y](/van-ban/de-muc/thu-y/)**
+4. **[Thủy sản](/van-ban/de-muc/thuy-san/)**
+5. **[Lâm nghiệp](/van-ban/de-muc/lam-nghiep/)**
+6. **[Đê điều](/van-ban/de-muc/de-dieu/)**
+7. **[Trồng trọt](/van-ban/de-muc/trong-trot/)**
+8. **[Chăn nuôi](/van-ban/de-muc/chan-nuoi/)**
+9. **[Thủy lợi](/van-ban/de-muc/thuy-loi/)**
+10. **[Quản lý sản xuất, kinh doanh muối](/van-ban/de-muc/quan-ly-san-xuat-kinh-doanh-muoi/)**
+11. **[Phát triển ngành nghề nông thôn](/van-ban/de-muc/phat-trien-nganh-nghe-nong-thon/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 11

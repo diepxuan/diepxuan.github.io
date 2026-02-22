@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bao-hiem-tien-gui/
 # Bảo hiểm tiền gửi
 
 **Đề mục:** Bảo hiểm tiền gửi  
-**Chủ đề:** [Ngân hàng, tiền tệ](../chu-de/ngan-hang-tien-te/)  
+**Chủ đề:** [Ngân hàng, tiền tệ](/van-ban/chu-de/ngan-hang-tien-te/)  
 **Số điều khoản:** 142  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1436,7 +1436,7 @@ permalink: /van-ban/de-muc/bao-hiem-tien-gui/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngân hàng, tiền tệ](../chu-de/ngan-hang-tien-te/)  
+[← Danh sách đề mục của Ngân hàng, tiền tệ](/van-ban/chu-de/ngan-hang-tien-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

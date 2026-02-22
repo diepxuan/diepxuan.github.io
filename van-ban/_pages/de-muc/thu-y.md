@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/thu-y/
 # Thú y
 
 **Đề mục:** Thú y  
-**Chủ đề:** [Nông nghiệp, nông thôn](../chu-de/nong-nghiep-nong-thon/)  
+**Chủ đề:** [Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
 **Số điều khoản:** 526  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5276,7 +5276,7 @@ permalink: /van-ban/de-muc/thu-y/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Nông nghiệp, nông thôn](../chu-de/nong-nghiep-nong-thon/)  
+[← Danh sách đề mục của Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/to-chuc-va-hoat-dong-cua-thua-phat-lai/
 # Tổ chức và hoạt động của Thừa phát lại
 
 **Đề mục:** Tổ chức và hoạt động của Thừa phát lại  
-**Chủ đề:** [Thi hành án](../chu-de/thi-hanh-an/)  
+**Chủ đề:** [Thi hành án](/van-ban/chu-de/thi-hanh-an/)  
 **Số điều khoản:** 133  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1346,7 +1346,7 @@ permalink: /van-ban/de-muc/to-chuc-va-hoat-dong-cua-thua-phat-lai/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thi hành án](../chu-de/thi-hanh-an/)  
+[← Danh sách đề mục của Thi hành án](/van-ban/chu-de/thi-hanh-an/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

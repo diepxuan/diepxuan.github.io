@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/tai-nguyen/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Đo đạc và bản đồ](../de-muc/do-dac-va-ban-do/)**
-2. **[Khí tượng thủy văn](../de-muc/khi-tuong-thuy-van/)**
-3. **[Tài nguyên, môi trường biển và hải đảo](../de-muc/tai-nguyen-moi-truong-bien-va-hai-dao/)**
-4. **[Hoạt động viễn thám](../de-muc/hoat-dong-vien-tham/)**
+1. **[Đo đạc và bản đồ](/van-ban/de-muc/do-dac-va-ban-do/)**
+2. **[Khí tượng thủy văn](/van-ban/de-muc/khi-tuong-thuy-van/)**
+3. **[Tài nguyên, môi trường biển và hải đảo](/van-ban/de-muc/tai-nguyen-moi-truong-bien-va-hai-dao/)**
+4. **[Hoạt động viễn thám](/van-ban/de-muc/hoat-dong-vien-tham/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

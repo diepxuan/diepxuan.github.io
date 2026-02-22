@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/vien-chuc/
 # Viên chức
 
 **Đề mục:** Viên chức  
-**Chủ đề:** [Cán bộ, công chức, viên chức](../chu-de/can-bo-cong-chuc-vien-chuc/)  
+**Chủ đề:** [Cán bộ, công chức, viên chức](/van-ban/chu-de/can-bo-cong-chuc-vien-chuc/)  
 **Số điều khoản:** 1805  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -18066,7 +18066,7 @@ permalink: /van-ban/de-muc/vien-chuc/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Cán bộ, công chức, viên chức](../chu-de/can-bo-cong-chuc-vien-chuc/)  
+[← Danh sách đề mục của Cán bộ, công chức, viên chức](/van-ban/chu-de/can-bo-cong-chuc-vien-chuc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

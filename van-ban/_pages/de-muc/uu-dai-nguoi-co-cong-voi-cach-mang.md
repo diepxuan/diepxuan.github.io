@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/uu-dai-nguoi-co-cong-voi-cach-mang/
 # Ưu đãi người có công với cách mạng
 
 **Đề mục:** Ưu đãi người có công với cách mạng  
-**Chủ đề:** [Chính sách xã hội](../chu-de/chinh-sach-xa-hoi/)  
+**Chủ đề:** [Chính sách xã hội](/van-ban/chu-de/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 379  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3806,7 +3806,7 @@ permalink: /van-ban/de-muc/uu-dai-nguoi-co-cong-voi-cach-mang/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Chính sách xã hội](../chu-de/chinh-sach-xa-hoi/)  
+[← Danh sách đề mục của Chính sách xã hội](/van-ban/chu-de/chinh-sach-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

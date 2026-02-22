@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dang-ky-bien-phap-bao-dam/
 # Đăng ký biện pháp bảo đảm
 
 **Đề mục:** Đăng ký biện pháp bảo đảm  
-**Chủ đề:** [Dân sự](../chu-de/dan-su/)  
+**Chủ đề:** [Dân sự](/van-ban/chu-de/dan-su/)  
 **Số điều khoản:** 71  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -726,7 +726,7 @@ permalink: /van-ban/de-muc/dang-ky-bien-phap-bao-dam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Dân sự](../chu-de/dan-su/)  
+[← Danh sách đề mục của Dân sự](/van-ban/chu-de/dan-su/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

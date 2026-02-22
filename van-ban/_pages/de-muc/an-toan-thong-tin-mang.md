@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/an-toan-thong-tin-mang/
 # An toàn thông tin mạng
 
 **Đề mục:** An toàn thông tin mạng  
-**Chủ đề:** [Bưu chính, viễn thông](../chu-de/buu-chinh-vien-thong/)  
+**Chủ đề:** [Bưu chính, viễn thông](/van-ban/chu-de/buu-chinh-vien-thong/)  
 **Số điều khoản:** 307  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3086,7 +3086,7 @@ permalink: /van-ban/de-muc/an-toan-thong-tin-mang/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bưu chính, viễn thông](../chu-de/buu-chinh-vien-thong/)  
+[← Danh sách đề mục của Bưu chính, viễn thông](/van-ban/chu-de/buu-chinh-vien-thong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

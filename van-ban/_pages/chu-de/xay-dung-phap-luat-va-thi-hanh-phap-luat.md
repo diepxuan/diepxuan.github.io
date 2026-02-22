@@ -12,18 +12,18 @@ permalink: /van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính](../de-muc/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh/)**
-2. **[Thực hiện dân chủ ở cơ sở](../de-muc/thuc-hien-dan-chu-o-co-so/)**
-3. **[Trưng cầu ý dân](../de-muc/trung-cau-y-dan/)**
-4. **[Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế](../de-muc/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che/)**
-5. **[Hợp nhất văn bản quy phạm pháp luật](../de-muc/hop-nhat-van-ban-quy-pham-phap-luat/)**
-6. **[Kiểm soát thủ tục hành chính](../de-muc/kiem-soat-thu-tuc-hanh-chinh/)**
-7. **[Pháp điển hệ thống quy phạm pháp luật](../de-muc/phap-dien-he-thong-quy-pham-phap-luat/)**
-8. **[Phổ biến, giáo dục pháp luật](../de-muc/pho-bien-giao-duc-phap-luat/)**
+1. **[Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính](/van-ban/de-muc/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh/)**
+2. **[Thực hiện dân chủ ở cơ sở](/van-ban/de-muc/thuc-hien-dan-chu-o-co-so/)**
+3. **[Trưng cầu ý dân](/van-ban/de-muc/trung-cau-y-dan/)**
+4. **[Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế](/van-ban/de-muc/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che/)**
+5. **[Hợp nhất văn bản quy phạm pháp luật](/van-ban/de-muc/hop-nhat-van-ban-quy-pham-phap-luat/)**
+6. **[Kiểm soát thủ tục hành chính](/van-ban/de-muc/kiem-soat-thu-tuc-hanh-chinh/)**
+7. **[Pháp điển hệ thống quy phạm pháp luật](/van-ban/de-muc/phap-dien-he-thong-quy-pham-phap-luat/)**
+8. **[Phổ biến, giáo dục pháp luật](/van-ban/de-muc/pho-bien-giao-duc-phap-luat/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 8

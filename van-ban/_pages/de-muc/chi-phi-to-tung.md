@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chi-phi-to-tung/
 # Chi phí tố tụng
 
 **Đề mục:** Chi phí tố tụng  
-**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](../chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
+**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
 **Số điều khoản:** 103  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1046,7 +1046,7 @@ permalink: /van-ban/de-muc/chi-phi-to-tung/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](../chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
+[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](/van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

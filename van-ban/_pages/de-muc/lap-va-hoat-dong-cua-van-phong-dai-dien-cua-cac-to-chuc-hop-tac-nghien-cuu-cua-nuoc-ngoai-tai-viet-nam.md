@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-ch
 # Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam
 
 **Đề mục:** Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế](../chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 33  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -346,7 +346,7 @@ permalink: /van-ban/de-muc/lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-ch
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](../chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

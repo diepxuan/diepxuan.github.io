@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/to-chuc-bo-may-nha-nuoc/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân](../de-muc/bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan/)**
-2. **[Tổ chức Viện kiểm sát nhân dân](../de-muc/to-chuc-vien-kiem-sat-nhan-dan/)**
-3. **[Hoạt động giám sát của Quốc hội và Hội đồng nhân dân](../de-muc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan/)**
-4. **[Mặt trận Tổ quốc Việt Nam](../de-muc/mat-tran-to-quoc-viet-nam/)**
-5. **[Tổ chức Quốc hội](../de-muc/to-chuc-quoc-hoi/)**
+1. **[Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân](/van-ban/de-muc/bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan/)**
+2. **[Tổ chức Viện kiểm sát nhân dân](/van-ban/de-muc/to-chuc-vien-kiem-sat-nhan-dan/)**
+3. **[Hoạt động giám sát của Quốc hội và Hội đồng nhân dân](/van-ban/de-muc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan/)**
+4. **[Mặt trận Tổ quốc Việt Nam](/van-ban/de-muc/mat-tran-to-quoc-viet-nam/)**
+5. **[Tổ chức Quốc hội](/van-ban/de-muc/to-chuc-quoc-hoi/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

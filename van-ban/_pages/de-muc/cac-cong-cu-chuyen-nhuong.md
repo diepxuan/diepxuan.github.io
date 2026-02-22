@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cac-cong-cu-chuyen-nhuong/
 # Các công cụ chuyển nhượng
 
 **Đề mục:** Các công cụ chuyển nhượng  
-**Chủ đề:** [Ngân hàng, tiền tệ](../chu-de/ngan-hang-tien-te/)  
+**Chủ đề:** [Ngân hàng, tiền tệ](/van-ban/chu-de/ngan-hang-tien-te/)  
 **Số điều khoản:** 167  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1686,7 +1686,7 @@ permalink: /van-ban/de-muc/cac-cong-cu-chuyen-nhuong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngân hàng, tiền tệ](../chu-de/ngan-hang-tien-te/)  
+[← Danh sách đề mục của Ngân hàng, tiền tệ](/van-ban/chu-de/ngan-hang-tien-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

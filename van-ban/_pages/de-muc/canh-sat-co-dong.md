@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/canh-sat-co-dong/
 # Cảnh sát cơ động
 
 **Đề mục:** Cảnh sát cơ động  
-**Chủ đề:** [Trật tự, an toàn xã hội](../chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 90  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -916,7 +916,7 @@ permalink: /van-ban/de-muc/canh-sat-co-dong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội](../chu-de/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

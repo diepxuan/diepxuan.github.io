@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/phong-chong-tham-nhung/
 # Phòng, chống tham nhũng
 
 **Đề mục:** Phòng, chống tham nhũng  
-**Chủ đề:** [Khiếu nại, tố cáo](../chu-de/khieu-nai-to-cao/)  
+**Chủ đề:** [Khiếu nại, tố cáo](/van-ban/chu-de/khieu-nai-to-cao/)  
 **Số điều khoản:** 340  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3416,7 +3416,7 @@ permalink: /van-ban/de-muc/phong-chong-tham-nhung/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khiếu nại, tố cáo](../chu-de/khieu-nai-to-cao/)  
+[← Danh sách đề mục của Khiếu nại, tố cáo](/van-ban/chu-de/khieu-nai-to-cao/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

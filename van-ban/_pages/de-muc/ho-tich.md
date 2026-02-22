@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/ho-tich/
 # Hộ tịch
 
 **Đề mục:** Hộ tịch  
-**Chủ đề:** [Hành chính tư pháp](../chu-de/hanh-chinh-tu-phap/)  
+**Chủ đề:** [Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 131  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1326,7 +1326,7 @@ permalink: /van-ban/de-muc/ho-tich/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Hành chính tư pháp](../chu-de/hanh-chinh-tu-phap/)  
+[← Danh sách đề mục của Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

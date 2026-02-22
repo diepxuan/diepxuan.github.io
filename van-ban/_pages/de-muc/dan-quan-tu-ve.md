@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dan-quan-tu-ve/
 # Dân quân tự vệ
 
 **Đề mục:** Dân quân tự vệ  
-**Chủ đề:** [Quốc phòng](../chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
 **Số điều khoản:** 196  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1976,7 +1976,7 @@ permalink: /van-ban/de-muc/dan-quan-tu-ve/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](../chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

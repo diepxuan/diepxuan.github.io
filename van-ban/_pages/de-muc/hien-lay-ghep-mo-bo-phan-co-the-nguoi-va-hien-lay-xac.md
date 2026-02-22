@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac
 # Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác
 
 **Đề mục:** Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác  
-**Chủ đề:** [Y tế, dược](../chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 **Số điều khoản:** 103  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1046,7 +1046,7 @@ permalink: /van-ban/de-muc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](../chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

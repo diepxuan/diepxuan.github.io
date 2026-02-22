@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/thi-hanh-an-hinh-su/
 # Thi hành án hình sự
 
 **Đề mục:** Thi hành án hình sự  
-**Chủ đề:** [Thi hành án](../chu-de/thi-hanh-an/)  
+**Chủ đề:** [Thi hành án](/van-ban/chu-de/thi-hanh-an/)  
 **Số điều khoản:** 873  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -8746,7 +8746,7 @@ permalink: /van-ban/de-muc/thi-hanh-an-hinh-su/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thi hành án](../chu-de/thi-hanh-an/)  
+[← Danh sách đề mục của Thi hành án](/van-ban/chu-de/thi-hanh-an/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
