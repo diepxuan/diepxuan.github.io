@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quan-ly-no-cong/
 # Quản lý nợ công
 
 **Đề mục:** Quản lý nợ công  
-**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước]({{ site.baseurl }}/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 537  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5386,7 +5386,7 @@ permalink: /van-ban/de-muc/quan-ly-no-cong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước]({{ site.baseurl }}/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

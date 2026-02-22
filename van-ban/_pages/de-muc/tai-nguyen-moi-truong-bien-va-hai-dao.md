@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/tai-nguyen-moi-truong-bien-va-hai-dao/
 # Tài nguyên, môi trường biển và hải đảo
 
 **Đề mục:** Tài nguyên, môi trường biển và hải đảo  
-**Chủ đề:** [Tài nguyên](/van-ban/chu-de/tai-nguyen/)  
+**Chủ đề:** [Tài nguyên]({{ site.baseurl }}/chu-de/tai-nguyen/)  
 **Số điều khoản:** 628  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -6298,7 +6298,7 @@ permalink: /van-ban/de-muc/tai-nguyen-moi-truong-bien-va-hai-dao/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài nguyên](/van-ban/chu-de/tai-nguyen/)  
+[← Danh sách đề mục của Tài nguyên]({{ site.baseurl }}/chu-de/tai-nguyen/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

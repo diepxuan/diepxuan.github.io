@@ -12,13 +12,13 @@ permalink: /van-ban/chu-de/tai-chinh/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Hải quan](/van-ban/de-muc/hai-quan/)**
-2. **[Ngân sách nhà nước](/van-ban/de-muc/ngan-sach-nha-nuoc/)**
-3. **[Thực hành tiết kiệm, chống lãng phí](/van-ban/de-muc/thuc-hanh-tiet-kiem-chong-lang-phi/)**
+1. **[Hải quan]({{ site.baseurl }}/de-muc/hai-quan/)**
+2. **[Ngân sách nhà nước]({{ site.baseurl }}/de-muc/ngan-sach-nha-nuoc/)**
+3. **[Thực hành tiết kiệm, chống lãng phí]({{ site.baseurl }}/de-muc/thuc-hanh-tiet-kiem-chong-lang-phi/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 3

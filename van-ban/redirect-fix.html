@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirect Fix - Bộ Pháp điển Điện tử</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1a237e;
+            border-bottom: 2px solid #1a237e;
+            padding-bottom: 10px;
+        }
+        .url-box {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid #dc3545;
+            margin: 1rem 0;
+            font-family: monospace;
+            word-break: break-all;
+        }
+        .url-box.correct {
+            border-left-color: #28a745;
+        }
+        .button {
+            display: inline-block;
+            background: #1a237e;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 10px 5px 10px 0;
+        }
+        .button:hover {
+            background: #283593;
+        }
+        .note {
+            background: #fff3e0;
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid #ff9800;
+            margin: 1rem 0;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid #28a745;
+            margin: 1rem 0;
+        }
+    </style>
+    <script>
+        // AUTO-REDIRECT SCRIPT
+        document.addEventListener('DOMContentLoaded', function() {
+            var path = window.location.pathname;
+            console.log('Current path:', path);
+            
+            // Pattern 1: /van-ban/chu-de/de-muc/[slug]/
+            var pattern1 = /^\/van-ban\/chu-de\/de-muc\/([^\/]+)\/$/;
+            
+            // Pattern 2: /van-ban/chu-de/de-muc/[slug] (no trailing slash)
+            var pattern2 = /^\/van-ban\/chu-de\/de-muc\/([^\/]+)$/;
+            
+            var match = path.match(pattern1) || path.match(pattern2);
+            
+            if (match) {
+                var slug = match[1];
+                var correctUrl = 'https://docs.diepxuan.com/van-ban/de-muc/' + slug + '/';
+                
+                console.log('Redirecting to:', correctUrl);
+                
+                // Hiển thị thông báo
+                document.getElementById('currentUrl').textContent = window.location.href;
+                document.getElementById('correctUrl').textContent = correctUrl;
+                document.getElementById('correctUrlLink').href = correctUrl;
+                document.getElementById('redirectMessage').style.display = 'block';
+                
+                // Tự động redirect sau 3 giây
+                setTimeout(function() {
+                    window.location.href = correctUrl;
+                }, 3000);
+                
+                // Hoặc redirect ngay nếu user click
+                document.getElementById('redirectNow').addEventListener('click', function() {
+                    window.location.href = correctUrl;
+                });
+            }
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>🔄 Redirect Fix - Bộ Pháp điển Điện tử</h1>
+        
+        <div class="note">
+            <p><strong>Lưu ý:</strong> Trang này tự động phát hiện và sửa URLs sai.</p>
+        </div>
+        
+        <div id="redirectMessage" style="display: none;">
+            <div class="success">
+                <h3>✅ Đã phát hiện URL sai!</h3>
+                <p><strong>URL hiện tại:</strong><br>
+                <span id="currentUrl" class="url-box"></span></p>
+                
+                <p><strong>URL đúng:</strong><br>
+                <a id="correctUrlLink" href="#">
+                    <span id="correctUrl" class="url-box correct"></span>
+                </a></p>
+                
+                <p>Tự động chuyển hướng sau <span id="countdown">3</span> giây...</p>
+                
+                <a href="#" id="redirectNow" class="button">Chuyển hướng ngay</a>
+            </div>
+        </div>
+        
+        <h2>🔧 Vấn đề URLs sai</h2>
+        
+        <p><strong>URL SAI (404 Not Found):</strong></p>
+        <div class="url-box">
+            https://docs.diepxuan.com/van-ban/chu-de/de-muc/[tên-đề-mục]/
+        </div>
+        
+        <p><strong>Vấn đề:</strong> Thừa <code>chu-de/</code> trong đường dẫn.</p>
+        
+        <p><strong>URL ĐÚNG:</strong></p>
+        <div class="url-box correct">
+            https://docs.diepxuan.com/van-ban/de-muc/[tên-đề-mục]/
+        </div>
+        
+        <h2>📋 Ví dụ cụ thể</h2>
+        
+        <table style="width: 100%; border-collapse: collapse; margin: 1rem 0;">
+            <tr style="background: #f8f9fa;">
+                <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">❌ SAI (404)</th>
+                <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">✅ ĐÚNG</th>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">
+                    <a href="https://docs.diepxuan.com/van-ban/chu-de/de-muc/bao-hiem-y-te/" target="_blank">
+                        /van-ban/chu-de/de-muc/bao-hiem-y-te/
+                    </a>
+                </td>
+                <td style="padding: 10px; border: 1px solid #ddd;">
+                    <a href="https://docs.diepxuan.com/van-ban/de-muc/bao-hiem-y-te/" target="_blank">
+                        /van-ban/de-muc/bao-hiem-y-te/
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">
+                    <a href="https://docs.diepxuan.com/van-ban/chu-de/de-muc/an-ninh-quoc-gia/" target="_blank">
+                        /van-ban/chu-de/de-muc/an-ninh-quoc-gia/
+                    </a>
+                </td>
+                <td style="padding: 10px; border: 1px solid #ddd;">
+                    <a href="https://docs.diepxuan.com/van-ban/de-muc/an-ninh-quoc-gia/" target="_blank">
+                        /van-ban/de-muc/an-ninh-quoc-gia/
+                    </a>
+                </td>
+            </tr>
+        </table>
+        
+        <h2>🎯 Cấu trúc URLs đúng</h2>
+        
+        <ol>
+            <li><strong>Trang chính:</strong> <code>/van-ban/</code></li>
+            <li><strong>Trang chủ đề:</strong> <code>/van-ban/chu-de/[tên-chủ-đề]/</code></li>
+            <li><strong>Trang đề mục:</strong> <code>/van-ban/de-muc/[tên-đề-mục]/</code></li>
+        </ol>
+        
+        <div class="note">
+            <p><strong>Quy tắc:</strong> KHÔNG BAO GIỜ kết hợp <code>chu-de/de-muc/</code> trong cùng một URL.</p>
+        </div>
+        
+        <h2>🚀 Truy cập nhanh</h2>
+        
+        <p>
+            <a href="https://docs.diepxuan.com/van-ban/" class="button" target="_blank">Trang chính van-ban</a>
+            <a href="https://docs.diepxuan.com/van-ban/chu-de/bao-hiem/" class="button" target="_blank">Chủ đề: Bảo hiểm</a>
+            <a href="https://docs.diepxuan.com/van-ban/de-muc/bao-hiem-y-te/" class="button" target="_blank">Đề mục: Bảo hiểm y tế</a>
+        </p>
+        
+        <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ddd; font-size: 0.9rem; color: #666;">
+            <p><strong>Cập nhật:</strong> 2026-02-22 | <strong>PR:</strong> #28 đã merge | <strong>Fix:</strong> JavaScript auto-redirect</p>
+            <p>Trang này sẽ tự động redirect các URLs sai đến URLs đúng.</p>
+        </div>
+    </div>
+    
+    <script>
+        // Countdown timer
+        var countdownEl = document.getElementById('countdown');
+        if (countdownEl) {
+            var seconds = 3;
+            var countdown = setInterval(function() {
+                seconds--;
+                countdownEl.textContent = seconds;
+                if (seconds <= 0) {
+                    clearInterval(countdown);
+                }
+            }, 1000);
+        }
+    </script>
+</body>
+</html>

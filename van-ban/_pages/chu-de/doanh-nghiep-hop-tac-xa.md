@@ -12,13 +12,13 @@ permalink: /van-ban/chu-de/doanh-nghiep-hop-tac-xa/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Doanh nghiệp](/van-ban/de-muc/doanh-nghiep/)**
-2. **[Hỗ trợ doanh nghiệp nhỏ và vừa](/van-ban/de-muc/ho-tro-doanh-nghiep-nho-va-vua/)**
-3. **[Hợp tác xã](/van-ban/de-muc/hop-tac-xa/)**
+1. **[Doanh nghiệp]({{ site.baseurl }}/de-muc/doanh-nghiep/)**
+2. **[Hỗ trợ doanh nghiệp nhỏ và vừa]({{ site.baseurl }}/de-muc/ho-tro-doanh-nghiep-nho-va-vua/)**
+3. **[Hợp tác xã]({{ site.baseurl }}/de-muc/hop-tac-xa/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 3

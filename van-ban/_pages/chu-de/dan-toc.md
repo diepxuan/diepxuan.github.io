@@ -15,7 +15,7 @@ permalink: /van-ban/chu-de/dan-toc/
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 0

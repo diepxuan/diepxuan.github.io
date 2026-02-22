@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/tieu-chuan-va-quy-chuan-ky-thuat/
 # Tiêu chuẩn và quy chuẩn kỹ thuật
 
 **Đề mục:** Tiêu chuẩn và quy chuẩn kỹ thuật  
-**Chủ đề:** [Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
+**Chủ đề:** [Khoa học, công nghệ]({{ site.baseurl }}/chu-de/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 421  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4226,7 +4226,7 @@ permalink: /van-ban/de-muc/tieu-chuan-va-quy-chuan-ky-thuat/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
+[← Danh sách đề mục của Khoa học, công nghệ]({{ site.baseurl }}/chu-de/khoa-hoc-cong-nghe/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

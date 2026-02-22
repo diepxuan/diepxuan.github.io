@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hang-khong-dan-dung-viet-nam/
 # Hàng không dân dụng Việt Nam
 
 **Đề mục:** Hàng không dân dụng Việt Nam  
-**Chủ đề:** [Giao thông, vận tải](/van-ban/chu-de/giao-thong-van-tai/)  
+**Chủ đề:** [Giao thông, vận tải]({{ site.baseurl }}/chu-de/giao-thong-van-tai/)  
 **Số điều khoản:** 1699  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -17006,7 +17006,7 @@ permalink: /van-ban/de-muc/hang-khong-dan-dung-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Giao thông, vận tải](/van-ban/chu-de/giao-thong-van-tai/)  
+[← Danh sách đề mục của Giao thông, vận tải]({{ site.baseurl }}/chu-de/giao-thong-van-tai/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

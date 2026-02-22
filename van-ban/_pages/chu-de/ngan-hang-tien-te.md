@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/ngan-hang-tien-te/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Bảo hiểm tiền gửi](/van-ban/de-muc/bao-hiem-tien-gui/)**
-2. **[Các công cụ chuyển nhượng](/van-ban/de-muc/cac-cong-cu-chuyen-nhuong/)**
-3. **[Ngân hàng Nhà nước Việt Nam](/van-ban/de-muc/ngan-hang-nha-nuoc-viet-nam/)**
-4. **[Ngoại hối](/van-ban/de-muc/ngoai-hoi/)**
+1. **[Bảo hiểm tiền gửi]({{ site.baseurl }}/de-muc/bao-hiem-tien-gui/)**
+2. **[Các công cụ chuyển nhượng]({{ site.baseurl }}/de-muc/cac-cong-cu-chuyen-nhuong/)**
+3. **[Ngân hàng Nhà nước Việt Nam]({{ site.baseurl }}/de-muc/ngan-hang-nha-nuoc-viet-nam/)**
+4. **[Ngoại hối]({{ site.baseurl }}/de-muc/ngoai-hoi/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/hanh-chinh-tu-phap/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký](/van-ban/de-muc/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky/)**
-2. **[Hộ tịch](/van-ban/de-muc/ho-tich/)**
-3. **[Lý lịch tư pháp](/van-ban/de-muc/ly-lich-tu-phap/)**
-4. **[Nuôi con nuôi](/van-ban/de-muc/nuoi-con-nuoi/)**
-5. **[Quốc tịch Việt Nam](/van-ban/de-muc/quoc-tich-viet-nam/)**
+1. **[Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký]({{ site.baseurl }}/de-muc/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky/)**
+2. **[Hộ tịch]({{ site.baseurl }}/de-muc/ho-tich/)**
+3. **[Lý lịch tư pháp]({{ site.baseurl }}/de-muc/ly-lich-tu-phap/)**
+4. **[Nuôi con nuôi]({{ site.baseurl }}/de-muc/nuoi-con-nuoi/)**
+5. **[Quốc tịch Việt Nam]({{ site.baseurl }}/de-muc/quoc-tich-viet-nam/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

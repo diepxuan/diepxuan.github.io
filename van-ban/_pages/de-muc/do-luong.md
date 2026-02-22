@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/do-luong/
 # Đo lường
 
 **Đề mục:** Đo lường  
-**Chủ đề:** [Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
+**Chủ đề:** [Khoa học, công nghệ]({{ site.baseurl }}/chu-de/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 429  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4306,7 +4306,7 @@ permalink: /van-ban/de-muc/do-luong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
+[← Danh sách đề mục của Khoa học, công nghệ]({{ site.baseurl }}/chu-de/khoa-hoc-cong-nghe/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

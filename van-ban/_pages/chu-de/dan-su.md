@@ -12,13 +12,13 @@ permalink: /van-ban/chu-de/dan-su/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Dân sự](/van-ban/de-muc/dan-su/)**
-2. **[Đăng ký biện pháp bảo đảm](/van-ban/de-muc/dang-ky-bien-phap-bao-dam/)**
-3. **[Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ](/van-ban/de-muc/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu/)**
+1. **[Dân sự]({{ site.baseurl }}/de-muc/dan-su/)**
+2. **[Đăng ký biện pháp bảo đảm]({{ site.baseurl }}/de-muc/dang-ky-bien-phap-bao-dam/)**
+3. **[Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ]({{ site.baseurl }}/de-muc/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 3

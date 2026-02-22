@@ -12,17 +12,17 @@ permalink: /van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Bảo vệ quyền lợi người tiêu dùng](/van-ban/de-muc/bao-ve-quyen-loi-nguoi-tieu-dung/)**
-2. **[Một số hoạt động kinh doanh đặc thù](/van-ban/de-muc/mot-so-hoat-dong-kinh-doanh-dac-thu/)**
-3. **[Quản lý thị trường](/van-ban/de-muc/quan-ly-thi-truong/)**
-4. **[Thương mại](/van-ban/de-muc/thuong-mai/)**
-5. **[Cạnh tranh](/van-ban/de-muc/canh-tranh/)**
-6. **[Quản lý ngoại thương](/van-ban/de-muc/quan-ly-ngoai-thuong/)**
-7. **[Chứng khoán](/van-ban/de-muc/chung-khoan/)**
+1. **[Bảo vệ quyền lợi người tiêu dùng]({{ site.baseurl }}/de-muc/bao-ve-quyen-loi-nguoi-tieu-dung/)**
+2. **[Một số hoạt động kinh doanh đặc thù]({{ site.baseurl }}/de-muc/mot-so-hoat-dong-kinh-doanh-dac-thu/)**
+3. **[Quản lý thị trường]({{ site.baseurl }}/de-muc/quan-ly-thi-truong/)**
+4. **[Thương mại]({{ site.baseurl }}/de-muc/thuong-mai/)**
+5. **[Cạnh tranh]({{ site.baseurl }}/de-muc/canh-tranh/)**
+6. **[Quản lý ngoại thương]({{ site.baseurl }}/de-muc/quan-ly-ngoai-thuong/)**
+7. **[Chứng khoán]({{ site.baseurl }}/de-muc/chung-khoan/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 7

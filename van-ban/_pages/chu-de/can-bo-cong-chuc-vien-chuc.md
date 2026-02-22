@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/can-bo-cong-chuc-vien-chuc/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Viên chức](/van-ban/de-muc/vien-chuc/)**
+1. **[Viên chức]({{ site.baseurl }}/de-muc/vien-chuc/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

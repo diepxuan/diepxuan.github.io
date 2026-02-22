@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/si-quan-quan-doi-nhan-dan-viet-nam/
 # Sĩ quan Quân đội nhân dân Việt Nam
 
 **Đề mục:** Sĩ quan Quân đội nhân dân Việt Nam  
-**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 **Số điều khoản:** 289  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2906,7 +2906,7 @@ permalink: /van-ban/de-muc/si-quan-quan-doi-nhan-dan-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

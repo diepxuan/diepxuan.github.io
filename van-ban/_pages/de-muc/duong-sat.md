@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/duong-sat/
 # Đường sắt
 
 **Đề mục:** Đường sắt  
-**Chủ đề:** [Giao thông, vận tải](/van-ban/chu-de/giao-thong-van-tai/)  
+**Chủ đề:** [Giao thông, vận tải]({{ site.baseurl }}/chu-de/giao-thong-van-tai/)  
 **Số điều khoản:** 877  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -8786,7 +8786,7 @@ permalink: /van-ban/de-muc/duong-sat/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Giao thông, vận tải](/van-ban/chu-de/giao-thong-van-tai/)  
+[← Danh sách đề mục của Giao thông, vận tải]({{ site.baseurl }}/chu-de/giao-thong-van-tai/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

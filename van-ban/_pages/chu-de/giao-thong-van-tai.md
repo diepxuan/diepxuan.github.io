@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/giao-thong-van-tai/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Đường sắt](/van-ban/de-muc/duong-sat/)**
-2. **[Giao thông đường thủy nội địa](/van-ban/de-muc/giao-thong-duong-thuy-noi-dia/)**
-3. **[Hàng hải Việt Nam](/van-ban/de-muc/hang-hai-viet-nam/)**
-4. **[Hàng không dân dụng Việt Nam](/van-ban/de-muc/hang-khong-dan-dung-viet-nam/)**
+1. **[Đường sắt]({{ site.baseurl }}/de-muc/duong-sat/)**
+2. **[Giao thông đường thủy nội địa]({{ site.baseurl }}/de-muc/giao-thong-duong-thuy-noi-dia/)**
+3. **[Hàng hải Việt Nam]({{ site.baseurl }}/de-muc/hang-hai-viet-nam/)**
+4. **[Hàng không dân dụng Việt Nam]({{ site.baseurl }}/de-muc/hang-khong-dan-dung-viet-nam/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

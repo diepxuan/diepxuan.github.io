@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/kiem-soat-thu-tuc-hanh-chinh/
 # Kiểm soát thủ tục hành chính
 
 **Đề mục:** Kiểm soát thủ tục hành chính  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 94  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -956,7 +956,7 @@ permalink: /van-ban/de-muc/kiem-soat-thu-tuc-hanh-chinh/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

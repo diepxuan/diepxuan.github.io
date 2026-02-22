@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dau-khi/
 # Dầu khí
 
 **Đề mục:** Dầu khí  
-**Chủ đề:** [Công nghiệp](/van-ban/chu-de/cong-nghiep/)  
+**Chủ đề:** [Công nghiệp]({{ site.baseurl }}/chu-de/cong-nghiep/)  
 **Số điều khoản:** 436  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4376,7 +4376,7 @@ permalink: /van-ban/de-muc/dau-khi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Công nghiệp](/van-ban/chu-de/cong-nghiep/)  
+[← Danh sách đề mục của Công nghiệp]({{ site.baseurl }}/chu-de/cong-nghiep/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

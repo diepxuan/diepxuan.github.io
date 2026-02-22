@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/canh-sat-bien-viet-nam/
 # Cảnh sát biển Việt Nam
 
 **Đề mục:** Cảnh sát biển Việt Nam  
-**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 **Số điều khoản:** 174  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1756,7 +1756,7 @@ permalink: /van-ban/de-muc/canh-sat-bien-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

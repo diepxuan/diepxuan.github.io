@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/cong-nghiep/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Dầu khí](/van-ban/de-muc/dau-khi/)**
-2. **[Hóa chất](/van-ban/de-muc/hoa-chat/)**
-3. **[Khuyến công](/van-ban/de-muc/khuyen-cong/)**
-4. **[Sử dụng năng lượng tiết kiệm và hiệu quả](/van-ban/de-muc/su-dung-nang-luong-tiet-kiem-va-hieu-qua/)**
+1. **[Dầu khí]({{ site.baseurl }}/de-muc/dau-khi/)**
+2. **[Hóa chất]({{ site.baseurl }}/de-muc/hoa-chat/)**
+3. **[Khuyến công]({{ site.baseurl }}/de-muc/khuyen-cong/)**
+4. **[Sử dụng năng lượng tiết kiệm và hiệu quả]({{ site.baseurl }}/de-muc/su-dung-nang-luong-tiet-kiem-va-hieu-qua/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/phat-trien-nganh-nghe-nong-thon/
 # Phát triển ngành nghề nông thôn
 
 **Đề mục:** Phát triển ngành nghề nông thôn  
-**Chủ đề:** [Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
+**Chủ đề:** [Nông nghiệp, nông thôn]({{ site.baseurl }}/chu-de/nong-nghiep-nong-thon/)  
 **Số điều khoản:** 133  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1346,7 +1346,7 @@ permalink: /van-ban/de-muc/phat-trien-nganh-nghe-nong-thon/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
+[← Danh sách đề mục của Nông nghiệp, nông thôn]({{ site.baseurl }}/chu-de/nong-nghiep-nong-thon/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
