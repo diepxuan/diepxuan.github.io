@@ -27,11 +27,27 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source: ./van-ban
-          destination: ./_site
+          ruby-version: '3.3'
+          bundler-cache: true
+      
+      - name: Install Jekyll dependencies
+        run: |
+          cd van-ban
+          bundle install
+      
+      - name: Build Jekyll site
+        run: |
+          cd van-ban
+          bundle exec jekyll build --destination ../_site
+      
+      - name: Verify build output
+        run: |
+          echo "Build output structure:"
+          find ./_site -type f -name "*.html" | head -10
+          echo "Total files: $(find ./_site -type f | wc -l)"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
