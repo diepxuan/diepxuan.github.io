@@ -1,68 +1,73 @@
-# Vietnamese Legal Documents (Automatically Collected)
+# Văn bản Pháp luật Tự động Crawl
 
-*Last updated: 2026-02-21 23:48:40*
+*Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d %H:%M" }}*
 
-## Statistics
-- **Total documents**: 10
-- **By source**:
-  - vanban_chinhphu: 10 documents
+## 📊 Thống kê
+- **Tổng số văn bản**: 10
+- **Nguồn dữ liệu**:
+  - vanban_chinhphu: 10 văn bản
 
-## Document List
+## 📋 Danh sách Văn bản
 
-### Source: vanban_chinhphu
+### Nguồn: vanban.chinhphu.vn
 
 #### Văn bản mới
 - **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=0&mode=1&maxresults=50
-- **Crawled at**: 2026-02-21T23:48:34
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Văn bản quy phạm pháp luật
 - **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1
-- **Crawled at**: 2026-02-21T23:48:34
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Quốc hội
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=1
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=1
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Chính phủ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=2
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=2
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Thủ tướng Chính phủ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=3
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=3
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Bộ/Cơ quan ngang bộ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=4
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=4
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Liên bộ
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=5
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=5
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### UBND tỉnh/thành phố
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&orggroupid=6
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&orggroupid=6
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Hiến pháp
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=1
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=1
+- **Crawl lúc**: 2026-02-21T23:48:34
 
 #### Sắc lệnh - Sắc luật
-- **URL**: https://vanban.chinhphu.vnhe-thong-van-ban?classid=1&mode=1&typegroupid=2
-- **Crawled at**: 2026-02-21T23:48:34
+- **URL**: https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1&typegroupid=2
+- **Crawl lúc**: 2026-02-21T23:48:34
 
+## ⚙️ Cấu hình
 
-## Configuration
+Văn bản được tự động crawl bởi GitHub Actions:
+- **Lịch trình**: Hàng tuần (Thứ 2, 9:00 sáng GMT+7)
+- **Nguồn dữ liệu**:
+  - vanban.chinhphu.vn (Văn bản Chính phủ)
+  - thuvienphapluat.vn (Thư viện Pháp luật) - dự kiến
+  - moj.gov.vn (Bộ Tư pháp) - dự kiến
 
-Documents are automatically collected by GitHub Actions:
-- **Schedule**: Weekly (Monday, 9:00 AM GMT+7)
-- **Data sources**:
-  - vanban.chinhphu.vn (Government Documents)
-  - thuvienphapluat.vn (Legal Library)
-  - moj.gov.vn (Ministry of Justice) - planned
+## 📝 Ghi chú
 
-## Notes
+1. Dữ liệu được crawl tự động, có thể không đầy đủ
+2. Kiểm tra link gốc để xem nội dung đầy đủ
+3. Báo cáo lỗi tại repository GitHub
 
-1. Data is automatically collected, may not be complete
-2. Check original link for full content
-3. Report issues at GitHub repository
+## 🔗 Liên kết
+
+- [Bộ Pháp điển Điện tử](../phap-dien/) - Database pháp luật hoàn chỉnh
+- [Trang chủ Văn bản](../) - Tổng quan văn bản pháp luật
+- [Website chính](https://docs.diepxuan.com/) - Trang chủ docs
