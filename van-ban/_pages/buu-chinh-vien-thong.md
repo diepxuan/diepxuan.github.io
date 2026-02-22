@@ -2,7 +2,7 @@
 layout: default
 title: Bưu chính, viễn thông
 permalink: /van-ban/buu-chinh-vien-thong/
-collection: topics
+collection: vanban_topics
 slug: buu-chinh-vien-thong
 ---
 

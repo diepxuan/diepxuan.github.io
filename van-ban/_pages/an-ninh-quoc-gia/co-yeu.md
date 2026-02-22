@@ -2,7 +2,7 @@
 layout: default
 title: Cơ yếu
 permalink: /van-ban/an-ninh-quoc-gia/co-yeu/
-collection: subtopics
+collection: vanban_subtopics
 slug: co-yeu
 parent: an-ninh-quoc-gia
 ---

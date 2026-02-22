@@ -2,7 +2,7 @@
 layout: default
 title: Biên phòng Việt Nam
 permalink: /van-ban/quoc-phong/bien-phong-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: bien-phong-viet-nam
 parent: quoc-phong
 ---

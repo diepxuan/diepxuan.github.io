@@ -2,7 +2,7 @@
 layout: default
 title: Tiếp cận thông tin
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/tiep-can-thong-tin/
-collection: subtopics
+collection: vanban_subtopics
 slug: tiep-can-thong-tin
 parent: thong-tin-bao-chi-xuat-ban
 ---

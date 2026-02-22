@@ -2,7 +2,7 @@
 layout: default
 title: Trẻ em
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/tre-em/
-collection: subtopics
+collection: vanban_subtopics
 slug: tre-em
 parent: dan-so-gia-dinh-tre-em-binh-dang-gioi
 ---

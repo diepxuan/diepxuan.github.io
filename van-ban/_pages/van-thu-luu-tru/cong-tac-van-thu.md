@@ -2,7 +2,7 @@
 layout: default
 title: Công tác văn thư
 permalink: /van-ban/van-thu-luu-tru/cong-tac-van-thu/
-collection: subtopics
+collection: vanban_subtopics
 slug: cong-tac-van-thu
 parent: van-thu-luu-tru
 ---

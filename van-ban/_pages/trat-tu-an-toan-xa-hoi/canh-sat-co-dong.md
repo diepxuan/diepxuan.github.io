@@ -2,7 +2,7 @@
 layout: default
 title: Cảnh sát cơ động
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/canh-sat-co-dong/
-collection: subtopics
+collection: vanban_subtopics
 slug: canh-sat-co-dong
 parent: trat-tu-an-toan-xa-hoi
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Công bố, phổ biến tác phẩm ra nước ngoài
 permalink: /van-ban/van-hoa-the-thao-du-lich/cong-bo-pho-bien-tac-pham-ra-nuoc-ngoai/
-collection: subtopics
+collection: vanban_subtopics
 slug: cong-bo-pho-bien-tac-pham-ra-nuoc-ngoai
 parent: van-hoa-the-thao-du-lich
 ---

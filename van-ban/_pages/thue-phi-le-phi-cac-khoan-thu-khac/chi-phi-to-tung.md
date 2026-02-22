@@ -2,7 +2,7 @@
 layout: default
 title: Chi phí tố tụng
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/chi-phi-to-tung/
-collection: subtopics
+collection: vanban_subtopics
 slug: chi-phi-to-tung
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---

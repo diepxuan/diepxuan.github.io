@@ -2,7 +2,7 @@
 layout: default
 title: Đa dạng sinh học
 permalink: /van-ban/moi-truong/da-dang-sinh-hoc/
-collection: subtopics
+collection: vanban_subtopics
 slug: da-dang-sinh-hoc
 parent: moi-truong
 ---

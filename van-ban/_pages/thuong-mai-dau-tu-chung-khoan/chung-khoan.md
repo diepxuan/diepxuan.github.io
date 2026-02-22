@@ -2,7 +2,7 @@
 layout: default
 title: Chứng khoán
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/chung-khoan/
-collection: subtopics
+collection: vanban_subtopics
 slug: chung-khoan
 parent: thuong-mai-dau-tu-chung-khoan
 ---

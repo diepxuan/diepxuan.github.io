@@ -2,7 +2,7 @@
 layout: default
 title: Xây dựng pháp luật và thi hành pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/
-collection: topics
+collection: vanban_topics
 slug: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 

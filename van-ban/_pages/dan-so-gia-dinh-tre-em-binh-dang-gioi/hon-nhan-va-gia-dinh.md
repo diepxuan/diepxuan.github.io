@@ -2,7 +2,7 @@
 layout: default
 title: Hôn nhân và gia đình
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/hon-nhan-va-gia-dinh/
-collection: subtopics
+collection: vanban_subtopics
 slug: hon-nhan-va-gia-dinh
 parent: dan-so-gia-dinh-tre-em-binh-dang-gioi
 ---

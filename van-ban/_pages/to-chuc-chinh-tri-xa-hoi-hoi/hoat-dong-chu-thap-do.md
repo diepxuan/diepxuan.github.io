@@ -2,7 +2,7 @@
 layout: default
 title: Hoạt động chữ thập đỏ
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/hoat-dong-chu-thap-do/
-collection: subtopics
+collection: vanban_subtopics
 slug: hoat-dong-chu-thap-do
 parent: to-chuc-chinh-tri-xa-hoi-hoi
 ---

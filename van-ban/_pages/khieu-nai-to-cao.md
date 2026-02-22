@@ -2,7 +2,7 @@
 layout: default
 title: Khiếu nại, tố cáo
 permalink: /van-ban/khieu-nai-to-cao/
-collection: topics
+collection: vanban_topics
 slug: khieu-nai-to-cao
 ---
 

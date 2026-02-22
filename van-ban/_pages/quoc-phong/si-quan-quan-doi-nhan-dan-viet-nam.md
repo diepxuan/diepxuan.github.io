@@ -2,7 +2,7 @@
 layout: default
 title: Sĩ quan Quân đội nhân dân Việt Nam
 permalink: /van-ban/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: si-quan-quan-doi-nhan-dan-viet-nam
 parent: quoc-phong
 ---

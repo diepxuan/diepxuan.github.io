@@ -2,7 +2,7 @@
 layout: default
 title: Dân quân tự vệ
 permalink: /van-ban/quoc-phong/dan-quan-tu-ve/
-collection: subtopics
+collection: vanban_subtopics
 slug: dan-quan-tu-ve
 parent: quoc-phong
 ---

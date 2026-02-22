@@ -2,7 +2,7 @@
 layout: default
 title: Thuế tiêu thụ đặc biệt
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tieu-thu-dac-biet/
-collection: subtopics
+collection: vanban_subtopics
 slug: thue-tieu-thu-dac-biet
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---

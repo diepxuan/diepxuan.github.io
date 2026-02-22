@@ -2,7 +2,7 @@
 layout: default
 title: Khí tượng thủy văn
 permalink: /van-ban/tai-nguyen/khi-tuong-thuy-van/
-collection: subtopics
+collection: vanban_subtopics
 slug: khi-tuong-thuy-van
 parent: tai-nguyen
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Điều kiện sản xuất mỹ phẩm
 permalink: /van-ban/y-te-duoc/dieu-kien-san-xuat-my-pham/
-collection: subtopics
+collection: vanban_subtopics
 slug: dieu-kien-san-xuat-my-pham
 parent: y-te-duoc
 ---

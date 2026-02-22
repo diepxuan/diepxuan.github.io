@@ -2,7 +2,7 @@
 layout: default
 title: Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội
 permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi/
-collection: subtopics
+collection: vanban_subtopics
 slug: chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi
 parent: chinh-sach-xa-hoi
 ---

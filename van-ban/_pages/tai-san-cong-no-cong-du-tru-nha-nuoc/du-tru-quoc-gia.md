@@ -2,7 +2,7 @@
 layout: default
 title: Dự trữ quốc gia
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/du-tru-quoc-gia/
-collection: subtopics
+collection: vanban_subtopics
 slug: du-tru-quoc-gia
 parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 ---

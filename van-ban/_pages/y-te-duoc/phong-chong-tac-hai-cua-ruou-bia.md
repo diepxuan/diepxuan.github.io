@@ -2,7 +2,7 @@
 layout: default
 title: Phòng, chống tác hại của rượu, bia
 permalink: /van-ban/y-te-duoc/phong-chong-tac-hai-cua-ruou-bia/
-collection: subtopics
+collection: vanban_subtopics
 slug: phong-chong-tac-hai-cua-ruou-bia
 parent: y-te-duoc
 ---

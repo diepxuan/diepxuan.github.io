@@ -2,7 +2,7 @@
 layout: default
 title: Thủy lợi
 permalink: /van-ban/nong-nghiep-nong-thon/thuy-loi/
-collection: subtopics
+collection: vanban_subtopics
 slug: thuy-loi
 parent: nong-nghiep-nong-thon
 ---

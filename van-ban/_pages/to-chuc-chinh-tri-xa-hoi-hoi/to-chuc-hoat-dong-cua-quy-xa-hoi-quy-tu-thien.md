@@ -2,7 +2,7 @@
 layout: default
 title: Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien/
-collection: subtopics
+collection: vanban_subtopics
 slug: to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien
 parent: to-chuc-chinh-tri-xa-hoi-hoi
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Thanh niên
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/thanh-nien/
-collection: subtopics
+collection: vanban_subtopics
 slug: thanh-nien
 parent: to-chuc-chinh-tri-xa-hoi-hoi
 ---

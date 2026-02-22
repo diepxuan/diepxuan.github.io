@@ -2,7 +2,7 @@
 layout: default
 title: Bảo vệ bí mật nhà nước
 permalink: /van-ban/an-ninh-quoc-gia/bao-ve-bi-mat-nha-nuoc/
-collection: subtopics
+collection: vanban_subtopics
 slug: bao-ve-bi-mat-nha-nuoc
 parent: an-ninh-quoc-gia
 ---

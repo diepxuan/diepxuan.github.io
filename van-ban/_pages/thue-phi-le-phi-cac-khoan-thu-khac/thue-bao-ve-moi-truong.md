@@ -2,7 +2,7 @@
 layout: default
 title: Thuế bảo vệ môi trường
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-bao-ve-moi-truong/
-collection: subtopics
+collection: vanban_subtopics
 slug: thue-bao-ve-moi-truong
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---

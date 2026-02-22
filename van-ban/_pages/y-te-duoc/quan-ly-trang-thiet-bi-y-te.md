@@ -2,7 +2,7 @@
 layout: default
 title: Quản lý trang thiết bị y tế
 permalink: /van-ban/y-te-duoc/quan-ly-trang-thiet-bi-y-te/
-collection: subtopics
+collection: vanban_subtopics
 slug: quan-ly-trang-thiet-bi-y-te
 parent: y-te-duoc
 ---

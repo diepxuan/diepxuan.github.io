@@ -2,7 +2,7 @@
 layout: default
 title: Bảo hiểm
 permalink: /van-ban/bao-hiem/
-collection: topics
+collection: vanban_topics
 slug: bao-hiem
 ---
 

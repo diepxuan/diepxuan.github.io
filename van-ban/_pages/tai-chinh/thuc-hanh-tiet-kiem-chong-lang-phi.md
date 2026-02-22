@@ -2,7 +2,7 @@
 layout: default
 title: Thực hành tiết kiệm, chống lãng phí
 permalink: /van-ban/tai-chinh/thuc-hanh-tiet-kiem-chong-lang-phi/
-collection: subtopics
+collection: vanban_subtopics
 slug: thuc-hanh-tiet-kiem-chong-lang-phi
 parent: tai-chinh
 ---

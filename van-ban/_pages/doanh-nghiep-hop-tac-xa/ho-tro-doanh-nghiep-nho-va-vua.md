@@ -2,7 +2,7 @@
 layout: default
 title: Hỗ trợ doanh nghiệp nhỏ và vừa
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/ho-tro-doanh-nghiep-nho-va-vua/
-collection: subtopics
+collection: vanban_subtopics
 slug: ho-tro-doanh-nghiep-nho-va-vua
 parent: doanh-nghiep-hop-tac-xa
 ---
