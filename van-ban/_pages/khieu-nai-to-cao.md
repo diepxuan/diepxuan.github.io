@@ -8,14 +8,15 @@ permalink: /van-ban/khieu-nai-to-cao/
 
 **Chủ đề:** Khiếu nại, tố cáo  
 **Số đề mục:** 4  
+**Số điều khoản:** 1,091  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📋 Danh sách Đề mục
 
-1. **[Khiếu nại](/van-ban/khieu-nai-to-cao/khieu-nai/)**
-2. **[Phòng, chống tham nhũng](/van-ban/khieu-nai-to-cao/phong-chong-tham-nhung/)**
-3. **[Tiếp công dân](/van-ban/khieu-nai-to-cao/tiep-cong-dan/)**
-4. **[Tố cáo](/van-ban/khieu-nai-to-cao/to-cao/)**
+1. **[Khiếu nại](/van-ban/khieu-nai-to-cao/khieu-nai/)** - 243 điều khoản
+2. **[Phòng, chống tham nhũng](/van-ban/khieu-nai-to-cao/phong-chong-tham-nhung/)** - 340 điều khoản
+3. **[Tiếp công dân](/van-ban/khieu-nai-to-cao/tiep-cong-dan/)** - 238 điều khoản
+4. **[Tố cáo](/van-ban/khieu-nai-to-cao/to-cao/)** - 270 điều khoản
 
 
 ## 🔙 Quay lại
@@ -23,11 +24,14 @@ permalink: /van-ban/khieu-nai-to-cao/
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4
+- **Tổng số điều khoản:** 1,091
 - **ID chủ đề:** ff58c8ec-ab1b-4fdd-b732-5f09f9fa09cd
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản trong chủ đề này.
+## 🔍 Cách sử dụng
+1. **Chọn đề mục** từ danh sách trên
+2. **Xem nội dung đầy đủ** của đề mục
+3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

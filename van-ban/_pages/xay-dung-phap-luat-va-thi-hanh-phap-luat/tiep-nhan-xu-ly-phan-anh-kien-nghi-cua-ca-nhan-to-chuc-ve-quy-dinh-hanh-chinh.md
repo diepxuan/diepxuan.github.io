@@ -7,21 +7,12 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 # Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 
 **Đề mục:** Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 50  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I NHỮNG QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 44012000000000001000
-
-**ID:** BB3918C6-6733-46A0-A1ED-092639D821A2
-
----
 
 ### Điều 44.12.NĐ.1. Phạm vi điều chỉnh
 
@@ -33,305 +24,6 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
-### Điều 44.12.NĐ.2. Đối tượng áp dụng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4401200000000000100000200000000000000000
-
-**ID:** BA2CEA51-DEB0-479A-AAD9-F6EDE5CA1061
-
----
-
-### Điều 44.12.NĐ.3. Giải thích từ ngữ
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 4401200000000000100000300000000000000000
-
-**ID:** B4B5835B-E852-412F-8D02-18246FBB6BF2
-
----
-
-### Điều 44.12.NĐ.4. Nguyên tắc tiếp nhận, xử lý
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 4401200000000000100000400000000000000000
-
-**ID:** 075B6A2C-4408-43ED-B69E-F9745AA2CF1A
-
----
-
-### Chương II NỘI DUNG, HÌNH THỨC VÀ YÊU CẦU VỀ PHẢN ÁNH, KIẾN NGHỊ
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 44012000000000002000
-
-**ID:** C0319332-25F6-4E94-8A94-6298E9F0C498
-
----
-
-### Điều 44.12.NĐ.5. Nội dung phản ánh, kiến nghị
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 4401200000000000200000500000000000000000
-
-**ID:** EA6A8349-04EB-4BB7-826B-236DDEFEE175
-
----
-
-### Điều 44.12.NĐ.6. Hình thức phản ánh, kiến nghị
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 4401200000000000200000600000000000000000
-
-**ID:** E5823252-B83A-44C4-843B-5A0F6FF98150
-
----
-
-### Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 4401200000000000200000700000000000000000
-
-**ID:** 506361AB-3500-4C5F-B0DD-E078FEC6B52E
-
----
-
-### Chương III TIẾP NHẬN PHẢN ÁNH, KIẾN NGHỊ
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 44012000000000003000
-
-**ID:** 9338E317-C657-433F-AE7C-31DB74585F5E
-
----
-
-### Điều 44.12.NĐ.8. Cơ quan tiếp nhận phản ánh, kiến nghị
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 4401200000000000300000800000000000000000
-
-**ID:** 3BC77D41-63FF-4893-8E99-5CEC6B7C9890
-
----
-
-### Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 4401200000000000300000900000000000000000
-
-**ID:** 87993C03-F092-41E2-A01F-45CF47043A8F
-
----
-
-### Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 4401200000000000300001000000000000000000
-
-**ID:** 762913A6-8329-41F7-B7C9-3CFED573D186
-
----
-
-### Điều 44.12.NĐ.11. Trách nhiệm của cán bộ, công chức thực hiện việc tiếp nhận phản ánh, kiến nghị
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 4401200000000000300001100000000000000000
-
-**ID:** F7F0930C-2567-4927-96C9-1192E99EEDEC
-
----
-
-### Điều 44.12.NĐ.12. Quyền và trách nhiệm của cá nhân, tổ chức có phản ánh, kiến nghị
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 4401200000000000300001200000000000000000
-
-**ID:** 3C681A7D-FEA3-4DCA-A2CF-6E3C8F47197B
-
----
-
-### Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 4401200000000000300001300000000000000000
-
-**ID:** E0C9AE83-7AA2-48E6-967E-A216B452D24E
-
----
-
-### Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 440120000000000030000130000000000000000000802499500050001200
-
-**ID:** 390F1326-479D-413C-B059-7F4B8C8C1C68
-
----
-
-### Chương IV XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 44012000000000004000
-
-**ID:** 37BAEA97-10B1-4EF3-B410-65FACCEF1829
-
----
-
-### Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 4401200000000000400001400000000000000000
-
-**ID:** AAE70AD2-A6C9-4BFF-AE1C-257AE4B6966B
-
----
-
-### Điều 44.12.NĐ.15. Hình thức xử lý phản ánh, kiến nghị
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 4401200000000000400001500000000000000000
-
-**ID:** 7D4A67D9-3619-4820-8223-A7A233BE952D
-
----
-
-### Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 4401200000000000400001600000000000000000
-
-**ID:** 5BD5DA93-5D31-46D8-A734-BE32ED4BB01C
-
----
-
-### Điều 44.12.NĐ.17. Trách nhiệm của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ trong xử lý phản ánh, kiến nghị
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 4401200000000000400001700000000000000000
-
-**ID:** 798FC324-669B-4F8C-B1B0-38EDA0E78D87
-
----
-
-### Điều 44.12.NĐ.18. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh trong xử lý phản ánh, kiến nghị
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 4401200000000000400001800000000000000000
-
-**ID:** D3898624-88A4-46BC-8113-D102D4CE761C
-
----
-
-### Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 4401200000000000400001900000000000000000
-
-**ID:** F5575BE7-7F7F-4DF6-B373-642318FF5EFF
-
----
-
-### Chương V CÁC ĐIỀU KIỆN BẢO ĐẢM
-
-**Chỉ mục:** V
-
-**Mã phân cấp:** 44012000000000005000
-
-**ID:** 0923E4B5-8066-46DD-A292-29E0525EE1B3
-
----
-
-### Điều 44.12.NĐ.20. Xây dựng cơ sở dữ liệu điện tử
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 4401200000000000500002000000000000000000
-
-**ID:** 9A2E58B1-B0B3-4426-B492-A989152B2A1D
-
----
-
-### Điều 44.12.NĐ.21. Kinh phí thực hiện
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 4401200000000000500002100000000000000000
-
-**ID:** A316D7A6-8B3C-4244-B581-7676F237B71C
-
----
-
-### Điều 44.12.NĐ.22. Chế độ thông tin báo cáo
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 4401200000000000500002200000000000000000
-
-**ID:** 3FC247DA-EAF2-4D31-A80C-581394291FB2
-
----
-
-### Chương VI KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
-
-**Chỉ mục:** VI
-
-**Mã phân cấp:** 44012000000000006000
-
-**ID:** FDB799FE-2F04-4576-A6E3-6A6CA8167161
-
----
-
-### Điều 44.12.NĐ.23. Khen thưởng
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 4401200000000000600002300000000000000000
-
-**ID:** 72E34644-3FEF-4C0D-9B67-C820720DA096
-
----
-
-### Điều 44.12.NĐ.24. Xử lý vi phạm
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 4401200000000000600002400000000000000000
-
-**ID:** D3AE31B0-9F89-42D3-A449-DF4E54C38AA6
-
----
-
-### Chương VII. QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG MỘT SỐ LĨNH VỰC
-
-**Chỉ mục:** VII
-
-**Mã phân cấp:** 44012000000000006500
-
-**ID:** BE39D23E-FED1-48C6-8E0E-4A70DD1177C4
-
----
 
 ### Mục 1 QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC CÔNG THƯƠNG
 
@@ -343,6 +35,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
+
+### Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị
+
+**Chỉ mục:** 10
+
+**Mã phân cấp:** 4401200000000000300001000000000000000000
+
+**ID:** 762913A6-8329-41F7-B7C9-3CFED573D186
+
+---
+
+
 ### Điều 44.12.TT.2.10. Nơi tiếp nhận phản ánh, kiến nghị
 
 **Chỉ mục:** 10
@@ -352,6 +56,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 **ID:** 81D68D1C-95E1-4249-9E61-6D3D70DDCE6A
 
 ---
+
+
+### Điều 44.12.NĐ.11. Trách nhiệm của cán bộ, công chức thực hiện việc tiếp nhận phản ánh, kiến nghị
+
+**Chỉ mục:** 11
+
+**Mã phân cấp:** 4401200000000000300001100000000000000000
+
+**ID:** F7F0930C-2567-4927-96C9-1192E99EEDEC
+
+---
+
 
 ### Điều 44.12.TT.2.11. Cách thức tiếp nhận phản ánh, kiến nghị
 
@@ -363,6 +79,29 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
+
+### Điều 44.12.NĐ.12. Quyền và trách nhiệm của cá nhân, tổ chức có phản ánh, kiến nghị
+
+**Chỉ mục:** 12
+
+**Mã phân cấp:** 4401200000000000300001200000000000000000
+
+**ID:** 3C681A7D-FEA3-4DCA-A2CF-6E3C8F47197B
+
+---
+
+
+### Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức
+
+**Chỉ mục:** 12
+
+**Mã phân cấp:** 440120000000000030000130000000000000000000802499500050001200
+
+**ID:** 390F1326-479D-413C-B059-7F4B8C8C1C68
+
+---
+
+
 ### Điều 44.12.TT.2.12. Phân loại phản ánh, kiến nghị
 
 **Chỉ mục:** 12
@@ -372,6 +111,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 **ID:** 71CB00D5-C6BA-4CEB-8C75-A2CE80C8AC5E
 
 ---
+
+
+### Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị
+
+**Chỉ mục:** 13
+
+**Mã phân cấp:** 4401200000000000300001300000000000000000
+
+**ID:** E0C9AE83-7AA2-48E6-967E-A216B452D24E
+
+---
+
 
 ### Điều 44.12.TT.2.13. Xử lý phản ánh, kiến nghị
 
@@ -383,6 +134,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
+
+### Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước
+
+**Chỉ mục:** 14
+
+**Mã phân cấp:** 4401200000000000400001400000000000000000
+
+**ID:** AAE70AD2-A6C9-4BFF-AE1C-257AE4B6966B
+
+---
+
+
 ### Điều 44.12.TT.2.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
 
 **Chỉ mục:** 14
@@ -392,6 +155,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 **ID:** 49E45AA7-560A-43C7-890A-310A4B71C1B6
 
 ---
+
+
+### Điều 44.12.NĐ.15. Hình thức xử lý phản ánh, kiến nghị
+
+**Chỉ mục:** 15
+
+**Mã phân cấp:** 4401200000000000400001500000000000000000
+
+**ID:** 7D4A67D9-3619-4820-8223-A7A233BE952D
+
+---
+
 
 ### Điều 44.12.TT.2.15. Công khai kết quả xử lý phản ánh, kiến nghị
 
@@ -403,15 +178,28 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
-### Mục 2 QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC VĂN HÓA, THỂ THAO, DU LỊCH
 
-**Chỉ mục:** 2
+### Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị
 
-**Mã phân cấp:** 4401200000000000650000030000000000000000
+**Chỉ mục:** 16
 
-**ID:** 63C2830A-20BE-4847-95E3-2542D0C62656
+**Mã phân cấp:** 4401200000000000400001600000000000000000
+
+**ID:** 5BD5DA93-5D31-46D8-A734-BE32ED4BB01C
 
 ---
+
+
+### Điều 44.12.NĐ.17. Trách nhiệm của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ trong xử lý phản ánh, kiến nghị
+
+**Chỉ mục:** 17
+
+**Mã phân cấp:** 4401200000000000400001700000000000000000
+
+**ID:** 798FC324-669B-4F8C-B1B0-38EDA0E78D87
+
+---
+
 
 ### Điều 44.12.TT.3.17. Tiếp nhận phản ánh, kiến nghị
 
@@ -423,6 +211,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
+
+### Điều 44.12.NĐ.18. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh trong xử lý phản ánh, kiến nghị
+
+**Chỉ mục:** 18
+
+**Mã phân cấp:** 4401200000000000400001800000000000000000
+
+**ID:** D3898624-88A4-46BC-8113-D102D4CE761C
+
+---
+
+
 ### Điều 44.12.TT.3.18. Cách thức tiếp nhận phản ánh, kiến nghị
 
 **Chỉ mục:** 18
@@ -432,6 +232,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 **ID:** 6144EA79-7B0A-4555-942B-923B2D18B2BE
 
 ---
+
+
+### Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị
+
+**Chỉ mục:** 19
+
+**Mã phân cấp:** 4401200000000000400001900000000000000000
+
+**ID:** F5575BE7-7F7F-4DF6-B373-642318FF5EFF
+
+---
+
 
 ### Điều 44.12.TT.3.19. Phân loại, xử lý phản ánh, kiến nghị
 
@@ -443,6 +255,40 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
+
+### Điều 44.12.NĐ.2. Đối tượng áp dụng
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 4401200000000000100000200000000000000000
+
+**ID:** BA2CEA51-DEB0-479A-AAD9-F6EDE5CA1061
+
+---
+
+
+### Mục 2 QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC VĂN HÓA, THỂ THAO, DU LỊCH
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 4401200000000000650000030000000000000000
+
+**ID:** 63C2830A-20BE-4847-95E3-2542D0C62656
+
+---
+
+
+### Điều 44.12.NĐ.20. Xây dựng cơ sở dữ liệu điện tử
+
+**Chỉ mục:** 20
+
+**Mã phân cấp:** 4401200000000000500002000000000000000000
+
+**ID:** 9A2E58B1-B0B3-4426-B492-A989152B2A1D
+
+---
+
+
 ### Điều 44.12.TT.3.20. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
 
 **Chỉ mục:** 20
@@ -452,6 +298,18 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 **ID:** FA646288-57B4-4366-A7E2-0CCE45C06C04
 
 ---
+
+
+### Điều 44.12.NĐ.21. Kinh phí thực hiện
+
+**Chỉ mục:** 21
+
+**Mã phân cấp:** 4401200000000000500002100000000000000000
+
+**ID:** A316D7A6-8B3C-4244-B581-7676F237B71C
+
+---
+
 
 ### Điều 44.12.TT.3.21. Công khai kết quả xử lý phản ánh, kiến nghị
 
@@ -463,35 +321,39 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 
 ---
 
-### Mục 3. QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI
 
-**Chỉ mục:** 3
+### Điều 44.12.NĐ.22. Chế độ thông tin báo cáo
 
-**Mã phân cấp:** 4401200000000000650000050000000000000000
+**Chỉ mục:** 22
 
-**ID:** 311A14D0-7060-45A5-BACD-F7182514543D
+**Mã phân cấp:** 4401200000000000500002200000000000000000
 
----
-
-### Điều 44.12.TT.5.49. Tiếp nhận, xử lý phản ánh, kiến nghị đối với quy định về thủ tục hành chính
-
-**Chỉ mục:** 49
-
-**Mã phân cấp:** 440120000000000065000005000000000000000000802592500210004900
-
-**ID:** 1FFE35B8-4DB4-430C-B8DB-5A5E55367533
+**ID:** 3FC247DA-EAF2-4D31-A80C-581394291FB2
 
 ---
 
-### Chương VIII ĐIỀU KHOẢN THI HÀNH
 
-**Chỉ mục:** VIII
+### Điều 44.12.NĐ.23. Khen thưởng
 
-**Mã phân cấp:** 44012000000000007000
+**Chỉ mục:** 23
 
-**ID:** FCBC14B9-D441-49B2-AED8-032FF912813B
+**Mã phân cấp:** 4401200000000000600002300000000000000000
+
+**ID:** 72E34644-3FEF-4C0D-9B67-C820720DA096
 
 ---
+
+
+### Điều 44.12.NĐ.24. Xử lý vi phạm
+
+**Chỉ mục:** 24
+
+**Mã phân cấp:** 4401200000000000600002400000000000000000
+
+**ID:** D3AE31B0-9F89-42D3-A449-DF4E54C38AA6
+
+---
+
 
 ### Điều 44.12.NĐ.25. Hiệu lực thi hành
 
@@ -502,6 +364,7 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 **ID:** 8F7B1909-C676-4585-8B29-16CE26CA1DB1
 
 ---
+
 
 ### Điều 44.12.NĐ.26. Trách nhiệm thi hành
 
@@ -514,10 +377,197 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-pha
 ---
 
 
+### Điều 44.12.NĐ.3. Giải thích từ ngữ
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 4401200000000000100000300000000000000000
+
+**ID:** B4B5835B-E852-412F-8D02-18246FBB6BF2
+
+---
+
+
+### Mục 3. QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 4401200000000000650000050000000000000000
+
+**ID:** 311A14D0-7060-45A5-BACD-F7182514543D
+
+---
+
+
+### Điều 44.12.NĐ.4. Nguyên tắc tiếp nhận, xử lý
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 4401200000000000100000400000000000000000
+
+**ID:** 075B6A2C-4408-43ED-B69E-F9745AA2CF1A
+
+---
+
+
+### Điều 44.12.TT.5.49. Tiếp nhận, xử lý phản ánh, kiến nghị đối với quy định về thủ tục hành chính
+
+**Chỉ mục:** 49
+
+**Mã phân cấp:** 440120000000000065000005000000000000000000802592500210004900
+
+**ID:** 1FFE35B8-4DB4-430C-B8DB-5A5E55367533
+
+---
+
+
+### Điều 44.12.NĐ.5. Nội dung phản ánh, kiến nghị
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 4401200000000000200000500000000000000000
+
+**ID:** EA6A8349-04EB-4BB7-826B-236DDEFEE175
+
+---
+
+
+### Điều 44.12.NĐ.6. Hình thức phản ánh, kiến nghị
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 4401200000000000200000600000000000000000
+
+**ID:** E5823252-B83A-44C4-843B-5A0F6FF98150
+
+---
+
+
+### Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 4401200000000000200000700000000000000000
+
+**ID:** 506361AB-3500-4C5F-B0DD-E078FEC6B52E
+
+---
+
+
+### Điều 44.12.NĐ.8. Cơ quan tiếp nhận phản ánh, kiến nghị
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 4401200000000000300000800000000000000000
+
+**ID:** 3BC77D41-63FF-4893-8E99-5CEC6B7C9890
+
+---
+
+
+### Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 4401200000000000300000900000000000000000
+
+**ID:** 87993C03-F092-41E2-A01F-45CF47043A8F
+
+---
+
+
+### Chương I NHỮNG QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 44012000000000001000
+
+**ID:** BB3918C6-6733-46A0-A1ED-092639D821A2
+
+---
+
+
+### Chương II NỘI DUNG, HÌNH THỨC VÀ YÊU CẦU VỀ PHẢN ÁNH, KIẾN NGHỊ
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 44012000000000002000
+
+**ID:** C0319332-25F6-4E94-8A94-6298E9F0C498
+
+---
+
+
+### Chương III TIẾP NHẬN PHẢN ÁNH, KIẾN NGHỊ
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 44012000000000003000
+
+**ID:** 9338E317-C657-433F-AE7C-31DB74585F5E
+
+---
+
+
+### Chương IV XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 44012000000000004000
+
+**ID:** 37BAEA97-10B1-4EF3-B410-65FACCEF1829
+
+---
+
+
+### Chương V CÁC ĐIỀU KIỆN BẢO ĐẢM
+
+**Chỉ mục:** V
+
+**Mã phân cấp:** 44012000000000005000
+
+**ID:** 0923E4B5-8066-46DD-A292-29E0525EE1B3
+
+---
+
+
+### Chương VI KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
+
+**Chỉ mục:** VI
+
+**Mã phân cấp:** 44012000000000006000
+
+**ID:** FDB799FE-2F04-4576-A6E3-6A6CA8167161
+
+---
+
+
+### Chương VII. QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG MỘT SỐ LĨNH VỰC
+
+**Chỉ mục:** VII
+
+**Mã phân cấp:** 44012000000000006500
+
+**ID:** BE39D23E-FED1-48C6-8E0E-4A70DD1177C4
+
+---
+
+
+### Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** VIII
+
+**Mã phân cấp:** 44012000000000007000
+
+**ID:** FCBC14B9-D441-49B2-AED8-032FF912813B
+
+---
+
+
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 50
@@ -528,4 +578,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

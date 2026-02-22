@@ -13,6 +13,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu-ten-cac-co-quan-d
 
 ## 📜 Nội dung Điều khoản
 
+
 ### Điều 23.2.TT.1. Phạm vi và nội dung dịch sang tiếng Anh
 
 **Chỉ mục:** 1
@@ -22,6 +23,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu-ten-cac-co-quan-d
 **ID:** 2C780D29-C641-4E5A-B877-A3FBD4B712A4
 
 ---
+
 
 ### Điều 23.2.TT.2. Tổ chức thực hiện
 
@@ -37,7 +39,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dich-quoc-hieu-ten-cac-co-quan-d
 
 ## 🔙 Quay lại
 [← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 2
@@ -48,4 +50,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

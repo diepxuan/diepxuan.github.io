@@ -7,21 +7,12 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 # Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam
 
 **Đề mục:** Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 33  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I NHỮNG QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 23007000000000001000
-
-**ID:** 3EA469F7-3751-4446-B5EB-21E221509468
-
----
 
 ### Điều 23.7.NĐ.1. 
 
@@ -33,15 +24,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Điều 23.7.NĐ.2. 
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2300700000000000100000200000000000000000
-
-**ID:** 12496C59-7CA0-4F9F-8AA2-737FE2ECE501
-
----
 
 ### Điều 23.7.TT.1.1. Phạm vi và đối tượng điều chỉnh
 
@@ -53,105 +35,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Điều 23.7.NĐ.3. 
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2300700000000000100000300000000000000000
-
-**ID:** 29CA5CE3-2B98-4FF0-B95C-62011E5D1F35
-
----
-
-### Điều 23.7.NĐ.4. 
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 2300700000000000100000400000000000000000
-
-**ID:** 9C06F3A5-CEBC-40CF-8AAA-8320D02D2190
-
----
-
-### Chương II ĐIỀU KIỆN, THỦ TỤC CẤP, SỬA ĐỔI, GIA HẠN VÀ THU HỒI GIẤY PHÉP LẬP VĂN PHÒNG ĐẠI DIỆN
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 23007000000000002000
-
-**ID:** 3744CE78-7148-49E2-A74A-54A4FC2163F2
-
----
-
-### Điều 23.7.NĐ.5. Tổ chức nước ngoài được cấp Giấy phép lập Văn phòng đại diện khi có đủ các điều kiện sau:
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 2300700000000000200000500000000000000000
-
-**ID:** 679CA22A-C68B-4C9B-82C8-C362C8AA0B6D
-
----
-
-### Điều 23.7.TT.1.2. Điều kiện, thủ tục cấp phép, sửa đổi, bổ sung, gia hạn và thu hồi giấy phép
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 230070000000000020000050000000000000000000802180900100000200
-
-**ID:** 9A5E500F-D6FA-4C81-97FB-0DA8D6E242E7
-
----
-
-### Điều 23.7.NĐ.6. Hồ sơ xin lập Văn phòng đại diện tại Việt Nam gồm:
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 2300700000000000200000600000000000000000
-
-**ID:** 5FBBC58F-065C-474C-90A2-1E4ABA668F43
-
----
-
-### Điều 23.7.NĐ.7. 
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 2300700000000000200000700000000000000000
-
-**ID:** 33D42547-1725-4ECE-8C78-1264307076E9
-
----
-
-### Điều 23.7.NĐ.8. Trình tự cấp Giấy phép được thực hiện như sau:
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 2300700000000000200000800000000000000000
-
-**ID:** FB2C41BD-313B-4B7A-A800-59EAB2B5423A
-
----
-
-### Điều 23.7.TT.1.3. Trình tự cấp, sửa đổi, bổ sung, gia hạn và thu hồi giấy phép
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 230070000000000020000080000000000000000000802180900100000300
-
-**ID:** F7D05B84-B566-448B-92D3-D3E6CC6B4E70
-
----
-
-### Điều 23.7.NĐ.9. 
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 2300700000000000200000900000000000000000
-
-**ID:** 828E73A3-7AA0-4EB5-9BFE-A3CC7E6BE7A7
-
----
 
 ### Điều 23.7.NĐ.10. 
 
@@ -163,15 +46,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Điều 23.7.TT.1.4. Cơ chế phối hợp giữa bộ ngoại giao, cơ quan chủ quản, ubnd tỉnh/thành phố nơi tổ chức nước ngoài xin lập VPĐD và các bộ, cơ quan liên quan trong việc cấp, sửa đổi, bổ sung, gia hạn và thu hồi giấy phép
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 230070000000000020000100000000000000000000802180900100000400
-
-**ID:** D83CF002-AFF3-40A9-BAB7-C5F6E794AB46
-
----
 
 ### Điều 23.7.NĐ.11. 
 
@@ -183,6 +57,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
+
 ### Điều 23.7.NĐ.12. 
 
 **Chỉ mục:** 12
@@ -193,15 +68,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Chương III QUYỀN VÀ NGHĨA VỤ CỦA VĂN PHÒNG ĐẠI DIỆN
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 23007000000000003000
-
-**ID:** D8ED7D07-364E-47B3-9E7C-4D12F57D9EE5
-
----
 
 ### Điều 23.7.NĐ.13. Các quyền lợi
 
@@ -213,15 +79,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Điều 23.7.TT.1.5. Quyền hạn và trách nhiệm của VPĐD tại Việt Nam
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 230070000000000030000130000000000000000000802180900100000500
-
-**ID:** 8EA6D663-6228-4D78-ADA6-0F00EE6B69FC
-
----
 
 ### Điều 23.7.NĐ.14. Các nghĩa vụ và trách nhiệm
 
@@ -233,15 +90,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Chương IV QUẢN LÝ NHÀ NƯỚC
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 23007000000000004000
-
-**ID:** 89EA1D3E-2CAD-4A56-B03E-A171E1C21D73
-
----
 
 ### Điều 23.7.NĐ.15. 
 
@@ -253,15 +101,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Điều 23.7.TT.1.6. Trách nhiệm của các cơ quan quản lý nhà nước đối với VPĐD
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 230070000000000040000150000000000000000000802180900100000600
-
-**ID:** 83C0EAF8-7177-4CB8-872F-B555B961BEF0
-
----
 
 ### Điều 23.7.NĐ.16. 
 
@@ -273,6 +112,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
+
 ### Điều 23.7.NĐ.17. 
 
 **Chỉ mục:** 17
@@ -283,15 +123,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
-### Chương V ĐIỀU KHOẢN THI HÀNH
-
-**Chỉ mục:** V
-
-**Mã phân cấp:** 23007000000000005000
-
-**ID:** 1676FEA5-5E4A-447D-A628-BAA90A09286E
-
----
 
 ### Điều 23.7.NĐ.18. 
 
@@ -303,6 +134,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
+
 ### Điều 23.7.NĐ.19. 
 
 **Chỉ mục:** 19
@@ -312,6 +144,29 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 **ID:** B4883E24-E6FC-4706-874F-890D5C6AEF9C
 
 ---
+
+
+### Điều 23.7.NĐ.2. 
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 2300700000000000100000200000000000000000
+
+**ID:** 12496C59-7CA0-4F9F-8AA2-737FE2ECE501
+
+---
+
+
+### Điều 23.7.TT.1.2. Điều kiện, thủ tục cấp phép, sửa đổi, bổ sung, gia hạn và thu hồi giấy phép
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 230070000000000020000050000000000000000000802180900100000200
+
+**ID:** 9A5E500F-D6FA-4C81-97FB-0DA8D6E242E7
+
+---
+
 
 ### Điều 23.7.NĐ.20. 
 
@@ -323,6 +178,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 
 ---
 
+
 ### Điều 23.7.NĐ.21. 
 
 **Chỉ mục:** 21
@@ -332,6 +188,106 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 **ID:** 4E684BA2-7A31-4C98-A4E7-3D3D1DB4E4AE
 
 ---
+
+
+### Điều 23.7.NĐ.3. 
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 2300700000000000100000300000000000000000
+
+**ID:** 29CA5CE3-2B98-4FF0-B95C-62011E5D1F35
+
+---
+
+
+### Điều 23.7.TT.1.3. Trình tự cấp, sửa đổi, bổ sung, gia hạn và thu hồi giấy phép
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 230070000000000020000080000000000000000000802180900100000300
+
+**ID:** F7D05B84-B566-448B-92D3-D3E6CC6B4E70
+
+---
+
+
+### Điều 23.7.NĐ.4. 
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 2300700000000000100000400000000000000000
+
+**ID:** 9C06F3A5-CEBC-40CF-8AAA-8320D02D2190
+
+---
+
+
+### Điều 23.7.TT.1.4. Cơ chế phối hợp giữa bộ ngoại giao, cơ quan chủ quản, ubnd tỉnh/thành phố nơi tổ chức nước ngoài xin lập VPĐD và các bộ, cơ quan liên quan trong việc cấp, sửa đổi, bổ sung, gia hạn và thu hồi giấy phép
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 230070000000000020000100000000000000000000802180900100000400
+
+**ID:** D83CF002-AFF3-40A9-BAB7-C5F6E794AB46
+
+---
+
+
+### Điều 23.7.NĐ.5. Tổ chức nước ngoài được cấp Giấy phép lập Văn phòng đại diện khi có đủ các điều kiện sau:
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 2300700000000000200000500000000000000000
+
+**ID:** 679CA22A-C68B-4C9B-82C8-C362C8AA0B6D
+
+---
+
+
+### Điều 23.7.TT.1.5. Quyền hạn và trách nhiệm của VPĐD tại Việt Nam
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 230070000000000030000130000000000000000000802180900100000500
+
+**ID:** 8EA6D663-6228-4D78-ADA6-0F00EE6B69FC
+
+---
+
+
+### Điều 23.7.NĐ.6. Hồ sơ xin lập Văn phòng đại diện tại Việt Nam gồm:
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 2300700000000000200000600000000000000000
+
+**ID:** 5FBBC58F-065C-474C-90A2-1E4ABA668F43
+
+---
+
+
+### Điều 23.7.TT.1.6. Trách nhiệm của các cơ quan quản lý nhà nước đối với VPĐD
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 230070000000000040000150000000000000000000802180900100000600
+
+**ID:** 83C0EAF8-7177-4CB8-872F-B555B961BEF0
+
+---
+
+
+### Điều 23.7.NĐ.7. 
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 2300700000000000200000700000000000000000
+
+**ID:** 33D42547-1725-4ECE-8C78-1264307076E9
+
+---
+
 
 ### Điều 23.7.TT.1.7. Về tổ chức thực hiện
 
@@ -344,10 +300,87 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-d
 ---
 
 
+### Điều 23.7.NĐ.8. Trình tự cấp Giấy phép được thực hiện như sau:
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 2300700000000000200000800000000000000000
+
+**ID:** FB2C41BD-313B-4B7A-A800-59EAB2B5423A
+
+---
+
+
+### Điều 23.7.NĐ.9. 
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 2300700000000000200000900000000000000000
+
+**ID:** 828E73A3-7AA0-4EB5-9BFE-A3CC7E6BE7A7
+
+---
+
+
+### Chương I NHỮNG QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 23007000000000001000
+
+**ID:** 3EA469F7-3751-4446-B5EB-21E221509468
+
+---
+
+
+### Chương II ĐIỀU KIỆN, THỦ TỤC CẤP, SỬA ĐỔI, GIA HẠN VÀ THU HỒI GIẤY PHÉP LẬP VĂN PHÒNG ĐẠI DIỆN
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 23007000000000002000
+
+**ID:** 3744CE78-7148-49E2-A74A-54A4FC2163F2
+
+---
+
+
+### Chương III QUYỀN VÀ NGHĨA VỤ CỦA VĂN PHÒNG ĐẠI DIỆN
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 23007000000000003000
+
+**ID:** D8ED7D07-364E-47B3-9E7C-4D12F57D9EE5
+
+---
+
+
+### Chương IV QUẢN LÝ NHÀ NƯỚC
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 23007000000000004000
+
+**ID:** 89EA1D3E-2CAD-4A56-B03E-A171E1C21D73
+
+---
+
+
+### Chương V ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** V
+
+**Mã phân cấp:** 23007000000000005000
+
+**ID:** 1676FEA5-5E4A-447D-A628-BAA90A09286E
+
+---
+
+
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 33
@@ -358,4 +391,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

@@ -13,15 +13,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 06001000000000001000
-
-**ID:** 87380514-9AF6-48E6-B91D-28582AD4DB77
-
----
 
 ### Điều 6.1.NĐ.1. Phạm vi điều chỉnh
 
@@ -33,6 +24,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.TT.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
 **Chỉ mục:** 1
@@ -42,6 +34,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 **ID:** 991D5241-9759-4227-988A-08CFEF9FCA07
 
 ---
+
 
 ### Điều 6.1.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -53,105 +46,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.NĐ.2. Giải thích từ ngữ
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0600100000000000100000200000000000000000
-
-**ID:** 0076817B-38CC-41A3-86BA-F8019FFCB7EC
-
----
-
-### Điều 6.1.NĐ.3. Nguyên tắc cơ bản về chính sách trợ giúp xã hội
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 0600100000000000100000300000000000000000
-
-**ID:** D5510A77-A0DF-49FF-BA69-8B5481B162D2
-
----
-
-### Điều 6.1.NĐ.4. Mức chuẩn trợ giúp xã hội
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 0600100000000000100000400000000000000000
-
-**ID:** 2B206E4D-5CAD-4D25-8E21-FE7784846278
-
----
-
-### Chương II TRỢ GIÚP XÃ HỘI THƯỜNG XUYÊN TẠI CỘNG ĐỒNG
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 06001000000000002000
-
-**ID:** 871BA10E-6DE9-48DC-8B22-7EBAFAA29A0E
-
----
-
-### Điều 6.1.NĐ.5. Đối tượng bảo trợ xã hội hưởng trợ cấp xã hội hàng tháng
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 0600100000000000200000500000000000000000
-
-**ID:** EF51DCF5-3588-4AEE-9FCA-67899E859E31
-
----
-
-### Điều 6.1.NĐ.6. Mức trợ cấp xã hội hàng tháng
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 0600100000000000200000600000000000000000
-
-**ID:** 1B0FD908-91F2-43CF-BF5F-F670B8C24243
-
----
-
-### Điều 6.1.NĐ.7. Hồ sơ thực hiện trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 0600100000000000200000700000000000000000
-
-**ID:** A01ED850-A65E-4268-AAC9-6D36DB320711
-
----
-
-### Điều 6.1.NĐ.8. Thủ tục thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hằng tháng, hỗ trợ kinh phí chăm sóc hằng tháng
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 0600100000000000200000800000000000000000
-
-**ID:** 3B3BC3FB-6F4B-49C1-9935-7FE72EF5ED8C
-
----
-
-### Điều 6.1.TT.1.2. Thôi hưởng, tạm dừng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng theo quy định tại khoản 2 Điều 8 Nghị định số 20/2021/NĐ-CP.
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 060010000000000020000080000000000000000000802768900020000200
-
-**ID:** 313501C1-AF65-4CBF-AB51-9B010D3D81AA
-
----
-
-### Điều 6.1.NĐ.9. Cấp thẻ bảo hiểm y tế
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 0600100000000000200000900000000000000000
-
-**ID:** 6229851D-3B0C-4B23-8C38-9231FFE3F2FA
-
----
 
 ### Điều 6.1.NĐ.10. Trợ giúp giáo dục, đào tạo và dạy nghề
 
@@ -163,6 +57,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.11. Hỗ trợ chi phí mai táng
 
 **Chỉ mục:** 11
@@ -173,15 +68,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Chương III TRỢ GIÚP XÃ HỘI KHẨN CẤP
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 06001000000000003000
-
-**ID:** E4AD934D-A206-484F-9DE4-D6EE28521649
-
----
 
 ### Điều 6.1.NĐ.12. Hỗ trợ lương thực và nhu yếu phẩm thiết yếu từ nguồn ngân sách nhà nước
 
@@ -193,6 +79,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.13. Hỗ trợ chi phí điều trị người bị thương nặng
 
 **Chỉ mục:** 13
@@ -202,6 +89,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 **ID:** FFD4EB8F-92C4-4213-B80B-ED5CDA5F1072
 
 ---
+
 
 ### Điều 6.1.NĐ.14. Hỗ trợ chi phí mai táng
 
@@ -213,6 +101,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.15. Hỗ trợ làm nhà ở, sửa chữa nhà ở
 
 **Chỉ mục:** 15
@@ -222,6 +111,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 **ID:** 1FE564BE-36E9-48F9-83EE-1FF81DA74A09
 
 ---
+
 
 ### Điều 6.1.NĐ.16. Hỗ trợ khẩn cấp đối với trẻ em khi cha, mẹ bị chết, mất tích do thiên tai, hỏa hoạn, dịch bệnh hoặc các lý do bất khả kháng khác
 
@@ -233,6 +123,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.17. Hỗ trợ tạo việc làm, phát triển sản xuất
 
 **Chỉ mục:** 17
@@ -243,15 +134,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Chương IV CHĂM SÓC, NUÔI DƯỠNG TẠI CỘNG ĐỒNG
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 06001000000000004000
-
-**ID:** 2BB88A81-115A-432C-97FF-81A1AD2E3D80
-
----
 
 ### Điều 6.1.NĐ.18. Đối tượng được nhận chăm sóc, nuôi dưỡng tại cộng đồng
 
@@ -263,15 +145,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.TT.1.3. Chế độ đối với đối tượng cần bảo vệ khẩn cấp quy định tại khoản 2 Điều 18 và khoản 2 Điều 19 Nghị định số 20/2021/NĐ-CP
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 060010000000000040000180000000000000000000802768900020000300
-
-**ID:** 71098FC5-145B-4D07-A820-98641343892B
-
----
 
 ### Điều 6.1.NĐ.19. Chế độ đối với đối tượng được nhận chăm sóc, nuôi dưỡng
 
@@ -283,155 +156,28 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.NĐ.20. Chế độ đối với hộ gia đình, cá nhân chăm sóc, nuôi dưỡng đối tượng
 
-**Chỉ mục:** 20
+### Điều 6.1.NĐ.2. Giải thích từ ngữ
 
-**Mã phân cấp:** 0600100000000000400002000000000000000000
+**Chỉ mục:** 2
 
-**ID:** FB2F7B11-345C-4E7A-97FE-A001C978A2E0
+**Mã phân cấp:** 0600100000000000100000200000000000000000
 
----
-
-### Điều 6.1.TT.1.4. Hướng dẫn, đào tạo nghiệp vụ nhận chăm sóc, nuôi dưỡng đối tượng bảo trợ xã hội tại cộng đồng theo quy định tại khoản 3 Điều 20 Nghị định số 20/2021/NĐ-CP
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 060010000000000040000200000000000000000000802768900020000400
-
-**ID:** CCE336C0-9222-4F15-8D25-3010C807BFD6
+**ID:** 0076817B-38CC-41A3-86BA-F8019FFCB7EC
 
 ---
 
-### Điều 6.1.NĐ.21. Thủ tục nhận chăm sóc, nuôi dưỡng đối tượng
 
-**Chỉ mục:** 21
+### Điều 6.1.TT.1.2. Thôi hưởng, tạm dừng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng theo quy định tại khoản 2 Điều 8 Nghị định số 20/2021/NĐ-CP.
 
-**Mã phân cấp:** 0600100000000000400002100000000000000000
+**Chỉ mục:** 2
 
-**ID:** FA746767-12F9-48BD-87B9-61D63A516117
+**Mã phân cấp:** 060010000000000020000080000000000000000000802768900020000200
 
----
-
-### Điều 6.1.NĐ.22. Điều kiện, trách nhiệm đối với người nhận chăm sóc, nuôi dưỡng trẻ em
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 0600100000000000400002200000000000000000
-
-**ID:** 25154CE5-C2AE-485F-A187-F955EB15B9D4
+**ID:** 313501C1-AF65-4CBF-AB51-9B010D3D81AA
 
 ---
 
-### Điều 6.1.NĐ.23. Điều kiện, trách nhiệm đối với người nhận chăm sóc, nuôi dưỡng người khuyết tật đặc biệt nặng và người cao tuổi đủ điều kiện sống tại cơ sở trợ giúp xã hội
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 0600100000000000400002300000000000000000
-
-**ID:** A560F67F-6F72-4A25-851D-B014EBCBE7E1
-
----
-
-### Chương V CHĂM SÓC, NUÔI DƯỠNG ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI TẠI CƠ SỞ TRỢ GIÚP XÃ HỘI, NHÀ XÃ HỘI
-
-**Chỉ mục:** V
-
-**Mã phân cấp:** 06001000000000005000
-
-**ID:** C0625ABB-AC8D-48B5-8A09-B114FB782F87
-
----
-
-### Điều 6.1.NĐ.24. Đối tượng bảo trợ xã hội được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội, nhà xã hội (sau đây gọi chung là cơ sở trợ giúp xã hội)
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 0600100000000000500002400000000000000000
-
-**ID:** 1D358480-9191-4DE5-824B-1EF63EE74E41
-
----
-
-### Điều 6.1.NĐ.25. Chế độ chăm sóc, nuôi dưỡng tại cơ sở trợ giúp xã hội
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 0600100000000000500002500000000000000000
-
-**ID:** 40DE6761-6632-4D00-95BB-4C8469C6EC00
-
----
-
-### Điều 6.1.NĐ.26. Hỗ trợ giáo dục, đào tạo và tạo việc làm
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 0600100000000000500002600000000000000000
-
-**ID:** 0EEA596C-49FD-4643-899B-852E4BACF097
-
----
-
-### Điều 6.1.NĐ.27. Thẩm quyền, hồ sơ tiếp nhận vào cơ sở trợ giúp xã hội
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 0600100000000000500002700000000000000000
-
-**ID:** 34E5E87E-9355-482B-9C1D-F87DE786C7DF
-
----
-
-### Điều 6.1.NĐ.28. Thủ tục tiếp nhận vào cơ sở trợ giúp xã hội
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 0600100000000000500002800000000000000000
-
-**ID:** 1A46D410-11E9-493D-B2A1-844F124C913E
-
----
-
-### Điều 6.1.NĐ.29. Lập hồ sơ quản lý đối tượng tại cơ sở trợ giúp xã hội
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 0600100000000000500002900000000000000000
-
-**ID:** 593B6325-E852-4565-807E-5F891E8369DF
-
----
-
-### Điều 6.1.NĐ.30. Thẩm quyền, điều kiện, thủ tục dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 0600100000000000500003000000000000000000
-
-**ID:** FE42B213-A643-4826-ACA9-1545B8037844
-
----
-
-### Chương VI KINH PHÍ THỰC HIỆN
-
-**Chỉ mục:** VI
-
-**Mã phân cấp:** 06001000000000006000
-
-**ID:** E164D774-2889-4BD9-92FA-196758522351
-
----
-
-### Điều 6.1.NĐ.31. Kinh phí thực hiện chính sách trợ giúp xã hội thường xuyên
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 0600100000000000600003100000000000000000
-
-**ID:** 0F0B1EF2-DD8A-42D4-B90C-EFE511545494
-
----
 
 ### Điều 6.1.TT.2.2. Kinh phí thực hiện
 
@@ -443,6 +189,139 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
+### Điều 6.1.NĐ.20. Chế độ đối với hộ gia đình, cá nhân chăm sóc, nuôi dưỡng đối tượng
+
+**Chỉ mục:** 20
+
+**Mã phân cấp:** 0600100000000000400002000000000000000000
+
+**ID:** FB2F7B11-345C-4E7A-97FE-A001C978A2E0
+
+---
+
+
+### Điều 6.1.NĐ.21. Thủ tục nhận chăm sóc, nuôi dưỡng đối tượng
+
+**Chỉ mục:** 21
+
+**Mã phân cấp:** 0600100000000000400002100000000000000000
+
+**ID:** FA746767-12F9-48BD-87B9-61D63A516117
+
+---
+
+
+### Điều 6.1.NĐ.22. Điều kiện, trách nhiệm đối với người nhận chăm sóc, nuôi dưỡng trẻ em
+
+**Chỉ mục:** 22
+
+**Mã phân cấp:** 0600100000000000400002200000000000000000
+
+**ID:** 25154CE5-C2AE-485F-A187-F955EB15B9D4
+
+---
+
+
+### Điều 6.1.NĐ.23. Điều kiện, trách nhiệm đối với người nhận chăm sóc, nuôi dưỡng người khuyết tật đặc biệt nặng và người cao tuổi đủ điều kiện sống tại cơ sở trợ giúp xã hội
+
+**Chỉ mục:** 23
+
+**Mã phân cấp:** 0600100000000000400002300000000000000000
+
+**ID:** A560F67F-6F72-4A25-851D-B014EBCBE7E1
+
+---
+
+
+### Điều 6.1.NĐ.24. Đối tượng bảo trợ xã hội được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội, nhà xã hội (sau đây gọi chung là cơ sở trợ giúp xã hội)
+
+**Chỉ mục:** 24
+
+**Mã phân cấp:** 0600100000000000500002400000000000000000
+
+**ID:** 1D358480-9191-4DE5-824B-1EF63EE74E41
+
+---
+
+
+### Điều 6.1.NĐ.25. Chế độ chăm sóc, nuôi dưỡng tại cơ sở trợ giúp xã hội
+
+**Chỉ mục:** 25
+
+**Mã phân cấp:** 0600100000000000500002500000000000000000
+
+**ID:** 40DE6761-6632-4D00-95BB-4C8469C6EC00
+
+---
+
+
+### Điều 6.1.NĐ.26. Hỗ trợ giáo dục, đào tạo và tạo việc làm
+
+**Chỉ mục:** 26
+
+**Mã phân cấp:** 0600100000000000500002600000000000000000
+
+**ID:** 0EEA596C-49FD-4643-899B-852E4BACF097
+
+---
+
+
+### Điều 6.1.NĐ.27. Thẩm quyền, hồ sơ tiếp nhận vào cơ sở trợ giúp xã hội
+
+**Chỉ mục:** 27
+
+**Mã phân cấp:** 0600100000000000500002700000000000000000
+
+**ID:** 34E5E87E-9355-482B-9C1D-F87DE786C7DF
+
+---
+
+
+### Điều 6.1.NĐ.28. Thủ tục tiếp nhận vào cơ sở trợ giúp xã hội
+
+**Chỉ mục:** 28
+
+**Mã phân cấp:** 0600100000000000500002800000000000000000
+
+**ID:** 1A46D410-11E9-493D-B2A1-844F124C913E
+
+---
+
+
+### Điều 6.1.NĐ.29. Lập hồ sơ quản lý đối tượng tại cơ sở trợ giúp xã hội
+
+**Chỉ mục:** 29
+
+**Mã phân cấp:** 0600100000000000500002900000000000000000
+
+**ID:** 593B6325-E852-4565-807E-5F891E8369DF
+
+---
+
+
+### Điều 6.1.NĐ.3. Nguyên tắc cơ bản về chính sách trợ giúp xã hội
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 0600100000000000100000300000000000000000
+
+**ID:** D5510A77-A0DF-49FF-BA69-8B5481B162D2
+
+---
+
+
+### Điều 6.1.TT.1.3. Chế độ đối với đối tượng cần bảo vệ khẩn cấp quy định tại khoản 2 Điều 18 và khoản 2 Điều 19 Nghị định số 20/2021/NĐ-CP
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 060010000000000040000180000000000000000000802768900020000300
+
+**ID:** 71098FC5-145B-4D07-A820-98641343892B
+
+---
+
+
 ### Điều 6.1.TT.2.3. Nội dung và mức chi
 
 **Chỉ mục:** 3
@@ -453,15 +332,28 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.TT.2.4. Lập dự toán, phân bổ và quyết toán kinh phí
 
-**Chỉ mục:** 4
+### Điều 6.1.NĐ.30. Thẩm quyền, điều kiện, thủ tục dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội
 
-**Mã phân cấp:** 060010000000000060000310000000000000000000802777200760000400
+**Chỉ mục:** 30
 
-**ID:** 73736B62-D013-4598-8B07-D4A59A4AC3A0
+**Mã phân cấp:** 0600100000000000500003000000000000000000
+
+**ID:** FE42B213-A643-4826-ACA9-1545B8037844
 
 ---
+
+
+### Điều 6.1.NĐ.31. Kinh phí thực hiện chính sách trợ giúp xã hội thường xuyên
+
+**Chỉ mục:** 31
+
+**Mã phân cấp:** 0600100000000000600003100000000000000000
+
+**ID:** 0F0B1EF2-DD8A-42D4-B90C-EFE511545494
+
+---
+
 
 ### Điều 6.1.NĐ.32. Kinh phí thực hiện trợ giúp khẩn cấp
 
@@ -473,6 +365,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.33. Quản lý kinh phí trợ giúp xã hội
 
 **Chỉ mục:** 33
@@ -483,15 +376,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Chương VII TỔ CHỨC THỰC HIỆN
-
-**Chỉ mục:** VII
-
-**Mã phân cấp:** 06001000000000007000
-
-**ID:** 19785AEA-7909-4941-BA71-7D4C2FE5338D
-
----
 
 ### Điều 6.1.NĐ.34. Thực hiện chi trả chính sách trợ giúp xã hội hàng tháng và hỗ trợ nhận chăm sóc, nuôi dưỡng tại cộng đồng
 
@@ -503,6 +387,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.35. Trách nhiệm của các bộ, ngành
 
 **Chỉ mục:** 35
@@ -512,6 +397,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 **ID:** FB1F0CA6-874C-46E3-8E15-96ABD72A747B
 
 ---
+
 
 ### Điều 6.1.NĐ.36. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
@@ -523,25 +409,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.TT.1.6. Trách nhiệm của các cơ quan
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 060010000000000070000360000000000000000000802768900020000600
-
-**ID:** DD010771-A4AF-43F6-AEE7-28CA4D9BC6AF
-
----
-
-### Chương VIII ĐIỀU KHOẢN THI HÀNH
-
-**Chỉ mục:** VIII
-
-**Mã phân cấp:** 06001000000000008000
-
-**ID:** 53F97099-6F89-435B-AAE0-8105CBCA2FE4
-
----
 
 ### Điều 6.1.NĐ.37. Điều khoản chuyển tiếp
 
@@ -553,15 +420,6 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.TT.1.5. Thủ tục chuyển mức và hệ số tương ứng đối với đối tượng theo quy định tại khoản 1 Điều 37 Nghị định số 20/2021/NĐ-CP
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 060010000000000080000370000000000000000000802768900020000500
-
-**ID:** F131489B-0B05-4ED9-8B96-7E7FF620D60F
-
----
 
 ### Điều 6.1.NĐ.38. Hiệu lực thi hành
 
@@ -573,6 +431,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
+
 ### Điều 6.1.NĐ.39. Trách nhiệm thi hành
 
 **Chỉ mục:** 39
@@ -583,15 +442,61 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 
 ---
 
-### Điều 6.1.TT.1.7. Hiệu lực thi hành
 
-**Chỉ mục:** 7
+### Điều 6.1.NĐ.4. Mức chuẩn trợ giúp xã hội
 
-**Mã phân cấp:** 0600100000000000800003980276890002000070
+**Chỉ mục:** 4
 
-**ID:** 588B0A0E-E432-41A8-B292-8E10B8A227FA
+**Mã phân cấp:** 0600100000000000100000400000000000000000
+
+**ID:** 2B206E4D-5CAD-4D25-8E21-FE7784846278
 
 ---
+
+
+### Điều 6.1.TT.1.4. Hướng dẫn, đào tạo nghiệp vụ nhận chăm sóc, nuôi dưỡng đối tượng bảo trợ xã hội tại cộng đồng theo quy định tại khoản 3 Điều 20 Nghị định số 20/2021/NĐ-CP
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 060010000000000040000200000000000000000000802768900020000400
+
+**ID:** CCE336C0-9222-4F15-8D25-3010C807BFD6
+
+---
+
+
+### Điều 6.1.TT.2.4. Lập dự toán, phân bổ và quyết toán kinh phí
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 060010000000000060000310000000000000000000802777200760000400
+
+**ID:** 73736B62-D013-4598-8B07-D4A59A4AC3A0
+
+---
+
+
+### Điều 6.1.NĐ.5. Đối tượng bảo trợ xã hội hưởng trợ cấp xã hội hàng tháng
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 0600100000000000200000500000000000000000
+
+**ID:** EF51DCF5-3588-4AEE-9FCA-67899E859E31
+
+---
+
+
+### Điều 6.1.TT.1.5. Thủ tục chuyển mức và hệ số tương ứng đối với đối tượng theo quy định tại khoản 1 Điều 37 Nghị định số 20/2021/NĐ-CP
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 060010000000000080000370000000000000000000802768900020000500
+
+**ID:** F131489B-0B05-4ED9-8B96-7E7FF620D60F
+
+---
+
 
 ### Điều 6.1.TT.2.5. Hiệu lực thi hành
 
@@ -604,10 +509,164 @@ permalink: /van-ban/chinh-sach-xa-hoi/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuo
 ---
 
 
+### Điều 6.1.NĐ.6. Mức trợ cấp xã hội hàng tháng
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 0600100000000000200000600000000000000000
+
+**ID:** 1B0FD908-91F2-43CF-BF5F-F670B8C24243
+
+---
+
+
+### Điều 6.1.TT.1.6. Trách nhiệm của các cơ quan
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 060010000000000070000360000000000000000000802768900020000600
+
+**ID:** DD010771-A4AF-43F6-AEE7-28CA4D9BC6AF
+
+---
+
+
+### Điều 6.1.NĐ.7. Hồ sơ thực hiện trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 0600100000000000200000700000000000000000
+
+**ID:** A01ED850-A65E-4268-AAC9-6D36DB320711
+
+---
+
+
+### Điều 6.1.TT.1.7. Hiệu lực thi hành
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 0600100000000000800003980276890002000070
+
+**ID:** 588B0A0E-E432-41A8-B292-8E10B8A227FA
+
+---
+
+
+### Điều 6.1.NĐ.8. Thủ tục thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hằng tháng, hỗ trợ kinh phí chăm sóc hằng tháng
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 0600100000000000200000800000000000000000
+
+**ID:** 3B3BC3FB-6F4B-49C1-9935-7FE72EF5ED8C
+
+---
+
+
+### Điều 6.1.NĐ.9. Cấp thẻ bảo hiểm y tế
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 0600100000000000200000900000000000000000
+
+**ID:** 6229851D-3B0C-4B23-8C38-9231FFE3F2FA
+
+---
+
+
+### Chương I QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 06001000000000001000
+
+**ID:** 87380514-9AF6-48E6-B91D-28582AD4DB77
+
+---
+
+
+### Chương II TRỢ GIÚP XÃ HỘI THƯỜNG XUYÊN TẠI CỘNG ĐỒNG
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 06001000000000002000
+
+**ID:** 871BA10E-6DE9-48DC-8B22-7EBAFAA29A0E
+
+---
+
+
+### Chương III TRỢ GIÚP XÃ HỘI KHẨN CẤP
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 06001000000000003000
+
+**ID:** E4AD934D-A206-484F-9DE4-D6EE28521649
+
+---
+
+
+### Chương IV CHĂM SÓC, NUÔI DƯỠNG TẠI CỘNG ĐỒNG
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 06001000000000004000
+
+**ID:** 2BB88A81-115A-432C-97FF-81A1AD2E3D80
+
+---
+
+
+### Chương V CHĂM SÓC, NUÔI DƯỠNG ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI TẠI CƠ SỞ TRỢ GIÚP XÃ HỘI, NHÀ XÃ HỘI
+
+**Chỉ mục:** V
+
+**Mã phân cấp:** 06001000000000005000
+
+**ID:** C0625ABB-AC8D-48B5-8A09-B114FB782F87
+
+---
+
+
+### Chương VI KINH PHÍ THỰC HIỆN
+
+**Chỉ mục:** VI
+
+**Mã phân cấp:** 06001000000000006000
+
+**ID:** E164D774-2889-4BD9-92FA-196758522351
+
+---
+
+
+### Chương VII TỔ CHỨC THỰC HIỆN
+
+**Chỉ mục:** VII
+
+**Mã phân cấp:** 06001000000000007000
+
+**ID:** 19785AEA-7909-4941-BA71-7D4C2FE5338D
+
+---
+
+
+### Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** VIII
+
+**Mã phân cấp:** 06001000000000008000
+
+**ID:** 53F97099-6F89-435B-AAE0-8105CBCA2FE4
+
+---
+
+
 
 ## 🔙 Quay lại
 [← Danh sách đề mục của Chính sách xã hội](/van-ban/chinh-sach-xa-hoi/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 59
@@ -618,4 +677,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

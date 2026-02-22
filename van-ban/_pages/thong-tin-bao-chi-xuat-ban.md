@@ -8,13 +8,14 @@ permalink: /van-ban/thong-tin-bao-chi-xuat-ban/
 
 **Chủ đề:** Thông tin, báo chí, xuất bản  
 **Số đề mục:** 3  
+**Số điều khoản:** 597  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📋 Danh sách Đề mục
 
-1. **[Báo chí](/van-ban/thong-tin-bao-chi-xuat-ban/bao-chi/)**
-2. **[Tiếp cận thông tin](/van-ban/thong-tin-bao-chi-xuat-ban/tiep-can-thong-tin/)**
-3. **[Xuất bản](/van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban/)**
+1. **[Báo chí](/van-ban/thong-tin-bao-chi-xuat-ban/bao-chi/)** - 354 điều khoản
+2. **[Tiếp cận thông tin](/van-ban/thong-tin-bao-chi-xuat-ban/tiep-can-thong-tin/)** - 78 điều khoản
+3. **[Xuất bản](/van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban/)** - 165 điều khoản
 
 
 ## 🔙 Quay lại
@@ -22,11 +23,14 @@ permalink: /van-ban/thong-tin-bao-chi-xuat-ban/
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 3
+- **Tổng số điều khoản:** 597
 - **ID chủ đề:** 73b6a37d-b55b-443d-b0fd-8f7d1b215ca1
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản trong chủ đề này.
+## 🔍 Cách sử dụng
+1. **Chọn đề mục** từ danh sách trên
+2. **Xem nội dung đầy đủ** của đề mục
+3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

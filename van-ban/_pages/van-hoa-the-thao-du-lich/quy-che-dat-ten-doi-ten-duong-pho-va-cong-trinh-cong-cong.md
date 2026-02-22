@@ -7,11 +7,12 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 # Quy chế đặt tên, đổi tên đường, phố và công trình công cộng
 
 **Đề mục:** Quy chế đặt tên, đổi tên đường, phố và công trình công cộng  
-**Chủ đề:** [Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
+**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 12  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📜 Nội dung Điều khoản
+
 
 ### Điều 41.10.NĐ.1.
 
@@ -23,6 +24,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 
 ---
 
+
 ### Điều 41.10.TT.1.1. Nguyên tắc về đặt tên đường, phố và công trình công cộng đối với Danh nhân có tên gọi khác nhau (Điều 6 của Quy chế)
 
 **Chỉ mục:** 1
@@ -32,6 +34,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 **ID:** F6AB4911-F56C-4F7D-A1C7-4211CC2A84C5
 
 ---
+
 
 ### Điều 41.10.TT.1.2. Đặt tên đương, phố (Mục 2 Chương I của Quy chế)
 
@@ -43,55 +46,6 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 
 ---
 
-### Điều 41.10.TT.1.3. Danh từ có ý nghĩa tiêu biểu về chính trị, văn hóa, xã hội (khoản 2 Điều 10 của Quy chế)
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000300
-
-**ID:** A9243A83-01E7-4A1D-86D3-1DAE09CA3BEF
-
----
-
-### Điều 41.10.TT.1.4. Tên gọi ngõ (kiệt), ngách (hẻm) (Điều 13 của Quy chế)
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000400
-
-**ID:** AAACFC7D-6ABD-4313-A752-689F2DCC6EC1
-
----
-
-### Điều 41.10.TT.1.5. Hội đồng tư vấn về đặt tên, đổi tên đường, phố và công trình công cộng
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000500
-
-**ID:** F5C3B5CB-E0A5-41BE-B9DB-AC34B2E109D9
-
----
-
-### Điều 41.10.TT.1.6. Hình thức lấy ý kiến về dự kiến đặt tên, đổi tên đường, phố và công trình công cộng
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000600
-
-**ID:** 26638693-7AD2-4E70-AD35-D46175E5CD66
-
----
-
-### Điều 41.10.TT.1.7. Biển tên đường, phố
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000700
-
-**ID:** 1807CDBD-5DE3-4B04-BE0E-6911F47EE0C1
-
----
 
 ### Điều 41.10.NĐ.2.
 
@@ -103,6 +57,18 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 
 ---
 
+
+### Điều 41.10.TT.1.3. Danh từ có ý nghĩa tiêu biểu về chính trị, văn hóa, xã hội (khoản 2 Điều 10 của Quy chế)
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000300
+
+**ID:** A9243A83-01E7-4A1D-86D3-1DAE09CA3BEF
+
+---
+
+
 ### Điều 41.10.NĐ.3.
 
 **Chỉ mục:** 3
@@ -113,6 +79,18 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 
 ---
 
+
+### Điều 41.10.TT.1.4. Tên gọi ngõ (kiệt), ngách (hẻm) (Điều 13 của Quy chế)
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000400
+
+**ID:** AAACFC7D-6ABD-4313-A752-689F2DCC6EC1
+
+---
+
+
 ### Điều 41.10.NĐ.4.
 
 **Chỉ mục:** 4
@@ -122,6 +100,40 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 **ID:** 4556D84C-5933-4D13-8B69-FFB07BAAA30B
 
 ---
+
+
+### Điều 41.10.TT.1.5. Hội đồng tư vấn về đặt tên, đổi tên đường, phố và công trình công cộng
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000500
+
+**ID:** F5C3B5CB-E0A5-41BE-B9DB-AC34B2E109D9
+
+---
+
+
+### Điều 41.10.TT.1.6. Hình thức lấy ý kiến về dự kiến đặt tên, đổi tên đường, phố và công trình công cộng
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000600
+
+**ID:** 26638693-7AD2-4E70-AD35-D46175E5CD66
+
+---
+
+
+### Điều 41.10.TT.1.7. Biển tên đường, phố
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 410100000000000000000010000000000000000000802211400360000700
+
+**ID:** 1807CDBD-5DE3-4B04-BE0E-6911F47EE0C1
+
+---
+
 
 ### Điều 41.10.TT.1.8. Tổ chức thực hiện
 
@@ -136,8 +148,8 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/quy-che-dat-ten-doi-ten-duong-pho-v
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 12
@@ -148,4 +160,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}
