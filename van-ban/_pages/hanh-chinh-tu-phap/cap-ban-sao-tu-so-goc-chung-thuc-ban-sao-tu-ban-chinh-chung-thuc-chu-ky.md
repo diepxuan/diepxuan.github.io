@@ -2,7 +2,7 @@
 layout: default
 title: Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký
 permalink: /van-ban/hanh-chinh-tu-phap/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky/
-collection: subtopics
+collection: vanban_subtopics
 slug: cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky
 parent: hanh-chinh-tu-phap
 ---

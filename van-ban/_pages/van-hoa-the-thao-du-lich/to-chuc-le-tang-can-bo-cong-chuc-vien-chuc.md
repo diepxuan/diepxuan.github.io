@@ -2,7 +2,7 @@
 layout: default
 title: Tổ chức lễ tang cán bộ, công chức, viên chức
 permalink: /van-ban/van-hoa-the-thao-du-lich/to-chuc-le-tang-can-bo-cong-chuc-vien-chuc/
-collection: subtopics
+collection: vanban_subtopics
 slug: to-chuc-le-tang-can-bo-cong-chuc-vien-chuc
 parent: van-hoa-the-thao-du-lich
 ---

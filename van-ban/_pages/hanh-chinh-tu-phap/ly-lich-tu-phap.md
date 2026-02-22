@@ -2,7 +2,7 @@
 layout: default
 title: Lý lịch tư pháp
 permalink: /van-ban/hanh-chinh-tu-phap/ly-lich-tu-phap/
-collection: subtopics
+collection: vanban_subtopics
 slug: ly-lich-tu-phap
 parent: hanh-chinh-tu-phap
 ---

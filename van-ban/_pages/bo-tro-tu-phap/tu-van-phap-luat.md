@@ -2,7 +2,7 @@
 layout: default
 title: Tư vấn pháp luật
 permalink: /van-ban/bo-tro-tu-phap/tu-van-phap-luat/
-collection: subtopics
+collection: vanban_subtopics
 slug: tu-van-phap-luat
 parent: bo-tro-tu-phap
 ---

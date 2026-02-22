@@ -2,7 +2,7 @@
 layout: default
 title: Tổ chức Quốc hội
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-quoc-hoi/
-collection: subtopics
+collection: vanban_subtopics
 slug: to-chuc-quoc-hoi
 parent: to-chuc-bo-may-nha-nuoc
 ---

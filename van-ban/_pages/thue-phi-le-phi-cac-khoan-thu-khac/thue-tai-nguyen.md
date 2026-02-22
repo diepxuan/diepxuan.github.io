@@ -2,7 +2,7 @@
 layout: default
 title: Thuế tài nguyên
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-tai-nguyen/
-collection: subtopics
+collection: vanban_subtopics
 slug: thue-tai-nguyen
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---

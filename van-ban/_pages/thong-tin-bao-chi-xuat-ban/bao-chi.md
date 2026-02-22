@@ -2,7 +2,7 @@
 layout: default
 title: Báo chí
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/bao-chi/
-collection: subtopics
+collection: vanban_subtopics
 slug: bao-chi
 parent: thong-tin-bao-chi-xuat-ban
 ---

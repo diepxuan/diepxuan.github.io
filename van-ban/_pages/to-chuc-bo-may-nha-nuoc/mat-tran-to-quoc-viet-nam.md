@@ -2,7 +2,7 @@
 layout: default
 title: Mặt trận Tổ quốc Việt Nam
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/mat-tran-to-quoc-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: mat-tran-to-quoc-viet-nam
 parent: to-chuc-bo-may-nha-nuoc
 ---

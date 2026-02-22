@@ -2,7 +2,7 @@
 layout: default
 title: Hành chính tư pháp
 permalink: /van-ban/hanh-chinh-tu-phap/
-collection: topics
+collection: vanban_topics
 slug: hanh-chinh-tu-phap
 ---
 

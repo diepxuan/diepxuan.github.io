@@ -2,7 +2,7 @@
 layout: default
 title: Cảnh sát biển Việt Nam
 permalink: /van-ban/quoc-phong/canh-sat-bien-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: canh-sat-bien-viet-nam
 parent: quoc-phong
 ---

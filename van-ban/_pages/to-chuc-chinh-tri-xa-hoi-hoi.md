@@ -2,7 +2,7 @@
 layout: default
 title: Tổ chức chính trị - xã hội, hội
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/
-collection: topics
+collection: vanban_topics
 slug: to-chuc-chinh-tri-xa-hoi-hoi
 ---
 

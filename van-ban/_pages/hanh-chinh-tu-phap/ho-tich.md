@@ -2,7 +2,7 @@
 layout: default
 title: Hộ tịch
 permalink: /van-ban/hanh-chinh-tu-phap/ho-tich/
-collection: subtopics
+collection: vanban_subtopics
 slug: ho-tich
 parent: hanh-chinh-tu-phap
 ---

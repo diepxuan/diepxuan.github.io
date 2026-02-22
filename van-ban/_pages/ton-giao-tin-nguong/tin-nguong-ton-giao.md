@@ -2,7 +2,7 @@
 layout: default
 title: Tín ngưỡng, tôn giáo
 permalink: /van-ban/ton-giao-tin-nguong/tin-nguong-ton-giao/
-collection: subtopics
+collection: vanban_subtopics
 slug: tin-nguong-ton-giao
 parent: ton-giao-tin-nguong
 ---

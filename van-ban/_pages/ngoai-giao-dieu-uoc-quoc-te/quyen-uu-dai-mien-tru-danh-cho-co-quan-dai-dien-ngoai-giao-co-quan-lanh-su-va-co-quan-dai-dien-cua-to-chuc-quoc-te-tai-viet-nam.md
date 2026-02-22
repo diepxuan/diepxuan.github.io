@@ -2,7 +2,7 @@
 layout: default
 title: Quyền ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/quyen-uu-dai-mien-tru-danh-cho-co-quan-dai-dien-ngoai-giao-co-quan-lanh-su-va-co-quan-dai-dien-cua-to-chuc-quoc-te-tai-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: quyen-uu-dai-mien-tru-danh-cho-co-quan-dai-dien-ngoai-giao-co-quan-lanh-su-va-co-quan-dai-dien-cua-to-chuc-quoc-te-tai-viet-nam
 parent: ngoai-giao-dieu-uoc-quoc-te
 ---

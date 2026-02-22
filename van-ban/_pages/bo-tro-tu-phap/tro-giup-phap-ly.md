@@ -2,7 +2,7 @@
 layout: default
 title: Trợ giúp pháp lý
 permalink: /van-ban/bo-tro-tu-phap/tro-giup-phap-ly/
-collection: subtopics
+collection: vanban_subtopics
 slug: tro-giup-phap-ly
 parent: bo-tro-tu-phap
 ---

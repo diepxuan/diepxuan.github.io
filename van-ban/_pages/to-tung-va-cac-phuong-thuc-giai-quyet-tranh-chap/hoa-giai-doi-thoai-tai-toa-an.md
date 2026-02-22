@@ -2,7 +2,7 @@
 layout: default
 title: Hòa giải, đối thoại tại Tòa án
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-doi-thoai-tai-toa-an/
-collection: subtopics
+collection: vanban_subtopics
 slug: hoa-giai-doi-thoai-tai-toa-an
 parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Khuyến công
 permalink: /van-ban/cong-nghiep/khuyen-cong/
-collection: subtopics
+collection: vanban_subtopics
 slug: khuyen-cong
 parent: cong-nghiep
 ---

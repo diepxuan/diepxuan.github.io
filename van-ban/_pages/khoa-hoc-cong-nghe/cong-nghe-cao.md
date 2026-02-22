@@ -2,7 +2,7 @@
 layout: default
 title: Công nghệ cao
 permalink: /van-ban/khoa-hoc-cong-nghe/cong-nghe-cao/
-collection: subtopics
+collection: vanban_subtopics
 slug: cong-nghe-cao
 parent: khoa-hoc-cong-nghe
 ---

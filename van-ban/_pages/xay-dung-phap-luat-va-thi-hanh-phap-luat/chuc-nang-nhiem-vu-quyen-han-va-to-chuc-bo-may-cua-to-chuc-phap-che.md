@@ -2,7 +2,7 @@
 layout: default
 title: Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che/
-collection: subtopics
+collection: vanban_subtopics
 slug: chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che
 parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---

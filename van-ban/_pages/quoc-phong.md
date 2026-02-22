@@ -2,7 +2,7 @@
 layout: default
 title: Quốc phòng
 permalink: /van-ban/quoc-phong/
-collection: topics
+collection: vanban_topics
 slug: quoc-phong
 ---
 

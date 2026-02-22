@@ -2,7 +2,7 @@
 layout: default
 title: Thực hiện nếp sống văn minh trong việc cưới, việc tang
 permalink: /van-ban/van-hoa-the-thao-du-lich/thuc-hien-nep-song-van-minh-trong-viec-cuoi-viec-tang/
-collection: subtopics
+collection: vanban_subtopics
 slug: thuc-hien-nep-song-van-minh-trong-viec-cuoi-viec-tang
 parent: van-hoa-the-thao-du-lich
 ---

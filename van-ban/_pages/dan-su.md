@@ -2,7 +2,7 @@
 layout: default
 title: Dân sự
 permalink: /van-ban/dan-su/
-collection: topics
+collection: vanban_topics
 slug: dan-su
 ---
 

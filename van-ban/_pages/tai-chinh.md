@@ -2,7 +2,7 @@
 layout: default
 title: Tài chính
 permalink: /van-ban/tai-chinh/
-collection: topics
+collection: vanban_topics
 slug: tai-chinh
 ---
 

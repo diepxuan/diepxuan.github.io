@@ -2,7 +2,7 @@
 layout: default
 title: Thư viện
 permalink: /van-ban/van-hoa-the-thao-du-lich/thu-vien/
-collection: subtopics
+collection: vanban_subtopics
 slug: thu-vien
 parent: van-hoa-the-thao-du-lich
 ---

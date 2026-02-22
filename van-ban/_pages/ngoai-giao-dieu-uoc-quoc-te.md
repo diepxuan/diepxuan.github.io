@@ -2,7 +2,7 @@
 layout: default
 title: Ngoại giao, điều ước quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/
-collection: topics
+collection: vanban_topics
 slug: ngoai-giao-dieu-uoc-quoc-te
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Quản lý và sử dụng con dấu
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
-collection: subtopics
+collection: vanban_subtopics
 slug: quan-ly-va-su-dung-con-dau
 parent: trat-tu-an-toan-xa-hoi
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Phát triển ngành nghề nông thôn
 permalink: /van-ban/nong-nghiep-nong-thon/phat-trien-nganh-nghe-nong-thon/
-collection: subtopics
+collection: vanban_subtopics
 slug: phat-trien-nganh-nghe-nong-thon
 parent: nong-nghiep-nong-thon
 ---

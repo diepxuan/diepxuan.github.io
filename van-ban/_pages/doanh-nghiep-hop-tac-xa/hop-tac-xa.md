@@ -2,7 +2,7 @@
 layout: default
 title: Hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa/
-collection: subtopics
+collection: vanban_subtopics
 slug: hop-tac-xa
 parent: doanh-nghiep-hop-tac-xa
 ---

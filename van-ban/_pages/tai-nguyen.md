@@ -2,7 +2,7 @@
 layout: default
 title: Tài nguyên
 permalink: /van-ban/tai-nguyen/
-collection: topics
+collection: vanban_topics
 slug: tai-nguyen
 ---
 

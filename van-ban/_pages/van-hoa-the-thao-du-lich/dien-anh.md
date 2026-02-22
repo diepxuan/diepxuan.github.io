@@ -2,7 +2,7 @@
 layout: default
 title: Điện ảnh
 permalink: /van-ban/van-hoa-the-thao-du-lich/dien-anh/
-collection: subtopics
+collection: vanban_subtopics
 slug: dien-anh
 parent: van-hoa-the-thao-du-lich
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Biển Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/bien-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: bien-viet-nam
 parent: an-ninh-quoc-gia
 ---

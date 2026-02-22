@@ -2,7 +2,7 @@
 layout: default
 title: Quản lý thị trường
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-thi-truong/
-collection: subtopics
+collection: vanban_subtopics
 slug: quan-ly-thi-truong
 parent: thuong-mai-dau-tu-chung-khoan
 ---

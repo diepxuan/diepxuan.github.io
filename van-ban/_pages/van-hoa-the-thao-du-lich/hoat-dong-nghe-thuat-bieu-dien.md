@@ -2,7 +2,7 @@
 layout: default
 title: Hoạt động nghệ thuật biểu diễn
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-nghe-thuat-bieu-dien/
-collection: subtopics
+collection: vanban_subtopics
 slug: hoat-dong-nghe-thuat-bieu-dien
 parent: van-hoa-the-thao-du-lich
 ---

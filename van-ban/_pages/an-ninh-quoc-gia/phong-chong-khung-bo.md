@@ -2,7 +2,7 @@
 layout: default
 title: Phòng, chống khủng bố
 permalink: /van-ban/an-ninh-quoc-gia/phong-chong-khung-bo/
-collection: subtopics
+collection: vanban_subtopics
 slug: phong-chong-khung-bo
 parent: an-ninh-quoc-gia
 ---
