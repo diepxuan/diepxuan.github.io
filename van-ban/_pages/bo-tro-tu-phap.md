@@ -8,15 +8,16 @@ permalink: /van-ban/bo-tro-tu-phap/
 
 **Chủ đề:** Bổ trợ tư pháp  
 **Số đề mục:** 5  
+**Số điều khoản:** 1,249  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📋 Danh sách Đề mục
 
-1. **[Đấu giá tài sản](/van-ban/bo-tro-tu-phap/dau-gia-tai-san/)**
-2. **[Giám định tư pháp](/van-ban/bo-tro-tu-phap/giam-dinh-tu-phap/)**
-3. **[Luật sư](/van-ban/bo-tro-tu-phap/luat-su/)**
-4. **[Trợ giúp pháp lý](/van-ban/bo-tro-tu-phap/tro-giup-phap-ly/)**
-5. **[Tư vấn pháp luật](/van-ban/bo-tro-tu-phap/tu-van-phap-luat/)**
+1. **[Giám định tư pháp](/van-ban/bo-tro-tu-phap/giam-dinh-tu-phap/)** - 468 điều khoản
+2. **[Luật sư](/van-ban/bo-tro-tu-phap/luat-su/)** - 262 điều khoản
+3. **[Trợ giúp pháp lý](/van-ban/bo-tro-tu-phap/tro-giup-phap-ly/)** - 269 điều khoản
+4. **[Tư vấn pháp luật](/van-ban/bo-tro-tu-phap/tu-van-phap-luat/)** - 59 điều khoản
+5. **[Đấu giá tài sản](/van-ban/bo-tro-tu-phap/dau-gia-tai-san/)** - 191 điều khoản
 
 
 ## 🔙 Quay lại
@@ -24,11 +25,14 @@ permalink: /van-ban/bo-tro-tu-phap/
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5
+- **Tổng số điều khoản:** 1,249
 - **ID chủ đề:** e967223c-d26a-4c7f-a8d9-420843bd5bf9
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản trong chủ đề này.
+## 🔍 Cách sử dụng
+1. **Chọn đề mục** từ danh sách trên
+2. **Xem nội dung đầy đủ** của đề mục
+3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

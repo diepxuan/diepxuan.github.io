@@ -13,15 +13,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 23003000000000001000
-
-**ID:** 0FDC7421-8424-4A69-9D5E-73F237195816
-
----
 
 ### Điều 23.3.NĐ.1. Phạm vi điều chỉnh
 
@@ -33,105 +24,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
-### Điều 23.3.NĐ.2. Đối tượng áp dụng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2300300000000000100000200000000000000000
-
-**ID:** E664B391-592A-4955-B2A4-7C6DC48FB6E8
-
----
-
-### Điều 23.3.NĐ.3. Giải thích từ ngữ
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2300300000000000100000300000000000000000
-
-**ID:** F241CE77-4D5F-4695-A0E5-07B866807FD4
-
----
-
-### Điều 23.3.NĐ.4. Chính sách của Chính phủ Việt Nam đối với các tổ chức phi chính phủ nước ngoài
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 2300300000000000100000400000000000000000
-
-**ID:** 72B44836-F357-4656-9F21-DF804CEB0719
-
----
-
-### Điều 23.3.NĐ.5. Các hành vi bị cấm đối với các tổ chức phi chính phủ nước ngoài
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 2300300000000000100000500000000000000000
-
-**ID:** B9A68B42-6F35-4696-865B-1A1E44C4B085
-
----
-
-### Điều 23.3.NĐ.6. Cơ sở dữ liệu về các tổ chức phi chính phủ nước ngoài
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 2300300000000000100000600000000000000000
-
-**ID:** 204C90BD-BCEF-4AEC-94F8-8640BF1F0C76
-
----
-
-### Chương II THẨM QUYỀN CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI, ĐÌNH CHỈ, CHẤM DỨT HOẠT ĐỘNG VÀ THU HỒI GIẤY ĐĂNG KÝ, ĐỊA BÀN VÀ LĨNH VỰC HOẠT ĐỘNG CỦA TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI, THỜI HẠN CỦA GIẤY ĐĂNG KÝ
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 23003000000000002000
-
-**ID:** 0DCF52F9-78D4-4688-8D10-E760F11192D7
-
----
-
-### Điều 23.3.NĐ.7. Thẩm quyền cấp, gia hạn, sửa đổi, bổ sung, cấp lại, đình chỉ, chấm dứt hoạt động và thu hồiGiấy đăng ký
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 2300300000000000200000700000000000000000
-
-**ID:** EC18AE5C-1B9A-4E1E-B51B-704BB7937417
-
----
-
-### Điều 23.3.NĐ.8. Địa bàn và lĩnh vực hoạt động của tổ chức phi chính phủ nước ngoài
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 2300300000000000200000800000000000000000
-
-**ID:** B058D612-05C0-4383-9E82-DB163E81C089
-
----
-
-### Điều 23.3.NĐ.9. Thời hạn Giấy đăng ký
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 2300300000000000200000900000000000000000
-
-**ID:** 52585A56-7A32-492C-847C-94BCA2189B3E
-
----
-
-### Chương III ĐIỀU KIỆN, TRÌNH TỰ, THỦ TỤC CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI GIẤY ĐĂNG KÝ Mục 1. ĐIỀU KIỆN, TRÌNH TỰ, THỦ TỤC CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI GIẤY ĐĂNG KÝ HOẠT ĐỘNG
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 23003000000000003000
-
-**ID:** 24FB9E2B-5127-4666-ACFA-0813E1F7AABB
-
----
 
 ### Điều 23.3.NĐ.10. Điều kiện cấp Giấy đăng ký hoạt động
 
@@ -143,6 +35,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.11. Trình tự, thủ tục cấp Giấy đăng ký hoạt động
 
 **Chỉ mục:** 11
@@ -152,6 +45,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 **ID:** DBCE4AEF-7B1F-4D1A-803A-FAAFB0AB0A85
 
 ---
+
 
 ### Điều 23.3.NĐ.12. Trình tự, thủ tục gia hạn Giấy đăng ký hoạt động
 
@@ -163,6 +57,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.13. Trình tự, thủ tục sửa đổi, bổ sung, cấp lại Giấy đăng ký hoạt động
 
 **Chỉ mục:** 13
@@ -172,6 +67,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 **ID:** 5FA350DF-072D-4951-B873-8CF65C80E606
 
 ---
+
 
 ### Điều 23.3.NĐ.14. Điều kiện cấp Giấy đăng ký lập Văn phòng đại diện
 
@@ -183,6 +79,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.15. Trình tự, thủ tục cấp Giấy đăng ký lập Văn phòng đại diện
 
 **Chỉ mục:** 15
@@ -192,6 +89,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 **ID:** 70EA8122-97FE-4E51-81B0-5368C7744718
 
 ---
+
 
 ### Điều 23.3.NĐ.16. Trình tự, thủ tục gia hạn Giấy đăng ký lập Văn phòng đại diện
 
@@ -203,6 +101,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.17. Trình tự, thủ tục sửa đổi, bổ sung, cấp lại Giấy đăng ký lập Văn phòng đại diện
 
 **Chỉ mục:** 17
@@ -213,15 +112,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
-### Chương IV ĐÌNH CHỈ, CHẤM DỨT HOẠT ĐỘNG VÀ THU HỒI GIẤY ĐĂNG KÝ ĐỐI VỚI CÁC TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 23003000000000004000
-
-**ID:** 52A17F2B-6F6A-4246-AADA-E2C1BFEA1B7A
-
----
 
 ### Điều 23.3.NĐ.18. Đình chỉ hoạt động
 
@@ -233,6 +123,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.19. Chấm dứt hoạt động
 
 **Chỉ mục:** 19
@@ -243,15 +134,17 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
-### Chương V QUYỀN VÀ NGHĨA VỤ CỦA CÁC TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI
 
-**Chỉ mục:** V
+### Điều 23.3.NĐ.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 23003000000000005000
+**Chỉ mục:** 2
 
-**ID:** 398A7625-1055-4E39-8E04-26BE90C965BA
+**Mã phân cấp:** 2300300000000000100000200000000000000000
+
+**ID:** E664B391-592A-4955-B2A4-7C6DC48FB6E8
 
 ---
+
 
 ### Điều 23.3.NĐ.20. Quyền của các tổ chức phi chính phủ nước ngoài
 
@@ -263,6 +156,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.21. Nghĩa vụ của các tổ chức phi chính phủ nước ngoài
 
 **Chỉ mục:** 21
@@ -273,15 +167,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
-### Chương VI TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC, CÁC CƠ QUAN VÀ TỔ CHỨC LIÊN QUAN Mục 1. TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC
-
-**Chỉ mục:** VI
-
-**Mã phân cấp:** 23003000000000006000
-
-**ID:** A21B9470-093B-4507-A82B-D23729783D9F
-
----
 
 ### Điều 23.3.NĐ.22. Trách nhiệm của Bộ Ngoại giao
 
@@ -293,6 +178,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.23. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
 **Chỉ mục:** 23
@@ -302,6 +188,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 **ID:** 6766FA92-13A1-49AE-9BB3-E62AEFD60E95
 
 ---
+
 
 ### Điều 23.3.NĐ.24. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
 
@@ -313,6 +200,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.25. Trách nhiệm của Ủy ban công tác về các tổ chức phi chính phủ nước ngoài
 
 **Chỉ mục:** 25
@@ -322,6 +210,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 **ID:** 552C58D4-4794-437F-8891-8DF8BCFD6085
 
 ---
+
 
 ### Điều 23.3.NĐ.26. Trách nhiệm của các cơ quan đối tác Việt Nam
 
@@ -333,15 +222,6 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
-### Chương VII ĐIỀU KHOẢN THI HÀNH
-
-**Chỉ mục:** VII
-
-**Mã phân cấp:** 23003000000000007000
-
-**ID:** A958D3C5-DDAC-4D0F-9EC7-A46A22883A6A
-
----
 
 ### Điều 23.3.NĐ.27. Hiệu lực thi hành
 
@@ -353,6 +233,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 
 ---
 
+
 ### Điều 23.3.NĐ.28. Điều khoản chuyển tiếp
 
 **Chỉ mục:** 28
@@ -362,6 +243,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 **ID:** 221C0155-0A17-481A-84BD-1D10D5EAB87B
 
 ---
+
 
 ### Điều 23.3.NĐ.29. Trách nhiệm thi hành
 
@@ -374,10 +256,164 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dang-ky-va-quan-ly-hoat-dong-cua
 ---
 
 
+### Điều 23.3.NĐ.3. Giải thích từ ngữ
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 2300300000000000100000300000000000000000
+
+**ID:** F241CE77-4D5F-4695-A0E5-07B866807FD4
+
+---
+
+
+### Điều 23.3.NĐ.4. Chính sách của Chính phủ Việt Nam đối với các tổ chức phi chính phủ nước ngoài
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 2300300000000000100000400000000000000000
+
+**ID:** 72B44836-F357-4656-9F21-DF804CEB0719
+
+---
+
+
+### Điều 23.3.NĐ.5. Các hành vi bị cấm đối với các tổ chức phi chính phủ nước ngoài
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 2300300000000000100000500000000000000000
+
+**ID:** B9A68B42-6F35-4696-865B-1A1E44C4B085
+
+---
+
+
+### Điều 23.3.NĐ.6. Cơ sở dữ liệu về các tổ chức phi chính phủ nước ngoài
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 2300300000000000100000600000000000000000
+
+**ID:** 204C90BD-BCEF-4AEC-94F8-8640BF1F0C76
+
+---
+
+
+### Điều 23.3.NĐ.7. Thẩm quyền cấp, gia hạn, sửa đổi, bổ sung, cấp lại, đình chỉ, chấm dứt hoạt động và thu hồiGiấy đăng ký
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 2300300000000000200000700000000000000000
+
+**ID:** EC18AE5C-1B9A-4E1E-B51B-704BB7937417
+
+---
+
+
+### Điều 23.3.NĐ.8. Địa bàn và lĩnh vực hoạt động của tổ chức phi chính phủ nước ngoài
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 2300300000000000200000800000000000000000
+
+**ID:** B058D612-05C0-4383-9E82-DB163E81C089
+
+---
+
+
+### Điều 23.3.NĐ.9. Thời hạn Giấy đăng ký
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 2300300000000000200000900000000000000000
+
+**ID:** 52585A56-7A32-492C-847C-94BCA2189B3E
+
+---
+
+
+### Chương I QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 23003000000000001000
+
+**ID:** 0FDC7421-8424-4A69-9D5E-73F237195816
+
+---
+
+
+### Chương II THẨM QUYỀN CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI, ĐÌNH CHỈ, CHẤM DỨT HOẠT ĐỘNG VÀ THU HỒI GIẤY ĐĂNG KÝ, ĐỊA BÀN VÀ LĨNH VỰC HOẠT ĐỘNG CỦA TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI, THỜI HẠN CỦA GIẤY ĐĂNG KÝ
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 23003000000000002000
+
+**ID:** 0DCF52F9-78D4-4688-8D10-E760F11192D7
+
+---
+
+
+### Chương III ĐIỀU KIỆN, TRÌNH TỰ, THỦ TỤC CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI GIẤY ĐĂNG KÝ Mục 1. ĐIỀU KIỆN, TRÌNH TỰ, THỦ TỤC CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI GIẤY ĐĂNG KÝ HOẠT ĐỘNG
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 23003000000000003000
+
+**ID:** 24FB9E2B-5127-4666-ACFA-0813E1F7AABB
+
+---
+
+
+### Chương IV ĐÌNH CHỈ, CHẤM DỨT HOẠT ĐỘNG VÀ THU HỒI GIẤY ĐĂNG KÝ ĐỐI VỚI CÁC TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 23003000000000004000
+
+**ID:** 52A17F2B-6F6A-4246-AADA-E2C1BFEA1B7A
+
+---
+
+
+### Chương V QUYỀN VÀ NGHĨA VỤ CỦA CÁC TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI
+
+**Chỉ mục:** V
+
+**Mã phân cấp:** 23003000000000005000
+
+**ID:** 398A7625-1055-4E39-8E04-26BE90C965BA
+
+---
+
+
+### Chương VI TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC, CÁC CƠ QUAN VÀ TỔ CHỨC LIÊN QUAN Mục 1. TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC
+
+**Chỉ mục:** VI
+
+**Mã phân cấp:** 23003000000000006000
+
+**ID:** A21B9470-093B-4507-A82B-D23729783D9F
+
+---
+
+
+### Chương VII ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** VII
+
+**Mã phân cấp:** 23003000000000007000
+
+**ID:** A958D3C5-DDAC-4D0F-9EC7-A46A22883A6A
+
+---
+
+
 
 ## 🔙 Quay lại
 [← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 36
@@ -388,4 +424,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}
