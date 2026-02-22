@@ -156,7 +156,7 @@ slug: {topic['slug']}
 **Chủ đề:** {topic['name']}  
 **Số đề mục:** {topic['subtopic_count']}  
 **Số điều khoản:** {topic['provision_count']:,}  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
+**Cập nhật:** {{{{ site.time | date: "%Y-%m-%d" }}}}
 
 ## 📋 Danh sách Đề mục
 
@@ -204,7 +204,7 @@ parent: {topic['slug']}
 **Đề mục:** {subtopic['name']}  
 **Chủ đề:** [{topic['name']}](/van-ban/{topic['slug']}/)  
 **Số điều khoản:** {subtopic['provision_count']}  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
+**Cập nhật:** {{{{ site.time | date: "%Y-%m-%d" }}}}
 
 ## 📜 Nội dung Điều khoản
 
@@ -267,7 +267,7 @@ permalink: /van-ban/
 # 📚 Bộ Pháp điển Điện tử
 
 **Nguồn:** Bộ Tư pháp Việt Nam  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}  
+**Cập nhật:** {{{{ site.time | date: "%Y-%m-%d" }}}}
 **Phiên bản:** 1.0
 
 ## 📊 Tổng quan
