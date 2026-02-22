@@ -2,7 +2,7 @@
 layout: default
 title: Luật sư
 permalink: /van-ban/bo-tro-tu-phap/luat-su/
-collection: subtopics
+collection: vanban_subtopics
 slug: luat-su
 parent: bo-tro-tu-phap
 ---

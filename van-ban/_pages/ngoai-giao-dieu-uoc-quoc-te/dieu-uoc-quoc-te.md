@@ -2,7 +2,7 @@
 layout: default
 title: Điều ước quốc tế
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/dieu-uoc-quoc-te/
-collection: subtopics
+collection: vanban_subtopics
 slug: dieu-uoc-quoc-te
 parent: ngoai-giao-dieu-uoc-quoc-te
 ---

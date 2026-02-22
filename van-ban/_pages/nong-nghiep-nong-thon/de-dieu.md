@@ -2,7 +2,7 @@
 layout: default
 title: Đê điều
 permalink: /van-ban/nong-nghiep-nong-thon/de-dieu/
-collection: subtopics
+collection: vanban_subtopics
 slug: de-dieu
 parent: nong-nghiep-nong-thon
 ---

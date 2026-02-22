@@ -2,7 +2,7 @@
 layout: default
 title: Dân tộc
 permalink: /van-ban/dan-toc/
-collection: topics
+collection: vanban_topics
 slug: dan-toc
 ---
 

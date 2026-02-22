@@ -2,7 +2,7 @@
 layout: default
 title: Người cao tuổi
 permalink: /van-ban/chinh-sach-xa-hoi/nguoi-cao-tuoi/
-collection: subtopics
+collection: vanban_subtopics
 slug: nguoi-cao-tuoi
 parent: chinh-sach-xa-hoi
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Thi đua, khen thưởng, các danh hiệu vinh dự nhà nước
 permalink: /van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/
-collection: topics
+collection: vanban_topics
 slug: thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc
 ---
 

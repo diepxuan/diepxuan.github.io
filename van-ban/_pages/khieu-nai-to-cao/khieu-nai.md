@@ -2,7 +2,7 @@
 layout: default
 title: Khiếu nại
 permalink: /van-ban/khieu-nai-to-cao/khieu-nai/
-collection: subtopics
+collection: vanban_subtopics
 slug: khieu-nai
 parent: khieu-nai-to-cao
 ---

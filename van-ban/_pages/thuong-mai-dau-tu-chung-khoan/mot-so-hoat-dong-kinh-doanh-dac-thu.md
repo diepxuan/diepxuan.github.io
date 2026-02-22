@@ -2,7 +2,7 @@
 layout: default
 title: Một số hoạt động kinh doanh đặc thù
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/mot-so-hoat-dong-kinh-doanh-dac-thu/
-collection: subtopics
+collection: vanban_subtopics
 slug: mot-so-hoat-dong-kinh-doanh-dac-thu
 parent: thuong-mai-dau-tu-chung-khoan
 ---

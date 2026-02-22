@@ -2,7 +2,7 @@
 layout: default
 title: Năng lượng nguyên tử
 permalink: /van-ban/khoa-hoc-cong-nghe/nang-luong-nguyen-tu/
-collection: subtopics
+collection: vanban_subtopics
 slug: nang-luong-nguyen-tu
 parent: khoa-hoc-cong-nghe
 ---

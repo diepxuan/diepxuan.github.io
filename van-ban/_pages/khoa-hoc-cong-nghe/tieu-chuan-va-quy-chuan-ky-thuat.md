@@ -2,7 +2,7 @@
 layout: default
 title: Tiêu chuẩn và quy chuẩn kỹ thuật
 permalink: /van-ban/khoa-hoc-cong-nghe/tieu-chuan-va-quy-chuan-ky-thuat/
-collection: subtopics
+collection: vanban_subtopics
 slug: tieu-chuan-va-quy-chuan-ky-thuat
 parent: khoa-hoc-cong-nghe
 ---

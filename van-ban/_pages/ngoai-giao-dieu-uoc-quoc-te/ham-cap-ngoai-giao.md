@@ -2,7 +2,7 @@
 layout: default
 title: Hàm, cấp ngoại giao
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/ham-cap-ngoai-giao/
-collection: subtopics
+collection: vanban_subtopics
 slug: ham-cap-ngoai-giao
 parent: ngoai-giao-dieu-uoc-quoc-te
 ---

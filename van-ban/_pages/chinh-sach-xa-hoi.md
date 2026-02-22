@@ -2,7 +2,7 @@
 layout: default
 title: Chính sách xã hội
 permalink: /van-ban/chinh-sach-xa-hoi/
-collection: topics
+collection: vanban_topics
 slug: chinh-sach-xa-hoi
 ---
 

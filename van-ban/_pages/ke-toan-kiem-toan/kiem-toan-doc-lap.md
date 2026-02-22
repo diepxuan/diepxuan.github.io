@@ -2,7 +2,7 @@
 layout: default
 title: Kiểm toán độc lập
 permalink: /van-ban/ke-toan-kiem-toan/kiem-toan-doc-lap/
-collection: subtopics
+collection: vanban_subtopics
 slug: kiem-toan-doc-lap
 parent: ke-toan-kiem-toan
 ---

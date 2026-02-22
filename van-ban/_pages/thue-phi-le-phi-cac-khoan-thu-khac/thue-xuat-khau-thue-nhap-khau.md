@@ -2,7 +2,7 @@
 layout: default
 title: Thuế xuất khẩu, thuế nhập khẩu
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-xuat-khau-thue-nhap-khau/
-collection: subtopics
+collection: vanban_subtopics
 slug: thue-xuat-khau-thue-nhap-khau
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---

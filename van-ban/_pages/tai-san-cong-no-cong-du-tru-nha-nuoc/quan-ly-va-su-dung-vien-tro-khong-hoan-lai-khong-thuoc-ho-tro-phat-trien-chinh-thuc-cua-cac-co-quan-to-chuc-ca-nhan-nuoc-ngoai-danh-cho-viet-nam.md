@@ -2,7 +2,7 @@
 layout: default
 title: Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuoc-ho-tro-phat-trien-chinh-thuc-cua-cac-co-quan-to-chuc-ca-nhan-nuoc-ngoai-danh-cho-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuoc-ho-tro-phat-trien-chinh-thuc-cua-cac-co-quan-to-chuc-ca-nhan-nuoc-ngoai-danh-cho-viet-nam
 parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 ---

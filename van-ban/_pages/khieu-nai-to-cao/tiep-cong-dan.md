@@ -2,7 +2,7 @@
 layout: default
 title: Tiếp công dân
 permalink: /van-ban/khieu-nai-to-cao/tiep-cong-dan/
-collection: subtopics
+collection: vanban_subtopics
 slug: tiep-cong-dan
 parent: khieu-nai-to-cao
 ---

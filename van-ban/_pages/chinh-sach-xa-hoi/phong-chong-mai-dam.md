@@ -2,7 +2,7 @@
 layout: default
 title: Phòng, chống mại dâm
 permalink: /van-ban/chinh-sach-xa-hoi/phong-chong-mai-dam/
-collection: subtopics
+collection: vanban_subtopics
 slug: phong-chong-mai-dam
 parent: chinh-sach-xa-hoi
 ---

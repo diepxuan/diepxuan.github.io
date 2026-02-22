@@ -2,7 +2,7 @@
 layout: default
 title: Phòng, chống thiên tai
 permalink: /van-ban/nong-nghiep-nong-thon/phong-chong-thien-tai/
-collection: subtopics
+collection: vanban_subtopics
 slug: phong-chong-thien-tai
 parent: nong-nghiep-nong-thon
 ---

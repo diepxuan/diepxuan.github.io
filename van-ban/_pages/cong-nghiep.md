@@ -2,7 +2,7 @@
 layout: default
 title: Công nghiệp
 permalink: /van-ban/cong-nghiep/
-collection: topics
+collection: vanban_topics
 slug: cong-nghiep
 ---
 

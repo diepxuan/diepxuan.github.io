@@ -2,7 +2,7 @@
 layout: default
 title: Công an nhân dân
 permalink: /van-ban/an-ninh-quoc-gia/cong-an-nhan-dan/
-collection: subtopics
+collection: vanban_subtopics
 slug: cong-an-nhan-dan
 parent: an-ninh-quoc-gia
 ---

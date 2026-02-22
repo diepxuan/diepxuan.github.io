@@ -2,7 +2,7 @@
 layout: default
 title: Dược
 permalink: /van-ban/y-te-duoc/duoc/
-collection: subtopics
+collection: vanban_subtopics
 slug: duoc
 parent: y-te-duoc
 ---

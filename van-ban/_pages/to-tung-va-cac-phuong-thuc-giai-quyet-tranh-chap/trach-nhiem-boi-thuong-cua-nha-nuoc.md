@@ -2,7 +2,7 @@
 layout: default
 title: Trách nhiệm bồi thường của Nhà nước
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/trach-nhiem-boi-thuong-cua-nha-nuoc/
-collection: subtopics
+collection: vanban_subtopics
 slug: trach-nhiem-boi-thuong-cua-nha-nuoc
 parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tương trợ tư pháp
 permalink: /van-ban/tuong-tro-tu-phap/
-collection: topics
+collection: vanban_topics
 slug: tuong-tro-tu-phap
 ---
 

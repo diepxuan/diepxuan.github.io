@@ -2,7 +2,7 @@
 layout: default
 title: Xuất cảnh, nhập cảnh của công dân Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/xuat-canh-nhap-canh-cua-cong-dan-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: xuat-canh-nhap-canh-cua-cong-dan-viet-nam
 parent: an-ninh-quoc-gia
 ---

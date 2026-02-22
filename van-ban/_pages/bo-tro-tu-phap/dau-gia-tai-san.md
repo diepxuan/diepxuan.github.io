@@ -2,7 +2,7 @@
 layout: default
 title: Đấu giá tài sản
 permalink: /van-ban/bo-tro-tu-phap/dau-gia-tai-san/
-collection: subtopics
+collection: vanban_subtopics
 slug: dau-gia-tai-san
 parent: bo-tro-tu-phap
 ---

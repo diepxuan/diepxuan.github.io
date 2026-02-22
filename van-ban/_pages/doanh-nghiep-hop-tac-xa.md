@@ -2,7 +2,7 @@
 layout: default
 title: Doanh nghiệp, hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/
-collection: topics
+collection: vanban_topics
 slug: doanh-nghiep-hop-tac-xa
 ---
 

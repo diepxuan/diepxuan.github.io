@@ -2,7 +2,7 @@
 layout: default
 title: Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/co-quan-dai-dien-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-o-nuoc-ngoai/
-collection: subtopics
+collection: vanban_subtopics
 slug: co-quan-dai-dien-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-o-nuoc-ngoai
 parent: ngoai-giao-dieu-uoc-quoc-te
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tổ chức cơ quan điều tra hình sự
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-chuc-co-quan-dieu-tra-hinh-su/
-collection: subtopics
+collection: vanban_subtopics
 slug: to-chuc-co-quan-dieu-tra-hinh-su
 parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Nông nghiệp, nông thôn
 permalink: /van-ban/nong-nghiep-nong-thon/
-collection: topics
+collection: vanban_topics
 slug: nong-nghiep-nong-thon
 ---
 

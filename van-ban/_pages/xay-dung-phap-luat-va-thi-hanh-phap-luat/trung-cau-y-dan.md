@@ -2,7 +2,7 @@
 layout: default
 title: Trưng cầu ý dân
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/trung-cau-y-dan/
-collection: subtopics
+collection: vanban_subtopics
 slug: trung-cau-y-dan
 parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---

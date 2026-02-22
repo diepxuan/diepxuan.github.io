@@ -2,7 +2,7 @@
 layout: default
 title: Cư trú
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/cu-tru/
-collection: subtopics
+collection: vanban_subtopics
 slug: cu-tru
 parent: trat-tu-an-toan-xa-hoi
 ---

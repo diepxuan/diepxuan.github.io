@@ -2,7 +2,7 @@
 layout: default
 title: Giám định tư pháp
 permalink: /van-ban/bo-tro-tu-phap/giam-dinh-tu-phap/
-collection: subtopics
+collection: vanban_subtopics
 slug: giam-dinh-tu-phap
 parent: bo-tro-tu-phap
 ---

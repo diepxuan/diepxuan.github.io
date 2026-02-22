@@ -2,7 +2,7 @@
 layout: default
 title: Trọng tài thương mại
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/trong-tai-thuong-mai/
-collection: subtopics
+collection: vanban_subtopics
 slug: trong-tai-thuong-mai
 parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---

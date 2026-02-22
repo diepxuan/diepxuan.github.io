@@ -2,7 +2,7 @@
 layout: default
 title: Quyền lập hội và tổ chức, hoạt động, quản lý hội
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi/
-collection: subtopics
+collection: vanban_subtopics
 slug: quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi
 parent: to-chuc-chinh-tri-xa-hoi-hoi
 ---

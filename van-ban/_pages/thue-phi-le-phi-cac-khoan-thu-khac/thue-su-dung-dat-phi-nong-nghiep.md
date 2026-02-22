@@ -2,7 +2,7 @@
 layout: default
 title: Thuế sử dụng đất phi nông nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-su-dung-dat-phi-nong-nghiep/
-collection: subtopics
+collection: vanban_subtopics
 slug: thue-su-dung-dat-phi-nong-nghiep
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
