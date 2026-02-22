@@ -11,7 +11,7 @@ slug: khoa-hoc-cong-nghe
 **Chủ đề:** Khoa học, công nghệ  
 **Số đề mục:** 7  
 **Số điều khoản:** 3,962  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

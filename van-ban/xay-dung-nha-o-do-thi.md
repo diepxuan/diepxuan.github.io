@@ -11,7 +11,7 @@ slug: xay-dung-nha-o-do-thi
 **Chủ đề:** Xây dựng, nhà ở, đô thị  
 **Số đề mục:** 1  
 **Số điều khoản:** 100  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

@@ -12,7 +12,7 @@ parent: hinh-su
 **Đề mục:** Hình sự  
 **Chủ đề:** [Hình sự](/van-ban/hinh-su/)  
 **Số điều khoản:** 582  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

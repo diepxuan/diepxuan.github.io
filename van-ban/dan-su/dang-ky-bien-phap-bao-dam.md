@@ -12,7 +12,7 @@ parent: dan-su
 **Đề mục:** Đăng ký biện pháp bảo đảm  
 **Chủ đề:** [Dân sự](/van-ban/dan-su/)  
 **Số điều khoản:** 71  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

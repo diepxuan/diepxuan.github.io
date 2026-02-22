@@ -12,7 +12,7 @@ parent: quoc-phong
 **Đề mục:** Giáo dục quốc phòng và an ninh  
 **Chủ đề:** [Quốc phòng](/van-ban/quoc-phong/)  
 **Số điều khoản:** 232  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

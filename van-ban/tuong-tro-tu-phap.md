@@ -11,7 +11,7 @@ slug: tuong-tro-tu-phap
 **Chủ đề:** Tương trợ tư pháp  
 **Số đề mục:** 1  
 **Số điều khoản:** 165  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

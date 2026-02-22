@@ -12,7 +12,7 @@ parent: khieu-nai-to-cao
 **Đề mục:** Phòng, chống tham nhũng  
 **Chủ đề:** [Khiếu nại, tố cáo](/van-ban/khieu-nai-to-cao/)  
 **Số điều khoản:** 340  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

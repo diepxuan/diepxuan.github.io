@@ -11,7 +11,7 @@ slug: to-chuc-chinh-tri-xa-hoi-hoi
 **Chủ đề:** Tổ chức chính trị - xã hội, hội  
 **Số đề mục:** 5  
 **Số điều khoản:** 477  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

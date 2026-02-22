@@ -12,7 +12,7 @@ parent: tai-nguyen
 **Đề mục:** Đo đạc và bản đồ  
 **Chủ đề:** [Tài nguyên](/van-ban/tai-nguyen/)  
 **Số điều khoản:** 819  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

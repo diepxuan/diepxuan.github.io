@@ -12,7 +12,7 @@ parent: buu-chinh-vien-thong
 **Đề mục:** Tần số vô tuyến điện  
 **Chủ đề:** [Bưu chính, viễn thông](/van-ban/buu-chinh-vien-thong/)  
 **Số điều khoản:** 268  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

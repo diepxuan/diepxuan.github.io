@@ -12,7 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Quản lý, sử dụng pháo  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 33  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

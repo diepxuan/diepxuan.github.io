@@ -12,7 +12,7 @@ parent: giao-thong-van-tai
 **Đề mục:** Giao thông đường thủy nội địa  
 **Chủ đề:** [Giao thông, vận tải](/van-ban/giao-thong-van-tai/)  
 **Số điều khoản:** 940  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

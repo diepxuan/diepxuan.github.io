@@ -12,7 +12,7 @@ parent: dan-su
 **Đề mục:** Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ  
 **Chủ đề:** [Dân sự](/van-ban/dan-su/)  
 **Số điều khoản:** 77  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

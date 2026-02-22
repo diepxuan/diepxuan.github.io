@@ -11,7 +11,7 @@ slug: dan-so-gia-dinh-tre-em-binh-dang-gioi
 **Chủ đề:** Dân số, gia đình, trẻ em, bình đẳng giới  
 **Số đề mục:** 4  
 **Số điều khoản:** 737  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

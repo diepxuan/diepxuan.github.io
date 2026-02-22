@@ -11,7 +11,7 @@ slug: giao-duc-dao-tao
 **Chủ đề:** Giáo dục, đào tạo  
 **Số đề mục:** 2  
 **Số điều khoản:** 2,178  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

@@ -12,7 +12,7 @@ parent: ke-toan-kiem-toan
 **Đề mục:** Kế toán  
 **Chủ đề:** [Kế toán, kiểm toán](/van-ban/ke-toan-kiem-toan/)  
 **Số điều khoản:** 1514  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

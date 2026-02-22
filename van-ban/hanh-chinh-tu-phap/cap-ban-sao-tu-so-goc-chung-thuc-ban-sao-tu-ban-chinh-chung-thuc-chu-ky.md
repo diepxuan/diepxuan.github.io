@@ -12,7 +12,7 @@ parent: hanh-chinh-tu-phap
 **Đề mục:** Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký  
 **Chủ đề:** [Hành chính tư pháp](/van-ban/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 83  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

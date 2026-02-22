@@ -12,7 +12,7 @@ parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 **Đề mục:** Dự trữ quốc gia  
 **Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](/van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 409  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

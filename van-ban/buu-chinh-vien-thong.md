@@ -11,7 +11,7 @@ slug: buu-chinh-vien-thong
 **Chủ đề:** Bưu chính, viễn thông  
 **Số đề mục:** 4  
 **Số điều khoản:** 2,040  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

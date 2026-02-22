@@ -12,7 +12,7 @@ parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 **Đề mục:** Thực hiện dân chủ ở cơ sở  
 **Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 373  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

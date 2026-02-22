@@ -12,7 +12,7 @@ parent: an-ninh-quoc-gia
 **Đề mục:** Bảo vệ bí mật nhà nước  
 **Chủ đề:** [An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)  
 **Số điều khoản:** 90  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: tai-nguyen
 **Đề mục:** Khí tượng thủy văn  
 **Chủ đề:** [Tài nguyên](/van-ban/tai-nguyen/)  
 **Số điều khoản:** 543  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

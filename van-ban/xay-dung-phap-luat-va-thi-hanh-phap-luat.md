@@ -11,7 +11,7 @@ slug: xay-dung-phap-luat-va-thi-hanh-phap-luat
 **Chủ đề:** Xây dựng pháp luật và thi hành pháp luật  
 **Số đề mục:** 8  
 **Số điều khoản:** 969  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

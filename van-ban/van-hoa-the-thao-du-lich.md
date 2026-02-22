@@ -11,7 +11,7 @@ slug: van-hoa-the-thao-du-lich
 **Chủ đề:** Văn hóa, thể thao, du lịch  
 **Số đề mục:** 13  
 **Số điều khoản:** 1,832  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

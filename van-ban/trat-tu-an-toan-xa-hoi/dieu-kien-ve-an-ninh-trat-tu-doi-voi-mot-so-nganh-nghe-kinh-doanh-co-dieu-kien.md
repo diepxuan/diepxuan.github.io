@@ -12,7 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Điều kiện về an ninh, trật tự đối với một số ngành, nghề kinh doanh có điều kiện  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 73  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: tai-chinh
 **Đề mục:** Hải quan  
 **Chủ đề:** [Tài chính](/van-ban/tai-chinh/)  
 **Số điều khoản:** 1292  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

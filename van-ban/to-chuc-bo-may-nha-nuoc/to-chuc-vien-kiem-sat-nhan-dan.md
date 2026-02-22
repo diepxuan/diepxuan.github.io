@@ -12,7 +12,7 @@ parent: to-chuc-bo-may-nha-nuoc
 **Đề mục:** Tổ chức Viện kiểm sát nhân dân  
 **Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 230  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

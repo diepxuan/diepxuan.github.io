@@ -12,7 +12,7 @@ parent: bo-tro-tu-phap
 **Đề mục:** Tư vấn pháp luật  
 **Chủ đề:** [Bổ trợ tư pháp](/van-ban/bo-tro-tu-phap/)  
 **Số điều khoản:** 59  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

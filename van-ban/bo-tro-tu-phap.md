@@ -11,7 +11,7 @@ slug: bo-tro-tu-phap
 **Chủ đề:** Bổ trợ tư pháp  
 **Số đề mục:** 5  
 **Số điều khoản:** 1,249  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

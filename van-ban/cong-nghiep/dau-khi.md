@@ -12,7 +12,7 @@ parent: cong-nghiep
 **Đề mục:** Dầu khí  
 **Chủ đề:** [Công nghiệp](/van-ban/cong-nghiep/)  
 **Số điều khoản:** 436  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

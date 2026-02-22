@@ -12,7 +12,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Đề mục:** Trách nhiệm bồi thường của Nhà nước  
 **Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 190  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

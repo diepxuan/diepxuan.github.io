@@ -12,7 +12,7 @@ parent: bao-hiem
 **Đề mục:** Kinh doanh bảo hiểm  
 **Chủ đề:** [Bảo hiểm](/van-ban/bao-hiem/)  
 **Số điều khoản:** 703  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

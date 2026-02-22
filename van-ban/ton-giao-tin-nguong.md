@@ -11,7 +11,7 @@ slug: ton-giao-tin-nguong
 **Chủ đề:** Tôn giáo, tín ngưỡng  
 **Số đề mục:** 1  
 **Số điều khoản:** 124  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

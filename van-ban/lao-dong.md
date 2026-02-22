@@ -11,7 +11,7 @@ slug: lao-dong
 **Chủ đề:** Lao động  
 **Số đề mục:** 5  
 **Số điều khoản:** 2,775  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

@@ -11,7 +11,7 @@ slug: quoc-phong
 **Chủ đề:** Quốc phòng  
 **Số đề mục:** 11  
 **Số điều khoản:** 1,883  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

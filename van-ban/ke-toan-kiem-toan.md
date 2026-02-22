@@ -11,7 +11,7 @@ slug: ke-toan-kiem-toan
 **Chủ đề:** Kế toán, kiểm toán  
 **Số đề mục:** 2  
 **Số điều khoản:** 1,792  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 
