@@ -12,6 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Quản lý và sử dụng con dấu  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 44  
+**Điều khoản có nội dung:** 37/44 (84.1%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** FB50B139-6F22-4C53-88A2-47A0B47D066F
 
+1. Nghị định này quy định về quản lý và sử dụng con dấu của cơ quan nhà nước, đơn vị vũ trang nhân dân, cơ quan thuộc hệ thống tổ chức của Đảng Cộng sản Việt Nam, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức kinh tế, tổ chức hội, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ, tổ chức tôn giáo, tổ chức nước ngoài hoạt động tại Việt Nam, tổ chức khác được thành lập, hoạt động theo quy định của pháp luật (sau đây gọi chung là cơ quan, tổ chức) và chức danh nhà nước.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000100000250269130019000010
 
 **ID:** 1E2F3EEB-FA25-4B70-922C-6DF1B9EAE4F8
+
+1. Quyết định này quy định việc giữ lại con dấu hết giá trị sử dụng của một số cơ quan, tổ chức, chức danh nhà nước để lưu trữ, phục vụ nghiên cứu lịch sử.
 
 ---
 
@@ -47,6 +52,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 9F103096-5473-40F7-9403-2F60BAB97314
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000020000020000000000000000001000000000000000000
 
 **ID:** E8E35E7C-691F-4DC0-8BBB-FEAC0A56C11A
+
+1. Tổ chức nước ngoài không có chức năng ngoại giao được mang con dấu từ nước ngoài vào Việt Nam để sử dụng, mẫu con dấu mang vào không được sử dụng các hình ảnh, biểu tượng, tên của Nhà nước Việt Nam và cơ quan, tổ chức Việt Nam hoặc vi phạm truyền thống lịch sử văn hóa, đạo đức và thuần phong, mỹ tục của dân tộc Việt Nam. Trước khi sử dụng con dấu phải thực hiện đăng ký mẫu con dấu tại cơ quan đăng ký mẫu con dấu quy định tại Điều 12 Nghị định này và hồ sơ đăng ký mẫu con dấu theo quy định tại khoản 10 Điều 13 Nghị định này.
 
 ---
 
@@ -69,6 +78,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 547F01F6-2ABC-4EC2-A971-A224E4BA2481
 
+1. Cơ quan, tổ chức, chức danh nhà nước nộp 01 bộ hồ sơ đề nghị giải quyết thủ tục về con dấu theo quy định tại các Điều 13, 14, 15, 16 và Điều 17 Nghị định này cho cơ quan đăng ký mẫu con dấu quy định tại Điều 12 Nghị định này theo một trong các hình thức sau:
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000020000030000000000000000001200000000000000000
 
 **ID:** 615432BB-51F6-4DA6-8F3E-A5C9F555EC7B
+
+1. Cục Cảnh sát quản lý hành chính về trật tự xã hội, Tổng cục Cảnh sát, Bộ Công an có trách nhiệm đăng ký mẫu con dấu; cấp, đổi, cấp lại giấy chứng nhận đăng ký mẫu con dấu đối với cơ quan, tổ chức, chức danh nhà nước, gồm:
 
 ---
 
@@ -91,6 +104,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 94DBFD4D-8B4F-4839-AC1D-3B5FBDDC9E33
 
+1. Đối với cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu có hình Quốc huy: Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000020000030000000000000000001400000000000000000
 
 **ID:** 0B453F15-5113-41FD-80C3-D03BFC997CCB
+
+Văn bản quy định cơ quan, tổ chức, chức danh nhà nước có chức năng cấp văn bằng, chứng chỉ và giấy tờ có dán ảnh hoặc niêm phong tài liệu của cơ quan có thẩm quyền.
 
 ---
 
@@ -113,6 +130,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 6392C0E1-F0AD-403B-B5CE-609D36A52F17
 
+1. Đối với cơ quan, tổ chức, chức danh nhà nước có con dấu bị biến dạng, mòn, hỏng hoặc thay đổi chất liệu: Văn bản đề nghị đăng ký lại mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu, trong đó nêu rõ lý do.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000020000030000000000000000001600000000000000000
 
 **ID:** 7A107509-1148-402C-8747-82C4503D7E50
+
+1. Đối với cơ quan, tổ chức, chức danh nhà nước đăng ký thêm dấu ướt: Văn bản cho phép được sử dụng thêm dấu ướt của cơ quan có thẩm quyền.
 
 ---
 
@@ -135,6 +156,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 821E05FB-45CD-411A-B130-1A8C86F1EC7B
 
+Văn bản đề nghị đổi, cấp lại giấy chứng nhận đăng ký mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu, trong đó nêu rõ lý do.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000020000030000000000000000001800000000000000000
 
 **ID:** AA1C310D-2876-406E-AD65-380896FBFF4C
+
+1. Cơ quan, tổ chức, chức danh nhà nước có trách nhiệm giao nộp con dấu cho cơ quan đăng ký mẫu con dấu quy định tại Điều 12 Nghị định này thuộc các trường hợp sau đây:
 
 ---
 
@@ -157,6 +182,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 807FE3EA-7C58-48F6-AC56-5EAE3CF8EAA3
 
+1. Giúp Chính phủ thống nhất quản lý nhà nước về con dấu trong phạm vi cả nước; trình Chính phủ ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật hướng dẫn thi hành các quy định về quản lý và sử dụng con dấu.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000100000200000000000000000
 
 **ID:** 580B62D5-7D25-415F-9854-811FBB0A614A
+
+Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài; tổ chức, cá nhân nước ngoài hoạt động tại Việt Nam có liên quan đến việc quản lý và sử dụng con dấu.
 
 ---
 
@@ -179,6 +208,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 23CBBA9B-39B5-46F6-9E8F-D29FB6BF11EB
 
+Con dấu hết giá trị sử dụng quy định trong Quyết định này là con dấu ướt của các cơ quan, tổ chức, chức danh nhà nước được giữ lại khi cơ quan, tổ chức, chức danh nhà nước đổi tên, chia, tách, sáp nhập, hợp nhất, giải thể, chấm dứt hoạt động hoặc kết thúc nhiệm vụ.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000200000200000000000000000
 
 **ID:** 7C11079E-2DCE-4667-8338-E1C874D75F3B
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -201,6 +234,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 22ECEF59-DD84-46F9-AE92-2330355DBF8C
 
+1. Tiếp nhận hồ sơ, đăng ký mẫu con dấu mới, đăng ký lại mẫu con dấu, đăng ký thêm con dấu; đăng ký dấu nổi, dấu thu nhỏ, dấu xi; cấp, đổi, cấp lại giấy chứng nhận đăng ký mẫu con dấu theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000300002100000000000000000
 
 **ID:** B6B0797A-C707-417D-8FCC-4DD5C6E84A81
+
+1. Bộ Nội vụ chủ trì, phối hợp Bộ Công an trình Thủ tướng Chính phủ xem xét, quyết định việc cho phép giữ lại con dấu đã hết giá trị sử dụng của một số cơ quan, tổ chức, chức danh nhà nước để phục vụ công tác lưu trữ, nghiên cứu lịch sử.
 
 ---
 
@@ -223,6 +260,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 44F4E6A8-F77F-4A8C-9535-38C7219813DB
 
+1. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn, tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về công tác đăng ký, quản lý con dấu.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000300002300000000000000000
 
 **ID:** 34485A4A-F5A8-4B2D-A1CB-59AC7EEECA3B
+
+1. Cơ quan có thẩm quyền khi ra quyết định thành lập hoặc cấp giấy đăng ký hoạt động hoặc cấp giấy phép hoạt động hoặc công nhận hoạt động và cho phép sử dụng con dấu của cơ quan, tổ chức, chức danh nhà nước phải tuân thủ các quy định của pháp luật.
 
 ---
 
@@ -245,6 +286,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 637BCA22-A4A8-4C49-9FD1-AB1CB1A044F0
 
+1. Chức danh nhà nước, người đứng đầu cơ quan, tổ chức quy định tại Điều 7 và Điều 8 Nghị định này có trách nhiệm quản lý, kiểm tra việc quản lý và sử dụng con dấu và ban hành quy định về quản lý và sử dụng con dấu của cơ quan, tổ chức mình.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000300002500000000000000000
 
 **ID:** 1A123EE2-723F-4B29-987C-462667BC4BA9
+
+1. Hình thức kiểm tra
 
 ---
 
@@ -267,6 +312,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 17786DAD-C235-4305-A280-35443A14401C
 
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000400002700000000000000000
 
 **ID:** 3CB9D284-FD98-4723-8F5B-A8D0D7B1B1C1
+
+1. Con dấu của cơ quan, tổ chức, chức danh nhà nước đã được đăng ký và cấp giấy chứng nhận đã đăng ký mẫu dấu theo quy định tại Nghị định số 58/2001/NĐ-CP mà con dấu của cơ quan, tổ chức, chức danh nhà nước vẫn phù hợp với quy định tại Nghị định này thì không phải thực hiện thủ tục đăng ký lại mẫu con dấu; cấp, đổi, cấp lại giấy chứng nhận đăng ký mẫu con dấu.
 
 ---
 
@@ -289,6 +338,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 85B774B1-C1C4-41A7-9495-C0FBF5A495E3
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000100000300000000000000000
 
 **ID:** C36013BF-2608-4E96-A30B-97AB831820C1
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -311,6 +364,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** E479502A-3960-43C5-A3D0-D62E20EE57F0
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000300
 
 **ID:** 9A63D806-905A-4FD2-BA2D-A7BF1FB243F5
+
+1. Việc giữ lại con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước thực hiện theo quy định của pháp luật về quản lý con dấu.
 
 ---
 
@@ -333,6 +390,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** AE7279C1-39F4-4971-B4E5-4E11B05FE03C
 
+1. Tuân thủ Hiến pháp, pháp luật.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000400
 
 **ID:** 3C17F8BD-4F30-49A3-9FE3-AB91A171FA51
+
+Con dấu hết giá trị sử dụng của các cơ quan, tổ chức, chức danh nhà nước sau đây được giữ lại để lưu trữ, phục vụ nghiên cứu lịch sử:
 
 ---
 
@@ -355,6 +416,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 8BE58BF0-A426-4B8F-9228-A5CE92679C71
 
+1. Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng con dấu khi đã có quy định về việc được phép sử dụng con dấu trong văn bản quy phạm pháp luật hoặc quyết định của cơ quan có thẩm quyền; phải đăng ký mẫu con dấu trước khi sử dụng.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000500
 
 **ID:** 33851C83-A3D3-4D59-BD72-D43BC02ACAC0
+
+1. Trách nhiệm của cơ quan đăng ký mẫu con dấu
 
 ---
 
@@ -377,6 +442,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 22A099A0-D574-4F8C-9954-802138BCF0FA
 
+1. Làm giả con dấu, sử dụng con dấu giả.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000600
 
 **ID:** EB99B7BF-64F2-4E27-B0B1-235FCB47CB39
+
+1. Lưu trữ lịch sử ở trung ương quản lý con dấu hết giá trị sử dụng của các cơ quan, tổ chức, chức danh nhà nước ở trung ương. Lưu trữ lịch sử ở cấp tỉnh quản lý con dấu hết giá trị sử dụng của các cơ quan, tổ chức ở địa phương.
 
 ---
 
@@ -399,6 +468,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** BF8E74B3-6BE1-4A4B-91AD-65B8C8B7F0B9
 
+1. Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Tổng thư ký Quốc hội.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000700
 
 **ID:** 092B204F-CB13-4469-97ED-F8EE8403A7E5
+
+1. Cơ quan, tổ chức có nhu cầu nghiên cứu về con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước phải có văn bản gửi Lưu trữ lịch sử, trong đó nêu rõ thời gian, mục đích và nội dung nghiên cứu. Cá nhân có nhu cầu nghiên cứu về con dấu hết giá trị sử dụng tại Lưu trữ lịch sử phải có một trong những giấy tờ sau: thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu. Người đại diện cơ quan, tổ chức và cá nhân khi đến nghiên cứu con dấu hết giá trị sử dụng thực hiện đăng ký yêu cầu nghiên cứu theo quy định tại Phòng đọc của Lưu trữ lịch sử.
 
 ---
 
@@ -421,6 +494,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 9BF07C0A-C225-4DAD-AA15-36A526C99167
 
+1. Cơ quan, tổ chức thuộc cơ cấu tổ chức của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban thường vụ Quốc hội (trừ các cơ quan quy định tại Điều 7 Nghị định này), Văn phòng Quốc hội, Kiểm toán nhà nước, Học viện Chính trị Quốc gia Hồ Chí Minh.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000400002850269130019000080
 
 **ID:** AE60424A-8E93-4CBB-B3DF-7E1593BF18E7
+
+Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2019.
 
 ---
 
@@ -443,6 +520,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 00299931-9C4F-45E6-A34F-0C81DA877F2A
 
+Cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của các tổ chức quốc tế tại Việt Nam, bộ phận lãnh sự, bộ phận tùy viên quân sự và bộ phận khác trực thuộc cơ quan đại diện ngoại giao nước ngoài tại Việt Nam trước khi sử dụng con dấu có trách nhiệm thông báo mẫu con dấu với Bộ Ngoại giao Việt Nam.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901200000000000400002850269130019000090
 
 **ID:** 854F3DF8-8EB6-4DDC-A2FD-2465EEB984AB
+
+1. Bộ Nội vụ chủ trì, phối hợp với Bộ Công an và các cơ quan liên quan giúp Thủ tướng Chính phủ chỉ đạo, hướng dẫn, tổ chức thực hiện Quyết định này.
 
 ---
 
@@ -465,6 +546,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** CDBD0F17-EF90-4480-BBAB-3C302F960F33
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 39012000000000002000
 
 **ID:** 5422840C-2494-429C-9678-5A03EC4E60BF
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -487,6 +572,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 4E1C229B-DB71-42BD-9EE8-7AF797D38AAA
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -498,6 +585,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 685A31B5-6014-49F1-8FE7-A767CDEFC4C3
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -508,6 +597,7 @@ parent: trat-tu-an-toan-xa-hoi
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 44
+- **Điều khoản có nội dung:** 37 (84.1%)
 - **ID đề mục:** f459bbbc-e15c-416d-b9f4-086464028e0f
 
 ## 🔍 Tìm kiếm

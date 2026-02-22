@@ -12,6 +12,7 @@ parent: an-ninh-quoc-gia
 **Đề mục:** Phòng, chống khủng bố  
 **Chủ đề:** [An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)  
 **Số điều khoản:** 102  
+**Điều khoản có nội dung:** 94/102 (92.2%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3B24B1D0-77C1-48E0-97D9-0BE2CD4A3131
 
+Luật này quy định về nguyên tắc, chính sách, biện pháp, lực lượng phòng, chống khủng bố; hợp tác quốc tế và trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống khủng bố.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000100000240248760122000010
 
 **ID:** F76C62C5-126C-4916-B97F-B8B3C41AE271
+
+1. Nghị định này quy định điều kiện, thủ tục, hình thức, thẩm quyền quyết định tạm ngừng lưu thông, phong tỏa, niêm phong, tạm giữ, xử lý tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố; xác lập danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố.
 
 ---
 
@@ -47,6 +52,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3767B7AF-92DF-4AD5-9CE6-B48D7A2B8FFA
 
+Nghị định này quy định tổ chức, nhiệm vụ, quyền hạn và quan hệ phối hợp của Ban Chỉ đạo phòng, chống khủng bố các cấp.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000100000280258590002000010
 
 **ID:** 5B5B5A43-B127-4F12-80D0-92931B665B75
+
+1. Thông tư này quy định về đào tạo, bồi dưỡng học viên, sinh viên, cán bộ làm công tác phòng, chống khủng bố.
 
 ---
 
@@ -69,6 +78,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EFE53021-F3BF-456B-80E3-9FE38FD6D95F
 
+1. Tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố phải bị tạm ngừng lưu thông, phong tỏa, niêm phong, tạm giữ và xử lý theo quy định của pháp luật.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000100000000000000000000402487601220001000
 
 **ID:** 30DBA655-56E1-47F9-9C4F-D0104B442E7F
+
+1. Qua hoạt động nghiệp vụ hoặc tiếp nhận, xử lý tin báo, tố giác của tổ chức, cá nhân mà có căn cứ cho rằng có tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố thì cơ quan phòng, chống khủng bố Công an cấp tỉnh, cơ quan phòng, chống khủng bố thuộc Tổng cục An ninh I Bộ Công an phối hợp với cơ quan, tổ chức, cá nhân có liên quan xác minh, làm rõ, nếu xác định có tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố thì phải báo cáo ngay với Giám đốc Công an cấp tỉnh hoặc Tổng cục trưởng Tổng cục An ninh I Bộ Công an để xem xét, quyết định việc áp dụng biện pháp xử lý theo thẩm quyền quy định của Nghị định này.
 
 ---
 
@@ -91,6 +104,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A74EA902-CE3E-45C8-B32D-6B8AC76BBA85
 
+1. Thực hiện các nhiệm vụ, quyền hạn quy định tại Khoản 2 Điều 13 Luật phòng, chống khủng bố.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020001000
 
 **ID:** E88591EE-0A01-418B-87E1-1C4C92C02A35
+
+1. Bộ Công an
 
 ---
 
@@ -113,6 +130,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DACEE90D-6119-4FA0-B135-1C320463C6C2
 
+1. Căn cứ lập danh sách, đưa ra khỏi danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố bao gồm:
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000100001100000000000000000
 
 **ID:** 62AE4F27-B073-48E5-B8DB-524EE6333515
+
+1. Nguồn kinh phí bảo đảm cho hoạt động phòng, chống khủng bố bao gồm:
 
 ---
 
@@ -135,6 +156,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E11E82BE-29E4-4037-983E-E5A5135DC64B
 
+1. Ban Chỉ đạo phòng, chống khủng bố hoạt động theo nguyên tắc tập trung thống nhất; quyết định các vấn đề thuộc thẩm quyền thông qua các cuộc họp định kỳ, đột xuất hoặc thông qua lấy ý kiến bằng văn bản. Trưởng Ban Chỉ đạo kết luận và chịu trách nhiệm về quyết định của mình. Ban Chỉ đạo phòng, chống khủng bố có trách nhiệm ban hành và thực hiện quy chế hoạt động của mình.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000800005180258590002000110
 
 **ID:** D13274AC-CE65-4257-8B5A-F0A99F2B021A
+
+Thông tư này có hiệu lực thi hành từ ngày 03 tháng 8 năm 2016.
 
 ---
 
@@ -157,6 +182,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BB62C455-771D-4EE5-9B50-073E86845849
 
+1. Khi phát hiện tổ chức, cá nhân thỏa mãn tiêu chí để xác định là tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố theo các nghị quyết của Hội đồng Bảo an Liên hợp quốc được ban hành trên cơ sở Chương VII của Hiến chương Liên hợp quốc mà chưa được đưa vào danh sách chỉ định của Hội đồng Bảo an Liên hợp quốc thì Bộ Công an chủ trì phối hợp với Bộ Ngoại giao, Bộ Quốc phòng, Ngân hàng Nhà nước Việt Nam và các Bộ, ngành liên quan lập danh sách, báo cáo Thủ tướng Chính phủ xem xét, quyết định việc đề nghị cơ quan có thẩm quyền của Liêp hợp quốc đưa tổ chức, cá nhân đó vào danh sách chỉ định của Hội đồng Bảo an Liên hợp quốc.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000200001200000000000000000
 
 **ID:** 91B32DFA-EFD9-43B7-BE73-CB109061391A
+
+1. Chính phủ thành lập Ban chỉ đạo phòng, chống khủng bố quốc gia. Thành viên Ban chỉ đạo phòng, chống khủng bố quốc gia làm việc theo chế độ kiêm nhiệm.
 
 ---
 
@@ -179,6 +208,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 430000B7-C7E1-4F7B-83E1-BDDB7A0F8F19
 
+1. Ban Chỉ đạo phòng, chống khủng bố quốc gia thực hiện hướng dẫn, kiểm tra, đôn đốc Ban Chỉ đạo phòng, chống khủng bố Bộ, ngành, Ban Chỉ đạo phòng, chống khủng bố tỉnh, thành phố trực thuộc Trung ương thực hiện công tác phòng ngừa khủng bố.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000800005180258590002000120
 
 **ID:** 28DEE3D9-0BE7-46C8-9A44-368AF87F8FC4
+
+1. Bộ Công an, Bộ Quốc phòng, Bộ Giao thông vận tải căn cứ chức năng, nhiệm vụ của mình có trách nhiệm tổ chức thực hiện Thông tư này.
 
 ---
 
@@ -201,6 +234,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2188CB00-215B-4443-A47E-F63C84C13465
 
+1. Khi nhận được yêu cầu của quốc gia khác về việc xác định tổ chức, cá nhân có liên quan hoặc không liên quan đến khủng bố, tài trợ khủng bố, Bộ Công an có trách nhiệm chủ trì phối hợp với Bộ Ngoại giao, Bộ Quốc phòng, Ngân hàng Nhà nước Việt Nam và các Bộ, ngành liên quan xem xét. Nếu có cơ sở hợp lý để cho rằng tổ chức, cá nhân đó có liên quan hoặc không liên quan đến khủng bố, tài trợ khủng bố thì Bộ trưởng Bộ Công an quyết định đưa hoặc không đưa tổ chức, cá nhân đó vào danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố và thông báo cho quốc gia có yêu cầu biết.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000200001300000000000000000
 
 **ID:** BA13EED1-21AA-45A2-BBBC-C1A43122AE3E
+
+1. Ban chỉ đạo phòng, chống khủng bố quốc gia có nhiệm vụ, quyền hạn sau đây:
 
 ---
 
@@ -223,6 +260,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D95E7D9F-422F-433F-B4BD-0C92A8D85667
 
+1. Khi xảy ra hoặc có nguy cơ xảy ra khủng bố tại địa phương, thì Ban Chỉ đạo phòng, chống khủng bố tỉnh, thành phố trực thuộc Trung ương báo cáo Ban Chỉ đạo phòng, chống khủng bố quốc gia, Ban Chỉ đạo phòng, chống khủng bố Bộ Công an, Ban Chỉ đạo phòng, chống khủng bố Bộ Quốc phòng. Trường hợp vụ khủng bố xảy ra, có nguy cơ xảy ra vượt quá khả năng xử lý của lực lượng chống khủng bố của địa phương thì trong báo cáo phải nêu rõ và đề nghị Ban Chỉ đạo phòng, chống khủng bố quốc gia, Ban Chỉ đạo phòng, chống khủng bố Bộ Công an, Ban Chỉ đạo phòng, chống khủng bố Bộ Quốc phòng tham mưu cho cơ quan, người có thẩm quyền chỉ đạo xử lý.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000100000000000000000000402487601220001400
 
 **ID:** D3CABEAA-DA9D-400F-914E-2A06B2A29624
+
+1. Tổ chức, cá nhân có quyền khiếu nại, tố cáo về việc bị tạm ngừng lưu thông, phong tỏa, niêm phong, tạm giữ và xử lý tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố; bị đưa vào danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố.
 
 ---
 
@@ -245,6 +286,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B2286B58-CB34-47FF-8E7B-28FFCCF5FB01
 
+1. Lực lượng chống khủng bố gồm:
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000800005140249840007000140
 
 **ID:** 58B9D4F0-2A84-4B89-A09E-0557E31EB82F
+
+Nghị định này có hiệu lực thi hành từ ngày 25 tháng 3 năm 2014.
 
 ---
 
@@ -267,6 +312,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6188E96D-3525-4244-8086-517857291163
 
+1. Người chỉ huy chống khủng bố là người được cấp có thẩm quyền quyết định.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000800005140248760122000150
 
 **ID:** BEB08CB7-F670-42A8-96CE-466AFD4D50AA
+
+Nghị định này có hiệu lực thi hành kể từ ngày 11 tháng 10 năm 2013.
 
 ---
 
@@ -289,6 +338,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E50A2B4B-EB3D-4546-A05E-C4E5030296D2
 
+1. Bộ trưởng Bộ Công an chịu trách nhiệm chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra, đôn đốc việc thực hiện Nghị định này.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000200001600000000000000000
 
 **ID:** C7CB0FFA-0FE9-4464-B81C-4A0B798B6CA2
+
+1. Người chỉ huy chống khủng bố quy định tại khoản 1 Điều 15 của Luật này có nhiệm vụ, quyền hạn sau:
 
 ---
 
@@ -311,6 +364,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 76B0DF7C-D560-493E-9E49-E9A4A96A980C
 
+1. Bộ trưởng Bộ Công an chịu trách nhiệm chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra, theo dõi việc thực hiện Nghị định này.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000200001700000000000000000
 
 **ID:** D273C8E0-E792-4C29-AFC3-0353E5DECB7D
+
+1. Lực lượng chống khủng bố được ưu tiên trang bị vũ khí, công cụ hỗ trợ, phương tiện kỹ thuật nghiệp vụ phòng, chống khủng bố.
 
 ---
 
@@ -333,6 +390,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 255B1D85-B22C-4D61-BD5B-31FAE12407B5
 
+1. Khi xảy ra khủng bố, người có thẩm quyền theo quy định của pháp luật được huy động lực lượng, phương tiện để chống khủng bố. Cơ quan, tổ chức, cá nhân khi được huy động để chống khủng bố có trách nhiệm chấp hành.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000300001900000000000000000
 
 **ID:** 696D799C-A044-442E-B826-E53F9D5AFFEF
+
+Phòng ngừa khủng bố và tài trợ khủng bố được thực hiện bằng các biện pháp quy định tại các điều từ Điều 20 đến Điều 27 của Luật này và các biện pháp khác theo quy định của pháp luật.
 
 ---
 
@@ -355,6 +416,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B82F32C6-7C18-4FCB-BB4C-EA386BA0C3E3
 
+Luật này áp dụng đối với công dân, cơ quan, tổ chức Việt Nam; tổ chức quốc tế, tổ chức nước ngoài, người nước ngoài cư trú, hoạt động trên lãnh thổ Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000100000240248760122000020
 
 **ID:** 7F8BE978-023F-4C6D-8C96-3161987A64CD
+
+Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân liên quan đến việc tạm ngừng lưu thông, phong tỏa, niêm phong, tạm giữ, xử lý tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố; xác lập danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố.
 
 ---
 
@@ -377,6 +442,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EEFE9117-AC95-4815-A70F-830E9E050A47
 
+Nghị định này áp dụng đối với Ban Chỉ đạo phòng, chống khủng bố các cấp; cơ quan, tổ chức, công dân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ Việt Nam.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000100000380258590002000020
 
 **ID:** 3B6507E7-7A1D-4BF4-94E0-ADCBA2A87782
+
+Trong Thông tư này, các từ ngữ sau đây được hiểu như sau:
 
 ---
 
@@ -399,6 +468,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2AD05FC7-BB59-416A-A95A-0DA68BB8FF15
 
+1. Cơ quan và người có thẩm quyền có trách nhiệm thông tin, tuyên truyền, giáo dục về phòng, chống khủng bố nhằm nâng cao nhận thức, trách nhiệm và hiệu quả phòng, chống khủng bố.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000300002100000000000000000
 
 **ID:** 9F374B0A-EA35-4E20-91E5-874CF9AE727F
+
+1. Cơ quan và người có thẩm quyền quản lý hành chính về an ninh, trật tự thông qua hoạt động của mình có trách nhiệm chủ động phát hiện kịp thời nguyên nhân, điều kiện, âm mưu, phương thức, thủ đoạn, hoạt động của tổ chức, cá nhân khủng bố và có biện pháp xử lý phù hợp.
 
 ---
 
@@ -421,6 +494,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DC921424-23E8-43D0-9A20-A1EEDFE6C5B4
 
+Cơ quan và người có thẩm quyền kiểm soát giao thông vận tải đường bộ, đường sắt, đường thủy, đường biển, hàng không có trách nhiệm chủ động phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000300002300000000000000000
 
 **ID:** 143B4EE9-35DC-4FB2-ACF6-85FD7C59AC91
+
+Cơ quan và người có thẩm quyền kiểm soát giao dịch tiền, tài sản có trách nhiệm theo dõi, giám sát, ngăn chặn các giao dịch tiền, tài sản có dấu hiệu liên quan đến khủng bố; giám sát các giao dịch tiền, tài sản có mức giá trị phải báo cáo theo quy định của pháp luật nhằm kịp thời phát hiện giao dịch có dấu hiệu liên quan đến khủng bố.
 
 ---
 
@@ -443,6 +520,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0CB8B18B-DCC7-4E06-BB8A-32AA5CBF0DEF
 
+Cơ quan và người có thẩm quyền kiểm soát phương tiện, hàng hóa nhập khẩu, xuất khẩu, quá cảnh có trách nhiệm kiểm soát chặt chẽ phương tiện, hàng hóa nhập khẩu, xuất khẩu, quá cảnh nhằm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000300002500000000000000000
 
 **ID:** 258B4CD5-E2BC-4D11-B3E7-B81B68D3DE57
+
+Cơ quan và người có thẩm quyền trong hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác có trách nhiệm kiểm soát, phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố.
 
 ---
 
@@ -465,6 +546,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C8E27D6C-F627-406D-AA1D-AF39907F4B99
 
+Cơ quan và người có thẩm quyền kiểm soát vệ sinh an toàn lương thực, thực phẩm, thức ăn chăn nuôi, phân bón, thuốc chữa bệnh, thuốc phòng bệnh, thuốc thú y, thuốc bảo vệ thực vật, bệnh phẩm có trách nhiệm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000300002700000000000000000
 
 **ID:** B48AEE90-2B30-4E15-BD67-8DC13AC1249C
+
+1. Bộ Công an, Bộ Quốc phòng, các bộ, ngành liên quan và Ủy ban nhân dân các cấp trong phạm vi được phân công có trách nhiệm xây dựng, huấn luyện, diễn tập và tổ chức thực hiện phương án phòng, chống khủng bố.
 
 ---
 
@@ -487,6 +572,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A353B34B-2FBF-425B-8288-ACA3B31DDA8D
 
+1. Cơ quan, tổ chức, cá nhân thông qua hoạt động của mình chủ động phát hiện khủng bố.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000400002900000000000000000
 
 **ID:** AC28C856-903E-4866-877D-2169F956E159
+
+1. Cơ quan, tổ chức, cá nhân khi phát hiện dấu hiệu, hành vi khủng bố phải kịp thời báo cho lực lượng chống khủng bố quy định tại điểm a khoản 1 Điều 14 của Luật này hoặc cơ quan Công an, Quân đội, Ủy ban nhân dân nơi gần nhất. Cơ quan Công an, Quân đội, Ủy ban nhân dân có trách nhiệm tiếp nhận đầy đủ tin báo, tố giác về khủng bố.
 
 ---
 
@@ -509,6 +598,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** ABF5E966-699D-471A-B118-58E6CC193D1D
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000100000340248760122000030
 
 **ID:** 9ABED39C-F3C6-4EA8-95FE-53CD67EADA90
+
+Trong Nghị định này, các từ ngữ sau đây được hiểu như sau:
 
 ---
 
@@ -531,6 +624,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 66E790DC-6C27-4122-A20D-82318A703F09
 
+1. Ban Chỉ đạo phòng, chống khủng bố quốc gia là cơ quan tham mưu, giúp Chính phủ, Thủ tướng Chính phủ tổ chức, chỉ đạo công tác phòng, chống khủng bố trong phạm vi cả nước.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020000300
 
 **ID:** 5A8B7707-333D-43A5-B37C-8D708736AF1C
+
+1. Trang bị, cung cấp kiến thức về pháp luật liên quan đến phòng, chống khủng bố; kỹ năng, chuyên môn, nghiệp vụ cần thiết cho học viên, sinh viên, cán bộ làm công tác phòng, chống khủng bố.
 
 ---
 
@@ -553,6 +650,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DCECA9C6-95B0-4458-A14E-F430938108A5
 
+1. Chống khủng bố được thực hiện bằng các biện pháp theo quy định của Luật này và pháp luật về bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000400003100000000000000000
 
 **ID:** 6FF905C7-FEF6-44B8-ACD8-44820A5EB7B1
+
+1. Khi có căn cứ cho rằng khủng bố đã, đang hoặc sẽ xảy ra tại trụ sở cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự nước ngoài, cơ quan đại diện tổ chức quốc tế và chỗ ở của thành viên các cơ quan này trên lãnh thổ Việt Nam thì cơ quan, tổ chức, cá nhân có liên quan hoặc người biết vụ việc phải kịp thời báo cho lực lượng chống khủng bố quy định tại điểm a khoản 1 Điều 14 của Luật này hoặc cơ quan Công an, Quân đội, Ủy ban nhân dân nơi gần nhất. Cơ quan Công an, Quân đội, Ủy ban nhân dân nhận được tin báo, tố giác về khủng bố có trách nhiệm tiếp nhận, xử lý tin báo, tố giác theo quy định tại Điều 29 của Luật này.
 
 ---
 
@@ -575,6 +676,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** AD821468-1AE8-44E6-8BF2-CDE6EAFD0211
 
+Khi có căn cứ cho rằng khủng bố đã, đang hoặc sẽ xảy ra đối với cơ quan, tổ chức, công dân Việt Nam ở nước ngoài thì người đứng đầu cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài phải áp dụng ngay các biện pháp cần thiết theo thẩm quyền, phù hợp với pháp luật quốc tế, pháp luật nước sở tại và kịp thời báo cáo Bộ Ngoại giao, Ban chỉ đạo phòng, chống khủng bố quốc gia.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000500003300000000000000000
 
 **ID:** E4C0B03E-1FDB-4893-BD36-1C02F2F84A50
+
+1. Ngân hàng Nhà nước, tổ chức tài chính, tổ chức, cá nhân kinh doanh ngành nghề phi tài chính có liên quan và các tổ chức, cá nhân khác khi phát hiện dấu hiệu, hành vi tài trợ khủng bố phải kịp thời báo cho lực lượng chống khủng bố quy định tại điểm a khoản 1 Điều 14 của Luật này.
 
 ---
 
@@ -597,6 +702,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 77273794-40DA-42B6-BF1F-EB67CD566BFD
 
+Tổ chức tài chính, tổ chức, cá nhân kinh doanh ngành nghề phi tài chính có nghĩa vụ áp dụng các biện pháp nhận biết, cập nhật thông tin khách hàng; khi có nghi ngờ khách hàng hoặc giao dịch của khách hàng liên quan đến tài trợ khủng bố hoặc khách hàng nằm trong Danh sách đen thì báo cáo cho lực lượng chống khủng bố của Bộ Công an, đơn vị chức năng thuộc Ngân hàng Nhà nước Việt Nam và phải áp dụng các biện pháp tạm thời theo quy định của pháp luật về phòng, chống rửa tiền.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000500003500000000000000000
 
 **ID:** C0C840B7-D569-4586-A5BC-B04AC17B4C51
+
+Tổ chức, cá nhân có thẩm quyền thực hiện việc kiểm soát vận chuyển tiền mặt, kim khí quý, đá quý và công cụ chuyển nhượng qua biên giới Việt Nam theo quy định tại Điều 24 của Luật này và Điều 24 của Luật phòng,chống rửa tiền có trách nhiệm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng các hoạt động này để tài trợ khủng bố.
 
 ---
 
@@ -619,6 +728,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3F6189E1-93C6-4706-AD4E-F590F903CF82
 
+Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế trong lĩnh vực phòng, chống khủng bố trên cơ sở tuân thủ pháp luật Việt Nam và các điều ước quốc tế về phòng, chống khủng bố mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế; bảo đảm độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000600003700000000000000000
 
 **ID:** A5BCDD6E-7C42-4D8B-8235-48FB270860B6
+
+1. Nội dung hợp tác quốc tế bao gồm:
 
 ---
 
@@ -641,6 +754,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 89621559-7A59-4B9A-B947-14DBEDDF6CFF
 
+Hợp tác quốc tế giải quyết vụ khủng bố được thực hiện trên nguyên tắc quy định tại Điều 4 và Điều 36 của Luật này và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Trường hợp nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước có liên quan không cùng tham gia điều ước quốc tế đa phương hoặc chưa ký kết điều ước quốc tế song phương thì các cơ quan có thẩm quyền của Việt Nam thực hiện hợp tác quốc tế để giải quyết vụ khủng bố trên nguyên tắc quy định tại Điều 4 và Điều 36 của Luật này, phù hợp với nhu cầu và khả năng thực tế của mình.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000700003900000000000000000
 
 **ID:** 6933080A-20F4-4B39-838D-FD5CEE68F7FB
+
+1. Chính phủ thống nhất quản lý nhà nước về phòng, chống khủng bố.
 
 ---
 
@@ -663,6 +780,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E4756CC7-E068-47B6-8F22-CE67759A74DD
 
+1. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước, tham gia của toàn xã hội, lực lượng Công an nhân dân chủ trì phối hợp với Quân đội nhân dân làm nòng cốt.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000040000000000000000000402487601220000400
 
 **ID:** 69844911-7BB3-4960-83B2-CF097C52EFA9
+
+1. Bảo đảm đúng điều kiện, trình tự, thủ tục, hình thức, thẩm quyền theo quy định của pháp luật và phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -685,6 +806,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 585CFDF3-4C36-4B98-9F7B-44FF1EE5B160
 
+1. Ban Chỉ đạo phòng, chống khủng bố Bộ, ngành là cơ quan tham mưu, giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ tổ chức, chỉ đạo công tác phòng, chống khủng bố của Bộ, ngành.
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020000400
 
 **ID:** EC56D40D-5A8D-4884-80E7-511200908AB4
+
+1. Đối tượng đào tạo là học viên, sinh viên các trường Công an nhân dân, Quân đội nhân dân.
 
 ---
 
@@ -707,6 +832,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5BCABF7A-12B3-4C2F-A138-7BAEC5D4A148
 
+1. Trong quản lý nhà nước về phòng, chống khủng bố, Bộ Công an có trách nhiệm sau đây:
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000700004100000000000000000
 
 **ID:** F3DA4017-5E0C-4607-9532-85E4D9B37F49
+
+1. Phối hợp với Bộ Công an thực hiện nhiệm vụ quy định tại các điểm c, d khoản 1 và điểm b khoản 2 Điều 40 của Luật này.
 
 ---
 
@@ -729,6 +858,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4A81BB59-B697-47BD-BC26-9C0C6B07DEDA
 
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000700004300000000000000000
 
 **ID:** E434E32B-5C5B-45ED-9ABB-C85295947D32
+
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -751,6 +884,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 746F1F11-F56D-496D-9884-1B1255C95F42
 
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000700004500000000000000000
 
 **ID:** A3116922-CCC6-4CB1-A22A-3AEB4CCA6E5F
+
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -773,6 +910,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 371488AD-38FE-4C5B-A573-D4D5AE633D28
 
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000700004700000000000000000
 
 **ID:** F89B5635-D4A1-4948-A005-3970A4117807
+
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -795,6 +936,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A4A0921E-AA3B-47A6-9287-8821BDC25082
 
+Viện kiểm sát nhân dân, Tòa án nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình kịp thời xử lý hành vi phạm tội khủng bố, tài trợ khủng bố; phối hợp với các cơ quan, tổ chức liên quan trong phòng, chống khủng bố theo quy định của pháp luật.
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000700004900000000000000000
 
 **ID:** C1C24D64-19AE-449E-9550-52572CB4983A
+
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về phòng, chống khủng bố tại địa phương; tổ chức thực hiện hoạt động phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -817,6 +962,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B5F3BD5F-077F-4B9A-909D-A1689805309F
 
+1. Nhà nước lên án và nghiêm trị mọi hành vi khủng bố, tài trợ khủng bố; sử dụng đồng bộ các biện pháp để tổ chức phòng, chống khủng bố; tuyên truyền, vận động tổ chức, cá nhân tham gia phòng, chống khủng bố.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000060000000000000000000402487601220000500
 
 **ID:** A3A99AEB-D196-4398-9C95-333154ECB3E3
+
+1. Lợi dụng việc tạm ngừng lưu thông, phong tỏa, niêm phong, tạm giữ, xử lý tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố; xác lập danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 ---
 
@@ -839,6 +988,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 492E085F-C11D-4D02-92B3-0F147DCAE437
 
+1. Ban Chỉ đạo phòng, chống khủng bố tỉnh, thành phố trực thuộc Trung ương là cơ quan tham mưu, giúp Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tổ chức, chỉ đạo công tác phòng, chống khủng bố của tỉnh, thành phố trực thuộc Trung ương.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020000500
 
 **ID:** 45AD3728-0723-481C-9ADB-A8A9FE257CA1
+
+1. Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng, Bộ Giao thông vận tải biên soạn nội dung, chương trình đào tạo, bồi dưỡng học viên, sinh viên, cán bộ làm công tác phòng, chống khủng bố. Nội dung đào tạo, bồi dưỡng gồm:
 
 ---
 
@@ -861,6 +1014,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C6796BA7-5F9D-45E2-8D36-4E28344231A5
 
+Luật này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2013.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100900000000000800005100000000000000000
 
 **ID:** 5E63E6F5-A9E7-42CF-945E-3375B13CC130
+
+Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4259DC41-5372-4215-BA64-3DCC0E4F4D67
 
+1. Các hành vi khủng bố, tài trợ khủng bố quy định tại khoản 1 và khoản 2 Điều 3 của Luật này.
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000100000000000000000000402487601220000600
 
 **ID:** E98BFABD-EBBC-45F5-948E-087E61B0618E
+
+Tiền, tài sản bị tạm ngừng lưu thông, phong tỏa, niêm phong, tạm giữ và xử lý theo quy định của pháp luật khi thuộc một trong các trường hợp quy định tại Khoản 5 Điều 3 Nghị định này.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D701F822-5B47-452D-BB8A-F5603A1ED558
 
+1. Thực hiện các nhiệm vụ, quyền hạn quy định tại Khoản 1 Điều 13 Luật phòng, chống khủng bố.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020000600
 
 **ID:** 5C291BCF-0AFA-4FEE-A12D-AD31564E3DB3
+
+1. Nội dung, chương trình, tài liệu biên soạn phải phù hợp với từng đối tượng đào tạo, bồi dưỡng; phải thường xuyên được bổ sung, cập nhật, nâng cao đáp ứng yêu cầu nghiên cứu và thực hiện công tác phòng, chống khủng bố.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6384D8FB-CFDC-4215-8F86-8436F5C18642
 
+1. Phòng, chống khủng bố là trách nhiệm của cơ quan, tổ chức và công dân.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000100000000000000000000402487601220000700
 
 **ID:** 926EA00E-4E11-47B2-A328-19188C4EFB06
+
+1. Bộ trưởng Bộ Công an có quyền quyết định tịch thu sung quỹ nhà nước hoặc tiêu hủy tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố; trả lại tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố trong trường hợp tiền, tài sản đó thuộc quyền sở hữu, quản lý của cơ quan, tổ chức, cá nhân bị người khác chiếm đoạt, sử dụng trái phép vào hoạt động khủng bố, tài trợ khủng bố; hủy bỏ các quyết định xử lý do mình ban hành hoặc do người có thẩm quyền quy định tại Khoản 2 Điều này ban hành.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F558EA92-944D-4C2B-9F46-6F2A27CEC885
 
+1. Giúp Bộ trưởng Bộ Công an tổ chức, chỉ đạo công tác phòng, chống khủng bố của Bộ Công an; phối hợp với các Bộ, ngành, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện công tác phòng, chống khủng bố.
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020000700
 
 **ID:** D54E65E1-67D0-4760-8A86-FDFF4CD515D5
+
+1. Việc cấp văn bằng đào tạo được thực hiện theo quy định của Bộ Giáo dục và Đào tạo.
 
 ---
 
@@ -971,6 +1144,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5F829A73-184D-440E-9F95-6E76465CE22C
 
+Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, vận động nhân dân nghiêm chỉnh chấp hành pháp luật về phòng, chống khủng bố; giám sát việc thực hiện pháp luật về phòng, chống khủng bố.
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000100000000000000000000402487601220000800
 
 **ID:** 9BAC5955-0414-485E-AD4F-0EFA28DA82C5
+
+1. Tổ chức tài chính, tổ chức, cá nhân kinh doanh ngành nghề phi tài chính có trách nhiệm thường xuyên kiểm tra, làm rõ ngay khi có nghi ngờ giao dịch của khách hàng có liên quan đến khủng bố, tài trợ khủng bố. Trường hợp phát hiện tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố thì phải thực hiện ngay việc tạm ngừng lưu thông, phong tỏa toàn bộ tiền, tài sản đó; đồng thời, phải báo cáo ngay bằng văn bản, kèm theo các tài liệu có liên quan cho Giám đốc Công an cấp tỉnh để xem xét, quyết định. Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được báo cáo, Giám đốc Công an cấp tỉnh có trách nhiệm phối hợp với Tổng cục An ninh I Bộ Công an xem xét, nếu tiền, tài sản đã bị tạm ngừng lưu thông, phong tỏa đúng là của tổ chức, cá nhân có liên quan đến khủng bố, tài trợ khủng bố thì ra quyết định áp dụng biện pháp tạm ngừng lưu thông, phong tỏa, niêm phong hoặc tạm giữ và gửi quyết định cho cơ quan, tổ chức, cá nhân có liên quan để thi hành. Trường hợp tổ chức, cá nhân đó không thuộc danh sách tổ chức, cá nhân liên quan đến khủng bố, tài trợ khủng bố thì thông báo bằng văn bản cho tổ chức tài chính, tổ chức, cá nhân kinh doanh ngành nghề phi tài chính để chấm dứt ngay việc tạm ngừng lưu thông, phong tỏa đã thực hiện.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5B3679D2-9F61-4602-BA70-23A4567684F2
 
+1. Kinh phí đào tạo, bồi dưỡng được bố trí trong ngân sách hàng năm của Bộ Công an, Bộ Quốc phòng và Bộ Giao thông vận tải.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000130000000000000000000402498400070000800
 
 **ID:** 7B54C1AF-0F97-402C-8B67-FD7F10FBE2BA
+
+1. Giúp Bộ trưởng Bộ Quốc phòng tổ chức, chỉ đạo công tác phòng, chống khủng bố của Bộ Quốc phòng; phối hợp với các Bộ, ngành, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện công tác phòng, chống khủng bố.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C016F921-683F-400C-B763-410BD6DE2A45
 
+Việc điều tra, truy tố, xét xử tội phạm khủng bố, tội phạm tài trợ khủng bố được thực hiện theo quy định của Bộ luật hình sự, Bộ luật tố tụng hình sự và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000010000100000000000000000000402487601220000900
 
 **ID:** 21EF6ED3-EBAA-46AB-9A42-17745DD5098A
+
+1. Doanh nghiệp cung ứng dịch vụ bưu chính khi phát hiện bưu gửi có dấu hiệu chứa tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố, có trách nhiệm báo ngay cho cơ quan phòng, chống khủng bố Công an cấp tỉnh và phối hợp với cơ quan này mở, kiểm tra, xử lý bưu gửi có dấu hiệu chứa tiền, tài sản liên quan đến khủng bố, tài trợ khủng bố theo quy định của Nghị định này.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B818AE04-4B08-4917-96E1-7475F66C85E4
 
+1. Thực hiện các nhiệm vụ, quyền hạn quy định tại Khoản 3 Điều 13 Luật phòng, chống khủng bố.
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010090000000000020000140000000000000000000802585900020000900
 
 **ID:** 2C26F9CD-899C-4772-9EF9-C0B9E53A2791
+
+1. Cơ sở đào tạo là các trường Công an nhân dân, Quân đội nhân dân.
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D280AA77-4F8D-45ED-84A4-5EE1FDAF1F15
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01009000000000002000
 
 **ID:** 182F6CCF-D65E-4EF7-8C9B-F99803C19F58
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 81C6CAA4-436F-4766-96B0-AAB2264E8F2B
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01009000000000004000
 
 **ID:** 329344BA-8BD4-45C5-B851-1DD093FD20EF
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5C89A23C-E31A-461E-8BB2-10E142EE1428
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01009000000000006000
 
 **ID:** 5C1652DB-CDE2-44B2-B3B6-D1B3F152461B
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 650D9E22-8279-4C52-A00E-15AA3F3BC5C7
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1136,6 +1339,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4CE54DD5-512F-418C-B0C6-EC19A714F4ED
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1146,6 +1351,7 @@ parent: an-ninh-quoc-gia
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 102
+- **Điều khoản có nội dung:** 94 (92.2%)
 - **ID đề mục:** 53892a89-6ea2-44c2-8f84-840fab0e8c47
 
 ## 🔍 Tìm kiếm

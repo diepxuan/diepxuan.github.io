@@ -12,6 +12,7 @@ parent: an-ninh-quoc-gia
 **Đề mục:** Biên giới quốc gia  
 **Chủ đề:** [An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)  
 **Số điều khoản:** 340  
+**Điều khoản có nội dung:** 331/340 (97.4%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 39B77AF8-4241-41B4-9113-BBA8FBA4EEF2
 
+Biên giới quốc gia của nước Cộng hoà xã hội chủ nghĩa Việt Nam là đường và mặt thẳng đứng theo đường đó để xác định giới hạn lãnh thổ đất liền, các đảo, các quần đảo trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa, vùng biển, lòng đất, vùng trời của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000340214810140000010
 
 **ID:** 3BD6B072-44BF-4D2C-98A6-1662007AEEFB
+
+Nghị định này quy định chi tiết một số điều của Luật Biên giới quốc gia về xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới; bảo đảm ngân sách cho xây dựng, quản lý, bảo vệ biên giới, khu vực biên giới và trách nhiệm quản lý nhà nước về biên giới quốc gia của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -47,6 +52,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7A99AF62-1AF1-4224-BD74-66C8F27A7B57
 
+1. Nghị định này quy định về Quy chế và quản lý hoạt động của người, phương tiện trong khu vực biên giới đất liền; trách nhiệm của cơ quan, tổ chức và cá nhân trong xây dựng, quản lý, bảo vệ khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000340252820112000010
 
 **ID:** 261E9BDF-DDDF-4997-BC8B-D09371745F97
+
+Nghị định này quy định:
 
 ---
 
@@ -69,6 +78,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9DEF26F3-986F-4DE5-893C-1163080BF32B
 
+Nghị định này quy định về quản lý hoạt động của người, phương tiện trong khu vực biên giới biển; trách nhiệm của cơ quan, tổ chức và cá nhân trong xây dựng, quản lý, bảo vệ khu vực biên giới biển nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000340262370077000010
 
 **ID:** DD55997F-9393-4CB2-B71C-5B0E508F0469
+
+1. Nghị định này quy định:
 
 ---
 
@@ -91,6 +104,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0072520E-C9E6-420A-939E-725581088C4C
 
+Quyết định này quy định thực hiện thủ tục biên phòng điện tử tại các cảng biển do Bộ đội Biên phòng thuộc Bộ Quốc phòng quản lý.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000350268700015000010
 
 **ID:** 0CCCAF34-E92A-4C9C-AA4E-9DAD530878BB
+
+1. Quyết định này quy định thực hiện thủ tục biên phòng điện tử đối với người, người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh tại cửa khẩu quốc tế, cửa khẩu chính trên biên giới đất liền; tàu biển Việt Nam hoạt động tuyến nội địa đến và rời cửa khẩu cảng; cấp thị thực tại các cửa khẩu quốc tế biên giới đạt liền và cửa khẩu cảng do Bộ Quốc phòng quản lý (sau đây viết gọn là thực hiện thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu).
 
 ---
 
@@ -113,6 +130,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CB544F62-D1B2-45C3-9C40-A68BD5BC0655
 
+Toàn bộ hệ thống cửa khẩu bao gồm: cửa khẩu quốc tế, cửa khẩu song phương và đường qua lại trên tuyến biên giới đất liền Việt Nam - Trung Quốc.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000380251380022000010
 
 **ID:** F0CE8CA3-A434-4841-8F10-DD0E254B602E
+
+Thông tư này quy định chi tiết một số nội dung về Ban Quản lý cửa khẩu, Trưởng ban Ban Quản lý cửa khẩu, Văn phòng Ban Quản lý cửa khẩu, Nội quy cửa khẩu, phí, lệ phí của Quy chế điều hành hoạt động tại các cửa khẩu biên giới đất liền ban hành kèm theo Quyết định số 45/2013/QĐ-TTg (sau đây gọi tắt là Quy chế).
 
 ---
 
@@ -135,6 +156,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A2969F09-CA29-4AE3-AED5-8AB55AF48182
 
+1. Thông tư này hướng dẫn một số điều của Nghị định số 34/2014/NĐ-CP ngày 29 tháng 4 năm 2014 của Chính phủ về Quy chế khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây viết gọn là Nghị định số 34/2014/NĐ-CP).
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000380257210009500010
 
 **ID:** 5B4254DA-9184-4F30-AE0B-A7DCF590FF8F
+
+Thông tư này quy định chi tiết và hướng dẫn thi hành các nội dung sau:
 
 ---
 
@@ -157,6 +182,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DBE161CE-E65F-4AA3-9890-9C9B13861003
 
+1. Thông tư này quy định thực hiện một số điều của Nghị định số 71/2015/NĐ-CP ngày 03 tháng 9 năm 2015 của Chính phủ về quản lý hoạt động của người, phương tiện trong khu vực biên giới biển nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây viết gọn là Nghị định số 71/2015/NĐ-CP).
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000380261200049500010
 
 **ID:** F5ED0C20-4CCA-4195-B45F-786C8ED9E6F1
+
+Thông tư này hướng dẫn chi tiết:
 
 ---
 
@@ -179,6 +208,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2CB10C8F-3F97-4F03-8123-8FFFC596275A
 
+1. Chi cho khảo sát, xây dựng các hệ thống biển báo Khu vực biên giới, Vành đai biên giới, Vùng cấm, Khu vực hạn chế hoạt động và các biển báo khác theo quy định của Chính phủ để quản lý, bảo vệ biên giới quốc gia.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000150000000000000000000502479800450000100
 
 **ID:** 4381186D-A795-4E6F-BE6B-CC0C466F2DE4
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -201,6 +234,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B751857D-FC4C-4B78-AB1C-5B4683995B3A
 
+1. Ủy ban Biên giới quốc gia (sau đây gọi là Ủy ban) là cơ quan cấp tổng cục trực thuộc Bộ Ngoại giao, giúp Bộ trưởng Bộ Ngoại giao thực hiện chức năng quản lý nhà nước về biên giới, lãnh thổ quốc gia.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100001000000000000000000
 
 **ID:** 55A8B1D3-DE9B-4F07-8204-9781C4C65E20
+
+Xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới là sự nghiệp của toàn dân do Nhà nước thống nhất quản lý. Nhà nước và nhân dân thực hiện kết hợp phát triển kinh tế - xã hội với tăng cường quốc phòng, an ninh và đối ngoại.
 
 ---
 
@@ -223,6 +260,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CD2BAF1E-69A1-41E9-BD3D-A4AC33391680
 
+Hàng hóa, vật phẩm xuất khẩu, nhập khẩu, tạm nhập tái xuất, tạm xuất tái nhập, chuyển khẩu, quá cảnh qua cửa khẩu biên giới phải có đầy đủ giấy tờ hợp lệ, thực hiện các nguyên tắc, thủ tục theo quy định của pháp luật Việt Nam về xuất khẩu, nhập khẩu và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và phải chịu sự kiểm tra, kiểm soát, giám sát của các cơ quan quản lý nhà nước chuyên ngành tại cửa khẩu.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001000
 
 **ID:** D8558DFB-6E0F-4200-B166-F11544C006B0
+
+1. Thủ tục biên phòng theo cách thức điện tử được thực hiện thông qua Cổng thông tin một cửa quốc gia theo quy định của pháp luật về cơ chế một cửa quốc gia.
 
 ---
 
@@ -245,6 +286,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 36D906C0-1CF2-46F0-B260-9DDE869E3B5A
 
+1. Thủ tục biên phòng điện tử cửa khẩu biên giới đất liền đối với Đoàn khách du lịch, Đoàn khách công vụ xuất cảnh, nhập cảnh
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000802612000495001000
 
 **ID:** 01D764DD-654D-4568-A4E7-C867E1E72A7A
+
+1. Người làm thủ tục khai báo hồ sơ điện tử theo các biểu mẫu sau:
 
 ---
 
@@ -267,6 +312,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9F47F95D-B61D-45D2-B70F-BA8935B03400
 
+1. Tại khu vực thực hiện thủ tục xuất cảnh, nhập cảnh ở các cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương), Bộ đội Biên phòng bố trí các bục (vị trí) kiểm soát riêng đối với từng loại hộ chiếu, giấy tờ xuất nhập cảnh. Căn cứ vào lưu lượng xuất nhập cảnh, có thể bố trí từ một đến nhiều bục (vị trí) kiểm soát (bục giành cho khách V.I.P hoặc hộ chiếu ngoại giao, hộ chiếu công vụ; bục giành cho hộ chiếu phổ thông, bục giành cho khách du lịch; bục giành cho giấy thông hành; bục thực hiện thủ tục đối với phương tiện), đảm bảo thuận lợi cho hoạt động lưu thông biên giới.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040250760034000060000802547000435001000
 
 **ID:** C489815B-F468-4B69-87A0-5E53FD2D5DDE
+
+1. Chỉ đạo các ngành chức năng trong tỉnh phối hợp với Bộ đội Biên phòng khảo sát, rà soát phạm vi vành đai biên giới, vùng cấm; chất liệu và vị trí cắm các loại biển báo theo quy định của Nghị định số 34/2014/NĐ-CP và Thông tư này để điều chỉnh lại cho phù hợp.
 
 ---
 
@@ -289,6 +338,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 34E5F749-470C-4869-96F6-6A0D50290872
 
+1. Các trường hợp được tạm dừng:
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001000
 
 **ID:** 46F999CB-4E9C-4334-B01F-894D81DEE7F0
+
+1. Người, phương tiện Việt Nam khi tiến hành hoạt động thăm dò, nghiên cứu khoa học, khảo sát về địa chất, khoáng sản, tài nguyên, nguồn lợi thủy sản, hải sản trong khu vực biên giới biển, ngoài các giấy tờ quy định tại các Khoản 1, 2 và các Điểm a, b, c, d, g Khoản 3 Điều 6 Nghị định này phải có giấy phép của cơ quan có thẩm quyền theo quy định của pháp luật, các quy định pháp luật khác liên quan và phải thông báo bằng văn bản cho Ủy ban nhân dân, Bộ đội Biên phòng cấp tỉnh nơi tiến hành hoạt động trên trước 05 ngày làm việc.
 
 ---
 
@@ -311,6 +364,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 64BA3056-8545-4081-B98A-9A3300EE43A0
 
+1. Vùng cấm tạm thời, vùng hạn chế hoạt động trong lãnh hải
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000290000000000000000000402148101400001000
 
 **ID:** F954C633-0370-4DE0-9281-A120421526AA
+
+1. Mốc quốc giới được cắm theo quy định của pháp luật Việt Nam và Điều ước quốc tế về biên giới đã được ký kết với nước láng giềng để đánh dấu đường biên giới quốc gia trên thực địa và được giữ gìn, bảo vệ giữ đúng vị trí, hình dáng, kích thước, ký hiệu, chữ và màu sắc đã được quy định.
 
 ---
 
@@ -333,6 +390,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8C3A64A7-AAC8-4934-A8B3-EBF53E473435
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương liên quan chịu trách nhiệm thi hành Quyết định này.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100001100000000000000000
 
 **ID:** EB1BDDD7-A0A3-47C6-BA84-AB2A6455BD98
+
+Nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện chính sách xây dựng biên giới hoà bình, hữu nghị, ổn định lâu dài với các nước láng giềng; giải quyết các vấn đề về biên giới quốc gia thông qua đàm phán trên cơ sở tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và lợi ích chính đáng của nhau.
 
 ---
 
@@ -355,6 +416,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9DCD3F3F-C9DB-439E-99CA-7359D7B33910
 
+1. Quốc môn.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001100
 
 **ID:** 7C421A5A-03CF-467C-A8B7-FD4849081F4D
+
+1. Người làm thủ tục được sửa đổi, bổ sung hồ sơ điện tử trong các trường hợp
 
 ---
 
@@ -377,6 +442,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 79B19320-E59B-4DD6-9BD1-263223F209BF
 
+1. Tàu thuyền chuyển cảng có văn bản hồ sơ vụ việc liên quan đến tàu thuyền, thuyền viên, hành khách trên tàu
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001100
 
 **ID:** 80B5D017-7D17-42F3-8267-FFA86A348E30
+
+1. Tàu thuyền Việt Nam nhập cảnh, xuất cảnh.
 
 ---
 
@@ -399,6 +468,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 500E0EAA-E6A7-4430-ABF2-009C41A2DDB7
 
+1. Kiểm tra, kiểm soát, giám sát phương tiện xuất cảnh, nhập cảnh
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000230000000000000000000402556800710001100
 
 **ID:** 7001AFB3-332D-4BF2-BEA7-DD2D00BDA842
+
+1. Các cơ quan, tổ chức khảo sát, thiết kế, thi công, triển khai thực hiện các dự án, công trình liên quan đến quốc phòng, an ninh hoặc có yếu tố nước ngoài trong khu vực biên giới biển phải thông báo bằng văn bản trước 03 ngày làm việc cho Ủy ban nhân dân cấp xã, đồn Biên phòng sở tại về danh sách người, phương tiện, thời gian, phạm vi, nội dung hoạt động.
 
 ---
 
@@ -421,6 +494,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** AA0DDF1F-0CF9-42A3-BC9C-3015E0864AB5
 
+1. Hội đồng nhân dân tỉnh biên giới đất liền xác định phạm vi vành đai biên giới sau khi có ý kiến bằng văn bản của Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao; đối với trường hợp đặc biệt báo cáo Thủ tướng Chính phủ xem xét, quyết định.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040255680071000170000802598201620001100
 
 **ID:** B3BAC539-634F-4CEA-BF64-F2FD79BDA45A
+
+1. Chỉ đạo Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh ven biển:
 
 ---
 
@@ -443,6 +520,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 385D134E-FA01-4CEB-85C7-453144DBE9B0
 
+1. Việc đầu tư xây dựng, phát triển kinh tế - xã hội ở khu vực biên giới được thực hiện theo chủ trương, chiến lược và quy hoạch, kế hoạch phát triển kinh tế - xã hội của Nhà nước trong từng giai đoạn để nâng cao đời sống vật chất, tinh thần của nhân dân và gắn với tăng cường quốc phòng, an ninh.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180254700043500110
 
 **ID:** 99A5D197-7158-4D5C-9E85-1DC5BA1CF150
+
+Thông tư này có hiệu lực kể từ ngày 11 tháng 7 năm 2015 và thay thế Thông tư số 179/2001/TT-BQP ngày 22 tháng 01 năm 2001 của Bộ trưởng Bộ Quốc phòng hướng dẫn thực hiện Nghị định số 34/2000/NĐ-CP ngày 18 tháng 8 năm 2000 của Chính phủ về Quy chế khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -465,6 +546,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6687D935-3D7F-4670-A124-5DCB1A2FEE9D
 
+Nhà nước có chính sách ưu tiên đặc biệt xây dựng khu vực biên giới vững mạnh về mọi mặt; nâng cao đời sống vật chất và tinh thần của nhân dân khu vực biên giới; xây dựng công trình biên giới và xây dựng lực lượng nòng cốt, chuyên trách đáp ứng yêu cầu xây dựng, quản lý, bảo vệ biên giới quốc gia trong mọi tình huống.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001200
 
 **ID:** 091373B1-3D35-4DBD-B322-8C51FD81E7AF
+
+1. Thủ tục biên phòng điện tử đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng được thực hiện thông qua Cổng thông tin một cửa quốc gia theo quy định về thực hiện Cơ chế một cửa quốc gia và quy định tại Quyết định này.
 
 ---
 
@@ -487,6 +572,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5C7FDB62-D3A6-4F7B-BB4B-08D3D1C9C13B
 
+1. Thủ tục biên phòng điện tử thực hiện đối với tàu và thuyền viên nước ngoài.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001200
 
 **ID:** 296A21D8-AC36-4B8D-BAA9-C5EAD9DB2118
+
+1. Tàu cá Việt Nam.
 
 ---
 
@@ -509,6 +598,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 72850605-B8CC-4C06-870A-08FE3DDC822F
 
+1. Bộ đội Biên phòng cửa khẩu phối hợp với lực lượng chức năng kiểm tra, giám sát hàng hóa xuất nhập khẩu nhằm đảm bảo an ninh quốc gia, trật tự, an toàn xã hội; phát hiện, xử lý buôn lậu, gian lận thương mại; hướng dẫn, giám sát các hoạt động vận chuyển, bốc dỡ, chuyển tải hàng hóa đảm bảo trật tự, an toàn xã hội tại khu vực cửa khẩu.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000170000000000000000000402528201120001200
 
 **ID:** C22A3527-0B1B-43E4-B770-B8F1BFB8AC21
+
+1. Chính phủ quyết định phê duyệt phạm vi khu vực cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương); lối thông quan, đường chuyên dụng vận chuyển hàng hóa.
 
 ---
 
@@ -531,6 +624,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 76578271-03ED-487D-9AF6-0395C8759E7C
 
+1. Hội đồng nhân dân tỉnh biên giới xác định vùng cấm trong phạm vi địa phương quản lý theo đề nghị của các ngành chức năng trong tỉnh.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001200
 
 **ID:** F8EC1641-3B8F-43A6-A43B-166633BC850C
+
+1. Trường hợp chủ quyền, quốc phòng, an ninh và lợi ích quốc gia bị đe dọa hoặc vì đảm bảo an toàn hàng hải, bảo vệ tài nguyên, sinh thái biển, chống ô nhiễm, khắc phục sự cố, thảm họa môi trường biển, phòng chống lây lan dịch bệnh, Thủ tướng Chính phủ ra quyết định thiết lập vùng cấm tạm thời, vùng hạn chế hoạt động ở lãnh hải.
 
 ---
 
@@ -553,6 +650,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8AC37D6B-E678-4436-8667-F9918CEFE8DC
 
+Bộ Tư lệnh Quân chủng Hải quân, Bộ Tư lệnh Cảnh sát biển chỉ đạo các đơn vị thuộc quyền phối hợp với Bộ đội Biên phòng thực hiện nhiệm vụ bảo vệ chủ quyền biên giới quốc gia và an ninh chính trị, trật tự, an toàn xã hội trong khu vực biên giới biển.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000280000000000000000000402148101400001200
 
 **ID:** 120081F5-5684-4CE4-8655-9111693BFF97
+
+1. Hệ thống chính trị cơ sở ở khu vực biên giới phải thường xuyên được củng cố, xây dựng vững mạnh theo chủ trương, chính sách của Đảng, Nhà nước; bảo đảm thực hiện tốt các chức năng lãnh đạo, quản lý, xây dựng khu vực biên giới và quản lý, bảo vệ biên giới quốc gia.
 
 ---
 
@@ -575,6 +676,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4E4AA681-BBDF-4AC3-84CD-B5277A1895A2
 
+Ủy ban nhân dân các tỉnh biên giới chỉ đạo các ngành chức năng rà soát phạm vi vành đai biên giới, vùng cấm; kích thước, chất liệu biển báo và vị trí cắm các loại biển báo đã xác định theo Nghị định số 34/2000/NĐ-CP ngày 18 tháng 8 năm 2000 của Chính phủ về Quy chế khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam; đối với những trường hợp còn phù hợp với quy định tại Nghị định số 34/2014/NĐ-CP thì tiếp tục giữ nguyên, những trường hợp không còn phù hợp cần điều chỉnh cho thống nhất theo quy định của Nghị định số 34/2014/NĐ-CP và Thông tư này.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100001300000000000000000
 
 **ID:** E329C8FD-20EE-47B8-9BF6-3DF85ECCF8FF
+
+Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, động viên nhân dân nghiêm chỉnh chấp hành pháp luật về biên giới quốc gia; giám sát việc thực hiện pháp luật về biên giới quốc gia của tổ chức, cá nhân.
 
 ---
 
@@ -597,6 +702,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** ED96F410-6B68-4474-A098-F38B277AD10D
 
+1. Phương tiện, hàng hóa xuất, nhập thực hiện thủ tục biên phòng tại cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương), cửa khẩu phụ theo quy định tại các Điều 9, 10, 11, 12 Thông tư này;
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000150000000000000000000402528201120001300
 
 **ID:** 237B0CCF-D44D-40BB-86BF-EDC52E55F8BE
+
+1. Những người được ra, vào khu vực cửa khẩu:
 
 ---
 
@@ -619,6 +728,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E3A33720-D5A8-48D8-8F04-D0D0EC46C87C
 
+1. Chậm nhất 04 giờ trước khi tàu biển Việt Nam hoạt động tuyến nội địa dự kiến đến cửa khẩu cảng, chậm nhất 02 giờ trước khi tàu biển Việt Nam rời cửa khẩu cảng, người làm thủ tục phải khai báo các bản khai điện tử theo mẫu biểu quy định trên Cổng thông tin thủ tục biên phòng điện tử, bao gồm:
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000802612000495001300
 
 **ID:** 9D4AC7CE-8B25-4A2E-9D6B-7BC1CDFC3772
+
+1. Tàu thuyền nhập cảnh, xuất cảnh tại cảng dầu khí ngoài khơi
 
 ---
 
@@ -641,6 +754,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 16EAFE52-2860-48F9-9852-78293DAAAC38
 
+1. Địa điểm thực hiện
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402507600340001300
 
 **ID:** F572B7BD-F535-45F5-9CD9-F7FA440F473B
+
+1. Chủ trì, phối hợp với các Bộ, ngành, Ủy ban nhân dân tỉnh biên giới đất liền thực hiện quản lý nhà nước về biên giới quốc gia; tổ chức thực hiện quy hoạch, kế hoạch, dự án đầu tư, chính sách về xây dựng, quản lý, bảo vệ biên giới, khu vực biên giới đất liền theo quy định của pháp luật.
 
 ---
 
@@ -663,6 +780,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B5DE0EC0-EF8A-4798-A145-CB586E369672
 
+1. Ủy ban nhân dân cấp tỉnh ven biển căn cứ chức năng, nhiệm vụ, quyền hạn quyết định thành lập, quy định nội quy bến, bãi, khu vực neo đậu cho phương tiện đường thủy tại địa phương.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040255680071000260000802598201620001300
 
 **ID:** 1179EAE8-614A-4088-92D6-BFD38F586A83
+
+1. Thực hiện quản lý nhà nước về biên giới quốc gia; tổ chức thực hiện phong trào toàn dân tham gia bảo vệ chủ quyền, an ninh biên giới quốc gia trên biển và xây dựng khu vực biên giới biển.
 
 ---
 
@@ -685,6 +806,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A0E90641-6521-47D3-A865-F49692AD7C4A
 
+1. Bố trí dân cư ở khu vực biên giới được quy hoạch phù hợp với quy hoạch tổng thể về phát triển kinh tế - xã hội, điều kiện tự nhiên, tính chất và đặc điểm từng vùng, từng dân tộc, từng địa phương; huy động, sử dụng lao động hợp lý để tạo ra của cải vật chất, hàng hoá phục vụ tiêu dùng, xuất khẩu và đáp ứng yêu cầu xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới.
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180254700043500130
 
 **ID:** C64D57D2-0302-487B-98A5-21F9520D3288
+
+1. Bộ Chỉ huy Bộ đội Biên phòng tỉnh chủ trì, phối hợp với Sở Tư pháp tham mưu cho Ủy ban nhân dân cấp tỉnh tổ chức quán triệt thực hiện nội dung Nghị định số 34/2014/NĐ-CP và các văn bản hướng dẫn thi hành tới các cấp, các ngành ở địa phương, tuyên truyền, phổ biến sâu rộng tới quần chúng nhân dân để tổ chức thực hiện thống nhất.
 
 ---
 
@@ -707,6 +832,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D6130F51-B149-4493-AE3D-7F5762DC5A0F
 
+Các hành vi bị nghiêm cấm:
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001400
 
 **ID:** CE259812-5AC2-4BF9-B325-CD419DF0DAE6
+
+1. Người làm thủ tục được sửa đổi, bổ sung hồ sơ điện tử trong các trường hợp:
 
 ---
 
@@ -729,6 +858,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 00E5CCA7-592C-4B7C-BE7B-6E35A5DF7095
 
+Trường hợp Cổng thông tin có sự cố, Thủ tục biên phòng được thực hiện theo quy định tại Khoản 7, Điều 6 Quyết định số 10/2016/QĐ-TTg.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001400
 
 **ID:** 94680B0D-390D-421D-A994-21D2876FB417
+
+1. Địa điểm thực hiện: Theo quy định tại khoản 1 Điều 13 Nghị định này.
 
 ---
 
@@ -751,6 +884,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5B31F82D-7B8E-4F65-A3EC-F57F4FE14677
 
+1. Cục Cửa khẩu là cơ quan chủ trì chỉ đạo xử lý theo chức năng, thẩm quyền quy định và tham mưu cho Bộ Tư lệnh Bộ đội Biên phòng chỉ đạo xử lý các vi phạm liên quan đến xuất cảnh, nhập cảnh, xuất khẩu, nhập khẩu tại cửa khẩu, lối mở biên giới đất liền.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000170000000000000000000402528201120001400
 
 **ID:** 270085D3-A66B-472A-8F33-3EDD4BD4C967
+
+1. Đối với người, phương tiện xuất cảnh, nhập cảnh; hàng hóa xuất khẩu, nhập khẩu:
 
 ---
 
@@ -773,6 +910,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BA16314E-F97C-4C9F-A44A-1E26C694B23D
 
+1. Chủ trì, phối hợp với các Bộ, ngành, Ủy ban nhân dân các tỉnh biên giới đất liền xây dựng kế hoạch bảo vệ an ninh quốc gia, gắn an ninh biên giới với an ninh nội địa; phối hợp với Bộ Quốc phòng hướng dẫn Bộ đội Biên phòng tham gia công tác bảo vệ an ninh chính trị, giữ gìn trật tự, an toàn xã hội và công tác xuất nhập cảnh theo quy định của pháp luật.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001400
 
 **ID:** 959C009E-D9CA-49DD-BE17-2EEC61CBD49D
+
+1. Khi xảy ra thiên tai, hỏa hoạn, thảm họa môi trường (sau đây viết chung là tai nạn) trong khu vực biên giới biển, người phát hiện phải kịp thời thông báo, phát tín hiệu cấp cứu, kịp thời thông báo cho đồn, trạm Biên phòng, cơ quan, lực lượng chức năng nơi gần nhất và tiến hành ngay các biện pháp để cứu người, phương tiện, tài sản và hạn chế tổn thất.
 
 ---
 
@@ -795,6 +936,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9B6F632E-EC76-43BF-8A44-BAD49203736C
 
+1. Ngày 03 tháng 3 là Ngày Biên phòng toàn dân được tổ chức thực hiện hàng năm trong phạm vi cả nước. Nội dung hoạt động gồm:
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180259820162000140
 
 **ID:** 968A41D2-0401-44EC-978B-CBCF8D1974E5
+
+1. Thông tư này có hiệu lực từ ngày 06 tháng 12 năm 2016 và thay thế Thông tư số 89/2004/TT-BQP ngày 19 tháng 6 năm 2004 của Bộ trưởng Bộ Quốc phòng hướng dẫn thực hiện Nghị định số 161/2003/NĐ-CP ngày 18 tháng 12 năm 2003 của Chính phủ về quy chế khu vực biên giới biển.
 
 ---
 
@@ -817,6 +962,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 853821C6-BD49-4E07-971D-0E39BB42F0E4
 
+1. Việc xuất cảnh, nhập cảnh, quá cảnh, xuất khẩu, nhập khẩu qua biên giới quốc gia được thực hiện tại cửa khẩu; việc quá cảnh qua biên giới vào lãnh thổ đất liền, vùng biển, vùng trời phải tuân thủ quy định đi theo các tuyến đường bộ, đường sắt, đường thuỷ nội địa, đường hàng hải, đường hàng không; việc qua lại biên giới của nhân dân trong khu vực biên giới được thực hiện tại cửa khẩu hoặc nơi mở ra cho qua lại biên giới.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001500
 
 **ID:** 21579A17-47FC-4637-BD80-35913AB45AA4
+
+1. Khi Cổng thông tin thủ tục biên phòng điện tử được hoàn thiện kết nối với Cổng thông tin một cửa quốc gia, thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu được thực hiện thông qua Cổng thông tin một cửa quốc gia theo quy định về thực hiện Cơ chế một cửa quốc gia và quy định tại Quyết định này.
 
 ---
 
@@ -839,6 +988,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3E0E97B2-5CE7-4FA4-9BD1-F806A8156D0A
 
+1. Người làm thủ tục được sửa chữa, bổ sung hồ sơ điện tử trong các trường hợp:
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001500
 
 **ID:** 738A8976-0BCF-4E21-85E3-A75A58E1594F
+
+1. Ngoài việc thực hiện quy định tại Điều 13 Nghị định này, chậm nhất 12 giờ, trước khi tàu đến cảng, doanh nghiệp lữ hành quốc tế đón khách phải nộp cho Biên phòng cửa khẩu cảng các loại giấy tờ sau:
 
 ---
 
@@ -861,6 +1014,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 41021B28-1ACC-4D63-BB15-6CDBD7ACE6A8
 
+1. Nguyên tắc xác định phạm vi khu vực cửa khẩu, lối mở biên giới đất liền
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000170000000000000000000402528201120001500
 
 **ID:** F69FEA88-0616-489A-A53B-D0E427BE7786
+
+1. Tại cửa khẩu phụ, lối mở biên giới đã có đủ các cơ quan quản lý nhà nước chuyên ngành và cơ sở hạ tầng, kỹ thuật bảo đảm quản lý nhà nước (khu vực thực hiện thủ tục kiểm tra, kiểm soát, giám sát xuất cảnh, nhập cảnh, xuất khẩu, nhập khẩu; khu vực kho, bến bãi tập kết hàng chờ xuất khẩu, nhập khẩu; đường giao thông để vận chuyển hàng hóa; khu vực bãi xe, bến đậu), hoạt động kiểm tra, kiểm soát, giám sát xuất, nhập qua lại biên giới quốc gia được thực hiện như tại cửa khẩu quốc tế, cửa khẩu chính.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 08641930-4EDF-4B34-B84D-C6678441C0B4
 
+1. Chủ trì, phối hợp với các Bộ, ngành, Ủy ban nhân dân các tỉnh biên giới đất liền triển khai thực hiện các điều ước quốc tế về biên giới, lãnh thổ trên cơ sở các điều ước quốc tế về hoạch định biên giới quốc gia mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001500
 
 **ID:** ACE11C0A-70B8-4936-944A-712D8F0DD6E0
+
+1. Khi phát hiện người, phương tiện có dấu hiệu vi phạm pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên, lực lượng tuần tra, kiểm soát chuyên ngành có quyền tiến hành kiểm tra, tạm giữ người, phương tiện vi phạm và xử lý theo quy định của pháp luật Việt Nam.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CEBE7E46-FDEC-4974-87AD-887346A47F07
 
+1. Nền biên phòng toàn dân, thế trận biên phòng toàn dân được xây dựng vững mạnh trên cơ sở xây dựng hệ thống chính trị; xây dựng, phát triển kinh tế - xã hội; tăng cường, củng cố quốc phòng, an ninh ở khu vực biên giới; tạo thế trận phòng thủ bảo vệ Tổ quốc, quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180259820162000150
 
 **ID:** 6F97C556-2053-4A2A-A383-DBA73BBD36A6
+
+1. Tư lệnh Bộ đội Biên phòng có trách nhiệm theo dõi, đôn đốc và kiểm tra việc thực hiện Nghị định số 71/2015/NĐ-CP và Thông tư này.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3FA58415-4410-41A6-A156-B35C8CD4117F
 
+1. Việc mở cửa khẩu và nơi mở ra cho qua lại biên giới, nâng cấp cửa khẩu, đóng cửa khẩu, xác định các tuyến đường bộ, đường sắt, đường thuỷ nội địa, đường hàng hải, đường hàng không dùng cho việc quá cảnh do Chính phủ quyết định theo quy định của pháp luật Việt Nam hoặc điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001600
 
 **ID:** E02E2CD0-811F-48AD-A6C2-A0AB086CE650
+
+1. Chậm nhất 12 giờ trước khi người nhận thị thực tại cửa khẩu dự kiến đến cửa khẩu quốc tế biên giới đất liền hoặc đến cửa khẩu cảng, người làm thủ tục phải khai báo Bản khai cấp thị thực tại cửa khẩu theo Mẫu số 16 quy định tại Phụ lục ban hành kèm theo Quyết định này, kèm theo bản chụp Công văn trả lời đề nghị cấp thị thực tại cửa khẩu quốc tế của cơ quan Quản lý xuất nhập cảnh Bộ Công an và gửi cho Biên phòng cửa khẩu biên giới đất liền (trường hợp đề nghị nhận thị thực tại cửa khẩu quốc tế biên giới đất liền) hoặc gửi cho Biên phòng cửa khẩu cảng (trường hợp đề nghị nhận thị thực tại cửa khẩu cảng) qua Cổng thông tin thủ tục biên phòng điện tử.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 87126C9C-277E-43BD-8E83-135A7A2BA8FA
 
+Theo đề nghị của người làm thủ tục qua Cổng thông tin, Biên phòng cửa khẩu cảng kiểm tra, xác minh thông tin, cho phép người làm thủ tục hủy hồ sơ điện tử sau khi đã xác nhận hoàn thành thủ tục biên phòng điện tử trong các trường hợp:
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001600
 
 **ID:** 750A2A50-BCF2-414C-A6DD-9C5F71EC0791
+
+1. Địa điểm, thành phần hồ sơ, thời hạn thực hiện theo quy định tại Điều 13 Nghị định này.
 
 ---
 
@@ -971,6 +1144,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3DBEA070-99D8-4B87-926C-691F76C26916
 
+1. Thời gian làm việc tại cửa khẩu thực hiện theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000017000000000000000000040252820112000160000802572100095001600
 
 **ID:** 36EE65AC-0983-4F0D-9045-4B3E8968D3FE
+
+1. Thay đổi thời gian làm việc tại cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương)
 
 ---
 
@@ -993,6 +1170,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C20F9C1D-8432-4424-A3FB-791E50B9FD76
 
+1. Chủ trì, phối hợp với Bộ Quốc phòng, Ủy ban nhân dân các tỉnh biên giới đất liền tổng hợp nhu cầu về đầu tư phát triển cơ sở hạ tầng ở khu vực biên giới đất liền; xây kè sông, suối biên giới, kè bảo vệ mốc quốc giới báo cáo Thủ tướng Chính phủ hàng năm cân đối một khoản ngân sách thích hợp để dành riêng đầu tư xây dựng nhằm củng cố quốc phòng, an ninh kết hợp với phát triển kinh tế, xã hội ở khu vực biên giới đất liền.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001600
 
 **ID:** 42D7C732-86DB-4146-90AB-E3E33DE52E45
+
+1. Lực lượng tuần tra, kiểm soát trong khu vực biên giới biển có quyền truy đuổi phương tiện đường thủy nước ngoài vi phạm pháp luật Việt Nam trong nội thủy, lãnh hải Việt Nam hoặc người, phương tiện vi phạm pháp luật trong khu vực biên giới biển vào nội địa.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 69238564-D911-4C6C-AB43-CA97D5E799D8
 
+1. Bộ đội biên phòng được xây dựng theo hướng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, vững mạnh về chính trị, giỏi về chuyên môn nghiệp vụ, nắm vững pháp luật và công tác đối ngoại nhằm đáp ứng yêu cầu quản lý, bảo vệ biên giới quốc gia trong mọi tình huống.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001700
 
 **ID:** 45ECE690-14D7-459D-A838-099400B8601D
+
+1. Người làm thủ tục được sửa đổi, bổ sung hồ sơ biên phòng điện tử đối với người nhận thị thực tại cửa khẩu trong các trường hợp theo quy định tại điểm a, b khoản 1 Điều 11 và điểm a, b khoản 1 Điều 14 Quyết định này.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 626523AA-DC73-484A-8222-1B8B7399B37F
 
+1. Chỉ huy trưởng Ban chỉ huy Biên phòng cửa khẩu cảng, Đồn trưởng đồn Biên phòng cửa khẩu cảng ra quyết định và thông báo cho người làm thủ tục về việc từ chối thực hiện thủ tục biên phòng điện tử nếu có một trong các lý do quy định tại Khoản 2, Điều 5 Quyết định số 10/2016/QĐ-TTg;
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001700
 
 **ID:** 48D4286B-50FE-445F-91DB-4F85E8B8D58C
+
+1. Tàu cá Việt Nam đi khai thác thủy sản ở vùng biển ngoài vùng biển Việt Nam phải làm thủ tục xuất cảnh trước khi rời vùng biển Việt Nam và làm thủ tục nhập cảnh khi về đến khu vực biên giới biển Việt Nam.
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D7AB5193-573B-452B-BC80-EDBCF544EF6C
 
+1. Khu vực kiểm soát được thiết lập tại cửa khẩu để các cơ quan nhà nước có thẩm quyền thực hiện việc kiểm tra, kiểm soát, làm các thủ tục xuất cảnh, nhập cảnh, quá cảnh, xuất khẩu, nhập khẩu theo quy định của pháp luật.
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000170000000000000000000402528201120001700
 
 **ID:** CAD86558-EA6F-4152-BF54-BEE9C6288029
+
+Việc hạn chế hoặc tạm dừng các hoạt động qua lại biên giới tại cửa khẩu; lối mở biên giới; lối thông quan, đường chuyên dụng vận chuyển hàng hóa thực hiện theo quy định tại khoản 1, điểm c khoản 2, khoản 4, khoản 5, khoản 6 và khoản 7 Điều 11 Luật Biên phòng Việt Nam
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A84FD4A7-833D-4BC7-8A44-9A2E6764681A
 
+1. Căn cứ lý do hạn chế hoặc tạm dừng thuộc lĩnh vực phụ trách, Bộ trưởng các Bộ: Quốc phòng, Công an, Y tế, Nông nghiệp và Phát triển nông thôn (sau đây viết chung là Bộ chủ quản) báo cáo, đề nghị Thủ tướng Chính phủ quyết định hạn chế hoặc tạm dừng các hoạt động qua lại biên giới tại cửa khẩu quốc tế; nội dung báo cáo nêu rõ lý do, thời gian bắt đầu, kết thúc hạn chế hoặc tạm dừng các hoạt động qua lại biên giới tại cửa khẩu quốc tế:
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402507600340001700
 
 **ID:** FAB4BAF3-B95F-423F-98A3-0390D4110833
+
+1. Hàng năm, chủ trì, phối hợp với Bộ Quốc phòng, Ủy ban nhân dân các tỉnh biên giới đất liền bố trí dự toán chi ngân sách nhà nước cho nhiệm vụ quản lý, bảo vệ biên giới theo phân cấp ngân sách nhà nước hiện hành.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 87562902-22A5-4664-9413-78DB7616D8B8
 
+1. Chủ trì, phối hợp với các Bộ, ngành, Ủy ban nhân dân cấp tỉnh ven biển thực hiện quản lý nhà nước về biên giới quốc gia; tổ chức thực hiện chính sách, quy hoạch, kế hoạch, dự án đầu tư về quản lý, bảo vệ khu vực biên giới biển theo quy định của pháp luật.
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000310000000000000000000402148101400001700
 
 **ID:** 5284393E-2C98-4CB0-9BE1-410F35DD384C
+
+1. Quản lý, bảo vệ biên giới quốc gia và khu vực biên giới nhằm bảo đảm sự bất khả xâm phạm biên giới quốc gia, giữ vững chủ quyền, toàn vẹn lãnh thổ, giữ gìn an ninh, trật tự, an toàn xã hội khu vực biên giới; xây dựng biên giới hoà bình, hữu nghị, ổn định lâu dài với các nước láng giềng.
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CF5039D1-2B82-4769-A6F3-7A87DB087DD5
 
+1. Việc giải quyết vấn đề về biên giới, lãnh thổ liên quan đến nước láng giềng thông qua đàm phán theo quy định của pháp luật và chỉ đạo của Chính phủ.
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001800
 
 **ID:** ED4C0367-4BE1-4A0A-9C69-4FB805E6A32F
+
+1. Chủ trì, phối hợp với các bộ, ngành, Ủy ban nhân dân cấp tỉnh phối hợp với Cơ quan Thường trực Ủy ban chỉ đạo quốc gia về Cơ chế một cửa quốc gia, Cơ chế một cửa Asean và tạo thuận lợi thương mại trong triển khai thực hiện thủ tục biên phòng điện tử và tích hợp, kết nối thông suốt với Cổng thông tin một cửa quốc gia theo quy định.
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 14F44672-DCE1-4644-BA6A-CCA777FC899D
 
+1. Hồ sơ điện tử và hồ sơ giấy.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001800
 
 **ID:** 76A82B68-C9CA-440F-BE72-744EDA354C4A
+
+1. Tàu thuyền Việt Nam xuất cảnh, nhập cảnh; tàu thuyền nước ngoài nhập cảnh, xuất cảnh, quá cảnh, chuyển cảng; tàu thuyền Việt Nam hoạt động tuyến nội địa trong phạm vi cửa khẩu cảng; các phương tiện khác của Việt Nam và nước ngoài ra, vào, hoạt động tại cửa khẩu cảng.
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4927E708-96B0-4893-BC68-134178520A70
 
+1. Chủ trì tham mưu cho Bộ Quốc phòng thực hiện nội dung quản lý nhà nước đối với cửa khẩu biên giới quy định tại Điều 6 và Điều 21 Nghị định số 112/2014/NĐ-CP.
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000200001800000000000000000
 
 **ID:** 68CB9E2E-49AD-459A-B5EF-7E51094835EB
+
+Tàu thuyền nước ngoài khi thực hiện quyền đi qua không gây hại trong lãnh thổ Việt Nam và Điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập, tàu ngầm vá các phương tiện đi ngầm khác phải đi nổi và treo cờ quốc tịch.
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0E425024-5E3A-4D34-8AC5-A79BF5F942E2
 
+1. Chủ trì, phối hợp với các Bộ, ngành, Ủy ban nhân dân các tỉnh biên giới đất liền xây dựng chính sách phát triển thương mại ở khu vực biên giới đất liền.
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001800
 
 **ID:** FDCDC832-24A8-4F62-94E7-6F34A9D57E76
+
+1. Chủ trì, phối hợp với các Bộ, ngành, Ủy ban nhân dân cấp tỉnh ven biển xây dựng kế hoạch bảo vệ an ninh quốc gia, gắn an ninh, trật tự trong khu vực biên giới biển với an ninh, trật tự ở nội địa; phối hợp với Bộ Quốc phòng hướng dẫn, bồi dưỡng nghiệp vụ cho Bộ đội Biên phòng trong đấu tranh phòng, chống tội phạm, bảo vệ an ninh chính trị, giữ gìn trật tự, an toàn xã hội trong khu vực biên giới biển.
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A61273DD-02F1-4423-A498-452BAFADC4E0
 
+1. Quy hoạch cửa khẩu, xây dựng, phát triển hệ thống cửa khẩu phải căn cứ tình hình từng tuyến biên giới Việt Nam - Trung Quốc, Việt Nam - Lào, Việt Nam - Campuchia, từng địa phương, phù hợp yêu cầu phát triển kinh tế - xã hội và đảm bảo quốc phòng, an ninh, chủ quyền lãnh thổ quốc gia, được định hướng trong quy hoạch vùng, quy hoạch tỉnh; thực hiện theo đúng quy định của pháp luật về xây dựng, quy hoạch.
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150001900
 
 **ID:** 3063E769-2AC9-43AE-A33F-A310AFF91385
+
+1. Bộ Tài chính
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 04B00110-681C-41F0-B148-302E1C24521D
 
+1. Kiểm tra hồ sơ điện tử thông qua hệ thống xử lý dữ liệu biên phòng điện tử cảng biển.
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770001900
 
 **ID:** 4B49C0DA-B5D3-4B23-A3E4-AF86CEE8B63E
+
+1. Kiểm tra tính hợp pháp, hợp lệ của các loại giấy tờ quy định tại khoản 4 Điều 18 Nghị định này.
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3B368EBD-8A70-49B7-82D5-05A6039CFE61
 
+Phối hợp, hướng dẫn Bộ Tư lệnh Bộ đội Biên phòng đảm bảo kế hoạch ngân sách triển khai các dự án, đề án mua sắm trang bị vật tư phục vụ công tác quản lý, kiểm soát cửa khẩu của Bộ đội Biên phòng quy định tại Nghị định số 112/2014/NĐ-CP và Thông tư này.
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000200001900000000000000000
 
 **ID:** D1B15DCE-0E83-446F-96D8-B3A1BAEE78D1
+
+1. Tàu thuyền nước ngoài có động cơ chạy bằng năng lượng hạt nhân, tàu thuyền chuyên chở chất phóng xạ, chất nguy hiểm độc hại khác khi thực hiện quyền đi qua không gây hại trong lãnh hải Việt Nam phải mang đầy đủ các tài liệu và áp dụng các biện pháp phòng ngừa đặc biệt theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập.
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F05B0160-CA5F-410A-A8F8-2B0EAB58AA85
 
+Trong phạm vi chức năng nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Quốc phòng xây dựng, quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội trong khu vực biên giới đất liền.
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710001900
 
 **ID:** 724EAF1C-CE87-44C8-98E8-E2BBD8A1DEA1
+
+1. Chủ trì, phối hợp với các Bộ, ngành có liên quan và Ủy ban nhân dân cấp tỉnh ven biển triển khai thực hiện các điều ước quốc tế mà Việt Nam là thành viên có liên quan đến biên giới quốc gia trên biển.
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 09C69FAD-EDAD-4B04-864C-9C1DEA01B82F
 
+1. Nguyên tắc mở, nâng cấp cửa khẩu biên giới:
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000310000000000000000000402148101400001900
 
 **ID:** A46368EA-BCE5-4990-869C-ABF4561B1A7E
+
+1. Quản lý, bảo vệ biên giới quốc gia là trách nhiệm của Nhà nước, của các cơ quan, tổ chức, lực lượng vũ trang, chính quyền các cấp và của toàn dân, trực tiếp và thường xuyên là chính quyền, nhân dân khu vực biên giới.
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C2A22BE3-AA9E-4EEE-8E8B-4DDD1127C464
 
+Luật này quy định về biên giới quốc gia; chế độ pháp lý về biên giới quốc gia; xây dựng, quản lý, bảo vệ biên giới quốc gia và khu vực biên giới.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000340214810140000020
 
 **ID:** 5DE6DC96-D448-4E3F-86F6-A3611EC5F252
+
+Cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài sinh sống, hoạt động có liên quan đến biên giới quốc gia và khu vực biên giới có trách nhiệm chấp hành các quy định của Luật Biên giới quốc gia, Nghị định này và các quy định khác của pháp luật Việt Nam; trong trường hợp Điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập có quy định khác thì áp dụng Điều ước quốc tế đó.
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 74BA90E9-6D0F-44AB-A073-79FED5E297C8
 
+Cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài hoạt động trong khu vực biên giới đất liền có trách nhiệm chấp hành Nghị định này và các quy định khác của pháp luật Việt Nam có liên quan.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000340252820112000020
 
 **ID:** 0C4DED30-255C-4039-AB7D-A8557732F82E
+
+1. Tổ chức, cá nhân Việt Nam và nước ngoài xuất, nhập qua cửa khẩu; ra, vào, lưu trú, hoạt động trong khu vực cửa khẩu, lối mở biên giới đất liền.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** AD15BA28-7035-4379-8C9F-AD46735B008A
 
+1. Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài hoạt động hoặc có liên quan đến hoạt động trong khu vực biên giới biển nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000340262370077000020
 
 **ID:** 1E12204E-6DBB-481E-A65D-198CE77B91D0
+
+1. Cơ quan, tổ chức, cá nhân, tàu thuyền và các loại phương tiện khác của Việt Nam, nước ngoài ra, vào, hoạt động tại cửa khẩu cảng.
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 390D72E6-491C-408F-B808-02EB110F5BB8
 
+1. Quyết định này áp dụng đối với:
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000350268700015000020
 
 **ID:** 72307F4A-0D30-40C1-B59A-8E52260BFBD2
+
+1. Đồn Biên phòng cửa khẩu quốc tế, đồn Biên phòng cửa khẩu và trạm kiểm soát Biên phòng cửa khẩu quốc tế, cửa khẩu chính thuộc Đồn Biên phòng cửa khẩu quốc tế, đồn Biên phòng cửa khẩu trên biên giới đất liền (sau đây viết gọn là Biên phòng cửa khẩu biên giới đất liền); Ban Chỉ huy Biên phòng cửa khẩu cảng, đồn Biên phòng cửa khẩu cảng và trạm Biên phòng cửa khẩu cảng thuộc đồn Biên phòng (sau đây viết gọn là Biên phòng cửa khẩu cảng).
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F6C25B09-D146-4E61-A2BF-2E448FF34D75
 
+Thông tư này áp dụng đối với Ban Quản lý cửa khẩu, Trưởng ban Ban Quản lý cửa khẩu (sau đây gọi tắt là Trưởng cửa khẩu), các cơ quan, tổ chức, cá nhân có liên quan đến công tác quản lý và điều hành hoạt động tại cửa khẩu theo quy định tại Điều 2 Quy chế.
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000380257210009500020
 
 **ID:** 23FF28BA-CED5-4C5C-A70D-29E3E72F5A3B
+
+1. Tổ chức, cá nhân Việt Nam và nước ngoài xuất cảnh, nhập cảnh, ra, vào, lưu trú, hoạt động trong khu vực cửa khẩu, lối mở biên giới đất liền.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9F502678-9F42-45D8-8D01-F922560B2171
 
+Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài hoạt động hoặc có liên quan đến hoạt động trong khu vực biên giới biển.
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000380261200049500020
 
 **ID:** 3C2DECAA-230E-4F35-9245-6937BE5088EC
+
+1. Thông tư này áp dụng đối với các đối tượng quy định tại Khoản 1, Điều 2 Quyết định số 10/2016/QĐ-TTg ngày 03 tháng 3 năm 2016 của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử cảng biển (sau đây viết gọn là Quyết định số 10/2016/QĐ-TTg).
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** FC334473-6FD1-4DE1-A944-A81B67BA3140
 
+Trong Thông tư này, các thuật ngữ được hiểu như sau:
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000120000000000000000000802164501620000200
 
 **ID:** 05C03D02-0E80-456F-B57A-4BCC559E0DF9
+
+1. Hàng năm, Bộ Tư lệnh Bộ đội biên phòng căn cứ vào yêu cầu, nhiệm vụ quản lý, bảo vệ biên giới lập dự toán ngân sách đảm bảo thực hiện nhiệm vụ quản lý, bảo vệ biên giới quốc gia theo nội dung quy định tại Thông tư này báo cáo Bộ Quốc phòng gửi Bộ Tài chính, Bộ Kế hoạch và Đầu tư để tổng hợp báo cáo Thủ tướng Chính phủ trình Quốc hội quyết định.
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2BE9A6DD-1BBB-47F9-BB40-41A4723AA4FD
 
+Khu vực biên giới đất liền quy định tại Khoản 1 Điều 3 Nghị định số 34/2014/NĐ-CP. Trường hợp Ủy ban Thường vụ Quốc hội quyết định điều chỉnh địa giới hành chính xã, phường, thị trấn thì Chủ tịch Ủy ban nhân dân các tỉnh biên giới căn cứ Khoản 1 Điều 3 Nghị định số 34/2014/NĐ-CP tổng hợp, báo cáo Bộ Quốc phòng đề nghị Chính phủ bổ sung hoặc đưa ra khỏi danh sách các xã, phường, thị trấn khu vực biên giới tại Phụ lục ban hành kèm theo Nghị định số 34/2014/NĐ-CP.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000040000360000000000000000000502683200100000200
 
 **ID:** 1B5572F5-373C-464D-AF61-DDF868FE11B9
+
+1. Tham mưu giúp Bộ trưởng Bộ Ngoại giao trình Chính phủ, Thủ tướng Chính phủ và các cơ quan có thẩm quyền:
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0E533092-C29D-4E73-9365-1BD849A9E9B2
 
+1. Nghị định này có hiệu lực thi hành từ ngày 31 tháng 7 năm 2023.
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004150247980045000020
 
 **ID:** 694FC1A4-4659-4E1D-A282-9059EA540B93
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8E5D37A3-04CA-4F69-8C0C-3E1A5E9B0402
 
+Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 5 năm 2018
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402148101400002000
 
 **ID:** 4243CF59-F50B-4719-8587-DE2BCAB5019E
+
+1. Việc mở cửa khẩu và nơi mở ra cho qua lại biên giới, nâng cấp cửa khẩu, đóng cửa khẩu; xác định, công bố các tuyến đường bộ, đường sắt, đường thuỷ nội địa, đường hàng hải, đường hàng không cho việc quá cảnh thực hiện theo quy định của pháp luật Việt Nam và Điều ước quốc tế đã được ký kết với nước láng giềng.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9DABB92A-60B9-4B07-B924-FFAA6EED8634
 
+1. Bộ Tư lệnh Bộ đội Biên phòng
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770002000
 
 **ID:** 141BB364-98FF-46C4-9539-C6E1362F5D9A
+
+1. Kiểm tra, đối chiếu thông tin khai báo trong các bản khai điện tử, bản khai giấy do người làm thủ tục nộp với các loại giấy tờ do người làm thủ tục xuất trình.
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C548629B-5D2A-4E88-A874-1F9CAF41F064
 
+Phối hợp, hướng dẫn Bộ Tư lệnh Bộ đội Biên phòng sử dụng nguồn ngân sách để triển khai các dự án, đề án mua sắm trang bị vật tư phục vụ công tác quản lý, kiểm soát cửa khẩu của Bộ đội Biên phòng quy định tại Nghị định số 112/2014/NĐ-CP và Thông tư này.
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000200002000000000000000000
 
 **ID:** 454E7ECC-2027-4FF7-A49B-25DEE19317BE
+
+Tàu bay chỉ được bay qua biên giới quốc gia và vùng trời Việt Nam sau khi được cơ quan có thẩm quyền của Việt Nam cho phép, phải tuân thủ sự điều hành, kiểm soát và hướng dẫn của cơ quan quản lý bay Việt Nam, tuân theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập.
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F22E33BC-B9DD-4359-B0DF-1DD98FDD47BE
 
+1. Thực hiện quản lý nhà nước về biên giới quốc gia theo quy định của pháp luật; xây dựng khu vực biên giới đất liền vững mạnh về chính trị, kinh tế, xã hội, quốc phòng, an ninh.
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710002000
 
 **ID:** 6575B0A5-7078-48F0-AE1F-89EEDFF5F465
+
+1. Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Tài chính, các Bộ, ngành liên quan và Ủy ban nhân dân cấp tỉnh ven biển bố trí kinh phí đầu tư cho công tác xây dựng, quản lý, bảo vệ khu vực biên giới biển theo phân cấp ngân sách nhà nước hiện hành trình cấp có thẩm quyền quyết định.
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A17A3DAB-BFFF-4B52-B85A-E0E778B0510F
 
+1. Việc mở, nâng cấp cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương) thực hiện theo trình tự, thủ tục sau:
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004150268700015000200
 
 **ID:** 1D5E3B72-7E03-41CE-A1A3-C6EFA33C54CD
+
+Quyết định này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2019.
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 033CDA09-9E80-42EF-9FE0-21FAEDF28E2B
 
+1. Tại các cửa khẩu biên giới đường bộ, cửa khẩu đường sắt, cửa khẩu đường thuỷ nội địa, cửa khẩu đường hàng hải (cảng biển), cửa khẩu đường hàng không, các cơ quan chức năng thực hiện việc kiểm soát nhập cảnh, xuất cảnh, nhập khẩu, xuất khẩu, quá cảnh và qua lại biên giới theo quy định của pháp luật.
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000802612000495002100
 
 **ID:** 28565B89-A9A7-481C-8FC8-5F612BFD892A
+
+1. Trách nhiệm của Biên phòng cửa khẩu cảng
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3C133F82-68E7-4BED-80F8-C74FB01E4EC7
 
+1. Thị thực Việt Nam.
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000017000000000000000000040252820112000060000802572100095002100
 
 **ID:** 656062AC-CB99-4B98-B06F-6927B7C3B7D6
+
+1. Chỉ đạo các ngành chức năng trong tỉnh phối hợp với Bộ Chỉ huy Bộ đội Biên phòng tỉnh quán triệt, tuyên truyền, phổ biến nội dung Nghị định số 112/2014/NĐ-CP và Thông tư này đến các sở, ban, ngành trong tỉnh, Ủy ban nhân dân cấp huyện, cấp xã có cửa khẩu, lối mở biên giới, các cơ quan, tổ chức và nhân dân khu vực biên giới đất liền thực hiện.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E2B0A224-EBB4-427E-88C1-C9C3C4E48ED9
 
+1. Trong trường hợp vì lý do quốc phòng, an ninh, lý do đặc biệt khác hoặc theo đề nghị của nước hữu quan, người, phương tiện, hàng hoá có thể bị hạn chế hoặc tạm ngừng qua lại biên giới quốc gia, kể cả việc đi qua không gây hại trong lãnh hải Việt Nam.
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402507600340002100
 
 **ID:** D743AAAF-2781-43D9-9FC3-7B5542C1F037
+
+Các cơ quan, tổ chức khác hoạt động ở khu vực biên giới đất liền phải chấp hành Nghị định này và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; có trách nhiệm phối hợp với Bộ đội Biên phòng trong quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới đất liền.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DCA1A4D1-628A-4C3B-BAA7-1532F72D42E2
 
+1. Chủ trì, phối hợp với Bộ Quốc phòng, các Bộ, ngành liên quan và Ủy ban nhân dân cấp tỉnh ven biển bố trí kinh phí thường xuyên cho công tác xây dựng, quản lý, bảo vệ khu vực biên giới biển theo phân cấp ngân sách nhà nước hiện hành trình cấp có thẩm quyền quyết định.
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000250000000000000000000402528201120002100
 
 **ID:** 1B6AF604-D516-42C2-950A-FFDF3BDAB46C
+
+1. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về cửa khẩu biên giới.
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E25D79FB-79DA-40A7-9F80-411FCC756F5C
 
+1. Giai đoạn 1
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770002200
 
 **ID:** 589EAF62-9F50-4A96-8DB0-18D765F82862
+
+1. Biên phòng cửa khẩu cảng thực hiện cấp thị thực theo quy định tại Điều 18 Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam ngày 16 tháng 6 năm 2014.
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BCEFC167-417F-40C1-9B5C-D01C00A8A0D3
 
+Trong trường hợp xẩy ra tai nạn, sự cố hoặc vì lý do khách quan khác buộc phải qua biên giới quốc gia mà không thể tuân theo các quy định của Luật này và các quy định khác của pháp luật Việt Nam thì người điều khiển phương tiện phải thông báo ngay với cảng vụ, cơ quan cứu hộ và cứu nạn quốc gia, cơ quan quản lý bay hoặc cơ quan có thẩm quyền khác của Việt Nam nơi gần nhất và thực hiện theo sự hướng dẫn của cơ quan có thẩm quyền của Việt Nam.
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710002200
 
 **ID:** AB759893-2C22-4532-A8CF-26965D55E5C4
+
+1. Chỉ đạo Tổng cục Thủy sản phối hợp với Bộ đội Biên phòng, Cảnh sát biển và các lực lượng chức năng trong hoạt động kiểm tra, kiểm soát hoạt động nghề cá trên biển, đảm bảo an toàn cho ngư dân hoạt động khai thác hải sản trên các vùng biển Việt Nam; chỉ đạo lực lượng Kiểm lâm phối hợp với Bộ đội Biên phòng và chính quyền địa phương ven biển trong quản lý, bảo vệ rừng phòng hộ ven biển.
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C1E90918-4DE4-455D-91F9-F2ACE9637DFE
 
+1. Chủ trì, phối hợp với các Bộ, ngành liên quan, Ủy ban nhân dân các tỉnh biên giới chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước đối với cửa khẩu biên giới.
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000330000000000000000000402148101400002200
 
 **ID:** 340825A7-3975-4CC5-AB8A-0194F9ABE5C2
+
+1. Chế độ, chính sách bảo đảm xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới bao gồm:
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8E1F5DE2-321F-4372-8924-AAD6DC2C8BEF
 
+Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 6 năm 2014 và thay thế Nghị định số 34/2000/NĐ-CP ngày 18 tháng 8 năm 2000 của Chính phủ về Quy chế khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004150268700015000220
 
 **ID:** AFADC000-770E-4AFB-9139-DE52DFD20FE4
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9A8FAE11-0748-414F-9F62-E5578578165D
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 19 tháng 3 năm 2016.
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180261200049500220
 
 **ID:** 2130FBF6-F732-4B7A-8FFD-0BE053354056
+
+1. Bộ Tư lệnh Bộ đội Biên phòng
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1365E5B0-464A-41FB-A1A8-03FFA81155E1
 
+1. Đối tượng được cấp Giấy phép đi bờ của thuyền viên
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000200002300000000000000000
 
 **ID:** 1CADE924-A655-4772-909D-934DFF761843
+
+Dự án xây dựng ở khu vực biên giới có liên quan đến biên giới quốc gia phải tuân thủ quy hoạch và được cơ quan có thẩm quyền phê duyệt; khi thực hiện phải tuân theo quy chế khu vực biên giới, các quy định khác của pháp luật và không được cản trở việc quản lý, bảo vệ biên giới quốc gia.
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A64200BE-12F0-4C6A-9B76-73DFEFBFF677
 
+1. Chủ trì, phối hợp với Bộ Quốc phòng, Bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh ven biển hướng dẫn, kiểm tra việc thực hiện các biện pháp bảo đảm an toàn giao thông đường thủy nội địa, an toàn hàng hải gắn với bảo vệ chủ quyền, quyền chủ quyền, quốc phòng, an ninh và trật tự, an toàn xã hội trong khu vực biên giới biển.
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000250000000000000000000402528201120002300
 
 **ID:** 5255B507-7F11-4E93-AF6D-47DADD6F247E
+
+1. Phối hợp với Bộ Quốc phòng trong công tác đảm bảo ngân sách để triển khai thực hiện Nghị định này theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn.
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3D2F2FE7-51A8-421C-B576-032ACA16C024
 
+1. Nguồn tài chính bảo đảm cho xây dựng, quản lý, bảo vệ biên giới, khu vực biên giới bao gồm ngân sách nhà nước (ngân sách trung ương và ngân sách địa phương) và các nguồn thu khác theo quy định của pháp luật.
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140250760034000230
 
 **ID:** FAE569AE-5A65-4486-B3CE-F79D3AC883D4
+
+1. Kinh phí thực hiện xây dựng, quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội trong khu vực biên giới đất liền do ngân sách Nhà nước đảm bảo theo phân cấp hiện hành.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9ABACA5C-2D68-4239-92D6-15E6535C5138
 
+1. Bộ Chỉ huy Bộ đội Biên phòng tỉnh chủ trì, phối hợp với Sở Tư pháp và các ngành liên quan tham mưu cho Ủy ban nhân dân tỉnh tổ chức quán triệt, tuyên truyền, phổ biến, thực hiện nội dung Nghị định số 112/2014/NĐ-CP và Thông tư này đến các cấp, các ngành ở địa phương và nhân dân để thực hiện thống nhất.
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180261200049500230
 
 **ID:** 85FEC599-12E0-44E7-BF6E-B3D97AC756CA
+
+1. Trong thời gian xây dựng, triển khai dự án thực hiện thủ tục biên phòng điện tử đối với Biên phòng cửa khẩu cảng trên toàn quốc, tại các cửa khẩu cảng biển chưa được lắp đặt trang thiết bị, đường truyền để triển khai thủ tục biên phòng điện tử, người làm thủ tục và Biên phòng cửa khẩu cảng thực hiện thủ tục biên phòng theo quy định tại Nghị định số 50/2008/NĐ-CP ngày 21 tháng 4 năm 2008 của Chính phủ về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng biển và các văn bản quy phạm pháp luật liên quan.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 888014C5-7EB4-474E-BB05-66FA9E286A7B
 
+1. Đối tượng được cấp Giấy phép xuống tàu
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000200002400000000000000000
 
 **ID:** 9D3E4359-19ED-4AA2-8CA4-4EC18A281CA6
+
+1. Mọi hoạt động có liên quan đến biên giới quốc gia tại khu du lịch, dịch vụ, thương mại, khu kinh tế cửa khẩu và các khu kinh tế khác trong khu vực biên giới phải tuân theo quy chế khu vực biên giới.
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D8FD6B7D-CFBE-492B-B99F-762F9C8F9977
 
+1. Chủ trì, phối hợp với Bộ Quốc phòng, Bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh ven biển về xây dựng chương trình, kế hoạch, quy hoạch, dự án về khai thác, sử dụng tài nguyên và bảo vệ môi trường biển gắn với bảo vệ chủ quyền quốc gia, quốc phòng, an ninh trong khu vực biên giới biển.
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000250000000000000000000402528201120002400
 
 **ID:** 68F921A2-E8EB-4117-83A5-B92DFDCB5350
+
+1. Tổ chức, hướng dẫn, bảo đảm trang thiết bị cho cơ quan kiểm dịch y tế thực hiện chức năng kiểm dịch y tế tại cửa khẩu, lối mở biên giới đất liền theo quy định của pháp luật Việt Nam và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6D235AE3-7858-4CE0-AA50-BCE8A8391C14
 
+1. Ngân sách trung ương bảo đảm cho các nhiệm vụ xây dựng, quản lý, bảo vệ biên giới quốc gia và khu vực biên giới do các cơ quan, đơn vị Trung ương thực hiện.
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140250760034000240
 
 **ID:** 7574F753-01D8-4902-A555-0F032B2828BA
+
+1. Bộ trưởng Bộ Quốc phòng chủ trì, phối hợp với các Bộ, ngành liên quan hướng dẫn, kiểm tra việc thi hành Nghị định này.
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** ADB50E0C-B895-40ED-A4F3-373F9753BBE0
 
+1. Đối tượng được cấp Giấy phép
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710002500
 
 **ID:** 417A4B92-8664-4F0C-9E9E-2027EDF32642
+
+Trong phạm vi chức năng nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Quốc phòng trong xây dựng, quản lý, bảo vệ biên giới quốc gia trên biển, bảo vệ an ninh chính trị, giữ gìn trật tự, an toàn xã hội trong khu vực biên giới biển; chỉ đạo các cơ quan, đơn vị, lực lượng thuộc quyền khi hoạt động trên biển phối hợp chặt chẽ với Bộ đội Biên phòng, Cảnh sát biển để hỗ trợ khi cần thiết và phối hợp tham gia bảo vệ chủ quyền, quyền chủ quyền, quyền tài phán quốc gia trên biển, bảo vệ an ninh chính trị, giữ gìn trật tự, an toàn xã hội trong khu vực biên giới biển.
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C76FC1EA-311C-4D8D-9BE0-BAA1B816E6AE
 
+Nhà nước có chiến lược, quy hoạch, kế hoạch đầu tư xây dựng khu vực biên giới vững mạnh toàn diện về chính trị, kinh tế - xã hội, quốc phòng, an ninh; có chính sách ưu tiên, tạo điều kiện thuận lợi cho nhân dân định cư ở khu vực biên giới.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000250000000000000000000402528201120002500
 
 **ID:** 0AA3F075-ACC7-4A50-915D-13E9CD29685D
+
+1. Chỉ đạo cơ quan kiểm dịch động, thực vật thực hiện chức năng kiểm dịch động vật, thực vật tại cửa khẩu, lối mở biên giới đất liền theo quy định của pháp luật Việt Nam và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7C9F64B4-AC36-429F-9EBB-D4DBE4336570
 
+Việc lập dự toán, chấp hành và quyết toán chi ngân sách cho xây dựng, quản lý, bảo vệ biên giới quốc gia và khu vực biên giới thực hiện theo quy định của Luật Ngân sách Nhà nước.
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770002600
 
 **ID:** 7E1FBC0F-7A7D-4B17-9F0C-E882FD60584E
+
+1. Người Việt Nam xuống tàu thuyền nước ngoài, trừ cán bộ, nhân viên của các cơ quan quản lý nhà nước chuyên ngành tại cảng thực hiện nhiệm vụ, nhân viên y tế xuống tàu thuyền nước ngoài để cấp cứu cho thuyền viên, hành khách; người nước ngoài xuống tàu thuyền nước ngoài, tàu thuyền Việt Nam để làm việc, thực hiện các hoạt động trong thời gian tàu thuyền neo đậu tại cửa khẩu cảng phải có giấy phép do Biên phòng cửa khẩu cảng cấp theo quy định tại các Điều 24, 25 Nghị định này và phải chấp hành sự kiểm tra, giám sát của Biên phòng cửa khẩu cảng.
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E08CB224-5719-45D9-963A-878C96CFEAB5
 
+1. Thực hiện quản lý nhà nước về biên giới quốc gia tại địa phương theo phân cấp; xây dựng khu vực biên giới biển vững mạnh về chính trị, kinh tế, xã hội, quốc phòng, an ninh; kết hợp xây dựng cơ sở hạ tầng, phát triển kinh tế, xã hội gắn với củng cố, tăng cường quốc phòng, an ninh trong khu vực biên giới biển.
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000250000000000000000000402528201120002600
 
 **ID:** 552CDFCB-B873-4B0D-A8AC-6D34D6B609DF
+
+1. Bộ Ngoại giao
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5F3C9479-2A87-43F4-970D-17A51DA97119
 
+Hàng năm, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi nhiệm vụ, quyền hạn của mình lập kế hoạch đầu tư xây dựng các dự án phát triển kinh tế - xã hội, xây dựng kết cấu hạ tầng, điều chỉnh dân cư khu vực biên giới, công trình biên giới trình Chính phủ quyết định.
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000040000360000000000000000000402148101400002600
 
 **ID:** 101B37F3-25FE-4BAC-A705-A6FF079717DC
+
+1. Chủ trì, phối hợp với Bộ Ngoại giao, Bộ Công an hướng dẫn, chỉ đạo Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương thực hiện quản lý nhà nước về biên giới quốc gia;
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 939595FA-2EC3-4DAF-81B6-84340654BD0B
 
+1. Trước khi tàu thuyền đến cảng, người làm thủ tục phải thông báo cho Biên phòng cửa khẩu cảng nơi tàu thuyền đến về số lượng, tình trạng sức khỏe của thuyền viên, hành khách phải đi cấp cứu; thời gian tàu thuyền đến cảng, vị trí neo đậu tại cảng.
+
 ---
 
 
@@ -2103,6 +2482,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710002700
 
 **ID:** 7FD4D756-42DB-4D9F-B426-245B11546856
+
+1. Các cơ quan, tổ chức và cá nhân hoạt động trong khu vực biên giới biển phải chấp hành nghiêm các quy định của Nghị định này, quy định pháp luật khác có liên quan và điều ước quốc tế mà Việt Nam là thành viên có liên quan; có trách nhiệm phối hợp với Bộ đội Biên phòng, lực lượng chức năng trong bảo vệ chủ quyền, quyền chủ quyền trên biển, bảo vệ an ninh chính trị, giữ gìn trật tự, an toàn xã hội trong khu vực biên giới biển.
 
 ---
 
@@ -2115,6 +2496,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2F1867A0-917E-4906-B762-1CD5658475D4
 
+1. Chỉ đạo xây dựng Quốc môn, Nhà kiểm soát liên hợp, cơ sở hạ tầng và hệ thống giao thông khu vực cửa khẩu.
+
 ---
 
 
@@ -2125,6 +2508,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000300002700000000000000000
 
 **ID:** 58288BAD-3535-4EFE-A261-5C2B55F07B85
+
+Nhà nước ưu tiên đầu tư xây dựng công trình biên giới, mốc quốc giới để quản lý, bảo vệ biên giới quốc gia.
 
 ---
 
@@ -2137,6 +2522,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3E3778A8-05ED-45F4-8581-ECF8A62ABF04
 
+1. Chủ trì, phối hợp với các Bộ, ngành đề xuất chủ trương, chính sách về biên giới lãnh thổ và quản lý nhà nước về biên giới quốc gia;
+
 ---
 
 
@@ -2147,6 +2534,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770002800
 
 **ID:** 5B9C9810-6BEC-4868-B042-D2778BB10AA6
+
+1. Sau khi đưa thuyền viên, hành khách đi cấp cứu, thuyền trưởng phải có văn bản gồm các nội dung sau đây gửi Biên phòng cửa khẩu cảng:
 
 ---
 
@@ -2159,6 +2548,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0A8DF939-A5BC-48C1-BD93-7260AD2881B6
 
+1. Nhà nước xây dựng nền biên phòng toàn dân và thế trận biên phòng toàn dân vững mạnh để quản lý, bảo vệ biên giới quốc gia.
+
 ---
 
 
@@ -2169,6 +2560,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000040000360000000000000000000402148101400002800
 
 **ID:** 357DF527-B89F-42DD-B9CC-CA5AAA6D3D0C
+
+1. Phối hợp với Bộ Quốc phòng chỉ đạo, hướng dẫn Bộ đội biên phòng thực hiện nhiệm vụ bảo đảm an ninh, trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm và các hành vi vi phạm pháp luật khác ở khu vực biên giới;
 
 ---
 
@@ -2181,6 +2574,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D6004601-56C5-4CB2-A3DD-5AAF05D4909A
 
+Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2015 và thay thế Nghị định số 32/2005/NĐ-CP ngày 14 tháng 3 năm 2005 của Chính phủ về Quy chế cửa khẩu biên giới đất liền.
+
 ---
 
 
@@ -2191,6 +2586,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140255680071000280
 
 **ID:** 4AFF816E-9678-4F2F-B420-C967E4D7F10C
+
+Nghị định này có hiệu lực thi hành kể từ ngày 20 tháng 10 năm 2015 và thay thế Nghị định số 161/2003/NĐ-CP ngày 18 tháng 12 năm 2003 của Chính phủ về Quy chế khu vực biên giới biển.
 
 ---
 
@@ -2203,6 +2600,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EE58C826-327E-4429-8CA2-1DDC8C85A205
 
+1. Trong thời gian tàu thuyền neo đậu tại cửa khẩu cảng, hằng ngày, thuyền viên nước ngoài được phép đi bờ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tàu thuyền neo đậu đến 24 giờ, không phải đề nghị cấp thị thực, nhưng phải có Giấy phép đi bờ của thuyền viên do Biên phòng cửa khẩu cảng cấp theo quy định tại Điều 23 Nghị định này.
+
 ---
 
 
@@ -2213,6 +2612,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000300002900000000000000000
 
 **ID:** 65C0535B-9E55-4411-967F-F150D43FFADB
+
+1. Biên giới quốc gia, hệ thống mốc quốc giới, công trình biên giới phải được giữ gìn, quản lý, bảo vệ nghiêm ngặt.
 
 ---
 
@@ -2225,6 +2626,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 88A7678E-0836-4144-A74B-BD29B3AF3259
 
+Trong phạm vi nhiệm vụ, quyền hạn của mình các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm thực hiện và phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, Bộ Công an trong công tác quản lý nhà nước về biên giới quốc gia theo quy định của pháp luật.
+
 ---
 
 
@@ -2235,6 +2638,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140252820112000290
 
 **ID:** A06B3ECE-2758-44C5-89D7-2F2E773874C9
+
+1. Các Bộ trưởng: Quốc phòng, Công an, Tài chính, Công Thương, Ngoại giao, Y tế, Nông nghiệp và Phát triển nông thôn, Giao thông vận tải, Xây dựng theo thẩm quyền có trách nhiệm quy định chi tiết và hướng dẫn các điều, khoản được quy định trong Nghị định này.
 
 ---
 
@@ -2247,6 +2652,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 660CFC93-3509-489B-9AED-DE4DA2BE1255
 
+1. Kinh phí thực hiện xây dựng, quản lý, bảo vệ biên giới quốc gia trên biển, bảo vệ an ninh chính trị, giữ gìn trật tự, an toàn xã hội trong khu vực biên giới biển do ngân sách trung ương và ngân sách địa phương bảo đảm theo quy định của Luật Ngân sách nhà nước và Luật Đầu tư công.
+
 ---
 
 
@@ -2257,6 +2664,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000300000000000000000
 
 **ID:** 9AAA3F20-20FE-406A-BB03-B200C2FE5DA7
+
+Cơ quan, tổ chức, cá nhân (sau đây gọi chung là tổ chức, cá nhân) có trách nhiệm chấp hành các quy định của Luật này và các quy định khác của pháp luật có liên quan; trong trường hợp điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập có quy định khác thì áp dụng quy định của điều ước quốc tế đó.
 
 ---
 
@@ -2269,6 +2678,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 87E9EF8E-8E3F-4CBC-A897-35AA30DE3C1E
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2279,6 +2690,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000440252820112000030
 
 **ID:** DA941851-DAAD-4A46-BEBA-E77E0DEFBC94
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -2291,6 +2704,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 39025CF0-EF16-45D1-B50A-8ABBE3AD90EF
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2301,6 +2716,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000440262370077000030
 
 **ID:** 493300BE-7A73-4973-85C5-8BE99687C40E
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -2313,6 +2730,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BFD0DA16-05D9-4F5B-A3C4-4B66E00CCD9C
 
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2323,6 +2742,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000450268700015000030
 
 **ID:** 54136B21-CAEE-42D1-93E5-C3EA28CC878E
+
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -2335,6 +2756,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9DF8804A-DC1B-43B3-8B2F-B3FE223B8722
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2345,6 +2768,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000480259820162000030
 
 **ID:** 544D4FC1-D319-4109-92AA-A4FB5D7CBCA9
+
+1. Khu kinh tế quy định trong Nghị định số 71/2015/NĐ-CP và Thông tư này là khu kinh tế được thành lập và hoạt động theo quy định của Luật Đầu tư.
 
 ---
 
@@ -2357,6 +2782,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1A1C0D63-9739-467C-B1A3-2F3E8292742A
 
+1. Biên giới quốc gia của nước Cộng hoà xã hội chủ nghĩa Việt Nam là đường và mặt thẳng đứng theo đường đó để xác định giới hạn lãnh thổ đất liền, các đảo, các quần đảo trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa, vùng biển, lòng đất, vùng trời của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -2367,6 +2794,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000050247980045000010000802513800220000300
 
 **ID:** 491E12D5-139C-4230-AD41-CD4C0E6A20F5
+
+1. Trường hợp cửa khẩu quốc tế và cửa khẩu chính (sau đây gọi tắt là cửa khẩu) có kim ngạch trao đổi hàng hóa một năm với giá trị tương đương dưới 1.000 (một nghìn) tỷ đồng:
 
 ---
 
@@ -2379,6 +2808,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6E441C67-B4E2-4376-AD5D-5C01C27AAECB
 
+1. Tổ chức, cá nhân thực hiện thủ tục biên phòng điện tử truy cập Cổng thông tin tại địa chỉ http://thutucbienphong.gov.vn.
+
 ---
 
 
@@ -2389,6 +2820,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000802447600040000300
 
 **ID:** 886F0C37-A8FA-44C8-8CB4-25F784F9B68D
+
+Việc mở chính thức, mở mới, nâng cấp cửa khẩu, đường qua lại tuân thủ các nguyên tắc sau:
 
 ---
 
@@ -2401,6 +2834,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CE42186A-086C-42CE-9E74-E7A7EF84E6D9
 
+1. Thẩm quyền xác định vành đai biên giới
+
 ---
 
 
@@ -2411,6 +2846,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000040000360000000000000000000502683200100000300
 
 **ID:** 16BB2769-1C89-4A87-9624-A4DFEC57990B
+
+1. Vụ Biên giới Việt - Trung.
 
 ---
 
@@ -2423,6 +2860,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C7829FB4-C2D0-4A0A-B7B5-9EA0416F728C
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2433,6 +2872,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180216450162000030
 
 **ID:** 69E66B49-E5D9-408B-A08E-2696DB478123
+
+1. Các đơn vị sử dụng ngân sách quản lý, bảo vệ biên giới quốc gia có trách nhiệm hoàn thành tốt nhiệm vụ chi ngân sách được giao và chấp hành nghiêm các quy định về chế độ, chính sách quản lý, sử dụng tài chính hiện hành.
 
 ---
 
@@ -2445,6 +2886,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9E7C1B91-916A-4050-BC9B-4BEEABBF9C33
 
+Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; cơ quan, đơn vị, tổ chức và cá nhân liên quan có trách nhiệm tổ chức quán triệt và triển khai thực hiện Thông tư này.
+
 ---
 
 
@@ -2455,6 +2898,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770003000
 
 **ID:** F30D80BB-7984-4FFF-8023-07375E8FFF5F
+
+1. Tàu thuyền Việt Nam xuất cảnh, nhập cảnh; tàu thuyền nước ngoài nhập cảnh, xuất cảnh, quá cảnh, chuyển cảng phải được phép của cơ quan có thẩm quyền của Việt Nam và qua đúng cửa khẩu, luồng hàng hải, tuyến quá cảnh, khu vực quá cảnh.
 
 ---
 
@@ -2467,6 +2912,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0D5A3E09-308E-47D9-B26E-41F439FB362C
 
+1. Việc khôi phục, sửa chữa mốc quốc giới phải tuân theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Việt Nam ký kết.
+
 ---
 
 
@@ -2477,6 +2924,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000040000360000000000000000000402148101400003000
 
 **ID:** 596F439D-B397-45D1-9E9E-E5CF26BED66F
+
+1. Bộ Tư lệnh Bộ đội biên phòng có trách nhiệm làm tham mưu cho Bộ Quốc phòng về công tác quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới và xây dựng lực lượng Bộ đội biên phòng;
 
 ---
 
@@ -2489,6 +2938,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 562A5F78-39D6-4261-874C-8A96CE05446B
 
+1. Bộ Quốc phòng chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, kiểm tra việc thi hành Nghị định này.
+
 ---
 
 
@@ -2499,6 +2950,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770003100
 
 **ID:** 4EADB9D2-F8CC-4069-8075-52CA980D40C4
+
+1. Tàu biển Việt Nam hoạt động tuyến nội địa và phương tiện thủy nội địa đến, rời cửa khẩu cảng
 
 ---
 
@@ -2511,6 +2964,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A25609DD-B8F0-42E9-87BD-AE3592AE1112
 
+1. Xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới là nhiệm vụ của Nhà nước và của toàn dân, trước hết là của chính quyền, nhân dân khu vực biên giới và các lực lượng vũ trang nhân dân.
+
 ---
 
 
@@ -2521,6 +2976,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000040000370000000000000000000402148101400003100
 
 **ID:** CCEB7750-9380-431B-8D09-386F8FC6E2A5
+
+1. Thực hiện quản lý nhà nước về biên giới quốc gia tại địa phương mình theo quy định của pháp luật và chỉ đạo, hướng dẫn của Bộ Quốc phòng và các Bộ, ngành có liên quan;
 
 ---
 
@@ -2533,6 +2990,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DD5FD044-F6D4-475C-BEA7-A390C840113B
 
+1. Vì lý do quốc phòng, an ninh, các lý do đặc biệt ảnh hưởng đến kinh tế, xã hội hoặc vì lý do đảm bảo an toàn hàng hải, phòng ngừa ô nhiễm môi trường, dịch bệnh, vi phạm pháp luật Việt Nam hoặc vì lý do khẩn cấp khác, tàu thuyền nước ngoài có thể bị từ chối hoặc tạm hoãn nhập cảnh, xuất cảnh, quá cảnh; tàu thuyền Việt Nam có thể bị tạm hoãn xuất cảnh qua cửa khẩu cảng.
+
 ---
 
 
@@ -2543,6 +3002,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000300003200000000000000000
 
 **ID:** C054C9FC-0F07-44ED-9261-401B9738D403
+
+Các lực lượng làm nhiệm vụ bảo vệ biên giới quốc gia được sử dụng vũ khí, công cụ hỗ trợ, phương tiện kỹ thuật, phương tiện chuyên dùng theo quy định của pháp luật.
 
 ---
 
@@ -2555,6 +3016,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D6E7D4EA-7AA0-43C7-A778-C363EE59FFA7
 
+Mọi công dân Việt Nam có trách nhiệm và nghĩa vụ bảo vệ biên giới quốc gia của nước Cộng hoà xã hội chủ nghĩa Việt Nam, xây dựng khu vực biên giới, giữ gìn an ninh, trật tự an toàn xã hội ở khu vực biên giới. Nếu phát hiện các hành vi xâm phạm biên giới, phá hoại an ninh, trật tự an toàn xã hội ở khu vực biên giới phải báo cho đồn biên phòng hoặc chính quyền địa phương, cơ quan nhà nước nơi gần nhất để thông báo kịp thời cho Bộ đội biên phòng xử lý theo quy định của pháp luật.
+
 ---
 
 
@@ -2565,6 +3028,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770003300
 
 **ID:** 4B9F5918-4B7C-4975-AD59-06D2F339CE3C
+
+1. Chưa cho nhập cảnh, tạm hoãn xuất cảnh đối với thuyền viên, hành khách nước ngoài thực hiện theo quy định tại các Điều 21, 22, 28, 29 Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam ngày 16 tháng 6 năm 2014.
 
 ---
 
@@ -2577,6 +3042,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7EE46579-C9F1-4702-9932-18C423C98337
 
+1. Nhà nước có chính sách, chế độ ưu đãi đối với người trực tiếp và người được huy động làm nhiệm vụ quản lý, bảo vệ biên giới quốc gia.
+
 ---
 
 
@@ -2587,6 +3054,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140214810140000330
 
 **ID:** 789DA910-4423-4D58-A0B4-5F9D0FD49FCD
+
+Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
 ---
 
@@ -2599,6 +3068,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 103C6718-A135-40C7-AD1C-E96FFF001E11
 
+1. Chủ trì, phối hợp với các bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh có cửa khẩu cảng biển trong quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng.
+
 ---
 
 
@@ -2609,6 +3080,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000300003400000000000000000
 
 **ID:** A16255C9-9814-421C-8E9F-9CCD9A4454A0
+
+1. Hàng năm, Nhà nước dành ngân sách thích đáng bảo đảm cho hoạt động xây dựng, quản lý, bảo vệ biên giới quốc gia.
 
 ---
 
@@ -2621,6 +3094,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C1C77421-46BA-4CA7-93BC-D1E6760CD489
 
+Bộ Quốc phòng chủ trì, phối hợp với các Bộ liên quan xây dựng văn bản hướng dẫn và kiểm tra việc thực hiện Nghị định này.
+
 ---
 
 
@@ -2631,6 +3106,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770003500
 
 **ID:** 533311BD-6544-4C8D-ACED-32204BC7748E
+
+Các bộ, ngành liên quan trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm chỉ đạo, hướng dẫn các cơ quan quản lý nhà nước chuyên ngành trực thuộc phối hợp với Bộ đội Biên phòng trong hoạt động quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng và xử lý nghiêm các hành vi vi phạm theo quy định của pháp luật.
 
 ---
 
@@ -2643,6 +3120,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2C7FB663-F4DC-47FA-BE9F-A1973B70BCF6
 
+Nội dung quản lý nhà nước về biên giới quốc gia bao gồm:
+
 ---
 
 
@@ -2653,6 +3132,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140214810140000350
 
 **ID:** BE63EDC7-AF87-4F64-B9AB-747C6A0632FA
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ và Chủ tịch Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
 ---
 
@@ -2665,6 +3146,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C4CF6485-3FCE-4144-916D-726892579E67
 
+Ủy ban nhân dân cấp tỉnh nơi có cửa khẩu cảng trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm chỉ đạo, hướng dẫn Ủy ban nhân dân cấp dưới nơi có cửa khẩu cảng và các lực lượng, cơ quan liên quan ở địa phương phối hợp với Bộ đội Biên phòng trong hoạt động quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng.
+
 ---
 
 
@@ -2675,6 +3158,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000400003600000000000000000
 
 **ID:** C8E39616-8203-45D5-BA4D-13AB5AF684C1
+
+1. Chính phủ thống nhất quản lý nhà nước về biên giới quốc gia; quy định nhiệm vụ, quyền hạn, phạm vi trách nhiệm phối hợp giữa các bộ, cơ quan ngang bộ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương nơi có biên giới quốc gia thực hiện quản lý nhà nước về biên giới quốc gia.
 
 ---
 
@@ -2687,6 +3172,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3E8EB8C5-489B-4DE2-AAEF-C2290F9537CA
 
+1. Tại cửa khẩu cảng, các cơ quan quản lý nhà nước chuyên ngành được bố trí lực lượng, lắp đặt các trang thiết bị, phương tiện kỹ thuật để đảm bảo yêu cầu nghiệp vụ, nhưng không được làm ảnh hưởng đến hoạt động bình thường của doanh nghiệp cảng.
+
 ---
 
 
@@ -2697,6 +3184,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000400003700000000000000000
 
 **ID:** F0F7CF41-E09E-49A4-BF8C-1E668CFF33DF
+
+Uỷ ban nhân dân các cấp nơi có biên giới quốc gia thực hiện quản lý nhà nước về biên giới quốc gia theo quy định của Chính phủ.
 
 ---
 
@@ -2709,6 +3198,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 48F08B18-46E9-4372-B339-E5FEB2DC5D4D
 
+1. Các cơ quan, tổ chức khảo sát, thiết kế, thi công, triển khai thực hiện dự án, công trình liên quan đến quốc phòng, an ninh hoặc có yếu tố nước ngoài tại cửa khẩu cảng phải thông báo bằng văn bản trước 03 ngày làm việc cho Biên phòng cửa khẩu cảng về danh sách người, phương tiện, thời gian, phạm vi, nội dung hoạt động.
+
 ---
 
 
@@ -2719,6 +3210,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000500003800000000000000000
 
 **ID:** 9284EF6E-F536-47B9-AB1F-1676F5A767B4
+
+Tổ chức, cá nhân có thành tích trong hoạt động xây dựng, quản lý, bảo vệ biên giới quốc gia thì được khen thưởng theo quy định của pháp luật.
 
 ---
 
@@ -2731,6 +3224,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5CE8B0C6-06A3-4B3D-8EFC-C4FB19A04986
 
+Tổ chức, cá nhân có hành vi vi phạm pháp luật về biên giới quốc gia thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+
 ---
 
 
@@ -2741,6 +3236,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004140262370077000390
 
 **ID:** 9DD22994-198F-4EA7-8333-C32FC27F100F
+
+1. Nghị định này có hiệu lực thi hành từ ngày 20 tháng 8 năm 2017.
 
 ---
 
@@ -2753,6 +3250,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** FA8B0596-B016-4308-9E4A-16554BA716C4
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2763,6 +3262,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000050000000000000000000402148101400000400
 
 **ID:** 27D2F3FC-E05D-4284-8440-D94ECA7FB28B
+
+Biên giới quốc gia trên đất liền giữa nước Cộng hoà xã hội chủ nghĩa Việt Nam với các nước láng giềng được xác định bằng hệ thống mốc quốc giới, Hiệp ước về hoạch định biên giới giữa Việt Nam với các nước láng giềng cùng các bản đồ, Nghị định thư kèm theo các Hiệp ước đó.
 
 ---
 
@@ -2775,6 +3276,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7E567152-FA42-4DDE-BBA2-0CEE3C3A08EA
 
+1. Làm hư hỏng, hủy hoại, xê dịch hoặc mất mốc quốc giới, dấu hiệu nhận biết đường biên giới, các biển báo “khu vực biên giới”, “vành đai biên giới”, “vùng cấm”, công trình biên giới.
+
 ---
 
 
@@ -2785,6 +3288,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000140000000000000000000402556800710000400
 
 **ID:** D371C76F-C040-4ADC-AA0C-3B33C559BE36
+
+1. Xây dựng, lắp đặt trái phép các công trình, thiết bị hoặc có hành vi gây tổn hại đến sự an toàn của công trình biên giới.
 
 ---
 
@@ -2797,6 +3302,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** AC086DED-DDD5-4EE6-8FA2-1695EC367962
 
+1. Loại hình cửa khẩu biên giới
+
 ---
 
 
@@ -2807,6 +3314,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000040252820112000040000802572100095000400
 
 **ID:** 5BEC7DDF-AC74-4A8B-ACFB-72501F54DA03
+
+1. Cửa khẩu biên giới đất liền chỉ được xác định chính thức là cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương), cửa khẩu phụ sau khi Chính phủ hai nước có chung cửa khẩu quyết định đồng ý mở, nâng cấp cửa khẩu và chính quyền cấp tỉnh biên giới hai bên phối hợp tổ chức lễ công bố khai trương mở, nâng cấp cửa khẩu theo trình tự thủ tục quy định tại Điều 20 Nghị định số 112/2014/NĐ-CP ngày 21 tháng 11 năm 2014 của Chính phủ quy định về quản lý cửa khẩu biên giới đất liền (sau đây viết gọn là Nghị định số 112/2014/NĐ-CP).
 
 ---
 
@@ -2819,6 +3328,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EBE274F6-CE6A-4052-A7B3-92D69270F83A
 
+1. Ban Quản lý cửa khẩu quy định tại Điều 9 Quy chế có Văn phòng Ban Quản lý cửa khẩu là đơn vị giúp việc cho Trưởng cửa khẩu.
+
 ---
 
 
@@ -2829,6 +3340,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770000400
 
 **ID:** 525E0736-156F-449B-8A51-5DE26FFF8F47
+
+Tàu thuyền nhập cảnh, thuyền viên, hành khách đi trên tàu thuyền nhập cảnh khi vào khu vực biên giới biển Việt Nam phải làm thủ tục nhập cảnh tại cửa khẩu cảng đầu tiên nơi tàu thuyền đến.
 
 ---
 
@@ -2841,6 +3354,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F6395B71-3C0D-4E11-AF4A-23851B515A35
 
+Phải đảm bảo sự bình đẳng, an toàn, công khai, minh bạch, nhanh chóng, thuận tiện và tuân thủ các quy định của pháp luật Việt Nam về giao dịch điện tử và xuất nhập cảnh và phù hợp với các điều ước quốc tế có liên quan mà Việt Nam là thành viên.
+
 ---
 
 
@@ -2851,6 +3366,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150000400
 
 **ID:** 2EDB2FD0-B531-42DB-AA2A-69BF6B135FF4
+
+1. Đảm bảo sự bình đẳng, công khai, minh bạch, nhanh chóng, an toàn, thuận tiện; tuân thủ các quy định của pháp luật Việt Nam về giao dịch điện tử, xuất nhập cảnh và phù hợp với các điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -2863,6 +3380,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 80A84F6F-C222-4244-8A21-36DFD8327C7A
 
+1. Các cơ quan, đơn vị, cá nhân trong Bộ đội Biên phòng
+
 ---
 
 
@@ -2873,6 +3392,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000802447600040000400
 
 **ID:** 9DD4C60E-D755-4300-B48C-B1FF381BE0F2
+
+1. Việc mở chính thức, mở mới, nâng cấp cửa khẩu, đường qua lại để đáp ứng nhu cầu phát triển lâu dài về kinh tế - xã hội tại khu vực biên giới, tỉnh biên giới và của cả nước hiện tại cũng như tương lai, đồng thời phải phù hợp với quy hoạch về phát triển kinh tế - xã hội chung của tỉnh và của đất nước đã được Chính phủ phê duyệt và công bố.
 
 ---
 
@@ -2885,6 +3406,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F551A7F6-D13A-4C38-9C77-EEFA3DE8E8EE
 
+1. Các ngành chức năng trong tỉnh khi xác lập vùng cấm phải thống nhất với Bộ Chỉ huy Quân sự, Bộ Chỉ huy Bộ đội Biên phòng, Công an cấp tỉnh để xác định, xây dựng nội quy quản lý đối với vùng cấm, báo cáo Ủy ban nhân dân tỉnh biên giới quyết định sau khi được Hội đồng nhân dân tỉnh thông qua.
+
 ---
 
 
@@ -2895,6 +3418,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040255680071000050000802598201620000400
 
 **ID:** 0853F4D7-1BC0-41C3-A09E-1967C112BCBD
+
+1. Biển báo “khu vực biên giới biển”, “vùng cấm”, “khu vực hạn chế hoạt động” trên đất liền làm theo mẫu thống nhất bằng tôn, dày 1,5mm; cột biển bằng kim loại, đường kính 100mm, dày 02mm; mặt biển, chữ trên biển báo sơn phản quang; nền biển sơn mầu xanh đen, chữ trên biển sơn mầu trắng; cột biển sơn phản quang, mầu trắng, đỏ; chữ trên biển báo ghi thành 2 dòng; dòng thứ nhất chữ bằng tiếng Việt Nam; dòng thứ hai chữ bằng tiếng Anh. Kích thước biển báo, chữ viết trên biển báo thực hiện theo các Mẫu số 01, 02, 03 quy định tại Phụ lục ban hành kèm theo Thông tư này.
 
 ---
 
@@ -2907,6 +3432,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 38A3EFC6-C788-4C24-9228-36C52E9DE061
 
+1. Ủy ban có Chủ nhiệm và không quá 04 Phó Chủ nhiệm.
+
 ---
 
 
@@ -2917,6 +3444,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004000000000000000000
 
 **ID:** 71789ECE-A2F0-4B25-9EF3-7A3107B1DE21
+
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2004.
 
 ---
 
@@ -2929,6 +3458,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C5C16FCD-8992-4AC3-AAED-73BAA3682F90
 
+1. Bộ Quốc phòng chủ trì, phối hợp với các bộ, ngành có liên quan tổ chức triển khai thực hiện Nghị định này.
+
 ---
 
 
@@ -2939,6 +3470,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004100000000000000000
 
 **ID:** 43F261BC-001A-4AEA-9F1B-208262BE883A
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này.
 
 ---
 
@@ -2951,6 +3484,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CAACF67C-ECCF-4EB8-A21D-48C5600FF8DB
 
+1. Biên giới quốc gia được xác định bằng Điều ước quốc tế  mà Việt Nam ký  kết hoặc ra nhập hoặc do pháp luật Việt Nam quy định
+
 ---
 
 
@@ -2961,6 +3496,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000050000000000000000000402148101400000500
 
 **ID:** 63DEDF14-A79C-454E-93D3-3CDFD4F7FCD9
+
+1. Biên giới quốc gia trên biển là ranh giới phía ngoài lãnh hải của đất liền, lãnh hải của đảo, lãnh hải của các quần đảo Việt Nam.
 
 ---
 
@@ -2973,6 +3510,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E3C8122E-5305-49BC-B016-99536537ED00
 
+1. Người, phương tiện, hàng hóa, vật phẩm xuất, nhập qua cửa khẩu biên giới phải có đầy đủ giấy tờ hợp lệ, thực hiện các nguyên tắc, thủ tục theo quy định về xuất cảnh, nhập cảnh, xuất khẩu, nhập khẩu và các quy định khác của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; chịu sự quản lý, kiểm tra, kiểm soát, giám sát của cơ quan quản lý nhà nước chuyên ngành tại cửa khẩu.
+
 ---
 
 
@@ -2983,6 +3522,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000040252820112000110000802572100095000500
 
 **ID:** 97153503-22A3-4A4C-B05B-237DF8F35FD5
+
+1. Biển báo “Khu vực cửa khẩu” cắm bên phải trên các trục đường giao thông theo hướng từ nội địa ra biên giới, tại vị trí ranh giới giữa nội địa với khu vực cửa khẩu, ở nơi dễ nhận biết; chất liệu, kích thước biển báo, chữ viết trên biển báo theo Mẫu số 1 tại Phụ lục 1 ban hành kèm theo Thông tư này.
 
 ---
 
@@ -2995,6 +3536,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4A839A1A-A65D-4845-9CC9-26A57C10A663
 
+1. Phương tiện cơ giới đường bộ vào khu vực biên giới biển (trừ khu du lịch, khu dịch vụ, khu kinh tế) hoạt động theo quy định tại Khoản 7 Điều 6 Nghị định số 71/2015/NĐ-CP, cơ quan, tổ chức, cá nhân quản lý, sử dụng, người điều khiển phương tiện hoặc chủ phương tiện phải thông báo cho Đồn Biên phòng sở tại trước 02 ngày làm việc trước khi tiến hành các hoạt động.
+
 ---
 
 
@@ -3005,6 +3548,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000050247980045000010000802513800220000500
 
 **ID:** B53777CC-1600-4FE7-BFDB-12690BF67DA5
+
+Nội quy cửa khẩu do Ban Quản lý cửa khẩu xây dựng theo hướng dẫn tại Phụ lục kèm theo Thông tư này và trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt, ban hành.
 
 ---
 
@@ -3017,6 +3562,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 288E0FFB-DBEA-4D3F-8DE3-D7DBEAF858A8
 
+1. Tàu thuyền nước ngoài xuất cảnh, thuyền viên, hành khách đi trên tàu thuyền nước ngoài xuất cảnh, trước khi rời khỏi biên giới quốc gia trên biển của Việt Nam, phải làm thủ tục xuất cảnh tại cửa khẩu cảng cuối cùng nơi tàu thuyền đi.
+
 ---
 
 
@@ -3027,6 +3574,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502575000100000500
 
 **ID:** CCEC4058-A58C-4D38-96E2-5E23762BC7E2
+
+1. Biên phòng cửa khẩu cảng xác nhận hoàn thành thủ tục biên phòng trên cơ sở khai báo thủ tục biên phòng điện tử của người làm thủ tục.
 
 ---
 
@@ -3039,6 +3588,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8F498BE1-644F-4675-8B46-4B5DEE7D8A99
 
+1. Thời gian:
+
 ---
 
 
@@ -3049,6 +3600,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000802612000495000500
 
 **ID:** 683A6B90-C253-4CFD-B7E4-213C0A9422E8
+
+1. Chỉ huy trưởng Biên phòng cửa khẩu cảng, Đồn trưởng đồn Biên phòng cửa khẩu cảng quyết định cấp tài khoản truy cập Cổng thông tin; tạm dừng hoạt động, hủy tài khoản truy cập Cổng thông tin đối với người làm thủ tục theo quy định tại các Khoản 2, 3 Điều này.
 
 ---
 
@@ -3061,6 +3614,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B85C8255-5439-4D9A-9D4E-E5038A90929F
 
+1. Ủy ban nhân dân cấp tỉnh thành lập đoàn gồm đại diện các Sở, Ban, ngành liên quan (Ngoại vụ, Biên phòng, Công thương, Y tế, Hải quan, Công an, Giao thông...) khảo sát thực tế khu vực cần mở chính thức, mở mới, nâng cấp cửa khẩu, đường qua lại; chỉ đạo các Sở, Ban, ngành liên quan chuẩn bị đầy đủ cơ sở vật chất, trang thiết bị, lực lượng cần thiết thực hiện công tác kiểm soát xuất, nhập cảnh; xuất, nhập khẩu ở cửa khẩu, đường qua lại đảm bảo đúng theo quy định của pháp luật.
+
 ---
 
 
@@ -3071,6 +3626,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402507600340000500
 
 **ID:** 753893DB-7B58-4516-8D71-B9CE39A5C8DA
+
+1. Những người được cư trú ở khu vực biên giới đất liền:
 
 ---
 
@@ -3083,6 +3640,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C2E76676-0E9D-4525-AFD6-2A2A21081883
 
+1. Biển báo "khu vực biên giới", "Vành đai biên giới", "vùng cấm" theo mẫu thống nhất bằng tôn, dày 1,5mm, cột bằng thép ống đường kính 100mm, dày 2mm; mặt biển, chữ trên biển báo sơn phản quang; nền biển sơn màu xanh, chữ trên biển sơn màu trắng, cột sơn phản quang, màu trắng, đỏ; chữ trên biển báo ghi thành ba dòng: Dòng thứ nhất chữ bằng tiếng Việt Nam, dòng thứ hai chữ bằng tiếng của nước đối diện, dòng thứ ba chữ bằng tiếng Anh. Kích thước biển báo, chữ viết trên biển báo theo mẫu từ Mẫu số 1 đến Mẫu số 12 tại Phụ lục ban hành kèm theo Thông tư này.
+
 ---
 
 
@@ -3093,6 +3652,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402556800710000500
 
 **ID:** E96F9379-0226-45D4-874D-10C625944678
+
+Trong khu vực biên giới biển có các loại biển báo theo quy định của pháp luật; Bộ trưởng Bộ Quốc phòng quy định mẫu biển báo trong khu vực biên giới biển và thống nhất với Bộ Giao thông vận tải, Ủy ban nhân dân cấp tỉnh ven biển vị trí cắm biển báo.
 
 ---
 
@@ -3105,6 +3666,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7851D5A2-E307-4385-926F-B75629D4FEE4
 
+1. Quyết định này có hiệu lực kể từ ngày 05 tháng 4 năm 2019; thay thế Quyết định số 108/2008/QĐ-TTg ngày 08 tháng 8 năm 2008 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Biên giới quốc gia trực thuộc Bộ Ngoại giao.
+
 ---
 
 
@@ -3115,6 +3678,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000050000000000000000000402148101400000600
 
 **ID:** BBFB0FD2-6F91-477D-85ED-CB946F162BB2
+
+1. Lãnh hải Việt Nam là vùng biển rộng 12 hải lý tính từ đường cơ sở ra phía ngoài; trong trường hợp Điều ước quốc tế mà Việt Nam ký với các nước láng giềng có quy định khác thì áp dụng Điều ước quốc tế đó. Lãnh hải Việt Nam gồm:
 
 ---
 
@@ -3127,6 +3692,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 062E950A-35FB-4529-8185-50B6A9D7200E
 
+Khu vực biên giới bao gồm:
+
 ---
 
 
@@ -3137,6 +3704,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000040252820112000110000802572100095000600
 
 **ID:** 92A2AAE4-3A49-4035-9883-3391A03C8E0A
+
+1. Ba-ri-e kiểm soát số 1 được thiết lập phía trước Nhà kiểm soát liên hợp cửa khẩu hướng ra đường biên giới quốc gia;
 
 ---
 
@@ -3149,6 +3718,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6995FE98-78FB-4FA0-B90F-E67529D2E68F
 
+1. Công dân Việt Nam (trừ công dân có hộ khẩu thường trú trong khu vực biên giới biển) vào khu vực biên giới biển phải có một trong các loại giấy tờ sau: Giấy chứng minh nhân dân, Hộ chiếu, Căn cước công dân hoặc Giấy chứng minh sĩ quan, Giấy chứng minh Quân đội, Giấy chứng minh Công an nhân dân (đối với cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân); nếu ở qua đêm phải đăng ký lưu trú tại Công an cấp xã sở tại.
+
 ---
 
 
@@ -3159,6 +3730,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000040255680071000070000802598201620000600
 
 **ID:** 5FE6F2B7-53CC-4BC0-B041-C8C9A36C27C3
+
+1. Trường hợp người nước ngoài lưu trú qua đêm ở khu vực biên giới biển thực hiện việc khai báo theo quy định tại Điều 33 và Điều 34 Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -3171,6 +3744,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 63196605-346D-4C97-A9FC-CE376A688D79
 
+1. Ban Quản lý cửa khẩu là đơn vị sự nghiệp có thu, tự bảo đảm một phần chi phí hoạt động thường xuyên, phần còn lại được Ngân sách Nhà nước cấp theo khoản 1 Điều 16 Quy chế.
+
 ---
 
 
@@ -3181,6 +3756,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770000600
 
 **ID:** BF14A68F-3228-4BEE-A987-AE5390BA0B0C
+
+1. Tàu thuyền quá cảnh phải làm thủ tục quá cảnh khi vào khu vực biên giới biển Việt Nam.
 
 ---
 
@@ -3193,6 +3770,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D84B3FA7-AF54-4986-BD1E-6D5F6818B09D
 
+1. Thủ tục biên phòng điện tử được thực hiện 24/24 giờ hàng ngày. Khi Cổng thông tin được kết nối với Cổng thông tin một cửa quốc gia, người làm thủ tục thực hiện khai báo các bản khai điện tử và gửi hồ sơ điện tử cho Biên phòng cửa khẩu cảng, tiếp nhận xác nhận hoàn thành thủ tục biên phòng điện tử cảng biển thông qua Cổng thông tin một cửa quốc gia theo các quy định về thủ tục điện tử đối với tàu, thuyền vào rời cảng biển, cảng dầu khí ngoài khơi thông qua Cơ chế một cửa quốc gia.
+
 ---
 
 
@@ -3203,6 +3782,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150000600
 
 **ID:** 76F2D6AF-5C5F-4F04-A5D7-D393FAB8D22D
+
+1. Các cơ quan, đơn vị, cá nhân trong Bộ đội Biên phòng sử dụng chữ ký số thực hiện theo quy định của pháp luật về cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng phục vụ các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.
 
 ---
 
@@ -3215,6 +3796,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1CF1F01D-29B3-4F6B-A0E7-76D0261A2397
 
+1. Nội dung kết nối
+
 ---
 
 
@@ -3225,6 +3808,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000170000000000000000000402528201120000600
 
 **ID:** 28ABE8FE-DB7F-4F99-A07E-7646C27397A4
+
+1. Bộ đội Biên phòng cửa khẩu
 
 ---
 
@@ -3237,6 +3822,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 51B91FD6-5A9C-498C-B947-311AC515989F
 
+1. Đối với công dân Việt Nam
+
 ---
 
 
@@ -3247,6 +3834,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040250760034000060000802547000435000600
 
 **ID:** D0B73C9B-4F97-43AC-9120-A8EC075D0A8B
+
+1. Đối với công dân Việt Nam
 
 ---
 
@@ -3259,6 +3848,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 032B5973-9675-4112-8525-70F888765F8C
 
+1. Thông tư này có hiệu lực sau 45 ngày kể từ ngày ký ban hành.
+
 ---
 
 
@@ -3269,6 +3860,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000050000000000000000000402148101400000700
 
 **ID:** 8B54344F-2599-4367-A1FC-0C730C1ADFD7
+
+1. Đường ranh giới phía ngoài vùng tiếp giáp lãnh hải là đường mà mỗi điểm cách đều điểm gần nhất của đường cơ sở dùng để tính chiều rộng lãnh hải là 24 hải lý.
 
 ---
 
@@ -3281,6 +3874,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 058867E1-FCCD-4B97-9D17-58E8467FCF27
 
+Nội thuỷ của Việt Nam bao gồm
+
 ---
 
 
@@ -3291,6 +3886,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000010000140000000000000000000402528201120000700
 
 **ID:** 0846247F-B80A-40CF-AD51-07E67A4B0751
+
+1. Sử dụng hộ chiếu, giấy tờ giả, hộ chiếu, giấy tờ trái với quy định pháp luật Việt Nam; tổ chức, đưa, đón dẫn đường, chuyên chở người xuất cảnh, nhập cảnh trái phép.
 
 ---
 
@@ -3303,6 +3900,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 82B3E89A-2DE2-4C7D-8B45-8157C03D3C57
 
+1. Người nước ngoài thường trú, tạm trú ở Việt Nam khi đến khu vực biên giới biển hoặc đến các đảo, quần đảo (trừ khu du lịch, dịch vụ, khu kinh tế) phải có hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu hợp lệ và có thị thực do cơ quan nhà nước có thẩm quyền của Việt Nam cấp (trừ trường hợp được miễn thị thực), giấy tờ liên quan đến cư trú tại Việt Nam và giấy phép vào khu vực biên giới biển của Công an cấp tỉnh nơi người đó thường trú, tạm trú hoặc Công an cấp tỉnh nơi đến cấp; trường hợp ở qua đêm phải thông qua người trực tiếp quản lý, điều hành cơ sở lưu trú để đăng ký lưu trú tại Công an cấp xã sở tại.
+
 ---
 
 
@@ -3313,6 +3912,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000050247980045000010000802513800220000700
 
 **ID:** 88C5C4C6-7DED-427B-852D-133CF23E8B23
+
+1. Ban Quản lý cửa khẩu được phép thu các loại phí, lệ phí đối với các dịch vụ hoặc công việc quản lý Nhà nước do Ban Quản lý cửa khẩu cung cấp và được quy định bởi pháp luật hiện hành về phí và lệ phí.
 
 ---
 
@@ -3325,6 +3926,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B5D71EA7-0C07-45B1-86E1-080FAE93181C
 
+Tàu thuyền chuyển cảng phải làm các thủ tục sau:
+
 ---
 
 
@@ -3335,6 +3938,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502575000100000700
 
 **ID:** 5A79EB17-CF41-4BCE-9183-FBAF6C982245
+
+1. Địa điểm
 
 ---
 
@@ -3347,6 +3952,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B1164053-5A20-477C-A66D-097EE96D541E
 
+1. Đồn trưởng Biên phòng cửa khẩu biên giới đất liền hoặc Phó Đồn trưởng Biên phòng cửa khẩu biên giới đất liền được Đồn trưởng Biên phòng cửa khẩu biên giới đất liền ủy quyền quyết định cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền theo quy định tại các khoản 2, 3 Điều này.
+
 ---
 
 
@@ -3357,6 +3964,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000802612000495000700
 
 **ID:** F813473A-000F-4FA5-9ABC-3155ED2C15AC
+
+1. Thủ tục biên phòng điện tử được thực hiện qua Cổng thông tin một cửa quốc gia đối với tàu thuyền Việt Nam nhập cảnh, xuất cảnh; tàu thuyền, thuyền viên nước ngoài nhập cảnh, xuất cảnh, quá cảnh; tàu biển hoạt động tuyến nội địa tại cửa khẩu cảng biển, cảng thủy nội địa, cảng dầu khí ngoài khơi theo quy định tại các Điều 5, 6, 7, 8, 9, 10, 12, 13 Quyết định số 34/2016/QĐ-TTg ngày 23 tháng 8 năm 2016 của Thủ tướng Chính phủ Quy định thủ tục điện tử đối với tàu thuyền vào, rời cảng biển, cảng thủy nội địa, cảng dầu khí ngoài khơi thông qua Cơ chế một cửa quốc gia.
 
 ---
 
@@ -3369,6 +3978,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 11D7F364-863F-41C8-8446-F98340DCF601
 
+1. Khi có dịch bệnh, Sở Y tế tỉnh có cửa khẩu, lối mở biên giới đất liền thông báo với Bộ Chỉ huy Bộ đội Biên phòng tỉnh, Cục Hải quan tỉnh và Ban Quản lý cửa khẩu;
+
 ---
 
 
@@ -3379,6 +3990,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000230000000000000000000802547000435000700
 
 **ID:** 70D59CEF-0F5D-4434-99CD-A9FB0011BEB8
+
+1. Cơ quan, tổ chức, cá nhân triển khai thực hiện các dự án, công trình hoặc tiến hành khảo sát, thăm dò, khai thác tài nguyên, khoáng sản được cơ quan có thẩm quyền phê duyệt trong khu vực biên giới phải có trách nhiệm quản lý người, phương tiện, giữ gìn an ninh, trật tự, an toàn xã hội trong thời gian hoạt động ở khu vực biên giới; đồng thời có trách nhiệm thông báo bằng văn bản theo Mẫu số 16 tại Phụ lục ban hành kèm theo Thông tư này cho Đồn Biên phòng, chính quyền địa phương sở tại để phối hợp quản lý.
 
 ---
 
@@ -3391,6 +4004,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E750D4CD-A069-4D7F-9622-2B3653CCA065
 
+1. Công dân Việt Nam (trừ cư dân biên giới) và người nước ngoài vào khu vực biên giới đất liền, nếu ở qua đêm phải đăng ký lưu trú tại cơ quan Công an cấp xã sở tại theo quy định của pháp luật. Trường hợp ở qua đêm trong vành đai biên giới phải thông báo bằng văn bản cho Đồn Biên phòng sở tại.
+
 ---
 
 
@@ -3401,6 +4016,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040255680071000090000802598201620000700
 
 **ID:** 6051E293-8D6B-4892-A704-DDFA663E0C10
+
+Hoạt động diễn tập quân sự; diễn tập tìm kiếm, cứu nạn; diễn tập an ninh hàng hải; tổ chức bắn đạn thật hoặc sử dụng vật liệu nổ trong khu vực biên giới biển theo quy định tại Điều 9 Nghị định số 71/2015/NĐ-CP phải thông báo bằng văn bản, thực hiện theo Mẫu số 08 quy định tại Phụ lục ban hành kèm theo Thông tư này được gửi trực tiếp hoặc gửi qua dịch vụ bưu chính, viễn thông.
 
 ---
 
@@ -3413,6 +4030,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BA83997F-11D9-4C82-A215-B45E3167A349
 
+1. Phạm vi khu vực biên giới trên đất liền tính từ biên giới quốc gia trên đất liền vào hết địa giới hành chính của xã, phường, thị trấn có một phần địa giới hành chính trùng hợp với biên giới quốc gia trên đất liền.
+
 ---
 
 
@@ -3423,6 +4042,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000800000000000000000
 
 **ID:** A1EB3F00-1947-443A-92AC-C7E358BDC5B3
+
+Vùng nước lịch sử là vùng nước do những điều kiện địa lý đặc biệt có ý nghĩa quan trọng đối với kinh tế, quốc phòng, an ninh của Việt Nam hoặc của Việt Nam và các quốc gia cùng có quá trình quản lý, khai thác, sử dụng lâu đời được Cộng hoà xã hội chủ nghĩa Việt Nam và các quốc gia hữu quan thỏa thuận sử dụng theo một quy chế đặc biệt bằng việc ký kết điều ước quốc tế.
 
 ---
 
@@ -3435,6 +4056,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 480BB52D-D5CA-47E5-909A-9F379133CF29
 
+1. Công dân Việt Nam:
+
 ---
 
 
@@ -3445,6 +4068,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000015000000000000000000040252820112000080000802572100095000800
 
 **ID:** BF390BF2-E4A2-4671-952B-D1F91C503EA3
+
+1. Công dân Việt Nam
 
 ---
 
@@ -3457,6 +4082,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 421489A8-6F6D-413F-B548-59009DB00A0A
 
+1. Ban Quản lý cửa khẩu thực hiện chế độ thông tin, báo cáo về các hoạt động xuất nhập khẩu hàng hóa; xuất nhập cảnh người, phương tiện giao thông vận tải; hoạt động dịch vụ hỗ trợ thương mại; công tác phối hợp với chính quyền địa phương và cơ quan quản lý cửa khẩu của nước có chung biên giới và các hoạt động khác tại cửa khẩu theo định kỳ hàng tháng; quý, sáu tháng và một năm hoặc đột xuất; các báo cáo định kỳ hoặc đột xuất được gửi về Sở Công Thương, Ủy ban nhân dân tỉnh, Ban Chỉ đạo thương mại biên giới Trung ương và cấp tỉnh, Bộ Công Thương và các Bộ, ngành có liên quan.
+
 ---
 
 
@@ -3467,6 +4094,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770000800
 
 **ID:** F778BDDB-1202-4102-B08B-67FED706A329
+
+1. Đối với tàu thuyền
 
 ---
 
@@ -3479,6 +4108,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A070A1D2-367C-484B-B4C0-0B590D5E6ADF
 
+1. Trách nhiệm của Bộ Quốc phòng
+
 ---
 
 
@@ -3489,6 +4120,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000502687000150000800
 
 **ID:** 95E3C6F3-C134-4757-B6E8-6C4625AB0EC5
+
+1. Đồn trưởng Biên phòng cửa khẩu biên giới đất liền hoặc Phó Đồn trưởng Biên phòng cửa khẩu biên giới đất liền được Đồn trưởng Biên phòng cửa khẩu biên giới đất liền ủy quyền quyết định hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền theo quy định tại các khoản 2, 3 Điều này.
 
 ---
 
@@ -3501,6 +4134,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B5680C7A-4C32-47A7-84AE-47D273A68ED7
 
+1. Cổng thông tin một cửa quốc gia có sự cố.
+
 ---
 
 
@@ -3511,6 +4146,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000180000000000000000000402556800710000800
 
 **ID:** 0D5C33E7-6715-4CC1-9B32-C7848F7F08EE
+
+1. Tàu thuyền nước ngoài hoạt động trong khu vực biên giới biển phải có các giấy tờ (bản chính) sau:
 
 ---
 
@@ -3523,6 +4160,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4FA7F28C-B939-4537-B3C9-58189BFD3F13
 
+1. Việc xây dựng các dự án, công trình trong khu vực biên giới đất liền không được làm ảnh hưởng công trình biên giới; thay đổi dấu hiệu nhận biết đường biên giới, hư hại, hủy hoại hoặc mất mốc quốc giới; không vi phạm các hiệp định về quy chế biên giới mà Cộng hòa xã hội chủ nghĩa Việt Nam đã ký kết với các nước láng giềng.
+
 ---
 
 
@@ -3533,6 +4172,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000024000000000000000000040250760034000060000802547000435000800
 
 **ID:** 42BEE768-A590-472C-AC13-9A345C280C04
+
+1. Chỉ huy trưởng Bộ đội Biên phòng cấp tỉnh, Đồn trưởng Đồn Biên phòng có thẩm quyền tạm dừng các hoạt động trong khu vực biên giới theo quy định tại Điều 10 Nghị định số 34/2014/NĐ-CP.
 
 ---
 
@@ -3545,6 +4186,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4ABB5505-1B3A-4F91-9EB0-DA0F90C5000B
 
+Hoạt động thăm dò, nghiên cứu khoa học, khảo sát địa chất, khoáng sản, tài nguyên, nguồn lợi thủy sản, hải sản trong khu vực biên giới biển theo quy định tại Điều 10 Nghị định số 71/2015/NĐ-CP chịu sự kiểm tra, giám sát của Bộ đội Biên phòng, các cơ quan chức năng có thẩm quyền và phải thông báo bằng văn bản theo Mẫu số 09, 10 quy định tại Phụ lục ban hành kèm theo Thông tư này được gửi trực tiếp hoặc gửi qua dịch vụ bưu chính, viễn thông.
+
 ---
 
 
@@ -3555,6 +4198,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000100000900000000000000000
 
 **ID:** 1098F65D-11FF-45E0-954C-F1269314D100
+
+Lãnh hải của Việt Nam rộng mười hai hải lý tính từ đường cơ sở ra phía ngoài. Lãnh hải của Việt Nam bao gồm lãnh hải của đất liền, lãnh hải của đảo, lãnh hải của quần đảo.
 
 ---
 
@@ -3567,6 +4212,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 03A4A310-63A9-4025-8049-4B0927F8D322
 
+1. Phương tiện Việt Nam, nước ngoài khi xuất cảnh, nhập cảnh qua cửa khẩu biên giới phải tuân thủ pháp luật Việt Nam và các điều ước quốc tế về vận tải mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, phải chịu sự kiểm tra, kiểm soát, giám sát của các cơ quan quản lý nhà nước chuyên ngành tại cửa khẩu.
+
 ---
 
 
@@ -3577,6 +4224,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000160000000000000000000402623700770000900
 
 **ID:** 26D556FD-1470-41F2-AD94-2DD0EA1CF72F
+
+1. Trách nhiệm của Biên phòng cửa khẩu cảng
 
 ---
 
@@ -3589,6 +4238,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 24404BE2-8278-40A9-AAFF-617A0E1D5CD2
 
+1. Khi Cổng thông tin thủ tục biên phòng điện tử được hoàn thiện kết nối với Cổng thông tin một cửa quốc gia, Biên phòng cửa khẩu biên giới đất liền và người làm thủ tục thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền thông qua Cổng thông tin một cửa quốc gia theo quy định về thực hiện Cơ chế một cửa quốc gia và quy định tại Quyết định này.
+
 ---
 
 
@@ -3599,6 +4250,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000016000000000000000000040262370077000100000802612000495000900
 
 **ID:** FE2A66C0-C0B4-4189-9692-B527E4F93EB2
+
+1. Thời gian bắt đầu thực hiện thủ tục biên phòng điện tử được xác định từ thời điểm Biên phòng cửa khẩu cảng tiếp nhận đầy đủ hồ sơ điện tử qua Cổng thông tin.
 
 ---
 
@@ -3611,6 +4264,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2CF45962-BD22-4B3E-89EB-EFF60E30EACA
 
+1. Địa điểm kiểm tra, kiểm soát, giám sát biên phòng: Quy định tại Khoản 1, 2, 3, 4, 5 Điều 11 Nghị định số 112/2014/NĐ-CP và khu vực mốc quốc giới, khu vực có điểm (vật) đánh dấu đường biên giới, các khu vực liên quan đến an ninh quốc gia, tác chiến phòng thủ trong khu vực cửa khẩu.
+
 ---
 
 
@@ -3621,6 +4276,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000023000000000000000000040255680071000110000802598201620000900
 
 **ID:** 4E64D373-7777-45CE-B233-9C3EEB41376E
+
+Cơ quan, tổ chức khảo sát, thiết kế, thi công, xây dựng các dự án, công trình liên quan đến quốc phòng, an ninh hoặc có yếu tố nước ngoài trong khu vực biên giới biển theo quy định tại Khoản 1 và Khoản 3 Điều 11 Nghị định số 71/2015/NĐ-CP phải thông báo bằng văn bản thực hiện theo Mẫu số 11 tại Phụ lục ban hành kèm theo Thông tư này.
 
 ---
 
@@ -3633,6 +4290,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2402E868-5D78-4F95-8152-BBC1A0A23816
 
+Chỉ đạo Bộ Chỉ huy Bộ đội Biên phòng các tỉnh biên giới đất liền:
+
 ---
 
 
@@ -3643,6 +4302,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000020000240000000000000000000402507600340000900
 
 **ID:** B7FA61F5-3F58-4113-A4D7-77A84BB570E5
+
+1. Trong khu vực biên giới đất liền có biển báo "khu vực biên giới", "vành đai biên giới", "vùng cấm" và các biển báo khác theo quy định của pháp luật.
 
 ---
 
@@ -3655,6 +4316,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** AB3A412A-C553-450E-8EE8-5DC1D378CD05
 
+Diễn tập quân sự; diễn tập tìm kiếm, cứu nạn; an ninh hàng hải; tổ chức bắn đạn thật hoặc sử dụng vật liệu nổ trong khu vực biên giới biển thực hiện theo kế hoạch đã được cấp có thẩm quyền phê duyệt và thông báo cho đối tượng liên quan biết, đồng thời khi tiến hành phải thông báo bằng văn bản trước 10 ngày làm việc cho Ủy ban nhân dân và Bộ đội Biên phòng cấp tỉnh sở tại, Vùng Hải quân, Vùng Cảnh sát biển, Cục Hàng hải Việt Nam, Hải đoàn Biên phòng (nếu các hoạt động trên diễn ra ở các vùng biển).
+
 ---
 
 
@@ -3665,6 +4328,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010040000000000030000270000000000000000000402148101400000900
 
 **ID:** CF34A40E-E09A-4E40-B7D3-B6DD8E978474
+
+1. Công trình biên giới được ưu tiên đầu tư xây dựng theo kế hoạch, bao gồm công trình để cố định đường biên giới và công trình phục vụ hoạt động quản lý, bảo vệ biên giới quốc gia.
 
 ---
 
@@ -3677,6 +4342,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DED746EE-88A0-42E3-9F37-75C6BF2BD099
 
+1. Quyết định này có hiệu lực thi hành kể từ ngày 18 tháng 4 năm 2016.
+
 ---
 
 
@@ -3687,6 +4354,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100400000000000600004180251380022000090
 
 **ID:** 8D05D944-56FE-41F0-A7B2-560D2FB40178
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2014.
 
 ---
 
@@ -3699,6 +4368,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D95CD356-D651-42B3-A93F-3BA4BBA62FB1
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3709,6 +4380,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000002000
 
 **ID:** 509D2E8D-E938-4781-86D6-065A0C3E7D13
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3721,6 +4394,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B1E9C885-F16A-4BA4-BF91-A996A42A489F
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3731,6 +4406,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01004000000000004000
 
 **ID:** DB212D88-42C5-4117-8027-D5A86A779EFA
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3743,6 +4420,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 781A5382-A2EF-4B61-864D-FD07CD9E8241
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3754,6 +4433,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6D7CDE9C-AE30-407B-AE13-A78BE739521D
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3764,6 +4445,7 @@ parent: an-ninh-quoc-gia
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 340
+- **Điều khoản có nội dung:** 331 (97.4%)
 - **ID đề mục:** 8b06986b-89cf-4a8d-8a2f-e14ff9e3123e
 
 ## 🔍 Tìm kiếm

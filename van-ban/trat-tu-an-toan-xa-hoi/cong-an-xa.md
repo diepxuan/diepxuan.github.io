@@ -12,6 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Công an xã  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 39  
+**Điều khoản có nội dung:** 34/39 (87.2%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 3B8218E7-49C2-49BB-8A86-FFEDCB1B538E
 
+Pháp lệnh này quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức, hoạt động của Công an xã; trách nhiệm của cơ quan, tổ chức, cá nhân và chế độ, chính sách đối với Công an xã.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000100000240233810073000010
 
 **ID:** F12A9CAC-E977-415B-BCFA-0945C6C4EB83
+
+1. Nghị định này quy định chi tiết thi hành một số điều của Pháp lệnh Công an xã về: khung số lượng Phó trưởng Công an xã và Công an viên; tiêu chuẩn tuyển chọn, đào tạo, huấn luyện, trang phục, phù hiệu, Giấy chứng nhận Công an xã; chế độ, chính sách và điều kiện vật chất bảo đảm cho hoạt động của Công an xã.
 
 ---
 
@@ -47,6 +52,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 049CCDD7-83A6-4E36-B81F-E8BA1770141C
 
+1. Công an xã gồm các chức danh: Trưởng Công an xã, Phó trưởng Công an xã và Công an viên.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000200001100000000000000000
 
 **ID:** 38A28019-DC96-48E9-9F10-5C033B8F55A8
+
+Trưởng Công an xã có trách nhiệm tổ chức thực hiện nhiệm vụ, quyền hạn của Công an xã quy định tại Điều 9 của Pháp lệnh này; chịu trách nhiệm trước pháp luật, trước Uỷ ban nhân dân cùng cấp và Công an cấp trên về hoạt động của Công an xã.
 
 ---
 
@@ -69,6 +78,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** DD38105F-66E2-4A59-93B4-F29C54330B44
 
+Phó trưởng Công an xã giúp Trưởng Công an xã thực hiện nhiệm vụ theo sự phân công của Trưởng Công an xã; khi Trưởng Công an xã vắng mặt thì Phó trưởng Công an xã được Trưởng Công an xã ủy quyền thực hiện nhiệm vụ, quyền hạn của Trưởng Công an xã.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000200001300000000000000000
 
 **ID:** 9FF36669-FE4C-4862-AEBB-0C17F40058F4
+
+Công an viên thực hiện nhiệm vụ theo sự phân công của Trưởng Công an xã; chịu trách nhiệm triển khai thực hiện chủ trương, kế hoạch, biện pháp bảo đảm an ninh, trật tự, an toàn xã hội ở địa bàn dân cư do mình phụ trách và thực hiện các nhiệm vụ khác về bảo đảm an ninh, trật tự, an toàn xã hội do Trưởng Công an xã giao.
 
 ---
 
@@ -91,6 +104,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 903FFFAC-777E-4F1D-994F-A50B1BF346BD
 
+1. Nguồn kinh phí phục vụ hoạt động của Công an xã gồm ngân sách trung ương và ngân sách địa phương.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000300001500000000000000000
 
 **ID:** 79F8403A-1462-4DB7-BB78-B0830B867255
+
+1. Công an xã có trụ sở hoặc nơi làm việc riêng phù hợp với điều kiện và yêu cầu nhiệm vụ bảo đảm an ninh, trật tự, an toàn xã hội ở cơ sở.
 
 ---
 
@@ -113,6 +130,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 34EB9B60-0C97-458B-B2D3-F32AAC13AD27
 
+Trưởng Công an xã, Phó trưởng Công an xã và Công an viên được trang bị, sử dụng trang phục, phù hiệu, giấy chứng nhận Công an xã theo quy định của Chính phủ.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000300001700000000000000000
 
 **ID:** 9B14AB8B-3D53-4DAB-9F15-DFBBD460DE8A
+
+1. Trưởng Công an xã, Phó trưởng Công an xã phải được đào tạo, bồi dưỡng theo quy định của Chính phủ.
 
 ---
 
@@ -135,6 +156,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** FD1EBA9B-BEE9-42A6-8DAA-26B2C23543FC
 
+1. Trưởng Công an xã được hưởng lương và phụ cấp theo quy định của pháp luật.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000300001900000000000000000
 
 **ID:** 86C4DA14-33B7-43F6-9BED-A9FC3B8406EE
+
+1. Trưởng Công an xã, Phó trưởng Công an xã và Công an viên thực hiện bảo hiểm xã hội và bảo hiểm y tế theo quy định của pháp luật.
 
 ---
 
@@ -157,6 +182,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** EECEE02D-5349-4CE8-8642-74C2E0FCEEF6
 
+Pháp lệnh này áp dụng đối với Công an xã và cơ quan, tổ chức, cá nhân trên lãnh thổ Việt Nam.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000100000240233810073000020
 
 **ID:** 2CFC13FF-BFFE-4858-82A5-4C955E90D7A4
+
+Nghị định này áp dụng đối với Công an xã và các cơ quan, tổ chức, cá nhân liên quan đến hoạt động của Công an xã trên toàn lãnh thổ Việt Nam.
 
 ---
 
@@ -179,6 +208,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** D70B980F-48F9-4870-86F2-C25D6278B1A4
 
+1. Chính phủ thống nhất quản lý nhà nước về Công an xã.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000400002100000000000000000
 
 **ID:** 14AEA7FC-9B5D-4782-B456-B141BE4B7D58
+
+1. Trình Chính phủ ban hành hoặc ban hành theo thẩm quyền và tổ chức thực hiện các văn bản quy phạm pháp luật về Công an xã.
 
 ---
 
@@ -201,6 +234,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 1ACD5512-0262-482C-B4D3-094F73F1D25A
 
+Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Công an thực hiện quản lý nhà nước về Công an xã theo quy định của Pháp lệnh này và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000400002300000000000000000
 
 **ID:** A7DCCA49-32DF-41E8-8DFB-C08B6CED8CB4
+
+Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về Công an xã theo quy định của Pháp lệnh này và các quy định khác của pháp luật có liên quan, bao gồm:
 
 ---
 
@@ -223,6 +260,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 893AA863-D448-4D61-852B-4E007F49E585
 
+1. Các quy định của Pháp lệnh này được áp dụng đối với Công an thị trấn nơi chưa bố trí tổ chức Công an chính quy.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000600002500000000000000000
 
 **ID:** 4EDEE97D-E584-481E-937E-ECC7406E4E0E
+
+Chính phủ và các cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Pháp lệnh; hướng dẫn những nội dung cần thiết khác của Pháp lệnh này để đáp ứng yêu cầu quản lý nhà nước.
 
 ---
 
@@ -245,6 +286,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 7FFD1881-E06C-4DD8-B666-47E4A3527082
 
+1. Công an xã là lực lượng vũ trang bán chuyên trách, thuộc hệ thống tổ chức của Công an nhân dân, làm nòng cốt trong phong trào toàn dân bảo vệ an ninh Tổ quốc, giữ gìn trật tự, an toàn xã hội trên địa bàn xã.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390020000000000020000100000000000000000000402338100730000300
 
 **ID:** E18225E4-9675-4D80-BF00-A655334B74EA
+
+1. Xã trọng điểm, phức tạp về an ninh, trật tự là xã có vị trí quan trọng về chính trị, kinh tế, văn hóa – xã hội, an ninh – quốc phòng hoặc nơi có tình hình an ninh chính trị thường xuyên có diễn biến phức tạp.
 
 ---
 
@@ -267,6 +312,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5F19D2CC-EF1E-4DEF-B231-21C99A6F9907
 
+1. Công an xã chịu sự lãnh đạo trực tiếp, toàn diện của cấp ủy Đảng, sự quản lý, điều hành của Uỷ ban nhân dân cùng cấp và sự chỉ đạo, hướng dẫn nghiệp vụ của Công an cấp trên.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390020000000000010000050000000000000000000402338100730000400
 
 **ID:** E7053A17-C4DA-41AD-B0C5-32AC49679BDA
+
+1. Công dân Việt Nam từ đủ 18 tuổi trở lên, có đủ các tiêu chuẩn dưới đây thì được xem xét, tuyển chọn vào Công an xã nơi mình cư trú:
 
 ---
 
@@ -289,6 +338,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 8E20E69C-5511-489D-9917-B3A330318D0D
 
+1. Công dân Việt Nam có đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, trình độ học vấn, sức khỏe theo quy định của Chính phủ, có nguyện vọng và năng khiếu phù hợp với công tác công an thì được xem xét, tuyển chọn vào Công an xã.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390020000000000030000190000000000000000000402338100730000500
 
 **ID:** E5F67B06-A4A1-4B79-BBCA-F0115C235B58
+
+1. Trưởng Công an xã, Phó trưởng Công an xã được đào tạo, bồi dưỡng, huấn luyện tại Trung tâm huấn luyện và bồi dưỡng nghiệp vụ của Công an cấp tỉnh hoặc các trường Trung học Cảnh sát nhân dân, Trung học An ninh nhân dân.
 
 ---
 
@@ -311,6 +364,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5D5D6E57-661C-4763-AA9F-5E812E8DE333
 
+1. Cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình giám sát việc thực hiện pháp luật về Công an xã.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390020000000000030000160000000000000000000402338100730000600
 
 **ID:** 8230044F-80E8-4BC6-9C62-437CEFDCD34E
+
+1. Trang phục và niên hạn sử dụng trang phục của Công an xã được quy định như sau:
 
 ---
 
@@ -333,6 +390,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5D9B356A-14AB-4D80-A676-A48C93435976
 
+1. Công an xã chủ trì, phối hợp với Dân quân tự vệ, đơn vị Quân đội nhân dân, Công an nhân dân, cơ quan, tổ chức trên địa bàn xã thực hiện nhiệm vụ bảo vệ an ninh, trật tự, an toàn xã hội trên địa bàn xã.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390020000000000030000180000000000000000000402338100730000700
 
 **ID:** 6FCD60AE-EBA0-419E-AEAE-6CB5A17D6FC3
+
+1. Trưởng Công an xã, Phó trưởng Công an xã và Công an viên được hưởng chế độ lương, phụ cấp theo quy định của Chính phủ về chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị trấn.
 
 ---
 
@@ -355,6 +416,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** B1EFB922-8761-462C-850F-D7F928B9DD45
 
+1. Tổ chức, sử dụng lực lượng Công an xã trái với quy định của Pháp lệnh này.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390020000000000030000140000000000000000000402338100730000800
 
 **ID:** E443FBDB-70D7-424A-8C57-706D65EB9A8C
+
+1. Nguồn kinh phí bảo đảm cho hoạt động của Công an xã gồm ngân sách trung ương và ngân sách địa phương.
 
 ---
 
@@ -377,6 +442,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 81C1F513-7F2E-4D35-BFA3-5EFAEEDC918F
 
+1. Nắm tình hình an ninh, trật tự, an toàn xã hội trên địa bàn xã, đề xuất với cấp ủy Đảng, Uỷ ban nhân dân cùng cấp và cơ quan Công an cấp trên về chủ trương, kế hoạch, biện pháp bảo đảm an ninh, trật tự, an toàn xã hội và tổ chức thực hiện chủ trương, kế hoạch, biện pháp đó.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3900200000000000600002540233810073000090
 
 **ID:** A1CE0207-8BAC-4B67-81B7-2CA76E4AD7AA
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 10 năm 2009 và thay thế Nghị định số 40/1999/NĐ-CP ngày 23 tháng 6 năm 1999 của Chính phủ về Công an xã.
 
 ---
 
@@ -399,6 +468,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 1EE0FB68-CF6F-4BC3-AFE4-260FFCD8CC83
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 39002000000000002000
 
 **ID:** 0D3B430A-78F6-4623-864A-11281B0DC7B2
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -421,6 +494,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 4FD1F69E-4CC5-49BF-A6AE-E78DF0AF3BAC
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 39002000000000004000
 
 **ID:** 63D3F331-A131-4774-9A87-936A333CAE16
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -443,6 +520,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 88D02271-C4F8-4D05-8EBD-4F3F7A79E0B0
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -453,6 +532,7 @@ parent: trat-tu-an-toan-xa-hoi
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 39
+- **Điều khoản có nội dung:** 34 (87.2%)
 - **ID đề mục:** e51fdb4d-9c73-44bc-9fae-10c4cde48953
 
 ## 🔍 Tìm kiếm
