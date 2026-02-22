@@ -1,1 +1,33 @@
-markdown: GFM
+# Jekyll configuration for docs.diepxuan.com
+title: docs.diepxuan.com
+description: Documentation and legal database
+baseurl: ""
+url: "https://docs.diepxuan.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections for van-ban
+collections:
+  topics:
+    output: true
+    permalink: /van-ban/:slug/
+  
+  subtopics:
+    output: true
+    permalink: /van-ban/:parent/:slug/
+
+# Defaults for collections
+defaults:
+  - scope:
+      path: ""
+      type: "topics"
+    values:
+      layout: "default"
+  
+  - scope:
+      path: ""
+      type: "subtopics"
+    values:
+      layout: "default"
