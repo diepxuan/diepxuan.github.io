@@ -1,36 +1,52 @@
 # Jekyll configuration for van-ban
 title: Bộ Pháp điển Điện tử
 description: Hệ thống pháp luật chính thức của Việt Nam
-baseurl: /van-ban
-url: https://docs.diepxuan.com
+baseurl: "/van-ban"
+url: "https://docs.diepxuan.com"
 
-# Permalinks
+# Build settings
+markdown: kramdown
 permalink: pretty
 
-# Collections
+# Collections for new structure
 collections:
-  redirects:
+  topics:
     output: true
-    permalink: /:path/
-  pages:
+    permalink: /van-ban/:slug/
+  
+  subtopics:
     output: true
-    permalink: /:path/
+    permalink: /van-ban/:parent/:slug/
 
 # Defaults
 defaults:
   - scope:
       path: ""
+      type: "topics"
+    values:
+      layout: "default"
+  
+  - scope:
+      path: ""
+      type: "subtopics"
+    values:
+      layout: "default"
+  
+  - scope:
+      path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
 
-# Exclude
+# Exclude from processing
 exclude:
-  - chu-de/
-  - de-muc/
-  - phap-dien/
-  - crawled/
-  - node_modules/
-  - vendor/
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .github
+  - .vscode
+  - phap-dien/
+  - crawled/
+  - scripts/
