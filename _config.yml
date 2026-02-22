@@ -8,6 +8,10 @@ url: "https://docs.diepxuan.com"
 markdown: kramdown
 permalink: pretty
 
+# Include directories for Jekyll
+include:
+  - van-ban/_pages
+
 # Collections for van-ban (direct from van-ban/_pages/)
 collections:
   vanban_topics:
