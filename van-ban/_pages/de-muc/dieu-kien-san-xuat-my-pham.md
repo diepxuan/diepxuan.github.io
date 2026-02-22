@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dieu-kien-san-xuat-my-pham/
 # Điều kiện sản xuất mỹ phẩm
 
 **Đề mục:** Điều kiện sản xuất mỹ phẩm  
-**Chủ đề:** [Y tế, dược](../chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 **Số điều khoản:** 68  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -696,7 +696,7 @@ permalink: /van-ban/de-muc/dieu-kien-san-xuat-my-pham/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](../chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

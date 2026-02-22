@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-na
 # Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam
 
 **Đề mục:** Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế](../chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 13  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -146,7 +146,7 @@ permalink: /van-ban/de-muc/to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-na
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](../chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

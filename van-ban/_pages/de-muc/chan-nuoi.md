@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chan-nuoi/
 # Chăn nuôi
 
 **Đề mục:** Chăn nuôi  
-**Chủ đề:** [Nông nghiệp, nông thôn](../chu-de/nong-nghiep-nong-thon/)  
+**Chủ đề:** [Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
 **Số điều khoản:** 244  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2456,7 +2456,7 @@ permalink: /van-ban/de-muc/chan-nuoi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Nông nghiệp, nông thôn](../chu-de/nong-nghiep-nong-thon/)  
+[← Danh sách đề mục của Nông nghiệp, nông thôn](/van-ban/chu-de/nong-nghiep-nong-thon/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

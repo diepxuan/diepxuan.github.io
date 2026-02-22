@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bao-ve-suc-khoe-nhan-dan/
 # Bảo vệ sức khỏe nhân dân
 
 **Đề mục:** Bảo vệ sức khỏe nhân dân  
-**Chủ đề:** [Y tế, dược](../chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 **Số điều khoản:** 102  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1036,7 +1036,7 @@ permalink: /van-ban/de-muc/bao-ve-suc-khoe-nhan-dan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](../chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

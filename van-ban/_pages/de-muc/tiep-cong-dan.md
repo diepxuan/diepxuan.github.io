@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/tiep-cong-dan/
 # Tiếp công dân
 
 **Đề mục:** Tiếp công dân  
-**Chủ đề:** [Khiếu nại, tố cáo](../chu-de/khieu-nai-to-cao/)  
+**Chủ đề:** [Khiếu nại, tố cáo](/van-ban/chu-de/khieu-nai-to-cao/)  
 **Số điều khoản:** 238  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2396,7 +2396,7 @@ permalink: /van-ban/de-muc/tiep-cong-dan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khiếu nại, tố cáo](../chu-de/khieu-nai-to-cao/)  
+[← Danh sách đề mục của Khiếu nại, tố cáo](/van-ban/chu-de/khieu-nai-to-cao/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

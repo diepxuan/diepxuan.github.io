@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/trung-cau-y-dan/
 # Trưng cầu ý dân
 
 **Đề mục:** Trưng cầu ý dân  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](../chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 62  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -636,7 +636,7 @@ permalink: /van-ban/de-muc/trung-cau-y-dan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](../chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

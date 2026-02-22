@@ -12,12 +12,12 @@ permalink: /van-ban/chu-de/bao-hiem/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Bảo hiểm y tế](../de-muc/bao-hiem-y-te/)**
-2. **[Kinh doanh bảo hiểm](../de-muc/kinh-doanh-bao-hiem/)**
+1. **[Bảo hiểm y tế](/van-ban/de-muc/bao-hiem-y-te/)**
+2. **[Kinh doanh bảo hiểm](/van-ban/de-muc/kinh-doanh-bao-hiem/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 2

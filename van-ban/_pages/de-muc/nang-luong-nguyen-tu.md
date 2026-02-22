@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/nang-luong-nguyen-tu/
 # Năng lượng nguyên tử
 
 **Đề mục:** Năng lượng nguyên tử  
-**Chủ đề:** [Khoa học, công nghệ](../chu-de/khoa-hoc-cong-nghe/)  
+**Chủ đề:** [Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 783  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -7846,7 +7846,7 @@ permalink: /van-ban/de-muc/nang-luong-nguyen-tu/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khoa học, công nghệ](../chu-de/khoa-hoc-cong-nghe/)  
+[← Danh sách đề mục của Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

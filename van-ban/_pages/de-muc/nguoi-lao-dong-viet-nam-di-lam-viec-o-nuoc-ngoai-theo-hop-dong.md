@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo
 # Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
 **Đề mục:** Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng  
-**Chủ đề:** [Lao động](../chu-de/lao-dong/)  
+**Chủ đề:** [Lao động](/van-ban/chu-de/lao-dong/)  
 **Số điều khoản:** 204  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2056,7 +2056,7 @@ permalink: /van-ban/de-muc/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Lao động](../chu-de/lao-dong/)  
+[← Danh sách đề mục của Lao động](/van-ban/chu-de/lao-dong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

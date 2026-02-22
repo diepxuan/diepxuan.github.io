@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/giao-thong-duong-thuy-noi-dia/
 # Giao thông đường thủy nội địa
 
 **Đề mục:** Giao thông đường thủy nội địa  
-**Chủ đề:** [Giao thông, vận tải](../chu-de/giao-thong-van-tai/)  
+**Chủ đề:** [Giao thông, vận tải](/van-ban/chu-de/giao-thong-van-tai/)  
 **Số điều khoản:** 940  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -9416,7 +9416,7 @@ permalink: /van-ban/de-muc/giao-thong-duong-thuy-noi-dia/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Giao thông, vận tải](../chu-de/giao-thong-van-tai/)  
+[← Danh sách đề mục của Giao thông, vận tải](/van-ban/chu-de/giao-thong-van-tai/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

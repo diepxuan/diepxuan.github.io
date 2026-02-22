@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/ngan-sach-nha-nuoc/
 # Ngân sách nhà nước
 
 **Đề mục:** Ngân sách nhà nước  
-**Chủ đề:** [Tài chính](../chu-de/tai-chinh/)  
+**Chủ đề:** [Tài chính](/van-ban/chu-de/tai-chinh/)  
 **Số điều khoản:** 838  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -8396,7 +8396,7 @@ permalink: /van-ban/de-muc/ngan-sach-nha-nuoc/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài chính](../chu-de/tai-chinh/)  
+[← Danh sách đề mục của Tài chính](/van-ban/chu-de/tai-chinh/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

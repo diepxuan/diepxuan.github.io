@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chu
 # Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 
 **Đề mục:** Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](../chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 50  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -516,7 +516,7 @@ permalink: /van-ban/de-muc/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chu
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](../chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

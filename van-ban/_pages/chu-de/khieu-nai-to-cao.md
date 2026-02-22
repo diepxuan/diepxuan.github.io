@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/khieu-nai-to-cao/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Khiếu nại](../de-muc/khieu-nai/)**
-2. **[Phòng, chống tham nhũng](../de-muc/phong-chong-tham-nhung/)**
-3. **[Tiếp công dân](../de-muc/tiep-cong-dan/)**
-4. **[Tố cáo](../de-muc/to-cao/)**
+1. **[Khiếu nại](/van-ban/de-muc/khieu-nai/)**
+2. **[Phòng, chống tham nhũng](/van-ban/de-muc/phong-chong-tham-nhung/)**
+3. **[Tiếp công dân](/van-ban/de-muc/tiep-cong-dan/)**
+4. **[Tố cáo](/van-ban/de-muc/to-cao/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

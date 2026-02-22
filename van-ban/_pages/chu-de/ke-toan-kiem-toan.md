@@ -12,12 +12,12 @@ permalink: /van-ban/chu-de/ke-toan-kiem-toan/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Kế toán](../de-muc/ke-toan/)**
-2. **[Kiểm toán độc lập](../de-muc/kiem-toan-doc-lap/)**
+1. **[Kế toán](/van-ban/de-muc/ke-toan/)**
+2. **[Kiểm toán độc lập](/van-ban/de-muc/kiem-toan-doc-lap/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 2

@@ -12,12 +12,12 @@ permalink: /van-ban/chu-de/giao-duc-dao-tao/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Giáo dục](../de-muc/giao-duc/)**
-2. **[Giáo dục đại học](../de-muc/giao-duc-dai-hoc/)**
+1. **[Giáo dục](/van-ban/de-muc/giao-duc/)**
+2. **[Giáo dục đại học](/van-ban/de-muc/giao-duc-dai-hoc/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 2

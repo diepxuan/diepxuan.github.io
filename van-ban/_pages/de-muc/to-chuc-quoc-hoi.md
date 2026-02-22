@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/to-chuc-quoc-hoi/
 # Tổ chức Quốc hội
 
 **Đề mục:** Tổ chức Quốc hội  
-**Chủ đề:** [Tổ chức bộ máy nhà nước](../chu-de/to-chuc-bo-may-nha-nuoc/)  
+**Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/chu-de/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 249  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2506,7 +2506,7 @@ permalink: /van-ban/de-muc/to-chuc-quoc-hoi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước](../chu-de/to-chuc-bo-may-nha-nuoc/)  
+[← Danh sách đề mục của Tổ chức bộ máy nhà nước](/van-ban/chu-de/to-chuc-bo-may-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/giao-duc-quoc-phong-va-an-ninh/
 # Giáo dục quốc phòng và an ninh
 
 **Đề mục:** Giáo dục quốc phòng và an ninh  
-**Chủ đề:** [Quốc phòng](../chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
 **Số điều khoản:** 232  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2336,7 +2336,7 @@ permalink: /van-ban/de-muc/giao-duc-quoc-phong-va-an-ninh/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](../chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/thue-xuat-khau-thue-nhap-khau/
 # Thuế xuất khẩu, thuế nhập khẩu
 
 **Đề mục:** Thuế xuất khẩu, thuế nhập khẩu  
-**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](../chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
+**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
 **Số điều khoản:** 280  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2816,7 +2816,7 @@ permalink: /van-ban/de-muc/thue-xuat-khau-thue-nhap-khau/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](../chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
+[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](/van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

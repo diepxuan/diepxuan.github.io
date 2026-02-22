@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chung-minh-nhan-dan/
 # Chứng minh nhân dân
 
 **Đề mục:** Chứng minh nhân dân  
-**Chủ đề:** [Trật tự, an toàn xã hội](../chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 32  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -336,7 +336,7 @@ permalink: /van-ban/de-muc/chung-minh-nhan-dan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội](../chu-de/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
