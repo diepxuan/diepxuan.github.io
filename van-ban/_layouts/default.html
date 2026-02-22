@@ -49,6 +49,29 @@
             color: #666;
         }
     </style>
+    <script>
+        // Fix URL sai: /van-ban/chu-de/de-muc/ → /van-ban/de-muc/
+        document.addEventListener('DOMContentLoaded', function() {
+            var currentPath = window.location.pathname;
+            
+            // Pattern: /van-ban/chu-de/de-muc/[slug]/
+            var wrongPattern = /^\/van-ban\/chu-de\/de-muc\/([^\/]+)\/$/;
+            var match = currentPath.match(wrongPattern);
+            
+            if (match) {
+                var slug = match[1];
+                var correctUrl = '/van-ban/de-muc/' + slug + '/';
+                
+                console.log('Fix URL sai:', currentPath, '→', correctUrl);
+                
+                // Redirect đến URL đúng
+                window.location.replace(correctUrl);
+                
+                // Hiển thị thông báo
+                document.body.innerHTML = '<div style="padding: 2rem; text-align: center;"><h2>Đang chuyển hướng...</h2><p>URL đúng: <a href="' + correctUrl + '">' + correctUrl + '</a></p><p>Nếu không tự động chuyển, vui lòng click link trên.</p></div>';
+            }
+        });
+    </script>
 </head>
 <body>
     <header>
