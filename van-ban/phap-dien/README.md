@@ -12,7 +12,7 @@ Tích hợp toàn bộ dữ liệu Pháp điển Điện tử (Bộ Tư pháp) v
 - **306 Đề mục** chuyên sâu
 - **76,303 Điều khoản** (chương, điều, khoản, điểm)
 - **Nguồn**: Bộ Pháp điển Điện tử - Bộ Tư pháp Việt Nam
-- **Database**: `sqlite/phapdien_complete.db` (36MB, 76,303 records)
+- **Database**: `sqlite/phapdien.db` (36MB, 76,303 records)
 
 ## 🗂 CẤU TRÚC THƯ MỤC
 
@@ -27,7 +27,7 @@ phap-dien/
 ├── json/                       # Dữ liệu gốc
 │   └── jsonData.js            # File JSON gốc (24.7MB)
 ├── sqlite/                     # SQLite database
-│   ├── phapdien_complete.db   # Database hoàn chỉnh (76,303 records)
+│   ├── phapdien.db            # Database hoàn chỉnh (76,303 records)
 │   ├── phapdien_simple.db     # Database cũ (18,649 records)
 │   └── phapdien.db            # Database gốc
 ├── markdown/                   # Markdown files
@@ -115,7 +115,7 @@ python3 analyze_structure.py
 ### Query SQLite
 ```sql
 -- Kết nối database hoàn chỉnh
-sqlite3 sqlite/phapdien_complete.db
+sqlite3 sqlite/phapdien.db
 
 -- Tìm kiếm entry cụ thể (entry sếp tìm)
 SELECT * FROM dieukhoan WHERE id = 'AA4C41EB-CC02-4629-8077-3691D02E64F2';
@@ -246,7 +246,7 @@ with open(file, 'r', encoding='utf-8') as f:
 
 - **2026-02-22**: **FIX QUAN TRỌNG** - Phát hiện parser cũ chỉ parse được 18,649/76,303 entries
 - **2026-02-22**: Tạo `advanced_parser.py` parse được toàn bộ 76,303 entries
-- **2026-02-22**: Tạo `phapdien_complete.db` với 76,303 records
+- **2026-02-22**: Tạo `phapdien.db` với 76,303 records (merge từ phapdien_complete.db)
 - **2026-02-22**: Xác minh entry "Điều 14.4.NĐ.3.10..." hợp lệ và có trong database
 - **2026-02-22**: Tích hợp vào github-io project
 - **2026-02-22**: Tạo build script hoàn chỉnh

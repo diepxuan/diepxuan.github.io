@@ -12,6 +12,7 @@ parent: van-hoa-the-thao-du-lich
 **Đề mục:** Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng  
 **Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 23  
+**Điều khoản có nội dung:** 23/23 (100.0%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** DD57A251-BB54-47E1-8129-2D667CB3C220
 
+Ban hành kèm theo Nghị định này Quy chế hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080000100
 
 **ID:** FCB0C24B-A797-4987-B08A-5C67431DC5BF
+
+Trò chơi điện tử bao gồm:
 
 ---
 
@@ -47,6 +52,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** F7817ADE-28D2-49BE-A09E-F148246C990B
 
+1. Thông tư này quy định chi tiết thi hành những nội dung sau đây của Quy chế hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng ban hành kèm theo Nghị định số 103/2009/NĐ-CP:
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080001000
 
 **ID:** 321EDF38-FDAF-440B-B6A1-00B897F716DC
+
+1. Đối tượng hoạt động trò chơi điện tử vi phạm quy định tại Thông tư này thì tuỳ theo tính chất, mức độ mà có thể bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.
 
 ---
 
@@ -69,6 +78,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** D078514F-DB4B-422A-A727-CD26845A2CD8
 
+Thông tư này có hiệu lực kể từ ngày 1 tháng 6 năm 2000 và thay thế Thông tư số 03/1998/TT-BVHTT ngày 22 tháng 6 năm 1998 của Bộ Văn hoá - Thông tin.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 41008012000000000000
 
 **ID:** DAFA6ACE-9303-4750-984F-038D18254F14
+
+Các Sở Văn hoá - Thông tin có trách nhiệm hướng dẫn cụ thể để thực hiện Thông tư này tại địa phương mình và thường xuyên kiểm tra, xử lý vi phạm theo đúng thẩm quyền.
 
 ---
 
@@ -91,6 +104,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** 8226F260-1B7F-4132-A3B0-88480461C334
 
+Uỷ ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương, các ông, bà Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng, Cục trưởng các Vụ, Cục thuộc Bộ Văn hoá - Thông tin có liên quan chịu trách nhiệm hướng dẫn, kiểm tra thực hiện Thông tư này.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000802348100047501400
 
 **ID:** A75EFAF4-5E01-476D-A31A-20E8F238A3AC
+
+1. Hoạt động trò chơi điện tử quy định tại Quy chế bao gồm cả trò chơi trực tuyến (online games) và trò chơi sử dụng các máy không kết nối với mạng Internet; không bao gồm trò chơi điện tử có thưởng dành cho người nước ngoài.
 
 ---
 
@@ -113,6 +130,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** 1E26A6E1-44DB-4525-9A61-E4B6D6B258D8
 
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2010.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080000200
 
 **ID:** D4556A75-9365-4447-AEB8-FBBD93DAA8BB
+
+Đối tượng hoạt động trò chơi điện tử bao gồm:
 
 ---
 
@@ -135,6 +156,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** D85C35B1-D160-4228-806D-42CC991F112C
 
+Một số từ ngữ quy định tại Quy chế hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng ban hành kèm theo Nghị định số 103/2009/NĐ-CP (sau đây gọi là Quy chế) được hiểu như sau:
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 41008002000000000000
 
 **ID:** 3EA17BBA-A4B7-4116-BF4A-1FB2284AC024
+
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2010 và thay thế Nghị định số 11/2006/NĐ-CP ngày 18 tháng 01 năm 2006 của Chính phủ ban hành Quy chế hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng.
 
 ---
 
@@ -157,6 +182,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** 11CDD2F4-096B-478F-BFDD-A946EB59CEFB
 
+Cá nhân, tổ chức sử dụng hoặc kinh doanh dịch vụ trò chơi điện tử chỉ được phép sử dụng máy hoặc băng, đĩa có nội dung vui chơi giải trí lành mạnh, góp phần phát triển thể chất, nâng cao nhận thức thẩm mỹ cho con người.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000802348100047500300
 
 **ID:** D08D881F-2700-4AD6-BF71-C54FE52093FF
+
+1. Các hoạt động văn hoá và kinh doanh dịch vụ văn hoá có nội dung kích động bạo lực, truyền bá các hành vi tội ác quy định tại điểm b khoản 1 Điều 3 Quy chế là những hoạt động trong đó có hình ảnh, ngôn ngữ, âm thanh, hành động miêu tả cảnh đánh đập, tra tấn, giết người dã man, tàn bạo và những hành vi khác xúc phạm đến nhân phẩm con người, trái với truyền thống yêu hoà bình và nhân ái của dân tộc Việt Nam, không nhằm tố cáo tội ác, không nhằm đề cao chính nghĩa, bao gồm:
 
 ---
 
@@ -179,6 +208,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** 917E4749-B7ED-4990-95E5-C216D85B7824
 
+Các tỉnh, thành phố trực thuộc Trung ương đã phê duyệt quy hoạch vũ trường, karaoke theo quy định tại Quy chế hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng ban hành kèm theo Nghị định số 11/2006/NĐ-CP ngày 18 tháng 01 năm 2006 của Chính phủ và Chỉ thị 17/2005/CT-TTg ngày 25 tháng 5 năm 2005 của Thủ tướng Chính phủ về chấn chỉnh các hoạt động tiêu cực trong quán bar, nhà hàng karaoke, vũ trường được tiếp tục cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh theo đúng quy hoạch đã được phê duyệt.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080000400
 
 **ID:** 74463581-FFF4-41F3-A5C5-C822DEC7FF39
+
+Nghiêm cấm các hành vi sau:
 
 ---
 
@@ -201,6 +234,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** CA8F8FD1-CC89-4AC6-B357-A4AB542E31D7
 
+1. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm hướng dẫn thi hành Nghị định này.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080000500
 
 **ID:** 59918A5C-45F4-4574-B1DD-066526BE2F0A
+
+Điều kiện kinh doanh.
 
 ---
 
@@ -223,6 +260,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** 85CCACF6-C130-45E3-A34D-B80379D3DCE1
 
+Thủ tục đăng ký kinh doanh:
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080000700
 
 **ID:** D0F37A18-FC72-4A5D-B968-5346796D731A
+
+Sau khi được cấp giấy phép đầu tư hoặc giấy chứng nhận đăng ký kinh doanh dịch vụ trò chơi điện tử, các đối tượng được phép kinh doanh; đối với đối tượng hợp tác kinh doanh hoặc liên doanh với nước ngoài khi hoạt động phải gửi văn bản đăng ký với Sở Văn hoá - Thông tin sở tại. Văn bản đăng ký phải ghi rõ số giấy phép đầu tư, ngày cấp giấy phép, cơ quan cấp, trụ sở của đơn vị, số điện thoại, địa điểm kinh doanh trò chơi điện tử và phải thực hiện những quy định có liên quan tại Thông tư này.
 
 ---
 
@@ -245,6 +286,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** D754AC9C-8F02-4D10-82D0-22076BF88369
 
+Tổ chức, cá nhân sử dụng hoặc kinh doanh trò chơi điện tử phải chịu trách nhiệm về nội dung, không được vi phạm các quy định cấm tại Điều 4 Thông tư này; Các điểm kinh doanh dịch vụ không được hoạt động quá 12 giờ đêm.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: van-hoa-the-thao-du-lich
 **Mã phân cấp:** 4100800100000000000000801996200080000900
 
 **ID:** 0CD3BF83-E5C4-44DF-83C6-17F765F52FDB
+
+1. Việc đưa nội dung trò chơi điện tử vào mạng máy tính phải được phép của Bộ Văn hoá - Thông tin theo quy định hiện hành.
 
 ---
 
@@ -267,6 +312,8 @@ parent: van-hoa-the-thao-du-lich
 
 **ID:** C7C86C82-B403-4239-A823-93B6BF944582
 
+Tên cơ quan chủ quản trực tiếp viết trên biển hiệu quy định tại điểm a khoản 3 Điều 23 Quy chế là cơ quan cấp trên trực tiếp quyết định về tổ chức, nhân sự, ngân sách hoặc giải quyết các chế độ, chính sách cho cơ quan, tổ chức viết, đặt biển hiệu, như Bộ Văn hoá, Thể thao và Du lịch là cơ quan chủ quản trực tiếp của Báo Văn hoá; Uỷ ban nhân dân thành phố Hà Nội là cơ quan chủ quản trực tiếp của Sở Giáo dục và Đào tạo Hà Nội; Đại học Quốc gia Hà Nội là cơ quan chủ quản trực tiếp của Đại học Khoa học xã hội và nhân văn; Tổng công ty X là cơ quan chủ quản trực tiếp của Công ty Y.
+
 ---
 
 
@@ -277,6 +324,7 @@ parent: van-hoa-the-thao-du-lich
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 23
+- **Điều khoản có nội dung:** 23 (100.0%)
 - **ID đề mục:** b8f68141-2d67-4c85-886c-58a9bbf45472
 
 ## 🔍 Tìm kiếm

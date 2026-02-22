@@ -168,7 +168,7 @@ def main():
     os.makedirs('../sqlite', exist_ok=True)
     
     # Kết nối database
-    db_path = '../sqlite/phapdien_complete.db'
+    db_path = '../sqlite/phapdien.db'
     
     # Xóa file cũ nếu tồn tại
     if os.path.exists(db_path):
@@ -236,7 +236,7 @@ def main():
         f.write(f'- **Số chủ đề (chude)**: {total_chude}\n')
         f.write(f'- **Số đề mục (demuc)**: {total_demuc}\n')
         f.write(f'- **Số điều khoản trong database**: {total_dieukhoan}\n')
-        f.write(f'- **Database file**: `sqlite/phapdien_complete.db`\n')
+        f.write(f'- **Database file**: `sqlite/phapdien.db`\n')
         f.write(f'- **Parser sử dụng**: `advanced_parser.py`\n')
         f.write(f'- **Kích thước database**: {os.path.getsize(db_path) / (1024*1024):.2f} MB\n\n')
         

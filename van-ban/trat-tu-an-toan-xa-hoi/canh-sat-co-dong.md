@@ -12,6 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Cảnh sát cơ động  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 90  
+**Điều khoản có nội dung:** 85/90 (94.4%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 17247C8F-4014-422B-9788-F01D88685B65
 
+Luật này quy định về vị trí, chức năng, nhiệm vụ, quyền hạn, tổ chức và hoạt động của Cảnh sát cơ động; bảo đảm điều kiện hoạt động, chế độ, chính sách đối với Cảnh sát cơ động; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000140264720021000010
 
 **ID:** E275E3FF-3F61-465F-BBFD-032019B00B78
+
+1. Nghị định này quy định về công tác bảo vệ vận chuyển hàng đặc biệt của Nhà nước (sau đây gọi tắt là hàng đặc biệt) trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam do lực lượng Cảnh sát nhân dân có trách nhiệm vũ trang bảo vệ.
 
 ---
 
@@ -47,6 +52,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 91FC0C8F-7D54-4576-8059-4E961F2B34EE
 
+Thông tư này quy định chi tiết thi hành Điều 14 của Pháp lệnh Cảnh sát cơ động về Giấy chứng nhận công tác đặc biệt, phù hiệu và trang phục chiến đấu của Cảnh sát cơ động.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000180256290058000010
 
 **ID:** 0390FB85-C7BA-4713-943E-CD6CB2181A9A
+
+1. Thông tư này quy định về thẩm quyền điều động và phân công trách nhiệm trong tuần tra, kiểm soát; nhiệm vụ, quyền hạn của cán bộ, chiến sĩ Cảnh sát cơ động trong tuần tra, kiểm soát; đối tượng, hình thức, trình tự thực hiện tuần tra, kiểm soát; xử lý vi phạm pháp luật và trang bị phương tiện, thiết bị kỹ thuật, động vật nghiệp vụ, vũ khí, công cụ hỗ trợ trong tuần tra, kiểm soát bảo đảm an ninh, trật tự, an toàn xã hội của lực lượng Cảnh sát cơ động.
 
 ---
 
@@ -69,6 +78,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 0046C15F-1228-4B5E-BDDF-AEACA8F69969
 
+1. Sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ theo quy định tại Điều 15 của Luật này.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000110000000000000000000402647200210001000
 
 **ID:** D3FA985A-7046-4F52-915B-4CF21266423E
+
+1. Trưởng đoàn vận chuyển là cán bộ thuộc cơ quan trực tiếp quản lý hàng đặc biệt được thủ trưởng cơ quan quản lý hàng đặc biệt phân công làm Trưởng đoàn vận chuyển hàng đặc biệt.
 
 ---
 
@@ -91,6 +104,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 53F8D1DE-1469-44B0-9005-7996876E29D5
 
+1. Tuần tra, kiểm soát công khai gồm:
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200001100000000000000000
 
 **ID:** DBE2B524-87AA-46E3-BF3E-61AE2D20BB07
+
+1. Hoạt động của Cảnh sát cơ động bảo vệ sự kiện, mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội và bảo vệ vận chuyển hàng đặc biệt bao gồm:
 
 ---
 
@@ -113,6 +130,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** A25825E7-246E-4564-9106-44EFCE534246
 
+1. Tổ chức bảo vệ an toàn hàng đặc biệt trong quá trình vận chuyển từ khi giao, nhận, bốc xếp hàng đặc biệt lên phương tiện vận chuyển; trên đường vận chuyển; đến địa điểm và hoàn thành việc giao, nhận nơi chuyển đến.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580001100
 
 **ID:** 48653C8C-ED42-4C9D-A647-03DB5DEFF048
+
+1. Tuần tra, kiểm soát công khai kết hợp với hóa trang được thực hiện trong các trường hợp sau đây:
 
 ---
 
@@ -135,6 +156,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 99B16B23-BFFE-4D61-AB7B-B7444DC49099
 
+Cơ quan quản lý hàng đặc biệt bố trí, sắp xếp nơi ăn, nghỉ cho các thành viên đoàn vận chuyển tại các địa phương trên tuyến vận chuyển hoặc nơi vận chuyển đến và chi trả phụ cấp trách nhiệm, bồi dưỡng và các khoản chi khác cho các thành viên đoàn công tác theo quy định của pháp luật.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200001200000000000000000
 
 **ID:** C2072E4E-93D0-42A1-A6DB-195DACD1EE97
+
+1. Cảnh sát cơ động tuần tra, kiểm soát khu vực, tuyến, địa bàn phức tạp về an ninh, trật tự hoặc khi có sự kiện chính trị quan trọng.
 
 ---
 
@@ -157,6 +182,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 8162058C-3BE5-46A2-9392-EAEAFE7FEBB6
 
+Trước khi tiến hành tuần tra, kiểm soát, đơn vị Cảnh sát cơ động phải tiến hành công tác điều tra cơ bản nắm tình hình, đặc điểm có liên quan đến công tác bảo đảm an ninh, trật tự, an toàn xã hội khu vực, mục tiêu, tuyến, địa bàn và xây dựng kế hoạch, phương án tuần tra, kiểm soát.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000110000000000000000000402647200210001300
 
 **ID:** 7D91AEEA-1EE4-4D27-8650-53F8673EEA30
+
+1. Chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác bảo vệ vận chuyển hàng đặc biệt.
 
 ---
 
@@ -179,6 +208,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 1F065B2A-1079-439E-A0D4-D344714B6B6B
 
+1. Đơn vị thuộc Bộ Tư lệnh Cảnh sát cơ động từ cấp Tiểu đoàn trở lên thực hiện tuần tra, kiểm soát có trách nhiệm:
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200001300000000000000000
 
 **ID:** AB8B814D-10C7-4A64-9AC5-651A6F8259F5
+
+1. Việc vào trụ sở của cơ quan, tổ chức, chỗ ở của cá nhân thực hiện theo quy định của pháp luật về phòng, chống khủng bố.
 
 ---
 
@@ -201,6 +234,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5EAB0D70-428B-4B56-8163-72E45C372CE0
 
+1. Chỉ đạo, hướng dẫn cơ quan, đơn vị thuộc thẩm quyền trực tiếp quản lý, bảo quản hàng đặc biệt thực hiện công tác tổ chức vận chuyển hàng đặc biệt và phối hợp với các cơ quan, tổ chức có liên quan để bảo vệ an toàn các chuyến vận chuyển hàng đặc biệt.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580001400
 
 **ID:** F66D0C3E-1DDC-462D-90EC-9B3F3248D19E
+
+1. Căn cứ tình hình thực tế và kế hoạch, phương án tuần tra, kiểm soát, Thủ trưởng đơn vị Cảnh sát cơ động phân công Trưởng ca, Tổ trưởng, số lượng cán bộ, chiến sĩ trong mỗi tổ và phương tiện, thiết bị kỹ thuật, động vật nghiệp vụ, vũ khí, công cụ hỗ trợ để tiến hành tuần tra, kiểm soát.
 
 ---
 
@@ -223,6 +260,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 6B44CAD5-7284-4D5F-B899-965CB0678D58
 
+1. Cảnh sát cơ động thực hiện các biện pháp công tác theo quy định của Luật Công an nhân dân và quy định của pháp luật có liên quan để thực hiện nhiệm vụ, quyền hạn được quy định tại Điều 9 và Điều 10 của Luật này, trong đó biện pháp vũ trang là chủ yếu.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000110000000000000000000402647200210001500
 
 **ID:** A5A06B75-ADE9-4027-92C9-6B27E342DF7E
+
+1. Phối hợp với cơ quan quản lý hàng đặc biệt và cơ quan, tổ chức có liên quan để tổ chức thực hiện có hiệu quả các quy định tại Nghị định này, đáp ứng yêu cầu công tác bảo vệ vận chuyển hàng đặc biệt.
 
 ---
 
@@ -245,6 +286,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** F74A3445-2D77-49FE-A07A-BA77A14FA63D
 
+1. Việc kiểm soát người, phương tiện, đồ vật, tài liệu được tiến hành trong các trường hợp sau:
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200001500000000000000000
 
 **ID:** E2BA1D31-1FBF-4CC5-B8C6-7195C5A5A239
+
+1. Khi thực hiện nhiệm vụ độc lập, cán bộ, chiến sĩ Cảnh sát cơ động được sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ và được nổ súng quân dụng theo quy định của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ.
 
 ---
 
@@ -267,6 +312,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 8004C602-E98F-46B4-BB6F-41F15B47F802
 
+1. Chỉ đạo các đơn vị thuộc quyền quản lý có liên quan phối hợp, hỗ trợ bảo vệ và xử lý khi xảy ra các tình huống, sự cố đối với các chuyến vận chuyển hàng đặc biệt trên tuyến, địa bàn vận chuyển.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580001600
 
 **ID:** FEEBD886-88E1-49BB-8084-4144D19C19F2
+
+Hiệu lệnh thực hiện kiểm soát của Cảnh sát cơ động được thực hiện bằng các hình thức sau:
 
 ---
 
@@ -289,6 +338,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 6C5B2DEA-CA3B-4D12-B965-9AE57024E58C
 
+1. Khi thực hiện nhiệm vụ theo quy định tại khoản 2 và khoản 3 Điều 9 của Luật này, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, cán bộ, chiến sĩ Cảnh sát cơ động được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó. Trường hợp thực hiện nhiệm vụ chống khủng bố, việc huy động người, phương tiện, thiết bị thực hiện theo quy định của Luật Phòng, chống khủng bố.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000110000000000000000000402647200210001700
 
 **ID:** C60A97AB-0C4F-48FD-A17D-4DBFCCABC9AC
+
+1. Tổ chức thực hiện và chỉ đạo các cơ quan, tổ chức, cá nhân thuộc thẩm quyền quản lý tại địa phương thực hiện nghiêm túc các quy định tại Nghị định này, các quy định khác của pháp luật có liên quan và hướng dẫn của Bộ Công an về công tác bảo vệ vận chuyển hàng đặc biệt.
 
 ---
 
@@ -311,6 +364,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 980E713B-A0C8-4761-AADE-1EBFD69A8609
 
+1. Kết thúc tuần tra, kiểm soát, Tổ trưởng tổ tuần tra phải tổng hợp báo cáo kết quả công tác và kết quả xử lý vi phạm pháp luật về an ninh, trật tự, an toàn xã hội trong ca tuần tra, kiểm soát.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200001700000000000000000
 
 **ID:** 923544B8-8E17-4E38-9E1C-5CCD9DD307F7
+
+1. Hệ thống tổ chức của Cảnh sát cơ động bao gồm:
 
 ---
 
@@ -333,6 +390,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** EAA4E9F0-4BD2-49F3-B726-05A5FDD7423B
 
+1. Hỗ trợ lực lượng Cảnh sát nhân dân làm nhiệm vụ vũ trang bảo vệ vận chuyển hàng đặc biệt trong việc phòng ngừa, phát hiện, ngăn chặn và xử lý các hành vi xâm phạm hàng đặc biệt hoặc cản trở trong quá trình vận chuyển.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580001800
 
 **ID:** F28FA665-083D-477B-89CF-BFA730706802
+
+1. Khi phát hiện vi phạm pháp luật về an ninh, trật tự, an toàn xã hội, cán bộ, chiến sĩ tuần tra, kiểm soát phải ngăn chặn, đình chỉ ngay hành vi vi phạm và nói rõ hành vi vi phạm cho người vi phạm biết.
 
 ---
 
@@ -355,6 +416,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 24DC43ED-DB61-4DB2-A260-DC45ECDEEC04
 
+1. Tuyệt đối trung thành với Tổ quốc, Nhân dân, với Đảng và Nhà nước; nghiêm chỉnh chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, điều lệnh Công an nhân dân, chỉ thị, mệnh lệnh của cấp trên.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580001900
 
 **ID:** 2FFD9F0A-D239-492B-A9A3-249327CA7443
+
+1. Trường hợp cần ngăn chặn kịp thời hành vi vi phạm pháp luật về an ninh, trật tự, an toàn xã hội hoặc để bảo đảm cho việc xử lý vi phạm pháp luật về an ninh, trật tự, an toàn xã hội, cán bộ, chiến sĩ đang thi hành nhiệm vụ tuần tra, kiểm soát có trách nhiệm áp dụng biện pháp ngăn chặn theo quy định của pháp luật. Việc áp dụng các biện pháp ngăn chặn phải đảm bảo đúng thẩm quyền, đối tượng, trình tự, thủ tục theo quy định của pháp luật.
 
 ---
 
@@ -377,6 +442,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** D480F04C-6952-4607-9DAB-A36F14DB1B92
 
+1. Tư lệnh Cảnh sát cơ động có trách nhiệm tổ chức thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 9 và Điều 10 của Luật này, chịu trách nhiệm trước pháp luật và Bộ trưởng Bộ Công an về hoạt động của Cảnh sát cơ động.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000500003340264720021000190
 
 **ID:** 98C84C0E-A745-4BCC-93E9-8EF0AC8C268A
+
+1. Nghị định này có hiệu lực thi hành từ ngày 10 tháng 4 năm 2018.
 
 ---
 
@@ -399,6 +468,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 3215D45F-2A27-4397-BE89-329225D9BD59
 
+1. Lực lượng Cảnh sát nhân dân.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000180251620031000020
 
 **ID:** 45E57B7E-CFAA-4D20-8359-3A53A03BAA0B
+
+Thông tư này áp dụng đối với sĩ quan, hạ sĩ quan nghiệp vụ và chuyên môn kỹ thuật; hạ sĩ quan, chiến sĩ phục vụ có thời hạn trong lực lượng Cảnh sát cơ động (gọi chung là cán bộ, chiến sĩ Cảnh sát cơ động); các đơn vị Cảnh sát cơ động và tổ chức, cá nhân có liên quan đến hoạt động của lực lượng Cảnh sát cơ động.
 
 ---
 
@@ -421,6 +494,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 4AE0D8C0-EC9D-466F-856C-B418A3815524
 
+Thông tư này áp dụng đối với cán bộ, chiến sĩ Cảnh sát cơ động khi thực hiện nhiệm vụ tuần tra, kiểm soát bảo đảm an ninh, trật tự, an toàn xã hội; Công an các đơn vị, địa phương và cơ quan, tổ chức, cá nhân có liên quan.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000200000000000000000
 
 **ID:** 5A935822-ACC3-47D2-90DF-EEF5D46AED9C
+
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -443,6 +520,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 51DBE43B-1A03-4708-83FB-7FE5FDAA03F3
 
+1. Phương tiện giao thông gồm: ô tô, mô tô, tàu, xuồng và các loại phương tiện khác được lắp đặt đèn, còi phát tín hiệu ưu tiên được quyền ưu tiên theo quy định của pháp luật. Hai bên thành ô tô, tàu, xuồng tuần tra có in phù hiệu Cảnh sát cơ động phản quang; hai bên bình xăng hoặc ở sườn hai bên thùng phía sau mô tô hai bánh tuần tra có phù hiệu Cảnh sát cơ động phản quang;
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200002000000000000000000
 
 **ID:** F4FF552B-B7C0-400E-BA16-FC06354B4012
+
+1. Bộ trưởng Bộ Công an điều động Cảnh sát cơ động trong phạm vi toàn quốc để thực hiện nhiệm vụ.
 
 ---
 
@@ -465,6 +546,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5D4A8C47-4865-4EA8-A617-E6AEC11FD1E2
 
+1. Bộ trưởng Bộ Công an chịu trách nhiệm hướng dẫn, kiểm tra việc thi hành Nghị định này.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580002100
 
 **ID:** 730511F4-A281-4344-B317-DAEA7885BA28
+
+1. Đèn phát tín hiệu ưu tiên được sử dụng liên tục trong các trường hợp sau:
 
 ---
 
@@ -487,6 +572,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 08F17072-7A65-4D53-9FA1-F563E6732BE8
 
+1. Nguyên tắc phối hợp được quy định như sau:
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000300002200000000000000000
 
 **ID:** 2BB11D02-9DAA-4E10-A756-B3DA2B8306A0
+
+Nhà nước bảo đảm kinh phí và cơ sở vật chất, đất đai, trụ sở, công trình cho hoạt động của Cảnh sát cơ động theo quy định của pháp luật có liên quan.
 
 ---
 
@@ -509,6 +598,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 4F95CB90-B1BB-45A7-BC16-0164B25471A4
 
+Thông tư này có hiệu lực thi hành kể từ ngày 20/12/2015.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000300002300000000000000000
 
 **ID:** BAA3C577-6490-4233-A089-96AD7E961561
+
+1. Nhà nước ưu tiên đầu tư trang bị hiện đại, nghiên cứu, ứng dụng thành tựu khoa học và công nghệ cho các hoạt động của Cảnh sát cơ động.
 
 ---
 
@@ -531,6 +624,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** B25D9B5B-73FB-4590-8304-85222987CF11
 
+1. Bộ Tư lệnh Cảnh sát cơ động có trách nhiệm:
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000300002400000000000000000
 
 **ID:** 096D40F7-FAA4-4299-AE45-1CE8D325B5AC
+
+1. Cảnh sát cơ động sử dụng trang phục, công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân theo quy định của Luật Công an nhân dân.
 
 ---
 
@@ -553,6 +650,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 414F8EFA-C79C-4FA4-BC81-E1B2E2C4ADEF
 
+1. Cán bộ, chiến sĩ Cảnh sát cơ động được hưởng chế độ, chính sách theo quy định của pháp luật đối với cán bộ, chiến sĩ Công an nhân dân.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000300002600000000000000000
 
 **ID:** 3C5D6433-4AED-431E-8E2E-F61B9F05FAC7
+
+1. Công dân Việt Nam không phân biệt nam, nữ, có phẩm chất chính trị, đạo đức, có sức khỏe, độ tuổi phù hợp với yêu cầu nhiệm vụ và tự nguyện thì được tuyển chọn vào Cảnh sát cơ động.
 
 ---
 
@@ -575,6 +676,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 9AC31982-24E2-4C3D-989D-05817B743EAC
 
+1. Cán bộ, chiến sĩ Cảnh sát cơ động được đào tạo, bồi dưỡng về chính trị, pháp luật, nghiệp vụ; huấn luyện quân sự, võ thuật và kiến thức cần thiết khác phù hợp với nhiệm vụ, quyền hạn được giao; khuyến khích phát triển tài năng để phục vụ lâu dài trong Cảnh sát cơ động.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000400002800000000000000000
 
 **ID:** A7770839-0C23-47C3-B0E5-AE1DE9E1D6A4
+
+1. Ban hành, trình cấp có thẩm quyền ban hành và tổ chức thực hiện chiến lược, chính sách, pháp luật về Cảnh sát cơ động.
 
 ---
 
@@ -597,6 +702,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 56CB953E-228A-4319-9B7F-D6CEDDD10A61
 
+1. Chính phủ thống nhất quản lý nhà nước đối với Cảnh sát cơ động.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000300000000000000000
 
 **ID:** 406FC792-F9B6-45BE-B1B5-04C2E678238E
+
+Cảnh sát cơ động là lực lượng vũ trang nhân dân thuộc Công an nhân dân Việt Nam, là lực lượng nòng cốt thực hiện biện pháp vũ trang bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội.
 
 ---
 
@@ -619,6 +728,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 477BF454-10A3-4D17-B0D5-E63C82C8EA9E
 
+1. Tiền mặt (tiền đồng Việt Nam), giấy tờ có giá (trái phiếu, tín phiếu, cổ phiếu, công trái và các loại giấy tờ có giá khác theo quy định của pháp luật) trong hệ thống Ngân hàng Nhà nước, Kho bạc Nhà nước.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000300
 
 **ID:** F22B07BA-1E06-4F9A-902B-DBB76AA9842A
+
+1. Tuân thủ quy định của Thông tư này, các quy định khác của pháp luật có liên quan và Điều lệnh Công an nhân dân; thực hiện đúng kế hoạch, phương án đã được cấp có thẩm quyền phê duyệt.
 
 ---
 
@@ -641,6 +754,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 203D2F40-0C0C-40ED-9733-05DBADB4E66B
 
+1. Giấy chứng nhận công tác đặc biệt, phù hiệu Cảnh sát cơ động phải được quản lý chặt chẽ, cấp đúng đối tượng, sử dụng đúng mục đích.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000400003000000000000000000
 
 **ID:** 88DEAD48-AE64-4180-B6AB-9ED18EB3B1FE
+
+1. Phối hợp với Bộ Công an quy hoạch quỹ đất phù hợp để xây dựng trụ sở đóng quân, thao trường huấn luyện cho Cảnh sát cơ động.
 
 ---
 
@@ -663,6 +780,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** E6B45B3D-9E28-4FC6-AF20-AA8F69B6BFD3
 
+Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về Cảnh sát cơ động; giám sát việc thực hiện pháp luật về Cảnh sát cơ động; hỗ trợ, giúp đỡ Cảnh sát cơ động thực hiện nhiệm vụ.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000400003200000000000000000
 
 **ID:** 023045DE-D37C-48C3-8C55-D8517B2F09FE
+
+1. Cung cấp kịp thời cho người có thẩm quyền thông tin, tài liệu có liên quan đến công tác của Cảnh sát cơ động.
 
 ---
 
@@ -685,6 +806,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** BCC16F47-92C6-41A7-8748-1F972306185C
 
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2023.
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000400000000000000000
 
 **ID:** F6BEC230-FF58-4BCE-9A1E-829D3A4CC627
+
+1. Đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự thống lĩnh của Chủ tịch nước, sự thống nhất quản lý nhà nước của Chính phủ và sự chỉ đạo, chỉ huy, quản lý trực tiếp của Bộ trưởng Bộ Công an.
 
 ---
 
@@ -707,6 +832,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** B418A6C3-B2D3-4C7E-A9C2-759BAAE49F63
 
+1. Lực lượng vũ trang bảo vệ vận chuyển hàng đặc biệt bao gồm:
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000400
 
 **ID:** BD59BAD7-ACDF-4230-9A1B-62841ED938A8
+
+1. Bộ trưởng Bộ Công an có quyền điều động các đơn vị Cảnh sát cơ động thực hiện nhiệm vụ tuần tra, kiểm soát bảo đảm an ninh, trật tự, an toàn xã hội trên phạm vi toàn quốc.
 
 ---
 
@@ -729,6 +858,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 11476836-3999-4B21-A55F-1041B8C132AD
 
+1. Phù hiệu của Cảnh sát cơ động thực hiện theo quy định tại Nghị định số 160/2007/NĐ-CP ngày 30/10/2007 của Chính phủ quy định cờ truyền thống, công an hiệu, cấp hiệu, phù hiệu và trang phục của lực lượng Công an nhân dân và Thông tư số 30/2008/TT-BCA-X11 ngày 03/11/2008 của Bộ Công an hướng dẫn thực hiện Nghị định số 160/2007/NĐ-CP ngày 30/10/2007.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000500000000000000000
 
 **ID:** A6307D45-0AAB-4F12-800E-5EB214F2FFF1
+
+1. Nhà nước xây dựng Cảnh sát cơ động cách mạng, chính quy, tinh nhuệ, hiện đại; ưu tiên nguồn lực phát triển Cảnh sát cơ động.
 
 ---
 
@@ -751,6 +884,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** C4649E24-D063-4C66-9FBF-ECE1CBA680EC
 
+1. Tuân thủ các quy định của pháp luật; bảo vệ tuyệt đối an toàn hàng đặc biệt; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000500
 
 **ID:** B2ACA000-E271-4104-AA72-B17B7A5FB2AC
+
+1. Hướng dẫn, kiểm tra, đôn đốc lực lượng Cảnh sát cơ động thực hiện công tác tuần tra, kiểm soát bảo đảm an ninh, trật tự, an toàn xã hội trên phạm vi toàn quốc.
 
 ---
 
@@ -773,6 +910,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 9104FD4E-362E-4A88-965B-1AB464752240
 
+1. Hình dáng, kích thước: hình chữ nhật, chiều dài: 85,6 mm, chiều rộng: 53,98 mm.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000600000000000000000
 
 **ID:** D8A9B73B-D549-4E34-87AC-E4A9737D6E70
+
+Ngày 15 tháng 4 hằng năm là ngày truyền thống của Cảnh sát cơ động.
 
 ---
 
@@ -795,6 +936,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 2D7DE1DF-2070-4234-B01A-6FDCF2274256
 
+1. Việc yêu cầu bảo vệ vận chuyển hàng đặc biệt được thực hiện như sau:
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000600
 
 **ID:** 20F82D50-6485-4F82-A38C-72EE79094A10
+
+1. Giám đốc Công an cấp tỉnh có trách nhiệm:
 
 ---
 
@@ -817,6 +962,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5DE6D30C-7896-4561-AF15-212D607B5820
 
+1. Màu sắc: mũ, quần áo xuân hè và thu đông màu rêu đậm.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000700000000000000000
 
 **ID:** F8A337E6-429F-435B-911C-2AACB125426C
+
+1. Hoạt động hợp tác quốc tế của Cảnh sát cơ động thực hiện theo pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế có liên quan.
 
 ---
 
@@ -839,6 +988,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 3BAF2968-EBD3-4483-A7C8-998E23111CD0
 
+1. Hàng đặc biệt khi vận chuyển phải được đóng gói, niêm phong, đặt trong các container hoặc thùng chứa hàng, khóa, kẹp chì và bảo quản an toàn.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000700
 
 **ID:** 22362701-545E-4153-8CE3-6166C34A0487
+
+1. Chấp hành nghiêm sự chỉ huy, chỉ đạo của cấp trên và kế hoạch, phương án tuần tra, kiểm soát đã được cấp có thẩm quyền phê duyệt.
 
 ---
 
@@ -861,6 +1014,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 9DFDBFAE-AB07-43E3-8BB7-04CD82B67C1E
 
+- Quần áo xuân hè màu rêu đậm : 02 bộ/năm.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000100000800000000000000000
 
 **ID:** BB34E1E8-563C-46E5-859E-9407B0062BFB
+
+1. Chống đối, cản trở hoạt động của Cảnh sát cơ động; trả thù, đe dọa, xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm của cán bộ, chiến sĩ Cảnh sát cơ động, cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ Cảnh sát cơ động trong thi hành công vụ hoặc vì lý do công vụ.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** E335FDC1-5666-4961-BFF2-55B1C5830D3E
 
+1. Phương tiện vận chuyển hàng đặc biệt bằng xe chuyên dùng trên đường bộ hoặc phương tiện vận tải đường sắt, đường thủy nội địa, đường hàng không phải đáp ứng các điều kiện theo quy định của pháp luật về giao thông đường bộ, đường sắt, đường thủy nội địa, đường hàng không và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000800
 
 **ID:** 9D6E429D-0500-46BD-82D3-6CB3D804DB5F
+
+1. Kiểm soát người, phương tiện, đồ vật, tài liệu theo quy định của pháp luật khi thực hiện nhiệm vụ tuần tra, kiểm soát.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5BE4DC14-5E50-4E06-9FB7-1859BD3E94AC
 
+Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2014 và thay thế các quy định trước đây của Bộ Công an về Giấy chứng nhận công tác đặc biệt, phù hiệu và trang phục chiến đấu của Cảnh sát cơ động.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 3901400000000000200000900000000000000000
 
 **ID:** ABF4177A-3B3D-4390-8F7C-1E9075F13BA8
+
+1. Tham mưu với Bộ trưởng Bộ Công an về biện pháp vũ trang bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; xây dựng Cảnh sát cơ động cách mạng, chính quy, tinh nhuệ, hiện đại.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 217B7C88-ED89-4B52-A7DC-86FB0E6BE235
 
+1. Căn cứ tình hình an ninh, trật tự, an toàn xã hội, phương tiện, khối lượng hàng đặc biệt và thời gian, hành trình vận chuyển, đơn vị Cảnh sát nhân dân có trách nhiệm vũ trang bảo vệ vận chuyển trao đổi, thống nhất với cơ quan trực tiếp quản lý hàng đặc biệt để bố trí cán bộ, chiến sĩ Cảnh sát làm nhiệm vụ vũ trang bảo vệ vận chuyển.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 390140000000000020000120000000000000000000802562900580000900
 
 **ID:** DDF8AD91-5CC8-44F5-BE74-ACE370DCD0DB
+
+1. Đối tượng tuần tra gồm: khu vực, mục tiêu, tuyến, địa bàn được phân công.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** B9832CCD-1338-4444-A5C7-A9C5BF8BFE1C
 
+1. Bộ Tư lệnh Cảnh sát cơ động có trách nhiệm giúp Bộ trưởng thống nhất quản lý Giấy chứng nhận công tác đặc biệt, phù hiệu và trang phục chiến đấu của Cảnh sát cơ động.
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 39014000000000001000
 
 **ID:** 39705C13-1AE0-48DB-A9AD-4AD194114CCB
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -971,6 +1144,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 2E6E5DED-B6C3-4D4B-99D0-001A99AC61C5
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: trat-tu-an-toan-xa-hoi
 **Mã phân cấp:** 39014000000000003000
 
 **ID:** 017DA487-9D28-42B6-BB3A-D82ED7CFB8BE
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -993,6 +1170,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 8D76AA2F-4E8C-4776-8FB3-94D98B7B9273
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1004,6 +1183,8 @@ parent: trat-tu-an-toan-xa-hoi
 
 **ID:** 5DBDFF27-DA10-431D-B5CD-6205DF6E5E65
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1014,6 +1195,7 @@ parent: trat-tu-an-toan-xa-hoi
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 90
+- **Điều khoản có nội dung:** 85 (94.4%)
 - **ID đề mục:** 51ae5342-6f32-4eaf-9b8b-01add97cbee4
 
 ## 🔍 Tìm kiếm
