@@ -8,6 +8,7 @@ permalink: /van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/
 
 **Chủ đề:** Thi đua, khen thưởng, các danh hiệu vinh dự nhà nước  
 **Số đề mục:** 0  
+**Số điều khoản:** 0  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📋 Danh sách Đề mục
@@ -19,11 +20,14 @@ permalink: /van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 0
+- **Tổng số điều khoản:** 0
 - **ID chủ đề:** c7ee2251-ddf9-4c7a-88f8-a9568fad0247
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản trong chủ đề này.
+## 🔍 Cách sử dụng
+1. **Chọn đề mục** từ danh sách trên
+2. **Xem nội dung đầy đủ** của đề mục
+3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

@@ -7,21 +7,12 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 # Một số biện pháp bảo đảm trật tự công cộng
 
 **Đề mục:** Một số biện pháp bảo đảm trật tự công cộng  
-**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 30  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I NHỮNG QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 39005000000000001000
-
-**ID:** AD6B1A70-8214-4E14-9944-11229ACDEF16
-
----
 
 ### Điều 39.5.NĐ.1. Phạm vi điều chỉnh
 
@@ -33,15 +24,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 
 ---
 
-### Điều 39.5.NĐ.2. Trách nhiệm bảo đảm trật tự công cộng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3900500000000000100000200000000000000000
-
-**ID:** 695B540E-406F-4CA0-9D4C-142F29D9A5AE
-
----
 
 ### Điều 39.5.TT.1.1. Trách nhiệm bảo đảm trật tự công cộng
 
@@ -53,165 +35,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 
 ---
 
-### Điều 39.5.NĐ.3. Tuyên truyền, phổ biến, giáo dục pháp luật về trật tự công cộng
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3900500000000000100000300000000000000000
-
-**ID:** 62117AF7-96AE-47C6-8254-396555D49F57
-
----
-
-### Điều 39.5.NĐ.4. Giám sát, kiểm tra việc thi hành pháp luật về bảo đảm trật tự công cộng
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3900500000000000100000400000000000000000
-
-**ID:** 366B496E-E2EE-49BA-9B98-78744ED2B797
-
----
-
-### Điều 39.5.NĐ.5. Các hành vi bị nghiêm cấm
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3900500000000000100000500000000000000000
-
-**ID:** 1FB46461-64F9-4BC7-9E05-EA86999A7861
-
----
-
-### Điều 39.5.TT.1.2. Các hành vi bị nghiêm cấm theo quy định tại Điều 5 Nghị định số 38 bao gồm:
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 390050000000000010000050000000000000000000802191800090000200
-
-**ID:** E39B5FD0-91A0-45C3-88B3-DF49D454D391
-
----
-
-### Điều 39.5.NĐ.6. Nguyên tắc xử lý vi phạm pháp luật về bảo đảm trật tự công cộng
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3900500000000000100000600000000000000000
-
-**ID:** 00B34D54-44AA-465B-895A-1666A38DCDAE
-
----
-
-### Điều 39.5.TT.1.3. Nguyên tắc xử lý vi phạm pháp luật về bảo đảm trật tự công cộng
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 390050000000000010000060000000000000000000802191800090000300
-
-**ID:** 36D061C7-9165-4256-84E0-531AFAAECC4A
-
----
-
-### Chương II NHỮNG QUY ĐỊNH CỤ THỂ
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 39005000000000002000
-
-**ID:** CB0CE17A-08DB-4DB3-AD7E-9F21F3C7DD42
-
----
-
-### Điều 39.5.NĐ.7. Quy định về tập trung đông người ở nơi công cộng
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3900500000000000200000700000000000000000
-
-**ID:** 1ACA43AD-51B8-4FFB-AE04-48341098B8D9
-
----
-
-### Điều 39.5.TT.1.4. Quy định về hoạt động tập trung đông người ở nơi công cộng
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 390050000000000020000070000000000000000000802191800090000400
-
-**ID:** 6C076A06-F5C4-40AA-87A1-34DA8D23D046
-
----
-
-### Điều 39.5.NĐ.8. Thủ tục đăng ký tập trung đông người ở nơi công cộng
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3900500000000000200000800000000000000000
-
-**ID:** 398871EA-A7CE-4394-BCDE-332B3A2A2E1E
-
----
-
-### Điều 39.5.TT.1.5. Người đăng ký hoặc người đại diện cho tổ chức đăng ký hoạt động tập trung đông người ở nơi công cộng.
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000500
-
-**ID:** 37856B45-E059-4C34-8CA8-57E1E5D4568A
-
----
-
-### Điều 39.5.TT.1.6. Thủ tục đăng ký hoạt động tập trung đông người ở nơi công cộng
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000600
-
-**ID:** CC48C192-1392-4ECB-B2D3-2CD22FD3B4EA
-
----
-
-### Điều 39.5.TT.1.7. Các trường hợp không cho phép tiến hành hoạt động tập trung đông người ở nơi công cộng.
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000700
-
-**ID:** 292CE62D-ECF5-461D-9F1F-F7D5F4FB6C14
-
----
-
-### Điều 39.5.TT.1.8. Tạm đình chỉ, đình chỉ hoặc huỷ bỏ việc cho phép hoạt động tập trung đông người ở nơi công cộng.
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000800
-
-**ID:** 40F52483-9823-4B8B-BBB2-7866228DF284
-
----
-
-### Điều 39.5.NĐ.9. Các biện pháp bảo đảm trật tự công cộng
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3900500000000000200000900000000000000000
-
-**ID:** BA2C4636-1560-47D5-8CB8-4B871F9D0709
-
----
-
-### Điều 39.5.TT.1.9. Về các biện pháp bảo dảm trật tự công cộng.
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 390050000000000020000090000000000000000000802191800090000900
-
-**ID:** DA9FF45E-CD69-4F6B-A02E-339A5D10A324
-
----
 
 ### Điều 39.5.NĐ.10. Thẩm quyền áp dụng các biện pháp bảo đảm trật tự công cộng
 
@@ -223,6 +46,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 
 ---
 
+
 ### Điều 39.5.TT.1.10. Thẩm quyền áp dụng các biện pháp bảo đảm trật tự công cộng.
 
 **Chỉ mục:** 10
@@ -232,6 +56,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 **ID:** F8BBF547-2C86-4D9D-A3FA-53BF7FA58904
 
 ---
+
 
 ### Điều 39.5.NĐ.11. Xử lý vi phạm pháp luật về trật tự công cộng
 
@@ -243,65 +68,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 
 ---
 
-### Điều 39.5.NĐ.12. Trách nhiệm của các Bộ, ngành, Uỷ ban nhân dân các cấp trong tổ chức thực hiện việc bảo đảm trật tự công cộng
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3900500000000000200001200000000000000000
-
-**ID:** 002D6D74-E0A2-4893-B587-7CDADF2E5114
-
----
-
-### Chương III KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 39005000000000003000
-
-**ID:** 2733EADE-296A-49F6-83AB-A7FC7B781BFB
-
----
-
-### Điều 39.5.NĐ.13. Khen thưởng và xử lý vi phạm
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3900500000000000300001300000000000000000
-
-**ID:** DA5A104B-2B52-4643-BEA3-BD89533A92E7
-
----
-
-### Chương IV ĐIỀU KHOẢN THI HÀNH
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 39005000000000004000
-
-**ID:** 8F782625-725B-469C-A32D-ABA1A839987E
-
----
-
-### Điều 39.5.NĐ.14. Hiệu lực thi hành
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3900500000000000400001400000000000000000
-
-**ID:** 00CE668D-37E3-44C5-9430-ADA2E7D49278
-
----
-
-### Điều 39.5.NĐ.15. Trách nhiệm thi hành
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3900500000000000400001500000000000000000
-
-**ID:** E83B64F7-DFD8-45E2-9AE0-0E0E976362DC
-
----
 
 ### Điều 39.5.TT.1.11. Tổ chức thực hiện.
 
@@ -314,10 +80,274 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 ---
 
 
+### Điều 39.5.NĐ.12. Trách nhiệm của các Bộ, ngành, Uỷ ban nhân dân các cấp trong tổ chức thực hiện việc bảo đảm trật tự công cộng
+
+**Chỉ mục:** 12
+
+**Mã phân cấp:** 3900500000000000200001200000000000000000
+
+**ID:** 002D6D74-E0A2-4893-B587-7CDADF2E5114
+
+---
+
+
+### Điều 39.5.NĐ.13. Khen thưởng và xử lý vi phạm
+
+**Chỉ mục:** 13
+
+**Mã phân cấp:** 3900500000000000300001300000000000000000
+
+**ID:** DA5A104B-2B52-4643-BEA3-BD89533A92E7
+
+---
+
+
+### Điều 39.5.NĐ.14. Hiệu lực thi hành
+
+**Chỉ mục:** 14
+
+**Mã phân cấp:** 3900500000000000400001400000000000000000
+
+**ID:** 00CE668D-37E3-44C5-9430-ADA2E7D49278
+
+---
+
+
+### Điều 39.5.NĐ.15. Trách nhiệm thi hành
+
+**Chỉ mục:** 15
+
+**Mã phân cấp:** 3900500000000000400001500000000000000000
+
+**ID:** E83B64F7-DFD8-45E2-9AE0-0E0E976362DC
+
+---
+
+
+### Điều 39.5.NĐ.2. Trách nhiệm bảo đảm trật tự công cộng
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 3900500000000000100000200000000000000000
+
+**ID:** 695B540E-406F-4CA0-9D4C-142F29D9A5AE
+
+---
+
+
+### Điều 39.5.TT.1.2. Các hành vi bị nghiêm cấm theo quy định tại Điều 5 Nghị định số 38 bao gồm:
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 390050000000000010000050000000000000000000802191800090000200
+
+**ID:** E39B5FD0-91A0-45C3-88B3-DF49D454D391
+
+---
+
+
+### Điều 39.5.NĐ.3. Tuyên truyền, phổ biến, giáo dục pháp luật về trật tự công cộng
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 3900500000000000100000300000000000000000
+
+**ID:** 62117AF7-96AE-47C6-8254-396555D49F57
+
+---
+
+
+### Điều 39.5.TT.1.3. Nguyên tắc xử lý vi phạm pháp luật về bảo đảm trật tự công cộng
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 390050000000000010000060000000000000000000802191800090000300
+
+**ID:** 36D061C7-9165-4256-84E0-531AFAAECC4A
+
+---
+
+
+### Điều 39.5.NĐ.4. Giám sát, kiểm tra việc thi hành pháp luật về bảo đảm trật tự công cộng
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 3900500000000000100000400000000000000000
+
+**ID:** 366B496E-E2EE-49BA-9B98-78744ED2B797
+
+---
+
+
+### Điều 39.5.TT.1.4. Quy định về hoạt động tập trung đông người ở nơi công cộng
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 390050000000000020000070000000000000000000802191800090000400
+
+**ID:** 6C076A06-F5C4-40AA-87A1-34DA8D23D046
+
+---
+
+
+### Điều 39.5.NĐ.5. Các hành vi bị nghiêm cấm
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 3900500000000000100000500000000000000000
+
+**ID:** 1FB46461-64F9-4BC7-9E05-EA86999A7861
+
+---
+
+
+### Điều 39.5.TT.1.5. Người đăng ký hoặc người đại diện cho tổ chức đăng ký hoạt động tập trung đông người ở nơi công cộng.
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000500
+
+**ID:** 37856B45-E059-4C34-8CA8-57E1E5D4568A
+
+---
+
+
+### Điều 39.5.NĐ.6. Nguyên tắc xử lý vi phạm pháp luật về bảo đảm trật tự công cộng
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 3900500000000000100000600000000000000000
+
+**ID:** 00B34D54-44AA-465B-895A-1666A38DCDAE
+
+---
+
+
+### Điều 39.5.TT.1.6. Thủ tục đăng ký hoạt động tập trung đông người ở nơi công cộng
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000600
+
+**ID:** CC48C192-1392-4ECB-B2D3-2CD22FD3B4EA
+
+---
+
+
+### Điều 39.5.NĐ.7. Quy định về tập trung đông người ở nơi công cộng
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 3900500000000000200000700000000000000000
+
+**ID:** 1ACA43AD-51B8-4FFB-AE04-48341098B8D9
+
+---
+
+
+### Điều 39.5.TT.1.7. Các trường hợp không cho phép tiến hành hoạt động tập trung đông người ở nơi công cộng.
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000700
+
+**ID:** 292CE62D-ECF5-461D-9F1F-F7D5F4FB6C14
+
+---
+
+
+### Điều 39.5.NĐ.8. Thủ tục đăng ký tập trung đông người ở nơi công cộng
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 3900500000000000200000800000000000000000
+
+**ID:** 398871EA-A7CE-4394-BCDE-332B3A2A2E1E
+
+---
+
+
+### Điều 39.5.TT.1.8. Tạm đình chỉ, đình chỉ hoặc huỷ bỏ việc cho phép hoạt động tập trung đông người ở nơi công cộng.
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 390050000000000020000080000000000000000000802191800090000800
+
+**ID:** 40F52483-9823-4B8B-BBB2-7866228DF284
+
+---
+
+
+### Điều 39.5.NĐ.9. Các biện pháp bảo đảm trật tự công cộng
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 3900500000000000200000900000000000000000
+
+**ID:** BA2C4636-1560-47D5-8CB8-4B871F9D0709
+
+---
+
+
+### Điều 39.5.TT.1.9. Về các biện pháp bảo dảm trật tự công cộng.
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 390050000000000020000090000000000000000000802191800090000900
+
+**ID:** DA9FF45E-CD69-4F6B-A02E-339A5D10A324
+
+---
+
+
+### Chương I NHỮNG QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 39005000000000001000
+
+**ID:** AD6B1A70-8214-4E14-9944-11229ACDEF16
+
+---
+
+
+### Chương II NHỮNG QUY ĐỊNH CỤ THỂ
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 39005000000000002000
+
+**ID:** CB0CE17A-08DB-4DB3-AD7E-9F21F3C7DD42
+
+---
+
+
+### Chương III KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 39005000000000003000
+
+**ID:** 2733EADE-296A-49F6-83AB-A7FC7B781BFB
+
+---
+
+
+### Chương IV ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 39005000000000004000
+
+**ID:** 8F782625-725B-469C-A32D-ABA1A839987E
+
+---
+
+
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 30
@@ -328,4 +358,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

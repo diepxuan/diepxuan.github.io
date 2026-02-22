@@ -7,21 +7,12 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 # Quản lý và sử dụng con dấu
 
 **Đề mục:** Quản lý và sử dụng con dấu  
-**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 44  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 39012000000000001000
-
-**ID:** CDBD0F17-EF90-4480-BBAB-3C302F960F33
-
----
 
 ### Điều 39.12.NĐ.1. Phạm vi điều chỉnh
 
@@ -33,15 +24,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Điều 39.12.NĐ.2. Đối tượng áp dụng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3901200000000000100000200000000000000000
-
-**ID:** 580B62D5-7D25-415F-9854-811FBB0A614A
-
----
 
 ### Điều 39.12.QĐ.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -53,65 +35,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Điều 39.12.NĐ.3. Giải thích từ ngữ
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3901200000000000100000300000000000000000
-
-**ID:** C36013BF-2608-4E96-A30B-97AB831820C1
-
----
-
-### Điều 39.12.QĐ.1.2. Giải thích từ ngữ
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3901200000000000100000350269130019000020
-
-**ID:** 23CBBA9B-39B5-46F6-9E8F-D29FB6BF11EB
-
----
-
-### Điều 39.12.NĐ.4. Nguyên tắc quản lý và sử dụng con dấu
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3901200000000000100000400000000000000000
-
-**ID:** AE7279C1-39F4-4971-B4E5-4E11B05FE03C
-
----
-
-### Điều 39.12.NĐ.5. Điều kiện sử dụng con dấu
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3901200000000000100000500000000000000000
-
-**ID:** 8BE58BF0-A426-4B8F-9228-A5CE92679C71
-
----
-
-### Điều 39.12.NĐ.6. Các hành vi bị nghiêm cấm
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3901200000000000100000600000000000000000
-
-**ID:** 22A099A0-D574-4F8C-9954-802138BCF0FA
-
----
-
-### Chương II QUY ĐỊNH CỤ THỂ
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 39012000000000002000
-
-**ID:** 5422840C-2494-429C-9678-5A03EC4E60BF
-
----
 
 ### Mục 1 CON DẤU CÓ HÌNH QUỐC HUY, CON DẤU CÓ HÌNH BIỂU TƯỢNG, CON DẤU KHÔNG CÓ HÌNH BIỂU TƯỢNG
 
@@ -123,45 +46,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Điều 39.12.NĐ.7. Cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu có hình Quốc huy
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 390120000000000020000010000000000000000000700000000000000000
-
-**ID:** BF8E74B3-6BE1-4A4B-91AD-65B8C8B7F0B9
-
----
-
-### Điều 39.12.NĐ.8. Cơ quan, tổ chức sử dụng con dấu có hình biểu tượng hoặc con dấu không có hình biểu tượng
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 390120000000000020000010000000000000000000800000000000000000
-
-**ID:** 9BF07C0A-C225-4DAD-AA15-36A526C99167
-
----
-
-### Mục 2 CON DẤU CỦA CƠ QUAN, TỔ CHỨC NƯỚC NGOÀI TẠI VIỆT NAM
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3901200000000000200000200000000000000000
-
-**ID:** 7C11079E-2DCE-4667-8338-E1C874D75F3B
-
----
-
-### Điều 39.12.NĐ.9. Con dấu cơ quan đại diện ngoại giao của nước ngoài
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 390120000000000020000020000000000000000000900000000000000000
-
-**ID:** 00299931-9C4F-45E6-A34F-0C81DA877F2A
-
----
 
 ### Điều 39.12.NĐ.10. Con dấu tổ chức nước ngoài không có chức năng ngoại giao
 
@@ -173,15 +57,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Mục 3 ĐĂNG KÝ MẪU CON DẤU; THU HỒI, HỦY CON DẤU VÀ HỦY GIÁ TRỊ SỬ DỤNG CON DẤU
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3901200000000000200000300000000000000000
-
-**ID:** E479502A-3960-43C5-A3D0-D62E20EE57F0
-
----
 
 ### Điều 39.12.NĐ.11. Trình tự, thủ tục nộp, tiếp nhận hồ sơ và trả kết quả
 
@@ -193,6 +68,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.12. Cơ quan đăng ký mẫu con dấu
 
 **Chỉ mục:** 12
@@ -202,6 +78,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** 615432BB-51F6-4DA6-8F3E-A5C9F555EC7B
 
 ---
+
 
 ### Điều 39.12.NĐ.13. Hồ sơ đăng ký mẫu con dấu mới
 
@@ -213,6 +90,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.14. Hồ sơ đăng ký dấu nổi, dấu thu nhỏ, dấu xi
 
 **Chỉ mục:** 14
@@ -222,6 +100,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** 0B453F15-5113-41FD-80C3-D03BFC997CCB
 
 ---
+
 
 ### Điều 39.12.NĐ.15. Hồ sơ đề nghị đăng ký lại mẫu con dấu
 
@@ -233,6 +112,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.16. Hồ sơ đề nghị đăng ký thêm con dấu
 
 **Chỉ mục:** 16
@@ -242,6 +122,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** 7A107509-1148-402C-8747-82C4503D7E50
 
 ---
+
 
 ### Điều 39.12.NĐ.17. Hồ sơ đề nghị đổi, cấp lại giấy chứng nhận đăng ký mẫu con dấu
 
@@ -253,6 +134,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.18. Giao nộp, thu hồi, hủy con dấu và hủy giá trị sử dụng con dấu
 
 **Chỉ mục:** 18
@@ -263,15 +145,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Chương III TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG VIỆC QUẢN LÝ VÀ SỬ DỤNG CON DẤU
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 39012000000000003000
-
-**ID:** 4E1C229B-DB71-42BD-9EE8-7AF797D38AAA
-
----
 
 ### Điều 39.12.NĐ.19. Trách nhiệm của Bộ Công an
 
@@ -283,6 +156,40 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
+### Điều 39.12.NĐ.2. Đối tượng áp dụng
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 3901200000000000100000200000000000000000
+
+**ID:** 580B62D5-7D25-415F-9854-811FBB0A614A
+
+---
+
+
+### Điều 39.12.QĐ.1.2. Giải thích từ ngữ
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 3901200000000000100000350269130019000020
+
+**ID:** 23CBBA9B-39B5-46F6-9E8F-D29FB6BF11EB
+
+---
+
+
+### Mục 2 CON DẤU CỦA CƠ QUAN, TỔ CHỨC NƯỚC NGOÀI TẠI VIỆT NAM
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 3901200000000000200000200000000000000000
+
+**ID:** 7C11079E-2DCE-4667-8338-E1C874D75F3B
+
+---
+
+
 ### Điều 39.12.NĐ.20. Trách nhiệm của cơ quan đăng ký mẫu con dấu
 
 **Chỉ mục:** 20
@@ -292,6 +199,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** 22ECEF59-DD84-46F9-AE92-2330355DBF8C
 
 ---
+
 
 ### Điều 39.12.NĐ.21. Trách nhiệm của các bộ có liên quan
 
@@ -303,55 +211,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Điều 39.12.QĐ.1.3. Nguyên tắc quản lý con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước được giữ lại để lưu trữ, phục vụ nghiên cứu lịch sử
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000300
-
-**ID:** 9A63D806-905A-4FD2-BA2D-A7BF1FB243F5
-
----
-
-### Điều 39.12.QĐ.1.4. Con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước được giữ lại để lưu trữ, phục vụ nghiên cứu lịch sử
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000400
-
-**ID:** 3C17F8BD-4F30-49A3-9FE3-AB91A171FA51
-
----
-
-### Điều 39.12.QĐ.1.5. Trách nhiệm của cơ quan đăng ký mẫu con dấu và Lưu trữ lịch sử trong việc quản lý con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000500
-
-**ID:** 33851C83-A3D3-4D59-BD72-D43BC02ACAC0
-
----
-
-### Điều 39.12.QĐ.1.6. Thẩm quyền quản lý và cho phép cung cấp con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước để nghiên cứu lịch sử
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000600
-
-**ID:** EB99B7BF-64F2-4E27-B0B1-235FCB47CB39
-
----
-
-### Điều 39.12.QĐ.1.7. Trình tự xét duyệt cung cấp con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước để nghiên cứu lịch sử
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000700
-
-**ID:** 092B204F-CB13-4469-97ED-F8EE8403A7E5
-
----
 
 ### Điều 39.12.NĐ.22. Trách nhiệm của Ủy ban nhân dân các cấp
 
@@ -363,6 +222,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.23. Trách nhiệm của cơ quan có thẩm quyền quyết định thành lập hoặc cấp giấy đăng ký hoạt động hoặc cấp giấy phép hoạt động hoặc công nhận hoạt động đối với cơ quan, tổ chức, chức danh nhà nước
 
 **Chỉ mục:** 23
@@ -372,6 +232,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** 34485A4A-F5A8-4B2D-A1CB-59AC7EEECA3B
 
 ---
+
 
 ### Điều 39.12.NĐ.24. Trách nhiệm của cơ quan, tổ chức, cá nhân sử dụng con dấu
 
@@ -383,6 +244,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.25. Kiểm tra việc quản lý và sử dụng con dấu
 
 **Chỉ mục:** 25
@@ -393,15 +255,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
-### Chương IV ĐIỀU KHOẢN THI HÀNH
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 39012000000000004000
-
-**ID:** 685A31B5-6014-49F1-8FE7-A767CDEFC4C3
-
----
 
 ### Điều 39.12.NĐ.26. Hiệu lực thi hành
 
@@ -413,6 +266,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
 ### Điều 39.12.NĐ.27. Quy định chuyển tiếp
 
 **Chỉ mục:** 27
@@ -422,6 +276,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** 3CB9D284-FD98-4723-8F5B-A8D0D7B1B1C1
 
 ---
+
 
 ### Điều 39.12.NĐ.28. Trách nhiệm thi hành
 
@@ -433,6 +288,139 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 
 ---
 
+
+### Điều 39.12.NĐ.3. Giải thích từ ngữ
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 3901200000000000100000300000000000000000
+
+**ID:** C36013BF-2608-4E96-A30B-97AB831820C1
+
+---
+
+
+### Mục 3 ĐĂNG KÝ MẪU CON DẤU; THU HỒI, HỦY CON DẤU VÀ HỦY GIÁ TRỊ SỬ DỤNG CON DẤU
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 3901200000000000200000300000000000000000
+
+**ID:** E479502A-3960-43C5-A3D0-D62E20EE57F0
+
+---
+
+
+### Điều 39.12.QĐ.1.3. Nguyên tắc quản lý con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước được giữ lại để lưu trữ, phục vụ nghiên cứu lịch sử
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000300
+
+**ID:** 9A63D806-905A-4FD2-BA2D-A7BF1FB243F5
+
+---
+
+
+### Điều 39.12.NĐ.4. Nguyên tắc quản lý và sử dụng con dấu
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 3901200000000000100000400000000000000000
+
+**ID:** AE7279C1-39F4-4971-B4E5-4E11B05FE03C
+
+---
+
+
+### Điều 39.12.QĐ.1.4. Con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước được giữ lại để lưu trữ, phục vụ nghiên cứu lịch sử
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000400
+
+**ID:** 3C17F8BD-4F30-49A3-9FE3-AB91A171FA51
+
+---
+
+
+### Điều 39.12.NĐ.5. Điều kiện sử dụng con dấu
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 3901200000000000100000500000000000000000
+
+**ID:** 8BE58BF0-A426-4B8F-9228-A5CE92679C71
+
+---
+
+
+### Điều 39.12.QĐ.1.5. Trách nhiệm của cơ quan đăng ký mẫu con dấu và Lưu trữ lịch sử trong việc quản lý con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000500
+
+**ID:** 33851C83-A3D3-4D59-BD72-D43BC02ACAC0
+
+---
+
+
+### Điều 39.12.NĐ.6. Các hành vi bị nghiêm cấm
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 3901200000000000100000600000000000000000
+
+**ID:** 22A099A0-D574-4F8C-9954-802138BCF0FA
+
+---
+
+
+### Điều 39.12.QĐ.1.6. Thẩm quyền quản lý và cho phép cung cấp con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước để nghiên cứu lịch sử
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000600
+
+**ID:** EB99B7BF-64F2-4E27-B0B1-235FCB47CB39
+
+---
+
+
+### Điều 39.12.NĐ.7. Cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu có hình Quốc huy
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 390120000000000020000010000000000000000000700000000000000000
+
+**ID:** BF8E74B3-6BE1-4A4B-91AD-65B8C8B7F0B9
+
+---
+
+
+### Điều 39.12.QĐ.1.7. Trình tự xét duyệt cung cấp con dấu hết giá trị sử dụng của cơ quan, tổ chức, chức danh nhà nước để nghiên cứu lịch sử
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 390120000000000030000210000000000000000000502691300190000700
+
+**ID:** 092B204F-CB13-4469-97ED-F8EE8403A7E5
+
+---
+
+
+### Điều 39.12.NĐ.8. Cơ quan, tổ chức sử dụng con dấu có hình biểu tượng hoặc con dấu không có hình biểu tượng
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 390120000000000020000010000000000000000000800000000000000000
+
+**ID:** 9BF07C0A-C225-4DAD-AA15-36A526C99167
+
+---
+
+
 ### Điều 39.12.QĐ.1.8. Hiệu lực thi hành
 
 **Chỉ mục:** 8
@@ -442,6 +430,18 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 **ID:** AE60424A-8E93-4CBB-B3DF-7E1593BF18E7
 
 ---
+
+
+### Điều 39.12.NĐ.9. Con dấu cơ quan đại diện ngoại giao của nước ngoài
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 390120000000000020000020000000000000000000900000000000000000
+
+**ID:** 00299931-9C4F-45E6-A34F-0C81DA877F2A
+
+---
+
 
 ### Điều 39.12.QĐ.1.9. Tổ chức thực hiện
 
@@ -454,10 +454,54 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-va-su-dung-con-dau/
 ---
 
 
+### Chương I QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 39012000000000001000
+
+**ID:** CDBD0F17-EF90-4480-BBAB-3C302F960F33
+
+---
+
+
+### Chương II QUY ĐỊNH CỤ THỂ
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 39012000000000002000
+
+**ID:** 5422840C-2494-429C-9678-5A03EC4E60BF
+
+---
+
+
+### Chương III TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG VIỆC QUẢN LÝ VÀ SỬ DỤNG CON DẤU
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 39012000000000003000
+
+**ID:** 4E1C229B-DB71-42BD-9EE8-7AF797D38AAA
+
+---
+
+
+### Chương IV ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 39012000000000004000
+
+**ID:** 685A31B5-6014-49F1-8FE7-A767CDEFC4C3
+
+---
+
+
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 44
@@ -468,4 +512,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}
