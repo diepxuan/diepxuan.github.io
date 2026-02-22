@@ -1,0 +1,1082 @@
+{
+  "tuong-tro-tu-phap": {
+    "chude_slug": "tuong-tro-tu-phap",
+    "chude_name": "Tương trợ tư pháp",
+    "demuc_name": "Tương trợ tư pháp"
+  },
+  "hinh-su": {
+    "chude_slug": "hinh-su",
+    "chude_name": "Hình sự",
+    "demuc_name": "Hình sự"
+  },
+  "thue-su-dung-dat-phi-nong-nghiep": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế sử dụng đất phi nông nghiệp"
+  },
+  "thue-tieu-thu-dac-biet": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế tiêu thụ đặc biệt"
+  },
+  "thue-xuat-khau-thue-nhap-khau": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế xuất khẩu, thuế nhập khẩu"
+  },
+  "chi-phi-to-tung": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Chi phí tố tụng"
+  },
+  "thue-su-dung-dat-nong-nghiep": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế sử dụng đất nông nghiệp"
+  },
+  "quan-ly-thue": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Quản lý thuế"
+  },
+  "thue-bao-ve-moi-truong": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế bảo vệ môi trường"
+  },
+  "thue-thu-nhap-ca-nhan": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế thu nhập cá nhân"
+  },
+  "thue-tai-nguyen": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế tài nguyên"
+  },
+  "thue-thu-nhap-doanh-nghiep": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Thuế thu nhập doanh nghiệp"
+  },
+  "phi-va-le-phi": {
+    "chude_slug": "thue-phi-le-phi-cac-khoan-thu-khac",
+    "chude_name": "Thuế, phí, lệ phí, các khoản thu khác",
+    "demuc_name": "Phí và lệ phí"
+  },
+  "ngan-hang-nha-nuoc-viet-nam": {
+    "chude_slug": "ngan-hang-tien-te",
+    "chude_name": "Ngân hàng, tiền tệ",
+    "demuc_name": "Ngân hàng Nhà nước Việt Nam"
+  },
+  "bao-hiem-tien-gui": {
+    "chude_slug": "ngan-hang-tien-te",
+    "chude_name": "Ngân hàng, tiền tệ",
+    "demuc_name": "Bảo hiểm tiền gửi"
+  },
+  "cac-cong-cu-chuyen-nhuong": {
+    "chude_slug": "ngan-hang-tien-te",
+    "chude_name": "Ngân hàng, tiền tệ",
+    "demuc_name": "Các công cụ chuyển nhượng"
+  },
+  "ngoai-hoi": {
+    "chude_slug": "ngan-hang-tien-te",
+    "chude_name": "Ngân hàng, tiền tệ",
+    "demuc_name": "Ngoại hối"
+  },
+  "giao-duc": {
+    "chude_slug": "giao-duc-dao-tao",
+    "chude_name": "Giáo dục, đào tạo",
+    "demuc_name": "Giáo dục"
+  },
+  "giao-duc-dai-hoc": {
+    "chude_slug": "giao-duc-dao-tao",
+    "chude_name": "Giáo dục, đào tạo",
+    "demuc_name": "Giáo dục đại học"
+  },
+  "kien-truc": {
+    "chude_slug": "xay-dung-nha-o-do-thi",
+    "chude_name": "Xây dựng, nhà ở, đô thị",
+    "demuc_name": "Kiến trúc"
+  },
+  "da-dang-sinh-hoc": {
+    "chude_slug": "moi-truong",
+    "chude_name": "Môi trường",
+    "demuc_name": "Đa dạng sinh học"
+  },
+  "du-tru-quoc-gia": {
+    "chude_slug": "tai-san-cong-no-cong-du-tru-nha-nuoc",
+    "chude_name": "Tài sản công, nợ công, dự trữ nhà nước",
+    "demuc_name": "Dự trữ quốc gia"
+  },
+  "quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuoc-ho-tro-phat-trien-chinh-thuc-cua-cac-co-quan-to-chuc-ca-nhan-nuoc-ngoai-danh-cho-viet-nam": {
+    "chude_slug": "tai-san-cong-no-cong-du-tru-nha-nuoc",
+    "chude_name": "Tài sản công, nợ công, dự trữ nhà nước",
+    "demuc_name": "Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam"
+  },
+  "quan-ly-su-dung-tai-san-cong": {
+    "chude_slug": "tai-san-cong-no-cong-du-tru-nha-nuoc",
+    "chude_name": "Tài sản công, nợ công, dự trữ nhà nước",
+    "demuc_name": "Quản lý, sử dụng tài sản công"
+  },
+  "trung-mua-trung-dung-tai-san": {
+    "chude_slug": "tai-san-cong-no-cong-du-tru-nha-nuoc",
+    "chude_name": "Tài sản công, nợ công, dự trữ nhà nước",
+    "demuc_name": "Trưng mua, trưng dụng tài sản"
+  },
+  "quan-ly-no-cong": {
+    "chude_slug": "tai-san-cong-no-cong-du-tru-nha-nuoc",
+    "chude_name": "Tài sản công, nợ công, dự trữ nhà nước",
+    "demuc_name": "Quản lý nợ công"
+  },
+  "cong-tac-van-thu": {
+    "chude_slug": "van-thu-luu-tru",
+    "chude_name": "Văn thư lưu trữ",
+    "demuc_name": "Công tác văn thư"
+  },
+  "khuyen-cong": {
+    "chude_slug": "cong-nghiep",
+    "chude_name": "Công nghiệp",
+    "demuc_name": "Khuyến công"
+  },
+  "hoa-chat": {
+    "chude_slug": "cong-nghiep",
+    "chude_name": "Công nghiệp",
+    "demuc_name": "Hóa chất"
+  },
+  "dau-khi": {
+    "chude_slug": "cong-nghiep",
+    "chude_name": "Công nghiệp",
+    "demuc_name": "Dầu khí"
+  },
+  "su-dung-nang-luong-tiet-kiem-va-hieu-qua": {
+    "chude_slug": "cong-nghiep",
+    "chude_name": "Công nghiệp",
+    "demuc_name": "Sử dụng năng lượng tiết kiệm và hiệu quả"
+  },
+  "chuyen-giao-cong-nghe": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Chuyển giao công nghệ"
+  },
+  "khoa-hoc-va-cong-nghe": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Khoa học và công nghệ"
+  },
+  "nang-luong-nguyen-tu": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Năng lượng nguyên tử"
+  },
+  "do-luong": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Đo lường"
+  },
+  "chat-luong-san-pham-hang-hoa": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Chất lượng sản phẩm, hàng hóa"
+  },
+  "cong-nghe-cao": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Công nghệ cao"
+  },
+  "tieu-chuan-va-quy-chuan-ky-thuat": {
+    "chude_slug": "khoa-hoc-cong-nghe",
+    "chude_name": "Khoa học, công nghệ",
+    "demuc_name": "Tiêu chuẩn và quy chuẩn kỹ thuật"
+  },
+  "hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan": {
+    "chude_slug": "to-chuc-bo-may-nha-nuoc",
+    "chude_name": "Tổ chức bộ máy nhà nước",
+    "demuc_name": "Hoạt động giám sát của Quốc hội và Hội đồng nhân dân"
+  },
+  "bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan": {
+    "chude_slug": "to-chuc-bo-may-nha-nuoc",
+    "chude_name": "Tổ chức bộ máy nhà nước",
+    "demuc_name": "Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân"
+  },
+  "mat-tran-to-quoc-viet-nam": {
+    "chude_slug": "to-chuc-bo-may-nha-nuoc",
+    "chude_name": "Tổ chức bộ máy nhà nước",
+    "demuc_name": "Mặt trận Tổ quốc Việt Nam"
+  },
+  "to-chuc-vien-kiem-sat-nhan-dan": {
+    "chude_slug": "to-chuc-bo-may-nha-nuoc",
+    "chude_name": "Tổ chức bộ máy nhà nước",
+    "demuc_name": "Tổ chức Viện kiểm sát nhân dân"
+  },
+  "to-chuc-quoc-hoi": {
+    "chude_slug": "to-chuc-bo-may-nha-nuoc",
+    "chude_name": "Tổ chức bộ máy nhà nước",
+    "demuc_name": "Tổ chức Quốc hội"
+  },
+  "du-lich": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Du lịch"
+  },
+  "hoat-dong-my-thuat": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Hoạt động mỹ thuật"
+  },
+  "quy-che-dat-ten-doi-ten-duong-pho-va-cong-trinh-cong-cong": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Quy chế đặt tên, đổi tên đường, phố và công trình công cộng"
+  },
+  "quang-cao": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Quảng cáo"
+  },
+  "dien-anh": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Điện ảnh"
+  },
+  "thuc-hien-nep-song-van-minh-trong-viec-cuoi-viec-tang": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Thực hiện nếp sống văn minh trong việc cưới, việc tang"
+  },
+  "the-duc-the-thao": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Thể dục, thể thao"
+  },
+  "thu-vien": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Thư viện"
+  },
+  "hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng"
+  },
+  "to-chuc-le-tang-can-bo-cong-chuc-vien-chuc": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Tổ chức lễ tang cán bộ, công chức, viên chức"
+  },
+  "cong-bo-pho-bien-tac-pham-ra-nuoc-ngoai": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Công bố, phổ biến tác phẩm ra nước ngoài"
+  },
+  "hoat-dong-nghe-thuat-bieu-dien": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Hoạt động nghệ thuật biểu diễn"
+  },
+  "nhuan-but-thu-lao-doi-voi-tac-pham-dien-anh-my-thuat-nhiep-anh-san-khau-va-cac-loai-hinh-nghe-thuat-bieu-dien-khac": {
+    "chude_slug": "van-hoa-the-thao-du-lich",
+    "chude_name": "Văn hóa, thể thao, du lịch",
+    "demuc_name": "Nhuận bút, thù lao đối với tác phẩm điện ảnh, mỹ thuật, nhiếp ảnh, sân khấu và các loại hình nghệ thuật biểu diễn khác"
+  },
+  "tin-nguong-ton-giao": {
+    "chude_slug": "ton-giao-tin-nguong",
+    "chude_name": "Tôn giáo, tín ngưỡng",
+    "demuc_name": "Tín ngưỡng, tôn giáo"
+  },
+  "kinh-doanh-bao-hiem": {
+    "chude_slug": "bao-hiem",
+    "chude_name": "Bảo hiểm",
+    "demuc_name": "Kinh doanh bảo hiểm"
+  },
+  "bao-hiem-y-te": {
+    "chude_slug": "bao-hiem",
+    "chude_name": "Bảo hiểm",
+    "demuc_name": "Bảo hiểm y tế"
+  },
+  "hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác"
+  },
+  "quan-ly-trang-thiet-bi-y-te": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Quản lý trang thiết bị y tế"
+  },
+  "an-toan-thuc-pham": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "An toàn thực phẩm"
+  },
+  "phong-chong-tac-hai-cua-thuoc-la": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Phòng, chống tác hại của thuốc lá"
+  },
+  "duoc": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Dược"
+  },
+  "phong-chong-benh-truyen-nhiem": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Phòng, chống bệnh truyền nhiễm"
+  },
+  "phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người"
+  },
+  "phong-chong-tac-hai-cua-ruou-bia": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Phòng, chống tác hại của rượu, bia"
+  },
+  "bao-ve-suc-khoe-nhan-dan": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Bảo vệ sức khỏe nhân dân"
+  },
+  "dieu-kien-san-xuat-my-pham": {
+    "chude_slug": "y-te-duoc",
+    "chude_name": "Y tế, dược",
+    "demuc_name": "Điều kiện sản xuất mỹ phẩm"
+  },
+  "mot-so-chinh-sach-doi-voi-nguoi-viet-nam-o-nuoc-ngoai": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Một số chính sách đối với người Việt Nam ở nước ngoài"
+  },
+  "ham-cap-ngoai-giao": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Hàm, cấp ngoại giao"
+  },
+  "dich-quoc-hieu-ten-cac-co-quan-don-vi-va-chuc-danh-lanh-dao-can-bo-cong-chuc-trong-he-thong-hanh-chinh-nha-nuoc-sang-tieng-anh-de-giao-dich-doi-ngoai": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại"
+  },
+  "lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-chuc-hop-tac-nghien-cuu-cua-nuoc-ngoai-tai-viet-nam": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam"
+  },
+  "thoa-thuan-quoc-te": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Thỏa thuận quốc tế"
+  },
+  "to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-nam": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam"
+  },
+  "co-quan-dai-dien-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-o-nuoc-ngoai": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài"
+  },
+  "dang-ky-va-quan-ly-hoat-dong-cua-cac-to-chuc-phi-chinh-phu-nuoc-ngoai-tai-viet-nam": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam"
+  },
+  "quyen-uu-dai-mien-tru-danh-cho-co-quan-dai-dien-ngoai-giao-co-quan-lanh-su-va-co-quan-dai-dien-cua-to-chuc-quoc-te-tai-viet-nam": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Quyền ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam"
+  },
+  "dieu-uoc-quoc-te": {
+    "chude_slug": "ngoai-giao-dieu-uoc-quoc-te",
+    "chude_name": "Ngoại giao, điều ước quốc tế",
+    "demuc_name": "Điều ước quốc tế"
+  },
+  "bao-ve-quyen-loi-nguoi-tieu-dung": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Bảo vệ quyền lợi người tiêu dùng"
+  },
+  "mot-so-hoat-dong-kinh-doanh-dac-thu": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Một số hoạt động kinh doanh đặc thù"
+  },
+  "thuong-mai": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Thương mại"
+  },
+  "canh-tranh": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Cạnh tranh"
+  },
+  "chung-khoan": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Chứng khoán"
+  },
+  "quan-ly-ngoai-thuong": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Quản lý ngoại thương"
+  },
+  "quan-ly-thi-truong": {
+    "chude_slug": "thuong-mai-dau-tu-chung-khoan",
+    "chude_name": "Thương mại, đầu tư, chứng khoán",
+    "demuc_name": "Quản lý thị trường"
+  },
+  "tiep-can-thong-tin": {
+    "chude_slug": "thong-tin-bao-chi-xuat-ban",
+    "chude_name": "Thông tin, báo chí, xuất bản",
+    "demuc_name": "Tiếp cận thông tin"
+  },
+  "xuat-ban": {
+    "chude_slug": "thong-tin-bao-chi-xuat-ban",
+    "chude_name": "Thông tin, báo chí, xuất bản",
+    "demuc_name": "Xuất bản"
+  },
+  "bao-chi": {
+    "chude_slug": "thong-tin-bao-chi-xuat-ban",
+    "chude_name": "Thông tin, báo chí, xuất bản",
+    "demuc_name": "Báo chí"
+  },
+  "thuc-hanh-tiet-kiem-chong-lang-phi": {
+    "chude_slug": "tai-chinh",
+    "chude_name": "Tài chính",
+    "demuc_name": "Thực hành tiết kiệm, chống lãng phí"
+  },
+  "ngan-sach-nha-nuoc": {
+    "chude_slug": "tai-chinh",
+    "chude_name": "Tài chính",
+    "demuc_name": "Ngân sách nhà nước"
+  },
+  "hai-quan": {
+    "chude_slug": "tai-chinh",
+    "chude_name": "Tài chính",
+    "demuc_name": "Hải quan"
+  },
+  "phong-chong-thien-tai": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Phòng, chống thiên tai"
+  },
+  "thu-y": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Thú y"
+  },
+  "thuy-loi": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Thủy lợi"
+  },
+  "trong-trot": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Trồng trọt"
+  },
+  "bao-ve-va-kiem-dich-thuc-vat": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Bảo vệ và kiểm dịch thực vật"
+  },
+  "phat-trien-nganh-nghe-nong-thon": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Phát triển ngành nghề nông thôn"
+  },
+  "thuy-san": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Thủy sản"
+  },
+  "lam-nghiep": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Lâm nghiệp"
+  },
+  "quan-ly-san-xuat-kinh-doanh-muoi": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Quản lý sản xuất, kinh doanh muối"
+  },
+  "chan-nuoi": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Chăn nuôi"
+  },
+  "de-dieu": {
+    "chude_slug": "nong-nghiep-nong-thon",
+    "chude_name": "Nông nghiệp, nông thôn",
+    "demuc_name": "Đê điều"
+  },
+  "dang-ky-bien-phap-bao-dam": {
+    "chude_slug": "dan-su",
+    "chude_name": "Dân sự",
+    "demuc_name": "Đăng ký biện pháp bảo đảm"
+  },
+  "quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu": {
+    "chude_slug": "dan-su",
+    "chude_name": "Dân sự",
+    "demuc_name": "Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ"
+  },
+  "dan-su": {
+    "chude_slug": "dan-su",
+    "chude_name": "Dân sự",
+    "demuc_name": "Dân sự"
+  },
+  "canh-sat-bien-viet-nam": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Cảnh sát biển Việt Nam"
+  },
+  "giao-duc-quoc-phong-va-an-ninh": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Giáo dục quốc phòng và an ninh"
+  },
+  "bien-phong-viet-nam": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Biên phòng Việt Nam"
+  },
+  "dan-quan-tu-ve": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Dân quân tự vệ"
+  },
+  "quoc-phong": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Quốc phòng"
+  },
+  "mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc"
+  },
+  "nghia-vu-quan-su": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Nghĩa vụ quân sự"
+  },
+  "thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ"
+  },
+  "luc-luong-du-bi-dong-vien": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Lực lượng dự bị động viên"
+  },
+  "si-quan-quan-doi-nhan-dan-viet-nam": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Sĩ quan Quân đội nhân dân Việt Nam"
+  },
+  "quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong": {
+    "chude_slug": "quoc-phong",
+    "chude_name": "Quốc phòng",
+    "demuc_name": "Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng"
+  },
+  "dac-xa": {
+    "chude_slug": "thi-hanh-an",
+    "chude_name": "Thi hành án",
+    "demuc_name": "Đặc xá"
+  },
+  "to-chuc-va-hoat-dong-cua-thua-phat-lai": {
+    "chude_slug": "thi-hanh-an",
+    "chude_name": "Thi hành án",
+    "demuc_name": "Tổ chức và hoạt động của Thừa phát lại"
+  },
+  "thi-hanh-an-dan-su": {
+    "chude_slug": "thi-hanh-an",
+    "chude_name": "Thi hành án",
+    "demuc_name": "Thi hành án dân sự"
+  },
+  "thi-hanh-an-hinh-su": {
+    "chude_slug": "thi-hanh-an",
+    "chude_name": "Thi hành án",
+    "demuc_name": "Thi hành án hình sự"
+  },
+  "hop-tac-xa": {
+    "chude_slug": "doanh-nghiep-hop-tac-xa",
+    "chude_name": "Doanh nghiệp, hợp tác xã",
+    "demuc_name": "Hợp tác xã"
+  },
+  "doanh-nghiep": {
+    "chude_slug": "doanh-nghiep-hop-tac-xa",
+    "chude_name": "Doanh nghiệp, hợp tác xã",
+    "demuc_name": "Doanh nghiệp"
+  },
+  "ho-tro-doanh-nghiep-nho-va-vua": {
+    "chude_slug": "doanh-nghiep-hop-tac-xa",
+    "chude_name": "Doanh nghiệp, hợp tác xã",
+    "demuc_name": "Hỗ trợ doanh nghiệp nhỏ và vừa"
+  },
+  "phong-chong-ma-tuy": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Phòng, chống ma túy"
+  },
+  "dieu-kien-ve-an-ninh-trat-tu-doi-voi-mot-so-nganh-nghe-kinh-doanh-co-dieu-kien": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Điều kiện về an ninh, trật tự đối với một số ngành, nghề kinh doanh có điều kiện"
+  },
+  "canh-sat-co-dong": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Cảnh sát cơ động"
+  },
+  "cu-tru": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Cư trú"
+  },
+  "xu-ly-vi-pham-hanh-chinh": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Xử lý vi phạm hành chính"
+  },
+  "canh-sat-moi-truong": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Cảnh sát môi trường"
+  },
+  "mot-so-bien-phap-bao-dam-trat-tu-cong-cong": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Một số biện pháp bảo đảm trật tự công cộng"
+  },
+  "quan-ly-su-dung-phao": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Quản lý, sử dụng pháo"
+  },
+  "cong-an-xa": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Công an xã"
+  },
+  "chung-minh-nhan-dan": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Chứng minh nhân dân"
+  },
+  "quan-ly-va-su-dung-con-dau": {
+    "chude_slug": "trat-tu-an-toan-xa-hoi",
+    "chude_name": "Trật tự, an toàn xã hội",
+    "demuc_name": "Quản lý và sử dụng con dấu"
+  },
+  "kiem-toan-doc-lap": {
+    "chude_slug": "ke-toan-kiem-toan",
+    "chude_name": "Kế toán, kiểm toán",
+    "demuc_name": "Kiểm toán độc lập"
+  },
+  "ke-toan": {
+    "chude_slug": "ke-toan-kiem-toan",
+    "chude_name": "Kế toán, kiểm toán",
+    "demuc_name": "Kế toán"
+  },
+  "cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky": {
+    "chude_slug": "hanh-chinh-tu-phap",
+    "chude_name": "Hành chính tư pháp",
+    "demuc_name": "Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký"
+  },
+  "nuoi-con-nuoi": {
+    "chude_slug": "hanh-chinh-tu-phap",
+    "chude_name": "Hành chính tư pháp",
+    "demuc_name": "Nuôi con nuôi"
+  },
+  "ly-lich-tu-phap": {
+    "chude_slug": "hanh-chinh-tu-phap",
+    "chude_name": "Hành chính tư pháp",
+    "demuc_name": "Lý lịch tư pháp"
+  },
+  "ho-tich": {
+    "chude_slug": "hanh-chinh-tu-phap",
+    "chude_name": "Hành chính tư pháp",
+    "demuc_name": "Hộ tịch"
+  },
+  "quoc-tich-viet-nam": {
+    "chude_slug": "hanh-chinh-tu-phap",
+    "chude_name": "Hành chính tư pháp",
+    "demuc_name": "Quốc tịch Việt Nam"
+  },
+  "giao-thong-duong-thuy-noi-dia": {
+    "chude_slug": "giao-thong-van-tai",
+    "chude_name": "Giao thông, vận tải",
+    "demuc_name": "Giao thông đường thủy nội địa"
+  },
+  "hang-khong-dan-dung-viet-nam": {
+    "chude_slug": "giao-thong-van-tai",
+    "chude_name": "Giao thông, vận tải",
+    "demuc_name": "Hàng không dân dụng Việt Nam"
+  },
+  "duong-sat": {
+    "chude_slug": "giao-thong-van-tai",
+    "chude_name": "Giao thông, vận tải",
+    "demuc_name": "Đường sắt"
+  },
+  "hang-hai-viet-nam": {
+    "chude_slug": "giao-thong-van-tai",
+    "chude_name": "Giao thông, vận tải",
+    "demuc_name": "Hàng hải Việt Nam"
+  },
+  "do-dac-va-ban-do": {
+    "chude_slug": "tai-nguyen",
+    "chude_name": "Tài nguyên",
+    "demuc_name": "Đo đạc và bản đồ"
+  },
+  "hoat-dong-vien-tham": {
+    "chude_slug": "tai-nguyen",
+    "chude_name": "Tài nguyên",
+    "demuc_name": "Hoạt động viễn thám"
+  },
+  "khi-tuong-thuy-van": {
+    "chude_slug": "tai-nguyen",
+    "chude_name": "Tài nguyên",
+    "demuc_name": "Khí tượng thủy văn"
+  },
+  "tai-nguyen-moi-truong-bien-va-hai-dao": {
+    "chude_slug": "tai-nguyen",
+    "chude_name": "Tài nguyên",
+    "demuc_name": "Tài nguyên, môi trường biển và hải đảo"
+  },
+  "tan-so-vo-tuyen-dien": {
+    "chude_slug": "buu-chinh-vien-thong",
+    "chude_name": "Bưu chính, viễn thông",
+    "demuc_name": "Tần số vô tuyến điện"
+  },
+  "an-toan-thong-tin-mang": {
+    "chude_slug": "buu-chinh-vien-thong",
+    "chude_name": "Bưu chính, viễn thông",
+    "demuc_name": "An toàn thông tin mạng"
+  },
+  "cong-nghe-thong-tin": {
+    "chude_slug": "buu-chinh-vien-thong",
+    "chude_name": "Bưu chính, viễn thông",
+    "demuc_name": "Công nghệ thông tin"
+  },
+  "buu-chinh": {
+    "chude_slug": "buu-chinh-vien-thong",
+    "chude_name": "Bưu chính, viễn thông",
+    "demuc_name": "Bưu chính"
+  },
+  "cong-an-nhan-dan": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Công an nhân dân"
+  },
+  "an-ninh-mang": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "An ninh mạng"
+  },
+  "phong-chong-khung-bo": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Phòng, chống khủng bố"
+  },
+  "an-ninh-quoc-gia": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "An ninh quốc gia"
+  },
+  "bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia"
+  },
+  "nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-viet-nam": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam"
+  },
+  "co-yeu": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Cơ yếu"
+  },
+  "bao-ve-bi-mat-nha-nuoc": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Bảo vệ bí mật nhà nước"
+  },
+  "bien-gioi-quoc-gia": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Biên giới quốc gia"
+  },
+  "xuat-canh-nhap-canh-cua-cong-dan-viet-nam": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Xuất cảnh, nhập cảnh của công dân Việt Nam"
+  },
+  "bien-viet-nam": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Biển Việt Nam"
+  },
+  "canh-ve": {
+    "chude_slug": "an-ninh-quoc-gia",
+    "chude_name": "An ninh quốc gia",
+    "demuc_name": "Cảnh vệ"
+  },
+  "vien-chuc": {
+    "chude_slug": "can-bo-cong-chuc-vien-chuc",
+    "chude_name": "Cán bộ, công chức, viên chức",
+    "demuc_name": "Viên chức"
+  },
+  "thanh-nien": {
+    "chude_slug": "to-chuc-chinh-tri-xa-hoi-hoi",
+    "chude_name": "Tổ chức chính trị - xã hội, hội",
+    "demuc_name": "Thanh niên"
+  },
+  "quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi": {
+    "chude_slug": "to-chuc-chinh-tri-xa-hoi-hoi",
+    "chude_name": "Tổ chức chính trị - xã hội, hội",
+    "demuc_name": "Quyền lập hội và tổ chức, hoạt động, quản lý hội"
+  },
+  "cuu-chien-binh": {
+    "chude_slug": "to-chuc-chinh-tri-xa-hoi-hoi",
+    "chude_name": "Tổ chức chính trị - xã hội, hội",
+    "demuc_name": "Cựu chiến binh"
+  },
+  "hoat-dong-chu-thap-do": {
+    "chude_slug": "to-chuc-chinh-tri-xa-hoi-hoi",
+    "chude_name": "Tổ chức chính trị - xã hội, hội",
+    "demuc_name": "Hoạt động chữ thập đỏ"
+  },
+  "to-chuc-hoat-dong-cua-quy-xa-hoi-quy-tu-thien": {
+    "chude_slug": "to-chuc-chinh-tri-xa-hoi-hoi",
+    "chude_name": "Tổ chức chính trị - xã hội, hội",
+    "demuc_name": "Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện"
+  },
+  "thi-hanh-tam-giu-tam-giam": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Thi hành tạm giữ, tạm giam"
+  },
+  "to-tung-hinh-su": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Tố tụng hình sự"
+  },
+  "hoa-giai-doi-thoai-tai-toa-an": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Hòa giải, đối thoại tại Tòa án"
+  },
+  "to-tung-dan-su": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Tố tụng dân sự"
+  },
+  "trong-tai-thuong-mai": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Trọng tài thương mại"
+  },
+  "pha-san": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Phá sản"
+  },
+  "thu-tuc-bat-giu-tau-bay": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Thủ tục bắt giữ tàu bay"
+  },
+  "to-chuc-co-quan-dieu-tra-hinh-su": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Tổ chức cơ quan điều tra hình sự"
+  },
+  "trach-nhiem-boi-thuong-cua-nha-nuoc": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Trách nhiệm bồi thường của Nhà nước"
+  },
+  "to-tung-hanh-chinh": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Tố tụng hành chính"
+  },
+  "thu-tuc-bat-giu-tau-bien": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Thủ tục bắt giữ tàu biển"
+  },
+  "hoa-giai-o-co-so": {
+    "chude_slug": "to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap",
+    "chude_name": "Tố tụng và các phương thức giải quyết tranh chấp",
+    "demuc_name": "Hòa giải ở cơ sở"
+  },
+  "uu-dai-nguoi-co-cong-voi-cach-mang": {
+    "chude_slug": "chinh-sach-xa-hoi",
+    "chude_name": "Chính sách xã hội",
+    "demuc_name": "Ưu đãi người có công với cách mạng"
+  },
+  "chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi": {
+    "chude_slug": "chinh-sach-xa-hoi",
+    "chude_name": "Chính sách xã hội",
+    "demuc_name": "Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội"
+  },
+  "phong-chong-mai-dam": {
+    "chude_slug": "chinh-sach-xa-hoi",
+    "chude_name": "Chính sách xã hội",
+    "demuc_name": "Phòng, chống mại dâm"
+  },
+  "nguoi-khuyet-tat": {
+    "chude_slug": "chinh-sach-xa-hoi",
+    "chude_name": "Chính sách xã hội",
+    "demuc_name": "Người khuyết tật"
+  },
+  "nguoi-cao-tuoi": {
+    "chude_slug": "chinh-sach-xa-hoi",
+    "chude_name": "Chính sách xã hội",
+    "demuc_name": "Người cao tuổi"
+  },
+  "tu-van-phap-luat": {
+    "chude_slug": "bo-tro-tu-phap",
+    "chude_name": "Bổ trợ tư pháp",
+    "demuc_name": "Tư vấn pháp luật"
+  },
+  "tro-giup-phap-ly": {
+    "chude_slug": "bo-tro-tu-phap",
+    "chude_name": "Bổ trợ tư pháp",
+    "demuc_name": "Trợ giúp pháp lý"
+  },
+  "luat-su": {
+    "chude_slug": "bo-tro-tu-phap",
+    "chude_name": "Bổ trợ tư pháp",
+    "demuc_name": "Luật sư"
+  },
+  "dau-gia-tai-san": {
+    "chude_slug": "bo-tro-tu-phap",
+    "chude_name": "Bổ trợ tư pháp",
+    "demuc_name": "Đấu giá tài sản"
+  },
+  "giam-dinh-tu-phap": {
+    "chude_slug": "bo-tro-tu-phap",
+    "chude_name": "Bổ trợ tư pháp",
+    "demuc_name": "Giám định tư pháp"
+  },
+  "pho-bien-giao-duc-phap-luat": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Phổ biến, giáo dục pháp luật"
+  },
+  "phap-dien-he-thong-quy-pham-phap-luat": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Pháp điển hệ thống quy phạm pháp luật"
+  },
+  "kiem-soat-thu-tuc-hanh-chinh": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Kiểm soát thủ tục hành chính"
+  },
+  "chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to-chuc-phap-che": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế"
+  },
+  "tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính"
+  },
+  "hop-nhat-van-ban-quy-pham-phap-luat": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Hợp nhất văn bản quy phạm pháp luật"
+  },
+  "trung-cau-y-dan": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Trưng cầu ý dân"
+  },
+  "thuc-hien-dan-chu-o-co-so": {
+    "chude_slug": "xay-dung-phap-luat-va-thi-hanh-phap-luat",
+    "chude_name": "Xây dựng pháp luật và thi hành pháp luật",
+    "demuc_name": "Thực hiện dân chủ ở cơ sở"
+  },
+  "lao-dong": {
+    "chude_slug": "lao-dong",
+    "chude_name": "Lao động",
+    "demuc_name": "Lao động"
+  },
+  "nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong": {
+    "chude_slug": "lao-dong",
+    "chude_name": "Lao động",
+    "demuc_name": "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng"
+  },
+  "viec-lam": {
+    "chude_slug": "lao-dong",
+    "chude_name": "Lao động",
+    "demuc_name": "Việc làm"
+  },
+  "giao-duc-nghe-nghiep": {
+    "chude_slug": "lao-dong",
+    "chude_name": "Lao động",
+    "demuc_name": "Giáo dục nghề nghiệp"
+  },
+  "an-toan-ve-sinh-lao-dong": {
+    "chude_slug": "lao-dong",
+    "chude_name": "Lao động",
+    "demuc_name": "An toàn, vệ sinh lao động"
+  },
+  "thong-ke": {
+    "chude_slug": "thong-ke",
+    "chude_name": "Thống kê",
+    "demuc_name": "Thống kê"
+  },
+  "tre-em": {
+    "chude_slug": "dan-so-gia-dinh-tre-em-binh-dang-gioi",
+    "chude_name": "Dân số, gia đình, trẻ em, bình đẳng giới",
+    "demuc_name": "Trẻ em"
+  },
+  "hon-nhan-va-gia-dinh": {
+    "chude_slug": "dan-so-gia-dinh-tre-em-binh-dang-gioi",
+    "chude_name": "Dân số, gia đình, trẻ em, bình đẳng giới",
+    "demuc_name": "Hôn nhân và gia đình"
+  },
+  "binh-dang-gioi": {
+    "chude_slug": "dan-so-gia-dinh-tre-em-binh-dang-gioi",
+    "chude_name": "Dân số, gia đình, trẻ em, bình đẳng giới",
+    "demuc_name": "Bình đẳng giới"
+  },
+  "dan-so": {
+    "chude_slug": "dan-so-gia-dinh-tre-em-binh-dang-gioi",
+    "chude_name": "Dân số, gia đình, trẻ em, bình đẳng giới",
+    "demuc_name": "Dân số"
+  },
+  "khieu-nai": {
+    "chude_slug": "khieu-nai-to-cao",
+    "chude_name": "Khiếu nại, tố cáo",
+    "demuc_name": "Khiếu nại"
+  },
+  "to-cao": {
+    "chude_slug": "khieu-nai-to-cao",
+    "chude_name": "Khiếu nại, tố cáo",
+    "demuc_name": "Tố cáo"
+  },
+  "tiep-cong-dan": {
+    "chude_slug": "khieu-nai-to-cao",
+    "chude_name": "Khiếu nại, tố cáo",
+    "demuc_name": "Tiếp công dân"
+  },
+  "phong-chong-tham-nhung": {
+    "chude_slug": "khieu-nai-to-cao",
+    "chude_name": "Khiếu nại, tố cáo",
+    "demuc_name": "Phòng, chống tham nhũng"
+  }
+}
