@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/moi-truong/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Đa dạng sinh học](../de-muc/da-dang-sinh-hoc/)**
+1. **[Đa dạng sinh học](/van-ban/de-muc/da-dang-sinh-hoc/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

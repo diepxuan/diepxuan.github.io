@@ -12,13 +12,13 @@ permalink: /van-ban/chu-de/thong-tin-bao-chi-xuat-ban/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Báo chí](../de-muc/bao-chi/)**
-2. **[Tiếp cận thông tin](../de-muc/tiep-can-thong-tin/)**
-3. **[Xuất bản](../de-muc/xuat-ban/)**
+1. **[Báo chí](/van-ban/de-muc/bao-chi/)**
+2. **[Tiếp cận thông tin](/van-ban/de-muc/tiep-can-thong-tin/)**
+3. **[Xuất bản](/van-ban/de-muc/xuat-ban/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 3

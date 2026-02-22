@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/mat-tran-to-quoc-viet-nam/
 # Mặt trận Tổ quốc Việt Nam
 
 **Đề mục:** Mặt trận Tổ quốc Việt Nam  
-**Chủ đề:** [Tổ chức bộ máy nhà nước](../chu-de/to-chuc-bo-may-nha-nuoc/)  
+**Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/chu-de/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 181  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1826,7 +1826,7 @@ permalink: /van-ban/de-muc/mat-tran-to-quoc-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước](../chu-de/to-chuc-bo-may-nha-nuoc/)  
+[← Danh sách đề mục của Tổ chức bộ máy nhà nước](/van-ban/chu-de/to-chuc-bo-may-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

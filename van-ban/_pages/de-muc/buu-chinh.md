@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/buu-chinh/
 # Bưu chính
 
 **Đề mục:** Bưu chính  
-**Chủ đề:** [Bưu chính, viễn thông](../chu-de/buu-chinh-vien-thong/)  
+**Chủ đề:** [Bưu chính, viễn thông](/van-ban/chu-de/buu-chinh-vien-thong/)  
 **Số điều khoản:** 364  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3656,7 +3656,7 @@ permalink: /van-ban/de-muc/buu-chinh/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bưu chính, viễn thông](../chu-de/buu-chinh-vien-thong/)  
+[← Danh sách đề mục của Bưu chính, viễn thông](/van-ban/chu-de/buu-chinh-vien-thong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

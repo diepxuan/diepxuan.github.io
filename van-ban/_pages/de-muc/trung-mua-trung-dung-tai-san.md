@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/trung-mua-trung-dung-tai-san/
 # Trưng mua, trưng dụng tài sản
 
 **Đề mục:** Trưng mua, trưng dụng tài sản  
-**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](../chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 46  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -476,7 +476,7 @@ permalink: /van-ban/de-muc/trung-mua-trung-dung-tai-san/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](../chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

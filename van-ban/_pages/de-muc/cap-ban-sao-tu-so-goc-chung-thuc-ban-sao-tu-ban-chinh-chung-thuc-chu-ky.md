@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh
 # Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký
 
 **Đề mục:** Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký  
-**Chủ đề:** [Hành chính tư pháp](../chu-de/hanh-chinh-tu-phap/)  
+**Chủ đề:** [Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 83  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -846,7 +846,7 @@ permalink: /van-ban/de-muc/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Hành chính tư pháp](../chu-de/hanh-chinh-tu-phap/)  
+[← Danh sách đề mục của Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

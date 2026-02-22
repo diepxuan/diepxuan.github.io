@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/pho-bien-giao-duc-phap-luat/
 # Phổ biến, giáo dục pháp luật
 
 **Đề mục:** Phổ biến, giáo dục pháp luật  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](../chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 179  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1806,7 +1806,7 @@ permalink: /van-ban/de-muc/pho-bien-giao-duc-phap-luat/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](../chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

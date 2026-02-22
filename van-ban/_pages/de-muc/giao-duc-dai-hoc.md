@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/giao-duc-dai-hoc/
 # Giáo dục đại học
 
 **Đề mục:** Giáo dục đại học  
-**Chủ đề:** [Giáo dục, đào tạo](../chu-de/giao-duc-dao-tao/)  
+**Chủ đề:** [Giáo dục, đào tạo](/van-ban/chu-de/giao-duc-dao-tao/)  
 **Số điều khoản:** 585  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5866,7 +5866,7 @@ permalink: /van-ban/de-muc/giao-duc-dai-hoc/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Giáo dục, đào tạo](../chu-de/giao-duc-dao-tao/)  
+[← Danh sách đề mục của Giáo dục, đào tạo](/van-ban/chu-de/giao-duc-dao-tao/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

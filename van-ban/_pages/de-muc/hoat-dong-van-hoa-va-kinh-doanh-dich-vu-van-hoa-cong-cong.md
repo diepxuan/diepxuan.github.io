@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-
 # Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng
 
 **Đề mục:** Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng  
-**Chủ đề:** [Văn hóa, thể thao, du lịch](../chu-de/van-hoa-the-thao-du-lich/)  
+**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/chu-de/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 23  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -246,7 +246,7 @@ permalink: /van-ban/de-muc/hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch](../chu-de/van-hoa-the-thao-du-lich/)  
+[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-ban/chu-de/van-hoa-the-thao-du-lich/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

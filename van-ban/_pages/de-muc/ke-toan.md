@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/ke-toan/
 # Kế toán
 
 **Đề mục:** Kế toán  
-**Chủ đề:** [Kế toán, kiểm toán](../chu-de/ke-toan-kiem-toan/)  
+**Chủ đề:** [Kế toán, kiểm toán](/van-ban/chu-de/ke-toan-kiem-toan/)  
 **Số điều khoản:** 1514  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -15182,7 +15182,7 @@ Việc hướng dẫn nguyên tắc, nội dung, kết cấu và phương pháp 
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Kế toán, kiểm toán](../chu-de/ke-toan-kiem-toan/)  
+[← Danh sách đề mục của Kế toán, kiểm toán](/van-ban/chu-de/ke-toan-kiem-toan/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

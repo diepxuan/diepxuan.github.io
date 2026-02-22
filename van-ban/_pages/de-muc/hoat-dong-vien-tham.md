@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hoat-dong-vien-tham/
 # Hoạt động viễn thám
 
 **Đề mục:** Hoạt động viễn thám  
-**Chủ đề:** [Tài nguyên](../chu-de/tai-nguyen/)  
+**Chủ đề:** [Tài nguyên](/van-ban/chu-de/tai-nguyen/)  
 **Số điều khoản:** 312  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3136,7 +3136,7 @@ permalink: /van-ban/de-muc/hoat-dong-vien-tham/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài nguyên](../chu-de/tai-nguyen/)  
+[← Danh sách đề mục của Tài nguyên](/van-ban/chu-de/tai-nguyen/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

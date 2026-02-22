@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dac-xa/
 # Đặc xá
 
 **Đề mục:** Đặc xá  
-**Chủ đề:** [Thi hành án](../chu-de/thi-hanh-an/)  
+**Chủ đề:** [Thi hành án](/van-ban/chu-de/thi-hanh-an/)  
 **Số điều khoản:** 58  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -596,7 +596,7 @@ permalink: /van-ban/de-muc/dac-xa/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thi hành án](../chu-de/thi-hanh-an/)  
+[← Danh sách đề mục của Thi hành án](/van-ban/chu-de/thi-hanh-an/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

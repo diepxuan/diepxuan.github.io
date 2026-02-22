@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/canh-ve/
 # Cảnh vệ
 
 **Đề mục:** Cảnh vệ  
-**Chủ đề:** [An ninh quốc gia](../chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 74  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -756,7 +756,7 @@ permalink: /van-ban/de-muc/canh-ve/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](../chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hai-quan/
 # Hải quan
 
 **Đề mục:** Hải quan  
-**Chủ đề:** [Tài chính](../chu-de/tai-chinh/)  
+**Chủ đề:** [Tài chính](/van-ban/chu-de/tai-chinh/)  
 **Số điều khoản:** 1292  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -12940,7 +12940,7 @@ a) Bản khai chung;
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài chính](../chu-de/tai-chinh/)  
+[← Danh sách đề mục của Tài chính](/van-ban/chu-de/tai-chinh/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

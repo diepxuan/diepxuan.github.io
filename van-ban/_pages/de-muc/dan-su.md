@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dan-su/
 # Dân sự
 
 **Đề mục:** Dân sự  
-**Chủ đề:** [Dân sự](../chu-de/dan-su/)  
+**Chủ đề:** [Dân sự](/van-ban/chu-de/dan-su/)  
 **Số điều khoản:** 812  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -8136,7 +8136,7 @@ permalink: /van-ban/de-muc/dan-su/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Dân sự](../chu-de/dan-su/)  
+[← Danh sách đề mục của Dân sự](/van-ban/chu-de/dan-su/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
