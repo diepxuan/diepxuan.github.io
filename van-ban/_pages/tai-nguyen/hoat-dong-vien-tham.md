@@ -2,6 +2,9 @@
 layout: default
 title: Hoạt động viễn thám
 permalink: /van-ban/tai-nguyen/hoat-dong-vien-tham/
+collection: subtopics
+slug: hoat-dong-vien-tham
+parent: tai-nguyen
 ---
 
 # Hoạt động viễn thám

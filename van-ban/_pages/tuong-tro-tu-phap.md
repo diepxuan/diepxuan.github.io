@@ -2,6 +2,8 @@
 layout: default
 title: Tương trợ tư pháp
 permalink: /van-ban/tuong-tro-tu-phap/
+collection: topics
+slug: tuong-tro-tu-phap
 ---
 
 # Tương trợ tư pháp

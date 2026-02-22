@@ -2,6 +2,9 @@
 layout: default
 title: Hoạt động mỹ thuật
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-my-thuat/
+collection: subtopics
+slug: hoat-dong-my-thuat
+parent: van-hoa-the-thao-du-lich
 ---
 
 # Hoạt động mỹ thuật

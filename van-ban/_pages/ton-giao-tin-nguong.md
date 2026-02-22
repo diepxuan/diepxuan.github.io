@@ -2,6 +2,8 @@
 layout: default
 title: Tôn giáo, tín ngưỡng
 permalink: /van-ban/ton-giao-tin-nguong/
+collection: topics
+slug: ton-giao-tin-nguong
 ---
 
 # Tôn giáo, tín ngưỡng

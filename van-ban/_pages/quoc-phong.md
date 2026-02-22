@@ -2,6 +2,8 @@
 layout: default
 title: Quốc phòng
 permalink: /van-ban/quoc-phong/
+collection: topics
+slug: quoc-phong
 ---
 
 # Quốc phòng

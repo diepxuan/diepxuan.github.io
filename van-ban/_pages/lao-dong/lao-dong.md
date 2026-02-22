@@ -2,6 +2,9 @@
 layout: default
 title: Lao động
 permalink: /van-ban/lao-dong/lao-dong/
+collection: subtopics
+slug: lao-dong
+parent: lao-dong
 ---
 
 # Lao động

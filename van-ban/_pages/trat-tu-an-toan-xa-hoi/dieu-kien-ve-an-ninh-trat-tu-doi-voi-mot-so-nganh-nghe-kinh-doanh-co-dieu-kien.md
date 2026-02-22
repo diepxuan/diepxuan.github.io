@@ -2,6 +2,9 @@
 layout: default
 title: Điều kiện về an ninh, trật tự đối với một số ngành, nghề kinh doanh có điều kiện
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/dieu-kien-ve-an-ninh-trat-tu-doi-voi-mot-so-nganh-nghe-kinh-doanh-co-dieu-kien/
+collection: subtopics
+slug: dieu-kien-ve-an-ninh-trat-tu-doi-voi-mot-so-nganh-nghe-kinh-doanh-co-dieu-kien
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Điều kiện về an ninh, trật tự đối với một số ngành, nghề kinh doanh có điều kiện

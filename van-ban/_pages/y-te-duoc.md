@@ -2,6 +2,8 @@
 layout: default
 title: Y tế, dược
 permalink: /van-ban/y-te-duoc/
+collection: topics
+slug: y-te-duoc
 ---
 
 # Y tế, dược

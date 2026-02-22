@@ -2,6 +2,8 @@
 layout: default
 title: Thương mại, đầu tư, chứng khoán
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/
+collection: topics
+slug: thuong-mai-dau-tu-chung-khoan
 ---
 
 # Thương mại, đầu tư, chứng khoán

@@ -2,6 +2,9 @@
 layout: default
 title: Tần số vô tuyến điện
 permalink: /van-ban/buu-chinh-vien-thong/tan-so-vo-tuyen-dien/
+collection: subtopics
+slug: tan-so-vo-tuyen-dien
+parent: buu-chinh-vien-thong
 ---
 
 # Tần số vô tuyến điện

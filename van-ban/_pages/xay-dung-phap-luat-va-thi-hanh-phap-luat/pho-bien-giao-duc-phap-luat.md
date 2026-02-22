@@ -2,6 +2,9 @@
 layout: default
 title: Phổ biến, giáo dục pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/pho-bien-giao-duc-phap-luat/
+collection: subtopics
+slug: pho-bien-giao-duc-phap-luat
+parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Phổ biến, giáo dục pháp luật

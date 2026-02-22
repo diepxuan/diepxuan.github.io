@@ -2,6 +2,9 @@
 layout: default
 title: Giáo dục đại học
 permalink: /van-ban/giao-duc-dao-tao/giao-duc-dai-hoc/
+collection: subtopics
+slug: giao-duc-dai-hoc
+parent: giao-duc-dao-tao
 ---
 
 # Giáo dục đại học

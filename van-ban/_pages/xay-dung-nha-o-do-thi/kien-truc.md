@@ -2,6 +2,9 @@
 layout: default
 title: Kiến trúc
 permalink: /van-ban/xay-dung-nha-o-do-thi/kien-truc/
+collection: subtopics
+slug: kien-truc
+parent: xay-dung-nha-o-do-thi
 ---
 
 # Kiến trúc

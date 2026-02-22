@@ -2,6 +2,9 @@
 layout: default
 title: Tố cáo
 permalink: /van-ban/khieu-nai-to-cao/to-cao/
+collection: subtopics
+slug: to-cao
+parent: khieu-nai-to-cao
 ---
 
 # Tố cáo

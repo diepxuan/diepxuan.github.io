@@ -2,6 +2,9 @@
 layout: default
 title: Thương mại
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/thuong-mai/
+collection: subtopics
+slug: thuong-mai
+parent: thuong-mai-dau-tu-chung-khoan
 ---
 
 # Thương mại

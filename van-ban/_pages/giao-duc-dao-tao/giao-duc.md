@@ -2,6 +2,9 @@
 layout: default
 title: Giáo dục
 permalink: /van-ban/giao-duc-dao-tao/giao-duc/
+collection: subtopics
+slug: giao-duc
+parent: giao-duc-dao-tao
 ---
 
 # Giáo dục

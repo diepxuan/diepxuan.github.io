@@ -2,6 +2,9 @@
 layout: default
 title: Nghĩa vụ quân sự
 permalink: /van-ban/quoc-phong/nghia-vu-quan-su/
+collection: subtopics
+slug: nghia-vu-quan-su
+parent: quoc-phong
 ---
 
 # Nghĩa vụ quân sự

@@ -2,6 +2,9 @@
 layout: default
 title: Lâm nghiệp
 permalink: /van-ban/nong-nghiep-nong-thon/lam-nghiep/
+collection: subtopics
+slug: lam-nghiep
+parent: nong-nghiep-nong-thon
 ---
 
 # Lâm nghiệp

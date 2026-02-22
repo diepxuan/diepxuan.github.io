@@ -2,6 +2,9 @@
 layout: default
 title: Đăng ký biện pháp bảo đảm
 permalink: /van-ban/dan-su/dang-ky-bien-phap-bao-dam/
+collection: subtopics
+slug: dang-ky-bien-phap-bao-dam
+parent: dan-su
 ---
 
 # Đăng ký biện pháp bảo đảm

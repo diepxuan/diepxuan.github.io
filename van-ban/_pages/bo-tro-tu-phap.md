@@ -2,6 +2,8 @@
 layout: default
 title: Bổ trợ tư pháp
 permalink: /van-ban/bo-tro-tu-phap/
+collection: topics
+slug: bo-tro-tu-phap
 ---
 
 # Bổ trợ tư pháp

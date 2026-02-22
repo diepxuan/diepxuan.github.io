@@ -2,6 +2,9 @@
 layout: default
 title: Bảo hiểm tiền gửi
 permalink: /van-ban/ngan-hang-tien-te/bao-hiem-tien-gui/
+collection: subtopics
+slug: bao-hiem-tien-gui
+parent: ngan-hang-tien-te
 ---
 
 # Bảo hiểm tiền gửi

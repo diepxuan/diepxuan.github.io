@@ -2,6 +2,8 @@
 layout: default
 title: Bảo hiểm
 permalink: /van-ban/bao-hiem/
+collection: topics
+slug: bao-hiem
 ---
 
 # Bảo hiểm

@@ -2,6 +2,9 @@
 layout: default
 title: Kế toán
 permalink: /van-ban/ke-toan-kiem-toan/ke-toan/
+collection: subtopics
+slug: ke-toan
+parent: ke-toan-kiem-toan
 ---
 
 # Kế toán

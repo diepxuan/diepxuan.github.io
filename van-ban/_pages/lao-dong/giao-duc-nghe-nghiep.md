@@ -2,6 +2,9 @@
 layout: default
 title: Giáo dục nghề nghiệp
 permalink: /van-ban/lao-dong/giao-duc-nghe-nghiep/
+collection: subtopics
+slug: giao-duc-nghe-nghiep
+parent: lao-dong
 ---
 
 # Giáo dục nghề nghiệp

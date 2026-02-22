@@ -2,6 +2,8 @@
 layout: default
 title: Giáo dục, đào tạo
 permalink: /van-ban/giao-duc-dao-tao/
+collection: topics
+slug: giao-duc-dao-tao
 ---
 
 # Giáo dục, đào tạo

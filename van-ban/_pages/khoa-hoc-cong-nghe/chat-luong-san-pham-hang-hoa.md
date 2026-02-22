@@ -2,6 +2,9 @@
 layout: default
 title: Chất lượng sản phẩm, hàng hóa
 permalink: /van-ban/khoa-hoc-cong-nghe/chat-luong-san-pham-hang-hoa/
+collection: subtopics
+slug: chat-luong-san-pham-hang-hoa
+parent: khoa-hoc-cong-nghe
 ---
 
 # Chất lượng sản phẩm, hàng hóa

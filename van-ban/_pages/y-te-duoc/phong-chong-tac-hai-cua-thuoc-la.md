@@ -2,6 +2,9 @@
 layout: default
 title: Phòng, chống tác hại của thuốc lá
 permalink: /van-ban/y-te-duoc/phong-chong-tac-hai-cua-thuoc-la/
+collection: subtopics
+slug: phong-chong-tac-hai-cua-thuoc-la
+parent: y-te-duoc
 ---
 
 # Phòng, chống tác hại của thuốc lá

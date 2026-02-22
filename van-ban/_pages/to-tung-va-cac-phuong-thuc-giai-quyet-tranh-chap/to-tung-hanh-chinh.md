@@ -2,6 +2,9 @@
 layout: default
 title: Tố tụng hành chính
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-hanh-chinh/
+collection: subtopics
+slug: to-tung-hanh-chinh
+parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Tố tụng hành chính

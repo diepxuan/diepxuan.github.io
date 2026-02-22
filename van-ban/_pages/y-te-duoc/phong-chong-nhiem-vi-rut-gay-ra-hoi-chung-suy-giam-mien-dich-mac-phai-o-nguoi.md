@@ -2,6 +2,9 @@
 layout: default
 title: Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người
 permalink: /van-ban/y-te-duoc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi/
+collection: subtopics
+slug: phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi
+parent: y-te-duoc
 ---
 
 # Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người

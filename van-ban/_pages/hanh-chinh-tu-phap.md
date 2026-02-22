@@ -2,6 +2,8 @@
 layout: default
 title: Hành chính tư pháp
 permalink: /van-ban/hanh-chinh-tu-phap/
+collection: topics
+slug: hanh-chinh-tu-phap
 ---
 
 # Hành chính tư pháp

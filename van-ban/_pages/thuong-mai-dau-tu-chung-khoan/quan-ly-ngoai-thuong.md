@@ -2,6 +2,9 @@
 layout: default
 title: Quản lý ngoại thương
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-ngoai-thuong/
+collection: subtopics
+slug: quan-ly-ngoai-thuong
+parent: thuong-mai-dau-tu-chung-khoan
 ---
 
 # Quản lý ngoại thương

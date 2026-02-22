@@ -2,6 +2,9 @@
 layout: default
 title: Đo đạc và bản đồ
 permalink: /van-ban/tai-nguyen/do-dac-va-ban-do/
+collection: subtopics
+slug: do-dac-va-ban-do
+parent: tai-nguyen
 ---
 
 # Đo đạc và bản đồ

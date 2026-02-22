@@ -2,6 +2,9 @@
 layout: default
 title: Pháp điển hệ thống quy phạm pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/phap-dien-he-thong-quy-pham-phap-luat/
+collection: subtopics
+slug: phap-dien-he-thong-quy-pham-phap-luat
+parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Pháp điển hệ thống quy phạm pháp luật

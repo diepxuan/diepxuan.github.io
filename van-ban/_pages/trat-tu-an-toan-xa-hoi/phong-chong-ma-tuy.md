@@ -2,6 +2,9 @@
 layout: default
 title: Phòng, chống ma túy
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/phong-chong-ma-tuy/
+collection: subtopics
+slug: phong-chong-ma-tuy
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Phòng, chống ma túy

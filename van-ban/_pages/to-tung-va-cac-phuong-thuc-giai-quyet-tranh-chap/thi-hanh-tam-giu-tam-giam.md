@@ -2,6 +2,9 @@
 layout: default
 title: Thi hành tạm giữ, tạm giam
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thi-hanh-tam-giu-tam-giam/
+collection: subtopics
+slug: thi-hanh-tam-giu-tam-giam
+parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Thi hành tạm giữ, tạm giam
