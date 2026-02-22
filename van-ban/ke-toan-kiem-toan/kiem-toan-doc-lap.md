@@ -12,6 +12,7 @@ parent: ke-toan-kiem-toan
 **Đề mục:** Kiểm toán độc lập  
 **Chủ đề:** [Kế toán, kiểm toán](/van-ban/ke-toan-kiem-toan/)  
 **Số điều khoản:** 278  
+**Điều khoản có nội dung:** 251/278 (90.3%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 0105C5C9-AAA8-4DCB-874D-2D6F4D68CB7B
 
+Luật này quy định nguyên tắc, điều kiện, phạm vi, hình thức hoạt động kiểm toán độc lập; quyền, nghĩa vụ của kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và đơn vị được kiểm toán.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000200500000000000000
 
 **ID:** A89E9064-E32D-4BA0-9FCD-828742F42A44
+
+Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Kiểm toán độc lập về Tổ chức nghề nghiệp về kiểm toán; doanh nghiệp kiểm toán; cung cấp dịch vụ kiểm toán qua biên giới; đơn vị được kiểm toán; báo cáo kiểm toán và lưu trữ, sử dụng và tiêu hủy hồ sơ kiểm toán.
 
 ---
 
@@ -47,6 +52,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 839242D2-80AF-4C2E-B956-2FA24CE6BE41
 
+Nghị định này quy định về tiêu chuẩn, Điều kiện đối với kiểm toán viên hành nghề, tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000203452811501250000
 
 **ID:** 0EA9FB84-744A-47BF-B8B4-8C7D09B6F319
+
+Thông tư này hướng dẫn về cập nhật kiến thức hàng năm cho kiểm toán viên đăng ký hành nghề kiểm toán theo quy định tại điểm h khoản 2 Điều 11 Luật Kiểm toán độc lập.
 
 ---
 
@@ -69,6 +78,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 156BFBDB-83EC-4CF3-933A-D7D0368AA4AB
 
+Thông tư này quy định về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán theo quy định tại điểm i khoản 2 Điều 11 Luật kiểm toán độc lập.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000207259521598866000
 
 **ID:** 2D20AA21-4828-4256-993A-035ED1767005
+
+Thông tư này quy định về trình tự, thủ tục cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
 ---
 
@@ -91,6 +104,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 79692616-DC17-46E9-9341-30ABC916A667
 
+1. Thông tư này quy định về kiểm toán độc lập đối với đơn vị có lợi ích công chúng. Đơn vị có lợi ích công chúng là đơn vị được quy định tại Điều 4 của Thông tư này.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000217450850382553000
 
 **ID:** 84467341-2E99-47E4-9A5A-FEF605C5DDAB
+
+Thông tư này quy định việc tổ chức và thực hiện kiểm soát chất lượng dịch vụ kiểm toán, dịch vụ soát xét báo cáo tài chính, thông tin tài chính và dịch vụ đảm bảo khác theo quy định tại Khoản 1 Điều 40 Luật kiểm toán độc lập (sau đây gọi tắt là dịch vụ kiểm toán) của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
 ---
 
@@ -113,6 +130,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 804DEF81-08FA-4430-8391-E789E531ED8A
 
+Thông tư này quy định về việc thi, cấp, quản lý chứng chỉ kiểm toán viên và chứng chỉ kế toán viên theo quy định tại điểm c khoản 2 Điều 11 Luật kiểm toán độc lập và quy định tại Điều 57, điểm d khoản 2 Điều 71 Luật kế toán.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000280272840040000010
 
 **ID:** 3469BA34-FFD3-4D30-8036-3E92D6395247
+
+Thông tư này hướng dẫn chế độ báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán, kiểm toán độc lập qua biên giới phát sinh trong kỳ tại Việt Nam và tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài, doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kế toán, kiểm toán độc lập qua biên giới theo quy định tại Điều 32, Điều 33 Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Điều 13, Điều 14 Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập.
 
 ---
 
@@ -135,6 +156,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 805994E3-19F0-4970-8B40-51D4B2BB441C
 
+1. Chuẩn mực kiểm soát chất lượng số 1- Kiểm soát chất lượng doanh nghiệp thực hiện kiểm toán, soát xét báo cáo tài chính, dịch vụ đảm bảo và các dịch vụ liên quan khác (VSQC1).
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000060000000000000000000802545000650000100
 
 **ID:** 2D1F53D0-41EC-4A1C-AEDA-05A00E4274DE
+
+1. Chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét số 2400 - Dịch vụ soát xét báo cáo tài chính quá khứ.
 
 ---
 
@@ -157,6 +182,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** FBED4E8F-67B9-457F-B704-90958DCDAA91
 
+1. Chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo số 3000 - Hợp đồng dịch vụ đảm bảo ngoài dịch vụ kiểm toán và soát xét thông tin tài chính quá khứ.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000060000000000000000000802545000670000100
 
 **ID:** 3675B059-94A4-41DC-9818-6479F30934F3
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -179,6 +208,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E8D266ED-09D4-412F-806F-EE337442BFDE
 
+1. Chuẩn mực Việt Nam về dịch vụ liên quan số 4400 - Hợp đồng thực hiện các thủ tục thỏa thuận trước đối với thông tin tài chính.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000060000000000000000000802545000700000100
 
 **ID:** E6B2E0CF-B282-4B2B-BAD8-91CF98B110AA
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -201,6 +234,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7A8C763E-1717-4962-8303-DCF43543AA18
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000100000000000000000400000000000000000000802545000690000100
 
 **ID:** 90E78E5B-DB04-4D2A-A071-4D546F369792
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -223,6 +260,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** BBC4930F-7BA1-480E-8201-200B5F6414ED
 
+Nhà nước khuyến khích doanh nghiệp, tổ chức thuê doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện kiểm toán báo cáo tài chính, báo cáo quyết toán dự án hoàn thành và các công việc kiểm toán khác trước khi nộp cho cơ quan nhà nước có thẩm quyền hoặc trước khi công khai tài chính.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001000
 
 **ID:** ED255377-56B7-496C-9C21-DD822D038E58
+
+1. Đối với hội nghề nghiệp, hồ sơ gồm:
 
 ---
 
@@ -245,6 +286,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** DC02F076-2F79-478E-A0B6-78501AC1D7B0
 
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán được điều chỉnh khi kiểm toán viên thay đổi nơi đăng ký hành nghề kiểm toán mà Giấy chứng nhận đăng ký hành nghề đã được cấp vẫn còn thời hạn.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002030001000
 
 **ID:** B97803D4-C366-4BF4-9BBD-B31445259B37
+
+1. Doanh nghiệp kiểm toán đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được đề nghị cấp lại trong các trường hợp sau:
 
 ---
 
@@ -267,6 +312,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 20A73234-F1BE-40B6-A159-44AABE59E8B1
 
+1. Những người có chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên của các tổ chức nghề nghiệp nước ngoài được Bộ Tài chính Việt Nam thừa nhận, muốn được cấp chứng chỉ kiểm toán viên hoặc chứng chỉ kế toán viên của Việt Nam phải dự thi sát hạch kiến thức về luật pháp Việt Nam.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001000
 
 **ID:** CA136551-3B08-493F-9B47-E719494DE451
+
+Đối tượng cung cấp dịch vụ kiểm toán qua biên giới cho các doanh nghiệp, tổ chức tại Việt Nam là doanh nghiệp kiểm toán có quốc tịch tại quốc gia thành viên của Tổ chức Thương mại thế giới hoặc quốc gia có hiệp định với Việt Nam về việc cung cấp dịch vụ kiểm toán qua biên giới.
 
 ---
 
@@ -289,6 +338,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 31DE3DCC-065A-4254-859B-55191DE355AD
 
+1. Chi phí kiểm soát chất lượng dịch vụ kiểm toán do ngân sách nhà nước đảm bảo theo chế độ quy định.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000530000000000000000000402587000840001000
 
 **ID:** C3BA0974-A779-42E0-B1FF-403C6CCD01B4
+
+1. Từ ngày 01 tháng 10 đến ngày 20 tháng 10 hàng năm, tổ chức kiểm toán nộp 01 bộ hồ sơ theo quy định tại Điều 9 Nghị định này cho Bộ Tài chính để được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng. Trường hợp tổ chức kiểm toán đăng ký kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán thì đồng thời nộp 01 bộ hồ sơ cho Ủy ban Chứng khoán Nhà nước.
 
 ---
 
@@ -311,6 +364,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** BF39270C-F805-42D0-A57D-706E1349D525
 
+1. Đơn đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng (theo mẫu tại Phụ lục 01).
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100001100000000000000000
 
 **ID:** 8246D947-F07F-416D-9096-CBED2EF0C7A0
+
+1. Chính phủ thống nhất quản lý nhà nước về hoạt động kiểm toán độc lập
 
 ---
 
@@ -333,6 +390,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** DABAB131-754B-4854-AD1E-1DCE00E5C376
 
+1. Kiểm toán viên tham gia học cập nhật kiến thức được tính giờ cập nhật kiến thức theo tỷ lệ 1 giờ học bằng 1 giờ cập nhật kiến thức. Thời lượng được tính giờ cập nhật kiến thức không quá 04 giờ/buổi học và không quá 08 giờ/ngày học.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001100
 
 **ID:** E7EDE0EF-2380-4943-8FB2-718E6FAE7CF4
+
+1. Bộ Tài chính cập nhật thường xuyên và công khai trên trang thông tin điện tử của Bộ Tài chính các thông tin sau:
 
 ---
 
@@ -355,6 +416,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 1CBCF02E-D871-4C4E-BA6E-E00B808FE3C5
 
+1. Tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải nộp lệ phí ngay khi nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001100
 
 **ID:** 6864391C-D37C-4AE2-ACF8-6A4AD7683E45
+
+1. Hồ sơ đăng ký dự thi gồm:
 
 ---
 
@@ -377,6 +442,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** C203F711-1AA6-450F-BCEF-E4D7CB1824D4
 
+1. Doanh nghiệp kiểm toán nước ngoài có đủ các điều kiện sau đây được đăng ký cung cấp dịch vụ kiểm toán qua biên giới:
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001100
 
 **ID:** 2B8D29C2-229D-4BD2-B325-D1A3F7F0CA1B
+
+1. Phạm vi kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán:
 
 ---
 
@@ -399,6 +468,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 05216742-21AD-4AD2-92B7-EEAEC9F9F973
 
+1. Từ ngày 01/10 đến ngày 20/10 hàng năm, tổ chức kiểm toán nộp 01 bộ hồ sơ theo quy định tại Điều 10 của Thông tư này cho Bộ Tài chính để được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng. Trường hợp tổ chức kiểm toán đăng ký kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán thì đồng thời nộp 01 bộ hồ sơ cho Uỷ ban Chứng khoán Nhà nước.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800006800000000000000000
 
 **ID:** 85D4DE78-7D23-4127-8DF1-5316BB958CF9
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016.
 
 ---
 
@@ -421,6 +494,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 4DE94117-F627-4B85-AAAE-868BBDBA276B
 
+1. Trường hợp không có đủ thời gian cập nhật kiến thức theo quy định tại Khoản 1, Khoản 2 Điều 5 Thông tư này vì những lý do đặc biệt (thai sản, ốm đau kéo dài trên 02 tháng; hoặc ốm đau đột xuất vào đúng thời gian tổ chức lớp học cập nhật kiến thức cuối cùng đã đăng ký trong năm về nội dung có số giờ cập nhật kiến thức bị thiếu), kiểm toán viên sẽ được hoãn giờ cập nhật kiến thức trong năm nếu đảm bảo tất cả các điều kiện sau:
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001200
 
 **ID:** E81D224C-E27E-4832-BE60-0053DD7D8E16
+
+1. Kiểm toán viên hành nghề bị đình chỉ hành nghề kiểm toán trong các trường hợp sau:
 
 ---
 
@@ -443,6 +520,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 956E7D0F-9B39-426D-B67B-65BBFC7C614A
 
+1. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán trong các trường hợp sau:
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001200
 
 **ID:** 275E0CCC-FE0D-409D-B2A3-0E3FCFDD4E75
+
+1. Thang điểm chấm thi là thang điểm 100. Điểm thi chấm từ 1 điểm trở lên.
 
 ---
 
@@ -465,6 +546,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 9BEE218A-2E02-4279-B978-E69937233227
 
+1. Tổ chức nghề nghiệp về kiểm toán được thành lập, hoạt động theo quy định của pháp luật về hội và có trách nhiệm tuân thủ các quy định của pháp luật về kiểm toán độc lập.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001200
 
 **ID:** EC367307-F75F-4876-8CFE-9DB420A5698F
+
+1. Doanh nghiệp kiểm toán nước ngoài khi cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam phải thực hiện liên danh với doanh nghiệp kiểm toán tại Việt Nam có đủ điều kiện cung cấp dịch vụ kiểm toán theo quy định của pháp luật.
 
 ---
 
@@ -487,6 +572,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** C696679C-BF6F-44F8-91F1-472E41A95832
 
+1. Quyền của đối tượng được kiểm tra
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001200
 
 **ID:** 4A928FF1-0C3C-47CA-A946-89BC2CB1C59D
+
+1. Các trường hợp không được xem xét, chấp thuận bao gồm:
 
 ---
 
@@ -509,6 +598,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7EBCEFA8-A0B2-402D-B528-F1ADA7639B1D
 
+1. Đối với kiểm toán viên tham gia lớp học do hội nghề nghiệp, cơ sở đào tạo tổ chức, doanh nghiệp kiểm toán tự tổ chức hoặc tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tổ chức, tài liệu chứng minh giờ cập nhật kiến thức là giấy chứng nhận tham dự cập nhật kiến thức trong đó ghi rõ tên đơn vị tổ chức lớp học, tên người học, số chứng chỉ kiểm toán viên, chuyên đề học, thời gian tổ chức lớp học, số lượng giờ học thực tế.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001300
 
 **ID:** DCAA896D-0EC2-452C-9225-7952E40E77F6
+
+1.  Kiểm toán viên hành nghề bị thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán trong các trường hợp sau:
 
 ---
 
@@ -531,6 +624,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 6187361F-9D05-4E96-B224-FB46C5E1CF30
 
+1. Doanh nghiệp kiểm toán bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp quy định tại Khoản 2 Điều 27 Luật kiểm toán độc lập.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001300
 
 **ID:** F16F0CBB-4AFA-4A75-8205-6278148FA3DF
+
+1. Hội đồng thi do Bộ trưởng Bộ Tài chính thành lập theo đề nghị của Vụ trưởng Vụ Chế độ kế toán và kiểm toán và Vụ trưởng Vụ Tổ chức cán bộ.
 
 ---
 
@@ -553,6 +650,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 2CEE258A-1064-463B-9298-3A3774379B2D
 
+1. Nghiêm cấm thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện các hành vi sau đây:
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001300
 
 **ID:** 5DD5BD96-070C-4D61-B8A4-77DA8A18C54A
+
+1. Bố trí nhân sự có trình độ chuyên môn phù hợp để bảo đảm chất lượng dịch vụ kiểm toán. Tuân thủ các quy định về các hành vi bị nghiêm cấm, các trường hợp không được thực hiện kiểm toán đối với kiểm toán viên hành nghề và doanh nghiệp kiểm toán và các quy định khác có liên quan quy định tại Luật kiểm toán độc lập của Việt Nam.
 
 ---
 
@@ -575,6 +676,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 11A27623-3B6C-4CE2-B264-5F22B2F859C4
 
+1. Kiểm tra định kỳ:
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001300
 
 **ID:** E2F254E2-15C5-4227-ACFD-BBE67E5B25D9
+
+1. Tổ chức kiểm toán, kiểm toán viên hành nghề bị đình chỉ tư cách được chấp thuận kiểm toán trong các trường hợp sau:
 
 ---
 
@@ -597,6 +702,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 14E30252-AD52-4839-8C3A-5F3829679255
 
+1. Hồ sơ về tổ chức cập nhật kiến thức phải được lưu trữ gồm:
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001400
 
 **ID:** 4C6D0677-1AE6-45F4-821A-8D8921E56A2D
+
+1.
 
 ---
 
@@ -619,6 +728,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** D45F6603-A74B-4B9E-B192-54824A92CFA3
 
+1. Doanh nghiệp kiểm toán muốn tạm ngừng kinh doanh dịch vụ kiểm toán phải gửi thông báo về việc tạm ngừng kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục XI) đến Bộ Tài chính ít nhất 15 ngày trước ngày dự định tạm ngừng kinh doanh.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001400
 
 **ID:** D70A8B05-8427-4924-BCC9-4F47D817E817
+
+1. Hội đồng thi được thành lập cho từng kỳ thi. Thành phần Hội đồng thi không quá 11 người, bao gồm:
 
 ---
 
@@ -641,6 +754,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 2597572A-C4ED-4C2D-AF2D-4ACD3D166155
 
+1. Kiểm toán viên phải có đủ các tiêu chuẩn sau đây:
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001400
 
 **ID:** 26C6EA9A-D77F-4423-ADF2-373FA10EC2B6
+
+1. Lưu trữ toàn bộ hồ sơ kiểm toán của cuộc kiểm toán đã thực hiện liên danh để cung cấp cho cơ quan chức năng khi được yêu cầu.
 
 ---
 
@@ -663,6 +780,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 79B0B7D3-69C8-4577-8B84-E1D7BCA14B98
 
+1. Việc kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán được thực hiện vào quý III hoặc quý IV hàng năm. Trường hợp có sự thay đổi so với thời gian trên, Bộ Tài chính có thông báo cụ thể.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001400
 
 **ID:** ED8BA975-A1CF-4A08-BED7-82ED78C9AE13
+
+1. Tuân thủ các nghĩa vụ quy định tại Điều 18 và Điều 29 của Luật kiểm toán độc lập.
 
 ---
 
@@ -685,6 +806,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E5245366-9EAC-40B4-B2A3-224C5F981828
 
+1. Tổ chức các lớp học cập nhật kiến thức cho kiểm toán viên theo đúng nội dung, chương trình đã đăng ký và được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận. Trường hợp tổ chức bổ sung các lớp học ngoài kế hoạch hoặc thay đổi nội dung, chương trình của các lớp đã đăng ký thì phải đăng ký bổ sung.
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001500
 
 **ID:** B9D61850-A0CC-4BBF-B536-91D465C521D6
+
+1. Quản lý kiểm toán viên đăng ký hành nghề kiểm toán tại đơn vị mình.
 
 ---
 
@@ -707,6 +832,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** FBDB151B-0EAE-4C53-97C1-DF88460A94F8
 
+1. Doanh nghiệp kiểm toán dự định chấm dứt kinh doanh dịch vụ kiểm toán phải gửi 01 bộ hồ sơ đề nghị chấm dứt kinh doanh dịch vụ kiểm toán đến Bộ Tài chính.
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001500
 
 **ID:** 90519E15-EBD0-4A43-B1D1-D547164BF14B
+
+1. Hội đồng thi làm việc theo chế độ tập thể. Các quyết định của Hội đồng thi được thông qua khi có ít nhất 2/3 ý kiến đồng ý của các thành viên Hội đồng thi.
 
 ---
 
@@ -729,6 +858,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E21A9BB4-FE04-4DE7-AE83-A38757BD4DFD
 
+1. Người có đủ các điều kiện sau đây được đăng ký hành nghề kiểm toán:
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001500
 
 **ID:** 0530F681-CE88-46B6-B9FF-B7FCA72A1822
+
+1. Cơ quan kiểm tra phải thành lập Đoàn kiểm tra cho từng cuộc kiểm tra trực tiếp tại doanh nghiệp kiểm toán thuộc đối tượng kiểm soát chất lượng dịch vụ kiểm toán của đơn vị mình.
 
 ---
 
@@ -751,6 +884,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 4322CF22-0A1B-462D-8DAD-6013DADE0304
 
+1. Doanh nghiệp, tổ chức mà pháp luật quy định báo cáo tài chính hàng năm phải được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán, bao gồm:
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001500
 
 **ID:** 5B7A2772-4CA0-45F7-A4BB-1BC4F56F8196
+
+1. Cơ quan có thẩm quyền trong phạm vi chức năng của mình thực hiện việc kiểm tra, soát xét báo cáo tài chính đã được kiểm toán của đơn vị có lợi ích công chúng.
 
 ---
 
@@ -773,6 +910,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7848B77A-8191-48C4-9DBA-018EDB20C782
 
+1. Cập nhật kiến thức về các nội dung quy định tại khoản 1 Điều 4 của Thông tư này.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501600
 
 **ID:** D81B1126-48D6-48C8-8387-5AC90F2716CE
+
+1. Chi nhánh của doanh nghiệp kiểm toán chỉ được kinh doanh dịch vụ kiểm toán khi có đủ điều kiện quy định tại Điều 31 Luật kiểm toán độc lập.
 
 ---
 
@@ -795,6 +936,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 2B273A99-492E-49F1-82B4-E082CF96D9F8
 
+1. Thông báo công khai kế hoạch thi trên các phương tiện thông tin đại chúng.
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000200001600000000000000000
 
 **ID:** 5DDB285B-E158-4641-8B3A-D0C5FC3029CA
+
+1. Những người không được đăng ký hành nghề kiểm toán, bao gồm:
 
 ---
 
@@ -817,6 +962,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E6E0C18E-DF42-4400-A80C-5538960F4B04
 
+1. Báo cáo kiểm toán về báo cáo tài chính và báo cáo kiểm toán về các công việc kiểm toán khác của các đối tượng bắt buộc phải kiểm toán theo quy định của pháp luật được lập theo quy định của chuẩn mực kiểm toán Việt Nam.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001600
 
 **ID:** E512BB63-3757-461E-87C5-447908A27E2C
+
+1. Thành viên Đoàn kiểm tra (trừ cán bộ của Bộ Tài chính và Ủy ban Chứng khoán Nhà nước) phải đảm bảo các tiêu chuẩn sau đây:
 
 ---
 
@@ -839,6 +988,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 9A82DBC9-99BE-4017-B754-BF18F26DFCA5
 
+1. Trong thời hạn 90 ngày kể từ ngày kết thúc năm tài chính, tổ chức kiểm toán được chấp thuận phải công khai trên trang, cổng thông tin điện tử của mình báo cáo minh bạch hàng năm (theo mẫu tại Phụ lục 03) trong thời gian tối thiểu 12 tháng.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007300000000000000000
 
 **ID:** 9DBF5DDD-A9AF-4A53-8028-B2B975AAF18A
+
+Trong thời hạn ba năm, kể từ ngày Luật Kiểm toán độc lập có hiệu lực, người đã được cấp chứng chỉ kiểm toán viên trước ngày 01/01/2012 được đăng ký hành nghề kiểm toán theo quy định của Thông tư này mà không cần bảo đảm điều kiện về thời gian thực tế làm kiểm toán quy định tại điểm b khoản 1 Điều 3 Thông tư này.
 
 ---
 
@@ -861,6 +1014,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** AF6606F9-4FDB-45ED-BA82-1CF81336990C
 
+1. Tiếp nhận, xem xét hồ sơ đăng ký tổ chức cập nhật kiến thức của các hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán; Ra quyết định chấp thuận hoặc trả lời không chấp thuận cho hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán được tổ chức cập nhật kiến thức theo quy định.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501700
 
 **ID:** 34D5C046-D855-4ADA-A7F9-1C627EF4ABC8
+
+1. Duy trì và đảm bảo các điều kiện được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trong suốt thời gian hoạt động.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 53A70497-0B99-4E68-9AED-9D15F015E31C
 
+1. Chủ tịch Hội đồng thi:
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000200001700000000000000000
 
 **ID:** E8675395-4A31-428B-A25E-82249C5BC003
+
+Khi hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề có các quyền sau đây:
 
 ---
 
@@ -905,6 +1066,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E7041DC3-C0C6-446B-8B53-775308E5819C
 
+1. Cơ quan quản lý nhà nước có thẩm quyền trong từng lĩnh vực liên quan có quyền yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới, đơn vị được kiểm toán giải trình trực tiếp hoặc bằng văn bản về các nội dung ngoại trừ trong báo cáo kiểm toán.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001700
 
 **ID:** 99322246-FC50-422D-959F-AD4464C17DD5
+
+1. Quyền của thành viên Đoàn kiểm tra:
 
 ---
 
@@ -927,6 +1092,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 0FAA0D6D-7540-4F42-9F90-8286AAEFA212
 
+1. Lựa chọn tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận để thực hiện việc kiểm toán các báo cáo quy định tại Điều 5 của Thông tư này.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007400000000000000000
 
 **ID:** 112744EC-85CB-4D58-90A6-CC8C4C57BA84
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/3/2013.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 830F4FF0-FD0F-4649-A953-CB5C96F1BD1B
 
+1. Tổ chức cập nhật kiến thức cho kiểm toán viên hành nghề để tính giờ cập nhật kiến thức theo quy định tại Điều 11 Thông tư này khi chưa đăng ký với Bộ Tài chính hoặc đã đăng ký nhưng chưa được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận.
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501800
 
 **ID:** 84497C0B-5BB9-4CFD-973B-93895F51B612
+
+1. Bộ Tài chính công khai trên trang thông tin điện tử của Bộ Tài chính:
 
 ---
 
@@ -971,6 +1144,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** F6C5A64E-646F-44AB-B83D-373459189D24
 
+1. Môn thi đạt yêu cầu: Môn thi đạt yêu cầu là môn thi đạt từ điểm 5 trở lên.
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000200001800000000000000000
 
 **ID:** 8E23459D-67D5-474B-9778-465FACA98E66
+
+Khi hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề có các nghĩa vụ sau đây:
 
 ---
 
@@ -993,6 +1170,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7471E715-56E5-4BCC-8F46-FF10C6291D4A
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thiết kế và thực hiện các chính sách và thủ tục để duy trì tính bảo mật, an toàn, toàn vẹn, có khả năng tiếp cận và phục hồi được của hồ sơ kiểm toán theo quy định của chuẩn mực kiểm toán.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001800
 
 **ID:** D02CC442-87D4-4DDA-9545-7C5C056571CD
+
+1. Quyền của Trưởng Đoàn kiểm tra:
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 50A2096D-C993-4A6C-9A34-3247030CB0FF
 
+Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007800000000000000000
 
 **ID:** 36ADFD73-5D37-407D-99E8-EE91C3BB6B77
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 18/01/2014 và thay thế Quyết định số 89/2007/QĐ-BTC ngày 24/10/2007 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế lựa chọn doanh nghiệp kiểm toán được chấp thuận kiểm toán cho tổ chức phát hành, tổ chức niêm yết và tổ chức kinh doanh chứng khoán.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A7D65E21-5E12-45D9-90D6-6E17293DD028
 
+1. Hội đồng thi căn cứ vào kết quả chấm thi của từng môn thi để tổng hợp danh sách kết quả thi từng môn thi của thí sinh trình Bộ Tài chính phê duyệt cho từng kỳ thi.
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000200001900000000000000000
 
 **ID:** A8AFD149-2621-46AD-855F-C254AAF03729
+
+Kiểm toán viên hành nghề không được thực hiện kiểm toán trong các trường hợp sau đây:
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 0F1900F3-B0D5-4D6E-9E8B-010AC2B5358E
 
+Chỉ được khai thác, sử dụng hồ sơ kiểm toán trong các trường hợp sau đây:
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001900
 
 **ID:** DE7F22C7-4FD6-4CA6-BF8B-D980D3AD2E58
+
+1. Quy trình kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán gồm 4 giai đoạn:
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A5D7A26C-8932-46A4-8AFF-37A0ADB386F6
 
+1. Kiểm toán viên cập nhật kiến thức năm 2012 được tính giờ cập nhật kiến thức từ ngày 01/01/2012 đến ngày 31/12/2012.
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007600000000000000000
 
 **ID:** FE643EDB-62B4-4D8E-B99F-0C305D3EFDD1
+
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 5 năm 2013.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 6EFB0FA9-6BAD-4589-8429-301A7164E3C1
 
+Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập.
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000200997500000000000
 
 **ID:** FBF42B0E-2B58-44CF-A1EF-6ACDB9453937
+
+Nghị định này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài, doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập.
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E4037D56-7590-4D0A-AEBD-B1F08CF68ADF
 
+1. Tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng.
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000203935547443743000
 
 **ID:** E6D9F30F-14AD-464F-AA19-AA501BA0D4CC
+
+1. Kiểm toán viên đăng ký hành nghề kiểm toán.
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** B62E4FA5-D2DC-4F9E-9954-8010E7F66E55
 
+1. Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000208650628774883000
 
 **ID:** EB7C393A-6C08-4001-920E-69CE3F14B9BC
+
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi chung là doanh nghiệp kiểm toán).
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 4D31B2B0-1DFA-402E-81A3-85B6F46F1EED
 
+Thông tư này  ban hành hệ thống chuẩn mực kiểm toán Việt Nam áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ kiểm toán độc lập.
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000214897783899540000
 
 **ID:** 9192CF72-B2EC-4AF1-981C-05E5D05E8610
+
+1. Tổ chức kiểm toán được chấp thuận, kiểm toán viên hành nghề được chấp thuận.
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 1CE15AB0-6A26-4157-BC56-72D7128E9A09
 
+1. Doanh nghiệp kiểm toán đang hoạt động tại Việt Nam, chi nhánh của doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi tắt là doanh nghiệp kiểm toán).
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000229998465585416000
 
 **ID:** E9149A29-C827-432B-BF03-DFDAA4968E87
+
+Đối tượng áp dụng của Thông tư này bao gồm:
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** FA2A8E81-1E4F-40E1-A505-02498815D85D
 
+1. Doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam có liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài để cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000060000000000000000000802545000650000200
 
 **ID:** 317741F7-62A7-4606-B360-D9649C79A727
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** FA88E9BB-D524-43B7-8CE7-4E153CCA22CF
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000060000000000000000000802545000670000200
 
 **ID:** 2FF4B03E-7CE7-4CA9-859E-9FF4D3DC5D9F
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7C4B43A6-7735-455D-B9B3-3A8C04A3829D
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000060000000000000000000802545000700000200
 
 **ID:** 9334CA71-5E7F-4DF0-BD6F-D912D5032481
+
+1. Phần A của Chuẩn mực áp dụng cho doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và người có chứng chỉ hành nghề kế toán, chứng chỉ kiểm toán viên.
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 9160BD8D-D726-462A-85B2-858E679328EF
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000500000020000000000000000
 
 **ID:** 88E42E9C-9EBB-4DB1-88E1-34CAE927179F
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** EF703DF3-F288-4F7E-AA7D-09C14CB605CC
 
+1. Việc đăng ký hành nghề kiểm toán đối với trường hợp được cấp chứng chỉ kiểm toán viên năm 2014 được áp dụng theo quy định tại Khoản 1 Điều 1 Thông tư này.
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007280244820150550230
 
 **ID:** 3E886119-E3EE-4E80-8F49-92D1AD9C211F
+
+1. Thông tư này có hiệu lực kể từ ngày 1 tháng 5 năm 2024.
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E2BF37B6-E1B1-4BCD-AD7F-E3F2F899A790
 
+Điểm của các môn thi vào các năm ngoài thời gian bảo lưu sẽ bị huỷ.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300002000000000000000000
 
 **ID:** E435BAA6-A3A0-4431-9E0A-9704A0FA1192
+
+1. Các loại doanh nghiệp sau đây được kinh doanh dịch vụ kiểm toán:
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 5546749B-D32B-4133-B310-60BD8E1C78F3
 
+1. Hồ sơ kiểm toán đã hết thời hạn lưu trữ, nếu không có quyết định của cơ quan nhà nước có thẩm quyền thì được tiêu hủy theo quyết định của người đại diện theo pháp luật của doanh nghiệp kiểm toán hoặc giám đốc của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002000
 
 **ID:** DA702CF3-8EF9-4DA2-A4DF-8B8A0EDF5BBF
+
+1. Cơ quan kiểm tra chịu trách nhiệm xây dựng, ban hành và cập nhật các tài liệu hướng dẫn kiểm tra để phục vụ cho việc kiểm tra trực tiếp chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của đơn vị mình.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 8FA22790-2429-4D8D-BAD3-178BD49EB8E6
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2013. Các quy định trước đây về cập nhật kiến thức hàng năm cho kiểm toán viên trái với Thông tư này đều bị bãi bỏ.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002100
 
 **ID:** 4B29EF8F-85DF-4FC7-8240-57CD809C7E40
+
+Căn cứ vào kết quả thi đã được Bộ Tài chính phê duyệt, Chủ tịch Hội đồng thi cấp Giấy chứng nhận điểm thi cho từng thí sinh (Phụ lục số 03a, Phụ lục số 03b, Phụ lục số 03c). Giấy chứng nhận điểm thi là cơ sở để lập hồ sơ xin dự thi các môn thi chưa thi, thi lại các môn thi chưa đạt yêu cầu hoặc dự thi để nâng điểm (đối với thí sinh chưa thi đủ hoặc chưa đạt yêu cầu đủ các môn thi).
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 306C6ED4-8445-40CD-ADAA-4D781A528212
 
+1. Công ty trách nhiệm hữu hạn hai thành viên trở lên khi đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000300000000000000000500000000000000000000402429900170002100
 
 **ID:** 13A53597-FACA-40DD-9EC7-192EE1D1F4FE
+
+1. Hồ sơ kiểm toán được lưu trữ bằng dữ liệu điện tử là các băng từ, đĩa từ… phải được sắp xếp theo thứ tự thời gian, được bảo quản với đủ các điều kiện kỹ thuật chống thoái hóa chứng từ điện tử và chống tình trạng truy cập thông tin bất hợp pháp từ bên ngoài.
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 238D0CC7-F56A-49BA-9385-EACD3C056406
 
+1. Lựa chọn chi nhánh để kiểm tra
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002200
 
 **ID:** 355C6F88-0F80-4645-92CB-4DBB902723C1
+
+1. Trong thời hạn 45 ngày kể từ ngày có kết quả thi, Bộ Tài chính cấp chứng chỉ kiểm toán viên hoặc chứng chỉ kế toán viên cho người đạt kết quả thi.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 9CA5836E-BF43-43E0-AB70-D99281CDC9C5
 
+Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán gồm có:
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002200
 
 **ID:** E27687C7-70A3-4047-8074-1B6BA0655274
+
+1. Tuỳ theo mức độ tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan thể hiện trong từng hồ sơ về hợp đồng dịch vụ kiểm toán và tổng hợp chung toàn doanh nghiệp kiểm toán được kiểm tra theo kết quả xếp loại của phần kiểm tra hệ thống, phần kiểm tra kỹ thuật và xét đoán chuyên môn, Đoàn kiểm tra phải đưa ra các kết luận như sau:
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 8204B731-9CBE-4189-BDAE-E903E32638AD
 
+Trong thời hạn 02 (hai) năm, kể từ ngày Luật kiểm toán độc lập có hiệu lực, doanh nghiệp cung cấp dịch vụ kiểm toán trước ngày Luật Kiểm toán độc lập có hiệu lực phải bảo đảm các điều kiện theo quy định của Luật Kiểm toán độc lập và các quy định tại Nghị định này để được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002300
 
 **ID:** CD29BF55-7658-489A-B3F7-A87A518590D4
+
+1. Chứng chỉ kiểm toán viên và chứng chỉ kế toán viên bị thu hồi trong các trường hợp sau:
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 1522A523-B01B-4502-BD08-5052BF212F8F
 
+1. Trong thời hạn ba mươi ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Tài chính cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam; trường hợp từ chối, Bộ Tài chính phải trả lời bằng văn bản và nêu rõ lý do.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002300
 
 **ID:** 83A4CEDE-4726-40AB-9CCE-EDCDE008C78F
+
+1. Khi có những vấn đề còn có ý kiến khác nhau về kết quả kiểm tra, trường hợp cần thiết, cơ quan kiểm tra có thể xin ý kiến tư vấn của các chuyên gia hoặc thành lập Hội đồng chuyên môn để xem xét lại kết quả kiểm tra.
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 37E043E7-5BBC-4A65-9D11-FC56020D9F57
 
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2012.
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002400
 
 **ID:** E02DBF85-BE05-4BE2-9163-F8532438BA36
+
+1. Các hành vi vi phạm đối với người tham gia công tác tổ chức thi bao gồm:
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 85D92F04-6415-471B-B9EF-CD165291C4A6
 
+1. Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được cấp lại hoặc điều chỉnh trong các trường hợp sau đây:
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002400
 
 **ID:** D97AE02F-7CCF-44C7-96F5-BB8C540F83D2
+
+1. Trong thời hạn 30 ngày kể từ ngày ký Báo cáo kết quả kiểm tra, các doanh nghiệp kiểm toán được kiểm tra phải gửi Bản tổng hợp giải pháp khắc phục sai sót và thực hiện kiến nghị của Đoàn kiểm tra cho cơ quan kiểm tra. Trường hợp doanh nghiệp kiểm toán được kiểm tra là hội viên của Tổ chức nghề nghiệp về kiểm toán, Bản tổng hợp giải pháp khắc phục sai sót và thực hiện kiến nghị của Đoàn kiểm tra phải được đồng thời gửi cho Tổ chức nghề nghiệp về kiểm toán.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 24C22C6E-F01E-49B3-B6BA-718EA538646E
 
+Bộ trưởng Bộ Tài chính có trách nhiệm hướng dẫn thực hiện Nghị định này; các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002500
 
 **ID:** F57AA479-58D1-40E5-BD91-9705934824BE
+
+1. Nhắc nhở đối với thí sinh nói chuyện, trao đổi bài với người khác.
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** F2687445-898D-4310-98B8-87771DD1A382
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002500
 
 **ID:** 16C2E98A-DD82-40E0-BDBF-D193D9FE2988
+
+1. Hồ sơ kiểm tra bao gồm: Danh sách doanh nghiệp kiểm toán được kiểm tra; Danh sách thành viên Đoàn kiểm tra; Quyết định kiểm tra; Các hồ sơ do Đoàn kiểm tra cung cấp; Quyết định thành lập Hội đồng chuyên môn; Quyết định xử lý sau kiểm tra và các tài liệu khác có liên quan.
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7E53DE0A-0605-498C-BF59-A1C3403DFFDD
 
+1. Những bài thi bị nghi vấn có dấu hiệu đánh dấu thì tổ chức chấm tập thể, nếu đủ căn cứ xác đáng để các cán bộ chấm thi và Trưởng môn chấm thi kết luận là lỗi cố ý của thí sinh thì bị trừ 25% điểm toàn bài thi của môn thi đó.
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300002600000000000000000
 
 **ID:** F4633AA1-2D05-4FB3-BBDB-2B27614AB24D
+
+Trong thời hạn mười ngày, kể từ ngày có thay đổi về những nội dung sau đây, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thông báo bằng văn bản cho Bộ Tài chính:
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** CFEF27E0-C82A-4C38-BB2D-18728F4F3994
 
+1. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán trong thời gian 03 tháng khi cơ quan có thẩm quyền kết luận:
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300002700000000000000000
 
 **ID:** 31BA98EE-B4E7-4491-9870-80B8DB09A0F1
+
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam bị đình chỉ kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp sau đây:
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A3E28B42-FF01-4B4A-9FCF-C98B082EB591
 
+1. Trưởng Đoàn kiểm tra và thành viên Đoàn kiểm tra không được tham gia Đoàn kiểm tra ngay khi hành vi vi phạm bị phát hiện khi thuộc một trong các trường hợp sau:
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800009200000000000000000
 
 **ID:** 8D37AD79-9AA8-4888-922F-DF572C80124D
+
+1. Chứng chỉ hành nghề kế toán đã được cấp theo các văn bản sau có giá trị như chứng chỉ kế toán viên quy định tại Thông tư này:
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 4C389E28-9771-40CB-9C7F-B2EE3CBFDF40
 
+1. Doanh nghiệp kiểm toán có các quyền sau đây:
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002800
 
 **ID:** 69644978-A25B-4B5F-9289-A5C907501E75
+
+Báo cáo kết quả kiểm tra chất lượng dịch vụ kiểm toán được công khai trong phạm vi doanh nghiệp kiểm toán được kiểm tra và được tổng hợp trong Báo cáo tổng hợp kết quả kiểm tra. Báo cáo tổng hợp kết quả kiểm tra hàng năm sẽ được công bố trên trang thông tin điện tử của Bộ Tài chính, Ủy ban Chứng khoán Nhà nước và Tổ chức nghề nghiệp về kiểm toán.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7A2CCF8B-9B69-4514-ACFF-A895562283DF
 
+Thông tư này có hiệu lực kể từ ngày 15 tháng 10 năm 2017 và thay thế Thông tư số 129/2012/TT-BTC ngày 09/8/2012 của Bộ Tài chính quy định về việc thi và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán.
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300002900000000000000000
 
 **ID:** 62D5970F-1F5E-4489-B96F-78F0DBB95D13
+
+1. Hoạt động theo nội dung ghi trong Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** DE5F042D-86E3-43D9-B2B0-E1AD763297D1
 
+Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Vụ trưởng Vụ Tổ chức cán bộ, Chủ tịch Hội đồng thi kiểm toán viên, kế toán viên, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007900000000000000000
 
 **ID:** D330468A-1C50-4399-87F1-EC45684A3B50
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày ký ban hành.
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 8D44643B-DC82-4582-AC6E-69B821B2621F
 
+1. Tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài tham gia hoạt động kiểm toán độc lập trên lãnh thổ Việt Nam phải tuân theo Luật này và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000050000000000000000000402429900170000300
 
 **ID:** 72F97D23-3570-468A-8AB1-01B5324CB535
+
+Trong Nghị định này, các thuật ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 75186C03-8722-439D-B0A2-40B84650D10B
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000050000000000000000000802493001830000300
 
 **ID:** 0D865E0F-B7A7-4FD9-B044-B2FEF6E70FAB
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** C4D4180F-88BA-4139-AE7B-CA1AE109EB1D
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000300
 
 **ID:** F7EA57C9-8B0F-44E2-9130-4BF325C93478
+
+Đối tượng cập nhật kiến thức là kiểm toán viên hành nghề, kiểm toán viên đăng ký hành nghề kiểm toán; trừ trường hợp đăng ký hành nghề kiểm toán lần đầu trong thời gian từ ngày được cấp chứng chỉ kiểm toán viên đến ngày 31/12 của năm sau năm được cấp chứng chỉ kiểm toán viên
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 348AB171-7C7D-4680-81BB-6228CEA2EB15
 
+1. Điều kiện đăng ký hành nghề kiểm toán:
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000300
 
 **ID:** 84EED563-E5E3-465E-9D6E-717258689FA7
+
+Giấy chứng nhận đủ điều kinh doanh dịch vụ kiểm toán được cấp cho công ty trách nhiệm hữu hạn (TNHH), công ty hợp danh, doanh nghiệp tư nhân, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có đủ các điều kiện theo quy định tại Điều 21 Luật kiểm toán độc lập và các quy định tại Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập (dưới đây gọi tắt là Nghị định 17/2012/NĐ-CP). Đối với công ty kiểm toán TNHH một thành viên có vốn đầu tư nước ngoài quy định tại Khoản 3 Điều 62 Luật kiểm toán độc lập không áp dụng điều kiện về mức vốn góp của kiểm toán viên hành nghề quy định tại Khoản 1 Điều 7 và vốn góp của tổ chức quy định tại Điều 6 Nghị định 17/2012/NĐ-CP trừ khi công ty cơ cấu lại tổ chức thành công ty TNHH 2 thành viên trở lên.
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 63ADEF49-D6AF-43A8-AB83-E15722B9240C
 
+Người Việt Nam hoặc người nước ngoài có đủ các điều kiện dự thi quy định tại Điều 4 Thông tư này.
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000500000030000000000000000
 
 **ID:** D8E73ED5-5135-4F65-8617-818F22239310
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 84AF0001-2267-4823-A0DA-0E84E5ACB1DF
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 08/6/2015.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007700000000000000000
 
 **ID:** BEA5DF63-2AA9-4B27-A382-FA3F6E989ED2
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2014.
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** FD3160D1-8A77-4AA1-B381-C8C790B6581A
 
+Đối với các hợp đồng dịch vụ soát xét báo cáo tài chính và thông tin tài chính được thực hiện trước ngày 01/01/2016 mà đến ngày 01/01/2016 trở đi mới phát hành báo cáo soát xét thì phải áp dụng các chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét ban hành theo Thông tư này.
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800008200000000000000000
 
 **ID:** 397763B8-9BB6-4C71-BDEC-B20C06D0911A
+
+Đối với các hợp đồng dịch vụ đảm bảo khác được thực hiện trước ngày 01/01/2016 mà đến ngày 01/01/2016 trở đi mới phát hành báo cáo dịch vụ đảm bảo thì phải áp dụng các chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo khác ban hành theo Thông tư này.
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** CF9A8BBD-CE60-477C-B0BC-3FAF6EABBC89
 
+Đối với các hợp đồng kiểm toán báo cáo quyết toán dự án hoàn thành được thực hiện trước ngày 01/7/2015 mà đến ngày 01/7/2015 trở đi mới phát hành báo cáo kiểm toán thì phải áp dụng Chuẩn mực kiểm toán Việt Nam về kiểm toán báo cáo quyết toán dự án hoàn thành ban hành theo Thông tư này.
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800008600000000000000000
 
 **ID:** 3A11505E-33BF-485D-BA61-E31911B74615
+
+Đối với các hợp đồng dịch vụ liên quan được thực hiện trước ngày 01/01/2016 mà đến ngày 01/01/2016 trở đi mới phát hành báo cáo dịch vụ tổng hợp hoặc báo cáo về các phát hiện thực tế thì phải áp dụng các chuẩn mực Việt Nam về dịch vụ liên quan ban hành theo Thông tư này.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 43763EA2-C4A0-49FB-8376-5834411E9A07
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800009000000000000000000
 
 **ID:** 945FBE5E-DC40-4330-989E-B25A72EAC523
+
+Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 05307B11-B104-4A99-BC7C-EB1ADE464C28
 
+1. Doanh nghiệp kiểm toán không được thực hiện kiểm toán trong các trường hợp sau đây:
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300003100000000000000000
 
 **ID:** 9BBB88FD-81F8-4256-A87F-D95DFD2CE4A2
+
+1. Điều kiện để chi nhánh của doanh nghiệp kiểm toán được kinh doanh dịch vụ kiểm toán:
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E1F8C551-B774-4904-924B-1A3BFA24C38F
 
+1. Doanh nghiệp kiểm toán được thành lập cơ sở kinh doanh dịch vụ kiểm toán ở nước ngoài theo quy định của pháp luật về đầu tư của Việt Nam và pháp luật của nước sở tại.
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300003300000000000000000
 
 **ID:** C5218411-3FA2-4821-A37A-76A84C512BF7
+
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam được tạm ngừng kinh doanh dịch vụ kiểm toán nhưng thời hạn tạm ngừng không quá mười hai tháng liên tục.
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E68ED657-6F0B-4B9C-8339-B3F9D634EE42
 
+1. Doanh nghiệp kiểm toán chấm dứt kinh doanh dịch vụ kiểm toán trong các trường hợp sau đây:
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000300003500000000000000000
 
 **ID:** F9334686-4FA2-409D-94B6-B66463322EE5
+
+1. Chi nhánh doanh nghiệp kiểm toán chấm dứt hoạt động trong các trường hợp sau đây:
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A54AC183-27B6-43BF-9186-3D2417C69C91
 
+Doanh nghiệp kiểm toán nước ngoài thực hiện hoạt động kiểm toán tại Việt Nam dưới các hình thức sau:
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000600003700000000000000000
 
 **ID:** BF4B6DD8-24EB-465E-AEE4-D4D4547A9714
+
+1. Doanh nghiệp, tổ chức mà pháp luật quy định báo cáo tài chính hàng năm phải được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán, bao gồm:
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** B53AD4F3-7DA6-48D1-A88A-2B8ACF54E69D
 
+1. Lựa chọn doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và kiểm toán viên hành nghề có đủ điều kiện hành nghề theo quy định của pháp luật để giao kết hợp đồng kiểm toán, trừ trường hợp pháp luật có quy định khác.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000600003900000000000000000
 
 **ID:** 36BC47B0-5DD6-4635-BC00-F15C9D6ABACA
+
+1. Cung cấp đầy đủ, chính xác, trung thực, kịp thời, khách quan thông tin, tài liệu cần thiết theo yêu cầu của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và chịu trách nhiệm trước pháp luật về thông tin, tài liệu đã cung cấp.
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 83DC5F37-DF48-46D9-A738-9B2E03364480
 
+Hoạt động kiểm toán độc lập nhằm góp phần công khai, minh bạch thông tin kinh tế, tài chính của đơn vị được kiểm toán và doanh nghiệp, tổ chức khác; làm lành mạnh môi trường đầu tư; thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng; phát hiện và ngăn chặn vi phạm pháp luật; nâng cao hiệu lực, hiệu quả quản lý, điều hành kinh tế, tài chính của Nhà nước và hoạt động kinh doanh của doanh nghiệp.
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000050000000000000000000802493001830000400
 
 **ID:** 8EC77CA5-7CCB-4296-BA84-CC2AD2D1526F
+
+Trong phạm vi hướng dẫn của Thông tư này, đơn vị có lợi ích công chúng bao gồm:
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A18D085F-2596-43CC-A729-E8D8256E60A3
 
+1. Về nội dung cập nhật kiến thức:
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000400
 
 **ID:** F3880719-3932-49B3-97D4-EA0890233E29
+
+1. Đơn đề nghị cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 01/ĐKHN ban hành kèm theo Thông tư này.
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7A2052AF-7844-44E5-84D8-3ECDB82A5553
 
+1. Các bản sao giấy tờ, văn bằng phải được chứng thực bởi cơ quan có thẩm quyền theo quy định của pháp luật.
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000400
 
 **ID:** 4EA197F4-3D5B-4758-B226-D8790E809FF8
+
+Người dự thi lấy chứng chỉ kiểm toán viên, chứng chỉ kế toán viên phải có đủ các điều kiện sau đây:
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** B2097B14-E930-4A49-81B8-F5B46FB36142
 
+1. Tổ chức nghề nghiệp về kiểm toán là tổ chức xã hội nghề nghiệp của các kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán trong cả nước.
+
 ---
 
 
@@ -2103,6 +2482,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000003000036000000000000000000040242990017000130000802728400400000400
 
 **ID:** 8D4BA238-2C4F-4130-A143-10D7D60BABF9
+
+1. Nội dung báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới của doanh nghiệp kiểm toán nước ngoài:
 
 ---
 
@@ -2115,6 +2496,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** AE727D71-5397-4017-9034-0DA0E629DE72
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2125,6 +2508,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000400
 
 **ID:** D4A31B00-63AE-4971-BBDF-433F87B4DE2F
+
+1. Đánh giá việc xây dựng, phổ biến và tổ chức thực hiện các chính sách và thủ tục kiểm soát chất lượng nội bộ của doanh nghiệp kiểm toán.
 
 ---
 
@@ -2137,6 +2522,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7F96854E-13C1-4712-BD30-450A27E92F88
 
+1. Đơn vị có lợi ích công chúng là các đơn vị được quy định tại Điều 53 Luật kiểm toán độc lập.
+
 ---
 
 
@@ -2147,6 +2534,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800007580245500202550190
 
 **ID:** 60BB9F80-1425-4942-B7FB-2364A365BA91
+
+1. Thông tư này có hiệu lực kể từ ngày 1 tháng 7 năm 2024.
 
 ---
 
@@ -2159,6 +2548,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 6957DE32-0953-4F2C-B61A-6D2092BCD516
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2169,6 +2560,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800008300000000000000000
 
 **ID:** 72EA83BC-456F-4CA8-8D42-2D2ACC84848A
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2181,6 +2574,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** FDEB3899-E735-4305-8FD4-9A826A82F13A
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2191,6 +2586,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800008700000000000000000
 
 **ID:** AE82D886-C613-4353-AD51-A4A58663C30B
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2203,6 +2600,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 65156EBE-8F88-4087-874C-5C7C1B1F3E85
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2213,6 +2612,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800009100000000000000000
 
 **ID:** E63FEFEF-17B5-4160-8F03-306EAA31CB6A
+
+Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên, doanh nghiệp dịch vụ kế toán, người có chứng chỉ hành nghề kế toán và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
 ---
 
@@ -2225,6 +2626,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 866776FD-F571-4AEF-81A4-24673993F36C
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam được thực hiện các dịch vụ sau đây:
+
 ---
 
 
@@ -2235,6 +2638,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000050000001000000000000000004100000000000000000
 
 **ID:** B3B576CE-709C-40C0-9F65-3F2811DD3438
+
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam chỉ được nhận dịch vụ kiểm toán theo khả năng của mình trong phạm vi yêu cầu của khách hàng.
 
 ---
 
@@ -2247,6 +2652,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E3E4B354-B49E-4FC7-B8B3-3EE0B38C8D4A
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện dịch vụ kiểm toán theo hợp đồng kiểm toán.
+
 ---
 
 
@@ -2257,6 +2664,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000050000001000000000000000004300000000000000000
 
 **ID:** 4316E1E4-6798-4AB9-B64E-2D84B3A6B862
+
+1. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được tiết lộ thông tin về hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán, trừ trường hợp được khách hàng, đơn vị được kiểm toán chấp thuận hoặc theo quy định của pháp luật.
 
 ---
 
@@ -2269,6 +2678,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** CB4724CA-415B-46FA-A841-53F09F4FC108
 
+1. Phí dịch vụ kiểm toán do doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và khách hàng thỏa thuận trong hợp đồng kiểm toán theo căn cứ sau đây:
+
 ---
 
 
@@ -2279,6 +2690,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000050000001000000000000000004500000000000000000
 
 **ID:** 00C6DB36-862D-4F49-933A-6EFADC80BBBF
+
+1. Quy trình cuộc kiểm toán gồm các bước sau đây:
 
 ---
 
@@ -2291,6 +2704,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 3759ACAA-F239-492E-BC96-3D97C0FCF71A
 
+1. Báo cáo kiểm toán về báo cáo tài chính được lập theo quy định của chuẩn mực kiểm toán và có những nội dung sau đây:
+
 ---
 
 
@@ -2301,6 +2716,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000050000002000000000000000004700000000000000000
 
 **ID:** 560F96DD-139C-4D86-B931-DC370F21CBDC
+
+Báo cáo kiểm toán về các công việc kiểm toán khác được lập trên cơ sở quy định tại Điều 46 của Luật này và chuẩn mực kiểm toán phù hợp với từng cuộc kiểm toán.
 
 ---
 
@@ -2313,6 +2730,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 6ECBE46D-D853-4215-B8D4-EA0D2175A321
 
+1. Căn cứ vào kết quả kiểm toán, kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải đưa ra ý kiến về báo cáo tài chính và các nội dung khác đã được kiểm toán theo quy định của chuẩn mực kiểm toán.
+
 ---
 
 
@@ -2323,6 +2742,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000050000003000000000000000004900000000000000000
 
 **ID:** BE79FA23-5324-4988-A1AA-763E86CB5A00
+
+1. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thu thập và lưu trong hồ sơ kiểm toán tài liệu, thông tin cần thiết liên quan đến từng cuộc kiểm toán đủ để làm cơ sở cho việc hình thành ý kiến kiểm toán của mình và chứng minh rằng cuộc kiểm toán đã được thực hiện theo đúng quy định của pháp luật và chuẩn mực kiểm toán.
 
 ---
 
@@ -2335,6 +2756,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 07781628-7885-4A4E-8596-EBAF61767410
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2345,6 +2768,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000500
 
 **ID:** FD69AD8F-6765-429E-977E-EAC235696151
+
+1. Thời gian cập nhật kiến thức tối thiểu 40 giờ trong năm trước liền kề năm đăng ký hành nghề kiểm toán, trong đó có tối thiểu 20 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam và 04 giờ cập nhật kiến thức về đạo đức nghề nghiệp.
 
 ---
 
@@ -2357,6 +2782,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 055F2CB7-FE78-4DEC-BF86-CC30E828B52A
 
+1. Kiểm toán viên phải lập 01 bộ hồ sơ theo quy định tại Điều 4 Thông tư này gửi đến Bộ Tài chính thông qua doanh nghiệp kiểm toán. Các văn bằng, chứng chỉ nếu bằng tiếng nước ngoài phải kèm theo bản dịch bằng tiếng Việt đã được công chứng hoặc chứng thực bởi cơ quan có thẩm quyền theo quy định của pháp luật. Kiểm toán viên phải chịu trách nhiệm về các thông tin đã kê khai trong hồ sơ đăng ký hành nghề kiểm toán. Doanh nghiệp kiểm toán và tổ chức, cá nhân khác có liên quan đến việc xác nhận thông tin trong hồ sơ đăng ký hành nghề của kiểm toán viên phải chịu trách nhiệm liên đới về tính trung thực của thông tin đã xác nhận.
+
 ---
 
 
@@ -2367,6 +2794,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000500
 
 **ID:** 5B666D80-3F74-4609-8C06-BC9A2199AB71
+
+1. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục I).
 
 ---
 
@@ -2379,6 +2808,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 36394709-C5CD-4FFB-BBB7-C68B37B03AF6
 
+1. Người đăng ký dự thi lần đầu để lấy chứng chỉ kiểm toán viên hoặc chứng chỉ kế toán viên, hồ sơ dự thi gồm:
+
 ---
 
 
@@ -2389,6 +2820,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000500
 
 **ID:** FF0FB7DF-ABA3-42B8-B794-3DDF50CB7D06
+
+1. Vốn pháp định đối với Công ty trách nhiệm hữu hạn là 3 (ba) tỷ đồng Việt Nam; từ ngày 01 tháng 01 năm 2015, vốn pháp định là 5 (năm) tỷ đồng Việt Nam.
 
 ---
 
@@ -2401,6 +2834,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 7193A39B-E2A6-4761-8AE4-D0AAD093E28B
 
+1. Kiểm tra việc xây dựng, ban hành và tổ chức thực hiện các chính sách và thủ tục kiểm soát chất lượng nội bộ của doanh nghiệp kiểm toán.
+
 ---
 
 
@@ -2411,6 +2846,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000500
 
 **ID:** B3824899-8AFA-4414-A3D0-31FE3D65E729
+
+1. Tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng phải có đủ các Điều kiện sau đây:
 
 ---
 
@@ -2423,6 +2860,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** B27828BA-CB19-41FB-B0C6-48E4AA492894
 
+1. Hồ sơ kiểm toán phải được bảo quản đầy đủ, an toàn trong quá trình sử dụng.
+
 ---
 
 
@@ -2433,6 +2872,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000050000003000000000000000005100000000000000000
 
 **ID:** 4FD6C955-3206-4355-8C38-BDB50A22D50C
+
+Việc bảo quản, lưu trữ, sử dụng và tiêu hủy hồ sơ, tài liệu về dịch vụ liên quan quy định tại điểm b khoản 1 Điều 40 của Luật này được thực hiện theo quy định tại Điều 49 và Điều 50 của Luật này.
 
 ---
 
@@ -2445,6 +2886,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A4EEEE55-4947-4361-8CA0-61D7444DB3F5
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải xây dựng và tổ chức thực hiện hệ thống kiểm soát chất lượng dịch vụ quy định tại khoản 1 Điều 40 của Luật này, các chính sách và thủ tục kiểm soát chất lượng cho từng cuộc kiểm toán.
+
 ---
 
 
@@ -2455,6 +2898,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000600005300000000000000000
 
 **ID:** B22C6C8B-5CF1-402C-BE97-539E1A9845D0
+
+1. Tổ chức tín dụng được thành lập và hoạt động theo Luật Các tổ chức tín dụng.
 
 ---
 
@@ -2467,6 +2912,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 365778A7-D0BE-4980-B80B-F6E04C1E0C97
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải được cơ quan có thẩm quyền chấp thuận.
+
 ---
 
 
@@ -2477,6 +2924,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000600005500000000000000000
 
 **ID:** F8D98323-FB8A-4C5D-B863-1B61CD49386A
+
+Thông tin về doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải công khai bao gồm:
 
 ---
 
@@ -2489,6 +2938,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 83CE90A5-3404-4E16-AF88-670ADBFB0B19
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam đủ tiêu chuẩn, điều kiện được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải công khai trên trang thông tin điện tử của mình báo cáo minh bạch hàng năm trong thời hạn chín mươi ngày, kể từ ngày kết thúc năm tài chính.
+
 ---
 
 
@@ -2499,6 +2950,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000600005700000000000000000
 
 **ID:** DEF99541-7E92-4063-ADF2-01A744FD02D5
+
+1. Xây dựng và vận hành hệ thống kiểm soát nội bộ phù hợp và có hiệu quả.
 
 ---
 
@@ -2511,6 +2964,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** D3F90742-E0AC-4CAE-BE74-C78A6BBD1FFF
 
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được bố trí kiểm toán viên hành nghề thực hiện kiểm toán cho một đơn vị có lợi ích công chúng quá năm năm liên tục. Bộ Tài chính quy định thời gian ngừng để kiểm toán viên hành nghề tiếp tục thực hiện kiểm toán cho cùng một đơn vị có lợi ích công chúng.
+
 ---
 
 
@@ -2521,6 +2976,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000700005900000000000000000
 
 **ID:** B0F90849-5E82-4B54-AD20-C60072993F17
+
+Các hành vi vi phạm pháp luật về kiểm toán độc lập gồm có:
 
 ---
 
@@ -2533,6 +2990,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 27C49E3B-131A-4255-94AD-19846B447FC4
 
+1. Chuẩn mực kiểm toán là những quy định và hướng dẫn về yêu cầu, nguyên tắc, thủ tục kiểm toán và xử lý các mối quan hệ phát sinh trong hoạt động kiểm toán mà thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải tuân thủ.
+
 ---
 
 
@@ -2543,6 +3002,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000600
 
 **ID:** 68BCB6EC-C6AE-4119-A90F-B1A678A8BD0E
+
+1. Kiểm toán viên tham gia các lớp học do hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán tổ chức, cụ thể như sau:
 
 ---
 
@@ -2555,6 +3016,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 876AAD13-4877-4C11-A9D2-4049AECB4A56
 
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán bao gồm các nội dung cơ bản sau đây:
+
 ---
 
 
@@ -2565,6 +3028,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000600
 
 **ID:** F45857E8-C097-462B-A689-F050ED3E6E7D
+
+1. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục II).
 
 ---
 
@@ -2577,6 +3042,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 50215474-4BBB-4841-ACF5-A3B8FA585C02
 
+1. Người dự thi lấy chứng chỉ kế toán viên thi 4 môn thi sau:
+
 ---
 
 
@@ -2587,6 +3054,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000600
 
 **ID:** 3449CA1F-DD53-419A-96EE-E4169C1F3FBD
+
+1. Thành viên là tổ chức được góp tối đa 35% vốn điều lệ của công ty trách nhiệm hữu hạn kiểm toán hai thành viên trở lên. Trường hợp có nhiều tổ chức góp vốn thì tổng số vốn góp của các tổ chức tối đa bằng 35% vốn điều lệ của công ty trách nhiệm hữu hạn kiểm toán hai thành viên trở lên.
 
 ---
 
@@ -2599,6 +3068,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 326116AD-5F4E-40FB-9883-1218DA789387
 
+1. Giám sát chất lượng dịch vụ kiểm toán và tình hình tuân thủ quy định pháp luật về kiểm toán độc lập
+
 ---
 
 
@@ -2609,6 +3080,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000600
 
 **ID:** 0837E468-F2D3-442A-8CD4-483F484E1DD7
+
+Ngoài các tiêu chuẩn quy định tại Luật kiểm toán độc lập, kiểm toán viên hành nghề được chấp thuận phải có các tiêu chuẩn sau:
 
 ---
 
@@ -2621,6 +3094,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** DAADD786-FE5E-4865-98AA-BD11491E5712
 
+1. Tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng phải có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -2631,6 +3106,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000700006000000000000000000
 
 **ID:** 4DC25511-3DD8-417B-AA97-13A901295E01
+
+1. Tổ chức, cá nhân có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm bị xử phạt vi phạm hành chính, bị truy cứu trách nhiệm hình sự, chịu các biện pháp quản lý nhà nước theo quy định của Luật này, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
 ---
 
@@ -2643,6 +3120,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 6DC59DB0-6435-4AB0-A0EC-F222944318DB
 
+1. Tranh chấp về kiểm toán độc lập được giải quyết như sau:
+
 ---
 
 
@@ -2653,6 +3132,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800006200000000000000000
 
 **ID:** 9250B5B7-A201-440B-B65F-715FD4D7D2C7
+
+1. Trong thời hạn hai năm, kể từ ngày Luật này có hiệu lực, doanh nghiệp cung cấp dịch vụ kiểm toán trước ngày Luật này có hiệu lực bảo đảm các điều kiện theo quy định của Luật này được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
 ---
 
@@ -2665,6 +3146,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 98E983F3-4330-4D7E-B82E-250021F5293D
 
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 ngày 2012.
+
 ---
 
 
@@ -2675,6 +3158,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000800006400000000000000000
 
 **ID:** 2A51A3AC-4D91-4F9C-BC4D-82C8DB2D376B
+
+Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác trong Luật này để đáp ứng yêu cầu quản lý nhà nước./.
 
 ---
 
@@ -2687,6 +3172,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 5583EB82-3458-435B-BF18-460C31577E03
 
+1. Báo cáo kiểm toán về báo cáo tài chính đánh giá tính trung thực và hợp lý của báo cáo tài chính, phù hợp với chuẩn mực kế toán, chế độ kế toán do cơ quan, tổ chức có thẩm quyền ban hành.
+
 ---
 
 
@@ -2697,6 +3184,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000700
 
 **ID:** D7DCEBE5-CE7B-4BFC-9DC7-9D1548E83E15
+
+1. Hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán phải đáp ứng các điều kiện chung về tổ chức lớp cập nhật kiến thức như sau:
 
 ---
 
@@ -2709,6 +3198,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 9E3DAA5B-5929-4018-854D-0878C6E4AA9E
 
+1. Kiểm toán viên hành nghề bảo đảm quy định tại Điều 3, nộp đủ hồ sơ quy định tại Điều 4, đúng trình tự quy định tại Điều 5 Thông tư này và nộp đủ lệ phí được Bộ Tài chính xem xét, cấp Giấy chứng nhận đăng ký hành nghề kiểm toán.
+
 ---
 
 
@@ -2719,6 +3210,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000700
 
 **ID:** 9C75E9FF-60FC-4186-9C86-D62EAC2756CF
+
+1. Tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán gửi một bộ hồ sơ theo quy định tại Thông tư này tới Bộ Tài chính.
 
 ---
 
@@ -2731,6 +3224,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 088796BA-8A9D-4080-88C3-7276CEEBE2AF
 
+Mỗi môn thi quy định tại Điều 6 Thông tư này (trừ môn thi Ngoại ngữ), người dự thi phải làm một bài thi viết trong thời gian 180 phút. Môn thi Ngoại ngữ, người dự thi phải làm một bài thi viết trong thời gian 120 phút.
+
 ---
 
 
@@ -2741,6 +3236,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000700
 
 **ID:** C4A7EB5D-FA25-44BC-BC03-DFE7EE285027
+
+1. Công ty trách nhiệm hữu hạn kiểm toán phải có ít nhất 02 (hai) thành viên góp vốn là kiểm toán viên đăng ký hành nghề tại công ty. Vốn góp của các kiểm toán viên hành nghề phải chiếm trên 50% vốn điều lệ của công ty.
 
 ---
 
@@ -2753,6 +3250,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 55E75009-EF11-4D74-AA64-018B2F561A16
 
+Đối tượng được kiểm soát chất lượng dịch vụ kiểm toán bao gồm:
+
 ---
 
 
@@ -2763,6 +3262,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000700
 
 **ID:** E63152AF-DC7A-412A-85C2-22C5CCC5F945
+
+1. Các trường hợp không được xem xét, chấp thuận bao gồm:
 
 ---
 
@@ -2775,6 +3276,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 4C525A20-6962-4969-97B2-C9F841A66E51
 
+Ngoài các trường hợp quy định tại Điều 9 của Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập, tổ chức kiểm toán được chấp thuận không được thực hiện kiểm toán cho đơn vị có lợi ích công chúng trong các trường hợp sau:
+
 ---
 
 
@@ -2785,6 +3288,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000800000000000000000
 
 **ID:** 07B2EB15-741B-4016-A04B-6CC32054B236
+
+1. Tuân thủ pháp luật và chịu trách nhiệm trước pháp luật về hoạt động nghề nghiệp và báo cáo kiểm toán.
 
 ---
 
@@ -2797,6 +3302,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 00DEFE27-3A68-4571-BAC6-2CEC6CF9BBA7
 
+1. Kiểm toán viên có tối thiểu 7 năm kinh nghiệm hành nghề kiểm toán.
+
 ---
 
 
@@ -2807,6 +3314,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000800
 
 **ID:** 53A90F96-509C-4921-AE71-A18D4A28A4B5
+
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị trong các trường hợp sau:
 
 ---
 
@@ -2819,6 +3328,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 8A7A8CE2-5C8B-4230-B5C3-963E977C295A
 
+1. Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán bao gồm các thông tin chính sau đây:
+
 ---
 
 
@@ -2829,6 +3340,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000800
 
 **ID:** 8A46F3FA-FD89-430E-A2A4-DE10289B45A9
+
+1. Hội đồng thi tổ chức ít nhất mỗi năm một kỳ thi vào quý III hoặc quý IV. Trước ngày thi ít nhất 60 ngày, Hội đồng thi thông báo chính thức trên các phương tiện thông tin đại chúng về điều kiện, tiêu chuẩn, thời gian, địa điểm và các thông tin cần thiết khác liên quan đến kỳ thi.
 
 ---
 
@@ -2841,6 +3354,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 1754C7D8-CC49-49BC-9D2E-111B5E7A0EF2
 
+1. Doanh nghiệp kiểm toán nước ngoài đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải có vốn chủ sở hữu trên bảng cân đối kế toán tại thời điểm kết thúc năm tài chính gần nhất với thời điểm đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh tối thiểu tương đương 500.000 (năm trăm nghìn) đô la Mỹ.
+
 ---
 
 
@@ -2851,6 +3366,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000800
 
 **ID:** E9A99B60-D6A8-43C3-A6D4-D8A81C5EE6A0
+
+1. Doanh nghiệp kiểm toán và kiểm toán viên hành nghề chịu trách nhiệm tự kiểm soát chất lượng dịch vụ kiểm toán do mình cung cấp.
 
 ---
 
@@ -2863,6 +3380,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 1D61E1A4-9275-4CB0-A6A5-587EC55674A6
 
+1. Tổ chức kiểm toán, kiểm toán viên hành nghề không được chấp thuận trong kỳ nào thì không được tiếp tục thực hiện các hợp đồng kiểm toán và các dịch vụ đảm bảo khác đã ký và không được ký thêm các hợp đồng kiểm toán mới với đơn vị có lợi ích công chúng trong kỳ đó, trừ trường hợp quy định tại Khoản 2 Điều này.
+
 ---
 
 
@@ -2873,6 +3392,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000540000000000000000000802493001830000800
 
 **ID:** 4FEC5129-BC4E-4B0A-84B3-24B02D471D9F
+
+Ngoài các tiêu chuẩn quy định tại Luật kiểm toán độc lập, kiểm toán viên hành nghề được chấp thuận phải có các tiêu chuẩn sau:
 
 ---
 
@@ -2885,6 +3406,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 899EA6A1-C182-4778-8199-0B90154D8976
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2020.
+
 ---
 
 
@@ -2895,6 +3418,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 1700200000000000100000900000000000000000
 
 **ID:** 6E1E4930-E44D-4016-A27B-DFFA5E878547
+
+1. Kiểm toán bắt buộc là kiểm toán đối với báo cáo tài chính hàng năm, báo cáo quyết toán dự án hoàn thành và các thông tin tài chính khác của đơn vị được kiểm toán quy định tại khoản 1 và khoản 2 Điều 37 của Luật này và các quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -2907,6 +3432,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** B190A2DB-00E0-4F02-9898-5B71A272C3AF
 
+1. Từ ngày 01/7 đến ngày 15/7 hàng năm, hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán đủ điều kiện, có nhu cầu tổ chức cập nhật kiến thức cho kiểm toán viên phải nộp cho Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính hồ sơ đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên theo quy định tại Điều 10 của Thông tư này.
+
 ---
 
 
@@ -2917,6 +3444,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000900
 
 **ID:** DDBF6DD4-1234-4EB5-97A9-22CB0A315B22
+
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán được cấp lại trong các trường hợp sau:
 
 ---
 
@@ -2929,6 +3458,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A268797B-6081-412D-842C-90A0705BEFC2
 
+1. Doanh nghiệp kiểm toán phải làm thủ tục đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán khi có sự thay đổi nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán quy định tại Khoản 1 Điều 8 Thông tư này.
+
 ---
 
 
@@ -2939,6 +3470,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000900
 
 **ID:** 5897927C-5D27-4534-861B-EC01B27AC509
+
+Văn bằng, chứng chỉ hoàn thành các khoá học do Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp được công nhận theo quy định tại khoản 2 Điều 4 Thông tư này nếu thoả mãn đồng thời các điều kiện sau:
 
 ---
 
@@ -2951,6 +3484,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** F0A29CE2-7E57-4752-A66A-F06675DAB7C7
 
+Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán quy định tại Điều 30 của Luật Kiểm toán độc lập được hướng dẫn cụ thể như sau:
+
 ---
 
 
@@ -2961,6 +3496,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000900
 
 **ID:** 2556F401-8904-4CAF-921D-FD51CF3D0E90
+
+1. Trách nhiệm của doanh nghiệp kiểm toán
 
 ---
 
@@ -2973,6 +3510,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** E9DBD527-6E60-4B42-A32F-54CDCE29C3DF
 
+1. Đơn đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng (theo mẫu tại Phụ lục ban hành kèm theo Nghị định này).
+
 ---
 
 
@@ -2983,6 +3522,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 170020000000000060000540000000000000000000802493001830000900
 
 **ID:** 42C12CCA-CC63-4EF8-ABEE-144CF31E948B
+
+Việc xem xét, chấp thuận tổ chức kiểm toán và kiểm toán viên hành nghề đủ tiêu chuẩn, điều kiện kiểm toán cho đơn vị có lợi ích công chúng được thực hiện định kỳ một năm một lần. Kỳ chấp thuận được tính theo năm dương lịch từ ngày 01/01 đến ngày 31/12.
 
 ---
 
@@ -2995,6 +3536,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 6B325743-FFD4-4EF3-AD45-97A0EB0CBCD3
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3005,6 +3548,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000002000
 
 **ID:** 99DFFCA1-530F-41A2-BD33-165CF07C8B67
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3017,6 +3562,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** A7ACCEFE-2E82-4A46-943B-225BA744B94A
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3027,6 +3574,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000005000
 
 **ID:** 6816FA46-E435-4F3B-AAB7-666800683635
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3039,6 +3588,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 3300026C-3627-4A59-BBC1-7EBA5AB5E3F9
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3049,6 +3600,8 @@ parent: ke-toan-kiem-toan
 **Mã phân cấp:** 17002000000000006000
 
 **ID:** DFE8D8F8-F03E-4842-9C0E-43A40841EC2E
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3061,6 +3614,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** 5FF62842-09C7-4D8E-AFDE-E641CA2B36EC
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3072,6 +3627,8 @@ parent: ke-toan-kiem-toan
 
 **ID:** DF6E8CB7-F913-47D9-A387-62D6AF72D9CA
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3082,6 +3639,7 @@ parent: ke-toan-kiem-toan
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 278
+- **Điều khoản có nội dung:** 251 (90.3%)
 - **ID đề mục:** 1261f60d-7916-4275-a63d-da426d1a955d
 
 ## 🔍 Tìm kiếm

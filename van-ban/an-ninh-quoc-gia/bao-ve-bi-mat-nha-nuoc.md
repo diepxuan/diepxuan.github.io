@@ -12,6 +12,7 @@ parent: an-ninh-quoc-gia
 **Đề mục:** Bảo vệ bí mật nhà nước  
 **Chủ đề:** [An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)  
 **Số điều khoản:** 90  
+**Điều khoản có nội dung:** 85/90 (94.4%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2045E428-1F52-41A9-9D5C-76B611F348E8
 
+Luật này quy định về bí mật nhà nước, hoạt động bảo vệ bí mật nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000140272070026000010
 
 **ID:** 6C56A217-0364-446B-BB40-4CBB46A94C99
+
+Nghị định này quy định chi tiết một số điều của Luật Bảo vệ bí mật nhà nước về xác định bí mật nhà nước và độ mật của bí mật nhà nước; sao, chụp tài liệu, vật chứa bí mật nhà nước; giao, nhận tài liệu, vật chứa bí mật nhà nước; mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ; địa điểm tổ chức, phương án bảo vệ và sử dụng phương tiện, thiết bị tại hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước; chế độ báo cáo về công tác bảo vệ bí mật nhà nước và phân công người thực hiện nhiệm vụ bảo vệ bí mật nhà nước.
 
 ---
 
@@ -47,6 +52,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1CCCCD56-9DF1-42EE-9115-C26072FCA9D8
 
+1. Thông tư này quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm thực hiện nhiệm vụ chuyên môn thuộc công tác bảo vệ bí mật nhà nước.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000180272180024000010
 
 **ID:** 741D2338-9ACF-46B8-818E-8CC5F44DF589
+
+1. Thông tư này quy định về biểu mẫu và việc sử dụng biểu mẫu trong công tác bảo vệ bí mật nhà nước.
 
 ---
 
@@ -69,6 +78,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D2C897A9-13E8-407B-BC09-0E73A48C43C1
 
+Thông tư này quy định về xác định bí mật nhà nước và độ mật của bí mật nhà nước; sao, chụp, thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước; vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước: mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ; cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước; cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài; tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước; điều chỉnh độ mật; giải mật; tiêu hủy tài liệu, vật chứa bí mật nhà nước; phân công công chức (viên chức) thực hiện nhiệm vụ bảo vệ bí mật nhà nước; chế độ báo cáo công tác bảo vệ bí mật nhà nước; trách nhiệm của người đứng đầu các cơ quan, đơn vị trong tổ chức thực hiện công tác bảo vệ bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000180278260104000010
 
 **ID:** 334B22EC-F1DE-4C75-A2F4-B55632AC801C
+
+Thông tư này quy định về xác định bí mật nhà nước và độ mật của bí mật nhà nước; sao, chụp, thống kê, lưu giữ, bảo quản, vận chuyển, giao, nhận, mang ra khỏi nơi lưu giữ, tiêu hủy tài liệu, vật chứa bí mật nhà nước; cung cấp, chuyển giao bí mật nhà nước; tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước; gia hạn thời hạn bảo vệ bí mật nhà nước; điều chỉnh độ mật; giải mật; trách nhiệm của Công an các đơn vị, địa phương; phân công cán bộ thực hiện nhiệm vụ bảo vệ bí mật nhà nước; chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước.
 
 ---
 
@@ -91,6 +104,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EBBFC4E8-B3ED-4C2F-A159-42130521607A
 
+1. Việc xác định bí mật nhà nước và độ mật của bí mật nhà nước phải căn cứ vào danh mục bí mật nhà nước và quy định của Luật này.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000170000000000000000000802742200070001000
 
 **ID:** 5DA85209-8C53-4D80-8929-D49E17D57D1C
+
+1. Thẩm quyền quyết định tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước:
 
 ---
 
@@ -113,6 +130,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EBA44192-A187-4468-A08B-9D95C9C299E6
 
+1. Thẩm quyền quyết định tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000300001100000000000000000
 
 **ID:** 3CA2B052-29CB-4736-9B0B-95DA133B76A9
+
+1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Tuyệt mật bao gồm:
 
 ---
 
@@ -135,6 +156,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8A186CE9-6254-4334-B4B6-8A4932BF4174
 
+1. Thời hạn bảo vệ bí mật nhà nước được gia hạn nếu việc giải mật gây nguy hại đến lợi ích quốc gia, dân tộc.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000210000000000000000000802742200070001100
 
 **ID:** 5EC5FBAF-3A25-4000-ABA1-840EBDCD150C
+
+1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.
 
 ---
 
@@ -157,6 +182,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EDB11574-5686-4936-A610-6CB85E783F07
 
+1. Tài liệu, vật chứa bí mật nhà nước khi tiếp nhận, phát hành phải được thống kê theo trình tự thời gian và độ mật.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000210000000000000000000802782601040001200
 
 **ID:** 93B7D9C7-8E12-4D3D-A237-5B86E0CB4A30
+
+1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.
 
 ---
 
@@ -179,6 +208,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1874C830-EEF3-42F1-A714-7A1D533EA9B1
 
+1. Giải mật là xóa bỏ độ mật của bí mật nhà nước.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000300001300000000000000000
 
 **ID:** 80E7972D-02CC-437A-9BC7-AB8F9AFF404B
+
+1. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước ở trong nước do người làm công tác liên quan đến bí mật nhà nước, người làm công tác giao liên hoặc văn thư của cơ quan, tổ chức thực hiện.
 
 ---
 
@@ -201,6 +234,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E0A0B21A-AA24-4ACB-AADF-72339D3A5B41
 
+1. Giải mật là xóa bỏ độ mật của bí mật nhà nước.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000230000000000000000000802742200070001300
 
 **ID:** 01EA9478-3650-4A34-9613-608ADFB526F5
+
+1. Các trường hợp tiến hành thực hiện việc tiêu hủy tài liệu, vật chứa bí mật nhà nước gồm:
 
 ---
 
@@ -223,6 +260,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F4478EF0-2809-437E-8B2C-38A12C5CEBC3
 
+1. Việc mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được người đứng đầu hoặc cấp phó được ủy quyền của người đứng đầu cơ quan, tổ chức trực tiếp quản lý bí mật nhà nước cho phép.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000230000000000000000000802782601040001400
 
 **ID:** D5C892E4-398C-4CBE-B6B0-7768C8F327D1
+
+1. Tiêu hủy tài liệu, vật chứa bí mật nhà nước trong trường hợp sau đây:
 
 ---
 
@@ -245,6 +286,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 233EBECC-614B-46DE-8E04-40D19BCE5F1C
 
+1. Bộ Kế hoạch và Đầu tư có trách nhiệm phân công công chức thực hiện nhiệm vụ chuyên trách bảo vệ bí mật nhà nước tại cơ quan Bộ,
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000300001500000000000000000
 
 **ID:** 75135124-234F-4F88-BC0E-372C28FFB923
+
+1. Người có thẩm quyền quy định tại các khoản 1, 2 và 3 Điều 11 của Luật này quyết định việc cung cấp, chuyển giao bí mật nhà nước.
 
 ---
 
@@ -267,6 +312,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3A333B2F-F5CD-4E65-A3C2-FCC591C1AC7A
 
+1. Cục An ninh chính trị nội bộ có trách nhiệm tham mưu giúp Bộ:
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01002000000000004000025000000000000000000040272070026000080000802742200070001500
 
 **ID:** 7F9B1A2D-DA84-4776-9875-5D3FFBF2FEAC
+
+1. Các đơn vị thuộc và trực thuộc Bộ Kế hoạch và Đầu tư:
 
 ---
 
@@ -289,6 +338,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B6CF09A9-1DA4-438E-BF26-40146F22CF6F
 
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01002000000000004000024000000000000000000040272070026000070000802782601040001600
 
 **ID:** 8F493F78-3B4D-4072-92AF-E6804E51CE5C
+
+1. Tại cơ quan Bộ
 
 ---
 
@@ -311,6 +364,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B24802A0-D869-465D-BAF9-80D4D6FB7857
 
+1. Văn phòng Bộ Kế hoạch và Đầu tư có trách nhiệm:
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000010000050000000000000000000802742200070001700
 
 **ID:** F01CB43F-260E-4D81-906E-F40B69C57178
+
+1. Cơ quan, đơn vị, cá nhân có thành tích xuất sắc trong công tác bảo vệ bí mật nhà nước được khen thưởng theo quy định hiện hành.
 
 ---
 
@@ -333,6 +390,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C3646212-0809-4D97-B84E-B7FAACBC895C
 
+1. Việc tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước của cơ quan, tổ chức Việt Nam phải bảo đảm các yêu cầu sau đây:
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01002000000000004000025000000000000000000040272070026000080000802782601040001700
 
 **ID:** 4858599E-1AD7-4154-9F6A-A557364AE88E
+
+1. Định kỳ sáu tháng, một năm, Công an các đơn vị, địa phương báo cáo công tác bảo vệ bí mật nhà nước gửi về Bộ (qua Cục An ninh chính trị nội bộ).
 
 ---
 
@@ -355,6 +416,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A6A2E67A-2C16-4D33-ACBB-4229312A8BFD
 
+1. Việc tổ chức hội nghị, hội thảo, cuộc họp có yếu tố nước ngoài tại Việt Nam có nội dung bí mật nhà nước phải bảo đảm các yêu cầu sau đây:
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000500002780274220007000180
 
 **ID:** 398807B1-0245-4CD1-B944-3EDCFE8C475C
+
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2020 và thay thế Quyết định số 995/2008/QĐ-BKH ngày 05 tháng 8 năm 2008 của Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Quy chế bảo vệ bí mật nhà nước trong ngành Kế hoạch và Đầu tư.
 
 ---
 
@@ -377,6 +442,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 053DD07E-7A9E-4289-B4B7-FF3BDF0F2AB6
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 12 năm 2021 và thay thế Thông tư số 38/2020/TT-BCA ngày 17 tháng 4 năm 2020 của Bộ trưởng Bộ Công an quy định về công tác bảo vệ bí mật nhà nước trong Công an nhân dân.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000300001900000000000000000
 
 **ID:** 0ED310BB-B9BF-49F0-B614-63C498F9BF6C
+
+1. Thời hạn bảo vệ bí mật nhà nước là khoảng thời gian được tính từ ngày xác định độ mật của bí mật nhà nước đến hết thời hạn sau đây:
 
 ---
 
@@ -399,6 +468,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BA403E96-7296-428D-8237-0A7BAD4F0E99
 
+1. Thủ trưởng các đơn vị thuộc và trực thuộc Bộ; Giám đốc Sở Kế hoạch và Đầu tư các tỉnh, thành phố trực thuộc trung ương và cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000500002780278260104000190
 
 **ID:** 71125EF4-DEDD-4AD6-937E-E4803B0C6341
+
+1. Cục An ninh chính trị nội bộ chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra, đôn đốc việc thực hiện Thông tư này.
 
 ---
 
@@ -421,6 +494,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E2328DCA-45B8-4A1D-A661-FA8356011108
 
+Thông tư này áp dụng đối với các cơ quan, đơn vị, tổ chức, cá nhân có liên quan đến công tác bảo vệ bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000180278260104000020
 
 **ID:** 08F43C84-238F-4610-8208-AFA54EC235EF
+
+Thông tư này áp dụng đối với sĩ quan, hạ sĩ quan, chiến sĩ, học viên Công an nhân dân (sau đây gọi chung là cán bộ, chiến sĩ); đơn vị Công an cấp đội, đồn, trạm, tiểu đoàn, xã, phường, thị trấn trở lên (sau đây gọi tắt là đơn vị Công an nhân dân) và cơ quan, tổ chức, cá nhân có liên quan.
 
 ---
 
@@ -443,6 +520,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** FD05D962-D8A1-4ABC-AB89-27AF60E71156
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000010000060000000000000000000802481801100000200
 
 **ID:** F110FEA1-5ABE-4C7E-BEE6-1D77A83E8C2C
+
+1. Nguồn kinh phí thực hiện nhiệm vụ chuyên môn thuộc công tác bảo vệ bí mật nhà nước do ngân sách nhà nước bảo đảm theo phân cấp hiện hành và được bố trí trong dự toán kinh phí được giao hàng năm của cơ quan, tổ chức theo quy định của Luật Ngân sách nhà nước và các văn bản pháp luật khác có liên quan.
 
 ---
 
@@ -465,6 +546,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4C50A051-1CAA-4778-BABA-FD726793E83D
 
+1. Người soạn thảo, tạo ra thông tin thuộc danh mục bí mật nhà nước phải đề xuất người đứng đầu cơ quan, tổ chức xác định bí mật nhà nước, độ mật của bí mật nhà nước, nơi nhận, số lượng bản phát hành, được phép hoặc không được phép sao, chụp tài liệu, vật chứa bí mật nhà nước tại Tờ trình, Phiếu trình duyệt ký văn bản hoặc văn bản xác định độ mật của vật, địa điểm, lời nói, hoạt động chứa bí mật nhà nước và có trách nhiệm bảo vệ nội dung bí mật nhà nước trong quá trình soạn thảo, tạo ra. Tài liệu bí mật nhà nước phải thể hiện nơi nhận, số lượng bản phát hành, tên người soạn thảo, được phép hoặc không được phép sao, chụp ở mục nơi nhận của tài liệu. Trường hợp văn bản điện tử, người soạn thảo phải tạo dấu chỉ độ mật trên văn bản sau khi được người có thẩm quyền xác định bí mật nhà nước và độ mật của bí mật nhà nước; văn bản điện tử khi in ra để phát hành phải đóng dấu độ mật theo quy định.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000040000240000000000000000000802721800240000200
 
 **ID:** 977C6D53-4A37-4B8B-A33F-CBE6F33D871A
+
+1. Văn bản xác định độ mật đối với vật, địa điểm, lời nói, hoạt động, hình thức khác chứa bí mật nhà nước: Mẫu số 01.
 
 ---
 
@@ -487,6 +572,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 51C55C36-9237-409F-893E-236B34CE517C
 
+1. Thời hạn bảo vệ bí mật nhà nước được gia hạn nếu việc giải mật gây nguy hại đến lợi ích quốc gia, dân tộc.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000300002100000000000000000
 
 **ID:** DA96E1C5-AC22-45F3-B7B3-3DC3FAEAD2C6
+
+1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của bí mật nhà nước.
 
 ---
 
@@ -509,6 +598,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4BD97092-E35F-45E1-8630-5E002391B1DC
 
+1. Giải mật là xóa bỏ độ mật của bí mật nhà nước.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000300002300000000000000000
 
 **ID:** 7F4DA5AD-2EC7-4A9F-B8E6-595CBF5D8C60
+
+1. Tiêu hủy tài liệu, vật chứa bí mật nhà nước trong trường hợp sau đây:
 
 ---
 
@@ -531,6 +624,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7E8D3A20-1297-48DA-8786-06CA61610D26
 
+1. Chính phủ thống nhất quản lý nhà nước về bảo vệ bí mật nhà nước.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000400002500000000000000000
 
 **ID:** 9B99E14E-0E5A-444A-9054-1857D0280E9B
+
+1. Ban hành nội quy bảo vệ bí mật nhà nước trong cơ quan, tổ chức, trừ cơ quan, tổ chức quy định tại khoản 3 Điều 24 của Luật này.
 
 ---
 
@@ -553,6 +650,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C0596EB8-13DC-4661-B47D-AFB3DEC4E7A9
 
+1. Người tiếp cận bí mật nhà nước có trách nhiệm sau đây:
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000500002700000000000000000
 
 **ID:** 37C609C6-04F6-4480-A397-CA9A9B1B1877
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020, trừ trường hợp quy định tại khoản 2 Điều này.
 
 ---
 
@@ -575,6 +676,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6F6FA94F-20B2-4A5B-929F-F282DA3EB53E
 
+Bí mật nhà nước đã được xác định trước ngày 01 tháng 01 năm 2019 được xác định thời hạn bảo vệ theo quy định tại khoản 1 Điều 19 của Luật này. Cơ quan, tổ chức đã xác định bí mật nhà nước có trách nhiệm xác định thời hạn bảo vệ đối với bí mật nhà nước đó bảo đảm kết thúc trước ngày 01 tháng 7 năm 2021.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000300000000000000000
 
 **ID:** B00828BB-71D7-4595-A757-112A3B553F75
+
+1. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước; phục vụ nhiệm vụ xây dựng và bảo vệ Tổ quốc, phát triển kinh tế - xã hội, hội nhập quốc tế của đất nước; bảo vệ lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 ---
 
@@ -597,6 +702,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8800C58F-3038-4E38-B734-1C5BC34A899B
 
+1. Chi soạn thảo các văn bản quy phạm pháp luật về bảo vệ bí mật nhà nước.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000100000000000000000000802742200070000300
 
 **ID:** 4AD07C48-D041-4EC6-8416-E79EF71D9AA6
+
+1. Người đứng đầu các cơ quan, đơn vị trong ngành Kế hoạch, Đầu tư và Thống kê ban hành, phát hành tài liệu hoặc tạo ra vật chứa bí mật nhà nước có trách nhiệm xác định bí mật nhà nước và độ mật của bí mật nhà nước.
 
 ---
 
@@ -619,6 +728,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 24779333-F381-4693-909D-4FB4E2301BD0
 
+1. Người đứng đầu hoặc cấp phó được ủy quyền của đơn vị Công an nhân dân ban hành, phát hành tài liệu hoặc tạo ra vật chứa bí mật nhà nước có trách nhiệm xác định bí mật nhà nước và độ mật của bí mật nhà nước.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000110000000000000000000402720700260000300
 
 **ID:** CA28FCE0-70AB-425F-8934-02071AD9A70A
+
+1. Sao tài liệu bí mật nhà nước là việc chép lại hoặc tạo ra bản khác theo đúng nội dung bản gốc hoặc bản chính của tài liệu. Chụp tài liệu, vật chứa bí mật nhà nước là việc ghi lại bằng hình ảnh tài liệu, vật chứa bí mật nhà nước.
 
 ---
 
@@ -641,6 +754,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7CBDA2A9-E12E-4EFD-ABE2-ACE133918E40
 
+1. Cơ quan, tổ chức, cá nhân khi sử dụng biểu mẫu quy định tại Điều 2 Thông tư này phải bảo đảm đầy đủ nội dung, thống nhất về hình thức, kích thước được quy định cụ thể tại các biểu mẫu.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000400000000000000000
 
 **ID:** EBFE4F32-F251-4D19-80FE-03B300AF2019
+
+1. Hợp tác quốc tế về bảo vệ bí mật nhà nước được thực hiện theo nguyên tắc tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.
 
 ---
 
@@ -663,6 +780,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E56BA338-AEE8-43FD-B96B-1BE927DD58DB
 
+1. Mức chi cụ thể theo phụ lục kèm theo Thông tư.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000110000000000000000000802742200070000400
 
 **ID:** 01C48C30-DCF0-4159-AFB0-3E1B13A0FB8A
+
+1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ “Tuyệt mật” gồm:
 
 ---
 
@@ -685,6 +806,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 41371AB0-1DD6-45C8-BEF2-BF62AC3DF77F
 
+1. Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước độ Tuyệt mật gồm:
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000130000000000000000000402720700260000400
 
 **ID:** B32C2478-E058-415E-93A5-BF6EA2206149
+
+1. Việc giao tài liệu, vật chứa bí mật nhà nước được thực hiện như sau:
 
 ---
 
@@ -707,6 +832,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C301AFC2-0CF6-4C74-BA3B-1ED02B6FC743
 
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000100000500000000000000000
 
 **ID:** 1D554093-2908-4FAE-B8E8-9DFAC2BFD128
+
+1. Làm lộ, chiếm đoạt, mua, bán bí mật nhà nước; làm sai lệch, hư hỏng, mất tài liệu, vật chứa bí mật nhà nước.
 
 ---
 
@@ -729,6 +858,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A0EBEEF5-5280-400A-BA9D-2FABAC019F11
 
+1. Hàng năm, căn cứ vào yêu cầu công tác bảo vệ bí mật nhà nước và căn cứ nội dung chi, mức chi quy định tại Thông tư này, các cơ quan, đơn vị được giao thực hiện nhiệm vụ chuyên môn thuộc công tác bảo vệ bí mật nhà nước lập dự toán kinh phí bảo đảm cho công tác bảo vệ bí mật nhà nước tổng hợp chung trong dự toán ngân sách nhà nước hàng năm của cơ quan, đơn vị mình gửi cơ quan có thẩm quyền theo quy định.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000120000000000000000000802742200070000500
 
 **ID:** 8A4E3CB2-6C3C-49CF-860F-8FB498CF281D
+
+1. Tài liệu, vật chứa bí mật nhà nước được lưu giữ theo hồ sơ chuyên đề, đối tượng, lĩnh vực, có bảng thống kê chi tiết kèm theo, phải được bảo vệ bằng biện pháp thích hợp, bảo đảm an toàn do người đừng đầu đơn vị có thẩm quyền quy định.
 
 ---
 
@@ -751,6 +884,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 94B12E39-F1F3-4697-8E69-D7AD4B5E067D
 
+1. Hằng năm, các đơn vị Công an nhân dân phải thống kê tài liệu, vật chứa bí mật nhà nước đã tiếp nhận, phát hành theo trình tự thời gian và từng độ mật.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000140000000000000000000402720700260000500
 
 **ID:** 2DFECFF1-9914-4985-8878-A6DD4D9BB17C
+
+1. Người mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ phục vụ công tác trong nước, nước ngoài phải có văn bản xin phép người có thẩm quyền theo quy định tại khoản 1, khoản 2 Điều 14 của Luật Bảo vệ bí mật nhà nước. Khi kết thúc nhiệm vụ phải báo cáo người có thẩm quyền cho phép mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ về việc quản lý, sử dụng bí mật nhà nước và nộp lại cơ quan, tổ chức.
 
 ---
 
@@ -773,6 +910,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1F59E887-98B0-4222-ADC0-1700D17B6428
 
+1. Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước do ngân sách nhà nước bảo đảm.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000130000000000000000000802742200070000600
 
 **ID:** D01AB050-B358-4CA3-867B-49902E5453CF
+
+1. Việc vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước do công chức, viên chức làm công tác liên quan trực tiếp đến bí mật nhà nước của các cơ quan, đơn vị trong ngành kế hoạch, đầu tư và thống kê thực hiện. Công chức, viên chức làm công tác liên quan trực tiếp đến bí mật nhà nước chỉ vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước khi được Người đứng đầu cơ quan, đơn vị chỉ đạo.
 
 ---
 
@@ -795,6 +936,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3F60988C-A506-4719-995E-5293B4A07DD0
 
+1. Việc vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước do cán bộ, chiến sĩ làm công tác liên quan trực tiếp đến bí mật nhà nước; giao liên, văn thư Bộ Công an; giao liên, văn thư Công an các đơn vị, địa phương thực hiện. Cán bộ, chiến sĩ làm công tác liên quan trực tiếp đến bí mật nhà nước chỉ vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước khi được lãnh đạo, chỉ huy đơn vị Công an nhân dân chỉ đạo.
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000170000000000000000000402720700260000600
 
 **ID:** 06EE2F04-5123-4A37-B22B-BC164D429B74
+
+1. Hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước được tổ chức trong phòng họp kín tại trụ sở làm việc của cơ quan, tổ chức. Trường hợp tổ chức ở ngoài trụ sở làm việc, người đứng đầu cơ quan, tổ chức quyết định tổ chức hội nghị, hội thảo, cuộc họp có trách nhiệm đề nghị cơ quan Bộ Công an, Công an cấp tỉnh kiểm tra an ninh, an toàn trong và ngoài khu vực diễn ra hội nghị, hội thảo, cuộc họp; hội nghị, hội thảo, cuộc họp do Bộ Quốc phòng, Ban Cơ yếu Chính phủ chủ trì tổ chức do cơ quan chức năng của Bộ Quốc phòng, Ban Cơ yếu Chính phủ thực hiện.
 
 ---
 
@@ -817,6 +962,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6A38FC30-A9BC-413A-9E82-0132E016EACF
 
+Thông tư này có hiệu lực kể từ ngày 01 tháng 10 năm 2013.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000200000700000000000000000
 
 **ID:** D1006E6F-91DF-45D3-A6F9-8A51A30B208B
+
+Phạm vi bí mật nhà nước là giới hạn thông tin quan trọng trong các lĩnh vực sau đây chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc:
 
 ---
 
@@ -839,6 +988,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9D91715C-A62F-466B-8F4E-23A8F215D3A2
 
+1. Việc mang tài liệu, vật chứa bí mật nhà nước thuộc lĩnh vực kế hoạch, đầu tư và thống kê ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được người đứng đầu hoặc cấp phó được ủy quyền của người đứng đầu cơ quan, đơn vị trực tiếp quản lý bí mật nhà nước cho phép.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000140000000000000000000802782601040000700
 
 **ID:** B589A64E-0496-4472-B04B-70E3617FF4A2
+
+1. Việc mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được người đứng đầu hoặc cấp phó được ủy quyền của người đứng đầu đơn vị Công an nhân dân trực tiếp quản lý bí mật nhà nước cho phép.
 
 ---
 
@@ -861,6 +1014,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** EDBA6FB9-29F3-4287-8B3F-D2AFEB37AE91
 
+1. Văn phòng Trung ương và ban đảng; cơ quan trung ương của tổ chức chính trị - xã hội; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao; Kiểm toán Nhà nước; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phân công người thực hiện nhiệm vụ chuyên trách bảo vệ bí mật nhà nước tại văn phòng hoặc đơn vị hành chính, tổng hợp.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000200000800000000000000000
 
 **ID:** C5FECDA2-C24B-47C9-92FB-AB938BD05EA0
+
+Căn cứ vào tính chất quan trọng của nội dung thông tin, mức độ nguy hại nếu bị lộ, bị mất, bí mật nhà nước được phân loại thành 03 độ mật, bao gồm:
 
 ---
 
@@ -883,6 +1040,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F7E5D9E7-9891-4867-8463-F8E72D8048D7
 
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước được quy định như sau:
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000150000000000000000000802782601040000800
 
 **ID:** D382C2EC-2B31-4ACA-8E6A-85D61BBDDFCB
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước được quy định như sau:
 
 ---
 
@@ -905,6 +1066,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** AB3BB31B-467E-44CD-8A95-E57C103B59C2
 
+1. Người đứng đầu cơ quan, tổ chức quy định tại khoản 1 Điều 7 của Nghị định này phải thực hiện chế độ báo cáo về công tác bảo vệ bí mật nhà nước trong phạm vi quản lý gửi Bộ Công an để tổng hợp báo cáo Thủ tướng Chính phủ theo thời hạn như sau:
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100200000000000200000900000000000000000
 
 **ID:** 0711B5BF-49EC-47E1-8020-A33CA622C3CA
+
+1. Căn cứ vào quy định tại Điều 7 và Điều 8 của Luật này, Thủ tướng Chính phủ ban hành danh mục bí mật nhà nước.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E1D7E6F5-4D58-4759-A5F0-1B583C65F63D
 
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010020000000000030000160000000000000000000802782601040000900
 
 **ID:** C0F57F83-89B4-4A66-A319-3BAA242DD5C0
+
+1. Thẩm quyền quyết định việc cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài được quy định như sau:
 
 ---
 
@@ -949,6 +1118,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E36C515F-9C68-45FD-9C0B-19CC5A98E845
 
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01002000000000001000
 
 **ID:** 5684D99E-62FA-4EA9-A721-ED7A33F42B34
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -971,6 +1144,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4C738C4A-2536-4948-A2D8-5CEBA247F70D
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01002000000000003000
 
 **ID:** EA55B067-BF09-44B6-9FF0-E855E39581F6
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -993,6 +1170,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D84F39DE-4951-4B32-9152-26A91E17CBD7
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1004,6 +1183,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 99485541-05F5-4F97-B105-770198B8138F
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1014,6 +1195,7 @@ parent: an-ninh-quoc-gia
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 90
+- **Điều khoản có nội dung:** 85 (94.4%)
 - **ID đề mục:** 84a4b90e-6b07-41ca-919d-759cfb657f3f
 
 ## 🔍 Tìm kiếm

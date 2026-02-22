@@ -12,6 +12,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Đề mục:** Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam  
 **Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 13  
+**Điều khoản có nội dung:** 10/13 (76.9%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** 524613C7-F5BC-4E08-8B1C-FBB94FA7A503
 
+1. Phạm vi điều chỉnh:
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Mã phân cấp:** 2301000000000000300001000000000000000000
 
 **ID:** 29233987-6CEF-4F6C-8898-D8E56B7CA001
+
+1. Bộ trưởng Bộ Ngoại giao chịu trách nhiệm chỉ đạo, hướng dẫn và kiểm tra việc thi hành Quyết định này.
 
 ---
 
@@ -47,6 +52,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** 1F3AF07C-915F-4FF3-845B-3CCD58DD5896
 
+1. “Hội nghị, hội thảo quốc tế” là hội nghị, hội thảo có yếu tố nước ngoài, được tổ chức theo hình thức gặp gỡ trực tiếp trên lãnh thổ Việt Nam, hoặc theo hình thức trực tuyến với ít nhất một đầu cầu thuộc lãnh thổ Việt Nam, bao gồm:
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Mã phân cấp:** 2301000000000000200000300000000000000000
 
 **ID:** 6533FA7B-4F94-40D6-826F-5A420FDAE26C
+
+1. Thủ tướng Chính phủ cho phép tổ chức các hội nghị, hội thảo quốc tế sau:
 
 ---
 
@@ -69,6 +78,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** 50F58521-D506-4584-8ECF-7055B6AB1E9F
 
+1. Xin phép tổ chức hội nghị, hội thảo quốc tế:
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Mã phân cấp:** 2301000000000000200000500000000000000000
 
 **ID:** 577324D2-F5C7-4927-AEB5-367996E3C39E
+
+1. Đối với hội nghị, hội thảo quốc tế thuộc thẩm quyền cho phép của Thủ tướng Chính phủ, người có thẩm quyền có trách nhiệm sau đây:
 
 ---
 
@@ -91,6 +104,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** 070DF86F-0FA5-4732-8A3F-57D9AC737184
 
+1. Nếu đơn vị tổ chức cần xin chủ trương để đăng cai tổ chức hội nghị, hội thảo quốc tế, đơn vị tổ chức và cơ quan của người có thẩm quyền thực hiện việc xin chủ trương đăng cai theo quy trình và thẩm quyền quy định tại Điều 3 và Điều 5 Quyết định này.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Mã phân cấp:** 2301000000000000200000700000000000000000
 
 **ID:** FC0DB164-D848-4510-A62D-472F42FA5D35
+
+1. Bộ trưởng Bộ Ngoại giao chịu trách nhiệm quản lý nhà nước đối với hội nghị, hội thảo quốc tế trong cả nước.
 
 ---
 
@@ -113,6 +130,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** D1B4BB47-F8BE-4FE5-B0B9-4ACE59DB7A70
 
+1. Chậm nhất là ngày 18 tháng 12 hằng năm, cơ quan của người có thẩm quyền báo cáo tình hình tổ chức, quản lý hội nghị, hội thảo quốc tế của cơ quan, địa phương mình cho Bộ Ngoại giao để tổng hợp báo cáo Thủ tướng Chính phủ (Mẫu 03 kèm theo).
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Mã phân cấp:** 2301000000000000300000900000000000000000
 
 **ID:** 30CC7BD1-359D-42EE-B787-FB3548D3A379
+
+Quyết định này có hiệu lực từ ngày 15 tháng 4 năm 2020 và thay cho Quyết định số 76/2010/QĐ-TTg ngày 30 tháng 11 năm 2010 của Thủ tướng Chính phủ về tổ chức và quản lý hội nghị, hội thảo quốc tế.
 
 ---
 
@@ -135,6 +156,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** A244F7F2-B22E-4DE2-997C-009A5250F0EE
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Mã phân cấp:** 23010000000000002000
 
 **ID:** DED82424-78AC-4A85-AE6B-F2CB5AB7B23F
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -157,6 +182,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** B90D9560-9317-48AE-8C70-2BABAE495BF4
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -167,6 +194,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 13
+- **Điều khoản có nội dung:** 10 (76.9%)
 - **ID đề mục:** b60f2225-2af4-4339-9980-3e1a78bc9ea5
 
 ## 🔍 Tìm kiếm

@@ -12,6 +12,7 @@ parent: buu-chinh-vien-thong
 **Đề mục:** An toàn thông tin mạng  
 **Chủ đề:** [Bưu chính, viễn thông](/van-ban/buu-chinh-vien-thong/)  
 **Số điều khoản:** 307  
+**Điều khoản có nội dung:** 293/307 (95.4%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** BFFC1A24-49D8-4CCF-8D2D-AEC87B7107A9
 
+Luật này quy định về hoạt động an toàn thông tin mạng, quyền, trách nhiệm của cơ quan, tổ chức, cá nhân trong việc bảo đảm an toàn thông tin mạng; mật mã dân sự; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin mạng; kinh doanh trong lĩnh vực an toàn thông tin mạng; phát triển nguồn nhân lực an toàn thông tin mạng; quản lý nhà nước về an toàn thông tin mạng.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000240258700058000010
 
 **ID:** 5C001268-1D2E-430E-8AA7-D284A8E547F3
+
+Nghị định này quy định chi Tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất khẩu, nhập khẩu sản phẩm mật mã dân sự; ban hành Danh Mục sản phẩm, dịch vụ mật mã dân sự, Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép; thanh tra, kiểm tra, xử lý vi phạm hành chính trong lĩnh vực mật mã dân sự.
 
 ---
 
@@ -47,6 +52,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 8F1DED3C-B7B1-46E9-86D0-E7FB7C84F3E9
 
+Nghị định này quy định chi tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000240258700108000010
 
 **ID:** 9BB08F6D-19A7-41FC-9F1A-861197134E8C
+
+1. Nghị định này quy định về:
 
 ---
 
@@ -69,6 +78,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 4FD2E504-91D9-4B59-8500-05F619F425CF
 
+Nghị định này quy định nguyên tắc, nội dung, biện pháp, hợp tác quốc tế và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động ngăn chặn xung đột thông tin trên mạng tại Việt Nam.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000250261280005000010
 
 **ID:** CD49FD4D-EC80-42AB-B6B7-E4D2DD636200
+
+Quyết định này quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia.
 
 ---
 
@@ -91,6 +104,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 7704E3BB-215A-4673-840D-AC739D1168A8
 
+Thông tư này quy định việc quản lý và sử dụng kinh phí thực hiện Dự án Đào tạo ngắn hạn về an toàn, an ninh thông tin (ATANTT) trong nước thuộc Đề án Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020 đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 99/QĐ-TTg ngày 14/01/2014 (sau đây gọi tắt là Đề án 99).
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000280261670003650010
 
 **ID:** 61B3795F-B110-4040-A851-E4B97726CD2A
+
+1. Thông tư này quy định chi tiết và hướng dẫn bảo đảm an toàn hệ thống thông tin theo cấp độ, bao gồm: Hướng dẫn xác định hệ thống thông tin và cấp độ an toàn hệ thống thông tin; Yêu cầu bảo đảm an toàn hệ thống thông tin theo cấp độ; Kiểm tra, đánh giá an toàn thông tin; Tiếp nhận và thẩm định hồ sơ đề xuất cấp độ; Báo cáo, chia sẻ thông tin.
 
 ---
 
@@ -113,6 +130,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C4523462-D89D-496B-BC03-C31712F8BEB3
 
+1. Thông tư này quy định về các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc (không bao gồm hoạt động điều phối ứng cứu sự cố an toàn thông tin mạng nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Quyết định số 05/2017/QĐ-TTg));
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000280263720031000010
 
 **ID:** 159E09A5-55D5-4235-A8B6-28B0705B49C7
+
+Thông tư này quy định về hoạt động giám sát an toàn hệ thống thông tin (sau đây gọi tắt là giám sát) trên toàn quốc, không bao gồm các hệ thống thông tin do Bộ Quốc phòng và Bộ Công an quản lý.
 
 ---
 
@@ -135,6 +156,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** FCBB6140-0260-4B28-9EFC-C8D60CB7741F
 
+1. Thông tư này quy định về bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000280267060013000010
 
 **ID:** 83433AF4-2901-45D2-BF59-A11A6F6B2D92
+
+Thông tư này quy định Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép và trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng (sau đây gọi tắt là Giấy phép nhập khẩu).
 
 ---
 
@@ -157,6 +182,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** EF07D809-F0D0-4A23-A82E-1120DB541032
 
+Thông tư này quy định về lập dự toán, quản lý, sử dụng và quyết toán kinh phí chi thường xuyên để thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000
 
 **ID:** 96F93374-3883-4742-B020-E3F6A216DE38
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -179,6 +208,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 2C1CF6D4-4177-4741-B328-FE5AFCFA7746
 
+Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về đặc tính kỹ thuật mật mã sử dụng trong các sản phẩm mật mã dân sự thuộc nhóm sản phẩm bảo mật luồng IP sử dụng công nghệ IPsec và TLS.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000
 
 **ID:** 2DBDAC6E-094E-4624-8AF6-54D2A04C613B
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -201,6 +234,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** D8B8A479-D4C5-47F6-A5E3-EB7B15595D66
 
+1. Việc gửi thông tin trên mạng phải bảo đảm các yêu cầu sau đây:
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000120000802630800200001000
 
 **ID:** 25F4B007-6DD4-4A36-9950-BE972EF410FC
+
+1. Đơn vị, cá nhân vận hành hệ thống thông tin, có trách nhiệm:
 
 ---
 
@@ -223,6 +260,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 0F178DA8-04FF-468C-9A2D-3F8A6F0881AA
 
+1. Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia là phương án ứng cứu cho sự cố an toàn thông tin mạng nghiêm trọng đáp ứng các tiêu chí tại Điều 9 và hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 5 hoặc, thuộc Danh mục Hệ thống thông tin quan trọng quốc gia.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001000
 
 **ID:** B2648D6D-662F-4C04-95B0-4C4C14011CB9
+
+Hệ thống thông tin cấp độ 4 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
 
 ---
 
@@ -245,6 +286,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** F4E70D14-D3BD-483F-AEC8-B9B9FFA6071A
 
+1. Hoạt động giám sát trung tâm:
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501000
 
 **ID:** 690B2923-6451-4F98-87D1-BDB13241C244
+
+1. Nội dung kiểm tra, đánh giá:
 
 ---
 
@@ -267,6 +312,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 2C671061-90BE-4722-805B-81607B7621CA
 
+Nội dung xác định nguồn gốc xung đột thông tin trên mạng bao gồm xác định gói tin, thông tin, địa chỉ nguồn, địa chỉ đích, cổng dịch vụ và cách thức, thủ đoạn xung đột thông tin trên mạng; xác định đối tượng, mục đích và mức độ gây xung đột thông tin trên mạng.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130001000
 
 **ID:** 6E7C642B-7CFD-40BD-9F92-28BBB4CD10BD
+
+1. Đối với Giấy phép nhập khẩu còn hiệu lực và bị mất hoặc bị hư hỏng, doanh nghiệp gửi đơn đề nghị cấp lại Giấy phép nhập khẩu theo Mẫu số 02 tại Phụ lục II của Thông tư này tới Bộ Thông tin và Truyền thông (Cục An toàn thông tin).
 
 ---
 
@@ -289,6 +338,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9E24B761-0325-4998-A307-8B0194E09570
 
+1. Trong thời hạn thẩm định hồ sơ, Bộ Thông tin và Truyền thông có quyền gửi thông báo yêu cầu doanh nghiệp bổ sung hồ sơ, giải trình bằng văn bản hoặc giải trình trực tiếp nếu hồ sơ đề nghị cấp phép tương ứng không cung cấp đủ thông tin, không đáp ứng đủ điều kiện theo quy định nhưng không quá 01 lần.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000402587000580001000
 
 **ID:** C84C7571-7CE4-448E-ADFD-500AD66E84C6
+
+Các chức danh nêu tại Điều 9 Nghị định này, cán bộ đang thi hành công vụ trong lĩnh vực mật mã dân sự có quyền lập biên bản vi phạm hành chính theo quy định.
 
 ---
 
@@ -311,6 +364,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 8CFC8DFD-B374-4EF1-85EF-3C6D93005F03
 
+1.Các thiết bị di động khi kết nối vào hệ thống mạng nội bộ của tổ chức phải được đăng ký để kiểm soát.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000010000000000000000001100000000000000000
 
 **ID:** 6A20FB3A-FE04-49E1-BA29-1D8064D037D4
+
+1. Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện phòng ngừa, ngăn chặn phần mềm độc hại theo hướng dẫn, yêu cầu của cơ quan nhà nước có thẩm quyền.
 
 ---
 
@@ -333,6 +390,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** E23CEB5E-761B-41CE-B18D-9BA64418B4EE
 
+1. Báo cáo sự cố an toàn thông tin mạng:
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200001100
 
 **ID:** 16F0A8D8-83B3-4742-BFA9-B88E8CCE244F
+
+Quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại Phụ lục II cụ thể gồm:
 
 ---
 
@@ -355,6 +416,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 64B3EACD-504A-48AD-ACA3-886D26089510
 
+Hệ thống thông tin cấp độ 5 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310001100
 
 **ID:** 2F983254-4A18-4519-B621-E12ED456481D
+
+1. Bộ Thông tin và Truyền thông thực hiện giám sát hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử.
 
 ---
 
@@ -377,6 +442,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** B2328AB7-802E-4C0C-BEFC-F61E9BB26756
 
+1. Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ bao gồm:
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001100
 
 **ID:** BC31CE78-B30B-49AF-A7B4-20FAEE6B1CE7
+
+1. Kết quả xác định nguồn gốc xung đột thông tin trên mạng là các tài liệu, bằng chứng, chứng cứ được các cơ quan nghiệp vụ thu thập bảo đảm tính khách quan, chính xác và khoa học.
 
 ---
 
@@ -399,6 +468,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 70A4617C-67A7-450E-8F7C-CDB264FA2F43
 
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có trách nhiệm báo cáo đột xuất theo yêu cầu và báo cáo định kỳ hằng năm (trước ngày 31 tháng 12) về tình hình kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000802665100180001100
 
 **ID:** 7DDA86C3-99E1-474A-8BA3-87F462FDA6EF
+
+1. Kiểm soát việc đấu nối, gỡ bỏ vật mang tin với thiết bị thuộc hệ thống thông tin.
 
 ---
 
@@ -421,6 +494,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 95ECE037-AE6C-4A1F-8EC5-A2850AD01C23
 
+1. Doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự đã được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự theo quy định tại Nghị định số 73/2007/NĐ-CP ngày 08 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước mà vẫn còn thời hạn thì không phải làm lại thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự. 30 ngày trước khi giấy phép hết hạn, doanh nghiệp phải làm thủ tục xin cấp phép theo Nghị định này.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005480267060013000110
 
 **ID:** BA3DA977-C54D-4D44-B863-3460E44C3563
+
+Doanh nghiệp chưa phải nộp Giấy chứng nhận hoặc công bố hợp chuẩn, hợp quy tại khoản 3 Điều 7 khi nộp hồ sơ đề nghị cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng cho đến khi Bộ Thông tin và Truyền thông ban hành danh mục tiêu chuẩn hoặc quy chuẩn kỹ thuật quốc gia về sản phẩm an toàn thông tin mạng.
 
 ---
 
@@ -443,6 +520,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** DC9968C8-4071-4A71-A0C2-3AF7D4131A42
 
+1. Cơ quan, tổ chức, cá nhân sử dụng tài nguyên viễn thông có trách nhiệm sau đây:
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050001200
 
 **ID:** 5A05FFC9-885F-420E-A003-D56A6AF87709
+
+1. Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố, khi phát hiện sự cố hoặc nhận được thông báo, báo cáo sự cố an toàn thông tin mạng trong phạm vi mình chịu trách nhiệm phải thực hiện:
 
 ---
 
@@ -465,6 +546,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** FE03E77A-F966-43C9-94D1-4712E594430D
 
+1. Các cơ quan, tổ chức và doanh nghiệp xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của cơ quan, tổ chức và doanh nghiệp mình, trong đó:
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001200
 
 **ID:** B5B96BD0-B3FC-44B5-9EDA-5C0BC7AD940D
+
+1. Đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2:
 
 ---
 
@@ -487,6 +572,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 2584A858-8AAA-4D1D-A1FF-940DC375778E
 
+1. Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin là việc rà soát một cách tổng thể, xác minh mức độ hiệu quả của phương án bảo đảm an toàn thông tin theo từng tiêu chí, yêu cầu cơ bản cụ thể.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001200
 
 **ID:** BCE18BC6-4762-4854-A816-B97F20CFA2B0
+
+1. Xác định nguồn gốc gây xung đột thông tin trên mạng nhằm phát hiện, thu thập, đánh giá, sử dụng làm bằng chứng, chứng cứ.
 
 ---
 
@@ -509,6 +598,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** F83FDD76-13CF-4A70-BAC4-D7BC33086AFC
 
+1. Người đại diện hợp pháp phải trực tiếp tham gia chỉ đạo và có trách nhiệm trong công tác xây dựng chiến lược, kế hoạch về bảo đảm an toàn thông tin, ứng cứu các sự cố an ninh mạng xảy ra tại tổ chức.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000520000000000000000000802637200310001200
 
 **ID:** D540DF0E-0854-4FD5-B5C8-CBE3633D3998
+
+1. Quản lý và vận hành Hệ thống xử lý tấn công mạng Internet Việt Nam để thực hiện hoạt động giám sát trung tâm.
 
 ---
 
@@ -531,6 +624,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 0CA5E349-FD63-4646-9F4E-BAD537313E65
 
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016 và thay thế Nghị định số 73/2007/NĐ-CP ngày 08 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005440258700108000120
 
 **ID:** 1940C97B-CE56-41EF-9E32-2EA3404D6511
+
+1. Doanh nghiệp đang kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này cần hoàn tất hồ sơ, thủ tục để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng tối đa 06 tháng kể từ ngày Nghị định này có hiệu lực.
 
 ---
 
@@ -553,6 +650,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** B5B40B11-814B-46F3-AF6B-C1CE90A2526B
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2018.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000010000000000000000001300000000000000000
 
 **ID:** 463539D1-F2CB-44DE-BAED-A1D3F71BAD93
+
+1. Ứng cứu sự cố an toàn thông tin mạng là hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng.
 
 ---
 
@@ -575,6 +676,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 4CDA6FA6-9960-4ABE-A6C9-2318AE0A52E7
 
+Quy trình ứng cứu sự cố an toàn thông tin mạng thông thường theo các văn bản hướng dẫn, quy định của Bộ Thông tin và Truyền thông và Cơ quan điều phối quốc gia.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000014000000000000000000050261280005000170000802630800200001300
 
 **ID:** FBE50008-0375-47DD-902A-6E989DF0CF1E
+
+Kinh phí triển khai các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc thực hiện theo quy định tại Điều 17 Quyết định số 05/2017/QĐ-TTg và các văn bản hướng dẫn liên quan.
 
 ---
 
@@ -597,6 +702,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 071086F0-FA35-464B-A36D-2CF78E72F127
 
+1. Chủ đầu tư xây dựng thuyết minh đề xuất cấp độ, lồng ghép vào nội dung của báo cáo nghiên cứu khả thi, dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư của dự án, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt báo cáo nghiên cứu khả thi; dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư theo quy định của pháp luật về đầu tư và quy định Nghị định này.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501300
 
 **ID:** FE03619D-016B-4EDA-9B02-0967DC39BD94
+
+1. Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống là việc thực hiện dò quét, phát hiện lỗ hổng, điểm yếu của hệ thống, thử nghiệm tấn công xâm nhập hệ thống và đánh giá nguy cơ, thiệt hại có thể có của hệ thống thông tin khi bị đối tượng tấn công xâm nhập.
 
 ---
 
@@ -619,6 +728,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9418E7E6-0681-4AC0-B289-5168E91CE6DB
 
+Chặn lọc thông tin được các doanh nghiệp cung cấp dịch vụ viễn thông, Internet thực hiện khi có một trong các yếu tố sau:
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000060000490000000000000000000802665100180001300
 
 **ID:** 31A7E826-18AF-4D43-A6E5-656905C80A4F
+
+Tổ chức tuyển dụng và phân công nhiệm vụ như sau:
 
 ---
 
@@ -641,6 +754,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 7EF4DE61-8A06-44AF-943C-289626882DC8
 
+1. Quản lý và vận hành Hệ thống giám sát các sự cố an toàn mạng để thực hiện hoạt động giám sát trung tâm.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005440258700058000130
 
 **ID:** 82578173-5E3D-4638-9290-E88919F3228C
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
 ---
 
@@ -663,6 +780,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 7BA315E9-EF00-482B-B15A-4FAB22342249
 
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000010000000000000000001400000000000000000
 
 **ID:** 5F9EB119-A9BB-4BC9-91EC-9095308036A1
+
+1. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia là hoạt động ứng cứu sự cố trong tình huống thảm họa hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền nhằm bảo đảm an toàn thông tin mạng quốc gia.
 
 ---
 
@@ -685,6 +806,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 7E9B9A83-C909-4F6C-956A-7439E3E73413
 
+Quy trình ứng cứu khẩn cấp sự cố an toàn thông tin mạng nghiêm trọng sau đây được sử dụng chung cho cả bốn phương án ứng cứu khẩn cấp nêu trong Điều 10 Quyết định này, cụ thể bao gồm các bước sau:
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001400
 
 **ID:** 82054E83-BA5F-4D1B-9A67-9F46D22C1C2B
+
+1. Lập hồ sơ đề xuất cấp độ:
 
 ---
 
@@ -707,6 +832,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** F7F9A5B1-CDE3-4AEA-B99B-5629980B71B3
 
+1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001400
 
 **ID:** 89D91205-8672-4696-A276-82AB2F97117D
+
+1. Chủ quản hệ thống thông tin chịu trách nhiệm trong việc tổ chức khắc phục xung đột thông tin trên mạng thuộc phạm vi quản lý và chịu sự điều hành của cơ quan nghiệp vụ trong việc tổ chức khắc phục xung đột thông tin trên mạng.
 
 ---
 
@@ -729,6 +858,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 1EB68FC3-9957-45FA-B22F-5775C6B0CCD7
 
+Tổ chức quản lý nguồn nhân lực như sau:
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000520000000000000000000802637200310001400
 
 **ID:** 38818F07-A9C2-401F-85CE-E89DEDFA5D17
+
+1. Chỉ đạo thực hiện giám sát đối với các hệ thống thông tin thuộc phạm vi quản lý, phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông thực hiện giám sát theo quy định.
 
 ---
 
@@ -751,6 +884,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 8C039C61-9D64-460E-8C7E-F688EDCFE16C
 
+1. Bộ trưởng Bộ Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra việc thi hành Nghị định này.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005480263080020000140
 
 **ID:** 197E251B-DF80-46C1-9F17-B25C5110258A
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2017 và bãi bỏ Thông tư số 27/2011/TT-BTTTT ngày 04 tháng 10 năm 2011 của Bộ Thông tin và Truyền thông quy định về điều phối các hoạt động ứng cứu sự cố mạng Internet Việt Nam.
 
 ---
 
@@ -773,6 +910,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** FD8E18AB-FFE6-4691-B7C7-5271C72A2CDB
 
+Trong quá trình triển khai ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia, khi được Cơ quan thường trực yêu cầu, các cơ quan có chức năng thẩm quyền theo quy định của pháp luật thực hiện:
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000010000000000000000001500000000000000000
 
 **ID:** 375B32BC-E713-4C66-BC26-91F7FD1DF85A
+
+1. Cơ quan, tổ chức, cá nhân tham gia hoạt động an toàn thông tin mạng có trách nhiệm phối hợp với cơ quan nhà nước có thẩm quyền và tổ chức, cá nhân khác trong việc bảo đảm an toàn thông tin mạng.
 
 ---
 
@@ -795,6 +936,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C7748927-C309-4259-9320-3BEABBFE303D
 
+Hồ sơ đề xuất cấp độ bao gồm:
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501500
 
 **ID:** 5D4F059C-0A63-4DF9-A78D-B8EB25A3D288
+
+1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
 
 ---
 
@@ -817,6 +962,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 6845062D-EC0E-4C8E-B912-4CC2DE30D346
 
+1. Các cơ quan nghiệp vụ chịu trách nhiệm loại trừ xung đột thông tin trên mạng.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000060000490000000000000000000802665100180001500
 
 **ID:** 61A62157-2ED0-4928-8EA6-DF6F5E4BF22E
+
+Khi cá nhân trong tổ chức chấm dứt hoặc thay đổi công việc, tổ chức thực hiện:
 
 ---
 
@@ -839,6 +988,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 19FEACEE-DD62-43CA-8057-B02C8B66847C
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2018.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001600
 
 **ID:** EA353AE9-925D-4EEC-AE23-8B548640EFB6
+
+1. Các cơ quan, đơn vị xây dựng và thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng (sau đây gọi tắt là kế hoạch ứng phó sự cố) để đảm bảo nhân lực, vật lực, tài lực và các điều kiện cần thiết để sẵn sàng triển khai kịp thời, hiệu quả phương án ứng cứu sự cố bảo đảm an toàn thông tin mạng, cụ thể như sau:
 
 ---
 
@@ -861,6 +1014,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** BA29DBDF-F7E1-42B5-99C8-E62EE0652021
 
+1. Bảo vệ bằng tường bao, cổng ra vào hoặc có các biện pháp kiểm soát, hạn chế rủi ro xâm nhập trái phép.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000020000000000000000001600000000000000000
 
 **ID:** BC57C280-AAD7-486F-9BD0-10FB741C5E01
+
+1. Cá nhân tự bảo vệ thông tin cá nhân của mình và tuân thủ quy định của pháp luật về cung cấp thông tin cá nhân khi sử dụng dịch vụ trên mạng.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 6198A86E-8099-468B-B7B9-088D679E5D4B
 
+1. Nội dung thẩm định hồ sơ đề xuất cấp độ:
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501600
 
 **ID:** D26F94AC-D2E7-489B-A8DB-7EC758624838
+
+1. Đơn vị vận hành hệ thống thông tin có trách nhiệm phối hợp với đơn vị thẩm định hồ sơ đề xuất cấp độ trong việc xác định sự phù hợp của hồ sơ đề xuất cấp độ đối với yêu cầu hoạt động của hệ thống thông tin tương ứng.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** E342E39B-4C29-4D3F-9CD9-AEB0A562C3AD
 
+1. Nội dung thông tin, tuyên truyền, giáo dục
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001700
 
 **ID:** 9AF39845-089E-45EE-A8BA-3B565B471E4C
+
+1. Kinh phí để thực hiện các phương án, kế hoạch, hoạt động điều phối, ứng cứu, khắc phục sự cố an toàn thông tin mạng được lấy từ các nguồn: Ngân sách trung ương; ngân sách địa phương; kinh phí của doanh nghiệp và các nguồn vốn hợp pháp khác theo quy định.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** F16A828F-79B3-4B2B-810A-5B0ACF903AB1
 
+Ngoài việc bảo đảm yêu cầu tại Điều 16 Thông tư này, Trung tâm dữ liệu phải bảo đảm các yêu cầu sau:
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000020000000000000000001700000000000000000
 
 **ID:** 306C8F76-528C-4029-90D0-EE8D433ED6C1
+
+1. Tổ chức, cá nhân xử lý thông tin cá nhân có trách nhiệm sau đây:
 
 ---
 
@@ -949,6 +1118,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 07EC6E42-AC14-45F0-90A9-327764859163
 
+1. Hồ sơ phê duyệt đề xuất cấp độ bao gồm:
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000220000802616700036501700
 
 **ID:** 77848036-FD39-40EB-AF59-6D0FC01BB8D3
+
+1. Chủ quản hệ thống thông tin cấp độ 1, 2 chỉ đạo đơn vị vận hành hệ thống thông tin thực hiện chế độ báo cáo định kỳ hoặc đột xuất theo quy định tại khoản 4 Điều 22 Nghị định số 85/2016/NĐ-CP .
 
 ---
 
@@ -971,6 +1144,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9B6FE62B-ED67-431B-8D85-7C0D3E6073D1
 
+1. Hợp tác quốc tế thu thập, nghiên cứu, trao đổi thông tin, kinh nghiệm về ngăn chặn xung đột thông tin trên mạng; phối hợp đào tạo, bồi dưỡng, huấn luyện nghiệp vụ về ngăn chặn xung đột thông tin trên mạng; tổ chức hội nghị, hội thảo quốc tế về các vấn đề liên quan đến ngăn chặn xung đột thông tin trên mạng; hỗ trợ về cơ sở vật chất, kỹ thuật, công nghệ nhằm tăng cường lực lượng cho cơ quan nghiệp vụ.
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180001800
 
 **ID:** 01604FDF-3B6D-457D-B24D-02527E275DA0
+
+1.Tài sản vật lý phải được bố trí, lắp đặt tại các địa điểm an toàn và được bảo vệ để giảm thiểu những rủi ro do các đe dọa, hiểm họa từ môi trường và các xâm nhập trái phép.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 4FD10583-59CA-4C6E-A589-9157CBC86146
 
+1. Chủ thể thông tin cá nhân có quyền yêu cầu tổ chức, cá nhân xử lý thông tin cá nhân cập nhật, sửa đổi, hủy bỏ thông tin cá nhân của mình mà tổ chức, cá nhân đó đã thu thập, lưu trữ hoặc ngừng cung cấp thông tin cá nhân của mình cho bên thứ ba.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001800
 
 **ID:** 6ECCF720-8490-460A-B2C3-33B9CA9CB7C2
+
+Đối với hệ thống thông tin đã được phê duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** A07182EB-A82B-4D0E-ABEB-E361B9771260
 
+1. Chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin cấp 4, 5 và chủ quản hệ thống thông tin là cơ quan, tổ chức nhà nước có trách nhiệm tham gia chia sẻ thông tin với cơ quan quản lý nhà nước về an toàn thông tin đối với công tác bảo đảm an toàn thông tin. Các chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin còn lại tham gia chia sẻ thông tin trên tinh thần tự nguyện.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001800
 
 **ID:** 310F3512-56A1-4F72-9FE0-A5D418D72420
+
+Cơ quan nghiệp vụ và các cơ quan, tổ chức có liên quan của Việt Nam có quyền từ chối hợp tác đối với các yêu cầu hợp tác có nội dung gây phương hại đến chủ quyền, quốc phòng, an ninh quốc gia, lợi ích của Nhà nước hoặc có nội dung không phù hợp với quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C21FE47D-DB35-468E-B685-C61600F00562
 
+Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180001900
 
 **ID:** 0E5560BB-D66B-4743-B2D0-CF7BC5D956C5
+
+1. Tổ chức ban hành các quy trình vận hành đối với hệ thống thông tin từ mức độ 2 trở lên, tối thiểu bao gồm: quy trình bật, tắt hệ thống; quy trình sao lưu, phục hồi dữ liệu; quy trình vận hành ứng dụng; quy trình xử lý sự cố; quy trình giám sát và ghi nhật ký hoạt động của hệ thống. Trong đó phải xác định rõ phạm vi, trách nhiệm của người sử dụng, vận hành hệ thống. Định kỳ tối thiểu mỗi năm một lần, tổ chức thực hiện rà soát, cập nhật, bổ sung các quy trình vận hành hệ thống thông tin để phù hợp thực tế.
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C9B766CF-EEC4-4860-A931-C990F537EDD6
 
+1. Tổ chức, cá nhân xử lý thông tin cá nhân phải áp dụng biện pháp quản lý, kỹ thuật phù hợp để bảo vệ thông tin cá nhân do mình thu thập, lưu trữ; tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn thông tin mạng.
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850001900
 
 **ID:** 4587C011-6137-43D5-AEDC-116340989BF8
+
+1. Phương án bảo đảm an toàn hệ thống thông tin phải đáp ứng yêu cầu cơ bản trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn hệ thống thông tin theo cấp độ.
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** DFF2E264-5E1E-4CD0-AA75-5C8AD07D348B
 
+1. Chính phủ thống nhất quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng.
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005450261280005000190
 
 **ID:** DDB3F98B-1762-4B21-932F-C9F93880A02F
+
+Bộ, cơ quan ngang bộ, cơ quan trung ương, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức liên quan triển khai thực hiện Quyết định này.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 0C6E03E8-190B-46D9-9F2D-EA117F763E6B
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2017.
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000200000000000000000
 
 **ID:** E9B77F20-099E-406B-8C7E-E68419B6A94B
+
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động an toàn thông tin mạng tại Việt Nam.
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9A2EF038-E8F8-4758-85A1-53D216184917
 
+1. Doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự; xuất khẩu, nhập khẩu sản phẩm mật mã dân sự và các tổ chức, cá nhân khác có liên quan.
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000240258700085000020
 
 **ID:** ED54DF26-F265-4BAA-9956-7A5A942B1DB3
+
+Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động xây dựng, thiết lập, quản lý, vận hành, nâng cấp, mở rộng hệ thống thông tin tại Việt Nam phục vụ ứng dụng công nghệ thông tin trong hoạt động của cơ quan, tổ chức nhà nước, ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ trực tuyến phục vụ người dân và doanh nghiệp.
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** D759817B-50A0-4B6B-A741-882A27A49ACE
 
+Nghị định này áp dụng đối với tổ chức, doanh nghiệp trực tiếp tham gia hoặc có liên quan đến hoạt động sản xuất, nhập khẩu sản phẩm an toàn thông tin mạng và cung cấp dịch vụ an toàn thông tin mạng tại Việt Nam.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000240259750142000020
 
 **ID:** 076F4A06-4199-443E-BBFB-47C2B82B6B6F
+
+1. Cơ quan, tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài và tổ chức quốc tế tại Việt Nam tham gia hoặc có liên quan đến xung đột thông tin trên mạng.
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 16BBE00D-A882-4333-965B-544C04CC67F1
 
+Quyết định này áp dụng đối với các cơ quan, tổ chức, doanh nghiệp, cá nhân trực tiếp tham gia hoặc có liên quan đến hoạt động ứng cứu sự cố bảo đảm an toàn thông tin mạng tại Việt Nam.
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000280256310166000020
 
 **ID:** 281FBCC1-DE84-4725-8B40-EA7EF6C12EC0
+
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 57675DDA-E17F-4C34-9EF2-A2741D47519F
 
+Đối tượng áp dụng Thông tư này được thực hiện theo quy định tại Điều 2 Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ (sau đây gọi tắt là Nghị định 85/2016/NĐ-CP).
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000280263720031000020
 
 **ID:** 62F3FB94-FBA8-4C57-94A5-195FEFAB7BEE
+
+Thông tư này áp dụng đối với cơ quan, tổ chức, doanh nghiệp, cá nhân trực tiếp tham gia hoặc có liên quan đến hoạt động giám sát trên toàn quốc.
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 5801678B-534C-415F-AA79-234992F2196D
 
+Thông tư này áp dụng đối với các doanh nghiệp đã được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng thực hiện hoạt động nhập khẩu sản phẩm an toàn thông tin mạng thuộc Danh mục.
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000280267640121000020
 
 **ID:** AD4BA0D2-F396-4F79-AB7C-DE188CD114B7
+
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 71DF47E3-D6A2-4BE4-AB1F-8D901D5D2A52
 
+1. Sự cố an toàn thông tin mạng là việc thông tin, hệ thống thông tin bị tấn công hoặc gây nguy hại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng (sau đây gọi tắt là sự cố).
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000380266510018000020
 
 **ID:** 10575680-DEB0-4B26-984D-B4B996333A4F
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9799732B-C07E-47CB-A5D3-A874FFF240BD
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000200000000000000000
 
 **ID:** 011B77BB-8D0F-496D-965A-5C3DF8447F94
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 15CD1A3D-2427-4DC8-BA95-D7EA80545EC7
 
+Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2022.
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002000
 
 **ID:** 47C6575F-3856-405A-9AE5-C451A4AC93C3
+
+1. Tổ chức xây dựng tiêu chuẩn, định mức, yêu cầu kỹ thuật để bảo đảm hoạt động bình thường đối với tất cả các hệ thống thông tin hiện có và các hệ thống thông tin khác trước khi đưa vào áp dụng chính thức.
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 65C06585-7DEB-4578-A200-33AD9373F5AF
 
+1. Thiết lập kênh thông tin trực tuyến để tiếp nhận kiến nghị, phản ánh của tổ chức, cá nhân liên quan đến bảo đảm an toàn thông tin cá nhân trên mạng.
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000250000000000000000000402587000850002000
 
 **ID:** FED7B804-EDDE-4B12-BFF2-3EE799702D68
+
+1. Người đứng đầu của cơ quan, tổ chức là chủ quản hệ thống thông tin có trách nhiệm:
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 1EB2D093-CFFC-4FAD-B464-EA175C50766F
 
+1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ chủ quyền quốc gia trên không gian mạng theo chức năng, nhiệm vụ của Bộ Quốc Phòng.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002100
 
 **ID:** 3273488B-FF56-485B-8ABA-16535E1FF7D2
+
+Tổ chức thực hiện sao lưu dự phòng bảo đảm an toàn dữ liệu như sau:
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** BE572F3F-A114-4D3F-B2F4-F0F2BD4E6BD1
 
+1. Phân loại cấp độ an toàn hệ thống thông tin là việc xác định cấp độ an toàn thông tin của hệ thống thông tin theo cấp độ tăng dần từ 1 đến 5 để áp dụng biện pháp quản lý và kỹ thuật nhằm bảo vệ hệ thống thông tin phù hợp theo cấp độ.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850002100
 
 **ID:** 692807CC-E27E-4D41-94DE-3009846075C6
+
+1. Tham mưu, tổ chức thực thi, đôn đốc, kiểm tra, giám sát công tác bảo đảm an toàn thông tin.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 261B3343-8924-4FBF-894C-F10048C911C7
 
+1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002200
 
 **ID:** 1D91B8CC-0F65-4DEF-8653-B7CF67F7553C
+
+Tổ chức thực hiện quản lý an toàn, bảo mật hệ thống mạng như sau:
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 45E4E295-F7A9-4878-BB29-6E5C396A0FDA
 
+1. Xác định cấp độ an toàn thông tin của hệ thống thông tin.
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850002200
 
 **ID:** E5DB47FC-4235-4489-9CD1-0AB2A7D7D0C8
+
+Đơn vị vận hành hệ thống thông tin có trách nhiệm:
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** D0156AAA-993F-48B3-9190-5DEA1EC43081
 
+1. Chủ trì, phối hợp với các bộ, ngành, địa phương, doanh nghiệp, tổ chức triển khai các biện pháp bảo đảm an toàn thông tin; tổ chức kiểm tra đánh giá tình hình mất an toàn thông tin; thực hiện cảnh báo, điều phối ứng cứu và khắc phục sự cố mạng.
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002300
 
 **ID:** 21911E60-9AE5-44D0-BA95-AAD9AA75E08E
+
+Trách nhiệm của tổ chức trong việc trao đổi thông tin với khách hàng và bên thứ ba:
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CEB6F238-FEEF-42D0-BE0B-1AFC2ACA089A
 
+1. Ban hành quy định về bảo đảm an toàn thông tin mạng trong thiết kế, xây dựng, quản lý, vận hành, sử dụng, nâng cấp, hủy bỏ hệ thống thông tin.
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850002300
 
 **ID:** 5FC93738-A9F3-41F9-9B02-2313F13B1085
+
+1. Bộ Thông tin và Truyền thông có trách nhiệm:
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 434BF966-0B34-48FA-9FEA-65195A6BAAAB
 
+Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông tổ chức triển khai giải pháp bảo vệ cho hệ thống thông tin trong các cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài; phối hợp thực hiện công tác đối ngoại liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002400
 
 **ID:** 28C0E0D5-D106-46F6-AAB1-9B5947B2AA04
+
+1. Yêu cầu đối với hệ thống thông tin của tổ chức thực hiện cung cấp dịch vụ giao dịch trực tuyến cho khách hàng:
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 192759C1-5104-4DC4-9B30-E4144C85175E
 
+1. Giám sát an toàn hệ thống thông tin là hoạt động lựa chọn đối tượng giám sát, thu thập, phân tích trạng thái thông tin của đối tượng giám sát nhằm xác định những nhân tố ảnh hưởng đến an toàn hệ thống thông tin; báo cáo, cảnh báo hành vi xâm phạm an toàn thông tin mạng hoặc hành vi có khả năng gây ra sự cố an toàn thông tin mạng đối với hệ thống thông tin; tiến hành phân tích yếu tố then chốt ảnh hưởng tới trạng thái an toàn thông tin mạng; đề xuất thay đổi biện pháp kỹ thuật.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002400
 
 **ID:** A3AC82D2-063E-4932-840E-4C12668851B7
+
+1. Tham mưu cho Chính phủ xác định các nhiệm vụ khoa học và công nghệ liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 4BE71EEF-2DD0-4708-BA51-9AA773BB2A83
 
+1. Kinh phí thực hiện yêu cầu về an toàn thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức nhà nước do ngân sách nhà nước bảo đảm.
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002500
 
 **ID:** D91D2754-4206-45D7-8BB7-CD7D50F94726
+
+Tổ chức thực hiện giám sát và ghi nhật ký hoạt động của hệ thống thông tin như sau:
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** EE99CC54-4579-4706-92E4-8C464D2AD6C6
 
+1. Chủ quản hệ thống thông tin có trách nhiệm thực hiện bảo vệ hệ thống thông tin theo quy định tại các điều 22, 23 và 24 của Luật này.
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002500
 
 **ID:** 6DE8CFBA-20A5-4D15-A4BF-165477F9AF77
+
+Bảo đảm kinh phí cho hoạt động ngăn chặn xung đột thông tin trên mạng theo quy định của pháp luật về ngân sách nhà nước.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 5E955F05-14C9-4C65-9F55-72429A7C3018
 
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002600
 
 **ID:** 1B29B1D5-BF23-4B20-973D-E0F68D8042FF
+
+Tổ chức xây dựng và thực hiện quy định về phòng chống mã độc như sau:
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CD351BB1-EC3E-4A88-B7A7-DEFE058538D5
 
+1. Khi thiết lập, mở rộng và nâng cấp hệ thống thông tin quan trọng quốc gia phải thực hiện kiểm định an toàn thông tin trước khi đưa vào vận hành, khai thác.
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002600
 
 **ID:** 87974B70-B8DB-479F-ACB4-8C5CAE0414E6
+
+1. Giao nhiệm vụ cho cơ quan tham mưu quản lý nhà nước về công nghệ thông tin, an toàn thông tin mạng thực hiện ngăn chặn xung đột thông tin trên mạng bao gồm giám sát, phát hiện, cảnh báo, xác định nguồn gốc và khắc phục xung đột thông tin trên mạng.
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** A14A0783-BE5D-4CB5-924B-DC66BDE428E9
 
+1. Bộ Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị định này.
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002700
 
 **ID:** E8CD3EEF-C5D8-4421-931F-AE6B2DEA37DB
+
+1. Tổ chức quy định về quản lý truy cập đối với người sử dụng, nhóm người sử dụng, các thiết bị, công cụ sử dụng để truy cập hệ thống thông tin bảo đảm đáp ứng yêu cầu nghiệp vụ và yêu cầu an toàn thông tin, bao gồm các nội dung cơ bản sau:
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CCDC112C-5291-475F-878B-3940AEFC29DB
 
+1. Chủ quản hệ thống thông tin quan trọng quốc gia có trách nhiệm sau đây:
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002700
 
 **ID:** 76EC524F-485D-484F-A906-47E14FACEC5F
+
+1. Chủ quản hệ thống thông tin phải thực hiện các biện pháp bảo vệ hệ thống thông tin và ngăn chặn xung đột xung thông tin trên mạng thuộc quyền quản lý; phối hợp chặt chẽ với cơ quan nghiệp vụ để triển khai các biện pháp ngăn chặn xung đột thông tin trên mạng.
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** B01CBC3B-0570-4185-8816-03BB8F116DD6
 
+Tổ chức xây dựng và triển khai các chính sách quản lý truy cập mạng nội bộ đáp ứng các yêu cầu sau:
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000020000040000000000000000002800000000000000000
 
 **ID:** C43CEA76-133C-43E4-A8DA-A5CBDE9D8971
+
+1. Tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây:
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C701232A-3A29-4EDA-96AF-BA032CC823E3
 
+1. Cung cấp đầy đủ thông tin, phối hợp xác định và ngăn chặn các nguồn thông tin gây xung đột trên mạng theo yêu cầu của các cơ quan nghiệp vụ.
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002900
 
 **ID:** 8BC2625D-5826-4EB5-9DDF-2293A5DA8731
+
+Tổ chức xây dựng và triển khai việc quản lý truy cập đáp ứng yêu cầu sau:
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 69B3AE21-A762-4F5B-B0D5-1A2AE0370946
 
+1. Các biện pháp ngăn chặn hoạt động sử dụng mạng để khủng bố gồm:
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005440259750142000290
 
 **ID:** 921F5ED2-1643-4A3D-923E-891FE6D9E4EA
+
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2016.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 197EB9FF-4361-4D18-9604-D615FDBA1492
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000340258700085000030
 
 **ID:** 5B675861-DAD2-453A-A028-26AC20228FA3
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** BCE1595F-DD58-4F84-9BE2-23B4BB1AAAF0
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000380261670003650030
 
 **ID:** D0D05978-F786-4E13-8313-15DA2AE81F22
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** AF7BD9E2-FB9E-492E-A185-4320787BE209
 
+1. Tổ chức có trách nhiệm bảo đảm an toàn thông tin theo nguyên tắc xác định rõ quyền hạn, trách nhiệm từng bộ phận và cá nhân trong tổ chức.
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000300
 
 **ID:** DD02174C-CA3D-4D78-BA4C-B30C091BAFE4
+
+1. Ban Chỉ đạo an toàn thông tin quốc gia đảm nhiệm chức năng Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng (sau đây gọi là Ban Chỉ đạo quốc gia).
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 51F4533D-0706-4B92-BFB9-0AE921C11684
 
+Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc là các cơ quan, tổ chức, đơn vị thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng quốc gia được quy định tại Quyết định số 05/2017/QĐ-TTg. Các cơ quan, tổ chức tham gia hoạt động điều phối, ứng cứu sự cố trên toàn quốc gồm:
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000
 
 **ID:** 2094515D-9B34-4F62-8086-B1ACA4DBC87A
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 8F2665AC-445F-4044-9A47-DB9F4DF74C05
 
+1. Đảm bảo được thực hiện thường xuyên, liên tục.
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000030000300000000000000000000402587000580000300
 
 **ID:** 02A1AD36-AD54-4C34-8734-42922A0EBEDC
+
+Ban hành Danh Mục sản phẩm, dịch vụ mật mã dân sự tại Phụ lục I và Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép tại Phụ lục II kèm theo Nghị định này.
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** D37446EA-CDB2-4F9B-ABCA-36F0312F4717
 
+1. Sản phẩm an toàn thông tin mạng gồm:
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000300
 
 **ID:** 41427AA1-F6DF-4235-8F93-0A0FC51C605F
+
+1. Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép được quy định tại Phụ lục I của Thông tư này.
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** EDEAED63-2F69-4DA5-A63D-974A61A0ED97
 
+1. Ngân sách nhà nước, gồm ngân sách trung ương và ngân sách địa phương theo phân cấp ngân sách hiện hành.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000007000051000000000000000000040258700085000240000802676401210000300
 
 **ID:** 27043CCB-197B-4DA4-AED6-90FDA7EDD1BD
+
+1. Ngân sách nhà nước.
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 344CF7CE-5B0D-4288-A95F-D015A6C51151
 
+Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp cho doanh nghiệp tiếp tục có hiệu lực theo thời hạn ghi trên Giấy phép đối với sản phẩm mật mã dân sự mà tên gọi phù hợp với Danh Mục hàng hóa xuất khẩu, nhập khẩu Việt Nam. Cơ quan Hải quan căn cứ vào Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp và thực tế hàng hóa xuất khẩu, nhập khẩu để xác định mã số HS và giải quyết thủ tục thông quan cho doanh nghiệp.
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005480279730023000030
 
 **ID:** 062FC269-1A4B-4590-BB9C-D3DD6C2CF46B
+
+Trưởng ban Ban Cơ yếu Chính phủ, Thủ trưởng các cơ quan, đơn vị và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 1FB8133D-B9EC-4831-8824-8BA842E0A001
 
+Tổ chức quy định và triển khai việc quản lý kết nối Internet đáp ứng yêu cầu sau:
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000300003000000000000000000
 
 **ID:** E0A916FE-0B1A-4D58-B806-8BC8FF3EEE78
+
+1. Sản phẩm mật mã dân sự là các tài liệu, trang thiết bị kỹ thuật và nghiệp vụ mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 41C70710-84BE-4B36-ACE5-EBAFBA6DDBE2
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, cơ quan, tổ chức và cá nhân Việt Nam; tổ chức, cá nhân nước ngoài và tổ chức quốc tế tại Việt Nam; doanh nghiệp cung cấp dịch vụ viễn thông, Internet có liên quan chịu trách nhiệm thi hành Nghị định này.
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000300003100000000000000000
 
 **ID:** C0D803EF-0559-4F7D-9364-5A183A2469A4
+
+1. Doanh nghiệp phải có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi kinh doanh sản phẩm, dịch vụ mật mã dân sự thuộc Danh mục sản phẩm, dịch vụ mật mã dân sự.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CFD446DC-2819-4CF3-AC5F-F167045F25ED
 
+Khi sử dụng dịch vụ công nghệ thông tin của bên thứ ba, tổ chức bảo đảm các nguyên tắc sau đây:
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000300003200000000000000000
 
 **ID:** 4FCCF5AB-AB5B-4AF9-A0B6-02DCCDA26E97
+
+1. Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự nộp hồ sơ đề nghị cấp Giấy phép tại Ban Cơ yếu Chính phủ.
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CBDAA8D3-E662-49B8-9626-CB5B2896447D
 
+Trước khi sử dụng dịch vụ của bên thứ ba, tổ chức thực hiện:
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000300003300000000000000000
 
 **ID:** 63427EBE-72B1-4B4A-A905-0F37F3DBA136
+
+1. Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ mật mã dân sự.
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 01A33F22-ECAB-4196-8154-CB7607544B24
 
+Tiêu chí lựa chọn bên thứ ba bao gồm các nội dung tối thiểu sau:
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000300003400000000000000000
 
 **ID:** 34ABAA79-4943-4EE0-A3D5-6D06280EEFAC
+
+1. Khi xuất khẩu, nhập khẩu sản phẩm mật mã dân sự thuộc Danh mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép, doanh nghiệp phải có Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự do cơ quan nhà nước có thẩm quyền cấp.
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 7476C0B5-F0A7-4112-9ED5-AC0764C3B56D
 
+Hợp đồng sử dụng dịch vụ ký kết với bên thứ ba phải có tối thiểu những nội dung sau:
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000300003500000000000000000
 
 **ID:** DCAC2694-60BA-4227-A221-BB51F159FD27
+
+1. Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ của sản phẩm.
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 34A2ADB2-E86A-4E9D-9285-1F8789616853
 
+1. Cung cấp, thông báo và yêu cầu bên thứ ba thực hiện các quy định về an toàn thông tin của tổ chức.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003600
 
 **ID:** 106E2413-6A56-4901-8305-64633911CBDC
+
+Khi xây dựng mới hoặc nâng cấp hệ thống thông tin do tổ chức quản lý trực tiếp, tổ chức phải thực hiện phân loại hệ thống thông tin theo mức độ quan trọng quy định tại khoản 2 Điều 4 Thông tư này. Đối với hệ thống thông tin từ mức độ 2 trở lên, tổ chức thực hiện:
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 1B147CEC-B717-4BD6-8EBE-35B210CE6854
 
+1. Tuân thủ các quy định đã cam kết với doanh nghiệp cung cấp sản phẩm mật mã dân sự về quản lý sử dụng khóa mã, chuyển nhượng, sửa chữa, bảo dưỡng, bỏ, tiêu hủy sản phẩm mật mã dân sự và các nội dung khác có liên quan.
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003700
 
 **ID:** A9580211-91C7-49B5-A215-B1284291D769
+
+Các chương trình ứng dụng nghiệp vụ phải đáp ứng các yêu cầu tối thiểu sau:
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 37F61E6F-C672-45A4-A550-E68170921A39
 
+1. Tiêu chuẩn an toàn thông tin mạng gồm tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng được công bố, thừa nhận áp dụng tại Việt Nam.
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003800
 
 **ID:** 5A080EAB-B161-4FA7-8259-71F26CB39B3F
+
+Tổ chức quản lý mã hóa như sau:
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 648C3396-1E85-4748-B27B-00F065E312B9
 
+1. Chứng nhận hợp quy về an toàn thông tin mạng là việc tổ chức chứng nhận sự phù hợp chứng nhận hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng phù hợp với quy chuẩn kỹ thuật an toàn thông tin mạng.
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003900
 
 **ID:** BB77502A-0811-441C-B0FE-C15CD7F552C9
+
+1. Tổ chức thực hiện quản lý quá trình phát triển phần mềm như sau:
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 2BAD7001-AAC2-4E40-A658-434C2A03A58C
 
+1. Việc đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng được thực hiện trong các trường hợp sau đây:
+
 ---
 
 
@@ -2103,6 +2482,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000400000000000000000
 
 **ID:** 4019406D-506D-48B6-A4BD-DF7369362C84
+
+1. Cơ quan, tổ chức, cá nhân có trách nhiệm bảo đảm an toàn thông tin mạng. Hoạt động an toàn thông tin mạng của cơ quan, tổ chức, cá nhân phải đúng quy định của pháp luật, bảo đảm quốc phòng, an ninh quốc gia, bí mật nhà nước, giữ vững ổn định chính trị, trật tự, an toàn xã hội và thúc đẩy phát triển kinh tế - xã hội.
 
 ---
 
@@ -2115,6 +2496,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 54D87387-288F-447B-9A44-033661AA1F64
 
+1. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức được thực hiện thường xuyên, liên tục từ khâu thiết kế, xây dựng, vận hành đến khi hủy bỏ; tuân thủ theo tiêu chuẩn, quy chuẩn kỹ thuật.
+
 ---
 
 
@@ -2125,6 +2508,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200000400
 
 **ID:** DE72CA79-7318-411E-9522-74A702330AD8
+
+1. Tuân thủ các quy định pháp luật về điều phối, ứng cứu sự cố an toàn thông tin mạng.
 
 ---
 
@@ -2137,6 +2522,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C0C252B1-304D-43D9-A396-AB1E05F77E69
 
+1. Bộ Thông tin và Truyền thông là cơ quan thường trực, giúp việc cho Ban Chỉ đạo quốc gia (sau đây gọi là Cơ quan thường trực) có nhiệm vụ, quyền hạn cụ thể sau:
+
 ---
 
 
@@ -2147,6 +2534,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500400
 
 **ID:** 1741AB8F-46C6-491A-B456-A6586EC7404E
+
+1. Việc xác định hệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc quy định tại khoản 1 Điều 5 Nghị định 85/2016/NĐ-CP.
 
 ---
 
@@ -2159,6 +2548,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 196BBA41-EA32-4548-A3CF-6500FF9386C0
 
+1. Thông tin xử lý, lưu trữ thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
+
 ---
 
 
@@ -2169,6 +2560,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000400
 
 **ID:** 014E9F02-6A3D-41F2-9C91-8BFE5AF70664
+
+1. Giám sát được thực hiện qua phương thức giám sát trực tiếp hoặc phương thức giám sát gián tiếp. Chủ quản hệ thống thông tin có thể trực tiếp triển khai hoặc thuê dịch vụ giám sát. Trong trường hợp cần thiết, căn cứ vào năng lực, tình hình và nguồn lực thực tế chủ quản hệ thống thông tin đề nghị các đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông hỗ trợ giám sát phù hợp với nguồn lực thực tế.
 
 ---
 
@@ -2181,6 +2574,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** D610EB79-37BA-4C2F-9627-A31EA4068ACB
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2191,6 +2586,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000400
 
 **ID:** 0A8EEFBF-0A00-4910-B608-928295C77AB8
+
+1. Bảo đảm đúng điều kiện, trình tự, thủ tục, hình thức, thẩm quyền theo quy định của pháp luật và phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -2203,6 +2600,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** AA2EB452-BF76-4C83-B543-3A5E89BD1863
 
+1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các Điều kiện quy định tại Khoản 2 Điều 31 Luật an toàn thông tin mạng.
+
 ---
 
 
@@ -2213,6 +2612,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000005000001000000000000000000410000000000000000000402587001080000400
 
 **ID:** 84525E59-4161-4B34-9AD9-C390B49CD790
+
+1. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép bao gồm:
 
 ---
 
@@ -2225,6 +2626,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 29B881AC-0562-4F7F-B89D-D7AA10B51D9B
 
+Thời hạn hiệu lực của Giấy phép nhập khẩu là 02 (hai) năm hoặc bằng thời hạn hiệu lực của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng của doanh nghiệp trong trường hợp thời hạn hiệu lực của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng còn ít hơn 02 (hai) năm.
+
 ---
 
 
@@ -2235,6 +2638,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000400
 
 **ID:** 386098B0-0C78-4AAA-A075-AE221AA6ED38
+
+1. Cán bộ, công chức, viên chức làm về ATANTT trong các đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
 
 ---
 
@@ -2247,6 +2652,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** FC70BA65-4567-4B55-A8CB-E938B13C4966
 
+1. Đối với kinh phí ngân sách nhà nước:
+
 ---
 
 
@@ -2257,6 +2664,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005440258700058000150
 
 **ID:** 15A078BB-FDC6-479A-ADF1-8D2392785042
+
+Nghị định này có hiệu lực thi hành từ ngày 16 tháng 4 năm 2018.
 
 ---
 
@@ -2269,6 +2678,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 2F7BDA03-6608-4FD0-A9BB-9B789F9C531C
 
+Tổ chức ban hành quy trình, biện pháp quản lý và kiểm soát sự thay đổi hệ thống thông tin, tối thiểu bao gồm:
+
 ---
 
 
@@ -2279,6 +2690,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004000000000000000000
 
 **ID:** 13764538-7A79-4EB9-AB43-4E48BFF515EF
+
+1. Kinh doanh trong lĩnh vực an toàn thông tin mạng là ngành, nghề kinh doanh có điều kiện. Kinh doanh trong lĩnh vực an toàn thông tin mạng gồm kinh doanh sản phẩm an toàn thông tin mạng và kinh doanh dịch vụ an toàn thông tin mạng.
 
 ---
 
@@ -2291,6 +2704,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 8BE38795-0439-4BEB-9C60-8BD70663359F
 
+1. Nội dung đánh giá hệ thống thông tin của tổ chức về an ninh bảo mật phải bao gồm các nội dung sau:
+
 ---
 
 
@@ -2301,6 +2716,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004100000000000000000
 
 **ID:** 99608591-8137-4D82-BFBA-75ADF07B0599
+
+1. Dịch vụ an toàn thông tin mạng gồm:
 
 ---
 
@@ -2313,6 +2730,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 48F9FD29-FFD4-42E4-A8D8-1754BA2E3D0F
 
+Tổ chức quản lý các điểm yếu về mặt kỹ thuật như sau:
+
 ---
 
 
@@ -2323,6 +2742,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004200000000000000000
 
 **ID:** 58008C4D-A33D-487A-8F70-6E9D82345CCA
+
+1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ sản phẩm, dịch vụ quy định tại các điểm a, b, c, d khoản 1 và điểm a khoản 2 Điều 41 của Luật này, khi đáp ứng đủ các điều kiện sau đây:
 
 ---
 
@@ -2335,6 +2756,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** D2972D1B-8B0C-409A-8B26-30D4FCCF4C02
 
+Tổ chức quản lý bảo trì hệ thống thông tin như sau:
+
 ---
 
 
@@ -2345,6 +2768,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004300000000000000000
 
 **ID:** 7CB239F5-ECA5-4BE4-A326-74C10008535B
+
+1. Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng nộp hồ sơ đề nghị cấp Giấy phép tại Bộ Thông tin và Truyền thông.
 
 ---
 
@@ -2357,6 +2782,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 954ECCA4-A8FE-4FB6-B313-47D1A9825981
 
+Tổ chức quản lý sự cố như sau:
+
 ---
 
 
@@ -2367,6 +2794,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004400000000000000000
 
 **ID:** C93DFF2C-7FCE-4779-9BC7-9B7C9F65652A
+
+1. Trong thời hạn 40 ngày kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với bộ, ngành có liên quan thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ kinh doanh sản phẩm, dịch vụ quy định tại điểm c, điểm d khoản 1 và điểm a khoản 2 Điều 41 của Luật này; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
 
 ---
 
@@ -2379,6 +2808,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CB572135-B91D-49C8-A18B-7F41F5BDD00F
 
+Tổ chức kiểm soát và khắc phục sự cố như sau:
+
 ---
 
 
@@ -2389,6 +2820,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004500000000000000000
 
 **ID:** 9F416B9D-32D9-49C0-81DD-E147AC4A7F4E
+
+1. Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ an toàn thông tin mạng mà mình cung cấp.
 
 ---
 
@@ -2401,6 +2834,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 789B0373-341D-4F78-8518-62FA6903AA0C
 
+Trung tâm điều hành an ninh mạng thực hiện các nhiệm vụ sau:
+
 ---
 
 
@@ -2411,6 +2846,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000010000000000000000004600000000000000000
 
 **ID:** A4BE5996-374F-4B3A-9D18-5ABE19CF6470
+
+1. Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ của sản phẩm.
 
 ---
 
@@ -2423,6 +2860,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 3557BAA1-E1F4-4A36-A1D8-0D98E7EA37F6
 
+1. Mạng lưới ứng cứu sự cố an ninh mạng trong ngành Ngân hàng (Mạng lưới) có nhiệm vụ phối hợp các nguồn lực trong và ngoài ngành ứng phó hiệu quả sự cố an ninh mạng, góp phần bảo đảm hệ thống ngân hàng hoạt động an toàn.
+
 ---
 
 
@@ -2433,6 +2872,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000020000000000000000004700000000000000000
 
 **ID:** 1B920655-7C01-4AE1-930D-CA9BF0028251
+
+1. Việc quản lý nhập khẩu đối với sản phẩm an toàn thông tin mạng được thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -2445,6 +2886,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 5BE79BF2-18DA-4C69-B8A0-B19E951B20EA
 
+1. Tổ chức thực hiện các yêu cầu tối thiểu sau:
+
 ---
 
 
@@ -2455,6 +2898,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000050000020000000000000000004800000000000000000
 
 **ID:** 78C63AA2-6395-4B70-8031-586C91842087
+
+1. Khi nhập khẩu sản phẩm an toàn thông tin mạng thuộc Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép do Chính phủ quy định, doanh nghiệp phải có Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng do cơ quan nhà nước có thẩm quyền cấp.
 
 ---
 
@@ -2467,6 +2912,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 409DD6D1-ED19-4572-A553-29A6B823E76A
 
+1. Tổ chức xây dựng hệ thống dự phòng thảm họa đáp ứng các yêu cầu sau:
+
 ---
 
 
@@ -2477,6 +2924,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000600004900000000000000000
 
 **ID:** 44DA932A-270D-4C44-91E8-6CF89A054471
+
+1. Chủ quản hệ thống thông tin có trách nhiệm đào tạo và bồi dưỡng kiến thức, nghiệp vụ cho cán bộ quản lý, kỹ thuật về an toàn thông tin mạng.
 
 ---
 
@@ -2489,6 +2938,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** DB238D9A-FCC0-4B41-A6C4-366F0FE66B86
 
+1. Việc xác định hệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc như sau:
+
 ---
 
 
@@ -2499,6 +2950,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000500000000000000000
 
 **ID:** 144EA3DA-A165-4CB2-9F43-534DE41B4ABA
+
+1. Đẩy mạnh đào tạo, phát triển nguồn nhân lực và xây dựng cơ sở hạ tầng, kỹ thuật an toàn thông tin mạng đáp ứng yêu cầu ổn định chính trị, phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội.
 
 ---
 
@@ -2511,6 +2964,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 352C2089-CBA9-410F-BD07-5C168A72A824
 
+1. Mạng lưới ứng cứu sự cố hoạt động trên toàn quốc, gồm thành viên là các đơn vị chuyên trách về ứng cứu sự cố và các cơ quan, tổ chức, doanh nghiệp liên quan được quy định chi tiết tại Điều 7 Quyết định số 05/2017/QĐ-TTg.
+
 ---
 
 
@@ -2521,6 +2976,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000500
 
 **ID:** D6009B82-5378-4ACB-A206-BA8BA022D23D
+
+1. Ban Chỉ đạo ứng dụng công nghệ thông tin của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương đảm nhiệm chức năng Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng trong phạm vi địa bàn, lĩnh vực mình phụ trách (sau đây gọi là Ban Chỉ đạo cấp bộ, tỉnh).
 
 ---
 
@@ -2533,6 +2990,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 45DBEBF9-0918-4932-938C-B2EB97787072
 
+1. Đối với cơ quan, tổ chức nhà nước, chủ quản hệ thống thông tin là một trong các trường hợp sau:
+
 ---
 
 
@@ -2543,6 +3002,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000230000000000000000000802665100180000500
 
 **ID:** F519F480-DA60-41C2-A5BF-1B7DE00D2669
+
+1. Tổ chức xây dựng quy chế an toàn thông tin phù hợp với hệ thống thông tin, cơ cấu tổ chức, yêu cầu quản lý và hoạt động của tổ chức. Quy chế an toàn thông tin phải được người đại diện hợp pháp ký ban hành và triển khai thực hiện trong toàn tổ chức.
 
 ---
 
@@ -2555,6 +3016,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 424508AB-B038-47C2-BE08-109804E0714C
 
+Chủ quản hệ thống thông tin có trách nhiệm chủ động thực hiện giám sát theo quy định hiện hành. Đối với hệ thống thông tin cấp độ 3 trở lên, hoạt động giám sát của chủ quản hệ thống thông tin cần đáp ứng các yêu cầu tối thiểu sau đây:
+
 ---
 
 
@@ -2565,6 +3028,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000500
 
 **ID:** 0EADA21A-48AC-437E-9ACE-A371FD29A864
+
+1. Kinh phí đảm bảo cho nhiệm vụ ngăn chặn xung đột thông tin trên mạng do ngân sách nhà nước đảm bảo và được bố trí trong dự toán ngân sách nhà nước hàng năm giao cho Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông.
 
 ---
 
@@ -2577,6 +3042,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 93972728-8C71-4059-A0AE-EBDBDEEADBAA
 
+1. Cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự thực hiện theo quy định tại Điều 32, Điều 33 Luật an toàn thông tin mạng.
+
 ---
 
 
@@ -2587,6 +3054,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000500
 
 **ID:** 8E1451B5-11A4-4B27-9DD9-9F329BE01595
+
+Doanh nghiệp nhập khẩu sản phẩm an toàn thông tin mạng có nghĩa vụ nộp lệ phí cấp, cấp lại Giấy phép nhập khẩu theo quy định tại Thông tư số 269/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí và lệ phí thuộc lĩnh vực an toàn thông tin.
 
 ---
 
@@ -2599,6 +3068,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 0C0CA406-D31A-4A81-BD1A-2CD9EA51B162
 
+1. Bộ Thông tin và Truyền thông cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.
+
 ---
 
 
@@ -2609,6 +3080,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000500
 
 **ID:** 7FE3FFA3-7FFD-4957-8DEC-8AC571B5730A
+
+Nội dung chi, mức chi các hoạt động triển khai dự án Đào tạo ngắn hạn về ATANTT thuộc Đề án 99 thực hiện theo quy định tại Thông tư số 139/2010/TT-BTC ngày 21/9/2010 của Bộ Tài chính quy định việc lập dự toán, quản lý và sử dụng kinh phí từ ngân sách nhà nước dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức. Ngoài ra, Thông tư này hướng dẫn thêm một số nội dung chi, mức chi như sau:
 
 ---
 
@@ -2621,6 +3094,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 410EEB45-6809-4FD9-BC03-D30612171BB4
 
+Nội dung chi của ngân sách trung ương, ngân sách địa phương, doanh nghiệp theo quy định tại khoản 2 Điều 17 Quyết định số 05/2017/QĐ-TTg; khoản 1 và khoản 3 Điều 24 Nghị định số 85/2016/NĐ-CP.
+
 ---
 
 
@@ -2631,6 +3106,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005440258700058000160
 
 **ID:** 117E83C9-EEC0-46D4-892A-C1FA23704B39
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
 
 ---
 
@@ -2643,6 +3120,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** A399FFF8-5C11-4D57-8EF9-AA06AFBFD11A
 
+Tổ chức xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục như sau:
+
 ---
 
 
@@ -2653,6 +3132,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000600005000000000000000000
 
 **ID:** 14C5DD37-EE8E-48A5-BFEE-2F755430645A
+
+1. Cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp trong phạm vi nhiệm vụ, quyền hạn của mình cấp văn bằng, chứng chỉ đào tạo về an toàn thông tin mạng.
 
 ---
 
@@ -2665,6 +3146,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 176EFDA4-749B-4614-8CBA-8E5E9DE61BD5
 
+1. Tổ chức phải có kế hoạch và tổ chức triển khai bảo đảm hoạt động liên tục hệ thống thông tin theo các yêu cầu sau:
+
 ---
 
 
@@ -2675,6 +3158,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000700005100000000000000000
 
 **ID:** 5A896364-9B7A-40E1-A5F0-12376CB430F6
+
+1. Xây dựng chiến lược, kế hoạch và chính sách trong lĩnh vực an toàn thông tin mạng; xây dựng và chỉ đạo thực hiện chương trình quốc gia về an toàn thông tin mạng; tổ chức lập phương án phát triển hạ tầng bảo đảm an toàn thông tin mạng trong quy hoạch hạ tầng thông tin và truyền thông, quy hoạch khác có liên quan theo quy định của pháp luật về quy hoạch.
 
 ---
 
@@ -2687,6 +3172,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 5D50C900-DC5A-437B-84A8-C329DD0F62FA
 
+Tổ chức thực hiện kiểm tra nội bộ như sau:
+
 ---
 
 
@@ -2697,6 +3184,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000700005200000000000000000
 
 **ID:** AFAB1569-8729-44B7-83ED-C0CC6BD68FAA
+
+1. Chính phủ thống nhất quản lý nhà nước về an toàn thông tin mạng.
 
 ---
 
@@ -2709,6 +3198,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CE81FF5C-916B-4D4F-BE58-3E6C99F72743
 
+Tổ chức có trách nhiệm gửi báo cáo về Ngân hàng Nhà nước (Cục Công nghệ thông tin) các nội dung sau:
+
 ---
 
 
@@ -2719,6 +3210,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005300000000000000000
 
 **ID:** C0D982B3-4473-4BFD-B176-F8F8D04CAF20
+
+Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
 
 ---
 
@@ -2731,6 +3224,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 0DC331ED-6E90-48DD-A2F7-764E6D6D0267
 
+Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.
+
 ---
 
 
@@ -2741,6 +3236,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005480266510018000540
 
 **ID:** FED36C8E-B9B5-4B4B-B06B-2799E6B333BE
+
+1. Cục Công nghệ thông tin có trách nhiệm:
 
 ---
 
@@ -2753,6 +3250,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 7FCFCA4B-F38F-43D8-BA40-AECED743489B
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019 trừ trường hợp quy định tại khoản 2 Điều này và thay thế Thông tư 31/2015/TT-NHNN ngày 28 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước ban hành Quy định về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng và Quyết định 29/2008/QĐ-NHNN ngày 13 tháng 10 năm 2008 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy định về bảo trì hệ thống trang thiết bị tin học trong ngành Ngân hàng.
+
 ---
 
 
@@ -2763,6 +3262,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000600000000000000000
 
 **ID:** DC922436-59E4-44FC-98DE-AB0BA1D48A65
+
+1. Hợp tác quốc tế về an toàn thông tin mạng phải tuân thủ các nguyên tắc sau đây:
 
 ---
 
@@ -2775,6 +3276,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 69921798-A754-4C1D-9519-CF703CABAA23
 
+1. Đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng là Cơ quan chuyên trách về an toàn thông tin hoặc cơ quan chuyên trách về công nghệ thông tin của các bộ, ngành, Ủy ban nhân dân cấp tỉnh (sau đây gọi tắt là Đơn vị chuyên trách ứng cứu sự cố).
+
 ---
 
 
@@ -2785,6 +3288,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000600
 
 **ID:** F457E93E-B616-4557-9CE3-5D884B2E4BF4
+
+1. Thành viên mạng lưới có các trách nhiệm và quyền hạn sau:
 
 ---
 
@@ -2797,6 +3302,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 89603235-5BE8-43D3-9D05-B79A65D04A27
 
+1. Thông tin xử lý thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
+
 ---
 
 
@@ -2807,6 +3314,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500600
 
 **ID:** C2D13AEF-0558-4ADD-9883-9B81E8513595
+
+1. Đơn vị vận hành hệ thống thông tin là cơ quan, tổ chức được chủ quản hệ thống thông tin giao nhiệm vụ vận hành hệ thống thông tin.
 
 ---
 
@@ -2819,6 +3328,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 47331893-F988-4BC7-AA6D-C952E9EB5B72
 
+Doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ công nghệ thông tin, doanh nghiệp cung cấp dịch vụ an toàn thông tin mạng có trách nhiệm:
+
 ---
 
 
@@ -2829,6 +3340,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420000600
 
 **ID:** E266F932-348E-42E5-A31A-B80A3EB65A26
+
+1. Tham mưu cho Bộ trưởng tổ chức triển khai các nhiệm vụ thuộc về trách nhiệm của Bộ mình trong ngăn chặn xung đột thông tin trên mạng và phối hợp với các cơ quan nghiệp vụ của các Bộ khác để cùng nhau tổ chức triển khai thực hiện nhiệm vụ.
 
 ---
 
@@ -2841,6 +3354,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 0A76794B-1DAD-4E5D-9474-23B3A828521E
 
+1. Cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự thực hiện theo quy định tại Điều 34 Luật an toàn thông tin mạng.
+
 ---
 
 
@@ -2851,6 +3366,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000042000000000000000000040258700108000050000802670600130000600
 
 **ID:** 31598420-7B95-4F8B-A388-C136D5F429F0
+
+Bộ Thông tin và Truyền thông (Cục An toàn thông tin) là cơ quan cấp Giấy phép nhập khẩu.
 
 ---
 
@@ -2863,6 +3380,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** A96C16C8-A8BD-46B4-AC60-CD4ACC511E4D
 
+1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này khi đáp ứng đủ các điều kiện quy định tại Điều 42 Luật an toàn thông tin mạng và các điều kiện tại Nghị định này.
+
 ---
 
 
@@ -2873,6 +3392,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000600
 
 **ID:** 14FE4EB5-8FFA-4175-A84A-4C0C2F6A8D62
+
+1. Lập dự toán: Hàng năm, vào thời gian lập dự toán ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước, các cơ quan, đơn vị được giao nhiệm vụ theo quy định tại Đề án 99 căn cứ nhu cầu đào tạo ngắn hạn về ANATTT xây dựng kế hoạch và dự toán kinh phí thực hiện nhiệm vụ đào tạo cán bộ ANATTT của cơ quan, đơn vị mình, tổng hợp chung trong kế hoạch đào tạo, bồi dưỡng CBCC của năm kế hoạch gửi Bộ Nội vụ tổng hợp (đối với các Bộ, cơ quan Trung ương), gửi Sở Nội vụ (đối với các cơ quan ở địa phương), đồng thời tổng hợp vào dự toán ngân sách năm kế hoạch của Bộ, cơ quan để gửi cơ quan tài chính cùng cấp tổng hợp trình cấp có thẩm quyền theo quy định.
 
 ---
 
@@ -2885,6 +3406,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9CA98A96-964A-4BCA-85A1-401D03B537C2
 
+Các Bộ, cơ quan trung ương, địa phương, cơ quan, đơn vị sử dụng kinh phí ngân sách nhà nước cho công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng phải thực hiện đúng định mức, chế độ chi tiêu tài chính hiện hành do cơ quan Nhà nước có thẩm quyền ban hành.
+
 ---
 
 
@@ -2895,6 +3418,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000600
 
 **ID:** 7DCF2A1C-2CF1-4298-91F6-3FDE1CC87213
+
+1. Các loại tài sản công nghệ thông tin bao gồm:
 
 ---
 
@@ -2907,6 +3432,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 8ED8AFDB-AED4-478A-84D5-9584CD0BED76
 
+1. Ngăn chặn việc truyền tải thông tin trên mạng, can thiệp, truy nhập, gây nguy hại, xóa, thay đổi, sao chép và làm sai lệch thông tin trên mạng trái pháp luật.
+
 ---
 
 
@@ -2917,6 +3444,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050000700
 
 **ID:** 4F0AE38C-0830-4226-BBB6-A1745237B063
+
+1. Thành viên có nghĩa vụ phải tham gia mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia (sau đây gọi tắt là mạng lưới ứng cứu sự cố) gồm:
 
 ---
 
@@ -2929,6 +3458,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** AE51151C-C313-4E3F-8368-B367ED5DAAA2
 
+Ban điều hành mạng lưới tổ chức triển khai các nhiệm vụ của mạng lưới ứng cứu sự cố, gồm các hoạt động chính sau:
+
 ---
 
 
@@ -2939,6 +3470,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850000700
 
 **ID:** 518C71AC-087F-4EB1-9DFA-2E897E7D03AC
+
+Hệ thống thông tin cấp độ 1 là hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và chỉ xử lý thông tin công cộng.
 
 ---
 
@@ -2951,6 +3484,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9AB6CD2F-9741-4AEF-9D50-B646513ABEE8
 
+Việc xác định cấp độ và thuyết minh cấp độ an toàn hệ thống thông tin thực hiện như sau:
+
 ---
 
 
@@ -2961,6 +3496,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000700
 
 **ID:** 2E1A6E31-F07F-4AD4-B6DC-900A7C5DC19E
+
+1. Chủ quản hệ thống thông tin có trách nhiệm cử cá nhân hoặc bộ phận làm đầu mối giám sát, cảnh báo an toàn thông tin mạng để phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông.
 
 ---
 
@@ -2973,6 +3510,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 66E8C297-36CE-4483-8282-DA95BD5BAF38
 
+1. Tổ chức, cá nhân khi phát hiện thấy dấu hiệu, hành vi gây xung đột thông tin trên mạng hoặc khi phát hiện thấy thông tin, hệ thống thông tin bị tổn hại phải có trách nhiệm thông báo và cung cấp đầy đủ thông tin cho cơ quan nghiệp vụ và chủ quản hệ thống thông tin.
+
 ---
 
 
@@ -2983,6 +3522,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000005000001000000000000000000430000000000000000000402587001080000700
 
 **ID:** 88C39B8E-460C-4706-BDE3-795253015131
+
+Hồ sơ và trình tự thủ tục cấp, sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo quy định tại Điều 43, 44, 45 Luật an toàn thông tin mạng.
 
 ---
 
@@ -2995,6 +3536,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 66BCF188-77DF-46A8-80DB-5C1DEAFD652C
 
+Hồ sơ đề nghị cấp Giấy phép nhập khẩu được lập thành 01 (một) bộ, bao gồm:
+
 ---
 
 
@@ -3005,6 +3548,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000402587000580000700
 
 **ID:** 99BCAAC6-E764-4D30-B30F-9C5C6E76B16A
+
+1. Ban Cơ yếu Chính phủ chủ trì, phối hợp với các Bộ, ngành, địa phương liên quan thanh tra, kiểm tra hoạt động kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự.
 
 ---
 
@@ -3017,6 +3562,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CD3D0F2C-A55C-4991-8A0F-7D0A24ABDBF5
 
+Việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ứng cứu sự cố, bảo đảm an toàn thông tin mạng thực hiện theo quy định tại Luật Ngân sách nhà nước, Luật Kế toán và các văn bản hướng dẫn. Ngoài ra, Thông tư này hướng dẫn một số nội dung cụ thể sau:
+
 ---
 
 
@@ -3027,6 +3574,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000700
 
 **ID:** 19FE987A-C0AF-4D74-973D-D0064E353300
+
+1. Với mỗi hệ thống thông tin phải lập danh sách tài sản thông tin, quy định về thẩm quyền, trách nhiệm của cá nhân hoặc bộ phận của tổ chức được tiếp cận, khai thác và quản lý.
 
 ---
 
@@ -3039,6 +3588,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 98EA6019-3815-462C-A49D-832267FF9FAD
 
+1. Bộ Thông tin và Truyền thông chủ trì biên soạn chương trình, giáo trình đào tạo cho phù hợp với yêu cầu đào tạo của các khóa đào tạo ngắn hạn; tổ chức lựa chọn các đơn vị đào tạo có năng lực để triển khai các khóa đào tạo ngắn hạn về kỹ thuật ATANTT cho đội ngũ cán bộ công nghệ thông tin và ATANTT kỹ thuật cao trong các đơn vị chuyên trách về công nghệ thông tin thuộc các Bộ, cơ quan Trung ương và các địa phương; đào tạo kiến thức ATANTT cho đội ngũ cán bộ lãnh đạo và cán bộ chủ chốt của các Bộ, ngành, địa phương; đào tạo theo chứng chỉ quốc tế về ATANTT.
+
 ---
 
 
@@ -3049,6 +3600,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000100000800000000000000000
 
 **ID:** EDD7D1E5-43C2-4FB1-AE60-A035F5129356
+
+Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
 ---
 
@@ -3061,6 +3614,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** F4045651-50D3-4052-948B-053B773139FD
 
+1. Điều phối ứng cứu sự cố là hoạt động của Cơ quan điều phối quốc gia và cơ quan có thẩm quyền nhằm huy động, điều hành, phối hợp thống nhất các nguồn lực gồm: nhân lực, vật lực (trang thiết bị), tài lực (tài chính, ngân sách) để phòng ngừa, theo dõi, thu thập, phát hiện, cảnh báo sự cố; tiếp nhận, phân tích xác minh, phân loại sự cố; điều hành, phối hợp, tổ chức ứng cứu sự cố, sẵn sàng ứng phó, khắc phục sự cố nhằm giảm thiểu các rủi ro, thiệt hại do sự cố gây ra.
+
 ---
 
 
@@ -3071,6 +3626,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000800
 
 **ID:** 28ABB7B8-1D30-4277-9C79-498E0FF414E4
+
+1. Bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Bộ phận tác nghiệp ứng cứu khẩn cấp) do Cơ quan thường trực triệu tập và chịu sự điều hành của Cơ quan thường trực với sự tham gia của các đơn vị sau:
 
 ---
 
@@ -3083,6 +3640,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 060F3EB6-5B1D-4385-B526-6CD99D499CFF
 
+Hệ thống thông tin cấp độ 2 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
+
 ---
 
 
@@ -3093,6 +3652,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000800
 
 **ID:** 85706E13-B8D5-4986-AB14-B5559D140427
+
+1. Khuyến khích các đầu mối giám sát trao đổi, cung cấp thông tin cho nhau nhằm mục đích phối hợp trong công tác giám sát, cảnh báo, ứng cứu sự cố và tăng tính chủ động đối phó với các nguy cơ, mối đe dọa, phương thức, thủ đoạn tấn công an toàn thông tin mạng của tổ chức, cá nhân.
 
 ---
 
@@ -3105,6 +3666,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** C6FE4D80-A7C1-4BBB-BA9A-E52B7C883D13
 
+1. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ thực hiện theo yêu cầu cơ bản quy định tại Thông tư này; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin và tiêu chuẩn, quy chuẩn kỹ thuật chuyên ngành có liên quan khác.
+
 ---
 
 
@@ -3115,6 +3678,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000800
 
 **ID:** F84AEE89-BE89-404A-9A34-41715BA71CBD
+
+1. Hoạt động giám sát, phát hiện, cảnh báo xung đột thông tin trên mạng phải được cơ quan nghiệp vụ và chủ quản hệ thống thông tin thực hiện thường xuyên, liên tục.
 
 ---
 
@@ -3127,6 +3692,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 83E98274-1FE6-4BAB-BD3F-DC9BC50760D2
 
+1. Doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông bằng một trong các hình thức sau:
+
 ---
 
 
@@ -3137,6 +3704,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130000800
 
 **ID:** 9F124FB8-85FC-4D4F-AC9C-0FFFC0037F3F
+
+1. Doanh nghiệp nộp hồ sơ theo một trong các hình thức sau đây:
 
 ---
 
@@ -3149,6 +3718,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 4CAFC9D3-9F0D-41C9-BFA3-D57E1C0BD594
 
+1. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với một trong các hành vi sau đây:
+
 ---
 
 
@@ -3159,6 +3730,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000800
 
 **ID:** 54A12A23-05DD-4216-A641-2C5F27C9843C
+
+1. Với mỗi hệ thống thông tin do tổ chức trực tiếp quản lý phải lập danh sách tài sản vật lý gồm các thông tin cơ bản sau: tên tài sản, giá trị, vị trí lắp đặt, chủ thể quản lý, mục đích sử dụng, tình trạng sử dụng, hệ thống thông tin tương ứng.
 
 ---
 
@@ -3171,6 +3744,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** E8ECA31E-3DF9-44C7-9911-6F99F4D8CFBE
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016.
+
 ---
 
 
@@ -3181,6 +3756,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000800005480267640121000080
 
 **ID:** 9D3A5597-B871-44AC-AB48-B4BA874737A4
+
+1. Thông tư có hiệu lực thi hành từ ngày 01 tháng 02 năm 2019.
 
 ---
 
@@ -3193,6 +3770,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 917BD139-CA57-47EF-99CD-63B50DD18AEE
 
+1. Cơ quan, tổ chức sở hữu thông tin phân loại thông tin theo thuộc tính bí mật để có biện pháp bảo vệ phù hợp.
+
 ---
 
 
@@ -3203,6 +3782,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000110000802630800200000900
 
 **ID:** 6095C3AB-8D08-46EF-8ADF-14148B2DAAE3
+
+1. Các hình thức thông báo, báo cáo sự cố
 
 ---
 
@@ -3215,6 +3796,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 9170882F-62BD-4263-9C44-A09C3FC3C71B
 
+Sự cố an toàn thông tin mạng nghiêm trọng là sự cố đáp ứng đồng thời các tiêu chí sau:
+
 ---
 
 
@@ -3225,6 +3808,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850000900
 
 **ID:** 6B086369-C296-4FD6-B345-B850A258E321
+
+Hệ thống thông tin cấp độ 3 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
 
 ---
 
@@ -3237,6 +3822,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 1982BE61-B2BF-4C78-A29A-37252B57887E
 
+1. Tổ chức giao ban, hội thảo định kỳ về hoạt động giám sát.
+
 ---
 
 
@@ -3247,6 +3834,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036500900
 
 **ID:** D063E0F0-188D-4420-B585-74DD9AF9EFAC
+
+1. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 1 phải đáp ứng yêu cầu quy định chi tiết tại Phụ lục 1 ban hành kèm theo Thông tư này.
 
 ---
 
@@ -3259,6 +3848,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** CCE7C1D3-F740-4BDD-90FE-56235DA5BDD9
 
+1. Chủ quản hệ thống thông tin có trách nhiệm tiếp nhận, xử lý xung đột thông tin trên mạng và phối hợp với cơ quan nghiệp vụ để ứng cứu sự cố và ngăn chặn xung đột thông tin trên mạng.
+
 ---
 
 
@@ -3269,6 +3860,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130000900
 
 **ID:** 1EE0F660-F0E9-4E6B-A6AD-B0368ECA8F22
+
+1. Trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận hồ sơ, Cục An toàn thông tin kiểm tra và gửi thông báo cho doanh nghiệp về tính đầy đủ của hồ sơ theo quy định tại Điều 7 của Thông tư này bằng văn bản hoặc hình thức điện tử.
 
 ---
 
@@ -3281,6 +3874,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 28B109B5-45C1-4D9C-B9B2-5C5254083C0F
 
+1. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải làm bằng tiếng Việt, gồm 01 bộ hồ sơ gốc và 04 bộ bản sao hồ sơ hợp lệ đối với trường hợp đề nghị cấp Giấy phép, 01 bộ hồ sơ gốc và 01 bộ bản sao hồ sơ hợp lệ đối với các trường hợp đề nghị sửa đổi, bổ sung và gia hạn Giấy phép. Bộ hồ sơ gốc phải có đủ chữ ký, dấu xác nhận của doanh nghiệp, các tài liệu do doanh nghiệp lập nếu có từ 02 tờ văn bản trở lên phải có dấu giáp lai. Các bộ bản sao hồ sơ hợp lệ không yêu cầu phải có dấu xác nhận, dấu chứng thực bản sao nhưng phải có dấu giáp lai của doanh nghiệp nộp hồ sơ.
+
 ---
 
 
@@ -3291,6 +3886,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 030010000000000070000510000000000000000000402587000580000900
 
 **ID:** E8EB9A40-A408-452D-A942-DD21628358BE
+
+1. Thanh tra viên cơ yếu đang thi hành công vụ có thẩm quyền:
 
 ---
 
@@ -3303,6 +3900,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 303EC84C-E9B0-4E99-BBE1-D5BCE289C2DA
 
+1. Với mỗi hệ thống thông tin phải lập danh sách tài sản phần mềm với các thông tin cơ bản gồm: tên tài sản, giá trị, mục đích sử dụng, phạm vi sử dụng, chủ thể quản lý, thông tin về bản quyền, phiên bản, hệ thống thông tin tương ứng.
+
 ---
 
 
@@ -3313,6 +3912,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000001000
 
 **ID:** 80B1ACF9-23EF-4081-BBB7-08A12328516E
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3325,6 +3926,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** A55B06B2-0AB1-415B-9DF2-B5724A1CFF4C
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3335,6 +3938,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000003000
 
 **ID:** A4363905-D588-4D52-B8B1-7D271E92BBD8
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3347,6 +3952,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 1C29165C-B552-4F7B-BE12-7D02F276C663
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3357,6 +3964,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000005000
 
 **ID:** A02C9851-FECB-4E85-AFCC-F6C81AF6AC61
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3369,6 +3978,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** F6D83C9D-4D21-4731-B0BC-87FC52A85EE8
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3379,6 +3990,8 @@ parent: buu-chinh-vien-thong
 **Mã phân cấp:** 03001000000000007000
 
 **ID:** 380E3916-BB70-4F25-90C4-E72A5DB93FF0
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3391,6 +4004,8 @@ parent: buu-chinh-vien-thong
 
 **ID:** 69215E27-28A5-4EF1-ACB3-57C920B9600D
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3401,6 +4016,7 @@ parent: buu-chinh-vien-thong
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 307
+- **Điều khoản có nội dung:** 293 (95.4%)
 - **ID đề mục:** 66c59035-9acd-430a-affd-86563bc7ce77
 
 ## 🔍 Tìm kiếm

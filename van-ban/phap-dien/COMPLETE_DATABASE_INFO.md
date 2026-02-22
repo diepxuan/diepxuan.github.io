@@ -6,7 +6,7 @@
 - **Số chủ đề (chude)**: 45
 - **Số đề mục (demuc)**: 306
 - **Số điều khoản trong database**: 76303
-- **Database file**: `sqlite/phapdien_complete.db`
+- **Database file**: `sqlite/phapdien.db`
 - **Parser sử dụng**: `advanced_parser.py`
 - **Kích thước database**: 36.02 MB
 
