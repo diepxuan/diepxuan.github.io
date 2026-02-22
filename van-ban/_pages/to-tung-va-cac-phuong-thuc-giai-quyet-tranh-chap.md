@@ -2,6 +2,8 @@
 layout: default
 title: Tố tụng và các phương thức giải quyết tranh chấp
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/
+collection: topics
+slug: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Tố tụng và các phương thức giải quyết tranh chấp

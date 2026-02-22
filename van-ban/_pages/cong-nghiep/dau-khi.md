@@ -2,6 +2,9 @@
 layout: default
 title: Dầu khí
 permalink: /van-ban/cong-nghiep/dau-khi/
+collection: subtopics
+slug: dau-khi
+parent: cong-nghiep
 ---
 
 # Dầu khí

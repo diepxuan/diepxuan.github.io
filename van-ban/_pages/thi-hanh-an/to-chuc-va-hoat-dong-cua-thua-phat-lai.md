@@ -2,6 +2,9 @@
 layout: default
 title: Tổ chức và hoạt động của Thừa phát lại
 permalink: /van-ban/thi-hanh-an/to-chuc-va-hoat-dong-cua-thua-phat-lai/
+collection: subtopics
+slug: to-chuc-va-hoat-dong-cua-thua-phat-lai
+parent: thi-hanh-an
 ---
 
 # Tổ chức và hoạt động của Thừa phát lại

@@ -2,6 +2,9 @@
 layout: default
 title: Phá sản
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/pha-san/
+collection: subtopics
+slug: pha-san
+parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Phá sản

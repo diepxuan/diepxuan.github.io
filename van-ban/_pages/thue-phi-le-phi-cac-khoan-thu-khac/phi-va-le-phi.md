@@ -2,6 +2,9 @@
 layout: default
 title: Phí và lệ phí
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/phi-va-le-phi/
+collection: subtopics
+slug: phi-va-le-phi
+parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 
 # Phí và lệ phí

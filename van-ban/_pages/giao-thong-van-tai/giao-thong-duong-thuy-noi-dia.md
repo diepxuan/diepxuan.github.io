@@ -2,6 +2,9 @@
 layout: default
 title: Giao thông đường thủy nội địa
 permalink: /van-ban/giao-thong-van-tai/giao-thong-duong-thuy-noi-dia/
+collection: subtopics
+slug: giao-thong-duong-thuy-noi-dia
+parent: giao-thong-van-tai
 ---
 
 # Giao thông đường thủy nội địa

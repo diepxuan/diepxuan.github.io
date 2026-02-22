@@ -2,6 +2,9 @@
 layout: default
 title: Đấu giá tài sản
 permalink: /van-ban/bo-tro-tu-phap/dau-gia-tai-san/
+collection: subtopics
+slug: dau-gia-tai-san
+parent: bo-tro-tu-phap
 ---
 
 # Đấu giá tài sản

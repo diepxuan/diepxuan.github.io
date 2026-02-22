@@ -138,6 +138,8 @@ def generate_topic_page(topic, subtopics):
 layout: default
 title: {topic['name']}
 permalink: /van-ban/{topic['slug']}/
+collection: topics
+slug: {topic['slug']}
 ---
 
 # {topic['name']}
@@ -183,6 +185,9 @@ def generate_subtopic_page(topic, subtopic, provisions):
 layout: default
 title: {subtopic['name']}
 permalink: /van-ban/{topic['slug']}/{subtopic['slug']}/
+collection: subtopics
+slug: {subtopic['slug']}
+parent: {topic['slug']}
 ---
 
 # {subtopic['name']}
@@ -248,7 +253,6 @@ def generate_index_page(topics):
 layout: default
 title: Bộ Pháp điển Điện tử
 permalink: /van-ban/
-layout: page
 ---
 
 # 📚 Bộ Pháp điển Điện tử
@@ -356,9 +360,77 @@ Chủ đề (45)
     
     return content
 
+def generate_vanban_index_page(topics):
+    """Generate van-ban/index.md page (main website index)"""
+    content = """---
+layout: default
+title: Văn bản Pháp luật
+permalink: /van-ban/
+---
+
+# 📚 Văn bản Pháp luật
+
+## Bộ Pháp điển Điện tử
+
+Hệ thống pháp luật chính thức của Việt Nam, được Bộ Tư pháp công bố.
+
+### Thống kê
+- **45 Chủ đề** pháp luật
+- **306 Đề mục** chuyên sâu  
+- **76,303 Điều khoản** (chương, điều, khoản, điểm)
+
+## 📋 Danh sách Chủ đề Pháp luật
+
+Nhấp vào tên chủ đề để xem danh sách đề mục:
+
+"""
+    
+    for i, topic in enumerate(topics, 1):
+        content += f"{i}. **[{topic['name']}](/van-ban/{topic['slug']}/)** - {topic['subtopic_count']} đề mục ({topic['provision_count']:,} điều khoản)\n"
+    
+    content += """
+
+## 🔍 Cách sử dụng
+
+### 1. Tra cứu theo cấp độ
+1. **Chọn chủ đề** từ danh sách trên
+2. **Xem danh sách đề mục** thuộc chủ đề
+3. **Nhấp vào đề mục** để xem nội dung đầy đủ
+
+### 2. Tìm kiếm nhanh
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+
+## 📁 Văn bản Khác
+
+### Hướng dẫn Sử dụng Dịch vụ Internet
+- **File**: [WEBHD_INTERNET_UM_v1.0.docx](WEBHD_INTERNET_UM_v1.0.docx)
+- **Loại**: Tài liệu Microsoft Word
+- **Dung lượng**: 1.05 MB
+
+### Văn bản Tự động Crawl
+- **Source**: [vanban.chinhphu.vn](https://vanban.chinhphu.vn)
+- **Số lượng**: 10+ documents
+- **Tự động cập nhật**: Weekly
+- **Xem tại**: [crawled/README.md](crawled/README.md)
+
+## ⚖️ Lưu ý Pháp lý
+
+- Dữ liệu được trích xuất từ **Bộ Pháp điển Điện tử chính thức**
+- Chỉ sử dụng cho mục đích **tham khảo, nghiên cứu**
+- **Không thay thế** văn bản pháp luật chính thức
+- Luôn **kiểm tra** với nguồn chính thức khi áp dụng
+
+---
+
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+"""
+    
+    return content
+
 def generate_all_pages():
     """Generate all pages with new URL structure"""
     output_dir = "../../_pages"
+    vanban_dir = "../../.."
     
     # Create output directory
     Path(output_dir).mkdir(parents=True, exist_ok=True)
@@ -369,14 +441,23 @@ def generate_all_pages():
     
     print(f"✅ Found {len(topics)} topics")
     
-    # Generate index page
-    print("\n📄 Generating index page...")
+    # Generate index page for _pages collection
+    print("\n📄 Generating index page for _pages collection...")
     index_content = generate_index_page(topics)
     index_path = os.path.join(output_dir, "index.md")
     
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(index_content)
     print(f"✅ Index page saved: {index_path}")
+    
+    # Generate van-ban/index.md (main website index)
+    print("\n📄 Generating van-ban/index.md (main website index)...")
+    vanban_index_content = generate_vanban_index_page(topics)
+    vanban_index_path = os.path.join(vanban_dir, "van-ban", "index.md")
+    
+    with open(vanban_index_path, 'w', encoding='utf-8') as f:
+        f.write(vanban_index_content)
+    print(f"✅ van-ban/index.md saved: {vanban_index_path}")
     
     total_subtopics = 0
     
@@ -419,8 +500,10 @@ def generate_all_pages():
     print(f"📊 Statistics:")
     print(f"  - Topics: {len(topics)}")
     print(f"  - Subtopics: {total_subtopics}")
-    print(f"  - Total pages: {len(topics) + total_subtopics + 1} (including index)")
-    print(f"📁 Output directory: {output_dir}")
+    print(f"  - Total pages: {len(topics) + total_subtopics + 2} (including both indexes)")
+    print(f"📁 Output directories:")
+    print(f"  - _pages/: {output_dir}")
+    print(f"  - van-ban/: {vanban_dir}")
     print(f"🔗 URL Structure:")
     print(f"  - Homepage: /van-ban/")
     print(f"  - Topic pages: /van-ban/<slug>/")

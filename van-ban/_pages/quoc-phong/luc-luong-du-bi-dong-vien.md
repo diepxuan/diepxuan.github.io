@@ -2,6 +2,9 @@
 layout: default
 title: Lực lượng dự bị động viên
 permalink: /van-ban/quoc-phong/luc-luong-du-bi-dong-vien/
+collection: subtopics
+slug: luc-luong-du-bi-dong-vien
+parent: quoc-phong
 ---
 
 # Lực lượng dự bị động viên

@@ -2,6 +2,9 @@
 layout: default
 title: Thú y
 permalink: /van-ban/nong-nghiep-nong-thon/thu-y/
+collection: subtopics
+slug: thu-y
+parent: nong-nghiep-nong-thon
 ---
 
 # Thú y

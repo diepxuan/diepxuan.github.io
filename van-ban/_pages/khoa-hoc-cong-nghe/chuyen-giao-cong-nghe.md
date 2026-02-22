@@ -2,6 +2,9 @@
 layout: default
 title: Chuyển giao công nghệ
 permalink: /van-ban/khoa-hoc-cong-nghe/chuyen-giao-cong-nghe/
+collection: subtopics
+slug: chuyen-giao-cong-nghe
+parent: khoa-hoc-cong-nghe
 ---
 
 # Chuyển giao công nghệ

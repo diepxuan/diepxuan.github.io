@@ -2,6 +2,9 @@
 layout: default
 title: Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan/
+collection: subtopics
+slug: hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan
+parent: to-chuc-bo-may-nha-nuoc
 ---
 
 # Hoạt động giám sát của Quốc hội và Hội đồng nhân dân

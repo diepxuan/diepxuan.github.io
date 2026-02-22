@@ -2,6 +2,8 @@
 layout: default
 title: Khoa học, công nghệ
 permalink: /van-ban/khoa-hoc-cong-nghe/
+collection: topics
+slug: khoa-hoc-cong-nghe
 ---
 
 # Khoa học, công nghệ

@@ -2,6 +2,9 @@
 layout: default
 title: Ngoại hối
 permalink: /van-ban/ngan-hang-tien-te/ngoai-hoi/
+collection: subtopics
+slug: ngoai-hoi
+parent: ngan-hang-tien-te
 ---
 
 # Ngoại hối

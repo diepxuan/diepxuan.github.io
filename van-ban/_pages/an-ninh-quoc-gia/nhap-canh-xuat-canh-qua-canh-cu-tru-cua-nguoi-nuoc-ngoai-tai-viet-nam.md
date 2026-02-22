@@ -2,6 +2,9 @@
 layout: default
 title: Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam
 permalink: /van-ban/an-ninh-quoc-gia/nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-viet-nam/
+collection: subtopics
+slug: nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-viet-nam
+parent: an-ninh-quoc-gia
 ---
 
 # Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam

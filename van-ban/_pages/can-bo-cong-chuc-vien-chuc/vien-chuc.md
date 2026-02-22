@@ -2,6 +2,9 @@
 layout: default
 title: Viên chức
 permalink: /van-ban/can-bo-cong-chuc-vien-chuc/vien-chuc/
+collection: subtopics
+slug: vien-chuc
+parent: can-bo-cong-chuc-vien-chuc
 ---
 
 # Viên chức

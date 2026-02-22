@@ -2,6 +2,9 @@
 layout: default
 title: Phòng, chống tham nhũng
 permalink: /van-ban/khieu-nai-to-cao/phong-chong-tham-nhung/
+collection: subtopics
+slug: phong-chong-tham-nhung
+parent: khieu-nai-to-cao
 ---
 
 # Phòng, chống tham nhũng

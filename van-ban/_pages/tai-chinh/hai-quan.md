@@ -2,6 +2,9 @@
 layout: default
 title: Hải quan
 permalink: /van-ban/tai-chinh/hai-quan/
+collection: subtopics
+slug: hai-quan
+parent: tai-chinh
 ---
 
 # Hải quan

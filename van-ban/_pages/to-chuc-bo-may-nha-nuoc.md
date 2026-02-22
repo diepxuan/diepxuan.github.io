@@ -2,6 +2,8 @@
 layout: default
 title: Tổ chức bộ máy nhà nước
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/
+collection: topics
+slug: to-chuc-bo-may-nha-nuoc
 ---
 
 # Tổ chức bộ máy nhà nước

@@ -2,6 +2,9 @@
 layout: default
 title: Quản lý thuế
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/quan-ly-thue/
+collection: subtopics
+slug: quan-ly-thue
+parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 
 # Quản lý thuế

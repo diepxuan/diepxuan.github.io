@@ -2,6 +2,8 @@
 layout: default
 title: Chính sách xã hội
 permalink: /van-ban/chinh-sach-xa-hoi/
+collection: topics
+slug: chinh-sach-xa-hoi
 ---
 
 # Chính sách xã hội

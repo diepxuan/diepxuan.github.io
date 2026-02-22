@@ -2,6 +2,9 @@
 layout: default
 title: Sử dụng năng lượng tiết kiệm và hiệu quả
 permalink: /van-ban/cong-nghiep/su-dung-nang-luong-tiet-kiem-va-hieu-qua/
+collection: subtopics
+slug: su-dung-nang-luong-tiet-kiem-va-hieu-qua
+parent: cong-nghiep
 ---
 
 # Sử dụng năng lượng tiết kiệm và hiệu quả

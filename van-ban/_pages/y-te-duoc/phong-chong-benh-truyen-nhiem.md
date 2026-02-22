@@ -2,6 +2,9 @@
 layout: default
 title: Phòng, chống bệnh truyền nhiễm
 permalink: /van-ban/y-te-duoc/phong-chong-benh-truyen-nhiem/
+collection: subtopics
+slug: phong-chong-benh-truyen-nhiem
+parent: y-te-duoc
 ---
 
 # Phòng, chống bệnh truyền nhiễm

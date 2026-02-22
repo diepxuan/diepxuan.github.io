@@ -2,6 +2,9 @@
 layout: default
 title: Một số biện pháp bảo đảm trật tự công cộng
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong-cong/
+collection: subtopics
+slug: mot-so-bien-phap-bao-dam-trat-tu-cong-cong
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Một số biện pháp bảo đảm trật tự công cộng

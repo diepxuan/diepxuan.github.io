@@ -2,6 +2,8 @@
 layout: default
 title: Tài nguyên
 permalink: /van-ban/tai-nguyen/
+collection: topics
+slug: tai-nguyen
 ---
 
 # Tài nguyên

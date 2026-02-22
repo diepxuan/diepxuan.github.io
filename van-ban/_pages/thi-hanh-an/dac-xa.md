@@ -2,6 +2,9 @@
 layout: default
 title: Đặc xá
 permalink: /van-ban/thi-hanh-an/dac-xa/
+collection: subtopics
+slug: dac-xa
+parent: thi-hanh-an
 ---
 
 # Đặc xá

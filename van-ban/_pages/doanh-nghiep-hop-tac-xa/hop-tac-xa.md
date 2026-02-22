@@ -2,6 +2,9 @@
 layout: default
 title: Hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa/
+collection: subtopics
+slug: hop-tac-xa
+parent: doanh-nghiep-hop-tac-xa
 ---
 
 # Hợp tác xã

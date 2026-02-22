@@ -2,6 +2,8 @@
 layout: default
 title: Công nghiệp
 permalink: /van-ban/cong-nghiep/
+collection: topics
+slug: cong-nghiep
 ---
 
 # Công nghiệp

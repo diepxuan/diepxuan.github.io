@@ -2,6 +2,9 @@
 layout: default
 title: Bưu chính
 permalink: /van-ban/buu-chinh-vien-thong/buu-chinh/
+collection: subtopics
+slug: buu-chinh
+parent: buu-chinh-vien-thong
 ---
 
 # Bưu chính

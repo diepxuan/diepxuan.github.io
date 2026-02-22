@@ -2,6 +2,9 @@
 layout: default
 title: Du lịch
 permalink: /van-ban/van-hoa-the-thao-du-lich/du-lich/
+collection: subtopics
+slug: du-lich
+parent: van-hoa-the-thao-du-lich
 ---
 
 # Du lịch

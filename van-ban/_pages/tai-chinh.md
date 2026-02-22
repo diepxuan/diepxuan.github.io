@@ -2,6 +2,8 @@
 layout: default
 title: Tài chính
 permalink: /van-ban/tai-chinh/
+collection: topics
+slug: tai-chinh
 ---
 
 # Tài chính

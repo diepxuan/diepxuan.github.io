@@ -2,6 +2,8 @@
 layout: default
 title: Ngân hàng, tiền tệ
 permalink: /van-ban/ngan-hang-tien-te/
+collection: topics
+slug: ngan-hang-tien-te
 ---
 
 # Ngân hàng, tiền tệ
