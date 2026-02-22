@@ -11,6 +11,15 @@ import os
 import re
 from pathlib import Path
 
+# Đường dẫn tuyệt đối tới file hiện tại
+SCRIPT_DIR = Path(__file__).resolve().parent
+
+# Thư mục gốc của repo (vì script nằm trong ./scripts/)
+BASE_DIR = SCRIPT_DIR.parent
+
+VB_PATH = os.path.join(BASE_DIR, "van-ban")
+DB_PATH = os.path.join (VB_PATH, "phap-dien/sqlite/phapdien_complete.db")
+
 def slugify(text):
     """Convert text to URL-friendly slug"""
     # Remove accents and special characters
@@ -31,7 +40,7 @@ def slugify(text):
 
 def get_database_connection():
     """Connect to SQLite database"""
-    db_path = "../van-ban/phap-dien/sqlite/phapdien_complete.db"
+    db_path = DB_PATH
     return sqlite3.connect(db_path)
 
 def get_topics():
@@ -429,8 +438,8 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 def generate_all_pages():
     """Generate all pages with new URL structure"""
-    output_dir = "../van-ban"
-    vanban_dir = "../van-ban"
+    output_dir = VB_PATH
+    vanban_dir = VB_PATH
     
     # Create output directory
     Path(output_dir).mkdir(parents=True, exist_ok=True)
@@ -453,7 +462,7 @@ def generate_all_pages():
     # Generate van-ban/index.md (main website index)
     print("\n📄 Generating van-ban/index.md (main website index)...")
     vanban_index_content = generate_vanban_index_page(topics)
-    vanban_index_path = os.path.join(vanban_dir, "van-ban", "index.md")
+    vanban_index_path = os.path.join(vanban_dir, "index.md")
     
     with open(vanban_index_path, 'w', encoding='utf-8') as f:
         f.write(vanban_index_content)
