@@ -1,0 +1,14 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Database files (too large for GitHub)
+van-ban/phap-dien/sqlite/*.db
+van-ban/phap-dien/sqlite/*.db-*
+
+# Archive directory
+van-ban/phap-dien/scripts/archive/
+
+# Source data directory
+BoPhapDienDienTu/
