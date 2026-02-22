@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bien-phong-viet-nam/
 # Biên phòng Việt Nam
 
 **Đề mục:** Biên phòng Việt Nam  
-**Chủ đề:** [Quốc phòng](../chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
 **Số điều khoản:** 107  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1086,7 +1086,7 @@ permalink: /van-ban/de-muc/bien-phong-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](../chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/du-tru-quoc-gia/
 # Dự trữ quốc gia
 
 **Đề mục:** Dự trữ quốc gia  
-**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](../chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 409  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4106,7 +4106,7 @@ permalink: /van-ban/de-muc/du-tru-quoc-gia/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](../chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

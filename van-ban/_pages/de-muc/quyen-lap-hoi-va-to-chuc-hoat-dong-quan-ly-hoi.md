@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi/
 # Quyền lập hội và tổ chức, hoạt động, quản lý hội
 
 **Đề mục:** Quyền lập hội và tổ chức, hoạt động, quản lý hội  
-**Chủ đề:** [Tổ chức chính trị - xã hội, hội](../chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+**Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 107  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1086,7 +1086,7 @@ permalink: /van-ban/de-muc/quyen-lap-hoi-va-to-chuc-hoat-dong-quan-ly-hoi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](../chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

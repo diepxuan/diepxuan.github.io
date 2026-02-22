@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/giam-dinh-tu-phap/
 # Giám định tư pháp
 
 **Đề mục:** Giám định tư pháp  
-**Chủ đề:** [Bổ trợ tư pháp](../chu-de/bo-tro-tu-phap/)  
+**Chủ đề:** [Bổ trợ tư pháp](/van-ban/chu-de/bo-tro-tu-phap/)  
 **Số điều khoản:** 468  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4696,7 +4696,7 @@ permalink: /van-ban/de-muc/giam-dinh-tu-phap/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bổ trợ tư pháp](../chu-de/bo-tro-tu-phap/)  
+[← Danh sách đề mục của Bổ trợ tư pháp](/van-ban/chu-de/bo-tro-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

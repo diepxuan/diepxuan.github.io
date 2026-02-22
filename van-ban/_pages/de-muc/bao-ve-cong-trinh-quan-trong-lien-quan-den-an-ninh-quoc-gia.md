@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-qu
 # Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia
 
 **Đề mục:** Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia  
-**Chủ đề:** [An ninh quốc gia](../chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 67  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -686,7 +686,7 @@ permalink: /van-ban/de-muc/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-qu
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](../chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

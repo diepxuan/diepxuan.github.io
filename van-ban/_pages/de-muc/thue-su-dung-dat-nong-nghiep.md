@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/thue-su-dung-dat-nong-nghiep/
 # Thuế sử dụng đất nông nghiệp
 
 **Đề mục:** Thuế sử dụng đất nông nghiệp  
-**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](../chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
+**Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
 **Số điều khoản:** 203  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2046,7 +2046,7 @@ permalink: /van-ban/de-muc/thue-su-dung-dat-nong-nghiep/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](../chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
+[← Danh sách đề mục của Thuế, phí, lệ phí, các khoản thu khác](/van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -12,22 +12,22 @@ permalink: /van-ban/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Hòa giải ở cơ sở](../de-muc/hoa-giai-o-co-so/)**
-2. **[Thi hành tạm giữ, tạm giam](../de-muc/thi-hanh-tam-giu-tam-giam/)**
-3. **[Tổ chức cơ quan điều tra hình sự](../de-muc/to-chuc-co-quan-dieu-tra-hinh-su/)**
-4. **[Hòa giải, đối thoại tại Tòa án](../de-muc/hoa-giai-doi-thoai-tai-toa-an/)**
-5. **[Phá sản](../de-muc/pha-san/)**
-6. **[Thủ tục bắt giữ tàu bay](../de-muc/thu-tuc-bat-giu-tau-bay/)**
-7. **[Thủ tục bắt giữ tàu biển](../de-muc/thu-tuc-bat-giu-tau-bien/)**
-8. **[Tố tụng dân sự](../de-muc/to-tung-dan-su/)**
-9. **[Tố tụng hành chính](../de-muc/to-tung-hanh-chinh/)**
-10. **[Tố tụng hình sự](../de-muc/to-tung-hinh-su/)**
-11. **[Trách nhiệm bồi thường của Nhà nước](../de-muc/trach-nhiem-boi-thuong-cua-nha-nuoc/)**
-12. **[Trọng tài thương mại](../de-muc/trong-tai-thuong-mai/)**
+1. **[Hòa giải ở cơ sở](/van-ban/de-muc/hoa-giai-o-co-so/)**
+2. **[Thi hành tạm giữ, tạm giam](/van-ban/de-muc/thi-hanh-tam-giu-tam-giam/)**
+3. **[Tổ chức cơ quan điều tra hình sự](/van-ban/de-muc/to-chuc-co-quan-dieu-tra-hinh-su/)**
+4. **[Hòa giải, đối thoại tại Tòa án](/van-ban/de-muc/hoa-giai-doi-thoai-tai-toa-an/)**
+5. **[Phá sản](/van-ban/de-muc/pha-san/)**
+6. **[Thủ tục bắt giữ tàu bay](/van-ban/de-muc/thu-tuc-bat-giu-tau-bay/)**
+7. **[Thủ tục bắt giữ tàu biển](/van-ban/de-muc/thu-tuc-bat-giu-tau-bien/)**
+8. **[Tố tụng dân sự](/van-ban/de-muc/to-tung-dan-su/)**
+9. **[Tố tụng hành chính](/van-ban/de-muc/to-tung-hanh-chinh/)**
+10. **[Tố tụng hình sự](/van-ban/de-muc/to-tung-hinh-su/)**
+11. **[Trách nhiệm bồi thường của Nhà nước](/van-ban/de-muc/trach-nhiem-boi-thuong-cua-nha-nuoc/)**
+12. **[Trọng tài thương mại](/van-ban/de-muc/trong-tai-thuong-mai/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 12

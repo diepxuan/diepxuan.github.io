@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/to-chuc-vien-kiem-sat-nhan-dan/
 # Tổ chức Viện kiểm sát nhân dân
 
 **Đề mục:** Tổ chức Viện kiểm sát nhân dân  
-**Chủ đề:** [Tổ chức bộ máy nhà nước](../chu-de/to-chuc-bo-may-nha-nuoc/)  
+**Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/chu-de/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 230  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2316,7 +2316,7 @@ permalink: /van-ban/de-muc/to-chuc-vien-kiem-sat-nhan-dan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước](../chu-de/to-chuc-bo-may-nha-nuoc/)  
+[← Danh sách đề mục của Tổ chức bộ máy nhà nước](/van-ban/chu-de/to-chuc-bo-may-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

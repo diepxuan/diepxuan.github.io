@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/an-toan-thuc-pham/
 # An toàn thực phẩm
 
 **Đề mục:** An toàn thực phẩm  
-**Chủ đề:** [Y tế, dược](../chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 **Số điều khoản:** 949  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -9506,7 +9506,7 @@ permalink: /van-ban/de-muc/an-toan-thuc-pham/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](../chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

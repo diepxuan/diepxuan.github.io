@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-
 # Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội
 
 **Đề mục:** Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội  
-**Chủ đề:** [Chính sách xã hội](../chu-de/chinh-sach-xa-hoi/)  
+**Chủ đề:** [Chính sách xã hội](/van-ban/chu-de/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 59  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -606,7 +606,7 @@ permalink: /van-ban/de-muc/chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Chính sách xã hội](../chu-de/chinh-sach-xa-hoi/)  
+[← Danh sách đề mục của Chính sách xã hội](/van-ban/chu-de/chinh-sach-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

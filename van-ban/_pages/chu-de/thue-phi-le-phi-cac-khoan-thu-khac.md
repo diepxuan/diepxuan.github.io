@@ -12,21 +12,21 @@ permalink: /van-ban/chu-de/thue-phi-le-phi-cac-khoan-thu-khac/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Thuế thu nhập cá nhân](../de-muc/thue-thu-nhap-ca-nhan/)**
-2. **[Thuế thu nhập doanh nghiệp](../de-muc/thue-thu-nhap-doanh-nghiep/)**
-3. **[Thuế tiêu thụ đặc biệt](../de-muc/thue-tieu-thu-dac-biet/)**
-4. **[Thuế xuất khẩu, thuế nhập khẩu](../de-muc/thue-xuat-khau-thue-nhap-khau/)**
-5. **[Chi phí tố tụng](../de-muc/chi-phi-to-tung/)**
-6. **[Phí và lệ phí](../de-muc/phi-va-le-phi/)**
-7. **[Quản lý thuế](../de-muc/quan-ly-thue/)**
-8. **[Thuế bảo vệ môi trường](../de-muc/thue-bao-ve-moi-truong/)**
-9. **[Thuế sử dụng đất nông nghiệp](../de-muc/thue-su-dung-dat-nong-nghiep/)**
-10. **[Thuế sử dụng đất phi nông nghiệp](../de-muc/thue-su-dung-dat-phi-nong-nghiep/)**
-11. **[Thuế tài nguyên](../de-muc/thue-tai-nguyen/)**
+1. **[Thuế thu nhập cá nhân](/van-ban/de-muc/thue-thu-nhap-ca-nhan/)**
+2. **[Thuế thu nhập doanh nghiệp](/van-ban/de-muc/thue-thu-nhap-doanh-nghiep/)**
+3. **[Thuế tiêu thụ đặc biệt](/van-ban/de-muc/thue-tieu-thu-dac-biet/)**
+4. **[Thuế xuất khẩu, thuế nhập khẩu](/van-ban/de-muc/thue-xuat-khau-thue-nhap-khau/)**
+5. **[Chi phí tố tụng](/van-ban/de-muc/chi-phi-to-tung/)**
+6. **[Phí và lệ phí](/van-ban/de-muc/phi-va-le-phi/)**
+7. **[Quản lý thuế](/van-ban/de-muc/quan-ly-thue/)**
+8. **[Thuế bảo vệ môi trường](/van-ban/de-muc/thue-bao-ve-moi-truong/)**
+9. **[Thuế sử dụng đất nông nghiệp](/van-ban/de-muc/thue-su-dung-dat-nong-nghiep/)**
+10. **[Thuế sử dụng đất phi nông nghiệp](/van-ban/de-muc/thue-su-dung-dat-phi-nong-nghiep/)**
+11. **[Thuế tài nguyên](/van-ban/de-muc/thue-tai-nguyen/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 11

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dich-quoc-hieu-ten-cac-co-quan-don-vi-va-chuc-danh-la
 # Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại
 
 **Đề mục:** Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế](../chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 2  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -36,7 +36,7 @@ permalink: /van-ban/de-muc/dich-quoc-hieu-ten-cac-co-quan-don-vi-va-chuc-danh-la
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](../chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/van-ban/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

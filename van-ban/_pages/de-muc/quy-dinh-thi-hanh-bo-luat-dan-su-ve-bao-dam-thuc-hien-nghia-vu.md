@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien
 # Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ
 
 **Đề mục:** Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ  
-**Chủ đề:** [Dân sự](../chu-de/dan-su/)  
+**Chủ đề:** [Dân sự](/van-ban/chu-de/dan-su/)  
 **Số điều khoản:** 77  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -786,7 +786,7 @@ permalink: /van-ban/de-muc/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Dân sự](../chu-de/dan-su/)  
+[← Danh sách đề mục của Dân sự](/van-ban/chu-de/dan-su/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

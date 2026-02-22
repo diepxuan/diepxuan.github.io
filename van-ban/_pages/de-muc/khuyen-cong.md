@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/khuyen-cong/
 # Khuyến công
 
 **Đề mục:** Khuyến công  
-**Chủ đề:** [Công nghiệp](../chu-de/cong-nghiep/)  
+**Chủ đề:** [Công nghiệp](/van-ban/chu-de/cong-nghiep/)  
 **Số điều khoản:** 102  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1036,7 +1036,7 @@ permalink: /van-ban/de-muc/khuyen-cong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Công nghiệp](../chu-de/cong-nghiep/)  
+[← Danh sách đề mục của Công nghiệp](/van-ban/chu-de/cong-nghiep/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

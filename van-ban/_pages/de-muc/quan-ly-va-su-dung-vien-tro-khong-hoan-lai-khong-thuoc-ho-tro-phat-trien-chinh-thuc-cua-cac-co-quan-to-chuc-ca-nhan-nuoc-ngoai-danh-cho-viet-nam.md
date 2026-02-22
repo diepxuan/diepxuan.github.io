@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuo
 # Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam
 
 **Đề mục:** Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam  
-**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](../chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 66  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -676,7 +676,7 @@ permalink: /van-ban/de-muc/quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuo
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](../chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước](/van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/luat-su/
 # Luật sư
 
 **Đề mục:** Luật sư  
-**Chủ đề:** [Bổ trợ tư pháp](../chu-de/bo-tro-tu-phap/)  
+**Chủ đề:** [Bổ trợ tư pháp](/van-ban/chu-de/bo-tro-tu-phap/)  
 **Số điều khoản:** 262  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2636,7 +2636,7 @@ permalink: /van-ban/de-muc/luat-su/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bổ trợ tư pháp](../chu-de/bo-tro-tu-phap/)  
+[← Danh sách đề mục của Bổ trợ tư pháp](/van-ban/chu-de/bo-tro-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

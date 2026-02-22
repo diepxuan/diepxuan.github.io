@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quan-ly-thi-truong/
 # Quản lý thị trường
 
 **Đề mục:** Quản lý thị trường  
-**Chủ đề:** [Thương mại, đầu tư, chứng khoán](../chu-de/thuong-mai-dau-tu-chung-khoan/)  
+**Chủ đề:** [Thương mại, đầu tư, chứng khoán](/van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/)  
 **Số điều khoản:** 222  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2236,7 +2236,7 @@ permalink: /van-ban/de-muc/quan-ly-thi-truong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán](../chu-de/thuong-mai-dau-tu-chung-khoan/)  
+[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán](/van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

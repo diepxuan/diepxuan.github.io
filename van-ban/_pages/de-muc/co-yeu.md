@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/co-yeu/
 # Cơ yếu
 
 **Đề mục:** Cơ yếu  
-**Chủ đề:** [An ninh quốc gia](../chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 140  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1416,7 +1416,7 @@ permalink: /van-ban/de-muc/co-yeu/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](../chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

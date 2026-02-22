@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chung-khoan/
 # Chứng khoán
 
 **Đề mục:** Chứng khoán  
-**Chủ đề:** [Thương mại, đầu tư, chứng khoán](../chu-de/thuong-mai-dau-tu-chung-khoan/)  
+**Chủ đề:** [Thương mại, đầu tư, chứng khoán](/van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/)  
 **Số điều khoản:** 1016  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -10176,7 +10176,7 @@ permalink: /van-ban/de-muc/chung-khoan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán](../chu-de/thuong-mai-dau-tu-chung-khoan/)  
+[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán](/van-ban/chu-de/thuong-mai-dau-tu-chung-khoan/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

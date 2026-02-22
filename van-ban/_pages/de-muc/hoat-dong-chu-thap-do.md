@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hoat-dong-chu-thap-do/
 # Hoạt động chữ thập đỏ
 
 **Đề mục:** Hoạt động chữ thập đỏ  
-**Chủ đề:** [Tổ chức chính trị - xã hội, hội](../chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+**Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 105  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1066,7 +1066,7 @@ permalink: /van-ban/de-muc/hoat-dong-chu-thap-do/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](../chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

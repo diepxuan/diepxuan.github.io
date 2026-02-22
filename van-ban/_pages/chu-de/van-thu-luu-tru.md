@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/van-thu-luu-tru/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Công tác văn thư](../de-muc/cong-tac-van-thu/)**
+1. **[Công tác văn thư](/van-ban/de-muc/cong-tac-van-thu/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

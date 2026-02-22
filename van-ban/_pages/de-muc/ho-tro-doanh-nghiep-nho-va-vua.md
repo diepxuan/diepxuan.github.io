@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/ho-tro-doanh-nghiep-nho-va-vua/
 # Hỗ trợ doanh nghiệp nhỏ và vừa
 
 **Đề mục:** Hỗ trợ doanh nghiệp nhỏ và vừa  
-**Chủ đề:** [Doanh nghiệp, hợp tác xã](../chu-de/doanh-nghiep-hop-tac-xa/)  
+**Chủ đề:** [Doanh nghiệp, hợp tác xã](/van-ban/chu-de/doanh-nghiep-hop-tac-xa/)  
 **Số điều khoản:** 487  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4886,7 +4886,7 @@ permalink: /van-ban/de-muc/ho-tro-doanh-nghiep-nho-va-vua/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Doanh nghiệp, hợp tác xã](../chu-de/doanh-nghiep-hop-tac-xa/)  
+[← Danh sách đề mục của Doanh nghiệp, hợp tác xã](/van-ban/chu-de/doanh-nghiep-hop-tac-xa/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
