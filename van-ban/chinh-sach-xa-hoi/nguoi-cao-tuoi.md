@@ -12,7 +12,7 @@ parent: chinh-sach-xa-hoi
 **Đề mục:** Người cao tuổi  
 **Chủ đề:** [Chính sách xã hội](/van-ban/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 166  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

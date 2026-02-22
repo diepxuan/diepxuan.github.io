@@ -12,7 +12,7 @@ parent: thong-ke
 **Đề mục:** Thống kê  
 **Chủ đề:** [Thống kê](/van-ban/thong-ke/)  
 **Số điều khoản:** 661  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

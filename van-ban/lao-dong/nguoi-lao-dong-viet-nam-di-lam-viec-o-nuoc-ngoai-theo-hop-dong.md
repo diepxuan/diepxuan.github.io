@@ -12,7 +12,7 @@ parent: lao-dong
 **Đề mục:** Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng  
 **Chủ đề:** [Lao động](/van-ban/lao-dong/)  
 **Số điều khoản:** 204  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

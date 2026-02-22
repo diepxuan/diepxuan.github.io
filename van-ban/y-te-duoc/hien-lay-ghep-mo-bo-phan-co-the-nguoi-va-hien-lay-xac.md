@@ -12,7 +12,7 @@ parent: y-te-duoc
 **Đề mục:** Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác  
 **Chủ đề:** [Y tế, dược](/van-ban/y-te-duoc/)  
 **Số điều khoản:** 103  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

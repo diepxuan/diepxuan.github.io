@@ -11,7 +11,7 @@ slug: thi-hanh-an
 **Chủ đề:** Thi hành án  
 **Số đề mục:** 4  
 **Số điều khoản:** 1,731  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

@@ -12,7 +12,7 @@ parent: lao-dong
 **Đề mục:** Giáo dục nghề nghiệp  
 **Chủ đề:** [Lao động](/van-ban/lao-dong/)  
 **Số điều khoản:** 1280  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

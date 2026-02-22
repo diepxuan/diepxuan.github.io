@@ -12,7 +12,7 @@ parent: tai-chinh
 **Đề mục:** Thực hành tiết kiệm, chống lãng phí  
 **Chủ đề:** [Tài chính](/van-ban/tai-chinh/)  
 **Số điều khoản:** 143  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

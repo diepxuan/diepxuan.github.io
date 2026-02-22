@@ -12,7 +12,7 @@ parent: chinh-sach-xa-hoi
 **Đề mục:** Ưu đãi người có công với cách mạng  
 **Chủ đề:** [Chính sách xã hội](/van-ban/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 379  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: quoc-phong
 **Đề mục:** Sĩ quan Quân đội nhân dân Việt Nam  
 **Chủ đề:** [Quốc phòng](/van-ban/quoc-phong/)  
 **Số điều khoản:** 289  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

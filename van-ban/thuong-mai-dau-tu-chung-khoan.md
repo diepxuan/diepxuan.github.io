@@ -11,7 +11,7 @@ slug: thuong-mai-dau-tu-chung-khoan
 **Chủ đề:** Thương mại, đầu tư, chứng khoán  
 **Số đề mục:** 7  
 **Số điều khoản:** 4,755  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

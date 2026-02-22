@@ -11,7 +11,7 @@ slug: tai-chinh
 **Chủ đề:** Tài chính  
 **Số đề mục:** 3  
 **Số điều khoản:** 2,273  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

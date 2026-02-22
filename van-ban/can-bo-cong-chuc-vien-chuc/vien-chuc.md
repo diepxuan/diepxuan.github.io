@@ -12,7 +12,7 @@ parent: can-bo-cong-chuc-vien-chuc
 **Đề mục:** Viên chức  
 **Chủ đề:** [Cán bộ, công chức, viên chức](/van-ban/can-bo-cong-chuc-vien-chuc/)  
 **Số điều khoản:** 1805  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

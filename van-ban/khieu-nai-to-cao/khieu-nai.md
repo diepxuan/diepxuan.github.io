@@ -12,7 +12,7 @@ parent: khieu-nai-to-cao
 **Đề mục:** Khiếu nại  
 **Chủ đề:** [Khiếu nại, tố cáo](/van-ban/khieu-nai-to-cao/)  
 **Số điều khoản:** 243  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

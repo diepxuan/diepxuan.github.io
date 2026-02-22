@@ -11,7 +11,7 @@ slug: doanh-nghiep-hop-tac-xa
 **Chủ đề:** Doanh nghiệp, hợp tác xã  
 **Số đề mục:** 3  
 **Số điều khoản:** 1,813  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

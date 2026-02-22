@@ -12,7 +12,7 @@ parent: dan-so-gia-dinh-tre-em-binh-dang-gioi
 **Đề mục:** Dân số  
 **Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 **Số điều khoản:** 115  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

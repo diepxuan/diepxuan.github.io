@@ -12,7 +12,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Đề mục:** Thủ tục bắt giữ tàu bay  
 **Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 66  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

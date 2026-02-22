@@ -12,7 +12,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Đề mục:** Thi hành tạm giữ, tạm giam  
 **Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 212  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

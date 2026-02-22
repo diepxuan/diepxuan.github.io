@@ -12,7 +12,7 @@ parent: quoc-phong
 **Đề mục:** Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc  
 **Chủ đề:** [Quốc phòng](/van-ban/quoc-phong/)  
 **Số điều khoản:** 26  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

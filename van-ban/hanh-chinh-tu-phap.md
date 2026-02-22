@@ -11,7 +11,7 @@ slug: hanh-chinh-tu-phap
 **Chủ đề:** Hành chính tư pháp  
 **Số đề mục:** 5  
 **Số điều khoản:** 604  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

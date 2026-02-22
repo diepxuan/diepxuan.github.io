@@ -11,7 +11,7 @@ slug: thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc
 **Chủ đề:** Thi đua, khen thưởng, các danh hiệu vinh dự nhà nước  
 **Số đề mục:** 0  
 **Số điều khoản:** 0  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

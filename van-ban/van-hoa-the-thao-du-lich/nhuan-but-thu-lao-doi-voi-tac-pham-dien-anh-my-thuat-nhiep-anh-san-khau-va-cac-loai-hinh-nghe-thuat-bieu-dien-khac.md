@@ -12,7 +12,7 @@ parent: van-hoa-the-thao-du-lich
 **Đề mục:** Nhuận bút, thù lao đối với tác phẩm điện ảnh, mỹ thuật, nhiếp ảnh, sân khấu và các loại hình nghệ thuật biểu diễn khác  
 **Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 19  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

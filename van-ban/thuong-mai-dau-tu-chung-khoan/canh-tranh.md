@@ -12,7 +12,7 @@ parent: thuong-mai-dau-tu-chung-khoan
 **Đề mục:** Cạnh tranh  
 **Chủ đề:** [Thương mại, đầu tư, chứng khoán](/van-ban/thuong-mai-dau-tu-chung-khoan/)  
 **Số điều khoản:** 172  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

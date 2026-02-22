@@ -12,7 +12,7 @@ parent: xay-dung-nha-o-do-thi
 **Đề mục:** Kiến trúc  
 **Chủ đề:** [Xây dựng, nhà ở, đô thị](/van-ban/xay-dung-nha-o-do-thi/)  
 **Số điều khoản:** 100  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

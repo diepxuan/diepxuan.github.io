@@ -11,7 +11,7 @@ slug: giao-thong-van-tai
 **Chủ đề:** Giao thông, vận tải  
 **Số đề mục:** 4  
 **Số điều khoản:** 5,246  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 
