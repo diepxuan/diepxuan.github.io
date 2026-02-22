@@ -1,0 +1,13 @@
+INSTRUCTIONS FOR MANUAL FIX
+==================================================
+
+FILE: jsonData.js
+ERROR: Missing closing quote after [6]
+POSITION: ~5,568,331
+
+CONTEXT:
+000000000050001080000000000000000000402587000700000900","TEN":"Điều 14.4.NĐ.3.9. Thông báo hàng hải","ChuDeID":"b82ee309-2527-4a7d-8d4d-fccdfabbc86c","DeMucID":"c9269682-f64e-4a54-a352-98e10cadaf26"},{"ID":"AA4C41EB-CC02-4629-8077-3691D02E64F2","ChiMuc":"10","MAPC":"140040000000000050001080000000000000000000402587000700001000","TEN":"Điều 14.4.NĐ.3.10. Điều kiện đối với doanh nghiệp cung cấp dịch vụ thông báo hàng hải[6]
+
+FIX:
+Find: hàng hải[6],
+Replace with: hàng hải[6]",
