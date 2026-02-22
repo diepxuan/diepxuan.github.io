@@ -2,6 +2,9 @@
 layout: default
 title: Quản lý, sử dụng pháo
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/quan-ly-su-dung-phao/
+collection: subtopics
+slug: quan-ly-su-dung-phao
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Quản lý, sử dụng pháo

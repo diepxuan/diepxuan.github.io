@@ -2,6 +2,9 @@
 layout: default
 title: Trưng mua, trưng dụng tài sản
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/trung-mua-trung-dung-tai-san/
+collection: subtopics
+slug: trung-mua-trung-dung-tai-san
+parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 ---
 
 # Trưng mua, trưng dụng tài sản

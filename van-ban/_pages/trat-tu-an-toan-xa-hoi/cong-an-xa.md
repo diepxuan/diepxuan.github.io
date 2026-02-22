@@ -2,6 +2,9 @@
 layout: default
 title: Công an xã
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
+collection: subtopics
+slug: cong-an-xa
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Công an xã

@@ -2,6 +2,8 @@
 layout: default
 title: Dân số, gia đình, trẻ em, bình đẳng giới
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/
+collection: topics
+slug: dan-so-gia-dinh-tre-em-binh-dang-gioi
 ---
 
 # Dân số, gia đình, trẻ em, bình đẳng giới

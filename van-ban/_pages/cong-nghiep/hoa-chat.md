@@ -2,6 +2,9 @@
 layout: default
 title: Hóa chất
 permalink: /van-ban/cong-nghiep/hoa-chat/
+collection: subtopics
+slug: hoa-chat
+parent: cong-nghiep
 ---
 
 # Hóa chất

@@ -2,6 +2,8 @@
 layout: default
 title: Tài sản công, nợ công, dự trữ nhà nước
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/
+collection: topics
+slug: tai-san-cong-no-cong-du-tru-nha-nuoc
 ---
 
 # Tài sản công, nợ công, dự trữ nhà nước

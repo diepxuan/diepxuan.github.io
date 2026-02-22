@@ -2,6 +2,9 @@
 layout: default
 title: Tố tụng dân sự
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-dan-su/
+collection: subtopics
+slug: to-tung-dan-su
+parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Tố tụng dân sự

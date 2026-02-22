@@ -2,6 +2,9 @@
 layout: default
 title: Dân số
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/dan-so/
+collection: subtopics
+slug: dan-so
+parent: dan-so-gia-dinh-tre-em-binh-dang-gioi
 ---
 
 # Dân số

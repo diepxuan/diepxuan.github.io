@@ -2,6 +2,8 @@
 layout: default
 title: Cán bộ, công chức, viên chức
 permalink: /van-ban/can-bo-cong-chuc-vien-chuc/
+collection: topics
+slug: can-bo-cong-chuc-vien-chuc
 ---
 
 # Cán bộ, công chức, viên chức

@@ -2,7 +2,6 @@
 layout: default
 title: Bộ Pháp điển Điện tử
 permalink: /van-ban/
-layout: page
 ---
 
 # 📚 Bộ Pháp điển Điện tử

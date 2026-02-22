@@ -2,6 +2,9 @@
 layout: default
 title: Thể dục, thể thao
 permalink: /van-ban/van-hoa-the-thao-du-lich/the-duc-the-thao/
+collection: subtopics
+slug: the-duc-the-thao
+parent: van-hoa-the-thao-du-lich
 ---
 
 # Thể dục, thể thao

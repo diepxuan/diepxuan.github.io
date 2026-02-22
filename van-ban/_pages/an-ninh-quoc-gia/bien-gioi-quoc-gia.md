@@ -2,6 +2,9 @@
 layout: default
 title: Biên giới quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/bien-gioi-quoc-gia/
+collection: subtopics
+slug: bien-gioi-quoc-gia
+parent: an-ninh-quoc-gia
 ---
 
 # Biên giới quốc gia

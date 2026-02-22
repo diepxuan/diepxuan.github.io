@@ -2,6 +2,9 @@
 layout: default
 title: Thi hành án hình sự
 permalink: /van-ban/thi-hanh-an/thi-hanh-an-hinh-su/
+collection: subtopics
+slug: thi-hanh-an-hinh-su
+parent: thi-hanh-an
 ---
 
 # Thi hành án hình sự

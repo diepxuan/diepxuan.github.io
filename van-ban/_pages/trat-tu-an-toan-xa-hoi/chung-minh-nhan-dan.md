@@ -2,6 +2,9 @@
 layout: default
 title: Chứng minh nhân dân
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/chung-minh-nhan-dan/
+collection: subtopics
+slug: chung-minh-nhan-dan
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Chứng minh nhân dân

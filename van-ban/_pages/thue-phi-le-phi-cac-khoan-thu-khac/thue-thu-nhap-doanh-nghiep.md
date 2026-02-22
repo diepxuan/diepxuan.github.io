@@ -2,6 +2,9 @@
 layout: default
 title: Thuế thu nhập doanh nghiệp
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-doanh-nghiep/
+collection: subtopics
+slug: thue-thu-nhap-doanh-nghiep
+parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 
 # Thuế thu nhập doanh nghiệp

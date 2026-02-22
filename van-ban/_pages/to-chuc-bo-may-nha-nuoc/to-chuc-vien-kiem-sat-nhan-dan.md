@@ -2,6 +2,9 @@
 layout: default
 title: Tổ chức Viện kiểm sát nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-vien-kiem-sat-nhan-dan/
+collection: subtopics
+slug: to-chuc-vien-kiem-sat-nhan-dan
+parent: to-chuc-bo-may-nha-nuoc
 ---
 
 # Tổ chức Viện kiểm sát nhân dân

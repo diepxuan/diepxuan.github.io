@@ -2,6 +2,8 @@
 layout: default
 title: Đất đai
 permalink: /van-ban/dat-dai/
+collection: topics
+slug: dat-dai
 ---
 
 # Đất đai

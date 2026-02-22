@@ -2,6 +2,9 @@
 layout: default
 title: Quản lý nợ công
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-no-cong/
+collection: subtopics
+slug: quan-ly-no-cong
+parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 ---
 
 # Quản lý nợ công

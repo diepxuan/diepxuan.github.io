@@ -2,6 +2,9 @@
 layout: default
 title: Quốc tịch Việt Nam
 permalink: /van-ban/hanh-chinh-tu-phap/quoc-tich-viet-nam/
+collection: subtopics
+slug: quoc-tich-viet-nam
+parent: hanh-chinh-tu-phap
 ---
 
 # Quốc tịch Việt Nam

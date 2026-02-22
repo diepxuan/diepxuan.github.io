@@ -2,6 +2,8 @@
 layout: default
 title: Dân sự
 permalink: /van-ban/dan-su/
+collection: topics
+slug: dan-su
 ---
 
 # Dân sự

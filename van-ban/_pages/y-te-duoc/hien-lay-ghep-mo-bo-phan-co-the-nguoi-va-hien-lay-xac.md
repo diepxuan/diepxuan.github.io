@@ -2,6 +2,9 @@
 layout: default
 title: Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác
 permalink: /van-ban/y-te-duoc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac/
+collection: subtopics
+slug: hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac
+parent: y-te-duoc
 ---
 
 # Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác

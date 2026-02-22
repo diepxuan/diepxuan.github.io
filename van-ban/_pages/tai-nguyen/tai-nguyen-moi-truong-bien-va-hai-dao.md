@@ -2,6 +2,9 @@
 layout: default
 title: Tài nguyên, môi trường biển và hải đảo
 permalink: /van-ban/tai-nguyen/tai-nguyen-moi-truong-bien-va-hai-dao/
+collection: subtopics
+slug: tai-nguyen-moi-truong-bien-va-hai-dao
+parent: tai-nguyen
 ---
 
 # Tài nguyên, môi trường biển và hải đảo

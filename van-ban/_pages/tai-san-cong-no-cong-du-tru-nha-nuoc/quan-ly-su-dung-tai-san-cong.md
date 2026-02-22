@@ -2,6 +2,9 @@
 layout: default
 title: Quản lý, sử dụng tài sản công
 permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-tai-san-cong/
+collection: subtopics
+slug: quan-ly-su-dung-tai-san-cong
+parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 ---
 
 # Quản lý, sử dụng tài sản công

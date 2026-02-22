@@ -2,6 +2,9 @@
 layout: default
 title: Thực hiện dân chủ ở cơ sở
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-o-co-so/
+collection: subtopics
+slug: thuc-hien-dan-chu-o-co-so
+parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Thực hiện dân chủ ở cơ sở

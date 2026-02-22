@@ -2,6 +2,9 @@
 layout: default
 title: An toàn thực phẩm
 permalink: /van-ban/y-te-duoc/an-toan-thuc-pham/
+collection: subtopics
+slug: an-toan-thuc-pham
+parent: y-te-duoc
 ---
 
 # An toàn thực phẩm

@@ -2,6 +2,9 @@
 layout: default
 title: Cảnh vệ
 permalink: /van-ban/an-ninh-quoc-gia/canh-ve/
+collection: subtopics
+slug: canh-ve
+parent: an-ninh-quoc-gia
 ---
 
 # Cảnh vệ

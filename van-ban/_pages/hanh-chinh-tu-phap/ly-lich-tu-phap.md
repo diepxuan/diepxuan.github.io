@@ -2,6 +2,9 @@
 layout: default
 title: Lý lịch tư pháp
 permalink: /van-ban/hanh-chinh-tu-phap/ly-lich-tu-phap/
+collection: subtopics
+slug: ly-lich-tu-phap
+parent: hanh-chinh-tu-phap
 ---
 
 # Lý lịch tư pháp

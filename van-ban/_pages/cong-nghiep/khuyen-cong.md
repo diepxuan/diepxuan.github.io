@@ -2,6 +2,9 @@
 layout: default
 title: Khuyến công
 permalink: /van-ban/cong-nghiep/khuyen-cong/
+collection: subtopics
+slug: khuyen-cong
+parent: cong-nghiep
 ---
 
 # Khuyến công

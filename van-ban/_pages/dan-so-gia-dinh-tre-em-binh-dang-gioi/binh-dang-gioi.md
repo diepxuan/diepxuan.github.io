@@ -2,6 +2,9 @@
 layout: default
 title: Bình đẳng giới
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/binh-dang-gioi/
+collection: subtopics
+slug: binh-dang-gioi
+parent: dan-so-gia-dinh-tre-em-binh-dang-gioi
 ---
 
 # Bình đẳng giới

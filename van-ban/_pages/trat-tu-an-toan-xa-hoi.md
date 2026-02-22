@@ -2,6 +2,8 @@
 layout: default
 title: Trật tự, an toàn xã hội
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/
+collection: topics
+slug: trat-tu-an-toan-xa-hoi
 ---
 
 # Trật tự, an toàn xã hội

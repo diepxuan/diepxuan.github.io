@@ -2,6 +2,9 @@
 layout: default
 title: Trồng trọt
 permalink: /van-ban/nong-nghiep-nong-thon/trong-trot/
+collection: subtopics
+slug: trong-trot
+parent: nong-nghiep-nong-thon
 ---
 
 # Trồng trọt

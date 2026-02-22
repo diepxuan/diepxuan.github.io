@@ -2,6 +2,8 @@
 layout: default
 title: Môi trường
 permalink: /van-ban/moi-truong/
+collection: topics
+slug: moi-truong
 ---
 
 # Môi trường

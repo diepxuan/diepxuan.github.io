@@ -2,6 +2,9 @@
 layout: default
 title: Năng lượng nguyên tử
 permalink: /van-ban/khoa-hoc-cong-nghe/nang-luong-nguyen-tu/
+collection: subtopics
+slug: nang-luong-nguyen-tu
+parent: khoa-hoc-cong-nghe
 ---
 
 # Năng lượng nguyên tử

@@ -2,6 +2,9 @@
 layout: default
 title: Bảo hiểm y tế
 permalink: /van-ban/bao-hiem/bao-hiem-y-te/
+collection: subtopics
+slug: bao-hiem-y-te
+parent: bao-hiem
 ---
 
 # Bảo hiểm y tế

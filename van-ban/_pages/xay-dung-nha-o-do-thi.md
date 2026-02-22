@@ -2,6 +2,8 @@
 layout: default
 title: Xây dựng, nhà ở, đô thị
 permalink: /van-ban/xay-dung-nha-o-do-thi/
+collection: topics
+slug: xay-dung-nha-o-do-thi
 ---
 
 # Xây dựng, nhà ở, đô thị
