@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Archive directory
+van-ban/phap-dien/scripts/archive/
+
+# Source data directory
+BoPhapDienDienTu/

@@ -10,10 +10,11 @@ permalink: /van-ban/
 
 Hệ thống pháp luật chính thức của Việt Nam, được Bộ Tư pháp công bố.
 
-### Thống kê
+### Thống kê Nội dung
 - **45 Chủ đề** pháp luật
 - **306 Đề mục** chuyên sâu  
 - **76,303 Điều khoản** (chương, điều, khoản, điểm)
+- **72,749 Điều khoản có nội dung** (95.3%)
 
 ## 📋 Danh sách Chủ đề Pháp luật
 

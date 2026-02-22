@@ -12,6 +12,7 @@ parent: van-thu-luu-tru
 **Đề mục:** Công tác văn thư  
 **Chủ đề:** [Văn thư lưu trữ](/van-ban/van-thu-luu-tru/)  
 **Số điều khoản:** 56  
+**Điều khoản có nội dung:** 44/56 (78.6%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: van-thu-luu-tru
 
 **ID:** BF44679B-6E6E-498C-88D2-9EF5C5D93DB2
 
+Nghị định này quy định về công tác văn thư và quản lý nhà nước về công tác văn thư. Công tác văn thư được quy định tại Nghị định này bao gồm: Soạn thảo, ký ban hành văn bản; quản lý văn bản; lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan; quản lý và sử dụng con dấu, thiết bị lưu khóa bí mật trong công tác văn thư.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000100000280256640006000010
 
 **ID:** AE581660-4EF3-4D88-BC64-4C51C64EFF01
+
+1. Thông tư này hướng dẫn chức năng, nhiệm vụ, quyền hạn và tổ chức của tổ chức văn thư, lưu trữ Bộ, cơ quan ngang Bộ.
 
 ---
 
@@ -47,6 +52,8 @@ parent: van-thu-luu-tru
 
 **ID:** 0E0EB46F-C6DF-4A78-BED9-D44D8901D016
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000300000100000000000000000
 
 **ID:** 045825D3-F912-4541-91B8-5D8BAF36FCB6
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -69,6 +78,8 @@ parent: van-thu-luu-tru
 
 **ID:** BCFA3815-C342-4F10-B346-AE2BAFBDAFFC
 
+1. Căn cứ chức năng, nhiệm vụ, quyền hạn và mục đích, nội dung của văn bản cần soạn thảo, người đứng đầu cơ quan, tổ chức hoặc người có thẩm quyền giao cho đơn vị hoặc cá nhân chủ trì soạn thảo văn bản.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000020000020000000000000000001100000000000000000
 
 **ID:** 566CD074-597D-4270-B114-F7FE874D4AB1
+
+1. Bản thảo văn bản phải do người có thẩm quyền ký văn bản duyệt.
 
 ---
 
@@ -91,6 +104,8 @@ parent: van-thu-luu-tru
 
 **ID:** 3EAE34C0-45AE-44DE-9E8F-1D8CBEE20EEA
 
+1. Người đứng đầu đơn vị soạn thảo văn bản phải kiểm tra và chịu trách nhiệm trước người đứng đầu cơ quan, tổ chức và trước pháp luật về nội dung văn bản.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000020000020000000000000000001300000000000000000
 
 **ID:** E9BD6992-EB24-48B4-A619-116C269496D6
+
+1. Cơ quan, tổ chức làm việc theo chế độ thủ trưởng
 
 ---
 
@@ -113,6 +130,8 @@ parent: van-thu-luu-tru
 
 **ID:** 5B441604-8885-45AF-A57E-7BC0FD5C1150
 
+1. Cấp số, thời gian ban hành văn bản.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000010000000000000000001500000000000000000
 
 **ID:** B537893A-6AAF-44A8-BBF0-406AB5CED271
+
+1. Số và thời gian ban hành văn bản được lấy theo thứ tự và trình tự thời gian ban hành văn bản của cơ quan, tổ chức trong năm (bắt đầu liên tiếp từ số 01 vào ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm). Số và ký hiệu văn bản của cơ quan, tổ chức là duy nhất trong một năm, thống nhất giữa văn bản giấy và văn bản điện tử.
 
 ---
 
@@ -135,6 +156,8 @@ parent: van-thu-luu-tru
 
 **ID:** 8040026E-942F-40A0-919D-2D7A75BDEF4D
 
+1. Việc đăng ký văn bản bảo đảm đầy đủ, chính xác các thông tin cần thiết của văn bản đi.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000010000000000000000001700000000000000000
 
 **ID:** ABD82575-7DDD-41F1-9907-FF31C8BA2C80
+
+1. Nhân bản, đóng dấu của cơ quan, tổ chức và dấu chỉ độ mật, mức độ khẩn đối với văn bản giấy
 
 ---
 
@@ -157,6 +182,8 @@ parent: van-thu-luu-tru
 
 **ID:** D8360F37-8233-41E2-9E68-17871212CC16
 
+1. Văn bản đi phải hoàn thành thủ tục tại Văn thư cơ quan và phát hành trong ngày văn bản đó được ký, chậm nhất là trong ngày làm việc tiếp theo. Văn bản khẩn phải được phát hành và gửi ngay sau khi ký văn bản.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000010000000000000000001900000000000000000
 
 **ID:** E38F80F6-A20B-4B05-A55C-A7719834D9DF
+
+1. Lưu văn bản giấy
 
 ---
 
@@ -179,6 +208,8 @@ parent: van-thu-luu-tru
 
 **ID:** 78DA8AEC-6B93-4796-B430-A2C151917884
 
+1. Nghị định này áp dụng đối với cơ quan, tổ chức nhà nước và doanh nghiệp nhà nước (sau đây gọi chung là cơ quan, tổ chức).
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000200000200000000000000000
 
 **ID:** F00BA789-377E-4C74-8213-DB12EAD39B5F
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -201,6 +234,8 @@ parent: van-thu-luu-tru
 
 **ID:** A362CE3B-E7BF-48CF-A808-35D3C92447A4
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000060000350000000000000000000802566400060000200
 
 **ID:** 009ABCD6-D588-451B-B726-3F38E3624E96
+
+1. Tổ chức văn thư, lưu trữ Bộ là Phòng Văn thư - Lưu trữ thuộc Văn phòng Bộ.
 
 ---
 
@@ -223,6 +260,8 @@ parent: van-thu-luu-tru
 
 **ID:** C3A9754F-1A1C-49F8-B7E3-495D35003E78
 
+1. Tiếp nhận văn bản đến.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000020000000000000000002100000000000000000
 
 **ID:** 5BD38D0D-4F90-4E86-B630-4FC4EDB4EA26
+
+1. Đối với văn bản giấy
 
 ---
 
@@ -245,6 +286,8 @@ parent: van-thu-luu-tru
 
 **ID:** 0DEBA77A-F2ED-4B89-86DB-56F69F4F8E99
 
+1. Việc đăng ký văn bản đến phải bảo đảm đầy đủ, rõ ràng, chính xác các thông tin cần thiết theo mẫu Sổ đăng ký văn bản đến hoặc theo thông tin đầu vào của dữ liệu quản lý văn bản đến. Những văn bản đến không được đăng ký tại Văn thư cơ quan thì đơn vị, cá nhân không có trách nhiệm giải quyết, trừ những loại văn bản đến được đăng ký riêng theo quy định của pháp luật.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000020000000000000000002300000000000000000
 
 **ID:** 942E51F1-FCB8-4721-9AA0-47F8803D2583
+
+1. Văn bản phải được Văn thư cơ quan trình trong ngày, chậm nhất là trong ngày làm việc tiếp theo đến người có thẩm quyền chỉ đạo giải quyết và chuyển giao cho đơn vị hoặc cá nhân được giao xử lý. Trường hợp đã xác định rõ đơn vị hoặc cá nhân được giao xử lý, Văn thư cơ quan chuyển văn bản đến đơn vị, cá nhân xử lý theo quy chế công tác văn thư của cơ quan, tổ chức. Văn bản đến có dấu chỉ các mức độ khẩn phải được trình và chuyển giao ngay sau khi nhận được. Việc chuyển giao văn bản phải bảo đảm chính xác và giữ bí mật nội dung văn bản.
 
 ---
 
@@ -267,6 +312,8 @@ parent: van-thu-luu-tru
 
 **ID:** D087136D-ACA8-4B85-BB8B-3A30C9B3180F
 
+1. Người đứng đầu cơ quan, tổ chức có trách nhiệm chỉ đạo giải quyết kịp thời văn bản đến và giao người có trách nhiệm theo dõi, đôn đốc việc giải quyết văn bản đến.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000030000000000000000002500000000000000000
 
 **ID:** 7F41285B-DDAD-4388-9621-44009F246C6D
+
+1. Sao y gồm: Sao y từ văn bản giấy sang văn bản giấy, sao y từ văn bản điện tử sang văn bản giấy, sao y từ văn bản giấy sang văn bản điện tử.
 
 ---
 
@@ -289,6 +338,8 @@ parent: van-thu-luu-tru
 
 **ID:** 7D87BBAA-67FD-4276-9339-8D5D1BA2EB1E
 
+Bản sao y, bản sao lục và bản trích sao được thực hiện theo đúng quy định tại Nghị định này có giá trị pháp lý như bản chính.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000030000030000000000000000002700000000000000000
 
 **ID:** 4EE2B4AC-76A0-4E11-A68D-92444C74AC98
+
+1. Người đứng đầu cơ quan, tổ chức quyết định việc sao văn bản do cơ quan, tổ chức ban hành, văn bản do các cơ quan, tổ chức khác gửi đến và quy định thẩm quyền ký các bản sao văn bản.
 
 ---
 
@@ -311,6 +364,8 @@ parent: van-thu-luu-tru
 
 **ID:** 021358EA-0C58-401E-A35C-F341A3B02A74
 
+Danh mục hồ sơ do người đứng đầu cơ quan, tổ chức phê duyệt, được ban hành vào đầu năm và gửi các đơn vị, cá nhân liên quan làm căn cứ để lập hồ sơ. Mẫu Danh mục hồ sơ được thực hiện theo quy định tại Phụ lục V Nghị định này.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000400002900000000000000000
 
 **ID:** 30F335A3-51EC-4AD3-B946-D40D5CF0AB7F
+
+1. Yêu cầu
 
 ---
 
@@ -333,6 +390,8 @@ parent: van-thu-luu-tru
 
 **ID:** BAB409DF-9FDD-4FA8-A4C2-6839CC905ECE
 
+Trong Nghị định này, những từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000300000300000000000000000
 
 **ID:** 11D4C6AE-157D-4B50-A1B3-FE383C0A208E
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -355,6 +416,8 @@ parent: van-thu-luu-tru
 
 **ID:** 82DC72CE-2ED1-47C2-A072-42F42E50DBBB
 
+1. Phòng Văn thư - Lưu trữ giúp Chánh Văn phòng Bộ thực hiện nhiệm vụ, quyền hạn sau:
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000400003000000000000000000
 
 **ID:** 9F6AAFD3-07C0-4D7C-B5CA-86732B82FAC6
+
+1. Hồ sơ, tài liệu nộp lưu vào Lưu trữ cơ quan phải đủ thành phần, đúng thời hạn và thực hiện theo trình tự, thủ tục quy định.
 
 ---
 
@@ -377,6 +442,8 @@ parent: van-thu-luu-tru
 
 **ID:** 83494BEA-491F-4527-996F-F7999B219C09
 
+1. Người đứng đầu cơ quan, tổ chức trong phạm vi, nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý văn bản, tài liệu của cơ quan, tổ chức; chỉ đạo, kiểm tra, hướng dẫn việc lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000500003200000000000000000
 
 **ID:** 4352E96E-CE90-4452-B740-A3B93936D6C1
+
+1. Người đứng đầu cơ quan, tổ chức có trách nhiệm giao cho Văn thư cơ quan quản lý, sử dụng con dấu, thiết bị lưu khóa bí mật của cơ quan, tổ chức theo quy định.
 
 ---
 
@@ -399,6 +468,8 @@ parent: van-thu-luu-tru
 
 **ID:** FA190F1E-90A0-4EE2-9C8D-5305CB40043E
 
+1. Sử dụng con dấu
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000600003400000000000000000
 
 **ID:** E6717778-7EEC-447D-919E-0333663CCB53
+
+1. Xây dựng, ban hành và chỉ đạo, hướng dẫn thực hiện các văn bản quy phạm pháp luật về công tác văn thư.
 
 ---
 
@@ -421,6 +494,8 @@ parent: van-thu-luu-tru
 
 **ID:** 7DF073A0-1CEB-440F-BAB7-E22041DDFA0D
 
+1. Bộ Nội vụ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác văn thư.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000600003600000000000000000
 
 **ID:** B1B0084F-FD07-4E32-8A58-1B66D48E2F84
+
+1. Các cơ quan, tổ chức có trách nhiệm bố trí kinh phí cho công tác văn thư trong dự toán ngân sách nhà nước hàng năm. Đối với doanh nghiệp nhà nước việc bố trí kinh phí được thực hiện theo quy định hiện hành.
 
 ---
 
@@ -443,6 +520,8 @@ parent: van-thu-luu-tru
 
 **ID:** 6F42E644-8C00-4332-96AD-DAA2FB2D8802
 
+Nghị định này có hiệu lực thi hành kể từ ngày ký. Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư và Nghị định số 09/2010/NĐ-CP ngày 08 tháng 02 năm 2010 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư hết hiệu lực từ ngày Nghị định này có hiệu lực pháp luật.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000700003800000000000000000
 
 **ID:** 70693161-128D-4E09-8C80-E1539AA4F26B
+
+1. Bộ trưởng Bộ Nội vụ có trách nhiệm triển khai thực hiện và kiểm tra việc thi hành Nghị định này.
 
 ---
 
@@ -465,6 +546,8 @@ parent: van-thu-luu-tru
 
 **ID:** BFA58DC9-05DF-47E4-8952-428017AA9642
 
+1. Nguyên tắc
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000060000350000000000000000000802566400060000400
 
 **ID:** E8A0B4CE-CA32-4FA1-8AF5-77AAD1E96595
+
+1. Phòng Văn thư - Lưu trữ gồm có Trưởng phòng, không quá 02 Phó Trưởng phòng và các công chức.
 
 ---
 
@@ -487,6 +572,8 @@ parent: van-thu-luu-tru
 
 **ID:** BAA6F867-EC57-4277-9EF5-D7BFCB67D07D
 
+1. Văn bản điện tử được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật có giá trị pháp lý như bản gốc văn bản giấy.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000700003880256640006000050
 
 **ID:** DDDB931C-E0C0-4FB7-A088-494838E073B7
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2016.
 
 ---
 
@@ -509,6 +598,8 @@ parent: van-thu-luu-tru
 
 **ID:** 2494854E-182F-4B97-8F47-74F26FCC90D5
 
+1. Người đứng đầu cơ quan, tổ chức, trong phạm vi quyền hạn được giao có trách nhiệm chỉ đạo thực hiện đúng quy định về công tác văn thư; chỉ đạo việc nghiên cứu, ứng dụng khoa học và công nghệ vào công tác văn thư.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 4200100000000000700003880256640006000060
 
 **ID:** 3BBD45DC-073C-495A-B3F0-6F2885EEDD98
+
+Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ chịu trách nhiệm thực hiện Thông tư này.
 
 ---
 
@@ -531,6 +624,8 @@ parent: van-thu-luu-tru
 
 **ID:** F559B516-ABAE-4984-B088-EFAFD88CADE0
 
+Văn bản hành chính gồm các loại văn bản sau: Nghị quyết (cá biệt), quyết định (cá biệt), chỉ thị, quy chế, quy định, thông cáo, thông báo, hướng dẫn, chương trình, kế hoạch, phương án, đề án, dự án, báo cáo, biên bản, tờ trình, hợp đồng, công văn, công điện, bản ghi nhớ, bản thỏa thuận, giấy uỷ quyền, giấy mời, giấy giới thiệu, giấy nghỉ phép, phiếu gửi, phiếu chuyển, phiếu báo, thư công.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 420010000000000020000010000000000000000000800000000000000000
 
 **ID:** 4CE6DC87-9E41-4B18-8AA8-3564939A7ABA
+
+1. Thể thức văn bản là tập hợp các thành phần cấu thành văn bản, bao gồm những thành phần chính áp dụng đối với tất cả các loại văn bản và các thành phần bổ sung trong những trường hợp cụ thể hoặc đối với một số loại văn bản nhất định.
 
 ---
 
@@ -553,6 +650,8 @@ parent: van-thu-luu-tru
 
 **ID:** 5F05B187-B98C-4AFB-9534-397152118855
 
+Kỹ thuật trình bày văn bản bao gồm: Khổ giấy, kiểu trình bày, định lề trang, phông chữ, cỡ chữ, kiểu chữ, vị trí trình bày các thành phần thể thức, số trang văn bản. Kỹ thuật trình bày văn bản hành chính được thực hiện theo quy định tại Phụ lục I Nghị định này. Viết hoa trong văn bản hành chính được thực hiện theo quy định tại Phụ lục II Nghị định này. Chữ viết tắt tên loại văn bản hành chính được thực hiện theo quy định tại Phụ lục III Nghị định này.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 42001000000000001000
 
 **ID:** 0ACD74FF-CC91-49C6-9D04-D8AEA9F8AC7C
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -575,6 +676,8 @@ parent: van-thu-luu-tru
 
 **ID:** 23DF80A5-282D-4AA0-946F-BADDCFC813A3
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 42001000000000003000
 
 **ID:** 6BE9DAE2-55D3-4B05-8444-57E0D8B9281D
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -597,6 +702,8 @@ parent: van-thu-luu-tru
 
 **ID:** 8BC05BE0-3F98-42AE-853C-B741628A3388
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: van-thu-luu-tru
 **Mã phân cấp:** 42001000000000005000
 
 **ID:** A5665451-77A6-46F8-BE2F-99A14E76A5D2
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -619,6 +728,8 @@ parent: van-thu-luu-tru
 
 **ID:** 9CE015C7-17B3-440D-9C00-8DC3DBD8C40B
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -630,6 +741,8 @@ parent: van-thu-luu-tru
 
 **ID:** C60FC2C3-0111-4356-A9AB-9CF6FCC46C12
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -640,6 +753,7 @@ parent: van-thu-luu-tru
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 56
+- **Điều khoản có nội dung:** 44 (78.6%)
 - **ID đề mục:** 59750dbc-0ac3-4d75-928e-18983dc7ecf6
 
 ## 🔍 Tìm kiếm

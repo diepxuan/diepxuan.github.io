@@ -12,6 +12,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Đề mục:** Trách nhiệm bồi thường của Nhà nước  
 **Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 190  
+**Điều khoản có nội dung:** 178/190 (93.7%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A8384CC1-EA42-4365-827D-4E2F8CE954AC
 
+Luật này quy định trách nhiệm bồi thường của Nhà nước đối với cá nhân, tổ chức bị thiệt hại do người thi hành công vụ gây ra trong hoạt động quản lý hành chính, tố tụng và thi hành án; thiệt hại được bồi thường; quyền, nghĩa vụ của cá nhân, tổ chức bị thiệt hại; cơ quan giải quyết bồi thường; thủ tục giải quyết yêu cầu bồi thường; phục hồi danh dự; kinh phí bồi thường; trách nhiệm hoàn trả; trách nhiệm của các cơ quan nhà nước trong công tác bồi thường nhà nước.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000240265530068000010
 
 **ID:** A1851C5C-98AA-4571-8AB4-D96DDAFCCED4
+
+Nghị định này quy định chi tiết một số điều của Luật Trách nhiệm bồi thường của Nhà nước (sau đây gọi là Luật) về thiệt hại được bồi thường, thủ tục giải quyết yêu cầu bồi thường, trách nhiệm hoàn trả của người thi hành công vụ gây thiệt hại và một số biện pháp tổ chức thi hành Luật.
 
 ---
 
@@ -47,6 +52,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** ED227738-8BC1-4C98-8602-853047578E3B
 
+Thông tư này ban hành một số biểu mẫu trong công tác giải quyết yêu cầu bồi thường tại cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại, phục hồi danh dự, chi trả tiền bồi thường và việc hoàn trả.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000280271270008000010
 
 **ID:** 78DF0AC2-6545-4531-9A03-8B61912BA26B
+
+1. Thông tư này quy định biện pháp thực hiện chức năng quản lý nhà nước về công tác bồi thường nhà nước của Bộ Tư pháp và Ủy ban nhân dân cấp tỉnh trong hoạt động quản lý hành chính, tố tụng và thi hành án đối với một số nhiệm vụ sau đây:
 
 ---
 
@@ -69,6 +78,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4C6D9D0F-F55A-4853-9317-FC0C89923593
 
+Thông tư này quy định nội dung, trách nhiệm và cách thức thực hiện công tác hỗ trợ, hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000280284800002000010
 
 **ID:** B61EA0F2-4162-4071-8F8F-07B94DB32B99
+
+Thông tư này hướng dẫn thi hành Điều 55 của Luật Trách nhiệm bồi thường của Nhà nước về giải quyết yêu cầu bồi thường trong quá trình tố tụng hình sự, tố tụng hành chính tại Tòa án.
 
 ---
 
@@ -91,6 +104,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5237469C-AD91-4AA8-B659-0F3B5BBE7898
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001000000000000000000
 
 **ID:** BA704550-37B6-4A2D-9FA8-225C35CF886D
+
+Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng dân sự, tố tụng hành chính quy định tại Điều 19 của Luật này bao gồm:
 
 ---
 
@@ -113,6 +130,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 739BC72A-990C-4FCB-BACA-78259E628805
 
+1. Khoảng thời gian để tính chi phí bồi dưỡng sức khỏe cho người bị thiệt hại quy định tại khoản 2 Điều 25 của Luật hoặc quy định tại khoản 2 Điều 26 của Luật được xác định theo số ngày thực tế khám bệnh, chữa bệnh trong hồ sơ bệnh án.
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001000
 
 **ID:** D3939C8E-6719-46E4-8E4B-7DBC223D1941
+
+1. Hằng năm, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao lập danh mục vụ việc giải quyết yêu cầu bồi thường thuộc trách nhiệm giải quyết của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Tòa án quân sự trung ương, Viện kiểm sát quân sự trung ương, Tòa án nhân dân cấp cao, Viện kiểm sát nhân dân cấp cao, cơ quan Điều tra thuộc Viện kiểm sát nhân dân tối cao.
 
 ---
 
@@ -135,6 +156,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4BE01D92-0BF2-46C2-A981-B6AE2EC93C3C
 
+1. Ngay sau khi nhận được văn bản yêu cầu hỗ trợ, hướng dẫn và các tài liệu, giấy tờ có liên quan đến việc yêu cầu bồi thường (nếu có), cơ quan có thẩm quyền hỗ trợ, hướng dẫn vào sổ tiếp nhận, xử lý yêu cầu hỗ trợ, hướng dẫn.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001100000000000000000
 
 **ID:** EEDE198D-222A-4997-AC4D-1042E2C5D8AC
+
+Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án hình sự quy định tại Điều 20 của Luật này bao gồm:
 
 ---
 
@@ -157,6 +182,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** ED472672-A0B6-4CD7-A12D-660832925A8A
 
+1. Người bị thiệt hại bị bắt, tạm giữ, tạm giam, chấp hành hình phạt tù quy định tại điểm b khoản 3 Điều 27 của Luật thì khoảng thời gian được tính kể từ ngày người bị thiệt hại bị bắt, tạm giữ, tạm giam, chấp hành hình phạt tù đến ngày chấp hành xong biện pháp ngăn chặn hoặc được trả tự do hoặc đến ngày chấp hành xong hình phạt tù.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001100
 
 **ID:** 9D17934D-7A57-468D-847B-6FE952028E90
+
+1. Bộ Tư pháp yêu cầu các cơ quan giải quyết bồi thường là Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, các Bộ, Ủy ban nhân dân cấp tỉnh báo cáo về việc giải quyết yêu cầu bồi thường, thực hiện trách nhiệm hoàn trả và xử lý kỷ luật người thi hành công vụ theo quy định tại điểm h khoản 2 Điều 73 của Luật.
 
 ---
 
@@ -179,6 +208,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 76A9235E-BE4B-42BF-B26A-738CFAC7D9E1
 
+1. Việc từ chối yêu cầu hỗ trợ, hướng dẫn được thực hiện trong các trường hợp sau đây:
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001200000000000000000
 
 **ID:** EE7BABE8-C74F-47D1-B1DE-D256DFDA8DDF
+
+Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án dân sự quy định tại Điều 21 của Luật này bao gồm:
 
 ---
 
@@ -201,6 +234,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B046FC36-96AE-4507-BED3-C2172C295030
 
+1. Chi phí thuê phòng nghỉ, chi phí đi lại, in ấn tài liệu, gửi đơn thư quy định tại khoản 1 Điều 28 của Luật được bồi thường trong trường hợp người yêu cầu bồi thường khiếu nại, tố cáo, tham gia tố tụng hoặc yêu cầu bồi thường tại một trong các cơ quan sau đây:
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001200
 
 **ID:** E50A86A2-DC2A-4E37-B9EA-A1664BA3DDE9
+
+1. Trong quá trình giải quyết yêu cầu bồi thường và xác định trách nhiệm hoàn trả, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại có trách nhiệm gửi cơ quan quản lý nhà nước các văn bản quy định tại khoản 7 Điều 15, khoản 4 Điều 43, khoản 5 Điều 48, khoản 3 Điều 49, khoản 4 Điều 50, khoản 3 Điều 51 và khoản 4 Điều 66 của Luật.
 
 ---
 
@@ -223,6 +260,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C54F24C0-9B54-4B26-93C5-53FD0AC2B886
 
+Trong thời hạn 05 ngày làm việc kể từ ngày được cử, người hỗ trợ, hướng dẫn thực hiện việc hỗ trợ, hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước theo trình tự sau đây:
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001300000000000000000
 
 **ID:** 3D9B28F1-09B7-4B64-A1D4-7626A2710D27
+
+1. Người yêu cầu bồi thường là người bị thiệt hại có quyền sau đây:
 
 ---
 
@@ -245,6 +286,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3FE5F2F2-74D6-42A3-829C-884674B1375C
 
+Trường hợp người yêu cầu bồi thường đã nộp hồ sơ yêu cầu bồi thường (sau đây gọi là hồ sơ) đến Sở Tư pháp theo quy định tại khoản 4 Điều 41 của Luật trong thời hiệu yêu cầu bồi thường nhưng tại thời điểm nhận hồ sơ do Sở Tư pháp chuyển đến mà thời hiệu yêu cầu bồi thường đã hết thì cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại phải thụ lý hồ sơ do Sở Tư pháp chuyển đến.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001300
 
 **ID:** B7A2B8C0-73D2-4EFD-B6FF-DADBCD43B7B4
+
+1. Đôn đốc là việc cơ quan quản lý nhà nước yêu cầu một hoặc một số cơ quan thực hiện công tác bồi thường nhà nước đúng quy định của pháp luật về trách nhiệm bồi thường của Nhà nước.
 
 ---
 
@@ -267,6 +312,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9B4AEB08-814B-44B2-AB1D-5DCA108CEAFC
 
+1. Việc phối hợp được thực hiện thông qua trao đổi ý kiến bằng văn bản hoặc họp liên ngành để thống nhất nội dung trước khi hỗ trợ, hướng dẫn.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001400000000000000000
 
 **ID:** B499D2D4-F3BD-4D37-8AF3-2E4B7752F49E
+
+1. Người thi hành công vụ gây thiệt hại có quyền sau đây:
 
 ---
 
@@ -289,6 +338,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 15D0D144-C580-44DA-9464-E7D7AD2BD2EC
 
+1. Việc xác minh thiệt hại được thực hiện theo một hoặc một số cách thức sau đây:
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001400
 
 **ID:** 4B849BAC-CB10-4B1C-8108-FEFE25628351
+
+1. Khiếu nại, tố cáo, kiến nghị, phản ánh của người yêu cầu bồi thường, cơ quan, tổ chức, cá nhân có liên quan về hoạt động giải quyết yêu cầu bồi thường, cấp kinh phí bồi thường và chi trả tiền bồi thường hoặc xác định trách nhiệm hoàn trả.
 
 ---
 
@@ -311,6 +364,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B0796EC4-0C37-4C21-B36E-E6FE6AF3FAB7
 
+1. Việc hỗ trợ, hướng dẫn trực tiếp cho người bị thiệt hại được thực hiện đối với các vụ việc sau đây:
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001500000000000000000
 
 **ID:** 6B3169AA-E028-4D3A-A6D1-D2273C79DD38
+
+1. Tiếp nhận, thụ lý yêu cầu bồi thường.
 
 ---
 
@@ -333,6 +390,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 49FB3B81-380E-47B4-B459-19E23BE92C00
 
+Việc xác minh thiệt hại trong từng trường hợp cụ thể được thực hiện căn cứ vào một hoặc một số loại tài liệu, chứng cứ hợp pháp sau đây:
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001500
 
 **ID:** 5B74537A-C4CB-4F0B-B673-2B372C18B264
+
+1. Trên cơ sở các căn cứ đôn đốc quy định tại Thông tư này, cơ quan quản lý nhà nước có trách nhiệm đôn đốc cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại hoặc đề nghị cơ quan có thẩm quyền thực hiện việc đôn đốc. Việc đôn đốc được thực hiện bằng văn bản. Văn bản đôn đốc phải nêu rõ căn cứ pháp luật và nhiệm vụ công tác bồi thường nhà nước phải thực hiện.
 
 ---
 
@@ -355,6 +416,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FB64D88D-68D4-4C85-8192-EDF31A5290E1
 
+1. Ngay sau khi ban hành văn bản hỗ trợ, hướng dẫn, cơ quan có thẩm quyền phải gửi văn bản hỗ trợ, hướng dẫn qua thư điện tử hoặc dịch vụ bưu chính hoặc trực tiếp cho người bị thiệt hại và cơ quan, tổ chức, cá nhân có liên quan (nếu có).
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100001600000000000000000
 
 **ID:** 5DA8C4BD-E47E-4B30-8EF7-A875CFEBD02F
+
+1. Giả mạo tài liệu, giấy tờ hoặc cung cấp tài liệu, chứng cứ sai sự thật trong hồ sơ yêu cầu bồi thường và trong quá trình giải quyết yêu cầu bồi thường.
 
 ---
 
@@ -377,6 +442,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E318605B-6CD2-4CB2-A275-090E34275248
 
+1. Người giải quyết bồi thường có thể yêu cầu người yêu cầu bồi thường cung cấp tài liệu, chứng cứ làm cơ sở cho việc xác minh thiệt hại trong các trường hợp sau đây:
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001600
 
 **ID:** 50ABF6E7-6386-4BA5-B4B1-A2783D476290
+
+1. Kiểm tra là việc xem xét, đánh giá tính hợp pháp trong việc thực hiện công tác bồi thường nhà nước.
 
 ---
 
@@ -399,6 +468,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 21F80DA5-5391-47A8-AB8D-41B1A6F87D36
 
+Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 01 năm 2020.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000200001700000000000000000
 
 **ID:** 74FFBEF2-964F-49F6-A092-82A6ABE38E96
+
+Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:
 
 ---
 
@@ -421,6 +494,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C9483069-9014-4503-A2B8-A1A7AB6EFA3B
 
+1. Việc định giá tài sản được thực hiện trong các trường hợp sau đây:
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001700
 
 **ID:** 2982359A-B45C-400D-8997-59761E586806
+
+1. Kiến nghị, phản ánh, khiếu nại, tố cáo của cá nhân, cơ quan, tổ chức về công tác bồi thường nhà nước.
 
 ---
 
@@ -443,6 +520,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B050ED24-1738-4A54-A728-2437B2313CEA
 
+1. Cơ quan quản lý nhà nước về công tác bồi thường nhà nước; cơ quan phối hợp quản lý nhà nước về công tác bồi thường nhà nước; cơ quan, tổ chức, cá nhân khác có liên quan đến công tác hỗ trợ, hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước chịu trách nhiệm thi hành Thông tư này.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000200001800000000000000000
 
 **ID:** 966CC9F5-D3F0-4047-B991-1884C732D94B
+
+Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:
 
 ---
 
@@ -465,6 +546,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A11C982A-40F9-4E4A-89A5-ABFB72FBA71C
 
+1. Người giải quyết bồi thường lấy ý kiến bằng văn bản về thiệt hại, mức bồi thường của một hoặc một số cá nhân, tổ chức sau đây:
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080001800
 
 **ID:** F6B576F0-CDBF-419D-BEF0-7B52C15B4102
+
+1. Kiểm tra định kỳ
 
 ---
 
@@ -487,6 +572,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C2243BC7-5080-48CD-85E8-9488159D852C
 
+Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000005000000100000000000000000450000000000000000000402655300680001900
 
 **ID:** 557C4ABB-5FAC-462A-B89E-B933E90AC5BD
+
+1. Vụ việc phức tạp quy định tại khoản 4 Điều 45 của Luật là vụ việc thuộc một trong các trường hợp sau đây:
 
 ---
 
@@ -509,6 +598,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A2482598-BDEE-45DC-874D-542EF9D5C173
 
+1. Trên cơ sở căn cứ quy định tại Điều 17 của Thông tư này, cơ quan quản lý nhà nước xây dựng dự thảo kế hoạch kiểm tra và gửi dự thảo kế hoạch kiểm tra xin ý kiến các cơ quan có liên quan đến nội dung kiểm tra. Dự thảo kế hoạch kiểm tra phải có những nội dung chính sau đây:
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000200000000000000000
 
 **ID:** E07B4F69-E379-4670-81F8-95E536A1A131
+
+Cá nhân, tổ chức bị thiệt hại về vật chất, thiệt hại về tinh thần do người thi hành công vụ gây ra thuộc phạm vi trách nhiệm bồi thường của Nhà nước được quy định tại Luật này.
 
 ---
 
@@ -531,6 +624,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0EB86465-6430-43B2-BB59-02EAC9DCC097
 
+Nghị định này áp dụng đối với cơ quan giải quyết bồi thường, cơ quan quản lý nhà nước về công tác bồi thường nhà nước, người bị thiệt hại, người yêu cầu bồi thường, người giải quyết bồi thường, người thi hành công vụ gây thiệt hại và cơ quan, tổ chức, cá nhân khác có liên quan đến công tác bồi thường nhà nước.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000280265550004000020
 
 **ID:** 5512953A-65CB-404B-9AD7-C3E2B33A10CE
+
+Thông tư này áp dụng đối với cơ quan giải quyết bồi thường, cơ quan quản lý nhà nước về công tác bồi thường nhà nước, người bị thiệt hại, người yêu cầu bồi thường, người giải quyết bồi thường, người thi hành công vụ gây thiệt hại và cơ quan, tổ chức, cá nhân khác có liên quan đến công tác bồi thường nhà nước.
 
 ---
 
@@ -553,6 +650,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7CFA2366-E367-443D-B103-0A9A12FF6ADC
 
+Thông tư này áp dụng đối với đối tượng sau đây:
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000280271270009000020
 
 **ID:** 2DCCAA06-68F8-4723-A992-9A2D07075B42
+
+1. Cơ quan quản lý nhà nước về công tác bồi thường nhà nước;
 
 ---
 
@@ -575,6 +676,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5585DD6D-A120-4A17-BB41-3462CCC35F30
 
+1. Cơ quan tiến hành tố tụng, người tiến hành tố tụng trong vụ án hình sự, vụ án hành chính giải quyết yêu cầu bồi thường thuộc phạm vi trách nhiệm bồi thường của Nhà nước.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000500000020000000000000000
 
 **ID:** 2D90B89B-7638-44E7-B267-788AD49709A6
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -597,6 +702,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4EE52457-CF59-4659-83D6-9022AB44CFF1
 
+Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000005000000100000000000000000450000000000000000000402655300680002000
 
 **ID:** B2C32A5F-28B8-47BB-950C-9BD7B74228A4
+
+Báo cáo xác minh thiệt hại phải có nội dung chính sau đây:
 
 ---
 
@@ -619,6 +728,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 46FE96FA-1575-4489-9AAB-B926A4285630
 
+1. Đoàn kiểm tra gồm có trưởng đoàn và các thành viên. Trưởng đoàn kiểm tra là đại diện lãnh đạo cơ quan kiểm tra. Các thành viên đoàn kiểm tra bao gồm đại diện cơ quan kiểm tra, các cơ quan, đơn vị có liên quan đến nội dung kiểm tra.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000200002100000000000000000
 
 **ID:** 9639FEA7-2114-4DF6-B5A1-B6E014F4C0F3
+
+Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:
 
 ---
 
@@ -641,6 +754,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8B84D5F8-158B-4041-8607-C2953FB80DCF
 
+1. Cơ quan giải quyết bồi thường có thể mời đại diện cơ quan tài chính cùng cấp, các cá nhân, tổ chức khác, yêu cầu người thi hành công vụ gây thiệt hại tham gia thương lượng việc bồi thường theo quy định tại điểm e khoản 3 Điều 46 của Luật trong các trường hợp sau đây:
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080002100
 
 **ID:** 720DD765-FAF9-4639-A653-B25686CDC56A
+
+1. Cơ quan thuộc đối tượng kiểm tra có quyền sau đây:
 
 ---
 
@@ -663,6 +780,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EED0C42E-BF8B-41B3-8CB6-CAEB9A57F984
 
+1. Thiệt hại được bồi thường là thiệt hại thực tế đã phát sinh, các khoản lãi quy định tại các điều 23, 24, 25, 26 và 27 của Luật này và chi phí khác quy định tại Điều 28 của Luật này.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000005000000300000000000000000570000000000000000000402655300680002200
 
 **ID:** DF9592F4-454C-4985-B54E-920E3D964EB6
+
+1. Thông báo bằng văn bảnvề việc Nhà nước tổ chức phục hồi danh dự cho người bị thiệt hại trong hoạt động tố tụng hình sự phải có các nội dung chính sau đây:
 
 ---
 
@@ -685,6 +806,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EF2658B8-B53B-424C-BD70-01A1853A046D
 
+1. Kết thúc hoạt động kiểm tra, trưởng đoàn kiểm tra ban hành kết luận kiểm tra.
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000300002300000000000000000
 
 **ID:** 32C07F36-60CC-4383-9F82-92D5DB6D0384
+
+1. Trường hợp tài sản đã bị phát mại, bị mất thì thiệt hại được xác định căn cứ vào giá thị trường của tài sản cùng loại hoặc tài sản có cùng tính năng, tiêu chuẩn kỹ thuật, tác dụng và mức độ hao mòn của tài sản trên thị trường tại thời điểm quy định tại khoản 2 Điều 22 của Luật này. Thời điểm để xác định hiện trạng tài sản làm căn cứ tính mức bồi thường là thời điểm thiệt hại xảy ra.
 
 ---
 
@@ -707,6 +832,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8D37694B-C8EB-4EA7-B8D9-29C4B93A74D4
 
+1. Cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại có trách nhiệm mời các thành phần tham gia buổi trực tiếp xin lỗi và cải chính công khai sau đây:
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080002300
 
 **ID:** D42DECB3-3B16-4DD3-920B-430451A4A1F9
+
+1. Chậm nhất trong thời hạn 15 ngày, kể từ ngày kết thúc hoạt động kiểm tra, đoàn kiểm tra gửi kết luận kiểm tra cho cơ quan thuộc đối tượng kiểm tra, cơ quan đã ra quyết định kiểm tra.
 
 ---
 
@@ -729,6 +858,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EAD460EF-2D01-4593-BECA-58027077039E
 
+1. Thu nhập thực tế bị mất hoặc bị giảm sút của người bị thiệt hại là cá nhân được xác định như sau:
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000005000000300000000000000000580000000000000000000402655300680002400
 
 **ID:** E7649E84-EF28-452B-A77F-B70C2418A033
+
+Văn bản xin lỗi và cải chính công khai phải có nội dung chính sau đây:
 
 ---
 
@@ -751,6 +884,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CD4DA88D-4894-4B64-B9F4-6D6968F3400A
 
+1. Hằng năm, theo quy định tại điểm đ khoản 3 Điều 73 của Luật, Ủy ban nhân dân cấp tỉnh báo cáo việc thực hiện công tác bồi thường nhà nước. Báo cáo có các nội dung chính sau đây:
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000300002500000000000000000
 
 **ID:** B16F88B6-1A57-44F6-A72B-CF4A846060AF
+
+1. Chi phí khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh cho người bị thiệt hại trước khi chết.
 
 ---
 
@@ -773,6 +910,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5776206E-7834-493B-9DB8-B0D95D3F7F03
 
+1. Cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại là cơ quan giải quyết bồi thường có trách nhiệm đăng báo xin lỗi và cải chính công khai trên 01 tờ báo cấp tỉnh, trừ trường hợp quy định tại khoản 2 Điều này.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080002500
 
 **ID:** 06A9ADD2-8660-437A-8922-D32910595BA0
+
+1. Báo cáo năm về công tác bồi thường nhà nước gồm số liệu thực tế và số liệu ước tính trong kỳ báo cáo.
 
 ---
 
@@ -795,6 +936,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A1E05439-8888-425D-9B3B-50E386DF8A79
 
+1. Chi phí khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh cho người bị thiệt hại.
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000070000650000000000000000000402655300680002600
 
 **ID:** A29E75FC-A911-476B-A8AD-04081EC8B05B
+
+1. Lương của người thi hành công vụ gây thiệt hại để hoàn trả là lương cơ sở nhân với hệ số theo ngạch, bậc theo quy định của pháp luật tại thời điểm có quyết định hoàn trả.
 
 ---
 
@@ -817,6 +962,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9AA6C186-E9C6-43EE-888E-15A06BE58337
 
+1. Hằng năm, Ủy ban nhân dân cấp tỉnh thống kê việc thực hiện công tác bồi thường nhà nước trong hoạt động quản lý hành chính, tố tụng và thi hành án tại địa phương mình đối với các cơ quan sau đây:
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000300002700000000000000000
 
 **ID:** 705B75E2-51FD-4CFD-B6DC-BEB52617DD14
+
+1. Thiệt hại về tinh thần trong trường hợp bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn được xác định là 0,5 ngày lương theo mức lương cơ sở do Nhà nước quy định (sau đây gọi là ngày lương cơ sở) cho 01 ngày bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn.
 
 ---
 
@@ -839,6 +988,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F3D0A4DC-5DB7-434D-86A7-C5ED7B69936E
 
+1. Việc chủ động khắc phục hậu quả là việc người thi hành công vụ gây thiệt hại tự nguyện bồi thường, khắc phục một phần thiệt hạicho người bị thiệt hại.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080002700
 
 **ID:** 8E4A5EA9-2605-4D5D-A9DC-D781C8F28F68
+
+Báo cáo việc thực hiện công tác bồi thường nhà nước được thể hiện dưới hình thức văn bản giấy hoặc văn bản điện tử. Việc gửi báo cáo được thực hiện bằng một trong các phương thức sau:
 
 ---
 
@@ -861,6 +1014,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7938D361-9EA8-4618-82DF-1242A15262D6
 
+1. Các chi phí hợp lý khác được bồi thường bao gồm:
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000070000660000000000000000000402655300680002800
 
 **ID:** 285896BA-8DDD-44CC-A1DB-B4D02D440C0C
+
+1. Trường hợp chỉ có 01 cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại thì trong thời hạn 10 ngày kể từ ngày chi trả xong tiền bồi thường, Thủ trưởng cơ quan đã chi trả tiền bồi thường phải hoàn thành việc thành lập Hội đồng xem xét trách nhiệm hoàn trả (sau đây gọi là Hội đồng).
 
 ---
 
@@ -883,6 +1040,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4923EB39-F896-4E17-A001-8421EF0D1F9D
 
+1. Bộ Tư pháp kiến nghị người có thẩm quyền kháng nghị bản án, quyết định của Tòa án có nội dung giải quyết bồi thường trong các trường hợp sau đây:
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000300002900000000000000000
 
 **ID:** 44C056AA-80D9-469E-9C40-D05A9ACD7E98
+
+1. Ngoài các thiệt hại được bồi thường quy định tại các điều 23, 24, 25, 26, 27 và 28 của Luật này, người bị thiệt hại là cá nhân còn được khôi phục quyền, lợi ích hợp pháp sau đây:
 
 ---
 
@@ -905,6 +1066,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D39ACB23-7384-4247-BF12-F57283B1F4DD
 
+1. Hội đồng chỉ họp khi có ít nhất 2/3 tổng số thành viên Hội đồng theo quyết định thành lập có mặt.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080002900
 
 **ID:** 337EBADB-3BB1-4F79-895A-FA992EB8810D
+
+1. Bộ Tư pháp yêu cầu hủy quyết định giải quyết bồi thường như sau:
 
 ---
 
@@ -927,6 +1092,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 73353380-9CC6-41F9-8A18-A9435F7D26FD
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000030000230000000000000000000402655300680000300
 
 **ID:** 4D44F224-B12C-4D2C-A584-63D30F0C6EB9
+
+1. Giá thị trường của tài sản cùng loại hoặc tài sản có cùng tính năng, tiêu chuẩn kỹ thuật, tác dụng và chất lượng trên thị trường quy định tại khoản 1 Điều 23 của Luật là giá giao dịch phổ biến trung bình trên thị trường của 03 tài sản đó do 03 cơ sở kinh doanh khác nhau trên thị trường cung cấp.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9AA468E3-3684-4F94-AE57-769463825018
 
+1. Tòa án đang giải quyết theo thủ tục sơ thẩm vụ án hình sự có thẩm quyền giải quyết yêu cầu bồi thường thuộc phạm vi trách nhiệm bồi thường của Nhà nước khi vụ án có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000500000030000000000000000
 
 **ID:** 443275DF-B7A3-484B-A3E3-26F8E5E320B8
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -971,6 +1144,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 87D18300-C864-42F3-81E2-61302EDA263C
 
+1. Ban hành 21 biểu mẫu trong công tác bồi thường nhà nước theo danh mục dưới đây:
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080000300
 
 **ID:** FA9A3359-51EE-4B74-81E0-7B3C407812A3
+
+1. Hướng dẫn nghiệp vụ là hoạt động của cơ quan quản lý nhà nước trả lời những đề xuất, kiến nghị của cơ quan giải quyết bồi thường hoặc cơ quan khác có liên quan đến công tác bồi thường nhà nước.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 15690906-6595-45E2-944B-3B7352ABAD14
 
+1. Việc hỗ trợ, hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước phải bảo đảm các nguyên tắc sau đây:
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000300003000000000000000000
 
 **ID:** 64E7423B-3005-4F83-B0AE-B6A0A9B38368
+
+1. Tài sản bị thu giữ, tạm giữ, kê biên, tịch thu trái pháp luật phải được trả lại ngay khi quyết định thu giữ, tạm giữ, kê biên, tịch thu bị hủy bỏ.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0CB64630-35C6-4497-8301-A2E389873641
 
+1. Thời hạn ra quyết định hoàn trả quy định tại khoản 3 Điều 66 của Luật được xác định như sau:
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080003000
 
 **ID:** 03B8F84B-D744-4CBC-9065-519B19C6619E
+
+1. Bộ Tư pháp kiến nghị xem xét lại quyết định hoàn trả, quyết định giảm mức hoàn trả như sau:
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7D36815B-C74F-484F-937E-13B374BA982C
 
+1. Người bị thiệt hại trong hoạt động tố tụng hình sự, công chức bị xử lý kỷ luật buộc thôi việc trái pháp luật, người bị áp dụng các biện pháp xử lý hành chính đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc trái pháp luật thì được phục hồi danh dự.
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000070000690000000000000000000402655300680003100
 
 **ID:** 8C13E9A5-D220-4F00-B3AB-CFE32B83AB6F
+
+1. Trường hợp người thi hành công vụ đã thực hiện xong nghĩa vụ hoàn trả, Thủ trưởng cơ quan trực tiếp quản lý người đó ra quyết định trả lại tiền hoàn trả.
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 42EAF547-A951-4C30-8005-F6A72F85D43E
 
+Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 01 năm 2020.
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000300003200000000000000000
 
 **ID:** 50A1208A-5296-411E-882E-5B6B142E07D6
+
+1. Nhà nước không bồi thường các thiệt hại sau đây:
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 15FF5808-932F-40F2-B061-5828A063E531
 
+1. Bộ Tư pháp là cơ quan đầu mối giúp Chính phủ xác định cơ quan giải quyết bồi thường đối với các trường hợp sau đây:
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000900007880271270008000320
 
 **ID:** 9FAA038E-DD80-4F33-85B6-5172CA8C2B4B
+
+1. Bộ Tư pháp, Ủy ban nhân dân cấp tỉnh, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, các Bộ, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại là cơ quan giải quyết bồi thường và cơ quan, tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D0BB36D5-589F-4D45-BCBE-612D358E2BE5
 
+1. Cơ quan giải quyết bồi thường ở trung ương bao gồm:
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000040000400000000000000000000402655300680003300
 
 **ID:** 9E2A2654-8858-40FA-AF36-7AD62B4FC6A7
+
+1. Trường hợp chỉ có một cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Tư pháp có trách nhiệm gửi hồ sơ cho cơ quan giải quyết bồi thường để thụ lý, giải quyết.
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EB77E5CB-59C1-4C62-B61E-FA2E2EAAEAB5
 
+Cơ quan điều tra hoặc cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra là cơ quan giải quyết bồi thường trong các trường hợp sau đây:
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000402655300680003400
 
 **ID:** BB7F7EC4-DF0C-440E-B669-4573DFC4D981
+
+1. Bộ Tư pháp giúp Chính phủ chủ trì, phối hợp với các cơ quan có liên quan thanh tra, kiểm tra công tác bồi thường nhà nước trong hoạt động quản lý hành chính, tố tụng và thi hành án trên phạm vi cả nước.
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 434C116D-6431-4D90-860F-2AE2EE9851E2
 
+Viện kiểm sát là cơ quan giải quyết bồi thường trong các trường hợp sau đây:
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000402655300680003500
 
 **ID:** 6D00CBB9-B653-4E8C-B0DF-48079956FFE4
+
+1. Báo cáo thống kê
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7BBC216A-357D-4023-AC73-543491179243
 
+1. Tòa án cấp sơ thẩm là cơ quan giải quyết bồi thường trong các trường hợp sau đây:
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000900007840265530068000360
 
 **ID:** 9408A058-AD85-4F09-8861-1D8AF9866251
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2018.
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A6737E2E-03C4-4C82-95E2-6EC1F81CAA48
 
+1. Tòa án có thẩm quyền ra quyết định áp dụng biện pháp khẩn cấp tạm thời quy định tại các khoản 1, 2, 3 và 4 Điều 19 của Luật này là cơ quan giải quyết bồi thường.
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000900007840265530068000370
 
 **ID:** D9FFEAE7-63CE-4A17-BAFD-44EE8F75622D
+
+1. Bộ Tư pháp có trách nhiệm:
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4845EEF3-7544-4A30-9FF9-BC38CB0D066A
 
+1. Cơ quan thi hành án hình sự các cấp trong Công an nhân dân theo quy định của Luật Thi hành án hình sự.
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000400003900000000000000000
 
 **ID:** 0FEECEF4-C179-44BE-A8F7-EFC7F8888BE3
+
+1. Cục Thi hành án dân sự và Chi cục Thi hành án dân sự.
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4E6F3FF5-3300-4411-9FE1-5BEF7B8893B9
 
+1. Việc bồi thường của Nhà nước được thực hiện theo quy định của Luật này.
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000030000220000000000000000000402655300680000400
 
 **ID:** F291D078-3C58-4689-A1E3-B2932BD5774F
+
+1. Khoảng thời gian để tính thu nhập thực tế bị mất quy định tại khoản 3 Điều 23 của Luật do tài sản đã bị phát mại, bị mất được tính từ ngày tài sản bị phát mại, bị mất đến thời điểm thụ lý hồ sơ yêu cầu bồi thường theo quy định tại Điều 43 của Luật hoặc đến thời điểm Tòa án cấp sơ thẩm xác định giá trị thiệt hại đối với trường hợp quy định tại khoản 1 Điều 52 và Điều 55 của Luật (sau đây gọi là thời điểm thụ lý, giải quyết).
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4CC034E7-9225-4771-8D94-DE565AB05745
 
+1. Người quy định tại Điều 5 của Luật Trách nhiệm bồi thường của Nhà nước có quyền yêu cầu Tòa án có thẩm quyền giải quyết vụ án hình sự hướng dẫn tại khoản 1 Điều 3 Thông tư này giải quyết yêu cầu bồi thường thuộc phạm vi trách nhiệm bồi thường của Nhà nước. Yêu cầu bồi thường phải được đưa ra trước khi Hội đồng xét xử vào phòng nghị án.
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080000400
 
 **ID:** 1AF05C53-A97E-4A03-8321-06DE16EFAAB6
+
+1. Bộ Tư pháp hướng dẫn nghiệp vụ trong các trường hợp sau đây:
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 10F63EE8-07C9-4968-A39A-C086447E810A
 
+Các nội dung hỗ trợ người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước bao gồm:
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000900007880265550004000040
 
 **ID:** 0FD45E9D-FC6A-4128-99C4-5307DACB0083
+
+Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2018.
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 49AE7024-9C95-4CA0-A2FB-241760DE88A9
 
+1. Trường hợp cơ quan giải quyết bồi thường là cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại thì việc xác định cơ quan giải quyết bồi thường trong một số trường hợp cụ thể được quy định như sau:
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000001000000000000000004100000000000000000
 
 **ID:** 72309018-376C-4D73-B5C1-7D4B94D25618
+
+1. Trường hợp người bị thiệt hại trực tiếp yêu cầu bồi thường thì hồ sơ yêu cầu bồi thường (sau đây gọi là hồ sơ) bao gồm:
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B6DDD808-895F-4718-9F30-F76E57ADCAF2
 
+1. Cơ quan giải quyết bồi thường tiếp nhận hồ sơ, ghi vào sổ nhận hồ sơ và cấp giấy xác nhận đã nhận hồ sơ cho người yêu cầu bồi thường trong trường hợp người yêu cầu bồi thường nộp hồ sơ trực tiếp. Trường hợp hồ sơ được gửi qua dịch vụ bưu chính thì trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan giải quyết bồi thường phải thông báo bằng văn bản về việc nhận hồ sơ cho người yêu cầu bồi thường.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000001000000000000000004300000000000000000
 
 **ID:** 2B5A7E1B-2091-4569-80BC-B0E31BB54A98
+
+1. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ theo quy định tại Điều 41 của Luật này, cơ quan giải quyết bồi thường phải thụ lý hồ sơ và vào sổ thụ lý, trừ trường hợp quy định tại khoản 2 Điều này.
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7F3D98A5-7379-4BE0-A6F3-B9C04D4E4EB8
 
+1. Theo đề nghị của người yêu cầu bồi thường quy định tại điểm e khoản 3 Điều 41 của Luật này, cơ quan giải quyết bồi thường tạm ứng kinh phí bồi thường đối với những thiệt hại sau đây:
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000001000000000000000004500000000000000000
 
 **ID:** DC2C2424-96B9-45C2-B4D9-3DD26FC8F42E
+
+1. Người giải quyết bồi thường có trách nhiệm thực hiện việc xác minh các thiệt hại được yêu cầu trong hồ sơ. Trong trường hợp cần thiết, người giải quyết bồi thường có thể yêu cầu người yêu cầu bồi thường, cá nhân, tổ chức khác có liên quan cung cấp tài liệu, chứng cứ làm cơ sở cho việc xác minh thiệt hại, đề nghị định giá tài sản, giám định thiệt hại hoặc lấy ý kiến của cá nhân, tổ chức có liên quan về thiệt hại, mức bồi thường.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 500C7E67-C18E-4CAC-BEAA-834F32F0C779
 
+1. Trong thời hạn 02 ngày làm việc kể từ ngày hoàn thành báo cáo xác minh thiệt hại, cơ quan giải quyết bồi thường phải tiến hành thương lượng việc bồi thường. Trong thời hạn 10 ngày kể từ ngày tiến hành thương lượng, việc thương lượng phải được hoàn thành. Trường hợp vụ việc giải quyết yêu cầu bồi thường có nhiều tình tiết phức tạp thì thời hạn thương lượng tối đa là 15 ngày.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000001000000000000000004700000000000000000
 
 **ID:** 41DBDD27-BFC4-4463-BB2A-F88853517AA6
+
+1. Ngay sau khi có biên bản kết quả thương lượng thành, Thủ trưởng cơ quan giải quyết bồi thường ra quyết định giải quyết bồi thường và trao cho người yêu cầu bồi thường tại buổi thương lượng.
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D6B1D661-CF5D-498A-9342-126E5174A025
 
+1. Thủ trưởng cơ quan giải quyết bồi thường ra quyết định hủy quyết định giải quyết bồi thường và đình chỉ giải quyết yêu cầu bồi thường trong thời hạn 02 ngày làm việc kể từ ngày có một trong các căn cứ sau đây:
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000001000000000000000004900000000000000000
 
 **ID:** 14D66BB7-1B8F-43D7-8E24-9B3C3703E0D4
+
+1. Thủ trưởng cơ quan giải quyết bồi thường ra quyết định hoãn giải quyết bồi thường trong thời hạn 02 ngày làm việc kể từ ngày người yêu cầu bồi thường đề nghị cơ quan giải quyết bồi thường hoãn giải quyết yêu cầu bồi thường do ốm nặng có xác nhận của cơ sở y tế từ cấp huyện trở lên hoặc có lý do chính đáng khác mà không thể tự mình tham gia vào quá trình giải quyết yêu cầu bồi thường.
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1759D1A1-D554-4B7F-8C90-B28A6D8B8C84
 
+Những người sau đây có quyền yêu cầu Nhà nước bồi thường:
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000030000220000000000000000000402655300680000500
 
 **ID:** B820FFE1-C4A3-45E7-AC92-6CF676999DC3
+
+1. Khoảng thời gian tiền lương, tiền công bị mất hoặc bị giảm sút quy định tại điểm a và điểm b khoản 1 Điều 24 của Luật được tính từ ngày không được nhận tiền lương, tiền công hoặc từ ngày tiền lương, tiền công bị giảm sút đến ngày được nhận đủ tiền lương, tiền công, trừ trường hợp quy định tại Điều 6, 7, 8 và 9 Nghị định này.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7EAE5DDD-E7E5-4BD5-AB12-49A29BE94D9C
 
+1. Tòa án được hướng dẫn tại Điều 3 Thông tư này có thẩm quyền xác định hành vi trái pháp luật của người thi hành công vụ gây thiệt hại thuộc phạm vi trách nhiệm bồi thường của Nhà nước.
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080000500
 
 **ID:** C080D980-54E1-4909-A0AC-3DD84E04E36A
+
+1. Việc hướng dẫn nghiệp vụ được thực hiện bằng văn bản trên cơ sở yêu cầu bằng văn bản của cơ quan đề nghị hướng dẫn hoặc được thực hiện trực tiếp tại cơ quan giải quyết bồi thường hoặc tại cơ quan quản lý nhà nước về công tác bồi thường nhà nước tại địa phương nơi phát sinh vụ việc. Văn bản hướng dẫn nghiệp vụ phải nêu rõ căn cứ pháp luật và các nội dung hướng dẫn.
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 144EF18E-34A1-4EAD-BB56-B2D7D7A2AE68
 
+Bộ Tư pháp hỗ trợ người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước theo các nội dung quy định tại Điều 4 của Thông tư này như sau:
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000900007880265550004000050
 
 **ID:** 7893527D-451A-43CC-97A4-7D2248A20F2C
+
+1. Các cơ quan, tổ chức, cá nhân quy định tại Điều 2 chịu trách nhiệm thi hành Thông tư này.
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 75A74050-7391-408C-83C5-99F06A775DEE
 
+1. Thủ trưởng cơ quan giải quyết bồi thường ra quyết định tạm đình chỉ giải quyết bồi thường trong thời hạn 01 ngày làm việc kể từ ngày có một trong các căn cứ sau đây:
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000001000000000000000005100000000000000000
 
 **ID:** 4C096449-92F1-493D-8435-EC71928CF45E
+
+1. Thủ trưởng cơ quan giải quyết bồi thường ra quyết định đình chỉ giải quyết bồi thường trong thời hạn 05 ngày làm việc kể từ ngày có một trong các căn cứ sau đây:
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** BE9620FF-D2E7-42A4-9866-DE4A0EC6AC2E
 
+1. Trong thời hạn 03 năm kể từ ngày nhận được văn bản làm căn cứ yêu cầu bồi thường, người yêu cầu bồi thường có quyền khởi kiện yêu cầu Tòa án giải quyết yêu cầu bồi thường trong các trường hợp sau đây:
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000002000000000000000005300000000000000000
 
 **ID:** 0352D0EE-C4F8-4E09-A893-B62D0B115E8F
+
+1. Tòa án nhân dân cấp huyện nơi cư trú, làm việc của người yêu cầu bồi thường hoặc nơi đặt trụ sở của bị đơn theo lựa chọn của người yêu cầu bồi thường là Tòa án có thẩm quyền xét xử sơ thẩm yêu cầu bồi thường trong trường hợp bị đơn là các cơ quan sau đây:
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 180A719B-0CC1-4997-A307-7CBDAD2DBA43
 
+1. Cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại có trách nhiệm chi trả tiền bồi thường cho người yêu cầu bồi thường theo bản án, quyết định có hiệu lực pháp luật của Tòa án về giải quyết yêu cầu bồi thường.
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000002000000000000000005500000000000000000
 
 **ID:** 079B2F46-CDC5-40F2-821F-060BEA2CE0CD
+
+1. Việc giải quyết vụ án hình sự, vụ án hành chính có nội dung yêu cầu bồi thường được thực hiện theo quy định của pháp luật về tố tụng hình sự, tố tụng hành chính.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3076DD5B-CE25-41D5-8368-CAAB85999969
 
+1. Việc phục hồi danh dự đối với người bị thiệt hại trong hoạt động tố tụng hình sự được thực hiện bằng các hình thức sau đây:
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000003000000000000000005700000000000000000
 
 **ID:** 6B81E16D-9FD2-49E5-AECD-D19AEC273138
+
+1. Trong thời hạn 15 ngày kể từ ngày có văn bản làm căn cứ yêu cầu bồi thường hoặc kể từ ngày có bản án, quyết định quy định tại Điều 55 của Luật này có hiệu lực pháp luật, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại có trách nhiệm thông báo bằng văn bản cho người bị thiệt hại về việc Nhà nước tổ chức thực hiện phục hồi danh dự.
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 20652CBB-4B95-4BD9-9BF2-66C1E76CA895
 
+1. Việc tổ chức trực tiếp xin lỗi và cải chính công khai quy định tại điểm a khoản 1 Điều 56 của Luật này được thực hiện như sau:
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000050000003000000000000000005900000000000000000
 
 **ID:** A82B1B47-83AC-41EE-80C0-4943007F3E89
+
+1. Việc đăng báo xin lỗi và cải chính công khai quy định tại điểm b khoản 1 và khoản 2 Điều 56 của Luật này được thực hiện như sau:
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9D6624E2-3909-49EF-BE4B-C24914F04BF2
 
+1. Thời hiệu yêu cầu bồi thường là 03 năm kể từ ngày người có quyền yêu cầu bồi thường quy định tại các khoản 1, 2 và 3 Điều 5 của Luật này nhận được văn bản làm căn cứ yêu cầu bồi thường, trừ trường hợp quy định tại khoản 2 Điều 52 của Luật này và trường hợp yêu cầu phục hồi danh dự.
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000030000220000000000000000000402655300680000600
 
 **ID:** CDB46F54-EDDB-45FC-9E60-DED29C6A34E1
+
+1. Khoảng thời gian làm căn cứ xác định tiền lương, tiền công bị mất hoặc bị giảm sút quy định tại điểm a và điểm b khoản 1 Điều 24 của Luật được tính từ ngày người bị thiệt hại bị đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc, bị áp dụng biện pháp tạm giữ người theo thủ tục hành chính đến ngày chấp hành xong biện pháp đó.
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 95A14C9F-0A28-47B9-96F3-E8413C1677CE
 
+1. Ngay sau khi nhận được yêu cầu bồi thường, Thẩm phán, Hội đồng xét xử phải thu thập tài liệu, chứng cứ có liên quan, xem xét, đánh giá khách quan, toàn diện, đầy đủ, chính xác tài liệu, chứng cứ đã thu thập để xác định thiệt hại nhanh chóng, theo đúng quy định của pháp luật.
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700080000600
 
 **ID:** 51CC0752-C2B1-46BB-B174-76DD3C6DBA61
+
+1. Bộ Tư pháp chủ động thực hiện việc hướng dẫn nghiệp vụ, giải đáp vướng mắc. Trong trường hợp cần thống nhất nội dung trước khi hướng dẫn nghiệp vụ, giải đáp vướng mắc thì Bộ Tư pháp chủ trì, phối hợp với các cơ quan có liên quan thực hiện theo quy định tại khoản 2 của Điều này.
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 62214BA0-5902-49FC-8BC2-584A7747E148
 
+Việc hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước được thực hiện đối với vụ việc đã có văn bản làm căn cứ yêu cầu bồi thường. Nội dung hướng dẫn bao gồm:
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000600006000000000000000000
 
 **ID:** 52FC6A88-0760-4544-875F-0CA43A6A7CA0
+
+1. Nhà nước có trách nhiệm bố trí một khoản kinh phí trong ngân sách nhà nước để thực hiện trách nhiệm bồi thường của Nhà nước. Kinh phí bồi thường bao gồm:
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9B02C286-5361-4022-964E-5C17DC1F47B6
 
+1. Hằng năm, căn cứ thực tế số tiền bồi thường, chi phí cho việc định giá tài sản, giám định thiệt hại đã cấp phát của năm trước, Bộ Tài chính lập dự toán kinh phí bồi thường của cơ quan giải quyết bồi thường được bảo đảm kinh phí hoạt động từ ngân sách trung ương, báo cáo Chính phủ trình Quốc hội xem xét, quyết định theo quy định của pháp luật về ngân sách nhà nước.
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000600006200000000000000000
 
 **ID:** 01A07502-605E-47CE-8EBF-7A714515BAAF
+
+1. Trong thời hạn 02 ngày làm việc kể từ ngày quyết định giải quyết bồi thường hoặc bản án, quyết định của Tòa án về giải quyết yêu cầu bồi thường có hiệu lực pháp luật, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại phải gửi hồ sơ đề nghị cấp kinh phí bồi thường đến cơ quan tài chính có thẩm quyền.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EADF4B59-F83B-46A0-AC73-C607536AFD06
 
+1. Sau khi chi trả tiền bồi thường cho người bị thiệt hại, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại có trách nhiệm gửi giấy tờ, tài liệu có liên quan đến việc chi trả tiền bồi thường cho cơ quan tài chính đã cấp phát kinh phí để quyết toán theo quy định của pháp luật.
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000700006400000000000000000
 
 **ID:** 32C24C25-27FA-403C-814A-11146F6E8288
+
+1. Người thi hành công vụ có lỗi gây thiệt hại có nghĩa vụ hoàn trả cho ngân sách nhà nước một phần hoặc toàn bộ số tiền mà Nhà nước đã bồi thường cho người bị thiệt hại.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 70D4A338-2EFA-49C5-B9C5-9D01E9F994F0
 
+1. Căn cứ xác định mức hoàn trả bao gồm:
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000700006600000000000000000
 
 **ID:** 22745852-2FAB-497D-A0E7-97791015BEEA
+
+1. Trong thời hạn 10 ngày kể từ ngày chi trả xong tiền bồi thường, Thủ trưởng cơ quan đã chi trả tiền bồi thường thành lập Hội đồng xem xét trách nhiệm hoàn trả. Trường hợp có nhiều người thi hành công vụ thuộc nhiều cơ quan khác nhau gây thiệt hại, Hội đồng xem xét trách nhiệm hoàn trả phải có sự tham gia của đại diện các cơ quan liên quan đến việc gây thiệt hại.
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 76EBCC74-EB1F-43D0-A49B-C66E3472FF14
 
+1. Quyết định hoàn trả, quyết định giảm mức hoàn trả có hiệu lực kể từ ngày ký.
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000700006800000000000000000
 
 **ID:** 84611CF5-21B2-4D34-8410-72708A178121
+
+1. Việc hoàn trả có thể được thực hiện một lần hoặc nhiều lần và phải được xác định trong quyết định hoàn trả.
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 69D8B8FB-B3B9-4340-A190-BC819234478A
 
+1. Trường hợp văn bản làm căn cứ yêu cầu bồi thường bị cơ quan nhà nước có thẩm quyền xác định không còn là căn cứ yêu cầu bồi thường mà người thi hành công vụ gây thiệt hại đã hoàn trả thì cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại có trách nhiệm trả lại số tiền mà người đó đã hoàn trả.
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000700000000000000000
 
 **ID:** 458CADBA-0C14-441B-8B9E-5CE0263E7916
+
+1. Nhà nước có trách nhiệm bồi thường khi có đủ các căn cứ sau đây:
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B24F7B19-0E2E-4CF2-9EF2-D888F099D25D
 
+Khoảng thời gian làm căn cứ xác định tiền lương bị mất hoặc bị giảm sút của người bị thiệt hại là công chức từ Tổng Cục trưởng và tương đương trở xuống bị xử lý kỷ luật buộc thôi việc trái pháp luật được xác định trong các trường hợp sau đây:
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000005000000200000000000000000550000000000000000000802848000020000700
 
 **ID:** C9A7682D-B0FB-423F-BA26-0528C626338C
+
+1. Trường hợp xác định hành vi của người thi hành công vụ là trái pháp luật và thuộc phạm vi trách nhiệm bồi thường của Nhà nước nhưng chưa có đầy đủ tài liệu, chứng cứ để giải quyết yêu cầu bồi thường thì Hội đồng xét xử tách yêu cầu bồi thường để giải quyết bằng vụ án khác. Người yêu cầu bồi thường có quyền khởi kiện yêu cầu Tòa án có thẩm quyền giải quyết yêu cầu bồi thường theo thủ tục tố tụng dân sự sau khi bản án, quyết định giải quyết vụ án hình sự, hành chính có hiệu lực pháp luật. Việc tách yêu cầu bồi thường phải bảo đảm không làm ảnh hưởng đến việc giải quyết vụ án hình sự, vụ án hành chính.
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 830D417C-691F-4F4A-9BD1-487E67371AFD
 
+1. Việc phối hợp được thực hiện thông qua trao đổi ý kiến bằng văn bản hoặc họp liên ngành để thống nhất nội dung trước khi hướng dẫn nghiệp vụ, giải đáp vướng mắc.
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700090000700
 
 **ID:** 223BD8F2-2F49-4996-956E-B366094B9EF8
+
+1. Bộ Tư pháp hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước theo quy định tại Điều 6 Thông tư này trong các trường hợp sau đây:
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 90035C53-7277-4CF9-B6CF-CF97A336CF34
 
+1. Cơ quan, tổ chức đang trực tiếp quản lý, sử dụng, trả lương cho người thi hành công vụ gây thiệt hại có trách nhiệm thu tiền hoàn trả theo quyết định hoàn trả.
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000700007100000000000000000
 
 **ID:** F294D54A-77CD-42DE-9712-7DE9920A84DF
+
+1. Cơ quan Bảo hiểm xã hội đang trả lương hưu cho người thi hành công vụ gây thiệt hại có trách nhiệm thu tiền theo quyết định hoàn trả và nộp đầy đủ, kịp thời vào ngân sách nhà nước.
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** BA8E2DD9-141D-4564-8B9E-C7345C35659F
 
+Trường hợp người thi hành công vụ gây thiệt hại chết thì quyết định hoàn trả chấm dứt hiệu lực tại thời điểm người đó chết.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000800007300000000000000000
 
 **ID:** CB4A1217-E6F3-45CB-BB9D-FE8ABDC237E5
+
+1. Chính phủ thống nhất quản lý nhà nước về công tác bồi thường nhà nước trong hoạt động quản lý hành chính, tố tụng và thi hành án trên phạm vi cả nước.
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 240A7BD8-F057-4EC9-8445-A3F32BF19064
 
+Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi chức năng, nhiệm vụ và quyền hạn của mình có trách nhiệm:
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000800007500000000000000000
 
 **ID:** A6F7AE66-1F32-4D20-AABD-551C4D1EA181
+
+Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ và quyền hạn của mình có trách nhiệm:
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4B7D8D8A-B447-487C-A601-AEAD32DC04A7
 
+1. Cơ quan giải quyết bồi thường không thu các khoản án phí, lệ phí và các loại phí khác đối với nội dung yêu cầu bồi thường thuộc phạm vi trách nhiệm bồi thường của Nhà nước theo quy định của Luật này.
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000900007700000000000000000
 
 **ID:** 87DD613C-BE09-4F79-8AC0-CDEE45AA5156
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2018.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A88C458C-B429-4019-B8C6-08B0C1A37FFA
 
+1. Các trường hợp yêu cầu bồi thường đã được cơ quan giải quyết bồi thường thụ lý trước thời điểm Luật này có hiệu lực thi hành nhưng chưa giải quyết hoặc đang giải quyết thì tiếp tục áp dụng quy định của Luật Trách nhiệm bồi thường của Nhà nước số 35/2009/QH12 để giải quyết.
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700800000000000100000800000000000000000
 
 **ID:** 503F003B-E2F8-496A-A696-926696C4C435
+
+Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động quản lý hành chính quy định tại Điều 17 của Luật này bao gồm:
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 20D8DBED-8D90-4C4E-A3A5-42CB7560F978
 
+1. Khoảng thời gian làm căn cứ xác định tiền lương, tiền công bị mất hoặc bị giảm sút quy định tại điểm a và điểm b khoản 1 Điều 24 của Luật của người bị thiệt hại trong hoạt động tố tụng hình sự được xác định trong các trường hợp sau đây:
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000005000000200000000000000000550000000000000000000802848000020000800
 
 **ID:** A23A8F34-338A-4BAD-AF68-03C7CAB99286
+
+Bản án hình sự, bản án hành chính giải quyết yêu cầu bồi thường thuộc phạm vi trách nhiệm bồi thường của Nhà nước phải có các nội dung sau đây:
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 40FF90EF-7F26-4F91-B94D-ED867D492148
 
+1. Theo dõi công tác bồi thường nhà nước là việc các cơ quan quản lý nhà nước thực hiện việc nắm bắt thông tin đối với các vụ việc yêu cầu bồi thường, giải quyết bồi thường và thực hiện trách nhiệm hoàn trả của người thi hành công vụ gây thiệt hại.
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700090000800
 
 **ID:** 1B0AC650-9537-4E33-AEA3-72E7FAF848CF
+
+1. Trong trường hợp cần thống nhất nội dung hỗ trợ, hướng dẫn thì cơ quan có thẩm quyền hỗ trợ, hướng dẫn chủ trì, phối hợp với các cơ quan có liên quan thực hiện theo quy định tại khoản 2 hoặc khoản 3 của Điều này.
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D43823B5-A7E6-4CA1-9CF6-D0262654D195
 
+Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng hình sự quy định tại Điều 18 của Luật này bao gồm:
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000030000220000000000000000000402655300680000900
 
 **ID:** CBC13257-5CDB-4EA7-936A-E1FB34B85A3B
+
+1. Khoảng thời gian làm căn cứ xác định tiền lương, tiền công bị mất hoặc bị giảm sút quy định tại điểm a và điểm b khoản 1 Điều 24 của Luật của người bị thiệt hại mất hoặc suy giảm khả năng lao động có tham gia đóng bảo hiểm xã hội được xác định trong các trường hợp sau đây:
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 69003D91-5B52-42F9-B8B7-AFCEEC3EB165
 
+1. Căn cứ thực hiện theo dõi công tác bồi thường nhà nước
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370080000000000080000730000000000000000000802712700090000900
 
 **ID:** 62F8F010-2B9A-4C2E-AB68-7BDC43C7C142
+
+1. Việc hỗ trợ, hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước căn cứ vào văn bản yêu cầu hỗ trợ, hướng dẫn của người bị thiệt hại.
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 35526AE5-339E-4E29-AC6D-B8CAB2073B1B
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 10 năm 2023.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000001000
 
 **ID:** EF405035-9C06-47DF-A728-6FF7DB8E2F47
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0F6B0695-3970-4AA0-AD72-7CCF20C7D7BA
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000003000
 
 **ID:** EDBB218B-164C-4B3E-9F32-0DBCA109F023
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8C1BAA60-A2DB-49BC-9967-1CCFB18CECF0
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000009000
 
 **ID:** 3F17D29F-8933-4EC9-BBF0-B1E36094F77B
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C9F48728-296D-4BEE-A841-C5230E1C2C27
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37008000000000006000
 
 **ID:** 0CD1628D-20E2-4FFE-A2B7-1ABE8C82850A
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0E356754-9355-49DD-B388-C0CAFF617193
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2104,6 +2483,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CD8DA5BA-5001-48D5-9473-7A7AE45E4F8B
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2114,6 +2495,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 190
+- **Điều khoản có nội dung:** 178 (93.7%)
 - **ID đề mục:** 6d281129-df44-468d-91ef-0e75fa435310
 
 ## 🔍 Tìm kiếm

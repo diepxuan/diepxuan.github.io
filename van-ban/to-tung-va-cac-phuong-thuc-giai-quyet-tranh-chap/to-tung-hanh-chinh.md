@@ -12,6 +12,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Đề mục:** Tố tụng hành chính  
 **Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 482  
+**Điều khoản có nội dung:** 449/482 (93.2%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 251978AF-A76E-44AC-8DA2-C7B6B8A48D7C
 
+Luật Tố tụng hành chính quy định những nguyên tắc cơ bản trong tố tụng hành chính; nhiệm vụ, quyền hạn và trách nhiệm của cơ quan tiến hành tố tụng, người tiến hành tố tụng; quyền và nghĩa vụ của người tham gia tố tụng, cơ quan, tổ chức, cá nhân có liên quan; trình tự, thủ tục khởi kiện, giải quyết vụ án hành chính, thi hành án hành chính và giải quyết khiếu nại, tố cáo trong tố tụng hành chính.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100000240258700071000010
 
 **ID:** BF07182B-FF38-4BFA-972C-8D7DBC8C7B4B
+
+Nghị định này quy định thời hạn, trình tự, thủ tục thi hành bản án, quyết định của Tòa án về vụ án hành chính; biện pháp xử lý trách nhiệm đối với người không thi hành bản án, quyết định của Tòa án; nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân trong thi hành án hành chính.
 
 ---
 
@@ -47,6 +52,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 95D91EF3-390B-4CBD-9259-C561654B2D76
 
+Thông tư liên tịch này quy định việc phối hợp thực hiện một số nhiệm vụ, quyền hạn và trách nhiệm của Viện kiểm sát, Tòa án trong kiểm sát việc giải quyết vụ án hành chính; tham gia phiên tòa, phiên họp của Tòa án; chuyển hồ sơ, tài liệu, chứng cứ, gửi văn bản tố tụng; kiểm sát việc giải quyết khiếu nại, tố cáo và thực hiện các quyền yêu cầu, kiến nghị, kháng nghị của Viện kiểm sát trong tố tụng hành chính.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000100001460000000000000000000602606600020000100
 
 **ID:** 43408AF9-D067-43FB-96B2-76DA0353D1BD
+
+1. Ban hành 62 biểu mẫu theo Danh mục kèm theo Nghị quyết này.
 
 ---
 
@@ -69,6 +78,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4093815A-7257-49D1-B541-787CCFB41698
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001300000100000000000000000
 
 **ID:** E968167A-328C-455C-969D-5C52160A8B30
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -91,6 +104,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8A243C26-0FCD-4948-87AF-CB88A03DC260
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002200000100000000000000000
 
 **ID:** 5CB66074-5B81-4C08-B805-A7BE15D690F7
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -113,6 +130,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 928AD785-DECF-4C10-A796-0E0129A33BAF
 
+Kể từ ngày Luật tố tụng hành chính số 93/2015/QH13 có hiệu lực thi hành (ngày 01 tháng 7 năm 2016):
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100001000000000000000000
 
 **ID:** 557B78A7-2959-463D-9C06-D8B98C89F3A9
+
+Cơ quan, tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có nghĩa vụ cung cấp đầy đủ và đúng thời hạn tài liệu, chứng cứ mà mình đang lưu giữ, quản lý cho đương sự, Tòa án, Viện kiểm sát nhân dân (sau đây gọi là Viện kiểm sát) theo quy định của Luật này khi có yêu cầu và phải chịu trách nhiệm trước pháp luật về việc cung cấp tài liệu, chứng cứ đó; trường hợp không cung cấp được thì phải thông báo bằng văn bản và nêu rõ lý do cho đương sự, Tòa án, Viện kiểm sát biết.
 
 ---
 
@@ -135,6 +156,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3A817F01-018E-41B3-A275-74C9DA207400
 
+1. Trường hợp trong quá trình giải quyết vụ án hành chính theo thủ tục sơ thẩm, Tòa án xác định vụ án đó không phải là vụ án hành chính mà là vụ án dân sự theo quy định tại khoản 1 Điều 34 Luật TTHC thì Tòa án thông báo ngay bằng văn bản cho Viện kiểm sát cùng cấp.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710001000
 
 **ID:** FC388DA4-1ED6-47D4-9A18-D2A9B6E2A242
+
+1. Người phải thi hành án có trách nhiệm thi hành bản án, quyết định của Tòa án trong thời hạn quy định tại khoản 2 Điều 311 Luật tố tụng hành chính.
 
 ---
 
@@ -157,6 +182,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DFF7796E-9B67-4881-B743-3213849A574C
 
+1. Thông báo, giấy báo, giấy triệu tập, giấy mời trong tố tụng hành chính.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000700010100000000000000000
 
 **ID:** 7BB5C08D-131D-4FAE-AD96-A0CF2AA63FA6
+
+1. Người tiến hành tố tụng, người của cơ quan ban hành văn bản tố tụng được giao nhiệm vụ thực hiện việc cấp, tống đạt hoặc thông báo văn bản tố tụng.
 
 ---
 
@@ -179,6 +208,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4D45EC1B-928A-46E2-8D02-641B11E6FBA5
 
+1. Cấp, tống đạt, thông báo trực tiếp; qua dịch vụ bưu chính hoặc người thứ ba được ủy quyền thực hiện việc cấp, tống đạt, thông báo.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000700010300000000000000000
 
 **ID:** 29A295F0-25FF-4CAE-B88A-877AC52C46AC
+
+1. Việc cấp, tống đạt hoặc thông báo văn bản tố tụng được thực hiện theo quy định của Luật này thì được coi là hợp lệ.
 
 ---
 
@@ -201,6 +234,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0F510EB9-3C90-46EA-8F51-EDFF4C91A626
 
+Người thực hiện việc cấp, tống đạt hoặc thông báo văn bản tố tụng phải trực tiếp chuyển giao cho người được cấp, tống đạt hoặc thông báo văn bản tố tụng có liên quan. Người được cấp, tống đạt, thông báo hoặc được ủy quyền cấp, tống đạt, thông báo văn bản tố tụng phải ký nhận vào biên bản hoặc sổ giao nhận văn bản tố tụng. Thời điểm để tính thời hạn tố tụng là ngày họ được cấp, tống đạt hoặc thông báo văn bản tố tụng.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000700010500000000000000000
 
 **ID:** 36CF3CBB-03C9-40D5-A6AB-A944F7187662
+
+Việc cấp, tống đạt hoặc thông báo bằng phương tiện điện tử được thực hiện theo quy định của pháp luật về giao dịch điện tử.
 
 ---
 
@@ -223,6 +260,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 47D72558-DFF6-4403-82A0-2FCF2F91FAF6
 
+1. Người được cấp, tống đạt hoặc thông báo là cá nhân thì văn bản tố tụng phải được giao trực tiếp cho họ.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000700010700000000000000000
 
 **ID:** 2B41832D-C13B-4C90-AE41-7BDA46007E8A
+
+Trường hợp người được cấp, tống đạt hoặc thông báo là cơ quan, tổ chức thì văn bản tố tụng phải được giao trực tiếp cho người đại diện theo pháp luật hoặc người chịu trách nhiệm nhận văn bản của cơ quan, tổ chức đó và phải được những người này ký nhận. Trường hợp cơ quan, tổ chức được cấp, tống đạt hoặc thông báo có người đại diện tham gia tố tụng hoặc cử người đại diện nhận văn bản tố tụng thì những người này ký nhận văn bản tố tụng đó. Ngày ký nhận là ngày được cấp, tống đạt hoặc thông báo.
 
 ---
 
@@ -245,6 +286,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FBE39C5E-DF74-4682-BD0F-B93546A5C33E
 
+1. Niêm yết công khai văn bản tố tụng được thực hiện trong trường hợp không thể cấp, tống đạt hoặc thông báo trực tiếp văn bản tố tụng theo quy định tại Điều 106 và Điều 107 của Luật này.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000700010900000000000000000
 
 **ID:** 61D74C06-E9E9-444C-B500-1269E4EE6943
+
+1. Việc thông báo trên phương tiện thông tin đại chúng chỉ được thực hiện khi pháp luật có quy định hoặc có căn cứ xác định là việc niêm yết công khai không bảo đảm cho người được cấp, tống đạt hoặc thông báo nhận được thông tin về văn bản cần được cấp, tống đạt hoặc thông báo.
 
 ---
 
@@ -267,6 +312,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 512F6922-9B9E-4BE8-A18D-4B7651692D2F
 
+1. Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm, trừ trường hợp xét xử vụ án hành chính đối với khiếu kiện danh sách cử tri.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030001100
 
 **ID:** 82A076ED-8389-4A19-934C-95E6C4219CDE
+
+Văn bản thông báo của Thẩm phán về việc không ra quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời quy định tại khoản 3 và khoản 4 Điều 73, Điều 74 Luật TTHC được gửi ngay cho Viện kiểm sát cùng cấp.
 
 ---
 
@@ -289,6 +338,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B1808E5F-CC1F-416C-865E-73877F96BA05
 
+1. Khi hết thời hạn tự nguyện thi hành án quy định tại điểm b khoản 2 Điều 311 Luật tố tụng hành chính mà người phải thi hành án không tự nguyện thi hành thì người được thi hành án có quyền đề nghị Tòa án đã xét xử sơ thẩm ra quyết định buộc thi hành án hành chính.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000700011000000000000000000
 
 **ID:** CD0A8682-A051-4780-9102-DCEE51FAD946
+
+Trường hợp người thực hiện việc cấp, tống đạt hoặc thông báo văn bản tố tụng không phải là người tiến hành tố tụng, người của cơ quan ban hành văn bản tố tụng thì người thực hiện phải thông báo ngay bằng văn bản kết quả việc cấp, tống đạt hoặc thông báo văn bản tố tụng cho Tòa án hoặc cơ quan ban hành văn bản tố tụng đó.
 
 ---
 
@@ -311,6 +364,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FCA03061-1A82-4046-BFF2-A4C4D341908D
 
+1. Trong quá trình giải quyết vụ án hành chính, nếu phát hiện văn bản quy phạm pháp luật liên quan đến việc giải quyết vụ án hành chính có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên thì Tòa án thực hiện như sau:
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000800011200000000000000000
 
 **ID:** FB0E4B51-28B0-4D01-B85C-80672CA0FFDC
+
+1. Chánh án Tòa án cấp huyện có quyền kiến nghị sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật của cơ quan nhà nước từ cấp huyện trở xuống; đề nghị Chánh án Tòa án cấp tỉnh kiến nghị sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật của cơ quan nhà nước cấp tỉnh; báo cáo Chánh án Tòa án cấp tỉnh đề nghị Chánh án Tòa án nhân dân tối cao kiến nghị sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương.
 
 ---
 
@@ -333,6 +390,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** ED083518-2559-4CAE-B154-F7391C65B271
 
+Trong thời hạn 10 ngày kể từ ngày nhận được văn bản đề nghị quy định tại Điều 111 của Luật này thì Chánh án Tòa án có thẩm quyền kiến nghị phải xem xét và xử lý như sau:
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000800011400000000000000000
 
 **ID:** 665F2B1A-D9B7-4A12-B8BB-F8E4BA39143C
+
+Cơ quan nhận được kiến nghị sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật của Tòa án có trách nhiệm giải quyết như sau:
 
 ---
 
@@ -355,6 +416,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FC0A84A1-FACF-4B5D-AC3D-7D454A182AD5
 
+1. Cơ quan, tổ chức, cá nhân có quyền khởi kiện vụ án đối với quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc trong trường hợp không đồng ý với quyết định, hành vi đó hoặc đã khiếu nại với người có thẩm quyền giải quyết, nhưng hết thời hạn giải quyết theo quy định của pháp luật mà khiếu nại không được giải quyết hoặc đã được giải quyết nhưng không đồng ý với việc giải quyết khiếu nại về quyết định, hành vi đó.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900011600000000000000000
 
 **ID:** FB5715D5-18D2-48BB-8162-31EBBF8CFA49
+
+1. Thời hiệu khởi kiện là thời hạn mà cơ quan, tổ chức, cá nhân được quyền khởi kiện để yêu cầu Tòa án giải quyết vụ án hành chính bảo vệ quyền và lợi ích hợp pháp bị xâm phạm; nếu thời hạn đó kết thúc thì mất quyền khởi kiện.
 
 ---
 
@@ -377,6 +442,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4BED9871-D7BC-40CA-BA16-1C97B7FBBFB5
 
+1. Khi khởi kiện vụ án hành chính thì cơ quan, tổ chức, cá nhân phải làm đơn khởi kiện theo quy định tại Điều 118 của Luật này.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900011800000000000000000
 
 **ID:** E83CDA63-FAB8-4B24-B2BD-FC9936F8B813
+
+1. Đơn khởi kiện phải có các nội dung chính sau đây:
 
 ---
 
@@ -399,6 +468,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 54C2EB26-9723-4388-8C4B-765A94213D08
 
+Người khởi kiện gửi đơn khởi kiện và tài liệu, chứng cứ kèm theo đến Tòa án có thẩm quyền giải quyết vụ án bằng một trong các phương thức sau đây:
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100001200000000000000000
 
 **ID:** CF2033E9-E1C5-4EBB-B016-746F5B513477
+
+1. Việc xét xử sơ thẩm vụ án hành chính có Hội thẩm nhân dân tham gia, trừ trường hợp xét xử theo thủ tục rút gọn theo quy định của Luật này.
 
 ---
 
@@ -421,6 +494,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FFC0F0C5-F4E7-4891-8EA3-327455FB46BB
 
+1. Việc gửi văn bản trả lại đơn khởi kiện cho Viện kiểm sát cùng cấp theo quy định tại khoản 2 Điều 123 Luật TTHC được thực hiện theo từng vụ án.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710001200
 
 **ID:** 3F52D1C5-78E7-4F24-A585-3B49E1F26125
+
+1. Khi nhận được quyết định buộc thi hành án hành chính, người phải thi hành án có trách nhiệm thi hành ngay bản án, quyết định của Tòa án.
 
 ---
 
@@ -443,6 +520,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 79A477DE-3C27-48A9-873D-792AF7E3DCF5
 
+1. Trường hợp người khởi kiện trực tiếp nộp đơn tại Tòa án có thẩm quyền thì ngày khởi kiện là ngày nộp đơn.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900012100000000000000000
 
 **ID:** E49D0498-5909-4E95-9165-471408DAB826
+
+1. Tòa án nhận đơn khởi kiện do người khởi kiện nộp trực tiếp tại bộ phận tiếp nhận đơn của Tòa án hoặc gửi qua dịch vụ bưu chính và ghi vào sổ nhận đơn. Trường hợp nhận đơn trực tuyến thì Tòa án in ra bản giấy và ghi vào sổ nhận đơn.
 
 ---
 
@@ -465,6 +546,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2188D36E-CEC4-4523-B540-76780EF1A393
 
+1. Sau khi nhận được đơn khởi kiện, nếu thấy đơn khởi kiện không có đủ các nội dung quy định tại khoản 1 Điều 118 của Luật này thì Thẩm phán thông báo bằng văn bản và nêu rõ những vấn đề cần sửa đổi, bổ sung cho người khởi kiện sửa đổi, bổ sung đơn khởi kiện trong thời hạn 10 ngày kể từ ngày người khởi kiện nhận được thông báo của Tòa án.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900012300000000000000000
 
 **ID:** D4599D4D-9B08-48AB-9A30-05502D4EA57B
+
+1. Thẩm phán trả lại đơn khởi kiện trong những trường hợp sau đây:
 
 ---
 
@@ -487,6 +572,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7129658D-42A9-4560-A11C-2E3752D2E4DB
 
+1. Trong thời hạn 07 ngày kể từ ngày nhận được văn bản trả lại đơn khởi kiện, người khởi kiện có quyền khiếu nại, Viện kiểm sát có quyền kiến nghị với Tòa án đã trả lại đơn khởi kiện.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900012500000000000000000
 
 **ID:** 6F4B82BF-BEA7-4B69-B8F6-2892BA4107F1
+
+1. Sau khi nhận đơn khởi kiện và tài liệu, chứng cứ kèm theo, nếu xét thấy thuộc thẩm quyền giải quyết của Tòa án thì Thẩm phán phải thông báo cho người khởi kiện biết để họ nộp tiền tạm ứng án phí; trường hợp người khởi kiện được miễn nộp tiền tạm ứng án phí hoặc không phải nộp tiền tạm ứng án phí thì thông báo cho người khởi kiện biết về việc thụ lý vụ án.
 
 ---
 
@@ -509,6 +598,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 94AFB46D-11EF-4EBE-8075-A57D9AD88B5D
 
+1. Trong thời hạn 03 ngày làm việc kể từ ngày thụ lý vụ án, Thẩm phán đã thụ lý vụ án phải thông báo bằng văn bản cho người bị kiện, người có quyền lợi, nghĩa vụ liên quan đến việc giải quyết vụ án và Viện kiểm sát cùng cấp về việc Tòa án đã thụ lý vụ án và công bố trên Cổng thông tin điện tử của Tòa án (nếu có).
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900012700000000000000000
 
 **ID:** 09CA1297-1D86-4C7E-8729-74E63286BECD
+
+1. Trên cơ sở báo cáo thụ lý vụ án của Thẩm phán được phân công thụ lý vụ án, Chánh án Tòa án quyết định phân công Thẩm phán giải quyết vụ án bảo đảm đúng nguyên tắc vô tư, khách quan, ngẫu nhiên.
 
 ---
 
@@ -531,6 +624,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8F1A6D94-3992-4388-9308-7785820DAB0C
 
+1. Trong thời hạn 10 ngày kể từ ngày nhận được thông báo, người bị kiện, người có quyền lợi, nghĩa vụ liên quan phải nộp cho Tòa án văn bản ghi ý kiến của mình về yêu cầu của người khởi kiện và tài liệu, chứng cứ kèm theo hoặc yêu cầu độc lập (nếu có).
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000900012900000000000000000
 
 **ID:** BCA1962C-79A7-4736-AF2A-6D04A4A7644A
+
+1. Trường hợp người có quyền lợi, nghĩa vụ liên quan không tham gia tố tụng với người khởi kiện hoặc với người bị kiện thì họ có quyền yêu cầu độc lập khi có các điều kiện sau đây:
 
 ---
 
@@ -553,6 +650,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C12A44FA-FC6F-4D40-ABB8-DBED25FF9F92
 
+1. Thẩm phán, Hội thẩm nhân dân xét xử độc lập và chỉ tuân theo pháp luật.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030001300
 
 **ID:** 90EF9DD9-6740-4CB3-928C-838565DAFC45
+
+1. Việc thông báo về thời gian, địa điểm mở lại phiên tòa theo quy định tại khoản 4 Điều 163 Luật TTHC được thực hiện bằng văn bản.
 
 ---
 
@@ -575,6 +676,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6F136ED4-4DAD-4766-AAC5-BA9BC71C8689
 
+1. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được quyết định buộc thi hành án hành chính, người đứng đầu cơ quan cấp trên trực tiếp của người phải thi hành án có trách nhiệm ban hành văn bản chỉ đạo người phải thi hành án nghiêm chỉnh thi hành bản án, quyết định của Tòa án.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000013000000000000000000
 
 **ID:** 8BFAA66E-325E-4429-BF85-1C8EE0EFCD75
+
+Thời hạn chuẩn bị xét xử các vụ án, trừ vụ án xét xử theo thủ tục rút gọn, vụ án có yếu tố nước ngoài và vụ án khiếu kiện về danh sách cử tri được quy định như sau:
 
 ---
 
@@ -597,6 +702,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C085D93E-CAF6-4E7D-A1CF-E2CAA0C2867A
 
+1. Lập hồ sơ vụ án.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000013200000000000000000
 
 **ID:** 3D23F313-490C-4C28-AE03-63F8C60FA1A4
+
+1. Hồ sơ vụ án hành chính gồm đơn và tài liệu, chứng cứ của đương sự, người tham gia tố tụng khác; tài liệu, chứng cứ do Tòa án thu thập liên quan đến vụ án; văn bản tố tụng của Tòa án, Viện kiểm sát về việc giải quyết vụ án hành chính.
 
 ---
 
@@ -619,6 +728,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 802B2C18-4EA1-4162-9536-010DEDB2D101
 
+1. Thời hạn giao nộp tài liệu, chứng cứ theo quy định tại khoản 4 Điều 83 của Luật này.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000013400000000000000000
 
 **ID:** C6F2D5A7-541E-468E-A070-56C52963E3D4
+
+1. Trong thời hạn chuẩn bị xét xử sơ thẩm, Tòa án tiến hành đối thoại để các đương sự thống nhất với nhau về việc giải quyết vụ án, trừ những vụ án không tiến hành đối thoại được, vụ án khiếu kiện về danh sách cử tri, vụ án xét xử theo thủ tục rút gọn được quy định tại các điều 135, 198 và 246 của Luật này.
 
 ---
 
@@ -641,6 +754,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F20D1E5D-F0DF-406F-824F-03242232E206
 
+1. Người khởi kiện, người bị kiện, người có quyền lợi, nghĩa vụ liên quan đã được Tòa án triệu tập hợp lệ lần thứ hai mà vẫn cố tình vắng mặt.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000013600000000000000000
 
 **ID:** EE4DDE5B-00A4-4F20-87CA-EC1DDA4BBE1E
+
+1. Trước khi tiến hành phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và đối thoại giữa các đương sự, Thẩm phán phải thông báo cho các đương sự, người đại diện hợp pháp của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự về thời gian, địa điểm tiến hành phiên họp và nội dung của phiên họp.
 
 ---
 
@@ -663,6 +780,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 583BE28A-0981-4E1D-9D42-575F483BB195
 
+1. Thành phần tham gia phiên họp gồm có:
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000013800000000000000000
 
 **ID:** 26FFBD21-EB99-451F-BDD6-E2668B5E92A8
+
+1. Trước khi khai mạc phiên họp, Thư ký phiên họp báo cáo Thẩm phán về sự có mặt, vắng mặt của những người tham gia phiên họp đã được Tòa án thông báo. Thẩm phán chủ trì phiên họp kiểm tra lại sự có mặt và căn cước của những người tham gia, phổ biến cho đương sự biết quyền và nghĩa vụ theo quy định của Luật này.
 
 ---
 
@@ -685,6 +806,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4B0703F4-965A-424D-8FAD-DE54F830AA4E
 
+1. Biên bản phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ phải có các nội dung sau đây:
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100001400000000000000000
 
 **ID:** 625D4681-4F1B-490E-8432-187413AA2E5D
+
+1. Chánh án Tòa án, Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Tòa án, Viện trưởng Viện kiểm sát, Kiểm sát viên, Kiểm tra viên, người phiên dịch, người giám định, thành viên Hội đồng định giá không được tiến hành, tham gia tố tụng nếu có căn cứ cho rằng họ có thể không vô tư, khách quan trong khi thực hiện nhiệm vụ, quyền hạn của mình.
 
 ---
 
@@ -707,6 +832,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3D35BAA7-0F8E-43FA-8407-413C2CBC2A40
 
+1. Tòa án cấp sơ thẩm gửi ngay văn bản thông báo cho Viện kiểm sát cùng cấp về việc kháng cáo theo quy định tại khoản 1 Điều 210 Luật TTHC. Việc gửi văn bản thông báo về việc kháng cáo cho Viện kiểm sát cùng cấp được thực hiện theo từng vụ án. Trường hợp trong một vụ án có nhiều người kháng cáo thì Tòa án có thể thông báo trong một văn bản về việc kháng cáo của những người kháng cáo trong vụ án đó.
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710001400
 
 **ID:** B3D0EA19-98E2-44BD-BB99-A33145B139AB
+
+1. Cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm có trách nhiệm tiếp nhận bản án, quyết định của Tòa án về vụ án hành chính do Tòa án gửi.
 
 ---
 
@@ -729,6 +858,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1210AAA9-B9A4-480F-951C-3F79AE51991D
 
+1. Trường hợp qua đối thoại mà người khởi kiện vẫn giữ yêu cầu khởi kiện, người bị kiện giữ nguyên quyết định, hành vi bị khởi kiện, người có quyền lợi, nghĩa vụ liên quan có yêu cầu độc lập vẫn giữ nguyên yêu cầu thì Thẩm phán tiến hành các thủ tục để mở phiên tòa xét xử vụ án.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000014100000000000000000
 
 **ID:** 068A4193-99F6-4403-A4B9-0F3AA09F5C1C
+
+1. Tòa án quyết định tạm đình chỉ giải quyết vụ án khi thuộc một trong các trường hợp sau đây:
 
 ---
 
@@ -751,6 +884,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 23EB3E2A-F299-4317-B878-182D16C3CE92
 
+1. Tòa án không xóa tên vụ án bị tạm đình chỉ giải quyết trong sổ thụ lý mà chỉ ghi chú vào sổ thụ lý số và ngày, tháng, năm của quyết định tạm đình chỉ giải quyết vụ án đó để theo dõi.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000014300000000000000000
 
 **ID:** 15844D44-39E1-40D5-B2C6-F512EE2F413A
+
+1. Tòa án quyết định đình chỉ giải quyết vụ án trong các trường hợp sau đây:
 
 ---
 
@@ -773,6 +910,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7B148926-FD80-45C3-BB10-89CB5399666A
 
+1. Khi có quyết định đình chỉ giải quyết vụ án, đương sự không có quyền khởi kiện yêu cầu Tòa án giải quyết lại vụ án đó, nếu việc khởi kiện này không có gì khác với vụ án đã bị đình chỉ về người khởi kiện, người bị kiện và quan hệ pháp luật có tranh chấp, trừ các trường hợp bị đình chỉ theo quy định tại các điểm b, c và e khoản 1 Điều 123, điểm b và điểm đ khoản 1 Điều 143 của Luật này và trường hợp khác theo quy định của pháp luật.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000014500000000000000000
 
 **ID:** 0373B494-7A3F-4371-8B3F-489BC113059E
+
+1. Thẩm phán được phân công giải quyết vụ án có thẩm quyền ra quyết định tạm đình chỉ, quyết định tiếp tục giải quyết vụ án hoặc quyết định đình chỉ giải quyết vụ án đó.
 
 ---
 
@@ -795,6 +936,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6F872DD9-A8BC-4606-B02C-0F87FC8275EC
 
+1. Quyết định đưa vụ án ra xét xử phải có các nội dung chính sau đây:
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001000014700000000000000000
 
 **ID:** 2C335B20-0DD5-4C31-9D29-ACA2DD31B388
+
+Tòa án phải gửi hồ sơ vụ án cùng với việc gửi quyết định đưa vụ án ra xét xử cho Viện kiểm sát cùng cấp nghiên cứu. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ vụ án, Viện kiểm sát phải trả lại hồ sơ vụ án cho Tòa án.
 
 ---
 
@@ -817,6 +962,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 33891202-9E78-4A81-8834-D59603A3F521
 
+Phiên tòa sơ thẩm phải được tiến hành đúng thời gian, địa điểm đã được ghi trong quyết định đưa vụ án ra xét xử hoặc trong giấy báo mở lại phiên tòa trong trường hợp phải hoãn phiên tòa.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000014900000000000000000
 
 **ID:** 4955987B-11FE-433A-A991-D920E9547432
+
+Trong thời hạn 20 ngày kể từ ngày có quyết định đưa vụ án ra xét xử, Tòa án phải mở phiên tòa; trường hợp có lý do chính đáng thì thời hạn mở phiên tòa có thể kéo dài nhưng không quá 30 ngày.
 
 ---
 
@@ -839,6 +988,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1A0F174E-8C1A-4D26-BFD8-A23CAE01F8F9
 
+Tòa án xét xử tập thể vụ án hành chính và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030001500
 
 **ID:** D33224AE-A68C-41DB-987C-9B11248B0AF6
+
+1. Tòa án cấp phúc thẩm gửi văn bản thông báo cho Viện kiểm sát cùng cấp về thời gian mở phiên họp xem xét kháng cáo quá hạn quy định tại khoản 2 Điều 208 Luật TTHC. Trường hợp hoãn phiên họp thì thông báo thời gian mở lại phiên họp sau khi hoãn.
 
 ---
 
@@ -861,6 +1014,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 531D010E-03D0-4C99-BD98-4269E5B861D3
 
+1. Trường hợp bản án, quyết định của Tòa án về việc không chấp nhận yêu cầu khởi kiện quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, danh sách cử tri mà quyết định đó chưa được thi hành hoặc mới thi hành được một phần thì các bên đương sự phải tiếp tục thi hành quyết định đó.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000015000000000000000000
 
 **ID:** 6300E6B0-5E57-45B0-A322-2612D5E0342A
+
+Phiên tòa được tổ chức tại trụ sở Tòa án hoặc có thể ngoài trụ sở Tòa án nhưng phải bảo đảm tính trang nghiêm và hình thức phòng xử án quy định tại Điều 151 của Luật này.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 09A7E1EE-CA2D-4CAD-93AF-5761949A2D51
 
+1. Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam được treo chính giữa phía trên phòng xử án và phía trên chỗ ngồi của Hội đồng xét xử.
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000015200000000000000000
 
 **ID:** 4C9A486C-E6F1-42B5-950F-B4FEE3EA801C
+
+1. Việc xét xử bằng lời nói và phải được tiến hành tại phòng xử án.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9F5A6CCF-264A-4D3E-BBB2-19B07F9BD3E5
 
+1. Khi vào phòng xử án, mọi người đều phải chấp hành việc kiểm tra an ninh của lực lượng có trách nhiệm bảo vệ phiên tòa.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000015400000000000000000
 
 **ID:** 3FF63499-34EC-473E-A587-3AD440CB1244
+
+Hội đồng xét xử sơ thẩm gồm một Thẩm phán và 02 Hội thẩm nhân dân, trừ trường hợp quy định tại khoản 1 Điều 249 của Luật này. Hội đồng xét xử sơ thẩm có thể gồm 02 Thẩm phán và 03 Hội thẩm nhân dân trong trường hợp sau đây:
 
 ---
 
@@ -927,6 +1092,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F7345EEA-D51C-4021-93F5-3B7CC55078F2
 
+1. Phiên tòa chỉ được tiến hành khi có đủ thành viên Hội đồng xét xử và Thư ký phiên tòa án.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000015600000000000000000
 
 **ID:** 60A61EF6-27CA-4BB7-88ED-230A92DEA29C
+
+1. Kiểm sát viên được Viện trưởng Viện kiểm sát cùng cấp phân công có nhiệm vụ tham gia phiên tòa, nếu vắng mặt thì Hội đồng xét xử vẫn tiến hành xét xử.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3F2208C2-603B-4DFB-9A54-54D88FE8501F
 
+1. Tòa án triệu tập hợp lệ lần thứ nhất, đương sự hoặc người đại diện của họ, người bảo vệ quyền và lợi ích hợp pháp của đương sự phải có mặt tại phiên tòa; trường hợp có người vắng mặt thì Hội đồng xét xử hoãn phiên tòa, trừ trường hợp người đó có đơn đề nghị xét xử vắng mặt.
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000015800000000000000000
 
 **ID:** 856C2E92-99C3-4033-9A84-73F1FFD4247A
+
+Tòa án vẫn tiến hành xét xử vụ án trong các trường hợp sau đây:
 
 ---
 
@@ -971,6 +1144,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 291B1E69-D59A-4FCD-BE1E-15715636C018
 
+1. Người làm chứng có nghĩa vụ tham gia phiên tòa theo giấy triệu tập của Tòa án để trình bày tình tiết của vụ án mà họ biết. Trường hợp người làm chứng vắng mặt nhưng trước đó đã có lời khai trực tiếp với Tòa án hoặc gửi lời khai cho Tòa án thì Chủ tọa phiên tòa công bố lời khai đó.
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100001600000000000000000
 
 **ID:** 713D3480-AB82-45C4-8CB5-3DFC51034F3D
+
+1. Tòa án xét xử kịp thời trong thời hạn do Luật này quy định, bảo đảm công bằng.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F7A83660-D17A-45F1-956B-404FB9C3C60F
 
+Trường hợp tính đến ngày, tháng, năm ghi trên quyết định kháng nghị của Viện kiểm sát mà đã quá thời hạn kháng nghị theo quy định tại Điều 213 và Điều 251 của Luật TTHC thì Tòa án cấp sơ thẩm nhận được kháng nghị có văn bản yêu cầu Viện kiểm sát đã kháng nghị giải thích lý do kháng nghị quá hạn.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710001600
 
 **ID:** 134FCE53-636C-4340-A10F-87297E0A08E8
+
+1. Trường hợp bản án, quyết định của Tòa án tuyên hủy toàn bộ quyết định hành chính, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, người phải thi hành án phải thực hiện nhiệm vụ, công vụ theo nội dung bản án, quyết định của Tòa án và theo quy định của pháp luật; thực hiện kiến nghị của Tòa án về việc xử lý đối với quyết định hành chính trái pháp luật đã bị hủy; trường hợp quyết định đó đã được thi hành toàn bộ hoặc một phần thì cơ quan đã ban hành quyết định hành chính phải thực hiện các thủ tục, biện pháp để khôi phục quyền và lợi ích hợp pháp của các bên theo quy định của pháp luật.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** BA474237-1FDE-4032-996D-E96E39EFE79E
 
+1. Người giám định có nghĩa vụ tham gia phiên tòa theo giấy triệu tập của Tòa án để làm rõ những vấn đề liên quan đến việc giám định và kết luận giám định.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000016100000000000000000
 
 **ID:** 9C9110A6-6468-417B-B16E-1AFD548C079A
+
+1. Người phiên dịch có nghĩa vụ tham gia phiên tòa theo giấy triệu tập của Tòa án.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 042B8EFA-AA21-46A3-A646-EF4A145EA2F2
 
+1. Các trường hợp phải hoãn phiên tòa:
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000016300000000000000000
 
 **ID:** 956EA09E-52ED-414D-8F84-A311F0E8AB8B
+
+1. Thời hạn hoãn phiên tòa sơ thẩm không quá 30 ngày kể từ ngày Hội đồng xét xử ra quyết định hoãn phiên tòa, trừ phiên tòa xét xử vụ án theo thủ tục rút gọn thì thời hạn hoãn là 15 ngày.
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 788FF668-7C76-4176-A6BF-E9A1A535F5C9
 
+1. Bản án phải được Hội đồng xét xử thảo luận và thông qua tại phòng nghị án.
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000016500000000000000000
 
 **ID:** 9336E76E-0932-4722-AAA6-1CD03B38A4FF
+
+1. Tại phiên tòa, nếu có một trong các trường hợp quy định tại các điểm a, b, c, d và e khoản 1 Điều 141 của Luật này thì Hội đồng xét xử ra quyết định tạm đình chỉ việc giải quyết vụ án.
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CA04D24D-9F4E-4812-B988-0E5F02C2D0C2
 
+1. Biên bản phiên tòa phải ghi đầy đủ các nội dung sau đây:
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000010000000000000000016700000000000000000
 
 **ID:** F2933221-7E3E-4929-A639-816A0144B228
+
+Trước khi khai mạc phiên tòa, Thư ký phiên tòa phải tiến hành các công việc sau đây:
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CA48BC63-D356-457A-BA5A-C6090DC36C74
 
+1. Tòa án căn cứ vào tài liệu, chứng cứ có trong hồ sơ để xét xử vắng mặt đương sự, người tham gia tố tụng theo quy định của Luật này khi có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000020000000000000000016900000000000000000
 
 **ID:** 6AFDEE8E-0304-41F9-B9BB-1E53FA07AAB4
+
+1. Chủ tọa phiên tòa khai mạc phiên tòa và đọc quyết định đưa vụ án ra xét xử.
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 285FC82A-C133-4ADC-AF64-7EDEC242D7B4
 
+1. Trong tố tụng hành chính, mọi người đều bình đẳng trước pháp luật, không phân biệt dân tộc, giới tính, tín ngưỡng, tôn giáo, thành phần xã hội, trình độ văn hóa, nghề nghiệp, địa vị xã hội.
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030001700
 
 **ID:** 4766C9BA-3015-4693-9E5E-815E2078C6B7
+
+1. Tòa án có thẩm quyền giám đốc thẩm, tái thẩm gửi ngay cho Viện kiểm sát cùng cấp văn bản thay đổi, bổ sung quyết định kháng nghị giám đốc thẩm, tái thẩm của Chánh án Tòa án quy định tại khoản 1 Điều 265, Điều 286 Luật TTHC.
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 54E63C70-984F-4C26-83E3-5EA48F99CAED
 
+1. Trường hợp bản án, quyết định của Tòa án đã hủy quyết định kỷ luật buộc thôi việc thì người đứng đầu cơ quan, tổ chức đã ra quyết định kỷ luật buộc thôi việc phải nhận người bị buộc thôi việc trở lại làm việc và công bố công khai theo quy định của pháp luật về cán bộ, công chức, viên chức. Việc tiếp nhận trở lại làm việc phải lập thành biên bản, có sự chứng kiến và ký tên vào biên bản của Chấp hành viên.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000020000000000000000017000000000000000000
 
 **ID:** E28CAE24-797F-423D-A1C5-9B2B46889905
+
+Trường hợp tại phiên tòa có người yêu cầu thay đổi người tiến hành tố tụng, người giám định, người phiên dịch thì Hội đồng xét xử phải xem xét, quyết định việc chấp nhận hoặc không chấp nhận yêu cầu theo quy định của Luật này; nếu không chấp nhận thì phải nêu rõ lý do và ghi vào biên bản phiên tòa.
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 60147773-362C-4DDA-BFE6-FACB390B5DDC
 
+1. Trước khi người làm chứng được hỏi về những vấn đề mà họ biết được có liên quan đến việc giải quyết vụ án, Chủ tọa phiên tòa có thể quyết định những biện pháp cần thiết để những người làm chứng không nghe được lời khai của nhau hoặc tiếp xúc với những người có liên quan.
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000020000000000000000017200000000000000000
 
 **ID:** 280FAE12-660A-4A51-B13F-E71674C67705
+
+1. Chủ tọa phiên tòa hỏi người khởi kiện về việc thay đổi, bổ sung, rút một phần hoặc toàn bộ yêu cầu khởi kiện.
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 081E8935-54EC-4C45-A222-EE98E0B0DCA9
 
+1. Hội đồng xét xử chấp nhận việc thay đổi, bổ sung yêu cầu của đương sự nếu việc thay đổi, bổ sung yêu cầu của họ không vượt quá phạm vi yêu cầu khởi kiện hoặc yêu cầu độc lập ban đầu.
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000020000000000000000017400000000000000000
 
 **ID:** 9711B0B2-7409-479C-8069-DE0DCD2C5A96
+
+Trường hợp người khởi kiện rút toàn bộ yêu cầu khởi kiện nhưng người có quyền lợi, nghĩa vụ liên quan vẫn giữ yêu cầu độc lập của mình thì người có quyền lợi, nghĩa vụ liên quan trở thành người khởi kiện.
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4F0FA9AD-C54C-488D-832E-ABCAF4428657
 
+1. Tranh tụng tại phiên tòa bao gồm việc trình bày chứng cứ, hỏi, đối đáp, trả lời và phát biểu quan điểm, lập luận về đánh giá chứng cứ, tình tiết của vụ án, quan hệ pháp luật tranh chấp và pháp luật áp dụng để giải quyết yêu cầu của đương sự trong vụ án.
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000017600000000000000000
 
 **ID:** 547403F6-E28D-45F2-8CC5-B5F3DB61370C
+
+1. Trường hợp đương sự vẫn giữ yêu cầu, quan điểm của mình và không thống nhất với nhau về việc giải quyết vụ án thì Hội đồng xét xử tóm tắt nội dung yêu cầu của đương sự, thông báo kết luận tại phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và đối thoại, những vấn đề cần tranh tụng, yêu cầu đương sự trình bày về vấn đề chưa rõ, còn mâu thuẫn theo trình tự sau đây:
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8D93562E-947F-477B-952E-7A7F0A32D982
 
+1. Sau khi nghe xong lời trình bày của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự theo quy định tại Điều 176 của Luật này, theo sự điều hành của Chủ tọa phiên tòa, thứ tự hỏi của từng người được thực hiện như sau:
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000017800000000000000000
 
 **ID:** 9A4B6AD0-B5C7-424B-B1C2-C5ED509DE847
+
+1. Trường hợp có nhiều người khởi kiện thì phải hỏi riêng từng người một.
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0E9ED070-7A12-466C-A9FC-89ACF2154DBE
 
+1. Trường hợp có nhiều người bị kiện thì phải hỏi riêng từng người một.
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100001800000000000000000
 
 **ID:** D174D92B-525F-49CF-9F69-F2792B03F37C
+
+1. Tòa án có trách nhiệm bảo đảm cho đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự thực hiện quyền tranh tụng trong xét xử sơ thẩm, phúc thẩm, giám đốc thẩm, tái thẩm theo quy định của Luật này.
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0CC40830-D2CD-4EC9-A279-CFEFDCED8716
 
+Tòa án đã xét xử sơ thẩm gửi cho Viện kiểm sát cùng cấp quyết định buộc thi hành án quy định tại khoản 2 Điều 312 Luật TTHC ngay sau khi Tòa án ra quyết định.
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710001800
 
 **ID:** 8C7106EF-6E78-4AC3-9CEF-659F8505F204
+
+1. Trường hợp bản án, quyết định của Tòa án đã tuyên bố hành vi hành chính đã thực hiện là trái pháp luật thì người phải thi hành án phải chấm dứt thực hiện hành vi hành chính đó kể từ ngày nhận được bản án, quyết định của Tòa án. Việc chấm dứt thực hiện hành vi hành chính phải được lập thành biên bản, có sự chứng kiến và ký tên vào biên bản của Chấp hành viên.
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 02A2D9B5-D4DE-49F6-AD02-F03C77798527
 
+1. Trường hợp có nhiều người có quyền lợi, nghĩa vụ liên quan thì phải hỏi riêng từng người một.
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000018100000000000000000
 
 **ID:** D04636AF-80F7-4AF3-ACC2-68FCAF875065
+
+1. Trường hợp có nhiều người làm chứng thì phải hỏi riêng từng người một.
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8C4E9B58-53E1-44D5-A7F5-E9A5296245E4
 
+1. Hội đồng xét xử công bố các tài liệu của vụ án trong các trường hợp sau đây:
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000018300000000000000000
 
 **ID:** 3D967787-796C-4DAC-BE0D-F7855907FAF4
+
+Theo yêu cầu của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự, người tham gia tố tụng khác hoặc của Kiểm sát viên hoặc khi xét thấy cần thiết, Hội đồng xét xử cho nghe băng ghi âm, đĩa ghi âm, xem băng ghi hình, đĩa ghi hình, thiết bị khác lưu trữ âm thanh, hình ảnh tại phiên tòa, trừ trường hợp quy định tại khoản 2 Điều 182 của Luật này.
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FE12D025-E303-470D-B907-3214CF1B1548
 
+1. Vật chứng, ảnh hoặc biên bản xác nhận vật chứng được đưa ra để xem xét tại phiên tòa.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000018500000000000000000
 
 **ID:** B9891CD7-C1B8-4CF0-B038-BD5863FCBD8B
+
+1. Chủ tọa phiên tòa yêu cầu người giám định trình bày kết luận của mình về vấn đề được giao giám định. Khi trình bày, người giám định có quyền giải thích về kết luận giám định, căn cứ để đưa ra kết luận giám định.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** BC41FE48-5068-4028-B3AD-8514F5149D5B
 
+Khi nhận thấy các tình tiết của vụ án đã được xem xét đầy đủ thì Chủ tọa phiên tòa hỏi Kiểm sát viên, đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự và những người tham gia tố tụng khác xem họ có yêu cầu hỏi vấn đề gì nữa không; trường hợp có người yêu cầu và xét thấy yêu cầu đó là có căn cứ thì Chủ tọa phiên tòa quyết định tiếp tục việc hỏi.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000018700000000000000000
 
 **ID:** CE7B4F0B-F03E-4D5D-89B5-AF446944DD16
+
+1. Trong quá trình xét xử, Hội đồng xét xử có quyền tạm ngừng phiên tòa khi có một trong các căn cứ sau đây:
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 33CFA8A4-606A-4C6F-81BE-95AFBCF22393
 
+1. Sau khi kết thúc việc hỏi, việc tranh luận tại phiên tòa được thực hiện như sau:
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000018900000000000000000
 
 **ID:** 96B67E78-0AAB-44E3-9A0B-FB84E4E11722
+
+Khi phát biểu về đánh giá chứng cứ, đề xuất quan điểm của mình về việc giải quyết vụ án, người tham gia tranh luận phải căn cứ vào tài liệu, chứng cứ đã thu thập được và đã được xem xét, kiểm tra tại phiên tòa cũng như kết quả việc hỏi tại phiên tòa. Người tham gia tranh luận có quyền đáp lại ý kiến của người khác.
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A32B04E5-24C2-4011-9747-CC9FE5CB52FD
 
+1. Đương sự có quyền tự bảo vệ hoặc nhờ luật sư hoặc người khác có đủ điều kiện theo quy định của Luật này bảo vệ quyền và lợi ích hợp pháp của mình.
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030001900
 
 **ID:** CE96D278-793A-4ACA-81BE-5C09E8262C4B
+
+1. Tòa án có thẩm quyền giải quyết khiếu nại, tố cáo gửi quyết định giải quyết khiếu nại lần đầu, kết luận nội dung tố cáo cho Viện kiểm sát cùng cấp trong thời hạn 03 ngày làm việc kể từ ngày có quyết định giải quyết khiếu nại, kết luận nội dung tố cáo.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 565A652E-D479-4257-8F23-2A939D1D3EB4
 
+1. Người đứng đầu cơ quan phải thi hành án phải thực hiện ngay việc sửa đổi, bổ sung danh sách cử tri; tạm đình chỉ việc thi hành quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định xử lý vụ việc cạnh tranh; tạm dừng việc thực hiện hành vi hành chính; không thực hiện hoặc phải thực hiện hành vi nhất định theo đúng quyết định áp dụng biện pháp khẩn cấp tạm thời.
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000019000000000000000000
 
 **ID:** 31972CEC-D797-409E-9531-79FB98C3FC7B
+
+Sau khi những người tham gia tố tụng tranh luận và đối đáp xong, Kiểm sát viên phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Thẩm phán, Hội thẩm nhân dân, Thư ký phiên tòa và của người tham gia tố tụng trong quá trình giải quyết vụ án, kể từ khi thụ lý cho đến trước thời điểm Hội đồng xét xử nghị án và phát biểu ý kiến về việc giải quyết vụ án.
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 03BF3F03-C057-4FB4-953A-22DD973BBAD6
 
+1. Sau khi kết thúc phần tranh luận, Hội đồng xét xử vào phòng nghị án để nghị án.
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000019200000000000000000
 
 **ID:** 8DB3F331-3DFA-419B-8AED-B13B6625614E
+
+Qua tranh luận hoặc qua nghị án, nếu xét thấy có tình tiết của vụ án chưa được xem xét, việc xét hỏi chưa đầy đủ hoặc cần xem xét thêm chứng cứ thì Hội đồng xét xử quyết định trở lại việc hỏi và tranh luận.
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4816B1F5-1B87-440D-AC5E-B1DDBCCF9EBD
 
+1. Hội đồng xét xử xem xét tính hợp pháp của quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, quyết định giải quyết khiếu nại trong hoạt động kiểm toán nhà nước, danh sách cử tri bị khởi kiện, quyết định giải quyết khiếu nại và văn bản quy phạm pháp luật có liên quan.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000019400000000000000000
 
 **ID:** 8C184F60-33F5-4420-A42B-534D111B8041
+
+1. Tòa án ra bản án nhân danh nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** BE18A91D-563F-42E9-BD4C-DF36DA5C272A
 
+Hội đồng xét xử tuyên đọc bản án có mặt các đương sự. Trường hợp đương sự có mặt tại phiên tòa nhưng vắng mặt khi tuyên án hoặc vắng mặt theo quy định tại khoản 5 Điều 191 của Luật này thì Hội đồng xét xử vẫn tuyên đọc bản án. Trường hợp xét xử kín theo quy định tại khoản 2 Điều 16 của Luật này thì Hội đồng xét xử tuyên công khai phần mở đầu và phần quyết định của bản án.
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000110000030000000000000000019600000000000000000
 
 **ID:** 0FD354C7-A79C-4E51-97EE-3BDFAAE29A61
+
+1. Trong thời hạn 03 ngày làm việc kể từ ngày kết thúc phiên tòa, các đương sự được Tòa án cấp trích lục bản án.
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2AEE7D52-AD02-4911-A3A8-D7D821955ED9
 
+1. Sau khi bản án, quyết định của Tòa án được ban hành thì không được sửa chữa, bổ sung, trừ trường hợp phát hiện lỗi rõ ràng về chính tả, về số liệu do nhầm lẫn hoặc tính toán sai. Văn bản sửa chữa, bổ sung phải được Tòa án gửi ngay cho đương sự và Viện kiểm sát cùng cấp; trường hợp bản án, quyết định đã có hiệu lực pháp luật còn phải gửi cho cơ quan thi hành án dân sự cùng cấp, cơ quan cấp trên trực tiếp của người bị kiện.
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001200019800000000000000000
 
 **ID:** FDB4DF07-AE72-4BC4-850A-FF6F5DA991DF
+
+Ngay sau khi nhận được đơn khởi kiện về danh sách cử tri, Chánh án Tòa án phân công một Thẩm phán thụ lý ngay vụ án.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8416410B-7382-4075-A810-68C04C987B8E
 
+1. Trong thời hạn 02 ngày kể từ ngày thụ lý vụ án, Thẩm phán được phân công thụ lý vụ án phải ra một trong các quyết định sau đây:
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100000200000000000000000
 
 **ID:** 55148AE3-E3D8-4FDD-977F-94A0AE32EBF7
+
+1. Luật Tố tụng hành chính được áp dụng đối với mọi hoạt động tố tụng hành chính trên lãnh thổ bao gồm đất liền, hải đảo, vùng biển, vùng trời của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6BDB2C1C-6627-4C7F-9624-B86DC1E268CB
 
+Nghị định này áp dụng đối với cơ quan quản lý nhà nước về thi hành án hành chính; cơ quan thi hành án dân sự; cơ quan, tổ chức, cá nhân có liên quan đến công tác thi hành án hành chính.
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030000200
 
 **ID:** 4A8E0578-C206-4EE4-A8A3-D2CAABA2D525
+
+Chánh án, Viện trưởng đã quyết định kháng nghị trực tiếp ký quyết định kháng nghị hoặc phân công Phó Chánh án, Phó Viện trưởng ký quyết định kháng nghị. Phó Chánh án, Phó Viện trưởng ký quyết định kháng nghị phải ghi rõ là “ký thay Chánh án” hoặc “ký thay Viện trưởng”.
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D2454E14-3188-497D-865C-EA8BAF153999
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001300000200000000000000000
 
 **ID:** F517D26E-6825-48D5-B19F-95C3EE85AB95
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F23D1413-B333-4CA4-B12F-BFE2DC9C90E9
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002200000200000000000000000
 
 **ID:** 97083CAF-5306-4715-9D27-56A99444DC59
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E013DA9C-84BE-4ECD-A6BB-6DCFFF66B267
 
+Các vụ án hành chính phát sinh trước ngày 01 tháng 7 năm 2016 thì áp dụng thời hiệu quy định tại Điều 104 của Luật tố tụng hành chính số 64/2010/QH12.
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002300037260260660002000020
 
 **ID:** F5C66621-832C-448A-AFC1-F6A8D01B3208
+
+Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 06 tháng 01 năm 2017 và có hiệu lực thi hành kể từ ngày 24 tháng 02 năm 2017.
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 864A0368-FFC3-4B98-B12C-73110E9750BF
 
+Tòa án có trách nhiệm tiến hành đối thoại và tạo điều kiện thuận lợi để các đương sự đối thoại với nhau về việc giải quyết vụ án theo quy định của Luật này.
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030002000
 
 **ID:** 64B641F7-E80D-4C4C-B999-32E1674F21BE
+
+1. Viện trưởng Viện kiểm sát quyết định thực hiện các quyền yêu cầu, quyền kiến nghị quy định tại Luật TTHC và Thông tư liên tịch này.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F5CA9DBD-3F4F-43E3-8816-AEB92FE4A738
 
+1. Công chức, viên chức có hành vi vi phạm pháp luật về thi hành án hành chính thì tùy theo tính chất, mức độ vi phạm có thể bị xử lý kỷ luật theo quy định tại các điều 21, 22, 23, 24, 25 và Điều 26 Nghị định này.
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001200020000000000000000000
 
 **ID:** 2C87CD94-CE02-44DD-92A4-F5D01DAC86B9
+
+Đương sự, Kiểm sát viên Viện kiểm sát cùng cấp phải có mặt tại phiên tòa, nếu vắng mặt thì Hội đồng xét xử vẫn tiến hành xét xử vụ án.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 858C078D-8F3D-4F17-9DEE-91D1B6DB6132
 
+Các quy định khác của Luật này được áp dụng để giải quyết vụ án hành chính đối với khiếu kiện về danh sách cử tri trong trường hợp Chương này không quy định, trừ các quy định về hoãn phiên tòa, gửi hồ sơ vụ án cho Viện kiểm sát nghiên cứu trước khi mở phiên tòa và các quy định về thủ tục phúc thẩm, giám đốc thẩm, tái thẩm.
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001200020200000000000000000
 
 **ID:** 90D2D48B-18C0-41AB-AF62-B34FB7941B36
+
+1. Bản án, quyết định đình chỉ vụ án giải quyết khiếu kiện về danh sách cử tri có hiệu lực thi hành ngay. Đương sự không có quyền kháng cáo, Viện kiểm sát không có quyền kháng nghị.
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D58BD21F-59A7-400C-9092-A360D7566262
 
+Xét xử phúc thẩm là việc Tòa án cấp phúc thẩm xét xử lại vụ án mà bản án, quyết định của Tòa án cấp sơ thẩm chưa có hiệu lực pháp luật bị kháng cáo hoặc kháng nghị.
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000020400000000000000000
 
 **ID:** 5A57B76B-E1AA-4CDA-BA63-97EE816C00C4
+
+Đương sự hoặc người đại diện hợp pháp của đương sự có quyền kháng cáo bản án, quyết định tạm đình chỉ, đình chỉ việc giải quyết vụ án của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm.
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 25861EF5-9C89-429E-96C4-D2FF4C1B5779
 
+1. Khi thực hiện quyền kháng cáo, người kháng cáo phải làm đơn kháng cáo. Đơn kháng cáo phải có các nội dung chính sau đây:
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000020600000000000000000
 
 **ID:** 88F0E039-593A-437C-BC60-DEFD0916E582
+
+1. Thời hạn kháng cáo đối với bản án của Tòa án cấp sơ thẩm là 15 ngày kể từ ngày tuyên án; đối với đương sự không có mặt tại phiên tòa hoặc không có mặt khi tuyên án mà có lý do chính đáng thì thời hạn kháng cáo tính từ ngày bản án được giao cho họ hoặc được niêm yết.
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F48FE963-753B-45DD-B37E-6FAE3F0E0D2F
 
+1. Sau khi nhận được đơn kháng cáo, Tòa án cấp sơ thẩm phải kiểm tra tính hợp lệ của đơn kháng cáo theo quy định tại Điều 205 của Luật này.
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000020800000000000000000
 
 **ID:** A6E301B0-1A7E-46EE-B868-EFB8BEEAA045
+
+1. Kháng cáo quá thời hạn quy định tại Điều 206 của Luật này là kháng cáo quá hạn. Sau khi nhận được đơn kháng cáo quá hạn, Tòa án cấp sơ thẩm phải gửi đơn kháng cáo, bản tường trình của người kháng cáo về lý do kháng cáo quá hạn và tài liệu, chứng cứ (nếu có) cho Tòa án cấp phúc thẩm.
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A7B2CE7C-EA0B-4DEB-BADC-686B5200A59E
 
+1. Sau khi chấp nhận đơn kháng cáo hợp lệ, Tòa án cấp sơ thẩm phải thông báo cho người kháng cáo biết để họ nộp tiền tạm ứng án phí phúc thẩm theo quy định của pháp luật, nếu họ không thuộc trường hợp được miễn hoặc không phải nộp tiền tạm ứng án phí phúc thẩm.
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100002100000000000000000
 
 **ID:** CFD791BD-EB05-4340-A4BE-FD49D4520C07
+
+Tiếng nói và chữ viết dùng trong tố tụng hành chính là tiếng Việt.
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E5FF5AE9-9AEF-46B8-8547-6FCC749AFF48
 
+1. Trường hợp Viện kiểm sát cần xem xét kiến nghị việc trả lại đơn khởi kiện hoặc sau khi nhận được thông báo mở phiên họp giải quyết khiếu nại về việc trả lại đơn khởi kiện thì Viện kiểm sát gửi văn bản yêu cầu Tòa án cho sao chụp một số hoặc toàn bộ bản sao đơn khởi kiện và tài liệu, chứng cứ.
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710002100
 
 **ID:** 744D1AA4-31C9-4DA4-A54A-7D074AA34028
+
+Hình thức kỷ luật khiển trách áp dụng đối với công chức, viên chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3FF5717F-999B-4141-914E-9F4C4939A25C
 
+1. Khi gửi hồ sơ vụ án và đơn kháng cáo cho Tòa án cấp phúc thẩm, Tòa án cấp sơ thẩm phải thông báo ngay bằng văn bản cho Viện kiểm sát cùng cấp và đương sự có liên quan đến kháng cáo biết về việc kháng cáo.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000021100000000000000000
 
 **ID:** 21392DC1-DFF2-4731-8087-3F2E7424597B
+
+Viện trưởng Viện kiểm sát cùng cấp và cấp trên trực tiếp có quyền kháng nghị bản án, quyết định tạm đình chỉ, quyết định đình chỉ giải quyết vụ án của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm.
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 805AE5AF-A074-4CCA-89BA-5CEB5FF9ABB2
 
+1. Quyết định kháng nghị của Viện kiểm sát phải bằng văn bản và có các nội dung chính sau đây:
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000021300000000000000000
 
 **ID:** 6E6F5975-1C42-47C8-BB83-92B017D5BF95
+
+1. Thời hạn kháng nghị đối với bản án của Tòa án cấp sơ thẩm của Viện kiểm sát cùng cấp là 15 ngày, của Viện kiểm sát cấp trên trực tiếp là 30 ngày kể từ ngày tuyên án.
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8CFA7A5B-EFA5-4E59-8C76-5CF00E1BCB26
 
+1. Viện kiểm sát ra quyết định kháng nghị phải gửi ngay quyết định kháng nghị cho đương sự có liên quan đến kháng nghị.
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000021500000000000000000
 
 **ID:** BDE2254D-5ED0-4977-8217-A39FD003EA4F
+
+1. Phần của bản án, quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị thì chưa được đưa ra thi hành, trừ trường hợp pháp luật quy định được thi hành ngay.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2F5A69CF-EA95-4FE5-963F-D24D72FD4400
 
+Tòa án cấp sơ thẩm phải gửi hồ sơ vụ án, kháng cáo, kháng nghị và tài liệu, chứng cứ kèm theo cho Tòa án cấp phúc thẩm trong thời hạn 05 ngày làm việc kể từ ngày hết thời hạn kháng nghị và hết thời hạn kháng cáo, người kháng cáo nộp cho Tòa án cấp sơ thẩm biên lai thu tiền tạm ứng án phí phúc thẩm.
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000021700000000000000000
 
 **ID:** 5E1536D4-FF0A-4E86-BA5A-65F125B8C967
+
+1. Ngay sau khi nhận được hồ sơ vụ án, đơn kháng cáo, quyết định kháng nghị và tài liệu, chứng cứ kèm theo, Tòa án cấp phúc thẩm phải vào sổ thụ lý.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 563BEB33-B1D9-46B9-A94A-AC6BE0554B40
 
+1. Trường hợp chưa hết thời hạn kháng cáo theo quy định tại Điều 206 của Luật này thì người đã kháng cáo có quyền thay đổi, bổ sung kháng cáo mà không bị giới hạn bởi phạm vi kháng cáo ban đầu.
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000021900000000000000000
 
 **ID:** C5925C4B-665A-467C-B79E-D91DED409149
+
+1. Trước khi mở phiên tòa hoặc tại phiên tòa phúc thẩm, người kháng cáo, Viện kiểm sát kháng nghị, người có quyền lợi, nghĩa vụ liên quan đến kháng cáo, kháng nghị, người bảo vệ quyền và lợi ích hợp pháp của đương sự có quyền bổ sung chứng cứ mới.
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A118CF6F-6E31-4F4B-A353-D41B403799E0
 
+1. Cơ quan tiến hành tố tụng, người tiến hành tố tụng phải tôn trọng Nhân dân và chịu sự giám sát của Nhân dân.
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030002200
 
 **ID:** 728CFDE0-463E-4940-9A99-EA51942FE883
+
+1. Trong quá trình giải quyết vụ án, nếu Kiểm sát viên xét thấy cần xác minh, thu thập thêm chứng cứ để bảo đảm cho việc giải quyết vụ án kịp thời, đúng pháp luật thì Kiểm sát viên gửi văn bản yêu cầu Tòa án xác minh, thu thập chứng cứ theo quy định tại khoản 6 Điều 84 Luật TTHC.
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 19A52D40-BCBA-4153-B6D5-5780D2247074
 
+Hình thức kỷ luật cảnh cáo áp dụng đối với công chức, viên chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000022000000000000000000
 
 **ID:** 0A43009B-AF96-4FAA-96BA-83AB9F700624
+
+Tòa án cấp phúc thẩm chỉ xem xét lại phần bản án, quyết định của Tòa án cấp sơ thẩm có kháng cáo, kháng nghị hoặc có liên quan đến nội dung kháng cáo, kháng nghị.
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2F8EF35A-8676-4CE7-AB2B-1602C4AC3A58
 
+Trừ vụ án xét xử phúc thẩm theo thủ tục rút gọn hoặc vụ án có yếu tố nước ngoài, thời hạn chuẩn bị xét xử phúc thẩm được quy định như sau:
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000022200000000000000000
 
 **ID:** 7F4A1271-7045-416A-BA85-0B6A5317262D
+
+Hội đồng xét xử phúc thẩm gồm 03 Thẩm phán, trừ trường hợp quy định tại khoản 1 Điều 253 của Luật này.
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8EF7AD98-1004-4668-880B-7F32062A59ED
 
+1. Phiên tòa chỉ được tiến hành khi có đủ thành viên Hội đồng xét xử và Thư ký phiên tòa.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000022400000000000000000
 
 **ID:** 10AC3337-80D5-42EA-B418-B178BFCDE780
+
+1. Kiểm sát viên được Viện trưởng Viện kiểm sát cùng cấp phân công có nhiệm vụ tham gia phiên tòa. Hội đồng xét xử quyết định hoãn phiên tòa khi Kiểm sát viên vắng mặt trong trường hợp Viện kiểm sát có kháng nghị.
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7F9ABB84-7353-48D7-8C7F-4C862588F03F
 
+1. Tòa án triệu tập hợp lệ lần thứ nhất, người kháng cáo, người có quyền lợi, nghĩa vụ liên quan đến việc kháng cáo, kháng nghị, người bảo vệ quyền và lợi ích hợp pháp của họ phải có mặt; trường hợp có người vắng mặt thì Hội đồng xét xử hoãn phiên tòa.
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000022600000000000000000
 
 **ID:** 5D6AADF7-6E0A-4EBF-9B57-E30B7AEA7B79
+
+1. Hội đồng xét xử phúc thẩm không phải mở phiên tòa trong các trường hợp sau đây:
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C6BB4E87-D15C-4C22-B6EE-60839B1DA77A
 
+1. Đương sự được quyền giao nộp bổ sung tài liệu, chứng cứ trong giai đoạn chuẩn bị xét xử phúc thẩm trong những trường hợp sau đây:
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000022800000000000000000
 
 **ID:** 4899CE41-C259-44E0-91D0-EB0260B98229
+
+1. Tòa án cấp phúc thẩm ra quyết định tạm đình chỉ xét xử phúc thẩm vụ án, hậu quả của việc tạm đình chỉ xét xử phúc thẩm vụ án và tiếp tục xét xử phúc thẩm vụ án được thực hiện theo quy định tại Điều 141 và Điều 142 của Luật này.
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0003FA43-54C7-4998-9884-4BD5EAA5E868
 
+1. Tòa án cấp phúc thẩm ra quyết định đình chỉ xét xử phúc thẩm vụ án trong các trường hợp sau đây:
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100002300000000000000000
 
 **ID:** D6E165DE-99E1-4F53-9AF6-6231B03EE44E
+
+1. Bản án, quyết định của Tòa án đã có hiệu lực pháp luật phải được thi hành và phải được cơ quan, tổ chức, cá nhân tôn trọng. Cơ quan, tổ chức, cá nhân có liên quan phải nghiêm chỉnh chấp hành.
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 22776829-0E7F-4E50-BD19-2E4B5BEDFC79
 
+Sau khi kết thúc phiên tòa, phiên họp, Kiểm sát viên có quyền xem biên bản phiên tòa, phiên họp, yêu cầu ghi những sửa đổi, bổ sung vào biên bản. Yêu cầu của Kiểm sát viên được thực hiện ngay và Kiểm sát viên ký xác nhận những nội dung sửa đổi, bổ sung theo quy định tại khoản 4 Điều 166 Luật TTHC.
+
 ---
 
 
@@ -2103,6 +2482,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710002300
 
 **ID:** 74493ACC-BB77-423E-A9E5-743580A7EA98
+
+Hình thức kỷ luật hạ bậc lương áp dụng đối với công chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:
 
 ---
 
@@ -2115,6 +2496,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DAEF90B7-698E-4DA2-9894-BAA3331FF77C
 
+Trong quá trình giải quyết vụ án, Tòa án cấp phúc thẩm có quyền quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời theo quy định tại Chương V của Luật này.
+
 ---
 
 
@@ -2125,6 +2508,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000010000000000000000023100000000000000000
 
 **ID:** 14E0A822-C4FE-4AA7-AB3D-A00BDC4A2C15
+
+1. Tòa án cấp phúc thẩm phải chuyển hồ sơ vụ án cùng với quyết định đưa vụ án ra xét xử cho Viện kiểm sát cùng cấp.
 
 ---
 
@@ -2137,6 +2522,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5886D793-706D-421E-9124-9E272C849F9F
 
+1. Các trường hợp phải hoãn phiên tòa:
+
 ---
 
 
@@ -2147,6 +2534,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000020000000000000000023300000000000000000
 
 **ID:** B398E47F-1EDB-4628-9022-1A7199DA9A91
+
+1. Chuẩn bị khai mạc phiên tòa, thủ tục bắt đầu phiên tòa phúc thẩm, thủ tục công bố tài liệu, xem xét vật chứng tại phiên tòa phúc thẩm, nghị án và tuyên án, sửa chữa, bổ sung bản án phúc thẩm được thực hiện tương tự thủ tục xét xử sơ thẩm theo quy định của Luật này.
 
 ---
 
@@ -2159,6 +2548,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 73315C03-0C3F-42A3-80B5-81102D453E57
 
+1. Trước khi mở phiên tòa hoặc tại phiên tòa phúc thẩm mà người khởi kiện rút đơn khởi kiện thì Hội đồng xét xử phúc thẩm phải hỏi người bị kiện có đồng ý hay không và tùy từng trường hợp mà giải quyết như sau:
+
 ---
 
 
@@ -2169,6 +2560,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000020000000000000000023500000000000000000
 
 **ID:** B843BFE4-C542-4F47-804C-87778FF35A3A
+
+1. Trường hợp người bị kiện sửa đổi, hủy bỏ quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, quyết định giải quyết khiếu nại trong hoạt động kiểm toán nhà nước hoặc dừng, khắc phục hành vi hành chính bị khởi kiện liên quan đến quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân và người khởi kiện đồng ý rút đơn khởi kiện, người có quyền lợi, nghĩa vụ liên quan có yêu cầu độc lập đồng ý rút yêu cầu thì Hội đồng xét xử phúc thẩm hủy bản án, quyết định sơ thẩm và đình chỉ giải quyết vụ án; trong quyết định của bản án phải ghi rõ cam kết của đương sự để bảo đảm thi hành án hành chính.
 
 ---
 
@@ -2181,6 +2574,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D051881D-B823-4410-BA26-9658C24F15C1
 
+Nội dung và phương thức tranh tụng tại phiên tòa phúc thẩm được thực hiện như quy định tại Điều 175 của Luật này.
+
 ---
 
 
@@ -2191,6 +2586,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000030000000000000000023700000000000000000
 
 **ID:** 39227595-8395-4D8E-B5BC-28A2FFD25F01
+
+1. Trường hợp có đương sự vẫn giữ kháng cáo hoặc Viện kiểm sát vẫn giữ kháng nghị thì việc trình bày tại phiên tòa phúc thẩm được tiến hành như sau:
 
 ---
 
@@ -2203,6 +2600,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A7925EC1-AA6C-4413-98CA-4F02A661C605
 
+Việc tạm ngừng phiên tòa phúc thẩm được thực hiện theo quy định tại Điều 187 của Luật này.
+
 ---
 
 
@@ -2213,6 +2612,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000030000000000000000023900000000000000000
 
 **ID:** 79630199-1485-4793-8A2F-FE2FF51547A8
+
+1. Tại phiên tòa phúc thẩm, đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự chỉ được tranh luận về những vấn đề thuộc phạm vi xét xử phúc thẩm và đã được hỏi tại phiên tòa phúc thẩm.
 
 ---
 
@@ -2225,6 +2626,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FE39FA9F-EA1C-4B23-9601-0C583E3D6552
 
+Tòa án nhân dân tối cao giám đốc việc xét xử của các Tòa án; Tòa án nhân dân cấp cao giám đốc việc xét xử của Tòa án nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Tòa án cấp tỉnh), Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Tòa án cấp huyện) trong phạm vi thẩm quyền theo lãnh thổ để bảo đảm việc áp dụng thống nhất pháp luật trong xét xử.
+
 ---
 
 
@@ -2235,6 +2638,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030002400
 
 **ID:** 427632E1-1093-4A87-9C5E-0BC98588EDB8
+
+1. Trong thời hạn 10 ngày kể từ ngày nhận được văn bản thông báo của Tòa án về việc thụ lý vụ án theo quy định tại Điều 126 và khoản 1 Điều 217 Luật TTHC, Viện kiểm sát gửi cho Tòa án quyết định phân công Kiểm sát viên tham gia phiên tòa.
 
 ---
 
@@ -2247,6 +2652,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E1E1957F-E8AF-4671-8AB7-38BF5FB89C97
 
+Hình thức kỷ luật giáng chức áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:
+
 ---
 
 
@@ -2257,6 +2664,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000030000000000000000024000000000000000000
 
 **ID:** C9A7C0B4-5AC7-43A0-BAC9-4C13228C88CF
+
+Sau khi những người tham gia tố tụng phát biểu tranh luận và đối đáp xong, Kiểm sát viên phát biểu ý kiến của Viện kiểm sát về việc tuân theo pháp luật trong quá trình giải quyết vụ án hành chính ở giai đoạn phúc thẩm.
 
 ---
 
@@ -2269,6 +2678,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E98A712A-1CBE-49BA-A674-CDBA9E67589E
 
+1. Bác kháng cáo, kháng nghị và giữ nguyên quyết định của bản án sơ thẩm.
+
 ---
 
 
@@ -2279,6 +2690,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000030000000000000000024200000000000000000
 
 **ID:** A6CBDBC6-F1AA-46D6-88D5-F1C065BE4850
+
+1. Hội đồng xét xử phúc thẩm ra bản án phúc thẩm nhân danh nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -2291,6 +2704,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 02C54727-BAED-4D30-8D88-EC36EB8C8703
 
+1. Tòa án cấp phúc thẩm phải tổ chức phiên họp và ra quyết định giải quyết việc kháng cáo, kháng nghị trong thời hạn 15 ngày kể từ ngày nhận được kháng cáo, kháng nghị.
+
 ---
 
 
@@ -2301,6 +2716,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000130000030000000000000000024400000000000000000
 
 **ID:** 41DC5A49-000A-46DD-9EA4-7E36F4758754
+
+1. Trong thời hạn 30 ngày kể từ ngày ra bản án, quyết định phúc thẩm, Tòa án cấp phúc thẩm phải gửi bản án, quyết định phúc thẩm cho các đương sự, Viện kiểm sát và Tòa án đã giải quyết vụ án ở cấp sơ thẩm, Viện kiểm sát cùng cấp, cơ quan thi hành án dân sự có thẩm quyền và cơ quan cấp trên trực tiếp của người bị kiện.
 
 ---
 
@@ -2313,6 +2730,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CC8BBBF3-7057-4F8D-AD1C-2AD8E9ED6FDA
 
+1. Thủ tục rút gọn trong tố tụng hành chính là thủ tục giải quyết vụ án hành chính khi có các điều kiện theo quy định của Luật này nhằm rút ngắn về thời gian và thủ tục so với thủ tục giải quyết vụ án hành chính thông thường nhưng vẫn bảo đảm giải quyết vụ án đúng pháp luật.
+
 ---
 
 
@@ -2323,6 +2742,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000140000010000000000000000024600000000000000000
 
 **ID:** 8759CE04-4FE3-436B-B88F-B741F906A576
+
+1. Vụ án được giải quyết theo thủ tục rút gọn khi có đủ các điều kiện sau đây:
 
 ---
 
@@ -2335,6 +2756,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 312270D2-6C53-4629-AA9F-809F7A19279B
 
+1. Trong thời hạn 30 ngày kể từ ngày thụ lý vụ án theo quy định tại Điều 125 của Luật này thì Thẩm phán được phân công giải quyết vụ án phải ra quyết định đưa vụ án ra giải quyết theo thủ tục rút gọn và mở phiên tòa xét xử trong thời hạn 10 ngày kể từ ngày ra quyết định.
+
 ---
 
 
@@ -2345,6 +2768,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000140000010000000000000000024800000000000000000
 
 **ID:** 403353E5-D40C-4028-95D6-B88926936249
+
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định đưa vụ án ra giải quyết theo thủ tục rút gọn của Tòa án, đương sự có quyền khiếu nại, Viện kiểm sát cùng cấp có quyền kiến nghị với Chánh án Tòa án đã ra quyết định.
 
 ---
 
@@ -2357,6 +2782,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 544E77D5-CDA7-4922-9E7C-E4DBB1053233
 
+1. Việc xét xử sơ thẩm vụ án hành chính theo thủ tục rút gọn do một Thẩm phán thực hiện.
+
 ---
 
 
@@ -2367,6 +2794,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100002500000000000000000
 
 **ID:** EB7AD344-1FBA-4267-B165-06C92ACABC5E
+
+1. Viện kiểm sát kiểm sát việc tuân theo pháp luật trong tố tụng hành chính nhằm bảo đảm cho việc giải quyết vụ án hành chính kịp thời, đúng pháp luật.
 
 ---
 
@@ -2379,6 +2808,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 10A08F23-E4B6-4205-B02F-2AAB2C4CB8F9
 
+1. Sau khi đã gửi cho Tòa án quyết định phân công Kiểm sát viên tham gia phiên tòa, phiên họp, nếu thay đổi Kiểm sát viên đó thì Viện kiểm sát gửi cho Tòa án quyết định thay đổi Kiểm sát viên. Trong quyết định thay đổi phải ghi đầy đủ họ tên của Kiểm sát viên thay thế.
+
 ---
 
 
@@ -2389,6 +2820,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710002500
 
 **ID:** 8C69E0EB-A52E-422D-AE9A-20C12189FCC8
+
+Hình thức kỷ luật cách chức áp dụng đối với công chức, viên chức giữ chức vụ lãnh đạo, quản lý có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:
 
 ---
 
@@ -2401,6 +2834,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5A7096BB-C617-4469-B263-EB30FD5E9410
 
+1. Bản án, quyết định sơ thẩm của Tòa án theo thủ tục rút gọn có thể bị kháng cáo, kháng nghị để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục rút gọn phúc thẩm.
+
 ---
 
 
@@ -2411,6 +2846,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000140000020000000000000000025100000000000000000
 
 **ID:** 4BD1063F-11B5-4F09-BC9A-DCAF1E37EF45
+
+1. Thời hạn kháng cáo đối với bản án, quyết định của Tòa án cấp sơ thẩm theo thủ tục rút gọn là 07 ngày kể từ ngày tuyên án. Trường hợp đương sự không có mặt tại phiên tòa thì thời hạn kháng cáo tính từ ngày bản án, quyết định được giao cho họ hoặc được niêm yết.
 
 ---
 
@@ -2423,6 +2860,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 99AA7F32-CCE5-4BED-A9FF-B56C1D849D96
 
+1. Trong thời hạn 30 ngày kể từ ngày thụ lý vụ án, tùy từng trường hợp, Tòa án cấp phúc thẩm ra một trong các quyết định sau đây:
+
 ---
 
 
@@ -2433,6 +2872,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000140000020000000000000000025300000000000000000
 
 **ID:** 8CE263C7-7A0A-4F5A-A76C-2927E8E4F08E
+
+1. Việc xét xử phúc thẩm vụ án hành chính theo thủ tục rút gọn do một Thẩm phán thực hiện. Trong thời hạn 15 ngày kể từ ngày có quyết định đưa vụ án ra xét xử, Thẩm phán phải mở phiên tòa phúc thẩm.
 
 ---
 
@@ -2445,6 +2886,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F0FFF7E5-0BF8-4DCC-BC68-A36E902C0A29
 
+Giám đốc thẩm là xét lại bản án, quyết định của Tòa án đã có hiệu lực pháp luật nhưng bị kháng nghị giám đốc thẩm khi có căn cứ quy định tại Điều 255 của Luật này.
+
 ---
 
 
@@ -2455,6 +2898,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500025500000000000000000
 
 **ID:** 5B4316E3-8698-49E9-A585-BA05D213A266
+
+1. Bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị theo thủ tục giám đốc thẩm khi có một trong những căn cứ sau đây:
 
 ---
 
@@ -2467,6 +2912,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B3D3E214-B772-4F8F-8935-7032401E731F
 
+1. Trong thời hạn 01 năm kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật, nếu phát hiện có một trong các căn cứ quy định tại khoản 1 Điều 255 của Luật này thì đương sự có quyền đề nghị bằng văn bản với những người có thẩm quyền kháng nghị quy định tại Điều 260 của Luật này để xem xét kháng nghị theo thủ tục giám đốc thẩm.
+
 ---
 
 
@@ -2477,6 +2924,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500025700000000000000000
 
 **ID:** C12B9EB1-DC95-4D12-A527-A8DD0450D075
+
+1. Đơn đề nghị phải có các nội dung chính sau đây:
 
 ---
 
@@ -2489,6 +2938,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E3220BD2-5E76-4B59-85E9-E24A775788DF
 
+1. Tòa án, Viện kiểm sát nhận đơn đề nghị do đương sự nộp trực tiếp tại Tòa án, Viện kiểm sát hoặc gửi qua dịch vụ bưu chính và phải ghi vào sổ nhận đơn, cấp giấy xác nhận đã nhận đơn cho đương sự. Ngày gửi đơn được tính từ ngày đương sự nộp đơn tại Tòa án, Viện kiểm sát hoặc ngày có dấu của tổ chức dịch vụ bưu chính nơi gửi.
+
 ---
 
 
@@ -2499,6 +2950,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500025900000000000000000
 
 **ID:** 9CC2B3E9-3359-44BF-BB10-75B9919DEE42
+
+1. Đương sự được quyền cung cấp tài liệu, chứng cứ cho Tòa án, Viện kiểm sát có thẩm quyền xem xét theo thủ tục giám đốc thẩm, nếu những tài liệu, chứng cứ đó chưa được Tòa án cấp sơ thẩm, Tòa án cấp phúc thẩm yêu cầu đương sự giao nộp hoặc đã yêu cầu giao nộp nhưng đương sự không giao nộp được vì có lý do chính đáng hoặc những tài liệu, chứng cứ mà đương sự không thể biết được trong quá trình giải quyết vụ án.
 
 ---
 
@@ -2511,6 +2964,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2CE9EB2D-0539-4EB1-AA50-83BA86C76551
 
+1. Tại phiên họp xem xét, giải quyết khiếu nại của người khởi kiện, Kiểm sát viên phát biểu về các vấn đề sau đây:
+
 ---
 
 
@@ -2521,6 +2976,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100002600000000000000000
 
 **ID:** 6E3A67FE-781C-4586-88F7-155E6414C66E
+
+1. Tòa án có trách nhiệm tống đạt, chuyển giao, thông báo bản án, quyết định, giấy triệu tập, giấy mời và các giấy tờ khác của Tòa án theo quy định của Luật này.
 
 ---
 
@@ -2533,6 +2990,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5EF14926-AFFE-41EC-9303-20F3031BC944
 
+Hình thức kỷ luật buộc thôi việc áp dụng đối với công chức, viên chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:
+
 ---
 
 
@@ -2543,6 +3002,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500026000000000000000000
 
 **ID:** 1779A2DF-D456-4081-96B1-F2D041C78D8A
+
+1. Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân cấp cao; những bản án, quyết định đã có hiệu lực pháp luật của Tòa án khác khi xét thấy cần thiết, trừ quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao.
 
 ---
 
@@ -2555,6 +3016,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 92915522-FA6C-4429-A302-86ED9B9273D5
 
+1. Người có thẩm quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật của Tòa án có quyền hoãn thi hành bản án, quyết định để xem xét việc kháng nghị theo thủ tục giám đốc thẩm. Thời hạn hoãn không quá 03 tháng.
+
 ---
 
 
@@ -2565,6 +3028,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500026200000000000000000
 
 **ID:** 5E75127C-C5F4-4E34-AF9D-35596CA55FBB
+
+Quyết định kháng nghị giám đốc thẩm phải có các nội dung chính sau đây:
 
 ---
 
@@ -2577,6 +3042,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 98B1EECA-ADB6-498D-B40F-E9237122C43A
 
+1. Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm được quyền kháng nghị trong thời hạn 03 năm kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.
+
 ---
 
 
@@ -2587,6 +3054,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500026400000000000000000
 
 **ID:** 85EB7463-B209-4B0C-9C4B-A7FDCE223DCC
+
+1. Quyết định kháng nghị giám đốc thẩm phải được gửi ngay cho Tòa án đã ra bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị, đương sự, cơ quan thi hành án dân sự có thẩm quyền và những người khác có quyền lợi, nghĩa vụ liên quan đến nội dung kháng nghị.
 
 ---
 
@@ -2599,6 +3068,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DD5B1A09-6030-41E0-A880-6FF5BB271048
 
+1. Người đã kháng nghị giám đốc thẩm có quyền thay đổi, bổ sung quyết định kháng nghị, nếu chưa hết thời hạn kháng nghị quy định tại Điều 263 của Luật này.
+
 ---
 
 
@@ -2609,6 +3080,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500026600000000000000000
 
 **ID:** 9BC7B59D-F3AC-4989-8D23-D9BC3F28DD81
+
+1. Ủy ban Thẩm phán Tòa án nhân dân cấp cao giám đốc thẩm bản án, quyết định đã có hiệu lực pháp luật của Tòa án cấp tỉnh, Tòa án cấp huyện trong phạm vi thẩm quyền theo lãnh thổ bị kháng nghị như sau:
 
 ---
 
@@ -2621,6 +3094,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 785033DE-47FE-4EFC-A6D5-0DD05C42F14D
 
+1. Phiên tòa giám đốc thẩm phải có sự tham gia của Viện kiểm sát cùng cấp.
+
 ---
 
 
@@ -2631,6 +3106,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500026800000000000000000
 
 **ID:** 671FA6CB-14AD-4AA0-8AA8-77EE99908132
+
+Trong thời hạn 60 ngày kể từ ngày nhận được kháng nghị kèm theo hồ sơ vụ án, Tòa án có thẩm quyền giám đốc thẩm phải mở phiên tòa.
 
 ---
 
@@ -2643,6 +3120,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 78201A2B-1BE3-4683-81B4-5298E89235B8
 
+Chánh án Tòa án phân công một Thẩm phán làm bản thuyết trình về vụ án tại phiên tòa. Bản thuyết trình tóm tắt nội dung vụ án và các bản án, quyết định của các cấp Tòa án, nội dung của kháng nghị. Bản thuyết trình phải được gửi cho các thành viên Hội đồng xét xử giám đốc thẩm chậm nhất là 07 ngày trước ngày mở phiên tòa giám đốc thẩm.
+
 ---
 
 
@@ -2653,6 +3132,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030002700
 
 **ID:** 4E4D752A-46D5-42CD-9419-D081DEF5B3DA
+
+1. Tại phiên tòa sơ thẩm xét xử vụ án hành chính (theo thủ tục thông thường hoặc thủ tục rút gọn), sau khi những người tham gia tố tụng phát biểu tranh luận và đối đáp xong, Kiểm sát viên phát biểu ý kiến của Viện kiểm sát về những vấn đề sau đây:
 
 ---
 
@@ -2665,6 +3146,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 575AB43A-2BA4-4644-8815-175BC9788DE6
 
+Cơ quan, tổ chức, cá nhân có quyền và nghĩa vụ tham gia tố tụng hành chính theo quy định của Luật này, góp phần vào việc giải quyết vụ án hành chính tại Tòa án kịp thời, đúng pháp luật.
+
 ---
 
 
@@ -2675,6 +3158,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710002700
 
 **ID:** 58E19183-9255-4F52-A283-06CBB636046E
+
+1. Cơ quan, tổ chức, cá nhân cố ý không chấp hành án hoặc cản trở thi hành án thì tùy từng trường hợp mà bị xử phạt vi phạm hành chính.
 
 ---
 
@@ -2687,6 +3172,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 11BC994D-41E1-4729-AC35-60CB35DD35C8
 
+1. Sau khi chủ tọa khai mạc phiên tòa, một thành viên của Hội đồng xét xử giám đốc thẩm trình bày tóm tắt nội dung vụ án, quá trình xét xử vụ án, quyết định của bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị, các căn cứ, nhận định của kháng nghị và đề nghị của người kháng nghị. Trường hợp Viện kiểm sát kháng nghị thì đại diện Viện kiểm sát trình bày nội dung kháng nghị.
+
 ---
 
 
@@ -2697,6 +3184,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500027100000000000000000
 
 **ID:** 8D9E3EF7-EA23-40C3-91FA-535072A33BB3
+
+1. Hội đồng xét xử giám đốc thẩm chỉ xem xét phần quyết định của bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị hoặc có liên quan đến việc xem xét nội dung kháng nghị.
 
 ---
 
@@ -2709,6 +3198,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 003D2B5B-39BE-4B1A-B236-D3F10C85708E
 
+1. Không chấp nhận kháng nghị và giữ nguyên bản án, quyết định đã có hiệu lực pháp luật.
+
 ---
 
 
@@ -2719,6 +3210,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500027300000000000000000
 
 **ID:** 668DFCA7-A4EB-4774-A4A1-396ECA9412C1
+
+Hội đồng xét xử giám đốc thẩm ra quyết định hủy bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị và giữ nguyên bản án, quyết định của Tòa án cấp dưới xét xử đúng pháp luật, nhưng đã bị bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị hủy bỏ, sửa đổi một phần hoặc toàn bộ.
 
 ---
 
@@ -2731,6 +3224,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DEA4B88E-49A8-4D14-880A-57BD4D211939
 
+Hội đồng xét xử giám đốc thẩm ra quyết định hủy bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị để xét xử sơ thẩm lại hoặc xét xử phúc thẩm lại trong các trường hợp sau đây:
+
 ---
 
 
@@ -2741,6 +3236,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500027500000000000000000
 
 **ID:** 47B22F6E-E253-4316-AC81-364BD90058F2
+
+Hội đồng xét xử giám đốc thẩm ra quyết định hủy bản án, quyết định của Tòa án đã giải quyết vụ án và đình chỉ việc giải quyết vụ án, nếu trong quá trình xét xử sơ thẩm, xét xử phúc thẩm có một trong các trường hợp quy định tại khoản 1 Điều 143 của Luật này. Tòa án cấp giám đốc thẩm giao lại hồ sơ vụ án cho Tòa án đã xét xử sơ thẩm để trả lại đơn khởi kiện cùng tài liệu, chứng cứ kèm theo cho người khởi kiện, nếu có yêu cầu.
 
 ---
 
@@ -2753,6 +3250,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 89AEF251-63A4-422D-8C14-FE2F7D91EE3E
 
+1. Hội đồng xét xử giám đốc thẩm ra quyết định sửa một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật khi có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -2763,6 +3262,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500027700000000000000000
 
 **ID:** 6AA2E0D8-01B8-4F68-9CF9-24A43EB9CACF
+
+1. Hội đồng xét xử giám đốc thẩm ra quyết định giám đốc thẩm nhân danh nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -2775,6 +3276,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6ABE3C98-2102-4612-9685-78D229288F94
 
+Quyết định giám đốc thẩm có hiệu lực pháp luật kể từ ngày Hội đồng xét xử giám đốc thẩm ra quyết định.
+
 ---
 
 
@@ -2785,6 +3288,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001500027900000000000000000
 
 **ID:** FD7873B5-2677-4C9A-BAE4-0B3B81E95A27
+
+Trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định, Hội đồng xét xử giám đốc thẩm phải gửi quyết định giám đốc thẩm cho các cơ quan, tổ chức, cá nhân sau đây:
 
 ---
 
@@ -2797,6 +3302,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0C60E1DA-43A7-4416-BA7E-2B920A0B5E37
 
+Tại phiên họp xét kháng cáo quá hạn, Kiểm sát viên phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Tòa án cấp phúc thẩm, kể từ khi nhận được đơn kháng cáo quá hạn cho đến trước thời điểm Hội đồng xét kháng cáo quá hạn ra quyết định; phát biểu quan điểm về việc chấp nhận hoặc không chấp nhận kháng cáo quá hạn, phân tích làm rõ quan điểm của Viện kiểm sát.
+
 ---
 
 
@@ -2807,6 +3314,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100002800000000000000000
 
 **ID:** 7973277A-5D6B-4349-80A3-BCE702AB5AE2
+
+Cơ quan, tổ chức, cá nhân có quyền khiếu nại; cá nhân có quyền tố cáo hành vi, quyết định trái pháp luật của cơ quan tiến hành tố tụng, người tiến hành tố tụng hoặc của bất cứ cơ quan, tổ chức, cá nhân nào trong hoạt động tố tụng hành chính.
 
 ---
 
@@ -2819,6 +3328,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 73E77FF3-08FE-486A-AFD7-04A8F281FCFE
 
+1. Người nào có hành vi không thi hành án, không chấp hành án, cố ý cản trở việc thi hành án có đủ yếu tố cấu thành tội phạm thì bị truy cứu trách nhiệm hình sự theo quy định của Bộ luật hình sự.
+
 ---
 
 
@@ -2829,6 +3340,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001600028000000000000000000
 
 **ID:** E29F5A68-8BD2-42CD-931C-73DB87A2DAA8
+
+Tái thẩm là xét lại bản án, quyết định đã có hiệu lực pháp luật nhưng bị kháng nghị vì có những tình tiết mới được phát hiện có thể làm thay đổi cơ bản nội dung của bản án, quyết định mà Tòa án, đương sự không biết được khi Tòa án ra bản án, quyết định đó.
 
 ---
 
@@ -2841,6 +3354,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 38C43DEE-BDDA-4254-97B5-5863A67EC5C1
 
+Bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị theo thủ tục tái thẩm khi có một trong những căn cứ sau đây:
+
 ---
 
 
@@ -2851,6 +3366,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001600028200000000000000000
 
 **ID:** B6DEDEF0-D1C6-4D74-A09F-C9FA0AEFCC18
+
+1. Đương sự hoặc cơ quan, tổ chức, cá nhân khác khi phát hiện tình tiết mới của vụ án thì có quyền đề nghị bằng văn bản với người có thẩm quyền kháng nghị quy định tại Điều 283 của Luật này để xem xét kháng nghị theo thủ tục tái thẩm.
 
 ---
 
@@ -2863,6 +3380,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8D6D8801-15D3-4141-8CB4-19B5D6FB07B2
 
+1. Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có thẩm quyền kháng nghị theo thủ tục tái thẩm bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân cấp cao; bản án, quyết định đã có hiệu lực pháp luật của Tòa án khác khi xét thấy cần thiết, trừ quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao.
+
 ---
 
 
@@ -2873,6 +3392,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001600028400000000000000000
 
 **ID:** A854AEEA-4C59-4D08-AF04-4AA413F29C17
+
+Thời hạn kháng nghị theo thủ tục tái thẩm là 01 năm kể từ ngày người có thẩm quyền kháng nghị biết được căn cứ để kháng nghị theo thủ tục tái thẩm quy định tại Điều 281 của Luật này.
 
 ---
 
@@ -2885,6 +3406,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3675B6DC-41B1-45C7-AD10-86FE5A9B21D4
 
+1. Không chấp nhận kháng nghị và giữ nguyên bản án, quyết định đã có hiệu lực pháp luật.
+
 ---
 
 
@@ -2895,6 +3418,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001600028600000000000000000
 
 **ID:** 9DB7C5A5-362C-4DE8-84EA-8180D2DD4789
+
+Các quy định khác về thẩm quyền, thủ tục tái thẩm được thực hiện như các quy định về thủ tục giám đốc thẩm theo quy định của Luật này.
 
 ---
 
@@ -2907,6 +3432,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8D9BA969-38D1-4928-AB59-F8C2EA0FE74B
 
+1. Quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao khi có căn cứ xác định có vi phạm pháp luật nghiêm trọng hoặc phát hiện tình tiết quan trọng mới có thể làm thay đổi cơ bản nội dung quyết định mà Hội đồng Thẩm phán Tòa án nhân dân tối cao, đương sự không biết được khi ra quyết định đó thì được xem xét lại nếu thuộc một trong các trường hợp sau đây:
+
 ---
 
 
@@ -2917,6 +3444,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001700028800000000000000000
 
 **ID:** 3B8E3FE8-88B4-4881-AE41-891118E77522
+
+Sau khi nhận được yêu cầu của Ủy ban Thường vụ Quốc hội, kiến nghị của Ủy ban Tư pháp của Quốc hội hoặc sau khi Chánh án Tòa án nhân dân tối cao có văn bản đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao theo quy định tại khoản 1 Điều 287 của Luật này, Tòa án nhân dân tối cao gửi cho Viện kiểm sát nhân dân tối cao bản sao văn bản yêu cầu, kiến nghị hoặc đề nghị đó kèm theo hồ sơ vụ án để Viện kiểm sát nhân dân tối cao nghiên cứu và chuẩn bị ý kiến phát biểu tại phiên họp xem xét kiến nghị, đề nghị theo quy định tại Điều 291 của Luật này. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ vụ án, Viện kiểm sát nhân dân tối cao phải trả lại hồ sơ vụ án cho Tòa án nhân dân tối cao.
 
 ---
 
@@ -2929,6 +3458,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2A79D755-B569-48FF-B666-5EFF786A9505
 
+1. Trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị của Ủy ban Tư pháp của Quốc hội, kiến nghị của Viện trưởng Viện kiểm sát nhân dân tối cao hoặc kể từ ngày Chánh án Tòa án nhân dân tối cao có văn bản đề nghị thì Hội đồng Thẩm phán Tòa án nhân dân tối cao phải mở phiên họp xem xét kiến nghị của Ủy ban Tư pháp của Quốc hội, kiến nghị của Viện trưởng Viện kiểm sát nhân dân tối cao hoặc đề nghị của Chánh án Tòa án nhân dân tối cao theo quy định tại khoản 3 Điều 287 của Luật này.
+
 ---
 
 
@@ -2939,6 +3470,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030002900
 
 **ID:** 33A25AC6-0B8F-45DD-90DA-87832EF0519F
+
+1. Trường hợp chỉ có kháng nghị của Viện trưởng Viện kiểm sát thì tại phiên tòa phúc thẩm (theo thủ tục thông thường hoặc thủ tục rút gọn), phiên họp phúc thẩm, Kiểm sát viên trình bày, phát biểu những vấn đề sau đây:
 
 ---
 
@@ -2951,6 +3484,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4FBA262C-BCF5-4468-B6B1-994AD7594526
 
+Án phí, lệ phí và chi phí tố tụng được thực hiện theo quy định của Luật này và pháp luật về án phí, lệ phí Tòa án.
+
 ---
 
 
@@ -2961,6 +3496,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710002900
 
 **ID:** F265F6A1-71D4-46C8-8B5E-CB71913EDB81
+
+Người phải thi hành án trong quá trình thi hành án mà gây ra thiệt hại thì phải khắc phục hậu quả, bồi thường thiệt hại, hoàn trả theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước, pháp luật về dân sự.
 
 ---
 
@@ -2973,6 +3510,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 16C70814-9875-4237-948D-23F0829BDEB8
 
+1. Viện trưởng Viện kiểm sát nhân dân tối cao tham dự phiên họp của Hội đồng Thẩm phán Tòa án nhân dân tối cao để xem xét kiến nghị của Ủy ban Tư pháp của Quốc hội, kiến nghị của Viện trưởng Viện kiểm sát nhân dân tối cao hoặc đề nghị của Chánh án Tòa án nhân dân tối cao theo quy định tại khoản 4 Điều 287 của Luật này.
+
 ---
 
 
@@ -2983,6 +3522,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001700029100000000000000000
 
 **ID:** DE3290F1-B738-44E0-967A-1D912094CA61
+
+1. Chánh án Tòa án nhân dân tối cao tự mình hoặc phân công một thành viên Hội đồng Thẩm phán Tòa án nhân dân tối cao trình bày tóm tắt nội dung vụ án và quá trình giải quyết vụ án.
 
 ---
 
@@ -2995,6 +3536,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 52A4A28A-4D46-4B82-926C-BD2825E4EE8C
 
+Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc phiên họp xem xét kiến nghị, đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao, Hội đồng Thẩm phán Tòa án nhân dân tối cao gửi cho Viện trưởng Viện kiểm sát nhân dân tối cao, Ủy ban Tư pháp của Quốc hội văn bản thông báo việc Hội đồng Thẩm phán Tòa án nhân dân tối cao nhất trí hoặc không nhất trí với kiến nghị, đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao.
+
 ---
 
 
@@ -3005,6 +3548,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001700029300000000000000000
 
 **ID:** 5EFB6A07-1938-4415-871C-939256154FBB
+
+1. Trường hợp có yêu cầu của Ủy ban Thường vụ Quốc hội hoặc có quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao theo quy định tại khoản 5 Điều 291 của Luật này thì Chánh án Tòa án nhân dân tối cao tổ chức việc nghiên cứu hồ sơ vụ án, xác minh, thu thập tài liệu, chứng cứ trong trường hợp cần thiết.
 
 ---
 
@@ -3017,6 +3562,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 127F9400-8187-4906-AA20-269ED33D9F8F
 
+1. Trong thời hạn 04 tháng kể từ ngày nhận được yêu cầu của Ủy ban Thường vụ Quốc hội theo quy định tại khoản 2 Điều 287 của Luật này hoặc kể từ ngày có quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao theo quy định tại khoản 5 Điều 291 của Luật này, Hội đồng Thẩm phán Tòa án nhân dân tối cao phải mở phiên họp với sự tham gia của toàn thể Thẩm phán Tòa án nhân dân tối cao để xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao.
+
 ---
 
 
@@ -3027,6 +3574,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001700029500000000000000000
 
 **ID:** 264B7A2D-5928-40CC-96A6-D92244DF5D40
+
+1. Viện trưởng Viện kiểm sát nhân dân tối cao phải tham dự phiên họp xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao theo quy định tại khoản 4 Điều 287 của Luật này và phát biểu quan điểm về việc có hay không có vi phạm pháp luật nghiêm trọng hoặc tình tiết quan trọng mới làm thay đổi cơ bản nội dung quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao và quan điểm về việc giải quyết vụ án.
 
 ---
 
@@ -3039,6 +3588,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5AEE711C-81C4-4DD9-BB06-C565DC4F7551
 
+1. Sau khi nghe Chánh án Tòa án nhân dân tối cao báo cáo, nghe ý kiến của Viện trưởng Viện kiểm sát nhân dân tối cao, của cơ quan, tổ chức, cá nhân có liên quan được mời tham dự (nếu có), Hội đồng Thẩm phán Tòa án nhân dân tối cao ra quyết định hủy quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao có vi phạm pháp luật nghiêm trọng hoặc có tình tiết quan trọng mới làm thay đổi cơ bản nội dung quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao; hủy bản án, quyết định đã có hiệu lực của Tòa án cấp dưới có vi phạm pháp luật nghiêm trọng hoặc có tình tiết quan trọng mới làm thay đổi cơ bản nội dung bản án, quyết định và tùy từng trường hợp mà quyết định như sau:
+
 ---
 
 
@@ -3049,6 +3600,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001700029700000000000000000
 
 **ID:** F1307143-B1F6-4CE0-90A2-C487D36EC426
+
+Trong thời hạn 30 ngày kể từ ngày Hội đồng Thẩm phán Tòa án nhân dân tối cao ra quyết định quy định tại khoản 1 Điều 296 của Luật này thì Tòa án nhân dân tối cao gửi quyết định cho Ủy ban Thường vụ Quốc hội, Ủy ban Tư pháp của Quốc hội, Viện kiểm sát nhân dân tối cao, Tòa án đã giải quyết vụ án và các đương sự.
 
 ---
 
@@ -3061,6 +3614,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A1F917FC-2F14-4544-82DA-54850B2BC4C4
 
+1. Chương này quy định thủ tục giải quyết vụ án hành chính có yếu tố nước ngoài. Trường hợp trong Chương này không có quy định thì được áp dụng các quy định khác có liên quan của Luật này để giải quyết.
+
 ---
 
 
@@ -3071,6 +3626,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001800029900000000000000000
 
 **ID:** 87F2D374-CE82-4030-A357-0267962476D4
+
+1. Người nước ngoài, cơ quan, tổ chức nước ngoài, chi nhánh, văn phòng đại diện của cơ quan, tổ chức nước ngoài, tổ chức quốc tế, cơ quan đại diện của tổ chức quốc tế tại Việt Nam có quyền khởi kiện đến Tòa án Việt Nam để yêu cầu xem xét lại quyết định hành chính, hành vi hành chính khi có căn cứ cho rằng quyết định, hành vi đó là trái pháp luật và xâm phạm đến quyền và lợi ích hợp pháp của mình.
 
 ---
 
@@ -3083,6 +3640,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8D759156-96FC-43C0-93CC-0D3901401700
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -3093,6 +3652,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100000340258700071000030
 
 **ID:** 7F3EA2B2-34A5-4107-99D0-757DF08BC924
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -3105,6 +3666,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4746B5DA-B0AC-47F7-B82E-9C03ABD28A59
 
+Sau khi nhận được quyết định khởi tố vụ án và tài liệu, chứng cứ chứng minh hành vi phạm tội do Tòa án gửi theo quy định tại khoản 1 Điều 321 Luật TTHC, Viện kiểm sát gửi quyết định khởi tố vụ án và tài liệu, chứng cứ đến Cơ quan điều tra có thẩm quyền để tiến hành điều tra và thông báo cho Tòa án biết. Trường hợp quyết định khởi tố vụ án hình sự của Tòa án không có căn cứ thì Viện kiểm sát kháng nghị lên Tòa án trên một cấp.
+
 ---
 
 
@@ -3115,6 +3678,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001100000300000000000000000
 
 **ID:** 01B28947-DE75-4622-9E1A-A3AC32C04592
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3127,6 +3692,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0DD4FAC7-380E-45B7-AC88-33D9C1D3BE05
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3137,6 +3704,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002300037210256510104000030
 
 **ID:** B383C3F8-7F4D-48D2-98F2-F4A405F97232
+
+Đối với bản án, quyết định của Toà án có hiệu lực pháp luật trước ngày 01 tháng 7 năm 2016, nhưng đến ngày 01 tháng 7 năm 2016 vẫn chưa được thi hành hoặc chưa thi hành xong thì được thi hành theo quy định của Luật tố tụng hành chính số 93/2015/QH13.
 
 ---
 
@@ -3149,6 +3718,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7A9A556B-3FD4-4880-B75F-DF83434101CD
 
+1. Trường hợp Viện trưởng Viện kiểm sát kháng nghị thì tại phiên tòa, Kiểm sát viên trình bày, phát biểu về những vấn đề sau đây:
+
 ---
 
 
@@ -3159,6 +3730,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000200003000000000000000000
 
 **ID:** 66244C9F-2BB9-408A-A94C-88373B61ED3E
+
+1. Khiếu kiện quyết định hành chính, hành vi hành chính, trừ các quyết định, hành vi sau đây:
 
 ---
 
@@ -3171,6 +3744,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5F8B143E-2E6B-4B3E-B0B4-CE7E44F1E9C3
 
+1. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định buộc thi hành án hành chính, Cục Thi hành án dân sự tổ chức công khai quyết định buộc thi hành án hành chính bằng hình thức đăng tải trên Trang thông tin điện tử của Cục Thi hành án dân sự đối với các vụ việc thuộc thẩm quyền theo dõi của Cục và các Chi cục Thi hành án dân sự trực thuộc; đồng thời tích hợp trên Cổng thông tin điện tử của Tổng cục Thi hành án dân sự thuộc Bộ Tư pháp và Cổng thông tin điện tử Chính phủ đối với các vụ việc người phải thi hành án là Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ.
+
 ---
 
 
@@ -3181,6 +3756,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001800030000000000000000000
 
 **ID:** F73E41AF-2F0C-4BB4-A745-D7C62C1DE96B
+
+1. Năng lực pháp luật tố tụng hành chính và năng lực hành vi tố tụng hành chính của người nước ngoài được xác định như sau:
 
 ---
 
@@ -3193,6 +3770,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D149647F-78EC-46C4-B3F5-049366C6AC27
 
+1. Năng lực pháp luật tố tụng hành chính của cơ quan, tổ chức nước ngoài được xác định theo pháp luật của nước nơi cơ quan, tổ chức đó được thành lập.
+
 ---
 
 
@@ -3203,6 +3782,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001800030200000000000000000
 
 **ID:** D1DCD921-F699-4DF5-96D3-885D4D34B2BC
+
+Đương sự là người nước ngoài, cơ quan, tổ chức nước ngoài, chi nhánh, văn phòng đại diện của cơ quan, tổ chức nước ngoài, tổ chức quốc tế, cơ quan đại diện của tổ chức quốc tế tại Việt Nam tham gia tố tụng tại Tòa án Việt Nam có quyền nhờ luật sư bảo vệ quyền và lợi ích hợp pháp cho mình theo quy định của pháp luật Việt Nam.
 
 ---
 
@@ -3215,6 +3796,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9419C597-DA72-4D4F-8E7D-34653F31C38F
 
+1. Tòa án thực hiện việc tống đạt, thông báo văn bản tố tụng của Tòa án theo một trong các phương thức sau đây:
+
 ---
 
 
@@ -3225,6 +3808,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001800030400000000000000000
 
 **ID:** A9EA61C7-D260-4E3C-A790-EEDC5C362AEA
+
+1. Tòa án phải gửi thông báo thụ lý vụ án, trong đó nêu rõ thời gian, địa điểm mở phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và đối thoại (gọi tắt là phiên họp), mở lại phiên họp, mở phiên tòa và mở lại phiên tòa trong văn bản thông báo thụ lý vụ việc cho đương sự ở nước ngoài.
 
 ---
 
@@ -3237,6 +3822,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C140A617-2143-4A03-B7B6-94BC4E4B8817
 
+Khi nhận được kết quả tống đạt và kết quả thu thập chứng cứ ở nước ngoài, tùy từng trường hợp cụ thể mà Tòa án xử lý như sau:
+
 ---
 
 
@@ -3247,6 +3834,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001800030600000000000000000
 
 **ID:** B9D376C1-7D33-4879-A717-6AFF12979C4F
+
+1. Tòa án Việt Nam công nhận giấy tờ, tài liệu do cơ quan, tổ chức có thẩm quyền nước ngoài lập, cấp hoặc xác nhận trong những trường hợp sau đây:
 
 ---
 
@@ -3259,6 +3848,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6EB3237A-E5D7-4436-82F2-7C5129F373F0
 
+1. Đương sự có mặt tại Việt Nam có quyền kháng cáo bản án, quyết định của Tòa án trong thời hạn quy định tại Điều 206 của Luật này.
+
 ---
 
 
@@ -3269,6 +3860,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001800030800000000000000000
 
 **ID:** 7F89A3D1-AD82-40F7-90C7-9D0093BEB1F3
+
+Tòa án cấp phúc thẩm thực hiện việc tống đạt, thông báo văn bản tố tụng và xử lý kết quả tống đạt, thông báo văn bản tố tụng cho đương sự ở nước ngoài theo quy định tại các điều 303, 304 và 305 của Luật này.
 
 ---
 
@@ -3281,6 +3874,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 79A2166C-BAF4-4FCD-87BC-358FD619D24C
 
+1. Bản án, quyết định hoặc phần bản án, quyết định của Tòa án cấp sơ thẩm không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm đã có hiệu lực pháp luật.
+
 ---
 
 
@@ -3291,6 +3886,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000200003100000000000000000
 
 **ID:** FA602643-F37B-4962-BF5B-1DD557A77F95
+
+Tòa án cấp huyện giải quyết theo thủ tục sơ thẩm những khiếu kiện sau đây:
 
 ---
 
@@ -3303,6 +3900,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7F03C534-166A-43C4-8AF2-76EEC5F5C16E
 
+Cơ quan, người có thẩm quyền không xét thi đua, khen thưởng; không đánh giá, phân loại ở mức độ hoàn thành tốt nhiệm vụ, hoàn thành xuất sắc nhiệm vụ đối với cán bộ, công chức, viên chức vi phạm pháp luật về thi hành án hành chính.
+
 ---
 
 
@@ -3313,6 +3912,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000210003430000000000000000000802593100030003100
 
 **ID:** 38A73A5D-43EB-4660-BF66-FCB94716BC97
+
+1. Viện kiểm sát yêu cầu Tòa án cùng cấp và Tòa án cấp dưới ra văn bản giải quyết khiếu nại, tố cáo theo quy định tại Chương XXI Luật TTHC khi thuộc một trong những trường hợp sau đây:
 
 ---
 
@@ -3325,6 +3926,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1A6EE29A-64BC-4E18-B04D-1AF7B863D66D
 
+1. Người được thi hành án, người phải thi hành án, người có quyền lợi, nghĩa vụ liên quan đến việc thi hành bản án, quyết định của Tòa án và cơ quan thi hành án dân sự có quyền yêu cầu bằng văn bản với Tòa án đã ra bản án, quyết định quy định tại các khoản 1, 2, 3 và 4 Điều 309 của Luật này giải thích những điểm chưa rõ trong bản án, quyết định để thi hành.
+
 ---
 
 
@@ -3335,6 +3938,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001900031100000000000000000
 
 **ID:** F09760E9-034C-4CB7-9EB2-3267D33F12D3
+
+1. Việc thi hành bản án, quyết định của Tòa án về vụ án hành chính quy định tại Điều 309 của Luật này được thực hiện như sau:
 
 ---
 
@@ -3347,6 +3952,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8580D14A-27B3-4B10-A0F2-A4795EF92F6D
 
+1. Trong thời hạn 01 năm kể từ ngày hết thời hạn quy định tại điểm b khoản 2 Điều 311 của Luật này mà người phải thi hành án không tự nguyện thi hành thì người được thi hành án có quyền gửi đơn kèm theo bản sao bản án, quyết định của Tòa án, tài liệu khác có liên quan đề nghị Tòa án đã xét xử sơ thẩm ra quyết định buộc thi hành bản án, quyết định của Tòa án.
+
 ---
 
 
@@ -3357,6 +3964,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001900031300000000000000000
 
 **ID:** B3E6AC30-D8AF-4ED2-98E5-506E457C544E
+
+1. Chính phủ thống nhất quản lý nhà nước về công tác thi hành án hành chính trong phạm vi cả nước; phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong công tác quản lý nhà nước về thi hành án hành chính; định kỳ hằng năm báo cáo Quốc hội về công tác thi hành án hành chính.
 
 ---
 
@@ -3369,6 +3978,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 20DB406D-EB3B-4387-9385-FD9BA0BD4731
 
+1. Cơ quan, tổ chức, cá nhân phải thi hành án cố ý không chấp hành bản án, quyết định của Tòa án, quyết định buộc thi hành án của Tòa án thì tùy từng trường hợp mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của luật.
+
 ---
 
 
@@ -3379,6 +3990,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000001900031500000000000000000
 
 **ID:** B2CA16C4-E81C-47F1-9A2F-A3B163F97F81
+
+Viện kiểm sát kiểm sát việc tuân theo pháp luật của đương sự, cơ quan, tổ chức, cá nhân có liên quan đến việc thi hành bản án, quyết định của Tòa án bảo đảm việc thi hành bản án, quyết định kịp thời, đầy đủ, đúng pháp luật.
 
 ---
 
@@ -3391,6 +4004,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 12806270-1533-4AFE-BB7D-6DC25DBDEF5B
 
+1. Người có hành vi vi phạm nội quy phiên tòa quy định tại Điều 153 của Luật này thì tùy theo tính chất, mức độ vi phạm mà có thể bị Chủ tọa phiên tòa quyết định xử phạt vi phạm hành chính theo quy định của pháp luật.
+
 ---
 
 
@@ -3401,6 +4016,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002000031700000000000000000
 
 **ID:** 39743269-1BB7-42A6-BCFE-C82E5920CEAC
+
+Người có hành vi xúc phạm uy tín của Tòa án, danh dự, nhân phẩm của những người tiến hành tố tụng hoặc những người khác thực hiện nhiệm vụ theo yêu cầu của Tòa án thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
 ---
 
@@ -3413,6 +4030,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4C0BA30C-16ED-4C79-9D74-78F790457ED7
 
+Người nào có một trong các hành vi sau đây thì tùy theo tính chất, mức độ vi phạm mà có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật:
+
 ---
 
 
@@ -3423,6 +4042,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002000031900000000000000000
 
 **ID:** 06A22B07-6735-40F9-93D1-2D3B6219CF57
+
+1. Người làm chứng, người phiên dịch, người giám định đã được Tòa án triệu tập hợp lệ nhưng cố ý không đến Tòa án hoặc không có mặt tại phiên tòa, phiên họp mà không có lý do chính đáng và nếu sự vắng mặt của họ gây trở ngại cho việc thu thập, xác minh chứng cứ hoặc giải quyết vụ án thì bị xử phạt vi phạm hành chính theo quy định của pháp luật.
 
 ---
 
@@ -3435,6 +4056,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9B5B3D1D-9CA0-4270-A13D-569FEA32F937
 
+Tòa án cấp tỉnh giải quyết theo thủ tục sơ thẩm những khiếu kiện sau đây:
+
 ---
 
 
@@ -3445,6 +4068,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710003200
 
 **ID:** DE99801B-EA2A-476C-B2C5-88B43A8DFE45
+
+1. Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về thi hành án hành chính theo quy định tại khoản 2 Điều 313 Luật tố tụng hành chính.
 
 ---
 
@@ -3457,6 +4082,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1FD7D8BC-C8E8-4258-A148-7CBF21C8A014
 
+1. Trường hợp có căn cứ xác định việc giải quyết khiếu nại, tố cáo của Tòa án, người có thẩm quyền không đúng pháp luật thì Viện kiểm sát kiến nghị với Tòa án cùng cấp và Tòa án cấp dưới khắc phục vi phạm pháp luật.
+
 ---
 
 
@@ -3467,6 +4094,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002000032000000000000000000
 
 **ID:** 26757826-59A3-4D77-B6C8-3AAB510AC469
+
+Người nào bằng ảnh hưởng của mình có hành vi tác động dưới bất kỳ hình thức nào đối với Thẩm phán, thành viên Hội đồng xét xử nhằm làm cho việc giải quyết vụ án không khách quan, không đúng pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
 ---
 
@@ -3479,6 +4108,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 966ED623-9476-4E04-991E-7FA6DBC8BD73
 
+1. Trường hợp Tòa án khởi tố vụ án hình sự theo quy định tại khoản 3 Điều 316 của Luật này thì trong thời hạn 15 ngày kể từ ngày ra quyết định khởi tố, Tòa án phải chuyển cho Viện kiểm sát có thẩm quyền quyết định khởi tố vụ án và tài liệu, chứng cứ để chứng minh hành vi phạm tội.
+
 ---
 
 
@@ -3489,6 +4120,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002000032200000000000000000
 
 **ID:** 8E851032-AB93-4861-AFB4-5FAE19CE273E
+
+Người có một trong các hành vi sau đây thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật:
 
 ---
 
@@ -3501,6 +4134,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6F97299F-5A66-4499-A0C7-442AAAAA58D4
 
+Người có hành vi đe dọa, hành hung hoặc lợi dụng sự lệ thuộc nhằm cản trở đại diện của cơ quan, tổ chức, cá nhân đến phiên tòa, phiên họp theo triệu tập của Tòa án thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+
 ---
 
 
@@ -3511,6 +4146,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002000032400000000000000000
 
 **ID:** 0FCD3A7C-9D84-4E96-B266-DB9F020E65B3
+
+Người có hành vi đưa tin sai sự thật nhằm cản trở Tòa án giải quyết vụ án thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
 ---
 
@@ -3523,6 +4160,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** AFBE0595-2086-4A9C-A5CB-DA66DF460E7F
 
+1. Cơ quan, tổ chức, cá nhân không thi hành quyết định của Tòa án về việc cung cấp tài liệu, chứng cứ mà cơ quan, tổ chức, cá nhân đó đang quản lý, lưu giữ thì bị xử phạt vi phạm hành chính theo quy định của pháp luật.
+
 ---
 
 
@@ -3533,6 +4172,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002000032600000000000000000
 
 **ID:** 29A8321A-741C-4613-B4A9-8B26B38095BF
+
+Hình thức xử phạt, thẩm quyền, trình tự, thủ tục xử phạt vi phạm hành chính đối với các hành vi cản trở hoạt động tố tụng hành chính được thực hiện theo quy định của Luật Xử lý vi phạm hành chính và quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -3545,6 +4186,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 34DE237D-D3D3-49A4-9696-99E39F932FD4
 
+1. Cơ quan, tổ chức, cá nhân có quyền khiếu nại quyết định, hành vi trong tố tụng hành chính của cơ quan, người tiến hành tố tụng hành chính khi có căn cứ cho rằng quyết định, hành vi đó là trái pháp luật, xâm phạm quyền và lợi ích hợp pháp của mình.
+
 ---
 
 
@@ -3555,6 +4198,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100032800000000000000000
 
 **ID:** 3A9B6126-9FB4-4CCE-9F4C-CE965F6CC5A9
+
+1. Người khiếu nại có các quyền sau đây:
 
 ---
 
@@ -3567,6 +4212,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 7791C67A-6128-4CEA-A146-2929163DD7BE
 
+1. Người bị khiếu nại có các quyền sau đây:
+
 ---
 
 
@@ -3577,6 +4224,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000200003300000000000000000
 
 **ID:** EF0A13B6-D223-4D73-A7CD-E4BEF15E4C88
+
+1. Trường hợp người khởi kiện có đơn khởi kiện vụ án hành chính tại Tòa án có thẩm quyền, đồng thời có đơn khiếu nại đến người có thẩm quyền giải quyết khiếu nại thì Tòa án phải yêu cầu người khởi kiện lựa chọn cơ quan giải quyết và có văn bản thông báo cho Tòa án.
 
 ---
 
@@ -3589,6 +4238,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 06D4379C-18CD-4460-B16D-736C4A6CAB37
 
+1. Chỉ đạo, hướng dẫn tổ chức thực hiện các bản án, quyết định của Tòa án liên quan đến lĩnh vực mình quản lý.
+
 ---
 
 
@@ -3599,6 +4250,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002300037280259310003000330
 
 **ID:** E2259BFD-66DD-4012-9C97-C0C58E43764E
+
+1. Thông tư liên tịch này có hiệu lực thi hành từ ngày 18 tháng 10 năm 2016.
 
 ---
 
@@ -3611,6 +4264,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 577E8568-112E-4295-BA26-460F7BE83E07
 
+Thời hiệu khiếu nại là 10 ngày kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng mà người đó cho rằng có vi phạm pháp luật.
+
 ---
 
 
@@ -3621,6 +4276,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100033100000000000000000
 
 **ID:** F417A6C4-379B-467C-8BB6-FEE52116D16A
+
+Việc khiếu nại phải được thực hiện bằng đơn. Trong đơn khiếu nại phải ghi rõ ngày, tháng, năm; họ, tên, địa chỉ của người khiếu nại; nội dung, lý do khiếu nại, yêu cầu của người khiếu nại, có chữ ký hoặc điểm chỉ của người khiếu nại.
 
 ---
 
@@ -3633,6 +4290,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C430EBB5-34F3-49C4-A3ED-EC2DC2D17229
 
+1. Khiếu nại quyết định, hành vi của người tiến hành tố tụng là Thẩm phán, Phó Chánh án, Thẩm tra viên, Thư ký Tòa án, Hội thẩm nhân dân do Chánh án Tòa án đang giải quyết vụ án hành chính có thẩm quyền giải quyết.
+
 ---
 
 
@@ -3643,6 +4302,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100033300000000000000000
 
 **ID:** BC73DB15-723D-427F-B5C0-1CEE459F38FA
+
+Thời hạn giải quyết khiếu nại lần đầu là 15 ngày kể từ ngày Tòa án, Viện kiểm sát nhận được khiếu nại. Trường hợp cần thiết, đối với vụ việc có tính chất phức tạp thì thời hạn giải quyết khiếu nại có thể được kéo dài nhưng không quá 15 ngày kể từ ngày hết thời hạn giải quyết khiếu nại.
 
 ---
 
@@ -3655,6 +4316,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 09D34421-58F6-460F-A9BD-75FE905792DE
 
+1. Người giải quyết khiếu nại lần đầu phải ra quyết định giải quyết khiếu nại bằng văn bản. Quyết định giải quyết khiếu nại phải có các nội dung sau đây:
+
 ---
 
 
@@ -3665,6 +4328,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100033500000000000000000
 
 **ID:** 2AA1FEFC-BF86-4F38-9B05-7C1E8E48A0DB
+
+1. Trong thời hạn 05 ngày làm việc kể từ ngày người khiếu nại nhận được quyết định giải quyết khiếu nại lần đầu, nếu không đồng ý với quyết định đó hoặc quá thời hạn quy định tại Điều 333 của Luật này mà khiếu nại không được giải quyết thì người khiếu nại có quyền khiếu nại đến người có thẩm quyền giải quyết khiếu nại lần hai.
 
 ---
 
@@ -3677,6 +4342,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 22EB9A4F-A97E-4D3B-8F1B-2C2942797A69
 
+Việc giải quyết khiếu nại về hoạt động giám định trong tố tụng hành chính được thực hiện theo quy định của pháp luật về giám định tư pháp và quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -3687,6 +4354,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100033700000000000000000
 
 **ID:** 15750C93-0DDB-4A8D-B75D-E58869DE5F78
+
+Cá nhân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của người có thẩm quyền tiến hành tố tụng gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích công cộng, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 ---
 
@@ -3699,6 +4368,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A5831C9C-5EB8-4A4C-9405-97348CA9E37E
 
+1. Người tố cáo có các quyền sau đây:
+
 ---
 
 
@@ -3709,6 +4380,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100033900000000000000000
 
 **ID:** 43A93EBA-B2AA-4FCD-8038-27BA4028AD2E
+
+1. Người bị tố cáo các có quyền sau đây:
 
 ---
 
@@ -3721,6 +4394,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1559991C-FD7E-45BB-A204-E7D7EF646899
 
+1. Trong quá trình giải quyết vụ án hành chính theo thủ tục sơ thẩm, Tòa án xác định vụ án đó không phải là vụ án hành chính mà là vụ án dân sự và việc giải quyết vụ án này thuộc thẩm quyền của mình thì Tòa án giải quyết vụ án đó theo thủ tục chung do pháp luật tố tụng dân sự quy định, đồng thời thông báo cho đương sự và Viện kiểm sát cùng cấp.
+
 ---
 
 
@@ -3731,6 +4406,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710003400
 
 **ID:** 4C2BE120-3EC7-45EF-883F-CCF559BB0904
+
+1. Ủy ban nhân dân cấp tỉnh, cấp huyện chỉ đạo Ủy ban nhân dân cấp dưới và các cơ quan chuyên môn thuộc Ủy ban nhân dân nghiêm chỉnh thi hành án hành chính.
 
 ---
 
@@ -3743,6 +4420,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9313FFEA-C94E-4E1F-8FF5-965CE8A6ECB9
 
+Trong quá trình thực hiện, nếu có vướng mắc cần hướng dẫn, sửa đổi, bổ sung thì các cơ quan, tổ chức, cá nhân có liên quan thông báo cho Viện kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao để xem xét, quyết định.
+
 ---
 
 
@@ -3753,6 +4432,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100034000000000000000000
 
 **ID:** C2F6FD2E-AE83-41A1-8E5A-C8BD41B57854
+
+1. Tố cáo hành vi vi phạm pháp luật của người có thẩm quyền tiến hành tố tụng thuộc cơ quan có thẩm quyền nào thì người đứng đầu cơ quan đó có trách nhiệm giải quyết.
 
 ---
 
@@ -3765,6 +4446,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DBC0D59D-6D4A-42B8-BF52-D4AEFF56C049
 
+Thủ tục giải quyết tố cáo được thực hiện theo quy định của pháp luật về tố cáo.
+
 ---
 
 
@@ -3775,6 +4458,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002100034200000000000000000
 
 **ID:** A50D8029-7073-454D-97C3-90B7FE209A35
+
+1. Cơ quan, tổ chức, cá nhân có thẩm quyền trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tiếp nhận và giải quyết kịp thời, đúng pháp luật; xử lý nghiêm minh người vi phạm; áp dụng biện pháp cần thiết nhằm ngăn chặn thiệt hại có thể xảy ra; bảo đảm cho quyết định giải quyết được thi hành nghiêm chỉnh và phải chịu trách nhiệm trước pháp luật về quyết định của mình.
 
 ---
 
@@ -3787,6 +4472,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 1BF439B9-5DF9-4405-9ABF-36C953DDB518
 
+Viện kiểm sát kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng hành chính theo quy định của pháp luật. Viện kiểm sát có quyền yêu cầu, kiến nghị đối với Tòa án cùng cấp, Tòa án cấp dưới, cơ quan, tổ chức và cá nhân có trách nhiệm bảo đảm việc giải quyết khiếu nại, tố cáo có căn cứ, đúng pháp luật.
+
 ---
 
 
@@ -3797,6 +4484,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000010000000000000000034400000000000000000
 
 **ID:** 77B6FA0B-9AC5-47D3-BA9C-027B7F7C9B12
+
+1. Tiền tạm ứng án phí bao gồm tiền tạm ứng án phí sơ thẩm và tiền tạm ứng án phí phúc thẩm.
 
 ---
 
@@ -3809,6 +4498,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5CA5721D-9242-48C9-9D53-DC193412CE6F
 
+1. Toàn bộ án phí, lệ phí thu được phải nộp đầy đủ, kịp thời vào ngân sách nhà nước tại kho bạc nhà nước.
+
 ---
 
 
@@ -3819,6 +4510,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000010000000000000000034600000000000000000
 
 **ID:** 4115FA63-DC1A-4CC3-BBC9-1D6EEE55659D
+
+Việc thu tiền tạm ứng án phí và án phí, việc chi trả tiền tạm ứng án phí, việc thu tiền lệ phí được thực hiện theo quy định của pháp luật.
 
 ---
 
@@ -3831,6 +4524,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6BC5A072-A049-4FBF-B1B1-9A47964A9D5B
 
+Người khởi kiện và người có quyền lợi, nghĩa vụ liên quan có yêu cầu độc lập trong vụ án hành chính phải nộp tiền tạm ứng án phí sơ thẩm, người kháng cáo theo thủ tục phúc thẩm phải nộp tiền tạm ứng án phí phúc thẩm, trừ trường hợp được miễn hoặc không phải nộp tiền tạm ứng án phí.
+
 ---
 
 
@@ -3841,6 +4536,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000010000000000000000034800000000000000000
 
 **ID:** 90264EDC-2A11-46C7-BAF3-6161A836733E
+
+1. Đương sự phải chịu án phí sơ thẩm nếu yêu cầu của họ không được Tòa án chấp nhận, trừ trường hợp được miễn nộp án phí hoặc không phải chịu án phí sơ thẩm.
 
 ---
 
@@ -3853,6 +4550,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F0AB28EB-8B47-4E74-8560-1162726896C8
 
+1. Đương sự kháng cáo phải nộp án phí phúc thẩm, nếu Tòa án cấp phúc thẩm giữ nguyên bản án, quyết định sơ thẩm bị kháng cáo, trừ trường hợp được miễn hoặc không phải chịu án phí phúc thẩm.
+
 ---
 
 
@@ -3863,6 +4562,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000200003500000000000000000
 
 **ID:** 51948001-6BDC-492A-A7B1-9557B77DF103
+
+1. Tòa án nhập hai hoặc nhiều vụ án mà Tòa án đã thụ lý riêng biệt thành một vụ án để giải quyết bằng một vụ án hành chính khi có đủ các điều kiện sau đây:
 
 ---
 
@@ -3875,6 +4576,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 02C914AF-65A0-474D-B97D-0B4A4048F0F4
 
+1. Nhiệm vụ, quyền hạn của Cục Thi hành án dân sự cấp tỉnh
+
 ---
 
 
@@ -3885,6 +4588,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000010000000000000000035000000000000000000
 
 **ID:** FA80E878-FCAE-4C48-A50B-207C1FF2FF11
+
+Nghĩa vụ nộp lệ phí được xác định tùy theo từng loại việc cụ thể và do luật quy định.
 
 ---
 
@@ -3897,6 +4602,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5C78FD7A-90A7-4041-8B8F-199A74D0A8FB
 
+Căn cứ vào quy định của Luật phí và lệ phí và Luật này, Ủy ban Thường vụ Quốc hội quy định cụ thể về án phí, lệ phí Tòa án; mức thu án phí, lệ phí Tòa án đối với mỗi loại vụ án; các trường hợp được miễn, giảm hoặc không phải nộp án phí và các vấn đề cụ thể khác liên quan đến án phí, lệ phí Tòa án.
+
 ---
 
 
@@ -3907,6 +4614,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000035200000000000000000
 
 **ID:** 1CCCAB1A-B32B-42E2-AC36-C09648FDFA46
+
+1. Tiền tạm ứng chi phí ủy thác tư pháp ra nước ngoài là số tiền mà Tòa án tạm tính để chi trả cho việc ủy thác tư pháp khi tiến hành thu thập, cung cấp chứng cứ, tống đạt giấy tờ, hồ sơ, tài liệu, triệu tập người làm chứng, người giám định và các yêu cầu tương trợ tư pháp có liên quan đến việc giải quyết vụ án hành chính.
 
 ---
 
@@ -3919,6 +4628,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E42145C6-0B5A-4EB6-919F-FEF8862B20A5
 
+Người khởi kiện, người kháng cáo theo thủ tục phúc thẩm hoặc đương sự khác trong vụ án phải nộp tiền tạm ứng chi phí ủy thác tư pháp ra nước ngoài khi yêu cầu của họ làm phát sinh việc ủy thác tư pháp ra nước ngoài.
+
 ---
 
 
@@ -3929,6 +4640,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000035400000000000000000
 
 **ID:** BE2A3EB2-A6E7-4513-8F2E-C8DF2370AD85
+
+Trường hợp các đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí ủy thác tư pháp ra nước ngoài được xác định như sau:
 
 ---
 
@@ -3941,6 +4654,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EB0F477B-C745-4FE9-8458-2A1534832249
 
+1. Trường hợp người đã nộp tiền tạm ứng chi phí ủy thác tư pháp không phải chịu chi phí ủy thác tư pháp thì người phải chịu chi phí ủy thác tư pháp theo quyết định của Tòa án phải hoàn trả cho người đã nộp tiền tạm ứng chi phí ủy thác tư pháp.
+
 ---
 
 
@@ -3951,6 +4666,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000035600000000000000000
 
 **ID:** 882CDF16-C5BC-4352-AFE0-FA901A5229FE
+
+1. Tiền tạm ứng chi phí xem xét, thẩm định tại chỗ là số tiền mà Tòa án tạm tính để tiến hành việc xem xét, thẩm định tại chỗ.
 
 ---
 
@@ -3963,6 +4680,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 73CE5916-3183-44BC-8218-B29CF943E004
 
+1. Người yêu cầu Tòa án xem xét, thẩm định tại chỗ phải nộp tiền tạm ứng chi phí xem xét, thẩm định tại chỗ theo yêu cầu của Tòa án.
+
 ---
 
 
@@ -3973,6 +4692,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000035800000000000000000
 
 **ID:** 8F97F207-6716-4301-AD52-53F939E25D5E
+
+Trường hợp các bên đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí xem xét, thẩm định tại chỗ được xác định như sau:
 
 ---
 
@@ -3985,6 +4706,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8E966568-29AE-4C20-BAA1-B4E009C57E2C
 
+1. Trường hợp người đã nộp tiền tạm ứng chi phí xem xét, thẩm định tại chỗ không phải chịu chi phí xem xét, thẩm định tại chỗ thì người phải chịu chi phí xem xét, thẩm định tại chỗ theo quyết định của Tòa án phải hoàn trả cho người đã nộp tiền tạm ứng chi phí xem xét, thẩm định tại chỗ.
+
 ---
 
 
@@ -3995,6 +4718,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300003600000000000000000
 
 **ID:** 4FF3CF7E-ED85-47AE-ABCA-E6F32594613C
+
+1. Các cơ quan tiến hành tố tụng hành chính gồm có:
 
 ---
 
@@ -4007,6 +4732,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3CFA4264-308E-4CE7-A707-FD9D3F298EEA
 
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
 ---
 
 
@@ -4017,6 +4744,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000036000000000000000000
 
 **ID:** 086B05EC-9477-450D-ADCC-DD335AED3008
+
+1. Tiền tạm ứng chi phí giám định là số tiền mà người giám định tạm tính để tiến hành việc giám định theo quyết định của Tòa án hoặc theo yêu cầu giám định của đương sự.
 
 ---
 
@@ -4029,6 +4758,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DFCFC4C9-7CE7-49CE-BE4A-A5F41105CD83
 
+Trường hợp các đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ nộp tiền tạm ứng chi phí giám định được xác định như sau:
+
 ---
 
 
@@ -4039,6 +4770,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000036200000000000000000
 
 **ID:** 0112B29B-19E4-4CD4-BBD9-9E5CB2ECE1B4
+
+Trường hợp các bên đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí giám định được xác định như sau:
 
 ---
 
@@ -4051,6 +4784,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 060EEBCA-6929-42CE-A788-276F06876E21
 
+1. Trường hợp người đã nộp tiền tạm ứng chi phí giám định không phải chịu chi phí giám định thì người phải chịu chi phí giám định theo quyết định của Tòa án phải hoàn trả cho người đã nộp tiền tạm ứng chi phí giám định.
+
 ---
 
 
@@ -4061,6 +4796,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000036400000000000000000
 
 **ID:** 83C2C053-9427-48B3-A826-CFAF9B256D8D
+
+1. Tiền tạm ứng chi phí định giá tài sản là số tiền mà Hội đồng định giá tạm tính để tiến hành việc định giá theo quyết định của Tòa án.
 
 ---
 
@@ -4073,6 +4810,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 09585ABA-71F6-41ED-B9AE-242B0A17B735
 
+Trường hợp các đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí định giá tài sản được xác định như sau:
+
 ---
 
 
@@ -4083,6 +4822,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000036600000000000000000
 
 **ID:** 4F8EB900-39F0-477A-B088-08EA8A51A8FD
+
+Trường hợp các đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí định giá tài sản, thẩm định giá tài sản được xác định như sau:
 
 ---
 
@@ -4095,6 +4836,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** E1E57489-9758-4A16-87D5-88D35D779709
 
+1. Trường hợp người đã nộp tiền tạm ứng chi phí định giá tài sản không phải chịu chi phí định giá tài sản thì người phải chịu chi phí định giá tài sản theo quyết định của Tòa án phải hoàn trả cho người đã nộp tiền tạm ứng chi phí định giá tài sản.
+
 ---
 
 
@@ -4105,6 +4848,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000036800000000000000000
 
 **ID:** 6C8396D5-A4A4-49B4-8BBA-7C4EE1B5659D
+
+1. Chi phí hợp lý và thực tế cho người làm chứng do đương sự chịu.
 
 ---
 
@@ -4117,6 +4862,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 83EB2D5F-7C96-4D9D-A586-A1BE080A5A9C
 
+1. Chi phí cho người phiên dịch là khoản tiền phải trả cho người phiên dịch trong quá trình giải quyết vụ án hành chính theo thỏa thuận của đương sự với người phiên dịch hoặc theo quy định của pháp luật.
+
 ---
 
 
@@ -4127,6 +4874,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300003700000000000000000
 
 **ID:** 1A7D5A35-09CC-4DF0-A5F4-6B8433BDE02A
+
+1. Chánh án Tòa án có những nhiệm vụ, quyền hạn sau đây:
 
 ---
 
@@ -4139,6 +4888,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B9EF244B-6354-4DFC-9F50-519AABDB2844
 
+1. Bộ Tư pháp phối hợp với Bộ Nội vụ, Bộ Kế hoạch và Đầu tư, Bộ Tài chính có biện pháp bảo đảm biên chế, cơ sở vật chất, phương tiện làm việc cho công tác thi hành án hành chính theo quy định tại Điều 313 của Luật tố tụng hành chính và Nghị định này.
+
 ---
 
 
@@ -4149,6 +4900,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000220000020000000000000000037000000000000000000
 
 **ID:** 1527AB00-5CAC-4A8A-9A86-349EF650EC4E
+
+Căn cứ vào quy định của Luật này, Ủy ban Thường vụ Quốc hội quy định cụ thể về chi phí ủy thác tư pháp ra nước ngoài, chi phí xem xét, thẩm định tại chỗ, chi phí giám định, định giá tài sản; chi phí cho người làm chứng, người phiên dịch; chi phí tố tụng khác do luật khác quy định và việc miễn, giảm chi phí tố tụng trong quá trình giải quyết vụ án.
 
 ---
 
@@ -4161,6 +4914,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5051C78E-2ACB-4707-B9E6-8EFADAA794BF
 
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016, trừ các quy định sau đây của Luật này có liên quan đến quy định của Bộ luật Dân sự số 91/2015/QH13 thì có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017:
+
 ---
 
 
@@ -4171,6 +4926,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002300037200000000000000000
 
 **ID:** CC064905-5156-491E-9E1C-3BC7B6AF3FE5
+
+Ủy ban Thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết các điều, khoản được giao trong Luật.
 
 ---
 
@@ -4183,6 +4940,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D96ECC6B-B83E-44CF-B324-ED055946F1F7
 
+Khi được Chánh án Tòa án phân công, Thẩm phán có những nhiệm vụ, quyền hạn sau đây:
+
 ---
 
 
@@ -4193,6 +4952,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300003900000000000000000
 
 **ID:** 7EEAFEDA-7B02-49EE-847D-1251D29A1C45
+
+Khi được Chánh án Tòa án phân công, Hội thẩm nhân dân có những nhiệm vụ, quyền hạn sau đây:
 
 ---
 
@@ -4205,6 +4966,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** EF267182-3537-427D-AFE4-B910CF15D7BE
 
+Mọi hoạt động tố tụng hành chính của cơ quan tiến hành tố tụng, người tiến hành tố tụng, người tham gia tố tụng và cơ quan, tổ chức, cá nhân có liên quan phải tuân theo quy định của Luật này.
+
 ---
 
 
@@ -4215,6 +4978,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030000400
 
 **ID:** 17BE7CAF-70F0-43D1-A069-BF4F81ACE596
+
+1. Đối với phiên tòa sơ thẩm, phúc thẩm, giám đốc thẩm, tái thẩm, việc chuyển hồ sơ vụ án hành chính cho Viện kiểm sát được thực hiện theo quy định tại Điều 147, Điều 231, khoản 3 Điều 247, khoản 3 Điều 252, khoản 2 Điều 264, Điều 286 Luật TTHC.
 
 ---
 
@@ -4227,6 +4992,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CF9425A0-0DB0-4248-920B-AF7685792334
 
+1. Chấp hành nghiêm bản án, quyết định của Tòa án, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+
 ---
 
 
@@ -4237,6 +5004,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000002300037210256510104000040
 
 **ID:** 196FD628-3715-4B88-9CA2-9B0CA35257FB
+
+1. Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi chức năng, nhiệm vụ của mình, chủ trì hoặc phối hợp với các cơ quan liên quan tổ chức việc rà soát các quy định của pháp luật về tố tụng hành chính hiện hành để bãi bỏ, sửa đổi, bổ sung, ban hành văn bản mới, đề nghị Quốc hội, Ủy ban thường vụ Quốc hội bãi bỏ, sửa đổi, bổ sung hoặc ban hành văn bản mới phù hợp với quy định của Luật tố tụng hành chính số 93/2015/QH13 bảo đảm hiệu lực thi hành của Luật này.
 
 ---
 
@@ -4249,6 +5018,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 6E992ABF-EE30-4E19-B7B2-833BF0FAB5EB
 
+Khi được Chánh án Tòa án phân công, Thẩm tra viên có những nhiệm vụ, quyền hạn sau đây:
+
 ---
 
 
@@ -4259,6 +5030,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300004100000000000000000
 
 **ID:** 2D48FFBF-DCBF-4234-BEF6-AB7AB116F04B
+
+Khi được phân công, Thư ký Tòa án có những nhiệm vụ, quyền hạn sau đây:
 
 ---
 
@@ -4271,6 +5044,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9BDE005C-4072-4676-984F-52B221D3600A
 
+1. Khi thực hiện kiểm sát việc tuân theo pháp luật trong hoạt động tố tụng hành chính, Viện trưởng Viện kiểm sát có những nhiệm vụ, quyền hạn sau đây:
+
 ---
 
 
@@ -4281,6 +5056,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300004300000000000000000
 
 **ID:** A8CD6990-4BE9-4638-AE48-DF9D7934EAA9
+
+Khi được Viện trưởng Viện kiểm sát phân công thực hiện kiểm sát việc tuân theo pháp luật trong hoạt động tố tụng hành chính, Kiểm sát viên có những nhiệm vụ, quyền hạn sau đây:
 
 ---
 
@@ -4293,6 +5070,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** AAB0A943-5BBF-4504-9E8B-62A41D47CFF3
 
+Khi được phân công, Kiểm tra viên có những nhiệm vụ, quyền hạn sau đây:
+
 ---
 
 
@@ -4303,6 +5082,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300004500000000000000000
 
 **ID:** 37D1F745-9394-4359-8CDC-960D9C2D8078
+
+Người tiến hành tố tụng phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp sau đây:
 
 ---
 
@@ -4315,6 +5096,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 83FB69F7-6C53-4C68-89E4-B6569D8250B6
 
+Thẩm phán, Hội thẩm nhân dân phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp sau đây:
+
 ---
 
 
@@ -4325,6 +5108,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300004700000000000000000
 
 **ID:** 28DF3332-32AC-4AE9-91ED-1F605F396BF2
+
+Thư ký Tòa án, Thẩm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp sau đây:
 
 ---
 
@@ -4337,6 +5122,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 87FEDD2E-296D-44CF-A0C3-9824ED09BAF1
 
+1. Việc từ chối tiến hành tố tụng hoặc đề nghị thay đổi Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Tòa án trước khi mở phiên tòa phải được lập thành văn bản, trong đó nêu rõ lý do và căn cứ của việc từ chối tiến hành tố tụng hoặc của việc đề nghị thay đổi người tiến hành tố tụng.
+
 ---
 
 
@@ -4347,6 +5134,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300004900000000000000000
 
 **ID:** A562011A-0D2C-4885-8096-A5DC1491CF11
+
+1. Trước khi mở phiên tòa, việc thay đổi Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Tòa án do Chánh án Tòa án quyết định.
 
 ---
 
@@ -4359,6 +5148,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 9BBD3EF2-4C76-4E31-8F33-B0A85DE2137F
 
+Cơ quan, tổ chức, cá nhân có quyền khởi kiện vụ án hành chính để yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp của mình theo quy định của Luật này.
+
 ---
 
 
@@ -4369,6 +5160,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030000500
 
 **ID:** 21EA6CBD-AAE4-47CF-9E68-248929EB9CB7
+
+1. Việc chuyển hồ sơ vụ án hành chính cho Viện kiểm sát để xem xét kháng nghị theo thủ tục phúc thẩm được thực hiện như sau:
 
 ---
 
@@ -4381,6 +5174,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2780EAD9-E4F9-4AC0-8881-295C200999FF
 
+1. Người được thi hành án có các quyền theo quy định của Luật tố tụng hành chính và các quyền sau đây:
+
 ---
 
 
@@ -4391,6 +5186,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300005000000000000000000
 
 **ID:** 550CCB9F-FD18-49BA-9EF9-1310D02F627A
+
+Kiểm sát viên, Kiểm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp sau đây:
 
 ---
 
@@ -4403,6 +5200,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D5FEC926-BC33-423F-A256-295D86B6252A
 
+1. Việc từ chối tiến hành tố tụng hoặc đề nghị thay đổi Kiểm sát viên trước khi mở phiên tòa phải được lập thành văn bản, trong đó nêu rõ lý do và căn cứ của việc từ chối hoặc đề nghị thay đổi Kiểm sát viên.
+
 ---
 
 
@@ -4413,6 +5212,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000300005200000000000000000
 
 **ID:** FCD81B20-54D5-42A0-A31E-62900D4A2D80
+
+1. Trước khi mở phiên tòa, việc thay đổi Kiểm sát viên do Viện trưởng Viện kiểm sát cùng cấp quyết định; nếu Kiểm sát viên bị thay đổi là Viện trưởng Viện kiểm sát thì do Viện trưởng Viện kiểm sát cấp trên trực tiếp quyết định.
 
 ---
 
@@ -4425,6 +5226,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 91CC3FB5-3CAD-4187-BEB6-4143AA2E18FA
 
+Người tham gia tố tụng hành chính gồm đương sự, người đại diện của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự, người làm chứng, người giám định, người phiên dịch.
+
 ---
 
 
@@ -4435,6 +5238,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000400005400000000000000000
 
 **ID:** 20A31881-AE55-40EE-BEB9-C346D2DC9452
+
+1. Năng lực pháp luật tố tụng hành chính là khả năng có các quyền, nghĩa vụ trong tố tụng hành chính do pháp luật quy định. Mọi cơ quan, tổ chức, cá nhân có năng lực pháp luật tố tụng hành chính như nhau trong việc yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp của mình.
 
 ---
 
@@ -4447,6 +5252,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 4F1D3B10-E083-4427-85DF-4873D8E76345
 
+Đương sự có quyền, nghĩa vụ ngang nhau khi tham gia tố tụng, bao gồm:
+
 ---
 
 
@@ -4457,6 +5264,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000400005600000000000000000
 
 **ID:** EAFD5110-0B86-45C0-835E-1B6B2FC2CBBF
+
+Người khởi kiện có các quyền, nghĩa vụ sau đây:
 
 ---
 
@@ -4469,6 +5278,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 585B2546-6108-4EBA-AA30-760B0B331354
 
+Người bị kiện có các quyền, nghĩa vụ sau đây:
+
 ---
 
 
@@ -4479,6 +5290,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000400005800000000000000000
 
 **ID:** E20C5697-C585-48A9-AEDE-E283B28E598E
+
+1. Người có quyền lợi, nghĩa vụ liên quan có thể có yêu cầu độc lập, tham gia tố tụng với bên khởi kiện hoặc với bên bị kiện.
 
 ---
 
@@ -4491,6 +5304,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 828179BC-E00A-4508-A723-DBA1AE8F718E
 
+1. Trường hợp người khởi kiện là cá nhân đã chết mà quyền, nghĩa vụ của người đó được thừa kế thì người thừa kế tham gia tố tụng.
+
 ---
 
 
@@ -4501,6 +5316,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100000600000000000000000
 
 **ID:** D2A87A09-B4E8-4E47-A278-0CAD9E9E0CEE
+
+1. Trong quá trình giải quyết vụ án hành chính, Tòa án có quyền xem xét về tính hợp pháp của văn bản hành chính, hành vi hành chính có liên quan đến quyết định hành chính, hành vi hành chính bị kiện và kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại văn bản hành chính, hành vi hành chính đó và trả lời kết quả cho Tòa án theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -4513,6 +5330,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2E9AE5DB-4BE2-432B-B136-C3749241DC75
 
+Khi Tòa án, Viện kiểm sát xét thấy cần thiết phải nghiên cứu hồ sơ vụ án để xem xét việc kiến nghị, đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao thì việc chuyển hồ sơ vụ án được thực hiện như sau:
+
 ---
 
 
@@ -4523,6 +5342,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710000600
 
 **ID:** 282C5008-1AF2-4FFC-952B-5B4D513FD879
+
+1. Người phải thi hành án có các quyền theo quy định của Luật tố tụng hành chính và các quyền sau đây:
 
 ---
 
@@ -4535,6 +5356,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 3BDAD6A0-BF35-4992-A69C-8F1D137808FD
 
+1. Người đại diện trong tố tụng hành chính bao gồm người đại diện theo pháp luật và người đại diện theo ủy quyền.
+
 ---
 
 
@@ -4545,6 +5368,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000400006100000000000000000
 
 **ID:** D354ED02-DA90-44C1-BE4A-0868BE199C1F
+
+1. Người bảo vệ quyền và lợi ích hợp pháp của đương sự là người tham gia tố tụng để bảo vệ quyền và lợi ích hợp pháp của đương sự.
 
 ---
 
@@ -4557,6 +5382,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F841DC13-24D6-4910-BE48-F7398C9D0FB7
 
+1. Người làm chứng là người biết các tình tiết có liên quan đến nội dung vụ án được đương sự đề nghị và Tòa án triệu tập tham gia tố tụng. Người mất năng lực hành vi dân sự không thể là người làm chứng.
+
 ---
 
 
@@ -4567,6 +5394,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000400006300000000000000000
 
 **ID:** F7BC35E9-1DAC-4532-BBB7-07D1622733AD
+
+1. Người giám định là người có kiến thức, kinh nghiệm cần thiết theo quy định của pháp luật về lĩnh vực có đối tượng cần được giám định, được các bên đương sự thỏa thuận lựa chọn hoặc được Tòa án trưng cầu để giám định đối tượng đó theo yêu cầu của một hoặc các bên đương sự.
 
 ---
 
@@ -4579,6 +5408,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 73AABC20-685E-4396-A737-66176AED34A2
 
+1. Người phiên dịch là người có khả năng dịch từ một ngôn ngữ khác ra tiếng Việt và ngược lại trong trường hợp có người tham gia tố tụng không sử dụng được tiếng Việt. Người phiên dịch được một bên đương sự lựa chọn hoặc các bên đương sự thỏa thuận lựa chọn và được Tòa án chấp nhận hoặc được Tòa án yêu cầu để phiên dịch.
+
 ---
 
 
@@ -4589,6 +5420,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000400006500000000000000000
 
 **ID:** 1C353472-E277-4198-9361-34D3237DBB48
+
+1. Trước khi mở phiên tòa, việc từ chối người giám định, người phiên dịch hoặc đề nghị thay đổi người giám định, người phiên dịch phải được lập thành văn bản và nêu rõ lý do của việc từ chối hoặc đề nghị thay đổi; việc thay đổi người giám định, người phiên dịch do Chánh án Tòa án quyết định.
 
 ---
 
@@ -4601,6 +5434,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8F50BD28-C348-4AD1-BAE7-D69D5AF2F4F8
 
+1. Trong quá trình giải quyết vụ án, đương sự, người đại diện của đương sự có quyền yêu cầu Tòa án đang giải quyết vụ án đó áp dụng một hoặc nhiều biện pháp khẩn cấp tạm thời quy định tại Điều 68 của Luật này để tạm thời giải quyết yêu cầu cấp bách của đương sự, bảo vệ chứng cứ, bảo toàn tình trạng hiện có tránh gây thiệt hại không thể khắc phục được, bảo đảm việc giải quyết vụ án hoặc việc thi hành án.
+
 ---
 
 
@@ -4611,6 +5446,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000500006700000000000000000
 
 **ID:** 0D17D659-AC56-4551-9CF3-FF464881D724
+
+1. Việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời trước khi mở phiên tòa do một Thẩm phán xem xét, quyết định.
 
 ---
 
@@ -4623,6 +5460,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DEA3C630-EB8C-49F4-9933-B8DBA0134EDB
 
+1. Tạm đình chỉ việc thi hành quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định xử lý vụ việc cạnh tranh, một phần hoặc toàn bộ kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước.
+
 ---
 
 
@@ -4633,6 +5472,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000500006900000000000000000
 
 **ID:** 563D14DF-48A1-47EC-BB2B-D022BBAB8D4E
+
+1. Tạm đình chỉ việc thi hành quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định xử lý vụ việc cạnh tranh được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho rằng việc thi hành quyết định đó sẽ dẫn đến hậu quả nghiêm trọng không thể khắc phục.
 
 ---
 
@@ -4645,6 +5486,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 0D3F4906-5375-4E47-9E5E-E2D4E411D7D7
 
+1. Người khởi kiện, người có quyền lợi, nghĩa vụ liên quan trong vụ án hành chính có thể đồng thời yêu cầu bồi thường thiệt hại do quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, quyết định giải quyết khiếu nại trong hoạt động kiểm toán nhà nước, danh sách cử tri gây ra.
+
 ---
 
 
@@ -4655,6 +5498,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030000700
 
 **ID:** 19E567A9-E7DD-4524-8083-C556CC0F365C
+
+Việc chuyển hồ sơ vụ án hành chính có thể được thực hiện bằng đường bưu chính hoặc chuyển trực tiếp.
 
 ---
 
@@ -4667,6 +5512,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 70E30DE4-3814-4A9F-9E03-A62606F6500E
 
+1. Tổ chức thi hành bản án, quyết định của Tòa án; chịu trách nhiệm theo quy định của pháp luật và trước người đứng đầu cơ quan cấp trên trực tiếp về việc để xảy ra chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án tại cơ quan, tổ chức do mình là người đứng đầu.
+
 ---
 
 
@@ -4677,6 +5524,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000500007000000000000000000
 
 **ID:** E826B847-26FB-4008-B1EF-7505AE75751E
+
+Tạm dừng việc thực hiện hành vi hành chính được áp dụng nếu có căn cứ cho rằng việc tiếp tục thực hiện hành vi hành chính sẽ dẫn đến hậu quả nghiêm trọng không thể khắc phục.
 
 ---
 
@@ -4689,6 +5538,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DEF9BC74-94A3-4EAF-A1B5-EE86ABAD56EE
 
+Cấm hoặc buộc thực hiện hành vi nhất định được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho rằng đương sự thực hiện hoặc không thực hiện hành vi nhất định làm ảnh hưởng đến việc giải quyết vụ án hoặc quyền, lợi ích hợp pháp của người khác có liên quan trong vụ án đang được Tòa án giải quyết.
+
 ---
 
 
@@ -4699,6 +5550,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000500007200000000000000000
 
 **ID:** FBDFE70E-8F68-42F9-A653-D716D2AD1C76
+
+1. Đương sự yêu cầu Tòa án ra quyết định áp dụng biện pháp khẩn cấp tạm thời phải chịu trách nhiệm trước pháp luật về yêu cầu của mình, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
 ---
 
@@ -4711,6 +5564,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DE85D0C5-509D-474A-9E55-348DA1101FD4
 
+1. Người yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời phải làm đơn gửi đến Tòa án có thẩm quyền kèm theo tài liệu, chứng cứ để chứng minh cho sự cần thiết áp dụng biện pháp khẩn cấp tạm thời.
+
 ---
 
 
@@ -4721,6 +5576,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000500007400000000000000000
 
 **ID:** D88E0598-EF99-40C7-A5EA-1F29E8DDE369
+
+1. Theo yêu cầu của đương sự, Tòa án xem xét, quyết định thay đổi biện pháp khẩn cấp tạm thời đang được áp dụng khi xét thấy không còn phù hợp mà cần thiết phải thay đổi bằng biện pháp khẩn cấp tạm thời khác.
 
 ---
 
@@ -4733,6 +5590,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 83A5DECC-8FD6-45B6-9123-5F05A0706E75
 
+1. Quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời có hiệu lực thi hành ngay.
+
 ---
 
 
@@ -4743,6 +5602,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000500007600000000000000000
 
 **ID:** F52BD096-BCDC-456F-8DBF-47D1C32B6004
+
+1. Đương sự có quyền khiếu nại, Viện kiểm sát có quyền kiến nghị với Chánh án Tòa án đang giải quyết vụ án về quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời hoặc việc Thẩm phán không ra quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời. Thời hạn khiếu nại, kiến nghị là 03 ngày làm việc kể từ ngày nhận được quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời hoặc thông báo của Thẩm phán về việc không quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời.
 
 ---
 
@@ -4755,6 +5616,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8A8B6AF8-D424-4092-ABFD-4B334F38CFE6
 
+1. Chánh án Tòa án phải xem xét, giải quyết khiếu nại, kiến nghị quy định tại khoản 1 Điều 76 của Luật này trong thời hạn 03 ngày làm việc kể từ ngày nhận được khiếu nại, kiến nghị.
+
 ---
 
 
@@ -4765,6 +5628,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600007800000000000000000
 
 **ID:** 7F70F652-102C-4C87-8169-CA0ED14D775C
+
+1. Người khởi kiện có nghĩa vụ cung cấp bản sao quyết định hành chính hoặc quyết định kỷ luật buộc thôi việc, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, quyết định giải quyết khiếu nại trong hoạt động kiểm toán nhà nước, bản sao quyết định giải quyết khiếu nại (nếu có), cung cấp chứng cứ khác để bảo vệ quyền, lợi ích hợp pháp của mình; trường hợp không cung cấp được thì phải nêu rõ lý do.
 
 ---
 
@@ -4777,6 +5642,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 24599F55-3853-4477-8CED-ADDBC183BAA7
 
+1. Những tình tiết, sự kiện sau đây không phải chứng minh:
+
 ---
 
 
@@ -4787,6 +5654,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000100000800000000000000000
 
 **ID:** DD942E07-8043-4F60-92E4-72E2F9B5E9DC
+
+Cơ quan, tổ chức, cá nhân có quyền quyết định việc khởi kiện vụ án hành chính. Tòa án chỉ thụ lý giải quyết vụ án hành chính khi có đơn khởi kiện của người khởi kiện. Trong quá trình giải quyết vụ án hành chính, người khởi kiện có quyền thay đổi, bổ sung, rút yêu cầu khởi kiện, thực hiện các quyền tố tụng khác của mình theo quy định của Luật này.
 
 ---
 
@@ -4799,6 +5668,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** C7508755-73EE-4316-A1D8-52685F76B820
 
+Trước khi mở phiên tòa, phiên họp nếu hồ sơ vụ án đã được chuyển cho Viện kiểm sát mà có tài liệu, chứng cứ do đương sự, cá nhân, cơ quan, tổ chức cung cấp cho Tòa án hoặc do Tòa án thu thập bổ sung thì Tòa án chuyển ngay cho Viện kiểm sát bản sao tài liệu, chứng cứ đó.
+
 ---
 
 
@@ -4809,6 +5680,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000190003120000000000000000000402587000710000800
 
 **ID:** 6A67DDF1-7DFD-446E-A27A-29D93B6A1F5B
+
+1. Kiểm tra, đôn đốc và xử lý trách nhiệm đối với người phải thi hành án thuộc thẩm quyền quản lý theo quy định của Nghị định này và pháp luật có liên quan.
 
 ---
 
@@ -4821,6 +5694,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 445206CE-9D34-4AF4-88D2-0A1191B92C01
 
+Chứng cứ trong vụ án hành chính là những gì có thật được đương sự, cơ quan, tổ chức, cá nhân khác giao nộp, xuất trình cho Tòa án trong quá trình tố tụng hoặc do Tòa án thu thập được theo trình tự, thủ tục do Luật này quy định mà Tòa án sử dụng làm căn cứ để xác định các tình tiết khách quan của vụ án cũng như xác định yêu cầu hay sự phản đối của đương sự là có căn cứ và hợp pháp.
+
 ---
 
 
@@ -4831,6 +5706,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600008100000000000000000
 
 **ID:** 3ED1C34E-E52B-4550-84B3-EF5CF7DFC0CD
+
+Chứng cứ được thu thập từ các nguồn sau đây:
 
 ---
 
@@ -4843,6 +5720,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** B5933978-DDD9-48DB-87C5-75DC81C7B91F
 
+1. Tài liệu đọc được coi là chứng cứ nếu là bản chính hoặc bản sao có công chứng, chứng thực hợp pháp hoặc do cơ quan, tổ chức có thẩm quyền cung cấp, xác nhận.
+
 ---
 
 
@@ -4853,6 +5732,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600008300000000000000000
 
 **ID:** E3B944F3-E6C6-4087-BA0A-9BEC84E603CA
+
+1. Trong quá trình Tòa án giải quyết vụ án hành chính, đương sự có quyền và nghĩa vụ giao nộp tài liệu, chứng cứ cho Tòa án; nếu đương sự không nộp hoặc nộp không đầy đủ tài liệu, chứng cứ do Tòa án yêu cầu mà không có lý do chính đáng thì Tòa án căn cứ vào tài liệu, chứng cứ mà đương sự đã giao nộp và Tòa án đã thu thập theo quy định tại khoản 2 Điều 84 của Luật này để giải quyết vụ án.
 
 ---
 
@@ -4865,6 +5746,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 331D69D0-44B1-4370-B849-D3B7C2F701CA
 
+1. Đương sự có quyền tự mình thu thập chứng cứ bằng những biện pháp sau đây:
+
 ---
 
 
@@ -4875,6 +5758,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600008500000000000000000
 
 **ID:** AA0F1E91-9092-48D5-B6C0-C980EFDB2087
+
+1. Thẩm phán chỉ tiến hành lấy lời khai của đương sự khi đương sự chưa có bản khai hoặc nội dung bản khai chưa đầy đủ, rõ ràng. Đương sự phải tự viết bản khai và ký tên của mình. Trường hợp đương sự không thể tự viết được thì Thẩm phán lấy lời khai của đương sự. Việc lấy lời khai của đương sự chỉ tập trung vào những tình tiết mà đương sự khai chưa đầy đủ, rõ ràng. Thẩm phán tự mình hoặc Thư ký Tòa án ghi lại lời khai của đương sự vào biên bản. Thẩm phán lấy lời khai của đương sự tại trụ sở Tòa án, trong trường hợp cần thiết có thể lấy lời khai của đương sự ngoài trụ sở Tòa án.
 
 ---
 
@@ -4887,6 +5772,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2CBB9D1D-087F-480E-8139-003AC9297AA8
 
+1. Theo yêu cầu của đương sự hoặc khi xét thấy cần thiết, Thẩm phán tiến hành lấy lời khai của người làm chứng.
+
 ---
 
 
@@ -4897,6 +5784,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600008700000000000000000
 
 **ID:** 795794FE-5B97-4758-B823-0DFEF41588FD
+
+1. Theo yêu cầu của đương sự hoặc khi xét thấy có sự mâu thuẫn trong lời khai của các đương sự, người làm chứng, Thẩm phán tiến hành đối chất giữa các đương sự với nhau, giữa đương sự với người làm chứng hoặc giữa những người làm chứng với nhau.
 
 ---
 
@@ -4909,6 +5798,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D50D1E44-186C-4D79-9A61-308EBC98E3B6
 
+1. Thẩm phán tiến hành xem xét, thẩm định tại chỗ với sự có mặt của đại diện Ủy ban nhân dân cấp xã, công an xã, phường, thị trấn hoặc cơ quan, tổ chức nơi có đối tượng cần xem xét, thẩm định; phải báo trước việc xem xét, thẩm định tại chỗ để đương sự biết và chứng kiến việc xem xét, thẩm định đó.
+
 ---
 
 
@@ -4919,6 +5810,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600008900000000000000000
 
 **ID:** 53661B63-6CE8-4031-8F2C-CB0B86D52669
+
+1. Đương sự có quyền yêu cầu Tòa án trưng cầu giám định hoặc tự mình yêu cầu giám định sau khi đã đề nghị Tòa án trưng cầu giám định nhưng Tòa án từ chối yêu cầu của đương sự. Quyền tự yêu cầu giám định được thực hiện trước khi Tòa án ra quyết định đưa vụ án ra xét xử sơ thẩm.
 
 ---
 
@@ -4931,6 +5824,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 37BE10FA-B5E0-4B42-B4C6-508B77D6523C
 
+1. Các đương sự có quyền và nghĩa vụ chủ động thu thập, giao nộp tài liệu, chứng cứ cho Tòa án và chứng minh yêu cầu của mình là có căn cứ và hợp pháp.
+
 ---
 
 
@@ -4941,6 +5836,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 370060000000000010000250000000000000000000802593100030000900
 
 **ID:** 6DC2D505-0B7B-4D9C-B732-E0FE990D2620
+
+Tài liệu, chứng cứ do Viện kiểm sát thu thập theo quy định tại khoản 6 Điều 84 và khoản 2 Điều 259 Luật TTHC được thông báo cho đương sự theo khoản 5 Điều 84 Luật TTHC, được chuyển cho Tòa án để đưa vào hồ sơ vụ việc dân sự và bảo quản tại Tòa án theo quy định tại khoản 1 Điều 94 Luật TTHC.
 
 ---
 
@@ -4953,6 +5850,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 335DE151-7E7B-4968-A486-8B2DB34D7E52
 
+1. Đương sự và người có quyền lợi, nghĩa vụ liên quan có quyền khiếu nại các quyết định, hành vi của cơ quan, tổ chức, cá nhân phát sinh trong quá trình thi hành án hành chính khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình. Việc giải quyết khiếu nại được thực hiện theo quy định của pháp luật về khiếu nại.
+
 ---
 
 
@@ -4963,6 +5862,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600009000000000000000000
 
 **ID:** 7ED4FD7A-A920-44B5-89E8-6327117A1FFA
+
+1. Trường hợp chứng cứ bị tố cáo là giả mạo thì người đưa ra chứng cứ đó có quyền rút lại; nếu không rút lại thì người tố cáo có quyền yêu cầu Tòa án hoặc Tòa án có quyền quyết định trưng cầu giám định theo quy định tại Điều 89 của Luật này.
 
 ---
 
@@ -4975,6 +5876,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 172E61DC-527D-4558-B47B-8CB7E71351B8
 
+1. Đương sự có quyền cung cấp giá tài sản; thỏa thuận về việc xác định giá tài sản và cung cấp cho Tòa án.
+
 ---
 
 
@@ -4985,6 +5888,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600009200000000000000000
 
 **ID:** AC258DB0-8D53-40DE-BC34-830DA22A95A6
+
+1. Trong quá trình giải quyết vụ án hành chính, Tòa án có thể ra quyết định ủy thác để Tòa án khác hoặc cơ quan có thẩm quyền quy định tại khoản 4 Điều này lấy lời khai của đương sự, người làm chứng, xem xét, thẩm định tại chỗ, định giá tài sản hoặc các biện pháp khác để thu thập tài liệu, chứng cứ, xác minh tình tiết của vụ án hành chính.
 
 ---
 
@@ -4997,6 +5902,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CCBF0FEC-D0F3-44DE-AD50-1DB9E8E225AE
 
+1. Đương sự có quyền yêu cầu cơ quan, tổ chức, cá nhân cung cấp tài liệu, chứng cứ. Khi yêu cầu cơ quan, tổ chức, cá nhân cung cấp tài liệu, chứng cứ thì đương sự phải làm đơn ghi rõ tài liệu, chứng cứ cần cung cấp, lý do yêu cầu cung cấp tài liệu, chứng cứ; họ, tên, địa chỉ của cá nhân, tên, địa chỉ của cơ quan, tổ chức đang quản lý, lưu giữ tài liệu, chứng cứ cần cung cấp.
+
 ---
 
 
@@ -5007,6 +5914,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600009400000000000000000
 
 **ID:** D8B6FE94-DFB2-4638-A142-27D01EE9830A
+
+1. Tài liệu, chứng cứ đã được giao nộp tại Tòa án thì việc bảo quản tài liệu, chứng cứ đó do Tòa án chịu trách nhiệm.
 
 ---
 
@@ -5019,6 +5928,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 5AB865A1-DAC3-4EF8-B0DE-DA7E486F3A29
 
+1. Việc đánh giá chứng cứ phải khách quan, toàn diện, đầy đủ và chính xác.
+
 ---
 
 
@@ -5029,6 +5940,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600009600000000000000000
 
 **ID:** 5B2A01C5-9F43-4150-9AA1-8254AC5FE761
+
+1. Mọi chứng cứ được công bố và sử dụng công khai như nhau, trừ trường hợp quy định tại khoản 2 Điều này.
 
 ---
 
@@ -5041,6 +5954,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CA3F1790-4CB7-462F-9551-0C206BB3BA9C
 
+1. Trường hợp chứng cứ đang bị tiêu hủy, có nguy cơ bị tiêu hủy hoặc sau này khó có thể thu thập được thì đương sự có quyền làm đơn đề nghị Tòa án quyết định áp dụng các biện pháp cần thiết để bảo toàn chứng cứ. Tòa án có thể quyết định áp dụng một hoặc một số trong các biện pháp niêm phong, thu giữ, chụp ảnh, ghi âm, ghi hình, phục chế, khám nghiệm, lập biên bản và biện pháp khác.
+
 ---
 
 
@@ -5051,6 +5966,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 3700600000000000600009800000000000000000
 
 **ID:** 757A95D3-35C7-407F-8629-744D75B75FA8
+
+1. Đương sự có quyền được biết, ghi chép, sao chụp, trao đổi tài liệu, chứng cứ do đương sự khác giao nộp cho Tòa án hoặc do Tòa án thu thập được, trừ tài liệu, chứng cứ quy định tại khoản 2 Điều 96 của Luật này.
 
 ---
 
@@ -5063,6 +5980,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** D087E5C7-F82B-4C3A-B336-1A7A42911A03
 
+Tòa án, Viện kiểm sát, cơ quan thi hành án dân sự có nghĩa vụ cấp, tống đạt hoặc thông báo văn bản tố tụng cho đương sự, những người tham gia tố tụng khác và cơ quan, tổ chức, cá nhân có liên quan theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -5073,6 +5992,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000001000
 
 **ID:** A0AA19EF-1CB0-46E8-B51C-5BFEE953D6F7
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5085,6 +6006,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DF4A4005-9796-45EF-BC03-620F548087DF
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5095,6 +6018,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000003000
 
 **ID:** A46990CD-FF91-499E-AEBA-EA5581C72958
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5107,6 +6032,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** A4187537-27A1-4B35-B70E-6F9CEFA02405
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5117,6 +6044,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000009000
 
 **ID:** F3685696-7AAA-401C-A32E-0AF8C8CA19F5
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5129,6 +6058,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 8D4295E2-C386-4011-9782-852A7054863B
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5139,6 +6070,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000006000
 
 **ID:** 62D5233F-04AD-48E2-9EB5-B35DB8D6D656
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5151,6 +6084,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CB87FE3E-EF81-4EE5-B687-11CD23C46545
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5161,6 +6096,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000008000
 
 **ID:** 1930941F-F033-4BA1-899F-1616CB803060
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5173,6 +6110,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 2FD7A978-245C-453F-959E-5E51F0E9596A
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5183,6 +6122,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000011000
 
 **ID:** 181CACE8-610E-440D-AB99-E6F4C1090366
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5195,6 +6136,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** CDE6AFDF-2E87-4066-AB14-56924887ABC0
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5205,6 +6148,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000013000
 
 **ID:** C18F018D-E740-410C-A563-86CA1FFEC846
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5217,6 +6162,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** F5447EBB-2B45-4F69-8160-5F5F7221E9D1
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5227,6 +6174,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000019000
 
 **ID:** 98EED568-0BDE-4714-B1A2-5D6EC05AA9F0
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5239,6 +6188,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DC7EC700-1FEC-41B6-9773-890A68B37823
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5249,6 +6200,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000016000
 
 **ID:** 5497F0AC-EA05-45ED-9A58-4D1004AFCFCE
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5261,6 +6214,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 58AB4A8B-9863-44BA-9E39-C8A7A1A4AE8B
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5271,6 +6226,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000018000
 
 **ID:** 9974F6B2-AC54-42F5-8886-84C32CEEB2B4
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5283,6 +6240,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** DB87C59D-451C-4305-9E83-803C1C3F3563
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5293,6 +6252,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Mã phân cấp:** 37006000000000021000
 
 **ID:** 843911D6-8F1B-460E-8D5A-A4B997A636EC
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -5305,6 +6266,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** 31266587-093B-4769-B243-9ACB91DBB362
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5316,6 +6279,8 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 **ID:** FEE07D0C-39C4-4361-932C-F98DF0A62266
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -5326,6 +6291,7 @@ parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 482
+- **Điều khoản có nội dung:** 449 (93.2%)
 - **ID đề mục:** 7cdd63fb-16ea-4ed4-bf3c-6529a021b3d2
 
 ## 🔍 Tìm kiếm

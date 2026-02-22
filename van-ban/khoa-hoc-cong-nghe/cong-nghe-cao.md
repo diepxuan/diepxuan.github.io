@@ -12,6 +12,7 @@ parent: khoa-hoc-cong-nghe
 **Đề mục:** Công nghệ cao  
 **Chủ đề:** [Khoa học, công nghệ](/van-ban/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 306  
+**Điều khoản có nội dung:** 296/306 (96.7%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** A32A8796-D2D6-40F5-8182-16CF08AEBE71
 
+Luật này quy định về hoạt động công nghệ cao, chính sách, biện pháp khuyến khích, thúc đẩy hoạt động công nghệ cao.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000240286410010000010
 
 **ID:** E86AA7DB-D1D8-4FA5-AE5F-2FFAF2CE3E90
+
+1. Nghị định này quy định về phương hướng xây dựng, phương án phát triển khu công nghệ cao; việc thành lập, mở rộng khu công nghệ cao; hoạt động tại khu công nghệ cao; cơ chế, chính sách và quản lý nhà nước đối với khu công nghệ cao (bao gồm: khu công nghệ cao quy định tại Điều 31 Luật Công nghệ cao và khu nông nghiệp ứng dụng công nghệ cao quy định tại Điều 32 Luật Công nghệ cao).
 
 ---
 
@@ -47,6 +52,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** C73523FE-AFBB-47F8-9EE9-BAD1EC245872
 
+Quyết định này quy định một số chính sách khuyến khích đối với các dự án đầu tư tại các Khu công nghệ cao theo quy định tại Điều 5 Quy chế Khu công nghệ cao ban hành kèm theo Nghị định số 99/2003/NĐ-CP ngày 28 tháng 8 năm 2003 của Chính phủ.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000250238030069000010
 
 **ID:** A0166569-A78B-4DAE-AA85-202CD6DB3CB1
+
+1. Quyết định này quy định thẩm quyền, trình tự, thủ tục công nhận có thời hạn đối với doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
 
 ---
 
@@ -69,6 +78,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 888FFCB7-56F8-465E-868B-3FDD6848E806
 
+1. Quyết định này quy định về tiêu chí, thẩm quyền, trình tự, thủ tục công nhận vùng nông nghiệp ứng dụng công nghệ cao.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000250275890010000010
 
 **ID:** 0AC7E65D-E4B8-40A5-80B2-1F7F756E70CA
+
+Quyết định này quy định về tiêu chí xác định doanh nghiệp công nghệ cao theo quy định của Luật Công nghệ cao.
 
 ---
 
@@ -91,6 +104,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** F06FE528-8646-4EFA-9CF5-898DACCAD19E
 
+1. Thông tư này hướng dẫn trình tự, thủ tục công nhận có thời hạn doanh nghiệp nông nghiệp ứng dụng công nghệ cao, theo nội dung Quyết định số 69/2010/QĐ-TTg, ngày 03 tháng 11 năm 2010 của Thủ tướng Chính phủ về thẩm quyền, trình tự, thủ tục công nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000280241800032000010
 
 **ID:** 1ACD2490-DE0D-490A-A5EB-18800B55A94A
+
+Thông tư này quy định về việc xác định tiêu chí dự án ứng dụng công nghệ cao, dự án đầu tư sản xuất sản phẩm công nghệ cao được đầu tư tại Việt Nam; thẩm định hồ sơ đề nghị cấp Giấy chứng nhận hoạt động ứng dụng công nghệ cao, doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm công nghệ cao, doanh nghiệp công nghệ cao (sau đây gọi là Giấy chứng nhận).
 
 ---
 
@@ -113,6 +130,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** CDDD182E-612B-4E98-8B4B-6E8FE667F516
 
+Thông tư này hướng dẫn về thẩm quyền, trình tự, thủ tục chứng nhận doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm thuộc Danh mục sản phẩm công nghệ cao được khuyến khích phát triển ban hành kèm theo Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 07 năm 2010 của Thủ tướng Chính phủ (sau đây gọi là doanh nghiệp thành lập mới).
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000280245810219000010
 
 **ID:** CC509C34-AC5F-4F70-9076-50AECF5BC57F
+
+Thông tư này hướng dẫn quản lý tài chính thực hiện Chương trình quốc gia phát triển công nghệ cao đến năm 2020 (sau đây viết tắt là Chương trình) theo các nội dung, nhiệm vụ quy định tại Quyết định số 2457/QĐ-TTg ngày 31 tháng 12 năm 2010 của Thủ tướng Chính phủ; áp dụng đối với các tổ chức, cá nhân, doanh nghiệp tham gia thực hiện và quản lý Chương trình.
 
 ---
 
@@ -135,6 +156,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 61245183-70DA-4DF1-875C-D0A33417CBF7
 
+Thông tư này hướng dẫn xác định dự án, tuyển chọn, giao trực tiếp tổ chức, cá nhân, doanh nghiệp thực hiện dự án thuộc Chương trình nghiên cứu, đào tạo và xây dựng hạ tầng kỹ thuật công nghệ cao (sau đây viết tắt là Chương trình) bao gồm: dự án phát triển công nghệ cao, dự án ứng dụng công nghệ cao, dự án xây dựng và phát triển hạ tầng kỹ thuật công nghệ cao, dự án phát triển nhân lực công nghệ cao (sau đây viết tắt là dự án); áp dụng đối với các tổ chức, cá nhân, doanh nghiệp tham gia thực hiện và quản lý Chương trình.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000280246060001000010
 
 **ID:** E60D6BB4-287C-435A-B9E4-3A79640C741A
+
+Thông tư này quy định về việc xác định tiêu chí đề tài, đề án nghiên cứu và phát triển công nghệ cao (sau đây viết tắt là đề tài, đề án); thẩm định hồ sơ đề nghị cấp Giấy chứng nhận hoạt động nghiên cứu và phát triển công nghệ cao (sau đây viết là Giấy chứng nhận).
 
 ---
 
@@ -157,6 +182,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 76305443-82C7-4B30-9876-4B25C8B32917
 
+1. Thông tư này quy định điều kiện đối với cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao (sau đây viết tắt là cơ sở ươm tạo công nghệ cao); thẩm quyền, trình tự, thủ tục đề nghị cấp Giấy chứng nhận cơ sở ươm tạo công nghệ cao (sau đây viết tắt là Giấy chứng nhận).
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000280256660045000010
 
 **ID:** FB145A55-BD53-4E91-AB27-6D3BF232FA7B
+
+1. Thông tư này quy định việc quản lý và tổ chức thực hiện một số nội dung của Chương trình phát triển một số ngành công nghiệp công nghệ cao theo Quyết định số 347/QĐ-TTg ngày 22 tháng 02 năm 2013 của Thủ tướng Chính phủ về việc phê duyệt Chương trình phát triển một số ngành công nghiệp công nghệ cao thuộc Chương trình quốc gia phát triển công nghệ cao (sau đây viết tắt là Chương trình).
 
 ---
 
@@ -179,6 +208,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** C0C5A949-0CA8-4595-A524-3FB91AB5A3D7
 
+1. Thông tư này quy định việc quản lý Chương trình quốc gia phát triển công nghệ cao đến năm 2030 được phê duyệt tại Quyết định số 130/QĐ-TTg ngày 27 tháng 01 năm 2021 của Thủ tướng Chính phủ (sau đây viết tắt là Chương trình công nghệ cao).
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000010000050000000000000000000502751300380000100
 
 **ID:** C84409A3-5532-40AB-A738-6B0B4F9F717C
+
+1. Ban hành kèm theo Quyết định này các Danh mục:
 
 ---
 
@@ -201,6 +234,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6C560341-F1BB-48BE-906E-64D58E4158B9
 
+Bộ Khoa học và Công nghệ là cơ quan có thẩm quyền cấp Giấy chứng nhận hoạt động ứng dụng công nghệ cao, nghiên cứu và phát triển công nghệ cao (sau đây gọi tắt là Giấy chứng nhận hoạt động) và cấp Giấy chứng nhận doanh nghiệp công nghệ cao.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000170000000000000000000802238700270000100
 
 **ID:** A37FE8C9-224E-48C7-B1F9-ADB7BD15AC94
+
+Ban hành kèm theo Quyết định này ;Quy định về tiêu chuẩn xác định dự án sản xuất sản phẩm công nghệ cao”.
 
 ---
 
@@ -223,6 +260,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 9394DC08-8449-4145-9203-5C1261DA5B5F
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000001000000000000000000502530000680000100
 
 **ID:** 402E8C3F-1C9B-44FC-8BD4-0CA397456C35
+
+1. Ban Quản lý Khu Công nghệ cao Hòa Lạc (sau đây gọi là Ban Quản lý) là tổ chức trực thuộc Bộ Khoa học và Công nghệ, thực hiện chức năng quản lý nhà nước trực tiếp đối với Khu Công nghệ cao Hòa Lạc (sau đây gọi là Khu Công nghệ cao) theo quy định của pháp luật.
 
 ---
 
@@ -245,6 +286,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AABC5467-456F-42AB-A8A8-A1603AAC9D0F
 
+Quyết định này quy định hệ số điều chỉnh mức lương cơ sở tăng thêm đối với công chức, viên chức và người lao động làm việc tại Ban Quản lý Khu Công nghệ cao Hòa Lạc thuộc Bộ Khoa học và Công nghệ.
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740000100
 
 **ID:** CD09B695-8606-495E-9C19-90114540D92B
+
+Nghị định này quy định một số cơ chế, chính sách đặc thù đối với Khu Công nghệ cao Hòa Lạc (Khu Công nghệ cao). Các cơ chế, chính sách khác không quy định tại Nghị định này được thực hiện theo quy định của pháp luật hiện hành.
 
 ---
 
@@ -267,6 +312,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 3E0688D8-0E35-47CC-861D-452FF6863DE4
 
+1. Tổ chức, cá nhân thực hiện hoạt động ứng dụng công nghệ cao quy định tại khoản 2 Điều 9 của Luật này được ưu đãi, hỗ trợ như sau:
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000210000000000000000000802494300270001000
 
 **ID:** 5EEEBCDC-E240-4BE1-A12D-49FA0387915B
+
+Tổ chức, cá nhân vi phạm các quy định tại Thông tư này, tùy theo tính chất, mức độ vi phạm, hậu quả gây ra sẽ bị xử lý theo quy định của pháp luật.
 
 ---
 
@@ -289,6 +338,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 39DE27FC-272B-487C-BF4F-AAE2811D8C24
 
+Hàng năm, nhà nước bố trí kinh phí dành cho Chương trình từ nguồn chi ngân sách nhà nước cho khoa học và công nghệ theo quy định của Luật Ngân sách nhànước và các văn bản hướng dẫn có liên quan. Bộ Khoa học và Công nghệ chủ trì phối hợp với Bộ Kếhoạch vàĐầu tư, Bộ Tài chính lập dự toán chi ngân sách nhà nước hàng năm choChươngtrình.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310001000
 
 **ID:** CC7053FC-E14A-4E1A-A2BC-9361282880DC
+
+1. Điều kiện tham gia tuyển chọn, giao trực tiếp tổ  chức, cá nhân, doanh nghiệp thực hiện dự án được áp dụng theo quy định tại Điều  4 Thông tư số 08/2012/TT-BKHCN ngày 02 tháng 4 năm 2012 của Bộ trưởng Bộ Khoa  học và Công nghệ về việc tuyển chọn, giao trực tiếp tổ chức và cá nhân chủ trì  thực hiện đề tài nghiên cứu khoa học và phát triển công nghệ, dự án sản xuất thử  nghiệm cấp nhà nước.
 
 ---
 
@@ -311,6 +364,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D30E98CD-3F5A-41A0-9F65-AAAAB10D726C
 
+1. Đối với nhiệm vụ của Chương trình thực hiện theo phương thức tuyển chọn: Bộ Công Thương công bố công khai trên cổng thông tin điện tử của Bộ hoặc trên các phương tiện thông tin đại chúng khác trong thời gian 30 ngày để tuyển chọn tổ chức có đủ năng lực triển khai thực hiện.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250001000
 
 **ID:** 9D9C7F25-22E8-4C72-983E-92D856E6EDDC
+
+1. Quyết định phê duyệt tổ chức chủ trì, chủ nhiệm nhiệm vụ, kinh phí, phương thức khoán chi và thời gian thực hiện nhiệm vụ KH&CN thuộc Chương trình công nghệ cao là căn cứ cho việc ký kết hợp đồng thực hiện nhiệm vụ KH&CN thuộc Chương trình công nghệ cao (sau đây viết tắt là hợp đồng).
 
 ---
 
@@ -333,6 +390,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7ACC6F5A-2784-4940-9D5D-8AB2627F3521
 
+1. Vốn đầu tư xây dựng và phát triển khu công nghệ cao gồm: nguồn vốn từ ngân sách nhà nước; vốn đầu tư của các tổ chức, cá nhân và các nguồn vốn hợp pháp khác.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740001000
 
 **ID:** 072724BC-CE74-420A-A492-1AE5608B1D2D
+
+1. Trường hợp chủ đầu tư hạ tầng được Ban Quản lý cho thuê đất sau ngày Nghị định này có hiệu lực thi hành
 
 ---
 
@@ -355,6 +416,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0C852685-8F59-47A6-960E-05A4DC74DD12
 
+1. Quyết định này có hiệu lực thi hành kể từ ngày 26 tháng 10 năm 2010.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580241800032000100
 
 **ID:** 149D42D4-5FC4-4636-8659-3F544FA2B862
+
+1. Thông tư này có hiệu lực sau 45 ngày kể từ ngày ký ban hành.
 
 ---
 
@@ -377,6 +442,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** DEA9B7FB-F55A-4613-8DFE-DA8C5DF6BEF3
 
+1. Thông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký ban hành.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000200001100000000000000000
 
 **ID:** 098468B9-8F72-4682-8453-8942912D1895
+
+1. Nhà nước khuyến khích hoạt động nghiên cứu và phát triển công nghệ cao phục vụ phát triển kinh tế - xã hội, đảm bảo quốc phòng, an ninh, bảo vệ môi trường.
 
 ---
 
@@ -399,6 +468,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 1F7B236E-3080-4BFB-A2EA-A066EEF5C29D
 
+Việc lập dự toán, phân bổvà giao dự toán ngân sách nhà nước từ các nguồn kinh phí đầu tư phát triển, kinh phí sự nghiệp khoa học và công nghệ và các nguồn vốn khác có nguồn gốc từ ngân sách nhà nước đối với Chương trình thực hiện theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn hiện hành.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310001100
 
 **ID:** 64800C5C-989B-440A-B2A4-FD2F8C8CCAE4
+
+1. Hồ sơ đăng ký tham gia tuyển chọn, giao trực tiếp gồm các tài liệu sau:
 
 ---
 
@@ -421,6 +494,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 84F6A54D-7402-466C-AA69-A7043F3D11C4
 
+1. Việc tuyển chọn, giao trực tiếp tổ chức thực hiện nhiệm vụ của Chương trình phải tuân thủ các nguyên tắc quy định tại Điều 3 Thông tư số 10/2014/TT-BKHCN ngày 30 tháng 5 năm 2014 của Bộ Khoa học và Công nghệ quy định tuyển chọn, giao trực tiếp tổ chức và cá nhân thực hiện nhiệm vụ cấp quốc gia sử dụng ngân sách nhà nước (sau đây viết tắt là Thông tư số 10/2014/TT-BKHCN).
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250001100
 
 **ID:** 2166B7E3-A465-46A8-A1D5-27710633679E
+
+1. Trong quá trình thực hiện, tổ chức chủ trì có thể gửi kiến nghị bằng văn bản về Bộ Khoa học và Công nghệ về việc giải trình bổ sung hoặc điều chỉnh nội dung, sản phẩm, thời gian thực hiện nhiệm vụ KH&CN thuộc Chương trình công nghệ cao.
 
 ---
 
@@ -443,6 +520,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** DDB9E304-79F4-4A2C-BC2B-CFBDB0DE355E
 
+1. Ủy ban nhân dân cấp tỉnh xây dựng kế hoạch đầu tư phát triển khu công nghệ cao, đề xuất việc sử dụng vốn từ ngân sách nhà nước để tổ chức thực hiện các nhiệm vụ đầu tư phát triển khu công nghệ cao, bao gồm:
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740001100
 
 **ID:** 39D94553-8145-47E9-AC37-4126F74F5EBE
+
+1. Dự án đầu tư tại Khu Công nghệ cao được hưởng ưu đãi cao nhất theo quy định của pháp luật về đầu tư và pháp luật về thuế.
 
 ---
 
@@ -465,6 +546,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AE5A8F21-E207-4DB1-92CD-E7C18287FED8
 
+1. Thông tư này có hiệu lực thi hành 45 ngày kể từ ngày ký ban hành.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000200001200000000000000000
 
 **ID:** 80CB86CB-8C74-4D6E-B672-DCEC47A39E1C
+
+1. Tổ chức, cá nhân nghiên cứu và phát triển công nghệ cao quy định tại khoản 2 Điều 11 của Luật này được ưu đãi, hỗ trợ như sau:
 
 ---
 
@@ -487,6 +572,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7B7F7B0C-84BE-48DF-9052-610D6A43E12A
 
+1.Đối với kinh phí của các Dự án do Bộ Khoa học và Công nghệ quản lý
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310001200
 
 **ID:** DDDB941A-3CC3-4EA8-B1A9-A268B72964C1
+
+1. Căn cứ vào tính đặc thù của dự án, Ban chủ nhiệm  xem xét, trình Bộ trưởng Bộ Khoa học và Công nghệ quyết định thành lập hội đồng  khoa học và công nghệ tư vấn tuyển chọn, giao trực tiếp (sau đây viết tắt là hội  đồng khoa học và công nghệ); thuê chuyên gia tư vấn độc lập đáp ứng đủ điều kiện  năng lực (nếu cần thiết) để xét duyệt hồ sơ đăng ký tham gia tuyển chọn, giao  trực tiếp tổ chức, cá nhân, doanh nghiệp thực hiện.
 
 ---
 
@@ -509,6 +598,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 3BE0BB11-6107-497E-8FAF-14508DB86487
 
+1. Tổ chức chuẩn bị hồ sơ đăng ký tham gia tuyển chọn, giao trực tiếp nhiệm vụ của Chương trình theo hướng dẫn và các Biểu mẫu ban hành kèm theo Thông tư này:
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250001200
 
 **ID:** A54D20F6-309A-4AD1-875F-540BB24EEC5E
+
+1. Bộ Khoa học và Công nghệ chủ trì tổ chức việc đánh giá, nghiệm thu, xử lý tài sản và công nhận kết quả thực hiện nhiệm vụ KH&CN thuộc Chương trình công nghệ cao theo các quy định hiện hành.
 
 ---
 
@@ -531,6 +624,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** EA0191F9-C9B1-4C47-A42E-1261E9163DC4
 
+1. Khu công nghệ cao là địa bàn ưu đãi đầu tư, được hưởng ưu đãi đầu tư áp dụng đối với địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740001200
 
 **ID:** DB5B4890-B7F8-4B2D-85D9-F1EC8AD6CCD0
+
+1. Ủy ban nhân dân thành phố Hà Nội ưu tiên bố trí đủ quỹ đất để xây dựng nhà ở cho người lao động làm việc tại Khu Công nghệ cao. Nhà nước khuyến khích, hỗ trợ các tổ chức, cá nhân đầu tư xây dựng và phát triển nhà ở (bao gồm hạ tầng kỹ thuật, hạ tầng xã hội và công trình nhà ở).
 
 ---
 
@@ -553,6 +650,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 8C07A962-8C38-48CF-B9C2-5F0AAA3D89A9
 
+1. Tổ chức, cá nhân thực hiện chuyển giao công nghệ cao phục vụ nghiên cứu và phát triển công nghệ cao, sản xuất, kinh doanh sản phẩm công nghệ cao được hưởng mức ưu đãi cao nhất theo quy định của pháp luật về chuyển giao công nghệ và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458102190001300
 
 **ID:** 180E3784-CA80-4702-B0E4-0AF7A1798D22
+
+1.Việc quản lý thanh toán kinh phí đầu tư dự án xây dựng và phát triển hạ tầng kỹ thuật công nghệ cao được thực hiện theo quy định tại Thông tư số86/2011/TT-BTCngày 17 tháng 6 năm 2011 của Bộ Tài chính quy định về quản lý, thanh toán vốn đầu tư và vốn sự nghiệp có tính chất đầu tư thuộc nguồn ngân sách nhà nước và sửa đổi, bổ sung (nếu có).
 
 ---
 
@@ -575,6 +676,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** F565489C-5AF0-4597-AE29-E36754BF4B80
 
+1. Phiên họp của hội đồng khoa học và công nghệ phải  có mặt ít nhất 2/3 số thành viên hội đồng khoa học và công nghệ, trong đó có chủ  tịch hoặc phó chủ tịch, 02 ủy viên phản biện.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450001300
 
 **ID:** BE442DA3-19F3-4C11-AAFA-9B3BF31EFCF5
+
+1. Kết thúc thời hạn nhận hồ sơ đăng ký tuyển chọn, giao trực tiếp, trong thời hạn 10 ngày làm việc, Đơn vị quản lý nhiệm vụ của Chương trình tiến hành mở, kiểm tra và xác nhận tính hợp lệ của hồ sơ.
 
 ---
 
@@ -597,6 +702,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** F9CD4107-A4C6-4EC6-889D-943E1625AA55
 
+1. Việc thanh lý hợp đồng với tổ chức chủ trì thực hiện theo quy định hiện hành.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100001300
 
 **ID:** F3DDDE39-D9C4-4E2D-BA1B-CD8625D1AEE8
+
+1. Nhà nước khuyến khích các tổ chức, cá nhân có đủ kinh nghiệm, năng lực tham gia đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ cao, bao gồm đầu tư xây dựng và kinh doanh toàn bộ hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao hoặc một phần hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao theo quy định tại Điều 23 Nghị định này (sau đây gọi là Chủ đầu tư hạ tầng).
 
 ---
 
@@ -619,6 +728,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 34E58C9C-F609-4D3B-9CB7-E41FBE0F9FEB
 
+1. Nhà đầu tư, chuyên gia và người lao động là người Việt Nam định cư ở nước ngoài, người nước ngoài và thành viên gia đình (bao gồm bố, mẹ, vợ hoặc chồng, con đẻ, con nuôi dưới 18 tuổi) được xem xét cấp thị thực xuất cảnh, nhập cảnh có giá trị sử dụng nhiều lần và thời hạn phù hợp với thời gian làm việc trực tiếp tại Khu Công nghệ cao.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000200001400000000000000000
 
 **ID:** 7DF9A493-C963-4ACB-B5D4-46083F5B5200
+
+1. Nhà nước khuyến khích tổ chức, cá nhân tham gia phát triển thị trường công nghệ cao; cung ứng dịch vụ môi giới, tư vấn, đánh giá, định giá, giám định công nghệ cao; tạo điều kiện thuận lợi cho tổ chức, cá nhân thực hiện dịch vụ tư vấn kỹ thuật, đầu tư, pháp lý, tài chính, bảo hiểm, bảo vệ quyền sở hữu trí tuệ và các dịch vụ khác nhằm thúc đẩy hoạt động công nghệ cao, tiêu thụ, sử dụng sản phẩm công nghệ cao.
 
 ---
 
@@ -641,6 +754,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E9285D03-2508-41A7-B76C-FE03E471EB68
 
+1.Tổ chức chủ trì nhiệm vụ, Tổchức chủtrì dự án thực hiện mua sắm, quản lý tài sản, trang thiết bị, vật tư, nguyên vật liệu từ nguồn kinh phí hỗtrợ ngân sách nhà nước theo các quy định hiện hành và chịu sự kiểm tra, kiểm soát củaĐơn vị quản lý kinh phí.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310001400
 
 **ID:** 8D27CD0D-E74A-4AA7-B252-4A8C405EA639
+
+1. Hội đồng khoa học và công nghệ thảo luận, đánh giá từng hồ sơ theo các nội dung quy định (Biểu A4-1).
 
 ---
 
@@ -663,6 +780,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 99A65D1E-ADB9-4069-A5DC-F1039651D3D2
 
+1. Bộ trưởng Bộ Công Thương quyết định thành lập Hội đồng đánh giá hồ sơ tuyển chọn, giao trực tiếp nhiệm vụ và Tổ thẩm định kinh phí thực hiện nhiệm vụ của Chương trình.
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250001400
 
 **ID:** 0BC3C3B8-428B-42A9-A108-0F57B360C85F
+
+1. Trách nhiệm của Bộ Khoa học và Công nghệ:
 
 ---
 
@@ -685,6 +806,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 8343BB59-5AFF-4634-B990-B73FA735DB07
 
+1. Ủy ban nhân dân cấp tỉnh có trách nhiệm quy hoạch khu nhà ở và hệ thống công trình hạ tầng xã hội liền kề hoặc xung quanh khu công nghệ cao, đảm bảo kết nối giao thông thuận lợi, để phục vụ trực tiếp cho người lao động làm việc trong khu công nghệ cao đồng thời với việc xác định phương án phát triển khu công nghệ cao khi lập quy hoạch tỉnh và đảm bảo việc đầu tư xây dựng phù hợp với nhu cầu, tiến độ xây dựng khu công nghệ cao.
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740001400
 
 **ID:** A9E965BE-4F53-4E3E-B82B-D468A0D53C3D
+
+1. Ngoài các chính sách ưu đãi, hỗ trợ đầu tư quy định tại Nghị định này, các đối tượng quy định tại khoản 1 Điều 2 Nghị định này còn được hưởng các chính sách ưu đãi, hỗ trợ khác theo quy định của pháp luật khi đáp ứng đủ các điều kiện được hưởng ưu đãi, hỗ trợ.
 
 ---
 
@@ -707,6 +832,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 9E6AE025-ED11-4750-9E7C-7DAAE9414306
 
+1. Phát triển công nghệ cao trong công nghiệp tập trung vào các nhiệm vụ chủ yếu sau đây:
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458102190001500
 
 **ID:** A174F166-1FB5-439A-8178-83E2F22C14F1
+
+1.Tổchức chủ trì dự án chịu sự kiểm tra, kiểm soát của Đơnvị quản lý kinh phí, Ban chủ nhiệm, Bộ chủtrì, Bộ Tài chính, Bộ Kế hoạch và Đầu tư vàcơ quan khác có liên quan.
 
 ---
 
@@ -729,6 +858,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 75F49FB9-AC64-4B4C-8602-707407154927
 
+1. Trên cơ sở kết luận của hội đồng khoa học và công  nghệ, báo cáo nghiên cứu của chuyên gia tư vấn độc lập, Ban chủ nhiệm nghiên  cứu, trình Bộ trưởng Bộ Khoa học và Công nghệ xem xét, quyết định tổ chức, cá  nhân, doanh nghiệp thực hiện dự án.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450001500
 
 **ID:** F386AE68-5BDC-472C-AFB0-4FD4942AAE9A
+
+1. Thư ký hành chính công bố quyết định thành lập Hội đồng, biên bản mở hồ sơ, giới thiệu thành phần hội đồng và các đại biểu tham dự.
 
 ---
 
@@ -751,6 +884,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 82B935CD-CB78-43F0-9A1B-6CC27460BB93
 
+Trách nhiệm của Bộ Công Thương:
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100001500
 
 **ID:** 623A6D53-2AA7-493C-9BFD-04664E23405F
+
+1. Đối với khu công nghệ cao được ngân sách nhà nước đầu tư xây dựng hệ thống kết cấu hạ tầng kỹ thuật thì các phân khu có chức năng nghiên cứu phát triển, ươm tạo công nghệ cao và doanh nghiệp công nghệ cao, đào tạo nhân lực công nghệ cao được ngân sách nhà nước đảm bảo đầu tư giải phóng mặt bằng, san lấp mặt bằng và xây dựng đồng bộ hệ thống kết cấu hạ tầng kỹ thuật.
 
 ---
 
@@ -773,6 +910,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 9CD6B309-F7BA-468D-8E27-0516B31B1E60
 
+1. Ban Quản lý được áp dụng cơ chế “một cửa” trong giải quyết các thủ tục hành chính thuộc thẩm quyền của Ban Quản lý, cơ chế “một cửa liên thông” trong giải quyết các thủ tục hành chính thuộc thẩm quyền của các cơ quan quản lý nhà nước và cơ quan chuyên môn khác trong lĩnh vực đầu tư, đăng ký doanh nghiệp, đất đai, xây dựng, lao động và các lĩnh vực khác.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000300001600000000000000000
 
 **ID:** 43DFEE2F-9BB7-4EB2-BD49-390B57B82E91
+
+1. Phát triển công nghệ cao trong nông nghiệp tập trung vào các nhiệm vụ chủ yếu sau đây:
 
 ---
 
@@ -795,6 +936,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 758FBB1B-B3ED-4C53-B5EB-62F69BD48C69
 
+Công tác báo cáo quyết toán kinh phí sự nghiệp thực hiện theo quy định hiện hành. Thông tư này hướng dẫn cụ thểmột số điểm như sau:
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310001600
 
 **ID:** FF5728C3-38FE-4C06-90B2-E7259D6B60C3
+
+Trong thời hạn 01 năm kể từ ngày Bộ trưởng Bộ Khoa  học và Công nghệ ký quyết định phê duyệt tổ chức, cá nhân, doanh nghiệp chủ trì  thực hiện dự án, Ban chủ nhiệm có trách nhiệm nộp bộ hồ sơ gốc (kể cả các hồ sơ  không trúng tuyển) để lưu tại Bộ Khoa học và Công nghệ.
 
 ---
 
@@ -817,6 +962,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 03396B5B-4F1A-44AE-8D06-20F7F89277EF
 
+1. Căn cứ trên kết quả tư vấn của hội đồng, Tổ thẩm định kinh phí tổ chức thẩm định đối với các hồ sơ của các tổ chức, tổ chức được đề nghị trúng tuyển.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250001600
 
 **ID:** EBBE0EA5-4500-48F5-9B52-2FA31B379AF7
+
+Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn:
 
 ---
 
@@ -839,6 +988,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 16D6B9F7-621E-418F-962D-9F5711DD462F
 
+1. Ngoài các ưu đãi, hỗ trợ đầu tư theo quy định của Nghị định này, doanh nghiệp chế xuất trong khu công nghệ cao quy định tại khoản 2 Điều 32 Nghị định này khi đáp ứng điều kiện về kiểm tra, giám sát hải quan, quy định áp dụng đối với khu phi thuế quan quy định tại pháp luật về thuế nhập khẩu, thuế xuất khẩu thì được áp dụng các quy định riêng đối với doanh nghiệp chế xuất hoạt động trong khu công nghiệp, khu kinh tế theo quy định của pháp luật về khu công nghiệp, khu kinh tế.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740001600
 
 **ID:** 29016448-F158-4E53-BFF7-F96BAE7B5D67
+
+1. Ngân sách trung ương ưu tiên bố trí đủ kinh phí cho Ban Quản lý trong kế hoạch đầu tư công trung hạn giai đoạn 2016 - 2020 và các nguồn vốn hợp pháp khác để bảo đảm hoàn thành công tác giải phóng mặt bằng và xây dựng hạ tầng kỹ thuật của Khu Công nghệ cao theo tiến độ quy định tại khoản 6 Điều 3 Nghị định này. Bộ Kế hoạch và Đầu tư trình Thủ tướng Chính phủ phương án bố trí vốn cho Ban Quản lý.
 
 ---
 
@@ -861,6 +1014,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 2F646E1C-5745-44EA-B0BC-37B3BD3D6F62
 
+1. Doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm thuộc Danh mục sản phẩm công nghệ cao được khuyến khích phát triển được hưởng ưu đãi cao nhất theo quy định của pháp luật về đất đai, thuế nhập khẩu; khi có đủ các điều kiện quy định tại khoản 1 Điều 18 của Luật này được hưởng ưu đãi cao nhất theo quy định của pháp luật về thuế thu nhập doanh nghiệp, thuế giá trị gia tăng, thuế xuất khẩu.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458102190001700
 
 **ID:** 525E395E-87B2-41E2-9F08-2A19A0311DC9
+
+1. Đối với kinh phí đầu tư phát triển, việc quyết toán kinh phí được thực hiện theo quy định tại Thông tư số 210/2010/TT-BTC ngày 20/12/2010của Bộ Tài chính hướng dẫn về quyết toán niên độ ngân sách đối với dự án có nguồn vốn ngân sách nhà nước và Thông tưsố19/2011/TT-BTCngày 14/02/2011 của Bộ Tài chính quy định về quyết toán dự án hoàn thành thuộcnguồn vốn Nhà nước.
 
 ---
 
@@ -883,6 +1040,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** FEFD4D94-2621-4F44-95A4-5DFCCF9C3501
 
+1. Căn cứ để thẩm định:
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450001700
 
 **ID:** 4B4F0541-AE37-418F-8E68-F6A933018273
+
+1. Trong thời hạn 07 ngày làm việc kể từ khi có kết quả làm việc của các Hội đồng và Tổ thẩm định, Đơn vị quản lý nhiệm vụ của Chương trình xem xét, rà soát kết quả tư vấn tuyển chọn, giao trực tiếp các nhiệm vụ Chương trình. Trường hợp cần thiết, Đơn vị quản lý nhiệm vụ của Chương trình đề xuất lãnh đạo Bộ tổ chức lấy thêm ý kiến tư vấn của chuyên gia tư vấn độc lập theo quy định tại Điều 18 của Thông tư này.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E9FECEA6-6461-4A77-8016-C1DA8838552E
 
+1. Ban Chủ nhiệm Chương trình công nghệ cao do Bộ trưởng Bộ Khoa học và Công nghệ thành lập. Ban Chủ nhiệm Chương trình công nghệ cao có từ 07 đến 09 thành viên, trong đó bao gồm Chủ nhiệm, Phó Chủ nhiệm, Thư ký khoa học, Ủy viên đại diện Bộ Công Thương, Ủy viên đại diện Bộ Nông nghiệp và Phát triển Nông thôn và các Ủy viên khác do Bộ trưởng Bộ Khoa học và Công nghệ bổ nhiệm.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100001700
 
 **ID:** E74F4871-5552-416F-8078-FD8F315F7272
+
+1. Quy hoạch xây dựng khu công nghệ cao được lập trên cơ sở phương án phát triển khu công nghệ cao trong quy hoạch tỉnh và quyết định thành lập khu công nghệ cao của Thủ tướng Chính phủ. Việc lập, thẩm định, phê duyệt quy hoạch xây dựng khu công nghệ cao được thực hiện theo quy định pháp luật về quy hoạch xây dựng đối với khu chức năng.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7BFCDFAB-DDB0-42EA-B8C5-AEF8082990E6
 
+1. Tiền thuê đất, tiền bồi thường giải phóng mặt bằng hoàn trả, tiền ký quỹ bảo đảm thực hiện dự án
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000300001800000000000000000
 
 **ID:** 49ED06E3-623C-4EBF-8802-66BB4044C789
+
+1. Doanh nghiệp công nghệ cao phải đáp ứng đủ các tiêu chí sau đây:
 
 ---
 
@@ -949,6 +1118,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 765E17CA-B1EA-485A-81F3-322475DB31D2
 
+1. Ban chủ nhiệm trình Bộ trưởng Bộ Khoa học và Công nghệ quyết định thành lập tổ thẩm định để thẩm định dự án; thuê chuyên gia tư vấn độc lập (nếu cần thiết).
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450001800
 
 **ID:** 87DEAEBB-E3CD-4E9F-BBA3-C0521FF10370
+
+1. Đơn vị quản lý nhiệm vụ của Chương trình trình lãnh đạo Bộ quyết định lựa chọn 03 chuyên gia độc lập để lấy ý kiến tư vấn về việc tuyển chọn tổ chức, tổ chức chủ trì nhiệm vụ của Chương trình.
 
 ---
 
@@ -971,6 +1144,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AACC7132-83F1-485A-BB67-22439058E6C9
 
+Trách nhiệm của Tổ chức chủ trì và Chủ nhiệm nhiệm vụ:
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100001800
 
 **ID:** AC5D07F9-F547-4CD9-ABC1-4F78C1E234FC
+
+1. Căn cứ quy hoạch chung xây dựng (đối với khu công nghệ cao có quy mô diện tích từ 500 héc ta trở lên) hoặc quy hoạch phân khu xây dựng (đối với khu công nghệ cao có quy mô diện tích dưới 500 héc ta) được cấp có thẩm quyền phê duyệt, Ủy ban nhân dân cấp tỉnh quyết định giao đất cho Ban quản lý khu công nghệ cao để quản lý, tổ chức xây dựng và phát triển khu công nghệ cao.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** CC793E58-4128-41F4-8961-56E67677CFA7
 
+1. Nhà đầu tư đã sử dụng đất trước ngày Nghị định này có hiệu lực thi hành nhưng chưa có Quyết định cho thuê đất và chưa nộp tiền thuê đất
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580245810219000180
 
 **ID:** 1C9E48C0-130F-473D-92D9-0B6002E5A257
+
+Thông tư liên tịch này có hiệu lựcthi hành kể từ ngày 15 tháng 2 năm 2013.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AABF69D2-62AD-414C-B597-D182D68F8867
 
+1. Doanh nghiệp nông nghiệp ứng dụng công nghệ cao phải có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310001900
 
 **ID:** D392511E-8EFF-4F4D-B2C9-973968F737F1
+
+1. Tổ chức, cá nhân, doanh nghiệp có quyền khiếu  nại, khởi kiện đối với các quyết định hành chính và hành vi hành chính của cơ  quan, tổ chức có thẩm quyền liên quan đến việc tuyển chọn, giao trực tiếp tổ  chức, cá nhân, doanh nghiệp thực hiện dự án.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** B213E195-0971-40C7-8E0A-1C46A7CA915A
 
+1. Căn cứ kết quả làm việc của Hội đồng và Tổ thẩm định kinh phí đối với nhiệm vụ của Chương trình, ý kiến tư vấn của chuyên gia độc lập (nếu có), Đơn vị quản lý nhiệm vụ của Chương trình tổng hợp nội dung và dự toán kinh phí nhiệm vụ tham gia thực hiện Chương trình và thông báo cho các tổ chức đăng ký thực hiện nhiệm vụ của Chương trình đã trúng tuyển chọn, giao trực tiếp để chỉnh sửa, hoàn thiện hồ sơ.
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250001900
 
 **ID:** 251B12F6-DF3E-4E96-9B8D-1ABD0F5715D0
+
+Trách nhiệm của Bộ, ngành, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương:
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 1A13B158-645B-4D70-8F2C-44F5E47D6A65
 
+1. Ban quản lý khu công nghệ cao là cơ quan đăng ký đầu tư và thực hiện các nhiệm vụ quản lý nhà nước về hoạt động đầu tư trong khu công nghệ cao theo phạm vi nhiệm vụ, quyền hạn và các quy định của pháp luật liên quan.
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740001900
 
 **ID:** AEC24866-684D-4F7A-9094-33F5C07AB303
+
+1. Đối với diện tích đất chủ đầu tư hạ tầng đã cho thuê lại trước thời điểm sáp nhập Khu công nghiệp Bắc Phú Cát vào Khu Công nghệ cao nhưng chủ đầu tư hạ tầng chưa nộp tiền thuê đất
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0E4D3680-0F94-42B7-B756-5FD57662A42F
 
+Bộ Tài chính chủtrì, phối hợp với Bộ Khoa học và Công nghệ hướng dẫn và tổ chức thực hiệnThông tư này.
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000200000000000000000
 
 **ID:** 6CC7402B-3E27-408E-8910-6C93C702EDFE
+
+Luật này áp dụng đối với tổ chức, cá nhân Việt Nam, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài tham gia hoạt động công nghệ cao tại Việt Nam.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E01C03DD-CB8B-4A30-9B93-A51650A7436B
 
+Đối tượng được hưởng chính sách khuyến khích đầu tư quy định tại Quyết định này là:
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000250275890010000020
 
 **ID:** F8ECF146-5126-4CF9-BEB7-491FAAA5210F
+
+Quyết định này áp dụng đối với các doanh nghiệp sản xuất sản phẩm công nghệ cao, cung ứng dịch vụ công nghệ cao tại Việt Nam và các cơ quan, tổ chức có liên quan.
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** BD60D318-6984-4C22-A03E-7989A2B7F7B8
 
+Thông tư này áp dụng đối với doanh nghiệp thuộc mọi thành phần kinh tế được thành lập mới từ dự án đầu tư sản xuất sản phẩm tại Việt Nam thuộc Danh mục sản phẩm công nghệ cao được khuyến khích phát triển ban hành kèm theo Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 07 năm 2010 của Thủ tướng Chính phủ.
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000340286410010000020
 
 **ID:** C0456D7A-2162-4566-BF00-003D9CCF6B90
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6F945CE2-38BD-4C92-9083-9DD79123E932
 
+1. Bộ chủ trì tổ chức thực hiện chương trình thành phần (sau đây gọi chung là Bộ chủ trì) là Bộ Khoa học và Công nghệ, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn chủ trì tổ chức thực hiện Chương trình thành phần theo quy định tại Tiết d, Khoản 4, Phần IV, Điều 1 Quyết định số 2457/QĐ-TTg ngày 31 tháng 12 năm 2010 của Thủ tướng Chính phủ.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000380256660045000020
 
 **ID:** C9FA3006-D5A2-4C5A-ACFF-15831051762D
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 890462C8-2548-4CE0-9346-BC7B554C52C7
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000020000100000000000000000000502374900550000200
 
 **ID:** AEE25EAD-20B0-438C-BFB8-D7A6F94E86BF
+
+Hồ sơ đề nghị cấp Giấy chứng nhận hoạt động của tổ chức, cá nhân gửi trực tiếp hoặc qua đường bưu điện đến Bộ Khoa học và Công nghệ. Hồ sơ được lập thành 02 bộ, trong đó có 01 bộ hồ sơ gốc và 01 bộ hồ sơ phô tô
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** C0FD7241-714F-4093-BBC1-EEE01BE38B88
 
+1. Dự án được xác định là dự án ứng dụng công nghệ cao phải đáp ứng được các tiêu chí sau đây:
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000002000010000000000000000000050237490055000020000802460600010000200
 
 **ID:** 8A9C34DB-4F60-49A7-B010-FD488F8F3CA3
+
+1.  Đề tài, đề án được xác định là nghiên cứu và phát triển công nghệ cao phải đáp ứng được các tiêu chí sau đây:
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D16C60F2-CFF7-4DF7-95B4-09284213D3DB
 
+Vùng nông nghiệp ứng dụng công nghệ cao là vùng sản xuất tập trung, ứng dụng công nghệ cao trong nông nghiệp để sản xuất một hoặc một số sản phẩm nông sản hàng hóa có lợi thế của vùng bảo đảm đạt năng suất, chất lượng cao, giá trị gia tăng cao và thân thiện với môi trường theo quy định của pháp luật. Vùng nông nghiệp ứng dụng công nghệ cao đáp ứng các tiêu chí sau:
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000190000000000000000000502380300690000200
 
 **ID:** 404DCBB1-D673-448E-BE68-41DF136F0C74
+
+Bộ Nông nghiệp và Phát triển nông thôn là cơ quan có thẩm quyền cấp Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E9413D20-7908-469C-8C0D-A386823506FE
 
+1. Hồ sơ đề nghị cấp Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao gửi trực tiếp hoặc qua đường bưu điện đến Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường). Hồ sơ được lập thành 02 bộ, trong đó có 01 bộ hồ sơ gốc và 01 bộ hồ sơ sao chụp theo quy định tại khoản 2 Điều 3 Quyết định 69/2010/QĐ-TTg, bao gồm:
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000210000000000000000000802494300270000200
 
 **ID:** 3D6D7335-7099-48AB-8AE5-22D01FC9BF9C
+
+Cơ sở ươm tạo công nghệ cao phải đáp ứng được các điều kiện cụ thể sau đây:
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 9A383867-ABAC-4298-93D8-EC9D09CA6E57
 
+1. Đề xuất dự án
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000001000000000000000000502530000680000200
 
 **ID:** 76072B28-746F-4D33-80AB-0344D7B966A3
+
+1. Xây dựng, trình Bộ trưởng Bộ Khoa học và Công nghệ để trình Chính phủ, Thủ tướng Chính phủ phê duyệt hoặc ban hành:
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** A8E9AD08-38EB-4777-88BA-342C8E0D34DE
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000002000000000000000000502572200040000200
 
 **ID:** EDC62AD1-0466-4AE4-9F35-2159ECDF3D51
+
+1. Công chức, viên chức trong chỉ tiêu biên chế và số lượng người làm việc đã được cấp có thẩm quyền phê duyệt, người làm việc theo chế độ hợp đồng lao động quy định tại Điều 1 Quyết định này đã được xếp lương theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ làm việc tại Khu Công nghệ cao Hòa Lạc trong các tổ chức, đơn vị sau:
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D697F24A-D547-4C89-83C5-25AC229DDE9A
 
+1. Tổ chức, cá nhân trong nước và nước ngoài đầu tư, làm việc tại Khu Công nghệ cao.
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003550275130038000020
 
 **ID:** D06BA1D2-301A-4B05-89A3-A3EF2AB80279
+
+1. Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2021 và thay thế Quyết định số 66/2014/QĐ-TTg ngày 25 tháng 11 năm 2014 của Thủ tướng Chính phủ về việc phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển, Quyết định số 13/2017/QĐ-TTg ngày 28 tháng 4 năm 2017 của Thủ tướng Chính phủ về việc sửa đổi, bổ sung Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển, khoản 2 Điều 1 và Điều 4 Quyết định số 34/2019/QĐ-TTg ngày 18 tháng 12 năm 2019 của Thủ tướng Chính phủ về việc quy định tiêu chí xác định dự án, phương án sản xuất kinh doanh ứng dụng công nghệ cao trong nông nghiệp và bổ sung Danh mục công nghệ cao được ưu tiên đầu tư phát triển ban hành kèm theo Quyết định số 66/2014/QĐ-TTg ngày 25 tháng 11 năm 2014 của Thủ tướng Chính phủ.
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 59B9764E-D080-45FC-8C9D-604FB81EF874
 
+Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580241800032250110
 
 **ID:** 473AFDFD-194F-44E4-AB1A-C9491635A88C
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2020.
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** BD1C7C77-FC67-4070-BCF5-20D8BC3EDD1B
 
+1. Tổ chức khoa học và công nghệ, giảng viên, nghiên cứu viên, sinh viên được thành lập hoặc hợp tác với tổ chức, cá nhân khác thành lập doanh nghiệp công nghệ cao.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450002000
 
 **ID:** 81447A02-D0F0-4C09-9CE2-289046C89AAA
+
+1. Căn cứ vào thông báo của Bộ Tài chính về phân bổ kinh phí ngân sách và thông báo của Bộ Khoa học và Công nghệ về nội dung kế hoạch khoa học và công nghệ trong năm kế hoạch, Đơn vị quản lý nhiệm vụ của Chương trình chủ trì, phối hợp với các đơn vị liên quan tổ chức rà soát, cân đối kinh phí và điều chỉnh Danh mục và dự toán kinh phí nhiệm vụ tham gia thực hiện Chương trình.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 82CF2717-3462-4621-9F8F-6E1E2DFDE9AD
 
+Kinh phí thực hiện Chương trình công nghệ cao được cân đối trong dự toán chi ngân sách khoa học và công nghệ hàng năm, để cấp cho các tổ chức chủ trì thực hiện các nhiệm vụ KH&CN và các nhiệm vụ chung thuộc Chương trình công nghệ cao, chi cho hoạt động chung của Chương trình công nghệ cao bao gồm: kinh phí hoạt động của Ban Chỉ đạo, Ban Chủ nhiệm Chương trình công nghệ cao, kinh phí hợp tác quốc tế, điều tra, khảo sát, hội nghị, hội thảo, thông tin truyền thông và các hoạt động chung khác theo quy định.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100002000
 
 **ID:** F8AE4538-65DA-4810-9D20-D2044EB3CE7A
+
+1. Hệ thống các công trình hạ tầng kỹ thuật bảo vệ môi trường, phòng cháy và chữa cháy, bảo đảm an ninh trật tự, an toàn giao thông và các lĩnh vực hoạt động cần thiết khác trong khu công nghệ cao được quy hoạch, thiết kế và đầu tư xây dựng, vận hành đồng bộ, phù hợp với quy mô, tiến độ đầu tư các dự án, đảm bảo hoạt động trong khu công nghệ cao và tuân thủ các quy định của pháp luật.
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 39943B80-FA7F-4AB2-8842-77C81B8059A7
 
+Bộ Khoa học và Công nghệ có trách nhiệm tổ chức triển khai thực hiện Nghị định này.
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580245890031000200
 
 **ID:** F6D76EC7-4812-4400-993F-A4C0B54D8E08
+
+1. Thông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký ban hành.
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 457A5311-4CCB-41C5-B121-7404725CA95B
 
+1. Cơ sở sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao có chức năng cung cấp điều kiện thuận lợi về hạ tầng kỹ thuật, nguồn lực, dịch vụ cần thiết cho tổ chức, cá nhân hoàn thiện công nghệ cao, hình thành và phát triển doanh nghiệp công nghệ cao trong giai đoạn ươm tạo.
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450002100
 
 **ID:** 9CDA2394-3474-4FCE-A9F7-CA9223144FCF
+
+1. Khi kết thúc quá trình tuyển chọn, giao trực tiếp, thẩm định kinh phí nhiệm vụ của Chương trình, thư ký hành chính của các hội đồng có trách nhiệm tổng hợp tài liệu và nộp bộ hồ sơ gốc (kể cả các hồ sơ không trúng tuyển) để Đơn vị quản lý nhiệm vụ của Chương trình lưu trữ theo quy định hiện hành.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 4FB962E7-FD11-4779-8E40-C3FCFB6D6DDD
 
+Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ chủ trì Chương trình thành phần tổ chức việc hướng dẫn, đăng ký nhiệm vụ trực tuyến và xây dựng cơ sở dữ liệu điện tử về các nhiệm vụ KH&CN thuộc Chương trình công nghệ cao.
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100002100
 
 **ID:** CDB1498C-2BEA-4C91-A259-5E0BA6FD23DA
+
+1. Ban quản lý khu công nghệ cao tổ chức quản lý, khai thác, vận hành, duy tu hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao do Nhà nước đầu tư và các công trình được Chủ đầu tư hạ tầng bàn giao tại khoản 2 Điều này, trừ các công trình quy định tại khoản 3 Điều này.
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 5C2D2A88-B67E-4ABC-928D-70F96F210569
 
+1. Bộ Tài chính có trách nhiệm:
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000300002200000000000000000
 
 **ID:** FE57938F-2A99-4913-830B-23A2B2F1652D
+
+1. Nhà đầu tư xây dựng, kinh doanh cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao được ưu đãi, hỗ trợ như sau:
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 670EC993-7853-4731-A840-219EB21439BF
 
+Việc tổ chức thực hiện, kiểm tra, đánh giá và nghiệm thu nhiệm vụ chung của Chương trình được thực hiện theo quy định tại Thông tư số 50/2014/TT-BCT ngày 15 tháng 12 năm 2014 của Bộ Công Thương quy định về quản lý nhiệm vụ khoa học và công nghệ của Bộ Công Thương.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100002200
 
 **ID:** F30C46E6-1652-418B-B289-9335A7AA84E7
+
+1. Nhà đầu tư, chuyên gia, người lao động và thành viên gia đình (bao gồm bố, mẹ, vợ hoặc chồng, con dưới 18 tuổi hoặc trên 18 tuổi sống cùng người đó), là người nước ngoài được xem xét cấp thị thực nhập cảnh có giá trị sử dụng nhiều lần và thời hạn phù hợp với thời gian làm việc trực tiếp tại khu công nghệ cao theo quy định.
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 93DD7E48-536E-4824-98EB-D7CA8CB205FC
 
+1. Nghị định này có hiệu lực thi hành từ ngày 05 tháng 8 năm 2017.
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580286070025000220
 
 **ID:** 130E75D2-1445-4BFD-BAAF-C3EB84D10755
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2024.
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0934AD94-C208-449E-A371-0B0FB21218C8
 
+1. Chương trình quốc gia phát triển công nghệ cao có mục tiêu thúc đẩy nghiên cứu, ứng dụng công nghệ cao nhằm tạo ra công nghệ cao, sản phẩm công nghệ cao trong nước và hình thành, phát triển công nghiệp công nghệ cao.
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450002300
 
 **ID:** 35456214-6AA3-41D9-A0BD-5D930125D31C
+
+1. Việc tổ chức ký hợp đồng thực hiện dự án của Chương trình thực hiện theo quy định tại Điều 12 Thông tư số 05/2015/TT-BKHCN ngày 12 tháng 3 năm 2015 của Bộ Khoa học và Công nghệ quy định tổ chức quản lý các Chương trình khoa học và công nghệ cấp quốc gia (sau đây viết tắt là Thông tư số 05/2015/TT-BKHCN).
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7BC84E4C-8957-4A42-A7E3-12BB47711356
 
+1. Việc đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ cao thực hiện đối với toàn bộ hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao (trong trường hợp ngân sách nhà nước không đầu tư xây dựng hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao) hoặc thực hiện đối với một phần hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao (trong trường hợp ngân sách nhà nước đầu tư xây dựng một phần hệ thống kết cấu hạ tầng kỹ thuật khu công nghệ cao).
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580286070025000230
 
 **ID:** EF8D777B-1461-449E-8070-D576AB67B2D6
+
+1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và tổ chức, cá nhân liên quan có trách nhiệm thi hành Thông tư này.
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 64731D15-960F-44FF-930B-D86A1FB83484
 
+1. Vụ Khoa học và Công nghệ
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000300002400000000000000000
 
 **ID:** EA4A957C-E904-4152-83BF-226AF9E804A9
+
+1. Đầu tư mạo hiểm cho phát triển công nghệ cao là đầu tư cho nghiên cứu phát triển công nghệ cao, hình thành và phát triển doanh nghiệp ứng dụng, sản xuất sản phẩm, cung ứng dịch vụ công nghệ cao, được thực hiện bằng hình thức góp vốn và tư vấn cho tổ chức, cá nhân nhận đầu tư.
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 8BA0AE4D-E854-4B3B-A0B8-FB24D4783D83
 
+1. Nhà đầu tư dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ cao phải đáp ứng các điều kiện sau đây:
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000300002500000000000000000
 
 **ID:** CFC97DA7-8953-47CC-809F-C79E1C6A15C1
+
+1. Quỹ đầu tư mạo hiểm công nghệ cao quốc gia là tổ chức tài chính nhà nước để đầu tư vốn, cung cấp dịch vụ tư vấn cho tổ chức, cá nhân hình thành và phát triển doanh nghiệp ứng dụng, sản xuất sản phẩm, cung ứng dịch vụ công nghệ cao.
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 1D2F179A-C1F7-46E8-88A8-390814A176E7
 
+1. Nhà đầu tư thực hiện dự án đầu tư trong khu công nghệ cao và Chủ đầu tư hạ tầng ngoài quyền và nghĩa vụ chung của nhà đầu tư, doanh nghiệp theo quy định của pháp luật về đầu tư, pháp luật về doanh nghiệp, Nghị định này và quy định khác của pháp luật có liên quan còn có các quyền và nghĩa vụ sau đây:
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580256660045000250
 
 **ID:** F11652BC-F3D6-4505-A828-DBACD48F76C2
+
+1. Thông tư này có hiệu lực thi hành từ ngày 25 tháng 01 năm 2016.
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 544CF0F5-B4DD-4F9C-A959-22DD62C3DA6A
 
+1. Phát triển nhân lực công nghệ cao là một trong những nhiệm vụ trọng tâm của hệ thống giáo dục và đào tạo quốc gia nhằm thực hiện chính sách của Nhà nước đối với hoạt động công nghệ cao quy định tại Luật này và các quy định khác của pháp luật có liên quan.
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100002600
 
 **ID:** 8960122C-5266-4AE6-B077-9223AEBF1B39
+
+1. Nhà đầu tư lập 01 bộ hồ sơ đăng ký xác nhận dự án đầu tư đáp ứng nguyên tắc hoạt động công nghệ cao gửi Ban quản lý khu công nghệ cao (trực tiếp hoặc qua dịch vụ bưu chính).
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 4D99C624-9316-4CFE-B694-6318A9DC7DD7
 
+1. Thủ trưởng các đơn vị trực thuộc Bộ, Thủ trưởng các cơ quan, tổ chức, người đứng đầu các tổ chức và các cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000400002700000000000000000
 
 **ID:** BDAC4806-ED2B-41B1-A99F-DA3BCC658313
+
+1. Ngân sách giáo dục và đào tạo hằng năm phải có kinh phí để chọn cử học sinh, sinh viên có kết quả học tập xuất sắc, giảng viên, nghiên cứu viên, chuyên gia công nghệ, cán bộ quản lý, kỹ thuật viên, công nhân kỹ thuật để đào tạo, bồi dưỡng ở nước ngoài về công nghệ cao được ưu tiên đầu tư phát triển quy định tại Điều 5 của Luật này.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6C079E0D-2B77-4C72-8DAF-E9A2747DA358
 
+Các loại hình hoạt động công nghệ cao trong khu công nghệ cao bao gồm: nghiên cứu và phát triển công nghệ cao; ứng dụng công nghệ cao; ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đào tạo nhân lực công nghệ cao; hội chợ, triển lãm, trình diễn công nghệ cao, trình diễn sản phẩm công nghệ cao từ kết quả nghiên cứu, ứng dụng công nghệ cao, chuyển giao công nghệ cao; sản xuất và kinh doanh sản phẩm công nghệ cao; cung ứng dịch vụ công nghệ cao.
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000400002800000000000000000
 
 **ID:** AAE17056-7FCE-499A-85E9-F53EC1EA105C
+
+1. Nhà nước khuyến khích tổ chức, cá nhân đầu tư, liên doanh, liên kết với tổ chức khác để đầu tư xây dựng cơ sở đào tạo nhân lực công nghệ cao.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6B9B1124-40A5-456C-894B-EC010605AA51
 
+1. Mục tiêu và nội dung hoạt động của dự án đầu tư phù hợp với nhiệm vụ của khu công nghệ cao quy định tại khoản 2 Điều 31 Luật Công nghệ cao.
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000400002900000000000000000
 
 **ID:** 03701747-8DF3-42C1-BB46-3C6816222366
+
+1. Nhà nước có cơ chế, chính sách ưu đãi đặc biệt để thu hút, sử dụng nhân lực công nghệ cao, bao gồm:
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 46A7AEAE-F322-4FDE-A195-658B04FD49FA
 
+1. Hoạt động nghiên cứu và phát triển công nghệ cao trong khu công nghệ cao bao gồm: nghiên cứu, làm chủ công nghệ cao được chuyển giao, công nghệ cao được nhập khẩu; giải mã công nghệ cao; nghiên cứu khai thác sáng chế, triển khai thực nghiệm, sản xuất thử nghiệm nhằm tạo ra công nghệ cao, công nghệ mới thay thế công nghệ nhập khẩu từ nước ngoài; nghiên cứu hoàn thiện, phát triển công nghệ cao ứng dụng trong sản xuất sản phẩm mới, sản phẩm công nghệ cao, cung ứng các dịch vụ công nghệ cao, chuyển giao công nghệ cao; hoạt động đào tạo nhân lực công nghệ cao gắn với các hoạt động nêu trên.
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000300000000000000000
 
 **ID:** E8088C5A-238A-4FA4-B09C-DF0E51E426EA
+
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6BF6E215-2A32-4F5A-8BD0-37F9C689C49E
 
+1. Dự án được xác định là dự án đầu tư sản xuất sản phẩm công nghệ cao phải đáp ứng được các tiêu chí sau đây:
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000002000010000000000000000000050237490055000020000802460600010000300
 
 **ID:** 1DA66E0F-EAE3-4303-96F4-033710908C45
+
+1.  Mẫu đơn đề nghị cấp Giấy chứng nhận hoạt động nghiên cứu và phát triển công nghệ cao dành cho tổ chức, cá nhân (Biểu B1-TCĐTĐA, Biểu B1-CNĐTĐA phụ lục kèm theo).
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7063F330-9866-423D-BA5E-BDB5C15EBF40
 
+1. Tổ chức, cá nhân bị thu hồi Giấy chứng nhận hoạt động thuộc một trong các trường hợp sau đây:
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000160000000000000000000502568100660000300
 
 **ID:** F4C6BB72-6E58-483D-95C5-BFD365534193
+
+Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương là cơ quan có thẩm quyền quyết định công nhận vùng nông nghiệp ứng dụng công nghệ cao.
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 13C33CE2-6770-4249-9AA8-F754E0342141
 
+1. Bộ Khoa học và Công nghệ là cơ quan có thẩm quyền cấp, thu hồi Giấy chứng nhận doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm (sau đây gọi là Giấy chứng nhận) thuộc Danh mục sản phẩm công nghệ cao được khuyến khích phát triển.
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000180000000000000000000502758900100000300
 
 **ID:** 03AC47AC-8D42-4D27-A457-4941FF59A323
+
+Doanh nghiệp công nghệ cao phải đáp ứng các tiêu chí quy định tại điểm a và b khoản 1 Điều 18 của Luật Công nghệ cao số 21/2008/QH12 được sửa đổi, bổ sung tại Điều 75 của Luật Đầu tư số 67/2014/QH13 và khoản 3 Điều 76 của Luật Đầu tư số 61/2020/QH14, đồng thời đáp ứng các tiêu chí sau:
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** BF65A648-C05C-42DF-BC82-80F1407582A7
 
+1. Việc công nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao được thực hiện dưới hình thức cấp Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao.
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000003000019000000000000000000050238030069000040000802405700500000300
 
 **ID:** 9CAFB09B-87D9-48B0-99E1-B4A6E1ACE260
+
+1. Sau khi nhận được thông tin phản ánh về vi phạm hoặc dấu hiệu vi phạm của doanh nghiệp, Bộ Nông nghiệp và Phát triển nông thôn thông báo cho doanh nghiệp và yêu cầu doanh nghiệp giải trình lý do; thời gian giải trình lý do chậm nhất là 5 ngày làm việc kể từ ngày nhận được thông báo của Bộ; văn bản giải trình của doanh nghiệp được gửi trực tiếp hoặc qua đường bưu điện cho Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường).
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 62C2568C-2458-4BAD-994F-F488001FF9BB
 
+1. Giấy chứng nhận là văn bản do cơ quan quản lý nhà nước có thẩm quyền cấp cho cơ sở ươm tạo công nghệ cao đáp ứng các quy định tại Thông tư này.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458102190000300
 
 **ID:** 735B64CA-29B7-41FD-86FA-4C8B03C02363
+
+Các nguồn tài chính thực hiện Chương trình bao gồm:
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6F897F99-ADA8-4E48-9DAB-9237461CBAD0
 
+1. Có mục tiêu, nội dung và sản phẩm dự kiến phù hợp  với yêu cầu được quy định tại Chương trình.
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450000300
 
 **ID:** 4ECF63D0-0C23-432A-81B0-09828346EDE2
+
+1. Nhiệm vụ của Chương trình bao gồm: dự án công nghiệp công nghệ cao và nhiệm vụ chung của Chương trình.
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D765742E-FCC5-4CCC-9D22-A73AC83A41D0
 
+Nhiệm vụ thuộc Chương trình công nghệ cao bao gồm:
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100000300
 
 **ID:** 3B54D359-062D-4E04-8798-B936DB321B20
+
+1. Phương hướng xây dựng khu công nghệ cao là một nội dung của quy hoạch vùng theo quy định tại điểm d khoản 2 Điều 26 Luật Quy hoạch, trong đó xác định mục tiêu, định hướng, giải pháp và tổ chức thực hiện về phát triển khu công nghệ cao ở cấp vùng.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 9276DEF6-EA43-4B0D-9331-FD98ED99E60C
 
+1. Văn phòng;
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000002000000000000000000502572200040000300
 
 **ID:** 49FB884C-14BF-468F-9E4F-951D08D8F4AB
+
+Đối tượng quy định tại Khoản 1 Điều 2 Quyết định này được áp dụng hệ số điều chỉnh mức lương cơ sở tăng thêm 0,8 lần so với mức lương cơ sở do Chính phủ quy định.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** F0D60047-6A1A-423D-A221-A479DF5363D0
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740000300
 
 **ID:** C1D1CEC5-F3DB-4BC7-A4EF-FEFECBEA168F
+
+1. Hạ tầng kỹ thuật (trừ hạ tầng kỹ thuật do doanh nghiệp đầu tư) và khu cây xanh sử dụng công cộng theo quy hoạch chung xây dựng của Khu Công nghệ cao, hạ tầng kỹ thuật nội bộ của Khu nghiên cứu và triển khai và Khu giáo dục và đào tạo được thực hiện bằng nguồn vốn ngân sách trung ương do Ban Quản lý làm chủ đầu tư và các nguồn vốn hợp pháp khác.
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 91CE664A-336E-4E3F-A8DB-8212595E7B11
 
+Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2015 và thay thế Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 7 năm 2010 của Thủ tướng Chính phủ về việc phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển.
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003550252860066000040
 
 **ID:** B0ADFDB7-8D76-4AC5-AE48-62E487C8F607
+
+Quyết định này có hiệu lực thi hành từ ngày 15 tháng 6 năm 2017.
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 543FFB52-AB6A-4B27-B218-610CC7EBF469
 
+Vụ trưởng Vụ Công nghệ cao, Trưởng Ban quản lý Khu công nghệ cao Hoà Lạc, Trưởng Ban quản lý Khu công nghệ cao Thành phố Hồ Chí Minh và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580241800032250120
 
 **ID:** 2F3368AA-D135-4BA2-9878-1A4FB0C92437
+
+1. Kể từ thời điểm Thông tư này có hiệu lực thi hành, tổ chức, cá nhân đã được cấp Giấy chứng nhận theo quy định tại Thông tư số 32/2011/TT-BKHCN được áp dụng tiêu chí theo quy định tại Điều 1 Thông tư này trong nội dung báo cáo kết quả hoạt động định kỳ hằng năm.
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** B8C428DA-2567-468D-8467-2D3484811040
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 8 năm 2023.
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000500003000000000000000000
 
 **ID:** BD6F2831-59EC-45AE-B93A-EA0756E81957
+
+1. Nhà nước khuyến khích tổ chức, cá nhân đầu tư xây dựng cơ sở hạ tầng kỹ thuật công nghệ cao gồm khu công nghệ cao, khu nông nghiệp ứng dụng công nghệ cao, cơ sở nghiên cứu, cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao, hạ tầng thông tin đáp ứng yêu cầu phát triển công nghệ cao.
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 69DD0DC2-0095-4114-B4F5-DB3C780605C9
 
+1. Hoạt động đào tạo nhân lực công nghệ cao bao gồm: đào tạo đội ngũ những người có trình độ và kỹ năng đáp ứng được yêu cầu của hoạt động nghiên cứu, phát triển, ứng dụng công nghệ cao; xây dựng nhóm nghiên cứu mạnh, các cơ sở đào tạo, nghiên cứu công nghệ cao hiện đại; kết hợp với các trường đại học, cơ sở nghiên cứu bên ngoài khu công nghệ cao trong đào tạo các trình độ đại học, thạc sỹ, tiến sỹ thuộc một số chuyên ngành gắn với các lĩnh vực công nghệ được ưu tiên theo quy định tại Luật Công nghệ cao và Danh mục công nghệ cao được ưu tiên đầu tư phát triển; đào tạo và cung ứng nguồn nhân lực có trình độ cao trong vận hành các thiết bị, dây chuyền sản xuất sản phẩm công nghệ cao, cung ứng dịch vụ công nghệ cao, quản lý hoạt động công nghệ cao.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000500003100000000000000000
 
 **ID:** 375292BD-85DE-47B2-AB07-3CB70D80BC16
+
+1. Khu công nghệ cao là nơi tập trung, liên kết hoạt động nghiên cứu và phát triển, ứng dụng công nghệ cao; ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đào tạo nhân lực công nghệ cao; sản xuất và kinh doanh sản phẩm công nghệ cao, cung ứng dịch vụ công nghệ cao.
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 3552FB82-D57A-465C-A204-85DBB10BE34F
 
+1. Dự án được các cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao lựa chọn để ươm tạo ngoài việc đáp ứng các nguyên tắc quy định tại các khoản 1, 2, 3, 4 Điều 28 Nghị định này, còn phải tạo ra công nghệ cao, sản phẩm công nghệ cao thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển, Danh mục sản phẩm công nghệ cao được khuyến khích phát triển được ban hành kèm theo Quyết định của Thủ tướng Chính phủ.
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100003200
 
 **ID:** 79C05AFB-F40B-4E30-97A9-FFE8BC918DE3
+
+1. Dự án đầu tư ứng dụng công nghệ cao để sản xuất sản phẩm công nghệ cao ngoài việc đáp ứng các nguyên tắc quy định tại các khoản 1, 2, 3, 4 Điều 28 Nghị định này, còn phải đáp ứng các tiêu chí sau:
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 8DF49B6E-87EF-43A4-839B-233A6D671701
 
+1. Khu nông nghiệp ứng dụng công nghệ cao là khu công nghệ cao tập trung thực hiện hoạt động ứng dụng thành tựu nghiên cứu và phát triển công nghệ cao vào lĩnh vực nông nghiệp để thực hiện các nhiệm vụ quy định tại khoản 1 Điều 16 của Luật này.
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100003300
 
 **ID:** DA9BA2E5-124C-4803-8DFE-DFA49E5C17D2
+
+Dự án đầu tư cung ứng dịch vụ công nghệ cao phải đáp ứng các nguyên tắc quy định tại các khoản 1, 2, 3, 4 Điều 28 Nghị định này, đồng thời dịch vụ công nghệ cao được cung ứng phải thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển được ban hành kèm theo Quyết định của Thủ tướng Chính phủ.
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** EB7EBDB7-C8C0-4618-8520-B069B9BBECA5
 
+1. Trong quy hoạch sử dụng đất đai phải dành đất cho xây dựng hạ tầng kỹ thuật phục vụ phát triển công nghệ cao.
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000320000000000000000000402864100100003400
 
 **ID:** 829F9236-9832-4394-BA88-74DC758CBE17
+
+Các loại hình hoạt động công nghệ cao trong khu nông nghiệp ứng dụng công nghệ cao bao gồm: nghiên cứu ứng dụng, thử nghiệm, trình diễn mô hình sản xuất sản phẩm nông nghiệp ứng dụng công nghệ cao; liên kết các hoạt động nghiên cứu, ứng dụng công nghệ cao, sản xuất sản phẩm ứng dụng công nghệ cao trong lĩnh vực nông nghiệp; đào tạo nhân lực công nghệ cao lĩnh vực nông nghiệp; hội chợ, triển lãm, trình diễn sản phẩm nông nghiệp ứng dụng công nghệ cao.
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 34C60F80-D1EA-46EA-BE12-D25AE456EDD6
 
+Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009.
+
 ---
 
 
@@ -2103,6 +2482,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000320000000000000000000402864100100003500
 
 **ID:** 372B9016-44A6-4041-92FD-B2326EF0F0F0
+
+1. Mục tiêu và nội dung hoạt động của dự án đầu tư phù hợp với nhiệm vụ của khu nông nghiệp ứng dụng công nghệ cao quy định tại khoản 2 Điều 32 Luật Công nghệ cao.
 
 ---
 
@@ -2115,6 +2496,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** CC4291D3-1D7B-4CAC-AB3E-D60367379082
 
+Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước.
+
 ---
 
 
@@ -2125,6 +2508,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000320000000000000000000402864100100003600
 
 **ID:** 145AF828-19E3-4AF5-8C94-C8F6879003F7
+
+1. Hoạt động nghiên cứu ứng dụng công nghệ cao trong khu nông nghiệp ứng dụng công nghệ cao bao gồm: Liên kết các hoạt động nghiên cứu, nghiên cứu thích nghi, làm chủ công nghệ cao được chuyển giao, công nghệ cao được nhập khẩu; nghiên cứu hoàn thiện, sản xuất thử nghiệm phát triển công nghệ cao ứng dụng trong sản xuất nông nghiệp, trình diễn mô hình sản xuất sản phẩm nông nghiệp ứng dụng công nghệ cao, chuyển giao công nghệ cao.
 
 ---
 
@@ -2137,6 +2522,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 50B8DB52-4B23-4099-8437-BEE8D343591B
 
+1. Hoạt động đào tạo nhân lực công nghệ cao bao gồm: hoạt động đào tạo nhân lực gắn với các hoạt động nghiên cứu ứng dụng, đào tạo đội ngũ những người có trình độ và kỹ năng đáp ứng được yêu cầu của hoạt động nghiên cứu ứng dụng công nghệ cao; xây dựng nhóm nghiên cứu mạnh; kết hợp với các trường đại học, viện nghiên cứu, cơ sở nghiên cứu bên ngoài khu nông nghiệp ứng dụng công nghệ cao trong đào tạo các trình độ đại học, thạc sỹ, tiến sỹ thuộc một số chuyên ngành nông nghiệp, ưu tiên theo quy định tại Luật Công nghệ cao và Danh mục công nghệ cao được ưu tiên đầu tư phát triển; đào tạo và cung ứng nguồn nhân lực có khả năng làm chủ, ứng dụng công nghệ cao vào sản xuất nông nghiệp và cung ứng dịch vụ công nghệ cao, quản lý hoạt động công nghệ cao.
+
 ---
 
 
@@ -2147,6 +2534,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000320000000000000000000402864100100003800
 
 **ID:** 655CAEC7-9806-48B2-9DF9-070A5568FC12
+
+1. Dự án đầu tư ứng dụng công nghệ cao để sản xuất sản phẩm nông nghiệp là dự án đầu tư ứng dụng công nghệ cao thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển được ban hành kèm theo Quyết định của Thủ tướng Chính phủ để sản xuất sản phẩm nông nghiệp có chất lượng, năng suất, giá trị và hiệu quả cao; có hoạt động nghiên cứu, thử nghiệm ứng dụng công nghệ cao, chuyển giao công nghệ phục vụ sản xuất.
 
 ---
 
@@ -2159,6 +2548,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7E7D7CC4-BEDD-4204-B073-F725E297778D
 
+Dự án đầu tư cung ứng dịch vụ công nghệ cao phải đáp ứng các nguyên tắc quy định tại các khoản 1, 2, 3, 4 Điều 35 Nghị định này, đồng thời dịch vụ công nghệ cao được cung ứng phải thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển được ban hành kèm theo Quyết định của Thủ tướng Chính phủ.
+
 ---
 
 
@@ -2169,6 +2560,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000400000000000000000
 
 **ID:** 48DD1E76-03E4-491A-99EE-4CCF12CAF4F9
+
+1. Huy động các nguồn lực đầu tư, áp dụng đồng bộ các cơ chế, biện pháp khuyến khích, ưu đãi ở mức cao nhất về đất đai, thuế và ưu đãi khác cho hoạt động công nghệ cao nhằm phát huy vai trò chủ đạo của công nghệ cao trong phát triển khoa học và công nghệ phục vụ phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và nâng cao chất lượng cuộc sống của nhân dân.
 
 ---
 
@@ -2181,6 +2574,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0AADC8C4-A824-47B2-BABF-01C46B47AA5B
 
+1. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Giám đốc Văn phòng Đăng ký hoạt động khoa học và công nghệ có quyết định thành lập Tổ chuyên gia thẩm định hồ sơ đề nghị cấp Giấy chứng nhận.
+
 ---
 
 
@@ -2191,6 +2586,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000002000010000000000000000000050237490055000020000802460600010000400
 
 **ID:** AA184C68-6390-46E0-A3D8-746C8036496C
+
+Quy trình thẩm định hồ sơ đề nghị cấp Giấy chứng nhận; nguyên tắc làm việc của Hội đồng; trình tự làm việc của Hội đồng; kinh phí phục vụ công tác thẩm định hồ sơ đề nghị cấp Giấy chứng nhận được áp dụng thực hiện theo quy định tại các Điều 4, Điều 5, Điều 6, Điều 7 Thông tư số 32/2011/TT-BKHCN ngày 15 tháng 11 năm 2011 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về việc xác định tiêu chí dự án ứng dụng công nghệ cao, dự án đầu tư sản xuất sản phẩm công nghệ cao và thẩm định hồ sơ đề nghị cấp Giấy chứng nhận hoạt động ứng dụng công nghệ cao, doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm công nghệ cao, doanh nghiệp công nghệ cao.
 
 ---
 
@@ -2203,6 +2600,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** C4DD395E-611E-4524-8E0D-F31DABD9A9F8
 
+1. Giấy chứng nhận hoạt động có hiệu lực kể từ ngày cấp và có giá trị đến khi kết thúc dự án, đề tài, đề án.
+
 ---
 
 
@@ -2213,6 +2612,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000160000000000000000000502568100660000400
 
 **ID:** E03982A1-248E-465E-A612-74DB98BBB57E
+
+1. Tổ chức đầu mối của vùng lập hồ sơ đề nghị công nhận vùng nông nghiệp ứng dụng công nghệ cao, gửi trực tiếp hoặc qua đường bưu điện đến Sở Nông nghiệp và Phát triển nông thôn 10 bộ hồ sơ, trong đó 01 bộ hồ sơ gốc và 09 bộ hồ sơ (bản sao). Thành phần hồ sơ bao gồm:
 
 ---
 
@@ -2225,6 +2626,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 40E03956-7415-4173-B0CB-862E2BAEBF05
 
+1. Hồ sơ bao gồm:
+
 ---
 
 
@@ -2235,6 +2638,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000190000000000000000000502380300690000400
 
 **ID:** CB8BDAC2-E1A3-486F-A8A2-FD26489212C5
+
+1. Doanh nghiệp bị thu hồi Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao thuộc một trong các trường hợp sau đây:
 
 ---
 
@@ -2247,6 +2652,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** A57EB8ED-6263-4D0F-9917-3842214A479E
 
+1. Trước thời hạn Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao hết hiệu lực 45 ngày, doanh nghiệp phải làm hồ sơ đề nghị cấp lại Giấy chứng nhận; hồ sơ đề nghị cấp lại Giấy chứng nhận như hồ sơ đề nghị cấp Giấy chứng nhận lần đầu theo khoản 2 Điều 3 của Quyết định số 69/2010/QĐ-TTg ngày 03 tháng 11 năm 2010 của Thủ tướng Chính phủ.
+
 ---
 
 
@@ -2257,6 +2664,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000210000000000000000000802494300270000400
 
 **ID:** EFE7FDF0-0974-4BAC-A38B-03974D167BD8
+
+1. Bộ Khoa học và Công nghệ là cơ quan có thẩm quyền cấp, thu hồi Giấy chứng nhận.
 
 ---
 
@@ -2269,6 +2678,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 332C7627-93B0-4B45-A714-42610AC9B891
 
+1. Dự án cần có phương án huy động các nguồn tài chính, trong đó nêu đầy đủ nhu cầu về kinh phí, chi tiết theo từng nguồn nêu tại Điều 3 của Thông tư này và thuyết minh rõ khả năng huy động các nguồn tài chính để thực hiện.
+
 ---
 
 
@@ -2279,6 +2690,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310000400
 
 **ID:** 66CB87E6-8302-4DAB-B18E-9ABABA3058B3
+
+1. Ban chủ nhiệm Chương trình nghiên cứu, đào tạo và  xây dựng hạ tầng kỹ thuật công nghệ cao (sau đây viết tắt là Ban chủ nhiệm) giúp  Bộ trưởng Bộ Khoa học và Công nghệ:
 
 ---
 
@@ -2291,6 +2704,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 8BE19D3D-5BF7-485D-B0F9-A9D0F13A42E5
 
+1. Cơ sở pháp lý thực hiện nhiệm vụ là đầy đủ, rõ ràng.
+
 ---
 
 
@@ -2301,6 +2716,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250000400
 
 **ID:** FAB89C02-412D-4B1E-8C54-B031E88C364C
+
+1. Công nghệ cao, sản phẩm công nghệ cao được phát triển, tạo ra từ nhiệm vụ KH&CN phải đáp ứng các tiêu chí sau:
 
 ---
 
@@ -2313,6 +2730,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E8123ABF-C3B4-4972-B465-91301B8AA70E
 
+1. Phương án phát triển khu công nghệ cao là một nội dung của quy hoạch tỉnh theo quy định tại điểm d khoản 2 Điều 27 Luật Quy hoạch, trong đó xác định mục tiêu, định hướng, giải pháp, tổ chức thực hiện và danh mục các khu công nghệ cao trên địa bàn tỉnh, thành phố trực thuộc trung ương.
+
 ---
 
 
@@ -2323,6 +2742,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000001000000000000000000502530000680000400
 
 **ID:** 05913430-773F-447A-90A8-723B0A9A17D2
+
+1. Ban Quản lý có Trưởng ban và không quá 03 Phó Trưởng ban.
 
 ---
 
@@ -2335,6 +2756,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 32833770-123E-4113-B5EC-8DF518F5AF18
 
+Kinh phí chi trả hệ số điều chỉnh mức lương cơ sở tăng thêm quy định tại Quyết định này được ngân sách nhà nước bảo đảm và bố trí trong dự toán chi thường xuyên hàng năm của Ban Quản lý Khu Công nghệ cao Hòa Lạc.
+
 ---
 
 
@@ -2345,6 +2768,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740000400
 
 **ID:** 8B366EE8-DB9B-4B7C-A603-7D411720176F
+
+1. Ủy ban nhân dân thành phố Hà Nội quy định các chính sách, biện pháp hỗ trợ về bồi thường, hỗ trợ, tái định cư phục vụ giải phóng mặt bằng Khu Công nghệ cao phù hợp với thực tế tình hình quản lý đất đai của địa phương, bảo đảm ổn định chính sách chung của dự án và tiến độ giải phóng mặt bằng của Khu Công nghệ cao.
 
 ---
 
@@ -2357,6 +2782,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 517E4A58-9718-48D0-ACB7-7624FE46D97A
 
+Doanh nghiệp đã nộp hồ sơ đề nghị cấp Giấy chứng nhận doanh nghiệp công nghệ cao trước thời điểm Quyết định này có hiệu lực thi hành mà chưa được cấp thì thực hiện theo tiêu chí quy định tại Quyết định này.
+
 ---
 
 
@@ -2367,6 +2794,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100004000
 
 **ID:** 7C8A8B76-BF15-42E7-988D-3D1D9224F2C5
+
+1. Xây dựng và chỉ đạo thực hiện phương hướng xây dựng khu công nghệ cao trong quy hoạch vùng, phương án phát triển khu công nghệ cao trong quy hoạch tỉnh và kế hoạch đầu tư xây dựng và phát triển khu công nghệ cao.
 
 ---
 
@@ -2379,6 +2808,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0F9989F8-6E8F-4E89-9005-269FD147C89F
 
+1. Chính phủ thống nhất quản lý nhà nước về khu công nghệ cao trong phạm vi cả nước trên cơ sở phân công nhiệm vụ, quyền hạn cụ thể của từng bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh và Ban quản lý khu công nghệ cao theo quy định tại Nghị định này; chỉ đạo việc xây dựng và thực hiện quy hoạch, kế hoạch phát triển và ban hành chính sách, văn bản quy phạm pháp luật về khu công nghệ cao.
+
 ---
 
 
@@ -2389,6 +2820,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100004200
 
 **ID:** E7FFF374-F679-4486-870F-20AF50C39425
+
+1. Chủ trì giúp Chính phủ thống nhất quản lý nhà nước về khu công nghệ cao.
 
 ---
 
@@ -2401,6 +2834,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** FDFB51EF-5C40-4267-9E34-C13438CB6945
 
+Bộ Nông nghiệp và Phát triển nông thôn có quyền hạn và trách nhiệm quản lý nhà nước đối với khu nông nghiệp ứng dụng công nghệ cao quy định tại Điều 32 Luật Công nghệ cao như sau:
+
 ---
 
 
@@ -2411,6 +2846,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100004400
 
 **ID:** BA4ABDD6-8DCE-4D96-A876-49FB48964846
+
+Ngoài quyền hạn, trách nhiệm quản lý nhà nước đối với khu công nghệ cao theo quy định tại khoản 3 Điều 41 Nghị định này, các bộ và cơ quan ngang bộ sau đây có quyền hạn, trách nhiệm quy định như sau:
 
 ---
 
@@ -2423,6 +2860,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 97AB6F1F-223F-4955-BE2E-145F8359D465
 
+1. Đề xuất nội dung phương hướng xây dựng khu công nghệ cao trong quy hoạch vùng; chủ trì xây dựng phương án phát triển hệ thống khu công nghệ cao trong quy hoạch tỉnh; chỉ đạo tổ chức thực hiện sau khi quy hoạch vùng, quy hoạch tỉnh được phê duyệt.
+
 ---
 
 
@@ -2433,6 +2872,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100004600
 
 **ID:** 2617A279-071D-44F0-B74B-E934373AD4A1
+
+1. Ban quản lý khu công nghệ cao là cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh thực hiện chức năng quản lý nhà nước đối với khu công nghệ cao trên địa bàn tỉnh, thành phố trực thuộc trung ương theo quy định tại Nghị định này và quy định pháp luật có liên quan.
 
 ---
 
@@ -2445,6 +2886,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 76F7F599-7350-439F-AD9B-23934E445C26
 
+1. Đề xuất và tham gia ý kiến với cơ quan có thẩm quyền trong việc xây dựng và ban hành các văn bản quy phạm pháp luật; phương hướng và phương án phát triển khu công nghệ cao trong quy hoạch vùng, quy hoạch tỉnh; đề án mở rộng, điều chỉnh ranh giới khu công nghệ cao; cơ chế, chính sách, phương án huy động nguồn lực để xây dựng và phát triển khu công nghệ cao; cơ chế chính sách ưu đãi, hỗ trợ đối với các nhà đầu tư, các hoạt động và người lao động trong khu công nghệ cao.
+
 ---
 
 
@@ -2455,6 +2898,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100004800
 
 **ID:** E453CFCB-4AC5-4D2E-BDFF-8F6BC3532118
+
+1. Ban quản lý khu công nghệ cao có Trưởng ban và không quá 03 Phó Trưởng ban.
 
 ---
 
@@ -2467,6 +2912,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 6680B84E-3C07-4897-AC93-4D6A820F1D47
 
+1. Tập trung đầu tư phát triển công nghệ cao trong các lĩnh vực công nghệ sau đây:
+
 ---
 
 
@@ -2477,6 +2924,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000002000010000000000000000000050237490055000020000802418000322500500
 
 **ID:** 09B2E7CB-7375-45A2-8599-DB93A10FA125
+
+1. Hội đồng làm việc trên cơ sở các tài liệu do Văn phòng Đăng ký hoạt động khoa học và công nghệ cung cấp, được gửi đến các thành viên Hội đồng ít nhất 05 ngày trước phiên họp Hội đồng.
 
 ---
 
@@ -2489,6 +2938,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D7D9B733-9CFC-482D-B552-285BD439F3D3
 
+1. Việc công nhận doanh nghiệp công nghệ cao được thực hiện dưới hình thức cấp Giấy chứng nhận doanh nghiệp công nghệ cao.
+
 ---
 
 
@@ -2499,6 +2950,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000160000000000000000000502568100660000500
 
 **ID:** 8EE8985C-83D8-411B-A2CC-5C4C02CF8339
+
+Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ra quyết định thu hồi đối với vùng nông nghiệp ứng dụng công nghệ cao không còn đáp ứng một trong các tiêu chí quy định tại Điều 2 của Quyết định này.
 
 ---
 
@@ -2511,6 +2964,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** FDE1A523-894C-4A3A-98C3-AF09989C572D
 
+1. Trình tự, thủ tục cấp Giấy chứng nhận
+
 ---
 
 
@@ -2521,6 +2976,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000190000000000000000000502380300690000500
 
 **ID:** 5BEC6252-ADF5-4CC8-8CBE-87582BA74AE0
+
+1. Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao có hiệu lực 5 năm (năm năm) kể từ ngày cấp.
 
 ---
 
@@ -2533,6 +2990,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0E12BDE5-AA9E-4EE0-98C5-96DAC653EE68
 
+58;justify;margin:6px 0cm;">1. Vụ Khoa học, Công nghệ và Môi trường chịu trách nhiệm theo dõi, đôn đốc, kiểm tra, thanh tra việc thực hiện Thông tư này; làm đầu mối giải quyết những vấn đề phát sinh trong quá trình thực hiện và định kỳ (6 tháng) báo cáo Bộ trưởng.
+
 ---
 
 
@@ -2543,6 +3002,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000210000000000000000000802494300270000500
 
 **ID:** 28FFEFFE-9118-4810-8AF9-A9E540CE795A
+
+1. Hồ sơ đề nghị cấp Giấy chứng nhận bao gồm:
 
 ---
 
@@ -2555,6 +3016,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 0AE09C71-7757-486F-A56F-1771F699EAB8
 
+1.Dự toán kinh phí hỗtrợ từ nguồn ngân sách nhà nướclà bộ phận thuộc các nguồndự toánkinh phítrong Dựánđãđược cấp cóthẩm quyền phê duyệt; việc cân đối nguồn ngân sách nhà nước đảm bảo cơ cấu theo tỷ lệ với các nguồn kinh phí huy động khác ngoài ngân sách theo Dự án được duyệt. Nhà nước đảm bảo bố trí đủ kinh phí hỗ trợ từ nguồn ngân sách nhà nước cho các Dự án đã được phê duyệt.
+
 ---
 
 
@@ -2565,6 +3028,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310000500
 
 **ID:** 5799646C-BC66-4039-9E85-66A58953FE0C
+
+1. Bộ, ngành và địa phương tổ chức hướng dẫn các tổ chức, doanh nghiệp thuộc thẩm quyền quản lý của mình đề xuất dự án, đề xuất đặt hàng dự án thuộc Chương trình (Biểu A1-1) theo hướng dẫn của Bộ Khoa học và Công nghệ và quy định tại Thông tư này.
 
 ---
 
@@ -2577,6 +3042,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 16331735-994D-4890-BA9C-C01DB403306A
 
+1. Hàng năm, các tổ chức xây dựng và gửi hồ sơ đề xuất nhiệm vụ về Bộ Công Thương. Hồ sơ đề xuất bao gồm:
+
 ---
 
 
@@ -2587,6 +3054,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250000500
 
 **ID:** B22DCF48-C687-45B5-9DDE-15A602F1CCBA
+
+Mã số nhiệm vụ KH&CN thuộc Chương trình công nghệ cao được quy định như sau:
 
 ---
 
@@ -2599,6 +3068,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E91F43CB-4D9E-47E0-A136-280F3D61EFDF
 
+1. Các điều kiện chung:
+
 ---
 
 
@@ -2609,6 +3080,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000001000000000000000000502530000680000500
 
 **ID:** DBB38B5D-23D4-4990-8FA3-0C7261E2D7A2
+
+1. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2015.
 
 ---
 
@@ -2621,6 +3094,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AE89EF73-A6D1-416E-97A4-98ACDE2136CB
 
+1. Các đơn vị thực hiện chức năng quản lý nhà nước của Ban Quản lý Khu Công nghệ cao Hòa Lạc thực hiện chế độ tự chủ, tự chịu trách nhiệm theo Nghị định số 130/2005/NĐ-CP ngày 17 tháng 10 năm 2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan nhà nước và Nghị định số 117/2013/NĐ-CP ngày 07 tháng 10 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 130/2005/NĐ-CP.
+
 ---
 
 
@@ -2631,6 +3106,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740000500
 
 **ID:** 5D028F4C-5F71-42CA-8F02-1CDEA7054E66
+
+1. Dự án đầu tư mới hoặc mở rộng cơ sở nghiên cứu, phòng thí nghiệm quy mô lớn tại khu vực phía Bắc trong lĩnh vực công nghệ thông tin, công nghệ sinh học, công nghệ tự động hóa, công nghệ vật liệu mới thực hiện bằng nguồn vốn khoa học và công nghệ thuộc ngân sách trung ương được khuyến khích đầu tư tại Khu Công nghệ cao.
 
 ---
 
@@ -2643,6 +3120,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 4D1BBC12-AA59-4B94-B610-3AEF3AD2F628
 
+1. Quyết định này có hiệu lực từ ngày 30 tháng 4 năm 2021 và thay thế Quyết định số 19/2015/QĐ-TTg ngày 15 tháng 6 năm 2015 của Thủ tướng Chính phủ quy định tiêu chí xác định doanh nghiệp công nghệ cao.
+
 ---
 
 
@@ -2653,6 +3132,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580246060001000050
 
 **ID:** A5FA9DAC-96E4-475B-91F4-A02F62CB4EDB
+
+1.  Tổ chức, cá nhân được cấp Giấy chứng nhận theo định kỳ 12 tháng kể từ ngày được cấp Giấy chứng nhận có trách nhiệm gửi báo cáo kết quả hoạt động về Văn phòng Chứng nhận hoạt động công nghệ cao và doanh nghiệp khoa học công nghệ trực thuộc Bộ Khoa học và Công nghệ.
 
 ---
 
@@ -2665,6 +3146,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 5C941998-8427-4C41-A52A-E4FD1A33A299
 
+1. Các khu công nghệ cao đã hoàn thành các thủ tục quy hoạch, đầu tư, thành lập theo quy định của pháp luật trước thời điểm có hiệu lực thi hành của Nghị định này thì không phải thực hiện thêm các thủ tục quy hoạch, đầu tư, thành lập theo quy định của Nghị định này.
+
 ---
 
 
@@ -2675,6 +3158,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003540286410010000510
 
 **ID:** 68A7E5CA-6946-4552-A59E-2B60B0C2A08C
+
+1. Nghị định này có hiệu lực thi hành từ ngày 25 tháng 3 năm 2024.
 
 ---
 
@@ -2687,6 +3172,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** B74C9711-A4E3-470D-9D4E-C2A5B092E7B4
 
+1. Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết điểm đ khoản 2 Điều 29, khoản 2 Điều 31, điểm đ khoản 1 Điều 32 Nghị định này.
+
 ---
 
 
@@ -2697,6 +3184,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000600000000000000000
 
 **ID:** 5E1FD604-7C96-4AE0-BE93-D8B6BE987A30
+
+1. Sản phẩm công nghệ cao được khuyến khích phát triển là sản phẩm công nghệ cao được tạo ra từ công nghệ thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển và đáp ứng các điều kiện sau đây:
 
 ---
 
@@ -2709,6 +3198,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** DF4692BC-EC8B-4B09-8848-A9A7B213DD92
 
+1. Hội đồng phân công 01 ủy viên làm thư ký Hội đồng để ghi chép ý kiến của các thành viên, biên bản về kết quả làm việc của Hội đồng và các văn bản khác có liên quan.
+
 ---
 
 
@@ -2719,6 +3210,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000020000100000000000000000000502374900550000600
 
 **ID:** 7FF492E6-F219-4461-9543-D2D1D577E9A4
+
+1. Doanh nghiệp bị thu hồi Giấy chứng nhận doanh nghiệp công nghệ cao thuộc một trong các trường hợp sau đây:
 
 ---
 
@@ -2731,6 +3224,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 818B6627-DCE7-4788-AB2E-903A1E190DEF
 
+1. Giấy chứng nhận bị thu hồi trong các trường hợp sau đây:
+
 ---
 
 
@@ -2741,6 +3236,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000190000000000000000000502380300690000600
 
 **ID:** BD3D2064-3413-48CB-94A3-EACC0C86106F
+
+Chịu trách nhiệm hướng dẫn, đôn đốc, kiểm tra, thanh tra việc thực hiện Quyết định này; làm đầu mối giải quyết những vấn đề phát sinh trong quá trình thực hiện và trình Thủ tướng Chính phủ quyết định những vấn đề vượt quá thẩm quyền.
 
 ---
 
@@ -2753,6 +3250,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** ECBB2C10-DE49-4506-BFED-E98E94ECDDAA
 
+t-align:justify;margin:6px 0cm;">Tham mưu giúp Uỷ ban nhân đân tỉnh, thành phố trực thuộc Trung ương theo dõi, kiểm tra, thanh tra, giám sát và quản lý hoạt động của doanh nghiệp được công nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao ở địa phương; kiến nghị với Bộ Nông nghiệp và Phát triển nông thôn thu hồi Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao khi doanh nghiệp vi phạm.
+
 ---
 
 
@@ -2763,6 +3262,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000210000000000000000000802494300270000600
 
 **ID:** EBFAAF8D-F808-49ED-88B9-232A2F0EF3B0
+
+1. Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, Văn phòng Chứng nhận có trách nhiệm xem xét tính đầy đủ, hợp lệ của hồ sơ.
 
 ---
 
@@ -2775,6 +3276,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 94DB02BC-4CA9-4CC4-9125-B5CD7294DECD
 
+1.Tổchức chủtrì dự án cótrách nhiệm sử dụng và giải ngân kinh phí ngoài ngân sách nhà nước theo đúng phương án huy động các nguồn tài chính, đảm bảo về cơ cấu theo tỷ lệ với nguồn ngân sách nhànước theo Dự án đãđược phê duyệt.
+
 ---
 
 
@@ -2785,6 +3288,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310000600
 
 **ID:** 927DF0E3-311E-48A8-B193-A9B16EB5F944
+
+1. Ban chủ nhiệm tổ chức xây dựng danh mục dự án:
 
 ---
 
@@ -2797,6 +3302,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** B426C97C-651C-48BA-B59E-F48CB870E417
 
+1. Đơn vị quản lý nhiệm vụ của Chương trình tổng hợp đề xuất của các tổ chức và đề xuất đặt hàng khác để tiến hành phân loại nhiệm vụ của Chương trình theo nhóm lĩnh vực, tổ chức xác định danh mục nhiệm vụ đặt hàng.
+
 ---
 
 
@@ -2807,6 +3314,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250000600
 
 **ID:** 83C6159D-2918-4398-A165-A79284D90DE1
+
+Dự án khoa học và công nghệ phải đáp ứng tiêu chí sau:
 
 ---
 
@@ -2819,6 +3328,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AD9FA85B-724D-42DC-B3E8-36CDEAD3BB39
 
+1. Khu vực đề xuất mở rộng phải đáp ứng các điều kiện quy định tại khoản 2 Điều 5 trong trường hợp mở rộng khu công nghệ cao quy định tại Điều 31 Luật Công nghệ cao, khoản 3 Điều 5 Nghị định này trong trường hợp mở rộng đối với khu nông nghiệp ứng dụng công nghệ cao quy định tại Điều 32 Luật Công nghệ cao.
+
 ---
 
 
@@ -2829,6 +3340,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000002000000000000000000502572200040000600
 
 **ID:** C2B70522-E92F-4429-9C76-779ABF6F2425
+
+1. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 3 năm 2016.
 
 ---
 
@@ -2841,6 +3354,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** AC10F2D5-CEC9-4595-8B47-6005F2B93176
 
+1. Ban Quản lý tổ chức thực hiện quy hoạch chung xây dựng và lập quy hoạch phân khu xây dựng các khu chức năng thuộc Khu Công nghệ cao. Quy hoạch chi tiết xây dựng Khu Công nghệ cao được lập theo từng dự án đầu tư cụ thể.
+
 ---
 
 
@@ -2851,6 +3366,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003550256810066000060
 
 **ID:** D01ED5C3-3A8E-49B8-B496-BB92B516EAE8
+
+1. Bộ Nông nghiệp và Phát triển nông thôn chịu trách nhiệm hướng dẫn, đôn đốc, kiểm tra, tổng hợp, báo cáo Thủ tướng Chính phủ việc thực hiện Quyết định này.
 
 ---
 
@@ -2863,6 +3380,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 67147C49-E190-4CC0-9865-1271B0D35B65
 
+1.  Thông tư này có hiệu lực sau 45 ngày kể từ ngày ký ban hành.
+
 ---
 
 
@@ -2873,6 +3392,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000100000700000000000000000
 
 **ID:** 036D4230-8D38-4937-8C87-69EC2E9D8E44
+
+1. Mở rộng hợp tác quốc tế trong nghiên cứu, ứng dụng và phát triển công nghệ cao, đặc biệt là với quốc gia, vùng lãnh thổ, tổ chức, cá nhân nước ngoài, tập đoàn kinh tế đa quốc gia, tập đoàn kinh tế nước ngoài có trình độ khoa học và công nghệ tiên tiến trên nguyên tắc phù hợp với pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 ---
 
@@ -2885,6 +3406,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7FF5D7C1-8B3C-4D7B-9E1D-B916E3FA2339
 
+1. Nguồn kinh phí thẩm định hồ sơ và kiểm tra được lấy từ nguồn kinh phí sự nghiệp khoa học và công nghệ do Bộ Khoa học và Công nghệ cấp hằng năm cho Văn phòng Đăng ký hoạt động khoa học và công nghệ.
+
 ---
 
 
@@ -2895,6 +3418,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000020000100000000000000000000502374900550000700
 
 **ID:** 31CE1F8C-23E9-4683-8D73-CE00C371F7EA
+
+1. Giấy chứng nhận doanh nghiệp công nghệ cao có hiệu lực 5 năm (năm năm) kể từ ngày cấp.
 
 ---
 
@@ -2907,6 +3432,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 22453BC4-5EEB-4474-82F9-9730EB7BF400
 
+1. Giấy chứng nhận là căn cứ để được ưu đãi quy định tại Khoản 1 Điều 17 Luật Công nghệ cao và các ưu đãi, hỗ trợ khác theo quy định của pháp luật.
+
 ---
 
 
@@ -2917,6 +3444,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000190000000000000000000502380300690000700
 
 **ID:** D5818E52-4793-4FE5-9DAD-6CE0C4991772
+
+Theo dõi, kiểm tra và quản lý hoạt động của các doanh nghiệp được cấp Giấy chứng nhận doanh nghiệp nông nghiệp ứng dụng công nghệ cao tại địa phương; kiến nghị Bộ Nông nghiệp và Phát triển nông thôn thu hồi Giấy chứng nhận khi doanh nghiệp vi phạm trên địa bàn địa phương.
 
 ---
 
@@ -2929,6 +3458,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 4E3AD1F6-01A8-449C-A6BF-1FA1BB51AA84
 
+1. Giấy chứng nhận bị thu hồi trong các trường hợp sau đây:
+
 ---
 
 
@@ -2939,6 +3470,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458102190000700
 
 **ID:** E0EE6287-B023-487A-BEA2-5500F012E902
+
+1.Đối với hoạt động nghiên cứu, làm chủ, phát triển và tạo ra công nghệ cao:
 
 ---
 
@@ -2951,6 +3484,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 2395D3F5-0543-4F57-80B2-C8AF98CA2BF5
 
+1. Văn phòng Chương trình quốc gia phát triển công nghệ cao (sau đây viết tắt là Văn phòng Chương trình) gửi tài liệu đến thành viên hội đồng tư vấn ít nhất 05 ngày làm việc trước phiên họp của hội đồng, đến chuyên gia tư vấn độc lập ít nhất 10 ngày làm việc trước thời điểm gửi báo cáo nghiên cứu của chuyên gia tư vấn độc lập. Tài liệu bao gồm:
+
 ---
 
 
@@ -2961,6 +3496,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450000700
 
 **ID:** FEE1AFFA-3FAE-4A3C-B152-A83576494954
+
+1. Theo tiến độ đề xuất đặt hàng, lãnh đạo Bộ Công Thương quyết định thành lập các hội đồng tư vấn xác định nhiệm vụ theo chuyên ngành khoa học và công nghệ phù hợp với đề xuất.
 
 ---
 
@@ -2973,6 +3510,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7291490C-0FE6-477B-A883-EF6E9FBE3A67
 
+Dự án sản xuất thử nghiệm phải đáp ứng tiêu chí sau:
+
 ---
 
 
@@ -2983,6 +3522,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100000700
 
 **ID:** C3B5F0F6-F8FE-4D94-A3DD-A23149D951EC
+
+1. Thành phần hồ sơ đề nghị thành lập, mở rộng khu công nghệ cao do Ủy ban nhân dân cấp tỉnh lập bao gồm:
 
 ---
 
@@ -2995,6 +3536,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 397D9573-0A30-46BD-B39D-FEA731E28E54
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
+
 ---
 
 
@@ -3005,6 +3548,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740000700
 
 **ID:** EF2E55A7-C81A-4CD3-B430-EE701211839B
+
+1. Ban Quản lý tổ chức thực hiện công tác quản lý, khai thác, duy tu, bảo dưỡng và vận hành toàn bộ hệ thống hạ tầng kỹ thuật của Khu Công nghệ cao, trừ các công trình quy định tại khoản 2 Điều 3 Nghị định này.
 
 ---
 
@@ -3017,6 +3562,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 324DC684-D1FB-4777-ACD7-5E1F7F042044
 
+1. Quyết định này có hiệu lực thi hành kể từ ngày 10 tháng 02 năm 2016.
+
 ---
 
 
@@ -3027,6 +3574,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003580240570050000070
 
 **ID:** 0E4F2A2D-67FA-46CC-82B5-B87BC55F6087
+
+1. Thông tư này này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký.
 
 ---
 
@@ -3039,6 +3588,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D9C399D1-1CEC-461A-A6B8-4D0A7E1C8926
 
+1. Lợi dụng hoạt động công nghệ cao gây phương hại đến lợi ích quốc gia, quốc phòng, an ninh, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
 ---
 
 
@@ -3049,6 +3600,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000002000010000000000000000000050237490055000020000802418000322500800
 
 **ID:** 19921FC3-7EED-452E-86C9-36478AA88295
+
+1. Mẫu đơn đề nghị cấp Giấy chứng nhận hoạt động ứng dụng công nghệ cao dành cho tổ chức, cá nhân (Biểu B1-TCHĐUD, CNHĐUD); đơn đề nghị cấp Giấy chứng nhận doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm công nghệ cao (Biểu B1-DNTLM), đơn đề nghị công nhận doanh nghiệp công nghệ cao (Biểu B1-DNCNC).
 
 ---
 
@@ -3061,6 +3614,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 2551AB5D-AC65-486A-92B8-49D8C46F72ED
 
+Chịu trách nhiệm hướng dẫn, đôn đốc, kiểm tra, thanh tra việc thực hiện Quyết định này; làm đầu mối giải quyết những vấn đề phát sinh trong quá trình thực hiện và trình Thủ tướng Chính phủ quyết định những vấn đề vượt quá thẩm quyền.
+
 ---
 
 
@@ -3071,6 +3626,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000170000000000000000000802420400330000800
 
 **ID:** 3F176DF8-4982-46A0-B4CE-6D1A6E47A158
+
+Chịu trách nhiệm tổ chức hướng dẫn, kiểm tra việc thực hiện Thông tư này; làm đầu mối giải quyết những vấn đề phát sinh trong quá trình thực hiện; trình Bộ trưởng Bộ Khoa học và Công nghệ quyết định những vấn đề vượt quá thẩm quyền và kiến nghị các cơ quan có thẩm quyền xử lý các hành vi vi phạm theo quy định của pháp luật.
 
 ---
 
@@ -3083,6 +3640,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 3210B18B-9823-40F3-9F8C-248A3C830F19
 
+Tổ chức, cá nhân vi phạm các quy định tại Quyết định này, tùy theo tính chất, mức độ vi phạm và hậu quả gây ra sẽ bị xử lý theo quy định của pháp luật.
+
 ---
 
 
@@ -3093,6 +3652,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000210000000000000000000802494300270000800
 
 **ID:** 04C7ECEC-654B-4C1D-A817-CC0FED40DFD8
+
+Giấy chứng nhận có giá trị 05 năm kể từ ngày cấp.
 
 ---
 
@@ -3105,6 +3666,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 1918D411-C03B-4B57-AB6B-30D77F62BF8C
 
+1.Chi cho hoạt động của Ban chỉđạo:
+
 ---
 
 
@@ -3115,6 +3678,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458900310000800
 
 **ID:** 8F4DA358-B17C-4708-A00B-63411865609D
+
+Trên cơ sở kết quả làm việc với nhóm chuyên gia, kết  luận phiên họp của hội đồng tư vấn, báo cáo nghiên cứu của chuyên gia tư vấn độc  lập, Ban chủ nhiệm tổng hợp danh mục dự án, trình Bộ trưởng Bộ Khoa học và Công  nghệ xem xét, phê duyệt danh mục dự án để đưa ra tuyển chọn hoặc giao trực tiếp  cho tổ chức, cá nhân, doanh nghiệp thực hiện.
 
 ---
 
@@ -3127,6 +3692,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** D8C9E89A-9630-4B68-B351-F4C3FA76CAFC
 
+1. Trong thời hạn 07 ngày làm việc kể từ khi có kết quả làm việc của hội đồng, Đơn vị quản lý nhiệm vụ của Chương trình rà soát trình tự, thủ tục làm việc của hội đồng, xem xét các ý kiến tư vấn của hội đồng đối với nhiệm vụ đặt hàng theo các yêu cầu tại Điều 4 Thông tư này. Trường hợp cần thiết, Đơn vị quản lý nhiệm vụ của Chương trình báo cáo lãnh đạo Bộ lấy ý kiến tư vấn bổ sung của một đến hai chuyên gia tư vấn độc lập hoặc thành lập hội đồng khác để xác định lại nhiệm vụ của Chương trình.
+
 ---
 
 
@@ -3137,6 +3704,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802860700250000800
 
 **ID:** DF9D9F20-C40D-4C7E-BBCB-0E3A813A8102
+
+1. Căn cứ mục tiêu, nhiệm vụ, giải pháp thực hiện Chương trình công nghệ cao và nguyên tắc, tiêu chí lựa chọn nhiệm vụ KH&CN quy định tại Điều 4, Điều 6 và Điều 7 của Thông tư này, các tổ chức, cá nhân đề xuất nhiệm vụ tham gia Chương trình thành phần thuộc Chương trình công nghệ cao gửi Phiếu đề xuất nhiệm vụ về Bộ chủ trì Chương trình thành phần theo quy định tại khoản 1 Điều 2 Thông tư này.
 
 ---
 
@@ -3149,6 +3718,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** E110C81C-7147-49FF-A253-1E5A630BF0C1
 
+1. Cơ quan chủ trì trình thành lập, mở rộng khu công nghệ cao:
+
 ---
 
 
@@ -3159,6 +3730,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000055000003000000000000000000402622400740000800
 
 **ID:** C97137A2-EE74-455B-B7F2-E33DE7BCDC88
+
+1. Ủy ban nhân dân thành phố Hà Nội ban hành chi tiết bảng giá đối với các loại đất trong Khu Công nghệ cao căn cứ quy hoạch của Khu Công nghệ cao được duyệt và các điều kiện cụ thể về hạ tầng kỹ thuật.
 
 ---
 
@@ -3171,6 +3744,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 58968419-2274-4A38-A5E1-D1507C42928F
 
+Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo. Các quy định khác trái với quy định tại Quyết định này đều bãi bỏ.
+
 ---
 
 
@@ -3181,6 +3756,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000200000900000000000000000
 
 **ID:** 2EBFB577-E96A-4951-996A-952391E8F5A7
+
+1. Nhà nước khuyến khích hoạt động ứng dụng công nghệ cao phù hợp với chính sách của Nhà nước quy định tại Luật này và quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -3193,6 +3770,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 742CB1A8-EB48-4EB6-8364-E3CFC11FBD8F
 
+Tổ chức, cá nhân vi phạm các quy định tại Quyết định này, tùy theo tính chất, mức độ vi phạm, hậu quả gây ra sẽ bị xử lý theo quy định của pháp luật.
+
 ---
 
 
@@ -3203,6 +3782,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000170000000000000000000802420400330000900
 
 **ID:** 0DB4B13C-943B-4090-BDDC-B24CDCC5DFA7
+
+Tổ chức, cá nhân vi phạm các quy định tại Thông tư này, tùy theo tính chất, mức độ vi phạm, hậu quả gây ra sẽ bị xử lý theo quy định của pháp luật.
 
 ---
 
@@ -3215,6 +3796,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** B4DEE7AC-2602-4B8B-9B2F-C9F6E193EED6
 
+1. Tổ chức, cá nhân được cấp Giấy chứng nhận theo định kỳ 12 tháng kể từ ngày được cấp Giấy chứng nhận có trách nhiệm gửi báo cáo kết quả hoạt động về Văn phòng Chứng nhận.
+
 ---
 
 
@@ -3225,6 +3808,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802458102190000900
 
 **ID:** 3B85ECEF-FBFF-458E-87C3-035D058C1DC8
+
+1.Mức chi thù lao trách nhiệm của thành viên Ban chỉđạo:
 
 ---
 
@@ -3237,6 +3822,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 8F1FD80F-3CA9-40DD-B8FA-CB5BD69B3641
 
+1. Tuyển chọn là việc lựa chọn tổ chức, cá nhân,  doanh nghiệp có năng lực và kinh nghiệm để thực hiện dự án theo đặt hàng của Nhà  nước thông qua việc xem xét, đánh giá các hồ sơ đăng ký tham gia tuyển chọn.  Tuyển chọn được áp dụng đối với dự án có nhiều tổ chức, cá nhân, doanh nghiệp có  khả năng tham gia thực hiện nhằm đạt được hiệu quả cao nhất.
+
 ---
 
 
@@ -3247,6 +3834,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000030000230000000000000000000802566600450000900
 
 **ID:** 7CCFE42E-42F5-451B-8ECA-A56D1761558B
+
+Hình thức giao trực tiếp tổ chức thực hiện nhiệm vụ của Chương trình được áp dụng trong các trường hợp sau:
 
 ---
 
@@ -3259,6 +3848,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 237F71AF-EB54-4E69-A514-2B7313170FDC
 
+1. Thủ tục xác định nhiệm vụ KH&CN thuộc Chương trình công nghệ cao được thực hiện theo quy định sau:
+
 ---
 
 
@@ -3269,6 +3860,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 190030000000000050000310000000000000000000402864100100000900
 
 **ID:** 8AC01948-061F-4B51-966B-E32F050F97AB
+
+1. Hồ sơ do cơ quan chủ trì trình thành lập, mở rộng khu công nghệ cao quy định tại khoản 1 Điều 8 Nghị định này trình Thủ tướng Chính phủ xem xét, quyết định thành lập, mở rộng khu công nghệ cao, bao gồm:
 
 ---
 
@@ -3281,6 +3874,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 4364BD16-7892-4408-9655-6FC57C8AF238
 
+1. Nhà đầu tư được Ban Quản lý cho thuê đất để thực hiện dự án tại Khu Công nghệ cao phải ký quỹ bảo đảm thực hiện dự án theo quy định của pháp luật về đất đai và đầu tư.
+
 ---
 
 
@@ -3291,6 +3886,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 1900300000000000600003550238030069000090
 
 **ID:** C017E994-1625-4645-926B-E8CDC27D1C60
+
+1. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 12 năm 2010.
 
 ---
 
@@ -3303,6 +3900,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 30246D93-E592-4452-8CFE-A4CE0C80A087
 
+1. Tổ chức, cá nhân được cấp Giấy chứng nhận theo định kỳ 12 tháng kể từ ngày được cấp Giấy chứng nhận có trách nhiệm gửi báo cáo kết quả hoạt động về Văn phòng Đăng ký hoạt động khoa học và công nghệ.
+
 ---
 
 
@@ -3313,6 +3912,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000001000
 
 **ID:** A2F1F0E7-1FAA-4383-B76C-ECCB25F809B0
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3325,6 +3926,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 00A83F87-B8CF-4EFA-BF03-04D70F7BCC87
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3335,6 +3938,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000003000
 
 **ID:** AAB00CCB-75B9-4B5B-8CCD-D030CA099FF6
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3347,6 +3952,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 34DF289D-6673-4CFD-8506-8FD384431D7D
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3357,6 +3964,8 @@ parent: khoa-hoc-cong-nghe
 **Mã phân cấp:** 19003000000000005000
 
 **ID:** 5E58DBA0-19E5-4D04-A94F-D5180213DAD9
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -3369,6 +3978,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** EAC2BA26-C329-4E25-B7B1-F237448FDFCB
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3380,6 +3991,8 @@ parent: khoa-hoc-cong-nghe
 
 **ID:** 7CA0E9CE-9FFA-4624-A9B7-37924A45F144
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -3390,6 +4003,7 @@ parent: khoa-hoc-cong-nghe
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 306
+- **Điều khoản có nội dung:** 296 (96.7%)
 - **ID đề mục:** 527141b6-8429-4502-868e-f34c7b180e0c
 
 ## 🔍 Tìm kiếm

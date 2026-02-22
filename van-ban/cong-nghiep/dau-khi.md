@@ -12,6 +12,7 @@ parent: cong-nghiep
 **Đề mục:** Dầu khí  
 **Chủ đề:** [Công nghiệp](/van-ban/cong-nghiep/)  
 **Số điều khoản:** 436  
+**Điều khoản có nội dung:** 425/436 (97.5%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: cong-nghiep
 
 **ID:** A0575145-38A0-4A26-AE78-2EDAEEE4580F
 
+Luật này quy định về điều tra cơ bản về dầu khí và hoạt động dầu khí trong phạm vi đất liền, hải đảo và vùng biển của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000240205810003000010
 
 **ID:** 310B476D-E198-4360-B1C8-8AFAF4AE2C96
+
+Nghị định này quy định biện pháp và trách nhiệm của các cơ quan, tổ chức, cá nhân trong việc bảo vệ an ninh, an toàn dầu khí.
 
 ---
 
@@ -47,6 +52,8 @@ parent: cong-nghiep
 
 **ID:** 3EE07F2A-8B60-487D-BE45-DDCD44F71563
 
+Nghị định này quy định thu phụ thu đối với phần dầu lãi được chia của nhà thầu dầu khí (sau đây gọi chung là nhà thầu) khi giá dầu thô biến động tăng.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000240239030013000010
 
 **ID:** 3D476387-517A-4C62-9863-62048B32DAF7
+
+1. Nghị định này quy định về an toàn các công trình dầu khí trên đất liền (sau đây gọi là các công trình dầu khí) kể cả các đảo, phạm vi cảng biển, sông, ngòi nhưng không bao gồm các công trình dầu khí ngoài khơi để đảm bảo an toàn cho con người, xã hội, môi trường và tài sản.
 
 ---
 
@@ -69,6 +78,8 @@ parent: cong-nghiep
 
 **ID:** CBA6EE20-4010-4372-9C58-0BFCC8932DEC
 
+1. Nghị định này quy định chi tiết một số điều của Luật Dầu khí về điều tra cơ bản về dầu khí; danh mục lô dầu khí; lựa chọn nhà thầu ký kết hợp đồng dầu khí; hợp đồng dầu khí; an toàn trong hoạt động dầu khí; hồ sơ, trình tự, thủ tục triển khai hoạt động dầu khí, dự án dầu khí; ưu đãi trong hoạt động dầu khí; khai thác tận thu mỏ, cụm mỏ, lô dầu khí; quyết toán chi phí hoạt động dầu khí, trong phạm vi đất liền, hải đảo và vùng biển của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000250253420004000010
 
 **ID:** B22EF1E6-6878-4169-B71E-0BF7411352FA
+
+1. Quyết định này quy định về quản lý an toàn trong hoạt động dầu khí, bao gồm: Tìm kiếm, thăm dò, phát triển mỏ, khai thác dầu khí, thu dọn mỏ, tàng trữ, vận chuyển dầu khí, lọc dầu, hóa dầu, chế biến dầu khí kể cả các dịch vụ kỹ thuật phục vụ trực tiếp cho các hoạt động này được tiến hành trên đất liền, vùng biển thuộc chủ quyền nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -91,6 +104,8 @@ parent: cong-nghiep
 
 **ID:** EF9BD91A-DFE7-4917-A5BE-897D75DA9A0C
 
+Quyết định này quy định việc thu dọn các công trình, thiết bị và phương tiện phục vụ hoạt động dầu khí (sau đây gọi là công trình dầu khí) của tổ chức, cá nhân tiến hành hoạt động dầu khí tại Việt Nam (sau đây gọi là tổ chức, cá nhân).
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000280235390022000010
 
 **ID:** 8609E8A0-A83B-4CD9-8C63-732B113E028E
+
+1. Thông tư này hướng dẫn thu phụ thu đối với phần dầu lãi được chia của nhà thầu dầu khí khi giá dầu thô biến động tăng.
 
 ---
 
@@ -113,6 +130,8 @@ parent: cong-nghiep
 
 **ID:** 7A070DBC-D8F5-46C6-8217-209D9DE65A92
 
+Thông tư này hướng dẫn các loại thuế áp dụng đối với hoạt động tìm kiếm thăm dò, phát triển mỏ và khai thác dầu khí của Liên doanh Việt-Nga “Vietsovpetro” từ lô 09-1 theo quy định tại Hiệp định 2010 và Nghị định thư 2013 gồm:
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000280257440036550010
 
 **ID:** 31C66FBD-5E94-46EC-9B84-360B2720FEDE
+
+1. Thông tư này hướng dẫn các quy định về thuế đối với: các tổ chức, cá nhân (sau đây gọi là nhà thầu) tiến hành hoạt động tìm kiếm thăm dò, khai thác dầu thô, condensate (sau đây gọi chung là dầu thô) và khí thiên nhiên, khí đồng hành, khí than (sau đây gọi chung là khí thiên nhiên) tại Việt Nam theo quy định của Luật Dầu khí; và các bên có quan hệ liên kết với nhà thầu tham gia trong hợp đồng dầu khí.
 
 ---
 
@@ -135,6 +156,8 @@ parent: cong-nghiep
 
 **ID:** 1DC1B45F-C0C1-4CCD-BD33-BD7CBD80B184
 
+Thông tư này quy định về xây dựng và nội dung các tài liệu quản lý an toàn trong hoạt động dầu khí.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000280273470017000010
 
 **ID:** 1D133A52-FF02-4170-816E-0427327C7739
+
+Thông tư này quy định việc tiến hành các hoạt động bảo quản và hủy bỏ giếng khoan dầu khí với mục đích bảo vệ tài nguyên, môi trường và cấu trúc tự nhiên của lòng đất, ngăn ngừa các hành vi dẫn đến việc tạo thành những vật cản hay những xáo trộn về trạng thái của môi trường biển cũng như trên đất liền.
 
 ---
 
@@ -157,6 +182,8 @@ parent: cong-nghiep
 
 **ID:** 9D25C8B6-EC14-42D0-8297-6E1D53F14BA8
 
+Thông tư này quy định việc phân cấp và lập báo cáo tài nguyên, trữ lượng dầu khí.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000502384500840000100
 
 **ID:** 40756631-832F-4C18-95A6-F444714BA4CF
+
+Ban hành kèm theo Quyết định này Quy chế khai thác dầu khí.
 
 ---
 
@@ -179,6 +208,8 @@ parent: cong-nghiep
 
 **ID:** FF847B3C-D001-4CEE-B195-6E4002A935CB
 
+Ban hành kèm theo Quyết định này Quy chế Bảo vệ môi trường trong việc tìm kiếm, thăm dò, phát triển mỏ, khai thác, tàng trữ, vận chuyển, chế biến dầu khí và các dịch vụ liên quan.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802458900500000100
 
 **ID:** 4822C439-2F4C-4631-9D50-FC15662402FC
+
+Ban hành kèm theo Thông tư này “Quy chuẩn kỹ thuật quốc gia về mức rủi ro chấp nhận được trong đánh giá định lượng rủi ro cho các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện”.
 
 ---
 
@@ -201,6 +234,8 @@ parent: cong-nghiep
 
 **ID:** 4824EA56-91E9-4C8C-9CE9-D6830CCB3C19
 
+Ban hành kèm theo Quyết định này Quy chế bảo đảm an toàn hệ thống đường ống vận chuyển khí trên đất liền.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030001000
 
 **ID:** 0A5B633C-6071-4675-A08A-E4E29AAFBE0F
+
+1. Người nước ngoài, người Việt Nam định cư ở nước ngoài làm việc cho các nhà thầu nước ngoài, doanh nghiệp dầu khí có vốn đầu tư nước ngoài tại Việt Nam phải tuân thủ pháp luật Việt Nam và các Điều ước quốc tế mà Việt Nam ký kết hoặc tham gia.
 
 ---
 
@@ -223,6 +260,8 @@ parent: cong-nghiep
 
 **ID:** 76A90BFA-A6C6-429D-8A4D-7D3145232356
 
+1. Khoảng cách nhỏ nhất giữa hai đường ống là khoảng cách trên hình chiếu bằng giữa hai mép ống gần nhất gồm:
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400001000
 
 **ID:** 3065ECA6-B491-4C2A-84EA-60C203CF359E
+
+Nội dung quản lý nhà thầu bảo đảm kiểm soát được về công tác an toàn, sức khoẻ, môi trường:
 
 ---
 
@@ -245,6 +286,8 @@ parent: cong-nghiep
 
 **ID:** E724CE6B-1658-47C7-B85F-08B617F8FE9D
 
+Tổ chức, cá nhân có trách nhiệm:
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000200001000000000000000000
 
 **ID:** 36D40016-1F11-4F0E-87B1-3C3F9EA726EC
+
+1. Căn cứ chiến lược, quy hoạch về năng lượng, tài nguyên khoáng sản và đề xuất của các tổ chức đáp ứng điều kiện quy định tại Điều 12 của Luật này, Bộ Công Thương chủ trì, phối hợp với Bộ Tài nguyên và Môi trường và các Bộ, cơ quan có liên quan xây dựng danh mục đề án điều tra cơ bản về dầu khí bảo đảm tính tổng thể, đồng bộ trình Thủ tướng Chính phủ phê duyệt. Trong danh mục đề án điều tra cơ bản về dầu khí có các nội dung về tổ chức chủ trì thực hiện, nguồn kinh phí và dự toán kinh phí thực hiện, thời gian thực hiện, hình thức tổ chức thực hiện điều tra cơ bản về dầu khí.
 
 ---
 
@@ -267,6 +312,8 @@ parent: cong-nghiep
 
 **ID:** BBC2D019-83A0-44E1-8353-8852A7DCD68C
 
+1. Thời hạn lưu giữ, bảo quản mẫu vật, tài liệu, thông tin dữ liệu được xác lập đối với từng loại theo quy định hiện hành: lưu giữ, bảo quản vĩnh viễn hoặc lưu giữ, bảo quản có thời hạn. Cơ quan lưu giữ, bảo quản có trách nhiệm thống kê các loại mẫu vật, tài liệu, thông tin, dữ liệu hết giá trị sử dụng trình cơ quan có thẩm quyền phê duyệt để hủy bỏ nhằm tối ưu chi phí quản lý.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000045000000000000000000040284260045000470000802741000240001000
 
 **ID:** B0F6C68B-0341-4265-BF09-86BD2C8F59AB
+
+1. Người điều hành phải trình Báo cáo đầy đủ và Báo cáo tóm tắt.
 
 ---
 
@@ -289,6 +338,8 @@ parent: cong-nghiep
 
 **ID:** FD245989-3593-4DDD-A281-47B9D3C0C90A
 
+1. Thu dọn khối thượng tầng và thiết bị đi kèm
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001000
 
 **ID:** 09A28CE4-DEEC-42C9-873A-809CAD0B6469
+
+Người điều hành phải đảm bảo rằng khi có một phần hay toàn bộ giếng cần được bảo quản thuộc loại 1 và 2 thì giếng phải luôn được đổ đầy dung dịch có tỷ trọng đủ đảm bảo khống chế được áp suất vỉa tồn tại trong giếng khoan trước khi tiến hành các thao tác bảo quản giếng. Dung dịch bảo quản phải được xử lý chống ăn mòn thiết bị.
 
 ---
 
@@ -311,6 +364,8 @@ parent: cong-nghiep
 
 **ID:** D508C900-3177-43DC-B67A-0DBED599891D
 
+Toàn bộ sản lượng dầu thô, condensate và khí thiên nhiên của VIETSOVPETRO, kể cả phần dầu thô, condensate, khí lãi của các phía tham gia, sau khi trừ đi sản lượng dầu thô, condensate và khí thiên nhiên nộp thuế tài nguyên, khi xuất khẩu thuộc diện chịu thuế xuất khẩu.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365501000
 
 **ID:** 815F03DB-1F9B-4E19-AABF-8AA812231FA9
+
+1. Thuế tài nguyên được nộp: toàn bộ bằng dầu thô, khí thiên nhiên; hoặc toàn bộ bằng tiền; hoặc một phần bằng tiền và một phần bằng dầu thô, khí thiên nhiên.
 
 ---
 
@@ -333,6 +390,8 @@ parent: cong-nghiep
 
 **ID:** 64FBBE6F-7DAB-42CE-9D43-4ABEC26AD5A0
 
+Các thông tin thuộc phạm vi bí mật Nhà nước trong ngành dầu khí được chuyển đi bằng các phương tiện liên lạc vô tuyến, hữu tuyến hoặc bằng các phương tiện kỹ thuật khác đều phải được mã hoá theo quy định của Nhà nước về công tác cơ yếu.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001100
 
 **ID:** 2F0312A5-4DC9-468E-9B8E-5219C7041DE0
+
+Tổ chức, cá nhân xác định khoảng cách an toàn của đường ống vận chuyển khí đi qua các đối tượng được bảo vệ theo quy định tại Phụ lục số II ban hành kèm theo Nghị định này.
 
 ---
 
@@ -355,6 +416,8 @@ parent: cong-nghiep
 
 **ID:** ADB5B2F7-B017-4FBC-BB7C-B0F1E6C166C4
 
+1. Mục đích của báo cáo để đánh giá và định lượng các rủi ro trong hoạt động của tổ chức, cá nhân nhằm kiểm soát hiệu quả và đề xuất biện pháp giảm thiểu các rủi ro trong suốt quá trình hoạt động từ khâu thiết kế đến xây dựng, chạy thử, vận hành và hủy bỏ công trình.
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001100
 
 **ID:** 84696DFD-72A3-4B5D-B7D1-0A132DE6E06E
+
+Tổ chức, cá nhân có trách nhiệm:
 
 ---
 
@@ -377,6 +442,8 @@ parent: cong-nghiep
 
 **ID:** C659A37A-C6EB-4483-B329-520AFF865FC9
 
+1. Nghiên cứu, khảo sát địa chất, địa vật lý, điều tra về thành tạo địa chất và thành phần vật chất, khoan thông số để thu thập số liệu và lấy mẫu, lập báo cáo, xây dựng bản đồ địa chất, địa vật lý khu vực và các bản đồ chuyên đề phục vụ hoạt động tìm kiếm thăm dò dầu khí, kết hợp nghiên cứu tai biến địa chất, địa chất môi trường và khoáng sản khác, lập các bản đồ chuyên đề liên quan.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000020000140000000000000000000402842600450001100
 
 **ID:** C3829739-3172-431B-9628-F4C12C0091C7
+
+1. Các tổ chức, cá nhân được tiếp cận, tham khảo, khai thác và sử dụng mẫu vật, tài liệu, thông tin, dữ liệu, báo cáo kết quả điều tra cơ bản về dầu khí dưới hình thức dịch vụ công với mức phí khai thác và sử dụng tài liệu dầu khí theo quy định của pháp luật về phí và lệ phí, trừ quy định tại khoản 2 Điều này.
 
 ---
 
@@ -399,6 +468,8 @@ parent: cong-nghiep
 
 **ID:** 264F5519-FE16-46DC-8B56-4BF869FECBD3
 
+Thủ tục trình, thẩm định và phê duyệt Báo cáo tuân thủ theo quy định tại Điều 64 Nghị định số 95/2015/NĐ-CP ngày 16 tháng 10 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Dầu khí.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490001100
 
 **ID:** 96C19697-E1E2-4886-B22F-4493802CFAE1
+
+1. Tổ chức, cá nhân phải tiến hành làm sạch dầu, hóa chất trong các phương tiện nổi, các kết cấu và thiết bị kết nối đi kèm (ống mềm, ống dẫn,…) trước khi thu dọn.
 
 ---
 
@@ -421,6 +494,8 @@ parent: cong-nghiep
 
 **ID:** 539D13EA-C64C-43DB-9685-34BE14B00EE3
 
+1. Các giếng có đầu giếng ngầm dưới biển, hệ thống cáp định hướng phải được cắt và thu hồi trước khi dời giàn khoan ra khỏi vị trí.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802527801765501100
 
 **ID:** 16AD4E77-F12D-47C4-A9C8-BCED99D714FE
+
+1. Đối với dầu thô, condensate :
 
 ---
 
@@ -443,6 +520,8 @@ parent: cong-nghiep
 
 **ID:** 3169A51C-6F45-4F81-8E52-44BDF6B1EDE4
 
+1. Đối với khai thác dầu thô:
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030001200
 
 **ID:** 1E7142D0-D22F-4036-AD9B-6FE7787161DB
+
+Tổ chức, cá nhân tiến hành hoạt động dầu khí tại Việt Nam khi sử dụng hệ thống mạng thông tin máy tính kết nối với mạng Internet phục vụ hoạt động dầu khí, có trách nhiệm:
 
 ---
 
@@ -465,6 +546,8 @@ parent: cong-nghiep
 
 **ID:** 49ADF179-6B4F-48AD-ACD3-32FD063330C4
 
+1. Căn cứ quy định tại Điều 7 Luật Dầu khí, Tập đoàn Dầu khí Việt Nam xây dựng danh mục các lô dầu khí mới hoặc danh mục điều chỉnh các lô dầu khí, trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001200
 
 **ID:** 33364BD3-41D4-4C4E-BE6D-BA3EE1CDB39E
+
+Đối với đường ống trong hành lang lưới điện, tổ chức, cá nhân thực hiện theo quy định của pháp luật về điện lực để bảo đảm an toàn đường ống.
 
 ---
 
@@ -487,6 +572,8 @@ parent: cong-nghiep
 
 **ID:** 0FE74A4E-63E4-4561-A538-8AE20B7B4225
 
+1. Mức rủi ro được chấp nhận xác định trước khi tiến hành phân tích rủi ro, là cơ sở cho quá trình đánh giá và giảm thiểu rủi ro.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001200
 
 **ID:** FF05C4B3-D4CE-4A3E-97B8-6167EABF24BB
+
+Tổ chức, cá nhân phải bảo đảm:
 
 ---
 
@@ -509,6 +598,8 @@ parent: cong-nghiep
 
 **ID:** 12113597-8DE1-4ED7-89A5-A02A5BBC66EE
 
+1. Tổ chức chủ trì thực hiện điều tra cơ bản về dầu khí phải có đủ năng lực tài chính, kỹ thuật và kinh nghiệm trong điều tra cơ bản về dầu khí theo quy định của Chính phủ.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000045000000000000000000040284260045000470000802741000240001200
 
 **ID:** 3633C6EE-267B-4C2C-8B4F-362C6265F0F4
+
+1. Đối với Báo cáo của các mỏ đã được Thủ tướng Chính phủ phê duyệt, Tập đoàn Dầu khí Việt Nam có trách nhiệm theo dõi, tổng hợp tài nguyên, trữ lượng dầu khí và cập nhật đăng ký hàng năm.
 
 ---
 
@@ -531,6 +624,8 @@ parent: cong-nghiep
 
 **ID:** 5D315CB8-7B4A-43FE-B635-B28326214028
 
+1. Tổ chức, cá nhân phải tiến hành thu dọn toàn bộ đường ống nổi, đoạn ống treo. Việc thu dọn đường ống nổi, đoạn ống treo chỉ được tiến hành khi tổ chức, cá nhân đã làm sạch dầu, khí và các hoá chất trong đường ống đó.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001200
 
 **ID:** 4B36D57A-171C-4D1E-AA90-1B0318F8517C
+
+1. Các giếng khai thác bảo quản trên giàn cố định phải được lắp cây thông trên miệng giếng. Tất cả các tay van trừ van kiểm tra phải được tháo rời. Các đường ống nhánh, các áp kế giảm áp kiểm tra phải được tháo bỏ và phải có các bích mù, nút bịt lắp vào các đầu ống, chân áp kế. Trên miệng giếng phải gắn một biển hiệu kích thước 0,4 m x 0,2 m, ghi tên mỏ, giếng, tên Người điều hành có trách nhiệm bảo quản, thời gian bắt đầu bảo quản, lý do bảo quản và thời hạn bảo quản.
 
 ---
 
@@ -553,6 +650,8 @@ parent: cong-nghiep
 
 **ID:** 7A336BBC-CD12-481D-8E38-D000F15D3120
 
+Toàn bộ sản lượng dầu thô, condensate, khí thiên nhiên của VIETSOVPETRO, kể cả phần dầu thô, condensate, khí lãi của các phía tham gia, sau khi trừ đi sản lượng dầu thô, condensate, khí thiên nhiên nộp thuế tài nguyên, khi tiêu thụ tại thị trường Việt Nam thuộc diện chịu thuế đặc biệt.
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030001300
 
 **ID:** 864079F4-4AFE-406A-9F63-FE0D285065AF
+
+Tổ chức, cá nhân tiến hành hoạt động dầu khí tại Việt Nam có nghĩa vụ bảo đảm an toàn cho các hoạt động dầu khí, các công trình, phương tiện, thiết bị dầu khí theo quy định của Nghị định này, tuân thủ Quy chế quản lý an toàn trong các hoạt động dầu khí và các quy định có liên quan của pháp luật Việt Nam để bảo vệ an toàn tính mạng, sức khoẻ con người, bảo vệ tài sản và môi trường.
 
 ---
 
@@ -575,6 +676,8 @@ parent: cong-nghiep
 
 **ID:** D133786B-D445-4169-B531-516849784032
 
+Tổ chức, cá nhân xác định khoảng cách an toàn theo hình chiếu đứng từ đỉnh ống tới các công trình khác đối với đường ống được thi công bằng phương pháp khoan xiên được quy định tại Phụ lục II ban hành kèm theo Nghị định này.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400001300
 
 **ID:** 3759ADF6-C2FF-4D0D-8D01-84DA8A540663
+
+1. Đánh giá rủi ro định tính
 
 ---
 
@@ -597,6 +702,8 @@ parent: cong-nghiep
 
 **ID:** 961468D2-78BA-4585-8CB1-8C23974FB827
 
+1. Công trình dầu khí phải được thiết kế, chế tạo, xây dựng theo Tiêu chuẩn Quốc gia, Quy chuẩn Kỹ thuật Quốc gia và các Điều ước Quốc tế mà Việt Nam là thành viên; trường hợp chưa có quy chuẩn, tiêu chuẩn kỹ thuật Việt Nam, tổ chức, cá nhân tiến hành hoạt động dầu khí được áp dụng thông lệ công nghiệp dầu khí quốc tế được chấp nhận chung, bảo đảm các yêu cầu sau:
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000200001300000000000000000
 
 **ID:** C18380E2-2A92-4469-AC6E-AD3ED2932916
+
+1. Tổ chức thực hiện điều tra cơ bản về dầu khí có các nghĩa vụ sau đây:
 
 ---
 
@@ -619,6 +728,8 @@ parent: cong-nghiep
 
 **ID:** BB31B127-B326-4CF6-9970-1ECBB12B98A3
 
+1. Căn cứ quy định tại điểm a khoản 1 Điều 24 Luật Dầu khí, Tập đoàn Dầu khí Việt Nam lập kế hoạch lựa chọn nhà thầu để ký hợp đồng dầu khí, trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490001300
 
 **ID:** 1CD9A533-0C49-4AE4-ADD8-5D183B92F884
+
+Trường hợp hủy bỏ giếng khoan dầu khí hoặc bảo quản giếng khoan dầu khí khi hết thời hạn hoạt động nhưng chưa thể thu dọn, việc bảo quản hoặc hủy bỏ giếng khoan dầu khí phải tuân theo quy định pháp luật hiện hành.
 
 ---
 
@@ -641,6 +754,8 @@ parent: cong-nghiep
 
 **ID:** 27901767-A23C-4DC8-BC61-89C069F6AE14
 
+1. Người điều hành có trách nhiệm kiểm tra các giếng đang được bảo quản bằng phương pháp, thiết bị phù hợp theo thông lệ công nghiệp dầu khí quốc tế nhằm phát hiện những bất thường tại khu vực giếng. Trường hợp phát hiện bất thường tại khu vực giếng, Người điều hành phải tiến hành xử lý để đảm bảo an toàn.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802527801765501300
 
 **ID:** A3C14F92-08ED-4F8D-90A3-D8E425E7DE86
+
+1. Đối với dầu thô, condensate:
 
 ---
 
@@ -663,6 +780,8 @@ parent: cong-nghiep
 
 **ID:** 96990F87-A988-4193-8900-72866AA7F3E1
 
+1. Xác định số thuế xuất khẩu tạm tính:
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880274100024000130
 
 **ID:** 868A5499-A04B-4858-B128-5C1DD24F0BB6
+
+Trong quá trình thực hiện các hoạt động dầu khí nếu việc áp dụng phân cấp và lập Báo cáo có sự khác biệt so với quy định tại Thông tư này thì Người điều hành có trách nhiệm cung cấp các căn cứ, hồ sơ tài liệu để Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương và Hội đồng thẩm định xem xét, quyết định theo thẩm quyền.
 
 ---
 
@@ -685,6 +806,8 @@ parent: cong-nghiep
 
 **ID:** 48C31633-6BD8-488F-878F-69C2C4961F6E
 
+Tổ chức, cá nhân tiến hành hoạt động dầu khí tại Việt Nam có trách nhiệm:
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001400
 
 **ID:** 9AAB94A5-7356-4EC6-90E8-3F0B3419FA9E
+
+1. Tổ chức, cá nhân xác định khoảng cách an toàn đối với nhà máy chế biến, kho tồn chứa dưới áp suất chứa khí, các sản phẩm khí, trạm phân phối khí, trạm van, trạm phóng, nhận thoi, cảng xuất nhập dầu khí và các sản phẩm dầu khí theo quy định tại Phụ lục II ban hành kèm theo Nghị định này.
 
 ---
 
@@ -707,6 +832,8 @@ parent: cong-nghiep
 
 **ID:** 4295CF78-5CD7-470B-8E88-98785D138F87
 
+1. Nhận diện các mối nguy là xác định các mối nguy hiểm tiềm ẩn có thể xảy ra khi hoạt động dầu khí, gây nguy hại cho con người, tài sản, môi trường.
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001400
 
 **ID:** E136CF9E-61AE-4F35-A5EE-0F942C10B960
+
+1. Công trình dầu khí phải bảo đảm khoảng cách an toàn đối với các công trình khác, kể cả đèn biển, tín hiệu hàng hải, đường cáp điện cao thế, đường cáp trục thông tin và hệ thống đường ống theo quy định.
 
 ---
 
@@ -729,6 +858,8 @@ parent: cong-nghiep
 
 **ID:** 2C85F70A-D704-4C7A-8AE0-789FCC1C734A
 
+1. Cơ quan, doanh nghiệp nhà nước chủ trì thực hiện điều tra cơ bản về dầu khí quản lý mẫu vật, tài liệu, thông tin, dữ liệu và kết quả điều tra cơ bản về dầu khí do mình thực hiện; tổ chức khác chủ trì thực hiện điều tra cơ bản về dầu khí nộp mẫu vật, tài liệu, thông tin, dữ liệu và kết quả điều tra cơ bản về dầu khí đã được phê duyệt về Tập đoàn Dầu khí Việt Nam để quản lý.
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000030000240000000000000000000402842600450001400
 
 **ID:** 7E6A8650-24D9-4768-B337-3F8F9E825BA2
+
+1. Thông báo mời thầu được đăng liên tục trong 05 ngày liên tiếp trên 05 báo phát hành hằng ngày và được đăng tải trên 05 trang mạng thông tin có uy tín, trong đó phải có ít nhất 01 báo phát hành bằng tiếng Anh đăng tải trên mạng thông tin trong nước hoặc nước ngoài bằng tiếng Việt và tiếng Anh. Thông báo mời thầu cũng có thể được gửi trực tiếp cho các tổ chức, cá nhân quan tâm đến các lô dầu khí trong danh sách mời thầu hoặc trên các trang mạng chuyên cung cấp thông tin về các sự kiện dầu khí trên thế giới.
 
 ---
 
@@ -751,6 +884,8 @@ parent: cong-nghiep
 
 **ID:** C790D67E-29A2-47B2-B669-4273FA66E160
 
+Việc thu dọn công trình dầu khí trên đất liền được thực hiện theo quy định tại Điều 10, Điều 12 và Điều 13 của Quyết định này và phải đảm bảo an toàn cho con người, môi trường theo quy định của pháp luật.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001400
 
 **ID:** 2BF717AD-03D9-4C84-AACF-700497ABC75E
+
+Người điều hành có trách nhiệm đưa giếng bảo quản loại 1 vào hoạt động hoặc hủy bỏ giếng trong khoảng thời hạn cho phép bảo quản nhưng không quá 6 năm kể từ ngày bảo quản. Thời hạn bảo quản này có thể được gia hạn khi Người điều hành chứng minh được việc gia hạn thỏa mãn các yêu cầu về an toàn, bảo vệ môi trường theo pháp luật Việt Nam và thông lệ công nghiệp dầu khí quốc tế.
 
 ---
 
@@ -773,6 +910,8 @@ parent: cong-nghiep
 
 **ID:** 0BBB57EC-2995-4C6F-AE20-CDCE450FC77B
 
+VIETSOVPETRO không phải khai, nộp thuế giá trị gia tăng đối với dầu thô, condensate, khí thiên nhiên tiêu thụ tại thị trường Việt Nam.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365501400
 
 **ID:** CD6A2C59-85F4-456A-9E41-E150B0ED8CC3
+
+Việc miễn thuế nhập khẩu đối với hàng hoá nhập khẩu phục vụ cho hoạt động tìm kiếm, thăm dò và khai thác dầu khí thực hiện theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu và pháp luật về quản lý thuế hiện hành.
 
 ---
 
@@ -795,6 +936,8 @@ parent: cong-nghiep
 
 **ID:** 0A8CF45A-86FB-473B-BCE5-61520CD6CEAB
 
+1. Đối với Báo cáo đã được phê duyệt trước ngày Thông tư này có hiệu lực, Người điều hành và cơ quan quản lý nhà nước tiếp tục thực hiện theo Báo cáo đã được phê duyệt.
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030001500
 
 **ID:** 069E5FF6-0318-4652-BE6C-E5C01C08241C
+
+1. Người lao động khi làm việc tại các công trình, phương tiện, thiết bị dầu khí, phải được đào tạo, huấn luyện các kiến thức, kỹ năng an toàn phù hợp với quy định và đáp ứng cho công việc được giao; được trang bị đầy đủ các trang thiết bị về bảo hộ lao động.
 
 ---
 
@@ -817,6 +962,8 @@ parent: cong-nghiep
 
 **ID:** A4B76F81-CB1F-4F76-8A63-6B2838790792
 
+Trường hợp đường ống vận chuyển khí có một phần đặt nổi trên mặt đất thì tổ chức, cá nhân áp dụng khoảng cách an toàn tương ứng với phần ống nổi.
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400001500
 
 **ID:** B1CB4209-CCA7-4363-B390-B97A28FF85DE
+
+1. Xây dựng ma trận rủi ro để phân tích, đánh giá mức rủi ro cho các mối nguy được nhận diện. Căn cứ vào chính sách, mục tiêu an toàn và đặc thù hoạt động dầu khí, hai chiều của ma trận có nhiều mức, không nhỏ hơn 3. Chi tiết tham khảo theo mẫu tại Phụ lục II Thông tư này.
 
 ---
 
@@ -839,6 +988,8 @@ parent: cong-nghiep
 
 **ID:** C8E27604-3A34-4C0B-A418-8E5BECC36425
 
+1. Công trình dầu khí phải được phân chia thành các vùng theo mức độ rủi ro.
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000300001500000000000000000
 
 **ID:** 2B6E5E28-EC53-41DA-8045-025BBCF885DA
+
+Việc lựa chọn nhà thầu ký kết hợp đồng dầu khí tại lô dầu khí mở được thực hiện thông qua một trong các hình thức sau đây:
 
 ---
 
@@ -861,6 +1014,8 @@ parent: cong-nghiep
 
 **ID:** 6A445540-F544-41C2-AA40-D5AB5C5E17CD
 
+1. Bên dự thầu gửi đăng ký dự thầu đến Tập đoàn Dầu khí Việt Nam. Thời hạn đăng ký không quá 45 ngày, kể từ ngày cuối cùng đăng thông báo mời thầu hoặc kể từ ngày cuối cùng thông báo mời chào thầu cạnh tranh.
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490001500
 
 **ID:** F827A644-3DBF-455D-9CD0-B989DAC09AC6
+
+1. Việc thu dọn các công trình, thiết bị phục vụ cho việc thu gom, xử lý và vận chuyển khí trên biển được thực hiện theo quy định tại Điều 10 Quyết định này
 
 ---
 
@@ -883,6 +1040,8 @@ parent: cong-nghiep
 
 **ID:** B90BF016-8719-42C0-8980-8F6675E568ED
 
+1. Giếng được hủy bỏ phải đảm bảo duy trì được tính toàn vẹn của lòng giếng, không để xảy ra tình trạng lưu thông các chất lưu giữa các thành hệ với nhau hoặc với bề mặt đáy biển, mặt đất.
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802527801765501500
 
 **ID:** 3FE14393-8979-479D-BD32-032DD31D5226
+
+Khi giá bán dầu thô tăng trên 20% so với giá dầu thô cơ sở là 75 USD/thùng thì toàn bộ phần dầu lãi, condensate lãi của VIETSOVPETRO thuộc diện chịu phụ thu theo hướng dẫn tại Thông tư này.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: cong-nghiep
 
 **ID:** CAFF3C6D-9D24-413B-B58D-F2887FC4EE2C
 
+1. Thu nhập từ hoạt động khai thác dầu thô, khí thiên nhiên và thu nhập khác liên quan trực tiếp đến hoạt động dầu khí là đối tượng chịu thuế thu nhập doanh nghiệp theo hướng dẫn tại Thông tư này.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880274100024000150
 
 **ID:** 4DC6D398-97E3-40CF-9FCA-A664026906E4
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 06 tháng 11 năm 2020 và Quyết định số 38/2005/QĐ-BCN ngày 06 tháng 12 năm 2005 của Bộ trưởng Bộ Công nghiệp ban hành Quy định phân cấp tài nguyên, trữ lượng dầu khí và lập báo cáo trữ lượng dầu khí hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
 ---
 
@@ -927,6 +1092,8 @@ parent: cong-nghiep
 
 **ID:** AF68970F-5AC2-4F59-A5D5-B3721DB295B3
 
+1. Tại các công sở, doanh nghiệp dầu khí và các công trình, phương tiện, thiết bị dầu khí, phải có lực lượng thích hợp để bảo vệ an toàn công sở, doanh nghiệp và các công trình, phương tiện, thiết bị; phòng chống cháy nổ, ngăn ngừa và ứng cứu sự cố.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001600
 
 **ID:** FE512F22-9DC2-41E5-AA95-D114D1E4EF06
+
+1. Khoảng cách an toàn đối với kho dầu mỏ và sản phẩm dầu mỏ theo quy định tại Phụ lục II ban hành kèm theo Nghị định này.
 
 ---
 
@@ -949,6 +1118,8 @@ parent: cong-nghiep
 
 **ID:** 951F6739-A512-48DE-9A8F-0DF2E055E839
 
+1. Yêu cầu của đánh giá rủi ro định lượng
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001600
 
 **ID:** 58A9206C-2F8B-4B06-9069-8BB11FA9F9B1
+
+1. Các hệ thống khoan, khai thác, xử lý, chế biến dầu khí, bao gồm cả hệ thống đường ống, phải được trang bị hệ thống thiết bị an toàn và hệ thống dừng hoạt động khẩn cấp (hệ thống thiết bị an toàn). Hệ thống thiết bị an toàn phải có khả năng phát hiện các sự cố hoặc tình trạng làm việc không bình thường và phải có khả năng ngăn ngừa, hạn chế tối đa những thiệt hại có thể xảy ra.
 
 ---
 
@@ -971,6 +1144,8 @@ parent: cong-nghiep
 
 **ID:** 9EABB87F-DA8E-499E-9FC3-43FDFD6455ED
 
+Tổ chức, cá nhân tham gia đấu thầu lựa chọn nhà thầu ký kết hợp đồng dầu khí phải đáp ứng các điều kiện sau đây:
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000030000240000000000000000000402842600450001600
 
 **ID:** 6FD23F61-92D0-4445-A9D4-944D3795ADF9
+
+1. Tập đoàn Dầu khí Việt Nam chuẩn bị hồ sơ mời thầu đối với hình thức đấu thầu rộng rãi, đấu thầu hạn chế hoặc hồ sơ chào thầu cạnh tranh đối với hình thức chào thầu cạnh tranh hoặc hồ sơ yêu cầu đối với hình thức chỉ định thầu và phát hành cho các bên dự thầu.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: cong-nghiep
 
 **ID:** 6E44391B-38DE-46EB-93B0-13A6E6BC5018
 
+1. Tổ chức, cá nhân có trách nhiệm phải thu dọn đường ống dẫn khí trên bờ, qua sông, hồ. Việc thu dọn đường ống chỉ được tiến hành khi tổ chức, cá nhân đã làm sạch dầu, khí và các hoá chất trong đường ống đó.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001600
 
 **ID:** C632C238-9435-465D-AEBC-14C819E1C25B
+
+1. Người điều hành không được thu hồi ống chống đã thả trong giếng trừ trường hợp được Tập đoàn Dầu khí Việt Nam chấp thuận bằng văn bản.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: cong-nghiep
 
 **ID:** 6F5D75AD-B08D-45B2-97BD-91C87FF12A13
 
+Số phụ thu tạm tính đối với dầu lãi theo từng lần xuất bán được khai và nộp theo từng lần xuất bán nếu giá bán dầu thô tăng trên 20% so với giá dầu thô cơ sở là 75 USD/thùng.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365501600
 
 **ID:** F0C48368-0B48-44F8-9130-D2522AB343B5
+
+1. Kỳ tính thuế thu nhập doanh nghiệp là năm dương lịch. Trường hợp người nộp thuế áp dụng năm tài chính khác với năm dương lịch đã được Bộ Tài chính chấp thuận thì kỳ tính thuế là năm tài chính.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: cong-nghiep
 
 **ID:** 1AF14AC2-E437-4C69-8B30-0DA8F7FADF9F
 
+1. Các công trình dầu khí trên đất liền phải được thiết lập hành lang an toàn và phải có các hình thức phổ biến công khai các quy định về bảo vệ hành lang an toàn để mọi người nhận biết, chấp hành.
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001700
 
 **ID:** 45E5161C-CC45-475F-A286-299AB5D3DB40
+
+Khoảng cách giữa hai đường ống vận chuyển DM&SPDM chạy song song và liền kề trên cùng một tuyến ống là khoảng cách trên hình chiếu bằng giữa hai thành ngoài ống liền kề và phải được xác định theo tiêu chuẩn thiết kế
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: cong-nghiep
 
 **ID:** 10AC8F29-4DB3-4ACA-8D0B-C4CC087E05AD
 
+Các biện pháp giảm thiểu đối với rủi ro, bao gồm:
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001700
 
 **ID:** E0409A9E-6D11-43F7-BF96-375B0AFD936A
+
+Công trình dầu khí phải có lối thoát hiểm và trang bị đầy đủ thiết bị cứu hộ, cứu nạn, biển báo, dấu hiệu để bảo đảm cho việc sơ tán người được an toàn theo quy định.
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: cong-nghiep
 
 **ID:** 34CC6F26-61E6-4A0A-865E-06685329C255
 
+1. Kế hoạch lựa chọn nhà thầu được lập cho một hoặc một số lô dầu khí thuộc danh mục lô dầu khí được phê duyệt theo quy định tại khoản 2 Điều 7 của Luật này để triển khai thực hiện việc lựa chọn nhà thầu ký kết hợp đồng dầu khí.
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000030000240000000000000000000402842600450001700
 
 **ID:** 7FAB5928-4C1F-48C3-A8F7-29476AF40DFD
+
+1. Bên dự thầu gửi hồ sơ dự thầu đối với hình thức đấu thầu rộng rãi, đấu thầu hạn chế hoặc hồ sơ chào thầu cạnh tranh đối với hình thức chào thầu cạnh tranh hoặc hồ sơ đề xuất đối với hình thức chỉ định thầu đến Tập đoàn Dầu khí Việt Nam trong thời hạn được ghi trong hồ sơ mời thầu hoặc hồ sơ mời chào thầu cạnh tranh hoặc hồ sơ yêu cầu. Tập đoàn Dầu khí Việt Nam quyết định thời hạn nộp hồ sơ dự thầu hoặc hồ sơ chào thầu cạnh tranh hoặc hồ sơ đề xuất và quy định cụ thể trong thông báo mời tham gia nhưng không quá 120 ngày, kể từ ngày phát hành hồ sơ mời thầu hoặc hồ sơ mời chào thầu cạnh tranh hoặc hồ sơ yêu cầu.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: cong-nghiep
 
 **ID:** 0F56A33A-85D8-46E9-9680-D7EBAC17BEAC
 
+1. Tổ chức, cá nhân có trách nhiệm làm sạch trước khi thu dọn các công trình nhà máy chế biến - xử lý khí.
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001700
 
 **ID:** 5688AD2B-81A0-49A7-A230-78BA9A0F309C
+
+1. Các vỉa chứa dầu khí, vỉa có áp suất dị thường hoặc vỉa gây mất dung dịch trong đoạn giếng thân trần phải được cách ly bởi các nút xi măng đặt phủ qua toàn bộ vỉa đó cộng với ít nhất là 50 m phía trên nóc và 50 m phía dưới đáy của chính vỉa đó (Phụ lục - hình số 1).
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: cong-nghiep
 
 **ID:** 18F96893-DA50-4B1E-B251-A4D1A9D2C9FD
 
+Tiền kết dư của phần dầu để lại là phần giá trị khối lượng sản phẩm hàng hoá (dầu thô, condensate, khí thiên nhiên) để lại hàng năm mà VIETSOVPETRO chưa sử dụng hết được Hội đồng liên doanh quyết định tại từng kỳ họp để nộp phụ thu, thuế thu nhập doanh nghiệp và chia cho hai phía tham gia Liên doanh (gồm phần tiền dầu thô, condensate, khí thiên nhiên để lại cho VIETSOVPETRO theo giá kế hoạch và số tiền chênh lệch bán dầu thô, condensate, khí thiên nhiên theo giá thực tế so với giá kế hoạch mà VIETSOVPETRO không sử dụng hết).
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365501700
 
 **ID:** 2F475D42-DF39-4357-8780-E409B28E8315
+
+1. Đối với thu nhập từ hoạt động khai thác dầu thô, khí thiên nhiên:
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: cong-nghiep
 
 **ID:** D7C853FA-2158-4017-B128-1BB48D59FFBE
 
+1. Nghiêm cấm các tổ chức, cá nhân không có trách nhiệm, xâm nhập hoặc tiến hành các hoạt động dưới bất kỳ hình thức nào trong vùng an toàn của các công trình dầu khí biển, trừ trường hợp đặc biệt được Thủ tướng Chính phủ cho phép.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001800
 
 **ID:** A9B1A0F7-0A7D-445D-BF60-D1DC0386C62F
+
+Trong hành lang an toàn lưới điện, tổ chức, cá nhân xây dựng đường ống vận chuyển DM&SPDM phải tuân theo quy định của pháp luật về điện lực để đảm bảo an toàn của đường ống.
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: cong-nghiep
 
 **ID:** 61FB0ADC-BE52-491B-A57F-C0A8FF46C3E1
 
+1. Kết luận
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001800
 
 **ID:** EC7209E2-31E2-4713-901E-18082D794645
+
+1. Công tác phòng cháy và chữa cháy phải được thực hiện theo quy định của pháp luật về phòng cháy và chữa cháy.
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: cong-nghiep
 
 **ID:** 4BB8AF6C-1599-42FA-84C6-66850EE6B798
 
+1. Việc lựa chọn nhà thầu ký kết hợp đồng dầu khí theo hình thức đấu thầu rộng rãi được áp dụng trên nguyên tắc cạnh tranh đối với lô dầu khí không thuộc trường hợp quy định tại các điều 19, 20 và 21 của Luật này.
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000030000220000000000000000000402842600450001800
 
 **ID:** 03C3E90B-4F9C-43B9-AEBD-B4888E65410B
+
+1. Tiêu chí lựa chọn nhà thầu bao gồm:
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: cong-nghiep
 
 **ID:** B41D749D-0071-4177-A1AA-9F973A292F03
 
+Tổ chức, cá nhân có trách nhiệm xử lý và quản lý chất thải theo quy định của pháp luật.
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001800
 
 **ID:** 0F6969E4-7F77-424D-99A6-B32D52F7D4B2
+
+1. Để đảm bảo cách ly đoạn giếng đã được chống ống với đoạn giếng thân trần, Người điều hành phải tiến hành đặt một nút xi măng cân bằng có chiều dài ít nhất 100 m bao trùm 50 m phía trên và 50 m phía dưới chân ống chống sâu nhất (Phụ lục - hình số 4).
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: cong-nghiep
 
 **ID:** 3A830FD6-AE2B-44ED-A387-A3DC94F529C2
 
+Số phụ thu phải nộp theo quyết toán bằng tổng số phụ thu phải nộp được xác định theo hướng dẫn tại Điều 16 và khoản 1, khoản 2, Điều 17 Thông tư này.
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365501800
 
 **ID:** FC7E4D3D-95AA-4ACC-A116-92F3CFB86A9B
+
+1. Xác định số thuế thu nhập doanh nghiệp phải nộp:
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: cong-nghiep
 
 **ID:** E7943CE3-D6CD-45B0-A158-C953E40B7004
 
+Chính phủ thống nhất quản lý Nhà nước về bảo vệ an ninh, an toàn dầu khí. Các Bộ, ngành thực hiện chức năng quản lý Nhà nước về bảo vệ an ninh, an toàn dầu khí theo nhiệm vụ, quyền hạn của mình.
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130001900
 
 **ID:** 7E675992-24C2-454A-9E78-52BC33A68089
+
+1. Tổ chức, cá nhân xác định khoảng cách an toàn khi đường ống vận chuyển DM&SPDM đi qua các đối tượng được bảo vệ theo quy định tại Phụ lục II ban hành kèm theo Nghị định này.
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: cong-nghiep
 
 **ID:** 3CE7CA24-59CB-4B90-A0CF-77CDE03EC0D9
 
+Trên cơ sở đánh giá các mối nguy, xác định tất cả các tình huống khẩn cấp có thể xảy ra. Căn cứ vào năng lực, quy mô và độ phức tạp của dự án, công trình để phân loại tình huống khẩn cấp
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040001900
 
 **ID:** 0AFFC19C-D462-4234-AE44-10899DE0F93E
+
+1. Công trình dầu khí phải được xây dựng theo thiết kế đã được phê duyệt. Mọi thay đổi có thể ảnh hưởng đến mức độ an toàn của công trình so với thiết kế phải giải trình và được cơ quan đã phê duyệt thiết kế chấp thuận.
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: cong-nghiep
 
 **ID:** 032F2AA5-6E15-4BE9-85AD-F7AC2AE1B449
 
+1. Việc lựa chọn nhà thầu ký kết hợp đồng dầu khí theo hình thức đấu thầu hạn chế được áp dụng trong trường hợp có yêu cầu đặc thù mà chỉ có một số nhà thầu đáp ứng được.
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000030000220000000000000000000402842600450001900
 
 **ID:** 11A20D8E-8529-4FF6-8F14-7F70087CA261
+
+1. Tập đoàn Dầu khí Việt Nam thành lập tổ chuyên gia để đánh giá hồ sơ dự thầu hoặc hồ sơ chào thầu cạnh tranh hoặc hồ sơ đề xuất. Tổ chuyên gia gồm các cá nhân có năng lực, kinh nghiệm và có chứng chỉ đào tạo về đấu thầu theo quy định của pháp luật về đấu thầu, làm việc theo quy chế do Tập đoàn Dầu khí Việt Nam ban hành.
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: cong-nghiep
 
 **ID:** FA892464-F683-48F5-A13F-042458F66FCD
 
+1. Tổ chức, cá nhân phải đảm bảo tất cả hoạt động thu dọn được thực hiện một cách an toàn và tuân thủ theo các quy định về quản lý an toàn trong hoạt động dầu khí và hoạt động hàng hải.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170001900
 
 **ID:** DD73A69D-B831-471E-999E-E312B5A19EAA
+
+Nếu giếng đã bắn mở vỉa thì các khoảng mở vỉa phải được cách ly tuần tự bằng các nút cơ học, nút xi măng, hoặc bằng cả nút cơ học và nút xi măng nếu khoảng cách cho phép. Quá trình thi công hủy bỏ đoạn giếng phải được tiến hành theo một trong các phương pháp sau:
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: cong-nghiep
 
 **ID:** 0996DD2D-3753-4BF9-B41E-CCE12C726B20
 
+1. Thu nhập từ hoạt động tìm kiếm thăm dò, phát triển mỏ và khai thác dầu khí của VIETSOVPETRO từ lô 09-1 là đối tượng chịu thuế thu nhập doanh nghiệp theo hướng dẫn tại Thông tư này.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365501900
 
 **ID:** 86034BC3-D657-490C-B17B-4721FF3B608A
+
+Xác định số thuế thu nhập doanh nghiệp tạm tính:
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: cong-nghiep
 
 **ID:** C3AC9720-2770-4ADF-8147-BBBE1B1F9183
 
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến điều tra cơ bản về dầu khí và hoạt động dầu khí.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000240205810003000020
 
 **ID:** FBA90214-8049-4573-B701-A7B4707E1F59
+
+Nghị định này được áp dụng đối với các hoạt động dầu khí và các công trình, phương tiện thiết bị dầu khí của Tổng công ty Dầu khí Việt Nam và các đối tác, bao gồm : tìm kiếm thăm dò, phát triển mỏ, khai thác, vận chuyển, tàng trữ, chế biến, dịch vụ kỹ thuật, nghiên cứu khoa học được tiến hành trên đất liền, hải đảo, nội thuỷ, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa nước Cộng hoà xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: cong-nghiep
 
 **ID:** 0BAB62AC-F6D4-488C-B528-621E06892580
 
+1. Thông tư này áp dụng đối với sản phẩm hàng hoá là dầu thô, condensate và khí thiên nhiên do Liên doanh Việt-Nga “Vietsovpetro” khai thác và giữ được từ lô 09-1 đã xuất bán (kể cả trao đổi), không bao gồm sản phẩm phi hàng hóa và hao phí công nghệ sản phẩm.
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000280267210040000020
 
 **ID:** DD7EE6A9-0D10-461C-8DCF-ABBB9662E5DD
+
+Thông tư này áp dụng đối với các tổ chức, cá nhân và cơ quan quản lý nhà nước liên quan đến hoạt động dầu khí được tiến hành trên đất liền, vùng biển thuộc chủ quyền nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: cong-nghiep
 
 **ID:** EB81D45D-087E-41B2-B634-023CC8F3E758
 
+Thông tư này được áp dụng đối với:
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000280274100024000020
 
 **ID:** 1ECAFDBF-93CE-4A5D-9B90-5919AD0BFD55
+
+1. Người điều hành hoặc tổ chức, cá nhân (sau đây gọi chung là Người điều hành) thực hiện việc lập báo cáo tài nguyên, trữ lượng dầu khí khi có các hoạt động tìm kiếm thăm dò, phát triển mỏ và khai thác dầu khí trong phạm vi lãnh thổ đất liền, nội thủy, đảo và quần đảo, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa thuộc chủ quyền, quyền chủ quyền và quyền tài phán quốc gia Việt Nam, được xác định theo pháp luật Việt Nam, điều ước quốc tế mà Việt Nam là thành viên.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: cong-nghiep
 
 **ID:** C3491D17-F489-457C-AB46-5C20F70573EA
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000340284260045000020
 
 **ID:** 2DBE15A6-985B-422B-9BD9-04B95121A1E4
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: cong-nghiep
 
 **ID:** 0C4747CA-D39D-4968-86A6-836557FD3E57
 
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000300000000000000000000402343801000000200
 
 **ID:** 7F678A15-8582-4B44-BC51-FFFDF76AA4B1
+
+Việc tính thu phụ thu quy định tại Nghị định này được áp dụng khi giá bán dầu thô trung bình của quý thực tế biến động tăng cao hơn giá cơ sở của năm tương ứng trên 20%.
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: cong-nghiep
 
 **ID:** 694D4C96-D3E0-48D0-BC1B-63D5B066F881
 
+1. Đối với hợp đồng dầu khí được ký kết dưới hình thức hợp đồng chia sản phẩm, người nộp phụ thu là người điều hành thay mặt các nhà thầu dầu khí tham gia hợp đồng.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490000200
 
 **ID:** 458A80F4-9473-4862-92A7-72C3FADC647F
+
+1. Các quy định của Quyết định này được áp dụng cho các hợp đồng dầu khí và các công trình khí có quyết định phê duyệt dự án đầu tư của cấp có thẩm quyền trước và sau ngày Quyết định này có hiệu lực.
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: cong-nghiep
 
 **ID:** 98189145-FE16-4A99-ABE5-938BDB16CDE2
 
+1. Người nộp thuế là các bên nhà thầu tham gia trong hợp đồng dầu khí.
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006850213900046000020
 
 **ID:** 2A8048BF-5B2C-4F73-97C6-FDFCC4F5D867
+
+Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: cong-nghiep
 
 **ID:** F524D469-8A51-4B2C-93FD-5238A958510E
 
+Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2011.
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880192130395000020
 
 **ID:** 24224F4B-01DA-4962-AFD5-856234A49870
+
+Cục trưởng Cục Môi trường, Tổng Giám đốc Tổng công ty Dầu khí Việt Nam, Giám đốc các Sở Khoa học, Công nghệ và Môi trường, Thủ trưởng các tổ chức dầu khí chịu trách nhiệm thi hành Quyết định này.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: cong-nghiep
 
 **ID:** 0C2B0DE1-9B0D-49A8-857E-146D7E50F372
 
+Thông tư này có hiệu lực thi hành kể từ ngày 14 tháng 02 năm 2013.
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030002000
 
 **ID:** 74766737-86B2-418E-B9B8-87D34EE0324C
+
+Bộ Công an có trách nhiệm :
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: cong-nghiep
 
 **ID:** 1631D4F4-AF43-44A2-AD86-ADAE7039BE4A
 
+Trường hợp một phần đường ống vận chuyển dầu mỏ và sản phẩm dầu mỏđặt nổi, tổ chức, cá nhân xác định khoảng cách an toàn theo quy định tại Phụ lục II Nghị định này.
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400002000
 
 **ID:** 8E58E6FA-DB0B-4397-A57E-F1647CF9EAD5
+
+1. Mô tả sơ đồ tổ chức công tác ứng cứu khẩn cấp tương ứng với các tình huống khẩn cấp, trong đó thể hiện thành phần các đội ứng cứu nhằm đáp ứng công tác ứng cứu khẩn cấp hiệu quả, tương tác giữa các vị trí chủ chốt trong từng đội ứng cứu và giữa các đội ứng cứu.
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: cong-nghiep
 
 **ID:** 1DCFDFF2-F5AD-474F-A7B0-B349EA707895
 
+1. Trước khi đưa công trình vào vận hành, tổ chức, cá nhân phải tiến hành chạy thử.
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000300002000000000000000000
 
 **ID:** 9153DFBB-31E3-48FE-B086-13A93C11F37E
+
+1. Việc lựa chọn nhà thầu để ký kết hợp đồng dầu khí theo hình thức chào thầu cạnh tranh được áp dụng trong trường hợp lô dầu khí không nằm trong kế hoạch lựa chọn nhà thầu hiện có và được đề xuất bởi ít nhất 02 tổ chức, cá nhân có đủ điều kiện quy định tại Điều 16 của Luật này để ký kết hợp đồng dầu khí.
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: cong-nghiep
 
 **ID:** B283A452-06D5-4CF7-9922-3094F3368710
 
+1. Trong thời hạn 15 ngày kể từ ngày hoàn thành đánh giá kết quả lựa chọn nhà thầu ký kết hợp đồng dầu khí, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt kết quả lựa chọn nhà thầu ký kết hợp đồng dầu khí để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490002000
 
 **ID:** C6F63B17-6AC4-404E-A7F1-3F6070B4553A
+
+1. Quan trắc môi trường cho hoạt động thu dọn công trình dầu khí
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: cong-nghiep
 
 **ID:** E99E0FEB-2B41-4CDE-9AA4-AD3FCC8380B3
 
+1. Đục ống và bơm ép: Để ngăn ngừa sự lưu thông của lưu thể giữa vỉa và các khoảng vành xuyến, ít nhất phải có 100 m xi măng có độ bám tốt bên trong chân ống trước. Nếu không, ống chống trong cùng phải được đục lỗ tại chiều sâu 100 m bên trên chân ống trước nó và thể tích vữa xi măng tương đương 100 m vành xuyến phải được ép qua đoạn đục lỗ bằng dụng cụ giữ xi măng hoặc packer với áp suất không lớn hơn áp suất vỡ vỉa (Phụ lục - hình số 12).
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802527801765502000
 
 **ID:** A811D1A6-C63E-4BBC-9FC8-7E6E3A034F19
+
+1. Kỳ tính thuế thu nhập doanh nghiệp là năm dương lịch. Kỳ tính thuế thu nhập doanh nghiệp đầu tiên được tính từ ngày tiến hành hoạt động tìm kiếm thăm dò, phát triển mỏ và khai thác dầu khí đầu tiên cho đến ngày kết thúc năm dương lịch đầu tiên. Kỳ tính thuế thu nhập doanh nghiệp cuối cùng được tính từ ngày bắt đầu của năm dương lịch cuối cùng đến ngày kết thúc Hiệp định 2010 và Nghị định thư 2013.
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: cong-nghiep
 
 **ID:** 579501D8-92C3-4E66-9461-6F2C30E0D30A
 
+Bộ Quốc phòng có trách nhiệm :
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130002100
 
 **ID:** 40AB338E-509D-45ED-B073-3B6BADCE4332
+
+1. Tổ chức, cá nhân xác định khoảng cách an toàn đối với khu vực nhà máy là 30 m tính từ chân kè taluy; khu vực không có kè taluy được tính từ chân hàng rào.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: cong-nghiep
 
 **ID:** FB459F93-E8C1-424F-9271-0D2ABBDC9DF2
 
+1. Quy trình thông báo và báo cáo
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040002100
 
 **ID:** 3AFD016F-AA61-41BD-9333-E2735A311CC7
+
+1. Tổ chức, cá nhân phải xây dựng và duy trì các quy định cần thiết để tiến hành các hoạt động dầu khí một cách an toàn.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: cong-nghiep
 
 **ID:** 228C5802-58AA-41C9-B520-16E3B4E5BDB2
 
+1. Việc lựa chọn nhà thầu ký kết hợp đồng dầu khí theo hình thức chỉ định thầu được áp dụng đối với lô dầu khí trong các trường hợp sau đây:
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000260000000000000000000402842600450002100
 
 **ID:** 69DCDAA9-86AB-428E-9D48-329E09C8DA1D
+
+1. Trong thời hạn 30 ngày kể từ ngày hoàn thành đàm phán hợp đồng dầu khí, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt nội dung hợp đồng dầu khí để thẩm định. Hồ sơ bao gồm:
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: cong-nghiep
 
 **ID:** 9BC84F68-FF13-479F-87F5-247678DD7213
 
+1. Trong quá trình hoạt động dầu khí, công trình dầu khí bị hư hỏng nặng hoặc có nguy cơ mất an toàn, ảnh hưởng đến an toàn hoạt động dầu khí thì tổ chức, cá nhân phải tiến hành ngay việc thu dọn từng phần hoặc toàn bộ công trình dầu khí, đồng thời báo cáo Bộ Công Thương.
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170002100
 
 **ID:** 0601545B-82EB-4177-B7FF-E001EF21165E
+
+1. Khi cắt ống để thu hồi như quy định tại các khoản 2 và 3 Điều 16 Thông tư này, các đầu ống chống đã cắt phải được cách ly theo một trong các phương pháp:
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: cong-nghiep
 
 **ID:** 09851817-6C2A-4CF5-98F0-E2A278489492
 
+1. Xác định số thuế thu nhập doanh nghiệp tạm tính phải nộp đối với dầu thô, condensate và khí thiên nhiên:
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365502100
 
 **ID:** 30C578ED-6D3A-4C45-834F-85D2DE65EA61
+
+1. Chuyển nhượng quyền lợi tham gia hợp đồng dầu khí là việc tổ chức, cá nhân bán, chuyển nhượng phần vốn đầu tư của mình (bao gồm cả tài sản, tiền) tại các hợp đồng dầu khí, doanh nghiệp, xí nghiệp liên doanh dầu khí ở Việt Nam, sang tên, thay đổi quyền sở hữu hoặc quyền kiểm soát của một bên nhà thầu hoặc định đoạt bằng cách khác toàn bộ hoặc một phần quyền, quyền lợi và nghĩa vụ của mình trong hợp đồng dầu khí, doanh nghiệp, xí nghiệp liên doanh dầu khí (bên chuyển nhượng) cho một hoặc nhiều tổ chức, cá nhân khác (bên nhận chuyển nhượng), trừ trường hợp tái cơ cấu, dàn xếp tài chính nội bộ của bên chuyển nhượng hoặc hợp nhất của công ty mẹ của bên chuyển nhượng. Bên nhận chuyển nhượng có nghĩa vụ và quyền lợi của nhà thầu tiến hành hoạt động tìm kiếm thăm dò và khai thác dầu khí.
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: cong-nghiep
 
 **ID:** 3FE8A0B9-3B8D-415C-9B69-9114676363CA
 
+Căn cứ tính chất, yêu cầu công tác bảo vệ đối với một số công trình dầu khí ở trên đất liền hoặc trên biển, theo đề nghị của Tổng công ty Dầu khí Việt Nam, Bộ Công an, Bộ Quốc phòng tổ chức lực lượng bảo vệ an ninh, an toàn dầu khí. Tổ chức và hình thức tham gia bảo vệ do Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng hướng dẫn bằng Thông tư liên tịch.
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130002200
 
 **ID:** 72426E49-AA05-4A12-AE4D-E00B0670E287
+
+Khoảng cách an toàn đối với các hạng mục liên quan của nhà máy chế biến, nhà máy lọc hóa dầu, tổ chức, cá nhân thực hiện theo quy định tại Phụ lục II ban hành kèm theo Nghị định này.
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: cong-nghiep
 
 **ID:** 1A8BBE6F-810F-4D7F-BDBE-1C9DF876D3E2
 
+1. Danh mục quy trình ứng cứu khẩn cấp
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040002200
 
 **ID:** 391A57A6-DF54-4E72-A11E-7376B693221F
+
+1. Trước khi vận hành công trình, tổ chức, cá nhân phải ban hành các quy trình vận hành, quy trình xử lý sự cố và quy trình bảo trì cho máy, thiết bị, công trình. Các quy trình này phải được phổ biến, huấn luyện cho người lao động và lưu giữ tại công trình.
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: cong-nghiep
 
 **ID:** 74F4E628-65D9-4C04-803C-CBB2B6C79EAC
 
+1. Tiêu chí lựa chọn nhà thầu bao gồm:
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000270000000000000000000402842600450002200
 
 **ID:** 6D19CF81-19A5-40F2-A21F-DFA51D8C71C6
+
+1. Trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành ký kết hợp đồng dầu khí, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 01 bộ hồ sơ gốc đề nghị cấp giấy chứng nhận đăng ký đầu tư cho nhà thầu thực hiện hoạt động dầu khí. Hồ sơ bao gồm:
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: cong-nghiep
 
 **ID:** 49C8CC51-B900-470B-AFBF-EF849CBAC04D
 
+1. Tổ chức, cá nhân tiến hành hoạt động tìm kiếm, thăm dò khai thác dầu khí hoặc tổ chức, cá nhân sở hữu công trình khí liên quan có thể đề xuất việc hoãn thu dọn công trình dầu khí theo quy định của khoản 2, 3, 4 của Điều này.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170002200
 
 **ID:** 383682E7-FBD6-46FF-B4A4-4F1E604578D1
+
+Trường hợp Người điều hành được phép để lại thiết bị lòng giếng theo quy định tại khoản 5 Điều 16 Thông tư này, việc đặt nút chặn phải thực hiện theo các quy định sau:
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: cong-nghiep
 
 **ID:** D658D8F6-A93F-4B87-9A20-F2CB91A55BF4
 
+1. Xác định thu nhập chịu thuế thu nhập doanh nghiệp trong kỳ tính thuế:
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365502200
 
 **ID:** A2C9890D-6EAD-429C-8D5B-63F5D956FCEE
+
+1. Xác định thuế thu nhập doanh nghiệp phải nộp:
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: cong-nghiep
 
 **ID:** B01ACE5B-9104-4616-A7B3-A548BFE406F6
 
+Bộ Thủy sản, ủy ban nhân dân các tỉnh ven biển chỉ đạo Sở Thủy sản, Chi Cục bảo vệ nguồn lợi thuỷ sản, phối hợp với Bộ đội Biên phòng, lực lượng Cảnh sát biển tổ chức tuyên truyền, giáo dục cho ngư dân hiểu biết các quy định về bảo vệ an ninh, an toàn dầu khí, không để tàu thuyền không có nhiệm vụ xâm phạm vùng an toàn các công trình dầu khí.
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130002300
 
 **ID:** 85DF06B2-7FE7-477D-95B5-5945CBFC4EC7
+
+1. Các công trình dầu khí phải được thiết kế, xây dựng, vận hành, sửa chữa theo các quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia, tiêu chuẩn nước ngoài, tiêu chuẩn khu vực, tiêu chuẩn quốc tế và không trái với quy định pháp luật Việt Nam để đảm bảo việc phòng ngừa và kiểm soát các mối nguy hiểm về cháy nổ.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: cong-nghiep
 
 **ID:** 5DB64645-20D4-4CF0-A2F8-A622A9A06131
 
+1. Ban chỉ huy điều hành hoạt động ứng cứu khẩn cấp
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040002300
 
 **ID:** 451D85E9-E34A-455F-95AF-F47F0D07051D
+
+Công trình dầu khí có người làm việc thường xuyên phải được trang bị các thiết bị thông tin cố định và di động để liên lạc nội bộ, liên lạc với đất liền, tàu thuyền, máy bay trong quá trình hoạt động bình thường và trong tình huống khẩn cấp bất kỳ thời gian nào.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: cong-nghiep
 
 **ID:** D24B45DF-9DBA-468A-937E-3D3416FD069B
 
+Nhà thầu được đề nghị lựa chọn khi đáp ứng các điều kiện sau đây:
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000280000000000000000000402842600450002300
 
 **ID:** 213DAC87-1D55-4C22-9B71-1B4721B2549C
+
+1. Căn cứ quy định tại khoản 1 Điều 28 Luật Dầu khí, trên cơ sở đề nghị của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt điều chỉnh nội dung hợp đồng dầu khí và cấp giấy chứng nhận đăng ký đầu tư điều chỉnh. Hồ sơ bao gồm:
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: cong-nghiep
 
 **ID:** 29ED58AE-7D6F-4082-9D20-471859858882
 
+1. Trường hợp tổ chức, cá nhân đã thực hiện trích lập đầy đủ nghĩa vụ bảo đảm tài chính theo kế hoạch thu dọn đã được phê duyệt thì việc để lại toàn bộ hoặc từng phần công trình dầu khí được xem xét một trong các trường hợp sau:
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170002300
 
 **ID:** 1B9DBA7A-0145-4683-AE4F-1EDE8E05838F
+
+1. Kiểm tra vị trí và thử tải nút xi măng:
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: cong-nghiep
 
 **ID:** 77FCFB77-7BB6-4227-826B-0024A08DA353
 
+Trong quá trình tiến hành hoạt động tìm kiếm thăm dò, phát triển mỏ và khai thác dầu khí từ lô 09-1, VIETSOVPETRO thực hiện nộp các loại thuế, phí, lệ phí khác không hướng dẫn cụ thể tại Thông tư này theo các quy định tại các văn bản pháp luật về thuế, phí, lệ phí hiện hành.
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030002400
 
 **ID:** 8B0EF4DD-3EC7-4959-9528-E93CBFBF7203
+
+Bộ Giao thông vận tải, Bộ Công an, Bộ Quốc phòng, Bộ Khoa học, Công nghệ và Môi trường, Bộ Thủy sản, Bộ Y tế, Bộ Lao động - Thương binh và Xã hội, ủy ban Quốc gia tìm kiếm cứu nạn và ủy ban nhân dân các tỉnh xây dựng phương án huy động lực lượng người và phương tiện vật chất phối hợp tham gia ứng cứu, giải quyết các sự cố, cháy nổ, tai nạn xảy ra trong hoạt động dầu khí và trên các công trình, phương tiện, thiết bị dầu khí tại địa bàn liên quan.
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: cong-nghiep
 
 **ID:** C53FCF08-8689-403A-B7F9-34AD4BEBFFD4
 
+Tổ chức, cá nhân phải áp dụng các biện pháp kỹ thuật tăng cường để nâng cao mức độ an toàn đối với các công trình dầu khí bao gồm:
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400002400
 
 **ID:** 3B3AAF95-18F6-4C93-B22F-EC41251BD280
+
+1. Địa chỉ liên lạc nội bộ trong tình huống khẩn cấp.
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: cong-nghiep
 
 **ID:** 51FF3E4C-216D-443B-B474-0CD242090C1C
 
+1. Trước khi tiến hành khoan và triển khai các hoạt động tại giếng khoan, tổ chức, cá nhân phải ban hành các hướng dẫn đối với các hoạt động này. Các hướng dẫn đó phải bao gồm toàn bộ về công tác an toàn, các quy trình, các vấn đề về tổ chức và phân công trách nhiệm.
+
 ---
 
 
@@ -2015,6 +2378,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000300002400000000000000000
 
 **ID:** B1AE0134-FED4-444B-9478-85232109434A
+
+1. Tập đoàn Dầu khí Việt Nam có trách nhiệm sau đây:
 
 ---
 
@@ -2027,6 +2392,8 @@ parent: cong-nghiep
 
 **ID:** 5214CB26-BFEA-46E9-B6D2-9F69BFB46D5C
 
+1. Hợp đồng chia sản phẩm dầu khí phải tuân thủ hợp đồng mẫu quy định tại Phụ lục kèm theo Nghị định này.
+
 ---
 
 
@@ -2037,6 +2404,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490002400
 
 **ID:** B481CD66-4557-40EA-B275-303B33975142
+
+1. Trong giai đoạn tìm kiếm thăm dò dầu khí, tổ chức, cá nhân có nghĩa vụ thu dọn công trình dầu khí phục vụ hoạt động tìm kiếm thăm dò dầu khí (giếng khoan, thiết bị, phương tiện khác) khi không còn cần thiết hoặc không sử dụng cho hoạt động dầu khí nữa theo chương trình công tác và ngân sách hàng năm (không phải đóng quỹ).
 
 ---
 
@@ -2049,6 +2418,8 @@ parent: cong-nghiep
 
 **ID:** 7D6CEEEA-D641-4A8C-82E8-59738F197B57
 
+1. Khi có một phần hay toàn bộ giếng được hủy bỏ thì giếng phải được đổ đầy dung dịch có tỷ trọng đủ để đảm bảo khống chế được áp suất tồn tại trong thành hệ trước khi tiến hành các thao tác hủy bỏ giếng.
+
 ---
 
 
@@ -2059,6 +2430,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802527801765502400
 
 **ID:** 4955D979-A8AF-48EF-8EA7-57F4CF136935
+
+1. Các khoản thuế tài nguyên, thuế thu nhập doanh nghiệp, phụ thu khi giá dầu thô biến động tăng, VIETSOVPETRO khai, nộp thuế tạm tính theo từng lần xuất bán đối với dầu thô, condensate; theo từng tháng đối với khí thiên nhiên; khai quyết toán theo năm dương lịch hoặc khi kết thúc Hiệp định 2010 và Nghị định thư 2013.
 
 ---
 
@@ -2071,6 +2444,8 @@ parent: cong-nghiep
 
 **ID:** 778B5725-5980-4930-AB4D-4D42D3BDF99C
 
+Trong quá trình hoạt động sản xuất, kinh doanh người nộp thuế phải nộp các loại thuế, phí, lệ phí khác không hướng dẫn cụ thể tại Thông tư này theo các quy định tại các văn bản pháp luật về thuế, phí, lệ phí hiện hành.
+
 ---
 
 
@@ -2081,6 +2456,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030002500
 
 **ID:** C18D387F-3EEE-48D6-AB15-3954CCE2FEB7
+
+Tổng công ty Dầu khí Việt Nam có trách nhiệm :
 
 ---
 
@@ -2093,6 +2470,8 @@ parent: cong-nghiep
 
 **ID:** 92097BE3-4599-4340-9B1F-4EF2C17F2DBF
 
+Tổ chức, cá nhân đánh giá rủi ro đối với các công trình dầu khí tuân theo các quy định của pháp luật hiện hành.
+
 ---
 
 
@@ -2103,6 +2482,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400002500
 
 **ID:** D4890308-CF54-4462-AA98-B4802299B078
+
+1. Huấn luyện
 
 ---
 
@@ -2115,6 +2496,8 @@ parent: cong-nghiep
 
 **ID:** 2BB7DDD0-7C26-4FE8-9870-7E9D8BCBA153
 
+1. Khi chưa hoặc không tiếp tục sử dụng giếng khoan, các biện pháp đóng hoặc hủy giếng phải được thực hiện theo quy định hiện hành.
+
 ---
 
 
@@ -2125,6 +2508,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000300002500000000000000000
 
 **ID:** DDFE9F5A-F6E7-408D-BFD5-72E72720AE85
+
+1. Các bên dự thầu có nghĩa vụ nộp bảo đảm dự thầu theo yêu cầu tại hồ sơ mời thầu.
 
 ---
 
@@ -2137,6 +2522,8 @@ parent: cong-nghiep
 
 **ID:** 08F33B41-3F83-4695-A12D-0550BAEB1469
 
+1. Giai đoạn tìm kiếm thăm dò dầu khí quy định tại khoản 1 Điều 31 Luật Dầu khí có thể được chia thành các giai đoạn thành phần.
+
 ---
 
 
@@ -2147,6 +2534,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490002500
 
 **ID:** 0780F374-3455-4981-8805-854911BEE488
+
+Việc bảo đảm nghĩa vụ tài chính cho việc thu dọn công trình dầu khí được thực hiện theo phương thức lập quỹ bảo đảm nghĩa vụ tài chính, trừ trường hợp áp dụng phương thức đảm bảo nghĩa vụ tài chính cho việc thu dọn công trình dầu khí khác theo quy định tại khoản 2 Điều 2 Quyết định này.
 
 ---
 
@@ -2159,6 +2548,8 @@ parent: cong-nghiep
 
 **ID:** EF323A9F-B400-46A9-8D40-7B6AF710EE3F
 
+1. Xi măng sử dụng để đặt bất kỳ nút xi măng nào trong giếng khoan phải có độ bền nén tối thiểu là 3.000 kPa (435 psi) sau khi đã đông cứng trong khoảng thời gian là 8 giờ.
+
 ---
 
 
@@ -2169,6 +2560,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880257440036550250
 
 **ID:** 299233C4-C7F3-4129-A49B-28CAD89A54F6
+
+1. Thông tư này có hiệu lực từ ngày 12/04/2016, và áp dụng cho kỳ tính thuế từ năm 2016 trở đi và áp dụng đối với các chuyến dầu thô, khí thiên nhiên xuất bán kể từ ngày 01/01/2016.
 
 ---
 
@@ -2181,6 +2574,8 @@ parent: cong-nghiep
 
 **ID:** 37D335A6-D756-4CAB-A6FB-EB248370B16C
 
+Cơ quan thông tin, báo chí Trung ương, địa phương và các ngành liên quan có trách nhiệm tuyên truyền, giáo dục việc chấp hành các quy định về bảo vệ an ninh, an toàn dầu khí.
+
 ---
 
 
@@ -2191,6 +2586,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130002600
 
 **ID:** C38B5EFC-028F-4053-8274-E23DB2DEFA44
+
+1. Tổ chức, cá nhân thiết kế các công trình dầu khí phải tuân thủ các quy định của tiêu chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia về yêu cầu thiết kế, lắp đặt, vận hành và các yêu cầu an toàn liên quan đối với từng đối tượng công trình dầu khí. Tổ chức, cá nhân được áp dụng toàn bộ hay một phần các tiêu chuẩn nước ngoài, tiêu chuẩn quốc tế trong trường hợp chưa có quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia về vấn đề này.
 
 ---
 
@@ -2203,6 +2600,8 @@ parent: cong-nghiep
 
 **ID:** 35927B49-A080-426C-9438-FEC9D0E1CECE
 
+Kế hoạch khôi phục hoạt động của công trình bao gồm công tác điều tra, đánh giá nguyên nhân, hậu quả để tái lập và nâng cao mức an toàn của công trình.
+
 ---
 
 
@@ -2213,6 +2612,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040002600
 
 **ID:** C7F8E2AB-BC6D-43F6-BF5F-69BFBE541C67
+
+Trước khi hoán cải công trình, phải tiến hành đánh giá rủi ro và môi trường lao động để lựa chọn phương án hoán cải. Việc hoán cải công trình không được làm giảm mức độ an toàn và những yêu cầu đối với môi trường lao động. Việc hoán cải công trình phải tuân thủ các Quy chuẩn Kỹ thuật Quốc gia, Tiêu chuẩn Quốc gia, các Điều ước Quốc tế mà Việt Nam là thành viên hoặc các tiêu chuẩn khác phù hợp với thông lệ công nghiệp dầu khí quốc tế được chấp nhận chung.
 
 ---
 
@@ -2225,6 +2626,8 @@ parent: cong-nghiep
 
 **ID:** 43972E0D-4691-409B-8066-D21C3C4C0181
 
+1. Sau khi hoàn thành đàm phán hợp đồng dầu khí, trên cơ sở kết quả lựa chọn nhà thầu đã được phê duyệt, Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương thẩm định, trình Thủ tướng Chính phủ phê duyệt nội dung hợp đồng dầu khí trước khi Tập đoàn Dầu khí Việt Nam ký kết hợp đồng dầu khí.
+
 ---
 
 
@@ -2235,6 +2638,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000310000000000000000000402842600450002600
 
 **ID:** 3725D243-3424-4D5E-82DD-6554217582C2
+
+1. Chậm nhất 01 năm trước ngày kết thúc hợp đồng dầu khí, trên cơ sở đề nghị của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị chấp thuận gia hạn thời hạn của hợp đồng dầu khí. Hồ sơ bao gồm:
 
 ---
 
@@ -2247,6 +2652,8 @@ parent: cong-nghiep
 
 **ID:** 57D8B058-7B0F-41A6-8CA8-6C5BDA0A4A51
 
+1. Trong thời hạn 1 (một) năm, kể từ thời điểm khai thác dòng dầu, khí đầu tiên, tổ chức, cá nhân phải lập quỹ bảo đảm nghĩa vụ tài chính cho hoviệc thu dọn công trình dầu khí trên cơ sở kế hoạch thu dọn công trình dầu khí đã được phê duyệt.
+
 ---
 
 
@@ -2257,6 +2664,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170002600
 
 **ID:** C26076A6-1559-4900-9324-9D53B40CF5D2
+
+1. Người điều hành phải đảm bảo rằng sau khi hủy bỏ một giếng khoan thì khu vực đáy biển xung quanh miệng giếng khoan phải được khảo sát cẩn thận để đảm bảo chắc chắn rằng toàn bộ các vật cản được dọn sạch.
 
 ---
 
@@ -2269,6 +2678,8 @@ parent: cong-nghiep
 
 **ID:** 2C85F13D-25F7-40A4-B62F-6F244C66447C
 
+Tổ chức, cá nhân tiến hành hoạt động dầu khí và các lực lượng có trách nhiệm tham gia bảo vệ an ninh, an toàn dầu khí phải bảo đảm thông tin liên lạc thông suốt, kịp thời và thực hiện nghiêm chỉnh chế độ báo cáo về tình hình, công tác bảo vệ an ninh, an toàn dầu khí theo quy định.
+
 ---
 
 
@@ -2279,6 +2690,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130002700
 
 **ID:** 407A25A8-169D-4C93-A7E8-589CA8973DC0
+
+1. Tổ chức, cá nhân thi công công trình dầu khí được phép triển khai khi khoảng cách an toàn đã được xác lập theo Nghị định này trừ trường hợp xử lý sự cố khẩn cấp.
 
 ---
 
@@ -2291,6 +2704,8 @@ parent: cong-nghiep
 
 **ID:** CC7D5A27-1FE0-4272-A46F-AD80F0D2C34A
 
+1. Bộ trưởng Bộ Công Thương ủy quyền Cục trưởng Cục Kỹ thuật an toàn và Môi trường công nghiệp chấp thuận tài liệu về quản lý an toàn của các tổ chức, cá nhân có hoạt động dầu khí.
+
 ---
 
 
@@ -2301,6 +2716,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040002700
 
 **ID:** DB330B45-1A09-4AB9-BB12-A7B5F3A33DC7
+
+1. Khi tiến hành các hoạt động lặn, tổ chức, cá nhân phải bảo đảm mọi hoạt động lặn được tiến hành một cách an toàn và do người được đào tạo, có sức khỏe phù hợp thực hiện. Trong quá trình tiến hành các hoạt động lặn công tác cứu hộ, cấp cứu phải luôn ở trạng thái sẵn sàng hoạt động.
 
 ---
 
@@ -2313,6 +2730,8 @@ parent: cong-nghiep
 
 **ID:** 2F4CA2EF-2505-411A-9FE4-1111FE333084
 
+1. Trên cơ sở hợp đồng dầu khí đã được ký kết, Bộ Công Thương cấp giấy chứng nhận đăng ký đầu tư cho nhà thầu thực hiện hoạt động dầu khí.
+
 ---
 
 
@@ -2323,6 +2742,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000310000000000000000000402842600450002700
 
 **ID:** 3843BF9A-2018-4893-ACDA-DD4E83C013BB
+
+1. Chậm nhất 60 ngày trước ngày kết thúc giai đoạn tìm kiếm thăm dò dầu khí hoặc 01 năm trước ngày kết thúc hợp đồng dầu khí, trên cơ sở đề nghị của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị gia hạn thời hạn tìm kiếm thăm dò dầu khí hoặc gia hạn thời hạn hợp đồng dầu khí trong trường hợp đặc biệt để thẩm định. Hồ sơ bao gồm:
 
 ---
 
@@ -2335,6 +2756,8 @@ parent: cong-nghiep
 
 **ID:** C1A44B14-EB30-47B1-893E-974C4713390C
 
+Việc trích lập, điều chỉnh và quyết toán quỹ bảo đảm nghĩa vụ tài chính được thực hiện theo quy định tại Điều 77, Điều 78 và Điều 79 Nghị định số 95/2015/NĐ-CP ngày 16 tháng 10 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Dầu khí.
+
 ---
 
 
@@ -2345,6 +2768,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880252780176550270
 
 **ID:** 5EBB4124-4951-4487-B887-720EC2B6656B
+
+Thông tư này có hiệu lực từ ngày 01 tháng 01 năm 2015 và thay thế Thông tư số 155/2011/TT-BTC ngày 11/11/2011, Thông tư số 191/2012/TT-BTC ngày 12/11/2012 của Bộ Tài chính.
 
 ---
 
@@ -2357,6 +2782,8 @@ parent: cong-nghiep
 
 **ID:** 3F5EE1BC-A9EF-4484-84DB-C3113AB74754
 
+Khi áp dụng phương pháp cắt đầu giếng và ống chống bằng vật liệu nổ chuyên dụng; giải pháp kỹ thuật mới; vật liệu mới để bảo quản và hủy bỏ giếng; gia hạn thời hạn bảo quản giếng, Người điều hành phải có tài liệu chứng minh phương án, giải pháp kỹ thuật, đánh giá rủi ro và thỏa mãn các yêu cầu về an toàn, bảo vệ môi trường theo pháp luật Việt Nam và thông lệ công nghiệp dầu khí quốc tế để các cơ quan có thẩm quyền Việt Nam xem xét chấp thuận theo quy định tại Quyết định số 04/2015/QĐ-TTg ngày 20 tháng 01 năm 2015 và Quyết định số 49/2017/QĐ-TTg ngày 21 tháng 12 năm 2017 của Thủ tướng Chính phủ.
+
 ---
 
 
@@ -2367,6 +2794,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030002800
 
 **ID:** 234E73C2-9D14-42D9-8D21-9E929F78D782
+
+Các Bộ, ngành có chức năng quản lý Nhà nước trong lĩnh vực bảo vệ an ninh, an toàn dầu khí có trách nhiệm kiểm tra, giám sát hoạt động của các tổ chức, cá nhân trong nước và nước ngoài tiến hành hoạt động dầu khí nhằm bảo đảm việc tuân thủ pháp luật và các quy định của Nhà nước về an ninh, an toàn dầu khí.
 
 ---
 
@@ -2379,6 +2808,8 @@ parent: cong-nghiep
 
 **ID:** F13835A6-93DC-4F65-92D6-E0485EA8AF50
 
+1. Chủ đầu tư công trình có trách nhiệm thông báo cho các cơ quan nhà nước có thẩm quyền về người vận hành công trình dầu khí.
+
 ---
 
 
@@ -2389,6 +2820,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400002800
 
 **ID:** A160CCEA-0210-433D-854F-CE789491E3FD
+
+1. Chủ trì thẩm định, chấp thuận tài liệu về quản lý an toàn của các tổ chức, cá nhân có hoạt động dầu khí có các công trình quy định tại Phụ lục I Thông tư này.
 
 ---
 
@@ -2401,6 +2834,8 @@ parent: cong-nghiep
 
 **ID:** 6D6C0710-B5A6-462C-93A1-7F5A2C86ACF8
 
+1. Tổ chức, cá nhân phải cung cấp các phương tiện cần thiết và an toàn để vận chuyển người, hàng hóa.
+
 ---
 
 
@@ -2411,6 +2846,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000400002800000000000000000
 
 **ID:** AE1A910B-A1E7-4873-B01F-64FEE48CEF54
+
+1. Việc điều chỉnh nội dung của hợp đồng dầu khí do Thủ tướng Chính phủ phê duyệt trên cơ sở đề xuất của Tập đoàn Dầu khí Việt Nam và báo cáo thẩm định của Bộ Công Thương.
 
 ---
 
@@ -2423,6 +2860,8 @@ parent: cong-nghiep
 
 **ID:** 22E75AF6-29C6-4B87-BFA1-85FD00007D8E
 
+1. Chậm nhất 90 ngày kể từ ngày tuyên bố phát hiện thương mại, trên cơ sở đề nghị của nhà thâu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị chấp thuận giữ lại diện tích phát hiện khí trong thời hạn không quá 05 năm. Hồ sơ bao gồm:
+
 ---
 
 
@@ -2433,6 +2872,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490002800
 
 **ID:** B856CC7D-6DEA-4BF4-8F2C-C1398EAD699A
+
+Mức trích lập quỹ bảo đảm nghĩa vụ tài chính hàng năm cho việc thu dọn công trình dầu khí được xác định theo công thức sau:
 
 ---
 
@@ -2445,6 +2886,8 @@ parent: cong-nghiep
 
 **ID:** 05A65EE0-4E8B-4FF2-94C5-948F069E1D6B
 
+Trường hợp công tác bảo quản và hủy bỏ giếng đã được phê duyệt và triển khai thực hiện trước ngày Thông tư này có hiệu lực, Người điều hành, cơ quan, tổ chức, cá nhân tiếp tục thực hiện theo Quy chế bảo quản và hủy bỏ giếng khoan dầu khí ban hành kèm theo Quyết định số 37/2005/QĐ-BCN ngày 25 tháng 11 năm 2005 của Bộ trưởng Bộ Công nghiệp.
+
 ---
 
 
@@ -2455,6 +2898,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030002900
 
 **ID:** A1358D4D-0D65-40CD-BAD1-DD5579214D14
+
+Tổ chức, cá nhân tiến hành hoạt động dầu khí chịu sự thanh tra, kiểm tra của các cơ quan chức năng Nhà nước về việc tuân thủ pháp luật bảo vệ an ninh, an toàn dầu khí và pháp luật có liên quan về thanh tra, kiểm tra.
 
 ---
 
@@ -2467,6 +2912,8 @@ parent: cong-nghiep
 
 **ID:** 16BCB148-C358-4459-A877-B4FCB84BE318
 
+Trong phạm vi khoảng cách an toàn của các công trình dầu khí, không được thực hiện các hoạt động có nguy cơ gây hại trực tiếp hoặc gián tiếp đến hoạt động và sự an toàn của các công trình dầu khí bao gồm:
+
 ---
 
 
@@ -2477,6 +2924,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400002900
 
 **ID:** 9411BD5A-15A3-4585-B2BF-CD21607281B5
+
+1. Các tổ chức, cá nhân hoạt động dầu khí quy định tại khoản 1 Điều 3 có trách nhiệm xây dựng các tài liệu về quản lý an toàn; chịu trách nhiệm trước pháp luật về về tính chính xác của các thông tin, tài liệu và kết quả tính cho quá trình xây dựng các tài liệu về quản lý an toàn; chịu trách nhiệm triển khai các biện pháp, kế hoạch đảm bảo an toàn cho dự án, công trình; tổ chức diễn tập ứng cứu khẩn cấp theo kế hoạch đã nêu trong tài liệu về quản lý an toàn.
 
 ---
 
@@ -2489,6 +2938,8 @@ parent: cong-nghiep
 
 **ID:** CA0C8BF9-2544-4345-9F10-9345CDAD73B5
 
+1. Tổ chức, cá nhân phải ban hành quy định cấp phép làm việc bằng văn bản cho các công việc sinh lửa, làm việc trên cao, trong không gian hạn chế, ra vào khu vực nguy hiểm, các công việc ở các vị trí có thể rơi xuống nước và các công việc nguy hiểm khác, đảm bảo áp dụng các biện pháp phù hợp và có sự giám sát liên tục để tránh xảy ra sự cố, tai nạn.
+
 ---
 
 
@@ -2499,6 +2950,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000400002900000000000000000
 
 **ID:** 96793DDE-C050-4C1E-A79E-7E66892F93AC
+
+1. Hợp đồng chia sản phẩm dầu khí.
 
 ---
 
@@ -2511,6 +2964,8 @@ parent: cong-nghiep
 
 **ID:** BB607E6A-191C-49C6-8E7C-0DF7B98EAFD6
 
+1. Trong trường hợp bất khả kháng, Tập đoàn Dầu khí Việt Nam và nhà thầu thỏa thuận phương thức tạm dừng thực hiện một số quyền và nghĩa vụ trong hợp đồng dầu khí.
+
 ---
 
 
@@ -2521,6 +2976,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490002900
 
 **ID:** 4C9F49D9-48E4-43DB-9F66-6CB746C43C30
+
+1. Trước khi chấm dứt khai thác mỏ hoặc chấm dứt hợp đồng dầu khí trước thời hạn, tổ chức, cá nhân phải có nghĩa vụ trích lập đủ quỹ theo quy định của Quyết định này.
 
 ---
 
@@ -2533,6 +2990,8 @@ parent: cong-nghiep
 
 **ID:** 77367792-9C63-43E3-A83B-8FF1C14AFF5E
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2020 và Quyết định số 37/2005/QĐ-BCN ngày 25 tháng 11 năm 2005 của Bộ trưởng Bộ Công nghiệp ban hành Quy chế bảo quản và hủy bỏ giếng khoan dầu khí hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
+
 ---
 
 
@@ -2543,6 +3002,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000300000000000000000
 
 **ID:** 78D82203-4C8A-4E5A-8A24-1AA384FD488F
+
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -2555,6 +3016,8 @@ parent: cong-nghiep
 
 **ID:** A8DF044E-33B2-4947-AF5F-3C8902E917E7
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2565,6 +3028,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000380273470017000030
 
 **ID:** E5D9F82C-CE72-417C-818E-C50758A21D8D
+
+Trong Thông tư này những từ ngữ dưới đây được hiểu như sau:
 
 ---
 
@@ -2577,6 +3042,8 @@ parent: cong-nghiep
 
 **ID:** 8122D3AF-78D4-463C-A37F-1065205F2A52
 
+Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -2587,6 +3054,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030000300
 
 **ID:** 908DE0A3-AB1C-47BD-B925-FBFA5DB809DC
+
+1. Bảo vệ an ninh, an toàn dầu khí là nghĩa vụ và trách nhiệm của tổ chức, cá nhân tiến hành hoạt động dầu khí, của các cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức kinh tế, đơn vị lực lượng vũ trang và mọi công dân.
 
 ---
 
@@ -2599,6 +3068,8 @@ parent: cong-nghiep
 
 **ID:** E06B68EF-5EBD-4661-A2EC-6CD73E72B85D
 
+1. Tổ chức, cá nhân phải đảm bảo tất cả các hoạt động dầu khí được thực hiện một cách an toàn theo các quy định tại Quyết định này và của pháp luật liên quan, kể cả trong trường hợp tổ chức, cá nhân thuê các nhà thầu thực hiện công việc của mình.
+
 ---
 
 
@@ -2609,6 +3080,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000020000100000000000000000000402842600450000300
 
 **ID:** 5AB329C2-13F9-4FBE-8BA2-5568057FC52D
+
+1. Danh mục đề án điều tra cơ bản về dầu khí được xây dựng và phê duyệt cho giai đoạn 05 năm phù hợp với chiến lược, quy hoạch và kế hoạch thực hiện quy hoạch về năng lượng, tài nguyên khoáng sản; được rà soát, cập nhật hằng năm.
 
 ---
 
@@ -2621,6 +3094,8 @@ parent: cong-nghiep
 
 **ID:** BA2D0C19-7B1E-46C0-9974-093206935DFE
 
+Áp dụng mức thu phụ thu lũy tiến từng phần và cách tính thu phụ thu như sau:
+
 ---
 
 
@@ -2631,6 +3106,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490000300
 
 **ID:** 9B560990-7193-43E8-8367-04ECFB20A9F1
+
+1. Tổ chức, cá nhân có trách nhiệm thu dọn công trình dầu khí theo kế hoạch thu dọn công trình dầu khí được Bộ Công Thương phê duyệt và phải tuân thủ quy định tại Quyết định này và văn bản pháp luật có liên quan. Trường hợp kế hoạch thu dọn công trình dầu khí đã được phê duyệt nhưng Bộ Công Thương yêu cầu không thu dọn toàn bộ hoặc một phần công trình dầu khí thì tổ chức, cá nhân thực hiện theo yêu cầu đó.
 
 ---
 
@@ -2643,6 +3120,8 @@ parent: cong-nghiep
 
 **ID:** D18D7448-9549-4129-90B5-56B98C26F9E2
 
+1. Người nộp thuế là Liên doanh Việt-Nga “Vietsovpetro” (sau đây gọi chung là VIETSOVPETRO).
+
 ---
 
 
@@ -2653,6 +3132,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006850213900046000030
 
 **ID:** FD7740CF-93D6-4EE2-9B6B-4F4EBE502807
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng quản trị và Tổng giám đốc Tổng công ty Dầu khí Việt Nam và các tổ chức liên quan chịu trách nhiệm thi hành Quyết định này.
 
 ---
 
@@ -2665,6 +3146,8 @@ parent: cong-nghiep
 
 **ID:** 1DE3E29E-34F1-4B04-9980-35CDB845A054
 
+1. Giao Bộ Công thương hướng dẫn và tổ chức thực hiện Quyết định này.
+
 ---
 
 
@@ -2675,6 +3158,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880192130395000030
 
 **ID:** 2B66FDD2-4A69-4594-8D22-7F8266422E92
+
+Quyết định này có hiệu lực sau 30 ngày kể từ ngày ký.
 
 ---
 
@@ -2687,6 +3172,8 @@ parent: cong-nghiep
 
 **ID:** 9255B257-7766-48E9-89DF-AD8AA3DB9094
 
+Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
 ---
 
 
@@ -2697,6 +3184,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030003000
 
 **ID:** DBE8F1CF-7A8E-47E2-8DD9-5F61743C5C26
+
+Tổ chức, cá nhân có thành tích trong việc bảo vệ an ninh, an toàn dầu khí hoặc có công phát hiện, ngăn chặn những hành vi vi phạm an ninh, an toàn dầu khí; hạn chế những thiệt hại về người, tài sản và công trình dầu khí, được khen thưởng theo quy định của pháp luật.
 
 ---
 
@@ -2709,6 +3198,8 @@ parent: cong-nghiep
 
 **ID:** 63B91613-F3A8-4BD6-9C01-163F9531DFFA
 
+1. Chủ đầu tư công trình dầu khí phải đặt biển cấm, biển báo theo quy chuẩn và tiêu chuẩn hiện hành.
+
 ---
 
 
@@ -2719,6 +3210,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040003000
 
 **ID:** 02EC183C-9C65-4CF6-A30A-E1849A84291B
+
+1. Công trình dầu khí ngoài khơi có người làm việc thường xuyên phải có tàu trực liên tục và đảm bảo ứng cứu kịp thời trong các tình huống khẩn cấp.
 
 ---
 
@@ -2731,6 +3224,8 @@ parent: cong-nghiep
 
 **ID:** BB4594F3-61C4-4097-BAA1-C8293791E553
 
+1. Nội dung chính của hợp đồng chia sản phẩm dầu khí bao gồm:
+
 ---
 
 
@@ -2741,6 +3236,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000310000000000000000000402842600450003000
 
 **ID:** 83C8F9A9-68EA-4894-9B49-4A131A44C88E
+
+1. Căn cứ tình hình thực tế và báo cáo của các cơ quan có thẩm quyền về quốc phòng, an ninh, để đảm bảo môi trường hòa bình, ổn định và lợi ích quốc gia, dân tộc, Thủ tướng Chính phủ quyết định tạm dừng thực hiện một số quyền và nghĩa vụ trong hợp đồng dầu khí vì lý do quốc phòng, an ninh theo quy định tại khoản 7 Điều 31 Luật Dầu khí và giao Tập đoàn Dầu khí Việt Nam thông báo cho nhà thầu.
 
 ---
 
@@ -2753,6 +3250,8 @@ parent: cong-nghiep
 
 **ID:** 452229DC-2B16-487C-ABC8-A70674B11175
 
+Đồng tiền trích lập quỹ bảo đảm nghĩa vụ tài chính là đồng Đô la Mỹ.
+
 ---
 
 
@@ -2763,6 +3262,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006880267210040000300
 
 **ID:** 4543BE70-510A-457B-9FC8-D7C54F3534CE
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày tháng năm 2018.
 
 ---
 
@@ -2775,6 +3276,8 @@ parent: cong-nghiep
 
 **ID:** FA3BDFC1-44A2-4E1B-8B35-6357842D7F56
 
+1. Trách nhiệm quản lý nhà nước của Bộ Công Thương
+
 ---
 
 
@@ -2785,6 +3288,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040003100
 
 **ID:** 81D30E8E-106A-46E5-9805-9A42524B3E04
+
+1. Vùng an toàn xung quanh công trình dầu khí phải được thiết lập và bảo vệ bằng các biện pháp cần thiết.
 
 ---
 
@@ -2797,6 +3302,8 @@ parent: cong-nghiep
 
 **ID:** 49905332-114D-4376-B258-687EDD603290
 
+1. Thời hạn hợp đồng dầu khí không quá 30 năm, trong đó thời hạn của giai đoạn tìm kiếm thăm dò dầu khí không quá 05 năm, trừ trường hợp quy định tại khoản 2 Điều này.
+
 ---
 
 
@@ -2807,6 +3314,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000320000000000000000000402842600450003100
 
 **ID:** E95ECD74-878D-428D-B822-7D7BE62DAEDD
+
+1. Nhà thầu phải hoàn trả diện tích không nhỏ hơn 20% diện tích hợp đồng dầu khí ban đầu vào cuối mỗi giai đoạn thành phần của giai đoạn tìm kiếm thăm dò dầu khí trừ các diện tích phát triển mỏ dầu khí và diện tích được giữ lại hoặc tạm hoãn nghĩa vụ hoàn trả theo quy định tại khoản 3 Điều 32 Luật Dầu khí.
 
 ---
 
@@ -2819,6 +3328,8 @@ parent: cong-nghiep
 
 **ID:** 05E53B97-A675-4130-9519-7A4383CFC993
 
+1. Việc quản lý quỹ bảo đảm nghĩa vụ tài chính cho việc thu dọn công trình dầu khí do Tập đoàn Dầu khí Việt Nam thực hiện.
+
 ---
 
 
@@ -2829,6 +3340,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006840205810003000310
 
 **ID:** 2211D89B-D419-48A7-A85D-022D9A45EB1C
+
+Nghị định này có hiệu lực sau 15 ngày, kể từ ngày ký. Bộ Công an, Bộ Quốc phòng và các cơ quan quản lý nhà nước liên quan có trách nhiệm hướng dẫn thi hành Nghị định này trong phạm vi chức năng, quyền hạn của mình.
 
 ---
 
@@ -2841,6 +3354,8 @@ parent: cong-nghiep
 
 **ID:** 7B881AC8-A125-4F92-9CA0-589985BE17B5
 
+1. Chỉ đạo, phối hợp với chủ đầu tư công trình dầu khí trong việc tổ chức tuyên truyền phổ biến pháp luật, nâng cao ý thức trách nhiệm về bảo vệ an toàn các công trình dầu khí.
+
 ---
 
 
@@ -2851,6 +3366,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040003200
 
 **ID:** F4B5293F-223C-4395-8C7B-036E5BE22BE0
+
+1. Bộ Công Thương chủ trì, phối hợp với các cơ quan có liên quan thực hiện kiểm tra an toàn đối với tổ chức, cá nhân hoạt động dầu khí.
 
 ---
 
@@ -2863,6 +3380,8 @@ parent: cong-nghiep
 
 **ID:** BCEAF3E5-3286-4EAC-9DEC-4B56184E8ADE
 
+1. Diện tích hợp đồng dầu khí bao gồm diện tích của một hoặc nhiều lô dầu khí được quy định trong hợp đồng dầu khí.
+
 ---
 
 
@@ -2873,6 +3392,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000320000000000000000000402842600450003200
 
 **ID:** B5319C35-7C37-4BD6-BD61-D27CF2B8B5F8
+
+1. Căn cứ quy định tại khoản 4 và khoản 5 Điều 32 Luật Dầu khí, trên cơ sở đề nghị của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt mở rộng diện tích hợp đồng dầu khí hoặc hợp nhất phát hiện dầu khí, mỏ dầu khí để thẩm định. Hồ sơ bao gồm:
 
 ---
 
@@ -2885,6 +3406,8 @@ parent: cong-nghiep
 
 **ID:** 5404839D-83AE-4368-B280-A70C1FF9B3D2
 
+1. Quỹ được sử dụng cho mục đích thu dọn công trình dầu khí.
+
 ---
 
 
@@ -2895,6 +3418,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006840205810003000320
 
 **ID:** DF4A12A9-856D-49AE-A6D0-A0E8FA905958
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng quản trị và Tổng giám đốc Tổng công ty Dầu khí Việt Nam chịu trách nhiệm thi hành Nghị định này.
 
 ---
 
@@ -2907,6 +3432,8 @@ parent: cong-nghiep
 
 **ID:** EF16461C-812A-40B5-9381-3C78085DA3E8
 
+1. Khi xây dựng công trình đường ống dẫn dầu khí có cắt chéo với công trình hiện hữu, chủ đầu tư phải có phương án thiết kế và biện pháp thi công phù hợp tại khu vực cắt chéo, đáp ứng các tiêu chuẩn cần thiết nhằm đảm bảo an toàn cho công trình hiện hữu cũng như đường ống dẫn dầu khí trong quá trình vận hành và được chủ đầu tư công trình hiện hữu chấp thuận trước khi thi công tại khu vực cắt chéo. Trường hợp phương án thiết kế và biện pháp thi công tại khu vực cắt chéo đã phù hợp mà vẫn không được chủ đầu tư công trình hiện hữu chấp thuận thi công thì chủ đầu tư công trình báo cáo Ủy ban nhân dân tỉnh xem xét, giải quyết.
+
 ---
 
 
@@ -2917,6 +3444,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040003300
 
 **ID:** 3A48E968-E3CB-42D8-AACD-3DAA83D442D7
+
+1. Tổ chức, cá nhân tiến hành các hoạt động dầu khí phải thực hiện khai báo, điều tra, thống kê, báo cáo sự cố, tai nạn theo quy định của pháp luật.
 
 ---
 
@@ -2929,6 +3458,8 @@ parent: cong-nghiep
 
 **ID:** FE0B4183-0C1F-4AA8-AB6A-3F29F8FD9322
 
+Các bên tham gia hợp đồng dầu khí có thể thỏa thuận mức thu hồi chi phí của nhà thầu trong hợp đồng dầu khí theo quy định sau đây:
+
 ---
 
 
@@ -2939,6 +3470,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000360000000000000000000402842600450003300
 
 **ID:** F50BF0BA-D171-48CA-97E6-2D77DC999817
+
+1. Căn cứ khoản 1 Điều 36 Luật Dầu khí, trên cơ sở đề nghị của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt chuyển nhượng quyền và nghĩa vụ trong hợp đồng dầu khí để thẩm định. Hồ sơ bao gồm:
 
 ---
 
@@ -2951,6 +3484,8 @@ parent: cong-nghiep
 
 **ID:** 0257B56C-8BEF-4C93-A939-698608114F21
 
+1. Trường hợp quỹ bảo đảm nghĩa vụ tài chính lớn hơn chi phí thu dọn thực hiện, Tập đoàn Dầu khí Việt Nam có trách nhiệm thực hiện các nghĩa vụ tài chính, phân bổ theo quy định của pháp luật.
+
 ---
 
 
@@ -2961,6 +3496,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130003400
 
 **ID:** 9F1B1C72-007D-4FCD-87E9-B6DA91634455
+
+1. Khi xây dựng các công trình giao thông đường sắt, đường bộ, kênh dẫn nước, cáp ngầm, đường ống cấp thoát nước và các công trình khác cắt qua phạm vi an toàn của các công trình dầu khí hiện hữu, chủ đầu tư công trình phải có phương án thiết kế và biện pháp thi công phù hợp tại khu vực cắt chéo được chủ đầu tư công trình dầu khí hiện hữu chấp thuận về việc thi công tại khu vực cắt chéo.
 
 ---
 
@@ -2973,6 +3510,8 @@ parent: cong-nghiep
 
 **ID:** A0B29970-9C82-4929-B13A-6D8E7924C28A
 
+1. Tổ chức, cá nhân phải thống kê, tổng hợp, lưu giữ các tài liệu và trình nộp, báo cáo theo quy định tại Quyết định này.
+
 ---
 
 
@@ -2983,6 +3522,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000400003400000000000000000
 
 **ID:** 39DB4CE5-EE0D-452C-A179-2CB9EC113927
+
+Ngôn ngữ sử dụng trong hợp đồng dầu khí và các tài liệu kèm theo hợp đồng là tiếng Việt và tiếng Anh hoặc một tiếng nước ngoài thông dụng khác do các bên thỏa thuận. Bản tiếng Việt và tiếng Anh hoặc bản tiếng nước ngoài thông dụng khác có giá trị pháp lý ngang nhau.
 
 ---
 
@@ -2995,6 +3536,8 @@ parent: cong-nghiep
 
 **ID:** DD552784-758A-463B-964D-10E5B49959F2
 
+1. Căn cứ quy định tại khoản 1, khoản 2 Điều 39 Luật Dầu khí, trên cơ sở các điều kiện được thỏa thuận giữa nhà thầu và Tập đoàn Dầu khí Việt Nam, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt thực hiện quyền tham gia vào hợp đồng dầu khí hoặc quyền ưu tiên mua trước quyền lợi tham gia mà nhà thầu có ý định chuyển nhượng trong hợp đồng dầu khí đã được ký kết hoặc tiếp nhận toàn bộ quyền lợi của nhà thầu trong trường hợp nhà thầu quyết định rút khỏi hợp đồng dầu khí vì lý do đặc biệt để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3005,6 +3548,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490003400
 
 **ID:** E684682A-788A-422C-BADD-45CCEC49540D
+
+1. Việc bảo đảm nghĩa vụ tài chính cho việc thu dọn công trình khí được thực hiện theo phương thức lập quỹ bảo đảm nghĩa vụ tài chính.
 
 ---
 
@@ -3017,6 +3562,8 @@ parent: cong-nghiep
 
 **ID:** C66F25B7-1ADB-41DB-9C54-53AC85CE6651
 
+1. Phối hợp với chủ đầu tư công trình dầu khí trong việc bồi thường giải phóng mặt bằng hoặc cho thuê mướn đất đai trong quá trình thi công xây lắp, vận hành và bảo dưỡng sửa chữa công trình.
+
 ---
 
 
@@ -3027,6 +3574,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000400003500000000000000000
 
 **ID:** 39AEE947-06DC-4A81-995A-B4563177101B
+
+1. Hợp đồng dầu khí chấm dứt hiệu lực theo quy định tại hợp đồng dầu khí hoặc kết thúc thời hạn hợp đồng dầu khí nhưng không được gia hạn theo quy định tại khoản 3 và khoản 4 Điều 31 của Luật này.
 
 ---
 
@@ -3039,6 +3588,8 @@ parent: cong-nghiep
 
 **ID:** E7FBEAB0-B843-464D-991C-89BCE68AFD8E
 
+1. Trong thời hạn 60 ngày kể từ ngày giấy chứng nhận đăng ký đầu tư có hiệu lực, người điều hành nộp 01 bộ hồ sơ gốc đăng ký thành lập văn phòng điều hành đến Sở Kế hoạch và Đầu tư nơi đặt văn phòng điều hành. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3049,6 +3600,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490003500
 
 **ID:** 38CB3408-A0F3-4C03-86A7-3D9BE913D27B
+
+Trong thời hạn 1 (một) năm, kể từ ngày vận chuyển hoặc xử lý dòng khí đầu tiên, tổ chức, cá nhân bắt đầu trích quỹ bảo đảm nghĩa vụ tài chính hoặc ngay sau khi kế hoạch thu dọn công trình khí được phê duyệt.
 
 ---
 
@@ -3061,6 +3614,8 @@ parent: cong-nghiep
 
 **ID:** 38664F5C-64B5-4786-939C-84836C9DF837
 
+1. Bộ Công Thương có trách nhiệm
+
 ---
 
 
@@ -3071,6 +3626,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000400003600000000000000000
 
 **ID:** 642B9672-1E7A-4FD0-A0DE-5A3CACF8AAB2
+
+1. Nhà thầu có quyền chuyển nhượng quyền lợi tham gia, quyền và nghĩa vụ của nhà thầu trong hợp đồng dầu khí. Việc chuyển nhượng toàn bộ hoặc một phần quyền lợi tham gia, quyền và nghĩa vụ của nhà thầu trong hợp đồng dầu khí phải đáp ứng các điều kiện sau đây:
 
 ---
 
@@ -3083,6 +3640,8 @@ parent: cong-nghiep
 
 **ID:** 3A082CA2-40F9-43B6-876B-E0EB021531B0
 
+1. Trường hợp nhà thầu đang thực hiện hợp đồng dầu khí đề xuất ký hợp đồng dầu khí mới khi hợp đồng dầu khí hiện hữu hết thời hạn theo quy định tại khoản 2 Điều 40 Luật Dầu khí, Tập đoàn Dầu khí Việt Nam thực hiện quy trình chỉ định thầu theo quy định tại Điều 21 Luật Dầu khí và Nghị định này. Tập đoàn Dầu khí Việt Nam phê duyệt và phát hành hồ sơ yêu cầu.
+
 ---
 
 
@@ -3093,6 +3652,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490003600
 
 **ID:** B00EB40B-3A68-4DAD-BD37-A770D0A876B8
+
+1. Mức trích lập quỹ bảo đảm nghĩa vụ tài chính cho việc thu dọn công trình khí hàng năm được xác định như sau:
 
 ---
 
@@ -3105,6 +3666,8 @@ parent: cong-nghiep
 
 **ID:** B63A4FFF-D279-42FC-A344-B26479E1C87B
 
+1. Nghị định này có hiệu lực thi hành kể từ ngày 05 tháng 4 năm 2011.
+
 ---
 
 
@@ -3115,6 +3678,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006850253420004000360
 
 **ID:** C3D8C1CB-F0E7-486B-87A5-FF1D2063109D
+
+1. Quyết định này có hiệu lực kể từ ngày 16 tháng 3 năm 2015 và thay thế Quyết định số 41/1999/QĐ-TTg ngày 08 tháng 3 năm 1999 của Thủ tướng Chính phủ ban hành Quy chế Quản lý an toàn trong hoạt động dầu khí.
 
 ---
 
@@ -3127,6 +3692,8 @@ parent: cong-nghiep
 
 **ID:** F5F87309-8B86-4A6F-827E-3A3B88EBF630
 
+Các tranh chấp phát sinh từ hợp đồng dầu khí trước hết phải được giải quyết thông qua thương lượng, hòa giải. Trường hợp không thương lượng, hòa giải được thì tranh chấp có thể giải quyết tại Trọng tài hoặc Tòa án được quy định trong hợp đồng dầu khí phù hợp với quy định của Luật Đầu tư và luật khác có liên quan.
+
 ---
 
 
@@ -3137,6 +3704,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000410000000000000000000402842600450003700
 
 **ID:** 8E072D7C-69A1-484A-82D7-D89815F9EFAC
+
+Cơ chế tài chính điều hành hoạt động dầu khí trong giai đoạn từ khi tiếp nhận mỏ, cụm mỏ, lô dầu khí đến khi hợp đồng dầu khí mới được ký kết theo quy định tại khoản 3 Điều 41 Luật Dầu khí và điểm b khoản 7 Điều 36 Nghị định này được thực hiện như sau: chênh lệch giữa doanh thu và chi phí thực hiện hoạt động dầu khí (bao gồm cả khoản trích nộp quy bảo đảm nghĩa vụ tài chính cho hoạt động thu dọn công trình dầu khí, nếu cần thiết) được nộp vào ngân sách nhà nước trên nguyên tắc bảo đảm hiệu quả và kiểm soát chặt chẽ chi phí hoạt động dầu khí. Chi phí thực hiện hoạt động dầu khí trong trường hợp này là các chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp theo quy định của pháp luật về thuế thu nhập doanh nghiệp, pháp luật về dầu khí, các văn bản quy phạm pháp luật có liên quan và các điều ước quốc tế mà Việt Nam là thành viên. Cơ chế tài chính điều hành hoạt động dầu khí trong khi chờ hợp đồng dầu khí mới được ký kết bao gồm các nội dung chính sau:
 
 ---
 
@@ -3149,6 +3718,8 @@ parent: cong-nghiep
 
 **ID:** 6D01E855-A9BD-4E95-B200-42ABA4CB522F
 
+1. Tổ chức, cá nhân sở hữu công trình khí chịu trách nhiệm trích lập, quản lý và sử dụng quỹ bảo đảm nghĩa vụ tài chính theo kế hoạch thu dọn được phê duyệt. Trong trường hợp công trình khí được để lại theo quy định tại Điều 23 Quyết định này, tổ chức, cá nhân sở hữu công trình khí được ghi nhận số dư quỹ bảo đảm nghĩa vụ tài chính đó vào thu nhập của tổ chức, cá nhân.
+
 ---
 
 
@@ -3159,6 +3730,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006840239030013000370
 
 **ID:** BED16F58-4DE5-4624-BCE6-96A8C8B0289E
+
+1. Bộ Công Thương có trách nhiệm hướng dẫn thi hành Nghị định này.
 
 ---
 
@@ -3171,6 +3744,8 @@ parent: cong-nghiep
 
 **ID:** 47C9E069-89C2-4B1E-8396-9329C3576D87
 
+1. Người điều hành nước ngoài phải thành lập văn phòng điều hành tại Việt Nam để thực hiện hợp đồng dầu khí. Văn phòng điều hành có con dấu, được mở tài khoản, được tuyển dụng lao động và thực hiện các quyền và nghĩa vụ trong phạm vi được ủy quyền quy định tại hợp đồng dầu khí, thỏa thuận điều hành của các nhà thầu và theo quy định của pháp luật Việt Nam.
+
 ---
 
 
@@ -3181,6 +3756,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000390000000000000000000402842600450003800
 
 **ID:** CEECC4B8-1B81-460F-AB88-DF2C839B5313
+
+1. Trường hợp nhà thầu quyết định rút khỏi hợp đồng dầu khí vì lý do đặc biệt quy định tại khoản 2 Điều 39 Luật Dầu khí, Tập đoàn Dầu khí Việt Nam tiếp nhận toàn bộ quyền lợi tham gia của nhà thầu trong hợp đồng dầu khí và tiếp nhận nguyên trạng thông tin, dữ liệu, tài liệu, mẫu vật, công trình dầu khí và tài sản khác (nếu có) theo thỏa thuận ký với nhà thầu.
 
 ---
 
@@ -3193,6 +3770,8 @@ parent: cong-nghiep
 
 **ID:** 798A5558-914F-46F2-B003-8A8CF44D19FF
 
+1. Quỹ được sử dụng cho mục đích thu dọn công trình khí. Tổ chức, cá nhân được sử dụng số tiền trong quỹ để thực hiện nghĩa vụ thu dọn theo kế hoạch thu dọn công trình khí đã được phê duyệt.
+
 ---
 
 
@@ -3203,6 +3782,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402842600450003900
 
 **ID:** 312C5BC4-4A7B-4073-9CA2-0BD6FB2993DB
+
+1. Khi tiến hành hoạt động dầu khí, nhà thầu có trách nhiệm xây dựng các tài liệu về quản lý an toàn theo quy định tại điểm a khoản 4 Điều 8 Luật Dầu khí bao gồm:
 
 ---
 
@@ -3215,6 +3796,8 @@ parent: cong-nghiep
 
 **ID:** 3F4DE9F2-662F-40AE-BC62-0934CB707468
 
+1. Tập đoàn Dầu khí Việt Nam được thực hiện quyền tham gia vào hợp đồng dầu khí; quyền ưu tiên mua trước một phần hoặc toàn bộ phần quyền lợi tham gia mà nhà thầu có ý định chuyển nhượng trong hợp đồng dầu khí đã được ký kết, trên cơ sở các điều kiện chuyển nhượng đã được thỏa thuận giữa bên có ý định chuyển nhượng với bên nhận chuyển nhượng tiềm năng.
+
 ---
 
 
@@ -3225,6 +3808,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490003900
 
 **ID:** 988F8A0E-3582-46CE-819A-599434E056D8
+
+Đồng tiền trích lập quỹ bảo đảm nghĩa vụ tài chính là Việt Nam Đồng.
 
 ---
 
@@ -3237,6 +3822,8 @@ parent: cong-nghiep
 
 **ID:** FEE11728-68DE-4B33-BB8C-A11F11E51554
 
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -3247,6 +3834,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000400000000000000000
 
 **ID:** 95377621-E187-4727-9A55-2282020FE3A4
+
+1. Trường hợp có quy định khác nhau giữa Luật Dầu khí và luật khác về cùng một vấn đề cụ thể liên quan đến điều tra cơ bản về dầu khí và hoạt động dầu khí thì áp dụng Luật Dầu khí, bao gồm:
 
 ---
 
@@ -3259,6 +3848,8 @@ parent: cong-nghiep
 
 **ID:** 9DB2F159-EE5D-4A4C-87BB-CB462CDA537B
 
+1. Mọi tổ chức, cá nhân khi phát hiện dấu hiệu sự cố, sự cố hoặc các hành vi xâm phạm an ninh, an toàn dầu khí phải tìm cách ngăn chặn và báo ngay cho cơ quan công an, quân đội, chính quyền địa phương, hoặc cơ quan, tổ chức khác nơi gần nhất để kịp thời xử lý, ngăn ngừa thiệt hại.
+
 ---
 
 
@@ -3269,6 +3860,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130000400
 
 **ID:** 05149F8A-4AA2-498F-8CF8-4B978138FD29
+
+Tổ chức, cá nhân sử dụng mức rủi ro chấp nhận được theo quy định của pháp luật hiện hành trong đánh giá định lượng rủi ro để phân tích, đánh giá rủi ro tổng thể trong giai đoạn thiết kế kỹ thuật, xây dựng, lắp đặt thiết bị, vận hành, nâng cấp, hoán cải, tháo dỡ, hủy bỏ công trình.
 
 ---
 
@@ -3281,6 +3874,8 @@ parent: cong-nghiep
 
 **ID:** 376CF23F-B4EC-4E08-B5B7-714E8C77A64F
 
+1. Chương trình quản lý an toàn được thực hiện:
+
 ---
 
 
@@ -3291,6 +3886,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040000400
 
 **ID:** BDBCF4A7-8325-4CA0-8AE1-77630F127E5E
+
+1. Tổ chức, cá nhân có trách nhiệm xây dựng các tài liệu về quản lý an toàn sau:
 
 ---
 
@@ -3303,6 +3900,8 @@ parent: cong-nghiep
 
 **ID:** BB4D2E51-EC65-4C39-9202-1E3C56A79FB3
 
+Tổ chức chủ trì thực hiện điều tra cơ bản về dầu khí phải có đủ năng lực tài chính, kỹ thuật và kinh nghiệm trong điều tra cơ bản về dầu khí, đáp ứng các điều kiện sau:
+
 ---
 
 
@@ -3313,6 +3912,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000040000300000000000000000000402343801000000400
 
 **ID:** 80781934-5DDE-4EB1-BB1D-22C641572257
+
+1. Đối với dự án dầu khí khuyến khích đầu tư, mức phụ thu là 30% áp dụng đối với sản lượng dầu lãi được chia theo quý của nhà thầu khi giá bán dầu thô trung bình của quý thực tế biến động tăng cao hơn giá cơ sở tương ứng trên 20% xác định theo công thức sau:
 
 ---
 
@@ -3325,6 +3926,8 @@ parent: cong-nghiep
 
 **ID:** FD177BB5-B39D-42EB-8F97-8EAA532317E6
 
+1. Phân cấp tài nguyên, trữ lượng dầu khí được thực hiện trên cơ sở kết hợp đánh giá mức độ tin cậy về các thông tin địa chất, địa vật lý, tính khả thi về kỹ thuật công nghệ và mức độ hiệu quả về kinh tế tại thời điểm lập Báo cáo.
+
 ---
 
 
@@ -3335,6 +3938,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170000400
 
 **ID:** 76C00B2F-A1F9-4AB4-BEC3-57914860A314
+
+1. Khi triển khai kết thúc giếng, Người điều hành phải trình kế hoạch kết thúc giếng trước thời hạn 5 ngày làm việc để Tập đoàn Dầu khí Việt Nam xem xét, chấp thuận trước 2 ngày làm việc.
 
 ---
 
@@ -3347,6 +3952,8 @@ parent: cong-nghiep
 
 **ID:** F206C13C-C567-420C-855F-8906F69385B2
 
+1. Trước khi tiến hành các hoạt động khoan tìm kiếm thăm dò dầu khí, xây dựng mới hoặc hoán cải công trình dầu khí, thu dọn công trình dầu khí khi kết thúc hoạt động dầu khí, trên cơ sở các tài liệu về quản lý an toàn quy định tại Điều 39 Nghị định này do nhà thầu lập và được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 01 bộ hồ sơ gốc đề nghị phê duyệt các tài liệu về quản lý an toàn. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3357,6 +3964,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000400004000000000000000000
 
 **ID:** 9AF9FB03-A6F2-4520-B918-38F0B3716D7B
+
+1. Tối thiểu 02 năm trước khi hết thời hạn hợp đồng dầu khí, nhà thầu được đề xuất kế hoạch đầu tư bổ sung nhằm gia tăng trữ lượng, nâng cao hệ số thu hồi dầu khí và khai thác dầu khí trong cùng diện tích hợp đồng với điều kiện kinh tế, kỹ thuật phù hợp để ký kết hợp đồng dầu khí mới sau khi hợp đồng dầu khí đã ký kết hết thời hạn.
 
 ---
 
@@ -3369,6 +3978,8 @@ parent: cong-nghiep
 
 **ID:** 6FDF54DE-839B-41E0-B798-ABF0C560FA04
 
+1. Bộ Công Thương
+
 ---
 
 
@@ -3379,6 +3990,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402842600450004100
 
 **ID:** 9F22F832-F90F-45FF-A6EB-426AD3DAFDC4
+
+1. Nhà thầu phải xây dựng, duy trì và cập nhật hệ thống quản lý về an toàn để đảm bảo an toàn cho toàn bộ các hoạt động dầu khí từ khi bắt đầu giai đoạn tìm kiếm thăm dò dầu khí đến khi kết thúc giai đoạn thu dọn công trình dầu khí.
 
 ---
 
@@ -3391,6 +4004,8 @@ parent: cong-nghiep
 
 **ID:** 7DAF9986-BDD3-417D-8515-9AE010956E5B
 
+1. Tối thiểu 02 năm trước khi hết thời hạn hợp đồng dầu khí, Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương về kế hoạch xử lý tiếp theo đối với mỏ, cụm mỏ, lô dầu khí đang được khai thác tại diện tích hợp đồng dầu khí.
+
 ---
 
 
@@ -3401,6 +4016,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006950264080049000410
 
 **ID:** 49843ADD-3B5C-45F8-82EE-3F954F565853
+
+1. Đối với kế hoạch thu dọn công trình dầu khí đã được phê duyệt trước ngày hiệu lực của Quyết định này, tổ chức, cá nhân tiếp tục thực hiện nội dung kế hoạch thu dọn công trình dầu khí đó.
 
 ---
 
@@ -3413,6 +4030,8 @@ parent: cong-nghiep
 
 **ID:** 34B5DD17-2C38-4636-9623-9EBD1996C715
 
+1. Nhà thầu phải bảo đảm mọi rủi ro phải được xác định, phân tích, đánh giá đối với tất cả công trình dầu khí, máy móc, thiết bị, hóa chất, vật liệu nguy hiểm. Kết quả của việc đánh giá rủi ro được sử dụng làm số liệu đầu vào để tổ chức thực hiện công tác ứng cứu khẩn cấp.
+
 ---
 
 
@@ -3423,6 +4042,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004200000000000000000
 
 **ID:** E2886F4B-4DB8-4B9A-A114-2162697F9A2D
+
+1. Trong quá trình lập kế hoạch đại cương phát triển mỏ dầu khí, nếu xét thấy cần thiết xây dựng chuỗi đồng bộ các hạng mục công trình, thiết bị dầu khí trên đất liền và trên biển ngoài diện tích hợp đồng ban đầu phục vụ khai thác, xử lý và vận chuyển dầu khí để sản xuất ra dầu khí thương phẩm nhằm nâng cao hiệu quả kinh tế của dự án phát triển mỏ dầu khí, Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương thẩm định, trình Thủ tướng Chính phủ chấp thuận chủ trương thực hiện dự án phát triển mỏ dầu khí có chuỗi đồng bộ các hạng mục công trình, thiết bị dầu khí trên đất liền và trên biển.
 
 ---
 
@@ -3435,6 +4056,8 @@ parent: cong-nghiep
 
 **ID:** E3DBC564-25D5-4D8F-9B2B-EE7EF97543F3
 
+Quyết định này có hiệu lực thi hành kể từ ngày 18 tháng 02 năm 2018 và thay thế Quyết định số 40/2007/QĐ-TTg ngày 21 tháng 3 năm 2007 của Thủ tướng Chính phủ về việc thu dọn các công trình cố định, thiết bị và phương tiện phục vụ hoạt động dầu khí.
+
 ---
 
 
@@ -3445,6 +4068,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402842600450004300
 
 **ID:** 39A641C4-1F0B-45AA-A6FA-CB423802D870
+
+1. Nhà thầu phải xây dựng và duy trì hệ thống ứng cứu sự cố khẩn cấp để tiến hành có hiệu quả các hoạt động ứng cứu khi xảy ra các sự cố, tai nạn gây nguy hại cho người, môi trường hoặc tài sản. Tùy theo mức độ của sự cố, tai nạn mà nhà thầu phải thông báo cho cơ quan có thẩm quyền theo quy định.
 
 ---
 
@@ -3457,6 +4082,8 @@ parent: cong-nghiep
 
 **ID:** 33078F6C-C80F-4646-8341-4ED39F79E7E4
 
+1. Căn cứ vào các cam kết trong hợp đồng dầu khí và chương trình, kế hoạch đã được phê duyệt (nếu có), nhà thầu lập chương trình hoạt động và ngân sách hoạt động hằng năm trình Tập đoàn Dầu khí Việt Nam phê duyệt.
+
 ---
 
 
@@ -3467,6 +4094,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006850264080049000430
 
 **ID:** B2109E1E-5B0D-4373-BF36-24052D494DED
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
 
 ---
 
@@ -3479,6 +4108,8 @@ parent: cong-nghiep
 
 **ID:** 3FAFC612-139C-4E13-9E60-2BA61D45178D
 
+1. Công trình dầu khí phải được thiết kế, chế tạo, xây dựng theo quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia hoặc tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài được thừa nhận và áp dụng rộng rãi tuân thủ quy định của pháp luật Việt Nam và các điều ước quốc tế mà Việt Nam là thành viên, bảo đảm các yêu cầu sau:
+
 ---
 
 
@@ -3489,6 +4120,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004400000000000000000
 
 **ID:** 9B1E6231-CE61-4034-9616-1BC6A1A14D9F
+
+1. Trong giai đoạn tìm kiếm thăm dò dầu khí, trên cơ sở quy định trong hợp đồng dầu khí, nhà thầu lập chương trình tìm kiếm thăm dò dầu khí trình Tập đoàn Dầu khí Việt Nam thẩm định, phê duyệt.
 
 ---
 
@@ -3501,6 +4134,8 @@ parent: cong-nghiep
 
 **ID:** F4BA26B1-6858-4334-9033-523994DF4431
 
+1. Căn cứ quy định tại khoản 1 Điều 42 Luật Dầu khí, trên cơ sở đề nghị của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị chấp thuận thực hiện dự án phát triển mỏ dầu khí có chuỗi đồng bộ các hạng mục công trình, thiết bị dầu khí trên đất liền và trên biển để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3511,6 +4146,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004500000000000000000
 
 **ID:** 68C4BC93-EE5A-4775-BAC6-553145A70251
+
+1. Trên cơ sở kết quả thăm dò, thẩm lượng dầu khí, nếu phát hiện dầu khí có tính thương mại trong diện tích hợp đồng dầu khí, nhà thầu lập báo cáo tài nguyên, trữ lượng dầu khí trình Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương thẩm định, phê duyệt.
 
 ---
 
@@ -3523,6 +4160,8 @@ parent: cong-nghiep
 
 **ID:** 11D81E39-CC3F-4CDF-AF8B-D7FFC9653949
 
+1. Trường hợp dự án phát triển mỏ dầu khí trên đất liền có yêu cầu chuyển mục đích sử dụng rừng, đất theo quy định tại khoản 2 Điều 42 Luật Dầu khí, trên cơ sở đề xuất của nhà thầu, Tập đoàn Dầu khí Việt Nam trình cơ quan có thẩm quyền thẩm định và chấp thuận chủ trương chuyển mục đích sử dụng rừng, đất theo quy định của pháp luật về lâm nghiệp, đất đai.
+
 ---
 
 
@@ -3533,6 +4172,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004600000000000000000
 
 **ID:** 88309A35-E304-4865-82F4-4A7CC6210212
+
+1. Sau khi báo cáo tài nguyên, trữ lượng dầu khí được phê duyệt, nhà thầu triển khai thực hiện giai đoạn phát triển mỏ dầu khí và lập kế hoạch đại cương phát triển mỏ dầu khí trình Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương thẩm định, phê duyệt.
 
 ---
 
@@ -3545,6 +4186,8 @@ parent: cong-nghiep
 
 **ID:** 7DF20C7E-2554-4D2A-B95F-995AB817DAA4
 
+1. Trong thời hạn 120 ngày kể từ ngày hoàn thành thẩm lượng phát hiện dầu khí, trên cơ sở báo cáo tài nguyên, trữ lượng dầu khí do nhà thầu lập được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt báo cáo tài nguyên, trữ lượng dầu khí. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3555,6 +4198,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004700000000000000000
 
 **ID:** 51037F05-A6F7-4285-8253-58382AF08A49
+
+1. Sau khi kế hoạch đại cương phát triển mỏ dầu khí được phê duyệt, trong trường hợp cần nghiên cứu, thu thập bổ sung thông tin để giảm thiểu rủi ro sau này, nhà thầu có thể lập kế hoạch khai thác sớm mỏ dầu khí trình Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương thẩm định, phê duyệt.
 
 ---
 
@@ -3567,6 +4212,8 @@ parent: cong-nghiep
 
 **ID:** DA1B5E6C-6109-4A52-AC2F-0DEA9B2F2608
 
+1. Trong thời hạn 12 tháng kể từ ngày báo cáo tài nguyên, trữ lượng dầu khí được phê duyệt, trên cơ sở kế hoạch đại cương phát triển mỏ dầu khí do nhà thầu lập được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt kế hoạch đại cương phát triển mỏ dầu khí. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3577,6 +4224,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004800000000000000000
 
 **ID:** C667B3D3-0539-456C-8986-FCBCBDA54038
+
+1. Sau khi kế hoạch đại cương phát triển mỏ dầu khí được phê duyệt hoặc trước khi kết thúc thời hạn thực hiện của kế hoạch khai thác sớm mỏ dầu khí, nhà thầu lập kế hoạch phát triển mỏ dầu khí trình Tập đoàn Dầu khí Việt Nam báo cáo Bộ Công Thương thẩm định, phê duyệt.
 
 ---
 
@@ -3589,6 +4238,8 @@ parent: cong-nghiep
 
 **ID:** EEEAA1FB-4FD9-4178-8D0A-389A4FF118FF
 
+1. Nhà thầu đề xuất kế hoạch khai thác sớm mỏ dầu khí trong các trường hợp sau:
+
 ---
 
 
@@ -3599,6 +4250,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500004900000000000000000
 
 **ID:** E38E4AC1-F535-49B8-BE67-FAD6D1256804
+
+1. Nhà thầu có trách nhiệm thu gom khí sau khi đã sử dụng nội mỏ (nếu có) trong quá trình khai thác dầu khí và phải lập phương án thu gom khí trong kế hoạch khai thác sớm mỏ dầu khí hoặc kế hoạch phát triển mỏ dầu khí.
 
 ---
 
@@ -3611,6 +4264,8 @@ parent: cong-nghiep
 
 **ID:** 083EBC0E-A584-4ADC-AE68-0B96482AA6AE
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau :
+
 ---
 
 
@@ -3621,6 +4276,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000500000000000000000
 
 **ID:** BEFAEA3B-97BF-4A1D-9BFE-A5C90EC4F884
+
+1. Nhà nước khuyến khích tổ chức, cá nhân Việt Nam và nước ngoài đầu tư để tiến hành điều tra cơ bản về dầu khí và hoạt động dầu khí tại Việt Nam nhằm gia tăng trữ lượng và sản lượng khai thác dầu khí tại các khu vực tiềm năng, các vùng nước sâu, xa bờ, góp phần bảo đảm an ninh năng lượng quốc gia, phát triển kinh tế đất nước và bảo vệ quyền và lợi ích chính đáng của Việt Nam phù hợp với pháp luật quốc tế.
 
 ---
 
@@ -3633,6 +4290,8 @@ parent: cong-nghiep
 
 **ID:** 90A31866-D75C-4D4A-9B9A-3126EF11CE2F
 
+1. Các yêu cầu về thiết kế, thi công, vận hành đường ống phải dựa trên cơ sở phân loại dân cư được xác định trên cơ sở mật độ nhà ở trung bình, cụ thể như sau:
+
 ---
 
 
@@ -3643,6 +4302,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400000500
 
 **ID:** 25691B7D-A966-4065-8EFC-096D0E3008F3
+
+1. Tên, công suất, sản phẩm chính, nguyên nhiên liệu chính.
 
 ---
 
@@ -3655,6 +4316,8 @@ parent: cong-nghiep
 
 **ID:** 0A4698B6-5426-48EB-B000-45E7E522ED02
 
+1. Tổ chức, cá nhân phải xây dựng, duy trì và phát triển hệ thống quản lý an toàn đảm bảo mọi hoạt động dầu khí đều được lập kế hoạch, tổ chức, triển khai, duy trì theo các yêu cầu tại Quyết định này và các quy định của pháp luật có liên quan.
+
 ---
 
 
@@ -3665,6 +4328,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000020000100000000000000000000402842600450000500
 
 **ID:** 2EEB328C-EB6F-461F-BB7F-9DCBD3D449DB
+
+1. Đề cương chi tiết và dự toán chi phí của đề án điều tra cơ bản về dầu khí bao gồm các nội dung chính sau đây:
 
 ---
 
@@ -3677,6 +4342,8 @@ parent: cong-nghiep
 
 **ID:** 8431CFFA-19C7-469F-922A-6629FD844835
 
+Toàn bộ sản lượng dầu lãi được chia theo quý của nhà thầu là đối tượng chịu phụ thu. Trong đó:
+
 ---
 
 
@@ -3687,6 +4354,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000045000000000000000000040284260045000470000802741000240000500
 
 **ID:** 609585B4-B60A-4834-BC1F-45C88927A907
+
+Tài nguyên dầu khí được phân thành hai nhóm là tài nguyên dầu khí đã phát hiện (bằng giếng khoan) và tài nguyên dầu khí chưa phát hiện.
 
 ---
 
@@ -3699,6 +4368,8 @@ parent: cong-nghiep
 
 **ID:** EBB5FED6-2B23-4A32-904D-32225A53C555
 
+Trong thời hạn 9 (chín) tháng, kể từ khi khai thác thương mại hoặc 1 (một) năm kể từ ngày đưa công trình dầu khí vào hoạt động, tổ chức, cá nhân phải lập kế hoạch thu dọn công trình dầu khí, trình Bộ Công Thương xem xét, phê duyệt.
+
 ---
 
 
@@ -3709,6 +4380,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170000500
 
 **ID:** 7D1E67F9-DD45-4CA3-B084-71AA50B1D0DE
+
+Kế hoạch kết thúc giếng phải bao gồm các nội dung sau:
 
 ---
 
@@ -3721,6 +4394,8 @@ parent: cong-nghiep
 
 **ID:** A16B6FD8-C976-470B-8F54-7111824121E4
 
+1. Giá tính thuế theo quy định tại Thông tư này là giá bán dầu thô, condensate được xác định theo hợp đồng giao dịch sòng phẳng.
+
 ---
 
 
@@ -3731,6 +4406,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365500500
 
 **ID:** ED855BD4-49EB-411E-906A-72CF4846492B
+
+1. Đối với dầu thô, giá tính thuế theo quy định tại Thông tư này là giá bán dầu thô tại điểm giao nhận được xác định theo giao dịch sòng phẳng.
 
 ---
 
@@ -3743,6 +4420,8 @@ parent: cong-nghiep
 
 **ID:** 48DA3A11-64E1-4420-85AC-56C338F8136E
 
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2010.
+
 ---
 
 
@@ -3753,6 +4432,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006840239030013000380
 
 **ID:** 5D5415DA-AB9B-4182-BA05-2522B8825A2F
+
+Nghị định này có hiệu lực thi hành từ ngày 22 tháng 4 năm 2019.
 
 ---
 
@@ -3765,6 +4446,8 @@ parent: cong-nghiep
 
 **ID:** EF5FBE1C-A16B-47FE-9C78-8214CF5D8092
 
+1. Trong thời hạn 18 tháng kể từ ngày kế hoạch đại cương phát triển mỏ dầu khí được phê duyệt hoặc trong thời hạn 06 tháng trước khi kết thúc kế hoạch khai thác sớm mỏ dầu khí, trên cơ sở kế hoạch phát triển mỏ dầu khí do nhà thầu lập được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt kế hoạch phát triển mỏ dầu khí. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3775,6 +4458,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500005000000000000000000
 
 **ID:** EB5A5EFE-CCBC-4617-A1A9-0DE3EBBC1995
+
+1. Trong quá trình tiến hành hoạt động dầu khí, sau khi kết thúc từng giai đoạn hoặc kết thúc hợp đồng dầu khí, nhà thầu phải thu dọn các công trình dầu khí không còn sử dụng hoặc không thể tiếp tục phục vụ cho hoạt động dầu khí do bị hư hỏng nặng, không phù hợp với công nghệ gây ảnh hưởng đến an toàn và hiệu quả của hoạt động dầu khí.
 
 ---
 
@@ -3787,6 +4472,8 @@ parent: cong-nghiep
 
 **ID:** 25A13E5B-2B09-4CE3-993F-B0AF5E52FD9E
 
+1. Trong thời hạn 01 năm kể từ ngày có dòng dầu, khí đầu tiên được khai thác thương mại từ diện tích hợp đồng dầu khí, trên cơ sở kế hoạch thu dọn công trình dầu khí do nhà thầu lập được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt kế hoạch thu dọn công trình dầu khí. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3797,6 +4484,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500005100000000000000000
 
 **ID:** 9BA3D399-5956-47AE-8CCC-FC3DBB86B36D
+
+1. Việc bảo đảm tài chính cho nghĩa vụ thu dọn công trình dầu khí được thực hiện theo phương thức lập quỹ.
 
 ---
 
@@ -3809,6 +4498,8 @@ parent: cong-nghiep
 
 **ID:** 566F1393-17BE-4508-B685-62A9B3A233E0
 
+1. Đồng tiền trích lập quỹ bảo đảm nghĩa vụ thu dọn công trình dầu khí là đồng Đô la Mỹ.
+
 ---
 
 
@@ -3819,6 +4510,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000500005200000000000000000
 
 **ID:** 58887062-7B88-4125-BDCB-D15AC3844A7F
+
+1. Nhà thầu có nghĩa vụ thực hiện thu dọn công trình dầu khí theo kế hoạch thu dọn công trình dầu khí được phê duyệt. Việc thu dọn công trình dầu khí phải bảo đảm các yêu cầu về an toàn và bảo vệ môi trường theo quy định của pháp luật.
 
 ---
 
@@ -3831,6 +4524,8 @@ parent: cong-nghiep
 
 **ID:** 4FCB7CE8-CBB2-4FFF-9800-E35213FAFF40
 
+1. Quỹ bảo đảm nghĩa vụ thu dọn công trình dầu khí được sử dụng cho mục đích thu dọn công trình dầu khí. Nhà thầu được sử dụng số tiền trong quỹ để thực hiện nghĩa vụ thu dọn công trình dầu khí theo kế hoạch thu dọn công trình dầu khí đã được phê duyệt.
+
 ---
 
 
@@ -3841,6 +4536,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000600005300000000000000000
 
 **ID:** E8949D10-BEC3-4E3C-BCA5-8EB6CD59F7B5
+
+1. Lô, mỏ dầu khí được hưởng chính sách ưu đãi đầu tư khi đáp ứng một trong các tiêu chí sau đây:
 
 ---
 
@@ -3853,6 +4550,8 @@ parent: cong-nghiep
 
 **ID:** 48022786-D1BB-4269-9BC0-4FD350D16579
 
+1. Trong thời hạn 09 tháng kể từ ngày kết thúc thu dọn toàn bộ hoặc một phần công trình dầu khí trong diện tích hợp đồng dầu khí, nhà thầu phải lập báo cáo hoàn thành thu dọn toàn bộ hoặc một phần công trình dầu khí, trình Tập đoàn Dầu khí Việt Nam phê duyệt và báo cáo Bộ Công Thương để theo dõi.
+
 ---
 
 
@@ -3863,6 +4562,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000600005400000000000000000
 
 **ID:** 280ACA41-FCC4-4BCC-A166-CD180A921D4D
+
+1. Chính sách ưu đãi áp dụng đối với các lô, mỏ dầu khí được thực hiện thông qua hợp đồng dầu khí.
 
 ---
 
@@ -3875,6 +4576,8 @@ parent: cong-nghiep
 
 **ID:** F3797921-0E3D-4130-A8BF-429D20C29028
 
+1. Căn cứ quy định tại khoản 2 Điều 52 Luật Dầu khí, trên cơ sở đề xuất của nhà thầu được Tập đoàn Dầu khí Việt Nam thông qua, Tập đoàn Dầu khí Việt Nam trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị chấp thuận đề lại, hoãn thu dọn hoặc thực hiện thu dọn một phần hoặc toàn bộ công trình dầu khí. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3885,6 +4588,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000600005500000000000000000
 
 **ID:** 528E3928-EB75-4051-9C52-044058B10EC7
+
+1. Chính sách khai thác tài nguyên đối với mỏ, cụm mỏ, lô dầu khí khai thác tận thu theo quy định tại điểm c khoản 2 và điểm b khoản 3 Điều 41 của Luật này được thực hiện như sau:
 
 ---
 
@@ -3897,6 +4602,8 @@ parent: cong-nghiep
 
 **ID:** E9B6A0B8-AC8D-47AE-BE52-D4212A48C6A0
 
+1. Lô dầu khí tại vùng nước sâu, xa bờ, khu vực có điều kiện địa lý đặc biệt khó khăn, địa chất phức tạp là các lô có:
+
 ---
 
 
@@ -3907,6 +4614,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000700005600000000000000000
 
 **ID:** EFFA951D-44CD-4716-AE21-A9FB119C3F6A
+
+1. Công tác kế toán, kiểm toán đối với hoạt động dầu khí theo hợp đồng dầu khí được thực hiện theo quy định của pháp luật về kế toán, kiểm toán Việt Nam và phù hợp với thông lệ công nghiệp dầu khí quốc tế.
 
 ---
 
@@ -3919,6 +4628,8 @@ parent: cong-nghiep
 
 **ID:** 397143D8-BE65-486A-B9F0-B95CE8945857
 
+1. Căn cứ đối tượng ưu đãi quy định tại Điều 53 Luật Dầu khí, Tập đoàn Dầu khí Việt Nam xây dựng danh mục các lô, mỏ dầu khí được hưởng chính sách ưu đãi đầu tư và ưu đãi đầu tư đặc biệt, trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -3929,6 +4640,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000700005700000000000000000
 
 **ID:** FFF8B93B-5478-435D-9D24-1E898FF31C52
+
+1. Quyết toán chi phí hoạt động dầu khí theo hợp đồng dầu khí được nhà thầu tiến hành sau khi hoàn thành công việc theo từng khoản mục, hạng mục và từng giai đoạn trong hợp đồng dầu khí hoặc khi kết thúc dự án dầu khí, dự án thành phần của dự án dầu khí.
 
 ---
 
@@ -3941,6 +4654,8 @@ parent: cong-nghiep
 
 **ID:** 90898E1A-83C6-4456-90C7-8DF51711B28F
 
+1. Việc khai thác tận thu mỏ, cụm mỏ, lô dầu khí được thực hiện theo cơ chế điều hành khai thác tận thu mỏ, cụm mỏ, lô dầu khí do Thủ tướng Chính phủ ban hành theo quy định tại Điều 60 Nghị định này phù hợp với đặc thù của từng mỏ, cụm mỏ, lô dầu khí.
+
 ---
 
 
@@ -3951,6 +4666,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000800005800000000000000000
 
 **ID:** F90AFC22-3CF5-4230-A3AB-911E8F50DC31
+
+1. Nhà thầu có các quyền sau đây:
 
 ---
 
@@ -3963,6 +4680,8 @@ parent: cong-nghiep
 
 **ID:** 9353E0A4-2A65-4FC4-8071-C1278E4EA48A
 
+1. Thông tin tổng quan về mỏ, cụm mỏ, lô dầu khí khai thác tận thu.
+
 ---
 
 
@@ -3973,6 +4692,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000800005900000000000000000
 
 **ID:** 370ABAD8-106A-4EA3-900C-8C2B62CBCB82
+
+1. Thực hiện các cam kết trong hợp đồng dầu khí.
 
 ---
 
@@ -3985,6 +4706,8 @@ parent: cong-nghiep
 
 **ID:** 3F51B85C-29B8-4214-A153-3E3A081DF406
 
+1. Tài nguyên dầu khí của Việt Nam thuộc sở hữu toàn dân, do Nhà nước đại diện chủ sở hữu và thống nhất quản lý.
+
 ---
 
 
@@ -3995,6 +4718,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030000600
 
 **ID:** 61178FBB-2E1D-448C-8CD9-EF8C69CF7F56
+
+Nhiệm vụ bảo vệ an ninh dầu khí là phòng ngừa, phát hiện, ngăn chặn và xử lý các hành vi sau:
 
 ---
 
@@ -4007,6 +4732,8 @@ parent: cong-nghiep
 
 **ID:** AE380FB2-0E55-44A4-9102-CF216FABD2E5
 
+Tổ chức, cá nhân được xác định khoảng cách an toàn đối với các công trình dầu khí theo phân loại sau đây:
+
 ---
 
 
@@ -4017,6 +4744,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400000600
 
 **ID:** 880FA918-48ED-4A44-A5CF-BC6EFA6E5757
+
+1. Giới thiệu về hệ thống quản lý An toàn - Sức khỏe - Môi trường, các chương trình được áp dụng cho hoạt động dầu khí tại dự án, công trình.
 
 ---
 
@@ -4029,6 +4758,8 @@ parent: cong-nghiep
 
 **ID:** E4DB78FE-3059-4EF3-A131-ACA45464FE22
 
+1. Tổ chức, cá nhân bảo đảm mọi rủi ro phải được xác định, phân tích, đánh giá đối với tất cả công trình, dây chuyền, máy, thiết bị, hóa chất, vật liệu nguy hiểm.
+
 ---
 
 
@@ -4039,6 +4770,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000020000100000000000000000000402842600450000600
 
 **ID:** 5597B33C-5EBE-4924-9F6C-97611A896202
+
+1. Tổ chức chủ trì thực hiện đề án điều tra cơ bản về dầu khí có trách nhiệm:
 
 ---
 
@@ -4051,6 +4784,8 @@ parent: cong-nghiep
 
 **ID:** 7DFF7D7D-C6B7-4DBB-ADEE-7BF4EE0A55CA
 
+1. Đối với dự án dầu khí khuyến khích đầu tư: Số phụ thu phải nộp theo quý theo mức 30% đối với sản lượng dầu lãi được chia theo quý của nhà thầu khi giá bán dầu thô trung bình của quý thực tế biến động tăng cao hơn giá cơ sở của năm tương ứng trên 20% xác định như sau:
+
 ---
 
 
@@ -4061,6 +4796,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000045000000000000000000040284260045000470000802741000240000600
 
 **ID:** 90FBB8AD-3573-4C11-81DE-D0D19EB7BA0C
+
+1. Ranh giới phân cấp tài nguyên, trữ lượng dầu khí được xác định đối với từng thân chứa dầu khí theo nguyên tắc ngoại suy phù hợp với điều kiện địa chất cụ thể theo Phụ lục II ban hành kèm theo Thông tư này.
 
 ---
 
@@ -4073,6 +4810,8 @@ parent: cong-nghiep
 
 **ID:** 0736923F-7D41-4323-AB33-04DABC0AA9BB
 
+1. Tổ chức, cá nhân nộp 1 (một) bộ hồ sơ theo hình thức trực tiếp tại Bộ Công Thương hoặc qua đường bưu điện.
+
 ---
 
 
@@ -4083,6 +4822,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170000600
 
 **ID:** E0FC8BAA-036C-4A9A-867B-BB3BB1704191
+
+1. Người điều hành phải nộp báo cáo về quá trình kết thúc giếng cho Tập đoàn Dầu khí Việt Nam trong thời hạn 30 ngày sau khi hoàn tất công việc.
 
 ---
 
@@ -4095,6 +4836,8 @@ parent: cong-nghiep
 
 **ID:** 5F403A93-F32F-4E4B-9629-D9D5E24095DC
 
+1. Toàn bộ sản lượng dầu thô, condensate và khí thiên nhiên khai thác và giữ được từ lô 09-1, được đo tại điểm thu gom, kiểm kê, phân phối và giao sản phẩm hàng hóa, đã xuất bán là đối tượng chịu thuế tài nguyên.
+
 ---
 
 
@@ -4105,6 +4848,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365500600
 
 **ID:** 3F10C0C8-0E4F-4BD7-AC4B-36EFE45C48E6
+
+1. Trường hợp một tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò và khai thác dầu khí theo nhiều hợp đồng dầu khí khác nhau thì việc thực hiện quy định về thuế theo hướng dẫn tại Thông tư này được thực hiện riêng rẽ theo từng hợp đồng dầu khí.
 
 ---
 
@@ -4117,6 +4862,8 @@ parent: cong-nghiep
 
 **ID:** B3D5CA37-EBA6-41D5-939A-1546B10A6582
 
+1. Bộ Tài chính hướng dẫn thi hành Nghị định này.
+
 ---
 
 
@@ -4127,6 +4874,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006940239030013000390
 
 **ID:** 82232CB7-2109-40C3-9DCC-12F2F85DC4E0
+
+1. Các công trình dầu khí đã tồn tại trước ngày Nghị định này có hiệu lực chưa đáp ứng khoảng cách an toàn theo quy định của Nghị định này, sau 03 năm kể từ ngày Nghị định này có hiệu lực phải thực hiện các biện pháp tăng cường, đảm bảo mức rủi ro chấp nhận được theo quy định.
 
 ---
 
@@ -4139,6 +4888,8 @@ parent: cong-nghiep
 
 **ID:** 6BECB0F0-BDAE-4093-A6FB-F11A0787EFDD
 
+1. Căn cứ quy định tại điểm c khoản 2, điểm b khoản 3 Điều 41 Luật Dầu khí, Tập đoàn Dầu khí Việt Nam xây dựng cơ chế điều hành khai thác tận thu mỏ, cụm mỏ, lô dầu khí phù hợp với tính chất, đặc thù của từng mỏ, cụm mỏ, lô dầu khí, trình Bộ Công Thương 02 bộ hồ sơ (gồm 01 bộ hồ sơ gốc và 01 bộ hồ sơ bản sao, gửi trực tiếp hoặc qua bưu chính) đề nghị phê duyệt cơ chế điều hành khai thác tận thu mỏ, cụm mỏ, lô dầu khí để thẩm định. Hồ sơ bao gồm:
+
 ---
 
 
@@ -4149,6 +4900,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000900006000000000000000000
 
 **ID:** B4F6534C-77A3-417C-9D98-3F7FC2CA4E2C
+
+1. Tiến hành điều tra cơ bản về dầu khí, thực hiện hoạt động dầu khí với vai trò nhà thầu ký kết hợp đồng dầu khí theo quy định của Luật này. Tập đoàn Dầu khí Việt Nam tham gia cùng với doanh nghiệp có vốn góp của Tập đoàn Dầu khí Việt Nam vào các hợp đồng dầu khí theo quy định tại Điều 39 của Luật này không bị coi là vi phạm pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp.
 
 ---
 
@@ -4161,6 +4914,8 @@ parent: cong-nghiep
 
 **ID:** B6AB57E1-EB93-48E0-A3D5-828FE6404DC1
 
+1. Để tiến hành khai thác tận thu mỏ, cụm mỏ, lô dầu khí, Tập đoàn Dầu khí Việt Nam tiếp nhận nguyên trạng thông tin, dữ liệu, tài liệu, mẫu vật, công trình dầu khí và tài sản khác đã được lắp đặt, đầu tư của hợp đồng dầu khí đã kết thúc theo thỏa thuận ký với nhà thầu; được sử dụng thông tin, dữ liệu, tài liệu, mẫu vật, công trình dầu khí và tài sản khác mà không phải trả tiền.
+
 ---
 
 
@@ -4171,6 +4926,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000900006100000000000000000
 
 **ID:** C2B72F78-82E9-4247-92AE-D93C0CBD361D
+
+1. Ký kết thỏa thuận với tổ chức ngoài cơ quan, doanh nghiệp nhà nước chủ trì thực hiện đề án điều tra cơ bản dầu khí; quản lý, giám sát thực hiện thỏa thuận liên quan đến khai thác thông tin, dữ liệu và kết quả điều tra cơ bản về dầu khí theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -4183,6 +4940,8 @@ parent: cong-nghiep
 
 **ID:** B55BD80D-95F2-43BE-BBCB-EFDA2FC16F29
 
+1. Việc quyết toán chi phí hoạt động dầu khí theo hợp đồng dầu khí được được thực hiện theo giai đoạn hoặc giai đoạn thành phần của hợp đồng dầu khí hoặc khi kết thúc dự án dầu khí, dự án thành phần của dự án dầu khí và khi kết thúc hợp đồng dầu khí phù hợp với quy định của hợp đồng dầu khí đã ký và Luật Dầu khí.
+
 ---
 
 
@@ -4193,6 +4952,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000900006200000000000000000
 
 **ID:** 56D24CDA-560F-493B-ACCB-105EBA211194
+
+1. Tổ chức quản lý, điều hành, khai thác hiệu quả, hợp lý nguồn tài nguyên dầu khí, bảo vệ tài nguyên, môi trường và bảo đảm an toàn trong hoạt động dầu khí.
 
 ---
 
@@ -4205,6 +4966,8 @@ parent: cong-nghiep
 
 **ID:** B87D1344-F65E-44E1-8ED4-F2F99544910F
 
+Hội đồng thành viên Tập đoàn Dầu khí Việt Nam chịu trách nhiệm:
+
 ---
 
 
@@ -4215,6 +4978,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006840284260045000630
 
 **ID:** F1515BC1-02AF-4287-BF03-F6DE5F4C9920
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2023 thay thế Nghị định số 95/2015/NĐ-CP ngày 16 tháng 10 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Dầu khí và Nghị định số 33/2013/NĐ-CP ngày 22 tháng 4 năm 2013 của Chính phủ ban hành hợp đồng mẫu hợp đồng chia sản phẩm dầu khí.
 
 ---
 
@@ -4227,6 +4992,8 @@ parent: cong-nghiep
 
 **ID:** F075D9C2-1764-46A1-B19C-96C8DBC27B4E
 
+1. Chi phí điều tra cơ bản về dầu khí do Tập đoàn Dầu khí Việt Nam thực hiện ngoài phần kinh phí được bảo đảm bằng nguồn ngân sách nhà nước (nếu có) được thanh toán bằng nguồn lợi nhuận sau thuế của Tập đoàn Dầu khí Việt Nam.
+
 ---
 
 
@@ -4237,6 +5004,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006940284260045000640
 
 **ID:** 8BF90E18-2D55-4168-AA81-654E5F280768
+
+1. Đối với hợp đồng dầu khí đã được cấp giấy chứng nhận đăng ký đầu tư trước ngày Nghị định này có hiệu lực, thẩm quyền, hồ sơ, trình tự, thủ tục thẩm định, phê duyệt báo cáo, kế hoạch, chương trình mới hoặc báo cáo, kế hoạch, chương trình điều chỉnh sau ngày Nghị định này có hiệu lực được thực hiện theo quy định tại Nghị định này.
 
 ---
 
@@ -4249,6 +5018,8 @@ parent: cong-nghiep
 
 **ID:** 83E4F9A7-B3CA-44D2-876D-800E94DEC5B2
 
+1. Chính phủ thống nhất quản lý nhà nước về điều tra cơ bản về dầu khí và hoạt động dầu khí.
+
 ---
 
 
@@ -4259,6 +5030,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001000006600000000000000000
 
 **ID:** D96A8580-68BD-4E1F-96F2-43B2E784AB5F
+
+1. Tham gia ý kiến về việc sử dụng vốn của Tập đoàn Dầu khí Việt Nam khi thực hiện quyền tham gia vào hợp đồng dầu khí, quyền ưu tiên mua trước quyền lợi tham gia trong hợp đồng dầu khí, thực hiện hoạt động dầu khí theo các giai đoạn của hợp đồng dầu khí, dự án dầu khí, gửi Bộ Công Thương tổng hợp trong quá trình thực hiện thẩm định các nội dung theo quy định của Luật này.
 
 ---
 
@@ -4271,6 +5044,8 @@ parent: cong-nghiep
 
 **ID:** 43E6AB25-5397-42A8-981B-7372EF0B571E
 
+1. Sửa đổi, bổ sung khoản 3 Điều 10 của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 71/2014/QH13 và Luật số 61/2020/QH14 như sau:
+
 ---
 
 
@@ -4281,6 +5056,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000001100006800000000000000000
 
 **ID:** 46490284-2F9E-4B27-9F4C-4A0CCC88BF2F
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
 
 ---
 
@@ -4293,6 +5070,8 @@ parent: cong-nghiep
 
 **ID:** F0D2CA50-0C88-4BCD-AB8F-3FCCD91C8908
 
+1. Nhà thầu ký kết hợp đồng dầu khí đã được cấp giấy chứng nhận đăng ký đầu tư trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện theo hợp đồng dầu khí đã ký kết và giấy chứng nhận đăng ký đầu tư đã cấp.
+
 ---
 
 
@@ -4303,6 +5082,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030000700
 
 **ID:** 13B1234A-7743-406D-BB62-AB86C775E6CE
+
+Trước khi tiến hành hoạt động dầu khí tại Việt Nam, mọi tổ chức, cá nhân phải xây dựng kế hoạch, phương án bảo vệ đối với các hoạt động dầu khí và công trình, phương tiện, thiết bị dầu khí theo quy định của Bộ Công an. Các kế hoạch và phương án bảo vệ phải được gửi cho Tổng công ty Dầu khí Việt Nam để phối hợp thực hiện.
 
 ---
 
@@ -4315,6 +5096,8 @@ parent: cong-nghiep
 
 **ID:** 4180D001-6030-41BB-85EA-E0D7062C8356
 
+1. Hoạt động dầu khí thực hiện trên cơ sở hợp đồng dầu khí được ký kết đối với các lô dầu khí theo danh mục được Thủ tướng Chính phủ phê duyệt, trừ trường hợp khai thác tận thu mỏ, cụm mỏ, lô dầu khí theo quy định tại điểm c khoản 2 và điểm b khoản 3 Điều 41 của Luật này.
+
 ---
 
 
@@ -4325,6 +5108,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400000700
 
 **ID:** 46DE5283-269B-4B1F-AB02-DF22F221AD96
+
+1. Sơ đồ tổ chức nhân sự liên quan đến công tác an toàn trong đó có bộ phận an toàn, vệ sinh lao động; bộ phận y tế; hội đồng an toàn, vệ sinh lao động theo quy định.
 
 ---
 
@@ -4337,6 +5122,8 @@ parent: cong-nghiep
 
 **ID:** 562DCE94-782F-4AFA-8A9F-F858863F10EA
 
+1. Tổ chức, cá nhân phải xây dựng và duy trì hệ thống ứng cứu khẩn cấp để các biện pháp ứng cứu cần thiết được tiến hành có hiệu quả khi xảy ra các sự cố, tai nạn gây nguy hại cho người, môi trường hoặc tài sản. Tùy theo mức độ của sự cố, tai nạn mà tổ chức, cá nhân phải thông báo cho cơ quan quản lý có thẩm quyền theo quy định.
+
 ---
 
 
@@ -4347,6 +5134,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000020000100000000000000000000402842600450000700
 
 **ID:** 1AC227E7-E985-4000-AF18-2A63BDFCAEC0
+
+1. Hằng quý (trước ngày làm việc cuối cùng của tháng cuối quý) hoặc đột xuất theo yêu cầu của Bộ Công Thương, tổ chức chủ trì thực hiện đề án điều tra cơ bản về dầu khí có trách nhiệm gửi báo cáo bằng văn bản về tình hình triển khai đề án đến Bộ Công Thương và Tập đoàn Dầu khí Việt Nam phục vụ công tác giám sát.
 
 ---
 
@@ -4359,6 +5148,8 @@ parent: cong-nghiep
 
 **ID:** 8FB101A7-8375-4ABE-B269-93185918FD09
 
+1. Khai, nộp phụ thu tạm tính
+
 ---
 
 
@@ -4369,6 +5160,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000045000000000000000000040284260045000470000802741000240000700
 
 **ID:** 8B573AB1-11D0-46B7-AE3B-9CC8F784C232
+
+1. Đối tượng đánh giá tài nguyên, trữ lượng dầu khí là các thân, vỉa chứa dầu khí.
 
 ---
 
@@ -4381,6 +5174,8 @@ parent: cong-nghiep
 
 **ID:** 793FE88E-C65F-48A9-928B-A7A9056E79CE
 
+1. Trong thời hạn 15 (mười lăm) ngày làm việc kể từ ngày nhận được đủ hồ sơ kế hoạch thu dọn công trình dầu khí theo quy định của Quyết định này, Bộ Công Thương chủ trì, phối hợp với các Bộ, ngành thẩm định. Trong thời hạn 15 (mười lăm) ngày làm việc kể từ ngày thẩm định, Bộ Công Thương xem xét, phê duyệt kế hoạch thu dọn công trình dầu khí.
+
 ---
 
 
@@ -4391,6 +5186,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170000700
 
 **ID:** 1FA72BEC-015F-4AE2-9581-23E87F45DFA3
+
+1. Lòng giếng luôn ở trong điều kiện an toàn kể cả khi các thiết bị miệng giếng bị hư hại do sự cố hay bị loại bỏ, giếng sẽ duy trì được sự cách ly giữa các vỉa với nhau và các vỉa với bề mặt, trừ trường hợp các vỉa được khai thác đồng thời.
 
 ---
 
@@ -4403,6 +5200,8 @@ parent: cong-nghiep
 
 **ID:** 5FB1C007-8B19-4042-B9D2-07DC4C1F8899
 
+Kỳ tính thuế tài nguyên là năm dương lịch. Kỳ tính thuế tài nguyên đầu tiên bắt đầu từ ngày khai thác dầu thô, condensate và khí thiên nhiên đầu tiên cho đến ngày kết thúc năm dương lịch đầu tiên. Kỳ tính thuế tài nguyên cuối cùng bắt đầu từ ngày đầu tiên của năm dương lịch cuối cùng đến ngày kết thúc khai thác dầu thô, condensate và khí thiên nhiên.
+
 ---
 
 
@@ -4413,6 +5212,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365500700
 
 **ID:** 7B42235D-19F2-4D64-9C4E-5D55B4A50A3A
+
+1. Đối tượng chịu thuế tài nguyên là toàn bộ sản lượng dầu thô và khí thiên nhiên thực tế khai thác và thu được từ diện tích hợp đồng dầu khí, được đo tại điểm giao nhận (sản lượng dầu thực, sản lượng khí thực).
 
 ---
 
@@ -4425,6 +5226,8 @@ parent: cong-nghiep
 
 **ID:** 2F89A2EC-1157-4ECF-A2A0-99F6A85B6AB9
 
+1. Bộ Công Thương có trách nhiệm hướng dẫn các quy định tại Điều 1, Điều 2 và tổ chức thực hiện Nghị định này.
+
 ---
 
 
@@ -4435,6 +5238,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030000800
 
 **ID:** F3E19061-87D9-4A0E-95EA-F81BE4AFF0D2
+
+1. Việc tuyển dụng người lao động vào làm việc cho Tổng công ty Dầu khí Việt Nam phải được thực hiện theo đúng quy định của pháp luật về lao động và các quy định khác của pháp luật có liên quan.
 
 ---
 
@@ -4447,6 +5252,8 @@ parent: cong-nghiep
 
 **ID:** 04989FF8-ADFB-41D7-93F1-C5967A554AE4
 
+1. Tổ chức, cá nhân tiến hành hoạt động dầu khí phải thiết lập vùng an toàn xung quanh công trình dầu khí.
+
 ---
 
 
@@ -4457,6 +5264,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000402390300130000800
 
 **ID:** CD83E564-F65B-4120-B204-F27624342643
+
+1. Tổ chức, cá nhân tiến hành các hoạt động tìm kiếm, thăm dò, khai thác dầu khí và xây dựng công trình phục vụ các hoạt động này phải tuân thủ các quy định về an toàn theo quy định của pháp luật hiện hành.
 
 ---
 
@@ -4469,6 +5278,8 @@ parent: cong-nghiep
 
 **ID:** CDF33787-A09A-4297-85B1-6A9B15DE2EB2
 
+1. Chương trình huấn luyện an toàn, ứng cứu khẩn cấp chi tiết cho các đối tượng, vị trí làm việc theo quy định và yêu cầu của ngành nghề dầu khí, bao gồm:
+
 ---
 
 
@@ -4479,6 +5290,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000080000000000000000000502534200040000800
 
 **ID:** FD1E41E0-2E58-4309-A46A-5BC7625D48E0
+
+Tổ chức, cá nhân có trách nhiệm:
 
 ---
 
@@ -4491,6 +5304,8 @@ parent: cong-nghiep
 
 **ID:** F8431EC0-9774-485D-B75A-C3FB2E271060
 
+1. Công tác nghiệm thu kết quả thực hiện đề án điều tra cơ bản về dầu khí bao gồm các nội dung chính sau:
+
 ---
 
 
@@ -4501,6 +5316,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000004000030000000000000000000040234380100000040000802353900220000800
 
 **ID:** DC949E87-FC95-4332-B1FA-B0CBD3B868AD
+
+Đối với các dự án dầu khí cần khuyến khích đầu tư cao hơn ưu đãi thu phụ thu theo quy định tại khoản 1 Điều 4 Nghị định số 100/2009/NĐ-CP, chủ đầu tư dự án hoặc người nộp phụ thu phải đề nghị bằng văn bản kèm theo bản thuyết minh (nêu rõ sự cần thiết trình Thủ tướng Chính phủ quyết định miễn thu phụ thu đối với dự án; số liệu tính toán cụ thể và sự tác động của việc thu phụ thu đối với dự án theo quy định của Nghị định số 100/2009/NĐ-CP và hướng dẫn tại Thông tư này) về Bộ Tài chính để Bộ Tài chính trình Thủ tướng Chính phủ xem xét, quyết định.
 
 ---
 
@@ -4513,6 +5330,8 @@ parent: cong-nghiep
 
 **ID:** 038FD5AA-34E0-4BF1-8306-FDE13F66814D
 
+Trên cơ sở phân cấp được quy định tại Điều 5 Thông tư này, tài nguyên, trữ lượng dầu khí được tính toán như sau:
+
 ---
 
 
@@ -4523,6 +5342,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000050000500000000000000000000502640800490000800
 
 **ID:** AE980831-2891-4267-B64D-A6548E367DF3
+
+1. Tổ chức, cá nhân phải cập nhật, điều chỉnh kế hoạch thu dọn công trình dầu khí khi có một trong các trường hợp sau:
 
 ---
 
@@ -4535,6 +5356,8 @@ parent: cong-nghiep
 
 **ID:** 13ACB501-C096-43AB-A322-805A94CDBA92
 
+Căn cứ vào tình trạng giếng, các giếng cần bảo quản được chia làm 3 loại:
+
 ---
 
 
@@ -4545,6 +5368,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802527801765500800
 
 **ID:** 890AD361-4506-48F9-922B-8243BEED2B84
+
+1. Thuế tài nguyên được nộp bằng dầu thô, condensate và khí thiên nhiên; bằng tiền; hoặc một phần bằng tiền và một phần bằng dầu thô, condensate và khí thiên nhiên.
 
 ---
 
@@ -4557,6 +5382,8 @@ parent: cong-nghiep
 
 **ID:** 543F8874-0420-4F16-BA00-C31DD38C21E8
 
+- Trường hợp hợp đồng dầu khí không có thỏa thuận hoặc có thỏa thuận thực hiện theo quy định hiện hành hoặc có thỏa thuận phân bổ sản lượng dầu, khí thực thành dầu, khí thuế tài nguyên được thực hiện theo quý, được tạm tính vào thời điểm lấy dầu khí và được điều chỉnh cuối cùng sau khi kết thúc năm thì kỳ tính thuế là năm dương lịch.
+
 ---
 
 
@@ -4567,6 +5394,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000010000060000000000000000000402058100030000900
 
 **ID:** 9D1CE26F-8A41-4264-82E8-7E00B6C0033F
+
+1. Nhà thầu dầu khí nước ngoài, doanh nghiệp dầu khí có vốn đầu tư nước ngoài, khi tuyển dụng lao động là người Việt Nam phải thực hiện đúng các quy định của pháp luật Việt Nam về lao động. Sau khi tuyển dụng, có thông báo và gửi bản sao hợp đồng lao động cho Tổng công ty Dầu khí Việt Nam.
 
 ---
 
@@ -4579,6 +5408,8 @@ parent: cong-nghiep
 
 **ID:** 8F4B4CC0-8AA7-4920-B416-2B6C254D742D
 
+1. Tổ chức, cá nhân tiến hành hoạt động tìm kiếm, thăm dò, khai thác dầu khí và xây dựng công trình phục vụ các hoạt động phải thiết lập khoảng cách an toàn và các hình thức phổ biến công khai các quy định về bảo vệ an toàn để các tổ chức, cá nhân nhận biết, chấp hành.
+
 ---
 
 
@@ -4589,6 +5420,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000008000000000000000000040284260045000390000802672100400000900
 
 **ID:** 44664C3A-EEA3-41CA-A321-52DD64067196
+
+1. Bảng đánh giá sự tuân thủ pháp luật về An toàn - Sức khỏe - Môi trường gồm các nội dung chính sau:
 
 ---
 
@@ -4601,6 +5434,8 @@ parent: cong-nghiep
 
 **ID:** 5BA99123-7423-4F20-8128-FBF97D88867C
 
+Tổ chức, cá nhân có trách nhiệm:
+
 ---
 
 
@@ -4611,6 +5446,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 0700200000000000100000900000000000000000
 
 **ID:** C63A6D7E-A99C-4D39-8278-053C2D1AB831
+
+1. Thực hiện điều tra cơ bản về dầu khí và hoạt động dầu khí khi chưa được cơ quan quản lý nhà nước có thẩm quyền cho phép.
 
 ---
 
@@ -4623,6 +5460,8 @@ parent: cong-nghiep
 
 **ID:** 52BA43E0-D483-456D-AE36-2CC79FC1C3F2
 
+1. Trong thời hạn 60 ngày kể từ ngày nhận được văn bản phê duyệt kết quả đề án điều tra cơ bản về dầu khí, tổ chức chủ trì thực hiện đề án điều tra cơ bản về dầu khí có trách nhiệm chuyển mẫu vật (nếu có) về Tập đoàn Dầu khí Việt Nam để lưu giữ và bảo quản, đồng thời, nộp 01 bộ hồ sơ bản giấy và 01 bộ hồ sơ điện tử (không bao gồm các tài liệu mật theo quy định, nếu có) báo cáo kết quả điều tra cơ bản về dầu khí đến Bộ Công Thương, Bộ Tài nguyên và Môi trường và Tập đoàn Dầu khí Việt Nam, bao gồm tài liệu tổng hợp và tài liệu nguyên thủy, cụ thể:
+
 ---
 
 
@@ -4633,6 +5472,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000045000000000000000000040284260045000470000802741000240000900
 
 **ID:** 71756A5C-8FC0-4285-AA16-4E695AACAA73
+
+1. Đối với nhóm phát triển, Người điều hành lập, cập nhật Báo cáo để trình Tập đoàn Dầu khí Việt Nam thông qua, trình Bộ Công Thương và Hội đồng thẩm định thực hiện thẩm định Báo cáo và trình Thủ tướng Chính phủ xem xét, phê duyệt. Nội dung phê duyệt gồm lượng dầu khí tại chỗ ban đầu mức 2P (gồm P1 và P2) xác suất 50% và ghi nhận trữ lượng dầu khí tương ứng làm cơ sở cho việc xây dựng, cập nhật phương án phát triển khai thác mỏ.
 
 ---
 
@@ -4645,6 +5486,8 @@ parent: cong-nghiep
 
 **ID:** 9A515923-B9CC-4F10-9E82-57ED16708710
 
+1. Trong thời hạn 9 (chín) tháng kể từ khi kết thúc hoạt động thu dọn, tổ chức, cá nhân phải lập báo cáo hoàn thành việc thu dọn công trình dầu khí, trình Bộ Công Thương phê duyệt.
+
 ---
 
 
@@ -4655,6 +5498,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000005000052000000000000000000040284260045000550000802734700170000900
 
 **ID:** 0D59E508-619E-4066-B2D7-D1A65F436937
+
+1. Quá trình đặt các trang thiết bị hoặc gia cố nút bảo quản giếng phải đảm bảo kiểm soát áp suất tích tụ bên dưới các nút trước khi tháo bỏ trong quá trình mở lại giếng.
 
 ---
 
@@ -4667,6 +5512,8 @@ parent: cong-nghiep
 
 **ID:** 86285D91-9D18-4EEE-9AE6-61B6BA651A30
 
+1. Xác định thuế tài nguyên phải nộp đối với dầu thô, condensate:
+
 ---
 
 
@@ -4677,6 +5524,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 070020000000000080000590000000000000000000802574400365500900
 
 **ID:** A9538142-8CC7-4528-A69B-5E11F25CC320
+
+1. Thuế tài nguyên đối với dầu thô, khí thiên nhiên được xác định trên cơ sở luỹ tiến từng phần của sản lượng dầu thô, khí thiên nhiên bình quân mỗi ngày khai thác được của tổng sản lượng dầu thô, khí thiên nhiên thực khai thác trong mỗi kỳ nộp thuế từ diện tích hợp đồng dầu khí, thuế suất thuế tài nguyên và số ngày khai thác thực trong kỳ tính thuế.
 
 ---
 
@@ -4689,6 +5538,8 @@ parent: cong-nghiep
 
 **ID:** 99306293-2BB6-4F62-BFF4-88663B06A915
 
+1. Thông tư này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký.
+
 ---
 
 
@@ -4699,6 +5550,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000001000
 
 **ID:** 78F0323B-C2A6-450D-A182-4B609594298D
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -4711,6 +5564,8 @@ parent: cong-nghiep
 
 **ID:** CD28672F-DE51-4A61-8886-C8EFF831AAA5
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -4721,6 +5576,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000003000
 
 **ID:** 1753C12A-F35B-4CCB-8A9F-2E62DEE6F312
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -4733,6 +5590,8 @@ parent: cong-nghiep
 
 **ID:** 6ABFC59A-A8FF-42DF-82E4-4A73F4B2C5D4
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -4743,6 +5602,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000009000
 
 **ID:** EE6C5CAE-AB91-4F34-95E7-341B11F56DD9
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -4755,6 +5616,8 @@ parent: cong-nghiep
 
 **ID:** C2E1BBE4-CCEE-4CE0-BFD7-5B4711A3FE6D
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -4765,6 +5628,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000006000
 
 **ID:** 95ABB683-148D-40DF-8A48-6EB10A2A7D25
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -4777,6 +5642,8 @@ parent: cong-nghiep
 
 **ID:** DED8C509-E649-4CCA-AB14-2237BB472155
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -4787,6 +5654,8 @@ parent: cong-nghiep
 **Mã phân cấp:** 07002000000000008000
 
 **ID:** C7DAD469-17E6-49AE-B161-F0E058AAAA98
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -4799,6 +5668,8 @@ parent: cong-nghiep
 
 **ID:** 04947134-0F24-4A29-A6C8-F0DE436359B6
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -4810,6 +5681,8 @@ parent: cong-nghiep
 
 **ID:** 398D17BA-DB92-4862-A663-ABBDB4ADFF8B
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -4820,6 +5693,7 @@ parent: cong-nghiep
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 436
+- **Điều khoản có nội dung:** 425 (97.5%)
 - **ID đề mục:** 6ae40c23-0862-4cc6-9faf-a6591febd46e
 
 ## 🔍 Tìm kiếm
