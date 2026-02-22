@@ -8,11 +8,12 @@ permalink: /van-ban/hinh-su/
 
 **Chủ đề:** Hình sự  
 **Số đề mục:** 1  
+**Số điều khoản:** 582  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📋 Danh sách Đề mục
 
-1. **[Hình sự](/van-ban/hinh-su/hinh-su/)**
+1. **[Hình sự](/van-ban/hinh-su/hinh-su/)** - 582 điều khoản
 
 
 ## 🔙 Quay lại
@@ -20,11 +21,14 @@ permalink: /van-ban/hinh-su/
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1
+- **Tổng số điều khoản:** 582
 - **ID chủ đề:** 0672ce80-caa2-4d12-a474-6d86349c9dab
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản trong chủ đề này.
+## 🔍 Cách sử dụng
+1. **Chọn đề mục** từ danh sách trên
+2. **Xem nội dung đầy đủ** của đề mục
+3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

@@ -13,15 +13,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ## 📜 Nội dung Điều khoản
 
-### Chương I NHỮNG QUY ĐỊNH CHUNG
-
-**Chỉ mục:** I
-
-**Mã phân cấp:** 39002000000000001000
-
-**ID:** 1EE0FB68-CF6F-4BC3-AFE4-260FFCD8CC83
-
----
 
 ### Điều 39.2.PL.1. Phạm vi điều chỉnh
 
@@ -33,15 +24,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.PL.2. Đối tượng áp dụng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3900200000000000100000200000000000000000
-
-**ID:** EECEE02D-5349-4CE8-8642-74C2E0FCEEF6
-
----
 
 ### Điều 39.2.NĐ.1.1. Phạm vi điều chỉnh
 
@@ -53,105 +35,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.NĐ.1.2. Đối tượng áp dụng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3900200000000000100000240233810073000020
-
-**ID:** 2CFC13FF-BFFE-4858-82A5-4C955E90D7A4
-
----
-
-### Điều 39.2.PL.3. Vị trí, chức năng của Công an xã
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3900200000000000100000300000000000000000
-
-**ID:** 7FFD1881-E06C-4DD8-B666-47E4A3527082
-
----
-
-### Điều 39.2.PL.4. Nguyên tắc tổ chức và hoạt động của Công an xã
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3900200000000000100000400000000000000000
-
-**ID:** 5F19D2CC-EF1E-4DEF-B231-21C99A6F9907
-
----
-
-### Điều 39.2.PL.5. Xây dựng lực lượng Công an xã
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3900200000000000100000500000000000000000
-
-**ID:** 8E20E69C-5511-489D-9917-B3A330318D0D
-
----
-
-### Điều 39.2.NĐ.1.4. Tiêu chuẩn tuyển chọn vào Công an xã
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 390020000000000010000050000000000000000000402338100730000400
-
-**ID:** E7053A17-C4DA-41AD-B0C5-32AC49679BDA
-
----
-
-### Điều 39.2.PL.6. Giám sát hoạt động của Công an xã
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3900200000000000100000600000000000000000
-
-**ID:** 5D5D6E57-661C-4763-AA9F-5E812E8DE333
-
----
-
-### Điều 39.2.PL.7. Quan hệ phối hợp giữa Công an xã với cơ quan, tổ chức, cá nhân và đơn vị vũ trang nhân dân trong lĩnh vực bảo đảm an ninh, trật tự, an toàn xã hội
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3900200000000000100000700000000000000000
-
-**ID:** 5D9B356A-14AB-4D80-A676-A48C93435976
-
----
-
-### Điều 39.2.PL.8. Các hành vi bị nghiêm cấm
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3900200000000000100000800000000000000000
-
-**ID:** B1EFB922-8761-462C-850F-D7F928B9DD45
-
----
-
-### Chương II NHIỆM VỤ, QUYỀN HẠN VÀ TỔ CHỨC CỦA CÔNG AN XÃ
-
-**Chỉ mục:** II
-
-**Mã phân cấp:** 39002000000000002000
-
-**ID:** 0D3B430A-78F6-4623-864A-11281B0DC7B2
-
----
-
-### Điều 39.2.PL.9. Nhiệm vụ, quyền hạn của Công an xã
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3900200000000000200000900000000000000000
-
-**ID:** 81C1F513-7F2E-4D35-BFA3-5EFAEEDC918F
-
----
 
 ### Điều 39.2.PL.10. Tổ chức của Công an xã
 
@@ -163,15 +46,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.NĐ.1.3. Xã trọng điểm, phức tạp về an ninh, trật tự và khung số lượng Phó trưởng Công an xã và Công an viên
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 390020000000000020000100000000000000000000402338100730000300
-
-**ID:** E18225E4-9675-4D80-BF00-A655334B74EA
-
----
 
 ### Điều 39.2.PL.11. Nhiệm vụ, quyền hạn của Trưởng Công an xã
 
@@ -183,6 +57,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
+
 ### Điều 39.2.PL.12. Nhiệm vụ, quyền hạn của Phó trưởng Công an xã
 
 **Chỉ mục:** 12
@@ -192,6 +67,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 **ID:** DD38105F-66E2-4A59-93B4-F29C54330B44
 
 ---
+
 
 ### Điều 39.2.PL.13. Nhiệm vụ, quyền hạn của Công an viên
 
@@ -203,15 +79,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Chương III BẢO ĐẢM HOẠT ĐỘNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CÔNG AN XÃ
-
-**Chỉ mục:** III
-
-**Mã phân cấp:** 39002000000000003000
-
-**ID:** 4FD1F69E-4CC5-49BF-A6AE-E78DF0AF3BAC
-
----
 
 ### Điều 39.2.PL.14. Bảo đảm kinh phí và cơ sở vật chất phục vụ hoạt động của Công an xã
 
@@ -223,15 +90,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.NĐ.1.8. Bảo đảm kinh phí và cơ sở vật chất phục vụ hoạt động của Công an xã
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 390020000000000030000140000000000000000000402338100730000800
-
-**ID:** E443FBDB-70D7-424A-8C57-706D65EB9A8C
-
----
 
 ### Điều 39.2.PL.15. Nơi làm việc và trang bị của Công an xã
 
@@ -243,6 +101,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
+
 ### Điều 39.2.PL.16. Trang phục, phù hiệu, giấy chứng nhận Công an xã
 
 **Chỉ mục:** 16
@@ -253,15 +112,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.NĐ.1.6. Trang phục, phù hiệu, Giấy chứng nhận Công an xã
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 390020000000000030000160000000000000000000402338100730000600
-
-**ID:** 8230044F-80E8-4BC6-9C62-437CEFDCD34E
-
----
 
 ### Điều 39.2.PL.17. Đào tạo, huấn luyện, bồi dưỡng Công an xã
 
@@ -273,6 +123,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
+
 ### Điều 39.2.PL.18. Tiền lương và phụ cấp đối với Công an xã
 
 **Chỉ mục:** 18
@@ -283,15 +134,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.NĐ.1.7. Chế độ, chính sách đối với Trưởng Công an xã, Phó trưởng Công an xã và Công an viên
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 390020000000000030000180000000000000000000402338100730000700
-
-**ID:** 6FCD60AE-EBA0-419E-AEAE-6CB5A17D6FC3
-
----
 
 ### Điều 39.2.PL.19. Chế độ, chính sách đối với Công an xã
 
@@ -303,25 +145,28 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Điều 39.2.NĐ.1.5. Đào tạo, huấn luyện, bồi dưỡng Công an xã
 
-**Chỉ mục:** 5
+### Điều 39.2.PL.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 390020000000000030000190000000000000000000402338100730000500
+**Chỉ mục:** 2
 
-**ID:** E5F67B06-A4A1-4B79-BBCA-F0115C235B58
+**Mã phân cấp:** 3900200000000000100000200000000000000000
+
+**ID:** EECEE02D-5349-4CE8-8642-74C2E0FCEEF6
+
+---
+
+
+### Điều 39.2.NĐ.1.2. Đối tượng áp dụng
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 3900200000000000100000240233810073000020
+
+**ID:** 2CFC13FF-BFFE-4858-82A5-4C955E90D7A4
 
 ---
 
-### Chương IV TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CÔNG AN XÃ
-
-**Chỉ mục:** IV
-
-**Mã phân cấp:** 39002000000000004000
-
-**ID:** 63D3F331-A131-4774-9A87-936A333CAE16
-
----
 
 ### Điều 39.2.PL.20. Quản lý nhà nước về Công an xã
 
@@ -333,6 +178,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
+
 ### Điều 39.2.PL.21. Trách nhiệm của Bộ Công an
 
 **Chỉ mục:** 21
@@ -342,6 +188,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 **ID:** 14AEA7FC-9B5D-4782-B456-B141BE4B7D58
 
 ---
+
 
 ### Điều 39.2.PL.22. Trách nhiệm của bộ, cơ quan ngang bộ
 
@@ -353,6 +200,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
+
 ### Điều 39.2.PL.23. Trách nhiệm của Uỷ ban nhân dân các cấp
 
 **Chỉ mục:** 23
@@ -363,15 +211,6 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
-### Chương V ĐIỀU KHOẢN THI HÀNH
-
-**Chỉ mục:** V
-
-**Mã phân cấp:** 39002000000000006000
-
-**ID:** 88D02271-C4F8-4D05-8EBD-4F3F7A79E0B0
-
----
 
 ### Điều 39.2.PL.24. Hiệu lực thi hành
 
@@ -383,6 +222,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 
 ---
 
+
 ### Điều 39.2.PL.25. Quy định chi tiết và hướng dẫn thi hành
 
 **Chỉ mục:** 25
@@ -392,6 +232,150 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 **ID:** 4EDEE97D-E584-481E-937E-ECC7406E4E0E
 
 ---
+
+
+### Điều 39.2.PL.3. Vị trí, chức năng của Công an xã
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 3900200000000000100000300000000000000000
+
+**ID:** 7FFD1881-E06C-4DD8-B666-47E4A3527082
+
+---
+
+
+### Điều 39.2.NĐ.1.3. Xã trọng điểm, phức tạp về an ninh, trật tự và khung số lượng Phó trưởng Công an xã và Công an viên
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 390020000000000020000100000000000000000000402338100730000300
+
+**ID:** E18225E4-9675-4D80-BF00-A655334B74EA
+
+---
+
+
+### Điều 39.2.PL.4. Nguyên tắc tổ chức và hoạt động của Công an xã
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 3900200000000000100000400000000000000000
+
+**ID:** 5F19D2CC-EF1E-4DEF-B231-21C99A6F9907
+
+---
+
+
+### Điều 39.2.NĐ.1.4. Tiêu chuẩn tuyển chọn vào Công an xã
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 390020000000000010000050000000000000000000402338100730000400
+
+**ID:** E7053A17-C4DA-41AD-B0C5-32AC49679BDA
+
+---
+
+
+### Điều 39.2.PL.5. Xây dựng lực lượng Công an xã
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 3900200000000000100000500000000000000000
+
+**ID:** 8E20E69C-5511-489D-9917-B3A330318D0D
+
+---
+
+
+### Điều 39.2.NĐ.1.5. Đào tạo, huấn luyện, bồi dưỡng Công an xã
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 390020000000000030000190000000000000000000402338100730000500
+
+**ID:** E5F67B06-A4A1-4B79-BBCA-F0115C235B58
+
+---
+
+
+### Điều 39.2.PL.6. Giám sát hoạt động của Công an xã
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 3900200000000000100000600000000000000000
+
+**ID:** 5D5D6E57-661C-4763-AA9F-5E812E8DE333
+
+---
+
+
+### Điều 39.2.NĐ.1.6. Trang phục, phù hiệu, Giấy chứng nhận Công an xã
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 390020000000000030000160000000000000000000402338100730000600
+
+**ID:** 8230044F-80E8-4BC6-9C62-437CEFDCD34E
+
+---
+
+
+### Điều 39.2.PL.7. Quan hệ phối hợp giữa Công an xã với cơ quan, tổ chức, cá nhân và đơn vị vũ trang nhân dân trong lĩnh vực bảo đảm an ninh, trật tự, an toàn xã hội
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 3900200000000000100000700000000000000000
+
+**ID:** 5D9B356A-14AB-4D80-A676-A48C93435976
+
+---
+
+
+### Điều 39.2.NĐ.1.7. Chế độ, chính sách đối với Trưởng Công an xã, Phó trưởng Công an xã và Công an viên
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 390020000000000030000180000000000000000000402338100730000700
+
+**ID:** 6FCD60AE-EBA0-419E-AEAE-6CB5A17D6FC3
+
+---
+
+
+### Điều 39.2.PL.8. Các hành vi bị nghiêm cấm
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 3900200000000000100000800000000000000000
+
+**ID:** B1EFB922-8761-462C-850F-D7F928B9DD45
+
+---
+
+
+### Điều 39.2.NĐ.1.8. Bảo đảm kinh phí và cơ sở vật chất phục vụ hoạt động của Công an xã
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 390020000000000030000140000000000000000000402338100730000800
+
+**ID:** E443FBDB-70D7-424A-8C57-706D65EB9A8C
+
+---
+
+
+### Điều 39.2.PL.9. Nhiệm vụ, quyền hạn của Công an xã
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 3900200000000000200000900000000000000000
+
+**ID:** 81C1F513-7F2E-4D35-BFA3-5EFAEEDC918F
+
+---
+
 
 ### Điều 39.2.NĐ.1.9. Hiệu lực thi hành
 
@@ -404,10 +388,65 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
 ---
 
 
+### Chương I NHỮNG QUY ĐỊNH CHUNG
+
+**Chỉ mục:** I
+
+**Mã phân cấp:** 39002000000000001000
+
+**ID:** 1EE0FB68-CF6F-4BC3-AFE4-260FFCD8CC83
+
+---
+
+
+### Chương II NHIỆM VỤ, QUYỀN HẠN VÀ TỔ CHỨC CỦA CÔNG AN XÃ
+
+**Chỉ mục:** II
+
+**Mã phân cấp:** 39002000000000002000
+
+**ID:** 0D3B430A-78F6-4623-864A-11281B0DC7B2
+
+---
+
+
+### Chương III BẢO ĐẢM HOẠT ĐỘNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CÔNG AN XÃ
+
+**Chỉ mục:** III
+
+**Mã phân cấp:** 39002000000000003000
+
+**ID:** 4FD1F69E-4CC5-49BF-A6AE-E78DF0AF3BAC
+
+---
+
+
+### Chương IV TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CÔNG AN XÃ
+
+**Chỉ mục:** IV
+
+**Mã phân cấp:** 39002000000000004000
+
+**ID:** 63D3F331-A131-4774-9A87-936A333CAE16
+
+---
+
+
+### Chương V ĐIỀU KHOẢN THI HÀNH
+
+**Chỉ mục:** V
+
+**Mã phân cấp:** 39002000000000006000
+
+**ID:** 88D02271-C4F8-4D05-8EBD-4F3F7A79E0B0
+
+---
+
+
 
 ## 🔙 Quay lại
 [← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 39
@@ -418,4 +457,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

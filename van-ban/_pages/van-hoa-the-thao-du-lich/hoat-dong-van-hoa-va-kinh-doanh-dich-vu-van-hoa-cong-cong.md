@@ -7,11 +7,12 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 # Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng
 
 **Đề mục:** Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng  
-**Chủ đề:** [Văn hóa, thể thao, du lịch]({{ site.baseurl }}/van-hoa-the-thao-du-lich/)  
+**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 23  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📜 Nội dung Điều khoản
+
 
 ### Điều 41.8.NĐ.1.
 
@@ -23,6 +24,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 
 ---
 
+
 ### Điều 41.8.TT.1.1. 
 
 **Chỉ mục:** 1
@@ -33,125 +35,6 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 
 ---
 
-### Điều 41.8.TT.1.2. 
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4100800100000000000000801996200080000200
-
-**ID:** D4556A75-9365-4447-AEB8-FBBD93DAA8BB
-
----
-
-### Điều 41.8.TT.1.3. 
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 4100800100000000000000801996200080000300
-
-**ID:** 11CDD2F4-096B-478F-BFDD-A946EB59CEFB
-
----
-
-### Điều 41.8.TT.1.4.
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 4100800100000000000000801996200080000400
-
-**ID:** 74463581-FFF4-41F3-A5C5-C822DEC7FF39
-
----
-
-### Điều 41.8.TT.1.5. 
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 4100800100000000000000801996200080000500
-
-**ID:** 59918A5C-45F4-4574-B1DD-066526BE2F0A
-
----
-
-### Điều 41.8.TT.1.6.
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 4100800100000000000000801996200080000600
-
-**ID:** 85CCACF6-C130-45E3-A34D-B80379D3DCE1
-
----
-
-### Điều 41.8.TT.1.7. 
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 4100800100000000000000801996200080000700
-
-**ID:** D0F37A18-FC72-4A5D-B968-5346796D731A
-
----
-
-### Điều 41.8.TT.1.8. 
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 4100800100000000000000801996200080000800
-
-**ID:** D754AC9C-8F02-4D10-82D0-22076BF88369
-
----
-
-### Điều 41.8.TT.1.9.
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 4100800100000000000000801996200080000900
-
-**ID:** 0CD3BF83-E5C4-44DF-83C6-17F765F52FDB
-
----
-
-### Điều 41.8.TT.1.10.
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 4100800100000000000000801996200080001000
-
-**ID:** 321EDF38-FDAF-440B-B6A1-00B897F716DC
-
----
-
-### Điều 41.8.TT.2.3. Quy định cấm trong hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 4100800100000000000000802348100047500300
-
-**ID:** D08D881F-2700-4AD6-BF71-C54FE52093FF
-
----
-
-### Điều 41.8.TT.2.9. Viết, đặt biển hiệu
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 4100800100000000000000802348100047500900
-
-**ID:** C7C86C82-B403-4239-A823-93B6BF944582
-
----
-
-### Điều 41.8.TT.2.14. Điều kiện kinh doanh và hoạt động kinh doanh trò chơi điện tử
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 4100800100000000000000802348100047501400
-
-**ID:** A75EFAF4-5E01-476D-A31A-20E8F238A3AC
-
----
 
 ### Điều 41.8.TT.2.1. Phạm vi điều chỉnh
 
@@ -163,45 +46,17 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 
 ---
 
-### Điều 41.8.TT.2.2. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+### Điều 41.8.TT.1.10.
 
-**Mã phân cấp:** 41008001019900000000
+**Chỉ mục:** 10
 
-**ID:** D85C35B1-D160-4228-806D-42CC991F112C
+**Mã phân cấp:** 4100800100000000000000801996200080001000
 
----
-
-### Điều 41.8.NĐ.2. Hiệu lực của Nghị định
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 41008002000000000000
-
-**ID:** 3EA17BBA-A4B7-4116-BF4A-1FB2284AC024
+**ID:** 321EDF38-FDAF-440B-B6A1-00B897F716DC
 
 ---
 
-### Điều 41.8.NĐ.3. Cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh vũ trường, karaoke.
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 41008003000000000000
-
-**ID:** 917E4749-B7ED-4990-95E5-C216D85B7824
-
----
-
-### Điều 41.8.NĐ.4. Trách nhiệm thực hiện
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 41008004000000000000
-
-**ID:** CA8F8FD1-CC89-4AC6-B357-A4AB542E31D7
-
----
 
 ### Điều 41.8.TT.1.11.
 
@@ -213,6 +68,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 
 ---
 
+
 ### Điều 41.8.TT.1.12.
 
 **Chỉ mục:** 12
@@ -223,6 +79,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 
 ---
 
+
 ### Điều 41.8.TT.1.13.
 
 **Chỉ mục:** 13
@@ -232,6 +89,18 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 **ID:** 8226F260-1B7F-4132-A3B0-88480461C334
 
 ---
+
+
+### Điều 41.8.TT.2.14. Điều kiện kinh doanh và hoạt động kinh doanh trò chơi điện tử
+
+**Chỉ mục:** 14
+
+**Mã phân cấp:** 4100800100000000000000802348100047501400
+
+**ID:** A75EFAF4-5E01-476D-A31A-20E8F238A3AC
+
+---
+
 
 ### Điều 41.8.TT.2.15. Hiệu lực thi hành
 
@@ -244,10 +113,164 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dic
 ---
 
 
+### Điều 41.8.TT.1.2. 
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 4100800100000000000000801996200080000200
+
+**ID:** D4556A75-9365-4447-AEB8-FBBD93DAA8BB
+
+---
+
+
+### Điều 41.8.TT.2.2. Giải thích từ ngữ
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 41008001019900000000
+
+**ID:** D85C35B1-D160-4228-806D-42CC991F112C
+
+---
+
+
+### Điều 41.8.NĐ.2. Hiệu lực của Nghị định
+
+**Chỉ mục:** 2
+
+**Mã phân cấp:** 41008002000000000000
+
+**ID:** 3EA17BBA-A4B7-4116-BF4A-1FB2284AC024
+
+---
+
+
+### Điều 41.8.TT.1.3. 
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 4100800100000000000000801996200080000300
+
+**ID:** 11CDD2F4-096B-478F-BFDD-A946EB59CEFB
+
+---
+
+
+### Điều 41.8.TT.2.3. Quy định cấm trong hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 4100800100000000000000802348100047500300
+
+**ID:** D08D881F-2700-4AD6-BF71-C54FE52093FF
+
+---
+
+
+### Điều 41.8.NĐ.3. Cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh vũ trường, karaoke.
+
+**Chỉ mục:** 3
+
+**Mã phân cấp:** 41008003000000000000
+
+**ID:** 917E4749-B7ED-4990-95E5-C216D85B7824
+
+---
+
+
+### Điều 41.8.TT.1.4.
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 4100800100000000000000801996200080000400
+
+**ID:** 74463581-FFF4-41F3-A5C5-C822DEC7FF39
+
+---
+
+
+### Điều 41.8.NĐ.4. Trách nhiệm thực hiện
+
+**Chỉ mục:** 4
+
+**Mã phân cấp:** 41008004000000000000
+
+**ID:** CA8F8FD1-CC89-4AC6-B357-A4AB542E31D7
+
+---
+
+
+### Điều 41.8.TT.1.5. 
+
+**Chỉ mục:** 5
+
+**Mã phân cấp:** 4100800100000000000000801996200080000500
+
+**ID:** 59918A5C-45F4-4574-B1DD-066526BE2F0A
+
+---
+
+
+### Điều 41.8.TT.1.6.
+
+**Chỉ mục:** 6
+
+**Mã phân cấp:** 4100800100000000000000801996200080000600
+
+**ID:** 85CCACF6-C130-45E3-A34D-B80379D3DCE1
+
+---
+
+
+### Điều 41.8.TT.1.7. 
+
+**Chỉ mục:** 7
+
+**Mã phân cấp:** 4100800100000000000000801996200080000700
+
+**ID:** D0F37A18-FC72-4A5D-B968-5346796D731A
+
+---
+
+
+### Điều 41.8.TT.1.8. 
+
+**Chỉ mục:** 8
+
+**Mã phân cấp:** 4100800100000000000000801996200080000800
+
+**ID:** D754AC9C-8F02-4D10-82D0-22076BF88369
+
+---
+
+
+### Điều 41.8.TT.1.9.
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 4100800100000000000000801996200080000900
+
+**ID:** 0CD3BF83-E5C4-44DF-83C6-17F765F52FDB
+
+---
+
+
+### Điều 41.8.TT.2.9. Viết, đặt biển hiệu
+
+**Chỉ mục:** 9
+
+**Mã phân cấp:** 4100800100000000000000802348100047500900
+
+**ID:** C7C86C82-B403-4239-A823-93B6BF944582
+
+---
+
+
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch]({{ site.baseurl }}/van-hoa-the-thao-du-lich/)  
-[← Danh sách tất cả Chủ đề](../../)
+[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
+[← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 23
@@ -258,4 +281,4 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}

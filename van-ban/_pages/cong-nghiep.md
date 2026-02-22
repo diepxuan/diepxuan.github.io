@@ -8,14 +8,15 @@ permalink: /van-ban/cong-nghiep/
 
 **Chủ đề:** Công nghiệp  
 **Số đề mục:** 4  
+**Số điều khoản:** 945  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
 ## 📋 Danh sách Đề mục
 
-1. **[Dầu khí](/van-ban/cong-nghiep/dau-khi/)**
-2. **[Hóa chất](/van-ban/cong-nghiep/hoa-chat/)**
-3. **[Khuyến công](/van-ban/cong-nghiep/khuyen-cong/)**
-4. **[Sử dụng năng lượng tiết kiệm và hiệu quả](/van-ban/cong-nghiep/su-dung-nang-luong-tiet-kiem-va-hieu-qua/)**
+1. **[Dầu khí](/van-ban/cong-nghiep/dau-khi/)** - 436 điều khoản
+2. **[Hóa chất](/van-ban/cong-nghiep/hoa-chat/)** - 252 điều khoản
+3. **[Khuyến công](/van-ban/cong-nghiep/khuyen-cong/)** - 102 điều khoản
+4. **[Sử dụng năng lượng tiết kiệm và hiệu quả](/van-ban/cong-nghiep/su-dung-nang-luong-tiet-kiem-va-hieu-qua/)** - 155 điều khoản
 
 
 ## 🔙 Quay lại
@@ -23,11 +24,14 @@ permalink: /van-ban/cong-nghiep/
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4
+- **Tổng số điều khoản:** 945
 - **ID chủ đề:** 3a225bc6-c8c9-459e-967e-9876d4eb2c33
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản trong chủ đề này.
+## 🔍 Cách sử dụng
+1. **Chọn đề mục** từ danh sách trên
+2. **Xem nội dung đầy đủ** của đề mục
+3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}
