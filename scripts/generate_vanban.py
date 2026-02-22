@@ -31,7 +31,7 @@ def slugify(text):
 
 def get_database_connection():
     """Connect to SQLite database"""
-    db_path = "../sqlite/phapdien_complete.db"
+    db_path = "../van-ban/phap-dien/sqlite/phapdien_complete.db"
     return sqlite3.connect(db_path)
 
 def get_topics():
@@ -308,7 +308,7 @@ SELECT * FROM dieukhoan WHERE ten LIKE '%thông báo hàng hải%';
 | Định dạng | Mục đích | Đường dẫn | Số records |
 |-----------|----------|-----------|------------|
 | **SQLite (Complete)** | Database hoàn chỉnh | `phap-dien/sqlite/phapdien_complete.db` | 76,303 |
-| **Markdown** | Hiển thị web | `_pages/` | - |
+| **Markdown** | Hiển thị web | `pages/` | - |
 
 ### Cấu trúc Phân cấp
 ```
@@ -429,8 +429,8 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 def generate_all_pages():
     """Generate all pages with new URL structure"""
-    output_dir = "../../_pages"
-    vanban_dir = "../../.."
+    output_dir = "../van-ban"
+    vanban_dir = "../van-ban"
     
     # Create output directory
     Path(output_dir).mkdir(parents=True, exist_ok=True)
@@ -442,13 +442,13 @@ def generate_all_pages():
     print(f"✅ Found {len(topics)} topics")
     
     # Generate index page for _pages collection
-    print("\n📄 Generating index page for _pages collection...")
-    index_content = generate_index_page(topics)
-    index_path = os.path.join(output_dir, "index.md")
+    # print("\n📄 Generating index page for _pages collection...")
+    # index_content = generate_index_page(topics)
+    # index_path = os.path.join(output_dir, "index.md")
     
-    with open(index_path, 'w', encoding='utf-8') as f:
-        f.write(index_content)
-    print(f"✅ Index page saved: {index_path}")
+    # with open(index_path, 'w', encoding='utf-8') as f:
+    #     f.write(index_content)
+    # print(f"✅ Index page saved: {index_path}")
     
     # Generate van-ban/index.md (main website index)
     print("\n📄 Generating van-ban/index.md (main website index)...")
