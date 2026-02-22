@@ -12,6 +12,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Đề mục:** Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại  
 **Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 2  
+**Điều khoản có nội dung:** 2/2 (100.0%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** 2C780D29-C641-4E5A-B877-A3FBD4B712A4
 
+1. Trong Thông tư này Quốc hiệu, tên cơ quan và chức danh trong hệ thống hành chính nhà nước cấp trung ương được dịch đầy đủ sang tiếng Anh; tên của các đơn vị thuộc cơ quan và Ủy ban nhân dân các cấp được dịch phần danh từ chung.
+
 ---
 
 
@@ -36,6 +39,8 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 **ID:** 476F982E-6F12-4FC7-9CBF-DA2F3135304A
 
+- Thông tư này có hiệu lực sau 45 ngày kể từ ngày đăng Công báo.
+
 ---
 
 
@@ -46,6 +51,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 2
+- **Điều khoản có nội dung:** 2 (100.0%)
 - **ID đề mục:** 41bd48e0-70b5-4e06-8a55-6fae3449472f
 
 ## 🔍 Tìm kiếm

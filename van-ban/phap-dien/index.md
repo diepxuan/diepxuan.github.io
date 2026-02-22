@@ -18,7 +18,7 @@ Bộ Pháp điển Điện tử là hệ thống pháp luật chính thức củ
 - **45 Chủ đề** pháp luật
 - **306 Đề mục** chuyên sâu  
 - **76,303 Điều khoản** (chương, điều, khoản, điểm)
-- **Database hoàn chỉnh**: `phapdien_complete.db` (36MB)
+- **Database hoàn chỉnh**: `phapdien.db` (36MB)
 - **Cập nhật** theo quy định pháp luật
 
 ## 🔍 Tra cứu
@@ -48,7 +48,7 @@ Dữ liệu được lưu trữ dưới nhiều định dạng:
 
 | Định dạng | Mục đích | Đường dẫn | Số records |
 |-----------|----------|-----------|------------|
-| **SQLite (Complete)** | Database hoàn chỉnh | `sqlite/phapdien_complete.db` | 76,303 |
+| **SQLite (Complete)** | Database hoàn chỉnh | `sqlite/phapdien.db` | 76,303 |
 | **SQLite (Simple)** | Database cũ | `sqlite/phapdien_simple.db` | 18,649 |
 | **SQLite (Original)** | Database gốc | `sqlite/phapdien.db` | - |
 | **Markdown** | Hiển thị web | `markdown/*.md` | - |
@@ -139,7 +139,7 @@ python3 build_database.py
 ### 1. Query SQLite
 ```sql
 -- Kết nối database hoàn chỉnh
-sqlite3 sqlite/phapdien_complete.db
+sqlite3 sqlite/phapdien.db
 
 -- Tìm entry cụ thể (entry sếp tìm)
 SELECT * FROM dieukhoan 

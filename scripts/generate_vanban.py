@@ -18,7 +18,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 BASE_DIR = SCRIPT_DIR.parent
 
 VB_PATH = os.path.join(BASE_DIR, "van-ban")
-DB_PATH = os.path.join (VB_PATH, "phap-dien/sqlite/phapdien.db")
+DB_PATH = os.path.join(VB_PATH, "phap-dien/sqlite/phapdien.db")
 
 def slugify(text):
     """Convert text to URL-friendly slug"""
@@ -42,6 +42,30 @@ def get_database_connection():
     """Connect to SQLite database"""
     db_path = DB_PATH
     return sqlite3.connect(db_path)
+
+def get_content_stats():
+    """Get statistics about content coverage"""
+    conn = get_database_connection()
+    cursor = conn.cursor()
+    
+    # Total provisions
+    cursor.execute("SELECT COUNT(*) FROM dieukhoan")
+    total_provisions = cursor.fetchone()[0]
+    
+    # Provisions with content
+    cursor.execute("SELECT COUNT(DISTINCT dieukhoan_id) FROM dieukhoan_content")
+    provisions_with_content = cursor.fetchone()[0]
+    
+    # Content coverage percentage
+    coverage = (provisions_with_content / total_provisions * 100) if total_provisions > 0 else 0
+    
+    conn.close()
+    
+    return {
+        'total_provisions': total_provisions,
+        'provisions_with_content': provisions_with_content,
+        'coverage': coverage
+    }
 
 def get_topics():
     """Get all topics from database"""
@@ -116,26 +140,35 @@ def get_subtopics_by_topic(topic_id):
     return subtopics
 
 def get_provisions_by_subtopic(subtopic_id):
-    """Get all provisions for a subtopic"""
+    """Get all provisions for a subtopic WITH CONTENT"""
     conn = get_database_connection()
     cursor = conn.cursor()
     
     cursor.execute("""
-        SELECT id, ten, chimuc, mapc
-        FROM dieukhoan 
-        WHERE demuc_id = ?
-        ORDER BY chimuc
+        SELECT d.id, d.ten, d.chimuc, d.mapc,
+               dc.html_content, dc.markdown_content, dc.raw_text
+        FROM dieukhoan d
+        LEFT JOIN dieukhoan_content dc ON d.id = dc.dieukhoan_id
+        WHERE d.demuc_id = ?
+        ORDER BY d.chimuc
     """, (subtopic_id,))
     
     provisions = []
     for row in cursor.fetchall():
-        provision_id, name, index, mapc = row
+        provision_id, name, index, mapc, html_content, markdown_content, raw_text = row
+        
+        # Use markdown content if available, otherwise use raw text
+        content = markdown_content if markdown_content else raw_text
+        
         provisions.append({
             'id': provision_id,
             'name': name,
             'index': index,
             'mapc': mapc,
-            'content': ""  # No content column in this database
+            'html_content': html_content,
+            'markdown_content': markdown_content,
+            'raw_text': raw_text,
+            'content': content
         })
     
     conn.close()
@@ -189,7 +222,11 @@ slug: {topic['slug']}
     return content
 
 def generate_subtopic_page(topic, subtopic, provisions):
-    """Generate markdown for a subtopic page"""
+    """Generate markdown for a subtopic page WITH CONTENT"""
+    # Count provisions with content
+    provisions_with_content = sum(1 for p in provisions if p['content'])
+    content_coverage = (provisions_with_content / len(provisions) * 100) if provisions else 0
+    
     content = f"""---
 layout: default
 title: {subtopic['name']}
@@ -204,6 +241,7 @@ parent: {topic['slug']}
 **Đề mục:** {subtopic['name']}  
 **Chủ đề:** [{topic['name']}](/van-ban/{topic['slug']}/)  
 **Số điều khoản:** {subtopic['provision_count']}  
+**Điều khoản có nội dung:** {provisions_with_content}/{len(provisions)} ({content_coverage:.1f}%)  
 **Cập nhật:** {{{{ site.time | date: "%Y-%m-%d" }}}}
 
 ## 📜 Nội dung Điều khoản
@@ -222,6 +260,12 @@ parent: {topic['slug']}
                 content += f"**Chỉ mục:** {provision['index']}\n\n"
                 content += f"**Mã phân cấp:** {provision['mapc']}\n\n"
                 content += f"**ID:** {provision['id']}\n\n"
+                
+                if provision['content']:
+                    content += f"{provision['content']}\n\n"
+                else:
+                    content += "*Nội dung chưa có sẵn*\n\n"
+                
                 content += "---\n\n"
         else:
             # This is a provision
@@ -232,6 +276,8 @@ parent: {topic['slug']}
             
             if provision['content']:
                 content += f"{provision['content']}\n\n"
+            else:
+                content += "*Nội dung chưa có sẵn*\n\n"
             
             content += "---\n\n"
     
@@ -247,6 +293,7 @@ parent: {topic['slug']}
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** {subtopic['provision_count']}
+- **Điều khoản có nội dung:** {provisions_with_content} ({content_coverage:.1f}%)
 - **ID đề mục:** {subtopic['id']}
 
 ## 🔍 Tìm kiếm
@@ -258,7 +305,10 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 def generate_index_page(topics):
     """Generate main index page"""
-    content = """---
+    # Get content statistics
+    stats = get_content_stats()
+    
+    content = f"""---
 layout: default
 title: Bộ Pháp điển Điện tử
 permalink: /van-ban/
@@ -268,17 +318,18 @@ permalink: /van-ban/
 
 **Nguồn:** Bộ Tư pháp Việt Nam  
 **Cập nhật:** {{{{ site.time | date: "%Y-%m-%d" }}}}
-**Phiên bản:** 1.0
+**Phiên bản:** 2.0 (Với nội dung đầy đủ)
 
 ## 📊 Tổng quan
 
 Bộ Pháp điển Điện tử là hệ thống pháp luật chính thức của Việt Nam, được Bộ Tư pháp công bố. Hệ thống này bao gồm toàn bộ các văn bản pháp luật được hệ thống hóa theo cấu trúc phân cấp rõ ràng.
 
-### Thống kê
+### Thống kê Nội dung
 - **45 Chủ đề** pháp luật
 - **306 Đề mục** chuyên sâu  
-- **76,303 Điều khoản** (chương, điều, khoản, điểm)
-- **Database hoàn chỉnh**: `phap-dien/sqlite/phapdien_complete.db` (36MB)
+- **{stats['total_provisions']:,} Điều khoản** (chương, điều, khoản, điểm)
+- **{stats['provisions_with_content']:,} Điều khoản có nội dung** ({stats['coverage']:.1f}%)
+- **Database hoàn chỉnh**: `phap-dien/sqlite/phapdien.db` (với nội dung HTML)
 - **Cập nhật** theo quy định pháp luật
 
 ## 📋 Danh sách Chủ đề Pháp luật
@@ -302,13 +353,16 @@ Nhấp vào tên chủ đề để xem danh sách đề mục:
 ### 2. Tìm kiếm nhanh
 Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
-### 3. Query Database
+### 3. Query Database với Nội dung
 ```sql
--- Kết nối database hoàn chỉnh
-sqlite3 phap-dien/sqlite/phapdien_complete.db
+-- Kết nối database hoàn chỉnh với nội dung
+sqlite3 phap-dien/sqlite/phapdien.db
 
--- Tìm các điều khoản theo từ khóa
-SELECT * FROM dieukhoan WHERE ten LIKE '%thông báo hàng hải%';
+-- Tìm các điều khoản theo nội dung
+SELECT d.ten, dc.raw_text 
+FROM dieukhoan d
+JOIN dieukhoan_content dc ON d.id = dc.dieukhoan_id
+WHERE dc.raw_text LIKE '%thông báo hàng hải%';
 ```
 
 ## 📁 Cấu trúc Dữ liệu
@@ -371,7 +425,10 @@ Chủ đề (45)
 
 def generate_vanban_index_page(topics):
     """Generate van-ban/index.md page (main website index)"""
-    content = """---
+    # Get content statistics
+    stats = get_content_stats()
+    
+    content = f"""---
 layout: default
 title: Văn bản Pháp luật
 permalink: /van-ban/
@@ -383,10 +440,11 @@ permalink: /van-ban/
 
 Hệ thống pháp luật chính thức của Việt Nam, được Bộ Tư pháp công bố.
 
-### Thống kê
+### Thống kê Nội dung
 - **45 Chủ đề** pháp luật
 - **306 Đề mục** chuyên sâu  
-- **76,303 Điều khoản** (chương, điều, khoản, điểm)
+- **{stats['total_provisions']:,} Điều khoản** (chương, điều, khoản, điểm)
+- **{stats['provisions_with_content']:,} Điều khoản có nội dung** ({stats['coverage']:.1f}%)
 
 ## 📋 Danh sách Chủ đề Pháp luật
 
@@ -450,6 +508,10 @@ def generate_all_pages():
     
     print(f"✅ Found {len(topics)} topics")
     
+    # Get content statistics
+    stats = get_content_stats()
+    print(f"📊 Content coverage: {stats['provisions_with_content']:,}/{stats['total_provisions']:,} ({stats['coverage']:.1f}%)")
+    
     # Generate index page for _pages collection
     # print("\n📄 Generating index page for _pages collection...")
     # index_content = generate_index_page(topics)
@@ -469,6 +531,8 @@ def generate_all_pages():
     print(f"✅ van-ban/index.md saved: {vanban_index_path}")
     
     total_subtopics = 0
+    total_provisions_with_content = 0
+    total_provisions = 0
     
     # Generate topic pages and subtopic pages
     for topic in topics:
@@ -491,8 +555,13 @@ def generate_all_pages():
         
         # Generate subtopic pages
         for subtopic in subtopics:
-            # Get provisions for this subtopic
+            # Get provisions for this subtopic WITH CONTENT
             provisions = get_provisions_by_subtopic(subtopic['id'])
+            
+            # Count provisions with content
+            provisions_with_content = sum(1 for p in provisions if p['content'])
+            total_provisions_with_content += provisions_with_content
+            total_provisions += len(provisions)
             
             # Generate subtopic page
             subtopic_content = generate_subtopic_page(topic, subtopic, provisions)
@@ -505,11 +574,15 @@ def generate_all_pages():
         
         print(f"  ✅ {len(subtopics)} subtopic pages in {topic['slug']}/")
     
+    # Calculate overall coverage
+    overall_coverage = (total_provisions_with_content / total_provisions * 100) if total_provisions > 0 else 0
+    
     print(f"\n🎉 GENERATION COMPLETE!")
     print(f"📊 Statistics:")
     print(f"  - Topics: {len(topics)}")
     print(f"  - Subtopics: {total_subtopics}")
     print(f"  - Total pages: {len(topics) + total_subtopics + 2} (including both indexes)")
+    print(f"  - Provisions with content: {total_provisions_with_content:,}/{total_provisions:,} ({overall_coverage:.1f}%)")
     print(f"📁 Output directories:")
     print(f"  - _pages/: {output_dir}")
     print(f"  - van-ban/: {vanban_dir}")

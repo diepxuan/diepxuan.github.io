@@ -12,6 +12,7 @@ parent: an-ninh-quoc-gia
 **Đề mục:** Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam  
 **Chủ đề:** [An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)  
 **Số điều khoản:** 182  
+**Điều khoản có nội dung:** 171/182 (94.0%)  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
@@ -25,6 +26,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 934D385F-3FAE-4481-8C7A-D4CDCCE2108D
 
+Luật này quy định nguyên tắc, điều kiện, trình tự, thủ tục, quyền và nghĩa vụ của người nước ngoài nhập cảnh, xuất cảnh, quá cảnh, cư trú tại Việt Nam; quyền và trách nhiệm của cơ quan quản lý nhà nước Việt Nam, của cơ quan, tổ chức, cá nhân trong hoạt động nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -35,6 +38,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000240239600027000010
 
 **ID:** 26575645-8935-4ECB-9083-A64C1CDDDBD8
+
+1. Nghị định này quy định trách nhiệm cung cấp trước thông tin về chuyến bay, chi tiết nhân sự của hành khách và tổ bay (gọi chung là thông tin trước về hành khách) của các tổ chức, cá nhân kinh doanh vận chuyển hàng không dân dụng quốc tế (gọi chung là các hãng hàng không) hoặc người khai thác các chuyến bay tư nhân, xuất phát từ một sân bay nằm ngoài lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam để đến một sân bay quốc tế của Việt Nam; trách nhiệm của các cơ quan có thẩm quyền trong việc tiếp nhận, khai thác, xử lý, sử dụng thông tin trước về hành khách và quan hệ phối hợp giữa các cơ quan đó.
 
 ---
 
@@ -47,6 +52,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3D5C8070-87B5-4B02-B02E-06EE5A722716
 
+Nghị định này quy định nguyên tắc, nội dung, hình thức phối hợp và trách nhiệm thực hiện của các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương trong công tác quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -57,6 +64,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000240255890082000010
 
 **ID:** 55B6295B-7341-4C94-8B36-126487ADAA35
+
+Nghị định này quy định về điều kiện miễn thị thực; trình tự, thủ tục cấp giấy miễn thị thực cho người được miễn thị thực quy định tại Khoản 5 Điều 12 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -69,6 +78,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C100B8F8-0EA5-4133-847D-15B681F66D47
 
+Nghị định này quy định trình tự, thủ tục thực hiện thí điểm cấp thị thực điện tử cho người nước ngoài nhập cảnh Việt Nam.
+
 ---
 
 
@@ -79,6 +90,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000280239760021000010
 
 **ID:** B4AC94DD-5384-44ED-9C24-D0159BBCBC89
+
+Thông tư này quy định về trình tự, thủ tục thực hiện quyết định của cơ quan, người có thẩm quyền về việc chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh và việc gia hạn, giải tỏa các quyết định đó.
 
 ---
 
@@ -91,6 +104,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E2619D8A-549C-4273-B9E1-6980FD7DFAF1
 
+1. Thông tư này quy định, hướng dẫn sử dụng và quản lý các loại mẫu giấy tờ liên quan đến việc nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam theo quy định tại Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -101,6 +116,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000280255090031000010
 
 **ID:** 133441D9-37AA-4532-A9FD-87F2F3965CCC
+
+Thông tư này hướng dẫn một số nội dung về cấp thị thực, cấp thẻ tạm trú, cấp giấy phép xuất nhập cảnh, giải quyết thường trú cho người nước ngoài tại Việt Nam thuộc thẩm quyền của Bộ Công an.
 
 ---
 
@@ -113,6 +130,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3CD81B6E-D93F-4DAE-A18F-2CD482213ABF
 
+Thông tư này hướng dẫn một số nội dung về cấp thị thực, gia hạn tạm trú, cấp thẻ tạm trú cho người nước ngoài tại Việt Nam thuộc thẩm quyền của Bộ Ngoại giao quản lý quy định tại Khoản 1, Khoản 2, Khoản 3, Khoản 4 Điều 8 Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (sau đây gọi tắt là Luật Xuất nhập cảnh).
+
 ---
 
 
@@ -123,6 +142,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000280260500053000010
 
 **ID:** 7083CEAC-D28B-4DE3-9F08-ADE4D61EE8B8
+
+Thông tư này quy định cách thức thực hiện khai báo, tiếp nhận thông tin tạm trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -135,6 +156,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 399678C7-84DD-4489-B6E4-14FFE9CEA59B
 
+Giao Chính phủ thực hiện thí điểm cấp thị thực điện tử cho người nước ngoài nhập cảnh Việt Nam.
+
 ---
 
 
@@ -145,6 +168,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000600000010000000000000000
 
 **ID:** 6DEC5F14-B5CC-4B63-88CE-8B756C8007DF
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -157,6 +182,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 50C3B5DE-F289-41C4-89B9-C0C735FCE9E2
 
+1. Có hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế.
+
 ---
 
 
@@ -167,6 +194,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000191026014003000006000402607800070001000
 
 **ID:** AA2C5DD2-F10A-4AB6-8B76-3F5A5515AAED
+
+1. Cơ quan, tổ chức mời, bảo lãnh người nước ngoài theo quy định tại khoản 1 Điều 16 của Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam được lựa chọn việc gửi văn bản đề nghị cấp thị thực cho người nước ngoài qua giao dịch điện tử tại Cổng thông tin điện tử về xuất nhập cảnh.
 
 ---
 
@@ -179,6 +208,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CFF91AE9-5880-424F-9D1E-63CEF144EC8A
 
+Cảng vụ hàng không Cảng hàng không quốc tế có trách nhiệm theo dõi, đôn đốc các hãng hàng không hoặc người khai thác chuyến bay tư nhân cung cấp thông tin, dữ liệu API theo đúng thời hạn quy định tại khoản 1 Điều 5 Nghị định này.
+
 ---
 
 
@@ -189,6 +220,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000220000000000000000000802397600210001000
 
 **ID:** D2C0FF42-5A13-4D46-9835-8734976074AF
+
+1. Trong thời hạn áp dụng quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh (kể cả gia hạn các quyết định này), nếu thấy cần phải giải tỏa các quyết định này thì cơ quan, người có thẩm quyền thông báo bằng văn bản cho Cục Quản lý xuất nhập cảnh và cho người có nghĩa vụ chấp hành quyết định này biết để thực hiện.
 
 ---
 
@@ -201,6 +234,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4093F726-AC0F-480B-8598-DBCE59AAF392
 
+1. Người nhập cảnh bằng giấy miễn thị thực được đơn vị kiểm soát xuất nhập cảnh cấp chứng nhận tạm trú 06 tháng cho mỗi lần nhập cảnh; nếu giấy miễn thị thực còn thời hạn dưới 06 tháng thì cấp chứng nhận tạm trú bằng thời hạn của giấy miễn thị thực.
+
 ---
 
 
@@ -211,6 +246,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000460000000000000000000402554000640001000
 
 **ID:** 77C1D777-764E-49F9-B505-A1E78ADE3A54
+
+1. Thanh tra Bộ, cơ quan ngang Bộ, Thanh tra tỉnh, thành phố trực thuộc Trung ương phối hợp với Thanh tra Bộ Công an tiến hành thanh tra việc thực hiện và chấp hành các quy định pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài của các cơ quan, đơn vị, cá nhân thuộc phạm vi quản lý của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh.
 
 ---
 
@@ -223,6 +260,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A5069DF8-DE05-42EC-AF04-89AB94D81D40
 
+1. Tổng cục An ninh có trách nhiệm chủ trì hướng dẫn Công an các đơn vị, địa phương và các đơn vị khác có liên quan tổ chức thực hiện Thông tư này.
+
 ---
 
 
@@ -233,6 +272,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005580258690004000100
 
 **ID:** 70B3F60A-1888-4046-A57E-AF667BB6BC4B
+
+Cục trưởng Cục Lãnh sự, Cục trưởng Cục Lễ tân Nhà nước, Giám đốc Sở Ngoại vụ TP. HCM và Thủ trưởng các cơ quan đại diện Việt Nam ở nước ngoài và các đơn vị trực thuộc Bộ chịu trách nhiệm thi hành Thông tư này. Trong quá trình thực hiện Thông tư, nếu có vướng mắc, các cơ quan liên quan báo cáo về Bộ Ngoại giao (qua Cục Lãnh sự đối với thủ tục cấp thị thực và gia hạn tạm trú; qua Cục Lễ tân Nhà nước đối với thủ tục cấp thẻ tạm trú) để có hướng dẫn kịp thời.
 
 ---
 
@@ -245,6 +286,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D5069F62-613E-4EEC-9FFE-C1431180F2B9
 
+1. Tổng cục An ninh có trách nhiệm:
+
 ---
 
 
@@ -255,6 +298,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001100000000000000000
 
 **ID:** 7FC40759-F59A-4D9E-84C1-E5550B619582
+
+1. Hộ chiếu đã hết trang cấp thị thực.
 
 ---
 
@@ -267,6 +312,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 49F97BAC-D0CC-4232-8B07-ED29B91527E9
 
+Bộ Công an chủ trì, phối hợp với Bộ Giao thông vận tải và Bộ Tài chính có trách nhiệm xây dựng phương án kỹ thuật kết nối với mạng máy tính của các cơ quan có thẩm quyền quy định tại Điều 6 Nghị định này để thực hiện việc tiếp nhận, khai thác, xử lý, sử dụng thông tin, dữ liệu API theo quy định.
+
 ---
 
 
@@ -277,6 +324,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000006000000100000000000000000350000000000000000000402558900820001100
 
 **ID:** BAFE511D-7E3F-43B6-88C7-2EF07F1BB85B
+
+1. Người đề nghị gia hạn tạm trú nộp 01 bộ hồ sơ tại Cục Quản lý xuất nhập cảnh hoặc Phòng Quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc Trung ương. Hồ sơ gồm:
 
 ---
 
@@ -289,6 +338,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C9483454-2150-4C75-B66E-2B3B3DF64053
 
+1. Đối với các vụ việc vi phạm pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài do đơn vị kiểm soát xuất nhập cảnh thuộc Bộ Quốc phòng phát hiện thì xử lý theo thẩm quyền, nếu có tình tiết phức tạp thì trao đổi với cơ quan quản lý xuất nhập cảnh để phối hợp xử lý.
+
 ---
 
 
@@ -299,6 +350,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005540260780007000110
 
 **ID:** 9FA4161D-5FB5-48DC-BD3D-F9E72EB095C8
+
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2017 đến ngày 01 tháng 02 năm 2021
 
 ---
 
@@ -311,6 +364,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1A10A99B-763F-4B61-8F78-86F4B2072F05
 
+Giao Cục Quản lý xuất nhập cảnh chủ trì tổ chức thực hiện Thông tư này; ban hành quy trình nhập dữ liệu và thông báo thực hiện quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh theo quy định tại Thông tư này.
+
 ---
 
 
@@ -321,6 +376,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000010000060000000000000000000402558900820001200
 
 **ID:** F7FE7BC5-6D02-45DF-82D4-AE1B5700AC30
+
+1. Giấy miễn thị thực bị thu hồi, hủy bỏ nếu phát hiện người được cấp không thuộc đối tượng quy định tại Khoản 1 Điều 2 của Nghị định này hoặc thuộc các trường hợp quy định tại Điều 6, Điều 21 và Điều 28 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -333,6 +390,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5261324D-74C4-4D07-97EA-DBF92A641DD1
 
+1. Theo điều ước quốc tế mà Việt Nam là thành viên.
+
 ---
 
 
@@ -343,6 +402,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000200000000000000000000402396000270001200
 
 **ID:** 997B91B3-ED1E-4424-BDAD-DE02D555B069
+
+Bộ Tài chính cung cấp kinh phí để các Bộ, ngành có liên quan triển khai và vận hành hệ thống thông tin, dữ liệu API theo quy định của Nghị định này.
 
 ---
 
@@ -355,6 +416,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D2F78C5D-02D9-4099-9B04-D03FA63A1CE5
 
+1. Bộ Công an có trách nhiệm:
+
 ---
 
 
@@ -365,6 +428,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005540260780007000120
 
 **ID:** 8120E315-C70A-4897-9179-31C1FD4EB1CA
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này.
 
 ---
 
@@ -377,6 +442,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CF17B931-8432-4016-BE98-B52F45B3C405
 
+Thông tư này có hiệu lực kể từ ngày 10 tháng 6 năm 2011. Các quy định trước đây của Bộ Công an trái với Thông tư này đều bãi bỏ.
+
 ---
 
 
@@ -387,6 +454,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001300000000000000000
 
 **ID:** F04D347B-BD85-4DC0-83D9-F003C4C2AD69
+
+1. Quyết định đơn phương miễn thị thực cho công dân của một nước phải có đủ các điều kiện sau đây:
 
 ---
 
@@ -399,6 +468,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9F983EF1-9FC9-441E-9F19-20BEB51800F4
 
+1. Mọi vi phạm trong việc cung cấp, khai thác, xử lý, sử dụng thông tin, dữ liệu API đều bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự, tùy theo tính chất, mức độ vi phạm, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+
 ---
 
 
@@ -409,6 +480,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000460000000000000000000402554000640001300
 
 **ID:** B5E7E1E4-2E51-43CE-801A-A7F35A7B72BF
+
+1. Bộ Công an chỉ đạo cơ quan quản lý xuất nhập cảnh thực hiện thống kê nhà nước về nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam và gửi số liệu thống kê cho Tổng cục Thống kê (Bộ Kế hoạch và Đầu tư) theo quy định.
 
 ---
 
@@ -421,6 +494,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 11B399FA-72D1-4C21-9562-C885E8F086B0
 
+1. Giấy miễn thị thực còn thời hạn được cấp trước ngày Nghị định này có hiệu lực được tiếp tục sử dụng cho đến khi hết thời hạn của giấy miễn thị thực đã được cấp.
+
 ---
 
 
@@ -431,6 +506,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001400000000000000000
 
 **ID:** 12AF0FEC-752E-4474-B8A5-9B8C08376B11
+
+1. Cơ quan, tổ chức, cá nhân mời, bảo lãnh người nước ngoài nhập cảnh Việt Nam theo quy định tại khoản 2 Điều 10 của Luật này, bao gồm:
 
 ---
 
@@ -443,6 +520,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CFCBA0B6-5979-4175-938E-C9FF607B4F0D
 
+1. Bộ Công an chủ trì, phối hợp với Bộ Ngoại giao, Bộ Quốc phòng, Bộ Tư pháp, Bộ Thông tin và Truyền thông và các cơ quan liên quan tổ chức tuyên truyền, phổ biến pháp luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam ở trong và ngoài nước.
+
 ---
 
 
@@ -453,6 +532,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005540239600027000140
 
 **ID:** A1A5039E-2E3C-4E2B-B3E7-63538310C222
+
+Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 4 năm 2014
 
 ---
 
@@ -465,6 +546,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D2015B5A-5FEC-4120-A054-93CCC14578D1
 
+1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2015.
+
 ---
 
 
@@ -475,6 +558,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001500000000000000000
 
 **ID:** B1AF3C84-83E6-4EC4-A1EC-8BA6EB4C71B0
+
+1. Người nước ngoài thuộc diện quy định tại các khoản 1, 2, 3 và 4 Điều 8 của Luật này thông qua cơ quan, tổ chức mời, bảo lãnh gửi văn bản đề nghị cấp thị thực tại cơ quan có thẩm quyền của Bộ Ngoại giao.
 
 ---
 
@@ -487,6 +572,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CF158050-FA98-400F-BFB5-4C911324CA12
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
+
 ---
 
 
@@ -497,6 +584,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005540255400064000150
 
 **ID:** 4F27519B-7FE8-4F7F-987A-D33AFEE5D967
+
+Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2015.
 
 ---
 
@@ -509,6 +598,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DE30ADBD-2D3B-4519-9971-96ED57903608
 
+1. Bộ Công an chủ trì hướng dẫn và tổ chức thực hiện Nghị định này; ban hành mẫu các mẫu giấy tờ liên quan đến việc cấp giấy miễn thị thực.
+
 ---
 
 
@@ -519,6 +610,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001600000000000000000
 
 **ID:** CBFF57AE-C812-4757-81FD-E719D1B71511
+
+1. Người nước ngoài không thuộc diện quy định tại các khoản 1, 2, 3 và 4 Điều 8 của Luật này phải thông qua cơ quan, tổ chức, cá nhân mời, bảo lãnh làm thủ tục tại cơ quan quản lý xuất nhập cảnh. Cơ quan, tổ chức, cá nhân mời, bảo lãnh người nước ngoài trực tiếp gửi văn bản đề nghị cấp thị thực tại cơ quan quản lý xuất nhập cảnh.
 
 ---
 
@@ -531,6 +624,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F6825A05-3002-410A-AE4E-7EF9B285164B
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
+
 ---
 
 
@@ -541,6 +636,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001700000000000000000
 
 **ID:** 9098E319-EE3F-4362-9CBB-C2C62C42F484
+
+1. Trong thời hạn 01 ngày làm việc kể từ ngày nhận được chỉ đạo của cơ quan có thẩm quyền của Bộ Ngoại giao và hộ chiếu, tờ khai đề nghị cấp thị thực có dán ảnh đối với trường hợp quy định tại khoản 2 Điều 15 của Luật này, cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài cấp thị thực.
 
 ---
 
@@ -553,6 +650,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1B3973CB-F54E-43EE-8A10-86386D4F2542
 
+1. Ngoài nước ngoài được cấp thị thực tại cửa khẩu quốc tế trong các trường hợp sau đây:
+
 ---
 
 
@@ -563,6 +662,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001900000000000000000
 
 **ID:** 732D3BF6-B93A-43E3-B111-3D024372CDA8
+
+1. Người nước ngoài đang tạm trú tại Việt Nam có nhu cầu cấp thị thực mới phải đề nghị cơ quan, tổ chức, cá nhân mời, bảo lãnh để làm thủ tục tại cơ quan quản lý xuất nhập cảnh hoặc cơ quan có thẩm quyền của Bộ Ngoại giao.
 
 ---
 
@@ -575,6 +676,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2783C5A9-31E6-49CB-B34F-DB134B03B6FC
 
+Luật này áp dụng đối với người nước ngoài nhập cảnh, xuất cảnh, quá cảnh, cư trú tại Việt Nam, cơ quan quản lý nhà nước Việt Nam, cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài có liên quan.
+
 ---
 
 
@@ -585,6 +688,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000240255400064000020
 
 **ID:** 0F781856-CDB3-4A67-A1E1-C2E6E921C9F5
+
+Nghị định này áp dụng với các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
 
 ---
 
@@ -597,6 +702,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 80E2EEF5-59FA-45DC-9C3C-463760931DB6
 
+1. Người Việt Nam định cư ở nước ngoài và người nước ngoài là vợ, chồng, con của người Việt Nam định cư ở nước ngoài hoặc của công dân Việt Nam.
+
 ---
 
 
@@ -607,6 +714,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000240260780007000020
 
 **ID:** B6C06AB9-680E-4D6C-BF06-611C51E05EFE
+
+1. Người nước ngoài là công dân của các nước thuộc danh sách được thí điểm cấp thị thực điện tử quy định tại Phụ lục I ban hành kèm theo Nghị định này.
 
 ---
 
@@ -619,6 +728,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 05538AEF-5EFE-4201-8962-60DAF2DA2D00
 
+Thông tư này áp dụng đối với cơ quan, người có thẩm quyền quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh và gia hạn, giải tỏa các quyết định đó; với cơ quan thực hiện và với người có nghĩa vụ chấp hành các quyết định đó.
+
 ---
 
 
@@ -629,6 +740,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000280255090031000020
 
 **ID:** 8F14A9B3-0327-4F6A-8604-13AB817450E5
+
+Thông tư này áp dụng đối với người nước ngoài nhập cảnh, cư trú tại Việt Nam và cơ quan, tổ chức, cá nhân có liên quan.
 
 ---
 
@@ -641,6 +754,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9386354F-7D09-40BB-B503-0B36BE881FB2
 
+Thông tư này áp dụng đối với người nước ngoài thuộc thẩm quyền quản lý của Bộ Ngoại giao nhập cảnh, cư trú tại Việt Nam và cơ quan, tổ chức, cá nhân có liên quan.
+
 ---
 
 
@@ -651,6 +766,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000280260500053000020
 
 **ID:** 5492485A-592A-4F86-8F5B-FBA0EA3AD825
+
+Thông tư này áp dụng đối với người nước ngoài cư trú tại Việt Nam, cơ sở có người nước ngoài tạm trú qua đêm (sau đây viết tắt là cơ sở lưu trú); cơ quan có trách nhiệm trong quản lý cư trú của người nước ngoài và các cơ quan, tổ chức, cá nhân có liên quan.
 
 ---
 
@@ -663,6 +780,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F952FEFC-6009-4877-BF5B-30761D18A9A3
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -673,6 +792,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001910260140030000020
 
 **ID:** E9E7F4CC-F96C-48B3-8BC7-6435513CF142
+
+1. Thị thực điện tử là loại thị thực do cơ quan quản lý xuất nhập cảnh cấp cho người nước ngoài đang ở nước ngoài có nhu cầu nhập cảnh Việt Nam.
 
 ---
 
@@ -685,6 +806,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 93621596-A358-4F2F-8D58-D9A0B507F206
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -695,6 +818,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000470000000000000000000802532700040000200
 
 **ID:** A5E95CFC-C02C-4400-9074-70AD30E86ED9
+
+1. Tờ khai đề nghị cấp thị thực Việt Nam (NA1).
 
 ---
 
@@ -707,6 +832,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CD909416-8F5E-4E59-8F20-B3F5265955FF
 
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2013.
+
 ---
 
 
@@ -717,6 +844,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005540260780007000130
 
 **ID:** 7981B824-A60C-4640-97E7-65ACCBCAF165
+
+1. Nghị định này có hiệu lực thi hành trong hai năm kể từ ngày 01 tháng 02 năm 2019.
 
 ---
 
@@ -729,6 +858,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B5B13E03-1F79-4937-B79C-800A9C9125DA
 
+Người nước ngoài được nhập cảnh khi có đủ các điều kiện sau đây:
+
 ---
 
 
@@ -739,6 +870,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000300002100000000000000000
 
 **ID:** AE217950-D7BF-47A0-8E67-4CE6EB086056
+
+1.  Không đủ điều kiện quy định tại khoản 1 Điều 20 của Luật này.
 
 ---
 
@@ -751,6 +884,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 13C8F033-CDAB-48FC-B543-8D4D46E5B23D
 
+1. Người đứng đầu đơn vị kiểm soát xuất nhập cảnh quyết định chưa cho nhập cảnh đối với trường hợp quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều 21 của Luật này.
+
 ---
 
 
@@ -761,6 +896,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000400002300000000000000000
 
 **ID:** B1867733-F330-4A8C-A35D-127DAF9E7CC8
+
+Người nước ngoài được quá cảnh khi có đủ các điều kiện sau đây:
 
 ---
 
@@ -773,6 +910,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B7FDB4D0-140B-42F5-A4F9-2CA2818ED3A4
 
+1. Khu vực quá cảnh là khu vực thuộc cửa khẩu quốc tế, nơi người nước ngoài được lưu lại để đi nước thứ ba.
+
 ---
 
 
@@ -783,6 +922,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000400002500000000000000000
 
 **ID:** B061E216-23DD-4536-ABBC-DE4CBEB4E8B4
+
+1. Người nước ngoài quá cảnh đường hàng không được miễn thị thực và phải ở trong khu vực quá cảnh tại sân bay quốc tế trong thời gian chờ chuyến bay.
 
 ---
 
@@ -795,6 +936,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F8D3091F-D52E-46A9-ACDF-CAE0CEE5E3FC
 
+Người nước ngoài quá cảnh đường biển được miễn thị thực và phải ở khu vực quá cảnh tại cửa khẩu cảng biển trong thời gian tàu, thuyền neo đậu; trường hợp có nhu cầu vào nội địa tham quan, du lịch theo chương trình do doanh nghiệp lữ hành quốc tế tại Việt Nam tổ chức thì được xét cấp thị thực phù hợp với thời gian quá cảnh; trường hợp có nhu cầu xuất cảnh qua cửa khẩu khác thì được xét cấp thị thực ký hiệu VR.
+
 ---
 
 
@@ -805,6 +948,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000500002700000000000000000
 
 **ID:** 0CAEEE93-86AA-4D52-88F8-C230B7668E47
+
+Người nước ngoài được xuất cảnh khi có đủ các điều kiện sau đây:
 
 ---
 
@@ -817,6 +962,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A57F4FF3-13EB-4B36-996D-B8C8C42F07CD
 
+1. Người nước ngoài có thể bị tạm hoãn xuất cảnh nếu thuộc một trong các trường hợp sau đây:
+
 ---
 
 
@@ -827,6 +974,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000500002900000000000000000
 
 **ID:** DC5C01CA-9AAB-446C-BD8A-2C99A9ABE533
+
+1. Thủ trưởng cơ quan điều tra, Viện trưởng Viện kiểm sát, Chánh án Tòa án, Thủ trưởng cơ quan thi hành án, Chủ tịch Hội đồng cạnh tranh trong phạm vi nhiệm vụ, quyền hạn của mình quyết định tạm hoãn xuất cảnh đối với các trường hợp quy định tại điểm a và điểm b khoản 1 Điều 28 của Luật này.
 
 ---
 
@@ -839,6 +988,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9B38480E-A9AA-44A3-B1DD-D5CED9A51A02
 
+Trong Luật này, những từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -849,6 +1000,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000340260780007000030
 
 **ID:** 9FC0335F-5F8B-4DE5-9B39-7ED86D8B1B5F
+
+1. Cổng thông tin điện tử về xuất nhập cảnh là cổng thông tin điện tử của Cục Quản lý xuất nhập cảnh - Bộ Công an có tên miền tiếng Việt là “https://www.xuatnhapcanh.gov.vn”; tiếng Anh là “https://www.immigration.gov.vn”, có chức năng xuất bản thông tin, cung cấp dịch vụ công trực tuyến và hỗ trợ tìm kiếm, liên kết, lưu trữ thông tin liên quan đến lĩnh vực quản lý xuất nhập cảnh.
 
 ---
 
@@ -861,6 +1014,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E324466C-8E66-4F6E-B47F-0B4375429DE1
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
 ---
 
 
@@ -871,6 +1026,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000010000040000000000000000000402396000270000300
 
 **ID:** FC49E1E7-2A70-4D28-AEE2-46ECFF89AF91
+
+Việc khai thác, xử lý, sử dụng thông tin, dữ liệu API theo quy định của Nghị định này phải tuân thủ các nguyên tắc sau:
 
 ---
 
@@ -883,6 +1040,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 146DE8FD-7EDA-4068-888C-A5EA4EBE4658
 
+1. Tạo điều kiện thuận lợi cho người nước ngoài, cơ sở lưu trú và các cơ quan, tổ chức, cá nhân có liên quan thực hiện khai báo, tiếp nhận thông tin tạm trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -893,6 +1052,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000120000000000000000000402558900820000300
 
 **ID:** BF6DB5F0-F36A-4EEC-B132-A2ED3C1DE064
+
+1. Có hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế còn giá trị ít nhất 01 năm.
 
 ---
 
@@ -905,6 +1066,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 427C16D5-606B-4AEC-B687-DD585D2226F5
 
+1. Cơ quan, tổ chức, cá nhân bảo lãnh người nước ngoài vào Việt Nam theo khoản 1 Điều 16 của Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (sau đây gọi tắt là Luật) trực tiếp gửi văn bản đề nghị tại Cục Quản lý xuất nhập cảnh.
+
 ---
 
 
@@ -915,6 +1078,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001910260140030000030
 
 **ID:** 0167BB62-C99C-47C2-85D2-749199FD126C
+
+1. Việc thí điểm cấp thị thực điện tử áp dụng đối với công dân của nước có đủ các điều kiện sau đây:
 
 ---
 
@@ -927,6 +1092,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8AF9AF1A-8B50-4EF1-BBA8-9BB5740C8819
 
+1. Tuân thủ quy định của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam và văn bản pháp luật có liên quan.
+
 ---
 
 
@@ -937,6 +1104,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000470000000000000000000802532700040000300
 
 **ID:** FE91C09E-D4FA-4650-8C0F-48F924A5CC83
+
+1. Công văn trả lời đề nghị xét duyệt nhân sự người nước ngoài nhập cảnh (NB1).
 
 ---
 
@@ -949,6 +1118,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 3F8DE77C-C14E-4314-9331-F15BCF254899
 
+1. Cục Lãnh sự, Bộ Ngoại giao (sau đây gọi tắt là Cục Lãnh sự) tiếp nhận và giải quyết đề nghị/thông báo cấp thị thực, gia hạn tạm trú cho người nước ngoài thuộc diện quy định tại Khoản 1, Khoản 2, Khoản 3, Khoản 4 Điều 8 Luật Xuất nhập cảnh.
+
 ---
 
 
@@ -959,6 +1130,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000500003000000000000000000
 
 **ID:** 1B8A01C0-7299-4217-BDCE-F29C93DB3EAB
+
+1. Người nước ngoài có thể bị buộc xuất cảnh trong trường hợp sau đây:
 
 ---
 
@@ -971,6 +1144,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0AD7A029-01AD-45A7-91AD-57A16A2935DB
 
+1. Đơn vị kiểm soát xuất nhập cảnh cấp chứng nhận tạm trú cho người nước ngoài nhập cảnh bằng hình thức đóng dấu vào hộ chiếu hoặc đóng dấu vào thị thực rời với thời hạn như sau:
+
 ---
 
 
@@ -981,6 +1156,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000060000001000000000000000003200000000000000000
 
 **ID:** D6BFEA7A-EDFD-47F2-996E-825CD4590C29
+
+Cơ sở lưu trú là nơi tạm trú của người nước ngoài trên lãnh thổ Việt Nam, bao gồm các cơ sở lưu trú du lịch, nhà khách, khu nhà ở cho người nước ngoài làm việc, lao động, học tập, thực tập, cơ sở khám bệnh, chữa bệnh, nhà riêng hoặc cơ sở lưu trú khác theo quy định của pháp luật.
 
 ---
 
@@ -993,6 +1170,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 19C97DF9-C527-4323-BD61-A45040A92394
 
+1. Người nước ngoài tạm trú tại Việt Nam phải thông qua người trực tiếp quản lý, điều hành hoạt động của cơ sở lưu trú để khai báo tạm trú với Công an xã, phường, thị trấn hoặc đồn, trạm Công an nơi có cơ sở lưu trú.
+
 ---
 
 
@@ -1003,6 +1182,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000060000001000000000000000003400000000000000000
 
 **ID:** F3512A07-ADC5-4455-A1D6-B000442BD006
+
+1. Người nước ngoài được tạm trú ở cơ sở lưu trú tại khu công nghiệp, khu chế xuất, khu kinh tế cửa khẩu, khu kinh tế ven biển và thực hiện việc khai báo tạm trú theo quy định tại Điều 33 của Luật này.
 
 ---
 
@@ -1015,6 +1196,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DF72D1CB-458C-49B9-9342-42A34CD3CF40
 
+1. Người nước ngoài đang tạm trú tại Việt Nam có nhu cầu gia hạn tạm trú phải đề nghị cơ quan, tổ chức, cá nhân mời, bảo lãnh làm thủ tục tại cơ quan quản lý xuất nhập cảnh hoặc cơ quan có thẩm quyền của Bộ Ngoại giao.
+
 ---
 
 
@@ -1025,6 +1208,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000060000001000000000000000003600000000000000000
 
 **ID:** 9636C90C-7027-4559-B115-481FB18DA9E4
+
+1. Người nước ngoài là thành viên cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện tổ chức quốc tế thuộc Liên hợp quốc, tổ chức liên chính phủ tại Việt Nam và vợ, chồng, con dưới 18 tuổi, người giúp việc cùng đi theo nhiệm kỳ được cấp thẻ tạm trú ký hiệu NG3.
 
 ---
 
@@ -1037,6 +1222,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 02830277-92B3-4EA9-B8EF-171F8446385D
 
+1. Hồ sơ đề nghị cấp thẻ tạm trú bao gồm:
+
 ---
 
 
@@ -1047,6 +1234,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000060000001000000000000000003800000000000000000
 
 **ID:** 59779384-2C42-4F09-887D-622D21AD40D8
+
+1. Thời hạn thẻ tạm trú được cấp có giá trị ngắn hơn thời hạn còn lại của hộ chiếu ít nhất 30 ngày.
 
 ---
 
@@ -1059,6 +1248,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2B04ABB4-42E3-4A36-B47C-7ACC286F3558
 
+1. Người nước ngoài có công lao, đóng góp cho sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam được nhà nước Việt Nam tặng huân chương hoặc danh hiệu vinh dự nhà nước.
+
 ---
 
 
@@ -1069,6 +1260,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000400000000000000000
 
 **ID:** CF2E1798-AA0A-4528-AE4B-283296915AF3
+
+1. Tuân thủ quy định của Luật này, các quy định khác của pháp luật Việt Nam có liên quan hoặc điều ước quốc tế mà Việt Nam là thành viên.
 
 ---
 
@@ -1081,6 +1274,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** A366674D-B478-4783-B1C8-AFC68E6E7B8E
 
+1. Giấy miễn thị thực có thời hạn tối đa không quá 05 năm và ngắn hơn thời hạn sử dụng của hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của người được cấp ít nhất 06 tháng.
+
 ---
 
 
@@ -1091,6 +1286,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000150000000000000000000802586900040000400
 
 **ID:** 7E1F9F9A-A577-47CB-95E4-5AC76C9130C1
+
+1. Cơ quan, tổ chức mời, bảo lãnh người nước ngoài vào Việt Nam theo quy định tại Khoản 2, Khoản 3 Điều 15 của Luật Xuất nhập cảnh trực tiếp gửi hồ sơ thông báo/đề nghị cấp thị thực cho Cục Lãnh sự hoặc Sở Ngoại vụ TP. HCM.
 
 ---
 
@@ -1103,6 +1300,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7CE40217-11A2-41C5-8B1F-4CC67B267910
 
+1. Người nước ngoài được cấp thị thực điện tử phải có hộ chiếu và không thuộc trường hợp chưa cho nhập cảnh quy định tại Điều 21 của Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -1113,6 +1312,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000191026014003000006000402607800070000400
 
 **ID:** 5513FBE1-6F9E-4BBC-81BD-AF5FF51F24B3
+
+1. Người nước ngoài đề nghị cấp thị thực điện tử thực hiện như sau:
 
 ---
 
@@ -1125,6 +1326,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7A9A33C0-6B92-44A5-800E-7972B4A23538
 
+1. Các hãng hàng không hoặc người khai thác các chuyến bay tư nhân quy định tại khoản 1 Điều 1 Nghị định này có trách nhiệm đăng ký mạng truyền để cung cấp dữ liệu API cho cơ quan có thẩm quyền của Việt Nam quy định tại khoản 2 Điều này.
+
 ---
 
 
@@ -1135,6 +1338,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000220000000000000000000802397600210000400
 
 **ID:** 3398B727-F7B8-40F3-A39D-E0A92BDAE5BF
+
+1. Văn bản thông báo về quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh của cơ quan, người có thẩm quyền gồm:
 
 ---
 
@@ -1147,6 +1352,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 6A6ED8D4-7D73-40A1-B350-5134443AD648
 
+1. Người khai báo tạm trú truy cập Trang thông tin điện tử của Phòng Quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc Trung ương nơi đặt cơ sở lưu trú (sau đây viết tắt là Trang thông tin điện tử), cung cấp thông tin về tên, loại hình, địa chỉ, số điện thoại, email của cơ sở lưu trú; họ tên, ngày tháng năm sinh, số điện thoại, số giấy Chứng minh nhân dân hoặc thẻ Căn cước công dân hoặc hộ chiếu của mình để nhận tài khoản khai báo. Khi có thay đổi các thông tin liên quan đến tài khoản khai báo phải cập nhật sửa đổi, bổ sung ngay thông tin đó trên Trang thông tin điện tử.
+
 ---
 
 
@@ -1157,6 +1364,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000006000000100000000000000000360000000000000000000802550900310000400
 
 **ID:** ED160358-CE09-4940-ADC3-444A3BB34E21
+
+1. Người nước ngoài thuộc diện được cấp thẻ tạm trú theo quy định tại khoản 2 Điều 36 của Luật phải thông qua cơ quan, tổ chức, cá nhân đã mời, bảo lãnh trực tiếp làm thủ tục tại Cục Quản lý xuất nhập cảnh hoặc Phòng Quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc trung ương nơi cơ quan, tổ chức mời, bảo lãnh đặt trụ sở hoặc nơi cá nhân mời, bảo lãnh cư trú.
 
 ---
 
@@ -1169,6 +1378,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CE7E265C-815A-461A-AC19-C692A2012DEA
 
+1. Trao đổi ý kiến, cung cấp thông tin bằng văn bản theo yêu cầu của cơ quan chủ trì, cơ quan phối hợp.
+
 ---
 
 
@@ -1179,6 +1390,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000470000000000000000000802532700040000400
 
 **ID:** 12E66DA9-E93B-4B03-B74A-4291E001DE32
+
+1. Thị thực dán (NC1).
 
 ---
 
@@ -1191,6 +1404,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 82D84844-E50A-4624-82B3-1338AF242611
 
+1. Người nước ngoài quy định tại Điều 39 của Luật này được xét cho thường trú nếu có chỗ ở hợp pháp và có thu nhập ổn định bảo đảm cuộc sống tại Việt Nam.
+
 ---
 
 
@@ -1201,6 +1416,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000060000002000000000000000004100000000000000000
 
 **ID:** F894DCE2-6235-4C73-A08E-1D5B514752E0
+
+1. Người nước ngoài đề nghị cho thường trú làm thủ tục tại cơ quan quản lý xuất nhập cảnh. Hồ sơ bao gồm:
 
 ---
 
@@ -1213,6 +1430,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2B2B6BB9-E665-4D6D-B485-752254EE3EA9
 
+1. Người không quốc tịch quy định tại khoản 4 Điều 39 của Luật này nộp hồ sơ tại cơ quan quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc trung ương nơi tạm trú. Hồ sơ bao gồm:
+
 ---
 
 
@@ -1223,6 +1442,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000060000002000000000000000004300000000000000000
 
 **ID:** 9B167901-BA56-4CEA-B857-EC00D96BD9DB
+
+1. Thẻ thường trú do Công an tỉnh, thành phố trực thuộc trung ương cấp. Định kỳ 10 năm một lần, người nước ngoài thường trú phải đến Công an tỉnh, thành phố trực thuộc trung ương nơi thường trú để cấp đổi thẻ. Hồ sơ bao gồm:
 
 ---
 
@@ -1235,6 +1456,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 2EBBD3E6-129C-4303-A9D5-B9A3E90DCF87
 
+1. Người nước ngoài nhập cảnh, xuất cảnh, quá cảnh, cư trú tại Việt Nam có các quyền sau đây:
+
 ---
 
 
@@ -1245,6 +1468,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000700004500000000000000000
 
 **ID:** BD1504C1-E042-4522-987A-53529C241865
+
+1. Cơ quan, tổ chức, cá nhân mời, bảo lãnh có các quyền sau đây:
 
 ---
 
@@ -1257,6 +1482,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 24190E0D-147E-498C-95C6-2C4E4B478FE5
 
+1. Thống nhất quản lý nhà nước về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -1267,6 +1494,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000800004700000000000000000
 
 **ID:** 4F3775DE-5216-4101-9696-62A4E4E1F537
+
+1. Chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với các bộ, cơ quan ngang bộ liên quan thực hiện quản lý nhà nước về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -1279,6 +1508,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 45EAC05E-C871-4628-8433-07D2DAC73912
 
+1. Phối hợp với Bộ Công an thực hiện hoạt động quản lý về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -1289,6 +1520,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000800004900000000000000000
 
 **ID:** 2E967C28-786B-41B7-AC6E-8049CCEF5575
+
+1. Phối hợp với Bộ Công an thực hiện hoạt động quản lý về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -1301,6 +1534,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5181F7B0-EC04-4FAC-811C-541A01170512
 
+1. Cản trở người nước ngoài và cơ quan, tổ chức, cá nhân có liên quan thực hiện quyền, nghĩa vụ, trách nhiệm theo quy định của pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+
 ---
 
 
@@ -1311,6 +1546,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000120000000000000000000402558900820000500
 
 **ID:** 23B7A9C2-6DB8-4B47-893B-4368D58D1FB1
+
+Người được cấp, cấp lại giấy miễn thị thực phải nộp lệ phí theo quy định của pháp luật về phí và lệ phí.
 
 ---
 
@@ -1323,6 +1560,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 0D6F9E72-0963-46EB-A0CA-91DB94467BDF
 
+1. Người nước ngoài đã được cấp thị thực ký hiệu NG1, NG2 và NG4, sau khi nhập cảnh Việt Nam nếu có nhu cầu gia hạn tạm trú thì cần thông qua cơ quan, tổ chức mời, bảo lãnh người nước ngoài vào Việt Nam gửi hồ sơ thông báo/đề nghị gia hạn tạm trú tới Cục Lãnh sự hoặc Sở Ngoại vụ TP. HCM.
+
 ---
 
 
@@ -1333,6 +1572,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200001910260140030000050
 
 **ID:** 308D991B-92CA-49F9-B326-9F28ABF12C19
+
+Người đề nghị cấp thị thực điện tử phải nộp phí cấp thị thực qua tài khoản ngân hàng. Phí cấp thị thực không được hoàn trả trong trường hợp không được cấp.
 
 ---
 
@@ -1345,6 +1586,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 1F145FE5-0835-4442-9C54-320A830D1138
 
+1. Trước khi đề nghị cấp thị thực điện tử cho người nước ngoài, cơ quan, tổ chức tại Việt Nam đăng ký tài khoản điện tử theo quy định tại khoản 2 Điều này và có chữ ký điện tử theo quy định của Luật giao dịch điện tử và các văn bản hướng dẫn.
+
 ---
 
 
@@ -1355,6 +1598,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000200000000000000000000402396000270000500
 
 **ID:** 7EBFF58E-A041-4940-AAEE-612DA231B76E
+
+1. Dữ liệu API phải được các hãng hàng không hoặc người khai thác chuyến bay tư nhân cung cấp cho các cơ quan có thẩm quyền của Việt Nam ngay khi làm thủ tục cho hành khách và tổ bay lên máy bay để đến một sân bay quốc tế của Việt Nam.
 
 ---
 
@@ -1367,6 +1612,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D7FAE3B0-823C-4012-BFA5-C13FABB86A61
 
+1. Thời hạn áp dụng quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh ghi tại văn bản thông báo của cơ quan, người có thẩm quyền quy định tại điểm b Khoản 1 Điều 6 Thông tư này được xác định căn cứ vào tính chất, mức độ, yêu cầu của từng trường hợp cụ thể, nhưng không quá 03 năm cho mỗi trường hợp.
+
 ---
 
 
@@ -1377,6 +1624,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000006000000100000000000000000330000000000000000000802605000530000500
 
 **ID:** FC700FB9-6AFF-4B95-B874-EAB7DA52AE5E
+
+1. Người khai báo tạm trú truy cập Trang thông tin điện tử, đăng nhập tài khoản khai báo để thực hiện việc khai báo thông tin tạm trú. Việc khai báo tạm trú cho người nước ngoài qua Trang thông tin điện tử phải thực hiện ngay khi người nước ngoài đến đăng ký tạm trú.
 
 ---
 
@@ -1389,6 +1638,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E55CCE05-A2FB-4067-AEF3-438FD6AE19A8
 
+1. Thủ tục, thẩm quyền giải quyết thường trú thực hiện theo Điều 41 và Điều 42 của Luật.
+
 ---
 
 
@@ -1399,6 +1650,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000460000000000000000000402554000640000500
 
 **ID:** EC007B11-EB88-4E7E-A7AD-D67C7DD9BD3A
+
+1. Bộ Công an có trách nhiệm chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh xây dựng, trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -1411,6 +1664,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 00D9404E-9026-4689-965E-875E4A504D2A
 
+1. Đối với ấn phẩm trắng (thị thực, thẻ tạm trú, thẻ thường trú, giấy miễn thị thực):
+
 ---
 
 
@@ -1421,6 +1676,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000800005000000000000000000
 
 **ID:** 77CB61B8-45E6-40A8-B404-87367AB27548
+
+Bộ, cơ quan ngang bộ không thuộc quy định tại Điều 48 và Điều 49 của Luật này, trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Công an, Bộ Ngoại giao, Bộ Quốc phòng thực hiện hoạt động quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 ---
 
@@ -1433,6 +1690,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 513CB580-2FDB-48AB-89C9-B0076BF9A4B7
 
+1. Tổ chức thực hiện pháp luật về nhập cảnh, xuất cảnh, cư trú của người nước ngoài ở địa phương.
+
 ---
 
 
@@ -1443,6 +1702,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000800005200000000000000000
 
 **ID:** 7BC055F8-24B0-49C2-95A8-C02ADB64F546
+
+1. Phối hợp với cơ quan nhà nước có thẩm quyền tuyên truyền, giáo dục, vận động nhân dân thực hiện các quy định của Luật này.
 
 ---
 
@@ -1455,6 +1716,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C329C922-4B9A-422A-A13B-FE5D73F5C453
 
+Giấy tờ có giá trị nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam đã được cấp trước ngày Luật này có hiệu lực còn thời hạn được tiếp tục sử dụng cho đến khi hết thời hạn ghi trong giấy tờ đó.
+
 ---
 
 
@@ -1465,6 +1728,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005400000000000000000
 
 **ID:** 93560ED3-607F-4A9F-960A-5DF2ECF32CB1
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015.
 
 ---
 
@@ -1477,6 +1742,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 5CB0E8FB-7B33-4D19-9996-662502F41E86
 
+Chính phủ quy định chi tiết các điều, khoản được giao trong Luật.
+
 ---
 
 
@@ -1487,6 +1754,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000100000600000000000000000
 
 **ID:** B6A984AB-17A1-4140-809A-A0B6DCF6E697
+
+Người nước ngoài có hành vi vi phạm quy định tại các khoản 3, 4, 5 và 6 Điều 5; khoản 3 Điều 21; điểm b khoản 2 Điều 44 của Luật này thì bị thu hồi, hủy bỏ giấy tờ có giá trị nhập cảnh, xuất cảnh, cư trú tại Việt Nam.
 
 ---
 
@@ -1499,6 +1768,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 654E6BFB-A338-42EF-8DD9-C80D40C76C05
 
+Người đề nghị cấp giấy miễn thị thực nộp 01 bộ hồ sơ gồm:
+
 ---
 
 
@@ -1509,6 +1780,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000150000000000000000000802586900040000600
 
 **ID:** C97869FB-6E09-4492-9266-E79E5272DF2B
+
+1. Cơ quan mời, bảo lãnh người nước ngoài quy định tại Khoản 3 Điều 8 của Luật Xuất nhập cảnh nộp hồ sơ đề nghị cấp thẻ tạm trú tại cơ quan có thẩm quyền quy định tại Điều 3 Thông tư này.
 
 ---
 
@@ -1521,6 +1794,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** B5EE2114-A58F-4EED-95B3-173CA3F04EFA
 
+1. Chính phủ quy định trình tự, thủ tục cấp thị thực điện tử.
+
 ---
 
 
@@ -1531,6 +1806,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000191026014003000006000402607800070000600
 
 **ID:** 59AE6385-C127-4384-A685-2D8273469E32
+
+Người nước ngoài sử dụng thị thực điện tử nhập cảnh, xuất cảnh qua các cửa khẩu quốc tế quy định tại Phụ lục II ban hành kèm theo Nghị định này.
 
 ---
 
@@ -1543,6 +1820,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** CB9C89FA-B50C-49DE-B9CB-13CCBB5F379E
 
+Các cơ quan của Việt Nam được phép khai thác, xử lý, sử dụng thông tin, dữ liệu API, bao gồm:
+
 ---
 
 
@@ -1553,6 +1832,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000220000000000000000000802397600210000600
 
 **ID:** 459A88CB-3C24-4B5E-8871-A2578E0EE779
+
+1. Văn bản thông báo của cơ quan, người có thẩm quyền quy định tại các Điều 4, 5, 6 và 7 của Thông tư này phải là bản chính, gồm:
 
 ---
 
@@ -1565,6 +1846,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C62AF021-12ED-4F83-8FD5-BD1D8052E478
 
+Phòng Quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc Trung ương tiếp nhận thông tin tạm trú của người nước ngoài được khai báo qua Trang thông tin điện tử 24 giờ/07 ngày; thông báo cho đồn biên phòng nơi có cơ sở lưu trú nếu người nước ngoài tạm trú tại các cơ sở lưu trú thuộc khu vực biên giới.
+
 ---
 
 
@@ -1575,6 +1858,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000070000440000000000000000000802550900310000600
 
 **ID:** B0CEF053-08E4-434B-A41D-9BD0A67763D9
+
+1. Giấy tờ có giá trị đi lại quốc tế theo quy định tại điểm i khoản 1 Điều 44 của Luật là giấy phép xuất nhập cảnh do Cục Quản lý xuất nhập cảnh cấp cho người không quốc tịch cư trú tại Việt Nam có nhu cầu xuất cảnh (theo mẫu NC13 ban hành kèm theo Thông tư này).
 
 ---
 
@@ -1587,6 +1872,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** C8B11797-7E61-460C-A162-915E6818F435
 
+1. Bộ Công an có trách nhiệm:
+
 ---
 
 
@@ -1597,6 +1884,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005580253270004000060
 
 **ID:** B2000A33-F4C2-4FE4-A929-4E5F0DD295BF
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 02 năm 2015.
 
 ---
 
@@ -1609,6 +1898,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** BE88BB89-7C78-403E-8FFF-D316D57742D3
 
+1. Thị thực có giá trị một lần hoặc nhiều lần và không được chuyển đổi mục đích.
+
 ---
 
 
@@ -1619,6 +1910,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000170000000000000000000402558900820000700
 
 **ID:** 2FF3CFAB-79BF-47F7-BFCC-F4B34645943A
+
+1. Người đề nghị cấp giấy miễn thị thực đang cư trú ở nước ngoài nộp hồ sơ theo quy định tại Điều 6 của Nghị định này tại cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài.
 
 ---
 
@@ -1631,6 +1924,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 9C9E83AA-51C8-4785-AF41-50F8A7393BE8
 
+1. Việc thí điểm cấp thị thực điện tử được thực hiện trong thời hạn 02 năm kể từ ngày 01 tháng 02 năm 2017. Chính phủ báo cáo Quốc hội kết quả thực hiện Nghị quyết này tại kỳ họp cuối năm 2018.
+
 ---
 
 
@@ -1641,6 +1936,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000200000000000000000000402396000270000700
 
 **ID:** 396E7776-5FD9-43D6-AA45-2919B994C837
+
+Bộ Giao thông vận tải chỉ đạo Cục Hàng không Việt Nam thông báo để các hãng hàng không hoặc người khai thác các chuyến bay tư nhân biết về việc thực hiện cung cấp dữ liệu API theo quy định của Nghị định này.
 
 ---
 
@@ -1653,6 +1950,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** D6228B9D-B4B9-4087-AEFA-CCEE66B9780B
 
+1. Cục Quản lý xuất nhập cảnh kiểm tra tính hợp lệ và nội dung văn bản thông báo về quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh của cơ quan, người có thẩm quyền theo quy định tại Khoản 1 Điều 6  Thông tư này. Trường hợp văn bản thông báo không đủ thông tin theo quy định thì Cục Quản lý xuất nhập cảnh đề nghị bổ sung.
+
 ---
 
 
@@ -1663,6 +1962,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000006000000100000000000000000330000000000000000000802605000530000700
 
 **ID:** BAF4C787-D5B0-46D2-B9FF-E5C62C65C254
+
+1. Người khai báo tạm trú liên hệ trực ban Công an xã, phường, thị trấn hoặc đồn, trạm Công an (sau đây gọi chung là Công an cấp xã) để được cung cấp mẫu Phiếu khai báo tạm trú theo mẫu NA17 ban hành kèm theo Thông tư số 04/2015/TT-BCA ngày 05/01/2015 của Bộ Công an.
 
 ---
 
@@ -1675,6 +1976,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 703A97FB-8183-450E-8808-935150268C50
 
+1. Người đề nghị cấp, cấp lại giấy phép xuất nhập cảnh nộp 01 bộ hồ sơ tại Cục Quản lý xuất nhập cảnh hoặc Phòng Quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc trung ương nơi cư trú. Hồ sơ gồm:
+
 ---
 
 
@@ -1685,6 +1988,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000460000000000000000000402554000640000700
 
 **ID:** 3C619BED-97A4-4E99-BA3F-9CD69D49C773
+
+1. Bộ Công an chỉ đạo cơ quan quản lý xuất nhập cảnh thông báo cho đơn vị kiểm soát xuất nhập cảnh thuộc Bộ Quốc phòng thông tin nhân sự người nước ngoài được giải quyết cấp thị thực tại cửa khẩu quốc tế do Bộ Quốc phòng quản lý trước khi người nước ngoài đến cửa khẩu.
 
 ---
 
@@ -1697,6 +2002,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 4BFAD819-38EA-4CCD-958F-3FE5FFAF3F71
 
+1. Chủ trì giúp Chính phủ tổ chức thực hiện thí điểm cấp thị thực điện tử cho người nước ngoài có nhu cầu nhập cảnh Việt Nam.
+
 ---
 
 
@@ -1707,6 +2014,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005580253270004000070
 
 **ID:** B59A2EA8-F52B-448C-A599-696B09FD8D15
+
+1. Tổng cục An ninh có trách nhiệm chủ trì, phối hợp với Công an các đơn vị, địa phương và các đơn vị khác có liên quan tổ chức thực hiện và hướng dẫn, kiểm tra việc thực hiện Thông tư này.
 
 ---
 
@@ -1719,6 +2028,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 7AAD4FD7-E6B0-4758-8704-9DA9AD3FABAE
 
+1. Thị thực, chứng nhận tạm trú, thẻ tạm trú còn thời hạn được cấp trước ngày Thông tư này có hiệu lực được tiếp tục sử dụng cho đến khi hết thời hạn của thị thực, chứng nhận tạm trú, thẻ tạm trú đã được cấp.
+
 ---
 
 
@@ -1729,6 +2040,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000200000800000000000000000
 
 **ID:** 7A0DC517-02B2-46C2-9CD8-3CE616BE9AD2
+
+1. NG1 - Cấp cho thành viên đoàn khách mời của Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ.
 
 ---
 
@@ -1741,6 +2054,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8BC1897E-AD76-437D-B546-F537B933B9C6
 
+1. Người đang tạm trú tại Việt Nam có nhu cầu cấp giấy miễn thị thực nộp hồ sơ theo quy định tại Điều 6 của Nghị định này tại Cục Quản lý xuất nhập cảnh.
+
 ---
 
 
@@ -1751,6 +2066,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000200000000000000000000402396000270000800
 
 **ID:** 1500C8FA-6F5C-49C2-BA30-E7B47ED91E6C
+
+1. Cục Hàng không Việt Nam có trách nhiệm chỉ đạo Cảng vụ hàng không Cảng hàng không quốc tế tiếp nhận và truyền dữ liệu API cho các cơ quan có thẩm quyền quy định tại khoản 2 và khoản 3 Điều 6 Nghị định này.
 
 ---
 
@@ -1763,6 +2080,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F5C454A9-B9D8-48E9-9534-48B4ECA04828
 
+1. Cục Quản lý xuất nhập cảnh có trách nhiệm nhập đầy đủ, chính xác dữ liệu thông tin ghi tại văn bản thông báo của cơ quan, người có thẩm quyền về quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh, việc gia hạn của các quyết định này và thông báo ngay cho các cơ quan, đơn vị liên quan để thực hiện.
+
 ---
 
 
@@ -1773,6 +2092,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000006000000100000000000000000330000000000000000000802605000530000800
 
 **ID:** 6154457D-90F9-460B-A615-EBCD3DE38CF6
+
+1. Trực ban Công an cấp xã tiếp nhận thông tin tạm trú của người nước ngoài được khai báo bằng Phiếu khai báo tạm trú 24 giờ/07 ngày.
 
 ---
 
@@ -1785,6 +2106,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** DD80436B-0DF6-485A-8BB9-DB711FAC2EB9
 
+1. Bộ Công an có trách nhiệm trao đổi, cung cấp cho Bộ Quốc phòng:
+
 ---
 
 
@@ -1795,6 +2118,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000490000000000000000000402607800070000800
 
 **ID:** FCB42A2C-82B9-4E88-8A51-A7F20C26D6A2
+
+1. Phối hợp với Bộ Công an trong việc thực hiện Nghị quyết của Quốc hội về thực hiện thí điểm cấp thị thực điện tử cho người nước ngoài nhập cảnh Việt Nam.
 
 ---
 
@@ -1807,6 +2132,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** F42097E6-2A47-489F-99DD-5079D0DC1616
 
+1. Giấy phép xuất nhập cảnh còn thời hạn trước ngày Thông tư này có hiệu lực được tiếp tục sử dụng cho đến khi hết thời hạn đã được cấp.
+
 ---
 
 
@@ -1817,6 +2144,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005580258690004000080
 
 **ID:** 380FEA6D-FABF-4BDA-93C7-6733A6FA0D6C
+
+1. Cục Lãnh sự có trách nhiệm:
 
 ---
 
@@ -1829,6 +2158,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E1CDEF65-61E3-4D7C-A46A-90F48D32D87E
 
+1. Thị thực ký hiệu SQ có thời hạn không quá 30 ngày.
+
 ---
 
 
@@ -1839,6 +2170,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000020000120000000000000000000402558900820000900
 
 **ID:** B9939E2F-A83A-4E07-B9F7-C313C03407BE
+
+1. Người bị mất, bị hỏng, hết hạn hoặc có nhu cầu điều chỉnh nội dung trong giấy miễn thị thực được cấp lại giấy miễn thị thực.
 
 ---
 
@@ -1851,6 +2184,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** FBE00E65-C76D-4AFB-8CAA-5BFA19C755A5
 
+1. Ban hành kèm theo Nghị định này danh sách các nước có công dân được thí điểm cấp thị thực điện tử (Phụ lục I) và danh sách các cửa khẩu cho phép người nước ngoài nhập cảnh, xuất cảnh bằng thị thực điện tử (Phụ lục II).
+
 ---
 
 
@@ -1861,6 +2196,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000030000200000000000000000000402396000270000900
 
 **ID:** 399D5705-6009-495E-8603-E0C9F76EA6E7
+
+1. Các cơ quan quy định tại Điều 6 Nghị định này có trách nhiệm tiếp nhận và khai thác ngay thông tin, dữ liệu API theo quy định của pháp luật; bảo đảm thông tin, dữ liệu API được xử lý trước khi chuyến bay hạ cánh tại sân bay quốc tế của Việt Nam.
 
 ---
 
@@ -1873,6 +2210,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8B6EAD43-E877-41E1-BF9B-07C44983BD11
 
+1. Khi nhận được thông báo của Cục Quản lý xuất nhập cảnh về quyết định chưa cho nhập cảnh, chưa được xuất cảnh, tạm hoãn xuất cảnh nêu tại Khoản 1 Điều 8 Thông tư này, lực lượng quản lý xuất nhập cảnh tại các cửa khẩu do Bộ Công an quản lý; lực lượng Bộ đội biên phòng kiểm soát tại các cửa khẩu do Bộ Quốc phòng quản lý; Công an các tỉnh, thành phố trực thuộc trung ương; Cục Lãnh sự (Bộ Ngoại giao), Cơ quan đại diện Việt Nam ở nước ngoài; Cục Hàng hải (Bộ Giao thông vận tải) có trách nhiệm tổ chức thực hiện.
+
 ---
 
 
@@ -1883,6 +2222,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 010080000000000080000460000000000000000000402554000640000900
 
 **ID:** CF84000F-78AE-4096-A3C4-4A09BA5607AA
+
+1. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh phối hợp với cơ quan quản lý xuất nhập cảnh trong việc trao đổi thông tin cấp thị thực, giấy chứng nhận đăng ký đầu tư, giấy phép lao động, giấy phép hành nghề; chỉ đạo cơ quan, tổ chức mời, bảo lãnh người nước ngoài phối hợp với cơ sở lưu trú thực hiện việc khai báo tạm trú của người nước ngoài theo quy định tại Điều 33 và Điều 34 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam; phối hợp với cơ quan chức năng giải quyết các vấn đề phát sinh; trong thời hạn 12 giờ kể từ khi phát hiện người nước ngoài bị tai nạn, tử vong... phải trao đổi với cơ quan chức năng của Bộ Ngoại giao để thông báo cho cơ quan đại diện nước mà người đó là công dân.
 
 ---
 
@@ -1895,6 +2236,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 63FCD401-530A-434B-8EF0-F5BDC7B7622E
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 8 năm 2015.
+
 ---
 
 
@@ -1905,6 +2248,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 0100800000000000900005580258690004000090
 
 **ID:** 9964EE7F-BFAC-461D-87BA-C568A283FD98
+
+Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2016.
 
 ---
 
@@ -1917,6 +2262,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** E85257E7-D4E8-4F56-87FF-3352A68FE306
 
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2017.
+
 ---
 
 
@@ -1927,6 +2274,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000001000
 
 **ID:** 96EF6CC8-AB2B-472F-BFCB-481819809690
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1939,6 +2288,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 39B1C5B8-C480-46EF-B395-D437349F129C
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1949,6 +2300,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000003000
 
 **ID:** 87ABBFC0-CC1E-4917-B64E-7B7D24B17672
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1961,6 +2314,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 191AC05D-3D73-449F-A90B-51F7B2F7AE32
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1971,6 +2326,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000009000
 
 **ID:** A04E95E0-E48B-4B30-90C1-89E31E7DB8BA
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -1983,6 +2340,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 8A960B42-ED1E-40FA-9724-28AE8A98CC66
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -1993,6 +2352,8 @@ parent: an-ninh-quoc-gia
 **Mã phân cấp:** 01008000000000006000
 
 **ID:** 554E3425-8934-4BFD-AB17-CFCBE507479A
+
+*Nội dung chưa có sẵn*
 
 ---
 
@@ -2005,6 +2366,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** 17ACAF1D-4631-41F3-A866-556547C48B6C
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2016,6 +2379,8 @@ parent: an-ninh-quoc-gia
 
 **ID:** FDAD0055-DAA1-4770-B4DD-ADDA24198796
 
+*Nội dung chưa có sẵn*
+
 ---
 
 
@@ -2026,6 +2391,7 @@ parent: an-ninh-quoc-gia
 
 ## 📊 Thống kê
 - **Tổng số điều khoản:** 182
+- **Điều khoản có nội dung:** 171 (94.0%)
 - **ID đề mục:** 74d84211-de1e-44b4-b2c2-976d87c3190b
 
 ## 🔍 Tìm kiếm
