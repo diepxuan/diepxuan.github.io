@@ -12,7 +12,7 @@ parent: khoa-hoc-cong-nghe
 **Đề mục:** Chất lượng sản phẩm, hàng hóa  
 **Chủ đề:** [Khoa học, công nghệ](/van-ban/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 251  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

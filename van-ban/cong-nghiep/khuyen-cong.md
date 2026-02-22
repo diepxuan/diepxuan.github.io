@@ -12,7 +12,7 @@ parent: cong-nghiep
 **Đề mục:** Khuyến công  
 **Chủ đề:** [Công nghiệp](/van-ban/cong-nghiep/)  
 **Số điều khoản:** 102  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

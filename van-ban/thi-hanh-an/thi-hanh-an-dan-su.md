@@ -12,7 +12,7 @@ parent: thi-hanh-an
 **Đề mục:** Thi hành án dân sự  
 **Chủ đề:** [Thi hành án](/van-ban/thi-hanh-an/)  
 **Số điều khoản:** 667  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

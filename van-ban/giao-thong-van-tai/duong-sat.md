@@ -12,7 +12,7 @@ parent: giao-thong-van-tai
 **Đề mục:** Đường sắt  
 **Chủ đề:** [Giao thông, vận tải](/van-ban/giao-thong-van-tai/)  
 **Số điều khoản:** 877  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

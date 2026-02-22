@@ -12,7 +12,7 @@ parent: to-chuc-chinh-tri-xa-hoi-hoi
 **Đề mục:** Quyền lập hội và tổ chức, hoạt động, quản lý hội  
 **Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 107  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

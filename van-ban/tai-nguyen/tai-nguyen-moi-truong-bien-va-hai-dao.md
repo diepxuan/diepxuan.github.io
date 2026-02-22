@@ -12,7 +12,7 @@ parent: tai-nguyen
 **Đề mục:** Tài nguyên, môi trường biển và hải đảo  
 **Chủ đề:** [Tài nguyên](/van-ban/tai-nguyen/)  
 **Số điều khoản:** 628  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

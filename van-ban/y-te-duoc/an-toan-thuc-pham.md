@@ -12,7 +12,7 @@ parent: y-te-duoc
 **Đề mục:** An toàn thực phẩm  
 **Chủ đề:** [Y tế, dược](/van-ban/y-te-duoc/)  
 **Số điều khoản:** 949  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

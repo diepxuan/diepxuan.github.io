@@ -12,7 +12,7 @@ parent: to-chuc-bo-may-nha-nuoc
 **Đề mục:** Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân  
 **Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 130  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: khoa-hoc-cong-nghe
 **Đề mục:** Chuyển giao công nghệ  
 **Chủ đề:** [Khoa học, công nghệ](/van-ban/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 285  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

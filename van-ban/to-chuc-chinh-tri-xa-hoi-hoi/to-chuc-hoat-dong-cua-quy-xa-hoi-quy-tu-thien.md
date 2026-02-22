@@ -12,7 +12,7 @@ parent: to-chuc-chinh-tri-xa-hoi-hoi
 **Đề mục:** Tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện  
 **Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 63  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: tai-chinh
 **Đề mục:** Ngân sách nhà nước  
 **Chủ đề:** [Tài chính](/van-ban/tai-chinh/)  
 **Số điều khoản:** 838  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

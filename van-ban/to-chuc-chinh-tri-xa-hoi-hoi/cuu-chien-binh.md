@@ -12,7 +12,7 @@ parent: to-chuc-chinh-tri-xa-hoi-hoi
 **Đề mục:** Cựu chiến binh  
 **Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 69  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

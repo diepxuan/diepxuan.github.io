@@ -12,7 +12,7 @@ parent: to-chuc-bo-may-nha-nuoc
 **Đề mục:** Hoạt động giám sát của Quốc hội và Hội đồng nhân dân  
 **Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 116  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

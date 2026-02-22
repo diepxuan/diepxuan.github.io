@@ -12,7 +12,7 @@ parent: y-te-duoc
 **Đề mục:** Phòng, chống tác hại của rượu, bia  
 **Chủ đề:** [Y tế, dược](/van-ban/y-te-duoc/)  
 **Số điều khoản:** 126  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

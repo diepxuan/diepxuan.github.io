@@ -11,7 +11,7 @@ slug: an-ninh-quoc-gia
 **Chủ đề:** An ninh quốc gia  
 **Số đề mục:** 12  
 **Số điều khoản:** 2,071  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

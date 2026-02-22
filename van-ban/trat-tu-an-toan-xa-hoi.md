@@ -11,7 +11,7 @@ slug: trat-tu-an-toan-xa-hoi
 **Chủ đề:** Trật tự, an toàn xã hội  
 **Số đề mục:** 11  
 **Số điều khoản:** 5,247  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

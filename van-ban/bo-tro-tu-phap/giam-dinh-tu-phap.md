@@ -12,7 +12,7 @@ parent: bo-tro-tu-phap
 **Đề mục:** Giám định tư pháp  
 **Chủ đề:** [Bổ trợ tư pháp](/van-ban/bo-tro-tu-phap/)  
 **Số điều khoản:** 468  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

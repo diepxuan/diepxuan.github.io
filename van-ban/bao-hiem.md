@@ -11,7 +11,7 @@ slug: bao-hiem
 **Chủ đề:** Bảo hiểm  
 **Số đề mục:** 2  
 **Số điều khoản:** 1,140  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

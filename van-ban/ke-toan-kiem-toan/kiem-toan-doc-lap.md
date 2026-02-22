@@ -12,7 +12,7 @@ parent: ke-toan-kiem-toan
 **Đề mục:** Kiểm toán độc lập  
 **Chủ đề:** [Kế toán, kiểm toán](/van-ban/ke-toan-kiem-toan/)  
 **Số điều khoản:** 278  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

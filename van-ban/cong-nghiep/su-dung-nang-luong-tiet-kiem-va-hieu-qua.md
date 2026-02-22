@@ -12,7 +12,7 @@ parent: cong-nghiep
 **Đề mục:** Sử dụng năng lượng tiết kiệm và hiệu quả  
 **Chủ đề:** [Công nghiệp](/van-ban/cong-nghiep/)  
 **Số điều khoản:** 155  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

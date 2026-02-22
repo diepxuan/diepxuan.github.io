@@ -12,7 +12,7 @@ parent: tai-san-cong-no-cong-du-tru-nha-nuoc
 **Đề mục:** Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam  
 **Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước](/van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 66  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Đề mục:** Cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài  
 **Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 150  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

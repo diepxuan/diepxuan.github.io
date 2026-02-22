@@ -12,7 +12,7 @@ parent: dan-su
 **Đề mục:** Dân sự  
 **Chủ đề:** [Dân sự](/van-ban/dan-su/)  
 **Số điều khoản:** 812  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

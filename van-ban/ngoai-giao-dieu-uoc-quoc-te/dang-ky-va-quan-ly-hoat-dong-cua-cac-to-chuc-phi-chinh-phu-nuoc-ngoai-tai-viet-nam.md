@@ -12,7 +12,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Đề mục:** Đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam  
 **Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 36  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

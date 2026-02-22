@@ -11,7 +11,7 @@ slug: can-bo-cong-chuc-vien-chuc
 **Chủ đề:** Cán bộ, công chức, viên chức  
 **Số đề mục:** 1  
 **Số điều khoản:** 1,805  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

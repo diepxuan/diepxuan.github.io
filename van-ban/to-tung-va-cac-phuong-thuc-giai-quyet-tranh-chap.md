@@ -11,7 +11,7 @@ slug: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 **Chủ đề:** Tố tụng và các phương thức giải quyết tranh chấp  
 **Số đề mục:** 12  
 **Số điều khoản:** 3,498  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

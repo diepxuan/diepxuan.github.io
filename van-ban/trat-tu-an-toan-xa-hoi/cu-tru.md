@@ -12,7 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Cư trú  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 112  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

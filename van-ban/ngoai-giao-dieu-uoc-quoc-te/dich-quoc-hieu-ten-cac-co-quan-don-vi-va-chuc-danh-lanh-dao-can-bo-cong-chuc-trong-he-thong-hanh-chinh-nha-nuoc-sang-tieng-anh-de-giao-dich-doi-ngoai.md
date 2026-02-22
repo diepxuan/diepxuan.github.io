@@ -12,7 +12,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Đề mục:** Dịch Quốc hiệu, tên các cơ quan, đơn vị và chức danh lãnh đạo, cán bộ công chức trong hệ thống hành chính nhà nước sang tiếng Anh để giao dịch đối ngoại  
 **Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 2  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

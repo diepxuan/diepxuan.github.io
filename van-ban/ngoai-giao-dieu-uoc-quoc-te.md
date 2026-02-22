@@ -11,7 +11,7 @@ slug: ngoai-giao-dieu-uoc-quoc-te
 **Chủ đề:** Ngoại giao, điều ước quốc tế  
 **Số đề mục:** 10  
 **Số điều khoản:** 733  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

@@ -11,7 +11,7 @@ slug: to-chuc-bo-may-nha-nuoc
 **Chủ đề:** Tổ chức bộ máy nhà nước  
 **Số đề mục:** 5  
 **Số điều khoản:** 906  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

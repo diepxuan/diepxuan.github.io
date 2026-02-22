@@ -12,7 +12,7 @@ parent: van-hoa-the-thao-du-lich
 **Đề mục:** Quy chế đặt tên, đổi tên đường, phố và công trình công cộng  
 **Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 12  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

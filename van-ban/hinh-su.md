@@ -11,7 +11,7 @@ slug: hinh-su
 **Chủ đề:** Hình sự  
 **Số đề mục:** 1  
 **Số điều khoản:** 582  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

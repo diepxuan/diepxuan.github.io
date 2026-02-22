@@ -12,7 +12,7 @@ parent: y-te-duoc
 **Đề mục:** Dược  
 **Chủ đề:** [Y tế, dược](/van-ban/y-te-duoc/)  
 **Số điều khoản:** 1118  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

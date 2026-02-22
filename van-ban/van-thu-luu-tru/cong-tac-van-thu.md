@@ -12,7 +12,7 @@ parent: van-thu-luu-tru
 **Đề mục:** Công tác văn thư  
 **Chủ đề:** [Văn thư lưu trữ](/van-ban/van-thu-luu-tru/)  
 **Số điều khoản:** 56  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

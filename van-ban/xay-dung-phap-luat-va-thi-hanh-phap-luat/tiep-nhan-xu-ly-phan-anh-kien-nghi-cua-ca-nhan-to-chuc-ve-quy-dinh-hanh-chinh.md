@@ -12,7 +12,7 @@ parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 **Đề mục:** Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính  
 **Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 50  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: van-hoa-the-thao-du-lich
 **Đề mục:** Công bố, phổ biến tác phẩm ra nước ngoài  
 **Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 28  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

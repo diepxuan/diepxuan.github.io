@@ -12,7 +12,7 @@ parent: an-ninh-quoc-gia
 **Đề mục:** An ninh mạng  
 **Chủ đề:** [An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)  
 **Số điều khoản:** 94  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

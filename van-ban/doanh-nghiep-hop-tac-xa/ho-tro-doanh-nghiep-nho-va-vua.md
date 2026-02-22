@@ -12,7 +12,7 @@ parent: doanh-nghiep-hop-tac-xa
 **Đề mục:** Hỗ trợ doanh nghiệp nhỏ và vừa  
 **Chủ đề:** [Doanh nghiệp, hợp tác xã](/van-ban/doanh-nghiep-hop-tac-xa/)  
 **Số điều khoản:** 487  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

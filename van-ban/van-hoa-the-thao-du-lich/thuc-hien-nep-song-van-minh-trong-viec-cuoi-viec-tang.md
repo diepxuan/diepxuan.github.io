@@ -12,7 +12,7 @@ parent: van-hoa-the-thao-du-lich
 **Đề mục:** Thực hiện nếp sống văn minh trong việc cưới, việc tang  
 **Chủ đề:** [Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 22  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

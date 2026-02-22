@@ -12,7 +12,7 @@ parent: buu-chinh-vien-thong
 **Đề mục:** An toàn thông tin mạng  
 **Chủ đề:** [Bưu chính, viễn thông](/van-ban/buu-chinh-vien-thong/)  
 **Số điều khoản:** 307  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

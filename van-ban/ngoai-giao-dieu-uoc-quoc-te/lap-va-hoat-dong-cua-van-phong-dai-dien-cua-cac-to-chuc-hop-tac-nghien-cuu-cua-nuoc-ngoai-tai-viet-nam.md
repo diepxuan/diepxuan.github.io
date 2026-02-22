@@ -12,7 +12,7 @@ parent: ngoai-giao-dieu-uoc-quoc-te
 **Đề mục:** Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam  
 **Chủ đề:** [Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 33  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

@@ -11,7 +11,7 @@ slug: van-thu-luu-tru
 **Chủ đề:** Văn thư lưu trữ  
 **Số đề mục:** 1  
 **Số điều khoản:** 56  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📋 Danh sách Đề mục
 

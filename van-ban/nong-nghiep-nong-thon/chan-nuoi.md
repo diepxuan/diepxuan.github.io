@@ -12,7 +12,7 @@ parent: nong-nghiep-nong-thon
 **Đề mục:** Chăn nuôi  
 **Chủ đề:** [Nông nghiệp, nông thôn](/van-ban/nong-nghiep-nong-thon/)  
 **Số điều khoản:** 244  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

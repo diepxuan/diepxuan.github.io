@@ -12,7 +12,7 @@ parent: hanh-chinh-tu-phap
 **Đề mục:** Lý lịch tư pháp  
 **Chủ đề:** [Hành chính tư pháp](/van-ban/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 186  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 

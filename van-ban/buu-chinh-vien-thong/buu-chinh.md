@@ -12,7 +12,7 @@ parent: buu-chinh-vien-thong
 **Đề mục:** Bưu chính  
 **Chủ đề:** [Bưu chính, viễn thông](/van-ban/buu-chinh-vien-thong/)  
 **Số điều khoản:** 364  
-**Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
+**Cập nhật:** { site.time | date: "%Y-%m-%d" }
 
 ## 📜 Nội dung Điều khoản
 
