@@ -9,9 +9,10 @@ Tích hợp toàn bộ dữ liệu Pháp điển Điện tử (Bộ Tư pháp) v
 
 ## 📊 THỐNG KÊ DỮ LIỆU
 - **45 Chủ đề** pháp luật
-- **271 Đề mục** chuyên sâu
+- **306 Đề mục** chuyên sâu
 - **76,303 Điều khoản** (chương, điều, khoản, điểm)
 - **Nguồn**: Bộ Pháp điển Điện tử - Bộ Tư pháp Việt Nam
+- **Database**: `sqlite/phapdien_complete.db` (36MB, 76,303 records)
 
 ## 🗂 CẤU TRÚC THƯ MỤC
 
@@ -26,7 +27,9 @@ phap-dien/
 ├── json/                       # Dữ liệu gốc
 │   └── jsonData.js            # File JSON gốc (24.7MB)
 ├── sqlite/                     # SQLite database
-│   └── phapdien.db            # Database chính
+│   ├── phapdien_complete.db   # Database hoàn chỉnh (76,303 records)
+│   ├── phapdien_simple.db     # Database cũ (18,649 records)
+│   └── phapdien.db            # Database gốc
 ├── markdown/                   # Markdown files
 │   ├── 00-danh-sach-chu-de.md # Danh sách 45 chủ đề
 │   ├── 01-*.md                # Các file đề mục
@@ -51,7 +54,11 @@ cd /root/.openclaw/workspace/projects/github-io/van-ban/phap-dien
 ### 2. Chạy Build Script
 ```bash
 cd scripts/
+# Database cũ (18,649 records)
 python3 build_database.py
+
+# Database hoàn chỉnh (76,303 records)
+python3 rebuild_full_database.py
 ```
 
 ### 3. Kết quả
@@ -64,11 +71,25 @@ Script sẽ tạo:
 
 ## 🔧 CÁC SCRIPT CÓ SẴN
 
-### 1. `build_database.py` - **SCRIPT CHÍNH**
-Build toàn bộ database từ JSON gốc:
+### 1. `build_database.py` - **SCRIPT CŨ**
+Build database cũ (18,649 records):
 ```python
 # Parse jsonData.js → SQLite → Markdown → JSON → Search
 python3 build_database.py
+```
+
+### 2. `rebuild_full_database.py` - **SCRIPT MỚI**
+Build database hoàn chỉnh (76,303 records):
+```python
+# Parse toàn bộ 76,303 entries → SQLite
+python3 rebuild_full_database.py
+```
+
+### 3. `advanced_parser.py` - **PARSER NÂNG CAO**
+Parser có thể parse toàn bộ 76,303 entries:
+```python
+# Parse với khả năng bỏ qua entry bị broken
+python3 advanced_parser.py
 ```
 
 ### 2. `phapdien_crawler.py` - Crawler gốc
@@ -93,14 +114,17 @@ python3 analyze_structure.py
 
 ### Query SQLite
 ```sql
--- Kết nối database
-sqlite3 sqlite/phapdien.db
+-- Kết nối database hoàn chỉnh
+sqlite3 sqlite/phapdien_complete.db
+
+-- Tìm kiếm entry cụ thể (entry sếp tìm)
+SELECT * FROM dieukhoan WHERE id = 'AA4C41EB-CC02-4629-8077-3691D02E64F2';
 
 -- Tìm kiếm full-text
-SELECT * FROM dieukhoan_fts WHERE ten MATCH 'đất đai';
+SELECT * FROM dieukhoan WHERE ten LIKE '%thông báo hàng hải%';
 
 -- Thống kê theo chủ đề
-SELECT c.ten, COUNT(d.id) as count
+SELECT c.text, COUNT(d.id) as count
 FROM chude c
 LEFT JOIN dieukhoan d ON c.id = d.chude_id
 GROUP BY c.id
@@ -220,6 +244,10 @@ with open(file, 'r', encoding='utf-8') as f:
 
 ## 📅 LỊCH SỬ PHÁT TRIỂN
 
+- **2026-02-22**: **FIX QUAN TRỌNG** - Phát hiện parser cũ chỉ parse được 18,649/76,303 entries
+- **2026-02-22**: Tạo `advanced_parser.py` parse được toàn bộ 76,303 entries
+- **2026-02-22**: Tạo `phapdien_complete.db` với 76,303 records
+- **2026-02-22**: Xác minh entry "Điều 14.4.NĐ.3.10..." hợp lệ và có trong database
 - **2026-02-22**: Tích hợp vào github-io project
 - **2026-02-22**: Tạo build script hoàn chỉnh
 - **2026-02-22**: Phân tích cấu trúc dữ liệu hoàn tất
