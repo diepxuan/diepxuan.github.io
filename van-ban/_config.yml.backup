@@ -1,0 +1,33 @@
+# Jekyll configuration for van-ban
+title: Bộ Pháp điển Điện tử
+description: Hệ thống pháp luật chính thức của Việt Nam
+baseurl: /van-ban
+url: https://docs.diepxuan.com
+
+# Permalinks
+permalink: pretty
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude
+exclude:
+  - chu-de/
+  - de-muc/
+  - phap-dien/
+  - crawled/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
