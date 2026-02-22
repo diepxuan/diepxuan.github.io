@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to
 # Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế
 
 **Đề mục:** Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 83  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -846,7 +846,7 @@ permalink: /van-ban/de-muc/chuc-nang-nhiem-vu-quyen-han-va-to-chuc-bo-may-cua-to
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/van-ban/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

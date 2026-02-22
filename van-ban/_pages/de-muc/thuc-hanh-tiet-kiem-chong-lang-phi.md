@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/thuc-hanh-tiet-kiem-chong-lang-phi/
 # Thực hành tiết kiệm, chống lãng phí
 
 **Đề mục:** Thực hành tiết kiệm, chống lãng phí  
-**Chủ đề:** [Tài chính](/van-ban/chu-de/tai-chinh/)  
+**Chủ đề:** [Tài chính]({{ site.baseurl }}/chu-de/tai-chinh/)  
 **Số điều khoản:** 143  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1446,7 +1446,7 @@ permalink: /van-ban/de-muc/thuc-hanh-tiet-kiem-chong-lang-phi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài chính](/van-ban/chu-de/tai-chinh/)  
+[← Danh sách đề mục của Tài chính]({{ site.baseurl }}/chu-de/tai-chinh/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

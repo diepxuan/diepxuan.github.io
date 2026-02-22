@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quoc-tich-viet-nam/
 # Quốc tịch Việt Nam
 
 **Đề mục:** Quốc tịch Việt Nam  
-**Chủ đề:** [Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
+**Chủ đề:** [Hành chính tư pháp]({{ site.baseurl }}/chu-de/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 128  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1296,7 +1296,7 @@ permalink: /van-ban/de-muc/quoc-tich-viet-nam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
+[← Danh sách đề mục của Hành chính tư pháp]({{ site.baseurl }}/chu-de/hanh-chinh-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

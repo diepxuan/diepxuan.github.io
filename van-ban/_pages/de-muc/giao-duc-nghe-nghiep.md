@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/giao-duc-nghe-nghiep/
 # Giáo dục nghề nghiệp
 
 **Đề mục:** Giáo dục nghề nghiệp  
-**Chủ đề:** [Lao động](/van-ban/chu-de/lao-dong/)  
+**Chủ đề:** [Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
 **Số điều khoản:** 1280  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -12816,7 +12816,7 @@ permalink: /van-ban/de-muc/giao-duc-nghe-nghiep/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Lao động](/van-ban/chu-de/lao-dong/)  
+[← Danh sách đề mục của Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

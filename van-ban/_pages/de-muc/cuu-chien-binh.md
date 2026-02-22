@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cuu-chien-binh/
 # Cựu chiến binh
 
 **Đề mục:** Cựu chiến binh  
-**Chủ đề:** [Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+**Chủ đề:** [Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 69  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -706,7 +706,7 @@ permalink: /van-ban/de-muc/cuu-chien-binh/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](/van-ban/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/thi-hanh-an/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Đặc xá](/van-ban/de-muc/dac-xa/)**
-2. **[Thi hành án dân sự](/van-ban/de-muc/thi-hanh-an-dan-su/)**
-3. **[Thi hành án hình sự](/van-ban/de-muc/thi-hanh-an-hinh-su/)**
-4. **[Tổ chức và hoạt động của Thừa phát lại](/van-ban/de-muc/to-chuc-va-hoat-dong-cua-thua-phat-lai/)**
+1. **[Đặc xá]({{ site.baseurl }}/de-muc/dac-xa/)**
+2. **[Thi hành án dân sự]({{ site.baseurl }}/de-muc/thi-hanh-an-dan-su/)**
+3. **[Thi hành án hình sự]({{ site.baseurl }}/de-muc/thi-hanh-an-hinh-su/)**
+4. **[Tổ chức và hoạt động của Thừa phát lại]({{ site.baseurl }}/de-muc/to-chuc-va-hoat-dong-cua-thua-phat-lai/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

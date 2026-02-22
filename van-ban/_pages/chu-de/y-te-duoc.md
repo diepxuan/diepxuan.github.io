@@ -12,20 +12,20 @@ permalink: /van-ban/chu-de/y-te-duoc/
 
 ## 📋 Danh sách Đề mục
 
-1. **[An toàn thực phẩm](/van-ban/de-muc/an-toan-thuc-pham/)**
-2. **[Điều kiện sản xuất mỹ phẩm](/van-ban/de-muc/dieu-kien-san-xuat-my-pham/)**
-3. **[Phòng, chống tác hại của rượu, bia](/van-ban/de-muc/phong-chong-tac-hai-cua-ruou-bia/)**
-4. **[Quản lý trang thiết bị y tế](/van-ban/de-muc/quan-ly-trang-thiet-bi-y-te/)**
-5. **[Bảo vệ sức khỏe nhân dân](/van-ban/de-muc/bao-ve-suc-khoe-nhan-dan/)**
-6. **[Dược](/van-ban/de-muc/duoc/)**
-7. **[Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác](/van-ban/de-muc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac/)**
-8. **[Phòng, chống bệnh truyền nhiễm](/van-ban/de-muc/phong-chong-benh-truyen-nhiem/)**
-9. **[Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người](/van-ban/de-muc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi/)**
-10. **[Phòng, chống tác hại của thuốc lá](/van-ban/de-muc/phong-chong-tac-hai-cua-thuoc-la/)**
+1. **[An toàn thực phẩm]({{ site.baseurl }}/de-muc/an-toan-thuc-pham/)**
+2. **[Điều kiện sản xuất mỹ phẩm]({{ site.baseurl }}/de-muc/dieu-kien-san-xuat-my-pham/)**
+3. **[Phòng, chống tác hại của rượu, bia]({{ site.baseurl }}/de-muc/phong-chong-tac-hai-cua-ruou-bia/)**
+4. **[Quản lý trang thiết bị y tế]({{ site.baseurl }}/de-muc/quan-ly-trang-thiet-bi-y-te/)**
+5. **[Bảo vệ sức khỏe nhân dân]({{ site.baseurl }}/de-muc/bao-ve-suc-khoe-nhan-dan/)**
+6. **[Dược]({{ site.baseurl }}/de-muc/duoc/)**
+7. **[Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác]({{ site.baseurl }}/de-muc/hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac/)**
+8. **[Phòng, chống bệnh truyền nhiễm]({{ site.baseurl }}/de-muc/phong-chong-benh-truyen-nhiem/)**
+9. **[Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người]({{ site.baseurl }}/de-muc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam-mien-dich-mac-phai-o-nguoi/)**
+10. **[Phòng, chống tác hại của thuốc lá]({{ site.baseurl }}/de-muc/phong-chong-tac-hai-cua-thuoc-la/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 10

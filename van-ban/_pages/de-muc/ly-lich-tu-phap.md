@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/ly-lich-tu-phap/
 # Lý lịch tư pháp
 
 **Đề mục:** Lý lịch tư pháp  
-**Chủ đề:** [Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
+**Chủ đề:** [Hành chính tư pháp]({{ site.baseurl }}/chu-de/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 186  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1876,7 +1876,7 @@ permalink: /van-ban/de-muc/ly-lich-tu-phap/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
+[← Danh sách đề mục của Hành chính tư pháp]({{ site.baseurl }}/chu-de/hanh-chinh-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

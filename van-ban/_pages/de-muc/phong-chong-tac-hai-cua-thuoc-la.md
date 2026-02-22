@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/phong-chong-tac-hai-cua-thuoc-la/
 # Phòng, chống tác hại của thuốc lá
 
 **Đề mục:** Phòng, chống tác hại của thuốc lá  
-**Chủ đề:** [Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược]({{ site.baseurl }}/chu-de/y-te-duoc/)  
 **Số điều khoản:** 261  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2626,7 +2626,7 @@ permalink: /van-ban/de-muc/phong-chong-tac-hai-cua-thuoc-la/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](/van-ban/chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược]({{ site.baseurl }}/chu-de/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

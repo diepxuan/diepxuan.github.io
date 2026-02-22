@@ -12,14 +12,14 @@ permalink: /van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Trẻ em](/van-ban/de-muc/tre-em/)**
-2. **[Bình đẳng giới](/van-ban/de-muc/binh-dang-gioi/)**
-3. **[Dân số](/van-ban/de-muc/dan-so/)**
-4. **[Hôn nhân và gia đình](/van-ban/de-muc/hon-nhan-va-gia-dinh/)**
+1. **[Trẻ em]({{ site.baseurl }}/de-muc/tre-em/)**
+2. **[Bình đẳng giới]({{ site.baseurl }}/de-muc/binh-dang-gioi/)**
+3. **[Dân số]({{ site.baseurl }}/de-muc/dan-so/)**
+4. **[Hôn nhân và gia đình]({{ site.baseurl }}/de-muc/hon-nhan-va-gia-dinh/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 4

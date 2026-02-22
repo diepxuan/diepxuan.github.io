@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/nuoi-con-nuoi/
 # Nuôi con nuôi
 
 **Đề mục:** Nuôi con nuôi  
-**Chủ đề:** [Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
+**Chủ đề:** [Hành chính tư pháp]({{ site.baseurl }}/chu-de/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 76  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -776,7 +776,7 @@ permalink: /van-ban/de-muc/nuoi-con-nuoi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Hành chính tư pháp](/van-ban/chu-de/hanh-chinh-tu-phap/)  
+[← Danh sách đề mục của Hành chính tư pháp]({{ site.baseurl }}/chu-de/hanh-chinh-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/an-ninh-quoc-gia/
 # An ninh quốc gia
 
 **Đề mục:** An ninh quốc gia  
-**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 206  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2076,7 +2076,7 @@ permalink: /van-ban/de-muc/an-ninh-quoc-gia/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

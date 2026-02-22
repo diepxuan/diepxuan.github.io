@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/chuyen-giao-cong-nghe/
 # Chuyển giao công nghệ
 
 **Đề mục:** Chuyển giao công nghệ  
-**Chủ đề:** [Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
+**Chủ đề:** [Khoa học, công nghệ]({{ site.baseurl }}/chu-de/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 285  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2866,7 +2866,7 @@ permalink: /van-ban/de-muc/chuyen-giao-cong-nghe/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khoa học, công nghệ](/van-ban/chu-de/khoa-hoc-cong-nghe/)  
+[← Danh sách đề mục của Khoa học, công nghệ]({{ site.baseurl }}/chu-de/khoa-hoc-cong-nghe/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

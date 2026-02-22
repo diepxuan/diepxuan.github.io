@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/do-dac-va-ban-do/
 # Đo đạc và bản đồ
 
 **Đề mục:** Đo đạc và bản đồ  
-**Chủ đề:** [Tài nguyên](/van-ban/chu-de/tai-nguyen/)  
+**Chủ đề:** [Tài nguyên]({{ site.baseurl }}/chu-de/tai-nguyen/)  
 **Số điều khoản:** 819  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -8206,7 +8206,7 @@ permalink: /van-ban/de-muc/do-dac-va-ban-do/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài nguyên](/van-ban/chu-de/tai-nguyen/)  
+[← Danh sách đề mục của Tài nguyên]({{ site.baseurl }}/chu-de/tai-nguyen/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

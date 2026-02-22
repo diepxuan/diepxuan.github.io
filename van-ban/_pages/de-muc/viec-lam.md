@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/viec-lam/
 # Việc làm
 
 **Đề mục:** Việc làm  
-**Chủ đề:** [Lao động](/van-ban/chu-de/lao-dong/)  
+**Chủ đề:** [Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
 **Số điều khoản:** 409  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4106,7 +4106,7 @@ permalink: /van-ban/de-muc/viec-lam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Lao động](/van-ban/chu-de/lao-dong/)  
+[← Danh sách đề mục của Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

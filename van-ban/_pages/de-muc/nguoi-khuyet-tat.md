@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/nguoi-khuyet-tat/
 # Người khuyết tật
 
 **Đề mục:** Người khuyết tật  
-**Chủ đề:** [Chính sách xã hội](/van-ban/chu-de/chinh-sach-xa-hoi/)  
+**Chủ đề:** [Chính sách xã hội]({{ site.baseurl }}/chu-de/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 187  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1886,7 +1886,7 @@ permalink: /van-ban/de-muc/nguoi-khuyet-tat/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Chính sách xã hội](/van-ban/chu-de/chinh-sach-xa-hoi/)  
+[← Danh sách đề mục của Chính sách xã hội]({{ site.baseurl }}/chu-de/chinh-sach-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

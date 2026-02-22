@@ -12,11 +12,11 @@ permalink: /van-ban/chu-de/ton-giao-tin-nguong/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Tín ngưỡng, tôn giáo](/van-ban/de-muc/tin-nguong-ton-giao/)**
+1. **[Tín ngưỡng, tôn giáo]({{ site.baseurl }}/de-muc/tin-nguong-ton-giao/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1

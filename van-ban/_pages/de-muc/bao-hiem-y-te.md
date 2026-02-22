@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/bao-hiem-y-te/
 # Bảo hiểm y tế
 
 **Đề mục:** Bảo hiểm y tế  
-**Chủ đề:** [Bảo hiểm](/van-ban/chu-de/bao-hiem/)  
+**Chủ đề:** [Bảo hiểm]({{ site.baseurl }}/chu-de/bao-hiem/)  
 **Số điều khoản:** 437  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4386,7 +4386,7 @@ permalink: /van-ban/de-muc/bao-hiem-y-te/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bảo hiểm](/van-ban/chu-de/bao-hiem/)  
+[← Danh sách đề mục của Bảo hiểm]({{ site.baseurl }}/chu-de/bao-hiem/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

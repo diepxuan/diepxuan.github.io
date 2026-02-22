@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/hon-nhan-va-gia-dinh/
 # Hôn nhân và gia đình
 
 **Đề mục:** Hôn nhân và gia đình  
-**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
+**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới]({{ site.baseurl }}/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 **Số điều khoản:** 229  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2306,7 +2306,7 @@ permalink: /van-ban/de-muc/hon-nhan-va-gia-dinh/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
+[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới]({{ site.baseurl }}/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
