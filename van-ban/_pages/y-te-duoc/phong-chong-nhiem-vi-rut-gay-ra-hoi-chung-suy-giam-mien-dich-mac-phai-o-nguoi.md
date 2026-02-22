@@ -7,7 +7,7 @@ permalink: /van-ban/y-te-duoc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam
 # Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người
 
 **Đề mục:** Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người  
-**Chủ đề:** [Y tế, dược]({{ site.baseurl }}/chu-de/y-te-duoc/)  
+**Chủ đề:** [Y tế, dược]({{ site.baseurl }}/y-te-duoc/)  
 **Số điều khoản:** 538  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5396,7 +5396,7 @@ permalink: /van-ban/y-te-duoc/phong-chong-nhiem-vi-rut-gay-ra-hoi-chung-suy-giam
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược]({{ site.baseurl }}/chu-de/y-te-duoc/)  
+[← Danh sách đề mục của Y tế, dược]({{ site.baseurl }}/y-te-duoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/thong-ke/thong-ke/
 # Thống kê
 
 **Đề mục:** Thống kê  
-**Chủ đề:** [Thống kê]({{ site.baseurl }}/chu-de/thong-ke/)  
+**Chủ đề:** [Thống kê]({{ site.baseurl }}/thong-ke/)  
 **Số điều khoản:** 661  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -6626,7 +6626,7 @@ permalink: /van-ban/thong-ke/thong-ke/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thống kê]({{ site.baseurl }}/chu-de/thong-ke/)  
+[← Danh sách đề mục của Thống kê]({{ site.baseurl }}/thong-ke/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

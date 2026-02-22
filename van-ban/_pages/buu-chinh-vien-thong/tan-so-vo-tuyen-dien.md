@@ -7,7 +7,7 @@ permalink: /van-ban/buu-chinh-vien-thong/tan-so-vo-tuyen-dien/
 # Tần số vô tuyến điện
 
 **Đề mục:** Tần số vô tuyến điện  
-**Chủ đề:** [Bưu chính, viễn thông]({{ site.baseurl }}/chu-de/buu-chinh-vien-thong/)  
+**Chủ đề:** [Bưu chính, viễn thông]({{ site.baseurl }}/buu-chinh-vien-thong/)  
 **Số điều khoản:** 268  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2696,7 +2696,7 @@ permalink: /van-ban/buu-chinh-vien-thong/tan-so-vo-tuyen-dien/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bưu chính, viễn thông]({{ site.baseurl }}/chu-de/buu-chinh-vien-thong/)  
+[← Danh sách đề mục của Bưu chính, viễn thông]({{ site.baseurl }}/buu-chinh-vien-thong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

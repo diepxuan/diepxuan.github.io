@@ -7,7 +7,7 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/phap-dien-he-thong-
 # Pháp điển hệ thống quy phạm pháp luật
 
 **Đề mục:** Pháp điển hệ thống quy phạm pháp luật  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 69  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -706,7 +706,7 @@ permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/phap-dien-he-thong-
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/chu-de/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
+[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật]({{ site.baseurl }}/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

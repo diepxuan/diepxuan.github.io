@@ -7,7 +7,7 @@ permalink: /van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-h
 # Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 
 **Đề mục:** Hoạt động giám sát của Quốc hội và Hội đồng nhân dân  
-**Chủ đề:** [Tổ chức bộ máy nhà nước]({{ site.baseurl }}/chu-de/to-chuc-bo-may-nha-nuoc/)  
+**Chủ đề:** [Tổ chức bộ máy nhà nước]({{ site.baseurl }}/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 116  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1176,7 +1176,7 @@ permalink: /van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-h
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước]({{ site.baseurl }}/chu-de/to-chuc-bo-may-nha-nuoc/)  
+[← Danh sách đề mục của Tổ chức bộ máy nhà nước]({{ site.baseurl }}/to-chuc-bo-may-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

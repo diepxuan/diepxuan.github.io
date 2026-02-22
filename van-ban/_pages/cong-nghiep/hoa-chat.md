@@ -7,7 +7,7 @@ permalink: /van-ban/cong-nghiep/hoa-chat/
 # Hóa chất
 
 **Đề mục:** Hóa chất  
-**Chủ đề:** [Công nghiệp]({{ site.baseurl }}/chu-de/cong-nghiep/)  
+**Chủ đề:** [Công nghiệp]({{ site.baseurl }}/cong-nghiep/)  
 **Số điều khoản:** 252  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2536,7 +2536,7 @@ permalink: /van-ban/cong-nghiep/hoa-chat/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Công nghiệp]({{ site.baseurl }}/chu-de/cong-nghiep/)  
+[← Danh sách đề mục của Công nghiệp]({{ site.baseurl }}/cong-nghiep/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 # Một số biện pháp bảo đảm trật tự công cộng
 
 **Đề mục:** Một số biện pháp bảo đảm trật tự công cộng  
-**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 30  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -316,7 +316,7 @@ permalink: /van-ban/trat-tu-an-toan-xa-hoi/mot-so-bien-phap-bao-dam-trat-tu-cong
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/trat-tu-an-toan-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

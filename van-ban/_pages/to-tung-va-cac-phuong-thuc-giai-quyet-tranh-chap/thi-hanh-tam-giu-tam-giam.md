@@ -7,7 +7,7 @@ permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thi-hanh-ta
 # Thi hành tạm giữ, tạm giam
 
 **Đề mục:** Thi hành tạm giữ, tạm giam  
-**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
+**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 212  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2136,7 +2136,7 @@ permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thi-hanh-ta
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
+[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

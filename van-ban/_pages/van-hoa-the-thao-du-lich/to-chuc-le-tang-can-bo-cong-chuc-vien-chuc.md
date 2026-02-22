@@ -7,7 +7,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/to-chuc-le-tang-can-bo-cong-chuc-vi
 # Tổ chức lễ tang cán bộ, công chức, viên chức
 
 **Đề mục:** Tổ chức lễ tang cán bộ, công chức, viên chức  
-**Chủ đề:** [Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
+**Chủ đề:** [Văn hóa, thể thao, du lịch]({{ site.baseurl }}/van-hoa-the-thao-du-lich/)  
 **Số điều khoản:** 158  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1596,7 +1596,7 @@ permalink: /van-ban/van-hoa-the-thao-du-lich/to-chuc-le-tang-can-bo-cong-chuc-vi
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch]({{ site.baseurl }}/chu-de/van-hoa-the-thao-du-lich/)  
+[← Danh sách đề mục của Văn hóa, thể thao, du lịch]({{ site.baseurl }}/van-hoa-the-thao-du-lich/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

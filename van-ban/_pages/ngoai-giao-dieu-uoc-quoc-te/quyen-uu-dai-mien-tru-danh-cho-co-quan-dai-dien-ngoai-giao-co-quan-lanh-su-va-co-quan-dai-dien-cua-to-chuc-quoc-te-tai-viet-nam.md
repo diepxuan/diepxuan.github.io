@@ -7,7 +7,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/quyen-uu-dai-mien-tru-danh-cho-c
 # Quyền ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam
 
 **Đề mục:** Quyền ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+**Chủ đề:** [Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/ngoai-giao-dieu-uoc-quoc-te/)  
 **Số điều khoản:** 83  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -846,7 +846,7 @@ permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/quyen-uu-dai-mien-tru-danh-cho-c
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/chu-de/ngoai-giao-dieu-uoc-quoc-te/)  
+[← Danh sách đề mục của Ngoại giao, điều ước quốc tế]({{ site.baseurl }}/ngoai-giao-dieu-uoc-quoc-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

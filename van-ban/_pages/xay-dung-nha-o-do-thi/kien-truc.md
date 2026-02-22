@@ -7,7 +7,7 @@ permalink: /van-ban/xay-dung-nha-o-do-thi/kien-truc/
 # Kiến trúc
 
 **Đề mục:** Kiến trúc  
-**Chủ đề:** [Xây dựng, nhà ở, đô thị]({{ site.baseurl }}/chu-de/xay-dung-nha-o-do-thi/)  
+**Chủ đề:** [Xây dựng, nhà ở, đô thị]({{ site.baseurl }}/xay-dung-nha-o-do-thi/)  
 **Số điều khoản:** 100  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1016,7 +1016,7 @@ permalink: /van-ban/xay-dung-nha-o-do-thi/kien-truc/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng, nhà ở, đô thị]({{ site.baseurl }}/chu-de/xay-dung-nha-o-do-thi/)  
+[← Danh sách đề mục của Xây dựng, nhà ở, đô thị]({{ site.baseurl }}/xay-dung-nha-o-do-thi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/khieu-nai-to-cao/to-cao/
 # Tố cáo
 
 **Đề mục:** Tố cáo  
-**Chủ đề:** [Khiếu nại, tố cáo]({{ site.baseurl }}/chu-de/khieu-nai-to-cao/)  
+**Chủ đề:** [Khiếu nại, tố cáo]({{ site.baseurl }}/khieu-nai-to-cao/)  
 **Số điều khoản:** 270  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2716,7 +2716,7 @@ permalink: /van-ban/khieu-nai-to-cao/to-cao/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khiếu nại, tố cáo]({{ site.baseurl }}/chu-de/khieu-nai-to-cao/)  
+[← Danh sách đề mục của Khiếu nại, tố cáo]({{ site.baseurl }}/khieu-nai-to-cao/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
