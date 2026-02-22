@@ -2,7 +2,7 @@
 layout: default
 title: Đo lường
 permalink: /van-ban/khoa-hoc-cong-nghe/do-luong/
-collection: subtopics
+collection: vanban_subtopics
 slug: do-luong
 parent: khoa-hoc-cong-nghe
 ---

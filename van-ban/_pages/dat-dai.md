@@ -2,7 +2,7 @@
 layout: default
 title: Đất đai
 permalink: /van-ban/dat-dai/
-collection: topics
+collection: vanban_topics
 slug: dat-dai
 ---
 

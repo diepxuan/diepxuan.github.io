@@ -2,7 +2,7 @@
 layout: default
 title: Thủy sản
 permalink: /van-ban/nong-nghiep-nong-thon/thuy-san/
-collection: subtopics
+collection: vanban_subtopics
 slug: thuy-san
 parent: nong-nghiep-nong-thon
 ---

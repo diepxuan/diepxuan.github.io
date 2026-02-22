@@ -2,7 +2,7 @@
 layout: default
 title: Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong/
-collection: subtopics
+collection: vanban_subtopics
 slug: hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong
 parent: van-hoa-the-thao-du-lich
 ---

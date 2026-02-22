@@ -2,7 +2,7 @@
 layout: default
 title: Ngân hàng Nhà nước Việt Nam
 permalink: /van-ban/ngan-hang-tien-te/ngan-hang-nha-nuoc-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: ngan-hang-nha-nuoc-viet-nam
 parent: ngan-hang-tien-te
 ---

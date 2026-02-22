@@ -2,7 +2,7 @@
 layout: default
 title: Giao thông, vận tải
 permalink: /van-ban/giao-thong-van-tai/
-collection: topics
+collection: vanban_topics
 slug: giao-thong-van-tai
 ---
 

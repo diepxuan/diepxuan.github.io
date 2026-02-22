@@ -2,7 +2,7 @@
 layout: default
 title: Thuế thu nhập cá nhân
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/thue-thu-nhap-ca-nhan/
-collection: subtopics
+collection: vanban_subtopics
 slug: thue-thu-nhap-ca-nhan
 parent: thue-phi-le-phi-cac-khoan-thu-khac
 ---

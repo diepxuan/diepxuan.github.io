@@ -2,7 +2,7 @@
 layout: default
 title: Thông tin, báo chí, xuất bản
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/
-collection: topics
+collection: vanban_topics
 slug: thong-tin-bao-chi-xuat-ban
 ---
 

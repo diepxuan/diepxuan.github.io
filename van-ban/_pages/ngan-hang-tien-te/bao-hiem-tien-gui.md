@@ -2,7 +2,7 @@
 layout: default
 title: Bảo hiểm tiền gửi
 permalink: /van-ban/ngan-hang-tien-te/bao-hiem-tien-gui/
-collection: subtopics
+collection: vanban_subtopics
 slug: bao-hiem-tien-gui
 parent: ngan-hang-tien-te
 ---

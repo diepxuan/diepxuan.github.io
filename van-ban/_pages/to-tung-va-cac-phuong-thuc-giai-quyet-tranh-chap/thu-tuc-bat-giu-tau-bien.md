@@ -2,7 +2,7 @@
 layout: default
 title: Thủ tục bắt giữ tàu biển
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thu-tuc-bat-giu-tau-bien/
-collection: subtopics
+collection: vanban_subtopics
 slug: thu-tuc-bat-giu-tau-bien
 parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---

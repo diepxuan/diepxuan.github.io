@@ -2,7 +2,7 @@
 layout: default
 title: Bổ trợ tư pháp
 permalink: /van-ban/bo-tro-tu-phap/
-collection: topics
+collection: vanban_topics
 slug: bo-tro-tu-phap
 ---
 

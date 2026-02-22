@@ -2,7 +2,7 @@
 layout: default
 title: Người khuyết tật
 permalink: /van-ban/chinh-sach-xa-hoi/nguoi-khuyet-tat/
-collection: subtopics
+collection: vanban_subtopics
 slug: nguoi-khuyet-tat
 parent: chinh-sach-xa-hoi
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: An ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/an-ninh-quoc-gia/
-collection: subtopics
+collection: vanban_subtopics
 slug: an-ninh-quoc-gia
 parent: an-ninh-quoc-gia
 ---

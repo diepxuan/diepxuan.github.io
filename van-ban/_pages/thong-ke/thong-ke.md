@@ -2,7 +2,7 @@
 layout: default
 title: Thống kê
 permalink: /van-ban/thong-ke/thong-ke/
-collection: subtopics
+collection: vanban_subtopics
 slug: thong-ke
 parent: thong-ke
 ---

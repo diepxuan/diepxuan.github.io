@@ -2,7 +2,7 @@
 layout: default
 title: Tôn giáo, tín ngưỡng
 permalink: /van-ban/ton-giao-tin-nguong/
-collection: topics
+collection: vanban_topics
 slug: ton-giao-tin-nguong
 ---
 

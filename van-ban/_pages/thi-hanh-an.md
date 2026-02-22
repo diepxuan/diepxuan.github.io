@@ -2,7 +2,7 @@
 layout: default
 title: Thi hành án
 permalink: /van-ban/thi-hanh-an/
-collection: topics
+collection: vanban_topics
 slug: thi-hanh-an
 ---
 

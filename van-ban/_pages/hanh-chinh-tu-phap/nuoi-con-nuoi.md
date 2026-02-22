@@ -2,7 +2,7 @@
 layout: default
 title: Nuôi con nuôi
 permalink: /van-ban/hanh-chinh-tu-phap/nuoi-con-nuoi/
-collection: subtopics
+collection: vanban_subtopics
 slug: nuoi-con-nuoi
 parent: hanh-chinh-tu-phap
 ---

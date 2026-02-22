@@ -2,7 +2,7 @@
 layout: default
 title: Văn thư lưu trữ
 permalink: /van-ban/van-thu-luu-tru/
-collection: topics
+collection: vanban_topics
 slug: van-thu-luu-tru
 ---
 

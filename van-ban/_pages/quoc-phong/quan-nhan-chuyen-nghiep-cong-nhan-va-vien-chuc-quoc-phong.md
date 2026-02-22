@@ -2,7 +2,7 @@
 layout: default
 title: Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 permalink: /van-ban/quoc-phong/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong/
-collection: subtopics
+collection: vanban_subtopics
 slug: quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong
 parent: quoc-phong
 ---

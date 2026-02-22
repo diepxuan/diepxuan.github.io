@@ -2,7 +2,7 @@
 layout: default
 title: Xuất bản
 permalink: /van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban/
-collection: subtopics
+collection: vanban_subtopics
 slug: xuat-ban
 parent: thong-tin-bao-chi-xuat-ban
 ---

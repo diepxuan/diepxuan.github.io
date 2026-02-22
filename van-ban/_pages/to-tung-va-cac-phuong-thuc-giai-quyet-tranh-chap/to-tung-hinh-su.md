@@ -2,7 +2,7 @@
 layout: default
 title: Tố tụng hình sự
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-hinh-su/
-collection: subtopics
+collection: vanban_subtopics
 slug: to-tung-hinh-su
 parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---

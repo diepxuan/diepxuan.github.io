@@ -2,7 +2,7 @@
 layout: default
 title: Công an xã
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/cong-an-xa/
-collection: subtopics
+collection: vanban_subtopics
 slug: cong-an-xa
 parent: trat-tu-an-toan-xa-hoi
 ---

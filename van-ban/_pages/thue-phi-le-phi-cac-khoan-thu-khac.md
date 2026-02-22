@@ -2,7 +2,7 @@
 layout: default
 title: Thuế, phí, lệ phí, các khoản thu khác
 permalink: /van-ban/thue-phi-le-phi-cac-khoan-thu-khac/
-collection: topics
+collection: vanban_topics
 slug: thue-phi-le-phi-cac-khoan-thu-khac
 ---
 

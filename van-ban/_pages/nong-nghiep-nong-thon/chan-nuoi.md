@@ -2,7 +2,7 @@
 layout: default
 title: Chăn nuôi
 permalink: /van-ban/nong-nghiep-nong-thon/chan-nuoi/
-collection: subtopics
+collection: vanban_subtopics
 slug: chan-nuoi
 parent: nong-nghiep-nong-thon
 ---

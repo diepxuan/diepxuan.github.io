@@ -2,7 +2,7 @@
 layout: default
 title: Các công cụ chuyển nhượng
 permalink: /van-ban/ngan-hang-tien-te/cac-cong-cu-chuyen-nhuong/
-collection: subtopics
+collection: vanban_subtopics
 slug: cac-cong-cu-chuyen-nhuong
 parent: ngan-hang-tien-te
 ---

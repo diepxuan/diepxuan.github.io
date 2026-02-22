@@ -2,7 +2,7 @@
 layout: default
 title: Xử lý vi phạm hành chính
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/xu-ly-vi-pham-hanh-chinh/
-collection: subtopics
+collection: vanban_subtopics
 slug: xu-ly-vi-pham-hanh-chinh
 parent: trat-tu-an-toan-xa-hoi
 ---

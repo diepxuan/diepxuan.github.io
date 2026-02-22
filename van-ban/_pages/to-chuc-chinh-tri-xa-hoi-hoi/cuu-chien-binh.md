@@ -2,7 +2,7 @@
 layout: default
 title: Cựu chiến binh
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/cuu-chien-binh/
-collection: subtopics
+collection: vanban_subtopics
 slug: cuu-chien-binh
 parent: to-chuc-chinh-tri-xa-hoi-hoi
 ---

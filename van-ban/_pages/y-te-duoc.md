@@ -2,7 +2,7 @@
 layout: default
 title: Y tế, dược
 permalink: /van-ban/y-te-duoc/
-collection: topics
+collection: vanban_topics
 slug: y-te-duoc
 ---
 

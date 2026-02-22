@@ -2,7 +2,7 @@
 layout: default
 title: Việc làm
 permalink: /van-ban/lao-dong/viec-lam/
-collection: subtopics
+collection: vanban_subtopics
 slug: viec-lam
 parent: lao-dong
 ---

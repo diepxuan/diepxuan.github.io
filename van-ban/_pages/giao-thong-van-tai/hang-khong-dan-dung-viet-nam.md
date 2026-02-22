@@ -2,7 +2,7 @@
 layout: default
 title: Hàng không dân dụng Việt Nam
 permalink: /van-ban/giao-thong-van-tai/hang-khong-dan-dung-viet-nam/
-collection: subtopics
+collection: vanban_subtopics
 slug: hang-khong-dan-dung-viet-nam
 parent: giao-thong-van-tai
 ---

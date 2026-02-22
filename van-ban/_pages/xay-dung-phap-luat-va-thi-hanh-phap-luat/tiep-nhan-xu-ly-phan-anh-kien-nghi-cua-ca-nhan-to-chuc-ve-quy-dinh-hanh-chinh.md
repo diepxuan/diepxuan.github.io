@@ -2,7 +2,7 @@
 layout: default
 title: Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh/
-collection: subtopics
+collection: vanban_subtopics
 slug: tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh
 parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---

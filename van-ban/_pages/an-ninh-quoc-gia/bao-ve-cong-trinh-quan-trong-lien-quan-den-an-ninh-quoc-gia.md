@@ -2,7 +2,7 @@
 layout: default
 title: Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia/
-collection: subtopics
+collection: vanban_subtopics
 slug: bao-ve-cong-trinh-quan-trong-lien-quan-den-an-ninh-quoc-gia
 parent: an-ninh-quoc-gia
 ---

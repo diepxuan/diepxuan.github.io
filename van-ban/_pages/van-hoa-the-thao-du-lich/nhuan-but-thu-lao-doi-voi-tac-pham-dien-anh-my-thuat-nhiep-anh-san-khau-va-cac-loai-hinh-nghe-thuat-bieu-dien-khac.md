@@ -2,7 +2,7 @@
 layout: default
 title: Nhuận bút, thù lao đối với tác phẩm điện ảnh, mỹ thuật, nhiếp ảnh, sân khấu và các loại hình nghệ thuật biểu diễn khác
 permalink: /van-ban/van-hoa-the-thao-du-lich/nhuan-but-thu-lao-doi-voi-tac-pham-dien-anh-my-thuat-nhiep-anh-san-khau-va-cac-loai-hinh-nghe-thuat-bieu-dien-khac/
-collection: subtopics
+collection: vanban_subtopics
 slug: nhuan-but-thu-lao-doi-voi-tac-pham-dien-anh-my-thuat-nhiep-anh-san-khau-va-cac-loai-hinh-nghe-thuat-bieu-dien-khac
 parent: van-hoa-the-thao-du-lich
 ---

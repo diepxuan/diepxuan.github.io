@@ -2,7 +2,7 @@
 layout: default
 title: Cảnh vệ
 permalink: /van-ban/an-ninh-quoc-gia/canh-ve/
-collection: subtopics
+collection: vanban_subtopics
 slug: canh-ve
 parent: an-ninh-quoc-gia
 ---
