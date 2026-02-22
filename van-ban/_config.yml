@@ -10,11 +10,11 @@ permalink: pretty
 
 # Collections for new structure
 collections:
-  topics:
+  vanban_topics:
     output: true
     permalink: /van-ban/:slug/
   
-  subtopics:
+  vanban_subtopics:
     output: true
     permalink: /van-ban/:parent/:slug/
 
@@ -22,13 +22,13 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "topics"
+      type: "vanban_topics"
     values:
       layout: "default"
   
   - scope:
       path: ""
-      type: "subtopics"
+      type: "vanban_subtopics"
     values:
       layout: "default"
   
