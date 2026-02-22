@@ -2,6 +2,9 @@
 layout: default
 title: Cảnh sát môi trường
 permalink: /van-ban/trat-tu-an-toan-xa-hoi/canh-sat-moi-truong/
+collection: subtopics
+slug: canh-sat-moi-truong
+parent: trat-tu-an-toan-xa-hoi
 ---
 
 # Cảnh sát môi trường

@@ -2,6 +2,9 @@
 layout: default
 title: Cạnh tranh
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/canh-tranh/
+collection: subtopics
+slug: canh-tranh
+parent: thuong-mai-dau-tu-chung-khoan
 ---
 
 # Cạnh tranh

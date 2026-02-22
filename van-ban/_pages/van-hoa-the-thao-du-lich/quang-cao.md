@@ -2,6 +2,9 @@
 layout: default
 title: Quảng cáo
 permalink: /van-ban/van-hoa-the-thao-du-lich/quang-cao/
+collection: subtopics
+slug: quang-cao
+parent: van-hoa-the-thao-du-lich
 ---
 
 # Quảng cáo

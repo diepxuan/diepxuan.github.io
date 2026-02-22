@@ -2,6 +2,9 @@
 layout: default
 title: Ngân sách nhà nước
 permalink: /van-ban/tai-chinh/ngan-sach-nha-nuoc/
+collection: subtopics
+slug: ngan-sach-nha-nuoc
+parent: tai-chinh
 ---
 
 # Ngân sách nhà nước

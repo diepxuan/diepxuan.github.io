@@ -2,6 +2,9 @@
 layout: default
 title: Ưu đãi người có công với cách mạng
 permalink: /van-ban/chinh-sach-xa-hoi/uu-dai-nguoi-co-cong-voi-cach-mang/
+collection: subtopics
+slug: uu-dai-nguoi-co-cong-voi-cach-mang
+parent: chinh-sach-xa-hoi
 ---
 
 # Ưu đãi người có công với cách mạng

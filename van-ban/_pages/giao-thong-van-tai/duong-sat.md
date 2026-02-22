@@ -2,6 +2,9 @@
 layout: default
 title: Đường sắt
 permalink: /van-ban/giao-thong-van-tai/duong-sat/
+collection: subtopics
+slug: duong-sat
+parent: giao-thong-van-tai
 ---
 
 # Đường sắt

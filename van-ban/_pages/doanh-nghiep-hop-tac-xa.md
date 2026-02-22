@@ -2,6 +2,8 @@
 layout: default
 title: Doanh nghiệp, hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/
+collection: topics
+slug: doanh-nghiep-hop-tac-xa
 ---
 
 # Doanh nghiệp, hợp tác xã

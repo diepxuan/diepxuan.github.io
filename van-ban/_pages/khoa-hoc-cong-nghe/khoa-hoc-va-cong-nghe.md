@@ -2,6 +2,9 @@
 layout: default
 title: Khoa học và công nghệ
 permalink: /van-ban/khoa-hoc-cong-nghe/khoa-hoc-va-cong-nghe/
+collection: subtopics
+slug: khoa-hoc-va-cong-nghe
+parent: khoa-hoc-cong-nghe
 ---
 
 # Khoa học và công nghệ

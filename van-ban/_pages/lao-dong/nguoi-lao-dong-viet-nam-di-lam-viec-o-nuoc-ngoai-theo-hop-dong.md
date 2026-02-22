@@ -2,6 +2,9 @@
 layout: default
 title: Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 permalink: /van-ban/lao-dong/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong/
+collection: subtopics
+slug: nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong
+parent: lao-dong
 ---
 
 # Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng

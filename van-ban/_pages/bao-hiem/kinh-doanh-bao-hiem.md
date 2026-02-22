@@ -2,6 +2,9 @@
 layout: default
 title: Kinh doanh bảo hiểm
 permalink: /van-ban/bao-hiem/kinh-doanh-bao-hiem/
+collection: subtopics
+slug: kinh-doanh-bao-hiem
+parent: bao-hiem
 ---
 
 # Kinh doanh bảo hiểm

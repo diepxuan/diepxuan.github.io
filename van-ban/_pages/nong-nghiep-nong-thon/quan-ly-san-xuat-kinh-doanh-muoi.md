@@ -2,6 +2,9 @@
 layout: default
 title: Quản lý sản xuất, kinh doanh muối
 permalink: /van-ban/nong-nghiep-nong-thon/quan-ly-san-xuat-kinh-doanh-muoi/
+collection: subtopics
+slug: quan-ly-san-xuat-kinh-doanh-muoi
+parent: nong-nghiep-nong-thon
 ---
 
 # Quản lý sản xuất, kinh doanh muối

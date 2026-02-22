@@ -2,6 +2,9 @@
 layout: default
 title: An toàn thông tin mạng
 permalink: /van-ban/buu-chinh-vien-thong/an-toan-thong-tin-mang/
+collection: subtopics
+slug: an-toan-thong-tin-mang
+parent: buu-chinh-vien-thong
 ---
 
 # An toàn thông tin mạng

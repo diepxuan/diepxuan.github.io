@@ -2,6 +2,9 @@
 layout: default
 title: An toàn, vệ sinh lao động
 permalink: /van-ban/lao-dong/an-toan-ve-sinh-lao-dong/
+collection: subtopics
+slug: an-toan-ve-sinh-lao-dong
+parent: lao-dong
 ---
 
 # An toàn, vệ sinh lao động

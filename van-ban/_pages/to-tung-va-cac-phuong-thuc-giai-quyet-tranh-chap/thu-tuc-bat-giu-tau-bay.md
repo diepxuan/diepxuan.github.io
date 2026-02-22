@@ -2,6 +2,9 @@
 layout: default
 title: Thủ tục bắt giữ tàu bay
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/thu-tuc-bat-giu-tau-bay/
+collection: subtopics
+slug: thu-tuc-bat-giu-tau-bay
+parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Thủ tục bắt giữ tàu bay

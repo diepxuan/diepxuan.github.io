@@ -2,6 +2,9 @@
 layout: default
 title: Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan/
+collection: subtopics
+slug: bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan
+parent: to-chuc-bo-may-nha-nuoc
 ---
 
 # Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân

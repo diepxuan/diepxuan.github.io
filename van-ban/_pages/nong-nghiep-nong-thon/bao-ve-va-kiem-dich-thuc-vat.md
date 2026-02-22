@@ -2,6 +2,9 @@
 layout: default
 title: Bảo vệ và kiểm dịch thực vật
 permalink: /van-ban/nong-nghiep-nong-thon/bao-ve-va-kiem-dich-thuc-vat/
+collection: subtopics
+slug: bao-ve-va-kiem-dich-thuc-vat
+parent: nong-nghiep-nong-thon
 ---
 
 # Bảo vệ và kiểm dịch thực vật

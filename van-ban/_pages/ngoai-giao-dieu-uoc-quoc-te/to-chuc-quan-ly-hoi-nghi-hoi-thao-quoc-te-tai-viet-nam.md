@@ -2,6 +2,9 @@
 layout: default
 title: Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-nam/
+collection: subtopics
+slug: to-chuc-quan-ly-hoi-nghi-hoi-thao-quoc-te-tai-viet-nam
+parent: ngoai-giao-dieu-uoc-quoc-te
 ---
 
 # Tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam

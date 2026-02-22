@@ -2,6 +2,9 @@
 layout: default
 title: Công nghệ thông tin
 permalink: /van-ban/buu-chinh-vien-thong/cong-nghe-thong-tin/
+collection: subtopics
+slug: cong-nghe-thong-tin
+parent: buu-chinh-vien-thong
 ---
 
 # Công nghệ thông tin

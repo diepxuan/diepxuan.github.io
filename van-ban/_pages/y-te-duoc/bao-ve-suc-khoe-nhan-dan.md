@@ -2,6 +2,9 @@
 layout: default
 title: Bảo vệ sức khỏe nhân dân
 permalink: /van-ban/y-te-duoc/bao-ve-suc-khoe-nhan-dan/
+collection: subtopics
+slug: bao-ve-suc-khoe-nhan-dan
+parent: y-te-duoc
 ---
 
 # Bảo vệ sức khỏe nhân dân

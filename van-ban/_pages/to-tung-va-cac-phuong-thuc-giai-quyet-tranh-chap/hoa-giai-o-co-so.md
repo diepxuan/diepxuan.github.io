@@ -2,6 +2,9 @@
 layout: default
 title: Hòa giải ở cơ sở
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/hoa-giai-o-co-so/
+collection: subtopics
+slug: hoa-giai-o-co-so
+parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Hòa giải ở cơ sở

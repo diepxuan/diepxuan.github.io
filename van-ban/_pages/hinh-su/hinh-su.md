@@ -2,6 +2,9 @@
 layout: default
 title: Hình sự
 permalink: /van-ban/hinh-su/hinh-su/
+collection: subtopics
+slug: hinh-su
+parent: hinh-su
 ---
 
 # Hình sự

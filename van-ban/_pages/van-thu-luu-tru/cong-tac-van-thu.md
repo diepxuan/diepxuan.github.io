@@ -2,6 +2,9 @@
 layout: default
 title: Công tác văn thư
 permalink: /van-ban/van-thu-luu-tru/cong-tac-van-thu/
+collection: subtopics
+slug: cong-tac-van-thu
+parent: van-thu-luu-tru
 ---
 
 # Công tác văn thư

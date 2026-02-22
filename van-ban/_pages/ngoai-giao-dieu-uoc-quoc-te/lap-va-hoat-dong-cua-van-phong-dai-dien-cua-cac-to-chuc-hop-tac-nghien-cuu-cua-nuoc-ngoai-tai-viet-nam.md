@@ -2,6 +2,9 @@
 layout: default
 title: Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-chuc-hop-tac-nghien-cuu-cua-nuoc-ngoai-tai-viet-nam/
+collection: subtopics
+slug: lap-va-hoat-dong-cua-van-phong-dai-dien-cua-cac-to-chuc-hop-tac-nghien-cuu-cua-nuoc-ngoai-tai-viet-nam
+parent: ngoai-giao-dieu-uoc-quoc-te
 ---
 
 # Lập và hoạt động của văn phòng đại diện của các tổ chức hợp tác, nghiên cứu của nước ngoài tại Việt Nam

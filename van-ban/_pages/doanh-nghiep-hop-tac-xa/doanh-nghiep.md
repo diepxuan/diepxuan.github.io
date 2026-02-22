@@ -2,6 +2,9 @@
 layout: default
 title: Doanh nghiệp
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/doanh-nghiep/
+collection: subtopics
+slug: doanh-nghiep
+parent: doanh-nghiep-hop-tac-xa
 ---
 
 # Doanh nghiệp

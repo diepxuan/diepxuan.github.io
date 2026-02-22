@@ -2,6 +2,8 @@
 layout: default
 title: Kế toán, kiểm toán
 permalink: /van-ban/ke-toan-kiem-toan/
+collection: topics
+slug: ke-toan-kiem-toan
 ---
 
 # Kế toán, kiểm toán

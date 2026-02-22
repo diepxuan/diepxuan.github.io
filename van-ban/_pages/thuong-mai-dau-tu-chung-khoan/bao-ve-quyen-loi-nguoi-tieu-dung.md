@@ -2,6 +2,9 @@
 layout: default
 title: Bảo vệ quyền lợi người tiêu dùng
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/bao-ve-quyen-loi-nguoi-tieu-dung/
+collection: subtopics
+slug: bao-ve-quyen-loi-nguoi-tieu-dung
+parent: thuong-mai-dau-tu-chung-khoan
 ---
 
 # Bảo vệ quyền lợi người tiêu dùng

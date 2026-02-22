@@ -2,6 +2,9 @@
 layout: default
 title: Hợp nhất văn bản quy phạm pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/hop-nhat-van-ban-quy-pha-m-pha-p-lua-t/
+collection: subtopics
+slug: hop-nhat-van-ban-quy-pha-m-pha-p-lua-t
+parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Hợp nhất văn bản quy phạm pháp luật

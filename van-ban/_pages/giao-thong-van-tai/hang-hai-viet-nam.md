@@ -2,6 +2,9 @@
 layout: default
 title: Hàng hải Việt Nam
 permalink: /van-ban/giao-thong-van-tai/hang-hai-viet-nam/
+collection: subtopics
+slug: hang-hai-viet-nam
+parent: giao-thong-van-tai
 ---
 
 # Hàng hải Việt Nam

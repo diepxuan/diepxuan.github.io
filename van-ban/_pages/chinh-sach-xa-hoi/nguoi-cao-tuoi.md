@@ -2,6 +2,9 @@
 layout: default
 title: Người cao tuổi
 permalink: /van-ban/chinh-sach-xa-hoi/nguoi-cao-tuoi/
+collection: subtopics
+slug: nguoi-cao-tuoi
+parent: chinh-sach-xa-hoi
 ---
 
 # Người cao tuổi

@@ -2,6 +2,9 @@
 layout: default
 title: Thi hành án dân sự
 permalink: /van-ban/thi-hanh-an/thi-hanh-an-dan-su/
+collection: subtopics
+slug: thi-hanh-an-dan-su
+parent: thi-hanh-an
 ---
 
 # Thi hành án dân sự

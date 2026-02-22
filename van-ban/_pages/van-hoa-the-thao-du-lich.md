@@ -2,6 +2,8 @@
 layout: default
 title: Văn hóa, thể thao, du lịch
 permalink: /van-ban/van-hoa-the-thao-du-lich/
+collection: topics
+slug: van-hoa-the-thao-du-lich
 ---
 
 # Văn hóa, thể thao, du lịch

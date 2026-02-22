@@ -2,6 +2,9 @@
 layout: default
 title: Giáo dục quốc phòng và an ninh
 permalink: /van-ban/quoc-phong/giao-duc-quoc-phong-va-an-ninh/
+collection: subtopics
+slug: giao-duc-quoc-phong-va-an-ninh
+parent: quoc-phong
 ---
 
 # Giáo dục quốc phòng và an ninh

@@ -2,6 +2,8 @@
 layout: default
 title: An ninh quốc gia
 permalink: /van-ban/an-ninh-quoc-gia/
+collection: topics
+slug: an-ninh-quoc-gia
 ---
 
 # An ninh quốc gia

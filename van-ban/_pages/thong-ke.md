@@ -2,6 +2,8 @@
 layout: default
 title: Thống kê
 permalink: /van-ban/thong-ke/
+collection: topics
+slug: thong-ke
 ---
 
 # Thống kê

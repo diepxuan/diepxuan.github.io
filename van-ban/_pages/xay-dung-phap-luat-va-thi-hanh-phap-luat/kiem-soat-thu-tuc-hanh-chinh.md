@@ -2,6 +2,9 @@
 layout: default
 title: Kiểm soát thủ tục hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-soat-thu-tuc-hanh-chinh/
+collection: subtopics
+slug: kiem-soat-thu-tuc-hanh-chinh
+parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Kiểm soát thủ tục hành chính
