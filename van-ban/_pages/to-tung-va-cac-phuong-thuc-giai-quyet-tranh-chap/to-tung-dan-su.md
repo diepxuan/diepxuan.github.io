@@ -7,7 +7,7 @@ permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-dan
 # Tố tụng dân sự
 
 **Đề mục:** Tố tụng dân sự  
-**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
+**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 **Số điều khoản:** 769  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -7706,7 +7706,7 @@ permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-tung-dan
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/chu-de/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
+[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp]({{ site.baseurl }}/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

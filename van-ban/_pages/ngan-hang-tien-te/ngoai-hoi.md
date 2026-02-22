@@ -7,7 +7,7 @@ permalink: /van-ban/ngan-hang-tien-te/ngoai-hoi/
 # Ngoại hối
 
 **Đề mục:** Ngoại hối  
-**Chủ đề:** [Ngân hàng, tiền tệ]({{ site.baseurl }}/chu-de/ngan-hang-tien-te/)  
+**Chủ đề:** [Ngân hàng, tiền tệ]({{ site.baseurl }}/ngan-hang-tien-te/)  
 **Số điều khoản:** 853  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -8546,7 +8546,7 @@ permalink: /van-ban/ngan-hang-tien-te/ngoai-hoi/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Ngân hàng, tiền tệ]({{ site.baseurl }}/chu-de/ngan-hang-tien-te/)  
+[← Danh sách đề mục của Ngân hàng, tiền tệ]({{ site.baseurl }}/ngan-hang-tien-te/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

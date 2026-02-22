@@ -7,7 +7,7 @@ permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/thanh-nien/
 # Thanh niên
 
 **Đề mục:** Thanh niên  
-**Chủ đề:** [Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+**Chủ đề:** [Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/to-chuc-chinh-tri-xa-hoi-hoi/)  
 **Số điều khoản:** 133  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1346,7 +1346,7 @@ permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/thanh-nien/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/chu-de/to-chuc-chinh-tri-xa-hoi-hoi/)  
+[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội]({{ site.baseurl }}/to-chuc-chinh-tri-xa-hoi-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

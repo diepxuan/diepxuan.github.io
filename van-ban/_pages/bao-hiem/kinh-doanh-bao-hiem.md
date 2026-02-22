@@ -7,7 +7,7 @@ permalink: /van-ban/bao-hiem/kinh-doanh-bao-hiem/
 # Kinh doanh bảo hiểm
 
 **Đề mục:** Kinh doanh bảo hiểm  
-**Chủ đề:** [Bảo hiểm]({{ site.baseurl }}/chu-de/bao-hiem/)  
+**Chủ đề:** [Bảo hiểm]({{ site.baseurl }}/bao-hiem/)  
 **Số điều khoản:** 703  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -7046,7 +7046,7 @@ permalink: /van-ban/bao-hiem/kinh-doanh-bao-hiem/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Bảo hiểm]({{ site.baseurl }}/chu-de/bao-hiem/)  
+[← Danh sách đề mục của Bảo hiểm]({{ site.baseurl }}/bao-hiem/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

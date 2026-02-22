@@ -7,7 +7,7 @@ permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-tai-san
 # Quản lý, sử dụng tài sản công
 
 **Đề mục:** Quản lý, sử dụng tài sản công  
-**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước]({{ site.baseurl }}/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+**Chủ đề:** [Tài sản công, nợ công, dự trữ nhà nước]({{ site.baseurl }}/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 **Số điều khoản:** 1136  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -11376,7 +11376,7 @@ permalink: /van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/quan-ly-su-dung-tai-san
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước]({{ site.baseurl }}/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
+[← Danh sách đề mục của Tài sản công, nợ công, dự trữ nhà nước]({{ site.baseurl }}/tai-san-cong-no-cong-du-tru-nha-nuoc/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/phong-chong-mai-dam/
 # Phòng, chống mại dâm
 
 **Đề mục:** Phòng, chống mại dâm  
-**Chủ đề:** [Chính sách xã hội]({{ site.baseurl }}/chu-de/chinh-sach-xa-hoi/)  
+**Chủ đề:** [Chính sách xã hội]({{ site.baseurl }}/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 104  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1056,7 +1056,7 @@ permalink: /van-ban/chinh-sach-xa-hoi/phong-chong-mai-dam/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Chính sách xã hội]({{ site.baseurl }}/chu-de/chinh-sach-xa-hoi/)  
+[← Danh sách đề mục của Chính sách xã hội]({{ site.baseurl }}/chinh-sach-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

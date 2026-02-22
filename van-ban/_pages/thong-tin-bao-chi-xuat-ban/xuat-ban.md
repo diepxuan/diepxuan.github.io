@@ -7,7 +7,7 @@ permalink: /van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban/
 # Xuất bản
 
 **Đề mục:** Xuất bản  
-**Chủ đề:** [Thông tin, báo chí, xuất bản]({{ site.baseurl }}/chu-de/thong-tin-bao-chi-xuat-ban/)  
+**Chủ đề:** [Thông tin, báo chí, xuất bản]({{ site.baseurl }}/thong-tin-bao-chi-xuat-ban/)  
 **Số điều khoản:** 165  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1666,7 +1666,7 @@ permalink: /van-ban/thong-tin-bao-chi-xuat-ban/xuat-ban/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thông tin, báo chí, xuất bản]({{ site.baseurl }}/chu-de/thong-tin-bao-chi-xuat-ban/)  
+[← Danh sách đề mục của Thông tin, báo chí, xuất bản]({{ site.baseurl }}/thong-tin-bao-chi-xuat-ban/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

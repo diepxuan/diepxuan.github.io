@@ -7,7 +7,7 @@ permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/mot-so-hoat-dong-kinh-doanh-da
 # Một số hoạt động kinh doanh đặc thù
 
 **Đề mục:** Một số hoạt động kinh doanh đặc thù  
-**Chủ đề:** [Thương mại, đầu tư, chứng khoán]({{ site.baseurl }}/chu-de/thuong-mai-dau-tu-chung-khoan/)  
+**Chủ đề:** [Thương mại, đầu tư, chứng khoán]({{ site.baseurl }}/thuong-mai-dau-tu-chung-khoan/)  
 **Số điều khoản:** 1170  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -11716,7 +11716,7 @@ permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/mot-so-hoat-dong-kinh-doanh-da
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán]({{ site.baseurl }}/chu-de/thuong-mai-dau-tu-chung-khoan/)  
+[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán]({{ site.baseurl }}/thuong-mai-dau-tu-chung-khoan/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

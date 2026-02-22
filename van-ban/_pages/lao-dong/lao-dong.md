@@ -7,7 +7,7 @@ permalink: /van-ban/lao-dong/lao-dong/
 # Lao động
 
 **Đề mục:** Lao động  
-**Chủ đề:** [Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
+**Chủ đề:** [Lao động]({{ site.baseurl }}/lao-dong/)  
 **Số điều khoản:** 518  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5196,7 +5196,7 @@ permalink: /van-ban/lao-dong/lao-dong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
+[← Danh sách đề mục của Lao động]({{ site.baseurl }}/lao-dong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

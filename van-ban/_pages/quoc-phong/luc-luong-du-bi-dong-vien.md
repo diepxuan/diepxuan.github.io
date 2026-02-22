@@ -7,7 +7,7 @@ permalink: /van-ban/quoc-phong/luc-luong-du-bi-dong-vien/
 # Lực lượng dự bị động viên
 
 **Đề mục:** Lực lượng dự bị động viên  
-**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/quoc-phong/)  
 **Số điều khoản:** 113  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1146,7 +1146,7 @@ permalink: /van-ban/quoc-phong/luc-luong-du-bi-dong-vien/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

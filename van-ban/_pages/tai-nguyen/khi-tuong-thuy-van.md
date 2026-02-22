@@ -7,7 +7,7 @@ permalink: /van-ban/tai-nguyen/khi-tuong-thuy-van/
 # Khí tượng thủy văn
 
 **Đề mục:** Khí tượng thủy văn  
-**Chủ đề:** [Tài nguyên]({{ site.baseurl }}/chu-de/tai-nguyen/)  
+**Chủ đề:** [Tài nguyên]({{ site.baseurl }}/tai-nguyen/)  
 **Số điều khoản:** 543  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -5450,7 +5450,7 @@ permalink: /van-ban/tai-nguyen/khi-tuong-thuy-van/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tài nguyên]({{ site.baseurl }}/chu-de/tai-nguyen/)  
+[← Danh sách đề mục của Tài nguyên]({{ site.baseurl }}/tai-nguyen/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -7,7 +7,7 @@ permalink: /van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa/
 # Hợp tác xã
 
 **Đề mục:** Hợp tác xã  
-**Chủ đề:** [Doanh nghiệp, hợp tác xã]({{ site.baseurl }}/chu-de/doanh-nghiep-hop-tac-xa/)  
+**Chủ đề:** [Doanh nghiệp, hợp tác xã]({{ site.baseurl }}/doanh-nghiep-hop-tac-xa/)  
 **Số điều khoản:** 384  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3856,7 +3856,7 @@ permalink: /van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Doanh nghiệp, hợp tác xã]({{ site.baseurl }}/chu-de/doanh-nghiep-hop-tac-xa/)  
+[← Danh sách đề mục của Doanh nghiệp, hợp tác xã]({{ site.baseurl }}/doanh-nghiep-hop-tac-xa/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
