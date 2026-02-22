@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/tin-nguong-ton-giao/
 # Tín ngưỡng, tôn giáo
 
 **Đề mục:** Tín ngưỡng, tôn giáo  
-**Chủ đề:** [Tôn giáo, tín ngưỡng](/van-ban/chu-de/ton-giao-tin-nguong/)  
+**Chủ đề:** [Tôn giáo, tín ngưỡng]({{ site.baseurl }}/chu-de/ton-giao-tin-nguong/)  
 **Số điều khoản:** 124  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1256,7 +1256,7 @@ permalink: /van-ban/de-muc/tin-nguong-ton-giao/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tôn giáo, tín ngưỡng](/van-ban/chu-de/ton-giao-tin-nguong/)  
+[← Danh sách đề mục của Tôn giáo, tín ngưỡng]({{ site.baseurl }}/chu-de/ton-giao-tin-nguong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

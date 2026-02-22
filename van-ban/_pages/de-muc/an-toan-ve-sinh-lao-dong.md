@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/an-toan-ve-sinh-lao-dong/
 # An toàn, vệ sinh lao động
 
 **Đề mục:** An toàn, vệ sinh lao động  
-**Chủ đề:** [Lao động](/van-ban/chu-de/lao-dong/)  
+**Chủ đề:** [Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
 **Số điều khoản:** 364  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -3656,7 +3656,7 @@ permalink: /van-ban/de-muc/an-toan-ve-sinh-lao-dong/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Lao động](/van-ban/chu-de/lao-dong/)  
+[← Danh sách đề mục của Lao động]({{ site.baseurl }}/chu-de/lao-dong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

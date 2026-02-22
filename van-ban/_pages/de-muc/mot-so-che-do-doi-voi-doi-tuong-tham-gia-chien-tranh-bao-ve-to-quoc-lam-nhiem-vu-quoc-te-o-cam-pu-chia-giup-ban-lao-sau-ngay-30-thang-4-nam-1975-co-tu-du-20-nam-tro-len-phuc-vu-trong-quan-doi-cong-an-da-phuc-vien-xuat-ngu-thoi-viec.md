@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-
 # Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc
 
 **Đề mục:** Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc  
-**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 **Số điều khoản:** 26  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -276,7 +276,7 @@ permalink: /van-ban/de-muc/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

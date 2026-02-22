@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/cong-an-nhan-dan/
 # Công an nhân dân
 
 **Đề mục:** Công an nhân dân  
-**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 431  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -4326,7 +4326,7 @@ permalink: /van-ban/de-muc/cong-an-nhan-dan/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

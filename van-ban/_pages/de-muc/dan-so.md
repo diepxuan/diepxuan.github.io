@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dan-so/
 # Dân số
 
 **Đề mục:** Dân số  
-**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
+**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới]({{ site.baseurl }}/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 **Số điều khoản:** 115  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1166,7 +1166,7 @@ permalink: /van-ban/de-muc/dan-so/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
+[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới]({{ site.baseurl }}/chu-de/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

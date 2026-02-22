@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/bo-tro-tu-phap/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Đấu giá tài sản](/van-ban/de-muc/dau-gia-tai-san/)**
-2. **[Giám định tư pháp](/van-ban/de-muc/giam-dinh-tu-phap/)**
-3. **[Luật sư](/van-ban/de-muc/luat-su/)**
-4. **[Trợ giúp pháp lý](/van-ban/de-muc/tro-giup-phap-ly/)**
-5. **[Tư vấn pháp luật](/van-ban/de-muc/tu-van-phap-luat/)**
+1. **[Đấu giá tài sản]({{ site.baseurl }}/de-muc/dau-gia-tai-san/)**
+2. **[Giám định tư pháp]({{ site.baseurl }}/de-muc/giam-dinh-tu-phap/)**
+3. **[Luật sư]({{ site.baseurl }}/de-muc/luat-su/)**
+4. **[Trợ giúp pháp lý]({{ site.baseurl }}/de-muc/tro-giup-phap-ly/)**
+5. **[Tư vấn pháp luật]({{ site.baseurl }}/de-muc/tu-van-phap-luat/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

@@ -9,6 +9,9 @@ permalink: pretty
 
 # Collections
 collections:
+  redirects:
+    output: true
+    permalink: /:path/
   pages:
     output: true
     permalink: /:path/

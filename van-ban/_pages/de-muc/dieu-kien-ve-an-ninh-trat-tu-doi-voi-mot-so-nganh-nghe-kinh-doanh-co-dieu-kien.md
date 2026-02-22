@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/dieu-kien-ve-an-ninh-trat-tu-doi-voi-mot-so-nganh-ngh
 # Điều kiện về an ninh, trật tự đối với một số ngành, nghề kinh doanh có điều kiện
 
 **Đề mục:** Điều kiện về an ninh, trật tự đối với một số ngành, nghề kinh doanh có điều kiện  
-**Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
+**Chủ đề:** [Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 73  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -746,7 +746,7 @@ permalink: /van-ban/de-muc/dieu-kien-ve-an-ninh-trat-tu-doi-voi-mot-so-nganh-ngh
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Trật tự, an toàn xã hội](/van-ban/chu-de/trat-tu-an-toan-xa-hoi/)  
+[← Danh sách đề mục của Trật tự, an toàn xã hội]({{ site.baseurl }}/chu-de/trat-tu-an-toan-xa-hoi/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/tai-san-cong-no-cong-du-tru-nha-nuoc/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Dự trữ quốc gia](/van-ban/de-muc/du-tru-quoc-gia/)**
-2. **[Quản lý nợ công](/van-ban/de-muc/quan-ly-no-cong/)**
-3. **[Quản lý, sử dụng tài sản công](/van-ban/de-muc/quan-ly-su-dung-tai-san-cong/)**
-4. **[Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam](/van-ban/de-muc/quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuoc-ho-tro-phat-trien-chinh-thuc-cua-cac-co-quan-to-chuc-ca-nhan-nuoc-ngoai-danh-cho-viet-nam/)**
-5. **[Trưng mua, trưng dụng tài sản](/van-ban/de-muc/trung-mua-trung-dung-tai-san/)**
+1. **[Dự trữ quốc gia]({{ site.baseurl }}/de-muc/du-tru-quoc-gia/)**
+2. **[Quản lý nợ công]({{ site.baseurl }}/de-muc/quan-ly-no-cong/)**
+3. **[Quản lý, sử dụng tài sản công]({{ site.baseurl }}/de-muc/quan-ly-su-dung-tai-san-cong/)**
+4. **[Quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quản, tổ chức, cá nhân nước ngoài dành cho Việt Nam]({{ site.baseurl }}/de-muc/quan-ly-va-su-dung-vien-tro-khong-hoan-lai-khong-thuoc-ho-tro-phat-trien-chinh-thuc-cua-cac-co-quan-to-chuc-ca-nhan-nuoc-ngoai-danh-cho-viet-nam/)**
+5. **[Trưng mua, trưng dụng tài sản]({{ site.baseurl }}/de-muc/trung-mua-trung-dung-tai-san/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

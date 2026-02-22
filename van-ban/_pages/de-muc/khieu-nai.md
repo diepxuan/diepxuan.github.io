@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/khieu-nai/
 # Khiếu nại
 
 **Đề mục:** Khiếu nại  
-**Chủ đề:** [Khiếu nại, tố cáo](/van-ban/chu-de/khieu-nai-to-cao/)  
+**Chủ đề:** [Khiếu nại, tố cáo]({{ site.baseurl }}/chu-de/khieu-nai-to-cao/)  
 **Số điều khoản:** 243  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -2446,7 +2446,7 @@ permalink: /van-ban/de-muc/khieu-nai/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Khiếu nại, tố cáo](/van-ban/chu-de/khieu-nai-to-cao/)  
+[← Danh sách đề mục của Khiếu nại, tố cáo]({{ site.baseurl }}/chu-de/khieu-nai-to-cao/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

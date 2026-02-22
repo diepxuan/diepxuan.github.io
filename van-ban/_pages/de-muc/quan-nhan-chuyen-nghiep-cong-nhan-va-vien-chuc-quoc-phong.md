@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-p
 # Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 
 **Đề mục:** Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng  
-**Chủ đề:** [Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+**Chủ đề:** [Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 **Số điều khoản:** 190  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1916,7 +1916,7 @@ permalink: /van-ban/de-muc/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-p
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/van-ban/chu-de/quoc-phong/)  
+[← Danh sách đề mục của Quốc phòng]({{ site.baseurl }}/chu-de/quoc-phong/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

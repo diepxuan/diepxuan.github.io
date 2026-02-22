@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ng
 # Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam
 
 **Đề mục:** Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam  
-**Chủ đề:** [An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+**Chủ đề:** [An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 **Số điều khoản:** 182  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1836,7 +1836,7 @@ permalink: /van-ban/de-muc/nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ng
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của An ninh quốc gia](/van-ban/chu-de/an-ninh-quoc-gia/)  
+[← Danh sách đề mục của An ninh quốc gia]({{ site.baseurl }}/chu-de/an-ninh-quoc-gia/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê

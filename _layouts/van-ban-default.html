@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Bộ Pháp điển Điện tử</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background: #1a237e;
+            color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            margin-bottom: 0.5rem;
+        }
+        .breadcrumb {
+            margin: 1rem 0;
+            padding: 1rem;
+            background: #f5f5f5;
+            border-radius: 8px;
+        }
+        .breadcrumb a {
+            color: #1a237e;
+            text-decoration: none;
+        }
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+        .content {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        footer {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #e0e0e0;
+            text-align: center;
+            color: #666;
+        }
+    </style>
+    <script>
+        // Fix URL sai: /van-ban/chu-de/de-muc/ → /van-ban/de-muc/
+        document.addEventListener('DOMContentLoaded', function() {
+            var currentPath = window.location.pathname;
+            
+            // Pattern: /van-ban/chu-de/de-muc/[slug]/
+            var wrongPattern = /^\/van-ban\/chu-de\/de-muc\/([^\/]+)\/$/;
+            var match = currentPath.match(wrongPattern);
+            
+            if (match) {
+                var slug = match[1];
+                var correctUrl = '/van-ban/de-muc/' + slug + '/';
+                
+                console.log('Fix URL sai:', currentPath, '→', correctUrl);
+                
+                // Redirect đến URL đúng
+                window.location.replace(correctUrl);
+                
+                // Hiển thị thông báo
+                document.body.innerHTML = '<div style="padding: 2rem; text-align: center;"><h2>Đang chuyển hướng...</h2><p>URL đúng: <a href="' + correctUrl + '">' + correctUrl + '</a></p><p>Nếu không tự động chuyển, vui lòng click link trên.</p></div>';
+            }
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <h1>📚 Bộ Pháp điển Điện tử</h1>
+        <p>Hệ thống pháp luật chính thức của Việt Nam - Bộ Tư pháp</p>
+    </header>
+    
+    <div class="breadcrumb">
+        <a href="/van-ban/">Trang chủ</a>
+        {% if page.url != '/' %}
+            <span>→</span>
+            <span>{{ page.title }}</span>
+        {% endif %}
+    </div>
+    
+    <div class="content">
+        {{ content }}
+    </div>
+    
+    <footer>
+        <p>Dữ liệu từ Bộ Pháp điển Điện tử chính thức - Chỉ sử dụng cho tham khảo, nghiên cứu</p>
+        <p>© 2026 - docs.diepxuan.com</p>
+    </footer>
+</body>
+</html>

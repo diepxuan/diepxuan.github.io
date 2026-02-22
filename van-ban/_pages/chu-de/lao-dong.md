@@ -12,15 +12,15 @@ permalink: /van-ban/chu-de/lao-dong/
 
 ## 📋 Danh sách Đề mục
 
-1. **[Giáo dục nghề nghiệp](/van-ban/de-muc/giao-duc-nghe-nghiep/)**
-2. **[Lao động](/van-ban/de-muc/lao-dong/)**
-3. **[Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng](/van-ban/de-muc/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong/)**
-4. **[Việc làm](/van-ban/de-muc/viec-lam/)**
-5. **[An toàn, vệ sinh lao động](/van-ban/de-muc/an-toan-ve-sinh-lao-dong/)**
+1. **[Giáo dục nghề nghiệp]({{ site.baseurl }}/de-muc/giao-duc-nghe-nghiep/)**
+2. **[Lao động]({{ site.baseurl }}/de-muc/lao-dong/)**
+3. **[Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng]({{ site.baseurl }}/de-muc/nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong/)**
+4. **[Việc làm]({{ site.baseurl }}/de-muc/viec-lam/)**
+5. **[An toàn, vệ sinh lao động]({{ site.baseurl }}/de-muc/an-toan-ve-sinh-lao-dong/)**
 
 
 ## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
+[← Danh sách tất cả Chủ đề]({{ site.baseurl }}/)
 
 ## 📊 Thống kê
 - **Tổng số đề mục:** 5

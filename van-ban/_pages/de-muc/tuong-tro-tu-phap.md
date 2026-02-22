@@ -7,7 +7,7 @@ permalink: /van-ban/de-muc/tuong-tro-tu-phap/
 # Tương trợ tư pháp
 
 **Đề mục:** Tương trợ tư pháp  
-**Chủ đề:** [Tương trợ tư pháp](/van-ban/chu-de/tuong-tro-tu-phap/)  
+**Chủ đề:** [Tương trợ tư pháp]({{ site.baseurl }}/chu-de/tuong-tro-tu-phap/)  
 **Số điều khoản:** 165  
 **Cập nhật:** {% raw %}{{ site.time | date: "%Y-%m-%d" }}{% endraw %}
 
@@ -1666,7 +1666,7 @@ permalink: /van-ban/de-muc/tuong-tro-tu-phap/
 
 
 ## 🔙 Quay lại
-[← Danh sách đề mục của Tương trợ tư pháp](/van-ban/chu-de/tuong-tro-tu-phap/)  
+[← Danh sách đề mục của Tương trợ tư pháp]({{ site.baseurl }}/chu-de/tuong-tro-tu-phap/)  
 [← Danh sách tất cả Chủ đề](../../)
 
 ## 📊 Thống kê
