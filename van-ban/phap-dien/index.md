@@ -16,8 +16,9 @@ Bộ Pháp điển Điện tử là hệ thống pháp luật chính thức củ
 
 ### Thống kê
 - **45 Chủ đề** pháp luật
-- **271 Đề mục** chuyên sâu  
+- **306 Đề mục** chuyên sâu  
 - **76,303 Điều khoản** (chương, điều, khoản, điểm)
+- **Database hoàn chỉnh**: `phapdien_complete.db` (36MB)
 - **Cập nhật** theo quy định pháp luật
 
 ## 🔍 Tra cứu
@@ -45,12 +46,14 @@ Sử dụng chức năng tìm kiếm của GitHub/GitLab để tìm kiếm nhanh
 ### Database Formats
 Dữ liệu được lưu trữ dưới nhiều định dạng:
 
-| Định dạng | Mục đích | Đường dẫn |
-|-----------|----------|-----------|
-| **SQLite** | Query nhanh, full-text search | `sqlite/phapdien.db` |
-| **Markdown** | Hiển thị web, documentation | `markdown/*.md` |
-| **JSON** | API, mobile apps | `database/json/*.json` |
-| **Search Index** | Tìm kiếm keywords | `database/search/keywords.json` |
+| Định dạng | Mục đích | Đường dẫn | Số records |
+|-----------|----------|-----------|------------|
+| **SQLite (Complete)** | Database hoàn chỉnh | `sqlite/phapdien_complete.db` | 76,303 |
+| **SQLite (Simple)** | Database cũ | `sqlite/phapdien_simple.db` | 18,649 |
+| **SQLite (Original)** | Database gốc | `sqlite/phapdien.db` | - |
+| **Markdown** | Hiển thị web | `markdown/*.md` | - |
+| **JSON** | API, mobile apps | `database/json/*.json` | - |
+| **Search Index** | Tìm kiếm keywords | `database/search/keywords.json` | - |
 
 ### Cấu trúc Phân cấp
 ```
@@ -64,16 +67,22 @@ Chủ đề (45)
 
 ## 🛠 Công cụ & Scripts
 
-### Build Script
-Toàn bộ dữ liệu được tự động build từ nguồn gốc:
+### Build Scripts
+Dữ liệu được tự động build từ nguồn gốc:
 
 ```bash
 cd scripts/
+# Database hoàn chỉnh (76,303 records)
+python3 rebuild_full_database.py
+
+# Database cũ (18,649 records)
 python3 build_database.py
 ```
 
 ### Các Script có sẵn
-- `build_database.py` - Build toàn bộ database
+- `rebuild_full_database.py` - Build database hoàn chỉnh (76,303 records)
+- `advanced_parser.py` - Parser nâng cao parse được toàn bộ entries
+- `build_database.py` - Build database cũ (18,649 records)
 - `phapdien_crawler.py` - Crawler gốc
 - `extract_phapdien.py` - Trích xuất dữ liệu
 - `analyze_structure.py` - Phân tích cấu trúc
@@ -129,13 +138,19 @@ python3 build_database.py
 
 ### 1. Query SQLite
 ```sql
--- Tìm các điều khoản về "đất đai"
+-- Kết nối database hoàn chỉnh
+sqlite3 sqlite/phapdien_complete.db
+
+-- Tìm entry cụ thể (entry sếp tìm)
 SELECT * FROM dieukhoan 
-WHERE ten LIKE '%đất đai%' 
-LIMIT 10;
+WHERE id = 'AA4C41EB-CC02-4629-8077-3691D02E64F2';
+
+-- Tìm các điều khoản về "thông báo hàng hải"
+SELECT * FROM dieukhoan 
+WHERE ten LIKE '%thông báo hàng hải%';
 
 -- Đếm số điều khoản theo chủ đề
-SELECT c.ten, COUNT(d.id) as so_dieu_khoan
+SELECT c.text, COUNT(d.id) as so_dieu_khoan
 FROM chude c
 LEFT JOIN dieukhoan d ON c.id = d.chude_id
 GROUP BY c.id
