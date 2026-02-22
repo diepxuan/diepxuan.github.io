@@ -167,7 +167,7 @@ slug: {topic['slug']}
     
     footer = '''---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}'''
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}'''
     
     content += f"""
 
@@ -237,7 +237,7 @@ parent: {topic['slug']}
     
     footer = '''---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{% raw %}}{{{{ site.time | date: "%Y-%m-%d %H:%M" }}}}{{% endraw %}*}'''
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}'''
     
     content += f"""
 
@@ -364,7 +364,7 @@ Chủ đề (45)
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}*
 """
     
     return content
@@ -431,7 +431,7 @@ Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ th
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {% raw %}{{ site.time | date: "%Y-%m-%d %H:%M" }}{% endraw %}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}*
 """
     
     return content
