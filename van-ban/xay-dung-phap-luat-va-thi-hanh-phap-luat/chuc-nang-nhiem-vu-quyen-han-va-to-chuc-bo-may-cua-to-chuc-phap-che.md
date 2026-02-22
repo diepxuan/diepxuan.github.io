@@ -12,7 +12,7 @@ parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 **Đề mục:** Chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế  
 **Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
 **Số điều khoản:** 83  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

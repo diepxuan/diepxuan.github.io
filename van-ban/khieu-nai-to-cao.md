@@ -11,7 +11,7 @@ slug: khieu-nai-to-cao
 **Chủ đề:** Khiếu nại, tố cáo  
 **Số đề mục:** 4  
 **Số điều khoản:** 1,091  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

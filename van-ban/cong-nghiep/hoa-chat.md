@@ -12,7 +12,7 @@ parent: cong-nghiep
 **Đề mục:** Hóa chất  
 **Chủ đề:** [Công nghiệp](/van-ban/cong-nghiep/)  
 **Số điều khoản:** 252  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

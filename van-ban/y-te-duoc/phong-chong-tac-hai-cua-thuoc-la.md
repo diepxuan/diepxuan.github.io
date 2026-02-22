@@ -12,7 +12,7 @@ parent: y-te-duoc
 **Đề mục:** Phòng, chống tác hại của thuốc lá  
 **Chủ đề:** [Y tế, dược](/van-ban/y-te-duoc/)  
 **Số điều khoản:** 261  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

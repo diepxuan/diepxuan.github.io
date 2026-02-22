@@ -12,7 +12,7 @@ parent: quoc-phong
 **Đề mục:** Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ  
 **Chủ đề:** [Quốc phòng](/van-ban/quoc-phong/)  
 **Số điều khoản:** 51  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

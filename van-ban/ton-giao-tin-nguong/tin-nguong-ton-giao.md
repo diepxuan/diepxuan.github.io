@@ -12,7 +12,7 @@ parent: ton-giao-tin-nguong
 **Đề mục:** Tín ngưỡng, tôn giáo  
 **Chủ đề:** [Tôn giáo, tín ngưỡng](/van-ban/ton-giao-tin-nguong/)  
 **Số điều khoản:** 124  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

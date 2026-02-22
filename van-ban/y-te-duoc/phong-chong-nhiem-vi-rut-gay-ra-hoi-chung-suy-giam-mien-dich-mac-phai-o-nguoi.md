@@ -12,7 +12,7 @@ parent: y-te-duoc
 **Đề mục:** Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người  
 **Chủ đề:** [Y tế, dược](/van-ban/y-te-duoc/)  
 **Số điều khoản:** 538  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

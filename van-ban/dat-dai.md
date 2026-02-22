@@ -11,7 +11,7 @@ slug: dat-dai
 **Chủ đề:** Đất đai  
 **Số đề mục:** 0  
 **Số điều khoản:** 0  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

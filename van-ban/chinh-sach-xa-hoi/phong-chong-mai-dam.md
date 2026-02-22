@@ -12,7 +12,7 @@ parent: chinh-sach-xa-hoi
 **Đề mục:** Phòng, chống mại dâm  
 **Chủ đề:** [Chính sách xã hội](/van-ban/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 104  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

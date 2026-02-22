@@ -12,7 +12,7 @@ parent: hanh-chinh-tu-phap
 **Đề mục:** Nuôi con nuôi  
 **Chủ đề:** [Hành chính tư pháp](/van-ban/hanh-chinh-tu-phap/)  
 **Số điều khoản:** 76  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

@@ -11,7 +11,7 @@ slug: thong-tin-bao-chi-xuat-ban
 **Chủ đề:** Thông tin, báo chí, xuất bản  
 **Số đề mục:** 3  
 **Số điều khoản:** 597  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

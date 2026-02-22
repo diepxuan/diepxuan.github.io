@@ -11,7 +11,7 @@ slug: tai-san-cong-no-cong-du-tru-nha-nuoc
 **Chủ đề:** Tài sản công, nợ công, dự trữ nhà nước  
 **Số đề mục:** 5  
 **Số điều khoản:** 2,194  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

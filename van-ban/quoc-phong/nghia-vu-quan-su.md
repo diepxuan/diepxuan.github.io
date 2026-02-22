@@ -12,7 +12,7 @@ parent: quoc-phong
 **Đề mục:** Nghĩa vụ quân sự  
 **Chủ đề:** [Quốc phòng](/van-ban/quoc-phong/)  
 **Số điều khoản:** 198  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: thi-hanh-an
 **Đề mục:** Tổ chức và hoạt động của Thừa phát lại  
 **Chủ đề:** [Thi hành án](/van-ban/thi-hanh-an/)  
 **Số điều khoản:** 133  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

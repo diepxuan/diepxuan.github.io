@@ -12,7 +12,7 @@ parent: khoa-hoc-cong-nghe
 **Đề mục:** Tiêu chuẩn và quy chuẩn kỹ thuật  
 **Chủ đề:** [Khoa học, công nghệ](/van-ban/khoa-hoc-cong-nghe/)  
 **Số điều khoản:** 421  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

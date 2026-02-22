@@ -11,7 +11,7 @@ slug: nong-nghiep-nong-thon
 **Chủ đề:** Nông nghiệp, nông thôn  
 **Số đề mục:** 11  
 **Số điều khoản:** 3,943  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

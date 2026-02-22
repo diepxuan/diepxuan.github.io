@@ -12,7 +12,7 @@ parent: nong-nghiep-nong-thon
 **Đề mục:** Thú y  
 **Chủ đề:** [Nông nghiệp, nông thôn](/van-ban/nong-nghiep-nong-thon/)  
 **Số điều khoản:** 526  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

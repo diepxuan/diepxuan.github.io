@@ -11,7 +11,7 @@ slug: tai-nguyen
 **Chủ đề:** Tài nguyên  
 **Số đề mục:** 4  
 **Số điều khoản:** 2,302  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

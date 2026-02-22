@@ -12,7 +12,7 @@ parent: chinh-sach-xa-hoi
 **Đề mục:** Chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội  
 **Chủ đề:** [Chính sách xã hội](/van-ban/chinh-sach-xa-hoi/)  
 **Số điều khoản:** 59  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

@@ -12,7 +12,7 @@ parent: ngan-hang-tien-te
 **Đề mục:** Bảo hiểm tiền gửi  
 **Chủ đề:** [Ngân hàng, tiền tệ](/van-ban/ngan-hang-tien-te/)  
 **Số điều khoản:** 142  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

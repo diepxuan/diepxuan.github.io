@@ -11,7 +11,7 @@ slug: thue-phi-le-phi-cac-khoan-thu-khac
 **Chủ đề:** Thuế, phí, lệ phí, các khoản thu khác  
 **Số đề mục:** 11  
 **Số điều khoản:** 2,854  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

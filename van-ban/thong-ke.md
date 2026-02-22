@@ -11,7 +11,7 @@ slug: thong-ke
 **Chủ đề:** Thống kê  
 **Số đề mục:** 1  
 **Số điều khoản:** 661  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

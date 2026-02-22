@@ -12,7 +12,7 @@ parent: to-chuc-bo-may-nha-nuoc
 **Đề mục:** Mặt trận Tổ quốc Việt Nam  
 **Chủ đề:** [Tổ chức bộ máy nhà nước](/van-ban/to-chuc-bo-may-nha-nuoc/)  
 **Số điều khoản:** 181  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

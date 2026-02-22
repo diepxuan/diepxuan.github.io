@@ -12,7 +12,7 @@ parent: thong-tin-bao-chi-xuat-ban
 **Đề mục:** Xuất bản  
 **Chủ đề:** [Thông tin, báo chí, xuất bản](/van-ban/thong-tin-bao-chi-xuat-ban/)  
 **Số điều khoản:** 165  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

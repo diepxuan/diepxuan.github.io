@@ -12,7 +12,7 @@ parent: moi-truong
 **Đề mục:** Đa dạng sinh học  
 **Chủ đề:** [Môi trường](/van-ban/moi-truong/)  
 **Số điều khoản:** 376  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

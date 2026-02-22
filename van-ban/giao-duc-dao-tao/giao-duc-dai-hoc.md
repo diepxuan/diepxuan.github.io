@@ -12,7 +12,7 @@ parent: giao-duc-dao-tao
 **Đề mục:** Giáo dục đại học  
 **Chủ đề:** [Giáo dục, đào tạo](/van-ban/giao-duc-dao-tao/)  
 **Số điều khoản:** 585  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

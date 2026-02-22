@@ -12,7 +12,7 @@ parent: tuong-tro-tu-phap
 **Đề mục:** Tương trợ tư pháp  
 **Chủ đề:** [Tương trợ tư pháp](/van-ban/tuong-tro-tu-phap/)  
 **Số điều khoản:** 165  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

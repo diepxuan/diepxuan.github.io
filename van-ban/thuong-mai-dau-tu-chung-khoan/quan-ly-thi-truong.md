@@ -12,7 +12,7 @@ parent: thuong-mai-dau-tu-chung-khoan
 **Đề mục:** Quản lý thị trường  
 **Chủ đề:** [Thương mại, đầu tư, chứng khoán](/van-ban/thuong-mai-dau-tu-chung-khoan/)  
 **Số điều khoản:** 222  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

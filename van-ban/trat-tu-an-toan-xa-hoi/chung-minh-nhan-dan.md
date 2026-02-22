@@ -12,7 +12,7 @@ parent: trat-tu-an-toan-xa-hoi
 **Đề mục:** Chứng minh nhân dân  
 **Chủ đề:** [Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)  
 **Số điều khoản:** 32  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

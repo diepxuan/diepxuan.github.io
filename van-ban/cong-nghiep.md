@@ -11,7 +11,7 @@ slug: cong-nghiep
 **Chủ đề:** Công nghiệp  
 **Số đề mục:** 4  
 **Số điều khoản:** 945  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📋 Danh sách Đề mục
 

@@ -12,7 +12,7 @@ parent: thue-phi-le-phi-cac-khoan-thu-khac
 **Đề mục:** Phí và lệ phí  
 **Chủ đề:** [Thuế, phí, lệ phí, các khoản thu khác](/van-ban/thue-phi-le-phi-cac-khoan-thu-khac/)  
 **Số điều khoản:** 1134  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 

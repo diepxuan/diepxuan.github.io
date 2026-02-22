@@ -12,7 +12,7 @@ parent: thi-hanh-an
 **Đề mục:** Thi hành án hình sự  
 **Chủ đề:** [Thi hành án](/van-ban/thi-hanh-an/)  
 **Số điều khoản:** 873  
-**Cập nhật:** { site.time | date: "%Y-%m-%d" }
+**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
 ## 📜 Nội dung Điều khoản
 
