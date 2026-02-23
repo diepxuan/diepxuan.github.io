@@ -1,1700 +1,2403 @@
 ---
-layout: default
+layout: page
 title: Tổ chức cơ quan điều tra hình sự
 permalink: /van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/to-chuc-co-quan-dieu-tra-hinh-su/
-collection: subtopics
-slug: to-chuc-co-quan-dieu-tra-hinh-su
-parent: to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap
 ---
 
 # Tổ chức cơ quan điều tra hình sự
 
-**Đề mục:** Tổ chức cơ quan điều tra hình sự  
-**Chủ đề:** [Tố tụng và các phương thức giải quyết tranh chấp](/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
-**Số điều khoản:** 142  
-**Điều khoản có nội dung:** 87/128 (68.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 37.11.LQ.1. Phạm vi điều chỉnh
+Điều 37.11.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết số 41/2017/QH14 có hiệu lực thi hành kể từ ngày 05/07/2017)
 
-**Chỉ mục:** 1
+Luật này quy định về nguyên tắc tổ chức điều tra hình sự; tổ chức bộ máy, nhiệm vụ, quyền hạn của Cơ quan điều tra; nhiệm vụ, quyền hạn của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều tra viên và các chức danh khác trong điều tra hình sự; quan hệ phân công, phối hợp và kiểm soát trong hoạt động điều tra hình sự; bảo đảm điều kiện cho hoạt động điều tra hình sự và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
 
-**Mã phân cấp:** 3701100000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Điều 1.6.LQ.16. Nhiệm vụ và quyền hạn của Công an nhân dân)
 
-**ID:** dk_00063715
+Điều 37.11.LQ.2. Đối tượng áp dụng
 
----
+(Điều 2 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+1. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.
 
-### Điều 37.11.LQ.2. Đối tượng áp dụng
+2. Thủ trưởng, Phó Thủ trưởng, Điều tra viên, Cán bộ điều tra của Cơ quan điều tra; Thủ trưởng, Phó Thủ trưởng và cán bộ điều tra của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.
 
-*Nội dung chưa có sẵn*
+3. Cơ quan, tổ chức, cá nhân có liên quan.
 
-**Chỉ mục:** 2
+Điều 37.11.NĐ.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3701100000000000100000200000000000000000
+(Điều 1 Nghị định số 114/2017/NĐ-CP Quy định về đồn Biên phòng thuộc vùng sâu, vùng xa ngày 09/10/2017 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**ID:** dk_00063716
+Nghị định này quy định nguyên tắc, tiêu chí xác định Đồn biên phòng thuộc vùng sâu, vùng xa.
 
----
+Điều 37.11.NĐ.1.2. Đối tượng áp dụng
 
+(Điều 2 Nghị định số 114/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 37.11.NĐ.1.1. Phạm vi điều chỉnh
+1. Bộ đội Biên phòng các cấp.
 
-*Nội dung chưa có sẵn*
+2. Các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động điều tra các vụ án hình sự thuộc quyền hạn của Đồn trưởng Đồn biên phòng thuộc vùng sâu, vùng xa.
 
-**Chỉ mục:** 1
+Điều 37.11.NĐ.2.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3701100000000000100000240263350114000010
+(Điều 1 Nghị định số 128/2017/NĐ-CP Quy định chế độ báo cáo về điều tra hình sự ngày 16/11/2017 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**ID:** dk_00063717
+Nghị định này quy định về nguyên tắc thực hiện chế độ báo cáo, nội dung, hình thức báo cáo; trách nhiệm của các cơ quan, tổ chức, cá nhân trong thực hiện chế độ báo cáo về điều tra hình sự.
 
----
+Điều 37.11.NĐ.2.2. Đối tượng áp dụng
 
+(Điều 2 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 37.11.NĐ.1.2. Đối tượng áp dụng
+1. Viện kiểm sát nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra theo quy định tại Luật tổ chức cơ quan điều tra hình sự.
 
-*Nội dung chưa có sẵn*
+2. Cơ quan, tổ chức, cá nhân có liên quan đến thực hiện chế độ báo cáo về điều tra hình sự.
 
-**Chỉ mục:** 2
+Điều 37.11.TT.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3701100000000000100000240263350114000020
+(Điều 1 Thông tư số 299/2017/TT-BQP Quyđịnh việc bổ nhiệm, miễn nhiệm, cách chức; cấp, thu hồi Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và cán bộ điều tra trong Quân đội nhân dân ngày 08/12/2017 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 30/01/2018 )
 
-**ID:** dk_00063718
+Thông tư này quy định việc bổ nhiệm, miễn nhiệm, cách chức; cấp, thu hồi Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra trong Quân đội nhân dân.
 
----
+Điều 37.11.TT.1.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-### Điều 37.11.NĐ.2.1. Phạm vi điều chỉnh
+1. Cơ quan Điều tra các cấp trong Quân đội nhân dân.
 
-*Nội dung chưa có sẵn*
+2. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên, Cán bộ điều tra trong Quân đội nhân dân.
 
-**Chỉ mục:** 1
+3. Cơ quan, tổ chức, cá nhân có liên quan.
 
-**Mã phân cấp:** 3701100000000000100000240263730128000010
+Điều 37.11.TT.1.3. Giải thích từ ngữ
 
-**ID:** dk_00063719
+(Điều 3 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
----
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
+1. Thời gian làm công tác pháp luật là thời gian được tính từ thời điểm người có trình độ đại học An ninh, đại học Cảnh sát hoặc đại học Luật trở lên được điều động về công tác tại các ngành Điều tra, Bảo vệ an ninh, Thanh tra, Thi hành án, Tòa án, Kiểm sát, Pháp chế.
 
-### Điều 37.11.NĐ.2.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3701100000000000100000240263730128000020
-
-**ID:** dk_00063720
-
----
-
-
-### Điều 37.11.TT.1.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3701100000000000100000280263950299000010
-
-**ID:** dk_00063721
-
----
-
-
-### Điều 37.11.TT.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3701100000000000100000280263950299000020
-
-**ID:** dk_00063722
-
----
-
-
-### Điều 37.11.TT.1.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3701100000000000100000280263950299000030
-
-**ID:** dk_00063723
-
----
-
-
-### Điều 37.11.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
+2. Đào tạo, bồi dưỡng về nghiệp vụ điều tra là được đào tạo về các chuyên ngành điều tra hoặc bồi dưỡng về nghiệp vụ điều tra do các cơ quan có thẩm quyền tổ chức.
 
 Điều 37.11.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 119/2021/TT-BCA Quy định biểu mẫu, giấy tờ, sổ sách về điều tra hình sự ngày 08/12/2021 của Bộ Công an, có hiệu lực thi hành kể từ ngày 22/01/2022 )
 
-**Mã phân cấp:** 3701100000000000100000280278560119000010
+1. Thông tư này quy định về biểu mẫu, giấy tờ, sổ sách sử dụng trong hoạt động điều tra hình sự của Cơ quan điều tra, Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; hoạt động kiểm tra, xác minh sơ bộ tố giác, tin báo về tội phạm của Công an xã, phường, thị trấn, Đồn Công an theo quy định của Bộ luật Tố tụng hình sự, Luật Tổ chức cơ quan điều tra hình sự.
 
-**ID:** dk_00063724
-
----
-
-
-### Điều 37.11.LQ.3. Nguyên tắc tổ chức điều tra hình sự
+2. Thông tư này áp dụng đối với cơ quan, người có thẩm quyền tiến hành tố tụng, Công an xã, phường, thị trấn, Đồn Công an và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động điều tra hình sự; hoạt động kiểm tra, xác minh sơ bộ tố giác, tin báo về tội phạm theo quy định của Bộ luật Tố tụng hình sự, Luật Tổ chức cơ quan điều tra hình sự.
 
 Điều 37.11.LQ.3. Nguyên tắc tổ chức điều tra hình sự
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100000300000000000000000
+1. Tuân thủ Hiến pháp và pháp luật.
 
-**ID:** dk_00063725
+2. Bảo đảm sự chỉ đạo, chỉ huy tập trung thống nhất, hiệu lực, hiệu quả; phân công, phân cấp rành mạch, chuyên sâu, tránh chồng chéo và được kiểm soát chặt chẽ; điều tra kịp thời, nhanh chóng, chính xác, khách quan, toàn diện, đầy đủ, không để lọt tội phạm và không làm oan người vô tội.
 
----
+3. Cơ quan điều tra cấp dưới chịu sự hướng dẫn, chỉ đạo nghiệp vụ của Cơ quan điều tra cấp trên; cá nhân chịu trách nhiệm trước cấp trên và trước pháp luật về hành vi, quyết định của mình.
 
-
-### Điều 37.11.TT.2.3. Nguyên tắc sử dụng và quản lý biểu mẫu trong hoạt động điều tra hình sự
+4. Chỉ cơ quan, người có thẩm quyền quy định trong Luật này mới được tiến hành hoạt động điều tra hình sự.
 
 Điều 37.11.TT.2.3. Nguyên tắc sử dụng và quản lý biểu mẫu trong hoạt động điều tra hình sự
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 119/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2022)
 
-**Mã phân cấp:** 370110000000000010000030000000000000000000802785601190000300
+1. Chỉ sử dụng các biểu mẫu trong hoạt động điều tra hình sự và hoạt động kiểm tra, xác minh sơ bộ tố giác, tin báo về tội phạm. Các biểu mẫu phải được sử dụng và quản lý đúng mục đích cho hoạt động điều tra hình sự và hoạt động kiểm tra, xác minh sơ bộ tố giác, tin báo về tội phạm.
 
-**ID:** dk_00063726
+2. Việc ghi thông tin trong từng biểu mẫu phải bảo đảm khách quan, chính xác, đầy đủ theo đúng quy định của pháp luật.
 
----
+Điều 37.11.LQ.4. Hệ thống Cơ quan điều tra
 
+(Điều 4 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 37.11.LQ.4. Hệ thống Cơ quan điều tra
+1. Cơ quan điều tra của Công an nhân dân.
 
-*Nội dung chưa có sẵn*
+2. Cơ quan điều tra trong Quân đội nhân dân.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3701100000000000100000400000000000000000
-
-**ID:** dk_00063727
-
----
-
-
-### Điều 37.11.LQ.5. Cơ quan điều tra của Công an nhân dân
+3. Cơ quan điều tra của Viện kiểm sát nhân dân tối cao.
 
 Điều 37.11.LQ.5. Cơ quan điều tra của Công an nhân dân
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100000500000000000000000
+1. Cơ quan An ninh điều tra Bộ Công an; Cơ quan An ninh điều tra Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Cơ quan An ninh điều tra Công an cấp tỉnh).
 
-**ID:** dk_00063728
-
----
-
-
-### Điều 37.11.LQ.6. Cơ quan điều tra trong Quân đội nhân dân
+2. Cơ quan Cảnh sát điều tra Bộ Công an; Cơ quan Cảnh sát điều tra Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Cơ quan Cảnh sát điều tra Công an cấp tỉnh); Cơ quan Cảnh sát điều tra Công an huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Cơ quan Cảnh sát điều tra Công an cấp huyện).
 
 Điều 37.11.LQ.6. Cơ quan điều tra trong Quân đội nhân dân
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100000600000000000000000
+1. Cơ quan An ninh điều tra Bộ Quốc phòng; Cơ quan An ninh điều tra quân khu và tương đương.
 
-**ID:** dk_00063729
-
----
-
-
-### Điều 37.11.LQ.7. Cơ quan điều tra của Viện kiểm sát nhân dân tối cao
+2. Cơ quan điều tra hình sự Bộ Quốc phòng; Cơ quan điều tra hình sự quân khu và tương đương; Cơ quan điều tra hình sự khu vực.
 
 Điều 37.11.LQ.7. Cơ quan điều tra của Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100000700000000000000000
+1. Cơ quan điều tra Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00063730
-
----
-
-
-### Điều 37.11.LQ.8. Nhiệm vụ, quyền hạn của Cơ quan điều tra
+2. Cơ quan điều tra Viện kiểm sát quân sự trung ương.
 
 Điều 37.11.LQ.8. Nhiệm vụ, quyền hạn của Cơ quan điều tra
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100000800000000000000000
+1. Tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.
 
-**ID:** dk_00063731
+2. Tiếp nhận hồ sơ vụ án do cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra chuyển giao.
 
----
+3. Tiến hành điều tra các tội phạm, áp dụng mọi biện pháp do luật định để phát hiện, xác định tội phạm và người thực hiện hành vi phạm tội; lập hồ sơ, đề nghị truy tố.
 
+4. Tìm ra nguyên nhân, điều kiện phạm tội và yêu cầu các cơ quan, tổ chức hữu quan áp dụng các biện pháp khắc phục và ngăn ngừa.
 
-### Điều 37.11.LQ.9. Các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
+(Điều này có nội dung liên quan đến Điều 37.7.TL.3.5. Trách nhiệm tiếp nhận, thẩm quyền giải quyết tố giác, tin báo về tội phạm; Điều 37.7.TL.3.6. Trách nhiệm tiếp nhận, thẩm quyền giải quyết kiến nghị khởi tố; Điều 37.7.TL.3.7. Tổ chức tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.8. Phân loại tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.9. Giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.10. Thực hành quyền công tố, kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.11. Thời hạn giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.12. Giải quyết các trường hợp liên quan đến thẩm quyền của nhiều đơn vị có thẩm quyền giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.13. Trách nhiệm của Cơ quan điều tra, Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong việc thực hiện yêu cầu, quyết định của Viện kiểm sát về tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.14. Thông báo kết quả tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.15. Giải quyết yêu cầu, đề nghị của người tố giác, báo tin về tội phạm, người bị tố giác, người bị kiến nghị khởi tố và người bị hại; Điều 37.7.TL.3.16. Chuyển hồ sơ vụ vi phạm để xử phạt vi phạm hành chính)
 
 Điều 37.11.LQ.9. Các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100000900000000000000000
+1. Các cơ quan của Bộ đội biên phòng được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Cục trinh sát biên phòng; Cục phòng, chống ma túy và tội phạm; Đoàn đặc nhiệm phòng, chống ma túy và tội phạm; Bộ chỉ huy Bộ đội biên phòng cấp tỉnh; Ban chỉ huy Biên phòng Cửa khẩu cảng; Đồn biên phòng.
 
-**ID:** dk_00063732
+2. Các cơ quan của Hải quan được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Cục Điều tra chống buôn lậu; Cục Kiểm tra sau thông quan; Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương; Chi cục Hải quan cửa khẩu.
 
----
+3. Các cơ quan của Kiểm lâm được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Cục Kiểm lâm; Chi cục Kiểm lâm vùng; Chi cục Kiểm lâm cấp tỉnh; Hạt Kiểm lâm.
 
+4. Các cơ quan của lực lượng Cảnh sát biển được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Bộ Tư lệnh Cảnh sát biển; Bộ Tư lệnh vùng Cảnh sát biển; Cục Nghiệp vụ và pháp luật; Đoàn đặc nhiệm phòng, chống tội phạm ma túy; Hải đoàn; Hải đội; Đội nghiệp vụ.
 
-### Điều 37.11.LQ.10. Nhiệm vụ, quyền hạn của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
+5. Các cơ quan của Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Cục Kiểm ngư, Chi cục Kiểm ngư vùng.
+
+6. Các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Cục Quản lý xuất nhập cảnh; các cục nghiệp vụ an ninh ở Bộ Công an; Phòng Quản lý xuất nhập cảnh; các phòng nghiệp vụ an ninh thuộc Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Công an cấp tỉnh) và Đội An ninh ở Công an huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Công an cấp huyện); Cục Cảnh sát giao thông; Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Cục Cảnh sát phòng, chống tội phạm về môi trường; Cục Cảnh sát phòng, chống tội phạm sử dụng công nghệ cao; Phòng Cảnh sát giao thông; Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Phòng Cảnh sát phòng, chống tội phạm về môi trường; Phòng Cảnh sát phòng, chống tội phạm sử dụng công nghệ cao; Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc trung ương; Trại giam.
+
+7. Các cơ quan khác trong Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Trại giam, đơn vị độc lập cấp trung đoàn và tương đương.
+
+(Điều này có nội dung liên quan đến Điều 25.2.LQ.14. Nhiệm vụ của Bộ đội Biên phòng)
 
 Điều 37.11.LQ.10. Nhiệm vụ, quyền hạn của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100001000000000000000000
+Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà tiếp nhận tố giác, tin báo về tội phạm hoặc phát hiện hành vi phạm tội đến mức phải truy cứu trách nhiệm hình sự thì tiến hành các hoạt động kiểm tra, xác minh và điều tra theo quy định của Bộ luật tố tụng hình sự và Luật này.
 
-**ID:** dk_00063733
-
----
-
-
-### Điều 37.11.LQ.11. Kiểm sát việc tuân theo pháp luật trong hoạt động điều tra
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.35. Cơ quan và người được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.TL.3.5. Trách nhiệm tiếp nhận, thẩm quyền giải quyết tố giác, tin báo về tội phạm; Điều 37.7.TL.3.6. Trách nhiệm tiếp nhận, thẩm quyền giải quyết kiến nghị khởi tố; Điều 37.7.TL.3.7. Tổ chức tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.8. Phân loại tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.9. Giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.10. Thực hành quyền công tố, kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.11. Thời hạn giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.12. Giải quyết các trường hợp liên quan đến thẩm quyền của nhiều đơn vị có thẩm quyền giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.13. Trách nhiệm của Cơ quan điều tra, Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong việc thực hiện yêu cầu, quyết định của Viện kiểm sát về tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.14. Thông báo kết quả tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.15. Giải quyết yêu cầu, đề nghị của người tố giác, báo tin về tội phạm, người bị tố giác, người bị kiến nghị khởi tố và người bị hại; Điều 37.7.TL.3.16. Chuyển hồ sơ vụ vi phạm để xử phạt vi phạm hành chính)
 
 Điều 37.11.LQ.11. Kiểm sát việc tuân theo pháp luật trong hoạt động điều tra
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100001100000000000000000
+1. Viện kiểm sát kiểm sát việc tuân theo pháp luật trong hoạt động điều tra nhằm bảo đảm cho hoạt động điều tra của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra tuân thủ các quy định của Bộ luật tố tụng hình sự và Luật này; phải phát hiện kịp thời và yêu cầu, kiến nghị Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khắc phục vi phạm pháp luật trong hoạt động điều tra.
 
-**ID:** dk_00063734
+2. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện yêu cầu, quyết định của Viện kiểm sát theo quy định của Bộ luật tố tụng hình sự; xem xét, giải quyết, trả lời kiến nghị của Viện kiểm sát theo quy định của pháp luật.
 
----
-
-
-### Điều 37.11.LQ.12. Trách nhiệm của cơ quan, tổ chức và cá nhân trong hoạt động điều tra hình sự
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.20. Trách nhiệm thực hành quyền công tố và kiểm sát việc tuân theo pháp luật trong tố tụng hình sự)
 
 Điều 37.11.LQ.12. Trách nhiệm của cơ quan, tổ chức và cá nhân trong hoạt động điều tra hình sự
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100001200000000000000000
+1. Cơ quan, tổ chức, cá nhân có quyền và nghĩa vụ phát hiện, tố giác, báo tin về tội phạm, vụ việc phạm tội, kiến nghị khởi tố; có trách nhiệm thực hiện yêu cầu, quyết định và tạo điều kiện để Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, người có thẩm quyền điều tra hình sự thực hiện nhiệm vụ, quyền hạn trong hoạt động điều tra hình sự.
 
-**ID:** dk_00063735
+2. Cơ quan nhà nước có trách nhiệm thông báo ngay cho Cơ quan điều tra mọi hành vi phạm tội xảy ra trong cơ quan và trong lĩnh vực quản lý của mình; có quyền kiến nghị và gửi tài liệu có liên quan cho Cơ quan điều tra để xem xét khởi tố đối với người có hành vi phạm tội; thực hiện yêu cầu và tạo điều kiện để Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, người có thẩm quyền điều tra hình sự thực hiện nhiệm vụ điều tra.
 
----
-
-
-### Điều 37.11.LQ.13. Giám sát của cơ quan, tổ chức, đại biểu dân cử đối với hoạt động điều tra hình sự
+3. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm tiếp nhận, xem xét, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; thông báo kết quả giải quyết cho cơ quan, tổ chức, cá nhân đã kiến nghị, tố giác, báo tin về tội phạm và phải áp dụng các biện pháp cần thiết để bảo vệ người đã tố giác tội phạm.
 
 Điều 37.11.LQ.13. Giám sát của cơ quan, tổ chức, đại biểu dân cử đối với hoạt động điều tra hình sự
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000100001300000000000000000
+Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Uỷ ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động điều tra của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, người có thẩm quyền điều tra hình sự theo quy định của pháp luật.
 
-**ID:** dk_00063736
+Trong phạm vi trách nhiệm của mình, Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra phải xem xét, giải quyết và thông báo kết quả giải quyết cho cơ quan, tổ chức, cá nhân đã yêu cầu, kiến nghị theo quy định của pháp luật.
 
----
+(Điều này có nội dung liên quan đến Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân)
 
+Điều 37.11.LQ.14. Những hành vi bị nghiêm cấm
 
-### Điều 37.11.LQ.14. Những hành vi bị nghiêm cấm
+(Điều 14 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-*Nội dung chưa có sẵn*
+1. Làm sai lệch hồ sơ vụ án; truy cứu trách nhiệm hình sự người không có hành vi phạm tội; không truy cứu trách nhiệm hình sự người có hành vi phạm tội đến mức phải truy cứu trách nhiệm hình sự; ra quyết định trái pháp luật; ép buộc người khác làm trái pháp luật; làm lộ bí mật điều tra vụ án; can thiệp trái pháp luật vào việc điều tra vụ án hình sự.
 
-**Chỉ mục:** 14
+2. Bức cung, dùng nhục hình và các hình thức tra tấn hoặc đối xử, trừng phạt tàn bạo, vô nhân đạo, hạ nhục con người hay bất kỳ hình thức nào khác xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**Mã phân cấp:** 3701100000000000100001400000000000000000
+3. Cản trở người bị bắt, người bị tạm giữ, bị can thực hiện quyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa, trợ giúp pháp lý; quyền khiếu nại, tố cáo; quyền được bồi thường thiệt hại về vật chất, tinh thần và phục hồi danh dự.
 
-**ID:** dk_00063737
+4. Cản trở người bào chữa, người thực hiện trợ giúp pháp lý thực hiện việc bào chữa, trợ giúp pháp lý theo quy định của pháp luật.
 
----
+5. Chống đối, cản trở hoặc tổ chức, lôi kéo, xúi giục, kích động, cưỡng bức người khác chống đối, cản trở hoạt động điều tra hình sự; xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người thi hành công vụ trong điều tra hình sự.
 
+Chương II
 
-### Điều 37.11.LQ.15. Tổ chức bộ máy của Cơ quan An ninh điều tra
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA CỦA CÔNG AN NHÂN DÂN
+
+(Chương này có nội dung liên quan đến Chương X NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ; Điều 37.7.LQ.36. Nhiệm vụ, quyền hạn và trách nhiệm của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; Điều 37.7.LQ.37. Nhiệm vụ, quyền hạn và trách nhiệm của Điều tra viên; Điều 37.7.LQ.38. Nhiệm vụ, quyền hạn và trách nhiệm của Cán bộ điều tra của Cơ quan điều tra của Bộ luật 101/2015/QH13 Tố tụng hình sự ban hành ngày 27/11/2015)
+
+Mục 1
+
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN AN NINH ĐIỀU TRA
 
 Điều 37.11.LQ.15. Tổ chức bộ máy của Cơ quan An ninh điều tra
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000010000000000000000001500000000000000000
+1. Tổ chức bộ máy của Cơ quan An ninh điều tra Bộ Công an gồm có các phòng điều tra, phòng nghiệp vụ và Văn phòng Cơ quan An ninh điều tra.
 
-**ID:** dk_00063740
-
----
-
-
-### Điều 37.11.LQ.16. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Bộ Công an
+2. Tổ chức bộ máy của Cơ quan An ninh điều tra Công an cấp tỉnh gồm có các đội điều tra, đội nghiệp vụ và bộ máy giúp việc Cơ quan An ninh điều tra.
 
 Điều 37.11.LQ.16. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Bộ Công an
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000010000000000000000001600000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và trực tiếp giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063741
+2. Tiến hành điều tra vụ án hình sự về các tội phạm đặc biệt nghiêm trọng, phức tạp, liên quan đến nhiều tỉnh, thành phố trực thuộc trung ương hoặc có yếu tố nước ngoài thuộc thẩm quyền điều tra của Cơ quan An ninh điều tra Công an cấp tỉnh quy định tại khoản 2 Điều 17 của Luật này nếu xét thấy cần trực tiếp điều tra; vụ án đặc biệt nghiêm trọng thuộc thẩm quyền điều tra của Cơ quan An ninh điều tra của Công an nhân dân do Hội đồng Thẩm phán Tòa án nhân dân tối cao hủy để điều tra lại.
 
----
+3. Hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật, nghiệp vụ trong hoạt động điều tra, xử lý tội phạm của Cơ quan An ninh điều tra Công an cấp tỉnh; hướng dẫn các cơ quan của lực lượng An ninh nhân dân thuộc Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.17. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Công an cấp tỉnh
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm trong phạm vi nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra của Công an nhân dân.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương IV TRÁCH NHIỆM TRONG VIỆC THỰC HIỆN MỘT SỐ HOẠT ĐỘNG CỦA NGƯỜI BÀO CHỮA, NGƯỜI BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP; Chương III TRÁCH NHIỆM TRONG VIỆC ĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ,NGƯỜI BỊ TỐ GIÁC, NGƯỜI BỊ KIẾN NGHỊ KHỞI TỐ ; Chương II TRÁCH NHIỆM TRONG THỰC HIỆN TRÌNH TỰ, THỦ TỤCĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BÀO CHỮACỦA NGƯỜI BỊ GIỮ TRONG TRƯỜNG HỢP KHẨN CẤP, NGƯỜI BỊ BẮT, NGƯỜI BỊ TẠM GIỮ, BỊ CAN ; Chương I QUY ĐỊNH CHUNG của Thông tư 46/2019/TT-BCA Quy định trách nhiệm của lực lượng Công an nhân dân trong việc thực hiện các quy định của Bộ luật Tố tụng hình sự năm 2015 liên quan đến bảo đảm quyền bào chữa của người bị giữ trong trường hợp khẩn cấp, người bị bắt trong trường hợp phạm tội quả tang hoặc theo quyết định truy nã, người bị tạm giữ, bị can; bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố ban hành ngày 10/10/2019; Chương II QUY ĐỊNH CỤ THỂ; Chương I QUY ĐỊNH CHUNG; Điều 37.7.TT.4.7. Phân loại, xử lý tố giác, tin báo về tội phạm của Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an; Điều 37.7.TT.4.8. Phân loại, xử lý tố giác, tin báo về tội phạm, kiến nghị khởi tố của Cơ quan điều tra các cấp của Công an nhân dân)
 
 Điều 37.11.LQ.17. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Công an cấp tỉnh
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000010000000000000000001700000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và trực tiếp giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063742
+2. Tiến hành điều tra vụ án hình sự về các tội phạm quy định tại Chương XIII, Chương XXVI và các tội phạm quy định tại các điều 207, 208, 282, 283, 284, 299, 300, 303, 304, 305, 309, 337, 338, 347, 348, 349 và 350 của Bộ luật hình sự khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án nhân dân; tiến hành điều tra vụ án hình sự về tội phạm khác liên quan đến an ninh quốc gia hoặc để bảo đảm khách quan theo sự phân công của Bộ trưởng Bộ Công an.
 
----
+3. Hướng dẫn các cơ quan của lực lượng An ninh nhân dân thuộc Công an cấp tỉnh được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.18. Tổ chức bộ máy của Cơ quan Cảnh sát điều tra
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm của lực lượng An ninh nhân dân thuộc Công an cấp tỉnh báo cáo Thủ trưởng Cơ quan An ninh điều tra Bộ Công an.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương II TRÁCH NHIỆM TRONG THỰC HIỆN TRÌNH TỰ, THỦ TỤCĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BÀO CHỮACỦA NGƯỜI BỊ GIỮ TRONG TRƯỜNG HỢP KHẨN CẤP, NGƯỜI BỊ BẮT, NGƯỜI BỊ TẠM GIỮ, BỊ CAN ; Chương III TRÁCH NHIỆM TRONG VIỆC ĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ,NGƯỜI BỊ TỐ GIÁC, NGƯỜI BỊ KIẾN NGHỊ KHỞI TỐ ; Chương IV TRÁCH NHIỆM TRONG VIỆC THỰC HIỆN MỘT SỐ HOẠT ĐỘNG CỦA NGƯỜI BÀO CHỮA, NGƯỜI BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP; Chương I QUY ĐỊNH CHUNG của Thông tư 46/2019/TT-BCA Quy định trách nhiệm của lực lượng Công an nhân dân trong việc thực hiện các quy định của Bộ luật Tố tụng hình sự năm 2015 liên quan đến bảo đảm quyền bào chữa của người bị giữ trong trường hợp khẩn cấp, người bị bắt trong trường hợp phạm tội quả tang hoặc theo quyết định truy nã, người bị tạm giữ, bị can; bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố ban hành ngày 10/10/2019; Chương II QUY ĐỊNH CỤ THỂ; Chương I QUY ĐỊNH CHUNG của Thông tư 28/2020/TT-BCA Quy định trình tự, thủ tục tiếp nhận, phân loại, xử lý, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố của lực lượng Công an nhân dân ban hành ngày 26/03/2020)
+
+Mục 2
+
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN CẢNH SÁT ĐIỀU TRA
 
 Điều 37.11.LQ.18. Tổ chức bộ máy của Cơ quan Cảnh sát điều tra
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000020000000000000000001800000000000000000
+1. Tổ chức bộ máy của Cơ quan Cảnh sát điều tra Bộ Công an gồm có:
 
-**ID:** dk_00063744
+a) Văn phòng Cơ quan Cảnh sát điều tra;
 
----
+b) Cục Cảnh sát điều tra tội phạm về trật tự xã hội (gọi tắt là Cục Cảnh sát hình sự);
 
+c) Cục Cảnh sát điều tra tội phạm về tham nhũng, kinh tế và chức vụ;
 
-### Điều 37.11.LQ.19. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Bộ Công an
+d) Cục Cảnh sát điều tra tội phạm về ma túy;
+
+đ) Cục Cảnh sát điều tra tội phạm về buôn lậu, vận chuyển trái phép hàng hóa qua biên giới, sản xuất, buôn bán hàng giả, hàng cấm, xâm phạm sở hữu trí tuệ (gọi tắt là Cục Cảnh sát điều tra tội phạm về buôn lậu).
+
+2. Tổ chức bộ máy của Cơ quan Cảnh sát điều tra Công an cấp tỉnh gồm có:
+
+a) Văn phòng Cơ quan Cảnh sát điều tra;
+
+b) Phòng Cảnh sát điều tra tội phạm về trật tự xã hội (gọi tắt là Phòng Cảnh sát hình sự);
+
+c) Phòng Cảnh sát điều tra tội phạm về tham nhũng, kinh tế và chức vụ;
+
+d) Phòng Cảnh sát điều tra tội phạm về ma túy;
+
+đ) Phòng Cảnh sát điều tra tội phạm về buôn lậu, vận chuyển trái phép hàng hóa qua biên giới, sản xuất, buôn bán hàng giả, hàng cấm, xâm phạm sở hữu trí tuệ (gọi tắt là Phòng Cảnh sát điều tra tội phạm về buôn lậu).
+
+3. Tổ chức bộ máy của Cơ quan Cảnh sát điều tra Công an cấp huyện gồm có:
+
+a) Đội Điều tra tổng hợp;
+
+b) Đội Cảnh sát điều tra tội phạm về trật tự xã hội (gọi tắt là Đội Cảnh sát hình sự);
+
+c) Đội Cảnh sát điều tra tội phạm về kinh tế và chức vụ;
+
+d) Đội Cảnh sát điều tra tội phạm về ma túy.
+
+Căn cứ tình hình tội phạm và yêu cầu thực tiễn, Bộ trưởng Bộ Công an quyết định thành lập từ một đến bốn đội trong Cơ quan Cảnh sát điều tra Công an cấp huyện quy định tại khoản này; quyết định giải thể, sáp nhập, thu gọn đầu mối các đội trong Cơ quan Cảnh sát điều tra Công an cấp huyện.
 
 Điều 37.11.LQ.19. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Bộ Công an
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000020000000000000000001900000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063745
+2. Tiến hành điều tra vụ án hình sự thuộc thẩm quyền điều tra của Cơ quan Cảnh sát điều tra Công an cấp tỉnh về những tội phạm đặc biệt nghiêm trọng, phức tạp, xảy ra trên địa bàn nhiều tỉnh, thành phố trực thuộc trung ương hoặc tội phạm có tổ chức xuyên quốc gia nếu xét thấy cần trực tiếp điều tra; các vụ án đặc biệt nghiêm trọng thuộc thẩm quyền điều tra của Cơ quan Cảnh sát điều tra do Hội đồng Thẩm phán Tòa án nhân dân tối cao hủy để điều tra lại.
 
----
+3. Hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật, nghiệp vụ trong công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm đối với các cơ quan Cảnh sát điều tra Công an cấp tỉnh, Công an cấp huyện; hướng dẫn các cơ quan của lực lượng Cảnh sát nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.20. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp tỉnh
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm thuộc nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra của Công an nhân dân.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương II TRÁCH NHIỆM TRONG THỰC HIỆN TRÌNH TỰ, THỦ TỤCĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BÀO CHỮACỦA NGƯỜI BỊ GIỮ TRONG TRƯỜNG HỢP KHẨN CẤP, NGƯỜI BỊ BẮT, NGƯỜI BỊ TẠM GIỮ, BỊ CAN ; Chương III TRÁCH NHIỆM TRONG VIỆC ĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ,NGƯỜI BỊ TỐ GIÁC, NGƯỜI BỊ KIẾN NGHỊ KHỞI TỐ ; Chương IV TRÁCH NHIỆM TRONG VIỆC THỰC HIỆN MỘT SỐ HOẠT ĐỘNG CỦA NGƯỜI BÀO CHỮA, NGƯỜI BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP; Chương I QUY ĐỊNH CHUNG của Thông tư 46/2019/TT-BCA Quy định trách nhiệm của lực lượng Công an nhân dân trong việc thực hiện các quy định của Bộ luật Tố tụng hình sự năm 2015 liên quan đến bảo đảm quyền bào chữa của người bị giữ trong trường hợp khẩn cấp, người bị bắt trong trường hợp phạm tội quả tang hoặc theo quyết định truy nã, người bị tạm giữ, bị can; bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố ban hành ngày 10/10/2019; Chương II QUY ĐỊNH CỤ THỂ; Chương I QUY ĐỊNH CHUNG; Mục 2 KIẾN NGHỊ KHỞI TỐ - Chương II của Thông tư 28/2020/TT-BCA Quy định trình tự, thủ tục tiếp nhận, phân loại, xử lý, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố của lực lượng Công an nhân dân ban hành ngày 26/03/2020)
 
 Điều 37.11.LQ.20. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp tỉnh
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000020000000000000000002000000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063746
+2. Tiến hành điều tra vụ án hình sự về các tội phạm quy định tại khoản 2 Điều 21 của Luật này khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc các tội phạm thuộc thẩm quyền điều tra của Cơ quan Cảnh sát điều tra Công an cấp huyện xảy ra trên địa bàn nhiều huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương, phạm tội có tổ chức hoặc có yếu tố nước ngoài nếu xét thấy cần trực tiếp điều tra.
 
----
+3. Hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật, nghiệp vụ trong công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm đối với Cơ quan Cảnh sát điều tra Công an cấp huyện; hướng dẫn các cơ quan của lực lượng Cảnh sát nhân dân thuộc Công an cấp tỉnh được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng các biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.21. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp huyện
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm trong phạm vi chức năng, nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp tỉnh, Cơ quan Cảnh sát điều tra Công an cấp huyện.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương II TRÁCH NHIỆM TRONG THỰC HIỆN TRÌNH TỰ, THỦ TỤCĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BÀO CHỮACỦA NGƯỜI BỊ GIỮ TRONG TRƯỜNG HỢP KHẨN CẤP, NGƯỜI BỊ BẮT, NGƯỜI BỊ TẠM GIỮ, BỊ CAN ; Chương III TRÁCH NHIỆM TRONG VIỆC ĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ,NGƯỜI BỊ TỐ GIÁC, NGƯỜI BỊ KIẾN NGHỊ KHỞI TỐ ; Chương IV TRÁCH NHIỆM TRONG VIỆC THỰC HIỆN MỘT SỐ HOẠT ĐỘNG CỦA NGƯỜI BÀO CHỮA, NGƯỜI BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP; Chương I QUY ĐỊNH CHUNG của Thông tư 46/2019/TT-BCA Quy định trách nhiệm của lực lượng Công an nhân dân trong việc thực hiện các quy định của Bộ luật Tố tụng hình sự năm 2015 liên quan đến bảo đảm quyền bào chữa của người bị giữ trong trường hợp khẩn cấp, người bị bắt trong trường hợp phạm tội quả tang hoặc theo quyết định truy nã, người bị tạm giữ, bị can; bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố ban hành ngày 10/10/2019; Chương II QUY ĐỊNH CỤ THỂ; Chương I QUY ĐỊNH CHUNG của Thông tư 28/2020/TT-BCA Quy định trình tự, thủ tục tiếp nhận, phân loại, xử lý, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố của lực lượng Công an nhân dân ban hành ngày 26/03/2020)
 
 Điều 37.11.LQ.21. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp huyện
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000020000020000000000000000002100000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063747
+2. Tiến hành điều tra vụ án hình sự về các tội phạm quy định tại các chương từ Chương XIV đến Chương XXIV của Bộ luật hình sự khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án nhân dân cấp huyện, trừ các tội phạm thuộc thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao và Cơ quan An ninh điều tra của Công an nhân dân.
 
----
+3. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
+4. Kiểm tra, hướng dẫn Công an xã, phường, thị trấn, Đồn Công an thực hiện nhiệm vụ tiếp nhận, kiểm tra, xác minh sơ bộ tố giác, tin báo về tội phạm.
 
-### Điều 37.11.LQ.22. Tổ chức bộ máy của Cơ quan An ninh điều tra trong Quân đội nhân dân
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm của Cơ quan Cảnh sát điều tra Công an cấp huyện.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương III TRÁCH NHIỆM TRONG VIỆC ĐĂNG KÝ, TỪ CHỐI, HỦY BỎ VIỆC ĐĂNG KÝ BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ,NGƯỜI BỊ TỐ GIÁC, NGƯỜI BỊ KIẾN NGHỊ KHỞI TỐ ; Chương IV TRÁCH NHIỆM TRONG VIỆC THỰC HIỆN MỘT SỐ HOẠT ĐỘNG CỦA NGƯỜI BÀO CHỮA, NGƯỜI BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP; Chương I QUY ĐỊNH CHUNG của Thông tư 46/2019/TT-BCA Quy định trách nhiệm của lực lượng Công an nhân dân trong việc thực hiện các quy định của Bộ luật Tố tụng hình sự năm 2015 liên quan đến bảo đảm quyền bào chữa của người bị giữ trong trường hợp khẩn cấp, người bị bắt trong trường hợp phạm tội quả tang hoặc theo quyết định truy nã, người bị tạm giữ, bị can; bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố ban hành ngày 10/10/2019; Chương II QUY ĐỊNH CỤ THỂ; Chương I QUY ĐỊNH CHUNG của Thông tư 28/2020/TT-BCA Quy định trình tự, thủ tục tiếp nhận, phân loại, xử lý, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố của lực lượng Công an nhân dân ban hành ngày 26/03/2020)
+
+Chương III
+
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA TRONG QUÂN ĐỘI NHÂN DÂN
+
+(Chương này có nội dung liên quan đến Chương X NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ; Điều 37.7.LQ.36. Nhiệm vụ, quyền hạn và trách nhiệm của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; Điều 37.7.LQ.37. Nhiệm vụ, quyền hạn và trách nhiệm của Điều tra viên; Điều 37.7.LQ.38. Nhiệm vụ, quyền hạn và trách nhiệm của Cán bộ điều tra của Cơ quan điều tra của Bộ luật 101/2015/QH13 Tố tụng hình sự ban hành ngày 27/11/2015)
+
+Mục 1
+
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN AN NINH ĐIỀU TRA TRONG QUÂN ĐỘI NHÂN DÂN
 
 Điều 37.11.LQ.22. Tổ chức bộ máy của Cơ quan An ninh điều tra trong Quân đội nhân dân
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000010000000000000000002200000000000000000
+1. Tổ chức bộ máy của Cơ quan An ninh điều tra Bộ Quốc phòng gồm có các phòng điều tra, phòng nghiệp vụ và bộ máy giúp việc.
 
-**ID:** dk_00063750
+2. Tổ chức bộ máy của Cơ quan An ninh điều tra quân khu và tương đương gồm có Ban điều tra và bộ máy giúp việc.
 
----
-
-
-### Điều 37.11.LQ.23. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Bộ Quốc phòng
+Căn cứ vào nhiệm vụ và tổ chức của Quân đội nhân dân trong từng thời kỳ, Chính phủ trình Uỷ ban thường vụ Quốc hội quyết định việc thành lập hoặc giải thể Cơ quan An ninh điều tra quân khu và tương đương.
 
 Điều 37.11.LQ.23. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Bộ Quốc phòng
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000010000000000000000002300000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063751
+2. Tiến hành điều tra vụ án hình sự thuộc thẩm quyền điều tra của Cơ quan An ninh điều tra quân khu và tương đương về những tội phạm đặc biệt nghiêm trọng, phức tạp, xảy ra trên địa bàn nhiều quân khu và tương đương hoặc có yếu tố nước ngoài nếu xét thấy cần trực tiếp điều tra; vụ án đặc biệt nghiêm trọng thuộc thẩm quyền điều tra của Cơ quan An ninh điều tra của Quân đội nhân dân do Hội đồng Thẩm phán Tòa án nhân dân tối cao hủy để điều tra lại.
 
----
+3. Hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật, nghiệp vụ trong hoạt động điều tra, xử lý tội phạm của Cơ quan An ninh điều tra quân khu và tương đương; hướng dẫn Bộ đội biên phòng, lực lượng Cảnh sát biển, các cơ quan khác của Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra theo thẩm quyền.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.24. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra quân khu và tương đương
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm trong phạm vi nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra trong Quân đội nhân dân.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
 Điều 37.11.LQ.24. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra quân khu và tương đương
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000010000000000000000002400000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063752
+2. Cơ quan An ninh điều tra quân khu và tương đương điều tra vụ án hình sự về các tội phạm quy định tại Chương XIII, Chương XXVI và các tội phạm quy định tại các điều 207, 208, 282, 283, 284, 299, 300, 303, 304, 305, 309, 337, 338, 347, 348, 349 và 350 của Bộ luật hình sự khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án quân sự.
 
----
+3. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
+4. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm của Cơ quan An ninh điều tra quân khu và tương đương báo cáo Thủ trưởng Cơ quan An ninh điều tra Bộ Quốc phòng.
 
-### Điều 37.11.LQ.25. Tổ chức bộ máy của Cơ quan điều tra hình sự trong Quân đội nhân dân
+5. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương XIII CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA; Chương XXVI CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH; Điều 16.1.LQ.207. Tội làm, tàng trữ, vận chuyển, lưu hành tiền giả; Điều 16.1.LQ.208. Tội làm, tàng trữ, vận chuyển, lưu hành công cụ chuyển nhượng giả hoặc các giấy tờ có giá giả khác; Điều 16.1.LQ.282. Tội chiếm đoạt tàu bay, tàu thủy; Điều 16.1.LQ.283. Tội điều khiển tàu bay vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam; Điều 16.1.LQ.284. Tội điều khiển phương tiện hàng hải vi phạm quy định về hàng hải của nước Cộng hòa xã hội chủ nghĩa Việt Nam; Điều 16.1.LQ.299. Tội khủng bố; Điều 16.1.LQ.300. Tội tài trợ khủng bố; Điều 16.1.LQ.303. Tội phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia; Điều 16.1.LQ.304. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự; Điều 16.1.LQ.305. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vật liệu nổ; Điều 16.1.LQ.309. Tội sản xuất, tàng trữ, vận chuyển, sử dụng, phát tán, mua bán trái phép hoặc chiếm đoạt chất phóng xạ, vật liệu hạt nhân; Điều 16.1.LQ.337. Tội cố ý làm lộ bí mật nhà nước; tội chiếm đoạt, mua bán hoặc tiêu hủy vật hoặc tài liệu bí mật nhà nước; Điều 16.1.LQ.338. Tội vô ý làm lộ bí mật nhà nước; tội làm mất vật, tài liệu bí mật nhà nước; Điều 16.1.LQ.347. Tội vi phạm quy định về xuất cảnh, nhập cảnh; tội ở lại Việt Nam trái phép; Điều 16.1.LQ.348. Tội tổ chức, môi giới cho người khác xuất cảnh, nhập cảnh hoặc ở lại Việt Nam trái phép; Điều 16.1.LQ.349. Tội tổ chức, môi giới cho người khác trốn đi nước ngoài hoặc ở lại nước ngoài trái phép; Điều 16.1.LQ.350. Tội cưỡng ép người khác trốn đi nước ngoài hoặc ở lại nước ngoài trái phép)
+
+Mục 2
+
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA HÌNH SỰ TRONG QUÂN ĐỘI NHÂN DÂN
 
 Điều 37.11.LQ.25. Tổ chức bộ máy của Cơ quan điều tra hình sự trong Quân đội nhân dân
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000020000000000000000002500000000000000000
+1. Tổ chức bộ máy của Cơ quan điều tra hình sự Bộ Quốc phòng gồm có các phòng điều tra, phòng nghiệp vụ và bộ máy giúp việc.
 
-**ID:** dk_00063754
+2. Tổ chức bộ máy của Cơ quan điều tra hình sự quân khu và tương đương gồm có Ban điều tra và bộ máy giúp việc.
 
----
+3. Tổ chức bộ máy của Cơ quan điều tra hình sự khu vực gồm có bộ phận điều tra và bộ máy giúp việc.
 
-
-### Điều 37.11.LQ.26. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự Bộ Quốc phòng
+4. Căn cứ vào nhiệm vụ và tổ chức của Quân đội nhân dân trong từng thời kỳ, Chính phủ trình Uỷ ban thường vụ Quốc hội quyết định việc thành lập, sáp nhập, giải thể Cơ quan điều tra hình sự quân khu và tương đương, Cơ quan điều tra hình sự khu vực.
 
 Điều 37.11.LQ.26. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự Bộ Quốc phòng
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000020000000000000000002600000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063755
+2. Tiến hành điều tra vụ án hình sự thuộc thẩm quyền điều tra của Cơ quan điều tra hình sự quân khu và tương đương về những tội phạm đặc biệt nghiêm trọng, phức tạp, xảy ra trên địa bàn nhiều quân khu và tương đương, tội phạm có tổ chức xuyên quốc gia nếu xét thấy cần trực tiếp điều tra; vụ án đặc biệt nghiêm trọng thuộc thẩm quyền điều tra của Cơ quan điều tra hình sự trong Quân đội nhân dân do Hội đồng Thẩm phán Tòa án nhân dân tối cao hủy để điều tra lại.
 
----
+3. Thực hiện kiểm tra, hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật trong công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm đối với các Cơ quan điều tra hình sự quân khu và tương đương, Cơ quan điều tra hình sự khu vực; hướng dẫn Bộ đội biên phòng, lực lượng Cảnh sát biển, các cơ quan khác của Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra theo thẩm quyền.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.27. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự quân khu và tương đương
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm thuộc nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự trong Quân đội nhân dân.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
 Điều 37.11.LQ.27. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự quân khu và tương đương
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000020000000000000000002700000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063756
+2. Tiến hành điều tra vụ án hình sự về các tội phạm quy định tại khoản 2 Điều 28 của Luật này khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án quân sự quân khu và tương đương hoặc các tội phạm thuộc thẩm quyền điều tra của Cơ quan điều tra hình sự khu vực nếu xét thấy cần trực tiếp điều tra.
 
----
+3. Hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật, nghiệp vụ trong công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm đối với Cơ quan điều tra hình sự khu vực; hướng dẫn các cơ quan khác của Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện hoạt động điều tra theo thẩm quyền.
 
+4. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
-### Điều 37.11.LQ.28. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự khu vực
+5. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm thuộc nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự quân khu và tương đương.
+
+6. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
 Điều 37.11.LQ.28. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự khu vực
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000030000020000000000000000002800000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063757
+2. Tiến hành điều tra vụ án hình sự về tội phạm quy định tại các chương từ Chương XIV đến Chương XXV của Bộ luật hình sự khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án quân sự cùng cấp, trừ các tội phạm thuộc thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát quân sự trung ương và Cơ quan An ninh điều tra trong Quân đội nhân dân.
 
----
+3. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
+4. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm thuộc nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự khu vực.
 
-### Điều 37.11.LQ.29. Tổ chức bộ máy Cơ quan điều tra của Viện kiểm sát nhân dân tối cao
+5. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Chương XXIII CÁC TỘI PHẠM VỀ CHỨC VỤ; Chương XXI CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG; Chương XXII CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH; Chương XIV CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI; Chương XVII CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH; Chương XVI CÁC TỘI XÂM PHẠM SỞ HỮU; Chương XIX CÁC TỘI PHẠM VỀ MÔI TRƯỜNG; Chương XXV CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU; Chương XX CÁC TỘI PHẠM VỀ MA TÚY; Chương XVIII CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ; Chương XXIV CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP; Chương XV CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN)
+
+Chương IV
+
+TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA CỦA VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO
+
+(Chương này có nội dung liên quan đến Chương X NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ; Điều 37.7.LQ.41. Nhiệm vụ, quyền hạn và trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát; Điều 37.7.LQ.42. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm sát viên; Điều 37.7.LQ.43. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm tra viên của Bộ luật 101/2015/QH13 Tố tụng hình sự ban hành ngày 27/11/2015)
 
 Điều 37.11.LQ.29. Tổ chức bộ máy Cơ quan điều tra của Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000400002900000000000000000
+1. Cơ quan điều tra Viện kiểm sát nhân dân tối cao gồm có các phòng điều tra và bộ máy giúp việc.
 
-**ID:** dk_00063759
-
----
-
-
-### Điều 37.11.LQ.30. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát nhân dân tối cao
+2. Cơ quan điều tra Viện kiểm sát quân sự trung ương gồm có Ban điều tra và bộ phận giúp việc.
 
 Điều 37.11.LQ.30. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000400003000000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063760
+2. Tiến hành điều tra tội phạm xâm phạm hoạt động tư pháp, tội phạm về tham nhũng, chức vụ quy định tại Chương XXIII và Chương XXIV của Bộ luật hình sự xảy ra trong hoạt động tư pháp mà người phạm tội là cán bộ, công chức thuộc Cơ quan điều tra, Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án, người có thẩm quyền tiến hành hoạt động tư pháp khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án nhân dân.
 
----
+3. Kiến nghị với cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
+4. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm thuộc nhiệm vụ, quyền hạn của Cơ quan điều tra của Viện kiểm sát nhân dân tối cao.
 
-### Điều 37.11.LQ.31. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát quân sự trung ương
+5. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.3. Chức năng thực hành quyền công tố của Viện kiểm sát nhân dân; Chương XXIII CÁC TỘI PHẠM VỀ CHỨC VỤ; Chương XXIV CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 37.7.LQ.41. Nhiệm vụ, quyền hạn và trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát; Điều 37.7.LQ.42. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm sát viên; Điều 37.7.LQ.43. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm tra viên; Điều 37.7.LQ.165. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự; Điều 37.7.LQ.166. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát điều tra vụ án hình sự; Điều 37.7.LQ.167. Trách nhiệm của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong việc thực hiện yêu cầu, quyết định của Viện kiểm sát trong giai đoạn điều tra; Điều 37.7.LQ.168. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc thực hiện quyết định, yêu cầu của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, Viện kiểm sát)
 
 Điều 37.11.LQ.31. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000400003100000000000000000
+1. Tổ chức công tác trực ban hình sự, tiếp nhận tố giác, tin báo về tội phạm, kiến nghị khởi tố; phân loại và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố thuộc thẩm quyền giải quyết của mình hoặc chuyển ngay đến cơ quan có thẩm quyền để giải quyết.
 
-**ID:** dk_00063761
+2. Tiến hành điều tra vụ án hình sự về các tội phạm quy định tại khoản 2 Điều 30 của Luật này khi các tội phạm đó thuộc thẩm quyền xét xử của Tòa án quân sự.
 
----
+3. Kiến nghị với cơ quan, tổ chức áp dụng các biện pháp khắc phục nguyên nhân, điều kiện làm phát sinh tội phạm.
 
+4. Tổ chức sơ kết, tổng kết công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và công tác điều tra, xử lý tội phạm thuộc nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát quân sự trung ương.
 
-### Điều 37.11.LQ.32. Nhiệm vụ, quyền hạn điều tra của Bộ đội biên phòng
+5. Giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+Chương V
+
+NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐƯỢC GIAO NHIỆM VỤ TIẾN HÀNH MỘT SỐ HOẠT ĐỘNG ĐIỀU TRA
+
+(Chương này có nội dung liên quan đến Chương X NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ; Điều 37.7.LQ.35. Cơ quan và người được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.39. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.40. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra của Bộ luật 101/2015/QH13 Tố tụng hình sự ban hành ngày 27/11/2015)
 
 Điều 37.11.LQ.32. Nhiệm vụ, quyền hạn điều tra của Bộ đội biên phòng
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018
 
-**Mã phân cấp:** 3701100000000000500003200000000000000000
+ )1. Bộ đội biên phòng khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà phát hiện tội phạm quy định tại Chương XIII và các điều 150, 151, 152, 153, 188, 189, 192, 193, 195, 207, 227, 235, 236, 242, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 303, 304, 305, 306, 309, 330, 337, 338, 346, 347, 348, 349 và 350 của Bộ luật hình sự xảy ra trong khu vực biên giới trên đất liền, bờ biển, hải đảo và các vùng biển do Bộ đội biên phòng quản lý thì những người quy định tại khoản 2 Điều này có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00063763
+a) Đối với tội phạm ít nghiêm trọng trong trường hợp phạm tội quả tang, chứng cứ và lai lịch người phạm tội rõ ràng thì quyết định khởi tố vụ án hình sự, khám nghiệm hiện trường, khám xét, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, trưng cầu giám định khi cần thiết, khởi tố bị can, tiến hành các biện pháp điều tra khác theo quy định của Bộ luật tố tụng hình sự, kết thúc điều tra và chuyển hồ sơ vụ án cho Viện kiểm sát có thẩm quyền trong thời hạn 01 tháng, kể từ ngày ra quyết định khởi tố vụ án;
 
----
+b) Đối với tội phạm nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng hoặc tội phạm ít nghiêm trọng nhưng phức tạp thì quyết định khởi tố vụ án hình sự, khám nghiệm hiện trường, khám xét, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến việc giải quyết, lấy lời khai, trưng cầu giám định khi cần thiết và chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án;
 
+c) Áp dụng biện pháp ngăn chặn, cưỡng chế theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 37.11.NĐ.1.3. Giải thích từ ngữ
+2. Cục trưởng Cục trinh sát biên phòng có quyền hạn quy định tại khoản 1 Điều này đối với tội phạm quy định tại Chương XIII của Bộ luật hình sự.
 
-*Nội dung chưa có sẵn*
+Cục trưởng Cục phòng, chống ma túy và tội phạm, Đoàn trưởng Đoàn đặc nhiệm phòng, chống ma túy và tội phạm có quyền hạn quy định tại khoản 1 Điều này đối với tội phạm quy định tại các điều 150, 151, 152, 153, 188, 189, 193, 207, 227, 242, 247, 248, 249, 250, 251, 252, 253, 254, 304, 305, 309, 337, 338, 346, 347, 348, 349 và 350 của Bộ luật hình sự.
 
-**Chỉ mục:** 3
+Chỉ huy trưởng Bộ đội biên phòng tỉnh, thành phố trực thuộc trung ương, Chỉ huy trưởng Biên phòng Cửa khẩu cảng, Đồn trưởng Đồn biên phòng có quyền hạn quy định tại khoản 1 Điều này đối với tội phạm quy định tại Chương XIII và các điều 150, 151, 152, 153, 188, 189, 193, 207, 227, 242, 247, 248, 249, 250, 251, 252, 253, 254, 304, 305, 309, 337, 338, 346, 347, 348, 349 và 350 của Bộ luật hình sự.
 
-**Mã phân cấp:** 370110000000000050000320000000000000000000402633501140000300
+Đồn trưởng Đồn biên phòng đóng ở vùng sâu, vùng xa có quyền hạn quy định tại khoản 1 Điều này. Chính phủ quy định về Đồn biên phòng thuộc vùng sâu, vùng xa.
 
-**ID:** dk_00063764
+3. Cục trưởng Cục trinh sát biên phòng, Cục trưởng Cục phòng, chống ma túy và tội phạm, Đoàn trưởng Đoàn đặc nhiệm phòng, chống ma túy và tội phạm, Chỉ huy trưởng Bộ đội biên phòng tỉnh, thành phố trực thuộc trung ương, Chỉ huy trưởng Biên phòng Cửa khẩu cảng, Đồn trưởng Đồn biên phòng trực tiếp tổ chức và chỉ đạo các hoạt động điều tra theo thẩm quyền, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
----
+Khi Cục trưởng Cục trinh sát biên phòng, Cục trưởng Cục phòng, chống ma túy và tội phạm, Đoàn trưởng Đoàn đặc nhiệm phòng, chống ma túy và tội phạm, Chỉ huy trưởng Bộ đội biên phòng tỉnh, thành phố trực thuộc trung ương, Chỉ huy trưởng Biên phòng Cửa khẩu cảng, Đồn trưởng Đồn biên phòng vắng mặt thì một cấp phó được uỷ nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản 2 Điều này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
 
+4. Khi được phân công điều tra vụ án hình sự, Phó Cục trưởng Cục trinh sát biên phòng, Phó Cục trưởng Cục phòng, chống ma túy và tội phạm, Phó Đoàn trưởng Đoàn đặc nhiệm phòng, chống ma túy và tội phạm, Phó Chỉ huy trưởng Bộ đội biên phòng tỉnh, thành phố trực thuộc trung ương, Phó Chỉ huy trưởng Biên phòng Cửa khẩu cảng, Phó Đồn trưởng Đồn biên phòng có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
 
-### Điều 37.11.NĐ.1.4. Nguyên tắc xác định Đồn biên phòng thuộc vùng sâu, vùng xa
+5. Cục trưởng, Phó Cục trưởng Cục trinh sát biên phòng; Cục trưởng, Phó Cục trưởng Cục phòng, chống ma túy và tội phạm; Đoàn trưởng, Phó Đoàn trưởng Đoàn đặc nhiệm phòng, chống ma túy và tội phạm; Chỉ huy trưởng, Phó Chỉ huy trưởng Bộ đội biên phòng tỉnh, thành phố trực thuộc trung ương; Chỉ huy trưởng, Phó Chỉ huy trưởng Biên phòng Cửa khẩu cảng; Đồn trưởng, Phó Đồn trưởng Đồn biên phòng phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Chương XIII CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA; Điều 16.1.LQ.150. Tội mua bán người; Điều 16.1.LQ.151. Tội mua bán người dưới 16 tuổi; Điều 16.1.LQ.152. Tội đánh tráo người dưới 01 tuổi; Điều 16.1.LQ.153. Tội chiếm đoạt người dưới 16 tuổi; Điều 16.1.LQ.188. Tội buôn lậu; Điều 16.1.LQ.189. Tội vận chuyển trái phép hàng hóa, tiền tệ qua biên giới; Điều 16.1.LQ.192. Tội sản xuất, buôn bán hàng giả; Điều 16.1.LQ.193. Tội sản xuất, buôn bán hàng giả là lương thực, thực phẩm, phụ gia thực phẩm; Điều 16.1.LQ.195. Tội sản xuất, buôn bán hàng giả là thức ăn dùng để chăn nuôi, phân bón, thuốc thú y, thuốc bảo vệ thực vật, giống cây trồng, giống vật nuôi; Điều 16.1.LQ.207. Tội làm, tàng trữ, vận chuyển, lưu hành tiền giả; Điều 16.1.LQ.227. Tội vi phạm quy định về nghiên cứu, thăm dò, khai thác tài nguyên; Điều 16.1.LQ.235. Tội gây ô nhiễm môi trường; Điều 16.1.LQ.236. Tội vi phạm quy định về quản lý chất thải nguy hại; Điều 16.1.LQ.242. Tội hủy hoại nguồn lợi thủy sản; Điều 16.1.LQ.247. Tội trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy; Điều 16.1.LQ.248. Tội sản xuất trái phép chất ma túy; Điều 16.1.LQ.249. Tội tàng trữ trái phép chất ma túy; Điều 16.1.LQ.250. Tội vận chuyển trái phép chất ma túy; Điều 16.1.LQ.251. Tội mua bán trái phép chất ma túy; Điều 16.1.LQ.252. Tội chiếm đoạt chất ma túy; Điều 16.1.LQ.253. Tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy; Điều 16.1.LQ.254. Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy; Điều 16.1.LQ.255. Tội tổ chức sử dụng trái phép chất ma túy; Điều 16.1.LQ.256. Tội chứa chấp việc sử dụng trái phép chất ma túy; Điều 16.1.LQ.303. Tội phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia; Điều 16.1.LQ.304. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự; Điều 16.1.LQ.305. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vật liệu nổ; Điều 16.1.LQ.306. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt súng săn, vũ khí thô sơ, vũ khí thể thao hoặc công cụ hỗ trợ; Điều 16.1.LQ.309. Tội sản xuất, tàng trữ, vận chuyển, sử dụng, phát tán, mua bán trái phép hoặc chiếm đoạt chất phóng xạ, vật liệu hạt nhân; Điều 16.1.LQ.330. Tội chống người thi hành công vụ; Điều 16.1.LQ.337. Tội cố ý làm lộ bí mật nhà nước; tội chiếm đoạt, mua bán hoặc tiêu hủy vật hoặc tài liệu bí mật nhà nước; Điều 16.1.LQ.338. Tội vô ý làm lộ bí mật nhà nước; tội làm mất vật, tài liệu bí mật nhà nước; Điều 16.1.LQ.346. Tội vi phạm quy chế về khu vực biên giới; Điều 16.1.LQ.347. Tội vi phạm quy định về xuất cảnh, nhập cảnh; tội ở lại Việt Nam trái phép; Điều 16.1.LQ.348. Tội tổ chức, môi giới cho người khác xuất cảnh, nhập cảnh hoặc ở lại Việt Nam trái phép; Điều 16.1.LQ.349. Tội tổ chức, môi giới cho người khác trốn đi nước ngoài hoặc ở lại nước ngoài trái phép; Điều 16.1.LQ.350. Tội cưỡng ép người khác trốn đi nước ngoài hoặc ở lại nước ngoài trái phép của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 37.7.LQ.39. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 25.2.LQ.14. Nhiệm vụ của Bộ đội Biên phòng của Luật 66/2020/QH14 Biên phòng Việt Nam ban hành ngày 11/11/2020)
+
+Điều 37.11.NĐ.1.3. Giải thích từ ngữ
+
+(Điều 3 Nghị định số 114/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
+
+ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+ 1. “Vùng sâu, vùng xa” là vùng dân cư thưa thớt, nằm sâu trong rừng núi hoặc vùng ngập nước, ở xa các trung tâm kinh tế, văn hóa, giao thông không thuận tiện, đi lại khó khăn, kinh tế thường lạc hậu, kém phát triển.
+
+ 2. “Đồn biên phòng” là đơn vị cơ sở của Bộ đội Biên phòng trực thuộc Bộ Chỉ huy Bộ đội Biên phòng tỉnh, thành phố trực thuộc trung ương có nhiệm vụ quản lý, bảo vệ chủ quyền lãnh thổ, biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới, vùng biển, đảo theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 25.2.LQ.21. Hệ thống tổ chức của Bộ đội Biên phòng của Luật 66/2020/QH14 Biên phòng Việt Nam ban hành ngày 11/11/2020)
 
 Điều 37.11.NĐ.1.4. Nguyên tắc xác định Đồn biên phòng thuộc vùng sâu, vùng xa
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 114/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000050000320000000000000000000402633501140000400
+ 1. Việc xác định Đồn biên phòng thuộc vùng sâu, vùng xa phải phù hợp với yêu cầu của chương trình cải cách tư pháp.
 
-**ID:** dk_00063765
-
----
-
-
-### Điều 37.11.NĐ.1.5. Tiêu chí xác định Đồn biên phòng thuộc vùng sâu, vùng xa
+ 2. Đáp ứng các tiêu chí xác định Đồn biên phòng thuộc vùng sâu, vùng xa quy định tại Điều 5 Nghị định này.(Điều này có nội dung liên quan đến Điều 25.2.LQ.21. Hệ thống tổ chức của Bộ đội Biên phòng của Luật 66/2020/QH14 Biên phòng Việt Nam ban hành ngày 11/11/2020)
 
 Điều 37.11.NĐ.1.5. Tiêu chí xác định Đồn biên phòng thuộc vùng sâu, vùng xa
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 114/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000050000320000000000000000000402633501140000500
+ Đồn biên phòng thuộc vùng sâu, vùng xa là những Đồn biên phòng có một trong các tiêu chí sau:
 
-**ID:** dk_00063766
+ 1. Đóng quân và quản lý các xã miền núi, xã đảo, vùng biển có địa hình tự nhiên phức tạp, hiểm trở, chia cắt, giao thông đi lại khó khăn, xa trung tâm hành chính cấp huyện.
 
----
+ 2. Đóng quân và quản lý các xã miền núi, hải đảo có phụ cấp khu vực từ 0,2 trở lên và phụ cấp đặc biệt từ 30% trở lên theo quy định của cơ quan nhà nước có thẩm quyền.
 
-
-### Điều 37.11.LQ.33. Nhiệm vụ, quyền hạn điều tra của Hải quan
+ 3. Đóng quân và quản lý các xã, phường thuộc địa bàn trọng yếu về an ninh chính trị, trật tự, an toàn xã hội.(Điều này có nội dung liên quan đến Điều 25.2.LQ.21. Hệ thống tổ chức của Bộ đội Biên phòng của Luật 66/2020/QH14 Biên phòng Việt Nam ban hành ngày 11/11/2020)
 
 Điều 37.11.LQ.33. Nhiệm vụ, quyền hạn điều tra của Hải quan
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003300000000000000000
+1. Cơ quan Hải quan khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà phát hiện tội phạm quy định tại các điều 188, 189 và 190 của Bộ luật hình sự thì Cục trưởng Cục điều tra chống buôn lậu, Cục trưởng Cục kiểm tra sau thông quan, Cục trưởng Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương, Chi cục trưởng Chi cục Hải quan cửa khẩu có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00063767
+a) Đối với tội phạm ít nghiêm trọng trong trường hợp phạm tội quả tang, chứng cứ và lai lịch người phạm tội rõ ràng thì quyết định khởi tố vụ án hình sự, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, khám người, khám nơi cất giữ hàng hóa trong khu vực kiểm soát của Hải quan, trưng cầu giám định khi cần thiết, khởi tố bị can, tiến hành các biện pháp điều tra khác theo quy định của Bộ luật tố tụng hình sự, kết thúc điều tra và chuyển hồ sơ vụ án cho Viện kiểm sát có thẩm quyền trong thời hạn 01 tháng, kể từ ngày ra quyết định khởi tố vụ án;
 
----
+b) Đối với tội phạm nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng hoặc tội phạm ít nghiêm trọng nhưng phức tạp thì quyết định khởi tố vụ án hình sự, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, khám người, khám nơi cất giữ hàng hóa trong khu vực kiểm soát của Hải quan, chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
+2. Cục trưởng Cục điều tra chống buôn lậu, Cục trưởng Cục kiểm tra sau thông quan, Cục trưởng Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương, Chi cục trưởng Chi cục Hải quan cửa khẩu trực tiếp tổ chức và chỉ đạo các hoạt động điều tra, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 37.11.LQ.34. Nhiệm vụ, quyền hạn điều tra của Kiểm lâm
+Khi Cục trưởng Cục điều tra chống buôn lậu, Cục trưởng Cục kiểm tra sau thông quan, Cục trưởng Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương, Chi cục trưởng Chi cục Hải quan cửa khẩu vắng mặt thì một cấp phó được uỷ nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
+
+3. Khi được phân công điều tra vụ án hình sự, Phó Cục trưởng Cục điều tra chống buôn lậu, Phó Cục trưởng Cục kiểm tra sau thông quan, Phó Cục trưởng Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương, Phó Chi cục trưởng Chi cục Hải quan cửa khẩu có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
+
+4. Cục trưởng, Phó Cục trưởng Cục điều tra chống buôn lậu; Cục trưởng, Phó Cục trưởng Cục kiểm tra sau thông quan; Cục trưởng, Phó Cục trưởng Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương; Chi cục trưởng, Phó Chi cục trưởng Chi cục Hải quan cửa khẩu phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.188. Tội buôn lậu; Điều 16.1.LQ.189. Tội vận chuyển trái phép hàng hóa, tiền tệ qua biên giới; Điều 16.1.LQ.190. Tội sản xuất, buôn bán hàng cấm của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 37.7.LQ.39. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra)
 
 Điều 37.11.LQ.34. Nhiệm vụ, quyền hạn điều tra của Kiểm lâm
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003400000000000000000
+1. Cơ quan Kiểm lâm khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà phát hiện tội phạm quy định tại các điều 232, 243, 244, 245, 313 và 345 của Bộ luật hình sự thì Cục trưởng Cục Kiểm lâm, Chi cục trưởng Chi cục Kiểm lâm vùng, Chi cục trưởng Chi cục Kiểm lâm, Hạt trưởng Hạt Kiểm lâm có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00063768
+a) Đối với tội phạm ít nghiêm trọng trong trường hợp phạm tội quả tang, chứng cứ và lai lịch người phạm tội rõ ràng thì quyết định khởi tố vụ án, khám nghiệm hiện trường, khám xét, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, trưng cầu giám định khi cần thiết, khởi tố bị can, tiến hành các biện pháp điều tra khác theo quy định của Bộ luật tố tụng hình sự, kết thúc điều tra và chuyển hồ sơ vụ án cho Viện kiểm sát có thẩm quyền trong thời hạn 01 tháng, kể từ ngày ra quyết định khởi tố vụ án;
 
----
+b) Đối với tội phạm nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng hoặc tội phạm ít nghiêm trọng nhưng phức tạp thì quyết định khởi tố vụ án, khám nghiệm hiện trường, khám xét, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
+2. Cục trưởng Cục Kiểm lâm, Chi cục trưởng Chi cục Kiểm lâm vùng, Chi cục trưởng Chi cục Kiểm lâm, Hạt trưởng Hạt Kiểm lâm trực tiếp tổ chức và chỉ đạo các hoạt động điều tra, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 37.11.LQ.35. Nhiệm vụ, quyền hạn điều tra của lực lượng Cảnh sát biển
+Khi Cục trưởng Cục Kiểm lâm, Chi cục trưởng Chi cục Kiểm lâm vùng, Chi cục trưởng Chi cục Kiểm lâm, Hạt trưởng Hạt Kiểm lâm vắng mặt thì một cấp phó được uỷ nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
+
+3. Khi được phân công điều tra vụ án hình sự, Phó Cục trưởng Cục Kiểm lâm, Phó Chi cục trưởng Chi cục Kiểm lâm vùng, Phó Chi cục trưởng Chi cục Kiểm lâm, Phó Hạt trưởng Hạt Kiểm lâm có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
+
+4. Cục trưởng, Phó Cục trưởng Cục Kiểm lâm; Chi cục trưởng, Phó Chi cục trưởng Chi cục Kiểm lâm vùng; Chi cục trưởng, Phó Chi cục trưởng Chi cục Kiểm lâm; Hạt trưởng, Phó Hạt trưởng Hạt Kiểm lâm phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.232. Tội vi phạm quy định về khai thác, bảo vệ rừng và lâm sản; Điều 16.1.LQ.243. Tội hủy hoại rừng; Điều 16.1.LQ.244. Tội vi phạm quy định về bảo vệ động vật nguy cấp, quý, hiếm; Điều 16.1.LQ.245. Tội vi phạm quy định về quản lý khu bảo tồn thiên nhiên; Điều 16.1.LQ.313. Tội vi phạm quy định về phòng cháy, chữa cháy; Điều 16.1.LQ.345. Tội vi phạm các quy định về bảo vệ và sử dụng di tích lịch sử - văn hóa, danh lam, thắng cảnh gây hậu quả nghiêm trọng của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 37.7.LQ.39. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra)
 
 Điều 37.11.LQ.35. Nhiệm vụ, quyền hạn điều tra của lực lượng Cảnh sát biển
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003500000000000000000
+1. Các đơn vị thuộc lực lượng Cảnh sát biển khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà phát hiện tội phạm quy định tại Chương XIII và các điều 188, 189, 227, 235, 236, 237, 242, 249, 250, 251, 252, 253, 254, 272, 273, 282, 284, 303, 304, 305, 309, 311, 346, 347 và 348 của Bộ luật hình sự xảy ra trên các vùng biển và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam do lực lượng Cảnh sát biển quản lý thì những người quy định tại khoản 2 Điều này có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00063769
+a) Đối với tội phạm ít nghiêm trọng trong trường hợp phạm tội quả tang, chứng cứ và lai lịch người phạm tội rõ ràng thì quyết định khởi tố vụ án hình sự, khám nghiệm hiện trường, khám xét, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, trưng cầu giám định khi cần thiết, khởi tố bị can, tiến hành các biện pháp điều tra khác theo quy định của Bộ luật tố tụng hình sự, kết thúc điều tra và chuyển hồ sơ vụ án cho Viện kiểm sát có thẩm quyền trong thời hạn 01 tháng, kể từ ngày ra quyết định khởi tố vụ án;
 
----
+b) Đối với tội phạm nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng hoặc tội phạm ít nghiêm trọng nhưng phức tạp thì quyết định khởi tố vụ án hình sự, khám nghiệm hiện trường, khám xét, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến việc giải quyết, lấy lời khai, trưng cầu giám định khi cần thiết và chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án;
 
+c) Áp dụng biện pháp ngăn chặn, cưỡng chế theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 37.11.LQ.36. Nhiệm vụ, quyền hạn điều tra của Kiểm ngư
+2. Tư lệnh Cảnh sát biển, Tư lệnh vùng Cảnh sát biển, Cục trưởng Cục nghiệp vụ và pháp luật, Hải đoàn trưởng, Hải đội trưởng và Đội trưởng Đội nghiệp vụ Cảnh sát biển có quyền hạn quy định tại khoản 1 Điều này.
+
+Đoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy có quyền hạn quy định tại khoản 1 Điều này đối với các tội phạm quy định tại các điều 249, 250, 251, 252, 253 và 254 của Bộ luật hình sự.
+
+3. Tư lệnh Cảnh sát biển, Tư lệnh vùng Cảnh sát biển, Cục trưởng Cục nghiệp vụ và pháp luật, Đoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy, Hải đoàn trưởng, Hải đội trưởng và Đội trưởng Đội nghiệp vụ Cảnh sát biển trực tiếp tổ chức, chỉ đạo các hoạt động điều tra theo thẩm quyền, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+Khi Tư lệnh Cảnh sát biển, Tư lệnh vùng Cảnh sát biển, Cục trưởng Cục nghiệp vụ và pháp luật, Đoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy, Hải đoàn trưởng, Hải đội trưởng và Đội trưởng Đội nghiệp vụ Cảnh sát biển vắng mặt thì một cấp phó được uỷ nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
+
+4. Khi được phân công điều tra vụ án hình sự, Phó Tư lệnh Cảnh sát biển, Phó Tư lệnh vùng Cảnh sát biển, Phó Cục trưởng Cục nghiệp vụ và pháp luật, Phó Đoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy, Phó Hải đoàn trưởng, Phó Hải đội trưởng và Phó Đội trưởng Đội nghiệp vụ Cảnh sát biển có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
+
+5. Tư lệnh, Phó Tư lệnh Cảnh sát biển; Tư lệnh vùng, Phó Tư lệnh vùng Cảnh sát biển; Cục trưởng, Phó Cục trưởng Cục Nghiệp vụ và pháp luật; Đoàn trưởng, Phó Đoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy; Hải đoàn trưởng, Phó Hải đoàn trưởng; Hải đội trưởng, Phó Hải đội trưởng; Đội trưởng, Phó Đội trưởng Đội nghiệp vụ Cảnh sát biển phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Chương XIII CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA; Điều 16.1.LQ.188. Tội buôn lậu; Điều 16.1.LQ.189. Tội vận chuyển trái phép hàng hóa, tiền tệ qua biên giới; Điều 16.1.LQ.227. Tội vi phạm quy định về nghiên cứu, thăm dò, khai thác tài nguyên; Điều 16.1.LQ.235. Tội gây ô nhiễm môi trường; Điều 16.1.LQ.236. Tội vi phạm quy định về quản lý chất thải nguy hại; Điều 16.1.LQ.237. Tội vi phạm quy định về phòng ngừa, ứng phó, khắc phục sự cố môi trường; Điều 16.1.LQ.242. Tội hủy hoại nguồn lợi thủy sản; Điều 16.1.LQ.250. Tội vận chuyển trái phép chất ma túy; Điều 16.1.LQ.251. Tội mua bán trái phép chất ma túy; Điều 16.1.LQ.252. Tội chiếm đoạt chất ma túy; Điều 16.1.LQ.253. Tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy; Điều 16.1.LQ.254. Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy; Điều 16.1.LQ.272. Tội vi phạm quy định về điều khiển phương tiện giao thông đường thủy; Điều 16.1.LQ.273. Tội cản trở giao thông đường thủy; Điều 16.1.LQ.282. Tội chiếm đoạt tàu bay, tàu thủy; Điều 16.1.LQ.284. Tội điều khiển phương tiện hàng hải vi phạm quy định về hàng hải của nước Cộng hòa xã hội chủ nghĩa Việt Nam; Điều 16.1.LQ.303. Tội phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia; Điều 16.1.LQ.304. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự; Điều 16.1.LQ.305. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vật liệu nổ; Điều 16.1.LQ.309. Tội sản xuất, tàng trữ, vận chuyển, sử dụng, phát tán, mua bán trái phép hoặc chiếm đoạt chất phóng xạ, vật liệu hạt nhân; Điều 16.1.LQ.311. Tội sản xuất, tàng trữ, vận chuyển, sử dụng hoặc mua bán trái phép chất cháy, chất độc; Điều 16.1.LQ.346. Tội vi phạm quy chế về khu vực biên giới; Điều 16.1.LQ.347. Tội vi phạm quy định về xuất cảnh, nhập cảnh; tội ở lại Việt Nam trái phép; Điều 16.1.LQ.348. Tội tổ chức, môi giới cho người khác xuất cảnh, nhập cảnh hoặc ở lại Việt Nam trái phép của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 37.7.LQ.39. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra)
 
 Điều 37.11.LQ.36. Nhiệm vụ, quyền hạn điều tra của Kiểm ngư
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003600000000000000000
+1. Cơ quan Kiểm ngư khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà phát hiện tội phạm quy định tại các điều 111, 242, 244, 245, 246, 305 và 311 của Bộ luật hình sự xảy ra trên các vùng biển và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam do Kiểm ngư quản lý thì Cục trưởng Cục Kiểm ngư, Chi cục trưởng Chi cục Kiểm ngư vùng có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00063770
+a) Đối với tội phạm ít nghiêm trọng trong trường hợp phạm tội quả tang, chứng cứ và lai lịch người phạm tội rõ ràng thì quyết định khởi tố vụ án, khám nghiệm hiện trường, khám xét, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, trưng cầu giám định khi cần thiết, khởi tố bị can, tiến hành các biện pháp điều tra khác theo quy định của Bộ luật tố tụng hình sự, kết thúc điều tra và chuyển hồ sơ vụ án cho Viện kiểm sát có thẩm quyền trong thời hạn 01 tháng, kể từ ngày ra quyết định khởi tố vụ án;
 
----
+b) Đối với tội phạm nghiêm trọng, rất nghiêm trọng, đặc biệt nghiêm trọng hoặc tội phạm ít nghiêm trọng nhưng phức tạp thì quyết định khởi tố vụ án, khám nghiệm hiện trường, khám xét, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
+c) Áp dụng biện pháp ngăn chặn, cưỡng chế theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 37.11.LQ.37. Nhiệm vụ, quyền hạn điều tra của các cơ quan thuộc lực lượng An ninh trong Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+2. Cục trưởng Cục Kiểm ngư, Chi cục trưởng Chi cục Kiểm ngư vùng trực tiếp tổ chức và chỉ đạo các hoạt động điều tra, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
+
+Khi Cục trưởng Cục Kiểm ngư, Chi cục trưởng Chi cục Kiểm ngư vùng vắng mặt thì một cấp phó được uỷ nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
+
+3. Khi được phân công điều tra vụ án hình sự, Phó Cục trưởng Cục Kiểm ngư, Phó Chi cục trưởng Chi cục Kiểm ngư vùng có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
+
+4. Cục trưởng, Phó Cục trưởng Cục Kiểm ngư; Chi cục trưởng, Phó Chi cục trưởng Chi cục Kiểm ngư vùng phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Điều 16.1.LQ.111. Tội xâm phạm an ninh lãnh thổ; Điều 16.1.LQ.242. Tội hủy hoại nguồn lợi thủy sản; Điều 16.1.LQ.244. Tội vi phạm quy định về bảo vệ động vật nguy cấp, quý, hiếm; Điều 16.1.LQ.245. Tội vi phạm quy định về quản lý khu bảo tồn thiên nhiên; Điều 16.1.LQ.246. Tội nhập khẩu, phát tán các loài ngoại lai xâm hại; Điều 16.1.LQ.305. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vật liệu nổ; Điều 16.1.LQ.311. Tội sản xuất, tàng trữ, vận chuyển, sử dụng hoặc mua bán trái phép chất cháy, chất độc của Bộ luật 100/2015/QH13 Hình sự ban hành ngày 27/11/2015; Điều 37.7.LQ.39. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra)
 
 Điều 37.11.LQ.37. Nhiệm vụ, quyền hạn điều tra của các cơ quan thuộc lực lượng An ninh trong Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003700000000000000000
+1. Trong khi làm nhiệm vụ của mình mà phát hiện sự việc có dấu hiệu tội phạm thuộc thẩm quyền điều tra của Cơ quan An ninh điều tra của Công an nhân dân thì Cục trưởng, Trưởng phòng của các cơ quan an ninh quy định tại khoản 6 Điều 9 của Luật này quyết định khởi tố vụ án hình sự, lấy lời khai, khám nghiệm hiện trường, khám xét, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, chuyển hồ sơ vụ án cho Cơ quan An ninh điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
-**ID:** dk_00063771
+Đội An ninh ở Công an cấp huyện trong khi làm nhiệm vụ của mình mà phát hiện sự việc có dấu hiệu tội phạm thuộc thẩm quyền điều tra của Cơ quan An ninh điều tra Công an cấp tỉnh thì tiến hành ngay việc truy bắt người có hành vi phạm tội chạy trốn, lấy lời khai, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án và báo ngay cho Cơ quan An ninh điều tra Công an cấp tỉnh.
 
----
+2. Cục trưởng, Trưởng phòng quy định tại khoản 1 Điều này trực tiếp tổ chức và chỉ đạo các hoạt động điều tra, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
+Khi Cục trưởng, Trưởng phòng vắng mặt thì một cấp phó được ủy nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
 
-### Điều 37.11.LQ.38. Nhiệm vụ, quyền hạn điều tra của các cơ quan thuộc lực lượng Cảnh sát trong Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+3. Khi được phân công điều tra vụ án hình sự, Phó Cục trưởng, Phó Trưởng phòng có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
+
+4. Cục trưởng, Phó Cục trưởng; Trưởng phòng, Phó Trưởng phòng phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.40. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra)
 
 Điều 37.11.LQ.38. Nhiệm vụ, quyền hạn điều tra của các cơ quan thuộc lực lượng Cảnh sát trong Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003800000000000000000
+1. Trong khi thi hành nhiệm vụ mà phát hiện sự việc có dấu hiệu tội phạm thuộc thẩm quyền điều tra của Cơ quan Cảnh sát điều tra thì Cục trưởng, Giám đốc, Trưởng phòng, Giám thị của các cơ quan Cảnh sát quy định tại khoản 6 Điều 9 của Luật này quyết định khởi tố vụ án hình sự, lấy lời khai, khám nghiệm hiện trường, khám xét, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, chuyển hồ sơ vụ án cho Cơ quan Cảnh sát điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
-**ID:** dk_00063772
+Trường hợp người phạm tội trốn khỏi nơi giam, Giám thị Trại giam ra quyết định truy nã và tổ chức lực lượng truy bắt người bỏ trốn.
 
----
+2. Cục trưởng, Giám đốc, Trưởng phòng, Giám thị quy định tại khoản 1 Điều này trực tiếp tổ chức và chỉ đạo các hoạt động điều tra, quyết định phân công hoặc thay đổi cấp phó trong việc điều tra vụ án hình sự, kiểm tra các hoạt động điều tra, quyết định thay đổi hoặc huỷ bỏ các quyết định không có căn cứ và trái pháp luật của cấp phó, giải quyết khiếu nại, tố cáo theo quy định của Bộ luật tố tụng hình sự.
 
+Khi Cục trưởng, Giám đốc, Trưởng phòng, Giám thị vắng mặt thì một cấp phó được ủy nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
 
-### Điều 37.11.LQ.39. Nhiệm vụ, quyền hạn điều tra của các cơ quan khác trong Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+3. Khi được phân công điều tra vụ án hình sự, Phó Cục trưởng, Phó Giám đốc, Phó Trưởng phòng, Phó Giám thị có quyền áp dụng các biện pháp điều tra quy định tại khoản 1 Điều này.
+
+4. Cục trưởng, Phó Cục trưởng, Giám đốc, Phó Giám đốc, Trưởng phòng, Phó Trưởng phòng, Giám thị, Phó Giám thị Trại giam phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.40. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra)
 
 Điều 37.11.LQ.39. Nhiệm vụ, quyền hạn điều tra của các cơ quan khác trong Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000500003900000000000000000
+1. Giám thị Trại giam trong khi làm nhiệm vụ của mình mà phát hiện sự việc có dấu hiệu tội phạm thuộc thẩm quyền điều tra của Cơ quan điều tra hình sự đến mức phải truy cứu trách nhiệm hình sự thì quyết định khởi tố vụ án hình sự, khám nghiệm hiện trường, lấy lời khai, khám xét, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan trực tiếp đến vụ án, chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
-**ID:** dk_00063773
+Trường hợp người phạm tội trốn khỏi nơi giam, Giám thị Trại giam ra quyết định truy nã và tổ chức lực lượng truy bắt người bỏ trốn.
 
----
+Khi Giám thị Trại giam vắng mặt thì một cấp phó được ủy nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
 
+2. Thủ trưởng đơn vị độc lập cấp trung đoàn và tương đương khi phát hiện những hành vi phạm tội thuộc thẩm quyền điều tra của Cơ quan điều tra trong Quân đội nhân dân, xảy ra trong khu vực đóng quân của đơn vị thì có quyền lập biên bản phạm tội quả tang, lấy lời khai, khám xét, thu giữ, tạm giữ và bảo quản vật chứng, tài liệu liên quan đến hành vi phạm tội, áp dụng biện pháp ngăn chặn theo quy định của Bộ luật tố tụng hình sự, chuyển hồ sơ vụ án cho Cơ quan điều tra có thẩm quyền trong thời hạn 07 ngày, kể từ ngày ra quyết định khởi tố vụ án.
 
-### Điều 37.11.LQ.40. Quan hệ giữa các cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
+Khi Thủ trưởng đơn vị độc lập cấp trung đoàn và tương đương vắng mặt thì một cấp phó được ủy nhiệm thực hiện các quyền hạn của cấp trưởng quy định tại khoản này và phải chịu trách nhiệm trước cấp trưởng và trước pháp luật về nhiệm vụ được giao.
+
+3. Giám thị, Phó Giám thị Trại giam, Thủ trưởng, Phó Thủ trưởng đơn vị độc lập cấp trung đoàn và tương đương phải chịu trách nhiệm trước pháp luật về hành vi và quyết định của mình.
+
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.40. Nhiệm vụ, quyền hạn và trách nhiệm của cấp trưởng, cấp phó, cán bộ điều tra của các cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.164. Nhiệm vụ, quyền hạn của các cơ quan của Bộ đội biên phòng, Hải quan, Kiểm lâm, lực lượng Cảnh sát biển, Kiểm ngư và cơ quan khác của Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra)
+
+Chương VI
+
+QUAN HỆ PHÂN CÔNG VÀ PHỐI HỢP TRONG HOẠT ĐỘNG ĐIỀU TRA HÌNH SỰ
+
+(Chương này có nội dung liên quan đến Điều 37.7.TL.13.2. Đối tượng áp dụng; Điều 37.7.TL.13.4. Nguyên tắc phối hợp; Điều 37.7.TL.13.8. Tạm đình chỉ vụ án trong giai đoạn truy tố; Điều 37.7.TL.13.9. Phục hồi, đình chỉ đối với vụ án đã tạm đình chỉ trong giai đoạn truy tố của Thông tư liên tịch 01/2020/TTLT-VKSNDTC-TANDTC-BCA-BQP-BNN&PTNT-BTC-BTP Quy định phối hợp thực hiện một số điều của bộ luật tố tụng hình sự về quản lý, giải quyết các vụ án, vụ việc tạm đình chỉ ban hành ngày 01/06/2020)
 
 Điều 37.11.LQ.40. Quan hệ giữa các cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000600004000000000000000000
+1. Quan hệ giữa các cơ quan điều tra, giữa Cơ quan điều tra với cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, giữa các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra là quan hệ phân công và phối hợp.
 
-**ID:** dk_00063775
+2. Cơ quan điều tra có trách nhiệm hướng dẫn, chỉ đạo nghiệp vụ điều tra đối với cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra. Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra phải thực hiện yêu cầu bằng văn bản của Cơ quan điều tra.
 
----
+3. Cơ quan điều tra có trách nhiệm tiếp nhận hồ sơ vụ án do cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra chuyển giao theo thẩm quyền và thông báo kết quả giải quyết cho cơ quan đã chuyển giao hồ sơ vụ án.
 
+4. Đối với sự việc có dấu hiệu phạm tội mà chưa xác định rõ thẩm quyền điều tra thì Cơ quan điều tra nào phát hiện trước phải áp dụng ngay các hoạt động điều tra theo quy định của Bộ luật tố tụng hình sự và Luật này; khi đã xác định được thẩm quyền điều tra thì chuyển vụ án cho Cơ quan điều tra có thẩm quyền theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 37.11.LQ.41. Uỷ thác điều tra
+5. Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra sau khi khởi tố vụ án hình sự, áp dụng biện pháp ngăn chặn theo thẩm quyền phải gửi ngay các quyết định đó cho Viện kiểm sát và thông báo cho Cơ quan điều tra có thẩm quyền biết.
 
-*Nội dung chưa có sẵn*
+6. Các đơn vị Cảnh sát nhân dân, An ninh nhân dân, Kiểm soát quân sự có trách nhiệm hỗ trợ và thực hiện yêu cầu của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và của Thủ trưởng, Phó Thủ trưởng cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong hoạt động điều tra.
 
-**Chỉ mục:** 41
+Điều 37.11.LQ.41. Uỷ thác điều tra
 
-**Mã phân cấp:** 3701100000000000600004100000000000000000
+(Điều 41 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**ID:** dk_00063776
+Khi cần thiết, Cơ quan điều tra có thể uỷ thác cho Cơ quan điều tra khác tiến hành một số hoạt động điều tra. Quyết định uỷ thác phải ghi rõ yêu cầu cụ thể. Cơ quan điều tra được uỷ thác có trách nhiệm thực hiện đầy đủ những việc được uỷ thác theo thời hạn mà Cơ quan điều tra uỷ thác yêu cầu.
 
----
-
-
-### Điều 37.11.LQ.42. Quan hệ giữa đơn vị điều tra và đơn vị trinh sát
+Trong trường hợp Cơ quan điều tra được uỷ thác không thể thực hiện được từng phần hoặc toàn bộ những việc uỷ thác thì phải thông báo ngay bằng văn bản và nêu rõ lý do cho Cơ quan điều tra đã uỷ thác biết.
 
 Điều 37.11.LQ.42. Quan hệ giữa đơn vị điều tra và đơn vị trinh sát
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000600004200000000000000000
+1. Quan hệ giữa đơn vị điều tra và đơn vị trinh sát là quan hệ phối hợp, hỗ trợ trong phát hiện, ngăn chặn, điều tra, xử lý và phòng ngừa tội phạm.
 
-**ID:** dk_00063777
+2. Trong quan hệ với đơn vị điều tra, đơn vị trinh sát có trách nhiệm sau đây:
 
----
+a) Áp dụng các biện pháp cần thiết theo quy định của pháp luật để phát hiện hành vi vi phạm pháp luật và cung cấp thông tin cho đơn vị điều tra để điều tra, xử lý;
 
+b) Áp dụng biện pháp nghiệp vụ để hỗ trợ đơn vị điều tra tiến hành hoạt động điều tra, thu thập tài liệu, chứng cứ, ngăn chặn tội phạm và truy bắt người phạm tội;
 
-### Điều 37.11.LQ.43. Trách nhiệm của Thủ trưởng cơ quan Công an, Quân đội các cấp đối với hoạt động điều tra hình sự
+c) Áp dụng các biện pháp cần thiết để phòng ngừa vi phạm pháp luật và tội phạm theo chức năng, nhiệm vụ, quyền hạn được giao;
+
+d) Phát hiện sơ hở, thiếu sót trong quản lý nhà nước, quản lý xã hội, quản lý kinh tế để kiến nghị với cơ quan, tổ chức hữu quan có biện pháp khắc phục;
+
+đ) Áp dụng các biện pháp cần thiết theo quy định của pháp luật để hạn chế, loại trừ nguyên nhân, điều kiện làm phát sinh tội phạm, vi phạm pháp luật.
+
+3. Trong quan hệ với đơn vị trinh sát, đơn vị điều tra có trách nhiệm sau đây:
+
+a) Cung cấp thông tin về tội phạm và người phạm tội cho đơn vị trinh sát để thực hiện chức năng, nhiệm vụ theo quy định tại khoản 2 Điều này;
+
+b) Phối hợp với đơn vị trinh sát đánh giá, xác định những sơ hở, thiếu sót trong quản lý nhà nước, quản lý xã hội, quản lý kinh tế để kiến nghị với cơ quan, tổ chức hữu quan có biện pháp khắc phục;
+
+c) Đánh giá nguyên nhân, điều kiện làm phát sinh tội phạm, phương thức, thủ đoạn phạm tội trong các vụ án hình sự để trao đổi, phối hợp với đơn vị trinh sát thực hiện công tác phòng ngừa, phát hiện tội phạm.
+
+4. Thủ trưởng Cơ quan điều tra quyết định việc áp dụng các biện pháp cần thiết trong phối hợp hoạt động giữa đơn vị điều tra và đơn vị trinh sát trong điều tra vụ án hình sự. Các biện pháp quy định tại khoản 2 và khoản 3 Điều này phải được giữ bí mật theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
 Điều 37.11.LQ.43. Trách nhiệm của Thủ trưởng cơ quan Công an, Quân đội các cấp đối với hoạt động điều tra hình sự
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000600004300000000000000000
+Trong phạm vi nhiệm vụ, quyền hạn của mình, Thủ trưởng cơ quan Công an, Quân đội các cấp có liên quan đến tổ chức, hoạt động điều tra hình sự có trách nhiệm sau đây:
 
-**ID:** dk_00063778
+1. Thực hiện đúng quy định của pháp luật để bảo đảm tính độc lập, khách quan trong quyết định, hành vi tố tụng của Điều tra viên và các chức danh khác trong hoạt động điều tra hình sự;
 
----
+2. Bảo đảm các điều kiện cần thiết về nhân lực, cơ sở vật chất, kỹ thuật, trang thiết bị, kinh phí và điều kiện cần thiết khác cho hoạt động điều tra hình sự;
 
+3. Chỉ đạo, tổ chức các lực lượng phối hợp, hỗ trợ cho hoạt động điều tra hình sự;
 
-### Điều 37.11.LQ.44. Trách nhiệm của Công an xã, phường, thị trấn, Đồn Công an
+4. Tiến hành các hoạt động, biện pháp theo quy định của Luật Công an nhân dân, Luật An ninh quốc gia và pháp luật khác có liên quan để thu thập thông tin, tài liệu cần thiết hỗ trợ cho hoạt động điều tra hình sự;
+
+5. Tổ chức lực lượng hỗ trợ các cơ quan tiến hành tố tụng trong áp dụng các biện pháp ngăn chặn, thu thập chứng cứ và bảo vệ các hoạt động tố tụng hình sự;
+
+6. Tiến hành các biện pháp theo quy định của pháp luật để ngăn ngừa các hành vi cản trở, làm sai lệch kết quả điều tra, xử lý vụ án hình sự.
 
 Điều 37.11.LQ.44. Trách nhiệm của Công an xã, phường, thị trấn, Đồn Công an
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 2 Luật số 02/2021/QH15 có hiệu lực thi hành kể từ ngày 01/12/2021)
 
-**Mã phân cấp:** 3701100000000000600004400000000000000000
+1. Công an xã, phường, thị trấn, Đồn Công an có trách nhiệm tiếp nhận tố giác, tin báo về tội phạm, lập biên bản tiếp nhận, tiến hành kiểm tra, xác minh sơ bộ và chuyển ngay tố giác, tin báo về tội phạm kèm theo các tài liệu, đồ vật có liên quan cho Cơ quan điều tra có thẩm quyền.
 
-**ID:** dk_00063779
+2. Trường hợp Công an xã, phường, thị trấn, Đồn Công an phát hiện, bắt giữ, tiếp nhận người phạm tội quả tang, người đang bị truy nã thì thu giữ, tạm giữ vũ khí, hung khí và bảo quản tài liệu, đồ vật có liên quan, lập biên bản bắt người, lấy lời khai ban đầu, bảo vệ hiện trường theo quy định của pháp luật; giải ngay người bị bắt lên cơ quan Công an cấp trên trực tiếp hoặc báo ngay cho Cơ quan điều tra có thẩm quyền.
 
----
+Chương VII
 
+THỦ TRƯỞNG, PHÓ THỦ TRƯỞNG CƠ QUAN ĐIỀU TRA, ĐIỀU TRA VIÊN VÀ CÁN BỘ ĐIỀU TRA
 
-### Điều 37.11.LQ.45. Điều tra viên
+Điều 37.11.LQ.45. Điều tra viên
 
-*Nội dung chưa có sẵn*
+(Điều 45 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Chỉ mục:** 45
+1. Điều tra viên là người được bổ nhiệm để làm nhiệm vụ điều tra hình sự.
 
-**Mã phân cấp:** 3701100000000000700004500000000000000000
+2. Điều tra viên gồm có các ngạch sau đây:
 
-**ID:** dk_00063781
+a) Điều tra viên sơ cấp;
 
----
+b) Điều tra viên trung cấp;
 
+c) Điều tra viên cao cấp.
 
-### Điều 37.11.TT.1.4. Điều tra viên
+Điều 37.11.TT.1.4. Điều tra viên
 
-*Nội dung chưa có sẵn*
+(Điều 4 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Chỉ mục:** 4
+1. Điều tra viên là người được cơ quan có thẩm quyền bổ nhiệm để làm nhiệm vụ điều tra hình sự.
 
-**Mã phân cấp:** 370110000000000070000450000000000000000000802639502990000400
+2. Điều tra viên gồm các ngạch sau đây:
 
-**ID:** dk_00063782
+a) Điều tra viên sơ cấp;
 
----
+b) Điều tra viên trung cấp;
 
-
-### Điều 37.11.LQ.46. Tiêu chuẩn chung của Điều tra viên
+c) Điều tra viên cao cấp.
 
 Điều 37.11.LQ.46. Tiêu chuẩn chung của Điều tra viên
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700004600000000000000000
+1. Là công dân Việt Nam trung thành với Tổ quốc và Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, có phẩm chất đạo đức tốt, liêm khiết, trung thực, bản lĩnh chính trị vững vàng, có tinh thần kiên quyết bảo vệ pháp chế xã hội chủ nghĩa.
 
-**ID:** dk_00063783
+2. Có trình độ đại học An ninh, đại học Cảnh sát hoặc cử nhân luật trở lên.
 
----
+3. Có thời gian làm công tác pháp luật theo quy định của Luật này.
 
+4. Đã được đào tạo về nghiệp vụ điều tra.
 
-### Điều 37.11.TT.1.5. Tiêu chuẩn Điều tra viên
+5. Có sức khỏe bảo đảm hoàn thành nhiệm vụ được giao.
 
-*Nội dung chưa có sẵn*
+Điều 37.11.TT.1.5. Tiêu chuẩn Điều tra viên
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000460000000000000000000802639502990000500
+1. Là sĩ quan Quân đội nhân dân Việt Nam đang tại ngũ, có tinh thần kiên quyết bảo vệ pháp chế xã hội chủ nghĩa.
 
-**ID:** dk_00063784
+2. Có trình độ đại học An ninh, đại học Cảnh sát hoặc cử nhân luật trở lên.
 
----
+3. Có thời gian làm công tác pháp luật theo quy định của Luật tổ chức Cơ quan Điều tra hình sự.
 
+4. Đã được đào tạo, bồi dưỡng về nghiệp vụ điều tra.
 
-### Điều 37.11.LQ.47. Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp
+5. Có sức khỏe bảo đảm hoàn thành nhiệm vụ được giao.
 
 Điều 37.11.LQ.47. Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700004700000000000000000
+Người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này, là sĩ quan Công an nhân dân tại ngũ, sĩ quan Quân đội nhân dân tại ngũ, cán bộ Viện kiểm sát nhân dân và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên sơ cấp:
 
-**ID:** dk_00063785
+1. Có thời gian làm công tác pháp luật từ 04 năm trở lên;
 
----
+2. Có năng lực điều tra các vụ án thuộc loại tội ít nghiêm trọng, nghiêm trọng;
 
-
-### Điều 37.11.TT.1.6. Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp
+3. Đã trúng tuyển kỳ thi vào ngạch Điều tra viên sơ cấp.
 
 Điều 37.11.TT.1.6. Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000470000000000000000000802639502990000600
+Người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên sơ cấp:
 
-**ID:** dk_00063786
+1. Có thời gian làm công tác pháp luật từ 04 năm trở lên.
 
----
+2. Có năng lực điều tra các vụ án thuộc loại tội ít nghiêm trọng, nghiêm trọng.
 
-
-### Điều 37.11.LQ.48. Tiêu chuẩn bổ nhiệm Điều tra viên trung cấp
+3. Đã trúng tuyển kỳ thi vào ngạch Điều tra viên sơ cấp.
 
 Điều 37.11.LQ.48. Tiêu chuẩn bổ nhiệm Điều tra viên trung cấp
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700004800000000000000000
+1. Người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên trung cấp:
 
-**ID:** dk_00063787
+a) Đã là Điều tra viên sơ cấp ít nhất là 05 năm;
 
----
+b) Có năng lực điều tra các vụ án thuộc loại tội rất nghiêm trọng, đặc biệt nghiêm trọng;
 
+c) Có khả năng hướng dẫn các hoạt động điều tra của Điều tra viên sơ cấp;
 
-### Điều 37.11.TT.1.7. Tiêu chuẩn bổ nhiệm Điều tra viên trung cấp
+d) Đã trúng tuyển kỳ thi vào ngạch Điều tra viên trung cấp.
+
+2. Trường hợp do nhu cầu cán bộ của Cơ quan điều tra, người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này, các điểm b, c và d khoản 1 Điều này, đã có thời gian làm công tác pháp luật từ 09 năm trở lên thì có thể được bổ nhiệm làm Điều tra viên trung cấp.
 
 Điều 37.11.TT.1.7. Tiêu chuẩn bổ nhiệm Điều tra viên trung cấp
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000480000000000000000000802639502990000700
+1. Người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên trung cấp:
 
-**ID:** dk_00063788
+a) Đã là Điều tra viên sơ cấp ít nhất là 05 năm;
 
----
+b) Có năng lực điều tra các vụ án thuộc loại tội rất nghiêm trọng, đặc biệt nghiêm trọng;
 
+c) Có khả năng hướng dẫn các hoạt động điều tra của Điều tra viên sơ cấp;
 
-### Điều 37.11.LQ.49. Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp
+d) Đã trúng tuyển kỳ thi vào ngạch Điều tra viên trung cấp.
+
+2. Trường hợp người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này và các điểm b, c, d khoản 1 Điều này, đã có thời gian làm công tác pháp luật từ 09 năm trở lên và nhu cầu cán bộ của Cơ quan điều tra, thì có thể được bổ nhiệm làm Điều tra viên trung cấp.
 
 Điều 37.11.LQ.49. Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700004900000000000000000
+1. Người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên cao cấp:
 
-**ID:** dk_00063789
+a) Đã là Điều tra viên trung cấp ít nhất 05 năm;
 
----
+b) Có năng lực điều tra các vụ án thuộc loại tội phạm rất nghiêm trọng, đặc biệt nghiêm trọng, phức tạp;
 
+c) Có khả năng nghiên cứu, tổng hợp, đề xuất biện pháp phòng, chống tội phạm;
 
-### Điều 37.11.TT.1.8. Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp
+d) Có khả năng hướng dẫn các hoạt động điều tra của Điều tra viên sơ cấp, Điều tra viên trung cấp;
+
+đ) Đã trúng tuyển kỳ thi vào ngạch Điều tra viên cao cấp.
+
+2. Trong trường hợp do nhu cầu cán bộ của Cơ quan điều tra, người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này, các điểm b, c, d và đ khoản 1 Điều này, đã có thời gian làm công tác pháp luật từ 14 năm trở lên thì có thể được bổ nhiệm làm Điều tra viên cao cấp.
 
 Điều 37.11.TT.1.8. Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000490000000000000000000802639502990000800
+1. Người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên cao cấp:
 
-**ID:** dk_00063790
+a) Đã là Điều tra viên trung cấp ít nhất là 05 năm;
 
----
+b) Có năng lực điều tra các vụ án thuộc loại tội rất nghiêm trọng, đặc biệt nghiêm trọng, phức tạp;
 
+c) Có khả năng nghiên cứu, tổng hợp, đề xuất biện pháp phòng, chống tội phạm;
 
-### Điều 37.11.LQ.50. Bổ nhiệm Điều tra viên trong trường hợp đặc biệt
+d) Có khả năng hướng dẫn các hoạt động điều tra của Điều tra viên sơ cấp, Điều tra viên trung cấp;
+
+đ) Đã trúng tuyển kỳ thi vào ngạch Điều tra viên cao cấp.
+
+2. Trường hợp người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này và các điểm b, c, d và điểm đ khoản 1 Điều này, đã có thời gian làm công tác pháp luật từ 14 năm trở lên và nhu cầu cán bộ của Cơ quan điều tra, thì có thể được bổ nhiệm làm Điều tra viên cao cấp.
 
 Điều 37.11.LQ.50. Bổ nhiệm Điều tra viên trong trường hợp đặc biệt
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005000000000000000000
-
-**ID:** dk_00063791
-
----
-
-
-### Điều 37.11.TT.1.9. Bổ nhiệm Điều tra viên trong trường hợp đặc biệt
+Trong trường hợp đặc biệt, người được cơ quan, tổ chức có thẩm quyền điều động đến công tác tại Cơ quan điều tra, tuy chưa được đào tạo về nghiệp vụ điều tra, chưa đủ thời gian quy định tại điểm a khoản 1 các điều 48 và 49 của Luật này, nhưng có đủ các tiêu chuẩn khác được quy định tại các khoản 1, 2 và 5 Điều 46, điểm b và điểm c khoản 1 Điều 48, các điểm b, c và d khoản 1 Điều 49 của Luật này thì có thể được bổ nhiệm làm Điều tra viên trung cấp, Điều tra viên cao cấp.
 
 Điều 37.11.TT.1.9. Bổ nhiệm Điều tra viên trong trường hợp đặc biệt
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000500000000000000000000802639502990000900
+1. Trong trường hợp đặc biệt, sĩ quan được điều động đến công tác tại Cơ quan điều tra, tuy chưa được đào tạo về nghiệp vụ điều tra, chưa đủ thời gian quy định tại điểm a khoản 1 Điều 7, điểm a khoản 1 Điều 8 Thông tư này, nhưng có đủ các tiêu chuẩn quy định tại các khoản 1, 2, 5 Điều 5, các điểm b, c khoản 1 Điều 7, các điểm b, c, d Khoản 1 Điều 8 Thông tư này thì có thể được bổ nhiệm làm Điều tra viên trung cấp, Điều tra viên cao cấp.
 
-**ID:** dk_00063792
+2. Cơ quan Điều tra xem xét, đề nghị bổ nhiệm lại đối với Điều tra viên được kéo dài tuổi phục vụ tại ngũ nhưng đã hết thời hạn làm Điều tra viên theo quyết định bổ nhiệm.
 
----
+Điều 37.11.LQ.51. Nhiệm kỳ của Điều tra viên
 
+(Điều 51 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 37.11.LQ.51. Nhiệm kỳ của Điều tra viên
+Điều tra viên được bổ nhiệm lần đầu có thời hạn là 05 năm; trường hợp được bổ nhiệm lại hoặc nâng ngạch thì thời hạn là 10 năm.
 
-*Nội dung chưa có sẵn*
+Điều 37.11.TT.1.10. Nhiệm kỳ của Điều tra viên
 
-**Chỉ mục:** 51
+(Điều 10 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005100000000000000000
+1. Điều tra viên được bổ nhiệm lần đầu có thời hạn là 05 năm;
 
-**ID:** dk_00063793
-
----
-
-
-### Điều 37.11.TT.1.10. Nhiệm kỳ của Điều tra viên
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 370110000000000070000510000000000000000000802639502990001000
-
-**ID:** dk_00063794
-
----
-
-
-### Điều 37.11.LQ.52. Nhiệm vụ, quyền hạn và trách nhiệm của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra
+2. Điều tra viên được bổ nhiệm lại hoặc nâng ngạch thì thời hạn là 10 năm.
 
 Điều 37.11.LQ.52. Nhiệm vụ, quyền hạn và trách nhiệm của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005200000000000000000
+1. Thủ trưởng Cơ quan điều tra có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00063795
+a) Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định các vấn đề về công tác của Cơ quan điều tra do mình làm Thủ trưởng; chịu trách nhiệm và báo cáo công tác trước Thủ trưởng Cơ quan điều tra cấp trên;
 
----
+b) Chỉ đạo, tổ chức thực hiện việc tổng kết công tác điều tra hình sự của Cơ quan điều tra do mình làm Thủ trưởng và Cơ quan điều tra cấp dưới;
 
+c) Chỉ đạo, hướng dẫn, kiểm tra hoạt động nghiệp vụ điều tra của Cơ quan điều tra cấp dưới;
 
-### Điều 37.11.LQ.53. Nhiệm vụ, quyền hạn và trách nhiệm của Điều tra viên
+d) Quyết định phân công Phó Thủ trưởng Cơ quan điều tra, Điều tra viên, Cán bộ điều tra trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và điều tra vụ án hình sự; kiểm tra các hoạt động giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và điều tra của Phó Thủ trưởng Cơ quan điều tra và Điều tra viên;
+
+đ) Quyết định thay đổi hoặchủy bỏ các quyết định không có căn cứ và trái pháp luật của Phó Thủ trưởng Cơ quan điều tra và Điều tra viên; quyết định thay đổi Điều tra viên;
+
+e) Giải quyết khiếu nại, tố cáo thuộc thẩm quyền của Cơ quan điều tra;
+
+g) Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+Khi Thủ trưởng Cơ quan điều tra vắng mặt, một Phó Thủ trưởng Cơ quan điều tra được Thủ trưởng ủy nhiệm thực hiện nhiệm vụ, quyền hạn của Thủ trưởng. Phó Thủ trưởng chịu trách nhiệm trước Thủ trưởng về nhiệm vụ được ủy nhiệm.
+
+2. Khi điều tra vụ án hình sự, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra thực hiện nhiệm vụ và quyền hạn theo quy định của Bộ luật tố tụng hình sự.
+
+3. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra phải chịu trách nhiệm trước pháp luật về những hành vi và quyết định của mình.
 
 Điều 37.11.LQ.53. Nhiệm vụ, quyền hạn và trách nhiệm của Điều tra viên
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005300000000000000000
+1. Điều tra viên được tiến hành các hoạt động kiểm tra, xác minh và các hoạt động điều tra thuộc thẩm quyền của Cơ quan điều tra theo sự phân công của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra.
 
-**ID:** dk_00063796
+2. Điều tra viên thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự khi được phân công giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và điều tra vụ án hình sự.
 
----
+3. Điều tra viên có trách nhiệm sau đây:
 
+a) Áp dụng các biện pháp theo quy định của Bộ luật tố tụng hình sự và pháp luật khác có liên quan để điều tra, xác định sự thật vụ án một cách khách quan, toàn diện, đầy đủ;
 
-### Điều 37.11.LQ.54. Những việc Điều tra viên không được làm
+b) Tuân theo pháp luật và chịu sự chỉ đạo trực tiếp của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra;
+
+c) Từ chối tiến hành tố tụng hoặc bị thay đổi trong các trường hợp do Bộ luật tố tụng hình sự quy định;
+
+d) Chấp hành quy định của pháp luật về những việc cán bộ, công chức hoặc cán bộ, chiến sĩ lực lượng vũ trang nhân dân không được làm.
+
+4. Điều tra viên chịu trách nhiệm trước pháp luật và trước Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra về hành vi, quyết định của mình.
 
 Điều 37.11.LQ.54. Những việc Điều tra viên không được làm
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005400000000000000000
+1. Những việc mà pháp luật quy định cán bộ, công chức hoặc cán bộ, chiến sĩ lực lượng vũ trang nhân dân không được làm.
 
-**ID:** dk_00063797
+2. Tư vấn cho người bị bắt, người bị tạm giữ, bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác làm cho việc giải quyết vụ án, vụ việc không đúng quy định của pháp luật.
 
----
+3. Can thiệp vào việc giải quyết vụ án, vụ việc hoặc lợi dụng ảnh hưởng của mình tác động đến người có trách nhiệm giải quyết vụ án, vụ việc.
 
+4. Đưa hồ sơ, tài liệu vụ án, vụ việc ra khỏi cơ quan nếu không vì nhiệm vụ được giao hoặc không được sự đồng ý của người có thẩm quyền.
 
-### Điều 37.11.LQ.55. Hội đồng thi tuyển Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp
+5. Tiếp bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác trong vụ án, vụ việc mà mình có thẩm quyền giải quyết ngoài nơi quy định.
 
 Điều 37.11.LQ.55. Hội đồng thi tuyển Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005500000000000000000
+1. Hội đồng thi tuyển Điều tra viên cao cấp, Điều tra viên trung cấp và Điều tra viên sơ cấp trong Công an nhân dân được quy định như sau:
 
-**ID:** dk_00063798
+a) Hội đồng thi tuyển Điều tra viên cao cấp trong Công an nhân dân và Điều tra viên trung cấp, Điều tra viên sơ cấp ở các Cơ quan điều tra Bộ Công an gồm có Chủ tịch là Thứ trưởng Bộ Công an do Bộ trưởng Bộ Công an chỉ định; các ủy viên là đại diện lãnh đạo Tổng cục Chính trị Công an nhân dân, đại diện lãnh đạo Cơ quan Cảnh sát điều tra, Cơ quan An ninh điều tra, Cục Tổ chức Cán bộ và Cục Pháp chế và cải cách hành chính, tư pháp Bộ Công an;
 
----
+b) Hội đồng thi tuyển Điều tra viên trung cấp, Điều tra viên sơ cấp ở Cơ quan điều tra Công an cấp tỉnh và Cơ quan Cảnh sát điều tra Công an cấp huyện gồm có Chủ tịch là Giám đốc Công an cấp tỉnh; các ủy viên là đại diện lãnh đạo Cơ quan Cảnh sát điều tra, Cơ quan An ninh điều tra, Phòng Tổ chức Cán bộ và Phòng Pháp chế và cải cách hành chính, tư pháp hoặc Phòng Tham mưu Công an cấp tỉnh;
 
+c) Danh sách uỷ viên Hội đồng thi tuyển Điều tra viên trong Công an nhân dân do Bộ trưởng Bộ Công an quyết định theo đề nghị của Chủ tịch Hội đồng thi tuyển.
 
-### Điều 37.11.LQ.56. Bổ nhiệm, miễn nhiệm, cách chức Điều tra viên
+2. Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân gồm có Chủ tịch là Thứ trưởng Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng chỉ định; các ủy viên là đại diện lãnh đạo Tổng cục Chính trị Quân đội nhân dân Việt Nam, đại diện lãnh đạo Cơ quan điều tra hình sự, Cơ quan An ninh điều tra, Cục Cán bộ và Vụ Pháp chế Bộ Quốc phòng.
+
+Danh sách uỷ viên Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân do Bộ trưởng Bộ Quốc phòng quyết định theo đề nghị của Chủ tịch Hội đồng thi tuyển.
+
+3. Hội đồng thi tuyển Điều tra viên ở Viện kiểm sát nhân dân tối cao gồm có Chủ tịch là Phó Viện trưởng Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao chỉ định; các ủy viên là đại diện Uỷ ban kiểm sát Viện kiểm sát nhân dân tối cao, đại diện lãnh đạo Viện kiểm sát quân sự Trung ương, Cơ quan điều tra và Vụ Tổ chức Cán bộ Viện kiểm sát nhân dân tối cao.
+
+Danh sách uỷ viên Hội đồng thi tuyển Điều tra viên ở Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Chủ tịch Hội đồng thi tuyển.
+
+4. Hội đồng thi tuyển Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp có nhiệm vụ, quyền hạn sau đây:
+
+a) Tổ chức thi tuyển Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp;
+
+b) Công bố danh sách những người trúng tuyển;
+
+c) Đề nghị cấp có thẩm quyền bổ nhiệm người đã trúng tuyển làm Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp.
+
+5. Quy chế làm việc của Hội đồng thi tuyển Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp thuộc Công an nhân dân do Bộ trưởng Bộ Công an quy định, thuộc Quân đội nhân dân do Bộ trưởng Bộ Quốc phòng quy định, thuộc Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.
 
 Điều 37.11.LQ.56. Bổ nhiệm, miễn nhiệm, cách chức Điều tra viên
 
-**Chỉ mục:** 56
+(Điều 56 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005600000000000000000
+1. Việc bổ nhiệm, miễn nhiệm, cách chức và cấp, thu hồi Giấy chứng nhận Điều tra viên trong Công an nhân dân do Bộ trưởng Bộ Công an quy định, trong Quân đội nhân dân do Bộ trưởng Bộ Quốc phòng quy định, trong Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.
 
-**ID:** dk_00063799
+2. Điều tra viên đương nhiên được miễn nhiệm chức danh Điều tra viên khi nghỉ hưu, chuyển công tác khác.
 
----
+Điều tra viên có thể được miễn nhiệm chức danh Điều tra viên vì lý do sức khoẻ, hoàn cảnh gia đình hoặc vì lý do khác mà xét thấy không thể bảo đảm hoàn thành nhiệm vụ được giao.
 
+3. Điều tra viên đương nhiên bị mất chức danh Điều tra viên khi bị kết tội bằng bản án của Tòa án đã có hiệu lực pháp luật hoặc bị kỷ luật bằng hình thức tước danh hiệu Công an nhân dân, tước quân hàm sĩ quan Quân đội nhân dân, buộc thôi việc.
 
-### Điều 37.11.LQ.57. Bổ nhiệm, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra
+4. Tùy theo tính chất và mức độ vi phạm, Điều tra viên có thể bị cách chức chức danh Điều tra viên nếu thuộc một trong các trường hợp sau đây:
+
+a) Vi phạm trong công tác điều tra vụ án hình sự;
+
+b) Vi phạm quy định tại Điều 14 của Luật này;
+
+c) Bị kỷ luật bằng hình thức cách chức theo quy định của pháp luật về cán bộ, công chức;
+
+d) Vi phạm về phẩm chất đạo đức.
 
 Điều 37.11.LQ.57. Bổ nhiệm, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005700000000000000000
+1. Điều tra viên cao cấp hoặc Điều tra viên trung cấp có năng lực tổ chức, chỉ đạo hoạt động điều tra thì có thể được bổ nhiệm làm Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra.
 
-**ID:** dk_00063800
-
----
-
-
-### Điều 37.11.TT.1.12. Bổ nhiệm Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra
+2. Việc bổ nhiệm, miễn nhiệm, cách chức và cấp, thu hồi Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra trong Công an nhân dân do Bộ trưởng Bộ Công an quy định, trong Quân đội nhân dân do Bộ trưởng Bộ Quốc phòng quy định, trong Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.
 
 Điều 37.11.TT.1.12. Bổ nhiệm Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001200
+1. Tiêu chuẩn:
 
-**ID:** dk_00063801
+a) Là Điều tra viên cao cấp hoặc Điều tra viên trung cấp;
 
----
+b) Có năng lực tổ chức, chỉ đạo hoạt động điều tra;
 
+c) Đã được bổ nhiệm các chức vụ chỉ huy, quản lý về hành chính quân sự của Cơ quan Điều tra các cấp.
 
-### Điều 37.11.TT.1.13. Thẩm quyền bổ nhiệm, miễn nhiệm, cách chức
+2. Đối tượng bổ nhiệm:
+
+a) Cục trưởng, Phó Cục trưởng Cục Điều tra hình sự Bộ Quốc phòng được đề nghị xét bổ nhiệm làm Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra hình sự Bộ Quốc phòng;
+
+b) Cục trưởng, Phó Cục trưởng Cục Bảo vệ An ninh Quân đội được đề nghị xét bổ nhiệm làm Thủ trưởng, Phó Thủ trưởng Cơ quan An ninh điều tra Bộ Quốc phòng;
+
+c) Trưởng phòng, Phó Trưởng phòng Điều tra hình sự cấp quân khu và tương đương được đề nghị xét bổ nhiệm làm Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra hình sự cấp quân khu và tương đương;
+
+d) Trưởng phòng, Phó Trưởng phòng Bảo vệ An ninh quân khu, quân chủng, Bộ đội Biên phòng và Phòng An ninh điều tra khối binh chủng, quân đoàn, tổng cục thuộc Cục Bảo vệ an ninh Quân đội được đề nghị xét bổ nhiệm làm Thủ trưởng, Phó Thủ trưởng Cơ quan An ninh điều tra quân khu, quân chủng, Bộ đội Biên phòng và Phòng An ninh điều tra khối binh chủng, quân đoàn, tổng cục thuộc Cục Bảo vệ an ninh Quân đội;
+
+đ) Trưởng Cơ quan, Phó Trưởng Cơ quan Điều tra hình sự khu vực được đề nghị xét bổ nhiệm làm Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra hình sự khu vực.
 
 Điều 37.11.TT.1.13. Thẩm quyền bổ nhiệm, miễn nhiệm, cách chức
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001300
+1. Bộ trưởng Bộ Quốc phòng quyết định bổ nhiệm, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra các cấp.
 
-**ID:** dk_00063802
-
----
-
-
-### Điều 37.11.TT.1.14. Miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
+2. Bộ trưởng Bộ Quốc phòng ủy quyền cho Thứ trưởng Bộ Quốc phòng quyết định bổ nhiệm, miễn nhiệm, cách chức Điều tra viên cao cấp, Điều tra viên trung cấp, Điều tra viên sơ cấp và Cán bộ điều tra.
 
 Điều 37.11.TT.1.14. Miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001400
+1. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên, Cán bộ điều tra có thể được miễn nhiệm chức danh vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do khác mà xét thấy không thể hoàn thành nhiệm vụ.
 
-**ID:** dk_00063803
+2. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên, Cán bộ điều tra đương nhiên được miễn nhiệm chức danh khi nghỉ hưu hoặc chuyển công tác khác; đương nhiên bị mất chức danh khi bị kết tội bằng bản án của Tòa án đã có hiệu lực pháp luật hoặc bị kỷ luật bằng hình thức tước quân hàm sĩ quan Quân đội nhân dân.
 
----
+3. Tùy theo tính chất và mức độ vi phạm, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên, Cán bộ điều tra có thể bị cách chức danh nếu thuộc một trong các trường hợp sau đây:
 
+a) Vi phạm trong công tác điều tra vụ án hình sự;
 
-### Điều 37.11.TT.1.15. Quy trình xét bổ nhiệm
+b) Vi phạm quy định tại Điều 14 Luật Tổ chức cơ quan điều tra bình sự;
 
-*Nội dung chưa có sẵn*
+c) Bị kỷ luật bằng hình thức cách chức, giáng chức;
 
-**Chỉ mục:** 15
+d) Vi phạm về phẩm chất đạo đức.
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001500
+Điều 37.11.TT.1.15. Quy trình xét bổ nhiệm
 
-**ID:** dk_00063804
+(Điều 15 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
----
+1. Trình tự, thủ tục bổ nhiệm
 
+a) Cơ quan Điều tra cấp quân khu và tương đương lập danh sách thông qua cấp ủy Cơ quan điều tra xét đề nghị;
 
-### Điều 37.11.TT.1.16. Hồ sơ đề nghị bổ nhiệm
+b) Cơ quan Điều tra cấp quân khu và tương đương báo cáo, xin ý kiến Cơ quan Điều tra Bộ Quốc phòng;
 
-*Nội dung chưa có sẵn*
+c) Sau khi có ý kiến của Cơ quan Điều tra Bộ Quốc phòng, Cơ quan Điều tra cấp quân khu và tương đương chuyển danh sách đến Phòng Cán bộ cấp quân khu và tương đương xem xét thẩm định thống nhất danh sách đề nghị bổ nhiệm;
 
-**Chỉ mục:** 16
+d) Phòng Cán bộ cấp quân khu và tương đương lập bản khai tóm tắt lý lịch (T63) đối với từng trường hợp, danh sách tổng hợp trích ngang cán bộ (DS84) và chuyển lại cho Cơ quan Điều tra trình Thường vụ Đảng ủy Quân khu và tương đương xem xét, quyết định;
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001600
+đ) Cơ quan Điều tra hoàn chỉnh hồ sơ, kèm theo công văn đề nghị của Thủ trưởng đơn vị trực thuộc Bộ Quốc phòng gửi về Cơ quan thường trực Hội đồng thi tuyển Điều tra viên (Cục Điều tra hình sự Bộ Quốc phòng) tổng hợp, thẩm định hồ sơ báo cáo Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân xem xét, đề nghị bổ nhiệm, bổ nhiệm lại Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra, Điều tra viên và Cán bộ điều tra.
 
-**ID:** dk_00063805
+2. Thời hạn nộp hồ sơ, công văn đề nghị bổ nhiệm
 
----
+a) Đợt 1 gửi trước ngày 05 tháng 4 hằng năm;
 
+b) Đợt 2 gửi trước ngày 05 tháng 10 hằng năm.
 
-### Điều 37.11.TT.1.17. Hồ sơ trình Bộ Quốc phòng đề nghị bổ nhiệm
+Điều 37.11.TT.1.16. Hồ sơ đề nghị bổ nhiệm
+
+(Điều 16 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
+
+1. Hồ sơ đề nghị bổ nhiệm lần đầu, gồm:
+
+a) Công văn đề nghị của Thủ trưởng đơn vị trực thuộc Bộ Quốc phòng;
+
+b) Bản tóm tắt lý lịch (T63) do Cơ quan cán bộ trích;
+
+c) Danh sách trích ngang cán bộ (DS84) do Cơ quan Điều tra quân khu và tương đương lập, có xác nhận của Thủ trưởng Cơ quan điều tra và Trưởng phòng cán bộ;
+
+d) Bản sao công chứng các văn bằng, chứng chỉ có liên quan; bản phô tô các quyết định bổ nhiệm, điều động cán bộ, Giấy chứng nhận Điều tra viên (trừ trường hợp bổ nhiệm lần đầu Điều tra viên sơ cấp và Cán bộ điều tra);
+
+đ) 04 ảnh chân dung (2 x 3) mặc quân phục thường dùng, không đội mũ.
+
+2. Hồ sơ đề nghị bổ nhiệm lại Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên các cấp, gồm:
+
+a) Công văn đề nghị của Thủ trưởng đơn vị trực thuộc Bộ Quốc phòng;
+
+b) Danh sách trích ngang cán bộ (DS84) do Cơ quan Điều tra quân khu và tương đương lập, có xác nhận của Thủ trưởng Cơ quan điều tra và Trưởng phòng cán bộ;
+
+c) Bản phô tô Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra, Điều tra viên các cấp, bản sao công chứng các văn bằng, chứng chỉ bổ sung có liên quan;
+
+d) 04 ảnh chân dung (2 x 3) mặc quân phục thường dùng, không đội mũ;
+
+đ) Quyết định kéo dài tuổi phục vụ tại ngũ của sĩ quan (nếu có).
 
 Điều 37.11.TT.1.17. Hồ sơ trình Bộ Quốc phòng đề nghị bổ nhiệm
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001700
+1. Công văn đề nghị của Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân kèm theo danh sách trích ngang cán bộ được đề nghị bổ nhiệm.
 
-**ID:** dk_00063806
-
----
-
-
-### Điều 37.11.TT.1.18. Quy trình và hồ sơ miễn nhiệm, cách chức
+2. Báo cáo tóm tắt số lượng nhu cầu, thừa, thiếu các chức danh Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
 Điều 37.11.TT.1.18. Quy trình và hồ sơ miễn nhiệm, cách chức
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990001800
+1. Quy trình xét miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra thực hiện như bổ nhiệm.
 
-**ID:** dk_00063807
+2. Hồ sơ gồm:
 
----
+a) Công văn đề nghị của Thủ trưởng đơn vị trực thuộc Bộ Quốc phòng;
 
+b) Bản tóm tắt lý lịch (T63) do Cơ quan cán bộ trích;
 
-### Điều 37.11.TT.1.23. Giấy chứng nhận
+c) Danh sách trích ngang cán bộ (DS84) do Cơ quan điều tra cấp quân khu và tương đương lập có xác nhận của Thủ trưởng Cơ quan điều tra và Trưởng phòng cán bộ;
 
-*Nội dung chưa có sẵn*
+d) Đối với trường hợp đề nghị cách chức, công văn đề nghị kèm theo báo cáo của Cơ quan Điều tra ghi rõ kết luận tính chất, mức độ vi phạm quy định tại các điểm a, b, c, d khoản 3 Điều 14 Thông tư này.
 
-**Chỉ mục:** 23
+3. Trường hợp Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra đương nhiên được miễn nhiệm Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra báo cáo danh sách, lý do miễn nhiệm về Cơ quan Điều tra Bộ Quốc phòng.
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990002300
+Điều 37.11.TT.1.23. Giấy chứng nhận
 
-**ID:** dk_00063808
+(Điều 23 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
----
+1. Hình dáng, kích thước: Hình chữ nhật, rộng 65mm, dài 90 mm.
 
+2. Mặt trước:
 
-### Điều 37.11.TT.1.24. Cấp giấy chứng nhận
+a) Nền màu vàng nhạt, ở giữa có hình quân hiệu, vân tia chìm, màu trắng. Đối với Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra Bộ Quốc phòng có một đường gạch chéo màu đỏ, rộng 6mm, chạy từ góc dưới bên trái lên góc trên bên phải, ở giữa vạch chéo màu đỏ, có 03 ngôi sao năm cánh, màu vàng; Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra cấp quân khu và tương đương ở giữa vạch chéo màu đỏ có 02 ngôi sao năm cánh, màu vàng; Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra hình sự khu vực ở giữa vạch chéo màu đỏ có 01 ngôi sao năm cánh, màu vàng;
 
-*Nội dung chưa có sẵn*
+b) Font chữ Times New Roman; phía trên cùng, ở giữa sang bên phải là dòng chữ: “CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM” dòng tiếp “ Độc lập - Tự do - Hạnh phúc” (cỡ chữ 8); tiếp dòng dưới là: “GIẤY CHỨNG NHẬN” (chữ in hoa, đậm, màu đỏ, cỡ chữ 9), tiếp xuống dòng dưới là số giấy chứng nhận: Số.... (cỡ chữ 7, in nghiêng, đậm);
 
-**Chỉ mục:** 24
+c) Thông tin 03 dòng tiếp gồm: Họ và tên (chữ in đậm); năm sinh, số chứng minh quân nhân; chức vụ ghi theo chức danh, gồm một trong các chức danh: Thủ trưởng Cơ quan điều tra, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên cao cấp, Điều tra viên trung cấp, Điều tra viên sơ cấp, Cán bộ điều tra (chữ in thường, cỡ chữ 8);
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990002400
+d) Cơ quan Điều tra, gồm: Cơ quan Điều tra hình sự Bộ Quốc phòng; Cơ quan Điều tra hình sự cấp quân khu và tương đương, Cơ quan Điều tra hình sự khu vực, Cơ quan An ninh điều tra Bộ Quốc phòng, Cơ quan An ninh điều tra quân khu, quân chủng, Bộ đội Biên phòng và Phòng An ninh điều tra khối binh chủng, quân đoàn, tổng cục thuộc Cục Bảo vệ an ninh Quân đội (chữ in thường, cỡ chữ 8);
 
-**ID:** dk_00063809
+đ) Góc trên, bên trái của Giấy chứng nhận là hình quân hiệu màu đỏ, dưới là ảnh chân dung (2x3) mặc quân phục thường dùng, không đội mũ, phía tiếp dưới là hạn sử dụng của giấy chứng nhận (có giá trị đến...);
 
----
+e) Góc dưới, bên phải là dòng chữ “Ngày....tháng....năm...” (chữ in thường nghiêng); dòng dưới là “BỘ TRƯỞNG BỘ QUỐC PHÒNG” hoặc “KT. BỘ TRƯỞNG BỘ QUỐC PHÒNG” và dòng dưới là “THỨ TRƯỞNG” (chữ in hoa, cỡ chữ 8), tiếp đến chữ ký, đóng dấu và cấp bậc, họ tên người ký.
 
+3. Mặt sau:
 
-### Điều 37.11.TT.1.25. Quản lý, sử dụng
+Màu đỏ, viền vàng, đường viền rộng 3mm, trên cùng dòng chữ: “CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM” (chữ in hoa, cỡ chữ 10), ở chính giữa là hình quốc huy, đường kính 25 mm, phía dưới quốc huy là dòng chữ “BỘ QUỐC PHÒNG” (chữ in hoa, cỡ chữ 14) và dòng chữ “ĐIỀU TRA HÌNH SỰ” hoặc “AN NINH ĐIỀU TRA” (chữ in hoa, đậm, cỡ chữ 15).
 
-*Nội dung chưa có sẵn*
+(có các Phụ lục mẫu kèm theo Thông tư này)
 
-**Chỉ mục:** 25
+Phuluc.doc
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990002500
+Điều 37.11.TT.1.24. Cấp giấy chứng nhận
 
-**ID:** dk_00063810
+(Điều 24 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
----
+1. Khi bổ nhiệm chức danh pháp lý, đồng thời được cấp Giấy chứng nhận, gồm các trường hợp sau:
 
+a) Cấp mới cho các trường hợp được bổ nhiệm lần đầu;
 
-### Điều 37.11.TT.1.26. Thu hồi Giấy chứng nhận
+b) Cấp đổi trong các trường hợp bổ nhiệm lại, luân chuyển vị trí công tác giữa các Cơ quan điều tra không cùng địa bàn hoặc trong trường hợp bị hỏng trong quá trình thực hiện nhiệm vụ hoặc do thiên tai, hỏa hoạn.
 
-*Nội dung chưa có sẵn*
+2. Hồ sơ đề nghị cấp lại do làm mất, hỏng Giấy chứng nhận:
 
-**Chỉ mục:** 26
+a) Đơn xin cấp lại có xác nhận của Thủ trưởng Cơ quan điều tra;
 
-**Mã phân cấp:** 370110000000000070000570000000000000000000802639502990002600
+b) Công văn đề nghị của Cơ quan điều tra cấp quân khu và tương đương, 02 ảnh (2x3) mặc quân phục thường dùng, không đội mũ.
 
-**ID:** dk_00063811
+Điều 37.11.TT.1.25. Quản lý, sử dụng
 
----
+(Điều 25 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
+1. Giấy chứng nhận được cấp cho Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra quản lý, sử dụng theo quy định của pháp luật.
 
-### Điều 37.11.LQ.58. Hạn tuổi phục vụ của Điều tra viên
+2. Người được cấp Giấy chứng nhận chỉ được sử dụng Giấy chứng nhận trong hoạt động nghiệp vụ.
+
+3. Cơ quan Điều tra Bộ Quốc phòng đăng ký, cấp phát, thu hồi Giấy chứng nhận. Thủ trưởng Cơ quan điều tra các cấp có trách nhiệm theo dõi, kiểm tra việc quản lý, sử dụng Giấy chứng nhận.
+
+4. Khi bị mất Giấy chứng nhận phải báo ngay với Thủ trưởng Cơ quan điều tra để xem xét tính chất, mức độ, xử lý theo quy định, trừ trường hợp bị mất trong khi làm nhiệm vụ hoặc do thiên tai, hỏa hoạn.
+
+5. Trường hợp người được cấp Giấy chứng nhận sử dụng Giấy chứng nhận để thực hiện hành vi trái pháp luật hoặc trái với quy định của Thông tư này thì tùy theo tính chất, mức độ vi phạm có thể bị kỷ luật hoặc truy cứu trách nhiệm hình sự.
+
+Điều 37.11.TT.1.26. Thu hồi Giấy chứng nhận
+
+(Điều 26 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
+
+1. Các trường hợp thu hồi
+
+a) Khi được bổ nhiệm, nâng ngạch, bổ nhiệm lại, hết hạn sử dụng, luân chuyển công tác giữa các Cơ quan điều tra không cùng địa bàn, chuyển công tác không làm nhiệm vụ điều tra (trước khi nhận Quyết định chuyển công tác, Giấy chứng nhận mới);
+
+b) Đối với cán bộ nghỉ hưu (trước khi nhận quyết định nghỉ hưu);
+
+c) Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên, Cán bộ điều tra bị miễn nhiệm, cách chức.
+
+2. Thủ trưởng Cơ quan Điều tra cấp quân khu và tương đương
+
+a) Thu hồi Giấy chứng nhận của cán bộ thuộc quyền, trong thời hạn 30 ngày kể từ ngày thu hồi phải nộp lại cho Cơ quan Điều tra Bộ Quốc phòng.
+
+b) Trường hợp người bị miễn nhiệm, cách chức hoặc được nghỉ hưu, chuyển công tác khác là Thủ trưởng Cơ quan điều tra thì Phó Thủ trưởng cơ quan điều tra có trách nhiệm thu hồi giấy chứng nhận.
+
+3. Trưởng phòng Tổ chức cán bộ Cục Điều tra hình sự Bộ Quốc phòng chịu trách nhiệm quản lý, đăng ký cấp phát, thu hồi giấy chứng nhận thuộc Cơ quan Điều tra hình sự các cấp. Trưởng phòng An ninh điều tra Cục Bảo vệ An ninh Quân đội chịu trách nhiệm quản lý, đăng ký cấp phát, thu hồi giấy chứng nhận thuộc Cơ quan An ninh điều tra các cấp.
 
 Điều 37.11.LQ.58. Hạn tuổi phục vụ của Điều tra viên
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000700005800000000000000000
+1. Hạn tuổi phục vụ cao nhất của Điều tra viên là sĩ quan trong Công an nhân dân, Quân đội nhân dân thực hiện theo quy định của Luật Công an nhân dân, Luật sĩ quan Quân đội nhân dân Việt Nam. Tuổi nghỉ hưu của Điều tra viên của Viện kiểm sát nhân dân tối cao thực hiện theo quy định của Bộ luật lao động.
 
-**ID:** dk_00063812
+2. Trường hợp Cơ quan điều tra của Công an nhân dân và trong Quân đội nhân dân có nhu cầu, nếu Điều tra viên có đủ phẩm chất, giỏi về chuyên môn, nghiệp vụ, có sức khỏe tốt và tự nguyện thì có thể được kéo dài tuổi phục vụ theo quy định của Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng nhưng không quá 60 tuổi đối với nam và 55 tuổi đối với nữ, trừ nữ sĩ quan cấp tướng.
 
----
+Điều 37.11.LQ.59. Cán bộ điều tra
 
+(Điều 59 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 37.11.LQ.59. Cán bộ điều tra
+1. Cán bộ điều tra thuộc Cơ quan điều tra được quy định như sau:
 
-*Nội dung chưa có sẵn*
+a) Người có đủ tiêu chuẩn quy định tại các khoản 1, 2, 3 và 5 Điều 46 của Luật này có thể được bổ nhiệm làm Cán bộ điều tra để giúp Điều tra viên thực hiện một số hoạt động điều tra hình sự;
 
-**Chỉ mục:** 59
+b) Việc bổ nhiệm, miễn nhiệm, cấp, thu hồi Giấy chứng nhận Cán bộ điều tra thuộc Công an nhân dân do Bộ trưởng Bộ Công an quy định, thuộc Quân đội nhân dân do Bộ trưởng Bộ Quốc phòng quy định, ở Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao quy định;
 
-**Mã phân cấp:** 3701100000000000700005900000000000000000
+c) Thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự và Luật này.
 
-**ID:** dk_00063813
+2. Khi tiến hành điều tra vụ án, Thủ trưởng cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra phân công người thuộc cơ quan, đơn vị làm Cán bộ điều tra giúp mình thực hiện nhiệm vụ, quyền hạn điều tra theo quy định của Bộ luật tố tụng hình sự và Luật này. Cán bộ điều tra thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự và Luật này.
 
----
+3. Cán bộ điều tra chịu trách nhiệm trước Điều tra viên, Thủ trưởng Cơ quan điều tra, Thủ trưởng cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.
 
+Điều 37.11.TT.1.11. Bổ nhiệm Cán bộ điều tra
 
-### Điều 37.11.TT.1.11. Bổ nhiệm Cán bộ điều tra
+(Điều 11 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-*Nội dung chưa có sẵn*
+Người có đủ tiêu chuẩn quy định tại các khoản 1, 2, 4 và 5 Điều 5 Thông tư này có thể được bổ nhiệm làm Cán bộ điều tra để giúp Điều tra viên thực hiện một số hoạt động điều tra hình sự theo quy định của Bộ luật Tố tụng hình sự và Luật Tổ chức cơ quan điều tra hình sự.
 
-**Chỉ mục:** 11
+Chương VIII
 
-**Mã phân cấp:** 370110000000000070000590000000000000000000802639502990001100
-
-**ID:** dk_00063814
-
----
-
-
-### Điều 37.11.LQ.60. Chế độ, chính sách đối với người làm công tác điều tra hình sự
+BẢO ĐẢM ĐIỀU KIỆN CHO HOẠT ĐỘNG ĐIỀU TRA HÌNH SỰ
 
 Điều 37.11.LQ.60. Chế độ, chính sách đối với người làm công tác điều tra hình sự
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000800006000000000000000000
+1. Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân; sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ Quân đội nhân dân công tác trong các cơ quan điều tra được phong, thăng cấp bậc hàm lực lượng vũ trang nhân dân và hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.
 
-**ID:** dk_00063816
+2. Cán bộ, công chức công tác tại Cơ quan điều tra của Viện kiểm sát nhân dân tối cao được hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.
 
----
+3. Điều tra viên, Cán bộ điều tra được hưởng lương, phụ cấp và các chế độ, chính sách, quyền lợi khác theo quy định của pháp luật.
 
-
-### Điều 37.11.LQ.61. Bảo đảm biên chế, đào tạo, bồi dưỡng trong công tác điều tra hình sự
+4. Trong công tác điều tra hình sự, tập thể, cá nhân có thành tích thì được khen thưởng, bị thiệt hại về tài sản thì được đền bù; cá nhân bị tổn hại về danh dự thì được khôi phục, thiệt hại về tính mạng, sức khỏe thì được hưởng chế độ, chính sách theo quy định của pháp luật.
 
 Điều 37.11.LQ.61. Bảo đảm biên chế, đào tạo, bồi dưỡng trong công tác điều tra hình sự
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000800006100000000000000000
+1. Nhà nước bảo đảm biên chế cần thiết cho Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.
 
-**ID:** dk_00063817
-
----
-
-
-### Điều 37.11.LQ.62. Bảo đảm cơ sở vật chất phục vụ hoạt động điều tra hình sự
+2. Người làm công tác điều tra hình sự phải được huấn luyện, đào tạo, bồi dưỡng về chuyên môn nghiệp vụ, pháp luật phù hợp với nhiệm vụ, quyền hạn được giao.
 
 Điều 37.11.LQ.62. Bảo đảm cơ sở vật chất phục vụ hoạt động điều tra hình sự
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000800006200000000000000000
+1. Căn cứ yêu cầu công tác điều tra hình sự, địa bàn hoạt động và điều kiện kinh tế - xã hội, Nhà nước bảo đảm cơ sở vật chất của Cơ quan điều tra gồm có đất đai, trụ sở, công trình; trang thiết bị, công cụ hỗ trợ, phương tiện giao thông, thông tin liên lạc, kỹ thuật nghiệp vụ và các điều kiện vật chất, kỹ thuật khác, nhất là đối với Cơ quan điều tra đóng ở vùng sâu, vùng xa, miền núi, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, địa bàn trọng yếu về an ninh quốc gia, trật tự, an toàn xã hội.
 
-**ID:** dk_00063818
+Việc trang bị, quản lý sử dụng vũ khí, công cụ hỗ trợ thực hiện theo quy định của pháp luật về quản lý, sử dụng vũ khí, công cụ hỗ trợ.
 
----
+2. Trong trường hợp cấp thiết, để ngăn chặn hành động phạm tội, đuổi bắt người phạm tội, cấp cứu người bị nạn, Điều tra viên được huy động, sử dụng phương tiện giao thông, thông tin liên lạc của cơ quan, tổ chức và cá nhân, kể cả những người điều khiển phương tiện ấy, trừ phương tiện của cơ quan đại diện ngoại giao, cơ quan lãnh sự nước ngoài, cơ quan đại diện của tổ chức quốc tế và của những người được hưởng quyền ưu đãi, miễn trừ ngoại giao hoặc lãnh sự và phải hoàn trả ngay khi tình huống cấp thiết không còn; trường hợp xảy ra thiệt hại thì Cơ quan điều tra có trách nhiệm bồi thường theo quy định của pháp luật.
 
-
-### Điều 37.11.LQ.63. Bảo đảm kinh phí cho hoạt động điều tra hình sự
+(Điều này có nội dung liên quan đến Điều 39.11.LQ.4. Nguyên tắc quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ)
 
 Điều 37.11.LQ.63. Bảo đảm kinh phí cho hoạt động điều tra hình sự
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000800006300000000000000000
+Nhà nước bảo đảm kinh phí cho hoạt động điều tra hình sự. Việc lập dự toán, sử dụng và quyết toán kinh phí cho hoạt động điều tra hình sự được thực hiện theo Luật ngân sách nhà nước.
 
-**ID:** dk_00063819
+Chương IX
 
----
-
-
-### Điều 37.11.LQ.64. Trách nhiệm quản lý về công tác điều tra hình sự
+TRÁCH NHIỆM CỦA CHÍNH PHỦ, CÁC BỘ, NGÀNH VÀ ỦY BAN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG TRONG CÔNG TÁC ĐIỀU TRA HÌNH SỰ
 
 Điều 37.11.LQ.64. Trách nhiệm quản lý về công tác điều tra hình sự
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000900006400000000000000000
+1. Chính phủ thống nhất quản lý về công tác điều tra hình sự, có trách nhiệm sau đây:
 
-**ID:** dk_00063821
+a) Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về điều tra hình sự;
 
----
+b) Chỉ đạo thực hiện các văn bản quy phạm pháp luật về điều tra hình sự;
 
+c) Chỉ đạo phổ biến, giáo dục pháp luật về điều tra hình sự;
 
-### Điều 37.11.NĐ.2.3. Nguyên tắc thực hiện chế độ báo cáo về điều tra hình sự
+d) Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền đình chỉ, bãi bỏ quy định về điều tra hình sự trái với quy định của Hiến pháp, Bộ luật tố tụng hình sự, Luật này và pháp luật khác có liên quan;
+
+đ) Quy định chế độ báo cáo về điều tra hình sự;
+
+e) Hợp tác quốc tế về điều tra hình sự.
+
+2. Bộ Công an giúp Chính phủ thực hiện trách nhiệm quy định tại khoản 1 Điều này.
 
 Điều 37.11.NĐ.2.3. Nguyên tắc thực hiện chế độ báo cáo về điều tra hình sự
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000300
+ 1. Tuân thủ Bộ luật hình sự, Bộ luật tố tụng hình sự, Luật tổ chức cơ quan điều tra hình sự và quy định tại Nghị định này.
 
-**ID:** dk_00063822
+ 2. Bảo đảm trung thực, khách quan, chính xác, đầy đủ, nhanh chóng, kịp thời.
 
----
+ 3. Thực hiện đúng chức năng, nhiệm vụ, quyền hạn.
 
+ 4. Việc soạn thảo, ban hành, quản lý, khai thác, sử dụng báo cáo về điều tra hình sự phải đúng mục đích, đúng quy định của pháp luật về bảo vệ bí mật Nhà nước và chế độ văn thư, lưu trữ.Điều 37.11.NĐ.2.4. Hình thức báo cáo và phương thức gửi báo cáo về điều tra hình sự
 
-### Điều 37.11.NĐ.2.4. Hình thức báo cáo và phương thức gửi báo cáo về điều tra hình sự
+(Điều 4 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-Điều 37.11.NĐ.2.4. Hình thức báo cáo và phương thức gửi báo cáo về điều tra hình sự
+ 1. Hình thức báo cáo
 
-**Chỉ mục:** 4
+ Báo cáo phải được thực hiện bằng văn bản, có chữ ký, họ tên của người có thẩm quyền ký báo cáo, đóng dấu phát hành theo quy định kèm theo tệp dữ liệu điện tử.
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000400
+ 2. Phương thức gửi báo cáo
 
-**ID:** dk_00063823
+ Báo cáo được gửi đến cơ quan nhận báo cáo bằng một trong các phương thức sau:
 
----
+ a) Gửi bằng đường bưu điện;
 
+ b) Gửi trực tiếp;
 
-### Điều 37.11.NĐ.2.5. Thẩm quyền ký báo cáo về điều tra hình sự
+ c) Gửi qua fax;
 
-Điều 37.11.NĐ.2.5. Thẩm quyền ký báo cáo về điều tra hình sự
+ d) Gửi qua hệ thống phần mềm quản lý cơ sở dữ liệu điều tra hình sự dưới dạng file ảnh (định dạng PDF) hoặc file dữ liệu điện tử có chữ ký số.Điều 37.11.NĐ.2.5. Thẩm quyền ký báo cáo về điều tra hình sự
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000500
+ Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân tối cao; Bộ trưởng, Thứ trưởng: Bộ Công an, Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn ký báo cáo của bộ, ngành mình về công tác điều tra hình sự theo thẩm quyền điều tra quy định tại Luật tổ chức cơ quan điều tra hình sự.Điều 37.11.NĐ.2.6. Xử lý vi phạm trong thực hiện chế độ báo cáo về điều tra hình sự
 
-**ID:** dk_00063824
+(Điều 6 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
----
+ Người nào không thực hiện hoặc thực hiện không đúng chế độ báo cáo hoặc cố ý báo cáo sai hoặc tiết lộ thông tin trong các báo cáo về điều tra hình sự thuộc phạm vi bí mật nhà nước thì tùy tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.Điều 37.11.NĐ.2.7. Các loại báo cáo về điều tra hình sự
 
+(Điều 7 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 37.11.NĐ.2.6. Xử lý vi phạm trong thực hiện chế độ báo cáo về điều tra hình sự
+ Báo cáo về điều tra hình sự gồm: Báo cáo định kỳ; báo cáo về vụ, việc và báo cáo chuyên đề.Điều 37.11.NĐ.2.8. Báo cáo định kỳ
 
-Điều 37.11.NĐ.2.6. Xử lý vi phạm trong thực hiện chế độ báo cáo về điều tra hình sự
+(Điều 8 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Chỉ mục:** 6
+ 1. Báo cáo định kỳ gồm: 03 tháng, 06 tháng, 09 tháng và báo cáo năm.
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000600
+ 2. Nội dung của báo cáo định kỳ
 
-**ID:** dk_00063825
+ a) Tổng hợp, phân tích đánh giá và dự báo tình hình hoạt động của các loại tội phạm thuộc thẩm quyền điều tra của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra;
 
----
+ b) Kết quả công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;
 
+ c) Kết quả công tác bắt, giam giữ, điều tra, xử lý tội phạm;
 
-### Điều 37.11.NĐ.2.7. Các loại báo cáo về điều tra hình sự
+ d) Phương hướng công tác trọng tâm tiếp theo.
 
-Điều 37.11.NĐ.2.7. Các loại báo cáo về điều tra hình sự
+ 3. Thời điểm lấy số liệu của báo cáo định kỳ
 
-**Chỉ mục:** 7
+ a) Báo cáo 03 tháng tính từ ngày 01 tháng 10 đến ngày 31 tháng 12 của năm;
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000700
+ b) Báo cáo 06 tháng tính từ ngày 01 tháng 10 năm trước đến ngày 31 tháng 3 năm sau;
 
-**ID:** dk_00063826
+ c) Báo cáo 09 tháng tính từ ngày 01 tháng 10 năm trước đến ngày 30 tháng 6 năm sau;
 
----
+ d) Báo cáo năm tính từ ngày 01 tháng 10 năm trước đến ngày 30 tháng 9 năm sau.
 
+ 4. Chỉnh lý, bổ sung báo cáo
 
-### Điều 37.11.NĐ.2.8. Báo cáo định kỳ
+ a) Khi phải chỉnh lý, bổ sung nội dung, số liệu trong báo cáo định kỳ, cơ quan báo cáo có trách nhiệm gửi báo cáo đã được chỉnh lý, bổ sung, kèm theo văn bản giải trình rõ về việc chỉnh lý, bổ sung và phải có chữ ký xác nhận, đóng dấu;
 
-*Nội dung chưa có sẵn*
+ b) Nghiêm cấm việc tự ý tẩy, xóa báo cáo, các biểu mẫu thống kê số liệu kèm theo báo cáo.Điều 37.11.NĐ.2.9. Báo cáo về vụ, việc
 
-**Chỉ mục:** 8
+(Điều 9 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000800
+ 1. Báo cáo về vụ, việc quy định trong Nghị định này là các vụ, việc có dấu hiệu làm oan người vô tội hoặc bỏ lọt tội phạm; vụ, việc có khiếu kiện kéo dài nhiều năm; vụ, việc có tính chất nhạy cảm, phức tạp liên quan đến an ninh quốc gia, trật tự, an toàn xã hội hoặc vụ, việc khác khi có yêu cầu của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Chủ nhiệm Ủy ban Tư pháp của Quốc hội.
 
-**ID:** dk_00063827
+ 2. Các bộ, ngành quy định tại khoản 1 Điều 2 Nghị định này có trách nhiệm báo cáo vụ, việc do bộ, ngành mình giải quyết theo thẩm quyền điều tra quy định tại Luật tổ chức cơ quan điều tra hình sự và gửi đến cơ quan, tổ chức, cá nhân đã yêu cầu.Điều 37.11.NĐ.2.10. Báo cáo chuyên đề
 
----
+(Điều 10 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+ 1. Báo cáo chuyên đề là báo cáo sơ kết, tổng kết hoặc tổng hợp, đánh giá và dự báo tình hình hoạt động của các loại tội phạm thuộc thẩm quyền điều tra của cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; kết quả công tác tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; công tác bắt, giam giữ, điều tra xử lý tội phạm theo từng lĩnh vực.
 
-### Điều 37.11.NĐ.2.9. Báo cáo về vụ, việc
+ 2. Trường hợp báo cáo
 
-*Nội dung chưa có sẵn*
+ a) Theo chương trình, kế hoạch công tác đã đề ra;
 
-**Chỉ mục:** 9
+ b) Khi có tình hình nổi lên hoặc đánh giá kết quả thực hiện một chủ trương công tác thấy cần sơ kết, tổng kết chuyên đề theo từng lĩnh vực đấu tranh, xử lý tội phạm cụ thể;
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280000900
+ c) Khi có yêu cầu của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Chủ nhiệm Ủy ban Tư pháp của Quốc hội.
 
-**ID:** dk_00063828
+ 3. Nội dung báo cáo chuyên đề
 
----
+ a) Tình hình cơ bản và tình hình liên quan đến chuyên đề;
 
+ b) Kết quả các mặt công tác đã thực hiện theo chuyên đề (căn cứ đặc điểm tình hình, chương trình, kế hoạch công tác, sự chỉ đạo của cấp trên); đánh giá ưu điểm, khuyết điểm, nguyên nhân và bài học kinh nghiệm trong chỉ đạo, thực hiện;
 
-### Điều 37.11.NĐ.2.10. Báo cáo chuyên đề
+ c) Dự báo tình hình;
 
-*Nội dung chưa có sẵn*
+ d) Chủ trương, biện pháp tiếp tục thực hiện;
 
-**Chỉ mục:** 10
+ đ) Đề xuất, kiến nghị.
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280001000
+ 4. Nơi gửi báo cáo
 
-**ID:** dk_00063829
+ Các bộ, ngành quy định tại khoản 1 Điều 2 Nghị định này xây dựng báo cáo chuyên đề gửi Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Chủ nhiệm Ủy ban Tư pháp của Quốc hội, đồng gửi Bộ Công an để giúp Chính phủ theo dõi, quản lý công tác điều tra hình sự.Điều 37.11.NĐ.2.11. Bảo mật
 
----
+(Điều 11 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+ 1. Báo cáo về điều tra hình sự phải được phân loại, xác định và đóng dấu độ mật đúng quy định và chỉ gửi đến nơi nhận đã được cấp có thẩm quyền phê duyệt.
 
-### Điều 37.11.NĐ.2.11. Bảo mật
+ 2. Nội dung trao đổi tình hình, công tác về điều tra hình sự giữa các bộ, ngành quy định tại khoản 1 Điều 2 Nghị định này phải thực hiện chế độ bảo mật theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+ 3. Việc gửi báo cáo theo các phương thức đã quy định tại khoản 2 Điều 4 phải tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước.
 
-**Chỉ mục:** 11
+ 4. Nghiêm cấm việc tiết lộ thông tin, trao đổi, cung cấp thông tin trong báo cáo về điều tra hình sự cho cơ quan, tổ chức, cá nhân không có trách nhiệm.Điều 37.11.NĐ.2.12. Trách nhiệm của Bộ Công an trong xây dựng, quản lý, khai thác và sử dụng báo cáo về điều tra hình sự
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280001100
+(Điều 12 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**ID:** dk_00063830
+ 1. Bộ Công an chịu trách nhiệm trước Chính phủ trong xây dựng, quản lý, khai thác và sử dụng báo cáo về điều tra hình sự, có các nhiệm vụ, quyền hạn sau đây:
 
----
+ a) Chỉ đạo tổ chức việc xây dựng báo cáo; cập nhật thông tin và chịu trách nhiệm về tính chính xác, toàn vẹn các thông tin, dữ liệu; chủ trì, phối hợp với các bộ, ngành có liên quan xây dựng, quản lý, khai thác, sử dụng phần mềm quản lý cơ sở dữ liệu về điều tra hình sự;
 
+ b) Nghiên cứu, tổng hợp báo cáo của Viện kiểm sát nhân dân tối cao, Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn để xây dựng báo cáo và thống kê số liệu trong phạm vi cả nước. Định kỳ gửi báo cáo về điều tra hình sự đến Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ về điều tra hình sự trong phạm vi cả nước trước ngày 15 tháng 02 đối với báo cáo 03 tháng; trước ngày 15 tháng 5 đối với báo cáo 06 tháng; trước ngày 15 tháng 8 đối với báo cáo 09 tháng và trước ngày 15 tháng 11 đối với báo cáo năm;
 
-### Điều 37.11.NĐ.2.12. Trách nhiệm của Bộ Công an trong xây dựng, quản lý, khai thác và sử dụng báo cáo về điều tra hình sự
+ c) Hướng dẫn, đôn đốc, kiểm tra các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong việc thực hiện chế độ báo cáo về điều tra hình sự;
 
-Điều 37.11.NĐ.2.12. Trách nhiệm của Bộ Công an trong xây dựng, quản lý, khai thác và sử dụng báo cáo về điều tra hình sự
+ d) Chủ trì, phối hợp với các bộ, ngành liên quan xây dựng đề cương báo cáo và biểu mẫu thống kê về điều tra hình sự;
 
-**Chỉ mục:** 12
+ đ) Thực hiện các nhiệm vụ khác do Chính phủ giao.
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280001200
+ 2. Cơ quan Cảnh sát điều tra Bộ Công an có trách nhiệm chủ trì, phối hợp với các cơ quan, đơn vị có liên quan giúp Bộ trưởng Bộ Công an thực hiện các nhiệm vụ, quyền hạn quy định tại khoản 1 Điều này.Điều 37.11.NĐ.2.13. Trách nhiệm của Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trong xây dựng báo cáo về điều tra hình sự
 
-**ID:** dk_00063831
+(Điều 13 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
----
+ 1. Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trong phạm vi chức năng, nhiệm vụ của mình có các nhiệm vụ, quyền hạn sau đây:
 
+ a) Chỉ đạo tổ chức việc xây dựng báo cáo; cập nhật thông tin và chịu trách nhiệm về tính chính xác, toàn vẹn các thông tin, dữ liệu;
 
-### Điều 37.11.NĐ.2.13. Trách nhiệm của Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trong xây dựng báo cáo về điều tra hình sự
+ b) Xây dựng báo cáo về điều tra hình sự trên phạm vi cả nước thuộc thẩm quyền điều tra của cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thuộc thẩm quyền quản lý nhà nước của mình gửi Chính phủ (qua Bộ Công an) trước ngày 15 tháng 01 đối với báo cáo 03 tháng; trước ngày 15 tháng 4 đối với báo cáo 06 tháng; trước ngày 15 tháng 7 đối với báo cáo 09 tháng; trước ngày 15 tháng 10 đối với báo cáo năm;
 
-Điều 37.11.NĐ.2.13. Trách nhiệm của Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trong xây dựng báo cáo về điều tra hình sự
+ c) Thực hiện các nhiệm vụ khác do Chính phủ giao.
 
-**Chỉ mục:** 13
+ 2. Giao đơn vị có trách nhiệm chủ trì, phối hợp với các cơ quan, đơn vị có liên quan giúp Bộ trưởng thực hiện các nhiệm vụ, quyền hạn quy định tại khoản 1 Điều này.Điều 37.11.NĐ.2.14. Trách nhiệm của Viện kiểm sát nhân dân tối cao trong việc thực hiện chế độ báo cáo về điều tra hình sự
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280001300
+(Điều 14 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**ID:** dk_00063832
+ Đề nghị Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình:
 
----
+ 1. Chỉ đạo tổ chức việc xây dựng báo cáo; cập nhật thông tin và chịu trách nhiệm về độ chính xác, toàn vẹn các thông tin, dữ liệu;
 
+ 2. Xây dựng báo cáo và thống kê số liệu về điều tra hình sự theo quy định tại khoản 6 Điều 67 Luật tổ chức cơ quan điều tra hình sự. Định kỳ gửi báo cáo về điều tra hình sự cho Chính phủ (qua Bộ Công an) trước ngày 15 tháng 01 đối với báo cáo 03 tháng; trước ngày 15 tháng 4 đối với báo cáo 06 tháng; trước ngày 15 tháng 7 đối với báo cáo 09 tháng; trước ngày 15 tháng 10 đối với báo cáo năm.
 
-### Điều 37.11.NĐ.2.14. Trách nhiệm của Viện kiểm sát nhân dân tối cao trong việc thực hiện chế độ báo cáo về điều tra hình sự
+ 3. Giao đơn vị có trách nhiệm chủ trì, phối hợp với các cơ quan, đơn vị có liên quan giúp Viện trưởng thực hiện các nhiệm vụ, quyền hạn quy định tại khoản 1 và 2 Điều này.Điều 37.11.LQ.65. Trách nhiệm của Bộ trưởng Bộ Công an
 
-Điều 37.11.NĐ.2.14. Trách nhiệm của Viện kiểm sát nhân dân tối cao trong việc thực hiện chế độ báo cáo về điều tra hình sự
+(Điều 65 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Chỉ mục:** 14
+1. Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về điều tra hình sự để thực hiện chức năng quản lý ngành, lĩnh vực do Bộ Công an phụ trách.
 
-**Mã phân cấp:** 370110000000000090000640000000000000000000402637301280001400
+2. Chỉ đạo và tổ chức thực hiện các văn bản quy phạm pháp luật về điều tra hình sự.
 
-**ID:** dk_00063833
+3. Tổ chức phổ biến, giáo dục pháp luật về điều tra hình sự.
 
----
+4. Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền bãi bỏ những quy định về điều tra hình sự trái với quy định của Hiến pháp, Bộ luật tố tụng hình sự, Bộ luật hình sự, Luật này và pháp luật khác có liên quan.
 
+5. Chủ trì, phối hợp ban hành các biểu mẫu, giấy tờ, sổ sách về điều tra hình sự.
 
-### Điều 37.11.LQ.65. Trách nhiệm của Bộ trưởng Bộ Công an
+6. Quản lý hệ thống tổ chức, biên chế và hoạt động của Cơ quan điều tra của Công an nhân dân; trang bị phương tiện, đào tạo, bồi dưỡng, huấn luyện cán bộ làm công tác điều tra trong Công an nhân dân; bồi dưỡng, huấn luyện, chỉ đạo, hướng dẫn nghiệp vụ cho cán bộ, công chức các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; tổ chức sơ kết, tổng kết, nghiên cứu khoa học về công tác điều tra hình sự.
 
-Điều 37.11.LQ.65. Trách nhiệm của Bộ trưởng Bộ Công an
+7. Quản lý cơ sở dữ liệu về điều tra hình sự.
 
-**Chỉ mục:** 65
+8. Thực hiện chế độ báo cáo về công tác điều tra hình sự theo quy định của Chính phủ.
 
-**Mã phân cấp:** 3701100000000000900006500000000000000000
+9. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm về điều tra theo quy định của pháp luật.
 
-**ID:** dk_00063834
-
----
-
-
-### Điều 37.11.TT.2.2. Các biểu mẫu, giấy tờ, sổ sách sử dụng trong hoạt động điều tra hình sự
+(Điều này có nội dung liên quan đến Điều 1.6.LQ.16. Nhiệm vụ và quyền hạn của Công an nhân dân)
 
 Điều 37.11.TT.2.2. Các biểu mẫu, giấy tờ, sổ sách sử dụng trong hoạt động điều tra hình sự
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 119/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2022)
 
-**Mã phân cấp:** 370110000000000090000650000000000000000000802785601190000200
+Ban hành kèm theo Thông tư này 299 biểu mẫu, giấy tờ, sổ sách sử dụng trong hoạt động điều tra hình sự và hoạt động kiểm tra, xác minh sơ bộ tố giác, tin báo về tội phạm (có Danh mục kèm theo).
 
-**ID:** dk_00063835
-
----
-
-
-### Điều 37.11.LQ.66. Trách nhiệm của Bộ trưởng Bộ Quốc phòng
+Phuluc.doc
 
 Điều 37.11.LQ.66. Trách nhiệm của Bộ trưởng Bộ Quốc phòng
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000900006600000000000000000
+1. Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về điều tra hình sự để thực hiện chức năng quản lý ngành, lĩnh vực do Bộ Quốc phòng phụ trách.
 
-**ID:** dk_00063836
+2. Chỉ đạo và tổ chức thực hiện các văn bản pháp luật về điều tra hình sự trong Quân đội nhân dân.
 
----
+3. Tổ chức phổ biến, giáo dục pháp luật về điều tra hình sự trong Quân đội nhân dân.
 
+4. Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền bãi bỏ những quy định về điều tra hình sự trái với quy định của Hiến pháp, Bộ luật tố tụng hình sự, Bộ luật hình sự, Luật này và pháp luật khác có liên quan.
 
-### Điều 37.11.TT.1.19. Cục Điều tra hình sự Bộ Quốc phòng
+5. Quản lý hệ thống tổ chức, biên chế và hoạt động của Cơ quan điều tra trong Quân đội nhân dân; trang bị phương tiện, đào tạo, bồi dưỡng, huấn luyện cán bộ làm công tác điều tra hình sự trong Quân đội nhân dân; tổ chức sơ kết, tổng kết, nghiên cứu khoa học về công tác điều tra hình sự trong Quân đội nhân dân.
+
+6. Thực hiện chế độ báo cáo về công tác điều tra hình sự theo quy định của Chính phủ.
+
+7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm về điều tra hình sự theo quy định của pháp luật.
 
 Điều 37.11.TT.1.19. Cục Điều tra hình sự Bộ Quốc phòng
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000090000660000000000000000000802639502990001900
+1. Cục Điều tra hình sự Bộ Quốc phòng là Cơ quan Thường trực Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân.
 
-**ID:** dk_00063837
+2. Hướng dẫn Cơ quan Điều tra các cấp làm thủ tục đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
----
+3. Tiếp nhận hồ sơ đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
+4. Tổng hợp danh sách đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
-### Điều 37.11.TT.1.20. Cục Bảo vệ an ninh Quân đội
+5. Thư ký Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân.
 
-*Nội dung chưa có sẵn*
+6. Hằng năm, lập dự trù kinh phí bảo đảm, sử dụng và quyết toán theo quy định của pháp luật và Bộ Quốc phòng.
 
-**Chỉ mục:** 20
+7. Thực hiện các nhiệm vụ khác do Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân phân công.
 
-**Mã phân cấp:** 370110000000000090000660000000000000000000802639502990002000
+Điều 37.11.TT.1.20. Cục Bảo vệ an ninh Quân đội
 
-**ID:** dk_00063838
+(Điều 20 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
----
+1. Hướng dẫn Cơ quan An ninh điều tra các cấp làm thủ tục đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan An ninh điều tra, Điều tra viên và Cán bộ điều tra.
 
+2. Tiếp nhận hồ sơ đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan An ninh điều tra, Điều tra viên và Cán bộ điều tra.
 
-### Điều 37.11.TT.1.21. Các đầu mối thuộc Bộ Quốc phòng có Cơ quan điều tra
+3. Tổng hợp danh sách đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan An ninh điều tra, Điều tra viên và Cán bộ điều tra báo cáo Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân (qua Cục Điều tra hình sự Bộ Quốc phòng - Cơ quan thường trực Hội đồng thi tuyển Điều tra viên trong Quân đội nhân dân).
 
 Điều 37.11.TT.1.21. Các đầu mối thuộc Bộ Quốc phòng có Cơ quan điều tra
 
-**Chỉ mục:** 21
+(Điều 21 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000090000660000000000000000000802639502990002100
+1. Chỉ đạo Cơ quan điều tra thực hiện chặt chẽ quy trình xét đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra, lập hồ sơ báo cáo theo quy định tại các Điều 15,16,17 và Điều 18 Thông tư này.
 
-**ID:** dk_00063839
-
----
-
-
-### Điều 37.11.TT.1.22. Cơ quan Điều tra cấp quân khu và tương đương
+2. Chỉ đạo cơ quan chính trị báo cáo cấp ủy cùng cấp xin ý kiến trưởng ngành cấp trên bằng văn bản về nhận xét, đánh giá đối với cán bộ thuộc ngành mình quản lý trước khi báo cáo cấp có thẩm quyền xem xét quyết định điều động, bổ nhiệm và miễn nhiệm Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra cấp quân khu và tương đương.
 
 Điều 37.11.TT.1.22. Cơ quan Điều tra cấp quân khu và tương đương
 
-**Chỉ mục:** 22
+(Điều 22 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 370110000000000090000660000000000000000000802639502990002200
+1. Cơ quan Điều tra hình sự cấp quân khu và tương đương:
 
-**ID:** dk_00063840
+a) Chủ trì, phối hợp với cơ quan cán bộ cùng cấp chuẩn bị hồ sơ nhân sự bổ nhiệm, miễn nhiệm, cách chức các chức danh Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra trình thủ trưởng, cấp ủy đơn vị phê duyệt và báo cáo Cơ quan Điều tra hình sự Bộ Quốc phòng.
 
----
+b) Báo cáo đột xuất khi có thay đổi các chức danh Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
+2. Cơ quan An ninh điều tra quân khu, quân chủng, Bộ đội Biên phòng:
 
-### Điều 37.11.LQ.67. Trách nhiệm của Viện trưởng Viện kiểm sát nhân dân tối cao
+a) Chủ trì, phối hợp với cơ quan cán bộ cùng cấp chuẩn bị hồ sơ nhân sự bổ nhiệm, miễn nhiệm, cách chức các chức danh Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra trình thủ trưởng, cấp ủy đơn vị phê duyệt và báo cáo Cơ quan An ninh điều tra Bộ Quốc phòng.
+
+b) Báo cáo đột xuất khi có thay đổi các chức danh Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
 
 Điều 37.11.LQ.67. Trách nhiệm của Viện trưởng Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 67
+(Điều 67 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000900006700000000000000000
+1. Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về điều tra hình sự để thực hiện chức năng quản lý ngành, lĩnh vực do Viện kiểm sát nhân dân tối cao phụ trách.
 
-**ID:** dk_00063841
+2. Chỉ đạo và tổ chức thực hiện các văn bản quy phạm pháp luật về điều tra hình sự trong Viện kiểm sát nhân dân.
 
----
+3. Tổ chức phổ biến, giáo dục pháp luật về điều tra hình sự trong Viện kiểm sát nhân dân.
 
+4. Đình chỉ, bãi bỏ theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền bãi bỏ những quy định về điều tra hình sự trái với quy định của Hiến pháp, Bộ luật tố tụng hình sự, Bộ luật hình sự, Luật này và pháp luật khác có liên quan.
 
-### Điều 37.11.LQ.68. Trách nhiệm của Bộ trưởng Bộ Tài chính
+5. Quản lý về tổ chức, biên chế và hoạt động của Cơ quan điều tra của Viện kiểm sát nhân dân tối cao; trang bị phương tiện, đào tạo, bồi dưỡng, huấn luyện cán bộ làm công tác điều tra trong Viện kiểm sát nhân dân tối cao; tổ chức sơ kết, tổng kết, nghiên cứu khoa học về công tác điều tra trong Viện kiểm sát nhân dân tối cao.
+
+6. Thực hiện chế độ báo cáo về công tác điều tra hình sự theo quy định của Chính phủ.
+
+7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm về điều tra theo quy định của pháp luật.
 
 Điều 37.11.LQ.68. Trách nhiệm của Bộ trưởng Bộ Tài chính
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000900006800000000000000000
+1. Chỉ đạo các cơ quan của Hải quan thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự và Luật này.
 
-**ID:** dk_00063842
+2. Trang bị phương tiện; tổ chức việc bồi dưỡng, huấn luyện cán bộ làm công tác điều tra hình sự trong các cơ quan của Hải quan; tổ chức sơ kết, tổng kết về công tác điều tra hình sự trong các cơ quan Hải quan.
 
----
+3. Thực hiện chế độ báo cáo về công tác điều tra hình sự theo quy định của Chính phủ.
 
-
-### Điều 37.11.LQ.69. Trách nhiệm của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn
+4. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về điều tra theo quy định của pháp luật.
 
 Điều 37.11.LQ.69. Trách nhiệm của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn
 
-**Chỉ mục:** 69
+(Điều 69 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000900006900000000000000000
+1. Chỉ đạo các cơ quan Kiểm lâm, Kiểm ngư thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự và Luật này.
 
-**ID:** dk_00063843
+2. Trang bị phương tiện; tổ chức việc bồi dưỡng, huấn luyện cán bộ làm công tác điều tra hình sự trong các cơ quan Kiểm lâm, Kiểm ngư; tổ chức sơ kết, tổng kết về công tác điều tra hình sự trong các cơ quan Kiểm lâm, Kiểm ngư.
 
----
+3. Thực hiện chế độ báo cáo về công tác điều tra hình sự theo quy định của Chính phủ.
 
-
-### Điều 37.11.LQ.70. Trách nhiệm của các bộ, ngành, Ủy ban nhân dân cấp tỉnh
+4. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm về điều tra theo quy định của pháp luật.
 
 Điều 37.11.LQ.70. Trách nhiệm của các bộ, ngành, Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000000900007000000000000000000
+1. Chỉ đạo, hướng dẫn các cơ quan, tổ chức, cá nhân thuộc thẩm quyền quản lý thực hiện các quy định của pháp luật về điều tra hình sự.
 
-**ID:** dk_00063844
+2. Phối hợp với nhau, phối hợp với Bộ Công an, Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Viện kiểm sát nhân dân tối cao trong quản lý về điều tra hình sự.
 
----
+3. Tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về điều tra hình sự.
 
+Chương X
 
-### Điều 37.11.LQ.71. Hiệu lực thi hành
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 37.11.LQ.71. Hiệu lực thi hành
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000001000007100000000000000000
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
 
-**ID:** dk_00063846
+2. Pháp lệnh tổ chức điều tra hình sự số 23/2004/PL-UBTVQH11 đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 30/2006/PL-UBTVQH11 và Pháp lệnh số 09/2009/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
----
+(Điều này có nội dung liên quan đến Điều 16.1.NQ.2.1. Về hiệu lực thi hành của Bộ luật Hình sự số 100/2015/QH13 và các bộ luật, luật có liên quan)
 
+Điều 37.11.LQ.72. Quy định chuyển tiếp
 
-### Điều 37.11.LQ.72. Quy định chuyển tiếp
+(Điều 72 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-*Nội dung chưa có sẵn*
+1. Quy định về tên gọi tại điểm c và điểm d khoản 1 Điều 18 của Luật này thay thế tên gọi Cục Cảnh sát kinh tế và Cục Cảnh sát điều tra tội phạm về tham nhũng quy định tại điểm d khoản 1 Điều 24 của Luật Công an nhân dân số 73/2014/QH13.
 
-**Chỉ mục:** 72
+2. Những vụ án đang được các Cơ quan điều tra giải quyết theo thẩm quyền quy định trong Pháp lệnh tổ chức điều tra hình sự số 23/2004/PL-UBTVQH11 đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 30/2006/PL-UBTVQH11 và Pháp lệnh số 09/2009/PL-UBTVQH12 nhưng đến ngày Luật này có hiệu lực mà chưa kết thúc điều tra thì tiếp tục điều tra cho đến khi kết thúc điều tra vụ án.
 
-**Mã phân cấp:** 3701100000000001000007200000000000000000
+3. Kể từ ngày Luật này có hiệu lực, Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp đã được bổ nhiệm theo quy định của Pháp lệnh tổ chức điều tra hình sự số 23/2004/PL-UBTVQH11 đã được sửa đổi, bổ sung mốt số điều theo Pháp lệnh số 30/2006/PL-UBTVQH11 và Pháp lệnh số 09/2009/PL-UBTVQH12 thì tiếp tục giữ chức danh đó cho đến hết nhiệm kỳ.
 
-**ID:** dk_00063847
+Điều 37.11.LQ.73. Quy định chi tiết
 
----
+(Điều 73 Luật số 99/2015/QH13, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+Chính phủ, Viện kiểm sát nhân dân tối cao quy định chi tiết các điều, khoản được giao trong Luật.
 
-### Điều 37.11.LQ.73. Quy định chi tiết
+Điều 37.11.NĐ.1.6. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 6 Nghị định số 114/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Chỉ mục:** 73
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2018.
 
-**Mã phân cấp:** 3701100000000001000007300000000000000000
+2. Giao Bộ trưởng Bộ Quốc phòng:
 
-**ID:** dk_00063848
+a) Căn cứ quy định tại Điều 4, Điều 5 của Nghị định này quyết định Danh mục các Đồn biên phòng thuộc vùng sâu, vùng xa.
 
----
+b) Chỉ đạo và đảm bảo các điều kiện cần thiết để thực hiện quyền hạn điều tra hình sự của Đồn Biên phòng thuộc vùng sâu, vùng xa.
 
+c) Hàng năm, căn cứ tình hình phát triển kinh tế, xã hội của các tỉnh, thành phố trực thuộc trung ương có biên giới; yêu cầu công tác đấu tranh phòng, chống tội phạm của Bộ đội Biên phòng, quyết định bổ sung hoặc đưa ra khỏi Danh mục Đồn Biên phòng thuộc vùng sâu, vùng xa.
 
-### Điều 37.11.NĐ.1.6. Điều khoản thi hành
+3. Bộ trưởng Bộ Quốc phòng, các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, Thủ trưởng các cơ quan tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-*Nội dung chưa có sẵn*
+Điều 37.11.NĐ.2.15. Hiệu lực thi hành
 
-**Chỉ mục:** 6
+(Điều 15 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Mã phân cấp:** 3701100000000001000007340263350114000060
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2018.
 
-**ID:** dk_00063849
+Điều 37.11.NĐ.2.16. Trách nhiệm thi hành
 
----
+(Điều 16 Nghị định số 128/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+1. Viện kiểm sát nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình tổ chức thực hiện và hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.
 
-### Điều 37.11.NĐ.2.15. Hiệu lực thi hành
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 37.11.TT.1.27. Hiệu lực thi hành
 
-**Chỉ mục:** 15
+(Điều 27 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-**Mã phân cấp:** 3701100000000001000007340263730128000150
+1. Thông tư này có hiệu lực kể từ ngày 30 tháng 01 năm 2018 và thay thế Thông tư số 78/2007/TT-BQP ngày 23/01/2007 của Bộ trưởng Bộ Quốc phòng hướng dẫn bổ nhiệm Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra hình sự, Cơ quan An ninh điều tra và Điều tra viên các cấp trong Quân đội nhân dân.
 
-**ID:** dk_00063850
+2. Quyết định và Giấy chứng nhận Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên đã cấp trước ngày 01 tháng 01 năm 2018, tiếp tục sử dụng đến hết thời hạn ghi trong Quyết định, Giấy chứng nhận.
 
----
+Điều 37.11.TT.1.28. Trách nhiệm thi hành
 
+(Điều 28 Thông tư số 299/2017/TT-BQP, có hiệu lực thi hành kể từ ngày 30/01/2018)
 
-### Điều 37.11.NĐ.2.16. Trách nhiệm thi hành
+Tổng Tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị, các Tổng cục, Bộ Tư lệnh các quân khu, quân chủng, Bộ đội Biên phòng, quân đoàn, binh chủng, Cục Cán bộ Tổng cục Chính trị, Vụ Pháp chế Bộ Quốc phòng, Cục Điều tra hình sự Bộ Quốc phòng, Cục Bảo vệ an ninh Quân đội, thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan có trách nhiệm thi hành Thông tư này.
 
-*Nội dung chưa có sẵn*
+Điều 37.11.TT.2.4. Hiệu lực thi hành
 
-**Chỉ mục:** 16
+(Điều 4 Thông tư số 119/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2022)
 
-**Mã phân cấp:** 3701100000000001000007340263730128000160
+1. Thông tư này có hiệu lực thi hành từ ngày 22 tháng 01 năm 2022 và thay thế Thông tư số 61/2017/TT-BCA ngày 14/12/2017 của Bộ trưởng Bộ Công an quy định biểu mẫu, giấy tờ, sổ sách về điều tra hình sự.
 
-**ID:** dk_00063851
+2. Các biểu mẫu về điều tra hình sự do các cơ quan có thẩm quyền tiến hành tố tụng trong Công an nhân dân, Quân đội nhân dân, Hải quan, Kiểm lâm, Kiểm ngư đã được sử dụng trong hoạt động điều tra trước ngày 22 tháng 01 năm 2022 thì vẫn có giá trị trong hoạt động điều tra, truy tố, xét xử vụ án hình sự cho đến khi giải quyết xong vụ án.
 
----
+Điều 37.11.TT.2.5. Trách nhiệm thi hành
 
+(Điều 5 Thông tư số 119/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 22/01/2022)
 
-### Điều 37.11.TT.1.27. Hiệu lực thi hành
+1. Thủ trưởng Cơ quan điều tra các cấp, cấp trưởng của các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra theo quy định của Bộ luật Tố tụng hình sự, Luật Tổ chức cơ quan điều tra hình sự, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị Viện kiểm sát nhân dân tối cao, Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trao đổi với Bộ Công an để thống nhất hướng dẫn; yêu cầu các đơn vị trực thuộc Bộ Công an, Công an các tỉnh, thành phố trực thuộc Trung ương báo cáo về Bộ Công an (qua Văn phòng Cơ quan Cảnh sát điều tra Bộ Công an) để có hướng dẫn kịp thời./.
 
-**Chỉ mục:** 27
+## Danh sách điều khoản
 
-**Mã phân cấp:** 3701100000000001000007380263950299000270
+### 37011000000000001000
 
-**ID:** dk_00063852
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 3701100000000000100000100000000000000000
 
+Điều 37.11.LQ.1. Phạm vi điều chỉnh
 
-### Điều 37.11.TT.1.28. Trách nhiệm thi hành
+### 3701100000000000100000200000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 37.11.LQ.2. Đối tượng áp dụng
 
-**Chỉ mục:** 28
+### 3701100000000000100000240263350114000010
 
-**Mã phân cấp:** 3701100000000001000007380263950299000280
+Điều 37.11.NĐ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00063853
+### 3701100000000000100000240263350114000020
 
----
+Điều 37.11.NĐ.1.2. Đối tượng áp dụng
 
+### 3701100000000000100000240263730128000010
 
-### Điều 37.11.TT.2.4. Hiệu lực thi hành
+Điều 37.11.NĐ.2.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3701100000000000100000240263730128000020
 
-**Chỉ mục:** 4
+Điều 37.11.NĐ.2.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3701100000000001000007380278560119000040
+### 3701100000000000100000280263950299000010
 
-**ID:** dk_00063854
+Điều 37.11.TT.1.1. Phạm vi điều chỉnh
 
----
+### 3701100000000000100000280263950299000020
 
+Điều 37.11.TT.1.2. Đối tượng áp dụng
 
-### Điều 37.11.TT.2.5. Trách nhiệm thi hành
+### 3701100000000000100000280263950299000030
 
-*Nội dung chưa có sẵn*
+Điều 37.11.TT.1.3. Giải thích từ ngữ
 
-**Chỉ mục:** 5
+### 3701100000000000100000280278560119000010
 
-**Mã phân cấp:** 3701100000000001000007380278560119000050
+Điều 37.11.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**ID:** dk_00063855
+### 3701100000000000100000300000000000000000
 
----
+Điều 37.11.LQ.3. Nguyên tắc tổ chức điều tra hình sự
 
+### 370110000000000010000030000000000000000000802785601190000300
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tố tụng và các phương thức giải quyết tranh chấp](/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 37.11.TT.2.3. Nguyên tắc sử dụng và quản lý biểu mẫu trong hoạt động điều tra hình sự
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 142
-- **Điều khoản thực tế:** 128
-- **Điều khoản có nội dung:** 87 (68.0%)
-- **ID đề mục:** 6d1742f8bf8d45f2a18b44fa107c360a
+### 3701100000000000100000400000000000000000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 37.11.LQ.4. Hệ thống Cơ quan điều tra
 
----
+### 3701100000000000100000500000000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 37.11.LQ.5. Cơ quan điều tra của Công an nhân dân
+
+### 3701100000000000100000600000000000000000
+
+Điều 37.11.LQ.6. Cơ quan điều tra trong Quân đội nhân dân
+
+### 3701100000000000100000700000000000000000
+
+Điều 37.11.LQ.7. Cơ quan điều tra của Viện kiểm sát nhân dân tối cao
+
+### 3701100000000000100000800000000000000000
+
+Điều 37.11.LQ.8. Nhiệm vụ, quyền hạn của Cơ quan điều tra
+
+### 3701100000000000100000900000000000000000
+
+Điều 37.11.LQ.9. Các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 3701100000000000100001000000000000000000
+
+Điều 37.11.LQ.10. Nhiệm vụ, quyền hạn của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 3701100000000000100001100000000000000000
+
+Điều 37.11.LQ.11. Kiểm sát việc tuân theo pháp luật trong hoạt động điều tra
+
+### 3701100000000000100001200000000000000000
+
+Điều 37.11.LQ.12. Trách nhiệm của cơ quan, tổ chức và cá nhân trong hoạt động điều tra hình sự
+
+### 3701100000000000100001300000000000000000
+
+Điều 37.11.LQ.13. Giám sát của cơ quan, tổ chức, đại biểu dân cử đối với hoạt động điều tra hình sự
+
+### 3701100000000000100001400000000000000000
+
+Điều 37.11.LQ.14. Những hành vi bị nghiêm cấm
+
+### 37011000000000002000
+
+Chương II TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA CỦA CÔNG AN NHÂN DÂN
+
+### 3701100000000000200000100000000000000000
+
+Mục 1 TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN AN NINH ĐIỀU TRA
+
+### 370110000000000020000010000000000000000001500000000000000000
+
+Điều 37.11.LQ.15. Tổ chức bộ máy của Cơ quan An ninh điều tra
+
+### 370110000000000020000010000000000000000001600000000000000000
+
+Điều 37.11.LQ.16. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Bộ Công an
+
+### 370110000000000020000010000000000000000001700000000000000000
+
+Điều 37.11.LQ.17. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Công an cấp tỉnh
+
+### 3701100000000000200000200000000000000000
+
+Mục 2 TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN CẢNH SÁT ĐIỀU TRA
+
+### 370110000000000020000020000000000000000001800000000000000000
+
+Điều 37.11.LQ.18. Tổ chức bộ máy của Cơ quan Cảnh sát điều tra
+
+### 370110000000000020000020000000000000000001900000000000000000
+
+Điều 37.11.LQ.19. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Bộ Công an
+
+### 370110000000000020000020000000000000000002000000000000000000
+
+Điều 37.11.LQ.20. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp tỉnh
+
+### 370110000000000020000020000000000000000002100000000000000000
+
+Điều 37.11.LQ.21. Nhiệm vụ, quyền hạn của Cơ quan Cảnh sát điều tra Công an cấp huyện
+
+### 37011000000000003000
+
+Chương III TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA TRONG QUÂN ĐỘI NHÂN DÂN
+
+### 3701100000000000300000100000000000000000
+
+Mục 1 TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN AN NINH ĐIỀU TRA TRONG QUÂN ĐỘI NHÂN DÂN
+
+### 370110000000000030000010000000000000000002200000000000000000
+
+Điều 37.11.LQ.22. Tổ chức bộ máy của Cơ quan An ninh điều tra trong Quân đội nhân dân
+
+### 370110000000000030000010000000000000000002300000000000000000
+
+Điều 37.11.LQ.23. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra Bộ Quốc phòng
+
+### 370110000000000030000010000000000000000002400000000000000000
+
+Điều 37.11.LQ.24. Nhiệm vụ, quyền hạn của Cơ quan An ninh điều tra quân khu và tương đương
+
+### 3701100000000000300000200000000000000000
+
+Mục 2 TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA HÌNH SỰ TRONG QUÂN ĐỘI NHÂN DÂN
+
+### 370110000000000030000020000000000000000002500000000000000000
+
+Điều 37.11.LQ.25. Tổ chức bộ máy của Cơ quan điều tra hình sự trong Quân đội nhân dân
+
+### 370110000000000030000020000000000000000002600000000000000000
+
+Điều 37.11.LQ.26. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự Bộ Quốc phòng
+
+### 370110000000000030000020000000000000000002700000000000000000
+
+Điều 37.11.LQ.27. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự quân khu và tương đương
+
+### 370110000000000030000020000000000000000002800000000000000000
+
+Điều 37.11.LQ.28. Nhiệm vụ, quyền hạn của Cơ quan điều tra hình sự khu vực
+
+### 37011000000000004000
+
+Chương IV TỔ CHỨC BỘ MÁY, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐIỀU TRA CỦA VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO
+
+### 3701100000000000400002900000000000000000
+
+Điều 37.11.LQ.29. Tổ chức bộ máy Cơ quan điều tra của Viện kiểm sát nhân dân tối cao
+
+### 3701100000000000400003000000000000000000
+
+Điều 37.11.LQ.30. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát nhân dân tối cao
+
+### 3701100000000000400003100000000000000000
+
+Điều 37.11.LQ.31. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát quân sự trung ương
+
+### 37011000000000005000
+
+Chương V NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐƯỢC GIAO NHIỆM VỤ TIẾN HÀNH MỘT SỐ HOẠT ĐỘNG ĐIỀU TRA
+
+### 3701100000000000500003200000000000000000
+
+Điều 37.11.LQ.32. Nhiệm vụ, quyền hạn điều tra của Bộ đội biên phòng
+
+### 370110000000000050000320000000000000000000402633501140000300
+
+Điều 37.11.NĐ.1.3. Giải thích từ ngữ
+
+### 370110000000000050000320000000000000000000402633501140000400
+
+Điều 37.11.NĐ.1.4. Nguyên tắc xác định Đồn biên phòng thuộc vùng sâu, vùng xa
+
+### 370110000000000050000320000000000000000000402633501140000500
+
+Điều 37.11.NĐ.1.5. Tiêu chí xác định Đồn biên phòng thuộc vùng sâu, vùng xa
+
+### 3701100000000000500003300000000000000000
+
+Điều 37.11.LQ.33. Nhiệm vụ, quyền hạn điều tra của Hải quan
+
+### 3701100000000000500003400000000000000000
+
+Điều 37.11.LQ.34. Nhiệm vụ, quyền hạn điều tra của Kiểm lâm
+
+### 3701100000000000500003500000000000000000
+
+Điều 37.11.LQ.35. Nhiệm vụ, quyền hạn điều tra của lực lượng Cảnh sát biển
+
+### 3701100000000000500003600000000000000000
+
+Điều 37.11.LQ.36. Nhiệm vụ, quyền hạn điều tra của Kiểm ngư
+
+### 3701100000000000500003700000000000000000
+
+Điều 37.11.LQ.37. Nhiệm vụ, quyền hạn điều tra của các cơ quan thuộc lực lượng An ninh trong Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 3701100000000000500003800000000000000000
+
+Điều 37.11.LQ.38. Nhiệm vụ, quyền hạn điều tra của các cơ quan thuộc lực lượng Cảnh sát trong Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 3701100000000000500003900000000000000000
+
+Điều 37.11.LQ.39. Nhiệm vụ, quyền hạn điều tra của các cơ quan khác trong Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 37011000000000006000
+
+Chương VI QUAN HỆ PHÂN CÔNG VÀ PHỐI HỢP TRONG HOẠT ĐỘNG ĐIỀU TRA HÌNH SỰ
+
+### 3701100000000000600004000000000000000000
+
+Điều 37.11.LQ.40. Quan hệ giữa các cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 3701100000000000600004100000000000000000
+
+Điều 37.11.LQ.41. Uỷ thác điều tra
+
+### 3701100000000000600004200000000000000000
+
+Điều 37.11.LQ.42. Quan hệ giữa đơn vị điều tra và đơn vị trinh sát
+
+### 3701100000000000600004300000000000000000
+
+Điều 37.11.LQ.43. Trách nhiệm của Thủ trưởng cơ quan Công an, Quân đội các cấp đối với hoạt động điều tra hình sự
+
+### 3701100000000000600004400000000000000000
+
+Điều 37.11.LQ.44. Trách nhiệm của Công an xã, phường, thị trấn, Đồn Công an
+
+### 37011000000000007000
+
+Chương VII THỦ TRƯỞNG, PHÓ THỦ TRƯỞNG CƠ QUAN ĐIỀU TRA, ĐIỀU TRA VIÊN VÀ CÁN BỘ ĐIỀU TRA
+
+### 3701100000000000700004500000000000000000
+
+Điều 37.11.LQ.45. Điều tra viên
+
+### 370110000000000070000450000000000000000000802639502990000400
+
+Điều 37.11.TT.1.4. Điều tra viên
+
+### 3701100000000000700004600000000000000000
+
+Điều 37.11.LQ.46. Tiêu chuẩn chung của Điều tra viên
+
+### 370110000000000070000460000000000000000000802639502990000500
+
+Điều 37.11.TT.1.5. Tiêu chuẩn Điều tra viên
+
+### 3701100000000000700004700000000000000000
+
+Điều 37.11.LQ.47. Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp
+
+### 370110000000000070000470000000000000000000802639502990000600
+
+Điều 37.11.TT.1.6. Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp
+
+### 3701100000000000700004800000000000000000
+
+Điều 37.11.LQ.48. Tiêu chuẩn bổ nhiệm Điều tra viên trung cấp
+
+### 370110000000000070000480000000000000000000802639502990000700
+
+Điều 37.11.TT.1.7. Tiêu chuẩn bổ nhiệm Điều tra viên trung cấp
+
+### 3701100000000000700004900000000000000000
+
+Điều 37.11.LQ.49. Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp
+
+### 370110000000000070000490000000000000000000802639502990000800
+
+Điều 37.11.TT.1.8. Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp
+
+### 3701100000000000700005000000000000000000
+
+Điều 37.11.LQ.50. Bổ nhiệm Điều tra viên trong trường hợp đặc biệt
+
+### 370110000000000070000500000000000000000000802639502990000900
+
+Điều 37.11.TT.1.9. Bổ nhiệm Điều tra viên trong trường hợp đặc biệt
+
+### 3701100000000000700005100000000000000000
+
+Điều 37.11.LQ.51. Nhiệm kỳ của Điều tra viên
+
+### 370110000000000070000510000000000000000000802639502990001000
+
+Điều 37.11.TT.1.10. Nhiệm kỳ của Điều tra viên
+
+### 3701100000000000700005200000000000000000
+
+Điều 37.11.LQ.52. Nhiệm vụ, quyền hạn và trách nhiệm của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra
+
+### 3701100000000000700005300000000000000000
+
+Điều 37.11.LQ.53. Nhiệm vụ, quyền hạn và trách nhiệm của Điều tra viên
+
+### 3701100000000000700005400000000000000000
+
+Điều 37.11.LQ.54. Những việc Điều tra viên không được làm
+
+### 3701100000000000700005500000000000000000
+
+Điều 37.11.LQ.55. Hội đồng thi tuyển Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp
+
+### 3701100000000000700005600000000000000000
+
+Điều 37.11.LQ.56. Bổ nhiệm, miễn nhiệm, cách chức Điều tra viên
+
+### 3701100000000000700005700000000000000000
+
+Điều 37.11.LQ.57. Bổ nhiệm, miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra
+
+### 370110000000000070000570000000000000000000802639502990001200
+
+Điều 37.11.TT.1.12. Bổ nhiệm Thủ trưởng, Phó Thủ trưởng Cơ quan Điều tra
+
+### 370110000000000070000570000000000000000000802639502990001300
+
+Điều 37.11.TT.1.13. Thẩm quyền bổ nhiệm, miễn nhiệm, cách chức
+
+### 370110000000000070000570000000000000000000802639502990001400
+
+Điều 37.11.TT.1.14. Miễn nhiệm, cách chức Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra.
+
+### 370110000000000070000570000000000000000000802639502990001500
+
+Điều 37.11.TT.1.15. Quy trình xét bổ nhiệm
+
+### 370110000000000070000570000000000000000000802639502990001600
+
+Điều 37.11.TT.1.16. Hồ sơ đề nghị bổ nhiệm
+
+### 370110000000000070000570000000000000000000802639502990001700
+
+Điều 37.11.TT.1.17. Hồ sơ trình Bộ Quốc phòng đề nghị bổ nhiệm
+
+### 370110000000000070000570000000000000000000802639502990001800
+
+Điều 37.11.TT.1.18. Quy trình và hồ sơ miễn nhiệm, cách chức
+
+### 370110000000000070000570000000000000000000802639502990002300
+
+Điều 37.11.TT.1.23. Giấy chứng nhận
+
+### 370110000000000070000570000000000000000000802639502990002400
+
+Điều 37.11.TT.1.24. Cấp giấy chứng nhận
+
+### 370110000000000070000570000000000000000000802639502990002500
+
+Điều 37.11.TT.1.25. Quản lý, sử dụng
+
+### 370110000000000070000570000000000000000000802639502990002600
+
+Điều 37.11.TT.1.26. Thu hồi Giấy chứng nhận
+
+### 3701100000000000700005800000000000000000
+
+Điều 37.11.LQ.58. Hạn tuổi phục vụ của Điều tra viên
+
+### 3701100000000000700005900000000000000000
+
+Điều 37.11.LQ.59. Cán bộ điều tra
+
+### 370110000000000070000590000000000000000000802639502990001100
+
+Điều 37.11.TT.1.11. Bổ nhiệm Cán bộ điều tra
+
+### 37011000000000008000
+
+Chương VIII BẢO ĐẢM ĐIỀU KIỆN CHO HOẠT ĐỘNG ĐIỀU TRA HÌNH SỰ
+
+### 3701100000000000800006000000000000000000
+
+Điều 37.11.LQ.60. Chế độ, chính sách đối với người làm công tác điều tra hình sự
+
+### 3701100000000000800006100000000000000000
+
+Điều 37.11.LQ.61. Bảo đảm biên chế, đào tạo, bồi dưỡng trong công tác điều tra hình sự
+
+### 3701100000000000800006200000000000000000
+
+Điều 37.11.LQ.62. Bảo đảm cơ sở vật chất phục vụ hoạt động điều tra hình sự
+
+### 3701100000000000800006300000000000000000
+
+Điều 37.11.LQ.63. Bảo đảm kinh phí cho hoạt động điều tra hình sự
+
+### 37011000000000009000
+
+Chương IX TRÁCH NHIỆM CỦA CHÍNH PHỦ, CÁC BỘ, NGÀNH VÀ ỦY BAN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG TRONG CÔNG TÁC ĐIỀU TRA HÌNH SỰ
+
+### 3701100000000000900006400000000000000000
+
+Điều 37.11.LQ.64. Trách nhiệm quản lý về công tác điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280000300
+
+Điều 37.11.NĐ.2.3. Nguyên tắc thực hiện chế độ báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280000400
+
+Điều 37.11.NĐ.2.4. Hình thức báo cáo và phương thức gửi báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280000500
+
+Điều 37.11.NĐ.2.5. Thẩm quyền ký báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280000600
+
+Điều 37.11.NĐ.2.6. Xử lý vi phạm trong thực hiện chế độ báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280000700
+
+Điều 37.11.NĐ.2.7. Các loại báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280000800
+
+Điều 37.11.NĐ.2.8. Báo cáo định kỳ
+
+### 370110000000000090000640000000000000000000402637301280000900
+
+Điều 37.11.NĐ.2.9. Báo cáo về vụ, việc
+
+### 370110000000000090000640000000000000000000402637301280001000
+
+Điều 37.11.NĐ.2.10. Báo cáo chuyên đề
+
+### 370110000000000090000640000000000000000000402637301280001100
+
+Điều 37.11.NĐ.2.11. Bảo mật
+
+### 370110000000000090000640000000000000000000402637301280001200
+
+Điều 37.11.NĐ.2.12. Trách nhiệm của Bộ Công an trong xây dựng, quản lý, khai thác và sử dụng báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280001300
+
+Điều 37.11.NĐ.2.13. Trách nhiệm của Bộ Quốc phòng, Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn trong xây dựng báo cáo về điều tra hình sự
+
+### 370110000000000090000640000000000000000000402637301280001400
+
+Điều 37.11.NĐ.2.14. Trách nhiệm của Viện kiểm sát nhân dân tối cao trong việc thực hiện chế độ báo cáo về điều tra hình sự
+
+### 3701100000000000900006500000000000000000
+
+Điều 37.11.LQ.65. Trách nhiệm của Bộ trưởng Bộ Công an
+
+### 370110000000000090000650000000000000000000802785601190000200
+
+Điều 37.11.TT.2.2. Các biểu mẫu, giấy tờ, sổ sách sử dụng trong hoạt động điều tra hình sự
+
+### 3701100000000000900006600000000000000000
+
+Điều 37.11.LQ.66. Trách nhiệm của Bộ trưởng Bộ Quốc phòng
+
+### 370110000000000090000660000000000000000000802639502990001900
+
+Điều 37.11.TT.1.19. Cục Điều tra hình sự Bộ Quốc phòng
+
+### 370110000000000090000660000000000000000000802639502990002000
+
+Điều 37.11.TT.1.20. Cục Bảo vệ an ninh Quân đội
+
+### 370110000000000090000660000000000000000000802639502990002100
+
+Điều 37.11.TT.1.21. Các đầu mối thuộc Bộ Quốc phòng có Cơ quan điều tra
+
+### 370110000000000090000660000000000000000000802639502990002200
+
+Điều 37.11.TT.1.22. Cơ quan Điều tra cấp quân khu và tương đương
+
+### 3701100000000000900006700000000000000000
+
+Điều 37.11.LQ.67. Trách nhiệm của Viện trưởng Viện kiểm sát nhân dân tối cao
+
+### 3701100000000000900006800000000000000000
+
+Điều 37.11.LQ.68. Trách nhiệm của Bộ trưởng Bộ Tài chính
+
+### 3701100000000000900006900000000000000000
+
+Điều 37.11.LQ.69. Trách nhiệm của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn
+
+### 3701100000000000900007000000000000000000
+
+Điều 37.11.LQ.70. Trách nhiệm của các bộ, ngành, Ủy ban nhân dân cấp tỉnh
+
+### 37011000000000010000
+
+Chương X ĐIỀU KHOẢN THI HÀNH
+
+### 3701100000000001000007100000000000000000
+
+Điều 37.11.LQ.71. Hiệu lực thi hành
+
+### 3701100000000001000007200000000000000000
+
+Điều 37.11.LQ.72. Quy định chuyển tiếp
+
+### 3701100000000001000007300000000000000000
+
+Điều 37.11.LQ.73. Quy định chi tiết
+
+### 3701100000000001000007340263350114000060
+
+Điều 37.11.NĐ.1.6. Điều khoản thi hành
+
+### 3701100000000001000007340263730128000150
+
+Điều 37.11.NĐ.2.15. Hiệu lực thi hành
+
+### 3701100000000001000007340263730128000160
+
+Điều 37.11.NĐ.2.16. Trách nhiệm thi hành
+
+### 3701100000000001000007380263950299000270
+
+Điều 37.11.TT.1.27. Hiệu lực thi hành
+
+### 3701100000000001000007380263950299000280
+
+Điều 37.11.TT.1.28. Trách nhiệm thi hành
+
+### 3701100000000001000007380278560119000040
+
+Điều 37.11.TT.2.4. Hiệu lực thi hành
+
+### 3701100000000001000007380278560119000050
+
+Điều 37.11.TT.2.5. Trách nhiệm thi hành
+

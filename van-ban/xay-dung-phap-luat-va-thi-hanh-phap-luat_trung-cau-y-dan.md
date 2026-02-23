@@ -1,712 +1,897 @@
 ---
-layout: default
+layout: page
 title: Trưng cầu ý dân
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/trung-cau-y-dan/
-collection: subtopics
-slug: trung-cau-y-dan
-parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Trưng cầu ý dân
 
-**Đề mục:** Trưng cầu ý dân  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-**Số điều khoản:** 62  
-**Điều khoản có nội dung:** 29/52 (55.8%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 44.15.LQ.1. Phạm vi điều chỉnh
+Điều 44.15.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 96/2015/QH13 Trưng cầu ý dân ngày 25/11/2015 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2016 )
 
-**Chỉ mục:** 1
+ Luật này quy định về việc trưng cầu ý dân; nguyên tắc trưng cầu ý dân; nhiệm vụ, quyền hạn của cơ quan, tổ chức trong trưng cầu ý dân; trình tự, thủ tục quyết định việc trưng cầu ý dân và tổ chức trưng cầu ý dân; kết quả và hiệu lực của kết quả trưng cầu ý dân.Điều 44.15.LQ.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 4401500000000000100000100000000000000000
+(Điều 2 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072391
+ Luật này áp dụng đối với công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam và cơ quan, tổ chức, đơn vị có liên quan.Điều 44.15.LQ.3. Giải thích từ ngữ
 
----
+(Điều 3 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 44.15.LQ.2. Đối tượng áp dụng
+ 1. Trưng cầu ý dân là việc Nhà nước tổ chức để cử tri cả nước trực tiếp biểu quyết bằng hình thức bỏ phiếu quyết định những vấn đề quan trọng của đất nước theo quy định của Luật này.
 
-*Nội dung chưa có sẵn*
+ 2. Đề nghị trưng cầu ý dân là việc cơ quan, người có thẩm quyền theo quy định của Luật này đề xuất vấn đề cần trưng cầu ý dân để Quốc hội xem xét, quyết định.
 
-**Chỉ mục:** 2
+ 3. Phiếu trưng cầu ý dân là phiếu theo mẫu do Ủy ban thường vụ Quốc hội quy định, trong đó ghi rõ nội dung trưng cầu ý dân để sử dụng trong từng cuộc trưng cầu ý dân.
 
-**Mã phân cấp:** 4401500000000000100000200000000000000000
+ 4. Cử tri là người có quyền bỏ phiếu trưng cầu ý dân theo quy định của Luật này.Điều 44.15.LQ.4. Nguyên tắc trưng cầu ý dân
 
-**ID:** dk_00072392
+(Điều 4 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ 1. Bảo đảm để Nhân dân trực tiếp thể hiện ý chí của mình trong việc quyết định những vấn đề quan trọng của đất nước; tăng cường khối đại đoàn kết toàn dân tộc, tăng cường đồng thuận xã hội.
 
+ 2. Thực hiện nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín khi trưng cầu ý dân.
 
-### Điều 44.15.LQ.3. Giải thích từ ngữ
+ 3. Việc trưng cầu ý dân phải được tiến hành theo trình tự, thủ tục do Luật này quy định.Điều 44.15.LQ.5. Người có quyền bỏ phiếu trưng cầu ý dân
 
-*Nội dung chưa có sẵn*
+(Điều 5 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 3
+ Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam đủ mười tám tuổi trở lên tính đến ngày trưng cầu ý dân có quyền bỏ phiếu để biểu quyết khi Nhà nước tổ chức trưng cầu ý dân, trừ trường hợp quy định tại khoản 1 và khoản 2 Điều 25 của Luật này.(Điều này có nội dung liên quan đến Điều 37.10.LQ.9. Quyền và nghĩa vụ của người bị tạm giữ, người bị tạm giam)
 
-**Mã phân cấp:** 4401500000000000100000300000000000000000
+Điều 44.15.LQ.6. Các vấn đề trưng cầu ý dân
 
-**ID:** dk_00072393
+(Điều 6 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ Quốc hội xem xét, quyết định trưng cầu ý dân về các vấn đề sau đây:
 
+ 1. Toàn văn Hiến pháp hoặc một số nội dung quan trọng của Hiến pháp;
 
-### Điều 44.15.LQ.4. Nguyên tắc trưng cầu ý dân
+ 2. Vấn đề đặc biệt quan trọng về chủ quyền, lãnh thổ quốc gia, về quốc phòng, an ninh, đối ngoại có ảnh hưởng trực tiếp đến lợi ích của quốc gia;
 
-*Nội dung chưa có sẵn*
+ 3. Vấn đề đặc biệt quan trọng về kinh tế - xã hội có ảnh hưởng lớn đến sự phát triển của đất nước;
 
-**Chỉ mục:** 4
+ 4. Vấn đề đặc biệt quan trọng khác của đất nước.(Điều này có nội dung liên quan đến Điều 35.8.LQ.4. Làm Hiến pháp và sửa đổi Hiến pháp; Điều 35.8.LQ.19. Trưng cầu ý dân)
 
-**Mã phân cấp:** 4401500000000000100000400000000000000000
+Điều 44.15.LQ.7. Phạm vi tổ chức trưng cầu ý dân
 
-**ID:** dk_00072394
+(Điều 7 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ Trưng cầu ý dân được thực hiện trong phạm vi cả nước.Điều 44.15.LQ.8. Ngày bỏ phiếu trưng cầu ý dân
 
+(Điều 8 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.5. Người có quyền bỏ phiếu trưng cầu ý dân
+ Ngày bỏ phiếu trưng cầu ý dân là ngày chủ nhật, do Ủy ban thường vụ Quốc hội quyết định và được công bố chậm nhất là 60 ngày trước ngày bỏ phiếu trưng cầu ý dân.Điều 44.15.LQ.9. Các trường hợp không tổ chức trưng cầu ý dân
 
-Điều 44.15.LQ.5. Người có quyền bỏ phiếu trưng cầu ý dân
+(Điều 9 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 5
+ 1. Không tổ chức lại việc trưng cầu ý dân về nội dung đã được trưng cầu ý dân trong thời hạn 24 tháng kể từ ngày kết quả trưng cầu ý dân được công bố.
 
-**Mã phân cấp:** 4401500000000000100000500000000000000000
+ 2. Không tổ chức trưng cầu ý dân trong thời gian ban bố tình trạng chiến tranh, tình trạng khẩn cấp trong cả nước hoặc trong thời hạn 06 tháng kể từ ngày bãi bỏ tình trạng chiến tranh, bãi bỏ tình trạng khẩn cấp trong cả nước.Điều 44.15.LQ.10. Giám sát việc tổ chức trưng cầu ý dân
 
-**ID:** dk_00072395
+(Điều 10 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ 1. Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình giám sát việc tổ chức trưng cầu ý dân.
 
-
-### Điều 44.15.LQ.6. Các vấn đề trưng cầu ý dân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 4401500000000000100000600000000000000000
-
-**ID:** dk_00072396
-
----
-
-
-### Điều 44.15.LQ.7. Phạm vi tổ chức trưng cầu ý dân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 4401500000000000100000700000000000000000
-
-**ID:** dk_00072397
-
----
-
-
-### Điều 44.15.LQ.8. Ngày bỏ phiếu trưng cầu ý dân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 4401500000000000100000800000000000000000
-
-**ID:** dk_00072398
-
----
-
-
-### Điều 44.15.LQ.9. Các trường hợp không tổ chức trưng cầu ý dân
-
-Điều 44.15.LQ.9. Các trường hợp không tổ chức trưng cầu ý dân
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 4401500000000000100000900000000000000000
-
-**ID:** dk_00072399
-
----
-
-
-### Điều 44.15.LQ.10. Giám sát việc tổ chức trưng cầu ý dân
-
-Điều 44.15.LQ.10. Giám sát việc tổ chức trưng cầu ý dân
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 4401500000000000100001000000000000000000
-
-**ID:** dk_00072400
-
----
-
-
-### Điều 44.15.LQ.11. Hiệu lực của kết quả trưng cầu ý dân
+ 2. Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và Nhân dân giám sát việc tổ chức trưng cầu ý dân theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội)
 
 Điều 44.15.LQ.11. Hiệu lực của kết quả trưng cầu ý dân
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000100001100000000000000000
+ 1. Kết quả trưng cầu ý dân có giá trị quyết định đối với vấn đề đưa ra trưng cầu ý dân và có hiệu lực kể từ ngày công bố.
 
-**ID:** dk_00072401
+ 2. Mọi cơ quan nhà nước, tổ chức, cá nhân phải tôn trọng kết quả trưng cầu ý dân.
 
----
+ 3. Cơ quan nhà nước, tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức và bảo đảm thực hiện nghiêm chỉnh kết quả trưng cầu ý dân.Điều 44.15.LQ.12. Kinh phí tổ chức trưng cầu ý dân
 
+(Điều 12 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.12. Kinh phí tổ chức trưng cầu ý dân
+ Kinh phí tổ chức trưng cầu ý dân do ngân sách nhà nước bảo đảm.Điều 44.15.LQ.13. Các hành vi bị nghiêm cấm
 
-*Nội dung chưa có sẵn*
+(Điều 13 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 12
+ 1. Tuyên truyền, đưa thông tin sai lệch về nội dung, ý nghĩa của việc trưng cầu ý dân.
 
-**Mã phân cấp:** 4401500000000000100001200000000000000000
+ 2. Dùng thủ đoạn lừa gạt, mua chuộc, cưỡng ép, cản trở làm cho cử tri không thực hiện hoặc thực hiện việc bỏ phiếu trưng cầu ý dân trái với mong muốn của mình.
 
-**ID:** dk_00072402
+ 3. Giả mạo giấy tờ, gian lận hoặc dùng thủ đoạn khác để làm sai lệch kết quả trưng cầu ý dân.
 
----
+ 4. Lợi dụng việc trưng cầu ý dân để xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan nhà nước, tổ chức, cá nhân.
 
+ 5. Vi phạm quy định về bỏ phiếu, kiểm phiếu trưng cầu ý dân, quy định khác của Luật này.(Điều này có nội dung liên quan đến Điều 16.1.LQ.160. Tội xâm phạm quyền của công dân về bầu cử, ứng cử hoặc biểu quyết khi Nhà nước trưng cầu ý dân; Điều 16.1.LQ.161. Tội làm sai lệch kết quả bầu cử, kết quả trưng cầu ý dân)
 
-### Điều 44.15.LQ.13. Các hành vi bị nghiêm cấm
+Chương II
 
-*Nội dung chưa có sẵn*
+ĐỀ NGHỊ TRƯNG CẦU Ý DÂN VÀ QUYẾT ĐỊNH VIỆC TRƯNG CẦU Ý DÂN
 
-**Chỉ mục:** 13
+Điều 44.15.LQ.14. Đề nghị trưng cầu ý dân
 
-**Mã phân cấp:** 4401500000000000100001300000000000000000
+(Điều 14 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072403
+1. Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ hoặc ít nhất là một phần ba tổng số đại biểu Quốc hội có quyền đề nghị Quốc hội xem xét, quyết định việc trưng cầu ý dân.
 
----
+2. Trường hợp có từ một phần ba tổng số đại biểu Quốc hội trở lên kiến nghị Quốc hội quyết định việc trưng cầu ý dân về cùng một vấn đề thì Ủy ban thường vụ Quốc hội có trách nhiệm tổng hợp các kiến nghị của đại biểu Quốc hội, chuẩn bị hồ sơ theo quy định tại khoản 3 Điều này trình Quốc hội xem xét, quyết định.
 
+Việc kiến nghị và tổng hợp kiến nghị của đại biểu Quốc hội được thực hiện theo quy định tại Điều 33 của Luật tổ chức Quốc hội.
 
-### Điều 44.15.LQ.14. Đề nghị trưng cầu ý dân
+3. Hồ sơ đề nghị trưng cầu ý dân gồm:
 
-*Nội dung chưa có sẵn*
+a) Tờ trình đề nghị trưng cầu ý dân, trong đó nêu rõ sự cần thiết của việc tổ chức trưng cầu ý dân, nội dung cần trưng cầu ý dân, dự kiến thời điểm tổ chức trưng cầu ý dân, các phương án, giải pháp để thực hiện kết quả trưng cầu ý dân;
 
-**Chỉ mục:** 14
+b) Dự thảo nghị quyết của Quốc hội về trưng cầu ý dân;
 
-**Mã phân cấp:** 4401500000000000200001400000000000000000
+c) Tài liệu khác có liên quan (nếu có).
 
-**ID:** dk_00072405
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.19. Trưng cầu ý dân; Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội)
 
----
+Điều 44.15.LQ.15. Thẩm tra đề nghị trưng cầu ý dân
 
+(Điều 15 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.15. Thẩm tra đề nghị trưng cầu ý dân
+ 1. Trước khi trình Quốc hội, đề nghị trưng cầu ý dân phải được Hội đồng dân tộc, Ủy ban có liên quan của Quốc hội thẩm tra.
 
-*Nội dung chưa có sẵn*
+ 2. Nội dung thẩm tra đề nghị trưng cầu ý dân tập trung vào các vấn đề sau đây:
 
-**Chỉ mục:** 15
+ a) Sự cần thiết của việc tổ chức trưng cầu ý dân;
 
-**Mã phân cấp:** 4401500000000000200001500000000000000000
+ b) Đối tượng, phạm vi tác động của vấn đề trưng cầu ý dân;
 
-**ID:** dk_00072406
+ c) Nội dung cần trưng cầu ý dân;
 
----
+ d) Thời điểm trưng cầu ý dân;
 
+ đ) Các phương án, giải pháp để thực hiện kết quả trưng cầu ý dân.
 
-### Điều 44.15.LQ.16. Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân
+ 3. Việc thẩm tra đề nghị trưng cầu ý dân phải được thực hiện tại phiên họp toàn thể của Hội đồng dân tộc, Ủy ban của Quốc hội. Cơ quan chủ trì thẩm tra có trách nhiệm mời đại diện Thường trực Hội đồng dân tộc, Thường trực Ủy ban khác của Quốc hội, cơ quan, tổ chức có liên quan tham dự phiên họp thẩm tra để phát biểu ý kiến về những nội dung của đề nghị trưng cầu ý dân.
 
-Điều 44.15.LQ.16. Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân
+ Cơ quan thẩm tra có quyền yêu cầu cơ quan, người đã đề nghị trưng cầu ý dân báo cáo, cung cấp thông tin, tài liệu về những vấn đề liên quan đến nội dung đề nghị trưng cầu ý dân. Cơ quan, người được yêu cầu có trách nhiệm đáp ứng các yêu cầu của cơ quan thẩm tra.
 
-**Chỉ mục:** 16
+ 4. Báo cáo thẩm tra phải thể hiện rõ quan điểm của cơ quan thẩm tra về những nội dung quy định tại khoản 2 Điều này; phản ánh đầy đủ ý kiến của thành viên cơ quan chủ trì thẩm tra, ý kiến của cơ quan tham gia thẩm tra; việc đủ hoặc chưa đủ điều kiện trình Quốc hội xem xét, quyết định việc trưng cầu ý dânĐiều 44.15.LQ.16. Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân
 
-**Mã phân cấp:** 4401500000000000200001600000000000000000
+(Điều 16 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072407
+ Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân quy định tại Điều 14 của Luật này. Khi xét thấy đề nghị của cơ quan, người có thẩm quyền đề nghị trưng cầu ý dân đáp ứng đủ các điều kiện theo quy định của Luật này, Ủy ban thường vụ Quốc hội đưa nội dung quyết định việc trưng cầu ý dân vào dự kiến chương trình làm việc của Quốc hội tại kỳ họp gần nhất để trình Quốc hội xem xét, quyết định.Điều 44.15.LQ.17. Quốc hội xem xét, quyết định việc trưng cầu ý dân
 
----
+(Điều 17 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+1. Quốc hội xem xét, quyết định việc trưng cầu ý dân theo trình tự sau đây:
 
-### Điều 44.15.LQ.17. Quốc hội xem xét, quyết định việc trưng cầu ý dân
+a) Đại diện cơ quan có thẩm quyền đề nghị trưng cầu ý dân trình bày tờ trình đề nghị trưng cầu ý dân; trường hợp đại biểu Quốc hội đề nghị trưng cầu ý dân thì đại diện Ủy ban thường vụ Quốc hội trình bày tờ trình đề nghị trưng cầu ý dân;
 
-Điều 44.15.LQ.17. Quốc hội xem xét, quyết định việc trưng cầu ý dân
+b) Đại diện cơ quan chủ trì thẩm tra trình bày báo cáo thẩm tra;
 
-**Chỉ mục:** 17
+c) Quốc hội thảo luận tại phiên họp toàn thể về đề nghị trưng cầu ý dân. Trước khi thảo luận tại phiên họp toàn thể, đề nghị trưng cầu ý dân được thảo luận tại Tổ đại biểu Quốc hội;
 
-**Mã phân cấp:** 4401500000000000200001700000000000000000
+d) Trong quá trình thảo luận, đại diện cơ quan đã đề nghị trưng cầu ý dân có thể giải trình về những vấn đề liên quan mà đại biểu Quốc hội nêu;
 
-**ID:** dk_00072408
+đ) Sau khi đề nghị trưng cầu ý dân được các đại biểu Quốc hội thảo luận, cho ý kiến, Ủy ban thường vụ Quốc hội chỉ đạo, tổ chức việc nghiên cứu, giải trình, tiếp thu, chỉnh lý dự thảo nghị quyết của Quốc hội về trưng cầu ý dân và báo cáo Quốc hội về việc giải trình, tiếp thu, chỉnh lý dự thảo nghị quyết;
 
----
+e) Quốc hội biểu quyết thông qua nghị quyết về trưng cầu ý dân.
 
+2. Nghị quyết của Quốc hội về trưng cầu ý dân phải được quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành.
 
-### Điều 44.15.LQ.18. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội
+3. Nghị quyết của Quốc hội về trưng cầu ý dân được công bố theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội)
+
+Chương III
+
+NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC TRONG TỔ CHỨC TRƯNG CẦU Ý DÂN
 
 Điều 44.15.LQ.18. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000300001800000000000000000
+ 1. Quyết định ngày bỏ phiếu trưng cầu ý dân, bỏ phiếu sớm, hoãn ngày bỏ phiếu, bỏ phiếu lại.
 
-**ID:** dk_00072410
+ 2. Chỉ đạo, hướng dẫn việc tổ chức trưng cầu ý dân trong phạm vi cả nước.
 
----
+ 3. Chỉ đạo công tác thông tin, tuyên truyền về trưng cầu ý dân.
 
+ 4. Quy định về phiếu trưng cầu ý dân, mẫu thẻ cử tri trong trưng cầu ý dân, nội quy phòng bỏ phiếu và các mẫu văn bản khác sử dụng trong việc tổ chức trưng cầu ý dân.
 
-### Điều 44.15.LQ.19. Nhiệm vụ, quyền hạn của Chính phủ
+ 5. Yêu cầu cơ quan có thẩm quyền xử lý hành vi vi phạm pháp luật trong quá trình tổ chức trưng cầu ý dân.
+
+ 6. Nhận và kiểm tra báo cáo kết quả trưng cầu ý dân do Ủy ban nhân dân cấp tỉnh gửi đến.
+
+ 7. Lập báo cáo tổng hợp kết quả trưng cầu ý dân trong phạm vi cả nước.
+
+ 8. Kiểm tra, giám sát việc tổ chức trưng cầu ý dân.
+
+ 9. Giải quyết khiếu nại, tố cáo về kết quả trưng cầu ý dân. Quyết định giải quyết khiếu nại, tố cáo của Ủy ban thường vụ Quốc hội là quyết định cuối cùng.
+
+ 10. Xác định, công bố kết quả trưng cầu ý dân trong cả nước và báo cáo Quốc hội về kết quả tổ chức trưng cầu ý dân tại kỳ họp gần nhất.(Điều này có nội dung liên quan đến Điều 35.8.LQ.59. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc tổ chức trưng cầu ý dân; Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 18.5.LQ.17. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan khác của Nhà nước)
 
 Điều 44.15.LQ.19. Nhiệm vụ, quyền hạn của Chính phủ
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000300001900000000000000000
+ 1. Chỉ đạo các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp thực hiện các công việc trong tổ chức trưng cầu ý dân theo quy định của pháp luật.
 
-**ID:** dk_00072411
+ 2. Chỉ đạo công tác bảo vệ an ninh, trật tự, an toàn xã hội trong quá trình tổ chức trưng cầu ý dân.
 
----
+ 3. Bảo đảm về kinh phí và các điều kiện cần thiết khác phục vụ việc tổ chức trưng cầu ý dân; hướng dẫn việc quản lý và sử dụng kinh phí trong tổ chức trưng cầu ý dân.
 
+ 4. Phối hợp với Ủy ban thường vụ Quốc hội chỉ đạo công tác thông tin, tuyên truyền về trưng cầu ý dân.
 
-### Điều 44.15.LQ.20. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp
+ 5. Phối hợp với Ủy ban thường vụ Quốc hội, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trong kiểm tra, giám sát việc tổ chức trưng cầu ý dân.Điều 44.15.LQ.20. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp
 
-Điều 44.15.LQ.20. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp
+(Điều 20 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 20
+ 1. Ủy ban nhân dân cấp tỉnh có các nhiệm vụ, quyền hạn sau đây:
 
-**Mã phân cấp:** 4401500000000000300002000000000000000000
+ a) Chỉ đạo, kiểm tra, đôn đốc việc tổ chức trưng cầu ý dân trên địa bàn cấp tỉnh theo quy định của pháp luật;
 
-**ID:** dk_00072412
+ b) Chỉ đạo thực hiện công tác thông tin, tuyên truyền về trưng cầu ý dân ở địa phương;
 
----
+ c) Chỉ đạo thực hiện công tác bảo vệ an ninh, trật tự, an toàn xã hội trong quá trình tổ chức trưng cầu ý dân ở địa phương;
 
+ d) Tổ chức in ấn thẻ cử tri, phiếu trưng cầu ý dân, biểu mẫu và các tài liệu khác phục vụ việc tổ chức trưng cầu ý dân trên địa bàn; phân bổ kinh phí và bảo đảm các điều kiện cần thiết khác phục vụ việc tổ chức trưng cầu ý dân trên địa bàn cấp tỉnh;
 
-### Điều 44.15.LQ.21. Thành lập Tổ trưng cầu ý dân và nhiệm vụ, quyền hạn của Tổ trưng cầu ý dân
+ đ) Giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong tổ chức trưng cầu ý dân theo thẩm quyền;
+
+ e) Báo cáo tình hình tổ chức việc trưng cầu ý dân với Ủy ban thường vụ Quốc hội và Chính phủ;
+
+ g) Nhận, kiểm tra báo cáo kết quả kiểm phiếu trưng cầu ý dân do Ủy ban nhân dân cấp xã gửi đến; lập báo cáo kết quả trưng cầu ý dân tại địa phương mình gửi Ủy ban thường vụ Quốc hội.
+
+ 2. Ủy ban nhân dân cấp huyện có các nhiệm vụ, quyền hạn sau đây:
+
+ a) Chỉ đạo, kiểm tra, đôn đốc việc tổ chức trưng cầu ý dân trên địa bàn cấp huyện theo quy định của pháp luật;
+
+ b) Phê chuẩn việc xác định khu vực bỏ phiếu trưng cầu ý dân của Ủy ban nhân dân cấp xã;
+
+ c) Chỉ đạo thực hiện công tác thông tin, tuyên truyền về trưng cầu ý dân và công tác bảo vệ an ninh, trật tự, an toàn xã hội trong quá trình tổ chức trưng cầu ý dân ở địa phương;
+
+ d) Giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong việc thực hiện trưng cầu ý dân tại địa phương theo thẩm quyền;
+
+ đ) Báo cáo tình hình tổ chức việc trưng cầu ý dân với Ủy ban nhân dân cấp tỉnh;
+
+ e) Ở huyện không có đơn vị hành chính xã, thị trấn thì Ủy ban nhân dân huyện thực hiện cả các nhiệm vụ, quyền hạn quy định tại khoản 3 Điều này.
+
+ 3. Ủy ban nhân dân cấp xã có các nhiệm vụ, quyền hạn sau đây:
+
+ a) Xác định khu vực bỏ phiếu trưng cầu ý dân; thành lập Tổ trưng cầu ý dân ở từng khu vực bỏ phiếu;
+
+ b) Thực hiện công tác thông tin, tuyên truyền về trưng cầu ý dân và công tác bảo vệ an ninh, trật tự, an toàn xã hội trong quá trình tổ chức trưng cầu ý dân ở địa phương;
+
+ c) Tổ chức việc bỏ phiếu trưng cầu ý dân ở địa phương;
+
+ d) Giải quyết khiếu nại, tố cáo, giải đáp thắc mắc của cử tri và xử lý vi phạm pháp luật trong việc thực hiện trưng cầu ý dân tại địa phương theo thẩm quyền;
+
+ đ) Báo cáo tình hình tổ chức việc trưng cầu ý dân với Ủy ban nhân dân cấp huyện;
+
+ e) Nhận, kiểm tra báo cáo kết quả kiểm phiếu trưng cầu ý dân do Tổ trưng cầu ý dân gửi đến; lập báo cáo kết quả trưng cầu ý dân tại địa phương mình gửi Ủy ban nhân dân cấp huyện, cấp tỉnh.(Điều này có nội dung liên quan đến Điều 18.1.LQ.17. Thẩm quyền của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn và Thủ trưởng cơ quan thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh; Điều 18.1.LQ.18. Thẩm quyền của Chủ tịch Ủy ban nhân dân cấp huyện; Điều 18.1.LQ.21. Thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh; Điều 18.5.LQ.13. Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong cơ quan hành chính nhà nước; Điều 18.1.NĐ.1.7. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc phối hợp xử lý trường hợp nhiều người cùng khiếu nại về một nội dung ở xã, phường, thị trấn; Điều 18.1.NĐ.1.8. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc phối hợp xử lý trường hợp nhiều người cùng khiếu nại về một nội dung ở huyện, quận, thị xã, thành phố thuộc tỉnh; Điều 18.1.NĐ.1.9. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc phối hợp xử lý trường hợp nhiều người cùng khiếu nại về một nội dung ở tỉnh, thành phố trực thuộc Trung ương)
 
 Điều 44.15.LQ.21. Thành lập Tổ trưng cầu ý dân và nhiệm vụ, quyền hạn của Tổ trưng cầu ý dân
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000300002100000000000000000
+ 1. Tổ trưng cầu ý dân được thành lập ở mỗi khu vực bỏ phiếu chậm nhất là 40 ngày trước ngày bỏ phiếu trưng cầu ý dân. Tổ trưng cầu ý dân có từ chín đến mười một thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương.
 
-**ID:** dk_00072413
+ Đơn vị vũ trang nhân dân được xác định là khu vực bỏ phiếu riêng được thành lập một Tổ trưng cầu ý dân có từ bảy đến chín thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện chỉ huy đơn vị và đại diện quân nhân của đơn vị vũ trang nhân dân đó.
 
----
+ Trong trường hợp đơn vị vũ trang nhân dân và địa phương có chung một khu vực bỏ phiếu thì Ủy ban nhân dân cấp xã sau khi thống nhất với chỉ huy đơn vị vũ trang nhân dân quyết định thành lập Tổ trưng cầu ý dân có từ chín đến mười một thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương, đại diện chỉ huy đơn vị và đại diện quân nhân của đơn vị vũ trang nhân dân đó.
 
+ 2. Tổ trưng cầu ý dân có các nhiệm vụ, quyền hạn sau đây:
 
-### Điều 44.15.LQ.22. Cơ quan giúp việc và việc trưng tập cán bộ, công chức, viên chức trong trưng cầu ý dân
+ a) Phụ trách công tác trưng cầu ý dân tại khu vực bỏ phiếu trưng cầu ý dân;
 
-Điều 44.15.LQ.22. Cơ quan giúp việc và việc trưng tập cán bộ, công chức, viên chức trong trưng cầu ý dân
+ b) Bố trí phòng bỏ phiếu và chuẩn bị hòm phiếu;
 
-**Chỉ mục:** 22
+ c) Nhận tài liệu và phiếu trưng cầu ý dân từ Ủy ban nhân dân cấp xã; phát thẻ cử tri, phiếu trưng cầu ý dân có đóng dấu của Tổ trưng cầu ý dân cho cử tri;
 
-**Mã phân cấp:** 4401500000000000300002200000000000000000
+ d) Thông báo cho cử tri biết thời gian, địa điểm bỏ phiếu trưng cầu ý dân;
 
-**ID:** dk_00072414
+ đ) Bảo đảm thực hiện nghiêm chỉnh quy định của pháp luật về trưng cầu ý dân và nội quy phòng bỏ phiếu;
 
----
+ e) Kiểm phiếu và lập biên bản kết quả kiểm phiếu để gửi đến Ủy ban nhân dân cấp xã;
 
+ g) Giải quyết khiếu nại, tố cáo của cử tri; báo cáo Ủy ban nhân dân cấp xã về các khiếu nại, tố cáo của cử tri không thuộc thẩm quyền giải quyết của mình;
 
-### Điều 44.15.LQ.23. Trách nhiệm của cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân trong việc tổ chức trưng cầu ý dân
+ h) Chuyển biên bản kết quả kiểm phiếu và toàn bộ phiếu trưng cầu ý dân đến Ủy ban nhân dân cấp xã;
 
-Điều 44.15.LQ.23. Trách nhiệm của cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân trong việc tổ chức trưng cầu ý dân
+ i) Báo cáo tình hình tổ chức trưng cầu ý dân theo hướng dẫn của Ủy ban nhân dân cấp xã;
 
-**Chỉ mục:** 23
+ k) Tổ chức việc bỏ phiếu lại tại khu vực bỏ phiếu trưng cầu ý dân (nếu có).
 
-**Mã phân cấp:** 4401500000000000300002300000000000000000
+ 3. Tổ trưng cầu ý dân kết thúc hoạt động sau 30 ngày kể từ ngày kết quả trưng cầu ý dân được công bố.Điều 44.15.LQ.22. Cơ quan giúp việc và việc trưng tập cán bộ, công chức, viên chức trong trưng cầu ý dân
 
-**ID:** dk_00072415
+(Điều 22 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ Ủy ban thường vụ Quốc hội, Ủy ban nhân dân các cấp có quyền thành lập hoặc phân công cơ quan chuyên môn trực thuộc để giúp việc trong tổ chức trưng cầu ý dân; trưng tập cán bộ, công chức, viên chức của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị sự nghiệp công lập để giúp thực hiện các công việc liên quan đến tổ chức trưng cầu ý dân.Điều 44.15.LQ.23. Trách nhiệm của cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân trong việc tổ chức trưng cầu ý dân
 
+(Điều 23 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.24. Nguyên tắc lập danh sách cử tri
+ Cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân có trách nhiệm thực hiện nghiêm chỉnh quy định của pháp luật về trưng cầu ý dân, tạo điều kiện để cơ quan, tổ chức phụ trách trưng cầu ý dân thực hiện nhiệm vụ và quyền hạn của mình theo quy định của pháp luật.Chương IV
 
-*Nội dung chưa có sẵn*
+DANH SÁCH CỬ TRI VÀ KHU VỰC BỎ PHIẾU TRƯNG CẦU Ý DÂN
 
-**Chỉ mục:** 24
+Điều 44.15.LQ.24. Nguyên tắc lập danh sách cử tri
 
-**Mã phân cấp:** 4401500000000000400002400000000000000000
+(Điều 24 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072417
+ 1. Mọi công dân có quyền bỏ phiếu trưng cầu ý dân đều được ghi tên vào danh sách cử tri và được phát thẻ cử tri.
 
----
+ 2. Mỗi công dân chỉ được ghi tên vào một danh sách cử tri ở nơi mình thường trú hoặc tạm trú.
 
+ 3. Cử tri là người đang bị tạm giam, tạm giữ, người đang chấp hành biện pháp đưa vào cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc được ghi tên vào danh sách cử tri tại nơi người đó đang bị tạm giam, tạm giữ, nơi có cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.
 
-### Điều 44.15.LQ.25. Các trường hợp không được ghi tên, bị xóa tên, được bổ sung tên vào danh sách cử tri
+ 4. Cử tri là công dân Việt Nam ở nước ngoài trở về Việt Nam trong khoảng thời gian từ sau khi danh sách cử tri đã được niêm yết đến trước thời điểm bắt đầu bỏ phiếu 24 giờ thì đến xuất trình hộ chiếu có ghi quốc tịch Việt Nam tại Ủy ban nhân dân cấp xã nơi mình đăng ký thường trú hoặc tạm trú để được ghi tên vào danh sách cử tri và được phát thẻ cử tri.Điều 44.15.LQ.25. Các trường hợp không được ghi tên, bị xóa tên, được bổ sung tên vào danh sách cử tri
 
-Điều 44.15.LQ.25. Các trường hợp không được ghi tên, bị xóa tên, được bổ sung tên vào danh sách cử tri
+(Điều 25 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 25
+ 1. Người bị kết án tử hình đang trong thời gian chờ thi hành án, người đang phải chấp hành hình phạt tù mà không được hưởng án treo, người bị Tòa án tuyên bố mất năng lực hành vi dân sự thì không được ghi tên vào danh sách cử tri.
 
-**Mã phân cấp:** 4401500000000000400002500000000000000000
+ 2. Người đã có tên trong danh sách cử tri nếu đến thời điểm bắt đầu bỏ phiếu bị kết án tử hình, phải chấp hành hình phạt tù mà không được hưởng án treo hoặc bị Tòa án tuyên bố mất năng lực hành vi dân sự thì Ủy ban nhân dân cấp xã xóa tên người đó trong danh sách cử tri và thu hồi thẻ cử tri.
 
-**ID:** dk_00072418
+ 3. Người thuộc trường hợp quy định tại khoản 1 Điều này nếu đến trước thời điểm bắt đầu bỏ phiếu 24 giờ mà được trả tự do hoặc được Tòa án hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự thì được bổ sung tên vào danh sách cử tri và nhận thẻ cử tri để bỏ phiếu trưng cầu ý dân.
 
----
+ 4. Cử tri quy định tại khoản 3 Điều 24 của Luật này nếu đến trước thời điểm bắt đầu bỏ phiếu 24 giờ mà được trả tự do hoặc đã hết thời gian giáo dục bắt buộc, cai nghiện bắt buộc thì được xóa tên trong danh sách cử tri tại nơi có trại tạm giam, nhà tạm giữ, nơi có cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc và được bổ sung tên vào danh sách cử tri tại nơi người đó đăng ký thường trú hoặc tạm trú, nhận thẻ cử tri để bỏ phiếu trưng cầu ý dân.Điều 44.15.LQ.26. Thẩm quyền lập danh sách cử tri
 
+(Điều 26 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.26. Thẩm quyền lập danh sách cử tri
+ 1. Danh sách cử tri do Ủy ban nhân dân cấp xã lập theo từng khu vực bỏ phiếu.
 
-*Nội dung chưa có sẵn*
+ Đối với huyện không có đơn vị hành chính xã, thị trấn thì Ủy ban nhân dân huyện có trách nhiệm lập danh sách cử tri theo từng khu vực bỏ phiếu.
 
-**Chỉ mục:** 26
+ 2. Danh sách cử tri trong đơn vị vũ trang nhân dân do chỉ huy đơn vị lập theo đơn vị vũ trang nhân dân để đưa vào danh sách cử tri của khu vực bỏ phiếu nơi đơn vị đóng quân. Quân nhân có hộ khẩu thường trú ở địa phương gần khu vực đóng quân có thể được chỉ huy đơn vị cấp giấy chứng nhận để được ghi tên vào danh sách cử tri và tham gia bỏ phiếu ở nơi thường trú. Khi cấp giấy chứng nhận, chỉ huy đơn vị phải ghi ngay vào danh sách cử tri tại đơn vị vũ trang nhân dân bên cạnh tên người đó cụm từ “Bỏ phiếu ở nơi cư trú”.Điều 44.15.LQ.27. Niêm yết danh sách cử tri
 
-**Mã phân cấp:** 4401500000000000400002600000000000000000
+(Điều 27 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072419
+ Chậm nhất là 30 ngày trước ngày bỏ phiếu trưng cầu ý dân, cơ quan lập danh sách cử tri niêm yết danh sách cử tri tại trụ sở Ủy ban nhân dân cấp xã và tại những địa điểm công cộng của khu vực bỏ phiếu, đồng thời thông báo rộng rãi danh sách cử tri và việc niêm yết để Nhân dân kiểm tra.Điều 44.15.LQ.28. Khiếu nại và giải quyết khiếu nại về danh sách cử tri
 
----
+(Điều 28 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+Khi kiểm tra danh sách cử tri, nếu phát hiện có sai sót thì trong thời hạn 10 ngày kể từ ngày niêm yết, công dân có quyền khiếu nại với cơ quan lập danh sách cử tri. Cơ quan lập danh sách cử tri phải ghi vào sổ những khiếu nại đó. Trong thời hạn 03 ngày kể từ ngày nhận được khiếu nại, cơ quan lập danh sách cử tri phải giải quyết và thông báo cho người khiếu nại biết kết quả giải quyết.
 
-### Điều 44.15.LQ.27. Niêm yết danh sách cử tri
+Trường hợp người khiếu nại không đồng ý về kết quả giải quyết khiếu nại hoặc hết thời hạn giải quyết mà khiếu nại không được giải quyết thì có quyền khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về tố tụng hành chính.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Chương XII THỦ TỤC GIẢI QUYẾT KHIẾU KIỆN DANH SÁCH CỬ TRI BẦU CỬ ĐẠI BIỂU QUỐC HỘI, DANH SÁCH CỬ TRI BẦU CỬ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN, DANH SÁCH CỬ TRI TRƯNG CẦU Ý DÂN; Điều 37.6.LQ.198. Nhận đơn khởi kiện và thụ lý vụ án; Điều 37.6.LQ.199. Thời hạn giải quyết vụ án; Điều 37.6.LQ.200. Sự có mặt của đương sự, đại diện Viện kiểm sát; Điều 37.6.LQ.201. Áp dụng các quy định khác của Luật này; Điều 37.6.LQ.202. Hiệu lực của bản án, quyết định đình chỉ vụ án của Tòa án)
 
-**Chỉ mục:** 27
+Điều 44.15.LQ.29. Bỏ phiếu ở nơi khác
 
-**Mã phân cấp:** 4401500000000000400002700000000000000000
+(Điều 29 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072420
+ Từ khi niêm yết danh sách cử tri cho đến ngày bỏ phiếu trưng cầu ý dân, nếu cử tri nào vì đi nơi khác, không thể tham gia bỏ phiếu trưng cầu ý dân ở nơi đã được ghi tên vào danh sách cử tri thì có quyền đề nghị Ủy ban nhân dân cấp xã nơi mình đã có tên trong danh sách cử tri cấp giấy chứng nhận để được bổ sung tên vào danh sách cử tri và tham gia bỏ phiếu trưng cầu ý dân ở nơi mình có thể tham gia bỏ phiếu. Khi cấp giấy chứng nhận, Ủy ban nhân dân cấp xã phải ghi ngay vào danh sách cử tri tại khu vực bỏ phiếu trưng cầu ý dân thuộc địa phương mình bên cạnh tên người đó cụm từ “Bỏ phiếu ở nơi khác”.Điều 44.15.LQ.30. Khu vực bỏ phiếu trưng cầu ý dân
 
----
+(Điều 30 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ 1. Việc xác định khu vực bỏ phiếu trưng cầu ý dân do Ủy ban nhân dân cấp xã quyết định và được Ủy ban nhân dân cấp huyện phê chuẩn. Đối với huyện không có đơn vị hành chính xã, thị trấn thì việc xác định khu vực bỏ phiếu trưng cầu ý dân do Ủy ban nhân dân huyện quyết định.
 
-### Điều 44.15.LQ.28. Khiếu nại và giải quyết khiếu nại về danh sách cử tri
+ 2. Mỗi khu vực bỏ phiếu trưng cầu ý dân có từ ba trăm đến bốn nghìn cử tri. Ở miền núi, vùng cao, hải đảo và những nơi dân cư không tập trung thì dù chưa có đủ ba trăm cử tri cũng được thành lập một khu vực bỏ phiếu trưng cầu ý dân.
 
-Điều 44.15.LQ.28. Khiếu nại và giải quyết khiếu nại về danh sách cử tri
+ 3. Các trường hợp có thể thành lập khu vực bỏ phiếu trưng cầu ý dân riêng gồm:
 
-**Chỉ mục:** 28
+ a) Đơn vị vũ trang nhân dân;
 
-**Mã phân cấp:** 4401500000000000400002800000000000000000
+ b) Bệnh viện, nhà an dưỡng, nhà hộ sinh, cơ sở chăm sóc người khuyết tật, cơ sở chăm sóc người cao tuổi có từ năm mươi cử tri trở lên;
 
-**ID:** dk_00072421
+ c) Cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc, trại tạm giam.Chương V
 
----
-
-
-### Điều 44.15.LQ.29. Bỏ phiếu ở nơi khác
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 4401500000000000400002900000000000000000
-
-**ID:** dk_00072422
-
----
-
-
-### Điều 44.15.LQ.30. Khu vực bỏ phiếu trưng cầu ý dân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 4401500000000000400003000000000000000000
-
-**ID:** dk_00072423
-
----
-
-
-### Điều 44.15.LQ.31. Mục đích, nguyên tắc thông tin, tuyên truyền về trưng cầu ý dân
+THÔNG TIN, TUYÊN TRUYỀN VỀ TRƯNG CẦU Ý DÂN
 
 Điều 44.15.LQ.31. Mục đích, nguyên tắc thông tin, tuyên truyền về trưng cầu ý dân
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000500003100000000000000000
+ 1. Việc thông tin, tuyên truyền về trưng cầu ý dân nhằm cung cấp thông tin đầy đủ, đúng đắn về vấn đề được đưa ra trưng cầu ý dân để cử tri hiểu rõ ý nghĩa của việc trưng cầu ý dân, nội dung trưng cầu ý dân; quyền, nghĩa vụ và trách nhiệm của cử tri trong việc tham gia trưng cầu ý dân; động viên, khuyến khích cử tri tham gia tích cực vào việc bỏ phiếu trưng cầu ý dân.
 
-**ID:** dk_00072425
-
----
-
-
-### Điều 44.15.LQ.32. Nội dung thông tin, tuyên truyền về trưng cầu ý dân
+ 2. Việc thông tin, tuyên truyền về trưng cầu ý dân được tiến hành công khai, dân chủ, khách quan, khoa học, đúng pháp luật, thuận lợi cho cử tri và bảo đảm trật tự, an toàn xã hội.(Điều này có nội dung liên quan đến Điều 32.2.LQ.17. Thông tin phải được công khai)
 
 Điều 44.15.LQ.32. Nội dung thông tin, tuyên truyền về trưng cầu ý dân
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000500003200000000000000000
+ 1. Sự cần thiết của việc trưng cầu ý dân; mục đích, quan điểm trưng cầu ý dân.
 
-**ID:** dk_00072426
+ 2. Nội dung trưng cầu ý dân; các phương án, giải pháp để thực hiện kết quả trưng cầu ý dân.
 
----
+ 3. Đối tượng, phạm vi tác động của vấn đề trưng cầu ý dân.
 
+ 4. Thời gian tổ chức trưng cầu ý dân.
 
-### Điều 44.15.LQ.33. Hình thức thông tin, tuyên truyền về trưng cầu ý dân
+ 5. Quyền, nghĩa vụ, trách nhiệm của cử tri trong việc tham gia trưng cầu ý dân.(Điều này có nội dung liên quan đến Điều 32.2.LQ.17. Thông tin phải được công khai)
 
 Điều 44.15.LQ.33. Hình thức thông tin, tuyên truyền về trưng cầu ý dân
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000500003300000000000000000
+ 1. Phát hành các ấn phẩm, tài liệu chính thức của Ủy ban thường vụ Quốc hội về vấn đề được trưng cầu ý dân.
 
-**ID:** dk_00072427
+ 2. Tổ chức thông tin, tuyên truyền về trưng cầu ý dân trên các phương tiện thông tin đại chúng theo quy định của pháp luật.
 
----
+ 3. Thông qua hội nghị cử tri do Ủy ban nhân dân cấp xã tổ chức.
 
-
-### Điều 44.15.LQ.34. Trách nhiệm của cơ quan, tổ chức trong thông tin, tuyên truyền về trưng cầu ý dân
+ 4. Các hình thức khác do Ủy ban thường vụ Quốc hội quy định.(Điều này có nội dung liên quan đến Điều 32.2.LQ.17. Thông tin phải được công khai)
 
 Điều 44.15.LQ.34. Trách nhiệm của cơ quan, tổ chức trong thông tin, tuyên truyền về trưng cầu ý dân
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000500003400000000000000000
+ 1. Ủy ban thường vụ Quốc hội chủ trì, phối hợp với Chính phủ chỉ đạo công tác thông tin, tuyên truyền về trưng cầu ý dân trong phạm vi cả nước; Ủy ban nhân dân các cấp chỉ đạo thực hiện công tác thông tin, tuyên truyền về trưng cầu ý dân ở địa phương.
 
-**ID:** dk_00072428
+ 2. Các cơ quan báo chí ở trung ương và địa phương có trách nhiệm tuyên truyền về trưng cầu ý dân, thông tin về tình hình tổ chức trưng cầu ý dân theo quy định của pháp luật, sự chỉ đạo của Ủy ban thường vụ Quốc hội, Chính phủ và Ủy ban nhân dân các cấp.
 
----
+ 3. Cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân và chính quyền địa phương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tham gia và tạo điều kiện cho công tác thông tin, tuyên truyền về trưng cầu ý dân ở cơ quan, tổ chức, đơn vị và địa phương mình.Chương VI
 
+TRÌNH TỰ, THỦ TỤC BỎ PHIẾU TRƯNG CẦU Ý DÂN; QUYỀN, NGHĨA VỤ CỦA CỬ TRI TRONG TRƯNG CẦU Ý DÂN
 
-### Điều 44.15.LQ.35. Phiếu trưng cầu ý dân
+Điều 44.15.LQ.35. Phiếu trưng cầu ý dân
 
-*Nội dung chưa có sẵn*
+(Điều 35 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 35
+ 1. Phiếu trưng cầu ý dân được sử dụng thống nhất trong phạm vi cả nước.
 
-**Mã phân cấp:** 4401500000000000600003500000000000000000
+ 2. Nội dung phiếu trưng cầu ý dân phải đầy đủ, rõ ràng, dễ hiểu, khách quan, chính xác và rõ nghĩa.
 
-**ID:** dk_00072430
+ 3. Ủy ban thường vụ Quốc hội quy định cụ thể về nội dung, hình thức phiếu trưng cầu ý dân; việc in ấn, phát hành và quản lý phiếu trưng cầu ý dân.Điều 44.15.LQ.36. Thông báo về thời gian và địa điểm bỏ phiếu trưng cầu ý dân
 
----
+(Điều 36 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ Trong thời hạn 10 ngày trước ngày bỏ phiếu trưng cầu ý dân, Tổ trưng cầu ý dân phải thường xuyên thông báo cho cử tri ở địa phương biết về ngày bỏ phiếu, địa điểm bỏ phiếu, thời gian bỏ phiếu trưng cầu ý dân bằng hình thức niêm yết, phát thanh và các phương tiện thông tin đại chúng khác của địa phương.Điều 44.15.LQ.37. Thời gian bỏ phiếu trưng cầu ý dân
 
-### Điều 44.15.LQ.36. Thông báo về thời gian và địa điểm bỏ phiếu trưng cầu ý dân
+(Điều 37 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 44.15.LQ.36. Thông báo về thời gian và địa điểm bỏ phiếu trưng cầu ý dân
+ 1. Việc bỏ phiếu trưng cầu ý dân bắt đầu từ bảy giờ sáng đến bảy giờ tối cùng ngày. Tùy tình hình địa phương, Tổ trưng cầu ý dân có thể quyết định cho bắt đầu việc bỏ phiếu sớm hơn nhưng không được trước năm giờ sáng hoặc kết thúc muộn hơn nhưng không được quá chín giờ tối cùng ngày.
 
-**Chỉ mục:** 36
+ Trường hợp ở khu vực bỏ phiếu trưng cầu ý dân đã có một trăm phần trăm cử tri trong danh sách thực hiện việc bỏ phiếu thì việc bỏ phiếu ở khu vực bỏ phiếu đó có thể kết thúc sớm nhưng không được trước ba giờ chiều cùng ngày.
 
-**Mã phân cấp:** 4401500000000000600003600000000000000000
+ 2. Trước khi bỏ phiếu, Tổ trưng cầu ý dân phải kiểm tra hòm phiếu trước sự chứng kiến của cử tri.
 
-**ID:** dk_00072431
+ 3. Việc bỏ phiếu phải được tiến hành liên tục. Trong trường hợp có sự kiện bất ngờ làm gián đoạn việc bỏ phiếu thì Tổ trưng cầu ý dân phải lập tức niêm phong hòm phiếu, tài liệu liên quan trực tiếp đến trưng cầu ý dân, kịp thời báo cáo Ủy ban nhân dân cấp xã, đồng thời phải có những biện pháp cần thiết để việc bỏ phiếu được tiếp tục.Điều 44.15.LQ.38. Bỏ phiếu sớm, hoãn ngày bỏ phiếu
 
----
+(Điều 38 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ Trường hợp đặc biệt cần bỏ phiếu trưng cầu ý dân sớm hơn ngày quy định hoặc hoãn ngày bỏ phiếu tại một hoặc một số khu vực bỏ phiếu, một hoặc một số đơn vị hành chính cấp xã, cấp huyện thì Ủy ban nhân dân tại nơi cần bỏ phiếu sớm hoặc hoãn ngày bỏ phiếu phải kịp thời báo cáo Ủy ban nhân dân cấp tỉnh để trình Ủy ban thường vụ Quốc hội xem xét, quyết định.Điều 44.15.LQ.39. Quyền, nghĩa vụ của cử tri và nguyên tắc bỏ phiếu trưng cầu ý dân
 
-### Điều 44.15.LQ.37. Thời gian bỏ phiếu trưng cầu ý dân
+(Điều 39 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 44.15.LQ.37. Thời gian bỏ phiếu trưng cầu ý dân
+ 1. Bỏ phiếu trưng cầu ý dân là quyền và nghĩa vụ của cử tri; mọi cử tri có trách nhiệm tham gia đầy đủ.
 
-**Chỉ mục:** 37
+ 2. Mỗi cử tri có quyền bỏ một phiếu trưng cầu ý dân.
 
-**Mã phân cấp:** 4401500000000000600003700000000000000000
+ 3. Cử tri phải tự mình bỏ phiếu trưng cầu ý dân, không được nhờ người khác bỏ phiếu thay, trừ trường hợp quy định tại khoản 7 Điều này. Khi bỏ phiếu trưng cầu ý dân, cử tri phải xuất trình thẻ cử tri.
 
-**ID:** dk_00072432
+ 4. Trong trường hợp cử tri ốm đau, già yếu, khuyết tật không thể đến phòng bỏ phiếu trưng cầu ý dân được thì Tổ trưng cầu ý dân mang hòm phiếu phụ và phiếu trưng cầu ý dân đến chỗ ở, chỗ điều trị của cử tri để cử tri nhận phiếu trưng cầu ý dân và thực hiện việc bỏ phiếu. Đối với cử tri là người đang bị tạm giam, người đang chấp hành biện pháp đưa vào cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc mà trại tạm giam, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc không thành lập khu vực bỏ phiếu riêng hoặc cử tri là người đang bị tạm giữ tại nhà tạm giữ thì Tổ trưng cầu ý dân mang hòm phiếu phụ và phiếu trưng cầu ý dân đến trại tạm giam, nhà tạm giữ, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc để cử tri nhận phiếu và thực hiện việc bỏ phiếu trưng cầu ý dân.
 
----
+ 5. Khi cử tri viết phiếu trưng cầu ý dân, không ai được xem, kể cả thành viên Tổ trưng cầu ý dân.
 
+ 6. Nếu viết hỏng, cử tri có quyền đổi phiếu trưng cầu ý dân khác.
 
-### Điều 44.15.LQ.38. Bỏ phiếu sớm, hoãn ngày bỏ phiếu
+ 7. Cử tri không thể tự viết được phiếu trưng cầu ý dân thì có thể nhờ người khác viết hộ, nhưng phải tự mình bỏ phiếu; người viết hộ phải bảo đảm bí mật phiếu trưng cầu ý dân của cử tri. Trường hợp cử tri vì khuyết tật mà không tự bỏ phiếu được thì nhờ người khác bỏ phiếu vào hòm phiếu.
 
-*Nội dung chưa có sẵn*
+ 8. Khi cử tri bỏ phiếu xong, Tổ trưng cầu ý dân có trách nhiệm đóng dấu “Đã bỏ phiếu” vào thẻ cử tri.
 
-**Chỉ mục:** 38
+ 9. Mọi người phải tuân theo nội quy phòng bỏ phiếu trưng cầu ý dân.Chương VII
 
-**Mã phân cấp:** 4401500000000000600003800000000000000000
+KẾT QUẢ TRƯNG CẦU Ý DÂN
 
-**ID:** dk_00072433
+Mục 1
 
----
+KIỂM PHIẾU
 
+Điều 44.15.LQ.40. Kiểm phiếu
 
-### Điều 44.15.LQ.39. Quyền, nghĩa vụ của cử tri và nguyên tắc bỏ phiếu trưng cầu ý dân
+(Điều 40 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 44.15.LQ.39. Quyền, nghĩa vụ của cử tri và nguyên tắc bỏ phiếu trưng cầu ý dân
+ Việc kiểm phiếu phải được tiến hành tại phòng bỏ phiếu ngay sau khi cuộc bỏ phiếu kết thúc.
 
-**Chỉ mục:** 39
+ Trước khi mở hòm phiếu, Tổ trưng cầu ý dân phải thống kê, lập biên bản, niêm phong số phiếu trưng cầu ý dân không sử dụng đến và phải mời hai cử tri chứng kiến việc kiểm phiếu.Điều 44.15.LQ.41. Phiếu trưng cầu ý dân không hợp lệ
 
-**Mã phân cấp:** 4401500000000000600003900000000000000000
+(Điều 41 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072434
+ 1. Những phiếu trưng cầu ý dân sau đây là phiếu không hợp lệ:
 
----
+ a) Phiếu không theo mẫu quy định do Tổ trưng cầu ý dân phát ra;
 
+ b) Phiếu không có dấu của Tổ trưng cầu ý dân;
 
-### Điều 44.15.LQ.40. Kiểm phiếu
+ c) Phiếu đánh dấu nhiều hơn một phương án được chọn theo quy định;
 
-*Nội dung chưa có sẵn*
+ d) Phiếu bỏ trống tất cả các phương án;
 
-**Chỉ mục:** 40
+ đ) Phiếu có viết thêm nội dung khác.
 
-**Mã phân cấp:** 440150000000000070000010000000000000000004000000000000000000
+ 2. Trường hợp có phiếu trưng cầu ý dân được cho là không hợp lệ thì Tổ trưởng Tổ trưng cầu ý dân đưa ra để toàn Tổ xem xét, quyết định. Tổ trưng cầu ý dân không được gạch xóa hoặc sửa chữa trên phiếu trưng cầu ý dân.Điều 44.15.LQ.42. Khiếu nại, tố cáo về kiểm phiếu
 
-**ID:** dk_00072437
+(Điều 42 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ Những khiếu nại, tố cáo tại chỗ về những hành vi có dấu hiệu vi phạm pháp luật trong việc kiểm phiếu do Tổ trưng cầu ý dân tiếp nhận, giải quyết. Việc giải quyết phải được lập thành biên bản.
 
+ Trong trường hợp Tổ trưng cầu ý dân không giải quyết được thì phải ghi rõ ý kiến của Tổ trưng cầu ý dân vào biên bản giải quyết khiếu nại, tố cáo và chuyển đến Ủy ban nhân dân cấp xã sau khi kết thúc việc kiểm phiếu.Điều 44.15.LQ.43. Biên bản kết quả kiểm phiếu của Tổ trưng cầu ý dân
 
-### Điều 44.15.LQ.41. Phiếu trưng cầu ý dân không hợp lệ
+(Điều 43 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 44.15.LQ.41. Phiếu trưng cầu ý dân không hợp lệ
+ 1. Sau khi kiểm phiếu xong, Tổ trưng cầu ý dân phải lập biên bản kết quả kiểm phiếu. Biên bản kết quả kiểm phiếu phải có các nội dung sau đây:
 
-**Chỉ mục:** 41
+ a) Tổng số cử tri của khu vực bỏ phiếu trưng cầu ý dân;
 
-**Mã phân cấp:** 440150000000000070000010000000000000000004100000000000000000
+ b) Số cử tri đã tham gia bỏ phiếu;
 
-**ID:** dk_00072438
+ c) Số phiếu phát ra;
 
----
+ d) Số phiếu thu vào;
 
+ đ) Số phiếu hợp lệ;
 
-### Điều 44.15.LQ.42. Khiếu nại, tố cáo về kiểm phiếu
+ e) Số phiếu không hợp lệ;
 
-*Nội dung chưa có sẵn*
+ g) Số phiếu tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân;
 
-**Chỉ mục:** 42
+ h) Số phiếu không tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân;
 
-**Mã phân cấp:** 440150000000000070000010000000000000000004200000000000000000
+ i) Những khiếu nại, tố cáo nhận được; những khiếu nại, tố cáo đã giải quyết và kết quả giải quyết; những khiếu nại, tố cáo chuyển đến Ủy ban nhân dân cấp xã.
 
-**ID:** dk_00072439
+ 2. Biên bản kết quả kiểm phiếu trưng cầu ý dân được lập thành hai bản, có chữ ký của Tổ trưởng, Thư ký Tổ trưng cầu ý dân và hai cử tri được mời chứng kiến việc kiểm phiếu. Toàn bộ biên bản và phiếu trưng cầu ý dân được niêm phong và gửi đến Ủy ban nhân dân cấp xã chậm nhất là 03 ngày sau ngày bỏ phiếu để tổng hợp và lưu trữ.Mục 2
 
----
+KẾT QUẢ TRƯNG CẦU Ý DÂN
 
+Điều 44.15.LQ.44. Kết quả trưng cầu ý dân
 
-### Điều 44.15.LQ.43. Biên bản kết quả kiểm phiếu của Tổ trưng cầu ý dân
+(Điều 44 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 44.15.LQ.43. Biên bản kết quả kiểm phiếu của Tổ trưng cầu ý dân
+ 1. Cuộc trưng cầu ý dân hợp lệ phải được ít nhất ba phần tư tổng số cử tri cả nước có tên trong danh sách cử tri đi bỏ phiếu.
 
-**Chỉ mục:** 43
+ 2. Nội dung trưng cầu ý dân được quá nửa số phiếu hợp lệ tán thành có giá trị thi hành; đối với trưng cầu ý dân về Hiến pháp quy định tại khoản 1 Điều 6 của Luật này phải được ít nhất hai phần ba số phiếu hợp lệ tán thành.Điều 44.15.LQ.45. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp xã
 
-**Mã phân cấp:** 440150000000000070000010000000000000000004300000000000000000
+(Điều 45 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00072440
+ 1. Sau khi nhận được biên bản kết quả kiểm phiếu của các Tổ trưng cầu ý dân, Ủy ban nhân dân cấp xã kiểm tra các biên bản đó và lập báo cáo kết quả trưng cầu ý dân ở địa phương mình. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp xã phải có các nội dung sau đây:
 
----
+ a) Tổng số cử tri trên địa bàn hành chính cấp xã;
 
+ b) Số cử tri đã tham gia bỏ phiếu;
 
-### Điều 44.15.LQ.44. Kết quả trưng cầu ý dân
+ c) Số phiếu phát ra;
 
-*Nội dung chưa có sẵn*
+ d) Số phiếu thu vào;
 
-**Chỉ mục:** 44
+ đ) Số phiếu hợp lệ;
 
-**Mã phân cấp:** 440150000000000070000020000000000000000004400000000000000000
+ e) Số phiếu không hợp lệ;
 
-**ID:** dk_00072442
+ g) Số phiếu tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân;
 
----
+ h) Số phiếu không tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân;
 
+ i) Những khiếu nại, tố cáo nhận được; những khiếu nại, tố cáo đã giải quyết và kết quả giải quyết; những khiếu nại, tố cáo chuyển đến Ủy ban nhân dân cấp trên.
 
-### Điều 44.15.LQ.45. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp xã
+ 2. Báo cáo kết quả trưng cầu ý dân được lập thành ba bản; một bản gửi đến Ủy ban nhân dân cấp huyện, một bản gửi đến Ủy ban nhân dân cấp tỉnh chậm nhất là 05 ngày sau ngày bỏ phiếu kèm theo biên bản kết quả kiểm phiếu của các Tổ trưng cầu ý dân và một bản lưu trữ.Điều 44.15.LQ.46. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp tỉnh
 
-Điều 44.15.LQ.45. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp xã
+(Điều 46 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 45
+ 1. Sau khi nhận được báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp tỉnh kiểm tra các báo cáo đó và tổng hợp báo cáo kết quả trưng cầu ý dân ở địa phương mình. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp tỉnh phải có các nội dung sau đây:
 
-**Mã phân cấp:** 440150000000000070000020000000000000000004500000000000000000
+ a) Tổng số cử tri trên địa bàn hành chính cấp tỉnh;
 
-**ID:** dk_00072443
+ b) Số cử tri đã tham gia bỏ phiếu;
 
----
+ c) Số phiếu phát ra;
 
+ d) Số phiếu thu vào;
 
-### Điều 44.15.LQ.46. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp tỉnh
+ đ) Số phiếu hợp lệ;
 
-Điều 44.15.LQ.46. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp tỉnh
+ e) Số phiếu không hợp lệ;
 
-**Chỉ mục:** 46
+ g) Số phiếu tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân;
 
-**Mã phân cấp:** 440150000000000070000020000000000000000004600000000000000000
+ h) Số phiếu không tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân;
 
-**ID:** dk_00072444
+ i) Những khiếu nại, tố cáo nhận được; những khiếu nại, tố cáo đã giải quyết và kết quả giải quyết; những khiếu nại, tố cáo chuyển đến Ủy ban thường vụ Quốc hội.
 
----
+ 2. Báo cáo kết quả trưng cầu ý dân được lập thành hai bản; một bản gửi đến Ủy ban thường vụ Quốc hội chậm nhất là 09 ngày sau ngày bỏ phiếu kèm theo biên bản kết quả kiểm phiếu của các Tổ trưng cầu ý dân và một bản lưu trữ.Điều 44.15.LQ.47. Bỏ phiếu trưng cầu ý dân lại
 
+(Điều 47 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.47. Bỏ phiếu trưng cầu ý dân lại
+ Ủy ban thường vụ Quốc hội hủy bỏ kết quả bỏ phiếu trưng cầu ý dân ở khu vực bỏ phiếu có vi phạm pháp luật nghiêm trọng và quyết định ngày bỏ phiếu lại ở khu vực bỏ phiếu đó.
 
-*Nội dung chưa có sẵn*
+ Trong trường hợp bỏ phiếu trưng cầu ý dân lại thì ngày bỏ phiếu được tiến hành chậm nhất là 15 ngày sau ngày bỏ phiếu đầu tiên.Điều 44.15.LQ.48. Xác định và công bố kết quả trưng cầu ý dân
 
-**Chỉ mục:** 47
+(Điều 48 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 440150000000000070000020000000000000000004700000000000000000
+ 1. Sau khi nhận và kiểm tra báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp tỉnh và giải quyết khiếu nại, tố cáo (nếu có), Ủy ban thường vụ Quốc hội ra nghị quyết xác định kết quả trưng cầu ý dân trong cả nước.
 
-**ID:** dk_00072445
+ 2. Nghị quyết của Ủy ban thường vụ Quốc hội xác định kết quả trưng cầu ý dân có các nội dung sau đây:
 
----
+ a) Ngày bỏ phiếu trưng cầu ý dân;
 
+ b) Tổng số cử tri trong cả nước;
 
-### Điều 44.15.LQ.48. Xác định và công bố kết quả trưng cầu ý dân
+ c) Tổng số cử tri tham gia bỏ phiếu trưng cầu ý dân, tỷ lệ so với tổng số cử tri cả nước;
 
-Điều 44.15.LQ.48. Xác định và công bố kết quả trưng cầu ý dân
+ d) Tổng số phiếu hợp lệ;
 
-**Chỉ mục:** 48
+ đ) Tổng số phiếu không hợp lệ;
 
-**Mã phân cấp:** 440150000000000070000020000000000000000004800000000000000000
+ e) Số phiếu tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân, tỷ lệ so với tổng số phiếu hợp lệ;
 
-**ID:** dk_00072446
+ g) Số phiếu không tán thành với mỗi phương án được đưa ra trong phiếu trưng cầu ý dân, tỷ lệ so với tổng số phiếu hợp lệ;
 
----
+ h) Kết quả trưng cầu ý dân.
 
+ 3. Nghị quyết của Ủy ban thường vụ Quốc hội xác định kết quả trưng cầu ý dân phải được công bố chậm nhất là 15 ngày kể từ ngày bỏ phiếu trưng cầu ý dân; trường hợp bỏ phiếu lại thì thời hạn công bố kết quả trưng cầu ý dân chậm nhất là 15 ngày kể từ ngày bỏ phiếu lại.Điều 44.15.LQ.49. Báo cáo Quốc hội về kết quả trưng cầu ý dân
 
-### Điều 44.15.LQ.49. Báo cáo Quốc hội về kết quả trưng cầu ý dân
+(Điều 49 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 44.15.LQ.49. Báo cáo Quốc hội về kết quả trưng cầu ý dân
+ 1. Ủy ban thường vụ Quốc hội có trách nhiệm báo cáo Quốc hội về kết quả trưng cầu ý dân tại kỳ họp gần nhất.
 
-**Chỉ mục:** 49
+ 2. Căn cứ vào kết quả trưng cầu ý dân, Quốc hội quyết định các biện pháp cần thiết để bảo đảm thực hiện kết quả trưng cầu ý dân.Chương VIII
 
-**Mã phân cấp:** 440150000000000070000020000000000000000004900000000000000000
-
-**ID:** dk_00072447
-
----
-
-
-### Điều 44.15.LQ.50. Xử lý vi phạm phạm pháp luật về trưng cầu ý dân
+XỬ LÝ VI PHẠM PHÁP LUẬT VỀ TRƯNG CẦU Ý DÂN VÀ ĐIỀU KHOẢN THI HÀNH
 
 Điều 44.15.LQ.50. Xử lý vi phạm phạm pháp luật về trưng cầu ý dân
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 4401500000000000800005000000000000000000
+ 1. Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự.
 
-**ID:** dk_00072449
+ 2. Người nào cản trở hoặc trả thù người khiếu nại, tố cáo về trưng cầu ý dân thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự.(Điều này có nội dung liên quan đến Điều 39.13.LQ.1. Phạm vi điều chỉnh; Điều 16.1.LQ.160. Tội xâm phạm quyền của công dân về bầu cử, ứng cử hoặc biểu quyết khi Nhà nước trưng cầu ý dân; Điều 16.1.LQ.161. Tội làm sai lệch kết quả bầu cử, kết quả trưng cầu ý dân)
 
----
+Điều 44.15.LQ.51. Hiệu lực thi hành
 
+(Điều 51 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 44.15.LQ.51. Hiệu lực thi hành
+ Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.Điều 44.15.LQ.52. Quy định chi tiết và hướng dẫn thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 52 Luật số 96/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 51
+Ủy ban thường vụ Quốc hội, Chính phủ quy định chi tiết các điều, khoản được giao trong Luật và hướng dẫn việc thi hành Luật này.
 
-**Mã phân cấp:** 4401500000000000800005100000000000000000
+## Danh sách điều khoản
 
-**ID:** dk_00072450
+### 44015000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 4401500000000000100000100000000000000000
 
-### Điều 44.15.LQ.52. Quy định chi tiết và hướng dẫn thi hành
+Điều 44.15.LQ.1. Phạm vi điều chỉnh
+
+### 4401500000000000100000200000000000000000
+
+Điều 44.15.LQ.2. Đối tượng áp dụng
+
+### 4401500000000000100000300000000000000000
+
+Điều 44.15.LQ.3. Giải thích từ ngữ
+
+### 4401500000000000100000400000000000000000
+
+Điều 44.15.LQ.4. Nguyên tắc trưng cầu ý dân
+
+### 4401500000000000100000500000000000000000
+
+Điều 44.15.LQ.5. Người có quyền bỏ phiếu trưng cầu ý dân
+
+### 4401500000000000100000600000000000000000
+
+Điều 44.15.LQ.6. Các vấn đề trưng cầu ý dân
+
+### 4401500000000000100000700000000000000000
+
+Điều 44.15.LQ.7. Phạm vi tổ chức trưng cầu ý dân
+
+### 4401500000000000100000800000000000000000
+
+Điều 44.15.LQ.8. Ngày bỏ phiếu trưng cầu ý dân
+
+### 4401500000000000100000900000000000000000
+
+Điều 44.15.LQ.9. Các trường hợp không tổ chức trưng cầu ý dân
+
+### 4401500000000000100001000000000000000000
+
+Điều 44.15.LQ.10. Giám sát việc tổ chức trưng cầu ý dân
+
+### 4401500000000000100001100000000000000000
+
+Điều 44.15.LQ.11. Hiệu lực của kết quả trưng cầu ý dân
+
+### 4401500000000000100001200000000000000000
+
+Điều 44.15.LQ.12. Kinh phí tổ chức trưng cầu ý dân
+
+### 4401500000000000100001300000000000000000
+
+Điều 44.15.LQ.13. Các hành vi bị nghiêm cấm
+
+### 44015000000000002000
+
+Chương II ĐỀ NGHỊ TRƯNG CẦU Ý DÂN VÀ QUYẾT ĐỊNH VIỆC TRƯNG CẦU Ý DÂN
+
+### 4401500000000000200001400000000000000000
+
+Điều 44.15.LQ.14. Đề nghị trưng cầu ý dân
+
+### 4401500000000000200001500000000000000000
+
+Điều 44.15.LQ.15. Thẩm tra đề nghị trưng cầu ý dân
+
+### 4401500000000000200001600000000000000000
+
+Điều 44.15.LQ.16. Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân
+
+### 4401500000000000200001700000000000000000
+
+Điều 44.15.LQ.17. Quốc hội xem xét, quyết định việc trưng cầu ý dân
+
+### 44015000000000003000
+
+Chương III NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC TRONG TỔ CHỨC TRƯNG CẦU Ý DÂN
+
+### 4401500000000000300001800000000000000000
+
+Điều 44.15.LQ.18. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội
+
+### 4401500000000000300001900000000000000000
+
+Điều 44.15.LQ.19. Nhiệm vụ, quyền hạn của Chính phủ
+
+### 4401500000000000300002000000000000000000
+
+Điều 44.15.LQ.20. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp
+
+### 4401500000000000300002100000000000000000
+
+Điều 44.15.LQ.21. Thành lập Tổ trưng cầu ý dân và nhiệm vụ, quyền hạn của Tổ trưng cầu ý dân
+
+### 4401500000000000300002200000000000000000
+
+Điều 44.15.LQ.22. Cơ quan giúp việc và việc trưng tập cán bộ, công chức, viên chức trong trưng cầu ý dân
+
+### 4401500000000000300002300000000000000000
+
+Điều 44.15.LQ.23. Trách nhiệm của cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân trong việc tổ chức trưng cầu ý dân
+
+### 44015000000000004000
+
+Chương IV DANH SÁCH CỬ TRI VÀ KHU VỰC BỎ PHIẾU TRƯNG CẦU Ý DÂN
+
+### 4401500000000000400002400000000000000000
+
+Điều 44.15.LQ.24. Nguyên tắc lập danh sách cử tri
+
+### 4401500000000000400002500000000000000000
+
+Điều 44.15.LQ.25. Các trường hợp không được ghi tên, bị xóa tên, được bổ sung tên vào danh sách cử tri
+
+### 4401500000000000400002600000000000000000
+
+Điều 44.15.LQ.26. Thẩm quyền lập danh sách cử tri
+
+### 4401500000000000400002700000000000000000
+
+Điều 44.15.LQ.27. Niêm yết danh sách cử tri
+
+### 4401500000000000400002800000000000000000
+
+Điều 44.15.LQ.28. Khiếu nại và giải quyết khiếu nại về danh sách cử tri
+
+### 4401500000000000400002900000000000000000
+
+Điều 44.15.LQ.29. Bỏ phiếu ở nơi khác
+
+### 4401500000000000400003000000000000000000
+
+Điều 44.15.LQ.30. Khu vực bỏ phiếu trưng cầu ý dân
+
+### 44015000000000005000
+
+Chương V THÔNG TIN, TUYÊN TRUYỀN VỀ TRƯNG CẦU Ý DÂN
+
+### 4401500000000000500003100000000000000000
+
+Điều 44.15.LQ.31. Mục đích, nguyên tắc thông tin, tuyên truyền về trưng cầu ý dân
+
+### 4401500000000000500003200000000000000000
+
+Điều 44.15.LQ.32. Nội dung thông tin, tuyên truyền về trưng cầu ý dân
+
+### 4401500000000000500003300000000000000000
+
+Điều 44.15.LQ.33. Hình thức thông tin, tuyên truyền về trưng cầu ý dân
+
+### 4401500000000000500003400000000000000000
+
+Điều 44.15.LQ.34. Trách nhiệm của cơ quan, tổ chức trong thông tin, tuyên truyền về trưng cầu ý dân
+
+### 44015000000000006000
+
+Chương VI TRÌNH TỰ, THỦ TỤC BỎ PHIẾU TRƯNG CẦU Ý DÂN; QUYỀN, NGHĨA VỤ CỦA CỬ TRI TRONG TRƯNG CẦU Ý DÂN
+
+### 4401500000000000600003500000000000000000
+
+Điều 44.15.LQ.35. Phiếu trưng cầu ý dân
+
+### 4401500000000000600003600000000000000000
+
+Điều 44.15.LQ.36. Thông báo về thời gian và địa điểm bỏ phiếu trưng cầu ý dân
+
+### 4401500000000000600003700000000000000000
+
+Điều 44.15.LQ.37. Thời gian bỏ phiếu trưng cầu ý dân
+
+### 4401500000000000600003800000000000000000
+
+Điều 44.15.LQ.38. Bỏ phiếu sớm, hoãn ngày bỏ phiếu
+
+### 4401500000000000600003900000000000000000
+
+Điều 44.15.LQ.39. Quyền, nghĩa vụ của cử tri và nguyên tắc bỏ phiếu trưng cầu ý dân
+
+### 44015000000000007000
+
+Chương VII KẾT QUẢ TRƯNG CẦU Ý DÂN
+
+### 4401500000000000700000100000000000000000
+
+Mục 1 KIỂM PHIẾU
+
+### 440150000000000070000010000000000000000004000000000000000000
+
+Điều 44.15.LQ.40. Kiểm phiếu
+
+### 440150000000000070000010000000000000000004100000000000000000
+
+Điều 44.15.LQ.41. Phiếu trưng cầu ý dân không hợp lệ
+
+### 440150000000000070000010000000000000000004200000000000000000
+
+Điều 44.15.LQ.42. Khiếu nại, tố cáo về kiểm phiếu
+
+### 440150000000000070000010000000000000000004300000000000000000
+
+Điều 44.15.LQ.43. Biên bản kết quả kiểm phiếu của Tổ trưng cầu ý dân
+
+### 4401500000000000700000200000000000000000
+
+Mục 2 KẾT QUẢ TRƯNG CẦU Ý DÂN
+
+### 440150000000000070000020000000000000000004400000000000000000
+
+Điều 44.15.LQ.44. Kết quả trưng cầu ý dân
+
+### 440150000000000070000020000000000000000004500000000000000000
+
+Điều 44.15.LQ.45. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp xã
+
+### 440150000000000070000020000000000000000004600000000000000000
+
+Điều 44.15.LQ.46. Báo cáo kết quả trưng cầu ý dân của Ủy ban nhân dân cấp tỉnh
+
+### 440150000000000070000020000000000000000004700000000000000000
+
+Điều 44.15.LQ.47. Bỏ phiếu trưng cầu ý dân lại
+
+### 440150000000000070000020000000000000000004800000000000000000
+
+Điều 44.15.LQ.48. Xác định và công bố kết quả trưng cầu ý dân
+
+### 440150000000000070000020000000000000000004900000000000000000
+
+Điều 44.15.LQ.49. Báo cáo Quốc hội về kết quả trưng cầu ý dân
+
+### 44015000000000008000
+
+Chương VIII XỬ LÝ VI PHẠM PHÁP LUẬT VỀ TRƯNG CẦU Ý DÂN VÀ ĐIỀU KHOẢN THI HÀNH
+
+### 4401500000000000800005000000000000000000
+
+Điều 44.15.LQ.50. Xử lý vi phạm phạm pháp luật về trưng cầu ý dân
+
+### 4401500000000000800005100000000000000000
+
+Điều 44.15.LQ.51. Hiệu lực thi hành
+
+### 4401500000000000800005200000000000000000
 
 Điều 44.15.LQ.52. Quy định chi tiết và hướng dẫn thi hành
 
-**Chỉ mục:** 52
-
-**Mã phân cấp:** 4401500000000000800005200000000000000000
-
-**ID:** dk_00072451
-
----
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 62
-- **Điều khoản thực tế:** 52
-- **Điều khoản có nội dung:** 29 (55.8%)
-- **ID đề mục:** b892dee4ee6e4228988f7101b89443de
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

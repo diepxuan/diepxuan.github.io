@@ -1,3182 +1,4295 @@
 ---
-layout: default
+layout: page
 title: Tổ chức Quốc hội
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-quoc-hoi/
-collection: subtopics
-slug: to-chuc-quoc-hoi
-parent: to-chuc-bo-may-nha-nuoc
 ---
 
 # Tổ chức Quốc hội
 
-**Đề mục:** Tổ chức Quốc hội  
-**Chủ đề:** [Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)  
-**Số điều khoản:** 249  
-**Điều khoản có nội dung:** 153/242 (63.2%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+VỊ TRÍ, CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN CỦA QUỐC HỘI
 
-### Điều 35.8.LQ.1. Vị trí, chức năng của Quốc hội
+Điều 35.8.LQ.1. Vị trí, chức năng của Quốc hội
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 57/2014/QH13 Tổ chức Quốc hội ngày 20/11/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2016 )
 
-**Chỉ mục:** 1
+1. Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-**Mã phân cấp:** 3500800000000000100000100000000000000000
+2. Quốc hội thực hiện quyền lập hiến, quyền lập pháp, quyết định các vấn đề quan trọng của đất nước và giám sát tối cao đối với hoạt động của Nhà nước.
 
-**ID:** dk_00059506
+(Điều này có nội dung liên quan đến Điều 35.8.NQ.11.1. Việc thành lập, vị trí, chức năng của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh)
 
----
+Điều 35.8.LQ.2. Nhiệm kỳ Quốc hội
 
+(Điều 2 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 35.8.LQ.2. Nhiệm kỳ Quốc hội
+1. Nhiệm kỳ của mỗi khóa Quốc hội là 05 năm, kể từ ngày khai mạc kỳ họp thứ nhất của Quốc hội khóa đó đến ngày khai mạc kỳ họp thứ nhất của Quốc hội khóa sau.
 
-*Nội dung chưa có sẵn*
+2. Sáu mươi ngày trước khi Quốc hội hết nhiệm kỳ, Quốc hội khóa mới phải được bầu xong.
 
-**Chỉ mục:** 2
+3. Trong trường hợp đặc biệt, nếu được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành thì Quốc hội quyết định rút ngắn hoặc kéo dài nhiệm kỳ của mình theo đề nghị của Ủy ban thường vụ Quốc hội. Việc kéo dài nhiệm kỳ của một khóa Quốc hội không được quá 12 tháng, trừ trường hợp có chiến tranh.
 
-**Mã phân cấp:** 3500800000000000100000200000000000000000
-
-**ID:** dk_00059507
-
----
-
-
-### Điều 35.8.LQ.3. Nguyên tắc và hiệu quả hoạt động của Quốc hội
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.96. Biểu quyết tại phiên họp toàn thể)
 
 Điều 35.8.LQ.3. Nguyên tắc và hiệu quả hoạt động của Quốc hội
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100000300000000000000000
+1. Quốc hội làm việc theo chế độ hội nghị và quyết định theo đa số.
 
-**ID:** dk_00059508
+2. Hiệu quả hoạt động của Quốc hội được bảo đảm bằng hiệu quả của các kỳ họp của Quốc hội, hoạt động của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, các đại biểu Quốc hội và hiệu quả của sự phối hợp hoạt động với Chủ tịch nước, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và các cơ quan, tổ chức khác.
 
----
+Điều 35.8.LQ.4. Làm Hiến pháp và sửa đổi Hiến pháp
 
+(Điều 4 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 35.8.LQ.4. Làm Hiến pháp và sửa đổi Hiến pháp
+1. Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội có quyền đề nghị Quốc hội xem xét, quyết định việc làm Hiến pháp hoặc sửa đổi Hiến pháp.
 
-*Nội dung chưa có sẵn*
+Quốc hội quyết định làm Hiến pháp, sửa đổi Hiến pháp khi có ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành.
 
-**Chỉ mục:** 4
+2. Quốc hội thành lập Ủy ban dự thảo Hiến pháp. Thành phần, số lượng thành viên, nhiệm vụ và quyền hạn của Ủy ban dự thảo Hiến pháp do Quốc hội quyết định theo đề nghị của Ủy ban thường vụ Quốc hội.
 
-**Mã phân cấp:** 3500800000000000100000400000000000000000
+3. Ủy ban dự thảo Hiến pháp soạn thảo, tổ chức lấy ý kiến Nhân dân và trình Quốc hội dự thảo Hiến pháp.
 
-**ID:** dk_00059509
+4. Hiến pháp được Quốc hội thông qua khi có ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành. Quốc hội quyết định trưng cầu ý dân về Hiến pháp trong các trường hợp quy định tại khoản 1 Điều 19 của Luật này.
 
----
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.19. Trưng cầu ý dân; Điều 35.8.LQ.96. Biểu quyết tại phiên họp toàn thể; Điều 44.15.LQ.6. Các vấn đề trưng cầu ý dân)
 
+Điều 35.8.LQ.5. Làm luật và sửa đổi luật
 
-### Điều 35.8.LQ.5. Làm luật và sửa đổi luật
+(Điều 5 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-*Nội dung chưa có sẵn*
+1. Quốc hội ban hành luật để quy định về các nội dung sau đây:
 
-**Chỉ mục:** 5
+a) Tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương, đơn vị hành chính - kinh tế đặc biệt và cơ quan khác do Quốc hội thành lập;
 
-**Mã phân cấp:** 3500800000000000100000500000000000000000
+b) Quyền con người, quyền và nghĩa vụ cơ bản của công dân mà theo Hiến pháp phải do luật định; việc hạn chế quyền con người, quyền công dân; tội phạm và hình phạt; tố tụng tư pháp;
 
-**ID:** dk_00059510
+c) Chính sách cơ bản về kinh tế, xã hội, văn hóa, giáo dục, khoa học, công nghệ, môi trường, tài chính, tiền tệ quốc gia, ngân sách nhà nước; quy định các thứ thuế, về huân chương, huy chương và danh hiệu vinh dự nhà nước;
 
----
+d) Chính sách cơ bản về quốc phòng, an ninh quốc gia; hàm, cấp trong lực lượng vũ trang nhân dân; quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia;
 
+đ) Chính sách cơ bản về đối ngoại; hàm, cấp ngoại giao; hàm, cấp nhà nước khác;
 
-### Điều 35.8.LQ.6. Giám sát tối cao của Quốc hội
+e) Chính sách dân tộc, chính sách tôn giáo của Nhà nước;
 
-*Nội dung chưa có sẵn*
+g) Trưng cầu ý dân;
 
-**Chỉ mục:** 6
+h) Cơ chế bảo vệ Hiến pháp;
 
-**Mã phân cấp:** 3500800000000000100000600000000000000000
+i) Vấn đề khác thuộc thẩm quyền của Quốc hội theo quy định của Hiến pháp và luật.
 
-**ID:** dk_00059511
+2. Luật chỉ quy định các vấn đề mang tính ổn định, có giá trị lâu dài; quy định cụ thể các nội dung liên quan đến quyền con người, quyền, nghĩa vụ của công dân, tố tụng tư pháp, các vấn đề có ảnh hưởng lớn đến đời sống xã hội, mối quan hệ giữa Nhà nước với công dân và xã hội. Đối với các nội dung quản lý nhà nước theo từng lĩnh vực, các vấn đề mới, có tính kiến tạo phát triển, các vấn đề chưa có thực tiễn kiểm nghiệm, luật chỉ quy định các nội dung chính sách có tính nguyên tắc, định hướng thuộc thẩm quyền của Quốc hội để thể chế hóa chủ trương, chính sách của Đảng; phân quyền cho Chính phủ, các cơ quan trong bộ máy nhà nước trong việc tiếp tục cụ thể hóa các quy định của luật và thực hiện phân cấp bảo đảm phù hợp với năng lực tổ chức thực hiện của từng cơ quan, tổ chức, chính quyền địa phương các cấp và kịp thời đáp ứng yêu cầu phát triển kinh tế - xã hội trong từng giai đoạn; cơ bản không quy định các nội dung về thủ tục hành chính, về quy trình, quy chuẩn chuyên môn, kỹ thuật và các nội dung có tính biến động cao.
 
----
+3. Quốc hội ban hành nghị quyết để quy định về các nội dung sau đây:
 
+a) Thực hiện thí điểm một số chính sách mới thuộc thẩm quyền quyết định của Quốc hội khác với quy định của luật hiện hành;
 
-### Điều 35.8.LQ.7. Quyết định các vấn đề quan trọng về kinh tế - xã hội
+b) Tạm ngưng, điều chỉnh hiệu lực hoặc kéo dài thời hạn áp dụng toàn bộ hoặc một phần luật, nghị quyết của Quốc hội đáp ứng yêu cầu cấp bách về phát triển kinh tế - xã hội, bảo đảm quyền con người, quyền công dân;
+
+c) Vấn đề khác do Quốc hội quyết định.
+
+4. Việc xây dựng pháp luật theo từng nhiệm kỳ được xác định và thực hiện theo Định hướng lập pháp nhiệm kỳ của Quốc hội và Chương trình lập pháp hằng năm của Quốc hội.
+
+5. Trình tự, thủ tục xây dựng, xem xét, ban hành luật, nghị quyết của Quốc hội thực hiện theo quy định của Luật Ban hành văn bản quy phạm pháp luật.
+
+Điều 35.8.LQ.6. Giám sát tối cao của Quốc hội
+
+(Điều 6 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+1. Quốc hội giám sát tối cao việc tuân theo Hiến pháp, luật và nghị quyết của Quốc hội.
+
+2. Quốc hội giám sát tối cao hoạt động của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.8.LQ.7. Quyết định các vấn đề quan trọng về kinh tế - xã hội
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100000700000000000000000
+1. Quốc hội quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội dài hạn và hằng năm của đất nước; chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia.
 
-**ID:** dk_00059512
+2. Quốc hội quyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế; quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương; quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ; quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước.
 
----
+3. Quốc hội quyết định chính sách dân tộc, chính sách tôn giáo, chính sách cơ bản về đối ngoại của Nhà nước.
 
-
-### Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước
+(Điều này có nội dung liên quan đến Điều 26.3.LQ.19. Nhiệm vụ, quyền hạn của Quốc hội; Điều 28.2.LQ.10. Nhiệm vụ, quyền hạn của Quốc hội; Điều 34.7.LQ.19. Trình tự, thủ tục quyết định chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia; Điều 34.7.LQ.20. Hồ sơ quyết định chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia; Điều 34.7.LQ.21. Thủ tục và nội dung thẩm tra chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia; Điều 34.7.LQ.60. Trình, phê duyệt và giao kế hoạch đầu tư công trung hạn vốn ngân sách nhà nước; Điều 34.7.LQ.61. Trình, phê duyệt và giao kế hoạch đầu tư công hằng năm vốn ngân sách nhà nước; Điều 34.7.LQ.78. Nhiệm vụ, quyền hạn của Quốc hội; Điều 34.14.LQ.4. Lĩnh vực đầu tư, quy mô và phân loại dự án PPP; Điều 34.14.LQ.12. Thẩm quyền quyết định chủ trương đầu tư dự án PPP; Điều 34.14.LQ.13. Trình tự quyết định chủ trương đầu tư dự án PPP; Điều 34.14.LQ.16. Hồ sơ đề nghị quyết định chủ trương đầu tư dự án PPP)
 
 Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000100000800000000000000000
+1. Quốc hội bầu Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các Ủy viên Ủy ban thường vụ Quốc hội trong số các đại biểu Quốc hội theo danh sách đề cử chức vụ từng người của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059513
+Tại kỳ họp thứ nhất, Quốc hội bầu Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội khóa trước.
 
----
+2. Quốc hội bầu Chủ tịch nước trong số các đại biểu Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội. Quốc hội bầu Phó Chủ tịch nước trong số các đại biểu Quốc hội theo đề nghị của Chủ tịch nước.
 
+3. Quốc hội bầu Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội trong số các đại biểu Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội.
 
-### Điều 35.8.LQ.9. Phê chuẩn các chức danh trong bộ máy nhà nước
+4. Quốc hội bầu Thủ tướng Chính phủ trong số các đại biểu Quốc hội theo đề nghị của Chủ tịch nước.
+
+5. Quốc hội bầu Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao theo đề nghị của Chủ tịch nước.
+
+6. Quốc hội bầu Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội.
+
+7. Ngoài những người do cơ quan hoặc người có thẩm quyền quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này đề nghị, Ủy ban thường vụ Quốc hội trình Quốc hội quyết định danh sách những người ứng cử để bầu vào chức danh quy định tại Điều này trong trường hợp đại biểu Quốc hội ứng cử hoặc giới thiệu thêm người ứng cử.
+
+8. Sau khi được bầu, Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao phải tuyên thệ trung thành với Tổ quốc, Nhân dân và Hiến pháp.
+
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.9. Phê chuẩn các chức danh trong bộ máy nhà nước; Điều 35.8.LQ.10. Việc từ chức của người được Quốc hội bầu hoặc phê chuẩn; Điều 35.8.LQ.11. Miễn nhiệm, bãi nhiệm, phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn; Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm; Điều 35.8.LQ.31. Quyền ứng cử, giới thiệu người ứng cử vào các chức danh do Quốc hội bầu; Mục 1 HỘI ĐỒNG BẦU CỬ QUỐC GIA)
 
 Điều 35.8.LQ.9. Phê chuẩn các chức danh trong bộ máy nhà nước
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100000900000000000000000
+1. Quốc hội phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm các Phó Thủ tướng Chính phủ, Bộ trưởng và các thành viên khác của Chính phủ theo danh sách đề cử chức vụ từng người.
 
-**ID:** dk_00059514
+2. Quốc hội phê chuẩn đề nghị của Chánh án Tòa án nhân dân tối cao về việc bổ nhiệm Thẩm phán Tòa án nhân dân tối cao.
 
----
+3. Quốc hội phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh theo đề nghị của Chủ tịch nước.
 
+4. Quốc hội phê chuẩn danh sách thành viên Hội đồng bầu cử quốc gia theo đề nghị của Chủ tịch Hội đồng bầu cử quốc gia.
 
-### Điều 35.8.LQ.10. Việc từ chức của người được Quốc hội bầu hoặc phê chuẩn
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước; Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm; Mục 1 HỘI ĐỒNG BẦU CỬ QUỐC GIA)
 
 Điều 35.8.LQ.10. Việc từ chức của người được Quốc hội bầu hoặc phê chuẩn
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100001000000000000000000
+1. Người được Quốc hội bầu hoặc phê chuẩn nếu vì lý do sức khỏe hoặc vì lý do khác mà không thể thực hiện được nhiệm vụ thì có thể xin từ chức.
 
-**ID:** dk_00059515
+2. Đơn xin từ chức được gửi đến cơ quan hoặc người có thẩm quyền giới thiệu để Quốc hội bầu hoặc phê chuẩn chức vụ đó quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều 8 và Điều 9 của Luật này. Cơ quan hoặc người có thẩm quyền giới thiệu để Quốc hội bầu hoặc phê chuẩn chức vụ đó trình Quốc hội miễn nhiệm hoặc phê chuẩn việc miễn nhiệm tại kỳ họp Quốc hội gần nhất.
 
----
-
-
-### Điều 35.8.LQ.11. Miễn nhiệm, bãi nhiệm, phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước)
 
 Điều 35.8.LQ.11. Miễn nhiệm, bãi nhiệm, phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100001100000000000000000
+Quốc hội miễn nhiệm, bãi nhiệm hoặc phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn quy định tại Điều 8 và Điều 9 của Luật này theo đề nghị của cơ quan hoặc người có thẩm quyền giới thiệu Quốc hội bầu hoặc phê chuẩn chức vụ đó.
 
-**ID:** dk_00059516
-
----
-
-
-### Điều 35.8.LQ.12. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước)
 
 Điều 35.8.LQ.12. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị ngưng hiệu lực theo quy định tại Điều 20 của Nghị quyết số 96/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 3500800000000000100001200000000000000000
+Quốc hội lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ các chức vụ do Quốc hội bầu hoặc phê chuẩn.
 
-**ID:** dk_00059517
+Việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm thực hiện theo quy định của Quốc hội.
 
----
+(Điều này có nội dung liên quan đến Điều 3. Mục đích lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 4. Nguyên tắc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 5. Căn cứ đánh giá mức độ tín nhiệm; Điều 6. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 7. Thời hạn và thời điểm tổ chức lấy phiếu tín nhiệm; Điều 8. Quy trình lấy phiếu tín nhiệm tại Quốc hội; Điều 11. Các trường hợp bỏ phiếu tín nhiệm; Điều 13. Quy trình bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn; Điều 15. Hệ quả đối với người không được Quốc hội, Hội đồng nhân dân tín nhiệm; Điều 17. Kết quả lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm của Nghị quyết 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn ban hành ngày 28/11/2014; Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm; Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành)
 
+Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm
 
-### Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm
+(Điều 13 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3500800000000000100001300000000000000000
-
-**ID:** dk_00059518
-
----
-
-
-### Điều 35.8.LQ.14. Quyết định thành lập, bãi bỏ cơ quan; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước; Điều 35.8.LQ.9. Phê chuẩn các chức danh trong bộ máy nhà nước; Điều 35.8.LQ.12. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành)
 
 Điều 35.8.LQ.14. Quyết định thành lập, bãi bỏ cơ quan; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100001400000000000000000
+1. Quốc hội quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc Trung ương, đơn vị hành chính - kinh tế đặc biệt theo đề nghị của Chính phủ.
 
-**ID:** dk_00059519
-
----
-
-
-### Điều 35.8.LQ.15. Bãi bỏ văn bản trái với Hiến pháp, luật, nghị quyết của Quốc hội
+2. Quốc hội quyết định thành lập, bãi bỏ cơ quan khác theo quy định của Hiến pháp và luật.
 
 Điều 35.8.LQ.15. Bãi bỏ văn bản trái với Hiến pháp, luật, nghị quyết của Quốc hội
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100001500000000000000000
+1. Quốc hội bãi bỏ văn bản của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, cơ quan khác do Quốc hội thành lập trái với Hiến pháp, luật, nghị quyết của Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059520
+2. Quốc hội bãi bỏ văn bản của Ủy ban thường vụ Quốc hội trái với Hiến pháp, luật, nghị quyết của Quốc hội theo đề nghị của Chủ tịch nước.
 
----
+(Điều này có nội dung liên quan đến Điều 164. Giám sát, xử lý văn bản quy phạm pháp luật có dấu hiệu trái pháp luật của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015)
 
+Điều 35.8.LQ.16. Quyết định đại xá
 
-### Điều 35.8.LQ.16. Quyết định đại xá
+(Điều 16 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3500800000000000100001600000000000000000
-
-**ID:** dk_00059521
-
----
-
-
-### Điều 35.8.LQ.17. Quyết định vấn đề chiến tranh và hòa bình
+Quốc hội quyết định đại xá theo đề nghị của Chủ tịch nước.
 
 Điều 35.8.LQ.17. Quyết định vấn đề chiến tranh và hòa bình
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100001700000000000000000
+1. Quốc hội quyết định tình trạng chiến tranh hoặc bãi bỏ tình trạng chiến tranh theo đề nghị của Hội đồng quốc phòng và an ninh.
 
-**ID:** dk_00059522
+2. Trường hợp có chiến tranh, Quốc hội quyết định giao cho Hội đồng quốc phòng và an ninh những nhiệm vụ, quyền hạn đặc biệt.
 
----
-
-
-### Điều 35.8.LQ.18. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế
+3. Quốc hội quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia.
 
 Điều 35.8.LQ.18. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100001800000000000000000
+Quốc hội phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội theo đề nghị của Chủ tịch nước.
 
-**ID:** dk_00059523
+(Điều này có nội dung liên quan đến Điều 23.4.LQ.1. Phạm vi điều chỉnh)
 
----
+Điều 35.8.LQ.19. Trưng cầu ý dân
 
+(Điều 19 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 35.8.LQ.19. Trưng cầu ý dân
+1. Quốc hội quyết định trưng cầu ý dân về Hiến pháp hoặc về những vấn đề quan trọng khác theo đề nghị của Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội.
 
-*Nội dung chưa có sẵn*
+2. Kết quả trưng cầu ý dân có giá trị quyết định đối với vấn đề được đưa ra trưng cầu ý dân.
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3500800000000000100001900000000000000000
-
-**ID:** dk_00059524
-
----
-
-
-### Điều 35.8.LQ.20. Xem xét báo cáo tổng hợp ý kiến, kiến nghị và việc giải quyết kiến nghị của cử tri cả nước
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.4. Làm Hiến pháp và sửa đổi Hiến pháp; Điều 44.15.LQ.6. Các vấn đề trưng cầu ý dân; Điều 44.15.LQ.14. Đề nghị trưng cầu ý dân)
 
 Điều 35.8.LQ.20. Xem xét báo cáo tổng hợp ý kiến, kiến nghị và việc giải quyết kiến nghị của cử tri cả nước
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000100002000000000000000000
+1. Quốc hội xem xét báo cáo tổng hợp ý kiến, kiến nghị của cử tri cả nước do Ủy ban trung ương Mặt trận Tổ quốc Việt Nam phối hợp với Ủy ban thường vụ Quốc hội trình.
 
-**ID:** dk_00059525
+2. Quốc hội xem xét báo cáo giám sát việc giải quyết kiến nghị của cử tri của các cơ quan nhà nước có thẩm quyền do Ủy ban thường vụ Quốc hội trình.
 
----
+3. Khi cần thiết, Quốc hội ra nghị quyết về việc giải quyết kiến nghị của cử tri.
 
+4. Các cơ quan nhà nước, tổ chức hữu quan có trách nhiệm nghiên cứu, giải quyết, trả lời kiến nghị của cử tri và báo cáo với Quốc hội, Ủy ban thường vụ Quốc hội kết quả giải quyết.
 
-### Điều 35.8.NQ.5.1. Phạm vi áp dụng
+Điều 35.8.NQ.5.1. Phạm vi áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị quyết số 524/2012/UBTVQH13 Về một số chế độ chi tiêu bảo đảm hoạt động của Quốc hội ngày 20/09/2012 của Ủy ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2013 )
 
-**Chỉ mục:** 1
+Chế độ chi tiêu quy định tại Nghị quyết này được áp dụng đối với hoạt động của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội và đại biểu Quốc hội.
 
-**Mã phân cấp:** 3500800000000000100002020244900524000010
+Chế độ chi tiêu cho kỳ họp Quốc hội, hội nghị do Ủy ban thường vụ Quốc hội triệu tập do Chủ nhiệm Văn phòng Quốc hội quyết định.
 
-**ID:** dk_00059526
+Điều 35.8.NQ.10.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị quyết số 353/2017/UBTVQH14 Quy định bổ sung chế độ và điều kiện bảo đảm hoạt động của đại biểu Quốc hội do Ủy ban Thường vụ Quốc hội ban hành ngày 17/04/2017 của Uỷ ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/06/2017 )
 
+Nghị quyết này quy định bổ sung một số chế độ và điều kiện bảo đảm hoạt động của đại biểu Quốc hội.
 
-### Điều 35.8.NQ.10.1. Phạm vi điều chỉnh
+Điều 35.8.NQ.10.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị quyết số 353/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/06/2017)
 
-**Chỉ mục:** 1
+Nghị quyết này áp dụng đối với:
 
-**Mã phân cấp:** 3500800000000000100002020261600353000010
+1. Đại biểu Quốc hội;
 
-**ID:** dk_00059527
+2. Cơ quan, tổ chức, đơn vị và cá nhân có liên quan đến việc thực hiện chế độ và điều kiện bảo đảm hoạt động của đại biểu Quốc hội.
 
----
+Điều 35.8.NL.2.1. Phạm vi điều chỉnh
 
+(Điều 1 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN Quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp ngày 20/02/2025 của Ủy ban thường vụ Quốc hội, Chính phủ và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, có hiệu lực thi hành kể từ ngày 20/02/2025 )
 
-### Điều 35.8.NQ.10.2. Đối tượng áp dụng
+Nghị quyết này quy định về hoạt động tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp; trách nhiệm của Ủy ban Thường vụ Quốc hội, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Thường trực Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam, Ủy ban nhân dân các cấp và các cơ quan, tổ chức, cá nhân có liên quan trong việc tổ chức tiếp xúc cử tri; tập hợp, tổng hợp ý kiến, kiến nghị của cử tri; giải quyết, trả lời và giám sát việc giải quyết, trả lời kiến nghị của cử tri.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NL.2.2. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 3500800000000000100002020261600353000020
+Trong Nghị quyết này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00059528
+1. Tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân là việc đại biểu Quốc hội, đại biểu Hội đồng nhân dân gặp gỡ cử tri thông qua phương thức trực tiếp và trực tuyến để thu thập ý kiến, kiến nghị, tìm hiểu tâm tư, nguyện vọng của cử tri, tuyên truyền, phổ biến, vận động cử tri và Nhân dân thực hiện Hiến pháp và pháp luật; thông tin kết quả giải quyết, trả lời kiến nghị của cử tri; báo cáo với cử tri về hoạt động của Quốc hội, Hội đồng nhân dân và việc thực hiện nhiệm vụ của mình.
 
----
+2. Tiếp xúc cử tri trực tiếp là việc đại biểu Quốc hội, đại biểu Hội đồng nhân dân trực tiếp gặp gỡ, trao đổi với cử tri tại một địa điểm cụ thể.
 
+3. Tiếp xúc cử tri trực tuyến là việc đại biểu Quốc hội, đại biểu Hội đồng nhân dân gặp gỡ, trao đổi với cử tri thông qua ứng dụng khoa học, công nghệ, sử dụng phương tiện kỹ thuật, các thiết bị điện tử kết nối với nhau thông qua môi trường mạng, bảo đảm truyền tải trực tiếp âm thanh, hình ảnh giữa đại biểu Quốc hội, đại biểu Hội đồng nhân dân, các thành phần tham gia và cử tri ở các điểm cầu khác nhau.
 
-### Điều 35.8.NL.2.1. Phạm vi điều chỉnh
+3a. Tiếp xúc cử tri nơi ứng cử là việc đại biểu Quốc hội tiếp xúc cử tri tại địa bàn tỉnh, thành phố nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến; việc đại biểu Hội đồng nhân dân tiếp xúc cử tri tại địa bàn nơi đại biểu Hội đồng nhân dân ứng cử hoặc chuyển sinh hoạt đến.
 
-*Nội dung chưa có sẵn*
+4. Tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố nơi đại biểu Quốc hội ứng cử là việc đại biểu gặp gỡ, tiếp xúc với cử tri ngoài tỉnh, thành phố nơi đại biểu ứng cử.
 
-**Chỉ mục:** 1
+5. Tiếp xúc cử tri ngoài đơn vị bầu cử của đại biểu Hội đồng nhân dân là việc đại biểu Hội đồng nhân dân gặp gỡ, tiếp xúc với cử tri ngoài đơn vị bầu cử của đại biểu nhưng vẫn trong đơn vị hành chính cấp đại biểu Hội đồng nhân dân được bầu.
 
-**Mã phân cấp:** 3500800000000000100002020290260072000010
+6. Cơ quan, tổ chức cấp đại biểu Hội đồng nhân dân tiếp xúc cử tri là cơ quan, tổ chức cấp đại biểu Hội đồng nhân dân thực hiện nhiệm vụ đại biểu.
 
-**ID:** dk_00059529
+7. Cơ quan, tổ chức nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân tiếp xúc cử tri là cơ quan, tổ chức nơi diễn ra hoạt động tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
 
----
+8. Kiến nghị của cử tri là ý kiến bày tỏ tâm tư, nguyện vọng hoặc đề xuất, yêu cầu của cử tri về xây dựng chính sách, pháp luật, những vấn đề quan trọng của đất nước, về hoạt động giám sát, phát triển kinh tế - xã hội, an sinh xã hội, quốc phòng - an ninh, đối ngoại của địa phương, đất nước và các vấn đề khác mà cử tri quan tâm với đại biểu Quốc hội, đại biểu Hội đồng nhân dân qua tiếp xúc cử tri.
 
+Chương II
 
-### Điều 35.8.NL.2.2. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3500800000000000100002020290260072000020
-
-**ID:** dk_00059530
-
----
-
-
-### Điều 35.8.LQ.21. Vị trí, vai trò của đại biểu Quốc hội
+ĐẠI BIỂU QUỐC HỘI
 
 Điều 35.8.LQ.21. Vị trí, vai trò của đại biểu Quốc hội
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200002100000000000000000
+1. Đại biểu Quốc hội là người đại diện cho ý chí, nguyện vọng của Nhân dân ở đơn vị bầu cử ra mình và của Nhân dân cả nước; là người thay mặt Nhân dân thực hiện quyền lực nhà nước trong Quốc hội.
 
-**ID:** dk_00059532
+2. Đại biểu Quốc hội chịu trách nhiệm trước cử tri và trước Quốc hội về việc thực hiện nhiệm vụ, quyền hạn đại biểu của mình.
 
----
+3. Đại biểu Quốc hội bình đẳng trong thảo luận và quyết định các vấn đề thuộc nhiệm vụ và quyền hạn của Quốc hội.
 
+(Điều này có nội dung liên quan đến Điều 35.1.LQ.1. Nguyên tắc bầu cử)
 
-### Điều 35.8.LQ.22. Tiêu chuẩn của đại biểu Quốc hội
+Điều 35.8.LQ.22. Tiêu chuẩn của đại biểu Quốc hội
 
-*Nội dung chưa có sẵn*
+(Điều 22 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 22
+1. Trung thành với Tổ quốc, Nhân dân và Hiến pháp, phấn đấu thực hiện công cuộc đổi mới, vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh.
 
-**Mã phân cấp:** 3500800000000000200002200000000000000000
+1a. Có một quốc tịch là quốc tịch Việt Nam.
 
-**ID:** dk_00059533
+2. Có phẩm chất đạo đức tốt, cần, kiệm, liêm, chính, chí công vô tư, gương mẫu chấp hành pháp luật; có bản lĩnh, kiên quyết đấu tranh chống tham nhũng, lãng phí, mọi biểu hiện quan liêu, hách dịch, cửa quyền và các hành vi vi phạm pháp luật khác.
 
----
+3. Có trình độ văn hóa, chuyên môn, có đủ năng lực, sức khỏe, kinh nghiệm công tác và uy tín để thực hiện nhiệm vụ đại biểu Quốc hội.
 
+4. Liên hệ chặt chẽ với Nhân dân, lắng nghe ý kiến của Nhân dân, được Nhân dân tín nhiệm.
 
-### Điều 35.8.LQ.23. Số lượng đại biểu Quốc hội
+5. Có điều kiện tham gia các hoạt động của Quốc hội.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 4. Thủ tục tổ chức hội nghị cử tri của Nghị quyết 1134/2016/UBTVQH13 Quy định chi tiết, hướng dẫn về việc tổ chức hội nghị cử tri; việc giới thiệu người ứng cử đại biểu Hội đồng nhân dân cấp xã ở thôn, tổ dân phố; việc hiệp thương, giới thiệu người ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân trong bầu cử bổ sung. ban hành ngày 18/01/2016; Điều 35.1.LQ.3. Tiêu chuẩn của người ứng cử)
 
-**Chỉ mục:** 23
+Điều 35.8.LQ.23. Số lượng đại biểu Quốc hội
 
-**Mã phân cấp:** 3500800000000000200002300000000000000000
+(Điều 23 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00059534
+1. Tổng số đại biểu Quốc hội không quá năm trăm người, bao gồm đại biểu hoạt động chuyên trách và đại biểu hoạt động không chuyên trách.
 
----
-
-
-### Điều 35.8.LQ.24. Thời gian hoạt động của đại biểu Quốc hội
+2. Số lượng đại biểu Quốc hội hoạt động chuyên trách ít nhất là bốn mươi phần trăm tổng số đại biểu Quốc hội.
 
 Điều 35.8.LQ.24. Thời gian hoạt động của đại biểu Quốc hội
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200002400000000000000000
+1. Đại biểu Quốc hội hoạt động chuyên trách dành toàn bộ thời gian làm việc để thực hiện nhiệm vụ, quyền hạn của đại biểu tại cơ quan của Quốc hội hoặc tại Đoàn đại biểu Quốc hội ở địa phương.
 
-**ID:** dk_00059535
+2. Đại biểu Quốc hội hoạt động không chuyên trách phải dành ít nhất một phần ba thời gian làm việc trong năm để thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội. Người đứng đầu cơ quan, tổ chức, đơn vị nơi đại biểu Quốc hội làm việc có trách nhiệm sắp xếp thời gian, công việc, tạo điều kiện cần thiết cho đại biểu Quốc hội thực hiện nhiệm vụ, quyền hạn của đại biểu.
 
----
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.42. Điều kiện bảo đảm cho đại biểu Quốc hội)
 
+Điều 35.8.LQ.25. Nhiệm kỳ của đại biểu Quốc hội
 
-### Điều 35.8.LQ.25. Nhiệm kỳ của đại biểu Quốc hội
+(Điều 25 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+Nhiệm kỳ của đại biểu Quốc hội theo nhiệm kỳ của Quốc hội.
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 3500800000000000200002500000000000000000
-
-**ID:** dk_00059536
-
----
-
-
-### Điều 35.8.LQ.26. Trách nhiệm tham gia các hoạt động của Quốc hội, các cơ quan của Quốc hội
+Nhiệm kỳ của đại biểu Quốc hội được bầu bổ sung bắt đầu từ ngày khai mạc kỳ họp tiếp sau cuộc bầu cử bổ sung đến ngày khai mạc kỳ họp thứ nhất của Quốc hội khóa sau.
 
 Điều 35.8.LQ.26. Trách nhiệm tham gia các hoạt động của Quốc hội, các cơ quan của Quốc hội
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3500800000000000200002600000000000000000
+1. Đại biểu Quốc hội có trách nhiệm tham gia đầy đủ các kỳ họp, phiên họp toàn thể của Quốc hội; tham gia các hoạt động của Đoàn đại biểu Quốc hội; thảo luận và biểu quyết các vấn đề thuộc nhiệm vụ, quyền hạn của Quốc hội.
 
-**ID:** dk_00059537
+2. Đại biểu Quốc hội là thành viên của Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm tham dự các phiên họp, tham gia các hoạt động khác của Hội đồng, Ủy ban; thảo luận và biểu quyết các vấn đề thuộc nhiệm vụ, quyền hạn của Hội đồng dân tộc, Ủy ban mà mình là thành viên.
 
----
+3. Đại biểu Quốc hội hoạt động chuyên trách có trách nhiệm tham gia hội nghị đại biểu Quốc hội hoạt động chuyên trách và các hội nghị khác do Ủy ban thường vụ Quốc hội triệu tập. Đại biểu Quốc hội hoạt động không chuyên trách có quyền đăng ký tham dự hội nghị đại biểu Quốc hội hoạt động chuyên trách để thảo luận về những nội dung mà đại biểu quan tâm.
 
+Điều 35.8.LQ.27. Trách nhiệm với cử tri
 
-### Điều 35.8.LQ.27. Trách nhiệm với cử tri
+(Điều 27 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung bị bãi bỏ bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-*Nội dung chưa có sẵn*
+1. Đại biểu Quốc hội liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử tri, thường xuyên tiếp xúc với cử tri, tìm hiểu tâm tư, nguyện vọng của cử tri; thu thập và phản ánh trung thực ý kiến, kiến nghị của cử tri với Quốc hội, các cơ quan, tổ chức hữu quan; phổ biến và vận động Nhân dân thực hiện Hiến pháp và pháp luật.
 
-**Chỉ mục:** 27
+2. Đại biểu Quốc hội tiếp xúc cử tri theo chương trình tiếp xúc cử tri của Đoàn đại biểu Quốc hội. Đại biểu Quốc hội tiếp xúc cử tri ở nơi cư trú, nơi làm việc; tiếp xúc cử tri theo chuyên đề, lĩnh vực, đối tượng, địa bàn mà đại biểu quan tâm. Trong quá trình tiếp xúc cử tri, đại biểu Quốc hội có trách nhiệm báo cáo với cử tri về hoạt động của đại biểu và Quốc hội; cử tri hoặc đại diện cử tri có thể góp ý kiến với đại biểu Quốc hội tại hội nghị cử tri do Đoàn đại biểu Quốc hội phối hợp với Ủy ban Mặt trận Tổ quốc và chính quyền địa phương tổ chức trong trường hợp cần thiết.
 
-**Mã phân cấp:** 3500800000000000200002700000000000000000
+(Điều này có nội dung liên quan đến Điều 35.1.LQ.1. Nguyên tắc bầu cử)
 
-**ID:** dk_00059538
+Điều 35.8.NL.2.3. Nguyên tắc tiếp xúc cử tri
 
----
+(Điều 3 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
+1. Tuân thủ Hiến pháp và pháp luật; bảo đảm đúng thẩm quyền, trình tự, thủ tục tiếp xúc cử tri.
 
-### Điều 35.8.NL.2.3. Nguyên tắc tiếp xúc cử tri
+2. Bảo đảm dân chủ, bình đẳng, khách quan, công khai minh bạch, hiệu quả; phát huy vai trò chủ động, trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân, của cử tri và cơ quan, tổ chức, cá nhân có liên quan ở trung ương, địa phương.
 
-*Nội dung chưa có sẵn*
+3. Việc tập hợp, tổng hợp, tiếp thu, ghi nhận, giải trình, trả lời kiến nghị của cử tri phải bảo đảm ngắn gọn, trung thực, chính xác, khách quan, kịp thời.
 
-**Chỉ mục:** 3
+4. Không lợi dụng hoạt động tiếp xúc cử tri để tuyên truyền trái chủ trương của Đảng, chính sách, pháp luật của Nhà nước hoặc làm tổn hại đến danh dự, nhân phẩm, uy tín, quyền, lợi ích hợp pháp của đại biểu Quốc hội, đại biểu Hội đồng nhân dân và các cơ quan, tổ chức, cá nhân.
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720000300
+5. Không làm cản trở, gây khó khăn đối với đại biểu Quốc hội, đại biểu Hội đồng nhân dân và các cơ quan, tổ chức, cá nhân trong hoạt động tiếp xúc cử tri; không gây mất an ninh, trật tự tại nơi tiếp xúc cử tri.
 
-**ID:** dk_00059539
+6. Không lợi dụng hoạt động tiếp xúc cử tri để vận động tài trợ, quyên góp cho cơ quan, tổ chức, cá nhân mình hoặc tác động, gây ảnh hưởng đến cơ quan, tổ chức, cá nhân để trục lợi.
 
----
-
-
-### Điều 35.8.NL.2.4. Quyền và trách nhiệm của đại biểu Quốc hội và đại biểu Hội đồng nhân dân
+7. Không làm cản trở đến hoạt động bình thường của cơ quan, tổ chức, cá nhân ở địa phương.
 
 Điều 35.8.NL.2.4. Quyền và trách nhiệm của đại biểu Quốc hội và đại biểu Hội đồng nhân dân
 
-**Chỉ mục:** 4
+(Điều 4 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720000400
+1. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân chủ động, tích cực trong tiếp xúc cử tri; gợi mở, khuyến khích cử tri bày tỏ tâm tư, nguyện vọng, kiến nghị về những vấn đề mà cử tri quan tâm; chuẩn bị nội dung, tài liệu cho việc tiếp xúc cử tri; nghiên cứu kết quả giải quyết, trả lời của cơ quan, tổ chức, cá nhân có thẩm quyền; thông tin đầy đủ về kết quả giải quyết, trả lời kiến nghị của cử tri, kịp thời giải đáp những vấn đề cử tri quan tâm, kiến nghị.
 
-**ID:** dk_00059540
+2. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân có quyền từ chối tiếp xúc cử tri nếu không bảo đảm an ninh, an toàn cho đại biểu hoặc không bảo đảm các nguyên tắc quy định tại các khoản 1, 2, 4, 5 và 6 Điều 3 của Nghị quyết này.
 
----
+3. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân có quyền và trách nhiệm tiếp xúc cử tri nơi ứng cử, nơi cư trú, nơi làm việc, tiếp xúc cử tri theo chuyên đề, lĩnh vực, đối tượng, tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố trực thuộc trung ương nơi đại biểu Quốc hội ứng cử, ngoài đơn vị bầu cử của đại biểu Hội đồng nhân dân.
 
+4. Đại biểu Quốc hội tham gia xây dựng chương trình, kế hoạch tiếp xúc cử tri của Đoàn đại biểu Quốc hội; thực hiện sự phân công của Đoàn đại biểu Quốc hội về việc tiếp xúc cử tri.
 
-### Điều 35.8.NL.2.5. Quyền và trách nhiệm của cử tri
+5. Đại biểu Hội đồng nhân dân có trách nhiệm thực hiện việc tiếp xúc cử tri theo kế hoạch của Tổ đại biểu Hội đồng nhân dân cùng cấp.
 
-*Nội dung chưa có sẵn*
+6. Đại biểu Hội đồng nhân dân có quyền đề nghị Tổ đại biểu Hội đồng nhân dân cùng cấp tổ chức tiếp xúc cử tri ngoài chương trình, kế hoạch của Tổ đại biểu Hội đồng nhân dân cùng cấp.
 
-**Chỉ mục:** 5
+Điều 35.8.NL.2.5. Quyền và trách nhiệm của cử tri
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720000500
+(Điều 5 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**ID:** dk_00059541
+1. Cử tri có quyền được thông tin về thời gian, địa điểm, hình thức, nội dung tiếp xúc cử tri và dự hoạt động tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân theo quy định; nêu ý kiến, kiến nghị về vấn đề mà mình quan tâm; có thể góp ý kiến về việc thực hiện nhiệm vụ đại biểu.
 
----
+2. Cử tri có trách nhiệm thực hiện các quy định về tiếp xúc cử tri; giữ gìn an ninh, trật tự, an toàn cho hoạt động tiếp xúc cử tri.
 
+Điều 35.8.NL.2.18. Hoạt động tiếp xúc cử tri
 
-### Điều 35.8.NL.2.18. Hoạt động tiếp xúc cử tri
+(Điều 18 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-*Nội dung chưa có sẵn*
+1. Tiếp xúc cử tri định kỳ trước kỳ họp thường lệ của Quốc hội, Hội đồng nhân dân.
 
-**Chỉ mục:** 18
+2. Tiếp xúc cử tri định kỳ sau kỳ họp thường lệ của Quốc hội và Hội đồng nhân dân.
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720001800
+3. Tiếp xúc cử tri trước và sau kỳ họp không thường lệ của Quốc hội, kỳ họp chuyên đề hoặc kỳ họp để giải quyết công việc phát sinh đột xuất của Hội đồng nhân dân.
 
-**ID:** dk_00059542
+4. Tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố trực thuộc trung ương nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến.
 
----
+5. Tiếp xúc cử tri ngoài đơn vị bầu cử của đại biểu Hội đồng nhân dân.
 
+6. Tiếp xúc cử tri nơi cư trú của đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
 
-### Điều 35.8.NL.2.19. Hình thức, phương thức tiếp xúc cử tri
+7. Tiếp xúc cử tri nơi làm việc của đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
+
+8. Tiếp xúc cử tri theo chuyên đề, lĩnh vực.
+
+9. Tiếp xúc cử tri theo đối tượng.
 
 Điều 35.8.NL.2.19. Hình thức, phương thức tiếp xúc cử tri
 
-**Chỉ mục:** 19
+(Điều 19 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720001900
+1. Hình thức tiếp xúc cử tri:
 
-**ID:** dk_00059543
+a) Hội nghị tiếp xúc cử tri;
 
----
+b) Gặp gỡ, tiếp xúc với cá nhân hoặc nhóm cử tri.
 
+2. Phương thức tiếp xúc cử tri:
 
-### Điều 35.8.NL.2.20. Nội dung tiếp xúc cử tri
+a) Tiếp xúc cử tri trực tiếp;
 
-*Nội dung chưa có sẵn*
+b) Tiếp xúc cử tri trực tuyến;
 
-**Chỉ mục:** 20
+c) Tiếp xúc cử tri trực tiếp kết hợp trực tuyến.
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002000
+Điều 35.8.NL.2.20. Nội dung tiếp xúc cử tri
 
-**ID:** dk_00059544
+(Điều 20 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
----
+Căn cứ vào mục đích, yêu cầu tiếp xúc cử tri, đại biểu Quốc hội, đại biểu Hội đồng nhân dân lựa chọn một hoặc nhiều nội dung sau đây để báo cáo, trao đổi với cử tri:
 
+1. Dự kiến nội dung, chương trình kỳ họp Quốc hội, kỳ họp Hội đồng nhân dân;
 
-### Điều 35.8.NL.2.21. Hội nghị tiếp xúc cử tri
+2. Kết quả giải quyết và trả lời kiến nghị của cử tri;
 
-*Nội dung chưa có sẵn*
+3. Kết quả kỳ họp Quốc hội, kỳ họp Hội đồng nhân dân;
 
-**Chỉ mục:** 21
+4. Hoạt động của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội; Hội đồng nhân dân và đại biểu Hội đồng nhân dân;
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002100
+5. Nội dung chuyên đề, lĩnh vực mà đại biểu Quốc hội, đại biểu Hội đồng nhân dân quan tâm để thu thập ý kiến, kiến nghị của cử tri;
 
-**ID:** dk_00059545
+6. Kết quả thực hiện nhiệm vụ của đại biểu Quốc hội, đại biểu Hội đồng nhân dân và chương trình hành động mà đại biểu đã hứa trước cử tri khi vận động bầu cử;
 
----
+7. Những vấn đề khác mà đại biểu Quốc hội, đại biểu Hội đồng nhân dân quan tâm hoặc cử tri đề nghị được thông tin, trao đổi.
 
+Điều 35.8.NL.2.21. Hội nghị tiếp xúc cử tri
 
-### Điều 35.8.NL.2.22. Đại biểu Quốc hội, đại biểu Hội đồng nhân dâncác cấp cùng tiếp xúc cử tri
+(Điều 21 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
+
+1. Hội nghị tiếp xúc cử tri được tổ chức theo chương trình, kế hoạch của Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Thường trực Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân, được áp dụng đối với hoạt động tiếp xúc cử tri theo định kỳ trước và sau kỳ họp thường lệ Quốc hội, trước kỳ họp thường lệ của Hội đồng nhân dân.
+
+2. Đối với tiếp xúc cử tri trước và sau kỳ họp không thường lệ của Quốc hội, sau kỳ họp thường lệ Hội đồng nhân dân, trước và sau kỳ họp chuyên đề hoặc kỳ họp để giải quyết công việc phát sinh đột xuất của Hội đồng nhân dân, tiếp xúc cử tri tại nơi làm việc, nơi cư trú, tiếp xúc cử tri theo chuyên đề, lĩnh vực, đối tượng hoặc theo địa bàn mà đại biểu Quốc hội, đại biểu Hội đồng nhân dân quan tâm, tiếp xúc cử tri trong tình hình thiên tai, dịch bệnh hoặc sự kiện bất khả kháng thì căn cứ vào mục đích, yêu cầu, nội dung tiếp xúc cử tri, có thể tổ chức hoặc không tổ chức hội nghị tiếp xúc cử tri.
 
 Điều 35.8.NL.2.22. Đại biểu Quốc hội, đại biểu Hội đồng nhân dâncác cấp cùng tiếp xúc cử tri
 
-**Chỉ mục:** 22
+(Điều 22 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002200
+1. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân cấp tỉnh có thể cùng tiếp xúc cử tri. Đoàn đại biểu Quốc hội phối hợp với Thường trực Hội đồng nhân dân cấp tỉnh xem xét, quyết định.
 
-**ID:** dk_00059546
+Thường trực Hội đồng nhân dân cấp tỉnh chủ trì, phối hợp với Đoàn đại biểu Quốc hội, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp xây dựng kế hoạch tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân cấp tỉnh.
 
----
+2. Đại biểu Hội đồng nhân dân hai cấp có thể cùng tiếp xúc cử tri; Thường trực Hội đồng nhân dân cấp tỉnh trao đổi với Thường trực Hội đồng nhân dân cấp xã để xem xét, quyết định.
 
-
-### Điều 35.8.NL.2.23. Thành phần tham dự Hội nghị tiếp xúc cử tri
+Thường trực Hội đồng nhân dân cấp tỉnh chủ trì, phối hợp với Tổ đại biểu Hội đồng nhân dân cùng cấp, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã xây dựng kế hoạch tiếp xúc cử tri của đại biểu Hội đồng nhân dân hai cấp.
 
 Điều 35.8.NL.2.23. Thành phần tham dự Hội nghị tiếp xúc cử tri
 
-**Chỉ mục:** 23
+(Điều 23 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002300
+1. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
 
-**ID:** dk_00059547
+2. Cử tri làm việc, học tập, sinh sống tại các cơ quan, tổ chức, đơn vị cấp đơn vị hành chính nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân tiếp xúc cử tri.
 
----
+3. Đại diện Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh và Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi tiếp xúc cử tri đối với trường hợp tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân cấp tỉnh; đại diện Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã đối với trường hợp tiếp xúc cử tri của đại biểu Hội đồng nhân dân cấp xã.
 
+4. Đại diện Thường trực Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh đối với với trường hợp tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân cấp tỉnh; đại diện Thường trực Hội đồng nhân dân và lãnh đạo Ủy ban nhân dân cấp xã đối với trường hợp tiếp xúc cử tri của đại biểu Hội đồng nhân dân cấp xã.
 
-### Điều 35.8.NL.2.24. Chương trình hội nghị tiếp xúc cử tri
+5. Các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp phục vụ tiếp xúc cử tri.
+
+6. Cơ quan báo chí tại địa phương, trung ương (khi được mời).
 
 Điều 35.8.NL.2.24. Chương trình hội nghị tiếp xúc cử tri
 
-**Chỉ mục:** 24
+(Điều 24 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002400
+1. Tiếp xúc cử tri định kỳ trước kỳ họp thường lệ của Quốc hội, Hội đồng nhân dân, tiếp xúc cử tri định kỳ sau kỳ họp thường lệ của Quốc hội; tiếp xúc cử tri định kỳ sau kỳ họp thường lệ của Hội đồng nhân dân; tiếp xúc cử tri trước và sau kỳ họp không thường lệ của Quốc hội, tiếp xúc cử tri trước và sau kỳ họp chuyên đề hoặc kỳ họp để giải quyết công việc phát sinh đột xuất của Hội đồng nhân dân, tiếp xúc cử tri nơi cư trú hoặc theo địa bàn được thực hiện như sau:
 
-**ID:** dk_00059548
+a) Đại diện Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức tiếp xúc cử tri chủ trì, tuyên bố lý do, giới thiệu đại biểu Quốc hội, đại biểu Hội đồng nhân dân, đại diện cơ quan, tổ chức, cá nhân có liên quan tham dự tiếp xúc cử tri và chương trình, nội dung hội nghị tiếp xúc cử tri;
 
----
+b) Đại biểu Quốc hội, đại biểu Hội đồng nhân dân báo cáo với cử tri về mục đích, yêu cầu và nội dung hội nghị tiếp xúc cử tri;
 
+c) Cử tri phát biểu ý kiến, kiến nghị với đại biểu Quốc hội, đại biểu Hội đồng nhân dân và các cơ quan, tổ chức, cá nhân có liên quan;
 
-### Điều 35.8.NL.2.25. Tiếp xúc cử tri định kỳ trước và sau kỳ họp thường lệ của Quốc hội
+d) Đại diện Thường trực Hội đồng nhân dân, Ủy ban nhân dân, cơ quan, tổ chức, cá nhân có liên quan giải quyết và trả lời kiến nghị của cử tri thuộc thẩm quyền giải quyết của mình;
+
+đ) Đại biểu Quốc hội, đại biểu Hội đồng nhân dân phát biểu ý kiến ghi nhận, giải trình, tiếp thu ý kiến, kiến nghị của cử tri;
+
+e) Đại diện Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam tuyên bố kết thúc hội nghị.
+
+2. Tiếp xúc cử tri nơi làm việc; tiếp xúc cử tri theo chuyên đề, lĩnh vực, đối tượng ở cơ quan, tổ chức được thực hiện như sau:
+
+a) Thủ trưởng hoặc Chủ tịch Công đoàn (nếu có) nơi tổ chức hội nghị tiếp xúc cử tri chủ trì, tuyên bố lý do, giới thiệu đại biểu Quốc hội, đại biểu Hội đồng nhân dân, đại diện cơ quan, tổ chức có liên quan tham dự tiếp xúc cử tri và chương trình, nội dung hội nghị tiếp xúc cử tri;
+
+b) Đại biểu Quốc hội, đại biểu Hội đồng nhân dân báo cáo với cử tri về mục đích, yêu cầu và nội dung hội nghị tiếp xúc cử tri;
+
+c) Cử tri phát biểu ý kiến, kiến nghị với đại biểu Quốc hội, đại biểu Hội đồng nhân dân và các cơ quan, tổ chức, cá nhân có liên quan;
+
+d) Thủ trưởng cơ quan, tổ chức giải quyết và trả lời kiến nghị của cử tri thuộc thẩm quyền giải quyết của mình;
+
+đ) Đại biểu Quốc hội, đại biểu Hội đồng nhân dân phát biểu ý kiến ghi nhận, giải trình, tiếp thu ý kiến, kiến nghị của cử tri;
+
+e) Thủ trưởng hoặc Chủ tịch Công đoàn (nếu có) nơi tổ chức tiếp xúc cử tri tuyên bố kết thúc hội nghị.
+
+3. Trường hợp đại biểu Quốc hội, đại biểu Hội đồng nhân dân cùng tiếp xúc cử tri thì chương trình thực hiện theo trình tự tại khoản 1 và khoản 2 Điều này. Trong đó, việc giới thiệu đại biểu, trình bày báo cáo được thực hiện theo thứ tự các nội dung liên quan đến tiếp xúc cử tri của đại biểu Quốc hội được tiến hành trước các nội dung liên quan đến đại biểu Hội đồng nhân dân cấp tỉnh, các nội dung liên quan đến tiếp xúc cử tri của đại biểu Hội đồng nhân dân cấp tỉnh được tiến hành trước các nội dung liên quan đến đại biểu Hội đồng nhân dân cấp xã.
 
 Điều 35.8.NL.2.25. Tiếp xúc cử tri định kỳ trước và sau kỳ họp thường lệ của Quốc hội
 
-**Chỉ mục:** 25
+(Điều 25 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002500
+1. Tiếp xúc cử tri định kỳ trước kỳ họp thường lệ của Quốc hội:
 
-**ID:** dk_00059549
+a) Trước ngày khai mạc kỳ họp Quốc hội, đại biểu Quốc hội có trách nhiệm tiếp xúc cử tri ở địa phương mình ứng cử hoặc chuyển sinh hoạt đến để báo cáo dự kiến nội dung, chương trình kỳ họp Quốc hội và những vấn đề có liên quan đến kỳ họp; lắng nghe tâm tư, nguyện vọng của cử tri, thu thập ý kiến, kiến nghị của cử tri;
 
----
+b) Đại biểu Quốc hội có thể lựa chọn những nội dung Quốc hội sẽ thảo luận, xem xét, thông qua tại kỳ họp để báo cáo, trao đổi với cử tri, gợi mở những vấn đề quan tâm để cử tri tham gia ý kiến.
 
+2. Tiếp xúc cử tri định kỳ sau kỳ họp thường lệ của Quốc hội:
 
-### Điều 35.8.NL.2.27. Tiếp xúc cử tri nơi cư trú
+a) Sau ngày bế mạc kỳ họp Quốc hội, đại biểu Quốc hội có trách nhiệm tiếp xúc cử tri ở địa phương mình ứng cử hoặc chuyển sinh hoạt đến để báo cáo về kết quả kỳ họp Quốc hội, tình hình thực hiện kế hoạch phát triển kinh tế - xã hội, ngân sách nhà nước; phổ biến các luật, nghị quyết và những quyết định khác mà Quốc hội đã thông qua; lắng nghe tâm tư, nguyện vọng của cử tri, thu thập ý kiến, kiến nghị của cử tri; đồng thời động viên Nhân dân thực hiện các nghị quyết của Quốc hội, chính sách, pháp luật của nhà nước;
 
-*Nội dung chưa có sẵn*
+b) Trưởng Đoàn đại biểu Quốc hội thay mặt Đoàn đại biểu Quốc hội hoặc phân công đại biểu Quốc hội trong Đoàn báo cáo kết quả kỳ họp Quốc hội tại kỳ họp Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương hoặc báo cáo với cử tri thông qua phương tiện thông tin đại chúng tại địa phương.
 
-**Chỉ mục:** 27
+3. Tại hoạt động tiếp xúc cử tri sau kỳ họp thường lệ cuối năm của Quốc hội, kết hợp với việc tiếp xúc cử tri, đại biểu Quốc hội báo cáo với cử tri về việc thực hiện nhiệm vụ đại biểu của mình và chương trình hành động đã hứa trước cử tri khi vận động bầu cử.
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002700
+Điều 35.8.NL.2.27. Tiếp xúc cử tri nơi cư trú
 
-**ID:** dk_00059550
+(Điều 27 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
----
+1. Khi đại biểu Quốc hội có đề nghị tiếp xúc cử tri nơi cư trú, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh hoặc cơ quan, tổ chức nơi đại biểu Quốc hội làm việc có trách nhiệm liên hệ với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi đại biểu Quốc hội cư trú để tổ chức tiếp xúc cử tri.
 
+2. Khi đại biểu Hội đồng nhân dân cấp tỉnh có đề nghị tiếp xúc cử tri nơi cư trú thì trực tiếp hoặc thông qua Thường trực Hội đồng nhân dân cùng cấp liên hệ với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi đại biểu cư trú để tổ chức tiếp xúc cử tri.
 
-### Điều 35.8.NL.2.28. Tiếp xúc cử tri nơi làm việc
+Đại biểu Hội đồng nhân dân cấp xã trực tiếp hoặc thông qua Thường trực Hội đồng nhân dân liên hệ với Ủy ban nhân dân, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp để tiếp xúc cử tri.
 
-*Nội dung chưa có sẵn*
+3. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân cư trú phối hợp với Thường trực Hội đồng nhân dân, Ủy ban nhân dân cùng cấp và các cơ quan, tổ chức có liên quan tổ chức tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân; thông báo nội dung, thời gian, địa điểm tiếp xúc cho cử tri được biết; đồng thời, tuyên truyền, vận động cử tri tham dự tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
 
-**Chỉ mục:** 28
+4. Ủy ban nhân dân cấp xã, nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân cư trú bố trí địa điểm, tạo điều kiện thuận lợi để đại biểu Quốc hội, đại biểu Hội đồng nhân dân tiếp xúc cử tri; bảo đảm an ninh, trật tự, an toàn cho hoạt động tiếp xúc cử tri.
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002800
+Điều 35.8.NL.2.28. Tiếp xúc cử tri nơi làm việc
 
-**ID:** dk_00059551
+(Điều 28 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
----
+1. Khi đại biểu Quốc hội, đại biểu Hội đồng nhân dân có đề nghị tiếp xúc cử tri tại nơi làm việc, thì Thủ trưởng, Chủ tịch Công đoàn (nếu có) cơ quan, tổ chức nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân làm việc có trách nhiệm tổ chức để đại biểu Quốc hội, đại biểu Hội đồng nhân dân tiếp xúc cử tri.
 
-
-### Điều 35.8.NL.2.29. Tiếp xúc cử tri theo chuyên đề, lĩnh vực
+2. Thủ trưởng cơ quan, tổ chức, nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân làm việc chủ trì phối hợp với Chủ tịch Công đoàn (nếu có) tổ chức, thông báo, tạo điều kiện để cử tri trong cơ quan, tổ chức đến dự tiếp xúc với đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
 
 Điều 35.8.NL.2.29. Tiếp xúc cử tri theo chuyên đề, lĩnh vực
 
-**Chỉ mục:** 29
+(Điều 29 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720002900
+1. Căn cứ chương trình, nội dung kỳ họp Quốc hội, các dự án luật, nghị quyết, các báo cáo và các dự án khác mà Quốc hội sẽ xem xét, thông qua tại kỳ họp, Đoàn đại biểu Quốc hội tổ chức để đại biểu Quốc hội tiếp xúc cử tri theo chuyên đề, lĩnh vực mà đại biểu Quốc hội quan tâm.
 
-**ID:** dk_00059552
+2. Căn cứ chương trình, nội dung kỳ họp Hội đồng nhân dân, tình hình thực tiễn, Thường trực Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân tổ chức để đại biểu Hội đồng nhân dân tiếp xúc cử tri theo chuyên đề mà đại biểu Hội đồng nhân dân, cử tri quan tâm.
 
----
+3. Cử tri tham gia tiếp xúc là chuyên gia, nhà nghiên cứu, người có kinh nghiệm hoạt động thực tiễn, những người có liên quan về chuyên đề, lĩnh vực mà đại biểu cần trao đổi, lấy ý kiến, kiến nghị.
 
+4. Theo yêu cầu của đại biểu Quốc hội, đại biểu Hội đồng nhân dân, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã có trách nhiệm chuẩn bị nội dung, tài liệu và những vấn đề cần lấy ý kiến, kiến nghị của cử tri; liên hệ với Thủ trưởng cơ quan, tổ chức có liên quan đến yêu cầu của đại biểu Quốc hội, đại biểu Hội đồng nhân dân để tổ chức tiếp xúc cử tri.
 
-### Điều 35.8.NL.2.30. Tiếp xúc cử tri theo đối tượng của đại biểu Quốc hội
+5. Thủ trưởng cơ quan, tổ chức có liên quan đến hoạt động tiếp xúc cử tri có trách nhiệm thông báo, tạo điều kiện để cử tri tham dự, góp ý kiến, kiến nghị với đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
+
+6. Tại hoạt động tiếp xúc cử tri, đại biểu Quốc hội, đại biểu Hội đồng nhân dân có thể lựa chọn nội dung để báo cáo, trao đổi với cử tri, gợi mở những vấn đề mình quan tâm tìm hiểu để cử tri tham gia ý kiến.
+
+7. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã có trách nhiệm ghi biên bản tiếp xúc cử tri.
 
 Điều 35.8.NL.2.30. Tiếp xúc cử tri theo đối tượng của đại biểu Quốc hội
 
-**Chỉ mục:** 30
+(Điều 30 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003000
+1. Căn cứ vào nội dung, chương trình kỳ họp Quốc hội, Đoàn đại biểu Quốc hội tổ chức để đại biểu Quốc hội tiếp xúc với cử tri có liên quan trực tiếp đến đối tượng điều chỉnh của các dự án luật, các dự án khác mà Quốc hội xem xét, thông qua tại kỳ họp.
 
-**ID:** dk_00059553
+2. Theo yêu cầu của đại biểu Quốc hội, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có trách nhiệm liên hệ với Thủ trưởng cơ quan, tổ chức có liên quan tổ chức để đại biểu Quốc hội tiếp xúc đúng đối tượng cử tri theo yêu cầu của đại biểu Quốc hội.
 
----
+3. Thủ trưởng cơ quan, tổ chức có liên quan đến hoạt động tiếp xúc cử tri có trách nhiệm thông báo, tạo điều kiện để cử tri thuộc đối tượng đại biểu quan tâm tham dự tiếp xúc cử tri.
 
+4. Tại hoạt động tiếp xúc cử tri, đại biểu Quốc hội chủ động nêu những vấn đề mà mình quan tâm tìm hiểu để trao đổi, lấy ý kiến, kiến nghị của cử tri.
 
-### Điều 35.8.NL.2.31. Tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố, nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến
+5. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có trách nhiệm ghi biên bản tiếp xúc cử tri của đại biểu Quốc hội.
 
 Điều 35.8.NL.2.31. Tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố, nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến
 
-**Chỉ mục:** 31
+(Điều 31 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003100
+1. Trong trường hợp cần thiết để nâng cao chất lượng, hiệu quả đóng góp vào xây dựng luật, hoạt động giám sát và quyết định những vấn đề quan trọng của đất nước, đại biểu Quốc hội có thể tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố trực thuộc trung ương, nơi mình ứng cử hoặc chuyển sinh hoạt đến.
 
-**ID:** dk_00059554
+2. Chậm nhất là 20 ngày làm việc, trước ngày dự kiến tiếp xúc cử tri, đại biểu Quốc hội có trách nhiệm thông báo bằng văn bản về chương trình, kế hoạch, nội dung tiếp xúc cử tri, nơi đại biểu Quốc hội đến tiếp xúc cho Đoàn đại biểu Quốc hội địa phương để sắp xếp, bố trí thời gian, địa điểm và chuẩn bị các điều kiện để đại biểu Quốc hội tiếp xúc cử tri.
 
----
+3. Tùy theo nơi làm việc của đại biểu Quốc hội tại địa phương hoặc ở trung ương, mà Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh hoặc cơ quan, tổ chức nơi đại biểu Quốc hội làm việc có trách nhiệm liên hệ với Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, cơ quan, tổ chức ở địa phương nơi đại biểu dự định tiếp xúc cử tri để tổ chức tiếp xúc cử tri.
 
+4. Đoàn đại biểu Quốc hội địa phương có trách nhiệm phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam ở địa bàn đại biểu Quốc hội đến tiếp xúc để tổ chức; thông báo, tuyên truyền, vận động cử tri đến dự tiếp xúc.
 
-### Điều 35.8.NL.2.33. Tiếp xúc với cá nhân hoặc nhóm cử tri
+5. Đoàn đại biểu Quốc hội địa phương, nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến có trách nhiệm phối hợp với cơ quan, tổ chức nơi đại biểu Quốc hội làm việc bảo đảm các điều kiện để đại biểu Quốc hội tiếp xúc cử tri; phục vụ hoạt động tiếp xúc cử tri của đại biểu Quốc hội, ghi biên bản tiếp xúc cử tri khi đại biểu yêu cầu.
+
+6. Tại hoạt động tiếp xúc cử tri, đại biểu Quốc hội chủ động nêu những vấn đề mà mình quan tâm tìm hiểu để trao đổi, lấy ý kiến, kiến nghị của cử tri.
+
+7. Trong trường hợp tổ chức tiếp xúc cử tri theo hình thức hội nghị thì chương trình hội nghị được thực hiện theo quy định tại Điều 24 của Nghị quyết này.
 
 Điều 35.8.NL.2.33. Tiếp xúc với cá nhân hoặc nhóm cử tri
 
-**Chỉ mục:** 33
+(Điều 33 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003300
+1. Căn cứ vào điều kiện cụ thể và yêu cầu thực hiện nhiệm vụ của mình, đại biểu Quốc hội, đại biểu Hội đồng nhân dân gặp gỡ, tiếp xúc với cá nhân hoặc nhóm cử tri để lắng nghe, tìm hiểu tâm tư, nguyện vọng của cử tri và thu thập ý kiến, kiến nghị của cử tri.
 
-**ID:** dk_00059555
+2. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân có trách nhiệm gửi văn bản báo cáo Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân cùng cấp trước khi gặp gỡ, tiếp xúc.
 
----
+3. Căn cứ vào nội dung ý kiến, kiến nghị của cử tri, đại biểu Quốc hội trực tiếp hoặc yêu cầu công chức Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh hoặc cơ quan, tổ chức nơi đại biểu Quốc hội làm việc tập hợp ý kiến, kiến nghị của cử tri gửi đến Đoàn đại biểu Quốc hội.
 
+4. Chậm nhất là 05 ngày làm việc, sau ngày nhận được đề nghị của đại biểu Quốc hội, đại biểu Hội đồng nhân dân, Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân cùng cấp xem xét, quyết định và thông báo đến đại biểu Quốc hội, Hội đồng nhân dân về việc gặp gỡ, tiếp xúc với cá nhân hoặc nhóm cử tri.
 
-### Điều 35.8.NL.2.34. Tiếp xúc cử tri trước và sau kỳ họp không thường lệ của Quốc hội, kỳ họp chuyên đề hoặc giải quyết các vấn đề phát sinh đột xuất của Hội đồng nhân dân
+5. Chậm nhất là 03 ngày làm việc, trước ngày tiếp xúc cử tri, Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân cùng cấp thông báo về chương trình, kế hoạch, nội dung tiếp xúc cử tri đến Ban Công tác Mặt trận tại thôn, tổ dân phố, cá nhân hoặc nhóm cử tri nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân gặp gỡ, tiếp xúc.
+
+6. Căn cứ vào đối tượng tiếp xúc, Ban Công tác Mặt trận tại thôn, tổ dân phố cử đại diện tham gia hỗ trợ và phục vụ đại biểu Quốc hội, đại biểu Hội đồng nhân dân gặp gỡ, tiếp xúc với cá nhân hoặc nhóm cử tri.
+
+7. Tại hoạt động gặp gỡ, tiếp xúc, đại biểu Quốc hội, đại biểu Hội đồng nhân dân chủ động nêu những vấn đề mà mình quan tâm tìm hiểu để trao đổi, lấy ý kiến, kiến nghị của cá nhân hoặc nhóm cử tri.
+
+8. Chậm nhất 05 ngày làm việc, sau khi kết thúc hoạt động gặp gỡ, tiếp xúc, đại biểu Quốc hội tổng hợp ý kiến, kiến nghị của cá nhân hoặc nhóm cử tri để gửi đến cơ quan có thẩm quyền xem xét, giải quyết, đồng thời gửi Đoàn đại biểu Quốc hội, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh.
+
+Chậm nhất 05 ngày làm việc, sau khi kết thúc hoạt động gặp gỡ, tiếp xúc, đại biểu Hội đồng nhân dân tổng hợp ý kiến, kiến nghị của cá nhân hoặc nhóm cử tri để gửi đến cơ quan có thẩm quyền xem xét, giải quyết, đồng thời gửi Tổ đại biểu Hội đồng nhân dân, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp.
 
 Điều 35.8.NL.2.34. Tiếp xúc cử tri trước và sau kỳ họp không thường lệ của Quốc hội, kỳ họp chuyên đề hoặc giải quyết các vấn đề phát sinh đột xuất của Hội đồng nhân dân
 
-**Chỉ mục:** 34
+(Điều 34 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003400
+1. Căn cứ vào nội dung chương trình kỳ họp không thường lệ của Quốc hội hoặc theo yêu cầu của Ủy ban Thường vụ Quốc hội, Đoàn đại biểu Quốc hội có thể tổ chức hoặc không tổ chức tiếp xúc cử tri hoặc có phương thức phù hợp thu thập ý kiến, kiến nghị của cử tri.
 
-**ID:** dk_00059556
+Trong trường hợp tổ chức tiếp xúc cử tri thì Đoàn đại biểu Quốc hội quyết định về hình thức tiếp xúc cử tri và chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh xây dựng Báo cáo tổng hợp kiến nghị của cử tri và Nhân dân.
 
----
+2. Căn cứ vào nội dung chương trình kỳ họp chuyên đề hoặc kỳ họp để giải quyết công việc phát sinh đột xuất của Hội đồng nhân dân và tình hình thực tế, Thường trực Hội đồng nhân dân quyết định việc tổ chức hoặc không tổ chức tiếp xúc cử tri hoặc có phương thức phù hợp thu thập ý kiến, kiến nghị của cử tri.
 
-
-### Điều 35.8.NL.2.35. Tiếp xúc cử tri trực tuyến, tiếp xúc cử tri trực tiếp kết hợp với trực tuyến
+Trong trường hợp tổ chức tiếp xúc cử tri thì Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã quyết định hình thức tiếp xúc cử tri và chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp xây dựng Báo cáo tổng hợp kiến nghị của cử tri và Nhân dân.
 
 Điều 35.8.NL.2.35. Tiếp xúc cử tri trực tuyến, tiếp xúc cử tri trực tiếp kết hợp với trực tuyến
 
-**Chỉ mục:** 35
+(Điều 35 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003500
+1. Căn cứ vào điều kiện thực tế, Đoàn đại biểu Quốc hội, Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã có thể tổ chức tiếp xúc cử tri trực tuyến, tiếp xúc cử tri trực tiếp kết hợp với trực tuyến.
 
-**ID:** dk_00059557
+2. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức tiếp xúc cử tri phối hợp với Thường trực Hội đồng nhân dân, Ủy ban nhân dân cùng cấp và các cơ quan, tổ chức có liên quan thông báo nội dung, thời gian, hình thức tiếp xúc; các điểm truy cập trực tuyến, điểm tiếp xúc trực tiếp diễn ra tiếp xúc cho cử tri được biết; đồng thời, tuyên truyền, vận động cử tri tham dự tiếp xúc của đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
 
----
+3. Chương trình, nội dung tiếp xúc cử tri trực tuyến hoặc trực tiếp kết hợp với trực tuyến được thực hiện theo quy định của Nghị quyết này.
 
-
-### Điều 35.8.NL.2.36. Tiếp xúc cử tri trong tình hình thiên tai, dịch bệnh hoặc sự kiện bất khả kháng
+4. Việc tiếp xúc cử tri trực tuyến chỉ được thực hiện khi bảo đảm các điều kiện kỹ thuật, an toàn thông tin mạng, an ninh mạng.
 
 Điều 35.8.NL.2.36. Tiếp xúc cử tri trong tình hình thiên tai, dịch bệnh hoặc sự kiện bất khả kháng
 
-**Chỉ mục:** 36
+(Điều 36 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003600
+1. Trường hợp xảy ra thiên tai, dịch bệnh hoặc sự kiện bất khả kháng, căn cứ vào tình hình và điều kiện thực tế tại địa phương hoặc theo yêu cầu của Ủy ban Thường vụ Quốc hội, Đoàn đại biểu Quốc hội quyết định tổ chức hoặc không tổ chức tiếp xúc cử tri của đại biểu Quốc hội; Thường trực Hội đồng nhân dân quyết định tổ chức hoặc không tổ chức tiếp xúc cử tri của đại biểu Hội đồng nhân dân.
 
-**ID:** dk_00059558
-
----
-
-
-### Điều 35.8.NL.2.37. Tập hợp, tổng hợp, chuyển ý kiến, kiến nghị của cử tri thông qua hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+2. Việc xác định trường hợp thiên tai, dịch bệnh, sự kiện bất khả kháng thực hiện theo quy định của pháp luật hoặc do cơ quan nhà nước có thẩm quyền công bố
 
 Điều 35.8.NL.2.37. Tập hợp, tổng hợp, chuyển ý kiến, kiến nghị của cử tri thông qua hoạt động tiếp xúc cử tri của đại biểu Quốc hội
 
-**Chỉ mục:** 37
+(Điều 37 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003700
+1. Thông qua tiếp xúc cử tri, đại biểu Quốc hội có trách nhiệm tập hợp đầy đủ, trung thực các ý kiến, kiến nghị của cử tri, gửi đến Đoàn đại biểu Quốc hội để tổng hợp báo cáo Ủy ban Thường vụ Quốc hội đối với những kiến nghị thuộc thẩm quyền giải quyết của cơ quan, tổ chức, cá nhân ở trung ương; chuyển đến Thường trực Hội đồng nhân dân và cơ quan, tổ chức, cá nhân có thẩm quyền ở địa phương đối với những ý kiến, kiến nghị thuộc thẩm quyền giải quyết của địa phương.
 
-**ID:** dk_00059559
+2. Chậm nhất là 15 ngày trước ngày khai mạc và 15 ngày sau khi kết thúc kỳ họp thường lệ của Quốc hội, Đoàn đại biểu Quốc hội có trách nhiệm chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh tổng hợp, phân loại các ý kiến, kiến nghị của cử tri; gửi báo cáo tổng hợp ý kiến, kiến nghị của cử tri đến Ủy ban Thường vụ Quốc hội và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam đối với những ý kiến, kiến nghị thuộc thẩm quyền giải quyết của cơ quan, tổ chức, cá nhân ở trung ương; đồng thời, chuyển đến Thường trực Hội đồng nhân dân và cơ quan, tổ chức, cá nhân có thẩm quyền ở địa phương để giám sát và yêu cầu giải quyết, trả lời cử tri đối với những ý kiến, kiến nghị của cử tri thuộc thẩm quyền giải quyết của địa phương theo quy định.
 
----
+3. Đối với các ý kiến, kiến nghị của cử tri được thu thập, tổng hợp từ tiếp xúc cử tri theo chương trình cá nhân của đại biểu Quốc hội, đại biểu Quốc hội có trách nhiệm chuyển ý kiến, kiến nghị đến các cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết ở trung ương và địa phương để yêu cầu giải quyết, trả lời, đồng thời gửi đến Đoàn đại biểu Quốc hội để theo dõi, tổng hợp số liệu.
 
+4. Đối với nội dung khiếu nại, tố cáo mà cử tri nêu tại các hoạt động tiếp xúc cử tri thì đại biểu Quốc hội, Đoàn đại biểu Quốc hội xử lý theo quy định của Ủy ban Thường vụ Quốc hội về tiếp công dân, xử lý đơn thư.
 
-### Điều 35.8.NL.2.38. Thu thập, tổng hợp ý kiến, kiến nghị của cử tri trước và sau kỳ họp không thường lệ của Quốc hội
+5. Cơ quan phụ trách công tác dân nguyện có trách nhiệm tập hợp, tổng hợp ý kiến, kiến nghị của cử tri do các Đoàn đại biểu Quốc hội gửi đến Ủy ban Thường vụ Quốc hội; phân loại, chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền, yêu cầu giải quyết, trả lời cử tri.
 
 Điều 35.8.NL.2.38. Thu thập, tổng hợp ý kiến, kiến nghị của cử tri trước và sau kỳ họp không thường lệ của Quốc hội
 
-**Chỉ mục:** 38
+(Điều 38 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720003800
+1. Trước và sau kỳ họp không thường lệ của Quốc hội, đại biểu Quốc hội và Đoàn đại biểu Quốc hội thực hiện thu thập, tổng hợp ý kiến, kiến nghị của cử tri theo quy định tại Điều 39 của Nghị quyết này.
 
-**ID:** dk_00059560
-
----
-
-
-### Điều 35.8.NL.2.44. Trách nhiệm giải quyết, trả lời kiến nghị của cử tri liên quan đến hoạt động của Quốc hội
+2. Chậm nhất 02 ngày làm việc trước ngày khai mạc và 07 ngày làm việc sau ngày bế mạc kỳ họp không thường lệ, Đoàn đại biểu Quốc hội tổng hợp, phân loại các ý kiến, kiến nghị của cử tri thuộc thẩm quyền của cơ quan, tổ chức, cá nhân ở trung ương, gửi báo cáo đến Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NL.2.44. Trách nhiệm giải quyết, trả lời kiến nghị của cử tri liên quan đến hoạt động của Quốc hội
 
-**Chỉ mục:** 44
+(Điều 44 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720004400
+1. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội có trách nhiệm xem xét, giải quyết, trả lời các kiến nghị của cử tri về các vấn đề thuộc lĩnh vực phụ trách của Hội đồng Dân tộc, Ủy ban hoặc do Ủy ban Thường vụ Quốc hội phân công.
 
-**ID:** dk_00059561
-
----
-
-
-### Điều 35.8.NL.2.49. Thời hạn giải quyết, trả lời kiến nghị của cử tri, báo cáo kết quả giải quyết kiến nghị của cử tri đối với hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+2. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội có trách nhiệm giúp Ủy ban Thường vụ Quốc hội xem xét, giải quyết, trả lời kiến nghị của cử tri về các vấn đề liên quan đến chương trình kỳ họp Quốc hội, phiên họp Ủy ban Thường vụ Quốc hội và các vấn đề khác thuộc chức năng, nhiệm vụ của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội, Văn phòng Quốc hội.
 
 Điều 35.8.NL.2.49. Thời hạn giải quyết, trả lời kiến nghị của cử tri, báo cáo kết quả giải quyết kiến nghị của cử tri đối với hoạt động tiếp xúc cử tri của đại biểu Quốc hội
 
-**Chỉ mục:** 49
+(Điều 49 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720004900
+1. Trong thời hạn 60 ngày, kể từ ngày nhận được kiến nghị của cử tri, cơ quan, tổ chức, cá nhân có thẩm quyền có trách nhiệm giải quyết và trả lời cử tri; gửi văn bản trả lời cử tri đến Đoàn đại biểu Quốc hội địa phương nơi cử tri kiến nghị và cơ quan, đại biểu Quốc hội đã chuyển kiến nghị của cử tri.
 
-**ID:** dk_00059562
+2. Chậm nhất là 20 ngày làm việc, trước ngày khai mạc kỳ họp Quốc hội, cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết kiến nghị của cử tri có trách nhiệm báo cáo tổng hợp kết quả giải quyết, trả lời kiến nghị của cử tri tại kỳ họp trước đến Ủy ban Thường vụ Quốc hội.
 
----
+Nội dung báo cáo tổng hợp kết quả giải quyết, trả lời kiến nghị của cử tri phải thể hiện rõ các kiến nghị đã giải quyết xong; các kiến nghị đang nghiên cứu, tiếp thu để giải quyết, trong đó xác định cụ thể lộ trình, thời hạn giải quyết; các kiến nghị giải trình, cung cấp thông tin cho cử tri.
 
+Văn phòng Chính phủ có trách nhiệm giúp Chính phủ trong việc chuẩn bị báo cáo tổng hợp kết quả giải quyết, trả lời kiến nghị của cử tri thuộc thẩm quyền giải quyết của Chính phủ quy định tại Nghị quyết này và gửi đến Ủy ban Thường vụ Quốc hội.
 
-### Điều 35.8.NL.2.51. Công khai kết quả giải quyết, trả lời kiến nghị của cử tri
+3. Ngay sau khi nhận được văn bản trả lời kiến nghị của cử tri, Đoàn đại biểu Quốc hội có trách nhiệm thông báo kết quả giải quyết, trả lời cử tri của cơ quan, tổ chức, cá nhân có thẩm quyền đến cử tri; thông tin, cung cấp toàn bộ văn bản trả lời kiến nghị của cử tri cho đại biểu Quốc hội trong Đoàn và công khai văn bản trả lời cử tri trên các phương tiện thông tin đại chúng ở địa phương.
 
 Điều 35.8.NL.2.51. Công khai kết quả giải quyết, trả lời kiến nghị của cử tri
 
-**Chỉ mục:** 51
+(Điều 51 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720005100
+1. Sau 15 ngày làm việc, kể từ ngày kết thúc thời hạn giải quyết, trả lời kiến nghị của cử tri, Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân, Ủy ban nhân dân các cấp công khai kết quả giải quyết, trả lời kiến nghị của cử tri trên các phương tiện thông tin đại chúng ở địa phương và trang thông tin điện tử chính thức của cơ quan, tổ chức.
 
-**ID:** dk_00059563
-
----
-
-
-### Điều 35.8.NL.2.53. Trách nhiệm tham gia giám sát việc giải quyết, trả lời kiến nghị của cử tri
+2. Kết quả giải quyết, trả lời kiến nghị của cử tri được niêm yết trong vòng 30 ngày tại trụ sở tiếp công dân cấp giải quyết kiến nghị của cử tri.
 
 Điều 35.8.NL.2.53. Trách nhiệm tham gia giám sát việc giải quyết, trả lời kiến nghị của cử tri
 
-**Chỉ mục:** 53
+(Điều 53 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000270000000000000000000202902600720005300
+1. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân căn cứ nội dung kiến nghị của cử tri và kết quả giải quyết, trả lời của các cơ quan, tổ chức, cá nhân có thẩm quyền có trách nhiệm theo dõi, đôn đốc việc giải quyết, trả lời kiến nghị của cử tri và tham gia các hoạt động giám sát việc giải quyết, trả lời kiến nghị của cử tri theo quy định của pháp luật.
 
-**ID:** dk_00059564
+2. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội căn cứ vào nội dung kiến nghị, trả lời kiến nghị của cử tri thuộc lĩnh vực phụ trách hoặc do Ủy ban Thường vụ Quốc hội phân công, nghiên cứu, xây dựng chương trình và tiến hành các hoạt động giám sát của Hội đồng Dân tộc, Ủy ban của Quốc hội.
 
----
+3. Đoàn đại biểu Quốc hội căn cứ vào nội dung kiến nghị của cử tri tại địa phương xây dựng chương trình, tổ chức thực hiện các hoạt động giám sát của Đoàn; trong trường hợp cần thiết phối hợp với Thường trực Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh giám sát việc giải quyết, trả lời kiến nghị của cử tri thuộc thẩm quyền giải quyết của địa phương.
 
+Theo yêu cầu của Ủy ban Thường vụ Quốc hội, căn cứ kiến nghị của cử tri địa phương và kết quả giải quyết, trả lời của các cơ quan, tổ chức, cá nhân có thẩm quyền ở trung ương, Đoàn đại biểu Quốc hội có trách nhiệm đánh giá kết quả giải quyết và gửi kết quả đến Ủy ban Thường vụ Quốc hội.
 
-### Điều 35.8.LQ.28. Trách nhiệm tiếp công dân, tiếp nhận và xử lý khiếu nại, tố cáo, kiến nghị của công dân
+4. Ban của Hội đồng nhân dân căn cứ vào nội dung kiến nghị, trả lời kiến nghị của cử tri thuộc lĩnh vực phụ trách hoặc do Thường trực Hội đồng nhân dân phân công, nghiên cứu, xây dựng chương trình và tiến hành các hoạt động giám sát của Ban.
+
+5. Tổ đại biểu Hội đồng nhân dân căn cứ vào nội dung kiến nghị của cử tri tại địa phương xây dựng chương trình, tổ chức thực hiện các hoạt động giám sát của Tổ.
+
+Theo yêu cầu của Thường trực Hội đồng nhân dân, căn cứ kiến nghị của cử tri tại địa phương và kết quả giải quyết của các cơ quan, tổ chức, cá nhân có thẩm quyền ở địa phương, Tổ đại biểu Hội đồng nhân dân có trách nhiệm đánh giá kết quả giải quyết và gửi kết quả đến Thường trực Hội đồng nhân dân.
 
 Điều 35.8.LQ.28. Trách nhiệm tiếp công dân, tiếp nhận và xử lý khiếu nại, tố cáo, kiến nghị của công dân
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200002800000000000000000
+1. Đại biểu Quốc hội có trách nhiệm tiếp công dân theo quy định của pháp luật.
 
-**ID:** dk_00059565
+2. Khi nhận được khiếu nại, tố cáo, kiến nghị của công dân, đại biểu Quốc hội có trách nhiệm nghiên cứu, kịp thời chuyển đến người có thẩm quyền giải quyết và thông báo cho người khiếu nại, tố cáo, kiến nghị biết; đôn đốc, theo dõi và giám sát việc giải quyết. Người có thẩm quyền giải quyết phải thông báo cho đại biểu Quốc hội về kết quả giải quyết khiếu nại, tố cáo, kiến nghị của công dân trong thời hạn theo quy định của pháp luật.
 
----
+3. Trong trường hợp xét thấy việc giải quyết khiếu nại, tố cáo, kiến nghị không đúng pháp luật, đại biểu Quốc hội có quyền gặp người đứng đầu cơ quan, tổ chức, đơn vị hữu quan để tìm hiểu, yêu cầu xem xét lại; khi cần thiết, đại biểu Quốc hội yêu cầu người đứng đầu cơ quan, tổ chức, đơn vị cấp trên trực tiếp của cơ quan, tổ chức, đơn vị đó giải quyết.
 
+(Điều này có nội dung liên quan đến Chương I HOẠT ĐỘNG TIẾP CÔNG DÂN CỦA CÁC CƠ QUAN CỦA QUỐC HỘI, ĐẠI BIỂU QUỐC HỘI, HỘI ĐỒNG NHÂN DÂN VÀ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN CÁC CẤP của Nghị quyết 759/2014/UBTVQH13 Quy định chi tiết về hoạt động tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân và đại biểu Hội đồng nhân dân các cấp ban hành ngày 15/05/2014; Điều 18.4.LQ.4. Trách nhiệm tiếp công dân; Điều 18.4.LQ.5. Quản lý công tác tiếp công dân; Điều 18.4.LQ.12. Tiếp công dân tại Trụ sở tiếp công dân cấp tỉnh; Điều 18.4.LQ.20. Tiếp công dân của các cơ quan của Quốc hội; Điều 18.4.LQ.21. Tiếp công dân của đại biểu Quốc hội; Điều 18.4.LQ.23. Quy định chi tiết việc tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân các cấp)
 
-### Điều 35.8.NQ.1.1. Đại biểu Quốc hội tiếp công dân
+Điều 35.8.NQ.1.1. Đại biểu Quốc hội tiếp công dân
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị quyết số 228/1999/NQ-UBTVQH10 Về việc Đại biểu Quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo và kiến nghị của công dân ngày 27/10/1999 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 15/11/1999 )
 
-**Chỉ mục:** 1
+1. Đại biểu Quốc hội tiếp công dân nhằm thu thập ý kiến, nguyện vọng, phản ánh của công dân; đồng thời hướng dẫn, giúp đỡ công dân thực hiện việc khiếu nại, tố cáo và nhận đơn, thư của công dân để chuyển đến cơ quan, tổ chức có thẩm quyền giải quyết theo quy định của pháp luật.
 
-**Mã phân cấp:** 350080000000000020000280000000000000000000201977802280000100
+2. Đại biểu Quốc hội tiếp công dân tại địa điểm tiếp công dân do Đoàn đại biểu Quốc hội bố trí và theo sự phân công của Trưởng đoàn đại biểu Quốc hội.
 
-**ID:** dk_00059566
+Trưởng Đoàn đại biểu Quốc hội tổ chức để các đại biểu Quốc hội trong Đoàn tiếp công dân. Danh sách, kế hoạch thời gian tiếp công dân của đại biểu Quốc hội được niêm yết tại nơi tiếp công dân, đồng thời thông báo cho đại biểu Quốc hội trước 7 ngày. Nếu có lý do không tiếp được, đại biểu Quốc hội báo cáo với Trưởng đoàn trước 3 ngày để cử người khác thay thế.
 
----
+3. Khi công dân có yêu cầu gặp đại biểu Quốc hội để trình bày khiếu nại, tố cáo, kiến nghị thì đại biểu Quốc hội tạo điều kiện thuận lợi để tiếp công dân; nếu chưa thể tiếp công dân được thì đại biểu Quốc hội nhận đơn hoặc hẹn tiếp công dân vào thời gian thích hợp.
 
+Trong thời gian Quốc hội họp, khi cần thiết, theo đề nghị của Văn phòng Quốc hội và được Chủ tịch Quốc hội đồng ý, Trưởng đoàn đại biểu Quốc hội có trách nhiệm tiếp hoặc phân công đại biểu Quốc hội trong đoàn tiếp công dân của địa phương mình đến khiếu nại, tố cáo, kiến nghị.
 
-### Điều 35.8.NQ.1.2. Đại biểu Quốc hội tiếp nhận ý kiến, kiến nghị của công dân
+4. Khi tiếp công dân, đại biểu Quốc hội lắng nghe ý kiến nguyện vọng của công dân, giải thích, tuyên truyền đường lối, chính sách, pháp luật và hướng dẫn công dân thực hiện việc khiếu nại, tố cáo, kiến nghị theo quy định của pháp luật.
+
+Khi cần thiết, đại biểu Quốc hội yêu cầu công dân cung cấp các tài liệu có liên quan đến những nội dung đã trình bày.
+
+Trường hợp có nhiều người khiếu nại, tố cáo, kiến nghị về cùng một nội dung thì đại biểu Quốc hội yêu cầu cử người đại diện để trình bày.
+
+5. Đại biểu Quốc hội không tiếp công dân đến khiếu nại, tố cáo, kiến nghị khi công dân vi phạm nội quy nơi tiếp công dân.
+
+(Điều này có nội dung liên quan đến Chương V TIẾP CÔNG DÂN CỦA CÁC CƠ QUAN CỦA QUỐC HỘI, ĐẠI BIỂU QUỐC HỘI, CỦA HỘI ĐỒNG NHÂN DÂN VÀ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN CÁC CẤP)
 
 Điều 35.8.NQ.1.2. Đại biểu Quốc hội tiếp nhận ý kiến, kiến nghị của công dân
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 228/1999/NQ-UBTVQH10, có hiệu lực thi hành kể từ ngày 15/11/1999)
 
-**Mã phân cấp:** 350080000000000020000280000000000000000000201977802280000200
+1. Khi nhận được ý kiến, kiến nghị của công dân, đại biểu Quốc hội xem xét, phản ánh hoặc chuyển đến cơ quan, tổ chức có thẩm quyền, cụ thể như sau:
 
-**ID:** dk_00059567
+a. Những ý kiến, kiến nghị của công dân thuộc thẩm quyền xem xét và giải quyết của cơ quan, tổ chức ở địa phương thì phản ánh hoặc chuyển đến cơ quan, tổ chức địa phương;
 
----
+b. Những ý kiến, kiến nghị của công dân thuộc thẩm quyền xem xét và giải quyết của Bộ, ngành, cơ quan, tổ chức nào thì phản ánh hoặc chuyển đến Bộ, ngành, cơ quan, tổ chức đó;
 
+c. Những ý kiến, kiến nghị của công dân thuộc thẩm quyền của Chính phủ thì phản ảnh hoặc chuyển đến Chính phủ xem xét;
 
-### Điều 35.8.NQ.1.3. Đại biểu Quốc hội tiếp nhận, chuyển khiếu  nại, tố cáo và đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo của công dân
+d. Những ý kiến, kiến nghị của công dân liên quan đến sửa đổi, bổ sung hoặc xây dựng luật, pháp lệnh thì phản ảnh hoặc chuyển đến Uỷ ban thường vụ Quốc hội xem xét.
+
+2. Đại biểu Quốc hội phản ánh những ý kiến, kiến nghị của công dân nêu ở điểm 1 phần này với Trưởng đoàn đại biểu Quốc hội để tổng hợp báo cáo Uỷ ban thường vụ Quốc hội.
 
 Điều 35.8.NQ.1.3. Đại biểu Quốc hội tiếp nhận, chuyển khiếu  nại, tố cáo và đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo của công dân
 
-**Chỉ mục:** 3
+(Điều 3 Nghị quyết số 228/1999/NQ-UBTVQH10, có hiệu lực thi hành kể từ ngày 15/11/1999)
 
-**Mã phân cấp:** 350080000000000020000280000000000000000000201977802280000300
+1. Khi nhận được khiếu nại, tố cáo của công dân, đại biểu Quốc hội nghiên cứu, chuyển khiếu nại, tố cáo đến cơ quan, tổ chức có thẩm quyền giải quyết và thông báo cho người khiếu nại, tố cáo biết, cụ thể như sau:
 
-**ID:** dk_00059568
+a. Những khiếu nại, tố cáo thuộc lĩnh vực quản lý Nhà nước được chuyển theo quy định của Luật khiếu nại, tố cáo;
 
----
+b. Những khiếu nại, tố cáo liên quan đến việc giải quyết các vụ án và thi hành án được chuyển cho các cơ quan tư pháp theo quy định của pháp luật;
 
+c. Những khiếu nại, tố cáo liên quan đến hoạt động của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội nghề nghiệp, tổ chức kinh tế được chuyển đến tổ chức đó.
 
-### Điều 35.8.NQ.1.4. Trách nhiệm của các cơ quan, tổ chức hữu quan
+2. Trường hợp đơn khiếu nại, tố cáo của công dân có ghi gửi đến tất cả đại biểu Quốc hội thì Trưởng đoàn đại biểu Quốc hội nơi công dân cư trú chuyển khiếu nại, tố cáo đó đến cơ quan, tổ chức có thẩm quyền giải quyết.
+
+Trường hợp đơn khiếu nại, tố cáo của công dân có ghi gửi đến nhiều đại biểu Quốc hội làm việc trong các cơ quan của Quốc hội thì khiếu nại, tố cáo thuộc lĩnh vực phụ trách của Hội đồng Dân tộc, các Uỷ ban hoặc Uỷ viên Uỷ ban thường vụ Quốc hội phụ trách công tác dân nguyện thì đại biểu Quốc hội là thường trực của Hội đồng Dân tộc, các Uỷ ban hoặc Uỷ viên Uỷ ban thường vụ Quốc hội phụ trách công tác dân nguyện chuyển đến cơ quan, tổ chức có thẩm quyền giải quyết.
+
+3. Đại biểu Quốc hội không chuyển khiếu nại, tố cáo trong những trường hợp sau:
+
+a. Khiếu nại, tố cáo đã được đại biểu Quốc hội khác chuyển theo quy định tại điểm 2 phần III của Nghị quyết này;
+
+b. Khiếu nại, tố cáo có nội dung không rõ ràng;
+
+c. Khiếu nại không rõ tên, địa chỉ của người gửi;
+
+d. Khiếu nại đã có quyết định giải quyết cuối cùng của cơ quan, tổ chức có thẩm quyền mà đại biểu Quốc hội xét thấy việc giải quyết đó là đúng pháp luật;
+
+e. Khiếu nại, tố cáo có nội dung trùng lặp, đã được đại biểu Quốc hội chuyển đến cơ quan, tổ chức có thẩm quyền giải quyết nhưng chưa hết thời hạn giải quyết theo quy định của pháp luật.
+
+4. Sau khi chuyển khiếu nại, tố cáo của công dân đến cơ quan, tổ chức có thẩm quyền giải quyết, đại biểu Quốc hội có trách nhiệm theo dõi, đôn đốc việc giải quyết theo trình tự sau đây:
+
+a. Khiếu nại, tố cáo do đại biểu Quốc hội chuyển tới đã quá thời hạn quy định mà chưa được cơ quan, tổ chức có thẩm quyền giải quyết thì đại biểu Quốc hội yêu cầu Thủ trưởng cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết và kiến nghị biện pháp xử lý đối với người thiếu trách nhiệm hoặc cố tình trì hoãn việc giải quyết khiếu nại, tố cáo đó.
+
+Khi nhận được báo cáo kết quả giải quyết khiếu nại, tố cáo của các cơ quan, tổ chức có thẩm quyền, nếu xét thấy việc giải quyết đó chưa thoả đáng thì đại biểu Quốc hội có quyền yêu cầu thủ trưởng cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.
+
+b. Trong quá trình theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo của công dân, nếu phát hiện có vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền, lợi ích hợp pháp của công dân, của cơ quan, tổ chức thì đại biểu Quốc hội kiến nghị với người có thẩm quyền áp dụng biện pháp cần thiết để kịp thời chấm dứt vi phạm, xem xét trách nhiệm, xử lý đối với người vi phạm.
+
+Trường hợp cơ quan, tổ chức hoặc người có trách nhiệm không thực hiện kiến nghị của đại biểu Quốc hội thì đại biểu Quốc hội yêu cầu người đứng đầu cơ quan, tổ chức cơ quan đó giải quyết.
+
+c. Khi đại biểu Quốc hội đã thực hiện các quy định trên đây nhưng xét thấy việc giải quyết của các cơ quan, tổ chức có thẩm quyền chưa đúng pháp luật thì đại biểu Quốc hội báo cáo Uỷ ban thường vụ Quốc hội xem xét hoặc chất vấn những người có trách nhiệm theo quy định tại Điều 42 của Luật Tổ chức Quốc hội.
+
+5. Đại biểu Quốc hội theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo của cơ quan, tổ chức có thẩm quyền bằng các hình thức:
+
+a. Gửi thư yêu cầu thủ trưởng cơ quan, tổ chức có thẩm quyền báo cáo kết quả giải quyết;
+
+b. Trực tiếp đến cơ quan, tổ chức nắm tình hình và đôn đốc cơ quan, tổ chức có thẩm quyền xem xét, giải quyết;
+
+c. Giao Văn phòng phục vụ Đoàn đại biểu Quốc hội hoặc Thư ký Đoàn đại biểu Quốc hội tìm hiểu tình hình để báo cáo với đại biểu Quốc hội;
+
+d. Kiến nghị Hội đồng nhân dân nơi cơ quan, tổ chức, cá nhân bị khiếu nại, tố cáo có biện pháp giám sát việc giải quyết khiếu nại, tố cáo của công dân;
+
+e. Đề nghị Trưởng Đoàn đại biểu Quốc hội tổ chức đoàn kiểm tra, giám sát việc giải quyết khiếu nại, tố cáo của công dân.
+
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.42. Điều kiện bảo đảm cho đại biểu Quốc hội)
 
 Điều 35.8.NQ.1.4. Trách nhiệm của các cơ quan, tổ chức hữu quan
 
-**Chỉ mục:** 4
+(Điều 4 Nghị quyết số 228/1999/NQ-UBTVQH10, có hiệu lực thi hành kể từ ngày 15/11/1999)
 
-**Mã phân cấp:** 350080000000000020000280000000000000000000201977802280000400
+1. Các cơ quan, tổ chức khi nhận được khiếu nại, tố cáo, kiến nghị của công dân do đại biểu Quốc hội chuyển đến có trách nhiệm xem xét, giải quyết theo quy định của pháp luật, thông báo cho đại biểu Quốc hội biết kết quả và trả lời cho công dân biết.
 
-**ID:** dk_00059569
+2. Đoàn đại biểu Quốc hội tổ chức tiếp công dân ít nhất mỗi tháng một lần.
 
----
+Định kỳ ba tháng một lần Đoàn đại biểu Quốc hội phối hợp với Thường trực Hội đồng nhân dân nghe Uỷ ban nhân dân, cơ quan, tổ chức có thẩm quyền của địa phương báo cáo việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân do đại biểu Quốc hội và Đoàn đại biểu Quốc hội chuyển đến.
 
+3. Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương cung cấp các văn bản quy phạm pháp luật của địa phương và các tài liệu liên quan cho đại biểu Quốc hội khi đại biểu yêu cầu.
 
-### Điều 35.8.NQ.1.5. Điều kiện bảo đảm để đại biểu quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+4. Cơ quan, tổ chức nơi đại biểu Quốc hội công tác có trách nhiệm sắp xếp công việc, tạo điều kiện cần thiết cho đại biểu Quốc hội làm nhiệm vụ tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.
+
+5. Văn phòng Quốc hội có trách nhiệm cung cấp cho đại biểu Quốc hội, Đoàn đại biểu Quốc hội thông tin, tư liệu, văn bản pháp luật của Quốc hội và Uỷ ban Thường vụ Quốc hội; phục vụ đại biểu Quốc hội tiếp công dân trong các kỳ họp Quốc hội; phục vụ Chủ tịch, các Phó Chủ tịch Quốc hội, các Uỷ viên Uỷ ban thường vụ Quốc hội, thường trực Hội đồng dân tộc và thường trực các Uỷ ban của Quốc hội tiếp công dân; phục vụ Uỷ ban thường vụ Quốc hội, Hội đồng dân tộc và các Uỷ ban của Quốc hội giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.
+
+6. Văn phòng phục vụ Đoàn đại biểu Quốc hội và Thư ký Đoàn đại biểu Quốc hội có trách nhiệm tổ chức và phục vụ các đại biểu Quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân; giúp Trưởng đoàn đại biểu Quốc hội tiếp công dân, ký chuyển khiếu nại, tố cáo, kiến nghị của công dân đến cơ quan, tổ chức có thẩm quyền giải quyết; phối hợp với Văn phòng Quốc hội tổ chức phục vụ Uỷ ban thường vụ Quốc hội, Hội đồng Dân tộc và các Uỷ ban của Quốc hội giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của các cơ quan, tổ chức có thẩm quyền ở địa phương.
+
+Định kỳ 6 tháng một lần,Văn phòng phục vụ Đoàn đại biểu Quốc hội, Thư ký Đoàn đại biểu Quốc hội tổng hợp tình hình tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc theo dõi và kết quả giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân của đại biểu Quốc hội, Đoàn đại biểu Quốc hội để Trưởng Đoàn đại biểu Quốc hội báo cáo Uỷ ban thường vụ Quốc hội.
 
 Điều 35.8.NQ.1.5. Điều kiện bảo đảm để đại biểu quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
 
-**Chỉ mục:** 5
+(Điều 5 Nghị quyết số 228/1999/NQ-UBTVQH10, có hiệu lực thi hành kể từ ngày 15/11/1999)
 
-**Mã phân cấp:** 350080000000000020000280000000000000000000201977802280000500
+1. Uỷ ban nhân dân, Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương và Đoàn đại biểu Quốc hội bảo đảm điều kiện, phương tiện kỹ thuật và những tài liệu cần thiết khác để đại biểu Quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân được thuận lợi và có hiệu quả.
 
-**ID:** dk_00059570
+2. Kinh phí phục vụ đại biểu Quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân được sử dụng trong kinh phí hoạt động của Đoàn đại biểu Quốc hội theo quy định của Uỷ ban thường vụ Quốc hội.
 
----
-
-
-### Điều 35.8.LQ.29. Quyền trình dự án luật, pháp lệnh và kiến nghị về luật, pháp lệnh
+Nghị quyết này đã được Uỷ ban thường vụ Quốc hội thông qua tại phiên họp thứ 26 ngày 27 tháng 10 năm 1999.
 
 Điều 35.8.LQ.29. Quyền trình dự án luật, pháp lệnh và kiến nghị về luật, pháp lệnh
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200002900000000000000000
+1. Đại biểu Quốc hội có quyền trình dự án luật, pháp lệnh, kiến nghị về luật, pháp lệnh trước Quốc hội, Ủy ban thường vụ Quốc hội theo trình tự và thủ tục do pháp luật quy định.
 
-**ID:** dk_00059571
-
----
-
-
-### Điều 35.8.LQ.30. Quyền tham gia làm thành viên và tham gia hoạt động của Hội đồng dân tộc, Ủy ban của Quốc hội
+2. Đại biểu Quốc hội được tư vấn, hỗ trợ trong việc lập, hoàn thiện hồ sơ về dự án luật, pháp lệnh, kiến nghị về luật, pháp lệnh theo quy định của pháp luật.
 
 Điều 35.8.LQ.30. Quyền tham gia làm thành viên và tham gia hoạt động của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000200003000000000000000000
+1. Đại biểu Quốc hội có quyền tham gia làm thành viên của Hội đồng dân tộc hoặc Ủy ban của Quốc hội.
 
-**ID:** dk_00059572
+Căn cứ vào năng lực chuyên môn, yêu cầu công tác và khả năng bố trí thời gian tham gia đầy đủ hoạt động của các cơ quan của Quốc hội, đại biểu Quốc hội có thể đăng ký tham gia làm thành viên của Hội đồng dân tộc hoặc một Ủy ban của Quốc hội. Ủy ban thường vụ Quốc hội xem xét, phê chuẩn danh sách thành viên Hội đồng dân tộc, Ủy ban của Quốc hội phù hợp với cơ cấu số lượng thành viên của từng cơ quan đã được quyết định.
 
----
-
-
-### Điều 35.8.LQ.31. Quyền ứng cử, giới thiệu người ứng cử vào các chức danh do Quốc hội bầu
+2. Đại biểu Quốc hội không phải là thành viên của Hội đồng dân tộc, Ủy ban của Quốc hội có quyền đăng ký tham dự phiên họp do Hội đồng, Ủy ban tổ chức để thảo luận về những nội dung mà đại biểu quan tâm.
 
 Điều 35.8.LQ.31. Quyền ứng cử, giới thiệu người ứng cử vào các chức danh do Quốc hội bầu
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200003100000000000000000
+1. Đại biểu Quốc hội có quyền ứng cử hoặc giới thiệu người ứng cử vào các chức danh do Quốc hội bầu quy định tại Điều 8 của Luật này.
 
-**ID:** dk_00059573
+2. Người được giới thiệu ứng cử có quyền rút khỏi danh sách những người ứng cử.
 
----
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước)
 
+Điều 35.8.LQ.32. Quyền chất vấn
 
-### Điều 35.8.LQ.32. Quyền chất vấn
+(Điều 32 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Đại biểu Quốc hội có quyền chất vấn Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Bộ trưởng và các thành viên khác của Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước.
 
-**Chỉ mục:** 32
+2. Người bị chất vấn phải trả lời trước Quốc hội tại kỳ họp Quốc hội hoặc tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội; trường hợp cần thiết, Quốc hội, Ủy ban thường vụ Quốc hội cho trả lời bằng văn bản.
 
-**Mã phân cấp:** 3500800000000000200003200000000000000000
+3. Trường hợp đại biểu Quốc hội chưa đồng ý với nội dung trả lời chất vấn thì có quyền chất vấn lại tại phiên họp của Quốc hội, của Ủy ban thường vụ Quốc hội hoặc gửi chất vấn bằng văn bản đến người bị chất vấn.
 
-**ID:** dk_00059574
-
----
-
-
-### Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000200003300000000000000000
+1. Đại biểu Quốc hội có quyền kiến nghị Quốc hội làm Hiến pháp, sửa đổi Hiến pháp, trưng cầu ý dân, thành lập Ủy ban lâm thời của Quốc hội, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn, tổ chức kỳ họp không thường lệ, phiên họp kín của Quốc hội và kiến nghị về những vấn đề khác mà đại biểu Quốc hội thấy cần thiết.
 
-**ID:** dk_00059575
+2. Kiến nghị của đại biểu Quốc hội được gửi bằng văn bản đến Ủy ban thường vụ Quốc hội, trong đó nêu rõ lý do, nội dung kiến nghị.
 
----
+Ủy ban thường vụ Quốc hội có trách nhiệm tổng hợp, xử lý các kiến nghị của đại biểu Quốc hội theo thẩm quyền và báo cáo Quốc hội trong các trường hợp quy định tại khoản 3 Điều này hoặc trong các trường hợp khác mà Ủy ban thường vụ Quốc hội thấy cần thiết.
 
+3. Trường hợp có từ một phần ba tổng số đại biểu Quốc hội trở lên kiến nghị Quốc hội làm Hiến pháp, sửa đổi Hiến pháp, trưng cầu ý dân, thành lập Ủy ban lâm thời của Quốc hội, quyết định tổ chức kỳ họp không thường lệ, họp kín hoặc có từ hai mươi phần trăm tổng số đại biểu Quốc hội trở lên kiến nghị Quốc hội bỏ phiếu tín nhiệm đối với một người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn thì Ủy ban thường vụ Quốc hội báo cáo để Quốc hội xem xét, quyết định.
 
-### Điều 35.8.LQ.34. Quyền yêu cầu khi phát hiện hành vi vi phạm pháp luật
+4. Số lượng kiến nghị cần thiết quy định tại khoản 3 Điều này là tổng số kiến nghị mà Ủy ban thường vụ Quốc hội tiếp nhận được trong khoảng thời gian từ ngày khai mạc kỳ họp này đến trước ngày khai mạc kỳ họp tiếp theo hoặc đến trước ngày tiến hành phiên họp của Quốc hội về nội dung có liên quan trong trường hợp đại biểu Quốc hội kiến nghị Quốc hội tổ chức phiên họp kín.
+
+5. Đại biểu Quốc hội có quyền kiến nghị các cơ quan, tổ chức, cá nhân áp dụng biện pháp cần thiết để thực hiện Hiến pháp, pháp luật, bảo vệ quyền và lợi ích của Nhà nước, quyền con người, quyền và lợi ích hợp pháp của công dân.
+
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.54. Trách nhiệm của Ủy ban thường vụ Quốc hội đối với hoạt động của đại biểu Quốc hội, Đoàn đại biểu Quốc hội; Điều 35.3.LQ.17. Xem xét báo cáo của Ủy ban lâm thời; Điều 35.3.LQ.19. Bỏ phiếu tín nhiệm; Điều 44.15.LQ.14. Đề nghị trưng cầu ý dân; Điều 44.15.LQ.17. Quốc hội xem xét, quyết định việc trưng cầu ý dân)
 
 Điều 35.8.LQ.34. Quyền yêu cầu khi phát hiện hành vi vi phạm pháp luật
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200003400000000000000000
+1. Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân, đại biểu Quốc hội có quyền yêu cầu cơ quan, tổ chức hữu quan thi hành những biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật.
 
-**ID:** dk_00059576
+2. Trong thời hạn 15 ngày, kể từ ngày nhận được yêu cầu của đại biểu Quốc hội, cơ quan, tổ chức phải giải quyết và thông báo bằng văn bản cho đại biểu Quốc hội biết. Quá thời hạn này mà cơ quan, tổ chức không trả lời thì đại biểu Quốc hội có quyền yêu cầu người đứng đầu của cơ quan, tổ chức cấp trên xem xét, giải quyết.
 
----
+Điều 35.8.LQ.35. Quyền yêu cầu cung cấp thông tin
 
+(Điều 35 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 35.8.LQ.35. Quyền yêu cầu cung cấp thông tin
+1. Khi thực hiện nhiệm vụ, quyền hạn của đại biểu, đại biểu Quốc hội có quyền yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin, tài liệu liên quan đến nhiệm vụ của cơ quan, tổ chức, cá nhân đó.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 3500800000000000200003500000000000000000
-
-**ID:** dk_00059577
-
----
-
-
-### Điều 35.8.LQ.36. Quyền tham dự kỳ họp Hội đồng nhân dân
+2. Người đứng đầu cơ quan, tổ chức hoặc cá nhân có trách nhiệm trả lời những vấn đề mà đại biểu Quốc hội yêu cầu theo quy định của pháp luật.
 
 Điều 35.8.LQ.36. Quyền tham dự kỳ họp Hội đồng nhân dân
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3500800000000000200003600000000000000000
+1. Đại biểu Quốc hội có quyền tham dự kỳ họp Hội đồng nhân dân các cấp nơi mình thực hiện nhiệm vụ đại biểu, có quyền tham gia ý kiến vào các vấn đề quản lý nhà nước, vấn đề liên quan đến đời sống của Nhân dân và các vấn đề khác mà đại biểu quan tâm.
 
-**ID:** dk_00059578
-
----
-
-
-### Điều 35.8.LQ.37. Quyền miễn trừ của đại biểu Quốc hội
+2. Chủ tịch Hội đồng nhân dân các cấp thông báo cho đại biểu Quốc hội tại địa phương biết thời gian, nội dung, chương trình kỳ họp Hội đồng nhân dân cấp mình, mời đại biểu Quốc hội đến dự và cung cấp tài liệu cần thiết.
 
 Điều 35.8.LQ.37. Quyền miễn trừ của đại biểu Quốc hội
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200003700000000000000000
+1. Không được bắt, giam, giữ, khởi tố đại biểu Quốc hội, khám xét nơi ở và nơi làm việc của đại biểu Quốc hội nếu không có sự đồng ý của Quốc hội hoặc trong thời gian Quốc hội không họp, không có sự đồng ý của Ủy ban thường vụ Quốc hội. Việc đề nghị bắt, giam, giữ, khởi tố, khám xét nơi ở và nơi làm việc của đại biểu Quốc hội thuộc thẩm quyền của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059579
+Trường hợp đại biểu Quốc hội bị tạm giữ vì phạm tội quả tang thì cơ quan tạm giữ phải lập tức báo cáo để Quốc hội hoặc Ủy ban thường vụ Quốc hội xem xét, quyết định.
 
----
-
-
-### Điều 35.8.LQ.38. Việc chuyển công tác, xin thôi làm nhiệm vụ đại biểu Quốc hội
+2. Đại biểu Quốc hội không thể bị cơ quan, tổ chức, đơn vị nơi đại biểu công tác bãi nhiệm, cách chức, buộc thôi việc, sa thải nếu không được Ủy ban thường vụ Quốc hội đồng ý.
 
 Điều 35.8.LQ.38. Việc chuyển công tác, xin thôi làm nhiệm vụ đại biểu Quốc hội
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200003800000000000000000
+1. Trong nhiệm kỳ, nếu đại biểu Quốc hội chuyển công tác đến tỉnh, thành phố khác trực thuộc Trung ương thì được chuyển sinh hoạt đến Đoàn đại biểu Quốc hội nơi mình nhận công tác.
 
-**ID:** dk_00059580
+2. Đại biểu Quốc hội có thể xin thôi làm nhiệm vụ đại biểu vì lý do sức khỏe hoặc vì lý do khác. Việc chấp nhận đại biểu Quốc hội xin thôi làm nhiệm vụ do Quốc hội quyết định; trong thời gian Quốc hội không họp thì do Ủy ban thường vụ Quốc hội quyết định và báo cáo với Quốc hội tại kỳ họp gần nhất.
 
----
-
-
-### Điều 35.8.LQ.39. Việc tạm đình chỉ hoặc mất quyền đại biểu Quốc hội
+3. Đại biểu Quốc hội thôi làm nhiệm vụ đại biểu kể từ ngày Quốc hội hoặc Ủy ban thường vụ Quốc hội thông qua nghị quyết cho thôi làm nhiệm vụ đại biểu.
 
 Điều 35.8.LQ.39. Việc tạm đình chỉ hoặc mất quyền đại biểu Quốc hội
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000200003900000000000000000
+1. Ủy ban thường vụ Quốc hội xem xét, quyết định tạm đình chỉ việc thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội trong các trường hợp sau đây:
 
-**ID:** dk_00059581
+a) Đại biểu Quốc hội bị khởi tố bị can;
 
----
+b) Trong quá trình xem xét, xử lý hành vi vi phạm của đại biểu Quốc hội, có cơ sở xác định phải xử lý kỷ luật từ cảnh cáo trở lên đối với đại biểu Quốc hội là cán bộ, công chức, viên chức hoặc xử lý bằng pháp luật hình sự mà cơ quan thanh tra, kiểm tra, kiểm toán, điều tra, truy tố, xét xử, thi hành án đã có văn bản đề nghị tạm đình chỉ việc thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội đối với đại biểu Quốc hội đó.
 
+2. Đại biểu Quốc hội được trở lại thực hiện nhiệm vụ, quyền hạn đại biểu và khôi phục các lợi ích hợp pháp khi cơ quan có thẩm quyền có quyết định, kết luận về việc không có vi phạm, không xử lý kỷ luật, quyết định đình chỉ điều tra, đình chỉ vụ án đối với đại biểu đó hoặc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật tuyên đại biểu đó không có tội hoặc được miễn trách nhiệm hình sự. Trường hợp đại biểu Quốc hội bị xử lý kỷ luật thì tùy theo tính chất, mức độ mà có thể xin thôi làm nhiệm vụ đại biểu hoặc Ủy ban thường vụ Quốc hội xem xét, quyết định việc cho trở lại thực hiện nhiệm vụ, quyền hạn đại biểu hay đề nghị Quốc hội bãi nhiệm đại biểu Quốc hội.
 
-### Điều 35.8.LQ.40. Việc bãi nhiệm đại biểu Quốc hội
+3. Đại biểu Quốc hội bị kết tội bằng bản án, quyết định của Tòa án thì đương nhiên mất quyền đại biểu Quốc hội kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.LQ.40. Việc bãi nhiệm đại biểu Quốc hội
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200004000000000000000000
+1. Đại biểu Quốc hội không còn xứng đáng với sự tín nhiệm của Nhân dân thì bị Quốc hội hoặc cử tri bãi nhiệm.
 
-**ID:** dk_00059582
+2. Trong trường hợp Quốc hội bãi nhiệm đại biểu Quốc hội thì việc bãi nhiệm phải được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành.
 
----
+3. Trong trường hợp cử tri bãi nhiệm đại biểu Quốc hội thì việc bãi nhiệm được tiến hành theo trình tự do Ủy ban thường vụ Quốc hội quy định.
 
-
-### Điều 35.8.LQ.41. Phụ cấp và các chế độ khác của đại biểu Quốc hội
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.96. Biểu quyết tại phiên họp toàn thể)
 
 Điều 35.8.LQ.41. Phụ cấp và các chế độ khác của đại biểu Quốc hội
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000200004100000000000000000
+1. Phụ cấp và các chế độ khác của đại biểu Quốc hội chuyên trách, phụ cấp của đại biểu Quốc hội không hưởng lương từ ngân sách nhà nước do Ủy ban thường vụ Quốc hội quy định.
 
-**ID:** dk_00059583
+2. Đại biểu Quốc hội được cấp hoạt động phí hằng tháng, kinh phí để thực hiện chế độ thuê khoán chuyên gia, thư ký giúp việc và các hoạt động khác để phục vụ cho hoạt động của đại biểu theo quy định của Ủy ban thường vụ Quốc hội.
 
----
+Điều 35.8.NQ.10.3. Nguyên tắc chung
 
+(Điều 3 Nghị quyết số 353/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/06/2017)
 
-### Điều 35.8.NQ.10.3. Nguyên tắc chung
+ Việc quy định bổ sung một số chế độ và điều kiện bảo đảm hoạt động của đại biểu Quốc hội phải phù hợp với quy định có liên quan của cơ quan nhà nước có thẩm quyền, có tính đến các yếu tố đặc thù trong hoạt động của Quốc hội; góp phần nâng cao chất lượng, hiệu quả hoạt động của đại biểu Quốc hội.Điều 35.8.NQ.10.4. Chế độ đối với đại biểu Quốc hội
 
-*Nội dung chưa có sẵn*
+(Điều 4 Nghị quyết số 353/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/06/2017)
 
-**Chỉ mục:** 3
+ 1. Hoạt động phí:
 
-**Mã phân cấp:** 350080000000000020000410000000000000000000202616003530000300
+ Đại biểu Quốc hội được cấp hoạt động phí hằng tháng bằng hệ số 1,0 mức lương cơ sở.
 
-**ID:** dk_00059584
+ 2. Chế độ tiền lương, thù lao tham gia hoạt động Quốc hội:
 
----
+ a) Đại biểu Quốc hội hoạt động chuyên trách được trả lương, phụ cấp và các chế độ khác từ ngân sách nhà nước theo quy định của Ủy ban Thường vụ Quốc hội và các quy định khác của pháp luật có liên quan;
 
+ b) Đại biểu Quốc hội hoạt động không chuyên trách mà không thuộc trường hợp quy định tại điểm c khoản này, trong thời gian thực hiện nhiệm vụ đại biểu được người đứng đầu cơ quan, tổ chức, đơn vị nơi đại biểu Quốc hội làm việc bảo đảm trả lương, phụ cấp và các chế độ khác theo quy định của pháp luật;
 
-### Điều 35.8.NQ.10.4. Chế độ đối với đại biểu Quốc hội
+ c) Đại biểu Quốc hội không hưởng lương (kể cả người hưởng lương hưu) hoặc hưởng trợ cấp hằng tháng từ ngân sách nhà nước hoặc từ quỹ bảo hiểm xã hội được hưởng thù lao tham gia hoạt động Quốc hội bằng hệ số 0,2 mức lương cơ sở/ngày, tính cho 120 ngày làm việc/năm. Khoản thù lao này do Đoàn đại biểu Quốc hội nơi đại biểu Quốc hội đang sinh hoạt chi trả.
 
-Điều 35.8.NQ.10.4. Chế độ đối với đại biểu Quốc hội
+ 3. Chế độ thuê khoán thư ký giúp việc:
 
-**Chỉ mục:** 4
+ a) Đại biểu Quốc hội có quyền thuê người thực hiện một hoặc một số việc của công tác thư ký. Người được thuê thực hiện công tác thư ký cho đại biểu Quốc hội phải là người đang làm việc trong cơ quan, tổ chức, đơn vị nơi đại biểu Quốc hội làm việc;
 
-**Mã phân cấp:** 350080000000000020000410000000000000000000202616003530000400
+ b) Nội dung công tác thư ký giúp việc gồm: xây dựng kế hoạch công tác; tiếp nhận, chuẩn bị tài liệu, công văn, liên lạc với cử tri nơi ứng cử; truyền đạt, theo dõi, đôn đốc việc thực hiện ý kiến đề nghị của đại biểu Quốc hội và một số công việc hành chính khác tại cơ quan, tổ chức, đơn vị nơi đại biểu Quốc hội làm việc;
 
-**ID:** dk_00059585
+ c) Đại biểu Quốc hội được cấp kinh phí khoán hằng tháng để có thể tự thuê người thực hiện công việc thư ký. Mức khoán đối với đại biểu Quốc hội hoạt động chuyên trách bằng 100% của 2,34 mức lương cơ sở; đối với đại biểu Quốc hội hoạt động không chuyên trách bằng 40% của 2,34 mức lương cơ sở. Đại biểu Quốc hội trực tiếp thanh toán cho người được thuê thực hiện công tác thư ký theo mức thỏa thuận đối với từng công việc.
 
----
+ Trường hợp đại biểu Quốc hội tự giải quyết công việc hành chính để thực hiện nhiệm vụ đại biểu thì đại biểu Quốc hội được nhận khoản kinh phí này. Đại biểu Quốc hội có chế độ thư ký giúp việc theo quy định của Đảng và Nhà nước nhưng chưa bố trí được thư ký thì được áp dụng chế độ quy định tại khoản này cho đến khi bố trí được thư ký chính thức.
 
+ 4. Đào tạo, bồi dưỡng:
 
-### Điều 35.8.LQ.42. Điều kiện bảo đảm cho đại biểu Quốc hội
+ a) Đại biểu Quốc hội được bồi dưỡng kỹ năng hoạt động, cập nhật kiến thức theo quy định của Ủy ban Thường vụ Quốc hội;
 
-Điều 35.8.LQ.42. Điều kiện bảo đảm cho đại biểu Quốc hội
+ b) Khi có nhu cầu tham gia các khóa học nâng cao trình độ phù hợp với điều kiện và lĩnh vực chuyên môn được đảm nhiệm, đại biểu Quốc hội hoạt động chuyên trách làm đơn gửi Ủy ban Thường vụ Quốc hội xem xét, quyết định, trong hồ sơ phải có ý kiến của lãnh đạo cơ quan nơi mình công tác đối với đại biểu Quốc hội hoạt động chuyên trách ở trung ương; ý kiến của Trưởng Đoàn đại biểu Quốc hội đối với đại biểu Quốc hội hoạt động chuyên trách ở địa phương.
 
-**Chỉ mục:** 42
+ Kinh phí tham gia các khóa học của đại biểu Quốc hội hoạt động chuyên trách ở trung ương do Văn phòng Quốc hội bảo đảm; của đại biểu Quốc hội hoạt động chuyên trách ở địa phương do Đoàn đại biểu Quốc hội bảo đảm.Điều 35.8.LQ.42. Điều kiện bảo đảm cho đại biểu Quốc hội
 
-**Mã phân cấp:** 3500800000000000200004200000000000000000
+(Điều 42 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00059586
+1. Thời gian đại biểu Quốc hội hoạt động chuyên trách được tính vào thời gian công tác liên tục. Khi đại biểu Quốc hội hoạt động chuyên trách thôi làm nhiệm vụ đại biểu thì cơ quan, tổ chức có thẩm quyền có trách nhiệm bố trí công tác cho đại biểu Quốc hội.
 
----
+Thời gian làm việc trong năm mà đại biểu Quốc hội hoạt động không chuyên trách dành cho việc thực hiện nhiệm vụ đại biểu quy định tại khoản 2 Điều 24 của Luật này được tính vào thời gian làm việc của đại biểu ở cơ quan, tổ chức, đơn vị mà đại biểu làm việc.
 
+2. Đại biểu Quốc hội hoạt động chuyên trách được bố trí nơi làm việc, trang bị các phương tiện vật chất, kỹ thuật cần thiết phục vụ cho hoạt động của đại biểu.
 
-### Điều 35.8.NQ.10.5. Các điều kiện bảo đảm
+3. Đại biểu Quốc hội được ưu tiên trong việc mua vé tàu hỏa, ô tô, tàu thủy, máy bay; được ưu tiên khi qua cầu, phà. Trong trường hợp ốm đau, đại biểu Quốc hội không thuộc diện cán bộ trung cấp, cao cấp thì được khám và chữa bệnh theo tiêu chuẩn quy định đối với cán bộ trung cấp. Đại biểu Quốc hội, nguyên đại biểu Quốc hội không phải là cán bộ, công chức, viên chức khi qua đời được hưởng chế độ về tổ chức lễ tang như đối với cán bộ, công chức.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.24. Thời gian hoạt động của đại biểu Quốc hội; Điều 35.8.NQ.1.3. Đại biểu Quốc hội tiếp nhận, chuyển khiếu  nại, tố cáo và đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo của công dân)
 
-**Chỉ mục:** 5
+Điều 35.8.NQ.10.5. Các điều kiện bảo đảm
 
-**Mã phân cấp:** 350080000000000020000420000000000000000000202616003530000500
+(Điều 5 Nghị quyết số 353/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/06/2017)
 
-**ID:** dk_00059587
+ 1. Về quản lý cán bộ:
 
----
+ a) Đại biểu Quốc hội hoạt động chuyên trách ở trung ương do Ủy ban Thường vụ Quốc hội quản lý. Cơ quan giúp Ủy ban Thường vụ Quốc hội quản lý đại biểu Quốc hội hoạt động chuyên trách ở trung ương là Ban Công tác đại biểu;
 
+ b) Đại biểu Quốc hội hoạt động chuyên trách ở địa phương do Ủy ban Thường vụ Quốc hội bảo đảm lương, phụ cấp và các chế độ khác trong thời gian làm nhiệm vụ đại biểu. Cơ quan có thẩm quyền quản lý đối với cán bộ ở địa phương theo phân cấp chịu trách nhiệm quản lý đại biểu Quốc hội hoạt động chuyên trách của địa phương mình về việc quy hoạch, giới thiệu ứng cử, điều động, luân chuyển, đánh giá, phân loại cán bộ hằng năm, bố trí công tác khác nếu không tái cử, quyết định nghỉ hưu, thi đua, khen thưởng và các công việc khác có liên quan đến công tác cán bộ; trước khi điều động, luân chuyển, bố trí công việc khác đối với đại biểu Quốc hội hoạt động chuyên trách, cơ quan có thẩm quyền quản lý đối với cán bộ ở địa phương có trách nhiệm báo cáo xin ý kiến Ủy ban Thường vụ Quốc hội.
 
-### Điều 35.8.LQ.43. Đoàn đại biểu Quốc hội
+ 2. Chế độ bảo hiểm y tế:
 
-*Nội dung chưa có sẵn*
+ Đại biểu Quốc hội không hưởng lương (kể cả người hưởng lương hưu) hoặc hưởng trợ cấp hằng tháng từ ngân sách nhà nước hoặc từ quỹ bảo hiểm xã hội được hưởng chế độ bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế. Kinh phí tham gia bảo hiểm y tế do Đoàn đại biểu Quốc hội nơi đại biểu Quốc hội đang sinh hoạt chi trả.
 
-**Chỉ mục:** 43
+ 3. Các điều kiện bảo đảm khác:
 
-**Mã phân cấp:** 3500800000000000200004300000000000000000
+ a) Trong mỗi khoá Quốc hội, đại biểu Quốc hội được Uỷ ban Thường vụ Quốc hội cấp huy hiệu và thẻ đại biểu Quốc hội. Khi làm nhiệm vụ, đại biểu Quốc hội đeo huy hiệu; xuất trình thẻ đại biểu Quốc hội khi cần thiết;
 
-**ID:** dk_00059588
+ b) Đại biểu Quốc hội được sử dụng hộ chiếu ngoại giao khi thực hiện nhiệm vụ theo chương trình hoạt động đối ngoại của Quốc hội, Ủy ban Thường vụ Quốc hội, các cơ quan của Quốc hội, cơ quan thuộc Uỷ ban Thường vụ Quốc hội, Văn phòng Quốc hội và Đoàn đại biểu Quốc hội.
 
----
+ c) Thường trực Hội đồng nhân dân, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm cung cấp các nghị quyết của Hội đồng nhân dân, các văn bản quy phạm pháp luật của Ủy ban nhân dân và các báo cáo về tình hình kinh tế - xã hội ở địa phương cho đại biểu Quốc hội sinh hoạt tại Đoàn đại biểu Quốc hội trên cùng địa bàn.Điều 35.8.LQ.43. Đoàn đại biểu Quốc hội
 
+(Điều 43 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-### Điều 35.8.NQ.11.1. Việc thành lập, vị trí, chức năng của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
+1. Đoàn đại biểu Quốc hội là tổ chức của các đại biểu Quốc hội được bầu tại một tỉnh, thành phố trực thuộc Trung ương hoặc được chuyển đến công tác tại tỉnh, thành phố trực thuộc Trung ương.
+
+2. Đoàn đại biểu Quốc hội có nhiệm vụ, quyền hạn sau đây:
+
+a) Tổ chức để các đại biểu Quốc hội tiếp công dân; phối hợp với Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc ở địa phương tổ chức, bảo đảm các điều kiện để đại biểu Quốc hội tiếp xúc cử tri với các hình thức phù hợp;
+
+b) Tổ chức để các đại biểu Quốc hội thảo luận về dự án luật, pháp lệnh và các dự án khác, dự kiến chương trình kỳ họp Quốc hội theo yêu cầu của Ủy ban thường vụ Quốc hội;
+
+c) Tổ chức hoạt động giám sát của Đoàn đại biểu Quốc hội và tổ chức để các đại biểu Quốc hội trong Đoàn thực hiện nhiệm vụ giám sát tại địa phương; tham gia và phối hợp với Hội đồng dân tộc, Ủy ban của Quốc hội trong các hoạt động giám sát tại địa phương; theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân mà đại biểu Quốc hội, Đoàn đại biểu Quốc hội đã chuyển đến cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền giải quyết; yêu cầu cơ quan, tổ chức, cá nhân hữu quan cung cấp thông tin, báo cáo về những vấn đề mà Đoàn đại biểu Quốc hội quan tâm;
+
+d) Báo cáo với Ủy ban thường vụ Quốc hội về tình hình hoạt động của Đoàn đại biểu Quốc hội và đại biểu Quốc hội;
+
+đ) Chỉ đạo hoạt động của bộ máy tham mưu, giúp việc phục vụ hoạt động của Đoàn đại biểu Quốc hội.
+
+3. Đoàn đại biểu Quốc hội có Trưởng đoàn hoặc Phó Trưởng đoàn là đại biểu Quốc hội hoạt động chuyên trách. Trưởng đoàn và Phó Trưởng đoàn do Đoàn đại biểu Quốc hội bầu trong số các đại biểu Quốc hội của Đoàn và được Ủy ban thường vụ Quốc hội phê chuẩn.
+
+Trưởng đoàn đại biểu Quốc hội tổ chức và điều hành các hoạt động của Đoàn.
+
+Phó Trưởng đoàn giúp Trưởng đoàn thực hiện nhiệm vụ theo sự phân công của Trưởng đoàn. Khi Trưởng đoàn vắng mặt thì Phó Trưởng đoàn được Trưởng đoàn ủy nhiệm thực hiện nhiệm vụ của Trưởng đoàn.
+
+3a. Số lượng và danh sách đại biểu Quốc hội hoạt động chuyên trách tại Đoàn đại biểu Quốc hội do Ủy ban thường vụ Quốc hội quyết định, phê chuẩn.
+
+Cơ quan có thẩm quyền quản lý cán bộ ở tỉnh, thành phố trực thuộc Trung ương theo phân cấp chịu trách nhiệm quản lý công tác cán bộ đối với đại biểu Quốc hội hoạt động chuyên trách tại địa phương mình theo quy định của Ủy ban thường vụ Quốc hội.
+
+4. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh là cơ quan tham mưu, giúp việc, phục vụ hoạt động của các đại biểu Quốc hội và Đoàn đại biểu Quốc hội tại địa phương.
+
+Chính quyền địa phương ở tỉnh, thành phố trực thuộc Trung ương có trách nhiệm bố trí trụ sở làm việc cho Đoàn đại biểu Quốc hội, tổ chức và bảo đảm kinh phí hoạt động cho Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh theo quy định của Ủy ban thường vụ Quốc hội.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.8.NQ.11.1. Việc thành lập, vị trí, chức năng của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Nghị quyết số 1004/2020/UBTVQH14 Về việc thành lập và quy định vị trí, chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh ngày 18/09/2020 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2021 )
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202741010040000100
+1. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh được thành lập trên cơ sở hợp nhất Văn phòng Đoàn đại biểu Quốc hội và Văn phòng Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương theo quy định của Luật Tổ chức Quốc hội số 57/2014/QH13 và Luật Tổ chức chính quyền địa phương số 77/2015/QH13.
 
-**ID:** dk_00059589
+Đối với địa phương thực hiện thí điểm hợp nhất Văn phòng Đoàn đại biểu Quốc hội, Văn phòng Hội đồng nhân dân và Văn phòng Ủy ban nhân dân cấp tỉnh thành Văn phòng Đoàn đại biểu Quốc hội, Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh theo Nghị quyết số 580/2018/UBTVQH14 ngày 04 tháng 10 năm 2018 của Ủy ban Thường vụ Quốc hội thì Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh được thành lập trên cơ sở tách Văn phòng Đoàn đại biểu Quốc hội, Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh thành Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh và Văn phòng Ủy ban nhân dân cấp tỉnh.
 
----
+2. Hội đồng nhân dân cấp tỉnh quyết định thành lập Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh trên cơ sở đề nghị của Thường trực Hội đồng nhân dân cùng cấp sau khi thống nhất với Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội.
 
+3. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh là cơ quan tương đương Sở, chịu sự lãnh đạo, chỉ đạo trực tiếp của Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội và Thường trực Hội đồng nhân dân cấp tỉnh, có chức năng tham mưu, giúp việc, phục vụ hoạt động của Đoàn đại biểu Quốc hội, đại biểu Quốc hội và Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân cấp tỉnh.
 
-### Điều 35.8.NQ.11.2. Nhiệm vụ, quyền hạn của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 107. Tiếp công dân của Thường trực Hội đồng nhân dân của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015; Điều 35.8.LQ.1. Vị trí, chức năng của Quốc hội)
 
 Điều 35.8.NQ.11.2. Nhiệm vụ, quyền hạn của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202741010040000200
+1. Trong việc tham mưu, giúp việc, phục vụ hoạt động của Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00059590
+a) Tham mưu, giúp Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội trong việc xây dựng và tổ chức thực hiện chương trình, kế hoạch hoạt động hằng tháng, hằng quý, 06 tháng và cả năm của Đoàn đại biểu Quốc hội, triệu tập các cuộc họp của Đoàn đại biểu Quốc hội, giữ mối liên hệ với đại biểu Quốc hội trong Đoàn;
 
----
+b) Phối hợp với cơ quan, tổ chức hữu quan phục vụ đại biểu Quốc hội tiếp xúc cử tri; giúp Đoàn đại biểu Quốc hội tổng hợp ý kiến, kiến nghị của cử tri chuyển đến các cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, giải quyết theo quy định của pháp luật;
 
+c) Phục vụ đại biểu Quốc hội tiếp công dân; tiếp nhận, tham mưu xử lý khiếu nại, tố cáo, kiến nghị của công dân gửi đến Đoàn đại biểu Quốc hội, đại biểu Quốc hội; theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân do Đoàn đại biểu Quốc hội, đại biểu Quốc hội chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết;
 
-### Điều 35.8.NQ.11.3. Cơ cấu tổ chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
+d) Tham mưu, tổ chức phục vụ Đoàn đại biểu Quốc hội trong công tác xây dựng pháp luật, thảo luận, góp ý kiến về các nội dung theo yêu cầu của Ủy ban Thường vụ Quốc hội;
+
+đ) Tham mưu, phục vụ hoạt động giám sát, khảo sát của Đoàn đại biểu Quốc hội, đại biểu Quốc hội; thực hiện chỉ đạo của Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội trong việc phối hợp với các cơ quan, tổ chức hữu quan phục vụ hoạt động giám sát, khảo sát của Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, Ủy ban của Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội tại địa phương;
+
+e) Tham mưu, giúp Đoàn đại biểu Quốc hội chuẩn bị báo cáo về tình hình hoạt động của Đoàn đại biểu Quốc hội, đại biểu Quốc hội 06 tháng, cả năm hoặc theo yêu cầu của Ủy ban Thường vụ Quốc hội;
+
+g) Phối hợp phục vụ hoạt động của Đoàn đại biểu Quốc hội, đại biểu Quốc hội tại kỳ họp Quốc hội; giúp đại biểu Quốc hội tham gia hoạt động của Hội đồng Dân tộc, Ủy ban của Quốc hội mà đại biểu là thành viên và các hoạt động khác của Quốc hội, Ủy ban Thường vụ Quốc hội, các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội;
+
+h) Tham mưu, giúp Phó Trưởng đoàn đại biểu Quốc hội thực hiện các nhiệm vụ theo sự phân công của Trưởng đoàn đại biểu Quốc hội.
+
+2. Trong việc tham mưu, giúp việc, phục vụ hoạt động của Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân cấp tỉnh, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có các nhiệm vụ, quyền hạn sau đây:
+
+a) Tham mưu, giúp Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân cấp tỉnh xây dựng và tổ chức thực hiện chương trình làm việc, kế hoạch hoạt động hằng tháng, hằng quý, 06 tháng và cả năm;
+
+b) Tham mưu, giúp Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân cấp tỉnh xây dựng chương trình, tổ chức phục vụ kỳ họp Hội đồng nhân dân, phiên họp Thường trực Hội đồng nhân dân, cuộc họp của Ban của Hội đồng nhân dân cấp tỉnh; phối hợp với các cơ quan, tổ chức hữu quan chuẩn bị tài liệu phục vụ kỳ họp Hội đồng nhân dân, phiên họp Thường trực Hội đồng nhân dân, cuộc họp của Ban của Hội đồng nhân dân cấp tỉnh; tham mưu, phục vụ Ban của Hội đồng nhân dân cấp tỉnh trong việc thẩm tra dự thảo nghị quyết, đề án, báo cáo; hoàn thiện các dự thảo nghị quyết, đề án, báo cáo của Hội đồng nhân dân cấp tỉnh;
+
+c) Tham mưu, phục vụ Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Tổ đại biểu và đại biểu Hội đồng nhân dân cấp tỉnh trong hoạt động giám sát, khảo sát; tổng hợp chất vấn của đại biểu Hội đồng nhân dân; theo dõi, tổng hợp, đôn đốc cơ quan, tổ chức, cá nhân thực hiện nghị quyết về giám sát, chất vấn;
+
+d) Phối hợp với cơ quan, tổ chức hữu quan phục vụ đại biểu Hội đồng nhân dân cấp tỉnh tiếp xúc cử tri; giúp Thường trực Hội đồng nhân dân cấp tỉnh tổng hợp ý kiến, kiến nghị của cử tri chuyển đến các cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, giải quyết theo quy định của pháp luật;
+
+đ) Phục vụ Thường trực Hội đồng nhân dân và đại biểu Hội đồng nhân dân cấp tỉnh tiếp công dân; tiếp nhận, tham mưu xử lý khiếu nại, tố cáo, kiến nghị của công dân gửi đến Hội đồng nhân dân, Thường trực Hội đồng nhân dân cấp tỉnh; theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân do Hội đồng nhân dân, Thường trực Hội đồng nhân dân, đại biểu Hội đồng nhân dân cấp tỉnh chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết;
+
+e) Tham mưu, phục vụ Thường trực Hội đồng nhân dân cấp tỉnh dự kiến cơ cấu, thành phần, số lượng đại biểu Hội đồng nhân dân cấp mình để chuẩn bị tổ chức bầu cử đại biểu Hội đồng nhân dân nhiệm kỳ sau; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch Hội đồng nhân dân cấp huyện; giải quyết các vấn đề giữa hai kỳ họp Hội đồng nhân dân; giữ mối liên hệ với các Ban của Hội đồng nhân dân, Tổ đại biểu và đại biểu Hội đồng nhân dân cấp tỉnh;
+
+g) Tham mưu, phục vụ Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân cấp tỉnh trong việc tổ chức các cuộc họp giao ban, trao đổi kinh nghiệm, bồi dưỡng kỹ năng hoạt động cho đại biểu Hội đồng nhân dân các cấp; xây dựng báo cáo công tác trình cấp có thẩm quyền;
+
+h) Phục vụ Thường trực Hội đồng nhân dân, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân cấp tỉnh điều hành công việc chung của Hội đồng nhân dân cấp tỉnh; điều hòa, phối hợp hoạt động các Ban của Hội đồng nhân dân cấp tỉnh; bảo đảm việc thực hiện quy chế hoạt động của Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, nội quy kỳ họp Hội đồng nhân dân cấp tỉnh; phục vụ Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân cấp tỉnh trong hoạt động đối ngoại.
+
+3. Trong công tác hành chính, tổ chức, quản trị, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có các nhiệm vụ, quyền hạn sau đây:
+
+a) Phục vụ Đoàn đại biểu Quốc hội, Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân cấp tỉnh giữ mối liên hệ công tác với các cơ quan nhà nước ở trung ương và ở các tỉnh, thành phố khác trực thuộc trung ương, với Thường trực Tỉnh ủy, thành ủy, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam, Tòa án nhân dân, Viện kiểm sát nhân dân cùng cấp và các cơ quan, tổ chức, đoàn thể khác ở địa phương;
+
+b) Lập dự toán ngân sách nhà nước phục vụ hoạt động của Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh trên cơ sở đã xin ý kiến của Trưởng đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân cấp tỉnh; tổ chức thực hiện, quản lý kinh phí hoạt động của Đoàn đại biểu Quốc hội và kinh phí hoạt động của Hội đồng nhân dân cấp tỉnh;
+
+c) Bảo đảm điều kiện hoạt động của Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Tổ đại biểu và đại biểu Hội đồng nhân dân cấp tỉnh; tham mưu việc thực hiện chế độ, chính sách đối với đại biểu Quốc hội, đại biểu Hội đồng nhân dân cấp tỉnh;
+
+d) Quản lý cơ sở vật chất, tài sản công, công tác hành chính, bảo vệ và lễ tân của Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh;
+
+đ) Tham gia xây dựng quy hoạch, kế hoạch đào tạo, bồi dưỡng và thực hiện việc quản lý công chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh theo quy định của pháp luật;
+
+e) Tổ chức nghiên cứu khoa học; xây dựng, khai thác hệ thống thông tin, dữ liệu phục vụ hoạt động của Đoàn đại biểu Quốc hội, Hội đồng nhân dân cấp tỉnh; tổ chức nghiên cứu ứng dụng công nghệ thông tin vào các công tác của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh;
+
+g) Thực hiện các nhiệm vụ khác do Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân cấp tỉnh giao;
+
+h) Thực hiện nhiệm vụ, quyền hạn theo quy định khác của pháp luật có liên quan.
 
 Điều 35.8.NQ.11.3. Cơ cấu tổ chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
 
-**Chỉ mục:** 3
+(Điều 3 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202741010040000300
+1. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có Chánh Văn phòng và không quá 03 Phó Chánh Văn phòng.
 
-**ID:** dk_00059591
+Thường trực Hội đồng nhân dân cấp tỉnh sau khi thống nhất với Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội quyết định bổ nhiệm, miễn nhiệm Chánh Văn phòng, Phó Chánh Văn phòng; xem xét, đánh giá công chức đối với Chánh Văn phòng.
 
----
+2. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh được tổ chức thành các phòng gồm:
 
+a) Phòng Công tác Quốc hội;
 
-### Điều 35.8.NQ.11.4. Chế độ làm việc
+b) Phòng Công tác Hội đồng nhân dân;
 
-*Nội dung chưa có sẵn*
+c) Phòng Hành chính, Tổ chức, Quản trị;
 
-**Chỉ mục:** 4
+d) Căn cứ vào tình hình thực tế của địa phương, Thường trực Hội đồng nhân dân cấp tỉnh sau khi thống nhất với Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội có thể quyết định thành lập thêm 01 phòng để phụ trách mảng công việc có tính chất tương đối độc lập, thuộc chức năng, nhiệm vụ của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh.
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202741010040000400
+3. Chánh Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh quy định nhiệm vụ, quyền hạn cụ thể của phòng thuộc Văn phòng sau khi xin ý kiến của Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội và Thường trực Hội đồng nhân dân cấp tỉnh.
 
-**ID:** dk_00059592
+4. Phòng có thể có Trưởng phòng và Phó Trưởng phòng. Số lượng Phó Trưởng phòng được quy định như sau:
 
----
+a) Phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân thành phố Hà Nội và Thành phố Hồ Chí Minh có ít hơn 10 biên chế công chức, phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh loại I có ít hơn 09 biên chế công chức, phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh loại II và loại III có ít hơn 08 biên chế công chức được bố trí 01 Phó Trưởng phòng;
 
+b) Phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân thành phố Hà Nội và Thành phố Hồ Chí Minh có từ 10 đến 14 biên chế công chức, phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh loại I có từ 09 đến 14 biên chế công chức, phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh loại II và loại III có từ 08 đến 14 biên chế công chức được bố trí không quá 02 Phó Trưởng phòng;
 
-### Điều 35.8.NQ.11.5. Trụ sở làm việc và kinh phí hoạt động
+c) Phòng thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có từ 15 biên chế công chức trở lên được bố trí không quá 03 Phó Trưởng phòng.
+
+5. Chánh Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh quyết định bổ nhiệm, miễn nhiệm Trưởng phòng, Phó Trưởng phòng sau khi xin ý kiến của Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội và Thường trực Hội đồng nhân dân cấp tỉnh.
+
+6. Biên chế công chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh nằm trong tổng biên chế hành chính của địa phương, do Hội đồng nhân dân cấp tỉnh quyết định.
+
+Biên chế đại biểu Quốc hội hoạt động chuyên trách tại Đoàn đại biểu Quốc hội và biên chế đại biểu Hội đồng nhân dân cấp tỉnh hoạt động chuyên trách không thuộc biên chế công chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh mà thuộc biên chế khối lãnh đạo các cơ quan dân cử ở địa phương trong tổng số lượng biên chế cán bộ, công chức của tỉnh, thành phố trực thuộc Trung ương đó.
+
+Điều 35.8.NQ.11.4. Chế độ làm việc
+
+(Điều 4 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
+
+1. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh làm việc theo chế độ thủ trưởng kết hợp với chế độ chuyên viên.
+
+2. Chánh Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh là người đứng đầu, điều hành công việc chung của Văn phòng, chịu trách nhiệm trước Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân cấp tỉnh và trước pháp luật về toàn bộ hoạt động của Văn phòng. Các Phó Chánh Văn phòng giúp Chánh Văn phòng thực hiện nhiệm vụ, quyền hạn theo phân công của Chánh Văn phòng.
+
+3. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh thực hiện quy chế làm việc do Chánh Văn phòng ban hành.
 
 Điều 35.8.NQ.11.5. Trụ sở làm việc và kinh phí hoạt động
 
-**Chỉ mục:** 5
+(Điều 5 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202741010040000500
+1. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có tư cách pháp nhân, có con dấu và tài khoản riêng do Chánh Văn phòng làm chủ tài khoản.
 
-**ID:** dk_00059593
+2. Chính quyền địa phương cấp tỉnh căn cứ điều kiện cụ thể của địa phương, sau khi thống nhất với Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội, quyết định việc bố trí trụ sở làm việc của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, bảo đảm sử dụng cơ sở vật chất phù hợp và hiệu quả.
 
----
+3. Kinh phí hoạt động của Đoàn đại biểu Quốc hội do ngân sách trung ương bảo đảm; kinh phí hoạt động của Hội đồng nhân dân và Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh do ngân sách địa phương bảo đảm. Chánh Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh tổ chức việc quản lý, sử dụng kinh phí hoạt động của Đoàn đại biểu Quốc hội, Hội đồng nhân dân cấp tỉnh theo quy định của pháp luật về ngân sách nhà nước.
 
+4. Văn phòng Quốc hội thực hiện việc phân bổ dự toán kinh phí hoạt động của Đoàn đại biểu Quốc hội cho Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, điều chỉnh dự toán ngân sách nhà nước, duyệt quyết toán ngân sách hoạt động của Đoàn đại biểu Quốc hội, hướng dẫn cụ thể việc quản lý và sử dụng kinh phí hoạt động của Đoàn đại biểu Quốc hội, kiểm tra việc thực hiện chi ngân sách nhà nước cho hoạt động của Đoàn đại biểu Quốc hội theo quy định của pháp luật về ngân sách nhà nước và pháp luật về kế toán, thống kê.
 
-### Điều 35.8.NQ.11.6. Mối quan hệ công tác
+Điều 35.8.NQ.11.6. Mối quan hệ công tác
 
-*Nội dung chưa có sẵn*
+(Điều 6 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 6
+1. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh giữ mối quan hệ công tác với Văn phòng Tỉnh ủy, Văn phòng Thành ủy, Văn phòng Ủy ban nhân dân cấp tỉnh, Văn phòng Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh và các cơ quan, tổ chức, đơn vị khác ở địa phương để phối hợp tham mưu, phục vụ hoạt động của Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh.
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202741010040000600
-
-**ID:** dk_00059594
-
----
-
-
-### Điều 35.8.NL.2.6. Trách nhiệm của Đoàn đại biểu Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+2. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh giữ mối quan hệ công tác với Văn phòng Quốc hội; phối hợp với các vụ, đơn vị thuộc Văn phòng Quốc hội trong việc tham mưu, phục vụ các hoạt động của Đoàn đại biểu Quốc hội, đại biểu Quốc hội và hoạt động của Chủ tịch, Phó Chủ tịch Quốc hội, Ủy ban Thường vụ Quốc hội, các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội tại địa phương.
 
 Điều 35.8.NL.2.6. Trách nhiệm của Đoàn đại biểu Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
 
-**Chỉ mục:** 6
+(Điều 6 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202902600720000600
+1. Căn cứ vào chương trình, kế hoạch hoạt động của Quốc hội, của Ủy ban Thường vụ Quốc hội, tình hình thực tế ở địa phương và trên cơ sở kế hoạch làm việc của đại biểu Quốc hội, Đoàn đại biểu Quốc hội xây dựng kế hoạch tiếp xúc cử tri của Đoàn. Kế hoạch tiếp xúc cử tri được gửi đến cơ quan, tổ chức, cá nhân có liên quan nơi đại biểu Quốc hội tiếp xúc cử tri để phối hợp thực hiện, đồng thời gửi đến Ủy ban Thường vụ Quốc hội và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.
 
-**ID:** dk_00059595
+2. Xây dựng chương trình, phân công đại biểu Quốc hội trong Đoàn tiếp xúc cử tri tại địa phương, bảo đảm tính toàn diện, bao trùm, hiệu quả trong việc tiếp xúc cử tri.
 
----
+3. Chậm nhất là 07 ngày làm việc, trước ngày tiếp xúc cử tri của đại biểu Quốc hội, Đoàn đại biểu Quốc hội gửi kế hoạch tiếp xúc cử tri đến cơ quan báo chí ở địa phương để thông báo rộng rãi, kịp thời về thời gian, địa điểm, hình thức, nội dung tiếp xúc cử tri của đại biểu Quốc hội.
 
+4. Chủ trì phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh xây dựng báo cáo tổng hợp ý kiến, kiến nghị của cử tri gửi đến Ủy ban Thường vụ Quốc hội, Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và chuyển đến các cơ quan, tổ chức, cá nhân có liên quan ở địa phương theo quy định tại Điều 39 của Nghị quyết này.
 
-### Điều 35.8.NL.2.16. Trách nhiệm của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân
+5. Tại mỗi đợt tiếp xúc cử tri trước kỳ họp của Quốc hội, Đoàn đại biểu Quốc hội tổ chức buổi làm việc giữa các đại biểu Quốc hội trong Đoàn với Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam, Viện kiểm sát nhân dân, Tòa án nhân dân cấp tỉnh và các cơ quan, tổ chức, cá nhân có liên quan để trao đổi, nắm bắt tình hình kinh tế - xã hội và các vấn đề khó khăn, vướng mắc của địa phương, các kiến nghị của địa phương đối với các bộ, ngành, Chính phủ, Quốc hội; trao đổi về việc giải quyết, trả lời của các bộ, ngành đối với kiến nghị của cử tri địa phương tại kỳ họp trước; thông báo nhanh những ý kiến, kiến nghị của cử tri về những vấn đề thuộc thẩm quyền giải quyết của địa phương.
+
+6. Chỉ đạo Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân tham mưu, phục vụ và bảo đảm các điều kiện để đại biểu Quốc hội tiếp xúc cử tri.
 
 Điều 35.8.NL.2.16. Trách nhiệm của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân
 
-**Chỉ mục:** 16
+(Điều 16 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202902600720001600
+1. Đối với tiếp xúc cử tri của đại biểu Quốc hội, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh có trách nhiệm:
 
-**ID:** dk_00059596
+a) Tham mưu giúp Đoàn đại biểu Quốc hội xây dựng kế hoạch tiếp xúc cử tri và kế hoạch giám sát việc giải quyết, trả lời kiến nghị của cử tri;
 
----
+b) Tổ chức phục vụ đại biểu Quốc hội tiếp xúc cử tri; ghi biên bản tiếp xúc cử tri do Đoàn đại biểu Quốc hội tổ chức hoặc theo yêu cầu của đại biểu Quốc hội; giúp đại biểu Quốc hội theo dõi, đôn đốc việc giải quyết, trả lời kiến nghị của cử tri;
 
+c) Tham mưu giúp Đoàn đại biểu Quốc hội xây dựng báo cáo tổng hợp ý kiến, kiến nghị của cử tri; phân loại, chuyển ý kiến, kiến nghị của cử tri đến cơ quan, tổ chức, cá nhân ở trung ương và địa phương theo thẩm quyền giải quyết; theo dõi, đôn đốc việc giải quyết, trả lời kiến nghi của cử tri; phục vụ Đoàn đại biểu Quốc hội tham gia phối hợp giám sát việc giải quyết, trả lời kiến nghị của cử tri;
 
-### Điều 35.8.NL.2.39. Báo cáo tổng hợp ý kiến, kiến nghị của cử tri của Đoàn đại biểu Quốc hội
+d) Phục vụ và bảo đảm điều kiện cơ sở vật chất, kinh phí, phương tiện để đại biểu Quốc hội tiếp xúc cử tri.
+
+2. Đối với tiếp xúc cử tri của đại biểu Hội đồng nhân dân, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã có trách nhiệm:
+
+a) Tham mưu, giúp Thường trực Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân xây dựng kế hoạch để đại biểu Hội đồng nhân dân tiếp xúc cử tri;
+
+b) Cung cấp tài liệu, thông tin; tổ chức phục vụ để đại biểu Hội đồng nhân dân tiếp xúc cử tri;
+
+c) Giúp Thường trực Hội đồng nhân dân xây dựng báo cáo tổng hợp ý kiến, kiến nghị của cử tri; phân loại, chuyển ý kiến, kiến nghị của cử tri đến cơ quan, tổ chức, cá nhân có liên quan ở địa phương giải quyết theo thẩm quyền; theo dõi, đôn đốc việc giải quyết, trả lời kiến nghị của cử tri; xây dựng kế hoạch và tham mưu, phục vụ các hoạt động giám sát việc giải quyết, trả lời ý kiến, kiến nghị của cử tri;
+
+d) Phục vụ và bảo đảm điều kiện cơ sở vật chất, kinh phí, phương tiện để đại biểu Hội đồng nhân dân tiếp xúc cử tri.
 
 Điều 35.8.NL.2.39. Báo cáo tổng hợp ý kiến, kiến nghị của cử tri của Đoàn đại biểu Quốc hội
 
-**Chỉ mục:** 39
+(Điều 39 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000020000430000000000000000000202902600720003900
+1. Đoàn đại biểu Quốc hội tổng hợp ý kiến, kiến nghị của cử tri thuộc thẩm quyền giải quyết, trả lời của cơ quan, tổ chức, cá nhân ở trung ương và gửi đến Ủy ban Thường vụ Quốc hội.
 
-**ID:** dk_00059597
+2. Đoàn đại biểu Quốc hội tổng hợp ý kiến, kiến nghị của cử tri thuộc thẩm quyền giải quyết, trả lời của cơ quan, tổ chức, cá nhân ở địa phương và gửi đến các cơ quan, tổ chức, cá nhân đó.
 
----
+3. Theo yêu cầu của Ủy ban Thường vụ Quốc hội, Đoàn đại biểu Quốc hội tổng hợp nội dung kiến nghị của cử tri, Nhân dân tại địa phương và tình hình tiếp nhận, giải quyết, trả lời kiến nghị của cử tri để báo cáo Ủy ban Thường vụ Quốc hội.
 
+Chương III
 
-### Điều 35.8.NL.2.55. Ủy ban Thường vụ Quốc hội xem xét, thảo luận về nội dung kiến nghị của cử tri và Nhân dân; tình hình tiếp nhận, giải quyết, trả lời kiến nghị của cử tri tại báo cáo về công tác dân nguyện
+ỦY BAN THƯỜNG VỤ QUỐC HỘI VÀ CHỦ TỊCH QUỐC HỘI
 
 Điều 35.8.NL.2.55. Ủy ban Thường vụ Quốc hội xem xét, thảo luận về nội dung kiến nghị của cử tri và Nhân dân; tình hình tiếp nhận, giải quyết, trả lời kiến nghị của cử tri tại báo cáo về công tác dân nguyện
 
-**Chỉ mục:** 55
+(Điều 55 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 3500800000000000300000202902600720005500
+1. Ủy ban Thường vụ Quốc hội xem xét, thảo luận về nội dung kiến nghị của cử tri và Nhân dân; tình hình tiếp nhận, giải quyết, trả lời kiến nghị của cử tri tại báo cáo về công tác dân nguyện.
 
-**ID:** dk_00059599
+2. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm tham dự phiên họp và báo cáo, giải trình với Ủy ban Thường vụ Quốc hội về các nội dung thuộc thẩm quyền.
 
----
+3. Đoàn đại biểu Quốc hội xây dựng báo cáo tổng hợp về nội dung kiến nghị của cử tri và Nhân dân tại địa phương theo quy định tại khoản 1 và khoản 3 Điều 39 của Nghị quyết này.
 
-
-### Điều 35.8.LQ.44. Vị trí, chức năng, cơ cấu tổ chức và nguyên tắc hoạt động của Ủy ban thường vụ Quốc hội
+4. Cơ quan phụ trách công tác dân nguyện báo cáo Ủy ban Thường vụ Quốc hội về nội dung kiến nghị của cử tri, tình hình tiếp nhận, giải quyết, trả lời kiến nghị của cử tri tại báo cáo về công tác dân nguyện.
 
 Điều 35.8.LQ.44. Vị trí, chức năng, cơ cấu tổ chức và nguyên tắc hoạt động của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3500800000000000300004400000000000000000
+1. Ủy ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội.
 
-**ID:** dk_00059600
+2. Ủy ban thường vụ Quốc hội gồm Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các Ủy viên Ủy ban thường vụ Quốc hội do Chủ tịch Quốc hội làm Chủ tịch và các Phó Chủ tịch Quốc hội làm Phó Chủ tịch. Thành viên Ủy ban thường vụ Quốc hội là đại biểu Quốc hội hoạt động chuyên trách và không đồng thời là thành viên Chính phủ. Số Phó Chủ tịch Quốc hội và số Ủy viên Ủy ban thường vụ Quốc hội do Quốc hội quyết định.
 
----
+3. Nhiệm kỳ của Ủy ban thường vụ Quốc hội bắt đầu từ khi được Quốc hội bầu ra và kết thúc khi Quốc hội khóa mới bầu ra Ủy ban thường vụ Quốc hội.
 
+4. Ủy ban thường vụ Quốc hội làm việc theo chế độ tập thể và quyết định theo đa số. Pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội được thông qua khi có quá nửa tổng số thành viên Ủy ban thường vụ Quốc hội biểu quyết tán thành.
 
-### Điều 35.8.LQ.45. Trách nhiệm của các thành viên Ủy ban thường vụ Quốc hội
+5. Tại kỳ họp cuối năm của Quốc hội, Ủy ban Thường vụ Quốc hội gửi báo cáo công tác của mình đến đại biểu Quốc hội. Tại kỳ họp cuối của mỗi khóa Quốc hội, Ủy ban Thường vụ Quốc hội trình báo cáo công tác nhiệm kỳ để Quốc hội xem xét, thảo luận.
 
 Điều 35.8.LQ.45. Trách nhiệm của các thành viên Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300004500000000000000000
+1. Các thành viên Ủy ban thường vụ Quốc hội chịu trách nhiệm tập thể về việc thực hiện nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội; chịu trách nhiệm cá nhân trước Ủy ban thường vụ Quốc hội về những vấn đề được Ủy ban thường vụ Quốc hội phân công; tham gia các phiên họp Ủy ban thường vụ Quốc hội, thảo luận và biểu quyết các vấn đề thuộc nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059601
-
----
-
-
-### Điều 35.8.LQ.46. Phối hợp công tác giữa Ủy ban thường vụ Quốc hội với các cơ quan, tổ chức, đơn vị, cá nhân
+2. Trong trường hợp được sự ủy nhiệm của Ủy ban thường vụ Quốc hội, thành viên Ủy ban thường vụ Quốc hội thay mặt Ủy ban thường vụ Quốc hội làm việc với bộ, ngành, cơ quan, tổ chức khác và báo cáo kết quả làm việc với Ủy ban thường vụ Quốc hội.
 
 Điều 35.8.LQ.46. Phối hợp công tác giữa Ủy ban thường vụ Quốc hội với các cơ quan, tổ chức, đơn vị, cá nhân
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300004600000000000000000
+1. Khi thực hiện nhiệm vụ, quyền hạn của mình, Ủy ban thường vụ Quốc hội phối hợp công tác với Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Hội đồng bầu cử quốc gia, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; yêu cầu đại diện các cơ quan, tổ chức khác và công dân tham gia khi cần thiết.
 
-**ID:** dk_00059602
-
----
-
-
-### Điều 35.8.LQ.47. Ủy ban thường vụ Quốc hội chuẩn bị, triệu tập, chủ trì kỳ họp Quốc hội và các hội nghị khác
+2. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, các cơ quan khác của Nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế, đơn vị vũ trang nhân dân và công dân có trách nhiệm thực hiện yêu cầu của Ủy ban thường vụ Quốc hội.
 
 Điều 35.8.LQ.47. Ủy ban thường vụ Quốc hội chuẩn bị, triệu tập, chủ trì kỳ họp Quốc hội và các hội nghị khác
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3500800000000000300004700000000000000000
+1. Dự kiến chương trình kỳ họp; quyết định triệu tập kỳ họp Quốc hội.
 
-**ID:** dk_00059603
+2. Chỉ đạo, điều hòa, phối hợp hoạt động của các cơ quan hữu quan trong việc chuẩn bị nội dung kỳ họp; xem xét, cho ý kiến về việc chuẩn bị các dự án luật, dự thảo nghị quyết, các báo cáo và các dự án khác trình Quốc hội; xem xét báo cáo tổng hợp kết quả thảo luận của Hội đồng dân tộc, Ủy ban của Quốc hội và các đại biểu Quốc hội tại Đoàn đại biểu Quốc hội; dự kiến các vấn đề đưa ra thảo luận tại phiên họp toàn thể của Quốc hội.
 
----
+3. Tổ chức và bảo đảm việc thực hiện chương trình kỳ họp Quốc hội, đề nghị Quốc hội điều chỉnh chương trình khi cần thiết.
 
+4. Tổ chức để Quốc hội biểu quyết thông qua dự thảo luật, dự thảo nghị quyết và những nội dung khác thuộc nhiệm vụ, quyền hạn của Quốc hội.
 
-### Điều 35.8.NL.2.54. Xem xét kết quả giám sát việc giải quyết, trả lời kiến nghị của cử tri tại kỳ họp Quốc hội, kỳ họp Hội đồng nhân dân
+5. Phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trình Quốc hội báo cáo tổng hợp ý kiến, kiến nghị của cử tri cả nước; đề xuất các vấn đề trình Quốc hội thảo luận, ra nghị quyết về việc giải quyết kiến nghị của cử tri.
+
+6. Quyết định các vấn đề khác liên quan đến kỳ họp Quốc hội.
+
+7. Căn cứ vào yêu cầu, tình hình thực tiễn, Ủy ban thường vụ Quốc hội quyết định triệu tập hội nghị đại biểu Quốc hội hoạt động chuyên trách trước mỗi kỳ họp Quốc hội để thảo luận, cho ý kiến về các dự án, đề án, báo cáo trước khi trình Quốc hội.
+
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.15. Phản ánh ý kiến, kiến nghị của cử tri và Nhân dân)
 
 Điều 35.8.NL.2.54. Xem xét kết quả giám sát việc giải quyết, trả lời kiến nghị của cử tri tại kỳ họp Quốc hội, kỳ họp Hội đồng nhân dân
 
-**Chỉ mục:** 54
+(Điều 54 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 350080000000000030000470000000000000000000202902600720005400
+1. Tại kỳ họp Quốc hội, Ủy ban Thường vụ Quốc hội trình Quốc hội báo cáo giám sát kết quả giải quyết kiến nghị của cử tri để xem xét, thảo luận. Trong trường hợp cần thiết, Ủy ban Thường vụ Quốc hội đề nghị Quốc hội ban hành nghị quyết về việc giải quyết, trả lời kiến nghị của cử tri.
 
-**ID:** dk_00059604
-
----
-
-
-### Điều 35.8.LQ.48. Xây dựng luật, pháp lệnh, nghị quyết
+2. Tại kỳ họp Hội đồng nhân dân, Thường trực Hội đồng nhân dân trình Hội đồng nhân dân báo cáo giám sát kết quả giải quyết, trả lời kiến nghị của cử tri. Trong trường hợp cần thiết, Thường trực Hội đồng nhân dân đề nghị Hội đồng nhân dân ban hành nghị quyết về việc giải quyết, trả lời kiến nghị của cử tri.
 
 Điều 35.8.LQ.48. Xây dựng luật, pháp lệnh, nghị quyết
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000300004800000000000000000
+1. Ủy ban thường vụ Quốc hội chủ trì xây dựng Định hướng lập pháp nhiệm kỳ của Quốc hội và ban hành kế hoạch triển khai thực hiện Định hướng lập pháp nhiệm kỳ của Quốc hội sau khi được cấp có thẩm quyền phê duyệt; quyết định và điều chỉnh Chương trình lập pháp hằng năm của Quốc hội; cho ý kiến về dự án luật, dự thảo nghị quyết, về việc tiếp thu, giải trình, chỉnh lý dự thảo luật, dự thảo nghị quyết của Quốc hội trước khi trình Quốc hội và chủ trì tổ chức việc trình Quốc hội xem xét, thông qua luật, nghị quyết.
 
-**ID:** dk_00059605
+2. Ủy ban thường vụ Quốc hội ra pháp lệnh về những vấn đề được Quốc hội giao; ban hành nghị quyết để thực hiện các nhiệm vụ, quyền hạn theo quy định của Hiến pháp, luật, nghị quyết của Quốc hội.
 
----
-
-
-### Điều 35.8.LQ.49. Giải thích Hiến pháp, luật, pháp lệnh
+Trình tự, thủ tục xây dựng, xem xét, ban hành pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thực hiện theo quy định của Luật Ban hành văn bản quy phạm pháp luật.
 
 Điều 35.8.LQ.49. Giải thích Hiến pháp, luật, pháp lệnh
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300004900000000000000000
+1. Ủy ban thường vụ Quốc hội tự mình hoặc theo đề nghị của Chủ tịch nước, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng dân tộc, Ủy ban của Quốc hội, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức thành viên của Mặt trận hoặc kiến nghị của đại biểu Quốc hội quyết định việc giải thích Hiến pháp, luật, pháp lệnh.
 
-**ID:** dk_00059606
+2. Tùy theo tính chất, nội dung của vấn đề cần được giải thích, Ủy ban thường vụ Quốc hội giao Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao hoặc Hội đồng dân tộc, Ủy ban của Quốc hội xây dựng dự thảo nghị quyết giải thích Hiến pháp, luật, pháp lệnh trình Ủy ban thường vụ Quốc hội xem xét, quyết định.
 
----
-
-
-### Điều 35.8.LQ.50. Giám sát của Ủy ban thường vụ Quốc hội
+3. Dự thảo nghị quyết giải thích Hiến pháp, luật, pháp lệnh phải được Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra về sự phù hợp của dự thảo nghị quyết giải thích Hiến pháp, luật, pháp lệnh với tinh thần và nội dung quy định được giải thích của Hiến pháp, luật, pháp lệnh.
 
 Điều 35.8.LQ.50. Giám sát của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300005000000000000000000
+1. Ủy ban thường vụ Quốc hội tổ chức thực hiện chương trình giám sát của Quốc hội, điều chỉnh chương trình giám sát của Quốc hội trong thời gian Quốc hội không họp và báo cáo Quốc hội tại kỳ họp gần nhất.
 
-**ID:** dk_00059607
+2. Ủy ban thường vụ Quốc hội giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội; giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập.
 
----
-
-
-### Điều 35.8.LQ.51. Đình chỉ, bãi bỏ văn bản của cơ quan nhà nước ở trung ương
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân; Điều 35.3.NQ.1.1. )
 
 Điều 35.8.LQ.51. Đình chỉ, bãi bỏ văn bản của cơ quan nhà nước ở trung ương
 
-**Chỉ mục:** 51
+(Điều 51 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300005100000000000000000
+1. Ủy ban thường vụ Quốc hội đình chỉ hoặc theo đề nghị của Hội đồng dân tộc, Ủy ban của Quốc hội hoặc đại biểu Quốc hội đình chỉ việc thi hành văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, cơ quan khác do Quốc hội thành lập trái với Hiến pháp, luật, nghị quyết của Quốc hội và trình Quốc hội quyết định việc bãi bỏ văn bản đó tại kỳ họp gần nhất.
 
-**ID:** dk_00059608
-
----
-
-
-### Điều 35.8.LQ.52. Ủy ban thường vụ Quốc hội chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng dân tộc và Ủy ban của Quốc hội
+2. Ủy ban thường vụ Quốc hội bãi bỏ hoặc theo đề nghị của Hội đồng dân tộc, Ủy ban của Quốc hội hoặc đại biểu Quốc hội bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, cơ quan khác do Quốc hội thành lập trái với pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội.
 
 Điều 35.8.LQ.52. Ủy ban thường vụ Quốc hội chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng dân tộc và Ủy ban của Quốc hội
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300005200000000000000000
+1. Phân công Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra dự án luật, pháp lệnh, dự thảo nghị quyết và các báo cáo, dự án khác, trừ trường hợp do Quốc hội quyết định; phân công Hội đồng dân tộc, Ủy ban của Quốc hội thực hiện các nội dung thuộc chương trình giám sát của Quốc hội và những nội dung khác theo yêu cầu của Quốc hội; giao Hội đồng dân tộc, Ủy ban của Quốc hội giám sát một số vấn đề trong chương trình giám sát của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059609
+2. Yêu cầu Hội đồng dân tộc, Ủy ban của Quốc hội định kỳ báo cáo về chương trình, kế hoạch hoạt động và việc thực hiện các chương trình, kế hoạch của Hội đồng, Ủy ban.
 
----
+3. Điều phối các hoạt động của Hội đồng dân tộc, Ủy ban của Quốc hội diễn ra tại cùng một địa bàn hoặc đối với cùng một cơ quan, tổ chức.
 
+4. Xem xét và trả lời kiến nghị của Hội đồng dân tộc, Ủy ban của Quốc hội.
 
-### Điều 35.8.LQ.53. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc bầu, miễn nhiệm, bãi nhiệm, phê chuẩn các chức danh trong bộ máy nhà nước
+5. Khi cần thiết, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội làm việc với Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội về các vấn đề thuộc nhiệm vụ, quyền hạn của Hội đồng dân tộc, Ủy ban của Quốc hội.
 
 Điều 35.8.LQ.53. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc bầu, miễn nhiệm, bãi nhiệm, phê chuẩn các chức danh trong bộ máy nhà nước
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000300005300000000000000000
+1. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội.
 
-**ID:** dk_00059610
+2. Quyết định số lượng, phê chuẩn danh sách và việc cho thôi đối với Phó Chủ tịch, Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng dân tộc và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng dân tộc.
 
----
+Quyết định số lượng, phê chuẩn danh sách và việc cho thôi đối với Phó Chủ nhiệm, Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Ủy ban và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Ủy ban của Quốc hội.
 
+3. Phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-### Điều 35.8.LQ.54. Trách nhiệm của Ủy ban thường vụ Quốc hội đối với hoạt động của đại biểu Quốc hội, Đoàn đại biểu Quốc hội
+4. Phê chuẩn kết quả bầu và việc cho thôi làm Trưởng đoàn, Phó Trưởng đoàn đại biểu Quốc hội.
+
+5. Phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương.
 
 Điều 35.8.LQ.54. Trách nhiệm của Ủy ban thường vụ Quốc hội đối với hoạt động của đại biểu Quốc hội, Đoàn đại biểu Quốc hội
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000300005400000000000000000
+1. Quy định việc thực hiện công tác quản lý cán bộ đối với đại biểu Quốc hội hoạt động chuyên trách, việc thực hiện nhiệm vụ đại biểu, chế độ, chính sách và các điều kiện bảo đảm khác đối với đại biểu Quốc hội, đại biểu Quốc hội hoạt động chuyên trách.
 
-**ID:** dk_00059611
+2. Tiếp nhận chất vấn của đại biểu Quốc hội để chuyển đến người bị chất vấn và quyết định thời hạn, hình thức trả lời chất vấn; tiếp nhận, tổng hợp kiến nghị của đại biểu Quốc hội; trình Quốc hội xem xét kiến nghị của đại biểu Quốc hội quy định tại khoản 3 Điều 33 của Luật này; xem xét, trả lời kiến nghị khác của đại biểu Quốc hội; khi cần thiết, cử đoàn giám sát, đoàn công tác về địa phương xem xét các vấn đề mà đại biểu Quốc hội, Đoàn đại biểu Quốc hội kiến nghị.
 
----
+3. Hướng dẫn hoạt động, xem xét báo cáo về tình hình hoạt động và quyết định phân bổ kinh phí hoạt động của các Đoàn đại biểu Quốc hội.
 
+4. Xem xét đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao về việc bắt, giam, giữ, khởi tố đại biểu Quốc hội, người trúng cử đại biểu Quốc hội, khám xét nơi ở, nơi làm việc của đại biểu Quốc hội trong thời gian Quốc hội không họp; quyết định tạm đình chỉ việc thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội trong các trường hợp quy định tại khoản 1 Điều 39 của Luật này; báo cáo với Quốc hội về việc đại biểu Quốc hội mất quyền đại biểu.
 
-### Điều 35.8.LQ.55. Ủy ban thường vụ Quốc hội giám sát, hướng dẫn hoạt động của Hội đồng nhân dân
+5. Xem xét, quyết định việc chuyển đại biểu Quốc hội đến sinh hoạt tại Đoàn đại biểu Quốc hội khác trong trường hợp đại biểu chuyển công tác đến tỉnh, thành phố khác trực thuộc Trung ương. Xem xét đề nghị của cơ quan, tổ chức, đơn vị nơi đại biểu Quốc hội công tác về việc bãi nhiệm, cách chức, buộc thôi việc, sa thải đại biểu Quốc hội.
+
+6. Quyết định việc đưa ra để Quốc hội bãi nhiệm hoặc cử tri nơi bầu ra đại biểu bãi nhiệm đại biểu Quốc hội theo đề nghị của Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Ủy ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc Trung ương; quyết định việc chấp nhận đại biểu Quốc hội thôi làm nhiệm vụ đại biểu trong thời gian Quốc hội không họp và báo cáo với Quốc hội tại kỳ họp gần nhất.
+
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội)
 
 Điều 35.8.LQ.55. Ủy ban thường vụ Quốc hội giám sát, hướng dẫn hoạt động của Hội đồng nhân dân
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300005500000000000000000
+1. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân.
 
-**ID:** dk_00059612
+2. Quyết định bãi bỏ hoặc theo đề nghị của Thủ tướng Chính phủ, Hội đồng dân tộc, Ủy ban của Quốc hội hoặc đại biểu Quốc hội bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên.
 
----
-
-
-### Điều 35.8.LQ.56. Thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc Trung ương
+3. Quyết định giải tán hoặc theo đề nghị của Chính phủ quyết định giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân.
 
 Điều 35.8.LQ.56. Thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc Trung ương
 
-**Chỉ mục:** 56
+(Điều 56 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300005600000000000000000
+1. Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc Trung ương theo đề nghị của Chính phủ.
 
-**ID:** dk_00059613
-
----
-
-
-### Điều 35.8.LQ.57. Quyết định tình trạng chiến tranh, quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp
+2. Đề án về việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc Trung ương phải được Ủy ban của Quốc hội thẩm tra trước khi trình Ủy ban thường vụ Quốc hội xem xét, quyết định.
 
 Điều 35.8.LQ.57. Quyết định tình trạng chiến tranh, quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300005700000000000000000
+1. Trong trường hợp Quốc hội không thể họp được, Ủy ban thường vụ Quốc hội quyết định tình trạng chiến tranh theo đề nghị của Hội đồng quốc phòng và an ninh và báo cáo Quốc hội tại kỳ họp gần nhất; quyết định tổng động viên hoặc động viên cục bộ theo đề nghị của Hội đồng quốc phòng và an ninh hoặc của Thủ tướng Chính phủ.
 
-**ID:** dk_00059614
-
----
-
-
-### Điều 35.8.LQ.58. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc thực hiện quan hệ đối ngoại của Quốc hội
+2. Ủy ban thường vụ Quốc hội quyết định ban bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương khi trong cả nước, một hoặc nhiều địa phương có thảm họa lớn do thiên nhiên hoặc con người gây ra, có dịch bệnh nguy hiểm lây lan trên quy mô rộng, đe dọa nghiêm trọng đến tài sản của Nhà nước, của tổ chức, tính mạng, sức khỏe, tài sản của Nhân dân hoặc có tình hình đe dọa nghiêm trọng đến an ninh quốc gia và trật tự, an toàn xã hội theo đề nghị của Thủ tướng Chính phủ. Khi không còn tình trạng khẩn cấp, Ủy ban thường vụ Quốc hội quyết định bãi bỏ tình trạng khẩn cấp theo đề nghị của Thủ tướng Chính phủ.
 
 Điều 35.8.LQ.58. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc thực hiện quan hệ đối ngoại của Quốc hội
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000300005800000000000000000
+1. Báo cáo Quốc hội những vấn đề thuộc chính sách đối ngoại của Nhà nước liên quan đến quan hệ với Quốc hội các nước, với các tổ chức liên nghị viện thế giới và khu vực, với các tổ chức quốc tế khác. Trong thời gian Quốc hội không họp, xem xét báo cáo của Chính phủ về công tác đối ngoại; cho ý kiến về những vấn đề thuộc chính sách cơ bản về đối ngoại của Nhà nước trước khi trình Quốc hội.
 
-**ID:** dk_00059615
+2. Quyết định đăng cai tổ chức hội nghị của các tổ chức liên nghị viện thế giới và khu vực tại Việt Nam.
 
----
+3. Quyết định việc thành lập, quy định tổ chức và hoạt động của tổ chức nghị sĩ hữu nghị Việt Nam.
 
+4. Thông qua chương trình hoạt động đối ngoại và hợp tác quốc tế hằng năm của Ủy ban thường vụ Quốc hội; chỉ đạo, điều hòa, phối hợp hoạt động đối ngoại và hợp tác quốc tế của Hội đồng dân tộc, các Ủy ban của Quốc hội, các nhóm nghị sĩ hữu nghị, Kiểm toán nhà nước và Văn phòng Quốc hội.
 
-### Điều 35.8.LQ.59. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc tổ chức trưng cầu ý dân
+5. Xem xét, đánh giá kết quả thực hiện chương trình hoạt động đối ngoại và hợp tác quốc tế hằng năm của Quốc hội; xem xét báo cáo kết quả chuyến thăm, làm việc của đoàn Quốc hội tại nước ngoài và đoàn Quốc hội nước ngoài, tổ chức quốc tế đến thăm, làm việc với Quốc hội Việt Nam; xem xét báo cáo kết quả các hội nghị quốc tế do Quốc hội đăng cai tổ chức.
 
 Điều 35.8.LQ.59. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc tổ chức trưng cầu ý dân
 
-**Chỉ mục:** 59
+(Điều 59 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3500800000000000300005900000000000000000
+1. Tổ chức trưng cầu ý dân theo quyết định của Quốc hội.
 
-**ID:** dk_00059616
+2. Thực hiện nhiệm vụ, quyền hạn trong việc trưng cầu ý dân theo quy định của Luật Trưng cầu ý dân.
 
----
-
-
-### Điều 35.8.LQ.60. Phiên họp Ủy ban thường vụ Quốc hội
+(Điều này có nội dung liên quan đến Điều 44.15.LQ.18. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội)
 
 Điều 35.8.LQ.60. Phiên họp Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000300006000000000000000000
+1. Ủy ban thường vụ Quốc hội thảo luận và quyết định những vấn đề thuộc nhiệm vụ, quyền hạn của mình tại phiên họp Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059617
+Phiên họp Ủy ban thường vụ Quốc hội phải có ít nhất hai phần ba tổng số thành viên Ủy ban thường vụ Quốc hội tham dự.
 
----
+2. Chủ tịch Quốc hội chủ tọa phiên họp Ủy ban thường vụ Quốc hội. Các Phó Chủ tịch Quốc hội giúp Chủ tịch Quốc hội trong việc điều hành phiên họp theo sự phân công của Chủ tịch Quốc hội.
 
+3. Thành viên Ủy ban thường vụ Quốc hội có trách nhiệm tham dự đầy đủ các phiên họp, trường hợp không thể tham dự phiên họp thì phải báo cáo lý do để Chủ tịch Quốc hội xem xét, quyết định.
 
-### Điều 35.8.LQ.61. Thời gian tiến hành phiên họp Ủy ban thường vụ Quốc hội
+4. Chủ tịch nước có quyền tham dự phiên họp Ủy ban thường vụ Quốc hội; Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chủ tịch, các Phó Chủ tịch Hội đồng dân tộc, Chủ nhiệm, các Phó Chủ nhiệm Ủy ban của Quốc hội được mời tham dự các phiên họp Ủy ban thường vụ Quốc hội.
+
+Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng dân tộc, Ủy ban của Quốc hội được mời tham dự phiên họp Ủy ban thường vụ Quốc hội bàn về những nội dung thuộc lĩnh vực Hội đồng, Ủy ban phụ trách.
+
+5. Đại diện các cơ quan, tổ chức hữu quan được mời tham dự phiên họp Ủy ban thường vụ Quốc hội khi bàn về những nội dung có liên quan.
 
 Điều 35.8.LQ.61. Thời gian tiến hành phiên họp Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300006100000000000000000
+1. Ủy ban thường vụ Quốc hội họp thường kỳ mỗi tháng một phiên.
 
-**ID:** dk_00059618
-
----
-
-
-### Điều 35.8.LQ.62. Dự kiến chương trình và quyết định triệu tập phiên họp Ủy ban thường vụ Quốc hội
+2. Khi cần thiết, Ủy ban thường vụ Quốc hội họp theo quyết định của Chủ tịch Quốc hội hoặc khi có đề nghị của Chủ tịch nước, Thủ tướng Chính phủ hay của ít nhất một phần ba tổng số thành viên Ủy ban thường vụ Quốc hội.
 
 Điều 35.8.LQ.62. Dự kiến chương trình và quyết định triệu tập phiên họp Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300006200000000000000000
+1. Chủ tịch Quốc hội chỉ đạo việc chuẩn bị phiên họp Ủy ban thường vụ Quốc hội; dự kiến chương trình, quyết định thời gian họp và các biện pháp bảo đảm. Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội chuẩn bị những nội dung được Chủ tịch Quốc hội phân công.
 
-**ID:** dk_00059619
+2. Theo sự chỉ đạo của Chủ tịch Quốc hội, căn cứ vào chương trình công tác của Ủy ban thường vụ Quốc hội, của Hội đồng dân tộc, các Ủy ban của Quốc hội và tình hình, tiến độ chuẩn bị các nội dung dự kiến trình Ủy ban thường vụ Quốc hội, Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội chuẩn bị dự kiến chương trình phiên họp Ủy ban thường vụ Quốc hội chậm nhất là 30 ngày trước ngày bắt đầu phiên họp. Dự kiến chương trình phiên họp phải được gửi xin ý kiến các thành viên Ủy ban thường vụ Quốc hội, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội trước khi trình Chủ tịch Quốc hội xem xét, quyết định.
 
----
+3. Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội gửi dự kiến chương trình phiên họp đã được Chủ tịch Quốc hội quyết định đến cơ quan, tổ chức có nội dung trình Ủy ban thường vụ Quốc hội chậm nhất là 20 ngày trước ngày bắt đầu phiên họp; gửi dự kiến chương trình phiên họp cùng với quyết định triệu tập phiên họp đến thành viên Ủy ban thường vụ Quốc hội chậm nhất là 07 ngày trước ngày bắt đầu phiên họp.
 
-
-### Điều 35.8.LQ.63. Tài liệu phục vụ phiên họp Ủy ban thường vụ Quốc hội
+4. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng dân tộc, Ủy ban của Quốc hội và các cơ quan, tổ chức hữu quan có trách nhiệm chuẩn bị, thẩm tra các dự án, báo cáo thuộc nội dung chương trình phiên họp theo sự phân công của Ủy ban thường vụ Quốc hội hoặc theo nhiệm vụ, quyền hạn được pháp luật quy định.
 
 Điều 35.8.LQ.63. Tài liệu phục vụ phiên họp Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300006300000000000000000
+1. Ủy ban thường vụ Quốc hội chỉ xem xét những vấn đề trong chương trình phiên họp khi có đầy đủ các văn bản cần thiết.
 
-**ID:** dk_00059620
-
----
-
-
-### Điều 35.8.LQ.64. Nhiệm vụ, quyền hạn của Chủ tịch Quốc hội
+2. Các tài liệu phục vụ phiên họp Ủy ban thường vụ Quốc hội phải được gửi đến các thành viên Ủy ban thường vụ Quốc hội chậm nhất là 05 ngày trước ngày bắt đầu phiên họp. Trong trường hợp phiên họp được triệu tập theo quy định tại khoản 2 Điều 61 của Luật này thì tài liệu phải được gửi đến các thành viên Ủy ban thường vụ Quốc hội chậm nhất là 02 ngày trước ngày bắt đầu phiên họp.
 
 Điều 35.8.LQ.64. Nhiệm vụ, quyền hạn của Chủ tịch Quốc hội
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300006400000000000000000
+1. Chủ tọa các phiên họp của Quốc hội, bảo đảm thi hành các quy định về hoạt động của đại biểu Quốc hội, các quy định về kỳ họp Quốc hội; ký chứng thực Hiến pháp, luật, nghị quyết của Quốc hội.
 
-**ID:** dk_00059621
+2. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội; chỉ đạo việc chuẩn bị dự kiến chương trình, triệu tập và chủ tọa các phiên họp của Ủy ban thường vụ Quốc hội; ký pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội.
 
----
+3. Chủ tọa hội nghị đại biểu Quốc hội hoạt động chuyên trách và các hội nghị khác do Ủy ban thường vụ Quốc hội tổ chức.
 
+4. Triệu tập và chủ tọa hội nghị Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội bàn chương trình hoạt động của Quốc hội, của Hội đồng dân tộc và các Ủy ban của Quốc hội; tham dự phiên họp của Hội đồng dân tộc và các Ủy ban của Quốc hội khi cần thiết.
 
-### Điều 35.8.LQ.65. Nhiệm vụ, quyền hạn của các Phó Chủ tịch Quốc hội
+5. Giữ quan hệ với các đại biểu Quốc hội.
+
+6. Chỉ đạo việc thực hiện kinh phí hoạt động của Quốc hội.
+
+7. Chỉ đạo và tổ chức việc thực hiện công tác đối ngoại của Quốc hội; thay mặt Quốc hội trong quan hệ đối ngoại của Quốc hội; lãnh đạo hoạt động của đoàn Quốc hội Việt Nam trong các tổ chức liên nghị viện thế giới và khu vực.
 
 Điều 35.8.LQ.65. Nhiệm vụ, quyền hạn của các Phó Chủ tịch Quốc hội
 
-**Chỉ mục:** 65
+(Điều 65 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000300006500000000000000000
+Các Phó Chủ tịch Quốc hội giúp Chủ tịch Quốc hội làm nhiệm vụ theo sự phân công của Chủ tịch. Khi Chủ tịch Quốc hội vắng mặt thì một Phó Chủ tịch Quốc hội được Chủ tịch ủy nhiệm thay mặt thực hiện nhiệm vụ, quyền hạn của Chủ tịch Quốc hội.
 
-**ID:** dk_00059622
+Chương IV
 
----
-
-
-### Điều 35.8.LQ.66. Hội đồng dân tộc, các Ủy ban của Quốc hội
+HỘI ĐỒNG DÂN TỘC VÀ CÁC ỦY BAN CỦA QUỐC HỘI
 
 Điều 35.8.LQ.66. Hội đồng dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400006600000000000000000
+1. Hội đồng dân tộc, các Ủy ban của Quốc hội là các cơ quan của Quốc hội, do Quốc hội quyết định thành lập trên cơ sở đề nghị của Ủy ban thường vụ Quốc hội để thực hiện chức năng hoạt động thường xuyên quy định tại Điều 68a của Luật này, chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì báo cáo công tác trước Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059624
+2. Quốc hội thành lập Ủy ban lâm thời của Quốc hội trong trường hợp cần thiết theo quy định tại Điều 88 và Điều 89 của Luật này.
 
----
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.88. Thành lập Ủy ban lâm thời; Điều 35.8.LQ.89. Cơ cấu tổ chức, nhiệm vụ, quyền hạn của Ủy ban lâm thời)
 
+Điều 35.8.NQ.23.1. Các cơ quan của Quốc hội
 
-### Điều 35.8.NQ.23.1. Các cơ quan của Quốc hội
+(Điều 1 Nghị quyết số 178/2025/QH15 Về việc tổ chức các cơ quan của Quốc hội ngày 18/02/2025 của Quốc hội, có hiệu lực thi hành kể từ ngày 18/02/2025 )
 
-*Nội dung chưa có sẵn*
+1. Các cơ quan của Quốc hội gồm:
 
-**Chỉ mục:** 1
+a) Hội đồng Dân tộc;
 
-**Mã phân cấp:** 350080000000000040000660000000000000000000102902401780000100
+b) Ủy ban Pháp luật và Tư pháp;
 
-**ID:** dk_00059625
+c) Ủy ban Kinh tế và Tài chính;
 
----
+d) Ủy ban Quốc phòng, An ninh và Đối ngoại;
 
+đ) Ủy ban Văn hóa và Xã hội;
 
-### Điều 35.8.LQ.67. Cơ cấu tổ chức của Hội đồng dân tộc, Ủy ban của Quốc hội
+e) Ủy ban Khoa học, Công nghệ và Môi trường;
+
+g) Ủy ban Công tác đại biểu;
+
+h) Ủy ban Dân nguyện và Giám sát.
+
+2. Ủy ban Thường vụ Quốc hội quy định nhiệm vụ, quyền hạn cụ thể và cơ cấu tổ chức của các cơ quan quy định tại khoản 1 Điều này, bảo đảm phân định rõ phạm vi lĩnh vực phụ trách và bao quát toàn bộ các nhiệm vụ, quyền hạn của các cơ quan theo quy định hiện hành.
 
 Điều 35.8.LQ.67. Cơ cấu tổ chức của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 67
+(Điều 67 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400006700000000000000000
+1. Hội đồng dân tộc gồm có Chủ tịch, các Phó Chủ tịch, các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng dân tộc và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng dân tộc. Ủy ban của Quốc hội gồm có Chủ nhiệm, các Phó Chủ nhiệm, các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Ủy ban và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Ủy ban.
 
-**ID:** dk_00059626
+2. Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội do Quốc hội bầu. Các Phó Chủ tịch và các Ủy viên của Hội đồng dân tộc, các Phó Chủ nhiệm và các Ủy viên của Ủy ban do Ủy ban thường vụ Quốc hội phê chuẩn.
 
----
+3. Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội là bộ phận thường trực, làm việc thường xuyên giúp Hội đồng dân tộc, Ủy ban của Quốc hội giải quyết các công việc của Hội đồng, Ủy ban trong thời gian Hội đồng, Ủy ban không họp và thực hiện các nhiệm vụ, quyền hạn khác theo quy định và phân công của Ủy ban thường vụ Quốc hội, lãnh đạo Quốc hội.
 
+4. Hội đồng dân tộc, Ủy ban của Quốc hội có đơn vị chuyên môn, trực tiếp tham mưu, giúp việc Hội đồng, Ủy ban.
 
-### Điều 35.8.LQ.68. Nguyên tắc làm việc, nhiệm kỳ và trách nhiệm báo cáo của Hội đồng dân tộc, Ủy ban của Quốc hội
+5. Ủy ban thường vụ Quốc hội quy định về cơ cấu tổ chức, hoạt động, quy chế làm việc mẫu của Hội đồng dân tộc, các Ủy ban của Quốc hội; quy định về tổ chức, nhiệm vụ, quyền hạn cụ thể của đơn vị chuyên môn của Hội đồng dân tộc, Ủy ban của Quốc hội; quyết định biên chế và quy định chế độ, chính sách áp dụng đối với đội ngũ công chức giúp việc cho Hội đồng dân tộc, Ủy ban của Quốc hội phù hợp với tính chất đặc thù trong hoạt động của Quốc hội.
 
 Điều 35.8.LQ.68. Nguyên tắc làm việc, nhiệm kỳ và trách nhiệm báo cáo của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400006800000000000000000
+1. Hội đồng dân tộc, Ủy ban của Quốc hội làm việc theo chế độ tập thể, quyết định theo đa số kết hợp với đề cao trách nhiệm của Thường trực Hội đồng, Thường trực Ủy ban và vai trò điều hành của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban.
 
-**ID:** dk_00059627
+2. Nhiệm kỳ của Hội đồng dân tộc, Ủy ban của Quốc hội theo nhiệm kỳ Quốc hội.
 
----
+3. Tại kỳ họp cuối năm của Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội gửi báo cáo công tác của mình đến đại biểu Quốc hội và Ủy ban thường vụ Quốc hội. Tại kỳ họp cuối của mỗi khóa Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội gửi báo cáo tổng kết hoạt động nhiệm kỳ của mình đến đại biểu Quốc hội.
 
+Điều 35.8.NQ.27.1.
 
-### Điều 35.8.NQ.27.1.
+(Điều 1 Nghị quyết số 80/2025/UBTVQH15 Ban hành Quy chế làm việc mẫu
+của Hội đồng Dân tộc và các Ủy ban của Quốc hội ngày 06/06/2025 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 06/06/2025 )Ban hành kèm theo Nghị quyết này Quy chế làm việc mẫu của Hội đồng Dân tộc và các Ủy ban của Quốc hội.
 
-*Nội dung chưa có sẵn*
+80.2025.UBTVQH15_Quy che kem theo.docx
 
-**Chỉ mục:** 1
+Điều 35.8.NQ.27.2. 
 
-**Mã phân cấp:** 350080000000000040000680000000000000000000202913200800000100
+(Điều 2 Nghị quyết số 80/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 06/06/2025)
 
-**ID:** dk_00059628
+Hội đồng Dân tộc, các Ủy ban của Quốc hội, căn cứ vào Quy chế làm việc mẫu của Hội đồng Dân tộc và các Ủy ban của Quốc hội và quy định khác của pháp luật có liên quan, ban hành Quy chế làm việc phù hợp với nhiệm vụ, quyền hạn, đặc điểm, tình hình cụ thể của cơ quan mình.
 
----
-
-
-### Điều 35.8.NQ.27.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 350080000000000040000680000000000000000000202913200800000200
-
-**ID:** dk_00059629
-
----
-
-
-### Điều 35.8.LQ.68a. Chức năng, nhiệm vụ, quyền hạn của Hội đồng dân tộc, Ủy ban của Quốc hội
+Quá trình thực hiện, nếu có vướng mắc phát sinh hoặc có quy định, yêu cầu mới cần sửa đổi, bổ sung cho phù hợp thì Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội gửi ý kiến đến Thường trực Ủy ban Công tác đại biểu để tổng hợp và báo cáo Ủy ban Thường vụ Quốc hội xem xét, quyết định.
 
 Điều 35.8.LQ.68a. Chức năng, nhiệm vụ, quyền hạn của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 68a
+1. Hội đồng dân tộc, Ủy ban của Quốc hội thực hiện các chức năng sau đây:
 
-**Mã phân cấp:** 3500800000000000400006810000000000000000
+a) Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban thường vụ Quốc hội; thẩm tra các báo cáo, dự án, đề án khác thuộc lĩnh vực được giao phụ trách;
 
-**ID:** dk_00059630
+b) Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội; giám sát hoạt động của Chính phủ,           các bộ, cơ quan ngang bộ, các cơ quan nhà nước khác ở trung ương; giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, các cơ quan khác có thẩm quyền ban hành văn bản quy phạm pháp luật ở trung ương thuộc lĩnh vực được giao phụ trách;
 
----
+c) Kiến nghị các vấn đề thuộc phạm vi hoạt động của cơ quan mình;
 
+d) Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban thường vụ Quốc hội về lĩnh vực được giao phụ trách;
 
-### Điều 35.8.NQ.24.1. Hội đồng Dân tộc, các Ủy ban của Quốc hội
+đ) Thực hiện một số chức năng khác theo quy định của Quốc hội, Ủy ban thường vụ Quốc hội.
+
+2. Nhiệm vụ, quyền hạn cụ thể của Hội đồng dân tộc, các Ủy ban của Quốc hội do Ủy ban thường vụ Quốc hội quy định.
 
 Điều 35.8.NQ.24.1. Hội đồng Dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 1
+(Điều 1 Nghị quyết số 71/2025/UBTVQH15 Về nhiệm vụ, quyền hạn cụ thể và cơ cấu tổ chức của Hội đồng Dân tộc, các Ủy ban của Quốc hội ngày 18/02/2025 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 18/02/2025 )
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000100
+1. Hội đồng Dân tộc và các Ủy ban của Quốc hội là các cơ quan của Quốc hội, do Quốc hội quyết định thành lập, giải thể.
 
-**ID:** dk_00059631
+2. Hội đồng Dân tộc, các Ủy ban của Quốc hội có chức năng, nhiệm vụ, quyền hạn theo quy định của Hiến pháp, Luật Tổ chức Quốc hội, Nghị quyết này và các quy định khác của pháp luật có liên quan.
 
----
-
-
-### Điều 35.8.NQ.24.2. Cơ cấu tổ chức của Hội đồng Dân tộc, các Ủy ban của Quốc hội
+3. Nhiệm kỳ của Hội đồng Dân tộc, Ủy ban của Quốc hội theo nhiệm kỳ của Quốc hội.
 
 Điều 35.8.NQ.24.2. Cơ cấu tổ chức của Hội đồng Dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000200
+1. Hội đồng Dân tộc gồm Chủ tịch, các Phó Chủ tịch, các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc và các Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng Dân tộc.
 
-**ID:** dk_00059632
+Ủy ban của Quốc hội gồm Chủ nhiệm, các Phó Chủ nhiệm, các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Ủy ban và các Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Ủy ban.
 
----
+2. Thường trực Hội đồng Dân tộc gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc. Thường trực Ủy ban của Quốc hội gồm Chủ nhiệm, các Phó Chủ nhiệm và các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Ủy ban.
 
+3. Vụ chuyên môn của Hội đồng Dân tộc, Ủy ban của Quốc hội là tổ chức hành chính, có chức năng nghiên cứu, tham mưu, giúp việc, tổ chức phục vụ các hoạt động của Hội đồng, Ủy ban, Thường trực Hội đồng, Thường trực Ủy ban.
 
-### Điều 35.8.NQ.24.3. Nguyên tắc làm việc
+Điều 35.8.NQ.24.3. Nguyên tắc làm việc
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Chỉ mục:** 3
+1. Hội đồng Dân tộc, Ủy ban của Quốc hội làm việc theo chế độ tập thể kết hợp với đề cao trách nhiệm của Thường trực Hội đồng, Thường trực Ủy ban và vai trò điều hành của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban.
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000300
+2. Quyết định của Hội đồng Dân tộc, Ủy ban của Quốc hội phải được quá nửa tổng số thành viên biểu quyết tán thành. Việc biểu quyết của Hội đồng Dân tộc, Ủy ban của Quốc hội có thể bằng hình thức trực tiếp, trực tuyến hoặc bằng hình thức phù hợp khác theo quy định của Hội đồng, Ủy ban.
 
-**ID:** dk_00059633
-
----
-
-
-### Điều 35.8.NQ.24.4. Phiên họp toàn thể của Hội đồng Dân tộc, Ủy ban của Quốc hội
+3. Hoạt động của Hội đồng Dân tộc, Ủy ban của Quốc hội phải tuân thủ quy định của Hiến pháp và pháp luật, công khai, minh bạch, dân chủ, bảo đảm sự lãnh đạo, chỉ đạo của Đảng, Quốc hội, Ủy ban Thường vụ Quốc hội và Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội được phân công phụ trách; bảo đảm sự điều hành của Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội; tăng cường và phát huy trách nhiệm của Thường trực Hội đồng, Thường trực Ủy ban trong việc thực hiện nhiệm vụ của cơ quan thường trực.
 
 Điều 35.8.NQ.24.4. Phiên họp toàn thể của Hội đồng Dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 4
+(Điều 4 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000400
+1. Hội đồng Dân tộc, Ủy ban của Quốc hội tổ chức phiên họp toàn thể để thẩm tra dự án luật, pháp lệnh, nghị quyết, báo cáo, dự án, đề án khác trình Quốc hội, Ủy ban Thường vụ Quốc hội; xem xét, quyết định những vấn đề khác thuộc nhiệm vụ, quyền hạn của Hội đồng, Ủy ban.
 
-**ID:** dk_00059634
+Phiên họp toàn thể của Hội đồng Dân tộc, Ủy ban của Quốc hội phải có quá nửa tổng số thành viên của Hội đồng, Ủy ban tham dự.
 
----
+2. Thành viên của Hội đồng Dân tộc, Ủy ban của Quốc hội có trách nhiệm tham dự phiên họp của Hội đồng, Ủy ban theo triệu tập của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban; thảo luận và biểu quyết các vấn đề xem xét tại phiên họp; trường hợp không tham dự phiên họp thì phải có lý do chính đáng, phải báo cáo và được sự đồng ý của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban.
 
+3. Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội có quyền tham dự và phát biểu ý kiến chỉ đạo tại phiên họp của Hội đồng, Ủy ban.
 
-### Điều 35.8.NQ.24.5. Nhiệm vụ, quyền hạn cụ thể của Hội đồng Dân tộc
+4. Hội đồng Dân tộc, Ủy ban của Quốc hội có thể mời đại biểu Quốc hội không phải là thành viên của Hội đồng, Ủy ban mình, đại diện cơ quan, tổ chức hữu quan và chuyên gia tham gia hoạt động của Hội đồng, Ủy ban. Cơ quan, tổ chức hữu quan có trách nhiệm tạo điều kiện cho người được mời tham gia hoạt động của Hội đồng, Ủy ban.
+
+5. Khi Hội đồng Dân tộc họp bàn về chính sách dân tộc, Chủ tịch Hội đồng Dân tộc có thể mời đại diện của các dân tộc chưa có người đại diện trong Quốc hội nhiệm kỳ đó là đại biểu Hội đồng nhân dân tham dự.
 
 Điều 35.8.NQ.24.5. Nhiệm vụ, quyền hạn cụ thể của Hội đồng Dân tộc
 
-**Chỉ mục:** 5
+(Điều 5 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000500
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội thuộc lĩnh vực dân tộc và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059635
+2. Thẩm tra việc bảo đảm chính sách dân tộc trong các dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội trước khi trình Quốc hội, Ủy ban Thường vụ Quốc hội.
 
----
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ trong lĩnh vực Hội đồng phụ trách; giám sát việc thi hành chính sách dân tộc, chương trình, kế hoạch phát triển kinh tế - xã hội miền núi và vùng đồng bào dân tộc thiểu số.
 
+4. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ thuộc lĩnh vực Hội đồng phụ trách.
 
-### Điều 35.8.NQ.24.6. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Pháp luật và Tư pháp
+5. Nghiên cứu và kiến nghị với Quốc hội về công tác dân tộc; kiến nghị các vấn đề về việc thực hiện chính sách dân tộc của Nhà nước, các vấn đề liên quan đến tổ chức, hoạt động của các cơ quan hữu quan và những vấn đề khác có liên quan đến công tác dân tộc.
+
+6. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Hội đồng phụ trách.
+
+7. Có trách nhiệm tham gia ý kiến về việc ban hành quy định thực hiện chính sách dân tộc của Chính phủ.
+
+8. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.6. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Pháp luật và Tư pháp
 
-**Chỉ mục:** 6
+(Điều 6 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000600
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội thuộc lĩnh vực tổ chức bộ máy nhà nước, hành chính, dân sự, hình sự, tố tụng tư pháp, thi hành án, thi hành các biện pháp ngăn chặn, bổ trợ tư pháp, phòng, chống tham nhũng, tiêu cực, tương trợ tư pháp, dẫn độ, chuyển giao người đang chấp hành án phạt tù và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059636
+2. Chủ trì thẩm tra kiến nghị của Hội đồng Dân tộc, Ủy ban của Quốc hội, đề nghị của Chủ tịch nước, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức thành viên của Mặt trận hoặc của đại biểu Quốc hội về văn bản có dấu hiệu trái Hiến pháp.
 
----
+3. Chủ trì thẩm tra đề án về thành lập, bãi bỏ các Bộ, cơ quan ngang Bộ, cơ quan khác do Quốc hội thành lập; thẩm tra đề nghị về việc thành lập, giải thể các Tòa án nhân dân, Tòa án quân sự, Viện kiểm sát nhân dân, Viện kiểm sát quân sự, cơ quan an ninh điều tra quân khu và tương đương, cơ quan điều tra hình sự quân khu và tương đương, cơ quan điều tra hình sự khu vực; thẩm tra đề án thành lập, giải thể, nhập, chia đơn vị hành chính, điều chỉnh địa giới và đổi tên đơn vị hành chính; thẩm tra đề nghị của Chánh án Tòa án nhân dân tối cao về việc phê chuẩn bổ nhiệm, miễn nhiệm, cách chức Thẩm phán Tòa án nhân dân tối cao; thẩm tra đề nghị của Chủ tịch nước về việc đại xá.
 
+4. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong lĩnh vực Ủy ban phụ trách; giám sát việc phát hiện và xử lý hành vi tham nhũng, tiêu cực.
 
-### Điều 35.8.NQ.24.7. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Kinh tế và Tài chính
+5. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Hội đồng thẩm phán Tòa án nhân dân tối cao thuộc lĩnh vực Ủy ban phụ trách.
+
+6. Kiến nghị các vấn đề liên quan đến hoàn thiện tổ chức bộ máy nhà nước, các vấn đề về hành chính, dân sự, hình sự, tố tụng tư pháp, thi hành án, thi hành các biện pháp ngăn chặn, bổ trợ tư pháp, phòng, chống tham nhũng, tiêu cực, tương trợ tư pháp, dẫn độ, chuyển giao người đang chấp hành án phạt tù, bảo vệ Hiến pháp và pháp luật, bảo đảm tính thống nhất của hệ thống pháp luật và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
+
+7. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+8. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.7. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Kinh tế và Tài chính
 
-**Chỉ mục:** 7
+(Điều 7 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000700
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội thuộc lĩnh vực quản lý kinh tế, tài chính, tiền tệ, ngân sách nhà nước, đất đai, ngân hàng, hoạt động kinh doanh, kiểm toán nhà nước và các dự án khác do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059637
+2. Chủ trì thẩm tra chính sách cơ bản về tài chính quốc gia, tiền tệ quốc gia, ngân sách nhà nước, các chương trình, dự án, kế hoạch về mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
----
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước trong việc thực hiện dự toán ngân sách nhà nước, chương trình, dự án, kế hoạch về mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội, việc thực hiện chính sách kinh tế, tài chính, tiền tệ, ngân sách nhà nước và các nội dung khác thuộc lĩnh vực Ủy ban phụ trách.
 
+4. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước thuộc lĩnh vực Ủy ban phụ trách.
 
-### Điều 35.8.NQ.24.8. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Quốc phòng, An ninh và Đối ngoại
+5. Kiến nghị các vấn đề về quản lý kinh tế, tài chính, tiền tệ, ngân sách nhà nước, đất đai, ngân hàng, hoạt động kinh doanh, kiểm toán nhà nước, các vấn đề liên quan đến tổ chức, hoạt động của các cơ quan hữu quan và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
+
+6. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+7. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.8. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Quốc phòng, An ninh và Đối ngoại
 
-**Chỉ mục:** 8
+(Điều 8 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000800
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội thuộc lĩnh vực quốc phòng, an ninh, trật tự, an toàn xã hội, đối ngoại và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059638
+2. Thẩm tra việc bảo đảm yêu cầu về quốc phòng, an ninh trong các dự án luật, pháp lệnh, nghị quyết trước khi trình Quốc hội, Ủy ban Thường vụ Quốc hội; thẩm tra chính sách cơ bản về đối ngoại; chủ trì thẩm tra điều ước quốc tế thuộc thẩm quyền phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Quốc hội; thẩm tra đề nghị của Thủ tướng Chính phủ về việc phê chuẩn bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
----
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ trong việc thực hiện nhiệm vụ quốc phòng, an ninh, chính sách đối ngoại, việc kết hợp kinh tế với quốc phòng, an ninh và quốc phòng, an ninh với kinh tế trong chiến lược, quy hoạch, kế hoạch, chính sách, dự án, chương trình phát triển kinh tế - xã hội và trên từng địa bàn; giám sát hoạt động ký kết, gia nhập và thực hiện điều ước quốc tế, thỏa thuận quốc tế; giám sát việc thực hiện chính sách đối với người Việt Nam định cư ở nước ngoài và người nước ngoài tại Việt Nam và các nội dung khác thuộc lĩnh vực Ủy ban phụ trách.
 
+4. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ thuộc lĩnh vực Ủy ban phụ trách.
 
-### Điều 35.8.NQ.24.9. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Văn hóa và Xã hội
+5. Kiến nghị các vấn đề về quốc phòng, an ninh, trật tự, an toàn xã hội, các vấn đề về chính sách đối ngoại của Nhà nước, về quan hệ với Quốc hội các nước, các tổ chức liên nghị viện thế giới và khu vực, các vấn đề liên quan đến tổ chức, hoạt động của các cơ quan hữu quan và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
+
+6. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+7. Làm nhiệm vụ cơ quan đầu mối trong quan hệ ngoại giao với nghị viện các nước, các tổ chức liên nghị viện thế giới và khu vực mà Quốc hội Việt Nam là thành viên; giữ quan hệ với các Ủy ban phụ trách công tác đối ngoại của nghị viện các nước.
+
+8. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.9. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Văn hóa và Xã hội
 
-**Chỉ mục:** 9
+(Điều 9 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710000900
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội thuộc lĩnh vực văn hóa, tín ngưỡng, tôn giáo, giáo dục, thông tin, truyền thông, du lịch, thể thao, lao động, việc làm, y tế, dân số, an sinh xã hội, bình đẳng giới, thi đua, khen thưởng, phòng, chống tệ nạn xã hội, về người cao tuổi, thanh niên, trẻ em và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059639
+2. Thẩm tra việc lồng ghép vấn đề bình đẳng giới trong dự án luật, pháp lệnh, nghị quyết trước khi trình Quốc hội, Ủy ban Thường vụ Quốc hội.
 
----
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ trong việc thực hiện chính sách về văn hóa, tôn giáo, giáo dục, thông tin, truyền thông, du lịch, thể thao, lao động, việc làm, y tế, dân số, an sinh xã hội, bình đẳng giới, thi đua, khen thưởng, phòng, chống tệ nạn xã hội; giám sát việc thực hiện chính sách đối với người cao tuổi, thanh niên, trẻ em và các nội dung khác thuộc lĩnh vực Ủy ban phụ trách.
 
+4. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ thuộc lĩnh vực Ủy ban phụ trách.
 
-### Điều 35.8.NQ.24.10. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Khoa học, Công nghệ và Môi trường
+5. Kiến nghị các vấn đề liên quan đến chính sách về văn hóa, tín ngưỡng, tôn giáo, giáo dục, thông tin, truyền thông, du lịch, thể thao, lao động, việc làm, y tế, dân số, an sinh xã hội, bình đẳng giới, thi đua, khen thưởng, phòng, chống tệ nạn xã hội, chính sách đối với người cao tuổi, thanh niên, trẻ em, các vấn đề liên quan đến tổ chức, hoạt động của các cơ quan hữu quan và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
+
+6. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+7. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.10. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Khoa học, Công nghệ và Môi trường
 
-**Chỉ mục:** 10
+(Điều 10 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001000
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội thuộc lĩnh vực khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số, tài nguyên (trừ đất đai), môi trường, ứng phó với biến đổi khí hậu để phát triển bền vững và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059640
+2. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ trong lĩnh vực Ủy ban phụ trách.
 
----
+3. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ thuộc lĩnh vực Ủy ban phụ trách.
 
+4. Kiến nghị các vấn đề về khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số, tài nguyên (trừ đất đai), bảo vệ môi trường, ứng phó với biến đổi khí hậu để phát triển bền vững, các vấn đề liên quan đến tổ chức, hoạt động của các cơ quan hữu quan và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
 
-### Điều 35.8.NQ.24.11. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Công tác đại biểu
+5. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+6. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.11. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Công tác đại biểu
 
-**Chỉ mục:** 11
+(Điều 11 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001100
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội về bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân, về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu, phê chuẩn và các dự án khác do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059641
+2. Thẩm tra các tờ trình, đề án, dự án về cơ cấu, số lượng thành viên Chính phủ; việc giải tán Hội đồng nhân dân cấp tỉnh; về số lượng biên chế, chế độ, chính sách đối với đội ngũ cán bộ, công chức, viên chức thuộc thẩm quyền quyết định của Ủy ban Thường vụ Quốc hội và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
----
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ trong lĩnh vực Ủy ban phụ trách.
 
+4. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ thuộc lĩnh vực Ủy ban phụ trách.
 
-### Điều 35.8.NQ.24.12. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Dân nguyện và Giám sát
+5. Kiến nghị các vấn đề liên quan đến công tác tổ chức bầu cử; về công tác cán bộ; về tổ chức và hoạt động của các cơ quan của Quốc hội, các Đoàn đại biểu Quốc hội và đại biểu Quốc hội; chế độ, chính sách và các điều kiện bảo đảm khác đối với đại biểu Quốc hội, đại biểu Hội đồng nhân dân và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
+
+6. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+7. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NQ.24.12. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Dân nguyện và Giám sát
 
-**Chỉ mục:** 12
+(Điều 12 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001200
+1. Thẩm tra dự án luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội về trưng cầu ý dân, thực hiện dân chủ ở cơ sở, tiếp công dân, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của công dân, về hoạt động giám sát và các báo cáo, dự án, đề án khác thuộc lĩnh vực phụ trách hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội giao.
 
-**ID:** dk_00059642
+2. Chủ trì thẩm tra báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước về việc thực hiện các nghị quyết của Quốc hội, nghị quyết của Ủy ban Thường vụ Quốc hội về giám sát chuyên đề và chất vấn.
 
----
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; giám sát hoạt động của Chính phủ, các Bộ, cơ quan ngang Bộ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước trong lĩnh vực Ủy ban phụ trách; chủ trì giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của công dân gửi đến Quốc hội, Ủy ban Thường vụ Quốc hội, các cơ quan của Quốc hội.
 
+5. Giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước thuộc lĩnh vực Ủy ban phụ trách.
 
-### Điều 35.8.NL.2.52. Cơ quan giúp Ủy ban Thường vụ Quốc hội giám sát việc giải quyết, trả lời kiến nghị của cử tri
+6. Kiến nghị các vấn đề về tổ chức và nâng cao hiệu quả hoạt động giám sát của Quốc hội, về giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của công dân, các biện pháp cần thiết nhằm bảo vệ quyền, lợi ích hợp pháp của công dân, các vấn đề liên quan đến tổ chức, hoạt động của các cơ quan hữu quan và các vấn đề khác thuộc lĩnh vực Ủy ban phụ trách.
+
+7. Trình dự án luật, nghị quyết trước Quốc hội, dự án pháp lệnh, nghị quyết trước Ủy ban Thường vụ Quốc hội về lĩnh vực Ủy ban phụ trách.
+
+8. Thực hiện các nhiệm vụ khác theo phân công của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
 Điều 35.8.NL.2.52. Cơ quan giúp Ủy ban Thường vụ Quốc hội giám sát việc giải quyết, trả lời kiến nghị của cử tri
 
-**Chỉ mục:** 52
+(Điều 52 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 35008000000000004000068100000000000000000020290240071000120000202902600720005200
+Cơ quan phụ trách công tác dân nguyện có trách nhiệm giúp Ủy ban Thường vụ Quốc hội giám sát việc giải quyết, trả lời kiến nghị của cử tri thực hiện các nhiệm vụ sau đây:
 
-**ID:** dk_00059643
+1. Xây dựng, tổ chức triển khai chương trình, kế hoạch giám sát việc giải quyết, trả lời kiến nghị của cử tri; theo dõi, đôn đốc việc giải quyết, trả lời kiến nghị của cử tri.
 
----
+2. Xây dựng báo cáo giám sát kết quả giải quyết, trả lời kiến nghị của cử tri và dự thảo nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội về việc giải quyết, trả lời kiến nghị của cử tri.
 
+3. Tổng hợp đánh giá của Đoàn đại biểu Quốc hội về kết quả giải quyết, trả lời kiến nghị của cử tri.
 
-### Điều 35.8.NQ.24.13. Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng Dân tộc, các Ủy ban của Quốc hội
+4. Trong quá trình giúp Ủy ban Thường vụ Quốc hội tổ chức và tiến hành các hoạt động giám sát việc giải quyết, trả lời kiến nghị của cử tri, có trách nhiệm tổ chức các phiên làm việc, trao đổi, đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền cung cấp thông tin về việc giải quyết, trả lời kiến nghị của cử tri.
+
+Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết kiến nghị của cử tri có trách nhiệm tham gia làm việc, trao đổi, cung cấp thông tin về việc giải quyết, trả lời kiến nghị của cử tri.
 
 Điều 35.8.NQ.24.13. Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng Dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 13
+(Điều 13 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001300
+Hội đồng Dân tộc, các Ủy ban của Quốc hội, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
 
-**ID:** dk_00059644
+1. Tham gia thẩm tra nội dung liên quan đến lĩnh vực Hội đồng Dân tộc, Ủy ban của Quốc hội phụ trách trong các báo cáo, dự án, đề án do cơ quan khác của Quốc hội chủ trì thẩm tra;
 
----
+2. Giám sát việc thực hiện các nhiệm vụ thuộc Định hướng lập pháp nhiệm kỳ của Quốc hội, công tác phòng, chống tham nhũng, tiêu cực, thực hành tiết kiệm, chống lãng phí, việc giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của công dân thuộc lĩnh vực Hội đồng, Ủy ban phụ trách;
 
+3. Tham gia với Ủy ban Pháp luật và Tư pháp thẩm tra kiến nghị về văn bản có dấu hiệu trái Hiến pháp; đề án về thành lập, bãi bỏ các Bộ, cơ quan ngang Bộ, cơ quan khác do Quốc hội thành lập;
 
-### Điều 35.8.NQ.24.14. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội
+4. Tham gia với Ủy ban Kinh tế và Tài chính thẩm tra chương trình, dự án, kế hoạch về mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước; việc thực hiện mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội; chính sách cơ bản về tài chính quốc gia, tiền tệ quốc gia; về ngân sách nhà nước;
+
+5. Tham gia với Ủy ban Quốc phòng, An ninh và Đối ngoại thẩm tra điều ước quốc tế thuộc thẩm quyền phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Quốc hội;
+
+6. Tham gia với Ủy ban Dân nguyện và Giám sát thẩm tra báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước về việc thực hiện các nghị quyết của Quốc hội, nghị quyết của Ủy ban Thường vụ Quốc hội về giám sát chuyên đề và chất vấn.
 
 Điều 35.8.NQ.24.14. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội
 
-**Chỉ mục:** 14
+(Điều 14 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001400
+1. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội giúp Hội đồng, Ủy ban giải quyết các công việc thường xuyên của Hội đồng, Ủy ban trong thời gian giữa các phiên họp của Hội đồng, Ủy ban và thực hiện các nhiệm vụ khác do Ủy ban Thường vụ Quốc hội, lãnh đạo Quốc hội phân công.
 
-**ID:** dk_00059645
+2. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội hoạt động theo chế độ tập thể, quyết định theo đa số kết hợp với vai trò điều hành của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban.
 
----
-
-
-### Điều 35.8.NQ.24.15. Nhiệm vụ, quyền hạn của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội trong việc thực hiện nhiệm vụ của cơ quan thường trực
+Khi quyết định các công việc thuộc thẩm quyền của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội thì Thường trực Hội đồng, Thường trực Ủy ban biểu quyết tập thể và quyết định theo đa số; các ý kiến khác được ghi nhận và thể hiện trong văn bản của Thường trực.
 
 Điều 35.8.NQ.24.15. Nhiệm vụ, quyền hạn của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội trong việc thực hiện nhiệm vụ của cơ quan thường trực
 
-**Chỉ mục:** 15
+(Điều 15 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001500
+1. Dự kiến chương trình, kế hoạch hoạt động của Hội đồng Dân tộc, Ủy ban của Quốc hội trình Hội đồng, Ủy ban xem xét, quyết định và tổ chức thực hiện chương trình, kế hoạch hoạt động, quyết định, kết luận của Hội đồng, Ủy ban.
 
-**ID:** dk_00059646
+2. Chuẩn bị nội dung và tài liệu phục vụ hoạt động của Hội đồng, Ủy ban; cung cấp thông tin, tư liệu cần thiết cho các thành viên của Hội đồng, Ủy ban. Căn cứ vào kết quả phiên họp của Hội đồng, Ủy ban, chuẩn bị báo cáo thẩm tra, các báo cáo khác của Hội đồng, Ủy ban trình Quốc hội, Ủy ban Thường vụ Quốc hội.
 
----
+3. Thẩm tra sơ bộ dự án luật, nghị quyết, báo cáo, dự án, đề án khác trong trường hợp chưa thể tổ chức phiên họp thẩm tra của Hội đồng, Ủy ban; tham gia phối hợp cùng cơ quan trình dự án trong quá trình tiếp thu, giải trình, chỉnh lý dự án để trình Ủy ban Thường vụ Quốc hội xem xét trước khi trình Quốc hội. Tham gia thẩm tra đối với nội dung thuộc trách nhiệm của Hội đồng, Ủy ban trong các báo cáo, dự án, đề án do Hội đồng Dân tộc, Ủy ban khác của Quốc hội chủ trì thẩm tra, trừ trường hợp dự án có nhiều nội dung quan trọng, còn có ý kiến khác nhau mà Thường trực Hội đồng, Thường trực Ủy ban thấy cần trình Hội đồng, Ủy ban họp thẩm tra. Thường trực Ủy ban Pháp luật và Tư pháp có trách nhiệm tham gia thẩm tra về tính hợp hiến, hợp pháp và tính thống nhất của hệ thống pháp luật trong các dự án luật, pháp lệnh, nghị quyết trước khi trình Quốc hội, Ủy ban Thường vụ Quốc hội.
 
+4. Tổ chức thực hiện sự chỉ đạo, điều hòa, phối hợp của Ủy ban Thường vụ Quốc hội đối với hoạt động của Hội đồng, Ủy ban; chuẩn bị ý kiến về những nội dung trong chương trình phiên họp Ủy ban Thường vụ Quốc hội khi được mời tham dự; tham gia các hoạt động của Hội đồng, Ủy ban khác và của các cơ quan, tổ chức hữu quan.
 
-### Điều 35.8.NQ.24.16. Nhiệm vụ, quyền hạn của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội trong việc giúp Quốc hội, Ủy ban Thường vụ Quốc hội theo phân công
+5. Tổ chức các đoàn giám sát, đoàn công tác của Hội đồng, Ủy ban.
+
+6. Quyết định việc thành lập các Tiểu ban hoạt động thường xuyên hoặc theo từng công việc, dự án cụ thể để nghiên cứu, chuẩn bị nội dung tham mưu về các vấn đề thuộc lĩnh vực Hội đồng, Ủy ban phụ trách. Trưởng Tiểu ban phải là thành viên của Hội đồng, Ủy ban, các thành viên khác không nhất thiết phải là thành viên của Hội đồng, Ủy ban hoặc đại biểu Quốc hội.
+
+7. Tiếp nhận, xử lý đơn thư khiếu nại, tố cáo, phản ánh của công dân gửi đến Hội đồng Dân tộc, Ủy ban của Quốc hội.
+
+8. Trực tiếp chỉ đạo công tác chuyên môn của Vụ chuyên môn.
+
+9. Định kỳ báo cáo với Hội đồng, Ủy ban về hoạt động của Thường trực Hội đồng, Thường trực Ủy ban.
+
+10. Phối hợp với Thường trực Ủy ban Công tác đại biểu trong công tác cán bộ và bảo đảm chế độ, chính sách đối với đại biểu Quốc hội là thành viên Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội. Trước khi hết nhiệm kỳ, dự kiến cơ cấu thành phần, số lượng thành viên Hội đồng, Ủy ban nhiệm kỳ tiếp theo và báo cáo Ủy ban Thường vụ Quốc hội.
+
+11. Phối hợp với Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội trong việc tham mưu, phục vụ kỳ họp Quốc hội, phiên họp Ủy ban Thường vụ Quốc hội.
+
+12. Giải quyết các công việc đột xuất khác của Hội đồng, Ủy ban và báo cáo Hội đồng, Ủy ban tại phiên họp gần nhất.
 
 Điều 35.8.NQ.24.16. Nhiệm vụ, quyền hạn của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội trong việc giúp Quốc hội, Ủy ban Thường vụ Quốc hội theo phân công
 
-**Chỉ mục:** 16
+(Điều 16 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001600
+Ngoài các nhiệm vụ, quyền hạn quy định tại Điều 15 của Nghị quyết này, Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội thực hiện các nhiệm vụ, quyền hạn theo phân công của Ủy ban Thường vụ Quốc hội, của Chủ tịch, Phó Chủ tịch Quốc hội và thực hiện một số nhiệm vụ, quyền hạn thường xuyên sau đây:
 
-**ID:** dk_00059647
+1. Thường trực Ủy ban Pháp luật và Tư pháp có trách nhiệm tham mưu, giúp Ủy ban Thường vụ Quốc hội xây dựng Định hướng lập pháp nhiệm kỳ của Quốc hội, ban hành và điều chỉnh kế hoạch triển khai thực hiện Định hướng lập pháp nhiệm kỳ của Quốc hội, quyết định, điều chỉnh và tổ chức triển khai thực hiện Chương trình lập pháp hằng năm của Quốc hội;
 
----
+2. Thường trực Ủy ban Quốc phòng, An ninh và Đối ngoại có trách nhiệm tham mưu, giúp Chủ tịch Quốc hội, Ủy ban Thường vụ Quốc hội thực hiện nhiệm vụ đại diện Quốc hội Việt Nam tham gia hoạt động đối ngoại với nghị viện các nước; điều phối hoạt động của Quốc hội Việt Nam tại các khuôn khổ, cơ chế hợp tác liên nghị viện;
 
+3. Thường trực Ủy ban Công tác đại biểu có trách nhiệm tham mưu, giúp Ủy ban Thường vụ Quốc hội thực hiện các công việc sau đây:
 
-### Điều 35.8.NQ.24.17. Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội
+a) Bảo đảm hồ sơ và tổ chức thực hiện các trình tự, thủ tục để Quốc hội bầu, miễn nhiệm, bãi nhiệm, phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức, lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm và các thủ tục khác về công tác cán bộ liên quan đến người giữ chức vụ trong các cơ quan nhà nước thuộc thẩm quyền xem xét, quyết định của Quốc hội;
+
+b) Chủ trì, phối hợp với Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội trình Ủy ban Thường vụ Quốc hội quyết định số lượng, phê chuẩn danh sách và việc cho thôi đối với Phó Chủ tịch Hội đồng, Phó Chủ nhiệm Ủy ban, Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng, Ủy ban và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng, Ủy ban.
+
+Bảo đảm hồ sơ và tổ chức thực hiện các trình tự, thủ tục để trình Ủy ban Thường vụ Quốc hội xem xét, quyết định việc phê chuẩn, bổ nhiệm, cách chức, cho thôi làm nhiệm vụ đối với các chức danh khác thuộc thẩm quyền của Ủy ban Thường vụ Quốc hội;
+
+c) Thực hiện công tác quản lý cán bộ đối với đại biểu Quốc hội hoạt động chuyên trách, việc thực hiện nhiệm vụ đại biểu, chế độ, chính sách và các điều kiện bảo đảm khác đối với đại biểu Quốc hội; việc bảo đảm thực hiện quyền miễn trừ của đại biểu Quốc hội, việc tạm đình chỉ, cho thôi làm nhiệm vụ đại biểu, khen thưởng, kỷ luật và các thủ tục khác về công tác cán bộ liên quan đến đại biểu Quốc hội;
+
+d) Chủ trì tham mưu, giúp Ủy ban Thường vụ Quốc hội thực hiện các thẩm quyền theo quy định của pháp luật về bầu cử, hướng dẫn công tác bầu cử, giám sát công tác bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân;
+
+đ) Chủ trì tham mưu thực hiện việc giám sát và hướng dẫn hoạt động của Hội đồng nhân dân;
+
+e) Tổ chức công tác đào tạo, bồi dưỡng đại biểu Quốc hội; bồi dưỡng kiến thức, kỹ năng hoạt động đối với đại biểu Hội đồng nhân dân. Tham mưu giúp Ủy ban Thường vụ Quốc hội tổ chức các hội nghị trao đổi kinh nghiệm hoạt động của Hội đồng nhân dân, Thường trực Hội đồng nhân dân;
+
+g) Thực hiện thủ tục và bảo đảm chế độ đối với đại biểu Quốc hội hoạt động chuyên trách ở trung ương và cán bộ thuộc thẩm quyền quản lý của Ủy ban Thường vụ Quốc hội nghỉ hưu hoặc chuyển công tác;
+
+4. Thường trực Ủy ban Dân nguyện và Giám sát có trách nhiệm tham mưu, giúp Ủy ban Thường vụ Quốc hội thực hiện các công việc sau đây:
+
+a) Chủ trì xây dựng chương trình giám sát hằng năm của Quốc hội, Ủy ban Thường vụ Quốc hội, kế hoạch của Ủy ban Thường vụ Quốc hội triển khai chương trình giám sát hằng năm của Quốc hội, Ủy ban Thường vụ Quốc hội và điều hòa hoạt động giám sát của các cơ quan của Quốc hội;
+
+b) Chủ trì, phối hợp với Thường trực Hội đồng Dân tộc, Thường trực Ủy ban khác của Quốc hội, các Đoàn đại biểu Quốc hội, đại biểu Quốc hội đề xuất nội dung, tổ chức hoạt động chất vấn và trả lời chất vấn tại kỳ họp Quốc hội và phiên họp của Ủy ban Thường vụ Quốc hội; theo dõi, đôn đốc, tổng hợp việc trả lời chất vấn bằng văn bản của người được chất vấn;
+
+c) Tiếp nhận, xử lý đơn thư, việc giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của công dân gửi đến Quốc hội, Ủy ban Thường vụ Quốc hội; tổ chức công tác tiếp công dân của Quốc hội, các cơ quan của Quốc hội, đại biểu Quốc hội; đại diện cho các cơ quan của Quốc hội thực hiện tiếp công dân thường xuyên tại Trụ sở tiếp công dân ở trung ương và địa điểm tiếp công dân của Quốc hội;
+
+d) Tổng hợp, phân loại, chuyển kiến nghị của cử tri do các Đoàn đại biểu Quốc hội gửi đến thông qua hoạt động tiếp xúc cử tri của đại biểu Quốc hội và giám sát việc giải quyết, trả lời kiến nghị cử tri của cơ quan nhà nước có thẩm quyền, việc tiếp thu kiến nghị của cử tri và Nhân dân góp ý vào các dự án luật, pháp lệnh, nghị quyết;
+
+đ) Chủ trì tham mưu tổ chức trưng cầu ý dân theo quyết định của Quốc hội;
+
+e) Tổng hợp kết quả hoạt động giám sát, công tác dân nguyện của Hội đồng Dân tộc, các Ủy ban của Quốc hội, các Đoàn đại biểu Quốc hội, đại biểu Quốc hội, định kỳ báo cáo Quốc hội, Ủy ban Thường vụ Quốc hội theo quy định.
 
 Điều 35.8.NQ.24.17. Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội
 
-**Chỉ mục:** 17
+(Điều 17 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001700
+1. Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội chịu trách nhiệm điều hành công việc của Hội đồng Dân tộc, Ủy ban của Quốc hội, của Thường trực Hội đồng, Thường trực Ủy ban; triệu tập, chủ trì các phiên họp của Hội đồng, Ủy ban, các phiên họp của Thường trực Hội đồng, Thường trực Ủy ban và thực hiện các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00059648
+a) Phối hợp với Thường trực Ủy ban Công tác đại biểu, đề nghị Ủy ban Thường vụ Quốc hội quyết định số lượng, phê chuẩn danh sách và việc cho thôi đối với các Phó Chủ tịch và các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng Dân tộc; các Phó Chủ nhiệm và các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Ủy ban và Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Ủy ban;
 
----
+b) Giữ liên hệ thường xuyên với các thành viên của Hội đồng, Ủy ban;
 
+c) Được tham dự các phiên họp Ủy ban Thường vụ Quốc hội; Chủ tịch Hội đồng Dân tộc được mời tham dự các phiên họp Chính phủ bàn việc thực hiện chính sách dân tộc;
 
-### Điều 35.8.NQ.24.18. Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội
+d) Thay mặt Hội đồng, Ủy ban giữ liên hệ với các cơ quan, tổ chức hữu quan;
+
+đ) Trực tiếp chỉ đạo hoạt động của Vụ chuyên môn của Hội đồng, Ủy ban;
+
+e) Quyết định việc tuyển dụng, điều động, biệt phái, luân chuyển, đào tạo, bồi dưỡng, quy hoạch, đánh giá xếp loại, thi đua, khen thưởng, kỷ luật đối với công chức; bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức, cho từ chức, cho thôi giữ chức vụ lãnh đạo, quản lý đối với Vụ trưởng, Phó Vụ trưởng và tương đương của Vụ chuyên môn; tạm đình chỉ công tác đối với Vụ trưởng Vụ chuyên môn trực thuộc;
+
+g) Quyết định việc sử dụng kinh phí phục vụ hoạt động của Hội đồng, Ủy ban;
+
+h) Phối hợp với Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội trong việc thực hiện chế độ, chính sách đối với công chức của Vụ chuyên môn của Hội đồng, Ủy ban; tổ chức công tác hành chính, văn thư, lưu trữ, bảo vệ và lễ tân phục vụ hoạt động của Hội đồng, Ủy ban; quản lý kinh phí, tài sản; bảo đảm cơ sở vật chất và các điều kiện khác bảo đảm cho hoạt động của Hội đồng, Ủy ban;
+
+i) Thực hiện nhiệm vụ, quyền hạn khác do Ủy ban Thường vụ Quốc hội giao.
+
+2. Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội tổ chức thảo luận tập thể với Phó Chủ tịch Hội đồng, Phó Chủ nhiệm Ủy ban về việc thực hiện nhiệm vụ quy định tại các điểm e, g và h khoản 1 Điều này trước khi quyết định và chịu trách nhiệm về quyết định của mình.
 
 Điều 35.8.NQ.24.18. Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội
 
-**Chỉ mục:** 18
+(Điều 18 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001800
+Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội có các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00059649
+1. Giúp Chủ tịch Hội đồng, Chủ nhiệm Ủy ban điều hành công việc của Hội đồng, Ủy ban, của Thường trực Hội đồng, Thường trực Ủy ban theo phân công của Chủ tịch, Chủ nhiệm; tham gia thực hiện nhiệm vụ, quyền hạn của Thường trực Hội đồng, Thường trực Ủy ban; tham gia thảo luận tập thể về việc thực hiện nhiệm vụ theo quy định tại khoản 2 Điều 17 của Nghị quyết này; trực tiếp chỉ đạo công tác chuyên môn của Vụ chuyên môn về những nội dung thuộc phạm vi được phân công; nghiên cứu, đề xuất với Chủ tịch Hội đồng, Chủ nhiệm Ủy ban và Thường trực Hội đồng, Thường trực Ủy ban về những vấn đề thuộc phạm vi được phân công và các vấn đề thuộc lĩnh vực Hội đồng, Ủy ban phụ trách;
 
----
+2. Được Chủ tịch Hội đồng, Chủ nhiệm Ủy ban ủy quyền thực hiện nhiệm vụ, quyền hạn của Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội khi Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội vắng mặt;
 
-
-### Điều 35.8.NQ.24.19. Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội
+3. Thực hiện nhiệm vụ, quyền hạn khác theo sự phân công của Thường trực Hội đồng, Thường trực Ủy ban, của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban.
 
 Điều 35.8.NQ.24.19. Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 19
+(Điều 19 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710001900
+Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội có các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00059650
+1. Tham gia và thực hiện các nhiệm vụ, quyền hạn của Thường trực Hội đồng, Thường trực Ủy ban và nhiệm vụ, quyền hạn quy định tại Điều 20 của Nghị quyết này;
 
----
+2. Trực tiếp nghiên cứu, biên tập và tham gia chỉ đạo Vụ chuyên môn nghiên cứu, chuẩn bị ý kiến về các dự án luật, pháp lệnh, nghị quyết và các nội dung khác thuộc phạm vi được phân công để báo cáo Hội đồng, Ủy ban, Thường trực Hội đồng, Thường trực Ủy ban;
 
-
-### Điều 35.8.NQ.24.20. Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng Dân tộc, Ủy ban của Quốc hội
+3. Thực hiện nhiệm vụ, quyền hạn khác theo sự phân công của Thường trực Hội đồng, Thường trực Ủy ban, của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban hoặc của Phó Chủ tịch Hội đồng, Phó Chủ nhiệm Ủy ban.
 
 Điều 35.8.NQ.24.20. Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng Dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 20
+(Điều 20 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710002000
+Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng Dân tộc, Ủy ban của Quốc hội có các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00059651
+1. Chủ động nghiên cứu, đề xuất với Chủ tịch Hội đồng, Chủ nhiệm Ủy ban, Thường trực Hội đồng, Thường trực Ủy ban về những vấn đề thuộc nhiệm vụ, quyền hạn của Hội đồng, Ủy ban;
 
----
+2. Tham gia đầy đủ các hoạt động của Hội đồng, Ủy ban khi được yêu cầu; phối hợp, hỗ trợ Thường trực Hội đồng, Thường trực Ủy ban triển khai các hoạt động tại địa phương, cơ quan nơi công tác, làm nhiệm vụ đại biểu; cung cấp thông tin về tình hình kinh tế - xã hội ở địa phương, lĩnh vực công tác để góp phần nâng cao hiệu quả hoạt động của Hội đồng, Ủy ban;
 
-
-### Điều 35.8.NQ.24.21. Tạm đình chỉ công tác, cho thôi giữ chức vụ đối với Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội và Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội
+3. Thực hiện nhiệm vụ, quyền hạn khác theo sự phân công của Thường trực Hội đồng, Thường trực Ủy ban, của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban.
 
 Điều 35.8.NQ.24.21. Tạm đình chỉ công tác, cho thôi giữ chức vụ đối với Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội và Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 21
+(Điều 21 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710002100
+1. Chủ tịch Quốc hội quyết định tạm đình chỉ công tác đối với Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội; Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội quyết định tạm đình chỉ công tác đối với Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng, Ủy ban trong các trường hợp theo quy định của cấp có thẩm quyền.
 
-**ID:** dk_00059652
+2. Ủy ban Thường vụ Quốc hội quyết định cho thôi giữ chức vụ Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội, Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng, Ủy ban trong các trường hợp sau đây:
 
----
+a) Được điều động, luân chuyển sang cơ quan, tổ chức, đơn vị khác hoặc được bố trí, phân công công tác khác;
 
+b) Thuộc trường hợp không được giữ chức vụ có liên quan sau khi được điều động, luân chuyển sang cơ quan, tổ chức, đơn vị khác hoặc được bố trí, phân công công tác khác theo quy định của pháp luật hoặc của cấp có thẩm quyền;
 
-### Điều 35.8.NQ.24.22. Vụ chuyên môn của Hội đồng Dân tộc, các Ủy ban của Quốc hội
+c) Vì lý do sức khỏe hoặc vì lý do khác mà không thể tiếp tục làm nhiệm vụ.
 
 Điều 35.8.NQ.24.22. Vụ chuyên môn của Hội đồng Dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 22
+(Điều 22 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710002200
+1. Các Vụ chuyên môn bao gồm:
 
-**ID:** dk_00059653
+a) Vụ Dân tộc trực thuộc Hội đồng Dân tộc;
 
----
+b) Vụ Pháp luật và Tư pháp trực thuộc Ủy ban Pháp luật và Tư pháp;
 
+c) Vụ Kinh tế và Tài chính trực thuộc Ủy ban Kinh tế và Tài chính;
 
-### Điều 35.8.NQ.24.23. Cơ cấu tổ chức của Vụ chuyên môn
+d) Vụ Quốc phòng, An ninh và Đối ngoại trực thuộc Ủy ban Quốc phòng, An ninh và Đối ngoại;
+
+đ) Vụ Văn hóa và Xã hội trực thuộc Ủy ban Văn hóa và Xã hội;
+
+e) Vụ Khoa học, Công nghệ và Môi trường trực thuộc Ủy ban Khoa học, Công nghệ và Môi trường;
+
+g) Vụ Công tác đại biểu trực thuộc Ủy ban Công tác đại biểu;
+
+h) Vụ Dân nguyện và Giám sát trực thuộc Ủy ban Dân nguyện và Giám sát.
+
+2. Vụ chuyên môn chấp hành sự lãnh đạo, chỉ đạo trực tiếp của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban, Phó Chủ tịch Hội đồng, Phó Chủ nhiệm Ủy ban và các Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng, Ủy ban.
 
 Điều 35.8.NQ.24.23. Cơ cấu tổ chức của Vụ chuyên môn
 
-**Chỉ mục:** 23
+(Điều 23 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710002300
+1. Vụ chuyên môn có Vụ trưởng, các Phó Vụ trưởng và các công chức.
 
-**ID:** dk_00059654
+2. Vụ chuyên môn hoạt động theo chế độ thủ trưởng kết hợp với chế độ chuyên viên.
 
----
-
-
-### Điều 35.8.NQ.24.24. Nhiệm vụ, quyền hạn của Vụ chuyên môn
+3. Số lượng Phó Vụ trưởng của Vụ chuyên môn do Ủy ban Thường vụ Quốc hội xem xét, quyết định theo đề nghị của Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội.
 
 Điều 35.8.NQ.24.24. Nhiệm vụ, quyền hạn của Vụ chuyên môn
 
-**Chỉ mục:** 24
+(Điều 24 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710002400
+1. Nghiên cứu, tham mưu, tổ chức phục vụ Hội đồng Dân tộc, Ủy ban của Quốc hội thực hiện các nhiệm vụ, quyền hạn của Hội đồng, Ủy ban quy định tại Chương II của Nghị quyết này.
 
-**ID:** dk_00059655
+2. Nghiên cứu, tham mưu, tổ chức phục vụ Thường trực Hội đồng, Thường trực Ủy ban thực hiện các nhiệm vụ, quyền hạn của Thường trực Hội đồng, Thường trực Ủy ban quy định tại Chương III của Nghị quyết này.
 
----
+3. Nghiên cứu, tham mưu, tổ chức phục vụ Chủ tịch Hội đồng, Chủ nhiệm Ủy ban và các thành viên khác của Hội đồng, Ủy ban thực hiện các nhiệm vụ, quyền hạn của Chủ tịch Hội đồng, Chủ nhiệm Ủy ban và các thành viên khác của Hội đồng, Ủy ban quy định tại Chương IV của Nghị quyết này.
 
+4. Ngoài nhiệm vụ, quyền hạn quy định tại các khoản 1, 2 và 3 Điều này, Vụ chuyên môn thực hiện các nhiệm vụ, quyền hạn sau đây:
 
-### Điều 35.8.NQ.24.25. Trách nhiệm của Văn phòng Quốc hội trong việc bảo đảm điều kiện hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội
+a) Theo dõi, tổng hợp, đánh giá tình hình thực hiện nhiệm vụ được giao, định kỳ hàng tuần, hàng tháng báo cáo Chủ tịch Hội đồng, Chủ nhiệm Ủy ban, Thường trực Hội đồng, Thường trực Ủy ban theo Quy chế làm việc của Hội đồng, Ủy ban và các quy định có liên quan;
+
+b) Phối hợp với đơn vị có liên quan của Văn phòng Quốc hội trong việc tiếp nhận, xử lý, phát hành, cập nhật, khai thác và quản lý văn bản, thông tin, cơ sở dữ liệu trên Cổng Thông tin điện tử của Quốc hội, hệ thống thông tin nội bộ của Quốc hội; lưu trữ văn bản, tài liệu, ấn phẩm phục vụ việc quản lý và khai thác; quản lý hồ sơ, tài liệu, nộp lưu trữ theo quy định của pháp luật;
+
+c) Phối hợp với đơn vị có liên quan của Văn phòng Quốc hội trong việc thực hiện chế độ, chính sách đối với cán bộ, công chức, thực hiện các nghiệp vụ về công tác tổ chức cán bộ, quản lý, khai thác hồ sơ, lý lịch công chức của Vụ chuyên môn của Hội đồng, Ủy ban;
+
+d) Phối hợp với đơn vị có liên quan của Văn phòng Quốc hội xây dựng dự toán kinh phí, thực hiện thủ tục thanh toán, quyết toán kinh phí phục vụ hoạt động của Hội đồng, Ủy ban theo quy định của pháp luật; triển khai các hoạt động có sử dụng kinh phí theo chỉ đạo của Thường trực Hội đồng, Thường trực Ủy ban, Chủ tịch Hội đồng, Chủ nhiệm Ủy ban theo quy định của pháp luật; báo cáo việc xây dựng dự toán và tình hình sử dụng kinh phí với Chủ tịch Hội đồng, Chủ nhiệm Ủy ban;
+
+đ) Phối hợp với đơn vị có liên quan của Văn phòng Quốc hội trong việc quản lý, sử dụng tài sản được giao phục vụ hoạt động của Hội đồng, Ủy ban, Thường trực Hội đồng, Thường trực Ủy ban và Vụ chuyên môn của Hội đồng, Ủy ban;
+
+e) Phối hợp với các Vụ chuyên môn khác của Hội đồng, Ủy ban, Văn phòng Quốc hội trong tham mưu, tổ chức phục vụ các hoạt động chung của Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, Ủy ban của Quốc hội, Thường trực Hội đồng, Thường trực Ủy ban, Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội;
+
+g) Các nhiệm vụ, quyền hạn khác do Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Phó Chủ tịch Hội đồng, Phó Chủ nhiệm Ủy ban, Thường trực Hội đồng, Thường trực Ủy ban giao.
 
 Điều 35.8.NQ.24.25. Trách nhiệm của Văn phòng Quốc hội trong việc bảo đảm điều kiện hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 25
+(Điều 25 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 350080000000000040000681000000000000000000202902400710002500
+1. Văn phòng Quốc hội có trách nhiệm bảo đảm điều kiện hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội và có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00059656
+a) Tổ chức công tác hành chính, quản trị, lễ tân, hợp tác quốc tế, thông tin, chuyển đổi số và các điều kiện bảo đảm khác phục vụ hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội, Thường trực Hội đồng, Thường trực Ủy ban và Vụ chuyên môn của Hội đồng, Ủy ban;
 
----
+b) Thực hiện nhiệm vụ đơn vị dự toán ngân sách nhà nước đối với khoản kinh phí được phân bổ cho Hội đồng Dân tộc, Ủy ban của Quốc hội; thực hiện nghiệp vụ về quản lý tài chính đối với khoản kinh phí được phân bổ của Hội đồng Dân tộc, các Ủy ban của Quốc hội trong khoản kinh phí hoạt động của Quốc hội; thực hiện nghiệp vụ về quản lý tài sản đối với các tài sản mà Hội đồng Dân tộc, các Ủy ban của Quốc hội, Thường trực Hội đồng, Thường trực Ủy ban và Vụ chuyên môn được trang bị theo quy định của pháp luật;
 
+c) Phối hợp với Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội tổ chức thực hiện chế độ, chính sách đối với công chức, thực hiện các nghiệp vụ về công tác tổ chức cán bộ đối với công chức của Vụ chuyên môn của Hội đồng, Ủy ban;
 
-### Điều 35.8.LQ.69. Nhiệm vụ, quyền hạn của Hội đồng dân tộc
+d) Bảo đảm cơ sở vật chất và các điều kiện khác cho hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội, Thường trực Hội đồng, Thường trực Ủy ban và Vụ chuyên môn của Hội đồng, Ủy ban.
+
+2. Văn phòng Quốc hội chủ trì, phối hợp với Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội xây dựng, trình Ủy ban Thường vụ Quốc hội ban hành quy định về quản lý công chức tại Vụ chuyên môn của Hội đồng, Ủy ban và việc bảo đảm điều kiện hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội.
 
 Điều 35.8.LQ.69. Nhiệm vụ, quyền hạn của Hội đồng dân tộc
 
-**Chỉ mục:** 69
-
-**Mã phân cấp:** 3500800000000000400006900000000000000000
-
-**ID:** dk_00059657
-
----
-
-
-### Điều 35.8.LQ.70. Nhiệm vụ, quyền hạn của Ủy ban pháp luật
+(Điều 69 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.70. Nhiệm vụ, quyền hạn của Ủy ban pháp luật
 
-**Chỉ mục:** 70
-
-**Mã phân cấp:** 3500800000000000400007000000000000000000
-
-**ID:** dk_00059658
-
----
-
-
-### Điều 35.8.LQ.71. Nhiệm vụ, quyền hạn của Ủy ban tư pháp
+(Điều 70 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.71. Nhiệm vụ, quyền hạn của Ủy ban tư pháp
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400007100000000000000000
-
-**ID:** dk_00059659
-
----
-
-
-### Điều 35.8.LQ.72. Nhiệm vụ, quyền hạn của Ủy ban kinh tế
+(Điều này có nội dung liên quan đến Điều 18.2.LQ.1. Phạm vi điều chỉnh)
 
 Điều 35.8.LQ.72. Nhiệm vụ, quyền hạn của Ủy ban kinh tế
 
-**Chỉ mục:** 72
-
-**Mã phân cấp:** 3500800000000000400007200000000000000000
-
-**ID:** dk_00059660
-
----
-
-
-### Điều 35.8.LQ.73. Nhiệm vụ, quyền hạn của Ủy ban tài chính, ngân sách
+(Điều 72 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.73. Nhiệm vụ, quyền hạn của Ủy ban tài chính, ngân sách
 
-**Chỉ mục:** 73
+(Điều 73 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400007300000000000000000
-
-**ID:** dk_00059661
-
----
-
-
-### Điều 35.8.LQ.74. Nhiệm vụ, quyền hạn của Ủy ban quốc phòng và an ninh
+(Điều này có nội dung liên quan đến Điều 26.3.LQ.1. Phạm vi điều chỉnh; Điều 28.2.LQ.1. Phạm vi điều chỉnh)
 
 Điều 35.8.LQ.74. Nhiệm vụ, quyền hạn của Ủy ban quốc phòng và an ninh
 
-**Chỉ mục:** 74
-
-**Mã phân cấp:** 3500800000000000400007400000000000000000
-
-**ID:** dk_00059662
-
----
-
-
-### Điều 35.8.LQ.75. Nhiệm vụ, quyền hạn của Ủy ban văn hóa, giáo dục
+(Điều 74 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.75. Nhiệm vụ, quyền hạn của Ủy ban văn hóa, giáo dục
 
-**Chỉ mục:** 75
-
-**Mã phân cấp:** 3500800000000000400007500000000000000000
-
-**ID:** dk_00059663
-
----
-
-
-### Điều 35.8.LQ.76. Nhiệm vụ, quyền hạn của Ủy ban xã hội
+(Điều 75 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.76. Nhiệm vụ, quyền hạn của Ủy ban xã hội
 
-**Chỉ mục:** 76
-
-**Mã phân cấp:** 3500800000000000400007600000000000000000
-
-**ID:** dk_00059664
-
----
-
-
-### Điều 35.8.LQ.77. Nhiệm vụ, quyền hạn của Ủy ban khoa học, công nghệ và môi trường
+(Điều 76 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.77. Nhiệm vụ, quyền hạn của Ủy ban khoa học, công nghệ và môi trường
 
-**Chỉ mục:** 77
-
-**Mã phân cấp:** 3500800000000000400007700000000000000000
-
-**ID:** dk_00059665
-
----
-
-
-### Điều 35.8.LQ.78. Nhiệm vụ, quyền hạn của Ủy ban đối ngoại
+(Điều 77 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.78. Nhiệm vụ, quyền hạn của Ủy ban đối ngoại
 
-**Chỉ mục:** 78
+(Điều 78 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400007800000000000000000
-
-**ID:** dk_00059666
-
----
-
-
-### Điều 35.8.LQ.79. Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng dân tộc, các Ủy ban của Quốc hội
+(Điều này có nội dung liên quan đến Điều 23.4.LQ.33. Thẩm quyền thẩm tra điều ước quốc tế; Điều 23.6.LQ.13. Trình tự, thủ tục ký kết thỏa thuận quốc tế nhân danh Quốc hội, cơ quan của Quốc hội, Tổng Thư ký Quốc hội, Văn phòng Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội, Kiểm toán nhà nước; Điều 23.6.LQ.31. Ký thỏa thuận quốc tế trong chuyến thăm của đoàn cấp cao; Điều 23.6.LQ.37. Trình tự, thủ tục rút gọn ký kết thỏa thuận quốc tế nhân danh Quốc hội; Điều 23.6.LQ.45. Trách nhiệm của Ủy ban Đối ngoại của Quốc hội)
 
 Điều 35.8.LQ.79. Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng dân tộc, các Ủy ban của Quốc hội
 
-**Chỉ mục:** 79
-
-**Mã phân cấp:** 3500800000000000400007900000000000000000
-
-**ID:** dk_00059667
-
----
-
-
-### Điều 35.8.LQ.80. Trách nhiệm của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc bảo vệ Hiến pháp
+(Điều 79 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.80. Trách nhiệm của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc bảo vệ Hiến pháp
 
-**Chỉ mục:** 80
+(Điều 80 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400008000000000000000000
+1a. Trong quá trình thẩm tra dự án luật, pháp lệnh, dự thảo nghị quyết, Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của dự án luật, pháp lệnh, dự thảo nghị quyết với hệ thống pháp luật.
 
-**ID:** dk_00059668
-
----
-
-
-### Điều 35.8.LQ.81. Yêu cầu báo cáo, cung cấp tài liệu, cử thành viên đến xem xét, xác minh
+1. Trong quá trình thực hiện nhiệm vụ, quyền hạn, Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm phát hiện văn bản có dấu hiệu trái Hiến pháp và kiến nghị cơ quan đã ban hành văn bản thực hiện việc sửa đổi, bổ sung, bãi bỏ văn bản đó; trường hợp cơ quan đã ban hành văn bản không thực hiện kiến nghị thì Hội đồng, Ủy ban có quyền kiến nghị Quốc hội, Ủy ban thường vụ Quốc hội xem xét, xử lý theo thẩm quyền.
 
 Điều 35.8.LQ.81. Yêu cầu báo cáo, cung cấp tài liệu, cử thành viên đến xem xét, xác minh
 
-**Chỉ mục:** 81
+(Điều 81 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000400008100000000000000000
+1. Hội đồng dân tộc, Ủy ban của Quốc hội có quyền yêu cầu thành viên Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước và cá nhân hữu quan báo cáo, cung cấp tài liệu về vấn đề cần thiết thuộc lĩnh vực Hội đồng, Ủy ban phụ trách. Người được yêu cầu có trách nhiệm đáp ứng yêu cầu của Hội đồng dân tộc, Ủy ban của Quốc hội.
 
-**ID:** dk_00059669
+2. Khi cần thiết, Hội đồng dân tộc, Ủy ban của Quốc hội cử thành viên của mình đến cơ quan, tổ chức hữu quan để xem xét, xác minh về vấn đề mà Hội đồng, Ủy ban quan tâm. Cơ quan, tổ chức hữu quan có trách nhiệm tạo điều kiện để thành viên của Hội đồng, Ủy ban thực hiện nhiệm vụ.
 
----
-
-
-### Điều 35.8.LQ.82. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.8.LQ.82. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 82
+(Điều 82 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000400008200000000000000000
+1. Hội đồng dân tộc, Ủy ban của Quốc hội có quyền yêu cầu thành viên Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước và cá nhân hữu quan giải trình về những vấn đề thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
 
-**ID:** dk_00059670
+2. Người được yêu cầu giải trình có trách nhiệm báo cáo, giải trình tại phiên họp của Hội đồng dân tộc, Ủy ban của Quốc hội.
 
----
+3. Hội đồng dân tộc, Ủy ban của Quốc hội phải kết luận về vấn đề được giải trình. Kết luận của Hội đồng, Ủy ban được gửi đến Ủy ban thường vụ Quốc hội, các đại biểu Quốc hội và các cơ quan, tổ chức hữu quan.
 
-
-### Điều 35.8.LQ.83. Phối hợp công tác với các cơ quan, tổ chức ở địa phương
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.8.LQ.83. Phối hợp công tác với các cơ quan, tổ chức ở địa phương
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000400008300000000000000000
+1. Hội đồng dân tộc, Ủy ban của Quốc hội giữ liên hệ với Hội đồng nhân dân và các ban tương ứng của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương.
 
-**ID:** dk_00059671
+2. Khi tiến hành các hoạt động tại địa phương, Hội đồng dân tộc, Ủy ban của Quốc hội thông báo cho Hội đồng nhân dân, Ủy ban nhân dân, Đoàn đại biểu Quốc hội tỉnh, thành phố trực thuộc Trung ương biết để phối hợp hoạt động.
 
----
-
-
-### Điều 35.8.LQ.84. Quan hệ đối ngoại và hợp tác quốc tế
+3. Hội đồng nhân dân, Ủy ban nhân dân, Đoàn đại biểu Quốc hội tỉnh, thành phố trực thuộc Trung ương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tham gia các hoạt động của Hội đồng dân tộc, Ủy ban của Quốc hội tại địa phương khi được yêu cầu.
 
 Điều 35.8.LQ.84. Quan hệ đối ngoại và hợp tác quốc tế
 
-**Chỉ mục:** 84
+(Điều 84 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400008400000000000000000
+1. Hội đồng dân tộc, Ủy ban của Quốc hội thực hiện quan hệ đối ngoại với cơ quan hữu quan của Quốc hội các nước, cơ quan hữu quan khác của nước ngoài, tổ chức quốc tế nhằm nghiên cứu, trao đổi kinh nghiệm chuyên môn, góp phần tăng cường quan hệ đối ngoại và hợp tác quốc tế theo chính sách đối ngoại của Nhà nước.
 
-**ID:** dk_00059672
-
----
-
-
-### Điều 35.8.LQ.85. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội
+2. Việc triển khai các hoạt động đối ngoại của Hội đồng dân tộc, các Ủy ban của Quốc hội được thực hiện theo quy định của Ủy ban thường vụ Quốc hội và cấp có thẩm quyền.
 
 Điều 35.8.LQ.85. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội
 
-**Chỉ mục:** 85
-
-**Mã phân cấp:** 3500800000000000400008500000000000000000
-
-**ID:** dk_00059673
-
----
-
-
-### Điều 35.8.LQ.86. Nhiệm vụ, quyền hạn của Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội
+(Điều 85 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.86. Nhiệm vụ, quyền hạn của Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội
 
-**Chỉ mục:** 86
-
-**Mã phân cấp:** 3500800000000000400008600000000000000000
-
-**ID:** dk_00059674
-
----
-
-
-### Điều 35.8.LQ.87. Phiên họp toàn thể của Hội đồng dân tộc, Ủy ban của Quốc hội
+(Điều 86 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
 Điều 35.8.LQ.87. Phiên họp toàn thể của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 87
+(Điều 87 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000400008700000000000000000
+Điều 35.8.LQ.88. Thành lập Ủy ban lâm thời
 
-**ID:** dk_00059675
+(Điều 88 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
----
+1. Ủy ban lâm thời được Quốc hội thành lập trong các trường hợp sau đây:
 
+a) Thẩm tra dự án luật, dự thảo nghị quyết hoặc báo cáo, dự án khác do Ủy ban thường vụ Quốc hội trình Quốc hội hoặc có nội dung liên quan đến lĩnh vực phụ trách của Hội đồng dân tộc và nhiều Ủy ban của Quốc hội;
 
-### Điều 35.8.LQ.88. Thành lập Ủy ban lâm thời
+b) Điều tra làm rõ về một vấn đề cụ thể khi xét thấy cần thiết.
 
-*Nội dung chưa có sẵn*
+2. Ủy ban thường vụ Quốc hội trình Quốc hội xem xét, quyết định thành lập Ủy ban lâm thời theo đề nghị của Hội đồng dân tộc, Ủy ban của Quốc hội hoặc ít nhất một phần ba tổng số đại biểu Quốc hội.
 
-**Chỉ mục:** 88
-
-**Mã phân cấp:** 3500800000000000400008800000000000000000
-
-**ID:** dk_00059676
-
----
-
-
-### Điều 35.8.LQ.89. Cơ cấu tổ chức, nhiệm vụ, quyền hạn của Ủy ban lâm thời
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.66. Hội đồng dân tộc, các Ủy ban của Quốc hội)
 
 Điều 35.8.LQ.89. Cơ cấu tổ chức, nhiệm vụ, quyền hạn của Ủy ban lâm thời
 
-**Chỉ mục:** 89
+(Điều 89 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000400008900000000000000000
+1. Ủy ban lâm thời gồm có Chủ nhiệm, các Phó Chủ nhiệm và các Ủy viên. Thành viên của Ủy ban lâm thời là đại biểu Quốc hội. Thành phần, số lượng thành viên, nhiệm vụ, quyền hạn cụ thể của Ủy ban lâm thời do Quốc hội quyết định theo đề nghị của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059677
+2. Ủy ban lâm thời báo cáo Ủy ban thường vụ Quốc hội, Quốc hội về kết quả thực hiện nhiệm vụ, quyền hạn được Quốc hội giao. Báo cáo kết quả điều tra của Ủy ban lâm thời phải được Hội đồng dân tộc hoặc Ủy ban của Quốc hội thẩm tra. Quốc hội xem xét và ra nghị quyết về kết quả điều tra của Ủy ban lâm thời.
 
----
+3. Ủy ban lâm thời chấm dứt hoạt động sau khi đã hoàn thành nhiệm vụ.
 
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.66. Hội đồng dân tộc, các Ủy ban của Quốc hội)
 
-### Điều 35.8.LQ.90. Kỳ họp Quốc hội
+Chương V
 
-*Nội dung chưa có sẵn*
+KỲ HỌP QUỐC HỘI
 
-**Chỉ mục:** 90
+Điều 35.8.LQ.90. Kỳ họp Quốc hội
 
-**Mã phân cấp:** 3500800000000000500009000000000000000000
+(Điều 90 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**ID:** dk_00059679
+1. Quốc hội họp công khai.
 
----
+Trong trường hợp cần thiết, theo đề nghị của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc của ít nhất một phần ba tổng số đại biểu Quốc hội, Quốc hội quyết định họp kín.
 
+2. Quốc hội họp thường lệ mỗi năm hai kỳ.
 
-### Điều 35.8.NQ.17.1.
+Kỳ họp không thường lệ của Quốc hội được tổ chức khi có yêu cầu của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội để kịp thời xem xét, quyết định các vấn đề cấp bách thuộc thẩm quyền của Quốc hội đáp ứng yêu cầu phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, đối ngoại.
 
-*Nội dung chưa có sẵn*
+3. Quốc hội thảo luận và quyết định các vấn đề thuộc nhiệm vụ, quyền hạn của mình tại kỳ họp Quốc hội theo thủ tục quy định tại Nội quy kỳ họp Quốc hội và các quy định khác của pháp luật có liên quan.
 
-**Chỉ mục:** 1
+Điều 35.8.NQ.17.1.
 
-**Mã phân cấp:** 350080000000000050000900000000000000000000102819800710000100
+(Điều 1 Nghị quyết số 71/2022/QH15, có hiệu lực thi hành kể từ ngày 15/03/2023, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị quyết số 208/2025/QH15 có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-**ID:** dk_00059680
+Ban hành kèm theo Nghị quyết này Nội quy kỳ họp Quốc hội.
 
----
+208.2025.QH15_Noi quy ky hop kem theo.docx
 
+208.2025.QH15_Sua doi
 
-### Điều 35.8.NQ.19.11a. Tổng hợp ý kiến của đại biểu Quốc hội đối với nội dung về công tác nhân sự
+71.2022.NQ.QH15_Noi quy ky hop kem theo.docx
 
 Điều 35.8.NQ.19.11a. Tổng hợp ý kiến của đại biểu Quốc hội đối với nội dung về công tác nhân sự
 
-**Chỉ mục:** 11a
+(Điều 11a Nghị quyết số 31/2023/UBTVQH15, có hiệu lực thi hành kể từ ngày 15/03/2023)
 
-**Mã phân cấp:** 35008000000000005000090000000000000000000010281980071000010000202828900310001101
+Trường hợp tổng hợp ý kiến của đại biểu Quốc hội đối với nội dung về công tác nhân sự, Thường trực Hội đồng Dân tộc, Ủy ban của Quốc hội thực hiện tổng hợp ý kiến của đại biểu Quốc hội đối với nội dung do cơ quan mình chủ trì thẩm tra hoặc nội dung thuộc lĩnh vực do cơ quan mình phụ trách. Báo cáo tổng hợp ý kiến của đại biểu Quốc hội được gửi đến Ủy ban Thường vụ Quốc hội, cơ quan trình và đại biểu Quốc hội theo thời hạn quy định tại khoản 4 Điều 27 của Nội quy kỳ họp Quốc hội.
 
-**ID:** dk_00059681
+Điều 35.8.LQ.91. Chương trình kỳ họp Quốc hội
 
----
+(Điều 91 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
+1. Căn cứ vào nghị quyết của Quốc hội, đề nghị của Chủ tịch nước, Thủ tướng Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Hội đồng dân tộc, Ủy ban của Quốc hội và đại biểu Quốc hội, Ủy ban thường vụ Quốc hội dự kiến chương trình kỳ họp Quốc hội.
 
-### Điều 35.8.LQ.91. Chương trình kỳ họp Quốc hội
+Ủy ban thường vụ Quốc hội khóa trước dự kiến chương trình kỳ họp thứ nhất của Quốc hội khóa mới.
 
-*Nội dung chưa có sẵn*
+2. Dự kiến chương trình kỳ họp Quốc hội được thông báo trên các phương tiện thông tin đại chúng chậm nhất là 15 ngày trước ngày khai mạc kỳ họp đối với kỳ họp thường lệ và chậm nhất là 04 ngày trước ngày khai mạc kỳ họp đối với kỳ họp không thường lệ.
 
-**Chỉ mục:** 91
+3. Quốc hội quyết định chương trình kỳ họp Quốc hội. Trong trường hợp cần thiết, căn cứ vào đề nghị của Chủ tịch nước, Thủ tướng Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Hội đồng dân tộc, Ủy ban của Quốc hội, đại biểu Quốc hội, Ủy ban thường vụ Quốc hội trình Quốc hội quyết định sửa đổi, bổ sung chương trình kỳ họp.
 
-**Mã phân cấp:** 3500800000000000500009100000000000000000
+Điều 35.8.LQ.92. Triệu tập kỳ họp Quốc hội
 
-**ID:** dk_00059682
+(Điều 92 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
----
+1. Ủy ban thường vụ Quốc hội quyết định triệu tập kỳ họp thường lệ của Quốc hội chậm nhất là 30 ngày và kỳ họp không thường lệ chậm nhất là 07 ngày trước ngày khai mạc kỳ họp.
 
+2. Kỳ họp thứ nhất của Quốc hội khóa mới do Ủy ban thường vụ Quốc hội khóa trước triệu tập chậm nhất là 60 ngày, kể từ ngày bầu cử đại biểu Quốc hội.
 
-### Điều 35.8.LQ.92. Triệu tập kỳ họp Quốc hội
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 92
-
-**Mã phân cấp:** 3500800000000000500009200000000000000000
-
-**ID:** dk_00059683
-
----
-
-
-### Điều 35.8.LQ.93. Người được mời tham dự kỳ họp Quốc hội; dự thính tại phiên họp Quốc hội
+3. Quyết định triệu tập kỳ họp cùng với dự kiến chương trình kỳ họp được gửi đến đại biểu Quốc hội.
 
 Điều 35.8.LQ.93. Người được mời tham dự kỳ họp Quốc hội; dự thính tại phiên họp Quốc hội
 
-**Chỉ mục:** 93
+(Điều 93 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000500009300000000000000000
+1. Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, thành viên Chính phủ, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan do Quốc hội thành lập không phải là đại biểu Quốc hội được mời dự các kỳ họp Quốc hội; có trách nhiệm tham dự các phiên họp toàn thể của Quốc hội khi thảo luận về những vấn đề có liên quan đến ngành, lĩnh vực mà mình phụ trách. Người được mời tham dự kỳ họp Quốc hội được phát biểu ý kiến về vấn đề thuộc ngành, lĩnh vực mà mình phụ trách nếu được Chủ tịch Quốc hội đồng ý hoặc có trách nhiệm phát biểu ý kiến theo yêu cầu của Chủ tịch Quốc hội.
 
-**ID:** dk_00059684
+2. Đại diện cơ quan nhà nước, cơ quan trung ương của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, đơn vị vũ trang nhân dân, cơ quan báo chí và khách quốc tế có thể được mời dự các phiên họp công khai của Quốc hội.
 
----
-
-
-### Điều 35.8.LQ.94. Các hình thức làm việc tại kỳ họp Quốc hội
+3. Công dân có thể được vào dự thính tại các phiên họp công khai của Quốc hội.
 
 Điều 35.8.LQ.94. Các hình thức làm việc tại kỳ họp Quốc hội
 
-**Chỉ mục:** 94
+(Điều 94 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000500009400000000000000000
+1. Các phiên họp toàn thể của Quốc hội.
 
-**ID:** dk_00059685
+2. Các phiên họp do Ủy ban thường vụ Quốc hội tổ chức để thảo luận, xem xét về các nội dung thuộc chương trình kỳ họp.
 
----
+3. Các phiên họp do Hội đồng dân tộc, các Ủy ban của Quốc hội tổ chức để thảo luận, xem xét về các nội dung trong chương trình kỳ họp thuộc lĩnh vực Hội đồng, Ủy ban phụ trách.
 
+4. Các phiên họp Đoàn đại biểu Quốc hội, Tổ đại biểu Quốc hội thảo luận về các nội dung thuộc chương trình kỳ họp.
 
-### Điều 35.8.LQ.95. Trách nhiệm chủ tọa các phiên họp Quốc hội
+5. Trong trường hợp cần thiết, Chủ tịch Quốc hội mời Trưởng đoàn đại biểu Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội và đại biểu Quốc hội khác có liên quan trao đổi về những vấn đề trình Quốc hội xem xét, quyết định.
+
+6. Ý kiến phát biểu của đại biểu Quốc hội tại phiên họp toàn thể, phiên họp Đoàn đại biểu Quốc hội, Tổ đại biểu Quốc hội, ý kiến góp ý bằng văn bản của đại biểu Quốc hội có giá trị như nhau và được tập hợp, tổng hợp đầy đủ để báo cáo Quốc hội.
 
 Điều 35.8.LQ.95. Trách nhiệm chủ tọa các phiên họp Quốc hội
 
-**Chỉ mục:** 95
+(Điều 95 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000500009500000000000000000
+1. Chủ tịch Quốc hội chủ tọa các phiên họp của Quốc hội, bảo đảm thực hiện nội dung chương trình kỳ họp và những quy định về kỳ họp Quốc hội. Các Phó Chủ tịch Quốc hội giúp Chủ tịch Quốc hội trong việc điều hành phiên họp theo sự phân công của Chủ tịch Quốc hội.
 
-**ID:** dk_00059686
+2. Tại kỳ họp thứ nhất của mỗi khóa Quốc hội, Chủ tịch Quốc hội khóa trước khai mạc và chủ tọa các phiên họp của Quốc hội cho đến khi Quốc hội bầu Chủ tịch Quốc hội khóa mới.
 
----
+Điều 35.8.LQ.96. Biểu quyết tại phiên họp toàn thể
 
+(Điều 96 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 35.8.LQ.96. Biểu quyết tại phiên họp toàn thể
+1. Quốc hội quyết định các vấn đề tại phiên họp toàn thể bằng biểu quyết. Đại biểu Quốc hội có quyền biểu quyết tán thành, không tán thành hoặc không biểu quyết.
 
-*Nội dung chưa có sẵn*
+2. Quốc hội quyết định áp dụng một trong các hình thức biểu quyết sau đây:
 
-**Chỉ mục:** 96
+a) Biểu quyết công khai;
 
-**Mã phân cấp:** 3500800000000000500009600000000000000000
+b) Bỏ phiếu kín.
 
-**ID:** dk_00059687
+3. Luật, nghị quyết của Quốc hội được thông qua khi có quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành, trừ trường hợp quy định tại khoản 3 Điều 2, khoản 4 Điều 4 và khoản 2 Điều 40 của Luật này.
 
----
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.2. Nhiệm kỳ Quốc hội; Điều 35.8.LQ.4. Làm Hiến pháp và sửa đổi Hiến pháp; Điều 35.8.LQ.40. Việc bãi nhiệm đại biểu Quốc hội)
 
+Điều 35.8.LQ.97. Tài liệu phục vụ kỳ họp Quốc hội
 
-### Điều 35.8.LQ.97. Tài liệu phục vụ kỳ họp Quốc hội
+(Điều 97 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Chủ tịch Quốc hội quyết định những tài liệu chính thức được sử dụng tại kỳ họp theo đề nghị của Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội.
 
-**Chỉ mục:** 97
+2. Các dự án luật, dự thảo nghị quyết, dự án khác phải được gửi đến đại biểu Quốc hội chậm nhất là 20 ngày trước ngày khai mạc kỳ họp Quốc hội; các tài liệu khác phải được gửi đến đại biểu Quốc hội chậm nhất là 10 ngày trước ngày khai mạc kỳ họp Quốc hội.
 
-**Mã phân cấp:** 3500800000000000500009700000000000000000
+3. Đại biểu Quốc hội có trách nhiệm thực hiện những quy định về việc sử dụng, bảo quản tài liệu trong kỳ họp.
 
-**ID:** dk_00059688
+4. Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định những tài liệu tham khảo phục vụ đại biểu Quốc hội tại kỳ họp.
 
----
+Chương VI
 
+BỘ MÁY GIÚP VIỆC VÀ KINH PHÍ HOẠT ĐỘNG CỦA QUỐC HỘI
 
-### Điều 35.8.LQ.98. Tổng thư ký Quốc hội
+Điều 35.8.LQ.98. Tổng thư ký Quốc hội
 
-*Nội dung chưa có sẵn*
+(Điều 98 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Chỉ mục:** 98
+Điều 35.8.NQ.25.1. 
 
-**Mã phân cấp:** 3500800000000000600009800000000000000000
+(Điều 1 Nghị quyết số 73/2025/UBTVQH15 Kết thúc hoạt động của Ban Thư ký, Quốc hội khóa XV ngày 07/03/2025 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 07/03/2025 )
 
-**ID:** dk_00059690
+Kết thúc hoạt động của Ban Thư ký, Quốc hội khóa XV.
 
----
+Điều 35.8.LQ.99. Văn phòng Quốc hội
 
+(Điều 99 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-### Điều 35.8.NQ.25.1.
+1. Văn phòng Quốc hội là cơ quan hành chính, tham mưu tổng hợp, phục vụ hoạt động của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội và đại biểu Quốc hội.
 
-*Nội dung chưa có sẵn*
+2. Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội là người đứng đầu Văn phòng Quốc hội, chịu trách nhiệm trước Quốc hội và Ủy ban thường vụ Quốc hội về hoạt động của Văn phòng Quốc hội.
 
-**Chỉ mục:** 1
+Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội là người phát ngôn của Quốc hội, Ủy ban thường vụ Quốc hội.
 
-**Mã phân cấp:** 350080000000000060000980000000000000000000202904100730000100
+3. Ủy ban thường vụ Quốc hội quy định nhiệm vụ, quyền hạn, cơ cấu tổ chức của Văn phòng Quốc hội; quyết định biên chế, quy định chế độ, chính sách áp dụng đối với đội ngũ cán bộ, công chức, viên chức, người lao động khác thuộc Văn phòng Quốc hội phù hợp với tính chất đặc thù trong hoạt động của Quốc hội.
 
-**ID:** dk_00059691
+Điều 35.8.NQ.21.1. 
 
----
+(Điều 1 Nghị quyết số 63/2025/UBTVQH15 Kết thúc hoạt động của Viện Nghiên cứu lập pháp, chuyển chức năng, nhiệm vụ về các cơ quan của Quốc hội, Văn phòng Quốc hội ngày 07/01/2025 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 07/01/2025 )
 
+1. Kết thúc hoạt động của Viện Nghiên cứu lập pháp thuộc Ủy ban Thường vụ Quốc hội kể từ ngày 15 tháng 01 năm 2025.
 
-### Điều 35.8.LQ.99. Văn phòng Quốc hội
+2. Chuyển chức năng, nhiệm vụ nghiên cứu khoa học, quản lý khoa học, cung cấp thông tin khoa học và Tạp chí Nghiên cứu lập pháp về Hội đồng Dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, phù hợp với chức năng, nhiệm vụ, phạm vi lĩnh vực phụ trách.
 
-*Nội dung chưa có sẵn*
+3. Giao Văn phòng Quốc hội tiếp nhận toàn bộ hồ sơ công chức, viên chức; tiếp nhận quản lý toàn bộ tài sản, hồ sơ tài liệu, con dấu, tài khoản của Viện Nghiên cứu lập pháp, trong đó, bao gồm công tác tài chính kế toán, thanh toán, quyết toán được thực hiện theo quy định của pháp luật; các nhiệm vụ nghiên cứu khoa học, các đề tài đang triển khai được bảo lưu cho đến khi có cơ quan tiếp nhận.
 
-**Chỉ mục:** 99
+Điều 35.8.NQ.21.2. 
 
-**Mã phân cấp:** 3500800000000000600009900000000000000000
+(Điều 2 Nghị quyết số 63/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/01/2025)
 
-**ID:** dk_00059692
+1. Văn phòng Quốc hội có trách nhiệm tiếp tục giải quyết các nhiệm vụ mà Viện Nghiên cứu lập pháp đang được giao thực hiện là cơ quan thường trực của Hội đồng Khoa học của Ủy ban Thường vụ Quốc hội, cơ quan chủ trì biên tập sách và hội thảo khoa học quốc gia kỷ niệm 80 năm Quốc hội Việt Nam, các nhiệm vụ liên quan đến việc kết thúc hoạt động của Viện Nghiên cứu lập pháp, đảm bảo các công việc không bị gián đoạn.
 
----
+2. Việc tiếp nhận, sắp xếp, bố trí công chức, viên chức của Viện Nghiên cứu lập pháp phải đảm bảo tinh gọn, hoạt động hiệu lực, hiệu quả; thực hiện các chế độ, chính sách theo quy định của pháp luật.
 
+Điều 35.8.NQ.22.1. 
 
-### Điều 35.8.NQ.21.1.
+(Điều 1 Nghị quyết số 64/2025/UBTVQH15 Kết thúc hoạt động của Truyền hình Quốc hội Việt Nam để chuyển chức năng, nhiệm vụ từ Truyền hình Quốc hội Việt Nam về Đài Truyền hình Việt Nam ngày 07/01/2025 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 07/01/2025 )
 
-*Nội dung chưa có sẵn*
+ 1. Kết thúc hoạt động của Truyền hình Quốc hội Việt Nam từ ngày 15 tháng 01 năm 2025 để chuyển chức năng, nhiệm vụ từ Truyền hình Quốc hội Việt Nam về Đài Truyền hình Việt Nam.
 
-**Chỉ mục:** 1
+ 2. Văn phòng Quốc hội tiếp tục duy trì hoạt động của Cổng Thông tin điện tử Quốc hội (Cổng Thông tin điện tử Quốc hội là đơn vị do Văn phòng Quốc hội thành lập trước thời điểm tiếp nhận Kênh Truyền hình Quốc hội, sau đó giao Truyền hình Quốc hội Việt Nam quản lý, thực hiện nhiệm vụ).Điều 35.8.NQ.22.2. 
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202898200630000100
+(Điều 2 Nghị quyết số 64/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/01/2025)
 
-**ID:** dk_00059693
+ 1. Văn phòng Quốc hội và Đài Truyền hình Việt Nam rà soát, nghiên cứu, thống nhất và báo cáo cấp có thẩm quyền để bàn giao chức năng, nhiệm vụ, cơ sở vật chất và nhân sự từ Truyền hình Quốc hội Việt Nam về Đài Truyền hình Việt Nam.
 
----
+ 2. Văn phòng Quốc hội chủ trì, phối hợp với Thường trực Hội đồng Dân tộc, Ủy ban của Quốc hội, Trưởng Ban thuộc Ủy ban Thường vụ Quốc hội tiếp tục sắp xếp, giải quyết chế độ, chính sách đối với viên chức và lao động của Truyền hình Quốc hội Việt Nam (số không chuyển sang Đài Truyền hình Việt Nam) theo đúng quy định.Điều 35.8.NL.2.15. Trách nhiệm của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội , Văn phòng Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
 
+(Điều 15 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được sửa đổi, bổ sung bởi Điều 1 của Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-### Điều 35.8.NQ.21.2.
+1. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội thông tin cho Đoàn đại biểu Quốc hội, đại biểu Quốc hội dự kiến chương trình, nội dung kỳ họp Quốc hội theo chỉ đạo của Ủy ban Thường vụ Quốc hội; kết quả kỳ họp Quốc hội, nội dung các chính sách luật, nghị quyết đã được Quốc hội quyết định tại kỳ họp; một số vấn đề phức tạp, nhạy cảm (nếu có) cần thống nhất trả lời ý kiến cử tri.
 
-*Nội dung chưa có sẵn*
+2. Văn phòng Quốc hội lập dự toán, phân bổ kinh phí phục vụ các hoạt động tiếp xúc cử tri của đại biểu Quốc hội, Đoàn đại biểu Quốc hội.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 350080000000000060000990000000000000000000202898200630000200
-
-**ID:** dk_00059694
-
----
-
-
-### Điều 35.8.NQ.22.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 350080000000000060000990000000000000000000202898200640000100
-
-**ID:** dk_00059695
-
----
-
-
-### Điều 35.8.NQ.22.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 350080000000000060000990000000000000000000202898200640000200
-
-**ID:** dk_00059696
-
----
-
-
-### Điều 35.8.NL.2.15. Trách nhiệm của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội , Văn phòng Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
-
-Điều 35.8.NL.2.15. Trách nhiệm của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội , Văn phòng Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 350080000000000060000990000000000000000000202902600720001500
-
-**ID:** dk_00059697
-
----
-
-
-### Điều 35.8.NQ.26.1. Chức năng của Văn phòng Quốc hội
+3. Văn phòng Quốc hội liên hệ và bố trí kinh phí phục vụ đại biểu Quốc hội chuyên trách ở trung ương tiếp xúc cử tri nơi cư trú, nơi làm việc, tiếp xúc cử tri theo chuyên đề, lĩnh vực, đối tượng, địa bàn tại các tỉnh, thành phố trực thuộc trung ương ngoài địa phương nơi đại biểu ứng cử hoặc chuyển sinh hoạt đến khi đại biểu Quốc hội yêu cầu.
 
 Điều 35.8.NQ.26.1. Chức năng của Văn phòng Quốc hội
 
-**Chỉ mục:** 1
+(Điều 1 Nghị quyết số 74/2025/UBTVQH15 Về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Quốc hội ngày 07/03/2025 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 07/03/2025 )
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000100
+ Văn phòng Quốc hội là cơ quan hành chính, tham mưu tổng hợp, phục vụ hoạt động của Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội và đại biểu Quốc hội.Điều 35.8.NQ.26.2. Nhiệm vụ và quyền hạn của Văn phòng Quốc hội
 
-**ID:** dk_00059698
+(Điều 2 Nghị quyết số 74/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/03/2025)
 
----
+ 1. Tổ chức phục vụ các kỳ họp Quốc hội, phiên họp Ủy ban Thường vụ
+ Quốc hội; tổ chức thực hiện chương trình công tác và các hoạt động khác của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
+ 2. Tham mưu với Chủ tịch Quốc hội, Ủy ban Thường vụ Quốc hội về dự kiến chương trình làm việc của Quốc hội, Ủy ban Thường vụ Quốc hội; về quy trình, thủ tục thực hiện hoạt động của Quốc hội, Ủy ban Thường vụ Quốc hội; tổ chức các nghiệp vụ thư ký kỳ họp Quốc hội, phiên họp Ủy ban Thường vụ Quốc hội; Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội chủ trì, phối hợp với Thường trực Hội đồng Dân tộc, các Ủy ban của Quốc hội tổ chức tập hợp, tổng hợp ý kiến của các đại biểu Quốc hội tại kỳ họp Quốc hội.
 
-### Điều 35.8.NQ.26.2. Nhiệm vụ và quyền hạn của Văn phòng Quốc hội
+ 3. Tham mưu, phục vụ hoạt động của Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội, các Ủy viên Ủy ban Thường vụ Quốc hội; phối hợp với Thường trực Hội đồng Dân tộc, các Ủy ban của Quốc hội trong tổ chức phục vụ các hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội.
 
-Điều 35.8.NQ.26.2. Nhiệm vụ và quyền hạn của Văn phòng Quốc hội
+ 4. Tham mưu, giúp Ủy ban Thường vụ Quốc hội trong việc điều hành công việc chung của Quốc hội, bảo đảm việc thực hiện Nội quy kỳ họp Quốc hội, Quy chế làm việc của Ủy ban Thường vụ Quốc hội.
 
-**Chỉ mục:** 2
+ 5. Giúp Ủy ban Thường vụ Quốc hội trong việc phối hợp công tác với
+ Chủ tịch nước, Chính phủ, Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và các cơ quan, tổ chức có liên quan.
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000200
+ 6. Tham mưu, giúp Ủy ban Thường vụ Quốc hội chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội.
 
-**ID:** dk_00059699
+ 7. Đề xuất cải tiến chế độ làm việc của Quốc hội, Ủy ban Thường vụ
+ Quốc hội theo chỉ đạo của Ủy ban Thường vụ Quốc hội, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội.
 
----
+ 8. Chuẩn bị các báo cáo công tác của Quốc hội, Ủy ban Thường vụ Quốc hội; các báo cáo do Ủy ban Thường vụ Quốc hội, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội giao.
 
+ 9. Đôn đốc việc chuẩn bị và bảo đảm thủ tục trình Quốc hội, Ủy ban Thường vụ Quốc hội các dự án, đề án, báo cáo, tờ trình của các cơ quan và tổ chức có liên quan.
 
-### Điều 35.8.NQ.26.3. Thành lập, tổ chức lại, giải thể các vụ, cục, đơn vị
+ 10. Phối hợp với Thường trực Hội đồng Dân tộc, các Ủy ban của Quốc hội, các cơ quan, tổ chức có liên quan xây dựng dự thảo nghị quyết về các nội dung do Quốc hội, Ủy ban Thường vụ Quốc hội giao. Tổ chức công bố các nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
-Điều 35.8.NQ.26.3. Thành lập, tổ chức lại, giải thể các vụ, cục, đơn vị
+ 11. Phối hợp với Văn phòng Hội đồng bầu cử quốc gia phục vụ công tác bầu cử đại biểu Quốc hội và Hội đồng nhân dân các cấp theo phân công.
 
-**Chỉ mục:** 3
+ 12. Quản lý công tác thông tin, báo chí, xuất bản, thư viện, bảo tàng của
+ Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội và Văn phòng Quốc hội. Giúp Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng
+ Quốc hội thực hiện nhiệm vụ người phát ngôn của Quốc hội, Ủy ban Thường vụ Quốc hội.
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000300
+ 13. Xây dựng chiến lược, định hướng chuyển đổi số và thống nhất quản lý, đẩy mạnh ứng dụng công nghệ số; xây dựng và phát triển Quốc hội số phục vụ hoạt động của Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội và Văn phòng Quốc hội.
 
-**ID:** dk_00059700
+ 14. Quản lý, vận hành, đăng tải thông tin và tổ chức sản xuất các nội dung số phù hợp để đăng tải trên các nền tảng của Cổng Thông tin điện tử Quốc hội về hoạt động của Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng bầu cử Quốc gia, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các Đoàn đại biểu Quốc hội.
 
----
+ 15. Quản lý kinh phí hoạt động của Quốc hội. Tham mưu, giúp Ủy ban Thường vụ Quốc hội quyết định chế độ chi tiêu, chính sách tài chính đối với kinh phí hoạt động của Quốc hội; quyết định kinh phí hoạt động của Đoàn đại biểu Quốc hội. Chịu trách nhiệm quản lý, bảo đảm cơ sở vật chất, phương tiện, kỹ thuật và các điều kiện khác cho hoạt động của Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội; phối hợp với Hội đồng Dân tộc, các Ủy ban của Quốc hội trong công tác tài chính kế toán phục vụ hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội.
 
+ 16. Tổ chức công tác hành chính, văn thư, lưu trữ, bảo vệ và lễ tân của
+ Quốc hội, Ủy ban Thường vụ Quốc hội và Văn phòng Quốc hội; chủ trì, phối hợp với Thường trực Hội đồng Dân tộc, Ủy ban của Quốc hội thực hiện công tác hành chính, văn thư, lưu trữ, bảo vệ và lễ tân của Hội đồng Dân tộc, các Ủy ban của
+ Quốc hội.
 
-### Điều 35.8.NQ.26.4. Cơ cấu tổ chức của Văn phòng Quốc hội
+ 17. Ban hành văn bản thuộc thẩm quyền; hợp nhất văn bản quy phạm pháp luật, pháp điển đối với quy phạm pháp luật trong văn bản quy phạm pháp luật do Quốc hội, Ủy ban Thường vụ Quốc hội ban hành theo quy định của pháp luật; tư vấn, hỗ trợ đại biểu Quốc hội trong việc đề xuất, xây dựng luật, pháp lệnh, nghị quyết theo quy định để trình Ủy ban Thường vụ Quốc hội theo yêu cầu của đại biểu Quốc hội.
 
-Điều 35.8.NQ.26.4. Cơ cấu tổ chức của Văn phòng Quốc hội
+ 18. Thực hiện việc tuyển dụng, quản lý và sử dụng công chức, viên chức và lao động hợp đồng thuộc Văn phòng Quốc hội.
 
-**Chỉ mục:** 4
+ 19. Thực hiện công tác kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm, phòng, chống tham nhũng, tiêu cực; thực hành tiết kiệm, chống lãng phí theo quy định của pháp luật.
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000400
+ 20. Thực hiện công tác quản lý khoa học, tổ chức hoạt động nghiên cứu khoa học và cung cấp thông tin, dịch vụ nghiên cứu phục vụ hoạt động của Quốc hội, Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội, Văn phòng
+ Quốc hội và đại biểu Quốc hội.
 
-**ID:** dk_00059701
+ 21. Phối hợp với Bộ Ngoại giao, các cơ quan có liên quan triển khai các hoạt động đối ngoại của Chủ tịch Quốc hội và các Phó Chủ tịch Quốc hội; chủ trì, phối hợp với Hội đồng Dân tộc, các Ủy ban của Quốc hội và các cơ quan có liên quan xây dựng, triển khai chương trình hoạt động đối ngoại hằng năm của Hội đồng Dân tộc, các Ủy ban của Quốc hội, các Nhóm Nghị sĩ hữu nghị, Nhóm Nữ đại biểu Quốc hội, Nhóm Đại biểu Quốc hội trẻ, Văn phòng Quốc hội, Kiểm toán Nhà nước; xây dựng báo cáo đối ngoại hằng năm của Quốc hội; tổ chức thực hiện công tác đối ngoại của Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội, các đại biểu Quốc hội và Văn phòng Quốc hội; thực hiện các hoạt động hợp tác quốc tế của Văn phòng Quốc hội.
 
----
+ 22. Thực hiện nhiệm vụ khác theo quy định của pháp luật hoặc do Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội giao.Điều 35.8.NQ.26.3. Thành lập, tổ chức lại, giải thể các vụ, cục, đơn vị
 
+(Điều 3 Nghị quyết số 74/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/03/2025)
 
-### Điều 35.8.NQ.26.5. Công tác chỉ đạo, điều hành
+ 1. Văn phòng Quốc hội được tổ chức các vụ, cục, đơn vị tương đương cấp vụ và các đơn vị sự nghiệp công lập.
 
-*Nội dung chưa có sẵn*
+ Vụ thuộc Văn phòng Quốc hội có nhiều lĩnh vực công việc và có tính chất đặc thù được tổ chức các phòng, đơn vị tương đương cấp phòng.
 
-**Chỉ mục:** 5
+ Các cục, đơn vị tương đương cấp vụ thuộc Văn phòng Quốc hội được tổ chức các phòng, đơn vị tương đương cấp phòng và đơn vị sự nghiệp công lập.
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000500
+ Báo Đại biểu Nhân dân được tổ chức các ban.
 
-**ID:** dk_00059702
+ 2. Ủy ban Thường vụ Quốc hội quyết định thành lập, tổ chức lại hoặc giải thể vụ, cục, đơn vị tương đương cấp vụ, đơn vị sự nghiệp công lập thuộc Văn phòng Quốc hội; quyết định số lượng ban thuộc Báo Đại biểu Nhân dân; quyết định số lượng tối đa phòng, đơn vị tương đương cấp phòng, đơn vị sự nghiệp công lập thuộc vụ, cục, đơn vị tương đương cấp vụ.
 
----
+ 3. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định thành lập, tổ chức lại hoặc giải thể ban thuộc Báo Đại biểu Nhân dân, phòng, đơn vị tương đương cấp phòng, đơn vị sự nghiệp công lập thuộc vụ, cục, đơn vị tương đương cấp vụ bảo đảm không vượt quá số lượng quy định tại Nghị quyết này.Điều 35.8.NQ.26.4. Cơ cấu tổ chức của Văn phòng Quốc hội
 
+(Điều 4 Nghị quyết số 74/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/03/2025)
 
-### Điều 35.8.NQ.26.6. Công tác tổ chức, cán bộ
+ 1. Vụ Tổng hợp.
 
-*Nội dung chưa có sẵn*
+ 2. Vụ Tổ chức - Cán bộ.
 
-**Chỉ mục:** 6
+ 3. Vụ Quan hệ quốc tế.
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000600
+ 4. Vụ Hành chính.
 
-**ID:** dk_00059703
+ Cơ cấu tổ chức của Vụ Hành chính có 03 phòng.
 
----
+ 5. Vụ Chuyển đổi số.
 
+ 6. Vụ Kế hoạch - Tài chính.
 
-### Điều 35.8.NQ.26.7. Công tác quản lý tài chính, tài sản
+ Cơ cấu tổ chức của Vụ Kế hoạch - Tài chính có 03 phòng.
+
+ 7. Vụ Thông tin và Thư viện.
+
+ Cơ cấu tổ chức của Vụ Thông tin và Thư viện có 05 phòng, đơn vị tương đương cấp phòng.
+
+ 8. Cục Quản trị.
+
+ Cơ cấu tổ chức của Cục Quản trị có 07 phòng, đơn vị tương đương cấp phòng và 04 đơn vị sự nghiệp công lập.
+
+ 9. Báo Đại biểu Nhân dân.
+
+ Cơ cấu tổ chức của Báo Đại biểu Nhân dân có 06 ban.Điều 35.8.NQ.26.5. Công tác chỉ đạo, điều hành
+
+(Điều 5 Nghị quyết số 74/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/03/2025)
+
+ 1. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội là người đứng đầu Văn phòng Quốc hội, lãnh đạo công tác của Văn phòng Quốc hội; chịu trách nhiệm trước Quốc hội, Ủy ban Thường vụ Quốc hội về công tác của Văn phòng Quốc hội.
+
+ Các Phó Chủ nhiệm Văn phòng Quốc hội giúp Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội thực hiện nhiệm vụ do Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội phân công; chịu trách nhiệm trước Ủy ban Thường vụ Quốc hội, Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội và trước pháp luật về việc thực hiện nhiệm vụ được phân công.
+
+ 2. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quy định về chức năng, nhiệm vụ và chỉ đạo công tác của vụ, cục, đơn vị tương đương cấp vụ, các đơn vị sự nghiệp công lập thuộc Văn phòng Quốc hội.
+
+ 3. Vụ trưởng, cục trưởng, người đứng đầu đơn vị tương đương cấp vụ, người đứng đầu đơn vị sự nghiệp công lập điều hành công việc của vụ, cục, đơn vị mình. Giúp vụ trưởng, cục trưởng, người đứng đầu đơn vị tương đương cấp vụ, người đứng đầu đơn vị sự nghiệp công lập có một hoặc một số cấp phó theo chức năng, nhiệm vụ, phù hợp với thực tế, đặc điểm của vụ, cục, đơn vị.
+
+ Số lượng tối đa cấp phó của người đứng đầu vụ, cục, đơn vị tương đương cấp vụ thực hiện theo quy định riêng. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định số lượng cụ thể đối với từng đơn vị sau khi xin ý kiến Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội.
+
+ Số lượng cấp phó của người đứng đầu Báo Đại biểu Nhân dân không quá 03 người.
+
+ 4. Trưởng phòng, người đứng đầu đơn vị tương đương cấp phòng, người đứng đầu đơn vị sự nghiệp công lập thuộc vụ, cục, đơn vị tương đương cấp vụ điều hành và thực hiện công việc của phòng, đơn vị tương đương cấp phòng, đơn vị sự nghiệp công lập thuộc vụ, cục, đơn vị tương đương cấp vụ; trong trường hợp thật cần thiết mới bố trí cấp phó giúp việc cho trưởng phòng, người đứng đầu đơn vị tương đương cấp phòng.
+
+ Số lượng cấp phó của người đứng đầu phòng, đơn vị tương đương cấp phòng thực hiện theo quy định của pháp luật.
+
+ Số lượng cấp phó của người đứng đầu đơn vị sự nghiệp công lập thuộc cục, đơn vị tương đương cấp vụ không quá 03 người trên một đơn vị.Điều 35.8.NQ.26.6. Công tác tổ chức, cán bộ
+
+(Điều 6 Nghị quyết số 74/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/03/2025)
+
+1. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội do Quốc hội bầu, miễn nhiệm, bãi nhiệm.
+
+Các Phó Chủ nhiệm Văn phòng Quốc hội do Ủy ban Thường vụ Quốc hội quyết định bổ nhiệm, miễn nhiệm, cách chức, cho từ chức, thôi giữ chức vụ theo đề nghị của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội.
+
+2. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định tuyển dụng, điều động, biệt phái, luân chuyển, đào tạo, bồi dưỡng, đánh giá xếp loại, thi đua, khen thưởng, tạm đình chỉ công tác, kỷ luật và thực hiện các chế độ, chính sách đối với công chức, viên chức, lao động hợp đồng theo thẩm quyền; bổ nhiệm, bổ nhiệm lại, miễn nhiệm, cách chức, cho từ chức, cho thôi giữ chức vụ lãnh đạo, quản lý đối với chức vụ từ phó trưởng phòng trở lên thuộc vụ, cục, đơn vị tương đương cấp vụ, đơn vị sự nghiệp công lập thuộc Văn phòng Quốc hội.
+
+Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định phân cấp quản lý viên chức của các đơn vị sự nghiệp công lập theo quy định của pháp luật.
+
+3. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội phối hợp với Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội trong việc thực hiện chế độ, chính sách đối với công chức và thực hiện các nghiệp vụ về công tác tổ chức cán bộ đối với công chức của vụ chuyên môn của Hội đồng Dân tộc, các Ủy ban của Quốc hội.
+
+4. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội phối hợp với Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội trong việc sử dụng công chức của vụ chuyên môn của Hội đồng Dân tộc, các Ủy ban của Quốc hội trong thực hiện nhiệm vụ của Tổng Thư ký Quốc hội.
 
 Điều 35.8.NQ.26.7. Công tác quản lý tài chính, tài sản
 
-**Chỉ mục:** 7
+(Điều 7 Nghị quyết số 74/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/03/2025)
 
-**Mã phân cấp:** 350080000000000060000990000000000000000000202904100740000700
-
-**ID:** dk_00059704
-
----
-
-
-### Điều 35.8.LQ.100. Các cơ quan thuộc Ủy ban thường vụ Quốc hội
+Văn phòng Quốc hội thực hiện nghiệp vụ về quản lý tài chính, tài sản theo quy định của pháp luật.
 
 Điều 35.8.LQ.100. Các cơ quan thuộc Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 100
+(Điều 100 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, bị bãi bỏ bởi Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
-**Mã phân cấp:** 3500800000000000600010000000000000000000
+Điều 35.8.LQ.101. Kinh phí hoạt động của Quốc hội
 
-**ID:** dk_00059705
+(Điều 101 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 65/2020/QH14 có hiệu lực thi hành kể từ ngày 01/01/2021; Điều 1 Luật số 62/2025/QH15 có hiệu lực thi hành kể từ ngày 17/02/2025)
 
----
+Điều 101. Kinh phí hoạt động của Quốc hội
 
+1. Kinh phí hoạt động của Quốc hội là một khoản trong ngân sách nhà nước do Quốc hội quyết định, bao gồm kinh phí hoạt động chung của Quốc hội, kinh phí hoạt động của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, kinh phí hoạt động của Đoàn đại biểu Quốc hội, lương của đại biểu Quốc hội hoạt động chuyên trách, hoạt động phí, thù lao tham gia hoạt động Quốc hội, các khoản phụ cấp và các chế độ của đại biểu Quốc hội gắn với hoạt động của Quốc hội và do Văn phòng Quốc hội quản lý.
 
-### Điều 35.8.LQ.101. Kinh phí hoạt động của Quốc hội
+2. Việc dự toán, quản lý, cấp và sử dụng kinh phí hoạt động của Quốc hội được thực hiện theo pháp luật về ngân sách nhà nước và quy định của Ủy ban thường vụ Quốc hội phù hợp với tính chất đặc thù trong hoạt động của Quốc hội.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 26.3.LQ.1. Phạm vi điều chỉnh)
 
-**Chỉ mục:** 101
+Điều 35.8.NQ.5.2. Nguyên tắc chung
 
-**Mã phân cấp:** 3500800000000000600010100000000000000000
+(Điều 2 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**ID:** dk_00059706
+1. Việc chi tiêu phục vụ hoạt động của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội, đại biểu Quốc hội phải có trong dự toán, bảo đảm đúng chế độ, định mức, đối tượng theo quy định tại Nghị quyết này và quy định có liên quan của cơ quan nhà nước có thẩm quyền.
 
----
+2. Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội chịu trách nhiệm quản lý và sử dụng kinh phí hoạt động được phân bổ, bảo đảm sử dụng tiết kiệm, hiệu quả, công khai, minh bạch.
 
-
-### Điều 35.8.NQ.5.2. Nguyên tắc chung
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000200
-
-**ID:** dk_00059707
-
----
-
-
-### Điều 35.8.NQ.5.3. Chi cho công tác thẩm tra, chỉnh lý dự án luật, pháp lệnh, nghị quyết
+3. Căn cứ quy định của pháp luật về quản lý ngân sách nhà nước, chế độ chi tiêu được quy định tại Nghị quyết này và căn cứ nhiệm vụ được giao, Văn phòng Quốc hội có trách nhiệm phân bổ kinh phí hoạt động cho Hội đồng dân tộc, các Ủy ban của Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội. Việc phân bổ kinh phí hoạt động cho Đoàn đại biểu Quốc hội có xem xét, ưu tiên đến địa bàn miền núi, vùng sâu, vùng xa.
 
 Điều 35.8.NQ.5.3. Chi cho công tác thẩm tra, chỉnh lý dự án luật, pháp lệnh, nghị quyết
 
-**Chỉ mục:** 3
+(Điều 3 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000300
+1. Căn cứ phạm vi, tính chất và mức độ phức tạp của dự án luật, pháp lệnh, nghị quyết là văn bản quy phạm pháp luật (sau đây gọi chung là dự án luật) và nguồn kinh phí được giao, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội quyết định mức chi cụ thể, bảo đảm không vượt quá mức tối đa và trong phạm vi dự toán được giao.
 
-**ID:** dk_00059708
+2. Chi soạn thảo báo cáo thẩm tra; báo cáo giải trình tiếp thu, chỉnh lý dự án luật:
 
----
+a) Đối với cơ quan chủ trì thẩm tra:
 
+- Đối với dự án luật ban hành mới hoặc thay thế: mức chi từ 3.000.000 đồng đến 5.000.000 đồng/báo cáo;
 
-### Điều 35.8.NQ.5.4. Chi cho công tác thẩm tra khác theo quy định của pháp luật hoặc theo sự phân công của Ủy ban thường vụ Quốc hội
+- Đối với dự án luật sửa đổi, bổ sung một số điều: mức chi từ 2.400.000 đồng đến 4.000.000 đồng/báo cáo.
+
+b) Đối với cơ quan phối hợp thẩm tra:
+
+Chi soạn thảo báo cáo tham gia thẩm tra: mức chi bằng 50% mức chi báo cáo thẩm tra quy định tại điểm a khoản này.
+
+3. Chi cho cá nhân tham gia cuộc họp thẩm tra, chỉnh lý, cho ý kiến về báo cáo nội dung cần tập trung thảo luận, dự thảo báo cáo giải trình tiếp thu, chỉnh lý dự án luật do các cơ quan của Quốc hội tổ chức:
+
+a) Chi họp:
+
+- Người chủ trì cuộc họp: 200.000 đồng/người/buổi;
+
+- Các thành viên dự họp theo danh sách họp: 100.000 đồng/người/buổi.
+
+b) Chi viết báo cáo tổng hợp ý kiến tham gia thẩm tra, chỉnh lý dự án luật: 800.000 đồng/báo cáo.
+
+4. Chi cho việc chuẩn bị nội dung cần tập trung thảo luận cho ý kiến về dự án luật:
+
+- Đối với dự án luật ban hành mới hoặc thay thế: 1.000.000 đồng/dự án;
+
+- Đối với dự án luật sửa đổi, bổ sung một số điều: 500.000 đồng/dự án.
+
+5. Chi cho việc xây dựng báo cáo tập hợp, tổng hợp ý kiến đại biểu Quốc hội, các cơ quan tham gia đóng góp ý kiến về dự án luật; chi xây dựng báo cáo xin ý kiến Bộ Chính trị, Ủy ban thường vụ Quốc hội về các vấn đề lớn còn ý kiến khác nhau: mức chi từ 1.800.000 đồng đến 3.000.000 đồng/dự án luật.
+
+Riêng đối với việc xây dựng báo cáo tập hợp, tổng hợp ý kiến nhân dân về các dự án luật theo chỉ đạo của Ủy ban thường vụ Quốc hội: 5.000.000 đồng/dự án luật.
+
+6. Chi cho việc rà soát nội dung, kỹ thuật, hoàn thiện dự án luật trước và sau khi thông qua: mức chi từ 1.500.000 đồng đến 2.500.000 đồng/dự án luật.
 
 Điều 35.8.NQ.5.4. Chi cho công tác thẩm tra khác theo quy định của pháp luật hoặc theo sự phân công của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 4
+(Điều 4 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000400
-
-**ID:** dk_00059709
-
----
-
-
-### Điều 35.8.NQ.5.5. Chi lấy ý kiến tham gia dự án luật
+Đối với công tác thẩm tra theo quy định của pháp luật hoặc theo sự phân công của Ủy ban thường vụ Quốc hội, nội dung chi và mức chi áp dụng như đối với thẩm tra các dự án luật ban hành mới quy định tại Điều 3 của Nghị quyết này.
 
 Điều 35.8.NQ.5.5. Chi lấy ý kiến tham gia dự án luật
 
-**Chỉ mục:** 5
+(Điều 5 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000500
+Chi lấy ý kiến tham gia dự án luật bao gồm các khoản: chi cho các tổ chức, cá nhân để nghiên cứu, tham gia ý kiến với các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội về dự án luật; chi tổ chức các cuộc họp để lấy ý kiến của các ban, ngành ở Trung ương, địa phương, các chuyên gia tham gia vào dự án luật. Mức chi cụ thể được quy định như sau:
 
-**ID:** dk_00059710
+1. Chi cho việc nghiên cứu góp ý bằng văn bản: Áp dụng theo quy định tại khoản 1 Điều 14 của Nghị quyết này.
 
----
+2. Chi họp góp ý:
 
+a) Ý kiến tham luận bằng văn bản của thành viên tham dự: mức chi từ 600.000 đồng đến 1.000.000 đồng/văn bản;
 
-### Điều 35.8.NQ.5.6. Chi cho công tác giám sát, khảo sát
+b) Chi các cuộc họp: áp dụng theo chế độ chi họp thẩm tra quy định tại điểm a khoản 3 Điều 3 của Nghị quyết này.
+
+3. Chi xây dựng báo cáo tổng hợp ý kiến tham gia: mức chi tối đa là 800.000 đồng/báo cáo/dự án.
 
 Điều 35.8.NQ.5.6. Chi cho công tác giám sát, khảo sát
 
-**Chỉ mục:** 6
+(Điều 6 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000600
+1. Chi cho đoàn giám sát, khảo sát:
 
-**ID:** dk_00059711
+a) Chi xây dựng văn bản giám sát:
 
----
+- Đối với hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội:
 
++ Chi xây dựng Nghị quyết thành lập đoàn giám sát: 2.000.000 đồng/nghị quyết (bao gồm cả kế hoạch và nội dung giám sát);
 
-### Điều 35.8.NQ.5.7. Chi tiếp xúc cử tri theo chương trình tiếp xúc cử tri của Đoàn đại biểu Quốc hội, đại biểu Quốc hội (bao gồm cả tiếp xúc cử tri ngoài địa phương ứng cử của đại biểu Quốc hội)
++ Chi xây dựng đề cương giám sát: mức chi từ 1.200.000 đồng đến 2.000.000 đồng/đề cương do Trưởng đoàn giám sát quyết định;
+
++ Chi xây dựng báo cáo kết quả giám sát của các đoàn công tác giám sát : mức chi từ 1.200.000 đồng đến 2.000.000 đồng/báo cáo theo từng đợt giám sát ; từ 3.000.000 đồng đến 5.000.000 đồng/báo cáo chung của Đoàn giám sát. Mức chi cụ thể do Trưởng đoàn xem xét, quyết định;
+
++ Chi xây dựng nghị quyết về giám sát trên cơ sở kết quả giám sát: Mức chi từ 3.000.000 đồng đến 5.000.000 đồng/nghị quyết của Quốc hội; từ 2.400.000 đồng đến 4.000.000 đồng/nghị quyết của Ủy ban thường vụ Quốc hội.
+
+- Đối với hoạt động giám sát của các cơ quan của Quốc hội, các Đoàn đại biểu Quốc hội: định mức chi xây dựng các văn bản tương ứng bằng 60% định mức chi đối với hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội.
+
+- Chi cho việc xây dựng văn bản về điều hoà giám sát: mức chi từ 1.200.000 đồng đến 2.000.000 đồng/văn bản.
+
+b) Chi xây dựng văn bản khảo sát:
+
+Chế độ chi cho việc xây dựng các văn bản (nếu có) được áp dụng theo quy định tại điểm a khoản 1 Điều này. Riêng báo cáo kết quả khảo sát: mức chi từ 1.200.000 đồng đến 2.000.000 đồng/báo cáo.
+
+c) Chi cho thành viên tham gia đoàn giám sát, khảo sát:
+
+Trong thời gian thực hiện giám sát, khảo sát, ngoài chế độ công tác phí theo quy định của pháp luật hiện hành, chế độ chi đối với các đoàn giám sát, khảo sát của Ủy ban thường vụ Quốc hội, các cơ quan của Quốc hội, các ban của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội được quy định như sau:
+
+- Trưởng đoàn: 200.000 đồng/người/buổi;
+
+- Thành viên của đoàn: 100.000 đồng/người/buổi;
+
+- Cán bộ, công chức và người lao động phục vụ đoàn: 80.000 đồng/người/buổi.
+
+d) Chi các cuộc họp giám sát, khảo sát:
+
+Chi các cuộc họp giám sát, khảo sát (ngoài thời gian hưởng theo quy định tại điểm c khoản này) thực hiện theo chế độ chi họp thẩm tra quy định tại điểm a khoản 3 Điều 3 của Nghị quyết này.
+
+2. Chi giám sát văn bản quy phạm pháp luật:
+
+Mức chi áp dụng theo quy định hiện hành của Nhà nước về chi cho công tác kiểm tra văn bản quy phạm pháp luật. Riêng báo cáo kết quả giám sát văn bản quy phạm pháp luật: mức chi từ 1.800.000 đồng đến 3.000.000 đồng/báo cáo.
+
+3. Chi giám sát hoạt động giải quyết khiếu nại, tố cáo:
+
+- Chi cho việc nghiên cứu tổng hợp, báo cáo về công tác xử lý đơn thư: 500.000/báo cáo;
+
+- Chi xây dựng báo cáo giám sát việc giải quyết vụ việc khiếu nại, tố cáo trình Ủy ban thường vụ Quốc hội: mức chi từ 1.800.000 đồng đến 3.000.000 đồng/báo cáo;
+
+- Chi đi xác minh, thu thập thông tin: 80.000 đồng/người /buổi.
+
+4. Chi giám sát việc giải quyết kiến nghị của cử tri:
+
+Chi xây dựng báo cáo tổng hợp ý kiến, kiến nghị của cử tri; báo cáo đề xuất xử lý, giám sát việc giải quyết kiến nghị của cử tri; báo cáo tổng hợp kết quả giải quyết kiến nghị của cử tri: mức chi từ 600.000 đồng đến 1.000.000 đồng/báo cáo.
+
+Riêng báo cáo tổng hợp ý kiến, kiến nghị của cử tri và báo cáo kết quả giám sát việc giải quyết kiến nghị của cử tri trình Quốc hội: mức chi tối đa là 5.000.000 đồng/báo cáo.
+
+5. Chi cho hoạt động chất vấn, giải trình:
+
+a) Chi cho hoạt động chất vấn:
+
+- Chi cho việc xây dựng các văn bản phục vụ hoạt động chất vấn tại kỳ họp Quốc hội và phiên họp của Ủy ban thường vụ Quốc hội: các báo cáo; kế hoạch chi tiết; văn bản điều phối; biên bản tóm tắt nội dung chất vấn, trả lời chất vấn và các văn bản khác liên quan đến hoạt động chất vấn và trả lời chất vấn: mức chi từ 1.200.000 đồng đến 2.000.000 đồng/văn bản.
+
+Riêng báo cáo tổng hợp ý kiến chất vấn trình Quốc hội, Ủy ban thường vụ Quốc hội: mức chi tối đa là 5.000.000 đồng/báo cáo;
+
+- Chi cho việc xây dựng nghị quyết của Quốc hội, Ủy ban thường vụ Quốc hội về chất vấn: mức chi tối đa là 5.000.000 đồng/nghị quyết.
+
+b) Chi cho hoạt động giải trình:
+
+- Chế độ chi phục vụ hoạt động giải trình (điều trần) áp dụng như chi họp thẩm tra quy định tại điểm a khoản 3 Điều 3 của Nghị quyết này.
+
+Riêng kế hoạch chi tiết phiên giải trình: mức chi tối đa là 1.000.000 đồng/văn bản;
+
+- Chi cho việc xây dựng báo cáo tổng hợp kết quả giải trình: mức chi tối đa là 3.000.000 đồng/báo cáo.
+
+(Điều này có nội dung liên quan đến Điều 35.3.LQ.90. Bảo đảm kinh phí và tổ chức phục vụ hoạt động giám sát của Quốc hội, Hội đồng nhân dân)
 
 Điều 35.8.NQ.5.7. Chi tiếp xúc cử tri theo chương trình tiếp xúc cử tri của Đoàn đại biểu Quốc hội, đại biểu Quốc hội (bao gồm cả tiếp xúc cử tri ngoài địa phương ứng cử của đại biểu Quốc hội)
 
-**Chỉ mục:** 7
+(Điều 7 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000700
+1. Tùy theo điều kiện của điểm tiếp xúc cử tri, khả năng kinh phí của Đoàn, Trưởng Đoàn đại biểu Quốc hội quyết định mức chi hỗ trợ cho mỗi điểm tiếp xúc cử tri, nhưng không quá 5.000.000 đồng/điểm nhằm trang trải chi phí cần thiết như: trang trí, thuê địa điểm, nước uống, bảo vệ và các khoản chi khác. Riêng kinh phí hỗ trợ điểm tiếp xúc cử tri cho đại biểu Quốc hội (ngoài địa phương ứng cử) không quá 15.000.000 đồng/đại biểu/năm.
 
-**ID:** dk_00059712
+2. Ngoài chế độ thanh toán công tác phí theo quy định, thực hiện khoán chi tiếp xúc cử tri với mức chi như sau:
 
----
+- Đại biểu Quốc hội: 7.000.000 đồng/đại biểu/năm;
 
+- Cán bộ, công chức, nhân viên tham gia phục vụ tiếp xúc cử tri: 500.000 đồng/đợt tiếp xúc cử tri.
 
-### Điều 35.8.NL.2.57. Kinh phí bảo đảm hoạt động tiếp xúc cử tri
+3. Chi xây dựng báo cáo kết quả tiếp xúc cử tri: Đối với báo cáo kết quả tiếp xúc cử tri theo từng nhóm: 300.000 đồng/báo cáo/đợt tiếp xúc cử tri; đối với báo cáo kết quả tiếp xúc cử tri chung của cả Đoàn: 500.000 đồng/báo cáo.
 
 Điều 35.8.NL.2.57. Kinh phí bảo đảm hoạt động tiếp xúc cử tri
 
-**Chỉ mục:** 57
+(Điều 57 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-**Mã phân cấp:** 35008000000000006000101000000000000000000020244900524000070000202902600720005700
-
-**ID:** dk_00059713
-
----
-
-
-### Điều 35.8.NQ.5.8. Chi tiếp công dân và xử lý đơn thư khiếu nại, tố cáo
+Kinh phí tổ chức tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp do ngân sách nhà nước bảo đảm theo quy định của pháp luật.
 
 Điều 35.8.NQ.5.8. Chi tiếp công dân và xử lý đơn thư khiếu nại, tố cáo
 
-**Chỉ mục:** 8
+(Điều 8 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000800
+1. Chi tiếp công dân:
 
-**ID:** dk_00059714
+a) Trường hợp đại biểu Quốc hội tiếp công dân tại trụ sở tiếp công dân ở Trung ương, trụ sở hoặc địa điểm tiếp công dân tại địa phương, chế độ chi được quy định như sau:
 
----
+- Đại biểu Quốc hội, đại diện lãnh đạo cơ quan liên quan được phân công tiếp công dân: 150.000 đồng/người/buổi;
 
+- Cán bộ, công chức phục vụ trực tiếp đại biểu Quốc hội tiếp công dân: 80.000 đồng/người/buổi;
 
-### Điều 35.8.NQ.5.9. Chi phục vụ hoạt động đối ngoại
+- Cán bộ, công chức phục vụ gián tiếp đại biểu Quốc hội tiếp công dân: 50.000 đồng/người/buổi.
 
-*Nội dung chưa có sẵn*
+b) Trường hợp cán bộ, công chức tiếp công dân không có sự tham gia của đại biểu Quốc hội thì chế độ chi thực hiện theo quy định của pháp luật về chế độ chi đối với việc tiếp công dân, xử lý đơn thư khiếu nại, tố cáo, kiến nghị, phản ánh.
 
-**Chỉ mục:** 9
+c) Chi xây dựng báo cáo Quốc hội, Ủy ban thường vụ Quốc hội về tình hình và kết quả tiếp công dân: mức chi từ 1.200.000 đồng đến 2.000.000 đồng/báo cáo.
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240000900
+2. Chi xử lý đơn thư khiếu nại, tố cáo: Thực hiện theo quy định của pháp luật hiện hành về chế độ chi xử lý đơn thư khiếu nại, tố cáo. Riêng đối với xây dựng báo cáo đề xuất giải quyết vụ khiếu nại, tố cáo trình hoặc kiến nghị cấp có thẩm quyền: mức chi tối đa là 1.000.000 đồng/báo cáo.
 
-**ID:** dk_00059715
+Điều 35.8.NQ.5.9. Chi phục vụ hoạt động đối ngoại
 
----
+(Điều 9 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
+Ngoài chế độ chi phục vụ hoạt động đối ngoại theo quy định hiện hành của Nhà nước, chế độ chi trong một số trường hợp được quy định như sau:
 
-### Điều 35.8.NQ.5.10. Chế độ chi cho công tác xây dựng đề án, chương trình, kế hoạch công tác nhiệm kỳ, hàng năm; chi xây dựng báo cáo trình Đảng Đoàn Quốc hội, Ủy ban thường vụ Quốc hội, Quốc hội
+1. Chi xây dựng văn bản phục vụ đoàn ra của lãnh đạo Quốc hội; đoàn vào là khách mời của lãnh đạo Quốc hội, tiếp khách quốc tế của lãnh đạo Quốc hội, hội nghị quốc tế cấp Chủ nhiệm Ủy ban trở lên:
+
+- Chi xây dựng đề án, kế hoạch tổ chức: mức chi từ 1.200.000 đồng đến 2.000.000 đồng/văn bản;
+
+- Chi xây dựng đề cương hội đàm: mức chi từ 600.000 đồng đến 1.000.000 đồng/văn bản;
+
+- Chi xây dựng các thỏa thuận hợp tác (nếu có): mức chi từ 1.800.000 đồng đến 3.000.000 đồng/văn bản.
+
+2. Chế độ chi tặng quà đối với đoàn đi công tác nước ngoài được quy định như sau:
+
+a) Đối với đoàn do Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội làm trưởng đoàn: Chi tặng quà theo kế hoạch, chương trình công tác;
+
+b) Đối với đoàn do Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ nhiệm Văn phòng Quốc hội, Trưởng ban của Ủy ban thường vụ Quốc hội làm trưởng đoàn: mức chi tối đa là 15.000.000 đồng/nước;
+
+c) Đối với đoàn do Phó Chủ tịch Hội đồng dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội, Phó Chủ nhiệm Văn phòng Quốc hội và tương đương, Viện trưởng Viện Nghiên cứu lập pháp, Phó Trưởng ban của Ủy ban thường vụ Quốc hội làm trưởng đoàn: mức chi tối đa là 10.000.000 đồng/nước;
+
+d) Đối với đoàn do Ủy viên thường trực Hội đồng dân tộc, các Ủy ban của Quốc hội; Phó Viện trưởng Viện Nghiên cứu lập pháp làm trưởng đoàn: mức chi tối đa là 8.000.000 đồng/nước.
+
+3. Chi tiếp chiêu đãi đoàn vào được căn cứ theo cấp của người chủ trì tiếp để xác định cấp hạng đoàn khách làm cơ sở áp dụng mức chi chiêu đãi theo quy định của pháp luật hiện hành.
+
+Chi tổ chức mời cơm thân mật đối với các đại sứ, trưởng đại diện các tổ chức quốc tế trong thời gian công tác tại Việt Nam: mức chi tối đa không quá mức chi tổ chức mời cơm chia tay đại sứ khi kết thúc nhiệm kỳ theo quy định của pháp luật hiện hành.
+
+4. Chế độ hỗ trợ tiền tiêu vặt cho đoàn vào của những nước có quan hệ đặc biệt; chế độ bồi dưỡng lực lượng tham gia phục vụ hoạt động đối ngoại của Quốc hội từ cấp Chủ nhiệm Ủy ban trở lên do Chủ nhiệm Văn phòng Quốc hội quyết định.
 
 Điều 35.8.NQ.5.10. Chế độ chi cho công tác xây dựng đề án, chương trình, kế hoạch công tác nhiệm kỳ, hàng năm; chi xây dựng báo cáo trình Đảng Đoàn Quốc hội, Ủy ban thường vụ Quốc hội, Quốc hội
 
-**Chỉ mục:** 10
+(Điều 10 Nghị quyết số 524/2012/UBTVQH13 Về một số chế độ chi tiêu bảo đảm hoạt động của Quốc hội ngày 20/09/2012 của Ủy ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240001000
+1. Chi xây dựng đề án trình Đảng đoàn Quốc hội, Ủy ban thường vụ Quốc hội: thực hiện theo chế độ chi đối với các đề tài, dự án khoa học và công nghệ sử dụng ngân sách nhà nước.
 
-**ID:** dk_00059716
+2. Chi xây dựng chương trình, kế hoạch công tác nhiệm kỳ, hàng năm của Đảng đoàn Quốc hội, Ủy ban thường vụ Quốc hội: mức chi tối đa là 5.000.000 đồng/văn bản.
 
----
+3. Chi xây dựng văn bản hướng dẫn của Ủy ban thường vụ Quốc hội có nội dung quy phạm pháp luật: thực hiện theo chế độ hiện hành về chi ngân sách nhà nước bảo đảm cho công tác xây dựng văn bản quy phạm pháp luật và hoàn thiện hệ thống pháp luật, mức chi như mức chi xây dựng thông tư.
 
+4. Chi xây dựng báo cáo, tờ trình của Đảng đoàn Quốc hội; báo cáo của Ủy ban thường vụ Quốc hội; báo cáo định kỳ trình Quốc hội, Ủy ban thường vụ Quốc hội, mức chi được quy định như sau:
 
-### Điều 35.8.NQ.5.11. Chế độ công tác phí, hội nghị
+- Báo cáo của Ủy ban thường vụ Quốc hội: mức chi từ 3.000.000 đồng đến 5.000.000 đồng/báo cáo;
 
-*Nội dung chưa có sẵn*
+- Báo cáo của Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội trình Quốc hội, Ủy ban thường vụ Quốc hội: mức chi từ 1.800.000 đồng đến 3.000.000 đồng/báo cáo;
 
-**Chỉ mục:** 11
+- Báo cáo của Đảng đoàn Quốc hội: mức chi từ 3.000.000 đồng đến 5.000.000 đồng/báo cáo.
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240001100
+Riêng báo cáo về việc thực hiện nghị quyết của Đảng đoàn Quốc hội: mức chi tối đa là 1.200.000 đồng/báo cáo.
 
-**ID:** dk_00059717
+Điều 35.8.NQ.5.11. Chế độ công tác phí, hội nghị
 
----
+(Điều 11 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
+Ngoài chế độ công tác phí, chế độ chi tổ chức các cuộc họp theo quy định hiện hành của Nhà nước, chế độ chi trong một số trường hợp được quy định như sau:
 
-### Điều 35.8.NQ.5.12. Chi hỗ trợ đối với đại biểu Quốc hội
+1. Đối với các đoàn công tác của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội:
+
+a) Trong thời gian tập trung công tác theo đoàn, cơ quan chủ trì đoàn công tác bảo đảm thanh toán tiền phương tiện đi lại, tiền thuê chỗ ở nơi đến công tác, cước hành lý, tài liệu mang theo để làm việc (nếu có) cho các thành viên tham gia đoàn công tác.
+
+b) Chế độ chi công tác phí đi, về từ nơi cư trú, làm việc đến địa điểm tập trung công tác theo đoàn, trừ trường hợp cơ quan chủ trì đoàn công tác quyết định bảo đảm vé máy bay và một số khoản chi công tác phí khác (được thông báo cụ thể trên giấy mời, giấy triệu tập, chương trình, kế hoạch công tác…), được quy định như sau:
+
+- Đoàn đại biểu Quốc hội bảo đảm điều kiện đi lại và công tác phí cho đại biểu Quốc hội của Đoàn mình. Riêng đại biểu Quốc hội ở Trung ương thực hiện như sau:
+
++ Đối với đại biểu Quốc hội chuyên trách ở Trung ương do Văn phòng Quốc hội bảo đảm;
+
++ Đối với đại biểu Quốc hội không chuyên trách ở Trung ương do cơ quan, đơn vị nơi đại biểu công tác bảo đảm.
+
+- Các cơ quan, đơn vị thụ hưởng ngân sách nhà nước bảo đảm công tác phí cho cán bộ, công chức của đơn vị mình.
+
+2. Đoàn đại biểu Quốc hội thanh toán toàn bộ tiền công tác phí theo quy định cho đại biểu Quốc hội thuộc Đoàn mình khi tham gia các hoạt động tiếp xúc cử tri, giám sát hoặc thực hiện nhiệm vụ theo sự phân công của Đoàn đại biểu Quốc hội. Riêng đại biểu Quốc hội ở Trung ương, khi tham gia các hoạt động của Đoàn đại biểu Quốc hội tại địa phương nơi ứng cử, tiền công tác phí đi, về giữa Trung ương và địa phương, thực hiện như sau:
+
+- Đối với đại biểu Quốc hội chuyên trách ở Trung ương do Văn phòng Quốc hội bảo đảm;
+
+- Đối với đại biểu Quốc hội không chuyên trách ở Trung ương do cơ quan, đơn vị nơi đại biểu công tác bảo đảm.
+
+3. Chi tiền ăn, nghỉ tại hội nghị và khi đi công tác:
+
+a) Các hội nghị của Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội: trong trường hợp tổ chức ăn, nghỉ tập trung, cơ quan chủ trì tổ chức hội nghị chi tiền ăn, nghỉ đối với tất cả các đại biểu tham dự hội nghị.
+
+b) Định mức chi tiền ăn tại các hội nghị quy định tại điểm a, khoản 3 Điều này và chi tiền ăn dọc đường của các đoàn công tác (nếu có) tối đa theo mức tiền ăn của đại biểu Quốc hội tại kỳ họp Quốc hội gần nhất.
+
+Các ngày tham dự hội nghị, ngày đi công tác đã được thanh toán tiền ăn thì không được thanh toán phụ cấp lưu trú (kinh phí hỗ trợ tiền ăn và tiêu vặt).
+
+c) Chế độ phòng nghỉ của đại biểu Quốc hội khi đi công tác:
+
+Đại biểu Quốc hội được bố trí phòng nghỉ theo tiêu chuẩn 01 người/phòng, mức chi thanh toán áp dụng theo quy định của pháp luật hiện hành.
+
+4. Các phiên họp của Ủy ban thường vụ Quốc hội, Đảng Đoàn Quốc hội, Đoàn Thư ký kỳ họp áp dụng mức chi theo mức chi quy định tại điểm a khoản 3 Điều 3 của Nghị quyết này. Chi giải khát thực hiện theo mức chi giải khát đối với Đoàn Chủ tịch tại kỳ họp Quốc hội gần nhất.
+
+5. Các cuộc họp toàn thể (không bao gồm họp về thẩm tra dự án luật, góp ý vào dự án luật) của Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội; sinh hoạt chính trị của các tổ chức Đảng, đoàn thể cơ quan Văn phòng Quốc hội; các cuộc họp toàn thể của Đoàn đại biểu Quốc hội: mức chi cho người chủ trì là 200.000 đồng/người/buổi, thành viên tham dự là 100.000 đồng/người/buổi.
+
+6. Đại biểu Quốc hội, cán bộ, công chức được đi công tác bằng máy bay nếu tự túc phương tiện từ nơi ở, cơ quan đến sân bay và ngược lại thì được thanh toán chi phí thuê taxi theo thực tế hoặc thực hiện khoán theo hướng dẫn của Chủ nhiệm Văn phòng Quốc hội.
+
+7. Các chức danh có tiêu chuẩn xe đưa, đón từ nơi ở đến nơi làm việc, nếu không yêu cầu phục vụ xe hoặc trường hợp cơ quan chưa kịp bố trí xe phục vụ thì được hỗ trợ tiền thuê phương tiện đi lại hàng ngày từ nơi ở đến nơi làm việc (trụ sở cơ quan, nơi hội nghị, hội họp trong phạm vi nội thành, nội thị) với mức khoán là 10.000.000 đồng/tháng.
 
 Điều 35.8.NQ.5.12. Chi hỗ trợ đối với đại biểu Quốc hội
 
-**Chỉ mục:** 12
+(Điều 12 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240001200
+1. Chi hỗ trợ đại biểu Quốc hội tự nghiên cứu để tham gia ý kiến vào các dự án luật:
 
-**ID:** dk_00059718
+Mức chi đối với dự án luật ban hành mới, dự án luật thay thế là 1.000.000 đồng/dự án/năm; đối với dự án luật sửa đổi, bổ sung một số điều là 500.000 đồng/dự án/năm.
 
----
+2. Chế độ chi mời chuyên gia:
 
+Đại biểu Quốc hội được mời chuyên gia nghiên cứu để phục vụ công tác đại biểu.
 
-### Điều 35.8.NQ.5.13. Chi hỗ trợ đối với cán bộ, công chức và người lao động phục vụ hoạt động Quốc hội
+Kinh phí mời chuyên gia của đại biểu Quốc hội do Đoàn đại biểu Quốc hội bảo đảm. Riêng đại biểu Quốc hội chuyên trách ở Trung ương do Văn phòng Quốc hội bảo đảm.
+
+Mức chi mời chuyên gia theo thỏa thuận bằng văn bản giữa đại biểu Quốc hội và chuyên gia nhưng tối đa không quá 2.000.000 đồng/bài và không quá 50.000.000 đồng/đại biểu/năm. Riêng năm chuyển giao giữa 2 nhiệm kỳ không quá 25.000.000 đồng/đại biểu/năm. Hồ sơ quyết toán cần có hợp đồng, thanh lý hợp đồng và sản phẩm kèm theo.
+
+3. Mỗi nhiệm kỳ Quốc hội, đại biểu Quốc hội được cấp tiền may 02 bộ lễ phục với mức chi 5.000.000 đồng/bộ.
+
+4. Mỗi nhiệm kỳ Quốc hội, đại biểu Quốc hội được trang cấp một máy vi tính xách tay.
+
+Các phương tiện khác phục vụ công tác của đại biểu Quốc hội được trang bị, quản lý theo quy định hiện hành của Nhà nước.
+
+5. Chế độ trang bị, sử dụng điện thoại di động, điện thoại công vụ tại nhà riêng:
+
+Ngoài các đối tượng được trang bị điện thoại và định mức sử dụng theo quy định hiện hành của Nhà nước, đối với Trưởng Đoàn đại biểu Quốc hội, Phó Trưởng Đoàn đại biểu Quốc hội chuyên trách, chế độ chi được áp dụng như đối với Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương.
+
+6. Đại biểu Quốc hội được cấp tài liệu bao gồm: Công báo, báo Nhân dân, báo địa phương, phí khai thác internet theo mức khoán bằng 1.000.000 đồng/người/tháng. Riêng báo Đại biểu nhân dân, báo Kiểm toán và Tạp chí Nghiên cứu lập pháp được chuyển trực tiếp đến từng đại biểu Quốc hội.
+
+7. Chế độ hỗ trợ khám, chăm sóc sức khỏe định kỳ, nghỉ dưỡng hàng năm:
+
+Ngoài các chế độ theo quy định (nếu có), đại biểu Quốc hội được hỗ trợ kinh phí khám, chăm sóc sức khỏe, nghỉ dưỡng hàng năm theo mức là 5.000.000 đồng/người/năm. Riêng năm chuyển giao nhiệm kỳ, đại biểu Quốc hội (không bao gồm đại biểu tái cử) được hỗ trợ bằng 50% mức trên.
 
 Điều 35.8.NQ.5.13. Chi hỗ trợ đối với cán bộ, công chức và người lao động phục vụ hoạt động Quốc hội
 
-**Chỉ mục:** 13
+(Điều 13 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240001300
+1. Cán bộ, công chức và người lao động Văn phòng Quốc hội được hỗ trợ kinh phí xây dựng luật tối đa đối với dự án luật ban hành mới, dự án luật thay thế là 800.000 đồng/dự án/năm; đối với dự án luật sửa đổi, bổ sung một số điều là 400.000 đồng/dự án/năm nhưng không quá 15.000.000 đồng/người/năm.
 
-**ID:** dk_00059719
+Đối tượng và mức chi cụ thể do Chủ tịch Hội đồng dân tộc, Chủ nhiệm các Ủy ban của Quốc hội, Chủ nhiệm Văn phòng Quốc hội, thủ trưởng các cơ quan của Ủy ban thường vụ Quốc hội quyết định trên cơ sở cân đối nguồn kinh phí được giao.
 
----
+Đối với Đoàn đại biểu Quốc hội, căn cứ chế độ quy định và khả năng cân đối nguồn kinh phí, trong phạm vi dự toán kinh phí chi hoạt động của bộ máy văn phòng phục vụ Đoàn đại biểu Quốc hội hàng năm, Trưởng Đoàn đại biểu Quốc hội quyết định mức chi hỗ trợ kinh phí xây dựng các dự án luật cho cán bộ, công chức và người lao động Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân (trực tiếp giúp việc Đoàn đại biểu Quốc hội), nhưng tối đa không quá định mức chi trên.
 
+2. Chế độ chi may lễ phục, trang phục:
 
-### Điều 35.8.NQ.5.14. Chế độ chi khác phục vụ hoạt động Quốc hội
+Mỗi nhiệm kỳ Quốc hội, cán bộ, công chức, người lao động Văn phòng Quốc hội; cán bộ công chức, người lao động Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân (trực tiếp phục vụ các hoạt động của Đoàn đại biểu Quốc hội) được cấp tiền may 01 bộ lễ phục với mức chi 5.000.000 đồng/bộ.
+
+Ngoài ra, cán bộ, công chức và người lao động làm công tác tiếp dân, lễ tân, bảo vệ, lái xe, vệ sinh… được cấp trang phục phục vụ công tác theo quyết định của Chủ nhiệm Văn phòng Quốc hội.
+
+3. Chi tiền trợ cấp lễ, tết, ăn trưa cho cán bộ, công chức, người lao động:
+
+Tiền trợ cấp lễ, tết, ăn trưa và các chế độ phúc lợi khác đối với cán bộ, công chức, người lao động Văn phòng Quốc hội được trích từ quỹ cơ quan do các đơn vị sự nghiệp công lập đóng góp và được bổ sung từ nguồn kinh phí tự chủ. Chủ nhiệm Văn phòng Quốc hội quyết định mức chi cụ thể và việc trích nộp quỹ cơ quan từ các đơn vị sự nghiệp công lập.
+
+Mức chi ăn trưa hàng tháng, trợ cấp lễ, tết của cán bộ, công chức, người lao động thuộc Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân hưởng lương từ ngân sách Trung ương thực hiện trong phạm vi dự toán kinh phí được giao đối với bộ máy văn phòng giúp việc Đoàn đại biểu Quốc hội hàng năm, theo mức chi của địa phương; riêng đối với tiền ăn trưa hàng tháng, trong trường hợp địa phương không quy định thì Trưởng Đoàn đại biểu Quốc hội căn cứ khả năng cân đối nguồn kinh phí trên quyết định, nhưng không quá mức chi đối với cán bộ, công chức, người lao động Văn phòng Quốc hội.
 
 Điều 35.8.NQ.5.14. Chế độ chi khác phục vụ hoạt động Quốc hội
 
-**Chỉ mục:** 14
+(Điều 14 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 350080000000000060001010000000000000000000202449005240001400
+1. Chế độ chi đối với chuyên gia để phục vụ hoạt động theo chức năng, nhiệm vụ của Hội đồng dân tộc, các Ủy ban của Quốc hội, Văn phòng Quốc hội, các cơ quan của Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội.
 
-**ID:** dk_00059720
+Tuỳ theo nội dung và tính cấp thiết của chuyên đề, đại diện Thường trực Hội đồng dân tộc, các Ủy ban của Quốc hội; thủ trưởng các cơ quan của Ủy ban thường vụ Quốc hội, Trưởng Đoàn đại biểu Quốc hội hoặc Phó trưởng Đoàn đại biểu Quốc hội ký hợp đồng với chuyên gia với mức chi tối đa là 4.000.000 đồng/bài.
 
----
+2. Xin ý kiến bằng văn bản các cá nhân liên quan đối với các văn bản có nội dung phức tạp: mức chi từ 100.000 đồng đến 300.000 đồng/người/lần, tổng mức chi xin ý kiến một cá nhân tối đa là 1.000.000 đồng/văn bản.
 
+Thường trực Hội đồng dân tộc, các Ủy ban của Quốc hội; lãnh đạo Văn phòng Quốc hội; Thủ trưởng các cơ quan của Ủy ban thường vụ Quốc hội, Trưởng Đoàn đại biểu Quốc hội hoặc Phó trưởng Đoàn đại biểu Quốc hội quyết định việc xin ý kiến.
 
-### Điều 35.8.LQ.102. Hiệu lực thi hành
+3. Chế độ chi công tác tổng kết nhiệm kỳ; chi xây dựng nội dung thông tin tuyên truyền hoạt động Quốc hội; chi phục vụ hoạt động Quốc hội ngoài các nội dung chi và mức chi đã được quy định trong Nghị quyết này đối với cán bộ, công chức và người lao động giao Chủ nhiệm Văn phòng Quốc hội quyết định.
 
-*Nội dung chưa có sẵn*
+4. Chế độ tặng quà đối với các đối tượng chính sách - xã hội:
 
-**Chỉ mục:** 102
+Chế độ tặng quà được thực hiện đối với các đối tượng sau: Các đối tượng chính sách được quy định tại khoản 1 Điều 2 của Pháp lệnh ưu đãi người có công với cách mạng; các tập thể, cá nhân có thành tích xuất sắc trong chiến đấu, trong lao động sản xuất, có đóng góp đối với hoạt động Quốc hội; gia đình và cá nhân gặp rủi ro do thiên tai; các tập thể thuộc diện chính sách xã hội, như trại điều dưỡng thương, bệnh binh, trại trẻ mồ côi, người khuyết tật; trường dân tộc nội trú, các đơn vị bộ đội, công an ở biên giới, hải đảo …, khi đoàn tổ chức thăm hỏi thì được tặng quà. Mức giá trị quà tặng tối đa cho mỗi lần thăm hỏi được quy định cụ thể như sau:
 
-**Mã phân cấp:** 3500800000000000700010200000000000000000
+a) Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội tặng quà theo kế hoạch, chương trình công tác.
 
-**ID:** dk_00059722
+b) Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ nhiệm Văn phòng Quốc hội, Trưởng ban của Ủy ban thường vụ Quốc hội: tặng quà cho tập thể mức cao nhất là 6.000.000/đồng/lần; tặng quà cho cá nhân mức cao nhất là 1.000.000 đồng/lần.
 
----
+c) Phó Chủ tịch Hội đồng dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội; Viện trưởng Viện Nghiên cứu lập pháp, Phó Chủ nhiệm Văn phòng Quốc hội và tương đương, Phó Trưởng ban các Ban của Ủy ban thường vụ Quốc hội, Trưởng Đoàn đại biểu Quốc hội, Phó trưởng Đoàn đại biểu Quốc hội: tặng quà cho tập thể mức cao nhất là 3.000.000 đồng/lần; tặng quà cho cá nhân mức cao nhất là 700.000 đồng/lần.
 
+d) Đại biểu Quốc hội là Ủy viên Thường trực Hội đồng dân tộc, các Ủy ban của Quốc hội; Phó Viện trưởng Viện Nghiên cứu lập pháp: tặng quà cho tập thể mức cao nhất là 2.000.000 đồng/lần; tặng quà cho cá nhân tối đa là 500.000 đồng/lần.
 
-### Điều 35.8.LQ.103. Điều khoản thi hành
+e) Tổng số tiền quà tặng cụ thể như sau:
 
-*Nội dung chưa có sẵn*
+- Đối với các cơ quan của Quốc hội: tối đa là 250.000.000 đồng/năm. Riêng Hội đồng dân tộc; Ủy ban về các vấn đề xã hội; Ủy ban Quốc phòng và An ninh; Ủy ban Văn hoá, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng: tối đa là 300.000.000 đồng/năm;
 
-**Chỉ mục:** 2
+- Đối với các cơ quan của Ủy ban thường vụ Quốc hội; Đoàn đại biểu Quốc hội thành phố Hà Nội, Đoàn đại biểu Quốc hội thành phố Hồ Chí Minh, các Đoàn đại biểu Quốc hội tỉnh có biên giới giáp với biên giới các nước Lào, Campuchia, Trung Quốc và các Đoàn đại biểu Quốc hội 5 tỉnh Tây nguyên: tối đa là 150.000.000 đồng/năm;
 
-**Mã phân cấp:** 3500800000000000700010210252810057001030
+- Đối với các Đoàn đại biểu Quốc hội còn lại: tối đa là 120.000.000 đồng/năm.
 
-**ID:** dk_00059723
+5. Chế độ tặng quà lưu niệm:
 
----
+Đại biểu Quốc hội, cán bộ, công chức, người lao động được tặng quà lưu niệm khi kết thúc nhiệm kỳ Quốc hội, mức chi thực hiện theo chế độ chi tổng kết nhiệm kỳ.
 
+Cán bộ, công chức, người lao động công tác tại Văn phòng Quốc hội và các Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân (trực tiếp giúp việc Đoàn đại biểu Quốc hội) khi chuyển công tác sang cơ quan khác, nghỉ hưu được tặng quà lưu niệm với mức chi tối đa là 1.500.000 đồng.
 
-### Điều 35.8.LQ.104. Hiệu lực thi hành
+6. Chế độ thăm hỏi trợ cấp:
 
-*Nội dung chưa có sẵn*
+a) Đối với đại biểu Quốc hội:
 
-**Chỉ mục:** 2
+- Đại biểu Quốc hội khi ốm đau được chi tiền thăm hỏi 1.000.000 đồng/người/lần. Trường hợp bị bệnh hiểm nghèo thì mức chi trợ cấp không vượt quá 5.000.000 đồng/người/lần, chi không quá 2 lần/người/năm.
 
-**Mã phân cấp:** 3500800000000000700010210252810057001040
+- Chi thăm hỏi ốm đau, các vị nguyên là đại biểu Quốc hội: 1.000.000 đồng/người/lần.
 
-**ID:** dk_00059724
+- Các đối tượng sau nếu từ trần thì gia đình được trợ cấp 2.000.000 đồng:
 
----
++ Đại biểu Quốc hội, nguyên đại biểu Quốc hội;
 
++ Cha, mẹ đẻ; cha, mẹ vợ (chồng); vợ (chồng) của đại biểu Quốc hội.
 
-### Điều 35.8.NQ.17.2.
+- Chi phục vụ tang lễ do Chủ nhiệm Văn phòng Quốc hội quyết định.
 
-*Nội dung chưa có sẵn*
+b) Đối với cán bộ, công chức, người lao động Văn phòng Quốc hội, Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân (trực tiếp giúp việc Đoàn đại biểu Quốc hội):
 
-**Chỉ mục:** 2
+- Chế độ thăm hỏi ốm đau, trợ cấp đối với cán bộ, công chức, người lao động đương nhiệm, nghỉ hưu được áp dụng như đối với đại biểu Quốc hội.
 
-**Mã phân cấp:** 3500800000000000700010210281980071000020
+Riêng trường hợp bị bệnh hiểm nghèo, khó khăn do thiên tai, hoả hoạn, tai nạn thì tuỳ theo hoàn cảnh, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ nhiệm Văn phòng Quốc hội, Thủ trưởng các cơ quan của Ủy ban thường vụ Quốc hội, Trưởng Đoàn đại biểu Quốc hội quyết định mức trợ cấp nhưng không vượt quá 5.000.000 đồng/người.
 
-**ID:** dk_00059725
+7. Kinh phí hàng năm chi cho các hoạt động văn hoá, thể thao, các hoạt động nhân dịp kỷ niệm các ngày lễ lớn:
 
----
+Các năm bình thường được trích 0,3%, những năm có nhiều sự kiện quan trọng, có nhiều ngày lễ được trích 0,5% trên tổng số kinh phí chi thường xuyên.
 
+Chương VII
 
-### Điều 35.8.NQ.17.3.
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 35.8.LQ.102. Hiệu lực thi hành
 
-**Chỉ mục:** 3
+(Điều 102 Luật số 57/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 3500800000000000700010210281980071000030
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2016.
 
-**ID:** dk_00059726
+2. Luật tổ chức Quốc hội số 30/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 83/2007/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
----
+Điều 35.8.LQ.103. Điều khoản thi hành
 
+(Điều 2 Luật số 65/2020/QH14 Luật sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội ngày 19/06/2020 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2021 )
 
-### Điều 35.8.NQ.17.4. Điều khoản thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021, trừ trường hợp quy định tại khoản 2 Điều này.
 
-*Nội dung chưa có sẵn*
+2. Quy định tại khoản 2, điểm b và điểm c khoản 16 Điều 1 của Luật này được thực hiện từ nhiệm kỳ Quốc hội khóa XV.
 
-**Chỉ mục:** 4
+3. Chấm dứt việc thực hiện thí điểm hợp nhất Văn phòng Đoàn đại biểu Quốc hội, Văn phòng Hội đồng nhân dân và Văn phòng Ủy ban nhân dân cấp tỉnh theo Nghị quyết số 580/2018/UBTVQH14 ngày 14 tháng 10 năm 2018 của Ủy ban thường vụ Quốc hội.
 
-**Mã phân cấp:** 3500800000000000700010210281980071000040
+Văn phòng Đoàn đại biểu Quốc hội được thành lập theo Nghị quyết số 1097/2015/UBTVQH13 ngày 22 tháng 12 năm 2015 của Ủy ban thường vụ Quốc hội, Văn phòng Đoàn đại biểu Quốc hội, Hội đồng nhân dân và Ủy ban nhân dân tại các tỉnh, thành phố trực thuộc Trung ương thực hiện thí điểm theo Nghị quyết số 580/2018/UBTVQH14 ngày 14 tháng 10 năm 2018 của Ủy ban thường vụ Quốc hội tiếp tục hoạt động cho đến khi Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh được thành lập để tham mưu, giúp việc, phục vụ chung hoạt động của Đoàn đại biểu Quốc hội và Hội đồng nhân dân theo quy định của Ủy ban thường vụ Quốc hội. Việc thành lập Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh phải hoàn thành trước ngày 01 tháng 7 năm 2021.
 
-**ID:** dk_00059727
+Điều 35.8.LQ.104. Hiệu lực thi hành
 
----
+(Điều 2 Luật số 62/2025/QH15 Sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội ngày 17/02/2025 của Quốc hội, có hiệu lực thi hành kể từ ngày 17/02/2025 )
 
+1. Luật này có hiệu lực thi hành từ ngày được Quốc hội thông qua.
 
-### Điều 35.8.NQ.23.2. Hiệu lực thi hành
+2. Các Ủy ban của Quốc hội, cơ quan thuộc Ủy ban thường vụ Quốc hội được tổ chức theo Luật Tổ chức Quốc hội số 57/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 65/2020/QH14 tiếp tục hoạt động cho đến khi Quốc hội, Ủy ban thường vụ Quốc hội có quyết định về việc kết thúc hoạt động.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NQ.17.2. 
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 71/2022/QH15, có hiệu lực thi hành kể từ ngày 15/03/2023)
 
-**Mã phân cấp:** 3500800000000000700010210290240178000020
+Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội, Tổng Thư ký Quốc hội, Văn phòng Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội; Chủ tịch nước, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và các cơ quan, tổ chức, cá nhân có liên quan, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thi hành Nghị quyết này.
 
-**ID:** dk_00059728
+Điều 35.8.NQ.17.3. 
 
----
+(Điều 3 Nghị quyết số 71/2022/QH15, có hiệu lực thi hành kể từ ngày 15/03/2023)
 
+1. Nghị quyết này có hiệu lực thi hành từ ngày 15 tháng 3 năm 2023.
 
-### Điều 35.8.NQ.23.3. Điều khoản chuyển tiếp
+2. Nghị quyết số 102/2015/QH13 ban hành Nội quy kỳ họp Quốc hội hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NQ.17.4. Điều khoản thi hành
 
-**Chỉ mục:** 3
+(Điều 2 Nghị quyết số 208/2025/QH15 Sửa đổi, bổ sung một số điều của Nội quy kỳ họp Quốc hội ban hành kèm theo Nghị quyết số 71/2022/QH15 ngày 15 tháng 11 năm 2022 của Quốc hội ngày 25/06/2025 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-**Mã phân cấp:** 3500800000000000700010210290240178000030
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.
 
-**ID:** dk_00059729
+2. Đối với dự án luật, dự thảo nghị quyết đã có trong Chương trình xây dựng luật, pháp lệnh năm 2025 trước ngày Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được thông qua thì việc tiến hành các trình tự tại kỳ họp Quốc hội được thực hiện theo quy định của Nội quy kỳ họp Quốc hội ban hành kèm theo Nghị quyết số 71/2022/QH15 ngày 15 tháng 11 năm 2022 của Quốc hội. Đối với dự án luật, dự thảo nghị quyết được bổ sung vào Chương trình xây dựng luật, pháp lệnh (Chương trình lập pháp) năm 2025 kể từ ngày Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được thông qua thì việc tiến hành các trình tự tại kỳ họp Quốc hội được thực hiện theo quy định của Nội quy kỳ họp Quốc hội được sửa đổi, bổ sung một số điều tại Nghị quyết này.
 
----
+Điều 35.8.NQ.23.2. Hiệu lực thi hành
 
+(Điều 2 Nghị quyết số 178/2025/QH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-### Điều 35.8.NQ.2.10. Điều khoản thi hành
+Nghị quyết này có hiệu lực thi hành từ khi được Quốc hội biểu quyết thông qua.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NQ.23.3. Điều khoản chuyển tiếp
 
-**Chỉ mục:** 10
+(Điều 3 Nghị quyết số 178/2025/QH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**Mã phân cấp:** 3500800000000000700010220212130417000100
+1. Ủy ban Pháp luật, Ủy ban Tư pháp, Ủy ban Kinh tế, Ủy ban Tài chính, Ngân sách, Ủy ban Văn hóa, Giáo dục, Ủy ban Xã hội, Ủy ban Quốc phòng và An ninh, Ủy ban Đối ngoại được tổ chức và hoạt động theo quy định của Luật Tổ chức Quốc hội số 57/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 65/2020/QH14 tiếp tục hoạt động cho đến khi Nghị quyết của Ủy ban Thường vụ Quốc hội về nhiệm vụ, quyền hạn cụ thể và cơ cấu tổ chức của Hội đồng Dân tộc, các Ủy ban của Quốc hội quy định tại khoản 1 Điều 1 của Nghị quyết này có hiệu lực thi hành.
 
-**ID:** dk_00059730
+Các cơ quan quy định tại khoản 1 Điều 1 của Nghị quyết này chính thức hoạt động kể từ ngày Nghị quyết của Ủy ban Thường vụ Quốc hội về nhiệm vụ, quyền hạn cụ thể và cơ cấu tổ chức của các cơ quan đó có hiệu lực thi hành.
 
----
+2. Các cơ quan quy định tại khoản 1 Điều này và các cơ quan, tổ chức khác có liên quan tổ chức thực hiện việc chuyển giao, tiếp nhận tài sản, hồ sơ tài liệu và các công việc đang triển khai thực hiện tương ứng với nhiệm vụ, quyền hạn và lĩnh vực được phân công phụ trách.
 
+Điều 35.8.NQ.2.10. Điều khoản thi hành
 
-### Điều 35.8.NQ.4.16.
+(Điều 10 Nghị quyết số 417/2003/NQ-UBTVQH11 Về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Quốc hội ngày 01/10/2003 của Uỷ ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/10/2003 )
 
-*Nội dung chưa có sẵn*
+1. Nghị quyết này thay thế Nghị quyết số 02-NQ/UBTVQH9 ngày 17-10-1992 của Ủy ban thường vụ Quốc hội khóa IX; các quy định trái với Nghị quyết này đều bãi bỏ.
 
-**Chỉ mục:** 16
+2. Thường trực Hội đồng dân tộc, Thường trực các Ủy ban, Trưởng các Ban và Chủ nhiệm Văn phòng Quốc hội chịu trách nhiệm thi hành Nghị quyết này.
 
-**Mã phân cấp:** 3500800000000000700010220230540694000160
+Điều 35.8.NQ.4.16.
 
-**ID:** dk_00059731
+(Điều 16 Nghị quyết số 694/2008/NQ-UBTVQH12 Về việc tiếp nhận, phân loại, xử lý đơn, thư khiếu nại, tố cáo và kiến nghị của công dân gửi Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các cơ quan của Quốc hội ngày 15/10/2008 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 15/10/2008 )
 
----
+Thường trực Hội đồng dân tộc, Ủy ban của Quốc hội, Chủ nhiệm Văn phòng Quốc hội, Trưởng Ban dân nguyện, Trưởng Ban công tác đại biểu của Ủy ban thường vụ Quốc hội chịu trách nhiệm thi hành Nghị quyết này.
 
+Điều 35.8.NQ.4.17.
 
-### Điều 35.8.NQ.4.17.
+(Điều 17 Nghị quyết số 694/2008/NQ-UBTVQH12, có hiệu lực thi hành kể từ ngày 15/10/2008)
 
-*Nội dung chưa có sẵn*
+Nghị quyết này thay thế Nghị quyết số 715/2004/NQ-UBTVQH11 ngày 18 tháng 6 năm 2004 của Ủy ban thường vụ Quốc hội khóa XI và có hiệu lực thi hành từ ngày ký.
 
-**Chỉ mục:** 17
+Điều 35.8.NQ.5.15. Hiệu lực thi hành
 
-**Mã phân cấp:** 3500800000000000700010220230540694000170
+(Điều 15 Nghị quyết số 524/2012/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**ID:** dk_00059732
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013.
 
----
+2. Nghị quyết 773/2009/NQ-UBTVQH12 hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực.
 
+3. Định kỳ hai năm một lần, Chủ nhiệm Văn phòng Quốc hội có trách nhiệm rà soát các định mức của Nghị quyết này báo cáo xin ý kiến Ủy ban thường vụ Quốc hội trước khi quyết định điều chỉnh.
 
-### Điều 35.8.NQ.5.15. Hiệu lực thi hành
+Điều 35.8.NQ.9.2. 
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị quyết số 1170/2016/NQ-UBTVQH13 Ban hành Quy chế hoạt động đối ngoại của Quốc hội ngày 17/03/2016 của Ủy ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 17/03/2016 )
 
-**Chỉ mục:** 15
+Ủy ban thường vụ Quốc hội, thành viên Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Tổng thư ký Quốc hội, Văn phòng Quốc hội, các cơ quan thuộc Ủy ban thường vụ Quốc hội, các cơ quan, tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quy chế này.
 
-**Mã phân cấp:** 3500800000000000700010220244900524000150
+Điều 35.8.NQ.9.3. 
 
-**ID:** dk_00059733
+(Điều 3 Nghị quyết số 1170/2016/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 17/03/2016)
 
----
+Nghị quyết này có hiệu lực thi hành kể từ ngày ký.
 
+Nghị quyết số 618/NQ-UBTVQH12 ngày 06 tháng 5 năm 2008 của Ủy ban thường vụ Quốc hội hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực.
 
-### Điều 35.8.NQ.9.2.
+Điều 35.8.NQ.10.6. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 6 Nghị quyết số 353/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/06/2017)
 
-**Chỉ mục:** 2
+Nghị quyết này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2017.
 
-**Mã phân cấp:** 3500800000000000700010220257641170000020
+Điều 35.8.NQ.10.7. Tổ chức thực hiện
 
-**ID:** dk_00059734
+(Điều 7 Nghị quyết số 353/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/06/2017)
 
----
+1. Văn phòng Quốc hội và Ban Công tác đại biểu, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm hướng dẫn thi hành và tổ chức thực hiện Nghị quyết này.
 
+2. Hội đồng Dân tộc, các Ủy ban của Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội, Văn phòng Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội và cơ quan, tổ chức, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Nghị quyết này.
 
-### Điều 35.8.NQ.9.3.
+Điều 35.8.NQ.11.7. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 7 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 3
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.
 
-**Mã phân cấp:** 3500800000000000700010220257641170000030
+2. Nghị quyết số 1097/2015/UBTVQH13 ngày 22 tháng 12 năm 2015 của Ủy ban Thường vụ Quốc hội về việc thành lập và quy định chức năng, nhiệm vụ, cơ cấu tổ chức của Văn phòng Đoàn đại biểu Quốc hội tỉnh, thành phố trực thuộc Trung ương, Nghị quyết số 580/2018/UBTVQH14 ngày 04 tháng 10 năm 2018 của Ủy ban Thường vụ Quốc hội về việc thí điểm hợp nhất Văn phòng Đoàn đại biểu Quốc hội, Văn phòng Hội đồng nhân dân và Văn phòng Ủy ban nhân dân cấp tỉnh, Nghị định số 48/2016/NĐ-CP ngày 27 tháng 5 năm 2016 của Chính phủ quy định cụ thể về chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức và biên chế công chức của Văn phòng Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành, trừ trường hợp quy định tại điểm b khoản 3 Điều 8 của Nghị quyết này.
 
-**ID:** dk_00059735
+Điều 35.8.NQ.11.8. Điều khoản chuyển tiếp
 
----
+(Điều 8 Nghị quyết số 1004/2020/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+1. Khi thành lập Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, số lượng Phó Chánh Văn phòng, Phó Trưởng phòng có thể cao hơn số lượng quy định tại Nghị quyết này. Chính quyền địa phương các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm điều chỉnh, sắp xếp lại số lượng cấp phó vượt quá quy định, bảo đảm trong thời hạn 03 năm kể từ ngày Nghị quyết này có hiệu lực thi hành, số lượng cấp phó phải theo đúng quy định tại Nghị quyết này.
 
-### Điều 35.8.NQ.10.6. Hiệu lực thi hành
+2. Biên chế công chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh sau khi được thành lập không vượt quá số lượng biên chế công chức được phê duyệt của Văn phòng Đoàn đại biểu Quốc hội và Văn phòng Hội đồng nhân dân cấp tỉnh trước khi thực hiện thí điểm hoặc hợp nhất. Căn cứ vào tình hình thực tế, chính quyền địa phương các tỉnh, thành phố trực thuộc Trung ương phải xây dựng, hoàn thiện hệ thống vị trí việc làm, cơ cấu lại đội ngũ cán bộ, công chức, viên chức, thực hiện tinh giản biên chế theo đúng quy định.
 
-*Nội dung chưa có sẵn*
+Việc giải quyết chế độ, chính sách đối với đội ngũ cán bộ, công chức, viên chức, người lao động dôi dư của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh sau khi được thành lập thực hiện theo quy định của Chính phủ.
 
-**Chỉ mục:** 6
+3. Kể từ ngày Nghị quyết này được thông qua, chính quyền địa phương các tỉnh, thành phố trực thuộc Trung ương phối hợp với Văn phòng Quốc hội, các cơ quan khác có liên quan dự kiến phương án sắp xếp tổ chức bộ máy, quyết định biên chế công chức và chuẩn bị các điều kiện cần thiết để thành lập Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh. Thời hạn hoàn thành việc thành lập Văn phòng được thực hiện như sau:
 
-**Mã phân cấp:** 3500800000000000700010220261600353000060
+a) Đối với các địa phương thực hiện thí điểm theo Nghị quyết số 580/2018/UBTVQH14 ngày 04 tháng 10 năm 2018 của Ủy ban Thường vụ Quốc hội, việc thành lập Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Ủy ban nhân dân cấp tỉnh phải hoàn thành để bảo đảm các cơ quan này bắt đầu hoạt động từ ngày 01 tháng 01 năm 2021;
 
-**ID:** dk_00059736
+b) Đối với các địa phương không thực hiện thí điểm theo Nghị quyết số 580/2018/UBTVQH14 ngày 04 tháng 10 năm 2018 của Ủy ban Thường vụ Quốc hội, việc thành lập Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh phải hoàn thành chậm nhất là ngày 30 tháng 6 năm 2021. Văn phòng Đoàn đại biểu Quốc hội, Văn phòng Hội đồng nhân dân cấp tỉnh vẫn tiếp tục thực hiện nhiệm vụ, quyền hạn theo quy định tại Nghị quyết số 1097/2015/UBTVQH13 ngày 22 tháng 12 năm 2015 của Ủy ban Thường vụ Quốc hội và Nghị định số 48/2016/NĐ-CP ngày 27 tháng 5 năm 2016 của Chính phủ cho đến khi Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh được thành lập theo quy định của Nghị quyết này.
 
----
+4. Văn phòng Quốc hội có trách nhiệm chuyển giao cơ sở vật chất, kinh phí và biên chế công chức của Văn phòng Đoàn đại biểu Quốc hội cho các địa phương theo quy định của pháp luật.
 
+5. Căn cứ vào Nghị quyết này, Hội đồng nhân dân cấp tỉnh có trách nhiệm xem xét, quyết định dự toán ngân sách nhà nước năm 2021 bảo đảm cho hoạt động của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh.
 
-### Điều 35.8.NQ.10.7. Tổ chức thực hiện
+Điều 35.8.NQ.14.7. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 7 Nghị quyết số 15/2022/UBTVQH15, có hiệu lực thi hành kể từ ngày 02/04/2022)
 
-**Chỉ mục:** 7
+1. Tổng Thư ký Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội, Văn phòng Quốc hội, các đơn vị, cá nhân khác có liên quan chịu trách nhiệm thi hành Nghị quyết này.
 
-**Mã phân cấp:** 3500800000000000700010220261600353000070
+2. Nghị quyết này có hiệu lực thi hành sau 45 ngày (bốn mươi lăm ngày) kể từ ngày ký ban hành.
 
-**ID:** dk_00059737
+Điều 35.8.NQ.18.3.
 
----
+(Điều 3 Nghị quyết số 29/2022/UBTVQH15, có hiệu lực thi hành kể từ ngày 01/02/2023)
 
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 02 năm 2023.
 
-### Điều 35.8.NQ.11.7. Điều khoản thi hành
+2. Nghị quyết số 1075/2015/UBTVQH13 ngày 11 tháng 12 năm 2015 của Ủy ban Thường vụ Quốc hội ban hành Quy chế làm việc của Ủy ban Thường vụ Quốc hội hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NQ.18.4. Hiệu lực thi hành
 
-**Chỉ mục:** 7
+(Điều 2 Nghị quyết số 90/2025/UBTVQH15 Sửa đổi, bổ sung một số điều của Quy chế làm việc của Ủy ban Thường vụ Quốc hội ban hành kèm theo Nghị quyết số 29/2022/UBTVQH15 ngày 12 tháng 12 năm 2022 của Ủy ban Thường vụ Quốc hội ngày 10/07/2025 của Quốc hội, có hiệu lực thi hành kể từ ngày 15/07/2025)
 
-**Mã phân cấp:** 3500800000000000700010220274101004000070
+Nghị quyết này có hiệu lực thi hành từ ngày 15 tháng 7 năm 2025.
 
-**ID:** dk_00059738
+Điều 35.8.NQ.19.16. Hiệu lực thi hành
 
----
+(Điều 16 Nghị quyết số 31/2023/UBTVQH15, có hiệu lực thi hành kể từ ngày 15/03/2023)
 
+Nghị quyết này có hiệu lực thi hành từ ngày 15 tháng 3 năm 2023.
 
-### Điều 35.8.NQ.11.8. Điều khoản chuyển tiếp
+Điều 35.8.NQ.19.17. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 17 Nghị quyết số 91/2025/UBTVQH15 Sửa đổi, bổ sung một số điều của Nghị quyết số 31/2023/UBTVQH15
+ngày 14 tháng 02 năm 2023 của Ủy ban Thường vụ Quốc hội quy định, hướng dẫn một số điều khoản của Nội quy kỳ họp Quốc hội ngày 08/07/2025 của Quốc hội, có hiệu lực thi hành kể từ ngày 08/07/2025 )Nghị quyết này có hiệu lực thi hành từ ngày được thông qua.
 
-**Chỉ mục:** 8
+Điều 35.8.NQ.21.3. 
 
-**Mã phân cấp:** 3500800000000000700010220274101004000080
+(Điều 3 Nghị quyết số 63/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/01/2025)
 
-**ID:** dk_00059739
+1. Nghị quyết này có hiệu lực thi hành từ ngày thông qua.
 
----
+2. Nghị quyết số 05/2021/UBTVQH15 ngày 29 tháng 9 năm 2021 của Ủy ban Thường vụ Quốc hội về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Viện Nghiên cứu lập pháp hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành.
 
+Điều 35.8.NQ.22.3.
 
-### Điều 35.8.NQ.14.7. Điều khoản thi hành
+(Điều 3 Nghị quyết số 64/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 07/01/2025)
 
-*Nội dung chưa có sẵn*
+Nghị quyết này có hiệu lực thi hành từ ngày thông qua.
 
-**Chỉ mục:** 7
+Điều 35.8.NQ.24.26. Điều khoản thi hành
 
-**Mã phân cấp:** 3500800000000000700010220279260015000070
+(Điều 26 Nghị quyết số 71/2025/UBTVQH15, có hiệu lực thi hành kể từ ngày 18/02/2025)
 
-**ID:** dk_00059740
+1. Nghị quyết này có hiệu lực thi hành từ ngày 18 tháng 02 năm 2025.
 
----
+2. Ban Công tác đại biểu, Ban Dân nguyện thuộc Ủy ban Thường vụ Quốc hội kết thúc hoạt động kể từ ngày Nghị quyết này có hiệu lực thi hành.
 
+3. Nghị quyết số 1156/2016/UBTVQH13 ngày 17 tháng 3 năm 2016 của Ủy ban Thường vụ Quốc hội về chức năng, nhiệm vụ, quyền hạn và tổ chức của Ban Dân nguyện và Nghị quyết số 21/2022/UBTVQH15 ngày 11 tháng 7 năm 2022 của Ủy ban Thường vụ Quốc hội về vị trí, chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Công tác đại biểu hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành.
 
-### Điều 35.8.NQ.18.3.
+4. Hội đồng Dân tộc, các Ủy ban của Quốc hội, căn cứ vào Nghị quyết này, Quy chế làm việc mẫu của Hội đồng Dân tộc và các Ủy ban của Quốc hội do Ủy ban Thường vụ Quốc hội ban hành và quy định khác của pháp luật có liên quan, xây dựng Quy chế làm việc phù hợp với nhiệm vụ, quyền hạn, đặc điểm, tình hình cụ thể của cơ quan mình.
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NL.2.56. Tổ chức thi hành
 
-**Chỉ mục:** 3
+(Điều 56 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025, có nội dung được bổ sung bởi Điều 1 Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN có hiệu lực thi hành kể từ ngày 26/09/2025)
 
-**Mã phân cấp:** 3500800000000000700010220282250029000030
+1. Ủy ban Thường vụ Quốc hội, Hội đồng Dân tộc, các Ủy ban của Quốc hội, các đại biểu Quốc hội, các Đoàn đại biểu Quốc hội; Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao; Ủy ban Mặt trận Tổ quốc Việt Nam các cấp, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ủy ban nhân dân các cấp và các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm thi hành Nghị quyết này.
 
-**ID:** dk_00059741
+1a. Các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm ứng dụng công nghệ thông tin, chuyển đổi số trong hoạt động tiếp xúc cử tri, quản lý việc giải quyết kiến nghị của cử tri. Văn phòng Quốc hội chủ trì, phối hợp với Thường trực Ủy ban Dân nguyện và Giám sát, các cơ quan liên quan xây dựng, quản lý, vận hành thống nhất cơ sở dữ liệu về kiến nghị của cử tri. Chính phủ chỉ đạo các bộ, ngành, địa phương bảo đảm việc sử dụng, cập nhật, theo dõi, khai thác dữ liệu kịp thời, chính xác, công khai, minh bạch. Các cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết, trả lời kiến nghị của cử tri có trách nhiệm cập nhật đầy đủ, đúng thời hạn vào cơ sở dữ liệu và chịu trách nhiệm về nội dung đã cung cấp.
 
----
+2. Trong quá trình thực hiện, nếu có vấn đề phát sinh, Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân cấp tỉnh tập hợp các kiến nghị, vướng mắc để báo cáo Ủy ban Thường vụ Quốc hội, Chính phủ, Ban Thường trực Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam xem xét, hướng dẫn.
 
+Điều 35.8.NL.2.58. Hiệu lực thi hành
 
-### Điều 35.8.NQ.18.4. Hiệu lực thi hành
+(Điều 58 Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN, có hiệu lực thi hành kể từ ngày 20/02/2025)
 
-*Nội dung chưa có sẵn*
+1. Nghị quyết này có hiệu lực thi hành kể từ ngày ký ban hành.
 
-**Chỉ mục:** 4
+2. Nghị quyết này thay thế Nghị quyết liên tịch số 525/2012/NQLT/UBTVQH13 -ĐCTUBTWMTTQVN ngày 27 tháng 9 năm 2012 của Ủy ban Thường vụ Quốc hội và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam về việc tiếp xúc cử tri của đại biểu Quốc hội và Nghị quyết số 753/2005/UBTVQH11 ngày 02 tháng 4 năm 2005 của Ủy ban Thường vụ Quốc hội ban hành Quy chế hoạt động của Hội đồng nhân dân.
 
-**Mã phân cấp:** 3500800000000000700010220282250029000040
+Điều 35.8.NL.2.59. Điều khoản thi hành
 
-**ID:** dk_00059742
+Nghị quyết liên tịch này có hiệu lực thi hành từ ngày ký ban hành.
 
----
+## Danh sách điều khoản
 
+### 35008000000000001000
 
-### Điều 35.8.NQ.19.16. Hiệu lực thi hành
+Chương I VỊ TRÍ, CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN CỦA QUỐC HỘI
 
-*Nội dung chưa có sẵn*
+### 3500800000000000100000100000000000000000
 
-**Chỉ mục:** 16
+Điều 35.8.LQ.1. Vị trí, chức năng của Quốc hội
 
-**Mã phân cấp:** 3500800000000000700010220282890031000160
+### 3500800000000000100000200000000000000000
 
-**ID:** dk_00059743
+Điều 35.8.LQ.2. Nhiệm kỳ Quốc hội
 
----
+### 3500800000000000100000300000000000000000
 
+Điều 35.8.LQ.3. Nguyên tắc và hiệu quả hoạt động của Quốc hội
 
-### Điều 35.8.NQ.19.17. Hiệu lực thi hành
+### 3500800000000000100000400000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 35.8.LQ.4. Làm Hiến pháp và sửa đổi Hiến pháp
 
-**Chỉ mục:** 17
+### 3500800000000000100000500000000000000000
 
-**Mã phân cấp:** 3500800000000000700010220282890031000170
+Điều 35.8.LQ.5. Làm luật và sửa đổi luật
 
-**ID:** dk_00059744
+### 3500800000000000100000600000000000000000
 
----
+Điều 35.8.LQ.6. Giám sát tối cao của Quốc hội
 
+### 3500800000000000100000700000000000000000
 
-### Điều 35.8.NQ.21.3.
+Điều 35.8.LQ.7. Quyết định các vấn đề quan trọng về kinh tế - xã hội
 
-*Nội dung chưa có sẵn*
+### 3500800000000000100000800000000000000000
 
-**Chỉ mục:** 3
+Điều 35.8.LQ.8. Bầu các chức danh trong bộ máy nhà nước
 
-**Mã phân cấp:** 3500800000000000700010220289820063000030
+### 3500800000000000100000900000000000000000
 
-**ID:** dk_00059745
+Điều 35.8.LQ.9. Phê chuẩn các chức danh trong bộ máy nhà nước
 
----
+### 3500800000000000100001000000000000000000
 
+Điều 35.8.LQ.10. Việc từ chức của người được Quốc hội bầu hoặc phê chuẩn
 
-### Điều 35.8.NQ.22.3.
+### 3500800000000000100001100000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 35.8.LQ.11. Miễn nhiệm, bãi nhiệm, phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
 
-**Chỉ mục:** 3
+### 3500800000000000100001200000000000000000
 
-**Mã phân cấp:** 3500800000000000700010220289820064000030
+Điều 35.8.LQ.12. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm
 
-**ID:** dk_00059746
+### 3500800000000000100001300000000000000000
 
----
+Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm
 
+### 3500800000000000100001400000000000000000
 
-### Điều 35.8.NQ.24.26. Điều khoản thi hành
+Điều 35.8.LQ.14. Quyết định thành lập, bãi bỏ cơ quan; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính
 
-*Nội dung chưa có sẵn*
+### 3500800000000000100001500000000000000000
 
-**Chỉ mục:** 26
+Điều 35.8.LQ.15. Bãi bỏ văn bản trái với Hiến pháp, luật, nghị quyết của Quốc hội
 
-**Mã phân cấp:** 3500800000000000700010220290240071000260
+### 3500800000000000100001600000000000000000
 
-**ID:** dk_00059747
+Điều 35.8.LQ.16. Quyết định đại xá
 
----
+### 3500800000000000100001700000000000000000
 
+Điều 35.8.LQ.17. Quyết định vấn đề chiến tranh và hòa bình
 
-### Điều 35.8.NL.2.56. Tổ chức thi hành
+### 3500800000000000100001800000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 35.8.LQ.18. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế
 
-**Chỉ mục:** 56
+### 3500800000000000100001900000000000000000
 
-**Mã phân cấp:** 3500800000000000700010220290260072000560
+Điều 35.8.LQ.19. Trưng cầu ý dân
 
-**ID:** dk_00059748
+### 3500800000000000100002000000000000000000
 
----
+Điều 35.8.LQ.20. Xem xét báo cáo tổng hợp ý kiến, kiến nghị và việc giải quyết kiến nghị của cử tri cả nước
 
+### 3500800000000000100002020244900524000010
 
-### Điều 35.8.NL.2.58. Hiệu lực thi hành
+Điều 35.8.NQ.5.1. Phạm vi áp dụng
 
-*Nội dung chưa có sẵn*
+### 3500800000000000100002020261600353000010
 
-**Chỉ mục:** 58
+Điều 35.8.NQ.10.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3500800000000000700010220290260072000580
+### 3500800000000000100002020261600353000020
 
-**ID:** dk_00059749
+Điều 35.8.NQ.10.2. Đối tượng áp dụng
 
----
+### 3500800000000000100002020290260072000010
 
+Điều 35.8.NL.2.1. Phạm vi điều chỉnh
 
-### Điều 35.8.NL.2.59. Điều khoản thi hành
+### 3500800000000000100002020290260072000020
 
-*Nội dung chưa có sẵn*
+Điều 35.8.NL.2.2. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+### 35008000000000002000
 
-**Mã phân cấp:** 3500800000000000700010220290260072000590
+Chương II ĐẠI BIỂU QUỐC HỘI
 
-**ID:** dk_00059750
+### 3500800000000000200002100000000000000000
 
----
+Điều 35.8.LQ.21. Vị trí, vai trò của đại biểu Quốc hội
 
+### 3500800000000000200002200000000000000000
 
-### Điều 35.8.NQ.25.2.
+Điều 35.8.LQ.22. Tiêu chuẩn của đại biểu Quốc hội
 
-*Nội dung chưa có sẵn*
+### 3500800000000000200002300000000000000000
 
-**Chỉ mục:** 2
+Điều 35.8.LQ.23. Số lượng đại biểu Quốc hội
 
-**Mã phân cấp:** 3500800000000000700010220290410073000020
+### 3500800000000000200002400000000000000000
 
-**ID:** dk_00059751
+Điều 35.8.LQ.24. Thời gian hoạt động của đại biểu Quốc hội
 
----
+### 3500800000000000200002500000000000000000
 
+Điều 35.8.LQ.25. Nhiệm kỳ của đại biểu Quốc hội
 
-### Điều 35.8.NQ.26.8. Hiệu lực thi hành
+### 3500800000000000200002600000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 35.8.LQ.26. Trách nhiệm tham gia các hoạt động của Quốc hội, các cơ quan của Quốc hội
 
-**Chỉ mục:** 8
+### 3500800000000000200002700000000000000000
 
-**Mã phân cấp:** 3500800000000000700010220290410074000080
+Điều 35.8.LQ.27. Trách nhiệm với cử tri
 
-**ID:** dk_00059752
+### 350080000000000020000270000000000000000000202902600720000300
 
----
+Điều 35.8.NL.2.3. Nguyên tắc tiếp xúc cử tri
 
+### 350080000000000020000270000000000000000000202902600720000400
 
-### Điều 35.8.NQ.27.3.
+Điều 35.8.NL.2.4. Quyền và trách nhiệm của đại biểu Quốc hội và đại biểu Hội đồng nhân dân
 
-*Nội dung chưa có sẵn*
+### 350080000000000020000270000000000000000000202902600720000500
 
-**Chỉ mục:** 3
+Điều 35.8.NL.2.5. Quyền và trách nhiệm của cử tri
 
-**Mã phân cấp:** 3500800000000000700010220291320080000030
+### 350080000000000020000270000000000000000000202902600720001800
 
-**ID:** dk_00059753
+Điều 35.8.NL.2.18. Hoạt động tiếp xúc cử tri
 
----
+### 350080000000000020000270000000000000000000202902600720001900
 
+Điều 35.8.NL.2.19. Hình thức, phương thức tiếp xúc cử tri
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 350080000000000020000270000000000000000000202902600720002000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 249
-- **Điều khoản thực tế:** 242
-- **Điều khoản có nội dung:** 153 (63.2%)
-- **ID đề mục:** b22e0b0a4de64d978f575a8f4d4a9b09
+Điều 35.8.NL.2.20. Nội dung tiếp xúc cử tri
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 350080000000000020000270000000000000000000202902600720002100
 
----
+Điều 35.8.NL.2.21. Hội nghị tiếp xúc cử tri
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 350080000000000020000270000000000000000000202902600720002200
+
+Điều 35.8.NL.2.22. Đại biểu Quốc hội, đại biểu Hội đồng nhân dâncác cấp cùng tiếp xúc cử tri
+
+### 350080000000000020000270000000000000000000202902600720002300
+
+Điều 35.8.NL.2.23. Thành phần tham dự Hội nghị tiếp xúc cử tri
+
+### 350080000000000020000270000000000000000000202902600720002400
+
+Điều 35.8.NL.2.24. Chương trình hội nghị tiếp xúc cử tri
+
+### 350080000000000020000270000000000000000000202902600720002500
+
+Điều 35.8.NL.2.25. Tiếp xúc cử tri định kỳ trước và sau kỳ họp thường lệ của Quốc hội
+
+### 350080000000000020000270000000000000000000202902600720002700
+
+Điều 35.8.NL.2.27. Tiếp xúc cử tri nơi cư trú
+
+### 350080000000000020000270000000000000000000202902600720002800
+
+Điều 35.8.NL.2.28. Tiếp xúc cử tri nơi làm việc
+
+### 350080000000000020000270000000000000000000202902600720002900
+
+Điều 35.8.NL.2.29. Tiếp xúc cử tri theo chuyên đề, lĩnh vực
+
+### 350080000000000020000270000000000000000000202902600720003000
+
+Điều 35.8.NL.2.30. Tiếp xúc cử tri theo đối tượng của đại biểu Quốc hội
+
+### 350080000000000020000270000000000000000000202902600720003100
+
+Điều 35.8.NL.2.31. Tiếp xúc cử tri ngoài địa bàn tỉnh, thành phố, nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến
+
+### 350080000000000020000270000000000000000000202902600720003300
+
+Điều 35.8.NL.2.33. Tiếp xúc với cá nhân hoặc nhóm cử tri
+
+### 350080000000000020000270000000000000000000202902600720003400
+
+Điều 35.8.NL.2.34. Tiếp xúc cử tri trước và sau kỳ họp không thường lệ của Quốc hội, kỳ họp chuyên đề hoặc giải quyết các vấn đề phát sinh đột xuất của Hội đồng nhân dân
+
+### 350080000000000020000270000000000000000000202902600720003500
+
+Điều 35.8.NL.2.35. Tiếp xúc cử tri trực tuyến, tiếp xúc cử tri trực tiếp kết hợp với trực tuyến
+
+### 350080000000000020000270000000000000000000202902600720003600
+
+Điều 35.8.NL.2.36. Tiếp xúc cử tri trong tình hình thiên tai, dịch bệnh hoặc sự kiện bất khả kháng
+
+### 350080000000000020000270000000000000000000202902600720003700
+
+Điều 35.8.NL.2.37. Tập hợp, tổng hợp, chuyển ý kiến, kiến nghị của cử tri thông qua hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+
+### 350080000000000020000270000000000000000000202902600720003800
+
+Điều 35.8.NL.2.38. Thu thập, tổng hợp ý kiến, kiến nghị của cử tri trước và sau kỳ họp không thường lệ của Quốc hội
+
+### 350080000000000020000270000000000000000000202902600720004400
+
+Điều 35.8.NL.2.44. Trách nhiệm giải quyết, trả lời kiến nghị của cử tri liên quan đến hoạt động của Quốc hội
+
+### 350080000000000020000270000000000000000000202902600720004900
+
+Điều 35.8.NL.2.49. Thời hạn giải quyết, trả lời kiến nghị của cử tri, báo cáo kết quả giải quyết kiến nghị của cử tri đối với hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+
+### 350080000000000020000270000000000000000000202902600720005100
+
+Điều 35.8.NL.2.51. Công khai kết quả giải quyết, trả lời kiến nghị của cử tri
+
+### 350080000000000020000270000000000000000000202902600720005300
+
+Điều 35.8.NL.2.53. Trách nhiệm tham gia giám sát việc giải quyết, trả lời kiến nghị của cử tri
+
+### 3500800000000000200002800000000000000000
+
+Điều 35.8.LQ.28. Trách nhiệm tiếp công dân, tiếp nhận và xử lý khiếu nại, tố cáo, kiến nghị của công dân
+
+### 350080000000000020000280000000000000000000201977802280000100
+
+Điều 35.8.NQ.1.1. Đại biểu Quốc hội tiếp công dân
+
+### 350080000000000020000280000000000000000000201977802280000200
+
+Điều 35.8.NQ.1.2. Đại biểu Quốc hội tiếp nhận ý kiến, kiến nghị của công dân
+
+### 350080000000000020000280000000000000000000201977802280000300
+
+Điều 35.8.NQ.1.3. Đại biểu Quốc hội tiếp nhận, chuyển khiếu nại, tố cáo và đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo của công dân
+
+### 350080000000000020000280000000000000000000201977802280000400
+
+Điều 35.8.NQ.1.4. Trách nhiệm của các cơ quan, tổ chức hữu quan
+
+### 350080000000000020000280000000000000000000201977802280000500
+
+Điều 35.8.NQ.1.5. Điều kiện bảo đảm để đại biểu quốc hội tiếp công dân, tiếp nhận, chuyển đơn, đôn đốc, theo dõi việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+
+### 3500800000000000200002900000000000000000
+
+Điều 35.8.LQ.29. Quyền trình dự án luật, pháp lệnh và kiến nghị về luật, pháp lệnh
+
+### 3500800000000000200003000000000000000000
+
+Điều 35.8.LQ.30. Quyền tham gia làm thành viên và tham gia hoạt động của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 3500800000000000200003100000000000000000
+
+Điều 35.8.LQ.31. Quyền ứng cử, giới thiệu người ứng cử vào các chức danh do Quốc hội bầu
+
+### 3500800000000000200003200000000000000000
+
+Điều 35.8.LQ.32. Quyền chất vấn
+
+### 3500800000000000200003300000000000000000
+
+Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội
+
+### 3500800000000000200003400000000000000000
+
+Điều 35.8.LQ.34. Quyền yêu cầu khi phát hiện hành vi vi phạm pháp luật
+
+### 3500800000000000200003500000000000000000
+
+Điều 35.8.LQ.35. Quyền yêu cầu cung cấp thông tin
+
+### 3500800000000000200003600000000000000000
+
+Điều 35.8.LQ.36. Quyền tham dự kỳ họp Hội đồng nhân dân
+
+### 3500800000000000200003700000000000000000
+
+Điều 35.8.LQ.37. Quyền miễn trừ của đại biểu Quốc hội
+
+### 3500800000000000200003800000000000000000
+
+Điều 35.8.LQ.38. Việc chuyển công tác, xin thôi làm nhiệm vụ đại biểu Quốc hội
+
+### 3500800000000000200003900000000000000000
+
+Điều 35.8.LQ.39. Việc tạm đình chỉ hoặc mất quyền đại biểu Quốc hội
+
+### 3500800000000000200004000000000000000000
+
+Điều 35.8.LQ.40. Việc bãi nhiệm đại biểu Quốc hội
+
+### 3500800000000000200004100000000000000000
+
+Điều 35.8.LQ.41. Phụ cấp và các chế độ khác của đại biểu Quốc hội
+
+### 350080000000000020000410000000000000000000202616003530000300
+
+Điều 35.8.NQ.10.3. Nguyên tắc chung
+
+### 350080000000000020000410000000000000000000202616003530000400
+
+Điều 35.8.NQ.10.4. Chế độ đối với đại biểu Quốc hội
+
+### 3500800000000000200004200000000000000000
+
+Điều 35.8.LQ.42. Điều kiện bảo đảm cho đại biểu Quốc hội
+
+### 350080000000000020000420000000000000000000202616003530000500
+
+Điều 35.8.NQ.10.5. Các điều kiện bảo đảm
+
+### 3500800000000000200004300000000000000000
+
+Điều 35.8.LQ.43. Đoàn đại biểu Quốc hội
+
+### 350080000000000020000430000000000000000000202741010040000100
+
+Điều 35.8.NQ.11.1. Việc thành lập, vị trí, chức năng của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
+
+### 350080000000000020000430000000000000000000202741010040000200
+
+Điều 35.8.NQ.11.2. Nhiệm vụ, quyền hạn của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
+
+### 350080000000000020000430000000000000000000202741010040000300
+
+Điều 35.8.NQ.11.3. Cơ cấu tổ chức của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh
+
+### 350080000000000020000430000000000000000000202741010040000400
+
+Điều 35.8.NQ.11.4. Chế độ làm việc
+
+### 350080000000000020000430000000000000000000202741010040000500
+
+Điều 35.8.NQ.11.5. Trụ sở làm việc và kinh phí hoạt động
+
+### 350080000000000020000430000000000000000000202741010040000600
+
+Điều 35.8.NQ.11.6. Mối quan hệ công tác
+
+### 350080000000000020000430000000000000000000202902600720000600
+
+Điều 35.8.NL.2.6. Trách nhiệm của Đoàn đại biểu Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+
+### 350080000000000020000430000000000000000000202902600720001600
+
+Điều 35.8.NL.2.16. Trách nhiệm của Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân
+
+### 350080000000000020000430000000000000000000202902600720003900
+
+Điều 35.8.NL.2.39. Báo cáo tổng hợp ý kiến, kiến nghị của cử tri của Đoàn đại biểu Quốc hội
+
+### 35008000000000003000
+
+Chương III ỦY BAN THƯỜNG VỤ QUỐC HỘI VÀ CHỦ TỊCH QUỐC HỘI
+
+### 3500800000000000300000202902600720005500
+
+Điều 35.8.NL.2.55. Ủy ban Thường vụ Quốc hội xem xét, thảo luận về nội dung kiến nghị của cử tri và Nhân dân; tình hình tiếp nhận, giải quyết, trả lời kiến nghị của cử tri tại báo cáo về công tác dân nguyện
+
+### 3500800000000000300004400000000000000000
+
+Điều 35.8.LQ.44. Vị trí, chức năng, cơ cấu tổ chức và nguyên tắc hoạt động của Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300004500000000000000000
+
+Điều 35.8.LQ.45. Trách nhiệm của các thành viên Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300004600000000000000000
+
+Điều 35.8.LQ.46. Phối hợp công tác giữa Ủy ban thường vụ Quốc hội với các cơ quan, tổ chức, đơn vị, cá nhân
+
+### 3500800000000000300004700000000000000000
+
+Điều 35.8.LQ.47. Ủy ban thường vụ Quốc hội chuẩn bị, triệu tập, chủ trì kỳ họp Quốc hội và các hội nghị khác
+
+### 350080000000000030000470000000000000000000202902600720005400
+
+Điều 35.8.NL.2.54. Xem xét kết quả giám sát việc giải quyết, trả lời kiến nghị của cử tri tại kỳ họp Quốc hội, kỳ họp Hội đồng nhân dân
+
+### 3500800000000000300004800000000000000000
+
+Điều 35.8.LQ.48. Xây dựng luật, pháp lệnh, nghị quyết
+
+### 3500800000000000300004900000000000000000
+
+Điều 35.8.LQ.49. Giải thích Hiến pháp, luật, pháp lệnh
+
+### 3500800000000000300005000000000000000000
+
+Điều 35.8.LQ.50. Giám sát của Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300005100000000000000000
+
+Điều 35.8.LQ.51. Đình chỉ, bãi bỏ văn bản của cơ quan nhà nước ở trung ương
+
+### 3500800000000000300005200000000000000000
+
+Điều 35.8.LQ.52. Ủy ban thường vụ Quốc hội chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng dân tộc và Ủy ban của Quốc hội
+
+### 3500800000000000300005300000000000000000
+
+Điều 35.8.LQ.53. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc bầu, miễn nhiệm, bãi nhiệm, phê chuẩn các chức danh trong bộ máy nhà nước
+
+### 3500800000000000300005400000000000000000
+
+Điều 35.8.LQ.54. Trách nhiệm của Ủy ban thường vụ Quốc hội đối với hoạt động của đại biểu Quốc hội, Đoàn đại biểu Quốc hội
+
+### 3500800000000000300005500000000000000000
+
+Điều 35.8.LQ.55. Ủy ban thường vụ Quốc hội giám sát, hướng dẫn hoạt động của Hội đồng nhân dân
+
+### 3500800000000000300005600000000000000000
+
+Điều 35.8.LQ.56. Thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc Trung ương
+
+### 3500800000000000300005700000000000000000
+
+Điều 35.8.LQ.57. Quyết định tình trạng chiến tranh, quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp
+
+### 3500800000000000300005800000000000000000
+
+Điều 35.8.LQ.58. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc thực hiện quan hệ đối ngoại của Quốc hội
+
+### 3500800000000000300005900000000000000000
+
+Điều 35.8.LQ.59. Trách nhiệm của Ủy ban thường vụ Quốc hội trong việc tổ chức trưng cầu ý dân
+
+### 3500800000000000300006000000000000000000
+
+Điều 35.8.LQ.60. Phiên họp Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300006100000000000000000
+
+Điều 35.8.LQ.61. Thời gian tiến hành phiên họp Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300006200000000000000000
+
+Điều 35.8.LQ.62. Dự kiến chương trình và quyết định triệu tập phiên họp Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300006300000000000000000
+
+Điều 35.8.LQ.63. Tài liệu phục vụ phiên họp Ủy ban thường vụ Quốc hội
+
+### 3500800000000000300006400000000000000000
+
+Điều 35.8.LQ.64. Nhiệm vụ, quyền hạn của Chủ tịch Quốc hội
+
+### 3500800000000000300006500000000000000000
+
+Điều 35.8.LQ.65. Nhiệm vụ, quyền hạn của các Phó Chủ tịch Quốc hội
+
+### 35008000000000004000
+
+Chương IV HỘI ĐỒNG DÂN TỘC VÀ CÁC ỦY BAN CỦA QUỐC HỘI
+
+### 3500800000000000400006600000000000000000
+
+Điều 35.8.LQ.66. Hội đồng dân tộc, các Ủy ban của Quốc hội
+
+### 350080000000000040000660000000000000000000102902401780000100
+
+Điều 35.8.NQ.23.1. Các cơ quan của Quốc hội
+
+### 3500800000000000400006700000000000000000
+
+Điều 35.8.LQ.67. Cơ cấu tổ chức của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 3500800000000000400006800000000000000000
+
+Điều 35.8.LQ.68. Nguyên tắc làm việc, nhiệm kỳ và trách nhiệm báo cáo của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350080000000000040000680000000000000000000202913200800000100
+
+Điều 35.8.NQ.27.1.
+
+### 350080000000000040000680000000000000000000202913200800000200
+
+Điều 35.8.NQ.27.2.
+
+### 3500800000000000400006810000000000000000
+
+Điều 35.8.LQ.68a. Chức năng, nhiệm vụ, quyền hạn của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710000100
+
+Điều 35.8.NQ.24.1. Hội đồng Dân tộc, các Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710000200
+
+Điều 35.8.NQ.24.2. Cơ cấu tổ chức của Hội đồng Dân tộc, các Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710000300
+
+Điều 35.8.NQ.24.3. Nguyên tắc làm việc
+
+### 350080000000000040000681000000000000000000202902400710000400
+
+Điều 35.8.NQ.24.4. Phiên họp toàn thể của Hội đồng Dân tộc, Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710000500
+
+Điều 35.8.NQ.24.5. Nhiệm vụ, quyền hạn cụ thể của Hội đồng Dân tộc
+
+### 350080000000000040000681000000000000000000202902400710000600
+
+Điều 35.8.NQ.24.6. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Pháp luật và Tư pháp
+
+### 350080000000000040000681000000000000000000202902400710000700
+
+Điều 35.8.NQ.24.7. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Kinh tế và Tài chính
+
+### 350080000000000040000681000000000000000000202902400710000800
+
+Điều 35.8.NQ.24.8. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Quốc phòng, An ninh và Đối ngoại
+
+### 350080000000000040000681000000000000000000202902400710000900
+
+Điều 35.8.NQ.24.9. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Văn hóa và Xã hội
+
+### 350080000000000040000681000000000000000000202902400710001000
+
+Điều 35.8.NQ.24.10. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Khoa học, Công nghệ và Môi trường
+
+### 350080000000000040000681000000000000000000202902400710001100
+
+Điều 35.8.NQ.24.11. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Công tác đại biểu
+
+### 350080000000000040000681000000000000000000202902400710001200
+
+Điều 35.8.NQ.24.12. Nhiệm vụ, quyền hạn cụ thể của Ủy ban Dân nguyện và Giám sát
+
+### 35008000000000004000068100000000000000000020290240071000120000202902600720005200
+
+Điều 35.8.NL.2.52. Cơ quan giúp Ủy ban Thường vụ Quốc hội giám sát việc giải quyết, trả lời kiến nghị của cử tri
+
+### 350080000000000040000681000000000000000000202902400710001300
+
+Điều 35.8.NQ.24.13. Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng Dân tộc, các Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710001400
+
+Điều 35.8.NQ.24.14. Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710001500
+
+Điều 35.8.NQ.24.15. Nhiệm vụ, quyền hạn của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội trong việc thực hiện nhiệm vụ của cơ quan thường trực
+
+### 350080000000000040000681000000000000000000202902400710001600
+
+Điều 35.8.NQ.24.16. Nhiệm vụ, quyền hạn của Thường trực Hội đồng Dân tộc, Thường trực Ủy ban của Quốc hội trong việc giúp Quốc hội, Ủy ban Thường vụ Quốc hội theo phân công
+
+### 350080000000000040000681000000000000000000202902400710001700
+
+Điều 35.8.NQ.24.17. Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710001800
+
+Điều 35.8.NQ.24.18. Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710001900
+
+Điều 35.8.NQ.24.19. Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710002000
+
+Điều 35.8.NQ.24.20. Ủy viên là đại biểu Quốc hội hoạt động kiêm nhiệm của Hội đồng Dân tộc, Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710002100
+
+Điều 35.8.NQ.24.21. Tạm đình chỉ công tác, cho thôi giữ chức vụ đối với Phó Chủ tịch Hội đồng Dân tộc, Phó Chủ nhiệm Ủy ban của Quốc hội và Ủy viên là đại biểu Quốc hội hoạt động chuyên trách tại Hội đồng Dân tộc, Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710002200
+
+Điều 35.8.NQ.24.22. Vụ chuyên môn của Hội đồng Dân tộc, các Ủy ban của Quốc hội
+
+### 350080000000000040000681000000000000000000202902400710002300
+
+Điều 35.8.NQ.24.23. Cơ cấu tổ chức của Vụ chuyên môn
+
+### 350080000000000040000681000000000000000000202902400710002400
+
+Điều 35.8.NQ.24.24. Nhiệm vụ, quyền hạn của Vụ chuyên môn
+
+### 350080000000000040000681000000000000000000202902400710002500
+
+Điều 35.8.NQ.24.25. Trách nhiệm của Văn phòng Quốc hội trong việc bảo đảm điều kiện hoạt động của Hội đồng Dân tộc, các Ủy ban của Quốc hội
+
+### 3500800000000000400006900000000000000000
+
+Điều 35.8.LQ.69. Nhiệm vụ, quyền hạn của Hội đồng dân tộc
+
+### 3500800000000000400007000000000000000000
+
+Điều 35.8.LQ.70. Nhiệm vụ, quyền hạn của Ủy ban pháp luật
+
+### 3500800000000000400007100000000000000000
+
+Điều 35.8.LQ.71. Nhiệm vụ, quyền hạn của Ủy ban tư pháp
+
+### 3500800000000000400007200000000000000000
+
+Điều 35.8.LQ.72. Nhiệm vụ, quyền hạn của Ủy ban kinh tế
+
+### 3500800000000000400007300000000000000000
+
+Điều 35.8.LQ.73. Nhiệm vụ, quyền hạn của Ủy ban tài chính, ngân sách
+
+### 3500800000000000400007400000000000000000
+
+Điều 35.8.LQ.74. Nhiệm vụ, quyền hạn của Ủy ban quốc phòng và an ninh
+
+### 3500800000000000400007500000000000000000
+
+Điều 35.8.LQ.75. Nhiệm vụ, quyền hạn của Ủy ban văn hóa, giáo dục
+
+### 3500800000000000400007600000000000000000
+
+Điều 35.8.LQ.76. Nhiệm vụ, quyền hạn của Ủy ban xã hội
+
+### 3500800000000000400007700000000000000000
+
+Điều 35.8.LQ.77. Nhiệm vụ, quyền hạn của Ủy ban khoa học, công nghệ và môi trường
+
+### 3500800000000000400007800000000000000000
+
+Điều 35.8.LQ.78. Nhiệm vụ, quyền hạn của Ủy ban đối ngoại
+
+### 3500800000000000400007900000000000000000
+
+Điều 35.8.LQ.79. Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng dân tộc, các Ủy ban của Quốc hội
+
+### 3500800000000000400008000000000000000000
+
+Điều 35.8.LQ.80. Trách nhiệm của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc bảo vệ Hiến pháp
+
+### 3500800000000000400008100000000000000000
+
+Điều 35.8.LQ.81. Yêu cầu báo cáo, cung cấp tài liệu, cử thành viên đến xem xét, xác minh
+
+### 3500800000000000400008200000000000000000
+
+Điều 35.8.LQ.82. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 3500800000000000400008300000000000000000
+
+Điều 35.8.LQ.83. Phối hợp công tác với các cơ quan, tổ chức ở địa phương
+
+### 3500800000000000400008400000000000000000
+
+Điều 35.8.LQ.84. Quan hệ đối ngoại và hợp tác quốc tế
+
+### 3500800000000000400008500000000000000000
+
+Điều 35.8.LQ.85. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội
+
+### 3500800000000000400008600000000000000000
+
+Điều 35.8.LQ.86. Nhiệm vụ, quyền hạn của Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội
+
+### 3500800000000000400008700000000000000000
+
+Điều 35.8.LQ.87. Phiên họp toàn thể của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 3500800000000000400008800000000000000000
+
+Điều 35.8.LQ.88. Thành lập Ủy ban lâm thời
+
+### 3500800000000000400008900000000000000000
+
+Điều 35.8.LQ.89. Cơ cấu tổ chức, nhiệm vụ, quyền hạn của Ủy ban lâm thời
+
+### 35008000000000005000
+
+Chương V KỲ HỌP QUỐC HỘI
+
+### 3500800000000000500009000000000000000000
+
+Điều 35.8.LQ.90. Kỳ họp Quốc hội
+
+### 350080000000000050000900000000000000000000102819800710000100
+
+Điều 35.8.NQ.17.1.
+
+### 35008000000000005000090000000000000000000010281980071000010000202828900310001101
+
+Điều 35.8.NQ.19.11a. Tổng hợp ý kiến của đại biểu Quốc hội đối với nội dung về công tác nhân sự
+
+### 3500800000000000500009100000000000000000
+
+Điều 35.8.LQ.91. Chương trình kỳ họp Quốc hội
+
+### 3500800000000000500009200000000000000000
+
+Điều 35.8.LQ.92. Triệu tập kỳ họp Quốc hội
+
+### 3500800000000000500009300000000000000000
+
+Điều 35.8.LQ.93. Người được mời tham dự kỳ họp Quốc hội; dự thính tại phiên họp Quốc hội
+
+### 3500800000000000500009400000000000000000
+
+Điều 35.8.LQ.94. Các hình thức làm việc tại kỳ họp Quốc hội
+
+### 3500800000000000500009500000000000000000
+
+Điều 35.8.LQ.95. Trách nhiệm chủ tọa các phiên họp Quốc hội
+
+### 3500800000000000500009600000000000000000
+
+Điều 35.8.LQ.96. Biểu quyết tại phiên họp toàn thể
+
+### 3500800000000000500009700000000000000000
+
+Điều 35.8.LQ.97. Tài liệu phục vụ kỳ họp Quốc hội
+
+### 35008000000000006000
+
+Chương VI BỘ MÁY GIÚP VIỆC VÀ KINH PHÍ HOẠT ĐỘNG CỦA QUỐC HỘI
+
+### 3500800000000000600009800000000000000000
+
+Điều 35.8.LQ.98. Tổng thư ký Quốc hội
+
+### 350080000000000060000980000000000000000000202904100730000100
+
+Điều 35.8.NQ.25.1.
+
+### 3500800000000000600009900000000000000000
+
+Điều 35.8.LQ.99. Văn phòng Quốc hội
+
+### 350080000000000060000990000000000000000000202898200630000100
+
+Điều 35.8.NQ.21.1.
+
+### 350080000000000060000990000000000000000000202898200630000200
+
+Điều 35.8.NQ.21.2.
+
+### 350080000000000060000990000000000000000000202898200640000100
+
+Điều 35.8.NQ.22.1.
+
+### 350080000000000060000990000000000000000000202898200640000200
+
+Điều 35.8.NQ.22.2.
+
+### 350080000000000060000990000000000000000000202902600720001500
+
+Điều 35.8.NL.2.15. Trách nhiệm của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội , Văn phòng Quốc hội trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+
+### 350080000000000060000990000000000000000000202904100740000100
+
+Điều 35.8.NQ.26.1. Chức năng của Văn phòng Quốc hội
+
+### 350080000000000060000990000000000000000000202904100740000200
+
+Điều 35.8.NQ.26.2. Nhiệm vụ và quyền hạn của Văn phòng Quốc hội
+
+### 350080000000000060000990000000000000000000202904100740000300
+
+Điều 35.8.NQ.26.3. Thành lập, tổ chức lại, giải thể các vụ, cục, đơn vị
+
+### 350080000000000060000990000000000000000000202904100740000400
+
+Điều 35.8.NQ.26.4. Cơ cấu tổ chức của Văn phòng Quốc hội
+
+### 350080000000000060000990000000000000000000202904100740000500
+
+Điều 35.8.NQ.26.5. Công tác chỉ đạo, điều hành
+
+### 350080000000000060000990000000000000000000202904100740000600
+
+Điều 35.8.NQ.26.6. Công tác tổ chức, cán bộ
+
+### 350080000000000060000990000000000000000000202904100740000700
+
+Điều 35.8.NQ.26.7. Công tác quản lý tài chính, tài sản
+
+### 3500800000000000600010000000000000000000
+
+Điều 35.8.LQ.100. Các cơ quan thuộc Ủy ban thường vụ Quốc hội
+
+### 3500800000000000600010100000000000000000
+
+Điều 35.8.LQ.101. Kinh phí hoạt động của Quốc hội
+
+### 350080000000000060001010000000000000000000202449005240000200
+
+Điều 35.8.NQ.5.2. Nguyên tắc chung
+
+### 350080000000000060001010000000000000000000202449005240000300
+
+Điều 35.8.NQ.5.3. Chi cho công tác thẩm tra, chỉnh lý dự án luật, pháp lệnh, nghị quyết
+
+### 350080000000000060001010000000000000000000202449005240000400
+
+Điều 35.8.NQ.5.4. Chi cho công tác thẩm tra khác theo quy định của pháp luật hoặc theo sự phân công của Ủy ban thường vụ Quốc hội
+
+### 350080000000000060001010000000000000000000202449005240000500
+
+Điều 35.8.NQ.5.5. Chi lấy ý kiến tham gia dự án luật
+
+### 350080000000000060001010000000000000000000202449005240000600
+
+Điều 35.8.NQ.5.6. Chi cho công tác giám sát, khảo sát
+
+### 350080000000000060001010000000000000000000202449005240000700
+
+Điều 35.8.NQ.5.7. Chi tiếp xúc cử tri theo chương trình tiếp xúc cử tri của Đoàn đại biểu Quốc hội, đại biểu Quốc hội (bao gồm cả tiếp xúc cử tri ngoài địa phương ứng cử của đại biểu Quốc hội)
+
+### 35008000000000006000101000000000000000000020244900524000070000202902600720005700
+
+Điều 35.8.NL.2.57. Kinh phí bảo đảm hoạt động tiếp xúc cử tri
+
+### 350080000000000060001010000000000000000000202449005240000800
+
+Điều 35.8.NQ.5.8. Chi tiếp công dân và xử lý đơn thư khiếu nại, tố cáo
+
+### 350080000000000060001010000000000000000000202449005240000900
+
+Điều 35.8.NQ.5.9. Chi phục vụ hoạt động đối ngoại
+
+### 350080000000000060001010000000000000000000202449005240001000
+
+Điều 35.8.NQ.5.10. Chế độ chi cho công tác xây dựng đề án, chương trình, kế hoạch công tác nhiệm kỳ, hàng năm; chi xây dựng báo cáo trình Đảng Đoàn Quốc hội, Ủy ban thường vụ Quốc hội, Quốc hội
+
+### 350080000000000060001010000000000000000000202449005240001100
+
+Điều 35.8.NQ.5.11. Chế độ công tác phí, hội nghị
+
+### 350080000000000060001010000000000000000000202449005240001200
+
+Điều 35.8.NQ.5.12. Chi hỗ trợ đối với đại biểu Quốc hội
+
+### 350080000000000060001010000000000000000000202449005240001300
+
+Điều 35.8.NQ.5.13. Chi hỗ trợ đối với cán bộ, công chức và người lao động phục vụ hoạt động Quốc hội
+
+### 350080000000000060001010000000000000000000202449005240001400
+
+Điều 35.8.NQ.5.14. Chế độ chi khác phục vụ hoạt động Quốc hội
+
+### 35008000000000007000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 3500800000000000700010200000000000000000
+
+Điều 35.8.LQ.102. Hiệu lực thi hành
+
+### 3500800000000000700010210252810057001030
+
+Điều 35.8.LQ.103. Điều khoản thi hành
+
+### 3500800000000000700010210252810057001040
+
+Điều 35.8.LQ.104. Hiệu lực thi hành
+
+### 3500800000000000700010210281980071000020
+
+Điều 35.8.NQ.17.2.
+
+### 3500800000000000700010210281980071000030
+
+Điều 35.8.NQ.17.3.
+
+### 3500800000000000700010210281980071000040
+
+Điều 35.8.NQ.17.4. Điều khoản thi hành
+
+### 3500800000000000700010210290240178000020
+
+Điều 35.8.NQ.23.2. Hiệu lực thi hành
+
+### 3500800000000000700010210290240178000030
+
+Điều 35.8.NQ.23.3. Điều khoản chuyển tiếp
+
+### 3500800000000000700010220212130417000100
+
+Điều 35.8.NQ.2.10. Điều khoản thi hành
+
+### 3500800000000000700010220230540694000160
+
+Điều 35.8.NQ.4.16.
+
+### 3500800000000000700010220230540694000170
+
+Điều 35.8.NQ.4.17.
+
+### 3500800000000000700010220244900524000150
+
+Điều 35.8.NQ.5.15. Hiệu lực thi hành
+
+### 3500800000000000700010220257641170000020
+
+Điều 35.8.NQ.9.2.
+
+### 3500800000000000700010220257641170000030
+
+Điều 35.8.NQ.9.3.
+
+### 3500800000000000700010220261600353000060
+
+Điều 35.8.NQ.10.6. Hiệu lực thi hành
+
+### 3500800000000000700010220261600353000070
+
+Điều 35.8.NQ.10.7. Tổ chức thực hiện
+
+### 3500800000000000700010220274101004000070
+
+Điều 35.8.NQ.11.7. Điều khoản thi hành
+
+### 3500800000000000700010220274101004000080
+
+Điều 35.8.NQ.11.8. Điều khoản chuyển tiếp
+
+### 3500800000000000700010220279260015000070
+
+Điều 35.8.NQ.14.7. Điều khoản thi hành
+
+### 3500800000000000700010220282250029000030
+
+Điều 35.8.NQ.18.3.
+
+### 3500800000000000700010220282250029000040
+
+Điều 35.8.NQ.18.4. Hiệu lực thi hành
+
+### 3500800000000000700010220282890031000160
+
+Điều 35.8.NQ.19.16. Hiệu lực thi hành
+
+### 3500800000000000700010220282890031000170
+
+Điều 35.8.NQ.19.17. Hiệu lực thi hành
+
+### 3500800000000000700010220289820063000030
+
+Điều 35.8.NQ.21.3.
+
+### 3500800000000000700010220289820064000030
+
+Điều 35.8.NQ.22.3.
+
+### 3500800000000000700010220290240071000260
+
+Điều 35.8.NQ.24.26. Điều khoản thi hành
+
+### 3500800000000000700010220290260072000560
+
+Điều 35.8.NL.2.56. Tổ chức thi hành
+
+### 3500800000000000700010220290260072000580
+
+Điều 35.8.NL.2.58. Hiệu lực thi hành
+
+### 3500800000000000700010220290260072000590
+
+Điều 35.8.NL.2.59. Điều khoản thi hành
+
+### 3500800000000000700010220290410073000020
+
+Điều 35.8.NQ.25.2.
+
+### 3500800000000000700010220290410074000080
+
+Điều 35.8.NQ.26.8. Hiệu lực thi hành
+
+### 3500800000000000700010220291320080000030
+
+Điều 35.8.NQ.27.3.
+

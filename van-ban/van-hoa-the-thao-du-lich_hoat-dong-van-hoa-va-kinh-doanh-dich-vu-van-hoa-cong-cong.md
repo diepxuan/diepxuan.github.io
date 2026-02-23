@@ -1,335 +1,373 @@
 ---
-layout: default
+layout: page
 title: Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng
 permalink: /van-ban/van-hoa-the-thao-du-lich/hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong/
-collection: subtopics
-slug: hoat-dong-van-hoa-va-kinh-doanh-dich-vu-van-hoa-cong-cong
-parent: van-hoa-the-thao-du-lich
 ---
 
 # Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng
 
-**Đề mục:** Hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng  
-**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)  
-**Số điều khoản:** 23  
-**Điều khoản có nội dung:** 3/23 (13.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Điều 41.8.NĐ.1.
 
+(Điều 1 Nghị định số 103/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2010, có nội dung bị bãi bỏ, có nội dung được sửa đổi bởi Điều 2 Nghị định số 01/2012/NĐ-CP có hiệu lực thi hành kể từ ngày 27/02/2012; Điều 40 Nghị định số 113/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/12/2013; Điều 16 Nghị định số 72/2016/NĐ-CP có hiệu lực thi hành kể từ ngày 15/08/2016; Điều 22 Nghị định số 110/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 15/10/2018; Điều 7 Nghị định số 142/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 09/10/2018; Điều 21 Nghị định số 54/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 01/09/2019)
 
-### Điều 41.8.NĐ.1.
+Ban hành kèm theo Nghị định này Quy chế hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng.
 
-*Nội dung chưa có sẵn*
+Quychehoatdongvanhoavakinhdoanhdichvuvanhoacongcong.doc
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.5. Đối tượng của hoạt động trong lĩnh vực tiêu chuẩn và đối tượng của hoạt động trong lĩnh vực quy chuẩn kỹ thuật; Điều 19.8.LQ.10. Hệ thống tiêu chuẩn và ký hiệu tiêu chuẩn; Điều 41.9.LQ.1. Phạm vi điều chỉnh; Điều 41.9.LQ.31. Cấp giấy phép xây dựng công trình quảng cáo; Điều 41.9.LQ.34. Biển hiệu của tổ chức, cá nhân hoạt động sản xuất, kinh doanh; Điều 41.5.LQ.9. Các hành vi bị nghiêm cấm trong hoạt động du lịch; Điều 34.6.LQ.1. Phạm vi điều chỉnh của Luật 61/2020/QH14 đầu tư ban hành ngày 17/06/2020; Mục 2 TRIỂN LÃM MỸ THUẬT của Nghị định 113/2013/NĐ-CP Về hoạt động mỹ thuật ban hành ngày 02/10/2013; Điều 41.9.NĐ.1.26. Trách nhiệm quản lý nhà nước về quảng cáo của Bộ Văn hóa, Thể thao và Du lịch; Điều 39.13.NĐ.91.16. Vi phạm quy định về hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng; Điều 39.13.NĐ.91.48. Vi phạm quy định về biển hiệu của Nghị định 38/2021/NĐ-CP Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực văn hóa và quảng cáo. ban hành ngày 29/03/2021; Điều 41.5.TT.2.11. Tiêu chuẩn đối với cơ sở kinh doanh dịch vụ vui chơi, giải trí đạt tiêu chuẩn phục vụ khách du lịch)
 
-**Mã phân cấp:** 41008001000000000000
+Điều 41.8.TT.1.1. 
 
-**ID:** dk_00070099
+(Điều 1 Thông tư số 08/2000/TT-BVHTT Thông tư hướng dẫn quản lý trò chơi điện tử. ngày 28/04/2000 của Bộ Văn hóa - Thông tin, có hiệu lực thi hành kể từ ngày 01/06/2000 )
 
----
+ Trò chơi điện tử bao gồm:
 
+ 1. Máy có cài sẵn nội dung trò chơi điện tử hoặc nội dung vui chơi giải trí khác bằng kỹ thuật điện tử;
 
-### Điều 41.8.TT.1.1.
+ 2. Băng, đĩa, linh kiện có nội dung trò chơi điện tử;
 
-*Nội dung chưa có sẵn*
+ 3. Đầu máy, thiết bị phát trò chơi điện tử.
 
-**Chỉ mục:** 1
+ 4. Máy tính, mạng máy tính có nội dung trò chơi điện tử.Điều 41.8.TT.1.2. 
 
-**Mã phân cấp:** 4100800100000000000000801996200080000100
+(Điều 2 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-**ID:** dk_00070100
+ Đối tượng hoạt động trò chơi điện tử bao gồm:
 
----
+ 1. Hộ kinh doanh cá thể quy định tại Nghị định 02/2000/NĐ-CP ngày 3/2/2000 của Chính phủ kinh doanh dịch vụ trò chơi điện tử;
 
+ 2. Doanh nghiệp, công ty có đăng ký kinh doanh các ngành nghề khác kinh doanh thêm dịch vụ trò chơi điện tử;
 
-### Điều 41.8.TT.1.2.
+ 3. Doanh nghiệp, công ty chuyên kinh doanh dịch vụ trò chơi điện tử;
 
-*Nội dung chưa có sẵn*
+ 4. Tổ chức là đơn vị sự nghiệp có thu kinh doanh dịch vụ trò chơi điện tử;
 
-**Chỉ mục:** 2
+ 5. Cá nhân, tổ chức sử dụng trò chơi điện tử không nhằm mục đích kinh doanh;
 
-**Mã phân cấp:** 4100800100000000000000801996200080000200
+ 6. Đối tượng quy định tại khoản 2 và 3 Điều này bao gồm cả hợp đồng hợp tác kinh doanh và liên doanh với nước ngoài.Điều 41.8.TT.1.3. 
 
-**ID:** dk_00070101
+(Điều 3 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
----
+ Cá nhân, tổ chức sử dụng hoặc kinh doanh dịch vụ trò chơi điện tử chỉ được phép sử dụng máy hoặc băng, đĩa có nội dung vui chơi giải trí lành mạnh, góp phần phát triển thể chất, nâng cao nhận thức thẩm mỹ cho con người.Điều 41.8.TT.1.4.
 
+(Điều 4 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-### Điều 41.8.TT.1.3.
+Nghiêm cấm các hành vi sau:
 
-*Nội dung chưa có sẵn*
+1. Tổ chức trò chơi điện tử, sản xuất, xuất nhập khẩu máy, thiết bị, băng, đĩa, linh kiện trò chơi điện tử, đưa vào máy tính hoặc mạng máy tính trò chơi điện tử có nội dung:
 
-**Chỉ mục:** 3
+a/ Chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam;
 
-**Mã phân cấp:** 4100800100000000000000801996200080000300
+b/ Kích động bạo lực, chia rẽ giữa các dân tộc và nhân dân các nước, truyền bá tư tưởng, văn hoá phản động, lối sống dâm ô, đồi truỵ, các hành vi tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong mỹ tục Việt Nam;
 
-**ID:** dk_00070102
+c/ Xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, xúc phạm vĩ nhân, anh hùng dân tộc; vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của công dân;
 
----
+2. Tổ chức trò chơi điện tử có giải thưởng bằng tiền hoặc mang tính chất đánh bạc.
 
+3. Kinh doanh dịch vụ trò chơi điện tử ở địa điểm cách cổng ra vào của các trường học (từ mẫu giáo đến phổ thông trung học) dưới 200m, không phân biệt trường đó thuộc địa phương nào.
 
-### Điều 41.8.TT.1.4.
+Điều 41.8.TT.1.5. 
 
-*Nội dung chưa có sẵn*
+(Điều 5 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-**Chỉ mục:** 4
+ Điều kiện kinh doanh.
 
-**Mã phân cấp:** 4100800100000000000000801996200080000400
+ Đối tượng kinh doanh dịch vụ trò chơi điện tử quy định tại Thông tư này phải có các điều kiện sau:
 
-**ID:** dk_00070103
+ 1. Địa điểm thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp của mình đảm bảo vệ sinh, mùa hè phải thoáng, mùa đông phải ấm; không gây cản trở trật tự an toàn giao thông;
 
----
+ 2. Thiết bị đảm bảo thẩm mỹ lành mạnh; đảm bảo tiêu chuẩn kỹ thuật: Âm thanh rõ, mầu sắc đẹp, hình ảnh nét;
 
+ 3. Đối tượng là cá nhân phải tuân theo quy định tại khoản 5 và 6 Điều 9 Luật Doanh nghiệp;
 
-### Điều 41.8.TT.1.5.
+ 4. Đối tượng muốn hợp đồng hợp tác kinh doanh hoặc liên doanh với nước ngoài để kinh doanh dịch vụ trò chơi điện tử phải có vốn, luận chứng kinh tế kỹ thuật theo quy định của pháp luật về hợp tác đầu tư với nước ngoài.Điều 41.8.TT.1.6.
 
-*Nội dung chưa có sẵn*
+(Điều 6 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-**Chỉ mục:** 5
+Thủ tục đăng ký kinh doanh:
 
-**Mã phân cấp:** 4100800100000000000000801996200080000500
+1. Đối tượng quy định tại khoản 1 Điều 2 Thông tư này đăng ký kinh doanh tại Phòng đăng ký kinh doanh thuộc Uỷ ban nhân dân cấp huyện.
 
-**ID:** dk_00070104
+2. Đối tượng quy định tại khoản 2 và 3 Điều 2 Thông tư này đăng ký kinh doanh tại phòng đăng ký kinh doanh trong Sở Kế hoạch và Đầu tư.
 
----
+3. Đối với đối tượng muốn hợp tác kinh doanh hoặc liên doanh với nước ngoài kinh doanh dịch vụ trò chơi điện tử (bao gồm cả đối tượng chuyên kinh doanh dịch vụ trò chơi điện tử và đối tượng kinh doanh ngành nghề khác có kinh doanh thêm dịch vụ trò chơi điện tử) mà thuộc thẩm quyền cấp giấy phép đầu tư của Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương phải có văn bản thẩm định của Sở Văn hoá - Thông tin. Văn bản thẩm định của Sở Văn hoá - Thông tin đồng thời gửi Bộ Văn hoá - Thông tin (Vụ Kế hoạch) để báo cáo.
 
+4. Đối với đối tượng muốn hợp tác kinh doanh hoặc liên doanh với nước ngoài kinh doanh dịch vụ trò chơi điện tử (bao gồm cả đối tượng chuyên kinh doanh dịch vụ trò chơi điện tử và đối tượng kinh doanh ngành nghề khác có kinh doanh thêm dịch vụ trò chơi điện tử) mà thuộc thẩm quyền cấp giấy phép đầu tư của Bộ Kế hoạch - Đầu tư phải có văn bản thẩm định của Bộ Văn hoá - Thông tin.
 
-### Điều 41.8.TT.1.6.
+5. Đối tượng quy định tại khoản 4 Điều 2 Thông tư này khi kinh doanh phải đăng ký nộp thuế tại cơ quan thuế địa phương.
 
-*Nội dung chưa có sẵn*
+Điều 41.8.TT.1.7. 
 
-**Chỉ mục:** 6
+(Điều 7 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-**Mã phân cấp:** 4100800100000000000000801996200080000600
+ Sau khi được cấp giấy phép đầu tư hoặc giấy chứng nhận đăng ký kinh doanh dịch vụ trò chơi điện tử, các đối tượng được phép kinh doanh; đối với đối tượng hợp tác kinh doanh hoặc liên doanh với nước ngoài khi hoạt động phải gửi văn bản đăng ký với Sở Văn hoá - Thông tin sở tại. Văn bản đăng ký phải ghi rõ số giấy phép đầu tư, ngày cấp giấy phép, cơ quan cấp, trụ sở của đơn vị, số điện thoại, địa điểm kinh doanh trò chơi điện tử và phải thực hiện những quy định có liên quan tại Thông tư này.Điều 41.8.TT.1.8. 
 
-**ID:** dk_00070105
+(Điều 8 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
----
+ Tổ chức, cá nhân sử dụng hoặc kinh doanh trò chơi điện tử phải chịu trách nhiệm về nội dung, không được vi phạm các quy định cấm tại Điều 4 Thông tư này; Các điểm kinh doanh dịch vụ không được hoạt động quá 12 giờ đêm.
 
+ Trường hợp không tự xác định được nội dung thuộc quy định cấm hay không cấm, cá nhân, tổ chức sử dụng trò chơi điện tử phải đề nghị Sở Văn hoá - Thông tin sở tại thẩm định để xác định và phải nộp lệ phí thẩm định. Sở Văn hoá - Thông tin phải có dấu hiệu để xác định băng, đĩa, linh kiện đã được Sở thẩm định và cho phép phổ biến.Điều 41.8.TT.1.9.
 
-### Điều 41.8.TT.1.7.
+(Điều 9 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-*Nội dung chưa có sẵn*
+1. Việc đưa nội dung trò chơi điện tử vào mạng máy tính phải được phép của Bộ Văn hoá - Thông tin theo quy định hiện hành.
 
-**Chỉ mục:** 7
+2. Các đối tượng kinh doanh dịch vụ trò chơi điện tử nhập khẩu máy đã cài đặt nội dung trò chơi điện tử, băng đĩa, linh kiện có nội dung trò chơi điện tử phải được phép của Sở Văn hoá - Thông tin.
 
-**Mã phân cấp:** 4100800100000000000000801996200080000700
+Các Sở Văn hoá - Thông tin tổ chức việc dán tem hoặc ký hiệu trên các máy có cài đặt sẵn nội dung đã được Sở cho phép sử dụng.
 
-**ID:** dk_00070106
+Điều 41.8.TT.1.10.
 
----
+(Điều 10 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
+1. Đối tượng hoạt động trò chơi điện tử vi phạm quy định tại Thông tư này thì tuỳ theo tính chất, mức độ mà có thể bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.
 
-### Điều 41.8.TT.1.8.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 4100800100000000000000801996200080000800
-
-**ID:** dk_00070107
-
----
-
-
-### Điều 41.8.TT.1.9.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 4100800100000000000000801996200080000900
-
-**ID:** dk_00070108
-
----
-
-
-### Điều 41.8.TT.1.10.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 4100800100000000000000801996200080001000
-
-**ID:** dk_00070109
-
----
-
-
-### Điều 41.8.TT.2.3. Quy định cấm trong hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng
+2. Người có công phát hiện, tố cáo vi phạm hoặc có thành tích trong việc quản lý dịch vụ trò chơi điện tử được khen thưởng theo quy định của Nhà nước.
 
 Điều 41.8.TT.2.3. Quy định cấm trong hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 04/2009/TT-BVHTTDL Quy định chi tiết thi hành một số quy định tại Quy chế hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng ban hành kèm theo Nghị định số 103/2009/NĐ-CP ngày 06 tháng 11 năm 2009 của Chính phủ ngày 16/12/2009 của Bộ Văn hóa - Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/01/2010 )
 
-**Mã phân cấp:** 4100800100000000000000802348100047500300
+1. Các hoạt động văn hoá và kinh doanh dịch vụ văn hoá có nội dung kích động bạo lực, truyền bá các hành vi tội ác quy định tại điểm b khoản 1 Điều 3 Quy chế là những hoạt động trong đó có hình ảnh, ngôn ngữ, âm thanh, hành động miêu tả cảnh đánh đập, tra tấn, giết người dã man, tàn bạo và những hành vi khác xúc phạm đến nhân phẩm con người, trái với truyền thống yêu hoà bình và nhân ái của dân tộc Việt Nam, không nhằm tố cáo tội ác, không nhằm đề cao chính nghĩa, bao gồm:
 
-**ID:** dk_00070110
+a) Mô tả cảnh đầu rơi, máu chảy, cắt, chặt bộ phận cơ thể con người;
 
----
+b) Mô tả cảnh đâm chém, đấm đá, đánh đập tàn bạo;
 
+c) Mô tả cảnh rùng rợn, kinh dị, quằn quại, đau đớn của con người;
 
-### Điều 41.8.TT.2.9. Viết, đặt biển hiệu
+d) Mô tả cảnh thoả mãn, khoái trá của kẻ gây tội ác;
 
-*Nội dung chưa có sẵn*
+đ) Mô tả các hành động tội ác khác.
 
-**Chỉ mục:** 9
+2. Các hoạt động văn hoá và dịch vụ văn hoá có nội dung thể hiện lối sống dâm ô đồi truỵ quy định tại điểm b khoản 1 Điều 3 Quy chế là những hoạt động có hình ảnh, ngôn ngữ, âm thanh, hành động khêu gợi, kích thích dâm ô, truỵ lạc, vô luân, loạn luân trái với truyền thống đạo đức và thuần phong mỹ tục của dân tộc Việt Nam, bao gồm:
 
-**Mã phân cấp:** 4100800100000000000000802348100047500900
+a) Mô tả bộ phận sinh dục, hành động tình dục giữa người với người, giữa người với súc vật, hành động thủ dâm dưới mọi hình thức;
 
-**ID:** dk_00070111
+b) Mô tả khoả thân, hoặc không khoả thân nhưng kích thích tình dục;
 
----
+c) Mô tả nhu cầu tình dục.
 
+3. Trường hợp trên các sản phẩm văn hoá, trong các hoạt động văn hoá có những nội dung quy định tại khoản 2 Điều này để làm rõ tính cách nhân vật phải phù hợp với chủ đề của tác phẩm hoặc hoạt động cụ thể.
 
-### Điều 41.8.TT.2.14. Điều kiện kinh doanh và hoạt động kinh doanh trò chơi điện tử
+4. Hoạt động văn hoá và dịch vụ văn hoá có nội dung mê tín dị đoan quy định tại điểm b khoản 1 Điều 3 Quy chế là những hoạt động có nội dung làm mê hoặc người khác, trái với tự nhiên, gây tác động xấu về nhận thức, bao gồm: Cúng khấn trừ tà ma, chữa bệnh bằng phù phép, lên đồng phán truyền, xem bói, xin xăm, xóc thẻ, truyền bá sấm trạng, phù chú, cầu lợi cho mình gây hại cho người khác bằng cách yểm bùa, đốt đồ mã ở nơi công cộng và các hình thức mê tín dị đoan khác.
+
+(Điều này có nội dung liên quan đến Điều 41.5.LQ.9. Các hành vi bị nghiêm cấm trong hoạt động du lịch)
+
+Điều 41.8.TT.2.9. Viết, đặt biển hiệu
+
+(Điều 9 Thông tư số 04/2009/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/01/2010)
+
+Tên cơ quan chủ quản trực tiếp viết trên biển hiệu quy định tại điểm a khoản 3 Điều 23 Quy chế là cơ quan cấp trên trực tiếp quyết định về tổ chức, nhân sự, ngân sách hoặc giải quyết các chế độ, chính sách cho cơ quan, tổ chức viết, đặt biển hiệu, như Bộ Văn hoá, Thể thao và Du lịch là cơ quan chủ quản trực tiếp của Báo Văn hoá; Uỷ ban nhân dân thành phố Hà Nội là cơ quan chủ quản trực tiếp của Sở Giáo dục và Đào tạo Hà Nội; Đại học Quốc gia Hà Nội là cơ quan chủ quản trực tiếp của Đại học Khoa học xã hội và nhân văn; Tổng công ty X là cơ quan chủ quản trực tiếp của Công ty Y.
+
+Cơ quan quản lý nhà nước không phải là cơ quan chủ quản trực tiếp của văn phòng luật sư, của doanh nghiệp tư nhân hoặc một số loại hình công ty khác.
 
 Điều 41.8.TT.2.14. Điều kiện kinh doanh và hoạt động kinh doanh trò chơi điện tử
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 04/2009/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/01/2010)
 
-**Mã phân cấp:** 4100800100000000000000802348100047501400
+1. Hoạt động trò chơi điện tử quy định tại Quy chế bao gồm cả trò chơi trực tuyến (online games) và trò chơi sử dụng các máy không kết nối với mạng Internet; không bao gồm trò chơi điện tử có thưởng dành cho người nước ngoài.
 
-**ID:** dk_00070112
+2. Khoảng cách từ 200m trở lên quy định tại điểm a khoản 1 Điều 35 Quy chế tính từ cửa hàng trò chơi điện tử đến cổng các trường tiểu học, trung học cơ sở, trung học phổ thông.
 
----
+Điều 41.8.TT.2.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 04/2009/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/01/2010)
 
-### Điều 41.8.TT.2.1. Phạm vi điều chỉnh
+1. Thông tư này quy định chi tiết thi hành những nội dung sau đây của Quy chế hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng ban hành kèm theo Nghị định số 103/2009/NĐ-CP:
 
-*Nội dung chưa có sẵn*
+a) Quy định chung;
 
-**Chỉ mục:** 1
+e) Quy định về hoạt động trò chơi điện tử;
 
-**Mã phân cấp:** 41008001010000000000
+g) Quy định về biểu diễn nghệ thuật quần chúng.
 
-**ID:** dk_00070113
+2. Các hoạt động sau đây thực hiện theo văn bản của Bộ Văn hóa - Thông tin (cũ) và Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết riêng đối với từng lĩnh vực:
 
----
+a) Biểu diễn nghệ thuật chuyên nghiệp;
 
+b) Thi hoa hậu, hoa khôi, người đẹp;
 
-### Điều 41.8.TT.2.2. Giải thích từ ngữ
+c) Trình diễn thời trang, người mẫu;
 
-*Nội dung chưa có sẵn*
+d) Triển lãm văn hóa nghệ thuật;
 
-**Chỉ mục:** 2
+đ) Xây dựng tượng đài, tranh hoành tráng;
 
-**Mã phân cấp:** 41008001019900000000
+e) Sáng tác và triển lãm tranh cổ động;
 
-**ID:** dk_00070114
+g) Sáng tác điêu khắc;
 
----
+h) Nhiếp ảnh;
 
+i) Dạy nhạc, dạy khiêu vũ ngoài các cơ sở đào tạo công lập;
 
-### Điều 41.8.NĐ.2. Hiệu lực của Nghị định
+k) Một số hoạt động văn hóa, kinh doanh dịch vụ văn hóa khác.
 
-*Nội dung chưa có sẵn*
+Điều 41.8.TT.2.2. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 04/2009/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/01/2010)
 
-**Mã phân cấp:** 41008002000000000000
+Một số từ ngữ quy định tại Quy chế hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng ban hành kèm theo Nghị định số 103/2009/NĐ-CP (sau đây gọi là Quy chế) được hiểu như sau:
 
-**ID:** dk_00070115
+1. Các hoạt động văn hoá, dịch vụ văn hoá và các hình thức vui chơi giải trí khác quy định tại điểm a khoản 1 Điều 2 Quy chế
 
----
+a) Các dịch vụ văn hoá khác gồm: Thu âm (phòng thu nhạc và lời); ghi hình (quay camera); vẽ truyền thần, vẽ tranh, sao chép tranh; làm tượng; sản xuất hàng mã; dạy khiêu vũ, dạy nhạc.
 
+b) Các hình thức vui chơi giải trí khác gồm: Các trò chơi dân gian; biểu diễn nghệ thuật quần chúng và các hình thức vui chơi giải trí có nội dung văn hoá.
 
-### Điều 41.8.NĐ.3. Cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh vũ trường, karaoke.
+c) Các hoạt động văn hoá, dịch vụ văn hoá và các hình thức vui chơi giải trí khác chưa được qui định tại các điểm a và b khoản này.
+
+Điều 41.8.NĐ.2. Hiệu lực của Nghị định
+
+(Điều 2 Nghị định số 103/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2010)
+
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2010 và thay thế Nghị định số 11/2006/NĐ-CP ngày 18 tháng 01 năm 2006 của Chính phủ ban hành Quy chế hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng.
 
 Điều 41.8.NĐ.3. Cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh vũ trường, karaoke.
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 103/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2010)
 
-**Mã phân cấp:** 41008003000000000000
+Các tỉnh, thành phố trực thuộc Trung ương đã phê duyệt quy hoạch vũ trường, karaoke theo quy định tại Quy chế hoạt động văn hóa và kinh doanh dịch vụ văn hóa công cộng ban hành kèm theo Nghị định số 11/2006/NĐ-CP ngày 18 tháng 01 năm 2006 của Chính phủ và Chỉ thị 17/2005/CT-TTg ngày 25 tháng 5 năm 2005 của Thủ tướng Chính phủ về chấn chỉnh các hoạt động tiêu cực trong quán bar, nhà hàng karaoke, vũ trường được tiếp tục cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh theo đúng quy hoạch đã được phê duyệt.
 
-**ID:** dk_00070116
+Điều 41.8.NĐ.4. Trách nhiệm thực hiện
 
----
+(Điều 4 Nghị định số 103/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2010)
 
+1. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm hướng dẫn thi hành Nghị định này.
 
-### Điều 41.8.NĐ.4. Trách nhiệm thực hiện
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 41.8.TT.1.11.
 
-**Chỉ mục:** 4
+(Điều 11 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-**Mã phân cấp:** 41008004000000000000
+Thông tư này có hiệu lực kể từ ngày 1 tháng 6 năm 2000 và thay thế Thông tư số 03/1998/TT-BVHTT ngày 22 tháng 6 năm 1998 của Bộ Văn hoá - Thông tin.
 
-**ID:** dk_00070117
+Điều 41.8.TT.1.12.
 
----
+(Điều 12 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
+Các Sở Văn hoá - Thông tin có trách nhiệm hướng dẫn cụ thể để thực hiện Thông tư này tại địa phương mình và thường xuyên kiểm tra, xử lý vi phạm theo đúng thẩm quyền.
 
-### Điều 41.8.TT.1.11.
+Điều 41.8.TT.1.13.
 
-*Nội dung chưa có sẵn*
+(Điều 13 Thông tư số 08/2000/TT-BVHTT, có hiệu lực thi hành kể từ ngày 01/06/2000)
 
-**Chỉ mục:** 11
+Uỷ ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương, các ông, bà Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng, Cục trưởng các Vụ, Cục thuộc Bộ Văn hoá - Thông tin có liên quan chịu trách nhiệm hướng dẫn, kiểm tra thực hiện Thông tư này.
 
-**Mã phân cấp:** 41008011000000000000
+Điều 41.8.TT.2.15. Hiệu lực thi hành
 
-**ID:** dk_00070118
+(Điều 15 Thông tư số 04/2009/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/01/2010)
 
----
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2010.
 
+2. Bãi bỏ các văn bản sau đây:
 
-### Điều 41.8.TT.1.12.
+a) Quyết định số 165/VH-QĐ ngày 18 tháng 8 năm 1987 của Bộ trưởng Bộ Văn hoá ban hành Quy chế Hội diễn nghệ thuật quần chúng;
 
-*Nội dung chưa có sẵn*
+b) Thông tư số 05/TT-PC ngày 08 tháng 01 năm 1996 hướng dẫn thực hiện Quy chế “Lưu hành, kinh doanh phim, băng đĩa hình, băng đĩa nhạc; bán, cho thuê xuất bản phẩm; hoạt động văn hoá và dịch vụ văn hoá nơi công cộng; quảng cáo, viết, đặt biển hiệu” ban hành kèm theo Nghị định số 87/CP ngày 12 tháng 12 năm 1995 của Chính phủ;
 
-**Chỉ mục:** 12
+c) Thông tư số 35/2002/TT-BVHTT ngày 20 tháng 12 năm 2002 của Bộ Văn hoá - Thông tin hướng dẫn bổ sung một số quy định về hoạt động văn hoá và dịch vụ văn hoá nơi công cộng tại Quy chế ban hành kèm theo Nghị định 87/CP ngày 12 tháng 12 năm 1995 của Chính phủ;
 
-**Mã phân cấp:** 41008012000000000000
+d) Thông tư số 69/2006/TT-BVHTT ngày 28 tháng 8 năm 2006 của Bộ Văn hoá - Thông tin hướng dẫn thực hiện một số quy định về kinh doanh vũ trường, karaoke, trò chơi điện tử quy định tại Quy chế hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng ban hành kèm theo Nghị định 11/2006/NĐ-CP ngày 18 tháng 01 năm 2006 của Chính phủ.
 
-**ID:** dk_00070119
+3. Các quy định do Bộ Văn hoá - Thông tin, Bộ Văn hoá, Thể thao và Du lịch đã ban hành trước đây không thuộc các văn bản quy định tại khoản 2 Điều này có nội dung trái với các quy định tại Thông tư này đều bị bãi bỏ.
 
----
+4. Trong quá trình thực hiện nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân cần phản ánh kịp thời về Bộ Văn hoá, Thể thao và Du lịch để xem xét, bổ sung, sửa đổi.
 
+## Danh sách điều khoản
 
-### Điều 41.8.TT.1.13.
+### 41008001000000000000
 
-*Nội dung chưa có sẵn*
+Điều 41.8.NĐ.1.
 
-**Chỉ mục:** 13
+### 4100800100000000000000801996200080000100
 
-**Mã phân cấp:** 41008013000000000000
+Điều 41.8.TT.1.1.
 
-**ID:** dk_00070120
+### 4100800100000000000000801996200080000200
 
----
+Điều 41.8.TT.1.2.
 
+### 4100800100000000000000801996200080000300
 
-### Điều 41.8.TT.2.15. Hiệu lực thi hành
+Điều 41.8.TT.1.3.
 
-*Nội dung chưa có sẵn*
+### 4100800100000000000000801996200080000400
 
-**Chỉ mục:** 15
+Điều 41.8.TT.1.4.
 
-**Mã phân cấp:** 41080234810004750150
+### 4100800100000000000000801996200080000500
 
-**ID:** dk_00071326
+Điều 41.8.TT.1.5.
 
----
+### 4100800100000000000000801996200080000600
 
+Điều 41.8.TT.1.6.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 4100800100000000000000801996200080000700
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 23
-- **Điều khoản thực tế:** 23
-- **Điều khoản có nội dung:** 3 (13.0%)
-- **ID đề mục:** b8f681412d674c85886c58a9bbf45472
+Điều 41.8.TT.1.7.
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 4100800100000000000000801996200080000800
 
----
+Điều 41.8.TT.1.8.
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 4100800100000000000000801996200080000900
+
+Điều 41.8.TT.1.9.
+
+### 4100800100000000000000801996200080001000
+
+Điều 41.8.TT.1.10.
+
+### 4100800100000000000000802348100047500300
+
+Điều 41.8.TT.2.3. Quy định cấm trong hoạt động văn hoá và kinh doanh dịch vụ văn hoá công cộng
+
+### 4100800100000000000000802348100047500900
+
+Điều 41.8.TT.2.9. Viết, đặt biển hiệu
+
+### 4100800100000000000000802348100047501400
+
+Điều 41.8.TT.2.14. Điều kiện kinh doanh và hoạt động kinh doanh trò chơi điện tử
+
+### 41008001010000000000
+
+Điều 41.8.TT.2.1. Phạm vi điều chỉnh
+
+### 41008001019900000000
+
+Điều 41.8.TT.2.2. Giải thích từ ngữ
+
+### 41008002000000000000
+
+Điều 41.8.NĐ.2. Hiệu lực của Nghị định
+
+### 41008003000000000000
+
+Điều 41.8.NĐ.3. Cấp mới giấy chứng nhận đăng ký kinh doanh và giấy phép kinh doanh vũ trường, karaoke.
+
+### 41008004000000000000
+
+Điều 41.8.NĐ.4. Trách nhiệm thực hiện
+
+### 41008011000000000000
+
+Điều 41.8.TT.1.11.
+
+### 41008012000000000000
+
+Điều 41.8.TT.1.12.
+
+### 41008013000000000000
+
+Điều 41.8.TT.1.13.
+
+### 41080234810004750150
+
+Điều 41.8.TT.2.15. Hiệu lực thi hành
+

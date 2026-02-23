@@ -1,36 +1,8 @@
 ---
-layout: default
+layout: page
 title: Kiểm toán Nhà nước
 permalink: /van-ban/ke-toan-kiem-toan/kiem-toan-nha-nuoc/
-collection: subtopics
-slug: kiem-toan-nha-nuoc
-parent: ke-toan-kiem-toan
 ---
 
 # Kiểm toán Nhà nước
 
-**Đề mục:** Kiểm toán Nhà nước  
-**Chủ đề:** [Kế toán, kiểm toán](/ke-toan-kiem-toan/)  
-**Số điều khoản:** 0  
-**Điều khoản có nội dung:** 0/0 (0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
-
-## 📜 Nội dung Điều khoản
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Kế toán, kiểm toán](/ke-toan-kiem-toan/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 0
-- **Điều khoản thực tế:** 0
-- **Điều khoản có nội dung:** 0 (0%)
-- **ID đề mục:** 4f1e7688a75f471fb05375eab7c11188
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

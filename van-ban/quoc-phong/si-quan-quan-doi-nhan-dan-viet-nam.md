@@ -1,3702 +1,3821 @@
 ---
-layout: default
+layout: page
 title: Sĩ quan Quân đội nhân dân Việt Nam
 permalink: /van-ban/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam/
-collection: subtopics
-slug: si-quan-quan-doi-nhan-dan-viet-nam
-parent: quoc-phong
 ---
 
 # Sĩ quan Quân đội nhân dân Việt Nam
 
-**Đề mục:** Sĩ quan Quân đội nhân dân Việt Nam  
-**Chủ đề:** [Quốc phòng](/quoc-phong/)  
-**Số điều khoản:** 289  
-**Điều khoản có nội dung:** 120/282 (42.6%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
-
-### Điều 25.14.LQ.1. Sĩ quan Quân đội nhân dân Việt Nam
+NHỮNG QUY ĐỊNH CHUNG
 
 Điều 25.14.LQ.1. Sĩ quan Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 1
+(Điều 1 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**Mã phân cấp:** 2501400000000000100000100000000000000000
+Sĩ quan Quân đội nhân dân Việt Nam (sau đây gọi là sĩ quan) là cán bộ của Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, hoạt động trong lĩnh vực quân sự, được Nhà nước phong quân hàm cấp Uý, cấp Tá, cấp Tướng.
 
-**ID:** dk_00041372
+Quân phục, cấp hiệu, phù hiệu của sĩ quan do Chính phủ quy định.
 
----
+(Điều này có nội dung liên quan đến Điều 1.12.NĐ.1.5. Chế độ, chính sách đối với cán bộ, chiến sĩ cảnh vệ hy sinh, bị thương trong khi làm nhiệm vụ)
 
+Điều 25.14.LQ.2. Vị trí, chức năng của sĩ quan
 
-### Điều 25.14.LQ.2. Vị trí, chức năng của sĩ quan
+(Điều 2 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2501400000000000100000200000000000000000
-
-**ID:** dk_00041373
-
----
-
-
-### Điều 25.14.LQ.3. Lãnh đạo, chỉ huy, quản lý sĩ quan
+Sĩ quan là lực lượng nòng cốt của quân đội và là thành phần chủ yếu trong đội ngũ cán bộ quân đội, đảm nhiệm các chức vụ lãnh đạo, chỉ huy, quản lý hoặc trực tiếp thực hiện một số nhiệm vụ khác, bảo đảm cho quân đội sẵn sàng chiến đấu và hoàn thành mọi nhiệm vụ được giao.
 
 Điều 25.14.LQ.3. Lãnh đạo, chỉ huy, quản lý sĩ quan
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000100000300000000000000000
-
-**ID:** dk_00041374
-
----
-
-
-### Điều 25.14.LQ.4. Điều kiện tuyển chọn đào tạo sĩ quan
+Đội ngũ sĩ quan đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự thống lĩnh của Chủ tịch nước, sự quản lý thống nhất của Chính phủ và sự chỉ huy, quản lý trực tiếp của Bộ trưởng Bộ Quốc phòng.
 
 Điều 25.14.LQ.4. Điều kiện tuyển chọn đào tạo sĩ quan
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000100000400000000000000000
+Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam có đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, trình độ học vấn, sức khỏe và tuổi đời; có nguyện vọng và khả năng hoạt động trong lĩnh vực quân sự thì có thể được tuyển chọn đào tạo sĩ quan.
 
-**ID:** dk_00041375
+Điều 25.14.LQ.5. Nguồn bổ sung sĩ quan tại ngũ
 
----
+(Điều 5 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
+Những người sau đây được tuyển chọn bổ sung cho đội ngũ sĩ quan tại ngũ:
 
-### Điều 25.14.LQ.5. Nguồn bổ sung sĩ quan tại ngũ
+1. Hạ sĩ quan, binh sĩ tốt nghiệp các trường đào tạo sĩ quan hoặc các trường đại học ngoài quân đội;
 
-*Nội dung chưa có sẵn*
+2. Hạ sĩ quan, binh sĩ hoàn thành tốt nhiệm vụ chiến đấu;
 
-**Chỉ mục:** 5
+3. Quân nhân chuyên nghiệp và công chức quốc phòng tại ngũ tốt nghiệp đại học trở lên đã được đào tạo, bồi dưỡng chương trình quân sự theo quy định của Bộ trưởng Bộ Quốc phòng;
 
-**Mã phân cấp:** 2501400000000000100000500000000000000000
+4. Cán bộ, công chức ngoài quân đội và những người tốt nghiệp đại học trở lên được điều động vào phục vụ trong quân đội đã được đào tạo, bồi dưỡng chương trình quân sự theo quy định của Bộ trưởng Bộ Quốc phòng;
 
-**ID:** dk_00041376
-
----
-
-
-### Điều 25.14.LQ.6. Quyền, nghĩa vụ và trách nhiệm của sĩ quan
+5. Sĩ quan dự bị.
 
 Điều 25.14.LQ.6. Quyền, nghĩa vụ và trách nhiệm của sĩ quan
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000100000600000000000000000
+1. Sĩ quan có quyền và nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật nước Cộng hoà xã hội chủ nghĩa Việt Nam; có quyền, nghĩa vụ và trách nhiệm theo quy định của Luật này.
 
-**ID:** dk_00041377
+2. Sĩ quan được Nhà nước bảo đảm về chính sách, chế độ ưu đãi phù hợp với tính chất hoạt động đặc thù quân sự.
 
----
+Điều 25.14.LQ.7. Giải thích từ ngữ
 
+(Điều 7 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 2 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-### Điều 25.14.LQ.7. Giải thích từ ngữ
+Trong Luật này, các từ ngữ sau đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+1. Ngạch sĩ quan tại ngũ là ngạch gồm những sĩ quan thuộc lực lượng thường trực đang công tác trong quân đội hoặc đang được biệt phái.
 
-**Chỉ mục:** 7
+2. Sĩ quan biệt phái là sĩ quan tại ngũ được cử đến công tác ở cơ quan, tổ chức ngoài quân đội.
 
-**Mã phân cấp:** 2501400000000000100000700000000000000000
+3. Ngạch sĩ quan dự bị là ngạch gồm những sĩ quan thuộc lực lượng dự bị động viên được đăng ký, quản lý, huấn luyện để sẵn sàng huy động vào phục vụ tại ngũ.
 
-**ID:** dk_00041378
+4. Sĩ quan chỉ huy, tham mưu là sĩ quan đảm nhiệm công tác tác chiến, huấn luyện và xây dựng lực lượng về quân sự.
 
----
+5. Sĩ quan chính trị là sĩ quan đảm nhiệm công tác đảng, công tác chính trị.
 
+6. Sĩ quan hậu cần là sĩ quan đảm nhiệm công tác bảo đảm về vật chất cho sinh hoạt, huấn luyện và tác chiến của quân đội.
 
-### Điều 25.14.NĐ.6.3. Giải thích từ ngữ
+7. Sĩ quan kỹ thuật là sĩ quan đảm nhiệm công tác bảo đảm về kỹ thuật vũ khí, trang thiết bị.
 
-*Nội dung chưa có sẵn*
+8. Sĩ quan chuyên môn khác là sĩ quan đảm nhiệm công tác trong các ngành không thuộc các nhóm ngành sĩ quan quy định tại các khoản 4, 5, 6 và 7 Điều này.
 
-**Chỉ mục:** 3
+9. Phong cấp bậc quân hàm sĩ quan là quyết định trao cấp bậc quân hàm cho người trở thành sĩ quan.
 
-**Mã phân cấp:** 2501400000000000100000740258700082000030
+10. Thăng cấp bậc quân hàm sĩ quan là quyết định đề bạt sĩ quan lên cấp bậc quân hàm cao hơn.
 
-**ID:** dk_00041379
+11. Giáng cấp bậc quân hàm sĩ quan là quyết định hạ cấp bậc quân hàm hiện tại của sĩ quan xuống cấp bậc quân hàm thấp hơn.
 
----
+12. Tước quân hàm sĩ quan là quyết định huỷ bỏ quân hàm sĩ quan của quân nhân.
 
+13. Sĩ quan thôi phục vụ tại ngũ là sĩ quan chuyển ra ngoài quân đội.
 
-### Điều 25.14.TT.4.3. Giải thích từ ngữ
+14. Chuyển ngạch sĩ quan là chuyển sĩ quan từ ngạch sĩ quan tại ngũ sang ngạch sĩ quan dự bị hoặc ngược lại.
 
-*Nội dung chưa có sẵn*
+15. Giải ngạch sĩ quan dự bị là chuyển ra khỏi ngạch sĩ quan dự bị.
 
-**Chỉ mục:** 3
+Điều 25.14.NĐ.6.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 2501400000000000100000780276190037000030
+(Điều 3 Nghị định số 82/2016/NĐ-CP Quy đinh quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam ngày 01/07/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2016 )
 
-**ID:** dk_00041380
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
----
+1. Quân hiệu của Quân đội nhân dân Việt Nam là biểu tượng của Quân đội nhân dân Việt Nam.
 
+2. Cấp hiệu của Quân đội nhân dân Việt Nam là biểu trưng thể hiện cấp bậc trong ngạch quân sự của sĩ quan, quân nhân chuyên nghiệp, học viên, hạ sĩ quan - binh sĩ trong Quân đội nhân dân Việt Nam.
 
-### Điều 25.14.LQ.8. Ngạch sĩ quan
+3. Phù hiệu của Quân đội nhân dân Việt Nam bao gồm: Nền phù hiệu, hình phù hiệu, cành tùng; biểu tượng quân chủng, binh chủng; biển tên; lô gô.
 
-*Nội dung chưa có sẵn*
+4. Trang phục của Quân đội nhân dân Việt Nam bao gồm: Trang phục dự lễ, trang phục thường dùng, trang phục dã chiến, trang phục nghiệp vụ, trang phục công tác và áo ấm.
 
-**Chỉ mục:** 8
+Điều 25.14.TT.4.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 2501400000000000100000800000000000000000
+(Điều 3 Thông tư số 37/2021/TT-BQP Quy định phân loại, khám sức khỏe, phân cấp nhiệm vụ quản lý sức khỏe đối với quân nhân, công chức quốc phòng, công nhân và viên chức quốc phòng ngày 15/04/2021 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 29/05/2021 )
 
-**ID:** dk_00041381
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
----
+1. Hội đồng khám sức khỏe là hội đồng chuyên môn, kiêm nhiệm, lâm thời của quân y đơn vị cấp trung đoàn và tương đương trở lên hoặc của bệnh viện, viện nghiên cứu có giường bệnh trong Quân đội do thủ trưởng đơn vị hoặc giám đốc bệnh viện quân y quyết định thành lập.
 
+2. Khám sức khỏe định kỳ là biện pháp quản lý sức khỏe bắt buộc đối với 100% quân nhân, công nhân và viên chức quốc phòng thực hiện tối thiểu 01 lần/năm tại cơ sở quân y nhằm quản lý, chăm sóc sức khỏe ban đầu, dự phòng bệnh tật.
 
-### Điều 25.14.LQ.9. Nhóm ngành sĩ quan
+3. Khám sức khỏe theo yêu cầu nhiệm vụ là biện pháp quản lý sức khỏe cho quân nhân, công nhân và viên chức quốc phòng thực hiện trước khi đề bạt, bổ nhiệm và giao các nhiệm vụ quân sự quốc phòng khác.
 
-*Nội dung chưa có sẵn*
+4. Phân cấp nhiệm vụ quản lý sức khỏe quân nhân, công nhân và viên chức quốc phòng là quy định nhiệm vụ cho quân y các cấp thực hiện quản lý chất lượng sức khỏe; theo dõi tình trạng bệnh tật; lưu giữ hồ sơ sức khỏe từng cá nhân theo cấp bậc, chức vụ và phân loại sức khỏe.
 
-**Chỉ mục:** 9
+5. Phiếu khám sức khỏe định kỳ là tài liệu y khoa tổng hợp những thông tin cơ bản về sức khỏe của từng cá nhân dưới dạng bản giấy hoặc bản điện tử theo mẫu tại Phụ lục II Thông tư này; lưu giữ tại cơ quan quân y theo phân cấp và được bàn giao theo hồ sơ cá nhân khi chuyển đơn vị mới.
 
-**Mã phân cấp:** 2501400000000000100000900000000000000000
+6. Hồ sơ sức khỏe là tập hợp kết quả khám sức khỏe định kỳ, khám bệnh, chữa bệnh của từng cá nhân dạng bản giấy hoặc bản điện tử; được sử dụng trong quản lý, theo dõi sức khỏe của quân nhân, công nhân và viên chức quốc phòng; thời hạn lưu giữ tối thiểu 10 (mười) năm theo chế độ mật.
 
-**ID:** dk_00041382
+Điều 25.14.LQ.8. Ngạch sĩ quan
 
----
+(Điều 8 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
+Sĩ quan chia thành hai ngạch: sĩ quan tại ngũ và sĩ quan dự bị.
 
-### Điều 25.14.QĐ.1.1. Ban hành “Danh mục hệ thống các ngành thuộc các nhóm ngành sĩ quan Quân đội nhân dân Việt Nam”.
+Điều 25.14.LQ.9. Nhóm ngành sĩ quan
+
+(Điều 9 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
+
+Sĩ quan gồm các nhóm ngành sau đây:
+
+1. Sĩ quan chỉ huy, tham mưu;
+
+2. Sĩ quan chính trị;
+
+3. Sĩ quan hậu cần;
+
+4. Sĩ quan kỹ thuật;
+
+5. Sĩ quan chuyên môn khác.
 
 Điều 25.14.QĐ.1.1. Ban hành “Danh mục hệ thống các ngành thuộc các nhóm ngành sĩ quan Quân đội nhân dân Việt Nam”.
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 266/2003/QĐ-BQP Về danh mục hệ thống các ngành thuộc các nhóm ngành sĩ quan Quân đội nhân dân Việt Nam ngày 03/11/2003 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 22/11/2003 )
 
-**Mã phân cấp:** 250140000000000010000090000000000000000000802124602660000100
-
-**ID:** dk_00041383
-
----
-
-
-### Điều 25.14.LQ.10. Hệ thống cấp bậc quân hàm sĩ quan
+Danh mục hệ thống nhóm ngành sĩ quan QĐNDVN.doc
 
 Điều 25.14.LQ.10. Hệ thống cấp bậc quân hàm sĩ quan
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000100001000000000000000000
+Hệ thống cấp bậc quân hàm của sĩ quan gồm ba cấp, mười hai bậc:
 
-**ID:** dk_00041384
+1. Cấp Uý có bốn bậc:
 
----
+Thiếu uý;
 
+Trung uý;
 
-### Điều 25.14.LQ.11. Chức vụ của sĩ quan
+Thượng uý;
 
-*Nội dung chưa có sẵn*
+Đại uý.
 
-**Chỉ mục:** 11
+2. Cấp Tá có bốn bậc:
 
-**Mã phân cấp:** 2501400000000000100001100000000000000000
+Thiếu tá;
 
-**ID:** dk_00041385
+Trung tá;
 
----
+Thượng tá;
 
+Đại tá.
 
-### Điều 25.14.LQ.12. Tiêu chuẩn của sĩ quan
+3. Cấp Tướng có bốn bậc:
 
-*Nội dung chưa có sẵn*
+Thiếu tướng, Chuẩn Đô đốc Hải quân;
 
-**Chỉ mục:** 12
+Trung tướng, Phó Đô đốc Hải quân;
 
-**Mã phân cấp:** 2501400000000000100001200000000000000000
+Thượng tướng, Đô đốc Hải quân;
 
-**ID:** dk_00041386
+Đại tướng.
 
----
+Điều 25.14.LQ.11. Chức vụ của sĩ quan
 
+(Điều 11 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 72/2014/QH13 có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-### Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan
+1. Chức vụ cơ bản của sĩ quan gồm có:
 
-*Nội dung chưa có sẵn*
+a) Bộ trưởng Bộ Quốc phòng;
 
-**Chỉ mục:** 13
+b) Tổng Tham mưu trưởng; Chủ nhiệm Tổng cục Chính trị;
 
-**Mã phân cấp:** 2501400000000000100001300000000000000000
+c) Chủ nhiệm Tổng cục, Tổng cục trưởng, Chính ủy Tổng cục;
 
-**ID:** dk_00041387
+d) Tư lệnh Quân khu, Chính ủy Quân khu; Tư lệnh Quân chủng, Chính ủy Quân chủng; Tư lệnh Bộ đội Biên phòng, Chính ủy Bộ đội Biên phòng;
 
----
+đ) Tư lệnh Quân đoàn, Chính ủy Quân đoàn; Tư lệnh Binh chủng, Chính ủy Binh chủng; Tư lệnh Vùng Hải quân, Chính ủy Vùng Hải quân;
 
+e) Sư đoàn trưởng, Chính ủy Sư đoàn; Chỉ huy trưởng Bộ chỉ huy quân sự tỉnh, thành phố trực thuộc trung ương (sau đây gọi là cấp tỉnh), Chính ủy Bộ chỉ huy quân sự cấp tỉnh; Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh, Chính ủy Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh;
 
-### Điều 25.14.LQ.14. Trách nhiệm xây dựng đội ngũ sĩ quan
+g) Lữ đoàn trưởng, Chính ủy Lữ đoàn;
+
+h) Trung đoàn trưởng, Chính ủy Trung đoàn; Chỉ huy trưởng Ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi là cấp huyện), Chính trị viên Ban chỉ huy quân sự cấp huyện;
+
+i) Tiểu đoàn trưởng, Chính trị viên Tiểu đoàn;
+
+k) Đại đội trưởng, Chính trị viên Đại đội;
+
+l) Trung đội trưởng.
+
+2. Chức vụ, chức danh tư­ơng đư­ơng với chức vụ quy định tại các điểm c, d và đ khoản 1 Điều này do Chính phủ quy định; chức vụ, chức danh tương đương với chức vụ quy định tại các điểm e, g, h, i, k và l khoản 1 Điều này do Bộ trưởng Bộ Quốc phòng quy định.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan của Luật 16/1999/QH10 Sỹ quan quân đội nhân dân Việt Nam ban hành ngày 21/12/1999; Điều 11. Chức vụ của sĩ quan)
+
+Điều 25.14.LQ.12. Tiêu chuẩn của sĩ quan
+
+(Điều 12 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
+
+1. Tiêu chuẩn chung:
+
+a) Có bản lĩnh chính trị vững vàng, tuyệt đối trung thành với Tổ quốc và nhân dân, với Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; có tinh thần cảnh giác cách mạng cao, sẵn sàng chiến đấu, hy sinh, hoàn hành tốt mọi nhiệm vụ được giao;
+
+b) Có phẩm chất đạo đức cách mạng; cần kiệm liêm chính, chí công vô tư; gương mẫu chấp hành đường lối*,* chủ trương của Đảng, chính sách, pháp luật của Nhà nước; phát huy dân chủ, giữ nghiêm kỷ luật quân đội; tôn trọng và đoàn kết với nhân dân, với đồng đội; được quần chúng tín nhiệm;
+
+c) Có trình độ chính trị, khoa học quân sự và khả năng vận dụng sáng tạọ chủ nghĩa Mác - Lê nin, tư tưởng Hồ Chí Minh, đường lối, quan điểm, chủ trương của Đảng và Nhà nước vào nhiệm vụ xây dựng nền quốc phòng toàn dân, xây dựng quân đội nhân dân; có kiến thức về văn hoá, kinh tế, xã hội, pháp luật và các lĩnh vực khác; có năng lực hoạt động thực tiễn đáp ứng yêu cầu nhiệm vụ được giao; tốt nghiệp chương trình đào tạo theo quy định đối với từng chức vụ;
+
+d) Có lý lịch rõ ràng, tuổi đời và sức khoẻ phù hợp với chức vụ, cấp bậc quân hàm mà sĩ quan đảm nhiệm.
+
+2. Tiêu chuẩn cụ thể đối với từng chức vụ của sĩ quan do cấp có thẩm quyền quy định.
+
+Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan
+
+(Điều 13 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 72/2014/QH13 có hiệu lực thi hành kể từ ngày 01/07/2015)
+
+1. Hạn tuổi cao nhất của sĩ quan phục vụ tại ngũ theo cấp bậc quân hàm:
+
+Cấp Úy: nam 46, nữ 46;
+
+Thiếu tá: nam 48, nữ 48;
+
+Trung tá: nam 51, nữ 51;
+
+Thượng tá: nam 54, nữ 54;
+
+Đại tá: nam 57, nữ 55;
+
+Cấp Tướng: nam 60, nữ 55.
+
+2. Khi quân đội có nhu cầu, sĩ quan có đủ phẩm chất về chính trị, đạo đức, giỏi về chuyên môn, nghiệp vụ, sức khỏe tốt và tự nguyện thì có thể được kéo dài tuổi phục vụ tại ngũ quy định tại khoản 1 Điều này không quá 5 năm; trường hợp đặc biệt có thể kéo dài hơn.
+
+3. Hạn tuổi cao nhất của sĩ quan giữ chức vụ chỉ huy, quản lý đơn vị quy định tại các điểm đ, e, g, h, i, k và l khoản 1 Điều 11 của Luật này do Bộ trưởng Bộ Quốc phòng quy định nhưng không vượt quá hạn tuổi cao nhất của sĩ quan quy định tại khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.11. Chức vụ của sĩ quan; Điều 25.14.LQ.21. Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan; Điều 25.14.LQ.35. Sĩ quan thôi phục vụ tại ngũ; Điều 25.14.NĐ.1.2.; Điều 25.14.NĐ.1.29.; Điều 25.14.NĐ.1.30. Cơ quan quân sự cấp huyện làm thủ tục đề nghị cấp có thẩm quyền ra quyết định giải ngạch sĩ quan dự bị trong các trường hợp sau đây:; Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu; Điều 25.14.TL.3.3. Chế độ trợ cấp một lần do nghỉ hưu trước hạn tuổi)
 
 Điều 25.14.LQ.14. Trách nhiệm xây dựng đội ngũ sĩ quan
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000100001400000000000000000
+Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, các cơ quan, tổ chức, đơn vị vũ trang nhân dân và mọi công dân có trách nhiệm xây dựng đội ngũ sĩ quan.
 
-**ID:** dk_00041388
+Điều 25.14.NĐ.1.1.
 
----
+(Điều 1 Nghị định số 26/2002/NĐ-CP Về sĩ quan dự bị Quân đội nhân dân Việt Nam ngày 21/03/2002 của Chính phủ, có hiệu lực thi hành kể từ ngày 05/04/2002 )
 
+Nghị định này quy định việc tuyển chọn, đào tạo, đăng ký, quản lý, huấn luyện, sắp xếp bổ nhiệm, miễn nhiệm chức vụ, phong, thăng quân hàm, chuyển hạng, giải ngạch sĩ quan dự bị; gọi sĩ quan dự bị vào phục vụ tại ngũ, chế độ, chính sách, khen thưởng, xử lý vi phạm, kinh phí bảo đảm cho công tác sĩ quan dự bị.
 
-### Điều 25.14.NĐ.1.1.
+Điều 25.14.NĐ.2.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 165/2003/NĐ-CP Về biệt phái sĩ quan Quân đội nhân dân Việt Nam ngày 22/12/2003 của Chính phủ, có hiệu lực thi hành kể từ ngày 07/01/2004 )
 
-**Chỉ mục:** 1
+Nghị định này quy định đối tượng, tiêu chuẩn, phạm vi biệt phái sĩ quan; thẩm quyền, trình tự quyết định biệt phái sĩ quan; nghĩa vụ và quyền lợi của sĩ quan biệt phái; trách nhiệm quản lý, sử dụng, thực hiện chế độ, chính sách đối với sĩ quan biệt phái.
 
-**Mã phân cấp:** 2501400000000000100001440206540026000010
+Điều 25.14.NĐ.3.1. Phạm vi điều chỉnh
 
-**ID:** dk_00041389
+(Điều 1 Nghị định số 73/2005/NĐ-CP Về đào tạo cán bộ cho Quân đội nhân dân Việt Nam tại các trường ngoài quân đội ngày 06/06/2005 của Chính phủ, có hiệu lực thi hành kể từ ngày 02/07/2005 )
 
----
-
-
-### Điều 25.14.NĐ.2.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2501400000000000100001440212950165000010
-
-**ID:** dk_00041390
-
----
-
-
-### Điều 25.14.NĐ.3.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2501400000000000100001440218270073000010
-
-**ID:** dk_00041391
-
----
-
-
-### Điều 25.14.NĐ.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
+Nghị định này quy định về việc tuyển chọn, đào tạo cán bộ cho Quân đội nhân dân Việt Nam tại các trường, cơ sở giáo dục đại học, sau đại học công lập ngoài quân đội trong nước và nước ngoài (sau đây gọi chung là trường ngoài quân đội); trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ (sau đây gọi chung là Bộ, ngành) trong việc tuyển chọn, đào tạo cán bộ cho Quân đội nhân dân Việt Nam tại các trường ngoài quân đội.
 
 Điều 25.14.NĐ.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ngày 23/02/2009 của Chính phủ, có hiệu lực thi hành kể từ ngày 10/04/2009 )
 
-**Mã phân cấp:** 2501400000000000100001440231850021000010
+Nghị định này quy định chi tiết và hướng dẫn thi hành về chế độ, chính sách đối với sĩ quan nghỉ hưu, chuyển ngành, phục viên, nghỉ theo chế độ bệnh binh; sĩ quan tại ngũ hy sinh, từ trần, sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng; quy đổi thời gian để hưởng chế độ trợ cấp một lần, quy định tại các Điều 34, 36 Luật Sĩ quan Quân đội nhân dân Việt Nam ngày 21 tháng 12 năm 1999 và các khoản 11, 12 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam ngày 03 tháng 6 năm 2008 (sau đây gọi chung là Luật Sĩ quan Quân đội nhân dân Việt Nam).
 
-**ID:** dk_00041392
+Điều 25.14.NĐ.6.1. Phạm vi Điều chỉnh
 
----
+(Điều 1 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+Nghị định này quy định quân hiệu, cấp hiệu, phù hiệu của Quân đội nhân dân Việt Nam; quy định trang phục sĩ quan, quân nhân chuyên nghiệp, học viên, hạ sĩ quan - binh sĩ, công nhân và viên chức quốc phòng trong Quân đội nhân dân Việt Nam; việc quản lý, sử dụng quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam.
 
-### Điều 25.14.NĐ.6.1. Phạm vi Điều chỉnh
+Điều 25.14.NĐ.6.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2501400000000000100001440258700082000010
-
-**ID:** dk_00041393
-
----
-
-
-### Điều 25.14.NĐ.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2501400000000000100001440258700082000020
-
-**ID:** dk_00041394
-
----
-
-
-### Điều 25.14.TL.1.1. Đối tượng được hưởng chế độ, chính sách
+Nghị định này áp dụng đối với sĩ quan, quân nhân chuyên nghiệp, học viên, hạ sĩ quan - binh sĩ, công nhân và viên chức quốc phòng trong Quân đội nhân dân Việt Nam; các cơ quan, tổ chức và cá nhân có liên quan.
 
 Điều 25.14.TL.1.1. Đối tượng được hưởng chế độ, chính sách
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư liên tịch số 170/2002/TTLT-BQP-BTC Hướng dẫn thực hiện chế độ chính sách đối với học viên đào tạo sĩ quan dự bị và sĩ quan dự bị ngày 28/11/2002 của Bộ Quốc phòng và Bộ Tài chính, có hiệu lực thi hành kể từ ngày 13/12/2002 )
 
-**Mã phân cấp:** 2501400000000000100001480209060170000010
+Quân nhân chuyên nghiệp, hạ sĩ quan khi thôi phục vụ tại ngũ; hạ sĩ quan dự bị hạng 1; cán bộ, công chức ngoài Quân đội; những người tốt nghiệp đại học trở lên không hưởng lương từ ngân sách nhà nước, được gọi tập trung đào tạo sĩ quan dự bị theo chỉ tiêu nhiệm vụ do Thủ tướng Chính phủ giao hàng năm cho các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ (sau đây gọi chung là Bộ), các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là tỉnh), là những đối tượng được hưởng chế độ, chính sách theo hướng dẫn tại Thông tư này.
 
-**ID:** dk_00041395
+Điều 25.14.TL.3.1. Phạm vi và đối tượng áp dụng
 
----
+(Điều 1 Thông tư liên tịch số 36/2009/TTLT-BQP-BNV-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều của nghị định số 21/2009/nđ-cp ngày 23 tháng 02 năm 2009 của chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của luật sĩ quan quân đội nhân dân việt nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ngày 21/07/2009 của Bộ Tài chính, Bộ Nội vụ, Bộ Quốc phòng và Bộ Lao động - Thương Binh và Xã hội, có hiệu lực thi hành kể từ ngày 04/09/2009 )
 
+Các chế độ, chính sách hướng dẫn tại Thông tư này áp dụng đối với sĩ quan, quân nhân chuyên nghiệp thôi phục vụ tại ngũ; sĩ quan, quân nhân chuyên nghiệp tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp; sĩ quan, quân nhân chuyên nghiệp (viết tắt là QNCN) tại ngũ chuyển sang công chức quốc phòng (viết tắt là CCQP).
 
-### Điều 25.14.TL.3.1. Phạm vi và đối tượng áp dụng
+Điều 25.14.TT.2.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 09/2015/TT-BQP Hướng dẫn thực hiện chế độ phụ cấp chức vụ lãnh đạo và bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái ngày 04/03/2015 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 20/04/2015 )
 
-**Chỉ mục:** 1
+Thông tư này hướng dẫn thực hiện chế độ phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái được bổ nhiệm hoặc miễn nhiệm chức vụ lãnh đạo theo các chức danh cán bộ lãnh đạo, quản lý của cơ quan, tổ chức nơi sĩ quan đến biệt phái; bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái.
 
-**Mã phân cấp:** 2501400000000000100001480233330036000010
+Điều 25.14.TT.2.2. Đối tượng áp dụng
 
-**ID:** dk_00041396
+(Điều 2 Thông tư số 09/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 20/04/2015)
 
----
+Thông tư này áp dụng đối với sĩ quan biệt phái, các cơ quan, đơn vị thuộc Bộ Quốc phòng và các tổ chức, cá nhân có liên quan đến việc thực hiện chế độ phụ cấp chức vụ lãnh đạo và bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái.
 
+Điều 25.14.TT.3.1. Phạm vi điều chỉnh
 
-### Điều 25.14.TT.2.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 218/2016/TT-BQP quy định cấp, quản lý, sử dụng Giấy chứng minh sĩ quan; Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ; Thẻ sĩ quan dự bị; Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị ngày 27/12/2016 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 15/02/2017 )
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định cấp, quản lý, sử dụng, xây dựng dữ liệu, quy cách, chất liệu phôi mẫu, cơ sở vật chất; thẩm quyền, trình tự thủ tục cấp lần đầu, cấp đổi, cấp lại Giấy chứng minh sĩ quan; Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng (sau đây gọi chung là Chứng minh); Thẻ hạ sĩ quan, binh sĩ tại ngũ; Thẻ sĩ quan dự bị; Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị (sau đây gọi chung là Thẻ).
 
-**Chỉ mục:** 1
+Điều 25.14.TT.3.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 2501400000000000100001480253850009000010
+(Điều 2 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**ID:** dk_00041397
+Thông tư này áp dụng đối với:
 
----
+1. Sĩ quan tại ngũ và sĩ quan dự bị.
 
+2. Quân nhân chuyên nghiệp tại ngũ và quân nhân chuyên nghiệp dự bị.
 
-### Điều 25.14.TT.2.2. Đối tượng áp dụng
+3. Hạ sĩ quan, binh sĩ tại ngũ và hạ sĩ quan, binh sĩ dự bị.
 
-*Nội dung chưa có sẵn*
+4. Công nhân và viên chức quốc phòng.
 
-**Chỉ mục:** 2
+5. Các cơ quan, tổ chức, đơn vị và cá nhân có liên quan.
 
-**Mã phân cấp:** 2501400000000000100001480253850009000020
+Điều 25.14.TT.4.1. Phạm vi điều chỉnh
 
-**ID:** dk_00041398
+(Điều 1 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
----
+1. Thông tư này quy định phân loại, khám sức khỏe định kỳ, khám sức khỏe theo yêu cầu nhiệm vụ, phân cấp nhiệm vụ quản lý sức khỏe và trách nhiệm của cơ quan, đơn vị, cá nhân có liên quan đến phân loại sức khỏe, khám sức khỏe, quản lý sức khỏe đối với sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ, công chức quốc phòng, công nhân và viên chức quốc phòng.
 
+2. Thông tư này không điều chỉnh đối với:
 
-### Điều 25.14.TT.3.1. Phạm vi điều chỉnh
+a) Khám sức khỏe tuyển dụng, tuyển chọn công dân vào Quân đội;
 
-*Nội dung chưa có sẵn*
+b) Khám sức khỏe đặc thù quân chủng, binh chủng;
 
-**Chỉ mục:** 1
+c) Khám giám định bệnh hiểm nghèo, bệnh cần chữa trị dài ngày, bệnh tâm thần, bệnh nghề nghiệp;
 
-**Mã phân cấp:** 2501400000000000100001480260490218000010
+d) Phân loại, khám sức khỏe đối với cán bộ cấp cao thuộc diện Bộ Chính trị, Ban Bí thư quản lý, quyết định theo Quy định số 105-QĐ/TW ngày 19 tháng 12 năm 2017 của Bộ Chính trị về phân cấp quản lý cán bộ và bổ nhiệm, giới thiệu cán bộ ứng cử; Quy định số 121-QĐ/TW ngày 25 tháng 01 năm 2018 của Ban Chấp hành Trung ương về công tác bảo vệ, chăm sóc sức khỏe cán bộ cấp cao thuộc diện Bộ Chính trị, Ban Bí thư quản lý.
 
-**ID:** dk_00041399
+Điều 25.14.TT.4.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
+1. Sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ tại ngũ (sau đây gọi chung là quân nhân); công chức quốc phòng, công nhân và viên chức quốc phòng (sau đây gọi chung là công nhân và viên chức quốc phòng) phục vụ trong các cơ quan, đơn vị, tổ chức thuộc Bộ Quốc phòng.
 
-### Điều 25.14.TT.3.2. Đối tượng áp dụng
+2. Các cơ quan, đơn vị, tổ chức và cá nhân có liên quan.
 
-*Nội dung chưa có sẵn*
+Chương II
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2501400000000000100001480260490218000020
-
-**ID:** dk_00041400
-
----
-
-
-### Điều 25.14.TT.4.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2501400000000000100001480276190037000010
-
-**ID:** dk_00041401
-
----
-
-
-### Điều 25.14.TT.4.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2501400000000000100001480276190037000020
-
-**ID:** dk_00041402
-
----
-
-
-### Điều 25.14.LQ.15. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan
+QUÂN HÀM, CHỨC VỤ SĨ QUAN
 
 Điều 25.14.LQ.15. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 72/2014/QH13 có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**Mã phân cấp:** 2501400000000000200001500000000000000000
+1. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan được quy định như sau:
 
-**ID:** dk_00041404
+a) Đại tướng:
 
----
+Bộ trưởng Bộ Quốc phòng;
 
+Tổng Tham mưu trưởng; Chủ nhiệm Tổng cục Chính trị;
 
-### Điều 25.14.LQ.16. Đối tượng được phong quân hàm sĩ quan tại ngũ
+b) Thượng tướng, Đô đốc Hải quân:
+
+Thứ tr­ưởng Bộ Quốc phòng có cấp bậc quân hàm cao nhất là Thượng tướng, Đô đốc Hải quân không quá sáu;
+
+Phó Tổng Tham m­ưu trư­ởng, Phó Chủ nhiệm Tổng cục Chính trị: mỗi chức vụ có cấp bậc quân hàm cao nhất là Thượng tướng không quá ba;
+
+Giám đốc, Chính ủy Học viện Quốc phòng;
+
+c) Trung tướng, Phó Đô đốc Hải quân:
+
+Tư lệnh, Chính ủy: Quân khu, Quân chủng, Bộ đội Biên phòng; Chủ nhiệm Tổng cục, Tổng cục trưởng, Chính ủy Tổng cục; Trưởng Ban Cơ yếu Chính phủ;
+
+Tư lệnh, Chính ủy Bộ Tư lệnh: Thủ đô Hà Nội, thành phố Hồ Chí Minh, Cảnh sát biển Việt Nam;
+
+Giám đốc, Chính ủy các học viện: Lục quân, Chính trị, Kỹ thuật quân sự, Hậu cần, Quân y;
+
+Hiệu trưởng, Chính ủy các trường sĩ quan: Lục quân I, Lục quân II, Chính trị;
+
+Phó Giám đốc Học viện Quốc phòng có cấp bậc quân hàm cao nhất là Trung tướng không quá ba; Phó Chính ủy Học viện Quốc phòng có cấp bậc quân hàm cao nhất là Trung tướng là một;
+
+Cục trưởng các cục: Tác chiến, Quân huấn, Quân lực, Dân quân tự vệ, Tổ chức, Cán bộ, Tuyên huấn, Nhà trường, Tác chiến điện tử, Công nghệ thông tin, Cứu hộ - Cứu nạn, Đối ngoại;
+
+Chánh Thanh tra Bộ Quốc phòng; Chánh án Tòa án Quân sự Trung ương là Phó Chánh án Tòa án nhân dân tối cao; Viện trưởng Viện Kiểm sát Quân sự Trung ương là Phó Viện trưởng Viện Kiểm sát nhân dân tối cao;
+
+Chánh Văn phòng Quân ủy Trung ương - Văn phòng Bộ Quốc phòng;
+
+Viện trưởng Viện Chiến lược quốc phòng;
+
+Giám đốc Bệnh viện Trung ương Quân đội 108;
+
+d) Thiếu tướng, Chuẩn Đô đốc Hải quân:
+
+Tư lệnh, Chính ủy: Quân đoàn, Binh chủng, Vùng Hải quân, Vùng Cảnh sát biển;
+
+Cục trưởng các cục: Bảo vệ an ninh Quân đội, Khoa học quân sự, Tài chính, Kế hoạch và Đầu tư, Quân y, Điều tra hình sự, Tiêu chuẩn - Đo lường - Chất lượng, Dân vận, Chính sách, Kinh tế, Cơ yếu, Doanh trại, Quản lý công nghệ, Bản đồ, Quân nhu, Xăng dầu, Vận tải, Quân khí, Xe - Máy, Kỹ thuật binh chủng, Huấn luyện - Đào tạo, Phòng không Lục quân, Trinh sát, Phòng chống ma túy, Quản lý kỹ thuật nghiệp vụ mật mã; các cục 11, 12, 16, 25 và 71;
+
+Viện trưởng: Viện Khoa học và Công nghệ quân sự, Viện Lịch sử quân sự Việt Nam, Viện 26, Viện 70;
+
+Giám đốc, Chính ủy các học viện: Phòng không - Không quân, Hải quân, Biên phòng, Khoa học quân sự;
+
+Giám đốc Học viện Kỹ thuật Mật mã;
+
+Tư lệnh các Binh đoàn Quốc phòng - Kinh tế: 11, 12, 15, 16 và 18;
+
+Tư lệnh, Chính ủy Bộ Tư lệnh Bảo vệ Lăng Chủ tịch Hồ Chí Minh;
+
+Chủ nhiệm Chính trị: Quân khu, Quân chủng, Bộ đội Biên phòng, Học viện Quốc phòng, Bộ Tổng Tham mưu, Tổng cục Hậu cần, Tổng cục Kỹ thuật, Tổng cục Công nghiệp Quốc phòng, Tổng cục II; Cục trưởng Cục Chính trị thuộc Tổng cục Chính trị;
+
+Một Phó Tham mưu trưởng là Bí thư hoặc Phó Bí thư Đảng ủy Bộ Tham mưu Quân khu, Quân chủng, Bộ đội Biên phòng;
+
+Một Phó Chủ nhiệm Chính trị là Bí thư hoặc Phó Bí thư Đảng ủy Cục Chính trị Quân khu, Quân chủng, Bộ đội Biên phòng;
+
+Tổng Biên tập Báo Quân đội nhân dân, Tổng Biên tập Tạp chí Quốc phòng toàn dân;
+
+Giám đốc Trung tâm Phát thanh - Truyền hình Quân đội;
+
+Tổng Giám đốc, một Phó Tổng Giám đốc là Bí thư Đảng ủy Tập đoàn Viễn thông Quân đội;
+
+Tổng Giám đốc Trung tâm Nhiệt đới Việt - Nga;
+
+Giám đốc: Bệnh viện 175, Bệnh viện 103, Viện Y học cổ truyền Quân đội, Viện Bỏng quốc gia;
+
+Chủ nhiệm các khoa thuộc Học viện Quốc phòng: Lý luận Mác - Lênin; Công tác Đảng, công tác chính trị; Chiến lược; Chiến dịch;
+
+Trợ lý Bộ trưởng Bộ Quốc phòng, Vụ trưởng Vụ Pháp chế, Chánh Văn phòng Bộ Tổng Tham mưu, Chánh Văn phòng Tổng cục Chính trị;
+
+Chức vụ cấp phó của cấp trưởng quy định tại điểm c khoản này có cấp bậc quân hàm cao nhất là Thiếu tướng, số lượng như sau: của Chính ủy là một; của Chủ nhiệm Tổng cục, Tổng cục trưởng, Tư lệnh Quân khu không quá bốn; của Tư lệnh Quân chủng không quá sáu; của Tư lệnh Bộ đội Biên phòng không quá năm; của Cục trưởng Cục Tác chiến, Cục Quân huấn không quá ba; của Giám đốc Học viện Lục quân, Học viện Chính trị, Học viện Kỹ thuật quân sự, Học viện Hậu cần, Học viện Quân y không quá ba; của Hiệu trưởng Trường Sĩ quan Lục quân I, Trường Sĩ quan Lục quân II, Trường Sĩ quan Chính trị không quá ba; của Trưởng Ban Cơ yếu Chính phủ, Tư lệnh Bộ Tư lệnh Thủ đô Hà Nội, Tư lệnh Bộ Tư lệnh thành phố Hồ Chí Minh, Tư lệnh Bộ Tư lệnh Cảnh sát biển Việt Nam, Chánh Thanh tra Bộ Quốc phòng không quá ba; của Cục trưởng Cục Quân lực, Cục Dân quân tự vệ, Cục Tổ chức, Cục Cán bộ, Cục Tuyên huấn, Cục Nhà trường, Cục Tác chiến điện tử, Cục Công nghệ thông tin, Cục Cứu hộ - Cứu nạn, Cục Đối ngoại, Chánh án Tòa án Quân sự Trung ương, Viện trưởng Viện Kiểm sát quân sự Trung ương, Chánh Văn phòng Quân ủy Trung ương - Văn phòng Bộ Quốc phòng, Viện trưởng Viện Chiến lược quốc phòng không quá hai; của Giám đốc Bệnh viện Trung ương Quân đội 108 là một;
+
+đ) Đại tá:
+
+Sư đoàn trưởng, Chính ủy Sư đoàn; Chỉ huy trưởng, Chính ủy Bộ chỉ huy quân sự cấp tỉnh; Chỉ huy trưởng, Chính ủy Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh;
+
+Lữ đoàn trưởng, Chính ủy Lữ đoàn;
+
+e) Thượng tá:
+
+Trung đoàn trưởng, Chính ủy Trung đoàn; Chỉ huy trưởng, Chính trị viên Ban chỉ huy quân sự cấp huyện;
+
+g) Trung tá:
+
+Tiểu đoàn trưởng, Chính trị viên Tiểu đoàn;
+
+h) Thiếu tá:
+
+Đại đội trưởng, Chính trị viên Đại đội;
+
+i) Đại uý:
+
+Trung đội trưởng.
+
+2. Phó Chủ nhiệm và Ủy viên chuyên trách Ủy ban Kiểm tra Quân ủy Trung ương có cấp bậc quân hàm cấp tướng thực hiện theo quy định của cơ quan có thẩm quyền.
+
+3. Sĩ quan Quân đội nhân dân biệt phái là Ủy viên Thường trực Ủy ban Quốc phòng và An ninh của Quốc hội hoặc được bổ nhiệm chức vụ Tổng cục trưởng hoặc tương đương có cấp bậc quân hàm cao nhất là Thiếu tướng; sĩ quan Quân đội nhân dân biệt phái là Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội hoặc được bổ nhiệm chức vụ Thứ trưởng hoặc tương đương có cấp bậc quân hàm cao nhất là Trung tướng; sĩ quan Quân đội nhân dân biệt phái có chức vụ cao hơn được thăng quân hàm cấp tướng theo quy định của cơ quan có thẩm quyền.
+
+4. Cấp bậc quân hàm cao nhất đối với chức vụ, chức danh của sĩ quan là cấp tướng của đơn vị thành lập mới do Ủy ban thường vụ Quốc hội quyết định.
+
+5. Cấp bậc quân hàm cao nhất đối với chức vụ, chức danh của sĩ quan là cấp tá, cấp úy còn lại do Bộ trưởng Bộ Quốc phòng quy định.
+
+(Điều này có nội dung liên quan đến Điều 15. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan; Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự của Thông tư 113/2015/TT-BQP Quy định về tuyển chọn, đào tạo, bồi dưỡng, sử dụng cán bộ Viện kiểm sát quân sự ban hành ngày 28/09/2015)
 
 Điều 25.14.LQ.16. Đối tượng được phong quân hàm sĩ quan tại ngũ
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**Mã phân cấp:** 2501400000000000200001600000000000000000
+1. Học viên tốt nghiệp đào tạo sĩ quan tại ngũ được phong quân hàm Thiếu úy; tốt nghiệp loại giỏi, loại khá ở những ngành đào tạo có tính chất đặc thù hoặc có thành tích xuất sắc trong công tác được phong quân hàm Trung úy, trường hợp đặc biệt được phong quân hàm cao hơn theo quy định của Bộ trưởng Bộ Quốc phòng.
 
-**ID:** dk_00041405
-
----
-
-
-### Điều 25.14.LQ.17. Thăng quân hàm đối với sĩ quan tại ngũ
+2. Hạ sĩ quan, binh sĩ trong thời chiến; quân nhân chuyên nghiệp và công chức quốc phòng tại ngũ; cán bộ, công chức ngoài quân đội và những người tốt nghiệp đại học trở lên vào phục vụ tại ngũ được bổ nhiệm giữ chức vụ của sĩ quan thì được phong cấp bậc quân hàm sĩ quan tương xứng.
 
 Điều 25.14.LQ.17. Thăng quân hàm đối với sĩ quan tại ngũ
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 72/2014/QH13 có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**Mã phân cấp:** 2501400000000000200001700000000000000000
+1. Sĩ quan tại ngũ được thăng quân hàm khi có đủ các điều kiện sau đây:
 
-**ID:** dk_00041406
+a) Đủ tiêu chuẩn theo quy định tại Điều 12 của Luật này;
 
----
+b) Cấp bậc quân hàm hiện tại thấp hơn cấp bậc quân hàm cao nhất quy định đối với chức vụ, chức danh đang đảm nhiệm;
 
+c) Đủ thời hạn xét thăng quân hàm quy định tại khoản 2 Điều này.
 
-### Điều 25.14.LQ.18. Thăng quân hàm sĩ quan trước thời hạn
+2. Thời hạn xét thăng quân hàm đối với sĩ quan tại ngũ được quy định như sau:
+
+ Thiếu úy lên Trung úy:
+
+ 2 năm;
+
+ Trung úy lên Thượng úy:
+
+ 3 năm;
+
+ Thượng úy lên Đại úy:
+
+ 3 năm;
+
+ Đại úy lên Thiếu tá:
+
+ 4 năm;
+
+ Thiếu tá lên Trung tá:
+
+ 4 năm;
+
+ Trung tá lên Thượng tá:
+
+ 4 năm;
+
+ Thượng tá lên Đại tá:
+
+ 4 năm;
+
+Đại tá lên Thiếu tướng, Chuẩn Đô đốc Hải quân tối thiểu là 4 năm;
+
+Thiếu tướng, Chuẩn Đô đốc Hải quân lên Trung tướng, Phó Đô đốc Hải quân tối thiểu là 4 năm;
+
+Trung tướng, Phó Đô đốc Hải quân lên Thượng tướng, Đô đốc Hải quân tối thiểu là 4 năm;
+
+Thượng tướng, Đô đốc Hải quân lên Đại tướng tối thiểu là 4 năm;
+
+Thời gian sĩ quan học tập tại trường được tính vào thời hạn xét thăng quân hàm.
+
+3. Tuổi của sĩ quan tại ngũ xét thăng quân hàm từ cấp bậc Đại tá lên Thiếu tướng, Chuẩn Đô đốc Hải quân không quá 57, trường hợp cao hơn khi có yêu cầu theo quyết định của Chủ tịch nước.
+
+4. Sĩ quan tại ngũ lập thành tích đặc biệt xuất sắc thì được xét thăng quân hàm vượt bậc, nhưng không vượt quá cấp bậc quân hàm cao nhất đối với chức vụ, chức danh sĩ quan đang đảm nhiệm.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.18. Thăng quân hàm sĩ quan trước thời hạn; Điều 25.14.LQ.19. Kéo dài thời hạn xét thăng quân hàm sĩ quan; Điều 25.14.LQ.41. Bổ nhiệm chức vụ, phong, thăng quân hàm sĩ quan dự bị)
 
 Điều 25.14.LQ.18. Thăng quân hàm sĩ quan trước thời hạn
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**Mã phân cấp:** 2501400000000000200001800000000000000000
+Sĩ quan được xét thăng quân hàm trước thời hạn quy định tại khoản 2 Điều 17 của Luật này trong các trường hợp sau đây:
 
-**ID:** dk_00041407
+1. Trong chiến đấu lập chiến công xuất sắc hoặc trong công tác, nghiên cứu khoa học được tặng Huân chương;
 
----
+2. Hoàn thành tốt chức trách, nhiệm vụ mà cấp bậc quân hàm hiện tại thấp hơn cấp bậc quân hàm cao nhất quy định đối với chức vụ mà sĩ quan đang đảm nhiệm từ hai bậc trở lên hoặc cấp bậc quân hàm hiện tại thấp hơn cấp bậc quân hàm cao nhất đối với chức vụ chỉ huy, quản lý.
 
-
-### Điều 25.14.LQ.19. Kéo dài thời hạn xét thăng quân hàm sĩ quan
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.17. Thăng quân hàm đối với sĩ quan tại ngũ)
 
 Điều 25.14.LQ.19. Kéo dài thời hạn xét thăng quân hàm sĩ quan
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**Mã phân cấp:** 2501400000000000200001900000000000000000
+1. Sĩ quan đến thời hạn xét thăng quân hàm mà chưa đủ điều kiện quy định tại khoản 1 Điều 17 của Luật này thì được xét thăng quân hàm vào những năm tiếp theo.
 
-**ID:** dk_00041408
+2. Trong thời hạn xét thăng quân hàm, sĩ quan bị kỹ luật cảnh cáo, giáng chức, cách chức hoặc trong năm cuối của thời hạn xét thăng quân hàm, sĩ quan bị kỷ luật khiển trách thì thời hạn xét thăng quân hàm phải kéo dài ít nhất một năm.
 
----
+3. Sĩ quan bị kỷ luật giáng cấp bậc quân hàm, sau ít nhất một năm kể từ ngày bị giáng cấp, nếu tiến bộ thì được xét thăng quân hàm.
 
-
-### Điều 25.14.LQ.20. Mức thăng, giáng cấp bậc quân hàm sĩ quan
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.17. Thăng quân hàm đối với sĩ quan tại ngũ)
 
 Điều 25.14.LQ.20. Mức thăng, giáng cấp bậc quân hàm sĩ quan
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000200002000000000000000000
-
-**ID:** dk_00041409
-
----
-
-
-### Điều 25.14.LQ.21. Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan
+Việc thăng hoặc giáng cấp bậc quân hàm sĩ quan mỗi lần chỉ được một bậc; trường hợp đặc biệt mới thăng hoặc giáng nhiều bậc.
 
 Điều 25.14.LQ.21. Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000200002100000000000000000
+1. Sĩ quan được bổ nhiệm chức vụ khi có nhu cầu biên chế và đủ tiêu chuẩn quy định đối với chức vụ đảm nhiệm.
 
-**ID:** dk_00041410
+2. Việc miễn nhiệm chức vụ đối với sĩ quan được thực hiện trong các trường hợp sau đây :
 
----
+a) Khi thay đổi tổ chức mà không còn biên chế chức vụ sĩ quan đang đảm nhiệm;
 
+b) Sĩ quan không còn đủ tiêu chuẩn và điều kiện đảm nhiệm chức vụ hiện tại;
 
-### Điều 25.14.LQ.22. Quan hệ cấp bậc, chức vụ của sĩ quan
+c) Sĩ quan hết hạn tuổi phục vụ tại ngũ quy định tại khoản 1 Điều 13 của Luật này mà không được kéo dài thời hạn phục vụ tại ngũ.
+
+3. Sĩ quan có thể được giao chức vụ thấp hơn chức vụ đang đảm nhiệm hoặc chức vụ có quy định cấp bậc quân hàm cao nhất thấp hơn cấp bậc quân hàm hiện tại trong những trường hợp sau đây:
+
+a) Tăng cường cho nhiệm vụ đặc biệt;
+
+b) Thay đổi tổ chức, biên chế;
+
+c) Điều chỉnh để phù hợp với năng lực, sức khoẻ của sĩ quan.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan; Điều 25.14.LQ.31. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ)
 
 Điều 25.14.LQ.22. Quan hệ cấp bậc, chức vụ của sĩ quan
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000200002200000000000000000
-
-**ID:** dk_00041411
-
----
-
-
-### Điều 25.14.LQ.23. Quyền tạm đình chỉ chức vụ đối với sĩ quan trong trường hợp khẩn cấp
+Sĩ quan có cấp bậc quân hàm cao hơn là cấp trên của sĩ quan có cấp bậc quân hàm thấp hơn; trường hợp sĩ quan có chức vụ cao hơn nhưng có cấp bậc quân hàm bằng hoặc thấp hơn cấp bậc quân hàm của sĩ quan thuộc quyền thì sĩ quan có chức vụ cao hơn là cấp trên.
 
 Điều 25.14.LQ.23. Quyền tạm đình chỉ chức vụ đối với sĩ quan trong trường hợp khẩn cấp
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000200002300000000000000000
+Trường hợp khẩn cấp mà sĩ quan thuộc quyền không chấp hành mệnh lệnh có thể gây ra hậu quả nghiêm trọng thì sĩ quan có chức vụ từ Trung đoàn trưởng trở lên được quyền tạm đình chỉ chức vụ đối với sĩ quan đó và chỉ định người thay thế tạm thời, đồng thời phải báo cáo ngay cấp trên trực tiếp.
 
-**ID:** dk_00041412
+Điều 25.14.LQ.24. Biệt phái sĩ quan
 
----
+(Điều 24 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
+Căn cứ vào yêu cầu nhiệm vụ quốc phòng, sĩ quan tại ngũ được biệt phái đến công tác ở cơ quan, tổ chức ngoài quân đội, do cấp có thẩm quyền quyết định.
 
-### Điều 25.14.LQ.24. Biệt phái sĩ quan
+Điều 25.14.NĐ.2.2. Sĩ quan biệt phái
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Chỉ mục:** 24
+ Sĩ quan biệt phái là sĩ quan tại ngũ được cấp có thẩm quyền điều động đến công tác có thời hạn tại cơ quan, tổ chức ngoài quân đội, giúp cơ quan, tổ chức ngoài quân đội thực hiện nhiệm vụ quân sự, quốc phòng theo quy định của pháp luật.Điều 25.14.NĐ.2.3. Phạm vi biệt phái sĩ quan
 
-**Mã phân cấp:** 2501400000000000200002400000000000000000
+(Điều 3 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**ID:** dk_00041413
+ Sĩ quan được biệt phái trong các trường hợp sau:
 
----
+ 1. Biệt phái làm tham mưu trong chỉ đạo, tổ chức thực hiện nhiệm vụ quân sự, quốc phòng và quản lý nhà nước về quốc phòng ở một số Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ (sau đây gọi chung là Bộ) theo quy định của Chính phủ về công tác quốc phòng ở các Bộ và địa phương.
 
+ 2. Biệt phái làm tham mưu cho lãnh đạo, chỉ đạo, tổ chức thực hiện nhiệm vụ quân sự, quốc phòng theo yêu cầu của các cơ quan Trung ương Đảng, Văn phòng Quốc hội, Văn phòng Chủ tịch nước do cấp có thẩm quyền trao đổi, thống nhất với Bộ trưởng Bộ Quốc phòng để bố trí nhân sự sĩ quan biệt phái.
 
-### Điều 25.14.NĐ.2.2. Sĩ quan biệt phái
+ 3. Biệt phái làm tham mưu trong quản lý và giảng dạy môn giáo dục quốc phòng ở Sở Giáo dục và Đào tạo một số tỉnh, thành phố trọng điểm, một số học viện, trường đại học, cao đẳng (sau đây gọi chung là cơ quan, nhà trường) theo quy định của Chính phủ về giáo dục quốc phòng.
 
-*Nội dung chưa có sẵn*
+ 4. Biệt phái làm công tác chuyên môn, nghiệp vụ có liên quan đến quân sự, quốc phòng trong các tổ chức chính trị, tổ chức chính trị xã hội ở Trung ương (sau đây gọi chung là tổ chức chính trị), do cấp có thẩm quyền trao đổi, thống nhất với Bộ trưởng Bộ Quốc phòng bố trí sĩ quan biệt phái.Điều 25.14.NĐ.2.4. Tiêu chuẩn sĩ quan biệt phái
 
-**Chỉ mục:** 2
+(Điều 4 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000200
+ 1. Có đủ tiêu chuẩn của sĩ quan, quy định tại Điều 12 Luật Sĩ quan Quân đội nhân dân Việt Nam ngày 21 tháng 12 năm 1999 (sau đây gọi tắt là Luật Sĩ quan năm 1999).
 
-**ID:** dk_00041414
+ 2. Có đủ điều kiện, tiêu chuẩn theo yêu cầu nhiệm vụ biệt phái :
 
----
+ a) Sĩ quan biệt phái ở các Bộ và các cơ quan Trung ương phải có trình độ, năng lực làm tham mưu trong tổ chức thực hiện nhiệm vụ quốc phòng và quản lý nhà nước về quốc phòng, đáp ứng yêu cầu chuyên ngành của Bộ, cơ quan nơi sĩ quan đến biệt phái; có khả năng tham mưu với Bộ trưởng Bộ Quốc phòng và Thủ trưởng Bộ, cơ quan nơi sĩ quan đến biệt phái phối hợp thực hiện nhiệm vụ quốc phòng;
 
+ b) Sĩ quan biệt phái ở các cơ quan giáo dục đào tạo và các nhà trường phải có trình độ năng lực quản lý, giảng dạy môn giáo dục quốc phòng theo quy định của Luật Giáo dục; có khả năng tham gia vào các hoạt động giáo dục đào tạo, nghiên cứu khoa học và các hoạt động quân sự khác;
 
-### Điều 25.14.NĐ.2.3. Phạm vi biệt phái sĩ quan
+ c) Sĩ quan biệt phái ở tổ chức chính trị phải có trình độ, năng lực chuyên môn nghiệp vụ và trình độ quân sự để hoàn thành nhiệm vụ được giao.Điều 25.14.NĐ.2.5. Thời hạn biệt phái
 
-*Nội dung chưa có sẵn*
+(Điều 5 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Chỉ mục:** 3
+ 1. Thời hạn làm nhiệm vụ biệt phái của mỗi sĩ quan là 5 năm; khi cần thiết cấp có thẩm quyền điều động sĩ quan biệt phái xem xét, quyết định kéo dài thời hạn biệt phái, thời gian kéo dài không quá 5 năm.
 
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000300
+ 2. Khi cần thiết theo yêu cầu nhiệm vụ quốc phòng hoặc do cơ quan, tổ chức nơi sĩ quan đến biệt phái đề nghị cấp có thẩm quyền quyết định điều động sĩ quan biệt phái về trước thời hạn.Điều 25.14.NĐ.2.6. Quyết định biệt phái sĩ quan
 
-**ID:** dk_00041415
+(Điều 6 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
----
+ 1. Căn cứ vào phạm vi biệt phái sĩ quan quy định tại Điều 3 Nghị định này và yêu cầu nhiệm vụ quốc phòng từng giai đoạn, Bộ Quốc phòng chủ trì, phối hợp với Bộ Nội vụ lấy ý kiến từng Bộ, cơ quan, nhà trường ngoài quân đội về nhu cầu biệt phái sĩ quan, trình Thủ tướng Chính phủ quyết định những Bộ, cơ quan, nhà trường được bố trí sĩ quan biệt phái.
 
+ 2. Thực hiện quyết định của Thủ tướng Chính phủ, Bộ Quốc phòng thống nhất với từng Bộ, cơ quan, nhà trường được bố trí sĩ quan biệt phái về số lượng sĩ quan biệt phái.
 
-### Điều 25.14.NĐ.2.4. Tiêu chuẩn sĩ quan biệt phái
+ 3. Những Bộ, cơ quan, nhà trường không thuộc diện được bố trí sĩ quan biệt phái, khi có nhu cầu biệt phái sĩ quan, thì Bộ trưởng hoặc người đứng đầu cơ quan, nhà trường thống nhất với Bộ trưởng Bộ Quốc phòng trình Thủ tướng Chính phủ quyết định.
 
-*Nội dung chưa có sẵn*
+ 4. Số lượng sĩ quan biệt phái ở các cơ quan Trung ương Đảng, Văn phòng Quốc hội, Văn phòng Chủ tịch nước và ở các tổ chức chính trị thực hiện theo quy định tại khoản 2 và khoản 4 Điều 3 Nghị định này.Điều 25.14.NĐ.2.7. Điều động sĩ quan biệt phái
 
-**Chỉ mục:** 4
+(Điều 7 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000400
+ 1. Bộ Quốc phòng thống nhất nhân sự với các Bộ, cơ quan, nhà trường, tổ chức chính trị được bố trí sĩ quan biệt phái; quyết định hoặc đề nghị cấp có thẩm quyền quyết định điều động sĩ quan đến công tác ở cơ quan sử dụng sĩ quan biệt phái.
 
-**ID:** dk_00041416
+ 2. Khi sĩ quan hết thời hạn biệt phái hoặc theo yêu cầu nhiệm vụ quân đội cần điều động sĩ quan biệt phái về trước thời hạn, Bộ Quốc phòng thống nhất nhân sự với cơ quan sử dụng sĩ quan biệt phái và quyết định hoặc đề nghị cấp có thẩm quyền quyết định điều động sĩ quan khác thay thế.
 
----
+ 3. Khi sĩ quan biệt phái không đáp ứng được yêu cầu nhiệm vụ biệt phái, cơ quan sử dụng sĩ quan biệt phái trao đổi thống nhất với Bộ Quốc phòng để Bộ Quốc phòng quyết định hoặc đề nghị cấp có thẩm quyền quyết định điều động sĩ quan biệt phái về trước thời hạn và điều động sĩ quan khác thay thế.
 
+ 4. Khi cần kéo dài thời hạn biệt phái của sĩ quan, Bộ Quốc phòng thống nhất với cơ quan sử dụng sĩ quan biệt phái về nhân sự, thời gian kéo dài làm nhiệm vụ biệt phái và ra quyết định hoặc đề nghị cấp có thẩm quyền quyết định kéo dài thời hạn biệt phái đối với sĩ quan.
 
-### Điều 25.14.NĐ.2.5. Thời hạn biệt phái
+ 5. Thẩm quyền quyết định điều động sĩ quan biệt phái, thực hiện theo quy định tại khoản 2 Điều 25 Luật Sĩ quan năm 1999.Điều 25.14.NĐ.2.8. Tiếp nhận sĩ quan biệt phái
 
-*Nội dung chưa có sẵn*
+(Điều 8 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Chỉ mục:** 5
+ Cơ quan sử dụng sĩ quan biệt phái có trách nhiệm tiếp nhận, giao nhiệm vụ và tạo điều kiện cho sĩ quan biệt phái hoàn thành nhiệm vụ quy định tại Điều 10 Nghị định này.Điều 25.14.LQ.25. Thẩm quyền quyết định đối với sĩ quan
 
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000500
+(Điều 25 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 72/2014/QH13 có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**ID:** dk_00041417
+1. Thẩm quyền bổ nhiệm, miễn nhiệm, cách chức, phong, thăng, giáng, tước quân hàm đối với sĩ quan được quy định như sau:
 
----
+a) Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức Tổng Tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị; phong, thăng, giáng, tước quân hàm cấp tướng, Chuẩn Đô đốc, Phó Đô đốc, Đô đốc Hải quân;
 
+b) Thủ tướng Chính phủ bổ nhiệm, miễn nhiệm, cách chức Thứ trưởng; Phó Tổng Tham mưu trưởng, Phó Chủ nhiệm Tổng cục Chính trị; Giám đốc, Chính ủy Học viện Quốc phòng; Chủ nhiệm Tổng cục, Tổng cục trưởng, Chính ủy Tổng cục; Tư lệnh, Chính ủy Quân khu; Tư lệnh, Chính ủy Quân chủng; Tư lệnh, Chính ủy Bộ đội Biên phòng; Tư lệnh, Chính ủy Cảnh sát biển Việt Nam; Trưởng Ban Cơ yếu Chính phủ và các chức vụ khác theo quy định của cấp có thẩm quyền;
 
-### Điều 25.14.NĐ.2.6. Quyết định biệt phái sĩ quan
+c) Bộ trưởng Bộ Quốc phòng bổ nhiệm, miễn nhiệm, cách chức các chức vụ và phong, thăng, giáng, tước các cấp bậc quân hàm còn lại và nâng lương sĩ quan;
 
-*Nội dung chưa có sẵn*
+d) Việc bổ nhiệm, miễn nhiệm, cách chức các chức vụ thuộc ngành Kiểm sát, Toà án, Thi hành án trong quân đội được thực hiện theo quy định của pháp luật.
 
-**Chỉ mục:** 6
+2. Cấp có thẩm quyền quyết định bổ nhiệm đến chức vụ nào thì có quyền miễn nhiệm, cách chức, giáng chức, quyết định kéo dài thời hạn phục vụ tại ngũ, điều động, biệt phái, giao chức vụ thấp hơn, cho thôi phục vụ tại ngũ, chuyển ngạch và giải ngạch sĩ quan dự bị đến chức vụ đó.
 
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000600
-
-**ID:** dk_00041418
-
----
-
-
-### Điều 25.14.NĐ.2.7. Điều động sĩ quan biệt phái
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000700
-
-**ID:** dk_00041419
-
----
-
-
-### Điều 25.14.NĐ.2.8. Tiếp nhận sĩ quan biệt phái
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 250140000000000020000240000000000000000000402129501650000800
-
-**ID:** dk_00041420
-
----
-
-
-### Điều 25.14.LQ.25. Thẩm quyền quyết định đối với sĩ quan
-
-Điều 25.14.LQ.25. Thẩm quyền quyết định đối với sĩ quan
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 2501400000000000200002500000000000000000
-
-**ID:** dk_00041421
-
----
-
-
-### Điều 25.14.LQ.25a. Trình tự, thủ tục phong, thăng, giáng, tước quân hàm đối với sĩ quan
+(Điều này có nội dung liên quan đến Điều 25. Thẩm quyền quyết định đối với sĩ quan; Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự của Thông tư 113/2015/TT-BQP Quy định về tuyển chọn, đào tạo, bồi dưỡng, sử dụng cán bộ Viện kiểm sát quân sự ban hành ngày 28/09/2015)
 
 Điều 25.14.LQ.25a. Trình tự, thủ tục phong, thăng, giáng, tước quân hàm đối với sĩ quan
 
-**Chỉ mục:** 25a
+(Điều 25a Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000200002510000000000000000
+1. Thủ tướng Chính phủ trình Chủ tịch nước phong, thăng, giáng, tước quân hàm cấp tướng, Chuẩn Đô đốc, Phó Đô đốc, Đô đốc Hải quân.
 
-**ID:** dk_00041422
+Việc thăng, giáng, tước quân hàm cấp tướng của sĩ quan Quân đội nhân dân biệt phái theo đề nghị của cơ quan, tổ chức, đơn vị nơi được cử đến biệt phái và Bộ trưởng Bộ Quốc phòng.
 
----
+2. Trình tự, thủ tục phong, thăng, giáng, tước cấp bậc quân hàm đối với sĩ quan cấp tá, cấp úy và nâng lương sĩ quan do Bộ trưởng Bộ Quốc phòng quy định.
 
+Chương III
 
-### Điều 25.14.LQ.26. Nghĩa vụ của sĩ quan
+NGHĨA VỤ,TRÁCH NHIỆM VÀ QUYỀN LỢI CỦA SĨ QUAN
 
-*Nội dung chưa có sẵn*
+Điều 25.14.LQ.26. Nghĩa vụ của sĩ quan
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000300002600000000000000000
+Sĩ quan có nghĩa vụ sau đây:
 
-**ID:** dk_00041424
+1. Sẵn sàng chiến đấu, hy sinh bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ của Tổ quốc, bảo vệ Đảng Cộng sản Việt Nam và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; tham gia xây dựng đất nước, bảo vệ tài sản và lợi ích của Nhà nước, của cơ quan, tổ chức; bảo vệ tính mạng, tài sản, quyền và lợi ích hợp pháp của cá nhân;
 
----
+2. Thường xuyên giữ gìn và trau dồi đạo đức cách mạng, học tập, rèn luyện nâng cao trình độ, kiến thức, năng lực về chính trị, quân sự, văn hoá, chuyên môn và thể lực để hoàn thành nhiệm vụ;
 
+3. Tuyệt đối phục tùng tổ chức, phục tùng chỉ huy; nghiêm chỉnh chấp hành điều lệnh, điều lệ, chế độ, quy định của quân đội; giữ bí mật quân sự, bí mật quốc gia;
 
-### Điều 25.14.LQ.27. Trách nhiệm của sĩ quan
+4. Thường xuyên chăm lo lợi ích vật chất và tinh thần của bộ đội;
 
-*Nội dung chưa có sẵn*
+5. Gương mẫu chấp hành và vận động nhân dân thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước; tôn trọng và gắn bó mật thiết với nhân dân.
 
-**Chỉ mục:** 27
+(Điều này có nội dung liên quan đến Điều 41.11.LQ.27. Hoạt động thể dục, thể thao trong lực lượng vũ trang; Điều 41.11.LQ.30. Quyền và nghĩa vụ của cán bộ, chiến sỹ)
 
-**Mã phân cấp:** 2501400000000000300002700000000000000000
+Điều 25.14.LQ.27. Trách nhiệm của sĩ quan
 
-**ID:** dk_00041425
+(Điều 27 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
----
+Sĩ quan có trách nhiệm sau đây:
 
+1. Chịu trách nhiệm trước pháp luật và cấp trên về những mệnh lệnh của mình, về việc chấp hành mệnh lệnh của cấp trên và việc thừa hành nhiệm vụ của cấp dưới thuộc quyền;
 
-### Điều 25.14.LQ.28. Những việc sĩ quan không được làm
+2. Lãnh đạo, chỉ huy, quản lý, tổ chức thực hiện mọi nhiệm vụ của đơn vị theo chức trách được giao; bảo đảm cho đơn vị chấp hành triệt để đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước, điều lệnh, điều lệ, chế độ, quy định của quân đội, sẵn sàng chiến đấu và hoàn thành tốt mọi nhiệm vụ trong bất kỳ hoàn cảnh, điều kiện nào;
+
+3. Khi nhận mệnh lệnh của người chỉ huy, nếu sĩ quan có căn cứ cho là mệnh lệnh đó trái pháp luật thì phải báo cáo ngay với người ra mệnh lệnh; trong trường hợp vẫn phải chấp hành mệnh lệnh thì báo cáo kịp thời lên cấp trên trực tiếp của người ra mệnh lệnh và không phải chịu trách nhiệm về hậu quả của việc thi hành mệnh lệnh đó.
 
 Điều 25.14.LQ.28. Những việc sĩ quan không được làm
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000300002800000000000000000
-
-**ID:** dk_00041426
-
----
-
-
-### Điều 25.14.LQ.29. Nghĩa vụ, trách nhiệm và quyền lợi của sĩ quan biệt phái
+Sĩ quan không được làm những việc trái với pháp luật, kỷ luật quân đội và những việc mà pháp luật quy định cán bộ, công chức không được làm.
 
 Điều 25.14.LQ.29. Nghĩa vụ, trách nhiệm và quyền lợi của sĩ quan biệt phái
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**Mã phân cấp:** 2501400000000000300002900000000000000000
+1. Thực hiện nghĩa vụ, trách nhiệm và được hưởng quyền lợi như sĩ quan đang công tác trong quân đội; được cơ quan, tổ chức nơi đến biệt phái bảo đảm điều kiện làm việc và sinh hoạt.
 
-**ID:** dk_00041427
+2. Thực hiện nhiệm vụ do cấp có thẩm quyền giao và chịu sự quản lý của cơ quan, tổ chức nơi đến biệt phái.
 
----
-
-
-### Điều 25.14.NĐ.2.9. Nghĩa vụ, trách nhiệm của sĩ quan biệt phái
+(Điều này có nội dung liên quan đến Điều 41.11.LQ.27. Hoạt động thể dục, thể thao trong lực lượng vũ trang; Điều 41.11.LQ.30. Quyền và nghĩa vụ của cán bộ, chiến sỹ)
 
 Điều 25.14.NĐ.2.9. Nghĩa vụ, trách nhiệm của sĩ quan biệt phái
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650000900
+ 1. Sĩ quan biệt phái thực hiện nghĩa vụ, trách nhiệm như sĩ quan đang công tác trong quân đội quy định tại Điều 26, 27, 28 và 29 Luật Sĩ quan năm 1999.
 
-**ID:** dk_00041428
+ 2. Sĩ quan biệt phái chịu sự chỉ đạo, phân công công tác, quản lý của cơ quan sử dụng sĩ quan biệt phái; chịu trách nhiệm về kết quả công tác và báo cáo tình hình thực hiện nhiệm vụ với Thủ trưởng cơ quan sử dụng biệt phái và Bộ Quốc phòng.Điều 25.14.NĐ.2.10. Nhiệm vụ của sĩ quan biệt phái
 
----
+(Điều 10 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
+ 1. Sĩ quan biệt phái ở Bộ có nhiệm vụ :
 
-### Điều 25.14.NĐ.2.10. Nhiệm vụ của sĩ quan biệt phái
+ a) Tham mưu với Bộ trưởng, nơi sĩ quan đến biệt phái thực hiện quản lý nhà nước về quốc phòng và giải quyết những vấn đề có liên quan đến việc kết hợp kinh tế - xã hội với củng cố quốc phòng, an ninh;
 
-*Nội dung chưa có sẵn*
+ b) Tham mưu với Bộ trưởng về kết hợp kinh tế - xã hội với quốc phòng, an ninh trong quá trình xây dựng chiến lược, quy hoạch, kế hoạch, cơ chế, chính sách thuộc phạm vi trách nhiệm của Bộ. Giúp Bộ trưởng lập kế hoạch và hướng dẫn kiểm tra các đơn vị thuộc quyền thực hiện kế hoạch bảo đảm cho quốc phòng trong thời bình và khi đất nước có chiến tranh; công tác giáo dục quốc phòng, xây dựng và huy động lực lượng dự bị động viên, động viên công nghiệp, tuyển quân, xây dựng lực lượng tự vệ, phòng thủ dân sự và các nhiệm vụ khác có liên quan đến quân sự, quốc phòng theo quy định của nhà nước và hướng dẫn của Bộ Quốc phòng;
 
-**Chỉ mục:** 10
+ c) Đề xuất các biện pháp phối hợp công tác giữa Bộ nơi sĩ quan đến biệt phái với Bộ Quốc phòng.
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650001000
+ 2. Sĩ quan biệt phái ở cơ quan Trung ương Đảng, Văn phòng Quốc hội, Văn phòng Chủ tịch nước có nhiệm vụ :
 
-**ID:** dk_00041429
+ a) Tham mưu cho lãnh đạo cơ quan về những vấn đề liên quan đến quân sự, quốc phòng thuộc chức trách, nhiệm vụ của người lãnh đạo cơ quan, do lãnh đạo cơ quan giao trực tiếp hoặc thông qua cấp trực tiếp quản lý sĩ quan biệt phái;
 
----
+ b) Tham gia hoặc phối hợp với các cơ quan liên quan thực hiện các nhiệm vụ liên quan đến quân sự, quốc phòng do lãnh đạo cơ quan giao;
 
+ c) Đề xuất các biện pháp phối hợp giữa cơ quan nơi sĩ quan công tác với Bộ Quốc phòng, làm cầu nối giữa cơ quan, lãnh đạo cơ quan với Bộ Quốc phòng, lãnh đạo Bộ Quốc phòng.
 
-### Điều 25.14.NĐ.2.11. Quyền lợi của sĩ quan biệt phái
+ 3. Sĩ quan biệt phái ở cơ quan giáo dục - đào tạo và các nhà trường có nhiệm vụ :
 
-Điều 25.14.NĐ.2.11. Quyền lợi của sĩ quan biệt phái
+ a) Làm tham mưu với Thủ trưởng cơ quan, nhà trường nơi sĩ quan đến biệt phái thực hiện công tác quản lý về giáo dục quốc phòng; nghiên cứu khoa học, đổi mới nội dung, phương pháp giảng dạy và thực hiện giảng dạy môn học giáo dục quốc phòng;
 
-**Chỉ mục:** 11
+ b) Tham gia phối hợp thực hiện các công tác quân sự khác.
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650001100
+ 4. Sĩ quan biệt phái ở tổ chức chính trị có nhiệm vụ thực hiện các nội dung công tác chuyên môn nghiệp vụ theo chuyên đề hoặc theo nhiệm vụ được giao.Điều 25.14.NĐ.2.11. Quyền lợi của sĩ quan biệt phái
 
-**ID:** dk_00041430
+(Điều 11 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
----
+ Sĩ quan biệt phái được hưởng các quyền lợi sau :
 
+ 1. Được bảo đảm điều kiện, phương tiện làm việc, công tác phí, chế độ phúc lợi như cán bộ, công chức nơi sĩ quan đến biệt phái.
 
-### Điều 25.14.NĐ.2.12. Quản lý, sử dụng
+ 2. Được tuyển chọn đi học tập, bồi dưỡng nâng cao trình độ, được cung cấp thông tin, tham dự các hoạt động của quân đội và nơi đến biệt phái có liên quan đến nhiệm vụ đang đảm nhiệm; được xét khen thưởng theo quy định hiện hành.
 
-*Nội dung chưa có sẵn*
+ 3. Được hưởng chế độ lương, các khoản phụ cấp theo lương và các chế độ, chính sách khác như đối với sĩ quan đang công tác trong quân đội có cùng cấp bậc quân hàm và nhóm chức vụ; được hưởng phụ cấp chức vụ, phụ cấp nghề nghiệp đặc thù nơi sĩ quan đến biệt phái (nếu có), nhưng không trùng với các khoản phụ cấp đã có trong chế độ tiền lương của lực lượng vũ trang. Trước khi làm nhiệm vụ biệt phái hoặc thôi làm nhiệm vụ biệt phái nếu có phụ cấp chức vụ, được bảo lưu thời gian hưởng phụ cấp theo quy định hiện hành.
 
-**Chỉ mục:** 12
+ 4. Khi hết thời hạn biệt phái được bố trí về công tác tại cơ quan, đơn vị trước khi đi biệt phái đúng với chuyên môn, nghiệp vụ; trường hợp đặc biệt theo yêu cầu nhiệm vụ, mới bố trí về công tác ở cơ quan, đơn vị khác.Điều 25.14.NĐ.2.12. Quản lý, sử dụng
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650001200
+(Điều 12 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**ID:** dk_00041431
+ 1. Bộ Quốc phòng quản lý biên chế sĩ quan biệt phái, phối hợp với cơ quan sử dụng sĩ quan biệt phái quản lý từng sĩ quan biệt phái theo phân cấp.
 
----
+ 2. Cơ quan sử dụng sĩ quan biệt phái có trách nhiệm sử dụng sĩ quan biệt phái theo đúng nhiệm vụ quy định tại Điều 10 Nghị định này; quản lý sĩ quan biệt phái như quản lý cán bộ, công chức thuộc quyền; hàng năm hoặc khi cần thiết nhận xét đánh giá sĩ quan biệt phái theo đề nghị của Bộ Quốc phòng.
 
+ 3. Cơ quan sử dụng sĩ quan biệt phái khi cử sĩ quan biệt phái ra nước ngoài học tập, công tác từ 3 tháng trở lên phải thống nhất với Bộ Quốc phòng; dưới 3 tháng thì thông báo cho Bộ Quốc phòng biết.
 
-### Điều 25.14.NĐ.2.13. Bổ nhiệm, miễn nhiệm chức vụ lãnh đạo, quản lý
+ 4. Cơ quan tổ chức cán bộ nơi sử dụng sĩ quan biệt phái và cơ quan cán bộ các đơn vị quân đội có sĩ quan điều động đi biệt phái có trách nhiệm giúp Thủ trưởng của mình trực tiếp quản lý sĩ quan biệt phái; là cơ quan đại diện phối hợp bàn bạc những vấn đề có liên quan đến sĩ quan biệt phái trình cấp có thẩm quyền quyết định.
 
-Điều 25.14.NĐ.2.13. Bổ nhiệm, miễn nhiệm chức vụ lãnh đạo, quản lý
+ 5. Bộ Giáo dục và Đào tạo có trách nhiệm quản lý công tác chuyên môn đối với sĩ quan biệt phái làm nhiệm vụ quản lý và giảng dạy môn giáo dục quốc phòng trong cả nước.Điều 25.14.NĐ.2.13. Bổ nhiệm, miễn nhiệm chức vụ lãnh đạo, quản lý
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650001300
+ Khi có đủ tiêu chuẩn và do yêu cầu nhiệm vụ, sĩ quan biệt phái được xem xét bổ nhiệm chức vụ theo các chức danh cán bộ lãnh đạo, quản lý của cơ quan nơi sĩ quan đến biệt phái.
 
-**ID:** dk_00041432
+ Căn cứ vào yêu cầu nhiệm vụ, cơ quan sử dụng sĩ quan biệt phái thống nhất nhân sự với Bộ Quốc phòng, quyết định bổ nhiệm hoặc miễn nhiệm chức vụ cán bộ lãnh đạo, quản lý đối với sĩ quan biệt phái.Điều 25.14.NĐ.2.14. Thăng quân hàm, nâng lương
 
----
+(Điều 14 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
+ 1. Khi đến thời hạn xét thăng quân hàm, nâng lương của sĩ quan biệt phái, Bộ Quốc phòng đề nghị cơ quan sử dụng sĩ quan biệt phái nhận xét từng sĩ quan để Bộ Quốc phòng xem xét, quyết định hoặc đề nghị cấp có thẩm quyền quyết định thăng quân hàm hoặc nâng lương và thông báo cho cơ quan sử dụng sĩ quan biệt phái.
 
-### Điều 25.14.NĐ.2.14. Thăng quân hàm, nâng lương
+ 2. Cấp bậc quân hàm cao nhất của sĩ quan biệt phái là cấp tướng do Thủ tướng Chính phủ quy định, là cấp tá trở xuống do Bộ trưởng Bộ Quốc phòng quy định.Điều 25.14.NĐ.2.15. Bảo đảm chế độ, chính sách đối với sĩ quan biệt phái
 
-*Nội dung chưa có sẵn*
+(Điều 15 Nghị định số 165/2003/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/01/2004)
 
-**Chỉ mục:** 14
+ 1. Bộ Quốc phòng bảo đảm lương, các khoản phụ cấp theo lương và phụ cấp chức vụ (nếu có), chế độ, chính sách khi ốm đau, tai nạn hoặc từ trần và các chế độ, chính sách khác đối với sĩ quan biệt phái như sĩ quan đang công tác trong quân đội; tổ chức bồi dưỡng và cung cấp thông tin cần thiết về quân sự, quốc phòng; tuyển chọn đi học nâng cao trình độ, tạo điều kiện cho sĩ quan biệt phái tham gia các hoạt động của quân đội theo yêu cầu công tác.
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650001400
+ 2. Cơ quan sử dụng sĩ quan biệt phái bảo đảm phụ cấp nghề nghiệp đặc thù (nếu có), công tác phí, chế độ phúc lợi, các điều kiện và phương tiện làm việc, cung cấp thông tin, bồi dưỡng nghiệp vụ, chuyên môn ngành quản lý cho sĩ quan biệt phái; khi sĩ quan biệt phái ốm đau, tai nạn hoặc từ trần, cơ quan sử dụng sĩ quan biệt phái chủ động phối hợp với Bộ Quốc phòng giải quyết mọi chế độ, chính sách cho sĩ quan biệt phái như quy định tại khoản 1 Điều này.Điều 25.14.TT.2.3. Nguyên tắc thực hiện chế độ phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
 
-**ID:** dk_00041433
+(Điều 3 Thông tư số 09/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 20/04/2015)
 
----
+ 1. Sĩ quan biệt phái được bổ nhiệm giữ chức vụ lãnh đạo nào thì hưởng mức phụ cấp chức vụ lãnh đạo quy định cho chức vụ lãnh đạo đó. Nếu một người giữ nhiều chức vụ lãnh đạo khác nhau thì chỉ thực hiện một mức phụ cấp chức vụ lãnh đạo cao nhất. Người được giao quyền đảm nhiệm chức vụ lãnh đạo cũng được trả phụ cấp chức vụ lãnh đạo như người giữ chức vụ lãnh đạo tương ứng.
 
+ 2. Trường hợp sĩ quan biệt phái được bổ nhiệm chức vụ lãnh đạo có mức phụ cấp chức vụ lãnh đạo cao hơn trước khi biệt phái thì được hưởng mức phụ cấp chức vụ lãnh đạo mới kể từ khi quyết định bổ nhiệm có hiệu lực thi hành.
 
-### Điều 25.14.NĐ.2.15. Bảo đảm chế độ, chính sách đối với sĩ quan biệt phái
+ 3. Trường hợp sĩ quan biệt phái được giao chức vụ lãnh đạo thấp hơn chức vụ lãnh đạo trước khi biệt phái thì được bảo lưu mức phụ cấp chức vụ lãnh đạo cũ trong 6 tháng, từ tháng thứ 7 trở đi hưởng theo chức vụ lãnh đạo mới.
 
-Điều 25.14.NĐ.2.15. Bảo đảm chế độ, chính sách đối với sĩ quan biệt phái
+ 4. Trường hợp sĩ quan đang được hưởng phụ cấp chức vụ lãnh đạo mà có quyết định điều động biệt phái đến nơi không có phụ cấp chức vụ lãnh đạo thì được bảo lưu mức phụ cấp chức vụ lãnh đạo cũ trong 6 tháng; thôi hưởng phụ cấp chức vụ lãnh đạo từ tháng thứ 7 trở đi.
 
-**Chỉ mục:** 15
+ 5. Khi thôi làm nhiệm vụ biệt phái, chế độ phụ cấp chức vụ lãnh đạo đối với sĩ quan thực hiện theo quy định tại Khoản 1 Phần IV Thông tư số 05/2005/TT-BQP ngày 05 tháng 01 năm 2005 của Bộ Quốc phòng hướng dẫn thực hiện chế độ tiền lương đối với quân nhân, công nhân viên chức quốc phòng hưởng lương hoặc sinh hoạt phí từ nguồn kinh phí thuộc ngân sách nhà nước.Điều 25.14.TT.2.4. Hồ sơ, trình tự thực hiện, mức hưởng và cách tính trả phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000402129501650001500
+(Điều 4 Thông tư số 09/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 20/04/2015)
 
-**ID:** dk_00041434
+ 1. Hồ sơ
 
----
+ a) Quyết định điều động biệt phái sĩ quan;
 
+ b) Quyết định bổ nhiệm hoặc miễn nhiệm chức vụ cán bộ lãnh đạo, quản lý của cơ quan sử dụng sĩ quan biệt phái, hoặc văn bản thông báo của cơ quan sử dụng sĩ quan biệt phái về chức vụ đã bổ nhiệm hoặc miễn nhiệm và hệ số phụ cấp chức vụ đã bổ nhiệm.
 
-### Điều 25.14.TT.2.3. Nguyên tắc thực hiện chế độ phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
+ 2. Trình tự thực hiện
 
-Điều 25.14.TT.2.3. Nguyên tắc thực hiện chế độ phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
+ a) Cơ quan sử dụng sĩ quan biệt phái thống nhất nhân sự với đơn vị cử sĩ quan biệt phái, ban hành quyết định bổ nhiệm hoặc miễn nhiệm chức vụ cán bộ lãnh đạo, quản lý đối với sĩ quan biệt phái và thông báo bằng văn bản cho đơn vị cử sĩ quan biệt phái về chức vụ đã bổ nhiệm hoặc miễn nhiệm và hệ số phụ cấp chức vụ đã bổ nhiệm.
 
-**Chỉ mục:** 3
+ b) Đơn vị cử sĩ quan biệt phái căn cứ vào hồ sơ quy định tại Khoản 1 Điều này và quy định tại Điều 3 Thông tư này để chi trả phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái.
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000802538500090000300
+ c) Trường hợp đơn vị cử sĩ quan biệt phái có công văn trao đổi lấy ý kiến về phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái, nếu sau một tháng không nhận được ý kiến trả lời bằng văn bản của cơ quan sử dụng sĩ quan biệt phái thì đơn vị cử sĩ quan biệt phái có văn bản báo cáo cấp có thẩm quyền (cấp quyết định điều động biệt phái sĩ quan) xem xét, quyết định.
 
-**ID:** dk_00041435
+ 3. Mức phụ cấp chức vụ lãnh đạo
 
----
+ Mức phụ cấp chức vụ lãnh đạo được áp dụng theo quy định tại các văn bản sau:
 
+ a) Mức phụ cấp chức vụ lãnh đạo trong Quân đội được áp dụng tại Bảng Phụ cấp chức vụ lãnh đạo Quân đội nhân dân và Công an nhân dân ban hành kèm theo Nghị định số 204/2004/NĐ-CP.
 
-### Điều 25.14.TT.2.4. Hồ sơ, trình tự thực hiện, mức hưởng và cách tính trả phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
+ b) Mức phụ cấp chức vụ lãnh đạo (nếu có) của sĩ quan biệt phái tại cơ quan sử dụng sĩ quan biệt phái được áp dụng theo quy định tại các văn bản sau:
 
-Điều 25.14.TT.2.4. Hồ sơ, trình tự thực hiện, mức hưởng và cách tính trả phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
+ - Bảng phụ cấp chức vụ ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban Thường vụ Quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của nhà nước; bảng lương chuyên môn, nghiệp vụ ngành tòa án, ngành kiểm sát;
 
-**Chỉ mục:** 4
+ - Bảng phụ cấp chức vụ ban hành kèm theo Nghị quyết số 1003/2006/NQ-UBTVQH11 ngày 03 tháng 3 năm 2006 của Ủy ban Thường vụ Quốc hội phê chuẩn bảng lương và phụ cấp chức vụ đối với cán bộ lãnh đạo Kiểm toán Nhà nước; bảng lương, phụ cấp, trang phục đối với cán bộ, công chức Kiểm toán Nhà nước; chế độ ưu tiên đối với kiểm toán viên nhà nước;
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000802538500090000400
+ - Bảng phụ cấp chức vụ lãnh đạo ban hành kèm theo Quyết định số 128-QĐ/TW ngày 14 tháng 12 năm 2004 của Ban Bí thư về chế độ tiền lương đối với cán bộ, công chức, viên chức cơ quan Đảng, mặt trận và các đoàn thể đã được sửa đổi, bổ sung tại Quyết định số 275-QĐ/TW ngày 04 tháng 12 năm 2009 của Ban Bí thư.
 
-**ID:** dk_00041436
+ - Bảng phụ cấp chức vụ lãnh đạo ban hành kèm theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang đã được sửa đổi, bổ sung tại Nghị định số 76/2009/NĐ-CP ngày 15 tháng 9 năm 2009 của Chính phủ.
 
----
+ 4. Cách tính trả
 
+ Phụ cấp chức vụ lãnh đạo được trả cùng kỳ lương hàng tháng và được dùng để tính đóng, hưởng chế độ bảo hiểm xã hội.Điều 25.14.TT.2.5. Bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái
 
-### Điều 25.14.TT.2.5. Bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái
+(Điều 5 Thông tư số 09/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 20/04/2015)
 
-Điều 25.14.TT.2.5. Bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái
+ 1. Bảo đảm tiền lương, phụ cấp: Đơn vị cử sĩ quan biệt phái bảo đảm tiền lương, các khoản phụ cấp theo lương và phụ cấp chức vụ lãnh đạo (nếu có) đối với sĩ quan biệt phái. Sĩ quan biệt phái thuộc danh sách trả lương của đơn vị nào thì đơn vị đó chi trả cùng kỳ lương hàng tháng.
 
-**Chỉ mục:** 5
+ 2. Trường hợp sĩ quan biệt phái ốm đau, tai nạn hoặc từ trần, đơn vị cử sĩ quan biệt phái chủ trì, phối hợp với cơ quan sử dụng sĩ quan biệt phái bảo đảm chế độ, chính sách đối với sĩ quan biệt phái như sĩ quan đang công tác tại đơn vị.
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000802538500090000500
+ 3. Đơn vị cử sĩ quan biệt phái bảo đảm kinh phí để tổ chức bồi dưỡng, cung cấp thông tin cần thiết về quân sự, quốc phòng; kinh phí triệu tập sĩ quan biệt phái theo yêu cầu của đơn vị.
 
-**ID:** dk_00041437
+ 4. Các khoản phụ cấp nghề nghiệp đặc thù (nếu có), công tác phí, chế độ phúc lợi, điều kiện và phương tiện làm việc, cung cấp thông tin, bồi dưỡng nghiệp vụ, chuyên môn ngành quản lý thực hiện theo quy định tại Khoản 2 Điều 15 Nghị định số 165/2003/NĐ-CP.Điều 25.14.TT.2.6. Nguồn kinh phí thực hiện
 
----
+(Điều 6 Thông tư số 09/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 20/04/2015)
 
+ Bộ Quốc phòng bảo đảm ngân sách đối với nội dung quy định tại Khoản 1, 2, 3 Điều 5 Thông tư này, trong đó:
 
-### Điều 25.14.TT.2.6. Nguồn kinh phí thực hiện
+ 1. Nguồn kinh phí thực hiện tiền lương, các khoản phụ cấp theo lương và phụ cấp chức vụ lãnh đạo (nếu có) do ngân sách nhà nước bảo đảm và được giao trong dự toán ngân sách hàng năm của đơn vị cử sĩ quan biệt phái theo phân cấp quản lý ngân sách nhà nước hiện hành.
 
-*Nội dung chưa có sẵn*
+ 2. Nguồn kinh phí thực hiện chế độ ốm đau, tai nạn hoặc từ trần (nếu có) do ngân sách nhà nước và Quỹ bảo hiểm xã hội bảo đảm theo quy định của pháp luật.
 
-**Chỉ mục:** 6
+ 3. Kinh phí chi trả tiền lương đối với sĩ quan biệt phái làm nhiệm vụ giáo dục quốc phòng, an ninh được hạch toán vào Loại 460, Khoản 468, Mục 6000, Tiểu mục 6101, Tiết mục 10, Ngành 00 trong Hệ thống Mục lục ngân sách nhà nước áp dụng trong Quân đội.
 
-**Mã phân cấp:** 250140000000000030000290000000000000000000802538500090000600
+ 4. Kinh phí chi trả các khoản phụ cấp theo lương và phụ cấp chức vụ lãnh đạo (nếu có) đối với sĩ quan biệt phái làm nhiệm vụ giáo dục quốc phòng, an ninh được hạch toán vào Loại 460, Khoản 468, Mục 6100, Tiểu mục tương ứng với loại phụ cấp, Tiết mục 10, Ngành 00 trong Hệ thống Mục lục ngân sách nhà nước áp dụng trong Quân đội.Điều 25.14.LQ.30. Đào tạo, bồi dưỡng đối với sĩ quan
 
-**ID:** dk_00041438
+(Điều 30 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
----
+1. Sĩ quan được Đảng và Nhà nước chăm lo, khuyến khích và tạo điều kiện để phát triển tài năng.
 
+2. Sĩ quan được đào tạo, bồi dưỡng tại các trường trong và ngoài quân đội theo yêu cầu công tác.
 
-### Điều 25.14.LQ.30. Đào tạo, bồi dưỡng đối với sĩ quan
+(Điều này có nội dung liên quan đến Điều 41.11.LQ.30. Quyền và nghĩa vụ của cán bộ, chiến sỹ)
 
-Điều 25.14.LQ.30. Đào tạo, bồi dưỡng đối với sĩ quan
+Điều 25.14.NĐ.3.2. Đối tượng đào tạo
 
-**Chỉ mục:** 30
+(Điều 2 Nghị định số 73/2005/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/07/2005)
 
-**Mã phân cấp:** 2501400000000000300003000000000000000000
+1. Thanh niên ngoài quân đội, quân nhân, công chức quốc phòng, công nhân quốc phòng trúng tuyển vào các trường cao đẳng, đại học trong quân đội theo Quy chế tuyển sinh do Bộ Giáo dục và Đào tạo ban hành; có đủ tiêu chuẩn, điều kiện do Bộ Quốc phòng và Bộ Giáo dục và Đào tạo quy định thì được xét chuyển sang đào tạo ở các trường ngoài quân đội thuộc những ngành, chuyên ngành có cùng khối thi.
 
-**ID:** dk_00041439
+2. Thiếu sinh quân, quân nhân, công chức quốc phòng, công nhân quốc phòng là người dân tộc thiểu số có đủ tiêu chuẩn, điều kiện thì được cử tuyển vào đào tạo cao đẳng, đại học tại các trường ngoài quân đội, thực hiện theo quy định tại Điều 3 Nghị định số 43/2000/NĐ-CP ngày 30 tháng 8 năm 2000 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục.
 
----
+3. Cán bộ quân đội tốt nghiệp đại học các trường trong quân đội*** ***được đào tạo trình độ thạc sĩ, tiến sĩ, thực tập sinh khoa học, nghiên cứu chuyên đề tại các trường ngoài quân đội theo quy chế tuyển sinh hiện hành.
 
+4. Sinh viên, học viên đang học tại các trường ngoài quân đội, có học lực khá, giỏi và ngành học phù hợp với yêu cầu của quân đội, được tuyển chọn để tiếp tục đào tạo trình độ cao hơn theo yêu cầu của quân đội.
 
-### Điều 25.14.NĐ.3.2. Đối tượng đào tạo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 250140000000000030000300000000000000000000402182700730000200
-
-**ID:** dk_00041440
-
----
-
-
-### Điều 25.14.NĐ.3.3. Trình độ đào tạo và phương thức đào tạo
+Các đối tượng quy định tại khoản 1, 2, 3,4 của Điều này được đào tạo tại trường ngoài quân đội, sau đây gọi chung là học viên quân đội.
 
 Điều 25.14.NĐ.3.3. Trình độ đào tạo và phương thức đào tạo
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 73/2005/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/07/2005)
 
-**Mã phân cấp:** 250140000000000030000300000000000000000000402182700730000300
+1. Học viên quân đội được đào tạo cao đẳng, đại học, thạc sĩ, tiến sĩ, thực tập sinh khoa học, nghiên cứu chuyên đề tại các trường ngoài quân đội.
 
-**ID:** dk_00041441
+2. Học viên quân đội được đào tạo chính quy ở trong nước và nước ngoài theo kế hoạch, chương trình, dự án của nhà nước, của các Bộ, ngành, trường ngoài quân đội.
 
----
+Điều 25.14.NĐ.3.4. Kinh phí đào tạo
 
+(Điều 4 Nghị định số 73/2005/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/07/2005)
 
-### Điều 25.14.NĐ.3.4. Kinh phí đào tạo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 250140000000000030000300000000000000000000402182700730000400
-
-**ID:** dk_00041442
-
----
-
-
-### Điều 25.14.NĐ.3.5. Chế độ, chính sách và trách nhiệm của học viên quân đội
+Kinh phí bảo đảm đào tạo cán bộ cho quân đội bao gồm nguồn ngân sách nhà nước trong dự toán được thông báo hàng năm của Bộ Quốc phòng và các nguồn khác theo quy định của pháp luật.
 
 Điều 25.14.NĐ.3.5. Chế độ, chính sách và trách nhiệm của học viên quân đội
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 73/2005/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/07/2005)
 
-**Mã phân cấp:** 250140000000000030000300000000000000000000402182700730000500
+1. Thanh niên ngoài quân đội, thiếu sinh quân và các đối tượng khác chưa phải là quân nhân được quân đội tuyển chọn đi đào tạo tại các trường ngoài quân đội được hưởng chế độ, chính sách đối với quân nhân kể từ ngày quyết định nhập ngũ có hiệu lực.
 
-**ID:** dk_00041443
+2. Học viên quân đội đào tạo tại các trường ngoài quân đội được hưởng các chế độ, chính sách đối với sinh viên, lưu học sinh theo quy định của Nhà nước.
 
----
-
-
-### Điều 25.14.NĐ.3.6. Công tác quản lý học viên quân đội
+3. Học viên quân đội đi đào tạo tại các trường ngoài quân đội, sau khi tốt nghiệp được sắp xếp công tác theo ngành học và phải chấp hành sự phân công điều động của Bộ Quốc phòng.
 
 Điều 25.14.NĐ.3.6. Công tác quản lý học viên quân đội
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 73/2005/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/07/2005)
 
-**Mã phân cấp:** 250140000000000030000300000000000000000000402182700730000600
-
-**ID:** dk_00041444
-
----
-
-
-### Điều 25.14.LQ.31. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ
+Học viên quân đội đang học tập, nghiên cứu tại các trường ngoài quân đội chịu sự quản lý của trường ngoài quân đội và của Bộ Quốc phòng; học viên quân đội là lưu học sinh, chịu sự quản lý trực tiếp của Cơ quan đại diện của Việt Nam ở nước sở tại, trên cơ sở quy chế chung của Bộ Giáo dục và Đào tạo về quản lý lưu học sinh.
 
 Điều 25.14.LQ.31. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 72/2014/QH13 có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**Mã phân cấp:** 2501400000000000300003100000000000000000
+1. Chế độ tiền lương và phụ cấp do Chính phủ quy định; bảng lương của sĩ quan được tính theo chức vụ, chức danh đảm nhiệm và cấp bậc quân hàm phù hợp với tính chất, nhiệm vụ của quân đội là ngành lao động đặc biệt; phụ cấp thâm niên được tính theo mức lương hiện hưởng và thời gian phục vụ tại ngũ. Sĩ quan được hưởng phụ cấp, trợ cấp như đối với cán bộ, công chức có cùng điều kiện làm việc và phụ cấp, trợ cấp có tính chất đặc thù quân sự;
 
-**ID:** dk_00041445
+2. Đủ tiêu chuẩn, đến thời hạn xét thăng quân hàm nhưng đã có bậc quân hàm cao nhất của chức vụ đang đảm nhiệm hoặc đã có bậc quân hàm Đại tá, cấp Tướng 4 năm trở lên mà chưa được thăng cấp bậc quân hàm cao hơn thì được nâng lương theo chế độ tiền lương của sĩ quan;
 
----
+3. Giữ nhiều chức vụ trong cùng một thời điểm thì được hưởng quyền lợi của chức vụ cao nhất và phụ cấp kiêm nhiệm chức danh lãnh đạo theo quy định của pháp luật;
 
+4. Khi được giao chức vụ thấp hơn chức vụ đang đảm nhiệm theo quy định tại điểm a khoản 3 Điều 21 của Luật này thì được giữ nguyên quyền lợi của chức vụ cũ;
 
-### Điều 25.14.NĐ.4.1. Giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam
+5. Khi có quyết định miễn nhiệm chức vụ thì được hưởng các quyền lợi theo cương vị mới;
+
+6. Được bảo đảm điều kiện để thực hiện nhiệm vụ theo quy định của Bộ trưởng Bộ Quốc phòng;
+
+7. Được hưởng phụ cấp nhà ở; được hưởng chính sách hỗ trợ về nhà ở xã hội, được bảo đảm nhà ở công vụ theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.21. Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan; Điều 25.14.LQ.37. Quyền lợi của sĩ quan thôi phục vụ tại ngũ và sĩ quan tại ngũ hy sinh, từ trần)
 
 Điều 25.14.NĐ.4.1. Giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 130/2008/NĐ-CP Về giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam ngày 19/12/2008 của Chính phủ, có hiệu lực thi hành kể từ ngày 16/01/2009 )
 
-**Mã phân cấp:** 250140000000000030000310000000000000000000402311901300000100
+1. Giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam (sau đây gọi là Giấy chứng minh sĩ quan) chỉ cấp cho sĩ quan Quân đội nhân dân Việt Nam đang phục vụ tại ngũ.
 
-**ID:** dk_00041446
+2. Giấy chứng minh sĩ quan được cấp nhằm mục đích sau:
 
----
+a) Chứng minh người được cấp Giấy chứng minh sĩ quan là sĩ quan đang phục vụ tại ngũ trong Quân đội nhân dân Việt Nam;
 
+b) Phục vụ công tác chiến đấu, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa và thực hiện các giao dịch dân sự;
 
-### Điều 25.14.TT.3.3. Mục đích, nguyên tắc cấp, sử dụng Chứng minh và Thẻ
+c) Phục vụ công tác quản lý sĩ quan.
+
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.4.5. Sử dụng và quản lý Giấy chứng minh sĩ quan của Nghị định 130/2008/NĐ-CP Về giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam ban hành ngày 19/12/2008; Điều 39.1.TT.1.7. Thủ tục cấp CMND cho Quân đội và Công an nhân dân.)
 
 Điều 25.14.TT.3.3. Mục đích, nguyên tắc cấp, sử dụng Chứng minh và Thẻ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000010000802604902180000300
+ 1. Mục đích sử dụng Chứng minh
 
-**ID:** dk_00041447
+ a) Giấy chứng minh sĩ quan quy định tại Khoản 2 Điều 1 Nghị định số 130/2008/NĐ-CP ngày 19 tháng 12 năm 2008 của Chính phủ quy định về Giấy chứng minh sĩ quan Quân đội nhân dân (sau đây gọi chung là Nghị định số 130/2008/NĐ-CP);
 
----
+ b) Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Điều 3 Nghị định số 59/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng (sau đây gọi chung là Nghị định số 59/2016/NĐ-CP).
 
+ 2. Mục đích sử dụng Thẻ
 
-### Điều 25.14.TT.3.4. Kỹ thuật thu thập thông tin
+ a) Chứng minh người được cấp Thẻ là hạ sĩ quan, binh sĩ tại ngũ; sĩ quan dự bị; quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị của Quân đội nhân dân;
 
-*Nội dung chưa có sẵn*
+ b) Phục vụ công tác quản lý hạ sĩ quan, binh sĩ tại ngũ; sĩ quan dự bị; quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị của Quân đội nhân dân.
 
-**Chỉ mục:** 4
+ 3. Nguyên tắc cấp
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000010000802604902180000400
+ a) Mỗi sĩ quan được cấp một Giấy chứng minh, có số hiệu riêng từ dữ liệu do Cục Cán bộ Tổng cục Chính trị quản lý;
 
-**ID:** dk_00041448
+ b) Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Điều 4 Nghị định số 59/2016/NĐ-CP;
 
----
+ c) Mỗi hạ sĩ quan, binh sĩ tại ngũ; sĩ quan dự bị; quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị được cấp một Thẻ, có số hiệu riêng.(Điều này có nội dung liên quan đến Điều 39.1.TT.1.7. Thủ tục cấp CMND cho Quân đội và Công an nhân dân.)
 
+Điều 25.14.TT.3.4. Kỹ thuật thu thập thông tin
 
-### Điều 25.14.TT.3.9. Ngân sách bảo đảm việc cấp Chứng minh và Thẻ
+(Điều 4 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+1. Thông tin trên tờ khai
+
+a) Nhóm máu: Do cơ quan quân y đơn vị cung cấp và viết bằng chữ in hoa;
+
+b) In vân mười đầu ngón tay của người được cấp Chứng minh vào ký hiệu các ô tờ khai; bàn tay phải P, bàn tay trái T; ngón cái C, ngón trỏ T, ngón giữa G, ngón áp út N, ngón út U. Trường hợp đầu ngón tay bị dị tật, bị cụt hoặc bị thương không in được vân tay thì mô tả lý do vào ô đó; không được thay thế bằng vân đầu ngón tay khác; trường hợp bàn tay có trên năm ngón (ngón phụ) thì in ngón phụ bên cạnh ngón chính;
+
+c) Chụp ảnh chân dung: Số lượng 02 ảnh, cỡ 20 mm x 27 mm; không đội mũ, không đeo kính; sĩ quan tại ngũ và sĩ quan dự bị; quân nhân chuyên nghiệp tại ngũ và quân nhân chuyên nghiệp dự bị; hạ sĩ quan, binh sĩ tại ngũ và hạ sĩ quan, binh sĩ dự bị mang mặc quân phục thường dùng, đúng điều lệnh; công nhân và viên chức quốc phòng mang mặc trang phục thường dùng.
+
+2. Đặc điểm nhân dạng
+
+a) Thu thập chiều cao khi cấp Chứng minh;
+
+b) Đặc điểm sống mũi tính từ sơn căn đến đầu mũi, gồm: sống mũi thẳng, sống mũi lõm, sống mũi khum, sống mũi gồ gẫy; mô tả hình vẽ sau:
+
+c) Dái tai là phần thấp nhất của tai, đường viền tai tiếp giáp má, gồm: Dái tai trung bình, dái tai chúc, dái tai vuông, dái tai phật; mô tả hình vẽ sau:
+
+3. Mô tả đặc điểm riêng
+
+a) Loại đặc điểm, gồm: Bớt, vết chàm, sẹo, nốt ruồi, nốt ruồi nổi;
+
+b) Hình dạng của bớt, vết chàm, sẹo, nốt ruồi, nốt ruồi nổi, gồm: Hình tròn, chấm, dài, chữ nhật;
+
+c) Kích thước của bớt, vết chàm, sẹo, nốt ruồi, nốt ruồi nổi từ 0,3 cm trở lên thì xác định là kích thước và dưới 0,3 cm xác định là chấm;
+
+d) Vị trí của đặc điểm riêng nổi bật nhất trên mặt cần xác định khoảng cách gần nhất so với đích; đầu lông mày phải, trái; đuôi lông mày phải, trái; đầu mắt phải, trái; đuôi mắt phải, trái; đầu mũi, sống mũi; cánh mũi phải, trái; mép phải, trái; dái tai phải, trái. Xác định các vị trí của đặc điểm là xác định cụ thể vị trí ở bên phải hay bên trái; trên hay dưới, trước hay sau; mô tả hình vẽ sau:
+
+Ví dụ 1: Cao 1m68; sẹo chấm cách 1,5 cm trên sau đuôi lông mày trái; mô tả điểm số 4 bên trái hình vẽ trên.
+
+Ví dụ 2: Cao 1m70; nốt ruồi nổi cách 1 cm trên trước đuôi lông mày phải; mô tả điểm số 4 bên phải hình vẽ trên.
 
 Điều 25.14.TT.3.9. Ngân sách bảo đảm việc cấp Chứng minh và Thẻ
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000010000802604902180000900
+ 1. Ngân sách quốc phòng bảo đảm thực hiện nhiệm vụ cấp, quản lý, sử dụng Chứng minh và Thẻ.
 
-**ID:** dk_00041449
+ 2. Ngân sách quốc phòng bảo đảm xây dựng hệ thống cơ sở dữ liệu quản lý và cơ sở vật chất lần đầu thực hiện nhiệm vụ cấp Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Nghị định số 59/2016/NĐ-CP; các loại Thẻ quy định tại Thông tư này.Điều 25.14.TT.3.12. Thẩm quyền cấp Chứng minh và Thẻ
 
----
+(Điều 12 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
+ 1. Bộ trưởng Bộ Quốc phòng cấp Giấy chứng minh sĩ quan cấp tướng.
 
-### Điều 25.14.TT.3.12. Thẩm quyền cấp Chứng minh và Thẻ
+ 2. Người chỉ huy hoặc Chính ủy đơn vị trực thuộc Bộ Quốc phòng cấp Giấy chứng minh sĩ quan cấp tá, cấp úy; Thẻ sĩ quan dự bị.
 
-Điều 25.14.TT.3.12. Thẩm quyền cấp Chứng minh và Thẻ
+ 3. Người chỉ huy đơn vị trực thuộc Bộ Quốc phòng cấp Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng.
 
-**Chỉ mục:** 12
+ 4. Người chỉ huy sư đoàn, lữ đoàn và tương đương cấp Thẻ hạ sĩ quan, binh sĩ tại ngũ.
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000010000802604902180001200
+ 5. Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện cấp Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị.
 
-**ID:** dk_00041450
+ 6. Thủ trưởng Tổng cục Chính trị cấp Giấy chứng minh sĩ quan cấp tá, cấp úy; Thủ trưởng Bộ Tổng Tham mưu cấp Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng đối với các doanh nghiệp trực thuộc Bộ Quốc phòng, không được cấp con dấu thu nhỏ và Ban Cơ yếu Chính phủ.Điều 25.14.NĐ.4.2. Đối tượng được cấp Giấy chứng minh sĩ quan
 
----
+(Điều 2 Nghị định số 130/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/01/2009)
 
-
-### Điều 25.14.NĐ.4.2. Đối tượng được cấp Giấy chứng minh sĩ quan
-
-Điều 25.14.NĐ.4.2. Đối tượng được cấp Giấy chứng minh sĩ quan
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 250140000000000030000310000000000000000000402311901300000200
-
-**ID:** dk_00041451
-
----
-
-
-### Điều 25.14.NĐ.4.3. Cấp lại, đổi, thu hồi Giấy chứng minh sĩ quan
+Giấy chứng minh sĩ quan cấp cho người được phong quân hàm sĩ quan tại ngũ, bao gồm: Học viên tốt nghiệp đào tạo sĩ quan và những người được bổ nhiệm giữ chức vụ sĩ quan được phong quân hàm sĩ quan.
 
 Điều 25.14.NĐ.4.3. Cấp lại, đổi, thu hồi Giấy chứng minh sĩ quan
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 130/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/01/2009)
 
-**Mã phân cấp:** 250140000000000030000310000000000000000000402311901300000300
+1. Giấy chứng minh sĩ quan được cấp lại khi bị mất, được đổi khi bị hỏng, hết hạn sử dụng hoặc có thể thay đổi về:
 
-**ID:** dk_00041452
+a) Họ tên, ngày, tháng, năm sinh, dân tộc, nơi đăng ký hộ khẩu thường trú;
 
----
+b) Khi được thăng hoặc bị giáng cấp bậc quân hàm của sĩ quan cấp Úy, cấp Tá, cấp Tướng.
 
+2. Giấy chứng minh sĩ quan phải được thu hồi khi:
 
-### Điều 25.14.TT.3.10. Thu hồi Chứng minh và Thẻ
+a) Sĩ quan được đổi Giấy chứng minh sĩ quan;
 
-*Nội dung chưa có sẵn*
+b) Sĩ quan thôi phục vụ tại ngũ; chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng; bị kỷ luật tước quân hàm sĩ quan.
 
-**Chỉ mục:** 10
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.4.5. Sử dụng và quản lý Giấy chứng minh sĩ quan)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180001000
+Điều 25.14.TT.3.10. Thu hồi Chứng minh và Thẻ
 
-**ID:** dk_00041453
+(Điều 10 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
----
+ 1. Thu hồi Giấy chứng minh sĩ quan trong trường hợp sau đây:
 
+ a) Thôi phục vụ tại ngũ, được tuyển chọn quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng;
 
-### Điều 25.14.TT.3.15. Cấp lần đầu, cấp đổi, cấp lại
+ b) Được cấp đổi quy định tại Khoản 2 Điều 15 Thông tư này; sau khi cá nhân nhận được Giấy chứng minh mới thì thu hồi Giấy chứng minh cũ.
 
-*Nội dung chưa có sẵn*
+ 2. Thu hồi Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Khoản 1 Điều 11 Nghị định số 59/2016/NĐ-CP.
 
-**Chỉ mục:** 15
+ 3. Thu hồi Thẻ hạ sĩ quan, binh sĩ tại ngũ quy định tại Điểm b, c Khoản 2 Điều 19 Thông tư này; sau khi cá nhân nhận được Thẻ mới thì thu hồi Thẻ cũ.
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180001500
+ 4. Thu hồi Thẻ sĩ quan dự bị trong trường hợp sau đây:
 
-**ID:** dk_00041454
+ a) Giải ngạch sĩ quan dự bị;
 
----
+ b) Được cấp đổi theo quy định tại Khoản 5 Điều 15 Thông tư này; sau khi cá nhân nhận được Thẻ mới thì thu hồi Thẻ cũ.
 
+ 5. Thu hồi Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị trong trường hợp sau đây:
 
-### Điều 25.14.TT.3.16. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+ a) Giải ngạch quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị;
 
-Điều 25.14.TT.3.16. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+ b) Được cấp đổi quy định tại Điểm a, b Khoản 2 Điều 23 Thông tư này; sau khi cá nhân nhận được Thẻ mới thì thu hồi Thẻ cũ.
 
-**Chỉ mục:** 16
+ 6. Cơ quan thực hiện trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại có trách nhiệm thu hồi, quản lý, hủy hoặc cắt góc, được thực hiện như sau:
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180001600
+ a) Cơ quan quy định tại Điểm b, c, d Khoản 1 Điều 16 Thông tư này thu hồi, quản lý, hủy hoặc cắt góc và trả lại Giấy chứng minh cho sĩ quan;
 
-**ID:** dk_00041455
+ b) Cơ quan quy định tại Khoản 2 Điều 11 Nghị định số 59/2016/NĐ-CP thu hồi, quản lý, hủy hoặc cắt góc và trả lại Chứng minh cho quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng;
 
----
+ c) Cơ quan quy định tại Điểm b, c Khoản 1 Điều 16 Thông tư này thu hồi, hủy Thẻ sĩ quan dự bị.
 
+ d) Cơ quan quy định tại Điểm b, c Khoản 2 Điều 20 Thông tư này thu hồi, hủy Thẻ hạ sĩ quan, binh sĩ tại ngũ;
 
-### Điều 25.14.TT.3.19. Cấp lần đầu, cấp đổi, cấp lại
+ đ) Ban Chỉ huy quân sự cấp huyện quy định tại Điểm b Khoản 1 Điều 24 Thông tư này thu hồi, hủy Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị.Điều 25.14.TT.3.15. Cấp lần đầu, cấp đổi, cấp lại
 
-*Nội dung chưa có sẵn*
+(Điều 15 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Chỉ mục:** 19
+ 1. Cấp lần đầu Giấy chứng minh sĩ quan trong trường hợp sau:
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180001900
+ a) Khi được phong quân hàm sĩ quan tại ngũ;
 
-**ID:** dk_00041456
+ b) Sĩ quan dự bị được tuyển chọn bổ sung vào ngạch sĩ quan tại ngũ.
 
----
+ 2. Cấp đổi Giấy chứng minh sĩ quan trong trường hợp sau:
 
+ a) Khi hết thời hạn sử dụng quy định tại Điểm a, b Khoản 1 Điều 14 Thông tư này hoặc Giấy chứng minh sĩ quan bị hư hỏng;
 
-### Điều 25.14.TT.3.20. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+ b) Khi được thăng hoặc bị giáng cấp bậc quân hàm sĩ quan cấp tướng, cấp tá;
 
-Điều 25.14.TT.3.20. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+ c) Khi thay đổi đơn vị trực thuộc Bộ Quốc phòng;
 
-**Chỉ mục:** 20
+ d) Khi thay đổi họ, chữ đệm, tên khai sinh; ngày, tháng, năm sinh; dân tộc, quê quán, nơi thường trú hoặc thay đổi nhân dạng do bị thương tích, thẩm mỹ, chỉnh hình.
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180002000
+ 3. Cấp lại khi bị mất Giấy chứng minh sĩ quan.
 
-**ID:** dk_00041457
+ 4. Cấp lần đầu Thẻ sĩ quan dự bị khi đăng ký sĩ quan dự bị theo quy định tại Điều 39 Luật sĩ quan Quân đội nhân dân Việt Nam.
 
----
+ 5. Cấp đổi Thẻ sĩ quan dự bị trong trường hợp sau đây:
 
+ a) Khi sĩ quan dự bị được thăng quân hàm cấp úy lên cấp tá hoặc bị giáng quân hàm cấp tá xuống cấp úy, Thẻ bị hư hỏng;
 
-### Điều 25.14.TT.3.23. Cấp lần đầu, cấp đổi, cấp lại
+ b) Khi thay đổi họ, chữ đệm, tên khai sinh; ngày, tháng, năm sinh; nơi thường trú hoặc thay đổi nhân dạng do bị thương tích, thẩm mỹ, chỉnh hình;
 
-*Nội dung chưa có sẵn*
+ 6. Cấp lại khi bị mất Thẻ sĩ quan dự bị.Điều 25.14.TT.3.16. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
 
-**Chỉ mục:** 23
+(Điều 16 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180002300
+ 1. Cấp lần đầu
 
-**ID:** dk_00041458
+ a) Cá nhân điền vào tờ khai theo mẫu;
 
----
+ b) Cơ quan cán bộ sư đoàn, lữ đoàn và tương đương thực hiện chụp ảnh, lấy vân tay, lập danh sách đăng ký, cập nhật dữ liệu in Giấy chứng minh sĩ quan cấp tá, cấp úy và Thẻ sĩ quan dự bị báo cáo cơ quan cán bộ cấp trên trực tiếp; thời gian thực hiện không quá 10 ngày làm việc kể từ ngày hoàn thiện thủ tục;
 
+ c) Cơ quan cán bộ đơn vị trực thuộc Bộ Quốc phòng thực hiện theo quy định tại Điểm b Khoản này đối với sĩ quan tại ngũ, sĩ quan dự bị thuộc quyền quản lý; tiếp nhận danh sách đăng ký, dữ liệu in Giấy chứng minh sĩ quan và Thẻ sĩ quan dự bị của đơn vị cấp dưới; kiểm tra, hoàn thiện thủ tục báo cáo người có thẩm quyền cấp quy định tại Khoản 2 Điều 12 Thông tư này; ép màng nhựa Thẻ sĩ quan dự bị và hoàn trả đơn vị; thời gian thực hiện không quá 10 ngày làm việc kể từ ngày tiếp nhận; tổng hợp danh sách và dữ liệu in Giấy chứng minh sĩ quan và Thẻ sĩ quan dự bị báo cáo Cục Cán bộ Tổng cục Chính trị;
 
-### Điều 25.14.TT.3.24. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+ d) Cục Cán bộ Tổng cục Chính trị báo cáo người có thẩm quyền quy định tại Khoản 1 và Khoản 6 Điều 12 Thông tư này cấp Giấy chứng minh sĩ quan cấp tướng; sĩ quan của các doanh nghiệp trực thuộc Bộ Quốc phòng và Ban Cơ yếu Chính phủ; đồng thời, tiếp nhận danh sách và Giấy chứng minh sĩ quan tại ngũ của đơn vị, thực hiện kiểm tra, ép màng nhựa, hoàn trả đơn vị; thời gian thực hiện không quá 10 ngày làm việc kể từ ngày tiếp nhận.
 
-Điều 25.14.TT.3.24. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+ 2. Cấp đổi, cấp lại
 
-**Chỉ mục:** 24
+ a) Trường hợp cấp đổi quy định tại Điểm a, b, c Khoản 2 và Điểm a Khoản 5 Điều 15 Thông tư này, cá nhân điền vào tờ khai theo mẫu và nộp cơ quan quy định tại Điểm b, c, d Khoản 1 Điều này;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000030000802604902180002400
+ b) Trường hợp cấp đổi quy định tại Điểm d Khoản 2 và Điểm b Khoản 5 Điều 15 Thông tư này, cá nhân có đơn đề nghị cấp đổi, xác nhận của Thủ trưởng đơn vị quản lý trực tiếp, điền vào tờ khai theo mẫu và nộp cơ quan quy định tại Điểm b, c, d Khoản 1 Điều này;
 
-**ID:** dk_00041459
+ c) Trường hợp cấp lại quy định tại Khoản 3 và Khoản 6 Điều 15 Thông tư này, cá nhân có đơn đề nghị cấp lại, xác nhận của Thủ trưởng đơn vị quản lý trực tiếp, điền vào tờ khai theo mẫu và nộp cho cơ quan quy định tại Điểm b, c, d Khoản 1 Điều này;
 
----
+ d) Cơ quan thực hiện trình tự, thủ tục cấp đổi, cấp lại quy định tại Điểm b, c, d Khoản 1 Điều này.Điều 25.14.TT.3.19. Cấp lần đầu, cấp đổi, cấp lại
 
+(Điều 19 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-### Điều 25.14.NĐ.4.4. Mẫu Giấy chứng minh sĩ quan
+ 1. Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được thực hiện như sau:
 
-*Nội dung chưa có sẵn*
+ a) Cấp lần đầu Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng trong trường hợp quy định tại Khoản 1 Điều 8 Nghị định số 59/2016/NĐ-CP;
 
-**Chỉ mục:** 4
+ b) Cấp đổi Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng trong các trường hợp quy định tại Khoản 2 Điều 8 Nghị định số 59/2016/NĐ-CP và khi thay đổi đơn vị trực thuộc Bộ Quốc phòng;
 
-**Mã phân cấp:** 250140000000000030000310000000000000000000402311901300000400
+ c) Cấp lại Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Khoản 3 Điều 8 Nghị định số 59/2016/NĐ-CP.
 
-**ID:** dk_00041460
+ 2. Thẻ hạ sĩ quan, binh sĩ tại ngũ được thực hiện như sau:
 
----
+ a) Cấp lần đầu khi hạ sĩ quan, binh sĩ nhập ngũ vào quân đội;
 
+ b) Cấp đổi khi Thẻ bị hư hỏng;
 
-### Điều 25.14.TT.3.5. Thể thức ký, đóng dấu
+ c) Cấp đổi khi thay đổi họ, chữ đệm, tên khai sinh; ngày, tháng, năm sinh hoặc thay đổi nhân dạng do bị thương tích, thẩm mỹ, chỉnh hình;
 
-*Nội dung chưa có sẵn*
+ d) Cấp lại khi bị mất Thẻ.Điều 25.14.TT.3.20. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
 
-**Chỉ mục:** 5
+(Điều 20 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000040000802604902180000500
+ 1. Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 
-**ID:** dk_00041461
+ a) Cấp lần đầu quy định tại Điểm a, b, c Khoản 1 Điều 9 Nghị định số 59/2016/NĐ-CP;
 
----
+ b) Cơ quan quản lý nhân sự đơn vị trực thuộc Bộ Quốc phòng quy định tại Điểm d Khoản 1 Điều 9 Nghị định 59/2016/NĐ-CP thực hiện kiểm tra, hoàn thiện thủ tục báo cáo người có thẩm quyền cấp quy định tại Khoản 3 Điều 12 Thông tư này; ép màng nhựa, hoàn trả đơn vị; thời gian thực hiện không quá 15 ngày làm việc kể từ ngày hoàn thiện thủ tục;
 
+ c) Cục Quân lực Bộ Tổng Tham mưu báo cáo người có thẩm quyền cấp quy định tại Khoản 6 Điều 12 Thông tư này đối với quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng của các doanh nghiệp trực thuộc Bộ Quốc phòng và Ban Cơ yếu Chính phủ; ép màng nhựa, hoàn trả đơn vị; thời gian thực hiện không quá 15 ngày làm việc kể từ ngày hoàn thiện thủ tục;
 
-### Điều 25.14.TT.3.6. Quy cách phôi mẫu, cơ sở vật chất cấp Chứng minh và Thẻ
+ d) Cấp đổi, cấp lại Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Khoản 2 Điều 9 Nghị định số 59/2016/NĐ-CP.
 
-Điều 25.14.TT.3.6. Quy cách phôi mẫu, cơ sở vật chất cấp Chứng minh và Thẻ
+ 2. Cấp lần đầu Thẻ hạ sĩ quan, binh sĩ tại ngũ
 
-**Chỉ mục:** 6
+ a) Cá nhân điền vào tờ khai theo mẫu;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000040000802604902180000600
+ b) Cơ quan quân lực trung đoàn và tương đương thực hiện chụp ảnh, đối chiếu dữ liệu quản lý hạ sĩ quan, binh sĩ tại ngũ thuộc quyền để làm thủ tục cấp Thẻ; tổng hợp báo cáo cơ quan quân lực cấp trên trực tiếp; thời hạn thực hiện không quá 10 ngày làm việc kể từ ngày hoàn thiện thủ tục;
 
-**ID:** dk_00041462
+ c) Cơ quan quân lực sư đoàn, lữ đoàn và tương đương thực hiện thủ tục cấp quy định tại Điểm b Khoản này đối với hạ sĩ quan, binh sĩ tại ngũ thuộc quyền; kiểm tra việc cấp Thẻ của đơn vị cấp dưới, hoàn thiện thủ tục báo cáo người có thẩm quyền cấp quy định tại Khoản 4 Điều 12 Thông tư này; ép màng nhựa, hoàn trả đơn vị; thời hạn thực hiện không quá 10 ngày làm việc kể từ ngày hoàn thiện thủ tục.
 
----
+ 3. Cấp đổi, cấp lại Thẻ hạ sĩ quan, binh sĩ tại ngũ
 
+ a) Trường hợp cấp đổi quy định tại Điểm b Khoản 2 Điều 19 Thông tư này, cá nhân điền vào tờ khai theo mẫu và nộp cơ quan quy định tại Điểm b, c Khoản 2 Điều này;
 
-### Điều 25.14.TT.3.17. Thông tin trên Giấy chứng minh sĩ quan; Thẻ sĩ quan dự bị
+ b) Trường hợp cấp đổi, cấp lại quy định tại Điểm c, d Khoản 2 Điều 19 Thông tư này, cá nhân có đơn đề nghị cấp đổi, cấp lại, xác nhận của Thủ trưởng đơn vị quản lý trực tiếp, điền vào tờ khai theo mẫu và nộp cơ quan quy định tại Điểm b, c Khoản 2 Điều này;
+
+ c) Cơ quan thực hiện trình tự, thủ tục cấp đổi, cấp lại quy định tại Điểm b, c Khoản 2 Điều này.Điều 25.14.TT.3.23. Cấp lần đầu, cấp đổi, cấp lại
+
+(Điều 23 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Cấp lần đầu Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị được sắp xếp, biên chế vào đơn vị dự bị động viên.
+
+ 2. Cấp đổi, cấp lại Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị được thực hiện như sau:
+
+ a) Cấp đổi khi được biên chế đến đơn vị dự bị động viên khác hoặc Thẻ bị hư hỏng;
+
+ b) Khi thay đổi họ, chữ đệm, tên khai sinh; ngày, tháng, năm sinh; nơi thường trú hoặc thay đổi nhân dạng do bị thương tích, thẩm mỹ, chỉnh hình;
+
+ c) Cấp lại khi bị mất Thẻ.Điều 25.14.TT.3.24. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+
+(Điều 24 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Cấp lần đầu Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị
+
+ a) Cá nhân điền vào tờ khai theo mẫu;
+
+ b) Ban Chỉ huy quân sự cấp huyện thực hiện chụp ảnh, đối chiếu tờ khai, làm thủ tục cấp Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị thuộc quyền quản lý; báo cáo người có thẩm quyền cấp quy định tại Khoản 5 Điều 12 Thông tư này; ép màng nhựa, hoàn trả đơn vị; tổng hợp báo cáo Bộ Chỉ huy quân sự tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh); thời hạn thực hiện không quá 10 ngày làm việc kể từ ngày hoàn thiện thủ tục;
+
+ c) Bộ Chỉ huy quân sự cấp tỉnh kiểm tra việc cấp Thẻ của đơn vị cấp dưới; tổng hợp số lượng, danh sách cấp Thẻ báo cáo Quân khu và Cục Quân lực Bộ Tổng Tham mưu trước ngày 31 tháng 12 hằng năm.
+
+ 2. Cấp đổi, cấp lại Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị
+
+ a) Trường hợp cấp đổi quy định tại Điểm a Khoản 2 Điều 23 Thông tư này, cá nhân điền vào tờ khai theo mẫu và nộp về Ban Chỉ huy quân sự cấp huyện quy định tại Điểm b Khoản 1 Điều này;
+
+ b) Trường hợp cấp đổi, cấp lại quy định tại Điểm c, b Khoản 2 Điều 23 Thông tư này, cá nhân có đơn đề nghị cấp đổi, cấp lại, xác nhận của Thủ trưởng đơn vị quản lý trực tiếp, điền vào tờ khai theo mẫu và nộp về Ban Chỉ huy quân sự cấp huyện quy định tại Điểm b Khoản 1 Điều này;
+
+ c) Ban Chỉ huy quân sự cấp huyện thực hiện trình tự, thủ tục cấp đổi, cấp lại quy định tại Điểm b Khoản 1 Điều này.Điều 25.14.NĐ.4.4. Mẫu Giấy chứng minh sĩ quan
+
+(Điều 4 Nghị định số 130/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/01/2009)
+
+1. Kích thước 85,60 mm x 53,98 mm.
+
+2. Kỹ thuật trình bày: có ba màu quy định là cấp Tướng màu đỏ, cấp Tá màu nâu, cấp Úy màu xanh; hai mặt trang trí khung viền và hoa văn nền.
+
+a) Mặt trước: giữa có hình Quốc huy in chìm đường kính 21mm, từ trên xuống là tiêu đề CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM; bên trái là hình Quân hiệu đường kính 10mm, liền cành tùng kép; phía dưới là ảnh của người được cấp Giấy chứng minh và hạn sử dụng; bên phải Quân hiệu là dòng chữ GIẤY CHỨNG MINH SĨ QUAN, từ trên xuống là các dòng chữ; số, họ tên; cấp bậc; đơn vị cấp; ngày, tháng, năm; người có thẩm quyền cấp giấy ký tên và đóng dấu;
+
+b) Mặt sau, từ trên xuống là các dòng chữ: sinh ngày, tháng, năm; dân tộc; quê quán; nơi thường trú; nhận dạng; nhóm máu.
+
+Điều 25.14.TT.3.5. Thể thức ký, đóng dấu
+
+(Điều 5 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Thể thức ký là chữ ký trực tiếp của người có thẩm quyền quy định tại Điều 12 Thông tư này.
+
+ 2. Thể thức đề ký, gồm: Chức vụ, cấp bậc, họ, chữ đệm, tên của người có thẩm quyền quy định tại Điều 12 Thông tư này.
+
+ 3. Con dấu đóng Chứng minh và Thẻ
+
+ a) Dấu ướt thu nhỏ đường kính 23 mm, dấu mực sơn màu đỏ đóng trùm lên 1/3 khoảng đầu chữ ký Chứng minh và Thẻ;
+
+ b) Dấu nổi đóng trùm lên 1/4 ảnh góc phải phía dưới;
+
+ c) Quản lý con dấu tập trung tại cơ quan bảo mật lưu trữ, nhân viên văn thư của đơn vị giữ và đóng dấu; không dùng con dấu này đóng vào các loại văn bản giấy tờ khác trái với quy định của pháp luật về quản lý và sử dụng con dấu.Điều 25.14.TT.3.6. Quy cách phôi mẫu, cơ sở vật chất cấp Chứng minh và Thẻ
+
+(Điều 6 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+1. Kích thước phôi mẫu Chứng minh và Thẻ là 85,60 mm x 53,98 mm.
+
+2. Cơ sở vật chất
+
+a) Chất liệu phôi mẫu; màng nhựa bảo quản chuyên dùng (sau đây gọi chung là màng nhựa) và được bảo an;
+
+b) Vật tư thiết bị: Trục lăn mực, mực lấy dấu vân tay, dấu mực sơn màu đỏ, máy chụp ảnh, máy ép nhựa plastic, kìm cắt ảnh, bàn cắt phôi mẫu.
+
+3. Màu sắc
+
+a) Giấy chứng minh sĩ quan quy định tại Khoản 2 Điều 4 Nghị định số 130/2008/NĐ-CP; Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Điều 7 Nghị định số 59/2016/NĐ-CP;
+
+b) Thẻ hạ sĩ quan, binh sĩ tại ngũ có màu xanh nước biển;
+
+c) Thẻ sĩ quan dự bị có màu nâu nhạt;
+
+d) Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị có màu vàng cam (mẫu Thẻ hạ sĩ quan, binh sĩ tại ngũ; Thẻ sĩ quan dự bị; Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị kèm theo Thông tư này).
+
+4. Hồ sơ đăng ký, quản lý
+
+a) Tờ khai cấp lần đầu, cấp đổi, cấp lại Chứng minh;
+
+b) Tờ khai cấp Thẻ;
+
+c) Sổ đăng ký cấp Chứng minh và Thẻ (tờ khai cấp Chứng minh lần đầu mẫu M1a, M1b; tờ khai cấp đổi, cấp lại Chứng minh mẫu M2a, M2b; tờ khai cấp Thẻ mẫu M3a, M3b, M3c; sổ đăng ký cấp Chứng minh và Thẻ kèm theo Thông tư này).
+
+Mẫu M1a_Mẫu tờ khai cấp lần đầu Giấy chứng minh sĩ quan.doc
+
+Mẫu M1b_Tờ khai cấp lần đầu Chứng minh QNCN
+
+Mẫu M2a_Mẫu tờ khai cấp đổi
+
+Mẫu M2b_Tờ khai cấp đổi
+
+Mẫu M3a_Tờ khai cấp thẻ hạ sĩ quan
+
+Mẫu M3b_Tờ khai cấp thẻ sĩ quan dự bị.doc
+
+Mẫu M3c_Tờ khai cấp thẻ QNCN
 
 Điều 25.14.TT.3.17. Thông tin trên Giấy chứng minh sĩ quan; Thẻ sĩ quan dự bị
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000040000802604902180001700
+ 1. Mặt trước Giấy chứng minh sĩ quan
 
-**ID:** dk_00041463
+ a) Số: Là số hiệu sĩ quan gồm 8 chữ số;
 
----
+ b) Họ tên: Ghi họ, chữ đệm, tên theo giấy khai sinh, chữ in hoa, đủ dấu;
 
+ c) Cấp bậc: Cấp bậc thiếu úy đến cấp bậc đại úy, ghi cấp úy; cấp tá và cấp tướng ghi cấp bậc quân hàm sĩ quan hiện tại;
 
-### Điều 25.14.TT.3.21. Thông tin trên Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ
+ d) Đơn vị cấp: Giấy chứng minh sĩ quan cấp tướng ghi Bộ Quốc phòng; Giấy chứng minh sĩ quan cấp tá, cấp úy ghi tên đơn vị trực thuộc Bộ Quốc phòng;
 
-Điều 25.14.TT.3.21. Thông tin trên Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ
+ đ) Ngày, tháng, năm: Ghi ngày, tháng, năm cấp Giấy chứng minh sĩ quan;
 
-**Chỉ mục:** 21
+ e) Ảnh: Quy định tại Điểm c Khoản 1 Điều 4 Thông tư này;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000040000802604902180002100
+ g) Hạn sử dụng: Quy định tại Khoản 1 Điều 14 Thông tư này.
 
-**ID:** dk_00041464
+ 2. Mặt sau Giấy chứng minh sĩ quan
 
----
+ a) Ngày, tháng, năm sinh: Ghi theo giấy khai sinh;
 
+ b) Dân tộc: Ghi tên dân tộc theo quy định của pháp luật;
 
-### Điều 25.14.TT.3.25. Thông tin trên Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị
+ c) Quê quán: Ghi xã, phường, thị trấn; huyện, quận, thị xã, thành phố thuộc tỉnh; tỉnh, thành phố trực thuộc Trung ương;
 
-Điều 25.14.TT.3.25. Thông tin trên Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị
+ d) Nơi thường trú: Là nơi đăng ký hộ khẩu thường trú của gia đình; trường hợp chưa đăng ký hộ khẩu thì ghi theo hộ khẩu của vợ, chồng, con hoặc bố, mẹ, người nuôi dưỡng hợp pháp; địa danh hành chính cấp xã ghi thôn, bản, ấp, xã trở lên; thị xã, thành phố ghi số nhà, ngõ, ngách, đường phố, phường trở lên;
 
-**Chỉ mục:** 25
+ đ) Nhân dạng: Ghi chiều cao, đặc điểm riêng quy định tại Điểm a Khoản 2 và Khoản 3 Điều 4 Thông tư này;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000040000802604902180002500
+ e) Nhóm máu: Quy định tại Điểm a Khoản 1 Điều 4 Thông tư này.
 
-**ID:** dk_00041465
+ 3. Mặt trước Thẻ sĩ quan dự bị
 
----
+ a) Số: Là số hiệu sĩ quan dự bị hoặc số hiệu sĩ quan tại ngũ;
 
+ b) Họ tên: Ghi họ, chữ đệm, tên theo giấy khai sinh, chữ in hoa, đủ dấu;
 
-### Điều 25.14.NĐ.4.5. Sử dụng và quản lý Giấy chứng minh sĩ quan
+ c) Cấp bậc: Ghi cấp úy, cấp tá;
 
-Điều 25.14.NĐ.4.5. Sử dụng và quản lý Giấy chứng minh sĩ quan
+ d) Đơn vị cấp: Tên đơn vị trực thuộc Bộ Quốc phòng;
 
-**Chỉ mục:** 5
+ đ) Ngày, tháng, năm: Ghi ngày, tháng, năm cấp Thẻ;
 
-**Mã phân cấp:** 250140000000000030000310000000000000000000402311901300000500
+ e) Ảnh: Quy định tại Điểm c Khoản 1 Điều 4 Thông tư này.
 
-**ID:** dk_00041466
+ 4. Mặt sau Thẻ sĩ quan dự bị
 
----
+ a) Ngày, tháng, năm sinh: Ghi theo giấy khai sinh;
 
+ b) Nơi thường trú: Là nơi thường trú của gia đình; địa danh hành chính cấp xã ghi thôn, bản, ấp, xã trở lên; thị xã, thành phố ghi số nhà, ngõ, ngách, đường phố, phường trở lên;
 
-### Điều 25.14.TT.3.7. Xây dựng cơ sở dữ liệu
+ c) Nhập ngũ: Ghi tháng, năm nhập ngũ hoặc tuyển dụng vào quân đội;
 
-*Nội dung chưa có sẵn*
+ d) Chuyển ngạch dự bị: Ghi tháng, năm được phong quân hàm sĩ quan dự bị hoặc tháng, năm đăng ký sĩ quan dự bị;
 
-**Chỉ mục:** 7
+ đ) Đơn vị khi thôi phục vụ tại ngũ: Ghi đơn vị trung đoàn và tương đương trở lên tại thời điểm thôi phục vụ tại ngũ hoặc chuyển sang ngạch dự bị;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180000700
+ e) Đào tạo sĩ quan dự bị: Ghi tên cơ sở đào tạo;
 
-**ID:** dk_00041467
+ g) Chuyên nghiệp quân sự: Ghi chuyên ngành đào tạo;
 
----
+ h) Đăng ký lần đầu: Ghi tên Ban Chỉ huy quân sự cấp huyện.Điều 25.14.TT.3.21. Thông tin trên Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ
 
+(Điều 21 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-### Điều 25.14.TT.3.8. Quản lý dữ liệu, phôi mẫu, màng nhựa
+ 1. Mặt trước Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 
-Điều 25.14.TT.3.8. Quản lý dữ liệu, phôi mẫu, màng nhựa
+ a) Số: Gồm 12 chữ số quy định trong hệ thống quản lý dữ liệu;
 
-**Chỉ mục:** 8
+ b) Họ tên: Ghi họ, chữ đệm, tên theo giấy khai sinh, chữ in hoa, đủ dấu;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180000800
+ c) Ngày, tháng, năm sinh: Ghi theo giấy khai sinh;
 
-**ID:** dk_00041468
+ d) Đơn vị cấp: Tên đơn vị trực thuộc Bộ Quốc phòng;
 
----
+ đ) Ngày, tháng, năm cấp: Ghi ngày, tháng, năm cấp Chứng minh;
 
+ e) Ảnh: Quy định tại Điểm c Khoản 1 Điều 4 Thông tư này;
 
-### Điều 25.14.TT.3.11. Tạm giữ Chứng minh
+ g) Hạn sử dụng: Quy định tại Điều 5 Nghị định số 59/2016/NĐ-CP.
 
-*Nội dung chưa có sẵn*
+ 2. Mặt sau Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 
-**Chỉ mục:** 11
+ a) Quê quán: Ghi xã, phường, thị trấn; huyện, quận, thị xã, thành phố thuộc tỉnh; tỉnh, thành phố trực thuộc Trung ương;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180001100
+ b) Nơi thường trú: Ghi nơi đăng ký hộ khẩu thường trú của gia đình; trường hợp chưa đăng ký hộ khẩu thường trú thì ghi theo hộ khẩu của vợ, chồng hoặc bố, mẹ, người nuôi dưỡng hợp pháp; địa danh hành chính cấp xã ghi thôn, bản, ấp, xã trở lên; thị xã, thành phố ghi số nhà, ngõ, ngách, đường phố, phường trở lên;
 
-**ID:** dk_00041469
+ c) Nhân dạng: Ghi chiều cao, đặc điểm riêng quy định tại Điểm a Khoản 2 và Khoản 3 Điều 4 Thông tư này;
 
----
+ đ) Nhóm máu: Quy định tại Điểm a Khoản 1 Điều 4 Thông tư này.
 
+ 3. Mặt trước Thẻ hạ sĩ quan, binh sĩ tại ngũ
 
-### Điều 25.14.TT.3.13. Các hành vi bị nghiêm cấm
+ a) Số: Gồm 12 chữ số quy định trong hệ thống quản lý dữ liệu;
 
-*Nội dung chưa có sẵn*
+ b) Họ tên: Ghi họ, chữ đệm, tên theo giấy khai sinh, chữ in hoa, đủ dấu;
 
-**Chỉ mục:** 13
+ c) Đơn vị cấp: Tên đơn vị trung đoàn, lữ đoàn và tương đương đến đơn vị trực thuộc Bộ Quốc phòng;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180001300
+ d) Ngày, tháng, năm: Ghi ngày, tháng, năm cấp Thẻ;
 
-**ID:** dk_00041470
+ đ) Ảnh: Quy định tại Điểm c Khoản 1 Điều 4 Thông tư này;
 
----
+ e) Hạn sử dụng: Quy định tại Khoản 2 Điều 18 Thông tư này.
 
+ 4. Mặt sau Thẻ hạ sĩ quan, binh sĩ tại ngũ
 
-### Điều 25.14.TT.3.14. Thời hạn sử dụng
+ a) Ngày, tháng, năm sinh: Ghi theo giấy khai sinh;
 
-*Nội dung chưa có sẵn*
+ b) Quê quán: Ghi xã, phường, thị trấn; huyện, quận, thị xã, thành phố thuộc tỉnh; tỉnh, thành phố trực thuộc Trung ương;
 
-**Chỉ mục:** 14
+ c) Nơi thường trú: Ghi nơi thường trú của gia đình; địa danh hành chính cấp xã ghi thôn, bản, ấp, xã trở lên; thị xã, thành phố ghi số nhà, ngõ, ngách, đường phố, phường trở lên;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180001400
+ d) Nhóm máu: Quy định tại Điểm a Khoản 1 Điều 4 của Thông tư này.Điều 25.14.TT.3.25. Thông tin trên Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị
 
-**ID:** dk_00041471
+(Điều 25 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
----
+ 1. Mặt trước Thẻ quân nhân chuyên nghiệp dự bị
 
+ a) Số: Gồm 06 chữ số do Ban Chỉ huy quân sự cấp huyện quản lý;
 
-### Điều 25.14.TT.3.18. Thời hạn sử dụng
+ b) Họ tên: Ghi họ, chữ đệm, tên theo giấy khai sinh, chữ in hoa, đủ dấu;
 
-*Nội dung chưa có sẵn*
+ c) Giới tính: Ghi nam hoặc nữ;
 
-**Chỉ mục:** 18
+ d) Ngày, tháng, năm sinh: Ghi theo giấy khai sinh;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180001800
+ đ) Cấp bậc: Ghi cấp bậc quân hàm hiện tại;
 
-**ID:** dk_00041472
+ e) Chức vụ: Ghi chức vụ hiện tại;
 
----
+ g) Ngày, tháng, năm: Ghi ngày, tháng, năm cấp Thẻ;
 
+ h) Ảnh: Quy định tại Điểm c Khoản 1 Điều 4 Thông tư này.
 
-### Điều 25.14.TT.3.22. Thời hạn sử dụng
+ 2. Mặt sau Thẻ quân nhân chuyên nghiệp dự bị
 
-*Nội dung chưa có sẵn*
+ a) Đơn vị dự bị động viên: Ghi ký hiệu quân sự được sắp xếp, biên chế đơn vị cấp c, d, e, f và tương đương;
 
-**Chỉ mục:** 22
+ b) Đơn vị khi thôi phục vụ tại ngũ: Ghi ký hiệu quân sự đơn vị tại thời điểm thôi phục vụ tại ngũ cấp c, d, e, f và tương đương;
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000050000802604902180002200
+ c) Chuyên nghiệp quân sự: Ghi theo quyết định nghỉ hưu, phục viên, chuyển ngành hoặc sau khi huấn luyện chuyển loại chuyên nghiệp quân sự;
 
-**ID:** dk_00041473
+ d) Nơi công tác hiện tại: Ghi tên cơ quan, tổ chức, đơn vị nơi công tác;
 
----
+ đ) Nơi thường trú: Ghi nơi đăng ký hộ khẩu thường trú của gia đình; địa danh hành chính cấp xã ghi thôn, bản, ấp, xã trở lên; thị xã, thành phố ghi số nhà, ngõ, ngách, đường phố, phường trở lên;
 
+ e) Số Chứng minh nhân dân hoặc Thẻ căn cước công dân.
 
-### Điều 25.14.NĐ.4.6. Trách nhiệm của các cơ quan, tổ chức và cá nhân trong việc quản lý Giấy chứng minh sĩ quan
+ 3. Mặt trước Thẻ hạ sĩ quan, binh sĩ dự bị
 
-Điều 25.14.NĐ.4.6. Trách nhiệm của các cơ quan, tổ chức và cá nhân trong việc quản lý Giấy chứng minh sĩ quan
+ a) Số: Gồm 06 chữ số do Ban Chỉ huy quân sự cấp huyện quản lý;
 
-**Chỉ mục:** 6
+ b) Họ tên: Ghi họ, chữ đệm, tên theo giấy khai sinh, chữ in hoa, đủ dấu;
 
-**Mã phân cấp:** 250140000000000030000310000000000000000000402311901300000600
+ c) Giới tính: Ghi nam hoặc nữ;
 
-**ID:** dk_00041474
+ d) Ngày, tháng, năm sinh: Ghi theo giấy khai sinh;
 
----
+ đ) Cấp bậc: Ghi cấp bậc quân hàm hiện tại;
 
+ e) Chức vụ: Ghi chức vụ hiện tại;
 
-### Điều 25.14.TT.3.26. Trách nhiệm của cơ quan, đơn vị, tổ chức và cá nhân
+ g) Ngày, tháng, năm cấp: Ghi ngày, tháng, năm cấp Thẻ;
+
+ h) Ảnh: Quy định tại Điểm c Khoản 1 Điều 4 Thông tư này.
+
+ 4. Mặt sau Thẻ hạ sĩ quan, binh sĩ dự bị
+
+ a) Đơn vị dự bị động viên: Ghi ký hiệu quân sự được sắp xếp, biên chế đơn vị cấp c, d, e, f và tương đương;
+
+ b) Đơn vị khi xuất ngũ: Ghi ký hiệu quân sự đơn vị cấp c, d, e, f và tương đương.
+
+ c) Chuyên nghiệp quân sự: Ghi theo quyết định xuất ngũ hoặc sau khi huấn luyện chuyển loại chuyên nghiệp quân sự;
+
+ d) Nơi công tác hiện tại: Ghi tên cơ quan, tổ chức, đơn vị nơi công tác;
+
+ đ) Nơi thường trú: Ghi nơi thường trú của gia đình; địa danh hành chính cấp xã ghi từ thôn, bản, ấp, xã trở lên; thị xã, thành phố ghi từ số nhà, ngõ, ngách, đường phố, phường trở lên;
+
+ e) Số Chứng minh nhân dân hoặc Thẻ căn cước công dân.Điều 25.14.NĐ.4.5. Sử dụng và quản lý Giấy chứng minh sĩ quan
+
+(Điều 5 Nghị định số 130/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/01/2009)
+
+1. Giấy chứng minh sĩ quan được sử dụng theo quy định tại Điều 1 Nghị định này.
+
+2. Sĩ quan có trách nhiệm giữ gìn, quản lý Giấy chứng minh sĩ quan; không sửa chữa, cho thuê, cho mượn, làm hỏng hoặc sử dụng không đúng mục đích.
+
+3. Cơ quan, đơn vị các cấp trong Quân đội có trách nhiệm quản lý Giấy chứng minh sĩ quan theo quy định tại Điều 1 và khoản 2 Điều 3 của Nghị định này.
+
+4. Nghiêm cấm làm giả, lưu giữ trái phép hoặc sử dụng Giấy chứng minh sĩ quan để mạo danh sĩ quan Quân đội nhân dân Việt Nam. Cá nhân, tổ chức vi phạm việc sử dụng, quản lý Giấy chứng minh sĩ quan thì tùy theo mức độ sai phạm sẽ bị xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.4.1. Giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam; Điều 25.14.NĐ.4.3. Cấp lại, đổi, thu hồi Giấy chứng minh sĩ quan của Nghị định 130/2008/NĐ-CP Về giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam ban hành ngày 19/12/2008)
+
+Điều 25.14.TT.3.7. Xây dựng cơ sở dữ liệu
+
+(Điều 7 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Xây dựng hệ thống cơ sở dữ liệu gồm các hoạt động sau:
+
+ a) Tổ chức, quản lý cơ sở dữ liệu;
+
+ b) Thiết lập hệ thống kết nối mạng truyền dữ liệu quân sự;
+
+ c) Cập nhật, chuẩn hóa dữ liệu đầu vào;
+
+ d) Vận hành, kiểm thử, hiệu chỉnh, cập nhật, bổ sung dữ liệu;
+
+ đ) Đào tạo, bồi dưỡng, chuyển giao công nghệ.
+
+ 2. Kết xuất dữ liệu in Chứng minh và Thẻ.Điều 25.14.TT.3.8. Quản lý dữ liệu, phôi mẫu, màng nhựa
+
+(Điều 8 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Quản lý dữ liệu
+
+ a) Dữ liệu in Giấy chứng minh sĩ quan, Thẻ sĩ quan dự bị do Cục Cán bộ Tổng cục Chính trị quản lý;
+
+ b) Dữ liệu in Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ do Cục Quân lực Bộ Tổng Tham mưu quản lý;
+
+ c) Dữ liệu in Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị do Ban Chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện) quản lý.
+
+ 2. Quản lý phôi mẫu, màng nhựa
+
+ a) Phôi mẫu Giấy chứng minh sĩ quan, Thẻ sĩ quan dự bị, màng nhựa do Cục Cán bộ Tổng cục Chính trị quản lý và đặt in;
+
+ b) Phôi mẫu Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ; Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị, màng nhựa do Cục Quân lực Bộ Tổng Tham mưu quản lý và đặt in;
+
+ c) Quản lý, bảo mật yếu tố chống làm giả phôi mẫu, màng nhựa bằng văn bản hợp đồng theo chế độ mật và chỉ có người trực tiếp thực hiện mới được biết.
+
+ 3. Tờ khai cấp lần đầu Chứng minh và Thẻ lưu trữ tàng thư tại cơ quan quản lý nhân sự thực hiện trình tự, thủ tục cấp quy định tại Điều 16, Điều 20, Điều 24 Thông tư này.Điều 25.14.TT.3.11. Tạm giữ Chứng minh
+
+(Điều 11 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng bị tạm giữ Chứng minh trong thời gian bị tạm giữ, bị tạm giam, chấp hành án phạt tù.
+
+ 2. Trong thời gian sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng bị tạm giữ Chứng minh, cơ quan tạm giữ Chứng minh cho phép sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được sử dụng Chứng minh của mình để thực hiện giao dịch theo quy định của pháp luật.
+
+ 3. Sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được trả lại Chứng minh khi hết thời hạn bị tạm giữ, bị tạm giam, chấp hành xong án phạt tù nếu được tiếp tục phục vụ trong lực lượng thường trực của Quân đội nhân dân.Điều 25.14.TT.3.13. Các hành vi bị nghiêm cấm
+
+(Điều 13 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Làm giả, lộ lọt thông tin, sai lệch dữ liệu, nội dung trên Chứng minh và Thẻ.
+
+ 2. Chiếm đoạt, sử dụng trái phép Chứng minh và Thẻ của người khác; hủy hoại, thuê, cho thuê, mượn, cho mượn, cầm cố Chứng minh và Thẻ.
+
+ 3. Cấp lần đầu, cấp đổi, cấp lại, thu hồi, tạm giữ Chứng minh và Thẻ trái với quy định của Thông tư này.Điều 25.14.TT.3.14. Thời hạn sử dụng
+
+(Điều 14 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Thời hạn sử dụng Giấy chứng minh sĩ quan
+
+ a) Sĩ quan cấp tướng và cấp tá thời hạn sử dụng là 08 năm;
+
+ b) Sĩ quan cấp úy thời hạn sử dụng là 13 năm;
+
+ c) Trường hợp thời gian phục vụ tại ngũ còn dưới thời hạn quy định tại Điểm a, b Khoản này thì lấy hạn tuổi còn lại để cấp nhưng không quá 05 năm quy định tại Điều 13 Luật sĩ quan Quân đội nhân dân Việt Nam.
+
+ 2. Thời hạn sử dụng Thẻ sĩ quan dự bị kể từ ngày, tháng, năm cấp Thẻ đến khi giải ngạch.Điều 25.14.TT.3.18. Thời hạn sử dụng
+
+(Điều 18 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ 1. Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng quy định tại Điều 5 Nghị định số 59/2016/NĐ-CP.
+
+ 2. Thẻ hạ sĩ quan, binh sĩ tại ngũ quy định tại Điều 21 Luật nghĩa vụ quân sự.Điều 25.14.TT.3.22. Thời hạn sử dụng
+
+(Điều 22 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
+
+ Thời hạn sử dụng từ ngày, tháng, năm cấp Thẻ đến khi giải ngạch hoặc tuyển chọn sang chế độ sĩ quan dự bị.Điều 25.14.NĐ.4.6. Trách nhiệm của các cơ quan, tổ chức và cá nhân trong việc quản lý Giấy chứng minh sĩ quan
+
+(Điều 6 Nghị định số 130/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/01/2009)
+
+1. Bộ Quốc phòng có trách nhiệm sản xuất phôi Giấy chứng minh sĩ quan và quy định, hướng dẫn về trình tự, thủ tục đăng ký, thẩm quyền cấp, đổi và thu hồi Giấy chứng minh sĩ quan theo quy định của pháp luật.
+
+2. Sĩ quan khi thực hiện nhiệm vụ và giao dịch dân sự phải xuất trình Giấy chứng minh sĩ quan để các cơ quan, tổ chức, cá nhân tạo điều kiện thực hiện quyền và nghĩa vụ của sĩ quan theo quy định của pháp luật.
+
+3. Các cơ quan, tổ chức, cá nhân có trách nhiệm và có quyền phát hiện, phản ánh với đơn vị quân đội hoặc cơ quan nhà nước có thẩm quyền về những vi phạm trong việc sử dụng, quản lý Giấy chứng minh sĩ quan.
 
 Điều 25.14.TT.3.26. Trách nhiệm của cơ quan, đơn vị, tổ chức và cá nhân
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 218/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 15/02/2017)
 
-**Mã phân cấp:** 25014000000000003000031000000000000000000040231190130000060000802604902180002600
+ 1. Cơ quan chức năng của Bộ Quốc phòng
 
-**ID:** dk_00041475
+ a) Cục Cán bộ Tổng cục Chính trị chịu trách nhiệm xây dựng hệ thống cơ sở dữ liệu quản lý, bảo đảm ngân sách, cơ sở vật chất, lập kế hoạch in phôi mẫu, màng nhựa, sổ đăng ký cấp, quản lý, sử dụng Giấy chứng minh sĩ quan; Thẻ sĩ quan dự bị;
 
----
+ b) Cục Quân lực Bộ Tổng Tham mưu chịu trách nhiệm xây dựng hệ thống cơ sở dữ liệu quản lý, bảo đảm ngân sách, cơ sở vật chất, lập kế hoạch in phôi mẫu, màng nhựa, sổ đăng ký cấp, quản lý, sử dụng Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ; Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị;
 
+ c) Cục Bảo vệ an ninh Quân đội Tổng cục Chính trị chịu trách nhiệm điều tra, xác minh khi phát hiện cá nhân, cơ quan, đơn vị và tổ chức liên quan có dấu hiệu vi phạm quy trình bảo mật thiết kế in phôi mẫu Chứng minh và Thẻ;
 
-### Điều 25.14.LQ.32. Chế độ nghỉ của sĩ quan tại ngũ
+ d) Cục Tài chính Bộ Quốc phòng bảo đảm ngân sách quốc phòng thường xuyên hằng năm để thực hiện nhiệm vụ cấp, quản lý, sử dụng Chứng minh và Thẻ;
 
-*Nội dung chưa có sẵn*
+ đ) Cục Quân y Bộ Quốc phòng chỉ đạo cơ quan quân y cung cấp kết quả nhóm máu để ghi vào Giấy chứng minh sĩ quan, Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ;
 
-**Chỉ mục:** 32
+ e) Văn phòng Bộ Quốc phòng đảm bảo con dấu, chỉ đạo cơ quan bảo mật lưu trữ thực hiện quản lý, đóng dấu Chứng minh và Thẻ đúng quy định.
 
-**Mã phân cấp:** 2501400000000000300003200000000000000000
+ 2. Đối với cá nhân
 
-**ID:** dk_00041476
+ a) Sĩ quan có trách nhiệm quản lý, sử dụng Giấy chứng minh đúng mục đích quy định tại Điểm b Khoản 2 Điều 1 Nghị định số 130/2008/NĐ-CP; khi xuất cảnh ra nước ngoài phải để Giấy chứng minh sĩ quan tại đơn vị quản lý;
 
----
+ b) Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có trách nhiệm quản lý, sử dụng Chứng minh đúng mục đích quy định tại Khoản 2 Điều 3 Nghị định số 59/2016/NĐ-CP;
 
+ c) Hạ sĩ quan, binh sĩ tại ngũ; sĩ quan dự bị; quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị có trách nhiệm quản lý, sử dụng Thẻ đúng mục đích quy định tại Khoản 2 Điều 3 Thông tư này; xuất trình Thẻ theo yêu cầu của cơ quan, đơn vị, tổ chức và cá nhân có thẩm quyền; khi xuất cảnh ra nước ngoài không được mang theo Thẻ.
 
-### Điều 25.14.LQ.33. Chăm sóc sức khoẻ sĩ quan tại ngũ và gia đình sĩ quan
+ 3. Các cơ quan, tổ chức và cá nhân có trách nhiệm giám sát, phát hiện, phản ánh cho các đơn vị quân đội hoặc cơ quan nhà nước có thẩm quyền về những vi phạm trong việc quản lý, sử dụng Chứng minh và Thẻ.Điều 25.14.LQ.32. Chế độ nghỉ của sĩ quan tại ngũ
+
+(Điều 32 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
+
+1. Sĩ quan tại ngũ được nghỉ những ngày lễ theo quy định của Bộ luật lao động và nghỉ theo quy định của Bộ trưởng Bộ Quốc phòng.
+
+2. Khi có lệnh tổng động viên hoặc động viên cục bộ và trong thời chiến, Bộ trưởng Bộ Quốc phòng được ra lệnh đình chỉ chế độ nghỉ của sĩ quan; mọi sĩ quan đang nghỉ phải về ngay đơn vị.
 
 Điều 25.14.LQ.33. Chăm sóc sức khoẻ sĩ quan tại ngũ và gia đình sĩ quan
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**Mã phân cấp:** 2501400000000000300003300000000000000000
+1. Sĩ quan tại ngũ được chăm sóc sức khoẻ; khi bị thương, ốm đau ở xa các cơ sở quân y hoặc mắc những bệnh mà cơ sở quân y không có khả năng điều trị thì được khám bệnh, chữa bệnh tại các cơ sở dân y, được quân đội thanh toán viện phí.
 
-**ID:** dk_00041477
+2. Bố, mẹ, người nuôi dưỡng hợp pháp của chồng và của vợ, vợ hoặc chồng và con dưới 18 tuổi của sĩ quan tại ngũ không có chế độ bảo hiểm y tế thì được khám bệnh, chữa bệnh miễn hoặc giảm viện phí tại các cơ sở quân y và dân y theo quy định của Chính phủ.
 
----
+Điều 25.14.TT.4.4. Phân loại sức khỏe
 
+(Điều 4 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-### Điều 25.14.TT.4.4. Phân loại sức khỏe
+1. Nhằm đánh giá, xác định tình trạng sức khỏe theo khả năng đáp ứng với các nhiệm vụ của Quân đội; sử dụng trong quản lý sức khỏe theo Điều lệnh quản lý bộ đội Quân đội nhân dân Việt Nam; là cơ sở để chăm sóc sức khỏe ban đầu và dự phòng bệnh tật; căn cứ để thực hiện chế độ, chính sách đối với các đối tượng do Bộ Quốc phòng quản lý.
 
-*Nội dung chưa có sẵn*
+2. Căn cứ phân loại sức khỏe:
 
-**Chỉ mục:** 4
+a) Tình trạng thể lực được đánh giá theo chỉ số khối cơ thể quy định tại Phụ lục I Thông tư này;
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370000400
+b) Tình trạng bệnh tật được đánh giá từ mức 1 đến mức 4 quy định tại Phụ lục I Thông tư này;
 
-**ID:** dk_00041478
+c) Sức làm việc được đánh giá dựa trên khả năng đảm bảo ngày làm việc, số ngày nghỉ ốm bệnh trong một năm liền kề; hoặc mức suy giảm khả năng lao động; hoặc kết quả kiểm tra rèn luyện thể lực.
 
----
+3. Phân loại sức khỏe đối với các đối tượng
 
+a) Phân loại sức khỏe đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được chia thành bốn loại: 1, 2, 3 và 4;
 
-### Điều 25.14.TT.4.5. Phân loại sức khỏe đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
+b) Phân loại sức khỏe đối với hạ sĩ quan, binh sĩ được chia thành ba loại: 1, 2 và 3.
+
+4. Sau khi khám sức khỏe định kỳ hoặc khám sức khỏe theo yêu cầu nhiệm vụ, Hội đồng khám sức khỏe có trách nhiệm phân loại sức khỏe đối với các đối tượng theo quy định tại Điều 5, Điều 6 Thông tư này.
+
+Phu luc_37_2021_TT-BQP.doc
+
+(Điều này có nội dung liên quan đến Điều 25.14.TT.4.9. Điều kiện cơ sở vật chất, trang thiết bị khám sức khỏe định kỳ; Điều 25.14.TT.4.12. Kết luận khám sức khỏe định kỳ; Điều 25.14.TT.4.16. Tổng cục Hậu cần; Điều 25.14.TT.4.19. Quân y các cấp)
 
 Điều 25.14.TT.4.5. Phân loại sức khỏe đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370000500
+ Sức khỏe đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được chia thành bốn loại:
 
-**ID:** dk_00041479
+ 1. Sức khỏe loại 1 phải đáp ứng đủ ba yếu tố:
 
----
+ a) Chỉ số khối cơ thể mức 1;
 
+ b) Không bệnh tật hoặc các bệnh nhẹ mức 1;
 
-### Điều 25.14.TT.4.6. Phân loại sức khỏe đối với hạ sĩ quan, binh sĩ
+ c) Sức làm việc tốt, số ngày nghỉ ốm bệnh trong một năm không quá 15 ngày.
 
-Điều 25.14.TT.4.6. Phân loại sức khỏe đối với hạ sĩ quan, binh sĩ
+ 2. Sức khỏe loại 2 khi có một trong các yếu tố:
 
-**Chỉ mục:** 6
+ a) Chỉ số khối cơ thể mức 2 hoặc tuổi trên 55;
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370000600
+ b) Bị mắc các bệnh tật mức 2 hoặc bệnh mạn tính nhẹ đã ổn định, không ảnh hưởng đến sinh hoạt, công tác; chỉ cần có biện pháp dự phòng hoặc điều trị ngoại trú;
 
-**ID:** dk_00041480
+ c) Sức làm việc đảm bảo theo chức trách, nhiệm vụ: Số ngày nghỉ ốm bệnh trong một năm từ 16 đến 30 ngày; hoặc kết quả kiểm tra rèn luyện thể lực đạt yêu cầu.
 
----
+ 3. Sức khỏe loại 3 khi có một trong các yếu tố:
 
+ a) Chỉ số khối cơ thể mức 3;
 
-### Điều 25.14.TT.4.7. Phân cấp nhiệm vụ quản lý sức khỏe
+ b) Bị mắc các bệnh tật mức 3 hoặc bệnh mạn tính chưa ổn định, chưa hồi phục gây ảnh hưởng đến sinh hoạt hoặc rối loạn, suy giảm chức năng cần được quân y theo dõi chặt chẽ có hệ thống, chỉ định kiểm tra định kỳ và thực hiện chế độ điều trị dự phòng;
 
-Điều 25.14.TT.4.7. Phân cấp nhiệm vụ quản lý sức khỏe
+ c) Sức làm việc suy giảm rõ rệt, chưa hồi phục: số ngày nghỉ ốm bệnh trong một năm từ 31 đến 60 ngày, kết quả kiểm tra rèn luyện thể lực không đạt cần được bố trí công tác phù hợp để chữa bệnh, an điều dưỡng phục hồi sức khỏe.
 
-**Chỉ mục:** 7
+ 4. Sức khỏe loại 4 khi có một trong các yếu tố:
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370000700
+ a) Chỉ số khối cơ thể mức 4 hoặc thể trạng suy kiệt kéo dài, không hồi phục;
 
-**ID:** dk_00041481
+ b) Bị mắc các bệnh tật mức 4 hoặc bệnh mạn tính khó ổn định, dễ tái phát, đã có biến chứng nặng cần được quân y theo dõi chặt chẽ; phải tuân thủ chỉ định điều trị và thường xuyên thực hiện chế độ chăm sóc, dự phòng cần thiết;
 
----
+ c) Sức làm việc suy giảm nặng: Phải nghỉ làm việc dài ngày hoặc nhiều đợt để điều trị bệnh, số ngày nghỉ ốm bệnh trong một năm trên 60 ngày, không hoàn thành bài tập rèn luyện thể lực; suy giảm khả năng lao động từ 61% trở lên.Điều 25.14.TT.4.6. Phân loại sức khỏe đối với hạ sĩ quan, binh sĩ
 
+(Điều 6 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-### Điều 25.14.TT.4.8. Hội đồng khám sức khỏe
+ Sức khỏe đối với hạ sĩ quan, binh sĩ được chia thành ba loại:
 
-*Nội dung chưa có sẵn*
+ 1. Sức khỏe loại 1 phải đáp ứng đủ ba yếu tố:
 
-**Chỉ mục:** 8
+ a) Chỉ số khối cơ thể mức 1;
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370000800
+ b) Không có bệnh tật hoặc các bệnh nhẹ mức 1;
 
-**ID:** dk_00041482
+ c) Số ngày nghỉ ốm bệnh trong một năm không quá 15 ngày.
 
----
+ 2. Sức khỏe loại 2 khi có một trong các yếu tố:
 
+ a) Chỉ số khối cơ thể mức 2;
 
-### Điều 25.14.TT.4.9. Điều kiện cơ sở vật chất, trang thiết bị khám sức khỏe định kỳ
+ b) Bị mắc các bệnh tật mức 2 hoặc bệnh tật nhẹ đã ổn định;
 
-Điều 25.14.TT.4.9. Điều kiện cơ sở vật chất, trang thiết bị khám sức khỏe định kỳ
+ c) Sức làm việc bình thường, số ngày nghỉ ốm bệnh trong một năm từ 16 đến 30 ngày hoặc kết quả kiểm tra rèn luyện thể lực đạt yêu cầu.
 
-**Chỉ mục:** 9
+ 3. Sức khỏe loại 3 khi có một trong các yếu tố:
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370000900
+ a) Chỉ số khối cơ thể mức 3 hoặc mức 4;
 
-**ID:** dk_00041483
+ b) Bị mắc các bệnh tật mức 3 hoặc mức 4 hoặc bệnh nặng có biến chứng, di chứng ảnh hưởng chức năng cần được theo dõi, điều trị;
 
----
+ c) Sức làm việc suy giảm rõ rệt: số ngày nghỉ ốm bệnh trong một năm trên 30 ngày, kết quả kiểm tra rèn luyện thể lực không đạt yêu cầu; hoặc suy giảm khả năng lao động từ 61% trở lên cần đề nghị giải quyết xuất ngũ theo quy định của Bộ Quốc phòng.Điều 25.14.TT.4.7. Phân cấp nhiệm vụ quản lý sức khỏe
 
+(Điều 7 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-### Điều 25.14.TT.4.10. Nội dung khám sức khỏe định kỳ
+ 1. Quân y cấp trung đoàn và tương đương quản lý hồ sơ sức khỏe; theo dõi tình trạng sức khỏe toàn bộ quân nhân, công nhân và viên chức quốc phòng thuộc biên chế của đơn vị.
 
-*Nội dung chưa có sẵn*
+ 2. Quân y cấp sư đoàn và tương đương:
 
-**Chỉ mục:** 10
+ a) Theo dõi sức khỏe quân nhân có quân hàm cấp thiếu tá; công nhân và viên chức quốc phòng có hệ số lương tương đương trở lên; cán bộ chỉ huy tiểu đoàn và các chức vụ tương đương trở lên; quân nhân có quân hàm cấp thiếu úy, công nhân và viên chức quốc phòng có hệ số lương tương đương trở lên sức khỏe loại 3, loại 4;
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001000
+ b) Trực tiếp quản lý hồ sơ sức khỏe quân nhân, công nhân và viên chức quốc phòng của các cơ quan, tiểu đoàn trực thuộc sư đoàn;
 
-**ID:** dk_00041484
+ c) Chỉ đạo quân y cấp trung đoàn và tương đương thực hiện quản lý hồ sơ sức khỏe thuộc biên chế của đơn vị.
 
----
+ 3. Quân y cấp đơn vị trực thuộc Bộ Quốc phòng:
 
+ a) Theo dõi sức khỏe quân nhân có quân hàm cấp thượng tá, công nhân và viên chức quốc phòng có hệ số lương tương đương trở lên; cán bộ chỉ huy trung đoàn và chức vụ tương đương trở lên; quân nhân có quân hàm cấp thiếu tá, công nhân và viên chức quốc phòng có hệ số lương tương đương trở lên sức khỏe loại 3, loại 4;
 
-### Điều 25.14.TT.4.11. Tổ chức thực hiện khám sức khỏe định kỳ
+ b) Trực tiếp quản lý hồ sơ sức khỏe quân nhân, công nhân và viên chức quốc phòng của các cơ quan trực thuộc đơn vị;
 
-Điều 25.14.TT.4.11. Tổ chức thực hiện khám sức khỏe định kỳ
+ c) Chỉ đạo quân y cấp sư đoàn, trung đoàn và tương đương thực hiện quản lý toàn bộ hồ sơ sức khỏe thuộc biên chế của đơn vị.
 
-**Chỉ mục:** 11
+ 4. Bệnh viện Trung ương Quân đội 108, Bệnh viện quân y 175:
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001100
+ a) Quản lý hồ sơ sức khỏe sĩ quan cấp tướng theo địa bàn đóng quân: Từ Quân khu 4 trở ra phía Bắc do Bệnh viện Trung ương Quân đội 108 quản lý; từ Quân khu 5 trở vào phía Nam do Bệnh viện quân y 175 quản lý. Hằng tuần, báo cáo diễn biến bệnh lý từng cá nhân đang điều trị; hằng năm, báo cáo kết quả khám sức khỏe định kỳ từng cá nhân về Cục Quân y;
 
-**ID:** dk_00041485
+ b) Theo dõi, lưu giữ hồ sơ sức khỏe đối với quân nhân có quân hàm cấp thượng tá trở lên khi đến khám bệnh, chữa bệnh. Thực hiện chế độ báo cáo định kỳ hoặc đột xuất sức khỏe cán bộ cao cấp về Cục Quân y.
 
----
+ 5. Cục Quân y tổng hợp tình hình sức khỏe, cơ cấu bệnh tật trong toàn quân; quản lý, theo dõi sức khỏe:
 
+ a) Sĩ quan cấp tướng;
 
-### Điều 25.14.TT.4.12. Kết luận khám sức khỏe định kỳ
+ b) Cán bộ giữ chức vụ lãnh đạo, chỉ huy các đơn vị trực thuộc Bộ Quốc phòng;
 
-*Nội dung chưa có sẵn*
+ c) Danh sách quân nhân có quân hàm cấp thượng tá, đại tá; công nhân và viên chức quốc phòng có hệ số lương tương đương sức khỏe loại 3, loại 4.Điều 25.14.TT.4.8. Hội đồng khám sức khỏe
 
-**Chỉ mục:** 12
+(Điều 8 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001200
+ 1. Thành lập Hội đồng khám sức khỏe:
 
-**ID:** dk_00041486
+ a) Thủ trưởng đơn vị cấp trung đoàn và tương đương trở lên quyết định thành lập Hội đồng khám sức khỏe của đơn vị theo đề nghị của chủ nhiệm quân y;
 
----
+ b) Giám đốc bệnh viện quyết định thành lập Hội đồng khám sức khỏe của bệnh viện theo đề nghị của phòng (khoa, ban) chức năng được giao nhiệm vụ và hiệp đồng của đơn vị khám sức khỏe.
 
+ 2. Thành phần Hội đồng khám sức khỏe:
 
-### Điều 25.14.TT.4.13. Kinh phí bảo đảm khám sức khỏe định kỳ
+ a) Chủ tịch Hội đồng là bác sĩ chủ nhiệm quân y, chỉ huy bệnh viện quân y hoặc người được phân công;
+
+ b) Thành viên Hội đồng là cán bộ, nhân viên quân y đơn vị hoặc bệnh viện; trường hợp cần thiết được tăng cường từ quân y tuyến trên, quân y đơn vị khác hoặc lao động hợp đồng.
+
+ 3. Yêu cầu nhân sự của Hội đồng khám sức khỏe:
+
+ a) Chủ tịch Hội đồng khám sức khỏe là bác sĩ có chứng chỉ hành nghề khám bệnh, chữa bệnh và thời gian khám bệnh, chữa bệnh ít nhất 54 (năm mươi tư) tháng trở lên;
+
+ b) Phó Chủ tịch Hội đồng thay thế Chủ tịch Hội đồng khi được ủy quyền và đáp ứng yêu cầu tại điểm a khoản 3 Điều này;
+
+ c) Thành viên Hội đồng thực hiện khám lâm sàng, cận lâm sàng phải có chứng chỉ hành nghề khám bệnh, chữa bệnh phù hợp với nhiệm vụ được giao. Trường hợp người thực hiện kỹ thuật cận lâm sàng mà pháp luật không quy định có chứng chỉ hành nghề khám bệnh, chữa bệnh thì phải có bằng cấp chuyên môn phù hợp với công việc được phân công.
+
+ 4. Nguyên tắc làm việc của Hội đồng khám sức khỏe:
+
+ a) Người thực hiện khám lâm sàng, cận lâm sàng chịu trách nhiệm trước pháp luật về việc khám và kết quả khám của mình;
+
+ b) Chủ tịch Hội đồng kết luận và chịu trách nhiệm trước pháp luật về kết luận của mình. Chữ ký của Chủ tịch Hội đồng được đóng dấu của đơn vị quyết định thành lập Hội đồng.
+
+ 5. Nhiệm vụ của Hội đồng và các thành viên Hội đồng khám sức khỏe
+
+ a) Hội đồng khám sức khỏe:
+
+ Tổ chức khám, phân loại và kết luận sức khỏe cho quân nhân, công nhân và viên chức quốc phòng; chỉ định xét nghiệm chuyên sâu; tư vấn sức khỏe, dự phòng bệnh; chuyển tuyến trên khi vượt khả năng chuyên môn;
+
+ Tổng hợp kết quả khám sức khỏe và bàn giao toàn bộ hồ sơ phiếu khám sức khỏe cho quân y đơn vị.
+
+ b) Chủ tịch Hội đồng khám sức khỏe:
+
+ Chịu trách nhiệm điều hành toàn bộ hoạt động và kết quả khám sức khỏe của Hội đồng;
+
+ Quán triệt, phổ biến kế hoạch khám sức khỏe định kỳ; hướng dẫn các quy định về tiêu chuẩn sức khỏe, chức trách, nguyên tắc làm việc và phân công nhiệm vụ cụ thể cho các thành viên trong Hội đồng;
+
+ Triệu tập người khám lâm sàng, cận lâm sàng và tổ chức hội chẩn đối với trường hợp phân loại sức khỏe không phù hợp với kết quả khám để thống nhất kết quả phân loại sức khỏe theo chuyên khoa;
+
+ Đề nghị đơn vị quản lý cho quân nhân, công nhân và viên chức quốc phòng đi khám chuyên khoa ở quân y tuyến trên đối với các trường hợp vượt quá khả năng chuyên môn;
+
+ Trực tiếp kết luận phân loại sức khỏe;
+
+ Tổ chức họp rút kinh nghiệm công tác khám sức khỏe.
+
+ c) Phó Chủ tịch Hội đồng khám sức khỏe:
+
+ Thay mặt Chủ tịch Hội đồng khi được ủy quyền;
+
+ Trực tiếp khám sức khỏe, tham gia hội chẩn khi cần thiết;
+
+ Tham gia họp Hội đồng khám sức khỏe;
+
+ d) Ủy viên Thường trực, kiêm thư ký Hội đồng khám sức khỏe:
+
+ Lập dự trù, tổng hợp và quyết toán kinh phí, thuốc, vật tư tiêu hao phục vụ cho công tác khám sức khỏe;
+
+ Chuẩn bị phương tiện, cơ sở vật chất, hồ sơ sức khỏe và các tài liệu cần thiết khác để Hội đồng làm việc; tham gia họp Hội đồng;
+
+ Tham gia khám sức khỏe, hội chẩn khi cần thiết;
+
+ Thực hiện đăng ký, thống kê và giúp Chủ tịch Hội đồng làm báo cáo tổng hợp.
+
+ đ) Các ủy viên khác của Hội đồng khám sức khỏe:
+
+ Trực tiếp khám sức khỏe và tham gia hội chẩn khi được triệu tập;
+
+ Chịu trách nhiệm về chất lượng khám và kết luận sức khỏe trong phạm vi được phân công;
+
+ Tham gia họp Hội đồng khám sức khỏe khi được triệu tập.
+
+ 6. Phân cấp nhiệm vụ của Hội đồng khám sức khỏe đơn vị các cấp:
+
+ a) Hội đồng khám sức khỏe đơn vị cấp trung đoàn và tương đương khám sức khỏe cho hạ sĩ quan, binh sĩ;
+
+ b) Hội đồng khám sức khỏe đơn vị cấp sư đoàn và tương đương khám sức khỏe cho quân nhân có quân hàm cấp trung tá, công nhân và viên chức quốc phòng có hệ số lương tương đương trở xuống theo kế hoạch của đơn vị hoặc theo kế hoạch hiệp đồng của đơn vị đóng quân trên địa bàn;
+
+ c) Hội đồng khám sức khỏe đơn vị cấp trực thuộc Bộ Quốc phòng hoặc bệnh viện Quân đội hạng II trở lên khám sức khỏe cho quân nhân có quân hàm cấp đại tá, công nhân và viên chức quốc phòng có hệ số lương tương đương trở xuống theo kế hoạch của đơn vị hoặc theo kế hoạch hiệp đồng của đơn vị thuộc tuyến;
+
+ d) Hội đồng khám sức khỏe Bệnh viện Trung ương Quân đội 108 và Bệnh viện quân y 175 khám sức khỏe cho cán bộ theo phân cấp nhiệm vụ quản lý sức khỏe quy định tại điểm a khoản 4 Điều 7 Thông tư này; cán bộ được quy định tại điểm c khoản 6 Điều này theo kế hoạch hiệp đồng của đơn vị.Điều 25.14.TT.4.9. Điều kiện cơ sở vật chất, trang thiết bị khám sức khỏe định kỳ
+
+(Điều 9 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
+
+ 1. Các phòng khám bố trí theo nguyên tắc một chiều, khép kín; phòng khám lâm sàng, cận lâm sàng từng chuyên khoa riêng biệt, đủ diện tích, phù hợp với nội dung khám sức khỏe.
+
+ 2. Đủ trang bị, dụng cụ y tế thiết yếu theo quy định tại Phụ lục III ban hành kèm Thông tư này.(Điều này có nội dung liên quan đến Điều 25.14.TT.4.4. Phân loại sức khỏe)
+
+Điều 25.14.TT.4.10. Nội dung khám sức khỏe định kỳ
+
+(Điều 10 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
+
+ 1. Xác định chỉ số khối cơ thể (BMI: Body Mass Index).
+
+ 2. Khám lâm sàng các chuyên khoa: Nội khoa, ngoại khoa, da liễu, mắt, tai mũi họng, răng hàm mặt, sản phụ khoa đối với nữ.
+
+ 3. Khám cận lâm sàng
+
+ a) Hạ sĩ quan, binh sĩ: Điện tim; siêu âm bụng tổng quát và các xét nghiệm khác khi cần thiết;
+
+ b) Quân nhân có quân hàm cấp trung tá, công nhân và viên chức quốc phòng có hệ số lương tương đương trở xuống: Xét nghiệm huyết học; sinh hóa máu, nước tiểu; điện tim; siêu âm bụng tổng quát; chụp X-quang ngực và các xét nghiệm khác khi cần thiết;
+
+ c) Quân nhân có quân hàm cấp thượng tá, đại tá; công nhân và viên chức quốc phòng có hệ số lương tương đương: Xét nghiệm huyết học; sinh hóa máu, nước tiểu; điện tim; siêu âm bụng tổng quát; chụp X-quang ngực; xét nghiệm miễn dịch, dấu ấn ung thư và các xét nghiệm khác khi cần thiết.Điều 25.14.TT.4.11. Tổ chức thực hiện khám sức khỏe định kỳ
+
+(Điều 11 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
+
+ 1. Quy trình thực hiện
+
+ a) Quân y cấp trung đoàn và tương đương trở lên xây dựng kế hoạch tổ chức khám sức khỏe định kỳ tháng ba hằng năm, trình thủ trưởng đơn vị phê duyệt. Các đơn vị không đủ điều kiện thành lập Hội đồng khám sức khỏe định kỳ phải báo cáo bằng văn bản đến quân y tuyến trên; hiệp đồng với bệnh viện quân y hoặc quân y đơn vị khác trong khu vực đóng quân trước ngày 25 tháng 10 hằng năm để xây dựng kế hoạch cho năm sau;
+
+ b) Thành lập Hội đồng khám sức khỏe định kỳ theo quy định tại Điều 8 Thông tư này;
+
+ c) Lập danh sách quân nhân, công nhân và viên chức quốc phòng khám sức khỏe định kỳ; tổng hợp tiền sử bệnh tật, điều trị (nếu có); kết quả kiểm tra rèn luyện thể lực; sức làm việc; số ngày nghỉ ốm; tỷ lệ suy giảm khả năng lao động (nếu có);
+
+ d) Triển khai khu vực khám sức khỏe định kỳ theo quy định tại Điều 9 Thông tư này;
+
+ đ) Tiến hành khám sức khỏe định kỳ theo quy định tại Điều 10 Thông tư này; kết luận khám sức khỏe định kỳ theo quy định tại Điều 12 Thông tư này;
+
+ e) Thời gian tổ chức khám sức khỏe định kỳ có thể tiến hành một lần hoặc nhiều lần trong năm tùy theo nhiệm vụ từng đơn vị nhưng kết thúc trước ngày 15 tháng 9 hằng năm;
+
+ g) Quân y đơn vị tổng hợp kết quả khám sức khỏe định kỳ, báo cáo thủ trưởng đơn vị và cơ quan quân y cấp trên.
+
+ 2. Hình thức triển khai
+
+ a) Khám tại cơ sở quân y đơn vị;
+
+ b) Khám tại bệnh viện quân y;
+
+ c) Khám tại cơ sở quân y đơn vị kết hợp với tại bệnh viện quân y;
+
+ d) Khám tại đơn vị nếu đủ điều kiện theo Điều 9 Thông tư này.Điều 25.14.TT.4.12. Kết luận khám sức khỏe định kỳ
+
+(Điều 12 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
+
+ 1. Người khám chuyên khoa phân loại sức khỏe bằng số 1, 2, 3 hoặc 4 tương ứng mức đánh giá 1, 2, 3, 4 quy định tại Phụ lục I ban hành kèm theo Thông tư này; ghi rõ bệnh lý (nếu có) vào phần kết quả khám trong phiếu khám sức khỏe định kỳ kết quả khám lâm sàng và cận lâm sàng; ký và ghi rõ họ tên ở cột "Chữ ký, họ tên của bác sỹ". Trường hợp nghi ngờ hoặc chưa xác định chính xác bệnh phải chỉ định thêm các xét nghiệm hoặc đề nghị chuyển đến quân y tuyến trên khám chuyên khoa làm căn cứ để kết luận.
+
+ 2. Chủ tịch Hội đồng khám sức khỏe định kỳ căn cứ kết quả phân loại của các chuyên khoa để kết luận, phân loại sức khỏe theo quy định tại các Điều 4, 5 và 6 Thông tư này; ghi bằng số và chữ (phần chữ để trong dấu ngoặc đơn); ký, ghi rõ họ tên vào phiếu khám sức khỏe định kỳ và chịu trách nhiệm về kết luận của mình; thông báo kết quả khám sức khỏe và tư vấn chuyên môn đối với từng trường hợp. Chủ tịch Hội đồng khám sức khỏe định kỳ không kết luận nếu chưa đủ căn cứ phân loại sức khỏe quy định tại khoản 2 Điều 4 Thông tư này.(Điều này có nội dung liên quan đến Điều 25.14.TT.4.4. Phân loại sức khỏe)
 
 Điều 25.14.TT.4.13. Kinh phí bảo đảm khám sức khỏe định kỳ
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001300
+ 1. Nguồn kinh phí bảo đảm
 
-**ID:** dk_00041487
+ a) Kinh phí thực hiện khám sức khỏe cho các đối tượng thuộc đơn vị dự toán (hưởng lương từ nguồn ngân sách) quy định tại Thông tư này do ngân sách nhà nước chi thường xuyên cho quốc phòng bảo đảm;
 
----
+ b) Kinh phí thực hiện khám sức khỏe cho các đối tượng thuộc doanh nghiệp, đơn vị sự nghiệp công lập và các cơ sở hạch toán kinh doanh, dịch vụ trong Quân đội quy định tại Thông tư này được tính vào chi phí hoạt động sản xuất kinh doanh, dịch vụ của doanh nghiệp, đơn vị sự nghiệp công lập và cơ sở hạch toán.
 
+ 2. Các trường hợp phải chuyển quân y tuyến trên khám chuyên khoa thì đơn vị giới thiệu, đề nghị khám bệnh theo hình thức Bảo hiểm y tế.Điều 25.14.TT.4.14. Sử dụng kết luận khám sức khỏe định kỳ
 
-### Điều 25.14.TT.4.14. Sử dụng kết luận khám sức khỏe định kỳ
+(Điều 14 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-Điều 25.14.TT.4.14. Sử dụng kết luận khám sức khỏe định kỳ
+ 1. Cơ sở để quân y đơn vị triển khai các biện pháp quản lý, chăm sóc sức khỏe, dự phòng bệnh tật đối với từng cá nhân.
 
-**Chỉ mục:** 14
+ 2. Là một nội dung nhận xét đánh giá hằng năm, bổ sung vào hồ sơ quân nhân, công nhân và viên chức quốc phòng theo quy định của cơ quan quân lực hoặc cán bộ.
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001400
+ 3. Cơ sở để cơ quan chức năng xem xét, tham mưu đề xuất trong phân công công tác, đề bạt, bổ nhiệm; chuyển diện phục vụ; điều động, luân chuyển, đào tạo và giải quyết chế độ chính sách liên quan đến sức khỏe của quân nhân, công nhân và viên chức quốc phòng.Điều 25.14.TT.4.15. Khám sức khỏe theo yêu cầu nhiệm vụ
 
-**ID:** dk_00041488
+(Điều 15 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
----
+ 1. Thành lập Hội đồng khám sức khỏe theo yên cầu nhiệm vụ theo Điều 8, Điều 9 Thông tư này; hình thức triển khai theo khoản 2 Điều 11 Thông tư này.
 
+ 2. Nội dung khám theo quy định tiêu chuẩn sức khỏe thực hiện từng nhiệm vụ.
 
-### Điều 25.14.TT.4.15. Khám sức khỏe theo yêu cầu nhiệm vụ
+ 3. Phân loại sức khỏe theo quy định tại Điều 4, 5, 6 Thông tư này.
 
-Điều 25.14.TT.4.15. Khám sức khỏe theo yêu cầu nhiệm vụ
+ 4. Kết luận phải xác định loại sức khỏe; đánh giá đủ hoặc không đủ sức khỏe thực hiện từng nhiệm vụ khi có đề nghị của cơ quan, đơn vị, tổ chức yêu cầu khám sức khỏe.Điều 25.14.TT.4.16. Tổng cục Hậu cần
 
-**Chỉ mục:** 15
+(Điều 16 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001500
+ 1. Tham mưu với Bộ trưởng Bộ Quốc phòng về công tác phân loại, khám sức khỏe, phân cấp nhiệm vụ quản lý sức khỏe đối với quân nhân, công nhân và viên chức quốc phòng.
 
-**ID:** dk_00041489
+ 2. Thông báo và phối hợp với Cục Quân lực, Cục Cán bộ sử dụng kết quả khám sức khỏe định kỳ của các đối tượng tại khoản 5 Điều 7 Thông tư này trước ngày 25 tháng 11 hằng năm; kết quả khám sức khỏe theo yêu cầu nhiệm vụ ngay sau khi hoàn thành.
 
----
+ 3. Quản lý, hướng dẫn chuyên môn nghiệp vụ: Kỹ thuật, nội dung khám; danh mục khám lâm sàng, cận lâm sàng trong khám sức khỏe; danh mục bệnh tật tại Phụ lục I Thông tư này.
 
-
-### Điều 25.14.TT.4.16. Tổng cục Hậu cần
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001600
-
-**ID:** dk_00041490
-
----
-
-
-### Điều 25.14.TT.4.17. Bộ Tổng Tham mưu, Tổng cục Chính trị
+ 4. Chủ trì, phối hợp với các cơ quan liên quan theo dõi, kiểm tra, hướng dẫn thực hiện phân loại sức khỏe, khám sức khỏe, phân cấp nhiệm vụ quản lý sức khỏe.(Điều này có nội dung liên quan đến Điều 25.14.TT.4.4. Phân loại sức khỏe)
 
 Điều 25.14.TT.4.17. Bộ Tổng Tham mưu, Tổng cục Chính trị
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001700
+ 1. Chỉ đạo cơ quan quân huấn các cấp phối hợp, cung cấp kết quả rèn luyện thể lực cho cơ quan quân y cùng cấp để phân loại sức khỏe quân nhân, công nhân và viên chức quốc phòng.
 
-**ID:** dk_00041491
+ 2. Chỉ đạo, hướng dẫn cơ quan cán bộ, quân lực các cấp phối hợp với cơ quan quân y cùng cấp tham mưu với chỉ huy đơn vị tổ chức khám sức khỏe cho quân nhân, công nhân và viên chức quốc phòng thuộc quyền; sử dụng kết quả khám sức khỏe định kỳ theo quy định.
 
----
+ 3. Tiếp nhận, sử dụng kết quả khám sức khỏe định kỳ, khám sức khỏe theo yêu cầu nhiệm vụ đối với sĩ quan cấp tướng và cán bộ giữ chức vụ lãnh đạo, chỉ huy các đơn vị trực thuộc Bộ Quốc phòng; sĩ quan có quân hàm cấp thượng tá, đại tá, quân nhân chuyên nghiệp diện cơ quan cán bộ quản lý cấp thượng tá, công chức quốc phòng có hệ số lương tương đương sức khỏe loại 3, loại 4.Điều 25.14.TT.4.18. Cục Tài chính/BQP
 
+(Điều 18 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-### Điều 25.14.TT.4.18. Cục Tài chính/BQP
+ Hướng dẫn việc bảo đảm và thanh toán, quyết toán kinh phí khám sức khỏe định kỳ, khám sức khỏe theo yêu cầu nhiệm vụ đúng quy định.Điều 25.14.TT.4.19. Quân y các cấp
 
-*Nội dung chưa có sẵn*
+(Điều 19 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Chỉ mục:** 18
+ 1. Bệnh viện quân y
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001800
+ a) Cử cán bộ, nhân viên đủ năng lực chuyên môn; trang thiết bị y tế tăng cường cho hội đồng khám sức khỏe đơn vị hoặc trực tiếp tổ chức hội đồng khám sức khỏe của bệnh viện theo kế hoạch hiệp đồng của các đơn vị;
 
-**ID:** dk_00041492
+ b) Bệnh viện Trung ương Quân đội 108 và Bệnh viện quân y 175 báo cáo theo mẫu quy định kết quả khám sức khỏe định kỳ cho sĩ quan cấp tướng theo phân cấp quản lý trước ngày 31 tháng 10 hằng năm; kết quả khám sức khỏe theo yêu cầu nhiệm vụ ngay sau khi hoàn thành (qua Cục Quân y).
 
----
+ 2. Chủ nhiệm quân y đơn vị trực thuộc Bộ Quốc phòng
 
+ a) Hướng dẫn, tổ chức khám sức khỏe định kỳ, khám sức khỏe theo yêu cầu nhiệm vụ toàn bộ quân nhân, công nhân và viên chức quốc phòng của đơn vị; xây dựng kế hoạch hiệp đồng khám sức khỏe định kỳ, khám sức khỏe theo yêu cầu nhiệm vụ tại các cơ sở khám bệnh, chữa bệnh quân đội khác;
 
-### Điều 25.14.TT.4.19. Quân y các cấp
+ b) Báo cáo kết quả khám sức khỏe định kỳ về Cục Quân y trước ngày 31 tháng 10 hằng năm theo Mẫu số 03 Phụ lục II Thông tư này;
 
-*Nội dung chưa có sẵn*
+ c) Chỉ đạo cơ quan quân y thuộc quyền thông báo và phối hợp với cơ quan quản lý nhân sự cùng cấp sử dụng kết quả khám sức khỏe định kỳ trước ngày 31 tháng 10 hằng năm; kết quả khám sức khỏe theo yêu cầu nhiệm vụ ngay sau khi hoàn thành.
 
-**Chỉ mục:** 19
+ 3. Chủ nhiệm quân y đơn vị cấp trung đoàn, sư đoàn và tương đương
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370001900
-
-**ID:** dk_00041493
-
----
-
-
-### Điều 25.14.TT.4.20. Chỉ huy đơn vị và cá nhân được khám sức khỏe
+ Tổ chức thực hiện khám sức khỏe định kỳ, khám sức khỏe theo yêu cầu nhiệm vụ và quản lý sức khỏe theo phân cấp nhiệm vụ.(Điều này có nội dung liên quan đến Điều 25.14.TT.4.4. Phân loại sức khỏe)
 
 Điều 25.14.TT.4.20. Chỉ huy đơn vị và cá nhân được khám sức khỏe
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 37/2021/TT-BQP, có hiệu lực thi hành kể từ ngày 29/05/2021)
 
-**Mã phân cấp:** 250140000000000030000330000000000000000000802761900370002000
+ 1. Chỉ huy đơn vị chịu trách nhiệm chỉ đạo, triển khai khám sức khỏe định kỳ cho toàn bộ quân nhân, công nhân và viên chức quốc phòng. Bố trí cán bộ, nhân viên quân y của đơn vị tham gia Hội đồng khám sức khỏe.
 
-**ID:** dk_00041494
+ 2. Cá nhân được khám sức khỏe
 
----
+ a) Chấp hành nghiêm kế hoạch, nội dung khám sức khỏe định kỳ hằng năm của đơn vị, khám sức khỏe theo yêu cầu nhiệm vụ;
 
+ b) Tuân thủ các hướng dẫn, chỉ định trong quá trình thực hiện khám sức khỏe. Cung cấp thông tin đầy đủ, chính xác về bệnh sử, tiền sử bệnh tật của bản thân và gia đình.Điều 25.14.LQ.34. Sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng
 
-### Điều 25.14.LQ.34. Sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng
+(Điều 34 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-Điều 25.14.LQ.34. Sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng
+Khi chức vụ đang đảm nhiệm không còn nhu cầu bố trí sĩ quan, nếu sĩ quan có đủ điều kiện thì được xét chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng và được hưởng mức lương không thấp hơn khi còn là sĩ quan.
 
-**Chỉ mục:** 34
+Điều 25.14.LQ.35. Sĩ quan thôi phục vụ tại ngũ
 
-**Mã phân cấp:** 2501400000000000300003400000000000000000
+(Điều 35 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**ID:** dk_00041495
+1. Sĩ quan thôi phục vụ tại ngũ trong các trường hợp sau đây:
 
----
+a. Đủ điều kiện nghỉ hưu;
 
+b. Hết tuổi phục vụ tại ngũ quy định tại Điều 13 của Luật này;
 
-### Điều 25.14.LQ.35. Sĩ quan thôi phục vụ tại ngũ
+c. Do thay đổi tổ chức, biên chế mà không còn nhu cầu bố trí sĩ quan quân nhân chuyên nghiệp, công chức quốc phòng;
 
-*Nội dung chưa có sẵn*
+d. Không còn đủ tiêu chuẩn quy định đối với sĩ quan tại ngũ.
 
-**Chỉ mục:** 35
+2. Sĩ quan thôi phục vụ tại ngũ theo một trong các hình thức sau đây:
 
-**Mã phân cấp:** 2501400000000000300003500000000000000000
+a. Nghỉ hưu;
 
-**ID:** dk_00041496
+b. Chuyển ngành;
 
----
+c. Phục viên;
 
+d. Nghỉ theo chế độ bệnh binh.
 
-### Điều 25.14.LQ.36. Điều kiện nghỉ hưu của sĩ quan
+3. Khi thôi phục vụ tại ngũ, nếu đủ tiêu chuẩn và chưa hết hạn tuổi phục vụ của sĩ quan dự bị quy định tại Điều 38 của Luật này thì chuyển sang ngạch sĩ quan dự bị.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan; Điều 25.14.LQ.38. Tuổi phục vụ của sĩ quan dự bị)
 
-**Chỉ mục:** 36
+Điều 25.14.LQ.36. Điều kiện nghỉ hưu của sĩ quan
 
-**Mã phân cấp:** 2501400000000000300003600000000000000000
+(Điều 36 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000)
 
-**ID:** dk_00041497
+Sĩ quan được nghỉ hưu khi:
 
----
+1. Đủ điều kiện theo quy định bảo hiểm xã hội của Nhà nước;
 
+2. Trong trường hợp chưa đủ điều kiện nghỉ hưu theo quy định tại khoản 1 Điều này, quân đội không còn nhu cầu bố trí sĩ quan, quân nhân chuyên nghiệp, công chức quốc phòng hoặc không chuyển ngành được, nếu nam sĩ quan có đủ 25 năm và nữ sĩ quan có đủ 20 năm phục vụ trong quân đội trở lên thì được nghỉ hưu.
 
-### Điều 25.14.LQ.37.  Quyền lợi của sĩ quan thôi phục vụ tại ngũ và sĩ quan tại ngũ hy sinh, từ trần
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu)
 
-Điều 25.14.LQ.37.  Quyền lợi của sĩ quan thôi phục vụ tại ngũ và sĩ quan tại ngũ hy sinh, từ trần
+Điều 25.14.LQ.37. Quyền lợi của sĩ quan thôi phục vụ tại ngũ và sĩ quan tại ngũ hy sinh, từ trần
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 16/1999/QH10, có hiệu lực thi hành kể từ ngày 01/04/2000, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 19/2008/QH12 có hiệu lực thi hành kể từ ngày 01/07/2008)
 
-**Mã phân cấp:** 2501400000000000300003700000000000000000
+1. Sĩ quan nghỉ hưu được hưởng quyền lợi sau đây:
 
-**ID:** dk_00041498
+a. Lương hưu tính trên cơ sở quy định tại khoản 1 Điều 31 của Luật này;
 
----
+b. Nếu nghỉ hưu trước hạn tuổi cao nhất theo cấp bậc quân hàm tại khoản 1 Điều 13 của Luật này, do thay đổi tổ chức, biên chế hoặc hết hạn tuổi giữ chức vụ chỉ huy, quản lý đơn vị mà quân đội không còn nhu cầu sử dụng thì ngoài lương hưu còn được hưởng trợ cấp một lần theo quy định của Chính phủ;
 
+c. Sử dụng quân phục, quân hiệu, cấp hiệu, phù hiệu trong những ngày lễ và những cuộc hội họp, những buổi giao lưu truyền thống của quân đội;
 
-### Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu
+d. Được chính quyền địa phương nơi sĩ quan cư trú hợp pháp đăng ký hộ khẩu, tạo điều kiện để làm ăn sinh sống; trường hợp chưa có nhà ở thì được bảo đảm nhà ở hoặc đất ở theo quy định của Chính phủ;
+
+đ. Khám bệnh, chữa bệnh theo chế độ bảo hiểm y tế tại các cơ sở quân y và dân y.
+
+2. Sĩ quan chuyển ngành được hưởng quyền lợi sau đây:
+
+a. Nhà nước bảo đảm đào tạo về chuyên môn, nghiệp vụ cần thiết đối với những sĩ quan chuyển ngành theo yêu cầu của tổ chức;
+
+b. Bảo đảm mức lương sĩ quan tại thời điểm chuyển ngành trong thời gian tối thiểu là 18 tháng;
+
+c. Khi nghỉ hưu được hưởng phụ cấp thâm niên tính theo thời gian phục vụ tại ngũ và cấp bậc quân hàm tại thời điểm chuyển ngành; trường hợp mức lương hiện hưởng thấp hơn mức lương sĩ quan tại thời điểm chuyển ngành thì được lấy mức lương sĩ quan tại thời điểm chuyển ngành để tính lương hưu;
+
+d. Các quyền lợi quy định tại điểm c khoản 1 Điều này;
+
+đ. Trường hợp do nhu cầu điều động trở lại phục vụ trong quân đội, thì thời gian chuyển ngành được tính vào thời gian công tác liên tục để xét thăng cấp bậc quân hàm và thâm niên công tác.
+
+3. Sĩ quan phục viên được hưởng quyền lợi sau đây:
+
+a. Trợ cấp tạo việc làm và trợ cấp phục viên một lần;
+
+b. Nếu có đủ 15 năm phục vụ trong quân đội trở lên, khi ốm đau được khám bệnh, chữa bệnh miễn hoặc giảm viện phí tại cơ sở quân y theo quy định của Bộ trưởng Bộ Quốc phòng;
+
+c. Các quyền lợi quy định tại điểm c và điểm d khoản 1 Điều này.
+
+4. Sĩ quan nghỉ theo chế độ bệnh binh được hưởng quyền lợi sau đây:
+
+a. Chế độ theo quy định của pháp luật về ưu đãi người có công với cách mạng và chế độ bảo hiểm xã hội theo quy định của Luật bảo hiểm xã hội;
+
+b. Các quyền lợi quy định tại điểm c và điểm d khoản 1 Điều này.
+
+5. Sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề có tính chất đặc thù thì được quy đổi thời gian đó để tính hưởng quyền lợi khi thôi phục vụ tại ngũ.
+
+6. Sĩ quan tại ngũ hy sinh thì thân nhân của sĩ quan đó được hưởng các chế độ theo quy định của pháp luật về ưu đãi người có công với cách mạng và được hưởng trợ cấp một lần theo quy định của Chính phủ.
+
+7. Sĩ quan tại ngũ từ trần thì thân nhân của sĩ quan đó ngoài chế độ theo quy định của Luật bảo hiểm xã hội còn được trợ cấp một lần theo quy định của Chính phủ.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.31. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ; Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu)
 
 Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu
 
-**Chỉ mục:** 2
+(Điều 2 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000200
+1. Sĩ quan nghỉ hưu quy định tại Điều 36, điểm a khoản 1 Điều 37 Luật Sĩ quan Quân đội nhân dân Việt Nam được hưởng chế độ bảo hiểm xã hội theo quy định hiện hành của pháp luật về bảo hiểm xã hội.
 
-**ID:** dk_00041499
+2. Chế độ trợ cấp một lần đối với sĩ quan nghỉ hưu trước hạn tuổi cao nhất theo cấp bậc quân hàm quy định tại khoản 1 Điều 13 Luật Sĩ quan Quân đội nhân dân Việt Nam, cụ thể như sau:
 
----
+a) Đối tượng được hưởng chế độ trợ cấp một lần gồm:
 
+- Sĩ quan thuộc diện dôi dư do thay đổi tổ chức, biên chế theo quyết định của cấp có thẩm quyền;
 
-### Điều 25.14.NĐ.5.3. Chế độ, chính sách đối với sĩ quan chuyển ngành
+- Sĩ quan hết hạn tuổi giữ chức vụ chỉ huy, quản lý đơn vị theo quy định tại khoản 3 Điều 13 Luật Sĩ quan Quân đội nhân dân Việt Nam mà quân đội không còn nhu cầu bố trí, sử dụng.
+
+b) Chế độ trợ cấp một lần được hưởng gồm:
+
+- Được trợ cấp 03 tháng tiền lương cho mỗi năm nghỉ hưu trước tuổi;
+
+- Được trợ cấp bằng 05 tháng tiền lương cho hai mươi năm đầu công tác. Từ năm từ hai mươi mốt trở đi, cứ mỗi năm công tác được trợ cấp bằng 1/2 tháng tiền lương.
+
+(Điều này có nội dung liên quan đến Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan; Điều 25.14.LQ.36. Điều kiện nghỉ hưu của sĩ quan; Điều 25.14.LQ.37. Quyền lợi của sĩ quan thôi phục vụ tại ngũ và sĩ quan tại ngũ hy sinh, từ trần của Luật 16/1999/QH10 Sỹ quan quân đội nhân dân Việt Nam ban hành ngày 21/12/1999; Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ của Nghị định 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ban hành ngày 23/02/2009; Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ; Điều 25.14.TL.3.3. Chế độ trợ cấp một lần do nghỉ hưu trước hạn tuổi; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.3. Chế độ, chính sách đối với sĩ quan chuyển ngành
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000300
+1. Sĩ quan chuyển ngành được tuyển dụng vào làm việc tại các cơ quan, đơn vị sự nghiệp của nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội hưởng lương từ ngân sách nhà nước (sau đây gọi chung là cơ quan, đơn vị) được hưởng quyền lợi như sau:
 
-**ID:** dk_00041500
+a) Được ưu tiên bố trí việc làm phù hợp với ngành nghề chuyên môn, kỹ thuật, nghiệp vụ; được đào tạo, bồi dưỡng về chuyên môn, nghiệp vụ cần thiết phù hợp với công việc đảm nhiệm;
 
----
+b) Được miễn thi tuyển, nếu chuyển ngành về cơ quan, đơn vị cũ hoặc chuyển ngành theo yêu cầu của cơ quan nhà nước có thẩm quyền;
 
+c) Được ưu tiên cộng thêm điểm vào kết quả thi tuyển khi thi tuyển công chức quy định đối với đối tượng tại khoản 2 Điều 7 Nghị định số 116/2003/NĐ-CP ngày 10 tháng 10 năm 2003 của Chính phủ về việc tuyển dụng, sử dụng và quản lý cán bộ, công chức trong các đơn vị sự nghiệp của Nhà nước và khoản 2 Điều 7 Nghị định số 117/2003/NĐ-CP ngày 10 tháng 10 năm 2003 của Chính phủ về việc tuyển dụng, sử dụng và quản lý cán bộ, công chức trong các cơ quan nhà nước;
 
-### Điều 25.14.NĐ.5.4. Chế độ, chính sách đối với sĩ quan chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
+d) Được xếp lương phù hợp với công việc mới đảm nhiệm. Trường hợp hệ số lương mới thấp hơn hệ số lương sĩ quan đã được hưởng tại thời điểm chuyển ngành thì được bảo lưu hệ số chênh lệch giữa hệ số lương sĩ quan với hệ số lương (theo công việc) mới trong thời gian tối thiểu là 18 tháng, kể từ khi quyết định chuyển ngành có hiệu lực và do cơ quan, đơn vị mới chi trả. Trong thời gian bảo lưu, nếu hệ số lương mới được xếp bằng hoặc cao hơn hệ số lương sĩ quan đã được hưởng trước khi chuyển ngành thì hưởng hệ số lương mới;
+
+đ) Khi nghỉ hưu được thực hiện cách tính lương hưu theo quy định tại khoản 7 Điều 34 Nghị định số 68/2007/NĐ-CP ngày 19 tháng 4 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân, công an nhân dân.
+
+2. Sĩ quan chuyển ngành sang các cơ quan, đơn vị, hưởng lương từ ngân sách nhà nước sau đó chuyển sang cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước, khi nghỉ hưu, tính lương hưu được cộng thêm khoản phụ cấp thâm niên theo thời gian phục vụ tại ngũ của mức lương sĩ quan tại thời điểm chuyển ngành được chuyển đổi theo chế độ tiền lương quy định tại thời điểm nghỉ hưu.
+
+3. Sĩ quan đã chuyển ngành do nhu cầu của quân đội, được cấp có thẩm quyền điều động trở lại phục vụ trong quân đội thì thời gian chuyển ngành được tính vào thời gian công tác liên tục để xét thăng cấp bậc quân hàm hoặc nâng lương và thâm niên công tác theo quy định hiện hành của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 5. Ưu tiên trong tuyển dụng công chức của Nghị định 24/2010/NĐ-CP Quy định về tuyển dụng, sử dụng và quản lý công chức ban hành ngày 15/03/2010; Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên; Điều 25.14.TL.3.4. Chuyển ngành được tuyển dụng vào làm việc tại các cơ quan, đơn vị hưởng lương từ ngân sách nhà nước; Điều 25.14.TL.3.6. Đã chuyển ngành sau đó trở lại phục vụ quân đội; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.4. Chế độ, chính sách đối với sĩ quan chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000400
+Sĩ quan chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước được hưởng trợ cấp phục viên một lần theo quy định tại điểm b khoản 1 Điều 5 Nghị định này và chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội; khi nghỉ hưu không được tính lương hưu theo quy định tại khoản 7 Điều 34 Nghị định số 68/2007/NĐ-CP ngày 19 tháng 4 năm 2007 của Chính phủ.
 
-**ID:** dk_00041501
-
----
-
-
-### Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên của Nghị định 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ban hành ngày 23/02/2009; Điều 25.14.TL.3.7. Chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000500
+1. Sĩ quan thôi phục vụ tại ngũ không đủ điều kiện để nghỉ hưu hoặc không chuyển ngành được thì phục viên về địa phương và được hưởng các quyền lợi như sau:
 
-**ID:** dk_00041502
+a) Được hưởng trợ cấp tạo việc làm bằng 06 tháng tiền lương tối thiểu chung theo quy định của Chính phủ; được ưu tiên học nghề hoặc giới thiệu việc làm tại các tổ chức giới thiệu việc làm của các Bộ, ngành, đoàn thể, địa phương và các tổ chức kinh tế - xã hội khác;
 
----
+b) Được hưởng trợ cấp phục viên một lần, cứ mỗi năm công tác được trợ cấp bằng 01 tháng tiền lương;
 
+c) Được hưởng chế độ bảo hiểm xã hội và các chế độ khác theo quy định hiện hành của pháp luật.
 
-### Điều 25.14.NĐ.5.6. Chế độ, chính sách đối với sĩ quan nghỉ theo chế độ bệnh binh
+2. Sĩ quan đã phục viên về địa phương trong thời gian không quá một năm, kể từ ngày quyết định phục viên có hiệu lực, nếu được tuyển dụng vào các cơ quan, đơn vị quy định tại khoản 1 Điều 3 Nghị định này thì được thực hiện chế độ chuyển ngành. Khi thực hiện chế độ chuyển ngành thì phải hoàn trả khoản trợ cấp phục viên một lần theo quy định tại điểm b khoản 1 Điều này và trợ cấp bảo hiểm xã hội một lần đã nhận. Cơ quan, đơn vị quân đội nhân dân ra quyết định chuyển ngành có trách nhiệm thu lại số tiền trợ cấp phục viên và trợ cấp bảo hiểm xã hội đã nhận.
+
+3. Sĩ quan đã phục viên về địa phương trong thời gian không quá một năm, kể từ ngày quyết định phục viên có hiệu lực, nếu được tuyển dụng vào làm việc tại các doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước, nếu muốn tính nối thời gian đóng bảo hiểm xã hội thì phải hoàn trả quỹ bảo hiểm xã hội khoản trợ cấp bảo hiểm xã hội đã nhận.
+
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.3. Chế độ, chính sách đối với sĩ quan chuyển ngành; Điều 25.14.NĐ.5.4. Chế độ, chính sách đối với sĩ quan chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước; Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ của Nghị định 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ban hành ngày 23/02/2009; Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.6. Chế độ, chính sách đối với sĩ quan nghỉ theo chế độ bệnh binh
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000600
+Sĩ quan thôi phục vụ tại ngũ nghỉ theo chế độ bệnh binh, được hưởng chế độ bệnh binh theo pháp luật về ưu đãi người có công với cách mạng và chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.
 
-**ID:** dk_00041503
-
----
-
-
-### Điều 25.14.NĐ.5.7. Chế độ, chính sách đối với sĩ quan tại ngũ hy sinh, từ trần
+(Điều này có nội dung liên quan đến Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.7. Chế độ, chính sách đối với sĩ quan tại ngũ hy sinh, từ trần
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000700
+1. Sĩ quan tại ngũ hy sinh thì thân nhân của sĩ quan được hưởng các chế độ theo quy định của pháp luật về ưu đãi người có công với cách mạng, pháp luật về bảo hiểm xã hội và được hưởng trợ cấp một lần, cứ mỗi năm công tác được trợ cấp bằng 01 tháng tiền lương của sĩ quan trước khi hy sinh.
 
-**ID:** dk_00041504
+2. Sĩ quan tại ngũ từ trần thì thân nhân của sĩ quan được hưởng chế độ theo quy định của pháp luật về bảo hiểm xã hội và trợ cấp một lần, cứ mỗi năm công tác được trợ cấp bằng 1 tháng tiền lương của sĩ quan trước khi từ trần.
 
----
-
-
-### Điều 25.14.NĐ.5.8. Chế độ, chính sách đối với sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ của Nghị định 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ban hành ngày 23/02/2009; Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.8. Chế độ, chính sách đối với sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000800
+1. Sỹ quan tại ngũ thuộc diện chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng theo quy định, được xếp lương theo diện bố trí mới phù hợp với nhóm, ngành cán bộ được sắp xếp; trình độ học vấn, đào tạo; thời gian giữ cấp bậc quân hàm hoặc bậc lương hiện tại. Trường hợp hệ số mức lương mới được xếp thấp hơn hệ số mức lương sĩ quan tại thời điểm chuyển diện bố trí thì được bảo lưu hệ số chênh lệch giữa hệ số mức lương của sĩ quan so với hệ số mức lương mới cho đến khi được nâng lương bằng hoặc cao hơn.
 
-**ID:** dk_00041505
+2. Sĩ quan tại ngũ chuyển sang công chức quốc phòng được hưởng chế độ trợ cấp một lần quy định tại Điều 9 Nghị định này; khi nghỉ hưu được thực hiện cách tính lương hưu theo quy định tại khoản 7 Điều 34 Nghị định số 68/2007/NĐ-CP ngày 19 tháng 4 năm 2007 của Chính phủ.
 
----
-
-
-### Điều 25.14.NĐ.5.9. Chế độ trợ cấp một lần đối với sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề có tính chất đặc thù khi thôi phục vụ tại ngũ
+(Điều này có nội dung liên quan đến Điều 25.14.TL.3.11. Chế độ, chính sách được hưởng; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.9. Chế độ trợ cấp một lần đối với sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề có tính chất đặc thù khi thôi phục vụ tại ngũ
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210000900
+1. Sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn, ngành nghề có tính chất đặc thù thì được quy đổi thời gian để tính hưởng chế độ trợ cấp một lần khi thôi phục vụ tại ngũ. Cụ thể như sau:
 
-**ID:** dk_00041506
+a) Sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu thì thời gian đó được quy đổi 1 năm bằng 1 năm 6 tháng;
 
----
+b) Sĩ quan có thời gian công tác ở địa bàn có phụ cấp đặc biệt với mức 100% hoặc ngành nghề đặc thù quân sự được xếp lao động đặc biệt nặng nhọc, độc hại, nguy hiểm thì thời gian đó được quy đổi 1 năm bằng 1 năm 4 tháng;
 
+c) Sĩ quan có thời gian công tác ở địa bàn có phụ cấp khu vực từ hệ số 0,7 trở lên hoặc ngành nghề đặc thù quân sự được xếp lao động nặng nhọc, độc hại, nguy hiểm thì thời gian đó được quy đổi 1 năm bằng 1 năm 2 tháng.
 
-### Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ
+Trường hợp trong cùng một thời gian công tác sĩ quan có đủ 2 hoặc 3 điều kiện nêu trên thì được hưởng theo mức quy đổi cao nhất. Trường hợp thời gian công tác nêu trên không liên tục thì được cộng dồn để xác định tính tổng thời gian được hưởng chế độ.
+
+2. Thời gian tăng thêm do quy đổi tại khoản 1 Điều này được tính hưởng trợ cấp một lần với mức cứ một năm được trợ cấp bằng 01 tháng tiền lương.
+
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ của Nghị định 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ban hành ngày 23/02/2009; Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ; Điều 25.14.TL.3.10. Chế độ, chính sách được hưởng; Điều 25.14.TL.3.11. Chế độ, chính sách được hưởng; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
 Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210001000
+1. Tiền lương tháng để tính trợ cấp quy định tại Nghị định này bao gồm: tiền lương theo cấp bậc quân hàm; các khoản phụ cấp chức vụ, phụ cấp thâm niên nghề và hệ số chênh lệch bảo lưu (nếu có).
 
-**ID:** dk_00041507
+2. Tiền lương tháng để tính các chế độ trợ cấp quy định tại điểm b khoản 2 Điều 2 Nghị định này là tiền lương bình quân của 5 năm cuối trước khi nghỉ hưu; tiền lương tháng để tính các chế độ trợ cấp theo quy định tại điểm b khoản 1 Điều 5; Điều 7; khoản 2 Điều 9 Nghị định này được tính là tiền lương, phụ cấp hiện hưởng.
 
----
+3. Thời gian để tính hưởng chế độ trợ cấp một lần là tổng thời gian phục vụ trong quân đội và thời gian công tác tại cơ quan, đơn vị hưởng lương từ ngân sách nhà nước có đóng bảo hiểm xã hội trước khi vào phục vụ trong quân đội.
 
+Khi tính hưởng chế độ nếu có tháng lẻ được tính như sau: dưới 3 tháng không tính; từ đủ 3 tháng đến đủ 6 tháng tính bằng nửa (1/2) mức hưởng của một năm; từ trên 6 tháng đến dưới 12 tháng tính bằng mức hưởng của một năm.
 
-### Điều 25.14.NĐ.5.11. Kinh phí bảo đảm
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu; Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên; Điều 25.14.NĐ.5.7. Chế độ, chính sách đối với sĩ quan tại ngũ hy sinh, từ trần; Điều 25.14.NĐ.5.9. Chế độ trợ cấp một lần đối với sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề có tính chất đặc thù khi thôi phục vụ tại ngũ của Nghị định 21/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng ban hành ngày 23/02/2009; Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ)
 
-*Nội dung chưa có sẵn*
+Điều 25.14.NĐ.5.11. Kinh phí bảo đảm
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 21/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/04/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402318500210001100
-
-**ID:** dk_00041508
-
----
-
-
-### Điều 25.14.NĐ.6.4. Quản lý, sử dụng quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam
+Ngân sách nhà nước bảo đảm nguồn kinh phí thực hiện các chế độ trợ cấp quy định tại Nghị định này theo Luật Ngân sách nhà nước.
 
 Điều 25.14.NĐ.6.4. Quản lý, sử dụng quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820000400
+1. Quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam được sử dụng cho sĩ quan, quân nhân chuyên nghiệp, học viên, hạ sĩ quan - binh sĩ. Công nhân và viên chức quốc phòng chỉ sử dụng trang phục, biển tên và biểu tượng quân chủng, binh chủng của Quân đội nhân dân Việt Nam.
 
-**ID:** dk_00041509
+2. Quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam được cấp phát, sử dụng đồng bộ, chặt chẽ theo quy định của pháp luật.
 
----
+Bộ trưởng Bộ Quốc phòng quy định việc sử dụng, thu hồi quân hiệu, cấp hiệu, phù hiệu và trang phục đối với từng đối tượng đang phục vụ, thôi phục vụ trong Quân đội nhân dân Việt Nam.
 
-
-### Điều 25.14.NĐ.6.5. Quân hiệu của Quân đội nhân dân Việt Nam
+3. Nghiêm cấm cơ quan, đơn vị, tổ chức và cá nhân sản xuất, làm giả, làm nhái, tàng trữ, trao đổi, mua bán, cho, tặng và sử dụng trái phép quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam. Trường hợp vi phạm, tùy theo tính chất, mức độ sẽ bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
 Điều 25.14.NĐ.6.5. Quân hiệu của Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 22/2024/NĐ-CP có hiệu lực thi hành kể từ ngày 27/02/2024)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820000500
+1. Quân hiệu của Quân đội nhân dân Việt Nam hình tròn, ở giữa có ngôi sao năm cánh nổi mầu vàng, xung quanh có hai bông lúa mầu vàng đặt trên nền đỏ tươi, phía dưới hai bông lúa có hình nửa bánh xe răng lịch sử mầu vàng, vành ngoài quân hiệu mầu vàng.
 
-**ID:** dk_00041510
-
----
-
-
-### Điều 25.14.NĐ.6.6. Cấp hiệu của Quân đội nhân dân Việt Nam
+2. Quân hiệu có 03 loại: Đường kính 41 mm, đường kính 36 mm, đường kính 33 mm. Quân hiệu có đường kính 41 mm và 36 mm dập liền với cành tùng kép màu vàng.
 
 Điều 25.14.NĐ.6.6. Cấp hiệu của Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820000600
+1. Cấp hiệu của sĩ quan, học viên là sĩ quan
 
-**ID:** dk_00041511
+a) Hình dáng: Hai cạnh đầu nhỏ và hai cạnh dọc.
 
----
+b) Nền cấp hiệu mầu vàng, riêng Bộ đội Biên phòng mầu xanh lá cây. Nền cấp hiệu của sĩ quan cấp tướng có in chìm hoa văn mặt trống đồng, tâm mặt trống đồng ở vị trí gắn cúc cấp hiệu.
 
+c) Đường viền cấp hiệu: Lục quân, Bộ đội Biên phòng mầu đỏ tươi, Phòng không - Không quân mầu xanh hòa bình, Hải quân mầu tím than.
 
-### Điều 25.14.NĐ.6.7. Phù hiệu của Quân đội nhân dân Việt Nam
+d) Trên nền cấp hiệu gắn: Cúc cấp hiệu, gạch, sao mầu vàng. Cúc cấp hiệu hình tròn, dập nổi hoa văn (cấp tướng hình Quốc huy; cấp tá, cấp úy hình hai bông lúa xung quanh và ngôi sao năm cánh ở giữa). Cấp hiệu của cấp tướng không có gạch ngang, cấp tá có 02 gạch ngang, cấp úy có 01 gạch ngang, số lượng sao:
+
+Thiếu úy, Thiếu tá, Thiếu tướng, Chuẩn Đô đốc Hải quân: 01 sao;
+
+Trung úy, Trung tá, Trung tướng, Phó Đô đốc Hải quân: 02 sao;
+
+Thượng úy, Thượng tá, Thượng tướng, Đô đốc Hải quân: 03 sao;
+
+Đại úy, Đại tá, Đại tướng: 04 sao.
+
+2. Cấp hiệu của quân nhân chuyên nghiệp
+
+Thực hiện theo quy định tại Khoản 1 Điều này nhưng trên nền cấp hiệu có 01 đường mầu hồng rộng 5 mm ở chính giữa theo chiều dọc.
+
+3. Cấp hiệu của hạ sĩ quan - binh sĩ
+
+a) Hình dáng: Hai cạnh đầu nhỏ và hai cạnh dọc.
+
+b) Nền cấp hiệu mầu be, riêng Bộ đội Biên phòng mầu xanh lá cây.
+
+c) Đường viền cấp hiệu: Lục quân, Bộ đội Biên phòng mầu đỏ tươi, Phòng không - Không quân mầu xanh hòa bình, Hải quân mầu tím than.
+
+d) Trên nền cấp hiệu gắn: Cúc cấp hiệu, vạch ngang hoặc vạch hình chữ V mầu đỏ. Cúc cấp hiệu dập nổi hoa văn hình hai bông lúa xung quanh và ngôi sao năm cánh ở giữa. Số vạch ngang hoặc vạch hình chữ V:
+
+Binh nhì: 01 vạch hình chữ V;
+
+Binh nhất: 02 vạch hình chữ V;
+
+Hạ sĩ: 01 vạch ngang;
+
+Trung sĩ: 02 vạch ngang;
+
+Thượng sĩ: 03 vạch ngang.
+
+4. Cấp hiệu của hạ sĩ quan - binh sĩ Hải quân, khi mặc áo kiểu có yếm
+
+a) Hình dáng: Hình chữ nhật.
+
+b) Nền cấp hiệu mầu tím than, có hình phù hiệu Hải quân.
+
+c) Đường viền cấp hiệu: Không có đường viền.
+
+d) Trên nền cấp hiệu gắn: Vạch ngang mầu vàng. Số lượng vạch:
+
+Binh nhì: 01 vạch ở đầu dưới cấp hiệu;
+
+Binh nhất: 02 vạch cân đối ở hai đầu cấp hiệu;
+
+Hạ sĩ: 01 vạch cân đối ở giữa cấp hiệu;
+
+Trung sĩ: 02 vạch cân đối ở giữa cấp hiệu;
+
+Thượng sĩ: 03 vạch cân đối ở giữa cấp hiệu.
+
+5. Cấp hiệu của học viên đào tạo sĩ quan, hạ sĩ quan, nhân viên chuyên môn kỹ thuật
+
+a) Hình dáng: Hai cạnh đầu nhỏ và hai cạnh dọc.
+
+b) Nền cấp hiệu: Lục quân mầu đỏ tươi; Phòng không - Không quân mầu xanh hòa bình; Hải quân mầu tím than; Bộ đội Biên phòng mầu xanh lá cây.
+
+c) Đường viền cấp hiệu: Mầu vàng. Học viên đào tạo sĩ quan đường viền rộng 5 mm; học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật đường viền rộng 3 mm.
+
+d) Trên nền cấp hiệu gắn cúc cấp hiệu. Cúc cấp hiệu dập nổi hoa văn hình hai bông lúa xung quanh và ngôi sao năm cánh ở giữa.
 
 Điều 25.14.NĐ.6.7. Phù hiệu của Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 22/2024/NĐ-CP có hiệu lực thi hành kể từ ngày 27/02/2024)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820000700
+1. Cành tùng đơn màu vàng
 
-**ID:** dk_00041512
+2. Nền, hình phù hiệu
 
----
+a) Nền phù hiệu hình bình hành; Lục quân mầu đỏ tươi, Bộ đội Biên phòng mầu xanh lá cây, Phòng không - Không quân mầu xanh hòa bình, Hải quân mầu tím than. Nền phù hiệu của cấp tướng có viền mầu vàng rộng 5 mm ở 03 cạnh.
 
+b) Hình phù hiệu có mầu vàng:
 
-### Điều 25.14.NĐ.6.8. Phù hiệu kết hợp cấp hiệu của Quân đội nhân dân Việt Nam
+Binh chủng hợp thành - Bộ binh: Hình thanh kiếm và khẩu súng đặt chéo;
+
+Bộ binh cơ giới: Hình xe bọc thép đặt trên thanh kiếm và khẩu súng đặt chéo;
+
+Đặc công: Hình dao găm đặt trên khối bộc phá, dưới có mũi tên vòng;
+
+Tăng - Thiết giáp: Hình xe tăng nhìn ngang;
+
+Pháo binh: Hình hai nòng súng thần công đặt chéo;
+
+Hóa học: Hình tia phóng xạ trên hình nhân ben-zen;
+
+Công binh: Hình cuốc, xẻng trên nửa bánh xe răng;
+
+Thông tin: Hình sóng điện;
+
+Bộ đội Biên phòng: Hình thanh kiếm và khẩu súng đặt chéo, trên vòng tròn không khép kín, trên hình vòng cung có ký hiệu đường biên giới Quốc gia;
+
+Phòng không - Không quân: Hình sao trên đôi cánh chim;
+
+Bộ đội nhảy dù: Hình máy bay trên dù đang mở;
+
+Tên lửa: Hình tên lửa trên nền mây;
+
+Cao xạ: Hình khẩu pháo cao xạ;
+
+Ra-đa: Hình cánh ra-đa trên bệ;
+
+Hải quân: Hình mỏ neo;
+
+Hải quân đánh bộ: Hình mỏ neo trên thanh kiếm và khẩu súng đặt chéo;
+
+Ngành Hậu cần - Tài chính: Hình thanh kiếm và khẩu súng đặt chéo, dưới có bông lúa;
+
+Quân y, thú y: Hình chữ thập đỏ trong hình tròn;
+
+Ngành Kỹ thuật: Hình com-pa trên chiếc búa;
+
+Lái xe: Hình tay lái trên nhíp xe;
+
+Cơ quan tiến hành tố tụng, kiểm soát quân sự: Hình mộc trên hai thanh kiếm đặt chéo;
+
+Quân nhạc: Hình chiếc kèn và sáo đặt chéo;
+
+Thể dục thể thao: Hình cung tên;
+
+Văn hóa nghệ thuật: Hình biểu tượng âm nhạc và cây đàn.
+
+3. Bộ trưởng Bộ Quốc phòng quy định kiểu mẫu, mầu sắc biển tên, biểu tượng quân chủng, binh chủng, lô gô của các đối tượng trong Quân đội nhân dân Việt Nam.
 
 Điều 25.14.NĐ.6.8. Phù hiệu kết hợp cấp hiệu của Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820000800
+1. Nền phù hiệu hình bình hành; Lục quân mầu đỏ tươi, Bộ đội Biên phòng mầu xanh lá cây, Phòng không - Không quân mầu xanh hòa bình, Hải quân mầu tím than. Nền phù hiệu của cấp tướng có viền mầu vàng rộng 5 mm ở 03 cạnh.
 
-**ID:** dk_00041513
+2. Trên nền phù hiệu:
 
----
+a) Cấp tướng: Gắn hình phù hiệu, sao mầu vàng, riêng cấp tướng binh chủng hợp thành không gắn hình phù hiệu. Số lượng sao:
 
+Thiếu tướng, Chuẩn Đô đốc Hải quân: 01 sao;
 
-### Điều 25.14.NĐ.6.9. Trang phục dự lễ của nam sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan
+Trung tướng, Phó Đô đốc Hải quân: 02 sao;
+
+Thượng tướng, Đô đốc Hải quân: 03 sao;
+
+Đại tướng: 04 sao.
+
+b) Sĩ quan, học viên là sĩ quan, quân nhân chuyên nghiệp: Gắn hình phù hiệu, gạch dọc và sao mầu vàng. Cấp tá 02 gạch dọc, cấp úy 01 gạch dọc. Số lượng sao:
+
+Thiếu úy, Thiếu tá: 01 sao;
+
+Trung úy, Trung tá: 02 sao;
+
+Thượng úy, Thượng tá: 03 sao;
+
+Đại úy, Đại tá: 04 sao.
+
+c) Hạ sĩ quan: Gắn hình phù hiệu, 01 vạch dọc và sao mầu vàng. Số lượng sao:
+
+Thượng sĩ: 03 sao;
+
+Trung sĩ: 02 sao;
+
+Hạ sĩ: 01 sao.
+
+d) Binh sĩ: Gắn hình phù hiệu, sao mầu vàng. Số lượng sao:
+
+Binh nhất: 02 sao;
+
+Binh nhì: 01 sao.
+
+đ) Học viên đào tạo sĩ quan; học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật: Gắn hình phù hiệu, 01 vạch dọc mầu vàng ở giữa. Vạch dọc của Học viên đào tạo sĩ quan rộng 5 mm, của học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật rộng 3 mm.
 
 Điều 25.14.NĐ.6.9. Trang phục dự lễ của nam sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 22/2024/NĐ-CP có hiệu lực thi hành kể từ ngày 27/02/2024)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820000900
+1. Mũ kê pi
 
-**ID:** dk_00041514
+a) Kiểu mẫu: Mũ có đỉnh hình ô van; cúc chốt mũ của cấp tướng, chuẩn đô đốc, phó đô đốc, đô đốc Hải quân dập nổi hình Quốc huy, của cấp tá, cấp úy dập nổi hình ngôi sao năm cánh; ở giữa thành trán mũ phía trước có tán ô dê để đeo quân hiệu; phía trước trên lưỡi trai có dây coóc đông, phía dưới lưỡi trai có hình hai bông lúa.
 
----
+b) Màu sắc
 
+Lục quân: Đỉnh mũ màu olive sẫm, thành mũ màu đỏ;
 
-### Điều 25.14.NĐ.6.10. Trang phục dự lễ của nữ sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan
+Bộ đội Biên phòng: Đỉnh mũ màu olive sẫm, thành mũ màu xanh lá cây;
+
+Phòng không - Không quân: Đỉnh mũ màu xanh đậm, thành mũ màu xanh hòa bình;
+
+Hải quân: Đỉnh mũ màu trắng, thành mũ màu tím than.
+
+2. Quần, áo khoác
+
+a) Kiểu mẫu
+
+Áo khoác: Kiểu dài tay, ve chữ V; thân trước có 04 túi chìm, nắp túi cài cúc; thân sau có sống sau xẻ dưới; vai áo có dây vai đeo cấp hiệu; phía trên tay áo bên trái gắn lô gô; phía dưới hai bên tay áo có viền bác tay (cấp tướng hình cành tùng; cấp tá, cấp úy hình bông lúa).
+
+Quần: Kiểu quần âu dài, có 02 túi chéo, cửa quần mở suốt kéo khóa phéc-mơ-tuya.
+
+b) Màu sắc: Lục quân và Bộ đội Biên phòng màu olive sẫm; Phòng không - Không quân màu xanh đậm; Hải quân màu trắng.
+
+3. Áo sơ mi mặc trong: Kiểu áo buông, dài tay, cổ đứng, màu trắng.
+
+4. Caravat: Kiểu thắt sẵn; Lục quân và Bộ đội Biên phòng màu olive sẫm, Phòng không - Không quân màu xanh đậm, Hải quân màu tím than.
+
+5. Dây lưng
+
+Cốt dây bằng da; cấp tướng, chuẩn đô đốc, phó đô đốc, đô đốc Hải quân may ốp hai lớp da; cấp tá, cấp úy bằng da một mặt nhẵn; Lục quân và Bộ đội Biên phòng màu nâu, Phòng không - Không quân và Hải quân màu đen.
+
+Khóa dây lưng bằng kim loại màu vàng có dập nổi ngôi sao năm cánh nội tiếp trong vòng tròn.
+
+6. Giày da
+
+a) Kiểu mẫu: Cấp tướng, chuẩn đô đốc, phó đô đốc, đô đốc Hải quân kiểu giày mũi trơn, cột dây cố định; cấp tá kiểu mũi có vân ngang, cột dây cố định; cấp úy kiểu mũi có vân ngang, buộc dây.
+
+b) Màu sắc: Lục quân, Bộ đội Biên phòng, Phòng không - Không quân màu đen; Hải quân màu trắng.
+
+7. Bít tất: Kiểu dệt ống; Lục quân và Bộ đội Biên phòng màu olive sẫm, Phòng không - Không quân màu xanh đậm, Hải quân màu trắng
+
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.6.11. Trang phục dự lễ hai hàng cúc của sĩ quan Hải quân; Điều 25.14.NĐ.6.12. Trang phục dự lễ mùa hè của nam sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan của của Nghị định 82/2016/NĐ-CP Quy đinh quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam ban hành ngày 01/07/2016; Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh của )
 
 Điều 25.14.NĐ.6.10. Trang phục dự lễ của nữ sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 22/2024/NĐ-CP có hiệu lực thi hành kể từ ngày 27/02/2024)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820001000
+1. Mũ kê pi
 
-**ID:** dk_00041515
+a) Kiểu mẫu: Mũ có đỉnh hình ô van; cúc chốt mũ của cấp tướng dập nổi hình Quốc huy, của cấp tá, cấp úy dập nổi hình ngôi sao năm cánh; ở giữa thành trán mũ phía trước có tán ô dê để đeo quân hiệu; phía trước trên lưỡi trai có dây coóc đông, phía dưới lưỡi trai có hình hai bông lúa.
 
----
+b) Màu sắc
 
+Lục quân: Đỉnh mũ màu olive sẫm, thành mũ màu đỏ;
 
-### Điều 25.14.NĐ.6.14. Trang phục dự lễ của công nhân và viên chức quốc phòng
+Bộ đội Biên phòng: Đỉnh mũ màu olive sẫm, thành mũ màu xanh lá cây;
+
+Phòng không - Không quân: Đỉnh mũ màu xanh đậm, thành mũ màu xanh hòa bình;
+
+Hải quân: Đỉnh mũ màu trắng, thành mũ màu tím than.
+
+2. Quần, áo khoác
+
+a) Kiểu mẫu
+
+Áo khoác: Kiểu dài tay, ve chữ V; phía dưới thân trước có 02 túi chìm, nắp túi cài cúc; thân sau có sống sau xẻ dưới; vai áo có dây vai đeo cấp hiệu; phía trên tay áo bên trái gắn lô gô; phía dưới hai bên tay áo có viền bác tay (cấp tướng hình cành tùng; cấp tá, cấp úy hình bông lúa).
+
+Quần: Kiểu quần âu dài, có 02 túi dọc, cửa quần mở suốt kéo khóa phéc-mơ-tuya.
+
+b) Màu sắc: Lục quân và Bộ đội Biên phòng màu olive sẫm; Phòng không - Không quân màu xanh đậm; Hải quân màu trắng.
+
+3. Áo sơ mi mặc trong: Kiểu áo buông, dài tay, chiết eo, cổ đứng, màu trắng.
+
+4. Caravat: Kiểu thắt sẵn; Lục quân và Bộ đội Biên phòng màu olive sẫm, Phòng không - Không quân màu xanh đậm, Hải quân màu tím than.
+
+5. Giày da: Kiểu mũi vuông trơn, gót cao, nẹp ô dê luồn dây trang trí; Lục quân, Bộ đội Biên phòng, Phòng không - Không quân màu đen; Hải quân màu trắng.
+
+6. Bít tất: Kiểu dệt ống; Lục quân và Bộ đội Biên phòng màu olive sẫm, Phòng không - Không quân màu xanh đậm, Hải quân màu trắng
+
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.6.13. Trang phục dự lễ mùa hè của nữ sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan của của Nghị định 82/2016/NĐ-CP Quy đinh quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam ban hành ngày 01/07/2016; Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh của )
 
 Điều 25.14.NĐ.6.14. Trang phục dự lễ của công nhân và viên chức quốc phòng
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820001400
+1. Nam mặc com-lê, nữ mặc áo dài truyền thống phụ nữ Việt Nam, đi giầy da, bít tất.
 
-**ID:** dk_00041516
+2. Bộ trưởng Bộ Quốc phòng quy định chi Tiết về các mặt hàng, kiểu mẫu, mầu sắc trang phục dự lễ của công nhân và viên chức quốc phòng.
 
----
-
-
-### Điều 25.14.NĐ.6.15. Trang phục dự lễ của hạ sĩ quan - binh sĩ, học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật; trang phục thường dùng, trang phục dã chiến, trang phục nghiệp vụ, trang phục công tác; mũ và áo chống rét của Quân đội nhân dân Việt Nam
+(Điều này có nội dung liên quan đến Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh)
 
 Điều 25.14.NĐ.6.15. Trang phục dự lễ của hạ sĩ quan - binh sĩ, học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật; trang phục thường dùng, trang phục dã chiến, trang phục nghiệp vụ, trang phục công tác; mũ và áo chống rét của Quân đội nhân dân Việt Nam
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 82/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000402587000820001500
+1. Trang phục dự lễ của hạ sĩ quan - binh sĩ, học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật gồm trang phục dự lễ mùa đông và trang phục dự lễ mùa hè; bao gồm: Mũ, quần, áo, dây lưng, giầy, bít tất; mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
-**ID:** dk_00041517
+2. Trang phục thường dùng của sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan, nữ hạ sĩ quan - binh sĩ, công nhân và viên chức quốc phòng gồm trang phục thường dùng mùa đông và trang phục thường dùng mùa hè:
 
----
+a) Trang phục thường dùng mùa đông bao gồm: Mũ, quần, áo khoác, áo sơ mi mặc trong, caravat, dây lưng, giầy, bít tất; mầu sắc trang phục quy định theo từng quân chủng, binh chủng;
 
+b) Trang phục thường dùng mùa hè bao gồm: Mũ, quần, áo, dây lưng, giầy, bít tất; mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
-### Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ
+3. Trang phục thường dùng của nam hạ sĩ quan - binh sĩ; nam học viên chưa phải là sĩ quan, quân nhân chuyên nghiệp, nam học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật: Sử dụng một loại trang phục dùng chung cho mùa đông và mùa hè, bao gồm: Mũ, quần, áo, dây lưng, giầy, bít tất; mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
-*Nội dung chưa có sẵn*
+4. Trang phục dã chiến của sĩ quan, quân nhân chuyên nghiệp, học viên đào tạo sĩ quan và hạ sĩ quan - binh sĩ bao gồm: Mũ huấn luyện, chiến đấu, mũ mềm dã chiến, quần áo dã chiến, ghệt dã chiến, dây lưng dã chiến; mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
-**Chỉ mục:** 2
+5. Trang phục nghiệp vụ của các lực lượng làm nhiệm vụ Nghi lễ, Kiểm soát quân sự, Tòa án quân sự, Vệ binh, Biên phòng cửa khẩu, Tuần tra song phương, Thông tin đường dây, Công tác tàu, Công tác tàu ngầm, Phi công quân sự, Đặc công nước, Chống khủng bố, Tìm kiếm cứu hộ cứu nạn và các lực lượng quân chủng, binh chủng làm nhiệm vụ đặc thù gồm hai loại trang phục nghiệp vụ mùa đông và mùa hè, bao gồm: Mũ, quần áo, giầy hoặc ghệt, găng tay, dây lưng, dây chiến thắng; mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000200
+6. Trang phục công tác các ngành, nghề chuyên môn trong Quân đội nhân dân Việt Nam, khi thực hiện nhiệm vụ đặc thù, bao gồm: Mũ, quần, áo, giầy hoặc ghệt; mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
-**ID:** dk_00041518
+7. Các đối tượng trong Quân đội nhân dân Việt Nam được cấp mũ, áo chống rét; sĩ quan và quân nhân chuyên nghiệp thêm áo khoác quân sự; hạ sĩ quan - binh sĩ nam làm nhiệm vụ canh gác thêm áo khoác gác. Mầu sắc trang phục quy định theo từng quân chủng, binh chủng.
 
----
+8. Bộ trưởng Bộ Quốc phòng quy định kiểu mẫu, mầu sắc các loại trang phục quy định tại Điều này.
 
+(Điều này có nội dung liên quan đến Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh)
 
-### Điều 25.14.TL.3.3. Chế độ trợ cấp một lần do nghỉ hưu trước hạn tuổi
+Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ
+
+(Điều 2 Thông tư liên tịch số 36/2009/TTLT-BQP-BNV-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 04/09/2009)
+
+ 1. Tiền lương để tính hưởng chế độ 
+
+ a) Tiền lương tháng để tính hưởng chế độ trợ cấp một lần quy định tại điểm b khoản 2 Điều 2 Nghị định số 21/2009/NĐ-CP và hướng dẫn tại khoản 3 Điều 3 Mục 1 Chương II Thông tư này được tính bằng bình quân tiền lương tháng đóng bảo hiểm xã hội của 5 năm cuối (60 tháng) trước khi sĩ quan, QNCN nghỉ hưu. Khi tính bình quân tiền lương tháng, được chuyển đổi theo chế độ tiền lương quy định tại thời điểm sĩ quan, QNCN hưởng chế độ hưu trí. 
+
+ b) Tiền lương tháng để tính chế độ trợ cấp một lần quy định tại điểm b khoản 1 Điều 5; Điều 7; khoản 2 Điều 9 Nghị định số 21/2009/NĐ-CP và hướng dẫn tại điểm b khoản 2 Điều 8 Mục 3 Chương II; điểm b khoản 1, điểm b khoản 2 Điều 10 Mục 4 Chương II và khoản 3 Điều 12 Mục 6 Chương II Thông tư này là tiền lương tháng đóng bảo hiểm xã hội của tháng liền kề trước thời điểm sĩ quan, QNCN nghỉ hưu, phục viên, chuyển ngành, nghỉ theo chế độ bệnh binh, hy sinh, từ trần hoặc chuyển sang CCQP. 
+
+ c) Tiền lương tháng để tính chế độ trợ cấp một lần nêu tại điểm a, điểm b khoản này bao gồm: tiền lương theo cấp bậc quân hàm đối với sĩ quan, loại, nhóm, bậc đối với QNCN và các khoản phụ cấp chức vụ lãnh đạo, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề và mức chênh lệch bảo lưu (nếu có). 
+
+ 2. Thời gian công tác để tính hưởng chế độ
+
+ a) Thời gian công tác để tính hưởng chế độ trợ cấp một lần quy định tại điểm b khoản 2 Điều 2; điểm b khoản 1 Điều 5; Điều 7 Nghị định số 21/2009/NĐ-CP và hướng dẫn tại điểm b khoản 3 Điều 3 Mục 1 Chương II, điểm b khoản 2 Điều 8 Mục 3 Chương II và điểm b khoản 1, điểm b khoản 2 Điều 10 Mục 4 Chương II Thông tư này là tổng thời gian công tác trong quân đội (bao gồm thời gian là sĩ quan, QNCN, hạ sĩ quan, binh sĩ và công nhân viên chức quốc phòng) và thời gian công tác tại các cơ quan đơn vị hưởng lương từ ngân sách nhà nước có đóng bảo hiểm xã hội trước khi vào phục vụ trong quân đội. 
+
+ b) Thời gian công tác để tính quy đổi quy định tại khoản 1 Điều 9 Nghị định số 21/2009/NĐ-CP và hướng dẫn tại khoản 1, khoản 2 Điều 12 Mục 6 Chương II Thông tư này để hưởng chế độ trợ cấp một lần là tổng thời gian công tác trong quân đội được tính thâm niên nghề (gồm thời gian là sĩ quan, QNCN, hạ sĩ quan, binh sĩ), có tham gia trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn, ngành nghề có tính chất đặc thù quân sự. 
+
+ c) Thời gian công tác nêu tại điểm a, điểm b khoản này nếu đứt quãng mà chưa hưởng trợ cấp một lần (phục viên, xuất ngũ, thôi việc) thì được cộng dồn. 
+
+ Tuổi quân làm cơ sở tính thâm niên nghề đối với sĩ quan, QNCN được thực hiện theo Quyết định số 3156/2000/QĐ-BQP ngày 28 tháng 12 năm 2000 của Bộ trưởng Bộ Quốc phòng ban hành quy định tính tuổi quân trong Quân đội nhân dân Việt Nam. 
+
+ 3. Trường hợp thời gian công tác, thời gian tăng thêm do quy đổi và thời gian nghỉ hưu trước hạn tuổi có tháng lẻ thì được tính theo nguyên tắc: dưới 3 tháng không tính, từ đủ 3 tháng đến đủ 6 tháng được tính là 1/2 năm, từ trên 6 tháng đến dưới 12 tháng được tính tròn là 1 năm. (Điều này có nội dung liên quan đến Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu; Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên; Điều 25.14.NĐ.5.7. Chế độ, chính sách đối với sĩ quan tại ngũ hy sinh, từ trần; Điều 25.14.NĐ.5.9. Chế độ trợ cấp một lần đối với sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề có tính chất đặc thù khi thôi phục vụ tại ngũ; Điều 25.14.TL.3.3. Chế độ trợ cấp một lần do nghỉ hưu trước hạn tuổi; Điều 25.14.TL.3.8. Phục viên về địa phương; Điều 25.14.TL.3.10. Chế độ, chính sách được hưởng; Điều 25.14.TL.3.12. Điều kiện, mức quy đổi, cách tính quy đổi và chế độ được hưởng)
 
 Điều 25.14.TL.3.3. Chế độ trợ cấp một lần do nghỉ hưu trước hạn tuổi
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư liên tịch số 36/2009/TTLT-BQP-BNV-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 04/09/2009)
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000300
+ Chế độ trợ cấp một lần đối với sĩ quan, QNCN nghỉ hưu trước hạn tuổi cao nhất theo cấp bậc quân hàm quy định tại khoản 2 Điều 2 Nghị định số 21/2009/NĐ-CP được thực hiện như sau: 
 
-**ID:** dk_00041519
+ 1. Sĩ quan, QNCN đủ điều kiện nghỉ hưu trước hạn tuổi cao nhất theo cấp bậc quân hàm, được hưởng chế độ trợ cấp thuộc một trong các trường hợp sau: 
 
----
+ a) Thuộc diện dôi dư do thay đổi tổ chức, biên chế theo quyết định của cấp có thẩm quyền; 
 
+ b) Hết hạn tuổi cao nhất giữ chức vụ chỉ huy, quản lý đơn vị quy định tại khoản 3 Điều 13 Luật Sĩ quan Quân đội nhân dân Việt Nam mà quân đội không còn nhu cầu bố trí, sử dụng.
 
-### Điều 25.14.TL.3.4. Chuyển ngành được tuyển dụng vào làm việc tại các cơ quan, đơn vị hưởng lương từ ngân sách nhà nước
+ 2. Hạn tuổi để tính hưởng chế độ trợ cấp khi sĩ quan nghỉ hưu trước hạn tuổi cao nhất theo cấp bậc quân hàm quy định tại khoản 1 Điều 13 Luật Sĩ quan Quân đội nhân dân Việt Nam và QNCN nghỉ hưu trước hạn tuổi được xác định tương ứng như sĩ quan có cùng cấp bậc quân hàm, nhưng hạn tuổi cao nhất thực hiện theo quy định tại Điều 7 Nghị định số 18/2007/NĐ-CP ngày 01 tháng 02 năm 2007 của Chính phủ về quân nhân chuyên nghiệp, cụ thể như sau: 
+
+ a) Hạn tuổi cao nhất của sĩ quan phục vụ tại ngũ theo cấp bậc quân hàm là: 
+
+ Cấp uý: nam 46, nữ 46; 
+
+ Thiếu tá: nam 48, nữ 48;
+
+ Trung tá: nam 51, nữ 51;
+
+ Thượng tá: nam 54, nữ 54;
+
+ Đại tá: nam 57, nữ 55;
+
+ Cấp tướng: nam 60, nữ 55.
+
+ b) Hạn tuổi của QNCN phục vụ tại ngũ được hưởng chế độ ứng với cấp bậc quân hàm là: 
+
+ Cấp uý: nam 46, nữ 46;
+
+ Thiếu tá: nam 48, nữ 48;
+
+ Trung tá, Thượng tá: nam 50, nữ 50.
+
+ c) Tuổi để xác định sĩ quan, QNCN nghỉ hưu trước tuổi so với hạn tuổi cao nhất theo cấp bậc quân hàm khi phục vụ tại ngũ phải trước hạn tuổi cao nhất theo quy định tại điểm a, điểm b khoản này ít nhất là một năm (đủ 12 tháng), được tính từ tháng sinh đến tháng liền kề trước khi sĩ quan, QNCN nghỉ hưởng lương hưu hàng tháng. 
+
+ Đối với các trường hợp do hoàn cảnh đặc biệt, trong các loại hồ sơ không xác định được ngày, tháng sinh mà chỉ xác định được năm sinh thì lấy ngày 01 tháng 7, năm sinh của đối tượng để làm căn cứ tính tuổi nghỉ hưu. 
+
+ Ví dụ 1: Đồng chí Nguyễn Viết Khoa, trung tá, sinh tháng 6/1959, nhập ngũ tháng 6/1977. Theo quy định hiện hành thì đến ngày 01/7/2010 (đủ 51 tuổi) đồng chí Khoa hết hạn tuổi phục vụ tại ngũ nhưng do thay đổi tổ chức biên chế, quân đội không còn nhu cầu bố trí, sử dụng, được cấp có thẩm quyền quyết định nghỉ hưu trước hạn tuổi, được hưởng lương hưu hàng tháng kể từ ngày 01/7/2009 (đủ 50 tuổi) Đồng chí Khoa được hưởng trợ cấp một lần do nghỉ hưu trước hạn tuổi cao nhất của cấp bậc quân hàm trung tá (vì đồng chí Khoa nghỉ hưu trước hạn tuổi cao nhất là 12 tháng). 
+
+ d) Cấp bậc quân hàm để xác định hạn tuổi cao nhất tương ứng theo hướng dẫn tại điểm a, điểm b khoản này là cấp bậc quân hàm tại thời điểm có quyết định về việc nghỉ hưu của cấp có thẩm quyền. 
+
+ Ví dụ 2: Đồng chí Phan Thị Bình QNCN, sinh tháng 3/1963, do thay đổi tổ chức biên chế, quân đội không còn nhu cầu bố trí, sử dụng, được cấp có thẩm quyền quyết định về việc nghỉ hưu từ ngày 01/8/2008, cấp bậc quân hàm thiếu tá QNCN; ngày 01/8/2009 có quyết định nghỉ hưởng lương hưu hàng tháng (46 tuổi 4 tháng), cấp bậc quân hàm trung tá QNCN. Theo quy định, đồng chí Bình thuộc đối tượng nghỉ hưu trước hạn tuổi cao nhất, được xác định theo cấp bậc quân hàm thiếu tá QNCN là: 
+
+ 48 tuổi - 46 tuổi 4 tháng = 1 năm 8 tháng
+
+ 3. Ngoài chế độ bảo hiểm xã hội và chế độ ưu đãi người có công với cách mạng (nếu có) được hưởng theo quy định của pháp luật hiện hành, khi nghỉ hưu trước hạn tuổi cao nhất, sĩ quan, QNCN còn được hưởng các khoản trợ cấp sau: 
+
+ a) Được trợ cấp bằng 3 tháng tiền lương bình quân cho mỗi năm (đủ 12 tháng) nghỉ hưu trước tuổi. 
+
+ Tiền trợ cấp cho số năm nghỉ hưu trước hạn tuổi tính theo công thức sau: 
+
+ Tiền trợ cấp tính cho thời gian nghỉ hưu trước tuổi quy định
+
+ =
+
+ Số năm được trợ cấp (tính theo thời gian nghỉ hưu trước hạn tuổi quy định)
+
+ x 3 tháng x
+
+ Tiền lương tháng bình quân
+
+## Danh sách điều khoản
+
+### 25014000000000001000
+
+Chương I NHỮNG QUY ĐỊNH CHUNG
+
+### 2501400000000000100000100000000000000000
+
+Điều 25.14.LQ.1. Sĩ quan Quân đội nhân dân Việt Nam
+
+### 2501400000000000100000200000000000000000
+
+Điều 25.14.LQ.2. Vị trí, chức năng của sĩ quan
+
+### 2501400000000000100000300000000000000000
+
+Điều 25.14.LQ.3. Lãnh đạo, chỉ huy, quản lý sĩ quan
+
+### 2501400000000000100000400000000000000000
+
+Điều 25.14.LQ.4. Điều kiện tuyển chọn đào tạo sĩ quan
+
+### 2501400000000000100000500000000000000000
+
+Điều 25.14.LQ.5. Nguồn bổ sung sĩ quan tại ngũ
+
+### 2501400000000000100000600000000000000000
+
+Điều 25.14.LQ.6. Quyền, nghĩa vụ và trách nhiệm của sĩ quan
+
+### 2501400000000000100000700000000000000000
+
+Điều 25.14.LQ.7. Giải thích từ ngữ
+
+### 2501400000000000100000740258700082000030
+
+Điều 25.14.NĐ.6.3. Giải thích từ ngữ
+
+### 2501400000000000100000780276190037000030
+
+Điều 25.14.TT.4.3. Giải thích từ ngữ
+
+### 2501400000000000100000800000000000000000
+
+Điều 25.14.LQ.8. Ngạch sĩ quan
+
+### 2501400000000000100000900000000000000000
+
+Điều 25.14.LQ.9. Nhóm ngành sĩ quan
+
+### 250140000000000010000090000000000000000000802124602660000100
+
+Điều 25.14.QĐ.1.1. Ban hành “Danh mục hệ thống các ngành thuộc các nhóm ngành sĩ quan Quân đội nhân dân Việt Nam”.
+
+### 2501400000000000100001000000000000000000
+
+Điều 25.14.LQ.10. Hệ thống cấp bậc quân hàm sĩ quan
+
+### 2501400000000000100001100000000000000000
+
+Điều 25.14.LQ.11. Chức vụ của sĩ quan
+
+### 2501400000000000100001200000000000000000
+
+Điều 25.14.LQ.12. Tiêu chuẩn của sĩ quan
+
+### 2501400000000000100001300000000000000000
+
+Điều 25.14.LQ.13. Tuổi phục vụ của sĩ quan
+
+### 2501400000000000100001400000000000000000
+
+Điều 25.14.LQ.14. Trách nhiệm xây dựng đội ngũ sĩ quan
+
+### 2501400000000000100001440206540026000010
+
+Điều 25.14.NĐ.1.1.
+
+### 2501400000000000100001440212950165000010
+
+Điều 25.14.NĐ.2.1. Phạm vi điều chỉnh
+
+### 2501400000000000100001440218270073000010
+
+Điều 25.14.NĐ.3.1. Phạm vi điều chỉnh
+
+### 2501400000000000100001440231850021000010
+
+Điều 25.14.NĐ.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 2501400000000000100001440258700082000010
+
+Điều 25.14.NĐ.6.1. Phạm vi Điều chỉnh
+
+### 2501400000000000100001440258700082000020
+
+Điều 25.14.NĐ.6.2. Đối tượng áp dụng
+
+### 2501400000000000100001480209060170000010
+
+Điều 25.14.TL.1.1. Đối tượng được hưởng chế độ, chính sách
+
+### 2501400000000000100001480233330036000010
+
+Điều 25.14.TL.3.1. Phạm vi và đối tượng áp dụng
+
+### 2501400000000000100001480253850009000010
+
+Điều 25.14.TT.2.1. Phạm vi điều chỉnh
+
+### 2501400000000000100001480253850009000020
+
+Điều 25.14.TT.2.2. Đối tượng áp dụng
+
+### 2501400000000000100001480260490218000010
+
+Điều 25.14.TT.3.1. Phạm vi điều chỉnh
+
+### 2501400000000000100001480260490218000020
+
+Điều 25.14.TT.3.2. Đối tượng áp dụng
+
+### 2501400000000000100001480276190037000010
+
+Điều 25.14.TT.4.1. Phạm vi điều chỉnh
+
+### 2501400000000000100001480276190037000020
+
+Điều 25.14.TT.4.2. Đối tượng áp dụng
+
+### 25014000000000002000
+
+Chương II QUÂN HÀM, CHỨC VỤ SĨ QUAN
+
+### 2501400000000000200001500000000000000000
+
+Điều 25.14.LQ.15. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan
+
+### 2501400000000000200001600000000000000000
+
+Điều 25.14.LQ.16. Đối tượng được phong quân hàm sĩ quan tại ngũ
+
+### 2501400000000000200001700000000000000000
+
+Điều 25.14.LQ.17. Thăng quân hàm đối với sĩ quan tại ngũ
+
+### 2501400000000000200001800000000000000000
+
+Điều 25.14.LQ.18. Thăng quân hàm sĩ quan trước thời hạn
+
+### 2501400000000000200001900000000000000000
+
+Điều 25.14.LQ.19. Kéo dài thời hạn xét thăng quân hàm sĩ quan
+
+### 2501400000000000200002000000000000000000
+
+Điều 25.14.LQ.20. Mức thăng, giáng cấp bậc quân hàm sĩ quan
+
+### 2501400000000000200002100000000000000000
+
+Điều 25.14.LQ.21. Bổ nhiệm, miễn nhiệm chức vụ đối với sĩ quan
+
+### 2501400000000000200002200000000000000000
+
+Điều 25.14.LQ.22. Quan hệ cấp bậc, chức vụ của sĩ quan
+
+### 2501400000000000200002300000000000000000
+
+Điều 25.14.LQ.23. Quyền tạm đình chỉ chức vụ đối với sĩ quan trong trường hợp khẩn cấp
+
+### 2501400000000000200002400000000000000000
+
+Điều 25.14.LQ.24. Biệt phái sĩ quan
+
+### 250140000000000020000240000000000000000000402129501650000200
+
+Điều 25.14.NĐ.2.2. Sĩ quan biệt phái
+
+### 250140000000000020000240000000000000000000402129501650000300
+
+Điều 25.14.NĐ.2.3. Phạm vi biệt phái sĩ quan
+
+### 250140000000000020000240000000000000000000402129501650000400
+
+Điều 25.14.NĐ.2.4. Tiêu chuẩn sĩ quan biệt phái
+
+### 250140000000000020000240000000000000000000402129501650000500
+
+Điều 25.14.NĐ.2.5. Thời hạn biệt phái
+
+### 250140000000000020000240000000000000000000402129501650000600
+
+Điều 25.14.NĐ.2.6. Quyết định biệt phái sĩ quan
+
+### 250140000000000020000240000000000000000000402129501650000700
+
+Điều 25.14.NĐ.2.7. Điều động sĩ quan biệt phái
+
+### 250140000000000020000240000000000000000000402129501650000800
+
+Điều 25.14.NĐ.2.8. Tiếp nhận sĩ quan biệt phái
+
+### 2501400000000000200002500000000000000000
+
+Điều 25.14.LQ.25. Thẩm quyền quyết định đối với sĩ quan
+
+### 2501400000000000200002510000000000000000
+
+Điều 25.14.LQ.25a. Trình tự, thủ tục phong, thăng, giáng, tước quân hàm đối với sĩ quan
+
+### 25014000000000003000
+
+Chương III NGHĨA VỤ,TRÁCH NHIỆM VÀ QUYỀN LỢI CỦA SĨ QUAN
+
+### 2501400000000000300002600000000000000000
+
+Điều 25.14.LQ.26. Nghĩa vụ của sĩ quan
+
+### 2501400000000000300002700000000000000000
+
+Điều 25.14.LQ.27. Trách nhiệm của sĩ quan
+
+### 2501400000000000300002800000000000000000
+
+Điều 25.14.LQ.28. Những việc sĩ quan không được làm
+
+### 2501400000000000300002900000000000000000
+
+Điều 25.14.LQ.29. Nghĩa vụ, trách nhiệm và quyền lợi của sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000402129501650000900
+
+Điều 25.14.NĐ.2.9. Nghĩa vụ, trách nhiệm của sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000402129501650001000
+
+Điều 25.14.NĐ.2.10. Nhiệm vụ của sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000402129501650001100
+
+Điều 25.14.NĐ.2.11. Quyền lợi của sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000402129501650001200
+
+Điều 25.14.NĐ.2.12. Quản lý, sử dụng
+
+### 250140000000000030000290000000000000000000402129501650001300
+
+Điều 25.14.NĐ.2.13. Bổ nhiệm, miễn nhiệm chức vụ lãnh đạo, quản lý
+
+### 250140000000000030000290000000000000000000402129501650001400
+
+Điều 25.14.NĐ.2.14. Thăng quân hàm, nâng lương
+
+### 250140000000000030000290000000000000000000402129501650001500
+
+Điều 25.14.NĐ.2.15. Bảo đảm chế độ, chính sách đối với sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000802538500090000300
+
+Điều 25.14.TT.2.3. Nguyên tắc thực hiện chế độ phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000802538500090000400
+
+Điều 25.14.TT.2.4. Hồ sơ, trình tự thực hiện, mức hưởng và cách tính trả phụ cấp chức vụ lãnh đạo đối với sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000802538500090000500
+
+Điều 25.14.TT.2.5. Bảo đảm kinh phí thực hiện chế độ, chính sách đối với sĩ quan biệt phái
+
+### 250140000000000030000290000000000000000000802538500090000600
+
+Điều 25.14.TT.2.6. Nguồn kinh phí thực hiện
+
+### 2501400000000000300003000000000000000000
+
+Điều 25.14.LQ.30. Đào tạo, bồi dưỡng đối với sĩ quan
+
+### 250140000000000030000300000000000000000000402182700730000200
+
+Điều 25.14.NĐ.3.2. Đối tượng đào tạo
+
+### 250140000000000030000300000000000000000000402182700730000300
+
+Điều 25.14.NĐ.3.3. Trình độ đào tạo và phương thức đào tạo
+
+### 250140000000000030000300000000000000000000402182700730000400
+
+Điều 25.14.NĐ.3.4. Kinh phí đào tạo
+
+### 250140000000000030000300000000000000000000402182700730000500
+
+Điều 25.14.NĐ.3.5. Chế độ, chính sách và trách nhiệm của học viên quân đội
+
+### 250140000000000030000300000000000000000000402182700730000600
+
+Điều 25.14.NĐ.3.6. Công tác quản lý học viên quân đội
+
+### 2501400000000000300003100000000000000000
+
+Điều 25.14.LQ.31. Tiền lương, phụ cấp, nhà ở và điều kiện làm việc đối với sĩ quan tại ngũ
+
+### 250140000000000030000310000000000000000000402311901300000100
+
+Điều 25.14.NĐ.4.1. Giấy chứng minh sĩ quan Quân đội nhân dân Việt Nam
+
+### 25014000000000003000031000000000000000000040231190130000010000802604902180000300
+
+Điều 25.14.TT.3.3. Mục đích, nguyên tắc cấp, sử dụng Chứng minh và Thẻ
+
+### 25014000000000003000031000000000000000000040231190130000010000802604902180000400
+
+Điều 25.14.TT.3.4. Kỹ thuật thu thập thông tin
+
+### 25014000000000003000031000000000000000000040231190130000010000802604902180000900
+
+Điều 25.14.TT.3.9. Ngân sách bảo đảm việc cấp Chứng minh và Thẻ
+
+### 25014000000000003000031000000000000000000040231190130000010000802604902180001200
+
+Điều 25.14.TT.3.12. Thẩm quyền cấp Chứng minh và Thẻ
+
+### 250140000000000030000310000000000000000000402311901300000200
+
+Điều 25.14.NĐ.4.2. Đối tượng được cấp Giấy chứng minh sĩ quan
+
+### 250140000000000030000310000000000000000000402311901300000300
+
+Điều 25.14.NĐ.4.3. Cấp lại, đổi, thu hồi Giấy chứng minh sĩ quan
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180001000
+
+Điều 25.14.TT.3.10. Thu hồi Chứng minh và Thẻ
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180001500
+
+Điều 25.14.TT.3.15. Cấp lần đầu, cấp đổi, cấp lại
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180001600
+
+Điều 25.14.TT.3.16. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180001900
+
+Điều 25.14.TT.3.19. Cấp lần đầu, cấp đổi, cấp lại
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180002000
+
+Điều 25.14.TT.3.20. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180002300
+
+Điều 25.14.TT.3.23. Cấp lần đầu, cấp đổi, cấp lại
+
+### 25014000000000003000031000000000000000000040231190130000030000802604902180002400
+
+Điều 25.14.TT.3.24. Trình tự, thủ tục cấp lần đầu, cấp đổi, cấp lại
+
+### 250140000000000030000310000000000000000000402311901300000400
+
+Điều 25.14.NĐ.4.4. Mẫu Giấy chứng minh sĩ quan
+
+### 25014000000000003000031000000000000000000040231190130000040000802604902180000500
+
+Điều 25.14.TT.3.5. Thể thức ký, đóng dấu
+
+### 25014000000000003000031000000000000000000040231190130000040000802604902180000600
+
+Điều 25.14.TT.3.6. Quy cách phôi mẫu, cơ sở vật chất cấp Chứng minh và Thẻ
+
+### 25014000000000003000031000000000000000000040231190130000040000802604902180001700
+
+Điều 25.14.TT.3.17. Thông tin trên Giấy chứng minh sĩ quan; Thẻ sĩ quan dự bị
+
+### 25014000000000003000031000000000000000000040231190130000040000802604902180002100
+
+Điều 25.14.TT.3.21. Thông tin trên Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; Thẻ hạ sĩ quan, binh sĩ tại ngũ
+
+### 25014000000000003000031000000000000000000040231190130000040000802604902180002500
+
+Điều 25.14.TT.3.25. Thông tin trên Thẻ quân nhân chuyên nghiệp và hạ sĩ quan, binh sĩ dự bị
+
+### 250140000000000030000310000000000000000000402311901300000500
+
+Điều 25.14.NĐ.4.5. Sử dụng và quản lý Giấy chứng minh sĩ quan
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180000700
+
+Điều 25.14.TT.3.7. Xây dựng cơ sở dữ liệu
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180000800
+
+Điều 25.14.TT.3.8. Quản lý dữ liệu, phôi mẫu, màng nhựa
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180001100
+
+Điều 25.14.TT.3.11. Tạm giữ Chứng minh
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180001300
+
+Điều 25.14.TT.3.13. Các hành vi bị nghiêm cấm
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180001400
+
+Điều 25.14.TT.3.14. Thời hạn sử dụng
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180001800
+
+Điều 25.14.TT.3.18. Thời hạn sử dụng
+
+### 25014000000000003000031000000000000000000040231190130000050000802604902180002200
+
+Điều 25.14.TT.3.22. Thời hạn sử dụng
+
+### 250140000000000030000310000000000000000000402311901300000600
+
+Điều 25.14.NĐ.4.6. Trách nhiệm của các cơ quan, tổ chức và cá nhân trong việc quản lý Giấy chứng minh sĩ quan
+
+### 25014000000000003000031000000000000000000040231190130000060000802604902180002600
+
+Điều 25.14.TT.3.26. Trách nhiệm của cơ quan, đơn vị, tổ chức và cá nhân
+
+### 2501400000000000300003200000000000000000
+
+Điều 25.14.LQ.32. Chế độ nghỉ của sĩ quan tại ngũ
+
+### 2501400000000000300003300000000000000000
+
+Điều 25.14.LQ.33. Chăm sóc sức khoẻ sĩ quan tại ngũ và gia đình sĩ quan
+
+### 250140000000000030000330000000000000000000802761900370000400
+
+Điều 25.14.TT.4.4. Phân loại sức khỏe
+
+### 250140000000000030000330000000000000000000802761900370000500
+
+Điều 25.14.TT.4.5. Phân loại sức khỏe đối với sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng
+
+### 250140000000000030000330000000000000000000802761900370000600
+
+Điều 25.14.TT.4.6. Phân loại sức khỏe đối với hạ sĩ quan, binh sĩ
+
+### 250140000000000030000330000000000000000000802761900370000700
+
+Điều 25.14.TT.4.7. Phân cấp nhiệm vụ quản lý sức khỏe
+
+### 250140000000000030000330000000000000000000802761900370000800
+
+Điều 25.14.TT.4.8. Hội đồng khám sức khỏe
+
+### 250140000000000030000330000000000000000000802761900370000900
+
+Điều 25.14.TT.4.9. Điều kiện cơ sở vật chất, trang thiết bị khám sức khỏe định kỳ
+
+### 250140000000000030000330000000000000000000802761900370001000
+
+Điều 25.14.TT.4.10. Nội dung khám sức khỏe định kỳ
+
+### 250140000000000030000330000000000000000000802761900370001100
+
+Điều 25.14.TT.4.11. Tổ chức thực hiện khám sức khỏe định kỳ
+
+### 250140000000000030000330000000000000000000802761900370001200
+
+Điều 25.14.TT.4.12. Kết luận khám sức khỏe định kỳ
+
+### 250140000000000030000330000000000000000000802761900370001300
+
+Điều 25.14.TT.4.13. Kinh phí bảo đảm khám sức khỏe định kỳ
+
+### 250140000000000030000330000000000000000000802761900370001400
+
+Điều 25.14.TT.4.14. Sử dụng kết luận khám sức khỏe định kỳ
+
+### 250140000000000030000330000000000000000000802761900370001500
+
+Điều 25.14.TT.4.15. Khám sức khỏe theo yêu cầu nhiệm vụ
+
+### 250140000000000030000330000000000000000000802761900370001600
+
+Điều 25.14.TT.4.16. Tổng cục Hậu cần
+
+### 250140000000000030000330000000000000000000802761900370001700
+
+Điều 25.14.TT.4.17. Bộ Tổng Tham mưu, Tổng cục Chính trị
+
+### 250140000000000030000330000000000000000000802761900370001800
+
+Điều 25.14.TT.4.18. Cục Tài chính/BQP
+
+### 250140000000000030000330000000000000000000802761900370001900
+
+Điều 25.14.TT.4.19. Quân y các cấp
+
+### 250140000000000030000330000000000000000000802761900370002000
+
+Điều 25.14.TT.4.20. Chỉ huy đơn vị và cá nhân được khám sức khỏe
+
+### 2501400000000000300003400000000000000000
+
+Điều 25.14.LQ.34. Sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp, công chức quốc phòng
+
+### 2501400000000000300003500000000000000000
+
+Điều 25.14.LQ.35. Sĩ quan thôi phục vụ tại ngũ
+
+### 2501400000000000300003600000000000000000
+
+Điều 25.14.LQ.36. Điều kiện nghỉ hưu của sĩ quan
+
+### 2501400000000000300003700000000000000000
+
+Điều 25.14.LQ.37. Quyền lợi của sĩ quan thôi phục vụ tại ngũ và sĩ quan tại ngũ hy sinh, từ trần
+
+### 250140000000000030000370000000000000000000402318500210000200
+
+Điều 25.14.NĐ.5.2. Chế độ, chính sách đối với sĩ quan nghỉ hưu
+
+### 250140000000000030000370000000000000000000402318500210000300
+
+Điều 25.14.NĐ.5.3. Chế độ, chính sách đối với sĩ quan chuyển ngành
+
+### 250140000000000030000370000000000000000000402318500210000400
+
+Điều 25.14.NĐ.5.4. Chế độ, chính sách đối với sĩ quan chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
+
+### 250140000000000030000370000000000000000000402318500210000500
+
+Điều 25.14.NĐ.5.5. Chế độ, chính sách đối với sĩ quan phục viên
+
+### 250140000000000030000370000000000000000000402318500210000600
+
+Điều 25.14.NĐ.5.6. Chế độ, chính sách đối với sĩ quan nghỉ theo chế độ bệnh binh
+
+### 250140000000000030000370000000000000000000402318500210000700
+
+Điều 25.14.NĐ.5.7. Chế độ, chính sách đối với sĩ quan tại ngũ hy sinh, từ trần
+
+### 250140000000000030000370000000000000000000402318500210000800
+
+Điều 25.14.NĐ.5.8. Chế độ, chính sách đối với sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng
+
+### 250140000000000030000370000000000000000000402318500210000900
+
+Điều 25.14.NĐ.5.9. Chế độ trợ cấp một lần đối với sĩ quan có thời gian trực tiếp chiến đấu, phục vụ chiến đấu hoặc công tác ở địa bàn khó khăn, ngành nghề có tính chất đặc thù khi thôi phục vụ tại ngũ
+
+### 250140000000000030000370000000000000000000402318500210001000
+
+Điều 25.14.NĐ.5.10. Tiền lương và thời gian công tác để tính hưởng chế độ
+
+### 250140000000000030000370000000000000000000402318500210001100
+
+Điều 25.14.NĐ.5.11. Kinh phí bảo đảm
+
+### 250140000000000030000370000000000000000000402587000820000400
+
+Điều 25.14.NĐ.6.4. Quản lý, sử dụng quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam
+
+### 250140000000000030000370000000000000000000402587000820000500
+
+Điều 25.14.NĐ.6.5. Quân hiệu của Quân đội nhân dân Việt Nam
+
+### 250140000000000030000370000000000000000000402587000820000600
+
+Điều 25.14.NĐ.6.6. Cấp hiệu của Quân đội nhân dân Việt Nam
+
+### 250140000000000030000370000000000000000000402587000820000700
+
+Điều 25.14.NĐ.6.7. Phù hiệu của Quân đội nhân dân Việt Nam
+
+### 250140000000000030000370000000000000000000402587000820000800
+
+Điều 25.14.NĐ.6.8. Phù hiệu kết hợp cấp hiệu của Quân đội nhân dân Việt Nam
+
+### 250140000000000030000370000000000000000000402587000820000900
+
+Điều 25.14.NĐ.6.9. Trang phục dự lễ của nam sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan
+
+### 250140000000000030000370000000000000000000402587000820001000
+
+Điều 25.14.NĐ.6.10. Trang phục dự lễ của nữ sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan
+
+### 250140000000000030000370000000000000000000402587000820001400
+
+Điều 25.14.NĐ.6.14. Trang phục dự lễ của công nhân và viên chức quốc phòng
+
+### 250140000000000030000370000000000000000000402587000820001500
+
+Điều 25.14.NĐ.6.15. Trang phục dự lễ của hạ sĩ quan - binh sĩ, học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật; trang phục thường dùng, trang phục dã chiến, trang phục nghiệp vụ, trang phục công tác; mũ và áo chống rét của Quân đội nhân dân Việt Nam
+
+### 250140000000000030000370000000000000000000802333300360000200
+
+Điều 25.14.TL.3.2. Cơ sở để tính hưởng chế độ
+
+### 250140000000000030000370000000000000000000802333300360000300
+
+Điều 25.14.TL.3.3. Chế độ trợ cấp một lần do nghỉ hưu trước hạn tuổi
+
+### 250140000000000030000370000000000000000000802333300360000400
 
 Điều 25.14.TL.3.4. Chuyển ngành được tuyển dụng vào làm việc tại các cơ quan, đơn vị hưởng lương từ ngân sách nhà nước
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000400
-
-**ID:** dk_00041520
-
----
-
-
-### Điều 25.14.TL.3.5. Chuyển ngành sang các cơ quan, đơn vị hưởng lương từ ngân sách nhà nước sau đó chuyển sang cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
+### 250140000000000030000370000000000000000000802333300360000500
 
 Điều 25.14.TL.3.5. Chuyển ngành sang các cơ quan, đơn vị hưởng lương từ ngân sách nhà nước sau đó chuyển sang cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000500
-
-**ID:** dk_00041521
-
----
-
-
-### Điều 25.14.TL.3.6. Đã chuyển ngành sau đó trở lại phục vụ quân đội
+### 250140000000000030000370000000000000000000802333300360000600
 
 Điều 25.14.TL.3.6. Đã chuyển ngành sau đó trở lại phục vụ quân đội
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000600
-
-**ID:** dk_00041522
-
----
-
-
-### Điều 25.14.TL.3.7. Chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
+### 250140000000000030000370000000000000000000802333300360000700
 
 Điều 25.14.TL.3.7. Chuyển sang làm việc tại doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
 
-**Chỉ mục:** 7
+### 250140000000000030000370000000000000000000802333300360000800
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000700
+Điều 25.14.TL.3.8. Phục viên về địa phương
 
-**ID:** dk_00041523
-
----
-
-
-### Điều 25.14.TL.3.8. Phục viên về địa phương
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000800
-
-**ID:** dk_00041524
-
----
-
-
-### Điều 25.14.TL.3.9. Phục viên về địa phương sau đó chuyển ngành hoặc chuyển sang các doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
+### 250140000000000030000370000000000000000000802333300360000900
 
 Điều 25.14.TL.3.9. Phục viên về địa phương sau đó chuyển ngành hoặc chuyển sang các doanh nghiệp, cơ quan, đơn vị không hưởng lương từ ngân sách nhà nước
 
-**Chỉ mục:** 9
+### 250140000000000030000370000000000000000000802333300360001000
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360000900
+Điều 25.14.TL.3.10. Chế độ, chính sách được hưởng
 
-**ID:** dk_00041525
+### 250140000000000030000370000000000000000000802333300360001100
 
----
+Điều 25.14.TL.3.11. Chế độ, chính sách được hưởng
 
-
-### Điều 25.14.TL.3.10. Chế độ, chính sách được hưởng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360001000
-
-**ID:** dk_00041526
-
----
-
-
-### Điều 25.14.TL.3.11. Chế độ, chính sách được hưởng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360001100
-
-**ID:** dk_00041527
-
----
-
-
-### Điều 25.14.TL.3.12. Điều kiện, mức quy đổi, cách tính quy đổi và chế độ được hưởng
+### 250140000000000030000370000000000000000000802333300360001200
 
 Điều 25.14.TL.3.12. Điều kiện, mức quy đổi, cách tính quy đổi và chế độ được hưởng
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360001200
-
-**ID:** dk_00041528
-
----
-
-
-### Điều 25.14.TL.3.13. Đối với sĩ quan dự bị vào phục vụ tại ngũ
+### 250140000000000030000370000000000000000000802333300360001300
 
 Điều 25.14.TL.3.13. Đối với sĩ quan dự bị vào phục vụ tại ngũ
 
-**Chỉ mục:** 13
+### 250140000000000030000370000000000000000000802333300360001400
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360001300
+Điều 25.14.TL.3.14. Kinh phí bảo đảm
 
-**ID:** dk_00041529
-
----
-
-
-### Điều 25.14.TL.3.14. Kinh phí bảo đảm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360001400
-
-**ID:** dk_00041530
-
----
-
-
-### Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ
+### 250140000000000030000370000000000000000000802333300360001500
 
 Điều 25.14.TL.3.15. Hồ sơ và thẩm quyền giải quyết chế độ
 
-**Chỉ mục:** 15
+### 25014000000000004000
 
-**Mã phân cấp:** 250140000000000030000370000000000000000000802333300360001500
+Chương IV SĨ QUAN DỰ BỊ
 
-**ID:** dk_00041531
+### 2501400000000000400003800000000000000000
 
----
+Điều 25.14.LQ.38. Tuổi phục vụ của sĩ quan dự bị
 
+### 2501400000000000400003900000000000000000
 
-### Điều 25.14.LQ.38. Tuổi phục vụ của sĩ quan dự bị
+Điều 25.14.LQ.39. Đối tượng đăng ký sĩ quan dự bị
 
-*Nội dung chưa có sẵn*
+### 250140000000000040000390000000000000000000402065400260000200
 
-**Chỉ mục:** 38
+Điều 25.14.NĐ.1.2.
 
-**Mã phân cấp:** 2501400000000000400003800000000000000000
+### 250140000000000040000390000000000000000000402065400260000300
 
-**ID:** dk_00041533
+Điều 25.14.NĐ.1.3.
 
----
+### 250140000000000040000390000000000000000000402065400260000400
 
+Điều 25.14.NĐ.1.4.
 
-### Điều 25.14.LQ.39. Đối tượng đăng ký sĩ quan dự bị
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 39
-
-**Mã phân cấp:** 2501400000000000400003900000000000000000
-
-**ID:** dk_00041534
-
----
-
-
-### Điều 25.14.NĐ.1.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 250140000000000040000390000000000000000000402065400260000200
-
-**ID:** dk_00041535
-
----
-
-
-### Điều 25.14.NĐ.1.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 250140000000000040000390000000000000000000402065400260000300
-
-**ID:** dk_00041536
-
----
-
-
-### Điều 25.14.NĐ.1.4.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 250140000000000040000390000000000000000000402065400260000400
-
-**ID:** dk_00041537
-
----
-
-
-### Điều 25.14.NĐ.1.10. Đối tượng đăng ký sĩ quan dự bị
+### 250140000000000040000390000000000000000000402065400260001000
 
 Điều 25.14.NĐ.1.10. Đối tượng đăng ký sĩ quan dự bị
 
-**Chỉ mục:** 10
+### 250140000000000040000390000000000000000000402065400260001100
 
-**Mã phân cấp:** 250140000000000040000390000000000000000000402065400260001000
+Điều 25.14.NĐ.1.11.
 
-**ID:** dk_00041538
-
----
-
-
-### Điều 25.14.NĐ.1.11.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 250140000000000040000390000000000000000000402065400260001100
-
-**ID:** dk_00041539
-
----
-
-
-### Điều 25.14.LQ.40. Gọi đào tạo sĩ quan dự bị và gọi sĩ quan dự bị vào phục vụ tại ngũ, huấn luyện, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu
+### 2501400000000000400004000000000000000000
 
 Điều 25.14.LQ.40. Gọi đào tạo sĩ quan dự bị và gọi sĩ quan dự bị vào phục vụ tại ngũ, huấn luyện, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu
 
-**Chỉ mục:** 40
+### 250140000000000040000400000000000000000000402065400260000500
 
-**Mã phân cấp:** 2501400000000000400004000000000000000000
+Điều 25.14.NĐ.1.5.
 
-**ID:** dk_00041540
-
----
-
-
-### Điều 25.14.NĐ.1.5.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260000500
-
-**ID:** dk_00041541
-
----
-
-
-### Điều 25.14.TT.1.1. Tuyển chọn, đào tạo sĩ quan dự bị
+### 25014000000000004000040000000000000000000040206540026000050000802099200140000100
 
 Điều 25.14.TT.1.1. Tuyển chọn, đào tạo sĩ quan dự bị
 
-**Chỉ mục:** 1
+### 250140000000000040000400000000000000000000402065400260000600
 
-**Mã phân cấp:** 25014000000000004000040000000000000000000040206540026000050000802099200140000100
+Điều 25.14.NĐ.1.6.
 
-**ID:** dk_00041542
+### 250140000000000040000400000000000000000000402065400260000700
 
----
+Điều 25.14.NĐ.1.7.
 
+### 250140000000000040000400000000000000000000402065400260000800
 
-### Điều 25.14.NĐ.1.6.
+Điều 25.14.NĐ.1.8.
 
-*Nội dung chưa có sẵn*
+### 250140000000000040000400000000000000000000402065400260000900
 
-**Chỉ mục:** 6
+Điều 25.14.NĐ.1.9.
 
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260000600
+### 250140000000000040000400000000000000000000402065400260003500
 
-**ID:** dk_00041543
+Điều 25.14.NĐ.1.35.
 
----
+### 250140000000000040000400000000000000000000402065400260003600
 
+Điều 25.14.NĐ.1.36.
 
-### Điều 25.14.NĐ.1.7.
+### 250140000000000040000400000000000000000000402065400260003700
 
-*Nội dung chưa có sẵn*
+Điều 25.14.NĐ.1.37.
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260000700
-
-**ID:** dk_00041544
-
----
-
-
-### Điều 25.14.NĐ.1.8.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260000800
-
-**ID:** dk_00041545
-
----
-
-
-### Điều 25.14.NĐ.1.9.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260000900
-
-**ID:** dk_00041546
-
----
-
-
-### Điều 25.14.NĐ.1.35.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260003500
-
-**ID:** dk_00041547
-
----
-
-
-### Điều 25.14.NĐ.1.36.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260003600
-
-**ID:** dk_00041548
-
----
-
-
-### Điều 25.14.NĐ.1.37.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 250140000000000040000400000000000000000000402065400260003700
-
-**ID:** dk_00041549
-
----
-
-
-### Điều 25.14.LQ.41. Bổ nhiệm chức vụ, phong, thăng quân hàm sĩ quan dự bị
+### 2501400000000000400004100000000000000000
 
 Điều 25.14.LQ.41. Bổ nhiệm chức vụ, phong, thăng quân hàm sĩ quan dự bị
 
-**Chỉ mục:** 41
+### 250140000000000040000410000000000000000000402065400260003200
 
-**Mã phân cấp:** 2501400000000000400004100000000000000000
+Điều 25.14.NĐ.1.32.
 
-**ID:** dk_00041550
+### 250140000000000040000410000000000000000000402065400260003300
 
----
+Điều 25.14.NĐ.1.33.
 
+### 250140000000000040000410000000000000000000402065400260003400
 
-### Điều 25.14.NĐ.1.32.
+Điều 25.14.NĐ.1.34.
 
-*Nội dung chưa có sẵn*
+### 2501400000000000400004200000000000000000
 
-**Chỉ mục:** 32
+Điều 25.14.LQ.42. Trách nhiệm của sĩ quan dự bị
 
-**Mã phân cấp:** 250140000000000040000410000000000000000000402065400260003200
-
-**ID:** dk_00041551
-
----
-
-
-### Điều 25.14.NĐ.1.33.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 250140000000000040000410000000000000000000402065400260003300
-
-**ID:** dk_00041552
-
----
-
-
-### Điều 25.14.NĐ.1.34.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 250140000000000040000410000000000000000000402065400260003400
-
-**ID:** dk_00041553
-
----
-
-
-### Điều 25.14.LQ.42. Trách nhiệm của sĩ quan dự bị
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 42
-
-**Mã phân cấp:** 2501400000000000400004200000000000000000
-
-**ID:** dk_00041554
-
----
-
-
-### Điều 25.14.NĐ.1.12. Việc đăng ký sĩ quan dự bi được thực hiện như sau:
+### 250140000000000040000420000000000000000000402065400260001200
 
 Điều 25.14.NĐ.1.12. Việc đăng ký sĩ quan dự bi được thực hiện như sau:
 
-**Chỉ mục:** 12
+### 250140000000000040000420000000000000000000402065400260001300
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001200
+Điều 25.14.NĐ.1.13.
 
-**ID:** dk_00041555
+### 250140000000000040000420000000000000000000402065400260001400
 
----
+Điều 25.14.NĐ.1.14.
 
+### 250140000000000040000420000000000000000000402065400260001500
 
-### Điều 25.14.NĐ.1.13.
+Điều 25.14.NĐ.1.15.
 
-*Nội dung chưa có sẵn*
+### 250140000000000040000420000000000000000000402065400260001600
 
-**Chỉ mục:** 13
+Điều 25.14.NĐ.1.16.
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001300
+### 250140000000000040000420000000000000000000402065400260001700
 
-**ID:** dk_00041556
+Điều 25.14.NĐ.1.17.
 
----
+### 250140000000000040000420000000000000000000402065400260001800
 
+Điều 25.14.NĐ.1.18.
 
-### Điều 25.14.NĐ.1.14.
+### 25014000000000004000042000000000000000000040206540026000180000802099200140000200
 
-*Nội dung chưa có sẵn*
+Điều 25.14.TT.1.2. Đăng ký, quản lý sĩ quan dự bị
 
-**Chỉ mục:** 14
+### 250140000000000040000420000000000000000000402065400260001900
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001400
+Điều 25.14.NĐ.1.19.
 
-**ID:** dk_00041557
-
----
-
-
-### Điều 25.14.NĐ.1.15.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001500
-
-**ID:** dk_00041558
-
----
-
-
-### Điều 25.14.NĐ.1.16.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001600
-
-**ID:** dk_00041559
-
----
-
-
-### Điều 25.14.NĐ.1.17.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001700
-
-**ID:** dk_00041560
-
----
-
-
-### Điều 25.14.NĐ.1.18.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001800
-
-**ID:** dk_00041561
-
----
-
-
-### Điều 25.14.TT.1.2. Đăng ký, quản lý sĩ quan dự bị
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 25014000000000004000042000000000000000000040206540026000180000802099200140000200
-
-**ID:** dk_00041562
-
----
-
-
-### Điều 25.14.NĐ.1.19.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260001900
-
-**ID:** dk_00041563
-
----
-
-
-### Điều 25.14.NĐ.1.20. Nguyên tắc sắp xếp sĩ quan dự bị vào đơn vị dự bị động viên:
+### 250140000000000040000420000000000000000000402065400260002000
 
 Điều 25.14.NĐ.1.20. Nguyên tắc sắp xếp sĩ quan dự bị vào đơn vị dự bị động viên:
 
-**Chỉ mục:** 20
+### 250140000000000040000420000000000000000000402065400260002100
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002000
+Điều 25.14.NĐ.1.21.
 
-**ID:** dk_00041564
+### 250140000000000040000420000000000000000000402065400260002200
 
----
+Điều 25.14.NĐ.1.22.
 
+### 250140000000000040000420000000000000000000402065400260002300
 
-### Điều 25.14.NĐ.1.21.
+Điều 25.14.NĐ.1.23.
 
-*Nội dung chưa có sẵn*
+### 250140000000000040000420000000000000000000402065400260002400
 
-**Chỉ mục:** 21
+Điều 25.14.NĐ.1.24.
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002100
+### 250140000000000040000420000000000000000000402065400260002500
 
-**ID:** dk_00041565
+Điều 25.14.NĐ.1.25.
 
----
+### 250140000000000040000420000000000000000000402065400260002600
 
+Điều 25.14.NĐ.1.26.
 
-### Điều 25.14.NĐ.1.22.
+### 250140000000000040000420000000000000000000402065400260002700
 
-*Nội dung chưa có sẵn*
+Điều 25.14.NĐ.1.27.
 
-**Chỉ mục:** 22
+### 250140000000000040000420000000000000000000402065400260002800
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002200
+Điều 25.14.NĐ.1.28.
 
-**ID:** dk_00041566
+### 2501400000000000400004300000000000000000
 
----
+Điều 25.14.LQ.43. Quyền lợi của sĩ quan dự bị
 
+### 250140000000000040000430000000000000000000402065400260003800
 
-### Điều 25.14.NĐ.1.23.
+Điều 25.14.NĐ.1.38.
 
-*Nội dung chưa có sẵn*
+### 25014000000000004000043000000000000000000040206540026000380000802090601700000200
 
-**Chỉ mục:** 23
+Điều 25.14.TL.1.2. Các chế độ, chính sách
 
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002300
+### 25014000000000004000043000000000000000000040206540026000380000802090601700000300
 
-**ID:** dk_00041567
+Điều 25.14.TL.1.3. Chế độ phụ cấp trách nhiệm
 
----
-
-
-### Điều 25.14.NĐ.1.24.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002400
-
-**ID:** dk_00041568
-
----
-
-
-### Điều 25.14.NĐ.1.25.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002500
-
-**ID:** dk_00041569
-
----
-
-
-### Điều 25.14.NĐ.1.26.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002600
-
-**ID:** dk_00041570
-
----
-
-
-### Điều 25.14.NĐ.1.27.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002700
-
-**ID:** dk_00041571
-
----
-
-
-### Điều 25.14.NĐ.1.28.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 250140000000000040000420000000000000000000402065400260002800
-
-**ID:** dk_00041572
-
----
-
-
-### Điều 25.14.LQ.43. Quyền lợi của sĩ quan dự bị
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 43
-
-**Mã phân cấp:** 2501400000000000400004300000000000000000
-
-**ID:** dk_00041573
-
----
-
-
-### Điều 25.14.NĐ.1.38.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 38
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260003800
-
-**ID:** dk_00041574
-
----
-
-
-### Điều 25.14.TL.1.2. Các chế độ, chính sách
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601700000200
-
-**ID:** dk_00041575
-
----
-
-
-### Điều 25.14.TL.1.3. Chế độ phụ cấp trách nhiệm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601700000300
-
-**ID:** dk_00041576
-
----
-
-
-### Điều 25.14.TL.1.4. Chế độ chính sách đối với sĩ quan dự bị khi làm nhiệm vụ
+### 25014000000000004000043000000000000000000040206540026000380000802090601700000400
 
 Điều 25.14.TL.1.4. Chế độ chính sách đối với sĩ quan dự bị khi làm nhiệm vụ
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601700000400
-
-**ID:** dk_00041577
-
----
-
-
-### Điều 25.14.TL.1.5. Chế độ, chính sách đối với sĩ quan dự bị được gọi vào phục vụ tại ngũ trong thời bình
+### 25014000000000004000043000000000000000000040206540026000380000802090601700000500
 
 Điều 25.14.TL.1.5. Chế độ, chính sách đối với sĩ quan dự bị được gọi vào phục vụ tại ngũ trong thời bình
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601700000500
-
-**ID:** dk_00041578
-
----
-
-
-### Điều 25.14.TL.1.6. Trách nhiệm của cơ quan, đơn vị trong việc tổ chức lễ tang khi sĩ quan dự bị từ trần
+### 25014000000000004000043000000000000000000040206540026000380000802090601700000600
 
 Điều 25.14.TL.1.6. Trách nhiệm của cơ quan, đơn vị trong việc tổ chức lễ tang khi sĩ quan dự bị từ trần
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601700000600
-
-**ID:** dk_00041579
-
----
-
-
-### Điều 25.14.TL.2.1. Đối tượng, chế độ kiểm tra sức khỏe
+### 25014000000000004000043000000000000000000040206540026000380000802090601710000100
 
 Điều 25.14.TL.2.1. Đối tượng, chế độ kiểm tra sức khỏe
 
-**Chỉ mục:** 1
+### 25014000000000004000043000000000000000000040206540026000380000802090601710000200
 
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601710000100
+Điều 25.14.TL.2.2. Lập kế hoạch kiểm tra sức khỏe
 
-**ID:** dk_00041580
+### 25014000000000004000043000000000000000000040206540026000380000802090601710000300
 
----
+Điều 25.14.TL.2.3. Tổ chức kiểm tra sức khỏe
 
-
-### Điều 25.14.TL.2.2. Lập kế hoạch kiểm tra sức khỏe
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601710000200
-
-**ID:** dk_00041581
-
----
-
-
-### Điều 25.14.TL.2.3. Tổ chức kiểm tra sức khỏe
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601710000300
-
-**ID:** dk_00041582
-
----
-
-
-### Điều 25.14.TL.2.4. Quản lý hồ sơ sức khỏe sĩ quan dự bị, người được tuyển chọn đi đào tạo sĩ quan dự bị/strong>
+### 25014000000000004000043000000000000000000040206540026000380000802090601710000400
 
 Điều 25.14.TL.2.4. Quản lý hồ sơ sức khỏe sĩ quan dự bị, người được tuyển chọn đi đào tạo sĩ quan dự bị/strong>
 
-**Chỉ mục:** 4
+### 250140000000000040000430000000000000000000402065400260003900
 
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000380000802090601710000400
+Điều 25.14.NĐ.1.39.
 
-**ID:** dk_00041583
-
----
-
-
-### Điều 25.14.NĐ.1.39.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 39
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260003900
-
-**ID:** dk_00041584
-
----
-
-
-### Điều 25.14.TT.1.3. Chi trả phụ cấp trách nhiệm đối với sĩ quan dự bị
+### 25014000000000004000043000000000000000000040206540026000390000802099200140000300
 
 Điều 25.14.TT.1.3. Chi trả phụ cấp trách nhiệm đối với sĩ quan dự bị
 
-**Chỉ mục:** 3
+### 25014000000000004000043000000000000000000040206540026000390000802183800830000100
 
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000390000802099200140000300
+Điều 25.14.QĐ.2.1.
 
-**ID:** dk_00041585
+### 25014000000000004000043000000000000000000040206540026000390000802183800830000200
 
----
+Điều 25.14.QĐ.2.2.
 
+### 250140000000000040000430000000000000000000402065400260004000
 
-### Điều 25.14.QĐ.2.1.
+Điều 25.14.NĐ.1.40.
 
-*Nội dung chưa có sẵn*
+### 250140000000000040000430000000000000000000402065400260004100
 
-**Chỉ mục:** 1
+Điều 25.14.NĐ.1.41.
 
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000390000802183800830000100
+### 250140000000000040000430000000000000000000402065400260004200
 
-**ID:** dk_00041586
+Điều 25.14.NĐ.1.42.
 
----
+### 250140000000000040000430000000000000000000402065400260004300
 
+Điều 25.14.NĐ.1.43.
 
-### Điều 25.14.QĐ.2.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000390000802183800830000200
-
-**ID:** dk_00041587
-
----
-
-
-### Điều 25.14.NĐ.1.40.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004000
-
-**ID:** dk_00041588
-
----
-
-
-### Điều 25.14.NĐ.1.41.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 41
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004100
-
-**ID:** dk_00041589
-
----
-
-
-### Điều 25.14.NĐ.1.42.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 42
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004200
-
-**ID:** dk_00041590
-
----
-
-
-### Điều 25.14.NĐ.1.43.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 43
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004300
-
-**ID:** dk_00041591
-
----
-
-
-### Điều 25.14.NĐ.1.44. Ngân sách nhà nước cấp cho Bộ Quốc phòng chi cho công tác sĩ quan dự bị, chi theo quy định tại Điều 27 Nghị định số 39/CP và những nội dung sau:
+### 250140000000000040000430000000000000000000402065400260004400
 
 Điều 25.14.NĐ.1.44. Ngân sách nhà nước cấp cho Bộ Quốc phòng chi cho công tác sĩ quan dự bị, chi theo quy định tại Điều 27 Nghị định số 39/CP và những nội dung sau:
 
-**Chỉ mục:** 44
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004400
-
-**ID:** dk_00041592
-
----
-
-
-### Điều 25.14.TT.1.4. Dự toán quản lý, sử dụng và quyết toán kinh phí
+### 25014000000000004000043000000000000000000040206540026000440000802099200140000400
 
 Điều 25.14.TT.1.4. Dự toán quản lý, sử dụng và quyết toán kinh phí
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 25014000000000004000043000000000000000000040206540026000440000802099200140000400
-
-**ID:** dk_00041593
-
----
-
-
-### Điều 25.14.NĐ.1.45. Ngân sách nhà nước cấp cho các Bộ chi cho công tác sĩ quan dự bị, chi theo quy định tại Điều 28 Nghị định số 39/CP và những nội dung sau:
+### 250140000000000040000430000000000000000000402065400260004500
 
 Điều 25.14.NĐ.1.45. Ngân sách nhà nước cấp cho các Bộ chi cho công tác sĩ quan dự bị, chi theo quy định tại Điều 28 Nghị định số 39/CP và những nội dung sau:
 
-**Chỉ mục:** 45
-
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004500
-
-**ID:** dk_00041594
-
----
-
-
-### Điều 25.14.NĐ.1.46. Ngân sách quốc phòng của tỉnh, huyện chi cho công tác sĩ quan dự bị, chi theo quy định tại Điều 29, Điều 30 Nghị định số 39/CP và những nội dung sau:
+### 250140000000000040000430000000000000000000402065400260004600
 
 Điều 25.14.NĐ.1.46. Ngân sách quốc phòng của tỉnh, huyện chi cho công tác sĩ quan dự bị, chi theo quy định tại Điều 29, Điều 30 Nghị định số 39/CP và những nội dung sau:
 
-**Chỉ mục:** 46
+### 2501400000000000400004400000000000000000
 
-**Mã phân cấp:** 250140000000000040000430000000000000000000402065400260004600
+Điều 25.14.LQ.44. Giải ngạch sĩ quan dự bị
 
-**ID:** dk_00041595
+### 250140000000000040000440000000000000000000402065400260002900
 
----
+Điều 25.14.NĐ.1.29.
 
-
-### Điều 25.14.LQ.44. Giải ngạch sĩ quan dự bị
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 44
-
-**Mã phân cấp:** 2501400000000000400004400000000000000000
-
-**ID:** dk_00041596
-
----
-
-
-### Điều 25.14.NĐ.1.29.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 250140000000000040000440000000000000000000402065400260002900
-
-**ID:** dk_00041597
-
----
-
-
-### Điều 25.14.NĐ.1.30. Cơ quan quân sự cấp huyện làm thủ tục đề nghị cấp có thẩm quyền ra quyết định giải ngạch sĩ quan dự bị trong các trường hợp sau đây:
+### 250140000000000040000440000000000000000000402065400260003000
 
 Điều 25.14.NĐ.1.30. Cơ quan quân sự cấp huyện làm thủ tục đề nghị cấp có thẩm quyền ra quyết định giải ngạch sĩ quan dự bị trong các trường hợp sau đây:
 
-**Chỉ mục:** 30
+### 250140000000000040000440000000000000000000402065400260003100
 
-**Mã phân cấp:** 250140000000000040000440000000000000000000402065400260003000
+Điều 25.14.NĐ.1.31.
 
-**ID:** dk_00041598
+### 25014000000000005000
 
----
+Chương V QUẢN LÝ NHÀ NƯỚC VỀ SĨ QUAN
 
-
-### Điều 25.14.NĐ.1.31.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 250140000000000040000440000000000000000000402065400260003100
-
-**ID:** dk_00041599
-
----
-
-
-### Điều 25.14.LQ.45. Nội dung quản lý nhà nước về sĩ quan
+### 2501400000000000500004500000000000000000
 
 Điều 25.14.LQ.45. Nội dung quản lý nhà nước về sĩ quan
 
-**Chỉ mục:** 45
-
-**Mã phân cấp:** 2501400000000000500004500000000000000000
-
-**ID:** dk_00041601
-
----
-
-
-### Điều 25.14.LQ.46. Trách nhiệm của Chính phủ, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+### 2501400000000000500004600000000000000000
 
 Điều 25.14.LQ.46. Trách nhiệm của Chính phủ, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 46
+### 250140000000000050000460000000000000000000402182700730000700
 
-**Mã phân cấp:** 2501400000000000500004600000000000000000
+Điều 25.14.NĐ.3.7. Trách nhiệm của Bộ Quốc phòng
 
-**ID:** dk_00041602
-
----
-
-
-### Điều 25.14.NĐ.3.7. Trách nhiệm của Bộ Quốc phòng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 250140000000000050000460000000000000000000402182700730000700
-
-**ID:** dk_00041603
-
----
-
-
-### Điều 25.14.NĐ.3.8. Trách nhiệm của Bộ Giáo dục và Đào tạo
+### 250140000000000050000460000000000000000000402182700730000800
 
 Điều 25.14.NĐ.3.8. Trách nhiệm của Bộ Giáo dục và Đào tạo
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 250140000000000050000460000000000000000000402182700730000800
-
-**ID:** dk_00041604
-
----
-
-
-### Điều 25.14.NĐ.3.9. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+### 250140000000000050000460000000000000000000402182700730000900
 
 Điều 25.14.NĐ.3.9. Trách nhiệm của Bộ Kế hoạch và Đầu tư
 
-**Chỉ mục:** 9
+### 250140000000000050000460000000000000000000402182700730001000
 
-**Mã phân cấp:** 250140000000000050000460000000000000000000402182700730000900
+Điều 25.14.NĐ.3.10. Trách nhiệm của Bộ Tài chính
 
-**ID:** dk_00041605
-
----
-
-
-### Điều 25.14.NĐ.3.10. Trách nhiệm của Bộ Tài chính
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 250140000000000050000460000000000000000000402182700730001000
-
-**ID:** dk_00041606
-
----
-
-
-### Điều 25.14.NĐ.3.11. Trách nhiệm của các Bộ, ngành liên quan và các Bộ có cơ sở giáo dục đại học và sau đại học
+### 250140000000000050000460000000000000000000402182700730001100
 
 Điều 25.14.NĐ.3.11. Trách nhiệm của các Bộ, ngành liên quan và các Bộ có cơ sở giáo dục đại học và sau đại học
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 250140000000000050000460000000000000000000402182700730001100
-
-**ID:** dk_00041607
-
----
-
-
-### Điều 25.14.NĐ.3.12. Trách nhiệm của các trường ngoài quân đội
+### 250140000000000050000460000000000000000000402182700730001200
 
 Điều 25.14.NĐ.3.12. Trách nhiệm của các trường ngoài quân đội
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 250140000000000050000460000000000000000000402182700730001200
-
-**ID:** dk_00041608
-
----
-
-
-### Điều 25.14.TL.3.16. Trách nhiệm của các Bộ liên quan
+### 250140000000000050000460000000000000000000802333300360001600
 
 Điều 25.14.TL.3.16. Trách nhiệm của các Bộ liên quan
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 250140000000000050000460000000000000000000802333300360001600
-
-**ID:** dk_00041609
-
----
-
-
-### Điều 25.14.LQ.47. Trách nhiệm của chính quyền địa phương các cấp
+### 2501400000000000500004700000000000000000
 
 Điều 25.14.LQ.47. Trách nhiệm của chính quyền địa phương các cấp
 
-**Chỉ mục:** 47
+### 25014000000000006000
 
-**Mã phân cấp:** 2501400000000000500004700000000000000000
+Chương VI KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
 
-**ID:** dk_00041610
+### 2501400000000000600004800000000000000000
 
----
+Điều 25.14.LQ.48. Khen thưởng
 
+### 250140000000000060000480000000000000000000402065400260004700
 
-### Điều 25.14.LQ.48. Khen thưởng
+Điều 25.14.NĐ.1.47.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 48
-
-**Mã phân cấp:** 2501400000000000600004800000000000000000
-
-**ID:** dk_00041612
-
----
-
-
-### Điều 25.14.NĐ.1.47.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 47
-
-**Mã phân cấp:** 250140000000000060000480000000000000000000402065400260004700
-
-**ID:** dk_00041613
-
----
-
-
-### Điều 25.14.NĐ.2.16. Khen thưởng, xử lý vi phạm đối với tổ chức, cá nhân
+### 250140000000000060000480000000000000000000402129501650001600
 
 Điều 25.14.NĐ.2.16. Khen thưởng, xử lý vi phạm đối với tổ chức, cá nhân
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 250140000000000060000480000000000000000000402129501650001600
-
-**ID:** dk_00041614
-
----
-
-
-### Điều 25.14.NĐ.2.17. Khen thưởng đối với sĩ quan biệt phái
+### 250140000000000060000480000000000000000000402129501650001700
 
 Điều 25.14.NĐ.2.17. Khen thưởng đối với sĩ quan biệt phái
 
-**Chỉ mục:** 17
+### 250140000000000060000480000000000000000000402182700730001300
 
-**Mã phân cấp:** 250140000000000060000480000000000000000000402129501650001700
+Điều 25.14.NĐ.3.13. Khen thưởng
 
-**ID:** dk_00041615
-
----
-
-
-### Điều 25.14.NĐ.3.13. Khen thưởng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 250140000000000060000480000000000000000000402182700730001300
-
-**ID:** dk_00041616
-
----
-
-
-### Điều 25.14.TT.1.5. Khen thưởng, xử lý kỷ luật đối với sĩ quan dự bị
+### 250140000000000060000480000000000000000000802099200140000500
 
 Điều 25.14.TT.1.5. Khen thưởng, xử lý kỷ luật đối với sĩ quan dự bị
 
-**Chỉ mục:** 5
+### 2501400000000000600004900000000000000000
 
-**Mã phân cấp:** 250140000000000060000480000000000000000000802099200140000500
+Điều 25.14.LQ.49. Xử lý vi phạm
 
-**ID:** dk_00041617
+### 250140000000000060000490000000000000000000402065400260004800
 
----
+Điều 25.14.NĐ.1.48.
 
-
-### Điều 25.14.LQ.49. Xử lý vi phạm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 49
-
-**Mã phân cấp:** 2501400000000000600004900000000000000000
-
-**ID:** dk_00041618
-
----
-
-
-### Điều 25.14.NĐ.1.48.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 48
-
-**Mã phân cấp:** 250140000000000060000490000000000000000000402065400260004800
-
-**ID:** dk_00041619
-
----
-
-
-### Điều 25.14.NĐ.2.18. Xử lý vi phạm đối với sĩ quan biệt phái
+### 250140000000000060000490000000000000000000402129501650001800
 
 Điều 25.14.NĐ.2.18. Xử lý vi phạm đối với sĩ quan biệt phái
 
-**Chỉ mục:** 18
+### 250140000000000060000490000000000000000000402182700730001400
 
-**Mã phân cấp:** 250140000000000060000490000000000000000000402129501650001800
+Điều 25.14.NĐ.3.14. Xử lý vi phạm
 
-**ID:** dk_00041620
+### 250140000000000060000490000000000000000000402318500210001200
 
----
+Điều 25.14.NĐ.5.12. Xử lý vi phạm
 
+### 250140000000000060000490000000000000000000802604902180002700
 
-### Điều 25.14.NĐ.3.14. Xử lý vi phạm
+Điều 25.14.TT.3.27. Xử lý vi phạm
 
-*Nội dung chưa có sẵn*
+### 25014000000000007000
 
-**Chỉ mục:** 14
+Chương VII ĐIỀU KHOẢN THI HÀNH
 
-**Mã phân cấp:** 250140000000000060000490000000000000000000402182700730001400
+### 2501400000000000700005000000000000000000
 
-**ID:** dk_00041621
+Điều 25.14.LQ.50. Hiệu lực thi hành
 
----
+### 2501400000000000700005100000000000000000
 
+Điều 25.14.LQ.51. Quy định thi hành Luật
 
-### Điều 25.14.NĐ.5.12. Xử lý vi phạm
+### 2501400000000000700005110198330016000520
 
-*Nội dung chưa có sẵn*
+Điều 25.14.LQ.52.
 
-**Chỉ mục:** 12
+### 2501400000000000700005110198330016000530
 
-**Mã phân cấp:** 250140000000000060000490000000000000000000402318500210001200
+Điều 25.14.LQ.53.
 
-**ID:** dk_00041622
+### 2501400000000000700005110198330016000540
 
----
+Điều 25.14.LQ.54.
 
+### 2501400000000000700005140206540026000490
 
-### Điều 25.14.TT.3.27. Xử lý vi phạm
+Điều 25.14.NĐ.1.49.
 
-*Nội dung chưa có sẵn*
+### 2501400000000000700005140206540026000500
 
-**Chỉ mục:** 27
+Điều 25.14.NĐ.1.50.
 
-**Mã phân cấp:** 250140000000000060000490000000000000000000802604902180002700
+### 2501400000000000700005140206540026000510
 
-**ID:** dk_00041623
+Điều 25.14.NĐ.1.51.
 
----
+### 2501400000000000700005140212950165000190
 
+Điều 25.14.NĐ.2.19. Hiệu lực thi hành
 
-### Điều 25.14.LQ.50. Hiệu lực thi hành
+### 2501400000000000700005140212950165000200
 
-*Nội dung chưa có sẵn*
+Điều 25.14.NĐ.2.20. Trách nhiệm thi hành
 
-**Chỉ mục:** 50
+### 2501400000000000700005140218270073000150
 
-**Mã phân cấp:** 2501400000000000700005000000000000000000
+Điều 25.14.NĐ.3.15. Hiệu lực thi hành
 
-**ID:** dk_00041625
+### 2501400000000000700005140218270073000160
 
----
+Điều 25.14.NĐ.3.16. Trách nhiệm thi hành
 
+### 2501400000000000700005140231190130000070
 
-### Điều 25.14.LQ.51. Quy định thi hành Luật
+Điều 25.14.NĐ.4.7. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 2501400000000000700005140231190130000080
 
-**Chỉ mục:** 51
+Điều 25.14.NĐ.4.8. Trách nhiệm thi hành
 
-**Mã phân cấp:** 2501400000000000700005100000000000000000
+### 2501400000000000700005140231850021000130
 
-**ID:** dk_00041626
+Điều 25.14.NĐ.5.13. Điều khoản thi hành
 
----
+### 2501400000000000700005140231850021000140
 
+Điều 25.14.NĐ.5.14. Trách nhiệm thi hành
 
-### Điều 25.14.LQ.52.
+### 2501400000000000700005140258700082000160
 
-*Nội dung chưa có sẵn*
+Điều 25.14.NĐ.6.16. Hiệu lực thi hành
 
-**Chỉ mục:** 3
+### 2501400000000000700005140258700082000170
 
-**Mã phân cấp:** 2501400000000000700005110198330016000520
+Điều 25.14.NĐ.6.17. Quy định chuyển tiếp
 
-**ID:** dk_00041627
+### 2501400000000000700005140258700082000180
 
----
+Điều 25.14.NĐ.6.18. Trách nhiệm thi hành
 
+### 2501400000000000700005140258700082000190
 
-### Điều 25.14.LQ.53.
+Điều 25.14.NĐ.6.19. Điều khoản chuyển tiếp
 
-*Nội dung chưa có sẵn*
+### 2501400000000000700005140258700082000200
 
-**Chỉ mục:** 2
+Điều 25.14.NĐ.6.20. Hiệu lực thi hành
 
-**Mã phân cấp:** 2501400000000000700005110198330016000530
+### 2501400000000000700005140258700082000210
 
-**ID:** dk_00041628
+Điều 25.14.NĐ.6.21. Trách nhiệm thi hành
 
----
+### 2501400000000000700005180209060170000070
 
+Điều 25.14.TL.1.7. Tổ chức thực hiện
 
-### Điều 25.14.LQ.54.
+### 2501400000000000700005180209060171000050
 
-*Nội dung chưa có sẵn*
+Điều 25.14.TL.2.5. Tổ chức thực hiện
 
-**Chỉ mục:** 3
+### 2501400000000000700005180209920014000060
 
-**Mã phân cấp:** 2501400000000000700005110198330016000540
+Điều 25.14.TT.1.6. Tổ chức thực hiện
 
-**ID:** dk_00041629
+### 2501400000000000700005180212460266000020
 
----
+Điều 25.14.QĐ.1.2.
 
+### 2501400000000000700005180212460266000030
 
-### Điều 25.14.NĐ.1.49.
+Điều 25.14.QĐ.1.3.
 
-*Nội dung chưa có sẵn*
+### 2501400000000000700005180218380083000030
 
-**Chỉ mục:** 49
+Điều 25.14.QĐ.2.3.
 
-**Mã phân cấp:** 2501400000000000700005140206540026000490
+### 2501400000000000700005180233330036000170
 
-**ID:** dk_00041630
+Điều 25.14.TL.3.17. Hiệu lực thi hành
 
----
+### 2501400000000000700005180253850009000070
 
+Điều 25.14.TT.2.7. Hiệu lực thi hành
 
-### Điều 25.14.NĐ.1.50.
+### 2501400000000000700005180253850009000080
 
-*Nội dung chưa có sẵn*
+Điều 25.14.TT.2.8. Trách nhiệm thi hành
 
-**Chỉ mục:** 50
+### 2501400000000000700005180260490218000280
 
-**Mã phân cấp:** 2501400000000000700005140206540026000500
+Điều 25.14.TT.3.28. Hiệu lực thi hành
 
-**ID:** dk_00041631
+### 2501400000000000700005180260490218000290
 
----
+Điều 25.14.TT.3.29. Trách nhiệm thi hành
 
+### 2501400000000000700005180276190037000210
 
-### Điều 25.14.NĐ.1.51.
+Điều 25.14.TT.4.21. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 2501400000000000700005180276190037000220
 
-**Chỉ mục:** 51
+Điều 25.14.TT.4.22. Trách nhiệm thi hành
 
-**Mã phân cấp:** 2501400000000000700005140206540026000510
-
-**ID:** dk_00041632
-
----
-
-
-### Điều 25.14.NĐ.2.19. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 2501400000000000700005140212950165000190
-
-**ID:** dk_00041633
-
----
-
-
-### Điều 25.14.NĐ.2.20. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 2501400000000000700005140212950165000200
-
-**ID:** dk_00041634
-
----
-
-
-### Điều 25.14.NĐ.3.15. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 2501400000000000700005140218270073000150
-
-**ID:** dk_00041635
-
----
-
-
-### Điều 25.14.NĐ.3.16. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 2501400000000000700005140218270073000160
-
-**ID:** dk_00041636
-
----
-
-
-### Điều 25.14.NĐ.4.7. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 2501400000000000700005140231190130000070
-
-**ID:** dk_00041637
-
----
-
-
-### Điều 25.14.NĐ.4.8. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 2501400000000000700005140231190130000080
-
-**ID:** dk_00041638
-
----
-
-
-### Điều 25.14.NĐ.5.13. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 2501400000000000700005140231850021000130
-
-**ID:** dk_00041639
-
----
-
-
-### Điều 25.14.NĐ.5.14. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 2501400000000000700005140231850021000140
-
-**ID:** dk_00041640
-
----
-
-
-### Điều 25.14.NĐ.6.16. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 2501400000000000700005140258700082000160
-
-**ID:** dk_00041641
-
----
-
-
-### Điều 25.14.NĐ.6.17. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 2501400000000000700005140258700082000170
-
-**ID:** dk_00041642
-
----
-
-
-### Điều 25.14.NĐ.6.18. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 2501400000000000700005140258700082000180
-
-**ID:** dk_00041643
-
----
-
-
-### Điều 25.14.NĐ.6.19. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2501400000000000700005140258700082000190
-
-**ID:** dk_00041644
-
----
-
-
-### Điều 25.14.NĐ.6.20. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 2501400000000000700005140258700082000200
-
-**ID:** dk_00041645
-
----
-
-
-### Điều 25.14.NĐ.6.21. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 2501400000000000700005140258700082000210
-
-**ID:** dk_00041646
-
----
-
-
-### Điều 25.14.TL.1.7. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 2501400000000000700005180209060170000070
-
-**ID:** dk_00041647
-
----
-
-
-### Điều 25.14.TL.2.5. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 2501400000000000700005180209060171000050
-
-**ID:** dk_00041648
-
----
-
-
-### Điều 25.14.TT.1.6. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 2501400000000000700005180209920014000060
-
-**ID:** dk_00041649
-
----
-
-
-### Điều 25.14.QĐ.1.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2501400000000000700005180212460266000020
-
-**ID:** dk_00041650
-
----
-
-
-### Điều 25.14.QĐ.1.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2501400000000000700005180212460266000030
-
-**ID:** dk_00041651
-
----
-
-
-### Điều 25.14.QĐ.2.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 2501400000000000700005180218380083000030
-
-**ID:** dk_00041652
-
----
-
-
-### Điều 25.14.TL.3.17. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 2501400000000000700005180233330036000170
-
-**ID:** dk_00041653
-
----
-
-
-### Điều 25.14.TT.2.7. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 2501400000000000700005180253850009000070
-
-**ID:** dk_00041654
-
----
-
-
-### Điều 25.14.TT.2.8. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 2501400000000000700005180253850009000080
-
-**ID:** dk_00041655
-
----
-
-
-### Điều 25.14.TT.3.28. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 2501400000000000700005180260490218000280
-
-**ID:** dk_00041656
-
----
-
-
-### Điều 25.14.TT.3.29. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 2501400000000000700005180260490218000290
-
-**ID:** dk_00041657
-
----
-
-
-### Điều 25.14.TT.4.21. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 2501400000000000700005180276190037000210
-
-**ID:** dk_00041658
-
----
-
-
-### Điều 25.14.TT.4.22. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 2501400000000000700005180276190037000220
-
-**ID:** dk_00041659
-
----
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/quoc-phong/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 289
-- **Điều khoản thực tế:** 282
-- **Điều khoản có nội dung:** 120 (42.6%)
-- **ID đề mục:** d8bc3d2eb1e34023a2dd23005a3ca616
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

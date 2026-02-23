@@ -1,1583 +1,2347 @@
 ---
-layout: default
+layout: page
 title: Phòng, chống tác hại của rượu, bia
 permalink: /van-ban/y-te-duoc/phong-chong-tac-hai-cua-ruou-bia/
-collection: subtopics
-slug: phong-chong-tac-hai-cua-ruou-bia
-parent: y-te-duoc
 ---
 
 # Phòng, chống tác hại của rượu, bia
 
-**Đề mục:** Phòng, chống tác hại của rượu, bia  
-**Chủ đề:** [Y tế, dược](/y-te-duoc/)  
-**Số điều khoản:** 126  
-**Điều khoản có nội dung:** 81/119 (68.1%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 45.11.LQ.1. Phạm vi điều chỉnh
+Điều 45.11.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 44/2019/QH14 Luật phòng, chống tác hại của rượu, bia ngày 14/06/2019 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 1
+Luật này quy định biện pháp giảm mức tiêu thụ rượu, bia; biện pháp quản lý việc cung cấp rượu, bia; biện pháp giảm tác hại của rượu, bia; điều kiện bảo đảm cho hoạt động phòng, chống tác hại của rượu, bia; quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống tác hại của rượu, bia.
 
-**Mã phân cấp:** 4501100000000000100000100000000000000000
+Điều 45.11.NĐ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00076038
+(Điều 1 Nghị định số 105/2017/NĐ-CP Về kinh doanh rượu ngày 14/09/2017 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
----
+1. Nghị định này quy định về hoạt động kinh doanh rượu, bao gồm: Hoạt động sản xuất, nhập khẩu, phân phối, bán buôn, bán lẻ rượu; hoạt động bán rượu tiêu dùng tại chỗ.
 
+2. Nghị định này không áp dụng đối với:
 
-### Điều 45.11.NĐ.1.1. Phạm vi điều chỉnh
+a) Hoạt động xuất khẩu, tạm nhập tái xuất, tạm xuất tái nhập, chuyển khẩu, quá cảnh rượu;
 
-*Nội dung chưa có sẵn*
+b) Nhập khẩu rượu để kinh doanh tại cửa hàng miễn thuế;
 
-**Chỉ mục:** 1
+c) Nhập khẩu rượu từ nước ngoài vào khu phi thuế quan, mua bán rượu giữa các khu phi thuế quan; hoạt động kinh doanh rượu tại khu phi thuế quan, hoạt động gửi kho ngoại quan;
 
-**Mã phân cấp:** 4501100000000000100000140263100105000010
+d) Rượu nhập khẩu là hành lý, tài sản di chuyển, quà biếu, quà tặng, hàng mẫu trong, định mức được miễn thuế; xét miễn thuế, không chịu thuế.
 
-**ID:** dk_00076039
+(Điều này có nội dung liên quan đến Điều 45.11.TT.2.2. Trường hợp phải dán tem và không phải dán tem trên bao bì sản phẩm; Điều 33.4.TT.6.3. Mẫu tem và quy định về dán tem điện tử)
 
----
+Điều 45.11.NĐ.1.2. Đối tượng áp dụng
 
+(Điều 2 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-### Điều 45.11.NĐ.1.2. Đối tượng áp dụng
+Nghị định này áp dụng đối với thương nhân kinh doanh rượu và các tổ chức, cá nhân có liên quan đến kinh doanh rượu.
 
-*Nội dung chưa có sẵn*
+Điều 45.11.NĐ.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Nghị định số 24/2020/NĐ-CP Quy định chi tiết một số điều của Luật Phòng, chống tác hại của rượu, bia ngày 24/02/2020 của Chính phủ, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 4501100000000000100000140263100105000020
+Nghị định này quy định chi tiết một số điều của Luật Phòng, chống tác hại của rượu, bia về một số biện pháp giảm mức tiêu thụ và quản lý việc cung cấp rượu, bia bao gồm địa điểm công cộng không được uống rượu, bia; hạn chế sử dụng hình ảnh diễn viên uống rượu, bia trong tác phẩm điện ảnh, sân khấu, truyền hình; quản lý việc quảng cáo rượu có độ cồn dưới 15 độ và bia; việc thực hiện biện pháp ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin và mua rượu, bia trong hoạt động bán rượu, bia theo hình thức thương mại điện tử; nội dung, mức chi cho hoạt động phòng, chống tác hại của rượu, bia; trách nhiệm thực hiện thông tin, giáo dục, truyền thông và trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076040
+Điều 45.11.NĐ.2.2. Đối tượng áp dụng
 
----
+(Điều 2 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
+Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến hoạt động phòng, chống tác hại của rượu, bia.
 
-### Điều 45.11.NĐ.2.1. Phạm vi điều chỉnh
+Điều 45.11.TT.1.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 26/2019/TT-BCT quy định biểu mẫu kê khai của hộ gia đình, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh. ngày 14/11/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 1
+Thông tư này quy định về biểu mẫu kê khai của hộ gia đình, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh (sau đây gọi tắt là hộ gia đình, cá nhân sản xuất rượu).
 
-**Mã phân cấp:** 4501100000000000100000140272030024000010
+Điều 45.11.TT.1.2. Đối tượng áp dụng
 
-**ID:** dk_00076041
+(Điều 2 Thông tư số 26/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+Thông tư này áp dụng đối với:
 
+1. Hộ gia đình, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh.
 
-### Điều 45.11.NĐ.2.2. Đối tượng áp dụng
+2. Cơ quan, đơn vị, cá nhân có liên quan đến việc kê khai về sản xuất rượu thủ công không nhằm mục đích kinh doanh.
 
-*Nội dung chưa có sẵn*
+Điều 45.11.TT.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Thông tư số 15/2020/TT-BTC Hướng dẫn việc in, pbát hành, quản lý và sử dụng tem đối với rượu sản xuẩt để tiêu thụ trong nước và rượu nhập khẩu ngày 23/03/2020 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07/05/2020 )
 
-**Mã phân cấp:** 4501100000000000100000140272030024000020
+Thông tư này quy định chi tiết Điều 35 Nghị định số 105/2017/NĐ-CP ngày 14/9/2017 của Chính phủ về việc in, phát hành, quản lý, sử dụng tem đối với rượu sản xuất để tiêu thụ trong nước và rượu nhập khẩu (sau đây gọi là tem rượu).
 
-**ID:** dk_00076042
+Điều 45.11.LQ.2. Giải thích từ ngữ
 
----
+(Điều 2 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 45.11.TT.1.1. Phạm vi điều chỉnh
+1. Rượu là đồ uống có cồn thực phẩm, được sản xuất từ quá trình lên men từ một hoặc hỗn hợp của các loại nguyên liệu chủ yếu gồm tinh bột của ngũ cốc, dịch đường của cây, hoa, củ, quả hoặc là đồ uống được pha chế từ cồn thực phẩm.
 
-*Nội dung chưa có sẵn*
+2. Bia là đồ uống có cồn thực phẩm, được sản xuất từ quá trình lên men từ hỗn hợp của các loại nguyên liệu chủ yếu gồm mạch nha (malt), đại mạch, nấm men bia, hoa bia (hoa houblon), nước.
 
-**Chỉ mục:** 1
+3. Cồn thực phẩm là hợp chất hữu cơ có công thức phân tử là C2H5OH và có tên khoa học là ethanol đã được loại bỏ tạp chất, đạt yêu cầu dùng trong thực phẩm theo quy chuẩn kỹ thuật quốc gia, có khả năng gây nghiện và gây ngộ độc cấp tính.
 
-**Mã phân cấp:** 4501100000000000100000180271010026000010
+4. Độ cồn là số đo chỉ hàm lượng cồn thực phẩm có trong rượu, bia tính theo phần trăm thể tích. Độ cồn được tính bằng số mililít ethanol nguyên chất trong 100 ml dung dịch ở 20°C.
 
-**ID:** dk_00076043
+5. Tác hại của rượu, bia là ảnh hưởng, tác động có hại của rượu, bia đối với sức khỏe con người, gia đình, cộng đồng, an toàn giao thông, trật tự, an toàn xã hội, kinh tế và các vấn đề xã hội khác.
 
----
+6. Nghiện rượu, bia là tình trạng lệ thuộc vào rượu, bia với biểu hiện đặc trưng như thường xuyên thèm uống, lượng uống có thể tăng theo thời gian, không thể tự kiểm soát lượng uống hay ngừng uống.
 
+7. Sản xuất rượu thủ công là hoạt động sản xuất rượu bằng dụng cụ truyền thống, không sử dụng máy móc, thiết bị công nghiệp.
 
-### Điều 45.11.TT.1.2. Đối tượng áp dụng
+8. Sản xuất rượu công nghiệp là hoạt động sản xuất rượu bằng máy móc, thiết bị công nghiệp.
 
-*Nội dung chưa có sẵn*
+Điều 45.11.NĐ.1.3. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+(Điều 3 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung bị bãi bỏ bởi Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 4501100000000000100000180271010026000020
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00076044
+2. Sản xuất rượu công nghiệp là hoạt động sản xuất rượu trên dây chuyền máy móc, thiết bị công nghiệp.
 
----
+3. Sản xuất rượu thủ công là hoạt động sản xuất rượu bằng dụng cụ truyền thống, không sử dụng máy móc, thiết bị công nghiệp.
 
+4. Rượu bán thành phẩm là rượu chưa hoàn thiện dùng làm nguyên liệu để sản xuất rượu thành phẩm.
 
-### Điều 45.11.TT.2.1. Phạm vi điều chỉnh
+5. Bán rượu tiêu dùng tại chỗ là hoạt động bán rượu trực tiếp cho người mua để tiêu dùng tại địa điểm bán hàng.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 4501100000000000100000180272310015000010
-
-**ID:** dk_00076045
-
----
-
-
-### Điều 45.11.LQ.2. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4501100000000000100000200000000000000000
-
-**ID:** dk_00076046
-
----
-
-
-### Điều 45.11.NĐ.1.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 4501100000000000100000240263100105000030
-
-**ID:** dk_00076047
-
----
-
-
-### Điều 45.11.LQ.3. Chính sách của Nhà nước trong phòng, chống tác hại của rượu, bia
+(Điều này có nội dung liên quan đến Điều 45.11.TT.2.2. Trường hợp phải dán tem và không phải dán tem trên bao bì sản phẩm)
 
 Điều 45.11.LQ.3. Chính sách của Nhà nước trong phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000100000300000000000000000
+1. Thực hiện đồng bộ các biện pháp phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076048
+2. Ưu tiên hoạt động thông tin, giáo dục, truyền thông; giảm tính sẵn có, dễ tiếp cận của rượu, bia; giảm tác hại của rượu, bia; tăng cường quản lý sản xuất rượu thủ công; thực hiện các biện pháp phòng, chống tác hại của rượu, bia đối với trẻ em, học sinh, sinh viên, thanh niên, phụ nữ mang thai.
 
----
+3. Bảo đảm nguồn lực cho công tác phòng, chống tác hại của rượu, bia; chú trọng các hoạt động phòng, chống tác hại của rượu, bia của y tế cơ sở và ở cộng đồng; huy động xã hội hóa các hoạt động phòng, chống tác hại của rượu, bia.
 
+4. Khuyến khích nghiên cứu khoa học, phát triển công nghệ và ứng dụng công nghệ cao, công nghệ tiên tiến, công nghệ mới nhằm giảm tác hại của rượu, bia.
 
-### Điều 45.11.LQ.4. Quyền và nghĩa vụ của cá nhân, tổ chức trong phòng, chống tác hại của rượu, bia
+5. Khen thưởng tập thể, cá nhân có thành tích trong phòng, chống tác hại của rượu, bia.
 
 Điều 45.11.LQ.4. Quyền và nghĩa vụ của cá nhân, tổ chức trong phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000100000400000000000000000
+1. Được sống trong môi trường không chịu ảnh hưởng bởi tác hại của rượu, bia.
 
-**ID:** dk_00076049
+2. Được cung cấp thông tin phù hợp, chính xác, khách quan, khoa học, đầy đủ về rượu, bia, nguồn gốc, xuất xứ, chất lượng và tác hại của rượu, bia.
 
----
+3. Phản ánh, tố cáo hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia; tố cáo việc cơ quan, người có thẩm quyền không xử lý hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia.
 
-
-### Điều 45.11.LQ.5. Các hành vi bị nghiêm cấm trong phòng, chống tác hại của rượu, bia
+4. Tuân thủ quy định của pháp luật về phòng, chống tác hại của rượu, bia.
 
 Điều 45.11.LQ.5. Các hành vi bị nghiêm cấm trong phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000100000500000000000000000
+1. Xúi giục, kích động, lôi kéo, ép buộc người khác uống rượu, bia.
 
-**ID:** dk_00076050
+2. Người chưa đủ 18 tuổi uống rượu, bia.
 
----
+3. Bán, cung cấp, khuyến mại rượu, bia cho người chưa đủ 18 tuổi.
 
+4. Sử dụng lao động là người chưa đủ 18 tuổi trực tiếp tham gia vào việc sản xuất, mua bán rượu, bia.
 
-### Điều 45.11.LQ.6. Mục đích, yêu cầu trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+5. Cán bộ, công chức, viên chức, người lao động trong các cơ quan, tổ chức, sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ, người làm việc trong lực lượng vũ trang nhân dân, học sinh, sinh viên uống rượu, bia ngay trước, trong giờ làm việc, học tập và nghỉ giữa giờ làm việc, học tập.
+
+6. Điều khiển phương tiện giao thông mà trong máu hoặc hơi thở có nồng độ cồn.
+
+7. Quảng cáo rượu có độ cồn từ 15 độ trở lên.
+
+8. Cung cấp thông tin không chính xác, sai sự thật về ảnh hưởng của rượu, bia đối với sức khỏe.
+
+9. Khuyến mại trong hoạt động kinh doanh rượu, bia có độ cồn từ 15 độ trở lên; sử dụng rượu, bia có độ cồn từ 15 độ trở lên để khuyến mại dưới mọi hình thức.
+
+10. Sử dụng nguyên liệu, phụ gia, chất hỗ trợ chế biến không được phép dùng trong thực phẩm; nguyên liệu, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm không bảo đảm chất lượng và không rõ nguồn gốc, xuất xứ để sản xuất, pha chế rượu, bia.
+
+11. Kinh doanh rượu không có giấy phép hoặc không đăng ký; bán rượu, bia bằng máy bán hàng tự động.
+
+12. Kinh doanh, tàng trữ, vận chuyển rượu, bia giả, nhập lậu, không bảo đảm chất lượng, không rõ nguồn gốc, xuất xứ; nhập lậu rượu, bia.
+
+13. Các hành vi bị nghiêm cấm khác liên quan đến rượu, bia do luật định.
+
+(Điều này có nội dung liên quan đến Điều 14.3.LQ.8. Các hành vi bị cấm; Điều 17. Vi phạm quy định đối với chủ phương tiện, người thuê phương tiện, thuyền viên, người lái phương tiện của Nghị định 132/2015/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường thủy nội địa ban hành ngày 25/12/2015; Điều 39.13.NĐ.56.17. Vi phạm quy định đối với người điều khiển ô tô và các loại phương tiện tương tự ô tô trong vùng đất cảng; Điều 39.13.NĐ.56.36. Vi phạm quy định về an toàn sinh mạng trên tàu thuyền; Điều 39.13.NĐ.56.45. Vi phạm quy định trong khi dẫn tàu của hoa tiêu hàng hải của Nghị định 142/2017/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải ban hành ngày 11/12/2017; Điều 39.13.NĐ.60.16. Vi phạm quy định về nhân viên hàng không và thực hiện công việc theo tài liệu, quy trình, yêu cầu công việc, quy trình phối hợp hoạt động của Nghị định 162/2018/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng ban hành ngày 30/11/2018; Điều 39.13.NĐ.70.5. Xử phạt người điều khiển xe ô tô và các loại xe tương tự xe ô tô vi phạm quy tắc giao thông đường bộ; Điều 39.13.NĐ.70.6. Xử phạt người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy tắc giao thông đường bộ; Điều 39.13.NĐ.70.7. Xử phạt người điều khiển máy kéo, xe máy chuyên dùng (sau đây gọi chung là xe) vi phạm quy tắc giao thông đường bộ; Điều 39.13.NĐ.70.8. Xử phạt người điều khiển xe đạp, xe đạp máy (kể cả xe đạp điện), người điều khiển xe thô sơ khác vi phạm quy tắc giao thông đường bộ của Nghị định 100/2019/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt ban hành ngày 30/12/2019)
+
+Chương II
+
+BIỆN PHÁP GIẢM MỨC TIÊU THỤ RƯỢU, BIA
+
+(Chương này có nội dung liên quan đến Điều 33.12.LQ.5. Căn cứ tính thuế của Luật 27/2008/QH12 Thuế tiêu thụ đặc biệt ban hành ngày 14/11/2008)
 
 Điều 45.11.LQ.6. Mục đích, yêu cầu trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200000600000000000000000
+1. Thông tin, giáo dục, truyền thông nhằm nâng cao nhận thức, định hướng hành vi, thay đổi thói quen có hại để phòng, chống tác hại của rượu, bia đối với sức khỏe con người, gia đình, cộng đồng, an toàn giao thông, trật tự, an toàn xã hội, kinh tế và các vấn đề xã hội khác.
 
-**ID:** dk_00076052
+2. Việc thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia phải bảo đảm các yêu cầu sau đây:
 
----
+a) Chính xác, khách quan và khoa học;
 
-
-### Điều 45.11.LQ.7. Nội dung thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+b) Thường xuyên; phù hợp, dễ tiếp cận và hiệu quả đối với từng đối tượng, trình độ, lứa tuổi, giới tính; phù hợp với truyền thống, văn hóa, bản sắc dân tộc, tôn giáo và phong tục tập quán; chú trọng đối với học sinh, sinh viên, thanh niên, phụ nữ mang thai và cá nhân, tổ chức, hộ gia đình sản xuất rượu thủ công.
 
 Điều 45.11.LQ.7. Nội dung thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200000700000000000000000
+1. Chính sách, pháp luật của Nhà nước về phòng, chống tác hại của rượu, bia; các hành vi bị nghiêm cấm trong phòng, chống tác hại của rượu, bia; các chế tài xử phạt và vận động cá nhân, tổ chức tuân thủ quy định của pháp luật về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076053
+2. Quyền, nghĩa vụ của cá nhân và trách nhiệm của cơ quan, tổ chức, gia đình, cộng đồng trong phòng, chống tác hại của rượu, bia.
 
----
+3. Tác hại của rượu, bia; tác hại của rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm; các mức độ nguy cơ khi uống rượu, bia; các biện pháp giảm tác hại của rượu, bia.
 
+4. Bệnh, tình trạng sức khỏe, đối tượng không nên uống rượu, bia; độ tuổi không được uống rượu, bia.
 
-### Điều 45.11.LQ.8. Hình thức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+5. Kỹ năng từ chối uống rượu, bia; kỹ năng nhận biết và ứng xử, xử trí khi gặp người say rượu, bia, người nghiện rượu, bia.
+
+6. Vận động hạn chế uống rượu, bia và không điều khiển phương tiện giao thông, vận hành máy móc sau khi uống rượu, bia.
+
+7. Hướng dẫn hộ gia đình, cá nhân sản xuất rượu thủ công bảo đảm an toàn thực phẩm theo quy định của pháp luật.
+
+8. Tuyên truyền, vận động, hướng dẫn hộ gia đình, cá nhân sản xuất rượu thủ công làm thủ tục cấp giấy phép sản xuất, đăng ký với Ủy ban nhân dân cấp xã việc bán rượu cho cơ sở có giấy phép sản xuất rượu để chế biến lại, kê khai việc sản xuất rượu thủ công không nhằm mục đích kinh doanh.
 
 Điều 45.11.LQ.8. Hình thức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200000800000000000000000
+1. Thực hiện trực tiếp; tư vấn, hướng dẫn tìm hiểu pháp luật; cung cấp, phổ biến tài liệu.
 
-**ID:** dk_00076054
+2. Thông qua phương tiện thông tin đại chúng, loa truyền thanh, mạng Internet, pa-nô, áp-phích, tranh cổ động.
 
----
+3. Thi tuyên truyền, tìm hiểu.
 
+4. Chiến dịch truyền thông.
 
-### Điều 45.11.LQ.9. Trách nhiệm trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+5. Lồng ghép trong việc giảng dạy, học tập tại cơ sở giáo dục thuộc hệ thống giáo dục quốc dân; trong hoạt động văn hóa, nghệ thuật, thể thao; trong hoạt động của cơ quan, tổ chức, cộng đồng và các thiết chế văn hóa, thể thao cơ sở.
 
 Điều 45.11.LQ.9. Trách nhiệm trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200000900000000000000000
+1. Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện thông tin, giáo dục, truyền thông quy định tại các điều 6, 7 và 8 của Luật này.
 
-**ID:** dk_00076055
-
----
-
-
-### Điều 45.11.NĐ.2.4. Hạn chế hình ảnh diễn viên uống rượu, bia trong tác phẩm điện ảnh, sân khấu, truyền hình
+2. Chính phủ quy định trách nhiệm thực hiện thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia và việc hạn chế sử dụng hình ảnh diễn viên uống rượu, bia trong tác phẩm điện ảnh, sân khấu, truyền hình.
 
 Điều 45.11.NĐ.2.4. Hạn chế hình ảnh diễn viên uống rượu, bia trong tác phẩm điện ảnh, sân khấu, truyền hình
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000020000090000000000000000000402720300240000400
+ 1. Việc sử dụng hình ảnh diễn viên uống rượu, bia trong tác phẩm điện ảnh, sân khấu, truyền hình phải bảo đảm các yêu cầu sau đây:
 
-**ID:** dk_00076056
+ a) Không thể hiện các hành vi bị nghiêm cấm được quy định tại Điều 5, hành vi uống rượu, bia ở các địa điểm được quy định tại Điều 10, hành vi bán rượu, bia ở các địa điểm được quy định tại Điều 19 Luật Phòng, chống tác hại của rượu, bia hoặc hành vi uống rượu, bia trong tác phẩm sân khấu, điện ảnh, truyền hình dành cho người dưới 18 tuổi; trừ trường hợp nhằm phê phán, lên án các hành vi này;
 
----
+ b) Không ca ngợi tổ chức, cá nhân thành công từ sản xuất, kinh doanh rượu, bia;
 
+ c) Việc sử dụng hình ảnh diễn viên uống rượu, bia nhằm mục đích nghệ thuật chỉ được thực hiện trong trường hợp cần thiết để khắc họa hình tượng nhân vật lịch sử hoặc tái hiện một giai đoạn lịch sử nhất định hoặc phê phán, lên án hành vi uống rượu, bia;
 
-### Điều 45.11.NĐ.2.14. Trách nhiệm thực hiện thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+ d) Việc sử dụng hình ảnh diễn viên uống rượu, bia nhằm mục đích nghệ thuật ngoài các trường hợp quy định tại điểm c khoản này phải được cơ quan có thẩm quyền duyệt phim chấp thuận trên cơ sở đề nghị của Hội đồng thẩm định phim theo quy định của Luật Điện ảnh hoặc được cơ quan có thẩm quyền cấp phép tổ chức biểu diễn nghệ thuật chấp thuận theo quy định tại Nghị định số 15/2016/NĐ-CP ngày 15 ngày 3 tháng 2016 của Chính phủ sửa đổi, bổ sung một số Điều của Nghị định số 79/2012/NĐ-CP ngày 05 tháng 10 năm 2012 của Chính phủ quy định về biểu diễn nghệ thuật, trình diễn thời trang; thi người đẹp và người mẫu; lưu hành, kinh doanh bản ghi âm, ghi hình ca múa nhạc, sân khấu. Việc chấp thuận hình ảnh diễn viên uống rượu, bia nhằm mục đích nghệ thuật được thực hiện lồng ghép trong quá trình thẩm định, cấp phép, phê duyệt tác phẩm điện ảnh, sân khấu, truyền hình theo quy định của pháp luật và bảo đảm không phát sinh thêm thủ tục hành chính.
 
-Điều 45.11.NĐ.2.14. Trách nhiệm thực hiện thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+ 2. Mức độ xuất hiện cảnh diễn viên uống rượu, bia trong các trường hợp quy định tại điểm c, điểm d khoản 1 Điều này là tiêu chí phân loại phim để phổ biến phim theo lứa tuổi phù hợp, được lồng ghép trong tiêu chí phân loại phim theo hướng dẫn của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.Điều 45.11.NĐ.2.14. Trách nhiệm thực hiện thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000020000090000000000000000000402720300240001400
+ 1. Bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm tổ chức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia phù hợp với chức năng, nhiệm vụ, lĩnh vực và địa bàn được phân công quản lý.
 
-**ID:** dk_00076057
+ 2. Người đứng đầu cơ quan, tổ chức có trách nhiệm chủ động tổ chức, tham gia thực hiện việc thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia phù hợp với chức năng, nhiệm vụ, lĩnh vực và địa bàn được phân công quản lý:
 
----
+ a) Tổ chức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia đáp ứng mục đích, yêu cầu, nội dung quy định của Luật Phòng, chống tác hại của rượu, bia bằng các hình thức phù hợp với đối tượng thông tin, giáo dục, truyền thông và điều kiện, tình hình thực tế của địa phương;
 
+ b) Tổ chức lồng ghép, đưa các hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia vào các kế hoạch hoạt động hằng năm của cơ quan, đơn vị;
 
-### Điều 45.11.LQ.10. Địa điểm không uống rượu, bia
+ c) Tạo điều kiện, khuyến khích các cá nhân, đơn vị thuộc cơ quan, tổ chức tích cực tham gia các chiến dịch, hoạt động truyền thông về phòng, chống tác hại của rượu, bia.
 
-*Nội dung chưa có sẵn*
+ 3. Cơ sở giáo dục có trách nhiệm tổ chức thông tin, giáo dục, truyền thông về tác hại của rượu, bia và phòng, chống tác hại của rượu, bia phù hợp với lứa tuổi của học sinh, sinh viên.
 
-**Chỉ mục:** 10
+ 4. Cơ sở y tế có trách nhiệm tổ chức thông tin, giáo dục, truyền thông về tác hại của rượu, bia và phòng, chống tác hại của rượu, bia cho người bệnh, gia đình người bệnh và người dân đến khám, điều trị và sử dụng dịch vụ phù hợp với lĩnh vực chuyên môn, đối tượng phục vụ của cơ sở y tế.
 
-**Mã phân cấp:** 4501100000000000200001000000000000000000
+ 5. Cá nhân, gia đình có trách nhiệm tham gia, hưởng ứng các hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia.Điều 45.11.LQ.10. Địa điểm không uống rượu, bia
 
-**ID:** dk_00076058
+(Điều 10 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+1. Cơ sở y tế.
 
+2. Cơ sở giáo dục trong thời gian giảng dạy, học tập, làm việc.
 
-### Điều 45.11.NĐ.2.3. Địa điểm công cộng không được uống rượu, bia
+3. Cơ sở, khu vực chăm sóc, nuôi dưỡng, vui chơi, giải trí dành cho người chưa đủ 18 tuổi.
+
+4. Cơ sở cai nghiện, cơ sở giáo dục bắt buộc, trường giáo dưỡng, cơ sở giam giữ phạm nhân và cơ sở giam giữ khác.
+
+5. Cơ sở bảo trợ xã hội.
+
+6. Nơi làm việc của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, đơn vị sự nghiệp công lập trong thời gian làm việc, trừ địa điểm được phép kinh doanh rượu, bia.
+
+7. Các địa điểm công cộng theo quy định của Chính phủ.
 
 Điều 45.11.NĐ.2.3. Địa điểm công cộng không được uống rượu, bia
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000020000100000000000000000000402720300240000300
+ Ngoài các địa điểm quy định tại các khoản 1, 2, 3, 4, 5 và khoản 6 Điều 10 Luật Phòng, chống tác hại của rượu, bia, các địa điểm công cộng không được uống rượu, bia bao gồm:
 
-**ID:** dk_00076059
+ 1. Công viên, trừ trường hợp nhà hàng trong phạm vi khuôn viên của công viên đã được cấp phép kinh doanh rượu, bia trước ngày Nghị định này có hiệu lực.
 
----
+ 2. Nhà chờ xe buýt.
 
+ 3. Rạp chiếu phim, nhà hát, cơ sở văn hóa, thể thao trong thời gian tổ chức các hoạt động theo chức năng, nhiệm vụ và công năng sử dụng chính của các địa điểm này, trừ trường hợp tổ chức các lễ hội ẩm thực, văn hóa có sử dụng rượu, bia.Điều 45.11.LQ.11. Quản lý việc khuyến mại rượu, bia có độ cồn dưới 15 độ
 
-### Điều 45.11.LQ.11. Quản lý việc khuyến mại rượu, bia có độ cồn dưới 15 độ
+(Điều 11 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-Điều 45.11.LQ.11. Quản lý việc khuyến mại rượu, bia có độ cồn dưới 15 độ
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 4501100000000000200001100000000000000000
-
-**ID:** dk_00076060
-
----
-
-
-### Điều 45.11.LQ.12. Quản lý việc quảng cáo rượu, bia có độ cồn dưới 5,5 độ
+Tổ chức, cá nhân thực hiện khuyến mại rượu, bia có độ cồn dưới 15 độ phải tuân thủ các quy định của Luật này và quy định khác của pháp luật về khuyến mại.
 
 Điều 45.11.LQ.12. Quản lý việc quảng cáo rượu, bia có độ cồn dưới 5,5 độ
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200001200000000000000000
+1. Tổ chức, cá nhân thực hiện quảng cáo rượu, bia phải tuân thủ các quy định của Luật này và quy định khác của pháp luật về quảng cáo.
 
-**ID:** dk_00076061
+2. Quảng cáo không thể hiện các nội dung sau đây:
 
----
+a) Có thông tin, hình ảnh nhằm khuyến khích uống rượu, bia; thông tin rượu, bia có tác dụng tạo sự trưởng thành, thành đạt, thân thiện, hấp dẫn về giới tính; hướng đến trẻ em, học sinh, sinh viên, thanh niên, phụ nữ mang thai;
 
+b) Sử dụng vật dụng, hình ảnh, biểu tượng, âm nhạc, nhân vật trong phim, nhãn hiệu sản phẩm dành cho trẻ em, học sinh, sinh viên; sử dụng người chưa đủ 18 tuổi hoặc hình ảnh của người chưa đủ 18 tuổi trong quảng cáo rượu, bia.
 
-### Điều 45.11.NĐ.2.5. Một số biện pháp quản lý việc quảng cáo rượu có độ cồn dưới 15 độ và bia
+3. Không thực hiện quảng cáo trên các phương tiện quảng cáo trong trường hợp sau đây:
+
+a) Sự kiện, phương tiện quảng cáo, sản phẩm dành cho người chưa đủ 18 tuổi, học sinh, sinh viên, thanh niên, phụ nữ mang thai;
+
+b) Phương tiện giao thông;
+
+c) Báo nói, báo hình ngay trước, trong và ngay sau chương trình dành cho trẻ em; trong thời gian từ 18 giờ đến 21 giờ hằng ngày, trừ trường hợp quảng cáo có sẵn trong các chương trình thể thao mua bản quyền tiếp sóng trực tiếp từ nước ngoài và trường hợp khác theo quy định của Chính phủ;
+
+d) Phương tiện quảng cáo ngoài trời vi phạm quy định về kích thước, khoảng cách đặt phương tiện quảng cáo tính từ khuôn viên của cơ sở giáo dục, cơ sở, khu vực chăm sóc, nuôi dưỡng, vui chơi, giải trí dành cho người chưa đủ 18 tuổi.
+
+4. Quảng cáo phải có cảnh báo để phòng, chống tác hại của rượu, bia.
+
+5. Quảng cáo trên báo điện tử, trang thông tin điện tử, phương tiện điện tử, thiết bị đầu cuối và thiết bị viễn thông khác phải có hệ thống công nghệ chặn lọc, phần mềm kiểm soát tuổi của người truy cập để ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin về rượu, bia.
+
+6. Chính phủ quy định chi tiết điểm d khoản 3, khoản 4 và khoản 5 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 41.9.LQ.1. Phạm vi điều chỉnh)
 
 Điều 45.11.NĐ.2.5. Một số biện pháp quản lý việc quảng cáo rượu có độ cồn dưới 15 độ và bia
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000020000120000000000000000000402720300240000500
+ 1. Ngoài trường hợp quy định tại điểm c khoản 3 Điều 12 Luật Phòng, chống tác hại của rượu, bia, trường hợp được quảng cáo rượu, bia có độ cồn dưới 5,5 độ trên báo nói, báo hình trong thời gian từ 18 giờ đến 21 giờ hằng ngày bao gồm các quảng cáo rượu, bia của đơn vị tài trợ tại địa điểm diễn ra chương trình đại hội thể thao, giải thi đấu thể thao quy mô khu vực, châu lục hoặc thế giới tổ chức tại Việt Nam được phát sóng trực tiếp trên báo nói, báo hình.
 
-**ID:** dk_00076062
+ 2. Quảng cáo rượu, bia có độ cồn dưới 5,5 độ trên phương tiện quảng cáo ngoài trời phải tuân thủ các quy định sau đây:
 
----
+ a) Kích thước biển quảng cáo thực hiện theo quy chuẩn kỹ thuật quốc gia đối với phương tiện quảng cáo;
 
+ b) Bảo đảm khoảng cách tối thiểu 200m tính từ điểm đặt phương tiện quảng cáo đến ranh giới gần nhất của khuôn viên cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở, khu vực chăm sóc, nuôi dưỡng vui chơi, giải trí dành cho người chưa đủ 18 tuổi; tối thiểu 100m tính từ điểm đặt phương tiện quảng cáo đến ranh giới gần nhất của khuôn viên cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học; trừ trường hợp biển hiệu của cơ sở kinh doanh rượu, bia. Trường hợp đã có quảng cáo rượu, bia trên phương tiện quảng cáo ngoài trời đặt trong phạm vi khoảng cách trên trước ngày Nghị định này có hiệu lực thì tiếp tục được thực hiện đến khi hợp đồng về việc đặt quảng cáo đó hết hiệu lực và không được gia hạn hợp đồng.
 
-### Điều 45.11.LQ.13. Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên
+ 3. Quảng cáo rượu có độ cồn dưới 15 độ và bia phải có cảnh báo để phòng, chống tác hại của rượu, bia bảo đảm các quy định sau đây:
+
+ a) Có một trong các nội dung cảnh báo: "uống rượu, bia có thể gây tai nạn giao thông", "uống rượu, bia có thể ảnh hưởng đến sức khỏe thai nhi", "người dưới 18 tuổi không được uống rượu, bia";
+
+ b) Quảng cáo rượu, bia trên báo nói, báo hình, đài phát thanh, sản phẩm quảng cáo rượu, bia ghi âm, ghi hình phải đọc rõ nội dung cảnh báo theo quy định tại điểm a khoản này với tốc độ đọc tương đương tốc độ đọc các nội dung khác trong cùng một quảng cáo;
+
+ c) Quảng cáo rượu, bia trên báo hình, báo điện tử, trang thông tin điện tử, mạng xã hội, đài phát thanh có hình, phương tiện điện tử, thiết bị đầu cuối và thiết bị viễn thông khác có hình ảnh, sản phẩm quảng cáo rượu, bia ghi hình phải thể hiện nội dung cảnh báo theo quy định tại điểm a khoản này bằng chữ viết có màu tương phản với màu nền bảo đảm dễ nhìn, chiếm tối thiểu 10% diện tích quảng cáo. Trường hợp quảng cáo rượu, bia trên truyền hình thì cảnh báo bằng chữ viết phải thể hiện theo hết chiều ngang của màn hình;
+
+ d) Quảng cáo tại địa điểm kinh doanh rượu, bia phải có nội dung cảnh báo theo quy định tại điểm a khoản này bằng chữ viết bảo đảm rõ nét, dễ nhìn hoặc bản ghi âm, ghi hình quảng cáo đáp ứng yêu cầu quy định tại điểm b, điểm c khoản này;
+
+ đ) Quảng cáo rượu, bia khác ngoài các trường hợp quy định tại các điếm b, c và điểm d khoản này phải có nội dung cảnh báo theo quy định tại điểm a khoản này bằng chữ viết bảo đảm rõ nét, dễ nhìn.
+
+ 4. Quảng cáo rượu, bia trên báo điện tử, trang thông tin điện tử, mạng xã hội, phương tiện điện tử, thiết bị đầu cuối và thiết bị viễn thông khác phải có hệ thống công nghệ chặn lọc, phần mềm kiểm soát tuổi của người truy cập để ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin về rượu, bia bảo đảm các yêu cầu sau đây:
+
+ a) Không hiển thị quảng cáo trước khi người truy cập, tìm kiếm thông tin khai báo tuổi;
+
+ b) Quảng cáo không được liên kết, quảng bá đến các tài khoản người dùng chưa đủ 18 tuổi; các trang, kênh, phương tiện thông tin khác trên môi trường mạng dành riêng cho người chưa đủ 18 tuổi hoặc có đa số người sử dụng, truy cập chưa đủ 18 tuổi;
+
+ c) Trường hợp quảng cáo rượu, bia được thực hiện trước khi Nghị định này có hiệu lực chưa đáp ứng yêu cầu quy định tại điểm a, điểm b khoản này thì tiếp tục được thực hiện đến khi hợp đồng quảng cáo hết hiệu lực và không được gia hạn hợp đồng.(Điều này có nội dung liên quan đến Điều 45.11.LQ.13. Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên)
 
 Điều 45.11.LQ.13. Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200001300000000000000000
+Tổ chức, cá nhân thực hiện quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên phải tuân thủ quy định tại Điều 12 của Luật này và không quảng cáo trong trường hợp sau đây:
 
-**ID:** dk_00076063
+1. Trong các chương trình, hoạt động văn hóa, sân khấu, điện ảnh, thể thao;
 
----
+2. Trên các phương tiện quảng cáo ngoài trời, trừ biển hiệu của cơ sở kinh doanh rượu, bia.
 
-
-### Điều 45.11.LQ.14. Quản lý việc tài trợ của tổ chức, cá nhân kinh doanh rượu, bia
+(Điều này có nội dung liên quan đến Điều 45.11.NĐ.2.5. Một số biện pháp quản lý việc quảng cáo rượu có độ cồn dưới 15 độ và bia; Điều 41.1.NĐ.6. Quyền, trách nhiệm của chủ địa điểm tổ chức biểu diễn nghệ thuật; Điều 41.1.NĐ.10. Điều kiện, thủ tục tổ chức biểu diễn nghệ thuật quy định tại khoản 3 Điều 8 Nghị định này; Điều 41.1.NĐ.13. Điều kiện, thủ tục tổ chức cuộc thi, liên hoan các loại hình nghệ thuật biểu diễn quy định tại khoản 2 Điều 11 Nghị định này; Điều 41.1.NĐ.16. Điều kiện, thủ tục tổ chức cuộc thi người đẹp, người mẫu quy định tại khoản 2 Điều 14)
 
 Điều 45.11.LQ.14. Quản lý việc tài trợ của tổ chức, cá nhân kinh doanh rượu, bia
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000200001400000000000000000
+Tổ chức, cá nhân kinh doanh rượu, bia thực hiện tài trợ phải tuân thủ các quy định của pháp luật có liên quan đến việc tài trợ và không được tài trợ bằng sản phẩm rượu, bia.
 
-**ID:** dk_00076064
+Chương III
 
----
+BIỆN PHÁP QUẢN LÝ VIỆC CUNG CẤP RƯỢU, BIA
 
+Điều 45.11.LQ.15. Quản lý kinh doanh rượu
 
-### Điều 45.11.LQ.15. Quản lý kinh doanh rượu
+(Điều 15 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+1. Điều kiện cấp phép sản xuất rượu công nghiệp có độ cồn từ 5,5 độ trở lên bao gồm:
 
-**Chỉ mục:** 15
+a) Doanh nghiệp được thành lập theo quy định của pháp luật;
 
-**Mã phân cấp:** 4501100000000000300001500000000000000000
+b) Có dây chuyền máy móc, thiết bị công nghiệp, quy trình công nghệ sản xuất rượu đáp ứng quy mô dự kiến sản xuất;
 
-**ID:** dk_00076066
+c) Bảo đảm điều kiện về an toàn thực phẩm và bảo vệ môi trường theo quy định của pháp luật;
 
----
+d) Có nhân viên kỹ thuật có trình độ, chuyên môn phù hợp với ngành, nghề sản xuất rượu.
 
+2. Điều kiện cấp phép sản xuất rượu thủ công có độ cồn từ 5,5 độ trở lên nhằm mục đích kinh doanh, trừ trường hợp quy định tại khoản 3 Điều này, bao gồm:
 
-### Điều 45.11.NĐ.1.4. Nguyên tắc quản lý rượu
+a) Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh được thành lập theo quy định của pháp luật;
 
-*Nội dung chưa có sẵn*
+b) Bảo đảm điều kiện về an toàn thực phẩm theo quy định của pháp luật.
 
-**Chỉ mục:** 4
+3. Điều kiện đối với hộ gia đình, cá nhân sản xuất rượu thủ công có độ cồn từ 5,5 độ trở lên bán cho cơ sở có giấy phép sản xuất rượu để chế biến lại bao gồm:
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050000400
+a) Có hợp đồng mua bán với cơ sở có giấy phép sản xuất rượu và có đăng ký với Ủy ban nhân dân cấp xã nơi có cơ sở sản xuất;
 
-**ID:** dk_00076067
+b) Bảo đảm điều kiện về an toàn thực phẩm theo quy định của pháp luật.
 
----
+4. Điều kiện cấp phép mua bán rượu có độ cồn từ 5,5 độ trở lên bao gồm:
 
+a) Đăng ký kinh doanh theo quy định của pháp luật;
 
-### Điều 45.11.NĐ.1.5. Chất lượng và an toàn thực phẩm
+b) Đáp ứng điều kiện theo từng loại hình mua bán rượu.
 
-*Nội dung chưa có sẵn*
+5. Chính phủ quy định chi tiết Điều này và quy định việc quản lý kinh doanh rượu có độ cồn dưới 5,5 độ.
 
-**Chỉ mục:** 5
+(Điều này có nội dung liên quan đến Điều 45.1.LQ.10. Điều kiện chung về bảo đảm an toàn đối với thực phẩm; Điều 45.1.LQ.19. Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm; Điều 45.1.LQ.20. Điều kiện bảo đảm an toàn thực phẩm trong bảo quản thực phẩm; Điều 45.1.LQ.21. Điều kiện bảo đảm an toàn thực phẩm trong vận chuyển thực phẩm; Điều 7. Ngành, nghề đầu tư kinh doanh có điều kiện của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 6. Hàng hóa bán tại cửa hàng miễn thuế của Nghị định 167/2016/NĐ-CP Về kinh doanh hàng miễn thuế ban hành ngày 27/12/2016)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050000500
+Điều 45.11.NĐ.1.4. Nguyên tắc quản lý rượu
 
-**ID:** dk_00076068
+(Điều 4 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
----
+1. Kinh doanh rượu thuộc danh mục ngành, nghề đầu tư kinh doanh có điều kiện. Tổ chức, cá nhân hoạt động kinh doanh rượu phải tuân thủ các quy định của Luật Phòng, chống tác hại của rượu, bia và các quy định tại Nghị định này.
 
+2. Thương nhân sản xuất rượu công nghiệp, sản xuất rượu thủ công nhằm mục đích kinh doanh, phân phối rượu, bán buôn rượu, bán lẻ rượu có độ cồn từ 5,5 độ trở lên phải có giấy phép; thương nhân bán rượu có độ cồn từ 5.5 độ trở lên tiêu dùng tại chỗ, thương nhân kinh doanh rượu có độ cồn dưới 5.5 độ phải đăng ký với Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng cấp huyện; hộ gia đình, cá nhân sản xuất rượu thủ công có độ cồn từ 5,5 độ trở lên bán cho cơ sở có giấy phép sản xuất rượu để chế biến lại phải đăng ký với Ủy ban nhân dân cấp xã nơi đặt cơ sở sản xuất.
 
-### Điều 45.11.NĐ.1.6. Dán tem và ghi nhãn hàng hóa rượu
+3. Trong quá trình phân phối, bán buôn, bán lẻ rượu, thương nhân phải tuân thủ các quy định của pháp luật về bảo vệ môi trường, an toàn thực phẩm, phòng cháy và chữa cháy.
+
+Trong quá trình bán rượu tiêu dùng tại chỗ, thương nhân phải tuân thủ các quy định về phòng cháy và chữa cháy và bảo vệ môi trường theo quy định của pháp luật.
+
+Điều 45.11.NĐ.1.5. Chất lượng và an toàn thực phẩm
+
+(Điều 5 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
+
+Tổ chức, cá nhân kinh doanh rượu thực hiện công bố sản phẩm rượu, trừ trường hợp hộ gia đình, cá nhân sản xuất rượu thủ công bán cho cơ sở có giấy phép sản xuất rượu để chế biến lại. Thủ tục công bố sản phẩm theo quy định của pháp luật về an toàn thực phẩm và các văn bản quy phạm pháp luật hiện hành khác liên quan.
 
 Điều 45.11.NĐ.1.6. Dán tem và ghi nhãn hàng hóa rượu
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050000600
+1. Rượu sản xuất để tiêu thụ trong nước và rượu nhập khẩu phải được dán tem và ghi nhãn hàng hóa theo quy định, trừ trường hợp sản xuất rượu thủ công bán cho cơ sở có Giấy phép sản xuất rượu để chế biến lại.
 
-**ID:** dk_00076069
-
----
-
-
-### Điều 45.11.NĐ.1.8. Điều kiện sản xuất rượu công nghiệp
+2. Rượu bán thành phẩm nhập khẩu không phải dán tem.
 
 Điều 45.11.NĐ.1.8. Điều kiện sản xuất rượu công nghiệp
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050000800
+1. Là doanh nghiệp được thành lập theo quy định của pháp luật.
 
-**ID:** dk_00076070
+2. Có dây chuyền máy móc, thiết bị, quy trình công nghệ sản xuất rượu đáp ứng quy mô dự kiến sản xuất.
 
----
+3. Bảo đảm các điều kiện về an toàn thực phẩm theo quy định.
 
+4. Bảo đảm các điều kiện về bảo vệ môi trường theo quy định.
 
-### Điều 45.11.NĐ.1.9. Điều kiện sản xuất rượu thủ công nhằm mục đích kinh doanh
+5. Đáp ứng các quy định về ghi nhãn hàng hóa rượu.
+
+6. Có cán bộ kỹ thuật có trình độ, chuyên môn phù hợp với ngành, nghề sản xuất rượu.
 
 Điều 45.11.NĐ.1.9. Điều kiện sản xuất rượu thủ công nhằm mục đích kinh doanh
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050000900
+1. Là doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh được thành lập theo quy định của pháp luật.
 
-**ID:** dk_00076071
-
----
-
-
-### Điều 45.11.NĐ.1.10. Điều kiện sản xuất rượu thủ công để bán cho doanh nghiệp có Giấy phép sản xuất rượu công nghiệp để chế biến lại
+2. Bảo đảm các điều kiện về an toàn thực phẩm và ghi nhãn hàng hóa rượu theo quy định.
 
 Điều 45.11.NĐ.1.10. Điều kiện sản xuất rượu thủ công để bán cho doanh nghiệp có Giấy phép sản xuất rượu công nghiệp để chế biến lại
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001000
+1. Có hợp đồng mua bán với cơ sở có Giấy phép sản xuất rượu để chế biến lại.
 
-**ID:** dk_00076072
+2. Trường hợp không bán rượu cho cơ sở có Giấy phép sản xuất rượu để chế biến lại, tổ chức, cá nhân sản xuất rượu thủ công phải làm thủ tục cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh theo quy định tại Nghị định này.
 
----
+Điều 45.11.NĐ.1.11. Điều kiện phân phối rượu
 
+(Điều 11 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 16, Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-### Điều 45.11.NĐ.1.11. Điều kiện phân phối rượu
+1. Là doanh nghiệp được thành lập theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+4. Có hệ thống phân phối rượu trên địa bàn từ 02 tỉnh, thành phố trực thuộc trung ương trở lên (đã bao gồm địa bàn doanh nghiệp đặt trụ sở chính); tại mỗi địa bàn tỉnh, thành phố trực thuộc trung ương phải có ít nhất 01 thương nhân bán buôn rượu. Trường hợp doanh nghiệp có thành lập chi nhánh hoặc địa điểm kinh doanh ngoài trụ sở chính để kinh doanh rượu thì không cần có xác nhận của thương nhân bán buôn rượu.
 
-**Chỉ mục:** 11
+5. Có văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất rượu, thương nhân phân phối rượu khác hoặc nhà cung cấp rượu ở nước ngoài.
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001100
+Điều 45.11.NĐ.1.12. Điều kiện bán buôn rượu
 
-**ID:** dk_00076073
+(Điều 12 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 16, Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
----
+1. Là doanh nghiệp được thành lập theo quy định của phập luật.
 
+4. Có hệ thống bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương, nơi doanh nghiệp đặt trụ sở chính với ít nhất 01 thương nhân bán lẻ rượu. Trường hợp doanh nghiệp có thành lập chi nhánh hoặc địa điểm kinh doanh ngoài trụ sở chính để kinh doanh rượu thì không cần có xác nhận của thương nhân bán lẻ rượu.
 
-### Điều 45.11.NĐ.1.12. Điều kiện bán buôn rượu
+5. Có văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất rượu, thương nhân phân phối rượu hoặc thương nhân bán buôn rượu khác,
 
-*Nội dung chưa có sẵn*
+Điều 45.11.NĐ.1.13. Điều kiện bán lẻ rượu
 
-**Chỉ mục:** 12
+(Điều 13 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung bị bãi bỏ bởi Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001200
+1. Là doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh được thành lập theo quy định của pháp luật.
 
-**ID:** dk_00076074
+2. Có quyền sử dụng hợp pháp địa điểm kinh doanh cố định, địa chỉ rõ ràng.
 
----
+3. Có văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất rượu, thương nhân phân phối rượu hoặc thương nhân bán buôn rượu.
 
-
-### Điều 45.11.NĐ.1.13. Điều kiện bán lẻ rượu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001300
-
-**ID:** dk_00076075
-
----
-
-
-### Điều 45.11.NĐ.1.14. Điều kiện bán rượu tiêu dùng tại chỗ
+(Điều này có nội dung liên quan đến Điều 34.9.NĐ.14.8. Trách nhiệm của doanh nghiệp, hộ kinh doanh khi kinh doanh dịch vụ vũ trường)
 
 Điều 45.11.NĐ.1.14. Điều kiện bán rượu tiêu dùng tại chỗ
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 16, Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001400
+1. Là doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh được thành lập theo quy định của pháp luật.
 
-**ID:** dk_00076076
+2. Có quyền sử dụng hợp pháp địa điểm kinh doanh cố định, địa chỉ rõ ràng và có đăng ký bán rượu tiêu dùng tại chỗ với Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng cấp huyện nơi thương nhân đặt cơ sở kinh doanh.
 
----
+3. Rượu tiêu dùng tại chỗ phải được cung cấp bởi thương nhân có Giấy phép sản xuất, phân phối, bán buôn hoặc bán lẻ rượu.
 
+5. Trường hợp thương nhân tự sản xuất rượu để bán tiêu dùng tại chỗ thì phải có Giấy phép sản xuất rượu công nghiệp hoặc Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh theo quy định tại Nghị định này.
 
-### Điều 45.11.NĐ.1.15. Quyền và nghĩa vụ của doanh nghiệp sản xuất rượu công nghiệp
+(Điều này có nội dung liên quan đến Điều 34.9.NĐ.14.8. Trách nhiệm của doanh nghiệp, hộ kinh doanh khi kinh doanh dịch vụ vũ trường)
 
 Điều 45.11.NĐ.1.15. Quyền và nghĩa vụ của doanh nghiệp sản xuất rượu công nghiệp
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001500
+1. Được bán rượu do doanh nghiệp sản xuất (trực tiếp hoặc thông qua công ty thành viên, chi nhánh trực thuộc) cho các thương nhân có Giấy phép phân phối rượu, bán buôn rượu, bán lẻ rượu, bán rượu tiêu dùng tại chỗ và thương nhân mua rượu để xuất khẩu.
 
-**ID:** dk_00076077
+2. Được trực tiếp bán lẻ rượu, bán rượu tiêu dùng tại chỗ đối với rượu do mình sản xuất tại các địa điểm kinh doanh của doanh nghiệp.
 
----
+3. Được mua trong nước hoặc nhập khẩu rượu bán thành phẩm để sản xuất rượu thành phẩm.
 
+4. Được mua rượu của tổ chức, cá nhân sản xuất rượu thủ công để chế biến lại.
 
-### Điều 45.11.NĐ.1.16. Quyền và nghĩa vụ của thương nhân sản xuất rượu thủ công nhằm mục đích kinh doanh
+5. Tuân thủ các quy định về an toàn thực phẩm, nhãn hàng hóa, phòng cháy chữa cháy và bảo vệ môi trường.
+
+6. Thực hiện chế độ báo cáo và các nghĩa vụ khác theo quy định tại Nghị định này.
 
 Điều 45.11.NĐ.1.16. Quyền và nghĩa vụ của thương nhân sản xuất rượu thủ công nhằm mục đích kinh doanh
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được bổ sung bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001600
+1. Được bán rượu do mình sản xuất cho các thương nhân có Giấy phép phân phối rượu, bán buôn rượu, bán lẻ rượu, bán rượu tiêu dùng tại chỗ và thương nhân mua rượu để xuất khẩu.
 
-**ID:** dk_00076078
+2. Được trực tiếp bán lẻ rượu, bán rượu tiêu dùng tại chỗ đối với rượu do mình sản xuất tại các địa điểm kinh doanh của thương nhân.
 
----
+3. Chịu trách nhiệm thực hiện các quy định về bảo vệ môi trường trong hoạt động sản xuất rượu của mình.
 
+4. Thực hiện chế độ báo cáo và các nghĩa vụ khác theo quy định tại Nghị định này.
 
-### Điều 45.11.NĐ.1.17. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất rượu thủ công để bán cho cơ sở có Giấy phép sản xuất rượu để chế biến lại
+5. Được mua rượu của hộ gia đình, cá nhân sản xuất rượu thủ công để chế biến lại.
 
 Điều 45.11.NĐ.1.17. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất rượu thủ công để bán cho cơ sở có Giấy phép sản xuất rượu để chế biến lại
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001700
+1. Không bắt buộc phải công bố chất lượng hàng hóa, dán tem rượu, ghi nhãn hàng hóa rượu theo quy định.
 
-**ID:** dk_00076079
+2. Trong quá trình vận chuyển đến nơi tiêu thụ, tổ chức, cá nhân phải xuất trình hợp đồng mua bán rượu với cơ sở có Giấy phép sản xuất rượu để chế biến lại cho các cơ quan có thẩm quyền trong trường hợp bị kiểm tra.
 
----
+3. Đăng ký sản xuất rượu thủ công với Ủy ban nhân dân cấp xã theo Mẫu số 04 ban hành kèm theo Nghị định này và chịu trách nhiệm thực hiện các quy định về bảo vệ môi trường trong hoạt động sản xuất rượu của mình.
 
-
-### Điều 45.11.NĐ.1.18. Quyền và nghĩa vụ của thương nhân phân phối, bán buôn, bán lẻ rượu, thương nhân bán rượu tiêu dùng tại chỗ
+4. Không được bán rượu cho tổ chức, cá nhân không phải là cơ sở có Giấy phép sản xuất rượu để chế biến lại đã ký hợp đồng mua bán để chế biến lại.
 
 Điều 45.11.NĐ.1.18. Quyền và nghĩa vụ của thương nhân phân phối, bán buôn, bán lẻ rượu, thương nhân bán rượu tiêu dùng tại chỗ
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001800
+1. Quyền và nghĩa vụ chung:
 
-**ID:** dk_00076080
+a) Mua, bán rượu có nguồn gốc hợp pháp;
 
----
+b) Niêm yết bản sao hợp lệ giấy phép đã được cơ quan có thẩm quyền cấp tại các địa điểm bán rượu của thương nhân và chỉ được mua, bán rượu theo nội dung ghi trong giấy phép đã được cấp, trừ trường hợp đối với thương nhân bán rượu tiêu dùng tại chỗ.
 
+c) Thực hiện chế độ báo cáo và các nghĩa vụ khác theo quy định tại Nghị định này.
 
-### Điều 45.11.NĐ.1.19. Hồ sơ đề nghị cấp Giấy sản xuất rượu công nghiệp
+2. Quyền và nghĩa vụ của thương nhân phân phối rượu:
+
+a) Nhập khẩu rượu, mua rượu từ thương nhân sản xuất rượu trong nước và thương nhân phân phối rượu khác theo nội dung ghi trong giấy phép;
+
+b) Bán rượu cho các thương nhân phân phối rượu, thương nhân bán buôn rượu, thương nhân bán lẻ rượu, thương nhân bán rượu tiêu dùng tại chỗ trên phạm vi địa bàn các tỉnh, thành phố trực thuộc trung ương được cấp phép;
+
+c) Bán rượu cho thương nhân mua rượu để xuất khẩu;
+
+d) Trực tiếp bán lẻ rượu tại các địa điểm kinh doanh của thương nhân trên phạm vi địa bàn các tỉnh, thành phố trực thuộc trung ương được cấp phép.
+
+3. Quyền và nghĩa vụ của thương nhân bán buôn rượu:
+
+a) Mua rượu từ thương nhân sản xuất rượu trong, nước, thương nhân phân phối rượu, thương nhân bán buôn rượu khác theo nội dung ghi trong giấy phép;
+
+b) Bán rượu cho các thương nhân bán buôn rượu, thương nhân bán lẻ rượu, thương nhân bán rượu tiêu dùng tại chỗ trên phạm vi địa bàn tỉnh, thành phố trực thuộc trung ương được cấp phép;
+
+c) Bán rượu cho thương nhân mua rượu để xuất khẩu;
+
+d) Trực tiếp bán lẻ rượu tại các địa điểm kinh doanh của thương nhân trên phạm vi địa bàn các tỉnh, thành phố trực thuộc trung ương được cấp phép.
+
+4. Quyền và nghĩa vụ thương nhân bán lẻ rượu:
+
+a) Mua rượu từ thương nhân sản xuất rượu trong nước, thương nhân phân phối rượu, thương nhân bán buôn rượu theo nội dung ghi trong giấy phép;
+
+b) Bán rượu cho thương nhân bán rượu tiêu dùng tại chỗ hoặc bán trực tiếp cho người mua tại các địa điểm kinh doanh của thương nhân theo nội dung ghi trong giấy phép.
+
+5. Quyền và nghĩa vụ của thương nhân bán rượu tiêu dùng tại chỗ:
+
+a) Mua rượu từ thương nhân sản xuất rượu trong nước, thương nhân phân phối, thương nhân bán buôn rượu, thương nhân bán lẻ rượu;
+
+b) Bán rượu trực tiếp cho người mua để tiêu dùng tại các địa điểm kinh doanh của thương nhân.
+
+(Điều này có nội dung liên quan đến Điều 34.9.NĐ.14.8. Trách nhiệm của doanh nghiệp, hộ kinh doanh khi kinh doanh dịch vụ vũ trường)
 
 Điều 45.11.NĐ.1.19. Hồ sơ đề nghị cấp Giấy sản xuất rượu công nghiệp
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050001900
+Hồ sơ đề nghị cấp Giấy phép sản xuất rượu công nghiệp (01 bộ) bao gồm:
 
-**ID:** dk_00076081
+1. Đơn đề nghị cấp Giấy phép sản xuất rượu công nghiệp theo Mẫu số 01 ban hành kèm theo Nghị định này.
 
----
+2. Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương.
 
+3. Bản sao Bản công bố sản phẩm rượu hoặc bản sao Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm (đối với rượu chưa có quy chuẩn kỹ thuật); bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm hoặc bản sao một trong các giấy chứng nhận sau: Thực hành sản xuất tốt (GMP), Hệ thống phân tích mối nguy và điểm kiểm soát tới hạn (HACCP), Hệ thống quản lý an toàn thực phẩm (ISO 22000), Tiêu chuẩn thực phẩm quốc tế (EFS), Tiêu chuẩn toàn cầu về an toàn thực phẩm (BRC), Hệ thống an toàn thực phẩm (FSSC 22000).
 
-### Điều 45.11.NĐ.1.20. Hồ sơ đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh
+4. Bản sao Quyết định phê duyệt báo cáo đánh giá tác động môi trường hoặc giấy xác nhận đăng ký kế hoạch bảo vệ môi trường hoặc giấy xác nhận đăng ký bản cam kết bảo vệ môi trường do cơ quan có thẩm quyền cấp.
+
+5. Bản liệt kê tên hàng hóa rượu kèm theo bản sao nhãn hàng hóa rượu mà doanh nghiệp sản xuất hoặc dự kiến sản xuất.
+
+6. Bản sao bằng cấp, giấy chứng nhận chuyên môn và quyết định tuyển dụng hoặc hợp đồng lao động của cán bộ kỹ thuật.
+
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.20. Hồ sơ đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002000
+Hồ sơ đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh (01 bộ) bao gồm:
 
-**ID:** dk_00076082
+1. Đơn đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh theo Mẫu số 01 ban hành kèm theo Nghị định này.
 
----
+2. Bản sao Giấy chứng nhận đăng ký doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh.
 
+3. Bản sao Bản công bố sản phẩm rượu hoặc bản sao Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm (đối với rượu chưa có quy chuẩn kỹ thuật); bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, trừ trường hợp đối với cơ sở thuộc loại kinh doanh thực phẩm nhỏ lẻ theo quy định của pháp luật về an toàn thực phẩm.
 
-### Điều 45.11.NĐ.1.21. Hồ sơ đề nghị cấp Giấy phép phân phối rượu
+4. Bản liệt kê tên hàng hóa rượu kèm theo bản sao nhãn hàng hóa rượu mà tổ chức, cá nhân sản xuất hoặc dự kiến sản xuất.
+
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.21. Hồ sơ đề nghị cấp Giấy phép phân phối rượu
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 16, Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002100
+Hồ sơ đề nghị cấp Giấy phép phân phối rượu (01 bộ) bao gồm:
 
-**ID:** dk_00076083
+1. Đơn đề nghị cấp Giấy phép phân phối rượu theo Mẫu số 01 ban hành kèm theo Nghị định này.
 
----
+2. Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương.
 
+5. Tài liệu về hệ thống phân phối rượu gồm một trong hai loại sau:
 
-### Điều 45.11.NĐ.1.22. Hồ sơ đề nghị cấp Giấy phép bán buôn rượu
+a) Bản sao hợp đồng nguyên tắc, thư xác nhận hoặc bản cam kết tham gia hệ thống phân phối rượu kèm bản sao Giấy phép bán buôn rượu của thương nhân dự kiến tham gia hệ thống phân phối rượu;
+
+b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh của doanh nghiệp hoặc Giấy chứng nhận đăng ký địa điểm kinh doanh của doanh nghiệp để kinh doanh rượu.
+
+6. Tài liệu liên quan đến nhà cung cấp rượu:
+
+a) Bản sao các văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất rượu, thương nhân phân phối rượu khác hoặc nhà cung cấp rượu ở nước ngoài, trong đó ghi rõ các loại rượu dự kiến kinh doanh phù hợp với hoạt động của các nhà cung cấp rượu;
+
+b) Trường hợp nhà cung cấp rượu là thương nhân trong nước cần có bản sao Giấy phép sản xuất rượu hoặc Giấy phép phân phối rượu.
+
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.22. Hồ sơ đề nghị cấp Giấy phép bán buôn rượu
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 16, Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002200
+Hồ sơ đề nghị cấp Giấy phép bán buôn rượu (01 bộ) bao gồm:
 
-**ID:** dk_00076084
+1. Đơn đề nghị cấp Giấy phép bán buôn rượu theo Mẫu số 01 ban hành kèm theo Nghị định này.
 
----
+2. Bản sao Giấy, chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương.
 
+5. Tài liệu về hệ thống bán buôn rượu gồm một trong hai loại sau:
 
-### Điều 45.11.NĐ.1.23. Hồ sơ đề nghị cấp Giấy phép bán lẻ rượu
+a) Bản sao hợp đồng nguyên tắc, thư xác nhận hoặc bản cam kết tham gia hệ thống bán buôn rượu kèm bản sao Giấy phép bán lẻ rượu của thương nhân dự kiến tham gia hệ thống bán buôn rượu;
+
+b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh của doanh nghiệp hoặc Giấy chứng nhận đăng ký địa điểm kinh doanh của doanh nghiệp để kinh doanh rượu.
+
+6. Tài liệu liên quan đến nhà cung cấp rượu:
+
+a) Bản sao các văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất trong nước, thương nhân phân phối hoặc thương nhân bán buôn khác, trong đó ghi rõ các loại rượu dự kiến kinh doanh phù hợp với hoạt động của thương nhân sản xuất, thương nhân phân phối hoặc thương nhân bán buôn khác;
+
+b) Bản sao Giấy phép sản xuất rượu, Giấy phép phân phối hoặc Giấy phép bán buôn rượu của các nhà cung cấp rượu.
+
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.23. Hồ sơ đề nghị cấp Giấy phép bán lẻ rượu
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung bị bãi bỏ bởi Điều 17 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002300
+Hồ sơ đề nghị cấp Giấy phép bán lẻ rượu (01 bộ) bao gồm:
 
-**ID:** dk_00076085
+1. Đơn đề nghị cấp Giấy phép bán lẻ rượu theo Mẫu số 01 ban hành kèm theo Nghị định này.
 
----
+2. Bản sao Giấy chứng nhận đăng ký doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh.
 
+3. Bản sao hợp đồng thuê/mượn hoặc tài liệu chứng minh quyền sử dụng hợp pháp cơ sở dự kiến làm địa điểm bán lẻ.
 
-### Điều 45.11.NĐ.1.25. Thẩm quyền và thủ tục cấp giấy phép
+4. Bản sao văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất rượu, thương nhân phân phối rượu hoặc thương nhân bán buôn rượu.
+
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.25. Thẩm quyền và thủ tục cấp giấy phép
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002500
+1. Thẩm quyền cấp giấy phép:
 
-**ID:** dk_00076086
+a) Bộ Công Thương là cơ quan cấp Giấy phép sản xuất rượu công nghiệp có quy mô từ 03 triệu lít/năm trở lên và Giấy phép phân phối rượu;
 
----
+b) Sở Công Thương là cơ quan cấp Giấy phép sản xuất rượu công nghiệp có quy mô dưới 03 triệu lít/năm và Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương;
 
+c) Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng thuộc Ủy ban nhân dân cấp huyện là cơ quan cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh, Giấy phép bán lẻ rượu trên địa bàn;
 
-### Điều 45.11.NĐ.1.26. Cấp sửa đổi, bổ sung giấy phép
+d) Cơ quan có thẩm quyền cấp giấy phép thì có quyền cấp sửa đổi, bổ sung và cấp lại giấy phép đó.
 
-*Nội dung chưa có sẵn*
+2. Thủ tục cấp giấy phép:
 
-**Chỉ mục:** 26
+a) Thương nhân nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến cơ quan có thẩm quyền cấp giấy phép;
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002600
+b) Đối với cấp Giấy phép sản xuất rượu công nghiệp, Giấy phép phân phối rượu và Giấy phép bán buôn rượu:
 
-**ID:** dk_00076087
+Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền xem xét, thẩm định và cấp giấy phép cho thương nhân. Trường hợp từ chối cấp phải trả lời bằng văn bản và nêu rõ lý do.
 
----
+Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày, làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan cấp giấy phép phải có văn bản yêu cầu bổ sung.
 
+c) Đối với cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh, Giấy phép bán lẻ rượu:
 
-### Điều 45.11.NĐ.1.27. Cấp lại giấy phép
+Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, cơ quan nhà nước có thẩm quyền xem xét, thẩm định và cấp giấy phép cho thương nhân. Trường hợp từ chối cấp phải trả lời bằng văn bản và nêu rõ lý do.
 
-*Nội dung chưa có sẵn*
+Trường hợp chưa đủ hồ sơ hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan cấp giấy phép phải có văn bản yêu cầu bổ sung.
 
-**Chỉ mục:** 27
+(Điều này có nội dung liên quan đến Điều 33.3.TT.115.4. Tổ chức thu phí)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002700
+Điều 45.11.NĐ.1.26. Cấp sửa đổi, bổ sung giấy phép
 
-**ID:** dk_00076088
+(Điều 26 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
----
+1. Trường hợp có thay đổi các nội dung của giấy phép, thương nhân phải gửi hồ sơ đề nghị cấp sửa đổi, bổ sung về cơ quan quản lý nhà nước có thẩm quyền.
 
+2. Hồ sơ đề nghị cấp sửa đổi, bổ sung giấy phép (01 bộ) bao gồm:
 
-### Điều 45.11.NĐ.1.28. Nội dung và thời hạn của giấy phép
+a) Đơn đề nghị cấp sửa đổi, bổ sung theo Mẫu số 02 ban hành kèm theo Nghị định này;
+
+b) Bản sao giấy phép đã được cấp;
+
+c) Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung.
+
+3. Thủ tục cấp sửa đổi, bổ sung giấy phép:
+
+a) Thương nhân nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến cơ quan có thẩm quyền cấp giấy phép;
+
+b) Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền xem xét và cấp sửa đổi, bổ sung giấy phép theo Mẫu số 06 ban hành kèm theo Nghị định này. Trường hợp từ chối cấp sửa đổi, bổ sung phải trả lời bằng văn bản và nêu rõ lý do.
+
+Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan cấp sửa đổi, bổ sung giấy phép phải có văn bản yêu cầu bổ sung.
+
+PL NĐ 105-2017.docx
+
+Điều 45.11.NĐ.1.27. Cấp lại giấy phép
+
+(Điều 27 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
+
+1. Trường hợp cấp lại do hết thời hạn hiệu lực:
+
+Thương nhân phải nộp hồ sơ đề nghị cấp lại giấy phép trước thời hạn hết hiệu lực của giấy phép 30 ngày. Hồ sơ, thẩm quyền, thủ tục cấp lại đối với quy định lại khoản này áp dụng như quy định đối với trường hợp cấp mới.
+
+2. Trường hợp cấp lại giấy phép do bị mất hoặc bị hỏng:
+
+a) Hồ sơ đề nghị cấp lại (01 bộ) bao gồm:
+
+Đơn đề nghị cấp lại theo Mẫu số 03 ban hành kèm theo Nghị định này và bản gốc hoặc bản sao giấy phép đã cấp (nếu có);
+
+b) Cơ quan cấp giấy phép căn cứ vào hồ sơ đã lưu và hồ sơ đề nghị cấp lại của thương nhân để cấp lại giấy phép;
+
+c) Thời hạn của giấy phép sẽ được giữ nguyên như cũ.
+
+3. Thủ tục cấp lại giấy phép do bị mất hoặc bị hỏng:
+
+a) Thương nhân nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến cơ quan có thẩm quyền cấp giấy phép;
+
+b) Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền xem xét và cấp lại giấy phép theo Mẫu số 07 ban hành kèm theo Nghị định này. Trường hợp từ chối cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan cấp lại giấy phép phải có văn bản yêu cầu bổ sung.
+
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.28. Nội dung và thời hạn của giấy phép
 
-**Chỉ mục:** 28
+(Điều 28 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002800
+1. Nội dung của giấy phép theo Mẫu số 05 ban hành kèm theo Nghị định này.
 
-**ID:** dk_00076089
+2. Thời hạn của giấy phép:
 
----
+a) Thời hạn của Giấy phép sản xuất rượu công nghiệp là 15 năm;
 
+b) Thời hạn của Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh, Giấy phép phân phối rượu, Giấy phép bán buôn rượu, Giấy phép bán lẻ rượu là 05 năm.
 
-### Điều 45.11.NĐ.1.29. Gửi và lưu giấy phép
+PL NĐ 105-2017.docx
 
-*Nội dung chưa có sẵn*
+Điều 45.11.NĐ.1.29. Gửi và lưu giấy phép
 
-**Chỉ mục:** 29
+(Điều 29 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050002900
+1. Đối với Giấy phép sản xuất rượu công nghiệp:
 
-**ID:** dk_00076090
+Giấy phép được làm thành 04 bản: 02 bản lưu tại cơ quan cấp phép, 01 bản gửi doanh nghiệp: được cấp giấy phép, 01 bản gửi Bộ Công Thương (đối với giấy phép do Sở Công Thương cấp) hoặc Sở Công Thương địa phương (đối với giấy phép do Bộ Công Thương cấp).
 
----
+2. Đối với Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh:
 
+Giấy phép được làm thành 04 bản: 02 bản lưu tại cơ quan cấp phép, 01 bản gửi cơ sở được cấp giấy phép, 01 bản gửi Sở Công Thương.
 
-### Điều 45.11.NĐ.1.30. Quy định chung về nhập khẩu rượu
+3. Đối với Giấy phép phân phối rượu:
+
+Giấy phép được làm thành nhiều bản: 02 bản lưu tại cơ quan cấp phép; 01 bản gửi doanh nghiệp được cấp giấy phép; 01 bản gửi Cục Quản lý thị trường; 01 bản gửi Sở Công Thương nơi doanh nghiệp đặt trụ sở chính và 01 bản gửi mỗi Sở Công Thương nơi doanh nghiệp đăng ký phân phối rượu; 01 bản gửi mỗi thương nhân sản xuất rượu hoặc doanh nghiệp kinh doanh rượu khác có tên trong giấy phép.
+
+4. Đối với Giấy phép bán buôn rượu:
+
+Giấy phép được làm thành nhiều bản: 02 bản lưu tại cơ quan cấp phép; 01 bản gửi doanh nghiệp được cấp Giấy phép; 01 bản gửi Bộ Công Thương; 01 bản gửi Chi Cục Quản lý thị trường; 01 bản gửi mỗi thương nhân sản xuất rượu hoặc doanh nghiệp kinh doanh rượu khác có tên trong giấy phép.
+
+5. Đối với Giấy phép bán lẻ rượu:
+
+Giấy phép được làm thành nhiều bản: 02 bản lưu tại cơ quan cấp phép; 01 bản gửi thương nhân được cấp giấy phép; 01 bản gửi Sở Công Thương; 01 bản gửi Cục Quản lý thị trường; 01 bản gửi thương nhân sản xuất rượu hoặc doanh nghiệp kinh doanh rượu khác có tên trong giấy phép.
 
 Điều 45.11.NĐ.1.30. Quy định chung về nhập khẩu rượu
 
-**Chỉ mục:** 30
+(Điều 30 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003000
+1. Doanh nghiệp có Giấy phép phân phối rượu được phép nhập khẩu rượu và phải chịu trách nhiệm về chất lượng, an toàn thực phẩm của rượu nhập khẩu. Trường hợp nhập khẩu rượu bán thành phẩm, doanh nghiệp chỉ được bán cho doanh nghiệp có Giấy phép sản xuất rượu công nghiệp.
 
-**ID:** dk_00076091
+2. Doanh nghiệp có Giấy phép sản xuất rượu công nghiệp được phép nhập khẩu hoặc ủy thác nhập khẩu rượu bán thành phẩm để sản xuất rượu thành phẩm.
 
----
+3. Trừ trường hợp quy định tại Điều 31 của Nghị định này, rượu nhập khẩu phải đáp ứng quy định sau:
 
+a) Phải được ghi nhãn hàng hóa, dán tem rượu theo quy định tại Điều 6 Nghị định này;
 
-### Điều 45.11.NĐ.1.31. Nhập khẩu rượu để thực hiện thủ tục cấp Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm
+b) Tuân thủ các quy định của pháp luật về an toàn thực phẩm.
+
+4. Rượu chỉ được nhập khẩu vào Việt Nam qua các cửa khẩu quốc tế.
 
 Điều 45.11.NĐ.1.31. Nhập khẩu rượu để thực hiện thủ tục cấp Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm
 
-**Chỉ mục:** 31
+(Điều 31 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003100
+Doanh nghiệp, bao gồm cả doanh nghiệp chưa được cấp Giấy phép sản xuất rượu công nghiệp, Giấy phép phân phối rượu được nhập khẩu rượu để thực hiện thủ tục cấp Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm với tổng dung tích không quá 03 lít trên một nhãn rượu. Rượu nhập khẩu trong trường hợp này không được bán trên thị trường.
 
-**ID:** dk_00076092
+Chương III. CHẾ ĐỘ BÁO CÁO VÀ THU HỒI GIẤY PHÉP
 
----
-
-
-### Điều 45.11.NĐ.1.31a. Điều kiện sản xuất rượu có độ cồn dưới 5,5 độ
+(Điều này có nội dung liên quan đến Điều 45.11.TT.2.2. Trường hợp phải dán tem và không phải dán tem trên bao bì sản phẩm)
 
 Điều 45.11.NĐ.1.31a. Điều kiện sản xuất rượu có độ cồn dưới 5,5 độ
 
-**Chỉ mục:** 31a
+(Điều 31a Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, được bổ sung bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003101
+1. Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh được thành lập theo quy định của pháp luật.
 
-**ID:** dk_00076093
+2. Tuân thủ các quy định của pháp luật về an toàn thực phẩm.
 
----
+3. Đăng ký với Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng thuộc Ủy ban nhân dân cấp huyện nơi thương nhân đặt cơ sở sản xuất theo Mẫu số 14 Mục II tại Phụ lục ban hành kèm theo Nghị định này. Trường hợp có thay đổi nội dung đã đăng ký phải thực hiện đăng ký bổ sung.
 
-
-### Điều 45.11.NĐ.1.31b. Điều kiện nhập khẩu rượu có độ cồn dưới 5,5 độ
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.31b. Điều kiện nhập khẩu rượu có độ cồn dưới 5,5 độ
 
-**Chỉ mục:** 31b
+(Điều 31b Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, được bổ sung bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003104
+1. Đáp ứng các điều kiện quy định tại khoản 1, 2 Điều 31a của Nghị định này.
 
-**ID:** dk_00076094
+2. Rượu chỉ được nhập khẩu vào Việt Nam qua các cửa khẩu quốc tế;
 
----
+3. Đăng ký với Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng thuộc Ủy ban nhân dân cấp huyện, nơi thương nhân đặt trụ sở chính trước khi tiến hành hoạt động kinh doanh theo Mẫu số 14 Mục II tại Phụ lục ban hành kèm theo Nghị định này. Trường hợp có thay đổi nội dung đã đăng ký phải thực hiện đăng ký bổ sung.
 
-
-### Điều 45.11.NĐ.1.31c. Điều kiện bán rượu có độ cồn dưới 5,5 độ
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.31c. Điều kiện bán rượu có độ cồn dưới 5,5 độ
 
-**Chỉ mục:** 31c
+(Điều 31c Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, được bổ sung bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003105
+1. Đáp ứng các điều kiện quy định tại khoản 1, 2 Điều 31a của Nghị định này.
 
-**ID:** dk_00076095
+2. Đăng ký với Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng thuộc Ủy ban nhân dân cấp huyện nơi thương nhân đặt cơ sở kinh doanh trước khi tiến hành hoạt động kinh doanh theo Mẫu số 14 Mục II tại Phụ lục ban hành kèm theo Nghị định này. Trường hợp có thay đổi nội dung đã đăng ký phải thực hiện đăng ký bổ sung.
 
----
-
-
-### Điều 45.11.NĐ.1.31d. Quyền và nghĩa vụ của thương nhân kinh doanh rượu có độ cồn dưới 5,5 độ
+PL NĐ 105-2017.docx
 
 Điều 45.11.NĐ.1.31d. Quyền và nghĩa vụ của thương nhân kinh doanh rượu có độ cồn dưới 5,5 độ
 
-**Chỉ mục:** 31d
+(Điều 31d Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, được bổ sung bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003106
+1. Được nhập khẩu, mua, bán rượu có nguồn gốc hợp pháp.
 
-**ID:** dk_00076096
+2. Đảm bảo thời hạn sử dụng của sản phẩm rượu theo công bố của cơ sở sản xuất.
 
----
+3. Thực hiện trách nhiệm theo quy định Luật Phòng, chống tác hại của rượu, bia và các quy định khác của pháp luật. Không phải thực hiện dán tem rượu theo quy định tại Nghị định số 105/2017/NĐ-CP về kinh doanh rượu.
 
+Điều 45.11.NĐ.1.32. Chế độ báo cáo
 
-### Điều 45.11.NĐ.1.32. Chế độ báo cáo
+(Điều 32 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017, có nội dung được sửa đổi bởi Điều 16 Nghị định số 17/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 22/03/2020)
 
-*Nội dung chưa có sẵn*
+1. Đối với rượu có độ cồn từ 5,5 độ trở lên, trước ngày 20 tháng 01 hằng năm, thương nhân sản xuất rượu công nghiệp, thương nhân sản xuất rượu thủ công nhằm mục đích kinh doanh, thương nhân phân phối rượu, thương nhân bán buôn rượu, thương nhân bán lẻ rượu, có trách nhiệm gửi báo cáo tình hình sản xuất, kinh doanh rượu năm trước của đơn vị mình về cơ quan nhà nước có thẩm quyền cấp giấy phép theo Mẫu số 08, Mẫu số 09 Mục II tại Phụ lục ban hành kèm theo Nghị định này.
 
-**Chỉ mục:** 32
+2. Trước ngày 30 tháng 01 hàng năm, Ủy ban nhân dân cấp xã có trách nhiệm gửi báo cáo tình hình sản xuất rượu thủ công để bán cho các cơ sở có Giấy phép sản xuất rượu để chế biến lại trên địa bàn về Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng theo Mẫu số 10 ban hành kèm theo Nghị định này.
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003200
+3. Đối với rượu có độ cồn từ 5,5 độ trở lên, trước ngày 15 tháng 02 hằng năm, Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng thuộc Ủy ban nhân dân cấp huyện có trách nhiệm gửi báo cáo tình hình sản xuất rượu thủ công nhằm mục đích kinh doanh, sản xuất rượu thủ công để bán cho các cơ sở có giấy phép sản xuất rượu để chế biến lại, tình hình bán lẻ rượu năm trước trên địa bàn về Sở Công Thương theo Mẫu số 11 Mục II tại Phụ lục ban hành kèm theo Nghị định này.
 
-**ID:** dk_00076097
+4. Đối với rượu có độ cồn từ 5,5 độ trở lên trước ngày 28 tháng 02 hằng năm, Sở Công Thương có trách nhiệm gửi báo cáo tình hình sản xuất rượu, tình hình phân phối, bán buôn, bán lẻ rượu năm trước trên địa bàn về Bộ Công Thương theo Mẫu số 12 Mục II tại Phụ lục ban hành kèm theo Nghị định này.
 
----
+Điều 45.11.NĐ.1.33. Thu hồi giấy phép
 
+(Điều 33 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-### Điều 45.11.NĐ.1.33. Thu hồi giấy phép
+1. Giấy phép bị thu hồi trong các trường hợp:
 
-*Nội dung chưa có sẵn*
+a) Giả mạo hồ sơ đề nghị cấp;
 
-**Chỉ mục:** 33
+b) Không còn đáp ứng đủ hoặc không thực hiện đúng các điều kiện quy định;
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003300
+c) Chấm dứt hoạt động sản xuất, kinh doanh;
 
-**ID:** dk_00076098
+d) Giấy phép được cấp không đúng thẩm quyền;
 
----
+đ) Thương nhân đã được cấp giấy phép nhưng không hoạt động trong thời gian 12 tháng liên tục.
 
+e) Vi phạm các quy định tại Điều 7 của Nghị định này.
 
-### Điều 45.11.NĐ.1.34. Trách nhiệm của Bộ Công Thương
+2. Cơ quan nhà nước cấp giấy phép có thẩm quyền thu hồi giấy phép đã cấp.
 
-*Nội dung chưa có sẵn*
+3. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định thu hồi giấy phép, thương nhân phải nộp bản gốc giấy phép cho cơ quan nhà nước có thẩm quyền đã ra quyết định thu hồi. Cơ quan ra quyết định thu hồi đăng tải thông tin về việc thu hồi giấy phép trên cổng hoặc trang thông tin điện tử của cơ quan đó.
 
-**Chỉ mục:** 34
+Chương IV. TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003400
+Điều 45.11.NĐ.1.34. Trách nhiệm của Bộ Công Thương
 
-**ID:** dk_00076099
+(Điều 34 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
----
+1. Trình Chính phủ, Thủ tướng Chính phủ ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật về kinh doanh rượu.
 
+2. Thực hiện trách nhiệm quản lý nhà nước đối với ngành rượu: trong đầu tư xây dựng theo các quy định của pháp luật và quy định tại Nghị định này.
 
-### Điều 45.11.NĐ.1.35. Trách nhiệm của Bộ Tài chính
+3. Quản lý an toàn thực phẩm đối với rượu.
 
-*Nội dung chưa có sẵn*
+4. Thanh tra, kiểm tra, các cơ sở kinh doanh rượu về việc chấp hành quy định về chất lượng sản phẩm, an toàn thực phẩm và bảo vệ một trường; giải quyết các khiếu nại, tố cáo và xử lý các hành vi vi phạm trong hoạt động kinh doanh rượu.
 
-**Chỉ mục:** 35
+5. Chủ trì, phối hợp với các cơ quan có thẩm quyền liên quan tổ chức kiểm tra, phát hiện và xử lý đối với các vi phạm khác về kinh doanh rượu.
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003500
+6. Chủ trì hoặc phối hợp với các cơ quan có thẩm quyền của Nhà nước tổ chức tịch thu, xử lý đối với rượu nhập lậu, rượu giả, rượu không bảo đảm chất lượng, an toàn thực phẩm, rượu không ghi nhãn, dán tem theo quy định.
 
-**ID:** dk_00076100
+7. Chủ trì, phối hợp kiểm tra, tổ chức tuyên truyền, phổ biến việc thực hiện Nghị định này.
 
----
+Điều 45.11.NĐ.1.35. Trách nhiệm của Bộ Tài chính
 
+(Điều 35 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-### Điều 45.11.TT.2.2. Trường hợp phải dán tem và không phải dán tem trên bao bì sản phẩm
+Chủ trì, phối hợp với Bộ Công Thương quy định việc in, ban hành tem, dán tem và quản lý sử dụng tem đối với rượu sản xuất để tiêu thụ trong nước và rượu nhập khẩu.
 
 Điều 45.11.TT.2.2. Trường hợp phải dán tem và không phải dán tem trên bao bì sản phẩm
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
 
-**Mã phân cấp:** 45011000000000003000015000000000000000000040263100105000350000802723100150000200
+1. Rượu sản xuất để tiêu thụ trong nước và rượu nhập khẩu phải dán tem trên bao bì sản phẩm.
 
-**ID:** dk_00076101
+2. Các trường hợp không phải dán tem trên bao bì sản phẩm
 
----
+- Rượu sản xuất thủ công để bán cho các doanh nghiệp có Giấy phép sản xuất rượu công nghiệp để chế biến lại rượu.
 
+- Rượu bán thành phẩm theo quy định tại Điều 3 Nghị định số 105/2017/NĐ-CP nhập khẩu.
 
-### Điều 45.11.TT.2.3. Mẫu tem và quy định về dán tem
+- Rượu nhập khẩu quy định tại Điều 31 Nghị định số 105/2017/NĐ-CP ngày 14/9/2017 của Chính phủ.
 
-*Nội dung chưa có sẵn*
+Thông tư này không áp dụng đối với các trường hợp quy định tại khoản 2 Điều 1 quy định số 105/2017/NĐ-CP ngày 14/9/2017 của Chính phủ.
 
-**Chỉ mục:** 3
+(Điều này có nội dung liên quan đến Điều 45.11.NĐ.1.1. Phạm vi điều chỉnh; Điều 45.11.NĐ.1.3. Giải thích từ ngữ; Điều 45.11.NĐ.1.31. Nhập khẩu rượu để thực hiện thủ tục cấp Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm)
 
-**Mã phân cấp:** 45011000000000003000015000000000000000000040263100105000350000802723100150000300
+Điều 45.11.TT.2.3. Mẫu tem và quy định về dán tem
 
-**ID:** dk_00076102
+(Điều 3 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
 
----
+1. Nguyên tắc
 
+Rượu nhập khẩu và rượu sản xuất trong nước phải được đóng thành chai (bao gồm cả hũ, bình, lọ, can, túi, hộp, thùng), dưới đây gọi chung là chai. Mỗi chai được dán một (01) con tem. Trường hợp chai rượu có sử dụng màng bóng kính bọc bên ngoài thì tem phải được dán vào chai trước khi được đóng màng bóng kính phủ bên ngoài.
 
-### Điều 45.11.TT.2.4. Nguyên tắc quản lý tem
+2. Mẫu tem
 
-*Nội dung chưa có sẵn*
+Mẫu tem rượu nhập khẩu do Bộ Tài chính thống nhất quy định được trình bày tại Phụ lục 1 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 4
+Mẫu tem rượu sản xuất trong nước do Bộ Tài chính thống nhất quy định được trình bày tại Phụ lục 2 ban hành kèm theo Thông tư này.
 
-**Mã phân cấp:** 45011000000000003000015000000000000000000040263100105000350000802723100150000400
+3. Vị trí dán tem
 
-**ID:** dk_00076103
+Tem rượu được dán vắt qua nơi rượu có thể được lấy ra trên bao bì chứa sản phẩm rượu (nắp chai, nắp hũ, nắp bình, vòi rượu hoặc vị trí tương tự) đảm bảo khi mở nắp thì tem sẽ rách và không thể sử dụng lại.
 
----
+Trường hợp nhập khẩu thùng, téc lớn về chiết ra chai hoặc sản xuất rượu thành phẩm thì thùng, téc không phải dán tem.
 
+4. Đơn vị thực hiện dán tem
 
-### Điều 45.11.TT.2.5. Quản lý tem rượu nhập khẩu
+Đối với rượu đóng chai nhập khẩu qua các cửa khẩu: Doanh nghiệp thực hiện và tự chịu trách nhiệm việc dán tem rượu nhập khẩu tại cơ sở của doanh nghiệp và báo cáo với cơ quan Hải quan nơi đăng ký làm thủ tục nhập khẩu số lượng thực sử dụng (ghi rõ số sêri tem) trước khi thông quan.
 
-*Nội dung chưa có sẵn*
+Đối với rượu thành phẩm dạng thùng, téc nhập khẩu về đóng chai trong nước: Doanh nghiệp thực hiện và tự chịu trách nhiệm việc dán tem rượu nhập khẩu tại cơ sở đóng chai trước khi đưa ra thị trường để tiêu thụ.
 
-**Chỉ mục:** 5
+Đối với rượu sản xuất trong nước: tổ chức, cá nhân có Giấy phép sản xuất rượu (bao gồm Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh, Giấy phép sản xuất rượu công nghiệp) để tiêu thụ trong nước, sau đây gọi chung là tổ chức, cá nhân sản xuất rượu trong nước phải thực hiện dán tem đóng quy định cho sản phẩm rượu sản xuất tại địa điểm sản xuất sau khi rượu được đóng chai và trước khi đưa sản phẩm rượu đi tiêu thụ trong nước.
 
-**Mã phân cấp:** 45011000000000003000015000000000000000000040263100105000350000802723100150000500
+Mau tem TT 15.doc
 
-**ID:** dk_00076104
+Điều 45.11.TT.2.4. Nguyên tắc quản lý tem
 
----
+(Điều 4 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
 
+Tổng cục Hải quan thực hiện in, phát hành tem rượu nhập khẩu.
 
-### Điều 45.11.TT.2.6. Quản lý tem rượu sản xuất trong nước
+Tổng cục Thuế thực hiện in, phát hành tem rượu sản xuất trong nước.
+
+Việc in, phát hành, quản lý và sử dụng tem rượu được thực hiện theo quy định hiện hành về quản lý sử dụng ấn chỉ thuế.
+
+Điều 45.11.TT.2.5. Quản lý tem rượu nhập khẩu
+
+(Điều 5 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
+
+1. Thông báo phát hành tem rượu
+
+Tổng cục Hải quan thông báo phát hành tem rượu nhập khẩu gửi cho Cục Hải quan các tỉnh, thành phố trực thuộc trung ương trước khi cấp tem cho Cục Hải quan các tỉnh, thành phố trực thuộc trung ương. Trường hợp mẫu tem đang sử dụng có thay đổi về kích thước, nội dung, hình thức thì Tổng cục Hải quan phải có Thông báo phát hành mới thay thế Thông báo phát hành cũ.
+
+Nội dung Thông báo phát hành phải thể hiện: Hình thức, nội dung, kích thước và đặc điểm từng mẫu tem.
+
+Thông báo phát hành tem rượu nhập khẩu được đăng tải công khai trên trang thông tin điện tử của Tổng cục Hải quan trong vòng mười lăm (15) ngày làm việc kể từ ngày Thông báo phát hành tem rượu nhập khẩu mới được ban hành.
+
+2. Cấp tem rượu nhập khẩu
+
+Tem sản phẩm rượu nhập khẩu chỉ được bán cho các tổ chức, cá nhân có Giấy phép phân phối rượu còn hiệu lực.
+
+Tổng cục Hải quan chịu trách nhiệm cấp tem rượu cho Cục Hải quan các tỉnh, thành phố sử dụng theo nhu cầu của các đơn vị đã đăng ký theo định kỳ hàng năm.
+
+Căn cứ số lượng rượu nhập khẩu do người khai hải quan khai, cơ quan Hải quan nơi đăng ký làm thủ tục nhập khẩu có trách nhiệm bán tem cho doanh nghiệp nhập khẩu và ghi rõ số lượng, số sêri tem thực sử dụng vào tờ khai Hải quan nhập khẩu rượu.
+
+Công chức Hải quan làm nhiệm vụ bán tem, giám sát việc dán tem có trách nhiệm quyết toán tem rượu nhập khẩu với đơn vị cấp tem chậm nhất không quá hai (02) ngày làm việc kể từ ngày hàng hóa được thông quan.
+
+Cơ quan Hải quan các cấp thực hiện việc cấp, bán tem rượu nhập khẩu phải mở sổ sách theo dõi chi tiết số tem tồn đầu kỳ, số tem nhận, số tem bán cho doanh nghiệp nhập khẩu, số tem mất, hỏng trong kỳ, số tem tần cuối kỳ và thực hiện báo cáo quý, 6 tháng, năm về tình hình sử dụng tem của đơn vị mình, gửi cơ quan Hải quan cấp trên theo quy định.
 
 Điều 45.11.TT.2.6. Quản lý tem rượu sản xuất trong nước
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
 
-**Mã phân cấp:** 45011000000000003000015000000000000000000040263100105000350000802723100150000600
+1. Thông báo phát hành tem rượu
 
-**ID:** dk_00076105
+Tổng cục Thuế thông báo phát hành tem rượu sản xuất trong nước bằng văn bản gửi cho Cục Thuế các tỉnh, thành phố trực thuộc trung ương trước khi bán tem. Trường hợp mẫu tem đang sử dụng có thay đổi về kích thước, nội dung, hình thức thì Tổng cục Thuế phải có Thông báo phát hành mới thay thế Thông báo phát hành cũ.
 
----
+Nội dung Thông báo phát hành phải thể hiện: hình thức, nội dung, kích thước và đặc điểm từng mẫu tem.
 
+Thông báo phát hành tem rượu sản xuất trong nước được đăng tải công khai trên trang thông tin điện tử của Tổng cục Thuế trong vòng mười lăm (15) ngày làm việc kể tờ ngày Thông báo phát hành tem rượu sản xuất trong nước có hiệu lực.
 
-### Điều 45.11.TT.2.8. Về kinh phí in tem
+2. Bán tem rượu
 
-*Nội dung chưa có sẵn*
+Tem sản phẩm rượu sản xuất để tiêu thụ trong nước chỉđược bán cho tổ chức, cá nhân có Giấy phép sản xuất rượu còn hiệu lực.
 
-**Chỉ mục:** 8
+Tổng cục Thuế chịu trách nhiệm cấp tem rượu cho Cục Thuế các tỉnh, thành phố trực thuộc trung ương. Cục Thuế các tỉnh, thành phố, Chi cục Thuế có trách nhiệm tổ chức bán tem rượu sản xuất trong nước cho các tổ chức, cá nhân có Giấy phép sản xuất rượu (bao gồm Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh, Giấy phép sản xuất rượu công nghiệp) để tổ chức, cá nhân tự dán tem rượu sản xuất trong nước theo quy định.
 
-**Mã phân cấp:** 45011000000000003000015000000000000000000040263100105000350000802723100150000800
+Các tổ chức, cá nhân không được chuyển nhượng, bán (trừ cơ quan Thuế), vay, mượn và cho vay, cho mượn tem rượu.
 
-**ID:** dk_00076106
+Cơ quan Thuế các cấp thực hiện việc mở sổ theo dõi chi tiết số tem tồn đầu kỳ, số tem nhận, số tem bán cho tổ chức, cá nhân sản xuất để tiêu thụ trong nước, số tem mất, hủy trong kỳ, số tem tồn cuối kỳ và thực hiện báo cáo thanh quyết toán tiền bán tem theo quý, năm với cơ quan Thuế cấp trên.
 
----
+Điều 45.11.TT.2.8. Về kinh phí in tem
 
+(Điều 8 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
 
-### Điều 45.11.NĐ.1.36. Trách nhiệm của Bộ Y tế
+Cơ quan Hải quan thực hiện bán tem rượu nhập khẩu cho các doanh nghiệp nhập khẩu rượu khi đến làm thủ tục hải quan. Cơ quan Thuế bán tem rượu sản xuất trong nước cho các tổ chức, cá nhân có Giấy phép sản xuất rượu (bao gồm Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh, Giấy phép sản xuất rượu công nghiệp).
 
-*Nội dung chưa có sẵn*
+Tiền thu được từ việc bán tem bảo đảm bù đắp chi phí gồm đặt in và phí phát hành tem theo quy định.
 
-**Chỉ mục:** 36
+Điều 45.11.NĐ.1.36. Trách nhiệm của Bộ Y tế
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003600
+(Điều 36 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**ID:** dk_00076107
+1. Kiểm tra, giám sát việc thực hiện các quy định về phòng, chống tác hại của rượu.
 
----
-
-
-### Điều 45.11.NĐ.1.37. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+2. Phối hợp với các cơ quan liên quan trong việc phát hiện, kiểm tra, xử lý các cơ sở sản xuất rượu giả, rượu lậu, rượu không bảo đảm an toàn thực phẩm.
 
 Điều 45.11.NĐ.1.37. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 37
+(Điều 37 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003700
-
-**ID:** dk_00076108
-
----
-
-
-### Điều 45.11.NĐ.1.38. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
+Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi quyền hạn của mình và theo sự phân công của Chính phủ có trách nhiệm phối hợp với Bộ Công Thương thực hiện quản lý nhà nước về kinh doanh rượu; tuyên truyền, phổ biến việc thực hiện Nghị định về kinh doanh rượu.
 
 Điều 45.11.NĐ.1.38. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
 
-**Chỉ mục:** 38
+(Điều 38 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Mã phân cấp:** 450110000000000030000150000000000000000000402631001050003800
+1. Thực hiện chức năng quản lý nhà nước đối với ngành rượu trên địa bàn.
 
-**ID:** dk_00076109
+2 . Kiểm tra hoạt động sản xuất, nhập khẩu, lưu thông, tiêu thụ rượu trên địa bàn.
 
----
+3. Giám sát, kiểm tra việc thực hiện quy định về chất lượng sản phẩm, an toàn thực phẩm, nghĩa vụ thuế đối với nhà nước, an toàn lao động, môi trường trong các cơ sở sản xuất rượu và xử lý những vi phạm theo quy định của pháp luật trên địa bàn.
 
+4. Tổ chức thực hiện và tuyên truyền, giáo dục nhân dân trong việc thực hiện kinh doanh rượu theo quy định tại Nghị định này.
 
-### Điều 45.11.LQ.16. Điều kiện bán rượu, bia theo hình thức thương mại điện tử
+5. Chỉ đạo các cơ quan, ban, ngành, Ủy ban nhân dân các cấp ở địa phương:
+
+Tuyên truyền, phổ biến để nhân dân nâng cao nhận thức về nguy cơ, tác hại của việc lạm dụng rượu và sử dụng rượu có hàm lượng các chất có hại vượt mức cho phép, hướng dẫn người tiêu dùng chỉ sử dụng những sản phẩm rượu có nguồn gốc, xuất xứ, bảo đảm tiêu chuẩn chất lượng và an toàn thực phẩm theo quy định; làm rõ nguyên nhân khi xảy ra ngộ độc rượu trên địa bàn và có các biện pháp xử lý theo thẩm quyền; tăng cường công tác kiểm tra, giám sát và xử phạt nghiêm các hành vi vi phạm pháp luật trong hoạt động sản xuất, kinh doanh rượu.
+
+6. Chỉ đạo Ủy ban nhân dân cấp huyện: Tăng cường công tác kiểm tra, giám sát đối với hoạt động sản xuất, kinh doanh rượu trên phạm vi địa bàn và xử lý nghiêm các hành vi vi phạm theo thẩm quyền.
+
+7. Chỉ đạo Ủy ban nhân dân cấp xã: Thường xuyên theo dõi, kiểm tra, giám sát đối với hoạt động sản xuất, kinh doanh rượu trên phạm vi địa bàn và xử lý nghiêm các hành vi vi phạm theo thẩm quyền.
+
+Chương V. ĐIỀU KHOẢN THI HÀNH
 
 Điều 45.11.LQ.16. Điều kiện bán rượu, bia theo hình thức thương mại điện tử
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000300001600000000000000000
+1. Đáp ứng quy định tại khoản 4, khoản 5 Điều 15 và Điều 18 của Luật này.
 
-**ID:** dk_00076110
+2. Đáp ứng điều kiện theo quy định của pháp luật về thương mại điện tử.
 
----
+3. Thực hiện biện pháp theo quy định của Chính phủ để ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin và mua rượu, bia.
 
+4. Áp dụng hình thức thanh toán không dùng tiền mặt.
 
-### Điều 45.11.NĐ.2.6. Thực hiện biện pháp ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin và mua rượu, bia trong hoạt động bán rượu, bia theo hình thức thương mại điện tử
+(Điều này có nội dung liên quan đến Điều 3.4.LQ.1. Phạm vi điều chỉnh)
 
 Điều 45.11.NĐ.2.6. Thực hiện biện pháp ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin và mua rượu, bia trong hoạt động bán rượu, bia theo hình thức thương mại điện tử
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000030000160000000000000000000402720300240000600
+ Tổ chức, cá nhân bán rượu, bia theo hình thức thương mại điện tử; tổ chức, cá nhân cung cấp dịch vụ thương mại điện tử cho các thương nhân, tổ chức, cá nhân khác bán rượu, bia phải thực hiện biện pháp ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin và mua rượu, bia bảo đảm các yêu cầu sau đây:
 
-**ID:** dk_00076111
+ 1. Có ứng dụng khai báo tên, tuổi của người truy cập trước khi người đó truy cập, tìm kiếm thông tin; khai báo các thông tin về tên, địa chỉ cư trú của người mua, thông tin thanh toán qua tài khoản, thẻ ngân hàng hoặc các phương thức thanh toán không dùng tiền mặt khác khi người đó thực hiện giao dịch mua rượu, bia.
 
----
+ 2. Thông tin về sản phẩm rượu, bia trên website thương mại điện tử của tổ chức, cá nhân bán rượu, bia không được liên kết, quảng bá đến các tài khoản người dùng chưa đủ 18 tuổi; các trang, kênh, phương tiện thông tin khác trên môi trường mạng dành riêng cho người chưa đủ 18 tuổi hoặc có đa số người sử dụng, truy cập chưa đủ 18 tuổi.
 
+ 3. Tổ chức, cá nhân bán rượu, bia có trách nhiệm kiểm tra tuổi của người nhận hàng trong trường hợp nghi ngờ về độ tuổi của người đó, bảo đảm người nhận hàng phải từ đủ 18 tuổi trở lên khi giao hàng.
 
-### Điều 45.11.LQ.17. Biện pháp quản lý đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh
+ 4. Chậm nhất đến ngày 30 tháng 6 năm 2020, tổ chức, cá nhân bán rượu, bia theo hình thức thương mại điện tử đã hoạt động trước ngày Nghị định này có hiệu lực có trách nhiệm thực hiện quy định tại các khoản 1, 2, và khoản 3 Điều này.Điều 45.11.LQ.17. Biện pháp quản lý đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh
 
-Điều 45.11.LQ.17. Biện pháp quản lý đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh
+(Điều 17 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Chỉ mục:** 17
+1. Hộ gia đình, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh phải có bản kê khai gửi Ủy ban nhân dân cấp xã về lượng rượu được sản xuất, phạm vi sử dụng, cam kết bảo đảm an toàn thực phẩm và không bán rượu ra thị trường theo mẫu do Bộ trưởng Bộ Công Thương quy định. Việc kê khai không phải nộp phí, lệ phí.
 
-**Mã phân cấp:** 4501100000000000300001700000000000000000
+2. Ủy ban nhân dân các cấp hướng dẫn việc thực hiện các quy định của pháp luật về an toàn thực phẩm; báo cáo sản lượng và tình hình bảo đảm an toàn thực phẩm đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh trên địa bàn.
 
-**ID:** dk_00076112
+Điều 45.11.TT.1.3. Thực hiện kê khai
 
----
+(Điều 3 Thông tư số 26/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
+1. Hộ gia đình, cá nhân sản xuất rượu gửi bản kê khai theo mẫu quy định tại Phụ lục ban hành kèm theo Thông tư này trực tiếp hoặc qua đường bưu điện hoặc qua mạng điện tử đến Ủy ban nhân dân cấp xã nơi hộ gia đình, cá nhân sản xuất rượu.
 
-### Điều 45.11.TT.1.3. Thực hiện kê khai
+2. Hộ gia đình, cá nhân sản xuất rượu thực hiện kê khai 01 lần/năm trước ngày 15 tháng 01 hàng năm cho kế hoạch sản xuất cả năm. Trường hợp có sự thay đổi nội dung kê khai, hộ gia đình, cá nhân phải cập nhật thông tin và gửi bản kê khai trước khi tiến hành sản xuất rượu.
 
-*Nội dung chưa có sẵn*
+Đối với hộ gia đình, cá nhân sản xuất rượu không có kế hoạch sản xuất cho cả năm phải thực hiện kê khai trước mỗi lần sản xuất rượu.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 450110000000000030000170000000000000000000802710100260000300
-
-**ID:** dk_00076113
-
----
-
-
-### Điều 45.11.LQ.18. Bảo đảm chất lượng, an toàn thực phẩm đối với rượu, bia
+Bieu mau TT 26.doc
 
 Điều 45.11.LQ.18. Bảo đảm chất lượng, an toàn thực phẩm đối với rượu, bia
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000300001800000000000000000
+Rượu, bia được kinh doanh, lưu hành tại Việt Nam phải bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa và an toàn thực phẩm theo quy định của pháp luật.
 
-**ID:** dk_00076114
+(Điều này có nội dung liên quan đến Điều 19.1.LQ.5. Nguyên tắc quản lý chất lượng sản phẩm, hàng hóa; Điều 19.1.LQ.27. Kiểm tra chất lượng sản phẩm, hàng hóa; Điều 45.1.LQ.10. Điều kiện chung về bảo đảm an toàn đối với thực phẩm; Điều 45.1.LQ.19. Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm; Điều 45.1.LQ.20. Điều kiện bảo đảm an toàn thực phẩm trong bảo quản thực phẩm; Điều 45.1.LQ.21. Điều kiện bảo đảm an toàn thực phẩm trong vận chuyển thực phẩm; Điều 45.1.TT.26.1.)
 
----
+Điều 45.11.LQ.19. Địa điểm không bán rượu, bia
 
+(Điều 19 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 45.11.LQ.19. Địa điểm không bán rượu, bia
+1. Cơ sở y tế.
 
-*Nội dung chưa có sẵn*
+2. Cơ sở giáo dục.
 
-**Chỉ mục:** 19
+3. Cơ sở, khu vực chăm sóc, nuôi dưỡng, vui chơi, giải trí dành cho người chưa đủ 18 tuổi.
 
-**Mã phân cấp:** 4501100000000000300001900000000000000000
+4. Cơ sở cai nghiện, cơ sở giáo dục bắt buộc, trường giáo dưỡng, cơ sở giam giữ phạm nhân và cơ sở giam giữ khác.
 
-**ID:** dk_00076115
+5. Cơ sở bảo trợ xã hội.
 
----
-
-
-### Điều 45.11.LQ.20. Phòng ngừa và xử lý rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm; rượu, bia nhập lậu, không rõ nguồn gốc, xuất xứ
+6. Nơi làm việc của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, đơn vị sự nghiệp công lập, trừ địa điểm được phép kinh doanh rượu, bia.
 
 Điều 45.11.LQ.20. Phòng ngừa và xử lý rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm; rượu, bia nhập lậu, không rõ nguồn gốc, xuất xứ
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000300002000000000000000000
+1. Rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm và rượu, bia nhập lậu, không rõ nguồn gốc, xuất xứ đều bị tịch thu, xử lý theo quy định của pháp luật.
 
-**ID:** dk_00076116
+2. Tổ chức, cá nhân có trách nhiệm phối hợp, tham gia với cơ quan có thẩm quyền trong phòng, chống rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm và rượu, bia nhập lậu, không rõ nguồn gốc, xuất xứ.
 
----
+3. Bộ Công Thương, Bộ Y tế, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn việc bổ sung chất chỉ thị màu vào các sản phẩm cồn không dùng trong thực phẩm để phân biệt với cồn thực phẩm và phòng ngừa pha chế rượu từ sản phẩm cồn không được phép dùng trong thực phẩm.
 
+(Điều này có nội dung liên quan đến Điều 19.1.LQ.5. Nguyên tắc quản lý chất lượng sản phẩm, hàng hóa; Điều 19.1.LQ.27. Kiểm tra chất lượng sản phẩm, hàng hóa)
 
-### Điều 45.11.LQ.21. Phòng ngừa tai nạn giao thông liên quan đến sử dụng rượu, bia
+Chương IV
+
+BIỆN PHÁP GIẢM TÁC HẠI CỦA RƯỢU, BIA
 
 Điều 45.11.LQ.21. Phòng ngừa tai nạn giao thông liên quan đến sử dụng rượu, bia
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000400002100000000000000000
+1. Người điều khiển phương tiện giao thông không uống rượu, bia trước và trong khi tham gia giao thông.
 
-**ID:** dk_00076118
+2. Người đứng đầu cơ sở kinh doanh vận tải, chủ phương tiện giao thông vận tải có trách nhiệm chủ động thực hiện biện pháp phòng ngừa, phát hiện, ngăn chặn người điều khiển phương tiện vận tải uống rượu, bia ngay trước và trong khi tham gia giao thông.
 
----
+3. Cơ quan, người có thẩm quyền có trách nhiệm kiểm tra nồng độ cồn trong máu, hơi thở của người điều khiển phương tiện giao thông đang tham gia giao thông hoặc gây ra tai nạn giao thông.
 
-
-### Điều 45.11.LQ.22. Phòng ngừa, can thiệp và giảm tác hại của việc uống rượu, bia đối với sức khỏe
+4. Bộ Giao thông vận tải có trách nhiệm xây dựng nội dung và tổ chức việc đào tạo về phòng, chống tác hại của rượu, bia trong chương trình đào tạo cấp bằng, chứng chỉ, giấy phép điều khiển phương tiện giao thông thuộc phạm vi quản lý.
 
 Điều 45.11.LQ.22. Phòng ngừa, can thiệp và giảm tác hại của việc uống rượu, bia đối với sức khỏe
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000400002200000000000000000
+1. Các biện pháp phòng ngừa, can thiệp và giảm tác hại của việc uống rượu, bia đối với sức khỏe bao gồm:
 
-**ID:** dk_00076119
+a) Tư vấn về phòng, chống tác hại của rượu, bia cho người đến khám bệnh, chữa bệnh tại cơ sở y tế;
 
----
+b) Sàng lọc, phát hiện sớm yếu tố nguy cơ đối với sức khỏe của người uống rượu, bia; người mắc bệnh, rối loạn chức năng do uống rượu, bia; người nghiện rượu, bia;
 
+c) Can thiệp giảm tác hại cho người có yếu tố nguy cơ đối với sức khỏe, phụ nữ mang thai có hội chứng hoặc nguy cơ ngộ độc rượu ở thai nhi; phòng, chống nghiện và tái nghiện rượu, bia;
 
-### Điều 45.11.LQ.23. Tư vấn về phòng, chống tác hại của rượu, bia
+d) Chẩn đoán, điều trị, phục hồi chức năng cho người mắc bệnh, rối loạn chức năng có liên quan đến uống rượu, bia.
+
+2. Cơ sở y tế thực hiện các biện pháp quy định tại khoản 1 Điều này theo hướng dẫn chuyên môn, kỹ thuật của Bộ Y tế.
 
 Điều 45.11.LQ.23. Tư vấn về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000400002300000000000000000
+1. Tư vấn về phòng, chống tác hại của rượu, bia bao gồm các nội dung sau đây:
 
-**ID:** dk_00076120
+a) Thông tin, kiến thức, pháp luật về phòng, chống tác hại của rượu, bia;
 
----
+b) Biện pháp giảm tác hại của rượu, bia; kỹ năng từ chối uống rượu, bia; kỹ năng nhận biết và ứng xử, xử trí khi gặp người say rượu, bia, người nghiện rượu, bia.
 
+2. Việc tư vấn về phòng, chống tác hại của rượu, bia tập trung vào các đối tượng sau đây:
 
-### Điều 45.11.LQ.24. Biện pháp phòng ngừa tác hại của rượu, bia tại cộng đồng
+a) Người thường xuyên uống rượu, bia;
+
+b) Người nghiện rượu, bia;
+
+c) Thành viên gia đình có người thường xuyên uống rượu, bia, người nghiện rượu, bia;
+
+d) Trẻ em, học sinh, sinh viên, thanh niên, phụ nữ mang thai;
+
+đ) Người bị ảnh hưởng bởi tác hại của rượu, bia.
+
+3. Ủy ban nhân dân cấp xã chủ trì phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và các tổ chức thành viên của Mặt trận hướng dẫn, tạo điều kiện cho hoạt động tư vấn về phòng, chống tác hại của rượu, bia trên địa bàn.
+
+4. Nhà nước tạo điều kiện và khuyến khích tổ chức, cá nhân thực hiện tư vấn về phòng, chống tác hại của rượu, bia cho thành viên trong cộng đồng.
+
+5. Cơ quan, tổ chức, cá nhân thực hiện hoạt động tư vấn quy định tại khoản 1 và khoản 2 Điều này phù hợp với chức năng, nhiệm vụ được giao.
 
 Điều 45.11.LQ.24. Biện pháp phòng ngừa tác hại của rượu, bia tại cộng đồng
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000400002400000000000000000
+1. Tuyên truyền, vận động các gia đình, thành viên thuộc tổ chức, cộng đồng tham gia tuyên truyền và thực hiện quy định của pháp luật về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076121
+2. Lồng ghép hoạt động phòng, chống tác hại của rượu, bia vào các phong trào, hoạt động văn hóa, văn nghệ, thể thao, xây dựng đời sống văn hóa và hoạt động khác tại cộng đồng.
 
----
+3. Vận động, khuyến khích quy định trong hương ước, quy ước việc hạn chế hoặc không uống rượu, bia tại đám cưới, đám tang, lễ hội trên địa bàn dân cư.
 
+4. Vận động cá nhân, tổ chức không sử dụng sản phẩm rượu, bia không rõ nguồn gốc, xuất xứ, chưa được kiểm nghiệm an toàn thực phẩm.
 
-### Điều 45.11.LQ.25. Chăm sóc, hỗ trợ, bảo vệ trẻ em, phụ nữ và các đối tượng yếu thế khác để phòng ngừa, giảm tác hại của rượu, bia
+5. Phát hiện, phản ánh người say rượu, bia, người nghiện rượu, bia để cảnh báo, phòng ngừa, xử lý hành vi gây ảnh hưởng đến trật tự, an toàn xã hội.
 
 Điều 45.11.LQ.25. Chăm sóc, hỗ trợ, bảo vệ trẻ em, phụ nữ và các đối tượng yếu thế khác để phòng ngừa, giảm tác hại của rượu, bia
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000400002500000000000000000
+1. Các biện pháp chăm sóc, hỗ trợ, bảo vệ trẻ em, phụ nữ và các đối tượng yếu thế khác để phòng ngừa, giảm tác hại của rượu, bia bao gồm:
 
-**ID:** dk_00076122
+a) Tư vấn cho phụ nữ trong độ tuổi sinh đẻ, phụ nữ mang thai, phụ nữ đang cho con bú về tác hại của rượu, bia đối với thai nhi, trẻ em; cho người bị ảnh hưởng bởi tác hại của rượu, bia khi sử dụng dịch vụ tại cơ sở y tế, cơ sở trợ giúp xã hội, cơ sở hỗ trợ nạn nhân bị bạo lực gia đình;
 
----
+b) Can thiệp, hỗ trợ, áp dụng biện pháp cấm tiếp xúc, bảo đảm an toàn theo quy định của pháp luật về phòng, chống bạo lực gia đình đối với trẻ em, phụ nữ và các đối tượng yếu thế khác để không bị ảnh hưởng bởi tác hại của rượu, bia;
 
+c) Các biện pháp ngăn chặn theo quy định của pháp luật.
 
-### Điều 45.11.LQ.26. Kinh phí cho hoạt động phòng, chống tác hại của rượu, bia
+2. Các biện pháp quy định tại khoản 1 Điều này phải được lồng ghép trong chương trình, kế hoạch, hoạt động có liên quan đến trẻ em, phụ nữ và các đối tượng yếu thế khác.
+
+3. Cơ quan, tổ chức, gia đình, cá nhân thực hiện quy định tại khoản 1 và khoản 2 Điều này phù hợp với chức năng, nhiệm vụ được giao.
+
+Chương V
+
+ĐIỀU KIỆN BẢO ĐẢM CHO HOẠT ĐỘNG PHÒNG, CHỐNG TÁC HẠI CỦA RƯỢU, BIA
 
 Điều 45.11.LQ.26. Kinh phí cho hoạt động phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000500002600000000000000000
+1. Kinh phí cho hoạt động phòng, chống tác hại của rượu, bia bao gồm:
 
-**ID:** dk_00076124
+a) Ngân sách nhà nước;
 
----
+b) Kinh phí hợp pháp khác.
 
+2. Kinh phí cho hoạt động phòng, chống tác hại của rượu, bia được phân bổ, quản lý, sử dụng đúng mục đích, hiệu quả và theo quy định của pháp luật.
 
-### Điều 45.11.NĐ.2.7. Nội dung chi cho hoạt động phòng, chống tác hại của rượu, bia
+3. Chính phủ quy định nội dung chi, mức chi cho hoạt động phòng, chống tác hại của rượu, bia được ngân sách nhà nước bảo đảm.
+
+(Điều này có nội dung liên quan đến Điều 1. của Luật 70/2014/QH13 Sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt ban hành ngày 26/11/2014; Điều 33.3.TT.115.3. Mức thu phí)
 
 Điều 45.11.NĐ.2.7. Nội dung chi cho hoạt động phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240000700
+ 1. Nội dung chi cho hoạt động phòng, chống tác hại của rượu, bia bao gồm:
 
-**ID:** dk_00076125
+ a) Xây dựng, phổ biến và tổ chức thực hiện chính sách, pháp luật, kế hoạch về phòng, chống tác hại của rượu, bia;
 
----
+ b) Tổ chức thực hiện các biện pháp phòng, chống tác hại của rượu, bia;
 
+ c) Hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia tại cộng đồng, cơ quan, tổ chức;
 
-### Điều 45.11.NĐ.2.8. Nội dung chi, mức chi cho các hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia tại cộng đồng, cơ quan, tổ chức
+ d) Tổ chức các cuộc thi tìm hiểu, sáng kiến về phòng, chống tác hại của rượu, bia;
 
-Điều 45.11.NĐ.2.8. Nội dung chi, mức chi cho các hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia tại cộng đồng, cơ quan, tổ chức
+ đ) Hoạt động tư vấn về tác hại của rượu, bia, sàng lọc, phát hiện sớm yếu tố nguy cơ đối với sức khỏe của người uống rượu, bia, can thiệp giảm tác hại cho người có yếu tố nguy cơ đối với sức khỏe tại y tế cơ sở, cộng đồng; sàng lọc, phát hiện sớm, tư vấn, dự phòng và điều trị can thiệp, phục hồi chức năng cho người mắc bệnh, rối loạn chức năng có liên quan đến uống rượu, bia, phòng, chống nghiện, tái nghiện và chăm sóc sức khỏe cho người nghiện rượu, bia tại cơ sở khám bệnh, chữa bệnh;
 
-**Chỉ mục:** 8
+ e) Sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia;
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240000800
+ g) Thống kê, thu thập và phân tích thông tin, dữ liệu có liên quan đến sản xuất, kinh doanh và tiêu thụ rượu, bia; thực trạng sử dụng rượu, bia và ảnh hưởng đối với sức khỏe, xã hội, kinh tế do sử dụng rượu, bia theo chu kỳ 05 năm và hằng năm làm căn cứ xây dựng và hoàn thiện chính sách, pháp luật về phòng, chống tác hại của rượu, bia, chăm sóc sức khỏe nhân dân, bảo đảm an ninh, trật tự và các vấn đề xã hội khác;
 
-**ID:** dk_00076126
+ h) Đào tạo, bồi dưỡng, tập huấn về phòng, chống tác hại của rượu, bia;
 
----
+ i) Nghiên cứu khoa học, hợp tác quốc tế về phòng, chống tác hại của rượu, bia;
 
+ k) Khen thưởng tập thể, cá nhân có thành tích trong phòng, chống tác hại của rượu, bia;
 
-### Điều 45.11.NĐ.2.9. Chỉ tổ chức các cuộc thi tìm hiểu, sáng kiến về phòng, chống tác hại của rượu, bia
+ l) Phòng ngừa và xử lý rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm; rượu, bia nhập lậu, không rõ nguồn gốc, xuất xứ;
+
+ m) Kiểm tra, thanh tra, xử lý vi phạm pháp luật và giải, quyết khiếu nại, tố cáo trong phòng, chống tác hại của rượu, bia;
+
+ n) Sơ kết, tổng kết việc thực hiện công tác phòng, chống tác hại của rượu, bia.
+
+ 2. Nội dung chi, mức chi cho các hoạt động đặc thù quy định tại các điểm c, d, đ và điểm e khoản 1 Điều này thực hiện theo quy định tại các điều 8, 9, 10, 11, 12 và Điều 13 Nghị định này. Nội dung chi, mức chi cho các hoạt động khác quy định tại khoản 1 Điều này thực hiện theo chế độ chi tiêu hiện hành của cơ quan nhà nước, đơn vị sự nghiệp công lập và quy định của pháp luật.
+
+ 3. Căn cứ khả năng cân đối ngân sách của địa phương và tình hình thực tế, Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương có thể xem xét, quyết định theo thẩm quyền mức chi cao hơn mức quy định tại Nghị định này.
+
+ 4. Nội dung chi, mức chi các hoạt động phòng, chống tác hại của rượu, bia có nguồn kinh phí tài trợ hoặc nguồn kinh phí hợp pháp khác thực hiện theo quy định của đơn vị tài trợ và quy định của pháp luật.Điều 45.11.NĐ.2.8. Nội dung chi, mức chi cho các hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia tại cộng đồng, cơ quan, tổ chức
+
+(Điều 8 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
+
+ 1. Nội dung và mức chi nhuận bút xây dựng bản tin, phóng sự, tọa đàm về phòng, chống tác hại của rượu, bia thực hiện theo quy định tại Nghị định số 18/2014/NĐ-CP ngày 14 tháng 3 năm 2014 của Chính phủ quy định chế độ nhuận bút trong lĩnh vực báo chí, xuất bản và các văn bản liên quan.
+
+ 2. Chi tổ chức các buổi giao lưu, các buổi lễ mít tinh, tuyên truyền, cổ động về phòng, chống tác hại của rượu, bia:
+
+ a) Chi nước uống cho người tham dự: 20.000 đồng/người/buổi; chi thù lao cho người tham dự 50.000 đồng/người/buổi;
+
+ b) Chi báo cáo viên: 200.000 đồng/người/buổi;
+
+ c) Chi tài liệu: tối đa 15.000 đồng/người;
+
+ d) Chi thuê hội trường, phông, bạt, bàn ghế, thiết bị loa đài (nếu có): Mức chi thực hiện theo hợp đồng, giấy biên nhận hoặc hoá đơn tài chính (trong trường hợp thuê dịch vụ);
+
+ đ) Chi truyền thanh (xây dựng, biên tập, phát thanh): Mức chi xây dựng, biên tập 100.000 đồng/trang 350 từ; bồi dưỡng phát thanh viên 20.000 đồng/lần;
+
+ e) Mức chi xây dựng và in tài liệu truyền thông căn cứ theo giá thị trường tại địa phương và quy định của pháp luật.
+
+ 3. Chi hỗ trợ các buổi biểu diễn văn nghệ, tiểu phẩm tại cộng đồng về phòng, chống tác hại của rượu, bia:
+
+ a) Bồi dưỡng luyện tập chương trình mới: Mức bồi dưỡng cho 01 buổi tập chương trình mới tối đa không quá 70.000 đồng/người/buổi. Số buổi tập tối đa cho một chương trình mới là 10 buổi;
+
+ b) Mức bồi dưỡng trong chương trình biểu diễn tối đa không quá 150.000 đồng/người/buổi.
+
+ 4. Chi thuê dẫn chương trình và biểu diễn văn nghệ tại lễ mít tinh, chiến dịch truyền thông về phòng, chống tác hại của rượu, bia:
+
+ a) Dẫn chương trình: 2.000.000 đồng/người/buổi;
+
+ b) Biểu diễn văn nghệ: 300.000 đồng/người/buổi. Tổng số buổi tập và biểu diễn cho một chương trình văn nghệ tối đa là 10 buổi.
+
+ 5. Chi hỗ trợ hoạt động của các đội tuyên truyền lưu động trong các đợt mở chiến dịch tuyên truyền tại cộng đồng, cơ quan, đơn vị, tổ chức:
+
+ a) Chi hỗ trợ cho những người trực tiếp tham gia đội tuyên truyền lưu động về phòng, chống tác hại của rượu, bia tại cộng đồng: chi bồi dưỡng tham gia các buổi tuyên truyền 100.000 đồng/người/buổi; chi hỗ trợ tập luyện tuyên truyền 50.000 đồng/người/buổi;
+
+ b) Mức chi xăng xe hoặc thuê phương tiện, chụp ảnh tư liệu, thiết bị, dụng cụ tuyên truyền, cổ động và các hoạt động khác theo thực tế căn cứ vào hóa đơn, chứng từ, giá thị trường tại địa phương và quy định của pháp luật.
+
+ 6. Mức chi thù lao cho các cộng tác viên tham gia công tác tuyên truyền về phòng, chống tác hại của rượu, bia theo hướng dẫn về cộng tác viên tuyên truyền của Bộ Y tế: 150.000 đồng/người/tháng.(Điều này có nội dung liên quan đến Điều 32.1.NĐ.2.4. Quy định về trả nhuận bút, thù lao; Điều 32.1.NĐ.2.6. Đối tượng hưởng nhuận bút, thù lao đối với tác phẩm báo in, báo điện tử; Điều 32.1.NĐ.2.7. Nhuận bút đối với tác phẩm báo in, báo điện tử; Điều 32.1.NĐ.2.8. Quỹ nhuận bút; Điều 32.1.NĐ.2.9. Đối tượng hưởng nhuận bút, thù lao đối với tác phẩm báo nói, báo hình; Điều 32.1.NĐ.2.10. Nhuận bút đối với tác phẩm báo nói, báo hình; Điều 32.1.NĐ.2.11. Quỹ nhuận bút)
 
 Điều 45.11.NĐ.2.9. Chỉ tổ chức các cuộc thi tìm hiểu, sáng kiến về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240000900
+ 1. Biên soạn đề thi và đáp án (nếu có): Mức tối đa 1.000.000 đồng/đề thi.
 
-**ID:** dk_00076127
+ 2. Bồi dưỡng chấm thi, Ban giám khảo cuộc thi, xét công bố kết quả thi: Mức tối đa 500.000 đồng/người/buổi.
 
----
+ 3. Bồi dưỡng thành viên Ban tổ chức, thư ký cuộc thi: Mức tối đa 350.000 đồng/người/buổi.
 
+ 4. Chi giải thưởng:
 
-### Điều 45.11.NĐ.2.10. Nội dung chi, mức chi các hoạt động tư vấn cai nghiện rượu, bia
+ a) Đối với cuộc thi cấp trung ương: Giải tập thể tối đa 20.000.000 đồng/ giải thưởng; giải cá nhân tối đa 15.000.000 đồng/giải thưởng;
 
-Điều 45.11.NĐ.2.10. Nội dung chi, mức chi các hoạt động tư vấn cai nghiện rượu, bia
+ b) Đối với cuộc thi cấp tỉnh: Giải tập thể tối đa 10.000.000đồng/giải thưởng; giải cá nhân tối đa 5.000.000 đồng/giải thưởng;
 
-**Chỉ mục:** 10
+ c) Đối với cuộc thi cấp huyện: Giải tập thể tối đa 5.000.000 đồng/giải thưởng; giải cá nhân tối đa 2.000.000 đồng/giải thưởng;
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240001000
+ d) Đối với cuộc thi cấp cơ sở: Giải tập thể tối đa 2.000.000 đồng/giải thưởng; giải cá nhân tối đa 1.000.000 đồng/giải thưởng.
 
-**ID:** dk_00076128
+ 5. Chi tổng hợp, báo cáo kết quả cuộc thi: Tối đa 1.000.000 đồng/báo cáo.
 
----
+ 6. Chi hỗ trợ tiền ăn, ở, đi lại cho thành viên ban tổ chức, thành viên hội đồng thi trong những ngày tổ chức cuộc thi, thực hiện theo quy định hiện hành của Bộ Tài chính về chế độ công tác phí đối với cán bộ, công chức, viên chức nhà nước.
 
+ 7. Chi hỗ trợ tiền ăn, ở, đi lại cho thí sinh tham gia cuộc thi (kể cả ngày tập luyện và thi, tối đa không quá 10 ngày), áp dụng mức chi hỗ trợ tiền ăn, nghỉ đối với đại biểu không hưởng lương theo quy định hiện hành của Bộ Tài chính về chế độ chi hội nghị, công tác phí. Những người đã được hưởng khoản hỗ trợ nêu trên thì không được thanh toán công tác phí ở cơ quan.
 
-### Điều 45.11.NĐ.2.11. Chi sàng lọc, phát hiện sớm yếu tố nguy cơ đối với sức khỏe của người uống rượu, bia; người mắc bệnh, rối loạn chức năng do uống rượu, bia; người nghiện rượu, bia
+ 8. Thu thập thông tin, tư liệu, lập hệ cơ sở dữ liệu tin học hoá (đối với cuộc thi qua mạng điện tử) thực hiện theo quy định của pháp luật.
 
-Điều 45.11.NĐ.2.11. Chi sàng lọc, phát hiện sớm yếu tố nguy cơ đối với sức khỏe của người uống rượu, bia; người mắc bệnh, rối loạn chức năng do uống rượu, bia; người nghiện rượu, bia
+ 9. Thuê dẫn chương trình: 2.000.000 đồng/người/buổi.
 
-**Chỉ mục:** 11
+ 10. Thuê hội trường và thiết bị phục vụ cuộc thi sân khấu: Mức chi theo thực tế căn cứ hóa đơn, chứng từ.
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240001100
+ 11. Thuê diễn viên biểu diễn văn nghệ: 300.000 đồng/người/buổi. Tổng số buổi tập và biểu diễn tối đa cho một chương trình là 10 buổi.
 
-**ID:** dk_00076129
+ 12. Các khoản chi khác phục vụ cuộc thi thực hiện theo chế độ hiện hành của Nhà nước. Trường hợp chưa có quy định mức chi, Thủ trưởng cơ quan tổ chức cuộc thi quyết định mức chi trong phạm vi dự toán ngân sách nhà nước được giao.
 
----
+ 13. Tùy theo quy mô tổ chức cuộc thi (cấp trung ương, cấp tỉnh, cấp huyện, cấp cơ sở), cấp có thẩm quyền quyết định mức chi cụ thể và không vượt quá mức chi tối đa quy định tại điều này.Điều 45.11.NĐ.2.10. Nội dung chi, mức chi các hoạt động tư vấn cai nghiện rượu, bia
 
+(Điều 10 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-### Điều 45.11.NĐ.2.12. Chi xây dựng, triển khai các sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia
+ 1. Chi hỗ trợ thiết lập phòng, bộ phận tư vấn cai nghiện: điện thoại, máy tính, thiết bị, vật tư thực hiện theo quy định của pháp luật về đấu thầu, ngân sách.
 
-Điều 45.11.NĐ.2.12. Chi xây dựng, triển khai các sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia
+ 2. Mức chi xây dựng và in tài liệu phục vụ hoạt động tư vấn cai nghiện rượu, bia theo thực tế và phù hợp với nội dung tư vấn.
 
-**Chỉ mục:** 12
+ 3. Chi thù lao người thực hiện tư vấn cai nghiện rượu, bia:
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240001200
+ a) Chi cho nhân viên tư vấn cai nghiện rượu, bia theo hợp đồng lao động. Mức tiền công và các khoản phụ cấp của người lao động được trả theo thỏa thuận dựa trên năng suất, chất lượng, hiệu quả công việc của người lao động và các quy định của pháp luật về chế độ tiền lương, tiền công;
 
-**ID:** dk_00076130
+ b) Chi cho cán bộ y tế tham gia công tác tư vấn cai nghiện rượu, bia làm đêm, làm thêm giờ thực hiện theo quy định của Bộ luật Lao động và văn bản hướng dẫn về thực hiện chế độ trả lương làm việc vào ban đêm, làm thêm giờ đối với cán bộ, công chức, viên chức, người lao động.
 
----
+ 4. Chi cho các khoản điện, nước, văn phòng phẩm, phô tô tài liệu để duy trì hoạt động: Mức chi theo thực tế nhưng không quá 5.000.000 đồng/tháng/cơ sở.
 
+ 5. Mức chi cho tổng đài điện thoại tư vấn cai nghiện rượu, bia theo thực tế phù hợp với nội dung và thời gian tư vấn.Điều 45.11.NĐ.2.11. Chi sàng lọc, phát hiện sớm yếu tố nguy cơ đối với sức khỏe của người uống rượu, bia; người mắc bệnh, rối loạn chức năng do uống rượu, bia; người nghiện rượu, bia
 
-### Điều 45.11.NĐ.2.13. Chi hoạt động của Ban Chỉ đạo phòng, chống tác hại của rượu, bia
+(Điều 11 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-Điều 45.11.NĐ.2.13. Chi hoạt động của Ban Chỉ đạo phòng, chống tác hại của rượu, bia
+ 1. Chi hỗ trợ mua sắm trang thiết bị, vật tư, tài liệu, văn phòng phẩm thực hiện theo quy định của pháp luật về ngân sách, đấu thầu.
 
-**Chỉ mục:** 13
+ 2. Chi xây dựng và in tài liệu phục vụ hoạt động sàng lọc, phát hiện sớm theo thực tế và phù hợp với nội dung chuyên môn.
 
-**Mã phân cấp:** 450110000000000050000260000000000000000000402720300240001300
+ 3. Chi thù lao cho người thực hiện sàng lọc:
 
-**ID:** dk_00076131
+ a) Chi cho nhân viên theo hợp đồng lao động: Mức tiền công và các khoản phụ cấp của người lao động được trả theo thỏa thuận dựa trên năng suất, chất lượng, hiệu quả công việc của người lao động và các quy định của pháp luật về chế độ tiền lương, tiền công;
 
----
+ b) Chi bồi dưỡng hỗ trợ cho cán bộ y tế, cộng tác viên tham gia công tác sàng lọc: 20.000 đồng/lần/người;
 
+ c) Chi bồi dưỡng cho cán bộ y tế tham gia công tác sàng lọc làm đêm, thêm giờ thực hiện theo quy định của Bộ luật Lao động và văn bản hướng dẫn về thực hiện chế độ trả lương làm việc vào ban đêm, làm thêm giờ đối với cán bộ, công chức, viên chức, người lao động.
 
-### Điều 45.11.LQ.27. Đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ cho người làm công tác phòng, chống tác hại của rượu, bia
+ 4. Chi thực hiện các kỹ thuật cận lâm sàng theo quy trình chuyên môn của Bộ Y tế đối với người có thẻ bảo hiểm y tế được bảo hiểm y tế thanh toán theo quy định của Bộ trưởng Bộ Y tế.Điều 45.11.NĐ.2.12. Chi xây dựng, triển khai các sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia
 
-Điều 45.11.LQ.27. Đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ cho người làm công tác phòng, chống tác hại của rượu, bia
+(Điều 12 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Chỉ mục:** 27
+ 1. Chi nghiên cứu xây dựng sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia được thực hiện theo quy định của pháp luật về nội dung và mức chi thực hiện các hoạt động nghiên cứu, điều tra, khảo sát, đánh giá.
 
-**Mã phân cấp:** 4501100000000000500002700000000000000000
+ 2. Chi soạn thảo đề án, dự án sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia: Mức chi tối đa 20.000.000 đồng/đề án, dự án.
 
-**ID:** dk_00076132
+ 3. Chi cho cộng tác viên tham gia triển khai sáng kiến, mô hình: Mức chi theo thực tế số ngày tham gia, 100.000 đồng/ngày hoặc khoán chi 2.000.000 đồng/tháng.
 
----
+ 4. Các khoản chi khác thực hiện theo thực tế, căn cứ vào hóa đơn, chứng từ và theo các quy định của pháp luật.Điều 45.11.NĐ.2.13. Chi hoạt động của Ban Chỉ đạo phòng, chống tác hại của rượu, bia
 
+(Điều 13 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-### Điều 45.11.LQ.28. Xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia
+ Mức chi tổ chức các cuộc họp, hội nghị, chế độ công tác phí khi đi giám sát, kiểm tra việc thực hiện công tác phòng, chống tác hại của rượu, bia theo phân công nhiệm vụ của Ban Chỉ đạo và các khoản chi hợp pháp khác thực hiện theo quy định của pháp luật về ngân sách và quy định của pháp luật về hoạt động của tổ chức phối hợp liên ngành.Điều 45.11.LQ.27. Đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ cho người làm công tác phòng, chống tác hại của rượu, bia
+
+(Điều 27 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
+
+1. Người làm công tác phòng, chống tác hại của rượu, bia được đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ phù hợp với trách nhiệm được giao.
+
+2. Nhân viên y tế cơ sở, cộng tác viên thực hiện phòng, chống tác hại của rượu, bia được ưu tiên tham gia các hoạt động bồi dưỡng nâng cao năng lực, kiến thức chuyên môn, nghiệp vụ liên quan đến phòng, chống tác hại của rượu, bia.
 
 Điều 45.11.LQ.28. Xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000500002800000000000000000
+1. Tổ chức, cá nhân có hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00076133
+2. Cơ quan, người có thẩm quyền được sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ để phát hiện, xử lý kịp thời hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia.
 
----
+3. Chính phủ quy định về xử phạt vi phạm hành chính trong phòng, chống tác hại của rượu, bia.
 
+Chương VI
 
-### Điều 45.11.LQ.29. Nội dung quản lý nhà nước về phòng, chống tác hại của rượu, bia
+QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG PHÒNG, CHỐNG TÁC HẠI CỦA RƯỢU, BIA
 
 Điều 45.11.LQ.29. Nội dung quản lý nhà nước về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000600002900000000000000000
+1. Ban hành, trình cấp có thẩm quyền ban hành và tổ chức thực hiện chính sách, pháp luật, kế hoạch về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076135
+2. Thông tin, tuyên truyền, phổ biến, giáo dục về phòng, chống tác hại của rượu, bia.
 
----
+3. Đào tạo, bồi dưỡng về công tác phòng, chống tác hại của rượu, bia.
 
+4. Thống kê, sơ kết, tổng kết, định kỳ báo cáo việc thực hiện phòng, chống tác hại của rượu, bia.
 
-### Điều 45.11.LQ.30. Trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia
+5. Thanh tra, kiểm tra, xử lý vi phạm pháp luật và giải quyết khiếu nại, tố cáo về phòng, chống tác hại của rượu, bia.
+
+6. Nghiên cứu khoa học và hợp tác quốc tế về phòng, chống tác hại của rượu, bia.
 
 Điều 45.11.LQ.30. Trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000600003000000000000000000
+1. Chính phủ thống nhất quản lý nhà nước về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076136
+2. Bộ Y tế là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về phòng, chống tác hại của rượu, bia.
 
----
+3. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về phòng, chống tác hại của rượu, bia.
 
+4. Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về phòng, chống tác hại của rượu, bia tại địa phương.
 
-### Điều 45.11.NĐ.2.15. Trách nhiệm chung trong quản lý nhà nước về phòng, chống tác hại của rượu, bia của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+(Điều này có nội dung liên quan đến Điều 45.1.NĐ.6.39. Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Công Thương)
 
 Điều 45.11.NĐ.2.15. Trách nhiệm chung trong quản lý nhà nước về phòng, chống tác hại của rượu, bia của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240001500
+ 1. Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành và tổ chức thực hiện chính sách, kế hoạch, văn bản quy phạm pháp luật về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076137
+ 2. Tổ chức đào tạo, tập huấn, bồi dưỡng kiến thức chuyên môn, nghiệp vụ về phòng, chống tác hại của rượu, bia thuộc lĩnh vực được phân công quản lý.
 
----
+ 3. Tổ chức thông tin, tuyên truyền, phổ biến, giáo dục pháp luật về phòng, chống tác hại của rượu, bia.
 
+ 4. Thanh tra, kiểm tra, khen thưởng, xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia theo chức năng, nhiệm vụ, lĩnh vực được phân công quản lý.
 
-### Điều 45.11.NĐ.2.16. Trách nhiệm quản lý nhà nước của Bộ Y tế
+ 5. Báo cáo định kỳ, đột xuất về công tác phòng, chống tác hại của rượu, bia thuộc lĩnh vực được phân công quản lý.Điều 45.11.NĐ.2.16. Trách nhiệm quản lý nhà nước của Bộ Y tế
 
-Điều 45.11.NĐ.2.16. Trách nhiệm quản lý nhà nước của Bộ Y tế
+(Điều 16 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Chỉ mục:** 16
+ 1. Trình Chính phủ, Thủ tướng Chính phủ ban hành và ban hành theo thẩm quyền văn bản quy phạm pháp luật, chính sách về phòng, chống tác hại của rượu, bia.
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240001600
+ 2. Xây dựng, hướng dẫn tổ chức thực hiện chương trình, kế hoạch và các hoạt động về phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076138
+ 3. Chủ trì, phối hợp với các bộ, ngành, Ủy ban nhân dân cấp tỉnh tổ chức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia; đầu mối xây dựng nội dung của các tài liệu mẫu, tài liệu chuẩn về phòng, chống tác hại của rượu, bia phục vụ công tác thông tin, giáo dục, truyền thông; xây dựng đề án tổ chức các chiến dịch truyền thông về phòng, chống tác hại của rượu, bia trình Thủ tướng Chính phủ ban hành và hướng dẫn, tổ chức triển khai trong toàn quốc; tổ chức cung cấp thông tin khoa học, khuyến cáo người dân và cộng đồng về tác hại của rượu, bia, các mức độ nguy cơ khi uống rượu, bia, các đối tượng, bệnh, tình trạng sức khỏe không được uống rượu, bia, các biện pháp giảm tác hại của rượu, bia.
 
----
+ 4. Hướng dẫn chuyên môn về các dịch vụ sàng lọc, phát hiện sớm, dự phòng và điều trị can thiệp, phục hồi chức năng, phòng, chống nghiện, tái nghiện và chăm sóc sức khỏe cho người nghiện rượu, bia.
 
+ 5. Tổ chức xây dựng, duy trì hệ thống thu thập và phân tích thông tin, dữ liệu về thực trạng sử dụng rượu, bia và ảnh hưởng đối với sức khỏe, xã hội, kinh tế do sử dụng rượu, bia theo chu kỳ 5 năm một lần bao gồm tỷ lệ uống, tỷ lệ uống ở mức nguy hại, tỷ lệ yếu tố nguy cơ, rối loạn có liên quan đến sử dụng rượu, bia trong số người có uống rượu, bia và các chỉ số cần thiết khác làm căn cứ xây dựng và hoàn thiện chính sách, pháp luật về phòng, chống tác hại của rượu, bia.
 
-### Điều 45.11.NĐ.2.17. Trách nhiệm quản lý nhà nước của Bộ Công Thương
+ 6. Kiểm tra, đôn đốc việc thực hiện hoạt động phòng, chống tác hại của rượu, bia của các bộ, ngành, địa phương; tổng hợp, báo cáo Chính phủ về kết quả của công tác phòng, chống tác hại của rượu, bia.Điều 45.11.NĐ.2.17. Trách nhiệm quản lý nhà nước của Bộ Công Thương
 
-Điều 45.11.NĐ.2.17. Trách nhiệm quản lý nhà nước của Bộ Công Thương
+(Điều 17 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Chỉ mục:** 17
+ 1. Trình Chính phủ, Thủ tướng Chính phủ ban hành và ban hành theo thẩm quyền văn bản quy phạm pháp luật về quản lý kinh doanh rượu, bia và phòng, chống tác hại của rượu, bia trong sản xuất, kinh doanh rượu, bia; ban hành quy chuẩn kỹ thuật quốc gia, mức giới hạn an toàn thực phẩm của rượu, bia và tổ chức việc thực hiện.
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240001700
+ 2. Quản lý điều kiện kinh doanh rượu, bia; an toàn thực phẩm; khuyến mại, tài trợ; ghi nhãn sản phẩm; địa điểm, đối tượng, phương thức không được bán rượu, bia; phòng ngừa và xử lý rượu, bia nhập lậu, giả, không bảo đảm chất lượng, không an toàn; việc mở mới điểm bán rượu, bia để tiêu dùng tại chỗ bảo đảm tuân thủ khoảng cách theo quy định tại khoản 7 Điều 32 Luật Phòng, chống tác hại của rượu, bia.
 
-**ID:** dk_00076139
+ 3. Tổng hợp số liệu thống kê về rượu thủ công không nhằm mục đích kinh doanh; chỉ đạo, hướng dẫn, đôn đốc việc thực hiện các biện pháp tăng cường quản lý đối với sản xuất rượu thủ công trên toàn quốc.
 
----
+ 4. Tổ chức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia trong lĩnh vực quản lý kinh doanh rượu, bia; hướng dẫn hộ gia đình, cá nhân sản xuất rượu thủ công bảo đảm an toàn thực phẩm theo quy định của pháp luật; tuyên truyền, vận động, hướng dẫn hộ gia đình, cá nhân sản xuất rượu thủ công làm thủ tục cấp giấy phép sản xuất, đăng ký với Ủy ban nhân dân cấp xã việc bán rượu cho cơ sở có giấy phép sản xuất rượu để chế biến lại, kê khai việc sản xuất rượu thủ công không nhằm mục đích kinh doanh.
 
-
-### Điều 45.11.NĐ.2.18. Trách nhiệm quản lý nhà nước của Bộ Công an
+ 5. Tổ chức xây dựng, duy trì hệ thống thu thập và phân tích thông tin, dữ liệu có liên quan đến sản xuất, kinh doanh rượu, bia làm căn cứ xây dựng và hoàn thiện chính sách, pháp luật về phòng, chống tác hại của rượu, bia.(Điều này có nội dung liên quan đến Điều 45.1.NĐ.6.39. Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Công Thương; Điều 45.1.TT.26.1.)
 
 Điều 45.11.NĐ.2.18. Trách nhiệm quản lý nhà nước của Bộ Công an
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240001800
+ 1. Tổ chức thực hiện chức năng quản lý nhà nước về phòng, chống tác hại của rượu, bia thuộc lĩnh vực quản lý và các biện pháp quản lý nhà nước về phòng ngừa tai nạn giao thông liên quan đến sử dụng rượu, bia; chỉ đạo việc tăng cường các biện pháp tuần tra kiểm soát, xử lý hành vi vi phạm quy định về nồng độ cồn trong máu và khí thở của người điều khiển phương tiện giao thông cơ giới.
 
-**ID:** dk_00076140
+ 2. Tổ chức thông tin, tuyên truyền, phổ biến, giáo dục cho người dân kiến thức, pháp luật liên quan đến quy định về nồng độ cồn trong máu và khí thở của người điều khiển phương tiện giao thông cơ giới, các chế tài xử phạt và vận động người dân tuân thủ quy định của pháp luật.Điều 45.11.NĐ.2.19. Trách nhiệm quản lý nhà nước của Bộ Giáo dục và Đào tạo
 
----
+(Điều 19 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
+ 1. Xây dựng nội dung và tổ chức thông tin, giáo dục, truyền thông về tác hại và phòng, chống tác hại của rượu, bia phù hợp với lứa tuổi của học sinh, sinh viên.
 
-### Điều 45.11.NĐ.2.19. Trách nhiệm quản lý nhà nước của Bộ Giáo dục và Đào tạo
+ 2. Hướng dẫn kỹ năng tư vấn, phát hiện trẻ em, học sinh, sinh viên tại cơ sở giáo dục bị ảnh hưởng bởi tác hại của rượu, bia.
 
-Điều 45.11.NĐ.2.19. Trách nhiệm quản lý nhà nước của Bộ Giáo dục và Đào tạo
+ 3. Phối hợp với các cơ quan, tổ chức có liên quan thực hiện chăm sóc, hỗ trợ, bảo vệ trẻ em, học sinh, sinh viên để phòng ngừa, giảm tác hại của rượu, bia.
 
-**Chỉ mục:** 19
+ 4. Chỉ đạo, kiểm tra, giám sát quy định cấm uống và bán rượu, bia trong cơ sở giáo dục theo quy định của pháp luật.Điều 45.11.NĐ.2.20. Trách nhiệm quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240001900
+(Điều 20 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**ID:** dk_00076141
+ 1. Chủ trì, phối hợp với các cơ quan, tổ chức có liên quan hướng dẫn và tổ chức thực hiện việc phòng, chống tác hại của rượu, bia đối với trẻ em, người cao tuổi.
 
----
+ 2. Xây dựng nội dung và tổ chức thông tin, giáo dục, truyền thông về tác hại và phòng, chống tác hại của rượu, bia phù hợp với lứa tuổi của người học trong các cơ sở giáo dục nghề nghiệp; tổ chức việc thông tin, giáo dục, truyền thông cho người lao động về tác hại của rượu, bia, không uống rượu, bia ngay trước, trong giờ làm việc, học tập và nghỉ giữa giờ làm việc, không vận hành máy móc sau khi uống rượu, bia.
 
+ 3. Chỉ đạo, kiểm tra, giám sát quy định cấm uống và bán rượu, bia trong cơ sở giáo dục nghề nghiệp và quy định không sử dụng lao động là người chưa đủ 18 tuổi trực tiếp tham gia vào việc sản xuất, mua bán rượu, bia.Điều 45.11.NĐ.2.21. Trách nhiệm quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch
 
-### Điều 45.11.NĐ.2.20. Trách nhiệm quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội
+(Điều 21 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-Điều 45.11.NĐ.2.20. Trách nhiệm quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội
+ 1. Tổ chức thực hiện các biện pháp về kiểm soát quảng cáo rượu, bia thuộc lĩnh vực quản lý.
 
-**Chỉ mục:** 20
+ 2. Tổ chức đưa thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia và biện pháp hạn chế sử dụng rượu, bia vào các hoạt động văn hóa, thể thao, du lịch và đời sống gia đình; hướng dẫn, vận động cộng đồng dân cư hạn chế hoặc không uống rượu, bia trong đám tang, đám cưới, lễ hội; hướng dẫn, kiểm tra thực hiện việc hạn chế hình ảnh uống rượu, bia trong các sản phẩm điện ảnh, sân khấu, truyền hình.Điều 45.11.NĐ.2.22. Trách nhiệm quản lý nhà nước của Bộ Thông tin và Truyền thông
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240002000
+(Điều 22 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**ID:** dk_00076142
+ 1. Thực hiện các biện pháp về kiểm soát quảng cáo thuộc lĩnh vực quản lý; chỉ đạo tăng cường biện pháp phát hiện và xử lý các hành vi vi phạm về quảng cáo rượu, bia trên môi trường mạng.
 
----
+ 2. Tổ chức thực hiện các biện pháp thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia; chỉ đạo các cơ quan truyền thông, báo chí thực hiện việc tuyên truyền, phổ biến về phòng, chống tác hại của rượu, bia.Điều 45.11.NĐ.2.23. Trách nhiệm quản lý nhà nước của Bộ Giao thông vận tải
 
+(Điều 23 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-### Điều 45.11.NĐ.2.21. Trách nhiệm quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch
+ 1. Tổ chức thực hiện các biện pháp phòng ngừa tai nạn giao thông liên quan đến sử dụng rượu, bia thuộc lĩnh vực quản lý.
 
-Điều 45.11.NĐ.2.21. Trách nhiệm quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch
+ 2. Xây dựng nội dung và tổ chức việc đào tạo về phòng, chống tác hại của rượu, bia trong chương trình đào tạo cấp giấy phép lái xe.Điều 45.11.NĐ.2.24. Trách nhiệm quản lý nhà nước của Bộ Tài chính
 
-**Chỉ mục:** 21
+(Điều 24 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240002100
+ Chịu trách nhiệm quản lý nhà nước về việc quản lý, sử dụng kinh phí cho công tác phòng, chống tác hại của rượu, bia theo quy định của Luật Ngân sách nhà nước.Điều 45.11.NĐ.2.25. Trách nhiệm quản lý nhà nước của Ủy ban nhân dân các cấp
 
-**ID:** dk_00076143
+(Điều 25 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
----
+ 1. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) có trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia theo chức năng, nhiệm vụ, địa bàn quản lý như sau:
 
+ a) Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành văn bản hướng dẫn, biện pháp thi hành pháp luật về phòng, chống tác hại của rượu, bia;
 
-### Điều 45.11.NĐ.2.22. Trách nhiệm quản lý nhà nước của Bộ Thông tin và Truyền thông
+ b) Xây dựng kế hoạch và bố trí kinh phí thực hiện công tác phòng, chống tác hại của rượu, bia hằng năm;
 
-Điều 45.11.NĐ.2.22. Trách nhiệm quản lý nhà nước của Bộ Thông tin và Truyền thông
+ c) Tổ chức việc thực hiện biện pháp tăng cường quản lý đối với sản xuất rượu thủ công; rà soát, thống kê số lượng hộ gia đình, tổ chức, cá nhân sản xuất rượu thủ công, sản lượng sản xuất rượu thủ công trong toàn tỉnh, gửi Bộ Công Thương tổng hợp và báo cáo Chính phủ hằng năm; vận động, tạo điều kiện thuận lợi về thủ tục, hồ sơ để các hộ gia đình, cá nhân sản xuất rượu thủ công chưa có giấy phép làm thủ tục đề nghị cấp giấy phép sản xuất rượu theo quy định hoặc đăng ký với Ủy ban nhân dân cấp xã, phường, thị trấn (sau đây gọi chung là cấp xã) việc bán rượu cho cơ sở có giấy phép sản xuất rượu để chế biến lại; hộ gia đình, tổ chức, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh tự kê khai gửi Ủy ban nhân cấp xã các thông tin về sản lượng sản xuất rượu, phạm vi sử dụng và cam kết không bán rượu ra thị trường theo mẫu quy định của Bộ trưởng Bộ Công Thương; hướng dẫn các hộ gia đình, tổ chức, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh bảo đảm các quy định về an toàn thực phẩm; kiểm tra chất lượng rượu thủ công được sản xuất, lưu hành trên địa bàn; phòng, chống rượu, bia giả, nhập lậu, không bảo đảm chất lượng và các hoạt động khác có liên quan đến phòng, chống tác hại của rượu, bia;
 
-**Chỉ mục:** 22
+ d) Chỉ đạo, tổ chức việc thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia; hướng dẫn, tổ chức triển khai các chiến dịch truyền thông về phòng, chống tác hại của rượu, bia;
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240002200
+ đ) Chỉ đạo, tổ chức thanh tra, kiểm tra hoạt động phòng, chống tác hại của rượu, bia, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia;
 
-**ID:** dk_00076144
+ e) Báo cáo kết quả thực hiện phòng, chống tác hại của rượu, bia thuộc địa bàn quản lý hằng năm gửi Bộ Y tế tổng hợp, báo cáo Chính phủ.
 
----
+ 2. Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố trực thuộc tỉnh và đơn vị hành chính tương đương (sau đây gọi chung là cấp huyện) có trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia theo chức năng, nhiệm vụ, địa bàn quản lý như sau:
 
+ a) Chỉ đạo, tổ chức việc thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia; tổ chức triển khai các chiến dịch truyền thông về phòng, chống tác hại của rượu, bia;
 
-### Điều 45.11.NĐ.2.23. Trách nhiệm quản lý nhà nước của Bộ Giao thông vận tải
+ b) Tổ chức việc thực hiện biện pháp tăng cường quản lý và bảo đảm an toàn thực phẩm đối với sản xuất rượu thủ công trên địa bàn quản lý theo phân công của Ủy ban nhân dân cấp tỉnh; hướng dẫn các hộ gia đình, tổ chức, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh bảo đảm các quy định về an toàn thực phẩm; kiểm tra chất lượng rượu thủ công được sản xuất, lưu hành trên địa bàn;
 
-Điều 45.11.NĐ.2.23. Trách nhiệm quản lý nhà nước của Bộ Giao thông vận tải
+ c) Chỉ đạo, tổ chức thực hiện, thanh tra, kiểm tra hoạt động phòng, chống tác hại của rượu, bia, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia;
 
-**Chỉ mục:** 23
+ d) Báo cáo Ủy ban nhân dân cấp tỉnh kết quả thực hiện phòng, chống tác hại của rượu, bia hăng năm thuộc địa bàn quản lý.
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240002300
+ 3. Ủy ban nhân dân cấp xã có trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia theo chức năng, nhiệm vụ, địa bàn quản lý như sau:
 
-**ID:** dk_00076145
+ a) Tổ chức việc thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia; tổ chức triển khai các chiến dịch truyền thông về phòng, chống tác hại của rượu, bia;
 
----
+ b) Tổ chức việc thực hiện biện pháp tăng cường quản lý và bảo đảm an toàn thực phẩm đối với sản xuất rượu thủ công trên địa bàn quản lý theo phân công của Ủy ban nhân dân cấp huyện; vận động, tổ chức cho hộ gia đình, tổ chức, cá nhân đăng ký việc bán rượu cho cơ sở có giấy phép sản xuất rượu để chế biến lại; hộ gia đình, tổ chức, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh tự kê khai các thông tin về sản lượng sản xuất rượu, phạm vi sử dụng và cam kết không bán rượu ra thị trường theo mẫu quy định của Bộ trưởng Bộ Công Thương;
 
+ c) Áp dụng biện pháp phòng ngừa, hỗ trợ, can thiệp kịp thời đối với trẻ em có cha, mẹ nghiện rượu, bia theo quy định của pháp luật về phòng, chống bạo lực gia đình;
 
-### Điều 45.11.NĐ.2.24. Trách nhiệm quản lý nhà nước của Bộ Tài chính
+ d) Chỉ đạo, tổ chức thực hiện, thanh tra, kiểm tra hoạt động phòng, chống tác hại của rượu, bia, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia;
 
-Điều 45.11.NĐ.2.24. Trách nhiệm quản lý nhà nước của Bộ Tài chính
+ đ) Tổ chức, vận động, hướng dẫn và phát huy vai trò của tổ dân phố, cụm dân cư, thôn, làng, ấp, bản, phum, sóc, tổ chức hội, đoàn thể tại địa phương, cộng đồng tham gia các hoạt động phòng, chống tác hại của rượu, bia;
 
-**Chỉ mục:** 24
+ e) Báo cáo Ủy ban nhân dân cấp huyện kết quả thực hiện phòng, chống tác hại của rượu, bia hằng năm thuộc địa bàn quản lý.Điều 45.11.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và tổ chức xã hội - nghề nghiệp, tổ chức xã hội
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240002400
+(Điều 31 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00076146
+1. Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi chức năng, nhiệm vụ của mình, có trách nhiệm giáo dục, tuyên truyền, vận động nhân dân, đoàn viên, hội viên thực hiện chính sách, pháp luật về phòng, chống tác hại của rượu, bia; đưa nội dung phòng, chống tác hại của rượu, bia vào nội quy, quy chế của cơ quan, tổ chức; tham gia ý kiến xây dựng pháp luật, thực hiện giám sát, phản biện xã hội trong lĩnh vực phòng, chống tác hại của rượu, bia theo quy định của pháp luật.
 
----
+2. Đoàn Thanh niên Cộng sản Hồ Chí Minh có trách nhiệm sau đây:
 
+a) Thực hiện trách nhiệm quy định tại khoản 1 Điều này;
 
-### Điều 45.11.NĐ.2.25. Trách nhiệm quản lý nhà nước của Ủy ban nhân dân các cấp
+b) Tuyên truyền, giáo dục trẻ em, học sinh, sinh viên, thanh niên không uống rượu, bia;
 
-Điều 45.11.NĐ.2.25. Trách nhiệm quản lý nhà nước của Ủy ban nhân dân các cấp
+c) Phối hợp với cơ quan, tổ chức có liên quan để bảo vệ và hỗ trợ trẻ em, học sinh, sinh viên, thanh niên bị ảnh hưởng bởi tác hại của rượu, bia;
 
-**Chỉ mục:** 25
+d) Lồng ghép hoạt động phòng, chống tác hại của rượu, bia trong công tác đoàn, đội.
 
-**Mã phân cấp:** 450110000000000060000300000000000000000000402720300240002500
+3. Hội Liên hiệp Phụ nữ Việt Nam có trách nhiệm sau đây:
 
-**ID:** dk_00076147
+a) Thực hiện trách nhiệm quy định tại khoản 1 Điều này;
 
----
+b) Phối hợp với cơ quan, tổ chức có liên quan để bảo vệ và hỗ trợ phụ nữ, trẻ em bị ảnh hưởng bởi tác hại của rượu, bia;
 
+c) Lồng ghép hoạt động phòng, chống tác hại của rượu, bia trong công tác hội.
 
-### Điều 45.11.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và tổ chức xã hội - nghề nghiệp, tổ chức xã hội
-
-Điều 45.11.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và tổ chức xã hội - nghề nghiệp, tổ chức xã hội
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 4501100000000000600003100000000000000000
-
-**ID:** dk_00076148
-
----
-
-
-### Điều 45.11.LQ.32. Trách nhiệm của cơ sở kinh doanh rượu, bia
+4. Tổ chức xã hội - nghề nghiệp, tổ chức xã hội, trong phạm vi chức năng, nhiệm vụ của mình, tham gia giáo dục, tuyên truyền, vận động thực hiện chính sách, pháp luật về phòng, chống tác hại của rượu, bia; tham gia ý kiến xây dựng pháp luật về phòng, chống tác hại của rượu, bia; cung cấp thông tin về phòng, chống tác hại của rượu, bia theo quy định của pháp luật.
 
 Điều 45.11.LQ.32. Trách nhiệm của cơ sở kinh doanh rượu, bia
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000600003200000000000000000
+1. Tuân thủ quy định của pháp luật về điều kiện kinh doanh rượu, bia; về quảng cáo, khuyến mại, tài trợ, an toàn thực phẩm, chất lượng, tiêu chuẩn, quy chuẩn kỹ thuật, ghi nhãn hàng hóa đối với rượu, bia. Thông tin về sản phẩm rượu, bia phải bảo đảm chính xác, khoa học.
 
-**ID:** dk_00076149
+2. Cung cấp thông tin đầy đủ, chính xác về hoạt động kinh doanh của cơ sở theo yêu cầu của cơ quan có thẩm quyền.
 
----
+3. Không sử dụng lao động là người chưa đủ 18 tuổi trực tiếp tham gia vào việc kinh doanh, quảng cáo rượu, bia.
 
+4. Thu hồi và xử lý rượu, bia không bảo đảm chất lượng, an toàn thực phẩm do cơ sở mình sản xuất, mua bán theo quy định của pháp luật về an toàn thực phẩm.
 
-### Điều 45.11.LQ.33. Trách nhiệm của người đứng đầu cơ quan, tổ chức trong phòng, chống tác hại của rượu, bia
+5. Cơ sở bán rượu, bia phải niêm yết thông báo không bán rượu, bia cho người chưa đủ 18 tuổi. Trường hợp nghi ngờ về độ tuổi của người mua rượu, bia thì người bán có quyền yêu cầu người mua xuất trình giấy tờ chứng minh.
+
+6. Cơ sở bán rượu, bia tiêu dùng tại chỗ nhắc nhở và có hình thức thông tin phù hợp đối với khách hàng về việc không điều khiển phương tiện giao thông, hỗ trợ khách hàng thuê, sử dụng phương tiện giao thông công cộng sau khi uống rượu, bia.
+
+7. Kể từ ngày Luật này có hiệu lực, không được mở mới điểm bán rượu, bia để tiêu dùng tại chỗ trong bán kính 100 m tính từ khuôn viên của cơ sở y tế, nhà trẻ, trường mẫu giáo, trường mầm non, cơ sở giáo dục phổ thông.
+
+(Điều này có nội dung liên quan đến Điều 19.1.LQ.5. Nguyên tắc quản lý chất lượng sản phẩm, hàng hóa; Điều 19.1.LQ.27. Kiểm tra chất lượng sản phẩm, hàng hóa; Điều 41.1.NĐ.6. Quyền, trách nhiệm của chủ địa điểm tổ chức biểu diễn nghệ thuật; Điều 45.1.TT.26.1.)
 
 Điều 45.11.LQ.33. Trách nhiệm của người đứng đầu cơ quan, tổ chức trong phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000600003300000000000000000
+1. Người đứng đầu cơ quan, tổ chức, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tổ chức thực hiện các biện pháp phòng, chống tác hại của rượu, bia; tổ chức thực hiện nghiêm quy định không uống rượu, bia trong thời gian làm việc, tại nơi làm việc của cơ quan, tổ chức.
 
-**ID:** dk_00076150
+2. Người đứng đầu tổ dân phố, khu phố, khối phố, thôn, ấp, bản, làng, buôn, phum, sóc, tổ chức tại cơ sở, cộng đồng tham gia các hoạt động phòng, chống tác hại của rượu, bia quy định tại Điều 24 của Luật này.
 
----
+3. Người đứng đầu, người quản lý, điều hành địa điểm quy định tại Điều 10 và Điều 19 của Luật này có trách nhiệm sau đây:
 
+a) Nhắc nhở, yêu cầu chấm dứt hành vi vi phạm quy định tại Điều 10 và Điều 19 của Luật này; từ chối cung cấp dịch vụ nếu người vi phạm tiếp tục vi phạm sau khi đã được nhắc nhở, yêu cầu;
 
-### Điều 45.11.LQ.34. Trách nhiệm của gia đình trong phòng, chống tác hại của rượu, bia
+b) Tổ chức thực hiện, hướng dẫn, kiểm tra, đôn đốc mọi người thực hiện đúng quy định về không được uống, không được bán rượu, bia tại địa điểm thuộc quyền quản lý, điều hành.
 
 Điều 45.11.LQ.34. Trách nhiệm của gia đình trong phòng, chống tác hại của rượu, bia
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000600003400000000000000000
+1. Giáo dục, giám sát, nhắc nhở thành viên chưa đủ 18 tuổi không uống rượu, bia, các thành viên khác trong gia đình hạn chế uống rượu, bia; động viên, giúp đỡ người nghiện rượu, bia trong gia đình cai nghiện rượu, bia.
 
-**ID:** dk_00076151
+2. Hướng dẫn các thành viên trong gia đình kỹ năng từ chối uống rượu, bia; kỹ năng nhận biết, ứng xử, xử trí khi gặp người say rượu, bia, người nghiện rượu, bia và thực hiện các biện pháp phòng, chống tác hại của rượu, bia.
 
----
+3. Tham gia với các cơ quan, tổ chức và cộng đồng thực hiện phòng, chống tác hại của rượu, bia.
 
+Chương VII
 
-### Điều 45.11.LQ.35. Sửa đổi, bổ sung quy định của một số luật khác
+ĐIỀU KHOẢN THI HÀNH
 
 Điều 45.11.LQ.35. Sửa đổi, bổ sung quy định của một số luật khác
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000700003500000000000000000
+1. Sửa đổi, bổ sung khoản 8 Điều 8 của Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau:
 
-**ID:** dk_00076153
+“8. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.”.
 
----
+2. Sửa đổi, bổ sung khoản 8 Điều 8 của Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 48/2014/QH13, Luật số 97/2015/QH13 và Luật số 35/2018/QH14 như sau:
 
+“8. Thuyền viên, người lái phương tiện đang làm việc trên phương tiện mà trong máu hoặc hơi thở có nồng độ cồn hoặc có các chất kích thích khác mà luật cấm sử dụng.”.
 
-### Điều 45.11.LQ.36. Hiệu lực thi hành
+3. Thay thế một số cụm từ tại một số điều của Luật Thương mại số 36/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 05/2017/QH14 như sau:
 
-*Nội dung chưa có sẵn*
+a) Thay thế cụm từ “rượu có độ cồn từ 30 độ trở lên” bằng cụm từ “rượu, bia có độ cồn từ 15 độ trở lên” tại khoản 4 Điều 100;
 
-**Chỉ mục:** 36
+b) Thay thế cụm từ “rượu có độ cồn từ 30 độ trở lên” bằng cụm từ “rượu có độ cồn từ 15 độ trở lên” tại khoản 4 Điều 109.
 
-**Mã phân cấp:** 4501100000000000700003600000000000000000
+Điều 45.11.LQ.36. Hiệu lực thi hành
 
-**ID:** dk_00076154
+(Điều 36 Luật số 44/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
----
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2020.
 
+2. Kể từ ngày Luật này có hiệu lực đến ngày 01 tháng 01 năm 2022, việc cấp phép sản xuất rượu thủ công quy định tại khoản 2 Điều 15 của Luật này và việc đăng ký sản xuất rượu thủ công quy định tại khoản 3 Điều 15 của Luật này không phải nộp phí, lệ phí.
 
-### Điều 45.11.NĐ.1.39. Điều khoản chuyển tiếp
+Điều 45.11.NĐ.1.39. Điều khoản chuyển tiếp
 
-*Nội dung chưa có sẵn*
+(Điều 39 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Chỉ mục:** 39
+1. Thương nhân sản xuất rượu, thương nhân phân phối rượu, thương nhân bán buôn rượu, thương nhân bán lẻ rượu đã được cấp giấy phép mà vẫn còn thời hạn, được tiếp tục hoạt động theo nội dung ghi trong giấy phép đã cấp. Trường hợp thương nhân có nhu cầu sửa đổi, bổ sung giấy phép thì phải thực hiện theo quy định tại Nghị định này.
 
-**Mã phân cấp:** 4501100000000000700003640263100105000390
+2. Trong thời gian 03 tháng, kể từ ngày Nghị định này có hiệu lực, thương nhân bán rượu tiêu dùng tại chỗ phải làm thủ tục cấp giấy phép theo quy định tại Nghị định này.
 
-**ID:** dk_00076155
+Điều 45.11.NĐ.1.40. Hiệu lực thi hành
 
----
+(Điều 40 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 11 năm 2017.
 
-### Điều 45.11.NĐ.1.40. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 4501100000000000700003640263100105000400
-
-**ID:** dk_00076156
-
----
-
-
-### Điều 45.11.NĐ.1.41. Tổ chức thực hiện và trách nhiệm thi hành
+2. Nghị định số 94/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ về sản xuất, kinh doanh rượu hết hiệu lực kể từ ngày Nghị định này có hiệu lực.
 
 Điều 45.11.NĐ.1.41. Tổ chức thực hiện và trách nhiệm thi hành
 
-**Chỉ mục:** 41
+(Điều 41 Nghị định số 105/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
-**Mã phân cấp:** 4501100000000000700003640263100105000410
+1. Bộ Công Thương chủ trì, phối hợp với các bộ, ngành liên quan hướng dẫn thực hiện Nghị định này.
 
-**ID:** dk_00076157
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./.
 
----
+ Nơi nhận:
+ - Ban Bí thư Trung ương Đảng;
+ - Thủ tướng, các Phó Thủ tướng Chính phủ;
+ - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+ - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+ - Văn phòng Trung ương và các Ban của Đảng;
+ - Văn phòng Tổng Bí thư;
+ - Văn phòng Chủ tịch nước;
+ - Hội đồng dân tộc và các Ủy ban của Quốc hội;
+ - Văn phòng Quốc hội;
+ - Tòa án nhân dân tối cao;
+ - Viện kiểm sát nhân dân tối cao;
+ - Kiểm toán nhà nước;
+ - Ủy ban Giám sát tài chính Quốc gia;
+ - Ngân hàng Chính sách xã hội;
+ - Ngân hàng Phát triển Việt Nam;
+ - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+ - Cơ quan trung ương của các đoàn thể;
+ - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+ - Lưu: VT, CN (3). XH
 
+ TM. CHÍNH PHỦ
+ THỦ TƯỚNG
 
-### Điều 45.11.NĐ.2.26. Hiệu lực thi hành
+ Nguyễn Xuân Phúc
 
-*Nội dung chưa có sẵn*
+Điều 45.11.NĐ.2.26. Hiệu lực thi hành
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 4501100000000000700003640272030024000260
-
-**ID:** dk_00076158
-
----
-
-
-### Điều 45.11.NĐ.2.27. Tổ chức thực hiện và trách nhiệm thi hành
+Nghị định này có hiệu lực thi hành từ ngày 24 tháng 02 năm 2020.
 
 Điều 45.11.NĐ.2.27. Tổ chức thực hiện và trách nhiệm thi hành
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 24/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 24/02/2020)
 
-**Mã phân cấp:** 4501100000000000700003640272030024000270
+1. Bộ Y tế chủ trì, phối hợp với các bộ, cơ quan ngang bộ tổ chức thực hiện Nghị định này.
 
-**ID:** dk_00076159
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./
 
----
+Điều 45.11.TT.1.4. Trách nhiệm thi hành
 
+(Điều 4 Thông tư số 26/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-### Điều 45.11.TT.1.4. Trách nhiệm thi hành
+1. Sở Công Thương các tỉnh, thành phố trực thuộc trung ương:
 
-*Nội dung chưa có sẵn*
+a) Tham mưu, giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chỉ đạo Ủy ban nhân dân các cấp tại địa phương tuyên truyền, phổ biến, hướng dẫn hộ gia đình, cá nhân sản xuất rượu thủ công không nhằm mục đích kinh doanh trên địa bàn thực hiện việc kê khai theo quy định tại Thông tư này;
 
-**Chỉ mục:** 4
+b) Hướng dẫn việc thực hiện các quy định của pháp luật về an toàn thực phẩm;
 
-**Mã phân cấp:** 4501100000000000700003680271010026000040
+c) Trước 30 tháng 12 hàng năm, báo cáo sản lượng và tình hình bảo đảm an toàn thực phẩm đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh trên địa bàn đến Bộ Công Thương.
 
-**ID:** dk_00076160
+2. Hộ gia đình, cá nhân có hoạt động sản xuất rượu thủ công không nhằm mục đích kinh doanh:
 
----
+a) Kê khai trung thực, đầy đủ, rõ ràng các thông tin theo mẫu tại Phụ lục ban hành kèm theo Thông tư này và tự chịu trách nhiệm về những thông tin đã kê khai;
 
+b) Thực hiện các quy định về an toàn thực phẩm trong hoạt động sản xuất rượu và tự chịu trách nhiệm về chất lượng, an toàn thực phẩm đối với sản phẩm rượu do mình sản xuất;
 
-### Điều 45.11.TT.1.5. Hiệu lực thi hành
+c) Sử dụng các nguyên liệu và các phụ gia khác có nguồn gốc, xuất xứ rõ ràng, bảo đảm chất lượng và an toàn thực phẩm để sản xuất rượu.
 
-*Nội dung chưa có sẵn*
+Điều 45.11.TT.1.5. Hiệu lực thi hành
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 26/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**Mã phân cấp:** 4501100000000000700003680271010026000050
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2020.
 
-**ID:** dk_00076161
+2. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, đơn vị, hộ gia đình, cá nhân phản ánh về Bộ Công Thương để nghiên cứu, sửa đổi, bổ sung cho phù hợp./.
 
----
+Điều 45.11.TT.2.9. Hiệu lực thi hành
 
+(Điều 9 Thông tư số 15/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 07/05/2020)
 
-### Điều 45.11.TT.2.9. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày07 tháng 5 năm 2020.
 
-*Nội dung chưa có sẵn*
+2. Đối với tem được phát hành theo Thông tư số 160/2013/TT-BTC ngày 14/11/2013 của Bộ Tài chính còn tồn trước ngày Thông tư này có hiệu lực thi hành thì được tiếp tục sử dụng tem đến hết.
 
-**Chỉ mục:** 9
+3. Trong quá trình thực hiện nếu có vướng mắc đề nghị các Bộ, ngành, địa phương, các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để xem xét hướng dẫn sửa đổi, bổ sung cho phù hợp./.
 
-**Mã phân cấp:** 4501100000000000700003680272310015000090
+## Danh sách điều khoản
 
-**ID:** dk_00076162
+### 45011000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 4501100000000000100000100000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Y tế, dược](/y-te-duoc/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 45.11.LQ.1. Phạm vi điều chỉnh
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 126
-- **Điều khoản thực tế:** 119
-- **Điều khoản có nội dung:** 81 (68.1%)
-- **ID đề mục:** e50cbcc95eb24a22b6c42f08f2811fdb
+### 4501100000000000100000140263100105000010
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 45.11.NĐ.1.1. Phạm vi điều chỉnh
 
----
+### 4501100000000000100000140263100105000020
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 45.11.NĐ.1.2. Đối tượng áp dụng
+
+### 4501100000000000100000140272030024000010
+
+Điều 45.11.NĐ.2.1. Phạm vi điều chỉnh
+
+### 4501100000000000100000140272030024000020
+
+Điều 45.11.NĐ.2.2. Đối tượng áp dụng
+
+### 4501100000000000100000180271010026000010
+
+Điều 45.11.TT.1.1. Phạm vi điều chỉnh
+
+### 4501100000000000100000180271010026000020
+
+Điều 45.11.TT.1.2. Đối tượng áp dụng
+
+### 4501100000000000100000180272310015000010
+
+Điều 45.11.TT.2.1. Phạm vi điều chỉnh
+
+### 4501100000000000100000200000000000000000
+
+Điều 45.11.LQ.2. Giải thích từ ngữ
+
+### 4501100000000000100000240263100105000030
+
+Điều 45.11.NĐ.1.3. Giải thích từ ngữ
+
+### 4501100000000000100000300000000000000000
+
+Điều 45.11.LQ.3. Chính sách của Nhà nước trong phòng, chống tác hại của rượu, bia
+
+### 4501100000000000100000400000000000000000
+
+Điều 45.11.LQ.4. Quyền và nghĩa vụ của cá nhân, tổ chức trong phòng, chống tác hại của rượu, bia
+
+### 4501100000000000100000500000000000000000
+
+Điều 45.11.LQ.5. Các hành vi bị nghiêm cấm trong phòng, chống tác hại của rượu, bia
+
+### 45011000000000002000
+
+Chương II BIỆN PHÁP GIẢM MỨC TIÊU THỤ RƯỢU, BIA
+
+### 4501100000000000200000600000000000000000
+
+Điều 45.11.LQ.6. Mục đích, yêu cầu trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+
+### 4501100000000000200000700000000000000000
+
+Điều 45.11.LQ.7. Nội dung thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+
+### 4501100000000000200000800000000000000000
+
+Điều 45.11.LQ.8. Hình thức thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+
+### 4501100000000000200000900000000000000000
+
+Điều 45.11.LQ.9. Trách nhiệm trong thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+
+### 450110000000000020000090000000000000000000402720300240000400
+
+Điều 45.11.NĐ.2.4. Hạn chế hình ảnh diễn viên uống rượu, bia trong tác phẩm điện ảnh, sân khấu, truyền hình
+
+### 450110000000000020000090000000000000000000402720300240001400
+
+Điều 45.11.NĐ.2.14. Trách nhiệm thực hiện thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia
+
+### 4501100000000000200001000000000000000000
+
+Điều 45.11.LQ.10. Địa điểm không uống rượu, bia
+
+### 450110000000000020000100000000000000000000402720300240000300
+
+Điều 45.11.NĐ.2.3. Địa điểm công cộng không được uống rượu, bia
+
+### 4501100000000000200001100000000000000000
+
+Điều 45.11.LQ.11. Quản lý việc khuyến mại rượu, bia có độ cồn dưới 15 độ
+
+### 4501100000000000200001200000000000000000
+
+Điều 45.11.LQ.12. Quản lý việc quảng cáo rượu, bia có độ cồn dưới 5,5 độ
+
+### 450110000000000020000120000000000000000000402720300240000500
+
+Điều 45.11.NĐ.2.5. Một số biện pháp quản lý việc quảng cáo rượu có độ cồn dưới 15 độ và bia
+
+### 4501100000000000200001300000000000000000
+
+Điều 45.11.LQ.13. Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên
+
+### 4501100000000000200001400000000000000000
+
+Điều 45.11.LQ.14. Quản lý việc tài trợ của tổ chức, cá nhân kinh doanh rượu, bia
+
+### 45011000000000003000
+
+Chương III BIỆN PHÁP QUẢN LÝ VIỆC CUNG CẤP RƯỢU, BIA
+
+### 4501100000000000300001500000000000000000
+
+Điều 45.11.LQ.15. Quản lý kinh doanh rượu
+
+### 450110000000000030000150000000000000000000402631001050000400
+
+Điều 45.11.NĐ.1.4. Nguyên tắc quản lý rượu
+
+### 450110000000000030000150000000000000000000402631001050000500
+
+Điều 45.11.NĐ.1.5. Chất lượng và an toàn thực phẩm
+
+### 450110000000000030000150000000000000000000402631001050000600
+
+Điều 45.11.NĐ.1.6. Dán tem và ghi nhãn hàng hóa rượu
+
+### 450110000000000030000150000000000000000000402631001050000800
+
+Điều 45.11.NĐ.1.8. Điều kiện sản xuất rượu công nghiệp
+
+### 450110000000000030000150000000000000000000402631001050000900
+
+Điều 45.11.NĐ.1.9. Điều kiện sản xuất rượu thủ công nhằm mục đích kinh doanh
+
+### 450110000000000030000150000000000000000000402631001050001000
+
+Điều 45.11.NĐ.1.10. Điều kiện sản xuất rượu thủ công để bán cho doanh nghiệp có Giấy phép sản xuất rượu công nghiệp để chế biến lại
+
+### 450110000000000030000150000000000000000000402631001050001100
+
+Điều 45.11.NĐ.1.11. Điều kiện phân phối rượu
+
+### 450110000000000030000150000000000000000000402631001050001200
+
+Điều 45.11.NĐ.1.12. Điều kiện bán buôn rượu
+
+### 450110000000000030000150000000000000000000402631001050001300
+
+Điều 45.11.NĐ.1.13. Điều kiện bán lẻ rượu
+
+### 450110000000000030000150000000000000000000402631001050001400
+
+Điều 45.11.NĐ.1.14. Điều kiện bán rượu tiêu dùng tại chỗ
+
+### 450110000000000030000150000000000000000000402631001050001500
+
+Điều 45.11.NĐ.1.15. Quyền và nghĩa vụ của doanh nghiệp sản xuất rượu công nghiệp
+
+### 450110000000000030000150000000000000000000402631001050001600
+
+Điều 45.11.NĐ.1.16. Quyền và nghĩa vụ của thương nhân sản xuất rượu thủ công nhằm mục đích kinh doanh
+
+### 450110000000000030000150000000000000000000402631001050001700
+
+Điều 45.11.NĐ.1.17. Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất rượu thủ công để bán cho cơ sở có Giấy phép sản xuất rượu để chế biến lại
+
+### 450110000000000030000150000000000000000000402631001050001800
+
+Điều 45.11.NĐ.1.18. Quyền và nghĩa vụ của thương nhân phân phối, bán buôn, bán lẻ rượu, thương nhân bán rượu tiêu dùng tại chỗ
+
+### 450110000000000030000150000000000000000000402631001050001900
+
+Điều 45.11.NĐ.1.19. Hồ sơ đề nghị cấp Giấy sản xuất rượu công nghiệp
+
+### 450110000000000030000150000000000000000000402631001050002000
+
+Điều 45.11.NĐ.1.20. Hồ sơ đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh
+
+### 450110000000000030000150000000000000000000402631001050002100
+
+Điều 45.11.NĐ.1.21. Hồ sơ đề nghị cấp Giấy phép phân phối rượu
+
+### 450110000000000030000150000000000000000000402631001050002200
+
+Điều 45.11.NĐ.1.22. Hồ sơ đề nghị cấp Giấy phép bán buôn rượu
+
+### 450110000000000030000150000000000000000000402631001050002300
+
+Điều 45.11.NĐ.1.23. Hồ sơ đề nghị cấp Giấy phép bán lẻ rượu
+
+### 450110000000000030000150000000000000000000402631001050002500
+
+Điều 45.11.NĐ.1.25. Thẩm quyền và thủ tục cấp giấy phép
+
+### 450110000000000030000150000000000000000000402631001050002600
+
+Điều 45.11.NĐ.1.26. Cấp sửa đổi, bổ sung giấy phép
+
+### 450110000000000030000150000000000000000000402631001050002700
+
+Điều 45.11.NĐ.1.27. Cấp lại giấy phép
+
+### 450110000000000030000150000000000000000000402631001050002800
+
+Điều 45.11.NĐ.1.28. Nội dung và thời hạn của giấy phép
+
+### 450110000000000030000150000000000000000000402631001050002900
+
+Điều 45.11.NĐ.1.29. Gửi và lưu giấy phép
+
+### 450110000000000030000150000000000000000000402631001050003000
+
+Điều 45.11.NĐ.1.30. Quy định chung về nhập khẩu rượu
+
+### 450110000000000030000150000000000000000000402631001050003100
+
+Điều 45.11.NĐ.1.31. Nhập khẩu rượu để thực hiện thủ tục cấp Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm
+
+### 450110000000000030000150000000000000000000402631001050003101
+
+Điều 45.11.NĐ.1.31a. Điều kiện sản xuất rượu có độ cồn dưới 5,5 độ
+
+### 450110000000000030000150000000000000000000402631001050003104
+
+Điều 45.11.NĐ.1.31b. Điều kiện nhập khẩu rượu có độ cồn dưới 5,5 độ
+
+### 450110000000000030000150000000000000000000402631001050003105
+
+Điều 45.11.NĐ.1.31c. Điều kiện bán rượu có độ cồn dưới 5,5 độ
+
+### 450110000000000030000150000000000000000000402631001050003106
+
+Điều 45.11.NĐ.1.31d. Quyền và nghĩa vụ của thương nhân kinh doanh rượu có độ cồn dưới 5,5 độ
+
+### 450110000000000030000150000000000000000000402631001050003200
+
+Điều 45.11.NĐ.1.32. Chế độ báo cáo
+
+### 450110000000000030000150000000000000000000402631001050003300
+
+Điều 45.11.NĐ.1.33. Thu hồi giấy phép
+
+### 450110000000000030000150000000000000000000402631001050003400
+
+Điều 45.11.NĐ.1.34. Trách nhiệm của Bộ Công Thương
+
+### 450110000000000030000150000000000000000000402631001050003500
+
+Điều 45.11.NĐ.1.35. Trách nhiệm của Bộ Tài chính
+
+### 45011000000000003000015000000000000000000040263100105000350000802723100150000200
+
+Điều 45.11.TT.2.2. Trường hợp phải dán tem và không phải dán tem trên bao bì sản phẩm
+
+### 45011000000000003000015000000000000000000040263100105000350000802723100150000300
+
+Điều 45.11.TT.2.3. Mẫu tem và quy định về dán tem
+
+### 45011000000000003000015000000000000000000040263100105000350000802723100150000400
+
+Điều 45.11.TT.2.4. Nguyên tắc quản lý tem
+
+### 45011000000000003000015000000000000000000040263100105000350000802723100150000500
+
+Điều 45.11.TT.2.5. Quản lý tem rượu nhập khẩu
+
+### 45011000000000003000015000000000000000000040263100105000350000802723100150000600
+
+Điều 45.11.TT.2.6. Quản lý tem rượu sản xuất trong nước
+
+### 45011000000000003000015000000000000000000040263100105000350000802723100150000800
+
+Điều 45.11.TT.2.8. Về kinh phí in tem
+
+### 450110000000000030000150000000000000000000402631001050003600
+
+Điều 45.11.NĐ.1.36. Trách nhiệm của Bộ Y tế
+
+### 450110000000000030000150000000000000000000402631001050003700
+
+Điều 45.11.NĐ.1.37. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+### 450110000000000030000150000000000000000000402631001050003800
+
+Điều 45.11.NĐ.1.38. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
+
+### 4501100000000000300001600000000000000000
+
+Điều 45.11.LQ.16. Điều kiện bán rượu, bia theo hình thức thương mại điện tử
+
+### 450110000000000030000160000000000000000000402720300240000600
+
+Điều 45.11.NĐ.2.6. Thực hiện biện pháp ngăn ngừa người chưa đủ 18 tuổi tiếp cận, truy cập, tìm kiếm thông tin và mua rượu, bia trong hoạt động bán rượu, bia theo hình thức thương mại điện tử
+
+### 4501100000000000300001700000000000000000
+
+Điều 45.11.LQ.17. Biện pháp quản lý đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh
+
+### 450110000000000030000170000000000000000000802710100260000300
+
+Điều 45.11.TT.1.3. Thực hiện kê khai
+
+### 4501100000000000300001800000000000000000
+
+Điều 45.11.LQ.18. Bảo đảm chất lượng, an toàn thực phẩm đối với rượu, bia
+
+### 4501100000000000300001900000000000000000
+
+Điều 45.11.LQ.19. Địa điểm không bán rượu, bia
+
+### 4501100000000000300002000000000000000000
+
+Điều 45.11.LQ.20. Phòng ngừa và xử lý rượu, bia giả, không bảo đảm chất lượng, an toàn thực phẩm; rượu, bia nhập lậu, không rõ nguồn gốc, xuất xứ
+
+### 45011000000000004000
+
+Chương IV BIỆN PHÁP GIẢM TÁC HẠI CỦA RƯỢU, BIA
+
+### 4501100000000000400002100000000000000000
+
+Điều 45.11.LQ.21. Phòng ngừa tai nạn giao thông liên quan đến sử dụng rượu, bia
+
+### 4501100000000000400002200000000000000000
+
+Điều 45.11.LQ.22. Phòng ngừa, can thiệp và giảm tác hại của việc uống rượu, bia đối với sức khỏe
+
+### 4501100000000000400002300000000000000000
+
+Điều 45.11.LQ.23. Tư vấn về phòng, chống tác hại của rượu, bia
+
+### 4501100000000000400002400000000000000000
+
+Điều 45.11.LQ.24. Biện pháp phòng ngừa tác hại của rượu, bia tại cộng đồng
+
+### 4501100000000000400002500000000000000000
+
+Điều 45.11.LQ.25. Chăm sóc, hỗ trợ, bảo vệ trẻ em, phụ nữ và các đối tượng yếu thế khác để phòng ngừa, giảm tác hại của rượu, bia
+
+### 45011000000000005000
+
+Chương V ĐIỀU KIỆN BẢO ĐẢM CHO HOẠT ĐỘNG PHÒNG, CHỐNG TÁC HẠI CỦA RƯỢU, BIA
+
+### 4501100000000000500002600000000000000000
+
+Điều 45.11.LQ.26. Kinh phí cho hoạt động phòng, chống tác hại của rượu, bia
+
+### 450110000000000050000260000000000000000000402720300240000700
+
+Điều 45.11.NĐ.2.7. Nội dung chi cho hoạt động phòng, chống tác hại của rượu, bia
+
+### 450110000000000050000260000000000000000000402720300240000800
+
+Điều 45.11.NĐ.2.8. Nội dung chi, mức chi cho các hoạt động thông tin, giáo dục, truyền thông về phòng, chống tác hại của rượu, bia tại cộng đồng, cơ quan, tổ chức
+
+### 450110000000000050000260000000000000000000402720300240000900
+
+Điều 45.11.NĐ.2.9. Chỉ tổ chức các cuộc thi tìm hiểu, sáng kiến về phòng, chống tác hại của rượu, bia
+
+### 450110000000000050000260000000000000000000402720300240001000
+
+Điều 45.11.NĐ.2.10. Nội dung chi, mức chi các hoạt động tư vấn cai nghiện rượu, bia
+
+### 450110000000000050000260000000000000000000402720300240001100
+
+Điều 45.11.NĐ.2.11. Chi sàng lọc, phát hiện sớm yếu tố nguy cơ đối với sức khỏe của người uống rượu, bia; người mắc bệnh, rối loạn chức năng do uống rượu, bia; người nghiện rượu, bia
+
+### 450110000000000050000260000000000000000000402720300240001200
+
+Điều 45.11.NĐ.2.12. Chi xây dựng, triển khai các sáng kiến, mô hình cộng đồng sức khỏe hạn chế sử dụng rượu, bia
+
+### 450110000000000050000260000000000000000000402720300240001300
+
+Điều 45.11.NĐ.2.13. Chi hoạt động của Ban Chỉ đạo phòng, chống tác hại của rượu, bia
+
+### 4501100000000000500002700000000000000000
+
+Điều 45.11.LQ.27. Đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ cho người làm công tác phòng, chống tác hại của rượu, bia
+
+### 4501100000000000500002800000000000000000
+
+Điều 45.11.LQ.28. Xử lý vi phạm pháp luật về phòng, chống tác hại của rượu, bia
+
+### 45011000000000006000
+
+Chương VI QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG PHÒNG, CHỐNG TÁC HẠI CỦA RƯỢU, BIA
+
+### 4501100000000000600002900000000000000000
+
+Điều 45.11.LQ.29. Nội dung quản lý nhà nước về phòng, chống tác hại của rượu, bia
+
+### 4501100000000000600003000000000000000000
+
+Điều 45.11.LQ.30. Trách nhiệm quản lý nhà nước về phòng, chống tác hại của rượu, bia
+
+### 450110000000000060000300000000000000000000402720300240001500
+
+Điều 45.11.NĐ.2.15. Trách nhiệm chung trong quản lý nhà nước về phòng, chống tác hại của rượu, bia của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+### 450110000000000060000300000000000000000000402720300240001600
+
+Điều 45.11.NĐ.2.16. Trách nhiệm quản lý nhà nước của Bộ Y tế
+
+### 450110000000000060000300000000000000000000402720300240001700
+
+Điều 45.11.NĐ.2.17. Trách nhiệm quản lý nhà nước của Bộ Công Thương
+
+### 450110000000000060000300000000000000000000402720300240001800
+
+Điều 45.11.NĐ.2.18. Trách nhiệm quản lý nhà nước của Bộ Công an
+
+### 450110000000000060000300000000000000000000402720300240001900
+
+Điều 45.11.NĐ.2.19. Trách nhiệm quản lý nhà nước của Bộ Giáo dục và Đào tạo
+
+### 450110000000000060000300000000000000000000402720300240002000
+
+Điều 45.11.NĐ.2.20. Trách nhiệm quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội
+
+### 450110000000000060000300000000000000000000402720300240002100
+
+Điều 45.11.NĐ.2.21. Trách nhiệm quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch
+
+### 450110000000000060000300000000000000000000402720300240002200
+
+Điều 45.11.NĐ.2.22. Trách nhiệm quản lý nhà nước của Bộ Thông tin và Truyền thông
+
+### 450110000000000060000300000000000000000000402720300240002300
+
+Điều 45.11.NĐ.2.23. Trách nhiệm quản lý nhà nước của Bộ Giao thông vận tải
+
+### 450110000000000060000300000000000000000000402720300240002400
+
+Điều 45.11.NĐ.2.24. Trách nhiệm quản lý nhà nước của Bộ Tài chính
+
+### 450110000000000060000300000000000000000000402720300240002500
+
+Điều 45.11.NĐ.2.25. Trách nhiệm quản lý nhà nước của Ủy ban nhân dân các cấp
+
+### 4501100000000000600003100000000000000000
+
+Điều 45.11.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và tổ chức xã hội - nghề nghiệp, tổ chức xã hội
+
+### 4501100000000000600003200000000000000000
+
+Điều 45.11.LQ.32. Trách nhiệm của cơ sở kinh doanh rượu, bia
+
+### 4501100000000000600003300000000000000000
+
+Điều 45.11.LQ.33. Trách nhiệm của người đứng đầu cơ quan, tổ chức trong phòng, chống tác hại của rượu, bia
+
+### 4501100000000000600003400000000000000000
+
+Điều 45.11.LQ.34. Trách nhiệm của gia đình trong phòng, chống tác hại của rượu, bia
+
+### 45011000000000007000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 4501100000000000700003500000000000000000
+
+Điều 45.11.LQ.35. Sửa đổi, bổ sung quy định của một số luật khác
+
+### 4501100000000000700003600000000000000000
+
+Điều 45.11.LQ.36. Hiệu lực thi hành
+
+### 4501100000000000700003640263100105000390
+
+Điều 45.11.NĐ.1.39. Điều khoản chuyển tiếp
+
+### 4501100000000000700003640263100105000400
+
+Điều 45.11.NĐ.1.40. Hiệu lực thi hành
+
+### 4501100000000000700003640263100105000410
+
+Điều 45.11.NĐ.1.41. Tổ chức thực hiện và trách nhiệm thi hành
+
+### 4501100000000000700003640272030024000260
+
+Điều 45.11.NĐ.2.26. Hiệu lực thi hành
+
+### 4501100000000000700003640272030024000270
+
+Điều 45.11.NĐ.2.27. Tổ chức thực hiện và trách nhiệm thi hành
+
+### 4501100000000000700003680271010026000040
+
+Điều 45.11.TT.1.4. Trách nhiệm thi hành
+
+### 4501100000000000700003680271010026000050
+
+Điều 45.11.TT.1.5. Hiệu lực thi hành
+
+### 4501100000000000700003680272310015000090
+
+Điều 45.11.TT.2.9. Hiệu lực thi hành
+

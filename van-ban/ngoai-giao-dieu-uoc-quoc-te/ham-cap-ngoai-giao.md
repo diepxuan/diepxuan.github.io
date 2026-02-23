@@ -1,621 +1,751 @@
 ---
-layout: default
+layout: page
 title: Hàm, cấp ngoại giao
 permalink: /van-ban/ngoai-giao-dieu-uoc-quoc-te/ham-cap-ngoai-giao/
-collection: subtopics
-slug: ham-cap-ngoai-giao
-parent: ngoai-giao-dieu-uoc-quoc-te
 ---
 
 # Hàm, cấp ngoại giao
 
-**Đề mục:** Hàm, cấp ngoại giao  
-**Chủ đề:** [Ngoại giao, điều ước quốc tế](/ngoai-giao-dieu-uoc-quoc-te/)  
-**Số điều khoản:** 50  
-**Điều khoản có nội dung:** 1/45 (2.2%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 23.5.PL.1.
+Điều 23.5.PL.1. 
 
-*Nội dung chưa có sẵn*
+(Điều 1 Pháp lệnh số Không số Về Hàm, cấp ngoại giao ngày 31/05/1995 của Uỷ ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**Chỉ mục:** 1
+Hàm ngoại giao là chức danh Nhà nước phong cho công chức ngành ngoại giao để phục vụ công tác đối ngoại ở trong nước và ở nước ngoài.
 
-**Mã phân cấp:** 2300500000000000100000100000000000000000
+Điều 23.5.NĐ.1.1. 
 
-**ID:** dk_00035500
+(Điều 1 Nghị định số 13/CP Quy định chi tiết thi hành Pháp lệnh về hàm, cấp ngoại giao ngày 16/03/1996 của Chính phủ, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
----
+Công chức đang công tác tại các cơ quan, tổ chức thuộc Bộ Ngoại giao có đủ tiêu chuẩn quy định tại các Điều 13, 14, 15 của Pháp lệnh về hàm, cấp ngoại giao (sau đây gọi tắt là Pháp lệnh), và các Điều 4, 5, 6, 7, 8, 9, 10 của Nghị định này thì được xét phong hàm ngoại giao.
 
+Điều 23.5.PL.2. 
 
-### Điều 23.5.NĐ.1.1.
+(Điều 2 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-*Nội dung chưa có sẵn*
+Công chức đang công tác trong ngành ngoại giao có đủ các tiêu chuẩn về chính trị, đạo đức, chuyên môn, nghiệp vụ ngoại giao và năng lực hoạt động trong lĩnh vực đối ngoại thì được xét phong hàm ngoại giao và được xếp vào một cấp ngoại giao theo quy định của Pháp lệnh này.
 
-**Chỉ mục:** 1
+Điều 23.5.PL.3. 
 
-**Mã phân cấp:** 230050000000000010000010000000000000000000401845800130000100
+(Điều 3 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**ID:** dk_00035501
+Người mang hàm ngoại giao phải không ngừng rèn luyện và học tập nhằm nâng cao trình độ và năng lực về mọi mặt, tích cực góp phần vào việc xây dựng và phát triển nền ngoại giao Việt Nam, giữ gìn phẩm chất và danh dự của công chức ngành ngoại giao Việt Nam, chịu trách nhiệm trước Nhà nước và pháp luật về việc thực hiện nhiệm vụ và quyền hạn của mình.
 
----
+Điều 23.5.PL.4. 
 
+(Điều 4 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-### Điều 23.5.PL.2.
+Trong Pháp lệnh này ngành ngoại giao bao gồm những cơ quan, tổ chức thuộc Bộ Ngoại giao.
 
-*Nội dung chưa có sẵn*
+Chương II
 
-**Chỉ mục:** 2
+HÀM, CẤP NGOẠI GIAO, MỐI QUAN HỆ GIỮA HÀM NGOẠI GIAO VÀ CHỨC VỤ NGOẠI GIAO
 
-**Mã phân cấp:** 2300500000000000100000200000000000000000
+Điều 23.5.PL.5. 
 
-**ID:** dk_00035502
+(Điều 5 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
----
+Hệ thống hàm, cấp ngoại giao Việt Nam được quy định như sau:
 
+Cấp ngoại giao cao cấp gồm có:
 
-### Điều 23.5.PL.3.
+- Hàm Đại sứ;
 
-*Nội dung chưa có sẵn*
+- Hàm Công sứ;
 
-**Chỉ mục:** 3
+- Hàm Tham tán.
 
-**Mã phân cấp:** 2300500000000000100000300000000000000000
+Cấp ngoại giao trung cấp gồm có:
 
-**ID:** dk_00035503
+- Hàm Bí thư thứ nhất;
 
----
+- Hàm Bí thư thứ hai.
 
+Cấp ngoại giao sơ cấp gồm có:
 
-### Điều 23.5.PL.4.
+- Hàm Bí thư thứ ba;
 
-*Nội dung chưa có sẵn*
+- Hàm Tuỳ viên.
 
-**Chỉ mục:** 4
+Điều 23.5.NĐ.1.4. Hàm đại sứ:
 
-**Mã phân cấp:** 2300500000000000100000400000000000000000
+(Điều 4 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**ID:** dk_00035504
+Người được phong hàm đại sứ phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
----
+Nắm chắc và có khả năng vận dụng đúng đắn, sáng tạo quan điểm, đường lối, chủ trương, chính sách về đối nội và đối ngoại của Đảng và Nhà nước. Có khả năng phối hợp với các cơ quan Nhà nước để thực hiện thắng lợi các chủ trương, chính sách và các hoạt động đối ngoại được giao.
 
+Tham mưu cho Bộ trưởng Bộ Ngoại giao về các chủ trương, chính sách đối ngoại và công tác xây dựng ngành.
 
-### Điều 23.5.PL.5.
+Chủ trì các công trình nghiên cứu, hoàn chỉnh các văn bản, quyết định cấp Bộ và cấp Nhà nước về các vấn đề đối ngoại quan trọng.
 
-*Nội dung chưa có sẵn*
+Có khả năng tổ chức công tác nghiên cứu khoa học về các lĩnh vực thuộc nghiệp vụ ngoại giao.
 
-**Chỉ mục:** 5
+Chủ trì hoặc tham gia với cương vị là thành viên chủ chốt trong các cuộc đàm phán, hội nghị, hội thảo quốc tế quan trọng.
 
-**Mã phân cấp:** 2300500000000000200000500000000000000000
+Nắm vững tình hình chính trị, kinh tế, xã hội của Việt Nam, có kiến thức cơ bản về lịch sử quan hệ quốc tế, kinh tế thế giới, quan hệ kinh tế quốc tế và luật pháp quốc tế.
 
-**ID:** dk_00035506
+Có kiến thức tổng hợp sâu rộng, tầm nhìn xa và khả năng phân tích, đánh giá tình hình, xu thế phát triển của các khu vực, các châu lục và toàn thế giới.
 
----
+Thành thạo trong việc viết và sửa các văn kiện ngoại giao quan trọng của cấp Bộ và cấp Nhà nước.
 
+Có trình độ và năng lực đào tạo bồi dưỡng công chức cấp dưới.
 
-### Điều 23.5.NĐ.1.4. Hàm đại sứ:
+Tốt nghiệp đại học trở lên, có trình độ chính trị cao cấp. Đã qua lớp bồi dưỡng kiến thức ngoại giao và kinh tế.
 
-*Nội dung chưa có sẵn*
+Có đóng góp lớn vào các công trình nghiên cứu khoa học về công tác đối ngoại hoặc xây dựng ngành được nghiệm thu và áp dụng có hiệu quả trong ngành .
 
-**Chỉ mục:** 4
+Có khả năng sử dụng thành thạo một ngoại ngữ phổ thông (theo Liên hợp quốc quy định) và có khả năng giao tiếp thông thường bằng tiếng Anh (nếu ngoại ngữ chính không phải là tiếng Anh).
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130000400
+Là Bộ trưởng, Thứ trưởng hoặc tương đương, Vụ trưởng, Phó Vụ trưởng hoặc tương đương, chuyên viên cao cấp ngành ngoại giao hoặc đã là người đứng đầu cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài. Có thời gian công tác trong ngành Ngoại giao từ 10 năm trở lên.
 
-**ID:** dk_00035507
+Điều 23.5.NĐ.1.5. Hàm Công sứ:
 
----
+(Điều 5 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
+Người được phong hàm Công sứ phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
-### Điều 23.5.NĐ.1.5. Hàm Công sứ:
+Nắm vững đường lối, chủ trương, chính sách về công tác đối nội và đối ngoại của Đảng và Nhà nước. Có khả năng phối hợp với các Bộ, ngành Trung ương để thực hiện các đề án của Bộ Ngoại giao về công tác đối ngoại hoặc công tác xây dựng ngành.
 
-*Nội dung chưa có sẵn*
+Xây dựng các đề án của Bộ Ngoại giao về công tác đối ngoại và xây dựng ngành.
 
-**Chỉ mục:** 5
+Chủ trì hoặc tham gia với cương vị là thành viên chính trong các cuộc đàm phán, hội nghị, hội thảo quốc tế quan trọng.
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130000500
+Nắm vững tình hình chính trị, kinh tế, xã hội của Việt Nam, có kiến thức cơ bản về lịch sử quan hệ quốc tế, kinh tế thế giới, quan hệ kinh tế quốc tế và luật pháp của quốc tế.
 
-**ID:** dk_00035508
+Có kiến thức tổng hợp, khả năng dự báo xu thế phát triển của tình hình thế giới và khu vực hoặc các tổ chức quốc tế lớn.
 
----
+Có khả năng dự thảo và sửa các văn kiện ngoại giao và các văn bản pháp quy quan trọng liên quan đến ngoại giao.
 
+Có khả năng bồi dưỡng, đào tạo công chức cấp dưới.
 
-### Điều 23.5.NĐ.1.6. Hàm tham tán:
+Đã tốt nghiệp đại học, có trình độ chính trị cao cấp. Đã qua lớp bồi dưỡng kiến thức ngoại giao và kinh tế.
 
-*Nội dung chưa có sẵn*
+Có đóng góp tích cực vào các công trình nghiên cứu khoa học liên quan đến công tác đối ngoại hoặc xây dựng ngành đã được nghiệm thu và áp dụng trong ngành.
 
-**Chỉ mục:** 6
+Có khả năng sử dụng thành thạo một ngoại ngữ phổ thông, và có khả năng giao tiếp thông thường bằng tiếng Anh (nếu ngoại ngữ chính không phải là tiếng Anh).
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130000600
+Là Vụ trưởng, Phó Vụ trưởng hoặc tương đương, chuyên viên cao cấp ngành ngoại giao, chuyên viên chính ngành ngoại giao, hoặc đã công tác với cương vị là viên chức ngoại giao tại cơ quan Đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài. Có thời gian công tác trong ngành ngoại giao từ 8 năm trở lên.
 
-**ID:** dk_00035509
+Điều 23.5.NĐ.1.6. Hàm tham tán:
 
----
+(Điều 6 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
+Người được phong hàm Tham tán phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
-### Điều 23.5.NĐ.1.7. Hàm Bí thư thứ nhất:
+Biết vận dụng các đường lối chính sách về công tác đối nội và đối ngoại của Đảng và Nhà nước.
 
-*Nội dung chưa có sẵn*
+Có khả năng đề xuất với Bộ trưởng Bộ Ngoại giao về các chủ trương, chính sách có liên quan đến hoạt động ngoại giao hoặc công tác xây dựng ngành.
 
-**Chỉ mục:** 7
+Chủ trì soạn thảo văn bản kiến nghị về các chủ trương, chính sách, sách lược đối với một nước lớn, một trọng điểm, một khu vực hoặc một số tổ chức quốc tế quan trọng.
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130000700
+Có khả năng chủ trì hoặc là thành viên của các cuộc đàm phán, hội nghị, hội thảo quốc tế có liên quan đến các vấn đề phụ trách.
 
-**ID:** dk_00035510
+Có khả năng phân tích, tổng hợp và đánh giá những diễn biến tình hình thế giới, những vấn đề quốc tế lớn.
 
----
+Nắm vững tình hình chính trị, kinh tế, xã hội của đất nước, biết ứng phó linh hoạt, đảm bảo đúng đường lối, chủ trương, chính sách đối ngoại của Nhà nước ta trong các cuộc hội nghị, hội thảo quốc tế.
 
+Có kiến thức cơ bản về lịch sử quan hệ quốc tế, kinh tế thế giới, quan hệ kinh tế quốc tế và luật pháp quốc tế.
 
-### Điều 23.5.NĐ.1.8. Hàm Bí thư thứ hai:
+Có khả năng soạn thảo và sửa các văn kiện ngoại giao và các văn bản pháp quy liên quan đến công đối ngoại và công tác xây dựng ngành.
 
-*Nội dung chưa có sẵn*
+Có khả năng bồi dưỡng công chức cấp dưới về nghiệp vụ ngoại giao.
 
-**Chỉ mục:** 8
+Đã tốt nghiệp đại học, có trình độ chính trị trung, cao cấp. Đã qua lớp bồi dưỡng kiến thức ngoại giao và kinh tế.
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130000800
+Có đề tài nghiên cứu đã được nghiệm thu.
 
-**ID:** dk_00035511
+Có khả năng sử dụng thành thạo một ngoại ngữ phổ thông và có khả năng giao dịch thông thường bằng tiếng Anh (nếu ngoại ngữ chính không phải là tiếng Anh).
 
----
+Là Vụ trưởng, Phó Vụ trưởng hoặc tương đương, chuyên viên cao cấp ngành ngoại giao, chuyên viên chính ngành ngoại giao, chuyên viên ngành ngoại giao, hoặc đã công tác với cương vị là viên chức ngoại giao ở cơ quan đại diện nước Cộng hoà xã hội chủ Việt Nam ở nước ngoài. Có thời gian công tác trong ngành Ngoại giao từ 8 năm trở lên.
 
+Điều 23.5.NĐ.1.7. Hàm Bí thư thứ nhất:
 
-### Điều 23.5.NĐ.1.9. Hàm Bí thư thứ ba:
+(Điều 7 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-*Nội dung chưa có sẵn*
+Người được phong hàm Bí thư thứ nhất phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
-**Chỉ mục:** 9
+Biết vận dụng đúng đường lối, chủ trương, chính sách về công tác đối nội, đối ngoại của Đảng và Nhà nước và chủ trương công tác của Bộ Ngoại giao.
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130000900
+Có khả năng đề xuất với Bộ về các chủ trương và biện pháp công tác đối ngoại và xây dựng ngành.
 
-**ID:** dk_00035512
+Có khả năng tham gia các đoàn đàm phán cấp Bộ, hoạt động độc lập trong các tiểu ban khi tham dự các hội nghị, hội thảo quốc tế có liên quan đến công tác đối ngoại.
 
----
+Có kiến thức cơ bản về lịch sử quan hệ quốc tế, kinh tế thế giới, quan hệ kinh tế quốc tế và luật pháp quốc tế liên quan đến hoạt động ngoại giao.
 
+Có khả năng dự thảo các văn kiện ngoại giao và các văn bản pháp quy khác có liên quan đến công tác đối ngoại.
 
-### Điều 23.5.NĐ.1.10. Hàm Tuỳ viên:
+Có khả năng hướng dẫn nghiệp vụ chuyên môn cho công chức cấp dưới.
 
-*Nội dung chưa có sẵn*
+Đã tốt nghiệp đại học, có trình độ chính trị trung cấp. Đã qua lớp bồi dưỡng kiến thức ngoại giao.
 
-**Chỉ mục:** 10
+Có khả năng sử dụng thông thạo một ngoại ngữ thuộc khu vực mình phụ trách và biết giao dịch thông thường bằng tiếng Anh (nếu ngoại ngữ chính không phải là tiếng Anh).
 
-**Mã phân cấp:** 230050000000000020000050000000000000000000401845800130001000
+Là chuyên viên chính hoặc chuyên viên ngành ngoại giao. Có thời gian công tác trong ngành ngoại giao từ 5 năm trở lên.
 
-**ID:** dk_00035513
+Điều 23.5.NĐ.1.8. Hàm Bí thư thứ hai:
 
----
+(Điều 8 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
+Người được phong hàm Bí thư thứ hai phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
-### Điều 23.5.PL.6.
+Biết vận dụng đường lối, chủ trương, chính sách về công tác đối nội, đối ngoại của Đảng và Nhà nước và chủ trương công tác của Bộ Ngoại giao.
 
-*Nội dung chưa có sẵn*
+Có khả năng đề xuất với Bộ về một số lĩnh vực của công tác đối ngoại và công tác xây dựng ngành.
 
-**Chỉ mục:** 6
+Tham gia nghiên cứu về đề tài có liên quan đến nghiệp vụ ngoại giao.
 
-**Mã phân cấp:** 2300500000000000200000600000000000000000
+Có khả năng nghiên cứu, công tác độc lập và áp dụng các kiến thức chuyên môn vào công việc được giao. Có khả năng giúp đỡ công chức cấp dưới về nghiệp vụ chuyên môn.
 
-**ID:** dk_00035514
+Có hiểu biết về lịch sử quan hệ quốc tế, kinh tế thế giới, quan hệ kinh tế quốc tế và luật pháp quốc tế liên quan đến hoạt động ngoại giao.
 
----
+Có khả năng dự thảo các văn kiện ngoại giao, văn bản pháp quy khác có liên quan đến công tác mình phụ trách.
 
+Đã tốt nghiệp đại học, có trình độ chính trị sơ cấp. Đã qua lớp bồi dưỡng kiến thức ngoại giao.
 
-### Điều 23.5.PL.7.
+Có khả năng sử dụng một ngoại ngữ thuộc khu vực mình phụ trách và có thể giao dịch thông thường bằng tiếng Anh (nếu ngoại ngữ chính không phải là tiếng Anh).
 
-*Nội dung chưa có sẵn*
+Là chuyên viên ngành ngoại giao. Có thời gian công tác trong ngành ngoại giao từ 5 năm trở lên.
 
-**Chỉ mục:** 7
+Điều 23.5.NĐ.1.9. Hàm Bí thư thứ ba:
 
-**Mã phân cấp:** 2300500000000000200000700000000000000000
+(Điều 9 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**ID:** dk_00035515
+Người được phong hàm Bí thư thứ ba phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
----
+Nắm được đường lối, chính sách đối ngoại của Đảng và Nhà nước và chủ trương công tác của Bộ Ngoại giao.
 
+Giúp Thủ trưởng đơn vị đề xuất các chủ trương công tác của Bộ có liên quan đến quan hệ với nước hoặc lĩnh vực mình phụ trách.
 
-### Điều 23.5.NĐ.1.2.
+Tham gia dự thảo các văn bản ngoại giao có liên quan đến nước hoặc lĩnh vực mình phụ trách.
 
-*Nội dung chưa có sẵn*
+Có khả năng nghiên cứu, theo dõi một mặt tình hình của một nước, một khu vực hoặc một lĩnh vực nghiệp vụ ngoại giao.
 
-**Chỉ mục:** 2
+Có hiểu biết cơ bản về nghiệp vụ ngoại giao. Có thể dự thảo được các văn bản ngoại giao loại trung bình.
 
-**Mã phân cấp:** 230050000000000020000070000000000000000000401845800130000200
+Đã tốt nghiệp đại học, có trình độ chính trị sơ cấp. Đã qua lớp bồi dưỡng kiến thức ngoại giao.
 
-**ID:** dk_00035516
+Có khả năng sử dụng một ngoại ngữ thuộc khu vực mình phụ trách và có thể giao dịch thông thường bằng tiếng Anh (nếu ngoại ngữ chính không phải là tiếng Anh).
 
----
+Là chuyên viên ngành ngoại giao. Có thời gian công tác trong ngành ngoại giao từ 3 năm trở lên.
 
+Điều 23.5.NĐ.1.10. Hàm Tuỳ viên:
 
-### Điều 23.5.PL.8.
+(Điều 10 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-*Nội dung chưa có sẵn*
+Người được phong hàm Tuỳ viên phải có trình độ hiểu biết và năng lực nghiệp vụ sau:
 
-**Chỉ mục:** 8
+Nắm được đường lối, chính sách đối ngoại của Đảng và Nhà nước và chủ trương công tác của Bộ Ngoại giao.
 
-**Mã phân cấp:** 2300500000000000200000800000000000000000
+Triển khai thực hiện một phần việc cụ thể trong các quyết định của Bộ có liên quan đến công tác đối ngoại hoặc công tác xây dựng ngành.
 
-**ID:** dk_00035517
+Có khả năng thu nhập tư liệu, chuẩn bị hồ sơ, dự kiến tình hình cho lãnh đạo đơn vị.
 
----
+Có hiểu biết cơ bản về nghiệp vụ ngoại giao. Dự thảo các văn bản ngoại giao theo mẫu có sẵn.
 
+Có khả năng xây dựng các tờ trình, đề án nhằm triển khai quyết định Bộ đã ban hành có liên quan đến công việc được giao.
 
-### Điều 23.5.NĐ.1.3.
+Đã tốt nghiệp đại học hoặc có trình độ tương đương. Có trình độ chính trị sơ cấp.
 
-*Nội dung chưa có sẵn*
+Có khả năng sử dụng một ngoại ngữ thuộc khu vực mình phụ trách và có thể giao dịch thông thường bằng tiếng Anh.
 
-**Chỉ mục:** 3
+Là chuyên viên ngành ngoại giao. Có thời gian công tác trong ngành ngoại giao từ 3 năm trở lên.
 
-**Mã phân cấp:** 230050000000000020000080000000000000000000401845800130000300
+Điều 23.5.PL.6. 
 
-**ID:** dk_00035518
+(Điều 6 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
----
+Người mang hàm ngoại giao nào được giữ hàm ngoại giao đó khi được cử đi công tác ở nước ngoài với cương vị ngoại giao hoặc cương vị lãnh sự.
 
+Điều 23.5.PL.7. 
 
-### Điều 23.5.PL.9.
+(Điều 7 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-*Nội dung chưa có sẵn*
+Người mang hàm ngoại giao khi được điều động sang công tác tại cơ quan, tổ chức khác hoặc nghỉ hưu thì được ngữ nguyên hàm, cấp ngoại giao mang khi đó như một vinh dự của ngành ngoại giao.
 
-**Chỉ mục:** 9
+Điều 23.5.NĐ.1.2. 
 
-**Mã phân cấp:** 2300500000000000200000900000000000000000
+(Điều 2 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**ID:** dk_00035519
+Người mang hàm ngoại giao, khi được điều động sang công tác tại các cơ quan, tổ chức khác hoặc nghỉ hưu được giữ nguyên hàm, cấp ngoại giao đang mang như một vinh dự của ngành ngoại giao, nhưng không được sử dụng với tư cách đại diện cho ngành ngoại giao ở trong nước hoặc ở nước ngoài.
 
----
+Điều 23.5.PL.8. 
 
+(Điều 8 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-### Điều 23.5.PL.10.
+1- Công chức thuộc cơ quan, tổ chức khác được điều động sang công tác tại ngành ngoại giao, nếu có đủ tiêu chuẩn theo quy định của Pháp lệnh này thì được xét phong hàm ngoại giao.
 
-*Nội dung chưa có sẵn*
+2- Người mang hàm ngoại giao đã được điều động sang cơ quan, tổ chức khác, khi được điều động trở lại ngành ngoại giao được xét phong hàm ngoại giao phù hợp với trình độ hiện có.
 
-**Chỉ mục:** 10
+Điều 23.5.NĐ.1.3. 
 
-**Mã phân cấp:** 2300500000000000200001000000000000000000
+(Điều 3 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**ID:** dk_00035520
+1. Công chức đang công tác tại các cơ quan, tổ chức khác được điều động sang công tác tại Bộ Ngoại giao được tuyển vào biên chế của Bộ Ngoại giao từ 3 năm trở lên có đủ các tiêu chuẩn quy định tại Điều 1 của Nghị định này cũng được xét phong hàm ngoại giao.
 
----
+2. Công chức thuộc cơ quan, tổ chức khác được cử đi công tác tại cơ quan đại diện Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài nếu có đủ tiêu chuẩn theo quy định của pháp luật và căn cứ vào nhu cầu công tác, được xét bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự trong thời gian công tác, nhưng không được xét phong hàm, cấp ngoại giao.
 
+Điều 23.5.PL.9. 
 
-### Điều 23.5.PL.11.
+(Điều 9 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-*Nội dung chưa có sẵn*
+1- Chức vụ ngoại giao là chức vụ bổ nhiệm cho thành viên có cương vị ngoại giao công tác tại Cơ quan đại diện ngoại giao Việt Nam ở nước ngoài hoặc Phái đoàn đại diện thường trực Việt Nam tại Tổ chức quốc tế Liên chính phủ.
 
-**Chỉ mục:** 11
+2- Chức vụ ngoại giao Việt Nam gồm có:
 
-**Mã phân cấp:** 2300500000000000200001100000000000000000
+- Đại sứ đặc mệnh toàn quyền, Công sứ đặc mệnh toàn quyền, Đại biện, Trưởng đoàn đại diện thường trực tại Tổ chức quốc tế Liên chính phủ;
 
-**ID:** dk_00035521
+- Công sứ;
 
----
+- Tham tán công sứ;
 
+- Tham tán;
 
-### Điều 23.5.PL.12.
+- Bí thứ thứ nhất;
 
-*Nội dung chưa có sẵn*
+- Bí thứ thứ hai;
 
-**Chỉ mục:** 12
+- Bí thứ thứ ba;
 
-**Mã phân cấp:** 2300500000000000200001200000000000000000
+- Tuỳ viên
 
-**ID:** dk_00035522
+(Điều này có nội dung liên quan đến Điều 23.1.LQ.18. Chức vụ ngoại giao, chức vụ lãnh sự; Điều 23.1.LQ.19. Người đứng đầu cơ quan đại diện; Điều 23.1.LQ.20. Bổ nhiệm, miễn nhiệm, cử, triệu hồi người đứng đầu cơ quan đại diện của Luật 33/2009/QH12 Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ban hành ngày 18/06/2009; Điều 23.1.NĐ.2.12. Trường hợp đặc biệt bổ nhiệm Đại sứ đặc mệnh toàn quyền; Điều 23.1.NĐ.2.13. Nguyên tắc bổ nhiệm Đại sứ đặc mệnh toàn quyền trong trường hợp đặc biệt; Điều 23.1.NĐ.2.14. Điều kiện về năng lực, uy tín cá nhân; Điều 23.1.NĐ.2.15. Điều kiện về yêu cầu đối ngoại; Điều 23.1.NĐ.2.16. Điều kiện về địa bàn công tác của Nghị định 104/2018/NĐ-CP Nghị định 104/2018/NĐ-CP hướng dẫn Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ban hành ngày 08/08/2018; Điều 23.1.NĐ.3.5. Chế độ sinh hoạt phí)
 
----
+Điều 23.5.PL.10. 
 
+(Điều 10 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-### Điều 23.5.PL.13.
+1- Người mang hàm ngoại giao được cử đi công tại tại Cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài, được bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự tương ứng với hàm ngoại giao của người đó. Trong trường hợp do nhu cầu công tác, người mang hàm ngoại giao có thể được bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự cao hơn hoặc thấp hơn so với hàm ngoại giao của người đó.
 
-*Nội dung chưa có sẵn*
+2- Người mang hàm ngoại giao có hàm từ Tham tán trở lên có thể được cử giữ chức vụ người đứng đầu Cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài; khi hết thời hạn công tác về nước thì giữ hàm ngoại giao đã được phong trước đó.
 
-**Chỉ mục:** 13
+(Điều này có nội dung liên quan đến Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 136/2007/NĐ-CP của Nghị định 94/2015/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 136/2007/NĐ-CP ngày 17 tháng 8 năm 2007 về xuất cảnh, nhập cảnh của công dân Việt Nam ban hành ngày 16/10/2015; Điều 1.10.LQ.8. Đối tượng được cấp hộ chiếu ngoại giao; Điều 16. Đối tượng được cấp, gia hạn hộ chiếu ngoại giao, hộ chiếu công vụ ở nước ngoài của Thông tư 03/2016/TT-BNG Hướng dẫn việc cấp, gia hạn, sửa đổi, bổ sung hộ chiếu ngoại giao, hộ chiếu công vụ và cấp công hàm đề nghị cấp thị thực ban hành ngày 30/06/2016)
 
-**Mã phân cấp:** 2300500000000000300001300000000000000000
+Điều 23.5.PL.11. 
 
-**ID:** dk_00035524
+(Điều 11 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
----
+Trong giao tiếp đối ngoại, người mang hàm ngoại giao được xếp thứ bậc theo chức vụ ngoại giao hoặc chức vụ lãnh sự. Những người mang hàm ngoại giao có cùng chức vụ ngoại giao hoặc chức vụ lãnh sự thì người có hàm ngoại giao cao hơn hoặc nếu mang cùng hàm thì người mang hàm lâu hơn được xếp thứ bậc cao hơn.
 
+Điều 23.5.PL.12. 
 
-### Điều 23.5.PL.14.
+(Điều 12 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-*Nội dung chưa có sẵn*
+Công chức thuộc cơ quan, tổ chức khác được cử đi công tác tại Cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài nếu có đủ tiêu chuẩn theo quy định của pháp luật và căn cứ vào nhu cầu công tác, thì được xét bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự để thực hiện công tác của Cơ quan đại diện.
 
-**Chỉ mục:** 14
+Chương III
 
-**Mã phân cấp:** 2300500000000000300001400000000000000000
+TIÊU CHUẨN CÁC HÀM NGOẠI GIAO PHONG HÀM, THĂNG HÀM, HẠ HÀM VÀ TƯỚC HÀM NGOẠI GIAO
 
-**ID:** dk_00035525
+Điều 23.5.PL.13. 
 
----
+(Điều 13 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
+Công chức ngành ngoại giao có đủ các tiêu chuẩn: trung thành với Tổ quốc Việt Nam xã hội chủ nghĩa; có phẩm chất chính trị, đạo đức tốt; nắm vững và có khả năng thực hiện đúng đắn đường lối, chính sách của Đảng và Nhà nước về đối nội và đối ngoại; có trình độ văn hoá đại học, trình độ chính trị cao cấp; được đào tạo chính quy về nghiệp vụ ngoại giao, biết sử dụng thông thạo ít nhất một ngoại ngữ; có thời gian công tác trong ngành ngoại giao từ 10 năm trở lên, tích luỹ được nhiều kinh nghiệm trong công tác đối ngoại; là Bộ trưởng, Thứ trưởng hoặc tương đương, Vụ trưởng, Phó Vụ trưởng hoặc tương đương, chuyên viên cao cấp hoặc đã là người đứng đầu cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài, có những đóng góp xứng đáng vào các hoạt động ngoại giao của Việt Nam, thì được xét phong hàm Đại sứ.
 
-### Điều 23.5.PL.15.
+Điều 23.5.PL.14. 
 
-*Nội dung chưa có sẵn*
+(Điều 14 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**Chỉ mục:** 15
+Công chức ngành ngoại giao có đủ các tiêu chuẩn: trung thành với Tổ quốc Việt Nam xã hội chủ nghĩa; có phẩm chất chính trị, đạo đức tốt; có khả năng thực hiện đúng đắn đường lối, chính sách của Đảng và Nhà nước về đối nội và đối ngoại; có trình độ văn hoá đại học, trình độ chính trị từ trung cấp trở lên; được đào tạo về nghiệp vụ ngoại giao, biết sử dụng ít nhất một ngoại ngữ; có thời gian công tác trong ngành ngoại giao từ 8 năm trở lên, tích luỹ được kinh nghiệm trong công tác đối ngoại; là Vụ trưởng, Phó Vụ trưởng hoặc tương đương, chuyên viên cao cấp, chuyên viên chính hoặc chuyên viên thì được xét phong từ hàm Tham tán đến hàm Công sứ.
 
-**Mã phân cấp:** 2300500000000000300001500000000000000000
+Điều 23.5.PL.15. 
 
-**ID:** dk_00035526
+(Điều 15 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
----
+1- Công chức ngành ngoại giao có đủ các tiêu chuẩn: trung thành với Tổ quốc Việt Nam xã hội chủ nghĩa; có phẩm chất chính trị, đạo đức tốt; có khả năng thực hiện đường lối, chính sách của Đảng và Nhà nước về đối nội và đối ngoại; có trình độ văn hoá đại học, trình độ chính trị trung cấp; được đào tạo về nghiệp vụ ngoại giao; biết sử dụng một ngoại ngữ; có thời gian công tác trong ngành ngoại giao từ 5 năm trở lên, có hiểu biết về nghiệp vụ chuyên ngành, là chuyên viên chính hoặc chuyên viên thì được xét phong từ hàm Bí thư thứ hai đến hàm Bí thư thứ nhất.
 
+2- Công chức ngành ngoại giao có đủ các tiêu chuẩn quy định tại khoản 1 Điều này, có thời gian công tác trong ngành ngoại giao từ 3 năm trở lên, là chuyên viên thì được xét phong từ hàm Tuỳ viên đến hàm Bí thư thứ ba.
 
-### Điều 23.5.PL.16.
+Điều 23.5.PL.16. 
 
-*Nội dung chưa có sẵn*
+(Điều 16 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**Chỉ mục:** 16
+Việc phong, thăng, hạ và tước hàm, cấp ngoại giao thuộc thẩm quyền của Chủ tịch nước.
 
-**Mã phân cấp:** 2300500000000000300001600000000000000000
+Điều 23.5.PL.17. 
 
-**ID:** dk_00035527
+(Điều 17 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
----
+Thủ tướng Chính phủ thành lập Hội đồng tư vấn về hàm, cấp ngoại giao; quy định chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy và quy chế làm việc của Hội đồng này.
 
+Điều 23.5.NĐ.1.11. 
 
-### Điều 23.5.PL.17.
+(Điều 11 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-*Nội dung chưa có sẵn*
+1. Thủ tướng Chính phủ uỷ quyền cho Bộ trưởng Bộ Ngoại giao quyết định thành lập Hội đồng tư vấn về hàm, cấp ngoại giao.
 
-**Chỉ mục:** 17
+2. Bộ trưởng Bộ Ngoại giao quy định cụ thể chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy và quy chế làm việc của Hội đồng.
 
-**Mã phân cấp:** 2300500000000000300001700000000000000000
+3. Hàng năm, căn cứ vào tiêu chuẩn quy định tại các Điều 4, 5, 6, 7, 8, 9 và 10 của Nghị định này, trên cơ sở yêu cầu công tác đối ngoại, Hội đồng tư vấn về hàm, cấp ngoại giao xem xét và kiến nghị Bộ trưởng Bộ Ngoại giao thực hiện việc phong, thăng, hạ và tước hàm ngoại giao theo quy định tại Điều 12, Điều 13 của Nghị định này.
 
-**ID:** dk_00035528
+Điều 23.5.PL.18. 
 
----
+(Điều 18 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
+1- Việc thăng hàm, cấp ngoại giao được tiến hành khi có nhu cầu của công tác đối ngoại và căn cứ vào các tiêu chuẩn được quy định tại các điều 13, 14 và 15 của Pháp lệnh này.
 
-### Điều 23.5.NĐ.1.11.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 230050000000000030000170000000000000000000401845800130001100
-
-**ID:** dk_00035529
-
----
-
-
-### Điều 23.5.PL.18.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 2300500000000000300001800000000000000000
-
-**ID:** dk_00035530
-
----
-
-
-### Điều 23.5.NĐ.1.12. Việc phong, thăng, hạ và tước hàm Đại sứ:
+2- Người mang hàm ngoại giao hoàn thành xuất sắc nhiệm vụ và theo nhu cầu cần thiết của công tác đối ngoại, có thể được xét thăng vượt hàm ngoại giao.
 
 Điều 23.5.NĐ.1.12. Việc phong, thăng, hạ và tước hàm Đại sứ:
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**Mã phân cấp:** 230050000000000030000180000000000000000000401845800130001200
+1. Sau khi xem xét ý kiến của Hội đồng tư vấn về hàm, cấp ngoại giao và tham khảo ý kiến các cơ quan hữu quan, Bộ trưởng Bộ Ngoại giao kiến nghị Thủ tướng Chính phủ trình Chủ tịch nước quyết định việc phong hoặc thăng hàm Đại sứ.
 
-**ID:** dk_00035531
+2. Trường hợp người mang hàm Đại sứ vi phạm kỷ luật từ hình thức cảnh cáo trở lên, Bộ trưởng Bộ Ngoại giao kiến nghị Thủ tướng Chính phủ trình Chủ tịch nước quyết định việc hạ hoặc tước hàm Đại sứ.
 
----
+Điều 23.5.NĐ.1.13. 
 
+(Điều 13 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-### Điều 23.5.NĐ.1.13.
+Bộ trưởng Bộ Ngoại giao xem xét ý kiến đề xuất của Hội đồng tư vấn về hàm, cấp ngoại giao, quyết định việc phong, thăng, hạ và tước hàm ngoại giao từ Tuỳ viên đến Công sứ theo sự uỷ quyền của Chủ tịch nước.
 
-*Nội dung chưa có sẵn*
+1. Phong hàm Ngoại giao cho công chức ngành ngoại giao căn cứ vào các tiêu chuẩn quy định tại các Điều 14, 15 của Pháp lệnh và tại các ĐIều 5, 6, 7, 8, 9, 10 của Nghị định này.
 
-**Chỉ mục:** 13
+2. Thăng hàm ngoại giao:
 
-**Mã phân cấp:** 230050000000000030000180000000000000000000401845800130001300
+Công chức mang hàm ngoại giao được xét thăng lên hàm ngoại giao liền kề khi có nhu cầu và đạt tiêu chuẩn của hàm mới.
 
-**ID:** dk_00035532
+Người mang hàm ngoại giao từ Tuỳ viên đến Bí thư thứ hai phải có thời gian mạng hàm cũ tối thiểu là 2 năm mới được xem xét thăng lên hàm ngoại giao liền kề;
 
----
+Người mang hàm ngoại giao từ Bí thư thứ nhất đến Công sứ phải có thời gian mang hàm cũ tối thiểu là 3 năm mới được xét thăng lên hàm ngoại giao liền kề;
 
+Đối với những người có thành tích đặc biệt xuất sắc, có thể được xem xét thăng vượt một hàm ngoại giao liền kề.
 
-### Điều 23.5.PL.19.
+3. Hạ hàm ngoại giao:
 
-*Nội dung chưa có sẵn*
+Công chức mang hàm ngoại giao không hoàn thành nhiệm vụ được giao, trình độ chuyên môn nghiệp vụ và tư cách đạo đức không đáp ứng tiêu chuẩn quy định, vi phạm kỷ luật từ hình thức cảnh cáo trở lên thì bị hạ xuống hàm ngoại giao thấp hơn.
 
-**Chỉ mục:** 19
+4. Tước hàm ngoại giao: Công chức mang hàm ngoại giao vi phạm kỷ luật nghiêm trọng chịu hình phạt bị buộc thôi việc, bị sa thải khỏi ngành hoặc phạm tội bị kết án và bản án có hiệu lực pháp luật thì bị tước hàm ngoại giao hiện có.
 
-**Mã phân cấp:** 2300500000000000300001900000000000000000
+(Điều này có nội dung liên quan đến Điều 23.5.PL.20. )
 
-**ID:** dk_00035533
+Điều 23.5.PL.19. 
 
----
+(Điều 19 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
+Công chức ngành ngoại giao bị thi hành kỷ luật từ hình thức khiển trách trở lên không được xét phong hoặc thăng hàm, cấp ngoại giao trong thời gian quyết định thi hành kỷ luật còn hiệu lực.
 
-### Điều 23.5.PL.20.
+Điều 23.5.PL.20. 
 
-*Nội dung chưa có sẵn*
+(Điều 20 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**Chỉ mục:** 20
+Người mang hàm ngoại giao bị thi hành kỷ luật thì tuỳ theo hình thức kỷ luật có thể bị hạ hàm, cấp ngoại giao; nếu bị buộc thôi việc hoặc phạm tội, bị Toà án kết án và bản án đã có hiệu lực pháp luật thì tước hàm, cấp ngoại giao.
 
-**Mã phân cấp:** 2300500000000000300002000000000000000000
+(Điều này có nội dung liên quan đến Điều 23.5.NĐ.1.13. )
 
-**ID:** dk_00035534
+Chương IV
 
----
+NGHĨA VỤ VÀ QUYỀN LỢI CỦA NGƯỜI MANG HÀM NGOẠI GIAO
 
+Điều 23.5.PL.21. 
 
-### Điều 23.5.PL.21.
+(Điều 21 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-*Nội dung chưa có sẵn*
+Người mang hàm ngoại giao có nghĩa vụ:
 
-**Chỉ mục:** 21
+1- Tuyệt đối trung thành với Tổ quốc, nhân dân và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam;
 
-**Mã phân cấp:** 2300500000000000400002100000000000000000
+2- Nghiêm chỉnh chấp hành đường lối, chính sách của Đảng và pháp luật của Nhà nước, quy chế và các quy định của ngành ngoại giao;
 
-**ID:** dk_00035536
+3- Bảo vệ lợi ích quốc gia, bí mật Nhà nước và danh dự của dân tộc;
 
----
+4- Thường xuyên rèn luyện, học tập nâng cao trình độ và năng lực chính trị, nghiệp vụ chuyên môn và ngoại ngữ, giữ gìn tư cách công chức ngành ngoại giao Việt Nam.
 
+5- Hoàn thành tốt mọi nhiệm vụ được giao.
 
-### Điều 23.5.NĐ.1.14.
+Điều 23.5.NĐ.1.14. 
 
-*Nội dung chưa có sẵn*
+(Điều 14 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**Chỉ mục:** 14
+Ngoài các nghĩa vụ quy định tại Điều 21 của Pháp lệnh, người mang hàm ngoại giao còn có trách nhiệm:
 
-**Mã phân cấp:** 230050000000000040000210000000000000000000401845800130001400
+1. Thực hiện đầy đủ các nghĩa vụ của công chức Nhà nước.
 
-**ID:** dk_00035537
+2. Không được sử dụng hàm ngoại giao vào mục đích cá nhân hoặc tập thể trái với quy định của Pháp lệnh và của Nghị định này.
 
----
+Điều 23.5.PL.22. 
 
+(Điều 22 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-### Điều 23.5.PL.22.
+Người mang hàm ngoại giao đang công tác được hưởng mọi quyền lợi của công chức Nhà nước. Việc phong, thăng hàm, cấp ngoại giao là một cơ sở để bố trí công tác, bồi dưỡng nâng cao trình độ, đề bạt chức vụ và xếp lương cho công chức phù hợp với quy định chung về chế độ tiền lương của Nhà nước.
 
-*Nội dung chưa có sẵn*
+Điều 23.5.NĐ.1.15. 
 
-**Chỉ mục:** 22
+(Điều 15 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**Mã phân cấp:** 2300500000000000400002200000000000000000
+Ngoài các quyền lợi do Nhà nước quy định đối với công chức Nhà nước, người mang hàm ngoại giao còn được hưởng các quyền lợi sau:
 
-**ID:** dk_00035538
+1. Được ưu tiên đào tào về nghiệp vụ ngoại giao và ngoại ngữ cả ở trong nước và ngoài nước.
 
----
+2. Khi có nhu cầu, người mang hàm ngoại giao được bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự tại cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài theo quy định tại Điều 10 của Pháp lệnh, không phải qua kiểm tra, thi tuyển.
 
+Người mang hàm ngoại giao công tác tại cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài được hưởng các chế độ ưu đãi của ngành ngoại giao để phục vụ công tác đối ngoại và có thể được điều động công tác sang các địa bàn khác theo nhu cầu công tác.
 
-### Điều 23.5.NĐ.1.15.
+3. Việc phong, thăng hàm cấp ngoại giao được coi là một cơ sở để xem xét, bố trí công tác, đề bạt và nâng lương cho công chức theo đúng quy định của Pháp luật.
 
-*Nội dung chưa có sẵn*
+4. Trong những trường hợp cần thiết khi thi hành công vụ, người mang hàm ngoại giao xuất trình giấy chứng nhận về hàm, cấp ngoại giao phải được các cơ quan Nhà nước giúp đỡ, tạo điều kiện dễ dàng và được bảo vệ trước mọi sự đe doạ hoặc cản trở để thực thi các nhiệm vụ đối ngoại.
 
-**Chỉ mục:** 15
+Điều 23.5.PL.23. 
 
-**Mã phân cấp:** 230050000000000040000220000000000000000000401845800130001500
+(Điều 23 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**ID:** dk_00035539
+Người mang hàm ngoại giao được quyền sử dụng hàm ngoại giao trong công tác đối ngoại, nhưng không được sử dụng vào mục đích khác trái với quy định của pháp luật.
 
----
+Điều 23.5.PL.24. 
 
+(Điều 24 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-### Điều 23.5.PL.23.
+Người mang hàm ngoại giao được pháp luật bảo vệ và được các cơ quan Nhà nước có thẩm quyền giúp đỡ khi thi hành công vụ.
 
-*Nội dung chưa có sẵn*
+Điều 23.5.PL.25. 
 
-**Chỉ mục:** 23
+(Điều 25 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**Mã phân cấp:** 2300500000000000400002300000000000000000
+Người mang hàm ngoại giao được cấp giấy chứng nhận về hàm, cấp ngoại giao. Mẫu giấy chứng nhận và thủ tục cấp giấy chứng nhận về hàm, cấp ngoại giao do Chính phủ quy định.
 
-**ID:** dk_00035540
+Điều 23.5.PL.26. 
 
----
+(Điều 26 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
+Người nào vi phạm các quy định của Pháp lệnh này và các văn bản pháp luật khác có liên quan, thì tuỳ mức độ vi phạm bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.
 
-### Điều 23.5.PL.24.
+Chương V
 
-*Nội dung chưa có sẵn*
+ĐIỀU KHOẢN THI HÀNH
 
-**Chỉ mục:** 24
+Điều 23.5.PL.27. 
 
-**Mã phân cấp:** 2300500000000000400002400000000000000000
+(Điều 27 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-**ID:** dk_00035541
+Pháp lệnh này có hiệu lực kể từ ngày ban hành.
 
----
+Những quy định trước đây trái với Pháp lệnh này đều bãi bỏ.
 
+Điều 23.5.PL.28. 
 
-### Điều 23.5.PL.25.
+(Điều 28 Pháp lệnh Về Hàm, cấp ngoại giao, có hiệu lực thi hành kể từ ngày 31/05/1995)
 
-*Nội dung chưa có sẵn*
+Chính phủ quy định chi tiết thi hành Pháp lệnh này.
 
-**Chỉ mục:** 25
+Điều 23.5.NĐ.1.16.
 
-**Mã phân cấp:** 2300500000000000400002500000000000000000
+(Điều 16 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-**ID:** dk_00035542
+Nghị định này có hiệu lực kể từ ngày ký. Những quy định trước đây trái với Nghị định này đều bãi bỏ.
 
----
+Bộ trưởng Bộ Ngoại giao chịu trách nhiệm hướng dẫn và theo dõi việc thực hiện Nghị định này.
 
+Điều 23.5.NĐ.1.17.
 
-### Điều 23.5.PL.26.
+(Điều 17 Nghị định số 13/CP, có hiệu lực thi hành kể từ ngày 16/03/1996)
 
-*Nội dung chưa có sẵn*
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và người đứng đầu cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 26
+## Danh sách điều khoản
 
-**Mã phân cấp:** 2300500000000000400002600000000000000000
+### 23005000000000001000
 
-**ID:** dk_00035543
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 2300500000000000100000100000000000000000
 
+Điều 23.5.PL.1.
 
-### Điều 23.5.PL.27.
+### 230050000000000010000010000000000000000000401845800130000100
 
-*Nội dung chưa có sẵn*
+Điều 23.5.NĐ.1.1.
 
-**Chỉ mục:** 27
+### 2300500000000000100000200000000000000000
 
-**Mã phân cấp:** 2300500000000000500002700000000000000000
+Điều 23.5.PL.2.
 
-**ID:** dk_00035545
+### 2300500000000000100000300000000000000000
 
----
+Điều 23.5.PL.3.
 
+### 2300500000000000100000400000000000000000
 
-### Điều 23.5.PL.28.
+Điều 23.5.PL.4.
 
-*Nội dung chưa có sẵn*
+### 23005000000000002000
 
-**Chỉ mục:** 28
+Chương II HÀM, CẤP NGOẠI GIAO, MỐI QUAN HỆ GIỮA HÀM NGOẠI GIAO VÀ CHỨC VỤ NGOẠI GIAO
 
-**Mã phân cấp:** 2300500000000000500002800000000000000000
+### 2300500000000000200000500000000000000000
 
-**ID:** dk_00035546
+Điều 23.5.PL.5.
 
----
+### 230050000000000020000050000000000000000000401845800130000400
 
+Điều 23.5.NĐ.1.4. Hàm đại sứ:
 
-### Điều 23.5.NĐ.1.16.
+### 230050000000000020000050000000000000000000401845800130000500
 
-*Nội dung chưa có sẵn*
+Điều 23.5.NĐ.1.5. Hàm Công sứ:
 
-**Chỉ mục:** 16
+### 230050000000000020000050000000000000000000401845800130000600
 
-**Mã phân cấp:** 2300500000000000500002840184580013000160
+Điều 23.5.NĐ.1.6. Hàm tham tán:
 
-**ID:** dk_00035547
+### 230050000000000020000050000000000000000000401845800130000700
 
----
+Điều 23.5.NĐ.1.7. Hàm Bí thư thứ nhất:
 
+### 230050000000000020000050000000000000000000401845800130000800
 
-### Điều 23.5.NĐ.1.17.
+Điều 23.5.NĐ.1.8. Hàm Bí thư thứ hai:
 
-*Nội dung chưa có sẵn*
+### 230050000000000020000050000000000000000000401845800130000900
 
-**Chỉ mục:** 17
+Điều 23.5.NĐ.1.9. Hàm Bí thư thứ ba:
 
-**Mã phân cấp:** 2300500000000000500002840184580013000170
+### 230050000000000020000050000000000000000000401845800130001000
 
-**ID:** dk_00035548
+Điều 23.5.NĐ.1.10. Hàm Tuỳ viên:
 
----
+### 2300500000000000200000600000000000000000
 
+Điều 23.5.PL.6.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Ngoại giao, điều ước quốc tế](/ngoai-giao-dieu-uoc-quoc-te/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 2300500000000000200000700000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 50
-- **Điều khoản thực tế:** 45
-- **Điều khoản có nội dung:** 1 (2.2%)
-- **ID đề mục:** 11be5109f55e41edb8900168cc4aacbc
+Điều 23.5.PL.7.
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 230050000000000020000070000000000000000000401845800130000200
 
----
+Điều 23.5.NĐ.1.2.
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 2300500000000000200000800000000000000000
+
+Điều 23.5.PL.8.
+
+### 230050000000000020000080000000000000000000401845800130000300
+
+Điều 23.5.NĐ.1.3.
+
+### 2300500000000000200000900000000000000000
+
+Điều 23.5.PL.9.
+
+### 2300500000000000200001000000000000000000
+
+Điều 23.5.PL.10.
+
+### 2300500000000000200001100000000000000000
+
+Điều 23.5.PL.11.
+
+### 2300500000000000200001200000000000000000
+
+Điều 23.5.PL.12.
+
+### 23005000000000003000
+
+Chương III TIÊU CHUẨN CÁC HÀM NGOẠI GIAO PHONG HÀM, THĂNG HÀM, HẠ HÀM VÀ TƯỚC HÀM NGOẠI GIAO
+
+### 2300500000000000300001300000000000000000
+
+Điều 23.5.PL.13.
+
+### 2300500000000000300001400000000000000000
+
+Điều 23.5.PL.14.
+
+### 2300500000000000300001500000000000000000
+
+Điều 23.5.PL.15.
+
+### 2300500000000000300001600000000000000000
+
+Điều 23.5.PL.16.
+
+### 2300500000000000300001700000000000000000
+
+Điều 23.5.PL.17.
+
+### 230050000000000030000170000000000000000000401845800130001100
+
+Điều 23.5.NĐ.1.11.
+
+### 2300500000000000300001800000000000000000
+
+Điều 23.5.PL.18.
+
+### 230050000000000030000180000000000000000000401845800130001200
+
+Điều 23.5.NĐ.1.12. Việc phong, thăng, hạ và tước hàm Đại sứ:
+
+### 230050000000000030000180000000000000000000401845800130001300
+
+Điều 23.5.NĐ.1.13.
+
+### 2300500000000000300001900000000000000000
+
+Điều 23.5.PL.19.
+
+### 2300500000000000300002000000000000000000
+
+Điều 23.5.PL.20.
+
+### 23005000000000004000
+
+Chương IV NGHĨA VỤ VÀ QUYỀN LỢI CỦA NGƯỜI MANG HÀM NGOẠI GIAO
+
+### 2300500000000000400002100000000000000000
+
+Điều 23.5.PL.21.
+
+### 230050000000000040000210000000000000000000401845800130001400
+
+Điều 23.5.NĐ.1.14.
+
+### 2300500000000000400002200000000000000000
+
+Điều 23.5.PL.22.
+
+### 230050000000000040000220000000000000000000401845800130001500
+
+Điều 23.5.NĐ.1.15.
+
+### 2300500000000000400002300000000000000000
+
+Điều 23.5.PL.23.
+
+### 2300500000000000400002400000000000000000
+
+Điều 23.5.PL.24.
+
+### 2300500000000000400002500000000000000000
+
+Điều 23.5.PL.25.
+
+### 2300500000000000400002600000000000000000
+
+Điều 23.5.PL.26.
+
+### 23005000000000005000
+
+Chương V ĐIỀU KHOẢN THI HÀNH
+
+### 2300500000000000500002700000000000000000
+
+Điều 23.5.PL.27.
+
+### 2300500000000000500002800000000000000000
+
+Điều 23.5.PL.28.
+
+### 2300500000000000500002840184580013000160
+
+Điều 23.5.NĐ.1.16.
+
+### 2300500000000000500002840184580013000170
+
+Điều 23.5.NĐ.1.17.
+

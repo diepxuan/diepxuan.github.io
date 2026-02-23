@@ -1,17042 +1,6630 @@
 ---
-layout: default
+layout: page
 title: Quản lý ngoại thương
 permalink: /van-ban/thuong-mai-dau-tu-chung-khoan/quan-ly-ngoai-thuong/
-collection: subtopics
-slug: quan-ly-ngoai-thuong
-parent: thuong-mai-dau-tu-chung-khoan
 ---
 
 # Quản lý ngoại thương
 
-**Đề mục:** Quản lý ngoại thương  
-**Chủ đề:** [Thương mại, đầu tư, chứng khoán](/thuong-mai-dau-tu-chung-khoan/)  
-**Số điều khoản:** 1330  
-**Điều khoản có nội dung:** 673/1308 (51.5%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 34.3.LQ.1. Phạm vi điều chỉnh
+Điều 34.3.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 05/2017/QH14 quản lý ngoại thương ngày 12/06/2017 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Chỉ mục:** 1
+Luật này quy định về biện pháp quản lý ngoại thương, phát triển hoạt động ngoại thương; giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương.
 
-**Mã phân cấp:** 3400300000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Điều 24. Xuất khẩu, nhập khẩu, tạm nhập tái xuất, vận chuyển quá cảnh hóa chất của Luật 06/2007/QH12 Hóa chất ban hành ngày 21/11/2007; Điều 33.5.LQ.1. Phạm vi điều chỉnh; Điều 33.5.LQ.3. Đối tượng chịu thuế; Điều 33.5.LQ.4. Đối tượng không chịu thuế; Điều 26.2.LQ.1. Phạm vi điều chỉnh)
 
-**ID:** dk_00054624
+Điều 34.3.NĐ.9.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị định số 77/2023/NĐ-CP Nghị định về quản lý nhập khẩu hàng hóa tân trang theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương ngày 02/11/2023 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2024)
 
+ 2. Nghị định này chỉ áp dụng đối với việc nhập khẩu hàng hóa tân trang theo Hiệp định CPTPP và cùng chủng loại với hàng hóa đã qua sử dụng thuộc diện cấm nhập khẩu vào Việt Nam theo quy định pháp luật.
 
-### Điều 34.3.NĐ.9.1. Phạm vi điều chỉnh
+ 3. Nghị định này không áp dụng đối với việc nhập khẩu hàng hóa tân trang phục vụ mục đích quốc phòng, an ninh. Điều 34.3.TT.69.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 05/2024/TT-BCT Thông tư quy định về việc tạm ngừng kinh doanh tạm nhập, tái xuất mặt hàng quặng và tinh quặng Monazite ngày 29/03/2024 của Bộ công thương, có hiệu lực thi hành kể từ ngày 13/05/2024)
 
-**Chỉ mục:** 1
+ Thông tư này quy định về việc tạm ngừng kinh doanh tạm nhập, tái xuất mặt hàng quặng và tinh quặng Monazite.Điều 34.3.TT.70.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Mã phân cấp:** 340030000000000010000010000000000000000000402855000770000100
+(Điều 1 Thông tư số 06/2024/TT-BCT Thông tư quy định việc nhập khẩu mặt hàng gạo và lá thuốc lá khô có xuất xứ từ Vương quốc Campuchia theo hạn ngạch thuế quan năm 2023 và năm 2024 ngày 04/04/2024 của Bộ công thương, có hiệu lực thi hành kể từ ngày 20/05/2024)
 
-**ID:** dk_00054625
+ 1. Phạm vi điều chỉnh
 
----
+ Thông tư này quy định hạn ngạch thuế quan nhập khẩu đối với mặt hàng gạo và lá thuốc lá khô có xuất xứ từ Vương quốc Campuchia được hưởng thuế suất thuế nhập khẩu ưu đãi đặc biệt khi nhập khẩu vào Việt Nam năm 2023 và năm 2024.
 
+ 2. Đối tượng áp dụng
 
-### Điều 34.3.TT.69.1. Phạm vi điều chỉnh
+ Các thương nhân nhập khẩu theo hạn ngạch thuế quan mặt hàng gạo và lá thuốc lá khô có xuất xứ từ Vương quốc Campuchia và các tổ chức, cá nhân khác có liên quan.Điều 34.3.NĐ.11.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 86/2025/NĐ-CP Quy định chi tiết một số điều của Luật Quản lý ngoại thương về các biện pháp phòng vệ thương mại ngày 11/04/2025 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-**Chỉ mục:** 1
+Nghị định này quy định chi tiết một số điều của Luật Quản lý ngoại thương về cách xác định thiệt hại của ngành sản xuất trong nước; chống lẩn tránh biện pháp phòng vệ thương mại; căn cứ tiến hành, trình tự, thủ tục, thời hạn, nội dung, căn cứ chấm dứt điều tra vụ việc phòng vệ thương mại (sau đây gọi là điều tra); áp dụng, rà soát biện pháp phòng vệ thương mại; xác định trợ cấp và biện pháp chống trợ cấp; trách nhiệm phối hợp của các cơ quan liên quan trong quá trình điều tra; xử lý biện pháp phòng vệ thương mại áp dụng đối với hàng hóa xuất khẩu của Việt Nam.
 
-**Mã phân cấp:** 340030000000000010000010000000000000000000802869800050000100
+Điều 34.3.QĐ.6.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054626
+(Điều 1 Quyết định số 20/2024/QĐ-TTg Hướng dẫn thực hiện Nghị định thư giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Liên bang Nga về hỗ trợ sản xuất phương tiện vận tải có động cơ trên lãnh thổ Việt Nam ngày 21/11/2024 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 06/01/2025)
 
----
+Quyết định này quy định về quy trình phân bổ hạn ngạch thuế quan, trình tự, thủ tục cấp giấy phép nhập khẩu theo hạn ngạch thuế quan, mức thuế suất thuế nhập khẩu trong và ngoài hạn ngạch thuế quan và cơ chế phối hợp quản lý giữa các cơ quan nhà nước để thực hiện cơ chế nhập khẩu theo hạn ngạch thuế quan đối với phương tiện vận tải có động cơ và bộ SKD trong khuôn khổ Nghị định thư.
 
+(Điều này có nội dung liên quan đến Điều 34.3.LQ.20. Biện pháp hạn ngạch thuế quan xuất khẩu, hạn ngạch thuế quan nhập khẩu)
 
-### Điều 34.3.TT.70.1. Phạm vi điều chỉnh và đối tượng áp dụng
+Điều 34.3.TT.63.1. Phạm vi điều chỉnh
 
-Điều 34.3.TT.70.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều 1 Thông tư số 30/2020/TT-BCT HƯỚNG DẪN THỰC HIỆN HIỆP ĐỊNH THƯƠNG MẠI TỰ DO GIỮA CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM VÀ LIÊN MINH CHÂU ÂU VỀ PHÒNG VỆ THƯƠNG MẠI ngày 26/11/2020 của Bộ công thương, có hiệu lực thi hành kể từ ngày 11/01/2021)
 
-**Chỉ mục:** 1
+1. Thông tư này hướng dẫn về việc áp dụng biện pháp tự vệ song phương, biện pháp chống bán phá giá và biện pháp chống trợ cấp để thực thi Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh châu Âu.
 
-**Mã phân cấp:** 340030000000000010000010000000000000000000802870400060000100
+2. Các quy định tại Thông tư này được áp dụng đối với hàng hóa có xuất xứ từ:
 
-**ID:** dk_00054627
+- Lãnh thổ thành viên Liên minh châu Âu;
 
----
+- Vương quốc Liên hiệp Anh và Bắc Ai-len; và
 
+- Công quốc An-đô-ra; Cộng hòa San Ma-ri-nô.
 
-### Điều 34.3.NĐ.11.1. Phạm vi điều chỉnh
+Điều 34.3.TT.64.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 14/2021/TT-BCT Hướng dẫn thực hiện Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len về phòng vệ thương mại ngày 29/10/2021 của Bộ công thương, có hiệu lực thi hành kể từ ngày 15/12/2021)
 
-**Chỉ mục:** 1
+1. Thông tư này hướng dẫn về việc điều tra, áp dụng biện pháp chống bán phá giá, biện pháp chống trợ cấp và biện pháp tự vệ song phương để thực thi Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len.
 
-**Mã phân cấp:** 3400300000000000100000140290760086000010
+2. Các quy định tại Thông tư này được áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ Liên hiệp Vương quốc Anh và Bắc Ai-len theo Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len.
 
-**ID:** dk_00054628
+Điều 34.3.TT.66.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 07/2022/TT-BCT Thông tư hướng dẫn thực hiện các biện pháp phòng vệ thương mại trong Hiệp định Đối tác Kinh tế Toàn diện Khu vực ngày 23/03/2022 của Bộ công thương, có hiệu lực thi hành kể từ ngày 08/05/2022)
 
+1. Thông tư này hướng dẫn về việc áp dụng biện pháp tự vệ RCEP chuyển tiếp, biện pháp chống bán phá giá và biện pháp chống trợ cấp trong Hiệp định Đối tác Kinh tế Toàn diện Khu vực.
 
-### Điều 34.3.QĐ.6.1. Phạm vi điều chỉnh
+2. Các quy định tại Thông tư này được áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ các nước Thành viên của Hiệp định Đối tác Kinh tế Toàn diện Khu vực.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.72.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 26/2025/TT-BCT Quy định chi tiết một số nội dung về các biện pháp phòng vệ thương mại ngày 15/05/2025 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-**Mã phân cấp:** 3400300000000000100000150289350020000010
+Thông tư này quy định chi tiết về bên liên quan trong vụ việc phòng vệ thương mại; hoạt động cung cấp, thu thập và bảo mật thông tin, tài liệu; tiếng nói, chữ viết trong quá trình điều tra, rà soát vụ việc phòng vệ thương mại; quản lý nhập khẩu hàng hóa thuộc đối tượng điều tra, áp dụng biện pháp phòng vệ thương mại; các trường hợp miễn trừ áp dụng biện pháp phòng vệ thương mại.
 
-**ID:** dk_00054629
+Điều 34.3.LQ.2. Đối tượng áp dụng
 
----
+(Điều 2 Luật số 05/2017/QH14, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+1. Cơ quan quản lý nhà nước.
 
-### Điều 34.3.TT.63.1. Phạm vi điều chỉnh
+2. Thương nhân tham gia hoạt động ngoại thương.
 
-*Nội dung chưa có sẵn*
+3. Tổ chức, cá nhân trong nước và nước ngoài khác có liên quan.
 
-**Chỉ mục:** 1
+Điều 34.3.NĐ.9.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000180274790030000010
+(Điều 2 Nghị định số 77/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2024)
 
-**ID:** dk_00054630
+ Nghị định này áp dụng đối với doanh nghiệp tân trang, cơ sở tân trang, chủ sở hữu nhãn hiệu, thương nhân nhập khẩu hàng hóa tân trang và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động nhập khẩu hàng hóa tân trang theo Hiệp định CPTPP.Điều 34.3.TT.69.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 05/2024/TT-BCT, có hiệu lực thi hành kể từ ngày 13/05/2024)
 
+ 1. Thương nhân tham gia hoạt động kinh doanh tạm nhập, tái xuất mặt hàng quặng và tinh quặng Monazite.
 
-### Điều 34.3.TT.64.1. Phạm vi điều chỉnh
+ 2. Các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động kinh doanh tạm nhập, tái xuất mặt hàng quặng và tinh quặng Monazite.Điều 34.3.NĐ.1.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 90/2007/NĐ-CP Quy định về quyền xuất khẩu, quyền nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam ngày 31/05/2007 của Chính phủ, có hiệu lực thi hành kể từ ngày 08/07/2007)
 
-**Chỉ mục:** 1
+Nghị định này quy định về quyền xuất khẩu, quyền nhập khẩu tại Việt Nam của thương nhân nước ngoài không có hiện diện tại Việt Nam.
 
-**Mã phân cấp:** 3400300000000000100000180278160014000010
+Điều 34.3.NĐ.1.2. Đối tượng áp dụng
 
-**ID:** dk_00054631
+(Điều 2 Nghị định số 90/2007/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/07/2007)
 
----
+1. Nghị định này áp dụng đối với thương nhân nước ngoài không có hiện diện tại Việt Nam thuộc các nước, vùng lãnh thổ là thành viên của Tổ chức Thương mại Thế giới và các quốc gia, vùng lãnh thổ có thỏa thuận song phương với Việt Nam về nội dung này.
 
+2. Tổ chức, cá nhân khác có liên quan đến hoạt động xuất khẩu, nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam theo quy định tại Nghị định này.
 
-### Điều 34.3.TT.66.1. Phạm vi điều chỉnh
+Điều 34.3.NĐ.2.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 32/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2012, có nội dung được sửa đổi bởi Điều 1 Nghị định số 31/2025/NĐ-CP có hiệu lực thi hành kể từ ngày 12/04/2026)
 
-**Chỉ mục:** 1
+Điều 1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000180279610007000010
+1. Nghị định này quy định về quản lý các hoạt động xuất khẩu, nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh.
 
-**ID:** dk_00054632
+2. Thủ tục tạm xuất, tái nhập, thủ tục tạm nhập, tái xuất văn hóa phẩm không nhằm mục đích kinh doanh thực hiện theo quy định của pháp luật về quản lý ngoại thương.
 
----
+Điều 34.3.NĐ.2.2. Đối tượng áp dụng
 
+(Điều 2 Nghị định số 32/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2012)
 
-### Điều 34.3.TT.72.1. Phạm vi điều chỉnh
+Cá nhân, tổ chức Việt Nam, cá nhân, tổ chức nước ngoài (sau đây gọi là cá nhân, tổ chức) có văn hóa phẩm xuất khẩu, nhập khẩu không nhằm mục đích kinh doanh.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.3.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 09/2018/NĐ-CP Quy định chi tiết Luật thương mại và Luật Quản lý ngoại thương về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam ngày 15/01/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-**Mã phân cấp:** 3400300000000000100000180291100026000010
+Nghị định này quy định chi tiết Luật thương mại và Luật Quản lý ngoại thương về hoạt động mua bán hàng hoá và các hoạt động liên quan trực tiếp đến mua bán hàng hoá của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam.
 
-**ID:** dk_00054633
+Điều 34.3.NĐ.3.2. Đối tượng áp dụng
 
----
+(Điều 2 Nghị định số 09/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
+Nghị định này áp dụng đối với nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài, cơ quan, tổ chức, cá nhân có liên quan đến hoạt động mua bán hàng hoá và các hoạt động liên quan trực tiếp đến mua bán hàng hoá của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam.
 
-### Điều 34.3.LQ.2. Đối tượng áp dụng
+Điều 34.3.NĐ.4.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 10/2018/NĐ-CP Quy định chi tiết một số điều của Luật Quản lý ngoại thương về các biện pháp phòng vệ thương mại ngày 15/01/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-**Chỉ mục:** 2
+Nghị định này quy định chi tiết một số điều của Luật Quản lý ngoại thương về căn cứ tiến hành, trình tự, thủ tục, thời hạn, nội dung, căn cứ chấm dứt điều tra vụ việc phòng vệ thương mại; cách xác định thiệt hại của ngành sản xuất trong nước; chống lẩn tránh biện pháp phòng vệ thương mại; áp dụng, rà soát biện pháp phòng vệ thương mại; trách nhiệm phối hợp của các cơ quan liên quan trong quá trình điều tra; miễn trừ áp dụng biện pháp phòng vệ thương mại; xử lý biện pháp phòng vệ thương mại áp dụng đối với hàng hóa xuất khẩu của Việt Nam.
 
-**Mã phân cấp:** 3400300000000000100000200000000000000000
+Điều 34.3.NĐ.4.2. Đối tượng áp dụng
 
-**ID:** dk_00054634
+(Điều 2 Nghị định số 10/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
----
+1. Các cơ quan quản lý nhà nước có thẩm quyền điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại.
 
+2. Thương nhân Việt Nam, thương nhân nước ngoài, các cơ quan, tổ chức, cá nhân trong nước và nước ngoài khác có liên quan đến điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại.
 
-### Điều 34.3.NĐ.9.2. Đối tượng áp dụng
+Điều 34.3.NĐ.5.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 14/2018/NĐ-CP quy định chi tiết về hoạt động thương mại biên giới ngày 23/01/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 23/01/2018)
 
-**Chỉ mục:** 2
+1. Nghị định này quy định chi tiết các hoạt động thương mại biên giới quy định tại Điều 53 và Điều 54 Luật Quản lý ngoại thương về hoạt động mua bán, trao đổi hàng hóa của thương nhân, cư dân biên giới; các hoạt động mua bán, trao đổi hàng hóa và các hoạt động liên quan đến mua bán, trao đổi hàng hóa quy định trong điều ước quốc tế giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và các nước có chung biên giới.
 
-**Mã phân cấp:** 340030000000000010000020000000000000000000402855000770000200
+2. Hoạt động tạm nhập, tái xuất, tạm xuất, tái nhập, chuyển khẩu và quá cảnh không thuộc phạm vi điều chỉnh của Nghị định này.
 
-**ID:** dk_00054635
+(Điều này có nội dung liên quan đến Điều 33.4.NĐ.3.4. Giải thích từ ngữ)
 
----
+Điều 34.3.NĐ.5.2. Đối tượng áp dụng
 
+(Điều 2 Nghị định số 14/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 23/01/2018)
 
-### Điều 34.3.TT.69.2. Đối tượng áp dụng
+1. Thương nhân, các tổ chức, cá nhân tham gia hoạt động thương mại biên giới.
 
-*Nội dung chưa có sẵn*
+2. Các cơ quan, tổ chức quản lý và điều hành hoạt động thương mại biên giới.
 
-**Chỉ mục:** 2
+3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động thương mại biên giới.
 
-**Mã phân cấp:** 340030000000000010000020000000000000000000802869800050000200
+Điều 34.3.NĐ.6.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054636
+(Điều 1 Nghị định số 28/2018/NĐ-CP Quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương ngày 01/03/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/03/2018)
 
----
+Nghị định này quy định chi tiết Luật Quản lý ngoại thương về phát triển hoạt động ngoại thương thông qua xúc tiến thương mại, hoạt động của tổ chức xúc tiến thương mại của Việt Nam tại nước ngoài, hoạt động của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam.
 
+Điều 34.3.NĐ.6.2. Đối tượng áp dụng
 
-### Điều 34.3.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 2 Nghị định số 28/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2018)
 
-*Nội dung chưa có sẵn*
+1. Các cơ quan, tổ chức xúc tiến thương mại trong nước;
 
-**Chỉ mục:** 1
+2. Các tổ chức xúc tiến thương mại của Việt Nam tại nước ngoài;
 
-**Mã phân cấp:** 3400300000000000100000240225510090000010
+3. Các tổ chức xúc tiến thương mại nước ngoài tại Việt Nam;
 
-**ID:** dk_00054637
+4. Các tổ chức, cá nhân trong nước và nước ngoài tham gia, thực hiện các hoạt động ngoại thương, xúc tiến thương mại phát triển ngoại thương.
 
----
+Điều 34.3.NĐ.7.1. Phạm vi điều chỉnh
 
+(Điều 1 Nghị định số 31/2018/NĐ-CP quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hóa ngày 08/03/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 08/03/2018)
 
-### Điều 34.3.NĐ.1.2. Đối tượng áp dụng
+Nghị định này quy định về xuất xứ hàng hóa xuất khẩu, xuất xứ hàng hóa nhập khẩu.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.65.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Thông tư số 05/2022/TT-BCT Thông tư về Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác kinh tế toàn diện khu vực ngày 18/02/2022 của Bộ công thương, có hiệu lực thi hành kể từ ngày 04/04/2022)
 
-**Mã phân cấp:** 3400300000000000100000240225510090000020
+ Thông tư này quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác Kinh tế toàn diện khu vực (sau đây gọi là Hiệp định RCEP).Điều 34.3.NĐ.7.2. Đối tượng áp dụng
 
-**ID:** dk_00054638
+(Điều 2 Nghị định số 31/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2018)
 
----
+Nghị định này áp dụng đối với thương nhân, các cơ quan, tổ chức, cá nhân khác có hoạt động liên quan đến xuất xứ hàng hóa.
 
+Điều 34.3.TT.65.2. Đối tượng áp dụng
 
-### Điều 34.3.NĐ.2.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 05/2022/TT-BCT, có hiệu lực thi hành kể từ ngày 04/04/2022)
 
-*Nội dung chưa có sẵn*
+ Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 1
+ 1. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa (C/O).
 
-**Mã phân cấp:** 3400300000000000100000240243290032000010
+ 2. Thương nhân.
 
-**ID:** dk_00054639
+ 3. Cơ quan, tổ chức, cá nhân liên quan đến xuất xứ hàng hóa xuất khẩu và nhập khẩu.Điều 34.3.NĐ.8.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị định số 69/2018/NĐ-CP Quy định chi tiết một số điều của Luật Quản lý Ngoại thương ngày 15/05/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/05/2018)
 
+1. Nghị định này quy định chi tiết một số điều của Luật thương mại và Luật Quản lý ngoại thương về:
 
-### Điều 34.3.NĐ.2.2. Đối tượng áp dụng
+a) Hoạt động mua bán hàng hóa quốc tế được thực hiện dưới các hình thức xuất khẩu, nhập khẩu; tạm nhập, tái xuất; tạm xuất, tái nhập; chuyển khẩu; quá cảnh và các hoạt động khác có liên quan đến hoạt động mua bán hàng hóa quốc tế theo quy định của pháp luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-*Nội dung chưa có sẵn*
+b) Giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương.
 
-**Chỉ mục:** 2
+2. Hàng hóa là tài sản di chuyển; hành lý cá nhân; hàng hóa phục vụ nhu cầu của cá nhân có thân phận ngoại giao; quà biếu, quà tặng, hàng mẫu thực hiện theo quy định của Chính phủ, Thủ tướng Chính phủ.
 
-**Mã phân cấp:** 3400300000000000100000240243290032000020
+(Điều này có nội dung liên quan đến Điều 24. Xuất khẩu, nhập khẩu, tạm nhập tái xuất, vận chuyển quá cảnh hóa chất của Luật 06/2007/QH12 Hóa chất ban hành ngày 21/11/2007; Điều 23.9.PL.16. ; Điều 23.9.PL.32. ; Điều 28.5.NĐ.7. Thẩm quyền phê duyệt)
 
-**ID:** dk_00054640
+Điều 34.3.NĐ.8.2. Đối tượng áp dụng
 
----
+(Điều 2 Nghị định số 69/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2018)
 
+1. Cơ quan quản lý nhà nước.
 
-### Điều 34.3.NĐ.3.1. Phạm vi điều chỉnh
+2. Thương nhân tham gia hoạt động ngoại thương.
 
-*Nội dung chưa có sẵn*
+3. Tổ chức, cá nhân trong nước và nước ngoài khác có liên quan.
 
-**Chỉ mục:** 1
+Điều 34.3.NĐ.11.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000240264330009000010
+(Điều 2 Nghị định số 86/2025/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-**ID:** dk_00054641
+1. Các cơ quan quản lý nhà nước có thẩm quyền điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại.
 
----
+2. Thương nhân Việt Nam, thương nhân nước ngoài, các cơ quan, tổ chức, cá nhân trong nước và nước ngoài khác có liên quan đến điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại.
 
+Điều 34.3.NĐ.12.1. Phạm vi điều chỉnh
 
-### Điều 34.3.NĐ.3.2. Đối tượng áp dụng
+(Điều 1 Nghị định số 259/2025/NĐ-CP Nghị định về kiểm soát thương mại chiến lược ngày 10/10/2025 của Chính phủ, có hiệu lực thi hành kể từ ngày 10/10/2025)
 
-*Nội dung chưa có sẵn*
+Nghị định này quy định việc quản lý xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa thương mại chiến lược.
 
-**Chỉ mục:** 2
+Điều 34.3.NĐ.12.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000240264330009000020
+(Điều 2 Nghị định số 259/2025/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/10/2025)
 
-**ID:** dk_00054642
+Nghị định này áp dụng đối với thương nhân xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa thương mại chiến lược; các cơ quan, tổ chức có liên quan.
 
----
+Điều 34.3.QĐ.3.1. Phạm vi điều chỉnh
 
+(Điều 1 Quyết định số 18/2019/QĐ-TTg Quy định việc nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng ngày 19/04/2019 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 15/06/2019)
 
-### Điều 34.3.NĐ.4.1. Phạm vi điều chỉnh
+1. Quyết định này quy định tiêu chí, hồ sơ, trình tự, thủ tục nhập khẩu và hoạt động giám định đối với máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng có mã hàng hóa (mã số HS) thuộc Chương 84 và Chương 85 quy định tại Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam, được nhập khẩu nhằm sử dụng cho hoạt động sản xuất tại Việt Nam mà không thuộc các danh mục hàng hóa cấm nhập khẩu do Chính phủ, Thủ tướng Chính phủ quy định, các bộ, cơ quan ngang bộ công bố chi tiết theo quy định của Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương.
 
-*Nội dung chưa có sẵn*
+2. Quyết định này không áp dụng đối với máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng trong các trường hợp sau đây:
 
-**Chỉ mục:** 1
+a) Quá cảnh; trung chuyển hàng hóa;
 
-**Mã phân cấp:** 3400300000000000100000240264330010000010
+b) Kinh doanh chuyển khẩu;
 
-**ID:** dk_00054643
+c) Kinh doanh tạm nhập, tái xuất;
 
----
+d) Các hình thức tạm nhập, tái xuất khác quy định tại Điều 15 và tạm xuất, tái nhập quy định tại Điều 17 Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương (trừ trường hợp tạm nhập, tái xuất thực hiện các hợp đồng gia công; trường hợp nhập khẩu để sản xuất, thi công thực hiện các dự án đầu tư);
 
+đ) Thực hiện hợp đồng dịch vụ sửa chữa, bảo dưỡng với thương nhân nước ngoài;
 
-### Điều 34.3.NĐ.4.2. Đối tượng áp dụng
+e) Mua bán giữa các doanh nghiệp trong khu chế xuất, doanh nghiệp trong khu phi thuế quan; doanh nghiệp trong khu chế xuất bán tài sản thanh lý vào nội địa;
 
-*Nội dung chưa có sẵn*
+g) Nhận chuyển giao từ đối tác nước ngoài sau khi hết hạn hợp đồng gia công, hợp đồng thuê mua tài chính; thay đổi mục đích sử dụng chuyển tiêu thụ nội địa sau khi hết hạn tạm nhập để thi công công trình hoặc tạm nhập theo hình thức thuê, mượn để thực hiện hợp đồng gia công cho thương nhân nước ngoài; chuyển giao giữa các doanh nghiệp thực hiện hợp đồng gia công cho thương nhân nước ngoài;
 
-**Chỉ mục:** 2
+h) Phục vụ nghiên cứu khoa học và phát triển công nghệ mà trong nước chưa sản xuất được; phục vụ nhiệm vụ an ninh, quốc phòng theo yêu cầu của các bộ quản lý ngành, lĩnh vực;
 
-**Mã phân cấp:** 3400300000000000100000240264330010000020
+i) Máy móc, thiết bị thuộc Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn (Danh mục sản phẩm, hàng hóa nhóm 2) do các bộ quản lý ngành, lĩnh vực ban hành theo quy định của Luật Chất lượng sản phẩm, hàng hóa;
 
-**ID:** dk_00054644
+k) Máy móc, thiết bị thuộc lĩnh vực chuyên ngành mà các bộ, cơ quan ngang bộ đã có văn bản quy phạm pháp luật để quản lý.
 
----
+Điều 34.3.QĐ.3.2. Đối tượng áp dụng
 
+(Điều 2 Quyết định số 18/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/06/2019)
 
-### Điều 34.3.NĐ.5.1. Phạm vi điều chỉnh
+Quyết định này áp dụng đối với:
 
-*Nội dung chưa có sẵn*
+1. Tổ chức, doanh nghiệp (sau đây viết chung là doanh nghiệp) nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng.
 
-**Chỉ mục:** 1
+2. Tổ chức giám định thực hiện giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng theo quy định tại Quyết định này.
 
-**Mã phân cấp:** 3400300000000000100000240264410014000010
+3. Cơ quan quản lý nhà nước có liên quan đến việc nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng quy định tại Điều 1 Quyết định này.
 
-**ID:** dk_00054645
+Điều 34.3.QĐ.5.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Quyết định số 31/2019/QĐ-TTg Quy định việc nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học và thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài để tiêu thụ ở nước ngoài ngày 09/10/2019 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 09/10/2019)
 
+Quyết định này quy định hồ sơ, trình tự, thủ tục và thẩm quyền cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học và hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài để tiêu thụ ở nước ngoài.
 
-### Điều 34.3.NĐ.5.2. Đối tượng áp dụng
+Điều 34.3.QĐ.5.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Quyết định số 31/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 09/10/2019)
 
-**Chỉ mục:** 2
+Quyết định này áp dụng đối với:
 
-**Mã phân cấp:** 3400300000000000100000240264410014000020
+1. Thương nhân có hoạt động nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học.
 
-**ID:** dk_00054646
+2. Thương nhân thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài để tiêu thụ ở nước ngoài.
 
----
+3. Cơ quan quản lý nhà nước, tổ chức, cá nhân có liên quan.
 
+Điều 34.3.TT.4.1. Phạm vi điều chỉnh
 
-### Điều 34.3.NĐ.6.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 28/2009/TT-BCT Xác nhận hạn ngạch thuế quan đối với mật ong tự nhiên nhập khẩu vào Nhật Bản theo Hiệp định giữa Nước cộng hòa xã hội chủ nghĩa Việt Nam và Nhật Bản về đối tác kinh tế ngày 28/09/2009 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 12/11/2009)
 
-*Nội dung chưa có sẵn*
+Thông tư này điều chỉnh việc xác nhận Giấy chứng nhận hạn ngạch thuế quan đối với mật ong tự nhiên (mã HS 0409.00.00) xuất khẩu sang Nhật Bản theo Hiệp định giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và Nhật Bản về Đối tác Kinh tế.
 
-**Chỉ mục:** 1
+Điều 34.3.TT.4.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000240264780028000010
+(Điều 2 Thông tư số 28/2009/TT-BCT, có hiệu lực thi hành kể từ ngày 12/11/2009)
 
-**ID:** dk_00054647
+Thông tư này áp dụng đối với thương nhân xuất khẩu mật ong tự nhiên sang Nhật Bản theo Hiệp định giữa nước Cộng hòa Xã hội Chủ nghĩa Việt Nam và Nhật Bản về Đối tác Kinh tế, cơ quan nhà nước có thẩm quyền và tổ chức, cá nhân khác có liên quan.
 
----
+Điều 34.3.TT.8.1. Phạm vi điều chỉnh
 
-
-### Điều 34.3.NĐ.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000240264780028000020
-
-**ID:** dk_00054648
-
----
-
-
-### Điều 34.3.NĐ.7.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000240264850031000010
-
-**ID:** dk_00054649
-
----
-
-
-### Điều 34.3.TT.65.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 340030000000000010000024026485003100001000802792800050000100
-
-**ID:** dk_00054650
-
----
-
-
-### Điều 34.3.NĐ.7.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000240264850031000020
-
-**ID:** dk_00054651
-
----
-
-
-### Điều 34.3.TT.65.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 340030000000000010000024026485003100002000802792800050000200
-
-**ID:** dk_00054652
-
----
-
-
-### Điều 34.3.NĐ.8.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000240265530069000010
-
-**ID:** dk_00054653
-
----
-
-
-### Điều 34.3.NĐ.8.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000240265530069000020
-
-**ID:** dk_00054654
-
----
-
-
-### Điều 34.3.NĐ.11.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000240290760086000020
-
-**ID:** dk_00054655
-
----
-
-
-### Điều 34.3.NĐ.12.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000240292580259000010
-
-**ID:** dk_00054656
-
----
-
-
-### Điều 34.3.NĐ.12.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000240292580259000020
-
-**ID:** dk_00054657
-
----
-
-
-### Điều 34.3.QĐ.3.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000250268920018000010
-
-**ID:** dk_00054658
-
----
-
-
-### Điều 34.3.QĐ.3.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000250268920018000020
-
-**ID:** dk_00054659
-
----
-
-
-### Điều 34.3.QĐ.5.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000250270650031000010
-
-**ID:** dk_00054660
-
----
-
-
-### Điều 34.3.QĐ.5.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000250270650031000020
-
-**ID:** dk_00054661
-
----
-
-
-### Điều 34.3.TT.4.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000280234020028000010
-
-**ID:** dk_00054662
-
----
-
-
-### Điều 34.3.TT.4.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000280234020028000020
-
-**ID:** dk_00054663
-
----
-
-
-### Điều 34.3.TT.8.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000280244240007750010
-
-**ID:** dk_00054664
-
----
-
-
-### Điều 34.3.TT.10.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều 1 Thông tư số 07/2012/TT-BVHTTDL Hướng dẫn Nghị định số 32/2012/NĐ-CP ngày 12 tháng 4 năm 2012 
+của Chính phủ về quản lý xuất khẩu, nhập khẩu văn hóa phẩm 
+không nhằm mục đích kinh doanh ngày 16/07/2012 của Bộ Văn hóa - Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/09/2012)Hoạt động xuất khẩu, nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh bao gồm: Hoạt động xuất khẩu, nhập khẩu văn hóa phẩm; hoạt động tạm xuất khẩu - tái nhập khẩu, tạm nhập khẩu - tái xuất khẩu văn hóa phẩm.
 
 Điều 34.3.TT.10.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 28/2012/TT-BCT Quy định chi tiết việc đăng ký quyền xuất khẩu, quyền nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam ngày 27/09/2012 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 15/11/2012)
 
-**Mã phân cấp:** 3400300000000000100000280244970028000010
+1. Thông tư này quy định việc cấp, cấp lại, sửa đổi, bổ sung, gia hạn, thu hồi Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam.
 
-**ID:** dk_00054665
+2. Thông tư này áp dụng với thương nhân nước ngoài thuộc các nước, vùng lãnh thổ là thành viên của Tổ chức Thương mại thế giới WTO và các nước, vùng lãnh thổ có thỏa thuận song phương với Việt Nam về quyền xuất khẩu, quyền nhập khẩu và các tổ chức, cá nhân khác có liên quan đến hoạt động xuất khẩu, nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam.
 
----
+3. Thông tư này không điều chỉnh hoạt động kinh doanh tại chợ biên giới, chợ cửa khẩu, chợ trong khu kinh tế cửa khẩu của thương nhân nước có chung đường biên giới.
 
+Điều 34.3.TT.12.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.12.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 34/2013/TT-BCT Công bố lộ trình thực hiện hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam ngày 24/12/2013 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 05/02/2014)
 
-*Nội dung chưa có sẵn*
+Thông tư này công bố lộ trình và quy định thực hiện cam kết của Việt Nam trong Tổ chức thương mại thế giới (WTO) về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 28. Hoạt động xuất khẩu, nhập khẩu bản ghi âm, ghi hình ca múa nhạc, sân khấu; Điều 28. Hoạt động xuất khẩu, nhập khẩu bản ghi âm, ghi hình ca múa nhạc, sân khấu; Điều 28. Hoạt động xuất khẩu, nhập khẩu bản ghi âm, ghi hình ca múa nhạc, sân khấu của Nghị định 79/2012/NĐ-CP Quy định về biểu diễn nghệ thuật, trình diễn thời trang; thi người đẹp và người mẫu; lưu hành, kinh doanh bản ghi âm, ghi hình ca múa nhạc, sân khấu ban hành ngày 05/10/2012)
 
-**Mã phân cấp:** 3400300000000000100000280249500034050010
+Điều 34.3.TT.14.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054666
+(Điều 1 Thông tư số 27/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 20/10/2014, có nội dung bị bãi bỏ bởi Điều 2 Thông tư số Thông tư số 24/2024/TT-BCT có hiệu lực thi hành kể từ ngày 25/12/2024)
 
----
+Thông tư này quy định về thủ tục cấp giấy phép quá cảnh, vận chuyển hàng hóa quá cảnh và tiêu thụ hàng hóa quá cảnh theo quy định của Hiệp định quá cảnh hàng hóa giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia ngày 26 tháng 12 năm 2013 (sau đây viết tắt là Hiệp định).
 
+(Điều này có nội dung liên quan đến Điều 26.2.NĐ.3.43. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng hóa quá cảnh)
 
-### Điều 34.3.TT.14.1. Phạm vi điều chỉnh
+Điều 34.3.TT.14.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 27/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 20/10/2014)
 
-**Chỉ mục:** 1
+Thông tư này áp dụng đối với cơ quan, tổ chức và cá nhân tham gia các hoạt động có liên quan đến quá cảnh hàng hóa theo quy định của Hiệp định.
 
-**Mã phân cấp:** 3400300000000000100000280252040027000010
-
-**ID:** dk_00054667
-
----
-
-
-### Điều 34.3.TT.14.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000280252040027000020
-
-**ID:** dk_00054668
-
----
-
-
-### Điều 34.3.TT.15.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 26.2.NĐ.3.43. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng hóa quá cảnh)
 
 Điều 34.3.TT.15.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 28/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/03/2015, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 1 Thông tư số 26/2018/TT-BVHTTDL có hiệu lực thi hành kể từ ngày 30/10/2018)
 
-**Mã phân cấp:** 3400300000000000100000280253220028750010
+1. Thông tư này quy định về quản lý hoạt động mua bán hàng hóa quốc tế thuộc diện quản lý chuyên ngành văn hóa của Bộ Văn hóa, Thể thao và Du lịch.
 
-**ID:** dk_00054669
+2. Thông tư này áp dụng đối với thương nhân Việt Nam, các tổ chức, cá nhân khác (sau đây gọi là Thương nhân) có liên quan đến hoạt động mua bán hàng hóa quốc tế theo quy định tại Luật Thương mại thuộc diện quản lý chuyên ngành văn hóa của Bộ Văn hóa, Thể thao và Du lịch.
 
----
+(Điều này có nội dung liên quan đến Điều 41.6.LQ.17. Xuất khẩu phim, nhập khẩu phim)
 
+Điều 34.3.TT.16.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.16.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 11/2015/TT-BCT Quy định về quá cảnh hàng hóa của nước Cộng hòa Nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam ngày 04/06/2015 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 20/07/2015)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định về thủ tục cấp giấy phép quá cảnh hàng hóa, vận chuyển hàng hóa quá cảnh theo quy định của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa nhân dân Trung Hoa về quá cảnh hàng hóa ngày 09 tháng 4 năm 1994 (sau đây viết tắt là Hiệp định).
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 26.2.NĐ.3.43. Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng hóa quá cảnh)
 
-**Mã phân cấp:** 3400300000000000100000280254770011000010
+Điều 34.3.TT.16.2. Đối tượng áp dụng
 
-**ID:** dk_00054670
+(Điều 2 Thông tư số 11/2015/TT-BCT, có hiệu lực thi hành kể từ ngày 20/07/2015)
 
----
+Thông tư này áp dụng đối với cơ quan, tổ chức và cá nhân tham gia các hoạt động có liên quan đến quá cảnh hàng hóa theo quy định của Hiệp định.
 
+Điều 34.3.TT.17.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.16.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 28/2015/TT-BCT, có hiệu lực thi hành kể từ ngày 05/10/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 27/2017/TT-BCT có hiệu lực thi hành kể từ ngày 06/12/2017)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này quy định về việc thực hiện thí điểm tự chứng nhận xuất xứ hàng hóa theo quy định của Bản ghi nhớ ký ngày 29 tháng 8 năm 2012 giữa các nước Cộng hòa dân chủ nhân dân Lào, Cộng hòa Phi-líp-pin, Cộng hòa In-đô-nê-xi-a tại Xiêm-Riệp, Vương quốc Cam-pu-chia về thực hiện dự án thí điểm tự chứng nhận xuất xứ số 2 (sau đây viết tắt là Bản ghi nhớ).
 
-**Chỉ mục:** 2
+2. Ngoài các quy định liên quan đến tự chứng nhận xuất xứ quy định tại Thông tư số 28/2015/TT-BCT ngày 20 tháng 8 năm 2015 và Thông tư này, thương nhân và các cơ quan, tổ chức, cá nhân có liên quan phải tuân thủ quy định tại Thông tư số 22/2016/TT-BCT ngày 03 tháng 10 năm 2016 của Bộ trưởng Bộ Công Thương thực hiện Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại hàng hóa ASEAN.
 
-**Mã phân cấp:** 3400300000000000100000280254770011000020
+Điều 34.3.TT.17.2. Đối tượng áp dụng
 
-**ID:** dk_00054671
+(Điều 2 Thông tư số 28/2015/TT-BCT, có hiệu lực thi hành kể từ ngày 05/10/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 27/2017/TT-BCT có hiệu lực thi hành kể từ ngày 06/12/2017)
 
----
+1. Thông tư này áp dụng đối với thương nhân xuất khẩu, nhập khẩu hàng hóa theo Hiệp định thương mại hàng hóa ASEAN với thương nhân các nước thành viên Bản ghi nhớ và các cơ quan, tổ chức, cá nhân có liên quan.
 
-
-### Điều 34.3.TT.17.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000280255540028000010
-
-**ID:** dk_00054672
-
----
-
-
-### Điều 34.3.TT.17.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000280255540028000020
-
-**ID:** dk_00054673
-
----
-
-
-### Điều 34.3.TT.20.1. Phạm vi điều chỉnh và đối tượng áp dụng
+2. Thương nhân được Bộ Công Thương lựa chọn tham gia thí điểm tự chứng nhận xuất xứ hàng hóa theo quy định tại Thông tư số 28/2015/TT-BCT ngày 20 tháng 8 năm 2015 và Thông tư này vẫn có quyền đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa mẫu D (sau đây gọi tắt là C/O mẫu D) theo quy định tại Thông tư số 22/2016/TT-BCT ngày 03 tháng 10 năm 2016.
 
 Điều 34.3.TT.20.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 21/2016/TT-BCT quy định thực hiện quy tắc xuất xứ trong Hiệp định thương mại Tự do giữa Việt Nam và Liên minh kinh tế Á-Âu của Bộ Công Thương ngày 20/09/2016 của Bộ công thương, có hiệu lực thi hành kể từ ngày 05/10/2016)
 
-**Mã phân cấp:** 3400300000000000100000280259510021000010
+1. Thông tư này quy định thực hiện Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại tự do Việt Nam và Liên minh Kinh tế Á Âu (sau đây gọi tắt là Hiệp định VN - EAEU FTA).
 
-**ID:** dk_00054674
-
----
-
-
-### Điều 34.3.TT.21.1. Phạm vi điều chỉnh và Đối tượng áp dụng
+2. Thông tư này áp dụng đối với cơ quan, tổ chức và cá nhân tham gia các hoạt động có liên quan đến xuất xứ hàng hóa trong Hiệp định VN - EAEU FTA.
 
 Điều 34.3.TT.21.1. Phạm vi điều chỉnh và Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 22/2016/TT-BCT về việc thực hiện Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại hàng hóa ASEAN ngày 03/10/2016 của Bộ công thương, có hiệu lực thi hành kể từ ngày 15/11/2016)
 
-**Mã phân cấp:** 3400300000000000100000280259640022000010
+1. Thông tư này quy định thực hiện Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại hàng hóa ASEAN (sau đây gọi tắt là ATIGA).
 
-**ID:** dk_00054675
+2. Thông tư này áp dụng đối với cơ quan, tổ chức và cá nhân tham gia các hoạt động có liên quan đến xuất xứ hàng hóa trong Hiệp định ATIGA.
 
----
+Điều 34.3.TT.22.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 16/2017/TT-BGTVT Hướng dẫn tuyến đường vận chuyển quá cảnh hàng hóa qua lãnh thổ Việt Nam ngày 22/05/2017 của Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 15/07/2017)
 
-### Điều 34.3.TT.22.1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn tuyến đường vận chuyển quá cảnh hàng hóa qua lãnh thổ Việt Nam.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.22.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 16/2017/TT-BGTVT, có hiệu lực thi hành kể từ ngày 15/07/2017)
 
-**Mã phân cấp:** 3400300000000000100000280261950016000010
+Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến hoạt động vận chuyển quá cảnh hàng hóa qua lãnh thổ Việt Nam.
 
-**ID:** dk_00054676
+Điều 34.3.TT.23.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 01/2018/TT-BCT Quy định chi tiết hàng hóa mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân ngày 27/02/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 27/02/2018)
 
+Thông tư này quy định chi tiết hàng hóa mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân theo quy định tại Chương II Nghị định số 14/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết về hoạt động thương mại biên giới.
 
-### Điều 34.3.TT.22.2. Đối tượng áp dụng
+Điều 34.3.TT.23.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 01/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 27/02/2018)
 
-**Chỉ mục:** 2
+1. Thương nhân, các tổ chức, cá nhân tham gia hoạt động mua bán, trao đổi hàng hóa qua biên giới.
 
-**Mã phân cấp:** 3400300000000000100000280261950016000020
+2. Các cơ quan, tổ chức quản lý và điều hành hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân
 
-**ID:** dk_00054677
+3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân.
 
----
+Phu luc kem theo Thong tu so 01.2018.TT.BCT.doc
 
+Điều 34.3.TT.24.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.23.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 02/2018/TT-BCT Quy định chi tiết Danh mục hàng hóa mua bán, trao đổi của cư dân biên giới ngày 27/02/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 27/02/2018)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định chi tiết Danh mục hàng hóa mua bán, trao đổi qua biên giới của cư dân biên giới theo quy định tại khoản 2 Điều 12 Nghị định số 14/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết về hoạt động thương mại biên giới.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 26.2.LQ.51. Kiểm tra, giám sát hải quan đối với hàng hóa mua bán, trao đổi của cư dân biên giới)
 
-**Mã phân cấp:** 3400300000000000100000280264760001000010
+Điều 34.3.TT.24.2. Đối tượng áp dụng
 
-**ID:** dk_00054678
+(Điều 2 Thông tư số 02/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 27/02/2018, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 34/2025/TT-BCT có hiệu lực thi hành kể từ ngày 21/07/2025)
 
----
+1. Cư dân biên giới mua bán, trao đổi hàng hóa qua biên giới quy định tại khoản 1 Điều 1 Nghị định số 122/2024/NĐ-CP
 
+2. Các cơ quan, tổ chức quản lý và điều hành hoạt động thương mại biên giới.
 
-### Điều 34.3.TT.23.2. Đối tượng áp dụng
+3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động thương mại biên giới.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 26.2.LQ.51. Kiểm tra, giám sát hải quan đối với hàng hóa mua bán, trao đổi của cư dân biên giới)
 
-**Chỉ mục:** 2
+Điều 34.3.TT.25.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000280264760001000020
+(Điều 1 Thông tư số 05/2018/TT-BCT Quy định về xuất xứ hàng hóa ngày 03/04/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 03/04/2018)
 
-**ID:** dk_00054679
+Thông tư này quy định về quy tắc xuất xứ hàng hóa và kê khai xuất xứ đối với hàng hóa xuất khẩu, hàng hóa nhập khẩu.
 
----
+Điều 34.3.TT.25.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 05/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/04/2018)
 
-### Điều 34.3.TT.24.1. Phạm vi điều chỉnh
+Thông tư này áp dụng đối với thương nhân, cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa; các cơ quan, tổ chức, cá nhân khác có hoạt động liên quan đến xuất xứ hàng hóa.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.27.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 06/2018/TT-BYT Ban hành Danh mục thuốc, nguyên liệu làm thuốc dùng cho người và mỹ phẩm xuất khẩu, nhập khẩu đã được xác định mã số hàng hóa theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam ngày 06/04/2018 của Bộ Y tế, có hiệu lực thi hành kể từ ngày 21/05/2018)
 
-**Mã phân cấp:** 3400300000000000100000280264760002000010
+1. Thông tư này ban hành Danh mục thuốc bao gồm: thuốc hóa dược, thuốc dược liệu, vắc xin, sinh phẩm; nguyên liệu làm thuốc là dược chất và mỹ phẩm xuất khẩu, nhập khẩu đã được xác định mã số hàng hóa theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam ban hành kèm theo Thông tư số 65/2017/TT-BTC ngày 26 tháng 7 năm 2017 của Bộ trưởng Bộ Tài chính về việc ban hành danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.
 
-**ID:** dk_00054680
+2. Thông tư này không điều chỉnh đối với thuốc cổ truyền, nguyên liệu làm thuốc là dược liệu, tá dược, vỏ nang.
 
----
+Điều 34.3.TT.30.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 12/2018/TT-BCT Quy định chi tiết một số điều của Luật Quản lý ngoại thương và Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương ngày 15/06/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 15/06/2018)
 
-### Điều 34.3.TT.24.2. Đối tượng áp dụng
+Thông tư này quy định:
 
-*Nội dung chưa có sẵn*
+1. Chi tiết Danh mục hàng tiêu dùng, thiết bị y tế, phương tiện đã qua sử dụng cấm nhập khẩu theo mã số hàng hóa (mã HS) thuộc thẩm quyền quản lý của Bộ Công Thương.
 
-**Chỉ mục:** 2
+2. Chi tiết Danh mục hàng hóa tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu theo mã HS.
 
-**Mã phân cấp:** 3400300000000000100000280264760002000020
+3. Các mẫu đơn, mẫu báo cáo, biểu mẫu và cơ quan cấp giấy phép của Bộ Công Thương theo quy định tại Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương (sau đây gọi tắt là Nghị định số 69/2018/NĐ-CP).
 
-**ID:** dk_00054681
+4. Hạn ngạch thuế quan nhập khẩu.
 
----
+Điều 34.3.TT.30.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 12/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 15/06/2018)
 
-### Điều 34.3.TT.25.1. Phạm vi điều chỉnh
+Thông tư này áp dụng đối với thương nhân Việt Nam; tổ chức, cá nhân có liên quan đến hoạt động ngoại thương theo quy định tại Luật Quản lý ngoại thương.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.31.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 15/2018/TT-BCT Quy định về việc phân luồng trong quy trình cấp Giấy chứng nhận xuất xứ hàng hóa ưu đãi ngày 29/06/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 15/08/2018)
 
-**Mã phân cấp:** 3400300000000000100000280265110005000010
+Thông tư này quy định về việc phân luồng trong quy trình cấp Giấy chứng nhận xuất xứ hàng hóa (C/O) ưu đãi.
 
-**ID:** dk_00054682
+Điều 34.3.TT.31.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 15/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 15/08/2018)
 
+Thông tư này áp dụng đối với:
 
-### Điều 34.3.TT.25.2. Đối tượng áp dụng
+1. Thương nhân đề nghị cấp C/O ưu đãi;
 
-*Nội dung chưa có sẵn*
+2. Cơ quan, tổ chức cấp C/O ưu đãi theo Điều ước quốc tế;
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000280265110005000020
-
-**ID:** dk_00054683
-
----
-
-
-### Điều 34.3.TT.27.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000280265140006850010
-
-**ID:** dk_00054684
-
----
-
-
-### Điều 34.3.TT.30.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000280265840012000010
-
-**ID:** dk_00054685
-
----
-
-
-### Điều 34.3.TT.30.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000280265840012000020
-
-**ID:** dk_00054686
-
----
-
-
-### Điều 34.3.TT.31.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000100000280265980015000010
-
-**ID:** dk_00054687
-
----
-
-
-### Điều 34.3.TT.31.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000100000280265980015000020
-
-**ID:** dk_00054688
-
----
-
-
-### Điều 34.3.TT.34.1. Phạm vi điều chỉnh và đối tượng áp dụng
+3. Các cơ quan, tổ chức, cá nhân có liên quan.
 
 Điều 34.3.TT.34.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 11/2018/TT-BTTTT Công bố chi tiết Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu kèm theo mã số HS ngày 15/10/2018 của Bộ Thông tin và Truyền thông, có hiệu lực thi hành kể từ ngày 30/11/2018)
 
-**Mã phân cấp:** 3400300000000000100000280267060011000010
+a) Phạm vi điều chỉnh
 
-**ID:** dk_00054689
+Thông tư này công bố chi tiết Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu kèm theo mã số HS tại Phụ lục kèm theo (sau đây gọi tắt là Danh mục cấm nhập khẩu).
 
----
+b) Đối tượng áp dụng
 
+Thông tư này áp dụng đối với các cơ quan nhà nước, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng.
 
-### Điều 34.3.TT.35.1. Phạm vi điều chỉnh
+Phu luc kem theo Thong tu so.11.2018.TT.TTTT.doc
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.35.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 38/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 14/12/2018, có nội dung được sửa đổi bởi Điều 2 Thông tư số 23/2025/TT-BCT có hiệu lực thi hành kể từ ngày 05/05/2025)
 
-**Mã phân cấp:** 3400300000000000100000280267210038000010
+Thông tư này quy định chứng nhận xuất xứ hàng hóa theo chế độ ưu đãi thuế quan phổ cập (sau đây gọi là GSP) của Na Uy và Thụy Sỹ
 
-**ID:** dk_00054690
+Điều 34.3.TT.35.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 38/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 14/12/2018)
 
+Thông tư này áp dụng đối với:
 
-### Điều 34.3.TT.35.2. Đối tượng áp dụng
+1. Thương nhân;
 
-*Nội dung chưa có sẵn*
+2. Cơ quan, tổ chức, cá nhân liên quan.
 
-**Chỉ mục:** 2
+Điều 34.3.TT.36.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000280267210038000020
+(Điều 1 Thông tư số 39/2018/TT-BCT Quy định kiểm tra, xác minh xuất xứ hàng hóa xuất khẩu ngày 30/10/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 14/12/2018)
 
-**ID:** dk_00054691
+Thông tư này quy định việc kiểm tra, xác minh xuất xứ hàng hóa xuất khẩu trước và sau khi cấp Giấy chứng nhận xuất xứ hàng hóa (C/O), chứng từ chứng nhận xuất xứ hàng hóa theo quy định nước nhập khẩu và việc tự chứng nhận xuất xứ hàng hóa của thương nhân theo khoản 1 Điều 28 Nghị định số 31/2018/NĐ-CP ngày 08 tháng 3 năm 2018 quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hóa (sau đây gọi là Nghị định số 31/2018/NĐ-CP).
 
----
+Điều 34.3.TT.36.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 39/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 14/12/2018)
 
-### Điều 34.3.TT.36.1. Phạm vi điều chỉnh
+Thông tư này áp dụng đối với:
 
-*Nội dung chưa có sẵn*
+1. Cơ quan, tổ chức cấp C/O;
 
-**Chỉ mục:** 1
+2. Cơ quan, tổ chức cấp văn bản chấp thuận tự chứng nhận xuất xứ hàng hóa;
 
-**Mã phân cấp:** 3400300000000000100000280267210039000010
+3. Cơ quan, tổ chức tiếp nhận đăng ký mã số chứng nhận xuất xứ hàng hóa;
 
-**ID:** dk_00054692
+4. Thương nhân bao gồm:
 
----
+a) Thương nhân đề nghị cấp C/O;
 
+b) Thương nhân tham gia cơ chế tự chứng nhận xuất xứ hàng hóa;
 
-### Điều 34.3.TT.36.2. Đối tượng áp dụng
+c) Thương nhân phát hành chứng từ chứng nhận xuất xứ hàng hóa theo quy định nước nhập khẩu;
 
-*Nội dung chưa có sẵn*
+d) Nhà sản xuất, nhà cung cấp hàng hóa xuất khẩu hoặc nguyên liệu để sản xuất hàng hóa xuất khẩu.
 
-**Chỉ mục:** 2
+5. Cơ quan, tổ chức, cá nhân liên quan.
 
-**Mã phân cấp:** 3400300000000000100000280267210039000020
+Điều 34.3.TT.37.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054693
+(Điều 1 Thông tư số 44/2018/TT-BCT Quy định về việc tạm ngừng kinh doanh tạm nhập, tái xuất gỗ tròn, gỗ xẻ từ rừng tự nhiên từ Lào và Campuchia ngày 15/11/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+Thông tư này quy định về việc tạm ngừng kinh doanh tạm nhập, tái xuất gỗ tròn, gỗ xẻ từ rừng tự nhiên từ Lào và Campuchia.
 
+Điều 34.3.TT.37.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.37.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 44/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-*Nội dung chưa có sẵn*
+1. Thương nhân tham gia hoạt động kinh doanh tạm nhập, tái xuất gỗ tròn, gỗ xẻ từ Lào và Campuchia.
 
-**Chỉ mục:** 1
+2. Các cơ quan, tổ chức quản lý hoạt động kinh doanh tạm nhập, tái xuất gỗ tròn, gỗ xẻ từ Lào và Campuchia.
 
-**Mã phân cấp:** 3400300000000000100000280267370044000010
+3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động kinh doanh tạm nhập, tái xuất gỗ tròn, gỗ xẻ từ Lào và Campuchia.
 
-**ID:** dk_00054694
+Điều 34.3.TT.38.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 38/2018/TT-NHNN Quy định việc nhập khẩu hàng hoá phục vụ hoạt động 
+in, đúc tiền của Ngân hàng Nhà nước Việt Nam ngày 25/12/2018 của Ngân hàng Nhà nước, có hiệu lực thi hành kể từ ngày 08/02/2019)Thông tư này quy định việc nhập khẩu hàng hóa phục vụ hoạt động in, đúc tiền của Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước) theo phương thức chỉ định thương nhân được quy định tại Phụ lục II ban hành kèm theo Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương.
 
+Điều 34.3.TT.38.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.37.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 38/2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 08/02/2019)
 
-*Nội dung chưa có sẵn*
+1. Thương nhân là cơ sở in, đúc tiền được chỉ định để thực hiện việc in, đúc tiền theo hợp đồng giữa Ngân hàng Nhà nước với cơ sở in, đúc tiền.
 
-**Chỉ mục:** 2
+2. Ngân hàng Nhà nước; cơ quan, tổ chức và cá nhân có liên quan đến việc nhập khẩu hàng hóa phục vụ hoạt động in, đúc tiền của Ngân hàng Nhà nước.
 
-**Mã phân cấp:** 3400300000000000100000280267370044000020
+Điều 34.3.TT.42.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054695
+(Điều 1 Thông tư số 01/2019/TT-BCT Quy định cửa khẩu nhập khẩu phế liệu ngày 09/01/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 22/02/2019)
 
----
+1. Thông tư này quy định cửa khẩu nhập khẩu phế liệu được phép nhập khẩu từ nước ngoài làm nguyên liệu sản xuất thuộc Danh mục do Thủ tướng Chính phủ quy định.
 
+2. Thông tư này không áp dụng đối với hoạt động tạm nhập, tái xuất, chuyển khẩu, quá cảnh phế liệu.
 
-### Điều 34.3.TT.38.1. Phạm vi điều chỉnh
+Điều 34.3.TT.42.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 01/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 22/02/2019)
 
-**Chỉ mục:** 1
+Thông tư này áp dụng đối với thương nhân nhập khẩu phế liệu làm nguyên liệu sản xuất và cơ quan, tổ chức có liên quan.
 
-**Mã phân cấp:** 3400300000000000100000280267770038000010
+Điều 34.3.TT.43.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054696
+(Điều 1 Thông tư số 03/2019/TT-BCT quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương ngày 22/01/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 08/03/2019)
 
----
+Thông tư này quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (sau đây gọi là Hiệp định).
 
+Điều 34.3.TT.43.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.38.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 03/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 08/03/2019)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 2
+1. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa (C/O).
 
-**Mã phân cấp:** 3400300000000000100000280267770038000020
+2. Thương nhân.
 
-**ID:** dk_00054697
+3. Cơ quan, tổ chức, cá nhân liên quan đến xuất xứ hàng hóa xuất khẩu và nhập khẩu theo Hiệp định.
 
----
+Điều 34.3.TT.44.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 06/2019/TT-BCT Quy định cửa khẩu nhập khẩu ô tô chở người dưới 16 chỗ ngồi ngày 25/03/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 08/05/2019)
 
-### Điều 34.3.TT.42.1. Phạm vi điều chỉnh
+1. Thông tư này quy định cửa khẩu nhập khẩu đối với ô tô chở người dưới 16 chỗ ngồi.
 
-*Nội dung chưa có sẵn*
+2. Thông tư này không áp dụng đối với các trường hợp sau:
 
-**Chỉ mục:** 1
+a) Nhập khẩu, tạm nhập tái xuất của đối tượng được hưởng quyền ưu đãi, miễn trừ thực hiện theo quy định riêng của Chính phủ, Thủ tướng Chính phủ;
 
-**Mã phân cấp:** 3400300000000000100000280267920001000010
+b) Phục vụ mục đích quốc phòng, an ninh theo kế hoạch do Thủ tướng Chính phủ phê duyệt;
 
-**ID:** dk_00054698
+c) Phục vụ các mục đích cá biệt theo quyết định của Thủ tướng Chính phủ;
 
----
+d) Quá cảnh với các nước có chung đường biên giới và kinh doanh chuyển khẩu.
 
+Điều 34.3.TT.44.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.42.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 07/2019/TT-BCT Quy định về xuất khẩu hàng dệt may sang Mê-hi-cô theo CPTPP ngày 19/04/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 20/06/2019)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định về hạn ngạch thuế quan và hệ thống giám sát hàng dệt may xuất khẩu sang Mê-hi-cô theo CPTPP.
 
-**Chỉ mục:** 2
+Điều 34.3.TT.44.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000280267920001000020
+(Điều 2 Thông tư số 07/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 20/06/2019)
 
-**ID:** dk_00054699
+Thông tư này áp dụng đối với thương nhân xuất khẩu hàng dệt may sang Mê-hi-cô và các tổ chức, cá nhân có liên quan.
 
----
+Điều 34.3.TT.46.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 08/2019/TT-BCT quy định việc nhập khẩu mặt hàng gạo và lá thuốc lá khô có xuất xứ từ Vương quốc Campuchia theo hạn ngạch thuế quan năm 2019 và năm 2020 ngày 26/06/2019 của Bộ Công thương, có hiệu lực thi hành kể từ ngày 12/08/2019)
 
-### Điều 34.3.TT.43.1. Phạm vi điều chỉnh
+Áp dụng hạn ngạch thuế quan nhập khẩu đối với hai mặt hàng có xuất xứ từ Vương quốc Campuchia được hưởng thuế suất thuế nhập khẩu ưu đãi khi nhập khẩu vào Việt Nam năm 2019 và năm 2020 là gạo và lá thuốc lá khô.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.47.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 11/2019/TT-BCT Hướng dẫn thực hiện hoạt động xúc tiến thương mại phát triển ngoại thương thuộc Chương trình cấp quốc gia về xúc tiến thương mại ngày 30/07/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 16/09/2019)
 
-**Mã phân cấp:** 3400300000000000100000280268050003000010
+Thông tư này quy định tiêu chí, nội dung cụ thể và kinh phí hỗ trợ cho các hoạt động xúc tiến thương mại phát triển ngoại thương trong khuôn khổ Chương trình cấp quốc gia về xúc tiến thương mại (sau đây gọi tắt là Chương trình).
 
-**ID:** dk_00054700
+Điều 34.3.TT.47.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 11/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 16/09/2019)
 
+Thông tư này áp dụng đối với các đơn vị chủ trì thực hiện Chương trình (sau đây gọi tắt là đơn vị chủ trì), đơn vị tham gia đề án thuộc Chương trình (sau đây gọi tắt là đơn vị tham gia), cơ quan quản lý thực hiện Chương trình, cơ quan cấp kinh phí hỗ trợ, tổ chức và cá nhân liên quan đến Chương trình cấp quốc gia về xúc tiến thương mại.
 
-### Điều 34.3.TT.43.2. Đối tượng áp dụng
+Điều 34.3.TT.48.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 12/2019/TT-BCT Quy định Quy tắc xuất xứ hàng hóa trongHiệp định khung về hợp tác kinh tế toàn diện giữaHiệp hội các quốc gia Đông Nam Á và nước Cộng hòa nhân dân Trung Hoa ngày 30/07/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 12/09/2019)
 
-**Chỉ mục:** 2
+Thông tư này quy định Quy tắc xuất xứ hàng hóa trong Hiệp định khung về hợp tác kinh tế toàn diện giữa Hiệp hội các quốc gia Đông Nam Á và nước Cộng hòa nhân dân Trung Hoa (sau đây gọi là ACFTA).
 
-**Mã phân cấp:** 3400300000000000100000280268050003000020
+Điều 34.3.TT.48.2. Đối tượng áp dụng
 
-**ID:** dk_00054701
+(Điều 2 Thông tư số 12/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 12/09/2019)
 
----
+Thông tư này áp dụng đối với:
 
+1. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa (C/O).
 
-### Điều 34.3.TT.44.1. Phạm vi điều chỉnh
+2. Thương nhân, cơ quan, tổ chức, cá nhân tham gia các hoạt động có liên quan đến xuất xứ hàng hóa.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.49.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 19/2019/TT-BCT Quy định về áp dụng các biện pháp tự vệ đặc biệt để thực thi Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương ngày 30/09/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 14/11/2019)
 
-**Mã phân cấp:** 3400300000000000100000280268670006000010
+Thông tư này quy định về áp dụng các biện pháp tự vệ đặc biệt để thực thi Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương bao gồm:
 
-**ID:** dk_00054702
+1. Biện pháp tự vệ trong giai đoạn chuyển tiếp.
 
----
+2. Biện pháp khẩn cấp đối với hàng dệt may.
 
+Điều 34.3.TT.49.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.44.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 19/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 14/11/2019)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 1
+1. Các cơ quan quản lý nhà nước của Việt Nam có thẩm quyền điều tra, áp dụng và xử lý biện pháp tự vệ đặc biệt để thực thi Hiệp định.
 
-**Mã phân cấp:** 3400300000000000100000280268920007000010
+2. Thương nhân Việt Nam, thương nhân của nước thành viên của Hiệp định, các cơ quan, tổ chức, cá nhân trong nước và nước ngoài khác có liên quan đến điều tra, áp dụng và xử lý biện pháp tự vệ đặc biệt để thực thi Hiệp định.
 
-**ID:** dk_00054703
+Điều 34.3.TT.50.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 21/2019/TT-BCT Quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại tự do ASEAN - Hồng Công, Trung Quốc ngày 08/11/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 23/12/2019)
 
+Thông tư này quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại tự do ASEAN - Hồng Công, Trung Quốc (sau đây gọi là AHKFTA).
 
-### Điều 34.3.TT.44.2. Đối tượng áp dụng
+Điều 34.3.TT.50.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 21/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 23/12/2019)
 
-**Chỉ mục:** 2
+Thông tư này áp dụng đối với:
 
-**Mã phân cấp:** 3400300000000000100000280268920007000020
+1. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa (C/O).
 
-**ID:** dk_00054704
+2. Thương nhân, cơ quan, tổ chức, cá nhân tham gia các hoạt động có liên quan đến xuất xứ hàng hóa.
 
----
+Điều 34.3.TT.51.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 22/2019/TT-BCT Quy định về việc tạm ngừng kinh doanh chuyển khẩu, kinh doanh tạm nhập gỗ dán vào Việt Nam để tái xuất sang Hoa Kỳ ngày 12/11/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 27/12/2019)
 
-### Điều 34.3.TT.46.1. Phạm vi điều chỉnh
+Thông tư này quy định về việc tạm ngừng kinh doanh chuyển khẩu, kinh doanh tạm nhập gỗ dán vào Việt Nam để tái xuất sang Hoa Kỳ.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.51.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 22/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 27/12/2019)
 
-**Mã phân cấp:** 3400300000000000100000280269600008000010
+1. Thương nhân tham gia hoạt động kinh doanh chuyển khẩu, kinh doanh tạm nhập, tái xuất hàng hóa.
 
-**ID:** dk_00054705
+2. Các tổ chức, cơ quan quản lý hoạt động kinh doanh chuyển khẩu, kinh doanh tạm nhập, tái xuất hàng hóa.
 
----
+3. Các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động kinh doanh chuyển khẩu, kinh doanh tạm nhập, tái xuất hàng hóa.
 
+Điều 34.3.TT.52.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.47.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 27/2019/TT-BCT Quy định về danh mục phế liệu tạm ngừng kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu ngày 15/11/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định về danh mục phế liệu tạm ngừng kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu.
 
-**Chỉ mục:** 1
+Điều 34.3.TT.52.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000280269940011000010
+(Điều 2 Thông tư số 27/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2020)
 
-**ID:** dk_00054706
+1. Thương nhân tham gia hoạt động kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu hàng hóa.
 
----
+2. Các tổ chức, cơ quan quản lý hoạt động kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu hàng hóa.
 
+3. Các cơ quan, tổ chức, cá nhân có liên quan đến kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu hàng hóa.
 
-### Điều 34.3.TT.47.2. Đối tượng áp dụng
+Điều 34.3.TT.53.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 33/2019/TT-BCT Quy định Hệ thống tiêu chí của Chương trình Thương hiệu quốc gia Việt Nam ngày 22/11/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 08/01/2020)
 
-**Chỉ mục:** 2
+Thông tư này quy định Hệ thống tiêu chí của Chương trình Thương hiệu quốc gia Việt Nam, bao gồm:
 
-**Mã phân cấp:** 3400300000000000100000280269940011000020
+1. Tiêu chí xây dựng, thẩm định, phê duyệt đề án thuộc Chương trình Thương hiệu quốc gia Việt Nam (Chương trình).
 
-**ID:** dk_00054707
+2. Tiêu chí xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam.
 
----
+Điều 34.3.TT.53.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 33/2019/TT-BCT, có hiệu lực thi hành kể từ ngày 08/01/2020)
 
-### Điều 34.3.TT.48.1. Phạm vi điều chỉnh
+Thông tư này áp dụng đối với các đơn vị chủ trì thực hiện đề án thuộc Chương trình, cơ quan quản lý Chương trình và các cơ quan, tổ chức, doanh nghiệp, cá nhân liên quan.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.54.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 37 /2019/TT-BCT Quy định chi tiết một số nội dung về các biện pháp phòng vệ thương mại ngày 29/11/2019 của Bộ công thương, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-**Mã phân cấp:** 3400300000000000100000280269940012000010
+Thông tư này quy định chi tiết về bên liên quan trong vụ việc điều tra; hoạt động cung cấp, thu thập thông tin, tài liệu và bảo mật thông tin, tài liệu; tiếng nói, chữ viết trong quá trình điều tra; quản lý nhập khẩu hàng hóa thuộc đối tượng điều tra, áp dụng biện pháp phòng vệ thương mại; các trường hợp miễn trừ áp dụng biện pháp phòng vệ thương mại.
 
-**ID:** dk_00054708
+Điều 34.3.TT.54.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 37 /2019/TT-BCT, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
+1. Các cơ quan quản lý nhà nước có thẩm quyền điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại.
 
-### Điều 34.3.TT.48.2. Đối tượng áp dụng
+2. Thương nhân Việt Nam, thương nhân nước ngoài, các cơ quan, tổ chức, cá nhân trong nước và nước ngoài khác có liên quan đến điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.57.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Thông tư số 03/2020/TT-BCT" Quy định việc nhập khẩu thuốc lá nguyên liệu theo hạn ngạch thuế quan theo Hiệp định Đối tác toàn diện và Tiến bộ Xuyên Thái Bình Dương ngày 22/01/2020 của Bộ công thương, có hiệu lực thi hành kể từ ngày 29/02/2020)
 
-**Mã phân cấp:** 3400300000000000100000280269940012000020
+Thông tư này điều chỉnh việc nhập khẩu thuốc lá nguyên liệu (mã HS 24.01) theo hạn ngạch thuế quan cam kết tại Hiệp định CPTPP.
 
-**ID:** dk_00054709
+Điều 34.3.TT.57.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 03/2020/TT-BCT", có hiệu lực thi hành kể từ ngày 29/02/2020)
 
+Điều 34.3.TT.58.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.49.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 04/2020/TT-BCT Quy định về đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng theo Hiệp định Đối tác toàn diện và Tiến bộ Xuyên Thái Bình Dương ngày 22/01/2020 của Bộ Công thương, có hiệu lực thi hành kể từ ngày 05/03/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này quy định về đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng theo cam kết tại Hiệp định CPTPP.
 
-**Chỉ mục:** 1
+Điều 34.3.TT.58.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000280270560019000010
+(Điều 2 Thông tư số 04/2020/TT-BCT, có hiệu lực thi hành kể từ ngày 05/03/2020)
 
-**ID:** dk_00054710
+1. Thương nhân theo quy định của pháp luật Việt Nam.
 
----
+2. Tổ chức, cá nhân có liên quan đến việc nhập khẩu ô tô.
 
+Điều 34.3.TT.59.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.49.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 02/2020/TT-NHNN Hướng dẫn hoạt động thanh toán và chuyển tiền liên quan đến kinh doanh chuyển khẩu hàng hóa ngày 30/03/2020 của Ngân hàng Nhà nước Việt Nam, có hiệu lực thi hành kể từ ngày 15/05/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này hướng dẫn hoạt động thanh toán và chuyển tiền liên quan đến giao dịch vãng lai là kinh doanh chuyển khẩu hàng hóa của thương nhân Việt Nam.
 
-**Chỉ mục:** 2
+Điều 34.3.TT.59.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000280270560019000020
+(Điều 2 Thông tư số 02/2020/TT-NHNN, có hiệu lực thi hành kể từ ngày 15/05/2020)
 
-**ID:** dk_00054711
+1. Ngân hàng, chi nhánh ngân hàng nước ngoài được phép kinh doanh, cung ứng dịch vụ ngoại hối (sau đây gọi là ngân hàng được phép).
 
----
+2. Thương nhân Việt Nam tham gia hoạt động kinh doanh chuyển khẩu hàng hóa (trừ thương nhân Việt Nam là tổ chức kinh tế có vốn đầu tư nước ngoài) (sau đây gọi là thương nhân).
 
+3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động thanh toán và chuyển tiền cho các giao dịch kinh doanh chuyển khẩu hàng hóa.
 
-### Điều 34.3.TT.50.1. Phạm vi điều chỉnh
+Điều 34.3.TT.60.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 08/2020/TT-BCT Quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại Việt Nam - Cuba ngày 08/04/2020 của Bộ công thương, có hiệu lực thi hành kể từ ngày 25/05/2020)
 
-**Chỉ mục:** 1
+Thông tư này quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại Việt Nam - Cuba (sau đây gọi là Hiệp định).
 
-**Mã phân cấp:** 3400300000000000100000280270950021000010
+Điều 34.3.TT.60.2. Đối tượng áp dụng
 
-**ID:** dk_00054712
+(Điều 2 Thông tư số 08/2020/TT-BCT, có hiệu lực thi hành kể từ ngày 25/05/2020)
 
----
+Thông tư này áp dụng đối với:
 
+1. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa (C/O).
 
-### Điều 34.3.TT.50.2. Đối tượng áp dụng
+2. Thương nhân.
 
-*Nội dung chưa có sẵn*
+3. Cơ quan, tổ chức, cá nhân liên quan đến xuất xứ hàng hóa xuất khẩu và nhập khẩu theo Hiệp định.
 
-**Chỉ mục:** 2
+Điều 34.3.TT.61.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000280270950021000020
+(Điều 1 Thông tư số 09/2020/TT-BCT Quy định về lộ trình áp dụng cửa khẩu nhập khẩu, xuất khẩu đối với hàng hóa kinh doanh tạm nhập tái xuất, kinh doanh chuyển khẩu, gửi kho ngoại quan ngày 14/05/2020 của Bộ công thương, có hiệu lực thi hành kể từ ngày 14/05/2020)
 
-**ID:** dk_00054713
+Thông tư này quy định lộ trình áp dụng cửa khẩu nhập khẩu, xuất khẩu qua biên giới đất liền đối với hàng hóa kinh doanh tạm nhập tái xuất, kinh doanh chuyển khẩu và hàng tạm nhập tái xuất gửi kho ngoại quan.
 
----
+Điều 34.3.TT.61.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 09/2020/TT-BCT, có hiệu lực thi hành kể từ ngày 14/05/2020)
 
-### Điều 34.3.TT.51.1. Phạm vi điều chỉnh
+1. Thương nhân tham gia hoạt động kinh doanh tạm nhập tái xuất, kinh doanh chuyển khẩu, gửi kho ngoại quan.
 
-*Nội dung chưa có sẵn*
+2. Các tổ chức, cơ quan quản lý hoạt động kinh doanh tạm nhập tái xuất, kinh doanh chuyển khẩu, gửi kho ngoại quan.
 
-**Chỉ mục:** 1
+3. Các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động kinh doanh tạm nhập tái xuất, kinh doanh chuyển khẩu, gửi kho ngoại quan.
 
-**Mã phân cấp:** 3400300000000000100000280270990022000010
+Điều 34.3.TT.63.2. Đối tượng áp dụng
 
-**ID:** dk_00054714
+(Điều 2 Thông tư số 30/2020/TT-BCT, có hiệu lực thi hành kể từ ngày 11/01/2021)
 
----
+1. Các cơ quan quản lý nhà nước của Việt Nam có thẩm quyền điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại để thực thi Hiệp định.
 
+2. Các thương nhân, cơ quan, tổ chức, cá nhân trong nước và nước ngoài có liên quan đến việc điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại để thực thi Hiệp định.
 
-### Điều 34.3.TT.51.2. Đối tượng áp dụng
+Điều 34.3.TT.64.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 14/2021/TT-BCT, có hiệu lực thi hành kể từ ngày 15/12/2021)
 
-**Chỉ mục:** 2
+1. Các cơ quan quản lý nhà nước của Việt Nam có thẩm quyền điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại để thực thi Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len.
 
-**Mã phân cấp:** 3400300000000000100000280270990022000020
+2. Các thương nhân, cơ quan, tổ chức, cá nhân trong nước và nước ngoài có liên quan đến việc điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại để thực thi Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len.
 
-**ID:** dk_00054715
+Điều 34.3.TT.66.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 07/2022/TT-BCT, có hiệu lực thi hành kể từ ngày 08/05/2022)
 
+1. Các cơ quan quản lý nhà nước của Việt Nam có thẩm quyền điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại theo Hiệp định Đối tác Kinh tế Toàn diện Khu vực.
 
-### Điều 34.3.TT.52.1. Phạm vi điều chỉnh
+2. Các thương nhân, cơ quan, tổ chức, cá nhân trong nước và nước ngoài có liên quan đến việc điều tra, áp dụng và xử lý biện pháp phòng vệ thương mại theo Hiệp định Đối tác Kinh tế Toàn diện Khu vực.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.72.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 26/2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-**Mã phân cấp:** 3400300000000000100000280271020027000010
+1. Các cơ quan quản lý nhà nước có thẩm quyền điều tra, áp dụng, rà soát việc áp dụng và xử lý biện pháp phòng vệ thương mại, biện pháp chống lẩn tránh biện pháp phòng vệ thương mại.
 
-**ID:** dk_00054716
+2. Thương nhân Việt Nam, thương nhân nước ngoài, các cơ quan, tổ chức, cá nhân trong nước và nước ngoài khác có liên quan đến điều tra, áp dụng, rà soát việc áp dụng và xử lý biện pháp phòng vệ thương mại, biện pháp chống lẩn tránh biện pháp phòng vệ thương mại.
 
----
+Điều 34.3.TT.73.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 49/2025/TT-BCT Quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại hàng hóa thuộc Hiệp định khung về Hợp tác Kinh tế Toàn diện giữa Chính phủ các Nước thành viên Hiệp hội các quốc gia Đông Nam Á và Chính phủ Đại Hàn Dân Quốc ngày 09/09/2025 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/05/2026)
 
-### Điều 34.3.TT.52.2. Đối tượng áp dụng
+Thông tư này quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Thương mại hàng hóa thuộc Hiệp định khung về Hợp tác Kinh tế Toàn diện giữa Chính phủ các Nước thành viên Hiệp hội các quốc gia Đông Nam Á (ASEAN) và Chính phủ Đại Hàn Dân Quốc (Hàn Quốc) (sau đây gọi là Hiệp định).
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.73.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 49/2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/05/2026)
 
-**Mã phân cấp:** 3400300000000000100000280271020027000020
+Thông tư này áp dụng đối với:
 
-**ID:** dk_00054717
+1. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa (C/O).
 
----
+2. Thương nhân.
 
+3. Cơ quan, tổ chức, cá nhân liên quan đến xuất xứ hàng hóa xuất khẩu và nhập khẩu.
 
-### Điều 34.3.TT.53.1. Phạm vi điều chỉnh
+Điều 34.3.LQ.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Luật số 05/2017/QH14, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-**Chỉ mục:** 1
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 3400300000000000100000280271090033000010
+1. Hoạt động ngoại thương là hoạt động mua bán hàng hóa quốc tế được thực hiện dưới các hình thức xuất khẩu, nhập khẩu; tạm nhập, tái xuất; tạm xuất, tái nhập; chuyển khẩu; quá cảnh và các hoạt động khác có liên quan đến hoạt động mua bán hàng hóa quốc tế theo quy định của pháp luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**ID:** dk_00054718
+2. Các biện pháp kỹ thuật là các biện pháp áp dụng với hàng hóa xuất khẩu, nhập khẩu theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa, tiêu chuẩn và quy chuẩn kỹ thuật, an toàn thực phẩm, đo lường.
 
----
+3. Các biện pháp kiểm dịch bao gồm các biện pháp kiểm dịch động vật và các sản phẩm từ động vật, kiểm dịch thực vật và kiểm dịch y tế biên giới theo quy định của pháp luật về bảo vệ và kiểm dịch thực vật, thú y, phòng, chống bệnh truyền nhiễm.
 
+4. Khu vực hải quan riêng là khu vực địa lý xác định trên lãnh thổ Việt Nam được thành lập theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; có quan hệ mua bán, trao đổi hàng hóa với phần lãnh thổ còn lại và nước ngoài là quan hệ xuất khẩu, nhập khẩu.
 
-### Điều 34.3.TT.53.2. Đối tượng áp dụng
+5. Thương nhân nước ngoài không có hiện diện tại Việt Nam là thương nhân nước ngoài không có hoạt động đầu tư, kinh doanh tại Việt Nam theo các hình thức được quy định trong pháp luật về đầu tư, thương mại, doanh nghiệp; không có văn phòng đại diện, chi nhánh tại Việt Nam theo quy định của pháp luật về thương mại, doanh nghiệp.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 34.13.LQ.28. Xuất khẩu, nhập khẩu hàng hóa; Điều 19.4.LQ.3. Giải thích từ ngữ; Điều 26.2.LQ.7. Địa bàn hoạt động hải quan)
 
-**Chỉ mục:** 2
+Điều 34.3.NĐ.9.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 3400300000000000100000280271090033000020
+(Điều 3 Nghị định số 77/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2024)
 
-**ID:** dk_00054719
+ Trong Nghị định này, các thuật ngữ dưới đây được hiểu như sau:
 
----
+ 1. Vật tư đã được phục hồi là một hoặc nhiều bộ phận riêng biệt (i) được tháo ra từ hàng hóa đã qua sử dụng, sau đó (ii) được làm sạch, kiểm tra chất lượng, thử nghiệm hoặc trải qua các công đoạn gia công, sửa chữa cần thiết khác để bảo đảm đưa vật tư đó trở lại tình trạng hoạt động tốt, chắc chắn và an toàn.
 
+ 2. Hàng hóa tân trang là sản phẩm:
 
-### Điều 34.3.TT.54.1. Phạm vi điều chỉnh
+ a) Được liệt kê theo mã hàng tại Phụ lục I, II, III, IV và V kèm theo Nghị định này; và
 
-*Nội dung chưa có sẵn*
+ b) Được cấu thành toàn bộ hoặc một phần từ vật tư đã được phục hồi; và
 
-**Chỉ mục:** 1
+ c) Có thời hạn sử dụng tương tự như thời hạn sử dụng của chính loại hàng hóa đó khi chưa qua sử dụng; và
 
-**Mã phân cấp:** 3400300000000000100000280271160037000010
+ d) Thực hiện được toàn bộ các chức năng như chức năng của chính loại hàng hóa đó khi chưa qua sử dụng, với chất lượng, hiệu quả thực hiện không thay đổi hoặc tương tự như chất lượng, hiệu quả thực hiện của chính loại hàng hóa đó khi chưa qua sử dụng; và
 
-**ID:** dk_00054720
+ đ) Có chế độ bảo hành tương tự như chế độ bảo hành áp dụng cho chính loại hàng hóa đó khi chưa qua sử dụng.
 
----
+ 3. Doanh nghiệp tân trang là doanh nghiệp thành lập và đăng ký hoạt động tại nước ngoài, giữ vai trò chính trong việc tổ chức sản xuất ra hàng hóa tân trang và thực hiện các thủ tục để đưa hàng hóa tân trang vào lưu thông.
 
+ 4. Chủ sở hữu nhãn hiệu là tổ chức, cá nhân sở hữu hợp pháp nhãn hiệu của hàng hóa ban đầu hoặc của hàng hóa mà hàng hóa tân trang được sử dụng làm chi tiết, linh kiện, phụ tùng thay thế.
 
-### Điều 34.3.TT.54.2. Đối tượng áp dụng
+ 5. Cơ sở tân trang là nơi thực hiện một hoặc nhiều công đoạn để sản xuất ra hàng hóa tân trang. 
 
-*Nội dung chưa có sẵn*
+ 6. Năng lực tân trang là năng lực sản xuất ra hàng hóa tân trang đáp ứng được các tiêu chí quy định tại khoản 2 Điều này.
 
-**Chỉ mục:** 2
+ 7. Mã hàng là mã phân loại hàng hóa theo Hệ thống hài hòa mô tả và mã hóa hàng hóa do Tổ chức Hải quan Thế giới phát hành được thể hiện tại Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.
 
-**Mã phân cấp:** 3400300000000000100000280271160037000020
+ 8. Hàng hóa ban đầu là hàng hóa trước khi trải qua quá trình phục hồi, tân trang.
 
-**ID:** dk_00054721
+ Điều 34.3.NĐ.1.3. Giải thích từ ngữ
 
----
+(Điều 3 Nghị định số 90/2007/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/07/2007)
 
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 34.3.TT.57.1. Phạm vi điều chỉnh
+1. Thương nhân nước ngoài là thương nhân được thành lập, đăng ký kinh doanh theo quy định của pháp luật nước ngoài hoặc được pháp luật nước ngoài công nhận.
 
-*Nội dung chưa có sẵn*
+2. Thương nhân nước ngoài không có hiện diện tại Việt Nam là thương nhân nước ngoài không có đầu tư trực tiếp tại Việt Nam theo các hình thức được quy định trong Luật Đầu tư, Luật Thương mại; không có văn phòng đại diện, chi nhánh tại Việt Nam theo Luật Thương mại.
 
-**Chỉ mục:** 1
+3. Hoạt động xuất khẩu, nhập khẩu;quyền xuất khẩu; quyền nhập khẩu; quyền phân phối được giải thích tại Nghị định số 23/2007/NĐ-CP ngày 12 tháng 02 năm 2007 của Chính phủ.
 
-**Mã phân cấp:** 3400300000000000100000280271700003000010
+Điều 34.3.NĐ.2.3. Giải thích từ ngữ
 
-**ID:** dk_00054722
+(Điều 3 Nghị định số 32/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2012, có nội dung được sửa đổi bởi Điều 1 Nghị định số 31/2025/NĐ-CP có hiệu lực thi hành kể từ ngày 12/04/2026)
 
----
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
+1. Hoạt động xuất khẩu văn hóa phẩm không nhằm mục đích kinh doanh là việc văn hóa phẩm được đưa ra khỏi lãnh thổ Việt Nam hoặc đưa vào khu vực đặc biệt nằm trên lãnh thổ Việt Nam được coi là khu vực hải quan riêng theo quy định của pháp luật để sử dụng riêng, biếu, tặng, thừa kế, trưng bày, triển lãm, dự thi, hợp tác trao đổi, hội thảo, liên hoan, viện trợ, phổ biến, phục vụ cho công tác chuyên môn nghiệp vụ, nghiên cứu hoặc các mục đích khác không mang tính thương mại.
 
-### Điều 34.3.TT.57.2. Đối tượng áp dụng
+2. Hoạt động nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh là việc văn hóa phẩm được đưa vào lãnh thổ Việt Nam từ nước ngoài hoặc từ khu vực đặc biệt nằm trên lãnh thổ Việt Nam được coi là khu vực hải quan riêng theo quy định của pháp luật để sử dụng riêng, biếu, tặng, thừa kế, trưng bày, triển lãm, dự thi, hợp tác trao đổi, hội thảo, liên hoan, viện trợ, phổ biến, phục vụ cho công tác chuyên môn nghiệp vụ, nghiên cứu hoặc các mục đích khác không mang tính thương mại.
 
-*Nội dung chưa có sẵn*
+3. Văn hóa phẩm bao gồm:
 
-**Chỉ mục:** 2
+a) Các bản ghi âm, ghi hình về nghệ thuật biểu diễn;
 
-**Mã phân cấp:** 3400300000000000100000280271700003000020
+b) Các bản ghi âm, ghi hình trong quá trình sản xuất phim tại Việt Nam của tổ chức, cá nhân nước ngoài;
 
-**ID:** dk_00054723
+c) Tác phẩm mỹ thuật, tác phẩm mỹ thuật ứng dụng, tác phẩm nhiếp ảnh;
 
----
+d) Di vật, cổ vật.”
 
+Điều 34.3.NĐ.3.3. Giải thích từ ngữ
 
-### Điều 34.3.TT.58.1. Phạm vi điều chỉnh
+(Điều 3 Nghị định số 09/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-*Nội dung chưa có sẵn*
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 1
+1. Hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa bao gồm các hoạt động sau đây:
 
-**Mã phân cấp:** 3400300000000000100000280271700004000010
+a) Thực hiện quyền xuất khẩu;
 
-**ID:** dk_00054724
+b) Thực hiện quyền nhập khẩu;
 
----
+c) Thực hiện quyền phân phối;
 
+d) Cung cấp dịch vụ giám định thương mại;
 
-### Điều 34.3.TT.58.2. Đối tượng áp dụng
+đ) Cung cấp dịch vụ logistics;
 
-*Nội dung chưa có sẵn*
+e) Cho thuê hàng hóa, không bao gồm cho thuê tài chính;
 
-**Chỉ mục:** 2
+g) Cung cấp dịch vụ xúc tiến thương mại, không bao gồm dịch vụ quảng cáo;
 
-**Mã phân cấp:** 3400300000000000100000280271700004000020
+h) Cung cấp dịch vụ trung gian thương mại;
 
-**ID:** dk_00054725
+i) Cung cấp dịch vụ thương mại điện tử;
 
----
+k) Cung cấp dịch vụ tổ chức đấu thầu hàng hóa, dịch vụ.
 
+2. Quyền xuất khẩu là quyền mua hàng hoá tại Việt Nam để xuất khẩu, bao gồm quyền đứng tên trên tờ khai hàng hoá xuất khẩu để thực hiện và chịu trách nhiệm về các thủ tục liên quan đến xuất khẩu. Quyền xuất khẩu không bao gồm quyền mua hàng hóa từ các đối tượng không phải là thương nhân để xuất khẩu, trừ trường hợp pháp luật Việt Nam hoặc Điều ước quốc tế mà Việt Nam là thành viên có quy định khác.
 
-### Điều 34.3.TT.59.1. Phạm vi điều chỉnh
+3. Quyền nhập khẩu là quyền được nhập khẩu hàng hoá từ nước ngoài vào Việt Nam để bán cho thương nhân có quyền phân phối hàng hoá đó tại Việt Nam, bao gồm quyền đứng tên trên tờ khai hàng hoá nhập khẩu để thực hiện và chịu trách nhiệm về các thủ tục liên quan đến nhập khẩu. Quyền nhập khẩu không bao gồm quyền tổ chức hoặc tham gia hệ thống phân phối hàng hoá tại Việt Nam, trừ trường hợp pháp luật Việt Nam hoặc Điều ước quốc tế mà Việt Nam là thành viên có quy định khác.
 
-*Nội dung chưa có sẵn*
+4. Phân phối là các hoạt động bán buôn, bán lẻ, đại lý bán hàng hoá và nhượng quyền thương mại.
 
-**Chỉ mục:** 1
+5. Quyền phân phối là quyền thực hiện trực tiếp các hoạt động phân phối.
 
-**Mã phân cấp:** 3400300000000000100000280272380002000010
+6. Bán buôn là hoạt động bán hàng hoá cho thương nhân bán buôn, thương nhân bán lẻ và thương nhân, tổ chức khác; không bao gồm hoạt động bán lẻ.
 
-**ID:** dk_00054726
+7. Bán lẻ là hoạt động bán hàng hoá cho cá nhân, hộ gia đình, tổ chức khác để sử dụng vào mục đích tiêu dùng.
 
----
+8. Cơ sở bán lẻ là địa điểm thực hiện hoạt động bán lẻ.
 
+9. Cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất là cơ sở bán lẻ được lập ở Việt Nam bởi một trong những nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đã có cơ sở bán lẻ ở Việt Nam, hoặc được lập dưới cùng tên, nhãn hiệu với ít nhất một cơ sở bán lẻ do tổ chức kinh tế có vốn đầu tư nước ngoài đã có tại Việt Nam.
 
-### Điều 34.3.TT.59.2. Đối tượng áp dụng
+10. Cửa hàng tiện lợi là cơ sở bán lẻ các mặt hàng tiêu dùng nhanh, bao gồm: Thực phẩm, đồ uống, dược phẩm không kê đơn, thực phẩm chức năng và các sản phẩm bổ dưỡng sức khỏe, hóa mỹ phẩm và các sản phẩm khác phục vụ tiêu dùng hàng ngày.
 
-*Nội dung chưa có sẵn*
+11. Siêu thị mini là cơ sở bán lẻ có diện tích dưới 500 m2 và thuộc loại hình siêu thị tổng hợp theo quy định pháp luật.
 
-**Chỉ mục:** 2
+12. Trung tâm thương mại là địa điểm bao gồm nhiều cơ sở bán lẻ và cung cấp dịch vụ được bố trí tập trung, liên hoàn trong một hoặc một số công trình kiến trúc liền kề.
 
-**Mã phân cấp:** 3400300000000000100000280272380002000020
+13. Cơ quan cấp Giấy phép là cơ quan cấp Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ quy định tại khoản 1 và 2 Điều 8 Nghị định này.
 
-**ID:** dk_00054727
+14. Dịch vụ thương mại điện tử là hoạt động thương mại theo đó bên cung cấp dịch vụ thương mại điện tử thiết lập website thương mại điện tử để cung cấp môi trường cho thương nhân, tổ chức, cá nhân khác tiến hành hoạt động xúc tiến thương mại, bán hàng hóa hoặc cung ứng dịch vụ.
 
----
+15. Hệ thống cơ sở dữ liệu là Hệ thống cơ sở dữ liệu về hoạt động mua bán hàng hoá và các hoạt động liên quan trực tiếp đến mua bán hàng hoá của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam trên Cổng thông tin điện tử của Bộ Công Thương, địa chỉ: http://www.moit.gov.vn.
 
+16. Tài liệu về tài chính là một trong các tài liệu sau: Cam kết hỗ trợ tài chính của công ty mẹ hoặc của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư hoặc tổ chức kinh tế có vốn đầu tư nước ngoài; tài liệu khác chứng minh năng lực tài chính của nhà đầu tư hoặc tổ chức kinh tế có vốn đầu tư nước ngoài.
 
-### Điều 34.3.TT.60.1. Phạm vi điều chỉnh
+17. Tài liệu về địa điểm lập cơ sở bán lẻ là một trong các tài liệu sau: Bản ghi nhớ hoặc thỏa thuận thuê địa điểm hoặc tài liệu chứng minh tổ chức kinh tế có vốn đầu tư nước ngoài có quyền khai thác, sử dụng địa điểm đó để lập cơ sở bán lẻ; kèm theo các giấy tờ khác có liên quan.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.4.3. Giải thích từ ngữ
 
-**Chỉ mục:** 1
+(Điều 3 Nghị định số 10/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-**Mã phân cấp:** 3400300000000000100000280272470008000010
+Ngoài các từ ngữ đã được quy định tại Luật Quản lý ngoại thương, trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00054728
+1. Chứng cứ là những gì có thật được Cơ quan điều tra phòng vệ thương mại dùng làm căn cứ xác định cho việc giải quyết vụ việc phòng vệ thương mại.
 
----
+2. Bên yêu cầu là tổ chức, cá nhân đại diện hợp pháp cho ngành sản xuất trong nước nộp Hồ sơ yêu cầu điều tra áp dụng biện pháp phòng vệ thương mại, điều tra chống lẩn tránh biện pháp phòng vệ thương mại.
 
+3. Bên bị yêu cầu là tổ chức, cá nhân nước ngoài sản xuất, xuất khẩu hàng hóa bị Bên yêu cầu nộp Hồ sơ yêu cầu điều tra áp dụng biện pháp phòng vệ thương mại, điều tra chống lẩn tránh biện pháp phòng vệ thương mại hoặc bị Cơ quan điều tra tiến hành điều tra theo quyết định của Bộ trưởng Bộ Công Thương.
 
-### Điều 34.3.TT.60.2. Đối tượng áp dụng
+4. Thời kỳ điều tra là khoảng thời gian do Cơ quan điều tra xác định để thu thập thông tin, chứng cứ, dữ liệu phục vụ điều tra.
 
-*Nội dung chưa có sẵn*
+5. Giai đoạn điều tra là khoảng thời gian Cơ quan điều tra tiến hành điều tra kể từ ngày Bộ trưởng Bộ Công Thương quyết định điều tra cho đến khi kết thúc điều tra.
 
-**Chỉ mục:** 2
+6. Tham vấn là hoạt động các bên liên quan trao đổi, bày tỏ ý kiến về vụ việc với Cơ quan điều tra theo quy định pháp luật.
 
-**Mã phân cấp:** 3400300000000000100000280272470008000020
+Điều 34.3.NĐ.5.3. Giải thích từ ngữ
 
-**ID:** dk_00054729
+(Điều 3 Nghị định số 14/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 23/01/2018)
 
----
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
+1. Nước có chung biên giới là nước có chung đường biên giới đất liền với nước Cộng hòa xã hội chủ nghĩa Việt Nam, bao gồm: Cộng hòa nhân dân Trung Hoa, Cộng hòa dân chủ nhân dân Lào và Vương quốc Cam-pu-chia.
 
-### Điều 34.3.TT.61.1. Phạm vi điều chỉnh
+2. Cửa khẩu khác và nơi mở ra cho qua lại biên giới là cửa khẩu phụ, lối mở biên giới theo quy định của pháp luật về quản lý cửa khẩu biên giới đất liền.
 
-*Nội dung chưa có sẵn*
+3. Cư dân biên giới thuộc đối tượng áp dụng của Nghị định này bao gồm:
 
-**Chỉ mục:** 1
+a) Công dân Việt Nam có hộ khẩu thường trú tại xã, phường, thị trấn hoặc khu vực địa giới hành chính tương đương có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền.
 
-**Mã phân cấp:** 3400300000000000100000280272830009000010
+b) Người có giấy phép của cơ quan công an có thẩm quyền cho phép cư trú ở khu vực biên giới.
 
-**ID:** dk_00054730
+4. Chợ biên giới bao gồm chợ hoặc khu, điểm chợ biên giới, chợ cửa khẩu và chợ trong khu kinh tế cửa khẩu nằm trên địa bàn xã, phường, thị trấn hoặc khu vực hành chính tương đương có một phần địa giới hành chính trùng với biên giới quốc gia trên đất liền, đồng thời có hoạt động xuất khẩu, nhập khẩu, mua bán, trao đổi hàng hóa của thương nhân và cư dân biên giới.
 
----
+5. Hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân là hoạt động xuất khẩu, nhập khẩu theo quy định của pháp luật.
 
+Điều 34.3.NĐ.7.3. Giải thích từ ngữ
 
-### Điều 34.3.TT.61.2. Đối tượng áp dụng
+(Điều 3 Nghị định số 31/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 08/03/2018)
 
-*Nội dung chưa có sẵn*
+Theo Nghị định này, các từ ngữ sau đây được hiểu như sau:
 
-**Chỉ mục:** 2
+1. Xuất xứ hàng hóa là nước, nhóm nước, hoặc vùng lãnh thổ nơi sản xuất ra toàn bộ hàng hóa hoặc nơi thực hiện công đoạn chế biến cơ bản cuối cùng đối với hàng hóa trong trường hợp có nhiều nước, nhóm nước, hoặc vùng lãnh thổ tham gia vào quá trình sản xuất ra hàng hóa đó.
 
-**Mã phân cấp:** 3400300000000000100000280272830009000020
+2. Quy tắc xuất xứ ưu đãi là các quy định về xuất xứ áp dụng cho hàng hóa có cam kết hoặc thoả thuận ưu đãi về thuế quan và ưu đãi về phi thuế quan.
 
-**ID:** dk_00054731
+3. Quy tắc xuất xứ không ưu đãi là các quy định về xuất xứ áp dụng cho hàng hóa ngoài quy định tại khoản 2 Điều này và trong các trường hợp áp dụng các biện pháp thương mại không ưu đãi về đối xử tối huệ quốc, chống bán phá giá, chống trợ cấp, tự vệ, hạn chế số lượng hay hạn ngạch thuế quan, mua sắm chính phủ và thống kê thương mại.
 
----
+4. Giấy chứng nhận xuất xứ hàng hóa là văn bản hoặc các hình thức có giá trị pháp lý tương đương do cơ quan, tổ chức thuộc nước, nhóm nước, hoặc vùng lãnh thổ xuất khẩu hàng hoá cấp dựa trên quy định và yêu cầu liên quan về xuất xứ, chỉ rõ nguồn gốc xuất xứ của hàng hoá đó.
 
+5. Giấy chứng nhận xuất xứ hàng hóa giáp lưng là Giấy chứng nhận xuất xứ hàng hóa theo quy định tại Điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập, được cấp bởi nước thành viên xuất khẩu trung gian dựa trên Giấy chứng nhận xuất xứ hàng hóa của nước thành viên xuất khẩu đầu tiên.
 
-### Điều 34.3.TT.63.2. Đối tượng áp dụng
+6. Giấy chứng nhận hàng hóa không thay đổi xuất xứ là Giấy chứng nhận cấp cho hàng hóa nước ngoài được đưa vào kho ngoại quan của Việt Nam, sau đó xuất khẩu đi nước khác, đưa vào nội địa trên cơ sở Giấy chứng nhận xuất xứ hàng hóa đã được cấp đầu tiên.
 
-*Nội dung chưa có sẵn*
+7. Tự chứng nhận xuất xứ hàng hóa là hình thức thương nhân tự khai báo và cam kết về xuất xứ của hàng hóa theo quy định của pháp luật.
 
-**Chỉ mục:** 2
+8. Chứng từ tự chứng nhận xuất xứ hàng hóa là văn bản hoặc các hình thức có giá trị pháp lý tương đương do thương nhân tự phát hành theo quy định tại khoản 7 Điều này.
 
-**Mã phân cấp:** 3400300000000000100000280274790030000020
+9. Chuyển đổi mã số hàng hóa là sự thay đổi về mã số HS (trong Biểu thuế xuất khẩu, Biểu thuế nhập khẩu) của hàng hóa được tạo ra ở một nước, nhóm nước, hoặc vùng lãnh thổ trong quá trình sản xuất từ nguyên liệu không có xuất xứ của nước, nhóm nước, hoặc vùng lãnh thổ này.
 
-**ID:** dk_00054732
+10. Tỷ lệ phần trăm giá trị là hàm lượng giá trị có được đủ để coi là có xuất xứ tại một nước, nhóm nước, hoặc vùng lãnh thổ nơi diễn ra công đoạn sản xuất, gia công, chế biến cuối cùng. Tỷ lệ này được xác định là phần giá trị gia tăng có được tính trên tổng giá trị của hàng hoá được sản xuất, gia công, chế biến tại một nước, nhóm nước, hoặc vùng lãnh thổ sau khi trừ đi giá nguyên liệu đầu vào nhập khẩu không thuộc nước, nhóm nước, hoặc vùng lãnh thổ đó hoặc giá trị nguyên liệu đầu vào không xác định được xuất xứ dùng để sản xuất ra hàng hóa.
 
----
+11. Công đoạn gia công, chế biến hàng hóa là quá trình sản xuất chính tạo ra đặc điểm cơ bản của hàng hóa.
 
+12. Thay đổi cơ bản là việc hàng hoá được biến đổi qua quá trình sản xuất, để hình thành vật phẩm thương mại mới, khác biệt về hình dạng, tính năng, đặc điểm cơ bản, hoặc mục đích sử dụng so với hàng hoá ban đầu.
 
-### Điều 34.3.TT.64.2. Đối tượng áp dụng
+13. Đơn giản là hoạt động không cần sử dụng các kỹ năng đặc biệt, máy móc, dây chuyền hoặc các thiết bị chuyên dụng.
 
-*Nội dung chưa có sẵn*
+14. Sản xuất là các phương thức để tạo ra hàng hoá bao gồm trồng trọt, khai thác, thu hoạch, chăn nuôi, gây giống, chiết xuất, thu lượm, thu nhặt, săn bắt, đánh bắt, đánh bẫy, săn bắn, chế tạo, chế biến, gia công hay lắp ráp.
 
-**Chỉ mục:** 2
+15. Nguyên liệu là bất cứ vật liệu hay chất liệu nào được sử dụng hoặc tiêu tốn trong quá trình sản xuất ra hàng hóa, hoặc kết hợp tự nhiên thành một hàng hóa khác, hoặc tham gia vào quy trình sản xuất ra một hàng hóa khác.
 
-**Mã phân cấp:** 3400300000000000100000280278160014000020
+16. Hàng hóa có xuất xứ hoặc nguyên liệu có xuất xứ là hàng hóa hoặc nguyên liệu đáp ứng quy tắc xuất xứ ưu đãi theo quy định tại Chương II hoặc quy tắc xuất xứ không ưu đãi theo quy định tại Chương III Nghị định này.
 
-**ID:** dk_00054733
+17. Thương nhân đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa là người xuất khẩu, nhà sản xuất, người đại diện hợp pháp của người xuất khẩu hoặc nhà sản xuất.
 
----
+Điều 34.3.TT.65.3. Giải thích từ ngữ
 
+(Điều 3 Thông tư số 05/2022/TT-BCT, có hiệu lực thi hành kể từ ngày 04/04/2022)
 
-### Điều 34.3.TT.66.2. Đối tượng áp dụng
+ Theo quy định tại Thông tư này, các thuật ngữ dưới đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+ 1. Nuôi trồng thuỷ sản là việc nuôi trồng các sinh vật sống dưới nước bao gồm cá, động vật thân mềm, loài giáp xác, động vật không xương sống dưới nước khác và thực vật thuỷ sinh, từ các loại con giống như trứng, cá con, cá giống và ấu trùng bằng cách can thiệp vào quá trình nuôi trồng hoặc tăng trưởng nhằm thúc đẩy sinh sản như nuôi cấy, cho ăn hoặc bảo vệ khỏi các động vật ăn thịt.
 
-**Chỉ mục:** 2
+ 2. CIF là trị giá hàng hóa nhập khẩu đã bao gồm cước vận tải và phí bảo hiểm tính đến cảng hoặc cửa khẩu của nước thành viên nhập khẩu.
 
-**Mã phân cấp:** 3400300000000000100000280279610007000020
+ 3. Cơ quan có thẩm quyền là cơ quan Chính phủ hoặc các tổ chức được chỉ định bởi nước thành viên và thông báo cho các nước thành viên khác.
 
-**ID:** dk_00054734
+ 4. FOB là trị giá hàng hóa đã giao qua mạn tàu, bao gồm phí vận tải (bất kể phương thức vận tải nào) đến cảng hoặc địa điểm cuối cùng trước khi tàu chở hàng rời bến.
 
----
+ 5. Hàng hóa hoặc nguyên liệu giống nhau và có thể thay thế lẫn nhau là những hàng hóa hoặc nguyên liệu có thể thay thế lẫn nhau vì mục đích thương mại, có đặc tính cơ bản giống nhau.
 
+ 6. Các nguyên tắc kế toán được chấp nhận rộng rãi là những nguyên tắc đã được nhất trí thừa nhận hoặc áp dụng tại một nước thành viên về việc ghi chép các khoản doanh thu, chi phí, phụ phí, tài sản và các khoản phải trả; truy xuất thông tin và việc lập báo cáo tài chính. Các nguyên tắc này có thể bao gồm hướng dẫn chung cũng như các tiêu chuẩn, thông lệ và thủ tục thực hiện cụ thể.
 
-### Điều 34.3.TT.72.2. Đối tượng áp dụng
+ 7. Hàng hóa là bất kỳ thương phẩm, sản phẩm, vật phẩm hay nguyên liệu nào.
 
-*Nội dung chưa có sẵn*
+ 8. Cơ quan, tổ chức cấp C/O là cơ quan được chỉ định hoặc uỷ quyền bởi một nước thành viên để cấp C/O và phải thông báo cho các nước thành viên khác theo quy định tại Thông tư này.
 
-**Chỉ mục:** 2
+ 9. Nguyên liệu là hàng hóa được sử dụng trong quá trình sản xuất ra hàng hóa khác.
 
-**Mã phân cấp:** 3400300000000000100000280291100026000020
+ 10. Hàng hóa không có xuất xứ hoặc nguyên liệu không có xuất xứ là hàng hóa hoặc nguyên liệu không đáp ứng quy tắc xuất xứ hàng hóa theo quy định tại Thông tư này.
 
-**ID:** dk_00054735
+ 11. Hàng hóa có xuất xứ hoặc nguyên liệu có xuất xứ là hàng hóa hoặc nguyên liệu đáp ứng quy tắc xuất xứ hàng hóa theo quy định tại Thông tư này.
 
----
+ 12. Nhà sản xuất là cá nhân hoặc pháp nhân tham gia vào quá trình sản xuất ra hàng hóa.
 
+ 13. Sản xuất là các phương thức để thu được hàng hóa bao gồm trồng trọt, khai thác, thu hoạch, canh tác, nuôi trồng, chăn nuôi, chiết xuất, thu lượm, thu nhặt, săn bắt, đánh bắt, nuôi trồng thủy sản, đánh bẫy, săn bắn, chế tạo, sản xuất, gia công hoặc lắp ráp hàng hóa.Điều 34.3.NĐ.11.3. Giải thích từ ngữ
 
-### Điều 34.3.TT.73.1. Phạm vi điều chỉnh
+(Điều 3 Nghị định số 86/2025/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2025)
 
-*Nội dung chưa có sẵn*
+1. Chứng cứ là những gì có thật được Cơ quan điều tra dùng làm căn cứ xác định cho việc giải quyết vụ việc phòng vệ thương mại.
 
-**Chỉ mục:** 1
+2. Vụ việc phòng vệ thương mại bao gồm: vụ việc chống bán phá giá, vụ việc chống trợ cấp, vụ việc tự vệ và vụ việc chống lẩn tránh biện pháp phòng vệ thương mại đối với hàng hóa nhập khẩu vào Việt Nam.
 
-**Mã phân cấp:** 3400300000000000100000280292270049000010
+3. Bên yêu cầu là tổ chức, cá nhân đại diện hợp pháp cho ngành sản xuất trong nước nộp hồ sơ yêu cầu áp dụng biện pháp phòng vệ thương mại, hồ sơ yêu cầu áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại.
 
-**ID:** dk_00054736
+4. Bên bị yêu cầu là tổ chức, cá nhân nước ngoài sản xuất, xuất khẩu hàng hóa bị bên yêu cầu nộp hồ sơ yêu cầu điều tra áp dụng biện pháp phòng vệ thương mại, hồ sơ yêu cầu điều tra áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại hoặc bị Cơ quan điều tra tiến hành điều tra theo quyết định của Bộ trưởng Bộ Công Thương.
 
----
+5. Thời kỳ điều tra là khoảng thời gian do Cơ quan điều tra xác định cho mỗi vụ việc phòng vệ thương mại để thu thập thông tin, chứng cứ, dữ liệu phục vụ điều tra vụ việc đó.
 
+6. Thời kỳ điều tra ban đầu là thời kỳ điều tra của vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại ban đầu.
 
-### Điều 34.3.TT.73.2. Đối tượng áp dụng
+7. Tham vấn là hoạt động các bên liên quan trao đổi, bày tỏ ý kiến về vụ việc với Cơ quan điều tra theo quy định pháp luật.
 
-*Nội dung chưa có sẵn*
+8. Nhà xuất khẩu mới là nhà sản xuất, xuất khẩu của nước hoặc vùng lãnh thổ xuất khẩu bị áp dụng biện pháp chống bán phá giá, chống trợ cấp, chống lẩn tránh biện pháp phòng vệ thương mại, chưa được rà soát và thỏa mãn các điều kiện sau:
 
-**Chỉ mục:** 2
+a) Không xuất khẩu hàng hóa bị điều tra vào lãnh thổ Việt Nam trong thời kỳ điều tra ban đầu;
 
-**Mã phân cấp:** 3400300000000000100000280292270049000020
+b) Không có mối quan hệ với các nhà sản xuất, xuất khẩu đang bị áp dụng biện pháp chống bán phá giá, chống trợ cấp, chống lẩn tránh biện pháp phòng vệ thương mại theo quy định tại Điều 5 Nghị định này;
 
-**ID:** dk_00054737
+c) Xuất khẩu hàng hóa bị áp dụng biện pháp chống bán phá giá, chống trợ cấp, chống lẩn tránh biện pháp phòng vệ thương mại vào lãnh thổ Việt Nam sau thời kỳ điều tra ban đầu.
 
----
+9. Hàng hóa cạnh tranh trực tiếp là hàng hóa có khả năng được người mua chấp nhận thay thế cho hàng hóa bị điều tra.
 
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.11.5. Xác định mối quan hệ giữa nhà sản xuất hàng hóa tương tự và tổ chức, cá nhân xuất khẩu, nhập khẩu hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại)
 
-### Điều 34.3.LQ.3. Giải thích từ ngữ
+Điều 34.3.NĐ.12.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị định số 259/2025/NĐ-CP, có hiệu lực thi hành kể từ ngày 10/10/2025)
 
-**Chỉ mục:** 3
+Trong Nghị định này, các thuật ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 3400300000000000100000300000000000000000
+1. Hàng hóa thương mại chiến lược là vũ khí hủy diệt hàng loạt, vũ khí thông thường và các hàng hóa lưỡng dụng được sử dụng để phát triển, sản xuất hay sử dụng vũ khí hủy diệt hàng loạt, vũ khí thông thường.
 
-**ID:** dk_00054738
+2. Hàng hóa lưỡng dụng là hàng hóa thường được sử dụng cho mục đích dân sự nhưng có thể được sử dụng để phát triển, sản xuất hay sử dụng vũ khí huỷ diệt hàng loạt, vũ khí thông thường.
 
----
+3. Người sử dụng cuối cùng là tổ chức, cá nhân ở bên ngoài hoặc bên trong lãnh thổ Việt Nam, là người nhận và là người sử dụng cuối cùng của hàng hóa thương mại chiến lược.
 
+4. Vũ khí hủy diệt hàng loạt là các loại vũ khí quy định tại khoản 1 Điều 4 Nghị định số 81/2019/NĐ-CP của Chính phủ về phòng, chống phổ biến vũ khí hủy diệt hàng loạt.
 
-### Điều 34.3.NĐ.9.3. Giải thích từ ngữ
+5. Tổ chức, cá nhân bị chỉ định là tổ chức, cá nhân quy định tại khoản 15 Điều 4 Nghị định số 81/2019/NĐ-CP của Chính phủ về phòng, chống phổ biến vũ khí hủy diệt hàng loạt.
 
-*Nội dung chưa có sẵn*
+6. Chương trình tuân thủ nội bộ là tập hợp bộ quy trình được thương nhân tham gia vào hoạt động xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa thương mại chiến lược xây dựng để tổ chức thực hiện bắt buộc trong nội bộ thương nhân nhằm đảm bảo việc tuân thủ các quy định của Nghị định này và các văn bản quy phạm pháp luật khác có liên quan tới hoạt động kiểm soát thương mại chiến lược.
 
-**Chỉ mục:** 3
+7. Đặc điểm kỹ thuật, công nghệ là các thông tin thể hiện tính năng, khả năng, phạm vi ứng dụng, thông số kỹ thuật, cấu trúc, thiết kế, tài liệu kỹ thuật mô tả sản phẩm hoặc công nghệ.
 
-**Mã phân cấp:** 340030000000000010000030000000000000000000402855000770000300
+Điều 34.3.QĐ.3.3. Giải thích từ ngữ
 
-**ID:** dk_00054739
+(Điều 3 Quyết định số 18/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/06/2019)
 
----
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
 
+1. Máy móc, thiết bị là một kết cấu hoàn chỉnh, gồm các chi tiết, cụm chi tiết, bộ phận có liên kết với nhau để vận hành, chuyển động theo mục đích sử dụng được thiết kế.
 
-### Điều 34.3.NĐ.1.3. Giải thích từ ngữ
+2. Dây chuyền công nghệ là hệ thống các máy móc, thiết bị, công cụ, phương tiện được bố trí lắp đặt, kết nối liên hoàn tại một địa điểm nhất định theo sơ đồ, quy trình công nghệ đã thiết kế, bảo đảm vận hành đồng bộ để sản xuất.
 
-*Nội dung chưa có sẵn*
+3. Máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng là máy móc, thiết bị, dây chuyền công nghệ sau khi xuất xưởng đã được lắp ráp và vận hành hoạt động.
 
-**Chỉ mục:** 3
+4. Tuổi thiết bị là thời gian (tính theo năm) được xác định từ năm sản xuất đến năm nhập khẩu của máy móc, thiết bị đã qua sử dụng. Năm nhập khẩu là năm hàng hóa về đến cửa khẩu Việt Nam.
 
-**Mã phân cấp:** 3400300000000000100000340225510090000030
+Điều 34.3.QĐ.5.3. Giải thích từ ngữ
 
-**ID:** dk_00054740
+(Điều 3 Quyết định số 31/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 09/10/2019)
 
----
+1. Hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu là các sản phẩm công nghệ thông tin đã được thương mại hóa và được đưa vào sử dụng; không áp dụng đối với các sản phẩm mẫu, đang trong quá trình nghiên cứu, phát triển để hoàn thiện thành sản phẩm hoàn chỉnh.
 
+2. Hoạt động nghiên cứu khoa học theo quy định tại Quyết định này bao gồm một trong các hoạt động sau: phân tích, thiết kế, kiểm nghiệm, thử nghiệm, cải tiến nhằm phát triển sản phẩm hoặc sáng tạo phương pháp, giải pháp hoặc phương tiện kỹ thuật mới có giá trị cao hơn.
 
-### Điều 34.3.NĐ.2.3. Giải thích từ ngữ
+3. Gia công, sửa chữa sản phẩm công nghệ thông tin đã qua sử dụng bao gồm một hoặc nhiều công đoạn trong quá trình sản xuất theo yêu cầu của bên đặt gia công, bao gồm: thay thế linh kiện, lắp ráp, sửa chữa, phục hồi, nâng cấp chức năng, làm mới sản phẩm để có các tính năng, hình thức tương đương với sản phẩm mới cùng chủng loại.
 
-*Nội dung chưa có sẵn*
+Điều 34.3.QĐ.6.3. Giải thích từ ngữ
 
-**Chỉ mục:** 3
+(Điều 3 Quyết định số 20/2024/QĐ-TTg, có hiệu lực thi hành kể từ ngày 06/01/2025)
 
-**Mã phân cấp:** 3400300000000000100000340243290032000030
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00054741
+1. Doanh nghiệp được ủy quyền của Liên bang Nga bao gồm:
 
----
+a) Nhà máy sản xuất ô tô “GAZ”, LLC
 
+Địa chỉ: 603004, số 5, đường Ilyicha, Nizhny Novgorod, Liên bang Nga;
 
-### Điều 34.3.NĐ.3.3. Giải thích từ ngữ
+b) Công ty Thương mại Quốc tế «KAMAZ»
 
-*Nội dung chưa có sẵn*
+Địa chỉ: 423815, số 2, đại lộ Avtozavodsky, Naberezhny Chelny, Cộng hòa Tatarstan, Liên bang Nga;
 
-**Chỉ mục:** 3
+c) Công ty Cổ phần đại chúng “Ulyanovsky Avtomobilny Zavod” (UAZ)
 
-**Mã phân cấp:** 3400300000000000100000340264330009000030
+Địa chỉ: 432034, số 92, đại lộ Moskovskoe, Ulyanovsk, Liên bang Nga; và
 
-**ID:** dk_00054742
+d) Doanh nghiệp được bổ sung hoặc thay thế theo đề nghị của Bộ Công Thương Liên bang Nga và xác nhận của Bộ Công Thương Việt Nam quy định tại Điều 10 của Quyết định này.
 
----
+2. Liên doanh là pháp nhân được thành lập theo thỏa thuận được ký giữa doanh nghiệp được ủy quyền của Liên bang Nga và doanh nghiệp có quan tâm của Việt Nam trên lãnh thổ Việt Nam phù hợp với các quy định của pháp luật Việt Nam.
 
+3. Phương tiện vận tải có động cơ là một số loại xe SUV (loại xe thể thao đa dụng) của UAZ (MIG); phương tiện vận tải có động cơ dùng để chở 10 người trở lên, bao gồm cả lái xe (M2, M2G, M3, M3G); xe tải (N1, N1G, N2, N2G, N3, N3G); và xe chuyên dụng (SB, SC, SD) theo thống nhất của doanh nghiệp được ủy quyền của Liên bang Nga và doanh nghiệp có quan tâm của Việt Nam (Phân loại phương tiện vận tải có động cơ theo loại xe theo quy định của Ủy ban Kinh tế của Liên hợp quốc về Châu Âu (UNECE)).
 
-### Điều 34.3.NĐ.4.3. Giải thích từ ngữ
+4. "Bộ SKD" - là một bộ phụ tùng và linh kiện, quy định cụ thể tại Phụ lục I của Quyết định này, được liên doanh nhập khẩu vào lãnh thổ Việt Nam và cần thiết cho lắp ráp công nghiệp các phương tiện vận tải có động cơ trong hạn ngạch được cấp theo Nghị định thư, trừ các phụ tùng và linh kiện được sản xuất trên lãnh thổ Việt Nam.
 
-*Nội dung chưa có sẵn*
+ x 100%
 
-**Chỉ mục:** 3
+## Danh sách điều khoản
 
-**Mã phân cấp:** 3400300000000000100000340264330010000030
+### 34003000000000001000
 
-**ID:** dk_00054743
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 3400300000000000100000100000000000000000
 
+Điều 34.3.LQ.1. Phạm vi điều chỉnh
 
-### Điều 34.3.NĐ.5.3. Giải thích từ ngữ
+### 340030000000000010000010000000000000000000402855000770000100
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.9.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 3
+### 340030000000000010000010000000000000000000802869800050000100
 
-**Mã phân cấp:** 3400300000000000100000340264410014000030
+Điều 34.3.TT.69.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054744
+### 340030000000000010000010000000000000000000802870400060000100
 
----
+Điều 34.3.TT.70.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
+### 3400300000000000100000140290760086000010
 
-### Điều 34.3.NĐ.7.3. Giải thích từ ngữ
+Điều 34.3.NĐ.11.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000150289350020000010
 
-**Chỉ mục:** 3
+Điều 34.3.QĐ.6.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000340264850031000030
+### 3400300000000000100000180274790030000010
 
-**ID:** dk_00054745
+Điều 34.3.TT.63.1. Phạm vi điều chỉnh
 
----
+### 3400300000000000100000180278160014000010
 
+Điều 34.3.TT.64.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.65.3. Giải thích từ ngữ
+### 3400300000000000100000180279610007000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.66.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 3
+### 3400300000000000100000180291100026000010
 
-**Mã phân cấp:** 340030000000000010000034026485003100003000802792800050000300
+Điều 34.3.TT.72.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054746
+### 3400300000000000100000200000000000000000
 
----
+Điều 34.3.LQ.2. Đối tượng áp dụng
 
+### 340030000000000010000020000000000000000000402855000770000200
 
-### Điều 34.3.NĐ.11.3. Giải thích từ ngữ
+Điều 34.3.NĐ.9.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 340030000000000010000020000000000000000000802869800050000200
 
-**Chỉ mục:** 3
+Điều 34.3.TT.69.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000340290760086000030
+### 3400300000000000100000240225510090000010
 
-**ID:** dk_00054747
+Điều 34.3.NĐ.1.1. Phạm vi điều chỉnh
 
----
+### 3400300000000000100000240225510090000020
 
+Điều 34.3.NĐ.1.2. Đối tượng áp dụng
 
-### Điều 34.3.NĐ.12.3. Giải thích từ ngữ
+### 3400300000000000100000240243290032000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 3
+### 3400300000000000100000240243290032000020
 
-**Mã phân cấp:** 3400300000000000100000340292580259000030
+Điều 34.3.NĐ.2.2. Đối tượng áp dụng
 
-**ID:** dk_00054748
+### 3400300000000000100000240264330009000010
 
----
+Điều 34.3.NĐ.3.1. Phạm vi điều chỉnh
 
+### 3400300000000000100000240264330009000020
 
-### Điều 34.3.QĐ.3.3. Giải thích từ ngữ
+Điều 34.3.NĐ.3.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000240264330010000010
 
-**Chỉ mục:** 3
+Điều 34.3.NĐ.4.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000350268920018000030
+### 3400300000000000100000240264330010000020
 
-**ID:** dk_00054749
+Điều 34.3.NĐ.4.2. Đối tượng áp dụng
 
----
+### 3400300000000000100000240264410014000010
 
+Điều 34.3.NĐ.5.1. Phạm vi điều chỉnh
 
-### Điều 34.3.QĐ.5.3. Giải thích từ ngữ
+### 3400300000000000100000240264410014000020
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.5.2. Đối tượng áp dụng
 
-**Chỉ mục:** 3
+### 3400300000000000100000240264780028000010
 
-**Mã phân cấp:** 3400300000000000100000350270650031000030
+Điều 34.3.NĐ.6.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054750
+### 3400300000000000100000240264780028000020
 
----
+Điều 34.3.NĐ.6.2. Đối tượng áp dụng
 
+### 3400300000000000100000240264850031000010
 
-### Điều 34.3.QĐ.6.3. Giải thích từ ngữ
+Điều 34.3.NĐ.7.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 340030000000000010000024026485003100001000802792800050000100
 
-**Chỉ mục:** 3
+Điều 34.3.TT.65.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000350289350020000030
+### 3400300000000000100000240264850031000020
 
-**ID:** dk_00054751
+Điều 34.3.NĐ.7.2. Đối tượng áp dụng
 
----
+### 340030000000000010000024026485003100002000802792800050000200
 
+Điều 34.3.TT.65.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.2.1. Giải thích từ ngữ
+### 3400300000000000100000240265530069000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.8.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+### 3400300000000000100000240265530069000020
 
-**Mã phân cấp:** 3400300000000000100000380232690010000010
+Điều 34.3.NĐ.8.2. Đối tượng áp dụng
 
-**ID:** dk_00054752
+### 3400300000000000100000240290760086000020
 
----
+Điều 34.3.NĐ.11.2. Đối tượng áp dụng
 
+### 3400300000000000100000240292580259000010
 
-### Điều 34.3.TT.5.2. Giải thích từ ngữ
+Điều 34.3.NĐ.12.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000240292580259000020
 
-**Chỉ mục:** 2
+Điều 34.3.NĐ.12.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000380235210004000020
+### 3400300000000000100000250268920018000010
 
-**ID:** dk_00054753
+Điều 34.3.QĐ.3.1. Phạm vi điều chỉnh
 
----
+### 3400300000000000100000250268920018000020
 
+Điều 34.3.QĐ.3.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.6.2. Giải thích từ ngữ
+### 3400300000000000100000250270650031000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.QĐ.5.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+### 3400300000000000100000250270650031000020
 
-**Mã phân cấp:** 3400300000000000100000380236010015000020
+Điều 34.3.QĐ.5.2. Đối tượng áp dụng
 
-**ID:** dk_00054754
+### 3400300000000000100000280234020028000010
 
----
+Điều 34.3.TT.4.1. Phạm vi điều chỉnh
 
+### 3400300000000000100000280234020028000020
 
-### Điều 34.3.TT.8.1a. Giải thích từ ngữ
+Điều 34.3.TT.4.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280244240007750010
 
-**Chỉ mục:** 1a
+Điều 34.3.TT.8.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000380244240007750011
+### 3400300000000000100000280244970028000010
 
-**ID:** dk_00054755
+Điều 34.3.TT.10.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
----
+### 3400300000000000100000280249500034050010
 
+Điều 34.3.TT.12.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.15.2. Giải thích từ ngữ
+### 3400300000000000100000280252040027000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.14.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+### 3400300000000000100000280252040027000020
 
-**Mã phân cấp:** 3400300000000000100000380253220028750020
+Điều 34.3.TT.14.2. Đối tượng áp dụng
 
-**ID:** dk_00054756
+### 3400300000000000100000280253220028750010
 
----
+Điều 34.3.TT.15.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
+### 3400300000000000100000280254770011000010
 
-### Điều 34.3.TT.17.3. Giải thích từ ngữ
+Điều 34.3.TT.16.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280254770011000020
 
-**Chỉ mục:** 3
+Điều 34.3.TT.16.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000380255540028000030
+### 3400300000000000100000280255540028000010
 
-**ID:** dk_00054757
+Điều 34.3.TT.17.1. Phạm vi điều chỉnh
 
----
+### 3400300000000000100000280255540028000020
 
+Điều 34.3.TT.17.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.25.3. Giải thích từ ngữ
+### 3400300000000000100000280259510021000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.20.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 3
+### 3400300000000000100000280259640022000010
 
-**Mã phân cấp:** 3400300000000000100000380265110005000030
+Điều 34.3.TT.21.1. Phạm vi điều chỉnh và Đối tượng áp dụng
 
-**ID:** dk_00054758
+### 3400300000000000100000280261950016000010
 
----
+Điều 34.3.TT.22.1. Phạm vi điều chỉnh
 
+### 3400300000000000100000280261950016000020
 
-### Điều 34.3.TT.35.3. Giải thích từ ngữ
+Điều 34.3.TT.22.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280264760001000010
 
-**Chỉ mục:** 3
+Điều 34.3.TT.23.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000380267210038000030
+### 3400300000000000100000280264760001000020
 
-**ID:** dk_00054759
+Điều 34.3.TT.23.2. Đối tượng áp dụng
 
----
+### 3400300000000000100000280264760002000010
 
+Điều 34.3.TT.24.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.36.3. Giải thích từ ngữ
+### 3400300000000000100000280264760002000020
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.24.2. Đối tượng áp dụng
 
-**Chỉ mục:** 3
+### 3400300000000000100000280265110005000010
 
-**Mã phân cấp:** 3400300000000000100000380267210039000030
+Điều 34.3.TT.25.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054760
+### 3400300000000000100000280265110005000020
 
----
+Điều 34.3.TT.25.2. Đối tượng áp dụng
 
+### 3400300000000000100000280265140006850010
 
-### Điều 34.3.TT.43.3. Giải thích từ ngữ
+Điều 34.3.TT.27.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280265840012000010
 
-**Chỉ mục:** 3
+Điều 34.3.TT.30.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000380268050003000030
+### 3400300000000000100000280265840012000020
 
-**ID:** dk_00054761
+Điều 34.3.TT.30.2. Đối tượng áp dụng
 
----
+### 3400300000000000100000280265980015000010
 
+Điều 34.3.TT.31.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.48.3. Giải thích từ ngữ
+### 3400300000000000100000280265980015000020
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.31.2. Đối tượng áp dụng
 
-**Chỉ mục:** 3
+### 3400300000000000100000280267060011000010
 
-**Mã phân cấp:** 3400300000000000100000380269940012000030
+Điều 34.3.TT.34.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**ID:** dk_00054762
+### 3400300000000000100000280267210038000010
 
----
+Điều 34.3.TT.35.1. Phạm vi điều chỉnh
 
+### 3400300000000000100000280267210038000020
 
-### Điều 34.3.TT.49.3. Giải thích từ ngữ
+Điều 34.3.TT.35.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280267210039000010
 
-**Chỉ mục:** 3
+Điều 34.3.TT.36.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000380270560019000030
+### 3400300000000000100000280267210039000020
 
-**ID:** dk_00054763
+Điều 34.3.TT.36.2. Đối tượng áp dụng
 
----
+### 3400300000000000100000280267370044000010
 
+Điều 34.3.TT.37.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.50.3. Giải thích từ ngữ
+### 3400300000000000100000280267370044000020
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.37.2. Đối tượng áp dụng
 
-**Chỉ mục:** 3
+### 3400300000000000100000280267770038000010
 
-**Mã phân cấp:** 3400300000000000100000380270950021000030
+Điều 34.3.TT.38.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054764
+### 3400300000000000100000280267770038000020
 
----
+Điều 34.3.TT.38.2. Đối tượng áp dụng
 
+### 3400300000000000100000280267920001000010
 
-### Điều 34.3.TT.54.3. Giải thích từ ngữ
+Điều 34.3.TT.42.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280267920001000020
 
-**Chỉ mục:** 3
+Điều 34.3.TT.42.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000380271160037000030
+### 3400300000000000100000280268050003000010
 
-**ID:** dk_00054765
+Điều 34.3.TT.43.1. Phạm vi điều chỉnh
 
----
+### 3400300000000000100000280268050003000020
 
+Điều 34.3.TT.43.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.60.3. Giải thích từ ngữ
+### 3400300000000000100000280268670006000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.44.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 3
+### 3400300000000000100000280268920007000010
 
-**Mã phân cấp:** 3400300000000000100000380272470008000030
+Điều 34.3.TT.44.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054766
+### 3400300000000000100000280268920007000020
 
----
+Điều 34.3.TT.44.2. Đối tượng áp dụng
 
+### 3400300000000000100000280269600008000010
 
-### Điều 34.3.TT.63.3. Giải thích từ ngữ
+Điều 34.3.TT.46.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280269940011000010
 
-**Chỉ mục:** 3
+Điều 34.3.TT.47.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000380274790030000030
+### 3400300000000000100000280269940011000020
 
-**ID:** dk_00054767
+Điều 34.3.TT.47.2. Đối tượng áp dụng
 
----
+### 3400300000000000100000280269940012000010
 
+Điều 34.3.TT.48.1. Phạm vi điều chỉnh
 
-### Điều 34.3.TT.64.3. Giải thích từ ngữ
+### 3400300000000000100000280269940012000020
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.48.2. Đối tượng áp dụng
 
-**Chỉ mục:** 3
+### 3400300000000000100000280270560019000010
 
-**Mã phân cấp:** 3400300000000000100000380278160014000030
+Điều 34.3.TT.49.1. Phạm vi điều chỉnh
 
-**ID:** dk_00054768
+### 3400300000000000100000280270560019000020
 
----
+Điều 34.3.TT.49.2. Đối tượng áp dụng
 
+### 3400300000000000100000280270950021000010
 
-### Điều 34.3.TT.66.3. Giải thích từ ngữ
+Điều 34.3.TT.50.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280270950021000020
 
-**Chỉ mục:** 3
+Điều 34.3.TT.50.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3400300000000000100000380279610007000030
+### 3400300000000000100000280270990022000010
 
-**ID:** dk_00054769
+Điều 34.3.TT.51.1. Phạm vi điều chỉnh
 
----
+### 3400300000000000100000280270990022000020
 
+Điều 34.3.TT.51.2. Đối tượng áp dụng
 
-### Điều 34.3.TT.72.3. Giải thích từ ngữ
+### 3400300000000000100000280271020027000010
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.52.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 3
+### 3400300000000000100000280271020027000020
 
-**Mã phân cấp:** 3400300000000000100000380291100026000030
+Điều 34.3.TT.52.2. Đối tượng áp dụng
 
-**ID:** dk_00054770
+### 3400300000000000100000280271090033000010
 
----
+Điều 34.3.TT.53.1. Phạm vi điều chỉnh
 
+### 3400300000000000100000280271090033000020
 
-### Điều 34.3.TT.73.3. Giải thích từ ngữ
+Điều 34.3.TT.53.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 3400300000000000100000280271160037000010
 
-**Chỉ mục:** 3
+Điều 34.3.TT.54.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3400300000000000100000380292270049000030
+### 3400300000000000100000280271160037000020
 
-**ID:** dk_00054771
+Điều 34.3.TT.54.2. Đối tượng áp dụng
 
----
+### 3400300000000000100000280271700003000010
 
+Điều 34.3.TT.57.1. Phạm vi điều chỉnh
 
-### Điều 34.3.LQ.4. Nguyên tắc quản lý nhà nước về ngoại thương
+### 3400300000000000100000280271700003000020
+
+Điều 34.3.TT.57.2. Đối tượng áp dụng
+
+### 3400300000000000100000280271700004000010
+
+Điều 34.3.TT.58.1. Phạm vi điều chỉnh
+
+### 3400300000000000100000280271700004000020
+
+Điều 34.3.TT.58.2. Đối tượng áp dụng
+
+### 3400300000000000100000280272380002000010
+
+Điều 34.3.TT.59.1. Phạm vi điều chỉnh
+
+### 3400300000000000100000280272380002000020
+
+Điều 34.3.TT.59.2. Đối tượng áp dụng
+
+### 3400300000000000100000280272470008000010
+
+Điều 34.3.TT.60.1. Phạm vi điều chỉnh
+
+### 3400300000000000100000280272470008000020
+
+Điều 34.3.TT.60.2. Đối tượng áp dụng
+
+### 3400300000000000100000280272830009000010
+
+Điều 34.3.TT.61.1. Phạm vi điều chỉnh
+
+### 3400300000000000100000280272830009000020
+
+Điều 34.3.TT.61.2. Đối tượng áp dụng
+
+### 3400300000000000100000280274790030000020
+
+Điều 34.3.TT.63.2. Đối tượng áp dụng
+
+### 3400300000000000100000280278160014000020
+
+Điều 34.3.TT.64.2. Đối tượng áp dụng
+
+### 3400300000000000100000280279610007000020
+
+Điều 34.3.TT.66.2. Đối tượng áp dụng
+
+### 3400300000000000100000280291100026000020
+
+Điều 34.3.TT.72.2. Đối tượng áp dụng
+
+### 3400300000000000100000280292270049000010
+
+Điều 34.3.TT.73.1. Phạm vi điều chỉnh
+
+### 3400300000000000100000280292270049000020
+
+Điều 34.3.TT.73.2. Đối tượng áp dụng
+
+### 3400300000000000100000300000000000000000
+
+Điều 34.3.LQ.3. Giải thích từ ngữ
+
+### 340030000000000010000030000000000000000000402855000770000300
+
+Điều 34.3.NĐ.9.3. Giải thích từ ngữ
+
+### 3400300000000000100000340225510090000030
+
+Điều 34.3.NĐ.1.3. Giải thích từ ngữ
+
+### 3400300000000000100000340243290032000030
+
+Điều 34.3.NĐ.2.3. Giải thích từ ngữ
+
+### 3400300000000000100000340264330009000030
+
+Điều 34.3.NĐ.3.3. Giải thích từ ngữ
+
+### 3400300000000000100000340264330010000030
+
+Điều 34.3.NĐ.4.3. Giải thích từ ngữ
+
+### 3400300000000000100000340264410014000030
+
+Điều 34.3.NĐ.5.3. Giải thích từ ngữ
+
+### 3400300000000000100000340264850031000030
+
+Điều 34.3.NĐ.7.3. Giải thích từ ngữ
+
+### 340030000000000010000034026485003100003000802792800050000300
+
+Điều 34.3.TT.65.3. Giải thích từ ngữ
+
+### 3400300000000000100000340290760086000030
+
+Điều 34.3.NĐ.11.3. Giải thích từ ngữ
+
+### 3400300000000000100000340292580259000030
+
+Điều 34.3.NĐ.12.3. Giải thích từ ngữ
+
+### 3400300000000000100000350268920018000030
+
+Điều 34.3.QĐ.3.3. Giải thích từ ngữ
+
+### 3400300000000000100000350270650031000030
+
+Điều 34.3.QĐ.5.3. Giải thích từ ngữ
+
+### 3400300000000000100000350289350020000030
+
+Điều 34.3.QĐ.6.3. Giải thích từ ngữ
+
+### 3400300000000000100000380232690010000010
+
+Điều 34.3.TT.2.1. Giải thích từ ngữ
+
+### 3400300000000000100000380235210004000020
+
+Điều 34.3.TT.5.2. Giải thích từ ngữ
+
+### 3400300000000000100000380236010015000020
+
+Điều 34.3.TT.6.2. Giải thích từ ngữ
+
+### 3400300000000000100000380244240007750011
+
+Điều 34.3.TT.8.1a. Giải thích từ ngữ
+
+### 3400300000000000100000380253220028750020
+
+Điều 34.3.TT.15.2. Giải thích từ ngữ
+
+### 3400300000000000100000380255540028000030
+
+Điều 34.3.TT.17.3. Giải thích từ ngữ
+
+### 3400300000000000100000380265110005000030
+
+Điều 34.3.TT.25.3. Giải thích từ ngữ
+
+### 3400300000000000100000380267210038000030
+
+Điều 34.3.TT.35.3. Giải thích từ ngữ
+
+### 3400300000000000100000380267210039000030
+
+Điều 34.3.TT.36.3. Giải thích từ ngữ
+
+### 3400300000000000100000380268050003000030
+
+Điều 34.3.TT.43.3. Giải thích từ ngữ
+
+### 3400300000000000100000380269940012000030
+
+Điều 34.3.TT.48.3. Giải thích từ ngữ
+
+### 3400300000000000100000380270560019000030
+
+Điều 34.3.TT.49.3. Giải thích từ ngữ
+
+### 3400300000000000100000380270950021000030
+
+Điều 34.3.TT.50.3. Giải thích từ ngữ
+
+### 3400300000000000100000380271160037000030
+
+Điều 34.3.TT.54.3. Giải thích từ ngữ
+
+### 3400300000000000100000380272470008000030
+
+Điều 34.3.TT.60.3. Giải thích từ ngữ
+
+### 3400300000000000100000380274790030000030
+
+Điều 34.3.TT.63.3. Giải thích từ ngữ
+
+### 3400300000000000100000380278160014000030
+
+Điều 34.3.TT.64.3. Giải thích từ ngữ
+
+### 3400300000000000100000380279610007000030
+
+Điều 34.3.TT.66.3. Giải thích từ ngữ
+
+### 3400300000000000100000380291100026000030
+
+Điều 34.3.TT.72.3. Giải thích từ ngữ
+
+### 3400300000000000100000380292270049000030
+
+Điều 34.3.TT.73.3. Giải thích từ ngữ
+
+### 3400300000000000100000400000000000000000
 
 Điều 34.3.LQ.4. Nguyên tắc quản lý nhà nước về ngoại thương
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000100000400000000000000000
-
-**ID:** dk_00054772
-
----
-
-
-### Điều 34.3.LQ.5. Quyền tự do kinh doanh xuất khẩu, nhập khẩu
+### 3400300000000000100000500000000000000000
 
 Điều 34.3.LQ.5. Quyền tự do kinh doanh xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000100000500000000000000000
-
-**ID:** dk_00054773
-
----
-
-
-### Điều 34.3.NĐ.1.4. Phạm vi hoạt động xuất khẩu, nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam
+### 340030000000000010000050000000000000000000402255100900000400
 
 Điều 34.3.NĐ.1.4. Phạm vi hoạt động xuất khẩu, nhập khẩu của thương nhân nước ngoài không có hiện diện tại Việt Nam
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900000400
-
-**ID:** dk_00054774
-
----
-
-
-### Điều 34.3.NĐ.1.5. Trách nhiệm của thương nhân nước ngoài không có hiện diện tại Việt Nam.
+### 340030000000000010000050000000000000000000402255100900000500
 
 Điều 34.3.NĐ.1.5. Trách nhiệm của thương nhân nước ngoài không có hiện diện tại Việt Nam.
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900000500
-
-**ID:** dk_00054775
-
----
-
-
-### Điều 34.3.NĐ.1.6. Thẩm quyền cấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900000600
 
 Điều 34.3.NĐ.1.6. Thẩm quyền cấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 6
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000200
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900000600
+Điều 34.3.TT.10.2. Thực hiện quyền xuất khẩu
 
-**ID:** dk_00054776
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000300
 
----
+Điều 34.3.TT.10.3. Thực hiện quyền nhập khẩu
 
-
-### Điều 34.3.TT.10.2. Thực hiện quyền xuất khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000200
-
-**ID:** dk_00054777
-
----
-
-
-### Điều 34.3.TT.10.3. Thực hiện quyền nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000300
-
-**ID:** dk_00054778
-
----
-
-
-### Điều 34.3.TT.10.4. Thủ tục cấp, cấp lại, sửa đổi, bổ sung, gia hạn
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000400
 
 Điều 34.3.TT.10.4. Thủ tục cấp, cấp lại, sửa đổi, bổ sung, gia hạn
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000400
-
-**ID:** dk_00054779
-
----
-
-
-### Điều 34.3.TT.10.5. Hồ sơ cấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000500
 
 Điều 34.3.TT.10.5. Hồ sơ cấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000500
-
-**ID:** dk_00054780
-
----
-
-
-### Điều 34.3.TT.10.6. Hồ sơ sửa đổi, bổ sung, cấp lại Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000600
 
 Điều 34.3.TT.10.6. Hồ sơ sửa đổi, bổ sung, cấp lại Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000600
-
-**ID:** dk_00054781
-
----
-
-
-### Điều 34.3.TT.10.7. Hồ sơ gia hạn Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000700
 
 Điều 34.3.TT.10.7. Hồ sơ gia hạn Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000700
-
-**ID:** dk_00054782
-
----
-
-
-### Điều 34.3.TT.10.8. Gia hạn và sửa đổi, bổ sung Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000800
 
 Điều 34.3.TT.10.8. Gia hạn và sửa đổi, bổ sung Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000800
-
-**ID:** dk_00054783
-
----
-
-
-### Điều 34.3.TT.10.9. Chấm dứt quyền xuất khẩu, quyền nhập khẩu tại Việt Nam
+### 34003000000000001000005000000000000000000040225510090000060000802449700280000900
 
 Điều 34.3.TT.10.9. Chấm dứt quyền xuất khẩu, quyền nhập khẩu tại Việt Nam
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280000900
-
-**ID:** dk_00054784
-
----
-
-
-### Điều 34.3.TT.10.10. Thu hồi Giấy chứng nhận quyền xuất khẩu, quyền nhập khẩu
+### 34003000000000001000005000000000000000000040225510090000060000802449700280001000
 
 Điều 34.3.TT.10.10. Thu hồi Giấy chứng nhận quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 10
+### 34003000000000001000005000000000000000000040225510090000060000802449700280001100
 
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280001000
+Điều 34.3.TT.10.11. Thông báo hoạt động
 
-**ID:** dk_00054785
-
----
-
-
-### Điều 34.3.TT.10.11. Thông báo hoạt động
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280001100
-
-**ID:** dk_00054786
-
----
-
-
-### Điều 34.3.TT.10.12. Báo cáo hoạt động định kỳ và đột xuất
+### 34003000000000001000005000000000000000000040225510090000060000802449700280001200
 
 Điều 34.3.TT.10.12. Báo cáo hoạt động định kỳ và đột xuất
 
-**Chỉ mục:** 12
+### 34003000000000001000005000000000000000000040225510090000060000802449700280001300
 
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280001200
+Điều 34.3.TT.10.13. Trách nhiệm thi hành
 
-**ID:** dk_00054787
-
----
-
-
-### Điều 34.3.TT.10.13. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040225510090000060000802449700280001300
-
-**ID:** dk_00054788
-
----
-
-
-### Điều 34.3.NĐ.1.7. Điều kiện đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900000700
 
 Điều 34.3.NĐ.1.7. Điều kiện đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900000700
-
-**ID:** dk_00054789
-
----
-
-
-### Điều 34.3.NĐ.1.8. Hồ sơ đề nghị cấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900000800
 
 Điều 34.3.NĐ.1.8. Hồ sơ đề nghị cấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900000800
-
-**ID:** dk_00054790
-
----
-
-
-### Điều 34.3.NĐ.1.9. Thời hạncấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900000900
 
 Điều 34.3.NĐ.1.9. Thời hạncấp Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900000900
-
-**ID:** dk_00054791
-
----
-
-
-### Điều 34.3.NĐ.1.10. Nội dung và thời hạn của Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900001000
 
 Điều 34.3.NĐ.1.10. Nội dung và thời hạn của Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001000
-
-**ID:** dk_00054792
-
----
-
-
-### Điều 34.3.NĐ.1.11. Thực hiện quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900001100
 
 Điều 34.3.NĐ.1.11. Thực hiện quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001100
-
-**ID:** dk_00054793
-
----
-
-
-### Điều 34.3.NĐ.1.12. Sửa đổi, bổ sung, cấp lại Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900001200
 
 Điều 34.3.NĐ.1.12. Sửa đổi, bổ sung, cấp lại Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001200
-
-**ID:** dk_00054794
-
----
-
-
-### Điều 34.3.NĐ.1.13. Gia hạn Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
+### 340030000000000010000050000000000000000000402255100900001300
 
 Điều 34.3.NĐ.1.13. Gia hạn Giấy chứng nhận đăng ký quyền xuất khẩu, quyền nhập khẩu
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001300
-
-**ID:** dk_00054795
-
----
-
-
-### Điều 34.3.NĐ.1.14. Chấm dứt quyền xuất khẩu, quyền nhập khẩu tại Việt Nam
+### 340030000000000010000050000000000000000000402255100900001400
 
 Điều 34.3.NĐ.1.14. Chấm dứt quyền xuất khẩu, quyền nhập khẩu tại Việt Nam
 
-**Chỉ mục:** 14
+### 340030000000000010000050000000000000000000402255100900001500
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001400
+Điều 34.3.NĐ.1.15. Xử lý vi phạm
 
-**ID:** dk_00054796
+### 340030000000000010000050000000000000000000402255100900001600
 
----
+Điều 34.3.NĐ.1.16. Giải quyết khiếu nại, tố cáo
 
-
-### Điều 34.3.NĐ.1.15. Xử lý vi phạm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001500
-
-**ID:** dk_00054797
-
----
-
-
-### Điều 34.3.NĐ.1.16. Giải quyết khiếu nại, tố cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402255100900001600
-
-**ID:** dk_00054798
-
----
-
-
-### Điều 34.3.NĐ.3.4. Áp dụng điều ước quốc tế và pháp luật có liên quan
+### 340030000000000010000050000000000000000000402643300090000400
 
 Điều 34.3.NĐ.3.4. Áp dụng điều ước quốc tế và pháp luật có liên quan
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090000400
-
-**ID:** dk_00054799
-
----
-
-
-### Điều 34.3.NĐ.3.5. Cấp Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090000500
 
 Điều 34.3.NĐ.3.5. Cấp Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090000500
-
-**ID:** dk_00054800
-
----
-
-
-### Điều 34.3.NĐ.3.6. Các trường hợp không phải cấp Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090000600
 
 Điều 34.3.NĐ.3.6. Các trường hợp không phải cấp Giấy phép kinh doanh
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090000600
-
-**ID:** dk_00054801
-
----
-
-
-### Điều 34.3.NĐ.3.7. Thực hiện hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa
+### 340030000000000010000050000000000000000000402643300090000700
 
 Điều 34.3.NĐ.3.7. Thực hiện hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090000700
-
-**ID:** dk_00054802
-
----
-
-
-### Điều 34.3.TT.12.2. Thực hiện quyền xuất khẩu, quyền nhập khẩu, quyền phân phối của doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam
+### 34003000000000001000005000000000000000000040264330009000070000802495000340500200
 
 Điều 34.3.TT.12.2. Thực hiện quyền xuất khẩu, quyền nhập khẩu, quyền phân phối của doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040264330009000070000802495000340500200
-
-**ID:** dk_00054803
-
----
-
-
-### Điều 34.3.TT.12.3. Nguyên tắc sử dụng danh mục hàng hóa
+### 34003000000000001000005000000000000000000040264330009000070000802495000340500300
 
 Điều 34.3.TT.12.3. Nguyên tắc sử dụng danh mục hàng hóa
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 34003000000000001000005000000000000000000040264330009000070000802495000340500300
-
-**ID:** dk_00054804
-
----
-
-
-### Điều 34.3.NĐ.3.8. Cơ quan cấp Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090000800
 
 Điều 34.3.NĐ.3.8. Cơ quan cấp Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090000800
-
-**ID:** dk_00054805
-
----
-
-
-### Điều 34.3.NĐ.3.9. Điều kiện cấp Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090000900
 
 Điều 34.3.NĐ.3.9. Điều kiện cấp Giấy phép kinh doanh
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090000900
-
-**ID:** dk_00054806
-
----
-
-
-### Điều 34.3.NĐ.3.10. Căn cứ xem xét chấp thuận cấp Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090001000
 
 Điều 34.3.NĐ.3.10. Căn cứ xem xét chấp thuận cấp Giấy phép kinh doanh
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001000
-
-**ID:** dk_00054807
-
----
-
-
-### Điều 34.3.NĐ.3.11. Nội dung Giấy phép kinh doanh, thời hạn kinh doanh
+### 340030000000000010000050000000000000000000402643300090001100
 
 Điều 34.3.NĐ.3.11. Nội dung Giấy phép kinh doanh, thời hạn kinh doanh
 
-**Chỉ mục:** 11
+### 340030000000000010000050000000000000000000402643300090001200
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001100
+Điều 34.3.NĐ.3.12. Hồ sơ cấp Giấy phép kinh doanh
 
-**ID:** dk_00054808
-
----
-
-
-### Điều 34.3.NĐ.3.12. Hồ sơ cấp Giấy phép kinh doanh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001200
-
-**ID:** dk_00054809
-
----
-
-
-### Điều 34.3.NĐ.3.13. Trình tự cấp Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090001300
 
 Điều 34.3.NĐ.3.13. Trình tự cấp Giấy phép kinh doanh
 
-**Chỉ mục:** 13
+### 340030000000000010000050000000000000000000402643300090001400
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001300
+Điều 34.3.NĐ.3.14. Điều chỉnh Giấy phép kinh doanh
 
-**ID:** dk_00054810
-
----
-
-
-### Điều 34.3.NĐ.3.14. Điều chỉnh Giấy phép kinh doanh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001400
-
-**ID:** dk_00054811
-
----
-
-
-### Điều 34.3.NĐ.3.15. Hồ sơ điều chỉnh Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090001500
 
 Điều 34.3.NĐ.3.15. Hồ sơ điều chỉnh Giấy phép kinh doanh
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001500
-
-**ID:** dk_00054812
-
----
-
-
-### Điều 34.3.NĐ.3.16. Trình tự điều chỉnh Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090001600
 
 Điều 34.3.NĐ.3.16. Trình tự điều chỉnh Giấy phép kinh doanh
 
-**Chỉ mục:** 16
+### 340030000000000010000050000000000000000000402643300090001700
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001600
+Điều 34.3.NĐ.3.17. Cấp lại Giấy phép kinh doanh
 
-**ID:** dk_00054813
-
----
-
-
-### Điều 34.3.NĐ.3.17. Cấp lại Giấy phép kinh doanh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001700
-
-**ID:** dk_00054814
-
----
-
-
-### Điều 34.3.NĐ.3.18. Hồ sơ cấp lại Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090001800
 
 Điều 34.3.NĐ.3.18. Hồ sơ cấp lại Giấy phép kinh doanh
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001800
-
-**ID:** dk_00054815
-
----
-
-
-### Điều 34.3.NĐ.3.19. Trình tự cấp lại Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090001900
 
 Điều 34.3.NĐ.3.19. Trình tự cấp lại Giấy phép kinh doanh
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090001900
-
-**ID:** dk_00054816
-
----
-
-
-### Điều 34.3.NĐ.3.20. Hồ sơ, trình tự cấp Giấy phép kinh doanh đồng thời với Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090002000
 
 Điều 34.3.NĐ.3.20. Hồ sơ, trình tự cấp Giấy phép kinh doanh đồng thời với Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002000
-
-**ID:** dk_00054817
-
----
-
-
-### Điều 34.3.NĐ.3.21. Từ chối cấp Giấy phép kinh doanh
+### 340030000000000010000050000000000000000000402643300090002100
 
 Điều 34.3.NĐ.3.21. Từ chối cấp Giấy phép kinh doanh
 
-**Chỉ mục:** 21
+### 340030000000000010000050000000000000000000402643300090002200
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002100
+Điều 34.3.NĐ.3.22. Điều kiện lập cơ sở bán lẻ
 
-**ID:** dk_00054818
+### 340030000000000010000050000000000000000000402643300090002300
 
----
+Điều 34.3.NĐ.3.23. Kiểm tra nhu cầu kinh tế (ENT)
 
-
-### Điều 34.3.NĐ.3.22. Điều kiện lập cơ sở bán lẻ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002200
-
-**ID:** dk_00054819
-
----
-
-
-### Điều 34.3.NĐ.3.23. Kiểm tra nhu cầu kinh tế (ENT)
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002300
-
-**ID:** dk_00054820
-
----
-
-
-### Điều 34.3.NĐ.3.24. Hội đồng Kiểm tra nhu cầu kinh tế (Hội đồng ENT)
+### 340030000000000010000050000000000000000000402643300090002400
 
 Điều 34.3.NĐ.3.24. Hội đồng Kiểm tra nhu cầu kinh tế (Hội đồng ENT)
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002400
-
-**ID:** dk_00054821
-
----
-
-
-### Điều 34.3.NĐ.3.25. Căn cứ xem xét chấp thuận cấp Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090002500
 
 Điều 34.3.NĐ.3.25. Căn cứ xem xét chấp thuận cấp Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002500
-
-**ID:** dk_00054822
-
----
-
-
-### Điều 34.3.NĐ.3.26. Nội dung, thời hạn Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090002600
 
 Điều 34.3.NĐ.3.26. Nội dung, thời hạn Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002600
-
-**ID:** dk_00054823
-
----
-
-
-### Điều 34.3.NĐ.3.27. Hồ sơ cấp Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090002700
 
 Điều 34.3.NĐ.3.27. Hồ sơ cấp Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002700
-
-**ID:** dk_00054824
-
----
-
-
-### Điều 34.3.NĐ.3.28. Trình tự cấp Giấy phép lập cơ sở bán lẻ thứ nhất, cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất thuộctrường hợp không phải thực hiện thủ tục ENT
+### 340030000000000010000050000000000000000000402643300090002800
 
 Điều 34.3.NĐ.3.28. Trình tự cấp Giấy phép lập cơ sở bán lẻ thứ nhất, cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất thuộctrường hợp không phải thực hiện thủ tục ENT
 
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002800
-
-**ID:** dk_00054825
-
----
-
-
-### Điều 34.3.NĐ.3.29. Trình tự cấp Giấy phép lập cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhấtthuộc trường hợp phải thực hiện ENT
+### 340030000000000010000050000000000000000000402643300090002900
 
 Điều 34.3.NĐ.3.29. Trình tự cấp Giấy phép lập cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhấtthuộc trường hợp phải thực hiện ENT
 
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090002900
-
-**ID:** dk_00054826
-
----
-
-
-### Điều 34.3.NĐ.3.30. Điều chỉnh Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003000
 
 Điều 34.3.NĐ.3.30. Điều chỉnh Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003000
-
-**ID:** dk_00054827
-
----
-
-
-### Điều 34.3.NĐ.3.31. Hồ sơ điều chỉnh Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003100
 
 Điều 34.3.NĐ.3.31. Hồ sơ điều chỉnh Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003100
-
-**ID:** dk_00054828
-
----
-
-
-### Điều 34.3.NĐ.3.32. Trình tự điều chỉnh Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003200
 
 Điều 34.3.NĐ.3.32. Trình tự điều chỉnh Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003200
-
-**ID:** dk_00054829
-
----
-
-
-### Điều 34.3.NĐ.3.33. Cấp lại Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003300
 
 Điều 34.3.NĐ.3.33. Cấp lại Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003300
-
-**ID:** dk_00054830
-
----
-
-
-### Điều 34.3.NĐ.3.34. Hồ sơ cấp lại Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003400
 
 Điều 34.3.NĐ.3.34. Hồ sơ cấp lại Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003400
-
-**ID:** dk_00054831
-
----
-
-
-### Điều 34.3.NĐ.3.35. Trình tự cấp lại Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003500
 
 Điều 34.3.NĐ.3.35. Trình tự cấp lại Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003500
-
-**ID:** dk_00054832
-
----
-
-
-### Điều 34.3.NĐ.3.36. Hồ sơ gia hạn Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003600
 
 Điều 34.3.NĐ.3.36. Hồ sơ gia hạn Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003600
-
-**ID:** dk_00054833
-
----
-
-
-### Điều 34.3.NĐ.3.37. Trình tự gia hạn Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003700
 
 Điều 34.3.NĐ.3.37. Trình tự gia hạn Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003700
-
-**ID:** dk_00054834
-
----
-
-
-### Điều 34.3.NĐ.3.38. Hồ sơ, trình tự cấp Giấy phép lập cơ sở bán lẻ cho phép cơ sở bán lẻ được tiếp tục hoạt động
+### 340030000000000010000050000000000000000000402643300090003800
 
 Điều 34.3.NĐ.3.38. Hồ sơ, trình tự cấp Giấy phép lập cơ sở bán lẻ cho phép cơ sở bán lẻ được tiếp tục hoạt động
 
-**Chỉ mục:** 38
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003800
-
-**ID:** dk_00054835
-
----
-
-
-### Điều 34.3.NĐ.3.39. Từ chối cấp, gia hạn Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090003900
 
 Điều 34.3.NĐ.3.39. Từ chối cấp, gia hạn Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 39
+### 340030000000000010000050000000000000000000402643300090004000
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090003900
+Điều 34.3.NĐ.3.40. Chế độ báo cáo
 
-**ID:** dk_00054836
-
----
-
-
-### Điều 34.3.NĐ.3.40. Chế độ báo cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004000
-
-**ID:** dk_00054837
-
----
-
-
-### Điều 34.3.NĐ.3.41. Gửi, lưu trữ Giấy phép và công bố thông tin
+### 340030000000000010000050000000000000000000402643300090004100
 
 Điều 34.3.NĐ.3.41. Gửi, lưu trữ Giấy phép và công bố thông tin
 
-**Chỉ mục:** 41
+### 340030000000000010000050000000000000000000402643300090004200
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004100
+Điều 34.3.NĐ.3.42. Xử lý vi phạm
 
-**ID:** dk_00054838
-
----
-
-
-### Điều 34.3.NĐ.3.42. Xử lý vi phạm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 42
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004200
-
-**ID:** dk_00054839
-
----
-
-
-### Điều 34.3.NĐ.3.43. Thu hồi Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ
+### 340030000000000010000050000000000000000000402643300090004300
 
 Điều 34.3.NĐ.3.43. Thu hồi Giấy phép kinh doanh, Giấy phép lập cơ sở bán lẻ
 
-**Chỉ mục:** 43
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004300
-
-**ID:** dk_00054840
-
----
-
-
-### Điều 34.3.NĐ.3.44. Tạm ngừng hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa
+### 340030000000000010000050000000000000000000402643300090004400
 
 Điều 34.3.NĐ.3.44. Tạm ngừng hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa
 
-**Chỉ mục:** 44
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004400
-
-**ID:** dk_00054841
-
----
-
-
-### Điều 34.3.NĐ.3.45. Chấm dứt hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa
+### 340030000000000010000050000000000000000000402643300090004500
 
 Điều 34.3.NĐ.3.45. Chấm dứt hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa
 
-**Chỉ mục:** 45
+### 340030000000000010000050000000000000000000402643300090004600
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004500
+Điều 34.3.NĐ.3.46. Trách nhiệm của Bộ Công Thương
 
-**ID:** dk_00054842
-
----
-
-
-### Điều 34.3.NĐ.3.46. Trách nhiệm của Bộ Công Thương
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 46
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004600
-
-**ID:** dk_00054843
-
----
-
-
-### Điều 34.3.NĐ.3.47. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+### 340030000000000010000050000000000000000000402643300090004700
 
 Điều 34.3.NĐ.3.47. Trách nhiệm của Bộ Kế hoạch và Đầu tư
 
-**Chỉ mục:** 47
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004700
-
-**ID:** dk_00054844
-
----
-
-
-### Điều 34.3.NĐ.3.48. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+### 340030000000000010000050000000000000000000402643300090004800
 
 Điều 34.3.NĐ.3.48. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 48
+### 340030000000000010000050000000000000000000402643300090004900
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004800
+Điều 34.3.NĐ.3.49. Trách nhiệm của Sở Công Thương
 
-**ID:** dk_00054845
-
----
-
-
-### Điều 34.3.NĐ.3.49. Trách nhiệm của Sở Công Thương
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 49
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402643300090004900
-
-**ID:** dk_00054846
-
----
-
-
-### Điều 34.3.NĐ.8.3. Quyền tự do kinh doanh xuất khẩu, nhập khẩu
+### 340030000000000010000050000000000000000000402655300690000300
 
 Điều 34.3.NĐ.8.3. Quyền tự do kinh doanh xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 3
+### 340030000000000010000050000000000000000000402655300690000400
 
-**Mã phân cấp:** 340030000000000010000050000000000000000000402655300690000300
+Điều 34.3.NĐ.8.4. Thủ tục xuất khẩu, nhập khẩu
 
-**ID:** dk_00054847
-
----
-
-
-### Điều 34.3.NĐ.8.4. Thủ tục xuất khẩu, nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000010000050000000000000000000402655300690000400
-
-**ID:** dk_00054848
-
----
-
-
-### Điều 34.3.LQ.6. Trách nhiệm quản lý nhà nước về ngoại thương
+### 3400300000000000100000600000000000000000
 
 Điều 34.3.LQ.6. Trách nhiệm quản lý nhà nước về ngoại thương
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000100000600000000000000000
-
-**ID:** dk_00054849
-
----
-
-
-### Điều 34.3.NĐ.8.71. Trách nhiệm của thương nhân hoạt động ngoại thương
+### 340030000000000010000060000000000000000000402655300690007100
 
 Điều 34.3.NĐ.8.71. Trách nhiệm của thương nhân hoạt động ngoại thương
 
-**Chỉ mục:** 71
-
-**Mã phân cấp:** 340030000000000010000060000000000000000000402655300690007100
-
-**ID:** dk_00054850
-
----
-
-
-### Điều 34.3.LQ.7. Các hành vi bị nghiêm cấm trong quản lý ngoại thương
+### 3400300000000000100000700000000000000000
 
 Điều 34.3.LQ.7. Các hành vi bị nghiêm cấm trong quản lý ngoại thương
 
-**Chỉ mục:** 7
+### 34003000000000002000
 
-**Mã phân cấp:** 3400300000000000100000700000000000000000
+Chương II CÁC BIỆN PHÁP HÀNH CHÍNH
 
-**ID:** dk_00054851
+### 3400300000000000200000100000000000000000
 
----
+Mục 1 CẤM XUẤT KHẨU, CẤM NHẬP KHẨU, TẠM NGỪNG XUẤT KHẨU, TẠM NGỪNG NHẬP KHẨU
 
+### 340030000000000020000010000000000000000000100000000000000000
 
-### Tiểu mục 1 CẤM XUẤT KHẨU, CẤM NHẬP KHẨU
+Tiểu mục 1 CẤM XUẤT KHẨU, CẤM NHẬP KHẨU
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 340030000000000020000010000000000000000000100000000000000000
-
-**ID:** dk_00054854
-
----
-
-
-### Điều 34.3.LQ.8. Biện pháp cấm xuất khẩu, cấm nhập khẩu
+### 34003000000000002000001000000000000000000010000000000000000000800000000000000000
 
 Điều 34.3.LQ.8. Biện pháp cấm xuất khẩu, cấm nhập khẩu
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000001000000000000000000010000000000000000000800000000000000000
-
-**ID:** dk_00054855
-
----
-
-
-### Điều 34.3.LQ.9. Áp dụng biện pháp cấm xuất khẩu, cấm nhập khẩu
+### 34003000000000002000001000000000000000000010000000000000000000900000000000000000
 
 Điều 34.3.LQ.9. Áp dụng biện pháp cấm xuất khẩu, cấm nhập khẩu
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000002000001000000000000000000010000000000000000000900000000000000000
-
-**ID:** dk_00054856
-
----
-
-
-### Điều 34.3.LQ.10. Danh mục hàng hóa cấm xuất khẩu, cấm nhập khẩu
+### 34003000000000002000001000000000000000000010000000000000000001000000000000000000
 
 Điều 34.3.LQ.10. Danh mục hàng hóa cấm xuất khẩu, cấm nhập khẩu
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000002000001000000000000000000010000000000000000001000000000000000000
-
-**ID:** dk_00054857
-
----
-
-
-### Điều 34.3.NĐ.8.5. Hàng hóa cấm xuất khẩu, cấm nhập khẩu
+### 3400300000000000200000100000000000000000001000000000000000000100000000000000000000402655300690000500
 
 Điều 34.3.NĐ.8.5. Hàng hóa cấm xuất khẩu, cấm nhập khẩu
 
-**Chỉ mục:** 5
+### 340030000000000020000010000000000000000000100000000000000000010000000000000000000040265530069000050000802658400120000300
 
-**Mã phân cấp:** 3400300000000000200000100000000000000000001000000000000000000100000000000000000000402655300690000500
+Điều 34.3.TT.30.3. Danh mục hàng hóa cấm nhập khẩu
 
-**ID:** dk_00054858
-
----
-
-
-### Điều 34.3.TT.30.3. Danh mục hàng hóa cấm nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000010000000000000000000100000000000000000010000000000000000000040265530069000050000802658400120000300
-
-**ID:** dk_00054859
-
----
-
-
-### Điều 34.3.TT.34.2. Nguyên tắc xây dựng và quy định áp dụng Danh mục cấm nhập khẩu
+### 340030000000000020000010000000000000000000100000000000000000010000000000000000000040265530069000050000802670600110000200
 
 Điều 34.3.TT.34.2. Nguyên tắc xây dựng và quy định áp dụng Danh mục cấm nhập khẩu
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 340030000000000020000010000000000000000000100000000000000000010000000000000000000040265530069000050000802670600110000200
-
-**ID:** dk_00054860
-
----
-
-
-### Tiểu mục 2 TẠM NGỪNG XUẤT KHẨU, TẠM NGỪNG NHẬP KHẨU
+### 340030000000000020000010000000000000000000200000000000000000
 
 Tiểu mục 2 TẠM NGỪNG XUẤT KHẨU, TẠM NGỪNG NHẬP KHẨU
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 340030000000000020000010000000000000000000200000000000000000
-
-**ID:** dk_00054861
-
----
-
-
-### Điều 34.3.LQ.11. Biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu
+### 34003000000000002000001000000000000000000020000000000000000001100000000000000000
 
 Điều 34.3.LQ.11. Biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000002000001000000000000000000020000000000000000001100000000000000000
-
-**ID:** dk_00054862
-
----
-
-
-### Điều 34.3.LQ.12. Áp dụng biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu
+### 34003000000000002000001000000000000000000020000000000000000001200000000000000000
 
 Điều 34.3.LQ.12. Áp dụng biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000002000001000000000000000000020000000000000000001200000000000000000
-
-**ID:** dk_00054863
-
----
-
-
-### Điều 34.3.LQ.13. Thẩm quyền áp dụng biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu
+### 34003000000000002000001000000000000000000020000000000000000001300000000000000000
 
 Điều 34.3.LQ.13. Thẩm quyền áp dụng biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu
 
-**Chỉ mục:** 13
+### 34003000000000002000001000000000000000000020000000000000000001400000000000000000
 
-**Mã phân cấp:** 34003000000000002000001000000000000000000020000000000000000001300000000000000000
+Điều 34.3.LQ.14. Các trường hợp ngoại lệ
 
-**ID:** dk_00054864
-
----
-
-
-### Điều 34.3.LQ.14. Các trường hợp ngoại lệ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000002000001000000000000000000020000000000000000001400000000000000000
-
-**ID:** dk_00054865
-
----
-
-
-### Điều 34.3.NĐ.8.9. Hồ sơ, quy trình cấp giấy phép xuất khẩu, nhập khẩu
+### 3400300000000000200000100000000000000000002000000000000000000140000000000000000000402655300690000900
 
 Điều 34.3.NĐ.8.9. Hồ sơ, quy trình cấp giấy phép xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 9
+### 3400300000000000200000200000000000000000
 
-**Mã phân cấp:** 3400300000000000200000100000000000000000002000000000000000000140000000000000000000402655300690000900
+Mục 2 HẠN CHẾ XUẤT KHẨU, HẠN CHẾ NHẬP KHẨU
 
-**ID:** dk_00054866
+### 340030000000000020000020000000000000000000100000000000000000
 
----
+Tiểu mục 1 QUY ĐỊNH CHUNG
 
-
-### Tiểu mục 1 QUY ĐỊNH CHUNG
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000100000000000000000
-
-**ID:** dk_00054868
-
----
-
-
-### Điều 34.3.LQ.15. Biện pháp hạn chế xuất khẩu, hạn chế nhập khẩu
+### 34003000000000002000002000000000000000000010000000000000000001500000000000000000
 
 Điều 34.3.LQ.15. Biện pháp hạn chế xuất khẩu, hạn chế nhập khẩu
 
-**Chỉ mục:** 15
+### 34003000000000002000002000000000000000000010000000000000000001600000000000000000
 
-**Mã phân cấp:** 34003000000000002000002000000000000000000010000000000000000001500000000000000000
+Điều 34.3.LQ.16. Các trường hợp ngoại lệ
 
-**ID:** dk_00054869
-
----
-
-
-### Điều 34.3.LQ.16. Các trường hợp ngoại lệ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000010000000000000000001600000000000000000
-
-**ID:** dk_00054870
-
----
-
-
-### Tiểu mục 2 HẠN NGẠCH XUẤT KHẨU, HẠN NGẠCH NHẬP KHẨU
+### 340030000000000020000020000000000000000000200000000000000000
 
 Tiểu mục 2 HẠN NGẠCH XUẤT KHẨU, HẠN NGẠCH NHẬP KHẨU
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000200000000000000000
-
-**ID:** dk_00054871
-
----
-
-
-### Điều 34.3.TT.68.1. Lượng hạn ngạch thuế quan nhập khẩu thuốc lá nguyên liệu năm 2024
+### 34003000000000002000002000000000000000000020000000000000000000802860500390000100
 
 Điều 34.3.TT.68.1. Lượng hạn ngạch thuế quan nhập khẩu thuốc lá nguyên liệu năm 2024
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802860500390000100
-
-**ID:** dk_00054872
-
----
-
-
-### Điều 34.3.TT.68.2. Phương thức điều hành hạn ngạch thuế quan nhập khẩu thuốc lá nguyên liệu
+### 34003000000000002000002000000000000000000020000000000000000000802860500390000200
 
 Điều 34.3.TT.68.2. Phương thức điều hành hạn ngạch thuế quan nhập khẩu thuốc lá nguyên liệu
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802860500390000200
-
-**ID:** dk_00054873
-
----
-
-
-### Điều 34.3.TT.68.3. Đối tượng phân giao hạn ngạch thuế quan nhập khẩu thuốc lá nguyên liệu
+### 34003000000000002000002000000000000000000020000000000000000000802860500390000300
 
 Điều 34.3.TT.68.3. Đối tượng phân giao hạn ngạch thuế quan nhập khẩu thuốc lá nguyên liệu
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802860500390000300
-
-**ID:** dk_00054874
-
----
-
-
-### Điều 34.3.TT.71.1. Lượng hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024
+### 34003000000000002000002000000000000000000020000000000000000000802896600370000100
 
 Điều 34.3.TT.71.1. Lượng hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802896600370000100
-
-**ID:** dk_00054875
-
----
-
-
-### Điều 34.3.TT.71.2. Phương thức phân giao hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024
+### 34003000000000002000002000000000000000000020000000000000000000802896600370000200
 
 Điều 34.3.TT.71.2. Phương thức phân giao hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802896600370000200
-
-**ID:** dk_00054876
-
----
-
-
-### Điều 34.3.TT.71.3. Đối tượng phân giao hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024
+### 34003000000000002000002000000000000000000020000000000000000000802896600370000300
 
 Điều 34.3.TT.71.3. Đối tượng phân giao hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802896600370000300
-
-**ID:** dk_00054877
-
----
-
-
-### Điều 34.3.TT.71.4. Thời điểm phân giao hạn ngạch thuế quan nhập khẩu mặt hàngmuối, trứng gia cầm năm 2024
+### 34003000000000002000002000000000000000000020000000000000000000802896600370000400
 
 Điều 34.3.TT.71.4. Thời điểm phân giao hạn ngạch thuế quan nhập khẩu mặt hàngmuối, trứng gia cầm năm 2024
 
-**Chỉ mục:** 4
+### 340030000000000020000020000000000000000000300000000000000000
 
-**Mã phân cấp:** 34003000000000002000002000000000000000000020000000000000000000802896600370000400
+Tiểu mục 3 HẠN NGẠCH THUẾ QUAN
 
-**ID:** dk_00054878
-
----
-
-
-### Tiểu mục 3 HẠN NGẠCH THUẾ QUAN
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000300000000000000000
-
-**ID:** dk_00054879
-
----
-
-
-### Điều 34.3.LQ.20. Biện pháp hạn ngạch thuế quan xuất khẩu, hạn ngạch thuế quan nhập khẩu
+### 34003000000000002000002000000000000000000030000000000000000002000000000000000000
 
 Điều 34.3.LQ.20. Biện pháp hạn ngạch thuế quan xuất khẩu, hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000030000000000000000002000000000000000000
-
-**ID:** dk_00054880
-
----
-
-
-### Điều 34.3.LQ.21. Áp dụng biện pháp hạn ngạch thuế quan xuất khẩu, hạn ngạch thuế quan nhập khẩu
+### 34003000000000002000002000000000000000000030000000000000000002100000000000000000
 
 Điều 34.3.LQ.21. Áp dụng biện pháp hạn ngạch thuế quan xuất khẩu, hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000030000000000000000002100000000000000000
-
-**ID:** dk_00054881
-
----
-
-
-### Điều 34.3.TT.70.2. Hàng hóa và lượng hạn ngạch thuế quan nhập khẩu năm 2023 và năm 2024
+### 3400300000000000200000200000000000000000003000000000000000000210000000000000000000802870400060000200
 
 Điều 34.3.TT.70.2. Hàng hóa và lượng hạn ngạch thuế quan nhập khẩu năm 2023 và năm 2024
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000210000000000000000000802870400060000200
-
-**ID:** dk_00054882
-
----
-
-
-### Điều 34.3.TT.70.3. Áp dụng thuế suất thuế nhập khẩu ưu đãi đặc biệt
+### 3400300000000000200000200000000000000000003000000000000000000210000000000000000000802870400060000300
 
 Điều 34.3.TT.70.3. Áp dụng thuế suất thuế nhập khẩu ưu đãi đặc biệt
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000210000000000000000000802870400060000300
-
-**ID:** dk_00054883
-
----
-
-
-### Điều 34.3.TT.70.4. Phương thức điều hành hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000210000000000000000000802870400060000400
 
 Điều 34.3.TT.70.4. Phương thức điều hành hạn ngạch thuế quan
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000210000000000000000000802870400060000400
-
-**ID:** dk_00054884
-
----
-
-
-### Điều 34.3.LQ.22. Thẩm quyền áp dụng biện pháp hạn ngạch thuế quan
+### 34003000000000002000002000000000000000000030000000000000000002200000000000000000
 
 Điều 34.3.LQ.22. Thẩm quyền áp dụng biện pháp hạn ngạch thuế quan
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000030000000000000000002200000000000000000
-
-**ID:** dk_00054885
-
----
-
-
-### Điều 34.3.TT.30.11. Danh mục hàng hóa quản lý theo hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001100
 
 Điều 34.3.TT.30.11. Danh mục hàng hóa quản lý theo hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001100
-
-**ID:** dk_00054886
-
----
-
-
-### Điều 34.3.TT.30.12. Quyết định và công bố lượng hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001200
 
 Điều 34.3.TT.30.12. Quyết định và công bố lượng hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001200
-
-**ID:** dk_00054887
-
----
-
-
-### Điều 34.3.TT.30.13. Áp dụng thuế suất thuế nhập khẩu đối với hàng hóa quản lý theo hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001300
 
 Điều 34.3.TT.30.13. Áp dụng thuế suất thuế nhập khẩu đối với hàng hóa quản lý theo hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001300
-
-**ID:** dk_00054888
-
----
-
-
-### Điều 34.3.TT.30.14. Đối tượng được xem xét cấp Giấy phép nhập khẩu theo hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001400
 
 Điều 34.3.TT.30.14. Đối tượng được xem xét cấp Giấy phép nhập khẩu theo hạn ngạch thuế quan
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001400
-
-**ID:** dk_00054889
-
----
-
-
-### Điều 34.3.TT.30.15. Cấp Giấy phép nhập khẩu theo hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001500
 
 Điều 34.3.TT.30.15. Cấp Giấy phép nhập khẩu theo hạn ngạch thuế quan
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802658400120001500
-
-**ID:** dk_00054890
-
----
-
-
-### Điều 34.3.TT.46.2. Hàng hóa và lượng hạn ngạch thuế quan nhập khẩu năm 2019 và năm 2020
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000200
 
 Điều 34.3.TT.46.2. Hàng hóa và lượng hạn ngạch thuế quan nhập khẩu năm 2019 và năm 2020
 
-**Chỉ mục:** 2
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000300
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000200
+Điều 34.3.TT.46.3. Thuế suất thuế nhập khẩu
 
-**ID:** dk_00054891
-
----
-
-
-### Điều 34.3.TT.46.3. Thuế suất thuế nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000300
-
-**ID:** dk_00054892
-
----
-
-
-### Điều 34.3.TT.46.4. Điều kiện để được hưởng thuế suất thuế nhập khẩu ưu đãi đặc biệt
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000400
 
 Điều 34.3.TT.46.4. Điều kiện để được hưởng thuế suất thuế nhập khẩu ưu đãi đặc biệt
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000400
-
-**ID:** dk_00054893
-
----
-
-
-### Điều 34.3.TT.46.5. Phương thức điều hành hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000500
 
 Điều 34.3.TT.46.5. Phương thức điều hành hạn ngạch thuế quan
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802696000080000500
-
-**ID:** dk_00054894
-
----
-
-
-### Điều 34.3.TT.55.1. Lượng hạn ngạch thuế quan nhập khẩu năm 2020
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802716200010000100
 
 Điều 34.3.TT.55.1. Lượng hạn ngạch thuế quan nhập khẩu năm 2020
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802716200010000100
-
-**ID:** dk_00054895
-
----
-
-
-### Điều 34.3.TT.55.2. Đối tượng và phương thức giao hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802716200010000200
 
 Điều 34.3.TT.55.2. Đối tượng và phương thức giao hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802716200010000200
-
-**ID:** dk_00054896
-
----
-
-
-### Điều 34.3.TT.56.1. Lượng hạn ngạch thuế quan nhập khẩu năm 2020
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000100
 
 Điều 34.3.TT.56.1. Lượng hạn ngạch thuế quan nhập khẩu năm 2020
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000100
-
-**ID:** dk_00054897
-
----
-
-
-### Điều 34.3.TT.56.2. Nguyên tắc phân giao hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000200
 
 Điều 34.3.TT.56.2. Nguyên tắc phân giao hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000200
-
-**ID:** dk_00054898
-
----
-
-
-### Điều 34.3.TT.56.3. Đối tượng phân giao hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000300
 
 Điều 34.3.TT.56.3. Đối tượng phân giao hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000300
-
-**ID:** dk_00054899
-
----
-
-
-### Điều 34.3.TT.56.4. Thời điểm phân giao hạn ngạch thuế quan nhập khẩu
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000400
 
 Điều 34.3.TT.56.4. Thời điểm phân giao hạn ngạch thuế quan nhập khẩu
 
-**Chỉ mục:** 4
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000030000300
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000020000400
+Điều 34.3.TT.57.3. Lượng hạn ngạch thuế quan
 
-**ID:** dk_00054900
-
----
-
-
-### Điều 34.3.TT.57.3. Lượng hạn ngạch thuế quan
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000030000300
-
-**ID:** dk_00054901
-
----
-
-
-### Điều 34.3.TT.57.4. Đối tượng và phương thức phân giao hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000030000400
 
 Điều 34.3.TT.57.4. Đối tượng và phương thức phân giao hạn ngạch thuế quan
 
-**Chỉ mục:** 4
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000030000500
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000030000400
+Điều 34.3.TT.57.5. Các quy định khác
 
-**ID:** dk_00054902
-
----
-
-
-### Điều 34.3.TT.57.5. Các quy định khác
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000030000500
-
-**ID:** dk_00054903
-
----
-
-
-### Điều 34.3.TT.58.3. Chủng loại và số lượng hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000300
 
 Điều 34.3.TT.58.3. Chủng loại và số lượng hạn ngạch thuế quan
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000300
-
-**ID:** dk_00054904
-
----
-
-
-### Điều 34.3.TT.58.4. Phương thức phân giao hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000400
 
 Điều 34.3.TT.58.4. Phương thức phân giao hạn ngạch thuế quan
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000400
-
-**ID:** dk_00054905
-
----
-
-
-### Điều 34.3.TT.58.5. Quy định đối với ô tô đã qua sử dụng nhập khẩu theo hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000500
 
 Điều 34.3.TT.58.5. Quy định đối với ô tô đã qua sử dụng nhập khẩu theo hạn ngạch thuế quan
 
-**Chỉ mục:** 5
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000600
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000500
+Điều 34.3.TT.58.6. Nguyên tắc đấu giá
 
-**ID:** dk_00054906
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000700
 
----
+Điều 34.3.TT.58.7. Thông báo kết quả đấu giá
 
+### 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000800
 
-### Điều 34.3.TT.58.6. Nguyên tắc đấu giá
+Điều 34.3.TT.58.8. Thủ tục nhập khẩu
 
-*Nội dung chưa có sẵn*
+### 340030000000000020000020000000000000000000400000000000000000
 
-**Chỉ mục:** 6
+Tiểu mục 4 CHỈ ĐỊNH CỬA KHẨU XUẤT KHẨU, NHẬP KHẨU
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000600
-
-**ID:** dk_00054907
-
----
-
-
-### Điều 34.3.TT.58.7. Thông báo kết quả đấu giá
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000700
-
-**ID:** dk_00054908
-
----
-
-
-### Điều 34.3.TT.58.8. Thủ tục nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000003000000000000000000220000000000000000000802717000040000800
-
-**ID:** dk_00054909
-
----
-
-
-### Tiểu mục 4 CHỈ ĐỊNH CỬA KHẨU XUẤT KHẨU, NHẬP KHẨU
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000400000000000000000
-
-**ID:** dk_00054910
-
----
-
-
-### Điều 34.3.LQ.23. Biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu
+### 34003000000000002000002000000000000000000040000000000000000002300000000000000000
 
 Điều 34.3.LQ.23. Biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000040000000000000000002300000000000000000
-
-**ID:** dk_00054911
-
----
-
-
-### Điều 34.3.LQ.24. Áp dụng biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu
+### 34003000000000002000002000000000000000000040000000000000000002400000000000000000
 
 Điều 34.3.LQ.24. Áp dụng biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000040000000000000000002400000000000000000
-
-**ID:** dk_00054912
-
----
-
-
-### Điều 34.3.TT.4.3. Cơ quan xác nhận Giấy chứng nhận hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000300
 
 Điều 34.3.TT.4.3. Cơ quan xác nhận Giấy chứng nhận hạn ngạch thuế quan
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000300
-
-**ID:** dk_00054913
-
----
-
-
-### Điều 34.3.TT.4.4. Nội dung Giấy chứng nhận hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000400
 
 Điều 34.3.TT.4.4. Nội dung Giấy chứng nhận hạn ngạch thuế quan
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000400
-
-**ID:** dk_00054914
-
----
-
-
-### Điều 34.3.TT.4.5. Hiệu lực của Giấy chứng nhận hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000500
 
 Điều 34.3.TT.4.5. Hiệu lực của Giấy chứng nhận hạn ngạch thuế quan
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000500
-
-**ID:** dk_00054915
-
----
-
-
-### Điều 34.3.TT.4.6. Nguyên tắc xác nhận Giấy chứng nhận hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000600
 
 Điều 34.3.TT.4.6. Nguyên tắc xác nhận Giấy chứng nhận hạn ngạch thuế quan
 
-**Chỉ mục:** 6
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000700
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000600
+Điều 34.3.TT.4.7. Hồ sơ đề nghị xác nhận
 
-**ID:** dk_00054916
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000800
 
----
+Điều 34.3.TT.4.8. Tiếp nhận hồ sơ đề nghị xác nhận
 
-
-### Điều 34.3.TT.4.7. Hồ sơ đề nghị xác nhận
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000700
-
-**ID:** dk_00054917
-
----
-
-
-### Điều 34.3.TT.4.8. Tiếp nhận hồ sơ đề nghị xác nhận
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000800
-
-**ID:** dk_00054918
-
----
-
-
-### Điều 34.3.TT.4.9. Xác nhận Giấy chứng nhận hạn ngạch thuế quan
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000900
 
 Điều 34.3.TT.4.9. Xác nhận Giấy chứng nhận hạn ngạch thuế quan
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280000900
-
-**ID:** dk_00054919
-
----
-
-
-### Điều 34.3.TT.4.10. Xác nhận lại do Giấy chứng nhận hạn ngạch thuế quan bị rách, mất, hỏng
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280001000
 
 Điều 34.3.TT.4.10. Xác nhận lại do Giấy chứng nhận hạn ngạch thuế quan bị rách, mất, hỏng
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280001000
-
-**ID:** dk_00054920
-
----
-
-
-### Điều 34.3.TT.4.11. Trả lại Giấy chứng nhận hạn ngạch thuế quan do không thực xuất
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280001100
 
 Điều 34.3.TT.4.11. Trả lại Giấy chứng nhận hạn ngạch thuế quan do không thực xuất
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280001100
-
-**ID:** dk_00054921
-
----
-
-
-### Điều 34.3.TT.4.12. Công khai phân bổ hạn ngạch thuế quan trên trang thông tin của Bộ Công Thương
+### 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280001200
 
 Điều 34.3.TT.4.12. Công khai phân bổ hạn ngạch thuế quan trên trang thông tin của Bộ Công Thương
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000240000000000000000000802340200280001200
-
-**ID:** dk_00054922
-
----
-
-
-### Điều 34.3.LQ.25. Thẩm quyền áp dụng biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu
+### 34003000000000002000002000000000000000000040000000000000000002500000000000000000
 
 Điều 34.3.LQ.25. Thẩm quyền áp dụng biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 25
+### 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802679200010000300
 
-**Mã phân cấp:** 34003000000000002000002000000000000000000040000000000000000002500000000000000000
+Điều 34.3.TT.42.3. Quy định cửa khẩu nhập khẩu
 
-**ID:** dk_00054923
+### 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802686700060000200
 
----
+Điều 34.3.TT.44.2. Đối tượng áp dụng Thông tư này áp dụng đối với thương nhân nhập khẩu ô tô chở người dưới 16 chỗ ngồi và các cơ quan, cá nhân và tổ chức có liên quan.
 
+### 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802686700060000300
 
-### Điều 34.3.TT.42.3. Quy định cửa khẩu nhập khẩu
+Điều 34.3.TT.44.3. Quy định cửa khẩu nhập khẩu
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802679200010000300
-
-**ID:** dk_00054924
-
----
-
-
-### Điều 34.3.TT.44.2. Đối tượng áp dụng
-	 Thông tư này áp dụng đối với thương nhân nhập khẩu ô tô chở người dưới 16 chỗ ngồi và các cơ quan, cá nhân và tổ chức có liên quan.
-
-Điều 34.3.TT.44.2. Đối tượng áp dụng
-	 Thông tư này áp dụng đối với thương nhân nhập khẩu ô tô chở người dưới 16 chỗ ngồi và các cơ quan, cá nhân và tổ chức có liên quan.
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802686700060000200
-
-**ID:** dk_00054925
-
----
-
-
-### Điều 34.3.TT.44.3. Quy định cửa khẩu nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802686700060000300
-
-**ID:** dk_00054926
-
----
-
-
-### Điều 34.3.TT.61.3. Quy định về cửa khẩu nhập khẩu, xuất khẩu
+### 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802728300090000300
 
 Điều 34.3.TT.61.3. Quy định về cửa khẩu nhập khẩu, xuất khẩu
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000200000000000000000004000000000000000000250000000000000000000802728300090000300
-
-**ID:** dk_00054927
-
----
-
-
-### Tiểu mục 5 CHỈ ĐỊNH THƯƠNG NHÂN XUẤT KHẨU, NHẬP KHẨU
+### 340030000000000020000020000000000000000000500000000000000000
 
 Tiểu mục 5 CHỈ ĐỊNH THƯƠNG NHÂN XUẤT KHẨU, NHẬP KHẨU
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000500000000000000000
-
-**ID:** dk_00054928
-
----
-
-
-### Điều 34.3.LQ.26. Biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu
+### 34003000000000002000002000000000000000000050000000000000000002600000000000000000
 
 Điều 34.3.LQ.26. Biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000050000000000000000002600000000000000000
-
-**ID:** dk_00054929
-
----
-
-
-### Điều 34.3.LQ.27. Áp dụng biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu
+### 34003000000000002000002000000000000000000050000000000000000002700000000000000000
 
 Điều 34.3.LQ.27. Áp dụng biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000050000000000000000002700000000000000000
-
-**ID:** dk_00054930
-
----
-
-
-### Điều 34.3.LQ.28. Thẩm quyền áp dụng biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu
+### 34003000000000002000002000000000000000000050000000000000000002800000000000000000
 
 Điều 34.3.LQ.28. Thẩm quyền áp dụng biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 34003000000000002000002000000000000000000050000000000000000002800000000000000000
-
-**ID:** dk_00054931
-
----
-
-
-### Điều 34.3.NĐ.8.6. Chỉ định thương nhân xuất khẩu, nhập khẩu
+### 3400300000000000200000200000000000000000005000000000000000000280000000000000000000402655300690000600
 
 Điều 34.3.NĐ.8.6. Chỉ định thương nhân xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 6
+### 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000300
 
-**Mã phân cấp:** 3400300000000000200000200000000000000000005000000000000000000280000000000000000000402655300690000600
+Điều 34.3.TT.38.3. Hình thức nhập khẩu
 
-**ID:** dk_00054932
+### 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000400
 
----
+Điều 34.3.TT.38.4. Căn cứ và thủ tục nhập khẩu
 
-
-### Điều 34.3.TT.38.3. Hình thức nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000300
-
-**ID:** dk_00054933
-
----
-
-
-### Điều 34.3.TT.38.4. Căn cứ và thủ tục nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000400
-
-**ID:** dk_00054934
-
----
-
-
-### Điều 34.3.TT.38.5. Trách nhiệm của Cục Phát hành và Kho quỹ
+### 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000500
 
 Điều 34.3.TT.38.5. Trách nhiệm của Cục Phát hành và Kho quỹ
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000500
-
-**ID:** dk_00054935
-
----
-
-
-### Điều 34.3.TT.38.6. Trách nhiệm của cơ sở in, đúc tiền
+### 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000600
 
 Điều 34.3.TT.38.6. Trách nhiệm của cơ sở in, đúc tiền
 
-**Chỉ mục:** 6
+### 3400300000000000200000300000000000000000
 
-**Mã phân cấp:** 340030000000000020000020000000000000000000500000000000000000028000000000000000000040265530069000060000802677700380000600
+Mục 3 QUẢN LÝ THEO GIẤY PHÉP, THEO ĐIỀU KIỆN XUẤT KHẨU, NHẬP KHẨU
 
-**ID:** dk_00054936
-
----
-
-
-### Điều 34.3.LQ.29. Biện pháp quản lý theo giấy phép xuất khẩu, nhập khẩu; quản lý theo điều kiện xuất khẩu, nhập khẩu
+### 340030000000000020000030000000000000000002900000000000000000
 
 Điều 34.3.LQ.29. Biện pháp quản lý theo giấy phép xuất khẩu, nhập khẩu; quản lý theo điều kiện xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 340030000000000020000030000000000000000002900000000000000000
-
-**ID:** dk_00054938
-
----
-
-
-### Điều 34.3.NĐ.12.4. Nguyên tắc quản lý hàng hóa thương mại chiến lược
+### 34003000000000002000003000000000000000000290000000000000000000402925802590000400
 
 Điều 34.3.NĐ.12.4. Nguyên tắc quản lý hàng hóa thương mại chiến lược
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590000400
-
-**ID:** dk_00054939
-
----
-
-
-### Điều 34.3.NĐ.12.5. Quy định về Chương trình tuân thủ nội bộ
+### 34003000000000002000003000000000000000000290000000000000000000402925802590000500
 
 Điều 34.3.NĐ.12.5. Quy định về Chương trình tuân thủ nội bộ
 
-**Chỉ mục:** 5
+### 34003000000000002000003000000000000000000290000000000000000000402925802590000600
 
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590000500
+Điều 34.3.NĐ.12.6. Trách nhiệm của thương nhân
 
-**ID:** dk_00054940
+### 34003000000000002000003000000000000000000290000000000000000000402925802590000700
 
----
+Điều 34.3.NĐ.12.7. Danh mục hàng hóa lưỡng dụng
 
-
-### Điều 34.3.NĐ.12.6. Trách nhiệm của thương nhân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590000600
-
-**ID:** dk_00054941
-
----
-
-
-### Điều 34.3.NĐ.12.7. Danh mục hàng hóa lưỡng dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590000700
-
-**ID:** dk_00054942
-
----
-
-
-### Điều 34.3.NĐ.12.8. Cấp phép đối với hàng hóa lưỡng dụng
+### 34003000000000002000003000000000000000000290000000000000000000402925802590000800
 
 Điều 34.3.NĐ.12.8. Cấp phép đối với hàng hóa lưỡng dụng
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590000800
-
-**ID:** dk_00054943
-
----
-
-
-### Điều 34.3.NĐ.12.9. Hồ sơ, quy trình cấp giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
+### 34003000000000002000003000000000000000000290000000000000000000402925802590000900
 
 Điều 34.3.NĐ.12.9. Hồ sơ, quy trình cấp giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590000900
-
-**ID:** dk_00054944
-
----
-
-
-### Điều 34.3.NĐ.12.10. Thu hồi Giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001000
 
 Điều 34.3.NĐ.12.10. Thu hồi Giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001000
-
-**ID:** dk_00054945
-
----
-
-
-### Điều 34.3.NĐ.12.11. Xác nhận thực hiện Chương trình tuân thủ nội bộ
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001100
 
 Điều 34.3.NĐ.12.11. Xác nhận thực hiện Chương trình tuân thủ nội bộ
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001100
-
-**ID:** dk_00054946
-
----
-
-
-### Điều 34.3.NĐ.12.12. Quy trình xác nhận thực hiện Chương trình tuân thủ nội bộ
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001200
 
 Điều 34.3.NĐ.12.12. Quy trình xác nhận thực hiện Chương trình tuân thủ nội bộ
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001200
-
-**ID:** dk_00054947
-
----
-
-
-### Điều 34.3.NĐ.12.13. Sửa đổi, bổ sung thông tin tại Quyết định xác nhận thực hiện Chương trình tuân thủ nội bộ
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001300
 
 Điều 34.3.NĐ.12.13. Sửa đổi, bổ sung thông tin tại Quyết định xác nhận thực hiện Chương trình tuân thủ nội bộ
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001300
-
-**ID:** dk_00054948
-
----
-
-
-### Điều 34.3.NĐ.12.14. Thu hồi Quyết định xác nhận thực hiện Chương trình tuân thủ nội bộ
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001400
 
 Điều 34.3.NĐ.12.14. Thu hồi Quyết định xác nhận thực hiện Chương trình tuân thủ nội bộ
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001400
-
-**ID:** dk_00054949
-
----
-
-
-### Điều 34.3.NĐ.12.15. Trách nhiệm của thương nhân xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001500
 
 Điều 34.3.NĐ.12.15. Trách nhiệm của thương nhân xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001500
-
-**ID:** dk_00054950
-
----
-
-
-### Điều 34.3.NĐ.12.16. Trách nhiệm của các bộ, cơ quan ngang bộ
+### 34003000000000002000003000000000000000000290000000000000000000402925802590001600
 
 Điều 34.3.NĐ.12.16. Trách nhiệm của các bộ, cơ quan ngang bộ
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000290000000000000000000402925802590001600
-
-**ID:** dk_00054951
-
----
-
-
-### Điều 34.3.LQ.30. Áp dụng biện pháp quản lý theo giấy phép, theo điều kiện
+### 340030000000000020000030000000000000000003000000000000000000
 
 Điều 34.3.LQ.30. Áp dụng biện pháp quản lý theo giấy phép, theo điều kiện
 
-**Chỉ mục:** 30
+### 34003000000000002000003000000000000000000300000000000000000000402855000770000400
 
-**Mã phân cấp:** 340030000000000020000030000000000000000003000000000000000000
+Điều 34.3.NĐ.9.4. Danh mục hàng hóa tân trang
 
-**ID:** dk_00054952
-
----
-
-
-### Điều 34.3.NĐ.9.4. Danh mục hàng hóa tân trang
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770000400
-
-**ID:** dk_00054953
-
----
-
-
-### Điều 34.3.NĐ.9.5. Điều kiện đối với hàng hóa tân trang nhập khẩu
+### 34003000000000002000003000000000000000000300000000000000000000402855000770000500
 
 Điều 34.3.NĐ.9.5. Điều kiện đối với hàng hóa tân trang nhập khẩu
 
-**Chỉ mục:** 5
+### 34003000000000002000003000000000000000000300000000000000000000402855000770000600
 
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770000500
+Điều 34.3.NĐ.9.6. Mã số tân trang
 
-**ID:** dk_00054954
+### 34003000000000002000003000000000000000000300000000000000000000402855000770000700
 
----
+Điều 34.3.NĐ.9.7. Hồ sơ cấp Mã số tân trang
 
-
-### Điều 34.3.NĐ.9.6. Mã số tân trang
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770000600
-
-**ID:** dk_00054955
-
----
-
-
-### Điều 34.3.NĐ.9.7. Hồ sơ cấp Mã số tân trang
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770000700
-
-**ID:** dk_00054956
-
----
-
-
-### Điều 34.3.NĐ.9.8. Yêu cầu đối với tài liệu thuyết minh năng lực tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770000800
 
 Điều 34.3.NĐ.9.8. Yêu cầu đối với tài liệu thuyết minh năng lực tân trang
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770000800
-
-**ID:** dk_00054957
-
----
-
-
-### Điều 34.3.NĐ.9.9. Yêu cầu đối với tài liệu thuyết minh việc hàng hóa tân trang đáp ứng được quy tắc xuất xứ theo Hiệp định CPTPP
+### 34003000000000002000003000000000000000000300000000000000000000402855000770000900
 
 Điều 34.3.NĐ.9.9. Yêu cầu đối với tài liệu thuyết minh việc hàng hóa tân trang đáp ứng được quy tắc xuất xứ theo Hiệp định CPTPP
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770000900
-
-**ID:** dk_00054958
-
----
-
-
-### Điều 34.3.NĐ.9.10. Yêu cầu đối với Bản cam kết dành chế độ bảo hành, bảo dưỡng cho hàng hóa tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001000
 
 Điều 34.3.NĐ.9.10. Yêu cầu đối với Bản cam kết dành chế độ bảo hành, bảo dưỡng cho hàng hóa tân trang
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001000
-
-**ID:** dk_00054959
-
----
-
-
-### Điều 34.3.NĐ.9.11. Yêu cầu đối với văn bản của chủ sở hữu nhãn hiệu cho phép hàng hóa tân trang được sử dụng nhãn hiệu của hàng hóa ban đầu hoặc được sử dụng cho hàng hóa mà mình sở hữu nhãn hiệu
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001100
 
 Điều 34.3.NĐ.9.11. Yêu cầu đối với văn bản của chủ sở hữu nhãn hiệu cho phép hàng hóa tân trang được sử dụng nhãn hiệu của hàng hóa ban đầu hoặc được sử dụng cho hàng hóa mà mình sở hữu nhãn hiệu
 
-**Chỉ mục:** 11
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001200
 
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001100
+Điều 34.3.NĐ.9.12. Quy trình cấp Mã số tân trang
 
-**ID:** dk_00054960
-
----
-
-
-### Điều 34.3.NĐ.9.12. Quy trình cấp Mã số tân trang
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001200
-
-**ID:** dk_00054961
-
----
-
-
-### Điều 34.3.NĐ.9.13. Kiểm tra thực tế cơ sở tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001300
 
 Điều 34.3.NĐ.9.13. Kiểm tra thực tế cơ sở tân trang
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001300
-
-**ID:** dk_00054962
-
----
-
-
-### Điều 34.3.NĐ.9.14. Gia hạn hiệu lực Mã số tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001400
 
 Điều 34.3.NĐ.9.14. Gia hạn hiệu lực Mã số tân trang
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001400
-
-**ID:** dk_00054963
-
----
-
-
-### Điều 34.3.NĐ.9.15. Sửa đổi, bổ sung thông tin của doanh nghiệp đã được cấp Mã số tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001500
 
 Điều 34.3.NĐ.9.15. Sửa đổi, bổ sung thông tin của doanh nghiệp đã được cấp Mã số tân trang
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001500
-
-**ID:** dk_00054964
-
----
-
-
-### Điều 34.3.NĐ.9.16. Đình chỉ, thu hồi Mã số tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001600
 
 Điều 34.3.NĐ.9.16. Đình chỉ, thu hồi Mã số tân trang
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001600
-
-**ID:** dk_00054965
-
----
-
-
-### Điều 34.3.NĐ.9.17. Giấy phép nhập khẩu hàng hóa tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001700
 
 Điều 34.3.NĐ.9.17. Giấy phép nhập khẩu hàng hóa tân trang
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001700
-
-**ID:** dk_00054966
-
----
-
-
-### Điều 34.3.NĐ.9.18. Hồ sơ, quy trình cấp Giấy phép nhập khẩu hàng hóa tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001800
 
 Điều 34.3.NĐ.9.18. Hồ sơ, quy trình cấp Giấy phép nhập khẩu hàng hóa tân trang
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001800
-
-**ID:** dk_00054967
-
----
-
-
-### Điều 34.3.NĐ.9.19. Thủ tục nhập khẩu hàng hóa tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770001900
 
 Điều 34.3.NĐ.9.19. Thủ tục nhập khẩu hàng hóa tân trang
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770001900
-
-**ID:** dk_00054968
-
----
-
-
-### Điều 34.3.NĐ.9.20. Trách nhiệm của thương nhân nhập khẩu hàng hóa tân trang
+### 34003000000000002000003000000000000000000300000000000000000000402855000770002000
 
 Điều 34.3.NĐ.9.20. Trách nhiệm của thương nhân nhập khẩu hàng hóa tân trang
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000300000000000000000000402855000770002000
-
-**ID:** dk_00054969
-
----
-
-
-### Điều 34.3.LQ.31. Thẩm quyền áp dụng biện pháp quản lý theo giấy phép, theo điều kiện
+### 340030000000000020000030000000000000000003100000000000000000
 
 Điều 34.3.LQ.31. Thẩm quyền áp dụng biện pháp quản lý theo giấy phép, theo điều kiện
 
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 340030000000000020000030000000000000000003100000000000000000
-
-**ID:** dk_00054970
-
----
-
-
-### Điều 34.3.NĐ.2.4. Áp dụng các luật có liên quan và điều ước quốc tế
+### 34003000000000002000003000000000000000000310000000000000000000402432900320000400
 
 Điều 34.3.NĐ.2.4. Áp dụng các luật có liên quan và điều ước quốc tế
 
-**Chỉ mục:** 4
+### 34003000000000002000003000000000000000000310000000000000000000402432900320000500
 
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320000400
+Điều 34.3.NĐ.2.5. Thuế, phí và lệ phí
 
-**ID:** dk_00054971
-
----
-
-
-### Điều 34.3.NĐ.2.5. Thuế, phí và lệ phí
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320000500
-
-**ID:** dk_00054972
-
----
-
-
-### Điều 34.3.NĐ.2.6. Văn hóa phẩm cấm xuất khẩu, cấm nhập khẩu
+### 34003000000000002000003000000000000000000310000000000000000000402432900320000600
 
 Điều 34.3.NĐ.2.6. Văn hóa phẩm cấm xuất khẩu, cấm nhập khẩu
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320000600
-
-**ID:** dk_00054973
-
----
-
-
-### Điều 34.3.NĐ.2.7. Xuất khẩu văn hóa phẩm không nhằm mục đích kinh doanh
+### 34003000000000002000003000000000000000000310000000000000000000402432900320000700
 
 Điều 34.3.NĐ.2.7. Xuất khẩu văn hóa phẩm không nhằm mục đích kinh doanh
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320000700
-
-**ID:** dk_00054974
-
----
-
-
-### Điều 34.3.NĐ.2.8. Thẩm quyền tiếp nhận Thông báo nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh
+### 34003000000000002000003000000000000000000310000000000000000000402432900320000800
 
 Điều 34.3.NĐ.2.8. Thẩm quyền tiếp nhận Thông báo nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320000800
-
-**ID:** dk_00054975
-
----
-
-
-### Điều 34.3.NĐ.2.9. Thủ tục thông báo nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh
+### 34003000000000002000003000000000000000000310000000000000000000402432900320000900
 
 Điều 34.3.NĐ.2.9. Thủ tục thông báo nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320000900
-
-**ID:** dk_00054976
-
----
-
-
-### Điều 34.3.NĐ.2.10. Thủ tục cấp phép nhập khẩu di vật, cổ vật không nhằm mục đích kinh doanh
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001000
 
 Điều 34.3.NĐ.2.10. Thủ tục cấp phép nhập khẩu di vật, cổ vật không nhằm mục đích kinh doanh
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001000
-
-**ID:** dk_00054977
-
----
-
-
-### Điều 34.3.NĐ.2.11. Thủ tục Hải quan nhập khẩu văn hóa phẩm
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001100
 
 Điều 34.3.NĐ.2.11. Thủ tục Hải quan nhập khẩu văn hóa phẩm
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001100
-
-**ID:** dk_00054978
-
----
-
-
-### Điều 34.3.NĐ.2.12. Văn hóa phẩm nhập khẩu của cá nhân, tổ chức được hưởng quyền ưu đãi miễn trừ ngoại giao
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001200
 
 Điều 34.3.NĐ.2.12. Văn hóa phẩm nhập khẩu của cá nhân, tổ chức được hưởng quyền ưu đãi miễn trừ ngoại giao
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001200
-
-**ID:** dk_00054979
-
----
-
-
-### Điều 34.3.NĐ.2.13. Nhiệm vụ và quyền hạn của Bộ Văn hóa, Thể thao và Du lịch
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001300
 
 Điều 34.3.NĐ.2.13. Nhiệm vụ và quyền hạn của Bộ Văn hóa, Thể thao và Du lịch
 
-**Chỉ mục:** 13
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500200
 
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001300
+Điều 34.3.TT.8.2. Văn hóa phẩm xuất khẩu
 
-**ID:** dk_00054980
-
----
-
-
-### Điều 34.3.TT.8.2. Văn hóa phẩm xuất khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500200
-
-**ID:** dk_00054981
-
----
-
-
-### Điều 34.3.TT.8.3. Thủ tục giám định văn hóa phẩm xuất khẩu
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500300
 
 Điều 34.3.TT.8.3. Thủ tục giám định văn hóa phẩm xuất khẩu
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500300
-
-**ID:** dk_00054982
-
----
-
-
-### Điều 34.3.TT.8.4. Thẩm quyền giám định văn hóa phẩm xuất khẩu
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500400
 
 Điều 34.3.TT.8.4. Thẩm quyền giám định văn hóa phẩm xuất khẩu
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500400
-
-**ID:** dk_00054983
-
----
-
-
-### Điều 34.3.TT.8.7. Văn hóa phẩm của cá nhân, tổ chức được hưởng quyền ưu đãi miễn trừ ngoại giao
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500700
 
 Điều 34.3.TT.8.7. Văn hóa phẩm của cá nhân, tổ chức được hưởng quyền ưu đãi miễn trừ ngoại giao
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500700
-
-**ID:** dk_00054984
-
----
-
-
-### Điều 34.3.TT.8.8. Thẩm quyền của cơ quan cấp phép nhập khẩu văn hóa phẩm
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500800
 
 Điều 34.3.TT.8.8. Thẩm quyền của cơ quan cấp phép nhập khẩu văn hóa phẩm
 
-**Chỉ mục:** 8
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500801
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500800
+Điều 34.3.TT.8.8a. Trách nhiệm quản lý nhà nước
 
-**ID:** dk_00054985
-
----
-
-
-### Điều 34.3.TT.8.8a. Trách nhiệm quản lý nhà nước
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8a
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500801
-
-**ID:** dk_00054986
-
----
-
-
-### Điều 34.3.TT.8.9. Ban hành kèm theo Thông tư này các mẫu
+### 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500900
 
 Điều 34.3.TT.8.9. Ban hành kèm theo Thông tư này các mẫu
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040243290032000130000802442400077500900
-
-**ID:** dk_00054987
-
----
-
-
-### Điều 34.3.NĐ.2.14. Nhiệm vụ và quyền hạn của Bộ Tài chính
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001400
 
 Điều 34.3.NĐ.2.14. Nhiệm vụ và quyền hạn của Bộ Tài chính
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001400
-
-**ID:** dk_00054988
-
----
-
-
-### Điều 34.3.NĐ.2.15. Nhiệm vụ và quyền hạn của các Bộ, ngành
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001500
 
 Điều 34.3.NĐ.2.15. Nhiệm vụ và quyền hạn của các Bộ, ngành
 
-**Chỉ mục:** 15
+### 34003000000000002000003000000000000000000310000000000000000000402432900320001600
 
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001500
+Điều 34.3.NĐ.2.16. Kiểm tra, thanh tra
 
-**ID:** dk_00054989
-
----
-
-
-### Điều 34.3.NĐ.2.16. Kiểm tra, thanh tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402432900320001600
-
-**ID:** dk_00054990
-
----
-
-
-### Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện
+### 34003000000000002000003000000000000000000310000000000000000000402655300690000700
 
 Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402655300690000700
-
-**ID:** dk_00054991
-
----
-
-
-### Điều 34.3.TT.15.3. Nguyên tắc chung quản lý xuất khẩu, nhập khẩu hàng hóa thuộc diện quản lý chuyên ngành văn hóa của Bộ Văn hóa, Thể thao và Du lịch
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500300
 
 Điều 34.3.TT.15.3. Nguyên tắc chung quản lý xuất khẩu, nhập khẩu hàng hóa thuộc diện quản lý chuyên ngành văn hóa của Bộ Văn hóa, Thể thao và Du lịch
 
-**Chỉ mục:** 3
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500400
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500300
+Điều 34.3.TT.15.4. Hàng hóa cấm xuất khẩu
 
-**ID:** dk_00054992
-
----
-
-
-### Điều 34.3.TT.15.4. Hàng hóa cấm xuất khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500400
-
-**ID:** dk_00054993
-
----
-
-
-### Điều 34.3.TT.15.5. Hàng hóa xuất khẩu theo giấy phép
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500500
 
 Điều 34.3.TT.15.5. Hàng hóa xuất khẩu theo giấy phép
 
-**Chỉ mục:** 5
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500600
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500500
+Điều 34.3.TT.15.6. Hàng hóa cấm nhập khẩu
 
-**ID:** dk_00054994
-
----
-
-
-### Điều 34.3.TT.15.6. Hàng hóa cấm nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500600
-
-**ID:** dk_00054995
-
----
-
-
-### Điều 34.3.TT.15.7. Tác phẩm mỹ thuật, tác phẩm nhiếp ảnh
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500700
 
 Điều 34.3.TT.15.7. Tác phẩm mỹ thuật, tác phẩm nhiếp ảnh
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500700
-
-**ID:** dk_00054996
-
----
-
-
-### Điều 34.3.TT.15.8. Tác phẩm điện ảnh, sản phẩm nghe nhìn
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500800
 
 Điều 34.3.TT.15.8. Tác phẩm điện ảnh, sản phẩm nghe nhìn
 
-**Chỉ mục:** 8
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500900
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500800
+Điều 34.3.TT.15.9. Đồ chơi trẻ em
 
-**ID:** dk_00054997
-
----
-
-
-### Điều 34.3.TT.15.9. Đồ chơi trẻ em
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287500900
-
-**ID:** dk_00054998
-
----
-
-
-### Điều 34.3.TT.15.10. Máy trò chơi điện tử có cài đặt chương trình trả thưởng dành cho người nước ngoài và thiết bị chuyên dùng cho trò chơi ở sòng bạc
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287501000
 
 Điều 34.3.TT.15.10. Máy trò chơi điện tử có cài đặt chương trình trả thưởng dành cho người nước ngoài và thiết bị chuyên dùng cho trò chơi ở sòng bạc
 
-**Chỉ mục:** 10
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287501100
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287501000
+Điều 34.3.TT.15.11. Mua, bán, phân phối hàng hóa
 
-**ID:** dk_00054999
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651300050000100
 
----
+Điều 34.3.TT.26.1. Ban hành danh nục
 
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651300050000200
 
-### Điều 34.3.TT.15.11. Mua, bán, phân phối hàng hóa
+Điều 34.3.TT.26.2. Nguyên tắc áp dụng
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651400068500200
 
-**Chỉ mục:** 11
+Điều 34.3.TT.27.2. Ban hành danh mục
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802532200287501100
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651400068500300
 
-**ID:** dk_00055000
+Điều 34.3.TT.27.3. Quy định sử dụng danh mục
 
----
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802653500090000100
 
+Điều 34.3.TT.28.1. Ban hành danh mục
 
-### Điều 34.3.TT.26.1. Ban hành danh nục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651300050000100
-
-**ID:** dk_00055001
-
----
-
-
-### Điều 34.3.TT.26.2. Nguyên tắc áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651300050000200
-
-**ID:** dk_00055002
-
----
-
-
-### Điều 34.3.TT.27.2. Ban hành danh mục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651400068500200
-
-**ID:** dk_00055003
-
----
-
-
-### Điều 34.3.TT.27.3. Quy định sử dụng danh mục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802651400068500300
-
-**ID:** dk_00055004
-
----
-
-
-### Điều 34.3.TT.28.1. Ban hành danh mục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802653500090000100
-
-**ID:** dk_00055005
-
----
-
-
-### Điều 34.3.TT.28.2. Quản lý chất lượng sản phẩm hàng hóa
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802653500090000200
 
 Điều 34.3.TT.28.2. Quản lý chất lượng sản phẩm hàng hóa
 
-**Chỉ mục:** 2
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802655300140000100
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802653500090000200
+Điều 34.3.TT.29.1. Ban hành danh mục
 
-**ID:** dk_00055006
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802655300140000200
 
----
+Điều 34.3.TT.29.2. Quy định sử dụng danh mục
 
-
-### Điều 34.3.TT.29.1. Ban hành danh mục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802655300140000100
-
-**ID:** dk_00055007
-
----
-
-
-### Điều 34.3.TT.29.2. Quy định sử dụng danh mục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802655300140000200
-
-**ID:** dk_00055008
-
----
-
-
-### Điều 34.3.TT.32.1. Ban hành kèm theo Thông tư này các phụ lục danh mục hàng hóa xuất khẩu, nhập khẩu (danh mục)
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802665300240000100
 
 Điều 34.3.TT.32.1. Ban hành kèm theo Thông tư này các phụ lục danh mục hàng hóa xuất khẩu, nhập khẩu (danh mục)
 
-**Chỉ mục:** 1
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802665300240000200
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802665300240000100
+Điều 34.3.TT.32.2. Quy định sử dụng danh mục
 
-**ID:** dk_00055009
-
----
-
-
-### Điều 34.3.TT.32.2. Quy định sử dụng danh mục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802665300240000200
-
-**ID:** dk_00055010
-
----
-
-
-### Điều 34.3.TT.39.1. Danh mục hàng hóa nhập khẩu, xuất khẩu trong lĩnh vực in, phát hành xuất bản phẩm
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802678000220000100
 
 Điều 34.3.TT.39.1. Danh mục hàng hóa nhập khẩu, xuất khẩu trong lĩnh vực in, phát hành xuất bản phẩm
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802678000220000100
-
-**ID:** dk_00055011
-
----
-
-
-### Điều 34.3.TT.40.1. Ban hành kèm theo Thông tư này Danh mục hàng hóa xuất khẩu, nhập khẩu kèm theo mã HS thuộc phạm vi quản lý của Ngân hàng Nhà nước Việt Nam trong lĩnh vực vàng.
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802678000470000100
 
 Điều 34.3.TT.40.1. Ban hành kèm theo Thông tư này Danh mục hàng hóa xuất khẩu, nhập khẩu kèm theo mã HS thuộc phạm vi quản lý của Ngân hàng Nhà nước Việt Nam trong lĩnh vực vàng.
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000070000802678000470000100
-
-**ID:** dk_00055012
-
----
-
-
-### Điều 34.3.NĐ.8.8. Một số mặt hàng xuất khẩu, nhập khẩu theo quy định riêng
+### 34003000000000002000003000000000000000000310000000000000000000402655300690000800
 
 Điều 34.3.NĐ.8.8. Một số mặt hàng xuất khẩu, nhập khẩu theo quy định riêng
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000003000000000000000000310000000000000000000402655300690000800
-
-**ID:** dk_00055013
-
----
-
-
-### Điều 34.3.QĐ.3.4. Nguyên tắc quản lý việc nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000400
 
 Điều 34.3.QĐ.3.4. Nguyên tắc quản lý việc nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000400
-
-**ID:** dk_00055014
-
----
-
-
-### Điều 34.3.QĐ.3.5. Tiêu chí nhập khẩu đối với dây chuyền công nghệ đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000500
 
 Điều 34.3.QĐ.3.5. Tiêu chí nhập khẩu đối với dây chuyền công nghệ đã qua sử dụng
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000500
-
-**ID:** dk_00055015
-
----
-
-
-### Điều 34.3.QĐ.3.6. Tiêu chí nhập khẩu đối với máy móc, thiết bị đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000600
 
 Điều 34.3.QĐ.3.6. Tiêu chí nhập khẩu đối với máy móc, thiết bị đã qua sử dụng
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000600
-
-**ID:** dk_00055016
-
----
-
-
-### Điều 34.3.QĐ.3.7. Hồ sơ, trình tự thủ tục nhập khẩu dây chuyền công nghệ đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000700
 
 Điều 34.3.QĐ.3.7. Hồ sơ, trình tự thủ tục nhập khẩu dây chuyền công nghệ đã qua sử dụng
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000700
-
-**ID:** dk_00055017
-
----
-
-
-### Điều 34.3.QĐ.3.8. Hồ sơ, trình tự, thủ tục nhập khẩu máy móc, thiết bị đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000800
 
 Điều 34.3.QĐ.3.8. Hồ sơ, trình tự, thủ tục nhập khẩu máy móc, thiết bị đã qua sử dụng
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000800
-
-**ID:** dk_00055018
-
----
-
-
-### Điều 34.3.QĐ.3.9. Nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000900
 
 Điều 34.3.QĐ.3.9. Nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180000900
-
-**ID:** dk_00055019
-
----
-
-
-### Điều 34.3.QĐ.3.10. Chứng thư giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001000
 
 Điều 34.3.QĐ.3.10. Chứng thư giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001000
-
-**ID:** dk_00055020
-
----
-
-
-### Điều 34.3.QĐ.3.11. Hồ sơ, trình tự thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001100
 
 Điều 34.3.QĐ.3.11. Hồ sơ, trình tự thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001100
-
-**ID:** dk_00055021
-
----
-
-
-### Điều 34.3.QĐ.3.12. Trách nhiệm của Bộ Khoa học và Công nghệ
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001200
 
 Điều 34.3.QĐ.3.12. Trách nhiệm của Bộ Khoa học và Công nghệ
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001200
-
-**ID:** dk_00055022
-
----
-
-
-### Điều 34.3.QĐ.3.13. Trách nhiệm của các bộ, cơ quan ngang bộ
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001300
 
 Điều 34.3.QĐ.3.13. Trách nhiệm của các bộ, cơ quan ngang bộ
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001300
-
-**ID:** dk_00055023
-
----
-
-
-### Điều 34.3.QĐ.3.14. Trách nhiệm của doanh nghiệp nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001400
 
 Điều 34.3.QĐ.3.14. Trách nhiệm của doanh nghiệp nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001400
-
-**ID:** dk_00055024
-
----
-
-
-### Điều 34.3.QĐ.3.15. Trách nhiệm của tổ chức giám định được chỉ định, thừa nhận
+### 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001500
 
 Điều 34.3.QĐ.3.15. Trách nhiệm của tổ chức giám định được chỉ định, thừa nhận
 
-**Chỉ mục:** 15
+### 3400300000000000200000400000000000000000
 
-**Mã phân cấp:** 3400300000000000200000300000000000000000031000000000000000000040265530069000080000502689200180001500
+Mục 4 CHỨNG NHẬN XUẤT XỨ HÀNG HÓA
 
-**ID:** dk_00055025
-
----
-
-
-### Điều 34.3.LQ.32. Biện pháp chứng nhận xuất xứ hàng hóa
+### 340030000000000020000040000000000000000003200000000000000000
 
 Điều 34.3.LQ.32. Biện pháp chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 340030000000000020000040000000000000000003200000000000000000
-
-**ID:** dk_00055027
-
----
-
-
-### Điều 34.3.NĐ.7.4. Quy tắc xuất xứ ưu đãi theo Điều ước quốc tế
+### 34003000000000002000004000000000000000000320000000000000000000402648500310000400
 
 Điều 34.3.NĐ.7.4. Quy tắc xuất xứ ưu đãi theo Điều ước quốc tế
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802310800440000100
 
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310000400
+Điều 34.3.QĐ.1.1.
 
-**ID:** dk_00055028
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000200
 
----
+Điều 34.3.TT.2.2. Hàng hoá được cấp C/O
 
-
-### Điều 34.3.QĐ.1.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802310800440000100
-
-**ID:** dk_00055029
-
----
-
-
-### Điều 34.3.TT.2.2. Hàng hoá được cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000200
-
-**ID:** dk_00055030
-
----
-
-
-### Điều 34.3.TT.2.3. Trách nhiệm của người đề nghị cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000300
 
 Điều 34.3.TT.2.3. Trách nhiệm của người đề nghị cấp C/O
 
-**Chỉ mục:** 3
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000300
+Điều 34.3.TT.2.4. Trách nhiệm của Tổ chức cấp C/O
 
-**ID:** dk_00055031
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000500
 
----
+Điều 34.3.TT.2.5. Đăng ký hồ sơ thương nhân
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000600
 
-### Điều 34.3.TT.2.4. Trách nhiệm của Tổ chức cấp C/O
+Điều 34.3.TT.2.6. Hồ sơ đề nghị cấp C/O
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000700
 
-**Chỉ mục:** 4
+Điều 34.3.TT.2.7. Tiếp nhận hồ sơ đề nghị cấp C/O
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000400
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000800
 
-**ID:** dk_00055032
+Điều 34.3.TT.2.8. Cấp C/O
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000900
 
+Điều 34.3.TT.2.9. Thu hồi C/O đã cấp
 
-### Điều 34.3.TT.2.5. Đăng ký hồ sơ thương nhân
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100001000
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.2.10. Thẩm quyền ký C/O
 
-**Chỉ mục:** 5
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000500
+Điều 34.3.TT.2.11. Cơ quan đầu mối
 
-**ID:** dk_00055033
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100001200
 
----
+Điều 34.3.TT.2.12. Chế độ báo cáo
 
-
-### Điều 34.3.TT.2.6. Hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000600
-
-**ID:** dk_00055034
-
----
-
-
-### Điều 34.3.TT.2.7. Tiếp nhận hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000700
-
-**ID:** dk_00055035
-
----
-
-
-### Điều 34.3.TT.2.8. Cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000800
-
-**ID:** dk_00055036
-
----
-
-
-### Điều 34.3.TT.2.9. Thu hồi C/O đã cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100000900
-
-**ID:** dk_00055037
-
----
-
-
-### Điều 34.3.TT.2.10. Thẩm quyền ký C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100001000
-
-**ID:** dk_00055038
-
----
-
-
-### Điều 34.3.TT.2.11. Cơ quan đầu mối
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100001100
-
-**ID:** dk_00055039
-
----
-
-
-### Điều 34.3.TT.2.12. Chế độ báo cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802326900100001200
-
-**ID:** dk_00055040
-
----
-
-
-### Điều 34.3.TT.5.1. Hàng hoá được cấp Giấy chứng nhận xuất xứ hàng hoá Mẫu S
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000100
 
 Điều 34.3.TT.5.1. Hàng hoá được cấp Giấy chứng nhận xuất xứ hàng hoá Mẫu S
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000100
-
-**ID:** dk_00055041
-
----
-
-
-### Điều 34.3.TT.5.3. Trách nhiệm của người đề nghị cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000300
 
 Điều 34.3.TT.5.3. Trách nhiệm của người đề nghị cấp C/O
 
-**Chỉ mục:** 3
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000300
+Điều 34.3.TT.5.4. Trách nhiệm của Tổ chức cấp C/O
 
-**ID:** dk_00055042
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000500
 
----
+Điều 34.3.TT.5.5. Đăng ký hồ sơ thương nhân
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000600
 
-### Điều 34.3.TT.5.4. Trách nhiệm của Tổ chức cấp C/O
+Điều 34.3.TT.5.6. Hồ sơ đề nghị cấp C/O
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000700
 
-**Chỉ mục:** 4
+Điều 34.3.TT.5.7. Tiếp nhận hồ sơ đề nghị cấp C/O
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000400
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000800
 
-**ID:** dk_00055043
+Điều 34.3.TT.5.8. Cấp C/O
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000900
 
+Điều 34.3.TT.5.9. Thu hồi C/O đã cấp
 
-### Điều 34.3.TT.5.5. Đăng ký hồ sơ thương nhân
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040001000
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.5.10. Thẩm quyền ký C/O
 
-**Chỉ mục:** 5
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000500
+Điều 34.3.TT.5.11. Cơ quan đầu mối
 
-**ID:** dk_00055044
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040001200
 
----
+Điều 34.3.TT.5.12. Chế độ báo cáo
 
-
-### Điều 34.3.TT.5.6. Hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000600
-
-**ID:** dk_00055045
-
----
-
-
-### Điều 34.3.TT.5.7. Tiếp nhận hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000700
-
-**ID:** dk_00055046
-
----
-
-
-### Điều 34.3.TT.5.8. Cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000800
-
-**ID:** dk_00055047
-
----
-
-
-### Điều 34.3.TT.5.9. Thu hồi C/O đã cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040000900
-
-**ID:** dk_00055048
-
----
-
-
-### Điều 34.3.TT.5.10. Thẩm quyền ký C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040001000
-
-**ID:** dk_00055049
-
----
-
-
-### Điều 34.3.TT.5.11. Cơ quan đầu mối
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040001100
-
-**ID:** dk_00055050
-
----
-
-
-### Điều 34.3.TT.5.12. Chế độ báo cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802352100040001200
-
-**ID:** dk_00055051
-
----
-
-
-### Điều 34.3.TT.6.1. Hàng hoá được cấp Giấy chứng nhận xuất xứ hàng hoá Mẫu AI
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000100
 
 Điều 34.3.TT.6.1. Hàng hoá được cấp Giấy chứng nhận xuất xứ hàng hoá Mẫu AI
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000100
-
-**ID:** dk_00055052
-
----
-
-
-### Điều 34.3.TT.6.3. Trách nhiệm của người đề nghị cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000300
 
 Điều 34.3.TT.6.3. Trách nhiệm của người đề nghị cấp C/O
 
-**Chỉ mục:** 3
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000300
+Điều 34.3.TT.6.4. Trách nhiệm của Tổ chức cấp C/O
 
-**ID:** dk_00055053
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000500
 
----
+Điều 34.3.TT.6.5. Đăng ký hồ sơ thương nhân
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000600
 
-### Điều 34.3.TT.6.4. Trách nhiệm của Tổ chức cấp C/O
+Điều 34.3.TT.6.6. Hồ sơ đề nghị cấp C/O
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000700
 
-**Chỉ mục:** 4
+Điều 34.3.TT.6.7. Tiếp nhận hồ sơ đề nghị cấp C/O
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000400
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000800
 
-**ID:** dk_00055054
+Điều 34.3.TT.6.8. Cấp C/O
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000900
 
+Điều 34.3.TT.6.9. Thu hồi C/O đã cấp
 
-### Điều 34.3.TT.6.5. Đăng ký hồ sơ thương nhân
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150001000
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.6.10. Thẩm quyền ký C/O
 
-**Chỉ mục:** 5
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000500
+Điều 34.3.TT.6.11. Cơ quan đầu mối
 
-**ID:** dk_00055055
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150001200
 
----
+Điều 34.3.TT.6.12. Chế độ báo cáo
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802396500170000100
 
-### Điều 34.3.TT.6.6. Hồ sơ đề nghị cấp C/O
+Điều 34.3.TT.7.1. Giấy chứng nhận xuất xứ hàng hoá
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802396500170000200
 
-**Chỉ mục:** 6
+Điều 34.3.TT.7.2. Hiệu lực của C/O
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000600
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802396500170000300
 
-**ID:** dk_00055056
+Điều 34.3.TT.7.3. Quy tắc xuất xứ áp dụng
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802491100310000100
 
+Điều 34.3.TT.11.1.
 
-### Điều 34.3.TT.6.7. Tiếp nhận hồ sơ đề nghị cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802491100310000200
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.11.2.
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802513300200000100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000700
+Điều 34.3.TT.13.1.
 
-**ID:** dk_00055057
-
----
-
-
-### Điều 34.3.TT.6.8. Cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000800
-
-**ID:** dk_00055058
-
----
-
-
-### Điều 34.3.TT.6.9. Thu hồi C/O đã cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150000900
-
-**ID:** dk_00055059
-
----
-
-
-### Điều 34.3.TT.6.10. Thẩm quyền ký C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150001000
-
-**ID:** dk_00055060
-
----
-
-
-### Điều 34.3.TT.6.11. Cơ quan đầu mối
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150001100
-
-**ID:** dk_00055061
-
----
-
-
-### Điều 34.3.TT.6.12. Chế độ báo cáo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802360100150001200
-
-**ID:** dk_00055062
-
----
-
-
-### Điều 34.3.TT.7.1. Giấy chứng nhận xuất xứ hàng hoá
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802396500170000100
-
-**ID:** dk_00055063
-
----
-
-
-### Điều 34.3.TT.7.2. Hiệu lực của C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802396500170000200
-
-**ID:** dk_00055064
-
----
-
-
-### Điều 34.3.TT.7.3. Quy tắc xuất xứ áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802396500170000300
-
-**ID:** dk_00055065
-
----
-
-
-### Điều 34.3.TT.11.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802491100310000100
-
-**ID:** dk_00055066
-
----
-
-
-### Điều 34.3.TT.11.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802491100310000200
-
-**ID:** dk_00055067
-
----
-
-
-### Điều 34.3.TT.13.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802513300200000100
-
-**ID:** dk_00055068
-
----
-
-
-### Điều 34.3.TT.13.2. Thủ tục cấp và kiểm tra Giấy chứng nhận xuất xứ hàng hóa (C/O) mẫu AK
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802513300200000200
 
 Điều 34.3.TT.13.2. Thủ tục cấp và kiểm tra Giấy chứng nhận xuất xứ hàng hóa (C/O) mẫu AK
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802513300200000200
-
-**ID:** dk_00055069
-
----
-
-
-### Điều 34.3.TT.17.4. Tiêu chí lựa chọn tham gia thí điểm tự chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000400
 
 Điều 34.3.TT.17.4. Tiêu chí lựa chọn tham gia thí điểm tự chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000400
+Điều 34.3.TT.17.5. Cấp Văn bản chấp thuận
 
-**ID:** dk_00055070
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000600
 
----
+Điều 34.3.TT.17.6. Văn bản chấp thuận
 
-
-### Điều 34.3.TT.17.5. Cấp Văn bản chấp thuận
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000500
-
-**ID:** dk_00055071
-
----
-
-
-### Điều 34.3.TT.17.6. Văn bản chấp thuận
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000600
-
-**ID:** dk_00055072
-
----
-
-
-### Điều 34.3.TT.17.7. Hóa đơn thương mại có nội dung khai báo xuất xứ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000700
 
 Điều 34.3.TT.17.7. Hóa đơn thương mại có nội dung khai báo xuất xứ
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000700
-
-**ID:** dk_00055073
-
----
-
-
-### Điều 34.3.TT.17.8. Cho hưởng ưu đãi thuế quan đối với hàng hóa nhập khẩu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000800
 
 Điều 34.3.TT.17.8. Cho hưởng ưu đãi thuế quan đối với hàng hóa nhập khẩu
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000800
-
-**ID:** dk_00055074
-
----
-
-
-### Điều 34.3.TT.17.9. Kiểm tra, xác minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000900
 
 Điều 34.3.TT.17.9. Kiểm tra, xác minh xuất xứ hàng hóa
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280000900
-
-**ID:** dk_00055075
-
----
-
-
-### Điều 34.3.TT.17.10. Thu hồi Văn bản chấp thuận tham gia thí điểm tự chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280001000
 
 Điều 34.3.TT.17.10. Thu hồi Văn bản chấp thuận tham gia thí điểm tự chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280001000
-
-**ID:** dk_00055076
-
----
-
-
-### Điều 34.3.TT.17.11. Trách nhiệm của thương nhân được cấp Văn bản chấp thuận
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280001100
 
 Điều 34.3.TT.17.11. Trách nhiệm của thương nhân được cấp Văn bản chấp thuận
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280001100
-
-**ID:** dk_00055077
-
----
-
-
-### Điều 34.3.TT.17.12. Trách nhiệm của các cơ quan, tổ chức liên quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280001200
 
 Điều 34.3.TT.17.12. Trách nhiệm của các cơ quan, tổ chức liên quan
 
-**Chỉ mục:** 12
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802558900310000100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802555400280001200
+Điều 34.3.TT.18.1. Ban hành kèm theo Thông tư này
 
-**ID:** dk_00055078
-
----
-
-
-### Điều 34.3.TT.18.1. Ban hành kèm theo Thông tư này
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802558900310000100
-
-**ID:** dk_00055079
-
----
-
-
-### Điều 34.3.TT.18.2. Thủ tục cấp và kiểm tra Giấy chứng nhận xuất xứ hàng hóa mẫu AANZ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802558900310000200
 
 Điều 34.3.TT.18.2. Thủ tục cấp và kiểm tra Giấy chứng nhận xuất xứ hàng hóa mẫu AANZ
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802558900310000200
-
-**ID:** dk_00055080
-
----
-
-
-### Điều 34.3.TT.19.1. Quy tắc xuất xứ Việt Nam - Hàn Quốc
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802564400400000100
 
 Điều 34.3.TT.19.1. Quy tắc xuất xứ Việt Nam - Hàn Quốc
 
-**Chỉ mục:** 1
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802564400400000200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802564400400000100
+Điều 34.3.TT.19.2. Thủ tục cấp và kiểm tra C/O
 
-**ID:** dk_00055081
-
----
-
-
-### Điều 34.3.TT.19.2. Thủ tục cấp và kiểm tra C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802564400400000200
-
-**ID:** dk_00055082
-
----
-
-
-### Điều 34.3.TT.20.2. Quy tắc xuất xứ hàng hóa trong Hiệp định VN - EAEU FTA
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802595100210000200
 
 Điều 34.3.TT.20.2. Quy tắc xuất xứ hàng hóa trong Hiệp định VN - EAEU FTA
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802595100210000200
-
-**ID:** dk_00055083
-
----
-
-
-### Điều 34.3.TT.20.3. Thủ tục cấp và kiểm tra Giấy chứng nhận xuất xứ hàng hóa mẫu EAV
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802595100210000300
 
 Điều 34.3.TT.20.3. Thủ tục cấp và kiểm tra Giấy chứng nhận xuất xứ hàng hóa mẫu EAV
 
-**Chỉ mục:** 3
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802596400220000200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802595100210000300
+Điều 34.3.TT.21.2. Quy tắc xuất xứ
 
-**ID:** dk_00055084
-
----
-
-
-### Điều 34.3.TT.21.2. Quy tắc xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802596400220000200
-
-**ID:** dk_00055085
-
----
-
-
-### Điều 34.3.TT.21.3. Thủ tục cấp, kiểm tra C/O và tự chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802596400220000300
 
 Điều 34.3.TT.21.3. Thủ tục cấp, kiểm tra C/O và tự chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 3
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802596400220000300
+Điều 34.3.TT.35.4. Đăng ký mã số REX
 
-**ID:** dk_00055086
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000500
 
----
+Điều 34.3.TT.35.5. Thu hồi mã số REX
 
-
-### Điều 34.3.TT.35.4. Đăng ký mã số REX
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000400
-
-**ID:** dk_00055087
-
----
-
-
-### Điều 34.3.TT.35.5. Thu hồi mã số REX
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000500
-
-**ID:** dk_00055088
-
----
-
-
-### Điều 34.3.TT.35.6. Chứng từ chứng nhận xuất xứ hàng hóa theo GSP
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000600
 
 Điều 34.3.TT.35.6. Chứng từ chứng nhận xuất xứ hàng hóa theo GSP
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000600
-
-**ID:** dk_00055089
-
----
-
-
-### Điều 34.3.TT.35.7. Các trường hợp được miễn chứng từ chứng nhận xuất xứ hàng hóa theo GSP
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000700
 
 Điều 34.3.TT.35.7. Các trường hợp được miễn chứng từ chứng nhận xuất xứ hàng hóa theo GSP
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000700
-
-**ID:** dk_00055090
-
----
-
-
-### Điều 34.3.TT.35.8. Kiểm tra, xác minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000800
 
 Điều 34.3.TT.35.8. Kiểm tra, xác minh xuất xứ hàng hóa
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000800
-
-**ID:** dk_00055091
-
----
-
-
-### Điều 34.3.TT.35.9. Trách nhiệm của các đơn vị trực thuộc Bộ Công Thương
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000900
 
 Điều 34.3.TT.35.9. Trách nhiệm của các đơn vị trực thuộc Bộ Công Thương
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380000900
-
-**ID:** dk_00055092
-
----
-
-
-### Điều 34.3.TT.35.10. Trách nhiệm của tổ chức tiếp nhận đăng ký mã số REX
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380001000
 
 Điều 34.3.TT.35.10. Trách nhiệm của tổ chức tiếp nhận đăng ký mã số REX
 
-**Chỉ mục:** 10
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380001000
+Điều 34.3.TT.35.11. Trách nhiệm của thương nhân
 
-**ID:** dk_00055093
-
----
-
-
-### Điều 34.3.TT.35.11. Trách nhiệm của thương nhân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802672100380001100
-
-**ID:** dk_00055094
-
----
-
-
-### Điều 34.3.TT.43.4. Quy định về chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000400
 
 Điều 34.3.TT.43.4. Quy định về chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000400
+Điều 34.3.TT.43.5. Hàng hóa có xuất xứ
 
-**ID:** dk_00055095
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000600
 
----
+Điều 34.3.TT.43.6. Hàng hóa có xuất xứ thuần túy
 
-
-### Điều 34.3.TT.43.5. Hàng hóa có xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000500
-
-**ID:** dk_00055096
-
----
-
-
-### Điều 34.3.TT.43.6. Hàng hóa có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000600
-
-**ID:** dk_00055097
-
----
-
-
-### Điều 34.3.TT.43.7. Quy định về nguyên liệu tái sử dụng trong quá trình sản xuất hàng tân trang, tái chế tạo
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000700
 
 Điều 34.3.TT.43.7. Quy định về nguyên liệu tái sử dụng trong quá trình sản xuất hàng tân trang, tái chế tạo
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000700
+Điều 34.3.TT.43.8. Hàm lượng giá trị khu vực
 
-**ID:** dk_00055098
-
----
-
-
-### Điều 34.3.TT.43.8. Hàm lượng giá trị khu vực
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000800
-
-**ID:** dk_00055099
-
----
-
-
-### Điều 34.3.TT.43.9. Nguyên liệu sử dụng trong quá trình sản xuất
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000900
 
 Điều 34.3.TT.43.9. Nguyên liệu sử dụng trong quá trình sản xuất
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030000900
-
-**ID:** dk_00055100
-
----
-
-
-### Điều 34.3.TT.43.10. Trị giá nguyên liệu sử dụng trong quá trình sản xuất
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001000
 
 Điều 34.3.TT.43.10. Trị giá nguyên liệu sử dụng trong quá trình sản xuất
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001000
-
-**ID:** dk_00055101
-
----
-
-
-### Điều 34.3.TT.43.11. Điều chỉnh thêm trị giá nguyên liệu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001100
 
 Điều 34.3.TT.43.11. Điều chỉnh thêm trị giá nguyên liệu
 
-**Chỉ mục:** 11
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001100
+Điều 34.3.TT.43.12. Chi phí tịnh
 
-**ID:** dk_00055102
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001300
 
----
+Điều 34.3.TT.43.13. Cộng gộp
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001400
 
-### Điều 34.3.TT.43.12. Chi phí tịnh
+Điều 34.3.TT.43.14. De Minimis
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001200
-
-**ID:** dk_00055103
-
----
-
-
-### Điều 34.3.TT.43.13. Cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001300
-
-**ID:** dk_00055104
-
----
-
-
-### Điều 34.3.TT.43.14. De Minimis
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001400
-
-**ID:** dk_00055105
-
----
-
-
-### Điều 34.3.TT.43.15. Hàng hóa hoặc nguyên liệu giống nhau và có thể thay thế lẫn nhau
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001500
 
 Điều 34.3.TT.43.15. Hàng hóa hoặc nguyên liệu giống nhau và có thể thay thế lẫn nhau
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001500
-
-**ID:** dk_00055106
-
----
-
-
-### Điều 34.3.TT.43.16. Phụ kiện, phụ tùng, dụng cụ, tài liệu về sản phẩm hoặc hướng dẫn sử dụng
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001600
 
 Điều 34.3.TT.43.16. Phụ kiện, phụ tùng, dụng cụ, tài liệu về sản phẩm hoặc hướng dẫn sử dụng
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001600
-
-**ID:** dk_00055107
-
----
-
-
-### Điều 34.3.TT.43.17. Vật liệu đóng gói và bao bì đóng gói để bán lẻ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001700
 
 Điều 34.3.TT.43.17. Vật liệu đóng gói và bao bì đóng gói để bán lẻ
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001700
-
-**ID:** dk_00055108
-
----
-
-
-### Điều 34.3.TT.43.18. Vật liệu đóng gói và bao bì đóng gói để vận chuyển
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001800
 
 Điều 34.3.TT.43.18. Vật liệu đóng gói và bao bì đóng gói để vận chuyển
 
-**Chỉ mục:** 18
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001900
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001800
+Điều 34.3.TT.43.19. Nguyên liệu gián tiếp
 
-**ID:** dk_00055109
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002000
 
----
+Điều 34.3.TT.43.20. Bộ hàng hóa
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002100
 
-### Điều 34.3.TT.43.19. Nguyên liệu gián tiếp
+Điều 34.3.TT.43.21. Quá cảnh và chuyển tải
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030001900
-
-**ID:** dk_00055110
-
----
-
-
-### Điều 34.3.TT.43.20. Bộ hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002000
-
-**ID:** dk_00055111
-
----
-
-
-### Điều 34.3.TT.43.21. Quá cảnh và chuyển tải
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002100
-
-**ID:** dk_00055112
-
----
-
-
-### Điều 34.3.TT.43.22. Cấp chứng từ chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002200
 
 Điều 34.3.TT.43.22. Cấp chứng từ chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002200
-
-**ID:** dk_00055113
-
----
-
-
-### Điều 34.3.TT.43.23. Các khác biệt trên chứng từ chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002300
 
 Điều 34.3.TT.43.23. Các khác biệt trên chứng từ chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002300
-
-**ID:** dk_00055114
-
----
-
-
-### Điều 34.3.TT.43.24. Miễn chứng từ chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002400
 
 Điều 34.3.TT.43.24. Miễn chứng từ chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002400
-
-**ID:** dk_00055115
-
----
-
-
-### Điều 34.3.TT.43.25. Nghĩa vụ liên quan đến xuất khẩu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002500
 
 Điều 34.3.TT.43.25. Nghĩa vụ liên quan đến xuất khẩu
 
-**Chỉ mục:** 25
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002600
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002500
+Điều 34.3.TT.43.26. Lưu trữ hồ sơ
 
-**ID:** dk_00055116
-
----
-
-
-### Điều 34.3.TT.43.26. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002600
-
-**ID:** dk_00055117
-
----
-
-
-### Điều 34.3.TT.43.27. Kiểm tra, xác minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002700
 
 Điều 34.3.TT.43.27. Kiểm tra, xác minh xuất xứ hàng hóa
 
-**Chỉ mục:** 27
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002700
+Điều 34.3.TT.43.28. Bảo mật
 
-**ID:** dk_00055118
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002900
 
----
+Điều 34.3.TT.43.29. De Minimis hàng dệt may
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030003000
 
-### Điều 34.3.TT.43.28. Bảo mật
+Điều 34.3.TT.43.30. Bộ hàng hóa
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030003100
 
-**Chỉ mục:** 28
+Điều 34.3.TT.43.31. Danh mục nguồn cung thiếu hụt
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002800
-
-**ID:** dk_00055119
-
----
-
-
-### Điều 34.3.TT.43.29. De Minimis hàng dệt may
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030002900
-
-**ID:** dk_00055120
-
----
-
-
-### Điều 34.3.TT.43.30. Bộ hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030003000
-
-**ID:** dk_00055121
-
----
-
-
-### Điều 34.3.TT.43.31. Danh mục nguồn cung thiếu hụt
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030003100
-
-**ID:** dk_00055122
-
----
-
-
-### Điều 34.3.TT.43.32. Cấp C/O đối với hàng hóa xuất khẩu trước ngày Thông tư có hiệu lực
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030003200
 
 Điều 34.3.TT.43.32. Cấp C/O đối với hàng hóa xuất khẩu trước ngày Thông tư có hiệu lực
 
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802680500030003200
-
-**ID:** dk_00055123
-
----
-
-
-### Điều 34.3.TT.44.3. Hạn ngạch thuế quan xuất khẩu hàng dệt may sang Mê-hi-cô
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000300
 
 Điều 34.3.TT.44.3. Hạn ngạch thuế quan xuất khẩu hàng dệt may sang Mê-hi-cô
 
-**Chỉ mục:** 3
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000300
+Điều 34.3.TT.44.4. Quy định về ưu đãi thuế quan
 
-**ID:** dk_00055124
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000500
 
----
+Điều 34.3.TT.44.5. Quy tắc xuất xứ cụ thể mặt hàng
 
-
-### Điều 34.3.TT.44.4. Quy định về ưu đãi thuế quan
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000400
-
-**ID:** dk_00055125
-
----
-
-
-### Điều 34.3.TT.44.5. Quy tắc xuất xứ cụ thể mặt hàng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000500
-
-**ID:** dk_00055126
-
----
-
-
-### Điều 34.3.TT.44.6. Nguyên tắc điều hành hạn ngạch thuế quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000600
 
 Điều 34.3.TT.44.6. Nguyên tắc điều hành hạn ngạch thuế quan
 
-**Chỉ mục:** 6
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000600
+Điều 34.3.TT.44.7. Cơ quan cấp Chứng thư xuất khẩu
 
-**ID:** dk_00055127
-
----
-
-
-### Điều 34.3.TT.44.7. Cơ quan cấp Chứng thư xuất khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000700
-
-**ID:** dk_00055128
-
----
-
-
-### Điều 34.3.TT.44.8. Trình tự, thủ tục cấp Chứng thư xuất khẩu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000800
 
 Điều 34.3.TT.44.8. Trình tự, thủ tục cấp Chứng thư xuất khẩu
 
-**Chỉ mục:** 8
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000900
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000800
+Điều 34.3.TT.44.9. Đăng ký thông tin
 
-**ID:** dk_00055129
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070001000
 
----
+Điều 34.3.TT.44.10. Lưu trữ hồ sơ
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070001100
 
-### Điều 34.3.TT.44.9. Đăng ký thông tin
+Điều 34.3.TT.44.11. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070000900
-
-**ID:** dk_00055130
-
----
-
-
-### Điều 34.3.TT.44.10. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070001000
-
-**ID:** dk_00055131
-
----
-
-
-### Điều 34.3.TT.44.11. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802689200070001100
-
-**ID:** dk_00055132
-
----
-
-
-### Điều 34.3.TT.48.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000400
 
 Điều 34.3.TT.48.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000400
+Điều 34.3.TT.48.5. Hàng hóa có xuất xứ
 
-**ID:** dk_00055133
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000600
 
----
+Điều 34.3.TT.48.6. Hàng hóa có xuất xứ thuần túy
 
-
-### Điều 34.3.TT.48.5. Hàng hóa có xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000500
-
-**ID:** dk_00055134
-
----
-
-
-### Điều 34.3.TT.48.6. Hàng hóa có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000600
-
-**ID:** dk_00055135
-
----
-
-
-### Điều 34.3.TT.48.7. Hàng hóa có xuất xứ không thuần túy
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000700
 
 Điều 34.3.TT.48.7. Hàng hóa có xuất xứ không thuần túy
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000700
+Điều 34.3.TT.48.8. Công thức tính RVC
 
-**ID:** dk_00055136
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000900
 
----
+Điều 34.3.TT.48.9. Cộng gộp
 
-
-### Điều 34.3.TT.48.8. Công thức tính RVC
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000800
-
-**ID:** dk_00055137
-
----
-
-
-### Điều 34.3.TT.48.9. Cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120000900
-
-**ID:** dk_00055138
-
----
-
-
-### Điều 34.3.TT.48.10. Công đoạn gia công, chế biến đơn giản
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001000
 
 Điều 34.3.TT.48.10. Công đoạn gia công, chế biến đơn giản
 
-**Chỉ mục:** 10
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001000
+Điều 34.3.TT.48.11. Vận chuyển trực tiếp
 
-**ID:** dk_00055139
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001200
 
----
+Điều 34.3.TT.48.12. De Minimis
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001300
 
-### Điều 34.3.TT.48.11. Vận chuyển trực tiếp
+Điều 34.3.TT.48.13. Nguyên liệu đóng gói và bao bì
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001400
 
-**Chỉ mục:** 11
+Điều 34.3.TT.48.14. Phụ kiện, phụ tùng và dụng cụ
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001100
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001500
 
-**ID:** dk_00055140
+Điều 34.3.TT.48.15. Các yếu tố trung gian
 
----
-
-
-### Điều 34.3.TT.48.12. De Minimis
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001200
-
-**ID:** dk_00055141
-
----
-
-
-### Điều 34.3.TT.48.13. Nguyên liệu đóng gói và bao bì
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001300
-
-**ID:** dk_00055142
-
----
-
-
-### Điều 34.3.TT.48.14. Phụ kiện, phụ tùng và dụng cụ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001400
-
-**ID:** dk_00055143
-
----
-
-
-### Điều 34.3.TT.48.15. Các yếu tố trung gian
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001500
-
-**ID:** dk_00055144
-
----
-
-
-### Điều 34.3.TT.48.16. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001600
 
 Điều 34.3.TT.48.16. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
 
-**Chỉ mục:** 16
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001600
+Điều 34.3.TT.48.17. Kiểm tra trước khi xuất khẩu
 
-**ID:** dk_00055145
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001800
 
----
+Điều 34.3.TT.48.18. Kiểm tra hồ sơ đề nghị cấp C/O
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001900
 
-### Điều 34.3.TT.48.17. Kiểm tra trước khi xuất khẩu
+Điều 34.3.TT.48.19. C/O mẫu E
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002000
 
-**Chỉ mục:** 17
+Điều 34.3.TT.48.20. Xử lý sai sót trên C/O mẫu E
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001700
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002100
 
-**ID:** dk_00055146
+Điều 34.3.TT.48.21. Cấp C/O mẫu E
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002200
 
+Điều 34.3.TT.48.22. C/O mẫu E giáp lưng
 
-### Điều 34.3.TT.48.18. Kiểm tra hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001800
-
-**ID:** dk_00055147
-
----
-
-
-### Điều 34.3.TT.48.19. C/O mẫu E
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120001900
-
-**ID:** dk_00055148
-
----
-
-
-### Điều 34.3.TT.48.20. Xử lý sai sót trên C/O mẫu E
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002000
-
-**ID:** dk_00055149
-
----
-
-
-### Điều 34.3.TT.48.21. Cấp C/O mẫu E
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002100
-
-**ID:** dk_00055150
-
----
-
-
-### Điều 34.3.TT.48.22. C/O mẫu E giáp lưng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002200
-
-**ID:** dk_00055151
-
----
-
-
-### Điều 34.3.TT.48.23. C/O mẫu E bị mất, thất lạc hoặc hư hỏng
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002300
 
 Điều 34.3.TT.48.23. C/O mẫu E bị mất, thất lạc hoặc hư hỏng
 
-**Chỉ mục:** 23
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002300
+Điều 34.3.TT.48.24. Nộp C/O mẫu E
 
-**ID:** dk_00055152
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002500
 
----
+Điều 34.3.TT.48.25. Thời hạn hiệu lực của C/O
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002600
 
-### Điều 34.3.TT.48.24. Nộp C/O mẫu E
+Điều 34.3.TT.48.26. Miễn nộp C/O mẫu E
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002700
 
-**Chỉ mục:** 24
+Điều 34.3.TT.48.27. Xử lý khác biệt nhỏ
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002400
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002800
 
-**ID:** dk_00055153
+Điều 34.3.TT.48.28. Kiểm tra sau
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002900
 
+Điều 34.3.TT.48.29. Lưu trữ hồ sơ
 
-### Điều 34.3.TT.48.25. Thời hạn hiệu lực của C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003000
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.48.30. Thay đổi điểm đến của hàng hóa
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002500
-
-**ID:** dk_00055154
-
----
-
-
-### Điều 34.3.TT.48.26. Miễn nộp C/O mẫu E
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002600
-
-**ID:** dk_00055155
-
----
-
-
-### Điều 34.3.TT.48.27. Xử lý khác biệt nhỏ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002700
-
-**ID:** dk_00055156
-
----
-
-
-### Điều 34.3.TT.48.28. Kiểm tra sau
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002800
-
-**ID:** dk_00055157
-
----
-
-
-### Điều 34.3.TT.48.29. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120002900
-
-**ID:** dk_00055158
-
----
-
-
-### Điều 34.3.TT.48.30. Thay đổi điểm đến của hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003000
-
-**ID:** dk_00055159
-
----
-
-
-### Điều 34.3.TT.48.31. Chứng từ áp dụng cho quy định vận chuyển trực tiếp
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003100
 
 Điều 34.3.TT.48.31. Chứng từ áp dụng cho quy định vận chuyển trực tiếp
 
-**Chỉ mục:** 31
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003100
+Điều 34.3.TT.48.32. Hàng hóa triển lãm
 
-**ID:** dk_00055160
-
----
-
-
-### Điều 34.3.TT.48.32. Hàng hóa triển lãm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003200
-
-**ID:** dk_00055161
-
----
-
-
-### Điều 34.3.TT.48.33. Hóa đơn do bên thứ ba phát hành
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003300
 
 Điều 34.3.TT.48.33. Hóa đơn do bên thứ ba phát hành
 
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802699400120003300
-
-**ID:** dk_00055162
-
----
-
-
-### Điều 34.3.TT.50.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000400
 
 Điều 34.3.TT.50.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000400
+Điều 34.3.TT.50.5. Hàng hóa có xuất xứ
 
-**ID:** dk_00055163
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000600
 
----
+Điều 34.3.TT.50.6. Hàng hóa có xuất xứ thuần túy
 
-
-### Điều 34.3.TT.50.5. Hàng hóa có xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000500
-
-**ID:** dk_00055164
-
----
-
-
-### Điều 34.3.TT.50.6. Hàng hóa có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000600
-
-**ID:** dk_00055165
-
----
-
-
-### Điều 34.3.TT.50.7. Hàng hóa có xuất xứ không thuần túy
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000700
 
 Điều 34.3.TT.50.7. Hàng hóa có xuất xứ không thuần túy
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000700
+Điều 34.3.TT.50.8. Công thức tính RVC
 
-**ID:** dk_00055166
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000900
 
----
+Điều 34.3.TT.50.9. Cộng gộp
 
-
-### Điều 34.3.TT.50.8. Công thức tính RVC
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000800
-
-**ID:** dk_00055167
-
----
-
-
-### Điều 34.3.TT.50.9. Cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210000900
-
-**ID:** dk_00055168
-
----
-
-
-### Điều 34.3.TT.50.10. Công đoạn gia công, chế biến đơn giản
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001000
 
 Điều 34.3.TT.50.10. Công đoạn gia công, chế biến đơn giản
 
-**Chỉ mục:** 10
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001000
+Điều 34.3.TT.50.11. Vận chuyển trực tiếp
 
-**ID:** dk_00055169
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001200
 
----
+Điều 34.3.TT.50.12. De Minimis
 
-
-### Điều 34.3.TT.50.11. Vận chuyển trực tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001100
-
-**ID:** dk_00055170
-
----
-
-
-### Điều 34.3.TT.50.12. De Minimis
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001200
-
-**ID:** dk_00055171
-
----
-
-
-### Điều 34.3.TT.50.13. Nguyên liệu đóng gói và bao bì đóng gói
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001300
 
 Điều 34.3.TT.50.13. Nguyên liệu đóng gói và bao bì đóng gói
 
-**Chỉ mục:** 13
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001300
+Điều 34.3.TT.50.14. Phụ kiện, phụ tùng và dụng cụ
 
-**ID:** dk_00055172
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001500
 
----
+Điều 34.3.TT.50.15. Các yếu tố trung gian
 
-
-### Điều 34.3.TT.50.14. Phụ kiện, phụ tùng và dụng cụ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001400
-
-**ID:** dk_00055173
-
----
-
-
-### Điều 34.3.TT.50.15. Các yếu tố trung gian
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001500
-
-**ID:** dk_00055174
-
----
-
-
-### Điều 34.3.TT.50.16. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001600
 
 Điều 34.3.TT.50.16. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
 
-**Chỉ mục:** 16
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001600
+Điều 34.3.TT.50.17. Kiểm tra trước khi xuất khẩu
 
-**ID:** dk_00055175
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001800
 
----
+Điều 34.3.TT.50.18. Nộp hồ sơ đề nghị cấp C/O
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001900
 
-### Điều 34.3.TT.50.17. Kiểm tra trước khi xuất khẩu
+Điều 34.3.TT.50.19. Kiểm tra hồ sơ đề nghị cấp C/O
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002000
 
-**Chỉ mục:** 17
+Điều 34.3.TT.50.20. C/O mẫu AHK
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001700
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002100
 
-**ID:** dk_00055176
+Điều 34.3.TT.50.21. Xử lý sai sót trên C/O mẫu AHK
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002200
 
+Điều 34.3.TT.50.22. Cấp C/O mẫu AHK
 
-### Điều 34.3.TT.50.18. Nộp hồ sơ đề nghị cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002300
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.50.23. C/O mẫu AHK giáp lưng
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001800
-
-**ID:** dk_00055177
-
----
-
-
-### Điều 34.3.TT.50.19. Kiểm tra hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210001900
-
-**ID:** dk_00055178
-
----
-
-
-### Điều 34.3.TT.50.20. C/O mẫu AHK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002000
-
-**ID:** dk_00055179
-
----
-
-
-### Điều 34.3.TT.50.21. Xử lý sai sót trên C/O mẫu AHK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002100
-
-**ID:** dk_00055180
-
----
-
-
-### Điều 34.3.TT.50.22. Cấp C/O mẫu AHK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002200
-
-**ID:** dk_00055181
-
----
-
-
-### Điều 34.3.TT.50.23. C/O mẫu AHK giáp lưng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002300
-
-**ID:** dk_00055182
-
----
-
-
-### Điều 34.3.TT.50.24. C/O mẫu AHK bị mất, thất lạc hoặc hư hỏng
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002400
 
 Điều 34.3.TT.50.24. C/O mẫu AHK bị mất, thất lạc hoặc hư hỏng
 
-**Chỉ mục:** 24
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002400
+Điều 34.3.TT.50.25. Nộp C/O mẫu AHK
 
-**ID:** dk_00055183
-
----
-
-
-### Điều 34.3.TT.50.25. Nộp C/O mẫu AHK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002500
-
-**ID:** dk_00055184
-
----
-
-
-### Điều 34.3.TT.50.26. Thời hạn hiệu lực của C/O mẫu AHK
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002600
 
 Điều 34.3.TT.50.26. Thời hạn hiệu lực của C/O mẫu AHK
 
-**Chỉ mục:** 26
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002600
+Điều 34.3.TT.50.27. Miễn nộp C/O mẫu AHK
 
-**ID:** dk_00055185
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002800
 
----
+Điều 34.3.TT.50.28. Xử lý khác biệt nhỏ
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002900
 
-### Điều 34.3.TT.50.27. Miễn nộp C/O mẫu AHK
+Điều 34.3.TT.50.29. Lưu trữ hồ sơ
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002700
-
-**ID:** dk_00055186
-
----
-
-
-### Điều 34.3.TT.50.28. Xử lý khác biệt nhỏ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002800
-
-**ID:** dk_00055187
-
----
-
-
-### Điều 34.3.TT.50.29. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210002900
-
-**ID:** dk_00055188
-
----
-
-
-### Điều 34.3.TT.50.30. Kiểm tra, xác minh sau khi cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003000
 
 Điều 34.3.TT.50.30. Kiểm tra, xác minh sau khi cấp C/O
 
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003000
-
-**ID:** dk_00055189
-
----
-
-
-### Điều 34.3.TT.50.31. Chứng từ áp dụng cho quy định vận chuyển trực tiếp
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003100
 
 Điều 34.3.TT.50.31. Chứng từ áp dụng cho quy định vận chuyển trực tiếp
 
-**Chỉ mục:** 31
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003100
+Điều 34.3.TT.50.32. Hàng hóa triển lãm
 
-**ID:** dk_00055190
-
----
-
-
-### Điều 34.3.TT.50.32. Hàng hóa triển lãm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003200
-
-**ID:** dk_00055191
-
----
-
-
-### Điều 34.3.TT.50.33. Hóa đơn do bên thứ ba phát hành
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003300
 
 Điều 34.3.TT.50.33. Hóa đơn do bên thứ ba phát hành
 
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802709500210003300
-
-**ID:** dk_00055192
-
----
-
-
-### Điều 34.3.TT.60.4. Quy định chứng nhận và kiểm tra chứng từ chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000400
 
 Điều 34.3.TT.60.4. Quy định chứng nhận và kiểm tra chứng từ chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000400
+Điều 34.3.TT.60.5. Hàng hóa có xuất xứ
 
-**ID:** dk_00055193
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000600
 
----
+Điều 34.3.TT.60.6. Hàng hóa có xuất xứ thuần túy
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000700
 
-### Điều 34.3.TT.60.5. Hàng hóa có xuất xứ
+Điều 34.3.TT.60.7. Cộng gộp
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000800
 
-**Chỉ mục:** 5
+Điều 34.3.TT.60.8. De Minimis
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000500
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000900
 
-**ID:** dk_00055194
+Điều 34.3.TT.60.9. Nguyên liệu trung gian
 
----
-
-
-### Điều 34.3.TT.60.6. Hàng hóa có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000600
-
-**ID:** dk_00055195
-
----
-
-
-### Điều 34.3.TT.60.7. Cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000700
-
-**ID:** dk_00055196
-
----
-
-
-### Điều 34.3.TT.60.8. De Minimis
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000800
-
-**ID:** dk_00055197
-
----
-
-
-### Điều 34.3.TT.60.9. Nguyên liệu trung gian
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080000900
-
-**ID:** dk_00055198
-
----
-
-
-### Điều 34.3.TT.60.10. Công đoạn gia công, chế biến đơn giản
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001000
 
 Điều 34.3.TT.60.10. Công đoạn gia công, chế biến đơn giản
 
-**Chỉ mục:** 10
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001000
+Điều 34.3.TT.60.11. Phụ kiện, phụ tùng và dụng cụ
 
-**ID:** dk_00055199
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001200
 
----
+Điều 34.3.TT.60.12. Bộ hàng hóa
 
-
-### Điều 34.3.TT.60.11. Phụ kiện, phụ tùng và dụng cụ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001100
-
-**ID:** dk_00055200
-
----
-
-
-### Điều 34.3.TT.60.12. Bộ hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001200
-
-**ID:** dk_00055201
-
----
-
-
-### Điều 34.3.TT.60.13. Vật liệu đóng gói và bao bì đóng gói để bán lẻ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001300
 
 Điều 34.3.TT.60.13. Vật liệu đóng gói và bao bì đóng gói để bán lẻ
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001300
-
-**ID:** dk_00055202
-
----
-
-
-### Điều 34.3.TT.60.14. Vật liệu đóng gói và bao bì đóng gói để vận chuyển
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001400
 
 Điều 34.3.TT.60.14. Vật liệu đóng gói và bao bì đóng gói để vận chuyển
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001400
-
-**ID:** dk_00055203
-
----
-
-
-### Điều 34.3.TT.60.15. Yếu tố trung gian và nguyên liệu gián tiếp dùng trong sản xuất
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001500
 
 Điều 34.3.TT.60.15. Yếu tố trung gian và nguyên liệu gián tiếp dùng trong sản xuất
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001500
-
-**ID:** dk_00055204
-
----
-
-
-### Điều 34.3.TT.60.16. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001600
 
 Điều 34.3.TT.60.16. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
 
-**Chỉ mục:** 16
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001600
+Điều 34.3.TT.60.17. Vận chuyển trực tiếp
 
-**ID:** dk_00055205
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001800
 
----
+Điều 34.3.TT.60.18. Hàng hóa gửi kho ngoại quan
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001900
 
-### Điều 34.3.TT.60.17. Vận chuyển trực tiếp
+Điều 34.3.TT.60.19. Hàng hóa triển lãm
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001700
-
-**ID:** dk_00055206
-
----
-
-
-### Điều 34.3.TT.60.18. Hàng hóa gửi kho ngoại quan
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001800
-
-**ID:** dk_00055207
-
----
-
-
-### Điều 34.3.TT.60.19. Hàng hóa triển lãm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080001900
-
-**ID:** dk_00055208
-
----
-
-
-### Điều 34.3.TT.60.20. Giấy chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002000
 
 Điều 34.3.TT.60.20. Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002000
-
-**ID:** dk_00055209
-
----
-
-
-### Điều 34.3.TT.60.21. Hiệu lực của Giấy chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002100
 
 Điều 34.3.TT.60.21. Hiệu lực của Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 21
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002100
+Điều 34.3.TT.60.22. Lưu trữ hồ sơ
 
-**ID:** dk_00055210
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002300
 
----
+Điều 34.3.TT.60.23. Hóa đơn Nước thứ ba
 
-
-### Điều 34.3.TT.60.22. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002200
-
-**ID:** dk_00055211
-
----
-
-
-### Điều 34.3.TT.60.23. Hóa đơn Nước thứ ba
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002300
-
-**ID:** dk_00055212
-
----
-
-
-### Điều 34.3.TT.60.24. Cấp Giấy chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002400
 
 Điều 34.3.TT.60.24. Cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002400
-
-**ID:** dk_00055213
-
----
-
-
-### Điều 34.3.TT.60.25. Bộ hồ sơ đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002500
 
 Điều 34.3.TT.60.25. Bộ hồ sơ đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 25
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002600
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002500
+Điều 34.3.TT.60.26. Từ chối cho hưởng ưu đãi
 
-**ID:** dk_00055214
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002700
 
----
+Điều 34.3.TT.60.27. Chỉnh sửa C/O đã cấp
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002800
 
-### Điều 34.3.TT.60.26. Từ chối cho hưởng ưu đãi
+Điều 34.3.TT.60.28. Cấp bản sao chứng thực C/O
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002600
-
-**ID:** dk_00055215
-
----
-
-
-### Điều 34.3.TT.60.27. Chỉnh sửa C/O đã cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002700
-
-**ID:** dk_00055216
-
----
-
-
-### Điều 34.3.TT.60.28. Cấp bản sao chứng thực C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002800
-
-**ID:** dk_00055217
-
----
-
-
-### Điều 34.3.TT.60.29. Kiểm tra, xác minh xuất xứ và cho hưởng ưu đãi thuế quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002900
 
 Điều 34.3.TT.60.29. Kiểm tra, xác minh xuất xứ và cho hưởng ưu đãi thuế quan
 
-**Chỉ mục:** 29
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003000
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080002900
+Điều 34.3.TT.60.30. Trách nhiệm của nhà xuất khẩu
 
-**ID:** dk_00055218
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003100
 
----
+Điều 34.3.TT.60.31. Trách nhiệm của nhà nhập khẩu
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003200
 
-### Điều 34.3.TT.60.30. Trách nhiệm của nhà xuất khẩu
+Điều 34.3.TT.60.32. Hoàn thuế
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003300
 
-**Chỉ mục:** 30
+Điều 34.3.TT.60.33. Các khác biệt nhỏ trên C/O
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003000
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003400
 
-**ID:** dk_00055219
+Điều 34.3.TT.60.34. Bảo mật
 
----
-
-
-### Điều 34.3.TT.60.31. Trách nhiệm của nhà nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003100
-
-**ID:** dk_00055220
-
----
-
-
-### Điều 34.3.TT.60.32. Hoàn thuế
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003200
-
-**ID:** dk_00055221
-
----
-
-
-### Điều 34.3.TT.60.33. Các khác biệt nhỏ trên C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003300
-
-**ID:** dk_00055222
-
----
-
-
-### Điều 34.3.TT.60.34. Bảo mật
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003400
-
-**ID:** dk_00055223
-
----
-
-
-### Điều 34.3.TT.60.35. Cấp C/O cho hàng hóa xuất khẩu trước ngày Thông tư có hiệu lực
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003500
 
 Điều 34.3.TT.60.35. Cấp C/O cho hàng hóa xuất khẩu trước ngày Thông tư có hiệu lực
 
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802724700080003500
-
-**ID:** dk_00055224
-
----
-
-
-### Điều 34.3.TT.65.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000400
 
 Điều 34.3.TT.65.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000400
+Điều 34.3.TT.65.5. Hàng hóa có xuất xứ
 
-**ID:** dk_00055225
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000600
 
----
+Điều 34.3.TT.65.6. Hàng hóa có xuất xứ thuần túy
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000700
 
-### Điều 34.3.TT.65.5. Hàng hóa có xuất xứ
+Điều 34.3.TT.65.7. Cộng gộp
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000800
 
-**Chỉ mục:** 5
+Điều 34.3.TT.65.8. Hàm lượng giá trị khu vực
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000500
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000900
 
-**ID:** dk_00055226
+Điều 34.3.TT.65.9. Nước xuất xứ
 
----
-
-
-### Điều 34.3.TT.65.6. Hàng hóa có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000600
-
-**ID:** dk_00055227
-
----
-
-
-### Điều 34.3.TT.65.7. Cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000700
-
-**ID:** dk_00055228
-
----
-
-
-### Điều 34.3.TT.65.8. Hàm lượng giá trị khu vực
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000800
-
-**ID:** dk_00055229
-
----
-
-
-### Điều 34.3.TT.65.9. Nước xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050000900
-
-**ID:** dk_00055230
-
----
-
-
-### Điều 34.3.TT.65.10. Công đoạn gia công, chế biến đơn giản
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001000
 
 Điều 34.3.TT.65.10. Công đoạn gia công, chế biến đơn giản
 
-**Chỉ mục:** 10
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001100
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001000
+Điều 34.3.TT.65.11. De Minimis
 
-**ID:** dk_00055231
-
----
-
-
-### Điều 34.3.TT.65.11. De Minimis
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001100
-
-**ID:** dk_00055232
-
----
-
-
-### Điều 34.3.TT.65.12. Nguyên liệu đóng gói và bao bì đóng gói
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001200
 
 Điều 34.3.TT.65.12. Nguyên liệu đóng gói và bao bì đóng gói
 
-**Chỉ mục:** 12
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001300
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001200
+Điều 34.3.TT.65.13. Phụ kiện, phụ tùng và dụng cụ
 
-**ID:** dk_00055233
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001400
 
----
+Điều 34.3.TT.65.14. Các nguyên liệu trung gian
 
-
-### Điều 34.3.TT.65.13. Phụ kiện, phụ tùng và dụng cụ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001300
-
-**ID:** dk_00055234
-
----
-
-
-### Điều 34.3.TT.65.14. Các nguyên liệu trung gian
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001400
-
-**ID:** dk_00055235
-
----
-
-
-### Điều 34.3.TT.65.15. Hàng hóa hoặc nguyên liệu giống nhau và có thể thay thế lẫn nhau
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001500
 
 Điều 34.3.TT.65.15. Hàng hóa hoặc nguyên liệu giống nhau và có thể thay thế lẫn nhau
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001500
-
-**ID:** dk_00055236
-
----
-
-
-### Điều 34.3.TT.65.16. Nguyên liệu được sử dụng trong quá trình sản xuất
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001600
 
 Điều 34.3.TT.65.16. Nguyên liệu được sử dụng trong quá trình sản xuất
 
-**Chỉ mục:** 16
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001600
+Điều 34.3.TT.65.17. Đơn vị xét xuất xứ hàng hóa
 
-**ID:** dk_00055237
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001800
 
----
+Điều 34.3.TT.65.18. Vận chuyển trực tiếp
 
-
-### Điều 34.3.TT.65.17. Đơn vị xét xuất xứ hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001700
-
-**ID:** dk_00055238
-
----
-
-
-### Điều 34.3.TT.65.18. Vận chuyển trực tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001800
-
-**ID:** dk_00055239
-
----
-
-
-### Điều 34.3.TT.65.19. Quy định chung về cơ chế chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001900
 
 Điều 34.3.TT.65.19. Quy định chung về cơ chế chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 19
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002000
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050001900
+Điều 34.3.TT.65.20. Nhà xuất khẩu đủ điều kiện
 
-**ID:** dk_00055240
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002100
 
----
+Điều 34.3.TT.65.21. C/O
 
-
-### Điều 34.3.TT.65.20. Nhà xuất khẩu đủ điều kiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002000
-
-**ID:** dk_00055241
-
----
-
-
-### Điều 34.3.TT.65.21. C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002100
-
-**ID:** dk_00055242
-
----
-
-
-### Điều 34.3.TT.65.22. Chứng từ chứng nhận xuất xứ hàng hóa giáp lưng
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002200
 
 Điều 34.3.TT.65.22. Chứng từ chứng nhận xuất xứ hàng hóa giáp lưng
 
-**Chỉ mục:** 22
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002300
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002200
+Điều 34.3.TT.65.23. Hóa đơn bên thứ ba
 
-**ID:** dk_00055243
-
----
-
-
-### Điều 34.3.TT.65.23. Hóa đơn bên thứ ba
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002300
-
-**ID:** dk_00055244
-
----
-
-
-### Điều 34.3.TT.65.24. Kiểm tra, xác minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002400
 
 Điều 34.3.TT.65.24. Kiểm tra, xác minh xuất xứ hàng hóa
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002400
-
-**ID:** dk_00055245
-
----
-
-
-### Điều 34.3.TT.65.25. Nộp chứng từ chứng nhận xuất xứ hàng hóa để được hưởng ưu đãi thuế quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002500
 
 Điều 34.3.TT.65.25. Nộp chứng từ chứng nhận xuất xứ hàng hóa để được hưởng ưu đãi thuế quan
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002500
-
-**ID:** dk_00055246
-
----
-
-
-### Điều 34.3.TT.65.26. Nộp bổ sung chứng từ để được hưởng ưu đãi thuế quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002600
 
 Điều 34.3.TT.65.26. Nộp bổ sung chứng từ để được hưởng ưu đãi thuế quan
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002600
-
-**ID:** dk_00055247
-
----
-
-
-### Điều 34.3.TT.65.27. Từ chối cho hưởng ưu đãi thuế quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002700
 
 Điều 34.3.TT.65.27. Từ chối cho hưởng ưu đãi thuế quan
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002700
-
-**ID:** dk_00055248
-
----
-
-
-### Điều 34.3.TT.65.28. Điều khoản chuyển tiếp đối với hàng hóa trong quá trình vận chuyển
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002800
 
 Điều 34.3.TT.65.28. Điều khoản chuyển tiếp đối với hàng hóa trong quá trình vận chuyển
 
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002800
-
-**ID:** dk_00055249
-
----
-
-
-### Điều 34.3.TT.65.29. Xử lý khác biệt hoặc sai sót nhỏ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002900
 
 Điều 34.3.TT.65.29. Xử lý khác biệt hoặc sai sót nhỏ
 
-**Chỉ mục:** 29
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050003000
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050002900
+Điều 34.3.TT.65.30. Lưu trữ hồ sơ
 
-**ID:** dk_00055250
-
----
-
-
-### Điều 34.3.TT.65.30. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802792800050003000
-
-**ID:** dk_00055251
-
----
-
-
-### Điều 34.3.TT.73.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000400
 
 Điều 34.3.TT.73.4. Chứng nhận và kiểm tra xuất xứ hàng hóa tại Việt Nam
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000400
+Điều 34.3.TT.73.5. Hàng hóa có xuất xứ
 
-**ID:** dk_00055252
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000600
 
----
+Điều 34.3.TT.73.6. Hàng hóa có xuất xứ thuần túy
 
-
-### Điều 34.3.TT.73.5. Hàng hóa có xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000500
-
-**ID:** dk_00055253
-
----
-
-
-### Điều 34.3.TT.73.6. Hàng hóa có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000600
-
-**ID:** dk_00055254
-
----
-
-
-### Điều 34.3.TT.73.7. Hàng hóa có xuất xứ không thuần túy
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000700
 
 Điều 34.3.TT.73.7. Hàng hóa có xuất xứ không thuần túy
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000700
+Điều 34.3.TT.73.8. Quy tắc cụ thể mặt hàng
 
-**ID:** dk_00055255
-
----
-
-
-### Điều 34.3.TT.73.8. Quy tắc cụ thể mặt hàng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000800
-
-**ID:** dk_00055256
-
----
-
-
-### Điều 34.3.TT.73.9. Quy định đối với một số hàng hóa đặc biệt
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000900
 
 Điều 34.3.TT.73.9. Quy định đối với một số hàng hóa đặc biệt
 
-**Chỉ mục:** 9
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001000
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490000900
+Điều 34.3.TT.73.10. Cộng gộp
 
-**ID:** dk_00055257
-
----
-
-
-### Điều 34.3.TT.73.10. Cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001000
-
-**ID:** dk_00055258
-
----
-
-
-### Điều 34.3.TT.73.11. Công đoạn gia công, chế biến đơn giản
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001100
 
 Điều 34.3.TT.73.11. Công đoạn gia công, chế biến đơn giản
 
-**Chỉ mục:** 11
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001200
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001100
+Điều 34.3.TT.73.12. Vận chuyển trực tiếp
 
-**ID:** dk_00055259
-
----
-
-
-### Điều 34.3.TT.73.12. Vận chuyển trực tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001200
-
-**ID:** dk_00055260
-
----
-
-
-### Điều 34.3.TT.73.13. Tỷ lệ nguyên liệu không đáp ứng tiêu chí chuyển đổi mã số hàng hóa (De minimis)
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001300
 
 Điều 34.3.TT.73.13. Tỷ lệ nguyên liệu không đáp ứng tiêu chí chuyển đổi mã số hàng hóa (De minimis)
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001300
-
-**ID:** dk_00055261
-
----
-
-
-### Điều 34.3.TT.73.14. Quy định về đóng gói và vật liệu đóng gói
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001400
 
 Điều 34.3.TT.73.14. Quy định về đóng gói và vật liệu đóng gói
 
-**Chỉ mục:** 14
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001400
+Điều 34.3.TT.73.15. Phụ kiện, phụ tùng và dụng cụ
 
-**ID:** dk_00055262
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001600
 
----
+Điều 34.3.TT.73.16. Yếu tố trung gian
 
-
-### Điều 34.3.TT.73.15. Phụ kiện, phụ tùng và dụng cụ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001500
-
-**ID:** dk_00055263
-
----
-
-
-### Điều 34.3.TT.73.16. Yếu tố trung gian
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001600
-
-**ID:** dk_00055264
-
----
-
-
-### Điều 34.3.TT.73.17. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001700
 
 Điều 34.3.TT.73.17. Nguyên liệu giống nhau và có thể dùng thay thế lẫn nhau
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001700
-
-**ID:** dk_00055265
-
----
-
-
-### Điều 34.3.TT.73.18. Tài liệu chứng minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001800
 
 Điều 34.3.TT.73.18. Tài liệu chứng minh xuất xứ hàng hóa
 
-**Chỉ mục:** 18
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001900
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001800
+Điều 34.3.TT.73.19. Kiểm tra trước khi xuất khẩu
 
-**ID:** dk_00055266
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002000
 
----
+Điều 34.3.TT.73.20. Nộp hồ sơ đề nghị cấp C/O
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002100
 
-### Điều 34.3.TT.73.19. Kiểm tra trước khi xuất khẩu
+Điều 34.3.TT.73.21. Kiểm tra hồ sơ đề nghị cấp C/O
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002200
 
-**Chỉ mục:** 19
+Điều 34.3.TT.73.22. C/O mẫu AK
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490001900
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002300
 
-**ID:** dk_00055267
+Điều 34.3.TT.73.23. Xử lý sai sót trên C/O mẫu AK
 
----
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002400
 
+Điều 34.3.TT.73.24. Cấp C/O mẫu AK
 
-### Điều 34.3.TT.73.20. Nộp hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002000
-
-**ID:** dk_00055268
-
----
-
-
-### Điều 34.3.TT.73.21. Kiểm tra hồ sơ đề nghị cấp C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002100
-
-**ID:** dk_00055269
-
----
-
-
-### Điều 34.3.TT.73.22. C/O mẫu AK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002200
-
-**ID:** dk_00055270
-
----
-
-
-### Điều 34.3.TT.73.23. Xử lý sai sót trên C/O mẫu AK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002300
-
-**ID:** dk_00055271
-
----
-
-
-### Điều 34.3.TT.73.24. Cấp C/O mẫu AK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002400
-
-**ID:** dk_00055272
-
----
-
-
-### Điều 34.3.TT.73.25. C/O mẫu AK bị mất, thất lạc hoặc hư hỏng
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002500
 
 Điều 34.3.TT.73.25. C/O mẫu AK bị mất, thất lạc hoặc hư hỏng
 
-**Chỉ mục:** 25
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002600
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002500
+Điều 34.3.TT.73.26. Nộp C/O mẫu AK
 
-**ID:** dk_00055273
-
----
-
-
-### Điều 34.3.TT.73.26. Nộp C/O mẫu AK
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002600
-
-**ID:** dk_00055274
-
----
-
-
-### Điều 34.3.TT.73.27. Thời hạn nộp và hiệu lực của C/O mẫu AK
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002700
 
 Điều 34.3.TT.73.27. Thời hạn nộp và hiệu lực của C/O mẫu AK
 
-**Chỉ mục:** 27
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002700
+Điều 34.3.TT.73.28. Miễn nộp C/O mẫu AK
 
-**ID:** dk_00055275
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002900
 
----
+Điều 34.3.TT.73.29. Xử lý khác biệt nhỏ
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003000
 
-### Điều 34.3.TT.73.28. Miễn nộp C/O mẫu AK
+Điều 34.3.TT.73.30. Lưu trữ hồ sơ
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002800
-
-**ID:** dk_00055276
-
----
-
-
-### Điều 34.3.TT.73.29. Xử lý khác biệt nhỏ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490002900
-
-**ID:** dk_00055277
-
----
-
-
-### Điều 34.3.TT.73.30. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003000
-
-**ID:** dk_00055278
-
----
-
-
-### Điều 34.3.TT.73.31. Kiểm tra C/O mẫu AK sau khi cấp
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003100
 
 Điều 34.3.TT.73.31. Kiểm tra C/O mẫu AK sau khi cấp
 
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003100
-
-**ID:** dk_00055279
-
----
-
-
-### Điều 34.3.TT.73.32. Xác minh xuất xứ hàng hóa tại Nước thành viên xuất khẩu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003200
 
 Điều 34.3.TT.73.32. Xác minh xuất xứ hàng hóa tại Nước thành viên xuất khẩu
 
-**Chỉ mục:** 32
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003300
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003200
+Điều 34.3.TT.73.33. Bảo mật thông tin
 
-**ID:** dk_00055280
-
----
-
-
-### Điều 34.3.TT.73.33. Bảo mật thông tin
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003300
-
-**ID:** dk_00055281
-
----
-
-
-### Điều 34.3.TT.73.34. Từ chối cho hưởng ưu đãi thuế quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003400
 
 Điều 34.3.TT.73.34. Từ chối cho hưởng ưu đãi thuế quan
 
-**Chỉ mục:** 34
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003400
+Điều 34.3.TT.73.35. Thay đổi điểm đến của hàng hóa
 
-**ID:** dk_00055282
-
----
-
-
-### Điều 34.3.TT.73.35. Thay đổi điểm đến của hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003500
-
-**ID:** dk_00055283
-
----
-
-
-### Điều 34.3.TT.73.36. Chứng từ áp dụng cho quy định vận chuyển trực tiếp
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003600
 
 Điều 34.3.TT.73.36. Chứng từ áp dụng cho quy định vận chuyển trực tiếp
 
-**Chỉ mục:** 36
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003700
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003600
+Điều 34.3.TT.73.37. Hàng hóa triển lãm
 
-**ID:** dk_00055284
-
----
-
-
-### Điều 34.3.TT.73.37. Hàng hóa triển lãm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003700
-
-**ID:** dk_00055285
-
----
-
-
-### Điều 34.3.TT.73.38. Hóa đơn do nước thứ ba phát hành
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003800
 
 Điều 34.3.TT.73.38. Hóa đơn do nước thứ ba phát hành
 
-**Chỉ mục:** 38
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000040000802922700490003800
-
-**ID:** dk_00055286
-
----
-
-
-### Điều 34.3.NĐ.7.5. Quy tắc xuất xứ ưu đãi theo chế độ ưu đãi thuế quan phổ cập và các ưu đãi đơn phương khác
+### 34003000000000002000004000000000000000000320000000000000000000402648500310000500
 
 Điều 34.3.NĐ.7.5. Quy tắc xuất xứ ưu đãi theo chế độ ưu đãi thuế quan phổ cập và các ưu đãi đơn phương khác
 
-**Chỉ mục:** 5
+### 34003000000000002000004000000000000000000320000000000000000000402648500310000600
 
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310000500
+Điều 34.3.NĐ.7.6. Hàng hoá có xuất xứ
 
-**ID:** dk_00055287
+### 34003000000000002000004000000000000000000320000000000000000000402648500310000700
 
----
+Điều 34.3.NĐ.7.7. Hàng hoá có xuất xứ thuần túy
 
-
-### Điều 34.3.NĐ.7.6. Hàng hoá có xuất xứ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310000600
-
-**ID:** dk_00055288
-
----
-
-
-### Điều 34.3.NĐ.7.7. Hàng hoá có xuất xứ thuần túy
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310000700
-
-**ID:** dk_00055289
-
----
-
-
-### Điều 34.3.NĐ.7.8. Hàng hoá có xuất xứ không thuần túy
+### 34003000000000002000004000000000000000000320000000000000000000402648500310000800
 
 Điều 34.3.NĐ.7.8. Hàng hoá có xuất xứ không thuần túy
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310000800
-
-**ID:** dk_00055290
-
----
-
-
-### Điều 34.3.TT.25.4. Nguyên tắc chung để xác định xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000400
 
 Điều 34.3.TT.25.4. Nguyên tắc chung để xác định xuất xứ hàng hóa
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000400
+Điều 34.3.TT.25.5. Quy tắc xuất xứ hàng hóa ưu đãi
 
-**ID:** dk_00055291
-
----
-
-
-### Điều 34.3.TT.25.5. Quy tắc xuất xứ hàng hóa ưu đãi
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000500
-
-**ID:** dk_00055292
-
----
-
-
-### Điều 34.3.TT.25.6. Quy tắc xuất xứ hàng hóa không ưu đãi
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000600
 
 Điều 34.3.TT.25.6. Quy tắc xuất xứ hàng hóa không ưu đãi
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000600
-
-**ID:** dk_00055293
-
----
-
-
-### Điều 34.3.TT.25.7. Kê khai, cam kết xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000700
 
 Điều 34.3.TT.25.7. Kê khai, cam kết xuất xứ hàng hóa
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000700
+Điều 34.3.TT.25.8. Kê khai C/O
 
-**ID:** dk_00055294
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000900
 
----
+Điều 34.3.TT.25.9. Kê khai Tờ khai bổ sung C/O
 
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050001000
 
-### Điều 34.3.TT.25.8. Kê khai C/O
+Điều 34.3.TT.25.10. Kê khai CNM
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000800
-
-**ID:** dk_00055295
-
----
-
-
-### Điều 34.3.TT.25.9. Kê khai Tờ khai bổ sung C/O
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050000900
-
-**ID:** dk_00055296
-
----
-
-
-### Điều 34.3.TT.25.10. Kê khai CNM
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000080000802651100050001000
-
-**ID:** dk_00055297
-
----
-
-
-### Điều 34.3.NĐ.7.9. Công đoạn gia công, chế biến đơn giản
+### 34003000000000002000004000000000000000000320000000000000000000402648500310000900
 
 Điều 34.3.NĐ.7.9. Công đoạn gia công, chế biến đơn giản
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310000900
-
-**ID:** dk_00055298
-
----
-
-
-### Điều 34.3.NĐ.7.10. Xác định xuất xứ của bao bì, phụ kiện, phụ tùng, dụng cụ, hàng hoá chưa được lắp ráp hoặc tháo rời
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001000
 
 Điều 34.3.NĐ.7.10. Xác định xuất xứ của bao bì, phụ kiện, phụ tùng, dụng cụ, hàng hoá chưa được lắp ráp hoặc tháo rời
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001000
-
-**ID:** dk_00055299
-
----
-
-
-### Điều 34.3.NĐ.7.11. Tỷ lệ nguyên liệu không đáp ứng tiêu chí chuyển đổi mã số hàng hóa (De Minimis)
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001100
 
 Điều 34.3.NĐ.7.11. Tỷ lệ nguyên liệu không đáp ứng tiêu chí chuyển đổi mã số hàng hóa (De Minimis)
 
-**Chỉ mục:** 11
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001200
 
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001100
+Điều 34.3.NĐ.7.12. Các yếu tố gián tiếp
 
-**ID:** dk_00055300
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001300
 
----
+Điều 34.3.NĐ.7.13. Đăng ký hồ sơ thương nhân
 
-
-### Điều 34.3.NĐ.7.12. Các yếu tố gián tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001200
-
-**ID:** dk_00055301
-
----
-
-
-### Điều 34.3.NĐ.7.13. Đăng ký hồ sơ thương nhân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001300
-
-**ID:** dk_00055302
-
----
-
-
-### Điều 34.3.NĐ.7.14. Đăng ký thay đổi nơi đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001400
 
 Điều 34.3.NĐ.7.14. Đăng ký thay đổi nơi đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001400
-
-**ID:** dk_00055303
-
----
-
-
-### Điều 34.3.NĐ.7.15. Hồ sơ cấp Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001500
 
 Điều 34.3.NĐ.7.15. Hồ sơ cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001500
-
-**ID:** dk_00055304
-
----
-
-
-### Điều 34.3.NĐ.7.16. Quy trình khai báo và cấp Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001600
 
 Điều 34.3.NĐ.7.16. Quy trình khai báo và cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001600
-
-**ID:** dk_00055305
-
----
-
-
-### Điều 34.3.NĐ.7.17. Giấy chứng nhận xuất xứ hàng hóa cấp sau
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001700
 
 Điều 34.3.NĐ.7.17. Giấy chứng nhận xuất xứ hàng hóa cấp sau
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001700
-
-**ID:** dk_00055306
-
----
-
-
-### Điều 34.3.NĐ.7.18. Cấp lại Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001800
 
 Điều 34.3.NĐ.7.18. Cấp lại Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001800
-
-**ID:** dk_00055307
-
----
-
-
-### Điều 34.3.NĐ.7.19. Cấp Giấy chứng nhận hàng hóa không thay đổi xuất xứ
+### 34003000000000002000004000000000000000000320000000000000000000402648500310001900
 
 Điều 34.3.NĐ.7.19. Cấp Giấy chứng nhận hàng hóa không thay đổi xuất xứ
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310001900
-
-**ID:** dk_00055308
-
----
-
-
-### Điều 34.3.NĐ.7.20. Cấp Giấy chứng nhận xuất xứ hàng hóa giáp lưng
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002000
 
 Điều 34.3.NĐ.7.20. Cấp Giấy chứng nhận xuất xứ hàng hóa giáp lưng
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002000
-
-**ID:** dk_00055309
-
----
-
-
-### Điều 34.3.NĐ.7.21. Từ chối cấp Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002100
 
 Điều 34.3.NĐ.7.21. Từ chối cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002100
-
-**ID:** dk_00055310
-
----
-
-
-### Điều 34.3.NĐ.7.22. Thu hồi Giấy chứng nhận xuất xứ hàng hóa đã cấp
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002200
 
 Điều 34.3.NĐ.7.22. Thu hồi Giấy chứng nhận xuất xứ hàng hóa đã cấp
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002200
-
-**ID:** dk_00055311
-
----
-
-
-### Điều 34.3.NĐ.7.23. Trách nhiệm của cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002300
 
 Điều 34.3.NĐ.7.23. Trách nhiệm của cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002300
-
-**ID:** dk_00055312
-
----
-
-
-### Điều 34.3.NĐ.7.24. Trách nhiệm của thương nhân đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002400
 
 Điều 34.3.NĐ.7.24. Trách nhiệm của thương nhân đề nghị cấp Giấy chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 24
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002500
 
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002400
+Điều 34.3.NĐ.7.25. Tự chứng nhận xuất xứ hàng hóa
 
-**ID:** dk_00055313
-
----
-
-
-### Điều 34.3.NĐ.7.25. Tự chứng nhận xuất xứ hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002500
-
-**ID:** dk_00055314
-
----
-
-
-### Điều 34.3.NĐ.7.26. Chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002600
 
 Điều 34.3.NĐ.7.26. Chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002600
-
-**ID:** dk_00055315
-
----
-
-
-### Điều 34.3.NĐ.7.27. Xác định trước xuất xứ hàng hóa nhập khẩu
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002700
 
 Điều 34.3.NĐ.7.27. Xác định trước xuất xứ hàng hóa nhập khẩu
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002700
-
-**ID:** dk_00055316
-
----
-
-
-### Điều 34.3.NĐ.7.28. Kiểm tra, xác minh xuất xứ hàng hóa xuất khẩu, nhập khẩu
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002800
 
 Điều 34.3.NĐ.7.28. Kiểm tra, xác minh xuất xứ hàng hóa xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002800
-
-**ID:** dk_00055317
-
----
-
-
-### Điều 34.3.TT.36.4. Kiểm tra, xác minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000400
 
 Điều 34.3.TT.36.4. Kiểm tra, xác minh xuất xứ hàng hóa
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000400
-
-**ID:** dk_00055318
-
----
-
-
-### Điều 34.3.TT.36.5. Phương thức kiểm tra, xác minh xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000500
 
 Điều 34.3.TT.36.5. Phương thức kiểm tra, xác minh xuất xứ hàng hóa
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000500
-
-**ID:** dk_00055319
-
----
-
-
-### Điều 34.3.TT.36.6. Trường hợp kiểm tra hồ sơ, chứng từ chứng nhận xuất xứ hàng hóa đã cấp hoặc đã phát hành
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000600
 
 Điều 34.3.TT.36.6. Trường hợp kiểm tra hồ sơ, chứng từ chứng nhận xuất xứ hàng hóa đã cấp hoặc đã phát hành
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000600
-
-**ID:** dk_00055320
-
----
-
-
-### Điều 34.3.TT.36.7. Nội dung kiểm tra hồ sơ, chứng từ chứng nhận xuất xứ hàng hóa đã cấp hoặc đã phát hành
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000700
 
 Điều 34.3.TT.36.7. Nội dung kiểm tra hồ sơ, chứng từ chứng nhận xuất xứ hàng hóa đã cấp hoặc đã phát hành
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000700
-
-**ID:** dk_00055321
-
----
-
-
-### Điều 34.3.TT.36.8. Trình tự kiểm tra hồ sơ C/O, Giấy chứng nhận hàng hóa không thay đổi xuất xứ (CNM) đã cấp
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000800
 
 Điều 34.3.TT.36.8. Trình tự kiểm tra hồ sơ C/O, Giấy chứng nhận hàng hóa không thay đổi xuất xứ (CNM) đã cấp
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000800
-
-**ID:** dk_00055322
-
----
-
-
-### Điều 34.3.TT.36.9. Trình tự kiểm tra hồ sơ chứng từ tự chứng nhận xuất xứ hàng hóa đã phát hành
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000900
 
 Điều 34.3.TT.36.9. Trình tự kiểm tra hồ sơ chứng từ tự chứng nhận xuất xứ hàng hóa đã phát hành
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390000900
-
-**ID:** dk_00055323
-
----
-
-
-### Điều 34.3.TT.36.10. Trình tự kiểm tra hồ sơ chứng từ chứng nhận xuất xứ hàng hóa do thương nhân phát hành theo quy định nước nhập khẩu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001000
 
 Điều 34.3.TT.36.10. Trình tự kiểm tra hồ sơ chứng từ chứng nhận xuất xứ hàng hóa do thương nhân phát hành theo quy định nước nhập khẩu
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001000
-
-**ID:** dk_00055324
-
----
-
-
-### Điều 34.3.TT.36.11. Trường hợp kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001100
 
 Điều 34.3.TT.36.11. Trường hợp kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001100
-
-**ID:** dk_00055325
-
----
-
-
-### Điều 34.3.TT.36.12. Nội dung kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001200
 
 Điều 34.3.TT.36.12. Nội dung kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001200
-
-**ID:** dk_00055326
-
----
-
-
-### Điều 34.3.TT.36.13. Trình tự kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất trước và sau khi cấp C/O
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001300
 
 Điều 34.3.TT.36.13. Trình tự kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất trước và sau khi cấp C/O
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001300
-
-**ID:** dk_00055327
-
----
-
-
-### Điều 34.3.TT.36.14. Trình tự kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất trước và sau khi phát hành chứng từ tự chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001400
 
 Điều 34.3.TT.36.14. Trình tự kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất trước và sau khi phát hành chứng từ tự chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001400
-
-**ID:** dk_00055328
-
----
-
-
-### Điều 34.3.TT.36.15. Trình tự kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất đối với chứng từ chứng nhận xuất xứ hàng hóa do thương nhân phát hành theo quy định nước nhập khẩu
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001500
 
 Điều 34.3.TT.36.15. Trình tự kiểm tra, xác minh xuất xứ hàng hóa tại cơ sở sản xuất đối với chứng từ chứng nhận xuất xứ hàng hóa do thương nhân phát hành theo quy định nước nhập khẩu
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001500
-
-**ID:** dk_00055329
-
----
-
-
-### Điều 34.3.TT.36.16. Trách nhiệm của Cục Xuất nhập khẩu - Bộ Công Thương
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001600
 
 Điều 34.3.TT.36.16. Trách nhiệm của Cục Xuất nhập khẩu - Bộ Công Thương
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001600
-
-**ID:** dk_00055330
-
----
-
-
-### Điều 34.3.TT.36.17. Trách nhiệm của cơ quan, tổ chức cấp C/O, cơ quan, tổ chức cấp văn bản chấp thuận tự chứng nhận xuất xứ hàng hóa và cơ quan, tổ chức tiếp nhận đăng ký mã số chứng nhận xuất xứ hàng hóa
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001700
 
 Điều 34.3.TT.36.17. Trách nhiệm của cơ quan, tổ chức cấp C/O, cơ quan, tổ chức cấp văn bản chấp thuận tự chứng nhận xuất xứ hàng hóa và cơ quan, tổ chức tiếp nhận đăng ký mã số chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 17
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001700
+Điều 34.3.TT.36.18. Trách nhiệm của thương nhân
 
-**ID:** dk_00055331
-
----
-
-
-### Điều 34.3.TT.36.18. Trách nhiệm của thương nhân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001800
-
-**ID:** dk_00055332
-
----
-
-
-### Điều 34.3.TT.36.19. Trách nhiệm của cơ quan, tổ chức, cá nhân liên quan
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001900
 
 Điều 34.3.TT.36.19. Trách nhiệm của cơ quan, tổ chức, cá nhân liên quan
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000280000802672100390001900
-
-**ID:** dk_00055333
-
----
-
-
-### Điều 34.3.NĐ.7.29. Biện pháp chống gian lận xuất xứ
+### 34003000000000002000004000000000000000000320000000000000000000402648500310002900
 
 Điều 34.3.NĐ.7.29. Biện pháp chống gian lận xuất xứ
 
-**Chỉ mục:** 29
+### 34003000000000002000004000000000000000000320000000000000000000402648500310003000
 
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310002900
+Điều 34.3.NĐ.7.30. Lưu trữ hồ sơ
 
-**ID:** dk_00055334
-
----
-
-
-### Điều 34.3.NĐ.7.30. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310003000
-
-**ID:** dk_00055335
-
----
-
-
-### Điều 34.3.NĐ.7.31. Nhiệm vụ, quyền hạn của Bộ Công Thương
+### 34003000000000002000004000000000000000000320000000000000000000402648500310003100
 
 Điều 34.3.NĐ.7.31. Nhiệm vụ, quyền hạn của Bộ Công Thương
 
-**Chỉ mục:** 31
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000300
 
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310003100
+Điều 34.3.TT.31.3. Giải thích từ ngữ
 
-**ID:** dk_00055336
-
----
-
-
-### Điều 34.3.TT.31.3. Giải thích từ ngữ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000300
-
-**ID:** dk_00055337
-
----
-
-
-### Điều 34.3.TT.31.4. Tiêu chí xác định thương nhân áp dụng chế độ Luồng Xanh
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000400
 
 Điều 34.3.TT.31.4. Tiêu chí xác định thương nhân áp dụng chế độ Luồng Xanh
 
-**Chỉ mục:** 4
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000500
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000400
+Điều 34.3.TT.31.5. Ưu tiên của chế độ Luồng Xanh
 
-**ID:** dk_00055338
-
----
-
-
-### Điều 34.3.TT.31.5. Ưu tiên của chế độ Luồng Xanh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000500
-
-**ID:** dk_00055339
-
----
-
-
-### Điều 34.3.TT.31.6. Tiêu chí xác định thương nhân áp dụng chế độ Luồng Đỏ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000600
 
 Điều 34.3.TT.31.6. Tiêu chí xác định thương nhân áp dụng chế độ Luồng Đỏ
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000600
-
-**ID:** dk_00055340
-
----
-
-
-### Điều 34.3.TT.31.7. Tiêu chí xác định mặt hàng áp dụng chế độ Luồng Đỏ
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000700
 
 Điều 34.3.TT.31.7. Tiêu chí xác định mặt hàng áp dụng chế độ Luồng Đỏ
 
-**Chỉ mục:** 7
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000800
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000700
+Điều 34.3.TT.31.8. Yêu cầu đối với chế độ Luồng Đỏ
 
-**ID:** dk_00055341
-
----
-
-
-### Điều 34.3.TT.31.8. Yêu cầu đối với chế độ Luồng Đỏ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000800
-
-**ID:** dk_00055342
-
----
-
-
-### Điều 34.3.TT.31.9. Triển khai phân luồng trong quy trình cấp C/O ưu đãi
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000900
 
 Điều 34.3.TT.31.9. Triển khai phân luồng trong quy trình cấp C/O ưu đãi
 
-**Chỉ mục:** 9
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001000
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150000900
+Điều 34.3.TT.31.10. Nguyên tắc chuyển luồng
 
-**ID:** dk_00055343
-
----
-
-
-### Điều 34.3.TT.31.10. Nguyên tắc chuyển luồng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001000
-
-**ID:** dk_00055344
-
----
-
-
-### Điều 34.3.TT.31.11. Trách nhiệm của Cục Xuất nhập khẩu (Bộ Công Thương)
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001100
 
 Điều 34.3.TT.31.11. Trách nhiệm của Cục Xuất nhập khẩu (Bộ Công Thương)
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001100
-
-**ID:** dk_00055345
-
----
-
-
-### Điều 34.3.TT.31.12. Trách nhiệm của Cục Thương mại điện tử và Kinh tế số (Bộ Công Thương)
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001200
 
 Điều 34.3.TT.31.12. Trách nhiệm của Cục Thương mại điện tử và Kinh tế số (Bộ Công Thương)
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001200
-
-**ID:** dk_00055346
-
----
-
-
-### Điều 34.3.TT.31.13. Trách nhiệm của cơ quan, tổ chức cấp C/O ưu đãi
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001300
 
 Điều 34.3.TT.31.13. Trách nhiệm của cơ quan, tổ chức cấp C/O ưu đãi
 
-**Chỉ mục:** 13
+### 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001400
 
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001300
+Điều 34.3.TT.31.14. Trách nhiệm của thương nhân
 
-**ID:** dk_00055347
-
----
-
-
-### Điều 34.3.TT.31.14. Trách nhiệm của thương nhân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000400000000000000000032000000000000000000040264850031000310000802659800150001400
-
-**ID:** dk_00055348
-
----
-
-
-### Điều 34.3.NĐ.7.32. Nhiệm vụ, quyền hạn của Bộ Tài chính
+### 34003000000000002000004000000000000000000320000000000000000000402648500310003200
 
 Điều 34.3.NĐ.7.32. Nhiệm vụ, quyền hạn của Bộ Tài chính
 
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310003200
-
-**ID:** dk_00055349
-
----
-
-
-### Điều 34.3.NĐ.7.33. Trách nhiệm của các bộ, cơ quan có liên quan
+### 34003000000000002000004000000000000000000320000000000000000000402648500310003300
 
 Điều 34.3.NĐ.7.33. Trách nhiệm của các bộ, cơ quan có liên quan
 
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 34003000000000002000004000000000000000000320000000000000000000402648500310003300
-
-**ID:** dk_00055350
-
----
-
-
-### Điều 34.3.LQ.33. Áp dụng biện pháp chứng nhận xuất xứ hàng hóa
+### 340030000000000020000040000000000000000003300000000000000000
 
 Điều 34.3.LQ.33. Áp dụng biện pháp chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 340030000000000020000040000000000000000003300000000000000000
-
-**ID:** dk_00055351
-
----
-
-
-### Điều 34.3.LQ.34. Thẩm quyền áp dụng biện pháp chứng nhận xuất xứ hàng hóa
+### 340030000000000020000040000000000000000003400000000000000000
 
 Điều 34.3.LQ.34. Thẩm quyền áp dụng biện pháp chứng nhận xuất xứ hàng hóa
 
-**Chỉ mục:** 34
+### 340030000000000020000040000000000000000003500000000000000000
 
-**Mã phân cấp:** 340030000000000020000040000000000000000003400000000000000000
+Điều 34.3.LQ.35. Kiểm tra xuất xứ hàng hóa
 
-**ID:** dk_00055352
+### 3400300000000000200000500000000000000000
 
----
+Mục 5 CHỨNG NHẬN LƯU HÀNH TỰ DO
 
+### 340030000000000020000050000000000000000003600000000000000000
 
-### Điều 34.3.LQ.35. Kiểm tra xuất xứ hàng hóa
+Điều 34.3.LQ.36. Giấy chứng nhận lưu hành tự do
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 340030000000000020000040000000000000000003500000000000000000
-
-**ID:** dk_00055353
-
----
-
-
-### Điều 34.3.LQ.36. Giấy chứng nhận lưu hành tự do
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 340030000000000020000050000000000000000003600000000000000000
-
-**ID:** dk_00055355
-
----
-
-
-### Điều 34.3.LQ.37. Áp dụng biện pháp chứng nhận lưu hành tự do
+### 340030000000000020000050000000000000000003700000000000000000
 
 Điều 34.3.LQ.37. Áp dụng biện pháp chứng nhận lưu hành tự do
 
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 340030000000000020000050000000000000000003700000000000000000
-
-**ID:** dk_00055356
-
----
-
-
-### Điều 34.3.LQ.38. Thẩm quyền áp dụng biện pháp chứng nhận lưu hành tự do
+### 340030000000000020000050000000000000000003800000000000000000
 
 Điều 34.3.LQ.38. Thẩm quyền áp dụng biện pháp chứng nhận lưu hành tự do
 
-**Chỉ mục:** 38
-
-**Mã phân cấp:** 340030000000000020000050000000000000000003800000000000000000
-
-**ID:** dk_00055357
-
----
-
-
-### Điều 34.3.NĐ.8.10. Giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa nhập khẩu
+### 34003000000000002000005000000000000000000380000000000000000000402655300690001000
 
 Điều 34.3.NĐ.8.10. Giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa nhập khẩu
 
-**Chỉ mục:** 10
+### 34003000000000002000005000000000000000000380000000000000000000402655300690001100
 
-**Mã phân cấp:** 34003000000000002000005000000000000000000380000000000000000000402655300690001000
+Điều 34.3.NĐ.8.11. CFS đối với hàng hóa xuất khẩu
 
-**ID:** dk_00055358
-
----
-
-
-### Điều 34.3.NĐ.8.11. CFS đối với hàng hóa xuất khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000002000005000000000000000000380000000000000000000402655300690001100
-
-**ID:** dk_00055359
-
----
-
-
-### Điều 34.3.TT.30.5. Giấy chứng nhận lưu hành tự do (CFS)
+### 3400300000000000200000500000000000000000038000000000000000000040265530069000110000802658400120000500
 
 Điều 34.3.TT.30.5. Giấy chứng nhận lưu hành tự do (CFS)
 
-**Chỉ mục:** 5
+### 3400300000000000200000600000000000000000
 
-**Mã phân cấp:** 3400300000000000200000500000000000000000038000000000000000000040265530069000110000802658400120000500
+Mục 6 CÁC BIỆN PHÁP QUẢN LÝ HOẠT ĐỘNG NGOẠI THƯƠNG KHÁC
 
-**ID:** dk_00055360
-
----
-
-
-### Tiểu mục 1 TẠM NHẬP, TÁI XUẤT, TẠM XUẤT, TÁI NHẬP, CHUYỂN KHẨU
+### 340030000000000020000060000000000000000000100000000000000000
 
 Tiểu mục 1 TẠM NHẬP, TÁI XUẤT, TẠM XUẤT, TÁI NHẬP, CHUYỂN KHẨU
 
-**Chỉ mục:** 1
+### 34003000000000002000006000000000000000000010000000000000000003900000000000000000
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000
+Điều 34.3.LQ.39. Kinh doanh tạm nhập, tái xuất
 
-**ID:** dk_00055362
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001300
 
----
+Điều 34.3.NĐ.8.13. Kinh doanh tạm nhập, tái xuất
 
-
-### Điều 34.3.LQ.39. Kinh doanh tạm nhập, tái xuất
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 39
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000010000000000000000003900000000000000000
-
-**ID:** dk_00055363
-
----
-
-
-### Điều 34.3.NĐ.8.13. Kinh doanh tạm nhập, tái xuất
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001300
-
-**ID:** dk_00055364
-
----
-
-
-### Điều 34.3.NĐ.8.14. Điều tiết hàng hóa kinh doanh tạm nhập, tái xuất
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001400
 
 Điều 34.3.NĐ.8.14. Điều tiết hàng hóa kinh doanh tạm nhập, tái xuất
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001400
-
-**ID:** dk_00055365
-
----
-
-
-### Điều 34.3.NĐ.8.16. Cửa khẩu tạm nhập, tái xuất hàng hóa
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001600
 
 Điều 34.3.NĐ.8.16. Cửa khẩu tạm nhập, tái xuất hàng hóa
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001600
-
-**ID:** dk_00055366
-
----
-
-
-### Điều 34.3.NĐ.8.19. Hồ sơ cấp Giấy phép kinh doanh tạm nhập, tái xuất; Giấy phép tạm nhập, tái xuất; Giấy phép tạm xuất, tái nhập; Giấy phép kinh doanh chuyển khẩu
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001900
 
 Điều 34.3.NĐ.8.19. Hồ sơ cấp Giấy phép kinh doanh tạm nhập, tái xuất; Giấy phép tạm nhập, tái xuất; Giấy phép tạm xuất, tái nhập; Giấy phép kinh doanh chuyển khẩu
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690001900
-
-**ID:** dk_00055367
-
----
-
-
-### Điều 34.3.NĐ.8.20. Quy trình cấp Giấy phép kinh doanh tạm nhập, tái xuất; Giấy phép tạm nhập, tái xuất; Giấy phép tạm xuất, tái nhập; Giấy phép kinh doanh chuyển khẩu
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002000
 
 Điều 34.3.NĐ.8.20. Quy trình cấp Giấy phép kinh doanh tạm nhập, tái xuất; Giấy phép tạm nhập, tái xuất; Giấy phép tạm xuất, tái nhập; Giấy phép kinh doanh chuyển khẩu
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002000
-
-**ID:** dk_00055368
-
----
-
-
-### Điều 34.3.NĐ.8.21. Danh mục hàng hóa kinh doanh tạm nhập, tái xuất có điều kiện
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002100
 
 Điều 34.3.NĐ.8.21. Danh mục hàng hóa kinh doanh tạm nhập, tái xuất có điều kiện
 
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002100
-
-**ID:** dk_00055369
-
----
-
-
-### Điều 34.3.NĐ.8.22. Một số quy định riêng đối với hoạt động kinh doanh tạm nhập, tái xuất có điều kiện
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002200
 
 Điều 34.3.NĐ.8.22. Một số quy định riêng đối với hoạt động kinh doanh tạm nhập, tái xuất có điều kiện
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002200
-
-**ID:** dk_00055370
-
----
-
-
-### Điều 34.3.NĐ.8.23. Điều kiện kinh doanh tạm nhập, tái xuất hàng thực phẩm đông lạnh
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002300
 
 Điều 34.3.NĐ.8.23. Điều kiện kinh doanh tạm nhập, tái xuất hàng thực phẩm đông lạnh
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002300
-
-**ID:** dk_00055371
-
----
-
-
-### Điều 34.3.NĐ.8.24. Điều kiện kinh doanh tạm nhập, tái xuất hàng hóa có thuế tiêu thụ đặc biệt
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002400
 
 Điều 34.3.NĐ.8.24. Điều kiện kinh doanh tạm nhập, tái xuất hàng hóa có thuế tiêu thụ đặc biệt
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002400
-
-**ID:** dk_00055372
-
----
-
-
-### Điều 34.3.NĐ.8.25. Điều kiện kinh doanh tạm nhập, tái xuất hàng hóa đã qua sử dụng
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002500
 
 Điều 34.3.NĐ.8.25. Điều kiện kinh doanh tạm nhập, tái xuất hàng hóa đã qua sử dụng
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002500
-
-**ID:** dk_00055373
-
----
-
-
-### Điều 34.3.NĐ.8.26. Mã số kinh doanh tạm nhập, tái xuất
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002600
 
 Điều 34.3.NĐ.8.26. Mã số kinh doanh tạm nhập, tái xuất
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002600
-
-**ID:** dk_00055374
-
----
-
-
-### Điều 34.3.NĐ.8.27. Hồ sơ, quy trình cấp Mã số kinh doanh tạm nhập, tái xuất
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002700
 
 Điều 34.3.NĐ.8.27. Hồ sơ, quy trình cấp Mã số kinh doanh tạm nhập, tái xuất
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002700
-
-**ID:** dk_00055375
-
----
-
-
-### Điều 34.3.NĐ.8.28. Thu hồi Mã số kinh doanh tạm nhập, tái xuất
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002800
 
 Điều 34.3.NĐ.8.28. Thu hồi Mã số kinh doanh tạm nhập, tái xuất
 
-**Chỉ mục:** 28
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002900
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002800
+Điều 34.3.NĐ.8.29. Đình chỉ tạm thời hiệu lực Mã số kinh doanh tạm nhập, tái xuất
 
-**ID:** dk_00055376
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003000
 
----
+Điều 34.3.NĐ.8.30. Quản lý, sử dụng và hoàn trả số tiền ký quỹ của doanh nghiệp
 
-
-### Điều 34.3.NĐ.8.29. Đình chỉ tạm thời hiệu lực Mã số kinh doanh tạm nhập, tái xuất
-
-Điều 34.3.NĐ.8.29. Đình chỉ tạm thời hiệu lực Mã số kinh doanh tạm nhập, tái xuất
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690002900
-
-**ID:** dk_00055377
-
----
-
-
-### Điều 34.3.NĐ.8.30. Quản lý, sử dụng và hoàn trả số tiền ký quỹ của doanh nghiệp
-
-Điều 34.3.NĐ.8.30. Quản lý, sử dụng và hoàn trả số tiền ký quỹ của doanh nghiệp
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003000
-
-**ID:** dk_00055378
-
----
-
-
-### Điều 34.3.NĐ.8.31. Trách nhiệm của doanh nghiệp được cấp Mã số kinh doanh tạm nhập, tái xuất
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003100
 
 Điều 34.3.NĐ.8.31. Trách nhiệm của doanh nghiệp được cấp Mã số kinh doanh tạm nhập, tái xuất
 
-**Chỉ mục:** 31
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003200
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003100
+Điều 34.3.NĐ.8.32. Bộ Công Thương
 
-**ID:** dk_00055379
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003300
 
----
+Điều 34.3.NĐ.8.33. Ủy ban nhân dân cấp tỉnh
 
+### 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003400
 
-### Điều 34.3.NĐ.8.32. Bộ Công Thương
+Điều 34.3.NĐ.8.34. Tổng cục Hải quan
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003200
-
-**ID:** dk_00055380
-
----
-
-
-### Điều 34.3.NĐ.8.33. Ủy ban nhân dân cấp tỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003300
-
-**ID:** dk_00055381
-
----
-
-
-### Điều 34.3.NĐ.8.34. Tổng cục Hải quan
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000390000000000000000000402655300690003400
-
-**ID:** dk_00055382
-
----
-
-
-### Điều 34.3.LQ.40. Cấm kinh doanh tạm nhập, tái xuất, chuyển khẩu, tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
+### 34003000000000002000006000000000000000000010000000000000000004000000000000000000
 
 Điều 34.3.LQ.40. Cấm kinh doanh tạm nhập, tái xuất, chuyển khẩu, tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
 
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000010000000000000000004000000000000000000
-
-**ID:** dk_00055383
-
----
-
-
-### Điều 34.3.NĐ.8.12. Cấm kinh doanh tạm nhập, tái xuất, chuyển khẩu; tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
+### 3400300000000000200000600000000000000000001000000000000000000400000000000000000000402655300690001200
 
 Điều 34.3.NĐ.8.12. Cấm kinh doanh tạm nhập, tái xuất, chuyển khẩu; tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000400000000000000000000402655300690001200
-
-**ID:** dk_00055384
-
----
-
-
-### Điều 34.3.TT.30.4. Danh mục hàng hoá tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
+### 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802658400120000400
 
 Điều 34.3.TT.30.4. Danh mục hàng hoá tạm ngừng kinh doanh tạm nhập, tái xuất, chuyển khẩu
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802658400120000400
-
-**ID:** dk_00055385
-
----
-
-
-### Điều 34.3.TT.30.6. Giấy phép kinh doanh tạm nhập, tái xuất; Giấy phép tạm nhập, tái xuất theo hình thức khác; Giấy phép tạm xuất, tái nhập; Giấy phép kinh doanh chuyển khẩu
+### 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802658400120000600
 
 Điều 34.3.TT.30.6. Giấy phép kinh doanh tạm nhập, tái xuất; Giấy phép tạm nhập, tái xuất theo hình thức khác; Giấy phép tạm xuất, tái nhập; Giấy phép kinh doanh chuyển khẩu
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802658400120000600
-
-**ID:** dk_00055386
-
----
-
-
-### Điều 34.3.TT.30.7. Mã số kinh doanh tạm nhập, tái xuất
+### 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802658400120000700
 
 Điều 34.3.TT.30.7. Mã số kinh doanh tạm nhập, tái xuất
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802658400120000700
-
-**ID:** dk_00055387
-
----
-
-
-### Điều 34.3.TT.51.3. Tạm ngừng kinh doanh chuyển khẩu, kinh doanh tạm nhập, tái xuất gỗ dán
+### 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802709900220000300
 
 Điều 34.3.TT.51.3. Tạm ngừng kinh doanh chuyển khẩu, kinh doanh tạm nhập, tái xuất gỗ dán
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802709900220000300
-
-**ID:** dk_00055388
-
----
-
-
-### Điều 34.3.TT.52.3. Ban hành Danh mục phế liệu tạm ngừng kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu
+### 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802710200270000300
 
 Điều 34.3.TT.52.3. Ban hành Danh mục phế liệu tạm ngừng kinh doanh tạm nhập, tái xuất, kinh doanh chuyển khẩu
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000040000000000000000000040265530069000120000802710200270000300
-
-**ID:** dk_00055389
-
----
-
-
-### Điều 34.3.TT.37.3. Tạm ngừng kinh doanh tạm nhập, tái xuất gỗ
+### 3400300000000000200000600000000000000000001000000000000000000400000000000000000000802673700440000300
 
 Điều 34.3.TT.37.3. Tạm ngừng kinh doanh tạm nhập, tái xuất gỗ
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000400000000000000000000802673700440000300
-
-**ID:** dk_00055390
-
----
-
-
-### Điều 34.3.TT.69.3. Tạm ngừng kinh doanh tạm nhập, tái xuất mặt hàng quặng và tinh quặng Monazite
+### 3400300000000000200000600000000000000000001000000000000000000400000000000000000000802869800050000300
 
 Điều 34.3.TT.69.3. Tạm ngừng kinh doanh tạm nhập, tái xuất mặt hàng quặng và tinh quặng Monazite
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000400000000000000000000802869800050000300
-
-**ID:** dk_00055391
-
----
-
-
-### Điều 34.3.LQ.41. Các hình thức tạm nhập, tái xuất khác
+### 34003000000000002000006000000000000000000010000000000000000004100000000000000000
 
 Điều 34.3.LQ.41. Các hình thức tạm nhập, tái xuất khác
 
-**Chỉ mục:** 41
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000010000000000000000004100000000000000000
-
-**ID:** dk_00055392
-
----
-
-
-### Điều 34.3.NĐ.8.15. Các hình thức tạm nhập, tái xuất khác
+### 3400300000000000200000600000000000000000001000000000000000000410000000000000000000402655300690001500
 
 Điều 34.3.NĐ.8.15. Các hình thức tạm nhập, tái xuất khác
 
-**Chỉ mục:** 15
+### 34003000000000002000006000000000000000000010000000000000000004200000000000000000
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000410000000000000000000402655300690001500
+Điều 34.3.LQ.42. Tạm xuất, tái nhập hàng hóa
 
-**ID:** dk_00055393
+### 3400300000000000200000600000000000000000001000000000000000000420000000000000000000402655300690001700
 
----
+Điều 34.3.NĐ.8.17. Tạm xuất, tái nhập
 
+### 34003000000000002000006000000000000000000010000000000000000004300000000000000000
 
-### Điều 34.3.LQ.42. Tạm xuất, tái nhập hàng hóa
+Điều 34.3.LQ.43. Chuyển khẩu hàng hóa
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000600000000000000000001000000000000000000430000000000000000000402655300690001800
 
-**Chỉ mục:** 42
+Điều 34.3.NĐ.8.18. Kinh doanh chuyển khẩu
 
-**Mã phân cấp:** 34003000000000002000006000000000000000000010000000000000000004200000000000000000
-
-**ID:** dk_00055394
-
----
-
-
-### Điều 34.3.NĐ.8.17. Tạm xuất, tái nhập
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000420000000000000000000402655300690001700
-
-**ID:** dk_00055395
-
----
-
-
-### Điều 34.3.LQ.43. Chuyển khẩu hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 43
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000010000000000000000004300000000000000000
-
-**ID:** dk_00055396
-
----
-
-
-### Điều 34.3.NĐ.8.18. Kinh doanh chuyển khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000001000000000000000000430000000000000000000402655300690001800
-
-**ID:** dk_00055397
-
----
-
-
-### Điều 34.3.TT.59.3. Nguyên tắc thanh toán và chuyển tiền liên quan đến kinh doanh chuyển khẩu hàng hóa
+### 340030000000000020000060000000000000000000100000000000000000043000000000000000000040265530069000180000802723800020000300
 
 Điều 34.3.TT.59.3. Nguyên tắc thanh toán và chuyển tiền liên quan đến kinh doanh chuyển khẩu hàng hóa
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000043000000000000000000040265530069000180000802723800020000300
-
-**ID:** dk_00055398
-
----
-
-
-### Điều 34.3.TT.59.4. Trách nhiệm của ngân hàng được phép
+### 340030000000000020000060000000000000000000100000000000000000043000000000000000000040265530069000180000802723800020000400
 
 Điều 34.3.TT.59.4. Trách nhiệm của ngân hàng được phép
 
-**Chỉ mục:** 4
+### 340030000000000020000060000000000000000000100000000000000000043000000000000000000040265530069000180000802723800020000500
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000043000000000000000000040265530069000180000802723800020000400
+Điều 34.3.TT.59.5. Trách nhiệm của thương nhân
 
-**ID:** dk_00055399
+### 340030000000000020000060000000000000000000200000000000000000
 
----
+Tiểu mục 2 QUÁ CẢNH HÀNG HÓA
 
+### 34003000000000002000006000000000000000000020000000000000000004400000000000000000
 
-### Điều 34.3.TT.59.5. Trách nhiệm của thương nhân
+Điều 34.3.LQ.44. Cho phép quá cảnh hàng hóa
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000100000000000000000043000000000000000000040265530069000180000802723800020000500
-
-**ID:** dk_00055400
-
----
-
-
-### Tiểu mục 2 QUÁ CẢNH HÀNG HÓA
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000
-
-**ID:** dk_00055401
-
----
-
-
-### Điều 34.3.LQ.44. Cho phép quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 44
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000020000000000000000004400000000000000000
-
-**ID:** dk_00055402
-
----
-
-
-### Điều 34.3.NĐ.8.35. Quy định chung về quá cảnh hàng hóa
+### 3400300000000000200000600000000000000000002000000000000000000440000000000000000000402655300690003500
 
 Điều 34.3.NĐ.8.35. Quy định chung về quá cảnh hàng hóa
 
-**Chỉ mục:** 35
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000100
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000002000000000000000000440000000000000000000402655300690003500
+Điều 34.3.TT.3.1. Cấp giấy phép quá cảnh hàng hóa
 
-**ID:** dk_00055403
-
----
-
-
-### Điều 34.3.TT.3.1. Cấp giấy phép quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000100
-
-**ID:** dk_00055404
-
----
-
-
-### Điều 34.3.TT.3.2. Gia hạn giấy phép quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000200
 
 Điều 34.3.TT.3.2. Gia hạn giấy phép quá cảnh hàng hóa
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000200
-
-**ID:** dk_00055405
-
----
-
-
-### Điều 34.3.TT.3.3. Ủy quyền cấp, gia hạn giấy phép quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000300
 
 Điều 34.3.TT.3.3. Ủy quyền cấp, gia hạn giấy phép quá cảnh hàng hóa
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000300
-
-**ID:** dk_00055406
-
----
-
-
-### Điều 34.3.TT.3.4. Quá cảnh hàng hóa không theo giấy phép của Bộ Công Thương
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000400
 
 Điều 34.3.TT.3.4. Quá cảnh hàng hóa không theo giấy phép của Bộ Công Thương
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000400
-
-**ID:** dk_00055407
-
----
-
-
-### Điều 34.3.TT.3.5. Gia hạn thời gian quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000500
 
 Điều 34.3.TT.3.5. Gia hạn thời gian quá cảnh hàng hóa
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000500
-
-**ID:** dk_00055408
-
----
-
-
-### Điều 34.3.TT.3.6. Cửa khẩu và tuyến đường quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000600
 
 Điều 34.3.TT.3.6. Cửa khẩu và tuyến đường quá cảnh hàng hóa
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000600
-
-**ID:** dk_00055409
-
----
-
-
-### Điều 34.3.TT.3.7. Phương tiện vận chuyển hàng hóa quá cảnh và người áp tải
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000700
 
 Điều 34.3.TT.3.7. Phương tiện vận chuyển hàng hóa quá cảnh và người áp tải
 
-**Chỉ mục:** 7
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000800
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000700
+Điều 34.3.TT.3.8. Thời gian quá cảnh hàng hóa
 
-**ID:** dk_00055410
-
----
-
-
-### Điều 34.3.TT.3.8. Thời gian quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000800
-
-**ID:** dk_00055411
-
----
-
-
-### Điều 34.3.TT.3.9. Chứng từ khi làm thủ tục hải quan cho hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000900
 
 Điều 34.3.TT.3.9. Chứng từ khi làm thủ tục hải quan cho hàng hóa quá cảnh
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220000900
-
-**ID:** dk_00055412
-
----
-
-
-### Điều 34.3.TT.3.10. Giám sát hàng hóa quá cảnh lãnh thổ Việt Nam
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001000
 
 Điều 34.3.TT.3.10. Giám sát hàng hóa quá cảnh lãnh thổ Việt Nam
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001000
-
-**ID:** dk_00055413
-
----
-
-
-### Điều 34.3.TT.3.11. Việc phân phối, buôn bán và tiêu thụ hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001100
 
 Điều 34.3.TT.3.11. Việc phân phối, buôn bán và tiêu thụ hàng hóa quá cảnh
 
-**Chỉ mục:** 11
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001200
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001100
+Điều 34.3.TT.3.12. Thay đổi cửa khẩu quá cảnh
 
-**ID:** dk_00055414
-
----
-
-
-### Điều 34.3.TT.3.12. Thay đổi cửa khẩu quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001200
-
-**ID:** dk_00055415
-
----
-
-
-### Điều 34.3.TT.3.13. Quyền và nghĩa vụ của chủ hàng và người chuyên chở hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001300
 
 Điều 34.3.TT.3.13. Quyền và nghĩa vụ của chủ hàng và người chuyên chở hàng hóa quá cảnh
 
-**Chỉ mục:** 13
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000300
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802334700220001300
+Điều 34.3.TT.14.3. Cấp giấy phép quá cảnh hàng hóa
 
-**ID:** dk_00055416
-
----
-
-
-### Điều 34.3.TT.14.3. Cấp giấy phép quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000300
-
-**ID:** dk_00055417
-
----
-
-
-### Điều 34.3.TT.14.4. Gia hạn giấy phép quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000400
 
 Điều 34.3.TT.14.4. Gia hạn giấy phép quá cảnh hàng hóa
 
-**Chỉ mục:** 4
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000500
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000400
+Điều 34.3.TT.14.5. Quá cảnh hàng hóa khác
 
-**ID:** dk_00055418
-
----
-
-
-### Điều 34.3.TT.14.5. Quá cảnh hàng hóa khác
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000500
-
-**ID:** dk_00055419
-
----
-
-
-### Điều 34.3.TT.14.6. Phương tiện vận chuyển hàng hóa quá cảnh và người áp tải
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000600
 
 Điều 34.3.TT.14.6. Phương tiện vận chuyển hàng hóa quá cảnh và người áp tải
 
-**Chỉ mục:** 6
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000700
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000600
+Điều 34.3.TT.14.7. Cửa khẩu quá cảnh hàng hóa
 
-**ID:** dk_00055420
-
----
-
-
-### Điều 34.3.TT.14.7. Cửa khẩu quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000700
-
-**ID:** dk_00055421
-
----
-
-
-### Điều 34.3.TT.14.8. Chứng từ khi làm thủ tục hải quan cho hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000800
 
 Điều 34.3.TT.14.8. Chứng từ khi làm thủ tục hải quan cho hàng hóa quá cảnh
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000800
-
-**ID:** dk_00055422
-
----
-
-
-### Điều 34.3.TT.14.9. Giám sát hàng hóa quá cảnh lãnh thổ Việt Nam
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000900
 
 Điều 34.3.TT.14.9. Giám sát hàng hóa quá cảnh lãnh thổ Việt Nam
 
-**Chỉ mục:** 9
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001000
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270000900
+Điều 34.3.TT.14.10. Thời gian quá cảnh hàng hóa
 
-**ID:** dk_00055423
-
----
-
-
-### Điều 34.3.TT.14.10. Thời gian quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001000
-
-**ID:** dk_00055424
-
----
-
-
-### Điều 34.3.TT.14.11. Gia hạn thời gian quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001100
 
 Điều 34.3.TT.14.11. Gia hạn thời gian quá cảnh hàng hóa
 
-**Chỉ mục:** 11
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001200
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001100
+Điều 34.3.TT.14.12. Tiêu thụ hàng hóa quá cảnh
 
-**ID:** dk_00055425
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001300
 
----
+Điều 34.3.TT.14.13. Thay đổi cửa khẩu quá cảnh
 
-
-### Điều 34.3.TT.14.12. Tiêu thụ hàng hóa quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001200
-
-**ID:** dk_00055426
-
----
-
-
-### Điều 34.3.TT.14.13. Thay đổi cửa khẩu quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001300
-
-**ID:** dk_00055427
-
----
-
-
-### Điều 34.3.TT.14.14. Quyền và nghĩa vụ của chủ hàng và người chuyên chở hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001400
 
 Điều 34.3.TT.14.14. Quyền và nghĩa vụ của chủ hàng và người chuyên chở hàng hóa quá cảnh
 
-**Chỉ mục:** 14
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000300
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802520400270001400
+Điều 34.3.TT.16.3. Hàng hóa quá cảnh
 
-**ID:** dk_00055428
-
----
-
-
-### Điều 34.3.TT.16.3. Hàng hóa quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000300
-
-**ID:** dk_00055429
-
----
-
-
-### Điều 34.3.TT.16.4. Hồ sơ đề nghị cấp giấy phép quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000400
 
 Điều 34.3.TT.16.4. Hồ sơ đề nghị cấp giấy phép quá cảnh hàng hóa
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000400
-
-**ID:** dk_00055430
-
----
-
-
-### Điều 34.3.TT.16.5. Thẩm quyền giải quyết hồ sơ và hình thức nộp hồ sơ
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000500
 
 Điều 34.3.TT.16.5. Thẩm quyền giải quyết hồ sơ và hình thức nộp hồ sơ
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000500
-
-**ID:** dk_00055431
-
----
-
-
-### Điều 34.3.TT.16.6. Trình tự, thời hạn giải quyết hồ sơ
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000600
 
 Điều 34.3.TT.16.6. Trình tự, thời hạn giải quyết hồ sơ
 
-**Chỉ mục:** 6
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000700
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000600
+Điều 34.3.TT.16.7. Cửa khẩu quá cảnh hàng hóa
 
-**ID:** dk_00055432
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000800
 
----
+Điều 34.3.TT.16.8. Tuyến đường quá cảnh
 
-
-### Điều 34.3.TT.16.7. Cửa khẩu quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000700
-
-**ID:** dk_00055433
-
----
-
-
-### Điều 34.3.TT.16.8. Tuyến đường quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000800
-
-**ID:** dk_00055434
-
----
-
-
-### Điều 34.3.TT.16.9. Người chuyên chở và phương tiện vận chuyển
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000900
 
 Điều 34.3.TT.16.9. Người chuyên chở và phương tiện vận chuyển
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110000900
-
-**ID:** dk_00055435
-
----
-
-
-### Điều 34.3.TT.16.10. Chứng từ khi làm thủ tục hải quan cho hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001000
 
 Điều 34.3.TT.16.10. Chứng từ khi làm thủ tục hải quan cho hàng hóa quá cảnh
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001000
-
-**ID:** dk_00055436
-
----
-
-
-### Điều 34.3.TT.16.11. Giám sát hàng hóa quá cảnh lãnh thổ Việt Nam
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001100
 
 Điều 34.3.TT.16.11. Giám sát hàng hóa quá cảnh lãnh thổ Việt Nam
 
-**Chỉ mục:** 11
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001200
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001100
+Điều 34.3.TT.16.12. Thời gian quá cảnh hàng hóa
 
-**ID:** dk_00055437
-
----
-
-
-### Điều 34.3.TT.16.12. Thời gian quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001200
-
-**ID:** dk_00055438
-
----
-
-
-### Điều 34.3.TT.16.13. Gia hạn thời gian quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001300
 
 Điều 34.3.TT.16.13. Gia hạn thời gian quá cảnh hàng hóa
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001300
-
-**ID:** dk_00055439
-
----
-
-
-### Điều 34.3.TT.16.14. Thay đổi cửa khẩu quá cảnh hàng hóa
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001400
 
 Điều 34.3.TT.16.14. Thay đổi cửa khẩu quá cảnh hàng hóa
 
-**Chỉ mục:** 14
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001500
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001400
+Điều 34.3.TT.16.15. Tiêu thụ hàng hóa quá cảnh
 
-**ID:** dk_00055440
-
----
-
-
-### Điều 34.3.TT.16.15. Tiêu thụ hàng hóa quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001500
-
-**ID:** dk_00055441
-
----
-
-
-### Điều 34.3.TT.16.16. Quyền và nghĩa vụ của chủ hàng và người chuyên chở hàng hóa quá cảnh
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001600
 
 Điều 34.3.TT.16.16. Quyền và nghĩa vụ của chủ hàng và người chuyên chở hàng hóa quá cảnh
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001600
-
-**ID:** dk_00055442
-
----
-
-
-### Điều 34.3.TT.16.17. Thanh toán và quản lý ngoại hối
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001700
 
 Điều 34.3.TT.16.17. Thanh toán và quản lý ngoại hối
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000350000802547700110001700
-
-**ID:** dk_00055443
-
----
-
-
-### Điều 34.3.NĐ.8.36. Hồ sơ, quy trình cấp Giấy phép quá cảnh hàng hóa
+### 3400300000000000200000600000000000000000002000000000000000000440000000000000000000402655300690003600
 
 Điều 34.3.NĐ.8.36. Hồ sơ, quy trình cấp Giấy phép quá cảnh hàng hóa
 
-**Chỉ mục:** 36
+### 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000360000802658400120000800
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000002000000000000000000440000000000000000000402655300690003600
+Điều 34.3.TT.30.8. Giấy phép quá cảnh hàng hóa
 
-**ID:** dk_00055444
-
----
-
-
-### Điều 34.3.TT.30.8. Giấy phép quá cảnh hàng hóa
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000200000000000000000044000000000000000000040265530069000360000802658400120000800
-
-**ID:** dk_00055445
-
----
-
-
-### Điều 34.3.NĐ.8.37. Thương nhân làm dịch vụ vận chuyển quá cảnh hàng hóa
+### 3400300000000000200000600000000000000000002000000000000000000440000000000000000000402655300690003700
 
 Điều 34.3.NĐ.8.37. Thương nhân làm dịch vụ vận chuyển quá cảnh hàng hóa
 
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000002000000000000000000440000000000000000000402655300690003700
-
-**ID:** dk_00055446
-
----
-
-
-### Điều 34.3.LQ.45. Nguyên tắc quản lý hoạt động quá cảnh hàng hóa
+### 34003000000000002000006000000000000000000020000000000000000004500000000000000000
 
 Điều 34.3.LQ.45. Nguyên tắc quản lý hoạt động quá cảnh hàng hóa
 
-**Chỉ mục:** 45
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000020000000000000000004500000000000000000
-
-**ID:** dk_00055447
-
----
-
-
-### Điều 34.3.LQ.46. Cửa khẩu và tuyến đường quá cảnh hàng hóa
+### 34003000000000002000006000000000000000000020000000000000000004600000000000000000
 
 Điều 34.3.LQ.46. Cửa khẩu và tuyến đường quá cảnh hàng hóa
 
-**Chỉ mục:** 46
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000020000000000000000004600000000000000000
-
-**ID:** dk_00055448
-
----
-
-
-### Điều 34.3.TT.22.3. Tuyến đường vận chuyển quá cảnh hàng hóa
+### 3400300000000000200000600000000000000000002000000000000000000460000000000000000000802619500160000300
 
 Điều 34.3.TT.22.3. Tuyến đường vận chuyển quá cảnh hàng hóa
 
-**Chỉ mục:** 3
+### 34003000000000002000006000000000000000000020000000000000000004700000000000000000
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000002000000000000000000460000000000000000000802619500160000300
+Điều 34.3.LQ.47. Thời gian quá cảnh
 
-**ID:** dk_00055449
-
----
-
-
-### Điều 34.3.LQ.47. Thời gian quá cảnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 47
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000020000000000000000004700000000000000000
-
-**ID:** dk_00055450
-
----
-
-
-### Tiểu mục 3 ĐẠI LÝ MUA BÁN HÀNG HÓA CHO THƯƠNG NHÂN NƯỚC NGOÀI
+### 340030000000000020000060000000000000000000300000000000000000
 
 Tiểu mục 3 ĐẠI LÝ MUA BÁN HÀNG HÓA CHO THƯƠNG NHÂN NƯỚC NGOÀI
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000300000000000000000
-
-**ID:** dk_00055451
-
----
-
-
-### Điều 34.3.LQ.48. Quản lý hoạt động đại lý mua bán hàng hóa cho thương nhân nước ngoài
+### 34003000000000002000006000000000000000000030000000000000000004800000000000000000
 
 Điều 34.3.LQ.48. Quản lý hoạt động đại lý mua bán hàng hóa cho thương nhân nước ngoài
 
-**Chỉ mục:** 48
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000030000000000000000004800000000000000000
-
-**ID:** dk_00055452
-
----
-
-
-### Điều 34.3.NĐ.8.50. Thương nhân làm đại lý mua, bán hàng hóa cho thương nhân nước ngoài
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005000
 
 Điều 34.3.NĐ.8.50. Thương nhân làm đại lý mua, bán hàng hóa cho thương nhân nước ngoài
 
-**Chỉ mục:** 50
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005100
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005000
+Điều 34.3.NĐ.8.51. Nghĩa vụ thuế
 
-**ID:** dk_00055453
-
----
-
-
-### Điều 34.3.NĐ.8.51. Nghĩa vụ thuế
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 51
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005100
-
-**ID:** dk_00055454
-
----
-
-
-### Điều 34.3.NĐ.8.52. Thủ tục xuất khẩu, nhập khẩu hàng hóa thuộc hợp đồng đại lý
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005200
 
 Điều 34.3.NĐ.8.52. Thủ tục xuất khẩu, nhập khẩu hàng hóa thuộc hợp đồng đại lý
 
-**Chỉ mục:** 52
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005300
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005200
+Điều 34.3.NĐ.8.53. Trả lại hàng
 
-**ID:** dk_00055455
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005400
 
----
+Điều 34.3.NĐ.8.54. Thuê thương nhân nước ngoài làm đại lý bán hàng tại nước ngoài
 
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005500
 
-### Điều 34.3.NĐ.8.53. Trả lại hàng
+Điều 34.3.NĐ.8.55. Nghĩa vụ về thuế
 
-*Nội dung chưa có sẵn*
+### 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005600
 
-**Chỉ mục:** 53
+Điều 34.3.NĐ.8.56. Nhận lại hàng
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005300
-
-**ID:** dk_00055456
-
----
-
-
-### Điều 34.3.NĐ.8.54. Thuê thương nhân nước ngoài làm đại lý bán hàng tại nước ngoài
-
-Điều 34.3.NĐ.8.54. Thuê thương nhân nước ngoài làm đại lý bán hàng tại nước ngoài
-
-**Chỉ mục:** 54
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005400
-
-**ID:** dk_00055457
-
----
-
-
-### Điều 34.3.NĐ.8.55. Nghĩa vụ về thuế
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 55
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005500
-
-**ID:** dk_00055458
-
----
-
-
-### Điều 34.3.NĐ.8.56. Nhận lại hàng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 56
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000003000000000000000000480000000000000000000402655300690005600
-
-**ID:** dk_00055459
-
----
-
-
-### Điều 34.3.LQ.49. Quản lý hoạt động thuê thương nhân nước ngoài làm đại lý mua bán hàng hóa tại nước ngoài
+### 34003000000000002000006000000000000000000030000000000000000004900000000000000000
 
 Điều 34.3.LQ.49. Quản lý hoạt động thuê thương nhân nước ngoài làm đại lý mua bán hàng hóa tại nước ngoài
 
-**Chỉ mục:** 49
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000030000000000000000004900000000000000000
-
-**ID:** dk_00055460
-
----
-
-
-### Tiểu mục 4 ỦY THÁC VÀ NHẬN ỦY THÁC XUẤT KHẨU, NHẬP KHẨU
+### 340030000000000020000060000000000000000000400000000000000000
 
 Tiểu mục 4 ỦY THÁC VÀ NHẬN ỦY THÁC XUẤT KHẨU, NHẬP KHẨU
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000400000000000000000
-
-**ID:** dk_00055461
-
----
-
-
-### Điều 34.3.LQ.50. Quản lý hoạt động ủy thác và nhận ủy thác xuất khẩu, nhập khẩu hàng hóa
+### 34003000000000002000006000000000000000000040000000000000000005000000000000000000
 
 Điều 34.3.LQ.50. Quản lý hoạt động ủy thác và nhận ủy thác xuất khẩu, nhập khẩu hàng hóa
 
-**Chỉ mục:** 50
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000040000000000000000005000000000000000000
-
-**ID:** dk_00055462
-
----
-
-
-### Tiểu mục 5 GIA CÔNG HÀNG HÓA CHO THƯƠNG NHÂN NƯỚC NGOÀI VÀ ĐẶT GIA CÔNG HÀNG HÓA Ở NƯỚC NGOÀI
+### 340030000000000020000060000000000000000000500000000000000000
 
 Tiểu mục 5 GIA CÔNG HÀNG HÓA CHO THƯƠNG NHÂN NƯỚC NGOÀI VÀ ĐẶT GIA CÔNG HÀNG HÓA Ở NƯỚC NGOÀI
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000
-
-**ID:** dk_00055463
-
----
-
-
-### Điều 34.3.LQ.51. Quản lý hoạt động nhận gia công hàng hóa cho thương nhân nước ngoài
+### 34003000000000002000006000000000000000000050000000000000000005100000000000000000
 
 Điều 34.3.LQ.51. Quản lý hoạt động nhận gia công hàng hóa cho thương nhân nước ngoài
 
-**Chỉ mục:** 51
-
-**Mã phân cấp:** 34003000000000002000006000000000000000000050000000000000000005100000000000000000
-
-**ID:** dk_00055464
-
----
-
-
-### Điều 34.3.NĐ.8.38. Gia công hàng hóa cho thương nhân nước ngoài
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690003800
 
 Điều 34.3.NĐ.8.38. Gia công hàng hóa cho thương nhân nước ngoài
 
-**Chỉ mục:** 38
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690003900
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690003800
+Điều 34.3.NĐ.8.39. Hợp đồng gia công
 
-**ID:** dk_00055465
-
----
-
-
-### Điều 34.3.NĐ.8.39. Hợp đồng gia công
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 39
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690003900
-
-**ID:** dk_00055466
-
----
-
-
-### Điều 34.3.NĐ.8.40. Định mức sử dụng, định mức tiêu hao và tỷ lệ hao hụt nguyên liệu, phụ liệu, vật tư
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004000
 
 Điều 34.3.NĐ.8.40. Định mức sử dụng, định mức tiêu hao và tỷ lệ hao hụt nguyên liệu, phụ liệu, vật tư
 
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004000
-
-**ID:** dk_00055467
-
----
-
-
-### Điều 34.3.NĐ.8.41. Thuê, mượn, nhập khẩu máy móc thiết bị của bên đặt gia công để thực hiện hợp đồng gia công
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004100
 
 Điều 34.3.NĐ.8.41. Thuê, mượn, nhập khẩu máy móc thiết bị của bên đặt gia công để thực hiện hợp đồng gia công
 
-**Chỉ mục:** 41
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004100
-
-**ID:** dk_00055468
-
----
-
-
-### Điều 34.3.NĐ.8.42. Quyền, nghĩa vụ của bên đặt và nhận gia công
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004200
 
 Điều 34.3.NĐ.8.42. Quyền, nghĩa vụ của bên đặt và nhận gia công
 
-**Chỉ mục:** 42
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004300
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004200
+Điều 34.3.NĐ.8.43. Gia công chuyển tiếp
 
-**ID:** dk_00055469
-
----
-
-
-### Điều 34.3.NĐ.8.43. Gia công chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 43
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004300
-
-**ID:** dk_00055470
-
----
-
-
-### Điều 34.3.NĐ.8.44. Thông báo, thanh lý, quyết toán hợp đồng gia công
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004400
 
 Điều 34.3.NĐ.8.44. Thông báo, thanh lý, quyết toán hợp đồng gia công
 
-**Chỉ mục:** 44
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004500
 
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004400
+Điều 34.3.NĐ.8.45. Thủ tục hải quan
 
-**ID:** dk_00055471
-
----
-
-
-### Điều 34.3.NĐ.8.45. Thủ tục hải quan
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 45
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004500
-
-**ID:** dk_00055472
-
----
-
-
-### Điều 34.3.NĐ.8.46. Các hình thức gia công khác, sửa chữa, tái chế máy móc, thiết bị
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004600
 
 Điều 34.3.NĐ.8.46. Các hình thức gia công khác, sửa chữa, tái chế máy móc, thiết bị
 
-**Chỉ mục:** 46
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004600
-
-**ID:** dk_00055473
-
----
-
-
-### Điều 34.3.QĐ.5.4. Tiêu chí, điều kiện nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học; tiêu chí, điều kiện để thực hiện hoạt động gia công sửa chữa hàng hóa cho thương nhân nước ngoài
+### 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000400
 
 Điều 34.3.QĐ.5.4. Tiêu chí, điều kiện nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học; tiêu chí, điều kiện để thực hiện hoạt động gia công sửa chữa hàng hóa cho thương nhân nước ngoài
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000400
-
-**ID:** dk_00055474
-
----
-
-
-### Điều 34.3.QĐ.5.5. Hồ sơ, thẩm quyền, trình tự, thủ tục cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học
+### 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000500
 
 Điều 34.3.QĐ.5.5. Hồ sơ, thẩm quyền, trình tự, thủ tục cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000500
-
-**ID:** dk_00055475
-
----
-
-
-### Điều 34.3.QĐ.5.6. Hồ sơ, thẩm quyền, trình tự, thủ tục cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài
+### 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000600
 
 Điều 34.3.QĐ.5.6. Hồ sơ, thẩm quyền, trình tự, thủ tục cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000600
-
-**ID:** dk_00055476
-
----
-
-
-### Điều 34.3.QĐ.5.7. Nghĩa vụ của thương nhân và chế độ báo cáo
+### 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000700
 
 Điều 34.3.QĐ.5.7. Nghĩa vụ của thương nhân và chế độ báo cáo
 
-**Chỉ mục:** 7
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004700
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000460000502706500310000700
+Điều 34.3.NĐ.8.47. Gia công quân phục
 
-**ID:** dk_00055477
-
----
-
-
-### Điều 34.3.NĐ.8.47. Gia công quân phục
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 47
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004700
-
-**ID:** dk_00055478
-
----
-
-
-### Điều 34.3.TT.30.9. Giấy phép sản xuất, gia công xuất khẩu quân phục và Giấy phép nhập khẩu mẫu quân phục
+### 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000470000802658400120000900
 
 Điều 34.3.TT.30.9. Giấy phép sản xuất, gia công xuất khẩu quân phục và Giấy phép nhập khẩu mẫu quân phục
 
-**Chỉ mục:** 9
+### 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000470000802658400120001000
 
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000470000802658400120000900
+Điều 34.3.TT.30.10. Phối hợp cung cấp thông tin
 
-**ID:** dk_00055479
-
----
-
-
-### Điều 34.3.TT.30.10. Phối hợp cung cấp thông tin
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000020000060000000000000000000500000000000000000051000000000000000000040265530069000470000802658400120001000
-
-**ID:** dk_00055480
-
----
-
-
-### Điều 34.3.NĐ.8.48. Hợp đồng đặt gia công và thủ tục hải quan
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004800
 
 Điều 34.3.NĐ.8.48. Hợp đồng đặt gia công và thủ tục hải quan
 
-**Chỉ mục:** 48
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004800
-
-**ID:** dk_00055481
-
----
-
-
-### Điều 34.3.NĐ.8.49. Quyền và nghĩa vụ của thương nhân đặt gia công hàng hóa ở nước ngoài
+### 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004900
 
 Điều 34.3.NĐ.8.49. Quyền và nghĩa vụ của thương nhân đặt gia công hàng hóa ở nước ngoài
 
-**Chỉ mục:** 49
-
-**Mã phân cấp:** 3400300000000000200000600000000000000000005000000000000000000510000000000000000000402655300690004900
-
-**ID:** dk_00055482
-
----
-
-
-### Điều 34.3.LQ.52. Quản lý hoạt động đặt gia công hàng hóa ở nước ngoài
+### 34003000000000002000006000000000000000000050000000000000000005200000000000000000
 
 Điều 34.3.LQ.52. Quản lý hoạt động đặt gia công hàng hóa ở nước ngoài
 
-**Chỉ mục:** 52
+### 3400300000000000200000700000000000000000
 
-**Mã phân cấp:** 34003000000000002000006000000000000000000050000000000000000005200000000000000000
+Mục 7 HOẠT ĐỘNG NGOẠI THƯƠNG VỚI CÁC NƯỚC CÓ CHUNG BIÊN GIỚI
 
-**ID:** dk_00055483
-
----
-
-
-### Điều 34.3.LQ.53. Quản lý ngoại thương với các nước có chung biên giới
+### 340030000000000020000070000000000000000005300000000000000000
 
 Điều 34.3.LQ.53. Quản lý ngoại thương với các nước có chung biên giới
 
-**Chỉ mục:** 53
-
-**Mã phân cấp:** 340030000000000020000070000000000000000005300000000000000000
-
-**ID:** dk_00055485
-
----
-
-
-### Điều 34.3.NĐ.5.4. Thanh toán trong hoạt động thương mại biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140000400
 
 Điều 34.3.NĐ.5.4. Thanh toán trong hoạt động thương mại biên giới
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140000400
-
-**ID:** dk_00055486
-
----
-
-
-### Điều 34.3.NĐ.5.5. Thương nhân mua bán, trao đổi hàng hóa qua biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140000500
 
 Điều 34.3.NĐ.5.5. Thương nhân mua bán, trao đổi hàng hóa qua biên giới
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140000500
-
-**ID:** dk_00055487
-
----
-
-
-### Điều 34.3.NĐ.5.6. Cửa khẩu biên giới thực hiện hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân
+### 34003000000000002000007000000000000000000530000000000000000000402644100140000600
 
 Điều 34.3.NĐ.5.6. Cửa khẩu biên giới thực hiện hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140000600
-
-**ID:** dk_00055488
-
----
-
-
-### Điều 34.3.NĐ.5.7. Hàng hóa mua bán, trao đổi qua biên giới của thương nhân
+### 34003000000000002000007000000000000000000530000000000000000000402644100140000700
 
 Điều 34.3.NĐ.5.7. Hàng hóa mua bán, trao đổi qua biên giới của thương nhân
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140000700
-
-**ID:** dk_00055489
-
----
-
-
-### Điều 34.3.TT.23.3. Hàng hóa mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân
+### 3400300000000000200000700000000000000000053000000000000000000040264410014000070000802647600010000300
 
 Điều 34.3.TT.23.3. Hàng hóa mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000700000000000000000053000000000000000000040264410014000070000802647600010000300
-
-**ID:** dk_00055490
-
----
-
-
-### Điều 34.3.NĐ.5.8. Kiểm dịch, kiểm tra an toàn thực phẩm, kiểm tra chất lượng đối với hàng hóa mua bán, trao đổi qua biên giới của thương nhân
+### 34003000000000002000007000000000000000000530000000000000000000402644100140000800
 
 Điều 34.3.NĐ.5.8. Kiểm dịch, kiểm tra an toàn thực phẩm, kiểm tra chất lượng đối với hàng hóa mua bán, trao đổi qua biên giới của thương nhân
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140000800
-
-**ID:** dk_00055491
-
----
-
-
-### Điều 34.3.NĐ.5.9. Hình thức thỏa thuận trong hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân
+### 34003000000000002000007000000000000000000530000000000000000000402644100140000900
 
 Điều 34.3.NĐ.5.9. Hình thức thỏa thuận trong hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân
 
-**Chỉ mục:** 9
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001000
 
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140000900
+Điều 34.3.NĐ.5.10. Chính sách thuế, phí và lệ phí
 
-**ID:** dk_00055492
-
----
-
-
-### Điều 34.3.NĐ.5.10. Chính sách thuế, phí và lệ phí
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001000
-
-**ID:** dk_00055493
-
----
-
-
-### Điều 34.3.NĐ.5.11. Cửa khẩu biên giới thực hiện mua bán, trao đổi hàng hóa của cư dân biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001100
 
 Điều 34.3.NĐ.5.11. Cửa khẩu biên giới thực hiện mua bán, trao đổi hàng hóa của cư dân biên giới
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001100
-
-**ID:** dk_00055494
-
----
-
-
-### Điều 34.3.NĐ.5.12. Hàng hóa mua bán, trao đổi của cư dân biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001200
 
 Điều 34.3.NĐ.5.12. Hàng hóa mua bán, trao đổi của cư dân biên giới
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001200
-
-**ID:** dk_00055495
-
----
-
-
-### Điều 34.3.TT.24.3. Hàng hóa mua bán, trao đổi qua biên giới của cư dân biên giới
+### 3400300000000000200000700000000000000000053000000000000000000040264410014000120000802647600020000300
 
 Điều 34.3.TT.24.3. Hàng hóa mua bán, trao đổi qua biên giới của cư dân biên giới
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000200000700000000000000000053000000000000000000040264410014000120000802647600020000300
-
-**ID:** dk_00055496
-
----
-
-
-### Điều 34.3.NĐ.5.13. Thuế đối với hàng hóa mua bán, trao đổi của cư dân biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001300
 
 Điều 34.3.NĐ.5.13. Thuế đối với hàng hóa mua bán, trao đổi của cư dân biên giới
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001300
-
-**ID:** dk_00055497
-
----
-
-
-### Điều 34.3.NĐ.5.14. Quản lý mua gom hàng hóa mua bán, trao đổi của cư dân biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001400
 
 Điều 34.3.NĐ.5.14. Quản lý mua gom hàng hóa mua bán, trao đổi của cư dân biên giới
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001400
-
-**ID:** dk_00055498
-
----
-
-
-### Điều 34.3.NĐ.5.15. Kiểm dịch, kiểm tra chất lượng hàng hóa, an toàn thực phẩm trong hoạt động mua bán, trao đổi hàng hóa của cư dân biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001500
 
 Điều 34.3.NĐ.5.15. Kiểm dịch, kiểm tra chất lượng hàng hóa, an toàn thực phẩm trong hoạt động mua bán, trao đổi hàng hóa của cư dân biên giới
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001500
-
-**ID:** dk_00055499
-
----
-
-
-### Điều 34.3.NĐ.5.16. Chủ thể hoạt động mua bán, trao đổi hàng hóa tại chợ biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001600
 
 Điều 34.3.NĐ.5.16. Chủ thể hoạt động mua bán, trao đổi hàng hóa tại chợ biên giới
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001600
-
-**ID:** dk_00055500
-
----
-
-
-### Điều 34.3.NĐ.5.17. Hoạt động kinh doanh tại chợ biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001700
 
 Điều 34.3.NĐ.5.17. Hoạt động kinh doanh tại chợ biên giới
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001700
-
-**ID:** dk_00055501
-
----
-
-
-### Điều 34.3.NĐ.5.18. Hàng hóa được mua bán, trao đổi tại chợ biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001800
 
 Điều 34.3.NĐ.5.18. Hàng hóa được mua bán, trao đổi tại chợ biên giới
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001800
-
-**ID:** dk_00055502
-
----
-
-
-### Điều 34.3.NĐ.5.19. Kiểm dịch đối với hàng hóa mua bán, trao đổi tại chợ biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140001900
 
 Điều 34.3.NĐ.5.19. Kiểm dịch đối với hàng hóa mua bán, trao đổi tại chợ biên giới
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140001900
-
-**ID:** dk_00055503
-
----
-
-
-### Điều 34.3.NĐ.5.20. Quy định về thuế, phí, lệ phí đối với hàng hóa mua bán, trao đổi tại chợ biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140002000
 
 Điều 34.3.NĐ.5.20. Quy định về thuế, phí, lệ phí đối với hàng hóa mua bán, trao đổi tại chợ biên giới
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140002000
-
-**ID:** dk_00055504
-
----
-
-
-### Điều 34.3.NĐ.5.21. Xuất nhập cảnh người và phương tiện của Việt Nam
+### 34003000000000002000007000000000000000000530000000000000000000402644100140002100
 
 Điều 34.3.NĐ.5.21. Xuất nhập cảnh người và phương tiện của Việt Nam
 
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140002100
-
-**ID:** dk_00055505
-
----
-
-
-### Điều 34.3.NĐ.5.22. Xuất nhập cảnh người và phương tiện của nước có chung biên giới
+### 34003000000000002000007000000000000000000530000000000000000000402644100140002200
 
 Điều 34.3.NĐ.5.22. Xuất nhập cảnh người và phương tiện của nước có chung biên giới
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000530000000000000000000402644100140002200
-
-**ID:** dk_00055506
-
----
-
-
-### Điều 34.3.LQ.54. Cơ chế điều hành hoạt động thương mại biên giới tại cửa khẩu biên giới trên đất liền
+### 340030000000000020000070000000000000000005400000000000000000
 
 Điều 34.3.LQ.54. Cơ chế điều hành hoạt động thương mại biên giới tại cửa khẩu biên giới trên đất liền
 
-**Chỉ mục:** 54
+### 34003000000000002000007000000000000000000540000000000000000000402644100140002300
 
-**Mã phân cấp:** 340030000000000020000070000000000000000005400000000000000000
+Điều 34.3.NĐ.5.23. Trách nhiệm của Bộ Công Thương
 
-**ID:** dk_00055507
-
----
-
-
-### Điều 34.3.NĐ.5.23. Trách nhiệm của Bộ Công Thương
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000540000000000000000000402644100140002300
-
-**ID:** dk_00055508
-
----
-
-
-### Điều 34.3.NĐ.5.24. Trách nhiệm của các bộ, ngành có liên quan
+### 34003000000000002000007000000000000000000540000000000000000000402644100140002400
 
 Điều 34.3.NĐ.5.24. Trách nhiệm của các bộ, ngành có liên quan
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000540000000000000000000402644100140002400
-
-**ID:** dk_00055509
-
----
-
-
-### Điều 34.3.NĐ.5.25. Trách nhiệm của Ủy ban nhân dân các tỉnh biên giới
+### 34003000000000002000007000000000000000000540000000000000000000402644100140002500
 
 Điều 34.3.NĐ.5.25. Trách nhiệm của Ủy ban nhân dân các tỉnh biên giới
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 34003000000000002000007000000000000000000540000000000000000000402644100140002500
-
-**ID:** dk_00055510
-
----
-
-
-### Điều 34.3.LQ.55. Chính sách quản lý, phát triển các hoạt động hỗ trợ thương mại tại khu vực cửa khẩu biên giới trên đất liền
+### 340030000000000020000070000000000000000005500000000000000000
 
 Điều 34.3.LQ.55. Chính sách quản lý, phát triển các hoạt động hỗ trợ thương mại tại khu vực cửa khẩu biên giới trên đất liền
 
-**Chỉ mục:** 55
+### 3400300000000000200000800000000000000000
 
-**Mã phân cấp:** 340030000000000020000070000000000000000005500000000000000000
+Mục 8 QUẢN LÝ HÀNG HÓA ĐỐI VỚI KHU VỰC HẢI QUAN RIÊNG
 
-**ID:** dk_00055511
-
----
-
-
-### Điều 34.3.LQ.56. Áp dụng biện pháp quản lý hàng hóa xuất khẩu đối với khu vực hải quan riêng
+### 340030000000000020000080000000000000000005600000000000000000
 
 Điều 34.3.LQ.56. Áp dụng biện pháp quản lý hàng hóa xuất khẩu đối với khu vực hải quan riêng
 
-**Chỉ mục:** 56
-
-**Mã phân cấp:** 340030000000000020000080000000000000000005600000000000000000
-
-**ID:** dk_00055513
-
----
-
-
-### Điều 34.3.LQ.57. Áp dụng biện pháp quản lý hàng hóa nhập khẩu đối với khu vực hải quan riêng
+### 340030000000000020000080000000000000000005700000000000000000
 
 Điều 34.3.LQ.57. Áp dụng biện pháp quản lý hàng hóa nhập khẩu đối với khu vực hải quan riêng
 
-**Chỉ mục:** 57
-
-**Mã phân cấp:** 340030000000000020000080000000000000000005700000000000000000
-
-**ID:** dk_00055514
-
----
-
-
-### Điều 34.3.LQ.58. Áp dụng biện pháp quản lý mua bán hàng hóa giữa các khu vực hải quan riêng
+### 340030000000000020000080000000000000000005800000000000000000
 
 Điều 34.3.LQ.58. Áp dụng biện pháp quản lý mua bán hàng hóa giữa các khu vực hải quan riêng
 
-**Chỉ mục:** 58
+### 340030000000000020000080000000000000000005900000000000000000
 
-**Mã phân cấp:** 340030000000000020000080000000000000000005800000000000000000
+Điều 34.3.LQ.59. Trường hợp ngoại lệ
 
-**ID:** dk_00055515
+### 34003000000000003000
 
----
+Chương III CÁC BIỆN PHÁP KỸ THUẬT, KIỂM DỊCH
 
+### 3400300000000000300000100000000000000000
 
-### Điều 34.3.LQ.59. Trường hợp ngoại lệ
+Mục 1 ÁP DỤNG BIỆN PHÁP KỸ THUẬT, KIỂM DỊCH
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 59
-
-**Mã phân cấp:** 340030000000000020000080000000000000000005900000000000000000
-
-**ID:** dk_00055516
-
----
-
-
-### Điều 34.3.LQ.60. Mục tiêu, nguyên tắc áp dụng biện pháp kỹ thuật, kiểm dịch
+### 340030000000000030000010000000000000000006000000000000000000
 
 Điều 34.3.LQ.60. Mục tiêu, nguyên tắc áp dụng biện pháp kỹ thuật, kiểm dịch
 
-**Chỉ mục:** 60
-
-**Mã phân cấp:** 340030000000000030000010000000000000000006000000000000000000
-
-**ID:** dk_00055519
-
----
-
-
-### Điều 34.3.LQ.61. Áp dụng biện pháp kỹ thuật đối với hàng hóa xuất khẩu, nhập khẩu
+### 340030000000000030000010000000000000000006100000000000000000
 
 Điều 34.3.LQ.61. Áp dụng biện pháp kỹ thuật đối với hàng hóa xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 61
-
-**Mã phân cấp:** 340030000000000030000010000000000000000006100000000000000000
-
-**ID:** dk_00055520
-
----
-
-
-### Điều 34.3.LQ.62. Áp dụng biện pháp kiểm dịch động vật, sản phẩm động vật
+### 340030000000000030000010000000000000000006200000000000000000
 
 Điều 34.3.LQ.62. Áp dụng biện pháp kiểm dịch động vật, sản phẩm động vật
 
-**Chỉ mục:** 62
-
-**Mã phân cấp:** 340030000000000030000010000000000000000006200000000000000000
-
-**ID:** dk_00055521
-
----
-
-
-### Điều 34.3.LQ.63. Áp dụng biện pháp kiểm dịch thực vật
+### 340030000000000030000010000000000000000006300000000000000000
 
 Điều 34.3.LQ.63. Áp dụng biện pháp kiểm dịch thực vật
 
-**Chỉ mục:** 63
-
-**Mã phân cấp:** 340030000000000030000010000000000000000006300000000000000000
-
-**ID:** dk_00055522
-
----
-
-
-### Điều 34.3.LQ.64. Áp dụng biện pháp kiểm dịch y tế biên giới
+### 340030000000000030000010000000000000000006400000000000000000
 
 Điều 34.3.LQ.64. Áp dụng biện pháp kiểm dịch y tế biên giới
 
-**Chỉ mục:** 64
+### 3400300000000000300000200000000000000000
 
-**Mã phân cấp:** 340030000000000030000010000000000000000006400000000000000000
+Mục 2 ÁP DỤNG BIỆN PHÁP KIỂM TRA ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU
 
-**ID:** dk_00055523
-
----
-
-
-### Điều 34.3.LQ.65. Hàng hóa xuất khẩu, nhập khẩu phải kiểm tra
+### 340030000000000030000020000000000000000006500000000000000000
 
 Điều 34.3.LQ.65. Hàng hóa xuất khẩu, nhập khẩu phải kiểm tra
 
-**Chỉ mục:** 65
+### 340030000000000030000020000000000000000006600000000000000000
 
-**Mã phân cấp:** 340030000000000030000020000000000000000006500000000000000000
+Điều 34.3.LQ.66. Cơ quan, tổ chức kiểm tra
 
-**ID:** dk_00055525
+### 34003000000000004000
 
----
+Chương IV BIỆN PHÁP PHÒNG VỆ THƯƠNG MẠI
 
+### 3400300000000000400000100000000000000000
 
-### Điều 34.3.LQ.66. Cơ quan, tổ chức kiểm tra
+Mục 1 QUY ĐỊNH CHUNG
 
-*Nội dung chưa có sẵn*
+### 340030000000000040000010000000000000000006700000000000000000
 
-**Chỉ mục:** 66
+Điều 34.3.LQ.67. Các biện pháp phòng vệ thương mại
 
-**Mã phân cấp:** 340030000000000030000020000000000000000006600000000000000000
-
-**ID:** dk_00055526
-
----
-
-
-### Điều 34.3.LQ.67. Các biện pháp phòng vệ thương mại
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 67
-
-**Mã phân cấp:** 340030000000000040000010000000000000000006700000000000000000
-
-**ID:** dk_00055529
-
----
-
-
-### Điều 34.3.NĐ.4.4. Xác định ngành sản xuất trong nước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100000400
 
 Điều 34.3.NĐ.4.4. Xác định ngành sản xuất trong nước
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100000400
-
-**ID:** dk_00055530
-
----
-
-
-### Điều 34.3.NĐ.4.5. Xác định mối quan hệ giữa nhà sản xuất hàng hóa tương tự và tổ chức, cá nhân xuất khẩu, nhập khẩu hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100000500
 
 Điều 34.3.NĐ.4.5. Xác định mối quan hệ giữa nhà sản xuất hàng hóa tương tự và tổ chức, cá nhân xuất khẩu, nhập khẩu hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100000500
-
-**ID:** dk_00055531
-
----
-
-
-### Điều 34.3.NĐ.4.6. Hoàn trả thuế phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100000600
 
 Điều 34.3.NĐ.4.6. Hoàn trả thuế phòng vệ thương mại
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100000600
-
-**ID:** dk_00055532
-
----
-
-
-### Điều 34.3.NĐ.4.7. Miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100000700
 
 Điều 34.3.NĐ.4.7. Miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100000700
-
-**ID:** dk_00055533
-
----
-
-
-### Điều 34.3.NĐ.4.8. Quản lý nhập khẩu hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100000800
 
 Điều 34.3.NĐ.4.8. Quản lý nhập khẩu hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100000800
-
-**ID:** dk_00055534
-
----
-
-
-### Điều 34.3.NĐ.4.9. Quyền và nghĩa vụ của các bên liên quan trong vụ việc phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100000900
 
 Điều 34.3.NĐ.4.9. Quyền và nghĩa vụ của các bên liên quan trong vụ việc phòng vệ thương mại
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100000900
-
-**ID:** dk_00055535
-
----
-
-
-### Điều 34.3.NĐ.4.10. Quy định về việc bên liên quan không hợp tác trong vụ việc phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001000
 
 Điều 34.3.NĐ.4.10. Quy định về việc bên liên quan không hợp tác trong vụ việc phòng vệ thương mại
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001000
-
-**ID:** dk_00055536
-
----
-
-
-### Điều 34.3.TT.54.4. Tiếng nói và chữ viết trong quá trình điều tra, áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000400
 
 Điều 34.3.TT.54.4. Tiếng nói và chữ viết trong quá trình điều tra, áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000400
-
-**ID:** dk_00055537
-
----
-
-
-### Điều 34.3.TT.54.5. Trách nhiệm cung cấp thông tin của Cơ quan điều tra
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000500
 
 Điều 34.3.TT.54.5. Trách nhiệm cung cấp thông tin của Cơ quan điều tra
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000500
-
-**ID:** dk_00055538
-
----
-
-
-### Điều 34.3.TT.54.6. Đăng ký bên liên quan trong vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000600
 
 Điều 34.3.TT.54.6. Đăng ký bên liên quan trong vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 6
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000700
 
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000600
+Điều 34.3.TT.54.7. Đơn khai báo nhập khẩu
 
-**ID:** dk_00055539
-
----
-
-
-### Điều 34.3.TT.54.7. Đơn khai báo nhập khẩu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000700
-
-**ID:** dk_00055540
-
----
-
-
-### Điều 34.3.TT.54.8. Các loại thông tin công khai trong vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000800
 
 Điều 34.3.TT.54.8. Các loại thông tin công khai trong vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000800
-
-**ID:** dk_00055541
-
----
-
-
-### Điều 34.3.TT.54.9. Đề nghị bảo mật thông tin trong vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000900
 
 Điều 34.3.TT.54.9. Đề nghị bảo mật thông tin trong vụ việc điều tra, áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370000900
-
-**ID:** dk_00055542
-
----
-
-
-### Điều 34.3.TT.54.10. Phạm vi miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001000
 
 Điều 34.3.TT.54.10. Phạm vi miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001000
-
-**ID:** dk_00055543
-
----
-
-
-### Điều 34.3.TT.54.11. Thời hạn miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001100
 
 Điều 34.3.TT.54.11. Thời hạn miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001100
-
-**ID:** dk_00055544
-
----
-
-
-### Điều 34.3.TT.54.12. Đối tượng đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001200
 
 Điều 34.3.TT.54.12. Đối tượng đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001200
-
-**ID:** dk_00055545
-
----
-
-
-### Điều 34.3.TT.54.13. Tiêu chí xem xét và hình thức miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001300
 
 Điều 34.3.TT.54.13. Tiêu chí xem xét và hình thức miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001300
-
-**ID:** dk_00055546
-
----
-
-
-### Điều 34.3.TT.54.14. Hồ sơ đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001400
 
 Điều 34.3.TT.54.14. Hồ sơ đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001400
-
-**ID:** dk_00055547
-
----
-
-
-### Điều 34.3.TT.54.15. Nộp và theo dõi hồ sơ đề nghị miễn trừ
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001500
 
 Điều 34.3.TT.54.15. Nộp và theo dõi hồ sơ đề nghị miễn trừ
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001500
-
-**ID:** dk_00055548
-
----
-
-
-### Điều 34.3.TT.54.16. Thông báo tiếp nhận Hồ sơ miễn trừ
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001600
 
 Điều 34.3.TT.54.16. Thông báo tiếp nhận Hồ sơ miễn trừ
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001600
-
-**ID:** dk_00055549
-
----
-
-
-### Điều 34.3.TT.54.17. Nội dung quyết định miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001700
 
 Điều 34.3.TT.54.17. Nội dung quyết định miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001700
-
-**ID:** dk_00055550
-
----
-
-
-### Điều 34.3.TT.54.18. Thủ tục hải quan, kiểm tra hải quan đối với hàng hóa được miễn trừ
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001800
 
 Điều 34.3.TT.54.18. Thủ tục hải quan, kiểm tra hải quan đối với hàng hóa được miễn trừ
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001800
-
-**ID:** dk_00055551
-
----
-
-
-### Điều 34.3.TT.54.19. Hoàn trả thuế phòng vệ thương mại đối với hàng hóa được miễn trừ áp dụng biện pháp phòng vệ thương mại
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001900
 
 Điều 34.3.TT.54.19. Hoàn trả thuế phòng vệ thương mại đối với hàng hóa được miễn trừ áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 19
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002000
 
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370001900
+Điều 34.3.TT.54.20. Báo cáo định kỳ
 
-**ID:** dk_00055552
-
----
-
-
-### Điều 34.3.TT.54.20. Báo cáo định kỳ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002000
-
-**ID:** dk_00055553
-
----
-
-
-### Điều 34.3.TT.54.21. Xử lý phế liệu, phế phẩm, nguyên liệu, vật tư dư thừa
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002100
 
 Điều 34.3.TT.54.21. Xử lý phế liệu, phế phẩm, nguyên liệu, vật tư dư thừa
 
-**Chỉ mục:** 21
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002200
 
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002100
+Điều 34.3.TT.54.22. Thanh tra sau miễn trừ
 
-**ID:** dk_00055554
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002300
 
----
+Điều 34.3.TT.54.23. Kiểm tra sau miễn trừ
 
-
-### Điều 34.3.TT.54.22. Thanh tra sau miễn trừ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002200
-
-**ID:** dk_00055555
-
----
-
-
-### Điều 34.3.TT.54.23. Kiểm tra sau miễn trừ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002300
-
-**ID:** dk_00055556
-
----
-
-
-### Điều 34.3.TT.54.24. Thực hiện kiểm tra sau miễn trừ
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002400
 
 Điều 34.3.TT.54.24. Thực hiện kiểm tra sau miễn trừ
 
-**Chỉ mục:** 24
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002500
 
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002400
+Điều 34.3.TT.54.25. Kết quả kiểm tra sau miễn trừ
 
-**ID:** dk_00055557
+### 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002600
 
----
+Điều 34.3.TT.54.26. Thu hồi quyết định miễn trừ
 
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001100
 
-### Điều 34.3.TT.54.25. Kết quả kiểm tra sau miễn trừ
+Điều 34.3.NĐ.4.11. Bảo mật thông tin
 
-*Nội dung chưa có sẵn*
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001200
 
-**Chỉ mục:** 25
+Điều 34.3.NĐ.4.12. Điều tra tại chỗ
 
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002500
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001300
 
-**ID:** dk_00055558
+Điều 34.3.NĐ.4.13. Tham vấn
 
----
-
-
-### Điều 34.3.TT.54.26. Thu hồi quyết định miễn trừ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000400000100000000000000000067000000000000000000040264330010000100000802711600370002600
-
-**ID:** dk_00055559
-
----
-
-
-### Điều 34.3.NĐ.4.11. Bảo mật thông tin
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001100
-
-**ID:** dk_00055560
-
----
-
-
-### Điều 34.3.NĐ.4.12. Điều tra tại chỗ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001200
-
-**ID:** dk_00055561
-
----
-
-
-### Điều 34.3.NĐ.4.13. Tham vấn
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001300
-
-**ID:** dk_00055562
-
----
-
-
-### Điều 34.3.NĐ.4.14. Cung cấp thông tin của cơ quan quản lý nhà nước, hiệp hội ngành, nghề Việt Nam
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001400
 
 Điều 34.3.NĐ.4.14. Cung cấp thông tin của cơ quan quản lý nhà nước, hiệp hội ngành, nghề Việt Nam
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001400
-
-**ID:** dk_00055563
-
----
-
-
-### Điều 34.3.NĐ.4.15. Áp dụng biện pháp phòng vệ thương mại đối với các nước, vùng lãnh thổ kém phát triển, đang phát triển
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001500
 
 Điều 34.3.NĐ.4.15. Áp dụng biện pháp phòng vệ thương mại đối với các nước, vùng lãnh thổ kém phát triển, đang phát triển
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001500
-
-**ID:** dk_00055564
-
----
-
-
-### Điều 34.3.NĐ.4.16. Phương pháp xác định giá thông thường
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001600
 
 Điều 34.3.NĐ.4.16. Phương pháp xác định giá thông thường
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001600
-
-**ID:** dk_00055565
-
----
-
-
-### Điều 34.3.NĐ.4.17. Điều kiện thương mại thông thường
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001700
 
 Điều 34.3.NĐ.4.17. Điều kiện thương mại thông thường
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001700
-
-**ID:** dk_00055566
-
----
-
-
-### Điều 34.3.NĐ.4.18. Phương pháp xác định giá xuất khẩu
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001800
 
 Điều 34.3.NĐ.4.18. Phương pháp xác định giá xuất khẩu
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001800
-
-**ID:** dk_00055567
-
----
-
-
-### Điều 34.3.NĐ.4.19. Điều chỉnh giá thông thường, giá xuất khẩu
+### 34003000000000004000001000000000000000000670000000000000000000402643300100001900
 
 Điều 34.3.NĐ.4.19. Điều chỉnh giá thông thường, giá xuất khẩu
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100001900
-
-**ID:** dk_00055568
-
----
-
-
-### Điều 34.3.NĐ.4.20. Phương pháp xác định biên độ bán phá giá
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002000
 
 Điều 34.3.NĐ.4.20. Phương pháp xác định biên độ bán phá giá
 
-**Chỉ mục:** 20
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002100
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002000
+Điều 34.3.NĐ.4.21. Tính riêng biệt của trợ cấp
 
-**ID:** dk_00055569
-
----
-
-
-### Điều 34.3.NĐ.4.21. Tính riêng biệt của trợ cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002100
-
-**ID:** dk_00055570
-
----
-
-
-### Điều 34.3.NĐ.4.22. Phương pháp xác định giá trị trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002200
 
 Điều 34.3.NĐ.4.22. Phương pháp xác định giá trị trợ cấp
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002200
-
-**ID:** dk_00055571
-
----
-
-
-### Điều 34.3.NĐ.4.23. Xác định thiệt hại đáng kể của ngành sản xuất trong nước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002300
 
 Điều 34.3.NĐ.4.23. Xác định thiệt hại đáng kể của ngành sản xuất trong nước
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002300
-
-**ID:** dk_00055572
-
----
-
-
-### Điều 34.3.NĐ.4.24. Xác định đe dọa gây thiệt hại đáng kể của ngành sản xuất trong nước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002400
 
 Điều 34.3.NĐ.4.24. Xác định đe dọa gây thiệt hại đáng kể của ngành sản xuất trong nước
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002400
-
-**ID:** dk_00055573
-
----
-
-
-### Điều 34.3.NĐ.4.25. Xác định ngăn cản đáng kể sự hình thành của ngành sản xuất trong nước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002500
 
 Điều 34.3.NĐ.4.25. Xác định ngăn cản đáng kể sự hình thành của ngành sản xuất trong nước
 
-**Chỉ mục:** 25
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002600
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002500
+Điều 34.3.NĐ.4.26. Nguyên tắc xem xét cộng gộp
 
-**ID:** dk_00055574
-
----
-
-
-### Điều 34.3.NĐ.4.26. Nguyên tắc xem xét cộng gộp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002600
-
-**ID:** dk_00055575
-
----
-
-
-### Điều 34.3.NĐ.4.27. Xác định mối quan hệ nhân quả giữa việc hàng hóa bị bán phá giá, được trợ cấp nhập khẩu vào Việt Nam với thiệt hại của ngành sản xuất trong nước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002700
 
 Điều 34.3.NĐ.4.27. Xác định mối quan hệ nhân quả giữa việc hàng hóa bị bán phá giá, được trợ cấp nhập khẩu vào Việt Nam với thiệt hại của ngành sản xuất trong nước
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002700
-
-**ID:** dk_00055576
-
----
-
-
-### Điều 34.3.NĐ.4.28. Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002800
 
 Điều 34.3.NĐ.4.28. Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá
 
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002800
-
-**ID:** dk_00055577
-
----
-
-
-### Điều 34.3.NĐ.4.29. Hồ sơ yêu cầu áp dụng biện pháp chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100002900
 
 Điều 34.3.NĐ.4.29. Hồ sơ yêu cầu áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100002900
-
-**ID:** dk_00055578
-
----
-
-
-### Điều 34.3.NĐ.4.30. Tiếp nhận Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá, chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003000
 
 Điều 34.3.NĐ.4.30. Tiếp nhận Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá, chống trợ cấp
 
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003000
-
-**ID:** dk_00055579
-
----
-
-
-### Điều 34.3.NĐ.4.31. Thẩm định Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá, chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003100
 
 Điều 34.3.NĐ.4.31. Thẩm định Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá, chống trợ cấp
 
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003100
-
-**ID:** dk_00055580
-
----
-
-
-### Điều 34.3.NĐ.4.32. Quyết định điều tra áp dụng biện pháp chống bán phá giá, chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003200
 
 Điều 34.3.NĐ.4.32. Quyết định điều tra áp dụng biện pháp chống bán phá giá, chống trợ cấp
 
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003200
-
-**ID:** dk_00055581
-
----
-
-
-### Điều 34.3.NĐ.4.33. Lập Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá, chống trợ cấp trong trường hợp không có Bên yêu cầu
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003300
 
 Điều 34.3.NĐ.4.33. Lập Hồ sơ yêu cầu áp dụng biện pháp chống bán phá giá, chống trợ cấp trong trường hợp không có Bên yêu cầu
 
-**Chỉ mục:** 33
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003400
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003300
+Điều 34.3.NĐ.4.34. Thời kỳ điều tra
 
-**ID:** dk_00055582
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003500
 
----
+Điều 34.3.NĐ.4.35. Bản câu hỏi điều tra
 
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003600
 
-### Điều 34.3.NĐ.4.34. Thời kỳ điều tra
+Điều 34.3.NĐ.4.36. Chọn mẫu điều tra
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003400
-
-**ID:** dk_00055583
-
----
-
-
-### Điều 34.3.NĐ.4.35. Bản câu hỏi điều tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003500
-
-**ID:** dk_00055584
-
----
-
-
-### Điều 34.3.NĐ.4.36. Chọn mẫu điều tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003600
-
-**ID:** dk_00055585
-
----
-
-
-### Điều 34.3.NĐ.4.37. Áp dụng thuế chống bán phá giá, chống trợ cấp tạm thời
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003700
 
 Điều 34.3.NĐ.4.37. Áp dụng thuế chống bán phá giá, chống trợ cấp tạm thời
 
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003700
-
-**ID:** dk_00055586
-
----
-
-
-### Điều 34.3.NĐ.4.38. Áp dụng biện pháp cam kết trong vụ việc điều tra chống bán phá giá, chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003800
 
 Điều 34.3.NĐ.4.38. Áp dụng biện pháp cam kết trong vụ việc điều tra chống bán phá giá, chống trợ cấp
 
-**Chỉ mục:** 38
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003800
-
-**ID:** dk_00055587
-
----
-
-
-### Điều 34.3.NĐ.4.39. Quyết định về việc cam kết loại trừ bán phá giá, trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100003900
 
 Điều 34.3.NĐ.4.39. Quyết định về việc cam kết loại trừ bán phá giá, trợ cấp
 
-**Chỉ mục:** 39
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004000
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100003900
+Điều 34.3.NĐ.4.40. Giám sát việc thực hiện cam kết
 
-**ID:** dk_00055588
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004100
 
----
+Điều 34.3.NĐ.4.41. Vi phạm thực hiện cam kết
 
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004200
 
-### Điều 34.3.NĐ.4.40. Giám sát việc thực hiện cam kết
+Điều 34.3.NĐ.4.42. Hủy bỏ thực hiện cam kết
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004000
-
-**ID:** dk_00055589
-
----
-
-
-### Điều 34.3.NĐ.4.41. Vi phạm thực hiện cam kết
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 41
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004100
-
-**ID:** dk_00055590
-
----
-
-
-### Điều 34.3.NĐ.4.42. Hủy bỏ thực hiện cam kết
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 42
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004200
-
-**ID:** dk_00055591
-
----
-
-
-### Điều 34.3.NĐ.4.43. Áp dụng biện pháp chống bán phá giá, chống trợ cấp sau khi hủy bỏ thực hiện cam kết
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004300
 
 Điều 34.3.NĐ.4.43. Áp dụng biện pháp chống bán phá giá, chống trợ cấp sau khi hủy bỏ thực hiện cam kết
 
-**Chỉ mục:** 43
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004300
-
-**ID:** dk_00055592
-
----
-
-
-### Điều 34.3.NĐ.4.44. Áp dụng biện pháp chống bán phá giá, chống trợ cấp chính thức
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004400
 
 Điều 34.3.NĐ.4.44. Áp dụng biện pháp chống bán phá giá, chống trợ cấp chính thức
 
-**Chỉ mục:** 44
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004400
-
-**ID:** dk_00055593
-
----
-
-
-### Điều 34.3.NĐ.4.45. Áp dụng thuế chống bán phá giá, chống trợ cấp có hiệu lực trở về trước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004500
 
 Điều 34.3.NĐ.4.45. Áp dụng thuế chống bán phá giá, chống trợ cấp có hiệu lực trở về trước
 
-**Chỉ mục:** 45
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004600
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004500
+Điều 34.3.NĐ.4.46. Căn cứ tiến hành điều tra
 
-**ID:** dk_00055594
-
----
-
-
-### Điều 34.3.NĐ.4.46. Căn cứ tiến hành điều tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 46
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004600
-
-**ID:** dk_00055595
-
----
-
-
-### Điều 34.3.NĐ.4.47. Hồ sơ yêu cầu áp dụng biện pháp tự vệ
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004700
 
 Điều 34.3.NĐ.4.47. Hồ sơ yêu cầu áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 47
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004700
-
-**ID:** dk_00055596
-
----
-
-
-### Điều 34.3.NĐ.4.48. Lập Hồ sơ yêu cầu áp dụng biện pháp tự vệ trong trường hợp không có Bên yêu cầu
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004800
 
 Điều 34.3.NĐ.4.48. Lập Hồ sơ yêu cầu áp dụng biện pháp tự vệ trong trường hợp không có Bên yêu cầu
 
-**Chỉ mục:** 48
+### 34003000000000004000001000000000000000000670000000000000000000402643300100004900
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004800
+Điều 34.3.NĐ.4.49. Thẩm định hồ sơ
 
-**ID:** dk_00055597
-
----
-
-
-### Điều 34.3.NĐ.4.49. Thẩm định hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 49
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100004900
-
-**ID:** dk_00055598
-
----
-
-
-### Điều 34.3.NĐ.4.50. Quyết định điều tra áp dụng biện pháp tự vệ
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005000
 
 Điều 34.3.NĐ.4.50. Quyết định điều tra áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 50
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005000
-
-**ID:** dk_00055599
-
----
-
-
-### Điều 34.3.NĐ.4.51. Xác định thiệt hại nghiêm trọng và đe dọa gây thiệt hại nghiêm trọng của ngành sản xuất trong nước
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005100
 
 Điều 34.3.NĐ.4.51. Xác định thiệt hại nghiêm trọng và đe dọa gây thiệt hại nghiêm trọng của ngành sản xuất trong nước
 
-**Chỉ mục:** 51
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005100
-
-**ID:** dk_00055600
-
----
-
-
-### Điều 34.3.NĐ.4.52. Áp dụng biện pháp tự vệ tạm thời
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005200
 
 Điều 34.3.NĐ.4.52. Áp dụng biện pháp tự vệ tạm thời
 
-**Chỉ mục:** 52
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005200
-
-**ID:** dk_00055601
-
----
-
-
-### Điều 34.3.NĐ.4.53. Áp dụng biện pháp tự vệ chính thức
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005300
 
 Điều 34.3.NĐ.4.53. Áp dụng biện pháp tự vệ chính thức
 
-**Chỉ mục:** 53
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005300
-
-**ID:** dk_00055602
-
----
-
-
-### Điều 34.3.NĐ.4.54. Quy định về áp dụng biện pháp hạn ngạch nhập khẩu, hạn ngạch thuế quan
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005400
 
 Điều 34.3.NĐ.4.54. Quy định về áp dụng biện pháp hạn ngạch nhập khẩu, hạn ngạch thuế quan
 
-**Chỉ mục:** 54
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005400
-
-**ID:** dk_00055603
-
----
-
-
-### Điều 34.3.NĐ.4.55. Hồ sơ yêu cầu rà soát việc áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005500
 
 Điều 34.3.NĐ.4.55. Hồ sơ yêu cầu rà soát việc áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 55
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005600
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005500
+Điều 34.3.NĐ.4.56. Thẩm định Hồ sơ yêu cầu rà soát
 
-**ID:** dk_00055604
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005700
 
----
+Điều 34.3.NĐ.4.57. Bản câu hỏi điều tra rà soát
 
-
-### Điều 34.3.NĐ.4.56. Thẩm định Hồ sơ yêu cầu rà soát
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 56
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005600
-
-**ID:** dk_00055605
-
----
-
-
-### Điều 34.3.NĐ.4.57. Bản câu hỏi điều tra rà soát
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 57
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005700
-
-**ID:** dk_00055606
-
----
-
-
-### Điều 34.3.NĐ.4.58. Nộp Hồ sơ yêu cầu rà soát theo đề nghị của bên liên quan
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005800
 
 Điều 34.3.NĐ.4.58. Nộp Hồ sơ yêu cầu rà soát theo đề nghị của bên liên quan
 
-**Chỉ mục:** 58
+### 34003000000000004000001000000000000000000670000000000000000000402643300100005900
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005800
+Điều 34.3.NĐ.4.59. Bên đề nghị rà soát
 
-**ID:** dk_00055607
-
----
-
-
-### Điều 34.3.NĐ.4.59. Bên đề nghị rà soát
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 59
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100005900
-
-**ID:** dk_00055608
-
----
-
-
-### Điều 34.3.NĐ.4.60. Nội dung rà soát theo đề nghị của bên liên quan
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006000
 
 Điều 34.3.NĐ.4.60. Nội dung rà soát theo đề nghị của bên liên quan
 
-**Chỉ mục:** 60
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006000
-
-**ID:** dk_00055609
-
----
-
-
-### Điều 34.3.NĐ.4.61. Quyết định về kết quả rà soát theo đề nghị của bên liên quan
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006100
 
 Điều 34.3.NĐ.4.61. Quyết định về kết quả rà soát theo đề nghị của bên liên quan
 
-**Chỉ mục:** 61
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006100
-
-**ID:** dk_00055610
-
----
-
-
-### Điều 34.3.NĐ.4.62. Nộp Hồ sơ yêu cầu rà soát cuối kỳ
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006200
 
 Điều 34.3.NĐ.4.62. Nộp Hồ sơ yêu cầu rà soát cuối kỳ
 
-**Chỉ mục:** 62
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006200
-
-**ID:** dk_00055611
-
----
-
-
-### Điều 34.3.NĐ.4.63. Nội dung rà soát cuối kỳ việc áp dụng biện pháp chống bán phá giá, chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006300
 
 Điều 34.3.NĐ.4.63. Nội dung rà soát cuối kỳ việc áp dụng biện pháp chống bán phá giá, chống trợ cấp
 
-**Chỉ mục:** 63
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006300
-
-**ID:** dk_00055612
-
----
-
-
-### Điều 34.3.NĐ.4.64. Quyết định về kết quả rà soát cuối kỳ việc áp dụng biện pháp chống bán phá giá, chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006400
 
 Điều 34.3.NĐ.4.64. Quyết định về kết quả rà soát cuối kỳ việc áp dụng biện pháp chống bán phá giá, chống trợ cấp
 
-**Chỉ mục:** 64
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006500
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006400
+Điều 34.3.NĐ.4.65. Xác định nhà xuất khẩu mới
 
-**ID:** dk_00055613
-
----
-
-
-### Điều 34.3.NĐ.4.65. Xác định nhà xuất khẩu mới
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 65
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006500
-
-**ID:** dk_00055614
-
----
-
-
-### Điều 34.3.NĐ.4.66. Nội dung rà soát nhà xuất khẩu mới
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006600
 
 Điều 34.3.NĐ.4.66. Nội dung rà soát nhà xuất khẩu mới
 
-**Chỉ mục:** 66
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006600
-
-**ID:** dk_00055615
-
----
-
-
-### Điều 34.3.NĐ.4.67. Quyết định về kết quả rà soát nhà xuất khẩu mới
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006700
 
 Điều 34.3.NĐ.4.67. Quyết định về kết quả rà soát nhà xuất khẩu mới
 
-**Chỉ mục:** 67
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006700
-
-**ID:** dk_00055616
-
----
-
-
-### Điều 34.3.NĐ.4.68. Rà soát giữa kỳ việc áp dụng biện pháp tự vệ
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006800
 
 Điều 34.3.NĐ.4.68. Rà soát giữa kỳ việc áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 68
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006800
-
-**ID:** dk_00055617
-
----
-
-
-### Điều 34.3.NĐ.4.69. Rà soát cuối kỳ việc áp dụng biện pháp tự vệ
+### 34003000000000004000001000000000000000000670000000000000000000402643300100006900
 
 Điều 34.3.NĐ.4.69. Rà soát cuối kỳ việc áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 69
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007000
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100006900
+Điều 34.3.NĐ.4.70. Các bên liên quan nộp hồ sơ
 
-**ID:** dk_00055618
-
----
-
-
-### Điều 34.3.NĐ.4.70. Các bên liên quan nộp hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 70
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007000
-
-**ID:** dk_00055619
-
----
-
-
-### Điều 34.3.NĐ.4.71. Nội dung rà soát phạm vi hàng hóa bị áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007100
 
 Điều 34.3.NĐ.4.71. Nội dung rà soát phạm vi hàng hóa bị áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 71
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007100
-
-**ID:** dk_00055620
-
----
-
-
-### Điều 34.3.NĐ.4.72. Quyết định về kết quả rà soát phạm vi hàng hóa bị áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007200
 
 Điều 34.3.NĐ.4.72. Quyết định về kết quả rà soát phạm vi hàng hóa bị áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 72
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007200
-
-**ID:** dk_00055621
-
----
-
-
-### Điều 34.3.NĐ.4.73. Mở rộng phạm vi áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007300
 
 Điều 34.3.NĐ.4.73. Mở rộng phạm vi áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 73
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007300
-
-**ID:** dk_00055622
-
----
-
-
-### Điều 34.3.NĐ.4.74. Hành vi lẩn tránh biện pháp phòng vệ thương mại thông qua sản xuất, lắp ráp tại Việt Nam
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007400
 
 Điều 34.3.NĐ.4.74. Hành vi lẩn tránh biện pháp phòng vệ thương mại thông qua sản xuất, lắp ráp tại Việt Nam
 
-**Chỉ mục:** 74
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007500
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007400
+Điều 34.3.NĐ.4.75. Giá trị giá tăng
 
-**ID:** dk_00055623
-
----
-
-
-### Điều 34.3.NĐ.4.75. Giá trị giá tăng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 75
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007500
-
-**ID:** dk_00055624
-
----
-
-
-### Điều 34.3.NĐ.4.76. Hành vi lẩn tránh biện pháp phòng vệ thương mại thông qua sản xuất, lắp ráp tại nước thứ ba
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007600
 
 Điều 34.3.NĐ.4.76. Hành vi lẩn tránh biện pháp phòng vệ thương mại thông qua sản xuất, lắp ráp tại nước thứ ba
 
-**Chỉ mục:** 76
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007600
-
-**ID:** dk_00055625
-
----
-
-
-### Điều 34.3.NĐ.4.77. Hành vi lẩn tránh biện pháp phòng vệ thương mại thông qua thay đổi không đáng kể hàng hóa bị áp dụng biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007700
 
 Điều 34.3.NĐ.4.77. Hành vi lẩn tránh biện pháp phòng vệ thương mại thông qua thay đổi không đáng kể hàng hóa bị áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 77
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007700
-
-**ID:** dk_00055626
-
----
-
-
-### Điều 34.3.NĐ.4.78. Xác định sự khác biệt không đáng kể
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007800
 
 Điều 34.3.NĐ.4.78. Xác định sự khác biệt không đáng kể
 
-**Chỉ mục:** 78
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007800
-
-**ID:** dk_00055627
-
----
-
-
-### Điều 34.3.NĐ.4.79. Hồ sơ yêu cầu áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100007900
 
 Điều 34.3.NĐ.4.79. Hồ sơ yêu cầu áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 79
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100007900
-
-**ID:** dk_00055628
-
----
-
-
-### Điều 34.3.NĐ.4.80. Lập Hồ sơ yêu cầu áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại trong trường hợp không có Bên yêu cầu
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008000
 
 Điều 34.3.NĐ.4.80. Lập Hồ sơ yêu cầu áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại trong trường hợp không có Bên yêu cầu
 
-**Chỉ mục:** 80
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008000
-
-**ID:** dk_00055629
-
----
-
-
-### Điều 34.3.NĐ.4.81. Trình tự, thủ tục, nội dung điều tra
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008100
 
 Điều 34.3.NĐ.4.81. Trình tự, thủ tục, nội dung điều tra
 
-**Chỉ mục:** 81
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008200
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008100
+Điều 34.3.NĐ.4.82. Thời hạn điều tra
 
-**ID:** dk_00055630
-
----
-
-
-### Điều 34.3.NĐ.4.82. Thời hạn điều tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 82
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008200
-
-**ID:** dk_00055631
-
----
-
-
-### Điều 34.3.NĐ.4.83. Áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008300
 
 Điều 34.3.NĐ.4.83. Áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 83
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008400
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008300
+Điều 34.3.NĐ.4.84. Nguyên tắc xử lý
 
-**ID:** dk_00055632
-
----
-
-
-### Điều 34.3.NĐ.4.84. Nguyên tắc xử lý
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 84
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008400
-
-**ID:** dk_00055633
-
----
-
-
-### Điều 34.3.NĐ.4.85. Cung cấp thông tin liên quan đến vụ việc
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008500
 
 Điều 34.3.NĐ.4.85. Cung cấp thông tin liên quan đến vụ việc
 
-**Chỉ mục:** 85
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008500
-
-**ID:** dk_00055634
-
----
-
-
-### Điều 34.3.NĐ.4.86. Hệ thống cảnh báo sớm các vụ kiện phòng vệ thương mại của nước ngoài
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008600
 
 Điều 34.3.NĐ.4.86. Hệ thống cảnh báo sớm các vụ kiện phòng vệ thương mại của nước ngoài
 
-**Chỉ mục:** 86
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008600
-
-**ID:** dk_00055635
-
----
-
-
-### Điều 34.3.NĐ.4.87. Trao đổi với nước nhập khẩu điều tra, áp dụng biện pháp phòng vệ thương mại với hàng hóa xuất khẩu của Việt Nam
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008700
 
 Điều 34.3.NĐ.4.87. Trao đổi với nước nhập khẩu điều tra, áp dụng biện pháp phòng vệ thương mại với hàng hóa xuất khẩu của Việt Nam
 
-**Chỉ mục:** 87
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008700
-
-**ID:** dk_00055636
-
----
-
-
-### Điều 34.3.NĐ.4.88. Hoạt động trợ giúp trong trường hợp thương nhân Việt Nam bị nước nhập khẩu điều tra áp dụng biện pháp chống trợ cấp
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008800
 
 Điều 34.3.NĐ.4.88. Hoạt động trợ giúp trong trường hợp thương nhân Việt Nam bị nước nhập khẩu điều tra áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 88
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008800
-
-**ID:** dk_00055637
-
----
-
-
-### Điều 34.3.NĐ.4.89. Xây dựng phương án yêu cầu bồi thường, trả đũa trong trường hợp thương nhân Việt Nam bị nước nhập khẩu điều tra áp dụng biện pháp tự vệ
+### 34003000000000004000001000000000000000000670000000000000000000402643300100008900
 
 Điều 34.3.NĐ.4.89. Xây dựng phương án yêu cầu bồi thường, trả đũa trong trường hợp thương nhân Việt Nam bị nước nhập khẩu điều tra áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 89
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100008900
-
-**ID:** dk_00055638
-
----
-
-
-### Điều 34.3.NĐ.4.90. Khởi kiện nước nhập khẩu khi phát hiện có vi phạm Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên
+### 34003000000000004000001000000000000000000670000000000000000000402643300100009000
 
 Điều 34.3.NĐ.4.90. Khởi kiện nước nhập khẩu khi phát hiện có vi phạm Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên
 
-**Chỉ mục:** 90
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100009000
-
-**ID:** dk_00055639
-
----
-
-
-### Điều 34.3.NĐ.4.91. Tham gia bên liên quan trong các vụ việc phòng vệ thương mại, bên thứ ba trong các vụ việc giải quyết tranh chấp tại Tổ chức thương mại thế giới liên quan đến các biện pháp phòng vệ thương mại
+### 34003000000000004000001000000000000000000670000000000000000000402643300100009100
 
 Điều 34.3.NĐ.4.91. Tham gia bên liên quan trong các vụ việc phòng vệ thương mại, bên thứ ba trong các vụ việc giải quyết tranh chấp tại Tổ chức thương mại thế giới liên quan đến các biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 91
+### 34003000000000004000001000000000000000000670000000000000000000402643300100009200
 
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100009100
+Điều 34.3.NĐ.4.92. Sử dụng dịch vụ tư vấn pháp lý
 
-**ID:** dk_00055640
-
----
-
-
-### Điều 34.3.NĐ.4.92. Sử dụng dịch vụ tư vấn pháp lý
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 92
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100009200
-
-**ID:** dk_00055641
-
----
-
-
-### Điều 34.3.NĐ.4.93. Cơ chế phối hợp giữa các cơ quan quản lý, hiệp hội ngành, nghề, thương nhân
+### 34003000000000004000001000000000000000000670000000000000000000402643300100009300
 
 Điều 34.3.NĐ.4.93. Cơ chế phối hợp giữa các cơ quan quản lý, hiệp hội ngành, nghề, thương nhân
 
-**Chỉ mục:** 93
-
-**Mã phân cấp:** 34003000000000004000001000000000000000000670000000000000000000402643300100009300
-
-**ID:** dk_00055642
-
----
-
-
-### Điều 34.3.LQ.68. Nguyên tắc áp dụng các biện pháp phòng vệ thương mại
+### 340030000000000040000010000000000000000006800000000000000000
 
 Điều 34.3.LQ.68. Nguyên tắc áp dụng các biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 68
-
-**Mã phân cấp:** 340030000000000040000010000000000000000006800000000000000000
-
-**ID:** dk_00055643
-
----
-
-
-### Điều 34.3.LQ.69. Thiệt hại của ngành sản xuất trong nước
+### 340030000000000040000010000000000000000006900000000000000000
 
 Điều 34.3.LQ.69. Thiệt hại của ngành sản xuất trong nước
 
-**Chỉ mục:** 69
-
-**Mã phân cấp:** 340030000000000040000010000000000000000006900000000000000000
-
-**ID:** dk_00055644
-
----
-
-
-### Điều 34.3.LQ.70. Trình tự, thủ tục điều tra vụ việc phòng vệ thương mại
+### 340030000000000040000010000000000000000007000000000000000000
 
 Điều 34.3.LQ.70. Trình tự, thủ tục điều tra vụ việc phòng vệ thương mại
 
-**Chỉ mục:** 70
-
-**Mã phân cấp:** 340030000000000040000010000000000000000007000000000000000000
-
-**ID:** dk_00055645
-
----
-
-
-### Điều 34.3.LQ.71. Chấm dứt điều tra vụ việc phòng vệ thương mại
+### 340030000000000040000010000000000000000007100000000000000000
 
 Điều 34.3.LQ.71. Chấm dứt điều tra vụ việc phòng vệ thương mại
 
-**Chỉ mục:** 71
-
-**Mã phân cấp:** 340030000000000040000010000000000000000007100000000000000000
-
-**ID:** dk_00055646
-
----
-
-
-### Điều 34.3.LQ.72. Chống lẩn tránh biện pháp phòng vệ thương mại
+### 340030000000000040000010000000000000000007200000000000000000
 
 Điều 34.3.LQ.72. Chống lẩn tránh biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 72
+### 340030000000000040000010000000000000000007300000000000000000
 
-**Mã phân cấp:** 340030000000000040000010000000000000000007200000000000000000
+Điều 34.3.LQ.73. Cơ quan điều tra
 
-**ID:** dk_00055647
-
----
-
-
-### Điều 34.3.LQ.73. Cơ quan điều tra
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 73
-
-**Mã phân cấp:** 340030000000000040000010000000000000000007300000000000000000
-
-**ID:** dk_00055648
-
----
-
-
-### Điều 34.3.LQ.74. Bên liên quan trong vụ việc điều tra
+### 340030000000000040000010000000000000000007400000000000000000
 
 Điều 34.3.LQ.74. Bên liên quan trong vụ việc điều tra
 
-**Chỉ mục:** 74
-
-**Mã phân cấp:** 340030000000000040000010000000000000000007400000000000000000
-
-**ID:** dk_00055649
-
----
-
-
-### Điều 34.3.LQ.75. Cung cấp, thu thập thông tin, tài liệu và bảo mật trong quá trình điều tra vụ việc phòng vệ thương mại
+### 340030000000000040000010000000000000000007500000000000000000
 
 Điều 34.3.LQ.75. Cung cấp, thu thập thông tin, tài liệu và bảo mật trong quá trình điều tra vụ việc phòng vệ thương mại
 
-**Chỉ mục:** 75
-
-**Mã phân cấp:** 340030000000000040000010000000000000000007500000000000000000
-
-**ID:** dk_00055650
-
----
-
-
-### Điều 34.3.LQ.76. Xử lý trong trường hợp hàng hóa xuất khẩu của Việt Nam bị điều tra, áp dụng biện pháp phòng vệ thương mại
+### 340030000000000040000010000000000000000007600000000000000000
 
 Điều 34.3.LQ.76. Xử lý trong trường hợp hàng hóa xuất khẩu của Việt Nam bị điều tra, áp dụng biện pháp phòng vệ thương mại
 
-**Chỉ mục:** 76
+### 3400300000000000400000200000000000000000
 
-**Mã phân cấp:** 340030000000000040000010000000000000000007600000000000000000
+Mục 2 CHỐNG BÁN PHÁ GIÁ ĐỐI VỚI HÀNG HÓA NHẬP KHẨU VÀO VIỆT NAM
 
-**ID:** dk_00055651
+### 340030000000000040000020000000000000000007700000000000000000
 
----
+Điều 34.3.LQ.77. Biện pháp chống bán phá giá
 
-
-### Điều 34.3.LQ.77. Biện pháp chống bán phá giá
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 77
-
-**Mã phân cấp:** 340030000000000040000020000000000000000007700000000000000000
-
-**ID:** dk_00055653
-
----
-
-
-### Điều 34.3.LQ.78. Điều kiện áp dụng biện pháp chống bán phá giá
+### 340030000000000040000020000000000000000007800000000000000000
 
 Điều 34.3.LQ.78. Điều kiện áp dụng biện pháp chống bán phá giá
 
-**Chỉ mục:** 78
-
-**Mã phân cấp:** 340030000000000040000020000000000000000007800000000000000000
-
-**ID:** dk_00055654
-
----
-
-
-### Điều 34.3.LQ.79. Căn cứ tiến hành điều tra áp dụng biện pháp chống bán phá giá
+### 340030000000000040000020000000000000000007900000000000000000
 
 Điều 34.3.LQ.79. Căn cứ tiến hành điều tra áp dụng biện pháp chống bán phá giá
 
-**Chỉ mục:** 79
-
-**Mã phân cấp:** 340030000000000040000020000000000000000007900000000000000000
-
-**ID:** dk_00055655
-
----
-
-
-### Điều 34.3.LQ.80. Nội dung điều tra áp dụng biện pháp chống bán phá giá
+### 340030000000000040000020000000000000000008000000000000000000
 
 Điều 34.3.LQ.80. Nội dung điều tra áp dụng biện pháp chống bán phá giá
 
-**Chỉ mục:** 80
-
-**Mã phân cấp:** 340030000000000040000020000000000000000008000000000000000000
-
-**ID:** dk_00055656
-
----
-
-
-### Điều 34.3.LQ.81. Áp dụng biện pháp chống bán phá giá
+### 340030000000000040000020000000000000000008100000000000000000
 
 Điều 34.3.LQ.81. Áp dụng biện pháp chống bán phá giá
 
-**Chỉ mục:** 81
-
-**Mã phân cấp:** 340030000000000040000020000000000000000008100000000000000000
-
-**ID:** dk_00055657
-
----
-
-
-### Điều 34.3.LQ.82. Rà soát việc áp dụng biện pháp chống bán phá giá
+### 340030000000000040000020000000000000000008200000000000000000
 
 Điều 34.3.LQ.82. Rà soát việc áp dụng biện pháp chống bán phá giá
 
-**Chỉ mục:** 82
+### 3400300000000000400000300000000000000000
 
-**Mã phân cấp:** 340030000000000040000020000000000000000008200000000000000000
+Mục 3 CHỐNG TRỢ CẤP ĐỐI VỚI HÀNG HÓA NHẬP KHẨU VÀO VIỆT NAM
 
-**ID:** dk_00055658
+### 340030000000000040000030000000000000000008300000000000000000
 
----
+Điều 34.3.LQ.83. Biện pháp chống trợ cấp
 
+### 340030000000000040000030000000000000000008400000000000000000
 
-### Điều 34.3.LQ.83. Biện pháp chống trợ cấp
+Điều 34.3.LQ.84. Trợ cấp
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 83
-
-**Mã phân cấp:** 340030000000000040000030000000000000000008300000000000000000
-
-**ID:** dk_00055660
-
----
-
-
-### Điều 34.3.LQ.84. Trợ cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 84
-
-**Mã phân cấp:** 340030000000000040000030000000000000000008400000000000000000
-
-**ID:** dk_00055661
-
----
-
-
-### Điều 34.3.LQ.85. Các trợ cấp có thể bị áp dụng biện pháp chống trợ cấp
+### 340030000000000040000030000000000000000008500000000000000000
 
 Điều 34.3.LQ.85. Các trợ cấp có thể bị áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 85
-
-**Mã phân cấp:** 340030000000000040000030000000000000000008500000000000000000
-
-**ID:** dk_00055662
-
----
-
-
-### Điều 34.3.LQ.86. Điều kiện áp dụng biện pháp chống trợ cấp
+### 340030000000000040000030000000000000000008600000000000000000
 
 Điều 34.3.LQ.86. Điều kiện áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 86
-
-**Mã phân cấp:** 340030000000000040000030000000000000000008600000000000000000
-
-**ID:** dk_00055663
-
----
-
-
-### Điều 34.3.LQ.87. Căn cứ tiến hành điều tra áp dụng biện pháp chống trợ cấp
+### 340030000000000040000030000000000000000008700000000000000000
 
 Điều 34.3.LQ.87. Căn cứ tiến hành điều tra áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 87
-
-**Mã phân cấp:** 340030000000000040000030000000000000000008700000000000000000
-
-**ID:** dk_00055664
-
----
-
-
-### Điều 34.3.LQ.88. Nội dung điều tra áp dụng biện pháp chống trợ cấp
+### 340030000000000040000030000000000000000008800000000000000000
 
 Điều 34.3.LQ.88. Nội dung điều tra áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 88
+### 340030000000000040000030000000000000000008900000000000000000
 
-**Mã phân cấp:** 340030000000000040000030000000000000000008800000000000000000
+Điều 34.3.LQ.89. Áp dụng biện pháp chống trợ cấp
 
-**ID:** dk_00055665
-
----
-
-
-### Điều 34.3.LQ.89. Áp dụng biện pháp chống trợ cấp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 89
-
-**Mã phân cấp:** 340030000000000040000030000000000000000008900000000000000000
-
-**ID:** dk_00055666
-
----
-
-
-### Điều 34.3.LQ.90. Rà soát việc áp dụng biện pháp chống trợ cấp
+### 340030000000000040000030000000000000000009000000000000000000
 
 Điều 34.3.LQ.90. Rà soát việc áp dụng biện pháp chống trợ cấp
 
-**Chỉ mục:** 90
+### 3400300000000000400000400000000000000000
 
-**Mã phân cấp:** 340030000000000040000030000000000000000009000000000000000000
+Mục 4 TỰ VỆ TRONG NHẬP KHẨU HÀNG HÓA NƯỚC NGOÀI VÀO VIỆT NAM
 
-**ID:** dk_00055667
+### 340030000000000040000040000000000000000009100000000000000000
 
----
+Điều 34.3.LQ.91. Biện pháp tự vệ
 
+### 340030000000000040000040000000000000000009200000000000000000
 
-### Điều 34.3.LQ.91. Biện pháp tự vệ
+Điều 34.3.LQ.92. Điều kiện áp dụng biện pháp tự vệ
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 91
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009100000000000000000
-
-**ID:** dk_00055669
-
----
-
-
-### Điều 34.3.LQ.92. Điều kiện áp dụng biện pháp tự vệ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 92
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009200000000000000000
-
-**ID:** dk_00055670
-
----
-
-
-### Điều 34.3.LQ.93. Căn cứ tiến hành điều tra áp dụng biện pháp tự vệ
+### 340030000000000040000040000000000000000009300000000000000000
 
 Điều 34.3.LQ.93. Căn cứ tiến hành điều tra áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 93
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009300000000000000000
-
-**ID:** dk_00055671
-
----
-
-
-### Điều 34.3.LQ.94. Nội dung điều tra áp dụng biện pháp tự vệ
+### 340030000000000040000040000000000000000009400000000000000000
 
 Điều 34.3.LQ.94. Nội dung điều tra áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 94
+### 340030000000000040000040000000000000000009500000000000000000
 
-**Mã phân cấp:** 340030000000000040000040000000000000000009400000000000000000
+Điều 34.3.LQ.95. Áp dụng biện pháp tự vệ
 
-**ID:** dk_00055672
-
----
-
-
-### Điều 34.3.LQ.95. Áp dụng biện pháp tự vệ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 95
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009500000000000000000
-
-**ID:** dk_00055673
-
----
-
-
-### Điều 34.3.LQ.96. Rà soát việc áp dụng biện pháp tự vệ
+### 340030000000000040000040000000000000000009600000000000000000
 
 Điều 34.3.LQ.96. Rà soát việc áp dụng biện pháp tự vệ
 
-**Chỉ mục:** 96
+### 340030000000000040000040000000000000000009700000000000000000
 
-**Mã phân cấp:** 340030000000000040000040000000000000000009600000000000000000
+Điều 34.3.LQ.97. Tái áp dụng biện pháp tự vệ
 
-**ID:** dk_00055674
+### 340030000000000040000040000000000000000009800000000000000000
 
----
+Điều 34.3.LQ.98. Bồi thường
 
+### 340030000000000040000040000000000000000009900000000000000000
 
-### Điều 34.3.LQ.97. Tái áp dụng biện pháp tự vệ
+Điều 34.3.LQ.99. Tự vệ đặc biệt
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 97
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009700000000000000000
-
-**ID:** dk_00055675
-
----
-
-
-### Điều 34.3.LQ.98. Bồi thường
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 98
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009800000000000000000
-
-**ID:** dk_00055676
-
----
-
-
-### Điều 34.3.LQ.99. Tự vệ đặc biệt
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 99
-
-**Mã phân cấp:** 340030000000000040000040000000000000000009900000000000000000
-
-**ID:** dk_00055677
-
----
-
-
-### Điều 34.3.TT.49.4. Bên liên quan trong vụ việc điều tra, áp dụng biện pháp tự vệ chuyển tiếp và biện pháp khẩn cấp đối với hàng dệt may
+### 34003000000000004000004000000000000000000990000000000000000000802705600190000400
 
 Điều 34.3.TT.49.4. Bên liên quan trong vụ việc điều tra, áp dụng biện pháp tự vệ chuyển tiếp và biện pháp khẩn cấp đối với hàng dệt may
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190000400
-
-**ID:** dk_00055678
-
----
-
-
-### Điều 34.3.TT.49.5. Nguyên tắc áp dụng biện pháp tự vệ chuyển tiếp
+### 34003000000000004000004000000000000000000990000000000000000000802705600190000500
 
 Điều 34.3.TT.49.5. Nguyên tắc áp dụng biện pháp tự vệ chuyển tiếp
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190000500
-
-**ID:** dk_00055679
-
----
-
-
-### Điều 34.3.TT.49.6. Hồ sơ yêu cầu điều tra áp dụng biện pháp tự vệ chuyển tiếp
+### 34003000000000004000004000000000000000000990000000000000000000802705600190000600
 
 Điều 34.3.TT.49.6. Hồ sơ yêu cầu điều tra áp dụng biện pháp tự vệ chuyển tiếp
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190000600
-
-**ID:** dk_00055680
-
----
-
-
-### Điều 34.3.TT.49.7. Lập Hồ sơ yêu cầu trong trường hợp không có tổ chức, cá nhân nộp Hồ sơ yêu cầu
+### 34003000000000004000004000000000000000000990000000000000000000802705600190000700
 
 Điều 34.3.TT.49.7. Lập Hồ sơ yêu cầu trong trường hợp không có tổ chức, cá nhân nộp Hồ sơ yêu cầu
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190000700
-
-**ID:** dk_00055681
-
----
-
-
-### Điều 34.3.TT.49.8. Áp dụng biện pháp tự vệ chuyển tiếp
+### 34003000000000004000004000000000000000000990000000000000000000802705600190000800
 
 Điều 34.3.TT.49.8. Áp dụng biện pháp tự vệ chuyển tiếp
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190000800
-
-**ID:** dk_00055682
-
----
-
-
-### Điều 34.3.TT.49.9. Nguyên tắc áp dụng biện pháp khẩn cấp đối với hàng dệtmay
+### 34003000000000004000004000000000000000000990000000000000000000802705600190000900
 
 Điều 34.3.TT.49.9. Nguyên tắc áp dụng biện pháp khẩn cấp đối với hàng dệtmay
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190000900
-
-**ID:** dk_00055683
-
----
-
-
-### Điều 34.3.TT.49.10. Quy định về thông tin trong Hồ sơ yêu cầu áp dụng biện pháp khẩn cấp đối với hàng dệt may
+### 34003000000000004000004000000000000000000990000000000000000000802705600190001000
 
 Điều 34.3.TT.49.10. Quy định về thông tin trong Hồ sơ yêu cầu áp dụng biện pháp khẩn cấp đối với hàng dệt may
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190001000
-
-**ID:** dk_00055684
-
----
-
-
-### Điều 34.3.TT.49.11. Lập Hồ sơ yêu cầu áp dụng biện pháp khẩn cấp đối với hàng dệt may trong trường hợp không có tổ chức, cá nhân nộp Hồ sơ yêu cầu
+### 34003000000000004000004000000000000000000990000000000000000000802705600190001100
 
 Điều 34.3.TT.49.11. Lập Hồ sơ yêu cầu áp dụng biện pháp khẩn cấp đối với hàng dệt may trong trường hợp không có tổ chức, cá nhân nộp Hồ sơ yêu cầu
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190001100
-
-**ID:** dk_00055685
-
----
-
-
-### Điều 34.3.TT.49.12. Áp dụng biện pháp khẩn cấp đối với hàng dệt may
+### 34003000000000004000004000000000000000000990000000000000000000802705600190001200
 
 Điều 34.3.TT.49.12. Áp dụng biện pháp khẩn cấp đối với hàng dệt may
 
-**Chỉ mục:** 12
+### 34003000000000005000
 
-**Mã phân cấp:** 34003000000000004000004000000000000000000990000000000000000000802705600190001200
+Chương V BIỆN PHÁP KIỂM SOÁT KHẨN CẤP TRONG HOẠT ĐỘNG NGOẠI THƯƠNG
 
-**ID:** dk_00055686
-
----
-
-
-### Điều 34.3.LQ.100. Các trường hợp áp dụng biện pháp kiểm soát khẩn cấp đối với hàng hóa
+### 3400300000000000500010000000000000000000
 
 Điều 34.3.LQ.100. Các trường hợp áp dụng biện pháp kiểm soát khẩn cấp đối với hàng hóa
 
-**Chỉ mục:** 100
-
-**Mã phân cấp:** 3400300000000000500010000000000000000000
-
-**ID:** dk_00055688
-
----
-
-
-### Điều 34.3.LQ.101. Nguyên tắc áp dụng biện pháp kiểm soát khẩn cấp
+### 3400300000000000500010100000000000000000
 
 Điều 34.3.LQ.101. Nguyên tắc áp dụng biện pháp kiểm soát khẩn cấp
 
-**Chỉ mục:** 101
-
-**Mã phân cấp:** 3400300000000000500010100000000000000000
-
-**ID:** dk_00055689
-
----
-
-
-### Điều 34.3.LQ.102. Tham vấn trong trường hợp áp dụng biện pháp kiểm soát khẩn cấp
+### 3400300000000000500010200000000000000000
 
 Điều 34.3.LQ.102. Tham vấn trong trường hợp áp dụng biện pháp kiểm soát khẩn cấp
 
-**Chỉ mục:** 102
+### 34003000000000006000
 
-**Mã phân cấp:** 3400300000000000500010200000000000000000
+Chương VI CÁC BIỆN PHÁP PHÁT TRIỂN HOẠT ĐỘNG NGOẠI THƯƠNG
 
-**ID:** dk_00055690
-
----
-
-
-### Điều 34.3.LQ.103. Chính sách chung về phát triển hoạt động ngoại thương
+### 3400300000000000600010300000000000000000
 
 Điều 34.3.LQ.103. Chính sách chung về phát triển hoạt động ngoại thương
 
-**Chỉ mục:** 103
-
-**Mã phân cấp:** 3400300000000000600010300000000000000000
-
-**ID:** dk_00055692
-
----
-
-
-### Điều 34.3.LQ.104. Chính sách đặc thù về phát triển hoạt động ngoại thương
+### 3400300000000000600010400000000000000000
 
 Điều 34.3.LQ.104. Chính sách đặc thù về phát triển hoạt động ngoại thương
 
-**Chỉ mục:** 104
-
-**Mã phân cấp:** 3400300000000000600010400000000000000000
-
-**ID:** dk_00055693
-
----
-
-
-### Điều 34.3.LQ.105. Phát triển hoạt động ngoại thương thông qua xúc tiến thương mại
+### 3400300000000000600010500000000000000000
 
 Điều 34.3.LQ.105. Phát triển hoạt động ngoại thương thông qua xúc tiến thương mại
 
-**Chỉ mục:** 105
-
-**Mã phân cấp:** 3400300000000000600010500000000000000000
-
-**ID:** dk_00055694
-
----
-
-
-### Điều 34.3.NĐ.6.3. Nội dung hoạt động xúc tiến thương mại phát triển ngoại thương
+### 340030000000000060001050000000000000000000402647800280000300
 
 Điều 34.3.NĐ.6.3. Nội dung hoạt động xúc tiến thương mại phát triển ngoại thương
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000300
-
-**ID:** dk_00055695
-
----
-
-
-### Điều 34.3.NĐ.6.4. Hoạt động kết nối giao thương, tham gia hệ thống phân phối ở nước ngoài và tại Việt Nam
+### 340030000000000060001050000000000000000000402647800280000400
 
 Điều 34.3.NĐ.6.4. Hoạt động kết nối giao thương, tham gia hệ thống phân phối ở nước ngoài và tại Việt Nam
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000400
-
-**ID:** dk_00055696
-
----
-
-
-### Điều 34.3.NĐ.6.5. Hỗ trợ phát triển, vận hành hạ tầng thương mại, logistics phục vụ hoạt động ngoại thương
+### 340030000000000060001050000000000000000000402647800280000500
 
 Điều 34.3.NĐ.6.5. Hỗ trợ phát triển, vận hành hạ tầng thương mại, logistics phục vụ hoạt động ngoại thương
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000500
-
-**ID:** dk_00055697
-
----
-
-
-### Điều 34.3.NĐ.6.6. Hoạt động hỗ trợ nghiên cứu, phát triển, nâng cao chất lượng sản phẩm, hàng hóa
+### 340030000000000060001050000000000000000000402647800280000600
 
 Điều 34.3.NĐ.6.6. Hoạt động hỗ trợ nghiên cứu, phát triển, nâng cao chất lượng sản phẩm, hàng hóa
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000600
-
-**ID:** dk_00055698
-
----
-
-
-### Điều 34.3.NĐ.6.7. Đào tạo, nâng cao năng lực xúc tiến thương mại, phát triển thị trường
+### 340030000000000060001050000000000000000000402647800280000700
 
 Điều 34.3.NĐ.6.7. Đào tạo, nâng cao năng lực xúc tiến thương mại, phát triển thị trường
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000700
-
-**ID:** dk_00055699
-
----
-
-
-### Điều 34.3.NĐ.6.8. Quy định chung đối với Chương trình cấp quốc gia về xúc tiến thương mại
+### 340030000000000060001050000000000000000000402647800280000800
 
 Điều 34.3.NĐ.6.8. Quy định chung đối với Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000800
-
-**ID:** dk_00055700
-
----
-
-
-### Điều 34.3.NĐ.6.9. Nguồn kinh phí, nguyên tắc hỗ trợ và mức hỗ trợ kinh phí đối với các đề án xúc tiến thương mại trong Chương trình cấp quốc gia về xúc tiến thương mại
+### 340030000000000060001050000000000000000000402647800280000900
 
 Điều 34.3.NĐ.6.9. Nguồn kinh phí, nguyên tắc hỗ trợ và mức hỗ trợ kinh phí đối với các đề án xúc tiến thương mại trong Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280000900
-
-**ID:** dk_00055701
-
----
-
-
-### Điều 34.3.TT.47.3. Tiêu chí xây dựng, thực hiện đề án thuộc Chương trình cấp quốc gia về xúc tiến thương mại
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000300
 
 Điều 34.3.TT.47.3. Tiêu chí xây dựng, thực hiện đề án thuộc Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 3
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000400
 
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000300
+Điều 34.3.TT.47.4. Thẩm định và phê duyệt đề án
 
-**ID:** dk_00055702
-
----
-
-
-### Điều 34.3.TT.47.4. Thẩm định và phê duyệt đề án
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000400
-
-**ID:** dk_00055703
-
----
-
-
-### Điều 34.3.TT.47.5. Tổ chức, tham gia hội chợ, triển lãm quốc tếở nước ngoài
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000500
 
 Điều 34.3.TT.47.5. Tổ chức, tham gia hội chợ, triển lãm quốc tếở nước ngoài
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000500
-
-**ID:** dk_00055704
-
----
-
-
-### Điều 34.3.TT.47.6. Tổ chức hội chợ, triển lãm quốc tế tại Việt Nam đối với sản phẩm xuất khẩu
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000600
 
 Điều 34.3.TT.47.6. Tổ chức hội chợ, triển lãm quốc tế tại Việt Nam đối với sản phẩm xuất khẩu
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000600
-
-**ID:** dk_00055705
-
----
-
-
-### Điều 34.3.TT.47.7. Tổ chức hội chợ, triển lãm quốc tế tại Việt Nam cho sản phẩm của doanh nghiệp nước ngoài có nhu cầu nhập khẩu từ Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000700
 
 Điều 34.3.TT.47.7. Tổ chức hội chợ, triển lãm quốc tế tại Việt Nam cho sản phẩm của doanh nghiệp nước ngoài có nhu cầu nhập khẩu từ Việt Nam
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000700
-
-**ID:** dk_00055706
-
----
-
-
-### Điều 34.3.TT.47.8. Tổ chứchội chợ, triển lãm tại Việt Nam đối với các sản phẩm, nguyên liệu, thiết bị nhập khẩu phục vụ sản xuất hàng xuất khẩu, sản phẩm công nghệ, nguyên liệu đầu vào phục vụ sản xuất các sản phẩm có lợi thế cạnh tranh mà trong nước sản xuất
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000800
 
 Điều 34.3.TT.47.8. Tổ chứchội chợ, triển lãm tại Việt Nam đối với các sản phẩm, nguyên liệu, thiết bị nhập khẩu phục vụ sản xuất hàng xuất khẩu, sản phẩm công nghệ, nguyên liệu đầu vào phục vụ sản xuất các sản phẩm có lợi thế cạnh tranh mà trong nước sản xuất
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000800
-
-**ID:** dk_00055707
-
----
-
-
-### Điều 34.3.TT.47.9. Tổ chức trưng bày, giới thiệu và xuất khẩu hàng hóa qua gian hàng chung trên sàn giao dịch thương mại điện tử
+### 34003000000000006000105000000000000000000040264780028000090000802699400110000900
 
 Điều 34.3.TT.47.9. Tổ chức trưng bày, giới thiệu và xuất khẩu hàng hóa qua gian hàng chung trên sàn giao dịch thương mại điện tử
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110000900
-
-**ID:** dk_00055708
-
----
-
-
-### Điều 34.3.TT.47.10. Tổ chức đoàn giao dịch thương mại ở nước ngoài
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001000
 
 Điều 34.3.TT.47.10. Tổ chức đoàn giao dịch thương mại ở nước ngoài
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001000
-
-**ID:** dk_00055709
-
----
-
-
-### Điều 34.3.TT.47.11. Tổ chức đoàn doanh nghiệp nước ngoài vào Việt Nam giao dịch để mua hàng
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001100
 
 Điều 34.3.TT.47.11. Tổ chức đoàn doanh nghiệp nước ngoài vào Việt Nam giao dịch để mua hàng
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001100
-
-**ID:** dk_00055710
-
----
-
-
-### Điều 34.3.TT.47.12. Tổ chức Hội nghị quốc tế tại Việt Nam về ngành hàng xuất khẩu
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001200
 
 Điều 34.3.TT.47.12. Tổ chức Hội nghị quốc tế tại Việt Nam về ngành hàng xuất khẩu
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001200
-
-**ID:** dk_00055711
-
----
-
-
-### Điều 34.3.TT.47.13. Kết nối giao thương tại Việt Nam giữa nhà cung cấp với các doanh nghiệp xuất khẩu và tổ chức xúc tiến thương mại
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001300
 
 Điều 34.3.TT.47.13. Kết nối giao thương tại Việt Nam giữa nhà cung cấp với các doanh nghiệp xuất khẩu và tổ chức xúc tiến thương mại
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001300
-
-**ID:** dk_00055712
-
----
-
-
-### Điều 34.3.TT.47.14. Tổ chức, tham gia hội chợ, triển lãm ở nước ngoài về logistics
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001400
 
 Điều 34.3.TT.47.14. Tổ chức, tham gia hội chợ, triển lãm ở nước ngoài về logistics
 
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001400
-
-**ID:** dk_00055713
-
----
-
-
-### Điều 34.3.TT.47.15. Mời đoàn doanh nghiệp nước ngoài vào Việt Nam trao đổi về cơ hội đầu tư, hợp tác về phát triển dịch vụ logistics, trung tâm logistic phục vụ hoạt động ngoại thương
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001500
 
 Điều 34.3.TT.47.15. Mời đoàn doanh nghiệp nước ngoài vào Việt Nam trao đổi về cơ hội đầu tư, hợp tác về phát triển dịch vụ logistics, trung tâm logistic phục vụ hoạt động ngoại thương
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001500
-
-**ID:** dk_00055714
-
----
-
-
-### Điều 34.3.TT.47.16. Tổ chức diễn đàn logistics Việt Nam, tổ chức hội chợ, triển lãm quốc tế về logistics tại Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001600
 
 Điều 34.3.TT.47.16. Tổ chức diễn đàn logistics Việt Nam, tổ chức hội chợ, triển lãm quốc tế về logistics tại Việt Nam
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001600
-
-**ID:** dk_00055715
-
----
-
-
-### Điều 34.3.TT.47.17. Xây dựng và phát hành thông tin, cơ sở dữ liệu về sản phẩm, ngành hàng, thị trường
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001700
 
 Điều 34.3.TT.47.17. Xây dựng và phát hành thông tin, cơ sở dữ liệu về sản phẩm, ngành hàng, thị trường
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001700
-
-**ID:** dk_00055716
-
----
-
-
-### Điều 34.3.TT.47.18. Hướng dẫn, hỗ trợ doanh nghiệp tiếp cận, áp dụng và tuân thủ các quy định, tiêu chuẩn, điều kiện của các tổ chức nhập khẩu, cam kết quốc tế về sản phẩm xuất khẩu, nhập khẩu
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001800
 
 Điều 34.3.TT.47.18. Hướng dẫn, hỗ trợ doanh nghiệp tiếp cận, áp dụng và tuân thủ các quy định, tiêu chuẩn, điều kiện của các tổ chức nhập khẩu, cam kết quốc tế về sản phẩm xuất khẩu, nhập khẩu
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001800
-
-**ID:** dk_00055717
-
----
-
-
-### Điều 34.3.TT.47.19. Tổ chức và tham giachương trình khảo sát, tìm hiểu thông tin về sản phẩm, ngành hàng, thị trường
+### 34003000000000006000105000000000000000000040264780028000090000802699400110001900
 
 Điều 34.3.TT.47.19. Tổ chức và tham giachương trình khảo sát, tìm hiểu thông tin về sản phẩm, ngành hàng, thị trường
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110001900
-
-**ID:** dk_00055718
-
----
-
-
-### Điều 34.3.TT.47.20. Tổ chức hội nghị, hội thảo, tọa đàm, diễn đàn cung cấp thông tin về phát triển sản phẩm, ngành hàng,thị trường
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002000
 
 Điều 34.3.TT.47.20. Tổ chức hội nghị, hội thảo, tọa đàm, diễn đàn cung cấp thông tin về phát triển sản phẩm, ngành hàng,thị trường
 
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002000
-
-**ID:** dk_00055719
-
----
-
-
-### Điều 34.3.TT.47.21. Đào tạo, tập huấn, phổ biến kiến thức nâng cao năng lực thiết kế, phát triển sản phẩm xuất khẩu cho các doanh nghiệp
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002100
 
 Điều 34.3.TT.47.21. Đào tạo, tập huấn, phổ biến kiến thức nâng cao năng lực thiết kế, phát triển sản phẩm xuất khẩu cho các doanh nghiệp
 
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002100
-
-**ID:** dk_00055720
-
----
-
-
-### Điều 34.3.TT.47.22. Tổ chức hoạt động tư vấn, thuê chuyên gia tư vấn, hỗ trợ thực hiện thiết kế, phát triển sản phẩm
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002200
 
 Điều 34.3.TT.47.22. Tổ chức hoạt động tư vấn, thuê chuyên gia tư vấn, hỗ trợ thực hiện thiết kế, phát triển sản phẩm
 
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002200
-
-**ID:** dk_00055721
-
----
-
-
-### Điều 34.3.TT.47.23. Tổ chức hoạt động kết nối giữa doanh nghiệp với các nhà thiết kế
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002300
 
 Điều 34.3.TT.47.23. Tổ chức hoạt động kết nối giữa doanh nghiệp với các nhà thiết kế
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002300
-
-**ID:** dk_00055722
-
----
-
-
-### Điều 34.3.TT.47.24. Tổ chức tuyên truyền, quảng bá ngành hàng, chỉ dẫn địa lý, nhãn hiệu tập thể, nhãn hiệu chứng nhận của Việt Nam ở nước ngoài
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002400
 
 Điều 34.3.TT.47.24. Tổ chức tuyên truyền, quảng bá ngành hàng, chỉ dẫn địa lý, nhãn hiệu tập thể, nhãn hiệu chứng nhận của Việt Nam ở nước ngoài
 
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002400
-
-**ID:** dk_00055723
-
----
-
-
-### Điều 34.3.TT.47.25. Mời tổ chức, chuyên gia truyền thông nước ngoài vào Việt Nam sản xuất sản phẩm truyền thông quảng bá cho ngành hàng xuất khẩu Việt Nam ở nước ngoài
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002500
 
 Điều 34.3.TT.47.25. Mời tổ chức, chuyên gia truyền thông nước ngoài vào Việt Nam sản xuất sản phẩm truyền thông quảng bá cho ngành hàng xuất khẩu Việt Nam ở nước ngoài
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002500
-
-**ID:** dk_00055724
-
----
-
-
-### Điều 34.3.TT.47.26. Tổ chức đào tạo, tập huấn, nâng cao năng lựcxúc tiến thương mại, phát triển thị trường
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002600
 
 Điều 34.3.TT.47.26. Tổ chức đào tạo, tập huấn, nâng cao năng lựcxúc tiến thương mại, phát triển thị trường
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002600
-
-**ID:** dk_00055725
-
----
-
-
-### Điều 34.3.TT.47.27. Tổ chức tham gia khóa đào tạo trọn gói của các tổ chức đào tạo (trực tiếp và trực tuyến)
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002700
 
 Điều 34.3.TT.47.27. Tổ chức tham gia khóa đào tạo trọn gói của các tổ chức đào tạo (trực tiếp và trực tuyến)
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002700
-
-**ID:** dk_00055726
-
----
-
-
-### Điều 34.3.TT.47.28. Hợp đồng giao nhiệm vụ thực hiện đề án
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002800
 
 Điều 34.3.TT.47.28. Hợp đồng giao nhiệm vụ thực hiện đề án
 
-**Chỉ mục:** 28
+### 34003000000000006000105000000000000000000040264780028000090000802699400110002900
 
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002800
+Điều 34.3.TT.47.29. Trách nhiệm của đơn vị chủ trì
 
-**ID:** dk_00055727
+### 34003000000000006000105000000000000000000040264780028000090000802699400110003000
 
----
+Điều 34.3.TT.47.30. Trách nhiệm của Sở Công Thương
 
-
-### Điều 34.3.TT.47.29. Trách nhiệm của đơn vị chủ trì
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110002900
-
-**ID:** dk_00055728
-
----
-
-
-### Điều 34.3.TT.47.30. Trách nhiệm của Sở Công Thương
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110003000
-
-**ID:** dk_00055729
-
----
-
-
-### Điều 34.3.TT.47.31. Trách nhiệm của các đơn vị thuộc Bộ Công Thương
+### 34003000000000006000105000000000000000000040264780028000090000802699400110003100
 
 Điều 34.3.TT.47.31. Trách nhiệm của các đơn vị thuộc Bộ Công Thương
 
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802699400110003100
-
-**ID:** dk_00055730
-
----
-
-
-### Điều 34.3.TT.53.3. Tiêu chí xây dựng đề án thuộc Chương trình Thương hiệu quốc gia Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000300
 
 Điều 34.3.TT.53.3. Tiêu chí xây dựng đề án thuộc Chương trình Thương hiệu quốc gia Việt Nam
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000300
-
-**ID:** dk_00055731
-
----
-
-
-### Điều 34.3.TT.53.4. Tiêu chí thẩm định đề án thuộc Chương trình
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000400
 
 Điều 34.3.TT.53.4. Tiêu chí thẩm định đề án thuộc Chương trình
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000400
-
-**ID:** dk_00055732
-
----
-
-
-### Điều 34.3.TT.53.5. Nguyên tắc thẩm định, phê duyệt đề án
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000500
 
 Điều 34.3.TT.53.5. Nguyên tắc thẩm định, phê duyệt đề án
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000500
-
-**ID:** dk_00055733
-
----
-
-
-### Điều 34.3.TT.53.6. Tiêu chí đăng ký xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000600
 
 Điều 34.3.TT.53.6. Tiêu chí đăng ký xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
 
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000600
-
-**ID:** dk_00055734
-
----
-
-
-### Điều 34.3.TT.53.7. Tiêu chí xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000700
 
 Điều 34.3.TT.53.7. Tiêu chí xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
 
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000700
-
-**ID:** dk_00055735
-
----
-
-
-### Điều 34.3.TT.53.8. Nguyên tắc xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000800
 
 Điều 34.3.TT.53.8. Nguyên tắc xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
 
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000800
-
-**ID:** dk_00055736
-
----
-
-
-### Điều 34.3.TT.53.9. Trách nhiệm của các đơn vị thuộc Bộ Công Thương
+### 34003000000000006000105000000000000000000040264780028000090000802710900330000900
 
 Điều 34.3.TT.53.9. Trách nhiệm của các đơn vị thuộc Bộ Công Thương
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330000900
-
-**ID:** dk_00055737
-
----
-
-
-### Điều 34.3.TT.53.10. Trách nhiệm của đơn vị chủ trì đề án, các doanh nghiệp tham gia xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
+### 34003000000000006000105000000000000000000040264780028000090000802710900330001000
 
 Điều 34.3.TT.53.10. Trách nhiệm của đơn vị chủ trì đề án, các doanh nghiệp tham gia xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000090000802710900330001000
-
-**ID:** dk_00055738
-
----
-
-
-### Điều 34.3.NĐ.6.10. Quy trình xây dựng đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại
+### 340030000000000060001050000000000000000000402647800280001000
 
 Điều 34.3.NĐ.6.10. Quy trình xây dựng đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001000
-
-**ID:** dk_00055739
-
----
-
-
-### Điều 34.3.NĐ.6.11. Bổ sung đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại
+### 340030000000000060001050000000000000000000402647800280001100
 
 Điều 34.3.NĐ.6.11. Bổ sung đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001100
-
-**ID:** dk_00055740
-
----
-
-
-### Điều 34.3.NĐ.6.12. Hợp đồng giao nhiệm vụ thực hiện đề án trong Chương trình cấp quốc gia về xúc tiến thương mại
+### 340030000000000060001050000000000000000000402647800280001200
 
 Điều 34.3.NĐ.6.12. Hợp đồng giao nhiệm vụ thực hiện đề án trong Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001200
-
-**ID:** dk_00055741
-
----
-
-
-### Điều 34.3.NĐ.6.13. Điều chỉnh, thay đổi nội dung thực hiện đề án
+### 340030000000000060001050000000000000000000402647800280001300
 
 Điều 34.3.NĐ.6.13. Điều chỉnh, thay đổi nội dung thực hiện đề án
 
-**Chỉ mục:** 13
+### 340030000000000060001050000000000000000000402647800280001400
 
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001300
+Điều 34.3.NĐ.6.14. Báo cáo kết quả thực hiện đề án
 
-**ID:** dk_00055742
-
----
-
-
-### Điều 34.3.NĐ.6.14. Báo cáo kết quả thực hiện đề án
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001400
-
-**ID:** dk_00055743
-
----
-
-
-### Điều 34.3.NĐ.6.15. Các hoạt động được hỗ trợ từ Chương trình cấp quốc gia về xúc tiến thương mại
+### 340030000000000060001050000000000000000000402647800280001500
 
 Điều 34.3.NĐ.6.15. Các hoạt động được hỗ trợ từ Chương trình cấp quốc gia về xúc tiến thương mại
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001500
-
-**ID:** dk_00055744
-
----
-
-
-### Điều 34.3.NĐ.6.16. Nguyên tắc, quy định chung đối với chương trình cấp quốc gia về xây dựng, phát triển thương hiệu
+### 340030000000000060001050000000000000000000402647800280001600
 
 Điều 34.3.NĐ.6.16. Nguyên tắc, quy định chung đối với chương trình cấp quốc gia về xây dựng, phát triển thương hiệu
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001600
-
-**ID:** dk_00055745
-
----
-
-
-### Điều 34.3.NĐ.6.17. Các chương trình cấp quốc gia về xây dựng, phát triển thương hiệu
+### 340030000000000060001050000000000000000000402647800280001700
 
 Điều 34.3.NĐ.6.17. Các chương trình cấp quốc gia về xây dựng, phát triển thương hiệu
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001700
-
-**ID:** dk_00055746
-
----
-
-
-### Điều 34.3.NĐ.6.18. Chương trình Thương hiệu quốc gia Việt Nam
+### 340030000000000060001050000000000000000000402647800280001800
 
 Điều 34.3.NĐ.6.18. Chương trình Thương hiệu quốc gia Việt Nam
 
-**Chỉ mục:** 18
+### 34003000000000006000105000000000000000000040264780028000180000502381500720000100
 
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001800
+Điều 34.3.QĐ.2.1.
 
-**ID:** dk_00055747
+### 34003000000000006000105000000000000000000040264780028000180000502706400300000100
 
----
+Điều 34.3.QĐ.4.1.
 
-
-### Điều 34.3.QĐ.2.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000180000502381500720000100
-
-**ID:** dk_00055748
-
----
-
-
-### Điều 34.3.QĐ.4.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 34003000000000006000105000000000000000000040264780028000180000502706400300000100
-
-**ID:** dk_00055749
-
----
-
-
-### Điều 34.3.NĐ.6.19. Chương trình xây dựng, phát triển thương hiệu ngành hàng Việt Nam
+### 340030000000000060001050000000000000000000402647800280001900
 
 Điều 34.3.NĐ.6.19. Chương trình xây dựng, phát triển thương hiệu ngành hàng Việt Nam
 
-**Chỉ mục:** 19
+### 340030000000000060001050000000000000000000402647800280002000
 
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280001900
+Điều 34.3.NĐ.6.20. Nguyên tắc, quy định chung
 
-**ID:** dk_00055750
+### 340030000000000060001050000000000000000000402647800280002100
 
----
+Điều 34.3.NĐ.6.21. Nội dung và kinh phí thực hiện
 
+### 340030000000000060001050000000000000000000402647800280002200
 
-### Điều 34.3.NĐ.6.20. Nguyên tắc, quy định chung
+Điều 34.3.NĐ.6.22. Nguyên tắc hoạt động
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280002000
-
-**ID:** dk_00055751
-
----
-
-
-### Điều 34.3.NĐ.6.21. Nội dung và kinh phí thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280002100
-
-**ID:** dk_00055752
-
----
-
-
-### Điều 34.3.NĐ.6.22. Nguyên tắc hoạt động
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280002200
-
-**ID:** dk_00055753
-
----
-
-
-### Điều 34.3.NĐ.6.23. Nội dung hoạt động xúc tiến thương mại của Việt Nam tại nước ngoài nhằm phát triển ngoại thương
+### 340030000000000060001050000000000000000000402647800280002300
 
 Điều 34.3.NĐ.6.23. Nội dung hoạt động xúc tiến thương mại của Việt Nam tại nước ngoài nhằm phát triển ngoại thương
 
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 340030000000000060001050000000000000000000402647800280002300
-
-**ID:** dk_00055754
-
----
-
-
-### Điều 34.3.LQ.106. Phát triển hoạt động ngoại thương thông qua hoạt động xúc tiến thương mại của các tổ chức xúc tiến thương mại nước ngoài tại Việt Nam
+### 3400300000000000600010600000000000000000
 
 Điều 34.3.LQ.106. Phát triển hoạt động ngoại thương thông qua hoạt động xúc tiến thương mại của các tổ chức xúc tiến thương mại nước ngoài tại Việt Nam
 
-**Chỉ mục:** 106
+### 340030000000000060001060000000000000000000402647800280002400
 
-**Mã phân cấp:** 3400300000000000600010600000000000000000
+Điều 34.3.NĐ.6.24. Nguyên tắchoạt động
 
-**ID:** dk_00055755
-
----
-
-
-### Điều 34.3.NĐ.6.24. Nguyên tắchoạt động
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280002400
-
-**ID:** dk_00055756
-
----
-
-
-### Điều 34.3.NĐ.6.25. Nội dung hoạt động của Văn phòng đại diện tại Việt Nam của tổ chức xúc tiến thương mại nước ngoài
+### 340030000000000060001060000000000000000000402647800280002500
 
 Điều 34.3.NĐ.6.25. Nội dung hoạt động của Văn phòng đại diện tại Việt Nam của tổ chức xúc tiến thương mại nước ngoài
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280002500
-
-**ID:** dk_00055757
-
----
-
-
-### Điều 34.3.NĐ.6.26. Cấp Giấy phép thành lập Văn phòng đại diện tại Việt Nam
+### 340030000000000060001060000000000000000000402647800280002600
 
 Điều 34.3.NĐ.6.26. Cấp Giấy phép thành lập Văn phòng đại diện tại Việt Nam
 
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280002600
-
-**ID:** dk_00055758
-
----
-
-
-### Điều 34.3.NĐ.6.27. Sửa đổi Giấy phép thành lập Văn phòng đại diện
+### 340030000000000060001060000000000000000000402647800280002700
 
 Điều 34.3.NĐ.6.27. Sửa đổi Giấy phép thành lập Văn phòng đại diện
 
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280002700
-
-**ID:** dk_00055759
-
----
-
-
-### Điều 34.3.NĐ.6.28. Cấp lại Giấy phép thành lập Văn phòng đại diện
+### 340030000000000060001060000000000000000000402647800280002800
 
 Điều 34.3.NĐ.6.28. Cấp lại Giấy phép thành lập Văn phòng đại diện
 
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280002800
-
-**ID:** dk_00055760
-
----
-
-
-### Điều 34.3.NĐ.6.29. Gia hạn Giấy phép thành lập Văn phòng đại diện
+### 340030000000000060001060000000000000000000402647800280002900
 
 Điều 34.3.NĐ.6.29. Gia hạn Giấy phép thành lập Văn phòng đại diện
 
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280002900
-
-**ID:** dk_00055761
-
----
-
-
-### Điều 34.3.NĐ.6.30. Thông báo hoạt động của Văn phòng đại diện
+### 340030000000000060001060000000000000000000402647800280003000
 
 Điều 34.3.NĐ.6.30. Thông báo hoạt động của Văn phòng đại diện
 
-**Chỉ mục:** 30
+### 340030000000000060001060000000000000000000402647800280003100
 
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280003000
+Điều 34.3.NĐ.6.31. Mở tài khoản
 
-**ID:** dk_00055762
+### 340030000000000060001060000000000000000000402647800280003200
 
----
+Điều 34.3.NĐ.6.32. Báo cáo hoạt động
 
-
-### Điều 34.3.NĐ.6.31. Mở tài khoản
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280003100
-
-**ID:** dk_00055763
-
----
-
-
-### Điều 34.3.NĐ.6.32. Báo cáo hoạt động
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280003200
-
-**ID:** dk_00055764
-
----
-
-
-### Điều 34.3.NĐ.6.33. Chấm dứt hoạt động và thu hồi Giấy phép thành lập Văn phòng đại diện
+### 340030000000000060001060000000000000000000402647800280003300
 
 Điều 34.3.NĐ.6.33. Chấm dứt hoạt động và thu hồi Giấy phép thành lập Văn phòng đại diện
 
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 340030000000000060001060000000000000000000402647800280003300
-
-**ID:** dk_00055765
-
----
-
-
-### Điều 34.3.LQ.107. Phát triển hoạt động ngoại thương thông qua hoạt động của đại diện thương mại
+### 3400300000000000600010700000000000000000
 
 Điều 34.3.LQ.107. Phát triển hoạt động ngoại thương thông qua hoạt động của đại diện thương mại
 
-**Chỉ mục:** 107
+### 34003000000000007000
 
-**Mã phân cấp:** 3400300000000000600010700000000000000000
+Chương VII GIẢI QUYẾT TRANH CHẤP VỀ ÁP DỤNG BIỆN PHÁP QUẢN LÝ NGOẠI THƯƠNG
 
-**ID:** dk_00055766
-
----
-
-
-### Điều 34.3.LQ.108. Nguyên tắc tham gia giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương của cơ quan quản lý nhà nước
+### 3400300000000000700010800000000000000000
 
 Điều 34.3.LQ.108. Nguyên tắc tham gia giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương của cơ quan quản lý nhà nước
 
-**Chỉ mục:** 108
-
-**Mã phân cấp:** 3400300000000000700010800000000000000000
-
-**ID:** dk_00055768
-
----
-
-
-### Điều 34.3.LQ.109. Cơ quan quản lý nhà nước tham gia giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương
+### 3400300000000000700010900000000000000000
 
 Điều 34.3.LQ.109. Cơ quan quản lý nhà nước tham gia giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 109
+### 340030000000000070001090000000000000000000402655300690005700
 
-**Mã phân cấp:** 3400300000000000700010900000000000000000
+Điều 34.3.NĐ.8.57. Nguyên tắc phối hợp
 
-**ID:** dk_00055769
+### 340030000000000070001090000000000000000000402655300690005800
 
----
+Điều 34.3.NĐ.8.58. Nội dung phối hợp
 
+### 340030000000000070001090000000000000000000402655300690005900
 
-### Điều 34.3.NĐ.8.57. Nguyên tắc phối hợp
+Điều 34.3.NĐ.8.59. Cơ quan chủ trì
 
-*Nội dung chưa có sẵn*
+### 340030000000000070001090000000000000000000402655300690006000
 
-**Chỉ mục:** 57
+Điều 34.3.NĐ.8.60. Cơ quan đầu mối
 
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690005700
-
-**ID:** dk_00055770
-
----
-
-
-### Điều 34.3.NĐ.8.58. Nội dung phối hợp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 58
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690005800
-
-**ID:** dk_00055771
-
----
-
-
-### Điều 34.3.NĐ.8.59. Cơ quan chủ trì
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 59
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690005900
-
-**ID:** dk_00055772
-
----
-
-
-### Điều 34.3.NĐ.8.60. Cơ quan đầu mối
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 60
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006000
-
-**ID:** dk_00055773
-
----
-
-
-### Điều 34.3.NĐ.8.61. Cơ quan, tổ chức, cá nhân liên quan
+### 340030000000000070001090000000000000000000402655300690006100
 
 Điều 34.3.NĐ.8.61. Cơ quan, tổ chức, cá nhân liên quan
 
-**Chỉ mục:** 61
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006100
-
-**ID:** dk_00055774
-
----
-
-
-### Điều 34.3.NĐ.8.62. Tiếp nhận thông tin, tài liệu giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương
+### 340030000000000070001090000000000000000000402655300690006200
 
 Điều 34.3.NĐ.8.62. Tiếp nhận thông tin, tài liệu giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 62
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006200
-
-**ID:** dk_00055775
-
----
-
-
-### Điều 34.3.NĐ.8.63. Xây dựng, thực hiện kế hoạch giải quyết vụ việc tranh chấp về áp dụng biện pháp quản lý ngoại thương
+### 340030000000000070001090000000000000000000402655300690006300
 
 Điều 34.3.NĐ.8.63. Xây dựng, thực hiện kế hoạch giải quyết vụ việc tranh chấp về áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 63
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006300
-
-**ID:** dk_00055776
-
----
-
-
-### Điều 34.3.NĐ.8.64. Trách nhiệm tiếp nhận, giải quyết yêu cầu tham vấn
+### 340030000000000070001090000000000000000000402655300690006400
 
 Điều 34.3.NĐ.8.64. Trách nhiệm tiếp nhận, giải quyết yêu cầu tham vấn
 
-**Chỉ mục:** 64
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006400
-
-**ID:** dk_00055777
-
----
-
-
-### Điều 34.3.NĐ.8.65. Xử lý trường hợp biện pháp được tham vấn có dấu hiệu vi phạm cam kết tại điều ước quốc tế liên quan đến áp dụng biện pháp quản lý ngoại thương
+### 340030000000000070001090000000000000000000402655300690006500
 
 Điều 34.3.NĐ.8.65. Xử lý trường hợp biện pháp được tham vấn có dấu hiệu vi phạm cam kết tại điều ước quốc tế liên quan đến áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 65
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006500
-
-**ID:** dk_00055778
-
----
-
-
-### Điều 34.3.NĐ.8.66. Xác định trách nhiệm của cơ quan, tổ chức, cá nhân đã ban hành, áp dụng biện pháp trái cam kết quốc tế của Việt Nam dẫn đến tranh chấp về áp dụng biện pháp quản lý ngoại thương
+### 340030000000000070001090000000000000000000402655300690006600
 
 Điều 34.3.NĐ.8.66. Xác định trách nhiệm của cơ quan, tổ chức, cá nhân đã ban hành, áp dụng biện pháp trái cam kết quốc tế của Việt Nam dẫn đến tranh chấp về áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 66
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006600
-
-**ID:** dk_00055779
-
----
-
-
-### Điều 34.3.NĐ.8.67. Trách nhiệm đề xuất, tham gia giải quyết yêu cầu tham vấn
+### 340030000000000070001090000000000000000000402655300690006700
 
 Điều 34.3.NĐ.8.67. Trách nhiệm đề xuất, tham gia giải quyết yêu cầu tham vấn
 
-**Chỉ mục:** 67
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006700
-
-**ID:** dk_00055780
-
----
-
-
-### Điều 34.3.NĐ.8.68. Xử lý trường hợp biện pháp được tham vấn có dấu hiệu vi phạm cam kết tại điều ước quốc tế liên quan đến áp dụng biện pháp quản lý ngoại thương
+### 340030000000000070001090000000000000000000402655300690006800
 
 Điều 34.3.NĐ.8.68. Xử lý trường hợp biện pháp được tham vấn có dấu hiệu vi phạm cam kết tại điều ước quốc tế liên quan đến áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 68
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006800
-
-**ID:** dk_00055781
-
----
-
-
-### Điều 34.3.NĐ.8.69. Xây dựng, thực hiện kế hoạch giải quyết vụ việc tranh chấp về áp dụng biện pháp quản lý ngoại thương
+### 340030000000000070001090000000000000000000402655300690006900
 
 Điều 34.3.NĐ.8.69. Xây dựng, thực hiện kế hoạch giải quyết vụ việc tranh chấp về áp dụng biện pháp quản lý ngoại thương
 
-**Chỉ mục:** 69
-
-**Mã phân cấp:** 340030000000000070001090000000000000000000402655300690006900
-
-**ID:** dk_00055782
-
----
-
-
-### Điều 34.3.LQ.110. Trình tự, thủ tục giải quyết tranh chấp do Chính phủ nước ngoài khởi kiện
+### 3400300000000000700011000000000000000000
 
 Điều 34.3.LQ.110. Trình tự, thủ tục giải quyết tranh chấp do Chính phủ nước ngoài khởi kiện
 
-**Chỉ mục:** 110
-
-**Mã phân cấp:** 3400300000000000700011000000000000000000
-
-**ID:** dk_00055783
-
----
-
-
-### Điều 34.3.LQ.111. Trình tự, thủ tục giải quyết tranh chấp do Chính phủ Việt Nam khởi kiện
+### 3400300000000000700011100000000000000000
 
 Điều 34.3.LQ.111. Trình tự, thủ tục giải quyết tranh chấp do Chính phủ Việt Nam khởi kiện
 
-**Chỉ mục:** 111
+### 34003000000000008000
 
-**Mã phân cấp:** 3400300000000000700011100000000000000000
+Chương VIII ĐIỀU KHOẢN THI HÀNH
 
-**ID:** dk_00055784
+### 3400300000000000800011200000000000000000
 
----
+Điều 34.3.LQ.112. Hiệu lực thi hành
 
+### 340030000000000080001120000000000000000000802792800050003100
 
-### Điều 34.3.LQ.112. Hiệu lực thi hành
+Điều 34.3.TT.65.31. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+### 34003000000000008000112000000000000000000080279280005000310000402855000770002100
 
-**Chỉ mục:** 112
+Điều 34.3.NĐ.9.21. Tổ chức thực hiện
 
-**Mã phân cấp:** 3400300000000000800011200000000000000000
+### 34003000000000008000112000000000000000000080279280005000310000402855000770002200
 
-**ID:** dk_00055786
+Điều 34.3.NĐ.9.22. Hiệu lực thi hành
 
----
+### 340030000000000080001120000000000000000000802792800050003200
 
+Điều 34.3.TT.65.32. Điều khoản thi hành
 
-### Điều 34.3.TT.65.31. Tổ chức thực hiện
+### 340030000000000080001120000000000000000000802869800050000400
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.69.4. Hiệu lực thi hành
 
-**Chỉ mục:** 31
+### 340030000000000080001120000000000000000000802869800050000500
 
-**Mã phân cấp:** 340030000000000080001120000000000000000000802792800050003100
+Điều 34.3.TT.69.5. Tổ chức thực hiện
 
-**ID:** dk_00055787
+### 340030000000000080001120000000000000000000802870400060000500
 
----
+Điều 34.3.TT.70.5. Hiệu lực thi hành
 
+### 3400300000000000800011240225510090000170
 
-### Điều 34.3.NĐ.9.21. Tổ chức thực hiện
+Điều 34.3.NĐ.1.17. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011240225510090000180
 
-**Chỉ mục:** 21
+Điều 34.3.NĐ.1.18. Tổ chức thực hiện
 
-**Mã phân cấp:** 34003000000000008000112000000000000000000080279280005000310000402855000770002100
+### 3400300000000000800011240243290032000170
 
-**ID:** dk_00055788
+Điều 34.3.NĐ.2.17. Hiệu lực thi hành
 
----
+### 3400300000000000800011240243290032000180
 
+Điều 34.3.NĐ.2.18. Trách nhiệm thi hành
 
-### Điều 34.3.NĐ.9.22. Hiệu lực thi hành
+### 3400300000000000800011240243290032000190
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.2.19. Trách nhiệm tổ chức thực hiện
 
-**Chỉ mục:** 22
+### 3400300000000000800011240243290032000200
 
-**Mã phân cấp:** 34003000000000008000112000000000000000000080279280005000310000402855000770002200
+Điều 34.3.NĐ.2.20. Điều khoản thi hành
 
-**ID:** dk_00055789
+### 3400300000000000800011240264330009000510
 
----
+Điều 34.3.NĐ.3.51. Hiệu lực thi hành
 
+### 3400300000000000800011240264330009000520
 
-### Điều 34.3.TT.65.32. Điều khoản thi hành
+Điều 34.3.NĐ.3.52. Trách nhiệm thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011240264330010000940
 
-**Chỉ mục:** 32
+Điều 34.3.NĐ.4.94. Hiệu lực thi hành
 
-**Mã phân cấp:** 340030000000000080001120000000000000000000802792800050003200
+### 3400300000000000800011240264330010000950
 
-**ID:** dk_00055790
+Điều 34.3.NĐ.4.95. Trách nhiệm thi hành
 
----
+### 3400300000000000800011240264410014000260
 
+Điều 34.3.NĐ.5.26. Hiệu lực thi hành
 
-### Điều 34.3.TT.69.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 340030000000000080001120000000000000000000802869800050000400
-
-**ID:** dk_00055791
-
----
-
-
-### Điều 34.3.TT.69.5. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000080001120000000000000000000802869800050000500
-
-**ID:** dk_00055792
-
----
-
-
-### Điều 34.3.TT.70.5. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 340030000000000080001120000000000000000000802870400060000500
-
-**ID:** dk_00055793
-
----
-
-
-### Điều 34.3.NĐ.1.17. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000800011240225510090000170
-
-**ID:** dk_00055794
-
----
-
-
-### Điều 34.3.NĐ.1.18. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000800011240225510090000180
-
-**ID:** dk_00055795
-
----
-
-
-### Điều 34.3.NĐ.2.17. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000800011240243290032000170
-
-**ID:** dk_00055796
-
----
-
-
-### Điều 34.3.NĐ.2.18. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000800011240243290032000180
-
-**ID:** dk_00055797
-
----
-
-
-### Điều 34.3.NĐ.2.19. Trách nhiệm tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011240243290032000190
-
-**ID:** dk_00055798
-
----
-
-
-### Điều 34.3.NĐ.2.20. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011240243290032000200
-
-**ID:** dk_00055799
-
----
-
-
-### Điều 34.3.NĐ.3.51. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 51
-
-**Mã phân cấp:** 3400300000000000800011240264330009000510
-
-**ID:** dk_00055800
-
----
-
-
-### Điều 34.3.NĐ.3.52. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 52
-
-**Mã phân cấp:** 3400300000000000800011240264330009000520
-
-**ID:** dk_00055801
-
----
-
-
-### Điều 34.3.NĐ.4.94. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 94
-
-**Mã phân cấp:** 3400300000000000800011240264330010000940
-
-**ID:** dk_00055802
-
----
-
-
-### Điều 34.3.NĐ.4.95. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 95
-
-**Mã phân cấp:** 3400300000000000800011240264330010000950
-
-**ID:** dk_00055803
-
----
-
-
-### Điều 34.3.NĐ.5.26. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 3400300000000000800011240264410014000260
-
-**ID:** dk_00055804
-
----
-
-
-### Điều 34.3.NĐ.6.34. Trách nhiệm thi hành của các tổ chức liên quan
+### 3400300000000000800011240264780028000340
 
 Điều 34.3.NĐ.6.34. Trách nhiệm thi hành của các tổ chức liên quan
 
-**Chỉ mục:** 34
+### 3400300000000000800011240264780028000350
 
-**Mã phân cấp:** 3400300000000000800011240264780028000340
+Điều 34.3.NĐ.6.35. Điều khoản thi hành
 
-**ID:** dk_00055805
+### 3400300000000000800011240264850031000340
 
----
+Điều 34.3.NĐ.7.34. Hiệu lực thi hành
 
+### 3400300000000000800011240264850031000350
 
-### Điều 34.3.NĐ.6.35. Điều khoản thi hành
+Điều 34.3.NĐ.7.35. Trách nhiệm thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011240265530069000700
 
-**Chỉ mục:** 3
+Điều 34.3.NĐ.8.70. Tổ chức thực hiện
 
-**Mã phân cấp:** 3400300000000000800011240264780028000350
+### 3400300000000000800011240265530069000730
 
-**ID:** dk_00055806
+Điều 34.3.NĐ.8.73. Điều khoản thi hành
 
----
+### 3400300000000000800011240290760086001150
 
+Điều 34.3.NĐ.11.115. Hiệu lực thi hành
 
-### Điều 34.3.NĐ.7.34. Hiệu lực thi hành
+### 3400300000000000800011240290760086001160
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.11.116. Trách nhiệm thi hành
 
-**Chỉ mục:** 34
+### 3400300000000000800011240292580259000170
 
-**Mã phân cấp:** 3400300000000000800011240264850031000340
+Điều 34.3.NĐ.12.17. Tổ chức thực hiện
 
-**ID:** dk_00055807
+### 3400300000000000800011240292580259000180
 
----
+Điều 34.3.NĐ.12.18. Hiệu lực thi hành
 
+### 3400300000000000800011250238150072000020
 
-### Điều 34.3.NĐ.7.35. Trách nhiệm thi hành
+Điều 34.3.QĐ.2.2.
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011250238150072000030
 
-**Chỉ mục:** 35
+Điều 34.3.QĐ.2.3.
 
-**Mã phân cấp:** 3400300000000000800011240264850031000350
+### 3400300000000000800011250238150072000040
 
-**ID:** dk_00055808
+Điều 34.3.QĐ.2.3. Trách nhiệm thi hành
 
----
+### 3400300000000000800011250238150072000050
 
+Điều 34.3.QĐ.2.4. Hiệu lực thi hành
 
-### Điều 34.3.NĐ.8.70. Tổ chức thực hiện
+### 3400300000000000800011250268920018000170
 
-*Nội dung chưa có sẵn*
+Điều 34.3.QĐ.3.17. Điều khoản thi hành
 
-**Chỉ mục:** 70
+### 3400300000000000800011250270640030000020
 
-**Mã phân cấp:** 3400300000000000800011240265530069000700
+Điều 34.3.QĐ.4.2.
 
-**ID:** dk_00055809
+### 3400300000000000800011250270640030000030
 
----
+Điều 34.3.QĐ.4.3.
 
+### 3400300000000000800011250270650031000080
 
-### Điều 34.3.NĐ.8.73. Điều khoản thi hành
+Điều 34.3.QĐ.5.8. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011250270650031000100
 
-**Chỉ mục:** 73
+Điều 34.3.QĐ.5.10. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011240265530069000730
+### 3400300000000000800011280231080044000020
 
-**ID:** dk_00055810
+Điều 34.3.QĐ.1.2.
 
----
+### 3400300000000000800011280231080044000030
 
+Điều 34.3.QĐ.1.3.
 
-### Điều 34.3.NĐ.11.115. Hiệu lực thi hành
+### 3400300000000000800011280232690010000130
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.2.13. Điều khoản thi hành
 
-**Chỉ mục:** 115
+### 3400300000000000800011280232690010000140
 
-**Mã phân cấp:** 3400300000000000800011240290760086001150
+Điều 34.3.TT.1.2.5. Hiệu lực thi hành
 
-**ID:** dk_00055811
+### 3400300000000000800011280233470022000140
 
----
+Điều 34.3.TT.3.14. Hiệu lực thi hành
 
+### 3400300000000000800011280233470022000150
 
-### Điều 34.3.NĐ.11.116. Trách nhiệm thi hành
+Điều 34.3.TT.2.3.3. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280234020028000130
 
-**Chỉ mục:** 116
+Điều 34.3.TT.4.13. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011240290760086001160
+### 3400300000000000800011280235210004000130
 
-**ID:** dk_00055812
+Điều 34.3.TT.5.13. Điều khoản thi hành
 
----
+### 3400300000000000800011280236010015000130
 
+Điều 34.3.TT.6.13. Điều khoản thi hành
 
-### Điều 34.3.NĐ.12.17. Tổ chức thực hiện
+### 3400300000000000800011280239650017000040
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.7.4. Hiệu lực thi hành
 
-**Chỉ mục:** 17
+### 3400300000000000800011280244240007750100
 
-**Mã phân cấp:** 3400300000000000800011240292580259000170
+Điều 34.3.TT.8.10. Hiệu lực thi hành
 
-**ID:** dk_00055813
+### 3400300000000000800011280244240007750110
 
----
+Điều 34.3.TT.8.11. Trách nhiệm thi hành
 
+### 3400300000000000800011280244240007750120
 
-### Điều 34.3.NĐ.12.18. Hiệu lực thi hành
+Điều 34.3.TT.6.8.5. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280244240007750130
 
-**Chỉ mục:** 18
+Điều 34.3.TT.6.8.3. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011240292580259000180
+### 3400300000000000800011280244970028000140
 
-**ID:** dk_00055814
+Điều 34.3.TT.10.14. Hiệu lực thi hành
 
----
+### 3400300000000000800011280249110031000030
 
+Điều 34.3.TT.11.3.
 
-### Điều 34.3.QĐ.2.2.
+### 3400300000000000800011280249110031000040
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.11.2. Hiệu lực thi hành
 
-**Chỉ mục:** 2
+### 3400300000000000800011280249500034050040
 
-**Mã phân cấp:** 3400300000000000800011250238150072000020
+Điều 34.3.TT.12.4. Hiệu lực thi hành
 
-**ID:** dk_00055815
+### 3400300000000000800011280251330020000030
 
----
+Điều 34.3.TT.13.3. Điều khoản thi hành
 
+### 3400300000000000800011280251330020000040
 
-### Điều 34.3.QĐ.2.3.
+Điều 34.3.TT.13.2. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280251330020000050
 
-**Chỉ mục:** 3
+Điều 34.3.TT.13.2. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011250238150072000030
+### 3400300000000000800011280251330020000060
 
-**ID:** dk_00055816
+Điều 34.3.TT.13.3. Điều khoản thi hành
 
----
+### 3400300000000000800011280252040027000150
 
+Điều 34.3.TT.14.15. Tổ chức thực hiện
 
-### Điều 34.3.QĐ.2.3. Trách nhiệm thi hành
+### 3400300000000000800011280252040027000160
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.14.16. Hiệu lực thi hành
 
-**Chỉ mục:** 3
+### 3400300000000000800011280253220028750120
 
-**Mã phân cấp:** 3400300000000000800011250238150072000040
+Điều 34.3.TT.15.12. Điều khoản thi hành
 
-**ID:** dk_00055817
+### 3400300000000000800011280253220028750130
 
----
+Điều 34.3.TT.11.15.2. Điều khoản thi hành
 
+### 3400300000000000800011280254770011000180
 
-### Điều 34.3.QĐ.2.4. Hiệu lực thi hành
+Điều 34.3.TT.16.18. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280254770011000190
 
-**Chỉ mục:** 4
+Điều 34.3.TT.16.19. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011250238150072000050
+### 3400300000000000800011280255540028000130
 
-**ID:** dk_00055818
+Điều 34.3.TT.17.13. Hiệu lực thi hành
 
----
+### 3400300000000000800011280255540028000140
 
+Điều 34.3.TT.14.17.2. Hiệu lực thi hành
 
-### Điều 34.3.QĐ.3.17. Điều khoản thi hành
+### 3400300000000000800011280255540028000160
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.14.17.6. Điều khoản thi hành
 
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000800011250268920018000170
-
-**ID:** dk_00055819
-
----
-
-
-### Điều 34.3.QĐ.4.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011250270640030000020
-
-**ID:** dk_00055820
-
----
-
-
-### Điều 34.3.QĐ.4.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011250270640030000030
-
-**ID:** dk_00055821
-
----
-
-
-### Điều 34.3.QĐ.5.8. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000800011250270650031000080
-
-**ID:** dk_00055822
-
----
-
-
-### Điều 34.3.QĐ.5.10. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000800011250270650031000100
-
-**ID:** dk_00055823
-
----
-
-
-### Điều 34.3.QĐ.1.2.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280231080044000020
-
-**ID:** dk_00055824
-
----
-
-
-### Điều 34.3.QĐ.1.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280231080044000030
-
-**ID:** dk_00055825
-
----
-
-
-### Điều 34.3.TT.2.13. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000800011280232690010000130
-
-**ID:** dk_00055826
-
----
-
-
-### Điều 34.3.TT.1.2.5. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011280232690010000140
-
-**ID:** dk_00055827
-
----
-
-
-### Điều 34.3.TT.3.14. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000800011280233470022000140
-
-**ID:** dk_00055828
-
----
-
-
-### Điều 34.3.TT.2.3.3. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280233470022000150
-
-**ID:** dk_00055829
-
----
-
-
-### Điều 34.3.TT.4.13. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000800011280234020028000130
-
-**ID:** dk_00055830
-
----
-
-
-### Điều 34.3.TT.5.13. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000800011280235210004000130
-
-**ID:** dk_00055831
-
----
-
-
-### Điều 34.3.TT.6.13. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000800011280236010015000130
-
-**ID:** dk_00055832
-
----
-
-
-### Điều 34.3.TT.7.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280239650017000040
-
-**ID:** dk_00055833
-
----
-
-
-### Điều 34.3.TT.8.10. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3400300000000000800011280244240007750100
-
-**ID:** dk_00055834
-
----
-
-
-### Điều 34.3.TT.8.11. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000800011280244240007750110
-
-**ID:** dk_00055835
-
----
-
-
-### Điều 34.3.TT.6.8.5. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011280244240007750120
-
-**ID:** dk_00055836
-
----
-
-
-### Điều 34.3.TT.6.8.3. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280244240007750130
-
-**ID:** dk_00055837
-
----
-
-
-### Điều 34.3.TT.10.14. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 3400300000000000800011280244970028000140
-
-**ID:** dk_00055838
-
----
-
-
-### Điều 34.3.TT.11.3.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280249110031000030
-
-**ID:** dk_00055839
-
----
-
-
-### Điều 34.3.TT.11.2. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280249110031000040
-
-**ID:** dk_00055840
-
----
-
-
-### Điều 34.3.TT.12.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280249500034050040
-
-**ID:** dk_00055841
-
----
-
-
-### Điều 34.3.TT.13.3. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280251330020000030
-
-**ID:** dk_00055842
-
----
-
-
-### Điều 34.3.TT.13.2. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280251330020000040
-
-**ID:** dk_00055843
-
----
-
-
-### Điều 34.3.TT.13.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280251330020000050
-
-**ID:** dk_00055844
-
----
-
-
-### Điều 34.3.TT.13.3. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280251330020000060
-
-**ID:** dk_00055845
-
----
-
-
-### Điều 34.3.TT.14.15. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000800011280252040027000150
-
-**ID:** dk_00055846
-
----
-
-
-### Điều 34.3.TT.14.16. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000800011280252040027000160
-
-**ID:** dk_00055847
-
----
-
-
-### Điều 34.3.TT.15.12. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000800011280253220028750120
-
-**ID:** dk_00055848
-
----
-
-
-### Điều 34.3.TT.11.15.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280253220028750130
-
-**ID:** dk_00055849
-
----
-
-
-### Điều 34.3.TT.16.18. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 3400300000000000800011280254770011000180
-
-**ID:** dk_00055850
-
----
-
-
-### Điều 34.3.TT.16.19. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 3400300000000000800011280254770011000190
-
-**ID:** dk_00055851
-
----
-
-
-### Điều 34.3.TT.17.13. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000800011280255540028000130
-
-**ID:** dk_00055852
-
----
-
-
-### Điều 34.3.TT.14.17.2. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280255540028000140
-
-**ID:** dk_00055853
-
----
-
-
-### Điều 34.3.TT.14.17.6. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000800011280255540028000160
-
-**ID:** dk_00055854
-
----
-
-
-### Điều 34.3.TT.18.3. Tổ chức thực hiện và điều khoản thi hành
+### 3400300000000000800011280255890031000030
 
 Điều 34.3.TT.18.3. Tổ chức thực hiện và điều khoản thi hành
 
-**Chỉ mục:** 3
+### 3400300000000000800011280255890031000040
 
-**Mã phân cấp:** 3400300000000000800011280255890031000030
+Điều 34.3.TT.18.2. Hiệu lực thi hành
 
-**ID:** dk_00055855
+### 3400300000000000800011280255890031000050
 
----
+Điều 34.3.TT.18.2. Hiệu lực thi hành
 
+### 3400300000000000800011280255890031000060
 
-### Điều 34.3.TT.18.2. Hiệu lực thi hành
+Điều 34.3.TT.18.3. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280256440040000030
 
-**Chỉ mục:** 2
+Điều 34.3.TT.19.3. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011280255890031000040
+### 3400300000000000800011280256440040000040
 
-**ID:** dk_00055856
+Điều 34.3.TT.19.2. Điều khoản thi hành
 
----
+### 3400300000000000800011280256440040000060
 
+Điều 34.3.TT.19.2. Điều khoản thi hành
 
-### Điều 34.3.TT.18.2. Hiệu lực thi hành
+### 3400300000000000800011280259510021000040
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.20.4. Điều khoản thi hành
 
-**Chỉ mục:** 2
+### 3400300000000000800011280259510021000050
 
-**Mã phân cấp:** 3400300000000000800011280255890031000050
+Điều 34.3.TT.20.2. Điều khoản thi hành
 
-**ID:** dk_00055857
+### 3400300000000000800011280259510021000050
 
----
+Điều 34.3.TT.20.3. Hiệu lực thi hành
 
+### 3400300000000000800011280259640022000040
 
-### Điều 34.3.TT.18.3. Điều khoản thi hành
+Điều 34.3.TT.21.4. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280259640022000050
 
-**Chỉ mục:** 3
+Điều 34.3.TT.21.2. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011280255890031000060
+### 3400300000000000800011280259640022000060
 
-**ID:** dk_00055858
+Điều 34.3.TT.21.2. Hiệu lực thi hành
 
----
+### 3400300000000000800011280261950016000040
 
+Điều 34.3.TT.22.4. Hiệu lực thi hành
 
-### Điều 34.3.TT.19.3. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280256440040000030
-
-**ID:** dk_00055859
-
----
-
-
-### Điều 34.3.TT.19.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280256440040000040
-
-**ID:** dk_00055860
-
----
-
-
-### Điều 34.3.TT.19.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280256440040000060
-
-**ID:** dk_00055861
-
----
-
-
-### Điều 34.3.TT.20.4. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280259510021000040
-
-**ID:** dk_00055862
-
----
-
-
-### Điều 34.3.TT.20.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280259510021000050
-
-**ID:** dk_00055863
-
----
-
-
-### Điều 34.3.TT.20.3. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280259510021000050
-
-**ID:** dk_00055864
-
----
-
-
-### Điều 34.3.TT.21.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280259640022000040
-
-**ID:** dk_00055865
-
----
-
-
-### Điều 34.3.TT.21.2. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280259640022000050
-
-**ID:** dk_00055866
-
----
-
-
-### Điều 34.3.TT.21.2. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280259640022000060
-
-**ID:** dk_00055867
-
----
-
-
-### Điều 34.3.TT.22.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280261950016000040
-
-**ID:** dk_00055868
-
----
-
-
-### Điều 34.3.TT.22.5. Trách nhiệm thi hành và tổ chức thực hiện
+### 3400300000000000800011280261950016000050
 
 Điều 34.3.TT.22.5. Trách nhiệm thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011280261950016000050
-
-**ID:** dk_00055869
-
----
-
-
-### Điều 34.3.TT.23.4. Tổ chức thực hiện và trách nhiệm thi hành
+### 3400300000000000800011280264760001000040
 
 Điều 34.3.TT.23.4. Tổ chức thực hiện và trách nhiệm thi hành
 
-**Chỉ mục:** 4
+### 3400300000000000800011280264760001000050
 
-**Mã phân cấp:** 3400300000000000800011280264760001000040
+Điều 34.3.TT.23.5. Hiệu lực thihành
 
-**ID:** dk_00055870
+### 3400300000000000800011280264760001000060
 
----
+Điều 34.3.TT.23.2. Điều khoản thi hành
 
+### 3400300000000000800011280264760002000040
 
-### Điều 34.3.TT.23.5. Hiệu lực thihành
+Điều 34.3.TT.24.4. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280264760002000050
 
-**Chỉ mục:** 5
+Điều 34.3.TT.24.5. Hiệu lực thihành
 
-**Mã phân cấp:** 3400300000000000800011280264760001000050
+### 3400300000000000800011280264760002000060
 
-**ID:** dk_00055871
+Điều 34.3.TT.24.3. Điều khoản thi hành
 
----
+### 3400300000000000800011280265110005000110
 
+Điều 34.3.TT.25.11. Tổ chức thực hiện
 
-### Điều 34.3.TT.23.2. Điều khoản thi hành
+### 3400300000000000800011280265110005000120
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.25.12. Hiệu lực thi hành
 
-**Chỉ mục:** 2
+### 3400300000000000800011280265110005000130
 
-**Mã phân cấp:** 3400300000000000800011280264760001000060
+Điều 34.3.TT.24.25.3. Điều khoản thi hành
 
-**ID:** dk_00055872
+### 3400300000000000800011280265130005000040
 
----
+Điều 34.3.TT.26.4. Điều khoản thi hành
 
+### 3400300000000000800011280265140006850040
 
-### Điều 34.3.TT.24.4. Tổ chức thực hiện
+Điều 34.3.TT.27.4. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280265140006850060
 
-**Chỉ mục:** 4
+Điều 34.3.TT.27.6. Trách nhiệm thi hành
 
-**Mã phân cấp:** 3400300000000000800011280264760002000040
+### 3400300000000000800011280265350009000050
 
-**ID:** dk_00055873
+Điều 34.3.TT.28.5. Điều khoản thi hành
 
----
+### 3400300000000000800011280265530014000040
 
+Điều 34.3.TT.29.4. Hiệu lực thi hành
 
-### Điều 34.3.TT.24.5. Hiệu lực thihành
+### 3400300000000000800011280265530014000050
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.29.5. Trách nhiệm thi hành
 
-**Chỉ mục:** 5
+### 3400300000000000800011280265840012000170
 
-**Mã phân cấp:** 3400300000000000800011280264760002000050
+Điều 34.3.TT.30.17. Hiệu lực thi hành
 
-**ID:** dk_00055874
+### 3400300000000000800011280265980015000150
 
----
+Điều 34.3.TT.31.15. Hiệu lực thi hành
 
-
-### Điều 34.3.TT.24.3. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280264760002000060
-
-**ID:** dk_00055875
-
----
-
-
-### Điều 34.3.TT.25.11. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000800011280265110005000110
-
-**ID:** dk_00055876
-
----
-
-
-### Điều 34.3.TT.25.12. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 3400300000000000800011280265110005000120
-
-**ID:** dk_00055877
-
----
-
-
-### Điều 34.3.TT.24.25.3. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280265110005000130
-
-**ID:** dk_00055878
-
----
-
-
-### Điều 34.3.TT.26.4. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280265130005000040
-
-**ID:** dk_00055879
-
----
-
-
-### Điều 34.3.TT.27.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280265140006850040
-
-**ID:** dk_00055880
-
----
-
-
-### Điều 34.3.TT.27.6. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000800011280265140006850060
-
-**ID:** dk_00055881
-
----
-
-
-### Điều 34.3.TT.28.5. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011280265350009000050
-
-**ID:** dk_00055882
-
----
-
-
-### Điều 34.3.TT.29.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280265530014000040
-
-**ID:** dk_00055883
-
----
-
-
-### Điều 34.3.TT.29.5. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011280265530014000050
-
-**ID:** dk_00055884
-
----
-
-
-### Điều 34.3.TT.30.17. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 3400300000000000800011280265840012000170
-
-**ID:** dk_00055885
-
----
-
-
-### Điều 34.3.TT.31.15. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3400300000000000800011280265980015000150
-
-**ID:** dk_00055886
-
----
-
-
-### Điều 34.3.TT.32.3. Hiệu lực thi hành và tổ chức thực hiện
+### 3400300000000000800011280266530024000030
 
 Điều 34.3.TT.32.3. Hiệu lực thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 3
+### 3400300000000000800011280267060011000030
 
-**Mã phân cấp:** 3400300000000000800011280266530024000030
+Điều 34.3.TT.34.3. Hiệu lực thi hành
 
-**ID:** dk_00055887
+### 3400300000000000800011280267060011000040
 
----
+Điều 34.3.TT.34.4. Tổ chức thực hiện
 
+### 3400300000000000800011280267210038000120
 
-### Điều 34.3.TT.34.3. Hiệu lực thi hành
+Điều 34.3.TT.35.12. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280267210039000200
 
-**Chỉ mục:** 3
+Điều 34.3.TT.36.20. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011280267060011000030
+### 3400300000000000800011280267370044000040
 
-**ID:** dk_00055888
+Điều 34.3.TT.37.4. Hiệu lực thi hành
 
----
+### 3400300000000000800011280267770038000080
 
+Điều 34.3.TT.38.8. Trách nhiệm tổ chức thực hiện
 
-### Điều 34.3.TT.34.4. Tổ chức thực hiện
+### 3400300000000000800011280267770038000090
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.38.9. Hiệu lực thi hành
 
-**Chỉ mục:** 4
+### 3400300000000000800011280267800022000020
 
-**Mã phân cấp:** 3400300000000000800011280267060011000040
+Điều 34.3.TT.39.2. Điều khoản thi hành
 
-**ID:** dk_00055889
+### 3400300000000000800011280267800047000020
 
----
+Điều 34.3.TT.40.2. Hiệu lực thi hành
 
+### 3400300000000000800011280267800047000030
 
-### Điều 34.3.TT.35.12. Hiệu lực thi hành
+Điều 34.3.TT.40.3. Trách nhiệm tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280267920001000040
 
-**Chỉ mục:** 12
+Điều 34.3.TT.42.4. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011280267210038000120
-
-**ID:** dk_00055890
-
----
-
-
-### Điều 34.3.TT.36.20. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3400300000000000800011280267210039000200
-
-**ID:** dk_00055891
-
----
-
-
-### Điều 34.3.TT.37.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280267370044000040
-
-**ID:** dk_00055892
-
----
-
-
-### Điều 34.3.TT.38.8. Trách nhiệm tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 3400300000000000800011280267770038000080
-
-**ID:** dk_00055893
-
----
-
-
-### Điều 34.3.TT.38.9. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000800011280267770038000090
-
-**ID:** dk_00055894
-
----
-
-
-### Điều 34.3.TT.39.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280267800022000020
-
-**ID:** dk_00055895
-
----
-
-
-### Điều 34.3.TT.40.2. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280267800047000020
-
-**ID:** dk_00055896
-
----
-
-
-### Điều 34.3.TT.40.3. Trách nhiệm tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280267800047000030
-
-**ID:** dk_00055897
-
----
-
-
-### Điều 34.3.TT.42.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280267920001000040
-
-**ID:** dk_00055898
-
----
-
-
-### Điều 34.3.TT.43.33. Tổ chức thực hiện và hiệu lực thi hành
+### 3400300000000000800011280268050003000330
 
 Điều 34.3.TT.43.33. Tổ chức thực hiện và hiệu lực thi hành
 
-**Chỉ mục:** 33
+### 3400300000000000800011280268050003000340
 
-**Mã phân cấp:** 3400300000000000800011280268050003000330
+Điều 34.3.TT.31.43.2. Hiệu lực thi hành
 
-**ID:** dk_00055899
+### 3400300000000000800011280268670006000040
 
----
+Điều 34.3.TT.44.4. Hiệu lực thi hành
 
+### 3400300000000000800011280268920007000120
 
-### Điều 34.3.TT.31.43.2. Hiệu lực thi hành
+Điều 34.3.TT.44.12. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280269600008000060
 
-**Chỉ mục:** 2
+Điều 34.3.TT.46.6. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011280268050003000340
+### 3400300000000000800011280269940011000320
 
-**ID:** dk_00055900
+Điều 34.3.TT.47.32. Hiệu lực thi hành
 
----
+### 3400300000000000800011280269940012000340
 
+Điều 34.3.TT.48.34. Điều khoản thi hành
 
-### Điều 34.3.TT.44.4. Hiệu lực thi hành
+### 3400300000000000800011280270560019000130
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.49.13. Hiệu lực thi hành
 
-**Chỉ mục:** 4
+### 3400300000000000800011280270560019000140
 
-**Mã phân cấp:** 3400300000000000800011280268670006000040
+Điều 34.3.TT.48.49.2. Điều khoản thi hành
 
-**ID:** dk_00055901
+### 3400300000000000800011280270950021000340
 
----
+Điều 34.3.TT.50.34. Tổ chức thực hiện
 
+### 3400300000000000800011280270950021000350
 
-### Điều 34.3.TT.44.12. Hiệu lực thi hành
+Điều 34.3.TT.50.35. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280270990022000040
 
-**Chỉ mục:** 12
+Điều 34.3.TT.51.4. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011280268920007000120
+### 3400300000000000800011280271020027000040
 
-**ID:** dk_00055902
+Điều 34.3.TT.52.4. Hiệu lực thi hành
 
----
+### 3400300000000000800011280271090033000110
 
+Điều 34.3.TT.53.11. Hiệu lực thi hành
 
-### Điều 34.3.TT.46.6. Hiệu lực thi hành
+### 3400300000000000800011280271160037000270
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.54.27. Hiệu lực thi hành
 
-**Chỉ mục:** 6
+### 3400300000000000800011280271620001000030
 
-**Mã phân cấp:** 3400300000000000800011280269600008000060
+Điều 34.3.TT.55.3. Hiệu lực thi hành
 
-**ID:** dk_00055903
+### 3400300000000000800011280271700002000050
 
----
+Điều 34.3.TT.56.5. Hiệu lực thi hành
 
+### 3400300000000000800011280271700003000060
 
-### Điều 34.3.TT.47.32. Hiệu lực thi hành
+Điều 34.3.TT.57.6. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280271700004000090
 
-**Chỉ mục:** 32
+Điều 34.3.TT.58.9. Hiệu lực thi hành
 
-**Mã phân cấp:** 3400300000000000800011280269940011000320
+### 3400300000000000800011280272380002000060
 
-**ID:** dk_00055904
+Điều 34.3.TT.59.6. Hiệu lực thi hành
 
----
+### 3400300000000000800011280272380002000070
 
+Điều 34.3.TT.59.7. Tổ chức thực hiện
 
-### Điều 34.3.TT.48.34. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 3400300000000000800011280269940012000340
-
-**ID:** dk_00055905
-
----
-
-
-### Điều 34.3.TT.49.13. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 3400300000000000800011280270560019000130
-
-**ID:** dk_00055906
-
----
-
-
-### Điều 34.3.TT.48.49.2. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3400300000000000800011280270560019000140
-
-**ID:** dk_00055907
-
----
-
-
-### Điều 34.3.TT.50.34. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 34
-
-**Mã phân cấp:** 3400300000000000800011280270950021000340
-
-**ID:** dk_00055908
-
----
-
-
-### Điều 34.3.TT.50.35. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 3400300000000000800011280270950021000350
-
-**ID:** dk_00055909
-
----
-
-
-### Điều 34.3.TT.51.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280270990022000040
-
-**ID:** dk_00055910
-
----
-
-
-### Điều 34.3.TT.52.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011280271020027000040
-
-**ID:** dk_00055911
-
----
-
-
-### Điều 34.3.TT.53.11. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 3400300000000000800011280271090033000110
-
-**ID:** dk_00055912
-
----
-
-
-### Điều 34.3.TT.54.27. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 3400300000000000800011280271160037000270
-
-**ID:** dk_00055913
-
----
-
-
-### Điều 34.3.TT.55.3. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011280271620001000030
-
-**ID:** dk_00055914
-
----
-
-
-### Điều 34.3.TT.56.5. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011280271700002000050
-
-**ID:** dk_00055915
-
----
-
-
-### Điều 34.3.TT.57.6. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000800011280271700003000060
-
-**ID:** dk_00055916
-
----
-
-
-### Điều 34.3.TT.58.9. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000800011280271700004000090
-
-**ID:** dk_00055917
-
----
-
-
-### Điều 34.3.TT.59.6. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 3400300000000000800011280272380002000060
-
-**ID:** dk_00055918
-
----
-
-
-### Điều 34.3.TT.59.7. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000800011280272380002000070
-
-**ID:** dk_00055919
-
----
-
-
-### Điều 34.3.TT.60.36. Tổ chức thực hiện và hiệu lực thi hành
+### 3400300000000000800011280272470008000360
 
 Điều 34.3.TT.60.36. Tổ chức thực hiện và hiệu lực thi hành
 
-**Chỉ mục:** 36
+### 3400300000000000800011280272830009000040
 
-**Mã phân cấp:** 3400300000000000800011280272470008000360
+Điều 34.3.TT.61.4. Hiệu lực thi hành
 
-**ID:** dk_00055920
+### 3400300000000000800011280273750019000170
 
----
+Điều 34.3.TT.14.17.3. Quy định chuyển tiếp
 
+### 3400300000000000800011280273750019000180
 
-### Điều 34.3.TT.61.4. Hiệu lực thi hành
+Điều 34.3.TT.14.17.4. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011280274790030000110
 
-**Chỉ mục:** 4
+Điều 34.3.TT.62.63.2. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011280272830009000040
+### 3400300000000000800011280278160014000110
 
-**ID:** dk_00055921
+Điều 34.3.TT.64.11. Hiệu lực thi hành
 
----
+### 3400300000000000800011280278160014000120
 
+Điều 34.3.TT.62.64.2. Điều khoản thi hành
 
-### Điều 34.3.TT.14.17.3. Quy định chuyển tiếp
+### 3400300000000000800011280279280005000330
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.59.65.2. Điều khoản thi hành
 
-**Chỉ mục:** 3
+### 3400300000000000800011280279610007000150
 
-**Mã phân cấp:** 3400300000000000800011280273750019000170
+Điều 34.3.TT.66.15. Hiệu lực thi hành
 
-**ID:** dk_00055922
+### 3400300000000000800011280279610007000160
 
----
+Điều 34.3.TT.64.66.2. Điều khoản thi hành
 
+### 3400300000000000800011280291100026000290
 
-### Điều 34.3.TT.14.17.4. Điều khoản thi hành
+Điều 34.3.TT.72.29. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011300000000000000000
 
-**Chỉ mục:** 4
+Điều 34.3.LQ.113. Quy định chuyển tiếp
 
-**Mã phân cấp:** 3400300000000000800011280273750019000180
+### 3400300000000000800011340264330009000500
 
-**ID:** dk_00055923
+Điều 34.3.NĐ.3.50. Quy định chuyển tiếp
 
----
+### 3400300000000000800011340264330010000960
 
+Điều 34.3.NĐ.4.96. Quy định chuyển tiếp
 
-### Điều 34.3.TT.62.63.2. Điều khoản thi hành
+### 3400300000000000800011340265530069000720
 
-*Nội dung chưa có sẵn*
+Điều 34.3.NĐ.8.72. Điều khoản chuyển tiếp
 
-**Chỉ mục:** 2
+### 3400300000000000800011340290760086001170
 
-**Mã phân cấp:** 3400300000000000800011280274790030000110
+Điều 34.3.NĐ.11.117. Quy định chuyển tiếp
 
-**ID:** dk_00055924
+### 3400300000000000800011350238150072000060
 
----
+Điều 34.3.QĐ.2.5. Điều khoản chuyển tiếp
 
+### 3400300000000000800011350268920018000160
 
-### Điều 34.3.TT.64.11. Hiệu lực thi hành
+Điều 34.3.QĐ.3.16. Điều khoản chuyển tiếp
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011350270650031000090
 
-**Chỉ mục:** 11
+Điều 34.3.QĐ.5.9. Điều khoản chuyển tiếp
 
-**Mã phân cấp:** 3400300000000000800011280278160014000110
+### 3400300000000000800011380255540028000150
 
-**ID:** dk_00055925
+Điều 34.3.TT.14.17.5. Điều khoản chuyển tiếp
 
----
+### 3400300000000000800011380265130005000030
 
+Điều 34.3.TT.26.3. Điều khoản tham chiếu
 
-### Điều 34.3.TT.62.64.2. Điều khoản thi hành
+### 3400300000000000800011380265140006850050
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.27.5. Điều khoản tham chiếu
 
-**Chỉ mục:** 2
+### 3400300000000000800011380265350009000030
 
-**Mã phân cấp:** 3400300000000000800011280278160014000120
+Điều 34.3.TT.28.3. Điều khoản chuyển tiếp
 
-**ID:** dk_00055926
+### 3400300000000000800011380265350009000040
 
----
+Điều 34.3.TT.28.4. Điều khoản tham chiếu
 
+### 3400300000000000800011380265530014000030
 
-### Điều 34.3.TT.59.65.2. Điều khoản thi hành
+Điều 34.3.TT.29.3. Điều khoản tham chiếu
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011380265840012000160
 
-**Chỉ mục:** 2
+Điều 34.3.TT.30.16. Điều khoản chuyển tiếp
 
-**Mã phân cấp:** 3400300000000000800011280279280005000330
+### 3400300000000000800011380267770038000070
 
-**ID:** dk_00055927
+Điều 34.3.TT.38.7. Quy định chuyển tiếp
 
----
+### 3400300000000000800011380271160037000280
 
+Điều 34.3.TT.54.28. Điều khoản chuyển tiếp
 
-### Điều 34.3.TT.66.15. Hiệu lực thi hành
+### 3400300000000000800011380286050039000040
 
-*Nội dung chưa có sẵn*
+Điều 34.3.TT.68.4. Hiệu lực thi hành
 
-**Chỉ mục:** 15
+### 3400300000000000800011380289660037000050
 
-**Mã phân cấp:** 3400300000000000800011280279610007000150
+Điều 34.3.TT.71.5. Hiệu lực thi hành
 
-**ID:** dk_00055928
+### 3400300000000000800011380291100026000300
 
----
+Điều 34.3.TT.72.30. Điều khoản chuyển tiếp
 
+### 3400300000000000800011380292270049000390
 
-### Điều 34.3.TT.64.66.2. Điều khoản thi hành
+Điều 34.3.TT.73.39. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+### 3400300000000000800011380292270049000400
 
-**Chỉ mục:** 2
+Điều 34.3.TT.73.40. Điều khoản thi hành
 
-**Mã phân cấp:** 3400300000000000800011280279610007000160
-
-**ID:** dk_00055929
-
----
-
-
-### Điều 34.3.TT.72.29. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 29
-
-**Mã phân cấp:** 3400300000000000800011280291100026000290
-
-**ID:** dk_00055930
-
----
-
-
-### Điều 34.3.LQ.113. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 113
-
-**Mã phân cấp:** 3400300000000000800011300000000000000000
-
-**ID:** dk_00055931
-
----
-
-
-### Điều 34.3.NĐ.3.50. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 50
-
-**Mã phân cấp:** 3400300000000000800011340264330009000500
-
-**ID:** dk_00055932
-
----
-
-
-### Điều 34.3.NĐ.4.96. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 96
-
-**Mã phân cấp:** 3400300000000000800011340264330010000960
-
-**ID:** dk_00055933
-
----
-
-
-### Điều 34.3.NĐ.8.72. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 72
-
-**Mã phân cấp:** 3400300000000000800011340265530069000720
-
-**ID:** dk_00055934
-
----
-
-
-### Điều 34.3.NĐ.11.117. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 117
-
-**Mã phân cấp:** 3400300000000000800011340290760086001170
-
-**ID:** dk_00055935
-
----
-
-
-### Điều 34.3.QĐ.2.5. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011350238150072000060
-
-**ID:** dk_00055936
-
----
-
-
-### Điều 34.3.QĐ.3.16. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000800011350268920018000160
-
-**ID:** dk_00055937
-
----
-
-
-### Điều 34.3.QĐ.5.9. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3400300000000000800011350270650031000090
-
-**ID:** dk_00055938
-
----
-
-
-### Điều 34.3.TT.14.17.5. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011380255540028000150
-
-**ID:** dk_00055939
-
----
-
-
-### Điều 34.3.TT.26.3. Điều khoản tham chiếu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011380265130005000030
-
-**ID:** dk_00055940
-
----
-
-
-### Điều 34.3.TT.27.5. Điều khoản tham chiếu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011380265140006850050
-
-**ID:** dk_00055941
-
----
-
-
-### Điều 34.3.TT.28.3. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011380265350009000030
-
-**ID:** dk_00055942
-
----
-
-
-### Điều 34.3.TT.28.4. Điều khoản tham chiếu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011380265350009000040
-
-**ID:** dk_00055943
-
----
-
-
-### Điều 34.3.TT.29.3. Điều khoản tham chiếu
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 3400300000000000800011380265530014000030
-
-**ID:** dk_00055944
-
----
-
-
-### Điều 34.3.TT.30.16. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 3400300000000000800011380265840012000160
-
-**ID:** dk_00055945
-
----
-
-
-### Điều 34.3.TT.38.7. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 3400300000000000800011380267770038000070
-
-**ID:** dk_00055946
-
----
-
-
-### Điều 34.3.TT.54.28. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 3400300000000000800011380271160037000280
-
-**ID:** dk_00055947
-
----
-
-
-### Điều 34.3.TT.68.4. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 3400300000000000800011380286050039000040
-
-**ID:** dk_00055948
-
----
-
-
-### Điều 34.3.TT.71.5. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 3400300000000000800011380289660037000050
-
-**ID:** dk_00055949
-
----
-
-
-### Điều 34.3.TT.72.30. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 3400300000000000800011380291100026000300
-
-**ID:** dk_00055950
-
----
-
-
-### Điều 34.3.TT.73.39. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 39
-
-**Mã phân cấp:** 3400300000000000800011380292270049000390
-
-**ID:** dk_00055951
-
----
-
-
-### Điều 34.3.TT.73.40. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 3400300000000000800011380292270049000400
-
-**ID:** dk_00055952
-
----
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Thương mại, đầu tư, chứng khoán](/thuong-mai-dau-tu-chung-khoan/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 1330
-- **Điều khoản thực tế:** 1308
-- **Điều khoản có nội dung:** 673 (51.5%)
-- **ID đề mục:** a5dd4141f13c40f3802da6175684bb0a
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
