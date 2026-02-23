@@ -8,3 +8,44 @@ van-ban/phap-dien/scripts/archive/
 
 # Source data directory
 BoPhapDienDienTu/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*.class
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+build/
+dist/
+*.egg-info/
+
