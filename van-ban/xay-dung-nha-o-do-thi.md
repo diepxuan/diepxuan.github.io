@@ -9,28 +9,50 @@ slug: xay-dung-nha-o-do-thi
 # Xây dựng, nhà ở, đô thị
 
 **Chủ đề:** Xây dựng, nhà ở, đô thị  
-**Số đề mục:** 1  
+**STT:** 43  
+**Số đề mục:** 5  
 **Số điều khoản:** 100  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Kiến trúc](/van-ban/xay-dung-nha-o-do-thi/kien-truc/)** - 100 điều khoản
+### [Kiến trúc](/xay-dung-nha-o-do-thi/kien-truc/)
+- **Số điều khoản:** 100
+- **Điều khoản có nội dung:** 76/100 (76.0%)
+- **STT:** 1
+
+### [Kinh doanh bất động sản](/xay-dung-nha-o-do-thi/kinh-doanh-bat-dong-san/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 2
+
+### [Nhà ở](/xay-dung-nha-o-do-thi/nha-o/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 3
+
+### [Quy hoạch đô thị](/xay-dung-nha-o-do-thi/quy-hoach-do-thi/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 4
+
+### [Xây dựng](/xay-dung-nha-o-do-thi/xay-dung/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 5
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 1
+- **Tổng số đề mục:** 5
 - **Tổng số điều khoản:** 100
-- **ID chủ đề:** 11a7e159-46bf-48bf-93ec-4e415f84c678
+- **ID chủ đề:** 11a7e15946bf48bf93ec4e415f84c678
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

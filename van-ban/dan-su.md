@@ -9,15 +9,27 @@ slug: dan-su
 # Dân sự
 
 **Chủ đề:** Dân sự  
+**STT:** 9  
 **Số đề mục:** 3  
 **Số điều khoản:** 960  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Dân sự](/van-ban/dan-su/dan-su/)** - 812 điều khoản
-2. **[Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ](/van-ban/dan-su/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu/)** - 77 điều khoản
-3. **[Đăng ký biện pháp bảo đảm](/van-ban/dan-su/dang-ky-bien-phap-bao-dam/)** - 71 điều khoản
+### [Dân sự](/dan-su/dan-su/)
+- **Số điều khoản:** 812
+- **Điều khoản có nội dung:** 762/812 (93.8%)
+- **STT:** 1
+
+### [Đăng ký biện pháp bảo đảm](/dan-su/dang-ky-bien-phap-bao-dam/)
+- **Số điều khoản:** 71
+- **Điều khoản có nội dung:** 68/71 (95.8%)
+- **STT:** 2
+
+### [Quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ](/dan-su/quy-dinh-thi-hanh-bo-luat-dan-su-ve-bao-dam-thuc-hien-nghia-vu/)
+- **Số điều khoản:** 77
+- **Điều khoản có nội dung:** 59/77 (76.6%)
+- **STT:** 3
 
 
 ## 🔙 Quay lại
@@ -26,13 +38,11 @@ slug: dan-su
 ## 📊 Thống kê
 - **Tổng số đề mục:** 3
 - **Tổng số điều khoản:** 960
-- **ID chủ đề:** 8545ecbc-f0ce-44aa-83d6-c43d056f63f2
+- **ID chủ đề:** 8545ecbcf0ce44aa83d6c43d056f63f2
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
