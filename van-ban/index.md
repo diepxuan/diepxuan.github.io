@@ -1,102 +1,264 @@
 ---
 layout: default
-title: Văn bản Pháp luật
+title: Văn bản pháp luật
 permalink: /van-ban/
+collection: van-ban
 ---
 
-# 📚 Văn bản Pháp luật
+# 📚 Văn bản pháp luật
 
-## Bộ Pháp điển Điện tử
+**Tổng hợp hệ thống văn bản pháp luật Việt Nam**
 
-Hệ thống pháp luật chính thức của Việt Nam, được Bộ Tư pháp công bố.
+## 📊 Tổng quan
 
-### Thống kê Nội dung
-- **45 Chủ đề** pháp luật
-- **306 Đề mục** chuyên sâu  
-- **76,303 Điều khoản** (chương, điều, khoản, điểm)
-- **72,749 Điều khoản có nội dung** (95.3%)
+- **Số chủ đề:** 45
+- **Số đề mục:** 306
+- **Số điều khoản:** 76,303
+- **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Chủ đề Pháp luật
+## 🗂️ Danh sách chủ đề
 
-Nhấp vào tên chủ đề để xem danh sách đề mục:
+### [An ninh quốc gia](/an-ninh-quoc-gia/)
+- **STT:** 1
+- **Số đề mục:** 13
+- **Số điều khoản:** 2,071
 
-1. **[An ninh quốc gia](/van-ban/an-ninh-quoc-gia/)** - 12 đề mục (2,071 điều khoản)
-2. **[Bảo hiểm](/van-ban/bao-hiem/)** - 2 đề mục (1,140 điều khoản)
-3. **[Bưu chính, viễn thông](/van-ban/buu-chinh-vien-thong/)** - 4 đề mục (2,040 điều khoản)
-4. **[Bổ trợ tư pháp](/van-ban/bo-tro-tu-phap/)** - 5 đề mục (1,249 điều khoản)
-5. **[Cán bộ, công chức, viên chức](/van-ban/can-bo-cong-chuc-vien-chuc/)** - 1 đề mục (1,805 điều khoản)
-6. **[Chính sách xã hội](/van-ban/chinh-sach-xa-hoi/)** - 5 đề mục (895 điều khoản)
-7. **[Công nghiệp](/van-ban/cong-nghiep/)** - 4 đề mục (945 điều khoản)
-8. **[Dân số, gia đình, trẻ em, bình đẳng giới](/van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/)** - 4 đề mục (737 điều khoản)
-9. **[Dân sự](/van-ban/dan-su/)** - 3 đề mục (960 điều khoản)
-10. **[Dân tộc](/van-ban/dan-toc/)** - 0 đề mục (0 điều khoản)
-11. **[Đất đai](/van-ban/dat-dai/)** - 0 đề mục (0 điều khoản)
-12. **[Doanh nghiệp, hợp tác xã](/van-ban/doanh-nghiep-hop-tac-xa/)** - 3 đề mục (1,813 điều khoản)
-13. **[Giáo dục, đào tạo](/van-ban/giao-duc-dao-tao/)** - 2 đề mục (2,178 điều khoản)
-14. **[Giao thông, vận tải](/van-ban/giao-thong-van-tai/)** - 4 đề mục (5,246 điều khoản)
-15. **[Hành chính tư pháp](/van-ban/hanh-chinh-tu-phap/)** - 5 đề mục (604 điều khoản)
-16. **[Hình sự](/van-ban/hinh-su/)** - 1 đề mục (582 điều khoản)
-17. **[Kế toán, kiểm toán](/van-ban/ke-toan-kiem-toan/)** - 2 đề mục (1,792 điều khoản)
-18. **[Khiếu nại, tố cáo](/van-ban/khieu-nai-to-cao/)** - 4 đề mục (1,091 điều khoản)
-19. **[Khoa học, công nghệ](/van-ban/khoa-hoc-cong-nghe/)** - 7 đề mục (3,962 điều khoản)
-20. **[Lao động](/van-ban/lao-dong/)** - 5 đề mục (2,775 điều khoản)
-21. **[Môi trường](/van-ban/moi-truong/)** - 1 đề mục (376 điều khoản)
-22. **[Ngân hàng, tiền tệ](/van-ban/ngan-hang-tien-te/)** - 4 đề mục (2,891 điều khoản)
-23. **[Ngoại giao, điều ước quốc tế](/van-ban/ngoai-giao-dieu-uoc-quoc-te/)** - 10 đề mục (733 điều khoản)
-24. **[Nông nghiệp, nông thôn](/van-ban/nong-nghiep-nong-thon/)** - 11 đề mục (3,943 điều khoản)
-25. **[Quốc phòng](/van-ban/quoc-phong/)** - 11 đề mục (1,883 điều khoản)
-26. **[Tài chính](/van-ban/tai-chinh/)** - 3 đề mục (2,273 điều khoản)
-27. **[Tài nguyên](/van-ban/tai-nguyen/)** - 4 đề mục (2,302 điều khoản)
-28. **[Tài sản công, nợ công, dự trữ nhà nước](/van-ban/tai-san-cong-no-cong-du-tru-nha-nuoc/)** - 5 đề mục (2,194 điều khoản)
-29. **[Thi đua, khen thưởng, các danh hiệu vinh dự nhà nước](/van-ban/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/)** - 0 đề mục (0 điều khoản)
-30. **[Thi hành án](/van-ban/thi-hanh-an/)** - 4 đề mục (1,731 điều khoản)
-31. **[Thống kê](/van-ban/thong-ke/)** - 1 đề mục (661 điều khoản)
-32. **[Thông tin, báo chí, xuất bản](/van-ban/thong-tin-bao-chi-xuat-ban/)** - 3 đề mục (597 điều khoản)
-33. **[Thuế, phí, lệ phí, các khoản thu khác](/van-ban/thue-phi-le-phi-cac-khoan-thu-khac/)** - 11 đề mục (2,854 điều khoản)
-34. **[Thương mại, đầu tư, chứng khoán](/van-ban/thuong-mai-dau-tu-chung-khoan/)** - 7 đề mục (4,755 điều khoản)
-35. **[Tổ chức bộ máy nhà nước](/van-ban/to-chuc-bo-may-nha-nuoc/)** - 5 đề mục (906 điều khoản)
-36. **[Tổ chức chính trị - xã hội, hội](/van-ban/to-chuc-chinh-tri-xa-hoi-hoi/)** - 5 đề mục (477 điều khoản)
-37. **[Tố tụng và các phương thức giải quyết tranh chấp](/van-ban/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)** - 12 đề mục (3,498 điều khoản)
-38. **[Tôn giáo, tín ngưỡng](/van-ban/ton-giao-tin-nguong/)** - 1 đề mục (124 điều khoản)
-39. **[Trật tự, an toàn xã hội](/van-ban/trat-tu-an-toan-xa-hoi/)** - 11 đề mục (5,247 điều khoản)
-40. **[Tương trợ tư pháp](/van-ban/tuong-tro-tu-phap/)** - 1 đề mục (165 điều khoản)
-41. **[Văn hóa, thể thao, du lịch](/van-ban/van-hoa-the-thao-du-lich/)** - 13 đề mục (1,832 điều khoản)
-42. **[Văn thư lưu trữ](/van-ban/van-thu-luu-tru/)** - 1 đề mục (56 điều khoản)
-43. **[Xây dựng, nhà ở, đô thị](/van-ban/xay-dung-nha-o-do-thi/)** - 1 đề mục (100 điều khoản)
-44. **[Xây dựng pháp luật và thi hành pháp luật](/van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/)** - 8 đề mục (969 điều khoản)
-45. **[Y tế, dược](/van-ban/y-te-duoc/)** - 10 đề mục (3,851 điều khoản)
+### [Dân tộc](/dan-toc/)
+- **STT:** 10
+- **Số đề mục:** 1
+- **Số điều khoản:** 0
+
+### [Đất đai](/dat-dai/)
+- **STT:** 11
+- **Số đề mục:** 1
+- **Số điều khoản:** 0
+
+### [Doanh nghiệp, hợp tác xã](/doanh-nghiep-hop-tac-xa/)
+- **STT:** 12
+- **Số đề mục:** 5
+- **Số điều khoản:** 1,813
+
+### [Giáo dục, đào tạo](/giao-duc-dao-tao/)
+- **STT:** 13
+- **Số đề mục:** 2
+- **Số điều khoản:** 2,178
+
+### [Giao thông, vận tải](/giao-thong-van-tai/)
+- **STT:** 14
+- **Số đề mục:** 5
+- **Số điều khoản:** 5,246
+
+### [Hành chính tư pháp](/hanh-chinh-tu-phap/)
+- **STT:** 15
+- **Số đề mục:** 6
+- **Số điều khoản:** 604
+
+### [Hình sự](/hinh-su/)
+- **STT:** 16
+- **Số đề mục:** 1
+- **Số điều khoản:** 582
+
+### [Kế toán, kiểm toán](/ke-toan-kiem-toan/)
+- **STT:** 17
+- **Số đề mục:** 3
+- **Số điều khoản:** 1,792
+
+### [Khiếu nại, tố cáo](/khieu-nai-to-cao/)
+- **STT:** 18
+- **Số đề mục:** 5
+- **Số điều khoản:** 1,091
+
+### [Khoa học, công nghệ](/khoa-hoc-cong-nghe/)
+- **STT:** 19
+- **Số đề mục:** 8
+- **Số điều khoản:** 3,962
+
+### [Bảo hiểm](/bao-hiem/)
+- **STT:** 2
+- **Số đề mục:** 3
+- **Số điều khoản:** 1,140
+
+### [Lao động](/lao-dong/)
+- **STT:** 20
+- **Số đề mục:** 5
+- **Số điều khoản:** 2,775
+
+### [Môi trường](/moi-truong/)
+- **STT:** 21
+- **Số đề mục:** 2
+- **Số điều khoản:** 376
+
+### [Ngân hàng, tiền tệ](/ngan-hang-tien-te/)
+- **STT:** 22
+- **Số đề mục:** 6
+- **Số điều khoản:** 2,891
+
+### [Ngoại giao, điều ước quốc tế](/ngoai-giao-dieu-uoc-quoc-te/)
+- **STT:** 23
+- **Số đề mục:** 14
+- **Số điều khoản:** 733
+
+### [Nông nghiệp, nông thôn](/nong-nghiep-nong-thon/)
+- **STT:** 24
+- **Số đề mục:** 14
+- **Số điều khoản:** 3,943
+
+### [Quốc phòng](/quoc-phong/)
+- **STT:** 25
+- **Số đề mục:** 21
+- **Số điều khoản:** 1,883
+
+### [Tài chính](/tai-chinh/)
+- **STT:** 26
+- **Số đề mục:** 4
+- **Số điều khoản:** 2,273
+
+### [Tài nguyên](/tai-nguyen/)
+- **STT:** 27
+- **Số đề mục:** 6
+- **Số điều khoản:** 2,302
+
+### [Tài sản công, nợ công, dự trữ nhà nước](/tai-san-cong-no-cong-du-tru-nha-nuoc/)
+- **STT:** 28
+- **Số đề mục:** 7
+- **Số điều khoản:** 2,194
+
+### [Thi đua, khen thưởng, các danh hiệu vinh dự nhà nước](/thi-dua-khen-thuong-cac-danh-hieu-vinh-du-nha-nuoc/)
+- **STT:** 29
+- **Số đề mục:** 1
+- **Số điều khoản:** 0
+
+### [Bưu chính, viễn thông](/buu-chinh-vien-thong/)
+- **STT:** 3
+- **Số đề mục:** 6
+- **Số điều khoản:** 2,040
+
+### [Thi hành án](/thi-hanh-an/)
+- **STT:** 30
+- **Số đề mục:** 5
+- **Số điều khoản:** 1,731
+
+### [Thống kê](/thong-ke/)
+- **STT:** 31
+- **Số đề mục:** 1
+- **Số điều khoản:** 661
+
+### [Thông tin, báo chí, xuất bản](/thong-tin-bao-chi-xuat-ban/)
+- **STT:** 32
+- **Số đề mục:** 5
+- **Số điều khoản:** 597
+
+### [Thuế, phí, lệ phí, các khoản thu khác](/thue-phi-le-phi-cac-khoan-thu-khac/)
+- **STT:** 33
+- **Số đề mục:** 13
+- **Số điều khoản:** 2,854
+
+### [Thương mại, đầu tư, chứng khoán](/thuong-mai-dau-tu-chung-khoan/)
+- **STT:** 34
+- **Số đề mục:** 15
+- **Số điều khoản:** 4,755
+
+### [Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)
+- **STT:** 35
+- **Số đề mục:** 11
+- **Số điều khoản:** 906
+
+### [Tổ chức chính trị - xã hội, hội](/to-chuc-chinh-tri-xa-hoi-hoi/)
+- **STT:** 36
+- **Số đề mục:** 6
+- **Số điều khoản:** 477
+
+### [Tố tụng và các phương thức giải quyết tranh chấp](/to-tung-va-cac-phuong-thuc-giai-quyet-tranh-chap/)
+- **STT:** 37
+- **Số đề mục:** 13
+- **Số điều khoản:** 3,498
+
+### [Tôn giáo, tín ngưỡng](/ton-giao-tin-nguong/)
+- **STT:** 38
+- **Số đề mục:** 1
+- **Số điều khoản:** 124
+
+### [Trật tự, an toàn xã hội](/trat-tu-an-toan-xa-hoi/)
+- **STT:** 39
+- **Số đề mục:** 17
+- **Số điều khoản:** 5,247
+
+### [Bổ trợ tư pháp](/bo-tro-tu-phap/)
+- **STT:** 4
+- **Số đề mục:** 6
+- **Số điều khoản:** 1,249
+
+### [Tương trợ tư pháp](/tuong-tro-tu-phap/)
+- **STT:** 40
+- **Số đề mục:** 1
+- **Số điều khoản:** 165
+
+### [Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)
+- **STT:** 41
+- **Số đề mục:** 14
+- **Số điều khoản:** 1,832
+
+### [Văn thư lưu trữ](/van-thu-luu-tru/)
+- **STT:** 42
+- **Số đề mục:** 2
+- **Số điều khoản:** 56
+
+### [Xây dựng, nhà ở, đô thị](/xay-dung-nha-o-do-thi/)
+- **STT:** 43
+- **Số đề mục:** 5
+- **Số điều khoản:** 100
+
+### [Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)
+- **STT:** 44
+- **Số đề mục:** 16
+- **Số điều khoản:** 969
+
+### [Y tế, dược](/y-te-duoc/)
+- **STT:** 45
+- **Số đề mục:** 12
+- **Số điều khoản:** 3,851
+
+### [Cán bộ, công chức, viên chức](/can-bo-cong-chuc-vien-chuc/)
+- **STT:** 5
+- **Số đề mục:** 4
+- **Số điều khoản:** 1,805
+
+### [Chính sách xã hội](/chinh-sach-xa-hoi/)
+- **STT:** 6
+- **Số đề mục:** 5
+- **Số điều khoản:** 895
+
+### [Công nghiệp](/cong-nghiep/)
+- **STT:** 7
+- **Số đề mục:** 7
+- **Số điều khoản:** 945
+
+### [Dân số, gia đình, trẻ em, bình đẳng giới](/dan-so-gia-dinh-tre-em-binh-dang-gioi/)
+- **STT:** 8
+- **Số đề mục:** 5
+- **Số điều khoản:** 737
+
+### [Dân sự](/dan-su/)
+- **STT:** 9
+- **Số đề mục:** 3
+- **Số điều khoản:** 960
 
 
-## 🔍 Cách sử dụng
+## 🔍 Giới thiệu
 
-### 1. Tra cứu theo cấp độ
-1. **Chọn chủ đề** từ danh sách trên
-2. **Xem danh sách đề mục** thuộc chủ đề
-3. **Nhấp vào đề mục** để xem nội dung đầy đủ
+Hệ thống này tổng hợp toàn bộ văn bản pháp luật Việt Nam được số hóa từ Pháp điển điện tử. Mỗi chủ đề bao gồm nhiều đề mục, mỗi đề mục chứa các điều khoản pháp luật cụ thể.
 
-### 2. Tìm kiếm nhanh
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+## 📝 Ghi chú
 
-## 📁 Văn bản Khác
+- Dữ liệu được cập nhật tự động từ nguồn chính thống
+- Nội dung có thể chưa đầy đủ cho một số điều khoản
+- Sử dụng chức năng tìm kiếm để tra cứu nhanh
 
-### Hướng dẫn Sử dụng Dịch vụ Internet
-- **File**: [WEBHD_INTERNET_UM_v1.0.docx](WEBHD_INTERNET_UM_v1.0.docx)
-- **Loại**: Tài liệu Microsoft Word
-- **Dung lượng**: 1.05 MB
+## 🔗 Liên kết
 
-### Văn bản Tự động Crawl
-- **Source**: [vanban.chinhphu.vn](https://vanban.chinhphu.vn)
-- **Số lượng**: 10+ documents
-- **Tự động cập nhật**: Weekly
-- **Xem tại**: [crawled/README.md](crawled/README.md)
-
-## ⚖️ Lưu ý Pháp lý
-
-- Dữ liệu được trích xuất từ **Bộ Pháp điển Điện tử chính thức**
-- Chỉ sử dụng cho mục đích **tham khảo, nghiên cứu**
-- **Không thay thế** văn bản pháp luật chính thức
-- Luôn **kiểm tra** với nguồn chính thức khi áp dụng
+- [Pháp điển điện tử](http://vbpl.vn)
+- [Cổng thông tin điện tử Chính phủ](https://chinhphu.vn)
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}*
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

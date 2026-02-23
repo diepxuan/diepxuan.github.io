@@ -9,32 +9,55 @@ slug: hanh-chinh-tu-phap
 # Hành chính tư pháp
 
 **Chủ đề:** Hành chính tư pháp  
-**Số đề mục:** 5  
+**STT:** 15  
+**Số đề mục:** 6  
 **Số điều khoản:** 604  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký](/van-ban/hanh-chinh-tu-phap/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky/)** - 83 điều khoản
-2. **[Hộ tịch](/van-ban/hanh-chinh-tu-phap/ho-tich/)** - 131 điều khoản
-3. **[Lý lịch tư pháp](/van-ban/hanh-chinh-tu-phap/ly-lich-tu-phap/)** - 186 điều khoản
-4. **[Nuôi con nuôi](/van-ban/hanh-chinh-tu-phap/nuoi-con-nuoi/)** - 76 điều khoản
-5. **[Quốc tịch Việt Nam](/van-ban/hanh-chinh-tu-phap/quoc-tich-viet-nam/)** - 128 điều khoản
+### [Cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký](/hanh-chinh-tu-phap/cap-ban-sao-tu-so-goc-chung-thuc-ban-sao-tu-ban-chinh-chung-thuc-chu-ky/)
+- **Số điều khoản:** 83
+- **Điều khoản có nội dung:** 78/83 (94.0%)
+- **STT:** 1
+
+### [Chứng thực (loại bỏ)](/hanh-chinh-tu-phap/chung-thuc-loai-bo/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 2
+
+### [Hộ tịch](/hanh-chinh-tu-phap/ho-tich/)
+- **Số điều khoản:** 131
+- **Điều khoản có nội dung:** 89/131 (67.9%)
+- **STT:** 3
+
+### [Lý lịch tư pháp](/hanh-chinh-tu-phap/ly-lich-tu-phap/)
+- **Số điều khoản:** 186
+- **Điều khoản có nội dung:** 162/186 (87.1%)
+- **STT:** 4
+
+### [Nuôi con nuôi](/hanh-chinh-tu-phap/nuoi-con-nuoi/)
+- **Số điều khoản:** 76
+- **Điều khoản có nội dung:** 57/76 (75.0%)
+- **STT:** 5
+
+### [Quốc tịch Việt Nam](/hanh-chinh-tu-phap/quoc-tich-viet-nam/)
+- **Số điều khoản:** 128
+- **Điều khoản có nội dung:** 93/128 (72.7%)
+- **STT:** 6
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 5
+- **Tổng số đề mục:** 6
 - **Tổng số điều khoản:** 604
-- **ID chủ đề:** a5b5fa2d-056c-48c4-b6fc-c782359511ff
+- **ID chủ đề:** a5b5fa2d056c48c4b6fcc782359511ff
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

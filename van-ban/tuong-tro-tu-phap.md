@@ -9,13 +9,17 @@ slug: tuong-tro-tu-phap
 # Tương trợ tư pháp
 
 **Chủ đề:** Tương trợ tư pháp  
+**STT:** 40  
 **Số đề mục:** 1  
 **Số điều khoản:** 165  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Tương trợ tư pháp](/van-ban/tuong-tro-tu-phap/tuong-tro-tu-phap/)** - 165 điều khoản
+### [Tương trợ tư pháp](/tuong-tro-tu-phap/tuong-tro-tu-phap/)
+- **Số điều khoản:** 165
+- **Điều khoản có nội dung:** 138/165 (83.6%)
+- **STT:** 1
 
 
 ## 🔙 Quay lại
@@ -24,13 +28,11 @@ slug: tuong-tro-tu-phap
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1
 - **Tổng số điều khoản:** 165
-- **ID chủ đề:** 01684735-cbae-4b6f-9471-1010ab2f350a
+- **ID chủ đề:** 01684735cbae4b6f94711010ab2f350a
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

@@ -9,13 +9,17 @@ slug: hinh-su
 # Hình sự
 
 **Chủ đề:** Hình sự  
+**STT:** 16  
 **Số đề mục:** 1  
 **Số điều khoản:** 582  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Hình sự](/van-ban/hinh-su/hinh-su/)** - 582 điều khoản
+### [Hình sự](/hinh-su/hinh-su/)
+- **Số điều khoản:** 582
+- **Điều khoản có nội dung:** 453/582 (77.8%)
+- **STT:** 1
 
 
 ## 🔙 Quay lại
@@ -24,13 +28,11 @@ slug: hinh-su
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1
 - **Tổng số điều khoản:** 582
-- **ID chủ đề:** 0672ce80-caa2-4d12-a474-6d86349c9dab
+- **ID chủ đề:** 0672ce80caa24d12a4746d86349c9dab
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
