@@ -1,2142 +1,3404 @@
 ---
-layout: default
+layout: page
 title: Phổ biến, giáo dục pháp luật
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/pho-bien-giao-duc-phap-luat/
-collection: subtopics
-slug: pho-bien-giao-duc-phap-luat
-parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Phổ biến, giáo dục pháp luật
 
-**Đề mục:** Phổ biến, giáo dục pháp luật  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-**Số điều khoản:** 179  
-**Điều khoản có nội dung:** 107/162 (66.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 44.8.LQ.1. Phạm vi điều chỉnh
+Điều 44.8.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 14/2012/QH13 Phổ biến, giáo dục pháp luật ngày 20/06/2012 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2013 )
 
-**Chỉ mục:** 1
+Luật này quy định quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân; nội dung, hình thức phổ biến, giáo dục pháp luật; trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền và các điều kiện bảo đảm cho công tác phổ biến, giáo dục pháp luật.
 
-**Mã phân cấp:** 4400800000000000100000100000000000000000
+Điều 44.8.NĐ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00071789
+(Điều 1 Nghị định số 28/2013/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Phổ biến, giáo dục pháp luật ngày 04/04/2013 của Chính phủ, có hiệu lực thi hành kể từ ngày 27/05/2013 )
 
----
-
-
-### Điều 44.8.NĐ.1.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 4400800000000000100000140246860028000010
-
-**ID:** dk_00071790
-
----
-
-
-### Điều 44.8.QĐ.3.1. Phạm vi điều chỉnh, đối tượng áp dụng
+Nghị định này quy định chi tiết một số điều của Luật Phổ biến, giáo dục pháp luật về Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam, xã hội hóa công tác phổ biến, giáo dục pháp luật, các điều kiện bảo đảm cho công tác phổ biến, giáo dục pháp luật và một số biện pháp thi hành Luật này.
 
 Điều 44.8.QĐ.3.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 14/2019/QĐ-TTg Về xây dựng, quản lý, khai thác Tủ sách pháp luật ngày 13/03/2019 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 01/05/2019 )
 
-**Mã phân cấp:** 4400800000000000100000150268550014000010
+1. Quyết định này quy định về xây dựng, quản lý, khai thác Tủ sách pháp luật điện tử quốc gia; Tủ sách pháp luật tại xã đặc biệt khó khăn, xã biên giới, xã an toàn khu, xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo, xã thuộc các huyện nghèo (sau đây gọi chung là xã đặc biệt khó khăn) và Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân.
 
-**ID:** dk_00071791
+2. Việc xây dựng, quản lý, khai thác Tủ sách pháp luật không thuộc trường hợp quy định tại khoản 1 Điều này được thực hiện theo quy định tại khoản 2 Điều 15 của Quyết định này.
 
----
-
-
-### Điều 44.8.QĐ.5.1. Phạm vi điều chỉnh, đối tượng áp dụng
+3. Quyết định này áp dụng đối với cơ quan, tổ chức, cá nhân có trách nhiệm trong việc xây dựng, quản lý, khai thác, sử dụng Tủ sách pháp luật.
 
 Điều 44.8.QĐ.5.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 25/2021/QĐ-TTg Quy định về xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật ngày 22/07/2021 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2022 )
 
-**Mã phân cấp:** 4400800000000000100000150277170025000010
+1. Quyết định này quy định nguyên tắc, tiêu chí, điều kiện, trình tự, thủ tục, trách nhiệm của các cơ quan, tổ chức trong đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
-**ID:** dk_00071792
+2. Quyết định này áp dụng đối với xã, phường, thị trấn và các cơ quan, tổ chức, cá nhân liên quan đến đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
----
+Điều 44.8.TT.4.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 10/2016/TT-BTP Quy định về báo cáo viên pháp luật, tuyên truyền viên pháp luật ngày 22/07/2016 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 10/09/2016 )
 
-### Điều 44.8.TT.4.1. Phạm vi điều chỉnh
+Thông tư này quy định về việc công nhận, miễn nhiệm báo cáo viên pháp luật; công nhận, cho thôi làm tuyên truyền viên pháp luật và một số biện pháp bảo đảm hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật.
 
-*Nội dung chưa có sẵn*
+Điều 44.8.TT.6.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 03/2018/TT-BTP Quy định Bộ tiêu chí đánh giá hiệu quả công tác phổ biến, giáo dục pháp luật ngày 10/03/2018 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 01/07/2018 )
 
-**Mã phân cấp:** 4400800000000000100000180258910010000010
+Thông tư này quy định Bộ tiêu chí đánh giá hiệu quả công tác phổ biến, giáo dục pháp luật bao gồm nội dung Bộ Tiêu chí; đánh giá, chấm điểm, xếp loại hiệu quả công tác phổ biến, giáo dục pháp luật và biện pháp bảo đảm thực hiện.
 
-**ID:** dk_00071793
+Điều 44.8.TT.6.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 03/2018/TT-BTP, có hiệu lực thi hành kể từ ngày 01/07/2018)
 
+1. Bộ, cơ quan ngang bộ.
 
-### Điều 44.8.TT.6.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 4400800000000000100000180264870003000010
-
-**ID:** dk_00071794
-
----
-
-
-### Điều 44.8.TT.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4400800000000000100000180264870003000020
-
-**ID:** dk_00071795
-
----
-
-
-### Điều 44.8.TT.7.1. Phạm vi điều chỉnh, đối tượng áp dụng
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh).
 
 Điều 44.8.TT.7.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 07/2021/TT-BTP Quy định việc ban hành thông cáo báo chí về văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành ngày 01/11/2021 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 01/01/2022 )
 
-**Mã phân cấp:** 4400800000000000100000180278190007000010
+1. Thông tư này quy định việc xây dựng, ban hành thông cáo báo chí về văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành (sau đây gọi là Thông cáo báo chí) theo quy định tại Khoản 2 và Khoản 3 Điều 12 Luật Phổ biến, giáo dục pháp luật, trừ văn bản quy phạm pháp luật có nội dung thuộc bí mật nhà nước.
 
-**ID:** dk_00071796
+2. Thông tư này áp dụng đối với Bộ Tư pháp, Văn phòng Chính phủ và các cơ quan chủ trì soạn thảo văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành.
 
----
-
-
-### Điều 44.8.TT.8.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.12. Họp báo, thông cáo báo chí về văn bản quy phạm pháp luật)
 
 Điều 44.8.TT.8.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 09/2021/TT-BTP Hướng dẫn thi hành Quyết định số 25/2021/QĐ-TTg ngày 22 tháng 7 năm 2021 của Thủ tướng Chính phủ quy định về xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật ngày 15/11/2021 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 01/01/2022 )
 
-**Mã phân cấp:** 4400800000000000100000180278330009000010
+1. Phạm vi điều chỉnh
 
-**ID:** dk_00071797
+a) Thông tư này hướng dẫn thi hành khoản 6 Điều 3, khoản 5 Điều 5 Quyết định số [25/2021/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-25-2021-qd-ttg-xa-phuong-dat-chuan-tiep-can-phap-luat-482011.aspx) ngày 22 tháng 7 năm 2021 của Thủ tướng Chính phủ quy định về xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật, bao gồm: nội dung, điểm số, cách tính điểm các tiêu chí, chỉ tiêu xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật (sau đây gọi chung là các tiêu chí, chỉ tiêu); tài liệu đánh giá các tiêu chí, chỉ tiêu; quy trình, biểu mẫu phục vụ việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; thành phần, nhiệm vụ, quyền hạn của Hội đồng đánh giá chuẩn tiếp cận pháp luật;
 
----
+b) Trách nhiệm của các cơ quan, tổ chức, cá nhân có liên quan đến đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
+2. Đối tượng áp dụng
 
-### Điều 44.8.LQ.2. Quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân
+Thông tư này áp dụng đối với xã, phường, thị trấn và các cơ quan, tổ chức, cá nhân có liên quan đến đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
 Điều 44.8.LQ.2. Quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân
 
-**Chỉ mục:** 2
+(Điều 2 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000200000000000000000
+1. Công dân có quyền được thông tin về pháp luật và có trách nhiệm chủ động tìm hiểu, học tập pháp luật.
 
-**ID:** dk_00071798
-
----
-
-
-### Điều 44.8.LQ.3. Chính sách của Nhà nước về phổ biến, giáo dục pháp luật
+2. Nhà nước bảo đảm, tạo điều kiện cho công dân thực hiện quyền được thông tin về pháp luật.
 
 Điều 44.8.LQ.3. Chính sách của Nhà nước về phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000300000000000000000
+1. Phổ biến, giáo dục pháp luật là trách nhiệm của toàn bộ hệ thống chính trị, trong đó Nhà nước giữ vai trò nòng cốt.
 
-**ID:** dk_00071799
+2. Nhà nước bảo đảm nguồn lực cần thiết cho công tác phổ biến, giáo dục pháp luật.
 
----
+3. Thực hiện xã hội hóa công tác phổ biến, giáo dục pháp luật; khen thưởng cơ quan, tổ chức, cá nhân có đóng góp tích cực trong công tác phổ biến, giáo dục pháp luật.
 
+4. Giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân được lồng ghép trong chương trình giáo dục của các cấp học và trình độ đào tạo; là một nội dung trong chương trình giáo dục trung học cơ sở, trung học phổ thông, giáo dục nghề nghiệp, giáo dục đại học.
 
-### Điều 44.8.LQ.4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
+(Điều này có nội dung liên quan đến Mục 4. PHỐI HỢP THỰC HIỆN CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG NHÀ TRƯỜNG; của ; Mục 1 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHUNG CHO CÔNG DÂN)
 
 Điều 44.8.LQ.4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000400000000000000000
+Nhà nước khuyến khích và có chính sách hỗ trợ, tạo điều kiện đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật; huy động các nguồn lực xã hội đóng góp cho công tác phổ biến, giáo dục pháp luật.
 
-**ID:** dk_00071800
-
----
-
-
-### Điều 44.8.NĐ.1.8. Chính sách hỗ trợ tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật
+Căn cứ tình hình kinh tế - xã hội của từng thời kỳ, Chính phủ quy định cụ thể chính sách hỗ trợ đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật.
 
 Điều 44.8.NĐ.1.8. Chính sách hỗ trợ tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000040000000000000000000402468600280000800
+1. Tổ chức, doanh nghiệp tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật được hưởng các chính sách hỗ trợ sau đây:
 
-**ID:** dk_00071801
+a) Được cơ quan nhà nước cấp phát tài liệu pháp luật, cung cấp thông tin miễn phí về chính sách, pháp luật liên quan đến lĩnh vực pháp luật được phổ biến, giáo dục; được bồi dưỡng kiến thức pháp luật, nghiệp vụ, kỹ năng phổ biến, giáo dục pháp luật không thu tiền trong trường hợp tham gia thực hiện phổ biến, giáo dục pháp luật bằng nguồn kinh phí của mình;
 
----
+b) Được thực hiện hoạt động quảng cáo khi tham gia phổ biến, giáo dục pháp luật miễn phí hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật trên cơ sở thỏa thuận bằng văn bản giữa các bên phù hợp với quy định của pháp luật về quảng cáo;
 
+c) Được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.
 
-### Điều 44.8.NĐ.1.9. Xã hội hóa công tác phổ biến, giáo dục pháp luật đối với một số tổ chức hành nghề về pháp luật và tổ chức xã hội nghề nghiệp về pháp luật
+2. Cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật được hưởng các chính sách hỗ trợ sau đây:
+
+a) Được hưởng chính sách quy định tại Điểm a, Điểm c Khoản 1 Điều này;
+
+b) Người làm công tác phổ biến, giáo dục pháp luật cho đối tượng quy định tại Điều 17 và Điều 20 Luật Phổ biến, giáo dục pháp luật mà không hưởng lương từ ngân sách nhà nước; già làng, trưởng bản, người có uy tín trong cộng đồng các dân tộc thiểu số tham gia thực hiện phổ biến, giáo dục pháp luật được hưởng chính sách quy định tại Điểm a, Điểm c Khoản 1 Điều này; hưởng thù lao và chế độ khi tham gia phổ biến, giáo dục pháp luật;
+
+c) Giáo viên dạy môn giáo dục công dân cho người khuyết tật theo phương thức giáo dục hòa nhập được hưởng phụ cấp ưu đãi đối với nhà giáo trực tiếp giảng dạy người khuyết tật theo phương thức giáo dục hòa nhập tại Nghị định số 28/2012/NĐ-CP ngày 10 tháng 4 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người khuyết tật.
+
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.17. Phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân; Điều 44.8.LQ.20. Phổ biến, giáo dục pháp luật cho người khuyết tật; Điều 12.2.NĐ.8. Xây dựng tài liệu giới thiệu, phổ biến các văn bản quy phạm pháp luật; Điều 6.3.NĐ.1.7. Phụ cấp, chính sách ưu đãi đối với nhà giáo, cán bộ quản lý giáo dục, nhân viên hỗ trợ giáo dục người khuyết tật; Điều 44.8.NĐ.1.9. Xã hội hóa công tác phổ biến, giáo dục pháp luật đối với một số tổ chức hành nghề về pháp luật và tổ chức xã hội nghề nghiệp về pháp luật)
 
 Điều 44.8.NĐ.1.9. Xã hội hóa công tác phổ biến, giáo dục pháp luật đối với một số tổ chức hành nghề về pháp luật và tổ chức xã hội nghề nghiệp về pháp luật
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000040000000000000000000402468600280000900
+1. Nhà nước khuyến khích Hội Luật gia Việt Nam, Liên đoàn Luật sư Việt Nam, các hội công chứng, các tổ chức xã hội - nghề nghiệp khác về pháp luật, trung tâm tư vấn pháp luật, tổ chức hành nghề luật sư, công chứng tham gia thực hiện phổ biến, giáo dục pháp luật miễn phí cho nhân dân; tạo điều kiện cho thành viên của tổ chức mình tham gia phổ biến, giáo dục pháp luật miễn phí cho nhân dân thông qua hoạt động chuyên môn hoặc theo yêu cầu của cá nhân, tổ chức.
 
-**ID:** dk_00071802
+2. Hội Luật gia Việt Nam, Liên đoàn Luật sư Việt Nam, hội công chứng, các tổ chức xã hội - nghề nghiệp khác về pháp luật hướng dẫn việc tham gia phổ biến, giáo dục pháp luật miễn phí hằng năm của luật gia, luật sư, công chứng viên, hội viên.
 
----
+3. Hội Luật gia các cấp, Liên đoàn Luật sư Việt Nam và Đoàn luật sư các tỉnh, thành phố trực thuộc Trung ương, hội công chứng, các tổ chức xã hội - nghề nghiệp khác về pháp luật, trung tâm tư vấn pháp luật, tổ chức hành nghề luật sư, công chứng và các thành viên của các tổ chức này tham gia thực hiện phổ biến, giáo dục pháp luật được hưởng chính sách quy định tại Khoản 1 Điều 8 Nghị định này.
 
-
-### Điều 44.8.LQ.5. Các nguyên tắc phổ biến, giáo dục pháp luật
+(Điều này có nội dung liên quan đến Điều 44.8.NĐ.1.8. Chính sách hỗ trợ tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật)
 
 Điều 44.8.LQ.5. Các nguyên tắc phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000500000000000000000
+1. Chính xác, đầy đủ, rõ ràng, dễ hiểu, thiết thực.
 
-**ID:** dk_00071803
+2. Kịp thời, thường xuyên, có trọng tâm, trọng điểm.
 
----
+3. Đa dạng các hình thức phổ biến, giáo dục pháp luật, phù hợp với nhu cầu, lứa tuổi, trình độ của đối tượng được phổ biến, giáo dục pháp luật và truyền thống, phong tục, tập quán tốt đẹp của dân tộc.
 
+4. Gắn với việc thi hành pháp luật, thực hiện nhiệm vụ phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh của đất nước, của địa phương và đời sống hằng ngày của người dân.
 
-### Điều 44.8.LQ.6. Quản lý nhà nước về phổ biến, giáo dục pháp luật
+5. Phối hợp chặt chẽ giữa cơ quan, tổ chức, gia đình và xã hội.
 
 Điều 44.8.LQ.6. Quản lý nhà nước về phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000600000000000000000
+1. Nội dung quản lý nhà nước về phổ biến, giáo dục pháp luật bao gồm:
 
-**ID:** dk_00071804
+a) Xây dựng, ban hành văn bản quy phạm pháp luật, chương trình, kế hoạch về phổ biến, giáo dục pháp luật;
 
----
+b) Chỉ đạo, hướng dẫn và tổ chức thực hiện công tác phổ biến, giáo dục pháp luật;
 
+c) Bồi dưỡng kiến thức pháp luật, nghiệp vụ phổ biến, giáo dục pháp luật;
 
-### Điều 44.8.NĐ.1.2. Trách nhiệm của Bộ Tư pháp
+d) Xây dựng và quản lý cơ sở dữ liệu quốc gia về pháp luật;
 
-*Nội dung chưa có sẵn*
+đ) Thống kê, tổng kết về phổ biến, giáo dục pháp luật;
 
-**Chỉ mục:** 2
+e) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm trong phổ biến, giáo dục pháp luật;
 
-**Mã phân cấp:** 440080000000000010000060000000000000000000402468600280000200
+g) Hợp tác quốc tế về phổ biến, giáo dục pháp luật.
 
-**ID:** dk_00071805
+2. Cơ quan quản lý nhà nước về phổ biến, giáo dục pháp luật bao gồm:
 
----
+a) Chính phủ thống nhất quản lý nhà nước về phổ biến, giáo dục pháp luật;
 
+b) Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về phổ biến, giáo dục pháp luật; chủ trì xây dựng, trình Thủ tướng Chính phủ ban hành chương trình, kế hoạch dài hạn, trung hạn về phổ biến, giáo dục pháp luật; chủ trì xây dựng cơ sở dữ liệu quốc gia về pháp luật;
 
-### Điều 44.8.NĐ.1.3. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+c) Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Tư pháp thực hiện quản lý nhà nước về phổ biến, giáo dục pháp luật;
+
+d) Uỷ ban nhân dân các cấp có trách nhiệm thực hiện quản lý nhà nước về phổ biến, giáo dục pháp luật tại địa phương.
+
+(Điều này có nội dung liên quan đến Điều 2. Cơ sở dữ liệu quốc gia về pháp luật của Nghị định 52/2015/NĐ-CP Cơ sở dữ liệu quốc gia về pháp luật ban hành ngày 28/05/2015; Điều 44.8.NĐ.1.2. Trách nhiệm của Bộ Tư pháp; Điều 44.8.NĐ.1.3. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Điều 44.8.NĐ.1.4. Trách nhiệm của Ủy ban nhân dân các cấp)
+
+Điều 44.8.NĐ.1.2. Trách nhiệm của Bộ Tư pháp
+
+(Điều 2 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
+
+Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện nhiệm vụ quy định tại Khoản 1 Điều 6, Khoản 1 Điều 25 Luật Phổ biến, giáo dục pháp luật và có trách nhiệm thực hiện các nhiệm vụ sau đây:
+
+1. Ban hành các quy định về chuyên môn, nghiệp vụ, tiêu chuẩn, quy tắc nghề nghiệp phổ biến, giáo dục pháp luật.
+
+2. Đôn đốc, kiểm tra các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp về tổ chức Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+3. Phối hợp với các Bộ, ngành, địa phương và các tổ chức liên quan thực hiện chính sách xã hội hóa công tác phổ biến, giáo dục pháp luật.
+
+4. Ban hành Bộ tiêu chí đánh giá hiệu quả công tác phổ biến, giáo dục pháp luật.
+
+5. Tổng hợp, thống kê, báo cáo Chính phủ về công tác phổ biến, giáo dục pháp luật trong phạm vi cả nước.
+
+6. Sơ kết, tổng kết, khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong tổ chức, thực hiện Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam và thực hiện xã hội hóa công tác phổ biến, giáo dục pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.6. Quản lý nhà nước về phổ biến, giáo dục pháp luật; Điều 44.8.LQ.25. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ)
 
 Điều 44.8.NĐ.1.3. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000060000000000000000000402468600280000300
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ thực hiện nhiệm vụ quy định tại Khoản 1 Điều 6, Khoản 1 Điều 25 Luật Phổ biến, giáo dục pháp luật và có trách nhiệm thực hiện các nhiệm vụ sau đây:
 
-**ID:** dk_00071806
+a) Tổ chức thực hiện công tác phổ biến, giáo dục pháp luật theo chức năng, nhiệm vụ và hướng dẫn của Bộ Tư pháp;
 
----
+b) Chỉ đạo, đôn đốc, kiểm tra các cơ quan, đơn vị trực thuộc trong việc tổ chức Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
+c) Thực hiện việc thống kê, báo cáo Bộ Tư pháp về công tác phổ biến, giáo dục pháp luật;
 
-### Điều 44.8.NĐ.1.4. Trách nhiệm của Ủy ban nhân dân các cấp
+d) Sơ kết, tổng kết, khen thưởng các tập thể, cá nhân trong ngành, lĩnh vực có thành tích xuất sắc trong việc tổ chức Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam và thực hiện xã hội hóa công tác phổ biến, giáo dục pháp luật;
+
+đ) Bảo đảm kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật.
+
+2. Tổ chức pháp chế các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm tham mưu cho Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ thực hiện nhiệm vụ quy định tại Khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh của Thông tư 04/2016/TT-BTP Quy định một số nội dung về hoạt động thống kê của Ngành Tư pháp ban hành ngày 03/03/2016; Điều 44.8.LQ.6. Quản lý nhà nước về phổ biến, giáo dục pháp luật; Điều 44.8.LQ.25. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Điều 44.3.TT.1.19. Tổ chức pháp chế ở Bộ, cơ quan ngang Bộ; Điều 44.3.TT.1.20. Tổ chức pháp chế ở cơ quan thuộc Chính phủ; Điều 44.3.TT.1.21. Tổ chức pháp chế ở Tổng cục và tương đương, Cục thuộc Bộ, cơ quan ngang Bộ; Điều 44.3.TT.1.22. Tổ chức pháp chế ở cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh)
 
 Điều 44.8.NĐ.1.4. Trách nhiệm của Ủy ban nhân dân các cấp
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000060000000000000000000402468600280000400
+1. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (gọi tắt là Ủy ban nhân dân cấp tỉnh), Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh (gọi tắt là Ủy ban nhân dân cấp huyện) thực hiện nhiệm vụ quy định tại Khoản 1 Điều 6, Khoản 2 Điều 27 Luật Phổ biến, giáo dục pháp luật và có trách nhiệm thực hiện các nhiệm vụ sau đây:
 
-**ID:** dk_00071807
+a) Tổ chức thực hiện công tác phổ biến, giáo dục pháp luật theo trách nhiệm quản lý trên địa bàn và hướng dẫn của Bộ Tư pháp;
 
----
+b) Đôn đốc, kiểm tra các cơ quan chuyên môn trực thuộc, Ủy ban nhân dân cấp dưới trong việc tổ chức Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam trên địa bàn;
 
+c) Thực hiện việc thống kê, báo cáo về công tác phổ biến, giáo dục pháp luật;
 
-### Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật
+d) Sơ kết, tổng kết, khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong việc tổ chức, thực hiện Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam và thực hiện xã hội hóa công tác phổ biến, giáo dục pháp luật tại địa phương;
+
+đ) Bảo đảm kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật.
+
+2. Ủy ban nhân dân xã, phường, thị trấn thực hiện nhiệm vụ quy định tại Khoản 1 Điều 6, Khoản 2 Điều 27 Luật Phổ biến, giáo dục pháp luật và có trách nhiệm sau đây:
+
+a) Tổ chức thực hiện công tác phổ biến, giáo dục pháp luật trên địa bàn theo hướng dẫn của Ủy ban nhân dân cấp huyện;
+
+b) Đôn đốc, kiểm tra các cơ quan, tổ chức trên địa bàn tổ chức Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+
+c) Thực hiện việc thống kê, báo cáo về công tác phổ biến, giáo dục pháp luật theo chỉ đạo của Ủy ban nhân dân cấp huyện;
+
+d) Sơ kết, tổng kết, khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong việc tổ chức, thực hiện Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam và thực hiện xã hội hóa công tác phổ biến, giáo dục pháp luật trên địa bàn;
+
+đ) Bảo đảm kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật.
+
+3. Sở Tư pháp, Phòng Tư pháp, công chức Tư pháp - Hộ tịch có trách nhiệm tham mưu cho Ủy ban nhân dân cùng cấp trong việc thực hiện nhiệm vụ quy định tại Khoản 1 và Khoản 2 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.6. Quản lý nhà nước về phổ biến, giáo dục pháp luật; Điều 44.8.LQ.27. Trách nhiệm của chính quyền các cấp ở địa phương)
 
 Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000700000000000000000
+1. Hội đồng phối hợp phổ biến, giáo dục pháp luật được thành lập ở trung ương, tỉnh, thành phố trực thuộc trung ương, huyện, quận, thị xã, thành phố thuộc tỉnh, là cơ quan tư vấn cho Chính phủ, Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện về công tác phổ biến, giáo dục pháp luật và huy động nguồn lực cho công tác phổ biến, giáo dục pháp luật.
 
-**ID:** dk_00071808
+2. Cơ quan thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật của Chính phủ là Bộ Tư pháp, của Ủy ban nhân dân cấp tỉnh là Sở Tư pháp, của Ủy ban nhân dân cấp huyện là Phòng Tư pháp.
 
----
+3. Thủ tướng Chính phủ quy định chi tiết về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật.
 
-
-### Điều 44.8.QĐ.4.1. Thành phần của Hội đồng phối hợp phổ biến, giáo dục pháp luật
+(Điều này có nội dung liên quan đến Điều 44.8.QĐ.3.1. Thành phần của Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.3.2. Nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.3.3. Nhiệm vụ, quyền hạn và trách nhiệm của Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật của Quyết định 27/2013/QĐ-TTg Quy định về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật ban hành ngày 19/05/2013; Điều 44.8.QĐ.4.1. Thành phần của Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.2. Nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.3. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.4. Nhiệm vụ, quyền hạn, trách nhiệm của Phó Chủ tịch Thường trực và Phó Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.5. Nhiệm vụ, quyền hạn và trách nhiệm của Ủy viên Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.6. Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký; Điều 44.8.QĐ.4.7. Chế độ làm việc và thông tin, báo cáo của Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.8. Kinh phí hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký)
 
 Điều 44.8.QĐ.4.1. Thành phần của Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 21/2021/QĐ-TTg Quy định về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật. ngày 21/06/2021 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 08/08/2021 )
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000100
+ 1. Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương do Thủ tướng Chính phủ thành lập gồm các thành phần sau đây:
 
-**ID:** dk_00071809
+ a) Chủ tịch Hội đồng: Phó Thủ tướng Chính phủ.
 
----
+ b) Phó Chủ tịch Thường trực Hội đồng: Bộ trưởng Bộ Tư pháp.
 
+ c) Các Phó Chủ tịch Hội đồng:
 
-### Điều 44.8.QĐ.4.2. Nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật
+ - Thứ trưởng Bộ Tư pháp;
+
+ - Phó Chủ nhiệm Văn phòng Chính phủ;
+
+ - Mời Phó Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam làm Phó Chủ tịch Hội đồng.
+
+ d) Các Ủy viên Hội đồng là đại diện lãnh đạo các cơ quan, tổ chức sau: Bộ Quốc phòng, Bộ Công an, Bộ Nội vụ, Thanh tra Chính phủ, Bộ Thông tin và Truyền thông, Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, Bộ Văn hóa, Thể thao và Du lịch, Bộ Giao thông vận tải, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế, Bộ Tài chính, Bộ Công Thương, Bộ Kế hoạch và Đầu tư, Bộ Xây dựng, Bộ Ngoại giao, Ủy ban Dân tộc, Thông tấn xã Việt Nam, Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam. 
+
+ Mời đại diện lãnh đạo Ban Nội chính Trung ương, Ban Tuyên giáo Trung ương, Ban Dân vận Trung ương, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Trung ương Hội Cựu chiến binh Việt Nam, Tổng Liên đoàn Lao động Việt Nam, Trung ương Hội Nông dân Việt Nam, Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh, Trung ương Hội Luật gia Việt Nam, Liên đoàn Luật sư Việt Nam, Phòng Thương mại và Công nghiệp Việt Nam (VCCI) làm Ủy viên Hội đồng.
+
+ 2. Căn cứ vào thành phần Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương và yêu cầu thực tiễn của địa phương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là cấp tỉnh), Chủ tịch Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là cấp huyện) quyết định thành phần, số lượng thành viên Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp tỉnh, cấp huyện, trong đó đại diện lãnh đạo Ủy ban nhân dân cấp tỉnh, lãnh đạo Ủy ban nhân dân cấp huyện làm Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật cùng cấp.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.2. Nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 2
+(Điều 2 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000200
+ 1. Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương tư vấn giúp Chính phủ, Thủ tướng Chính phủ chỉ đạo, phối hợp thực hiện các nhiệm vụ sau đây:
 
-**ID:** dk_00071810
+ a) Xây dựng, thực hiện các giải pháp nhằm tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật;
 
----
+ b) Hoàn thiện thể chế, pháp luật về công tác phổ biến, giáo dục pháp luật; xây dựng, ban hành và đôn đốc, kiểm tra việc tổ chức thực hiện chương trình, kế hoạch về phổ biến, giáo dục pháp luật của Chính phủ;
 
+ c) Truyền thông chính sách pháp luật để tạo sự thống nhất, đồng thuận xã hội, huy động Nhân dân tham gia xây dựng, hoàn thiện pháp luật và tổ chức thực hiện pháp luật hiệu quả;
 
-### Điều 44.8.QĐ.4.3. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật
+ d) Triển khai công tác phổ biến, giáo dục pháp luật trong các lĩnh vực, địa bàn, đối tượng cần có sự phối hợp liên ngành để thực hiện các mục tiêu phát triển kinh tế - xã hội và bảo đảm quốc phòng, an ninh của đất nước; thực hiện chuyển đổi số trong công tác phổ biến, giáo dục pháp luật trên phạm vi toàn quốc;
+
+ đ) Thực hiện các giải pháp nhằm đẩy mạnh chính sách xã hội hóa, huy động các tổ chức, cá nhân tham gia thực hiện công tác phổ biến, giáo dục pháp luật, truyền thông về chính sách pháp luật;
+
+ e) Thực hiện các nhiệm vụ khác được Chính phủ, Thủ tướng Chính phủ giao.
+
+ 2. Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp tỉnh, Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp huyện tư vấn cho Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cùng cấp thực hiện các nhiệm vụ sau đây:
+
+ a) Xây dựng, thực hiện các giải pháp nhằm tăng cường sự lãnh đạo của cấp ủy Đảng trên địa bàn trong công tác phổ biến, giáo dục pháp luật;
+
+ b) Đề xuất cấp ủy, chính quyền địa phương ban hành văn bản về cơ chế, giải pháp nâng cao hiệu quả công tác phổ biến, giáo dục pháp luật;
+
+ c) Xây dựng chương trình, đề án, kế hoạch của Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cùng cấp về phổ biến, giáo dục pháp luật và truyền thông chính sách pháp luật tại địa phương;
+
+ d) Triển khai công tác phổ biến, giáo dục pháp luật trong các lĩnh vực, địa bàn, đối tượng cần có sự phối hợp liên ngành để thực hiện các mục tiêu phát triển kinh tế - xã hội và bảo đảm quốc phòng, an ninh tại địa phương;
+
+ đ) Hướng dẫn tổ chức hưởng ứng Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam tại địa phương; thực hiện chuyển đổi số trong công tác phổ biến, giáo dục pháp luật trên địa bàn;
+
+ e) Thực hiện các giải pháp nhằm đẩy mạnh chính sách xã hội hóa, huy động các tổ chức, cá nhân tham gia thực hiện công tác phổ biến, giáo dục pháp luật, truyền thông về chính sách pháp luật;
+
+ g) Thực hiện các nhiệm vụ khác được Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cùng cấp giao.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.3. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 3
+(Điều 3 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000300
+ 1. Tổ chức thực hiện các nhiệm vụ của Hội đồng phối hợp phổ biến, giáo dục pháp luật; chịu trách nhiệm trước người có thẩm quyền quyết định thành lập Hội đồng phối hợp phổ biến, giáo dục pháp luật và trước pháp luật về hoạt động của Hội đồng.
 
-**ID:** dk_00071811
+ 2. Ban hành Danh sách thành viên Hội đồng, Quy chế hoạt động của Hội đồng; phê duyệt chương trình, kế hoạch hoạt động của Hội đồng, kết luận và văn bản khác của Hội đồng theo đề nghị của Phó Chủ tịch Thường trực Hội đồng.
 
----
+ 3. Chỉ đạo chung hoạt động của Hội đồng; điều hành, phân công nhiệm vụ cho Phó Chủ tịch Thường trực Hội đồng, Phó Chủ tịch Hội đồng và các Ủy viên Hội đồng thực hiện nhiệm vụ theo kế hoạch hoạt động và lĩnh vực công tác; đôn đốc, kiểm tra việc thực hiện các nhiệm vụ đã giao.
 
+ 4. Triệu tập, chủ trì các phiên họp của Hội đồng.
 
-### Điều 44.8.QĐ.4.4. Nhiệm vụ, quyền hạn, trách nhiệm của Phó Chủ tịch Thường trực và Phó Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật
+ 5. Huy động chuyên gia, nhà khoa học, nhà hoạt động thực tiễn, các doanh nghiệp, tổ chức có liên quan tham gia triển khai các nhiệm vụ của Hội đồng khi cần thiết.
+
+ 6. Thực hiện chế độ báo cáo về tổ chức và hoạt động của Hội đồng.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.4. Nhiệm vụ, quyền hạn, trách nhiệm của Phó Chủ tịch Thường trực và Phó Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000400
+ 1. Phó Chủ tịch Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật xử lý các công việc có tính chất thường xuyên của Hội đồng và thực hiện một số nhiệm vụ sau đây:
 
-**ID:** dk_00071812
+ a) Thực hiện các nhiệm vụ được Chủ tịch Hội đồng phân công; chịu trách nhiệm trước Hội đồng, Chủ tịch Hội đồng và trước pháp luật về việc thực hiện các nhiệm vụ được phân công;
 
----
+ b) Giúp Chủ tịch Hội đồng điều hành hoạt động chung của Hội đồng, chỉ đạo, theo dõi, đôn đốc việc tổ chức các hoạt động của Hội đồng theo kế hoạch, chương trình công tác được Chủ tịch Hội đồng chỉ đạo, phê duyệt hoặc chỉ đạo của Chính phủ, Thủ tướng Chính phủ; Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cùng cấp;
 
+ c) Đôn đốc các thành viên Hội đồng tổ chức triển khai công tác phổ biến, giáo dục pháp luật thuộc phạm vi quản lý theo chương trình, kế hoạch hoạt động của Hội đồng;
 
-### Điều 44.8.QĐ.4.5. Nhiệm vụ, quyền hạn và trách nhiệm của Ủy viên Hội đồng phối hợp phổ biến, giáo dục pháp luật
+ d) Đề xuất, trình Chủ tịch Hội đồng ban hành Quy chế hoạt động của Hội đồng, chương trình, kế hoạch hoạt động và văn bản khác của Hội đồng;
+
+ đ) Thực hiện nhiệm vụ, quyền hạn và trách nhiệm quy định tại Điều 5 của Quyết định này;
+
+ e) Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng giao.
+
+ 2. Phó Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật có nhiệm vụ, quyền hạn và trách nhiệm sau đây:
+
+ a) Thực hiện nhiệm vụ do Chủ tịch Hội đồng, Phó Chủ tịch Thường trực Hội đồng phân công hoặc ủy quyền;
+
+ b) Thực hiện nhiệm vụ, quyền hạn và trách nhiệm quy định tại điểm a khoản 1 Điều này và Điều 5 của Quyết định này.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.5. Nhiệm vụ, quyền hạn và trách nhiệm của Ủy viên Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.5. Nhiệm vụ, quyền hạn và trách nhiệm của Ủy viên Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 5
+(Điều 5 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000500
+ 1. Tham gia đầy đủ các hoạt động của Hội đồng; thực hiện các nhiệm vụ được Chủ tịch Hội đồng phân công và chịu trách nhiệm trước Hội đồng, Chủ tịch Hội đồng và trước pháp luật về việc thực hiện nhiệm vụ. Ủy viên Hội đồng là đại diện chính thức của cơ quan, tổ chức nơi công tác trong quá trình tham gia thực hiện chức năng, nhiệm vụ và các hoạt động khác của Hội đồng.
 
-**ID:** dk_00071813
+ 2. Tham mưu, đề xuất Chủ tịch Hội đồng và Hội đồng các giải pháp, nhiệm vụ trọng tâm về phổ biến, giáo dục pháp luật chuyên ngành thuộc phạm vi quản lý và công tác phối hợp với các thành viên Hội đồng để tổ chức thực hiện.
 
----
+ 3. Giúp Thủ trưởng cơ quan, tổ chức mà mình là đại diện làm thành viên Hội đồng chỉ đạo, hướng dẫn hoặc trực tiếp chỉ đạo, hướng dẫn triển khai công tác phổ biến, giáo dục pháp luật thuộc phạm vi quản lý; chuyển đổi số công tác phổ biến, giáo dục pháp luật trong ngành, lĩnh vực phụ trách; định kỳ báo cáo Hội đồng (06 tháng, hàng năm) và đề xuất giải pháp tháo gỡ vướng mắc, bất cập phát sinh từ công tác phổ biến, giáo dục pháp luật thuộc phạm vi quản lý.
 
-
-### Điều 44.8.QĐ.4.6. Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký
+ 4. Được cung cấp thông tin, tài liệu liên quan đến hoạt động của Hội đồng.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật; Điều 44.8.QĐ.4.4. Nhiệm vụ, quyền hạn, trách nhiệm của Phó Chủ tịch Thường trực và Phó Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.6. Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký
 
-**Chỉ mục:** 6
+(Điều 6 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000600
+ 1. Bộ Tư pháp thực hiện nhiệm vụ Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương; Sở Tư pháp, Phòng Tư pháp thực hiện nhiệm vụ Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp tỉnh, cấp huyện.
 
-**ID:** dk_00071814
+ 2. Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật có nhiệm vụ, quyền hạn sau đây:
 
----
+ a) Làm đầu mối tham mưu giúp Hội đồng, Chủ tịch Hội đồng, Phó Chủ tịch Thường trực Hội đồng triển khai thực hiện các nhiệm vụ, quyền hạn quy định tại Điều 2, Điều 3, khoản 1 Điều 4 của Quyết định này;
 
+ b) Chủ trì tham mưu xây dựng các chương trình, kế hoạch hoạt động, kết luận và các văn bản khác của Hội đồng; theo dõi, tổng hợp tình hình triển khai các văn bản này;
 
-### Điều 44.8.QĐ.4.7. Chế độ làm việc và thông tin, báo cáo của Hội đồng phối hợp phổ biến, giáo dục pháp luật
+ c) Tham mưu, giúp Hội đồng cho ý kiến đối với dự thảo chương trình, kế hoạch, đề án về phổ biến, giáo dục pháp luật thuộc thẩm quyền ban hành của Chính phủ, Thủ tướng Chính phủ, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cùng cấp;
+
+ d) Đảm bảo các điều kiện hoạt động của Hội đồng, phân công các đơn vị chức năng trực thuộc để thực hiện nhiệm vụ của Hội đồng;
+
+ đ) Quản lý kinh phí, cơ sở vật chất, phương tiện làm việc của Hội đồng theo quy định của pháp luật;
+
+ e) Quyết định việc thành lập, thành phần và nhiệm vụ, quyền hạn của Tổ Thư ký giúp việc Hội đồng phối hợp phổ biến, giáo dục pháp luật;
+
+ g) Thực hiện các nhiệm vụ khác được Chủ tịch Hội đồng, Phó Chủ tịch Thường trực Hội đồng, Phó Chủ tịch Hội đồng giao.
+
+ 3. Tổ Thư ký giúp việc Hội đồng phối hợp phổ biến, giáo dục pháp luật hoạt động theo chế độ kiêm nhiệm.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.7. Chế độ làm việc và thông tin, báo cáo của Hội đồng phối hợp phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 7
+(Điều 7 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000700
+ 1. Các thành viên của Hội đồng phối hợp phổ biến, giáo dục pháp luật làm việc theo chế độ kiêm nhiệm.
 
-**ID:** dk_00071815
+ 2. Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương sử dụng con dấu của Thủ tướng Chính phủ; Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp tỉnh, cấp huyện sử dụng con dấu của Ủy ban nhân dân cùng cấp; Phó Chủ tịch Thường trực Hội đồng, Phó Chủ tịch Hội đồng, Ủy viên Hội đồng sử dụng con dấu của cơ quan, tổ chức nơi công tác.
 
----
-
-
-### Điều 44.8.QĐ.4.8. Kinh phí hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký
+ 3. Hội đồng có trách nhiệm báo cáo định kỳ, đột xuất theo yêu cầu của cấp có thẩm quyền về tình hình hoạt động của Hội đồng.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.QĐ.4.8. Kinh phí hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký
 
-**Chỉ mục:** 8
+(Điều 8 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 440080000000000010000070000000000000000000502768600210000800
-
-**ID:** dk_00071816
-
----
-
-
-### Điều 44.8.LQ.8. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ Kinh phí hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật, Tổ Thư ký giúp việc Hội đồng do ngân sách nhà nước bảo đảm; được bố trí trong dự toán chi thường xuyên của Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật các cấp và huy động từ các nguồn hỗ trợ, nguồn kinh phí hợp pháp khác theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật)
 
 Điều 44.8.LQ.8. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000100000800000000000000000
+Ngày 09 tháng 11 hằng năm là Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ngày Pháp luật được tổ chức nhằm tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi người trong xã hội.
 
-**ID:** dk_00071817
-
----
-
-
-### Điều 44.8.NĐ.1.5. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
+Chính phủ quy định chi tiết Điều này.
 
 Điều 44.8.NĐ.1.5. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000080000000000000000000402468600280000500
+Ngày Pháp luật của nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây gọi tắt là Ngày Pháp luật) được tổ chức hằng năm vào ngày 09 tháng 11, bảo đảm thiết thực, hiệu quả.
 
-**ID:** dk_00071818
-
----
-
-
-### Điều 44.8.NĐ.1.6. Nội dung, hình thức tổ chức Ngày Pháp luật
+Nội dung, hình thức và trách nhiệm tổ chức Ngày Pháp luật được thực hiện theo quy định tại Điều 6 và Điều 7 Nghị định này.
 
 Điều 44.8.NĐ.1.6. Nội dung, hình thức tổ chức Ngày Pháp luật
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000080000000000000000000402468600280000600
+1. Ngày Pháp luật được tổ chức với các nội dung sau đây:
 
-**ID:** dk_00071819
+a) Khẳng định vị trí, vai trò của Hiến pháp, pháp luật trong quản lý nhà nước và đời sống xã hội;
 
----
+b) Giáo dục cán bộ, công chức, viên chức và người dân ý thức tôn trọng và chấp hành pháp luật; ý thức bảo vệ pháp luật; lợi ích của việc chấp hành pháp luật;
 
+c) Tuyên truyền, phổ biến các quy định của Hiến pháp, pháp luật thiết thực với đời sống của nhân dân, gắn với chức năng, nhiệm vụ của cơ quan, đơn vị;
 
-### Điều 44.8.NĐ.1.7. Trách nhiệm hướng dẫn nội dung, hình thức tổ chức Ngày Pháp luật và trách nhiệm tổ chức Ngày Pháp luật
+d) Vận động nhân dân nghiêm chỉnh chấp hành pháp luật;
+
+đ) Biểu dương, khen thưởng các tập thể, cá nhân tiêu biểu trong xây dựng pháp luật, thực thi pháp luật, phổ biến, giáo dục pháp luật, gương người tốt, việc tốt trong thực hiện pháp luật;
+
+e) Nội dung khác theo hướng dẫn của Bộ Tư pháp.
+
+2. Ngày Pháp luật có thể được tổ chức dưới các hình thức sau đây:
+
+a) Mít tinh; hội thảo; tọa đàm;
+
+b) Thi tìm hiểu pháp luật;
+
+c) Tuyên truyền, phổ biến pháp luật lưu động; triển lãm;
+
+d) Các hình thức khác theo hướng dẫn của Bộ Tư pháp.
 
 Điều 44.8.NĐ.1.7. Trách nhiệm hướng dẫn nội dung, hình thức tổ chức Ngày Pháp luật và trách nhiệm tổ chức Ngày Pháp luật
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000010000080000000000000000000402468600280000700
+1. Trách nhiệm hướng dẫn nội dung, hình thức tổ chức Ngày Pháp luật
 
-**ID:** dk_00071820
+a) Hằng năm, Bộ Tư pháp hướng dẫn nội dung, hình thức tổ chức Ngày Pháp luật trong phạm vi cả nước;
 
----
+b) Trên cơ sở hướng dẫn tổ chức Ngày Pháp luật của Bộ Tư pháp, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp hướng dẫn về nội dung, hình thức tổ chức Ngày Pháp luật; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam hướng dẫn nội dung, hình thức tổ chức Ngày Pháp luật cho các tổ chức thành viên.
 
+2. Trách nhiệm tổ chức Ngày Pháp luật
 
-### Điều 44.8.LQ.9. Các hành vi bị cấm
+a) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm tổ chức Ngày Pháp luật;
 
-*Nội dung chưa có sẵn*
+b) Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và người đứng đầu cơ quan trung ương của các tổ chức thành viên của Mặt trận trên cơ sở chức năng, nhiệm vụ của mình tổ chức Ngày Pháp luật cho các hội viên, đoàn viên của tổ chức mình.
 
-**Chỉ mục:** 9
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.17. Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật)
 
-**Mã phân cấp:** 4400800000000000100000900000000000000000
+Điều 44.8.LQ.9. Các hành vi bị cấm
 
-**ID:** dk_00071821
+(Điều 9 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
----
+1. Truyền đạt sai lệch, phê phán nội dung pháp luật được phổ biến; không cung cấp thông tin, tài liệu theo quy định của pháp luật; cung cấp thông tin, tài liệu có nội dung sai sự thật, trái pháp luật, trái đạo đức xã hội, truyền thống tốt đẹp của dân tộc.
 
+2. Lợi dụng phổ biến, giáo dục pháp luật để xuyên tạc chủ trương, đường lối của Đảng, pháp luật của Nhà nước; tuyên truyền chính sách thù địch, gây chia rẽ khối đại đoàn kết toàn dân tộc; xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-### Điều 44.8.LQ.10. Nội dung phổ biến, giáo dục pháp luật
+3. Cản trở việc thực hiện quyền được thông tin, tìm hiểu, học tập pháp luật của công dân, hoạt động phổ biến, giáo dục pháp luật của cơ quan, tổ chức, cá nhân.
+
+4. Lợi dụng việc thực hiện quyền được thông tin, tìm hiểu, học tập pháp luật để gây cản trở đến hoạt động bình thường của cơ quan, tổ chức, cá nhân, gây mất trật tự, an toàn xã hội.
+
+Chương II
+
+NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
+
+Mục 1
+
+NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHUNG CHO CÔNG DÂN
+
+(Mục này có nội dung liên quan đến Điều 44.8.LQ.3. Chính sách của Nhà nước về phổ biến, giáo dục pháp luật của Luật 14/2012/QH13 Phổ biến, giáo dục pháp luật ban hành ngày 20/06/2012)
 
 Điều 44.8.LQ.10. Nội dung phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001000000000000000000
+1. Quy định của Hiến pháp và văn bản quy phạm pháp luật, trọng tâm là các quy định của pháp luật về dân sự, hình sự, hành chính, hôn nhân và gia đình, bình đẳng giới, đất đai, xây dựng, bảo vệ môi trường, lao động, giáo dục, y tế, quốc phòng, an ninh, giao thông, quyền và nghĩa vụ cơ bản của công dân, quyền hạn và trách nhiệm của cơ quan nhà nước, cán bộ, công chức, các văn bản quy phạm pháp luật mới được ban hành.
 
-**ID:** dk_00071824
+2. Các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, các thỏa thuận quốc tế.
 
----
-
-
-### Điều 44.8.LQ.11. Hình thức phổ biến, giáo dục pháp luật
+3. Ý thức tôn trọng và chấp hành pháp luật; ý thức bảo vệ pháp luật; lợi ích của việc chấp hành pháp luật; gương người tốt, việc tốt trong thực hiện pháp luật.
 
 Điều 44.8.LQ.11. Hình thức phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001100000000000000000
+1. Họp báo, thông cáo báo chí.
 
-**ID:** dk_00071825
+2. Phổ biến pháp luật trực tiếp; tư vấn, hướng dẫn tìm hiểu pháp luật; cung cấp thông tin, tài liệu pháp luật.
 
----
+3. Thông qua các phương tiện thông tin đại chúng, loa truyền thanh, internet, pa-nô, áp-phích, tranh cổ động; đăng tải trên Công báo; đăng tải thông tin pháp luật trên trang thông tin điện tử; niêm yết tại trụ sở, bảng tin của cơ quan, tổ chức, khu dân cư.
 
+4. Tổ chức thi tìm hiểu pháp luật.
 
-### Điều 44.8.QĐ.3.2. Giải thích từ ngữ
+5. Thông qua công tác xét xử, xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo của công dân và hoạt động khác của các cơ quan trong bộ máy nhà nước; thông qua hoạt động trợ giúp pháp lý, hòa giải ở cơ sở.
 
-*Nội dung chưa có sẵn*
+6. Lồng ghép trong hoạt động văn hóa, văn nghệ, sinh hoạt của tổ chức chính trị và các đoàn thể, câu lạc bộ, tủ sách pháp luật và các thiết chế văn hóa khác ở cơ sở.
 
-**Chỉ mục:** 2
+7. Thông qua chương trình giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân.
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000200
+8. Các hình thức phổ biến, giáo dục pháp luật khác phù hợp với từng đối tượng cụ thể mà các cơ quan, tổ chức, cá nhân có thẩm quyền có thể áp dụng để bảo đảm cho công tác phổ biến, giáo dục pháp luật đem lại hiệu quả.
 
-**ID:** dk_00071826
+(Điều này có nội dung liên quan đến Điều 18.4.TT.8.4. Nội dung chi; Điều 18.4.TT.8.5. Mức chi)
 
----
+Điều 44.8.QĐ.3.2. Giải thích từ ngữ
 
+(Điều 2 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-### Điều 44.8.QĐ.3.3. Nguyên tắc xây dựng, quản lý, khai thác Tủ sách pháp luật
+1. Tủ sách pháp luật là nơi lưu giữ, quản lý sách, báo, tài liệu pháp luật để phục vụ nhu cầu nghiên cứu, học tập, tìm hiểu chính sách, pháp luật, phổ biến, giáo dục pháp luật, tiếp cận thông tin pháp luật, hòa giải ở cơ sở của cơ quan, tổ chức, cá nhân.
+
+2. Tủ sách pháp luật điện tử quốc gia là Tủ sách pháp luật có sách, tài liệu pháp luật được lưu giữ, quản lý dưới dạng số và được khai thác thông qua truy cập máy tính, các thiết bị điện tử và mạng viễn thông để phục vụ cơ quan, tổ chức, cá nhân trong phạm vi toàn quốc.
+
+3. Tủ sách pháp luật tại xã đặc biệt khó khăn là Tủ sách pháp luật có các bộ phận sách, tài liệu pháp luật được lưu giữ, quản lý dưới dạng giấy và các vật mang tin khác để phục vụ cán bộ, công chức xã, những người làm việc trong các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức tự quản tại cơ sở và Nhân dân trên địa bàn.
+
+4. Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân là Tủ sách pháp luật có các bộ phận sách, tài liệu pháp luật được lưu giữ, quản lý dưới dạng giấy và các vật mang tin khác để phục vụ cán bộ, công chức, viên chức, sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ, người lao động trong lực lượng vũ trang nhân dân.
 
 Điều 44.8.QĐ.3.3. Nguyên tắc xây dựng, quản lý, khai thác Tủ sách pháp luật
 
-**Chỉ mục:** 3
+(Điều 3 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000300
+1. Xây dựng, quản lý, khai thác Tủ sách pháp luật phải phù hợp với yêu cầu của từng địa bàn, cơ quan, đơn vị và nhu cầu khai thác sách, tài liệu pháp luật của người sử dụng.
 
-**ID:** dk_00071827
+2. Xây dựng, quản lý, khai thác Tủ sách pháp luật điện tử quốc gia phải gắn với mục tiêu, lộ trình xây dựng Chính phủ điện tử; bảo đảm duy trì, khai thác sách, tài liệu pháp luật tập trung, liên tục, lâu dài; khai thác, sử dụng tối đa hạ tầng công nghệ thông tin hiện có; liên kết, trích xuất với các cơ sở dữ liệu về pháp luật, thông tin, phổ biến, giáo dục pháp luật.
 
----
+3. Củng cố, đổi mới, nâng cao hiệu quả hoạt động của Tủ sách pháp luật tại xã đặc biệt khó khăn để phục vụ rộng rãi nhu cầu tra cứu, khai thác thông tin, sách, tài liệu pháp luật tại cơ sở; thống nhất quản lý, khai thác sách, tài liệu của Tủ sách pháp luật và sách, tài liệu pháp luật của Thư viện xã, điểm Bưu điện - Văn hóa xã, Trung tâm học tập cộng đồng hiện có trên địa bàn.
 
-
-### Điều 44.8.QĐ.3.4. Kinh phí xây dựng, quản lý Tủ sách pháp luật
+4. Nhà nước ưu tiên cấp phát, trang bị sách, tài liệu pháp luật cho Tủ sách pháp luật tại xã đặc biệt khó khăn nhằm bảo đảm thực hiện quyền của công dân trong tiếp cận thông tin pháp luật.
 
 Điều 44.8.QĐ.3.4. Kinh phí xây dựng, quản lý Tủ sách pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000400
+1. Kinh phí xây dựng, quản lý Tủ sách pháp luật do ngân sách nhà nước bảo đảm, được bố trí trong dự toán chi thường xuyên được giao hàng năm của các cơ quan, đơn vị, địa phương và các nguồn kinh phí hợp pháp khác (nếu có). Việc lập dự toán, chấp hành dự toán, quyết toán kinh phí thực hiện theo quy định pháp luật về ngân sách nhà nước.
 
-**ID:** dk_00071828
+2. Kinh phí xây dựng, vận hành Tủ sách pháp luật điện tử quốc gia được bố trí từ nguồn ngân sách nhà nước và nguồn kinh phí hợp pháp khác theo quy định. Kinh phí xây dựng, vận hành Tủ sách pháp luật điện tử quốc gia được lồng ghép với kinh phí duy trì hoạt động của hệ thống văn bản quy phạm pháp luật hiện có và kinh phí thực hiện các chương trình, đề án có nội dung ứng dụng công nghệ thông tin về phổ biến, giáo dục pháp luật. Nội dung chi, mức chi cho Tủ sách pháp luật điện tử quốc gia thực hiện theo quy định hiện hành của Bộ trưởng Bộ Tài chính.
 
----
+3. Định mức kinh phí tối thiểu hằng năm cho mỗi Tủ sách pháp luật tại xã đặc biệt khó khăn, cơ quan, đơn vị của lực lượng vũ trang nhân dân là 03 triệu đồng (ba triệu đồng) và được thực hiện như sau:
 
+a) Kinh phí xây dựng, quản lý Tủ sách pháp luật tại xã đặc biệt khó khăn do ngân sách địa phương bảo đảm; khuyến khích ngân sách cấp tỉnh, cấp huyện hỗ trợ xây dựng, bổ sung sách, báo, tài liệu pháp luật cho Tủ sách pháp luật. Đối với các tỉnh, thành phố trực thuộc trung ương tự cân đối được ngân sách thì sử dụng nguồn thu ngân sách của địa phương để chi xây dựng, quản lý Tủ sách pháp luật. Đối với các tỉnh chưa tự cân đối được ngân sách thì ngân sách trung ương hỗ trợ kinh phí để chi xây dựng, quản lý Tủ sách pháp luật trong nguồn kinh phí ngân sách trung ương hỗ trợ địa phương;
 
-### Điều 44.8.QĐ.3.5. Yêu cầu xây dựng, khai thác Tủ sách pháp luật điện tử quốc gia
+b) Kinh phí xây dựng, quản lý Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân được dự toán trong ngân sách hằng năm của cơ quan, đơn vị quản lý Tủ sách pháp luật theo quy định của pháp luật về ngân sách nhà nước;
+
+c) Kinh phí xây dựng, quản lý Tủ sách pháp luật được cấp để chi về rà soát, số hóa, hệ thống hóa, mua, bổ sung sách, báo, tài liệu pháp luật; tổ chức luân chuyển, khai thác sách, tài liệu pháp luật và các nội dung khác theo quy định của pháp luật.
+
+4. Khuyến khích cơ quan, tổ chức, cá nhân trong nước và ngoài nước tham gia đóng góp, tài trợ kinh phí, sách, tài liệu phục vụ xây dựng, quản lý, khai thác Tủ sách pháp luật; xây dựng, quản lý, đóng góp và mở rộng Tủ sách tự quản ở cộng đồng.
 
 Điều 44.8.QĐ.3.5. Yêu cầu xây dựng, khai thác Tủ sách pháp luật điện tử quốc gia
 
-**Chỉ mục:** 5
+(Điều 5 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000500
+1. Đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật, công nghệ thông tin và bảo đảm khai thác, sử dụng tối đa hạ tầng công nghệ thông tin hiện có.
 
-**ID:** dk_00071829
+2. Bảo đảm liên kết, trích xuất, chia sẻ thông tin, tài liệu với các cơ sở dữ liệu thông tin phù hợp để khai thác hiệu quả, đa dạng thông tin và tiết kiệm.
 
----
+3. Số hóa, cập nhật sách, tài liệu pháp luật dạng giấy hiện có kết hợp trang bị, bổ sung sách, tài liệu pháp luật mới, bảo đảm tính đa dạng, phong phú, phục vụ kịp thời nhu cầu khai thác của cơ quan, tổ chức, cá nhân.
 
+4. Thiết kế cấu trúc Tủ sách pháp luật điện tử quốc gia phải bảo đảm việc mở rộng và phát triển.
 
-### Điều 44.8.QĐ.3.6. Xây dựng Tủ sách pháp luật điện tử quốc gia
+5. Bảo vệ, tôn trọng quyền tác giả, quyền sở hữu trí tuệ và bảo đảm an toàn thông tin mạng theo quy định của pháp luật.
 
 Điều 44.8.QĐ.3.6. Xây dựng Tủ sách pháp luật điện tử quốc gia
 
-**Chỉ mục:** 6
+(Điều 6 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000600
+1. Tủ sách pháp luật điện tử quốc gia do Bộ Tư pháp chủ trì xây dựng và quản lý thống nhất, được vận hành, khai thác, sử dụng chung trong phạm vi toàn quốc theo hướng tích hợp với cổng thông tin điện tử của Bộ Tư pháp, bảo đảm thuận tiện, đáp ứng yêu cầu tiếp cận thông tin, phổ biến, giáo dục pháp luật của cá nhân, tổ chức.
 
-**ID:** dk_00071830
+2. Tủ sách pháp luật điện tử quốc gia có các dữ liệu thành phần về sách, tài liệu pháp luật do bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương (bao gồm: Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao, Kiểm toán nhà nước), Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) cập nhật, quản lý trên cơ sở tài khoản và phân quyền quản lý được giao.
 
----
+3. Nội dung hoạt động của Tủ sách pháp luật điện tử quốc gia
 
+a) Cập nhật, khai thác các dữ liệu thành phần sách, tài liệu pháp luật được phân chia theo lĩnh vực quản lý của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương, Ủy ban nhân dân cấp tỉnh.
 
-### Điều 44.8.QĐ.3.7. Cấp tài khoản, phân quyền quản lý dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia
+b) Cung cấp thông tin, giới thiệu nội dung sách, tài liệu pháp luật.
+
+c) Thông tin, giới thiệu hoạt động xây dựng, quản lý, khai thác Tủ sách pháp luật.
+
+4. Các loại sách, tài liệu pháp luật trong Tủ sách pháp luật điện tử quốc gia
+
+a) Tài liệu, đề cương giới thiệu các luật, pháp lệnh.
+
+b) Sách, tài liệu hỏi đáp, bình luận, giải thích, hướng dẫn pháp luật; tờ gấp, tiểu phẩm, câu chuyện pháp luật.
+
+c) Sách, tài liệu hướng dẫn chuyên môn, nghiệp vụ về các lĩnh vực quản lý của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương, Ủy ban nhân dân cấp tỉnh.
+
+d) Văn bản quy phạm pháp luật được liên kết, trích xuất từ Cơ sở dữ liệu quốc gia về pháp luật, Công báo điện tử nước Cộng hòa xã hội chủ nghĩa Việt Nam, Cổng Thông tin điện tử pháp điển, thông cáo báo chí về văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành; sách, tài liệu được liên kết, trích xuất từ các cơ sở dữ liệu thông tin phù hợp khác theo khoản 2 Điều 5 của Quyết định này.
+
+đ) Các sách, tài liệu pháp luật cần thiết khác phù hợp với nhu cầu khai thác của người sử dụng.
 
 Điều 44.8.QĐ.3.7. Cấp tài khoản, phân quyền quản lý dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia
 
-**Chỉ mục:** 7
+(Điều 7 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000700
+1. Bộ Tư pháp quản lý thống nhất Tủ sách pháp luật điện tử quốc gia, cấp tài khoản quản lý và phân quyền quản lý các dữ liệu thành phần sách, tài liệu pháp luật để các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương, Ủy ban nhân dân cấp tỉnh thực hiện cập nhật, quản lý theo chức năng, nhiệm vụ được giao.
 
-**ID:** dk_00071831
-
----
-
-
-### Điều 44.8.QĐ.3.8. Cập nhật, khai thác sách, tài liệu pháp luật
+2. Việc vận hành, bảo trì, giám sát, nâng cấp, phát triển, bảo đảm an toàn Tủ sách pháp luật điện tử quốc gia; kiểm tra việc quản lý Tủ sách pháp luật điện tử quốc gia được thực hiện theo quy định về quản lý thông tin, dữ liệu điện tử.
 
 Điều 44.8.QĐ.3.8. Cập nhật, khai thác sách, tài liệu pháp luật
 
-**Chỉ mục:** 8
+(Điều 8 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000800
+1. Sách, tài liệu pháp luật cập nhật trên các dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia phải phù hợp, thiết thực, bảo đảm chất lượng, không có nội dung thuộc phạm vi bí mật nhà nước.
 
-**ID:** dk_00071832
+2. Sách, tài liệu pháp luật cập nhật trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia được tra cứu, khai thác miễn phí và phải đáp ứng yêu cầu sau đây:
 
----
+a) Đối với sách, tài liệu pháp luật không xuất bản, Thủ trưởng cơ quan, đơn vị chủ trì biên soạn phải xác nhận, phê duyệt nội dung sách, tài liệu trước khi cập nhật;
 
+b) Đối với sách, tài liệu pháp luật được xuất bản dưới dạng giấy hoặc điện tử thì cập nhật bản sách, tài liệu pháp luật đã được xuất bản. Đối với sách, tài liệu pháp luật có bản quyền thì phải thực hiện theo quy định của pháp luật về sở hữu trí tuệ;
 
-### Điều 44.8.QĐ.3.9. Yêu cầu xây dựng, quản lý, khai thác Tủ sách pháp luật
+c) Sách, tài liệu pháp luật cập nhật trên Tủ sách pháp luật điện tử quốc gia phải có các thông tin về tên sách, tài liệu pháp luật; cơ quan, tổ chức, cá nhân chủ trì biên soạn; thời gian phát hành, hiệu lực văn bản; giới thiệu mục đích, nội dung chính của sách, tài liệu.
+
+3. Trách nhiệm cập nhật sách, tài liệu pháp luật
+
+a) Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương có trách nhiệm tổ chức cập nhật sách, tài liệu pháp luật do cơ quan và các đơn vị trực thuộc chủ trì biên soạn.
+
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức cập nhật sách, tài liệu pháp luật do Ủy ban nhân dân và các cơ quan chuyên môn trực thuộc chủ trì biên soạn.
+
+c) Những người có thẩm quyền quy định tại điểm a, điểm b khoản này có trách nhiệm phân công một cơ quan, đơn vị chuyên môn trực thuộc thực hiện cập nhật sách, tài liệu pháp luật và quản lý dữ liệu thành phần theo chức năng, nhiệm vụ quản lý và quy định của Quyết định này.
+
+4. Quy trình cập nhật sách, tài liệu pháp luật
+
+a) Rà soát, sử dụng sách, tài liệu pháp luật đã được xuất bản hoặc được người có thẩm quyền phê duyệt.
+
+b) Kiểm tra, đối chiếu sách, tài liệu pháp luật đã số hóa với bản chính sách, tài liệu pháp luật đã được xuất bản hoặc được phê duyệt.
+
+c) Thực hiện cập nhật, đăng tải thông tin và đính kèm sách, tài liệu pháp luật đã được định dạng theo quy định trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia.
+
+d) Duyệt, đăng tải sách, tài liệu pháp luật trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia.
 
 Điều 44.8.QĐ.3.9. Yêu cầu xây dựng, quản lý, khai thác Tủ sách pháp luật
 
-**Chỉ mục:** 9
+(Điều 9 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140000900
+1. Địa điểm đặt Tủ sách pháp luật phải thuận tiện cho việc khai thác, sử dụng; sắp xếp, bố trí phòng đọc phục vụ đọc sách tại chỗ.
 
-**ID:** dk_00071833
+2. Thường xuyên rà soát, phân loại sách, tài liệu bảo đảm khoa học, tra cứu thuận tiện; chọn lọc sách, tài liệu pháp luật có chất lượng, giá trị để bổ sung, trang bị theo định kỳ, phù hợp điều kiện, đặc điểm vùng, miền, cơ quan, đơn vị.
 
----
+3. Thực hiện quản lý, khai thác thống nhất sách, tài liệu của Tủ sách pháp luật với sách, tài liệu pháp luật của Thư viện xã, điểm Bưu điện - Văn hóa xã, Trung tâm học tập cộng đồng tại xã đặc biệt khó khăn.
 
+4. Việc xây dựng, duy trì Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân thực hiện theo quy định tại khoản 1 và khoản 2 Điều này và yêu cầu của từng cơ quan, đơn vị.
 
-### Điều 44.8.QĐ.3.10. Xây dựng Tủ sách pháp luật
+Điều 44.8.QĐ.3.10. Xây dựng Tủ sách pháp luật
 
-*Nội dung chưa có sẵn*
+(Điều 10 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Chỉ mục:** 10
+1. Thành lập Tủ sách pháp luật
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140001000
+a) Chủ tịch Ủy ban nhân dân xã đặc biệt khó khăn, Thủ trưởng cơ quan, đơn vị của lực lượng vũ trang nhân dân ra quyết định thành lập Tủ sách pháp luật. Quyết định thành lập phải quy định cụ thể về địa điểm đặt Tủ sách pháp luật; người phụ trách và quyền hạn, nhiệm vụ của người phụ trách; phạm vi và đối tượng phục vụ; Nội quy hoạt động và kinh phí hoạt động của Tủ sách pháp luật.
 
-**ID:** dk_00071834
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo việc quản lý, khai thác thống nhất sách, tài liệu của Tủ sách pháp luật và sách, tài liệu pháp luật của Thư viện xã, điểm Bưu điện - Văn hóa xã, Trung tâm học tập cộng đồng phù hợp với thực tiễn tại địa phương. Trên cơ sở ý kiến của Thủ tướng Chính phủ và Ban Bí thư Trung ương Đảng quy định tại điểm d khoản 1 Điều 14 của Quyết định này, Chủ tịch Ủy ban nhân dân cấp tỉnh thực hiện quản lý sách, tài liệu của Tủ sách pháp luật và sách, tài liệu pháp luật của Đề án trang bị sách cho cơ sở xã, phường, thị trấn.
 
----
+2. Địa điểm đặt Tủ sách pháp luật
 
+a) Tủ sách pháp luật tại xã đặc biệt khó khăn đặt tại trụ sở Ủy ban nhân dân xã hoặc nơi khác phù hợp với điều kiện thực tế theo quyết định của Chủ tịch Ủy ban nhân dân xã.
 
-### Điều 44.8.QĐ.3.11. Quản lý Tủ sách pháp luật
+b) Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân đặt tại nơi thuận tiện cho việc quản lý, khai thác phù hợp với điều kiện thực tế theo quyết định của Thủ trưởng cơ quan, đơn vị của lực lượng vũ trang nhân dân.
 
-*Nội dung chưa có sẵn*
+3. Các loại sách, báo, tài liệu pháp luật của Tủ sách pháp luật được lựa chọn phù hợp với tính chất, chức năng, nhiệm vụ của chính quyền xã đặc biệt khó khăn, cơ quan, đơn vị của lực lượng vũ trang nhân dân, từng đối tượng phục vụ và có các loại sau đây:
 
-**Chỉ mục:** 11
+a) Sách, tài liệu pháp luật quy định tại điểm a, điểm b khoản 4 Điều 6 của Quyết định này; sách, tài liệu hướng dẫn nghiệp vụ công tác chính quyền, hành chính, tư pháp cơ sở đối với Tủ sách pháp luật tại xã đặc biệt khó khăn; sách, tài liệu phục vụ công tác quản lý, hướng dẫn chuyên môn, nghiệp vụ, giảng dạy và học tập đối với Tủ sách pháp luật tại cơ quan, đơn vị lực lượng vũ trang. Tủ sách pháp luật tại xã đặc biệt khó khăn vùng dân tộc thiểu số còn có sách, tài liệu pháp luật bằng tiếng dân tộc thiểu số;
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140001100
+b) Sách, tài liệu pháp luật trang bị cho Thư viện xã, điểm Bưu điện - Văn hóa xã, Trung tâm học tập cộng đồng trên địa bàn (nếu có); sách, tài liệu pháp luật của Đề án trang bị sách cho cơ sở xã, phường, thị trấn theo chỉ đạo của Thủ tướng Chính phủ và Ban Bí thư Trung ương Đảng tại điểm d khoản 1 Điều 14 của Quyết định này;
 
-**ID:** dk_00071835
+c) Các sách, tài liệu pháp luật khác theo hướng dẫn của Chủ tịch Ủy ban nhân dân cấp tỉnh.
 
----
+4. Bổ sung sách, báo, tài liệu pháp luật cho Tủ sách pháp luật
 
+Căn cứ hướng dẫn danh mục sách, tài liệu pháp luật theo định kỳ của Bộ Tư pháp, Tủ sách pháp luật tại xã đặc biệt khó khăn, cơ quan, đơn vị của lực lượng vũ trang nhân dân cần được bổ sung kịp thời các sách, tài liệu pháp luật mới; thường xuyên rà soát, cập nhật, hệ thống hóa sách, tài liệu pháp luật.
 
-### Điều 44.8.QĐ.3.12. Khai thác Tủ sách pháp luật
+Điều 44.8.QĐ.3.11. Quản lý Tủ sách pháp luật
 
-*Nội dung chưa có sẵn*
+(Điều 11 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Chỉ mục:** 12
+1. Sách, báo, tài liệu pháp luật phải được vào sổ, bảo quản, quản lý, sử dụng theo quy định của pháp luật về tài sản công.
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140001200
+2. Người làm mất hoặc hư hỏng sách, báo, tài liệu pháp luật phải bồi thường theo quy định.
 
-**ID:** dk_00071836
+Điều 44.8.QĐ.3.12. Khai thác Tủ sách pháp luật
 
----
+(Điều 12 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
+1. Nội quy hoạt động của Tủ sách pháp luật
 
-### Điều 44.8.QĐ.3.13. Người phụ trách Tủ sách pháp luật
+a) Nội quy hoạt động của Tủ sách pháp luật quy định về thời gian, hình thức phục vụ; quyền hạn, trách nhiệm của người phụ trách Tủ sách pháp luật; điều kiện và thủ tục mượn sách; trách nhiệm bảo quản, bồi thường thiệt hại của người đọc, người mượn khi làm mất, làm hỏng sách, báo, tài liệu pháp luật và nội dung phù hợp khác.
+
+b) Nội quy hoạt động của Tủ sách pháp luật phải được niêm yết tại địa điểm đặt Tủ sách pháp luật.
+
+2. Thời gian phục vụ
+
+Tủ sách pháp luật mở cửa phục vụ hàng ngày theo thời gian làm việc của Ủy ban nhân dân xã, cơ quan, đơn vị lực lượng vũ trang nhân dân. Trong trường hợp phục vụ ngoài thời gian làm việc, Chủ tịch Ủy ban nhân dân xã đặc biệt khó khăn, Thủ trưởng cơ quan, đơn vị của lực lượng vũ trang nhân dân quy định rõ ngày, giờ phục vụ người đọc.
+
+3. Hình thức phục vụ
+
+Tủ sách pháp luật phục vụ bằng hình thức đọc tại chỗ hoặc cho mượn.
+
+4. Biện pháp nâng cao hiệu quả khai thác, sử dụng Tủ sách pháp luật
+
+a) Thường xuyên thông tin, tuyên truyền về Tủ sách pháp luật; vận động, giới thiệu cho cán bộ, công chức và Nhân dân đến nghiên cứu, đọc, mượn sách, báo, tài liệu pháp luật.
+
+b) Kịp thời thông báo nội dung sách, báo, tài liệu pháp luật mới trên các bảng tin, trạm tin, loa truyền thanh, trang tin điện tử để tạo điều kiện thuận tiện cho người đọc tìm hiểu, đọc, mượn sách, báo, tài liệu pháp luật của Tủ sách pháp luật.
+
+c) Tổ chức triển lãm, giới thiệu sách, tài liệu pháp luật vào dịp tổ chức Ngày sách Việt Nam, Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam, sinh hoạt Câu lạc bộ, thi tìm hiểu pháp luật hoặc sự kiện khác để nâng cao hiệu quả khai thác Tủ sách pháp luật.
+
+d) Thực hiện trao đổi, luân chuyển sách, tài liệu pháp luật giữa Tủ sách pháp luật với Tủ sách tự quản ở cộng đồng và các thiết chế văn hóa - thông tin cơ sở khác trên địa bàn.
+
+đ) Biện pháp khác phù hợp với yêu cầu, nhiệm vụ, điều kiện thực tế của địa bàn xã, cơ quan, đơn vị của lực lượng vũ trang nhân dân và không trái quy định của pháp luật.
 
 Điều 44.8.QĐ.3.13. Người phụ trách Tủ sách pháp luật
 
-**Chỉ mục:** 13
+(Điều 13 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140001300
+1. Người phụ trách Tủ sách pháp luật tại xã đặc biệt khó khăn do Chủ tịch Ủy ban nhân dân xã bố trí, phân công trong số công chức chuyên môn của Ủy ban nhân dân xã, bảo đảm phù hợp với điều kiện thực tế của địa phương và đáp ứng yêu cầu quản lý, khai thác Tủ sách pháp luật.
 
-**ID:** dk_00071837
+2. Người phụ trách Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân do Thủ trưởng cơ quan, đơn vị bố trí, phân công phù hợp với yêu cầu của đơn vị.
 
----
+3. Nghĩa vụ của người phụ trách Tủ sách pháp luật
 
+a) Lập dự toán kinh phí xây dựng, quản lý, khai thác Tủ sách pháp luật theo quy định tại Điều 4 của Quyết định này và các quy định pháp luật khác về tài chính; triển khai thực hiện sau khi được phê duyệt.
 
-### Điều 44.8.QĐ.3.14. Trách nhiệm thực hiện
+b) Xây dựng Nội quy hoạt động của Tủ sách pháp luật trình Chủ tịch Ủy ban nhân dân xã, Thủ trưởng, người đứng đầu cơ quan, đơn vị của lực lượng vũ trang nhân dân phê duyệt.
 
-*Nội dung chưa có sẵn*
+c) Bảo quản sách, báo, tài liệu pháp luật theo quy định đối với tài sản công; cho mượn và hướng dẫn việc sử dụng sách, báo, tài liệu pháp luật; theo dõi việc mượn, trả, luân chuyển sách, báo, tài liệu pháp luật.
 
-**Chỉ mục:** 14
+d) Định kỳ hằng năm kiểm kê sách, báo, tài liệu pháp luật; lập báo cáo sáu tháng, hàng năm hoặc theo yêu cầu về tình hình xây dựng, quản lý, khai thác Tủ sách pháp luật.
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000110000000000000000000502685500140001400
+đ) Đề xuất với Chủ tịch Ủy ban nhân dân xã tổ chức luân chuyển sách, tài liệu pháp luật giữa Tủ sách pháp luật với Tủ sách tự quản ở cộng đồng và các thiết chế văn hóa - thông tin cơ sở khác trên địa bàn; đề xuất xử lý sách, báo, tài liệu pháp luật cũ nát, hư hỏng; tổ chức thực hiện các biện pháp nâng cao hiệu quả khai thác, sử dụng Tủ sách pháp luật theo quy định tại khoản 4 Điều 12 của Quyết định này.
 
-**ID:** dk_00071838
+4. Quyền lợi của người phụ trách Tủ sách pháp luật
 
----
+a) Được bồi dưỡng, hướng dẫn về nghiệp vụ xây dựng, quản lý, khai thác Tủ sách pháp luật và kiến thức pháp luật.
 
+b) Được cơ quan có thẩm quyền khen thưởng theo quy định pháp luật khi có thành tích xuất sắc trong việc xây dựng, quản lý, khai thác Tủ sách pháp luật và phổ biến, giáo dục pháp luật.
 
-### Điều 44.8.LQ.12. Họp báo, thông cáo báo chí về văn bản quy phạm pháp luật
+c) Quyền lợi khác theo quy định của pháp luật.
+
+Điều 44.8.QĐ.3.14. Trách nhiệm thực hiện
+
+(Điều 14 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
+
+1. Bộ Tư pháp
+
+a) Chủ trì, phối hợp với các cơ quan, tổ chức liên quan giúp Thủ tướng Chính phủ chỉ đạo, hướng dẫn, tổ chức thực hiện Quyết định này trên phạm vi toàn quốc.
+
+b) Chủ trì hướng dẫn nghiệp vụ xây dựng, quản lý, khai thác Tủ sách pháp luật; biên soạn sách, tài liệu pháp luật cung cấp cho Tủ sách pháp luật; tổ chức tập huấn nghiệp vụ xây dựng, quản lý, khai thác Tủ sách pháp luật.
+
+c) Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, Bộ Thông tin và Truyền thông, Bộ Giáo dục và Đào tạo, cơ quan, đơn vị liên quan chỉ đạo, hướng dẫn việc quản lý, khai thác thống nhất sách, tài liệu của Tủ sách pháp luật với sách, tài liệu pháp luật của Thư viện xã, điểm Bưu điện - Văn hóa xã, Trung tâm học tập cộng đồng trên địa bàn; theo dõi việc cấp phát các sách, tài liệu pháp luật miễn phí cho Tủ sách pháp luật trên địa bàn.
+
+d) Chủ trì, phối hợp với Ban Tuyên giáo Trung ương, Nhà xuất bản Chính trị quốc gia Sự thật và cơ quan, tổ chức có liên quan nghiên cứu, báo cáo Thủ tướng Chính phủ và Ban Bí thư Trung ương Đảng về việc quản lý, khai thác thống nhất sách, tài liệu pháp luật của Đề án trang bị sách cho cơ sở xã, phường, thị trấn với Tủ sách pháp luật.
+
+đ) Xây dựng, quản lý, hướng dẫn khai thác, sử dụng Tủ sách pháp luật điện tử quốc gia bảo đảm kết nối, liên thông với các cơ sở dữ liệu liên quan đến phổ biến, giáo dục pháp luật; cập nhật sách, tài liệu pháp luật trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia theo quy định của Quyết định này; lập dự toán, thanh quyết toán kinh phí hoạt động hằng năm của Tủ sách pháp luật điện tử quốc gia.
+
+e) Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, cơ quan, tổ chức có liên quan xây dựng Tủ sách pháp luật điện tử quốc gia và bắt đầu khai thác, sử dụng từ năm 2021; đề xuất giải pháp về điều kiện bảo đảm cho việc khai thác, sử dụng hiệu quả Tủ sách pháp luật điện tử quốc gia gắn với thực hiện ứng dụng công nghệ thông tin trong công tác phổ biến, giáo dục pháp luật.
+
+g) Hướng dẫn danh mục sách, báo, tài liệu pháp luật mới theo định kỳ sáu tháng (06 tháng) một lần.
+
+h) Kiểm tra, sơ kết, tổng kết, khen thưởng tập thể, cá nhân có thành tích xuất sắc trong công tác xây dựng, quản lý, khai thác Tủ sách pháp luật; kỷ luật và xử lý vi phạm trong xây dựng, quản lý, khai thác Tủ sách pháp luật.
+
+2. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định việc xây dựng, quản lý, khai thác Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân theo hướng thu hẹp phạm vi xây dựng, duy trì Tủ sách pháp luật; chỉ đạo tăng cường ứng dụng công nghệ thông tin trong khai thác sách, tài liệu pháp luật và sử dụng Tủ sách pháp luật điện tử quốc gia; chủ trì, phối hợp với Bộ Tư pháp, cơ quan, tổ chức có liên quan trong chỉ đạo, hướng dẫn, kiểm tra, sơ kết, tổng kết, báo cáo kết quả về việc xây dựng, quản lý, khai thác Tủ sách pháp luật tại cơ quan, đơn vị của lực lượng vũ trang nhân dân.
+
+3. Bộ Giáo dục và Đào tạo chủ trì, phối hợp với Bộ Tư pháp, cơ quan, tổ chức có liên quan chỉ đạo, hướng dẫn cơ sở giáo dục trong hệ thống giáo dục quốc dân gắn hoạt động của Tủ sách pháp luật với Thư viện nhà trường; hướng dẫn quản lý, khai thác sách, tài liệu pháp luật phục vụ công tác dạy và học pháp luật, phổ biến, giáo dục pháp luật trong nhà trường; phối hợp hướng dẫn việc quản lý, khai thác thống nhất sách, tài liệu pháp luật của Trung tâm học tập cộng đồng với Tủ sách pháp luật.
+
+4. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Bộ Tư pháp, cơ quan, tổ chức có liên quan chỉ đạo, hướng dẫn việc xây dựng, phát triển, nâng cao chất lượng sách, tài liệu pháp luật trong Thư viện xã; phối hợp hướng dẫn việc quản lý, khai thác thống nhất sách, tài liệu pháp luật của Thư viện xã với Tủ sách pháp luật; lồng ghép việc thực hiện Quyết định này với thực hiện Đề án phát triển văn hóa đọc trong cộng đồng đến năm 2020, định hướng đến năm 2030.
+
+5. Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Tư pháp, cơ quan, tổ chức có liên quan hướng dẫn ứng dụng công nghệ thông tin vào khai thác văn bản quy phạm pháp luật; ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành các chính sách về ứng dụng công nghệ thông tin trong khai thác văn bản quy phạm pháp luật, sách, tài liệu pháp luật và xây dựng, vận hành Tủ sách pháp luật điện tử quốc gia theo quy định của Quyết định này; phối hợp hướng dẫn việc quản lý, khai thác thống nhất sách, tài liệu pháp luật của điểm Bưu điện - Văn hóa xã với Tủ sách pháp luật.
+
+6. Bộ Tài chính bố trí kinh phí thường xuyên để xây dựng, duy trì Tủ sách pháp luật theo quy định về phân cấp ngân sách nhà nước; chủ trì rà soát, sửa đổi, bổ sung các quy định pháp luật hiện hành về bảo đảm kinh phí xây dựng, quản lý, khai thác Tủ sách pháp luật.
+
+7. Bộ Kế hoạch và Đầu tư bố trí vốn đầu tư phát triển để thực hiện các nhiệm vụ của Quyết định này theo quy định của Luật Đầu tư công và các văn bản hướng dẫn thi hành.
+
+8. Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam và các cơ quan thông tin đại chúng khác ở trung ương và địa phương tăng cường tuyên truyền về vị trí, vai trò của Tủ sách pháp luật; vận động, giới thiệu cho cán bộ, công chức, nhân dân đến đọc, mượn sách, báo, tài liệu pháp luật.
+
+9. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương trong phạm vi chức năng, nhiệm vụ có trách nhiệm:
+
+a) Thực hiện nhiệm vụ quy định tại khoản 2 Điều 15 của Quyết định này;
+
+b) Chỉ đạo các Nhà xuất bản trực thuộc (nếu có) phối hợp với đơn vị chức năng có liên quan thuộc Bộ Tư pháp rà soát, lập danh mục sách, tài liệu pháp luật mới theo định kỳ; theo dõi, kiểm tra việc xuất bản, cấp phát các sách, tài liệu pháp luật cho Tủ sách pháp luật bảo đảm chất lượng;
+
+c) Chỉ đạo nâng cao chất lượng đối với sách, tài liệu pháp luật do cơ quan, đơn vị trực thuộc chủ trì biên soạn; tổ chức cập nhật, chịu trách nhiệm về tính chính xác và chất lượng nội dung của sách, tài liệu pháp luật trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia theo quy định của Quyết định này và chức năng, phạm vi quản lý;
+
+d) Phối hợp kiểm tra, sơ kết, tổng kết, khen thưởng tập thể, cá nhân có thành tích xuất sắc trong xây dựng, quản lý, khai thác Tủ sách pháp luật; kỷ luật, xử lý vi phạm trong xây dựng, quản lý, khai thác Tủ sách pháp luật.
+
+10. Đề nghị Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận:
+
+a) Vận động và phát huy vai trò của nhân dân ở cộng đồng dân cư, các tổ chức, cá nhân trong nước và ngoài nước tham gia xây dựng, quản lý, khai thác Tủ sách pháp luật;
+
+b) Phối hợp, giám sát, kiểm tra, sơ kết, tổng kết, khen thưởng tập thể, cá nhân có thành tích xuất sắc trong xây dựng, quản lý, khai thác Tủ sách pháp luật; kỷ luật, xử lý vi phạm trong xây dựng, quản lý, khai thác Tủ sách pháp luật.
+
+11. Đề nghị Ban Tuyên giáo Trung ương, Nhà xuất bản Chính trị quốc gia Sự thật triển khai Đề án trang bị sách cho cơ sở xã, phường, thị trấn gắn với xây dựng, quản lý, khai thác Tủ sách pháp luật theo quy định của Quyết định này.
+
+12. Ủy ban nhân dân cấp tỉnh có trách nhiệm:
+
+a) Chỉ đạo, hướng dẫn, đôn đốc, theo dõi các cấp, các ngành ở địa phương thực hiện có hiệu quả Quyết định này;
+
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh thực hiện nhiệm vụ quy định tại điểm b khoản 1 Điều 10 và khoản 2 Điều 15 của Quyết định này;
+
+c) Chỉ đạo, hướng dẫn việc xây dựng, quản lý, khai thác Tủ sách pháp luật theo quy định của Quyết định này; nâng cao hiệu quả khai thác Tủ sách pháp luật trên địa bàn; tăng cường ứng dụng công nghệ thông tin trong quản lý, khai thác văn bản quy phạm pháp luật;
+
+d) Biên soạn tài liệu nghiệp vụ; nâng cao chất lượng sách, tài liệu pháp luật do Ủy ban nhân dân và các cơ quan chuyên môn biên soạn, cấp phát cho Tủ sách pháp luật; theo dõi, quản lý việc cấp phát các sách, báo, tài liệu pháp luật cho Tủ sách pháp luật trên địa bàn; chỉ đạo, hướng dẫn việc luân chuyển sách, tài liệu pháp luật giữa Tủ sách pháp luật với Tủ sách tự quản ở cộng đồng và các thiết chế văn hóa - thông tin cơ sở khác;
+
+đ) Tổ chức cập nhật, chịu trách nhiệm về tính chính xác và chất lượng nội dung của sách, tài liệu pháp luật trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia theo chức năng và phạm vi quản lý;
+
+e) Chỉ đạo, hướng dẫn việc phân công, bố trí người phụ trách Tủ sách pháp luật theo quy định của Quyết định này tại địa phương; tập huấn, bồi dưỡng nghiệp vụ xây dựng, quản lý, khai thác Tủ sách pháp luật;
+
+g) Bảo đảm kinh phí từ ngân sách để xây dựng, quản lý, duy trì Tủ sách pháp luật theo quy định của Quyết định này; khuyến khích hỗ trợ kinh phí mua bổ sung sách, báo, tài liệu pháp luật cho các loại hình Tủ sách pháp luật trên địa bàn;
+
+h) Kiểm tra, sơ kết, tổng kết, khen thưởng tập thể, cá nhân có thành tích xuất sắc trong công tác xây dựng, quản lý, khai thác Tủ sách pháp luật; kỷ luật, xử lý vi phạm trong xây dựng, quản lý, khai thác Tủ sách pháp luật;
+
+i) Sở Tư pháp có trách nhiệm tham mưu, giúp Ủy ban nhân dân cùng cấp tổ chức thực hiện nhiệm vụ được giao tại Quyết định này.
 
 Điều 44.8.LQ.12. Họp báo, thông cáo báo chí về văn bản quy phạm pháp luật
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001200000000000000000
+1. Văn phòng Chủ tịch nước chủ trì phối hợp với Văn phòng Quốc hội, cơ quan chủ trì soạn thảo tổ chức họp báo và ra thông cáo báo chí về luật, pháp lệnh, nghị quyết chứa đựng quy phạm pháp luật của Quốc hội, Ủy ban thường vụ Quốc hội sau khi Chủ tịch nước ký lệnh công bố.
 
-**ID:** dk_00071839
+2. Hằng tháng, Bộ Tư pháp chủ trì phối hợp với Văn phòng Chính phủ và cơ quan chủ trì soạn thảo ra thông cáo báo chí về văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành.
 
----
+3. Nội dung của thông cáo báo chí nêu rõ sự cần thiết, mục đích ban hành và nội dung chủ yếu của văn bản quy phạm pháp luật.
 
+(Điều này có nội dung liên quan đến Điều 44.8.TT.7.1. Phạm vi điều chỉnh, đối tượng áp dụng)
 
-### Điều 44.8.TT.7.2. Nguyên tắc thực hiện
+Điều 44.8.TT.7.2. Nguyên tắc thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 07/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Chỉ mục:** 2
+ 1. Cơ quan chủ trì soạn thảo văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành (sau đây gọi là cơ quan chủ trì soạn thảo) chịu trách nhiệm về tính chính xác và thời hạn của thông tin cung cấp cho Bộ Tư pháp phục vụ xây dựng hoặc đính chính (nếu có) Thông cáo báo chí.
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000120000000000000000000802781900070000200
+ 2. Đảm bảo sự phối hợp thường xuyên, liên tục, chặt chẽ giữa các cơ quan, đơn vị có liên quan trong xây dựng Thông cáo báo chí.
 
-**ID:** dk_00071840
+ 3. Phát huy tính chủ động, tích cực và đề cao trách nhiệm của cơ quan chủ trì soạn thảo văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành trong phối hợp xây dựng Thông cáo báo chí.Điều 44.8.TT.7.3. Cung cấp thông tin xây dựng Thông cáo báo chí
 
----
+(Điều 3 Thông tư số 07/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
+ 1. Cơ quan chủ trì soạn thảo có trách nhiệm cung cấp thông tin về văn bản quy phạm pháp luật do cơ quan mình chủ trì soạn thảo đã được Chính phủ, Thủ tướng Chính phủ ban hành trong tháng cho Bộ Tư pháp chậm nhất vào ngày 05 của tháng tiếp theo để phục vụ việc xây dựng Thông cáo báo chí (theo mẫu quy định tại Phụ lục ban hành kèm theo Thông tư này).
 
-### Điều 44.8.TT.7.3. Cung cấp thông tin xây dựng Thông cáo báo chí
+ 2. Nội dung thông tin nêu rõ: tên văn bản, ngày, tháng, năm ban hành; cơ quan ban hành; hiệu lực thi hành; sự cần thiết, mục đích ban hành; nội dung chủ yếu của văn bản quy phạm pháp luật.
 
-Điều 44.8.TT.7.3. Cung cấp thông tin xây dựng Thông cáo báo chí
+ 3. Bộ Tư pháp chủ trì, phối hợp Văn phòng Chính phủ theo dõi, đôn đốc việc cung cấp thông tin phục vụ xây dựng Thông cáo báo chí.Điều 44.8.TT.7.4. Xây dựng, ban hành, đăng tải Thông cáo báo chí
 
-**Chỉ mục:** 3
+(Điều 4 Thông tư số 07/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000120000000000000000000802781900070000300
+ 1. Căn cứ vào nội dung thông tin về văn bản quy phạm pháp luật do cơ quan chủ trì soạn thảo cung cấp, Bộ Tư pháp có trách nhiệm tổng hợp, biên tập nội dung, xây dựng và ban hành Thông cáo báo chí về văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành chậm nhất vào ngày 10 của tháng tiếp theo.
 
-**ID:** dk_00071841
+ 2. Bộ Tư pháp đăng tải Thông cáo báo chí trên Cổng thông tin điện tử Bộ Tư pháp, Báo Pháp luật Việt Nam điện tử ngay sau khi ký ban hành.
 
----
+ 3. Văn phòng Chính phủ đăng tải Thông cáo báo chí trên Cổng Thông tin điện tử Chính phủ, Báo điện tử Chính phủ ngay sau khi nhận được Thông cáo báo chí do Bộ Tư pháp gửi đến.(Điều này có nội dung liên quan đến Điều 44.8.TT.7.5. Đính chính Thông cáo báo chí)
 
+Điều 44.8.TT.7.5. Đính chính Thông cáo báo chí
 
-### Điều 44.8.TT.7.4. Xây dựng, ban hành, đăng tải Thông cáo báo chí
+(Điều 5 Thông tư số 07/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-Điều 44.8.TT.7.4. Xây dựng, ban hành, đăng tải Thông cáo báo chí
+ 1. Trường hợp phát hiện Thông cáo báo chí đã ban hành có sai sót về nội dung, cơ quan chủ trì soạn thảo tự mình hoặc theo đề nghị của Bộ Tư pháp kịp thời phối hợp cung cấp lại thông tin chính xác để Bộ Tư pháp ban hành văn bản đính chính Thông cáo báo chí. Văn bản cung cấp lại thông tin của cơ quan chủ trì soạn thảo gửi Bộ Tư pháp trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Bộ Tư pháp hoặc kể từ ngày cơ quan chủ trì soạn thảo phát hiện sai sót của Thông cáo báo chí.
 
-**Chỉ mục:** 4
+ 2. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản cung cấp lại thông tin của cơ quan chủ trì soạn thảo, Bộ Tư pháp có văn bản đính chính Thông cáo báo chí.
 
-**Mã phân cấp:** 44008000000000002000000100000000000000000120000000000000000000802781900070000400
-
-**ID:** dk_00071842
-
----
-
-
-### Điều 44.8.TT.7.5. Đính chính Thông cáo báo chí
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 44008000000000002000000100000000000000000120000000000000000000802781900070000500
-
-**ID:** dk_00071843
-
----
-
-
-### Điều 44.8.LQ.13. Đăng tải thông tin pháp luật trên trang thông tin điện tử
+ 3. Văn bản đính chính được đăng tải trên báo điện tử và cổng thông tin điện tử theo quy định tại Khoản 2, 3 Điều 4 Thông tư này.(Điều này có nội dung liên quan đến Điều 44.8.TT.7.4. Xây dựng, ban hành, đăng tải Thông cáo báo chí)
 
 Điều 44.8.LQ.13. Đăng tải thông tin pháp luật trên trang thông tin điện tử
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001300000000000000000
+1. Các thông tin pháp luật sau đây phải được đăng tải trên trang thông tin điện tử của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội, Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh:
 
-**ID:** dk_00071844
+a) Văn bản quy phạm pháp luật liên quan đến lĩnh vực hoạt động của cơ quan, tổ chức;
 
----
+b) Văn bản quy phạm pháp luật do cơ quan ban hành hoặc do cơ quan, tổ chức phối hợp ban hành;
 
+c) Các thủ tục hành chính liên quan trực tiếp đến người dân, doanh nghiệp thuộc trách nhiệm của cơ quan, tổ chức;
 
-### Điều 44.8.LQ.14. Phổ biến, giáo dục pháp luật trên các phương tiện thông tin đại chúng
+d) Dự thảo văn bản quy phạm pháp luật được công bố để lấy ý kiến theo quy định của pháp luật.
+
+2. Ngoài các thông tin quy định tại khoản 1 Điều này, khuyến khích các cơ quan, tổ chức đăng tải trên trang thông tin điện tử các thông tin khác về hoạt động xây dựng và thực hiện pháp luật, hỏi - đáp pháp luật cần thiết cho người dân.
+
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.17. Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật)
 
 Điều 44.8.LQ.14. Phổ biến, giáo dục pháp luật trên các phương tiện thông tin đại chúng
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001400000000000000000
-
-**ID:** dk_00071845
-
----
-
-
-### Điều 44.8.LQ.15. Tư vấn, hướng dẫn tìm hiểu pháp luật, cung cấp thông tin, tài liệu pháp luật
+Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam, Báo Nhân dân, báo của các cơ quan bảo vệ pháp luật, báo và đài phát thanh, đài truyền hình cấp tỉnh xây dựng chương trình, chuyên trang, chuyên mục về pháp luật; đa dạng hóa các hình thức phổ biến, giáo dục pháp luật để phổ biến các quy định của pháp luật, tình hình thi hành pháp luật và các thông tin khác về pháp luật.
 
 Điều 44.8.LQ.15. Tư vấn, hướng dẫn tìm hiểu pháp luật, cung cấp thông tin, tài liệu pháp luật
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001500000000000000000
+1. Cơ quan, tổ chức, cá nhân đang xem xét, giải quyết vụ việc của công dân có trách nhiệm giải thích, cung cấp các quy định của pháp luật có liên quan trực tiếp đến vụ việc đang giải quyết hoặc hướng dẫn tìm kiếm, tra cứu trên cơ sở dữ liệu quốc gia về pháp luật khi công dân đó có yêu cầu.
 
-**ID:** dk_00071846
-
----
-
-
-### Điều 44.8.LQ.16. Phổ biến, giáo dục pháp luật thông qua công tác xét xử, xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo
+2. Nhà nước có chính sách khuyến khích tổ chức tư vấn pháp luật, các tổ chức dịch vụ pháp lý khác, cơ sở đào tạo và cơ sở nghiên cứu chuyên ngành luật thực hiện việc tư vấn, hướng dẫn tìm hiểu pháp luật, cung cấp thông tin, tài liệu pháp luật miễn phí cho nhân dân.
 
 Điều 44.8.LQ.16. Phổ biến, giáo dục pháp luật thông qua công tác xét xử, xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000001000000000000000001600000000000000000
+1. Tòa án nhân dân các cấp thông qua công tác xét xử tại trụ sở, lựa chọn các vụ án thích hợp có tính giáo dục cao để tổ chức xét xử lưu động nhằm phổ biến, giáo dục pháp luật cho người tham dự phiên tòa và nhân dân.
 
-**ID:** dk_00071847
+2. Cơ quan nhà nước có thẩm quyền thông qua việc xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo, tổ chức đối thoại với người dân để kết hợp phổ biến, giáo dục pháp luật.
 
----
+Mục 2
 
-
-### Điều 44.8.LQ.17. Phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân
+NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO MỘT SỐ ĐỐI TƯỢNG ĐẶC THÙ
 
 Điều 44.8.LQ.17. Phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000002000000000000000001700000000000000000
+1. Việc phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân căn cứ vào đặc điểm của từng đối tượng mà tập trung vào các quy định pháp luật về dân tộc, tôn giáo, trách nhiệm tham gia bảo vệ, giữ gìn an ninh, quốc phòng, biên giới, chủ quyền quốc gia, biển, đảo, tài nguyên, khoáng sản và các lĩnh vực pháp luật khác gắn liền với đời sống, sản xuất của người dân.
 
-**ID:** dk_00071849
+2. Hoạt động phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân được chú trọng thực hiện thông qua hòa giải ở cơ sở, trợ giúp pháp lý lưu động; tư vấn pháp luật, cung cấp miễn phí thông tin, tài liệu pháp luật bằng tiếng dân tộc cho đồng bào dân tộc thiểu số; lồng ghép phổ biến, giáo dục pháp luật trong các hoạt động văn hóa truyền thống.
 
----
+3. Nhà nước có chính sách đào tạo, bồi dưỡng, hỗ trợ người làm công tác phổ biến, giáo dục pháp luật, già làng, trưởng bản, người có uy tín trong cộng đồng các dân tộc thiểu số tham gia phổ biến, giáo dục pháp luật tại địa phương; tạo điều kiện để các tổ chức, cá nhân thực hiện hoạt động tình nguyện phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân.
 
+4. Ủy ban nhân dân các cấp tổ chức phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân; chủ trì phối hợp với Bộ đội biên phòng, Công an, Hải quan, Kiểm lâm, Cảnh sát biển tổ chức phổ biến, giáo dục pháp luật cho người dân ở khu vực biên giới, ven biển và hải đảo.
 
-### Điều 44.8.LQ.18. Phổ biến, giáo dục pháp luật cho người lao động trong các doanh nghiệp
+(Điều này có nội dung liên quan đến Điều 2. Đối tượng áp dụng của Quyết định 18/2011/QĐ-TTg Về chính sách đối với người có uy tín trong đồng bào dân tộc thiểu số ban hành ngày 18/03/2011; Điều 1. Sửa đổi, bổ sung một số điều của Quyết định số 18/2011/QĐ-TTg ngày 18 tháng 3 năm 2011 của Thủ tướng Chính phủ về chính sách đối với người có uy tín trong đồng bào dân tộc thiểu số: của Quyết định 56/2013/QĐ-TTg Về việc sửa đổi, bổ sung một số điều của Quyết định số 18/2011/QĐ-TTg ngày 18 tháng 3 năm 2011 của Thủ tướng Chính phủ về chính sách đối với người có uy tín trong vùng đồng bào dân tộc thiểu số ban hành ngày 07/10/2013; Điều 44.8.NĐ.1.8. Chính sách hỗ trợ tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật)
 
 Điều 44.8.LQ.18. Phổ biến, giáo dục pháp luật cho người lao động trong các doanh nghiệp
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000002000000000000000001800000000000000000
+1. Việc phổ biến, giáo dục pháp luật cho người lao động trong các doanh nghiệp tập trung vào quyền và nghĩa vụ của người lao động, người sử dụng lao động, pháp luật về việc làm, an toàn vệ sinh lao động, chế độ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, pháp luật công đoàn và các quy định khác của pháp luật về lao động.
 
-**ID:** dk_00071850
+2. Hoạt động phổ biến, giáo dục pháp luật cho người lao động trong doanh nghiệp được chú trọng thực hiện thông qua việc phổ biến trực tiếp, niêm yết các quy định pháp luật tại nơi làm việc, tủ sách pháp luật, giỏ sách pháp luật, tờ gấp, lồng ghép trong các hoạt động văn hóa, văn nghệ.
 
----
+3. Người sử dụng lao động có trách nhiệm bố trí thời gian, bảo đảm các điều kiện cần thiết để phổ biến, giáo dục pháp luật; phối hợp với tổ chức công đoàn tổ chức phổ biến, giáo dục pháp luật cho người lao động trong doanh nghiệp.
 
+4. Tổ chức công đoàn có trách nhiệm chủ trì vận động người lao động tìm hiểu, học tập pháp luật.
 
-### Điều 44.8.LQ.19. Phổ biến, giáo dục pháp luật cho nạn nhân bạo lực gia đình
+(Điều này có nội dung liên quan đến Điều 3. Giải thích từ ngữ của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012)
 
 Điều 44.8.LQ.19. Phổ biến, giáo dục pháp luật cho nạn nhân bạo lực gia đình
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000002000000000000000001900000000000000000
+1. Việc phổ biến, giáo dục pháp luật cho nạn nhân bạo lực gia đình tập trung vào các quy định của pháp luật về hôn nhân và gia đình, bình đẳng giới, phòng, chống bạo lực gia đình, trách nhiệm của Nhà nước và xã hội trong việc hỗ trợ, bảo vệ nạn nhân bạo lực gia đình.
 
-**ID:** dk_00071851
+2. Hoạt động phổ biến, giáo dục pháp luật cho nạn nhân bạo lực gia đình được chú trọng thực hiện thông qua hòa giải ở cơ sở, trợ giúp pháp lý lưu động, tư vấn pháp luật miễn phí, phổ biến, giáo dục pháp luật trực tiếp tại nơi tạm lánh, cơ sở bảo trợ xã hội, cơ sở hỗ trợ nạn nhân bạo lực gia đình.
 
----
+3. Ủy ban nhân dân xã, phường, thị trấn, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên Mặt trận ở cơ sở có trách nhiệm tổ chức phổ biến, giáo dục pháp luật cho các đối tượng là nạn nhân bạo lực gia đình, người có hành vi bạo lực gia đình; huy động các tổ chức, cá nhân hỗ trợ kinh phí thực hiện phổ biến, giáo dục pháp luật cho các đối tượng này.
 
+4. Gia đình có trách nhiệm giáo dục thành viên thực hiện quy định của pháp luật về phòng, chống bạo lực gia đình, hôn nhân và gia đình, bình đẳng giới.
 
-### Điều 44.8.LQ.20. Phổ biến, giáo dục pháp luật cho người khuyết tật
+(Điều này có nội dung liên quan đến Chương IV TRÁCH NHIỆM CỦA CÁ NHÂN, GIA ĐÌNH, CƠ QUAN, TỔ CHỨC RONG PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH; Điều 2. Các hành vi bạo lực gia đình; Điều 10. Nội dung thông tin, tuyên truyền về phòng, chống bạo lực gia đình; Điều 11. Hình thức thông tin, tuyên truyền về phòng, chống bạo lực gia đình của Luật 02/2007/QH12 Phòng, chống bạo lực gia đình ban hành ngày 21/11/2007; Điều 8.2.LQ.8. Nội dung quản lý nhà nước về bình đẳng giới; Điều 8.2.LQ.25. Trách nhiệm của Chính phủ; Điều 8.2.LQ.28. Trách nhiệm của Uỷ ban nhân dân các cấp; Điều 8.2.LQ.29. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên; Điều 8.2.LQ.30. Trách nhiệm của Hội liên hiệp phụ nữ Việt Nam; Điều 8.2.LQ.31. Trách nhiệm của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị –xã hội trong việc thực hiện bình đẳng giới tại cơ quan, tổ chức mình; Điều 8.2.LQ.32. Trách nhiệm của cơ quan, tổ chức khác trong việc thực hiện bình đẳng giới tại cơ quan, tổ chức mình; Điều 35.4.LQ.17. Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật)
 
 Điều 44.8.LQ.20. Phổ biến, giáo dục pháp luật cho người khuyết tật
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000002000000000000000002000000000000000000
+1. Việc phổ biến, giáo dục pháp luật cho người khuyết tật tập trung vào các quy định pháp luật về quyền của người khuyết tật; chế độ, chính sách của Nhà nước, trách nhiệm của Nhà nước và xã hội trong việc tạo điều kiện, hỗ trợ người khuyết tật và các quy định khác của pháp luật liên quan đến người khuyết tật.
 
-**ID:** dk_00071852
+2. Phổ biến, giáo dục pháp luật cho người khuyết tật được chú trọng thực hiện bằng hình thức, phương thức, phương tiện, tài liệu phù hợp với từng loại đối tượng người khuyết tật.
 
----
+3. Nhà nước có chính sách đào tạo, bồi dưỡng, hỗ trợ người làm công tác phổ biến, giáo dục pháp luật cho người khuyết tật; khuyến khích các tổ chức, cá nhân hỗ trợ kinh phí thực hiện phổ biến, giáo dục pháp luật cho người khuyết tật.
 
+4. Cơ quan lao động - thương binh và xã hội giúp Ủy ban nhân dân cùng cấp chủ trì, phối hợp với tổ chức người khuyết tật các cấp, các cơ quan, tổ chức khác thực hiện phổ biến, giáo dục pháp luật cho người khuyết tật.
 
-### Điều 44.8.LQ.21. Phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc
+(Điều này có nội dung liên quan đến Điều 6.3.LQ.2. Giải thích từ ngữ; Điều 6.3.LQ.21. Chăm sóc sức khỏe ban đầu tại nơi cư trú; Điều 6.3.LQ.50. Trách nhiệm của bộ, cơ quan ngang bộ và Ủy ban nhân dân các cấp; Điều 44.8.NĐ.1.8. Chính sách hỗ trợ tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật)
 
 Điều 44.8.LQ.21. Phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000002000000000000000002100000000000000000
+1. Việc phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc, tùy theo từng đối tượng mà tập trung vào các quy định pháp luật về quyền và nghĩa vụ của công dân, pháp luật về hình sự, thi hành án hình sự, xử lý vi phạm hành chính; pháp luật về phòng, chống ma túy và các tệ nạn xã hội.
 
-**ID:** dk_00071853
+2. Phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc được chú trọng thực hiện thông qua chương trình học pháp luật, giáo dục công dân và lồng ghép trong chương trình học văn hoá, học nghề, giáo dục tái hòa nhập cộng đồng; phổ biến thông tin thời sự, chính sách; sinh hoạt câu lạc bộ, nhóm đồng đẳng và các hình thức phù hợp khác.
 
----
+3. Giám thị trại giam, hiệu trưởng trường giáo dưỡng, giám đốc cơ sở giáo dục bắt buộc và giám đốc cơ sở cai nghiện bắt buộc có trách nhiệm tổ chức phổ biến, giáo dục pháp luật cho phạm nhân, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.
 
-
-### Điều 44.8.LQ.22. Phổ biến, giáo dục pháp luật cho người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo
+(Điều này có nội dung liên quan đến Điều 64. Trường giáo dưỡng của Luật 38/2005/QH11 Giáo dục ban hành ngày 14/06/2005; Điều 1. Sửa đổi, bổ sung một số điều của Luật giáo dục. của Luật 44/2009/QH12 Sửa đổi, bổ sung một số điều của Luật Giáo dục ban hành ngày 25/11/2009; Điều 7. Phổ biến, giáo dục pháp luật về thi hành án hình sự; Điều 171. Nhiệm vụ, quyền hạn của Bộ Công an trong quản lý công tác thi hành án hình sự; Điều 172. Nhiệm vụ, quyền hạn của Bộ Quốc phòng trong quản lý công tác thi hành án hình sự; Điều 178. Nhiệm vụ, quyền hạn của Bộ Giáo dục và Đào tạo trong thi hành án hình sự của Luật 53/2010/QH12 Thi hành án hình sự ban hành ngày 17/06/2010; Chương III TỔ CHỨC GIÁO DỤC PHÁP LUẬT, GIÁO DỤC CÔNG DÂN của Thông tư liên tịch 02/2012/TTLT-BCA-BQP-BTP-BGDĐT Hướng dẫn việc tổ chức dạy văn hóa, giáo dục pháp luật, giáo dục công dân, phổ biến thông tin thời sự, chính sách và thực hiện chế độ sinh hoạt, giải trí cho phạm nhân ban hành ngày 06/02/2012)
 
 Điều 44.8.LQ.22. Phổ biến, giáo dục pháp luật cho người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000002000000000000000002200000000000000000
+1. Việc phổ biến, giáo dục pháp luật cho người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo tập trung vào các quy định pháp luật về quyền và nghĩa vụ của công dân, pháp luật về hình sự, thi hành án hình sự, xử lý vi phạm hành chính.
 
-**ID:** dk_00071854
+2. Phổ biến, giáo dục pháp luật cho người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo được chú trọng thực hiện thông qua hình thức phổ biến pháp luật trực tiếp; sinh hoạt câu lạc bộ và các hình thức phù hợp khác.
 
----
+3. Ủy ban nhân dân cấp xã có trách nhiệm phối hợp với các cơ quan, tổ chức hữu quan, cộng đồng dân cư và gia đình người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo tổ chức phổ biến, giáo dục pháp luật cho các đối tượng này.
 
+Mục 3
 
-### Điều 44.8.LQ.23. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
+GIÁO DỤC PHÁP LUẬT TRONG CÁC CƠ SỞ GIÁO DỤC CỦA HỆ THỐNG GIÁO DỤC QUỐC DÂN
 
 Điều 44.8.LQ.23. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000003000000000000000002300000000000000000
+1. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân được xây dựng phù hợp với từng cấp học và trình độ đào tạo, phù hợp với mục tiêu giáo dục, ngành nghề đào tạo, bảo đảm tính thống nhất, đồng bộ, phổ thông, cơ bản, thiết thực và có hệ thống.
 
-**ID:** dk_00071856
+2. Nội dung giáo dục pháp luật đối với từng cấp học và trình độ đào tạo của hệ thống giáo dục quốc dân được quy định như sau:
 
----
+a) Nội dung giáo dục pháp luật trong chương trình giáo dục mầm non và tiểu học được lồng ghép thông qua nội dung giáo dục đạo đức, hình thành thói quen phù hợp với chuẩn mực đạo đức của xã hội, ý thức kỷ luật, tinh thần đoàn kết, tinh thần tự giác, tạo tiền đề hình thành ý thức pháp luật;
 
+b) Nội dung giáo dục pháp luật trong chương trình giáo dục trung học cơ sở, trung học phổ thông trang bị kiến thức ban đầu về quyền, nghĩa vụ của công dân, rèn luyện thói quen, ý thức tôn trọng và chấp hành pháp luật;
 
-### Điều 44.8.LQ.24. Hình thức giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
+c) Nội dung giáo dục pháp luật trong chương trình giáo dục nghề nghiệp, giáo dục đại học trang bị kiến thức cơ bản về nhà nước và pháp luật, kiến thức pháp luật liên quan đến ngành, nghề đào tạo.
 
 Điều 44.8.LQ.24. Hình thức giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000020000003000000000000000002400000000000000000
+1. Giáo dục chính khóa thông qua việc lồng ghép trong các hoạt động giáo dục ở cấp mầm non; môn học đạo đức ở cấp tiểu học; môn học giáo dục công dân ở cấp trung học cơ sở, trung học phổ thông; môn học pháp luật, pháp luật đại cương, pháp luật chuyên ngành tại cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học; các môn học trong cơ sở giáo dục khác của hệ thống giáo dục quốc dân.
 
-**ID:** dk_00071857
+2. Giáo dục ngoại khóa và các hoạt động giáo dục ngoài giờ lên lớp.
 
----
+Chương III
 
+TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
 
-### Điều 44.8.LQ.25. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+Mục 1
+
+TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC
 
 Điều 44.8.LQ.25. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000002500000000000000000
+1. Trong phạm vi nhiệm vụ, quyền hạn của mình, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có trách nhiệm sau đây:
 
-**ID:** dk_00071860
+a) Ban hành theo thẩm quyền chương trình, đề án, kế hoạch phổ biến, giáo dục pháp luật và chỉ đạo, hướng dẫn các cơ quan, đơn vị thuộc thẩm quyền quản lý triển khai thực hiện;
 
----
+b) Xác định nội dung và hình thức phổ biến, giáo dục pháp luật phù hợp với từng nhóm đối tượng; biên soạn tài liệu và phổ biến kiến thức pháp luật chuyên ngành; bảo đảm quyền được thông tin về pháp luật của nhân dân;
 
+c) Tổ chức phổ biến, giáo dục pháp luật cho cán bộ, công chức, viên chức và cán bộ, chiến sỹ trong lực lượng vũ trang nhân dân thuộc phạm vi quản lý, chú trọng thực hiện thông qua phổ biến pháp luật trực tiếp, cung cấp văn bản quy phạm pháp luật, trang thông tin điện tử của cơ quan, các khóa học, lớp đào tạo, bồi dưỡng, tập huấn;
 
-### Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước
+d) Xây dựng, tập huấn, bồi dưỡng đội ngũ báo cáo viên pháp luật của bộ, ngành;
+
+đ) Chỉ đạo các trường, cơ sở dạy nghề thuộc phạm vi quản lý tổ chức giáo dục pháp luật trong cơ sở giáo dục, cơ sở dạy nghề; bố trí, chuẩn hóa, bồi dưỡng đội ngũ giáo viên dạy môn giáo dục công dân, giáo viên, giảng viên dạy pháp luật.
+
+2. Bộ Giáo dục và Đào tạo ban hành chương trình giáo dục pháp luật trong các cấp học và trình độ đào tạo; quy định thời gian, lộ trình hoàn thành việc chuẩn hóa giáo viên dạy môn giáo dục công dân, giáo viên, giảng viên dạy pháp luật.
+
+3. Bộ Lao động – Thương binh và Xã hội ban hành chương trình giáo dục pháp luật trong các cơ sở dạy nghề.
+
+(Điều này có nội dung liên quan đến Điều 28. Yêu cầu về nội dung, phương pháp giáo dục phổ thông của Luật 38/2005/QH11 Giáo dục ban hành ngày 14/06/2005; Điều 1. Sửa đổi, bổ sung một số điều của Luật giáo dục. của Luật 44/2009/QH12 Sửa đổi, bổ sung một số điều của Luật Giáo dục ban hành ngày 25/11/2009; Điều 2. Nhiệm vụ và quyền hạn của Nghị định 32/2008/NĐ-CP Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo ban hành ngày 19/03/2008; Điều 4. Về pháp luật của Nghị định 36/2012/NĐ-CP Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ ban hành ngày 18/04/2012; Điều 2. Nhiệm vụ và quyền hạn của Nghị định 106/2012/NĐ-CP Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội ban hành ngày 20/12/2012; Điều 44.3.NĐ.3. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở Bộ, cơ quan ngang Bộ; Điều 44.8.NĐ.1.2. Trách nhiệm của Bộ Tư pháp; Điều 44.8.NĐ.1.3. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ)
 
 Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000002600000000000000000
+1. Xây dựng, tập huấn, bồi dưỡng đội ngũ báo cáo viên pháp luật của ngành.
 
-**ID:** dk_00071861
+2. Tổ chức phổ biến, giáo dục pháp luật cho cán bộ, công chức, viên chức thuộc phạm vi quản lý; phổ biến kiến thức pháp luật chuyên ngành cho nhân dân bằng hình thức phù hợp.
 
----
+3. Kết hợp phổ biến, giáo dục pháp luật cho nhân dân thông qua hoạt động chuyên môn.
 
-
-### Điều 44.8.LQ.27. Trách nhiệm của chính quyền các cấp ở địa phương
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.6. Các công tác của Viện kiểm sát nhân dân; Điều 35.10.LQ.8. Trách nhiệm phối hợp của Viện kiểm sát nhân dân; Điều 35.10.LQ.39. Công tác phổ biến, giáo dục pháp luật; Điều 35.10.LQ.59. Trách nhiệm của cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 44.8.LQ.27. Trách nhiệm của chính quyền các cấp ở địa phương
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000002700000000000000000
+1. Hội đồng nhân dân các cấp có trách nhiệm sau đây:
 
-**ID:** dk_00071862
+a) Quyết định các biện pháp nhằm nâng cao hiệu quả công tác phổ biến, giáo dục pháp luật; phân bổ dự toán ngân sách địa phương cho công tác phổ biến, giáo dục pháp luật;
 
----
+b) Giám sát việc thực hiện pháp luật về phổ biến, giáo dục pháp luật.
 
+2. Ủy ban nhân dân các cấp có trách nhiệm sau đây:
 
-### Điều 44.8.LQ.28. Trách nhiệm của cơ quan, tổ chức, đơn vị trực tiếp quản lý cán bộ, công chức, viên chức
+a) Ban hành theo thẩm quyền chương trình, kế hoạch, đề án về phổ biến, giáo dục pháp luật;
+
+b) Chỉ đạo, hướng dẫn, tổ chức triển khai và kiểm tra công tác phổ biến, giáo dục pháp luật;
+
+c) Xây dựng, tập huấn, bồi dưỡng, quản lý đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật; thực hiện chuẩn hóa đội ngũ giáo viên dạy môn giáo dục công dân, giáo viên, giảng viên dạy pháp luật theo quy định của pháp luật;
+
+d) Tạo điều kiện để các tổ chức, cá nhân, doanh nghiệp hỗ trợ cho hoạt động phổ biến, giáo dục pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 44.8.NĐ.1.4. Trách nhiệm của Ủy ban nhân dân các cấp; Điều 4. Nhiệm vụ, quyền hạn của sở; Điều 8. Các sở được tổ chức thống nhất ở các địa phương của Nghị định 24/2014/NĐ-CP Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành ngày 04/04/2014; Điều 4. Nhiệm vụ, quyền hạn; Điều 7. Các cơ quan chuyên môn được tổ chức thống nhất ở các quận, huyện, thị xã, thành phố thuộc tỉnh của Nghị định 37/2014/NĐ-CP Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh ban hành ngày 05/05/2014)
 
 Điều 44.8.LQ.28. Trách nhiệm của cơ quan, tổ chức, đơn vị trực tiếp quản lý cán bộ, công chức, viên chức
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000002800000000000000000
+1. Phổ biến, giáo dục pháp luật cho cán bộ, công chức, viên chức và người lao động thuộc phạm vi quản lý, chú trọng thực hiện thông qua phổ biến pháp luật trực tiếp, đăng tải thông tin pháp luật trên trang thông tin điện tử, báo, bản tin của cơ quan, tổ chức, đơn vị (nếu có); kết hợp thực hiện phổ biến, giáo dục pháp luật thông qua các hoạt động chuyên môn.
 
-**ID:** dk_00071863
+2. Bảo đảm các điều kiện cần thiết cho việc tổ chức phổ biến, giáo dục pháp luật đối với cán bộ, công chức, viên chức và người lao động; xây dựng, tập huấn, bồi dưỡng đội ngũ báo cáo viên pháp luật của cơ quan, tổ chức, đơn vị mình hoặc định kỳ mời báo cáo viên tham gia phổ biến, giáo dục pháp luật tại cơ quan, tổ chức, đơn vị.
 
----
-
-
-### Điều 44.8.LQ.29. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
+3. Phối hợp với cơ quan nhà nước, tổ chức hữu quan phổ biến, giáo dục pháp luật cho nhân dân.
 
 Điều 44.8.LQ.29. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000002900000000000000000
+1. Tổ chức phổ biến, giáo dục pháp luật cho hội viên, đoàn viên của tổ chức mình; vận động nhân dân chấp hành pháp luật.
 
-**ID:** dk_00071864
+2. Phối hợp với cơ quan nhà nước, tổ chức hữu quan phổ biến, giáo dục pháp luật cho nhân dân.
 
----
+3. Xây dựng, tập huấn, bồi dưỡng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật của tổ chức mình.
 
+4. Vận động tổ chức, cá nhân, doanh nghiệp tham gia và hỗ trợ hoạt động phổ biến giáo dục pháp luật.
 
-### Điều 44.8.LQ.30. Trách nhiệm của tổ chức hành nghề về pháp luật, tổ chức xã hội nghề nghiệp về pháp luật, cơ sở đào tạo luật, cơ sở đào tạo, bồi dưỡng chức danh tư pháp
+5. Tham gia giám sát việc thực hiện chính sách, pháp luật về phổ biến, giáo dục pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 2. Tuyên truyền, phổ biến, giáo dục pháp luật; Điều 3. Trợ giúp pháp lý đối với cựu chiến binh của Thông tư liên tịch 02/2008/TTLT-BTP-TWHCCBVN Hướng dẫn phối hợp xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật, trợ giúp pháp lý đối với Cựu chiến binh ban hành ngày 09/06/2008; Điều 35.4.LQ.17. Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật; Điều 44.8.TL.1.5. Tổ chức thực hiện)
 
 Điều 44.8.LQ.30. Trách nhiệm của tổ chức hành nghề về pháp luật, tổ chức xã hội nghề nghiệp về pháp luật, cơ sở đào tạo luật, cơ sở đào tạo, bồi dưỡng chức danh tư pháp
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000003000000000000000000
+1. Tổ chức hành nghề về pháp luật, tổ chức xã hội nghề nghiệp về pháp luật, cơ sở đào tạo luật, cơ sở đào tạo, bồi dưỡng chức danh tư pháp có trách nhiệm tham gia phổ biến, giáo dục pháp luật cho nhân dân; tổ chức phổ biến giáo dục, pháp luật thông qua hoạt động tư vấn pháp luật, trợ giúp pháp lý; kết hợp phổ biến, giáo dục pháp luật thông qua hoạt động chuyên môn; tạo điều kiện cho thành viên của tổ chức, công chức, viên chức, giảng viên, học viên, sinh viên tham gia hoạt động tình nguyện phổ biến, giáo dục pháp luật.
 
-**ID:** dk_00071865
-
----
-
-
-### Điều 44.8.LQ.31. Trách nhiệm của các cơ sở giáo dục của hệ thống giáo dục quốc dân
+2. Cơ sở đào tạo luật, cơ sở đào tạo, bồi dưỡng chức danh tư pháp có trách nhiệm tham gia bồi dưỡng, nâng cao năng lực cho người làm công tác phổ biến, giáo dục pháp luật.
 
 Điều 44.8.LQ.31. Trách nhiệm của các cơ sở giáo dục của hệ thống giáo dục quốc dân
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000001000000000000000003100000000000000000
+1. Căn cứ vào nội dung, hình thức giáo dục pháp luật ở từng cấp học và trình độ đào tạo, các cơ sở giáo dục của hệ thống giáo dục quốc dân có trách nhiệm tổ chức thực hiện giáo dục pháp luật, bố trí giáo viên dạy môn giáo dục công dân, giáo viên, giảng viên dạy pháp luật theo quy định của pháp luật.
 
-**ID:** dk_00071866
+2. Phối hợp với gia đình và xã hội thực hiện mục tiêu giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân.
 
----
+Điều 44.8.LQ.32. Trách nhiệm của gia đình
 
+(Điều 32 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-### Điều 44.8.LQ.32. Trách nhiệm của gia đình
+Các thành viên trong gia đình có trách nhiệm gương mẫu chấp hành pháp luật; ông, bà, cha, mẹ có trách nhiệm giáo dục và tạo điều kiện cho con, cháu tìm hiểu, học tập pháp luật, rèn luyện ý thức tôn trọng, chấp hành pháp luật.
 
-*Nội dung chưa có sẵn*
+Mục 2
 
-**Chỉ mục:** 32
-
-**Mã phân cấp:** 440080000000000030000001000000000000000003200000000000000000
-
-**ID:** dk_00071867
-
----
-
-
-### Điều 44.8.LQ.33. Trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp
+TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CÁ NHÂN
 
 Điều 44.8.LQ.33. Trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000002000000000000000003300000000000000000
-
-**ID:** dk_00071869
-
----
-
-
-### Điều 44.8.LQ.34. Trách nhiệm của cán bộ, công chức, viên chức và cán bộ, chiến sỹ trong lực lượng vũ trang nhân dân
+Trong phạm vi nhiệm vụ, quyền hạn của mình, đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp thực hiện phổ biến, giáo dục pháp luật cho nhân dân thông qua hoạt động tiếp xúc cử tri; giám sát việc thực hiện pháp luật.
 
 Điều 44.8.LQ.34. Trách nhiệm của cán bộ, công chức, viên chức và cán bộ, chiến sỹ trong lực lượng vũ trang nhân dân
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000002000000000000000003400000000000000000
+1. Tích cực tìm hiểu, học tập pháp luật; tham gia các khóa học, lớp đào tạo, bồi dưỡng, tập huấn về pháp luật; gương mẫu trong việc chấp hành pháp luật.
 
-**ID:** dk_00071870
+2. Chủ động, tích cực kết hợp thực hiện việc phổ biến, giáo dục pháp luật thông qua các hoạt động chuyên môn, thực thi nhiệm vụ.
 
----
+3. Hỗ trợ, giúp đỡ cơ quan, tổ chức, cá nhân trong công tác phổ biến, giáo dục pháp luật liên quan đến lĩnh vực công tác.
 
+Điều 44.8.LQ.35. Báo cáo viên pháp luật
 
-### Điều 44.8.LQ.35. Báo cáo viên pháp luật
+(Điều 35 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-*Nội dung chưa có sẵn*
+1. Báo cáo viên pháp luật là cán bộ, công chức, viên chức và sỹ quan trong lực lượng vũ trang nhân dân được cơ quan có thẩm quyền ra quyết định công nhận để kiêm nhiệm thực hiện hoạt động phổ biến, giáo dục pháp luật.
 
-**Chỉ mục:** 35
+2. Báo cáo viên pháp luật phải có đủ các tiêu chuẩn sau:
 
-**Mã phân cấp:** 440080000000000030000002000000000000000003500000000000000000
+a) Có phẩm chất đạo đức tốt, lập trường tư tưởng vững vàng, có uy tín trong công tác;
 
-**ID:** dk_00071871
+b) Có khả năng truyền đạt;
 
----
+c) Có bằng tốt nghiệp đại học luật và thời gian công tác trong lĩnh vực pháp luật ít nhất là 02 năm; trường hợp không có bằng tốt nghiệp đại học luật, nhưng có bằng tốt nghiệp đại học khác thì phải có thời gian công tác liên quan đến pháp luật ít nhất là 03 năm.
 
+3. Thẩm quyền quyết định công nhận báo cáo viên pháp luật được quy định như sau:
 
-### Điều 44.8.LQ.36. Quyền và nghĩa vụ của báo cáo viên pháp luật
+a) Bộ trưởng Bộ Tư pháp quyết định công nhận báo cáo viên pháp luật của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức thành viên của Mặt trận;
+
+b) Chủ tịch Uỷ ban nhân dân cấp tỉnh quyết định công nhận báo cáo viên pháp luật của cơ quan nhà nước, Uỷ ban Mặt trận Tổ quốc Việt Nam và tổ chức thành viên của Mặt trận cấp tỉnh;
+
+c) Chủ tịch Ủy ban nhân dân cấp huyện quyết định công nhận báo cáo viên pháp luật của cơ quan nhà nước, Uỷ ban Mặt trận Tổ quốc Việt Nam và tổ chức thành viên của Mặt trận cấp huyện.
+
+4. Cơ quan có thẩm quyền ra quyết định công nhận báo cáo viên pháp luật có quyền miễn nhiệm báo cáo viên pháp luật. Cơ quan, tổ chức quản lý trực tiếp báo cáo viên pháp luật tổ chức rà soát, đề nghị cơ quan có thẩm quyền ra quyết định miễn nhiệm báo cáo viên pháp luật.
+
+5. Trình tự, thủ tục công nhận, miễn nhiệm báo cáo viên pháp luật do Bộ trưởng Bộ Tư pháp quy định.
+
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.17. Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật; Điều 44.8.TT.4.3. Công nhận báo cáo viên pháp luật)
 
 Điều 44.8.LQ.36. Quyền và nghĩa vụ của báo cáo viên pháp luật
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000002000000000000000003600000000000000000
+1. Báo cáo viên pháp luật có các quyền sau đây:
 
-**ID:** dk_00071872
+a) Được cung cấp văn bản quy phạm pháp luật, thông tin, tài liệu pháp luật phục vụ cho việc thực hiện nhiệm vụ phổ biến, giáo dục pháp luật;
 
----
+b) Được tập huấn, bồi dưỡng kiến thức pháp luật, kỹ năng, nghiệp vụ phổ biến, giáo dục pháp luật;
 
+c) Được hưởng thù lao và chế độ theo quy định của pháp luật.
 
-### Điều 44.8.LQ.37. Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật ở cơ sở
+2. Báo cáo viên pháp luật có các nghĩa vụ sau đây:
+
+a) Thực hiện nhiệm vụ phổ biến, giáo dục pháp luật theo sự phân công; truyền đạt chính xác nội dung phổ biến, giáo dục pháp luật;
+
+b) Không được tiết lộ bí mật nhà nước và thực hiện các hành vi bị cấm khác;
+
+c) Hằng năm, báo cáo về hoạt động phổ biến, giáo dục pháp luật do mình thực hiện với cơ quan, tổ chức quản lý trực tiếp.
+
+(Điều này có nội dung liên quan đến Điều 44.8.TT.4.3. Công nhận báo cáo viên pháp luật)
 
 Điều 44.8.LQ.37. Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật ở cơ sở
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 440080000000000030000002000000000000000003700000000000000000
+1. Người có uy tín, kiến thức, am hiểu về pháp luật được xem xét để công nhận là tuyên truyền viên pháp luật ở xã, phường, thị trấn hoặc được mời tham gia phổ biến, giáo dục pháp luật ở cơ sở.
 
-**ID:** dk_00071873
+2. Chủ tịch Ủy ban nhân dân cấp xã quyết định công nhận tuyên truyền viên pháp luật.
 
----
-
-
-### Điều 44.8.TT.4.2. Phạm vi hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật
+3. Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật được cung cấp văn bản pháp luật; được tập huấn, bồi dưỡng kiến thức pháp luật, nghiệp vụ phổ biến, giáo dục pháp luật; hưởng thù lao, chế độ theo quy định của pháp luật.
 
 Điều 44.8.TT.4.2. Phạm vi hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Mã phân cấp:** 44008000000000003000000200000000000000000370000000000000000000802589100100000200
+1. Báo cáo viên pháp luật của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan Trung ương của tổ chức thành viên của Mặt trận (sau đây gọi là báo cáo viên pháp luật Trung ương) thực hiện phổ biến, giáo dục pháp luật trên phạm vi toàn quốc.
 
-**ID:** dk_00071874
+2. Báo cáo viên pháp luật của cơ quan nhà nước, Ủy ban Mặt trận Tổ quốc Việt Nam và tổ chức thành viên của Mặt trận tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là báo cáo viên pháp luật tỉnh) thực hiện phổ biến, giáo dục pháp luật trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi công nhận báo cáo viên pháp luật.
 
----
+3. Báo cáo viên pháp luật của cơ quan nhà nước, Ủy ban Mặt trận Tổ quốc Việt Nam và tổ chức thành viên của Mặt trận quận, huyện, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (sau đây gọi là báo cáo viên pháp luật huyện) thực hiện phổ biến, giáo dục pháp luật trên địa bàn quận, huyện, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương nơi công nhận báo cáo viên pháp luật.
 
+4. Tuyên truyền viên pháp luật ở xã, phường, thị trấn (sau đây gọi là tuyên truyền viên pháp luật) thực hiện phổ biến, giáo dục pháp luật trên địa bàn xã, phường, thị trấn nơi công nhận tuyên truyền viên pháp luật.
 
-### Điều 44.8.TT.4.3. Công nhận báo cáo viên pháp luật
+Điều 44.8.TT.4.3. Công nhận báo cáo viên pháp luật
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Chỉ mục:** 3
+ 1. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan Trung ương của tổ chức thành viên của Mặt trận (sau đây gọi là Bộ, ngành, đoàn thể Trung ương) căn cứ vào yêu cầu công tác phổ biến, giáo dục pháp luật và điều kiện thực tế chỉ đạo tổ chức pháp chế, đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật của Bộ, ngành, đoàn thể mình lựa chọn cán bộ, công chức, viên chức và sỹ quan trong lực lượng vũ trang nhân dân có đủ tiêu chuẩn quy định tại khoản 2 Điều 35 Luật phổ biến, giáo dục pháp luật để Thủ trưởng Bộ, ngành, đoàn thể Trung ương có văn bản đề nghị Bộ trưởng Bộ Tư pháp xem xét, quyết định công nhận báo cáo viên pháp luật Trung ương.
 
-**Mã phân cấp:** 44008000000000003000000200000000000000000370000000000000000000802589100100000300
+ 2. Cơ quan chuyên môn của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận cấp tỉnh, Công an, Viện kiểm sát nhân dân, Tòa án nhân dân, Cục Thi hành án dân sự cấp tỉnh, Bộ Tư lệnh Thủ đô, Bộ chỉ huy quân sự, Bộ chỉ huy bộ đội biên phòng và cơ quan nhà nước cấp tỉnh khác (sau đây gọi là cơ quan, tổ chức cấp tỉnh) căn cứ vào yêu cầu công tác phổ biến, giáo dục pháp luật và điều kiện thực tế chỉ đạo tổ chức pháp chế, đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật của cơ quan, tổ chức mình lựa chọn cán bộ, công chức, viên chức và sỹ quan trong lực lượng vũ trang nhân dân có đủ tiêu chuẩn quy định tại khoản 2 Điều 35 Luật phổ biến, giáo dục pháp luật để Thủ trưởng cơ quan, tổ chức cấp tỉnh có văn bản đề nghị công nhận báo cáo viên pháp luật gửi Sở Tư pháp tổng hợp, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định công nhận báo cáo viên pháp luật tỉnh.
 
-**ID:** dk_00071875
+ 3. Cơ quan chuyên môn của Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (sau đây gọi chung là cấp huyện), Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận cấp huyện, Công an, Viện kiểm sát nhân dân, Tòa án nhân dân, Chi cục Thi hành án dân sự cấp huyện, Ban chỉ huy quân sự và cơ quan nhà nước cấp huyện khác (sau đây gọi là cơ quan, tổ chức cấp huyện) căn cứ vào yêu cầu công tác phổ biến, giáo dục pháp luật và điều kiện thực tế lựa chọn cán bộ, công chức, viên chức và sỹ quan trong lực lượng vũ trang nhân dân có đủ tiêu chuẩn quy định tại khoản 2 Điều 35 Luật phổ biến, giáo dục pháp luật và có văn bản đề nghị công nhận báo cáo viên pháp luật gửi Phòng Tư pháp tổng hợp, trình Chủ tịch Ủy ban nhân dân cấp huyện xem xét, quyết định công nhận báo cáo viên pháp luật huyện.
 
----
+ 4. Số lượng báo cáo viên pháp luật của Bộ, ngành, đoàn thể, cơ quan, tổ chức do Thủ trưởng Bộ, ngành, đoàn thể, cơ quan, tổ chức quyết định bảo đảm mỗi lĩnh vực pháp luật thuộc phạm vi quản lý chuyên sâu có ít nhất 01 báo cáo viên pháp luật kiêm nhiệm thực hiện hoạt động phổ biến, giáo dục pháp luật.
 
+ 5. Văn bản đề nghị công nhận báo cáo viên pháp luật phải có đầy đủ các thông tin sau đây của người được đề nghị công nhận:
 
-### Điều 44.8.TT.4.4. Miễn nhiệm báo cáo viên pháp luật
+ a) Họ và tên;
+
+ b) Chức vụ, chức danh (nếu có) và cơ quan, tổ chức, đơn vị công tác;
+
+ c) Trình độ chuyên môn;
+
+ d) Lĩnh vực pháp luật chuyên môn sâu dự kiến kiêm nhiệm thực hiện hoạt động phổ biến, giáo dục pháp luật.
+
+ 6. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị công nhận báo cáo viên pháp luật có đầy đủ thông tin quy định tại khoản 5 Điều này, cơ quan có thẩm quyền quyết định công nhận báo cáo viên pháp luật xem xét, ra quyết định công nhận. Quyết định công nhận báo cáo viên pháp luật được gửi tới Bộ, ngành, đoàn thể, cơ quan, tổ chức đề nghị công nhận và báo cáo viên pháp luật; được thông báo công khai theo quy định tại điểm b khoản 2 Điều 8 của Thông tư này.
+
+ Trường hợp văn bản đề nghị công nhận báo cáo viên pháp luật không có đủ thông tin quy định tại khoản 5 Điều này thì trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản, cơ quan tiếp nhận có văn bản đề nghị bổ sung thông tin.
+
+ 7. Báo cáo viên pháp luật có các quyền và nghĩa vụ quy định tại Điều 36 Luật phổ biến, giáo dục pháp luật kể từ khi Quyết định công nhận báo cáo viên pháp luật có hiệu lực thi hành.(Điều này có nội dung liên quan đến Điều 44.8.LQ.35. Báo cáo viên pháp luật; Điều 44.8.LQ.36. Quyền và nghĩa vụ của báo cáo viên pháp luật; Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật)
 
 Điều 44.8.TT.4.4. Miễn nhiệm báo cáo viên pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Mã phân cấp:** 44008000000000003000000200000000000000000370000000000000000000802589100100000400
+ 1. Các trường hợp miễn nhiệm báo cáo viên pháp luật bao gồm:
 
-**ID:** dk_00071876
+ a) Tự nguyện xin thôi làm báo cáo viên pháp luật vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do chính đáng khác;
 
----
+ b) Không còn là cán bộ, công chức, viên chức, sỹ quan trong lực lượng vũ trang nhân dân hoặc chuyển công tác khỏi cơ quan, tổ chức đã đề nghị công nhận báo cáo viên pháp luật;
 
+ c) Không còn đủ tiêu chuẩn quy định tại khoản 2 Điều 35 Luật phổ biến, giáo dục pháp luật;
 
-### Điều 44.8.TT.4.5. Công nhận tuyên truyền viên pháp luật
+ d) Từ chối không thực hiện hoạt động phổ biến, giáo dục pháp luật theo sự phân công của cơ quan, tổ chức, đơn vị quản lý trực tiếp mà không có lý do chính đáng từ 03 lần trở lên;
 
-Điều 44.8.TT.4.5. Công nhận tuyên truyền viên pháp luật
+ đ) Thực hiện một trong các hành vi bị cấm quy định tại Điều 9 Luật phổ biến, giáo dục pháp luật;
 
-**Chỉ mục:** 5
+ e) Bị Tòa án kết án và bản án đã có hiệu lực pháp luật;
 
-**Mã phân cấp:** 44008000000000003000000200000000000000000370000000000000000000802589100100000500
+ g) Mất năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi hoặc hạn chế năng lực hành vi dân sự theo quy định của Bộ luật dân sự.
 
-**ID:** dk_00071877
+ 2. Báo cáo viên pháp luật thuộc một trong các trường hợp quy định tại khoản 1 Điều này, Thủ trưởng Bộ, ngành, đoàn thể, cơ quan, tổ chức đề nghị công nhận báo cáo viên pháp luật có văn bản đề nghị miễn nhiệm báo cáo viên pháp luật gửi đến Bộ Tư pháp (đối với báo cáo viên pháp luật Trung ương), Sở Tư pháp (đối với báo cáo viên pháp luật tỉnh), Phòng Tư pháp (đối với báo cáo viên pháp luật huyện) và thông báo cho báo cáo viên pháp luật biết lý do.
 
----
+ Văn bản đề nghị miễn nhiệm phải có đầy đủ các thông tin sau đây của báo cáo viên pháp luật được đề nghị miễn nhiệm:
 
+ a) Họ và tên;
 
-### Điều 44.8.TT.4.6. Cho thôi làm tuyên truyền viên pháp luật
+ b) Chức vụ, chức danh (nếu có) và cơ quan, tổ chức, đơn vị công tác;
+
+ c) Số, ngày, tháng, năm của Quyết định công nhận báo cáo viên pháp luật;
+
+ d) Lý do của việc đề nghị miễn nhiệm.
+
+ 3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị miễn nhiệm, cơ quan có thẩm quyền công nhận báo cáo viên pháp luật ra quyết định miễn nhiệm báo cáo viên pháp luật. Quyết định miễn nhiệm được gửi tới Bộ, ngành, đoàn thể, cơ quan, tổ chức đề nghị miễn nhiệm và báo cáo viên pháp luật bị miễn nhiệm; được công bố công khai theo quy định tại điểm b khoản 2 Điều 8 của Thông tư này.
+
+ Trường hợp văn bản đề nghị miễn nhiệm báo cáo viên pháp luật không có đầy đủ các thông tin quy định tại khoản 2 Điều này thì trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản đề nghị, cơ quan tiếp nhận có văn bản đề nghị bổ sung thông tin.
+
+ 4. Kể từ khi Quyết định miễn nhiệm báo cáo viên pháp luật có hiệu lực thi hành, người bị miễn nhiệm chấm dứt tư cách báo cáo viên pháp luật.
+
+ 5. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo về việc đề nghị miễn nhiệm, báo cáo viên pháp luật được kiến nghị với Thủ trưởng Bộ, ngành, đoàn thể, cơ quan, tổ chức về đề nghị miễn nhiệm. Quyết định của Thủ trưởng Bộ, ngành, đoàn thể, cơ quan, tổ chức đề nghị miễn nhiệm báo cáo viên pháp luật là ý kiến cuối cùng.
+
+ 6. Tổ chức pháp chế, đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật của Bộ, ngành, đoàn thể, cơ quan, tổ chức là đầu mối tham mưu, giúp Thủ trưởng Bộ, ngành, đoàn thể, cơ quan, tổ chức thực hiện nhiệm vụ quy định tại khoản 2, khoản 3, khoản 5 Điều này.Điều 44.8.TT.4.5. Công nhận tuyên truyền viên pháp luật
+
+(Điều 5 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
+
+ 1. Căn cứ vào yêu cầu công tác phổ biến, giáo dục pháp luật và nhu cầu, điều kiện thực tế trên địa bàn cấp xã, Chủ tịch Ủy ban nhân dân cấp xã quyết định công nhận tuyên truyền viên pháp luật, bảo đảm có đủ nguồn lực để triển khai công tác phổ biến, giáo dục pháp luật trên địa bàn.
+
+ 2. Định kỳ tháng 9 hàng năm, công chức tư pháp - hộ tịch chủ trì, phối hợp với Trưởng ban công tác Mặt trận, Trưởng thôn, làng, ấp, bản, buôn, phum, sóc, tổ dân phố, khu phố, khối phố và cộng đồng dân cư khác (sau đây gọi là địa bàn cơ sở) và người đứng đầu các tổ chức chính trị - xã hội trên địa bàn cấp xã thông báo công khai tiêu chuẩn tuyên truyền viên pháp luật quy định tại khoản 1 Điều 37 Luật phổ biến, giáo dục pháp luật; các quy định về công nhận tuyên truyền viên pháp luật tới cơ quan, đơn vị và người dân trên địa bàn cơ sở để tự nguyện đăng ký tham gia làm tuyên truyền viên pháp luật.
+
+ 3. Căn cứ danh sách tự nguyện đăng ký tham gia làm tuyên truyền viên pháp luật từ địa bàn cơ sở, thực trạng đội ngũ công chức của Ủy ban nhân dân cấp xã và nhu cầu xây dựng đội ngũ tuyên truyền viên pháp luật, công chức tư pháp - hộ tịch rà soát, lập danh sách người đủ tiêu chuẩn quy định tại khoản 1 Điều 37 Luật phổ biến, giáo dục pháp luật trình Chủ tịch Ủy ban nhân dân cấp xã xem xét, công nhận tuyên truyền viên pháp luật.
+
+ 4. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được danh sách đề nghị công nhận tuyên truyền viên pháp luật của công chức tư pháp - hộ tịch, Chủ tịch Ủy ban nhân dân cấp xã xem xét, ra quyết định công nhận tuyên truyền viên pháp luật.
+
+ 5. Quyết định công nhận tuyên truyền viên pháp luật được gửi cho công chức tư pháp - hộ tịch, Trưởng ban công tác Mặt trận và tuyên truyền viên pháp luật; được công bố công khai theo quy định tại điểm b khoản 2 Điều 8 của Thông tư này.(Điều này có nội dung liên quan đến Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật)
 
 Điều 44.8.TT.4.6. Cho thôi làm tuyên truyền viên pháp luật
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Mã phân cấp:** 44008000000000003000000200000000000000000370000000000000000000802589100100000600
+ 1. Các trường hợp cho thôi làm tuyên truyền viên pháp luật bao gồm:
 
-**ID:** dk_00071878
+ a) Tự nguyện xin thôi làm tuyên truyền viên pháp luật vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do chính đáng khác;
 
----
+ b) Thực hiện một trong các hành vi bị cấm theo quy định tại Điều 9 Luật phổ biến, giáo dục pháp luật;
 
+ c) Bị Tòa án kết án và bản án đã có hiệu lực pháp luật;
 
-### Điều 44.8.LQ.38. Bảo đảm về tổ chức, cán bộ, cơ sở vật chất và phương tiện cho công tác phổ biến, giáo dục pháp luật
+ d) Mất năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi hoặc hạn chế năng lực hành vi dân sự theo quy định của Bộ luật dân sự.
+
+ 2. Khi tuyên truyền viên pháp luật thuộc một trong các trường hợp quy định tại khoản 1 Điều này, công chức tư pháp - hộ tịch trình Chủ tịch Ủy ban nhân dân cấp xã xem xét, ra quyết định cho thôi làm tuyên truyền viên pháp luật.
+
+ 3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định cho thôi làm tuyên truyền viên pháp luật. Quyết định cho thôi làm tuyên truyền viên pháp luật được gửi cho Trưởng ban công tác Mặt trận, tuyên truyền viên pháp luật và được công bố công khai theo quy định tại điểm b khoản 2 Điều 8 của Thông tư này.
+
+ 4. Kể từ khi Quyết định cho thôi làm tuyên truyền viên pháp luật có hiệu lực thi hành, người được cho thôi chấm dứt tư cách tuyên truyền viên pháp luật.(Điều này có nội dung liên quan đến Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật)
+
+Chương IV
+
+CÁC ĐIỀU KIỆN BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
 
 Điều 44.8.LQ.38. Bảo đảm về tổ chức, cán bộ, cơ sở vật chất và phương tiện cho công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000400003800000000000000000
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam và người đứng đầu tổ chức thành viên của Mặt trận có trách nhiệm bố trí đủ cán bộ, công chức, viên chức, báo cáo viên pháp luật, tuyên truyền viên pháp luật làm công tác phổ biến, giáo dục pháp luật phù hợp với nhu cầu phổ biến, giáo dục pháp luật trong lĩnh vực, địa bàn quản lý; bảo đảm cơ sở vật chất, phương tiện cần thiết cho công tác phổ biến, giáo dục pháp luật theo quy định của Chính phủ.
 
-**ID:** dk_00071880
-
----
-
-
-### Điều 44.8.NĐ.1.10. Bảo đảm về tổ chức và cán bộ làm công tác phổ biến, giáo dục pháp luật
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.17. Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật; Điều 44.8.NĐ.1.10. Bảo đảm về tổ chức và cán bộ làm công tác phổ biến, giáo dục pháp luật)
 
 Điều 44.8.NĐ.1.10. Bảo đảm về tổ chức và cán bộ làm công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000040000380000000000000000000402468600280001000
+1. Căn cứ nhu cầu công tác phổ biến, giáo dục pháp luật, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ quyết định thành lập tổ chức làm công tác phổ biến, giáo dục pháp luật trực thuộc Vụ Pháp chế thuộc Bộ, cơ quan ngang Bộ.
 
-**ID:** dk_00071881
+2. Ngoài việc thực hiện trách nhiệm quy định tại Điều 38 Luật Phổ biến, giáo dục pháp luật, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm bố trí đủ công chức làm công tác phổ biến, giáo dục pháp luật cho các đối tượng đặc thù thuộc lĩnh vực, địa bàn quản lý; chỉ đạo các trường, cơ sở dạy nghề thuộc phạm vi quản lý bố trí đủ giáo viên dạy môn giáo dục công dân, giáo viên, giảng viên dạy pháp luật.
 
----
-
-
-### Điều 44.8.TT.4.7. Biện pháp củng cố, kiện toàn và nâng cao chất lượng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.38. Bảo đảm về tổ chức, cán bộ, cơ sở vật chất và phương tiện cho công tác phổ biến, giáo dục pháp luật)
 
 Điều 44.8.TT.4.7. Biện pháp củng cố, kiện toàn và nâng cao chất lượng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Mã phân cấp:** 44008000000000004000038000000000000000000040246860028000100000802589100100000700
+ 1. Bộ, ngành, đoàn thể, cơ quan, tổ chức đề nghị công nhận báo cáo viên pháp luật và Ủy ban nhân dân cấp xã có trách nhiệm sau đây:
 
-**ID:** dk_00071882
+ a) Thường xuyên rà soát, củng cố, kiện toàn, nâng cao chất lượng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý;
 
----
+ b) Cung cấp văn bản quy phạm pháp luật, thông tin, tài liệu pháp luật chuyên ngành cho báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý;
 
+ c) Chủ trì, phối hợp với Bộ Tư pháp (đối với Bộ, ngành, đoàn thể Trung ương), Sở Tư pháp (đối với cơ quan, tổ chức cấp tỉnh), Phòng Tư pháp (đối với cơ quan, tổ chức cấp huyện) hoặc chỉ đạo công chức tư pháp - hộ tịch (đối với Ủy ban nhân dân cấp xã) tổ chức tập huấn, bồi dưỡng, cập nhật kiến thức pháp luật, kỹ năng nghiệp vụ phổ biến, giáo dục pháp luật cho báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý;
 
-### Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
+ d) Định kỳ 06 tháng, hằng năm hoặc đột xuất khi có yêu cầu, báo cáo Bộ Tư pháp (đối với Bộ, ngành, đoàn thể Trung ương), Sở Tư pháp (đối với cơ quan, tổ chức cấp tỉnh), Phòng Tư pháp (đối với cơ quan, tổ chức cấp huyện) và Ủy ban nhân dân cấp huyện, Phòng Tư pháp (đối với Ủy nhân dân cấp xã) về kết quả xây dựng, củng cố, kiện toàn và nâng cao chất lượng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý.
 
-Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
+ 2. Tổ chức pháp chế, đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật chủ trì, tham mưu giúp lãnh đạo Bộ, ngành, đoàn thể, cơ quan, tổ chức triển khai thực hiện nhiệm vụ quy định tại khoản 1 Điều này.
 
-**Chỉ mục:** 8
+ 3. Sở Tư pháp, Phòng Tư pháp có trách nhiệm hướng dẫn cơ quan, tổ chức cùng cấp thực hiện trách nhiệm quy định tại khoản 1 Điều này và có nhiệm vụ sau đây:
 
-**Mã phân cấp:** 44008000000000004000038000000000000000000040246860028000100000802589100100000800
+ a) Chủ trì tổ chức tập huấn, bồi dưỡng, cập nhật kiến thức pháp luật, kỹ năng nghiệp vụ phổ biến, giáo dục pháp luật cho báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi địa bàn quản lý;
 
-**ID:** dk_00071883
+ b) Chỉ đạo, hướng dẫn cơ quan, tổ chức cùng cấp quy định tại khoản 2, khoản 3 Điều 3 của Thông tư này tổ chức tập huấn, bồi dưỡng, cập nhật kiến thức pháp luật, kỹ năng nghiệp vụ phổ biến, giáo dục pháp luật cho báo cáo viên pháp luật thuộc phạm vi quản lý;
 
----
+ c) Định kỳ 6 tháng, hằng năm hoặc đột xuất, Sở Tư pháp báo cáo Ủy ban nhân dân cấp tỉnh và Bộ Tư pháp; Phòng Tư pháp báo cáo Ủy ban nhân dân cấp huyện và Sở Tư pháp về kết quả xây dựng, củng cố, kiện toàn và nâng cao chất lượng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật ở địa phương.
 
+ 4. Công chức tư pháp - hộ tịch chủ trì, tham mưu giúp Ủy ban nhân dân cấp xã triển khai thực hiện trách nhiệm quy định tại khoản 1 Điều này.
 
-### Điều 44.8.LQ.39. Bảo đảm kinh phí phổ biến, giáo dục pháp luật
+ 5. Thời gian thực hiện báo cáo quy định tại điểm d khoản 1, điểm c khoản 3 Điều này được thực hiện theo quy định của Bộ Tư pháp hướng dẫn về hoạt động thống kê của ngành Tư pháp.Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
+
+(Điều 8 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
+
+ 1. Bộ, ngành, đoàn thể, cơ quan, tổ chức đề nghị công nhận báo cáo viên pháp luật và Ủy ban nhân dân cấp xã có các nhiệm vụ sau đây:
+
+ a) Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản hướng dẫn, kế hoạch, chương trình hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý;
+
+ b) Kiểm tra, sơ kết, tổng kết, khen thưởng, xử lý vi phạm về hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý;
+
+ c) Tạo điều kiện về thời gian, kinh phí, cơ sở vật chất, phương tiện bảo đảm cho báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý thực hiện hoạt động phổ biến, giáo dục pháp luật;
+
+ d) Rà soát, thẩm định và chịu trách nhiệm về tính chính xác của việc rà soát, thẩm định đối với danh sách người dự kiến đề xuất cơ quan có thẩm quyền công nhận, miễn nhiệm báo cáo viên pháp luật; công nhận, cho thôi làm tuyên truyền viên pháp luật; bảo đảm đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật có đủ tiêu chuẩn và hoạt động hiệu quả;
+
+ đ) Giới thiệu báo cáo viên pháp luật tham gia phổ biến, giáo dục pháp luật theo yêu cầu của cơ quan, tổ chức, đơn vị về lĩnh vực hoạt động chuyên môn chuyên sâu mà báo cáo viên pháp luật được phân công kiêm nhiệm; cử tuyên truyền viên pháp luật tham gia thực hiện hoạt động phổ biến, giáo dục pháp luật tại địa bàn cơ sở;
+
+ e) Không cử và giới thiệu báo cáo viên pháp luật, tuyên truyền viên pháp luật thực hiện hoạt động phổ biến, giáo dục pháp luật khi thuộc trường hợp bị khởi tố, điều tra, truy tố, xét xử hoặc chờ kết luận của cơ quan có thẩm quyền liên quan đến hành vi quy định tại điểm đ, điểm g khoản 1 Điều 4 và điểm b, điểm d khoản 1 Điều 6 của Thông tư này.
+
+ 2. Sở Tư pháp, Phòng Tư pháp, công chức tư pháp - hộ tịch giúp Ủy ban nhân dân cùng cấp; tổ chức pháp chế, đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật giúp Thủ trưởng Bộ, ngành, đoàn thể, cơ quan, tổ chức quy định tại khoản 1, khoản 2 Điều 3 của Thông tư này thực hiện các nhiệm vụ quy định tại khoản 1 Điều này và có trách nhiệm sau đây:
+
+ a) Phân công, giới thiệu báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý cho cơ quan, tổ chức, đơn vị có nhu cầu để thực hiện hoạt động phổ biến, giáo dục pháp luật;
+
+ b) Công bố công khai danh sách báo cáo viên pháp luật, tuyên truyền viên pháp luật; Quyết định công nhận báo cáo viên pháp luật, Quyết định miễn nhiệm báo cáo viên pháp luật, Quyết định công nhận tuyên truyền viên pháp luật, Quyết định cho thôi làm tuyên truyền viên pháp luật thuộc phạm vi quản lý trên Cổng thông tin điện tử/Trang thông tin điện tử hoặc niêm yết tại trụ sở của cơ quan, tổ chức, đơn vị (trường hợp không có Cổng thông tin điện tử/Trang thông tin điện tử);
+
+ c) Định kỳ 06 tháng, hằng năm hoặc đột xuất khi có yêu cầu Bộ, ngành, đoàn thể, cơ quan, tổ chức quy định tại khoản 1, khoản 2 Điều 3 Thông tư này, tổ chức pháp chế hoặc đơn vị được giao công tác pháp chế, phổ biến, giáo dục pháp luật báo cáo cơ quan Tư pháp cùng cấp (Bộ Tư pháp, Sở Tư pháp) về kết quả hoạt động của báo cáo viên pháp luật thuộc phạm vi quản lý; Sở Tư pháp, Phòng Tư pháp, công chức tư pháp - hộ tịch báo cáo Ủy ban nhân dân cùng cấp và cơ quan Tư pháp cấp trên về kết quả hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc phạm vi quản lý. Thời gian thực hiện báo cáo theo quy định của Bộ Tư pháp hướng dẫn về hoạt động thống kê của ngành Tư pháp.(Điều này có nội dung liên quan đến Điều 44.8.TT.4.3. Công nhận báo cáo viên pháp luật; Điều 44.8.TT.4.5. Công nhận tuyên truyền viên pháp luật; Điều 44.8.TT.4.6. Cho thôi làm tuyên truyền viên pháp luật)
 
 Điều 44.8.LQ.39. Bảo đảm kinh phí phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000400003900000000000000000
+1. Kinh phí phổ biến, giáo dục pháp luật của các cơ quan, tổ chức thụ hưởng ngân sách do ngân sách nhà nước bảo đảm và huy động từ các nguồn hợp pháp khác. Ngân sách trung ương hỗ trợ kinh phí phổ biến, giáo dục pháp luật cho các địa phương chưa tự cân đối được ngân sách.
 
-**ID:** dk_00071884
+2. Hằng năm, căn cứ vào nhiệm vụ phổ biến, giáo dục pháp luật của năm sau, cơ quan, tổ chức xây dựng dự toán kinh phí phổ biến, giáo dục pháp luật và tổng hợp chung vào dự toán ngân sách nhà nước của cấp mình trình cấp có thẩm quyền quyết định theo quy định của pháp luật về ngân sách nhà nước.
 
----
+3. Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân trong nước và nước ngoài tài trợ, hỗ trợ kinh phí cho hoạt động phổ biến, giáo dục pháp luật theo quy định của pháp luật.
 
-
-### Điều 44.8.NĐ.1.11. Bảo đảm kinh phí phổ biến, giáo dục pháp luật
+(Điều này có nội dung liên quan đến Điều 6. Lập dự toán, chấp hành và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật và chuẩn tiếp cận pháp luật; Điều 44.8.TL.3.7. Hiệu lực và điều khoản thi hành của Thông tư liên tịch 14/2014/TTLT-BTC-BTP Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác phổ biến, giáo dục pháp luật và chuẩn tiếp cận pháp luật của người dân tại cơ sở ban hành ngày 27/01/2014)
 
 Điều 44.8.NĐ.1.11. Bảo đảm kinh phí phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Mã phân cấp:** 440080000000000040000390000000000000000000402468600280001100
+1. Kinh phí phổ biến, giáo dục pháp luật của các cơ quan, tổ chức thụ hưởng ngân sách và Hội đồng phối hợp phổ biến, giáo dục pháp luật do ngân sách nhà nước bảo đảm theo quy định tại Khoản 1 Điều 39 Luật Phổ biến, giáo dục pháp luật. Việc lập dự toán kinh phí được thực hiện theo quy định tại Khoản 2 Điều 39 Luật Phổ biến, giáo dục pháp luật.
 
-**ID:** dk_00071885
-
----
-
-
-### Điều 44.8.TT.4.9. Biện pháp bảo đảm về tài chính cho hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật
+2. Bộ Tài chính chủ trì, phối hợp với Bộ Tư pháp hướng dẫn việc quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật; quy định cụ thể về chế độ của báo cáo viên pháp luật, tuyên truyền viên pháp luật, người được mời tham gia phổ biến, giáo dục pháp luật và người làm công tác phổ biến, giáo dục pháp luật cho các đối tượng đặc thù phù hợp với từng thời kỳ.
 
 Điều 44.8.TT.4.9. Biện pháp bảo đảm về tài chính cho hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Mã phân cấp:** 44008000000000004000039000000000000000000040246860028000110000802589100100000900
+ 1. Kinh phí bảo đảm cho công tác quản lý và hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật do ngân sách nhà nước cấp hằng năm trong dự toán kinh phí chi về phổ biến, giáo dục pháp luật theo quy định của pháp luật ngân sách và các nguồn kinh phí hợp pháp khác.
 
-**ID:** dk_00071886
+ 2. Thù lao cho hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật được thực hiện theo quy định của pháp luật về lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác phổ biến, giáo dục pháp luật.
 
----
+ 3. Hằng năm, Bộ Tư pháp, tổ chức pháp chế, đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật của Bộ, ngành, đoàn thể, cơ quan, tổ chức quy định tại Điều 3 của Thông tư này, Sở Tư pháp, Phòng Tư pháp, công chức tư pháp - hộ tịch phối hợp với cơ quan tài chính cùng cấp lập dự toán kinh phí bảo đảm cho hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật thuộc quyền quản lý, trình Bộ Tài chính, lãnh đạo cơ quan, tổ chức, đơn vị hoặc Ủy ban nhân dân cùng cấp phê duyệt.Chương V
 
+QUY ĐỊNH VỀ CHUẨN TIẾP CẬN PHÁP LUẬT CHO NGƯỜI DÂN TẠI CƠ SỞ
 
-### Điều 44.8.QĐ.5.2. Nguyên tắc thực hiện
+Điều 44.8.QĐ.5.2. Nguyên tắc thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 2 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Chỉ mục:** 2
+ 1. Lấy người dân làm trung tâm trong việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
-**Mã phân cấp:** 4400800000000000450000502771700250000200
+ 2. Bảo đảm công khai, minh bạch, dân chủ, khách quan, công bằng, đúng quy định pháp luật.
 
-**ID:** dk_00071888
+ 3. Việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật gắn với thực hiện nhiệm vụ phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, tăng cường dân chủ ở cơ sở, vận động Nhân dân thực hiện chính sách của Đảng, pháp luật của Nhà nước và xây dựng, hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa.Điều 44.8.QĐ.5.3. Tiêu chí xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
 
----
+(Điều 3 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
+ 1. Tiêu chí 1: Ban hành văn bản theo thẩm quyền để tổ chức và bảo đảm thi hành Hiến pháp và pháp luật trên địa bàn
 
-### Điều 44.8.QĐ.5.3. Tiêu chí xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+ a) Chỉ tiêu 1: Ban hành đầy đủ, đúng quy định pháp luật các văn bản quy phạm pháp luật được cơ quan có thẩm quyền giao;
 
-Điều 44.8.QĐ.5.3. Tiêu chí xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+ b) Chỉ tiêu 2: Ban hành đúng quy định pháp luật các văn bản hành chính có nội dung liên quan trực tiếp đến quyền, lợi ích của tổ chức, cá nhân.
 
-**Chỉ mục:** 3
+ 2. Tiêu chí 2: Tiếp cận thông tin, phổ biến, giáo dục pháp luật
 
-**Mã phân cấp:** 4400800000000000450000502771700250000300
+ a) Chỉ tiêu 1: Công khai các thông tin kịp thời, chính xác, đầy đủ theo đúng quy định pháp luật về tiếp cận thông tin và thực hiện dân chủ ở xã, phường, thị trấn;
 
-**ID:** dk_00071889
+ b) Chỉ tiêu 2: Cung cấp thông tin theo yêu cầu kịp thời, chính xác, đầy đủ theo đúng quy định pháp luật về tiếp cận thông tin;
 
----
+ c) Chỉ tiêu 3: Ban hành và tổ chức thực hiện kế hoạch phổ biến, giáo dục pháp luật hàng năm theo đúng quy định pháp luật về phổ biến, giáo dục pháp luật;
 
+ d) Chỉ tiêu 4: Triển khai các hình thức, mô hình thông tin, phổ biến, giáo dục pháp luật hiệu quả tại cơ sở;
 
-### Điều 44.8.TT.8.2. Nội dung, điểm số, cách tính điểm các tiêu chí, chỉ tiêu; tài liệu đánh giá các tiêu chí, chỉ tiêu
+ đ) Chỉ tiêu 5: Tổ chức bồi dưỡng, tập huấn kiến thức, kỹ năng phổ biến, giáo dục pháp luật cho tuyên truyền viên pháp luật theo đúng quy định pháp luật về phổ biến, giáo dục pháp luật;
 
-Điều 44.8.TT.8.2. Nội dung, điểm số, cách tính điểm các tiêu chí, chỉ tiêu; tài liệu đánh giá các tiêu chí, chỉ tiêu
+ e) Chỉ tiêu 6: Bảo đảm kinh phí, cơ sở vật chất, phương tiện để thực hiện nhiệm vụ phổ biến, giáo dục pháp luật theo đúng quy định pháp luật về phổ biến, giáo dục pháp luật.
 
-**Chỉ mục:** 2
+ 3. Tiêu chí 3: Hòa giải ở cơ sở, trợ giúp pháp lý
 
-**Mã phân cấp:** 440080000000000045000050277170025000030000802783300090000200
+ a) Chỉ tiêu 1: Các mâu thuẫn, tranh chấp, vi phạm pháp luật thuộc phạm vi hòa giải ở cơ sở được hòa giải kịp thời, hiệu quả theo đúng quy định pháp luật về hòa giải ở cơ sở;
 
-**ID:** dk_00071890
+ b) Chỉ tiêu 2: Hỗ trợ kinh phí cho hoạt động hòa giải ở cơ sở theo đúng quy định pháp luật về hòa giải ở cơ sở;
 
----
+ c) Chỉ tiêu 3: Thông tin, giới thiệu về trợ giúp pháp lý theo đúng quy định pháp luật về trợ giúp pháp lý.
 
+ 4. Tiêu chí 4: Thực hiện dân chủ ở xã, phường, thị trấn
 
-### Điều 44.8.QĐ.5.4. Điều kiện công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+ a) Chỉ tiêu 1: Tổ chức trao đổi, đối thoại với Nhân dân theo đúng quy định pháp luật về tổ chức chính quyền địa phương;
+
+ b) Chỉ tiêu 2: Tổ chức để Nhân dân bàn, quyết định trực tiếp các nội dung theo đúng quy định pháp luật về thực hiện dân chủ ở xã, phường, thị trấn;
+
+ c) Chỉ tiêu 3: Tổ chức để Nhân dân bàn, biểu quyết các nội dung theo đúng quy định pháp luật về thực hiện dân chủ ở xã, phường, thị trấn;
+
+ d) Chỉ tiêu 4: Tổ chức để Nhân dân tham gia ý kiến các nội dung theo đúng quy định pháp luật về thực hiện dân chủ ở xã, phường, thị trấn;
+
+ đ) Chỉ tiêu 5: Tổ chức để Nhân dân trực tiếp hoặc thông qua Ban Thanh tra nhân dân, Ban giám sát đầu tư của cộng đồng thực hiện giám sát các nội dung theo đúng quy định pháp luật về thực hiện dân chủ ở xã, phường, thị trấn.
+
+ 5. Tiêu chí 5: Tổ chức tiếp công dân, giải quyết kiến nghị, phản ánh, khiếu nại, tố cáo, thủ tục hành chính; bảo đảm an ninh quốc gia, trật tự, an toàn xã hội
+
+ a) Chỉ tiêu 1: Tổ chức tiếp công dân, tiếp nhận, giải quyết kiến nghị, phản ánh, khiếu nại, tố cáo theo đúng quy định pháp luật về tiếp công dân, khiếu nại, tố cáo;
+
+ b) Chỉ tiêu 2: Tiếp nhận, giải quyết thủ tục hành chính theo đúng quy định pháp luật về giải quyết thủ tục hành chính;
+
+ c) Chỉ tiêu 3: Không có cán bộ, công chức bị xử lý kỷ luật hành chính hoặc bị truy cứu trách nhiệm hình sự;
+
+ d) Chỉ tiêu 4: Đạt tiêu chuẩn “An toàn về an ninh, trật tự” theo đúng quy định pháp luật về an ninh quốc gia, trật tự, an toàn xã hội.
+
+ 6. Tổng số điểm tối đa của các tiêu chí xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật là 100 điểm. Bộ Tư pháp hướng dẫn nội dung, điểm số và cách tính điểm của các tiêu chí, chỉ tiêu quy định tại Điều này.Điều 44.8.TT.8.2. Nội dung, điểm số, cách tính điểm các tiêu chí, chỉ tiêu; tài liệu đánh giá các tiêu chí, chỉ tiêu
+
+(Điều 2 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
+
+1. Nội dung, điểm số, cách tính điểm các tiêu chí, chỉ tiêu; tài liệu đánh giá các tiêu chí, chỉ tiêu được thực hiện theo Phụ lục I ban hành kèm theo Thông tư này (sau đây gọi chung là Phụ lục I).
+
+2. Tổng số điểm các tiêu chí, chỉ tiêu làm căn cứ xem xét, quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật được xác định theo điểm số thẩm định của Hội đồng đánh giá chuẩn tiếp cận pháp luật.
+
+Phu luc I_ban hanh kem theo TT so 09_2021_TT-BTP.doc
 
 Điều 44.8.QĐ.5.4. Điều kiện công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Mã phân cấp:** 4400800000000000450000502771700250000400
+ Xã, phường, thị trấn được công nhận đạt chuẩn tiếp cận pháp luật khi có đủ các điều kiện sau đây:
 
-**ID:** dk_00071891
+ 1. Tổng số điểm của các tiêu chí đạt từ 80 điểm trở lên;
 
----
+ 2. Tổng số điểm của từng tiêu chí đạt từ 50% số điểm tối đa trở lên;
 
+ 3. Trong năm đánh giá, không có cán bộ, công chức là người đứng đầu cấp ủy, chính quyền xã, phường, thị trấn (sau đây gọi chung là cấp xã) bị xử lý kỷ luật hành chính do vi phạm pháp luật trong thi hành công vụ hoặc bị truy cứu trách nhiệm hình sự.Điều 44.8.QĐ.5.5. Trình tự, thủ tục đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
 
-### Điều 44.8.QĐ.5.5. Trình tự, thủ tục đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+(Điều 5 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-Điều 44.8.QĐ.5.5. Trình tự, thủ tục đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+ 1. Việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật được thực hiện hàng năm, tính từ ngày 01 tháng 01 đến ngày 31 tháng 12 của năm đánh giá.
 
-**Chỉ mục:** 5
+ 2. Ủy ban nhân dân cấp xã tự chấm điểm, đánh giá kết quả thực hiện các tiêu chí, chỉ tiêu; niêm yết công khai kết quả tự chấm điểm, đánh giá; gửi hồ sơ đề nghị công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật đến Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (sau đây gọi chung là Ủy ban nhân dân cấp huyện) trước ngày 10 tháng 01 của năm liền kề sau năm đánh giá.
 
-**Mã phân cấp:** 4400800000000000450000502771700250000500
+ 3. Ủy ban nhân dân cấp huyện thành lập Hội đồng đánh giá chuẩn tiếp cận pháp luật để tư vấn, thẩm định giúp Chủ tịch Ủy ban nhân dân cùng cấp xem xét, quyết định công nhận và công bố xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật trên Cổng (hoặc Trang) thông tin điện tử của cấp huyện trước ngày 10 tháng 02 của năm liền kề sau năm đánh giá.
 
-**ID:** dk_00071892
+ 4. Hồ sơ đề nghị công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật bao gồm:
 
----
+ a) Báo cáo đánh giá kết quả đạt chuẩn tiếp cận pháp luật;
 
+ b) Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu;
 
-### Điều 44.8.TT.8.3. Quy trình đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+ c) Bản tổng hợp, tiếp thu, giải trình ý kiến của tổ chức, cá nhân về kết quả tự đánh giá, chấm điểm các tiêu chí, chỉ tiêu (nếu có);
 
-Điều 44.8.TT.8.3. Quy trình đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+ d) Văn bản đề nghị công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
 
-**Chỉ mục:** 3
+ đ) Các tài liệu khác có liên quan (nếu có).
 
-**Mã phân cấp:** 440080000000000045000050277170025000050000802783300090000300
+ 5. Bộ Tư pháp hướng dẫn quy trình, biểu mẫu, tài liệu phục vụ việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; thành phần, nhiệm vụ, quyền hạn của Hội đồng đánh giá chuẩn tiếp cận pháp luật.Điều 44.8.TT.8.3. Quy trình đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
 
-**ID:** dk_00071893
+(Điều 3 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
----
+1. Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã) tổ chức triển khai việc tự chấm điểm các tiêu chí, chỉ tiêu và đánh giá kết quả đạt chuẩn tiếp cận pháp luật theo quy trình sau đây:
 
+a) Các công chức chuyên môn cấp xã theo dõi các tiêu chí, chỉ tiêu tự chấm điểm, tổng hợp kết quả; lấy ý kiến và tổng hợp kết quả đánh giá hình thức, mô hình thông tin, phổ biến, giáo dục pháp luật hiệu quả tại cơ sở; chuẩn bị tài liệu đánh giá; đề xuất giải pháp khắc phục tồn tại, hạn chế trong thực hiện tiêu chí, chỉ tiêu (nếu có);
 
-### Điều 44.8.TT.8.4. Biểu mẫu phục vụ việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+b) Xây dựng dự thảo Báo cáo đánh giá kết quả đạt chuẩn tiếp cận pháp luật, Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu; thông tin, số liệu của Báo cáo đánh giá và Bản tổng hợp điểm số được tính từ ngày 01 tháng 01 đến ngày 31 tháng 12 của năm đánh giá, đối với chỉ tiêu 4 của tiêu chí 5 thì sử dụng kết quả công nhận đạt tiêu chuẩn “An toàn về an ninh, trật tự” theo quy định của Bộ trưởng Bộ Công an;
+
+c) Niêm yết công khai dự thảo Báo cáo đánh giá kết quả đạt chuẩn tiếp cận pháp luật, Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu tại trụ sở làm việc của Ủy ban nhân dân cấp xã trong thời hạn ít nhất 05 (năm) ngày; đăng tải trên Cổng (hoặc Trang) thông tin điện tử trong thời hạn ít nhất 05 (năm) ngày hoặc thông báo trên Đài truyền thanh cấp xã (nếu có) ít nhất 03 (ba) lần trong thời hạn ít nhất 05 (năm) ngày;
+
+d) Tổng hợp, tiếp thu, giải trình đầy đủ, khách quan ý kiến của Nhân dân, kiến nghị, phản ánh của cơ quan, tổ chức, cá nhân (nếu có) về Báo cáo đánh giá kết quả đạt chuẩn tiếp cận pháp luật, Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu và các vấn đề khác liên quan đến việc chấm điểm, đánh giá xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
+
+đ) Tổ chức cuộc họp xem xét, đánh giá, thống nhất kết quả đạt chuẩn tiếp cận pháp luật của xã, phường, thị trấn. Cuộc họp do đại diện lãnh đạo Ủy ban nhân dân cấp xã chủ trì. Thành phần cuộc họp bao gồm các công chức chuyên môn được giao theo dõi các tiêu chí, chỉ tiêu; đại diện Công an cấp xã; đại diện lãnh đạo Ủy ban Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội cấp xã; Trưởng thôn, làng, bản, ấp, buôn, bon, phum, sóc (sau đây gọi chung là thôn); Tổ trưởng tổ dân phố, khu phố, khối phố, khóm, tiểu khu (sau đây gọi chung là tổ dân phố);
+
+e) Căn cứ kết quả cuộc họp, nếu xã, phường, thị trấn đáp ứng đầy đủ các điều kiện công nhận đạt chuẩn tiếp cận pháp luật quy định tại Điều 4 Quyết định số [25/2021/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-25-2021-qd-ttg-xa-phuong-dat-chuan-tiep-can-phap-luat-482011.aspx) thì Ủy ban nhân dân cấp xã gửi hồ sơ đề nghị công nhận đạt chuẩn tiếp cận pháp luật quy định tại khoản 4 Điều 5 Quyết định số [25/2021/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-25-2021-qd-ttg-xa-phuong-dat-chuan-tiep-can-phap-luat-482011.aspx) (bằng bản giấy hoặc bản điện tử) đến Phòng Tư pháp huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là cấp huyện) trước ngày 10 tháng 01 của năm liền kề sau năm đánh giá.
+
+Đối với xã, phường, thị trấn chưa đủ điều kiện công nhận đạt chuẩn tiếp cận pháp luật thì Ủy ban nhân dân cấp xã gửi Báo cáo đánh giá kết quả đạt chuẩn tiếp cận pháp luật, Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu (bằng bản giấy hoặc bản điện tử) trước ngày 10 tháng 01 của năm liền kề sau năm đánh giá để Phòng Tư pháp tổng hợp, lập danh sách xã, phường, thị trấn chưa đạt chuẩn tiếp cận pháp luật trình Chủ tịch Ủy ban nhân dân cấp huyện.
+
+2. Ủy ban nhân dân cấp huyện tổ chức đánh giá, xem xét, quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật theo quy trình sau đây:
+
+a) Phòng Tư pháp tiếp nhận, rà soát, kiểm tra hồ sơ đề nghị công nhận đạt chuẩn tiếp cận pháp luật của xã, phường, thị trấn; yêu cầu Ủy ban nhân dân cấp xã bổ sung, hoàn thiện hồ sơ, tài liệu liên quan (nếu có). Ủy ban nhân dân cấp xã có trách nhiệm bổ sung, hoàn thiện hồ sơ, tài liệu chậm nhất trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được yêu cầu;
+
+b) Tổ chức cuộc họp Hội đồng đánh giá chuẩn tiếp cận pháp luật hoặc lấy ý kiến bằng văn bản của các thành viên Hội đồng để tư vấn, thẩm định hồ sơ đề nghị công nhận đạt chuẩn tiếp cận pháp luật của xã, phường, thị trấn;
+
+c) Căn cứ kết quả tư vấn, thẩm định của Hội đồng đánh giá chuẩn tiếp cận pháp luật, Phòng Tư pháp hoàn thiện hồ sơ và trình Chủ tịch Ủy ban nhân dân cấp huyện (bằng bản giấy hoặc bản điện tử) xem xét, quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
+
+Hồ sơ trình bao gồm: Hồ sơ đề nghị công nhận đạt chuẩn tiếp cận pháp luật của xã, phường, thị trấn; Báo cáo thẩm định của Hội đồng đánh giá chuẩn tiếp cận pháp luật kèm theo biên bản cuộc họp hoặc Bản tổng hợp ý kiến thẩm định của thành viên Hội đồng (nếu không tổ chức cuộc họp); Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu của từng xã, phường, thị trấn do Hội đồng đánh giá chuẩn tiếp cận pháp luật thẩm định; dự thảo Quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật kèm theo danh sách xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật và danh sách xã, phường, thị trấn chưa đạt chuẩn tiếp cận pháp luật;
+
+d) Chủ tịch Ủy ban nhân dân cấp huyện xem xét, quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật và công bố kết quả xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật trước ngày 10 tháng 02 của năm liền kề sau năm đánh giá. Việc công bố kết quả thực hiện trên Cổng (hoặc Trang) thông tin điện tử của Ủy ban nhân dân cấp huyện trong thời hạn không quá 02 (hai) ngày làm việc kể từ ngày ký quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
 Điều 44.8.TT.8.4. Biểu mẫu phục vụ việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Mã phân cấp:** 440080000000000045000050277170025000050000802783300090000400
+1. Các biểu mẫu phục vụ việc đánh giá, đề nghị công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật do Ủy ban nhân dân cấp xã thực hiện:
 
-**ID:** dk_00071894
+a) Báo cáo đánh giá kết quả và đề nghị công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật (Mẫu 01 Phụ lục II);
 
----
+b) Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu (Mẫu 02 Phụ lục II);
 
+c) Bản tổng hợp, tiếp thu, giải trình ý kiến của Nhân dân, kiến nghị, phản ánh của tổ chức, cá nhân về kết quả đánh giá đạt chuẩn tiếp cận pháp luật (Mẫu 03 Phụ lục II);
 
-### Điều 44.8.TT.8.5. Hội đồng đánh giá chuẩn tiếp cận pháp luật
+d) Phiếu lấy ý kiến, bản tổng hợp kết quả đánh giá về hình thức, mô hình thông tin, phổ biến, giáo dục pháp luật hiệu quả tại cơ sở (Mẫu 04 Phụ lục II).
+
+2. Các biểu mẫu phục vụ việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật do Ủy ban nhân dân cấp huyện thực hiện:
+
+a) Biên bản cuộc họp Hội đồng đánh giá chuẩn tiếp cận pháp luật (Mẫu 05 Phụ lục II);
+
+b) Phiếu lấy ý kiến, bản tổng hợp ý kiến thẩm định của thành viên Hội đồng đánh giá chuẩn tiếp cận pháp luật (Mẫu 06 Phụ lục II);
+
+c) Bản tổng hợp điểm số của các tiêu chí, chỉ tiêu do Hội đồng đánh giá chuẩn tiếp cận pháp luật thẩm định (Mẫu 07 Phụ lục II);
+
+d) Quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; danh sách xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; danh sách xã, phường, thị trấn chưa đạt chuẩn tiếp cận pháp luật (Mẫu 08 Phụ lục II).
+
+3. Các biểu mẫu phục vụ báo cáo, theo dõi, quản lý xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật do Ủy ban nhân dân cấp huyện, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) thực hiện:
+
+a) Bản tổng hợp thông tin, số liệu thực hiện các tiêu chí, chỉ tiêu trên địa bàn (Mẫu 09 Phụ lục II);
+
+b) Báo cáo kết quả đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật (Mẫu 10 Phụ lục II).
+
+Phu luc II_ban hanh kem theo TT so 09_2021_TT-BTP - Copy.doc
 
 Điều 44.8.TT.8.5. Hội đồng đánh giá chuẩn tiếp cận pháp luật
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Mã phân cấp:** 440080000000000045000050277170025000050000802783300090000500
+1. Hội đồng đánh giá chuẩn tiếp cận pháp luật (sau đây gọi chung là Hội đồng) tư vấn, giúp Chủ tịch Ủy ban nhân dân cấp huyện xem xét, quyết định công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật và thực hiện các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00071895
+a) Thẩm định, đánh giá hồ sơ, kết quả chấm điểm các tiêu chí, chỉ tiêu và điều kiện công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
 
----
+b) Tư vấn các sáng kiến, giải pháp nâng cao hiệu quả, xử lý hạn chế, tồn tại, tháo gỡ khó khăn, vướng mắc trong thực hiện các tiêu chí, chỉ tiêu;
 
+c) Thực hiện nhiệm vụ khác do Chủ tịch Ủy ban nhân dân cấp huyện giao.
 
-### Điều 44.8.QĐ.5.6. Trách nhiệm của các cơ quan, tổ chức
+2. Thành phần Hội đồng:
+
+a) Chủ tịch Hội đồng: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp huyện;
+
+b) Phó Chủ tịch Hội đồng: Trưởng Phòng Tư pháp; mời đại diện lãnh đạo Ủy ban Mặt trận Tổ quốc Việt Nam cấp huyện làm Phó Chủ tịch Hội đồng;
+
+c) Ủy viên Hội đồng: Đại diện lãnh đạo các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện có liên quan đến các tiêu chí, chỉ tiêu; đại diện lãnh đạo Công an cấp huyện; mời đại diện lãnh đạo Ban Dân vận, Ban Tuyên giáo cấp huyện tham gia Hội đồng;
+
+d) Thư ký Hội đồng: Công chức Phòng Tư pháp.
+
+3. Số lượng thành viên Hội đồng do Chủ tịch Ủy ban nhân dân cấp huyện quyết định nhưng không quá 15 người. Thành viên Hội đồng làm việc theo chế độ kiêm nhiệm.
+
+4. Nhiệm vụ của thành viên Hội đồng:
+
+a) Thẩm định, tham gia ý kiến về hồ sơ, kết quả chấm điểm các tiêu chí, chỉ tiêu và điều kiện công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
+
+b) Tư vấn các sáng kiến, giải pháp và việc tổ chức thực hiện các sáng kiến, giải pháp đối với các tiêu chí, chỉ tiêu;
+
+c) Tham dự đầy đủ cuộc họp Hội đồng. Trường hợp không thể tham dự cuộc họp mà có lý do chính đáng thì phải gửi ý kiến bằng văn bản về các nội dung quy định tại điểm a và điểm b khoản này cho Phòng Tư pháp tổng hợp, báo cáo Chủ tịch Hội đồng;
+
+d) Chủ tịch Hội đồng chỉ đạo, điều phối hoạt động chung và triệu tập, chủ trì cuộc họp Hội đồng. Phó Chủ tịch Hội đồng có nhiệm vụ chủ trì cuộc họp và thực hiện các công việc do Chủ tịch Hội đồng ủy quyền khi vắng mặt.
+
+5. Cuộc họp Hội đồng được tiến hành khi có ít nhất 2/3 (hai phần ba) tổng số thành viên tham dự. Tại cuộc họp, thành viên Hội đồng tư vấn, thẩm định, thông qua các nội dung cần xin ý kiến Hội đồng. Kết quả cuộc họp được lập thành biên bản có chữ ký xác nhận của người chủ trì cuộc họp Hội đồng và Thư ký Hội đồng.
+
+6. Phòng Tư pháp có trách nhiệm tham mưu, giúp Chủ tịch Hội đồng, Chủ tịch Ủy ban nhân dân cấp huyện thực hiện các nhiệm vụ sau đây:
+
+a) Đề nghị thành lập, kiện toàn Hội đồng đánh giá chuẩn tiếp cận pháp luật;
+
+b) Bảo đảm sự phối hợp, trao đổi thông tin giữa thành viên Hội đồng với Phòng Tư pháp trong quá trình thực hiện nhiệm vụ;
+
+c) Chuẩn bị tài liệu, nội dung cuộc họp Hội đồng và gửi các thành viên Hội đồng chậm nhất 03 (ba) ngày làm việc trước ngày tổ chức cuộc họp;
+
+d) Tiếp thu, hoàn thiện các tài liệu trong hồ sơ đề nghị công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; tổng hợp đề xuất của thành viên Hội đồng để Chủ tịch Ủy ban nhân dân cấp huyện xem xét, quyết định;
+
+đ) Tham mưu Chủ tịch Ủy ban nhân dân cấp huyện tổ chức triển khai hoặc báo cáo, đề xuất cơ quan có thẩm quyền các giải pháp nâng cao hiệu quả, xử lý hạn chế, tồn tại, tháo gỡ khó khăn, vướng mắc trong thực hiện các tiêu chí, chỉ tiêu;
+
+e) Thực hiện việc lưu trữ hồ sơ, tài liệu phục vụ hoạt động tư vấn, thẩm định của Hội đồng theo quy định của pháp luật về văn thư, lưu trữ.
 
 Điều 44.8.QĐ.5.6. Trách nhiệm của các cơ quan, tổ chức
 
-**Chỉ mục:** 6
+(Điều 6 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Mã phân cấp:** 4400800000000000450000502771700250000600
+ 1. Bộ Tư pháp
 
-**ID:** dk_00071896
+ a) Chỉ đạo, hướng dẫn tổ chức thực hiện Quyết định này trong phạm vi cả nước; hàng năm, tổng hợp kết quả đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật báo cáo Thủ tướng Chính phủ;
 
----
+ b) Chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan, tổ chức có liên quan theo dõi, kiểm tra, giải quyết kiến nghị, phản ánh, khiếu nại, tố cáo, chỉ đạo xử lý vi phạm, tháo gỡ khó khăn, vướng mắc cho địa phương theo thẩm quyền trong việc thực hiện Quyết định này;
 
+ c) Căn cứ điều kiện thực tế và kết quả xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật trong phạm vi cả nước, lựa chọn địa phương để tổ chức thực hiện đánh giá sự hài lòng của người dân về hiệu quả xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
 
-### Điều 44.8.TT.8.6. Trách nhiệm của cơ quan, tổ chức
+ d) Xây dựng tài liệu, tập huấn hướng dẫn nghiệp vụ đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; xây dựng, quản lý, vận hành phần mềm đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật trong phạm vi cả nước;
 
-*Nội dung chưa có sẵn*
+ đ) Sơ kết, tổng kết, biểu dương, khen thưởng tổ chức, cá nhân có thành tích xuất sắc trong đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
-**Chỉ mục:** 6
+ 2. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ phối hợp với Bộ Tư pháp theo dõi, kiểm tra, giải quyết kiến nghị, phản ánh, khiếu nại, tố cáo, tháo gỡ khó khăn, vướng mắc cho địa phương trong việc thực hiện các tiêu chí, chỉ tiêu thuộc trách nhiệm và phạm vi quản lý.
 
-**Mã phân cấp:** 440080000000000045000050277170025000060000802783300090000600
+ 3. Đề nghị Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội tổ chức giám sát việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật; phối hợp với Bộ Tư pháp theo dõi, kiểm tra, giải quyết kiến nghị, phản ánh, khiếu nại, tố cáo, tháo gỡ khó khăn, vướng mắc cho địa phương trong việc thực hiện tiêu chí thực hiện dân chủ ở xã, phường, thị trấn.
 
-**ID:** dk_00071897
+ 4. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh)
 
----
+ a) Chỉ đạo, hướng dẫn, tổ chức thực hiện Quyết định này tại địa phương; phân công cơ quan chuyên môn làm đầu mối theo dõi, tham mưu thực hiện; bảo đảm kinh phí thực hiện nhiệm vụ đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
 
+ b) Căn cứ kết quả thực tế của việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật hàng năm, chỉ đạo các giải pháp khắc phục tồn tại, hạn chế, tháo gỡ khó khăn, vướng mắc trong thực hiện các tiêu chí, chỉ tiêu xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật;
 
-### Điều 44.8.QĐ.5.7. Kinh phí thực hiện
+ c) Xác định rõ trách nhiệm của cơ quan, tổ chức, cá nhân trong trường hợp xã, phường, thị trấn chưa đạt chuẩn tiếp cận pháp luật hoặc việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật không đúng quy định pháp luật;
 
-*Nội dung chưa có sẵn*
+ d) Sơ kết, tổng kết, biểu dương, khen thưởng tổ chức, cá nhân có thành tích xuất sắc trong đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật tại địa phương;
 
-**Chỉ mục:** 7
+ đ) Hàng năm, tổng hợp, báo cáo Bộ Tư pháp về kết quả đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật, các giải pháp bảo đảm tính thực chất, nâng cao hiệu quả công tác đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
-**Mã phân cấp:** 4400800000000000450000502771700250000700
+ 5. Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm về kết quả thực hiện các nhiệm vụ được giao và tổ chức kiểm tra, giải quyết kiến nghị, phản ánh, khiếu nại, tố cáo, xử lý vi phạm trong thực hiện Quyết định này tại địa phương.Điều 44.8.TT.8.6. Trách nhiệm của cơ quan, tổ chức
 
-**ID:** dk_00071898
+(Điều 6 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
----
+1. Đơn vị có chức năng của Bộ Tư pháp được giao tham mưu quản lý nhà nước về xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật chủ trì, tham mưu giúp Bộ trưởng Bộ Tư pháp chỉ đạo, hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này.
 
+2. Ủy ban nhân dân cấp tỉnh chỉ đạo Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã tổ chức thực hiện Thông tư này trong phạm vi quản lý; tổng hợp, báo cáo kết quả thực hiện nhiệm vụ đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật tại địa phương về Bộ Tư pháp trước ngày 20 tháng 02 của năm liền kề sau năm đánh giá để tổng hợp, báo cáo Thủ tướng Chính phủ.
 
-### Điều 44.8.NL.2.1. Mục đích, yêu cầu:
+3. Ủy ban nhân dân cấp huyện chỉ đạo các Phòng chuyên môn trực thuộc tham mưu, giúp việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật theo quy định của Thông tư này; tổng hợp, báo cáo kết quả thực hiện nhiệm vụ đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật tại địa phương về Ủy ban nhân dân cấp tỉnh trước ngày 15 tháng 02 của năm liền kề sau năm đánh giá để tổng hợp, báo cáo Bộ Tư pháp.
 
-*Nội dung chưa có sẵn*
+4. Ủy ban nhân dân cấp xã chỉ đạo, tổ chức thực hiện Thông tư này tại địa phương; phân công các công chức chuyên môn theo dõi thường xuyên, chấm điểm, đánh giá từng tiêu chí, chỉ tiêu gắn với trách nhiệm, nhiệm vụ của công chức.
 
-**Chỉ mục:** 1
+5. Sở Tư pháp, Phòng Tư pháp, công chức Tư pháp - Hộ tịch là đầu mối tham mưu, giúp Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cùng cấp chỉ đạo, hướng dẫn, thực hiện, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này tại địa phương.
 
-**Mã phân cấp:** 440080000000000047500002000000000000000000801972800010000100
+6. Khi có kiến nghị, phản ánh, khiếu nại, tố cáo về các vấn đề liên quan đến đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật trên địa bàn, Sở Tư pháp, Phòng Tư pháp, công chức Tư pháp - Hộ tịch kịp thời báo cáo, tham mưu Chủ tịch Ủy ban nhân dân cùng cấp kiểm tra, chỉ đạo, phối hợp với cơ quan, đơn vị liên quan xử lý kịp thời theo quy định của pháp luật.
 
-**ID:** dk_00071901
+Điều 44.8.QĐ.5.7. Kinh phí thực hiện
 
----
+(Điều 7 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
+ 1. Kinh phí thực hiện Quyết định này được bố trí trong dự toán chi ngân sách thường xuyên hàng năm của các cơ quan, tổ chức liên quan và các địa phương theo quy định pháp luật về ngân sách nhà nước.
 
-### Điều 44.8.NL.2.2. Nội dung phổ biến giáo dục pháp luật:
+ 2. Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh, cấp huyện tập trung bố trí kinh phí hỗ trợ xã đặc biệt khó khăn, xã biên giới, xã an toàn khu, xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo, xã thuộc các huyện nghèo trong triển khai thực hiện Quyết định này từ nguồn ngân sách địa phương theo quy định pháp luật về ngân sách nhà nước.
+
+ 3. Khuyến khích tổ chức, doanh nghiệp, cá nhân sử dụng nguồn kinh phí hợp pháp hỗ trợ các hoạt động liên quan đến việc thực hiện các tiêu chí, chỉ tiêu xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.Chương VI
+
+QUY ĐỊNH VỀ CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG CÁC LĨNH VỰC
+
+Mục 1
+
+PHỐI HỢP PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO CÁN BỘ, NHÂN DÂN Ở NÔNG THÔN, VÙNG CAO, VÙNG SÂU, VÙNG XA, VÙNG ĐỒNG BÀO DÂN TỘC ÍT NGƯỜI
+
+Điều 44.8.NL.2.1. Mục đích, yêu cầu:
+
+(Điều 1 Nghị quyết liên tịch số 01/1999/NQLT-TP-VHTT-NNPTNT-DTMN-ND Về việc phối hợp phổ biến, giáo dục pháp luật cho cán bộ, nhân dân ở nông thôn, vùng cao, vùng sâu, vùng xa, vùng đồng bào dân tộc ít người ngày 07/09/1999 của Bộ Tư pháp, Bộ Văn hoá - Thông tin, Bộ Nông nghiệp và Phát triển nông thôn, Uỷ ban Dân tộc và Miền núi và Hội Nông dân Việt Nam, có hiệu lực thi hành kể từ ngày 22/09/1999 )
+
+1. Mục đích:
+
+- Trang bị kiến thức và nâng cao hiểu biết về pháp luật liên quan đến sinh hoạt hàng ngày, đến các hoạt động kinh tế, văn hóa, xã hội của cán bộ, nhân dân;
+
+- Xây dựng được một đội ngũ báo cáo viên, tuyên truyền ổn định ở địa phương trong đó chú ý lực lượng cán bộ đoàn thể, trường thôn, trường bản, già làng và đội ngũ giáo viên các trường học tại địa phương;
+
+- Từng bước hình thành nếp thông tin, tuyên truyền, tìm hiểu pháp luật như là một hình thức hoạt động thường xuyên ở cơ sở;
+
+- Hình thành và duy trì ổn định cơ chế phối hợp giữa các cơ quan, tổ chức là Các Bên ký Nghị quyết liên tịch từ Trung ương đến cơ sở trong công tác phổ biến, giáo dục pháp luật ở nông thôn, vùng cao, vùng sâu, vùng xa, vùng dân tộc ít người.
+
+- Phát huy sức mạnh tổng hợp của các cấp, các ngành trong việc phổ biến giáo dục pháp luật đến tận từng bản làng vùng sâu, vùng xa và dân tộc ít người.
+
+2. Yêu cầu:
+
+- Tập trung thực hiện một số công việc trước mắt, đồng thời chú trọng thực hiện các giải pháp lâu dài.
+
+- Xây dựng điểm triển khai Kế hoạch với nội dụng cụ thể, đồng thời duy trì thường xuyên các hình thức phổ biến giáo dục pháp luật ở nông thôn, miền núi trong phạm vi cả nước.
+
+- Phục vụ cho các hoạt động thi hành pháp luật, nhiệm vụ chính trị kết hợp chặt chẽ các hình thức phổ biến giáo dục pháp luật với các hoạt động kinh tế - xã hội ở từng địa phương.
 
 Điều 44.8.NL.2.2. Nội dung phổ biến giáo dục pháp luật:
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết liên tịch số 01/1999/NQLT-TP-VHTT-NNPTNT-DTMN-ND, có hiệu lực thi hành kể từ ngày 22/09/1999)
 
-**Mã phân cấp:** 440080000000000047500002000000000000000000801972800010000200
-
-**ID:** dk_00071902
-
----
-
-
-### Điều 44.8.NL.2.3. Hình thức phổ biến giáo dục pháp luật:
+Từ nay đến năm 2002 tập trung thực hiện các nội dung, biện pháp được quy định tại mục III, phần B của Quyết định số 03/1998/QĐ-TTg, trong đó phổ biến những văn bản có liên quan trực tiếp đến thẩm quyền quản lý, đời sống của cán bộ, nhân dân ở nông thôn và miền núi. Coi trọng phổ biến, giáo dục về quyền và nghĩa vụ cơ bản của công dân, đặc biệt là các quyền bầu cử, ứng cử, nghĩa vụ bảo vệ tổ quốc, nghĩa vụ bảo vệ tài sản quốc gia, nghĩa vụ đóng thuế, lao động công ích; hôn nhân và gia đình, bảo vệ, chăm sóc và giáo dục trẻ em, hộ tịch, luật dân sự, đất đai, bảo vệ và phát triển rừng, tài nguyên nước, bảo vệ môi trường, chính sách định canh, định cư, chính sách phát triển kinh tế mới, giao đất, giao rừng, phòng chống ma tuý; xây dựng bản làng văn hóa, xây dựng và thực hiện hương ước, quy ước làng, xã; xoá bỏ hủ tục lạc hậu; xử lý vi phạm hành chính trên các lĩnh vực đất đai, bảo vệ và phát triển rừng, trật tự an ninh công cộng.
 
 Điều 44.8.NL.2.3. Hình thức phổ biến giáo dục pháp luật:
 
-**Chỉ mục:** 3
+(Điều 3 Nghị quyết liên tịch số 01/1999/NQLT-TP-VHTT-NNPTNT-DTMN-ND, có hiệu lực thi hành kể từ ngày 22/09/1999)
 
-**Mã phân cấp:** 440080000000000047500002000000000000000000801972800010000300
+Các ngành Tư pháp, Văn hóa - Thông tin, Nông nghiệp và phát triển nông thôn, Dân tộc và miền núi, Hội Nông dân các cấp phối hợp duy trì, đẩy mạnh các hình thức phổ biến giáo dục pháp luật sau đây:
 
-**ID:** dk_00071903
+1. Tập huấn nội dung pháp luật cho cán bộ chủ chốt cấp xã, trưởng thôn, trưởng bản, già làng, cán bộ văn hóa thông tin, cán bộ đoàn thể ở cấp xã;
 
----
+2. Tuyên truyền pháp luật trên các phương tiện thông tin đại chúng, trước hết là trên các Báo, Tạp chí chuyên ngành của các cơ quan, tổ chức là Các Bên ký Nghị quyết liên tịch;
 
+3. Phổ biến pháp luật trên mạng lưới chuyền thanh cơ sở. Củng cố, phát triển hệ thống loa truyền thanh, phối hợp đưa nội dung tuyên truyền, phổ biến pháp luật vào chương trình truyền thanh, đảm bảo tất cả những văn bản liên quan đến nông thôn, miền núi đều được phát trên mạng lưới truyền thanh;
 
-### Điều 44.8.NL.2.4. Một số công việc trước mắt:
+4. Tuyên truyền pháp luật bằng hình thức thông tin cổ động, cổ động trực quan, hỗ trợ hoạt động của các đội văn hóa thông tin, phát triển các trạm tin, bảng tin ở các cụm dân cư;
 
-*Nội dung chưa có sẵn*
+5. Làm tờ gấp, lịch tuyên truyền phát tới các làng, bản;
 
-**Chỉ mục:** 4
+6. Tuyên truyền pháp luật qua các hình thức sinh hoạt văn hóa truyền thống;
 
-**Mã phân cấp:** 440080000000000047500002000000000000000000801972800010000400
+7. Xây dựng, khai thác tốt Tủ sách pháp luật phục vụ cho việc nâng cao hiệu lực quản lý của cán bộ cơ sở, nâng cao hiểu biết pháp luật của nhân dân;
 
-**ID:** dk_00071904
+8. Phát hành rộng rãi Bản tin Tư pháp, có các số chuyên đề dành cho nông thôn và miền núi;
 
----
+9. Tăng cường hoạt động tư vấn pháp luật miến phí dưới hình thức tư vấn lưu động; có những hình thức thích hợp tập hợp thắc mắc về pháp luật của nhân dân để kịp thời phối hợp giải đáp;
 
+10. Tổ chức thi tìm hiểu pháp luật trên phạm vi từng vùng, từng ngành, từng cấp, cơ quan, đơn vị.
 
-### Điều 44.8.NL.2.5. Biện pháp bảo đảm thực hiện:
+Điều 44.8.NL.2.4. Một số công việc trước mắt:
 
-*Nội dung chưa có sẵn*
+(Điều 4 Nghị quyết liên tịch số 01/1999/NQLT-TP-VHTT-NNPTNT-DTMN-ND, có hiệu lực thi hành kể từ ngày 22/09/1999)
 
-**Chỉ mục:** 5
+Để rút kinh nghiệm, tạo đà cho việc duy trì thường xuyên các hoạt động phổ biến, giáo dục pháp luật nói tại Mục III của Nghị quyết liên tịch này, trước mắt Các Bên ký Nghị quyết liên tịch phối hợp thực hiện các công việc sau đây:
 
-**Mã phân cấp:** 440080000000000047500002000000000000000000801972800010000500
+1. Chỉ đạo thí điểm một số xã về tuyên truyền pháp luật qua các hình thức sinh hoạt văn hóa truyền thống với các nội dung sau đây:
 
-**ID:** dk_00071905
+- Tập huấn pháp luật, lựa chọn và lồng nội dung pháp luật vào các loại hình văn hóa truyền thống;
 
----
+- Tăng cường phối hợp giữa cán bộ Tư pháp và cán bộ Văn hóa thông tin;
 
+- Nâng cao vai trò của trưởng thôn, trưởng bản, già làng, tổ hoà giải.
 
-### Điều 44.8.TL.1.4. Kinh phí bảo đảm xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật, trợ giúp pháp lý đối với cựu chiến binh
+Cơ quan chủ trì: Bộ Tư pháp, Bộ Văn hóa - Thông tin.
+
+2. Chỉ đạo điểm triển khai Luật Bảo vệ và phát triển rừng, Luật Đất đai với các nội dung sau đây:
+
+- Khảo sát tình hình hiểu biết pháp luật về bảo vệ rừng, quản lý và sử dụng đất, tài nguyên nước, bảo vệ môi trường;
+
+- Khảo sát tình hình thực hiện các luật trên, tình hình vi phạm và nguyên nhân vi phạm;
+
+- Lựa chọn và thực hiện các hình thức tuyên truyền phù hợp, trong đó có tổ chức cuộc thi tìm hiểu pháp luật về đất đai, bảo vệ rừng, phát hành ấn phẩm phổ biến pháp luật về hai lĩnh vực này;
+
+- Nâng cao năng lực giám sát thực hiện Luật Đất đai, Luật Bảo vệ và phát triển rừng;
+
+- Đánh giá hiệu quả việc chỉ đạo điểm triển khai công tác phổ biến, giáo dục pháp luật về đất đai, bảo vệ rừng.
+
+Cơ quan chủ trì: Bộ Nông nghiệp và Phát triển nông thôn, Hội Nông dân Việt Nam, Uỷ ban Dân tộc và Miền núi.
+
+3. Phát động cuộc thi sáng tác tiết mục tuyên truyền thực hiện pháp luật cho các đội văn hóa thông tin (sẽ có quy chế thi riêng).
+
+Cơ quan chủ trì: Bộ Văn hóa - Thông tin, Bộ Tư pháp.
+
+Điều 44.8.NL.2.5. Biện pháp bảo đảm thực hiện:
+
+(Điều 5 Nghị quyết liên tịch số 01/1999/NQLT-TP-VHTT-NNPTNT-DTMN-ND, có hiệu lực thi hành kể từ ngày 22/09/1999)
+
+Để bảo đảm thực hiện tốt các nội dung, hình thức phổ biến giáo dục pháp luật được quy định tại Nghị quyết này, Các Bên ký Nghị quyết liên tịch thống nhất thực hiện các biện pháp sau đây:
+
+1. Các Bên ký Nghị quyết liên tịch có văn bản hướng dẫn các cơ quan, tổ chức thuộc ngành mình thực hiện Nghị quyết;
+
+2. Các Bên ký Nghị quyết liên tịch có đầu mối theo dõi tình hình thực hiện Nghị quyết này và giữ mối liên hệ với nhau trong quá trình tổ chức thực hiện;
+
+Lập tổ công tác phối hợp phổ biến giáo dục pháp luật gồm lãnh đạo cấp Vụ và chuyên viên của Các Bên ký Nghị quyết liên tịch và các cơ quan, tổ chức hữu quan do Lãnh đạo cấp Vụ của Bộ Tư pháp làm Tổ trưởng để duy trì thường xuyên sự phối hợp của các bên;
+
+3. Các Bên ký Nghị quyết liên tịch đưa việc thực hiện Nghị quyết này thành một nội dung riêng trong chế độ báo cáo, kiểm tra của đơn vị mình;
+
+4. Định kỳ 6 tháng lãnh đạo các bên họp kiểm điểm tình hình công tác thời gian qua và bàn kế hoạch phối hợp trong thời gian tới;
+
+5. Các Bên ký Nghị quyết liên tịch thường xuyên phối hợp kiểm tra việc chỉ đạo và triển khai thực hiện Nghị quyết này ở các cấp, nhất là ở cơ sở;
+
+6. Bộ Tư pháp chịu trách nhiệm về kinh phí cho các hoạt động phối hợp chung. Các ngành và tổ chức chịu trách nhiệm về kinh phí cho các hoạt động của mình.
+
+Mục 2
+
+TUYÊN TRUYỀN, PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT ĐỐI VỚI CỰU CHIÊN BINH
 
 Điều 44.8.TL.1.4. Kinh phí bảo đảm xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật, trợ giúp pháp lý đối với cựu chiến binh
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 02/2008/TTLT-BTP-TWHCCBVN Hướng dẫn phối hợp xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật, trợ giúp pháp lý đối với Cựu chiến binh ngày 09/06/2008 của Bộ Tư pháp và Trung ương Hội Cựu chiến binh Việt Nam, có hiệu lực thi hành kể từ ngày 09/07/2008 )
 
-**Mã phân cấp:** 440080000000000047500003000000000000000000802292600020000400
+1. Kinh phí xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật của Hội Cựu chiến binh Việt Nam được đảm bảo theo quy định tại Điều 9 Nghị định số 150/2006/NĐ-CP ngày 12 tháng 12 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Pháp lệnh Cựu chiến binh, Thông tư số 100/2006/TT-BTC ngày 23 tháng 10 năm 2006 của Bộ Tài chính hướng dẫn việc quản lý và sử dụng kinh phí ngân sách nhà nước bảo đảm cho công tác xây dựng các văn bản quy phạm pháp luật và Thông tư số 63/2005/TT-BTC ngày 05 tháng 8 năm 2005 của Bộ Tài chính hướng dẫn việc quản lý và sử dụng kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật.
 
-**ID:** dk_00071907
+Các định mức chi cụ thể thực hiện theo quy định pháp luật hiện hành.
 
----
+2. Kinh phí trợ giúp pháp lý được đảm bảo và thực hiện theo quy định hiện hành.
 
+3. Các cấp Hội lập dự toán trong dự toán ngân sách hàng năm gửi cơ quan tài chính cùng cấp tổng hợp trình cấp có thẩm quyền phê duyệt.
 
-### Điều 44.8.TL.1.5. Tổ chức thực hiện
+Điều 44.8.TL.1.5. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 5 Thông tư liên tịch số 02/2008/TTLT-BTP-TWHCCBVN, có hiệu lực thi hành kể từ ngày 09/07/2008)
 
-**Chỉ mục:** 5
+1. Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-**Mã phân cấp:** 440080000000000047500003000000000000000000802292600020000500
+2. Các đơn vị chức năng có liên quan của Bộ Tư pháp, Sở Tư pháp, Trung tâm trợ giúp pháp lý nhà nước, Chi nhánh của Trung tâm; Hội Cựu chiến binh các cấp có trách nhiệm phối hợp thực hiện chức năng, nhiệm vụ của mình theo quy định của pháp luật và hướng dẫn tại Thông tư này.
 
-**ID:** dk_00071908
+3. Hàng năm, Bộ Tư pháp, Trung ương Hội Cựu chiến binh Việt Nam tiến hành kiểm tra, nắm tình hình, kịp thời thông báo, trao đổi, rút kinh nghiệm, điều chỉnh, bổ sung nội dung Thông tư và phương pháp phối hợp hoạt động cho phù hợp có hiệu quả.
 
----
+Trong quá trình thực hiện, nếu có vướng mắc, các cơ quan chức năng được giao nhiệm vụ của Bộ Tư pháp, Trung ương Hội Cựu chiến binh Việt Nam, các Sở Tư pháp, Hội Cựu chiến binh tỉnh, thành phố trực thuộc Trung ương báo cáo, kiến nghị Bộ Tư pháp, Trung ương Hội Cựu chiến binh Việt Nam để xem xét, thống nhất chủ trương, biện pháp giải quyết.
 
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.29. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận)
 
-### Điều 44.8.TL.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+Mục 3
+
+PHỐI HỢP THỰC HIỆN CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG NHÀ TRƯỜNG
+
+(Mục này có nội dung liên quan đến Điều 44.8.LQ.3. Chính sách của Nhà nước về phổ biến, giáo dục pháp luật của Luật 14/2012/QH13 Phổ biến, giáo dục pháp luật ban hành ngày 20/06/2012)
 
 Điều 44.8.TL.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP Hướng dẫn việc phối hợp thực hiện công tác phổ biến, giáo dục pháp luật trong nhà trường ngày 16/11/2010 của Bộ Giáo dục và Đào tạo và Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 31/12/2010 )
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000100
+ 1. Thông tư liên tịch này hướng dẫn việc phối hợp thực hiện công tác phổ biến, giáo dục pháp luật trong nhà trường, bao gồm: mục đích, yêu cầu, nội dung phối hợp; trách nhiệm của các cơ quan, đơn vị liên quan trong việc phối hợp thực hiện công tác phổ biến, giáo dục pháp luật trong nhà trường.
 
-**ID:** dk_00071910
+ 2. Thông tư liên tịch này áp dụng đối với Bộ Giáo dục và Đào tạo, Sở Giáo dục và Đào tạo, Phòng Giáo dục và Đào tạo (gọi chung là cơ quan quản lý giáo dục); Bộ Tư pháp, Sở Tư pháp, Phòng Tư pháp (gọi chung là cơ quan tư pháp); các trường tiểu học, trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học, trường đại học, trường cao đẳng, trường trung cấp chuyên nghiệp, trung tâm giáo dục thường xuyên (gọi chung là nhà trường)   Điều 44.8.TL.2.2. Mục đích, yêu cầu của việc phối hợp
 
----
+(Điều 2 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
+ 1. Mục đích phối hợp
 
-### Điều 44.8.TL.2.2. Mục đích, yêu cầu của việc phối hợp
+ a) Nâng cao chất lượng và hiệu quả công tác phổ biến, giáo dục pháp luật trong nhà trường, góp phần nâng cao ý thức pháp luật của cán bộ, nhà giáo và người học;
 
-Điều 44.8.TL.2.2. Mục đích, yêu cầu của việc phối hợp
+ b) Bổ sung, hoàn thiện các điều kiện đảm bảo cho công tác phổ biến, giáo dục pháp luật trong nhà trường;
 
-**Chỉ mục:** 2
+ c) Kịp thời điều chỉnh, bổ sung chương trình, kế hoạch và sự chỉ đạo đối với công tác phổ biến, giáo dục pháp luật trong nhà trường khi có sửa đổi, bổ sung hoặc ban hành mới các văn bản quy phạm pháp luật liên quan.
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000200
+ 2. Yêu cầu đối với việc phối hợp
 
-**ID:** dk_00071911
+ a) Phù hợp với chức năng, nhiệm vụ của mỗi cơ quan, đơn vị và đảm bảo sự thống nhất từ Trung ương đến địa phương;
 
----
+ b) Phải có nội dung cụ thể, thiết thực, không phô trương, hình thức và được tiến hành thường xuyên, có trọng tâm, trọng điểm;
 
+ c) Phát huy vai trò chủ động của mỗi cơ quan, đơn vị trong việc phối hợp.Điều 44.8.TL.2.3. Xây dựng chương trình, kế hoạch phổ biến, giáo dục pháp luật trong nhà trường
 
-### Điều 44.8.TL.2.3. Xây dựng chương trình, kế hoạch phổ biến, giáo dục pháp luật trong nhà trường
+(Điều 3 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-Điều 44.8.TL.2.3. Xây dựng chương trình, kế hoạch phổ biến, giáo dục pháp luật trong nhà trường
+ 1. Xây dựng chương trình, kế hoạch phổ biến, giáo dục pháp luật của cơ quan quản lý giáo dục, cơ quan tư pháp trong nhà trường.
 
-**Chỉ mục:** 3
+ 2. Xác định chương trình, kế hoạch phổ biến, giáo dục pháp luật liên ngành giữa cơ quan quản lý giáo dục, cơ quan tư pháp của cùng cấp.
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000300
+ Chương trình, kế hoạch phổ biến, giáo dục pháp luật bao gồm chương trình, kế hoạch hàng năm, dài hạn hoặc theo chuyên đề phù hợp với các đối tượng trong nhà trường.Điều 44.8.TL.2.4. Xây dựng và sử dụng đội ngũ giáo viên, giảng viên, báo cáo viên phổ biến, giáo dục pháp luật trong nhà trường
 
-**ID:** dk_00071912
+(Điều 4 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
----
+ 1. Khảo sát, đánh giá tình hình đội ngũ giáo viên, giảng viên giảng dạy môn học Đạo đức, Giáo dục công dân, Pháp luật; cán bộ phụ trách công tác phổ biến, giáo dục pháp luật ngành giáo dục, báo cáo viên pháp luật ngành giáo dục.
 
+ 2. Xây dựng chương trình, tài liệu và tổ chức tập huấn, bồi dưỡng kiến thức và kỹ năng phổ biến, giáo dục pháp luật cho các đối tượng nêu tại khoản 1 Điều này.
 
-### Điều 44.8.TL.2.4. Xây dựng và sử dụng đội ngũ giáo viên, giảng viên, báo cáo viên phổ biến, giáo dục pháp luật trong nhà trường
+ 3. Tổ chức tập huấn, hướng dẫn, đổi mới phương pháp giảng dạy theo giáo trình, sách giáo khoa các môn học Pháp luật, môn học Đạo đức; Giáo dục công dân phù hợp với lứa tuổi, điều kiện nhà trường, vùng miền.
 
-Điều 44.8.TL.2.4. Xây dựng và sử dụng đội ngũ giáo viên, giảng viên, báo cáo viên phổ biến, giáo dục pháp luật trong nhà trường
+ 4. Huy động đội ngũ cán bộ tư pháp, báo cáo viên pháp luật các cấp tham gia công tác phổ biến, giáo dục pháp luật trong nhà trường.Điều 44.8.TL.2.5. Phối hợp biên soạn chương trình, giáo trình, tài liệu, sách giáo khoa về phổ biến, giáo dục pháp luật; xây dựng danh mục các thiết bị phục vụ công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 4
+(Điều 5 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000400
+ 1. Xây dựng, hoàn thiện chương trình, giáo trình, sách giáo khoa các môn học Pháp luật, môn học Đạo đức và Giáo dục công dân.
 
-**ID:** dk_00071913
+ 2. Biên soạn sách hướng dẫn và tài liệu tham khảo phục vụ việc giảng dạy và học tập các môn học Pháp luật, môn học Đạo đức và Giáo dục công dân.
 
----
-
-
-### Điều 44.8.TL.2.5. Phối hợp biên soạn chương trình, giáo trình, tài liệu, sách giáo khoa về phổ biến, giáo dục pháp luật; xây dựng danh mục các thiết bị phục vụ công tác phổ biến, giáo dục pháp luật
-
-Điều 44.8.TL.2.5. Phối hợp biên soạn chương trình, giáo trình, tài liệu, sách giáo khoa về phổ biến, giáo dục pháp luật; xây dựng danh mục các thiết bị phục vụ công tác phổ biến, giáo dục pháp luật
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000500
-
-**ID:** dk_00071914
-
----
-
-
-### Điều 44.8.TL.2.6. Phối hợp xây dựng tủ sách pháp luật, xây dựng các trung tâm nghiên cứu, tư vấn pháp luật
+ 3. Xây dựng, biên soạn, phát hành các tài liệu, danh mục thiết bị phục vụ công tác phổ biến, giáo dục pháp luật trong nhà trường.(Điều này có nội dung liên quan đến Điều 44.8.TT.3.5. Phân loại đối tượng được phổ biến, giáo dục pháp luật)
 
 Điều 44.8.TL.2.6. Phối hợp xây dựng tủ sách pháp luật, xây dựng các trung tâm nghiên cứu, tư vấn pháp luật
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000600
+ 1. Hướng dẫn xây dựng, quản lý, khai thác tủ sách pháp luật trong nhà trường theo nội dung quy định tại Quyết định số 06/2010/QĐ-TTg ngày 25 tháng 01 năm 2010 của Thủ tướng Chính phủ.
 
-**ID:** dk_00071915
-
----
-
-
-### Điều 44.8.TL.2.7. Phối hợp nghiên cứu khoa học về phổ biến, giáo dục pháp luật, tổ chức thi học sinh giỏi, giáo viên giỏi môn học Giáo dục công dân và môn học Pháp luật
+ 2. Hướng dẫn các trung tâm nghiên cứu, tư vấn pháp luật theo nội dung quy định tại Quyết định số 1928/QĐ-TTg ngày 20 tháng 11 năm 2009 của Thủ tướng Chính phủ.(Điều này có nội dung liên quan đến Điều 44.8.QĐ.1.9. Tổ chức thực hiện của Quyết định 06/2010/QĐ-TTg Về việc xây dựng, quản lý, khai thác Tủ sách pháp luật ban hành ngày 25/01/2010)
 
 Điều 44.8.TL.2.7. Phối hợp nghiên cứu khoa học về phổ biến, giáo dục pháp luật, tổ chức thi học sinh giỏi, giáo viên giỏi môn học Giáo dục công dân và môn học Pháp luật
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000700
+ 1. Nghiên cứu khoa học về phổ biến, giáo dục pháp luật trong đó ưu tiên việc nghiên cứu nhu cầu tìm hiểu pháp luật, đưa nội dung phổ biến, giáo dục pháp luật phù hợp vào tất cả các cấp học và trình độ đào tạo.
 
-**ID:** dk_00071916
+ 2. Xây dựng nội dung và tổ chức thi học sinh giỏi, giáo viên giỏi môn học Giáo dục công dân và môn học Pháp luật.
 
----
+ 3. Tổ chức các cuộc thi tìm hiểu về pháp luật trong cán bộ, nhà giáo, người học ở các cấp học và trình độ đào tạo.
 
+ 4. Khảo sát thực tiễn phổ biến, giáo dục pháp luật trong lĩnh vực giáo dục; chia sẻ các thông tin trong nước và quốc tế liên quan đến công tác phổ biến, giáo dục pháp luật trong nhà trường.
 
-### Điều 44.8.TL.2.8. Phối hợp kiểm tra, sơ kết, tổng kết về công tác phổ biến, giáo dục pháp luật
+ 5. Đổi mới phương pháp dạy và học pháp luật theo hướng nâng cao tính chủ động, tích cực của người học và tính thực tiễn trong bài giảng của giáo viên, giảng viên.Điều 44.8.TL.2.8. Phối hợp kiểm tra, sơ kết, tổng kết về công tác phổ biến, giáo dục pháp luật
 
-Điều 44.8.TL.2.8. Phối hợp kiểm tra, sơ kết, tổng kết về công tác phổ biến, giáo dục pháp luật
+(Điều 8 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-**Chỉ mục:** 8
+ 1. Thành lập các đoàn kiểm tra liên ngành để kiểm tra công tác phổ biến, giáo dục pháp luật trong nhà trường.
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000800
+ 2. Định kỳ sơ kết, tổng kết, đánh giá các hình thức phổ biến, giáo dục pháp luật có hiệu quả trong nhà trường; khen thưởng về công tác phổ biến, giáo dục pháp luật trong nhà trường.
 
-**ID:** dk_00071917
+ 3. Tiến hành giao ban hàng năm về công tác phổ biến, giáo dục pháp luật trong nhà trường giữa cơ quan quản lý giáo dục và cơ quan tư pháp cùng cấp.Điều 44.8.TL.2.9. Trách nhiệm của cơ quan quản lý giáo dục
 
----
+(Điều 9 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
+ 1. Chủ trì xây dựng chương trình, kế hoạch, tổ chức triển khai, sơ kết, tổng kết các nội dung phối hợp trong phạm vi thẩm quyền quy định tại Chương II của Thông tư liên tịch này.
 
-### Điều 44.8.TL.2.9. Trách nhiệm của cơ quan quản lý giáo dục
+ 2. Tham gia xây dựng chương trình, kế hoạch phổ biến, giáo dục pháp luật của cơ quan tư pháp cùng cấp.
 
-Điều 44.8.TL.2.9. Trách nhiệm của cơ quan quản lý giáo dục
+ 3. Sử dụng có hiệu quả các nguồn lực phục vụ công tác phổ biến, giáo dục pháp luật trong nhà trường do cơ quan tư pháp hỗ trợ.
 
-**Chỉ mục:** 9
+ 4. Đề xuất khen thưởng hoặc khen thưởng theo thẩm quyền đối với cơ quan, đơn vị, cán bộ tư pháp có nhiều thành tích trong công tác phổ biến, giáo dục pháp luật trong nhà trường.Điều 44.8.TL.2.10. Trách nhiệm của cơ quan tư pháp
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300000900
+(Điều 10 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-**ID:** dk_00071918
+ 1. Phối hợp với cơ quan quản lý giáo dục cùng cấp tổ chức triển khai nội dung hoạt động trong phạm vi thẩm quyền quy định tại Chương II của Thông tư liên tịch này.
 
----
+ 2. Chủ trì thực hiện các công việc sau:
 
+ a) Định hướng nội dung phổ biến, giáo dục pháp luật trong chương trình, kế hoạch phối hợp liên ngành giữa hai bên;
 
-### Điều 44.8.TL.2.10. Trách nhiệm của cơ quan tư pháp
+ b) Đề xuất nội dung chương trình, tài liệu tập huấn, bồi dưỡng kiến thức pháp luật và nghiệp vụ phổ biến, giáo dục pháp luật;
 
-*Nội dung chưa có sẵn*
+ c) Hướng dẫn, hỗ trợ việc xây dựng, khai thác và quản lý tủ sách pháp luật trong nhà trường.
 
-**Chỉ mục:** 10
+ 3. Đưa nội dung phổ biến, giáo dục pháp luật trong nhà trường thành hoạt động thường xuyên trong kế hoạch phổ biến, giáo dục pháp luật hàng năm của cơ quan tư pháp.
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300001000
+ 4. Chỉ đạo, hướng dẫn cơ quan tư pháp cấp dưới tích cực tham gia thực hiện các hoạt động phối hợp phổ biến, giáo dục pháp luật trong nhà trường.
 
-**ID:** dk_00071919
+ 5. Cử cán bộ có trách nhiệm theo dõi và tham gia phối hợp thực hiện phổ biến, giáo dục pháp luật trong nhà trường.
 
----
+ 6. Đề xuất khen thưởng hoặc khen thưởng theo thẩm quyền đối với các cơ quan, đơn vị, nhà trường, cá nhân thuộc ngành giáo dục có nhiều thành tích trong công tác phổ biến, giáo dục pháp luật.Điều 44.8.TL.2.11. Trách nhiệm của nhà trường
 
+(Điều 11 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-### Điều 44.8.TL.2.11. Trách nhiệm của nhà trường
+ 1. Triển khai có hiệu quả các chương trình, kế hoạch phối hợp phổ biến, giáo dục pháp luật theo chức năng, nhiệm vụ và nội dung quy định tại Thông tư liên tịch này.
 
-*Nội dung chưa có sẵn*
+ 2. Chủ động liên hệ với các cơ quan tư pháp trong việc tổ chức công tác phối hợp. Chủ động phát hiện, đề xuất các nội dung cần phối hợp phổ biến, giáo dục pháp luật trong nhà trường với các cơ quan quản lý có thẩm quyền.
 
-**Chỉ mục:** 11
+ 3. Báo cáo về công tác phối hợp phổ biến, giáo dục pháp luật trong nhà trường cùng với báo cáo về công tác phổ biến, giáo dục pháp luật định kỳ, đột xuất.Điều 44.8.TL.2.12. Phân công trách nhiệm
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300001100
+(Điều 12 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-**ID:** dk_00071920
+ Vụ Pháp chế - Bộ Giáo dục và Đào tạo và Vụ Phổ biến giáo dục pháp luật – Bộ Tư pháp có trách nhiệm giúp Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Tư pháp làm đầu mối phối hợp thực hiện Thông tư liên tịch này.Điều 44.8.TL.2.13. Kinh phí thực hiện
 
----
+(Điều 13 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
+ Các cơ quan phối hợp bố trí kinh phí từ nguồn Ngân sách nhà nước cấp cho cơ quan, đơn vị để thực hiện nhiệm vụ được phân công.Điều 44.8.TL.2.14. Hiệu lực thi hành
 
-### Điều 44.8.TL.2.12. Phân công trách nhiệm
+(Điều 14 Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP, có hiệu lực thi hành kể từ ngày 31/12/2010)
 
-*Nội dung chưa có sẵn*
+1. Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 31 tháng 12 năm 2010.
 
-**Chỉ mục:** 12
+2. Chánh Văn phòng Bộ Giáo dục và Đào tạo, Chánh Văn phòng Bộ Tư pháp, Vụ trưởng Vụ Pháp chế Bộ Giáo dục và Đào tạo, Vụ trưởng Vụ Phổ biến giáo dục pháp luật Bộ Tư pháp, giám đốc các Sở Giáo dục và Đào tạo, giám đốc các Sở Tư pháp, giám đốc các đại học, học viện, hiệu trưởng các trường đại học, cao đẳng, trung cấp chuyên nghiệp, thủ trưởng các cơ quan, đơn vị liên quan thuộc Bộ Giáo dục và Đào tạo, Bộ Tư pháp chịu trách nhiệm thi hành Thông tư liên tịch này.
 
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300001200
+Mục 4
 
-**ID:** dk_00071921
+CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG NGÀNH GIAO THÔNG VẬN TẢI
 
----
+Điều 44.8.TT.3.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 47/2013/TT-BGTVT Quy định về công tác phổ biến, giáo dục pháp luật
+trong ngành Giao thông vận tải ngày 03/12/2013 của Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 25/01/2014 )Thông tư này quy định về công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải.
 
-### Điều 44.8.TL.2.13. Kinh phí thực hiện
+Điều 44.8.TT.3.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300001300
-
-**ID:** dk_00071922
-
----
-
-
-### Điều 44.8.TL.2.14. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 440080000000000047500005000000000000000000802381600300001400
-
-**ID:** dk_00071923
-
----
-
-
-### Điều 44.8.TT.3.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000100
-
-**ID:** dk_00071925
-
----
-
-
-### Điều 44.8.TT.3.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000200
-
-**ID:** dk_00071926
-
----
-
-
-### Điều 44.8.TT.3.3. Yêu cầu của công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải
+Cơ quan, đơn vị; công chức, viên chức, người lao động trong ngành Giao thông vận tải và tổ chức, cá nhân khác có liên quan.
 
 Điều 44.8.TT.3.3. Yêu cầu của công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000300
+1. Phổ biến kịp thời, chính xác, hiệu quả, đảm bảo trọng tâm, trọng điểm nội dung các quy định của pháp luật đến công chức, viên chức, người lao động trong ngành Giao thông vận tải và tổ chức, cá nhân khác có liên quan.
 
-**ID:** dk_00071927
-
----
-
-
-### Điều 44.8.TT.3.4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
+2. Nâng cao ý thức chấp hành pháp luật và góp phần xây dựng văn hóa giao thông của người tham gia giao thông.
 
 Điều 44.8.TT.3.4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000400
-
-**ID:** dk_00071928
-
----
-
-
-### Điều 44.8.TT.3.5. Phân loại đối tượng được phổ biến, giáo dục pháp luật
+Bộ Giao thông vận tải khuyến khích và tạo điều kiện để các tổ chức, cá nhân tham gia công tác phổ biến, giáo dục pháp luật trong lĩnh vực giao thông vận tải và chủ động huy động các nguồn lực trong xã hội để thực hiện công tác này.
 
 Điều 44.8.TT.3.5. Phân loại đối tượng được phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000500
+1. Nhóm 1:
 
-**ID:** dk_00071929
+a) Công chức, viên chức và người lao động đang công tác trong các cơ quan, đơn vị trực thuộc Bộ Giao thông vận tải;
 
----
+b) Công chức, viên chức, người lao động thuộc các Sở Giao thông vận tải.
 
+2. Nhóm 2: Học sinh, sinh viên các cơ sở giáo dục, đào tạo trực thuộc Bộ Giao thông vận tải, Tổng cục, Cục thuộc Bộ, Sở Giao thông vận tải và học sinh, sinh viên các trường thuộc các cấp học trong phạm vi cả nước.
 
-### Điều 44.8.TT.3.6. Nội dung phổ biến, giáo dục pháp luật
+3. Nhóm 3: Các tổ chức, cá nhân kinh doanh trong lĩnh vực giao thông vận tải, trọng tâm là các doanh nghiệp kinh doanh dịch vụ vận tải hàng hóa và hành khách.
+
+4. Nhóm 4: Người tham gia giao thông và các đối tượng khác có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 44.8.TL.2.5. Phối hợp biên soạn chương trình, giáo trình, tài liệu, sách giáo khoa về phổ biến, giáo dục pháp luật; xây dựng danh mục các thiết bị phục vụ công tác phổ biến, giáo dục pháp luật)
 
 Điều 44.8.TT.3.6. Nội dung phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000600
+Nội dung phổ biến, giáo dục pháp luật là quy định của Hiến pháp và các văn bản quy phạm pháp luật (sau đây gọi là văn bản quy phạm pháp luật) phù hợp với từng nhóm đối tượng quy định tại Điều 5 của Thông tư này, cụ thể như sau:
 
-**ID:** dk_00071930
+1. Đối với đối tượng thuộc nhóm 1
 
----
+a) Phổ biến các văn bản quy phạm pháp luật liên quan trực tiếp đến quyền và nghĩa vụ của công chức, viên chức, người lao động; các quy định về nhiệm vụ, quyền hạn của các cơ quan quản lý nhà nước; chế độ công vụ, công chức, viên chức; các quy định về thủ tục giải quyết khiếu nại, tố cáo; quy chế tiếp công dân; các quy định về cải cách hành chính; các quy định về thực hành tiết kiệm, chống lãng phí; phòng, chống tham nhũng và các văn bản quy phạm pháp luật khác có liên quan;
 
+b) Phổ biến các văn bản quy phạm pháp luật liên quan đến lĩnh vực giao thông vận tải; đặc biệt là các quy định về trật tự, an toàn giao thông, bảo vệ môi trường trong lĩnh vực giao thông vận tải.
 
-### Điều 44.8.TT.3.7. Hình thức phổ biến, giáo dục pháp luật
+2. Đối với đối tượng thuộc nhóm 2
+
+a) Đối với các trường trực thuộc Bộ, các Tổng cục, Cục thuộc Bộ, các Sở Giao thông vận tải:
+
+Phổ biến và lồng ghép vào môn học pháp luật các văn bản quy phạm pháp luật chuyên ngành giao thông vận tải, gắn với từng ngành nghề chuyên môn và nội dung đào tạo.
+
+b) Đối với các trường thuộc các cấp học trong hệ thống giáo dục quốc dân:
+
+Phối hợp với các cơ quan liên quan thuộc Bộ Giáo dục và Đào tạo chỉ đạo các trường học tổ chức các hoạt động ngoại khóa để phổ biến nội dung các văn bản quy phạm pháp luật về an toàn giao thông cho học sinh, sinh viên.
+
+3. Đối với đối tượng thuộc nhóm 3
+
+Tập trung phổ biến các văn bản quy phạm pháp luật quy định về trật tự, an toàn giao thông, pháp luật về bảo vệ môi trường trong lĩnh vực giao thông vận tải đến các doanh nghiệp kinh doanh vận tải hàng hóa và hành khách.
+
+4. Đối với đối tượng thuộc nhóm 4
+
+Phổ biến các văn bản quy phạm pháp luật chuyên ngành trong các lĩnh vực đường bộ, đường sắt, hàng hải, đường thủy nội địa, hàng không; đặc biệt chú trọng pháp luật về an toàn giao thông, bảo vệ hành lang an toàn giao thông, pháp luật về bảo vệ môi trường trong lĩnh vực giao thông vận tải cho người tham gia giao thông và các đối tượng khác liên quan.
+
+5. Nội dung pháp luật chuyên ngành cần phổ biến, giáo dục cho các đối tượng
+
+a) Về lĩnh vực đường bộ: Luật Giao thông đường bộ và các văn bản quy phạm pháp luật hướng dẫn thi hành Luật Giao thông đường bộ: các văn bản quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; quản lý về phương tiện và người điều khiển phương tiện giao thông đường bộ; các quy định về an toàn kỹ thuật và bảo vệ môi trường giao thông đường bộ; các quy định về quản lý vận tải, dịch vụ hỗ trợ vận tải đường bộ; xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ; các điều ước quốc tế liên quan mà Việt Nam là thành viên và các quy định khác có liên quan;
+
+b) Về lĩnh vực hàng hải: Bộ luật Hàng hải Việt Nam và các văn bản hướng dẫn thi hành Bộ luật Hàng hải Việt Nam: các văn bản quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông hàng hải; các quy định về an toàn, an ninh hàng hải và bảo vệ môi trường; xử phạt vi phạm hành chính trong lĩnh vực hàng hải; các điều ước quốc tế liên quan mà Việt Nam là thành viên và các quy định khác có liên quan;
+
+c) Về lĩnh vực hàng không: Luật Hàng không dân dụng Việt Nam và các văn bản hướng dẫn thi hành Luật Hàng không dân dụng Việt Nam: các văn bản quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông hàng không; các quy định về an toàn, an ninh hàng không và bảo vệ môi trường; xử phạt vi phạm hành chính trong lĩnh vực hàng không; các điều ước quốc tế liên quan mà Việt Nam là thành viên và các quy định khác có liên quan;
+
+d) Về lĩnh vực đường thủy nội địa: Luật Giao thông đường thủy nội địa và các văn bản hướng dẫn thi hành Luật Giao thông đường thủy nội địa: các văn bản quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường thủy nội địa; các quy định về an toàn giao thông đường thủy nội địa và bảo vệ môi trường; xử phạt vi phạm hành chính trong lĩnh vực giao thông đường thủy nội địa; các điều ước quốc tế liên quan mà Việt Nam là thành viên và các quy định khác có liên quan;
+
+đ) Về lĩnh vực đường sắt: Luật Đường sắt và các văn bản hướng dẫn thi hành Luật Đường sắt: các văn bản quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường sắt; các quy định về an toàn giao thông đường sắt và bảo vệ môi trường; xử phạt vi phạm hành chính trong lĩnh vực giao thông đường sắt; các điều ước quốc tế liên quan mà Việt Nam là thành viên và các quy định khác có liên quan.
 
 Điều 44.8.TT.3.7. Hình thức phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000700
+1. Họp báo, thông cáo báo chí.
 
-**ID:** dk_00071931
+2. Phổ biến pháp luật trực tiếp; tư vấn, hướng dẫn tìm hiểu pháp luật; cung cấp thông tin, tài liệu pháp luật.
 
----
+3. Thông qua các phương tiện thông tin đại chúng, loa truyền thanh, internet, pa-nô, áp-phích, tranh cổ động; đăng tải trên Công báo; đăng tải thông tin pháp luật trên trang thông tin điện tử; niêm yết tại trụ sở, bảng tin của cơ quan, đơn vị.
 
+4. Tổ chức thi tìm hiểu pháp luật.
 
-### Điều 44.8.TT.3.8. Xây dựng kế hoạch phổ biến, giáo dục pháp luật
+5. Thông qua công tác xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo của công dân và hoạt động khác của các cơ quan đơn vị; thông qua hoạt động trợ giúp pháp lý, hòa giải ở cơ sở.
+
+6. Lồng ghép trong hoạt động văn hóa, văn nghệ, sinh hoạt của cơ quan, đơn vị, câu lạc bộ, tủ sách pháp luật và các thiết chế văn hóa khác ở cơ sở.
+
+7. Thông qua chương trình giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân.
+
+8. Các hình thức phổ biến, giáo dục pháp luật khác phù hợp với từng đối tượng cụ thể bảo đảm cho công tác phổ biến, giáo dục pháp luật đem lại hiệu quả.
 
 Điều 44.8.TT.3.8. Xây dựng kế hoạch phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000800
+1. Trước ngày 01 tháng 11 hàng năm, các cơ quan, đơn vị thuộc Bộ Giao thông vận tải có trách nhiệm xây dựng Kế hoạch phổ biến, giáo dục pháp luật, nhu cầu đào tạo, bồi dưỡng cán bộ làm công tác phổ biến, giáo dục pháp luật hàng năm của cơ quan, đơn vị mình, gửi Bộ Giao thông vận tải (qua Vụ Pháp chế) để tổng hợp vào Kế hoạch chung của Bộ.
 
-**ID:** dk_00071932
+Đề cương Kế hoạch phổ biến, giáo dục pháp luật thực hiện theo mẫu quy định tại Phụ lục của Thông tư này.
 
----
+2. Trên cơ sở đề xuất của các cơ quan, đơn vị, Vụ Pháp chế có trách nhiệm tổng hợp, tham mưu trình Bộ trưởng ký ban hành Kế hoạch Phổ biến, giáo dục pháp luật hàng năm của Bộ.
 
+3. Việc xây dựng, điều chỉnh Kế hoạch phổ biến, giáo dục pháp luật của Bộ phải được Hội đồng phổ biến, giáo dục pháp luật của Bộ thông qua trước khi trình Bộ trưởng xem xét, quyết định.
 
-### Điều 44.8.TT.3.9. Kinh phí thực hiện công tác phổ biến, giáo dục pháp luật
+4. Sở Giao thông vận tải căn cứ Kế hoạch phổ biến, giáo dục pháp luật hàng năm của Bộ Giao thông vận tải và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành Kế hoạch phổ biến, giáo dục pháp luật của mình.
+
+Phu luc_Ke hoach pho bien giao duc phap luat.doc
 
 Điều 44.8.TT.3.9. Kinh phí thực hiện công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470000900
+1. Kinh phí phổ biến, giáo dục pháp luật hàng năm của Bộ Giao thông vận tải được bố trí thành mục riêng trong Dự toán ngân sách hàng năm của Bộ và huy động từ các nguồn hợp pháp khác (nếu có).
 
-**ID:** dk_00071933
+2. Việc lập dự toán, quyết toán các mục chi và các mức chi cụ thể phục vụ công tác phổ biến, giáo dục pháp luật tại các cơ quan, đơn vị thực hiện theo hướng dẫn của Bộ Tư pháp và Bộ Tài chính.
 
----
+3. Trước ngày 30 tháng 5 hàng năm, các cơ quan, đơn vị trực thuộc Bộ Giao thông vận tải gửi về Bộ (qua Vụ Pháp chế và Vụ Tài chính) Dự toán thực hiện Kế hoạch phổ biến, giáo dục pháp luật của năm sau để tổng hợp trong Dự toán ngân sách nhà nước hàng năm của Bộ.
 
+Điều 44.8.TT.3.10. Báo cáo viên pháp luật
 
-### Điều 44.8.TT.3.10. Báo cáo viên pháp luật
+(Điều 10 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-*Nội dung chưa có sẵn*
+Tiêu chuẩn báo cáo viên pháp luật; thẩm quyền, trình tự, thủ tục công nhận, miễn nhiệm báo cáo viên pháp luật là công chức, viên chức ngành Giao thông vận tải thực hiện theo hướng dẫn của Bộ Tư pháp.
 
-**Chỉ mục:** 10
+Điều 44.8.TT.3.11. Ngày Pháp luật
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001000
+(Điều 11 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**ID:** dk_00071934
-
----
-
-
-### Điều 44.8.TT.3.11. Ngày Pháp luật
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001100
-
-**ID:** dk_00071935
-
----
-
-
-### Điều 44.8.TT.3.12. Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải
+Nội dung, hình thức triển khai thực hiện Ngày Pháp luật trong ngành Giao thông vận tải thực hiện theo hướng dẫn của Bộ Tư pháp.
 
 Điều 44.8.TT.3.12. Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001200
+Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải do Bộ trưởng Bộ Giao thông vận tải quyết định thành lập và hoạt động theo chế độ kiêm nhiệm, có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00071936
+1. Tổ chức thực hiện các văn bản chỉ đạo của Đảng, Chính phủ, Thủ tướng Chính phủ, Ủy ban An toàn giao thông Quốc gia và Hội đồng phổ biến, giáo dục pháp luật của Chính phủ về công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải.
 
----
+2. Chỉ đạo thực hiện xây dựng và triển khai Chương trình, Kế hoạch Phổ biến, giáo dục pháp luật dài hạn và hàng năm của Bộ Giao thông vận tải.
 
+3. Định kỳ nghe báo cáo và kiểm tra, đôn đốc các cơ quan, đơn vị trực thuộc Bộ, các Sở Giao thông vận tải thực hiện Kế hoạch phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải.
 
-### Điều 44.8.TT.3.13. Trách nhiệm của các cơ quan, đơn vị trực thuộc Bộ Giao thông vận tải về công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải
+4. Tổ chức huy động kinh phí từ các nguồn ngoài kinh phí phổ biến, giáo dục pháp luật được cấp từ ngân sách nhà nước để hỗ trợ công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải.
+
+5. Tổ chức kiểm tra, khảo sát thực tiễn hoạt động phổ biến, giáo dục pháp luật hàng năm trong ngành Giao thông vận tải để kịp thời phát hiện những vấn đề bất cập để điều chỉnh, khắc phục kịp thời; đề xuất với Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật của Chính phủ, Bộ Tư pháp những giải pháp đẩy mạnh công tác phổ biến, giáo dục pháp luật.
+
+6. Chỉ đạo công tác phối hợp phổ biến, giáo dục pháp luật giữa Bộ Giao thông vận tải với các Bộ, Ủy ban An toàn giao thông Quốc gia và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương.
+
+7. Chỉ đạo về công tác đào tạo, bồi dưỡng nâng cao năng lực cho đội ngũ công chức, viên chức làm công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải.
+
+8. Chỉ đạo việc hợp tác quốc tế về phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải.
+
+9. Tiến hành sơ kết, tổng kết kế hoạch phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải; xem xét, quyết định việc khen thưởng, kỷ luật đối với các tổ chức, cá nhân trong công tác phổ biến, giáo dục pháp luật.
+
+10. Giúp việc cho Hội đồng phổ biến, giáo dục pháp luật của Bộ có Tổ thường trực Hội đồng, Thành viên Tổ thường trực là đại diện một số cơ quan tham mưu, chuyên môn có liên quan thuộc Bộ. Tổ trưởng Tổ thường trực là Lãnh đạo Vụ Pháp chế. Nhiệm vụ của Tổ Thường trực do Chủ tịch Hội đồng giao.
+
+11. Kinh phí hoạt động của Hội đồng và Tổ Thường trực được bố trí từ ngân sách nhà nước và các nguồn kinh phí hợp pháp khác phục vụ cho công tác phổ biến, giáo dục pháp luật về giao thông vận tải. Việc quản lý và sử dụng nguồn kinh phí này theo quy định của pháp luật.
+
+12. Hội đồng hoạt động theo Quy chế do Bộ trưởng Bộ Giao thông vận tải ban hành, được sử dụng con dấu của Bộ Giao thông vận tải để thực hiện nhiệm vụ, quyền hạn được giao.
 
 Điều 44.8.TT.3.13. Trách nhiệm của các cơ quan, đơn vị trực thuộc Bộ Giao thông vận tải về công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001300
+1. Các cơ quan, đơn vị trực thuộc Bộ:
 
-**ID:** dk_00071937
+a) Trên cơ sở Thông tư này, các cơ quan, đơn vị trực thuộc Bộ chủ động xây dựng Kế hoạch phổ biến, giáo dục pháp luật hàng năm để triển khai ở đơn vị và trình Bộ tổng hợp vào Kế hoạch phổ biến, giáo dục pháp luật hàng năm của Bộ; tổ chức thực hiện sau khi Kế hoạch phổ biến, giáo dục pháp luật của Bộ được ban hành;
 
----
+b) Cơ quan, đơn vị được Lãnh đạo Bộ phân công chủ trì soạn thảo văn bản quy phạm pháp luật để trình Bộ trưởng theo thẩm quyền hoặc để Bộ trưởng trình Chính phủ hoặc Quốc hội, Ủy ban thường vụ Quốc hội ban hành thì cơ quan, đơn vị đó chủ động thực hiện việc phổ biến văn bản đó sau khi đã được cấp có thẩm quyền ký ban hành;
 
+c) Xây dựng Dự toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật của cơ quan, đơn vị trình cấp có thẩm quyền tổng hợp, phê duyệt;
 
-### Điều 44.8.TT.3.14. Chế độ báo cáo và kiểm tra
+d) Bố trí đủ ngân sách theo kế hoạch đã được phê duyệt bảo đảm cho công tác phổ biến, giáo dục pháp luật của cơ quan, đơn vị;
 
-*Nội dung chưa có sẵn*
+đ) Bố trí công chức, viên chức phụ trách công tác phổ biến, giáo dục pháp luật ở cơ quan, đơn vị và là đầu mối phối hợp chặt chẽ với Vụ Pháp chế để triển khai hoạt động phổ biến, giáo dục pháp luật;
 
-**Chỉ mục:** 14
+e) Phối hợp với Vụ Pháp chế trong việc phổ biến các văn bản quy phạm pháp luật chuyên ngành;
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001400
+g) Thủ trưởng các cơ quan, đơn vị trực tiếp chỉ đạo và bảo đảm chất Iượng công tác phổ biến, giáo dục pháp luật của cơ quan, đơn vị mình.
 
-**ID:** dk_00071938
+2. Vụ Pháp chế:
 
----
+a) Chủ trì phối hợp với các cơ quan, đơn vị trực thuộc Bộ triển khai thực hiện công tác phổ biến, giáo dục pháp luật;
 
+b) Chủ trì trình Lãnh đạo Bộ các Đề án về công tác phổ biến, giáo dục pháp luật;
 
-### Điều 44.8.TT.3.15. Hiệu lực thi hành
+c) Chủ trì hướng dẫn, đôn đốc tổng hợp, theo dõi các cơ quan, đơn vị trực thuộc Bộ thực hiện có hiệu quả công tác phổ biến, giáo dục pháp luật;
 
-*Nội dung chưa có sẵn*
+d) Phối hợp với Trung tâm Công nghệ thông tin duy trì chuyên trang Phổ biến, giáo dục pháp luật trên Trang thông tin điện tử Bộ Giao thông vận tải;
 
-**Chỉ mục:** 15
+đ) Là cơ quan thường trực của Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải;
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001500
+e) Phối hợp với Vụ Tài chính đề xuất, phân bổ dự toán kinh phí phổ biến, giáo dục pháp luật của Bộ cho các cơ quan, đơn vị trực thuộc Bộ, trình Lãnh đạo Bộ xem xét, quyết định;
 
-**ID:** dk_00071939
+g) Phối hợp với Vụ Tổ chức cán bộ tổ chức kiểm tra, sơ kết, tổng kết và đề xuất khen thưởng đối với tập thể, cá nhân có thành tích xuất sắc trong việc công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải; đề xuất phê bình các tập thể, cá nhân không hoàn thành nhiệm vụ phổ biến, giáo dục pháp luật;
 
----
+h) Tham mưu trình Lãnh đạo Bộ danh sách cán bộ, công chức, viên chức các cơ quan, đơn vị trực thuộc Bộ đủ tiêu chuẩn xét công nhận Báo cáo viên pháp luật;
 
+i) Tham mưu cho Lãnh đạo Bộ tổ chức Ngày Pháp luật hàng năm theo hướng dẫn của Bộ Tư pháp;
 
-### Điều 44.8.TT.3.16. Trách nhiệm thi hành
+k) Là đầu mối của Bộ Giao thông vận tải phối hợp với các cơ quan, đơn vị của các Bộ, ngành có liên quan về công tác phổ biến, giáo dục pháp luật.
 
-*Nội dung chưa có sẵn*
+3. Vụ Tài chính:
 
-**Chỉ mục:** 16
+a) Xây dựng dự toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật của Bộ;
 
-**Mã phân cấp:** 440080000000000047500006000000000000000000802492900470001600
+b) Chủ trì, phối hợp với Vụ Pháp chế và các cơ quan, đơn vị liên quan đề xuất phân bổ kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật của Bộ và các cơ quan, đơn vị trực thuộc Bộ;
 
-**ID:** dk_00071940
+c) Hướng dẫn chế độ quản lý và sử dụng kinh phí phổ biến, giáo dục pháp luật theo chế độ tài chính hiện hành.
 
----
+4. Vụ Tổ chức cán bộ:
 
+a) Căn cứ nhu cầu bồi dưỡng cán bộ làm công tác phổ biến, giáo dục pháp luật của các cơ quan, đơn vị thuộc Bộ do Vụ Pháp chế tổng hợp hàng năm, liên hệ tổ chức các lớp bồi dưỡng, các khóa đào tạo nâng cao chất lượng nguồn nhân lực làm công tác phổ biến, giáo dục pháp luật, báo cáo viên pháp luật trong ngành Giao thông vận tải;
 
-### Điều 44.8.TT.9.1. Phạm vi điều chỉnh và đối tượng áp dụng
+b) Phối hợp với Vụ Pháp chế đề xuất hình thức khen thưởng phù hợp các tổ chức, cá nhân có thành tích xuất sắc trong công tác phổ biến, giáo dục pháp luật.
+
+5. Trung tâm Công nghệ thông tin, Tạp chí Giao thông vận tải, Báo Giao thông:
+
+Đa dạng hóa hình thức thể hiện và nâng cao chất lượng tin, bài trên Chuyên trang Phổ biến, giáo dục pháp luật; chú trọng phổ biến các văn bản quy phạm pháp luật chuyên ngành, các văn bản pháp luật liên quan đến chức năng quản lý nhà nước về lĩnh vực giao thông vận tải, trật tự an toàn giao thông, các văn bản quy phạm pháp luật liên quan đến hoạt động của các cơ quan, đơn vị trực thuộc Bộ.
+
+6. Văn phòng Bộ:
+
+Phối hợp với Trung tâm Công nghệ thông tin, Vụ Pháp chế bảo đảm cơ sở vật chất về công nghệ thông tin phục vụ công tác phổ biến, giáo dục pháp luật.
+
+7. Các trường trực thuộc Bộ:
+
+Phối hợp với Vụ Pháp chế, Vụ Tổ chức cán bộ xây dựng các chương trình đào tạo, bồi dưỡng kiến thức pháp luật để triển khai thực hiện trong trường; giới thiệu các văn bản quy phạm pháp luật của ngành Giao thông vận tải trên Website của trường.
+
+8. Các Tổng công ty, Công ty thuộc Bộ:
+
+a) Chủ động xây dựng Kế hoạch phổ biến, giáo dục pháp luật hàng năm để triển khai ở cơ quan, đơn vị mình;
+
+b) Bố trí đủ kinh phí, cán bộ thực hiện công tác phổ biến, giáo dục pháp luật của cơ quan, đơn vị mình;
+
+c) Phối hợp với các cơ quan, đơn vị thuộc Bộ để tổ chức thực hiện công tác phổ biến, giáo dục pháp luật.
+
+9. Sở Giao thông vận tải tỉnh, thành phố trực thuộc Trung ương:
+
+a) Tham mưu cho Ủy ban nhân dân cấp tỉnh để ban hành Chương trình phổ biến, giáo dục pháp luật về giao thông vận tải tại địa phương, đặc biệt chú trọng phổ biến các quy định về trật tự, an toàn giao thông;
+
+b) Thực hiện công tác phổ biến, giáo dục pháp luật đối với công chức, viên chức, người lao động trong ngành và người dân địa phương về các quy định của pháp luật liên quan đến lĩnh vực giao thông vận tải, các chế độ, chính sách và pháp luật khác có liên quan;
+
+c) Chỉ đạo các trường, các cơ sở đào tạo trực thuộc Sở Giao thông vận tải thực hiện công tác phổ biến, giáo dục pháp luật cho giảng viên, học viên theo Kế hoạch phổ biến, giáo dục pháp luật hàng năm của Sở, phù hợp với các quy định của Thông tư này;
+
+d) Phối hợp với Sở Tư pháp, Đài phát thanh và truyền hình, các đoàn thể chính trị - xã hội, các ban, ngành tại địa phương, các tổ chức cá nhân có liên quan để thực hiện công tác phổ biến, giáo dục pháp luật về giao thông vận tải đến các doanh nghiệp, người tham gia giao thông trên địa bàn địa phương.
+
+Điều 44.8.TT.3.14. Chế độ báo cáo và kiểm tra
+
+(Điều 14 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
+
+1. Định kỳ hàng năm, các cơ quan, đơn vị thuộc Bộ có trách nhiệm báo cáo Bộ Giao thông vận tải (qua Vụ Pháp chế) kết quả phổ biến, giáo dục pháp luật của cơ quan, đơn vị mình; các Sở Giao thông vận tải báo cáo công tác phổ biến, giáo dục pháp luật cho Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương đồng thời gửi Bộ Giao thông vận tải (qua Vụ Pháp chế) để theo dõi.
+
+2. Định kỳ hàng năm, Bộ Giao thông vận tải (Vụ Pháp chế) thông báo cho Bộ Tư pháp kết quả thực hiện công tác phổ biến, giáo dục pháp luật của Bộ.
+
+Điều 44.8.TT.3.15. Hiệu lực thi hành
+
+(Điều 15 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
+
+Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 01 năm 2014.
+
+Điều 44.8.TT.3.16. Trách nhiệm thi hành
+
+(Điều 16 Thông tư số 47/2013/TT-BGTVT, có hiệu lực thi hành kể từ ngày 25/01/2014)
+
+1. Vụ Pháp chế tổ chức kiểm tra, đôn đốc thực hiện Thông tư này, kịp thời phát hiện những vấn đề bất cập nảy sinh, báo cáo Bộ trưởng xem xét, quyết định việc sửa đổi, bổ sung Thông tư cho phù hợp.
+
+2. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Cục trưởng các Cục thuộc Bộ, Giám đốc các Sở Giao thông vận tải, Tổng giám đốc các Ban Quản lý dự án giao thông, Tổng giám đốc các Tổng công ty, Giám đốc các Công ty thuộc Bộ, Hiệu trưởng các trường thuộc Bộ, Thủ trưởng các cơ quan, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Chương VII
+
+QUY ĐỊNH LẬP DỰ TOÁN, QUẢN LÝ, SỬ DỤNG VÀ QUYẾT TOÁN KINH PHÍ NGÂN SÁCH NHÀ NƯỚC BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
 
 Điều 44.8.TT.9.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 56/2023/TT-BTC Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật , chuẩn tiếp cận pháp luật và hòa giải ở cơ sở ngày 18/08/2023 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 06/10/2023 )
 
-**Mã phân cấp:** 4400800000000000487500802847400560000100
+1. Thông tư này quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở.
 
-**ID:** dk_00071942
+2. Thông tư này áp dụng đối với các cơ quan, đơn vị, tổ chức và cá nhân có liên quan đến việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở.
 
----
+3. Các chương trình, đề án, kế hoạch về phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở có văn bản hướng dẫn riêng thì thực hiện theo quy định tại văn bản hướng dẫn đó; trường hợp không có quy định riêng thì thực hiện theo quy định tại Thông tư này.
 
+(Điều này có nội dung liên quan đến Chương V QUY ĐỊNH VIỆC LẬP DỰ TOÁN, QUẢN LÝ, SỬ DỤNG VÀ QUYẾT TOÁN KINH PHÍ NGÂN SÁCH NHÀ NƯỚC THỰC HIỆN CÔNG TÁC HÒA GIẢI Ở CƠ SỞ)
 
-### Điều 44.8.TT.9.2. Nguồn kinh phí thực hiện
+Điều 44.8.TT.9.2. Nguồn kinh phí thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 56/2023/TT-BTC, có hiệu lực thi hành kể từ ngày 06/10/2023)
 
-**Chỉ mục:** 2
+1. Nguồn kinh phí cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở:
 
-**Mã phân cấp:** 4400800000000000487500802847400560000200
+a) Chi thường xuyên ngân sách trung ương để thực hiện công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở của các bộ, cơ quan ở trung ương và Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương, Hội đồng phối hợp phổ biến, giáo dục pháp luật của các bộ, cơ quan ngang bộ;
 
-**ID:** dk_00071943
+b) Chi thường xuyên ngân sách địa phương để thực hiện công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở của địa phương và Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp tỉnh, Hội đồng phối hợp phổ biến, giáo dục pháp luật cấp huyện, Hội đồng đánh giá chuẩn tiếp cận pháp luật cấp huyện theo phân cấp ngân sách nhà nước;
 
----
+c) Kinh phí từ nguồn tài trợ của các cá nhân, tổ chức, doanh nghiệp trong và ngoài nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.
 
+2. Nguồn kinh phí xây dựng, quản lý, khai thác Tủ sách pháp luật thực hiện theo Quyết định số 14/2019/QĐ-TTg ngày 13 tháng 3 năm 2019 của Thủ tướng Chính phủ về việc xây dựng, quản lý, khai thác Tủ sách pháp luật.
 
-### Điều 44.8.TT.9.3. Nội dung chi và mức chi
+Điều 44.8.TT.9.3. Nội dung chi và mức chi
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 56/2023/TT-BTC, có hiệu lực thi hành kể từ ngày 06/10/2023)
 
-**Chỉ mục:** 3
+1. Chi công tác phí cho những người đi công tác, kiểm tra, giám sát, bao gồm cả báo cáo viên pháp luật, tuyên truyền viên pháp luật, người được mời tham gia phổ biến, giáo dục pháp luật, cộng tác viên, chuyên gia tham gia đánh giá chuẩn tiếp cận pháp luật, hòa giải viên; chi tổ chức các cuộc họp (bao gồm cả cuộc họp bầu hòa giải viên, bầu tổ trưởng tổ hòa giải), hội nghị chuyên đề, hội nghị tổng kết, sơ kết, triển khai công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở, các Chương trình, đề án, kế hoạch: Nội dung và mức chi thực hiện theo Thông tư số 40/2017/TT-BTC ngày 28 tháng 4 năm 2017 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị.
 
-**Mã phân cấp:** 4400800000000000487500802847400560000300
+2. Chi tổ chức đào tạo, tập huấn, bồi dưỡng kiến thức pháp luật, nghiệp vụ, kỹ năng phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật, hoà giải ở cơ sở cho cán bộ, công chức, viên chức; báo cáo viên pháp luật; tuyên truyền viên pháp luật và người được mời tham gia phổ biến, giáo dục pháp luật; hoà giải viên ở cơ sở; người làm công tác phổ biến, giáo dục pháp luật, già làng, trưởng bản, người có uy tín trong cộng đồng các dân tộc thiểu số theo khoản 3 Điều 17 Luật Phổ biến, giáo dục pháp luật; người làm công tác phổ biến, giáo dục pháp luật cho người khuyết tật theo khoản 3 Điều 20 Luật Phổ biến, giáo dục pháp luật: Nội dung và mức chi thực hiện theo quy định tại Thông tư số 36/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức và Thông tư số 06/2023/TT-BTC ngày 31 tháng 01 năm 2023 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 36/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức. Nội dung và mức chi hỗ trợ tiền ăn, tiền thuê phòng nghỉ, tiền phương tiện đi lại đối với học viên là đại biểu ở cấp xã thực hiện theo mức chi hỗ trợ đối với đại biểu là khách mời không trong danh sách trả lương của cơ quan nhà nước, đơn vị sự nghiệp công lập và doanh nghiệp quy định tại Thông tư số 40/2017/TT-BTC ngày 28 tháng 4 năm 2017 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị.
 
-**ID:** dk_00071944
+3. Chi tổ chức họp báo, hội thảo, tọa đàm trao đổi kinh nghiệm phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở, giải pháp thực hiện chương trình, đề án, hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật trung ương; bộ, cơ quan ngang bộ; cấp tỉnh; cấp huyện; Hội đồng đánh giá chuẩn tiếp cận pháp luật cấp huyện, Ban chỉ đạo các chương trình, đề án về phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở (bao gồm: Chi tổ chức các cuộc hội thảo, các phiên họp định kỳ, đột xuất của Hội đồng phối hợp phổ biến, giáo dục pháp luật, Tổ Thư ký giúp việc Hội đồng phối hợp phổ biến, giáo dục pháp luật, Ban chỉ đạo, họp tư vấn, thẩm định của Hội đồng đánh giá chuẩn tiếp cận pháp luật cấp huyện): Nội dung và mức chi thực hiện theo quy định tại Thông tư số 03/2023/TT-BTC ngày 10 tháng 01 năm 2023 của Bộ Tài chính quy định lập dự toán, quản lý, sử dụng và quyết toán ngân sách nhà nước thực hiện nhiệm vụ khoa học và công nghệ.
 
----
+Chi tổ chức cuộc họp đánh giá đạt chuẩn tiếp cận pháp luật của cấp xã: Nội dung và mức chi chủ trì và các thành viên tham dự thực hiện theo quy định tại điểm a khoản 6 Điều 4 Thông tư số 338/2016/TT-BTC ngày 28 tháng 12 năm 2016 của Bộ Tài chính quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác xây dựng văn bản quy phạm pháp luật và hoàn thiện hệ thống pháp luật (được sửa đổi, bổ sung tại khoản 2 Điều 1 Thông tư số 42/2022/TT-BTC ngày 06 tháng 7 năm 2022 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 338/2016/TT-BTC ngày 28 tháng 12 năm 2016 của Bộ Tài chính quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác xây dựng văn bản quy phạm pháp luật và hoàn thiện hệ thống pháp luật).
 
+4. Chi ứng dụng công nghệ thông tin trong công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở; đăng tải thông tin pháp luật, các thông tin khác về hoạt động xây dựng và thực hiện pháp luật, hỏi đáp pháp luật cần thiết cho người dân trên cổng/trang thông tin điện tử sử dụng từ nguồn kinh phí chi thường xuyên; xây dựng và vận hành Tủ sách pháp luật điện tử quốc gia, các dự án, đề án, chương trình ứng dụng công nghệ thông tin, kỹ thuật số, mạng xã hội trong công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở theo chương trình, dự án, kế hoạch được cấp có thẩm quyền phê duyệt: Thực hiện theo quy định tại Nghị định số 73/2019/NĐ-CP ngày 05 tháng 9 năm 2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước và quy định của pháp luật có liên quan; các định mức kinh tế - kỹ thuật trong lĩnh vực thông tin và truyền thông.
 
-### Điều 44.8.TT.9.4. Lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở
+5. Chi biên soạn, biên dịch tài liệu phục vụ phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở và thực hiện thông tin, truyền thông trên phương tiện thông tin đại chúng:
+
+a) Chi biên soạn tài liệu (hoặc bài giảng) giới thiệu Luật, Pháp lệnh; thông cáo báo chí, sách, đặc san, tài liệu chuyên đề pháp luật, tài liệu tham khảo, hướng dẫn nghiệp vụ phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở để phát hành hoặc đăng tải trên cổng/trang thông tin điện tử và biên soạn chương trình giáo dục pháp luật, sách, tài liệu tham khảo, hướng dẫn giáo dục pháp luật trong nhà trường: Nội dung và mức chi thực hiện theo quy định tại Thông tư số 76/2018/TT-BTC ngày 17 tháng 8 năm 2018 của Bộ Tài chính hướng dẫn nội dung, mức chi xây dựng chương trình đào tạo, biên soạn giáo trình môn học đối với giáo dục đại học, giáo dục nghề nghiệp;
+
+b) Chi biên soạn đồ họa thông tin pháp luật: Nội dung và mức chi thực hiện theo quy định tại Thông tư số 83/2021/TT-BTC ngày 04 tháng 10 năm 2021 của Bộ Tài chính hướng dẫn quản lý kinh phí tập huấn, bồi dưỡng giáo viên và cán bộ quản lý cơ sở giáo dục để thực hiện chương trình mới, sách giáo khoa mới giáo dục phổ thông;
+
+c) Chi biên soạn sách nói pháp luật thực hiện theo quy định tại Nghị định số 18/2014/NĐ-CP ngày 14 tháng 3 năm 2014 của Chính phủ về chế độ nhuận bút trong lĩnh vực báo chí xuất bản; chi biên soạn bài giảng điện tử: Nội dung và mức chi thực hiện theo quy định tại Thông tư số 55/2023/TT-BTC ngày 15 tháng 8 năm 2023 của Bộ Tài chính quy định quản lý, sử dụng và quyết toán kinh phí sự nghiệp từ nguồn ngân sách nhà nước thực hiện các chương trình mục tiêu quốc gia giai đoạn 2021-2025;
+
+d) Chi xây dựng chương trình, chuyên mục; in ấn các ấn phẩm, tài liệu; sản xuất, phát hành các băng rôn, khẩu hiệu, băng, đĩa để phục vụ công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở; thực hiện truyền thông trên báo, tạp chí, đài truyền hình, tập san, bản tin, thông tin lưu động, triển lãm chuyên đề, làm bảng thông tin và hộp tin: Nội dung và mức chi thực hiện theo định mức, đơn giá của các ngành có công việc tương tự và theo chứng từ chi thực tế hợp pháp được cấp có thẩm quyền phê duyệt trong dự toán ngân sách hàng năm;
+
+đ) Chi biên dịch các tài liệu phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở (bao gồm cả tiếng dân tộc thiểu số được hiểu là ngôn ngữ không phổ thông): Nội dung và mức chi thực hiện theo quy định tại Thông tư số 71/2018/TT-BTC ngày 10 tháng 8 năm 2018 của Bộ Tài chính quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức các hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước.
+
+6. Chi biên soạn một số tài liệu phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở đặc thù:
+
+a) Tờ gấp pháp luật (bao gồm biên soạn, biên tập, thẩm định): 1.500.000 đồng/tờ gấp đã hoàn thành;
+
+b) Tình huống giải đáp pháp luật (bao gồm biên soạn, biên tập, thẩm định): 450.000 đồng/tình huống đã hoàn thành;
+
+c) Câu chuyện pháp luật (bao gồm biên soạn, biên tập, thẩm định): 2.250.000 đồng/câu chuyện đã hoàn thành;
+
+d) Tiểu phẩm pháp luật (bao gồm biên soạn, biên tập, thẩm định, lấy ý kiến chuyên gia): 7.500.000 đồng/tiểu phẩm đã hoàn thành.
+
+7. Chi khen thưởng cá nhân, tập thể có thành tích xuất sắc về phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở thực hiện theo quy định hiện hành về thi đua, khen thưởng.
+
+8. Chi thực hiện các cuộc điều tra, khảo sát về công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở: Thực hiện theo quy định tại Thông tư số 109/2016/TT-BTC ngày 30 tháng 6 năm 2016 của Bộ Tài chính quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện các cuộc điều tra thống kê, Tổng điều tra thống kê quốc gia và Thông tư số 37/2022/TT-BTC ngày 22 tháng 6 năm 2022 sửa đổi, bổ sung khoản 9 Điều 3 và Mẫu số 01 kèm theo Thông tư số 109/2016/TT-BTC ngày 30 tháng 6 năm 2016 của Bộ Tài chính quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện các cuộc điều tra thống kê, Tổng điều tra thống kê quốc gia.
+
+9. Chi tiền lương làm việc vào ban đêm, làm thêm giờ, thực hiện theo quy định của Bộ luật Lao động và các văn bản hướng dẫn thi hành luật.
+
+10. Chi xây dựng chương trình, đề án, kế hoạch phổ biến giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở và truyền thông chính sách có tác động lớn đến xã hội trong quá trình xây dựng văn bản quy phạm pháp luật; các văn bản quản lý, chỉ đạo, hướng dẫn chương trình, đề án, kế hoạch của Hội đồng phối hợp phổ biến, giáo dục pháp luật, Hội đồng đánh giá chuẩn tiếp cận pháp luật, Ban chỉ đạo các chương trình, đề án, kế hoạch, gồm:
+
+a) Xây dựng đề cương:
+
+- Xây dựng đề cương chi tiết: 1.200.000 đồng/đề cương;
+
+- Tổng hợp hoàn chỉnh đề cương tổng quát: 2.000.000 đồng/đề cương hoàn chỉnh;
+
+b) Soạn thảo chương trình, đề án, kế hoạch:
+
+- Soạn thảo Chương trình, đề án, kế hoạch: 3.000.000 đồng/chương trình, đề án, kế hoạch;
+
+- Soạn thảo báo cáo tiếp thu, tổng hợp ý kiến: 500.000 đồng/báo cáo;
+
+c) Tổ chức họp, tọa đàm góp ý:
+
+- Chủ trì: 200.000 đồng/người/buổi;
+
+- Thành viên dự: 100.000 đồng/người/buổi;
+
+d) Ý kiến tư vấn của chuyên gia: 500.000 đồng/văn bản;
+
+đ) Xét duyệt chương trình, đề án, kế hoạch:
+
+- Chủ tịch Hội đồng: 200.000 đồng/người/buổi;
+
+- Thành viên Hội đồng, thư ký: 150.000 đồng/người/buổi;
+
+- Đại biểu được mời tham dự: 100.000 đồng/người/buổi;
+
+- Nhận xét, phản biện của Hội đồng: 300.000 đồng/bài viết;
+
+- Bài nhận xét của ủy viên Hội đồng: 200.000 đồng/bài viết;
+
+e) Ý kiến thẩm định chương trình, đề án, kế hoạch: 500.000 đồng/bài viết (đối với trường hợp không thành lập Hội đồng xét duyệt);
+
+g) Xây dựng các văn bản quản lý, chỉ đạo, hướng dẫn chương trình, đề án, kế hoạch: 500.000 đồng/văn bản.
+
+11. Chi thù lao
+
+a) Thù lao báo cáo viên pháp luật, tuyên truyền viên pháp luật, hoà giải viên cơ sở, người được mời tham gia thực hiện phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở; hướng dẫn sinh hoạt chuyên đề Câu lạc bộ pháp luật, nhóm nòng cốt với tư cách là giảng viên: Thực hiện theo chế độ thù lao giảng viên quy định tại Thông tư số 36/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ Tài chính và Thông tư số 06/2023/TT-BTC ngày 31 tháng 01 năm 2023 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 36/2018/TT-BTC ngày 30 tháng 3 năm 2018. Trường hợp thực hiện phổ biến giáo dục pháp luật cho các đối tượng đặc thù theo quy định tại các Điều 17, 18, 19, 20, 21, 22 của Luật Phổ biến, giáo dục pháp luật được hưởng thêm 20% mức thù lao được nhận;
+
+b) Thù lao huy động chuyên gia, nhà khoa học, nhà hoạt động thực tiễn tham gia triển khai các nhiệm vụ của Hội đồng phối hợp phổ biến, giáo dục pháp luật: Áp dụng theo quy định tại Thông tư số 02/2015/TT-BLĐTBXH ngày 12 tháng 01 năm 2015 của Bộ Lao động - Thương binh và Xã hội quy định mức lương đối với chuyên gia tư vấn trong nước làm cơ sở dự toán gói thầu cung cấp dịch vụ tư vấn áp dụng hình thức hợp đồng theo thời gian sử dụng vốn nhà nước. Danh sách chuyên gia, nhà khoa học, nhà hoạt động thực tiễn được chi trả thù lao huy động do người có thẩm quyền quy định tại Điều 3 Quyết định số 21/2021/QĐ-TTg ngày 21 tháng 6 năm 2021 của Thủ tướng Chính phủ quy định về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật quyết định.
+
+12. Chi xây dựng và duy trì sinh hoạt Câu lạc bộ pháp luật, nhóm nòng cốt:
+
+a) Chi hỗ trợ tiền ăn, nước uống cho thành viên tham gia hội nghị ra mắt Câu lạc bộ pháp luật: 50.000 đồng/người/ngày (không quá 1 ngày);
+
+b) Chi tiền nước uống cho người dự sinh hoạt Câu lạc bộ pháp luật, nhóm nòng cốt: 20.000 đồng/người/buổi.
+
+13. Chi tổ chức cuộc thi, hội thi:
+
+a) Chi tổ chức cuộc thi, hội thi viết, thi sân khấu, trên internet về tìm hiểu pháp luật, nghiệp vụ phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở, bao gồm:
+
+- Chi hỗ trợ tiền ăn, ở cho thành viên ban tổ chức, các ban, tiểu ban, hội đồng trong những ngày tham gia trực tiếp tổ chức cuộc thi theo quyết định của cấp có thẩm quyền: Chi hỗ trợ tiền ăn, ở cho thí sinh tham gia cuộc thi (kể cả ngày tập luyện và thi, tối đa không quá 10 ngày): Nội dung và mức chi thực hiện theo quy định tại Thông tư số 40/2017/TT-BTC ngày 28 tháng 4 năm 2017 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị. Cán bộ, công chức, viên chức đã được hưởng khoản hỗ trợ tiền ăn, ở thì không được thanh toán công tác phí ở cơ quan;
+
+- Chi tổ chức cuộc thi, hội thi sân khấu, thi trên mạng internet, thi trên sóng phát thanh - truyền hình có thêm chi thuê dẫn chương trình, thuê diễn văn nghệ lồng ghép tiểu phẩm pháp luật; chi phí hậu kỳ, hội trường, trang thiết bị và các khoản chi khác phục vụ cuộc thi: Nội dung và mức chi thực hiện theo quy định tại điểm c khoản này và theo chứng từ chi thực tế hợp pháp được cấp có thẩm quyền phê duyệt trong dự toán ngân sách hàng năm;
+
+b) Chi biên soạn đề thi, xây dựng ngân hàng câu hỏi thi, bồi dưỡng thành viên ban tổ chức, các ban, tiểu ban, hội đồng và một số nội dung chi khác để phục vụ tổ chức cuộc thi: Nội dung và mức chi thực hiện theo Thông tư số 69/2021/TT-BTC ngày 11 tháng 8 năm 2021 của Bộ Tài chính về hướng dẫn quản lý kinh phí chuẩn bị, tổ chức và tham dự các kỳ thi áp dụng đối với giáo dục phổ thông;
+
+c) Chi tổ chức cuộc thi sân khấu, thi trên internet, có thêm mức chi đặc thù sau:
+
+- Thuê dẫn chương trình: Tùy theo quy mô, cấp tổ chức, cơ quan, đơn vị được giao chủ trì tổ chức cuộc thi quyết định mức thuê dẫn chương trình;
+
+- Thuê hội trường và thiết bị phục vụ cuộc thi sân khấu: Tùy theo quy mô, cấp tổ chức, địa bàn tổ chức cuộc thi, cơ quan, đơn vị được giao chủ trì tổ chức cuộc thi quyết định mức thuê hội trường và thiết bị;
+
+- Thuê văn nghệ, diễn viên: 450.000 đồng/người/ngày;
+
+- Thu thập thông tin, tư liệu, lập hệ cơ sở dữ liệu tin học hoá (đối với cuộc thi qua mạng điện tử): Thực hiện theo quy định tại Nghị định số 73/2019/NĐ-CP ngày 05 tháng 9 năm 2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước và quy định của pháp luật có liên quan; Thông tư số 18/2021/TT-BTTTT ngày 30 tháng 11 năm 2021 của Bộ Thông tin và Truyền thông ban hành định mức kinh tế - kỹ thuật hoạt động báo in, báo điện tử; Thông tư số 42/2020/TT-BTTTT ngày 31 tháng 12 năm 2020 của Bộ Thông tin và Truyền thông ban hành định mức kinh tế - kỹ thuật hoạt động xuất bản, các định mức kinh tế - kỹ thuật, đơn giá được cơ quan có thẩm quyền ban hành và các chế độ, định mức chi tiêu quy định hiện hành của cơ quan Nhà nước;
+
+d) Chi giải thưởng: Tùy theo quy mô và địa bàn tổ chức cuộc thi để quyết định mức chi giải thưởng cụ thể nhưng không vượt định mức chi tối đa quy định tại điểm này, như sau:
+
+- Giải nhất:
+
++ Tập thể: 15.000.000 đồng;
+
++ Cá nhân: 9.000.000 đồng;
+
+- Giải nhì:
+
++ Tập thể: 10.500.000 đồng;
+
++ Cá nhân: 4.500.000 đồng;
+
+- Giải ba:
+
++ Tập thể: 7.500.000 đồng;
+
++ Cá nhân: 3.000.000 đồng;
+
+- Giải khuyến khích:
+
++ Tập thể: 4.500.000 đồng;
+
++ Cá nhân: 1.500.000 đồng;
+
+- Giải phụ khác: 750.000 đồng.
+
+14. Chi thực hiện báo cáo thống kê về hoạt động phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở:
+
+a) Thu thập thông tin, xử lý số liệu báo cáo của các bộ, ngành, địa phương: 75.000 đồng/báo cáo;
+
+b) Báo cáo của các bộ, ngành, địa phương: Mức tối đa 4.500.000 đồng/báo cáo;
+
+c) Báo cáo tổng hợp trình, báo cáo Chính phủ, Thủ tướng Chính phủ: Mức tối đa 7.500.000 đồng/báo cáo.
+
+15. Chi kiểm tra, giám sát, đánh giá theo định kỳ hoặc đột xuất về công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở: Thực hiện theo quy định tại Thông tư số 06/2017/TT-BTC ngày 26 tháng 01 năm 2007 của Bộ Tài chính hướng dẫn lập dự toán, quản lý và sử dụng kinh phí bảo đảm cho công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch và Thông tư số 40/2017/TT-BTC ngày 28 tháng 4 năm 2017 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị.
+
+Đối với đoàn công tác kiểm tra, giám sát, đánh giá liên ngành, liên cơ quan: Cơ quan, đơn vị chủ trì đoàn công tác chịu trách nhiệm bảo đảm chi phí cho chuyến công tác theo chế độ quy định. Để tránh chi trùng lặp, cơ quan, đơn vị chủ trì đoàn công tác thông báo bằng văn bản (trong giấy mời, triệu tập) cho cơ quan, đơn vị cử người đi công tác không phải thanh toán các khoản chi này.
+
+16. Các khoản chi khác có liên quan trực tiếp đến công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở (nếu có), theo chứng từ chi thực tế hợp pháp được cấp có thẩm quyền phê duyệt trong dự toán ngân sách hàng năm.
+
+17. Các khoản chi công tác hòa giải ở cơ sở:
+
+a) Chi thù lao cho hòa giải viên (đối với các hòa giải viên trực tiếp tham gia vụ, việc hòa giải): 300.000 đồng/vụ, việc. Trường hợp vụ, việc hòa giải thành theo Điều 24 Luật Hòa giải ở cơ sở: 400.000 đồng/vụ, việc;
+
+b) Hỗ trợ chi phí y tế cho việc cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút đối với hòa giải viên bị tai nạn trong khi thực hiện hoạt động hòa giải ở cơ sở (bao gồm cả trường hợp hòa giải viên bị tai nạn được cứu chữa, bồi dưỡng, chăm sóc trước khi chết) được thực hiện như sau:
+
+- Đối với người bị tai nạn có tham gia bảo hiểm y tế thì việc thanh toán chi phí y tế cho cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút đối với người bị tai nạn được thực hiện theo quy định của pháp luật về bảo hiểm y tế;
+
+- Đối với người bị tai nạn không tham gia bảo hiểm y tế ngân sách nhà nước hỗ trợ chi phí y tế cho việc cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút bằng mức hưởng chi phí khám bệnh, chữa bệnh của đối tượng tham gia bảo hiểm y tế được quỹ bảo hiểm y tế thanh toán theo quy định tại điểm đ khoản 1 Điều 22 của Luật Bảo hiểm y tế (được sửa đổi, bổ sung năm 2014);
+
+c) Hỗ trợ thu nhập thực tế bị mất hoặc bị giảm sút đối với hòa giải viên bị tai nạn trong thời gian cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút được thực hiện theo quy định tại Thông tư liên tịch số 02/2013/TTLT-BNV-BLĐTBXH-BTC-BYT ngày 09 tháng 7 năm 2013 của Bộ Nội vụ, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính, Bộ Y tế hướng dẫn quy trình, thủ tục, hồ sơ, mức hỗ trợ người đang trực tiếp tham gia hoạt động chữ thập đỏ bị tai nạn dẫn đến thiệt hại về sức khỏe;
+
+d) Hỗ trợ chi phí mai táng cho người tổ chức mai táng hòa giải viên gặp tai nạn hoặc rủi ro bị thiệt hại về tính mạng trong khi thực hiện hoạt động hòa giải ở cơ sở: 05 tháng lương cơ sở;
+
+đ) Chi hỗ trợ hoạt động của tổ hòa giải (chi mua văn phòng phẩm, sao chụp tài liệu, nước uống phục vụ các cuộc họp của tổ hòa giải): 150.000 đồng/tổ hòa giải/tháng.
+
+18. Chi kiểm tra, xử lý, rà soát hệ thống hóa văn bản quy phạm pháp luật trong lĩnh vực phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở được thực hiện theo Thông tư số 09/2023/TT-BTC ngày 08 tháng 02 năm 2023 của Bộ Tài chính quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác kiểm tra, xử lý, rà soát, hệ thống hóa văn bản quy phạm pháp luật.
 
 Điều 44.8.TT.9.4. Lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 56/2023/TT-BTC, có hiệu lực thi hành kể từ ngày 06/10/2023)
 
-**Mã phân cấp:** 4400800000000000487500802847400560000400
+Việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí chi thường xuyên từ ngân sách nhà nước cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở thực hiện theo quy định Luật Ngân sách nhà nước, bảo đảm tiết kiệm, hiệu quả.
 
-**ID:** dk_00071945
+Điều 44.8.TT.9.5. Tổ chức thực hiện
 
----
+(Điều 5 Thông tư số 56/2023/TT-BTC, có hiệu lực thi hành kể từ ngày 06/10/2023)
 
+1. Mức chi thực hiện công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở quy định tại Thông tư này là mức chi tối đa. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, các cơ quan khác ở trung ương quy định các mức chi cụ thể đối với các cơ quan, đơn vị trực thuộc để thực hiện cho phù hợp trong phạm vi dự toán ngân sách được giao và các nguồn kinh phí hợp pháp khác; Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương quy định các mức chi cụ thể để thực hiện cho phù hợp với tình hình thực tiễn và khả năng cân đối của ngân sách địa phương. Trường hợp các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các cơ quan khác ở trung ương, địa phương chưa ban hành văn bản quy định cụ thể mức chi thì các cơ quan, đơn vị được áp dụng quy định về mức chi tại Thông tư này để thực hiện.
 
-### Điều 44.8.TT.9.5. Tổ chức thực hiện
+2. Căn cứ yêu cầu nhiệm vụ, tình hình thực tế ở địa phương và khả năng cân đối của ngân sách địa phương, Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương quyết định nội dung, mức chi khác thực hiện công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở của địa phương, bảo đảm phù hợp với quy định của Luật Ngân sách nhà nước và các quy định hiện hành.
 
-*Nội dung chưa có sẵn*
+3. Việc triển khai nhiệm vụ truyền thông chính sách theo quy định tại Điều 2 Quyết định số 21/2021/QĐ-TTg ngày 21 tháng 6 năm 2021 của Thủ tướng Chính phủ quy định về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật và việc triển khai các nhiệm vụ tại Quyết định số 407/QĐ-TTg ngày 30 tháng 3 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án “Tổ chức truyền thông chính sách có tác động lớn đến xã hội trong quá trình xây dựng văn bản quy phạm pháp luật giai đoạn 2022 - 2027” áp dụng nội dung chi, mức chi cụ thể tương ứng tại Thông tư này.
 
-**Chỉ mục:** 5
+Điều 44.8.TT.9.6. Điều khoản chuyển tiếp
 
-**Mã phân cấp:** 4400800000000000487500802847400560000500
+(Điều 6 Thông tư số 56/2023/TT-BTC, có hiệu lực thi hành kể từ ngày 06/10/2023)
 
-**ID:** dk_00071946
+Đối với kinh phí phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở năm 2023, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các cơ quan khác ở trung ương, các địa phương bố trí, sắp xếp trong phạm vi dự toán chi ngân sách nhà nước năm 2023 đã được cấp có thẩm quyền giao để thực hiện.
 
----
+Điều 44.8.TT.9.7. Điều khoản thi hành
 
+(Điều 7 Thông tư số 56/2023/TT-BTC, có hiệu lực thi hành kể từ ngày 06/10/2023)
 
-### Điều 44.8.TT.9.6. Điều khoản chuyển tiếp
+1. Thông tư này có hiệu lực kể từ ngày 06 tháng 10 năm 2023.
 
-*Nội dung chưa có sẵn*
+2. Thông tư liên tịch số 14/2014/TTLT-BTC-BTP ngày 27 ngày 01 năm 2014 của Bộ Tài chính và Bộ Tư pháp quy định việc lập, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật và chuẩn tiếp cận pháp luật của người dân tại cơ sở và Thông tư liên tịch số 100/2014/TTLT-BTC-BTP ngày 30 tháng 7 năm 2014 của Bộ Tài chính và Bộ Tư pháp quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước thực hiện công tác hòa giải ở cơ sở hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
-**Chỉ mục:** 6
+3. Các khoản chi ngoài lương của cán bộ, công chức, viên chức có nguồn gốc từ ngân sách nhà nước quy định tại Thông tư này được áp dụng cho đến khi thực hiện cải cách tiền lương theo Nghị quyết số 27-NQ/TW ngày 21 tháng 5 năm 2018 của Hội nghị lần thứ bảy Ban Chấp hành Trung ương khóa XII về cải cách chính sách tiền lương đối với cán bộ, công chức, viên chức, lực lượng vũ trang và người lao động trong doanh nghiệp.
 
-**Mã phân cấp:** 4400800000000000487500802847400560000600
+4. Trong quá trình thực hiện, nếu các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung, thay thế bằng văn bản quy phạm pháp luật mới thì áp dụng theo các văn bản mới đó.
 
-**ID:** dk_00071947
+5. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc đề nghị các cơ quan, đơn vị phản ánh về Bộ Tài chính để nghiên cứu, sửa đổi, bổ sung cho phù hợp.
 
----
+Điều 44.8.TT.6.15. Kinh phí thực hiện
 
+(Điều 15 Thông tư số 03/2018/TT-BTP, có hiệu lực thi hành kể từ ngày 01/07/2018)
 
-### Điều 44.8.TT.9.7. Điều khoản thi hành
+1. Kinh phí thực hiện Thông tư này được bố trí trong dự toán chi ngân sách thường xuyên hàng năm của bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh theo phân cấp ngân sách nhà nước hiện hành.
 
-*Nội dung chưa có sẵn*
+2. Khuyến khích tổ chức, doanh nghiệp, cá nhân hỗ trợ kinh phí thực hiện khảo sát, đánh giá hiệu quả công tác phổ biến, giáo dục pháp luật đối với nhóm tiêu chí quy định tại Điều 8 và quy định tại Thông tư này.
 
-**Chỉ mục:** 7
+Chương VIII
 
-**Mã phân cấp:** 4400800000000000487500802847400560000700
+ĐIỀU KHOẢN THI HÀNH
 
-**ID:** dk_00071948
+Điều 44.8.LQ.40. Hiệu lực thi hành
 
----
+(Điều 40 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-
-### Điều 44.8.TT.6.15. Kinh phí thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 4400800000000000487500880264870003000150
-
-**ID:** dk_00071949
-
----
-
-
-### Điều 44.8.LQ.40. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 40
-
-**Mã phân cấp:** 4400800000000000500004000000000000000000
-
-**ID:** dk_00071951
-
----
-
-
-### Điều 44.8.LQ.41. Quy định chi tiết và hướng dẫn thi hành
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013.
 
 Điều 44.8.LQ.41. Quy định chi tiết và hướng dẫn thi hành
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 14/2012/QH13, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 4400800000000000500004100000000000000000
+Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
-**ID:** dk_00071952
+Điều 44.8.NĐ.1.12. Hiệu lực thi hành
 
----
+(Điều 12 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
+Nghị định này có hiệu lực thi hành kể từ ngày 27 tháng 5 năm 2013.
 
-### Điều 44.8.NĐ.1.12. Hiệu lực thi hành
+Điều 44.8.NĐ.1.13. Trách nhiệm thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 13 Nghị định số 28/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 27/05/2013)
 
-**Chỉ mục:** 12
+1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương theo chức năng, nhiệm vụ, quyền hạn được giao tổ chức thực hiện các quy định của Nghị định này.
 
-**Mã phân cấp:** 4400800000000000500004140246860028000120
+2. Bộ Tư pháp hướng dẫn thi hành Nghị định này.
 
-**ID:** dk_00071953
+Điều 44.8.QĐ.3.15. Quy định chuyển tiếp
 
----
+(Điều 15 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
+1. Tủ sách pháp luật tại xã đặc biệt khó khăn, cơ quan, đơn vị của lực lượng vũ trang nhân dân đã được xây dựng theo Quyết định số [06/2010/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-06-2010-qd-ttg-xay-dung-quan-ly-khai-thac-tu-sach-phap-luat-100791.aspx) ngày 25 tháng 01 năm 2010 của Thủ tướng Chính phủ về việc xây dựng, quản lý, khai thác Tủ sách pháp luật tiếp tục được duy trì, củng cố theo quy định của Quyết định này.
 
-### Điều 44.8.NĐ.1.13. Trách nhiệm thi hành
+2. Kể từ ngày Quyết định này có hiệu lực thi hành, giao Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc duy trì Tủ sách pháp luật tại xã, phường, thị trấn (sau đây gọi chung là cấp xã), Tủ sách pháp luật ở cơ quan hành chính nhà nước, tổ chức kinh tế, đơn vị sự nghiệp, nhà trường và cơ sở giáo dục khác của hệ thống giáo dục quốc dân, của cơ quan nhà nước, tổ chức chính trị - xã hội (sau đây gọi chung là cơ quan, đơn vị) đã được xây dựng theo Quyết định số [06/2010/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-06-2010-qd-ttg-xay-dung-quan-ly-khai-thac-tu-sach-phap-luat-100791.aspx) ngày 25 tháng 01 năm 2010 của Thủ tướng Chính phủ về việc xây dựng, quản lý, khai thác Tủ sách pháp luật mà không thuộc đối tượng áp dụng tại khoản 1 Điều 1 của Quyết định này theo quy định sau đây:
 
-*Nội dung chưa có sẵn*
+a) Tổ chức rà soát, đánh giá hiệu quả, xác định nhu cầu khai thác, sử dụng Tủ sách pháp luật cấp xã, Tủ sách pháp luật ở cơ quan, đơn vị thuộc phạm vi quản lý và hoàn thành trước ngày 31 tháng 12 năm 2019 để xem xét, quyết định hướng xử lý theo quy định tại điểm b, điểm c và điểm d khoản này;
 
-**Chỉ mục:** 13
+b) Nếu tiếp tục duy trì Tủ sách pháp luật cấp xã, Tủ sách pháp luật ở cơ quan, đơn vị thì chỉ đạo, hướng dẫn, bố trí kinh phí ngân sách nhà nước cho hoạt động của Tủ sách pháp luật đến hết năm 2020. Từ năm 2021, thực hiện xã hội hóa việc quản lý, khai thác Tủ sách pháp luật theo hướng tự quản cộng đồng;
 
-**Mã phân cấp:** 4400800000000000500004140246860028000130
+c) Nếu không tiếp tục duy trì Tủ sách pháp luật cấp xã thì chỉ đạo, hướng dẫn sáp nhập Tủ sách pháp luật thành bộ phận sách, tài liệu pháp luật của Thư viện hoặc điểm Bưu điện - Văn hóa, Trung tâm học tập cộng đồng hiện có đang hoạt động hiệu quả trên địa bàn cấp xã và bố trí kinh phí ngân sách nhà nước cho hoạt động của Tủ sách pháp luật đến hết năm 2020. Từ năm 2021, kinh phí xây dựng, quản lý, khai thác sách, tài liệu pháp luật được bố trí trong kinh phí hoạt động của thiết chế văn hóa - thông tin mà Tủ sách pháp luật được sáp nhập. Việc sáp nhập Tủ sách pháp luật hoàn thành trước ngày 31 tháng 12 năm 2020;
 
-**ID:** dk_00071954
+d) Nếu không tiếp tục duy trì Tủ sách pháp luật ở cơ quan, đơn vị thì chỉ đạo tổ chức lưu giữ, quản lý các sách, tài liệu pháp luật hiện có phù hợp với điều kiện của cơ quan, đơn vị theo quy định về quản lý tài sản công và hoàn thành trước ngày 31 tháng 12 năm 2020; bố trí kinh phí ngân sách nhà nước cho hoạt động của Tủ sách pháp luật đến hết năm 2020; chỉ đạo lựa chọn sách, tài liệu phù hợp, có giá trị để số hóa, cập nhật trên dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia theo phạm vi thẩm quyền quản lý.
 
----
+Điều 44.8.QĐ.3.16. Điều khoản thi hành
 
+(Điều 16 Quyết định số 14/2019/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/05/2019)
 
-### Điều 44.8.QĐ.3.15. Quy định chuyển tiếp
+1. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2019.
 
-*Nội dung chưa có sẵn*
+2. Quyết định số [06/2010/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-06-2010-qd-ttg-xay-dung-quan-ly-khai-thac-tu-sach-phap-luat-100791.aspx) ngày 25 tháng 01 năm 2010 của Thủ tướng Chính phủ về việc xây dựng, quản lý, khai thác Tủ sách pháp luật hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 4400800000000000500004150268550014000150
-
-**ID:** dk_00071955
-
----
-
-
-### Điều 44.8.QĐ.3.16. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 4400800000000000500004150268550014000160
-
-**ID:** dk_00071956
-
----
-
-
-### Điều 44.8.QĐ.4.9. Hiệu lực thi hành và điều khoản chuyển tiếp
+3. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác ở trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh và các cơ quan, tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này.
 
 Điều 44.8.QĐ.4.9. Hiệu lực thi hành và điều khoản chuyển tiếp
 
-**Chỉ mục:** 9
+(Điều 9 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-**Mã phân cấp:** 4400800000000000500004150276860021000090
+1. Quyết định này có hiệu lực từ ngày 08 tháng 8 năm 2021 và thay thế Quyết định số 27/2013/QĐ-TTg ngày 19 tháng 5 năm 2013 của Thủ tướng Chính phủ quy định về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật (sau đây gọi là Quyết định số 27/2013/QĐ-TTg) và Quyết định số 42/2017/QĐ-TTg ngày 20 tháng 9 năm 2017 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của Quyết định số 27/2013/QĐ-TTg (sau đây gọi là Quyết định số 42/2017/QĐ-TTg).
 
-**ID:** dk_00071957
+Chậm nhất ba tháng kể từ ngày Quyết định này có hiệu lực thi hành, Hội đồng phối hợp phổ biến, giáo dục pháp luật các cấp đã được thành lập theo Quyết định số 27/2013/QĐ-TTg và Quyết định số 42/2017/QĐ-TTg phải được kiện toàn theo Quyết định này.
 
----
+2. Căn cứ vào yêu cầu chỉ đạo, phối hợp thực hiện công tác phổ biến, giáo dục pháp luật thuộc ngành, lĩnh vực quản lý, Bộ trưởng, Thủ trưởng cơ quan ngang bộ quyết định và chịu trách nhiệm về việc thành lập hoặc tiếp tục duy trì hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật của bộ, cơ quan mình.
 
+Điều 44.8.QĐ.4.10. Trách nhiệm thi hành
 
-### Điều 44.8.QĐ.4.10. Trách nhiệm thi hành
+(Điều 10 Quyết định số 21/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 08/08/2021)
 
-*Nội dung chưa có sẵn*
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và người đứng đầu các cơ quan, tổ chức liên quan chịu trách nhiệm thi hành Quyết định này.
 
-**Chỉ mục:** 10
+Điều 44.8.QĐ.5.8. Hiệu lực thi hành
 
-**Mã phân cấp:** 4400800000000000500004150276860021000100
+(Điều 8 Quyết định số 25/2021/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**ID:** dk_00071958
+1. Quyết định này có hiệu lực từ ngày 01 tháng 01 năm 2022.
 
----
+2. Quyết định số 619/QĐ-TTg ngày 08 tháng 5 năm 2017 của Thủ tướng Chính phủ ban hành Quy định về xây dựng xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.
 
+3. Việc tổ chức đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật năm 2021 tiếp tục thực hiện theo Quyết định số 619/QĐ-TTg ngày 08 tháng 5 năm 2017 của Thủ tướng Chính phủ.
 
-### Điều 44.8.QĐ.5.8. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 4400800000000000500004150277170025000080
-
-**ID:** dk_00071959
-
----
-
-
-### Điều 44.8.TT.4.10. Hiệu lực thi hành và quy định chuyển tiếp
+4. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
 Điều 44.8.TT.4.10. Hiệu lực thi hành và quy định chuyển tiếp
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-**Mã phân cấp:** 4400800000000000500004180258910010000100
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2016 và thay thế Thông tư số 21/2013/TT-BTP ngày 18 tháng 12 năm 2013 của Bộ trưởng Bộ Tư pháp quy định trình tự, thủ tục công nhận, miễn nhiệm báo cáo viên pháp luật; công nhận, cho thôi làm tuyên truyền viên pháp luật và một số biện pháp bảo đảm hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật.
 
-**ID:** dk_00071960
+2. Báo cáo viên pháp luật đã được công nhận theo quy định của Thông tư số 21/2013/TT-BTP ngày 18 tháng 12 năm 2013 của Bộ trưởng Bộ Tư pháp quy định trình tự, thủ tục công nhận, miễn nhiệm báo cáo viên pháp luật; công nhận, cho thôi làm tuyên truyền viên pháp luật và một số biện pháp bảo đảm hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật còn đủ điều kiện, tiêu chuẩn theo quy định tại khoản 1, khoản 2 Điều 35 của Luật phổ biến, giáo dục pháp luật tiếp tục là báo cáo viên pháp luật, không phải công nhận lại.
 
----
+Điều 44.8.TT.4.11. Trách nhiệm thi hành
 
+(Điều 11 Thông tư số 10/2016/TT-BTP, có hiệu lực thi hành kể từ ngày 10/09/2016)
 
-### Điều 44.8.TT.4.11. Trách nhiệm thi hành
+Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, Chủ tịch Ủy ban nhân dân các cấp; thủ trưởng các đơn vị thuộc Bộ Tư pháp; lãnh đạo tổ chức pháp chế, các đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận; Giám đốc Sở Tư pháp các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm thi hành Thông tư này.
 
-*Nội dung chưa có sẵn*
+Điều 44.8.TT.6.16. Hiệu lực thi hành
 
-**Chỉ mục:** 11
+(Điều 16 Thông tư số 03/2018/TT-BTP, có hiệu lực thi hành kể từ ngày 01/07/2018)
 
-**Mã phân cấp:** 4400800000000000500004180258910010000110
+Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2018.
 
-**ID:** dk_00071961
+Điều 44.8.TT.6.17. Trách nhiệm thi hành
 
----
+(Điều 17 Thông tư số 03/2018/TT-BTP, có hiệu lực thi hành kể từ ngày 01/07/2018)
 
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, Thủ trưởng các đơn vị thuộc Bộ Tư pháp, tổ chức pháp chế, các đơn vị được giao phụ trách công tác pháp chế, phổ biến, giáo dục pháp luật của bộ, cơ quan ngang bộ, Giám đốc Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Thông tư này.
 
-### Điều 44.8.TT.6.16. Hiệu lực thi hành
+Điều 44.8.TT.7.6. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 6 Thông tư số 07/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Chỉ mục:** 16
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.
 
-**Mã phân cấp:** 4400800000000000500004180264870003000160
+2. Thông tư này thay thế Thông tư số 12/2013/TT-BTP ngày 07 tháng 08 năm 2013 của Bộ trưởng Bộ Tư pháp quy định quy trình ra Thông cáo báo chí về văn bản quy phạm pháp luật do Chính phủ, Thủ tướng Chính phủ ban hành.
 
-**ID:** dk_00071962
+Điều 44.8.TT.8.7. Quy định chuyển tiếp
 
----
+(Điều 7 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
+Việc tổ chức đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật năm 2021 tiếp tục thực hiện theo quy định của Thông tư số [07/2017/TT-BTP](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/thong-tu-07-2017-tt-btp-tinh-diem-chi-tieu-tiep-can-phap-luat-hoi-dong-danh-gia-tiep-can-phap-luat-357326.aspx) ngày 28 tháng 7 năm 2017 của Bộ trưởng Bộ Tư pháp quy định về điểm số, hướng dẫn cách tính điểm các chỉ tiêu tiếp cận pháp luật, Hội đồng đánh giá tiếp cận pháp luật và một số nội dung về xây dựng xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
-### Điều 44.8.TT.6.17. Trách nhiệm thi hành
+Điều 44.8.TT.8.8. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 8 Thông tư số 09/2021/TT-BTP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
-**Chỉ mục:** 17
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2022 và thay thế Thông tư số [07/2017/TT-BTP](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/thong-tu-07-2017-tt-btp-tinh-diem-chi-tieu-tiep-can-phap-luat-hoi-dong-danh-gia-tiep-can-phap-luat-357326.aspx) ngày 28 tháng 7 năm 2017 của Bộ trưởng Bộ Tư pháp quy định về điểm số, hướng dẫn cách tính điểm các chỉ tiêu tiếp cận pháp luật, Hội đồng đánh giá tiếp cận pháp luật và một số nội dung về xây dựng xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật.
 
-**Mã phân cấp:** 4400800000000000500004180264870003000170
+2. Chủ tịch Ủy ban nhân dân, Giám đốc Sở Tư pháp các tỉnh, thành phố trực thuộc trung ương, Thủ trưởng các đơn vị thuộc Bộ Tư pháp và cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**ID:** dk_00071963
+3. Trong quá trình thực hiện, các văn bản quy phạm pháp luật được dẫn chiếu áp dụng tại Thông tư này có sửa đổi, bổ sung, thay thế bằng văn bản quy phạm pháp luật mới thì áp dụng theo các văn bản mới đó; nếu có vấn đề phát sinh hoặc vướng mắc, đề nghị Ủy ban nhân dân cấp tỉnh, Sở Tư pháp, cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tư pháp để nghiên cứu, giải quyết.
 
----
+## Danh sách điều khoản
 
+### 44008000000000001000
 
-### Điều 44.8.TT.7.6. Điều khoản thi hành
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-*Nội dung chưa có sẵn*
+### 4400800000000000100000100000000000000000
 
-**Chỉ mục:** 6
+Điều 44.8.LQ.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 4400800000000000500004180278190007000060
+### 4400800000000000100000140246860028000010
 
-**ID:** dk_00071964
+Điều 44.8.NĐ.1.1. Phạm vi điều chỉnh
 
----
+### 4400800000000000100000150268550014000010
 
+Điều 44.8.QĐ.3.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-### Điều 44.8.TT.8.7. Quy định chuyển tiếp
+### 4400800000000000100000150277170025000010
 
-*Nội dung chưa có sẵn*
+Điều 44.8.QĐ.5.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 7
+### 4400800000000000100000180258910010000010
 
-**Mã phân cấp:** 4400800000000000500004180278330009000070
+Điều 44.8.TT.4.1. Phạm vi điều chỉnh
 
-**ID:** dk_00071965
+### 4400800000000000100000180264870003000010
 
----
+Điều 44.8.TT.6.1. Phạm vi điều chỉnh
 
+### 4400800000000000100000180264870003000020
 
-### Điều 44.8.TT.8.8. Hiệu lực thi hành
+Điều 44.8.TT.6.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 4400800000000000100000180278190007000010
 
-**Chỉ mục:** 8
+Điều 44.8.TT.7.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Mã phân cấp:** 4400800000000000500004180278330009000080
+### 4400800000000000100000180278330009000010
 
-**ID:** dk_00071966
+Điều 44.8.TT.8.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
----
+### 4400800000000000100000200000000000000000
 
+Điều 44.8.LQ.2. Quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 4400800000000000100000300000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 179
-- **Điều khoản thực tế:** 162
-- **Điều khoản có nội dung:** 107 (66.0%)
-- **ID đề mục:** 3403083366c049669dff1f02e805d94f
+Điều 44.8.LQ.3. Chính sách của Nhà nước về phổ biến, giáo dục pháp luật
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 4400800000000000100000400000000000000000
 
----
+Điều 44.8.LQ.4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 440080000000000010000040000000000000000000402468600280000800
+
+Điều 44.8.NĐ.1.8. Chính sách hỗ trợ tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật hoặc hỗ trợ kinh phí, cơ sở vật chất, phương tiện cho hoạt động phổ biến, giáo dục pháp luật
+
+### 440080000000000010000040000000000000000000402468600280000900
+
+Điều 44.8.NĐ.1.9. Xã hội hóa công tác phổ biến, giáo dục pháp luật đối với một số tổ chức hành nghề về pháp luật và tổ chức xã hội nghề nghiệp về pháp luật
+
+### 4400800000000000100000500000000000000000
+
+Điều 44.8.LQ.5. Các nguyên tắc phổ biến, giáo dục pháp luật
+
+### 4400800000000000100000600000000000000000
+
+Điều 44.8.LQ.6. Quản lý nhà nước về phổ biến, giáo dục pháp luật
+
+### 440080000000000010000060000000000000000000402468600280000200
+
+Điều 44.8.NĐ.1.2. Trách nhiệm của Bộ Tư pháp
+
+### 440080000000000010000060000000000000000000402468600280000300
+
+Điều 44.8.NĐ.1.3. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+
+### 440080000000000010000060000000000000000000402468600280000400
+
+Điều 44.8.NĐ.1.4. Trách nhiệm của Ủy ban nhân dân các cấp
+
+### 4400800000000000100000700000000000000000
+
+Điều 44.8.LQ.7. Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000100
+
+Điều 44.8.QĐ.4.1. Thành phần của Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000200
+
+Điều 44.8.QĐ.4.2. Nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000300
+
+Điều 44.8.QĐ.4.3. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000400
+
+Điều 44.8.QĐ.4.4. Nhiệm vụ, quyền hạn, trách nhiệm của Phó Chủ tịch Thường trực và Phó Chủ tịch Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000500
+
+Điều 44.8.QĐ.4.5. Nhiệm vụ, quyền hạn và trách nhiệm của Ủy viên Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000600
+
+Điều 44.8.QĐ.4.6. Cơ quan Thường trực Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký
+
+### 440080000000000010000070000000000000000000502768600210000700
+
+Điều 44.8.QĐ.4.7. Chế độ làm việc và thông tin, báo cáo của Hội đồng phối hợp phổ biến, giáo dục pháp luật
+
+### 440080000000000010000070000000000000000000502768600210000800
+
+Điều 44.8.QĐ.4.8. Kinh phí hoạt động của Hội đồng phối hợp phổ biến, giáo dục pháp luật và Tổ Thư ký
+
+### 4400800000000000100000800000000000000000
+
+Điều 44.8.LQ.8. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
+
+### 440080000000000010000080000000000000000000402468600280000500
+
+Điều 44.8.NĐ.1.5. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
+
+### 440080000000000010000080000000000000000000402468600280000600
+
+Điều 44.8.NĐ.1.6. Nội dung, hình thức tổ chức Ngày Pháp luật
+
+### 440080000000000010000080000000000000000000402468600280000700
+
+Điều 44.8.NĐ.1.7. Trách nhiệm hướng dẫn nội dung, hình thức tổ chức Ngày Pháp luật và trách nhiệm tổ chức Ngày Pháp luật
+
+### 4400800000000000100000900000000000000000
+
+Điều 44.8.LQ.9. Các hành vi bị cấm
+
+### 44008000000000002000
+
+Chương II NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
+
+### 4400800000000000200000010000000000000000
+
+Mục 1 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHUNG CHO CÔNG DÂN
+
+### 440080000000000020000001000000000000000001000000000000000000
+
+Điều 44.8.LQ.10. Nội dung phổ biến, giáo dục pháp luật
+
+### 440080000000000020000001000000000000000001100000000000000000
+
+Điều 44.8.LQ.11. Hình thức phổ biến, giáo dục pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000200
+
+Điều 44.8.QĐ.3.2. Giải thích từ ngữ
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000300
+
+Điều 44.8.QĐ.3.3. Nguyên tắc xây dựng, quản lý, khai thác Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000400
+
+Điều 44.8.QĐ.3.4. Kinh phí xây dựng, quản lý Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000500
+
+Điều 44.8.QĐ.3.5. Yêu cầu xây dựng, khai thác Tủ sách pháp luật điện tử quốc gia
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000600
+
+Điều 44.8.QĐ.3.6. Xây dựng Tủ sách pháp luật điện tử quốc gia
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000700
+
+Điều 44.8.QĐ.3.7. Cấp tài khoản, phân quyền quản lý dữ liệu thành phần của Tủ sách pháp luật điện tử quốc gia
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000800
+
+Điều 44.8.QĐ.3.8. Cập nhật, khai thác sách, tài liệu pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140000900
+
+Điều 44.8.QĐ.3.9. Yêu cầu xây dựng, quản lý, khai thác Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140001000
+
+Điều 44.8.QĐ.3.10. Xây dựng Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140001100
+
+Điều 44.8.QĐ.3.11. Quản lý Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140001200
+
+Điều 44.8.QĐ.3.12. Khai thác Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140001300
+
+Điều 44.8.QĐ.3.13. Người phụ trách Tủ sách pháp luật
+
+### 44008000000000002000000100000000000000000110000000000000000000502685500140001400
+
+Điều 44.8.QĐ.3.14. Trách nhiệm thực hiện
+
+### 440080000000000020000001000000000000000001200000000000000000
+
+Điều 44.8.LQ.12. Họp báo, thông cáo báo chí về văn bản quy phạm pháp luật
+
+### 44008000000000002000000100000000000000000120000000000000000000802781900070000200
+
+Điều 44.8.TT.7.2. Nguyên tắc thực hiện
+
+### 44008000000000002000000100000000000000000120000000000000000000802781900070000300
+
+Điều 44.8.TT.7.3. Cung cấp thông tin xây dựng Thông cáo báo chí
+
+### 44008000000000002000000100000000000000000120000000000000000000802781900070000400
+
+Điều 44.8.TT.7.4. Xây dựng, ban hành, đăng tải Thông cáo báo chí
+
+### 44008000000000002000000100000000000000000120000000000000000000802781900070000500
+
+Điều 44.8.TT.7.5. Đính chính Thông cáo báo chí
+
+### 440080000000000020000001000000000000000001300000000000000000
+
+Điều 44.8.LQ.13. Đăng tải thông tin pháp luật trên trang thông tin điện tử
+
+### 440080000000000020000001000000000000000001400000000000000000
+
+Điều 44.8.LQ.14. Phổ biến, giáo dục pháp luật trên các phương tiện thông tin đại chúng
+
+### 440080000000000020000001000000000000000001500000000000000000
+
+Điều 44.8.LQ.15. Tư vấn, hướng dẫn tìm hiểu pháp luật, cung cấp thông tin, tài liệu pháp luật
+
+### 440080000000000020000001000000000000000001600000000000000000
+
+Điều 44.8.LQ.16. Phổ biến, giáo dục pháp luật thông qua công tác xét xử, xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo
+
+### 4400800000000000200000020000000000000000
+
+Mục 2 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO MỘT SỐ ĐỐI TƯỢNG ĐẶC THÙ
+
+### 440080000000000020000002000000000000000001700000000000000000
+
+Điều 44.8.LQ.17. Phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân
+
+### 440080000000000020000002000000000000000001800000000000000000
+
+Điều 44.8.LQ.18. Phổ biến, giáo dục pháp luật cho người lao động trong các doanh nghiệp
+
+### 440080000000000020000002000000000000000001900000000000000000
+
+Điều 44.8.LQ.19. Phổ biến, giáo dục pháp luật cho nạn nhân bạo lực gia đình
+
+### 440080000000000020000002000000000000000002000000000000000000
+
+Điều 44.8.LQ.20. Phổ biến, giáo dục pháp luật cho người khuyết tật
+
+### 440080000000000020000002000000000000000002100000000000000000
+
+Điều 44.8.LQ.21. Phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc
+
+### 440080000000000020000002000000000000000002200000000000000000
+
+Điều 44.8.LQ.22. Phổ biến, giáo dục pháp luật cho người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo
+
+### 4400800000000000200000030000000000000000
+
+Mục 3 GIÁO DỤC PHÁP LUẬT TRONG CÁC CƠ SỞ GIÁO DỤC CỦA HỆ THỐNG GIÁO DỤC QUỐC DÂN
+
+### 440080000000000020000003000000000000000002300000000000000000
+
+Điều 44.8.LQ.23. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
+
+### 440080000000000020000003000000000000000002400000000000000000
+
+Điều 44.8.LQ.24. Hình thức giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
+
+### 44008000000000003000
+
+Chương III TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+
+### 4400800000000000300000010000000000000000
+
+Mục 1 TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC
+
+### 440080000000000030000001000000000000000002500000000000000000
+
+Điều 44.8.LQ.25. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+### 440080000000000030000001000000000000000002600000000000000000
+
+Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước
+
+### 440080000000000030000001000000000000000002700000000000000000
+
+Điều 44.8.LQ.27. Trách nhiệm của chính quyền các cấp ở địa phương
+
+### 440080000000000030000001000000000000000002800000000000000000
+
+Điều 44.8.LQ.28. Trách nhiệm của cơ quan, tổ chức, đơn vị trực tiếp quản lý cán bộ, công chức, viên chức
+
+### 440080000000000030000001000000000000000002900000000000000000
+
+Điều 44.8.LQ.29. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
+
+### 440080000000000030000001000000000000000003000000000000000000
+
+Điều 44.8.LQ.30. Trách nhiệm của tổ chức hành nghề về pháp luật, tổ chức xã hội nghề nghiệp về pháp luật, cơ sở đào tạo luật, cơ sở đào tạo, bồi dưỡng chức danh tư pháp
+
+### 440080000000000030000001000000000000000003100000000000000000
+
+Điều 44.8.LQ.31. Trách nhiệm của các cơ sở giáo dục của hệ thống giáo dục quốc dân
+
+### 440080000000000030000001000000000000000003200000000000000000
+
+Điều 44.8.LQ.32. Trách nhiệm của gia đình
+
+### 4400800000000000300000020000000000000000
+
+Mục 2 TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CÁ NHÂN
+
+### 440080000000000030000002000000000000000003300000000000000000
+
+Điều 44.8.LQ.33. Trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp
+
+### 440080000000000030000002000000000000000003400000000000000000
+
+Điều 44.8.LQ.34. Trách nhiệm của cán bộ, công chức, viên chức và cán bộ, chiến sỹ trong lực lượng vũ trang nhân dân
+
+### 440080000000000030000002000000000000000003500000000000000000
+
+Điều 44.8.LQ.35. Báo cáo viên pháp luật
+
+### 440080000000000030000002000000000000000003600000000000000000
+
+Điều 44.8.LQ.36. Quyền và nghĩa vụ của báo cáo viên pháp luật
+
+### 440080000000000030000002000000000000000003700000000000000000
+
+Điều 44.8.LQ.37. Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật ở cơ sở
+
+### 44008000000000003000000200000000000000000370000000000000000000802589100100000200
+
+Điều 44.8.TT.4.2. Phạm vi hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật
+
+### 44008000000000003000000200000000000000000370000000000000000000802589100100000300
+
+Điều 44.8.TT.4.3. Công nhận báo cáo viên pháp luật
+
+### 44008000000000003000000200000000000000000370000000000000000000802589100100000400
+
+Điều 44.8.TT.4.4. Miễn nhiệm báo cáo viên pháp luật
+
+### 44008000000000003000000200000000000000000370000000000000000000802589100100000500
+
+Điều 44.8.TT.4.5. Công nhận tuyên truyền viên pháp luật
+
+### 44008000000000003000000200000000000000000370000000000000000000802589100100000600
+
+Điều 44.8.TT.4.6. Cho thôi làm tuyên truyền viên pháp luật
+
+### 44008000000000004000
+
+Chương IV CÁC ĐIỀU KIỆN BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
+
+### 4400800000000000400003800000000000000000
+
+Điều 44.8.LQ.38. Bảo đảm về tổ chức, cán bộ, cơ sở vật chất và phương tiện cho công tác phổ biến, giáo dục pháp luật
+
+### 440080000000000040000380000000000000000000402468600280001000
+
+Điều 44.8.NĐ.1.10. Bảo đảm về tổ chức và cán bộ làm công tác phổ biến, giáo dục pháp luật
+
+### 44008000000000004000038000000000000000000040246860028000100000802589100100000700
+
+Điều 44.8.TT.4.7. Biện pháp củng cố, kiện toàn và nâng cao chất lượng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
+
+### 44008000000000004000038000000000000000000040246860028000100000802589100100000800
+
+Điều 44.8.TT.4.8. Biện pháp quản lý, sử dụng đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật
+
+### 4400800000000000400003900000000000000000
+
+Điều 44.8.LQ.39. Bảo đảm kinh phí phổ biến, giáo dục pháp luật
+
+### 440080000000000040000390000000000000000000402468600280001100
+
+Điều 44.8.NĐ.1.11. Bảo đảm kinh phí phổ biến, giáo dục pháp luật
+
+### 44008000000000004000039000000000000000000040246860028000110000802589100100000900
+
+Điều 44.8.TT.4.9. Biện pháp bảo đảm về tài chính cho hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật
+
+### 44008000000000004500
+
+Chương V QUY ĐỊNH VỀ CHUẨN TIẾP CẬN PHÁP LUẬT CHO NGƯỜI DÂN TẠI CƠ SỞ
+
+### 4400800000000000450000502771700250000200
+
+Điều 44.8.QĐ.5.2. Nguyên tắc thực hiện
+
+### 4400800000000000450000502771700250000300
+
+Điều 44.8.QĐ.5.3. Tiêu chí xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+
+### 440080000000000045000050277170025000030000802783300090000200
+
+Điều 44.8.TT.8.2. Nội dung, điểm số, cách tính điểm các tiêu chí, chỉ tiêu; tài liệu đánh giá các tiêu chí, chỉ tiêu
+
+### 4400800000000000450000502771700250000400
+
+Điều 44.8.QĐ.5.4. Điều kiện công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+
+### 4400800000000000450000502771700250000500
+
+Điều 44.8.QĐ.5.5. Trình tự, thủ tục đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+
+### 440080000000000045000050277170025000050000802783300090000300
+
+Điều 44.8.TT.8.3. Quy trình đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+
+### 440080000000000045000050277170025000050000802783300090000400
+
+Điều 44.8.TT.8.4. Biểu mẫu phục vụ việc đánh giá, công nhận xã, phường, thị trấn đạt chuẩn tiếp cận pháp luật
+
+### 440080000000000045000050277170025000050000802783300090000500
+
+Điều 44.8.TT.8.5. Hội đồng đánh giá chuẩn tiếp cận pháp luật
+
+### 4400800000000000450000502771700250000600
+
+Điều 44.8.QĐ.5.6. Trách nhiệm của các cơ quan, tổ chức
+
+### 440080000000000045000050277170025000060000802783300090000600
+
+Điều 44.8.TT.8.6. Trách nhiệm của cơ quan, tổ chức
+
+### 4400800000000000450000502771700250000700
+
+Điều 44.8.QĐ.5.7. Kinh phí thực hiện
+
+### 44008000000000004750
+
+Chương VI QUY ĐỊNH VỀ CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG CÁC LĨNH VỰC
+
+### 4400800000000000475000020000000000000000
+
+Mục 1. PHỐI HỢP PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO CÁN BỘ, NHÂN DÂN Ở NÔNG THÔN, VÙNG CAO, VÙNG SÂU, VÙNG XA, VÙNG ĐỒNG BÀO DÂN TỘC ÍT NGƯỜI
+
+### 440080000000000047500002000000000000000000801972800010000100
+
+Điều 44.8.NL.2.1. Mục đích, yêu cầu:
+
+### 440080000000000047500002000000000000000000801972800010000200
+
+Điều 44.8.NL.2.2. Nội dung phổ biến giáo dục pháp luật:
+
+### 440080000000000047500002000000000000000000801972800010000300
+
+Điều 44.8.NL.2.3. Hình thức phổ biến giáo dục pháp luật:
+
+### 440080000000000047500002000000000000000000801972800010000400
+
+Điều 44.8.NL.2.4. Một số công việc trước mắt:
+
+### 440080000000000047500002000000000000000000801972800010000500
+
+Điều 44.8.NL.2.5. Biện pháp bảo đảm thực hiện:
+
+### 4400800000000000475000030000000000000000
+
+Mục 2. TUYÊN TRUYỀN, PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT ĐỐI VỚI CỰU CHIÊN BINH
+
+### 440080000000000047500003000000000000000000802292600020000400
+
+Điều 44.8.TL.1.4. Kinh phí bảo đảm xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật, trợ giúp pháp lý đối với cựu chiến binh
+
+### 440080000000000047500003000000000000000000802292600020000500
+
+Điều 44.8.TL.1.5. Tổ chức thực hiện
+
+### 4400800000000000475000050000000000000000
+
+Mục 3. PHỐI HỢP THỰC HIỆN CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG NHÀ TRƯỜNG
+
+### 440080000000000047500005000000000000000000802381600300000100
+
+Điều 44.8.TL.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 440080000000000047500005000000000000000000802381600300000200
+
+Điều 44.8.TL.2.2. Mục đích, yêu cầu của việc phối hợp
+
+### 440080000000000047500005000000000000000000802381600300000300
+
+Điều 44.8.TL.2.3. Xây dựng chương trình, kế hoạch phổ biến, giáo dục pháp luật trong nhà trường
+
+### 440080000000000047500005000000000000000000802381600300000400
+
+Điều 44.8.TL.2.4. Xây dựng và sử dụng đội ngũ giáo viên, giảng viên, báo cáo viên phổ biến, giáo dục pháp luật trong nhà trường
+
+### 440080000000000047500005000000000000000000802381600300000500
+
+Điều 44.8.TL.2.5. Phối hợp biên soạn chương trình, giáo trình, tài liệu, sách giáo khoa về phổ biến, giáo dục pháp luật; xây dựng danh mục các thiết bị phục vụ công tác phổ biến, giáo dục pháp luật
+
+### 440080000000000047500005000000000000000000802381600300000600
+
+Điều 44.8.TL.2.6. Phối hợp xây dựng tủ sách pháp luật, xây dựng các trung tâm nghiên cứu, tư vấn pháp luật
+
+### 440080000000000047500005000000000000000000802381600300000700
+
+Điều 44.8.TL.2.7. Phối hợp nghiên cứu khoa học về phổ biến, giáo dục pháp luật, tổ chức thi học sinh giỏi, giáo viên giỏi môn học Giáo dục công dân và môn học Pháp luật
+
+### 440080000000000047500005000000000000000000802381600300000800
+
+Điều 44.8.TL.2.8. Phối hợp kiểm tra, sơ kết, tổng kết về công tác phổ biến, giáo dục pháp luật
+
+### 440080000000000047500005000000000000000000802381600300000900
+
+Điều 44.8.TL.2.9. Trách nhiệm của cơ quan quản lý giáo dục
+
+### 440080000000000047500005000000000000000000802381600300001000
+
+Điều 44.8.TL.2.10. Trách nhiệm của cơ quan tư pháp
+
+### 440080000000000047500005000000000000000000802381600300001100
+
+Điều 44.8.TL.2.11. Trách nhiệm của nhà trường
+
+### 440080000000000047500005000000000000000000802381600300001200
+
+Điều 44.8.TL.2.12. Phân công trách nhiệm
+
+### 440080000000000047500005000000000000000000802381600300001300
+
+Điều 44.8.TL.2.13. Kinh phí thực hiện
+
+### 440080000000000047500005000000000000000000802381600300001400
+
+Điều 44.8.TL.2.14. Hiệu lực thi hành
+
+### 4400800000000000475000060000000000000000
+
+Mục 4. CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT TRONG NGÀNH GIAO THÔNG VẬN TẢI
+
+### 440080000000000047500006000000000000000000802492900470000100
+
+Điều 44.8.TT.3.1. Phạm vi điều chỉnh
+
+### 440080000000000047500006000000000000000000802492900470000200
+
+Điều 44.8.TT.3.2. Đối tượng áp dụng
+
+### 440080000000000047500006000000000000000000802492900470000300
+
+Điều 44.8.TT.3.3. Yêu cầu của công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải
+
+### 440080000000000047500006000000000000000000802492900470000400
+
+Điều 44.8.TT.3.4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
+
+### 440080000000000047500006000000000000000000802492900470000500
+
+Điều 44.8.TT.3.5. Phân loại đối tượng được phổ biến, giáo dục pháp luật
+
+### 440080000000000047500006000000000000000000802492900470000600
+
+Điều 44.8.TT.3.6. Nội dung phổ biến, giáo dục pháp luật
+
+### 440080000000000047500006000000000000000000802492900470000700
+
+Điều 44.8.TT.3.7. Hình thức phổ biến, giáo dục pháp luật
+
+### 440080000000000047500006000000000000000000802492900470000800
+
+Điều 44.8.TT.3.8. Xây dựng kế hoạch phổ biến, giáo dục pháp luật
+
+### 440080000000000047500006000000000000000000802492900470000900
+
+Điều 44.8.TT.3.9. Kinh phí thực hiện công tác phổ biến, giáo dục pháp luật
+
+### 440080000000000047500006000000000000000000802492900470001000
+
+Điều 44.8.TT.3.10. Báo cáo viên pháp luật
+
+### 440080000000000047500006000000000000000000802492900470001100
+
+Điều 44.8.TT.3.11. Ngày Pháp luật
+
+### 440080000000000047500006000000000000000000802492900470001200
+
+Điều 44.8.TT.3.12. Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật của Bộ Giao thông vận tải
+
+### 440080000000000047500006000000000000000000802492900470001300
+
+Điều 44.8.TT.3.13. Trách nhiệm của các cơ quan, đơn vị trực thuộc Bộ Giao thông vận tải về công tác phổ biến, giáo dục pháp luật trong ngành Giao thông vận tải
+
+### 440080000000000047500006000000000000000000802492900470001400
+
+Điều 44.8.TT.3.14. Chế độ báo cáo và kiểm tra
+
+### 440080000000000047500006000000000000000000802492900470001500
+
+Điều 44.8.TT.3.15. Hiệu lực thi hành
+
+### 440080000000000047500006000000000000000000802492900470001600
+
+Điều 44.8.TT.3.16. Trách nhiệm thi hành
+
+### 44008000000000004875
+
+Chương VII QUY ĐỊNH LẬP DỰ TOÁN, QUẢN LÝ, SỬ DỤNG VÀ QUYẾT TOÁN KINH PHÍ NGÂN SÁCH NHÀ NƯỚC BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
+
+### 4400800000000000487500802847400560000100
+
+Điều 44.8.TT.9.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 4400800000000000487500802847400560000200
+
+Điều 44.8.TT.9.2. Nguồn kinh phí thực hiện
+
+### 4400800000000000487500802847400560000300
+
+Điều 44.8.TT.9.3. Nội dung chi và mức chi
+
+### 4400800000000000487500802847400560000400
+
+Điều 44.8.TT.9.4. Lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở
+
+### 4400800000000000487500802847400560000500
+
+Điều 44.8.TT.9.5. Tổ chức thực hiện
+
+### 4400800000000000487500802847400560000600
+
+Điều 44.8.TT.9.6. Điều khoản chuyển tiếp
+
+### 4400800000000000487500802847400560000700
+
+Điều 44.8.TT.9.7. Điều khoản thi hành
+
+### 4400800000000000487500880264870003000150
+
+Điều 44.8.TT.6.15. Kinh phí thực hiện
+
+### 44008000000000005000
+
+Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+### 4400800000000000500004000000000000000000
+
+Điều 44.8.LQ.40. Hiệu lực thi hành
+
+### 4400800000000000500004100000000000000000
+
+Điều 44.8.LQ.41. Quy định chi tiết và hướng dẫn thi hành
+
+### 4400800000000000500004140246860028000120
+
+Điều 44.8.NĐ.1.12. Hiệu lực thi hành
+
+### 4400800000000000500004140246860028000130
+
+Điều 44.8.NĐ.1.13. Trách nhiệm thi hành
+
+### 4400800000000000500004150268550014000150
+
+Điều 44.8.QĐ.3.15. Quy định chuyển tiếp
+
+### 4400800000000000500004150268550014000160
+
+Điều 44.8.QĐ.3.16. Điều khoản thi hành
+
+### 4400800000000000500004150276860021000090
+
+Điều 44.8.QĐ.4.9. Hiệu lực thi hành và điều khoản chuyển tiếp
+
+### 4400800000000000500004150276860021000100
+
+Điều 44.8.QĐ.4.10. Trách nhiệm thi hành
+
+### 4400800000000000500004150277170025000080
+
+Điều 44.8.QĐ.5.8. Hiệu lực thi hành
+
+### 4400800000000000500004180258910010000100
+
+Điều 44.8.TT.4.10. Hiệu lực thi hành và quy định chuyển tiếp
+
+### 4400800000000000500004180258910010000110
+
+Điều 44.8.TT.4.11. Trách nhiệm thi hành
+
+### 4400800000000000500004180264870003000160
+
+Điều 44.8.TT.6.16. Hiệu lực thi hành
+
+### 4400800000000000500004180264870003000170
+
+Điều 44.8.TT.6.17. Trách nhiệm thi hành
+
+### 4400800000000000500004180278190007000060
+
+Điều 44.8.TT.7.6. Điều khoản thi hành
+
+### 4400800000000000500004180278330009000070
+
+Điều 44.8.TT.8.7. Quy định chuyển tiếp
+
+### 4400800000000000500004180278330009000080
+
+Điều 44.8.TT.8.8. Hiệu lực thi hành
+

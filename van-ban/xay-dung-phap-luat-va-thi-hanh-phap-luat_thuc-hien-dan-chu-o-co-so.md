@@ -1,4677 +1,6616 @@
 ---
-layout: default
+layout: page
 title: Thực hiện dân chủ ở cơ sở
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/thuc-hien-dan-chu-o-co-so/
-collection: subtopics
-slug: thuc-hien-dan-chu-o-co-so
-parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Thực hiện dân chủ ở cơ sở
 
-**Đề mục:** Thực hiện dân chủ ở cơ sở  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-**Số điều khoản:** 373  
-**Điều khoản có nội dung:** 271/357 (75.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 44.13.LQ.1. Phạm vi điều chỉnh
+Điều 44.13.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 10/2022/QH15 Luật thực hiện dân chủ ở cơ sở ngày 10/11/2022 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Chỉ mục:** 1
+Luật này quy định về nội dung, cách thức thực hiện dân chủ ở cơ sở, quyền và nghĩa vụ của công dân trong thực hiện dân chủ ở cơ sở và trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc bảo đảm thực hiện dân chủ ở cơ sở.
 
-**Mã phân cấp:** 4401300000000000100000100000000000000000
+Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00072018
+(Điều 1 Nghị định số 59/2023/NĐ-CP Nghị định quy định chi tiết một số điều của Luật thực hiện dân chủ ở cơ sở ngày 14/08/2023 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
----
+Nghị định này quy định chi tiết khoản 4 Điều 23; khoản 4 Điều 33; khoản 3 Điều 40; khoản 4 Điều 45; khoản 3 Điều 63 và khoản 4 Điều 81 của Luật Thực hiện dân chủ ở cơ sở, gồm các nội dung sau:
 
+1. Tổ chức cuộc họp của cộng đồng dân cư; phát phiếu lấy ý kiến của hộ gia đình; biểu quyết trực tuyến tại thôn, tổ dân phố để Nhân dân bàn và quyết định; quy trình bầu, cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố; tổ chức hội nghị định kỳ của cộng đồng dân cư.
 
-### Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh
+2. Tổ chức và hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn; của Ban Giám sát đầu tư của cộng đồng.
 
-*Nội dung chưa có sẵn*
+3. Tổ chức và hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị; ở doanh nghiệp nhà nước.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.23. Trách nhiệm trong việc tổ chức để Nhân dân bàn, quyết định và thực hiện quyết định của cộng đồng dân cư; Điều 44.13.LQ.33. Hội nghị định kỳ của cộng đồng dân cư; Điều 44.13.LQ.40. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn; Điều 44.13.LQ.45. Trách nhiệm trong việc bảo đảm hoạt động của Ban Giám sát đầu tư của cộng đồng; Điều 44.13.LQ.63. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị; Điều 44.13.LQ.81. Trách nhiệm trong việc bảo đảm để người lao động thực hiện kiểm tra, giám sát)
 
-**Mã phân cấp:** 4401300000000000100000140284700059000010
+Điều 44.13.NĐ.1.2. Đối tượng áp dụng
 
-**ID:** dk_00072019
+(Điều 2 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
----
+1. Nghị định này áp dụng đối với công dân Việt Nam cư trú tại xã, phường, thị trấn, tại thôn, tổ dân phố nơi mình cư trú; cán bộ, công chức, viên chức, người lao động làm việc trong cơ quan nhà nước, đơn vị; doanh nghiệp nhà nước và người lao động tại các doanh nghiệp nhà nước.
 
-
-### Điều 44.13.NĐ.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4401300000000000100000140284700059000020
-
-**ID:** dk_00072020
-
----
-
-
-### Điều 44.13.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+2. Các cơ quan, tổ chức, cá nhân có liên quan đến thực hiện dân chủ ở cơ sở tại xã, phường, thị trấn; trong cơ quan nhà nước, đơn vị sự nghiệp công lập và tại các doanh nghiệp nhà nước.
 
 Điều 44.13.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 61/2023/NĐ-CP về xây dựng và thực hiện hương ước, quy ước của cộng đồng dân cư ngày 16/08/2023 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 4401300000000000100000140284720061000010
+1. Nghị định này quy định về:
 
-**ID:** dk_00072021
+a) Nguyên tắc xây dựng và thực hiện hương ước, quy ước;
 
----
+b) Phạm vi nội dung, hình thức của hương ước, quy ước;
 
+c) Soạn thảo, thông qua, công nhận, sửa đổi, bổ sung, thay thế hoặc tạm ngừng thực hiện, bãi bỏ hương ước, quy ước;
 
-### Điều 44.13.TT.1.1. Phạm vi điều chỉnh
+d) Trách nhiệm của cơ quan, tổ chức, cá nhân trong xây dựng và thực hiện hương ước, quy ước.
 
-*Nội dung chưa có sẵn*
+2. Nghị định này áp dụng đối với:
 
-**Chỉ mục:** 1
+a) Cộng đồng dân cư theo quy định tại khoản 3 Điều 2 Luật Thực hiện dân chủ ở cơ sở;
 
-**Mã phân cấp:** 4401300000000000100000180267530165000010
+b) Cơ quan, tổ chức, cá nhân có liên quan đến xây dựng, thực hiện hương ước, quy ước.
 
-**ID:** dk_00072022
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.2. Giải thích từ ngữ)
 
----
+Điều 44.13.TT.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 165/2018/TT-BQP quy định về tổ chức và hoạt động của Hội đồng quân nhân trong Quân đội nhân dân Việt Nam ngày 01/12/2018 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-### Điều 44.13.TT.1.2. Đối tượng áp dụng
+Thông tư này quy định về tổ chức, chức năng, nhiệm vụ, quyền hạn, mối quan hệ công tác và hoạt động của Hội đồng quân nhân ở các cơ quan, đơn vị thuộc Bộ Quốc phòng.
 
-*Nội dung chưa có sẵn*
+Điều 44.13.TT.1.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Mã phân cấp:** 4401300000000000100000180267530165000020
-
-**ID:** dk_00072023
-
----
-
-
-### Điều 44.13.TT.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+Thông tư này áp dụng đối với Hội đồng quân nhân và tổ chức, cá nhân có liên quan đến tổ chức, hoạt động của Hội đồng quân nhân.
 
 Điều 44.13.TT.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 67/2019/TT-BCA Quy định về thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông ngày 28/11/2019 của Bộ Công an, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-**Mã phân cấp:** 4401300000000000100000180271150067000010
+1. Thông tư này quy định về mục đích, nguyên tắc và nội dung thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông.
 
-**ID:** dk_00072024
+2. Thông tư này áp dụng đối với:
 
----
+a) Sỹ quan, hạ sỹ quan, chiến sỹ Công an nhân dân (sau đây viết gọn là cán bộ, chiến sỹ);
 
+b) Công an các đơn vị, địa phương (sau đây viết gọn là cơ quan Công an);
 
-### Điều 44.13.TT.3.1. Phạm vi điều chỉnh, đối tượng áp dụng
+c) Cơ quan, tổ chức, cá nhân có liên quan đến công tác bảo đảm trật tự, an toàn giao thông.
 
 Điều 44.13.TT.3.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 73/2019/TT-BCA Quy định về thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng thuộc Bộ Công an ngày 12/12/2019 của Bộ Công an, có hiệu lực thi hành kể từ ngày 26/01/2020 )
 
-**Mã phân cấp:** 4401300000000000100000180271290073000010
+1. Thông tư này quy định về mục đích, nguyên tắc, nội dung, hình thức thực hiện dân chủ trong trại giam, phân trại quản lý phạm nhân trong trại tạm giam, nhà tạm giữ (sau đây gọi chung là cơ sở giam giữ phạm nhân); cơ sở giáo dục bắt buộc; trường giáo dưỡng thuộc Bộ Công an.
 
-**ID:** dk_00072025
-
----
-
-
-### Điều 44.13.TT.4.1. Phạm vi điều chỉnh, đối tượng áp dụng
+2. Thông tư này áp dụng đối với các cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng thuộc Bộ Công an; sĩ quan, hạ sĩ quan, chiến sĩ nghĩa vụ, công nhân Công an (sau đây gọi chung là cán bộ, chiến sĩ); phạm nhân, trại viên cơ sở giáo dục bắt buộc, học sinh trường giáo dưỡng (sau đây gọi chung là phạm nhân, trại viên, học sinh); cơ quan, tổ chức, cá nhân có liên quan đến công tác quản lý cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng.
 
 Điều 44.13.TT.4.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 81/2019/TT-BCA Quy định về thực hiện dân chủ trong thi hành tạm giữ, tạm giam của lực lượng Công an nhân dân ngày 27/12/2019 của Bộ Công an, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-**Mã phân cấp:** 4401300000000000100000180271440081000010
+1. Thông tư này quy định về mục đích, nguyên tắc, nội dung, hình thức, trách nhiệm thực hiện dân chủ trong công tác quản lý, thi hành tạm giữ, tạm giam của lực lượng Công an nhân dân.
 
-**ID:** dk_00072026
+2. Thông tư này áp dụng đối với các trại tạm giam, nhà tạm giữ do lực lượng Công an nhân dân quản lý (sau đây viết tắt là cơ sở giam giữ); sĩ quan, hạ sĩ quan, chiến sĩ nghĩa vụ, công nhân Công an (sau đây viết tắt là cán bộ, chiến sĩ); người bị tạm giữ, người bị tạm giam; cơ quan, tổ chức, cá nhân có liên quan đến công tác quản lý, thi hành tạm giữ, tạm giam.
 
----
+Điều 44.13.TT.5.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 83/2019/TT-BCA Quy định về thực hiện dân chủ trong công tác của Cảnh sát môi trường ngày 31/12/2019 của Bộ Công an, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-### Điều 44.13.TT.5.1. Phạm vi điều chỉnh
+Thông tư này quy định mục đích, nguyên tắc và nội dung thực hiện dân chủ trong công tác phòng ngừa, đấu tranh chống tội phạm và vi phạm pháp luật về bảo vệ môi trường, tài nguyên và an toàn thực phẩm có liên quan đến môi trường (sau đây viết gọn là môi trường, tài nguyên, an toàn thực phẩm) của Cảnh sát môi trường.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 39.9.PL.13. Trách nhiệm của Bộ Công an)
 
-**Chỉ mục:** 1
+Điều 44.13.TT.5.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 4401300000000000100000180271480083000010
+(Điều 2 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**ID:** dk_00072027
-
----
-
-
-### Điều 44.13.TT.5.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4401300000000000100000180271480083000020
-
-**ID:** dk_00072028
-
----
-
-
-### Điều 44.13.TT.6.1. Phạm vi điều chỉnh, đối tượng áp dụng
+Thông tư này được áp dụng đối với Công an các đơn vị, địa phương (sau đây viết gọn là cơ quan Công an); cán bộ, chiến sĩ Công an nhân dân; cơ quan, tổ chức, cá nhân có quyền và nghĩa vụ liên quan đến hoạt động của Cảnh sát môi trường.
 
 Điều 44.13.TT.6.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 15/2020/TT-BCA Quy định về thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội ngày 12/02/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-**Mã phân cấp:** 4401300000000000100000180271910015000010
+1. Thông tư này quy định về mục đích, nguyên tắc, nội dung thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội theo quy định của pháp luật, bao gồm: đăng ký, quản lý cư trú; cấp, quản lý chứng minh nhân dân, căn cước công dân và các giấy tờ đi lại khác; đăng ký, quản lý các ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự; quản lý con dấu; quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo (trừ vũ khí, vật liệu nổ, công cụ hỗ trợ do Bộ Quốc phòng quản lý); quản lý, sử dụng, khai thác cơ sở dữ liệu quốc gia về dân cư; công tác bảo đảm trật tự công cộng; công tác Cảnh sát phản ứng nhanh (gọi tắt là Cảnh sát 113); xử lý vi phạm hành chính trong lĩnh vực quản lý hành chính về trật tự xã hội.
 
-**ID:** dk_00072029
+2. Thông tư này áp dụng đối với:
 
----
+a) Công an các đơn vị, địa phương thực hiện công tác quản lý hành chính về trật tự xã hội (sau đây gọi tắt là cơ quan Công an), gồm:
 
+- Cục Cảnh sát quản lý hành chính về trật tự xã hội;
 
-### Điều 44.13.TT.7.1. Phạm vi điều chỉnh
+- Phòng Cảnh sát quản lý hành chính về trật tự xã hội thuộc Công an các tỉnh, thành phố trực thuộc Trung ương;
 
-*Nội dung chưa có sẵn*
+- Đội Cảnh sát quản lý hành chính về trật tự xã hội, Đội Cảnh sát giao thông, trật tự thuộc Công an huyện, quận, thị xã, thành phố thuộc tỉnh;
 
-**Chỉ mục:** 1
+- Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an.
 
-**Mã phân cấp:** 4401300000000000100000180271990018000010
+b) Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân thực hiện công tác quản lý hành chính về trật tự xã hội thuộc các đơn vị quy định tại Điểm a Khoản 2 Điều này (sau đây gọi tắt là cán bộ, chiến sĩ);
 
-**ID:** dk_00072030
+c) Các cơ quan, tổ chức và cá nhân có liên quan đến công tác quản lý hành chính về trật tự xã hội.
 
----
+Điều 44.13.TT.7.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 18/2020/TT-BCA Quy định về thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ của lực lượng Công an nhân dân ngày 20/02/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-### Điều 44.13.TT.7.2. Đối tượng áp dụng
+Thông tư này quy định về mục đích, nguyên tắc, nội dung thực hiện dân chủ trong nội bộ đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ; thực hiện dân chủ trong quan hệ và giải quyết công việc của Cảnh sát phòng cháy và chữa cháy và đơn vị Công an thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ đối với cơ quan, tổ chức, cá nhân có liên quan.
 
-*Nội dung chưa có sẵn*
+Điều 44.13.TT.7.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Mã phân cấp:** 4401300000000000100000180271990018000020
+Thông tư này áp dụng đối với Công an các đơn vị, địa phương; cán bộ, chiến sĩ Công an nhân dân thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ; cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động trên lãnh thổ Cộng hòa xã hội chủ nghĩa Việt Nam (gọi chung là cơ quan, tổ chức, cá nhân) có quyền và nghĩa vụ liên quan đến hoạt động phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-**ID:** dk_00072031
+Điều 44.13.TT.8.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 19/2020/TT-BCA Quy định về thực hiện dân chủ trong công tác quản lý xuất nhập cảnh của Công an nhân dân ngày 21/02/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+Thông tư này quy định về mục đích, nguyên tắc, nội dung thực hiện dân chủ trong công tác quản lý xuất nhập cảnh của Công an nhân dân.
 
-### Điều 44.13.TT.8.1. Phạm vi điều chỉnh
+Điều 44.13.TT.8.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Chỉ mục:** 1
+1. Các đơn vị của Công an nhân dân thực hiện công tác quản lý xuất nhập cảnh.
 
-**Mã phân cấp:** 4401300000000000100000180272000019000010
+2. Cán bộ, chiến sỹ Công an nhân dân thực hiện công tác quản lý xuất nhập cảnh.
 
-**ID:** dk_00072032
-
----
-
-
-### Điều 44.13.TT.8.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4401300000000000100000180272000019000020
-
-**ID:** dk_00072033
-
----
-
-
-### Điều 44.13.TT.9.1. Phạm vi điều chỉnh, đối tượng áp dụng
+3. Cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh.
 
 Điều 44.13.TT.9.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 71/2020/TT-BCA Quy định về thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận trong Công an nhân dân ngày 26/06/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 4401300000000000100000180273260071000010
+1. Thông tư này quy định về mục đích, nguyên tắc và nội dung thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận trong Công an nhân dân.
 
-**ID:** dk_00072034
+2. Thông tư này áp dụng đối với:
 
----
+a) Sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân (sau đây viết gọn là cán bộ, chiến sĩ);
 
+b) Các đơn vị thuộc cơ quan Bộ Công an, Công an các tỉnh, thành phố trực thuộc trung ương (sau đây viết gọn là Công an các đơn vị, địa phương);
 
-### Điều 44.13.TT.10.1. Phạm vi điều chỉnh, đối tượng áp dụng
+c) Cơ quan, tổ chức, cá nhân có liên quan đến công tác bảo đảm, quản lý trang bị và kho vận trong Công an nhân dân.
 
 Điều 44.13.TT.10.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 92/2020/TT-BCA Quy định về thực hiện dân chủ trong các cơ sở y tế Công an nhân dân ngày 20/08/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**Mã phân cấp:** 4401300000000000100000180273810092000010
+1. Thông tư này quy định về mục đích, nguyên tắc và nội dung thực hiện dân chủ trong các cơ sở y tế Công an nhân dân (gọi chung là cơ sở y tế).
 
-**ID:** dk_00072035
+2. Thông tư này áp dụng đối với các đơn vị trực thuộc Bộ, Công an các tỉnh, thành phố trực thuộc Trung ương (gọi chung là công an các đơn vị địa phương); cán bộ y tế Công an nhân dân (gọi chung là cán bộ y tế); người bệnh đến khám bệnh, chữa bệnh, người nhà người bệnh tại các cơ sở y tế Công an nhân dân và các cơ quan, tổ chức, cá nhân khác có liên quan.
 
----
-
-
-### Điều 44.13.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng
+Cơ sở y tế khám bệnh, chữa bệnh cho phạm nhân, người bị tạm giữ, người bị tạm giam, trại viên, học sinh trong các trại tạm giam, nhà tạm giữ; trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng thực hiện theo quy định của pháp luật có liên quan.
 
 Điều 44.13.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 126/2020/TT-BCA Quy định việc thực hiện dân chủ trong hoạt đồng điều tra của lực lượng Công an nhân dân ngày 01/12/2020 của Bộ Công an, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 4401300000000000100000180274840126000010
+1. Thông tư này quy định mục đích, nguyên tắc, nội dung thực hiện dân chủ trong hoạt động điều tra của Cơ quan điều tra các cấp trong Công an nhân dân; các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra; Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an.
 
-**ID:** dk_00072036
-
----
-
-
-### Điều 44.13.TT.12.1. Phạm vi điều chỉnh, đối tượng áp dụng
+2. Thông tư này áp dụng đối với Thủ trưởng, Phó Thủ trưởng, Điều tra viên và Cán bộ điều tra của Cơ quan điều tra; cấp trưởng, cấp phó và cán bộ điều tra của các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra; Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an; người tham gia tố tụng, cơ quan, tổ chức, cá nhân có quyền và nghĩa vụ liên quan đến hoạt động điều tra.
 
 Điều 44.13.TT.12.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 44/2021/TT-BCA Quy định về thực hiện dân chủ trong tuyển sinh vào Công an nhân dân ngày 27/04/2021 của Bộ Công an, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**Mã phân cấp:** 4401300000000000100000180276310044000010
+1. Thông tư này quy định về đối tượng, mục đích, nguyên tắc, cách thức và nội dung thực hiện dân chủ trong tuyển sinh vào Công an nhân dân.
 
-**ID:** dk_00072037
-
----
-
-
-### Điều 44.13.TT.13.1. Phạm vi điều chỉnh, đối tượng áp dụng
+2. Thông tư này áp dụng đối với các đơn vị thuộc cơ quan Bộ, Công an tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là Công an các đơn vị, địa phương), học viện, trường Công an nhân dân (sau đây viết tắt là các trường Công an nhân dân), sĩ quan, hạ sĩ quan Công an nhân dân, công dân thực hiện nghĩa vụ tham gia Công an nhân dân (sau đây viết tắt là cán bộ, chiến sĩ) và cơ quan, tổ chức, công dân có liên quan đến tuyển sinh vào Công an nhân dân.
 
 Điều 44.13.TT.13.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 117/2021/TT-BCA Quy định về thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng của Công an nhân dân ngày 01/12/2021 của Bộ Công an, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**Mã phân cấp:** 4401300000000000100000180278490117000010
+1. Thông tư này quy định mục đích, nguyên tắc, nội dung và trách nhiệm thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng của Công an nhân dân.
 
-**ID:** dk_00072038
+2. Thông tư này áp dụng đối với các đơn vị thuộc cơ quan Bộ, Công an địa phương (sau đây gọi chung là Công an các đơn vị, địa phương); cán bộ, chiến sĩ Công an nhân dân; cơ quan, tổ chức, cá nhân khác có quyền và nghĩa vụ liên quan đến công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng của Công an nhân dân.
 
----
+Điều 44.13.LQ.2. Giải thích từ ngữ
 
+(Điều 2 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-### Điều 44.13.LQ.2. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+1. Cơ sở là xã, phường, thị trấn (sau đây gọi chung là cấp xã) và cộng đồng dân cư trên địa bàn cấp xã; cơ quan nhà nước, đơn vị sự nghiệp công lập (sau đây gọi chung là cơ quan, đơn vị); tổ chức có sử dụng lao động.
 
-**Chỉ mục:** 2
+2. Thực hiện dân chủ ở cơ sở là phương thức phát huy quyền làm chủ của Nhân dân, để công dân, cán bộ, công chức, viên chức, người lao động được thông tin, thể hiện ý chí, nguyện vọng, chính kiến của mình thông qua việc thảo luận, tham gia ý kiến, quyết định và kiểm tra, giám sát các vấn đề ở cơ sở theo quy định của Hiến pháp và pháp luật.
 
-**Mã phân cấp:** 4401300000000000100000200000000000000000
+3. Cộng đồng dân cư là nhóm công dân Việt Nam sinh sống trên cùng địa bàn thôn, làng, ấp, bản, buôn, bon, phum, sóc (sau đây gọi chung là thôn), tổ dân phố, khu phố, khối phố, khóm, tiểu khu (sau đây gọi chung là tổ dân phố).
 
-**ID:** dk_00072039
+4. Tổ chức có sử dụng lao động bao gồm doanh nghiệp nhà nước và doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước.
 
----
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng)
 
+Điều 44.13.TT.2.4. Giải thích từ ngữ
 
-### Điều 44.13.TT.2.4. Giải thích từ ngữ
+(Điều 4 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-*Nội dung chưa có sẵn*
+1. Nội dung thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông, gồm: Tuần tra, kiểm soát và xử lý vi phạm hành chính; đăng ký, cấp biển số xe; chỉ huy, điều khiển giao thông; điều tra, giải quyết tai nạn giao thông.
 
-**Chỉ mục:** 4
+2. Khu vực bảo đảm trật tự, an toàn giao thông là nơi được giới hạn bằng cọc tiêu hình chóp nón hoặc dây căng để cán bộ, chiến sỹ thực thi nhiệm vụ bảo đảm trật tự, an toàn giao thông và an ninh, trật tự. Khu vực bảo đảm trật tự, an toàn giao thông phải tuân thủ các quy định pháp luật khác có liên quan.
 
-**Mã phân cấp:** 4401300000000000100000280271150067000040
+3. Dây căng là dây có nền màu đỏ, chiều rộng từ 5cm đến 10cm; trên dây có in dòng chữ “KHU VỰC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG” màu vàng.
 
-**ID:** dk_00072040
+Điều 44.13.TT.10.2. Giải thích từ ngữ
 
----
+(Điều 2 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 44.13.TT.10.2. Giải thích từ ngữ
+1. Cơ sở y tế Công an nhân dân là các cơ sở khám bệnh, chữa bệnh do Bộ Công an và Công an các đơn vị, địa phương quản lý, bao gồm: bệnh viện, bệnh xá, phòng khám bệnh (không có giường bệnh), trung tâm điều dưỡng phục hồi chức năng.
 
-*Nội dung chưa có sẵn*
+2. Cán bộ y tế trong Công an nhân dân là cán bộ, chiến sĩ, người lao động có thời hạn hoặc không xác định thời hạn làm việc trong các cơ sở y tế Công an nhân dân.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4401300000000000100000280273810092000020
-
-**ID:** dk_00072041
-
----
-
-
-### Điều 44.13.LQ.3. Nguyên tắc thực hiện dân chủ ở cơ sở
+3. Người nhà người bệnh là những người đến cơ sở y tế để tham gia phục vụ, chăm sóc người bệnh.
 
 Điều 44.13.LQ.3. Nguyên tắc thực hiện dân chủ ở cơ sở
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100000300000000000000000
+1. Bảo đảm quyền của công dân, cán bộ, công chức, viên chức, người lao động được biết, tham gia ý kiến, quyết định và kiểm tra, giám sát việc thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072042
+2. Bảo đảm sự lãnh đạo của Đảng, quản lý của Nhà nước, vai trò nòng cốt của Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội trong thực hiện dân chủ ở cơ sở.
 
----
+3. Thực hiện dân chủ ở cơ sở trong khuôn khổ Hiến pháp và pháp luật; bảo đảm trật tự, kỷ cương, không cản trở hoạt động bình thường của chính quyền địa phương cấp xã, cơ quan, đơn vị, tổ chức có sử dụng lao động.
 
+4. Bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-### Điều 44.13.TT.2.2. Mục đích thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
+5. Bảo đảm công khai, minh bạch, tăng cường trách nhiệm giải trình trong quá trình thực hiện dân chủ ở cơ sở.
+
+6. Tôn trọng ý kiến đóng góp của Nhân dân, kịp thời giải quyết kiến nghị, phản ánh của Nhân dân.
 
 Điều 44.13.TT.2.2. Mục đích thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802711500670000200
+ 1. Bảo đảm quyền và lợi ích hợp pháp của cơ quan, tổ chức và cá nhân; phát huy quyền làm chủ của Nhân dân trong hoạt động bảo đảm trật tự, an toàn giao thông.
 
-**ID:** dk_00072043
+ 2. Nâng cao chất lượng, hiệu quả, đáp ứng yêu cầu thực tiễn của công tác bảo đảm trật tự, an toàn giao thông, góp phần xây dựng lực lượng Công an nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, vì Nhân dân phục vụ.Điều 44.13.TT.2.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
 
----
+(Điều 3 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
+ 1. Tuân thủ Hiến pháp, pháp luật và các quy định của Bộ Công an; quyền lợi đi đôi với nghĩa vụ, bảo đảm dân chủ đi đôi với giữ gìn trật tự, kỷ cương.
 
-### Điều 44.13.TT.2.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
+ 2. Các đường lối, chính sách và quy định về công tác bảo đảm trật tự, an toàn giao thông được công khai, minh bạch và thực hiện theo đúng trình tự, thủ tục quy định của pháp luật.
 
-Điều 44.13.TT.2.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
+ 3. Xử lý nghiêm những hành vi lợi dụng dân chủ vi phạm các quy định của pháp luật, xâm phạm an ninh quốc gia, trật tự, an toàn xã hội; cản trở, chống người thi hành công vụ; xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.Điều 44.13.TT.3.2. Mục đích thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
 
-**Chỉ mục:** 3
+(Điều 2 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802711500670000300
+1. Phát huy quyền làm chủ của nhân dân, huy động sức mạnh tổng hợp của nhân dân trong việc quản lý, giáo dục phạm nhân, trại viên, học sinh; đảm bảo cho phạm nhân, trại viên, học sinh thực hiện đầy đủ quyền và lợi ích hợp pháp của họ theo quy định của pháp luật.
 
-**ID:** dk_00072044
+2. Xây dựng lực lượng thực hiện nhiệm vụ quản lý, giáo dục, cải tạo phạm nhân; quản lý, giáo dục trại viên, học sinh trong sạch, vững mạnh, hoạt động có hiệu lực, hiệu quả, chống các biểu hiện tiêu cực, quan liêu, tham nhũng, sách nhiễu, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân và phạm nhân, trại viên, học sinh.
 
----
-
-
-### Điều 44.13.TT.3.2. Mục đích thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
-
-Điều 44.13.TT.3.2. Mục đích thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802712900730000200
-
-**ID:** dk_00072045
-
----
-
-
-### Điều 44.13.TT.3.3. Nguyên tắc thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+3. Phát huy quyền giám sát việc thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng của các cơ quan, tổ chức có liên quan được pháp luật quy định.
 
 Điều 44.13.TT.3.3. Nguyên tắc thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802712900730000300
+1. Tuân thủ Hiến pháp, pháp luật và quy định của Bộ Công an về công tác quản lý, giáo dục, cải tạo phạm nhân, trại viên, học sinh.
 
-**ID:** dk_00072046
+2. Tôn trọng và bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản, quyền và lợi ích hợp pháp của phạm nhân, trại viên, học sinh.
 
----
-
-
-### Điều 44.13.TT.4.2. Mục đích thực hiện dân chủ trong tạm giữ, tạm giam
+3. Nghiêm cấm và kiên quyết xử lý mọi hành vi lợi dụng dân chủ để xâm hại lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; cản trở hoạt động của các cơ quan tư pháp, hoạt động của lực lượng thực hiện nhiệm vụ quản lý, giáo dục, cải tạo phạm nhân, quản lý, giáo dục trại viên, học sinh; vi phạm quy định về quản lý, giáo dục, cải tạo phạm nhân, trại viên, học sinh.
 
 Điều 44.13.TT.4.2. Mục đích thực hiện dân chủ trong tạm giữ, tạm giam
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802714400810000200
+ 1. Phát huy quyền làm chủ của Nhân dân trong hoạt động quản lý, giáo dục người bị tạm giữ, người bị tạm giam; tạo mọi điều kiện thuận lợi để người bị tạm giữ, người bị tạm giam thực hiện đầy đủ các quyền công dân khác không bị pháp luật hạn chế hoặc tước bỏ.
 
-**ID:** dk_00072047
+ 2. Xây dựng cơ quan quản lý, thi hành tạm giữ, tạm giam trong Công an nhân dân đúng quy định của pháp luật; chủ động phòng ngừa, ngăn chặn, chống các hành vi tham nhũng, tiêu cực, quan liêu, gây phiền hà, sách nhiễu, xâm phạm quyền và lợi ích hợp pháp của người bị tạm giữ, người bị tạm giam và cơ quan, tổ chức, cá nhân.Điều 44.13.TT.4.3. Nguyên tắc thực hiện dân chủ trong tạm giữ, tạm giam
 
----
+(Điều 3 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
+ 1. Tuân thủ Hiến pháp, pháp luật và quy định của Bộ Công an về công tác quản lý, thi hành tạm giữ, tạm giam.
 
-### Điều 44.13.TT.4.3. Nguyên tắc thực hiện dân chủ trong tạm giữ, tạm giam
+ 2. Tôn trọng và bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản, quyền và lợi ích hợp pháp của người bị tạm giữ, người bị tạm giam.
 
-Điều 44.13.TT.4.3. Nguyên tắc thực hiện dân chủ trong tạm giữ, tạm giam
+ 3. Nghiêm cấm mọi hành vi lợi dụng dân chủ để xâm hại lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân; cản trở hoạt động của các cơ quan tư pháp, hoạt động của các cơ quan quản lý, thi hành tạm giữ, tạm giam; vi phạm quy định về quản lý, giáo dục người bị tạm giữ, người bị tạm giam.Điều 44.13.TT.5.3. Mục đích thực hiện dân chủ trong công tác của Cảnh sát môi trường
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802714400810000300
-
-**ID:** dk_00072048
-
----
-
-
-### Điều 44.13.TT.5.3. Mục đích thực hiện dân chủ trong công tác của Cảnh sát môi trường
-
-Điều 44.13.TT.5.3. Mục đích thực hiện dân chủ trong công tác của Cảnh sát môi trường
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802714800830000300
-
-**ID:** dk_00072049
-
----
-
-
-### Điều 44.13.TT.5.4. Nguyên tắc thực hiện dân chủ trong công tác của Cảnh sát môi trường
+Thực hiện dân chủ trong công tác của Cảnh sát môi trường nhằm phát huy quyền làm chủ của cơ quan, tổ chức, cá nhân trong công tác phòng ngừa, đấu tranh chống tội phạm và các vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm; huy động sức mạnh tổng hợp của cơ quan, tổ chức, cá nhân tham gia công tác phòng ngừa, đấu tranh chống tội phạm và các vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm; góp phần xây dựng lực lượng Cảnh sát môi trường trong sạch, vững mạnh, hoạt động có hiệu quả, chống các biểu hiện tiêu cực, gây khó khăn, phiền hà, xâm phạm đến quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 Điều 44.13.TT.5.4. Nguyên tắc thực hiện dân chủ trong công tác của Cảnh sát môi trường
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802714800830000400
+1. Tuân thủ Hiến pháp, pháp luật và các quy định của Bộ Công an.
 
-**ID:** dk_00072050
-
----
-
-
-### Điều 44.13.TT.6.2. Mục đích thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
+2. Không được lợi dụng dân chủ xâm phạm đến quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; cản trở hoạt động theo pháp luật của Cảnh sát môi trường.
 
 Điều 44.13.TT.6.2. Mục đích thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802719100150000200
+ 1. Phát huy quyền làm chủ của Nhân dân và bảo đảm điều kiện thuận lợi cho Nhân dân thực hiện quyền và nghĩa vụ theo quy định của pháp luật; huy động, khuyến khích Nhân dân tích cực tham gia công tác quản lý hành chính về trật tự xã hội.
 
-**ID:** dk_00072051
+ 2. Góp phần xây dựng lực lượng Cảnh sát quản lý hành chính về trật tự xã hội trong sạch vững mạnh, hoạt động hiệu lực, hiệu quả; phát huy quyền làm chủ của cán bộ, chiến sĩ; nâng cao trách nhiệm của người đứng đầu cơ quan, đơn vị; phòng ngừa, ngăn chặn và chống các hành vi tham nhũng, tiêu cực, quan liêu, sách nhiễu, gây phiền hà, xâm phạm quyền, lợi ích hợp pháp của cơ quan, tổ chức và cá nhân.Điều 44.13.TT.6.3. Nguyên tắc thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
 
----
+(Điều 3 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
+ 1. Tuân thủ Hiến pháp, pháp luật và các quy định của Bộ Công an về công tác quản lý hành chính về trật tự xã hội.
 
-### Điều 44.13.TT.6.3. Nguyên tắc thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
+ 2. Bảo đảm dân chủ, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trong lĩnh vực quản lý hành chính về trật tự xã hội.
 
-Điều 44.13.TT.6.3. Nguyên tắc thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
+ 3. Nghiêm cấm mọi hành vi lợi dụng dân chủ xâm hại quyền và lợi ích hợp pháp của Nhà nước, của cơ quan, tổ chức và cá nhân; cản trở các hoạt động theo pháp luật của lực lượng Cảnh sát quản lý hành chính về trật tự xã hội.
 
-**Chỉ mục:** 3
+ 4. Ngăn chặn, xử lý nghiêm minh các hành vi vi phạm pháp luật, vi phạm việc thực hiện dân chủ trong lĩnh vực quản lý hành chính về trật tự xã hội.
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802719100150000300
+ Điều 44.13.TT.7.3. Mục đích thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
-**ID:** dk_00072052
+(Điều 3 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
----
+ 1. Phát huy quyền làm chủ của nhân dân; huy động cơ quan, tổ chức, cá nhân tích cực tham gia công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ theo phương châm: “dân biết, dân bàn, dân làm, dân kiểm tra, giám sát” theo quy định của pháp luật.
 
+ 2. Góp phần xây dựng lực lượng Cảnh sát phòng cháy và chữa cháy trong sạch, vững mạnh, chính quy, tinh nhuệ, hiện đại; chống các hành vi, biểu hiện cửa quyền, tiêu cực, sách nhiễu, phiền hà, xâm phạm quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-### Điều 44.13.TT.7.3. Mục đích thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ 3. Phát huy tính chủ động của cán bộ, công chức, viên chức Công an nhân dân, nâng cao trách nhiệm của người đứng đầu cơ quan, đơn vị trong phòng ngừa, ngăn chặn và chống các hành vi tham nhũng, lãng phí.Điều 44.13.TT.7.4. Nguyên tắc thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
-Điều 44.13.TT.7.3. Mục đích thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+(Điều 4 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Chỉ mục:** 3
+ 1. Tuân thủ Hiến pháp, pháp luật và các quy định của Bộ Công an về công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802719900180000300
+ 2. Bảo đảm dân chủ, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trong lĩnh vực phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-**ID:** dk_00072053
+ 3. Nghiêm cấm mọi hành vi lợi dụng dân chủ cản trở hoạt động thực thi pháp luật của Công an, Cảnh sát phòng cháy và chữa cháy, cơ quan, tổ chức, cá nhân thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ. Xử lý nghiêm minh hành vi vi phạm pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ.Điều 44.13.TT.8.3. Mục đích thực hiện dân chủ trong công tác quản lý xuất nhập cảnh
 
----
+(Điều 3 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+ 1. Bảo đảm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết thủ tục xuất nhập cảnh; tạo điều kiện để cơ quan, tổ chức, cá nhân tham gia giám sát việc thực hiện dân chủ trong công tác quản lý xuất nhập cảnh.
 
-### Điều 44.13.TT.7.4. Nguyên tắc thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ 2. Xây dựng đội ngũ cán bộ, chiến sỹ thực hiện công tác quản lý xuất nhập cảnh của Công an nhân dân có đủ phẩm chất đạo đức, năng lực và trình độ chuyên môn, nghiệp vụ, góp phần bảo vệ an ninh quốc gia, bảo đảm trật tự an toàn xã hội và tăng cường hợp tác quốc tế trong tình hình mới.
 
-Điều 44.13.TT.7.4. Nguyên tắc thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ 3. Phòng ngừa, phát hiện, ngăn chặn và chống các hành vi tiêu cực, quan liêu, sách nhiễu, phiền hà trong công tác quản lý xuất nhập cảnh.Điều 44.13.TT.8.4. Nguyên tắc thực hiện dân chủ
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802719900180000400
+ 1. Tuân thủ Hiến pháp, pháp luật Việt Nam và các quy định của Bộ Công an về công tác quản lý xuất nhập cảnh.
 
-**ID:** dk_00072054
+ 2. Xử lý nghiêm các hành vi lợi dụng dân chủ để xâm phạm quyền, lợi ích hợp pháp của các cơ quan, tổ chức, cá nhân và cản trở hoạt động quản lý xuất nhập cảnh của Công an nhân dân theo quy định của pháp luật.Điều 44.13.TT.9.2. Mục đích thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
 
----
+(Điều 2 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
+ 1. Bảo đảm và phát huy quyền làm chủ của Công an các đơn vị, địa phương và cán bộ, chiến sĩ Công an nhân dân trong công tác bảo đảm, quản lý trang bị và kho vận nhằm đáp ứng yêu cầu phục vụ công tác, chiến đấu và xây dựng lực lượng Công an nhân dân.
 
-### Điều 44.13.TT.8.3. Mục đích thực hiện dân chủ trong công tác quản lý xuất nhập cảnh
+ 2. Phát hiện, ngăn chặn và xử lý kịp thời hành vi vi phạm quy định về bảo đảm, quản lý trang bị và kho vận góp phần thực hành tiết kiệm, phòng, chống quan liêu, tham nhũng, lãng phí, cửa quyền, phiền hà trong quá trình thực hiện công tác bảo đảm, quản lý trang bị và kho vận.Điều 44.13.TT.9.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
 
-Điều 44.13.TT.8.3. Mục đích thực hiện dân chủ trong công tác quản lý xuất nhập cảnh
+(Điều 3 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Chỉ mục:** 3
+ 1. Tuân thủ Hiến pháp, pháp luật và các quy định của Bộ Công an về công tác bảo đảm, quản lý trang bị và kho vận.
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802720000190000300
+ 2. Bảo đảm sự lãnh đạo, chỉ đạo của cấp ủy Đảng, sự quản lý, điều hành thống nhất của Thủ trưởng Công an các đơn vị, địa phương trong công tác bảo đảm, quản lý trang bị và kho vận theo nguyên tắc tập trung dân chủ và chế độ thủ trưởng; thực hiện công khai, minh bạch các chỉ tiêu, kế hoạch bảo đảm, mua sắm, cấp phát, vận tải, quản lý trang bị, trừ những nội dung thuộc phạm vi bí mật theo quy định của Nhà nước và Bộ Công an.
 
-**ID:** dk_00072055
+ 3. Nghiêm cấm mọi hành vi lợi dụng dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận nhằm vụ lợi, cản trở, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; lợi dụng chức vụ, quyền hạn để làm sai nguyên tắc, chỉ tiêu kế hoạch hoặc gây phiền hà, sách nhiễu.Điều 44.13.TT.10.3. Mục đích thực hiện dân chủ trong các cơ sở y tế
 
----
+(Điều 3 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
+ 1. Phát huy quyền làm chủ của cán bộ y tế, người bệnh, người nhà người bệnh trong chăm sóc, bảo vệ và nâng cao sức khỏe cho cán bộ, chiến sĩ Công an nhân dân và nhân dân tại các cơ sở y tế Công an nhân dân.
 
-### Điều 44.13.TT.8.4. Nguyên tắc thực hiện dân chủ
+ 2. Nâng cao trách nhiệm của người đứng đầu cơ quan, đơn vị; phòng ngừa, ngăn chặn và chống các hành vi tham nhũng, lãng phí, quan liêu, phiền hà, tiêu cực góp phần xây dựng các cơ sở y tế Công an nhân dân trong sạch, vững mạnh.Điều 44.13.TT.10.4. Nguyên tắc thực hiện dân chủ trong các cơ sở y tế
 
-*Nội dung chưa có sẵn*
+(Điều 4 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**Chỉ mục:** 4
+ 1. Tuân thủ Hiến pháp và pháp luật; quyền lợi đi đôi với nghĩa vụ và trách nhiệm; nghiêm cấm những hành vi lợi dụng dân chủ, vi phạm pháp luật, xâm phạm quyền, lợi ích hợp pháp, chính đáng của cơ sở y tế Công an nhân dân, của cán bộ y tế Công an và người bệnh, người nhà người bệnh.
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802720000190000400
+ 2. Bảo đảm sự lãnh đạo, chỉ đạo của cấp ủy Đảng, đề cao trách nhiệm quản lý, điều hành của Thủ trưởng các cơ sở y tế Công an nhân dân (Giám đốc bệnh viện, Trưởng khoa, Trưởng phòng, Bệnh xá trưởng, ...), sự tham gia tích cực của các tổ chức đoàn thể, sự phối hợp của người bệnh, người nhà người bệnh để cán bộ y tế, người bệnh, người nhà người bệnh thực hiện đầy đủ những nội dung về công khai, minh bạch, tham gia ý kiến và giám sát, kiểm tra hoạt động của cơ sở y tế; nâng cao chất lượng và hiệu quả trong khám bệnh, chữa bệnh và các dịch vụ phục vụ người bệnh theo đúng các quy định về khám, chữa bệnh của Nhà nước và của Bộ Công an.Điều 44.13.TT.11.2. Mục đích thực hiện dân chủ trong hoạt động điều tra
 
-**ID:** dk_00072056
+(Điều 2 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
----
-
-
-### Điều 44.13.TT.9.2. Mục đích thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
-
-Điều 44.13.TT.9.2. Mục đích thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802732600710000200
-
-**ID:** dk_00072057
-
----
-
-
-### Điều 44.13.TT.9.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
-
-Điều 44.13.TT.9.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802732600710000300
-
-**ID:** dk_00072058
-
----
-
-
-### Điều 44.13.TT.10.3. Mục đích thực hiện dân chủ trong các cơ sở y tế
-
-Điều 44.13.TT.10.3. Mục đích thực hiện dân chủ trong các cơ sở y tế
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802738100920000300
-
-**ID:** dk_00072059
-
----
-
-
-### Điều 44.13.TT.10.4. Nguyên tắc thực hiện dân chủ trong các cơ sở y tế
-
-Điều 44.13.TT.10.4. Nguyên tắc thực hiện dân chủ trong các cơ sở y tế
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802738100920000400
-
-**ID:** dk_00072060
-
----
-
-
-### Điều 44.13.TT.11.2. Mục đích thực hiện dân chủ trong hoạt động điều tra
-
-Điều 44.13.TT.11.2. Mục đích thực hiện dân chủ trong hoạt động điều tra
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802748401260000200
-
-**ID:** dk_00072061
-
----
-
-
-### Điều 44.13.TT.11.3. Nguyên tắc thực hiện dân chủ trong hoạt động điều tra
+Thực hiện dân chủ trong hoạt động điều tra của lực lượng Công an nhân dân nhằm phát huy quyền làm chủ của Nhân dân, huy động Nhân dân tích cực tham gia đấu tranh phòng, chống tội phạm; tạo điều kiện thuận lợi và bảo đảm thực hiện đầy đủ quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân, người tham gia tố tụng trong tiếp nhận, giải quyết nguồn tin về tội phạm và hoạt động điều tra, xử lý tội phạm theo quy định của pháp luật; góp phần xây dựng Cơ quan điều tra, các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra, Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an trong sạch, vững mạnh, hoạt động có hiệu quả; phòng, chống các biểu hiện quan liêu, cửa quyền, tiêu cực, sách nhiễu, phiền hà, xâm phạm quyền con người, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 Điều 44.13.TT.11.3. Nguyên tắc thực hiện dân chủ trong hoạt động điều tra
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802748401260000300
+1. Tuân thủ Hiến pháp, pháp luật trong hoạt động điều tra hình sự. Khi tiến hành tố tụng, trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan, người có thẩm quyền tiến hành tố tụng phải tôn trọng và bảo vệ quyền con người, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**ID:** dk_00072062
+2. Bảo đảm dân chủ đi đôi với trật tự, kỷ cương, điều lệnh Công an nhân dân, không xâm phạm đến hoạt động của cơ quan tư pháp.
 
----
-
-
-### Điều 44.13.TT.12.2. Mục đích thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
+3. Nghiêm cấm lợi dụng dân chủ để xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức và cá nhân; cản trở hoạt động tố tụng hình sự của Cơ quan điều tra, các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra theo quy định của pháp luật.
 
 Điều 44.13.TT.12.2. Mục đích thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802763100440000200
+ 1. Phát huy vai trò chủ động kiểm tra, giám sát của tổ chức, cán bộ, chiến sĩ và công dân nhằm nâng cao chất lượng, hiệu quả tuyển sinh vào Công an nhân dân, tạo nguồn tuyển chọn công dân có đủ điều kiện, tiêu chuẩn vào Công an nhân dân đáp ứng yêu cầu bổ sung, phát triển nguồn nhân lực trong Công an nhân dân và xây dựng lực lượng Công an nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại.
 
-**ID:** dk_00072063
+ 2. Bảo đảm quyền và lợi ích hợp pháp của cán bộ, chiến sĩ, cơ quan, tổ chức, công dân có nguyện vọng tham gia hoặc liên quan đến tuyển sinh vào Công an nhân dân; phát huy vai trò, trách nhiệm của Thủ trưởng Công an các đơn vị, địa phương, các trường Công an nhân dân trong thực hiện công khai, minh bạch tuyển sinh vào Công an nhân dân.
 
----
+ 3. Phòng ngừa, phát hiện, ngăn chặn và chống các biểu hiện, hành vi tham nhũng, tiêu cực trong tuyển sinh vào Công an nhân dân.Điều 44.13.TT.12.3. Nguyên tắc thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
 
+(Điều 3 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-### Điều 44.13.TT.12.3. Nguyên tắc thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
+ 1. Tuân thủ Hiến pháp, pháp luật và các quy định của Bộ Công an về tuyển sinh; thực hiện công khai, minh bạch trong tuyển sinh vào Công an nhân dân, trừ những nội dung thuộc phạm vi bí mật nhà nước, bí mật công tác theo quy định của Bộ Công an.
 
-Điều 44.13.TT.12.3. Nguyên tắc thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
+ 2. Bảo đảm sự lãnh đạo, chỉ đạo của cấp ủy Đảng, đề cao trách nhiệm quản lý, điều hành của Thủ trưởng Công an các đơn vị, địa phương, các trường Công an nhân dân; bảo đảm nguyên tắc tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách và chịu trách nhiệm trước pháp luật, cấp trên về hoạt động của đơn vị.
 
-**Chỉ mục:** 3
+ 3. Nghiêm cấm các hành vi sách nhiễu, gây phiền hà cho cán bộ, chiến sĩ và công dân có nguyện vọng tham gia tuyển sinh vào Công an nhân dân. Xử lý kịp thời, nghiêm minh mọi hành vi lợi dụng dân chủ để vi phạm quy định về tuyển sinh hoặc xâm phạm quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân tham gia tuyển sinh vào Công an nhân dân.Điều 44.13.TT.13.2. Mục đích thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802763100440000300
+(Điều 2 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**ID:** dk_00072064
+ 1. Phát huy quyền làm chủ của Nhân dân, của cán bộ, chiến sĩ Công an nhân dân trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng của Công an nhân dân.
 
----
+ 2. Công khai, minh bạch, nâng cao hiệu quả công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng của Công an nhân dân.
 
+ 3. Phòng ngừa các hành vi tham nhũng, tiêu cực, gây phiền hà của cán bộ, chiến sĩ Công an nhân dân khi thực hiện công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng.Điều 44.13.TT.13.3. Nguyên tắc của việc thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
 
-### Điều 44.13.TT.13.2. Mục đích thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
+(Điều 3 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-Điều 44.13.TT.13.2. Mục đích thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
+ 1. Tuân thủ Hiến pháp, pháp luật; tôn trọng và bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**Chỉ mục:** 2
+ 2. Thực hiện đúng trình tự, thủ tục, thẩm quyền theo quy định của pháp luật và quy định của Bộ Công an trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng.
 
-**Mã phân cấp:** 440130000000000010000030000000000000000000802784901170000200
+ 3. Không được lợi dụng dân chủ để xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân, cản trở công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng của Công an nhân dân.Điều 44.13.LQ.4. Phạm vi thực hiện dân chủ ở cơ sở
 
-**ID:** dk_00072065
+(Điều 4 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
----
+1. Mọi công dân thực hiện dân chủ tại xã, phường, thị trấn, tại thôn, tổ dân phố nơi mình cư trú.
 
+2. Công dân là cán bộ, công chức, viên chức, người lao động thực hiện dân chủ tại cơ quan, đơn vị nơi mình công tác. Trường hợp cơ quan, đơn vị có đơn vị trực thuộc thì việc thực hiện dân chủ tại đơn vị trực thuộc của cơ quan, đơn vị do người đứng đầu cơ quan, đơn vị quyết định.
 
-### Điều 44.13.TT.13.3. Nguyên tắc của việc thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
+3. Công dân là người lao động thực hiện dân chủ tại tổ chức có sử dụng lao động nơi mình có giao kết hợp đồng lao động. Trường hợp tổ chức có sử dụng lao động có đơn vị trực thuộc thì việc thực hiện dân chủ tại đơn vị trực thuộc thực hiện theo quy định tại điều lệ, nội quy, quy định, quy chế của tổ chức có sử dụng lao động và pháp luật có liên quan.
 
-Điều 44.13.TT.13.3. Nguyên tắc của việc thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 440130000000000010000030000000000000000000802784901170000300
-
-**ID:** dk_00072066
-
----
-
-
-### Điều 44.13.LQ.4. Phạm vi thực hiện dân chủ ở cơ sở
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 4401300000000000100000400000000000000000
-
-**ID:** dk_00072067
-
----
-
-
-### Điều 44.13.LQ.5. Quyền của công dân trong thực hiện dân chủ ở cơ sở
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.2.24. Quy định chuyển tiếp)
 
 Điều 44.13.LQ.5. Quyền của công dân trong thực hiện dân chủ ở cơ sở
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100000500000000000000000
+1. Được công khai thông tin và yêu cầu cung cấp thông tin đầy đủ, chính xác, kịp thời theo quy định của pháp luật.
 
-**ID:** dk_00072068
+2. Đề xuất sáng kiến, tham gia ý kiến, bàn và quyết định đối với các nội dung thực hiện dân chủ ở cơ sở theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
----
+3. Kiểm tra, giám sát, kiến nghị, phản ánh, khiếu nại, tố cáo, khởi kiện đối với các quyết định, hành vi vi phạm pháp luật về thực hiện dân chủ ở cơ sở theo quy định của pháp luật.
 
-
-### Điều 44.13.LQ.6. Nghĩa vụ của công dân trong thực hiện dân chủ ở cơ sở
+4. Được công nhận, tôn trọng, bảo vệ và bảo đảm quyền, lợi ích hợp pháp trong thực hiện dân chủ ở cơ sở theo quy định của pháp luật.
 
 Điều 44.13.LQ.6. Nghĩa vụ của công dân trong thực hiện dân chủ ở cơ sở
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100000600000000000000000
+1. Tuân thủ quy định của pháp luật về thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072069
+2. Tham gia ý kiến về các nội dung được đưa ra lấy ý kiến ở cơ sở theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
----
+3. Chấp hành quyết định của cộng đồng dân cư, chính quyền địa phương, cơ quan, đơn vị, tổ chức có sử dụng lao động.
 
+4. Kịp thời kiến nghị, phản ánh, tố cáo đến cơ quan có thẩm quyền khi phát hiện hành vi vi phạm pháp luật về thực hiện dân chủ ở cơ sở.
 
-### Điều 44.13.LQ.7. Quyền thụ hưởng của công dân
+5. Tôn trọng và bảo đảm trật tự, an toàn xã hội, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-*Nội dung chưa có sẵn*
+Điều 44.13.LQ.7. Quyền thụ hưởng của công dân
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100000700000000000000000
+1. Được Nhà nước và pháp luật công nhận, tôn trọng, bảo vệ, bảo đảm thực hiện quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội. Được bảo đảm thực hiện các quyền về thực hiện dân chủ ở cơ sở theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00072070
+2. Được thông tin đầy đủ, kịp thời về các quyền và lợi ích hợp pháp, chính sách an sinh xã hội, phúc lợi xã hội theo quy định của pháp luật và quyết định của chính quyền địa phương, cơ quan, đơn vị, tổ chức ở nơi mình cư trú, công tác, làm việc.
 
----
+3. Được thụ hưởng thành quả đổi mới, phát triển kinh tế - xã hội, chế độ an sinh xã hội, sự an toàn, ổn định của đất nước, của địa phương, cơ quan, đơn vị, tổ chức có sử dụng lao động và kết quả thực hiện dân chủ ở nơi mình cư trú, công tác, làm việc.
 
-
-### Điều 44.13.LQ.8. Các biện pháp bảo đảm thực hiện dân chủ ở cơ sở
+4. Được tạo điều kiện để tham gia học tập, công tác, lao động, sản xuất, kinh doanh, cải thiện và nâng cao đời sống vật chất, tinh thần của bản thân, gia đình và cộng đồng.
 
 Điều 44.13.LQ.8. Các biện pháp bảo đảm thực hiện dân chủ ở cơ sở
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100000800000000000000000
+1. Bồi dưỡng nâng cao năng lực chuyên môn, nghiệp vụ cho người được giao nhiệm vụ tổ chức thực hiện pháp luật về thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072071
+2. Tăng cường công tác thông tin, tuyên truyền, phổ biến, giáo dục pháp luật về thực hiện dân chủ ở cơ sở; nâng cao nhận thức cộng đồng về việc bảo đảm thực hiện dân chủ ở cơ sở.
 
----
+3. Nâng cao trách nhiệm của các cơ quan, đơn vị, tổ chức, vai trò nêu gương của người đứng đầu, cán bộ lãnh đạo, quản lý, đảng viên, cán bộ, công chức, viên chức, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố trong việc thực hiện dân chủ và bảo đảm thực hiện dân chủ ở cơ sở; lấy mức độ thực hiện dân chủ ở cơ sở của chính quyền địa phương cấp xã, cơ quan, đơn vị, tổ chức làm căn cứ đánh giá kết quả thực hiện nhiệm vụ.
 
+4. Kịp thời biểu dương, khen thưởng các gương điển hình, có nhiều thành tích trong việc phát huy và tổ chức thực hiện tốt dân chủ ở cơ sở; phát hiện và xử lý nghiêm cơ quan, đơn vị, tổ chức, cá nhân vi phạm pháp luật về thực hiện dân chủ ở cơ sở.
 
-### Điều 44.13.LQ.9. Các hành vi bị nghiêm cấm trong thực hiện dân chủ ở cơ sở
+5. Hỗ trợ, khuyến khích ứng dụng công nghệ thông tin, khoa học - kỹ thuật, trang bị phương tiện kỹ thuật và bảo đảm các điều kiện cần thiết khác cho việc tổ chức thực hiện dân chủ ở cơ sở phù hợp với tiến trình xây dựng chính quyền điện tử, chính quyền số, xã hội số.
 
 Điều 44.13.LQ.9. Các hành vi bị nghiêm cấm trong thực hiện dân chủ ở cơ sở
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100000900000000000000000
+1. Gây khó khăn, phiền hà hoặc cản trở, đe dọa công dân thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072072
+2. Bao che, cản trở, trù dập hoặc thiếu trách nhiệm trong việc giải quyết kiến nghị, khiếu nại, tố cáo; tiết lộ thông tin về người tố cáo, người cung cấp thông tin về hành vi vi phạm có liên quan đến việc thực hiện dân chủ ở cơ sở.
 
----
+3. Lợi dụng việc thực hiện dân chủ ở cơ sở để thực hiện hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.
 
+4. Lợi dụng việc thực hiện dân chủ ở cơ sở để xuyên tạc, vu khống, gây mâu thuẫn, kích động bạo lực, phân biệt vùng, miền, giới tính, tôn giáo, dân tộc, gây thiệt hại cho cá nhân, cơ quan, đơn vị, tổ chức.
 
-### Điều 44.13.LQ.10. Xử lý vi phạm pháp luật về thực hiện dân chủ ở cơ sở
+5. Giả mạo giấy tờ, gian lận hoặc dùng thủ đoạn khác để làm sai lệch kết quả bàn, quyết định, tham gia ý kiến của công dân.
 
 Điều 44.13.LQ.10. Xử lý vi phạm pháp luật về thực hiện dân chủ ở cơ sở
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000100001000000000000000000
+1. Cá nhân có hành vi vi phạm pháp luật về thực hiện dân chủ ở cơ sở thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính, áp dụng biện pháp xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**ID:** dk_00072073
+2. Tổ chức vi phạm quy định của Luật này và quy định khác của pháp luật có liên quan đến thực hiện dân chủ ở cơ sở thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
----
+3. Cán bộ, công chức, viên chức lợi dụng chức vụ, quyền hạn vi phạm quy định của Luật này, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật.
 
+4. Việc xử phạt vi phạm hành chính, xử lý kỷ luật đối với các hành vi vi phạm pháp luật về thực hiện dân chủ ở cơ sở thực hiện theo quy định của Chính phủ.
 
-### Điều 44.13.LQ.11. Những nội dung chính quyền địa phương cấp xã phải công khai
+Chương II
+
+THỰC HIỆN DÂN CHỦ Ở XÃ, PHƯỜNG, THỊ TRẤN
+
+Mục 1
+
+CÔNG KHAI THÔNG TIN Ở XÃ, PHƯỜNG, THỊ TRẤN
 
 Điều 44.13.LQ.11. Những nội dung chính quyền địa phương cấp xã phải công khai
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000010000000000000000001100000000000000000
+Trừ các thông tin thuộc bí mật nhà nước hoặc thông tin chưa được công khai theo quy định của pháp luật, chính quyền địa phương cấp xã phải công khai các nội dung sau đây:
 
-**ID:** dk_00072076
+1. Kế hoạch phát triển kinh tế - xã hội, ph­ương án chuyển dịch cơ cấu kinh tế hằng năm của cấp xã và kết quả thực hiện;
 
----
+2. Số liệu, báo cáo thuyết minh dự toán ngân sách nhà nước, kế hoạch hoạt động tài chính của cấp xã trình Hội đồng nhân dân cấp xã; dự toán ngân sách, kế hoạch hoạt động tài chính đã được Hội đồng nhân dân cấp xã quyết định; số liệu và thuyết minh tình hình thực hiện dự toán ngân sách cấp xã định kỳ theo quý, 06 tháng, hằng năm; quyết toán ngân sách nhà nước và kết quả thực hiện các hoạt động tài chính khác đã được Hội đồng nhân dân cấp xã phê chuẩn; kết quả thực hiện các kiến nghị của Kiểm toán nhà nước (nếu có);
 
+3. Dự án, công trình đầu tư trên địa bàn cấp xã và tiến độ thực hiện; kế hoạch thu hồi đất, bồi thường, hỗ trợ, tái định cư khi thu hồi đất để thực hiện dự án, công trình đầu tư trên địa bàn cấp xã; kế hoạch quản lý, sử dụng quỹ đất do cấp xã quản lý; kế hoạch cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của cấp xã; quy hoạch xây dựng vùng huyện, quy hoạch xây dựng xã và điểm dân cư nông thôn; quy hoạch chung được lập cho thị trấn, đồ án quy hoạch phân khu, quy hoạch chi tiết được lập cho các khu vực thuộc phạm vi thị trấn;
 
-### Điều 44.13.LQ.12. Hình thức và thời điểm công khai thông tin
+4. Quy chế thực hiện dân chủ ở xã, phường, thị trấn; nhiệm vụ, quyền hạn của cán bộ, công chức và người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố; quy tắc ứng xử của người có chức vụ, quyền hạn của chính quyền địa phương cấp xã;
+
+5. Việc quản lý và sử dụng các loại quỹ, khoản đầu tư, tài trợ theo chương trình, dự án đối với địa bàn cấp xã; các khoản huy động Nhân dân đóng góp;
+
+6. Tình hình đầu tư xây dựng, mua sắm, giao, thuê, sử dụng, thu hồi, điều chuyển, chuyển đổi công năng, bán, thanh lý, tiêu hủy và hình thức xử lý khác đối với tài sản công do cấp xã quản lý; tình hình khai thác nguồn lực tài chính từ tài sản công của chính quyền địa phương cấp xã;
+
+7. Chủ trư­ơng, chính sách, kế hoạch, tiêu chí, đối tượng, quy trình bình xét và kết quả thực hiện chính sách hỗ trợ, trợ cấp, tín dụng để thực hiện các chương trình mục tiêu quốc gia, phát triển sản xuất, hỗ trợ xây dựng nhà ở, cấp thẻ bảo hiểm y tế và các chính sách an sinh xã hội khác được tổ chức triển khai trên địa bàn cấp xã;
+
+8. Thông tin về phạm vi, đối tượng, cách thức bình xét, xác định đối tượng, mức hỗ trợ, thời gian, thủ tục thực hiện phân phối các khoản hỗ trợ từ ngân sách nhà nước để khắc phục khó khăn do thiên tai, dịch bệnh, sự cố, thảm họa hoặc để hỗ trợ bệnh nhân mắc bệnh hiểm nghèo trên địa bàn cấp xã; việc quản lý, sử dụng các nguồn đóng góp, quyên góp tự nguyện của các tổ chức, cá nhân trong nước và nước ngoài dành cho các đối tượng trên địa bàn cấp xã;
+
+9. Số lượng, đối tượng, tiêu chuẩn gọi nhập ngũ; danh sách công dân đủ điều kiện nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; danh sách công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; danh sách tạm hoãn gọi nhập ngũ, miễn gọi nhập ngũ trên địa bàn cấp xã;
+
+10. Kết quả thanh tra, kiểm tra, giải quyết các vụ việc tham nhũng, tiêu cực, vi phạm kỷ luật đối với cán bộ, công chức, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố; kết quả lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm Chủ tịch, Phó Chủ tịch và Trưởng ban của Hội đồng nhân dân cấp xã, Chủ tịch, Phó Chủ tịch và các Ủy viên Ủy ban nhân dân cấp xã;
+
+11. Kế hoạch lấy ý kiến Nhân dân, nội dung lấy ý kiến, kết quả tổng hợp ý kiến và giải trình, tiếp thu ý kiến của Nhân dân đối với những nội dung chính quyền địa phương cấp xã đưa ra lấy ý kiến Nhân dân quy định tại Điều 25 của Luật này;
+
+12. Đối tư­ợng, mức thu các loại phí, lệ phí và nghĩa vụ tài chính khác do chính quyền địa phương cấp xã trực tiếp thu;
+
+13. Các thủ tục hành chính, thủ tục giải quyết công việc liên quan đến tổ chức, cá nhân do chính quyền địa phương cấp xã trực tiếp thực hiện;
+
+14. Nội dung khác theo quy định của pháp luật và quy chế thực hiện dân chủ ở xã, phường, thị trấn.
 
 Điều 44.13.LQ.12. Hình thức và thời điểm công khai thông tin
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000010000000000000000001200000000000000000
+1. Các hình thức công khai thông tin bao gồm:
 
-**ID:** dk_00072077
+a) Niêm yết thông tin;
 
----
+b) Đăng tải trên cổng thông tin điện tử, trang thông tin điện tử của chính quyền địa phương cấp xã;
 
+c) Phát tin trên hệ thống truyền thanh của cấp xã (nếu có);
 
-### Điều 44.13.LQ.13. Lựa chọn hình thức công khai thông tin
+d) Thông qua Trưởng thôn, Tổ trưởng tổ dân phố để thông báo đến công dân;
+
+đ) Gửi văn bản đến công dân;
+
+e) Thông qua hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân;
+
+g) Thông qua việc tiếp công dân, tiếp xúc cử tri, họp báo, thông cáo báo chí, hoạt động của người phát ngôn của Ủy ban nhân dân cấp xã theo quy định của pháp luật;
+
+h) Thông báo đến tổ chức chính trị, tổ chức chính trị - xã hội và các tổ chức, đoàn thể cùng cấp khác để tổ chức phổ biến, tuyên truyền đến hội viên, đoàn viên ở cơ sở;
+
+i) Thông qua mạng viễn thông, mạng xã hội hoạt động hợp pháp theo quy định của pháp luật, bảo đảm phù hợp với mức độ ứng dụng công nghệ thông tin tại cấp xã, tại thôn, tổ dân phố;
+
+k) Các hình thức khác theo quy định của pháp luật và quy chế thực hiện dân chủ ở xã, phường, thị trấn.
+
+2. Việc công khai thông tin quy định tại Điều 11 của Luật này tại khu vực biên giới, hải đảo, miền núi, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng đồng bào dân tộc thiểu số thực hiện theo quy định của Chính phủ.
+
+3. Thời điểm công khai thông tin đối với từng lĩnh vực được thực hiện theo quy định của pháp luật có liên quan. Trường hợp pháp luật chưa có quy định thì chậm nhất là 05 ngày làm việc kể từ ngày có quyết định, văn bản của cơ quan có thẩm quyền về nội dung cần công khai, Ủy ban nhân dân cấp xã phải tổ chức công khai thông tin.
 
 Điều 44.13.LQ.13. Lựa chọn hình thức công khai thông tin
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000010000000000000000001300000000000000000
+1. Tại nơi đã thiết lập trang thông tin điện tử, cổng thông tin điện tử thì Ủy ban nhân dân cấp xã có trách nhiệm đăng tải trên trang thông tin điện tử, cổng thông tin điện tử của chính quyền địa phương cấp xã thông tin quy định tại Điều 11 của Luật này.
 
-**ID:** dk_00072078
+2. Ủy ban nhân dân cấp xã có trách nhiệm niêm yết thông tin quy định tại các khoản 1, 2, 3, 5, 6, 7, 8, 9, 10, 11 và 12 Điều 11 của Luật này tại trụ sở Hội đồng nhân dân, Ủy ban nhân dân cấp xã, tại nhà văn hóa và các điểm sinh hoạt cộng đồng ở thôn, tổ dân phố. Thời gian niêm yết thông tin ít nhất là 30 ngày liên tục kể từ ngày niêm yết, trừ trường hợp pháp luật có quy định khác.
 
----
+Thông tin quy định tại khoản 4 và khoản 13 Điều 11 của Luật này phải được niêm yết thường xuyên tại trụ sở Hội đồng nhân dân, Ủy ban nhân dân cấp xã và được cập nhật khi có sự thay đổi. Danh sách các nội dung đã được thực hiện công khai kèm theo hình thức, thời gian thực hiện được lập, cập nhật theo từng quý và niêm yết tại trụ sở Hội đồng nhân dân, Ủy ban nhân dân cấp xã, tại nhà văn hóa và các điểm sinh hoạt cộng đồng ở thôn, tổ dân phố.
 
+3. Thông tin quy định tại các khoản 7, 8, 9, 10, 11 và 12 Điều 11 của Luật này được công khai trên hệ thống truyền thanh của cấp xã (nếu có) trong thời hạn ít nhất là 03 ngày liên tục.
 
-### Điều 44.13.LQ.14. Trách nhiệm tổ chức thực hiện việc công khai thông tin
+4. Thông tin quy định tại khoản 3 Điều này được gửi đến Trưởng thôn, Tổ trưởng tổ dân phố để thông báo đến Nhân dân. Việc thông báo thông tin đến Nhân dân quy định tại khoản này được thực hiện thông qua một hoặc nhiều hình thức, gồm thông báo tại cuộc họp của cộng đồng dân cư, cuộc họp, sinh hoạt của tổ chức chính trị, tổ chức chính trị - xã hội và các tổ chức, đoàn thể khác ở thôn, tổ dân phố; thông báo trực tiếp hoặc gửi văn bản thông báo đến từng hộ gia đình; thông qua tin nhắn đến đại diện hộ gia đình hoặc sử dụng mạng xã hội hoạt động hợp pháp theo quy định của pháp luật và đã được cộng đồng dân cư thống nhất lựa chọn.
+
+5. Cùng với việc thực hiện công khai thông tin bằng các hình thức quy định tại các khoản 1, 2, 3 và 4 Điều này, Ủy ban nhân dân cấp xã có thể quyết định lựa chọn thêm các hình thức công khai thông tin khác quy định tại khoản 1 Điều 12 của Luật này phù hợp với điều kiện thực tế của địa phương, bảo đảm để Nhân dân tiếp cận thông tin chính xác, đầy đủ, kịp thời, thuận lợi.
+
+6. Trường hợp pháp luật có quy định khác về hình thức, cách thức thực hiện công khai đối với nội dung thông tin cụ thể thì áp dụng theo quy định đó.
 
 Điều 44.13.LQ.14. Trách nhiệm tổ chức thực hiện việc công khai thông tin
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000010000000000000000001400000000000000000
+1. Ủy ban nhân dân cấp xã có kế hoạch thực hiện việc công khai thông tin, trong đó nêu rõ nội dung thông tin cần công khai, hình thức công khai, thời điểm, thời hạn công khai và trách nhiệm tổ chức thực hiện.
 
-**ID:** dk_00072079
+Chủ tịch Ủy ban nhân dân cấp xã chịu trách nhiệm chỉ đạo việc tổ chức thực hiện kế hoạch đã được Ủy ban nhân dân cấp xã thông qua; kiểm tra, đôn đốc và báo cáo Ủy ban nhân dân về kết quả thực hiện.
 
----
+Trường hợp thông tin đã công khai có sự thay đổi, điều chỉnh thì nội dung thay đổi, điều chỉnh phải được kịp thời công khai theo quy định tại Mục này.
 
+2. Ủy ban nhân dân cấp xã có trách nhiệm cung cấp thông tin theo yêu cầu của công dân theo quy định của Luật Tiếp cận thông tin đối với những thông tin trong thời hạn công khai nhưng chưa được công khai, thông tin hết thời hạn công khai theo quy định của pháp luật hoặc thông tin đang được công khai nhưng vì lý do bất khả kháng người yêu cầu không thể tiếp cận được.
 
-### Điều 44.13.LQ.15. Những nội dung Nhân dân bàn và quyết định
+3. Ủy ban nhân dân cấp xã tổng hợp, báo cáo Hội đồng nhân dân cùng cấp về quá trình và kết quả thực hiện các nội dung công khai thông tin tại kỳ họp thường lệ gần nhất, đồng thời gửi Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp để giám sát.
+
+(Điều này có nội dung liên quan đến Điều 32.2.LQ.23. Thông tin được cung cấp theo yêu cầu; Điều 32.2.LQ.24. Hình thức yêu cầu cung cấp thông tin; Điều 32.2.LQ.25. Hình thức cung cấp thông tin theo yêu cầu; Điều 32.2.LQ.26. Tiếp nhận yêu cầu cung cấp thông tin; Điều 32.2.LQ.27. Giải quyết yêu cầu cung cấp thông tin; Điều 32.2.LQ.28. Từ chối yêu cầu cung cấp thông tin)
+
+Mục 2
+
+NHÂN DÂN BÀN VÀ QUYẾT ĐỊNH
 
 Điều 44.13.LQ.15. Những nội dung Nhân dân bàn và quyết định
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000001500000000000000000
+1. Chủ trương và mức đóng góp xây dựng cơ sở hạ tầng, các công trình công cộng trong phạm vi địa bàn cấp xã, ở thôn, tổ dân phố do Nhân dân đóng góp toàn bộ hoặc một phần kinh phí, tài sản, công sức.
 
-**ID:** dk_00072081
+2. Việc thu, chi, quản lý các khoản đóng góp của Nhân dân tại cộng đồng dân cư ngoài các khoản đã được pháp luật quy định; việc thu, chi, quản lý các khoản kinh phí, tài sản do cộng đồng dân cư được giao quản lý hoặc được tiếp nhận từ các nguồn thu, tài trợ, ủng hộ hợp pháp khác.
 
----
+3. Nội dung hương ước, quy ước của cộng đồng dân cư.
 
+4. Bầu, cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố.
 
-### Điều 44.13.LQ.16. Đề xuất nội dung để Nhân dân bàn và quyết định
+5. Bầu, cho thôi làm thành viên Ban Thanh tra nhân dân, Ban Giám sát đầu tư của cộng đồng.
+
+6. Các công việc tự quản khác trong nội bộ cộng đồng dân cư không trái với quy định của pháp luật, phù hợp với thuần phong, mỹ tục và đạo đức xã hội.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.3. Tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định; Điều 44.13.NĐ.1.4. Tổ chức phát phiếu lấy ý kiến của hộ gia đình để Nhân dân bàn và quyết định; Điều 44.13.NĐ.1.5. Biểu quyết trực tuyến tại thôn, tổ dân phố để Nhân dân bàn và quyết định)
 
 Điều 44.13.LQ.16. Đề xuất nội dung để Nhân dân bàn và quyết định
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000001600000000000000000
+1. Đối với các nội dung có phạm vi thực hiện trong địa bàn cấp xã, Chủ tịch Ủy ban nhân dân cấp xã sau khi thống nhất với Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định nội dung, lựa chọn hình thức và chỉ đạo, hướng dẫn Trưởng thôn, Tổ trưởng tổ dân phố tổ chức để Nhân dân bàn và quyết định.
 
-**ID:** dk_00072082
+2. Đối với các nội dung chỉ có phạm vi thực hiện trong thôn, tổ dân phố, Trưởng thôn, Tổ trưởng tổ dân phố sau khi thống nhất với Trưởng ban công tác Mặt trận ở thôn, tổ dân phố đề xuất nội dung để cộng đồng dân cư bàn và quyết định.
 
----
+3. Công dân cư trú tại thôn, tổ dân phố có sáng kiến đề xuất về nội dung quy định tại Điều 15 của Luật này và được ít nhất là 10% tổng số hộ gia đình tại thôn, tổ dân phố đồng thuận thì gửi đề xuất đến Trưởng thôn, Tổ trưởng tổ dân phố để đưa ra cộng đồng dân cư bàn và quyết định nếu không trái với quy định của pháp luật, phù hợp với thuần phong, mỹ tục và đạo đức xã hội.
 
+Trường hợp sáng kiến của công dân chưa có đủ 10% tổng số hộ gia đình ở thôn, tổ dân phố đồng thuận nhưng xét thấy có thể mang lại lợi ích cho cộng đồng dân cư và được Ban công tác Mặt trận ở thôn, tổ dân phố tán thành thì Trưởng thôn, Tổ trưởng tổ dân phố đưa ra để cộng đồng dân cư bàn và quyết định.
 
-### Điều 44.13.LQ.17. Hình thức Nhân dân bàn và quyết định
+Việc thu thập ý kiến đồng thuận của các hộ gia đình có thể thực hiện trực tiếp tại cuộc họp của cộng đồng dân cư, bằng văn bản thể hiện ý kiến đồng ý của đại diện hộ gia đình hoặc hình thức thể hiện ý kiến khác phù hợp với điều kiện thực tế tại cộng đồng dân cư. Công dân có sáng kiến chịu trách nhiệm trước pháp luật về tính chính xác của số lượng và danh sách hộ gia đình đồng thuận. Ý kiến đồng thuận với sáng kiến của công dân có giá trị trong thời hạn 03 tháng kể từ ngày thể hiện ý kiến.
 
 Điều 44.13.LQ.17. Hình thức Nhân dân bàn và quyết định
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000001700000000000000000
+1. Tùy theo nội dung được đề xuất, Chủ tịch Ủy ban nhân dân cấp xã, Trưởng thôn, Tổ trưởng tổ dân phố tổ chức để Nhân dân ở thôn, tổ dân phố bàn và quyết định bằng một trong các hình thức sau đây:
 
-**ID:** dk_00072083
+a) Tổ chức cuộc họp của cộng đồng dân cư;
 
----
+b) Phát phiếu lấy ý kiến của từng hộ gia đình;
 
+c) Biểu quyết trực tuyến phù hợp với mức độ ứng dụng công nghệ thông tin và được cộng đồng dân cư thống nhất lựa chọn.
 
-### Điều 44.13.LQ.18. Tổ chức cuộc họp của cộng đồng dân cư
+2. Việc bàn, quyết định các nội dung quy định tại các khoản 3, 4 và 5 Điều 15 của Luật này phải được thực hiện tại cuộc họp của cộng đồng dân cư, trừ trường hợp quy định tại điểm b khoản 1 Điều 19 của Luật này. Hình thức phát phiếu lấy ý kiến của từng hộ gia đình được thực hiện trong các trường hợp quy định tại khoản 1 Điều 19 của Luật này.
+
+Hình thức biểu quyết trực tuyến chỉ áp dụng trong trường hợp cộng đồng dân cư quyết định các công việc quy định tại khoản 6 Điều 15 của Luật này mà Trưởng thôn, Tổ trưởng tổ dân phố sau khi thống nhất với Ban công tác Mặt trận ở thôn, tổ dân phố thấy không cần thiết tổ chức cuộc họp của cộng đồng dân cư hoặc phát phiếu lấy ý kiến của từng hộ gia đình.
+
+3. Trường hợp pháp luật có quy định khác về việc tổ chức để Nhân dân bàn, quyết định thì thực hiện theo quy định đó.
 
 Điều 44.13.LQ.18. Tổ chức cuộc họp của cộng đồng dân cư
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000001800000000000000000
+1. Cuộc họp của cộng đồng dân cư do Trưởng thôn, Tổ trưởng tổ dân phố triệu tập và chủ trì tổ chức; trường hợp cuộc họp để bầu, cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố thì thực hiện theo quy định của Chính phủ. Trường hợp khuyết Trưởng thôn, Tổ trưởng tổ dân phố thì Chủ tịch Ủy ban nhân dân cấp xã chỉ định đại diện Ban công tác Mặt trận ở thôn, tổ dân phố hoặc triệu tập viên là công dân có uy tín cư trú tại thôn, tổ dân phố đó để triệu tập và tổ chức cuộc họp của cộng đồng dân cư.
 
-**ID:** dk_00072084
+Thành phần tham dự cuộc họp của cộng đồng dân cư gồm Trưởng thôn, Tổ trưởng tổ dân phố, Ban công tác Mặt trận ở thôn, tổ dân phố, đại diện các hộ gia đình trong thôn, tổ dân phố.
 
----
+2. Đại diện hộ gia đình là người có năng lực hành vi dân sự đầy đủ, có khả năng đại diện được cho các thành viên hộ gia đình; trường hợp hộ gia đình không có người có năng lực hành vi dân sự đầy đủ thì đại diện hộ gia đình là người được các thành viên hộ gia đình thống nhất đề cử hoặc ủy nhiệm.
 
+3. Trường hợp thôn, tổ dân phố có từ 200 hộ gia đình trở lên hoặc có địa bàn dân cư sinh sống không tập trung thì có thể tổ chức các cuộc họp theo từng cụm dân cư.
 
-### Điều 44.13.NĐ.1.3. Tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định
+Trưởng thôn, Tổ trưởng tổ dân phố có thể ủy quyền cho thành viên Ban công tác Mặt trận ở thôn, tổ dân phố hoặc một công dân có uy tín cư trú tại cụm dân cư chủ trì, điều hành cuộc họp của cụm dân cư và báo cáo kết quả với Trưởng thôn, Tổ trưởng tổ dân phố để tổng hợp vào kết quả chung của toàn thôn, tổ dân phố.
+
+4. Trình tự tổ chức cuộc họp của cộng đồng dân cư được thực hiện như sau:
+
+a) Người chủ trì cuộc họp tuyên bố lý do, nêu mục đích, yêu cầu, nội dung cuộc họp; giới thiệu người để cuộc họp biểu quyết cử làm thư ký;
+
+b) Người chủ trì cuộc họp trình bày những nội dung đưa ra để xem xét, thảo luận tại cuộc họp;
+
+c) Những người tham gia cuộc họp thảo luận;
+
+d) Người chủ trì cuộc họp tổng hợp chung các ý kiến thảo luận tại cuộc họp; đề xuất các nội dung và phương án biểu quyết đối với các nội dung đã được thảo luận. Việc biểu quyết được thực hiện bằng hình thức giơ tay hoặc bỏ phiếu kín do các thành viên tham dự cuộc họp quyết định. Trường hợp bỏ phiếu kín thì cuộc họp bầu ra Ban kiểm phiếu để thực hiện việc tổ chức bỏ phiếu kín;
+
+đ) Người chủ trì cuộc họp công bố kết quả biểu quyết và kết luận cuộc họp.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.3. Tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định; Điều 44.13.NĐ.2.7. Đề xuất nội dung hương ước, quy ước; Điều 44.13.NĐ.2.10. Thông qua hương ước, quy ước)
 
 Điều 44.13.NĐ.1.3. Tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000180000000000000000000402847000590000300
+1. Thẩm quyền triệu tập, chủ trì và nội dung tổ chức cuộc họp của cộng đồng dân cư
 
-**ID:** dk_00072085
+a) Trưởng thôn, Tổ trưởng tổ dân phố triệu tập và chủ trì tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định những nội dung được quy định tại khoản 1, 2, 3, 5 và 6 Điều 15 của Luật Thực hiện dân chủ ở cơ sở.
 
----
+b) Tổ bầu cử (do Chủ tịch Ủy ban nhân dân cấp xã quyết định thành lập) triệu tập và chủ trì cuộc họp của cộng đồng dân cư để bầu Trưởng thôn, Tổ trưởng tổ dân phố.
 
+c) Trưởng Ban công tác Mặt trận ở thôn, tổ dân phố triệu tập và chủ trì cuộc họp của cộng đồng dân cư để cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố. Trường hợp Trưởng thôn, Tổ trưởng tổ dân phố đồng thời là Trưởng Ban công tác Mặt trận thì Chủ tịch Ủy ban nhân dân cấp xã triệu tập và chủ trì cuộc họp sau khi thống nhất với Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
 
-### Điều 44.13.LQ.19. Phát phiếu lấy ý kiến của hộ gia đình
+d) Trường hợp khuyết Trưởng thôn, Tổ trưởng Tổ dân phố thì Chủ tịch Ủy ban nhân dân cấp xã chỉ định đại diện Ban công tác Mặt trận ở thôn, tổ dân phố hoặc triệu tập viên là công dân có uy tín cư trú tại thôn, tổ dân phố triệu tập và tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định các nội dung trừ trường hợp quy định tại điểm b, điểm c khoản 1 Điều này.
+
+đ) Trưởng thôn, Tổ trưởng tổ dân phố ủy quyền cho một thành viên Ban công tác Mặt trận ở thôn, tổ dân phố hoặc một công dân có uy tín cư trú tại cụm dân cư chủ trì, điều hành cuộc họp của cụm dân cư và báo cáo kết quả với Trưởng thôn, Tổ trưởng tổ dân phố để tổng hợp vào kết quả chung của toàn thôn, tổ dân phố.
+
+2. Thành phần tham dự cuộc họp của cộng đồng dân cư được quy định tại khoản 1, 2 Điều 18 của Luật Thực hiện dân chủ ở cơ sở. Thời gian, địa điểm tổ chức cuộc họp phải thuận lợi, phù hợp với điều kiện thực tế để cộng đồng dân cư tham gia đầy đủ.
+
+3. Thông tin về cuộc họp của cộng đồng dân cư (theo Mẫu số 01 kèm Nghị định này) phải được thông báo đến thành phần tham dự ít nhất 02 ngày trước khi tổ chức cuộc họp bằng một trong các hình thức sau: Giấy mời, thông báo trực tiếp đến từng hộ gia đình, qua hệ thống truyền thanh của thôn, tổ dân phố, điện thoại, các ứng dụng mạng xã hội hoạt động hợp pháp theo quy định của pháp luật do thôn, tổ dân phố thống nhất thiết lập và được niêm yết công khai tại nhà văn hóa, các điểm sinh hoạt cộng đồng của cụm, thôn, tổ dân phố.
+
+4. Tài liệu cuộc họp để cộng đồng dân cư bàn và quyết định phải được chuẩn bị đầy đủ trước khi tổ chức cuộc họp. Đối với các nội dung thuộc khoản 1, 2, 3 Điều 15 của Luật Thực hiện dân chủ ở cơ sở thì tài liệu phục vụ cuộc họp phải được gửi đến từng hộ gia đình, cá nhân liên quan ít nhất 02 ngày trước khi cuộc họp diễn ra bằng hình thức trực tiếp hoặc qua ứng dụng mạng xã hội hoạt động hợp pháp theo quy định của pháp luật do thôn, tổ dân phố thống nhất thiết lập.
+
+5. Trình tự tổ chức cuộc họp của cộng đồng dân cư
+
+a) Người chủ trì cuộc họp của cộng đồng dân cư theo quy định tại khoản 1 Điều này tuyên bố lý do, giới thiệu đại biểu; thông qua chương trình cuộc họp; giới thiệu người để cuộc họp biểu quyết cử làm thư ký cuộc họp. Thư ký cuộc họp được quyết định khi có trên 50% đại diện hộ gia đình tham dự cuộc họp giơ tay biểu quyết đồng ý.
+
+Căn cứ nội dung cụ thể của từng cuộc họp, người chủ trì hoặc người được phân công công bố các quyết định, văn bản liên quan theo chương trình cuộc họp.
+
+b) Người tham dự cuộc họp thảo luận về những nội dung được người chủ trì hoặc người được phân công trình bày.
+
+Đối với cuộc họp của cộng đồng dân cư để bầu Trưởng thôn, Tổ trưởng tổ dân phố; thành viên Ban Giám sát đầu tư của cộng đồng, thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn thì đại diện Ban công tác Mặt trận ở thôn, tổ dân phố giới thiệu danh sách người ứng cử do Ban công tác Mặt trận ở thôn, tổ dân phố đã thống nhất với cấp ủy chi bộ thôn, tổ dân phố và đề nghị đại diện hộ gia đình tham dự cuộc họp tự ứng cử hoặc đề cử người có đủ tiêu chuẩn điều kiện để tham gia bầu.
+
+Kết thúc thảo luận, người chủ trì cuộc họp tổng hợp các ý kiến thảo luận, đề xuất những nội dung cần được biểu quyết và phương án biểu quyết bằng hình thức giơ tay hoặc bỏ phiếu kín để người tham dự biểu quyết lựa chọn. Phương án được lựa chọn khi có trên 50% đại diện hộ gia đình tham dự cuộc họp giơ tay biểu quyết đồng ý.
+
+c) Biểu quyết đối với những nội dung đã được thảo luận
+
+Đối với hình thức biểu quyết giơ tay, kết quả biểu quyết được kiểm đếm ngay tại thời điểm biểu quyết và được ghi vào biên bản cuộc họp.
+
+Đối với hình thức biểu quyết bằng bỏ phiếu kín, người chủ trì cuộc họp đề xuất số lượng và danh sách Ban kiểm phiếu từ 03 đến 05 người (gồm Trưởng ban và các thành viên) để đại diện hộ gia đình tham dự cuộc họp biểu quyết bằng hình thức giơ tay. Ban kiểm phiếu được quyết định khi có trên 50% đại diện hộ gia đình tham dự cuộc họp giơ tay biểu quyết đồng ý.
+
+Ban kiểm phiếu hướng dẫn thể lệ, cách ghi phiếu, bỏ phiếu và tiến hành phát phiếu.
+
+Sau khi kết thúc bỏ phiếu, Ban kiểm phiếu tiến hành kiểm phiếu (Trong quá trình kiểm phiếu, Ban kiểm phiếu mời 02 đại hộ gia đình tham dự cuộc họp chứng kiến việc kiểm phiếu) và lập biên bản kiểm phiếu theo mẫu số 02 kèm theo Nghị định này. Trưởng ban kiểm phiếu công bố kết quả kiểm phiếu tại cuộc họp. Biên bản kiểm phiếu được lập thành 03 bản và gửi kèm theo Quyết định của cộng đồng dân cư đến Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và lưu tại thôn, tổ dân phố.
+
+d) Người chủ trì cuộc họp công bố kết quả biểu quyết đối với từng nội dung biểu quyết và kết luận cuộc họp. Quyết định của cộng đồng dân cư được thể hiện bằng các hình thức văn bản: nghị quyết, biên bản cuộc họp, bản ghi nhớ, bản thỏa thuận của cộng đồng dân cư trong đó thể hiện rõ nội dung quyết định của cộng đồng dân cư theo quy định tại khoản 2 Điều 20 của Luật Thực hiện dân chủ ở cơ sở.
+
+Trường hợp cuộc họp bầu Trưởng thôn, Tổ trưởng tổ dân phố thì người trúng cử ra mắt cuộc họp. Nếu không xác định được người trúng cử thì nêu rõ lý do không bầu được Trưởng thôn, Tổ trưởng tổ dân phố trong biên bản cuộc họp để báo cáo Ủy ban nhân dân cấp xã xem xét, quyết định việc tổ chức bầu lại.
+
+Ngay sau khi cuộc họp kết thúc, người chủ trì cuộc họp có trách nhiệm hoàn thiện hồ sơ cuộc họp, chậm nhất 05 ngày làm việc kể từ ngày kết thúc cuộc họp, quyết định đã được cộng đồng dân cư biểu quyết thông qua (theo Mẫu số 03 kèm theo Nghị định này) phải được gửi đến Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã theo quy định tại khoản 3 Điều 20 của Luật Thực hiện dân chủ ở cơ sở.
+
+6. Trường hợp tổ chức cuộc họp cụm dân cư theo quy định tại khoản 3 Điều 18 của Luật Thực hiện dân chủ ở cơ sở, Trưởng thôn, Tổ trưởng tổ dân phố báo cáo Ủy ban nhân dân cấp xã xem xét, quyết định phương án tổ chức cuộc họp sau khi thống nhất với Ban công tác Mặt trận ở thôn, tổ dân phố.
+
+Phương án tổ chức cuộc họp theo từng cụm dân cư bao gồm các nội dung: số lượng cụm dân cư; người chủ trì hoặc được ủy quyền chủ trì cuộc họp từng cụm dân cư; dự kiến thời gian, địa điểm tổ chức cuộc họp, phân công thực hiện, báo cáo kết quả cuộc họp từng cụm dân cư và tổng hợp vào kết quả chung của toàn thôn, tổ dân phố.
+
+Phu luc_ban hanh kem theo NĐ so 59_2023_ND-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.15. Những nội dung Nhân dân bàn và quyết định; Điều 44.13.LQ.18. Tổ chức cuộc họp của cộng đồng dân cư; Điều 44.13.LQ.20. Quyết định của cộng đồng dân cư)
 
 Điều 44.13.LQ.19. Phát phiếu lấy ý kiến của hộ gia đình
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000001900000000000000000
+1. Trưởng thôn, Tổ trưởng tổ dân phố tổ chức gửi phiếu biểu quyết đến từng hộ gia đình để lấy ý kiến biểu quyết về các nội dung có phạm vi thực hiện trong thôn, tổ dân phố hoặc trong địa bàn cấp xã đối với các trường hợp sau đây:
 
-**ID:** dk_00072086
+a) Chủ tịch Ủy ban nhân dân cấp xã quyết định lựa chọn hình thức phát phiếu lấy ý kiến của hộ gia đình đối với nội dung có phạm vi thực hiện trong địa bàn cấp xã;
 
----
+b) Cộng đồng dân cư đã tổ chức cuộc họp mà không có đủ đại diện của số hộ gia đình tham dự để có thể đạt tỷ lệ biểu quyết tán thành tối thiểu quy định tại khoản 1 Điều 21 của Luật này;
 
+c) Các trường hợp khác do Trưởng thôn, Tổ trưởng tổ dân phố quyết định sau khi đã thống nhất với Ban công tác Mặt trận ở thôn, tổ dân phố.
 
-### Điều 44.13.NĐ.1.4. Tổ chức phát phiếu lấy ý kiến của hộ gia đình để Nhân dân bàn và quyết định
+2. Trưởng thôn, Tổ trưởng tổ dân phố phối hợp với Trưởng ban công tác Mặt trận ở thôn, tổ dân phố xây dựng kế hoạch tổ chức phát phiếu lấy ý kiến; thành lập Tổ phát phiếu lấy ý kiến có từ 03 đến 05 thành viên và công khai thông tin đến Nhân dân ở thôn, tổ dân phố về nội dung lấy ý kiến, thời điểm, thời hạn lấy ý kiến, thành phần Tổ phát phiếu lấy ý kiến chậm nhất là 02 ngày trước ngày thực hiện việc phát phiếu lấy ý kiến.
+
+3. Mỗi hộ gia đình được phát 01 phiếu lấy ý kiến. Tổ phát phiếu có nhiệm vụ gửi phiếu lấy ý kiến trực tiếp đến từng hộ gia đình, tổ chức thu phiếu theo đúng thời hạn đã được xác định và tổng hợp đầy đủ, khách quan kết quả phiếu lấy ý kiến.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.4. Tổ chức phát phiếu lấy ý kiến của hộ gia đình để Nhân dân bàn và quyết định; Điều 44.13.NĐ.2.7. Đề xuất nội dung hương ước, quy ước; Điều 44.13.NĐ.2.10. Thông qua hương ước, quy ước)
 
 Điều 44.13.NĐ.1.4. Tổ chức phát phiếu lấy ý kiến của hộ gia đình để Nhân dân bàn và quyết định
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000190000000000000000000402847000590000400
+1. Các trường hợp tổ chức phát phiếu lấy ý kiến
 
-**ID:** dk_00072087
+a) Chủ tịch Ủy ban nhân dân cấp xã quyết định lựa chọn hình thức phát phiếu lấy ý kiến của hộ gia đình đối với những nội dung quy định tại Điều 15 của Luật Thực hiện dân chủ ở cơ sở có phạm vi thực hiện trong địa bàn cấp xã.
 
----
+b) Đối với những nội dung quy định tại Điều 15 của Luật Thực hiện dân chủ ở cơ sở đã được thôn, tổ dân phố tổ chức cuộc họp mà không có đủ đại diện của số hộ gia đình tham dự để có thể đạt tỷ lệ biểu quyết tán thành theo quy định tại khoản 1 Điều 21 của Luật Thực hiện dân chủ ở cơ sở.
 
+c) Trưởng thôn, Tổ trưởng tổ dân phố sau khi đã thống nhất với Ban công tác Mặt trận ở thôn, tổ dân phố quyết định tổ chức phát phiếu lấy ý kiến biểu quyết của hộ gia đình đối với nội dung quy định tại khoản 6 Điều 15 của Luật Thực hiện dân chủ ở cơ sở có phạm vi thực hiện trong thôn, tổ dân phố.
 
-### Điều 44.13.NĐ.1.5. Biểu quyết trực tuyến tại thôn, tổ dân phố để Nhân dân bàn và quyết định
+2. Xây dựng kế hoạch phát phiếu lấy ý kiến
+
+Căn cứ từng trường hợp phát phiếu lấy ý kiến quy định tại khoản 1 Điều này Trưởng thôn, Tổ trưởng tổ dân phố phối hợp với Trưởng ban công tác Mặt trận ở thôn, tổ dân phố xây dựng Kế hoạch tổ chức phát phiếu lấy ý kiến gồm các nội dung chính sau: Mục đích, yêu cầu, nội dung, thành phần, thời gian, thời hạn lấy ý kiến, phân công tổ chức thực hiện, các điều kiện bảo đảm việc tổ chức phát phiếu lấy ý kiến.
+
+Kế hoạch tổ chức phát phiếu lấy ý kiến phải được gửi đến Chủ tịch Ủy ban nhân dân cấp xã và Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã chậm nhất 02 ngày kể từ ngày ban hành Kế hoạch.
+
+3. Thành lập Tổ phát phiếu lấy ý kiến
+
+Trưởng thôn, Tổ trưởng tổ dân phố quyết định thành lập Tổ phát phiếu lấy ý kiến từ 03 đến 05 thành viên gồm: đại diện thôn, tổ dân phố, Ban công tác Mặt trận ở thôn, tổ dân phố, đại diện tổ chức chính trị - xã hội ở thôn, tổ dân phố. Đại diện Ban công tác Mặt trận ở thôn, tổ dân phố là Tổ trưởng.
+
+4. Công khai thông tin về việc phát phiếu lấy ý kiến
+
+Thông tin về việc phát phiếu lấy ý kiến được công khai bằng một trong các hình thức: niêm yết tại nhà văn hóa và các điểm sinh hoạt cộng đồng ở thôn, tổ dân phố, thông báo trực tiếp đến từng hộ gia đình, qua hệ thống truyền thanh của thôn, tổ dân phố, điện thoại, các ứng dụng mạng xã hội hoạt động hợp pháp theo quy định của pháp luật do thôn, tổ dân phố thống nhất thiết lập ít nhất 02 ngày trước ngày tổ chức phát phiếu lấy ý kiến. Nội dung thông tin công khai theo quy định tại khoản 2 Điều 19 của Luật Thực hiện dân chủ ở cơ sở.
+
+5. Phiếu lấy ý kiến
+
+a) Đối với từng trường hợp phát phiếu lấy ý kiến của hộ gia đình quy định tại khoản 1 Điều này, Ủy ban nhân dân cấp xã có trách nhiệm quy định mẫu phiếu, hướng dẫn và ban hành mẫu phiếu.
+
+b) Phiếu phải đảm bảo các nội dung sau: tiêu đề phiếu, nội dung lấy ý kiến, nội dung để hộ gia đình lựa chọn biểu quyết và hướng dẫn cách lựa chọn, ý kiến khác để hộ gia đình tham gia (nếu có) và thời hạn thu phiếu lấy ý kiến.
+
+Ủy ban nhân dân cấp xã đóng dấu treo ở phía trên bên trái của từng phiếu lấy ý kiến để biểu quyết nội dung có phạm vi thực hiện trong địa bàn cấp xã.
+
+Trưởng thôn, Tổ trưởng tổ dân phố ký trực tiếp vào góc bên phải phía dưới của từng phiếu lấy ý kiến để biểu quyết đối với nội dung có phạm vi thực hiện trong thôn, tổ dân phố.
+
+6. Tiến hành phát phiếu lấy ý kiến của hộ gia đình
+
+a) Tổ phát phiếu gửi trực tiếp phiếu lấy ý kiến đến từng hộ gia đình; thu phiếu theo thời hạn đã được quy định trên phiếu. Tổ phát phiếu tiến hành kiểm phiếu, lập biên bản kiểm phiếu theo mẫu số 04 quy định tại Nghị định này. Trong quá trình kiểm phiếu, Tổ phát phiếu mời đại diện 02 hộ gia đình chứng kiến việc kiểm phiếu.
+
+b) Kết quả lấy ý kiến để Nhân dân bàn và quyết định các nội dung quy định tại khoản 1 Điều này được thông qua khi tổng số phiếu biểu quyết của đại diện hộ gia đình trong thôn, tổ dân phố đạt tỷ lệ tối thiểu theo quy định tại khoản 1 Điều 21 của Luật Thực hiện dân chủ ở cơ sở.
+
+c) Đối với việc phát phiếu lấy ý kiến về nội dung có phạm vi thực hiện trong địa bàn cấp xã, Trưởng thôn, Tổ trưởng tổ dân phố báo cáo Ủy ban nhân dân cấp xã kết quả phiếu lấy ý kiến ở thôn, tổ dân phố để tổng hợp kết quả chung của toàn cấp xã.
+
+7. Chậm nhất là 05 ngày làm việc kể từ ngày kết thúc thời hạn lấy ý kiến bằng phiếu, quyết định đã được cộng đồng dân cư biểu quyết thông qua phải được gửi đến Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
+
+8. Công nhận kết quả phát phiếu lấy ý kiến và hiệu lực quyết định của cộng đồng dân cư thực hiện theo quy định tại Điều 21 của Luật Thực hiện dân chủ ở cơ sở.
+
+Phu luc_ban hanh kem theo NĐ so 59_2023_ND-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.15. Những nội dung Nhân dân bàn và quyết định; Điều 44.13.LQ.19. Phát phiếu lấy ý kiến của hộ gia đình; Điều 44.13.LQ.21. Hiệu lực của quyết định của cộng đồng dân cư)
 
 Điều 44.13.NĐ.1.5. Biểu quyết trực tuyến tại thôn, tổ dân phố để Nhân dân bàn và quyết định
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000190000000000000000000402847000590000500
+1. Điều kiện tổ chức biểu quyết trực tuyến tại thôn, tổ dân phố
 
-**ID:** dk_00072088
+a) Các nội dung quy định tại khoản 6 Điều 15 của Luật Thực hiện dân chủ ở cơ sở phải được Trưởng thôn, Tổ trưởng tổ dân phố thống nhất với Ban công tác Mặt trận ở thôn, tổ dân phố về việc không cần thiết tổ chức cuộc họp của cộng đồng dân cư hoặc phát phiếu lấy ý kiến của từng hộ gia đình.
 
----
+b) Được cộng đồng dân cư thống nhất lựa chọn theo quy định tại điểm c khoản 2 Điều này.
 
+c) Đại diện các hộ gia đình có thiết bị điện tử hoặc điện thoại thông minh có kết nối internet để thực hiện biểu quyết trực tuyến và phù hợp với mức độ ứng dụng công nghệ thông tin tại địa phương.
 
-### Điều 44.13.LQ.20. Quyết định của cộng đồng dân cư
+2. Chuẩn bị biểu quyết trực tuyến
 
-*Nội dung chưa có sẵn*
+a) Trưởng thôn, Tổ trưởng tổ dân phố phối hợp với Ban công tác Mặt trận ở thôn, tổ dân phố báo cáo Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã trước khi thực hiện.
 
-**Chỉ mục:** 20
+b) Trưởng thôn, Tổ trưởng tổ dân phố thành lập Tổ lấy ý kiến biểu quyết trực tuyến từ 03 đến 05 người gồm: đại diện thôn, tổ dân phố, Ban công tác Mặt trận ở thôn, tổ dân phố, đại diện hộ gia đình và người sử dụng thành thạo về ứng dụng công nghệ thông tin tham gia tổ chức biểu quyết trực tuyến. Tổ trưởng Tổ lấy ý kiến biểu quyết trực tuyến là đại diện Ban công tác Mặt trận ở thôn, tổ dân phố.
 
-**Mã phân cấp:** 440130000000000020000020000000000000000002000000000000000000
+c) Tổ lấy ý kiến biểu quyết trực tuyến lựa chọn mạng xã hội hoạt động hợp pháp theo quy định của pháp luật để tạo nhóm mạng xã hội của thôn, tổ dân phố và mời đại diện hộ gia đình tham gia; tạo bình chọn trong nhóm mạng xã hội của thôn, tổ dân phố để lấy ý kiến của đại diện hộ gia đình về hình thức biểu quyết trực tuyến.
 
-**ID:** dk_00072089
+Thông tin của đại diện hộ gia đình tham gia nhóm mạng xã hội của thôn, tổ dân phố gồm: Họ và tên, địa chỉ thường trú.
 
----
+Việc tổ chức biểu quyết trực tuyến được thực hiện khi có trên 50% tổng số đại diện hộ gia đình trong thôn, tổ dân phố lựa chọn đồng ý bằng hình thức biểu quyết trực tuyến.
 
+d) Tổ lấy ý kiến biểu quyết trực tuyến tạo nội dung bình chọn gồm: Nội dung biểu quyết, hình thức biểu quyết (đồng ý, không đồng ý và ý kiến khác). Nội dung bình chọn phải ngắn gọn, rõ ràng, đơn giản, dễ hiểu, dễ thao tác.
 
-### Điều 44.13.LQ.21. Hiệu lực của quyết định của cộng đồng dân cư
+3. Tiến hành biểu quyết trực tuyến
+
+Tổ lấy ý kiến biểu quyết trực tuyến thông báo cụ thể về hình thức, nội dung, thời gian biểu quyết trực tuyến và hướng dẫn đại diện các hộ gia đình truy cập nhóm mạng xã hội của thôn, tổ dân phố để thực hiện biểu quyết. Trường hợp đại diện hộ gia đình cần hỗ trợ thì liên hệ Tổ lấy ý kiến biểu quyết trực tuyến để được hướng dẫn chi tiết.
+
+4. Tổng hợp, báo cáo kết quả biểu quyết trực tuyến
+
+a) Tổ lấy ý kiến biểu quyết trực tuyến theo dõi, tổng hợp, lập thành biên bản và báo cáo Trưởng thôn, Tổ trưởng tổ dân phố kết quả tại thời điểm kết thúc biểu quyết trực tuyến gồm: thời gian bắt đầu, thời gian kết thúc, tổng số đại diện hộ gia đình tham gia biểu quyết, tổng số đại diện hộ gia đình đồng ý, tổng số hộ gia đình không đồng ý, các ý kiến khác (nếu có) về nội dung lấy ý kiến biểu quyết trực tuyến và kèm theo bản chụp kết quả biểu quyết trực tuyến, danh sách đại diện các hộ gia đình tham gia biểu quyết trực tuyến.
+
+b) Kết quả biểu quyết trực tuyến được lập thành biên bản theo Mẫu số 03 kèm theo Nghị định này; được thông qua khi có trên 50% tổng số đại diện hộ gia đình trong thôn, tổ dân phố lựa chọn đồng ý và được niêm yết công khai tại nhà văn hóa, các điểm sinh hoạt cộng đồng của thôn, tổ dân phố, thông báo trên hệ thống phát thanh, trên nhóm mạng xã hội của thôn, tổ dân phố hoặc bằng các hình thức khác phù hợp với thực tế của thôn, tổ dân phố.
+
+Quyết định của cộng đồng dân cư được gửi tới Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã chậm nhất là 05 ngày làm việc kể từ khi kết thúc biểu quyết trực tuyến.
+
+5. Trường hợp Trưởng thôn, Tổ trưởng tổ dân phố lựa chọn sử dụng tiện ích, ứng dụng hợp pháp khác theo quy định của pháp luật để biểu quyết trực tuyến thì trình tự thực hiện biểu quyết trực tuyến theo quy định tại khoản 1, 2, 3 và 4 Điều này.
+
+6. Ủy ban nhân dân cấp tỉnh xây dựng và hướng dẫn sử dụng ứng dụng biểu quyết trực tuyến trên trang thông tin điện tử để các thôn, tổ dân phố lựa chọn và tổ chức biểu quyết trực tuyến đối với các nội dung Nhân dân bàn và quyết định trên địa bàn.
+
+Phu luc_ban hanh kem theo NĐ so 59_2023_ND-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.15. Những nội dung Nhân dân bàn và quyết định)
+
+Điều 44.13.LQ.20. Quyết định của cộng đồng dân cư
+
+(Điều 20 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+1. Quyết định của cộng đồng dân cư được thể hiện bằng văn bản dưới hình thức nghị quyết, biên bản cuộc họp, bản ghi nhớ, bản thỏa thuận của cộng đồng dân cư. Trường hợp pháp luật không quy định cụ thể về hình thức văn bản thì Trưởng thôn, Tổ trưởng tổ dân phố lựa chọn hình thức văn bản của cộng đồng dân cư phù hợp với nội dung quyết định và phong tục, tập quán, điều kiện thực tế của cộng đồng dân cư sau khi thống nhất với Trưởng ban công tác Mặt trận ở thôn, tổ dân phố.
+
+2. Quyết định của cộng đồng dân cư gồm các nội dung chủ yếu sau đây:
+
+a) Thời gian cộng đồng dân cư bàn và quyết định;
+
+b) Tổng số hộ gia đình thuộc cộng đồng dân cư; số người đại diện hộ gia đình có mặt; số hộ gia đình không có người đại diện tham dự;
+
+c) Nội dung cộng đồng dân cư bàn;
+
+d) Hình thức cộng đồng dân cư quyết định;
+
+đ) Kết quả biểu quyết tại cuộc họp hoặc tổng hợp phiếu lấy ý kiến, kết quả biểu quyết trực tuyến của hộ gia đình;
+
+e) Nội dung quyết định của cộng đồng dân cư;
+
+g) Chữ ký của Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở thôn, tổ dân phố và 02 đại diện của các hộ gia đình.
+
+3. Chậm nhất là 05 ngày làm việc kể từ ngày cộng đồng dân cư tổ chức họp biểu quyết hoặc kể từ ngày kết thúc thời hạn lấy ý kiến bằng phiếu, biểu quyết trực tuyến, quyết định đã được cộng đồng dân cư biểu quyết thông qua phải được gửi đến Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.3. Tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định; Điều 44.13.NĐ.2.11. Công nhận hương ước, quy ước)
 
 Điều 44.13.LQ.21. Hiệu lực của quyết định của cộng đồng dân cư
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000002100000000000000000
+1. Quyết định của cộng đồng dân cư về nội dung quy định tại khoản 1 và khoản 2 Điều 15 của Luật này được thông qua khi có từ hai phần ba tổng số đại diện hộ gia đình trở lên trong thôn, tổ dân phố tán thành.
 
-**ID:** dk_00072090
+Quyết định của cộng đồng dân cư về nội dung quy định tại khoản 1 và khoản 2 Điều 15 của Luật này có phạm vi thực hiện trong địa bàn cấp xã được thông qua khi có từ hai phần ba tổng số thôn, tổ dân phố trở lên tán thành.
 
----
+Quyết định của cộng đồng dân cư về nội dung quy định tại các khoản 3, 4, 5 và 6 Điều 15 của Luật này được thông qua khi có trên 50% tổng số đại diện hộ gia đình trong thôn, tổ dân phố tán thành.
 
+2. Quyết định của cộng đồng dân cư về nội dung quy định tại các khoản 1, 2 và 6 Điều 15 của Luật này có phạm vi thực hiện trong thôn, tổ dân phố có hiệu lực kể từ ngày được cộng đồng dân cư biểu quyết thông qua.
 
-### Điều 44.13.LQ.22. Sửa đổi, bổ sung, thay thế, bãi bỏ quyết định của cộng đồng dân cư
+Đối với quyết định của cộng đồng dân cư về nội dung quy định tại khoản 1 và khoản 2 Điều 15 của Luật này có phạm vi thực hiện trong địa bàn cấp xã, thì thời điểm có hiệu lực do Ủy ban nhân dân cấp xã quyết định trên cơ sở tổng hợp kết quả biểu quyết của cộng đồng dân cư.
+
+Quyết định của cộng đồng dân cư về nội dung quy định tại khoản 3 và khoản 4 Điều 15 của Luật này có hiệu lực kể từ ngày Ủy ban nhân dân cấp xã ban hành quyết định công nhận.
+
+Quyết định của cộng đồng dân cư về nội dung quy định tại khoản 5 Điều 15 của Luật này có hiệu lực kể từ ngày Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã ban hành quyết định công nhận.
+
+Chậm nhất là 05 ngày làm việc kể từ ngày nhận được quyết định của cộng đồng dân cư, Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã phải ban hành quyết định công nhận; trường hợp không công nhận thì phải trả lời bằng văn bản và nêu rõ lý do.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.4. Tổ chức phát phiếu lấy ý kiến của hộ gia đình để Nhân dân bàn và quyết định; Điều 44.13.NĐ.2.11. Công nhận hương ước, quy ước)
 
 Điều 44.13.LQ.22. Sửa đổi, bổ sung, thay thế, bãi bỏ quyết định của cộng đồng dân cư
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000002200000000000000000
+1. Quyết định của cộng đồng dân cư được sửa đổi, bổ sung, thay thế hoặc bãi bỏ khi thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00072091
+a) Có nội dung trái với quy định của pháp luật, không phù hợp với thuần phong, mỹ tục, đạo đức xã hội;
 
----
+b) Không tuân thủ quy định về trình tự, thủ tục thông qua văn bản của cộng đồng dân cư theo quy định của Luật này và quy định khác của pháp luật có liên quan;
 
+c) Cộng đồng dân cư thấy cần thiết phải sửa đổi, bổ sung, thay thế hoặc bãi bỏ.
 
-### Điều 44.13.LQ.23. Trách nhiệm trong việc tổ chức để Nhân dân bàn, quyết định và thực hiện quyết định của cộng đồng dân cư
+2. Ủy ban nhân dân cấp xã quyết định bãi bỏ quyết định của cộng đồng dân cư đối với trường hợp quy định tại điểm a khoản 1 Điều này. Tùy theo tính chất, mức độ vi phạm, Ủy ban nhân dân cấp xã quyết định bãi bỏ hoặc đề nghị cộng đồng dân cư sửa đổi, bổ sung, thay thế cho phù hợp đối với trường hợp quy định tại điểm b khoản 1 Điều này.
+
+Quyết định bãi bỏ hoặc văn bản đề nghị sửa đổi, bổ sung, thay thế quyết định của cộng đồng dân cư phải được Ủy ban nhân dân cấp xã gửi đến Trưởng thôn, Tổ trưởng tổ dân phố để thông báo đến Nhân dân và được gửi đồng thời đến Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
+
+3. Cộng đồng dân cư tự mình quyết định việc sửa đổi, bổ sung, thay thế, bãi bỏ quyết định của mình khi xét thấy cần thiết hoặc sửa đổi, bổ sung, thay thế quyết định của mình theo đề nghị của Ủy ban nhân dân cấp xã theo trình tự, thủ tục quy định tại các điều 18, 19, 20 và 21 của Luật này.
 
 Điều 44.13.LQ.23. Trách nhiệm trong việc tổ chức để Nhân dân bàn, quyết định và thực hiện quyết định của cộng đồng dân cư
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000002300000000000000000
+1. Ủy ban nhân dân cấp xã có kế hoạch tổ chức để Nhân dân bàn, quyết định các nội dung có phạm vi thực hiện trong địa bàn cấp xã; Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm tổ chức thực hiện quyết định của cộng đồng dân cư thuộc phạm vi cấp xã; kiểm tra, theo dõi việc tổ chức thực hiện quyết định của cộng đồng dân cư có phạm vi thực hiện trong thôn, tổ dân phố.
 
-**ID:** dk_00072092
+Ủy ban nhân dân cấp xã tổng hợp, báo cáo Hội đồng nhân dân cùng cấp về việc tổ chức để Nhân dân bàn, quyết định các nội dung có phạm vi thực hiện trong địa bàn cấp xã tại kỳ họp thường lệ gần nhất, đồng thời gửi đến Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp để giám sát.
 
----
+2. Trưởng thôn, Tổ trưởng tổ dân phố có trách nhiệm công khai kết quả biểu quyết hoặc kết quả tổng hợp phiếu lấy ý kiến của Nhân dân tại thôn, tổ dân phố; tổ chức thực hiện quyết định của cộng đồng dân cư có phạm vi thực hiện trong thôn, tổ dân phố; báo cáo kết quả thực hiện quyết định của cộng đồng dân cư đến Nhân dân ở thôn, tổ dân phố và đến Ủy ban nhân dân cấp xã.
 
+3. Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có trách nhiệm hướng dẫn, giám sát việc tổ chức để Nhân dân bàn, quyết định và thực hiện các nội dung Nhân dân bàn, quyết định.
 
-### Điều 44.13.NĐ.1.6. Công tác chuẩn bị bầu Trưởng thôn, Tổ trưởng tổ dân phố
+4. Chính phủ quy định chi tiết việc tổ chức cuộc họp của cộng đồng dân cư; việc phát phiếu lấy ý kiến của hộ gia đình; việc biểu quyết trực tuyến tại thôn, tổ dân phố; quy trình bầu, cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố; việc xây dựng và thực hiện hương ước, quy ước của cộng đồng dân cư.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 44.13.NĐ.1.6. Công tác chuẩn bị bầu Trưởng thôn, Tổ trưởng tổ dân phố
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847000590000600
+1. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm
 
-**ID:** dk_00072093
+a) Ban hành quyết định tổ chức bầu Trưởng thôn, Tổ trưởng tổ dân phố; chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã xây dựng kế hoạch, hướng dẫn nghiệp vụ và tổ chức triển khai kế hoạch chậm nhất 20 ngày trước ngày tổ chức cuộc họp của cộng đồng dân cư để bầu Trưởng thôn, Tổ trưởng tổ dân phố.
 
----
+b) Ban hành quyết định thành lập Tổ bầu cử chậm nhất 10 ngày trước ngày tổ chức cuộc họp của cộng đồng dân cư để bầu Trưởng thôn, Tổ trưởng tổ dân phố sau khi thống nhất với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
 
+Tổ bầu cử gồm: Đại diện Ban công tác Mặt trận ở thôn, tổ dân phố làm Tổ trưởng; thành viên là đại diện các tổ chức đoàn thể, chính trị - xã hội và đại diện hộ gia đình ở thôn, tổ dân phố (không phải là người ứng cử Trưởng thôn, Tổ trưởng tổ dân phố).
 
-### Điều 44.13.NĐ.1.7. Tiến hành bầu Trưởng thôn, Tổ trưởng tổ dân phố
+Các quyết định phải được thông báo đến Nhân dân ở thôn, tổ dân phố, niêm yết tại nhà văn hóa, nhà sinh hoạt cộng đồng của thôn, tổ dân phố và thông báo trên hệ thống truyền thanh hoặc bằng hình thức khác phù hợp với điều kiện của địa phương chậm nhất 07 ngày trước ngày bầu cử.
+
+2. Trưởng ban công tác Mặt trận ở thôn, tổ dân phố tổ chức cuộc họp Ban công tác Mặt trận ở thôn, tổ dân phố dự kiến danh sách người ứng cử Trưởng thôn, Tổ trưởng tổ dân phố; báo cáo cấp ủy chi bộ thôn, tổ dân phố để thống nhất giới thiệu ít nhất 01 người ra ứng cử Trưởng thôn, Tổ trưởng tổ dân phố; tổ chức cuộc họp Ban công tác Mặt trận ở thôn, tổ dân phố sau khi có ý kiến của chi ủy chi bộ thôn, tổ dân phố để quyết định danh sách chính thức những người ứng cử (ít nhất 01 người). Nội dung cuộc họp phải được lập thành biên bản theo mẫu số 05 kèm theo Nghị định này và gửi tới Ủy ban nhân dân cấp xã chậm nhất 15 ngày trước ngày tổ chức cuộc họp của cộng đồng dân cư.
+
+Phu luc_ban hanh kem theo NĐ so 59_2023_ND-CP.doc
 
 Điều 44.13.NĐ.1.7. Tiến hành bầu Trưởng thôn, Tổ trưởng tổ dân phố
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847000590000700
+Việc tổ chức bầu Trưởng thôn, Tổ trưởng tổ dân phố tại cuộc họp của cộng đồng dân cư thực hiện theo quy định tại Điều 3 Nghị định này.
 
-**ID:** dk_00072094
+Điều 44.13.NĐ.1.8. Công nhận kết quả bầu cử
 
----
+(Điều 8 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
+Trong thời hạn 05 làm việc ngày kể từ ngày nhận được quyết định đã được cộng đồng dân cư biểu quyết thông qua, Ủy ban nhân dân cấp xã xem xét, quyết định công nhận người trúng cử Trưởng thôn, Tổ trưởng tổ dân phố hoặc quyết định bầu lại; trường hợp không ban hành quyết định công nhận hoặc quyết định bầu lại thì phải trả lời bằng văn bản và nêu rõ lý do.
 
-### Điều 44.13.NĐ.1.8. Công nhận kết quả bầu cử
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847000590000800
-
-**ID:** dk_00072095
-
----
-
-
-### Điều 44.13.NĐ.1.9. Quy trình cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố
+Trưởng thôn, Tổ trưởng tổ dân phố chính thức hoạt động khi có quyết định công nhận của Ủy ban nhân dân cấp xã.
 
 Điều 44.13.NĐ.1.9. Quy trình cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847000590000900
+1. Việc cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố được quyết định tại cuộc họp của cộng đồng dân cư đối với các trường hợp:
 
-**ID:** dk_00072096
+a) Người xin thôi làm Trưởng thôn, Tổ trưởng tổ dân phố vì lí do sức khỏe, do hoàn cảnh gia đình hoặc vì lý do khác theo nguyện vọng cá nhân có đơn gửi Chủ tịch Ủy ban nhân dân cấp xã nêu rõ lí do xin thôi.
 
----
+b) Trưởng ban công tác Mặt trận ở thôn, tổ dân phố đề nghị Chủ tịch Ủy ban nhân dân cấp xã xem xét cho thôi trong trường hợp Trưởng thôn, Tổ trưởng tổ dân phố không còn được nhân dân tín nhiệm, không hoàn thành nhiệm vụ, vi phạm quyền làm chủ của nhân dân, tham nhũng, lãng phí, không phục tùng sự chỉ đạo điều hành của Ủy ban nhân dân cấp xã, các quy định của cấp trên, vi phạm pháp luật nhưng chưa đến mức độ bị truy cứu trách nhiệm hình sự hoặc khi có ít nhất 50% tổng số hộ gia đình hoặc đại diện hộ gia đình trong thôn, tổ dân phố kiến nghị.
 
+2. Trình tự tổ chức cuộc họp của cộng đồng dân cư để cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố thực hiện theo quy định tại khoản 5 Điều 3 Nghị định này.
 
-### Điều 44.13.NĐ.2.2. Hương ước, quy ước
+3. Công nhận kết quả cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố
 
-*Nội dung chưa có sẵn*
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định đã được cộng đồng dân cư biểu quyết thông qua, Ủy ban nhân dân cấp xã xem xét, ra quyết định công nhận kết quả cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố. Trường hợp không ban hành quyết định công nhận kết quả cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố thì phải trả lời bằng văn bản và nêu rõ lý do.
 
-**Chỉ mục:** 2
+Trường hợp cuộc họp không thống nhất được việc cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố thì Ủy ban nhân dân cấp xã xem xét, quyết định sau khi thống nhất với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000200
+Trong thời hạn 60 ngày kể từ ngày có quyết định công nhận cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố, Ủy ban nhân dân cấp xã quyết định việc tiến hành bầu Trưởng thôn, Tổ trưởng tổ dân phố mới.
 
-**ID:** dk_00072097
+Trong thời gian khuyết Trưởng thôn, Tổ trưởng tổ dân phố, Ủy ban nhân dân cấp xã thống nhất với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định cử Trưởng thôn, Tổ trưởng tổ dân phố lâm thời để điều hành hoạt động của thôn, tổ dân phố cho đến khi bầu được Trưởng thôn, Tổ trưởng tổ dân phố mới.
 
----
+Điều 44.13.NĐ.2.2. Hương ước, quy ước
 
+(Điều 2 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-### Điều 44.13.NĐ.2.3. Mục đích xây dựng và thực hiện hương ước, quy ước
+Hương ước, quy ước là văn bản quy định về các quy phạm xã hội bao gồm các quy tắc xử sự do cộng đồng dân cư bàn và quyết định; không trái pháp luật và đạo đức xã hội; nhằm điều chỉnh các quan hệ xã hội mang tính tự quản của cộng đồng dân cư và được Ủy ban nhân dân cấp xã công nhận.
 
 Điều 44.13.NĐ.2.3. Mục đích xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000300
+1. Phát huy vai trò tự quản của cộng đồng dân cư trong việc giữ gìn trật tự, an toàn xã hội, bảo vệ tài nguyên thiên nhiên, môi trường gắn với thực hiện dân chủ ở cơ sở, góp phần tích cực hỗ trợ việc quản lý nhà nước bằng pháp luật.
 
-**ID:** dk_00072098
-
----
-
-
-### Điều 44.13.NĐ.2.4. Nguyên tắc xây dựng và thực hiện hương ước, quy ước
+2. Bảo vệ, giữ gìn, phát huy các giá trị văn hóa truyền thống, phong tục, tập quán tốt đẹp; hạn chế và từng bước loại bỏ phong tục, tập quán lạc hậu; xây dựng nếp sống văn minh trong cộng đồng dân cư.
 
 Điều 44.13.NĐ.2.4. Nguyên tắc xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000400
+1. Phù hợp với chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước; không quy định lại các nội dung đã được quy định trong văn bản quy phạm pháp luật.
 
-**ID:** dk_00072099
+2. Xuất phát từ nhu cầu tự quản của người dân, trên cơ sở tự nguyện, thỏa thuận, thống nhất, công khai, minh bạch trong cộng đồng dân cư; phát huy đầy đủ quyền làm chủ của Nhân dân và trách nhiệm của người dân đối với cộng đồng.
 
----
+3. Tôn trọng tính tự chủ, tính đa dạng văn hóa và quyền tự do tín ngưỡng, tôn giáo của cộng đồng dân cư.
 
-
-### Điều 44.13.NĐ.2.5. Phạm vi nội dung của hương ước, quy ước
+4. Phù hợp với đạo đức xã hội, phong tục, tập quán tốt đẹp; bảo vệ, giữ gìn, phát huy các giá trị văn hóa truyền thống; xây dựng các giá trị văn hóa mới, quy tắc ứng xử văn minh, phù hợp với đặc điểm tình hình của cộng đồng dân cư.
 
 Điều 44.13.NĐ.2.5. Phạm vi nội dung của hương ước, quy ước
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000500
+Tùy theo yêu cầu tự quản, tình hình kinh tế - xã hội, phong tục, tập quán ở từng địa phương, bảo đảm kế thừa có chọn lọc các nội dung phù hợp của hương ước, quy ước đã có và mục đích, nguyên tắc quy định tại các điều 3 và 4 Nghị định này, cộng đồng dân cư lựa chọn một hoặc một số nội dung sau để đưa vào phạm vi của hương ước, quy ước:
 
-**ID:** dk_00072100
+1. Các biện pháp, phương thức thích hợp giúp người dân trên địa bàn tham gia quản lý nhà nước, quản lý xã hội, bảo đảm và phát huy quyền tự do, dân chủ của cộng đồng dân cư; động viên và tạo điều kiện để cộng đồng dân cư thực hiện tốt các quyền và nghĩa vụ của công dân.
 
----
+2. Các phong tục, tập quán tốt đẹp và biện pháp hạn chế, tiến tới xóa bỏ phong tục, tập quán lạc hậu, mê tín dị đoan; bảo tồn, phát huy giá trị di sản văn hóa dân tộc; thực hiện nếp sống văn minh trong ứng xử, giao tiếp, ăn, ở, đi lại, việc cưới, việc tang và lễ hội; phòng, chống bạo lực gia đình, xây dựng hạnh phúc gia đình; phát triển các hoạt động văn hóa lành mạnh.
 
+3. Các biện pháp góp phần bảo vệ tài sản của Nhà nước, cộng đồng và công dân; bảo vệ môi trường sinh thái; bảo đảm an ninh, trật tự, phòng, chống các tệ nạn xã hội trên địa bàn; xây dựng và phát huy tình làng, nghĩa xóm, tinh thần đoàn kết, tương thân, tương ái, hỗ trợ, giúp đỡ lẫn nhau trong cộng đồng dân cư; xoá đói, giảm nghèo, phát triển kinh tế, nâng cao đời sống; khuyến học, khuyến tài, thúc đẩy phong trào học tập suốt đời; đẩy mạnh hướng nghiệp, đào tạo nghề, khuyến công, khuyến nông ở địa phương.
 
-### Điều 44.13.NĐ.2.6. Hình thức của hương ước, quy ước
+4. Các biện pháp thưởng, phạt phù hợp để bảo đảm thực hiện hương ước, quy ước nhưng không thay thế các biện pháp xử lý theo quy định của pháp luật.
+
+5. Các nội dung cần thiết khác do cộng đồng dân cư quyết định.
 
 Điều 44.13.NĐ.2.6. Hình thức của hương ước, quy ước
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000600
+1. Hương ước, quy ước được thể hiện dưới hình thức văn bản, có chữ ký xác nhận của Trưởng thôn (Tổ trưởng tổ dân phố), Trưởng ban công tác Mặt trận ở cộng đồng dân cư và 02 (hai) đại diện của các hộ gia đình trong cộng đồng dân cư; khuyến khích đại diện là già làng, trưởng bản, người có uy tín trong cộng đồng dân cư. Hương ước, quy ước sau khi được công nhận có đóng dấu giáp lai của Ủy ban nhân dân cấp xã.
 
-**ID:** dk_00072101
+2. Việc lựa chọn tên gọi “Hương ước” hoặc “Quy ước” do cộng đồng dân cư thống nhất, quyết định.
 
----
+3. Hương ước, quy ước có thể được chia thành lời nói đầu, chương, mục, điều, khoản, điểm hoặc kết cấu khác phù hợp với nội dung; được trình bày ngắn gọn, rõ ràng, cụ thể, dễ hiểu, dễ nhớ, dễ thực hiện.
 
+4. Ngôn ngữ trong hương ước, quy ước là tiếng Việt.
 
-### Điều 44.13.NĐ.2.7. Đề xuất nội dung hương ước, quy ước
+5. Trường hợp cộng đồng dân cư có nhiều dân tộc của Việt Nam cùng sinh sống và sử dụng nhiều ngôn ngữ khác nhau thì việc dịch hương ước, quy ước từ tiếng Việt sang tiếng của một, một số hoặc tất cả các dân tộc đó do cộng đồng dân cư quyết định khi soạn thảo, lấy ý kiến, thông qua theo quy định tại các điều 8, 9 và 10 Nghị định này.
 
 Điều 44.13.NĐ.2.7. Đề xuất nội dung hương ước, quy ước
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000700
+Việc đề xuất nội dung hương ước, quy ước được thực hiện bằng một trong các hình thức sau:
 
-**ID:** dk_00072102
+1. Trường hợp Trưởng thôn hoặc Tổ trưởng tổ dân phố đề xuất nội dung cơ bản dự kiến quy định trong hương ước, quy ước thì phải thống nhất với Trưởng ban công tác Mặt trận ở cộng đồng dân cư trước khi đưa ra cộng đồng dân cư bàn và quyết định.
 
----
+2. Trường hợp công dân cư trú tại cộng đồng dân cư đề xuất nội dung cơ bản dự kiến quy định trong hương ước, quy ước thì phải đề nghị Trưởng thôn hoặc Tổ trưởng tổ dân phố phối hợp với Trưởng ban công tác Mặt trận ở cộng đồng dân cư thực hiện lấy ý kiến bằng một trong các hình thức sau:
 
+a) Phát phiếu lấy ý kiến của hộ gia đình tại cộng đồng dân cư theo quy định tại các khoản 2 và 3 Điều 19 Luật Thực hiện dân chủ ở cơ sở;
 
-### Điều 44.13.NĐ.2.8. Soạn thảo nội dung hương ước, quy ước
+b) Thu thập ý kiến đồng thuận bằng hình thức trực tiếp tại cuộc họp của cộng đồng dân cư theo quy định tại Điều 18 Luật Thực hiện dân chủ ở cơ sở;
+
+c) Biểu quyết trực tuyến hoặc hình thức khác phù hợp với mức độ ứng dụng công nghệ thông tin và được cộng đồng dân cư thống nhất lựa chọn.
+
+3. Trường hợp đề xuất của công dân quy định tại khoản 2 Điều này được 10% trở lên tổng số hộ gia đình tại cộng đồng dân cư đồng thuận thì Trưởng thôn hoặc Tổ trưởng tổ dân phố đưa ra cộng đồng dân cư bàn và quyết định.
+
+Trường hợp đề xuất của công dân quy định tại khoản 2 Điều này chưa đạt 10% tổng số hộ gia đình tại cộng đồng dân cư đồng thuận nhưng xét thấy có thể mang lại lợi ích cho cộng đồng dân cư và được Ban công tác Mặt trận ở cộng đồng dân cư tán thành thì Trưởng thôn hoặc Tổ trưởng tổ dân phố đưa ra cộng đồng dân cư bàn và quyết định.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.18. Tổ chức cuộc họp của cộng đồng dân cư; Điều 44.13.LQ.19. Phát phiếu lấy ý kiến của hộ gia đình)
 
 Điều 44.13.NĐ.2.8. Soạn thảo nội dung hương ước, quy ước
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000800
+Việc soạn thảo hương ước, quy ước sau khi đề xuất nội dung được thực hiện như sau:
 
-**ID:** dk_00072103
+1. Trưởng thôn hoặc Tổ trưởng tổ dân phố chủ trì, phối hợp với Trưởng ban công tác Mặt trận ở cộng đồng dân cư lựa chọn người tham gia và thành lập Tổ soạn thảo hương ước, quy ước.
 
----
+2. Tổ soạn thảo hương ước, quy ước bao gồm các thành viên là đại diện các tổ chức chính trị - xã hội, tổ chức xã hội - nghề nghiệp, người có uy tín trong cộng đồng dân cư, người có phẩm chất đạo đức tốt, kinh nghiệm sống và hiểu biết về pháp luật, văn hóa, phong tục, tập quán của địa phương. Đối với cộng đồng dân cư vùng đồng bào dân tộc thiểu số thì Tổ soạn thảo phải có thành viên là già làng, trưởng bản và người biết tiếng dân tộc.
 
-
-### Điều 44.13.NĐ.2.9. Lấy ý kiến dự thảo hương ước, quy ước
+3. Theo sự điều hành của Trưởng thôn hoặc Tổ trưởng tổ dân phố, Tổ soạn thảo có trách nhiệm tổ chức soạn thảo hương ước, quy ước theo quy định tại các điều 3, 4, 5 và 6 và lấy ý kiến, thông qua, chuẩn bị hồ sơ công nhận hương ước, quy ước theo quy định tại các điều 9, 10 và 11 Nghị định này.
 
 Điều 44.13.NĐ.2.9. Lấy ý kiến dự thảo hương ước, quy ước
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610000900
+1. Dự thảo hương ước, quy ước trước khi đưa ra cộng đồng dân cư bàn, biểu quyết thông qua phải được niêm yết công khai tại nhà văn hóa - khu thể thao của cộng đồng dân cư, bảng tin công cộng, điểm sinh hoạt cộng đồng hoặc địa điểm khác bảo đảm thuận tiện để hộ gia đình, công dân cư trú tại cộng đồng dân cư tiếp cận, tìm hiểu và góp ý. Thời hạn niêm yết do cộng đồng dân cư quyết định nhưng không ít hơn 30 (ba mươi) ngày, kể từ ngày niêm yết.
 
-**ID:** dk_00072104
+2. Trưởng thôn hoặc Tổ trưởng tổ dân phố tổ chức lấy ý kiến của hộ gia đình, công dân cư trú tại cộng đồng dân cư về dự thảo hương ước, quy ước bằng một hoặc một số hình thức sau đây:
 
----
+a) Sao gửi dự thảo hương ước, quy ước đến từng hộ gia đình;
 
+b) Thông qua mạng viễn thông, mạng xã hội hoạt động hợp pháp theo quy định của pháp luật đã được cộng đồng dân cư thống nhất lựa chọn, bảo đảm phù hợp với mức độ ứng dụng công nghệ thông tin tại cộng đồng dân cư;
 
-### Điều 44.13.NĐ.2.10. Thông qua hương ước, quy ước
+c) Mở hòm thư tiếp nhận ý kiến góp ý;
 
-*Nội dung chưa có sẵn*
+d) Lấy ý kiến trong cuộc họp, hội nghị của cộng đồng dân cư, sinh hoạt của tổ chức chính trị, tổ chức chính trị - xã hội và các tổ chức, đoàn thể khác ở cộng đồng dân cư hoặc hình thức phù hợp khác.
 
-**Chỉ mục:** 10
+Việc lựa chọn hình thức lấy ý kiến do Trưởng thôn hoặc Tổ trưởng tổ dân phố chủ trì, phối hợp với Trưởng ban công tác Mặt trận ở cộng đồng dân cư quyết định và thực hiện phù hợp với điều kiện thực tế ở cộng đồng dân cư.
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001000
+3. Trong trường hợp cần thiết, Trưởng thôn hoặc Tổ trưởng tổ dân phố có thể lấy ý kiến của cơ quan, tổ chức có liên quan bằng văn bản.
 
-**ID:** dk_00072105
+4. Tổ soạn thảo hương ước, quy ước có trách nhiệm tổng hợp, hoàn thiện dự thảo hương ước, quy ước trên cơ sở ý kiến của hộ gia đình, công dân cư trú tại cộng đồng dân cư, cơ quan, tổ chức có liên quan.
 
----
+Điều 44.13.NĐ.2.10. Thông qua hương ước, quy ước
 
+(Điều 10 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-### Điều 44.13.NĐ.2.11. Công nhận hương ước, quy ước
+Hương ước, quy ước được thông qua khi có trên 50% tổng số đại diện hộ gia đình trong cộng đồng dân cư tán thành và được thực hiện bằng một trong các hình thức như sau:
 
-*Nội dung chưa có sẵn*
+1. Thông qua tại cuộc họp của cộng đồng dân cư theo các quy định sau:
 
-**Chỉ mục:** 11
+a) Phải có đại diện của trên 50% tổng số hộ gia đình tại cộng đồng dân cư tham dự họp;
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001100
+b) Trình tự, thủ tục tổ chức cuộc họp thực hiện theo quy định tại Điều 18 Luật Thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072106
+2. Thông qua bằng hình thức phát phiếu lấy ý kiến từng hộ gia đình trong cộng đồng dân cư theo các quy định sau:
 
----
+a) Chỉ lấy ý kiến sau khi cuộc họp của cộng đồng dân cư không thể thực hiện được do không đạt tỷ lệ quy định tại điểm a khoản 1 Điều này;
 
+b) Kết quả lấy ý kiến phải công khai sau khi tổng hợp bằng hình thức phù hợp do Trưởng thôn hoặc Tổ trưởng tổ dân phố lựa chọn;
 
-### Điều 44.13.NĐ.2.12. Tạm ngừng thực hiện hương ước, quy ước
+c) Trình tự, thủ tục lấy ý kiến thực hiện theo quy định tại Điều 19 Luật Thực hiện dân chủ ở cơ sở.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.18. Tổ chức cuộc họp của cộng đồng dân cư; Điều 44.13.LQ.19. Phát phiếu lấy ý kiến của hộ gia đình)
+
+Điều 44.13.NĐ.2.11. Công nhận hương ước, quy ước
+
+(Điều 11 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
+
+1. Ủy ban nhân dân cấp xã có thẩm quyền công nhận hương ước, quy ước.
+
+2. Hương ước, quy ước được công nhận khi có đủ các điều kiện sau đây:
+
+a) Phạm vi nội dung, hình thức phù hợp với quy định tại các điều 5 và 6 Nghị định này;
+
+b) Tuân thủ nguyên tắc, trình tự, thủ tục quy định tại các điều 4, 7, 8, 9 và 10 Nghị định này.
+
+3. Trình tự, thủ tục công nhận hương ước, quy ước thực hiện theo quy định tại các điều 20 và 21 Luật Thực hiện dân chủ ở cơ sở và quy định sau:
+
+a) Trưởng thôn hoặc Tổ trưởng tổ dân phố gửi hồ sơ đề nghị công nhận hương ước, quy ước tới Ủy ban nhân dân cấp xã chậm nhất sau 05 (năm) ngày làm việc, kể từ ngày tổ chức cuộc họp cộng đồng dân cư thông qua hương ước, quy ước hoặc ngày kết thúc thời hạn lấy ý kiến bằng phiếu;
+
+b) Sau khi tiếp nhận hồ sơ đề nghị công nhận hương ước, quy ước, công chức Văn hóa - Xã hội cấp xã chủ trì, phối hợp với công chức Tư pháp - Hộ tịch tham mưu trình Ủy ban nhân dân cấp xã ban hành quyết định công nhận trong thời hạn chậm nhất là 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị; trường hợp cần thiết, công chức Văn hóa - Xã hội đề nghị Chủ tịch Ủy ban nhân dân cấp xã chủ trì họp với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Trưởng thôn hoặc Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở cộng đồng dân cư để xem xét, quyết định công nhận. Quyết định công nhận hương ước, quy ước thực hiện theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này.
+
+Trường hợp không công nhận hương ước, quy ước thì Ủy ban nhân dân cấp xã phải trả lời bằng văn bản và nêu rõ lý do.
+
+4. Hồ sơ đề nghị công nhận hương ước, quy ước bao gồm:
+
+a) Văn bản đề nghị công nhận của Trưởng thôn hoặc Tổ trưởng tổ dân phố theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này;
+
+b) Nghị quyết hoặc biên bản cuộc họp hoặc biên bản lấy ý kiến thông qua hương ước, quy ước theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này;
+
+c) Dự thảo hương ước, quy ước đã được thông qua.
+
+5. Hương ước, quy ước của cộng đồng dân cư có hiệu lực thi hành kể từ ngày Ủy ban nhân dân cấp xã ban hành quyết định công nhận.
+
+Phu luc_ban hanh kem theo NĐ so 61_2023_ND-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.20. Quyết định của cộng đồng dân cư; Điều 44.13.LQ.21. Hiệu lực của quyết định của cộng đồng dân cư)
 
 Điều 44.13.NĐ.2.12. Tạm ngừng thực hiện hương ước, quy ước
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001200
+1. Hương ước, quy ước bị tạm ngừng thực hiện toàn bộ đối với trường hợp quy định tại điểm a hoặc một phần đối với trường hợp quy định tại các điểm b và c khoản này:
 
-**ID:** dk_00072107
+a) Không tuân thủ quy định về trình tự, thủ tục soạn thảo, lấy ý kiến và thông qua quy định tại các điều 8, 9 và 10 Nghị định này;
 
----
+b) Có nội dung không phù hợp với mục đích, nguyên tắc xây dựng, thực hiện hương ước, quy ước quy định tại các điều 3 và 4 Nghị định này;
 
+c) Có nội dung không phù hợp với nguyên tắc xây dựng, thực hiện hương ước, quy ước quy định tại Điều 4 Nghị định này mà nếu áp dụng sẽ gây ra thiệt hại, ảnh hưởng nghiêm trọng đến uy tín của cộng đồng dân cư.
 
-### Điều 44.13.NĐ.2.13. Sửa đổi, bổ sung, thay thế hương ước, quy ước
+2. Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận được phản ánh bằng văn bản của Trưởng thôn hoặc Tổ trưởng tổ dân phố, hộ gia đình, công dân cư trú tại cộng đồng dân cư hoặc qua kết quả rà soát, kiểm tra, kiến nghị sau giám sát của các cơ quan, tổ chức liên quan phát hiện các trường hợp quy định tại khoản 1 Điều này, Ủy ban nhân dân cấp xã:
+
+a) Có văn bản gửi người phản ánh, kiến nghị về nội dung phản ánh, kiến nghị không có cơ sở;
+
+b) Ban hành quyết định tạm ngừng thực hiện toàn bộ hương ước, quy ước đồng thời hướng dẫn cộng đồng dân cư tiến hành việc soạn thảo, lấy ý kiến, thông qua hương ước, quy ước để đủ điều kiện đề nghị công nhận theo trình tự, thủ tục quy định tại khoản 3 Điều 11 Nghị định này đối với trường hợp quy định tại điểm a khoản 1 Điều này;
+
+c) Ban hành quyết định tạm ngừng thực hiện một phần hương ước, quy ước đồng thời hướng dẫn cộng đồng dân cư tiến hành việc sửa đổi, bổ sung, thay thế nội dung và công nhận hương ước, quy ước theo quy định tại khoản 4 Điều 13 Nghị định này đối với trường hợp quy định tại các điểm b và c khoản 1 Điều này.
+
+3. Quyết định tạm ngừng thực hiện toàn bộ hoặc một phần hương ước, quy ước phải nêu rõ lý do tạm ngừng thực hiện, thời hạn hoàn tất các thủ tục soạn thảo, lấy ý kiến, thông qua để đề nghị công nhận hương ước, quy ước hoặc thời hạn soạn thảo, lấy ý kiến, thông qua và công nhận nội dung được sửa đổi, bổ sung, thay thế của hương ước, quy ước.
+
+Quyết định tạm ngừng thực hiện hương ước, quy ước thực hiện theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định này.
+
+4. Ủy ban nhân dân cấp xã gửi Quyết định tạm ngừng thực hiện hương ước, quy ước đến Trưởng thôn hoặc Tổ trưởng tổ dân phố để thông báo đến cộng đồng dân cư và đồng thời gửi đến Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
+
+5. Quyết định tạm ngừng thực hiện hương ước, quy ước có hiệu lực thi hành kể từ ngày ký và hết hiệu lực khi có quyết định công nhận hương ước, quy ước đã thực hiện đúng trình tự, thủ tục soạn thảo, lấy ý kiến và thông qua hoặc quyết định công nhận hương ước, quy ước được sửa đổi, bổ sung, thay thế của Ủy ban nhân dân cấp xã có hiệu lực.
+
+6. Đối với trường hợp quy định tại điểm a khoản 1 Điều này thì cộng đồng dân cư hoàn tất các thủ tục soạn thảo, lấy ý kiến, thông qua hương ước, quy ước để được công nhận theo quy định.
+
+Phu luc_ban hanh kem theo NĐ so 61_2023_ND-CP.doc
 
 Điều 44.13.NĐ.2.13. Sửa đổi, bổ sung, thay thế hương ước, quy ước
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001300
+1. Hương ước, quy ước được sửa đổi, bổ sung, thay thế khi thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00072108
+a) Hương ước, quy ước quy định tại các điểm b và c khoản 1 Điều 12 Nghị định này;
 
----
+b) Cộng đồng dân cư thấy cần thiết phải sửa đổi, bổ sung, thay thế.
 
+2. Đối với trường hợp quy định tại điểm a khoản 1 Điều này, cộng đồng dân cư thực hiện sửa đổi, bổ sung, thay thế theo yêu cầu tại quyết định tạm ngừng thực hiện hương ước, quy ước.
 
-### Điều 44.13.NĐ.2.14. Bãi bỏ hương ước, quy ước
+3. Đối với trường hợp quy định tại điểm b khoản 1 Điều này, việc đề xuất nội dung sửa đổi, bổ sung, thay thế thực hiện theo quy định tại Điều 7 Nghị định này.
 
-*Nội dung chưa có sẵn*
+4. Việc soạn thảo, lấy ý kiến, thông qua và công nhận hương ước, quy ước được sửa đổi, bổ sung, thay thế quy định tại khoản 1 Điều này thực hiện theo trình tự, thủ tục quy định tại các điều 8, 9, 10 và 11 Nghị định này.
 
-**Chỉ mục:** 14
+Điều 44.13.NĐ.2.14. Bãi bỏ hương ước, quy ước
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001400
+(Điều 14 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**ID:** dk_00072109
+1. Hương ước, quy ước bị bãi bỏ toàn bộ khi thuộc một trong các trường hợp sau:
 
----
+a) Có nội dung trái với quy định của pháp luật, xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân; không phù hợp với thuần phong, mỹ tục, đạo đức xã hội; gây ảnh hưởng nghiêm trọng đến uy tín của cộng đồng dân cư;
 
+b) Bị tạm ngừng thực hiện theo quy định tại điểm a khoản 1 Điều 12 Nghị định này nhưng đã hết thời hạn phải hoàn tất các thủ tục soạn thảo, lấy ý kiến, thông qua để được công nhận quy định trong quyết định tạm ngừng thực hiện mà cộng đồng dân cư không hoàn tất các thủ tục này;
 
-### Điều 44.13.NĐ.2.15. Thông tin, phổ biến, đánh giá thực hiện hương ước, quy ước
+c) Không bảo đảm tỷ lệ thông qua quy định tại Điều 10 Nghị định này mà cộng đồng dân cư không thực hiện lại việc thông qua để bảo đảm tỷ lệ theo quy định.
+
+2. Hương ước, quy ước bị bãi bỏ một phần khi bị tạm ngừng thực hiện một phần theo quy định tại các điểm b và c khoản 1 Điều 12 Nghị định này nhưng đã hết thời hạn phải sửa đổi, bổ sung, thay thế được quy định trong quyết định tạm ngừng thực hiện mà cộng đồng dân cư không thực hiện việc sửa đổi, bổ sung, thay thế nội dung.
+
+3. Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày nhận được phản ánh bằng văn bản của Trưởng thôn hoặc Tổ trưởng tổ dân phố, hộ gia đình, công dân cư trú tại cộng đồng dân cư hoặc qua kết quả rà soát, kiểm tra, kiến nghị sau giám sát của các cơ quan, tổ chức liên quan phát hiện trường hợp quy định tại khoản 1, khoản 2 Điều này, Ủy ban nhân dân cấp xã:
+
+a) Có văn bản gửi người phản ánh, kiến nghị về nội dung phản ánh, kiến nghị không có cơ sở;
+
+b) Ban hành quyết định bãi bỏ toàn bộ hương ước, quy ước đối với trường hợp quy định tại khoản 1 Điều này;
+
+c) Ban hành quyết định bãi bỏ một phần hương ước, quy ước đối với trường hợp quy định tại khoản 2 Điều này.
+
+4. Quyết định bãi bỏ phải được Ủy ban nhân dân cấp xã gửi đến Trưởng thôn hoặc Tổ trưởng tổ dân phố để thông báo đến cộng đồng dân cư và đồng thời gửi đến Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
+
+Quyết định bãi bỏ hương ước, quy ước thực hiện theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.
+
+Phu luc_ban hanh kem theo NĐ so 61_2023_ND-CP.doc
 
 Điều 44.13.NĐ.2.15. Thông tin, phổ biến, đánh giá thực hiện hương ước, quy ước
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001500
+1. Hương ước, quy ước đã được Ủy ban nhân dân cấp xã công nhận phải được Trưởng thôn hoặc Tổ trưởng tổ dân phố thông tin, phổ biến kịp thời, rộng rãi đến các hộ gia đình, công dân cư trú tại cộng đồng dân cư để biết, thực hiện bằng hình thức niêm yết công khai tại nhà văn hóa - khu thể thao của cộng đồng dân cư, điểm sinh hoạt cộng đồng và ít nhất một trong các hình thức sau đây:
 
-**ID:** dk_00072110
+a) Hội nghị của cộng đồng dân cư;
 
----
+b) Thông tin trên mạng lưới thông tin cơ sở;
 
+c) Sao gửi đến từng hộ gia đình;
 
-### Điều 44.13.NĐ.2.16. Thống kê, báo cáo về xây dựng và thực hiện hương ước, quy ước
+d) Thông qua mạng viễn thông, mạng xã hội hoạt động hợp pháp theo quy định của pháp luật, bảo đảm phù hợp với mức độ ứng dụng công nghệ thông tin tại cộng đồng dân cư;
+
+đ) Thông qua hoạt động phổ biến, giáo dục pháp luật của đội ngũ tuyên truyền viên pháp luật; hoạt động hòa giải cơ sở của đội ngũ hòa giải viên, người có uy tín trong cộng đồng dân cư;
+
+e) Hình thức khác phù hợp với điều kiện thực tế của cộng đồng dân cư.
+
+2. Trưởng thôn hoặc Tổ trưởng tổ dân phố chủ trì, phối hợp với Trưởng ban công tác Mặt trận ở cộng đồng dân cư tổ chức các hoạt động thông tin, phổ biến nội dung của hương ước, quy ước cho hộ gia đình, công dân cư trú tại cộng đồng dân cư.
+
+3. Ủy ban nhân dân các cấp, các cơ quan, tổ chức hỗ trợ cộng đồng dân cư tổ chức thông tin, phổ biến, truyền thông và thực hiện hương ước, quy ước.
+
+4. Việc rà soát, đánh giá thực hiện hương ước, quy ước do cộng đồng dân cư thực hiện hằng năm, theo quy định sau:
+
+a) Thời điểm: Ngày hội đại đoàn kết toàn dân tộc (ngày 18 tháng 11) hoặc một ngày quan trọng được cộng đồng dân cư thống nhất;
+
+b) Hình thức: Cuộc họp hoặc lồng ghép trong hội nghị của cộng đồng dân cư do Trưởng thôn hoặc Tổ trưởng tổ dân phố chủ trì, phối hợp với Trưởng ban công tác Mặt trận ở cộng đồng dân cư;
+
+c) Nội dung: Rà soát nội dung; đánh giá việc thực hiện hương ước, quy ước; kịp thời biểu dương, khen thưởng, động viên; đôn đốc, nhắc nhở, phê bình hộ gia đình, công dân cư trú tại cộng đồng dân cư; đề xuất sửa đổi, bổ sung, thay thế hương ước, quy ước.
 
 Điều 44.13.NĐ.2.16. Thống kê, báo cáo về xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001600
+1. Thống kê, báo cáo về xây dựng, thực hiện hương ước, quy ước bao gồm các nội dung sau:
 
-**ID:** dk_00072111
+a) Tình hình xây dựng, thực hiện hương ước, quy ước (đánh giá cụ thể về những tác động của việc thực hiện hương ước, quy ước đến đời sống của cộng đồng dân cư); những khó khăn, vướng mắc, hạn chế trong xây dựng và thực hiện hương ước, quy ước tại địa phương (nếu có);
 
----
+b) Số lượng hương ước, quy ước được công nhận hoặc không được công nhận;
 
+c) Số lượng hương ước, quy ước được sửa đổi, bổ sung, thay thế;
 
-### Điều 44.13.NĐ.2.17. Trách nhiệm của hộ gia đình, công dân cư trú tại cộng đồng dân cư trong xây dựng và thực hiện hương ước, quy ước
+d) Số lượng hương ước, quy ước bị tạm ngừng thực hiện hoặc bị bãi bỏ;
+
+đ) Các nội dung khác có liên quan (nếu có).
+
+2. Ủy ban nhân dân cấp tỉnh phân công cơ quan đầu mối để tổng hợp, báo cáo trên cơ sở việc thống kê, tổng hợp, báo cáo theo các nội dung quy định tại khoản 1 Điều này của Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện.
+
+3. Trước ngày 30 tháng 11 hằng năm, Ủy ban nhân dân cấp tỉnh gửi Bộ Văn hóa, Thể thao và Du lịch báo cáo về tình hình xây dựng, thực hiện hương ước, quy ước để tổng hợp, báo cáo Thủ tướng Chính phủ.
+
+4. Việc sơ kết, tổng kết về xây dựng, thực hiện hương ước, quy ước thực hiện theo kế hoạch, hướng dẫn của cấp có thẩm quyền.
 
 Điều 44.13.NĐ.2.17. Trách nhiệm của hộ gia đình, công dân cư trú tại cộng đồng dân cư trong xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001700
+1. Hộ gia đình, công dân cư trú tại cộng đồng dân cư có trách nhiệm cử đại diện hộ gia đình tham gia họp bàn, thảo luận, quyết định các nội dung của hương ước, quy ước trong cộng đồng dân cư; thực hiện nghiêm túc các nội dung của hương ước, quy ước đã được cộng đồng dân cư thông qua, Ủy ban nhân dân cấp xã công nhận.
 
-**ID:** dk_00072112
+2. Hộ gia đình, công dân cư trú tại cộng đồng dân cư có trách nhiệm tìm hiểu, tôn trọng, tuân thủ và thực hiện hương ước, quy ước đã được công nhận.
 
----
+3. Khi phát hiện hành vi vi phạm hương ước, quy ước, hộ gia đình, công dân cư trú tại cộng đồng dân cư có trách nhiệm nhắc nhở, đề nghị chấm dứt hành vi vi phạm và khắc phục hậu quả hoặc phản ánh, kiến nghị với Trưởng thôn hoặc Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở cộng đồng dân cư hoặc người đứng đầu các tổ chức chính trị - xã hội của cộng đồng dân cư để xem xét, giải quyết theo quy định.
 
-
-### Điều 44.13.NĐ.2.18. Trách nhiệm của Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp xã trong xây dựng và thực hiện hương ước, quy ước
+4. Khi phát hiện hương ước, quy ước không bảo đảm trình tự, thủ tục đề xuất, soạn thảo, lấy ý kiến, thông qua hoặc có nội dung trái với quy định của pháp luật, không phù hợp với thuần phong, mỹ tục, đạo đức xã hội thì hộ gia đình, công dân cư trú tại cộng đồng dân cư có quyền kiến nghị, phản ánh đến Trưởng thôn hoặc Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở cộng đồng dân cư, Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và Ban Thanh tra nhân dân để rà soát, đề xuất sửa đổi, bổ sung, thay thế, tạm ngừng thực hiện hoặc bãi bỏ hương ước, quy ước.
 
 Điều 44.13.NĐ.2.18. Trách nhiệm của Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp xã trong xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001800
+1. Ủy ban nhân dân cấp xã có trách nhiệm:
 
-**ID:** dk_00072113
+a) Trong thời hạn không quá 02 (hai) ngày làm việc, kể từ ngày ban hành quyết định công nhận, Ủy ban nhân dân cấp xã gửi hương ước, quy ước đã được công nhận cho Trưởng thôn hoặc Tổ trưởng tổ dân phố để tổ chức thực hiện và Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã để tổ chức vận động cộng đồng dân cư thực hiện;
 
----
+b) Kiểm tra, theo dõi việc tổ chức thực hiện hương ước, quy ước tại địa phương;
 
+c) Thực hiện công tác thông tin, tuyên truyền, phổ biến, giáo dục pháp luật về xây dựng và thực hiện hương ước, quy ước; nâng cao nhận thức của cộng đồng dân cư về việc xây dựng và bảo đảm thực hiện hương ước, quy ước đã được công nhận;
 
-### Điều 44.13.NĐ.2.19. Trách nhiệm của Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở cộng đồng dân cư trong xây dựng và thực hiện hương ước, quy ước
+d) Bồi dưỡng, nâng cao năng lực chuyên môn, nghiệp vụ cho người được giao nhiệm vụ tổ chức thực hiện pháp luật về xây dựng và thực hiện hương ước, quy ước;
+
+đ) Hỗ trợ, khuyến khích ứng dụng công nghệ thông tin, khoa học - kỹ thuật, cơ sở vật chất, trang bị phương tiện kỹ thuật và bảo đảm các điều kiện cần thiết khác cho việc xây dựng và tổ chức thực hiện hương ước, quy ước trên địa bàn;
+
+e) Kịp thời biểu dương, khen thưởng các gương điển hình, có nhiều thành tích trong việc xây dựng và tổ chức thực hiện tốt hương ước, quy ước; phát hiện và xử lý nghiêm theo thẩm quyền đối với cơ quan, đơn vị, tổ chức, cá nhân vi phạm pháp luật về xây dựng và thực hiện hương ước, quy ước;
+
+g) Định kỳ hằng năm rà soát các hương ước, quy ước trên địa bàn đã được công nhận để chỉ đạo việc sửa đổi, bổ sung, thay thế, tạm ngừng thực hiện hoặc bãi bỏ nếu cần thiết.
+
+2. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm tổ chức thực hiện hương ước, quy ước trên địa bàn.
 
 Điều 44.13.NĐ.2.19. Trách nhiệm của Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở cộng đồng dân cư trong xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610001900
+1. Trưởng thôn, Tổ trưởng tổ dân phố có trách nhiệm:
 
-**ID:** dk_00072114
+a) Tổ chức thực hiện các công việc đề xuất, soạn thảo, lấy ý kiến, thông qua và đề nghị công nhận hương ước, quy ước của cộng đồng dân cư;
 
----
+b) Tổ chức thực hiện hương ước, quy ước của cộng đồng dân cư sau khi được Ủy ban nhân dân cấp xã công nhận;
 
+c) Tập hợp, phản ánh, đề nghị Ủy ban nhân dân cấp xã giải quyết kiến nghị của cộng đồng dân cư về xây dựng, thực hiện hương ước, quy ước;
 
-### Điều 44.13.NĐ.2.20. Trách nhiệm của các tổ chức, cá nhân liên quan trong xây dựng và thực hiện hương ước, quy ước
+d) Định kỳ hằng năm đánh giá việc thực hiện hương ước, quy ước; rà soát, phát hiện, đề xuất sửa đổi, bổ sung, thay thế hoặc kiến nghị tạm ngừng thực hiện, bãi bỏ hương ước, quy ước;
+
+đ) Thực hiện đề nghị, quyết định của Ủy ban nhân dân cấp xã về sửa đổi, bổ sung, thay thế, tạm ngừng thực hiện hoặc bãi bỏ hương ước, quy ước của cộng đồng dân cư;
+
+e) Hằng năm, báo cáo kết quả xây dựng và thực hiện hương ước, quy ước của cộng đồng dân cư với Ủy ban nhân dân cấp xã.
+
+2. Trưởng ban công tác Mặt trận ở cộng đồng dân cư chủ trì, phối hợp với Trưởng thôn hoặc Tổ trưởng tổ dân phố, người đứng đầu các tổ chức chính trị - xã hội của cộng đồng dân cư vận động hộ gia đình, công dân cư trú tại cộng đồng dân cư trong xây dựng, thực hiện hương ước, quy ước; vận động xóa bỏ, không áp dụng phong tục, tập quán lạc hậu, trái pháp luật, trái đạo đức xã hội.
 
 Điều 44.13.NĐ.2.20. Trách nhiệm của các tổ chức, cá nhân liên quan trong xây dựng và thực hiện hương ước, quy ước
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610002000
+1. Ủy ban Mặt trận Tổ quốc Việt Nam các cấp và các tổ chức thành viên của Mặt trận tuyên truyền, vận động Nhân dân tham gia xây dựng, thực hiện và giám sát việc thực hiện hương ước, quy ước và pháp luật về xây dựng, thực hiện hương ước, quy ước.
 
-**ID:** dk_00072115
+2. Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có trách nhiệm hướng dẫn, giám sát việc tổ chức để cộng đồng dân cư bàn, quyết định và thực hiện các nội dung của hương ước, quy ước trên địa bàn.
 
----
+3. Các cơ quan, đơn vị, tổ chức liên quan trên địa bàn thuộc phạm vi thực hiện hương ước, quy ước đề cao vai trò nêu gương của người đứng đầu, cán bộ lãnh đạo, quản lý, cán bộ, công chức, viên chức, người lao động thuộc phạm vi quản lý trong việc thực hiện và phối hợp, hỗ trợ bảo đảm thực hiện hương ước, quy ước.
 
+4. Hòa giải viên ở cơ sở tham khảo, vận dụng hương ước, quy ước để hòa giải các mâu thuẫn, tranh chấp trong quá trình hòa giải tại cơ sở theo quy định của pháp luật về hòa giải ở cơ sở.
 
-### Điều 44.13.NĐ.2.21. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+5. Đội ngũ báo cáo viên, tuyên truyền viên pháp luật các cấp tuyên truyền, phổ biến pháp luật về xây dựng và thực hiện hương ước, quy ước trong cộng đồng dân cư.
+
+6. Khuyến khích già làng, trưởng bản, người đứng đầu dòng họ, người cao tuổi, chức sắc tôn giáo và những cá nhân có uy tín khác trong cộng đồng dân cư nêu gương, tuyên truyền, vận động, nhắc nhở hộ gia đình, công dân cư trú tại cộng đồng dân cư thực hiện hương ước, quy ước.
 
 Điều 44.13.NĐ.2.21. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610002100
+1. Bộ Văn hóa, Thể thao và Du lịch là cơ quan chịu trách nhiệm trước Chính phủ về công tác quản lý nhà nước về xây dựng và thực hiện hương ước, quy ước có nhiệm vụ:
 
-**ID:** dk_00072116
+a) Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành các văn bản quy phạm pháp luật về xây dựng và thực hiện hương ước, quy ước;
 
----
+b) Chỉ đạo, hướng dẫn, theo dõi việc triển khai thực hiện pháp luật về xây dựng và thực hiện hương ước, quy ước;
 
+c) Tuyên truyền, phổ biến, giáo dục pháp luật về xây dựng và thực hiện hương ước, quy ước;
 
-### Điều 44.13.NĐ.2.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+d) Tập huấn, bồi dưỡng nghiệp vụ về xây dựng và thực hiện hương ước, quy ước;
+
+đ) Hướng dẫn việc ghi nhận các phong tục, tập quán tiến bộ; vận động xóa bỏ, không áp dụng phong tục, tập quán lạc hậu trong hương ước, quy ước;
+
+e) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo, trả lời kiến nghị, phản ánh, khen thưởng và xử lý vi phạm trong thực hiện pháp luật về xây dựng và thực hiện hương ước, quy ước trong phạm vi cả nước;
+
+g) Thống kê, báo cáo, sơ kết, tổng kết về xây dựng, thực hiện hương ước, quy ước trong phạm vi cả nước.
+
+2. Bộ Tư pháp phối hợp với Bộ Văn hóa, Thể thao và Du lịch, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và các cơ quan, tổ chức liên quan trong việc chỉ đạo, hướng dẫn hoạt động kiểm tra, xử lý hoặc kiến nghị xử lý hương ước, quy ước có nội dung trái pháp luật, xâm phạm các quyền con người, quyền công dân.
+
+3. Ủy ban Dân tộc phối hợp với Bộ Văn hóa, Thể thao và Du lịch hướng dẫn việc ghi nhận các phong tục, tập quán tiến bộ; vận động xóa bỏ, không áp dụng phong tục, tập quán lạc hậu trong hương ước, quy ước ở vùng đồng bào dân tộc thiểu số.
+
+4. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch chỉ đạo, hướng dẫn việc xây dựng và thực hiện hương ước, quy ước phù hợp với lĩnh vực được giao quản lý.
 
 Điều 44.13.NĐ.2.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610002200
+1. Thực hiện quản lý nhà nước về xây dựng và thực hiện hương ước, quy ước của cộng đồng dân cư trên địa bàn.
 
-**ID:** dk_00072117
+2. Chỉ đạo cơ quan chuyên môn liên quan thuộc Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân các cấp theo phân cấp thực hiện quản lý nhà nước về xây dựng và thực hiện hương ước, quy ước tại Nghị định này và các quy định pháp luật khác có liên quan.
 
----
+3. Căn cứ điều kiện thực tiễn và khả năng cân đối ngân sách địa phương, đề nghị Hội đồng nhân dân cấp tỉnh quyết định việc hỗ trợ kinh phí xây dựng và thực hiện hương ước, quy ước của cộng đồng dân cư trên địa bàn từ nguồn ngân sách của địa phương theo quy định của pháp luật.
 
+Điều 44.13.NĐ.2.23. Kinh phí thực hiện
 
-### Điều 44.13.NĐ.2.23. Kinh phí thực hiện
+(Điều 23 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-*Nội dung chưa có sẵn*
+1. Ngân sách nhà nước bảo đảm kinh phí hoạt động quản lý nhà nước và hỗ trợ cộng đồng dân cư về xây dựng, thực hiện hương ước, quy ước theo quy định của pháp luật về ngân sách nhà nước và phân cấp ngân sách hiện hành.
 
-**Chỉ mục:** 23
+2. Kinh phí xây dựng, thực hiện hương ước, quy ước do cộng đồng dân cư tự bảo đảm.
 
-**Mã phân cấp:** 44013000000000002000002000000000000000000230000000000000000000402847200610002300
-
-**ID:** dk_00072118
-
----
-
-
-### Điều 44.13.LQ.24. Trách nhiệm của Nhân dân trong việc tham gia bàn, quyết định các nội dung, công việc ở cơ sở
+3. Khuyến khích tổ chức, cá nhân hỗ trợ, đóng góp kinh phí, điều kiện cần thiết khác trong xây dựng, thực hiện hương ước, quy ước theo quy định của pháp luật.
 
 Điều 44.13.LQ.24. Trách nhiệm của Nhân dân trong việc tham gia bàn, quyết định các nội dung, công việc ở cơ sở
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000020000000000000000002400000000000000000
+1. Công dân, hộ gia đình tích cực quan tâm đến công việc chung của cộng đồng dân cư; có trách nhiệm tham gia hoặc cử đại diện hộ gia đình tham gia họp bàn, thảo luận, quyết định các nội dung có phạm vi thực hiện trong thôn, tổ dân phố, trong địa bàn cấp xã; thực hiện nghiêm túc các nội dung thuộc trách nhiệm đã được cộng đồng dân cư quyết định.
 
-**ID:** dk_00072119
+2. Đại diện hộ gia đình có trách nhiệm tham dự các cuộc họp của cộng đồng dân cư; tập hợp, nắm bắt ý kiến chung của các thành viên hộ gia đình để phản ánh, tham gia thảo luận tại cuộc họp hoặc thể hiện trên phiếu lấy ý kiến của hộ gia đình; phổ biến, truyền đạt lại cho các thành viên hộ gia đình về kết quả bàn, thảo luận, quyết định của cộng đồng dân cư. Trường hợp thành viên hộ gia đình có ý kiến khác với ý kiến của đại diện hộ gia đình thì được đăng ký tham dự cuộc họp của cộng đồng dân cư để thể hiện ý kiến, quan điểm của mình tại cuộc họp.
 
----
+3. Đảng viên, cán bộ, công chức, viên chức, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố có trách nhiệm tích cực, gương mẫu tham gia bàn và quyết định các nội dung có phạm vi thực hiện trong thôn, tổ dân phố, trong địa bàn cấp xã; có trách nhiệm thực hiện nghiêm túc và tuyên truyền, hướng dẫn, vận động gia đình và các thành viên trong cộng đồng thực hiện các quyết định của cộng đồng dân cư.
 
+4. Trường hợp nhận thấy quyết định của cộng đồng dân cư không bảo đảm trình tự, thủ tục hoặc có nội dung trái với quy định của pháp luật, không phù hợp với thuần phong, mỹ tục, đạo đức xã hội thì công dân có quyền kiến nghị, phản ánh đến Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và Ban Thanh tra nhân dân.
 
-### Điều 44.13.LQ.25. Những nội dung Nhân dân tham gia ý kiến trước khi cơ quan có thẩm quyền quyết định
+Mục 3
+
+NHÂN DÂN THAM GIA Ý KIẾN
 
 Điều 44.13.LQ.25. Những nội dung Nhân dân tham gia ý kiến trước khi cơ quan có thẩm quyền quyết định
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000030000000000000000002500000000000000000
+1. Dự thảo kế hoạch phát triển kinh tế - xã hội của cấp xã; ph­ương án chuyển đổi cơ cấu kinh tế, cơ cấu sản xuất; đề án định canh, định cư, vùng kinh tế mới và phương án phát triển ngành, nghề của cấp xã.
 
-**ID:** dk_00072121
+2. Dự thảo quy hoạch sử dụng đất cấp huyện và phương án điều chỉnh; việc quản lý, sử dụng quỹ đất được giao cho Ủy ban nhân dân cấp xã quản lý.
 
----
+3. Chủ trương, chính sách đầu tư, xây dựng, đất đai, xử lý chất thải và bảo vệ môi trường, đền bù, giải phóng mặt bằng và phương án di dân, tái định canh, định cư đối với việc quyết định đầu tư công dự án quan trọng quốc gia, dự án nhóm A, dự án có quy mô di dân, tái định canh, định cư lớn, dự án có nguy cơ tác động xấu đến môi trường, dự án có ảnh hưởng trực tiếp đến đời sống kinh tế - xã hội của cộng đồng dân cư nơi thực hiện dự án.
 
+4. Dự thảo đề án thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính; dự thảo đề án thành lập, giải thể, nhập, chia, đặt tên, đổi tên thôn, tổ dân phố, ghép cụm dân cư.
 
-### Điều 44.13.LQ.26. Hình thức Nhân dân tham gia ý kiến
+5. Dự thảo quyết định hành chính của Ủy ban nhân dân cấp xã có liên quan đến lợi ích cộng đồng, bao gồm quyết định ban hành hoặc phê duyệt chương trình, kế hoạch, dự án, đề án có nội dung tác động đến môi trường, sức khỏe của cộng đồng, trật tự, an toàn xã hội và những vấn đề khác có ảnh hưởng đến cộng đồng.
+
+6. Dự thảo nhiệm vụ và đồ án quy hoạch chung xây dựng, dự thảo nhiệm vụ và đồ án quy hoạch phân khu, quy hoạch chi tiết xây dựng và quy hoạch chung xây dựng xã, quy hoạch xây dựng điểm dân cư nông thôn.
+
+7. Dự thảo quy chế về thực hiện dân chủ ở xã, phường, thị trấn; dự thảo quy chế thực hiện dân chủ trong từng lĩnh vực, nội dung hoạt động cụ thể ở xã, phường, thị trấn (nếu có).
+
+8. Dự thảo quyết định hành chính có nội dung xác lập nghĩa vụ hoặc làm chấm dứt, hạn chế quyền, lợi ích của đối tượng thi hành là công dân trên địa bàn cấp xã.
+
+9. Các nội dung khác theo quy định của pháp luật, quy chế thực hiện dân chủ ở xã, phường, thị trấn, theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc chính quyền cấp xã thấy cần lấy ý kiến.
 
 Điều 44.13.LQ.26. Hình thức Nhân dân tham gia ý kiến
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000030000000000000000002600000000000000000
+1. Các hình thức lấy ý kiến Nhân dân bao gồm:
 
-**ID:** dk_00072122
+a) Hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân;
 
----
+b) Tổ chức cuộc họp của cộng đồng dân cư;
 
+c) Phát phiếu lấy ý kiến của hộ gia đình;
 
-### Điều 44.13.LQ.27. Việc tổ chức đối thoại, lấy ý kiến công dân là đối tượng thi hành trong trường hợp Ủy ban nhân dân cấp xã ban hành quyết định hành chính có nội dung xác lập nghĩa vụ hoặc làm chấm dứt, hạn chế quyền, lợi ích của đối tượng thi hành
+d) Thông qua hòm thư­ góp ý, đường dây nóng (nếu có);
+
+đ) Thông qua Ban công tác Mặt trận ở thôn, tổ dân phố và các tổ chức chính trị - xã hội ở cơ sở;
+
+e) Thông qua cổng thông tin điện tử, trang thông tin điện tử của chính quyền địa phương cấp xã;
+
+g) Thông qua mạng viễn thông, mạng xã hội hoạt động hợp pháp theo quy định của pháp luật, bảo đảm phù hợp với mức độ ứng dụng công nghệ thông tin tại cấp xã, tại thôn, tổ dân phố;
+
+h) Tổ chức đối thoại, lấy ý kiến công dân là đối tượng thi hành đối với nội dung quy định tại khoản 8 Điều 25 của Luật này.
+
+2. Tùy theo nội dung, tính chất, yêu cầu của việc lấy ý kiến Nhân dân, khả năng, điều kiện đáp ứng thực tế của địa phương và phù hợp với quy chế thực hiện dân chủ ở xã, phường, thị trấn, Ủy ban nhân dân cấp xã quyết định lựa chọn một hoặc một số hình thức quy định tại khoản 1 Điều này để tổ chức lấy ý kiến Nhân dân. Trường hợp pháp luật có quy định về việc áp dụng hình thức, cách thức tổ chức cụ thể để lấy ý kiến của Nhân dân về nội dung nhất định thì việc tổ chức lấy ý kiến Nhân dân, tổng hợp, giải trình, tiếp thu ý kiến tham gia của Nhân dân thực hiện theo quy định đó.
 
 Điều 44.13.LQ.27. Việc tổ chức đối thoại, lấy ý kiến công dân là đối tượng thi hành trong trường hợp Ủy ban nhân dân cấp xã ban hành quyết định hành chính có nội dung xác lập nghĩa vụ hoặc làm chấm dứt, hạn chế quyền, lợi ích của đối tượng thi hành
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000030000000000000000002700000000000000000
+1. Trước khi ban hành quyết định hành chính có nội dung xác lập nghĩa vụ hoặc làm chấm dứt, hạn chế quyền, lợi ích của công dân là đối tượng thi hành, trừ quyết định hành chính có nội dung thuộc bí mật nhà nước và quyết định xử phạt vi phạm hành chính theo quy định của pháp luật, Ủy ban nhân dân cấp xã có trách nhiệm thông tin và tạo điều kiện để công dân là đối tượng thi hành quyết định hành chính được biết và trình bày ý kiến nếu người đó có yêu cầu. Công dân là đối tượng thi hành quyết định hành chính có thể tự mình hoặc ủy quyền cho người đại diện trình bày ý kiến.
 
-**ID:** dk_00072123
+2. Trường hợp quyết định hành chính áp dụng đối với nhiều đối tượng hoặc khi xét thấy cần thiết, thì Ủy ban nhân dân cấp xã có thể tổ chức cuộc họp đối thoại, lấy ý kiến trực tiếp của các công dân là đối tượng thi hành quyết định. Thành phần tham dự cuộc họp bao gồm đại diện lãnh đạo Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, đại diện Ban Thanh tra nhân dân cấp xã và các công dân là đối tượng thi hành quyết định hành chính.
 
----
-
-
-### Điều 44.13.LQ.28. Trách nhiệm trong việc tổ chức để Nhân dân tham gia ý kiến
+3. Ý kiến của công dân là đối tượng thi hành, ý kiến của cơ quan, tổ chức, cá nhân có liên quan phải được tổng hợp đầy đủ; nội dung giải trình, tiếp thu ý kiến của đối tượng thi hành được gửi đến các cơ quan, tổ chức, cá nhân có liên quan và được lưu cùng hồ sơ trình ký ban hành quyết định hành chính. Người có thẩm quyền ra quyết định và chịu trách nhiệm về việc ban hành quyết định hành chính của mình.
 
 Điều 44.13.LQ.28. Trách nhiệm trong việc tổ chức để Nhân dân tham gia ý kiến
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000030000000000000000002800000000000000000
+1. Ủy ban nhân dân cấp xã có kế hoạch tổ chức lấy ý kiến Nhân dân về các nội dung quy định tại Điều 25 của Luật này thuộc thẩm quyền quyết định của cấp xã, trong đó xác định rõ nội dung lấy ý kiến, hình thức lấy ý kiến, cách thức, thời hạn triển khai và trách nhiệm tổ chức thực hiện. Kế hoạch tổ chức lấy ý kiến Nhân dân phải được gửi đến Hội đồng nhân dân và Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
 
-**ID:** dk_00072124
+Trường hợp tổ chức lấy ý kiến Nhân dân về những nội dung thuộc thẩm quyền quyết định của cơ quan nhà nước cấp trên thì Ủy ban nhân dân cấp xã tổ chức thực hiện việc lấy ý kiến theo các nội dung được giao trong kế hoạch lấy ý kiến của cơ quan chịu trách nhiệm lấy ý kiến.
 
----
+2. Ủy ban nhân dân cấp xã phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội cùng cấp tổ chức thực hiện kế hoạch đã được thông qua. Thời gian lấy ý kiến Nhân dân ít nhất là 20 ngày kể từ ngày công khai nội dung lấy ý kiến. Trường hợp pháp luật có quy định cụ thể thời hạn lấy ý kiến Nhân dân thì thực hiện theo quy định đó.
 
+3. Chủ tịch Ủy ban nhân dân cấp xã chịu trách nhiệm chỉ đạo việc tiếp nhận, tổng hợp ý kiến, thông tin phản hồi của Nhân dân; nghiên cứu tiếp thu, giải trình ý kiến tham gia của Nhân dân về các nội dung thuộc thẩm quyền quyết định của cấp xã để quyết định theo thẩm quyền hoặc báo cáo Hội đồng nhân dân, Ủy ban nhân dân cấp xã quyết định và thực hiện việc công khai kết quả tổng hợp ý kiến của Nhân dân, nội dung giải trình, tiếp thu đến Nhân dân.
 
-### Điều 44.13.LQ.29. Trách nhiệm của Nhân dân trong việc tham gia ý kiến về các nội dung ở xã, phường, thị trấn
+4. Đối với những nội dung do cơ quan có thẩm quyền giao cho chính quyền địa phương cấp xã đưa ra lấy ý kiến Nhân dân thì Ủy ban nhân dân cấp xã có trách nhiệm tổng hợp ý kiến và báo cáo với cơ quan có thẩm quyền về kết quả lấy ý kiến Nhân dân trên địa bàn. Cơ quan có thẩm quyền quyết định có trách nhiệm nghiên cứu, tiếp thu ý kiến đóng góp của Nhân dân về những nội dung đã đưa ra lấy ý kiến; trường hợp quyết định có nội dung khác với ý kiến của đa số Nhân dân thì phải giải trình, nêu rõ lý do của việc không tiếp thu và chịu trách nhiệm về quyết định của mình. Nội dung giải trình, tiếp thu ý kiến của Nhân dân phải được gửi đến Ủy ban nhân dân cấp xã để thực hiện việc công khai thông tin đến Nhân dân.
+
+5. Ủy ban nhân dân cấp xã tổng hợp, báo cáo Hội đồng nhân dân cùng cấp về việc tổ chức lấy ý kiến Nhân dân và kết quả thực hiện tại kỳ họp thường lệ gần nhất, đồng thời gửi đến Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp để giám sát.
+
+6. Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã phối hợp với Ủy ban nhân dân cấp xã trong việc thực hiện kế hoạch tổ chức lấy ý kiến Nhân dân và tổ chức hội nghị đối thoại với Nhân dân trên địa bàn; trực tiếp hướng dẫn, thực hiện việc tổ chức lấy kiến Nhân dân đối với những nội dung thuộc trách nhiệm của Mặt trận Tổ quốc Việt Nam theo quy định của pháp luật.
+
+Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã thực hiện giám sát việc lập và tổ chức thực hiện kế hoạch tổ chức lấy ý kiến Nhân dân trên địa bàn; việc tổ chức đối thoại, lấy ý kiến trong trường hợp Ủy ban nhân dân cấp xã ban hành quyết định hành chính có nội dung xác lập nghĩa vụ hoặc làm chấm dứt, hạn chế quyền, lợi ích của đối tượng thi hành và quá trình, kết quả giải trình, tiếp thu và tổ chức thực hiện các nội dung Nhân dân tham gia ý kiến.
 
 Điều 44.13.LQ.29. Trách nhiệm của Nhân dân trong việc tham gia ý kiến về các nội dung ở xã, phường, thị trấn
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000020000030000000000000000002900000000000000000
+1. Đảng viên, cán bộ, công chức, viên chức và mọi công dân cư trú trên địa bàn có trách nhiệm tích cực tham gia ý kiến về những nội dung liên quan trực tiếp đến đời sống của cộng đồng dân cư để làm cơ sở cho các cơ quan có thẩm quyền xem xét, quyết định các vấn đề quan trọng của địa phương, của đất nước.
 
-**ID:** dk_00072125
+2. Cá nhân, hộ gia đình có trách nhiệm tham gia hoặc cử đại diện hộ gia đình tham dự họp bàn, thảo luận, thể hiện ý kiến đối với các nội dung theo yêu cầu của cấp có thẩm quyền.
 
----
+3. Công dân theo dõi, đánh giá, giám sát việc tổng hợp, giải trình, tiếp thu ý kiến của Nhân dân trên địa bàn đối với những nội dung đã được đưa ra lấy ý kiến và quá trình tổ chức thực hiện quyết định của cơ quan có thẩm quyền đối với các nội dung này.
 
+Mục 4
 
-### Tiểu mục 1 NỘI DUNG, HÌNH THỨC KIỂM TRA, GIÁM SÁT
+NHÂN DÂN KIỂM TRA, GIÁM SÁT
 
-*Nội dung chưa có sẵn*
+Tiểu mục 1
 
-**Chỉ mục:** 1
+NỘI DUNG, HÌNH THỨC KIỂM TRA, GIÁM SÁT
 
-**Mã phân cấp:** 440130000000000020000040000000000000000000100000000000000000
+Điều 44.13.LQ.30. Nội dung kiểm tra, giám sát
 
-**ID:** dk_00072127
+(Điều 30 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
----
+1. Công dân kiểm tra việc thực hiện các nội dung mà Nhân dân đã bàn và quyết định quy định tại Điều 15 của Luật này.
 
+2. Công dân giám sát việc tổ chức thực hiện dân chủ ở cơ sở và việc thực hiện chính sách, pháp luật của chính quyền địa phương cấp xã, cán bộ, công chức cấp xã, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố.
 
-### Điều 44.13.LQ.30. Nội dung kiểm tra, giám sát
+Điều 44.13.LQ.31. Hình thức kiểm tra, giám sát
 
-*Nội dung chưa có sẵn*
+(Điều 31 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Chỉ mục:** 30
+1. Công dân trực tiếp thực hiện việc kiểm tra, giám sát thông qua:
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000010000000000000000003000000000000000000
+a) Hoạt động lao động, sản xuất, học tập, công tác, sinh hoạt của công dân ở cộng đồng dân cư;
 
-**ID:** dk_00072128
+b) Quan sát, tìm hiểu, giao tiếp với cán bộ, công chức cấp xã, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố và người dân ở cộng đồng dân cư;
 
----
+c) Tiếp cận các thông tin được công khai; các thông tin, báo cáo của chính quyền địa phương cấp xã, cán bộ, công chức cấp xã, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố, cơ quan, tổ chức, cá nhân được giao quản lý hoặc thực hiện các nội dung Nhân dân đã bàn và quyết định;
 
+d) Tham dự hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân, hội nghị tiếp xúc cử tri, hoạt động tiếp công dân; hội nghị định kỳ và các cuộc họp khác của cộng đồng dân cư.
 
-### Điều 44.13.LQ.31. Hình thức kiểm tra, giám sát
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 31
-
-**Mã phân cấp:** 44013000000000002000004000000000000000000010000000000000000003100000000000000000
-
-**ID:** dk_00072129
-
----
-
-
-### Điều 44.13.LQ.32. Hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân
+2. Công dân thực hiện việc kiểm tra, giám sát thông qua Mặt trận Tổ quốc Việt Nam cấp xã, thông qua hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn, Ban Giám sát đầu tư của cộng đồng và các tổ chức tự quản khác ở địa phương được thành lập theo quy định của pháp luật.
 
 Điều 44.13.LQ.32. Hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000010000000000000000003200000000000000000
+1. Hằng năm, Ủy ban nhân dân cấp xã có trách nhiệm phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp tổ chức ít nhất một lần hội nghị trao đổi, đối thoại với Nhân dân trên địa bàn về tình hình hoạt động của Ủy ban nhân dân và những vấn đề liên quan đến quyền và nghĩa vụ của công dân ở địa phương.
 
-**ID:** dk_00072130
-
----
-
-
-### Điều 44.13.LQ.33. Hội nghị định kỳ của cộng đồng dân cư
+2. Nội dung, cách thức tổ chức hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan.
 
 Điều 44.13.LQ.33. Hội nghị định kỳ của cộng đồng dân cư
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000010000000000000000003300000000000000000
+1. Hội nghị của cộng đồng dân cư được tổ chức định kỳ mỗi năm một lần vào thời gian cuối năm.
 
-**ID:** dk_00072131
+2. Trưởng thôn, Tổ trưởng tổ dân phố có trách nhiệm triệu tập, chủ trì hội nghị. Thành phần tham dự hội nghị là đại diện của toàn thể các hộ gia đình trong thôn, tổ dân phố.
 
----
+3. Tại hội nghị, Trưởng thôn, Tổ trưởng tổ dân phố có trách nhiệm báo cáo với Nhân dân về tình hình của cộng đồng dân cư, kết quả thực hiện các nội dung đã được cộng đồng dân cư bàn và quyết định. Đại diện Ban công tác Mặt trận ở thôn, tổ dân phố báo cáo, cung cấp thông tin về tình hình, kết quả thực hiện dân chủ ở thôn, tổ dân phố và trên địa bàn cấp xã. Thành viên Ban Thanh tra nhân dân được bầu tại thôn, tổ dân phố báo cáo, cung cấp thông tin về việc thực hiện nhiệm vụ kiểm tra, giám sát, xem xét, xác minh theo kiến nghị của Nhân dân trên địa bàn.
 
+4. Chính phủ quy định chi tiết việc tổ chức hội nghị định kỳ của cộng đồng dân cư.
 
-### Điều 44.13.NĐ.1.10. Công tác chuẩn bị tổ chức hội nghị định kỳ
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 44.13.NĐ.1.10. Công tác chuẩn bị tổ chức hội nghị định kỳ
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000001000000000000000000330000000000000000000402847000590001000
+1. Trưởng thôn, Tổ trưởng tổ dân phố chủ trì, phối hợp với Ban công tác Mặt trận ở thôn, tổ dân phố xây dựng Kế hoạch tổ chức hội nghị định kỳ của cộng đồng dân cư.
 
-**ID:** dk_00072132
+2. Nội dung Kế hoạch tổ chức hội nghị định kỳ của cộng đồng dân cư gồm: Thời gian, địa điểm, nội dung hội nghị và tổ chức thực hiện.
 
----
+3. Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng Ban công tác Mặt trận ở thôn, tổ dân phố, Trưởng ban Thanh tra nhân dân ở xã, phường, thị trấn trực tiếp hoặc phân công thành viên chuẩn bị báo cáo trình bày tại Hội nghị.
 
-
-### Điều 44.13.NĐ.1.11. Trình tự tổ chức hội nghị định kỳ
+4. Kế hoạch tổ chức hội nghị định kỳ của cộng đồng dân cư được gửi tới Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và Ban Thanh tra nhân dân ở xã, phường, thị trấn để báo cáo, thống nhất trước khi thực hiện.
 
 Điều 44.13.NĐ.1.11. Trình tự tổ chức hội nghị định kỳ
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000001000000000000000000330000000000000000000402847000590001100
+1. Triệu tập hội nghị định kỳ của thôn, tổ dân phố
 
-**ID:** dk_00072133
+a) Trưởng thôn, Tổ trưởng tổ dân phố thông báo triệu tập hội nghị định kỳ của thôn, tổ dân phố.
 
----
+Thông báo triệu tập nêu rõ thời gian, địa điểm, nội dung tổ chức hội nghị định kỳ của thôn, tổ dân phố; thành phần triệu tập tham dự hội nghị.
 
+b) Thành phần tham dự hội nghị định kỳ là đại diện các hộ gia đình trong thôn, tổ dân phố. Trưởng thôn, Tổ trưởng tổ dân phố quyết định việc mời đại diện Ủy ban nhân dân cấp xã, đại diện các cơ quan, tổ chức có liên quan tham dự hội nghị.
 
-### Điều 44.13.LQ.34. Xử lý kết quả kiểm tra, giám sát của Nhân dân
+c) Thông báo triệu tập phải được gửi trực tiếp tới hộ gia đình chậm nhất 05 ngày trước ngày tổ chức hội nghị bằng văn bản hoặc qua hệ thống truyền thanh của thôn, tổ dân phố, qua ứng dụng mạng xã hội hoạt động hợp pháp theo quy định của pháp luật do thôn, tổ dân phố thống nhất thiết lập. Trường hợp cần thiết, Trưởng thôn, Tổ trưởng tổ dân phố thông báo trực tiếp tới hộ gia đình.
+
+2. Trình tự tổ chức hội nghị định kỳ
+
+a) Trưởng thôn, Tổ trưởng tổ dân phố tuyên bố lý do, giới thiệu đại biểu và nội dung hội nghị, giới thiệu thư ký hội nghị.
+
+Thư ký hội nghị có trách nhiệm ghi biên bản tại hội nghị.
+
+b) Trưởng thôn, Tổ trưởng tổ dân phố trình bày báo cáo về tình hình của thôn, tổ dân phố, kết quả thực hiện các nội dung đã được cộng đồng dân cư bàn và quyết định.
+
+c) Đại diện Ban công tác Mặt trận ở thôn, tổ dân phố trình bày báo cáo, cung cấp thông tin về tình hình, kết quả thực hiện dân chủ ở thôn, tổ dân phố và trên địa bàn cấp xã.
+
+d) Thành viên Ban Thanh tra nhân dân được bầu tại thôn, tổ dân phố trình bày báo cáo về việc thực hiện nhiệm vụ kiểm tra, giám sát, xem xét, xác minh theo kiến nghị của Nhân dân trên địa bàn.
+
+đ) Đại diện các hộ gia đình thảo luận, tham gia ý kiến, đề xuất, kiến nghị.
+
+e) Thông tin, trao đổi, tiếp thu và giải trình ý kiến, đề xuất, kiến nghị của cộng đồng dân cư đối với các nội dung thuộc thẩm quyền.
+
+g) Thông qua các nội dung được trình bày tại hội nghị.
+
+h) Biểu dương cá nhân, hộ gia đình có thành tích trong việc thực hiện các hoạt động của cộng đồng dân cư.
+
+i) Kết luận hội nghị.
+
+Sau khi kết thúc hội nghị, Trưởng thôn, Tổ trưởng tổ dân phố có trách nhiệm báo cáo bằng văn bản kết quả hội nghị gửi đến Ủy ban nhân dân cấp xã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
 
 Điều 44.13.LQ.34. Xử lý kết quả kiểm tra, giám sát của Nhân dân
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000010000000000000000003400000000000000000
+1. Thông qua việc kiểm tra, giám sát trực tiếp, Nhân dân đánh giá mức độ hài lòng đối với hoạt động của chính quyền địa phương cấp xã, đối với cán bộ, công chức cấp xã trực tiếp thực hiện thủ tục hành chính, giải quyết công việc của công dân.
 
-**ID:** dk_00072134
+2. Khi phát hiện hành vi, nội dung có dấu hiệu vi phạm, công dân có quyền khiếu nại, tố cáo theo quy định của pháp luật hoặc kiến nghị, phản ánh đến chính quyền địa phương cấp xã, cán bộ, công chức cấp xã, Trưởng thôn, Tổ trưởng tổ dân phố, Ban công tác Mặt trận ở thôn, tổ dân phố, các tổ chức, đoàn thể mà mình là thành viên, hội viên, đến đại biểu Quốc hội, đại biểu Hội đồng nhân dân hoặc phản ánh, đề nghị Ban Thanh tra nhân dân, Ban Giám sát đầu tư của cộng đồng, tổ chức tự quản khác ở địa phương được thành lập theo quy định của pháp luật xem xét, thực hiện kiểm tra, giám sát theo chức năng, nhiệm vụ.
 
----
-
-
-### Điều 44.13.LQ.35. Trách nhiệm trong việc bảo đảm để Nhân dân thực hiện kiểm tra, giám sát
+3. Ban Thanh tra nhân dân ở xã, phường, thị trấn, Ban Giám sát đầu tư của cộng đồng thay mặt Nhân dân thực hiện kiểm tra, giám sát theo quy định tại Tiểu mục 2 và Tiểu mục 3 của Mục này.
 
 Điều 44.13.LQ.35. Trách nhiệm trong việc bảo đảm để Nhân dân thực hiện kiểm tra, giám sát
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000010000000000000000003500000000000000000
+1. Các cơ quan, tổ chức, cá nhân quy định tại khoản 2 Điều 34 của Luật này có trách nhiệm tiếp nhận, xử lý, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của công dân theo thẩm quyền hoặc thực hiện việc kiểm tra, giám sát theo quy định của pháp luật.
 
-**ID:** dk_00072135
+2. Ủy ban nhân dân cấp xã có trách nhiệm sau đây:
 
----
+a) Tạo lập và bảo đảm vận hành ổn định, thường xuyên hệ thống đánh giá mức độ hài lòng của Nhân dân, tiếp nhận góp ý, kiến nghị, phản ánh để người dân có thể trực tiếp bày tỏ thái độ, sự đánh giá, nhận xét đối với hoạt động của chính quyền địa phương và của cán bộ, công chức trực tiếp thực hiện thủ tục hành chính, giải quyết công việc của công dân;
 
+b) Xem xét, giải quyết, giải trình và trả lời kịp thời khiếu nại, tố cáo, kiến nghị, phản ánh của công dân, kiến nghị của Ủy ban Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam cấp xã hoặc báo cáo, chuyển thông tin đến cơ quan có thẩm quyền đối với những vấn đề không thuộc thẩm quyền giải quyết của mình;
 
-### Tiểu mục 2 BAN THANH TRA NHÂN DÂN Ở XÃ, PHƯỜNG, THỊ TRẤN
+c) Phối hợp cùng Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, căn cứ vào yêu cầu, đặc điểm và điều kiện thực tế của địa phương, xây dựng và ban hành quy chế thực hiện dân chủ ở xã, phường, thị trấn để quy định cụ thể hơn nội dung, cách thức thực hiện dân chủ trên địa bàn cấp xã làm cơ sở để công dân kiểm tra, giám sát việc thực hiện. Nội dung của quy chế thực hiện dân chủ ở xã, phường, thị trấn có thể mở rộng hơn phạm vi thực hiện dân chủ ở xã, phường, thị trấn nhưng không được trái hoặc hạn chế việc thực hiện các nội dung đã được quy định trong Luật này. Khuyến khích các địa phương xây dựng và ban hành quy chế thực hiện dân chủ trong từng lĩnh vực, nội dung hoạt động cụ thể ở xã, phường, thị trấn;
 
-Tiểu mục 2 BAN THANH TRA NHÂN DÂN Ở XÃ, PHƯỜNG, THỊ TRẤN
+d) Tạo điều kiện và bảo đảm để Ban Thanh tra nhân dân, Ban Giám sát đầu tư của cộng đồng và các tổ chức tự quản khác của Nhân dân ở địa phương thực hiện nhiệm vụ kiểm tra, giám sát theo quy định của pháp luật;
 
-**Chỉ mục:** 2
+đ) Xử lý người có hành vi cản trở công dân thực hiện quyền kiểm tra, giám sát hoặc người có hành vi trả thù, trù dập người khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000020000040000000000000000000200000000000000000
+3. Công dân chịu trách nhiệm về nội dung khiếu nại, tố cáo, kiến nghị, phản ánh của mình; chủ động, tích cực phối hợp với Ban Thanh tra nhân dân, Ban Giám sát đầu tư của cộng đồng và các cơ quan, tổ chức, cá nhân có trách nhiệm trong việc xác minh, kiểm tra, giám sát đối với các nội dung mà công dân đã kiến nghị, đề nghị.
 
-**ID:** dk_00072136
+Tiểu mục 2
 
----
-
-
-### Điều 44.13.LQ.36. Tổ chức Ban Thanh tra nhân dân ở xã, phường, thị trấn
+BAN THANH TRA NHÂN DÂN Ở XÃ, PHƯỜNG, THỊ TRẤN
 
 Điều 44.13.LQ.36. Tổ chức Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000020000000000000000003600000000000000000
+1. Ban Thanh tra nhân dân ở xã, phường, thị trấn gồm các thành viên được bầu từ các thôn, tổ dân phố trên địa bàn cấp xã. Số lượng thành viên Ban Thanh tra nhân dân tương ứng số lượng thôn, tổ dân phố trên địa bàn cấp xã nhưng không ít hơn 05 người.
 
-**ID:** dk_00072137
+2. Nhiệm kỳ của Ban Thanh tra nhân dân theo nhiệm kỳ của Trưởng thôn, Tổ trưởng tổ dân phố trên cùng địa bàn.
 
----
+Trong nhiệm kỳ, nếu thành viên Ban Thanh tra nhân dân không hoàn thành nhiệm vụ, không còn được tín nhiệm hoặc xin thôi làm nhiệm vụ thì Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã đề nghị thôn, tổ dân phố đã bầu thành viên đó xem xét, cho thôi làm nhiệm vụ.
 
+Trường hợp khuyết thành viên Ban Thanh tra nhân dân trong nhiệm kỳ và thời gian còn lại của nhiệm kỳ là từ 06 tháng trở lên thì Ban công tác Mặt trận ở thôn, tổ dân phố phối hợp với Trưởng thôn, Tổ trưởng tổ dân phố tổ chức việc bầu bổ sung thành viên Ban Thanh tra nhân dân theo hướng dẫn của Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.
 
-### Điều 44.13.LQ.37. Tiêu chuẩn thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn
+3. Ban Thanh tra nhân dân ở xã, phường, thị trấn gồm Trưởng ban, Phó Trưởng ban và các Ủy viên. Trưởng ban chịu trách nhiệm chung về hoạt động của Ban Thanh tra nhân dân; Phó Trưởng ban có trách nhiệm giúp Trưởng ban thực hiện nhiệm vụ; các thành viên khác thực hiện nhiệm vụ theo sự phân công của Trưởng ban.
 
 Điều 44.13.LQ.37. Tiêu chuẩn thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000020000000000000000003700000000000000000
+1. Có phẩm chất đạo đức tốt, có uy tín trong cộng đồng dân cư, có đủ sức khỏe để hoàn thành nhiệm vụ; có hiểu biết về chính sách, pháp luật và tự nguyện tham gia Ban Thanh tra nhân dân.
 
-**ID:** dk_00072138
-
----
-
-
-### Điều 44.13.LQ.38. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+2. Là công dân thường trú trên địa bàn và không đồng thời là cán bộ, công chức cấp xã, người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố.
 
 Điều 44.13.LQ.38. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000020000000000000000003800000000000000000
+1. Kiểm tra việc thực hiện các quyết định đã được Nhân dân bàn và quyết định; giám sát việc thực hiện chính sách, pháp luật, việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở của chính quyền địa phương cấp xã, cán bộ, công chức cấp xã và người hoạt động không chuyên trách ở cấp xã, ở thôn, tổ dân phố.
 
-**ID:** dk_00072139
+2. Kiến nghị cơ quan, người có thẩm quyền xử lý theo quy định của pháp luật khi phát hiện có dấu hiệu vi phạm pháp luật và giám sát việc thực hiện kiến nghị đó.
 
----
+3. Yêu cầu chính quyền địa phương cấp xã, cán bộ, công chức cấp xã cung cấp thông tin, tài liệu có liên quan để phục vụ việc xác minh, kiểm tra, giám sát.
 
+4. Xem xét, xác minh vụ việc cụ thể theo kiến nghị của công dân, cộng đồng dân cư.
 
-### Điều 44.13.LQ.39. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+5. Kiến nghị Chủ tịch Ủy ban nhân dân cấp xã, cán bộ, công chức cấp xã, Trưởng thôn, Tổ trưởng tổ dân phố khắc phục hạn chế, thiếu sót được phát hiện qua việc kiểm tra, giám sát; bảo đảm quyền và lợi ích hợp pháp, chính đáng của tổ chức, công dân; biểu dương những đơn vị, cá nhân có thành tích. Trường hợp phát hiện người có hành vi vi phạm pháp luật thì kiến nghị cơ quan, tổ chức có thẩm quyền xem xét, xử lý.
+
+6. Tham dự các cuộc họp của Hội đồng nhân dân, Ủy ban nhân dân cấp xã có nội dung liên quan đến việc thực hiện nhiệm vụ kiểm tra, giám sát của Ban Thanh tra nhân dân.
+
+7. Tiếp nhận kiến nghị, phản ánh của công dân, cộng đồng dân cư và các tổ chức, cá nhân có liên quan đến phạm vi kiểm tra, giám sát của Ban Thanh tra nhân dân.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.14. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn)
 
 Điều 44.13.LQ.39. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000020000000000000000003900000000000000000
+1. Ban Thanh tra nhân dân ở xã, phường, thị trấn do Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã trực tiếp chỉ đạo, hướng dẫn hoạt động.
 
-**ID:** dk_00072140
+2. Căn cứ vào chương trình hành động và sự chỉ đạo, hướng dẫn của Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Ban Thanh tra nhân dân xây dựng phương hướng, nội dung kế hoạch hoạt động của mình theo từng quý, 06 tháng và hằng năm.
 
----
-
-
-### Điều 44.13.LQ.40. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+3. Ban Thanh tra nhân dân có trách nhiệm định kỳ báo cáo hoặc báo cáo khi có yêu cầu về hoạt động của mình với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã. Ban Thanh tra nhân dân được mời tham dự cuộc họp của Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có nội dung liên quan đến việc thực hiện nhiệm vụ kiểm tra, giám sát của Ban Thanh tra nhân dân.
 
 Điều 44.13.LQ.40. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000020000000000000000004000000000000000000
+1. Ủy ban nhân dân cấp xã có trách nhiệm sau đây:
 
-**ID:** dk_00072141
+a) Thông báo cho Ban Thanh tra nhân dân về những chính sách, pháp luật chủ yếu liên quan đến tổ chức, hoạt động, nhiệm vụ, quyền hạn của chính quyền địa phương cấp xã; các mục tiêu và nhiệm vụ phát triển kinh tế - xã hội hằng năm của địa phương;
 
----
+b) Cung cấp thông tin hoặc yêu cầu cơ quan, tổ chức, cá nhân có liên quan cung cấp đầy đủ, kịp thời thông tin, tài liệu cần thiết theo yêu cầu của Ban Thanh tra nhân dân;
 
+c) Xem xét, giải quyết kịp thời các kiến nghị của Ban Thanh tra nhân dân, thông báo kết quả giải quyết trong thời hạn 15 ngày kể từ ngày nhận được kiến nghị;
 
-### Điều 44.13.NĐ.1.12. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+d) Thông báo cho Ban Thanh tra nhân dân kết quả giải quyết khiếu nại, tố cáo, việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở trên địa bàn cấp xã;
+
+đ) Xử lý người có hành vi cản trở hoạt động của Ban Thanh tra nhân dân, người có hành vi trả thù, trù dập thành viên Ban Thanh tra nhân dân theo quy định của pháp luật.
+
+2. Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có trách nhiệm sau đây:
+
+a) Hướng dẫn việc tổ chức hội nghị của cộng đồng dân cư ở thôn, tổ dân phố để bầu hoặc cho thôi làm thành viên Ban Thanh tra nhân dân;
+
+b) Công nhận kết quả bầu thành viên Ban Thanh tra nhân dân; tổ chức cuộc họp của Ban Thanh tra nhân dân để bầu Trưởng ban, Phó Trưởng ban và phân công nhiệm vụ cho từng thành viên; thông báo kết quả bầu và thành phần Ban Thanh tra nhân dân đến Hội đồng nhân dân, Ủy ban nhân dân cùng cấp và Nhân dân ở địa phương;
+
+c) Hướng dẫn Ban Thanh tra nhân dân xây dựng chương trình, kế hoạch, nội dung công tác; xem xét báo cáo hoạt động của Ban Thanh tra nhân dân và hướng dẫn, chỉ đạo hoạt động của Ban Thanh tra nhân dân; tham gia hoạt động của Ban Thanh tra nhân dân khi xét thấy cần thiết;
+
+d) Xác nhận biên bản, kiến nghị của Ban Thanh tra nhân dân; đôn đốc việc giải quyết kiến nghị của Ban Thanh tra nhân dân;
+
+đ) Động viên Nhân dân ở địa phương ủng hộ, phối hợp, tích cực hỗ trợ hoạt động của Ban Thanh tra nhân dân;
+
+e) Hỗ trợ kinh phí hoạt động cho Ban Thanh tra nhân dân. Kinh phí hỗ trợ cho hoạt động của Ban Thanh tra nhân dân được sử dụng từ nguồn ngân sách nhà nước theo dự toán, kế hoạch hằng năm của Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, do ngân sách nhà nước cấp xã bảo đảm.
+
+3. Chính phủ quy định chi tiết tổ chức và hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 44.13.NĐ.1.12. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001200
+1. Tuân thủ theo quy định của pháp luật; bảo đảm công bằng, khách quan, minh bạch; quá trình tiến hành các hoạt động thuộc phạm vi nhiệm vụ, quyền hạn được giao; không làm ảnh hưởng quyền và lợi ích hợp pháp của đối tượng được kiểm tra, giám sát.
 
-**ID:** dk_00072142
+2. Không được lợi dụng nhiệm vụ, quyền hạn để kích động, dụ dỗ, lôi kéo tổ chức, cá nhân, Nhân dân để thực hiện các hành vi trái pháp luật.
 
----
-
-
-### Điều 44.13.NĐ.1.13. Tổ chức của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+3. Làm việc theo chế độ tập thể và quyết định theo đa số.
 
 Điều 44.13.NĐ.1.13. Tổ chức của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001300
+1. Thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn được bầu tại cuộc họp của cộng đồng dân cư.
 
-**ID:** dk_00072143
+Trên cơ sở đề nghị của Ban công tác Mặt trận ở thôn, tổ dân phố, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã xem xét, cho thôi làm thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn; hướng dẫn bầu, bổ sung thành viên Ban Thanh tra nhân dân ở xã phường, thị trấn.
 
----
+Việc tổ chức cuộc họp của cộng đồng dân cư để bầu, cho thôi, bầu bổ sung làm thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn được thực hiện theo quy định tại Điều 3 Nghị định này.
 
+2. Số lượng thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn được xác định trên cơ sở tương ứng số lượng thôn, tổ dân phố trên địa bàn cấp xã nhưng không ít hơn 05 thành viên, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định số lượng cụ thể thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn theo nguyên tắc bảo đảm mỗi thôn, tổ dân phố có đại diện tham gia là thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn.
 
-### Điều 44.13.NĐ.1.14. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+Đối với xã, phường, thị trấn có dưới 05 thôn, tổ dân phố thì được bầu tối đa 05 thành viên Ban Thanh tra nhân dân.
+
+3. Ban Thanh tra nhân dân ở xã, phường, thị trấn có Trưởng ban, Phó Trưởng ban và các Ủy viên.
+
+Số lượng Phó Trưởng ban do Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định căn cứ vào số lượng thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn nhưng không quá 02 người.
 
 Điều 44.13.NĐ.1.14. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001400
+1. Xây dựng phương hướng, nội dung kế hoạch hoạt động
 
-**ID:** dk_00072144
+a) Ban Thanh tra nhân dân ở xã, phường, thị trấn xây dựng kế hoạch hoạt động để thực hiện nhiệm vụ, quyền hạn được quy định tại Điều 38 của Luật Thực hiện dân chủ ở cơ sở theo từng quý, 06 tháng, hằng năm và nhiệm kỳ.
 
----
+Kế hoạch gồm các nội dung cơ bản: mục đích, yêu cầu, nội dung, thời gian, kinh phí, tổ chức thực hiện và các điều kiện bảo đảm khác cho việc thực hiện Kế hoạch hoạt động.
 
+Kế hoạch hoạt động có thể được điều chỉnh, bổ sung phù hợp với yêu cầu, tình hình thực tế hoặc khi có vấn đề phát sinh đột xuất.
 
-### Điều 44.13.NĐ.1.15. Phối hợp thực hiện hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+b) Trên cơ sở Kế hoạch hoạt động, Ban Thanh tra nhân dân ở xã, phường, thị trấn xây dựng kế hoạch kiểm tra, giám sát cụ thể để gửi Ủy ban Mặt trận Tổ quốc Việt Nam, Chủ tịch Ủy ban nhân dân cấp xã và đối tượng kiểm tra, giám sát khác (nếu có) chậm nhất 05 ngày làm việc trước khi tiến hành hoạt động kiểm tra, giám sát.
+
+2. Phương thức hoạt động
+
+a) Tiếp nhận thông tin, phản ánh, kiến nghị trực tiếp hoặc qua hòm thư góp ý của tổ chức, cá nhân có liên quan đến phạm vi kiểm tra, giám sát của Ban Thanh tra nhân dân ở xã, phường, thị trấn.
+
+b) Làm việc với các tổ chức, cá nhân liên quan để thu thập thông tin, tài liệu, phân tích, đối chiếu, tổng hợp thông tin và đánh giá, làm rõ nội dung phản ánh, kiến nghị.
+
+c) Thông báo kết quả kiểm tra, giám sát, xác minh đến cơ quan, tổ chức, cá nhân có phản ánh, kiến nghị bằng văn bản. Trường hợp phát hiện người có hành vi vi phạm pháp luật thì kiến nghị cơ quan, tổ chức có thẩm quyền xem xét, xử lý theo quy định của pháp luật.
+
+3. Chế độ báo cáo
+
+Ban Thanh tra nhân dân ở xã, phường, thị trấn báo cáo Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã về kết quả thực hiện nhiệm vụ hàng quý, 06 tháng năm, nhiệm kỳ, đột xuất khi có yêu cầu hoặc phát sinh.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.38. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở xã, phường, thị trấn)
 
 Điều 44.13.NĐ.1.15. Phối hợp thực hiện hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001500
+1. Ban Thanh tra nhân dân ở xã, phường, thị trấn có trách nhiệm thực hiện đúng nhiệm vụ được giao. Thường xuyên liên hệ, phối hợp chặt chẽ với Nhân dân để tiếp nhận, phản hồi kịp thời ý kiến phản ánh của Nhân dân.
 
-**ID:** dk_00072145
+2. Giữ mối liên hệ chặt chẽ với Hội đồng nhân dân, Ủy ban nhân dân cấp xã để giải quyết kịp thời ý kiến phản ánh của Nhân dân theo thẩm quyền hoặc báo cáo cơ quan có thẩm quyền giải quyết theo quy định của pháp luật.
 
----
+Hội đồng nhân dân, Ủy ban nhân dân cấp xã có trách nhiệm tạo điều kiện thuận lợi để Ban Thanh tra nhân dân ở xã, phường, thị trấn thực hiện nhiệm vụ, quyền hạn của mình.
 
+Tiểu mục 3
 
-### Tiểu mục 3 BAN GIÁM SÁT ĐẦU TƯ CỦA CỘNG ĐỒNG
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 440130000000000020000040000000000000000000300000000000000000
-
-**ID:** dk_00072146
-
----
-
-
-### Điều 44.13.LQ.41. Tổ chức Ban Giám sát đầu tư của cộng đồng
+BAN GIÁM SÁT ĐẦU TƯ CỦA CỘNG ĐỒNG
 
 Điều 44.13.LQ.41. Tổ chức Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000030000000000000000004100000000000000000
+1. Ban Giám sát đầu tư của cộng đồng được Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định thành lập theo từng chương trình, dự án đầu tư công, dự án đầu tư theo phương thức đối tác công tư (PPP) triển khai trên địa bàn cấp xã, chương trình, dự án đầu tư bằng vốn và công sức của cộng đồng dân cư hoặc bằng nguồn tài trợ trực tiếp của các tổ chức, cá nhân cho cấp xã.
 
-**ID:** dk_00072147
+Ban Giám sát đầu tư của cộng đồng có ít nhất là 05 thành viên, gồm đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Ban Thanh tra nhân dân ở xã, phường, thị trấn và đại diện người dân trên địa bàn thôn, tổ dân phố nơi có chương trình, dự án. Ban Giám sát đầu tư của cộng đồng tự giải thể sau khi hoàn thành nhiệm vụ.
 
----
+2. Ban Giám sát đầu tư của cộng đồng có Trưởng ban, Phó Trưởng ban và các Ủy viên. Trưởng ban chịu trách nhiệm chung về hoạt động của Ban Giám sát đầu tư của cộng đồng; Phó Trưởng ban có trách nhiệm giúp Trưởng ban thực hiện nhiệm vụ; các thành viên khác thực hiện nhiệm vụ theo sự phân công của Trưởng ban.
 
-
-### Điều 44.13.LQ.42. Tiêu chuẩn thành viên Ban Giám sát đầu tư của cộng đồng
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.17. Tổ chức của Ban Giám sát đầu tư của cộng đồng)
 
 Điều 44.13.LQ.42. Tiêu chuẩn thành viên Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000030000000000000000004200000000000000000
+1. Có phẩm chất đạo đức tốt, trung thực, công tâm, có uy tín trong cộng đồng dân cư, có đủ sức khỏe để hoàn thành nhiệm vụ; có hiểu biết về chính sách, pháp luật hoặc kinh nghiệm, hiểu biết về các lĩnh vực có liên quan đến chương trình, dự án đầu tư và tự nguyện tham gia Ban Giám sát đầu tư của cộng đồng.
 
-**ID:** dk_00072148
+2. Là công dân thường trú trên địa bàn và không đồng thời là cán bộ, công chức cấp xã; không có người thân là người có thẩm quyền quyết định đầu tư, chủ đầu tư hoặc đại diện chủ đầu tư, đơn vị tư vấn của chủ đầu tư, nhà thầu dự án hoặc đơn vị tư vấn, giám sát của nhà thầu, người trực tiếp quản lý dự án đầu tư trên địa bàn cấp xã.
 
----
-
-
-### Điều 44.13.LQ.43. Nhiệm vụ, quyền hạn của Ban Giám sát đầu tư của cộng đồng
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.17. Tổ chức của Ban Giám sát đầu tư của cộng đồng)
 
 Điều 44.13.LQ.43. Nhiệm vụ, quyền hạn của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000030000000000000000004300000000000000000
+1. Ban Giám sát đầu tư của cộng đồng có các nhiệm vụ sau đây:
 
-**ID:** dk_00072149
+a) Theo dõi, giám sát sự phù hợp của chủ trương đầu tư, quyết định đầu tư với quy hoạch, kế hoạch đầu tư trên địa bàn cấp xã; việc chủ đầu tư chấp hành các quy định về chỉ giới đất đai và sử dụng đất, quy hoạch mặt bằng chi tiết, phương án kiến trúc, xây dựng, xử lý chất thải, bảo vệ môi trường, đền bù, giải phóng mặt bằng và phương án tái định cư, kế hoạch đầu tư; tình hình triển khai và tiến độ thực hiện các chương trình, dự án, việc thực hiện công khai thông tin trong quá trình đầu tư đối với các chương trình, dự án đầu tư công, dự án đầu tư từ nguồn vốn khác trên địa bàn cấp xã;
 
----
+b) Đối với các chương trình, dự án đầu tư bằng vốn và công sức của cộng đồng dân cư, dự án sử dụng ngân sách cấp xã hoặc bằng nguồn tài trợ trực tiếp của các tổ chức, cá nhân cho cấp xã, thì thực hiện theo dõi, kiểm tra, giám sát việc thực hiện các nội dung quy định tại điểm a khoản này và kiểm tra, giám sát việc tuân thủ các quy trình, quy phạm kỹ thuật, định mức và chủng loại vật tư theo quy định; theo dõi, kiểm tra kết quả nghiệm thu và quyết toán công trình;
 
+c) Phát hiện những việc làm tổn hại đến lợi ích của cộng đồng; những tác động tiêu cực của dự án đến môi trường sinh sống của cộng đồng trong quá trình thực hiện đầu tư và vận hành dự án; những việc gây lãng phí, thất thoát vốn, tài sản thuộc các chương trình, dự án đầu tư.
 
-### Điều 44.13.LQ.44. Hoạt động của Ban Giám sát đầu tư của cộng đồng
+2. Ban Giám sát đầu tư của cộng đồng có các quyền hạn sau đây:
+
+a) Yêu cầu cơ quan quản lý nhà nước có thẩm quyền cung cấp các thông tin về quy hoạch có liên quan đến việc quyết định đầu tư dự án, kế hoạch sử dụng đất đai theo quy định của pháp luật về đất đai;
+
+b) Yêu cầu cơ quan quản lý nhà nước có liên quan trả lời về các vấn đề thuộc phạm vi quản lý theo quy định của pháp luật;
+
+c) Yêu cầu chủ chương trình, chủ đầu tư trả lời, cung cấp các thông tin phục vụ việc giám sát đầu tư gồm quyết định đầu tư; thông tin về chủ đầu tư, ban quản lý dự án, địa chỉ liên hệ; tiến độ và kế hoạch đầu tư; diện tích chiếm đất và sử dụng đất; quy hoạch mặt bằng chi tiết và phương án kiến trúc; đền bù, giải phóng mặt bằng và phương án tái định cư; phương án xử lý chất thải và bảo vệ môi trường.
+
+Đối với các chương trình, dự án đầu tư bằng vốn và công sức của cộng đồng dân cư, dự án sử dụng ngân sách cấp xã hoặc bằng nguồn tài trợ trực tiếp của các tổ chức, cá nhân cho cấp xã, thì ngoài các nội dung trên, chủ chương trình, chủ đầu tư có trách nhiệm cung cấp thêm thông tin về quy trình, quy phạm kỹ thuật, chủng loại và định mức vật tư; kết quả nghiệm thu và quyết toán công trình;
+
+d) Tiếp nhận các thông tin do công dân phản ánh để gửi đến các cơ quan quản lý nhà nước có thẩm quyền hoặc tiến hành kiểm tra, giám sát theo phạm vi nhiệm vụ, quyền hạn của Ban; tiếp nhận và thông tin cho công dân biết ý kiến trả lời của các cơ quan quản lý nhà nước có thẩm quyền về kiến nghị của công dân;
+
+đ) Khi phát hiện dấu hiệu vi phạm pháp luật trong quá trình thực hiện dự án gây ảnh hưởng nghiêm trọng đến sản xuất, an ninh, văn hóa, xã hội, môi trường sinh sống của cộng đồng hoặc chủ đầu tư không thực hiện công khai thông tin về chương trình, dự án đầu tư theo quy định của pháp luật thì phản ánh đến cơ quan quản lý nhà nước có thẩm quyền và kiến nghị biện pháp xử lý; trường hợp cần thiết thì kiến nghị cấp có thẩm quyền đình chỉ thực hiện đầu tư, vận hành dự án.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.18. Hoạt động của Ban Giám sát đầu tư của cộng đồng)
 
 Điều 44.13.LQ.44. Hoạt động của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000030000000000000000004400000000000000000
+1. Ban Giám sát đầu tư của cộng đồng do Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã trực tiếp chỉ đạo hoạt động.
 
-**ID:** dk_00072150
+2. Trên cơ sở hướng dẫn của Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Ban Giám sát đầu tư của cộng đồng xây dựng chương trình, kế hoạch kiểm tra, giám sát đầu tư của cộng đồng bám sát các nhiệm vụ và nội dung kiểm tra, giám sát quy định tại Điều 43 của Luật này.
 
----
-
-
-### Điều 44.13.LQ.45. Trách nhiệm trong việc bảo đảm hoạt động của Ban Giám sát đầu tư của cộng đồng
+3. Ban Giám sát đầu tư của cộng đồng có trách nhiệm định kỳ báo cáo hoặc báo cáo khi có yêu cầu về kết quả giám sát đầu tư của cộng đồng với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã. Trưởng ban Giám sát đầu tư của cộng đồng được mời tham dự cuộc họp của Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có nội dung liên quan đến chương trình, dự án mà Ban Giám sát đầu tư của cộng đồng chịu trách nhiệm kiểm tra, giám sát.
 
 Điều 44.13.LQ.45. Trách nhiệm trong việc bảo đảm hoạt động của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000002000004000000000000000000030000000000000000004500000000000000000
+1. Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có trách nhiệm sau đây:
 
-**ID:** dk_00072151
+a) Chủ trì việc thành lập Ban Giám sát đầu tư của cộng đồng cho từng chương trình, dự án. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định số lượng thành viên; cử đại diện tham gia Ban Giám sát đầu tư của cộng đồng; dự kiến địa bàn và số thành viên được bầu theo từng địa bàn để chỉ đạo Ban công tác Mặt trận ở thôn, tổ dân phố phối hợp cùng Trưởng thôn, Tổ trưởng tổ dân phố tổ chức việc bầu thành viên là đại diện Nhân dân tham gia Ban Giám sát đầu tư của cộng đồng; công nhận kết quả bầu thành viên Ban Giám sát đầu tư của cộng đồng; tổ chức cuộc họp của Ban Giám sát đầu tư của cộng đồng để bầu Trưởng ban, Phó Trưởng ban và phân công nhiệm vụ cho từng thành viên; cử, đề nghị cử hoặc tổ chức bầu bổ sung thành viên Ban Giám sát đầu tư của cộng đồng trong trường hợp khuyết, thiếu;
 
----
+b) Thông báo cho chủ chương trình, chủ đầu tư, ban quản lý chương trình, dự án về kế hoạch giám sát và thành phần Ban Giám sát đầu tư của cộng đồng chậm nhất là 45 ngày trước ngày thực hiện; thông báo về thành phần Ban Giám sát đầu tư của cộng đồng đến Hội đồng nhân dân, Ủy ban nhân dân cùng cấp và Nhân dân ở địa phương;
 
+c) Hướng dẫn Ban Giám sát đầu tư của cộng đồng xây dựng chương trình, kế hoạch kiểm tra, giám sát chương trình, dự án đầu tư theo quy định của pháp luật; hỗ trợ Ban Giám sát đầu tư của cộng đồng trong việc thông tin liên lạc, lập và gửi các báo cáo giám sát đầu tư của cộng đồng;
 
-### Điều 44.13.NĐ.1.16. Nguyên tắc tổ chức và hoạt động của Ban Giám sát đầu tư của cộng đồng
+d) Xác nhận văn bản kiến nghị, phản ánh của Ban Giám sát đầu tư của cộng đồng trước khi gửi cơ quan có thẩm quyền; đôn đốc việc giải quyết kiến nghị của Ban Giám sát đầu tư của cộng đồng;
+
+đ) Động viên Nhân dân ở địa phương tích cực tham gia kiểm tra, giám sát tại cộng đồng và ủng hộ, hỗ trợ hoạt động của Ban Giám sát đầu tư của cộng đồng;
+
+e) Hỗ trợ kinh phí hoạt động cho Ban Giám sát đầu tư của cộng đồng. Kinh phí hỗ trợ cho hoạt động của Ban Giám sát đầu tư của cộng đồng được sử dụng từ nguồn ngân sách nhà nước theo dự toán, kế hoạch hằng năm của Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, do ngân sách nhà nước cấp xã bảo đảm.
+
+2. Ủy ban nhân dân cấp xã có trách nhiệm sau đây:
+
+a) Bố trí địa điểm làm việc để Ban Giám sát đầu tư của cộng đồng tổ chức các cuộc họp và lưu trữ tài liệu phục vụ hoạt động kiểm tra, giám sát;
+
+b) Yêu cầu cơ quan, tổ chức, cá nhân có liên quan cung cấp đầy đủ, kịp thời thông tin, tài liệu cần thiết theo yêu cầu của Ban Giám sát đầu tư của cộng đồng;
+
+c) Xem xét, giải quyết kịp thời các kiến nghị của Ban Giám sát đầu tư của cộng đồng, thông báo kết quả giải quyết trong thời hạn 15 ngày kể từ ngày nhận được kiến nghị;
+
+d) Xử lý người có hành vi cản trở hoạt động của Ban Giám sát đầu tư của cộng đồng, người có hành vi trả thù, trù dập thành viên Ban Giám sát đầu tư của cộng đồng theo quy định của pháp luật.
+
+3. Chủ chương trình, chủ đầu tư, ban quản lý chương trình, dự án có trách nhiệm sau đây:
+
+a) Cung cấp đầy đủ, trung thực, kịp thời tài liệu liên quan đến việc triển khai thực hiện chương trình, dự án theo yêu cầu của Ban Giám sát đầu tư của cộng đồng;
+
+b) Tạo điều kiện thuận lợi cho Ban Giám sát đầu tư của cộng đồng thực hiện việc kiểm tra, giám sát theo quy định của pháp luật;
+
+c) Tiếp thu ý kiến, kiến nghị kiểm tra, giám sát của Ban Giám sát đầu tư của cộng đồng và thông báo kết quả thực hiện đến Ban Giám sát đầu tư của cộng đồng.
+
+4. Chính phủ quy định chi tiết tổ chức và hoạt động của Ban Giám sát đầu tư của cộng đồng.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 44.13.NĐ.1.16. Nguyên tắc tổ chức và hoạt động của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001600
+1. Tuân thủ theo quy định của pháp luật; thực hiện đúng nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00072152
+2. Bảo đảm khách quan, công khai, minh bạch, kịp thời, chặt chẽ, hiệu quả, không gây cản trở, ảnh hưởng đến việc triển khai, thực hiện chương trình, dự án.
 
----
-
-
-### Điều 44.13.NĐ.1.17. Tổ chức của Ban Giám sát đầu tư của cộng đồng
+3. Làm việc theo chế độ tập thể và quyết định theo đa số.
 
 Điều 44.13.NĐ.1.17. Tổ chức của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001700
+1. Thành viên Ban Giám sát đầu tư của cộng đồng là đại diện người dân trên địa bàn thôn, tổ dân phố nơi có chương trình, dự án được bầu tại cuộc họp của cộng đồng dân cư.
 
-**ID:** dk_00072153
+Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã đề nghị cử và hướng dẫn tổ chức việc bầu bổ sung thành viên Ban Giám sát đầu tư của cộng đồng trong trường hợp khuyết, thiếu.
 
----
+Việc tổ chức cuộc họp của cộng đồng dân cư để bầu, cho thôi làm thành viên Ban Giám sát đầu tư của cộng đồng được thực hiện theo quy định tại Điều 3 Nghị định này.
 
+2. Số lượng, tiêu chuẩn thành viên của Ban Giám sát đầu tư của cộng đồng được thực hiện theo quy định tại Điều 41 và Điều 42 của Luật thực hiện dân chủ ở cơ sở.
 
-### Điều 44.13.NĐ.1.18. Hoạt động của Ban Giám sát đầu tư của cộng đồng
+Đối với số lượng thành viên Ban Giám sát đầu tư của cộng đồng là đại diện người dân trên địa bàn thôn, tổ dân phố nơi có chương trình, dự án do Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định nhưng không quá 05 người.
+
+3. Số lượng Phó Trưởng Ban do Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã quyết định căn cứ vào số lượng thành viên Ban Giám sát đầu tư của cộng đồng nhưng không quá 02 người.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.41. Tổ chức Ban Giám sát đầu tư của cộng đồng; Điều 44.13.LQ.42. Tiêu chuẩn thành viên Ban Giám sát đầu tư của cộng đồng)
 
 Điều 44.13.NĐ.1.18. Hoạt động của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001800
+1. Xây dựng chương trình, kế hoạch hoạt động
 
-**ID:** dk_00072154
+Ban Giám sát đầu tư của cộng đồng xây dựng kế hoạch hoạt động để thực hiện nhiệm vụ, quyền hạn được quy định tại Điều 43 của Luật Thực hiện dân chủ ở cơ sở và phải phù hợp với của từng chương trình, dự án.
 
----
+Kế hoạch hoạt động gồm các nội dung cơ bản: mục đích, yêu cầu, nội dung, thời gian, kinh phí, tổ chức thực hiện và các điều kiện bảo đảm khác. Kế hoạch hoạt động được điều chỉnh khi chương trình, dự án có sự thay đổi.
 
+2. Phương thức hoạt động
 
-### Điều 44.13.NĐ.1.19. Công tác phối hợp thực hiện hoạt động của Ban Giám sát đầu tư của cộng đồng
+a) Tiếp nhận thông tin phản ánh trực tiếp hoặc qua hòm thư góp ý của công dân, tổ chức, cá nhân có liên quan đến chương trình, dự án thuộc phạm vi kiểm tra, giám sát của Ban Giám sát đầu tư của cộng đồng.
+
+b) Chủ động thu thập, thông tin, tài liệu để tiến hành phân tích, đối chiếu và tổng hợp, đánh giá tính xác thực, sự phù hợp khi thực hiện chương trình, dự án; nội dung phản ánh, kiến nghị của Nhân dân về chương trình, dự án trên địa bàn.
+
+c) Tổ chức kiểm tra, giám sát trực tiếp tại nơi thực hiện chương trình, dự án. Trong quá trình thực hiện nhiệm vụ, Ban Giám sát đầu tư của cộng đồng có thể mời người có chuyên môn liên quan đến nội dung kiểm tra, giám sát cùng tham gia kiểm tra, giám sát việc tuân thủ các quy trình, quy phạm kỹ thuật, định mức và chủng loại vật tư theo quy định.
+
+d) Thông báo kết quả kiểm tra, giám sát đến cơ quan, tổ chức, cá nhân có phản ánh, kiến nghị bằng văn bản. Trường hợp phát hiện các vấn đề vi phạm hoặc có các kiến nghị khác về các chương trình, dự án trong quá trình giám sát, Ban Giám sát đầu tư của cộng đồng kiến nghị cơ quan có thẩm quyền xử lý theo quy định của pháp luật.
+
+3. Chế độ báo cáo
+
+Ban Giám sát đầu tư của cộng đồng định kỳ báo cáo Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã hoặc khi có yêu cầu về kết quả giám sát các chương trình, dự án trên địa bàn.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.43. Nhiệm vụ, quyền hạn của Ban Giám sát đầu tư của cộng đồng)
 
 Điều 44.13.NĐ.1.19. Công tác phối hợp thực hiện hoạt động của Ban Giám sát đầu tư của cộng đồng
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001900
+1. Ban Giám sát đầu tư của cộng đồng liên hệ chặt chẽ với Nhân dân để nắm bắt thông tin do Nhân dân phản ánh, kịp thời báo cáo đến cơ quan, tổ chức, cá nhân có thẩm quyền để giải quyết; đồng thời, thông tin lại cho Nhân dân về kết quả giải quyết của cơ quan, tổ chức, cá nhân.
 
-**ID:** dk_00072155
+2. Cơ quan quản lý nhà nước, chủ chương trình, chủ đầu tư, ban quản lý chương trình, dự án có trách nhiệm tạo điều kiện thuận lợi để Ban Giám sát đầu tư của cộng đồng thực hiện nhiệm vụ, quyền hạn của mình.
 
----
+Chương III
 
+THỰC HIỆN DÂN CHỦ Ở CƠ QUAN, ĐƠN VỊ
 
-### Điều 44.13.LQ.46. Những nội dung người đứng đầu cơ quan, đơn vị phải công khai
+Mục 1
+
+CÔNG KHAI THÔNG TIN Ở CƠ QUAN, ĐƠN VỊ
 
 Điều 44.13.LQ.46. Những nội dung người đứng đầu cơ quan, đơn vị phải công khai
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000010000000000000000004600000000000000000
+Trừ các thông tin thuộc bí mật nhà nước, bí mật công tác hoặc thông tin chưa được công khai theo quy định của pháp luật, người đứng đầu cơ quan, đơn vị phải công khai trong nội bộ cơ quan, đơn vị các nội dung sau đây:
 
-**ID:** dk_00072158
+1. Chủ trương, chính sách của Đảng và pháp luật của Nhà nước liên quan đến tổ chức và hoạt động của cơ quan, đơn vị;
 
----
+2. Kế hoạch công tác hằng năm, hằng quý, hằng tháng của cơ quan, đơn vị;
 
+3. Số liệu, báo cáo thuyết minh dự toán ngân sách nhà nước đã được cấp có thẩm quyền quyết định và các nguồn tài chính khác; tình hình thực hiện dự toán ngân sách và quyết toán ngân sách hằng năm của cơ quan, đơn vị; kết quả thực hiện các kiến nghị của Kiểm toán nhà nước (nếu có);
 
-### Điều 44.13.LQ.47. Hình thức và thời điểm công khai thông tin ở cơ quan, đơn vị
+4. Tiêu chuẩn, định mức, thủ tục hành chính về tài sản công; tình hình đầu tư xây dựng, mua sắm, giao, thuê, sử dụng, thu hồi, điều chuyển, chuyển đổi công năng, bán, thanh lý, tiêu hủy và hình thức xử lý khác đối với tài sản công; tình hình khai thác nguồn lực tài chính từ tài sản công được giao quản lý, sử dụng;
+
+5. Nguyên tắc, tiêu chí, định mức phân bổ vốn đầu tư công; nguyên tắc, tiêu chí, căn cứ xác định danh mục dự án trong kế hoạch đầu tư công trung hạn và hằng năm; kế hoạch, chương trình đầu tư công của cơ quan, đơn vị, vốn bố trí theo từng năm, tiến độ thực hiện và giải ngân vốn chương trình đầu tư công; kế hoạch phân bổ vốn đầu tư công trung hạn và hằng năm gồm danh mục dự án và mức vốn đầu tư công cho từng dự án; tình hình huy động các nguồn lực và nguồn vốn khác tham gia thực hiện dự án đầu tư công; tình hình và kết quả thực hiện kế hoạch, chương trình, dự án; tiến độ thực hiện và giải ngân của dự án; kết quả nghiệm thu, đánh giá chương trình, dự án; quyết toán vốn đầu tư công;
+
+6. Việc tuyển dụng, tiếp nhận, đào tạo, bồi dưỡng, điều động, bổ nhiệm, bổ nhiệm lại, luân chuyển, biệt phái, từ chức, miễn nhiệm, quy hoạch, chuyển đổi vị trí công tác; hợp đồng làm việc, thay đổi chức danh nghề nghiệp, thay đổi vị trí việc làm, chấm dứt hợp đồng làm việc; đi công tác nước ngoài; giải quyết chế độ, nâng bậc lương, nâng ngạch, đánh giá, xếp loại cán bộ, công chức, viên chức, người lao động; khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với cán bộ, công chức, viên chức, người lao động; các đề án, dự án, chương trình, kế hoạch và việc xây dựng các văn bản quy phạm pháp luật của cơ quan, đơn vị;
+
+7. Kết luận của cấp có thẩm quyền về vụ việc tiêu cực, tham nhũng, lãng phí trong cơ quan, đơn vị; bản kê khai tài sản, thu nhập của người có nghĩa vụ phải kê khai theo quy định của pháp luật;
+
+8. Kết quả thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, kiến nghị trong nội bộ cơ quan, đơn vị;
+
+9. Nội quy, quy chế, quy định của cơ quan, đơn vị; quy tắc ứng xử của người có chức vụ, quyền hạn trong cơ quan, đơn vị;
+
+10. Kết quả tổng hợp ý kiến và giải trình, tiếp thu ý kiến của cán bộ, công chức, viên chức, người lao động về những nội dung cán bộ, công chức, viên chức, người lao động tham gia ý kiến quy định tại Điều 53 của Luật này;
+
+11. Văn bản chỉ đạo, điều hành của cơ quan quản lý cấp trên liên quan đến hoạt động của cơ quan, đơn vị;
+
+12. Nội dung khác theo quy định của pháp luật và quy chế thực hiện dân chủ của cơ quan, đơn vị.
 
 Điều 44.13.LQ.47. Hình thức và thời điểm công khai thông tin ở cơ quan, đơn vị
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000010000000000000000004700000000000000000
+1. Các hình thức công khai thông tin bao gồm:
 
-**ID:** dk_00072159
+a) Niêm yết thông tin;
 
----
+b) Thông báo qua hệ thống thông tin nội bộ hoặc đăng tải trên cổng thông tin điện tử, trang thông tin điện tử của cơ quan, đơn vị;
 
+c) Thông báo tại hội nghị cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị;
 
-### Điều 44.13.LQ.48. Trách nhiệm tổ chức thực hiện việc công khai thông tin ở cơ quan, đơn vị
+d) Thông báo bằng văn bản đến toàn thể cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị;
+
+đ) Thông qua người phụ trách các bộ phận của cơ quan, đơn vị để thông báo đến cán bộ, công chức, viên chức, người lao động;
+
+e) Thông báo bằng văn bản đến tổ chức đảng, Ban Chấp hành Công đoàn cơ quan, đơn vị để thông báo đến cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị;
+
+g) Các hình thức khác theo quy định của pháp luật và quy chế thực hiện dân chủ của cơ quan, đơn vị.
+
+2. Nội dung thông tin quy định tại Điều 46 của Luật này phải được công khai chậm nhất là 05 ngày làm việc kể từ ngày có quyết định, văn bản của cơ quan có thẩm quyền về nội dung cần công khai, trừ trường hợp pháp luật có quy định khác.
 
 Điều 44.13.LQ.48. Trách nhiệm tổ chức thực hiện việc công khai thông tin ở cơ quan, đơn vị
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000010000000000000000004800000000000000000
+1. Trường hợp cơ quan, đơn vị đã có trang thông tin điện tử nội bộ hoặc hệ thống thông tin điện tử nội bộ thì người đứng đầu cơ quan, đơn vị có trách nhiệm tổ chức đăng tải các thông tin quy định tại Điều 46 của Luật này trên trang thông tin điện tử nội bộ hoặc hệ thống thông tin điện tử nội bộ ít nhất là 20 ngày liên tục kể từ ngày bắt đầu đăng tin hoặc gửi thông tin, trừ trường hợp pháp luật có quy định khác.
 
-**ID:** dk_00072160
+2. Trường hợp cơ quan, đơn vị chưa có trang thông tin điện tử nội bộ hoặc hệ thống thông tin điện tử nội bộ thì người đứng đầu cơ quan, đơn vị có trách nhiệm tổ chức niêm yết các thông tin quy định tại Điều 46 của Luật này tại trụ sở của cơ quan, đơn vị và nơi làm việc của các đơn vị, bộ phận có liên quan trực tiếp ít nhất là 20 ngày liên tục kể từ ngày niêm yết, trừ trường hợp đã sử dụng hình thức thông báo bằng văn bản đến toàn thể cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị hoặc pháp luật có quy định khác.
 
----
+3. Cùng với việc thực hiện công khai thông tin bằng các hình thức quy định tại khoản 1 và khoản 2 Điều này, căn cứ vào đặc điểm, tính chất hoạt động và nội dung cần công khai, người đứng đầu cơ quan, đơn vị có thể quyết định lựa chọn thêm các hình thức công khai khác quy định tại khoản 1 Điều 47 của Luật này phù hợp với điều kiện thực tế của cơ quan, đơn vị, bảo đảm để cán bộ, công chức, viên chức và người lao động tiếp cận thông tin chính xác, đầy đủ, kịp thời, thuận lợi.
 
+4. Người đứng đầu cơ quan, đơn vị có trách nhiệm tổ chức cung cấp thông tin theo yêu cầu của cán bộ, công chức, viên chức, người lao động đối với những thông tin trong thời hạn công khai mà chưa được công khai, thông tin đã hết thời hạn công khai hoặc thông tin đang được công khai nhưng vì lý do bất khả kháng mà người yêu cầu không thể tiếp cận được.
 
-### Điều 44.13.LQ.49. Những nội dung cán bộ, công chức, viên chức, người lao động bàn và quyết định
+5. Cơ quan, đơn vị có thể xác định thêm các nội dung thông tin cần công khai, hình thức công khai, việc áp dụng các hình thức công khai đối với từng loại nội dung thông tin nhất định và cách thức thực hiện, việc cung cấp thông tin theo yêu cầu trong quy chế thực hiện dân chủ của cơ quan, đơn vị phù hợp với đặc điểm tổ chức, hoạt động, điều kiện thực tế của cơ quan, đơn vị mình và không trái với quy định tại Mục này.
+
+6. Trường hợp pháp luật có quy định khác về hình thức, cách thức thực hiện công khai đối với nội dung thông tin cụ thể thì áp dụng theo quy định đó.
+
+Mục 2
+
+CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG BÀN VÀ QUYẾT ĐỊNH
 
 Điều 44.13.LQ.49. Những nội dung cán bộ, công chức, viên chức, người lao động bàn và quyết định
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000020000000000000000004900000000000000000
+1. Bầu, cho thôi làm thành viên Ban Thanh tra nhân dân ở cơ quan, đơn vị.
 
-**ID:** dk_00072162
+2. Việc thu, chi, quản lý, sử dụng các khoản đóng góp của cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị ngoài các khoản đã được pháp luật quy định.
 
----
+3. Nội dung nghị quyết hội nghị cán bộ, công chức, viên chức, người lao động.
 
-
-### Điều 44.13.LQ.50. Hình thức cán bộ, công chức, viên chức, người lao động bàn và quyết định
+4. Các công việc tự quản khác trong nội bộ cơ quan, đơn vị không trái với quy định của pháp luật, phù hợp với đạo đức xã hội.
 
 Điều 44.13.LQ.50. Hình thức cán bộ, công chức, viên chức, người lao động bàn và quyết định
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000020000000000000000005000000000000000000
+1. Cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị bàn và quyết định các nội dung quy định tại Điều 49 của Luật này tại hội nghị cán bộ, công chức, viên chức, người lao động trên cơ sở đề xuất của Ban Chấp hành Công đoàn cơ quan, đơn vị, người đứng đầu cơ quan, đơn vị hoặc khi có ít nhất một phần ba tổng số cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị cùng đề nghị.
 
-**ID:** dk_00072163
-
----
-
-
-### Điều 44.13.LQ.51. Tổ chức hội nghị cán bộ, công chức, viên chức, người lao động
+2. Trường hợp không thể tổ chức hội nghị cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị vì lý do bất khả kháng hoặc hội nghị đã được triệu tập đến lần thứ hai nhưng vẫn không có đủ số người tham dự quy định tại điểm c khoản 2 Điều 51 của Luật này thì người đứng đầu cơ quan, đơn vị sau khi đã thống nhất với Ban Chấp hành Công đoàn cơ quan, đơn vị quyết định tổ chức gửi phiếu lấy ý kiến của toàn thể cán bộ, công chức, viên chức, người lao động trong cơ quan, đơn vị.
 
 Điều 44.13.LQ.51. Tổ chức hội nghị cán bộ, công chức, viên chức, người lao động
 
-**Chỉ mục:** 51
+(Điều 51 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000020000000000000000005100000000000000000
+1. Hội nghị cán bộ, công chức, viên chức, người lao động do người đứng đầu cơ quan, đơn vị chủ trì, phối hợp với Công đoàn cơ quan, đơn vị tổ chức.
 
-**ID:** dk_00072164
+Hội nghị cán bộ, công chức, viên chức, người lao động được tổ chức định kỳ mỗi năm một lần sau khi kết thúc năm công tác của cơ quan, đơn vị nhưng không chậm hơn 03 tháng của năm công tác tiếp theo do người đứng đầu cơ quan, đơn vị quyết định sau khi lấy ý kiến của Công đoàn cơ quan, đơn vị.
 
----
+Hội nghị cán bộ, công chức, viên chức, người lao động được tổ chức bất thường khi có đề xuất của các đối tượng quy định tại khoản 1 Điều 50 của Luật này.
 
+2. Thành phần dự hội nghị cán bộ, công chức, viên chức, người lao động được quy định như sau:
 
-### Điều 44.13.LQ.52. Trách nhiệm trong việc tổ chức để cán bộ, công chức, viên chức, người lao động bàn, quyết định và thực hiện quyết định của tập thể cán bộ, công chức, viên chức, người lao động
+a) Đối với cơ quan, đơn vị có tổng số cán bộ, công chức, viên chức, người lao động ít hơn 100 người, thì tổ chức hội nghị toàn thể cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị, trừ trường hợp quy định tại điểm b và điểm đ khoản này;
+
+b) Đối với cơ quan, đơn vị có tổng số cán bộ, công chức, viên chức, người lao động từ 100 người trở lên hoặc có ít hơn 100 người nhưng làm việc phân tán trên địa bàn rộng hoặc vì lý do nghiệp vụ không thể bỏ vị trí làm việc, thì người đứng đầu cơ quan, đơn vị thống nhất với Công đoàn cơ quan, đơn vị quyết định thành phần tham dự hội nghị là toàn thể cán bộ, công chức, viên chức, người lao động hoặc đại biểu cán bộ, công chức, viên chức, người lao động phù hợp với đặc điểm tình hình của cơ quan, đơn vị;
+
+c) Hội nghị được tổ chức hợp lệ khi có ít nhất là hai phần ba tổng số cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị hoặc ít nhất là hai phần ba tổng số đại biểu được triệu tập có mặt. Nghị quyết, quyết định của hội nghị được thông qua khi có trên 50% tổng số người dự hội nghị tán thành và nội dung không trái với quy định của pháp luật, phù hợp với đạo đức xã hội;
+
+d) Đối với các cơ quan, đơn vị có đơn vị trực thuộc, khi tổ chức hội nghị có thể mời người đứng đầu và đại diện Ban Chấp hành Công đoàn của các cơ quan, đơn vị trực thuộc nếu thấy cần thiết;
+
+đ) Cơ quan, đơn vị có từ 07 cán bộ, công chức, viên chức, người lao động trở xuống có thể tổ chức hội nghị cán bộ, công chức, viên chức, người lao động nếu thấy cần thiết.
+
+3. Nội dung của hội nghị cán bộ, công chức, viên chức, người lao động bao gồm:
+
+a) Kiểm điểm việc thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước có liên quan đến chức năng, nhiệm vụ của cơ quan, đơn vị;
+
+b) Kiểm điểm việc thực hiện nghị quyết hội nghị cán bộ, công chức, viên chức, người lao động trước đó và những quy định về thực hiện dân chủ tại cơ quan, đơn vị;
+
+c) Đánh giá, tổng kết và kiểm điểm trách nhiệm của người đứng đầu cơ quan, đơn vị trong việc thực hiện kế hoạch công tác hằng năm;
+
+d) Tổng kết phong trào thi đua, xét khen thưởng và bàn, thống nhất nội dung thi đua năm tiếp theo; thống nhất nội dung giao ước thi đua;
+
+đ) Thảo luận và quyết định các nội dung quy định tại Điều 49 của Luật này;
+
+e) Thực hiện các nội dung về công khai thông tin; lấy ý kiến của cán bộ, công chức, viên chức, người lao động về những nội dung quy định tại Điều 53 của Luật này;
+
+g) Thực hiện các công việc khác theo quyết định của hội nghị.
+
+4. Trình tự tổ chức hội nghị được thực hiện như sau:
+
+a) Người đứng đầu cơ quan, đơn vị trình bày báo cáo về các nội dung quy định tại điểm a và điểm c khoản 3 Điều này;
+
+b) Đại diện Công đoàn cơ quan, đơn vị báo cáo về các nội dung quy định tại điểm b khoản 3 Điều này; kết quả giám sát, hỗ trợ cán bộ, công chức, viên chức, người lao động thực hiện dân chủ ở cơ quan, đơn vị;
+
+c) Cán bộ, công chức, viên chức, người lao động tham dự hội nghị thảo luận, tham gia ý kiến, đề xuất, kiến nghị (nếu có);
+
+d) Người đứng đầu cơ quan, đơn vị, Chủ tịch Công đoàn cơ quan, đơn vị tiếp thu, giải đáp thắc mắc, kiến nghị của cán bộ, công chức, viên chức, người lao động đối với các nội dung thuộc thẩm quyền, bàn các biện pháp cải tiến điều kiện làm việc, nâng cao đời sống của cán bộ, công chức, viên chức, người lao động trong cơ quan, đơn vị, các biện pháp thực hiện kế hoạch công tác năm tiếp theo của cơ quan, đơn vị;
+
+đ) Đại diện Ban Thanh tra nhân dân trình bày báo cáo hoạt động của Ban Thanh tra nhân dân trong năm và chương trình công tác năm tiếp theo;
+
+e) Hội nghị quyết định các nội dung quy định tại Điều 49 của Luật này (nếu có);
+
+g) Tổ chức khen thưởng cá nhân, tập thể của cơ quan, đơn vị có thành tích trong công tác; phát động phong trào thi đua;
+
+h) Ký kết giao ước thi đua giữa người đứng đầu cơ quan, đơn vị với tổ chức công đoàn;
+
+i) Thông qua nghị quyết hội nghị.
 
 Điều 44.13.LQ.52. Trách nhiệm trong việc tổ chức để cán bộ, công chức, viên chức, người lao động bàn, quyết định và thực hiện quyết định của tập thể cán bộ, công chức, viên chức, người lao động
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000020000000000000000005200000000000000000
+1. Người đứng đầu cơ quan, đơn vị có trách nhiệm phối hợp cùng Ban Chấp hành Công đoàn cơ quan, đơn vị thống nhất chủ trương, xây dựng kế hoạch tổ chức hội nghị cán bộ, công chức, viên chức, người lao động hoặc tổ chức gửi phiếu lấy ý kiến để cán bộ, công chức, viên chức, người lao động bàn, quyết định các nội dung quy định tại Điều 49 của Luật này.
 
-**ID:** dk_00072165
+2. Người đứng đầu cơ quan, đơn vị phối hợp cùng Ban Chấp hành Công đoàn cơ quan, đơn vị phổ biến, hướng dẫn, đôn đốc việc thực hiện nghị quyết của hội nghị cán bộ, công chức, viên chức, người lao động, quy chế thực hiện dân chủ của cơ quan, đơn vị và các nội dung khác đã được cán bộ, công chức, viên chức, người lao động thống nhất, quyết định; cử đầu mối để phối hợp, theo dõi, đề xuất xử lý kịp thời những phát sinh trong quá trình tổ chức thực hiện.
 
----
+3. Định kỳ 06 tháng một lần, người đứng đầu cơ quan, đơn vị phối hợp với Ban Chấp hành Công đoàn cơ quan, đơn vị tổ chức kiểm tra, đánh giá kết quả thực hiện nghị quyết hội nghị cán bộ, công chức, viên chức, người lao động; thông báo kết quả kiểm tra, đánh giá đến toàn thể cán bộ, công chức, viên chức, người lao động trong cơ quan, đơn vị.
 
+4. Đảng viên, cán bộ, công chức, viên chức, người lao động trong cơ quan, đơn vị có trách nhiệm tích cực, gương mẫu tham gia bàn và quyết định các nội dung quy định tại Điều 49 của Luật này và nghiêm túc thực hiện các quyết định đã được tập thể thống nhất; trường hợp nhận thấy quyết định của tập thể cán bộ, công chức, viên chức, người lao động không bảo đảm trình tự, thủ tục hoặc có nội dung trái với quy định của pháp luật, trái đạo đức xã hội thì có quyền kiến nghị, phản ánh đến Ban Chấp hành Công đoàn cấp trên, lãnh đạo cấp trên trực tiếp của cơ quan, đơn vị hoặc cơ quan khác có thẩm quyền.
 
-### Điều 44.13.LQ.53. Những nội dung cán bộ, công chức, viên chức, người lao động tham gia ý kiến trước khi người đứng đầu cơ quan, đơn vị quyết định
+Mục 3
+
+CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG THAM GIA Ý KIẾN
 
 Điều 44.13.LQ.53. Những nội dung cán bộ, công chức, viên chức, người lao động tham gia ý kiến trước khi người đứng đầu cơ quan, đơn vị quyết định
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000030000000000000000005300000000000000000
+1. Giải pháp thực hiện chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước liên quan đến chức năng, nhiệm vụ của cơ quan, đơn vị.
 
-**ID:** dk_00072167
+2. Kế hoạch công tác hằng năm của cơ quan, đơn vị.
 
----
+3. Tổ chức phong trào thi đua của cơ quan, đơn vị.
 
+4. Báo cáo sơ kết, tổng kết của cơ quan, đơn vị.
 
-### Điều 44.13.LQ.54. Hình thức cán bộ, công chức, viên chức, người lao động tham gia ý kiến
+5. Các biện pháp cải tiến tổ chức, hoạt động và lề lối làm việc; phòng, chống tham nhũng, tiêu cực; thực hành tiết kiệm, chống lãng phí, chống quan liêu, phiền hà, sách nhiễu Nhân dân.
+
+6. Kế hoạch tuyển dụng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức; bầu cử, bổ nhiệm cán bộ, công chức, viên chức.
+
+7. Thực hiện chế độ, chính sách liên quan đến quyền và lợi ích của cán bộ, công chức, viên chức, người lao động.
+
+8. Dự thảo quy chế thực hiện dân chủ của cơ quan, đơn vị.
+
+9. Dự thảo quy chế chi tiêu nội bộ của cơ quan, đơn vị (nếu có).
+
+10. Các dự thảo nội quy, quy chế khác của cơ quan, đơn vị.
+
+11. Các nội dung khác theo quy định của pháp luật và quy chế thực hiện dân chủ của cơ quan, đơn vị.
 
 Điều 44.13.LQ.54. Hình thức cán bộ, công chức, viên chức, người lao động tham gia ý kiến
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000030000000000000000005400000000000000000
+Căn cứ đặc điểm, tính chất hoạt động và nội dung tham gia ý kiến, cán bộ, công chức, viên chức, người lao động có thể tham gia ý kiến thông qua một hoặc một số hình thức sau đây:
 
-**ID:** dk_00072168
+1. Tham gia ý kiến trực tiếp với người đứng đầu cơ quan, đơn vị hoặc thông qua người phụ trách các bộ phận của cơ quan, đơn vị;
 
----
+2. Thông qua hội nghị cán bộ, công chức, viên chức, người lao động và các cuộc họp, hội nghị khác của cơ quan, đơn vị;
 
+3. Thể hiện ý kiến qua phiếu lấy ý kiến trực tiếp hoặc dự thảo văn bản do cấp có thẩm quyền gửi;
 
-### Điều 44.13.LQ.55. Trách nhiệm trong việc tổ chức để cán bộ, công chức, viên chức, người lao động tham gia ý kiến
+4. Tham gia ý kiến qua hòm thư góp ý, đường dây nóng, hệ thống thông tin nội bộ hoặc cổng thông tin điện tử, trang thông tin điện tử của cơ quan, đơn vị;
+
+5. Thông qua Công đoàn và các tổ chức đoàn thể khác tại cơ quan, đơn vị;
+
+6. Các hình thức khác không trái với quy định của pháp luật và được quy định trong quy chế thực hiện dân chủ của cơ quan, đơn vị.
 
 Điều 44.13.LQ.55. Trách nhiệm trong việc tổ chức để cán bộ, công chức, viên chức, người lao động tham gia ý kiến
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000030000030000000000000000005500000000000000000
+1. Người đứng đầu cơ quan, đơn vị có kế hoạch tổ chức lấy ý kiến cán bộ, công chức, viên chức, người lao động về các nội dung quy định tại Điều 53 của Luật này, trong đó xác định rõ nội dung lấy ý kiến, hình thức lấy ý kiến, cách thức, thời hạn triển khai và trách nhiệm tổ chức thực hiện; chịu trách nhiệm chỉ đạo việc tiếp nhận, tổng hợp ý kiến, thông tin phản hồi của cán bộ, công chức, viên chức, người lao động; nghiên cứu, tiếp thu, giải trình ý kiến tham gia và thực hiện việc công khai nội dung giải trình, tiếp thu đến cán bộ, công chức, viên chức, người lao động.
 
-**ID:** dk_00072169
+2. Ban Chấp hành Công đoàn cơ quan, đơn vị phối hợp với người đứng đầu cơ quan, đơn vị trong việc thực hiện kế hoạch tổ chức lấy ý kiến; giám sát việc lập và tổ chức thực hiện kế hoạch tổ chức lấy ý kiến, quá trình lấy ý kiến, kết quả giải trình, tiếp thu và tổ chức thực hiện các nội dung cán bộ, công chức, viên chức, người lao động đã tham gia ý kiến; tham gia ý kiến trước khi người đứng đầu cơ quan, đơn vị quyết định ban hành quy chế thực hiện dân chủ của cơ quan, đơn vị.
 
----
+3. Đảng viên, cán bộ, công chức, viên chức, người lao động trong cơ quan, đơn vị có trách nhiệm tích cực, gương mẫu đóng góp, tham gia ý kiến làm cơ sở cho cấp có thẩm quyền quyết định; theo dõi, đánh giá, giám sát việc tổng hợp, giải trình, tiếp thu ý kiến đối với các nội dung đã được đưa ra lấy ý kiến cán bộ, công chức, viên chức, người lao động và quá trình tổ chức thực hiện quyết định về các nội dung này.
 
+Mục 4
 
-### Tiểu mục 1 NỘI DUNG, HÌNH THỨC KIỂM TRA, GIÁM SÁT
+CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG KIỂM TRA, GIÁM SÁT
 
-*Nội dung chưa có sẵn*
+Tiểu mục 1
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 440130000000000030000040000000000000000000100000000000000000
-
-**ID:** dk_00072171
-
----
-
-
-### Điều 44.13.LQ.56. Nội dung cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát
+NỘI DUNG, HÌNH THỨC KIỂM TRA, GIÁM SÁT
 
 Điều 44.13.LQ.56. Nội dung cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát
 
-**Chỉ mục:** 56
+(Điều 56 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000010000000000000000005600000000000000000
+1. Cán bộ, công chức, viên chức, người lao động kiểm tra việc thực hiện các nội dung mà tập thể cán bộ, công chức, viên chức, người lao động đã bàn và quyết định quy định tại Điều 49 của Luật này.
 
-**ID:** dk_00072172
+2. Cán bộ, công chức, viên chức, người lao động giám sát việc tổ chức thực hiện dân chủ ở cơ sở và việc thực hiện chính sách, pháp luật của người đứng đầu, ban lãnh đạo, người có thẩm quyền của cơ quan, đơn vị, hành vi hành chính của người thực thi công vụ, nhiệm vụ tại cơ quan, đơn vị.
 
----
-
-
-### Điều 44.13.LQ.57. Hình thức cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.21. Tổ chức của Ban Thanh tra nhân dân ở cơ quan, đơn vị)
 
 Điều 44.13.LQ.57. Hình thức cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000010000000000000000005700000000000000000
+1. Cán bộ, công chức, viên chức, người lao động trực tiếp thực hiện việc kiểm tra, giám sát thông qua:
 
-**ID:** dk_00072173
+a) Hoạt động học tập, công tác, sinh hoạt của cán bộ, công chức, viên chức, người lao động ở cơ quan, đơn vị;
 
----
+b) Quan sát, tìm hiểu, giao tiếp với người có chức vụ, quyền hạn, cán bộ, công chức, viên chức, người lao động khác trong cơ quan, đơn vị;
 
+c) Tiếp cận các thông tin được công khai; các thông tin, báo cáo của cơ quan, đơn vị hoặc người được giao quản lý, thực hiện các nội dung cán bộ, công chức, viên chức, người lao động đã bàn và quyết định;
 
-### Điều 44.13.LQ.58. Xử lý kết quả kiểm tra, giám sát của cán bộ, công chức, viên chức, người lao động
+d) Tham dự hội nghị cán bộ, công chức, viên chức, người lao động.
+
+2. Cán bộ, công chức, viên chức, người lao động thực hiện việc kiểm tra, giám sát thông qua hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị.
 
 Điều 44.13.LQ.58. Xử lý kết quả kiểm tra, giám sát của cán bộ, công chức, viên chức, người lao động
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000010000000000000000005800000000000000000
+1. Thông qua việc kiểm tra, giám sát trực tiếp, cán bộ, công chức, viên chức, người lao động tham gia nhận xét, góp ý kiến về phẩm chất chính trị, đạo đức, năng lực, trình độ chuyên môn, nghiệp vụ, kết quả thực hiện nhiệm vụ của người đứng đầu, ban lãnh đạo, người quản lý, phụ trách trực tiếp, những người có thẩm quyền khác tại cơ quan, đơn vị; tích cực tham gia ý kiến góp phần xây dựng nội bộ cơ quan, đơn vị trong sạch, vững mạnh.
 
-**ID:** dk_00072174
+2. Khi phát hiện hành vi, nội dung có dấu hiệu vi phạm, cán bộ, công chức, viên chức, người lao động có quyền khiếu nại, tố cáo theo quy định của pháp luật hoặc kiến nghị, phản ánh đến người đứng đầu cơ quan, đơn vị, đến tổ chức Công đoàn hoặc các tổ chức đoàn thể khác mà mình là thành viên được thành lập và hoạt động ở cơ quan, đơn vị hoặc phản ánh, đề nghị Ban Thanh tra nhân dân xem xét, thực hiện kiểm tra, giám sát theo chức năng, nhiệm vụ.
 
----
-
-
-### Điều 44.13.LQ.59. Trách nhiệm trong việc bảo đảm để cán bộ, công chức, viên chức, người lao động thực hiện kiểm tra, giám sát
+3. Ban Thanh tra nhân dân ở cơ quan, đơn vị thay mặt cán bộ, công chức, viên chức, người lao động thực hiện kiểm tra, giám sát theo quy định tại Tiểu mục 2 của Mục này.
 
 Điều 44.13.LQ.59. Trách nhiệm trong việc bảo đảm để cán bộ, công chức, viên chức, người lao động thực hiện kiểm tra, giám sát
 
-**Chỉ mục:** 59
+(Điều 59 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000010000000000000000005900000000000000000
+1. Người đứng đầu cơ quan, đơn vị có trách nhiệm sau đây:
 
-**ID:** dk_00072175
+a) Phối hợp cùng Ban Chấp hành Công đoàn cơ quan, đơn vị, căn cứ vào yêu cầu, nhiệm vụ, đặc điểm, tính chất tổ chức, hoạt động và điều kiện thực tế của cơ quan, đơn vị, xây dựng và ban hành quy chế thực hiện dân chủ của cơ quan, đơn vị để quy định cụ thể hơn nội dung, cách thức thực hiện dân chủ ở cơ quan, đơn vị mình làm cơ sở để cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát việc thực hiện. Nội dung của quy chế thực hiện dân chủ của cơ quan, đơn vị có thể mở rộng hơn phạm vi thực hiện dân chủ của cán bộ, công chức, viên chức, người lao động nhưng không được trái hoặc hạn chế việc thực hiện các nội dung đã được quy định trong Luật này;
 
----
+b) Tạo lập cơ chế tiếp nhận góp ý, kiến nghị, phản ánh của cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị; thực hiện việc đối thoại, giải trình với cán bộ, công chức, viên chức, người lao động theo quy định của pháp luật; sử dụng nội dung nhận xét, góp ý của cán bộ, công chức, viên chức, người lao động trong quá trình thực hiện đánh giá, xếp loại chất lượng cán bộ, công chức, viên chức, người lao động tại cơ quan, đơn vị;
 
+c) Xem xét, giải quyết, giải trình và trả lời kịp thời khiếu nại, tố cáo, kiến nghị, phản ánh của cán bộ, công chức, viên chức, người lao động, kiến nghị của Công đoàn và các tổ chức đoàn thể khác tại cơ quan, đơn vị; kịp thời báo cáo, chuyển thông tin đến cơ quan có thẩm quyền đối với những vấn đề không thuộc thẩm quyền giải quyết của mình;
 
-### Tiểu mục 2 BAN THANH TRA NHÂN DÂN Ở CƠ QUAN, ĐƠN VỊ
+d) Tạo điều kiện và bảo đảm để Ban Thanh tra nhân dân ở cơ quan, đơn vị thực hiện nhiệm vụ kiểm tra, giám sát theo quy định của pháp luật;
 
-Tiểu mục 2 BAN THANH TRA NHÂN DÂN Ở CƠ QUAN, ĐƠN VỊ
+đ) Xử lý người có hành vi cản trở cán bộ, công chức, viên chức, người lao động thực hiện quyền kiểm tra, giám sát hoặc người có hành vi trả thù, trù dập người khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp luật;
 
-**Chỉ mục:** 2
+e) Thực hiện các biện pháp phòng ngừa, ngăn chặn hành vi tham nhũng, tiêu cực; xử lý và tạo điều kiện để cơ quan, tổ chức có thẩm quyền xử lý người có hành vi tham nhũng, tiêu cực; nếu thiếu trách nhiệm để xảy ra tham nhũng, tiêu cực trong cơ quan, đơn vị thì bị xử lý theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000030000040000000000000000000200000000000000000
+2. Các cơ quan, đơn vị, tổ chức, cá nhân quy định tại khoản 2 Điều 58 của Luật này có trách nhiệm tiếp nhận, xử lý, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của cán bộ, công chức, viên chức, người lao động theo thẩm quyền hoặc thực hiện việc thanh tra, kiểm tra, giám sát theo quy định của pháp luật.
 
-**ID:** dk_00072176
+3. Cán bộ, công chức, viên chức, người lao động chịu trách nhiệm về nội dung khiếu nại, tố cáo, kiến nghị, phản ánh của mình; chủ động, tích cực phối hợp với Ban Thanh tra nhân dân và các cơ quan, tổ chức, cá nhân có trách nhiệm trong việc xác minh, kiểm tra, giám sát đối với các nội dung mà mình đã kiến nghị, đề nghị.
 
----
+Tiểu mục 2
 
-
-### Điều 44.13.LQ.60. Tổ chức Ban Thanh tra nhân dân ở cơ quan, đơn vị
+BAN THANH TRA NHÂN DÂN Ở CƠ QUAN, ĐƠN VỊ
 
 Điều 44.13.LQ.60. Tổ chức Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000020000000000000000006000000000000000000
+1. Ban Thanh tra nhân dân ở cơ quan, đơn vị do hội nghị cán bộ, công chức, viên chức, người lao động bầu gồm từ 03 đến 09 thành viên theo đề nghị của Ban Chấp hành Công đoàn cơ quan, đơn vị.
 
-**ID:** dk_00072177
+Trường hợp cơ quan, đơn vị có tính chất đặc thù hoặc hoạt động phân tán thì hội nghị cán bộ, công chức, viên chức, người lao động có thể quyết định số lượng thành viên Ban Thanh tra nhân dân nhiều hơn để bảo đảm hoạt động có hiệu quả.
 
----
+Trường hợp cơ quan, đơn vị có từ 07 cán bộ, công chức, viên chức, người lao động trở xuống hoặc trong các trường hợp đặc thù thì không tổ chức Ban Thanh tra nhân dân.
 
+2. Thành viên Ban Thanh tra nhân dân là người đang công tác trong cơ quan, đơn vị, có phẩm chất đạo đức tốt, có uy tín trong cơ quan, đơn vị, có đủ sức khỏe để hoàn thành nhiệm vụ; có hiểu biết về chính sách, pháp luật và tự nguyện tham gia Ban Thanh tra nhân dân; không đồng thời là người đứng đầu, cấp phó của người đứng đầu, kế toán trưởng của cơ quan, đơn vị.
 
-### Điều 44.13.TT.1.3. Hội đồng quân nhân
+3. Nhiệm kỳ của Ban Thanh tra nhân dân là 02 năm. Trong nhiệm kỳ, nếu khuyết thành viên hoặc thành viên Ban Thanh tra nhân dân không hoàn thành nhiệm vụ, không còn được tín nhiệm hoặc xin thôi làm nhiệm vụ thì Ban Chấp hành Công đoàn cơ quan, đơn vị đề nghị hội nghị cán bộ, công chức, viên chức, người lao động quyết định cho thôi làm nhiệm vụ và bầu người khác thay thế.
 
-*Nội dung chưa có sẵn*
+4. Ban Thanh tra nhân dân ở cơ quan, đơn vị gồm Trưởng ban, Phó Trưởng ban và các Ủy viên. Trưởng ban chịu trách nhiệm chung về hoạt động của Ban Thanh tra nhân dân; Phó Trưởng ban có trách nhiệm giúp Trưởng ban thực hiện nhiệm vụ; các thành viên khác thực hiện nhiệm vụ theo sự phân công của Trưởng ban.
 
-**Chỉ mục:** 3
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.21. Tổ chức của Ban Thanh tra nhân dân ở cơ quan, đơn vị)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000300
+Điều 44.13.TT.1.3. Hội đồng quân nhân
 
-**ID:** dk_00072178
+(Điều 3 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
----
+ Hội đồng quân nhân là tổ chức đại diện cho quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng; được thành lập ở cơ quan, đơn vị; do đại hội quân nhân bầu ra để thực hiện phát huy dân chủ về quân sự - chuyên môn, chính trị, kinh tế - đời sống ở cơ quan, đơn vị.Điều 44.13.TT.1.4. Nguyên tắc tổ chức và hoạt động của Hội đồng quân nhân
 
+(Điều 4 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-### Điều 44.13.TT.1.4. Nguyên tắc tổ chức và hoạt động của Hội đồng quân nhân
+ 1. Hội đồng quân nhân tổ chức theo nguyên tắc tập trung dân chủ, được đại hội quân nhân bầu bằng hình thức bỏ phiếu kín; nội dung, chương trình hoạt động, quyết định của Hội đồng quân nhân được dân chủ thảo luận và biểu quyết theo đa số. Hội đồng quân nhân ban hành quy chế làm việc, phân công các ủy viên đảm nhiệm từng mặt công tác.
 
-Điều 44.13.TT.1.4. Nguyên tắc tổ chức và hoạt động của Hội đồng quân nhân
+ 2. Tổ chức và hoạt động của Hội đồng quân nhân đặt dưới sự lãnh đạo của cấp ủy, chi bộ; sự chỉ đạo, hướng dẫn, kiểm tra của bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên và cơ quan chính trị các cấp.
 
-**Chỉ mục:** 4
+ 3. Đối với cơ quan, đơn vị mới thành lập hoặc lâm thời thành lập thời gian trên 12 tháng thì cấp ủy, chi bộ chỉ định Hội đồng quân nhân để tổ chức hoạt động; trong thời hạn 3 tháng phải tiến hành đại hội quân nhân để bầu Hội đồng quân nhân mới. Với những đơn vị có thời gian hoạt động dưới 12 tháng thì cấp ủy, chi bộ chỉ định thành lập lâm thời Hội đồng quân nhân và tự giải thể sau khi hoàn thành nhiệm vụ.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000400
+ Điều 44.13.TT.1.5. Tổ chức Hội đồng quân nhân
 
-**ID:** dk_00072179
+(Điều 5 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
----
+ 1. Hội đồng quân nhân được thành lập ở các cơ quan, đơn vị.
 
+ a) Đại đội; tiểu đoàn bộ; đồn biên phòng; đội cảnh sát biển; hải đội biên phòng; tiểu khu biên phòng; trạm cảnh sát biển; tiểu đoàn tên lửa phòng không; phi đội không quân; khối cơ quan lữ đoàn, trung đoàn, đoàn cảnh sát biển, ban chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh và đơn vị tương đương.
 
-### Điều 44.13.TT.1.5. Tổ chức Hội đồng quân nhân
+ b) Cấp phòng của cơ quan sư đoàn, bộ tư lệnh vùng (Hải quân và Cảnh sát biển), bộ chỉ huy quân sự, bộ chỉ huy bộ đội biên phòng tỉnh, thành phố và đơn vị tương đương; khối cơ quan sư đoàn khung thường trực; trung đoàn khung thường trực và đơn vị tương đương.
 
-*Nội dung chưa có sẵn*
+ c) Cấp cục và tương đương.
 
-**Chỉ mục:** 5
+ d) Lớp học, đại đội học viên, khoa, ban, phòng và tương đương của học viện, nhà trường, trung tâm, viện nghiên cứu, bệnh viện.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000500
+ đ) Các tổng kho, kho, trạm, xưởng, khối cơ quan doanh nghiệp trực thuộc Bộ Quốc phòng.
 
-**ID:** dk_00072180
+ e) Cơ quan, đơn vị còn lại, căn cứ vào tổ chức biên chế, nhiệm vụ và tính chất hoạt động của từng đơn vị để thành lập Hội đồng quân nhân (có thể thành lập ghép) cho phù hợp theo quy định tại các điểm a, b, Khoản này.
 
----
+ 2. Cơ quan, đơn vị không thành lập Hội đồng quân nhân.
 
+ a) Cơ quan, đơn vị có quân số dưới 10 người.
 
-### Điều 44.13.TT.1.6. Thành phần, tiêu chuẩn, số lượng ủy viên Hội đồng quân nhân
+ b) Các đơn vị sự nghiệp công lập ở cơ sở.Điều 44.13.TT.1.6. Thành phần, tiêu chuẩn, số lượng ủy viên Hội đồng quân nhân
 
-Điều 44.13.TT.1.6. Thành phần, tiêu chuẩn, số lượng ủy viên Hội đồng quân nhân
+(Điều 6 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Chỉ mục:** 6
+ 1. Thành phần Hội đồng quân nhân.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000600
+ Sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ, công chức, công nhân quốc phòng, viên chức quốc phòng trong cơ quan, đơn vị có đủ tiêu chuẩn đều có thể tham gia ứng cử ủy viên Hội đồng quân nhân.
 
-**ID:** dk_00072181
+ 2. Tiêu chuẩn ủy viên Hội đồng quân nhân.
 
----
+ a) Có phẩm chất chính trị vững vàng, đạo đức tốt, có tinh thần trách nhiệm và tính, chiến đấu cao, có tác phong sâu sát được quần chúng tín nhiệm, có năng lực tổ chức thực hiện nhiệm vụ được phân công.
 
+ b) Chủ tịch, Phó Chủ tịch Hội đồng quân nhân phải nắm chắc các hoạt động của cơ quan, đơn vị, nhiệm vụ, quyền hạn, phương thức hoạt động của Hội đồng quân nhân và có năng lực tổ chức thực hiện dân chủ trong cơ quan, đơn vị.
 
-### Điều 44.13.TT.1.18. Đại hội quân nhân
+ 3. Số lượng ủy viên Hội đồng quân nhân.
 
-*Nội dung chưa có sẵn*
+ a) Cơ quan, đơn vị có quân số 60 người trở xuống bầu từ 03 đến 05 ủy viên; trên 60 người bầu không quá 09 ủy viên.
 
-**Chỉ mục:** 18
+ b) Chủ tịch, Phó Chủ tịch Hội đồng quân nhân do đại hội quân nhân bầu trong số ủy viên bằng hình thức bỏ phiếu kín. Không cơ cấu Chủ tịch Hội đồng quân nhân là cấp trưởng hoặc bí thư cấp ủy.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650001800
+ 4. Bổ sung và miễn nhiệm ủy viên Hội đồng quân nhân.
 
-**ID:** dk_00072182
+ a) Việc bổ sung ủy viên Hội đồng quân nhân do Hội đồng quân nhân đề nghị cấp ủy, chi bộ quyết định; trường hợp đặc biệt do cấp ủy, chi bộ chỉ định.
 
----
+ b) Nếu ủy viên Hội đồng quân nhân vi phạm pháp luật; vi phạm kỷ luật quân đội phải xử lý, uy tín thấp thì Hội đồng quân nhân đề nghị cấp ủy miễn nhiệm và đề xuất nhân sự thay thế hoặc tổ chức hội nghị quân nhân bầu bổ sung.
 
+ Điều 44.13.TT.1.18. Đại hội quân nhân
 
-### Điều 44.13.TT.1.19. Sinh hoạt Hội đồng quân nhân và tập thể quân nhân
+(Điều 18 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-Điều 44.13.TT.1.19. Sinh hoạt Hội đồng quân nhân và tập thể quân nhân
+ 1. Đại hội quân nhân được tổ chức 5 năm hai lần.
 
-**Chỉ mục:** 19
+ a) Nhiệm kỳ của Hội đồng quân nhân được tính từ khi đại hội bầu ra đến kỳ đại hội kế tiếp bầu ra Hội đồng quân nhân mới.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650001900
+ b) Hết nhiệm kỳ, các cơ quan, đơn vị tổ chức đại hội quân nhân để đánh giá kết quả hoạt động của Hội đồng quân nhân trong nhiệm kỳ, đề ra chương trình hoạt động nhiệm kỳ mới; bầu Hội đồng quân nhân khóa mới.
 
-**ID:** dk_00072183
+ c) Trong trường hợp hết nhiệm kỳ mà chưa có điều kiện tiến hành đại hội thì Hội đồng quân nhân phải báo cáo cấp ủy, chi bộ kéo dài nhiệm kỳ nhưng không quá 3 tháng.
 
----
+ 2. Triệu tập, tổ chức đại hội quân nhân.
 
+ a) Hội đồng quân nhân báo cáo bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên về việc triệu tập, tổ chức đại hội. Đại hội quân nhân phải có ít nhất hai phần ba tổng quân số của cơ quan, đơn vị tham gia.
 
-### Điều 44.13.TT.1.20. Sinh hoạt đối thoại
+ b) Thành phần tham gia đại hội quân nhân gồm: Quân nhân, công chức quốc phòng, công nhân quốc phòng, viên chức quốc phòng của cơ quan, đơn vị.
 
-*Nội dung chưa có sẵn*
+ c) Danh sách giới thiệu để bầu Hội đồng quân nhân viết theo vần A, B, C (chữ cái đầu của tên); số lượng phải nhiều hơn số lượng cần bầu từ 10 % đến 35%. Người nào có số phiếu tín nhiệm hợp lệ đạt trên 50% (quá bán) so với tổng quân số được triệu tập thì trúng cử; nếu nhiều người có số phiếu quá bán thì lấy từ người có số phiếu cao nhất trở xuống cho đến khi đủ số lượng cần bầu; trường hợp ở cuối danh sách trúng cử có nhiều người ngang phiếu nhau và nhiều hơn số lượng cần bầu thì bầu lại số người ngang phiếu nhau để lấy người có số phiếu cao hơn, không cần quá bán. Nếu bầu lần thứ nhất chưa đủ số lượng ủy viên Hội đồng quân nhân, việc tiếp tục bầu nữa hay không do đại hội quyết định.
 
-**Chỉ mục:** 20
+ d) Cấp ủy, chi bộ xem xét, ra quyết định chuẩn y kết quả bầu Hội đồng quân nhân.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650002000
+ 3. Trình tự các bước trong đại hội.
 
-**ID:** dk_00072184
+ a) Chào cờ, hát Quốc ca.
 
----
+ b) Tuyên bố lý do, giới thiệu đại biểu.
 
+ c) Bầu chủ tịch đại hội: Giới thiệu số lượng và danh sách (từ 01 đến 03 người) đại hội biểu quyết bằng giơ tay.
 
-### Điều 44.13.LQ.61. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+ d) Chủ tịch điều hành bầu thư ký đại hội.
 
-Điều 44.13.LQ.61. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+ đ) Thông qua chương trình, thời gian đại hội.
 
-**Chỉ mục:** 61
+ e) Trình bày dự thảo Báo cáo đánh giá kết quả phát huy dân chủ và Kiểm điểm của Hội đồng quân nhân trong nhiệm kỳ, phương hướng hoạt động nhiệm kỳ tới; thảo luận, kết luận và biểu quyết thông qua.
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000020000000000000000006100000000000000000
+ g) Bầu cử Hội đồng quân nhân, Chủ tịch và Phó Chủ tịch Hội đồng quân nhân khóa mới.
 
-**ID:** dk_00072185
+ Quán triệt tiêu chuẩn, nguyên tắc bầu cử; biểu quyết số lượng ủy viên Hội đồng quân nhân và danh sách đề cử, ứng cử Hội đồng quân nhân khóa mới.
 
----
+ Điều hành đại hội bầu tổ kiểm phiếu và tiến hành bầu cử.
 
+ h) Bế mạc đại hội, chào cờ, hát Quốc ca.
 
-### Điều 44.13.TT.1.7. Chức năng của Hội đồng quân nhân
+ 4. Trang trí đại hội.
+
+ Trên cùng là khẩu hiệu “Đảng Cộng sản Việt Nam quang vinh muôn năm”. Bên trái (nhìn từ dưới lên) ghi tên đơn vị; cờ Tổ quốc, dưới cờ Tổ quốc là ảnh hoặc tượng chân dung Chủ tịch Hồ Chí Minh. Bên phải là tiêu đề Đại hội.
+
+ Nội dung tiêu đề: ĐẠI HỘI QUÂN NHÂN
+
+ Nhiệm kỳ .....
+
+ (Địa danh), ngày tháng năm
+
+ Các khẩu hiệu chỉ đạo tư tưởng, hành động, tuyên truyền, cổ động của đại hội quân nhân do cơ quan, đơn vị xác định.Điều 44.13.TT.1.19. Sinh hoạt Hội đồng quân nhân và tập thể quân nhân
+
+(Điều 19 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
+
+ 1. Định kỳ Hội đồng quân nhân mỗi tháng họp 1 lần; tập thể quân nhân thực hiện theo Điều lệnh quản lý bộ đội trong Quân đội nhân dân Việt Nam và quy định của chỉ huy đơn vị.
+
+ 2. Khi có đa số quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng đề nghị và được bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên ở cơ quan, đơn vị xét thấy cần thiết thì Hội đồng quân nhân tổ chức sinh hoạt tập thể quân nhân đột xuất. Nội dung sinh hoạt do Hội đồng quân nhân đề xuất hoặc do bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên quyết định.
+
+ 3. Trước khi sinh hoạt tập thể quân nhân thực hiện nội dung về dân chủ hoặc đại hội nhiệm kỳ, Hội đồng quân nhân phải họp để chuẩn bị nội dung và phân công tổ chức thực hiện cụ thể cho các ủy viên.Điều 44.13.TT.1.20. Sinh hoạt đối thoại
+
+(Điều 20 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
+
+ 1. Cấp cơ sở mỗi tháng 1 lần, cấp trên cơ sở mỗi quý 1 lần, cấp trực thuộc Bộ Quốc phòng 6 tháng 1 lần.
+
+ 2. Thứ 5 tuần cuối trong tháng, người chỉ huy, chính ủy, chính trị viên chỉ đạo Hội đồng quân nhân chuẩn bị nội dung, thông báo, triệu tập thành phần tham gia sinh hoạt đối thoại giữa bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên với toàn thể hoặc đại biểu quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng. Cơ quan chính trị tổng hợp kết quả đối thoại hằng tháng phục vụ cho đối thoại quý, 6 tháng của cơ quan, đơn vị.
+
+ 3. Trường hợp ý kiến, kiến nghị của Hội đồng quân nhân không thống nhất với giải trình của cá nhân, cơ quan, tổ chức có thẩm quyền hoặc khi cần thiết thì bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên tổ chức đối thoại đột xuất với Hội đồng quân nhân hoặc tập thể quân nhân để làm rõ.
+
+ Điều 44.13.LQ.61. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+(Điều 61 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+1. Kiểm tra việc tổ chức thực hiện các quyết định của tập thể cán bộ, công chức, viên chức, người lao động; giám sát việc thực hiện chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở tại cơ quan, đơn vị.
+
+2. Kiến nghị cơ quan, đơn vị, người có thẩm quyền xử lý theo quy định của pháp luật khi phát hiện có dấu hiệu vi phạm pháp luật và giám sát việc thực hiện kiến nghị đó.
+
+3. Yêu cầu người đứng đầu cơ quan, đơn vị cung cấp thông tin, tài liệu có liên quan để phục vụ việc xác minh, kiểm tra, giám sát.
+
+4. Xem xét, xác minh vụ việc cụ thể theo đề nghị của cán bộ, công chức, viên chức, người lao động ở cơ quan, đơn vị.
+
+5. Kiến nghị người đứng đầu cơ quan, đơn vị khắc phục hạn chế, thiếu sót được phát hiện qua việc kiểm tra, giám sát; bảo đảm quyền và lợi ích hợp pháp, chính đáng của cán bộ, công chức, viên chức, người lao động; biểu dương những đơn vị, cá nhân có thành tích. Trường hợp phát hiện người có hành vi vi phạm pháp luật thì kiến nghị cơ quan, tổ chức có thẩm quyền xem xét, xử lý.
+
+6. Tham dự các cuộc họp của cơ quan, đơn vị có nội dung liên quan đến việc thực hiện nhiệm vụ kiểm tra, giám sát của Ban Thanh tra nhân dân.
+
+7. Tiếp nhận kiến nghị, phản ánh của cán bộ, công chức, viên chức, người lao động có liên quan đến phạm vi kiểm tra, giám sát của Ban Thanh tra nhân dân.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.22. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị)
 
 Điều 44.13.TT.1.7. Chức năng của Hội đồng quân nhân
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650000700
+ Hội đồng quân nhân căn cứ vào nghị quyết của cấp ủy, chi bộ, kế hoạch tổ chức thực hiện nhiệm vụ của người chỉ huy, chính ủy, chính trị viên (bí thư); tình hình nhiệm vụ của cơ quan, đơn vị để hướng dẫn và tổ chức cho quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng thực hiện và phát huy dân chủ trên các mặt quân sự - chuyên môn, chính trị, kinh tế - đời sống.Điều 44.13.TT.1.8. Nhiệm vụ của Hội đồng quân nhân
 
-**ID:** dk_00072186
+(Điều 8 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
----
+ 1. Tuyên truyền, vận động quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước, điều lệnh, điều lệ, quy định, nhiệm vụ của Quân đội và đơn vị.
 
+ 2. Xây dựng mối đoàn kết, thống nhất trong cơ quan, đơn vị, phát huy vai trò của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng thực hiện dân chủ về quân sự - chuyên môn, chính trị, kinh tế - đời sống.
 
-### Điều 44.13.TT.1.8. Nhiệm vụ của Hội đồng quân nhân
+ 3. Đại diện bảo vệ quyền, lợi ích hợp pháp, chính đáng và tham gia tư vấn tâm lý, tư vấn pháp luật cho quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng trong cơ quan, đơn vị.
 
-*Nội dung chưa có sẵn*
+ 4. Tham gia góp ý xây dựng đội ngũ cán bộ, đảng viên, tổ chức đảng trong sạch vững mạnh, cơ quan, đơn vị vững mạnh toàn diện.
 
-**Chỉ mục:** 8
+ 5. Tham gia giám sát và phản biện xã hội theo phạm vi, chức năng, nhiệm vụ, quyền hạn.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650000800
+ 6. Tiếp nhận, tổng hợp ý kiến kiến nghị, phản ánh của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng trong cơ quan, đơn vị báo cáo với bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên.
 
-**ID:** dk_00072187
+ 7. Báo cáo bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên cơ quan, đơn vị về tình hình tổ chức và kết quả hoạt động của Hội đồng quân nhân.Điều 44.13.TT.1.9. Quyền hạn của Hội đồng quân nhân
 
----
+(Điều 9 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
+ 1. Hội đồng quân nhân được bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên ở cơ quan, đơn vị thông báo tình hình, nhiệm vụ chính trị, chủ trương lãnh đạo, kế hoạch và biện pháp tổ chức thực hiện hằng tháng, quý, năm; phổ biến về thời sự, chính sách, pháp luật, các chế độ, tiêu chuẩn và những quy định có liên quan đến quyền lợi, nghĩa vụ, trách nhiệm của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng.
 
-### Điều 44.13.TT.1.9. Quyền hạn của Hội đồng quân nhân
+ 2. Tham gia ý kiến vào việc thực hiện nhiệm vụ của cơ quan, đơn vị; giám sát, phản biện xã hội những vấn đề có liên quan đến tổ chức, hoạt động của Hội đồng quân nhân, quyền lợi, nghĩa vụ, trách nhiệm của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng; tham gia giám sát cấp ủy, người đứng đầu, cán bộ chủ chốt, cán bộ, đảng viên về tu dưỡng, rèn luyện đạo đức, lối sống; góp ý đối với cấp ủy, tổ chức đảng, cán bộ, đảng viên.
 
-Điều 44.13.TT.1.9. Quyền hạn của Hội đồng quân nhân
+ 3. Tham gia bình xét khen thưởng, kỷ luật trong cơ quan, đơn vị.
 
-**Chỉ mục:** 9
+ 4. Chủ tịch Hội đồng quân nhân có trách nhiệm báo cáo xin ý kiến bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên nội dung, thời gian sinh hoạt Hội đồng quân nhân, tập thể quân nhân và thông báo, quán triệt cho Hội đồng quân nhân và tập thể quân nhân để tổ chức thực hiện.Điều 44.13.TT.1.10. Mối quan hệ công tác của Hội đồng quân nhân
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650000900
+(Điều 10 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**ID:** dk_00072188
+ 1. Quan hệ với cấp ủy, bí thư cấp ủy, người chỉ huy, chính ủy, chính trị viên là quan hệ phục tùng sự lãnh đạo, chỉ đạo, chỉ huy về tổ chức, hoạt động của Hội đồng quân nhân.
 
----
+ a) Hội đồng quân nhân phục tùng sự lãnh đạo của cấp ủy, chi bộ và sự chỉ đạo, hướng dẫn, kiểm tra của bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên.
 
+ b) Hội đồng quân nhân báo cáo, xin ý kiến của bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên trực tiếp về các chương trình hành động, kế hoạch hoạt động theo chức năng, nhiệm vụ, quyền hạn đã được quy định.
 
-### Điều 44.13.TT.1.10. Mối quan hệ công tác của Hội đồng quân nhân
+ c) Bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên có trách nhiệm chỉ đạo, hướng dẫn, kiểm tra và bồi dưỡng nội dung, hình thức, biện pháp hoạt động cho Hội đồng quân nhân; tôn trọng, lắng nghe, tiếp thu, trả lời, giải quyết những kiến nghị của Hội đồng quân nhân; đảm bảo thời gian, kinh phí để Hội đồng quân nhân hoạt động.
 
-Điều 44.13.TT.1.10. Mối quan hệ công tác của Hội đồng quân nhân
+ 2. Quan hệ với cơ quan chính trị là mối quan hệ chịu sự hướng dẫn, kiểm tra về tổ chức và hoạt động của Hội đồng quân nhân.
 
-**Chỉ mục:** 10
+ a) Hội đồng quân nhân chịu sự hướng dẫn về chuyên môn của cơ quan chính trị. Nơi không có cơ quan chính trị thì chịu sự hướng dẫn của bí thư cấp ủy (chi bộ) hoặc cơ quan chính trị cấp trên.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650001000
+ b) Cơ quan chính trị có trách nhiệm hướng dẫn, kiểm tra Hội đồng quân nhân hoạt động theo nhiệm vụ, quyền hạn, nội dung, phương pháp, chế độ sinh hoạt đã được quy định. Thường xuyên bồi dưỡng, rút kinh nghiệm, nâng cao hiệu quả tổ chức và hoạt động của Hội đồng quân nhân.
 
-**ID:** dk_00072189
+ 3. Quan hệ với ban chấp hành các tổ chức quần chúng cùng cấp là quan hệ phối hợp hoạt động.
 
----
+ Hội đồng quân nhân phối hợp với ban chấp hành các tổ chức quần chúng trong cơ quan, đơn vị thực hiện dân chủ về quân sự - chuyên môn, chính trị, kinh tế - đời sống theo quy định tại Thông tư này.
 
+ Điều 44.13.LQ.62. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-### Điều 44.13.LQ.62. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+(Điều 62 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-Điều 44.13.LQ.62. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+1. Ban Thanh tra nhân dân ở cơ quan, đơn vị do Ban Chấp hành Công đoàn cơ quan, đơn vị trực tiếp chỉ đạo, hướng dẫn hoạt động.
 
-**Chỉ mục:** 62
+2. Căn cứ vào nghị quyết hội nghị cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị và sự chỉ đạo, hướng dẫn của Ban Chấp hành Công đoàn cơ quan, đơn vị, Ban Thanh tra nhân dân xây dựng chương trình công tác theo từng quý, 06 tháng và hằng năm.
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000020000000000000000006200000000000000000
-
-**ID:** dk_00072190
-
----
-
-
-### Điều 44.13.TT.1.11. Thực hiện dân chủ về quân sự - chuyên môn
+3. Ban Thanh tra nhân dân có trách nhiệm báo cáo về hoạt động của mình với Ban Chấp hành Công đoàn cơ quan, đơn vị và tại hội nghị cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị.
 
 Điều 44.13.TT.1.11. Thực hiện dân chủ về quân sự - chuyên môn
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001100
+ Quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng được:
 
-**ID:** dk_00072191
+ 1. Phổ biến, quán triệt nhiệm vụ chính trị; chỉ lệnh, kế hoạch huấn luyện, sẵn sàng chiến đấu, chiến đấu, giáo dục chính trị; các quy định, quy tắc, điều lệnh, điều lệ chuyên môn.
 
----
+ 2. Tham gia giám sát, góp ý về thực hiện nhiệm vụ của người chủ trì, chỉ huy cơ quan, đơn vị và quân nhân (trừ các nội dung thuộc về bí mật Nhà nước).Điều 44.13.TT.1.12. Thực hiện dân chủ về chính trị
 
+(Điều 12 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-### Điều 44.13.TT.1.12. Thực hiện dân chủ về chính trị
+ Quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng được:
 
-*Nội dung chưa có sẵn*
+ 1. Phổ biến, quán triệt và chấp hành các chủ trương, đường lối của Đảng, chính sách và pháp luật của Nhà nước, nghị quyết, chỉ thị của các cấp ủy đảng; các kế hoạch xây dựng tổ chức đảng, chỉ huy và các tổ chức quần chúng của cơ quan, đơn vị.
 
-**Chỉ mục:** 12
+ 2. Tham gia góp ý vào các chủ trương, biện pháp lãnh đạo thực hiện nhiệm vụ chính trị và xây dựng chi bộ, đảng bộ; góp ý và tham gia giám sát cấp ủy, tổ chức đảng, cán bộ, đảng viên về tu dưỡng, rèn luyện đạo đức, lối sống.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001200
+ 3. Tham gia bình xét khen thưởng, kỷ luật.
 
-**ID:** dk_00072192
+ 4. Thực hiện phản biện xã hội những văn bản dự thảo có liên quan đến tổ chức, hoạt động của Hội đồng quân nhân và quyền lợi, nghĩa vụ, trách nhiệm của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng.
 
----
+ 5. Được đề đạt tâm tư, nguyện vọng chính đáng của cá nhân; được tôn trọng và thực hiện các quyền công dân theo quy định của pháp luật.Điều 44.13.TT.1.13. Thực hiện dân chủ về kinh tế - đời sống
 
+(Điều 13 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-### Điều 44.13.TT.1.13. Thực hiện dân chủ về kinh tế - đời sống
+ Quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng được:
 
-Điều 44.13.TT.1.13. Thực hiện dân chủ về kinh tế - đời sống
+ 1. Phổ biến, quán triệt về chủ trương, biện pháp tổ chức thực hiện tăng gia sản xuất.
 
-**Chỉ mục:** 13
+ 2. Thông báo công khai về tài chính bảo đảm cho đời sống vật chất, tinh thần của cơ quan, đơn vị; các quyền lợi, nghĩa vụ, chế độ tiêu chuẩn theo quy định của Nhà nước, Quân đội; việc lập, quản lý, sử dụng quỹ vốn từ tăng gia, sản xuất, làm kinh tế, dịch vụ; những khoản thu cho các phong trào, cuộc vận động của cơ quan, đơn vị và địa phương theo quy định của Bộ Quốc phòng.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001300
+ Mục 2. BIỆN PHÁP THỰC HIỆN DÂN CHỦĐiều 44.13.TT.1.14. Biện pháp chung để thực hiện các nội dung dân chủ
 
-**ID:** dk_00072193
+(Điều 14 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
----
+ 1. Hội đồng quân nhân phối hợp với các tổ chức quần chúng đẩy mạnh công tác tuyên truyền, vận động nhân dân, công chức, công nhân quốc phòng, viên chức quốc phòng thực hiện tốt đường lối, chủ trương của Đảng; chính sách, pháp luật của Nhà nước; các cuộc vận động do Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội phát động; nhiệm vụ chính trị, điều lệnh, điều lệ của Quân đội; nghị quyết của cấp ủy và kế hoạch, chỉ thị, mệnh lệnh, chế độ, quy định của người chỉ huy; phát huy dân chủ, thực hiện đầy đủ quyền lợi và nghĩa vụ tham gia xây dựng đội ngũ cán bộ, đảng viên, tổ chức đảng trong sạch vững mạnh, cơ quan, đơn vị vững mạnh toàn diện.
 
+ 2. Cấp ủy, chi bộ lãnh đạo thực hiện có hiệu quả quy chế dân chủ cơ sở; cán bộ chủ trì các cơ quan, đơn vị thực hiện nghiêm túc các quy định của Đảng, Nhà nước và Quân ủy Trung ương - Bộ Quốc phòng về công khai, đối thoại, tiếp công dân, giải quyết đơn thư khiếu nại, tố cáo; chỉ đạo Hội đồng quân nhân tham gia các hoạt động giám sát, phản biện xã hội và góp ý xây dựng tổ chức Đảng, xây dựng cơ quan, đơn vị.
 
-### Điều 44.13.TT.1.14. Biện pháp chung để thực hiện các nội dung dân chủ
+ 3. Bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên cơ quan, đơn vị có trách nhiệm chỉ đạo, hướng dẫn Hội đồng quân nhân triệu tập hội nghị tập thể quân nhân dân chủ thảo luận góp ý, bàn biện pháp tổ chức thực hiện về quân sự - chuyên môn, chính trị và kinh tế - đời sống.
 
-Điều 44.13.TT.1.14. Biện pháp chung để thực hiện các nội dung dân chủ
+ 4. Cơ quan chính trị hướng dẫn Hội đồng quân nhân phối hợp với các tổ chức quần chúng thực hiện hoạt động tuyên truyền, vận động, góp ý, giám sát, phản biện những vấn đề trong phạm vi chức năng, nhiệm vụ, quyền hạn.
 
-**Chỉ mục:** 14
+ 5. Thực hiện nghiêm chế độ sinh hoạt đối thoại, hòm thư góp ý và công khai số điện thoại của cán bộ chủ trì cơ quan, đơn vị để tiếp nhận thông tin phản ánh của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng.Điều 44.13.TT.1.15. Tiếp nhận, tổng hợp ý kiến, kiến nghị của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001400
+(Điều 15 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**ID:** dk_00072194
+ 1. Quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng tham gia góp ý, kiến nghị, phản ánh tại hội nghị tập thể quân nhân hoặc bằng văn bản, thư tín, điện thoại gửi đến Hội đồng quân nhân và chỉ huy đơn vị.
 
----
+ 2. Các cơ quan, đơn vị cấp đại đội, tiểu đoàn và tương đương trở lên lập hòm thư góp ý, đặt ở nơi thuận tiện và công khai (hoặc hòm thư điện tử) để mọi người phản ánh với cấp ủy, cán bộ chủ trì ở cơ quan, đơn vị và cấp trên những biểu hiện vi phạm dân chủ, những vấn đề cần góp ý, kiến nghị, phản ánh. Hòm thư góp ý do Hội đồng quân nhân quản lý.
 
+ 3. Hằng tuần Hội đồng quân nhân phối hợp với ban chấp hành các tổ chức quần chúng cùng cấp tổng hợp ý kiến, kiến nghị, phản ánh về thực hiện dân chủ trong cơ quan, đơn vị, quyền lợi, nghĩa vụ hợp pháp, chính đáng của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng để báo cáo với bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên.
 
-### Điều 44.13.TT.1.15. Tiếp nhận, tổng hợp ý kiến, kiến nghị của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng
+ 4. Trong thời hạn 07 ngày làm việc (15 ngày làm việc đối với những việc có nội dung phức tạp), bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên cơ quan, đơn vị có trách nhiệm trả lời hoặc thông báo bằng văn bản (với những vấn đề thuộc thẩm quyền cấp trên) kết quả giải quyết ý kiến, kiến nghị của tập thể quân nhân.Điều 44.13.TT.1.16. Hoạt động giám sát
 
-Điều 44.13.TT.1.15. Tiếp nhận, tổng hợp ý kiến, kiến nghị của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng
+(Điều 16 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Chỉ mục:** 15
+ 1. Hoạt động giám sát của Hội đồng quân nhân mang tính nhân dân nhằm kịp thời phát hiện những sai sót, khuyết điểm để kiến nghị sửa chữa, khắc phục, đồng thời phát hiện, nhân rộng nhân tố mới, tích cực góp phần xây dựng tổ chức đảng trong sạch vững mạnh, xây dựng cơ quan, đơn vị vững mạnh toàn diện. Đối tượng giám sát là tổ chức đảng, người chỉ huy, người đứng đầu, cán bộ chủ chốt, đảng viên. Nội dung giám sát việc thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước, nghị quyết của tổ chức đảng (trừ các nội dung thuộc về bí mật Nhà nước), điều lệnh, điều lệ, các chế độ, quy định của Quân đội và trong tu dưỡng, rèn luyện đạo đức, lối sống.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001500
+ 2. Hội đồng quân nhân thường xuyên theo dõi, tiếp thu ý kiến thông qua đơn thư, phản ánh, kiến nghị, khiếu nại, tố cáo của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng để nghiên cứu, xem xét các vấn đề liên quan; trong trường hợp phát hiện có dấu hiệu sai phạm hoặc xâm phạm đến quyền, lợi ích hợp pháp, chính đáng của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng thì kiến nghị đến cá nhân, cơ quan, tổ chức có thẩm quyền xem xét, giải quyết, sửa đổi, bổ sung hoặc đình chỉ thi hành.
 
-**ID:** dk_00072195
+ 3. Bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên có trách nhiệm trả lời theo quy định tại Khoản 4, Điều 15.
 
----
+ 4. Trường hợp ý kiến, kiến nghị của Hội đồng quân nhân với cá nhân, cơ quan, tổ chức có thẩm quyền không thống nhất thì tổ chức đối thoại để làm rõ.Điều 44.13.TT.1.17. Hoạt động phản biện xã hội
 
+(Điều 17 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-### Điều 44.13.TT.1.16. Hoạt động giám sát
+ 1. Hoạt động phản biện xã hội của Hội đồng quân nhân là hoạt động tham gia ý kiến đối với dự thảo văn bản của các cơ quan chức năng, nhằm bảo vệ quyền và lợi ích hợp pháp của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng, phát huy dân chủ, tăng cường đồng thuận trong cơ quan, đơn vị.
 
-*Nội dung chưa có sẵn*
+ 2. Căn cứ tính chất của nội dung văn bản dự thảo của cơ quan chức năng và người chỉ huy cơ quan, đơn vị, Hội đồng quân nhân phối hợp với ban chấp hành các tổ chức quần chúng cùng cấp tổ chức hội nghị tập thể quân nhân để tham gia ý kiến hoặc gửi dự thảo văn bản đến từng cá nhân để lấy ý kiến; tổng hợp ý kiến tham gia và báo cáo bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên cơ quan, đơn vị để xem xét, quyết định gửi cơ quan chủ trì soạn thảo văn bản nghiên cứu, tiếp thu.
 
-**Chỉ mục:** 16
+ 3. Hội đồng quân nhân có trách nhiệm theo dõi, đôn đốc và thông báo việc tiếp thu, giải trình của cơ quan chủ trì soạn thảo văn bản đối với ý kiến tham gia của tập thể quân nhân.Điều 44.13.LQ.63. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001600
+(Điều 63 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00072196
+1. Người đứng đầu cơ quan, đơn vị có trách nhiệm sau đây:
 
----
+a) Thông báo cho Ban Thanh tra nhân dân về những chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước chủ yếu liên quan đến tổ chức, hoạt động của cơ quan, đơn vị; báo cáo kết quả công tác hằng năm và mục tiêu, phương hướng công tác năm tiếp theo của cơ quan, đơn vị;
 
+b) Trực tiếp đối thoại, cung cấp thông tin hoặc yêu cầu cơ quan, tổ chức, cá nhân có liên quan cung cấp đầy đủ, kịp thời thông tin, tài liệu cần thiết theo yêu cầu của Ban Thanh tra nhân dân;
 
-### Điều 44.13.TT.1.17. Hoạt động phản biện xã hội
+c) Xem xét, giải quyết kịp thời các kiến nghị của Ban Thanh tra nhân dân, thông báo kết quả giải quyết trong thời hạn 15 ngày kể từ ngày nhận được kiến nghị;
 
-*Nội dung chưa có sẵn*
+d) Thông báo cho Ban Thanh tra nhân dân kết quả giải quyết khiếu nại, tố cáo, việc thực hiện pháp luật về thực hiện dân chủ ở cơ quan, đơn vị;
 
-**Chỉ mục:** 17
+đ) Xử lý người có hành vi cản trở hoạt động của Ban Thanh tra nhân dân, người có hành vi trả thù, trù dập thành viên Ban Thanh tra nhân dân theo quy định của pháp luật.
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001700
+2. Ban Chấp hành Công đoàn cơ quan, đơn vị có trách nhiệm sau đây:
 
-**ID:** dk_00072197
+a) Giới thiệu nhân sự để hội nghị cán bộ, công chức, viên chức, người lao động bầu làm thành viên Ban Thanh tra nhân dân; công nhận kết quả bầu thành viên Ban Thanh tra nhân dân; đề nghị cho thôi làm thành viên Ban Thanh tra nhân dân; tổ chức cuộc họp của Ban Thanh tra nhân dân để bầu Trưởng ban, Phó Trưởng ban và phân công nhiệm vụ cho từng thành viên;
 
----
+b) Hướng dẫn Ban Thanh tra nhân dân xây dựng chương trình, kế hoạch, nội dung công tác; xem xét báo cáo hoạt động của Ban Thanh tra nhân dân và hướng dẫn, chỉ đạo hoạt động của Ban Thanh tra nhân dân; tham gia hoạt động của Ban Thanh tra nhân dân khi xét thấy cần thiết;
 
+c) Xem xét, giải quyết kiến nghị của Ban Thanh tra nhân dân; theo dõi, đôn đốc việc giải quyết kiến nghị của Ban Thanh tra nhân dân gửi đến người đứng đầu cơ quan, đơn vị hoặc cấp có thẩm quyền;
 
-### Điều 44.13.LQ.63. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+d) Vận động cán bộ, công chức, viên chức, người lao động ở cơ quan, đơn vị phối hợp và tích cực hỗ trợ hoạt động của Ban Thanh tra nhân dân;
 
-Điều 44.13.LQ.63. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+đ) Hỗ trợ kinh phí hoạt động cho Ban Thanh tra nhân dân;
 
-**Chỉ mục:** 63
+e) Thực hiện các nhiệm vụ của Ban Thanh tra nhân dân ở cơ quan, đơn vị không tổ chức Ban Thanh tra nhân dân theo quy định của pháp luật.
 
-**Mã phân cấp:** 44013000000000003000004000000000000000000020000000000000000006300000000000000000
+3. Chính phủ quy định chi tiết tổ chức và hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị.
 
-**ID:** dk_00072198
-
----
-
-
-### Điều 44.13.NĐ.1.20. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 44.13.NĐ.1.20. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002000
+1. Tuân thủ theo quy định của pháp luật; thực hiện đúng nhiệm vụ, quyền hạn được giao; bảo đảm khách quan, công khai, minh bạch; mọi ý kiến, phản ánh của cán bộ, công chức, viên chức, người lao động được phản ánh trung thực đến người có thẩm quyền giải quyết theo quy định của pháp luật.
 
-**ID:** dk_00072199
+2. Không được lợi dụng nhiệm vụ, quyền hạn để kích động, dụ dỗ, lôi kéo công chức, viên chức, người lao động để thực hiện các hành vi trái pháp luật.
 
----
-
-
-### Điều 44.13.NĐ.1.21. Tổ chức của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+3. Làm việc theo chế độ tập thể và quyết định theo đa số.
 
 Điều 44.13.NĐ.1.21. Tổ chức của Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002100
+1. Thành viên Ban Thanh tra nhân dân ở cơ quan, đơn vị được bầu tại hội nghị cán bộ, công chức, viên chức, người lao động được thực hiện theo quy định tại Điều 51 của Luật Thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072200
+Chậm nhất sau 05 ngày làm việc kể từ ngày kết thúc hội nghị cán bộ, công chức, viên chức, người lao động bầu thành viên Ban Thanh tra nhân dân, Ban Chấp hành Công đoàn cơ quan, đơn vị công nhận kết quả bầu thành viên Ban Thanh tra nhân dân.
 
----
+2. Số lượng thành viên Ban Thanh tra nhân dân được thực hiện theo quy định tại khoản 1 Điều 60 của Luật Thực hiện dân chủ ở cơ sở.
 
+Trường hợp cơ quan, đơn vị có tính chất đặc thù hoặc hoạt động phân tán, căn cứ vào yêu cầu, nhiệm vụ, đặc điểm, tính chất tổ chức, hoạt động và điều kiện thực tế, sau khi thống nhất với người đứng đầu cơ quan, đơn vị, Ban Chấp hành công đoàn đề xuất để hội nghị cán bộ, công chức, viên chức, người lao động quyết định số lượng thành viên Ban Thanh tra nhân dân nhiều hơn 09 người để bảo đảm hoạt động hiệu quả.
 
-### Điều 44.13.NĐ.1.22. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+Trường hợp đặc thù không tổ chức Ban Thanh tra nhân dân, Ban Chấp hành Công đoàn sau khi thống nhất với người đứng đầu cơ quan, đơn vị báo cáo công đoàn cấp trên trực tiếp quyết định.
+
+3. Ban Thanh tra nhân dân ở cơ quan, đơn vị có Trưởng ban, Phó Trưởng ban và các Ủy viên. Trường hợp số lượng thành viên Ban Thanh tra nhân dân từ 09 người trở lên thì số lượng Phó Trưởng ban không quá 02 người.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.56. Nội dung cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát; Điều 44.13.LQ.60. Tổ chức Ban Thanh tra nhân dân ở cơ quan, đơn vị)
 
 Điều 44.13.NĐ.1.22. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002200
+1. Xây dựng chương trình, kế hoạch công tác
 
-**ID:** dk_00072201
+a) Ban Thanh tra nhân dân ở cơ quan, đơn vị xây dựng chương trình công tác để thực hiện các nhiệm vụ được quy định tại Điều 61 của Luật Thực hiện dân chủ ở cơ sở theo từng quý, 06 tháng và hằng năm.
 
----
+Chương trình công tác gồm các nội dung cơ bản: mục đích, yêu cầu, nội dung, thời gian, kinh phí, tổ chức thực hiện và các điều kiện bảo đảm khác. Chương trình công tác có thể được điều chỉnh, bổ sung phù hợp với yêu cầu, tình hình thực tế hoặc khi có vấn đề phát sinh đột xuất.
 
+b) Ban Thanh tra nhân dân ở cơ quan, đơn vị xây dựng kế hoạch kiểm tra, giám sát cụ thể báo cáo Ban Chấp hành Công đoàn cơ quan, đơn vị và thông báo đến đối tượng kiểm tra, giám sát khác (nếu có) chậm nhất 05 ngày làm việc trước khi tiến hành hoạt động kiểm tra, giám sát.
 
-### Điều 44.13.NĐ.1.23. Phối hợp thực hiện nhiệm vụ của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+2. Phương thức hoạt động
+
+a) Tiếp nhận thông tin do cán bộ, công chức, viên chức, người lao động phản ánh trực tiếp, qua hòm thư góp ý; qua nghiên cứu văn bản tài liệu liên quan đến nội dung kiểm tra, giám sát do lãnh đạo cơ quan, đơn vị cung cấp. Làm việc với đơn vị, cá nhân liên quan đến kiến nghị, phản ánh để đánh giá tính xác thực của nội dung phản ánh, kiến nghị.
+
+Ban Thanh tra nhân dân ở cơ quan, đơn vị tổng hợp, phân tích, đối chiếu với các quy định pháp luật, quy định, quy chế làm việc của cơ quan, đơn vị để đánh giá, đề xuất, kiến nghị với người đứng đầu cơ quan, đơn vị xem xét giải quyết theo quy định của pháp luật hoặc thông qua Ban Chấp hành Công đoàn cơ quan, đơn vị.
+
+b) Kết quả kiểm tra, giám sát, xác minh được lập thành văn bản và gửi đến cơ quan, tổ chức, cá nhân có phản ánh, kiến nghị. Trường hợp phát hiện người có hành vi vi phạm pháp luật thì kiến nghị cơ quan, tổ chức có thẩm quyền xem xét, xử lý theo quy định.
+
+3. Chế độ báo cáo
+
+Ban Thanh tra nhân dân có trách nhiệm định kỳ báo cáo Ban Chấp hành Công đoàn ở cơ quan, đơn vị kết quả thực hiện nhiệm vụ quý, 06 tháng, năm, nhiệm kỳ hoặc khi có yêu cầu; báo cáo kết quả thực hiện nhiệm vụ hằng năm tại hội nghị cán bộ, công chức, viên chức người lao động của cơ quan, đơn vị.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.61. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở cơ quan, đơn vị)
 
 Điều 44.13.NĐ.1.23. Phối hợp thực hiện nhiệm vụ của Ban Thanh tra nhân dân ở cơ quan, đơn vị
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002300
+Giữ mối liên hệ và phối hợp chặt chẽ với người đứng đầu và cán bộ, công chức, viên chức, người lao động ở cơ quan, đơn vị để kịp thời tiếp nhận ý kiến, phản ánh; tổng hợp, đối chiếu, xác minh và kiến nghị giải quyết theo thẩm quyền hoặc báo cáo đến cơ quan có thẩm quyền giải quyết theo quy định của pháp luật.
 
-**ID:** dk_00072202
+Chương IV
 
----
+THỰC HIỆN DÂN CHỦ Ở TỔ CHỨC CÓ SỬ DỤNG LAO ĐỘNG
 
+Mục 1
 
-### Tiểu mục 1 CÔNG KHAI THÔNG TIN Ở DOANH NGHIỆP NHÀ NƯỚC
+THỰC HIỆN DÂN CHỦ Ở DOANH NGHIỆP NHÀ NƯỚC
 
-Tiểu mục 1 CÔNG KHAI THÔNG TIN Ở DOANH NGHIỆP NHÀ NƯỚC
+Tiểu mục 1
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 440130000000000040000010000000000000000000100000000000000000
-
-**ID:** dk_00072205
-
----
-
-
-### Điều 44.13.LQ.64. Những nội dung doanh nghiệp nhà nước phải công khai
+CÔNG KHAI THÔNG TIN Ở DOANH NGHIỆP NHÀ NƯỚC
 
 Điều 44.13.LQ.64. Những nội dung doanh nghiệp nhà nước phải công khai
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000010000000000000000006400000000000000000
+1. Trừ các thông tin thuộc bí mật nhà nước, bí mật kinh doanh hoặc thông tin chưa được công khai theo quy định của pháp luật, doanh nghiệp nhà nước phải công khai trong nội bộ doanh nghiệp các nội dung sau đây:
 
-**ID:** dk_00072206
+a) Tình hình sản xuất, kinh doanh hoặc tình hình hoạt động của doanh nghiệp theo quy định của pháp luật về doanh nghiệp và pháp luật khác có liên quan;
 
----
+b) Nội quy lao động, thang lương, bảng lương, định mức lao động, nội quy, quy chế và các quy định khác của doanh nghiệp liên quan đến quyền, lợi ích và nghĩa vụ của người lao động;
 
+c) Các thỏa ước lao động tập thể mà doanh nghiệp đã ký kết, tham gia;
 
-### Điều 44.13.LQ.65. Hình thức và thời điểm công khai thông tin ở doanh nghiệp nhà nước
+d) Việc trích lập, sử dụng quỹ khen thưởng, quỹ phúc lợi và các quỹ do người lao động đóng góp (nếu có);
+
+đ) Việc trích nộp kinh phí công đoàn, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp;
+
+e) Tình hình thực hiện công tác thi đua, khen thưởng, kỷ luật, giải quyết kiến nghị, phản ánh liên quan đến quyền, lợi ích và nghĩa vụ của người lao động;
+
+g) Quy chế thực hiện dân chủ của doanh nghiệp;
+
+h) Các nội dung khác về thông tin tài chính, quản lý tài sản công, về công tác cán bộ theo quy định của pháp luật và quy chế thực hiện dân chủ tại doanh nghiệp.
+
+2. Khuyến khích doanh nghiệp nhà nước công khai các thông tin về việc bảo đảm đạo đức, văn hóa kinh doanh, việc thực hiện trách nhiệm xã hội của doanh nghiệp.
 
 Điều 44.13.LQ.65. Hình thức và thời điểm công khai thông tin ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 65
+(Điều 65 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000010000000000000000006500000000000000000
+1. Các hình thức công khai thông tin bao gồm:
 
-**ID:** dk_00072207
+a) Niêm yết thông tin;
 
----
+b) Thông báo tại hội nghị người lao động; tại hội nghị đối thoại giữa người sử dụng lao động và Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động tại cơ sở (nếu có); tại các cuộc họp, giao ban của đơn vị, bộ phận của doanh nghiệp;
 
+c) Thông báo bằng văn bản đến toàn thể người lao động;
 
-### Điều 44.13.LQ.66. Trách nhiệm tổ chức thực hiện việc công khai thông tin ở doanh nghiệp nhà nước
+d) Thông qua người phụ trách các đơn vị, bộ phận của doanh nghiệp để thông báo đến người lao động;
+
+đ) Thông báo bằng văn bản đến Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) để thông báo đến người lao động;
+
+e) Thông báo qua hệ thống thông tin nội bộ hoặc đăng tải trên cổng thông tin điện tử, trang thông tin điện tử của doanh nghiệp;
+
+g) Thông qua mạng viễn thông, mạng xã hội hoạt động hợp pháp theo quy định của pháp luật và được sự thống nhất của Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có);
+
+h) Các hình thức chuyển tải thông tin khác không vi phạm quy định của pháp luật và được quy định trong quy chế thực hiện dân chủ của doanh nghiệp.
+
+2. Nội dung thông tin quy định tại Điều 64 của Luật này phải được công khai chậm nhất là 15 ngày kể từ ngày có quyết định, văn bản của người có thẩm quyền về nội dung cần công khai, trừ trường hợp pháp luật có quy định khác.
 
 Điều 44.13.LQ.66. Trách nhiệm tổ chức thực hiện việc công khai thông tin ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000010000000000000000006600000000000000000
+1. Trường hợp doanh nghiệp nhà nước có trang thông tin điện tử nội bộ hoặc hệ thống thông tin điện tử nội bộ thì người đại diện có thẩm quyền của doanh nghiệp nhà nước có trách nhiệm tổ chức đăng tải các thông tin quy định tại Điều 64 của Luật này trên trang thông tin điện tử nội bộ hoặc hệ thống thông tin điện tử nội bộ ít nhất là 20 ngày liên tục kể từ ngày bắt đầu đăng tin hoặc gửi thông tin, trừ trường hợp pháp luật có quy định khác.
 
-**ID:** dk_00072208
+2. Trường hợp doanh nghiệp nhà nước chưa có trang thông tin điện tử nội bộ hoặc hệ thống thông tin điện tử nội bộ thì người đại diện có thẩm quyền của doanh nghiệp có trách nhiệm tổ chức niêm yết các thông tin quy định tại Điều 64 của Luật này tại trụ sở của doanh nghiệp và nơi làm việc của các đơn vị, bộ phận có liên quan trực tiếp ít nhất là 20 ngày liên tục kể từ ngày niêm yết, trừ trường hợp đã sử dụng hình thức thông báo bằng văn bản đến toàn thể người lao động tại doanh nghiệp hoặc pháp luật có quy định khác.
 
----
+3. Cùng với việc thực hiện công khai thông tin bằng các hình thức quy định tại khoản 1 và khoản 2 Điều này, căn cứ vào đặc điểm, tính chất hoạt động và nội dung cần công khai, người đại diện có thẩm quyền của doanh nghiệp nhà nước có thể quyết định lựa chọn thêm các hình thức công khai khác quy định tại khoản 1 Điều 65 của Luật này phù hợp với điều kiện thực tế của doanh nghiệp, bảo đảm để người lao động tiếp cận thông tin chính xác, đầy đủ, kịp thời, thuận lợi.
 
+4. Người đại diện có thẩm quyền của doanh nghiệp nhà nước có trách nhiệm tổ chức cung cấp thông tin theo yêu cầu của người lao động đối với những thông tin trong thời hạn công khai mà chưa được công khai, thông tin đã hết thời hạn công khai hoặc thông tin đang được công khai nhưng vì lý do bất khả kháng mà người yêu cầu không thể tiếp cận được.
 
-### Tiểu mục 2 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC BÀN VÀ QUYẾT ĐỊNH
+5. Doanh nghiệp nhà nước có thể xác định thêm các nội dung thông tin cần công khai, hình thức công khai thông tin, việc áp dụng các hình thức công khai đối với từng loại nội dung thông tin nhất định và cách thức thực hiện, việc cung cấp thông tin theo yêu cầu trong quy chế thực hiện dân chủ phù hợp với đặc điểm tổ chức, hoạt động, điều kiện thực tế của doanh nghiệp mình và không trái với quy định tại Mục này.
 
-Tiểu mục 2 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC BÀN VÀ QUYẾT ĐỊNH
+6. Trường hợp pháp luật có quy định khác về hình thức, cách thức thực hiện công khai đối với nội dung thông tin cụ thể thì áp dụng theo quy định đó.
 
-**Chỉ mục:** 2
+Tiểu mục 2
 
-**Mã phân cấp:** 440130000000000040000010000000000000000000200000000000000000
-
-**ID:** dk_00072209
-
----
-
-
-### Điều 44.13.LQ.67. Những nội dung người lao động bàn và quyết định
+NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC BÀN VÀ QUYẾT ĐỊNH
 
 Điều 44.13.LQ.67. Những nội dung người lao động bàn và quyết định
 
-**Chỉ mục:** 67
+(Điều 67 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000020000000000000000006700000000000000000
+1. Nội dung thương lượng tập thể đã đạt được theo quy định của pháp luật.
 
-**ID:** dk_00072210
+2. Việc lập các loại quỹ và thu, chi, quản lý, sử dụng các khoản từ thu nhập, đóng góp của người lao động.
 
----
+3. Việc bầu, cho thôi làm thành viên Ban Thanh tra nhân dân.
 
+4. Nội dung nghị quyết của hội nghị người lao động.
 
-### Điều 44.13.LQ.68. Hình thức người lao động bàn và quyết định
+5. Các nội dung tự quản khác trong nội bộ doanh nghiệp nhà nước không trái với quy định của pháp luật, phù hợp với đạo đức xã hội.
 
 Điều 44.13.LQ.68. Hình thức người lao động bàn và quyết định
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000020000000000000000006800000000000000000
+1. Người lao động bàn và quyết định các nội dung quy định tại các khoản 2, 3, 4 và 5 Điều 67 của Luật này tại hội nghị người lao động trên cơ sở đề xuất của Ban Chấp hành Công đoàn ở doanh nghiệp, tổ chức đại diện khác của người lao động ở cơ sở (nếu có), người đại diện có thẩm quyền của doanh nghiệp nhà nước hoặc khi có ít nhất là một phần ba tổng số người lao động của doanh nghiệp cùng đề nghị.
 
-**ID:** dk_00072211
+2. Trường hợp không thể tổ chức hội nghị người lao động vì lý do bất khả kháng hoặc hội nghị đã được triệu tập đến lần thứ hai nhưng vẫn không có đủ số người tham dự quy định tại điểm c khoản 2 Điều 69 của Luật này thì người đại diện có thẩm quyền của doanh nghiệp nhà nước, sau khi đã thống nhất với Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có), quyết định tổ chức gửi phiếu lấy ý kiến của toàn thể người lao động trong doanh nghiệp.
 
----
+3. Việc bàn và quyết định nội dung quy định tại khoản 1 Điều 67 của Luật này thực hiện theo quy định của pháp luật về lao động.
 
+Điều 44.13.LQ.69. Tổ chức hội nghị người lao động
 
-### Điều 44.13.LQ.69. Tổ chức hội nghị người lao động
+(Điều 69 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-*Nội dung chưa có sẵn*
+1. Hội nghị người lao động do ban lãnh đạo doanh nghiệp nhà nước và Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) phối hợp tổ chức.
 
-**Chỉ mục:** 69
+Hội nghị người lao động được tổ chức định kỳ mỗi năm một lần sau khi kết thúc năm tài chính của doanh nghiệp nhưng không chậm hơn 03 tháng của năm tiếp theo do người đại diện có thẩm quyền của doanh nghiệp quyết định sau khi lấy ý kiến của Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có).
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000020000000000000000006900000000000000000
+Hội nghị người lao động được tổ chức bất thường khi có đề xuất của các đối tượng quy định tại khoản 1 Điều 68 của Luật này.
 
-**ID:** dk_00072212
+2. Thành phần dự hội nghị người lao động tại doanh nghiệp nhà nước được quy định như sau:
 
----
+a) Đối với doanh nghiệp có sử dụng ít hơn 100 người lao động, thì tổ chức hội nghị toàn thể người lao động của doanh nghiệp, trừ trường hợp quy định tại điểm b khoản này;
 
+b) Đối với doanh nghiệp có sử dụng từ 100 người lao động trở lên hoặc có dưới 100 người lao động nhưng làm việc phân tán trên địa bàn rộng hoặc vì lý do nghiệp vụ không thể bỏ vị trí làm việc, thì người đại diện có thẩm quyền của doanh nghiệp thống nhất với Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) quyết định thành phần tham dự hội nghị là toàn thể người lao động hoặc đại biểu người lao động phù hợp với đặc điểm tình hình của doanh nghiệp;
 
-### Điều 44.13.LQ.70. Trách nhiệm trong việc tổ chức để người lao động bàn, quyết định và thực hiện quyết định của tập thể người lao động
+c) Hội nghị được tổ chức hợp lệ khi có ít nhất là hai phần ba tổng số người lao động của doanh nghiệp hoặc ít nhất là hai phần ba tổng số đại biểu được triệu tập có mặt. Nghị quyết, quyết định của hội nghị được thông qua khi có trên 50% tổng số người dự hội nghị tán thành và nội dung không trái với quy định của pháp luật, phù hợp với đạo đức xã hội.
+
+3. Nội dung, thành phần tham gia, thời điểm tổ chức, địa điểm, trình tự, trách nhiệm tổ chức hội nghị người lao động thực hiện theo quy định của Chính phủ.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.25. Tổ chức của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước)
 
 Điều 44.13.LQ.70. Trách nhiệm trong việc tổ chức để người lao động bàn, quyết định và thực hiện quyết định của tập thể người lao động
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000020000000000000000007000000000000000000
+1. Người đại diện có thẩm quyền của doanh nghiệp nhà nước có trách nhiệm phối hợp cùng Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) thống nhất chủ trương, xây dựng kế hoạch tổ chức hội nghị người lao động hoặc tổ chức gửi phiếu lấy ý kiến để người lao động bàn, quyết định các nội dung quy định tại Điều 67 của Luật này.
 
-**ID:** dk_00072213
+2. Người đại diện có thẩm quyền của doanh nghiệp nhà nước có trách nhiệm phối hợp cùng Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) phổ biến, hướng dẫn, đôn đốc việc thực hiện nghị quyết của hội nghị người lao động, quy chế thực hiện dân chủ của doanh nghiệp và các nội dung khác đã được người lao động thống nhất, quyết định; cử đầu mối để phối hợp, theo dõi, đề xuất xử lý kịp thời những phát sinh trong quá trình tổ chức thực hiện.
 
----
+3. Định kỳ 06 tháng một lần, người đại diện có thẩm quyền của doanh nghiệp nhà nước có trách nhiệm phối hợp cùng Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) tổ chức kiểm tra, đánh giá kết quả thực hiện nghị quyết hội nghị người lao động; thông báo kết quả kiểm tra, đánh giá đến toàn thể người lao động trong doanh nghiệp.
 
+4. Đảng viên, đoàn viên công đoàn, người lao động trong doanh nghiệp nhà nước có trách nhiệm tích cực tham gia bàn và quyết định các nội dung quy định tại Điều 67 của Luật này và nghiêm túc thực hiện các quyết định đã được tập thể thống nhất; trường hợp nhận thấy quyết định của tập thể người lao động không bảo đảm trình tự, thủ tục hoặc có nội dung trái với quy định của pháp luật, trái đạo đức xã hội thì có quyền kiến nghị, phản ánh đến Ban Chấp hành Công đoàn cấp trên trực tiếp hoặc cơ quan quản lý nhà nước có thẩm quyền.
 
-### Tiểu mục 3 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC THAM GIA Ý KIẾN
+Tiểu mục 3
 
-Tiểu mục 3 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC THAM GIA Ý KIẾN
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 440130000000000040000010000000000000000000300000000000000000
-
-**ID:** dk_00072214
-
----
-
-
-### Điều 44.13.LQ.71. Những nội dung người lao động tham gia ý kiến
+NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC THAM GIA Ý KIẾN
 
 Điều 44.13.LQ.71. Những nội dung người lao động tham gia ý kiến
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000030000000000000000007100000000000000000
+1. Những nội dung người lao động tham gia ý kiến trước khi doanh nghiệp nhà nước quyết định bao gồm:
 
-**ID:** dk_00072215
+a) Việc xây dựng, sửa đổi, bổ sung nội quy, quy chế và các quy định nội bộ khác của doanh nghiệp có liên quan đến nghĩa vụ, quyền và lợi ích hợp pháp của người lao động;
 
----
+b) Việc xây dựng, sửa đổi, bổ sung thang lương, bảng lương, định mức lao động;
 
+c) Việc tổ chức thực hiện giải pháp cải thiện điều kiện làm việc, bảo vệ môi trường, phòng, chống cháy nổ; phòng, chống tham nhũng, tiêu cực;
 
-### Điều 44.13.LQ.72. Hình thức người lao động tham gia ý kiến
+d) Dự thảo quy trình, thủ tục nội bộ về giải quyết tranh chấp lao động, xử lý kỷ luật lao động, trách nhiệm vật chất và các nội dung khác liên quan đến quyền, nghĩa vụ của người lao động mà doanh nghiệp thấy cần tham khảo ý kiến;
+
+đ) Dự thảo quy chế thực hiện dân chủ của doanh nghiệp;
+
+e) Các nội dung khác liên quan đến quyền và nghĩa vụ của người lao động theo quy định của pháp luật và quy chế thực hiện dân chủ của doanh nghiệp.
+
+2. Những nội dung người lao động tham gia ý kiến theo đề nghị của tổ chức đại diện người lao động bao gồm:
+
+a) Nội dung, hình thức thỏa ước lao động tập thể;
+
+b) Nội dung, hình thức đối thoại tại doanh nghiệp nhà nước.
 
 Điều 44.13.LQ.72. Hình thức người lao động tham gia ý kiến
 
-**Chỉ mục:** 72
+(Điều 72 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000030000000000000000007200000000000000000
+Căn cứ đặc điểm, tính chất hoạt động và nội dung tham gia ý kiến, người lao động tại doanh nghiệp nhà nước có thể tham gia ý kiến thông qua một hoặc một số hình thức sau đây:
 
-**ID:** dk_00072216
+1. Tham gia ý kiến trực tiếp hoặc thông qua người trực tiếp phụ trách của đơn vị, bộ phận của doanh nghiệp;
 
----
+2. Thông qua tổ chức đại diện người lao động, nhóm đại diện đối thoại của người lao động;
 
+3. Thông qua hội nghị đối thoại tại doanh nghiệp;
 
-### Điều 44.13.LQ.73. Tổ chức đối thoại tại nơi làm việc
+4. Tham gia ý kiến qua hòm thư góp ý, đường dây nóng, hệ thống thông tin nội bộ hoặc cổng thông tin điện tử, trang thông tin điện tử của doanh nghiệp;
+
+5. Các hình thức khác không trái với quy định của pháp luật và được quy định trong quy chế thực hiện dân chủ của doanh nghiệp.
 
 Điều 44.13.LQ.73. Tổ chức đối thoại tại nơi làm việc
 
-**Chỉ mục:** 73
+(Điều 73 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000030000000000000000007300000000000000000
+1. Doanh nghiệp nhà nước có trách nhiệm tổ chức hội nghị đối thoại với người lao động, tổ chức đại diện người lao động tại doanh nghiệp theo định kỳ hằng năm; tổ chức đối thoại theo yêu cầu của một hoặc các bên hoặc trong các trường hợp khác theo quy định của pháp luật để chia sẻ thông tin, tham khảo, thảo luận, trao đổi ý kiến giữa người sử dụng lao động với người lao động hoặc tổ chức đại diện người lao động về những vấn đề liên quan đến quyền, lợi ích và mối quan tâm của các bên tại nơi làm việc nhằm tăng cường sự hiểu biết, hợp tác, cùng nỗ lực hướng tới giải pháp các bên cùng có lợi.
 
-**ID:** dk_00072217
-
----
-
-
-### Điều 44.13.LQ.74. Trách nhiệm trong việc tổ chức để người lao động tham gia ý kiến
+2. Việc tổ chức đối thoại tại nơi làm việc thực hiện theo quy định của pháp luật về lao động và quy chế thực hiện dân chủ của doanh nghiệp.
 
 Điều 44.13.LQ.74. Trách nhiệm trong việc tổ chức để người lao động tham gia ý kiến
 
-**Chỉ mục:** 74
+(Điều 74 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000030000000000000000007400000000000000000
+1. Ban lãnh đạo doanh nghiệp nhà nước có trách nhiệm tổ chức lấy ý kiến người lao động về các nội dung quy định tại Điều 71 của Luật này; chịu trách nhiệm chỉ đạo, tổ chức việc tiếp nhận, tổng hợp ý kiến, thông tin phản hồi của người lao động; nghiên cứu, tiếp thu, giải trình ý kiến tham gia và thực hiện việc công khai nội dung giải trình, tiếp thu đến người lao động.
 
-**ID:** dk_00072218
+2. Ban Chấp hành Công đoàn ở doanh nghiệp, tổ chức đại diện khác của người lao động ở cơ sở (nếu có) tham gia phối hợp thực hiện việc tổ chức lấy ý kiến; giám sát việc lấy ý kiến của người lao động, kết quả giải trình, tiếp thu và tổ chức thực hiện các nội dung người lao động đã tham gia ý kiến; tham gia ý kiến trước khi doanh nghiệp quyết định ban hành quy chế thực hiện dân chủ của doanh nghiệp.
 
----
+3. Đảng viên, đoàn viên công đoàn, người lao động tại doanh nghiệp nhà nước có trách nhiệm tích cực đóng góp, tham gia ý kiến với doanh nghiệp nhằm bảo đảm tốt hơn quyền, lợi ích của người lao động, xây dựng mối quan hệ lao động hài hòa, ổn định, góp phần vào sự phát triển bền vững của doanh nghiệp; theo dõi, đánh giá, giám sát việc tổng hợp, giải trình, tiếp thu ý kiến đối với các nội dung đã được đưa ra lấy ý kiến người lao động và quá trình tổ chức thực hiện quyết định về các nội dung này.
 
+Tiểu mục 4
 
-### Tiểu mục 4 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC KIỂM TRA, GIÁM SÁT
-
-Tiểu mục 4 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC KIỂM TRA, GIÁM SÁT
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 440130000000000040000010000000000000000000400000000000000000
-
-**ID:** dk_00072219
-
----
-
-
-### Điều 44.13.LQ.75. Nội dung người lao động kiểm tra, giám sát
+NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC KIỂM TRA, GIÁM SÁT
 
 Điều 44.13.LQ.75. Nội dung người lao động kiểm tra, giám sát
 
-**Chỉ mục:** 75
+(Điều 75 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000007500000000000000000
+1. Người lao động ở doanh nghiệp nhà nước kiểm tra việc thực hiện các nội dung mà tập thể người lao động đã bàn và quyết định quy định tại Điều 67 của Luật này.
 
-**ID:** dk_00072220
-
----
-
-
-### Điều 44.13.LQ.76. Hình thức người lao động kiểm tra, giám sát
+2. Người lao động giám sát việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở của doanh nghiệp nhà nước, việc thực hiện chính sách, pháp luật của người đại diện có thẩm quyền, ban lãnh đạo, điều hành và những người có thẩm quyền khác của doanh nghiệp.
 
 Điều 44.13.LQ.76. Hình thức người lao động kiểm tra, giám sát
 
-**Chỉ mục:** 76
+(Điều 76 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000007600000000000000000
+1. Người lao động trực tiếp thực hiện việc kiểm tra, giám sát tại doanh nghiệp nhà nước thông qua:
 
-**ID:** dk_00072221
+a) Hoạt động lao động, sản xuất, sinh hoạt của người lao động ở doanh nghiệp;
 
----
+b) Quan sát, tìm hiểu, giao tiếp với người có chức vụ, quyền hạn, người lao động khác trong doanh nghiệp;
 
+c) Tiếp cận các thông tin được công khai; các thông tin, báo cáo của doanh nghiệp hoặc người được giao quản lý, thực hiện các nội dung người lao động đã bàn và quyết định;
 
-### Điều 44.13.LQ.77. Tổ chức Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+d) Tham dự hội nghị người lao động, hội nghị đối thoại tại nơi làm việc, các hoạt động hội họp, sinh hoạt tập thể khác tại nơi làm việc.
+
+2. Người lao động thực hiện việc kiểm tra, giám sát thông qua hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước.
 
 Điều 44.13.LQ.77. Tổ chức Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 77
+(Điều 77 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000007700000000000000000
+1. Ban Thanh tra nhân dân ở doanh nghiệp nhà nước do hội nghị người lao động bầu gồm từ 03 đến 09 thành viên theo đề nghị của Ban Chấp hành Công đoàn ở doanh nghiệp, tổ chức đại diện khác của người lao động ở cơ sở (nếu có).
 
-**ID:** dk_00072222
+Trường hợp doanh nghiệp nhà nước có tính chất đặc thù hoặc hoạt động phân tán thì hội nghị người lao động có thể quyết định số lượng thành viên Ban Thanh tra nhân dân nhiều hơn để bảo đảm hoạt động có hiệu quả.
 
----
+2. Thành viên Ban Thanh tra nhân dân là người đang làm việc trong doanh nghiệp nhà nước, có phẩm chất đạo đức tốt, có uy tín trong doanh nghiệp, có đủ sức khỏe để hoàn thành nhiệm vụ; có hiểu biết về chính sách, pháp luật và tự nguyện tham gia Ban Thanh tra nhân dân; không đồng thời là người đại diện có thẩm quyền, thành viên ban lãnh đạo, điều hành, kế toán trưởng của doanh nghiệp.
 
+3. Nhiệm kỳ của Ban Thanh tra nhân dân là 02 năm. Trong nhiệm kỳ, nếu khuyết thành viên hoặc thành viên Ban Thanh tra nhân dân không hoàn thành nhiệm vụ, không còn được tín nhiệm hoặc xin thôi làm nhiệm vụ thì Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) đề nghị hội nghị người lao động quyết định cho thôi làm nhiệm vụ và bầu người khác thay thế.
 
-### Điều 44.13.LQ.78. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+4. Ban Thanh tra nhân dân ở doanh nghiệp nhà nước gồm Trưởng ban, Phó Trưởng ban và các Ủy viên. Trưởng ban chịu trách nhiệm chung về hoạt động của Ban Thanh tra nhân dân; Phó Trưởng ban có trách nhiệm giúp Trưởng ban thực hiện nhiệm vụ; các thành viên khác thực hiện nhiệm vụ theo sự phân công của Trưởng ban.
 
 Điều 44.13.LQ.78. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 78
+(Điều 78 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000007800000000000000000
+1. Kiểm tra việc tổ chức thực hiện các quyết định của tập thể người lao động; giám sát việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở của doanh nghiệp nhà nước.
 
-**ID:** dk_00072223
+2. Kiến nghị cơ quan, người có thẩm quyền xử lý theo quy định của pháp luật khi phát hiện có dấu hiệu vi phạm pháp luật và giám sát việc thực hiện kiến nghị đó.
 
----
+3. Yêu cầu người đại diện có thẩm quyền, ban lãnh đạo, điều hành của doanh nghiệp cung cấp thông tin, tài liệu có liên quan để phục vụ việc xác minh, kiểm tra, giám sát.
 
+4. Xem xét, xác minh vụ việc cụ thể theo đề nghị của người lao động ở doanh nghiệp.
 
-### Điều 44.13.LQ.79. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+5. Kiến nghị ban lãnh đạo, điều hành doanh nghiệp khắc phục hạn chế, thiếu sót được phát hiện qua việc kiểm tra, giám sát; bảo đảm quyền và lợi ích hợp pháp, chính đáng của người lao động; biểu dương những đơn vị, cá nhân có thành tích. Trường hợp phát hiện người có hành vi vi phạm pháp luật thì kiến nghị cơ quan, tổ chức có thẩm quyền xem xét, xử lý.
+
+6. Tiếp nhận kiến nghị, phản ánh của người lao động có liên quan đến phạm vi kiểm tra, giám sát của Ban Thanh tra nhân dân.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.26. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước)
 
 Điều 44.13.LQ.79. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 79
+(Điều 79 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000007900000000000000000
+1. Ban Thanh tra nhân dân ở doanh nghiệp nhà nước do Ban Chấp hành Công đoàn tại doanh nghiệp trực tiếp chỉ đạo, hướng dẫn hoạt động.
 
-**ID:** dk_00072224
+2. Căn cứ vào nghị quyết hội nghị người lao động của doanh nghiệp nhà nước và sự chỉ đạo, hướng dẫn của Ban Chấp hành Công đoàn, Ban Thanh tra nhân dân xây dựng chương trình công tác theo từng quý, 06 tháng và hằng năm.
 
----
-
-
-### Điều 44.13.LQ.80. Xử lý kết quả kiểm tra, giám sát của người lao động
+3. Ban Thanh tra nhân dân có trách nhiệm báo cáo về hoạt động của mình với Ban Chấp hành Công đoàn và tại hội nghị người lao động của doanh nghiệp nhà nước.
 
 Điều 44.13.LQ.80. Xử lý kết quả kiểm tra, giám sát của người lao động
 
-**Chỉ mục:** 80
+(Điều 80 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000008000000000000000000
+1. Thông qua việc kiểm tra, giám sát trực tiếp, người lao động tham gia ý kiến đóng góp với người có thẩm quyền của doanh nghiệp nhà nước để kịp thời khắc phục các bất cập, hạn chế trong công tác tổ chức, quản lý; ngăn ngừa tiêu cực, vi phạm pháp luật; bảo đảm quyền, lợi ích hợp pháp, chính đáng của người lao động và đóng góp giải pháp nhằm phát triển doanh nghiệp.
 
-**ID:** dk_00072225
+2. Khi phát hiện hành vi, nội dung có dấu hiệu vi phạm, người lao động có quyền khiếu nại, tố cáo theo quy định của pháp luật hoặc kiến nghị, phản ánh đến người đại diện có thẩm quyền, ban lãnh đạo, điều hành của doanh nghiệp nhà nước; kiến nghị, phản ánh đến cơ quan quản lý nhà nước có liên quan, Công đoàn, tổ chức đại diện khác của người lao động, tổ chức đoàn thể tại doanh nghiệp mà mình là thành viên, hội viên hoặc phản ánh, đề nghị Ban Thanh tra nhân dân xem xét, thực hiện kiểm tra, giám sát theo chức năng, nhiệm vụ.
 
----
-
-
-### Điều 44.13.LQ.81. Trách nhiệm trong việc bảo đảm để người lao động thực hiện kiểm tra, giám sát
+3. Các cơ quan, tổ chức, cá nhân quy định tại khoản 2 Điều này có trách nhiệm tiếp nhận, xử lý, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của người lao động theo thẩm quyền hoặc thực hiện việc thanh tra, kiểm tra, giám sát theo quy định của pháp luật.
 
 Điều 44.13.LQ.81. Trách nhiệm trong việc bảo đảm để người lao động thực hiện kiểm tra, giám sát
 
-**Chỉ mục:** 81
+(Điều 81 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 44013000000000004000001000000000000000000040000000000000000008100000000000000000
+1. Ban lãnh đạo doanh nghiệp nhà nước có trách nhiệm sau đây:
 
-**ID:** dk_00072226
+a) Phối hợp cùng Ban Chấp hành Công đoàn ở doanh nghiệp, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có), căn cứ vào yêu cầu, nhiệm vụ, đặc điểm, tính chất tổ chức, hoạt động và điều kiện thực tế của doanh nghiệp, xây dựng và ban hành quy chế thực hiện dân chủ để quy định cụ thể hơn nội dung, cách thức thực hiện dân chủ ở doanh nghiệp mình làm cơ sở để người lao động kiểm tra, giám sát việc thực hiện. Nội dung của quy chế thực hiện dân chủ của doanh nghiệp có thể mở rộng hơn phạm vi thực hiện dân chủ của người lao động nhưng không được trái hoặc hạn chế việc thực hiện các nội dung đã được quy định trong Luật này;
 
----
+b) Tạo lập cơ chế tiếp nhận góp ý, kiến nghị, phản ánh của người lao động tại doanh nghiệp; thực hiện việc đối thoại, giải trình với người lao động theo quy định của pháp luật;
 
+c) Xem xét, giải quyết, giải trình và trả lời kịp thời kiến nghị, phản ánh của người lao động, kiến nghị của Công đoàn, tổ chức đại diện khác của người lao động ở cơ sở (nếu có) và các tổ chức đoàn thể khác tại doanh nghiệp; chuyển thông tin đến cơ quan có thẩm quyền đối với những vấn đề không thuộc thẩm quyền giải quyết của mình;
 
-### Điều 44.13.NĐ.1.24. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+d) Tạo điều kiện và bảo đảm để Ban Thanh tra nhân dân thực hiện nhiệm vụ kiểm tra, giám sát theo quy định của pháp luật bằng cách thông báo cho Ban Thanh tra nhân dân về chính sách, pháp luật chủ yếu liên quan đến tổ chức, hoạt động của doanh nghiệp; tổ chức cung cấp đầy đủ và kịp thời các thông tin, tài liệu cần thiết theo yêu cầu của Ban Thanh tra nhân dân; xem xét, giải quyết kịp thời các kiến nghị của Ban Thanh tra nhân dân, thông báo kết quả giải quyết trong thời hạn 15 ngày kể từ ngày nhận được kiến nghị; thông báo cho Ban Thanh tra nhân dân kết quả giải quyết kiến nghị, phản ánh và việc thực hiện pháp luật về thực hiện dân chủ ở doanh nghiệp mình;
+
+đ) Xử lý người có hành vi cản trở người lao động thực hiện quyền kiểm tra, giám sát; người có hành vi trả thù, trù dập người lao động thực hiện khiếu nại, tố cáo, kiến nghị, phản ánh; người có hành vi cản trở hoạt động của Ban Thanh tra nhân dân, trả thù, trù dập thành viên Ban Thanh tra nhân dân theo quy định của pháp luật.
+
+2. Ban Chấp hành Công đoàn ở doanh nghiệp nhà nước có trách nhiệm sau đây:
+
+a) Giới thiệu nhân sự để hội nghị người lao động bầu làm thành viên Ban Thanh tra nhân dân; công nhận kết quả bầu thành viên Ban Thanh tra nhân dân; đề nghị cho thôi làm thành viên Ban Thanh tra nhân dân;
+
+b) Hướng dẫn Ban Thanh tra nhân dân xây dựng chương trình, kế hoạch, nội dung công tác; xem xét báo cáo hoạt động của Ban Thanh tra nhân dân và chỉ đạo, hướng dẫn hoạt động của Ban Thanh tra nhân dân; tham gia hoạt động của Ban Thanh tra nhân dân khi xét thấy cần thiết;
+
+c) Xem xét, giải quyết kiến nghị của Ban Thanh tra nhân dân; theo dõi, đôn đốc việc giải quyết kiến nghị của Ban Thanh tra nhân dân gửi đến người đại diện có thẩm quyền, ban lãnh đạo, điều hành của doanh nghiệp hoặc cấp có thẩm quyền;
+
+d) Vận động người lao động phối hợp và tích cực hỗ trợ hoạt động của Ban Thanh tra nhân dân;
+
+đ) Hỗ trợ kinh phí hoạt động cho Ban Thanh tra nhân dân.
+
+3. Người lao động chịu trách nhiệm về nội dung khiếu nại, tố cáo, kiến nghị, phản ánh của mình; chủ động, tích cực phối hợp với Ban Thanh tra nhân dân và các cơ quan, tổ chức, cá nhân có trách nhiệm trong việc xác minh, kiểm tra, giám sát đối với các nội dung mà mình đã kiến nghị, đề nghị.
+
+4. Chính phủ quy định chi tiết tổ chức và hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước.
+
+(Điều này có nội dung liên quan đến Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 44.13.NĐ.1.24. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002400
+1. Tuân thủ theo quy định của pháp luật; thực hiện đúng nhiệm vụ, quyền hạn được giao; bảo đảm khách quan, công khai, minh bạch; mọi ý kiến, phản ánh của người lao động được phản ánh trung thực đến tổ chức, cá nhân có thẩm quyền giải quyết theo quy định của pháp luật.
 
-**ID:** dk_00072227
+2. Không được lợi dụng nhiệm vụ, quyền hạn để kích động, dụ dỗ, lôi kéo người lao động để thực hiện các hành vi trái pháp luật.
 
----
-
-
-### Điều 44.13.NĐ.1.25. Tổ chức của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+3. Làm việc theo chế độ tập thể và quyết định theo đa số.
 
 Điều 44.13.NĐ.1.25. Tổ chức của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002500
+1. Thành viên Ban Thanh tra nhân dân ở doanh nghiệp nhà nước được bầu tại hội nghị người lao động theo quy định tại Điều 69 của Luật Thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072228
+Chậm nhất sau 05 ngày làm việc kể từ ngày kết thúc hội nghị người lao động bầu thành viên Ban Thanh tra nhân dân, Ban Chấp hành Công đoàn ở doanh nghiệp nhà nước công nhận kết quả bầu thành viên Ban Thanh tra nhân dân.
 
----
+2. Ban Thanh tra nhân dân ở doanh nghiệp nhà nước có Trưởng ban, Phó Trưởng ban và các Ủy viên. Trường hợp số lượng thành viên Ban Thanh tra nhân dân từ 09 người trở lên thì số lượng Phó Trưởng ban không quá 02 người.
 
+Trường hợp doanh nghiệp nhà nước có tính chất đặc thù hoặc hoạt động phân tán, căn cứ vào yêu cầu, nhiệm vụ, đặc điểm, tính chất tổ chức, hoạt động và điều kiện thực tế, sau khi thống nhất với Ban lãnh đạo doanh nghiệp nhà nước, Ban Chấp hành công đoàn, ban đại diện của tổ chức đại diện khác của người lao động ở cơ sở (nếu có) đề xuất để hội nghị người lao động quyết định số lượng thành viên Ban Thanh tra nhân dân nhiều hơn 09 người để bảo đảm hoạt động hiệu quả.
 
-### Điều 44.13.NĐ.1.26. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.69. Tổ chức hội nghị người lao động)
 
 Điều 44.13.NĐ.1.26. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002600
+1. Xây dựng chương trình, kế hoạch công tác
 
-**ID:** dk_00072229
+a) Xây dựng Chương trình công tác để thực hiện các nhiệm vụ được quy định tại Điều 78 của Luật Thực hiện dân chủ ở cơ sở theo từng quý, 06 tháng và hằng năm.
 
----
+Chương trình công tác gồm các nội dung cơ bản: mục đích, yêu cầu, nội dung, thời gian, kinh phí, tổ chức thực hiện và các điều kiện bảo đảm khác. Chương trình công tác có thể được điều chỉnh, bổ sung phù hợp với yêu cầu, tình hình thực tế hoặc khi có vấn đề phát sinh đột xuất.
 
+b) Căn cứ nghị quyết hội nghị người lao động và quy chế thực hiện dân chủ ở doanh nghiệp, xây dựng kế hoạch kiểm tra, giám sát, báo cáo Ban Chấp hành Công đoàn ở doanh nghiệp nhà nước và thông báo đến ban lãnh đạo, điều hành doanh nghiệp (nếu có) chậm nhất 05 ngày làm việc trước khi tiến hành hoạt động kiểm tra, giám sát.
 
-### Điều 44.13.NĐ.1.27. Phối hợp trong thực hiện hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+2. Phương thức hoạt động
+
+a) Tiếp nhận thông tin do người lao động phản ánh trực tiếp, qua hòm thư góp ý; qua nghiên cứu văn bản tài liệu liên quan đến nội dung giám sát do ban lãnh đạo, điều hành doanh nghiệp cung cấp.
+
+b) Tổng hợp, phân tích, đối chiếu với nội dung nghị quyết, quyết định của hội nghị người lao động, quy chế thực hiện dân chủ ở doanh nghiệp, quy chế nội bộ, các quy định khác của doanh nghiệp và quy định pháp luật để đánh giá, đề xuất, kiến nghị với ban lãnh đạo, điều hành doanh nghiệp hoặc cơ quan, tổ chức, cá nhân có thẩm quyền xem xét giải quyết hoặc tổ chức đối thoại kịp thời theo quy định của pháp luật.
+
+c) Kiến nghị của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước để giải quyết các vấn đề liên quan đến nội dung kiểm tra, giám sát được phản ánh trực tiếp đến người đứng đầu ban lãnh đạo, điều hành doanh nghiệp nhà nước, cơ quan, cá nhân có thẩm quyền hoặc thông qua Ban Chấp hành Công đoàn ở doanh nghiệp.
+
+d) Kết quả kiểm tra, giám sát, xác minh của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước được lập thành văn bản và gửi đến cơ quan, tổ chức, cá nhân có phản ánh, kiến nghị. Trường hợp phát hiện người có hành vi vi phạm pháp luật thì kiến nghị cơ quan, tổ chức có thẩm quyền xem xét, xử lý theo quy định của pháp luật.
+
+3. Chế độ báo cáo
+
+Ban Thanh tra nhân dân có trách nhiệm định kỳ báo cáo Ban Chấp hành Công đoàn ở doanh nghiệp hàng quý, 06 tháng và năm hoặc khi có yêu cầu; báo cáo hằng năm tại hội nghị người lao động.
+
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.78. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước)
 
 Điều 44.13.NĐ.1.27. Phối hợp trong thực hiện hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**Mã phân cấp:** 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002700
+Giữ mối liên hệ và phối hợp chặt chẽ với ban lãnh đạo, điều hành doanh nghiệp và người lao động để kịp thời tiếp nhận ý kiến, phản ánh; tổng hợp, đối chiếu, xác minh và kiến nghị giải quyết theo thẩm quyền hoặc báo cáo đến cơ quan, cá nhân có thẩm quyền giải quyết theo quy định của pháp luật.
 
-**ID:** dk_00072230
+Mục 2
 
----
-
-
-### Điều 44.13.LQ.82. Thực hiện dân chủ ở doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước
+THỰC HIỆN DÂN CHỦ Ở DOANH NGHIỆP, TỔ CHỨC KHÁC CÓ THUÊ MƯỚN, SỬ DỤNG LAO ĐỘNG THEO HỢP ĐỒNG LAO ĐỘNG THUỘC KHU VỰC NGOÀI NHÀ NƯỚC
 
 Điều 44.13.LQ.82. Thực hiện dân chủ ở doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước
 
-**Chỉ mục:** 82
+(Điều 82 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 440130000000000040000020000000000000000008200000000000000000
+1. Việc thực hiện dân chủ ở doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước thực hiện theo quy định chung tại Chương I của Luật này và các quy định cụ thể về thực hiện dân chủ tại nơi làm việc theo pháp luật về lao động và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00072232
+2. Doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước, tùy theo đặc điểm, tính chất tổ chức, hoạt động và điều kiện thực tế của tổ chức, được quyền lựa chọn áp dụng các quy định về thực hiện dân chủ ở doanh nghiệp nhà nước quy định tại Mục 1 Chương này tại doanh nghiệp, tổ chức mình; thông báo đến tổ chức Công đoàn tại doanh nghiệp, tổ chức và công khai nội dung áp dụng để người lao động được biết.
 
----
+3. Trong quá trình xây dựng và ban hành quy chế thực hiện dân chủ tại nơi làm việc của doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước, khuyến khích các doanh nghiệp, tổ chức mở rộng hơn phạm vi, nội dung, cách thức thực hiện dân chủ mà pháp luật quy định nhưng không được trái hoặc hạn chế quyền thực hiện dân chủ của người lao động được quy định trong Luật này và pháp luật khác có liên quan.
 
+Chương V
 
-### Điều 44.13.LQ.83. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+TỔ CHỨC THỰC HIỆN PHÁP LUẬT VỀ THỰC HIỆN DÂN CHỦ Ở CƠ SỞ
 
 Điều 44.13.LQ.83. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000500008300000000000000000
+1. Chính phủ thống nhất quản lý nhà nước về thực hiện dân chủ ở cơ sở và thực hiện các nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00072234
+a) Ban hành theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền ban hành, sửa đổi, bổ sung và hoàn thiện pháp luật về thực hiện dân chủ ở cơ sở;
 
----
+b) Thực hiện các biện pháp tuyên truyền, phổ biến, giáo dục pháp luật, nâng cao nhận thức về quyền và trách nhiệm của công dân, cán bộ, công chức, viên chức, người lao động trong việc thực hiện dân chủ ở cơ sở;
 
+c) Hướng dẫn cơ quan, tổ chức, công dân trong việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở;
 
-### Điều 44.13.TT.1.21. Trách nhiệm của các cơ quan, đơn vị
+d) Thanh tra, kiểm tra việc thi hành pháp luật, xử lý vi phạm pháp luật về thực hiện dân chủ ở cơ sở;
+
+đ) Theo dõi, đôn đốc, kiểm tra việc bảo đảm thực hiện dân chủ ở cơ sở.
+
+2. Bộ Nội vụ có trách nhiệm sau đây:
+
+a) Giúp Chính phủ quản lý nhà nước về thực hiện dân chủ tại xã, phường, thị trấn, cơ quan nhà nước, đơn vị sự nghiệp công lập;
+
+b) Theo dõi, kiểm tra, tổng hợp, báo cáo Chính phủ, Thủ tướng Chính phủ kết quả thực hiện dân chủ ở cơ sở.
+
+3. Bộ Lao động - Thương binh và Xã hội có trách nhiệm sau đây:
+
+a) Giúp Chính phủ quản lý nhà nước về thực hiện dân chủ ở tổ chức có sử dụng lao động;
+
+b) Phối hợp với Bộ Nội vụ báo cáo Chính phủ, Thủ tướng Chính phủ kết quả thực hiện dân chủ ở tổ chức có sử dụng lao động.
+
+4. Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí về thực hiện dân chủ ở cơ sở và việc cấp kinh phí cho Ủy ban Mặt trận Tổ quốc Việt Nam, Tổng Liên đoàn Lao động Việt Nam để hỗ trợ kinh phí hoạt động cho Ban Thanh tra nhân dân và Ban Giám sát đầu tư của cộng đồng.
+
+5. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, căn cứ vào quy định của Luật này, quy định việc thực hiện dân chủ trong nội bộ các cơ quan của Quân đội nhân dân, Công an nhân dân.
+
+6. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi nhiệm vụ, quyền hạn của mình, chịu trách nhiệm tổ chức thi hành pháp luật về thực hiện dân chủ ở cơ sở.
 
 Điều 44.13.TT.1.21. Trách nhiệm của các cơ quan, đơn vị
 
-**Chỉ mục:** 21
+(Điều 21 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802675301650002100
+ 1. Bí thư cấp ủy (chi bộ), người chỉ huy, chính ủy, chính trị viên, mọi quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng trong cơ quan, đơn vị có trách nhiệm tham gia hoạt động và xây dựng Hội đồng quân nhân.
 
-**ID:** dk_00072235
+ 2. Chỉ huy cơ quan, đơn vị thường xuyên tổ chức học tập, quán triệt, phổ biến nâng cao nhận thức trách nhiệm, triển khai thực hiện có hiệu quả, phát huy quyền dân chủ của tập thể quân nhân trong xây dựng tổ chức đảng trong sạch vững mạnh, xây dựng cơ quan, đơn vị vững mạnh toàn diện.
 
----
+ 3. Mọi hành vi vi phạm về tổ chức và hoạt động của Hội đồng quân nhân hoặc lợi dụng dân chủ để vi phạm pháp luật, xâm phạm quyền, lợi ích hợp pháp của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng, cản trở việc thực hiện nhiệm vụ của cơ quan, đơn vị phải được phát hiện, xử lý theo quy định của pháp luật Nhà nước, kỷ luật Quân đội.Điều 44.13.TT.1.22. Kinh phí hoạt động của Hội đồng quân nhân
 
+(Điều 22 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-### Điều 44.13.TT.1.22. Kinh phí hoạt động của Hội đồng quân nhân
+ 1. Đối với đơn vị dự toán: Được tính trong dự toán ngân sách Quốc phòng hằng năm của cơ quan, đơn vị và hạch toán vào Mục 7000, Tiểu mục 7012, Tiết mục 00, Ngành 30: Kinh phí hoạt động chuyên ngành Chính trị.
 
-Điều 44.13.TT.1.22. Kinh phí hoạt động của Hội đồng quân nhân
+ 2. Đối với đơn vị sự nghiệp công lập, tự chủ về tài chính: Được tính trong phương án tự chủ tài chính đã được cấp có thẩm quyền phê duyệt.
 
-**Chỉ mục:** 22
+ 3. Đối với doanh nghiệp Quân đội: Được tính vào chi phí hoạt động sản xuất, kinh doanh, dịch vụ của doanh nghiệp.Điều 44.13.TT.2.5. Nội dung công khai của Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802675301650002200
+(Điều 5 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-**ID:** dk_00072236
+ 1. Trong công tác tuần tra, kiểm soát và xử lý vi phạm hành chính:
 
----
+ a) Quy trình tuần tra, kiểm soát và xử lý vi phạm hành chính;
 
+ b) Tên cơ quan, địa chỉ, số điện thoại trực ban, hòm thư góp ý của cơ quan Công an có nhiệm vụ tuần tra, kiểm soát và xử lý vi phạm hành chính;
 
-### Điều 44.13.TT.2.5. Nội dung công khai của Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
+ c) Trang phục, số hiệu Công an nhân dân và các phương tiện, thiết bị kỹ thuật, công cụ hỗ trợ được công khai theo quy định;
 
-Điều 44.13.TT.2.5. Nội dung công khai của Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
+ d) Kế hoạch tổng kiểm soát phương tiện giao thông, Kế hoạch tuần tra, kiểm soát, xử lý vi phạm theo chuyên đề về giao thông, Kế hoạch tuần tra, kiểm soát, xử lý vi phạm thường xuyên, gồm các nội dung cụ thể sau: Tên đơn vị; tuyến đường; các loại phương tiện và các hành vi vi phạm tiến hành kiểm soát, xử lý; thời gian thực hiện;
 
-**Chỉ mục:** 5
+ đ) Nhiệm vụ, quyền hạn của cán bộ, chiến sỹ khi làm nhiệm vụ tuần tra kiểm soát và xử lý vi phạm hành chính;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670000500
+ e) Quyền và nghĩa vụ của công dân khi cán bộ, chiến sỹ thực hiện việc kiểm tra, kiểm soát và xử lý vi phạm hành chính.
 
-**ID:** dk_00072237
+ 2. Công tác đăng ký, cấp biển số xe:
 
----
+ a) Quy trình, thủ tục đăng ký, cấp biển số xe;
 
+ b) Tên cơ quan, địa chỉ, thời gian làm việc, số điện thoại trực ban, hòm thư góp ý của cơ quan Công an có nhiệm vụ đăng ký, cấp biển số xe;
 
-### Điều 44.13.TT.2.6. Hình thức công khai của Công an nhân dân
+ c) Trang phục, số hiệu Công an nhân dân của cán bộ làm nhiệm vụ đăng ký, cấp biển số xe;
 
-Điều 44.13.TT.2.6. Hình thức công khai của Công an nhân dân
+ d) Lệ phí đăng ký xe;
 
-**Chỉ mục:** 6
+ đ) Các hành vi vi phạm và hình thức xử phạt các hành vi vi phạm quy định về đăng ký, cấp biển số xe;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670000600
+ e) Trách nhiệm của cơ quan Công an và cán bộ, chiến sỹ làm nhiệm vụ đăng ký xe;
 
-**ID:** dk_00072238
+ g) Quyền và nghĩa vụ của công dân khi thực hiện các quy định về đăng ký, cấp biển số xe.
 
----
+ 3. Công tác chỉ huy, điều khiển giao thông:
 
+ a) Quy trình chỉ huy, điều khiển giao thông;
 
-### Điều 44.13.TT.2.7. Những việc Nhân dân tham gia ý kiến về hoạt động bảo đảm trật tự, an toàn giao thông
+ b) Trang phục, số hiệu Công an nhân dân và các phương tiện kỹ thuật, công cụ hỗ trợ được công khai theo quy định;
 
-Điều 44.13.TT.2.7. Những việc Nhân dân tham gia ý kiến về hoạt động bảo đảm trật tự, an toàn giao thông
+ c) Nhiệm vụ và quyền hạn của cán bộ, chiến sỹ khi làm nhiệm vụ chỉ huy, điều khiển giao thông;
 
-**Chỉ mục:** 7
+ d) Tuyến đường hạn chế hoặc cấm phương tiện, loại phương tiện giao thông khi có yêu cầu về bảo đảm an ninh, trật tự, an toàn xã hội.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670000700
+ 4. Công tác điều tra, giải quyết tai nạn giao thông:
 
-**ID:** dk_00072239
+ a) Quy trình điều tra, giải quyết tai nạn giao thông;
 
----
+ b) Nhiệm vụ, quyền hạn của cán bộ, chiến sỹ khi điều tra, giải quyết tai nạn giao thông;
 
+ c) Trách nhiệm của cá nhân, cơ quan, tổ chức khi xảy ra tai nạn giao thông.Điều 44.13.TT.2.6. Hình thức công khai của Công an nhân dân
 
-### Điều 44.13.TT.2.8. Hình thức Nhân dân tham gia ý kiến
+(Điều 6 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-Điều 44.13.TT.2.8. Hình thức Nhân dân tham gia ý kiến
+ Căn cứ vào đặc điểm, tính chất và nội dung phải công khai, cơ quan Công an áp dụng một, một số hoặc tất cả các hình thức công khai sau đây:
 
-**Chỉ mục:** 8
+ 1. Đăng tải trên Cổng thông tin điện tử; Trang thông tin điện tử của cơ quan Công an.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670000800
+ 2. Đăng Công báo.
 
-**ID:** dk_00072240
+ 3. Niêm yết tại trụ sở cơ quan Công an.
 
----
+ 4. Công khai trên phương tiện thông tin đại chúng.
 
+ 5. Thông qua việc tiếp công dân; họp báo; thông cáo báo chí; hoạt động của người phát ngôn trong lực lượng Công an nhân dân theo quy định của pháp luật.Điều 44.13.TT.2.7. Những việc Nhân dân tham gia ý kiến về hoạt động bảo đảm trật tự, an toàn giao thông
 
-### Điều 44.13.TT.2.9. Trách nhiệm của Nhân dân tham gia vào hoạt động bảo đảm trật tự, an toàn giao thông
+(Điều 7 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-Điều 44.13.TT.2.9. Trách nhiệm của Nhân dân tham gia vào hoạt động bảo đảm trật tự, an toàn giao thông
+ 1. Tham gia ý kiến về chủ trương, biện pháp và sáng kiến góp phần bảo đảm trật tự, an toàn giao thông.
 
-**Chỉ mục:** 9
+ 2. Tham gia ý kiến các dự thảo văn bản quy phạm pháp luật về hoạt động bảo đảm trật tự, an toàn giao thông (đối với các văn bản phải lấy ý kiến của Nhân dân theo quy định pháp luật).
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670000900
+ 3. Tham gia ý kiến về quy tắc ứng xử của Công an nhân dân khi làm nhiệm vụ; đề nghị biểu dương, khen thưởng gương người tốt, việc tốt; kiến nghị, phản ánh các trường hợp cán bộ, chiến sỹ thiếu trách nhiệm, vi phạm các quy định của pháp luật khi làm nhiệm vụ.Điều 44.13.TT.2.8. Hình thức Nhân dân tham gia ý kiến
 
-**ID:** dk_00072241
+(Điều 8 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
----
+ 1. Thông qua đơn, thư gửi cơ quan Công an.
 
+ 2. Thông qua điện thoại, hòm thư góp ý.
 
-### Điều 44.13.TT.2.10. Những việc Nhân dân giám sát Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
+ 3. Thông qua Cổng thông tin điện tử; Trang thông tin điện tử của cơ quan Công an.
 
-Điều 44.13.TT.2.10. Những việc Nhân dân giám sát Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
+ 4. Thông qua các cuộc họp tại địa bàn cư trú (gồm: Tổ dân phố, bản, làng, thôn, xóm); nơi làm việc, học tập.
 
-**Chỉ mục:** 10
+ 5. Thông qua các cuộc điều tra xã hội học.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670001000
+ 6. Thông qua hoạt động tiếp công dân của cơ quan Công an.Điều 44.13.TT.2.9. Trách nhiệm của Nhân dân tham gia vào hoạt động bảo đảm trật tự, an toàn giao thông
 
-**ID:** dk_00072242
+(Điều 9 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
----
+ 1. Tự giác chấp hành các quy định của pháp luật về trật tự, an toàn giao thông; chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.
 
+ 2. Tham gia cấp cứu và bảo vệ tài sản của người bị nạn, bảo vệ hiện trường trong các vụ tai nạn giao thông.
 
-### Điều 44.13.TT.2.11. Hình thức giám sát của Nhân dân
+ 3. Bảo vệ các công trình giao thông, thiết bị an toàn giao thông. Trường hợp phát hiện công trình, thiết bị có dấu hiệu không đảm bảo an toàn giao thông hoặc bị hư hỏng, bị xâm hại thì nhanh chóng thực hiện các biện pháp báo hiệu cho người tham gia giao thông biết và khẩn trương thông báo cho Ủy ban nhân dân, cơ quan quản lý công trình, thiết bị, cơ quan Công an nơi gần nhất để có biện pháp xử lý kịp thời.
 
-Điều 44.13.TT.2.11. Hình thức giám sát của Nhân dân
+ 4. Phát hiện, ngăn chặn, tố cáo những trường hợp vi phạm trật tự, an toàn giao thông.
 
-**Chỉ mục:** 11
+ 5. Thông báo các vụ tai nạn, ùn tắc giao thông; các vụ đua xe trái phép, gây rối trật tự công cộng, phạm pháp hình sự làm ảnh hưởng an toàn giao thông; đặt chướng ngại vật trên đường gây cản trở giao thông; ném đất, đá hoặc các vật khác vào phương tiện hoặc người tham gia giao thông; vận chuyển trái phép chất cháy, chất nổ, chất ma túy hoặc vận chuyển trái phép các hàng hóa khác; các hành vi giả danh Công an nhân dân; chống người thi hành công vụ và các hành vi khác vi phạm trật tự, an toàn giao thông.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802711500670001100
+ 6. Tham gia và hưởng ứng các phong trào giữ gìn trật tự, an toàn giao thông; xây dựng văn hóa giao thông.
 
-**ID:** dk_00072243
+ 7. Hỗ trợ, giúp đỡ cán bộ, chiến sỹ khi làm nhiệm vụ.
 
----
+ 8. Tuyên truyền, giáo dục, nhắc nhở các thành viên khác trong gia đình chấp hành tốt các quy định của pháp luật về trật tự, an toàn giao thông.Điều 44.13.TT.2.10. Những việc Nhân dân giám sát Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
 
+(Điều 10 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-### Điều 44.13.TT.3.4. Những nội dung thông báo công khai
+ 1. Việc thi hành các quy định của pháp luật trong công tác bảo đảm trật tự, an toàn giao thông.
 
-Điều 44.13.TT.3.4. Những nội dung thông báo công khai
+ 2. Việc chấp hành quy định của Bộ Công an về quy tắc ứng xử của cán bộ, chiến sỹ khi làm nhiệm vụ.
 
-**Chỉ mục:** 4
+ 3. Việc Nhân dân giám sát Công an nhân dân thực hiện các quy định tại khoản 1 và khoản 2 Điều này phải khách quan, trung thực, đúng quy định của pháp luật, không được làm cản trở, ảnh hưởng đến việc thực thi nhiệm vụ của cán bộ, chiến sỹ.Điều 44.13.TT.2.11. Hình thức giám sát của Nhân dân
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730000400
+(Điều 11 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-**ID:** dk_00072244
+ 1. Thông qua các thông tin công khai của Công an nhân dân và phản hồi qua các phương tiện thông tin đại chúng.
 
----
+ 2. Thông qua các chủ thể giám sát theo quy định của pháp luật.
 
+ 3. Thông qua tiếp xúc, giải quyết trực tiếp công việc với cán bộ, chiến sỹ.
 
-### Điều 44.13.TT.3.5. Hình thức công khai
+ 4. Thông qua kết quả giải quyết các vụ việc, đơn thư, khiếu nại, tố cáo, kiến nghị, phản ánh.
 
-*Nội dung chưa có sẵn*
+ 5. Thông qua thiết bị ghi âm, ghi hình hoặc quan sát trực tiếp nhưng phải đảm bảo các điều kiện sau:
 
-**Chỉ mục:** 5
+ a) Không làm ảnh hưởng đến hoạt động bình thường của cán bộ, chiến sỹ khi đang thực thi nhiệm vụ;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730000500
+ b) Ngoài khu vực bảo đảm trật tự, an toàn giao thông (đối với nơi có triển khai khu vực bảo đảm trật tự, an toàn giao thông);
 
-**ID:** dk_00072245
+ c) Tuân thủ các quy định pháp luật khác có liên quan.Điều 44.13.TT.3.4. Những nội dung thông báo công khai
 
----
+(Điều 4 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
+1. Chính sách, pháp luật của Nhà nước, nội quy cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng; tiêu chuẩn thi đua và xếp loại đối với phạm nhân, trại viên, học sinh.
 
-### Điều 44.13.TT.3.6. Địa điểm tiếp công dân, giải quyết công việc liên quan đến công tác quản lý phạm nhân, trại viên, học sinh ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+2. Tình hình chấp hành án phạt tù, chấp hành quyết định đưa vào cơ sở giáo dục bắt buộc, trường giáo dưỡng, tình hình học tập, lao động, sức khỏe của phạm nhân, trại viên, học sinh theo quy định của pháp luật.
+
+3. Điều kiện, tiêu chuẩn và kết quả xét đại xá, đặc xá, giảm thời hạn chấp hành án phạt tù, tha tù trước thời hạn có điều kiện, tạm đình chỉ chấp hành án phạt tù cho phạm nhân; giảm thời hạn, tạm đình chỉ, miễn chấp hành phần thời gian còn lại của quyết định đưa vào cơ sở giáo dục bắt buộc, trường giáo dưỡng cho trại viên, học sinh.
+
+4. Chế độ, tiêu chuẩn ăn, ở, mặc, đồ dùng sinh hoạt, học tập, chăm sóc y tế; điều kiện, thủ tục, thời gian thăm, gặp thân nhân, đại diện cơ quan, tổ chức, cá nhân, đối với phạm nhân là người nước ngoài được thăm gặp, tiếp xúc lãnh sự; gửi, nhận thư, nhận tiền, quà và liên lạc điện thoại với thân nhân theo quy định của pháp luật.
+
+5. Việc xử lý kỷ luật những phạm nhân, trại viên, học sinh có hành vi vi phạm pháp luật, vi phạm nội quy cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng; khen thưởng những phạm nhân, trại viên, học sinh có thành tích theo định kì hoặc đột xuất.
+
+6. Cấp có thẩm quyền và nơi giải quyết khiếu nại, tố cáo, đề nghị hợp pháp về quyền lợi của cơ quan, tổ chức, cá nhân và phạm nhân, trại viên, học sinh. Kết quả thanh tra, kiểm tra, giải quyết các khiếu nại, tố cáo và đề nghị của phạm nhân, trại viên, học sinh theo quy định của pháp luật và Thông tư này.
+
+7. Địa điểm và lịch tiếp cơ quan, tổ chức, cá nhân, phạm nhân, trại viên, học sinh; nội quy nơi tiếp cơ quan, tổ chức, cá nhân, phạm nhân, trại viên, học sinh; hòm thư góp ý.
+
+Điều 44.13.TT.3.5. Hình thức công khai
+
+(Điều 5 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
+
+1. Bằng văn bản niêm yết tại địa điểm tiếp công dân, nhà thăm gặp, nơi sinh hoạt chung trong phạm vi cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng.
+
+2. Thông qua hệ thống truyền thanh của cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng.
+
+3. Thông báo trong hội nghị gia đình phạm nhân, trại viên, học sinh.
+
+4. Thông báo trực tiếp cho từng cá nhân hoặc trước tập thể phạm nhân, trại viên, học sinh hoặc thông qua Ban Tự quản, đội, tổ phạm nhân, trại viên, học sinh.
+
+5. Các hình thức phù hợp khác.
 
 Điều 44.13.TT.3.6. Địa điểm tiếp công dân, giải quyết công việc liên quan đến công tác quản lý phạm nhân, trại viên, học sinh ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730000600
-
-**ID:** dk_00072246
-
----
-
-
-### Điều 44.13.TT.3.7. Những việc cơ quan, tổ chức, cá nhân tham gia, thực hiện trong công tác quản lý phạm nhân, trại viên, học sinh ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+Địa điểm tiếp công dân, nhà thăm gặp được bố trí nơi thuận tiện, dễ biết, có trang thiết bị cần thiết để cơ quan, tổ chức, cá nhân liên hệ, giải quyết công việc hoặc thăm gặp phạm nhân, trại viên, học sinh. Tại địa điểm tiếp công dân phải có biển ghi tên cơ quan, đơn vị, cán bộ tiếp công dân, nội quy nơi tiếp công dân.
 
 Điều 44.13.TT.3.7. Những việc cơ quan, tổ chức, cá nhân tham gia, thực hiện trong công tác quản lý phạm nhân, trại viên, học sinh ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730000700
+1. Chấp hành nghiêm chỉnh các quy định của pháp luật trong công tác quản lý cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng.
 
-**ID:** dk_00072247
+2. Xuất trình giấy tờ có liên quan theo quy định khi đến thăm gặp, tiếp xúc với phạm nhân, trại viên, học sinh và đề nghị giải quyết các công việc liên quan; nghiêm chỉnh thực hiện nội quy và chỉ dẫn của cán bộ, chiến sĩ thi hành nhiệm vụ tại cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng.
 
----
-
-
-### Điều 44.13.TT.3.8. Những việc phạm nhân, trại viên, học sinh tham gia ý kiến để Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng quyết định
+3. Phát hiện, tố cáo hành vi vi phạm pháp luật trong quản lý, giáo dục, cải tạo phạm nhân, trại viên, học sinh; tham gia đấu tranh, ngăn chặn hành vi vi phạm nội quy cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng, cản trở hoạt động của cán bộ, chiến sĩ cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng theo quy định của pháp luật.
 
 Điều 44.13.TT.3.8. Những việc phạm nhân, trại viên, học sinh tham gia ý kiến để Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng quyết định
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730000800
+1. Phạm nhân, trại viên, học sinh được tham gia bình xét thi đua, xếp loại, khen thưởng, kỷ luật, được đề xuất ý kiến đề nghị giảm thời hạn, tạm đình chỉ chấp hành án phạt tù, đặc xá, tha tù trước thời hạn có điều kiện, giảm thời hạn hoặc miễn chấp hành phần thời gian còn lại của quyết định đưa vào cơ sở giáo dục bắt buộc, trường giáo dưỡng đối với bản thân cũng như đối với phạm nhân, trại viên, học sinh khác trong tổ, đội.
 
-**ID:** dk_00072248
+2. Phạm nhân, trại viên, học sinh được quyền khiếu nại, tố cáo theo quy định của pháp luật và phải chịu trách nhiệm trước pháp luật về nội dung khiếu nại, tố cáo; được kiến nghị với Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng đối với những biểu hiện tiêu cực, thiếu sót trong quản lý, giam giữ, giáo dục, cải tạo phạm nhân, trại viên, học sinh của cán bộ, chiến sĩ khi thi hành công vụ tại cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng; những lời nói, cử chỉ, hành động sai trái, lệch lạc, vi phạm pháp luật của phạm nhân, trại viên, học sinh khác.
 
----
+3. Phạm nhân, trại viên, học sinh được tham gia các cuộc họp tập thể phạm nhân, trại viên, học sinh và được quyền lựa chọn, bình bầu người có đủ điều kiện, tiêu chuẩn đề nghị vào Ban Tự quản phạm nhân, trại viên, học sinh (sau đây gọi chung là Ban Tự quản) hoặc đề nghị bãi miễn người không đủ điều kiện, tiêu chuẩn tham gia Ban Tự quản. Ban Tự quản có trách nhiệm giúp Thủ trưởng cơ sở giam giữ phạm nhân, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng giữ gìn trật tự, vệ sinh môi trường, nội quy, nếp sống văn hóa trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng; đề đạt kiến nghị, nguyện vọng chính đáng của phạm nhân, trại viên, học sinh với Thủ trưởng cơ sở giam giữ phạm nhân, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng.
 
-
-### Điều 44.13.TT.3.9. Trách nhiệm của Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng
+4. Phạm nhân, trại viên, học sinh thực hiện việc tham gia ý kiến, kiến nghị, đề xuất thông qua hoạt động của Ban Tự quản, gửi qua hòm thư góp ý, đối thoại trực tiếp hoặc các hình thức khác theo quy định của pháp luật và của Thông tư này.
 
 Điều 44.13.TT.3.9. Trách nhiệm của Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730000900
+1. Tổ chức hướng dẫn, đôn đốc, kiểm tra cán bộ, chiến sĩ trong đơn vị thực hiện và chịu trách nhiệm về kết quả thực hiện các nội dung quy định tại Mục 1, Chương II Thông tư này. Phát hiện, xem xét, xử lý cán bộ, chiến sĩ vi phạm quy định về thực hiện dân chủ trong công tác quản lý, giáo dục, cải tạo phạm nhân, trại viên, học sinh.
 
-**ID:** dk_00072249
+2. Tạo điều kiện thuận lợi cho phạm nhân, trại viên, học sinh và các cơ quan, tổ chức, cá nhân có liên quan thực hiện các nội dung quy định tại Mục 2, Chương II Thông tư này.
 
----
+3. Bố trí các hòm thư góp ý, khiếu nại, tố cáo đặt tại buồng giam phạm nhân, buồng ở trại viên, học sinh hoặc nơi sinh hoạt chung trong phạm vi cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng. Định kỳ 06 tháng tổ chức đối thoại trực tiếp với phạm nhân, trại viên, học sinh.
 
+4. Định kỳ tiếp công dân, ghi nhận ý kiến phản ánh và giải quyết kịp thời các khiếu nại, tố cáo của cơ quan, tổ chức, cá nhân và phạm nhân, trại viên, học sinh. Thông báo kết luận nội dung khiếu nại, tố cáo theo quy định của pháp luật.
 
-### Điều 44.13.TT.3.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+5. Thực hiện các biện pháp bảo đảm quyền lợi, trách nhiệm của người góp ý, khiếu nại, tố cáo theo quy định của pháp luật.
+
+6. Kịp thời xử lý các hành vi lợi dụng thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng thuộc Bộ Công an xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân theo quy định của pháp luật.
 
 Điều 44.13.TT.3.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 73/2019/TT-BCA Quy định về thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng thuộc Bộ Công an ngày 12/12/2019 của Bộ Công an, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802712900730001000
+1. Thực hiện nghiêm túc quy định tại Điều 3, Chương I của Thông tư này.
 
-**ID:** dk_00072250
+2. Chấp hành nghiêm chỉnh Điều lệnh Công an nhân dân khi tiếp xúc, làm việc với cơ quan, tổ chức, cá nhân.
 
----
+3. Phát hiện, báo cáo kịp thời lãnh đạo đơn vị các hành vi vi phạm quy định về thực hiện dân chủ trong công tác quản lý, giáo dục, cải tạo phạm nhân, trại viên, học sinh.
 
+Điều 44.13.TT.4.4. Những nội dung phải công khai
 
-### Điều 44.13.TT.4.4. Những nội dung phải công khai
+(Điều 4 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-*Nội dung chưa có sẵn*
+ 1. Quyền, nghĩa vụ của người bị tạm giữ, người bị tạm giam; nội quy cơ sở giam giữ; danh mục đồ vật cấm đưa vào buồng tạm giữ, buồng tạm giam.
 
-**Chỉ mục:** 4
+ 2. Tình hình chấp hành nội quy cơ sở giam giữ, sức khỏe của người bị tạm giữ, người bị tạm giam theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810000400
+ 3. Chế độ, tiêu chuẩn ăn, mặc, ở, sinh hoạt, chăm sóc y tế đối với người bị tạm giữ, người bị tạm giam; chế độ sinh hoạt tinh thần đối với người bị tạm giữ, người bị tạm giam; chế độ chăm sóc, nuôi dưỡng trẻ em dưới 36 tháng tuổi ở cùng mẹ trong cơ sở giam giữ.
 
-**ID:** dk_00072251
+ 4. Quy định về việc gặp thân nhân của người bị tạm giữ, người bị tạm giam; các trường hợp người bị tạm giữ, người bị tạm giam không được gặp thân nhân, người bào chữa, tiếp xúc lãnh sự.
 
----
+ 5. Quy định về việc giải quyết cho người bị tạm giữ, người bị tạm giam nhận quà; việc hủy bỏ đồ vật thuộc danh mục cấm mang vào buồng tạm giữ, buồng tạm giam; việc gửi, nhận thư, sách, báo, tài liệu của người bị tạm giữ, người bị tạm giam theo quy định của pháp luật.
 
+ 6. Hình thức xử lý kỷ luật người bị tạm giữ, người bị tạm giam có hành vi vi phạm pháp luật, vi phạm nội quy cơ sở giam giữ; khen thưởng người bị tạm giữ, người bị tạm giam có thành tích, lập công.
 
-### Điều 44.13.TT.4.5. Hình thức công khai
+ 7. Cấp có thẩm quyền và nơi giải quyết khiếu nại, tố cáo, đề nghị hợp pháp về quyền của cơ quan, tổ chức, cá nhân và người bị tạm giữ, người bị tạm giam. Kết quả thanh tra, kiểm tra, giải quyết các khiếu nại, tố cáo và đề nghị của người bị tạm giữ, người bị tạm giam theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+ 8. Địa điểm và lịch tiếp công dân, thân nhân người bị tạm giữ, người bị tạm giam; nội quy nơi tiếp công dân, thân nhân người bị tạm giữ, người bị tạm giam; hòm thư góp ý; số điện thoại đường dây nóng.Điều 44.13.TT.4.5. Hình thức công khai
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810000500
+ Căn cứ đặc điểm, tính chất và nội dung phải công khai, các cơ sở giam giữ áp dụng một, một số hoặc tất cả các hình thức sau đây:
 
-**ID:** dk_00072252
+ 1. Bằng văn bản niêm yết tại địa điểm tiếp công dân, nhà thăm gặp, phòng hỏi cung, nơi sinh hoạt chung trong phạm vi cơ sở giam giữ.
 
----
+ 2. Thông qua hệ thống truyền thanh của cơ sở giam giữ.
 
+ 3. Thông báo trực tiếp cho người bị tạm giữ, người bị tạm giam.
 
-### Điều 44.13.TT.4.6. Quy định về địa điểm tiếp công dân ở cơ sở giam giữ
+ 4. Các hình thức phù hợp khác.Điều 44.13.TT.4.6. Quy định về địa điểm tiếp công dân ở cơ sở giam giữ
 
-Điều 44.13.TT.4.6. Quy định về địa điểm tiếp công dân ở cơ sở giam giữ
+(Điều 6 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-**Chỉ mục:** 6
+ Địa điểm tiếp công dân, thăm gặp được bố trí ở nơi thuận tiện, dễ biết, có trang thiết bị cần thiết để cơ quan, tổ chức, cá nhân liên hệ, giải quyết công việc hoặc thăm gặp người bị tạm giữ, người bị tạm giam.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810000600
+ Tại địa điểm tiếp công dân phải có biển ghi tên cơ quan, đơn vị, cán bộ tiếp công dân, nội quy nơi tiếp công dân, số điện thoại đường dây nóng.
 
-**ID:** dk_00072253
+ Địa điểm thăm gặp phải treo biển “Phòng thăm gặp”, có vách ngăn, bảng niêm yết Nội quy cơ sở giam giữ, quy định về thăm gặp, hòm thư góp ý, bảng thông tin trợ giúp pháp lý.
 
----
+ Việc niêm yết các thông tin tại nơi dễ quan sát để cơ quan, tổ chức, cá nhân và người bị tạm giữ, người bị tạm giam biết, thực hiện.Điều 44.13.TT.4.7. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
 
+(Điều 7 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-### Điều 44.13.TT.4.7. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+ 1. Chấp hành nghiêm chỉnh các quy định của pháp luật trong công tác quản lý người bị tạm giữ, người bị tạm giam ở cơ sở giam giữ.
 
-Điều 44.13.TT.4.7. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+ 2. Xuất trình giấy tờ theo quy định của pháp luật khi đến thăm gặp, tiếp xúc với người bị tạm giữ, người bị tạm giam và đề nghị giải quyết các công việc liên quan; nghiêm chỉnh thực hiện nội quy và chỉ dẫn của cán bộ, chiến sĩ thi hành nhiệm vụ tại cơ sở giam giữ.
 
-**Chỉ mục:** 7
+ 3. Phát hiện, tố cáo hành vi vi phạm pháp luật trong quản lý, giáo dục người bị tạm giữ, người bị tạm giam; tham gia đấu tranh, ngăn chặn hành vi vi phạm nội quy cơ sở giam giữ.Điều 44.13.TT.4.8. Quyền đề xuất ý kiến của người bị tạm giữ, người bị tạm giam
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810000700
+(Điều 8 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-**ID:** dk_00072254
+ 1. Người bị tạm giữ, người bị tạm giam được quyền đề xuất ý kiến với cán bộ cơ sở giam giữ về những vấn đề liên quan đến bản thân cũng như đối với người bị tạm giữ, người bị tạm giam khác.
 
----
+ 2. Người bị tạm giữ, người bị tạm giam được quyền kiến nghị về các quyết định trong thời gian bị tạm giữ, tạm giam, khiếu nại, tố cáo theo quy định của pháp luật; được kiến nghị với Thủ trưởng cơ sở giam giữ những biểu hiện tiêu cực, thiếu sót trong quản lý, giáo dục người bị tạm giữ, người bị tạm giam của cán bộ, chiến sĩ công tác tại cơ sở giam giữ; những lời nói, cử chỉ, hành động sai trái, vi phạm pháp luật của người bị tạm giữ, người bị tạm giam khác.
 
+ 3. Người bị tạm giữ, người bị tạm giam thực hiện việc tham gia ý kiến, kiến nghị, đề xuất thông qua hòm thư góp ý, đối thoại trực tiếp hoặc các hình thức khác theo quy định của pháp luật và của Thông tư này.Điều 44.13.TT.4.9. Trách nhiệm của thủ trưởng cơ sở giam giữ
 
-### Điều 44.13.TT.4.8. Quyền đề xuất ý kiến của người bị tạm giữ, người bị tạm giam
+(Điều 9 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-Điều 44.13.TT.4.8. Quyền đề xuất ý kiến của người bị tạm giữ, người bị tạm giam
+ 1. Tổ chức hướng dẫn, đôn đốc, kiểm tra cán bộ, chiến sĩ trong đơn vị thực hiện và chịu trách nhiệm về kết quả thực hiện các nội dung quy định tại Điều 4, 5, 6 Chương II Thông tư này. Phát hiện, xem xét, xử lý cán bộ, chiến sĩ vi phạm quy định về thực hiện dân chủ trong công tác quản lý, giáo dục người bị tạm giữ, người bị tạm giam.
 
-**Chỉ mục:** 8
+ 2. Tạo điều kiện thuận lợi cho người bị tạm giữ, người bị tạm giam và các cơ quan, tổ chức, cá nhân có liên quan thực hiện các nội dung quy định tại Điều 7, 8 Chương II Thông tư này.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810000800
+ 3. Bố trí các hòm thư góp ý đặt trong khu vực giam giữ hoặc nơi sinh hoạt chung trong phạm vi cơ sở giam giữ.
 
-**ID:** dk_00072255
+ 4. Định kỳ tiếp công dân mỗi tháng 01 lần, nghe ý kiến phản ánh của công dân; giải quyết kịp thời các khiếu nại, tố cáo của công dân. Thông báo đúng thời hạn, bằng văn bản, niêm yết công khai trả lời việc giải quyết các khiếu nại, tố cáo, đơn thư góp ý của công dân.
 
----
+ 5. Giải quyết khiếu nại, tố cáo của các cơ quan, tổ chức, cá nhân và người bị tạm giữ, người bị tạm giam theo quy định của pháp luật.Điều 44.13.TT.4.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ
 
+(Điều 10 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-### Điều 44.13.TT.4.9. Trách nhiệm của thủ trưởng cơ sở giam giữ
+ 1. Thực hiện nghiêm túc quy định của Thông tư này.
 
-Điều 44.13.TT.4.9. Trách nhiệm của thủ trưởng cơ sở giam giữ
+ 2. Chấp hành nghiêm chỉnh Điều lệnh Công an nhân dân khi tiếp xúc, làm việc với cơ quan, tổ chức, cá nhân.
 
-**Chỉ mục:** 9
+ 3. Phát hiện, kịp thời báo cáo lãnh đạo đơn vị các hành vi vi phạm quy định về thực hiện dân chủ trong công tác quản lý, giáo dục người bị tạm giữ, người bị tạm giam.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810000900
+ 4. Sử dụng trang thiết bị, phương tiện cần thiết để phục vụ công tác theo quy định.
 
-**ID:** dk_00072256
+ 5. Tham mưu Thủ trưởng cơ sở giam giữ những nội dung bảo đảm thực hiện dân chủ trong công tác tạm giữ, tạm giam.
 
----
+ 6. Không tự ý tiếp xúc để lợi dụng vay, mượn, xin, mua, bán hoặc nhận tiền, quà biếu hoặc bớt xén quà của người bị tạm giữ, người bị tạm giam và thân nhân của họ dưới bất kỳ hình thức nào hoặc đưa các đồ vật thuộc danh mục cấm vào cơ sở giam giữ; giúp sức, che giấu cho người bị tạm giữ, người bị tạm giam và người khác vi phạm nội quy cơ sở giam giữ, làm ảnh hưởng đến công tác điều tra, truy tố, xét xử và thi hành án. Thực hiện nghiêm túc quy định về chống tra tấn, truy bức, dùng nhục hình, các hình thức đối xử, trừng phạt tàn bạo, vô nhân đạo, hạ nhục con người hoặc bất kỳ hình thức nào khác xâm phạm quyền và lợi ích hợp pháp của người bị tạm giữ, người bị tạm giam.Điều 44.13.TT.5.5. Những nội dung Cảnh sát môi trường phải công khai
 
+(Điều 5 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-### Điều 44.13.TT.4.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ
+1. Trụ sở, nơi làm việc của Cảnh sát môi trường; số điện thoại trực ban đơn vị; người có thẩm quyền giải quyết các đơn, thư, tin báo của các cơ quan, tổ chức, cá nhân về các hành vi vi phạm pháp luật trong lĩnh vực bảo vệ môi trường, tài nguyên, an toàn thực phẩm.
 
-Điều 44.13.TT.4.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ
+2. Chủ trương, chính sách, pháp luật về bảo vệ môi trường, tài nguyên, an toàn thực phẩm thuộc nhiệm vụ của Cảnh sát môi trường có liên quan đến cơ quan, tổ chức, cá nhân.
 
-**Chỉ mục:** 10
+3. Nhiệm vụ, quyền hạn của cán bộ, chiến sỹ Cảnh sát môi trường khi làm việc với cơ quan, tổ chức, cá nhân (trừ những nội dung thuộc phạm vi bí mật nhà nước hoặc bí mật công tác).
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714400810001000
+4. Các hành vi vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm và hậu quả (nếu có) mà Cảnh sát môi trường đã xử lý trong quá trình thực hiện chức năng, nhiệm vụ của mình đối với cơ quan, tổ chức, cá nhân có liên quan (trừ những nội dung thuộc phạm vi bí mật nhà nước hoặc bí mật công tác).
 
-**ID:** dk_00072257
+Điều 44.13.TT.5.6. Các hình thức công khai
 
----
+(Điều 6 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
+Căn cứ vào đặc điểm, tính chất và nội dung phải công khai, cơ quan Công an áp dụng một, một số hoặc tất cả các hình thức công khai sau đây:
 
-### Điều 44.13.TT.5.5. Những nội dung Cảnh sát môi trường phải công khai
+1. Niêm yết tại nơi tiếp công dân của cơ quan Công an.
 
-Điều 44.13.TT.5.5. Những nội dung Cảnh sát môi trường phải công khai
+2. Thông báo trên trang thông tin điện tử của cơ quan Công an (nếu có).
 
-**Chỉ mục:** 5
+3. Thông báo trên các phương tiện thông tin đại chúng.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714800830000500
+4. Thông báo khi làm việc với cơ quan, tổ chức, cá nhân.
 
-**ID:** dk_00072258
-
----
-
-
-### Điều 44.13.TT.5.6. Các hình thức công khai
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714800830000600
-
-**ID:** dk_00072259
-
----
-
-
-### Điều 44.13.TT.5.7. Quyền, trách nhiệm của cơ quan, tổ chức, cá nhân
+5. Các hình thức phù hợp khác.
 
 Điều 44.13.TT.5.7. Quyền, trách nhiệm của cơ quan, tổ chức, cá nhân
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714800830000700
+1. Chủ động tìm hiểu những chủ trương, chính sách, pháp luật của Nhà nước về bảo vệ môi trường, tài nguyên, an toàn thực phẩm; những vụ, việc vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm xảy ra trong cơ quan, tổ chức của mình đã được cơ quan có thẩm quyền kết luận.
 
-**ID:** dk_00072260
+2. Tham gia ý kiến với lãnh đạo cơ quan Công an nói chung và Thủ trưởng đơn vị Cảnh sát môi trường về hoạt động của cán bộ, chiến sĩ Cảnh sát môi trường, kịp thời phản ánh những hành vi tiêu cực, gây phiền hà của cán bộ, chiến sĩ Cảnh sát môi trường đối với hoạt động sản xuất, kinh doanh.
 
----
+3. Phát hiện, cung cấp thông tin, tài liệu về tội phạm và vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm cho Cảnh sát môi trường hoặc cơ quan Công an nơi gần nhất. Nguồn tin và người phát hiện, cung cấp thông tin được đảm bảo giữ bí mật theo quy định của pháp luật.
 
+4. Báo cáo, giải trình đủ, chính xác thông tin, tài liệu có liên quan đến các hành vi vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm theo yêu cầu của Cảnh sát môi trường và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của nội dung đã báo cáo, giải trình.
 
-### Điều 44.13.TT.5.8. Trách nhiệm của Cảnh sát môi trường
+5. Chấp hành nghiêm các quy định của pháp luật về môi trường, tài nguyên, an toàn thực phẩm, hợp tác và giúp đỡ cán bộ, chiến sỹ Cảnh sát môi trường trong khi thi hành nhiệm vụ.
 
 Điều 44.13.TT.5.8. Trách nhiệm của Cảnh sát môi trường
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714800830000800
+1. Cảnh sát môi trường có trách nhiệm phối hợp với cơ quan có thẩm quyền kiểm tra việc chấp hành pháp luật về môi trường, tài nguyên, an toàn thực phẩm đối với cơ quan, tổ chức, cá nhân; yêu cầu cơ quan, tổ chức, cá nhân giải trình về những hành vi có dấu hiệu tội phạm, vi phạm hành chính về môi trường, tài nguyên, an toàn thực phẩm, cung cấp thông tin, tài liệu, đồ vật làm rõ các hành vi vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm.
 
-**ID:** dk_00072261
+2. Cảnh sát môi trường có trách nhiệm phối hợp với các lực lượng, sử dụng phương tiện, áp dụng các biện pháp công tác Công an theo quy định của pháp luật và của Bộ Công an để phòng ngừa, đấu tranh chống tội phạm và các vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm; phát hiện nguyên nhân, điều kiện phát sinh tội phạm và vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm để kiến nghị với cơ quan Nhà nước có thẩm quyền có biện pháp phòng ngừa, khắc phục.
 
----
+3. Cán bộ, chiến sĩ Cảnh sát môi trường khi thực hiện nhiệm vụ tại các cơ quan, tổ chức phải thực hiện đúng quy định của pháp luật, của Bộ Công an và chịu trách nhiệm trước Thủ trưởng đơn vị về công việc mình đã tiến hành.
 
-
-### Điều 44.13.TT.5.9. Những việc cán bộ, chiến sĩ Cảnh sát môi trường không được làm
+4. Cán bộ, chiến sĩ Cảnh sát môi trường khi làm việc với cơ quan, tổ chức, cá nhân phải có kế hoạch công tác, chuẩn bị kỹ nội dung làm việc; dự kiến các tình huống đột xuất và phương án giải quyết các tình huống đó. Nội dung kế hoạch công tác phải được sự phê duyệt của lãnh đạo đơn vị.
 
 Điều 44.13.TT.5.9. Những việc cán bộ, chiến sĩ Cảnh sát môi trường không được làm
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714800830000900
+1. Tiết lộ bí mật, tin tức, tài liệu vụ việc đang điều tra, xác minh khi chưa được phép công khai đối với những người không có trách nhiệm dưới bất kỳ hình thức nào. Trường hợp nhận được yêu cầu cung cấp tin tức, tài liệu của các cơ quan thông tin đại chúng và các cơ quan khác có liên quan về nội dung vụ việc do mình được giao nhiệm vụ tiến hành điều tra, xác minh thì phải báo cáo và được sự đồng ý của cấp có thẩm quyền.
 
-**ID:** dk_00072262
+2. Lợi dụng danh nghĩa công tác đến các cơ quan, tổ chức hoặc gặp riêng cá nhân để gây khó khăn, phiền hà, nhận quà biếu dưới mọi hình thức.
 
----
+3. Tùy tiện tiếp xúc với đối tượng đang bị điều tra và những người có liên quan đến các vụ việc đang điều tra. Trường hợp đối tượng tự ý tìm gặp thì phải báo ngay cho lãnh đạo đơn vị biết để có hướng xử lý. Chỉ được tìm hiểu, xác minh những nguồn tin, đơn, thư tố giác tội phạm và vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm của cơ quan, tổ chức, cá nhân khi được lãnh đạo phân công.
 
-
-### Điều 44.13.TT.5.10. Công tác tiếp nhận, xử lý và giải quyết đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh
+4. Lợi dụng nhiệm vụ, quyền hạn được giao để xâm phạm đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 Điều 44.13.TT.5.10. Công tác tiếp nhận, xử lý và giải quyết đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802714800830001000
+1. Cơ quan Cảnh sát môi trường phải bố trí địa điểm thuận lợi để tiếp cá nhân, đại diện các cơ quan, tổ chức và bố trí cán bộ trực ban 24/24 giờ trong ngày để tiếp nhận đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh; tại nơi tiếp phải có hòm thư góp ý để tiếp nhận đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh. Phải phân công cán bộ theo dõi việc giải quyết, trả lời cho người gửi đơn, thư theo quy định.
 
-**ID:** dk_00072263
+2. Mọi đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh phải được ghi vào sổ theo quy định và chuyển ngay đến lãnh đạo có thẩm quyền xử lý theo quy định của pháp luật.
 
----
+3. Đối với những đơn, thư không liên quan đến công tác của Cảnh sát môi trường hoặc không thuộc thẩm quyền giải quyết của Cơ quan Cảnh sát môi trường thì trả lại và giải thích rõ cho người gửi hoặc chuyển ngay đến cơ quan có thẩm quyền giải quyết; đồng thời thông báo bằng văn bản cho người có đơn, thư biết theo quy định của pháp luật.
 
+4. Cán bộ, chiến sĩ Cảnh sát môi trường không được nhận, giải quyết đơn, thư tại nhà riêng hoặc bất cứ nơi nào ngoài trụ sở Cơ quan, trừ trường hợp cấp bách cá nhân đến báo tin về tội phạm, tố cáo hành vi vi phạm pháp luật về môi trường, tài nguyên, an toàn thực phẩm, phải kịp thời báo cáo lãnh đạo đơn vị để chỉ đạo giải quyết theo quy định của pháp luật.
 
-### Điều 44.13.TT.6.4. Địa điểm tiếp công dân, giải quyết công việc trong công tác quản lý hành chính về trật tự xã hội
+5. Cán bộ trực ban tại Cơ quan Cảnh sát môi trường phải mặc trang phục theo đúng điều lệnh Công an nhân dân; có thái độ tôn trọng, lịch sự, đúng mực, tận tâm giải quyết những yêu cầu chính đáng của cá nhân; không né tránh, đùn đẩy trách nhiệm; không được gây khó khăn đối với người của cơ quan, tổ chức hoặc cá nhân đến liên hệ công tác.
 
 Điều 44.13.TT.6.4. Địa điểm tiếp công dân, giải quyết công việc trong công tác quản lý hành chính về trật tự xã hội
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150000400
+ Địa điểm tiếp công dân, giải quyết công việc trong công tác quản lý hành chính về trật tự xã hội được bố trí tại nơi thuận tiện, dễ nhận biết để cơ quan, tổ chức, cá nhân đến liên hệ, giải quyết công việc; phải có biển ghi tên cơ quan, đơn vị tiếp công dân, cấp bậc, họ tên, chức vụ của cán bộ, chiến sĩ thực hiện nhiệm vụ tiếp công dân, nội quy nơi tiếp công dân, thời gian tiếp công dân, sơ đồ hoặc biển chỉ dẫn đến nơi giải quyết từng nội dung công tác quản lý hành chính về trật tự xã hội, bảng hướng dẫn trình tự, thủ tục giải quyết công tác quản lý hành chính về trật tự xã hội, hòm thư góp ý.Điều 44.13.TT.6.5. Những nội dung công khai trong công tác quản lý hành chính về trật tự xã hội
 
-**ID:** dk_00072264
+(Điều 5 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
----
+ 1. Danh mục và nội dung cụ thể của từng thủ tục hành chính trong các lĩnh vực của công tác quản lý hành chính về trật tự xã hội theo quy định.
 
+ 2. Quy định, hướng dẫn việc gọi điện đến số điện thoại khẩn cấp 113.
 
-### Điều 44.13.TT.6.5. Những nội dung công khai trong công tác quản lý hành chính về trật tự xã hội
+ 3. Tên, số điện thoại, thời gian làm việc, trang thông tin điện tử (nếu có) của cơ quan, đơn vị tiếp nhận, giải quyết các thủ tục liên quan đến công tác quản lý hành chính về trật tự xã hội; địa chỉ thư tín, số điện thoại chuyên dùng, địa chỉ email thực hiện việc tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính; kết quả xử lý kiến nghị của cá nhân, tổ chức về quy định hành chính; danh mục thủ tục hành chính tiếp nhận, không tiếp nhận hồ sơ, trả kết quả được thực hiện qua dịch vụ bưu chính công ích, dịch vụ công trực tuyến.
 
-Điều 44.13.TT.6.5. Những nội dung công khai trong công tác quản lý hành chính về trật tự xã hội
+ 4. Hình thức, thủ tục, thẩm quyền xử lý vi phạm hành chính trong lĩnh vực quản lý hành chính về trật tự xã hội.
 
-**Chỉ mục:** 5
+ 5. Thông tin về việc khai thác, sử dụng cơ sở dữ liệu quốc gia về dân cư theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150000500
+ 6. Nơi tiếp nhận, giải quyết khiếu nại, tố cáo, đề nghị hợp pháp của cơ quan, tổ chức và cá nhân.
 
-**ID:** dk_00072265
+ 7. Nhiệm vụ, quyền hạn của cán bộ, chiến sĩ khi giải quyết công việc về công tác quản lý hành chính về trật tự xã hội liên quan đến cơ quan, tổ chức và cá nhân.
 
----
+ 8. Quyền và nghĩa vụ của các cơ quan, tổ chức, cá nhân trong công tác quản lý hành chính về trật tự xã hội.
 
+ Điều 44.13.TT.6.6. Các hình thức công khai
 
-### Điều 44.13.TT.6.6. Các hình thức công khai
+(Điều 6 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-*Nội dung chưa có sẵn*
+ Căn cứ vào đặc điểm, tính chất và nội dung phải công khai, cơ quan Công an áp dụng một, một số hoặc tất cả các hình thức công khai sau đây:
 
-**Chỉ mục:** 6
+ 1. Niêm yết tại địa điểm tiếp dân.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150000600
+ 2. Thông qua trang thông tin điện tử của cơ quan, đơn vị (nếu có).
 
-**ID:** dk_00072266
+ 3. Thông báo trên các phương tiện thông tin đại chúng.
 
----
+ 4. Thông qua việc tiếp công dân.
 
+ 5. Thông báo tại các cuộc họp của Nhân dân.
 
-### Điều 44.13.TT.6.7. Những việc cơ quan, tổ chức và cá nhân bàn, góp ý để cơ quan có thẩm quyền quyết định
+ 6. Các hình thức phù hợp khác.Điều 44.13.TT.6.7. Những việc cơ quan, tổ chức và cá nhân bàn, góp ý để cơ quan có thẩm quyền quyết định
 
-Điều 44.13.TT.6.7. Những việc cơ quan, tổ chức và cá nhân bàn, góp ý để cơ quan có thẩm quyền quyết định
+(Điều 7 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-**Chỉ mục:** 7
+ 1. Thành lập các tổ chức quần chúng thực hiện công tác bảo đảm an ninh trật tự: Ban bảo vệ dân phố, Đội dân phòng, Tổ tự quản đường phố, tự quản về trật tự công cộng, câu lạc bộ về an ninh, trật tự, liên gia tự quản về an ninh, trật tự và các tổ chức tự quản, câu lạc bộ khác bảo đảm an ninh, trật tự.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150000700
+ 2. Xây dựng điển hình tiên tiến về an ninh, trật tự, bài trừ các hủ tục, mê tín dị đoan, tệ nạn xã hội.
 
-**ID:** dk_00072267
+ 3. Lập các chốt, điểm bảo vệ an ninh, trật tự; duy trì các hoạt động tuần tra của Nhân dân phòng ngừa tội phạm.
 
----
+ 4. Quy định chế độ, chính sách cụ thể để huy động Nhân dân tham gia vào công tác bảo đảm an ninh, trật tự tại địa bàn.Điều 44.13.TT.6.8. Những việc cơ quan, tổ chức và cá nhân tham gia ý kiến để cơ quan Công an quyết định
 
+(Điều 8 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-### Điều 44.13.TT.6.8. Những việc cơ quan, tổ chức và cá nhân tham gia ý kiến để cơ quan Công an quyết định
+ 1. Quy ước của các tổ chức quần chúng tham gia công tác bảo đảm an ninh, trật tự ở địa bàn dân cư.
 
-Điều 44.13.TT.6.8. Những việc cơ quan, tổ chức và cá nhân tham gia ý kiến để cơ quan Công an quyết định
+ 2. Tác phong, thái độ phục vụ của cán bộ, chiến sĩ trong thực hiện công tác quản lý hành chính về trật tự xã hội.
 
-**Chỉ mục:** 8
+ 3. Đề nghị biểu dương, khen thưởng tập thể, cá nhân thực hiện tốt nhiệm vụ.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150000800
+ 4. Cải cách thủ tục hành chính, thời gian tiếp dân, địa điểm tiếp dân cho phù hợp.
 
-**ID:** dk_00072268
+ 5. Các biện pháp, giải pháp nâng cao hiệu quả công tác quản lý hành chính về trật tự xã hội.
 
----
+ 6. Kiến nghị xử lý các trường hợp vi phạm pháp luật về quản lý hành chính về trật tự xã hội.Điều 44.13.TT.6.9. Hình thức tham gia ý kiến của cơ quan, tổ chức và cá nhân
 
+(Điều 9 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-### Điều 44.13.TT.6.9. Hình thức tham gia ý kiến của cơ quan, tổ chức và cá nhân
+ Căn cứ đặc điểm, tính chất và nội dung tham gia ý kiến, các cơ quan, tổ chức, cá nhân áp dụng một, một số hoặc tất cả các hình thức tham gia ý kiến sau đây:
 
-Điều 44.13.TT.6.9. Hình thức tham gia ý kiến của cơ quan, tổ chức và cá nhân
+ 1. Thông qua đơn, thư gửi cơ quan Công an.
 
-**Chỉ mục:** 9
+ 2. Thông qua điện thoại, đường dây nóng, email, hòm thư góp ý.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150000900
+ 3. Thông qua các trang thông tin điện tử của cơ quan Công an.
 
-**ID:** dk_00072269
+ 4. Thông qua các cuộc họp tại địa bàn cư trú (gồm: Tổ dân phố, bản, làng, ấp, thôn, xóm, khóm,...); nơi làm việc, học tập.
 
----
+ 5. Thông qua điều tra xã hội học.
 
+ 6. Thông qua hoạt động tiếp công dân của cơ quan Công an.
 
-### Điều 44.13.TT.6.10. Quyền, trách nhiệm của cơ quan, tổ chức và cá nhân
+ 7. Các hình thức phù hợp khác.Điều 44.13.TT.6.10. Quyền, trách nhiệm của cơ quan, tổ chức và cá nhân
 
-Điều 44.13.TT.6.10. Quyền, trách nhiệm của cơ quan, tổ chức và cá nhân
+(Điều 10 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-**Chỉ mục:** 10
+ 1. Chấp hành nghiêm các quy định của pháp luật trong lĩnh vực quản lý hành chính về trật tự xã hội.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150001000
+ 2. Khi đến làm thủ tục và đề nghị giải quyết những việc liên quan đến quản lý hành chính về trật tự xã hội, phải xuất trình hoặc gửi kèm theo những giấy tờ có liên quan theo quy định; nghiêm chỉnh thực hiện nội quy công sở và chỉ dẫn của cán bộ, chiến sĩ thực hiện công tác quản lý hành chính về trật tự xã hội.
 
-**ID:** dk_00072270
+ 3. Phát hiện, tố cáo, đấu tranh, ngăn chặn những hành vi: Vi phạm các quy định quản lý hành chính về trật tự xã hội; cản trở, chống lại cán bộ, chiến sĩ thực hiện công tác quản lý hành chính về trật tự xã hội.
 
----
+ 4. Giúp đỡ, phối hợp với cán bộ, chiến sĩ thực hiện công tác quản lý hành chính về trật tự xã hội trong khi thi hành nhiệm vụ.Điều 44.13.TT.6.11. Trách nhiệm, quyền hạn của Thủ trưởng đơn vị
 
+(Điều 11 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-### Điều 44.13.TT.6.11. Trách nhiệm, quyền hạn của Thủ trưởng đơn vị
+ 1. Tổ chức, chỉ huy, hướng dẫn, đôn đốc, kiểm tra cán bộ, chiến sĩ trong đơn vị thực hiện và chịu trách nhiệm về kết quả thực hiện các nội dung quy định tại Mục 1, Chương II của Thông tư này.
 
-Điều 44.13.TT.6.11. Trách nhiệm, quyền hạn của Thủ trưởng đơn vị
+ 2. Trang bị cơ sở vật chất, trang thiết bị, phương tiện cần thiết cho cán bộ, chiến sĩ thực hiện nhiệm vụ trong công tác quản lý hành chính về trật tự xã hội. Bố trí cán bộ đủ số lượng, đảm bảo chất lượng thực hiện công tác tiếp công dân; tổ chức thực hiện việc luân chuyển cán bộ theo quy định.
 
-**Chỉ mục:** 11
+ 3. Tổ chức tiếp, giải quyết khiếu nại, tố cáo của các cơ quan, tổ chức, cá nhân theo quy định.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150001100
+ 4. Quyết định theo thẩm quyền hoặc đề xuất cấp có thẩm quyền quyết định về các nội dung quy định tại Điều 8 của Thông tư này.
 
-**ID:** dk_00072271
+ 5. Xem xét, ký duyệt hoặc đề xuất cấp có thẩm quyền giải quyết việc thực hiện các nội dung quản lý hành chính về trật tự xã hội theo đề nghị của cơ quan, tổ chức, cá nhân và theo đề xuất của cán bộ, chiến sĩ tiếp công dân.
 
----
+ 6. Kịp thời xử lý các hành vi lợi dụng thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân theo quy định của pháp luật.Điều 44.13.TT.6.12. Trách nhiệm, quyền hạn của cán bộ, chiến sĩ
 
+(Điều 12 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-### Điều 44.13.TT.6.12. Trách nhiệm, quyền hạn của cán bộ, chiến sĩ
+ 1. Thực hiện nghiêm túc các quy định tại Mục 1, Chương II của Thông tư này.
 
-Điều 44.13.TT.6.12. Trách nhiệm, quyền hạn của cán bộ, chiến sĩ
+ 2. Chấp hành nghiêm quy định về Điều lệnh nội vụ Công an nhân dân, quy tắc ứng xử của Công an nhân dân, quy chế làm việc của đơn vị.
 
-**Chỉ mục:** 12
+ 3. Tiếp nhận hồ sơ và giải quyết đúng thời hạn theo quy định các nội dung công tác quản lý hành chính về trật tự xã hội.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150001200
+ 4. Được xử lý theo quy định của pháp luật đối với cơ quan, tổ chức và công dân có hành vi vi phạm quy định của pháp luật.
 
-**ID:** dk_00072272
+ 5. Được quyền từ chối làm việc, giải quyết ngay các yêu cầu trong lĩnh vực quản lý hành chính về trật tự xã hội của những người có biểu hiện say do dùng rượu, bia, chất kích thích khác, không làm chủ được hành vi của bản thân, ăn mặc phản cảm hoặc có lời nói, hành vi vi phạm nếp sống văn minh ở nơi công cộng.
 
----
+ 6. Đề xuất cấp có thẩm quyền trong việc thực hiện các mô hình hay, sáng kiến cải cách hành chính; góp ý các vấn đề có liên quan từ thực tiễn công tác để áp dụng trong việc giải quyết các nhiệm vụ theo quy định của pháp luật.Điều 44.13.TT.6.13. Những việc cán bộ, chiến sĩ Cảnh sát quản lý hành chính về trật tự xã hội không được làm
 
+(Điều 13 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-### Điều 44.13.TT.6.13. Những việc cán bộ, chiến sĩ Cảnh sát quản lý hành chính về trật tự xã hội không được làm
+ 1. Không gây phiền hà, sách nhiễu Nhân dân; không yêu cầu các cơ quan, tổ chức, cá nhân cung cấp những giấy tờ, thủ tục ngoài quy định.
 
-Điều 44.13.TT.6.13. Những việc cán bộ, chiến sĩ Cảnh sát quản lý hành chính về trật tự xã hội không được làm
+ 2. Không lợi dụng nhiệm vụ, quyền hạn được giao để xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, doanh nghiệp và cá nhân.
 
-**Chỉ mục:** 13
+ 3. Không nhận đơn, thư và giải quyết công việc cho các cá nhân, tổ chức tại nhà riêng hoặc bất cứ nơi nào ngoài trụ sở làm việc tại cơ quan.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719100150001300
+ 4. Không hứa hẹn, thỏa thuận hoặc nhận tiền, tài sản, lợi ích vật chất khác, lợi ích phi vật chất để giải quyết thủ tục hành chính về trật tự xã hội.
 
-**ID:** dk_00072273
+ Điều 44.13.TT.7.5. Trách nhiệm của người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
----
+(Điều 5 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
+ 1. Chỉ đạo, tổ chức thực hiện công tác chuyên môn:
 
-### Điều 44.13.TT.7.5. Trách nhiệm của người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ a) Người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ có trách nhiệm bố trí cán bộ, chiến sĩ vào các vị trí công tác bảo đảm đủ số lượng cần thiết, phù hợp với năng lực, yêu cầu công việc; có trách nhiệm kiểm tra, đôn đốc việc thực hiện nhiệm vụ của cán bộ, chiến sĩ theo đúng quy định của pháp luật và của Bộ Công an;
 
-Điều 44.13.TT.7.5. Trách nhiệm của người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ b) Chỉ đạo đẩy mạnh cải cách thủ tục hành chính, kiên quyết loại bỏ những khâu trung gian, những thủ tục rườm rà, chồng chéo, những loại giấy tờ không cần thiết để phục vụ các cơ quan, tổ chức, cá nhân được thuận lợi nhất;
 
-**Chỉ mục:** 5
+ c) Người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ phải chịu trách nhiệm về sai phạm trong công tác của cán bộ, chiến sĩ do mình quản lý hoặc để đơn vị xảy ra tình trạng giải quyết các thủ tục liên quan đến lĩnh vực phòng cháy; chữa cháy và cứu nạn, cứu hộ không đúng quy định. Khi phát hiện cán bộ, chiến sĩ thiếu trách nhiệm, gây phiền hà, sách nhiễu, tiêu cực trong thực hiện nhiệm vụ, người đứng đầu đơn vị có quyền xử lý hoặc đề xuất xử lý kịp thời theo quy định của pháp luật và của Bộ Công an.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180000500
+ 2. Những nội dung người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ công khai đối với cán bộ, chiến sĩ:
 
-**ID:** dk_00072274
+ a) Chương trình, kế hoạch công tác hàng năm, 6 tháng, hàng quý, hàng tháng của đơn vị;
 
----
+ b) Nội quy, quy chế làm việc của đơn vụ chức trách, nhiệm vụ, quyền hạn của lãnh đạo đơn vị, các tổ, đội và cán bộ, chiến sĩ; quy trình công tác; quy trình giải quyết thủ tục hành chính trong lĩnh vực phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
+ c) Kết quả giải quyết đơn, thư kiến nghị, khiếu nại, tố cáo và các vụ việc tiêu cực, tham nhũng trong đơn vị;
 
-### Điều 44.13.TT.7.6. Nội dung cán bộ, chiến sĩ tham gia ý kiến, giám sát, kiểm tra
+ d) Các nguồn thu, chi tài chính của đơn vị theo quy định;
 
-Điều 44.13.TT.7.6. Nội dung cán bộ, chiến sĩ tham gia ý kiến, giám sát, kiểm tra
+ đ) Những quy định quản lý và sử dụng trang thiết bị phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
-**Chỉ mục:** 6
+ e) Kết quả tiếp thu ý kiến của cán bộ, chiến sĩ về những vấn đề thuộc thẩm quyền quyết định của người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180000600
+ g) Những nội dung khác mà người đứng đầu đơn vị thấy cần thiết, nhưng không trái với quy định của pháp luật và quy định của Bộ Công an.
 
-**ID:** dk_00072275
+ 3. Hình thức công khai đến cán bộ, chiến sĩ:
 
----
+ Căn cứ vào điều kiện thực tế của đơn vị, đặc điểm, tính chất của nội dung công khai, người đứng đầu đơn vị quyết định áp dụng một, một số, hoặc tất cả các hình thức sau:
 
+ a) Niêm yết công khai nội dung quy định tại khoản 2 Điều 5 Thông tư này tại bảng thông báo của đơn vị (trừ những nội dung thuộc phạm vi bí mật nhà nước và theo quy định của Bộ trưởng Bộ Công an);
 
-### Điều 44.13.TT.7.7. Tác phong, thái độ, lề lối làm việc của cán bộ, chiến sĩ Công an nhân dân, Cảnh sát phòng cháy và chữa cháy khi thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ b) Thông báo tại các cuộc họp của đơn vị;
 
-Điều 44.13.TT.7.7. Tác phong, thái độ, lề lối làm việc của cán bộ, chiến sĩ Công an nhân dân, Cảnh sát phòng cháy và chữa cháy khi thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ c) Gửi văn bản tới đơn vị cấp dưới đế thông báo đến cán bộ, chiến sĩ thuộc phạm vi quản lý;
 
-**Chỉ mục:** 7
+ d) Qua mạng máy tính nội bộ của đơn vị (nếu có).Điều 44.13.TT.7.6. Nội dung cán bộ, chiến sĩ tham gia ý kiến, giám sát, kiểm tra
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180000700
+(Điều 6 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**ID:** dk_00072276
+ 1. Nội dung cán bộ, chiến sĩ tham gia ý kiến, giám sát, kiểm tra:
 
----
+ a) Chương trình hành động thực hiện nghị quyết của Đảng, pháp luật của Nhà nước, quy định của Bộ Công an liên quan đến tổ chức và hoạt động của Cảnh sát phòng cháy và chữa cháy và các đơn vị Công an thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
+ b) Chủ trương, biện pháp thực hiện cải cách hành chính;
 
-### Điều 44.13.TT.7.8. Những việc cán bộ, chiến sĩ Cảnh sát phòng cháy và chữa cháy và cán bộ chiến sĩ Công an nhân dân được giao nhiệm vụ thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ không được làm
+ c) Kế hoạch công tác; kế hoạch sửa chữa, mua sắm, sử dụng phương tiện, thiết bị phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
-Điều 44.13.TT.7.8. Những việc cán bộ, chiến sĩ Cảnh sát phòng cháy và chữa cháy và cán bộ chiến sĩ Công an nhân dân được giao nhiệm vụ thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ không được làm
+ d) Các quy chế, quy định thực hiện các chế độ, chính sách liên quan đến quyền và lợi ích của cán bộ, chiến sĩ;
 
-**Chỉ mục:** 8
+ đ) Biện pháp phòng tránh tai nạn thương tích khi thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180000800
+ e) Quy trình, thủ tục hành chính, các biện pháp phòng, chống quan liêu, phiền hà, sách nhiễu và các biện pháp thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
-**ID:** dk_00072277
+ g) Chương trình hành động thực hiện các phong trào thi đua, bình xét các danh hiệu thi đua, khen thưởng, nhận xét kết quả công tác hàng tháng, quý, báo cáo sơ kết công tác 6 tháng, tổng kết công tác năm của đơn vị;
 
----
+ h) Giải quyết các khiếu nại, tố cáo của cán bộ, chiến sĩ đối với người đứng đầu đơn vị và khiếu nại, tố cáo của nhân dân đối với đơn vị và cá nhân cán bộ, chiến sĩ;
 
+ i) Những nội dung khác mà người đứng đầu đơn vị thấy cần thiết lấy ý kiến của cán bộ, chiến sĩ.
 
-### Điều 44.13.TT.7.9. Những nội dung công khai trong công tác của Cảnh sát phòng cháy và chữa cháy và các đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ 2. Hình thức để cán bộ, chiến sĩ tham gia ý kiến, giám sát, kiểm tra:
 
-Điều 44.13.TT.7.9. Những nội dung công khai trong công tác của Cảnh sát phòng cháy và chữa cháy và các đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ Cán bộ, chiến sĩ lựa chọn một hoặc các hình thức sau:
 
-**Chỉ mục:** 9
+ a) Tham gia ý kiến trực tiếp với lãnh đạo đơn vị;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180000900
+ b) Qua các cuộc họp của đơn vị;
 
-**ID:** dk_00072278
+ c) Qua hòm thư góp ý của đơn vị;
 
----
+ d) Qua mạng máy tính nội bộ (nếu có);
 
+ đ) Cấp ủy đảng, các đoàn thể lấy ý kiến của đảng viên, đoàn viên, hội viên;
 
-### Điều 44.13.TT.7.10. Hình thức công khai
+ e) Gửi dự thảo văn bản để cán bộ, chiến sĩ tham gia ý kiến.Điều 44.13.TT.7.7. Tác phong, thái độ, lề lối làm việc của cán bộ, chiến sĩ Công an nhân dân, Cảnh sát phòng cháy và chữa cháy khi thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
-*Nội dung chưa có sẵn*
+(Điều 7 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Chỉ mục:** 10
+ 1. Cán bộ, chiến sĩ Công an nhân dân, Cảnh sát phòng cháy và chữa cháy khi làm việc tại cơ quan hoặc đến làm nhiệm vụ, tiếp xúc với các cơ quan, tổ chức, cá nhân phải chấp hành nghiêm Điều lệnh và quy tắc ứng xử của cán bộ, chiến sĩ Công an nhân dân; khi đến làm việc, tiếp xúc với cơ quan, tổ chức, cá nhân phải có công văn hoặc giấy giới thiệu công tác của đơn vị.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180001000
+ 2. Khi tiếp xúc, làm việc với cơ quan, tổ chức, cá nhân, cán bộ, chiến sĩ Công an, Cảnh sát phòng cháy và chữa cháy phải thực hiện đúng kế hoạch, nội dung đã được lãnh đạo đơn vị phê duyệt và phải thực hiện đúng quy trình công tác; có ý thức trách nhiệm, liêm khiết, trung thực, khách quan, khiêm tốn, lắng nghe ý kiến, kiến nghị của cơ quan, tổ chức, cá nhân. Khi công việc kết thúc phải báo cáo kết quả bằng văn bản lên lãnh đạo có thẩm quyền.Điều 44.13.TT.7.8. Những việc cán bộ, chiến sĩ Cảnh sát phòng cháy và chữa cháy và cán bộ chiến sĩ Công an nhân dân được giao nhiệm vụ thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ không được làm
 
-**ID:** dk_00072279
+(Điều 8 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
----
+ 1. Lợi dụng danh nghĩa công tác, việc thực hiện chức trách, nhiệm vụ để sách nhiễu, gây phiền hà, xâm phạm quyền, lợi ích hợp pháp của cơ quan, tổ chức và cá nhân.
 
+ 2. Nhận tiền, quà biếu hoặc các lợi ích khác để giải quyết thủ tục về phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-### Điều 44.13.TT.7.11. Trách nhiệm của đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ 3. Tự ý đặt ra các thủ tục, giấy tờ hoặc thu thêm các khoản phí, lệ phí ngoài quy định.
 
-Điều 44.13.TT.7.11. Trách nhiệm của đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+ 4. Có thái độ hách dịch, sách nhiễu, gây khó khăn, phiền hà cho cơ quan, tổ chức, cá nhân khi thực hiện nhiệm vụ.
 
-**Chỉ mục:** 11
+ 5. Tiếp công dân làm thủ tục về phòng cháy, chữa cháy và cứu nạn, cứu hộ tại nhà riêng hoặc tại địa điểm khác ngoài địa điểm quy định.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180001100
+ 6. Những hành vi trái với quy định của pháp luật và quy định của Bộ Công an.Điều 44.13.TT.7.9. Những nội dung công khai trong công tác của Cảnh sát phòng cháy và chữa cháy và các đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
-**ID:** dk_00072280
+(Điều 9 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
----
+ 1. Nội quy tiếp công dân; lịch tiếp công dân đến làm thủ tục; sơ đồ hoặc biến chỉ dẫn nơi làm thủ tục.
 
+ 2. Tên và số điện thoại (nếu có) của từng bộ phận, họ tên, cấp bậc, chức vụ và nhiệm vụ, quyền hạn của cán bộ được phân công tiếp công dân đến làm thủ tục liên quan đến phòng cháy, chữa cháy và cứu nạn, cứu hộ; số điện thoại “đường dây nóng”.
 
-### Điều 44.13.TT.7.12. Tiếp nhận và giải quyết đơn, thư góp ý, khiếu nại, tố cáo
+ 3. Trách nhiệm và nghĩa vụ của công dân đến làm thủ tục liên quan đến phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-Điều 44.13.TT.7.12. Tiếp nhận và giải quyết đơn, thư góp ý, khiếu nại, tố cáo
+ 4. Các loại phí, lệ phí theo quy định.
 
-**Chỉ mục:** 12
+ 5. Quy định, hướng dẫn việc gọi điện đến số điện thoại khẩn cấp 114.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180001200
+ 6. Danh mục các thủ tục hành chính, quy định, biểu mẫu, thời hạn giải quyết đối với từng loại thủ tục về phòng cháy, chữa cháy và cứu nạn, cứu hộ:
 
-**ID:** dk_00072281
+ a) Thủ tục kiểm tra an toàn về phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
----
+ b) Thủ tục, thời hạn thẩm duyệt thiết kế và nghiệm thu về phòng cháy, chữa cháy đối với dự án, công trình xây dựng và phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy, chữa cháy;
 
+ c) Thủ tục và thời hạn cấp Giấy phép vận chuyển chất, hàng nguy hiểm về cháy, nổ;
 
-### Điều 44.13.TT.7.13. Những việc cơ quan, tổ chức, cá nhân tham gia ý kiến
+ d) Thủ tục và thời hạn cấp, cấp đổi, cấp lại Chứng nhận huấn luyện nghiệp vụ về phòng cháy, chữa cháy và cứu nạn, cứu hộ;
 
-Điều 44.13.TT.7.13. Những việc cơ quan, tổ chức, cá nhân tham gia ý kiến
+ đ) Trách nhiệm xây dựng và quyền hạn phê duyệt phương án chữa cháy, phương án cứu nạn, cứu hộ;
 
-**Chỉ mục:** 13
+ e) Thủ tục, lệ phí và thời hạn kiểm định phương tiện phòng cháy và chữa cháy;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180001300
+ g) Thủ tục và thời hạn cấp, cấp đổi, cấp lại Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy;
 
-**ID:** dk_00072282
+ h) Thủ tục và thời hạn cấp, cấp đổi, cấp lại Chứng chỉ hành nghề tư vấn về phòng cháy và chữa cháy;
 
----
+ i) Thủ tục và thời hạn cấp Giấy chứng nhận tập huấn nghiệp vụ kiểm tra an toàn về phòng cháy và chữa cháy và cứu nạn, cứu hộ.
 
+ 7. Kết quả xử lý kiến nghị, phản ánh của các cơ quan, tổ chức, cá nhân.
 
-### Điều 44.13.TT.7.14. Trách nhiệm của cơ quan, tổ chức và cá nhân
+ 8. Danh sách công trình đưa vào sử dụng nhưng chưa nghiệm thu về phòng cháy và chữa cháy.Điều 44.13.TT.7.10. Hình thức công khai
 
-Điều 44.13.TT.7.14. Trách nhiệm của cơ quan, tổ chức và cá nhân
+(Điều 10 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Chỉ mục:** 14
+ 1. Niêm yết tại nơi tiếp công dân của đơn vị.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180001400
+ 2. Thông tin trực tiếp thông qua tiếp dân.
 
-**ID:** dk_00072283
+ 3. Thông báo tại các cuộc họp của nhân dân, cơ quan, tổ chức, cơ sở.
 
----
+ 4. Thông báo trên các phương tiện thông tin đại chúng.
 
+ 5. Thông báo trên trang thông tin điện tử của Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và trang thông tin điện tử của Công an tỉnh, thành phố trực thuộc Trung ương (nếu có).
 
-### Điều 44.13.TT.7.15. Hình thức giám sát và những việc cơ quan, tổ chức, cá nhân giám sát
+ 6. Các hình thức phù hợp khác.Điều 44.13.TT.7.11. Trách nhiệm của đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
-Điều 44.13.TT.7.15. Hình thức giám sát và những việc cơ quan, tổ chức, cá nhân giám sát
+(Điều 11 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Chỉ mục:** 15
+ 1. Sử dụng các lực lượng, phương tiện, biện pháp theo quy định của pháp luật và của Bộ Công an để phòng ngừa nguy cơ phát sinh cháy, nổ, sự cố tai nạn và dập các đám cháy, tổ chức cứu nạn, cứu hộ; kiểm tra về phòng cháy, chữa cháy và cứu nạn, cứu hộ; phối hợp với các cơ quan liên quan điều tra, xác minh nguyên nhân, thiệt hại, điều kiện gây cháy để xử lý các hành vi vi phạm theo quy định của pháp luật và tuyên truyền, hướng dẫn, kiến nghị với cơ quan, tổ chức, cá nhân có biện pháp phòng cháy, chữa cháy và cứu nạn, cứu hộ hiệu quả.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802719900180001500
+ 2. Tiếp nhận và giải quyết đúng thời hạn theo quy định các thủ tục hành chính trong lĩnh vực phòng cháy, chữa cháy và cứu nạn, cứu hộ. Trường hợp hồ sơ không đúng quy định thì chưa tiếp nhận và giải thích rõ lý do, đồng thời hướng dẫn bổ sung theo đúng quy định. Trường hợp đến thời hạn mà chưa giải quyết được vì nguyên nhân khách quan thì phải giải thích rõ lý do và hẹn ngày trả kết quả. Trường hợp do lỗi của đơn vị thì người đứng đầu đơn vị hoặc người được ủy quyền phải xin lỗi và hẹn giải quyết trong thời gian sớm nhất.
 
-**ID:** dk_00072284
+ 3. Định kỳ 6 tháng, một năm, người đứng đầu đơn vị có trách nhiệm thông báo cho người đứng đầu cơ quan, tổ chức, cơ sở biết về tình hình, kết quả thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ trên địa bàn được phân công phụ trách, đồng thời kiến nghị, đề xuất biện pháp phòng cháy, chữa cháy và cứu nạn, cứu hộ cần tiếp tục triển khai.Điều 44.13.TT.7.12. Tiếp nhận và giải quyết đơn, thư góp ý, khiếu nại, tố cáo
 
----
+(Điều 12 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
+ 1. Đơn vị Cảnh sát phòng cháy và chữa cháy, đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ phải phân công cán bộ theo dõi việc giải quyết, trả lời cho người gửi đơn, thư. Mọi đơn, thư kiến nghị, khiếu nại, tố cáo đều phải được thực hiện theo quy định của pháp luật và chuyển ngay tới lãnh đạo có thẩm quyền để chỉ đạo bộ phận có trách nhiệm xử lý theo quy định của pháp luật.
 
-### Điều 44.13.TT.8.5. Những nội dung đơn vị thực hiện công tác quản lý xuất nhập cảnh phải công khai
+ 2. Đối với những đơn, thư không liên quan đến công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ hoặc không thuộc thẩm quyền giải quyết của đơn vị thì trả lại và giải thích rõ cho người gửi hoặc chuyển ngay tới cơ quan có thẩm quyền giải quyết, đồng thời thông báo lại bằng văn bản cho người có đơn, thư biết.
 
-Điều 44.13.TT.8.5. Những nội dung đơn vị thực hiện công tác quản lý xuất nhập cảnh phải công khai
+ 3. Người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ có trách nhiệm tiếp công dân đến làm thủ tục về phòng cháy, chữa cháy và cứu nạn, cứu hộ hoặc đến kiến nghị, khiếu nại, tố cáo khi những người này đã được bộ phận chuyên môn tiếp nhưng họ thấy không thỏa đáng hoặc vì lý do nào đó họ đề nghị được trực tiếp gặp người đứng đầu đơn vị.
 
-**Chỉ mục:** 5
+ Trường hợp người đứng đầu đơn vị vắng mặt, thì ủy quyền cho người dưới cấp thực hiện trách nhiệm này.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802720000190000500
+ 4. Đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ có quyền từ chối tiếp những người mất kiểm soát hành vi do sử dụng rượu, bia, chất kích thích khác hoặc có lời nói, hành vi vi phạm đạo đức, lối sống xã hội; kiên quyết xử lý những người có hành vi gây rối trật tự trong đơn vị.Điều 44.13.TT.7.13. Những việc cơ quan, tổ chức, cá nhân tham gia ý kiến
 
-**ID:** dk_00072285
+(Điều 13 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
----
+ 1. Biện pháp để thực hiện các quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
+ 2. Phương án, kế hoạch, biện pháp bảo đảm an toàn về phòng cháy, chữa cháy và cứu nạn, cứu hộ tại nơi cư trú, nơi làm việc.
 
-### Điều 44.13.TT.8.6. Hình thức thông báo công khai
+ 3. Việc thành lập và phương thức hoạt động của các tổ chức quần chúng tham gia công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-*Nội dung chưa có sẵn*
+ 4. Đề nghị biểu dương khen thưởng cơ quan, tổ chức và cá nhân có thành tích trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ; kiến nghị xử lý các trường hợp vi phạm quy định về phòng cháy, chữa cháy và cứu nạn, cứu hộ.Điều 44.13.TT.7.14. Trách nhiệm của cơ quan, tổ chức và cá nhân
 
-**Chỉ mục:** 6
+(Điều 14 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802720000190000600
+ 1. Chấp hành nghiêm chỉnh những quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-**ID:** dk_00072286
+ 2. Khi đến làm thủ tục hành chính và đề nghị giải quyết những vấn đề liên quan đến lĩnh vực phòng cháy, chữa cháy và cứu nạn, cứu hộ phải có hồ sơ, giấy tờ liên quan đúng theo quy định; thực hiện nghiêm chỉnh nội quy tiếp công dân và sự chỉ dẫn của cán bộ, chiến sĩ Công an, Cảnh sát phòng cháy và chữa cháy; thực hiện đúng quy định về khiếu nại, tố cáo trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
----
+ 3. Phát hiện, tố cáo, đấu tranh, ngăn chặn những hành vi vi phạm quy định về phòng cháy, chữa cháy và cứu nạn, cứu hộ; hành vi cản trở, chống lại Công an, Cảnh sát phòng cháy và chữa cháy thi hành công vụ; xâm phạm phương tiện phòng cháy, chữa cháy và cứu nạn, cứu hộ và phương tiện phục vụ thông tin báo cháy; các panô, áp phích tuyên truyền về phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
+ 4. Giải tỏa những chướng ngại vật gây cản trở hoạt động của lực lượng, phương tiện chữa cháy và cứu nạn, cứu hộ.
 
-### Điều 44.13.TT.8.7. Trách nhiệm của đơn vị thực hiện công tác quản lý xuất nhập cảnh
+ 5. Giúp đỡ, phối hợp với lực lượng Công an, Cảnh sát phòng cháy và chữa cháy trong khi thi hành công vụ.Điều 44.13.TT.7.15. Hình thức giám sát và những việc cơ quan, tổ chức, cá nhân giám sát
 
-Điều 44.13.TT.8.7. Trách nhiệm của đơn vị thực hiện công tác quản lý xuất nhập cảnh
+(Điều 15 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-**Chỉ mục:** 7
+ 1. Những việc cơ quan, tổ chức, cá nhân giám sát:
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802720000190000700
+ a) Việc Công an, Cảnh sát Phòng cháy và chữa cháy thực hiện các quy định của pháp luật và của Bộ Công an về giải quyết các thủ tục và các công việc khác có liên quan đến công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ.
 
-**ID:** dk_00072287
+ b) Việc chấp hành Điều lệnh Công an nhân dân; về tác phong, thái độ, lề lối làm việc của Công an, Cảnh sát phòng cháy và chữa cháy.
 
----
+ 2. Hình thức giám sát của cơ quan, tổ chức, cá nhân:
 
+ a) Thông qua các thông tin công khai của Công an nhân dân và phản hồi qua các phương tiện thông tin đại chúng.
 
-### Điều 44.13.TT.8.8. Trách nhiệm của Thủ trưởng đơn vị thực hiện công tác quản lý xuất nhập cảnh
+ b) Thông qua các chủ thể giám sát theo quy định của pháp luật.
 
-Điều 44.13.TT.8.8. Trách nhiệm của Thủ trưởng đơn vị thực hiện công tác quản lý xuất nhập cảnh
+ c) Thông qua tiếp xúc, giải quyết trực tiếp công việc với cán bộ, chiến sĩ.
 
-**Chỉ mục:** 8
+ d) Thông qua kết quả giải quyết các vụ việc, đơn thư, khiếu nại, tố cáo, kiến nghị, phản ánh.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802720000190000800
+ đ) Thông qua thiết bị ghi âm, ghi hình hoặc quan sát trực tiếp nhưng phải đảm bảo các điều kiện sau:
 
-**ID:** dk_00072288
+ - Không làm ảnh hưởng đến hoạt động bình thường của cán bộ, chiến sĩ khi đang thực thi nhiệm vụ;
 
----
+ - Ngoài khu vực bảo đảm trật tự, an toàn chữa cháy, cứu nạn, cứu hộ (đối với nơi có triển khai hoạt động chữa cháy và cứu nạn, cứu hộ);
 
+ - Tuân thủ các quy định pháp luật khác có liên quan.Điều 44.13.TT.8.5. Những nội dung đơn vị thực hiện công tác quản lý xuất nhập cảnh phải công khai
 
-### Điều 44.13.TT.8.9. Trách nhiệm của cán bộ, chiến sỹ thực hiện công tác quản lý xuất nhập cảnh
+(Điều 5 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-Điều 44.13.TT.8.9. Trách nhiệm của cán bộ, chiến sỹ thực hiện công tác quản lý xuất nhập cảnh
+ 1. Địa chỉ cơ quan, Email, số điện thoại liên lạc, Trang thông tin điện tử của đơn vị thực hiện công tác quản lý xuất nhập cảnh.
 
-**Chỉ mục:** 9
+ 2. Bộ phận chức năng chịu trách nhiệm giải quyết các thủ tục xuất nhập cảnh và tiếp nhận phản ánh, kiến nghị, tin báo, tố giác về tội phạm.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802720000190000900
+ 3. Danh mục và các bộ phận tạo thành cơ bản của các thủ tục hành chính, văn bản quy phạm pháp luật quy định về thủ tục hành chính trong lĩnh vực xuất nhập cảnh.
 
-**ID:** dk_00072289
+ 4. Danh mục thủ tục hành chính thực hiện tiếp nhận, trả kết quả giải quyết qua dịch vụ bưu chính công ích và thủ tục hành chính không thực hiện tiếp nhận hồ sơ, trả kết quả qua dịch vụ bưu chính công ích.
 
----
+ 5. Kết quả giải quyết phản ánh, kiến nghị, tin báo, tố giác về tội phạm của các cơ quan, tổ chức, cá nhân theo quy định.
 
+ 6. Các hành vi vi phạm pháp luật về xuất nhập cảnh thuộc thẩm quyền giải quyết của đơn vị theo quy định.Điều 44.13.TT.8.6. Hình thức thông báo công khai
 
-### Điều 44.13.TT.8.10. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh
+(Điều 6 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-Điều 44.13.TT.8.10. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh
+ 1. Niêm yết tại nơi giải quyết thủ tục xuất nhập cảnh của đơn vị thực hiện công tác quản lý xuất nhập cảnh.
 
-**Chỉ mục:** 10
+ 2. Đăng tải trên Trang thông tin điện tử của đơn vị thực hiện công tác quản lý xuất nhập cảnh (nếu có).
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802720000190001000
+ 3. Thông báo trên các phương tiện thông tin đại chúng.
 
-**ID:** dk_00072290
+ 4. Thông báo khi làm việc với cơ quan, tổ chức, cá nhân.
 
----
+ 5. Các hình thức khác phù hợp.Điều 44.13.TT.8.7. Trách nhiệm của đơn vị thực hiện công tác quản lý xuất nhập cảnh
 
+(Điều 7 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-### Điều 44.13.TT.9.4. Các hình thức công khai
+ 1. Tuyên truyền, phổ biến, hướng dẫn, giải thích các chủ trương, chính sách, pháp luật có liên quan đến công tác quản lý xuất nhập cảnh; các quy định về thủ tục xuất nhập cảnh.
 
-*Nội dung chưa có sẵn*
+ 2. Tiếp nhận và giải quyết các thủ tục xuất nhập cảnh theo quy định; trường hợp hồ sơ chưa đầy đủ phải kịp thời hướng dẫn cơ quan, tổ chức, cá nhân bổ sung một lần theo quy định; trường hợp từ chối tiếp nhận hồ sơ, không giải quyết thủ tục xuất nhập cảnh hoặc đến thời hạn mà chưa giải quyết xong phải trả lời bằng văn bản và nêu rõ lý do.
 
-**Chỉ mục:** 4
+ 3. Khi xử lý người vi phạm pháp luật về xuất nhập cảnh, nếu cần áp dụng các biện pháp xử lý, ngăn chặn theo thẩm quyền được giao thì đơn vị thực hiện công tác quản lý xuất nhập cảnh phải lập biên bản hoặc ra quyết định theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710000400
+ 4. Tiếp nhận, xử lý, giải quyết phản ánh, kiến nghị, khiếu nại, tố cáo, tin báo, tố giác về tội phạm theo quy định của pháp luật và của Bộ Công an; mọi phản ánh, kiến nghị, khiếu nại, tố cáo, tin báo, tố giác về tội phạm đều phải được ghi vào sổ và chuyển tới lãnh đạo có thẩm quyền để chỉ đạo giải quyết.
 
-**ID:** dk_00072291
+ 5. Xử lý hoặc phối hợp xử lý theo quy định những người có hành vi gây rối trật tự tại nơi giải quyết thủ tục xuất nhập cảnh.Điều 44.13.TT.8.8. Trách nhiệm của Thủ trưởng đơn vị thực hiện công tác quản lý xuất nhập cảnh
 
----
+(Điều 8 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+ 1. Bố trí cán bộ, chiến sỹ đảm nhiệm các vị trí công tác phù hợp với năng lực, yêu cầu công việc, bảo đảm đủ số lượng cần thiết; kiểm tra, đôn đốc việc thực hiện nhiệm vụ của cán bộ, chiến sỹ và định kỳ chuyển đổi vị trí công tác đối với cán bộ làm công tác quản lý xuất nhập cảnh theo quy định; thực hiện dân chủ trong quản lý và điều hành hoạt động của đơn vị.
 
-### Điều 44.13.TT.9.5. Kế hoạch bảo đảm trang bị
+ 2. Chỉ đạo bố trí nơi giải quyết thủ tục xuất nhập cảnh bảo đảm thuận tiện, có diện tích phù hợp; có hòm thư góp ý; có biển ghi tên đơn vị, nội quy, thời gian làm việc, sơ đồ chỉ dẫn bằng tiếng Việt và tiếng Anh.
 
-*Nội dung chưa có sẵn*
+ 3. Chỉ đạo đẩy mạnh cải cách hành chính, tăng cường ứng dụng khoa học và công nghệ trong công tác quản lý xuất nhập cảnh.
 
-**Chỉ mục:** 5
+ 4. Ra quyết định hoặc báo cáo cấp có thẩm quyền ra quyết định tạm đình chỉ công tác hoặc có biện pháp xử lý kịp thời đối với cán bộ, chiến sỹ vi phạm về thực hiện dân chủ theo quy định của pháp luật và của Bộ Công an.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710000500
+ 5. Chỉ đạo thực hiện việc tiếp cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh; giải quyết phản ánh, kiến nghị, khiếu nại, tố cáo theo đúng quy định của pháp luật và của Bộ Công an; bố trí lịch tiếp khi cơ quan, tổ chức, cá nhân đề nghị được gặp trực tiếp Thủ trưởng đơn vị thực hiện công tác quản lý xuất nhập cảnh.
 
-**ID:** dk_00072292
+ 6. Chịu trách nhiệm về sai phạm của đơn vị và cán bộ, chiến sỹ trong công tác quản lý xuất nhập cảnh.Điều 44.13.TT.8.9. Trách nhiệm của cán bộ, chiến sỹ thực hiện công tác quản lý xuất nhập cảnh
 
----
+(Điều 9 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+ 1. Thực hiện đúng quy trình công tác, quy định của Bộ Công an về thực hiện dân chủ trong công tác quản lý xuất nhập cảnh và các quy định của pháp luật trong giải quyết các thủ tục xuất nhập cảnh; không được nhận tiền hoặc các lợi ích vật chất khác để giải quyết thủ tục xuất nhập cảnh; không được tự ý đặt ra các thủ tục, giấy tờ hoặc thu thêm các khoản phí, lệ phí ngoài quy định; không được tiếp cơ quan, tổ chức, cá nhân có yêu cầu giải quyết thủ tục xuất nhập cảnh tại địa điểm khác ngoài cơ quan; không được có thái độ hách dịch, sách nhiễu, gây khó khăn, phiền hà khi thực hiện nhiệm vụ.
 
-### Điều 44.13.TT.9.6. Tiêu chuẩn, định mức trang bị
+ 2. Kịp thời báo cáo lãnh đạo đơn vị xem xét, giải quyết các trường hợp vượt quá thẩm quyền hoặc trường hợp cơ quan, tổ chức, cá nhân đã được cán bộ, chiến sỹ giải thích nhưng vẫn thắc mắc, kiến nghị.
 
-*Nội dung chưa có sẵn*
+ 3. Giữ đúng lễ tiết, tác phong, trang phục điều lệnh Công an nhân dân; văn minh, lịch sự trong giao tiếp, ứng xử; hướng dẫn, giải thích rõ các quy định liên quan đến thủ tục xuất nhập cảnh cho cơ quan, tổ chức, cá nhân có yêu cầu.Điều 44.13.TT.8.10. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh
 
-**Chỉ mục:** 6
+(Điều 10 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710000600
+ 1. Cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh có quyền:
 
-**ID:** dk_00072293
+ a) Yêu cầu cán bộ, chiến sỹ hướng dẫn, giải đáp thắc mắc về thủ tục xuất nhập cảnh;
 
----
+ b) Phản ánh, kiến nghị, khiếu nại, tố cáo về trình tự, thủ tục, cách thức giải quyết công việc; thái độ, tác phong của cán bộ, chiến sỹ hoặc các vấn đề khác liên quan đến thủ tục xuất nhập cảnh theo quy định;
 
+ c) Đề nghị được gặp Thủ trưởng đơn vị thực hiện công tác quản lý xuất nhập cảnh khi đã được bộ phận chức năng giải đáp các thắc mắc, kiến nghị liên quan đến công tác quản lý xuất nhập cảnh nhưng vẫn thắc mắc, kiến nghị.
 
-### Điều 44.13.TT.9.7. Mua sắm trang bị
+ 2. Cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết thủ tục xuất nhập cảnh có trách nhiệm:
 
-*Nội dung chưa có sẵn*
+ a) Nghiêm chỉnh chấp hành quy định của pháp luật và của Bộ Công an về xuất nhập cảnh; nội quy làm việc, chỉ dẫn của cán bộ, chiến sỹ; thực hiện đầy đủ các quy định về giải quyết thủ tục xuất nhập cảnh; cung cấp đầy đủ và chịu trách nhiệm về tính hợp pháp, chính xác của các giấy tờ có trong hồ sơ và các giấy tờ khác có liên quan; nộp đầy đủ các khoản phí, lệ phí (nếu có) theo quy định;
 
-**Chỉ mục:** 7
+ b) Cư xử văn minh, lịch sự; tôn trọng danh dự, nhân phẩm của cán bộ, chiến sỹ trong quá trình thực hiện các thủ tục xuất nhập cảnh;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710000700
+ c) Chịu trách nhiệm trước pháp luật về nội dung phản ánh, kiến nghị, khiếu nại, tố cáo; trình bày trung thực sự việc, cung cấp đầy đủ các chứng cứ, thông tin, tài liệu có liên quan cho đơn vị thực hiện công tác quản lý xuất nhập cảnh.Điều 44.13.TT.9.4. Các hình thức công khai
 
-**ID:** dk_00072294
+(Điều 4 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
----
+ Căn cứ vào đặc điểm, tính chất, độ mật, nội dung phải công khai, Công an các đơn vị, địa phương áp dụng một, một số hoặc tất cả các hình thức công khai sau đây:
 
+ 1. Đăng tải trên Trang thông tin điện tử của Công an các đơn vị, địa phương (nếu có).
 
-### Điều 44.13.TT.9.8. Cấp phát trang bị
+ 2. Thông báo bằng văn bản gửi đến cán bộ, chiến sĩ.
 
-*Nội dung chưa có sẵn*
+ 3. Thông báo tại hội nghị cán bộ chủ chốt; hội nghị, giao ban đơn vị.
 
-**Chỉ mục:** 8
+ 4. Gửi văn bản cho người phụ trách các bộ phận công tác của đơn vị để thông báo cho cán bộ, chiến sĩ thuộc thẩm quyền quản lý.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710000800
+ 5. Các hình thức khác theo quy định của pháp luật.Điều 44.13.TT.9.5. Kế hoạch bảo đảm trang bị
 
-**ID:** dk_00072295
+(Điều 5 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
----
+ 1. Căn cứ nhu cầu bảo đảm nhiệm vụ công tác; số lượng, chất lượng các danh mục đã được cấp phát; tiêu chuẩn, định mức sử dụng tài sản nhà nước trong Công an nhân dân, Công an các đơn vị, địa phương xây dựng các kế hoạch bảo đảm trang bị ngắn hạn, trung hạn, dài hạn, dự trữ quốc gia, dự phòng chiến đấu trình cấp có thẩm quyền phê duyệt.
 
+ 2. Các đơn vị có chức năng tham mưu về công tác bảo đảm trang bị xem xét, nghiên cứu, cân đối giữa khả năng ngân sách và khả năng trang bị có thể đáp ứng được với nhu cầu thực tế của Công an các đơn vị, địa phương để lập kế hoạch.
 
-### Điều 44.13.TT.9.9. Công khai các chỉ tiêu kế hoạch về trang bị
+ 3. Kế hoạch bảo đảm trang bị được phê duyệt phải được thông báo bằng văn bản cho Công an các đơn vị, địa phương được trang bị biết để triển khai thực hiện.Điều 44.13.TT.9.6. Tiêu chuẩn, định mức trang bị
 
-Điều 44.13.TT.9.9. Công khai các chỉ tiêu kế hoạch về trang bị
+(Điều 6 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Chỉ mục:** 9
+ 1. Việc xây dựng tiêu chuẩn, định mức trang bị trong Công an nhân dân thực hiện theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710000900
+ 2. Công an các đơn vị, địa phương có trách nhiệm phổ biến cho cán bộ, chiến sĩ biết về các tiêu chuẩn, định mức bảo đảm trang bị trong lĩnh vực công tác để thực hiện việc kiểm tra, giám sát.
 
-**ID:** dk_00072296
+ 3. Công an các đơn vị, địa phương và cán bộ, chiến sĩ có quyền đề nghị cấp có thẩm quyền công bố, giải thích các chế độ, tiêu chuẩn, định mức bảo đảm trang bị trong lĩnh vực công tác và có quyền khiếu nại, tố cáo về những vi phạm của các đơn vị, cá nhân có liên quan trong lĩnh vực này; đồng thời, có trách nhiệm đề xuất, báo cáo cấp có thẩm quyền sửa đổi, bổ sung hoặc thay thế các chế độ, tiêu chuẩn, định mức đã ban hành. Kết quả giải quyết khiếu nại, tố cáo, tiêu cực, tham nhũng phải được cấp có thẩm quyền thông báo công khai, kịp thời theo quy định.Điều 44.13.TT.9.7. Mua sắm trang bị
 
----
+(Điều 7 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
+ Việc mua sắm trang bị phải tuân thủ quy định của pháp luật chuyên ngành về mua sắm và quy định của Bộ Công an.Điều 44.13.TT.9.8. Cấp phát trang bị
 
-### Điều 44.13.TT.9.10. Kiểm tra, hướng dẫn việc quản lý trang bị
+(Điều 8 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-Điều 44.13.TT.9.10. Kiểm tra, hướng dẫn việc quản lý trang bị
+ 1. Các đơn vị có trách nhiệm cấp phát trang bị phải bảo đảm minh bạch, công bằng trong việc phân phối cho Công an các đơn vị, địa phương theo đúng nhu cầu, mục đích, đối tượng, tiêu chuẩn, định mức đã được phê duyệt và phải thông báo cho Công an các đơn vị, địa phương bằng văn bản về số lượng, danh mục mặt hàng, chủng loại, thời gian, địa điểm cấp phát.
 
-**Chỉ mục:** 10
+ 2. Thực hiện cấp phát một cửa liên thông, bảo đảm tiết kiệm, nhanh chóng, thuận lợi cho Công an các đơn vị, địa phương.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710001000
+ 3. Bảo đảm đủ hồ sơ, chứng từ, giấy tờ liên quan đến các trang bị được cấp phát.
 
-**ID:** dk_00072297
+ 4. Trường hợp cấp phát đột xuất phục vụ chiến đấu hoặc phòng, chống, khắc phục thiên tai, bão lụt, xử lý sự cố thực hiện theo quyết định của Bộ trưởng Bộ Công an hoặc quyết định của người được Bộ trưởng uỷ quyền.
 
----
+ Điều 44.13.TT.9.9. Công khai các chỉ tiêu kế hoạch về trang bị
 
+(Điều 9 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-### Điều 44.13.TT.9.11. Xây dựng chế độ quản lý, cấp phát, bảo quản trang bị
+ Hàng năm, Công an các đơn vị, địa phương phải công khai chỉ tiêu kế hoạch về trang bị đã được duyệt và số lượng được cấp phát để cán bộ, chiến sĩ biết nhằm phát huy quyền dân chủ trong quản lý, kiểm tra, giám sát và phát hiện, tố giác, đấu tranh với những sai phạm trong quản lý trang bị.Điều 44.13.TT.9.10. Kiểm tra, hướng dẫn việc quản lý trang bị
 
-Điều 44.13.TT.9.11. Xây dựng chế độ quản lý, cấp phát, bảo quản trang bị
+(Điều 10 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Chỉ mục:** 11
+ Căn cứ vào các quy định chung và kế hoạch đã được duyệt, các đơn vị tham mưu về quản lý, cấp phát trang bị có trách nhiệm kiểm tra, kiểm soát, nắm thực tế để có kế hoạch hướng dẫn việc quản lý tại Công an các đơn vị, địa phương theo đúng quy định; khi phát hiện những đơn vị, địa phương được cấp phát không hợp lý thì phải báo cáo, đề xuất cấp có thẩm quyền điều chuyển hoặc thu hồi tránh để lãng phí, hư hỏng, mất mát.Điều 44.13.TT.9.11. Xây dựng chế độ quản lý, cấp phát, bảo quản trang bị
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710001100
+(Điều 11 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**ID:** dk_00072298
+ Cục Trang bị và kho vận có trách nhiệm phối hợp với Công an các đơn vị, địa phương nghiên cứu, xây dựng Quy chế về quản lý, cấp phát, bảo quản trang bị thống nhất trong toàn lực lượng Công an nhân dân, phù hợp với khả năng và yêu cầu thực tế, trình cấp có thẩm quyền ký ban hành.
 
----
+ Công an các đơn vị, địa phương có trách nhiệm tổ chức thực hiện việc quản lý trang bị được cấp phát theo quy định của pháp luật và quy định của Bộ Công an.
 
+ Cục Trang bị và kho vận có trách nhiệm định kỳ thực hiện kiểm tra, hướng dẫn, sơ kết, tổng kết, đánh giá việc quản lý trang bị của Công an các đơn vị, địa phương; tập hợp, báo cáo lãnh đạo Bộ xem xét, giải quyết những đề xuất, kiến nghị của Công an các đơn vị, địa phương.Điều 44.13.TT.9.12. Chế độ báo cáo
 
-### Điều 44.13.TT.9.12. Chế độ báo cáo
+(Điều 12 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-*Nội dung chưa có sẵn*
+ Công an các đơn vị, địa phương và cán bộ, chiến sĩ làm công tác quản lý trang bị phải thực hiện chế độ báo cáo định kỳ hoặc đột xuất theo quy định của pháp luật và quy định của Bộ Công an.Điều 44.13.TT.9.13. Công tác quản lý và cấp phát hàng hóa tại kho
 
-**Chỉ mục:** 12
+(Điều 13 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710001200
+ 1. Thực hiện dân chủ, minh bạch trong việc nhập, xuất, quản lý, bảo quản hàng cấp phát thường xuyên, hàng dự trữ, dự phòng của Bộ, hàng dự trữ quốc gia do Bộ Công an quản lý theo quy định của pháp luật và quy định của Bộ Công an.
 
-**ID:** dk_00072299
+ 2. Bảo đảm dân chủ, minh bạch trong việc lập kế hoạch và tổ chức mua sắm trang bị các hệ thống, thiết bị, vật tư, phương tiện phục vụ công tác kho và bảo đảm an toàn phòng, chống cháy, nổ tại các kho trong mạng lưới kho của Bộ.Điều 44.13.TT.9.14. Công tác quản lý vận tải hàng hóa
 
----
+(Điều 14 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
+ 1. Thực hiện dân chủ, minh bạch trong việc phân bổ, giao quản lý, sử dụng, bảo quản, bảo dưỡng, sửa chữa phương tiện vận tải tại các đơn vị.
 
-### Điều 44.13.TT.9.13. Công tác quản lý và cấp phát hàng hóa tại kho
+ 2. Bảo đảm dân chủ trong công tác quản lý, điều hành, phân công thực hiện nhiệm vụ vận chuyển và công tác vận chuyển, bàn giao, tiếp nhận hàng hóa cho Công an các đơn vị, địa phương.Điều 44.13.TT.10.5. Nội dung Thủ trưởng cơ sở y tế công khai đối với cán bộ y tế
 
-Điều 44.13.TT.9.13. Công tác quản lý và cấp phát hàng hóa tại kho
+(Điều 5 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**Chỉ mục:** 13
+ 1. Chương trình, kế hoạch công tác hàng năm, hàng quý, hàng tháng của cơ sở y tế.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710001300
+ 2. Nội quy, quy chế làm việc của cơ sở y tế; chức trách, nhiệm vụ, quyền hạn của lãnh đạo cơ sở y tế, lãnh đạo khoa, phòng và cán bộ y tế trong cơ sở y tế, quy trình công tác, thủ tục hành chính giải quyết công việc.
 
-**ID:** dk_00072300
+ 3. Chính sách, chế độ đối với cán bộ ở cơ sở y tế và người bệnh.
 
----
+ 4. Tuyển dụng, tiếp nhận, đào tạo, điều động, luân chuyển, bổ nhiệm, miễn nhiệm, thăng cấp, nâng lương, khen thưởng, kỷ luật đối với cán bộ cơ sở y tế.
 
+ 5. Kết quả giải quyết đơn, thư kiến nghị, khiếu nại, tố cáo và các vụ việc tiêu cực, tham nhũng trong cơ sở y tế.
 
-### Điều 44.13.TT.9.14. Công tác quản lý vận tải hàng hóa
+ 6. Các nguồn thu, chi tài chính của cơ sở y tế theo quy định.
 
-Điều 44.13.TT.9.14. Công tác quản lý vận tải hàng hóa
+ 7. Các quy định về chuyên môn, kỹ thuật y tế, quản lý và sử dụng trang thiết bị y tế.
 
-**Chỉ mục:** 14
+ 8. Những nội dung khác mà Thủ trưởng cơ sở y tế thấy cần thiết và không trái với quy định của pháp luật, quy định của Bộ Công an.Điều 44.13.TT.10.6. Hình thức công khai đến cán bộ y tế
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802732600710001400
+(Điều 6 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**ID:** dk_00072301
+ 1. Niêm yết công khai nội dung quy định tại Điều 5 Thông tư này tại bảng thông báo của cơ sở y tế, bảng phân công công tác của các khoa, phòng (trừ những nội dung thuộc phạm vi bí mật nhà nước và theo quy định của Bộ trưởng Bộ Công an). Thời gian niêm yết công khai như sau:
 
----
+ a) Đối với văn bản của cấp trên: chậm nhất sau 2 ngày làm việc kể từ ngày nhận được văn bản theo dấu văn thư đến.
 
+ b) Đối với văn bản do cơ sở y tế ban hành: ít nhất trước 3 ngày làm việc kể từ ngày văn bản có hiệu lực thi hành.
 
-### Điều 44.13.TT.10.5. Nội dung Thủ trưởng cơ sở y tế công khai đối với cán bộ y tế
+ 2. Thông báo tại hội nghị cán bộ chủ chốt, hội nghị cán bộ của cơ sở y tế.
 
-Điều 44.13.TT.10.5. Nội dung Thủ trưởng cơ sở y tế công khai đối với cán bộ y tế
+ 3. Gửi văn bản đến lãnh đạo các khoa, phòng, tổ chức đảng và các đoàn thể thuộc cơ sở y tế để thông báo đến cán bộ y tế thuộc phạm vi quản lý.
 
-**Chỉ mục:** 5
+ 4. Qua mạng máy tính nội bộ cơ sở y tế (nếu có).Điều 44.13.TT.10.7. Nội dung cán bộ y tế tham gia ý kiến
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920000500
+(Điều 7 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**ID:** dk_00072302
+ 1. Chương trình hành động thực hiện Nghị quyết của Đảng, pháp luật của Nhà nước, quy định của Bộ Công an liên quan đến tổ chức và hoạt động của cơ sở y tế.
 
----
+ 2. Quy hoạch phát triển của cơ sở y tế và các đơn vị trực thuộc.
 
+ 3. Chủ trương, biện pháp thực hiện cải cách hành chính; các nội dung quy định tại khoản 4 Điều 5 của Thông tư này theo quy định phân cấp về quản lý cán bộ của Bộ Công an.
 
-### Điều 44.13.TT.10.6. Hình thức công khai đến cán bộ y tế
+ 4. Kế hoạch công tác; kế hoạch thu chi tài chính hàng năm; kế hoạch sửa chữa, nâng cấp, xây dựng mới cơ sở; kế hoạch cung ứng thuốc, hóa chất, vật tư y tế tiêu hao hàng năm; kế hoạch mua sắm, thanh lý tài sản của cơ sở y tế.
 
-Điều 44.13.TT.10.6. Hình thức công khai đến cán bộ y tế
+ 5. Chức trách, nhiệm vụ; nội quy, quy chế làm việc; quy định chuyên môn kỹ thuật của cơ sở y tế và của các khoa, phòng. Các quy chế, quy định thực hiện các chế độ, chính sách liên quan đến quyền và lợi ích của cán bộ y tế.
 
-**Chỉ mục:** 6
+ 6. Biện pháp phòng hộ, an toàn vệ sinh lao động, vệ sinh môi trường, cải tiến chế độ làm việc; nâng cao đời sống vật chất và tinh thần cho cán bộ y tế, xây dựng nếp sống văn hóa, văn minh trong cơ sở y tế.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920000600
+ 7. Quy trình, thủ tục hành chính về đón tiếp, giải quyết công việc khám bệnh, chữa bệnh cho người bệnh: các biện pháp chống tệ quan liêu, gây phiền hà, sách nhiễu người bệnh, người nhà người bệnh và các biện pháp thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng trong khám bệnh, chữa bệnh.
 
-**ID:** dk_00072303
+ 8. Chương trình hành động thực hiện các phong trào thi đua của cơ sở y tế; bình xét các danh hiệu thi đua, khen thưởng hàng năm, báo cáo sơ kết công tác 6 tháng, tổng kết công tác năm của cơ sở y tế.
 
----
+ 9. Những nội dung khác mà Thủ trưởng cơ sở y tế thấy cần thiết lấy ý kiến của cán bộ y tế.Điều 44.13.TT.10.8. Hình thức để cán bộ y tế tham gia ý kiến
 
+(Điều 8 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-### Điều 44.13.TT.10.7. Nội dung cán bộ y tế tham gia ý kiến
+ 1. Tham gia ý kiến trực tiếp với lãnh đạo cơ sở y tế, lãnh đạo khoa, phòng.
 
-Điều 44.13.TT.10.7. Nội dung cán bộ y tế tham gia ý kiến
+ 2. Qua hội nghị, hội thảo của cơ sở y tế.
 
-**Chỉ mục:** 7
+ 3. Gửi ý kiến vào hòm thư góp ý của cơ sở y tế.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920000700
+ 4. Qua mạng máy tính nội bộ cơ sở y tế (nếu có).
 
-**ID:** dk_00072304
+ 5. Cấp ủy đảng, các đoàn thể quần chúng lấy ý kiến của quần chúng, đảng viên, đoàn viên, hội viên...
 
----
+ 6. Thông qua việc gặp gỡ, trao đổi, hướng dẫn, tư vấn trực tiếp với cán bộ y tế; các hình thức phù hợp khác (nếu có).
 
+ 7. Gửi dự thảo văn bản để cán bộ tham gia ý kiến.Điều 44.13.TT.10.9. Nội dung cán bộ y tế giám sát, kiểm tra
 
-### Điều 44.13.TT.10.8. Hình thức để cán bộ y tế tham gia ý kiến
+(Điều 9 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-Điều 44.13.TT.10.8. Hình thức để cán bộ y tế tham gia ý kiến
+ 1. Việc thực hiện Nghị quyết của Đảng, nhiệm vụ, chỉ tiêu kế hoạch công tác của cơ sở y tế; chức năng nhiệm vụ, nội dung, quy chế làm việc của cơ sở y tế; các quy định về chuyên môn, kỹ thuật y tế.
 
-**Chỉ mục:** 8
+ 2. Việc cung ứng thuốc, hóa chất, máu, dịch truyền; mua sắm, quản lý, sử dụng trang thiết bị; mua sắm, sử dụng, thanh lý tài sản.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920000800
+ 3. Các nguồn thu, chi tài chính của cơ sở y tế theo quy định.
 
-**ID:** dk_00072305
+ 4. Việc thực hiện các chế độ, chính sách của nhà nước liên quan đến quyền và lợi ích hợp pháp của cán bộ y tế; các quy chế, quy định về công tác tổ chức, cán bộ; các nội dung công khai của Thủ trưởng cơ sở y tế.
 
----
+ 5. Quá trình giải quyết kiến nghị, khiếu nại, tố cáo về chuyên môn của cán bộ y tế và của người bệnh, người nhà người bệnh.Điều 44.13.TT.10.10. Hình thức thực hiện giám sát, kiểm tra của cán bộ y tế
 
+(Điều 10 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-### Điều 44.13.TT.10.9. Nội dung cán bộ y tế giám sát, kiểm tra
+ 1. Hoạt động Thanh tra của cơ sở y tế.
 
-Điều 44.13.TT.10.9. Nội dung cán bộ y tế giám sát, kiểm tra
+ 2. Hội nghị cán bộ của cơ sở y tế.
 
-**Chỉ mục:** 9
+ 3. Các cuộc họp, sinh hoạt định kỳ của các khoa, phòng.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920000900
+ 4. Hoạt động của các tổ chức đảng, đoàn thể quần chúng.
 
-**ID:** dk_00072306
+ 5. Hoạt động của Hội đồng thuốc và điều trị trong bệnh viện.
 
----
+ 6. Hoạt động giao ban và hoạt động tuyến.Điều 44.13.TT.10.11. Nội dung Thủ trưởng cơ sở y tế công khai đối với người bệnh và người nhà người bệnh
 
+(Điều 11 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-### Điều 44.13.TT.10.10. Hình thức thực hiện giám sát, kiểm tra của cán bộ y tế
+ 1. Lịch làm việc, lịch trực hằng ngày của cán bộ y tế.
 
-Điều 44.13.TT.10.10. Hình thức thực hiện giám sát, kiểm tra của cán bộ y tế
+ 2. Quy định về quyền và nghĩa vụ của người bệnh, người nhà người bệnh đối với cơ sở y tế.
 
-**Chỉ mục:** 10
+ 3. Nội quy bệnh viện, bệnh xá, sơ đồ chỉ dẫn các khoa, phòng của cơ sở y tế.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001000
+ 4. Các quy trình, thủ tục hành chính liên quan đến khám bệnh, chữa bệnh.
 
-**ID:** dk_00072307
+ 5. Mức thu viện phí, chế độ miễn, giảm viện phí, chế độ bảo hiểm y tế, thanh toán viện phí và bảo hiểm y tế theo đúng quy định của pháp luật.
 
----
+ 6. Giá dịch vụ khám bệnh, chữa bệnh theo yêu cầu của người bệnh, giá gửi phương tiện (xe đạp, xe máy, ô tô) trong cơ sở y tế và các dịch vụ khác.
 
+ 7. Bộ phận giải quyết khiếu nại, tố cáo của cơ sở y tế, số điện thoại đường dây nóng của cơ sở y tế.Điều 44.13.TT.10.12. Hình thức công khai đối với người bệnh và người nhà người bệnh
 
-### Điều 44.13.TT.10.11. Nội dung Thủ trưởng cơ sở y tế công khai đối với người bệnh và người nhà người bệnh
+(Điều 12 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-Điều 44.13.TT.10.11. Nội dung Thủ trưởng cơ sở y tế công khai đối với người bệnh và người nhà người bệnh
+ 1. Niêm yết công khai:
 
-**Chỉ mục:** 11
+ Cơ sở y tế tổ chức niêm yết công khai các nội dung quy định tại Điều 11 của Thông tư này bằng các hình thức: các văn bản, sơ đồ, biển chỉ dẫn đường đến các khu vực, khoa, phòng trong cơ sở y tế; nội quy, quy định về các loại phí dịch vụ phục vụ người bệnh tại các địa điểm thuận lợi có nhiều người bệnh, người nhà người bệnh qua lại. Việc niêm yết công khai phải thường xuyên, liên tục, kịp thời, nội dung dễ đọc, dễ hiểu.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001100
+ 2. Thông tin, tuyên truyền, tư vấn:
 
-**ID:** dk_00072308
+ Cơ sở y tế tổ chức thông tin, tuyên truyền, tư vấn về chế độ chính sách, những vấn đề có liên quan đến việc khám bệnh, chữa bệnh kể từ khi người bệnh đến phòng khám bệnh, phòng cấp cứu, buồng bệnh.
 
----
+ 3. Thông qua trang thông tin điện tử của cơ sở y tế (nếu có), các hình thức phù hợp khác.Điều 44.13.TT.10.13. Nội dung người bệnh và người nhà người bệnh giám sát, tham gia ý kiến
 
+(Điều 13 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-### Điều 44.13.TT.10.12. Hình thức công khai đối với người bệnh và người nhà người bệnh
+ 1. Việc thực hiện các chế độ, chính sách y tế liên quan đến quyền và lợi ích hợp pháp của người bệnh; các chế độ, chính sách khám bệnh, chữa bệnh theo quy định của Nhà nước và Bộ Công an.
 
-Điều 44.13.TT.10.12. Hình thức công khai đối với người bệnh và người nhà người bệnh
+ 2. Việc thực hiện nội quy, quy chế về khám bệnh, chữa bệnh của cơ sở y tế.
 
-**Chỉ mục:** 12
+ 3. Tinh thần, thái độ phục vụ của cán bộ y tế, đề xuất ý kiến để đóng góp động viên tinh thần, thái độ phục vụ nhiệt tình, trách nhiệm trong khám và chữa bệnh của cán bộ y tế; trao đổi và phối hợp với cán bộ y tế trong việc chăm sóc, nuôi dưỡng người bệnh.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001200
+ 4. Việc thực hiện vệ sinh môi trường, bảo đảm an ninh, trật tự nơi khám bệnh, chữa bệnh.
 
-**ID:** dk_00072309
+ 5. Giải quyết, khiếu nại, tố cáo và kết quả giải quyết, khiếu nại, tố cáo của người bệnh và người nhà người bệnh.Điều 44.13.TT.10.14. Hình thức giám sát, tham gia ý kiến của người bệnh và người nhà người bệnh
 
----
+(Điều 14 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
+ 1. Tham gia ý kiến, phản ánh trực tiếp đối với cán bộ y tế tại các khoa, phòng, các cơ sở khám bệnh, chữa bệnh.
 
-### Điều 44.13.TT.10.13. Nội dung người bệnh và người nhà người bệnh giám sát, tham gia ý kiến
+ 2. Tham gia ý kiến, phản ánh với cán bộ lãnh đạo cơ sở y tế.
 
-Điều 44.13.TT.10.13. Nội dung người bệnh và người nhà người bệnh giám sát, tham gia ý kiến
+ 3. Gửi văn bản tham gia ý kiến vào hòm thư góp ý.
 
-**Chỉ mục:** 13
+ 4. Thông qua điện thoại, đường dây nóng, email, hòm thư góp ý.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001300
+ 5. Phản ánh qua các buổi sinh hoạt của người bệnh.
 
-**ID:** dk_00072310
+ 6. Thông qua trang thông tin điện tử của cơ sở y tế (nếu có).
 
----
+ 7. Các hình thức phù hợp khác.Điều 44.13.TT.10.15. Trách nhiệm của Thủ trưởng cơ sở y tế
 
+(Điều 15 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-### Điều 44.13.TT.10.14. Hình thức giám sát, tham gia ý kiến của người bệnh và người nhà người bệnh
+ 1. Thực hiện dân chủ trong quản lý và điều hành hoạt động của cơ quan, đơn vị; trong quản lý, sử dụng, đào tạo, bồi dưỡng, thực hiện chế độ, chính sách đối với cán bộ, đảng viên, chiến sĩ, công nhân viên, lao động hợp đồng trong đơn vị.
 
-Điều 44.13.TT.10.14. Hình thức giám sát, tham gia ý kiến của người bệnh và người nhà người bệnh
+ 2. Ban hành quy chế quản lý trang thiết bị làm việc trong cơ quan, đơn vị bảo đảm thiết thực, hiệu quả, tiết kiệm; sử dụng tiết kiệm kinh phí được cấp; thực hiện các quy định về công khai tài chính. Việc mua sắm thiết bị, phương tiện và các tài sản của cơ quan, đơn vị phải thực hiện theo quy định của pháp luật.
 
-**Chỉ mục:** 14
+ 3. Tổ chức các cuộc họp giao ban định kỳ, hàng tháng, hàng quý và 6 tháng để đánh giá kết quả thực hiện các nhiệm vụ được giao và đề ra các nhiệm vụ, giải pháp chủ yếu phải thực hiện trong thời gian tới của cơ quan, đơn vị. Cuối năm, người đứng đầu cơ quan, đơn vị phải tổ chức đánh giá tổng kết hoạt động của cơ quan, đơn vị tại hội nghị cán bộ, công chức, viên chức.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001400
+ 5. Lắng nghe ý kiến phản ánh, phê bình của cán bộ, đảng viên, chiến sĩ, công nhân, lao động hợp đồng. Khi cán bộ, đảng viên, chiến sĩ, công nhân, lao động hợp đồng đăng ký được gặp và có nội dung, lý do cụ thể thì bố trí thời gian thích hợp để gặp và trao đổi.
 
-**ID:** dk_00072311
+ 6. Xem xét, giải quyết kịp thời theo quy định của pháp luật các khiếu nại, tố cáo, kiến nghị của cán bộ, đảng viên, chiến sĩ, công nhân, lao động hợp đồng của cơ quan, đơn vị; kịp thời báo cáo với cơ quan có thẩm quyền những vấn đề không thuộc thẩm quyền giải quyết của mình.
 
----
+ 7. Thực hiện các biện pháp phòng ngừa, ngăn chặn hành vi tham nhũng; xử lý và tạo điều kiện để cơ quan, tổ chức có thẩm quyền xử lý người có hành vi tham nhũng; nếu thiếu trách nhiệm để xảy ra tham nhũng trong cơ quan, đơn vị thì bị xử lý theo quy định của pháp luật. Bố trí hòm thư góp ý tại địa điểm thuận lợi; giải quyết khiếu nại, tố cáo theo quy định của pháp luật và của Bộ Công an.
 
+ 8. Thực hiện công khai việc phân công công việc trong lãnh đạo cơ sở y tế, các khoa, phòng bảo đảm công bằng, đúng người, đúng việc, không gây chồng chéo và không đúng chức năng, nhiệm vụ được giao.
 
-### Điều 44.13.TT.10.15. Trách nhiệm của Thủ trưởng cơ sở y tế
+ 9. Công khai các ý kiến tham gia góp ý, phê bình, kiến nghị của cán bộ y tế, người bệnh, người nhà người bệnh và của công dân, cơ quan, tổ chức địa phương theo thẩm quyền và kịp thời xem xét, giải quyết theo quy định của pháp luật.
 
-Điều 44.13.TT.10.15. Trách nhiệm của Thủ trưởng cơ sở y tế
+ 10. Kịp thời xử lý người có hành vi cản trở việc thực hiện dân chủ trong hoạt động của cơ quan, đơn vị và người có hành vi trả thù, trù dập cán bộ, công chức, viên chức khiếu nại, tố cáo, kiến nghị theo quy định của pháp luậtĐiều 44.13.TT.10.16. Trách nhiệm thực hiện dân chủ của cán bộ y tế tại các cơ sở y tế
 
-**Chỉ mục:** 15
+(Điều 16 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001500
+ 1. Chỉ được tiếp nhận tài liệu và giải quyết công việc của công dân, tổ chức tại trụ sở làm việc của cơ quan, đơn vị; bảo vệ bí mật Nhà nước, bí mật công tác và bí mật thông tin về người tố cáo theo quy định của pháp luật.
 
-**ID:** dk_00072312
+ 2. Khi công dân, tổ chức có yêu cầu, cán bộ y tế có trách nhiệm giải quyết các yêu cầu đó theo thẩm quyền. Những việc không thuộc thẩm quyền giải quyết, cán bộ y tế phải thông báo để công dân, tổ chức biết và hướng dẫn công dân, tổ chức đến nơi có thẩm quyền giải quyết. Cán bộ y tế không được quan liêu, hách dịch, cửa quyền, tham nhũng, gây khó khăn, phiền hà, sách nhiễu trong giải quyết công việc của công dân, tổ chức.
 
----
+ 3. Công việc của công dân, tổ chức phải được cán bộ y tế nghiên cứu xử lý và kịp thời giải quyết theo đúng quy định của pháp luật và nội quy, quy chế của cơ quan, đơn vị.
 
+ 4. Những công việc đã có thời hạn giải quyết theo quy định thì cán bộ y tế phải chấp hành đúng thời hạn đó. Trường hợp phức tạp đòi hỏi phải có thời gian để nghiên cứu giải quyết thì cán bộ y tế có trách nhiệm báo cáo người phụ trách trực tiếp và kịp thời thông báo cho công dân, tổ chức biết.Điều 44.13.TT.10.17. Trách nhiệm của các đoàn thể quần chúng, Thanh tra của cơ sở y tế
 
-### Điều 44.13.TT.10.16. Trách nhiệm thực hiện dân chủ của cán bộ y tế tại các cơ sở y tế
+(Điều 17 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-Điều 44.13.TT.10.16. Trách nhiệm thực hiện dân chủ của cán bộ y tế tại các cơ sở y tế
+ 1. Các đoàn thể quần chúng của cơ sở y tế có trách nhiệm thường xuyên giám sát việc thực hiện dân chủ trong cơ sở y tế.
 
-**Chỉ mục:** 16
+ 2. Thanh tra của cơ sở y tế có trách nhiệm kiểm tra việc thực hiện dân chủ trong cơ sở y tế liên quan đến quyền, lợi ích hợp pháp của cán bộ y tế, người bệnh, người nhà bệnh nhân.Điều 44.13.TT.10.18. Trách nhiệm của người bệnh, người nhà người bệnh
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001600
+(Điều 18 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**ID:** dk_00072313
+ 1. Người bệnh, người nhà người bệnh có trách nhiệm nghiêm chỉnh chấp hành các quy định của Thông tư này.
 
----
+ 2. Báo cáo người có thẩm quyền khi phát hiện hành vi vi phạm pháp luật trong các cơ sở y tế.
 
+ 3. Đóng góp ý kiến, phản ánh trực tiếp đối với cán bộ y tế tại các khoa, phòng, các cơ sở khám bệnh, chữa bệnh.Điều 44.13.TT.11.4. Quan hệ giữa Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; giữa Cơ quan điều tra các cấp và giữa Cơ quan điều tra với cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra trong bảo đảm thực hiện dân chủ trong hoạt động điều tra
 
-### Điều 44.13.TT.10.17. Trách nhiệm của các đoàn thể quần chúng, Thanh tra của cơ sở y tế
+(Điều 4 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-Điều 44.13.TT.10.17. Trách nhiệm của các đoàn thể quần chúng, Thanh tra của cơ sở y tế
+1. Quan hệ giữa Thủ trưởng và Phó Thủ trưởng Cơ quan điều tra là quan hệ phân công theo pháp luật trong hoạt động điều tra, xử lý tội phạm trên cơ sở nhiệm vụ, quyền hạn và trách nhiệm của mình. Khi có ý kiến khác nhau giữa Thủ trưởng và Phó Thủ trưởng Cơ quan điều tra thì Thủ trưởng quyết định và chịu trách nhiệm trước pháp luật; các Phó Thủ trưởng có trách nhiệm thực hiện quyết định của Thủ trưởng nhưng có quyền bảo lưu ý kiến và báo cáo, kiến nghị bằng văn bản lên cấp trên.
 
-**Chỉ mục:** 17
+2. Quan hệ giữa các đơn vị thuộc Cơ quan điều tra cùng cấp là quan hệ phối hợp trong hoạt động điều tra, xử lý tội phạm trên cơ sở chức năng, nhiệm vụ, quyền hạn và trách nhiệm của từng đơn vị.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001700
+3. Quan hệ giữa Cơ quan điều tra cấp trên với Cơ quan điều tra cấp dưới là quan hệ phân công và phối hợp theo nguyên tắc Cơ quan điều tra cấp trên hướng dẫn, chỉ đạo nghiệp vụ điều tra và kiểm tra việc chấp hành pháp luật, nghiệp vụ trong công tác tiếp nhận, giải quyết nguồn tin về tội phạm và công tác điều tra, xử lý tội phạm đối với Cơ quan điều tra cấp dưới.
 
-**ID:** dk_00072314
-
----
-
-
-### Điều 44.13.TT.10.18. Trách nhiệm của người bệnh, người nhà người bệnh
-
-Điều 44.13.TT.10.18. Trách nhiệm của người bệnh, người nhà người bệnh
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 440130000000000050000830000000000000000000802738100920001800
-
-**ID:** dk_00072315
-
----
-
-
-### Điều 44.13.TT.11.4. Quan hệ giữa Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; giữa Cơ quan điều tra các cấp và giữa Cơ quan điều tra với cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra trong bảo đảm thực hiện dân chủ trong hoạt động điều tra
-
-Điều 44.13.TT.11.4. Quan hệ giữa Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; giữa Cơ quan điều tra các cấp và giữa Cơ quan điều tra với cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra trong bảo đảm thực hiện dân chủ trong hoạt động điều tra
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260000400
-
-**ID:** dk_00072316
-
----
-
-
-### Điều 44.13.TT.11.5. Bảo đảm dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
+4. Quan hệ giữa Cơ quan điều tra với cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra cùng cấp là quan hệ phân công trách nhiệm và phối hợp trong hoạt động điều tra trên cơ sở chức năng, nhiệm vụ, quyền hạn của từng đơn vị. Cơ quan điều tra có trách nhiệm hướng dẫn, chỉ đạo nghiệp vụ điều tra đối với cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra theo quy định của Bộ luật Tố tụng hình sự năm 2015 và Luật Tổ chức cơ quan điều tra hình sự năm 2015.
 
 Điều 44.13.TT.11.5. Bảo đảm dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260000500
+1. Cơ quan điều tra phải tổ chức tiếp nhận đầy đủ, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự; thông báo việc tiếp nhận và kết quả giải quyết cho cá nhân, cơ quan, tổ chức đã tố giác, báo tin, kiến nghị hoặc khiếu nại, tố cáo biết; phải áp dụng biện pháp cần thiết để bảo vệ người tố giác tội phạm, người làm chứng, bị hại, người thân thích của họ và người tố cáo theo quy định của Bộ luật Tố tụng hình sự năm 2015 và các văn bản quy phạm pháp luật có liên quan.
 
-**ID:** dk_00072317
+2. Việc tiếp nhận, phân loại, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự phải đúng thẩm quyền, trình tự, thủ tục và thời hạn theo quy định của pháp luật.
 
----
+3. Cơ quan điều tra phải bố trí địa điểm thuận tiện và phân công cán bộ trực ban hình sự 24/24 giờ hàng ngày để tiếp nhận, phân loại nguồn tin về tội phạm, đơn khiếu nại, tố cáo trong tố tụng hình sự của cá nhân, cơ quan, tổ chức; đơn yêu cầu nhờ người bào chữa của người đại diện hoặc người thân thích của người bị giữ trong trường hợp khẩn cấp, người bị bắt, người bị tạm giữ, bị can đang bị tạm giam; hồ sơ đăng ký bào chữa, hồ sơ đăng ký bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố và chuyển ngay cho các cơ quan có thẩm quyền giải quyết.
 
+Cán bộ trực ban hình sự phải thực hiện theo đúng điều lệnh Công an nhân dân có thái độ tôn trọng, lịch sự, đúng mực, lắng nghe, tận tâm giải quyết những yêu cầu chính đáng; không né tránh, đùn đẩy trách nhiệm, không được có thái độ cửa quyền, ban ơn hoặc sách nhiễu cơ quan, tổ chức, cá nhân.
 
-### Điều 44.13.TT.11.6. Những việc Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra không được làm
+4. Tại trụ sở trực ban hình sự phải có hòm thư góp ý để tiếp nhận ý kiến góp ý của công dân; hòm thư góp ý phải để nơi dễ quan sát. Cán bộ trực ban hình sự phải thường xuyên kiểm tra hòm thư để kịp thời báo cáo cấp có thẩm quyền xem xét, giải quyết.
 
 Điều 44.13.TT.11.6. Những việc Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra không được làm
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260000600
+ 1. Điều tra viên, Cán bộ điều tra không được làm những việc quy định tại Điều 54 Luật Tổ chức cơ quan điều tra hình sự năm 2015.
 
-**ID:** dk_00072318
+ 2. Trong quá trình thực hiện nhiệm vụ, Điều tra viên, Cán bộ điều tra không được làm những việc sau đây:
 
----
+ a) Tự ý tiếp nhận, giải quyết nguồn tin về tội phạm và đơn thư khiếu nại, tố cáo trái quy định hoặc không được Thủ trưởng, Phó thủ trưởng Cơ quan điều tra phân công; tự ý tiến hành các hoạt động điều tra không theo kế hoạch điều tra đã được Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra phê duyệt;
 
+ b) Thêm, bớt, sửa đổi, đánh tráo, hủy hoặc làm hư hỏng tài liệu, đồ vật, vật chứng của vụ việc, vụ án hoặc bằng các phương thức khác làm sai lệch nội dung vụ việc vụ án;
 
-### Điều 44.13.TT.11.7. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của Thủ trưởng, Phó thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra
+ c) Tiếp người bị buộc tội, người thân thích của người bị buộc tội, đương sự hoặc người tham gia tố tụng khác ngoài trụ sở cơ quan Công an, trừ trường hợp do yêu cầu nghiệp vụ phải được sự đồng ý của Thủ trưởng hoặc Phó Thủ trưởng Cơ quan điều tra;
 
-Điều 44.13.TT.11.7. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của Thủ trưởng, Phó thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra
+ d) Ăn uống, nhận tiền, tài sản hoặc lợi ích khác của người bị buộc tội, người thân thích của người bị buộc tội, đương sự hoặc người tham gia tố tụng khác.
 
-**Chỉ mục:** 7
+ đ) Lợi dụng danh nghĩa công tác để gặp gỡ, nhờ, sách nhiễu hoặc cầu lợi dưới bất kỳ hình thức nào đối với người bị buộc tội, người thân thích của người bị buộc tội, đương sự, người tham gia tố tụng khác và các cơ quan, tổ chức có liên quan;
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260000700
+ e) Bức cung, mớm cung hoặc dùng nhục hình dưới bất kỳ hình thức nào;
 
-**ID:** dk_00072319
+ g) Tiết lộ bí mật, thông tin, tài liệu vụ án, vụ việc đang được điều tra, xác minh khi chưa được phép công khai với người không có trách nhiệm dưới bất kỳ hình thức nào. Trường hợp cần cung cấp thông tin phải báo cáo và được sự đồng ý bằng văn bản của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra.
 
----
+ h) Cho người đang bị tạm giữ, tạm giam sử dụng điện thoại hoặc các phương tiện thông tin khác để liên lạc, trao đổi với người khác (kể cả trong và ngoài khu vực Trại tạm giam, Nhà tạm giữ); trừ trường hợp đặc biệt để phục vụ yêu cầu điều tra vụ án phải được sự đồng ý bằng văn bản của Thủ trưởng hoặc Phó thủ trưởng Cơ quan điều tra đang thụ lý vụ án, vụ việc.
 
+ i) Gây phiền hà để người tham gia tố tụng hoặc công dân phải chờ đợi, đi lại nhiều lần;
 
-### Điều 44.13.TT.11.8. Bảo đảm thực hiện dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
+ 3. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra không được làm những việc quy định tại các điểm b, d, đ, e và i khoản 2 Điều này.Điều 44.13.TT.11.7. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của Thủ trưởng, Phó thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra
 
-Điều 44.13.TT.11.8. Bảo đảm thực hiện dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
+(Điều 7 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Chỉ mục:** 8
+ 1. Khi tiến hành các hoạt động điều tra, Thủ trưởng, Phó thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra được phân công điều tra phải thực hiện đúng thẩm quyền và trách nhiệm được phân công theo quy định của pháp luật; phải giải thích cho người tham gia tố tụng biết quyền, nghĩa vụ của họ và bảo đảm cho họ được thực hiện các quyền của mình theo quy định của pháp luật; việc giải thích phải được ghi vào biên bản.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260000800
+ 2. Đối với các trường hợp giữ người trong trường hợp khẩn cấp, bắt người thì người ra lệnh giữ người, lệnh bắt người phải thông báo cho gia đình người bị giữ, người bị bắt, chính quyền xã, phường, thị trấn nơi người đó cư trú hoặc cơ quan, tổ chức nơi người đó làm việc, học tập biết; trường hợp người bị giữ, người bị bắt là công dân nước ngoài thì phải thông báo cho cơ quan ngoại giao của Việt Nam để thông báo cho cơ quan đại diện ngoại giao của nước có công dân bị giữ, bị bắt. Nếu việc thông báo cản trở việc truy bắt đối tượng khác hoặc cản trở hoạt động điều tra thì được tạm thời ngừng việc thông báo nhưng sau khi cản trở đó không còn, người ra lệnh giữ người, lệnh bắt người, Cơ quan điều tra nhận người bị giữ, người bị bắt phải thông báo ngay.
 
-**ID:** dk_00072320
+ 3. Trong mọi trường hợp, khi tiến hành khám xét, thu giữ, tạm giữ, kê biên tài sản, phong tỏa tài khoản, xử lý tài liệu, đồ vật, vật chứng, Cơ quan điều tra phải thực hiện đúng quy định của pháp luật. Điều tra viên có trách nhiệm giải thích cho đối tượng bị khám xét, thu giữ, tạm giữ, kê biên tài sản, phong tỏa tài khoản, chủ sở hữu hoặc người quản lý hợp pháp trong vụ việc, vụ án biết về các quy định của pháp luật đối với hoạt động đang thực hiện; việc giải thích trên phải được ghi vào biên bản.
 
----
+ 4. Thủ trưởng, Phó Thủ trưởng, Điều tra viên, Cán bộ điều tra của Cơ quan điều tra có trách nhiệm bảo đảm quyền bào chữa của người bị giữ trong trường hợp khẩn cấp, người bị buộc tội; bảo đảm quyền và lợi ích hợp pháp của bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố; thực hiện trình tự, thủ tục tố tụng thân thiện với người bị buộc tội, người bị hại, người làm chứng là người dưới 18 tuổi theo quy định của pháp luật.
 
+ 5. Ý kiến chỉ đạo của Thủ trưởng hoặc Phó Thủ trưởng Cơ quan điều tra đối với các hành vi tố tụng hoặc quan điểm điều tra, xử lý tội phạm phải thể hiện bằng văn bản. Trường hợp chỉ đạo trực tiếp bằng lời nói thì Điều tra viên phải ghi lại cụ thể, rõ ràng nội dung ý kiến đó bằng văn bản và có xác nhận của Thủ trưởng hoặc Phó Thủ trưởng Cơ quan điều tra đã cho ý kiến, đưa vào hồ sơ lưu của vụ án (AK), vụ việc (AĐ).
 
-### Điều 44.13.TT.11.9. Những việc cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra không được làm
+ Trường hợp Điều tra viên chưa nhất trí với ý kiến chỉ đạo của Phó Thủ trưởng Cơ quan điều tra thì có quyền tiếp tục đề xuất hoặc kiến nghị lại; nếu Phó Thủ trưởng Cơ quan điều tra không nhất trí với ý kiến đề xuất, kiến nghị đó thì Điều tra viên vẫn phải nghiêm túc chấp hành, nhưng có quyền bảo lưu ý kiến của mình, đồng thời kiến nghị với Thủ trưởng Cơ quan điều tra về ý kiến của mình và phải chịu trách nhiệm về nội dung kiến nghị đó. Nếu Thủ trưởng Cơ quan điều tra đồng ý thì thực hiện theo ý kiến chỉ đạo của Thủ trưởng Cơ quan điều tra.
+
+ Trường hợp chưa nhất trí với ý kiến chỉ đạo của Thủ trưởng Cơ quan điều tra thì Điều tra viên có quyền tiếp tục đề xuất hoặc kiến nghị lại; nếu Thủ trưởng Cơ quan điều tra không nhất trí với ý kiến đề xuất, kiến nghị đó thì Điều tra viên vẫn phải nghiêm túc chấp hành, nhưng có quyền bảo lưu ý kiến của mình, đồng thời kiến nghị với cấp trên trực tiếp của Thủ trưởng Cơ quan điều tra và phải chịu trách nhiệm về nội dung kiến nghị đó.
+
+ Mục 2
+ TRÁCH NHIỆM CỦA CÁC CƠ QUAN CỦA CÔNG AN NHÂN DÂN ĐƯỢC GIAO NHIỆM VỤ TIẾN HÀNH MỘT SỐ HOẠT ĐỘNG 
+ ĐIỀU TRA, CÔNG AN XÃ, PHƯỜNG, THỊ TRẤN, 
+ ĐỒN CÔNG AN, TRẠM CÔNG ANĐiều 44.13.TT.11.8. Bảo đảm thực hiện dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
+
+(Điều 8 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
+
+1. Các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra phải bố trí cán bộ trực để tiếp nhận tố giác, tin báo về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự.
+
+2. Khi tiếp nhận, giải quyết nguồn tin về tội phạm (kể cả khi tự phát hiện dấu hiệu của tội phạm), nếu có căn cứ xác định tố giác, tin báo về tội phạm không thuộc thẩm quyền giải quyết của cơ quan mình thì trong thời hạn 24 giờ kể từ khi có căn cứ xác định, các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm chuyển ngay đến Cơ quan điều tra có thẩm quyền theo quy định của pháp luật. Trường hợp tố giác, tin báo về tội phạm thuộc thẩm quyền xác minh, khởi tố, điều tra của cơ quan mình thì ra Quyết định phân công giải quyết hoặc Quyết định khởi tố vụ án hình sự, đồng thời, thông báo kết quả tiếp nhận, giải quyết cho cơ quan, tổ chức, cá nhân đã báo tin, tố giác tội phạm biết theo quy định của pháp luật.
+
+3. Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an có trách nhiệm tiếp nhận tố giác, tin báo về tội phạm. Trường hợp khẩn cấp, cấp bách, cần ngăn chặn ngay tội phạm, thu thập chứng cứ, bảo vệ hiện trường thì Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an phải báo ngay đến Cơ quan điều tra có thẩm quyền bằng hình thức liên lạc nhanh nhất và thực hiện các biện pháp giải quyết kịp thời theo quy định của pháp luật.
 
 Điều 44.13.TT.11.9. Những việc cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra không được làm
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260000900
+1. Cấp trưởng, cấp phó và cán bộ điều tra được phân công điều tra không được làm những việc quy định tại Điều 54 Luật Tổ chức cơ quan điều tra hình sự năm 2015.
 
-**ID:** dk_00072321
-
----
-
-
-### Điều 44.13.TT.11.10. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+2. Trong quá trình thực hiện nhiệm vụ, cán bộ điều tra không được làm những việc quy định tại các điểm a, b, c, d, đ, e, g, i khoản 2 Điều 6; cấp trưởng, cấp phó không được làm những việc quy định tại các điểm b, d, đ, e và i khoản 2 Điều 6 Thông tư này.
 
 Điều 44.13.TT.11.10. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260001000
+1. Khi tiến hành tố tụng hình sự, cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra phải nghiêm chỉnh chấp hành các quy định sau:
 
-**ID:** dk_00072322
+a) Thực hiện đúng thẩm quyền và trách nhiệm được phân công theo quy định của pháp luật; phải giải thích cho người tham gia tố tụng biết quyền, nghĩa vụ của họ và bảo đảm cho họ được thực hiện các quyền của mình theo quy định của pháp luật; việc giải thích phải được ghi vào biên bản;
 
----
+b) Ý kiến chỉ đạo của cấp trưởng, cấp phó đối với các hành vi tố tụng hoặc quan điểm điều tra, xử lý tội phạm phải được thể hiện bằng văn bản. Trường hợp chỉ đạo trực tiếp bằng lời nói thì cán bộ điều tra phải ghi lại cụ thể, rõ ràng nội dung ý kiến đó bằng văn bản và có xác nhận của cấp trưởng hoặc cấp phó đã cho ý kiến, đưa vào hồ sơ lưu của vụ án (AK), vụ việc (AĐ).
 
+Trường hợp cán bộ điều tra chưa nhất trí với ý kiến chỉ đạo của cấp phó thì có quyền tiếp tục đề xuất hoặc kiến nghị lại; nếu cấp phó không nhất trí với ý kiến đề xuất, kiến nghị đó thì cán bộ điều tra vẫn phải nghiêm túc chấp hành, nhưng có quyền bảo lưu ý kiến của mình, đồng thời kiến nghị với cấp trưởng về ý kiến của mình và phải chịu trách nhiệm về nội dung kiến nghị đó. Nếu cấp trưởng đồng ý thì thực hiện theo ý kiến chỉ đạo của cấp trưởng.
 
-### Điều 44.13.TT.11.11. Những việc cán bộ, chiến sĩ Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an không được làm khi tiến hành tiếp nhận tố giác, tin báo về tội phạm
+Trường hợp chưa nhất trí với ý kiến chỉ đạo của cấp trưởng thì cán bộ điều tra có quyền tiếp tục đề xuất hoặc kiến nghị lại; nếu cấp trưởng không nhất trí với ý kiến đề xuất, kiến nghị đó thì cán bộ điều tra vẫn phải nghiêm túc chấp hành, nhưng có quyền bảo lưu ý kiến của mình, đồng thời kiến nghị với cấp trên trực tiếp của cấp trưởng và phải chịu trách nhiệm về nội dung kiến nghị đó.
+
+2. Trong mọi trường hợp, khi tiến hành khám xét, thu giữ, tạm giữ và bảo quản tài liệu, đồ vật, vật chứng liên quan đến vụ việc, vụ án phải thực hiện theo quy định của pháp luật. Cán bộ điều tra có trách nhiệm giải thích cho đối tượng bị khám xét, thu giữ, tạm giữ biết về các quy định này; việc giải thích phải được ghi vào biên bản.
 
 Điều 44.13.TT.11.11. Những việc cán bộ, chiến sĩ Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an không được làm khi tiến hành tiếp nhận tố giác, tin báo về tội phạm
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260001100
+1. Những việc mà pháp luật quy định cán bộ, công chức hoặc cán bộ, chiến sĩ lực lượng vũ trang nhân dân không được làm;
 
-**ID:** dk_00072323
+2. Nhận đơn, thư và giải quyết công việc cho công dân tại nhà riêng hoặc bất cứ nơi nào ngoài trụ sở cơ quan Công an, trừ trường hợp cấp bách công dân đến báo tin về tội phạm; đồng thời phải báo cáo ngay với lãnh đạo trực tiếp biết;
 
----
+3. Sách nhiễu hoặc cầu lợi dưới bất kỳ hình thức nào đối với người tham gia tố tụng, người thân thích của họ và cơ quan, tổ chức, cá nhân có liên quan;
 
+4. Tư vấn cho người bị buộc tội, người thân thích của người bị buộc tội, đương sự hoặc người tham gia tố tụng khác trái pháp luật;
 
-### Điều 44.13.TT.11.12. Những việc cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ tham gia khi Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra tiến hành tố tụng
+5. Can thiệp trái pháp luật vào việc giải quyết vụ án, vụ việc hoặc lợi dụng ảnh hưởng của mình tác động đến người có trách nhiệm giải quyết vụ án, vụ việc;
+
+6. Đưa hồ sơ, tài liệu vụ việc ra khỏi cơ quan nếu không vì nhiệm vụ được giao hoặc không được sự đồng ý của người có thẩm quyền.
+
+Mục 3.
+
+BẢO ĐẢM QUYỀN, NGHĨA VỤ CỦA NGƯỜI THAM GIA TỐ TỤNG, CƠ QUAN, TỔ CHỨC, CÁ NHÂN
 
 Điều 44.13.TT.11.12. Những việc cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ tham gia khi Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra tiến hành tố tụng
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260001200
+1. Phát hiện, tố giác, báo tin về tội phạm và cung cấp thông tin, tài liệu có liên quan đến vụ án, vụ việc do Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra giải quyết.
 
-**ID:** dk_00072324
+2. Bắt người phạm tội quả tang, người đang bị truy nã theo quy định của pháp luật.
 
----
+3. Phát hiện nguyên nhân, điều kiện phát sinh tội phạm và kiến nghị những biện pháp phòng ngừa, khắc phục.
 
+4. Đóng góp ý kiến để xây dựng Cơ quan điều tra và cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra hoạt động hiệu lực, hiệu quả.
 
-### Điều 44.13.TT.11.13. Bảo đảm thực hiện dân chủ đối với việc giải quyết khiếu nại, tố cáo trong tố tụng hình sự
+5. Thông báo ngay cho Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra biết hành vi phạm tội xảy ra trong cơ quan và trong lĩnh vực quản lý của mình; có quyền kiến nghị và gửi tài liệu có liên quan cho Cơ quan điều tra để xem xét khởi tố đối với người thực hiện hành vi phạm tội; có trách nhiệm thực hiện yêu cầu và tạo điều kiện để Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện nhiệm vụ điều tra.
+
+6. Cơ quan, tổ chức, cá nhân phải nghiêm chỉnh thực hiện quyết định, yêu cầu của Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra trong việc giải quyết nguồn tin về tội phạm, điều tra vụ án hình sự và giải quyết khiếu nại, tố cáo trong tố tụng hình sự.
 
 Điều 44.13.TT.11.13. Bảo đảm thực hiện dân chủ đối với việc giải quyết khiếu nại, tố cáo trong tố tụng hình sự
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260001300
+1. Cơ quan, tổ chức, cá nhân có quyền khiếu nại, tố cáo về quyết định, hành vi vi phạm pháp luật của Thủ trưởng, Phó thủ trưởng, Điều tra viên và Cán bộ điều tra của Cơ quan điều tra; cấp trưởng, cấp phó và cán bộ điều tra các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra theo quy định của pháp luật;
 
-**ID:** dk_00072325
-
----
-
-
-### Điều 44.13.TT.11.14. Giải quyết bồi thường trong hoạt động điều tra
+2. Thủ trưởng Cơ quan điều tra, cấp trưởng cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm giải quyết kịp thời, đúng pháp luật và gửi văn bản giải quyết khiếu nại, tố cáo cho người khiếu nại, người tố cáo; xử lý nghiêm người có hành vi vi phạm pháp luật; áp dụng biện pháp bảo vệ người tố, cáo khi có yêu cầu; bảo đảm quyết định giải quyết khiếu nại, tố cáo được nghiêm chỉnh thi hành và phải chịu trách nhiệm trước pháp luật về quyết định giải quyết của mình; nếu gây thiệt hại thì phải bồi thường thiệt hại, bồi hoàn theo quy định của pháp luật.
 
 Điều 44.13.TT.11.14. Giải quyết bồi thường trong hoạt động điều tra
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802748401260001400
+Trong mọi trường hợp công dân bị khởi tố bị can, bị bắt, giữ, tạm giữ, tạm giam, bị khám xét, thu giữ, tạm giữ đồ vật, tài liệu, kê biên tài sản, phong tỏa tài khoản trái pháp luật đều phải được phục hồi về danh dự, quyền và lợi ích hợp pháp cũng như được bồi thường về vật chất, tinh thần theo quy định của Luật Trách nhiệm bồi thường của Nhà nước.
 
-**ID:** dk_00072326
-
----
-
-
-### Điều 44.13.TT.12.4. Nội dung công khai trong tuyển sinh vào Công an nhân dân
+Thủ trưởng, Phó Thủ trưởng, Điều tra viên, Cán bộ điều tra của Cơ quan điều tra; cấp trưởng, cấp phó, cán bộ điều tra các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra ra quyết định, có hành vi tố tụng trái pháp luật bị xem xét, xử lý theo quy định của pháp luật.
 
 Điều 44.13.TT.12.4. Nội dung công khai trong tuyển sinh vào Công an nhân dân
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440000400
+ 1. Quy định về chỉ tiêu, đối tượng, điều kiện, tiêu chuẩn dự tuyển, phương thức tuyển sinh, ngành, chuyên ngành đào tạo, các môn thi tuyển sinh, ngưỡng đảm bảo chất lượng đầu vào, thủ tục hồ sơ, mức thu dịch vụ tuyển sinh đối với các trình độ, loại hình đào tạo của các trường Công an nhân dân.
 
-**ID:** dk_00072327
+ 2. Thời gian, địa điểm tiếp nhận hồ sơ, thời gian thi tuyển, xét tuyển, địa điểm thi tuyển, xét tuyển, thời gian chiêu sinh, nhập học, thông tin cán bộ tuyển sinh.
 
----
+ 3. Kết quả sơ tuyển, phúc tra sơ tuyển, điểm thi, điểm phúc khảo, điểm xét tuyển cho thí sinh; kết quả xét tuyển và thí sinh trúng tuyển (theo số báo danh).
 
+ 4. Các nội dung khác (nếu có) theo quy định của pháp luật và của Bộ Công an.Điều 44.13.TT.12.5. Hình thức công khai
 
-### Điều 44.13.TT.12.5. Hình thức công khai
+(Điều 5 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-*Nội dung chưa có sẵn*
+ 1. Căn cứ đặc điểm, tính chất, độ mật, nội dung phải công khai, Công an các đơn vị, địa phương, các trường Công an nhân dân sử dụng một, một số hoặc tất cả các hình thức công khai sau đây:
 
-**Chỉ mục:** 5
+ a) Đăng tải trên Trang thông tin điện tử của Công an các đơn vị, địa phương, các trường Công an nhân dân (nếu có);
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440000500
+ b) Đăng tải trên các phương tiện thông tin đại chúng như báo nói, báo viết, báo hình, báo điện tử;
 
-**ID:** dk_00072328
+ c) Thông báo bằng văn bản hành chính;
 
----
+ d) Thông báo tại hội nghị cán bộ chủ chốt; hội nghị, giao ban đơn vị;
 
+ đ) Niêm yết tại trụ sở Công an các đơn vị, địa phương (từ cấp huyện trở lên), các trường Công an nhân dân;
 
-### Điều 44.13.TT.12.6. Thực hiện dân chủ trong sơ tuyển tuyển sinh
+ e) Trực tiếp thông tin cho cán bộ, chiến sĩ, công dân tham gia tuyển sinh và công dân cư trú trên địa bàn;
 
-Điều 44.13.TT.12.6. Thực hiện dân chủ trong sơ tuyển tuyển sinh
+ g) Các hình thức khác theo quy định của pháp luật.
 
-**Chỉ mục:** 6
+ 2. Thông tin về tuyển sinh vào Công an nhân dân được thông báo theo các hình thức quy định tại khoản 1 Điều này ít nhất 30 ngày trước ngày tiếp nhận hồ sơ đăng ký dự tuyển.Điều 44.13.TT.12.6. Thực hiện dân chủ trong sơ tuyển tuyển sinh
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440000600
+(Điều 6 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**ID:** dk_00072329
+ 1. Sơ tuyển tuyển sinh vào Công an nhân dân gồm: tiếp nhận đăng ký dự tuyển; kiểm tra học lực, hạnh kiểm, phẩm chất đạo đức; kiểm tra sức khỏe; kiểm tra năng khiếu, các khả năng khác và thẩm tra, xác minh, kết luận tiêu chuẩn chính trị hoặc xác minh sơ bộ lý lịch, hoàn thiện hồ sơ dự tuyển nộp về các trường Công an nhân dân theo quy định về tuyển sinh của Bộ Công an.
 
----
+ 2. Công an đơn vị, địa phương thành lập Hội đồng sơ tuyển tuyển sinh và các ban chuyên môn (nếu cần thiết) theo thẩm quyền.
 
+ Những người có con, vợ hoặc chồng, bố, mẹ, anh, chị, em ruột, người nuôi dưỡng của mình hoặc của vợ hoặc chồng dự tuyển thì không được tham gia Hội đồng sơ tuyển và các ban chuyên môn.
 
-### Điều 44.13.TT.12.7. Thực hiện dân chủ trong thi tuyển, xét tuyển
+ 3. Hội đồng sơ tuyển bảo đảm đúng, đủ thành phần theo quy định của Bộ Công an, làm việc công khai, dân chủ và quyết định theo đa số.
 
-Điều 44.13.TT.12.7. Thực hiện dân chủ trong thi tuyển, xét tuyển
+ 4. Công khai cho người dự tuyển biết kết quả sơ tuyển, tiếp nhận đề nghị phúc tra kết quả sơ tuyển của người dự tuyển và tổ chức phúc tra sơ tuyển, thông báo lại kết quả cho người dự tuyển.
 
-**Chỉ mục:** 7
+ 5. Công an các đơn vị, địa phương cấp giấy chứng nhận sơ tuyển theo mẫu quy định của Bộ Công an cho người dự tuyển đạt sơ tuyển.Điều 44.13.TT.12.7. Thực hiện dân chủ trong thi tuyển, xét tuyển
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440000700
+(Điều 7 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**ID:** dk_00072330
+ 1. Các trường Công an nhân dân thành lập Hội đồng tuyển sinh và các ban chuyên môn theo thẩm quyền để thực hiện công tác tuyển sinh theo quy định của pháp luật và của Bộ Công an.
 
----
+ Những người có con, vợ hoặc chồng, bố, mẹ, anh, chị, em ruột, người nuôi dưỡng của mình hoặc của vợ hoặc chồng dự tuyển thì không được tham gia Hội đồng tuyển sinh và các ban chuyên môn.
 
+ 2. Các trường Công an nhân dân tổ chức tiếp nhận hồ sơ dự tuyển, thi tuyển, xét tuyển phải bảo đảm đúng đối tượng, tiêu chuẩn, vùng tuyển, trình tự, thủ tục, thời gian; bảo đảm khách quan, công khai, minh bạch theo đúng quy chế, quy định.
 
-### Điều 44.13.TT.12.8. Trách nhiệm của thủ trưởng đơn vị trực tiếp tổ chức hoạt động tuyển sinh vào Công an nhân dân
+ 3. Tại các điểm tổ chức thi tuyển, xét tuyển phải có hòm thư, số điện thoại liên hệ để thí sinh góp ý về công tác tuyển sinh, phản ánh những hành vi vi phạm quy chế tuyển sinh.
 
-Điều 44.13.TT.12.8. Trách nhiệm của thủ trưởng đơn vị trực tiếp tổ chức hoạt động tuyển sinh vào Công an nhân dân
+ 4. Hội đồng tuyển sinh có trách nhiệm xử lý nghiêm minh, khách quan đối với cán bộ và thí sinh vi phạm quy chế tuyển sinh; thực hiện nghiêm chế độ bảo mật về địa điểm, thời gian, nhân sự tham gia công việc về đề thi, bảo quản bài thi, công tác làm phách, chấm thi, chấm phúc khảo theo đúng quy chế tuyển sinh. Kết quả chấm thi, chấm phúc khảo phải được niêm yết công khai tại trường Công an nhân dân hoặc trên trang thông tin điện tử của trường Công an nhân dân và gửi phiếu báo điểm thi, điểm phúc khảo đến thí sinh đúng thời gian quy định.
 
-**Chỉ mục:** 8
+ 5. Hội đồng tuyển sinh quyết định phương án điểm xét tuyển; thông báo công khai điểm thi, điểm xét tuyển, kết quả xét tuyển và thí sinh trúng tuyển (theo số báo danh dự thi) và gửi danh sách thí sinh trúng tuyển về Công an đơn vị, địa phương để phối hợp thông báo cho thí sinh theo quy định của pháp luật và của Bộ Công an.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440000800
+ 6. Các trường Công an nhân dân gửi thông báo thí sinh trúng tuyển nhập học và quy định những thủ tục cần thiết đối với thí sinh khi nhập học, tiếp nhận nhập học cho thí sinh trúng tuyển trong thời gian quy định.Điều 44.13.TT.12.8. Trách nhiệm của thủ trưởng đơn vị trực tiếp tổ chức hoạt động tuyển sinh vào Công an nhân dân
 
-**ID:** dk_00072331
+(Điều 8 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
----
+ 1. Ban hành và công khai quy định, quy chế, quy trình tổ chức hoạt động tuyển sinh của đơn vị; phân công nhiệm vụ đối với cấp phó theo năng lực, sở trường, kinh nghiệm công tác trong lĩnh vực phụ trách và hướng dẫn của cấp có thẩm quyền (nếu có).
 
+ 2. Thực hiện đúng các quy định, quy chế, quy trình công tác tuyển sinh và đề cao trách nhiệm nêu gương của người đứng đầu đơn vị.
 
-### Điều 44.13.TT.12.9. Trách nhiệm của cán bộ, chiến sĩ Công an nhân dân
+ 3. Lắng nghe ý kiến phản ánh, góp ý, phê bình của cán bộ, chiến sĩ và công dân. Khi cán bộ, chiến sĩ và công dân đăng ký gặp và có nội dung, lý do hợp lý thì bố trí thời gian thích hợp để gặp. Trường hợp có sự thay đổi lịch tiếp, làm việc vì lý do đột xuất thì phải thông báo và bố trí lịch tiếp, làm việc vào thời điểm khác.
 
-Điều 44.13.TT.12.9. Trách nhiệm của cán bộ, chiến sĩ Công an nhân dân
+ 4. Thực hiện các biện pháp phòng ngừa, phát hiện, ngăn chặn hành vi tham nhũng, sách nhiễu, gây phiền hà cho cán bộ, chiến sĩ và công dân có nguyện vọng tham gia hoặc liên quan đến tuyển sinh vào Công an nhân dân; xử lý và tạo điều kiện cho cơ quan, tổ chức có thẩm quyền xử lý người có hành vi nêu trên.
 
-**Chỉ mục:** 9
+ 5. Kịp thời xử lý người có hành vi cản trở việc thực hiện dân chủ trong tuyển sinh vào Công an nhân dân và người có hành vi trả thù, trù dập cán bộ, chiến sĩ, công dân khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp luật.Điều 44.13.TT.12.9. Trách nhiệm của cán bộ, chiến sĩ Công an nhân dân
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440000900
+(Điều 9 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**ID:** dk_00072332
+ 1. Cán bộ, chiến sĩ khi thực hiện các quy định về dân chủ trong tuyển sinh vào Công an nhân dân cần nêu cao ý thức, tinh thần trách nhiệm, chấp hành nghiêm các quy định của pháp luật, của Bộ Công an và quy chế làm việc của đơn vị; được quyền hỏi, tìm hiểu những thông tin có liên quan đến tuyển sinh vào Công an nhân dân (trừ các thông tin thuộc Danh mục bí mật nhà nước); chịu trách nhiệm về các ý kiến tham gia, giám sát, kiểm tra của bản thân; không sử dụng việc thực hiện dân chủ để đưa thông tin, ý kiến không đúng đắn, bè phái, thiếu khách quan gây ảnh hưởng đến sự đoàn kết, thống nhất trong đơn vị; nghiêm cấm hành vi tặng tiền, tài sản hoặc lợi ích khác khi giải quyết công việc về tuyển sinh vào Công an nhân dân.
 
----
+ 2. Đối với cán bộ trực tiếp thực hiện công tác tuyển sinh
 
+ a) Chấp hành nghiêm quy chế, lề lối làm việc, điều lệnh Công an nhân dân và quy định của Bộ trưởng Bộ Công an về quy tắc ứng xử của Công an nhân dân;
 
-### Điều 44.13.TT.12.10. Trách nhiệm của công dân
+ b) Phải chịu trách nhiệm về tính đúng đắn của các văn bản do mình soạn thảo và kết quả giải quyết công việc được giao;
 
-*Nội dung chưa có sẵn*
+ c) Nghiêm cấm việc lợi dụng chức trách, nhiệm vụ công tác của mình để nhũng nhiễu, gây phiền hà cho cán bộ, chiến sĩ và công dân có liên quan. Nghiêm cấm hành vi nhận tiền, tài sản hoặc lợi ích khác khi giải quyết công việc về tuyển sinh vào Công an nhân dân.Điều 44.13.TT.12.10. Trách nhiệm của công dân
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440001000
+ Công dân tham gia tuyển sinh hoặc có liên quan đến tuyển sinh vào Công an nhân dân có trách nhiệm thực hiện các quy định tại Thông tư này; được quyền hỏi, tìm hiểu những thông tin có liên quan đến tuyển sinh vào Công an nhân dân (trừ các thông tin thuộc Danh mục bí mật nhà nước); chịu trách nhiệm về các ý kiến tham gia, giám sát, kiểm tra của bản thân; không sử dụng việc thực hiện dân chủ để đưa thông tin, ý kiến không đúng đắn, thiếu khách quan gây ảnh hưởng đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân thực hiện tuyển sinh vào Công an nhân dân; nghiêm cấm hành vi tặng tiền, tài sản hoặc lợi ích khác khi giải quyết công việc về tuyển sinh vào Công an nhân dân.Điều 44.13.TT.12.11. Giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh trong tuyển sinh
 
-**ID:** dk_00072333
+(Điều 11 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
----
+ 1. Cán bộ, chiến sĩ Công an nhân dân và công dân có quyền khiếu nại, tố cáo, kiến nghị, phản ánh khi phát hiện những sai phạm trong tuyển sinh vào Công an nhân dân. Đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh về tuyển sinh vào Công an nhân dân gửi đến Công an các đơn vị, địa phương, các trường Công an nhân dân phải được Thủ trưởng đơn vị tiếp nhận, xem xét, xử lý, giải quyết kịp thời và trả lời theo quy định của pháp luật. Trường hợp cần thiết, báo cáo cơ quan có thẩm quyền để giải quyết theo quy định của pháp luật và của Bộ Công an. Các sai sót về công tác tuyển sinh của Công an đơn vị, địa phương, trường Công an nhân dân phải được giải quyết, xử lý, khắc phục kịp thời để bảo đảm quyền, lợi ích cho cán bộ, chiến sĩ và công dân tham gia tuyển sinh.
 
+ 2. Trường hợp đã xác minh có kết luận người dự thi, dự tuyển vi phạm các quy định, không bảo đảm các điều kiện, tiêu chuẩn thì căn cứ quy định hiện hành, đơn vị tuyển sinh xem xét ra quyết định hủy bỏ quyết định đã tuyển sinh theo thẩm quyền và báo cáo Cục Đào tạo, đồng thời xử lý kỷ luật nghiêm đối với cán bộ, chiến sĩ có sai phạm trong công tác tuyển sinh theo đúng quy chế, quy định và thông báo công khai trong nội bộ Công an các đơn vị, địa phương, các trường Công an nhân dân.Điều 44.13.TT.13.4. Nội dung lấy ý kiến trong tập thể lãnh đạo cơ quan thanh tra trước khi trình cấp có thẩm quyền phê duyệt hoặc quyết định
 
-### Điều 44.13.TT.12.11. Giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh trong tuyển sinh
+(Điều 4 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-Điều 44.13.TT.12.11. Giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh trong tuyển sinh
+ 1. Kế hoạch công tác thanh tra hằng năm; việc sửa đổi, bổ sung kế hoạch công tác thanh tra hằng năm.
 
-**Chỉ mục:** 11
+ 2. Báo cáo kết quả công tác thanh tra định kỳ (6 tháng, 1 năm).
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802763100440001100
+ 3. Các báo cáo sơ kết, tổng kết công tác thanh tra.
 
-**ID:** dk_00072334
+ 4. Việc lấy ý kiến được thực hiện thông qua tổ chức hội nghị của cơ quan hoặc gửi văn bản để lãnh đạo cơ quan thanh tra, cơ quan thực hiện chức năng thanh tra tham gia ý kiến.
 
----
+ 5. Thủ trưởng cơ quan thanh tra có trách nhiệm tổ chức thực hiện các quy định tại khoản 1, 2, 3, 4 Điều này theo đúng quy định của pháp luật.Điều 44.13.TT.13.5. Nội dung, hình thức lấy ý kiến tập thể trong Đoàn thanh tra
 
+(Điều 5 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-### Điều 44.13.TT.13.4. Nội dung lấy ý kiến trong tập thể lãnh đạo cơ quan thanh tra trước khi trình cấp có thẩm quyền phê duyệt hoặc quyết định
+ 1. Nội dung lấy ý kiến tập thể trong Đoàn thanh tra.
 
-Điều 44.13.TT.13.4. Nội dung lấy ý kiến trong tập thể lãnh đạo cơ quan thanh tra trước khi trình cấp có thẩm quyền phê duyệt hoặc quyết định
+ a) Dự thảo kế hoạch thanh tra; nội dung sửa đổi, bổ sung kế hoạch thanh tra.
 
-**Chỉ mục:** 4
+ b) Đề cương nội dung yêu cầu đối tượng thanh tra báo cáo; nội dung yêu cầu đối tượng thanh tra giải trình, báo cáo bổ sung (nếu có).
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170000400
+ c) Việc áp dụng biện pháp xử lý đối với đối tượng thanh tra trong quá trình thanh tra và huỷ bỏ biện pháp xử lý khi xét thấy không còn cần thiết.
 
-**ID:** dk_00072335
+ d) Dự thảo biên bản ghi nhận kết quả thanh tra, dự thảo báo cáo kết quả thanh tra, dự thảo kết luận thanh tra.
 
----
+ 2. Hình thức lấy ý kiến trong Đoàn thanh tra.
 
+ Việc lấy ý kiến được thực hiện thông qua họp Đoàn thanh tra hoặc gửi văn bản để thành viên tham gia ý kiến. Đoàn thanh tra lấy ý kiến công khai, dân chủ các vấn đề khác liên quan đến cuộc thanh tra do Trưởng đoàn quyết định.
 
-### Điều 44.13.TT.13.5. Nội dung, hình thức lấy ý kiến tập thể trong Đoàn thanh tra
+ 3. Trường hợp có ý kiến khác nhau giữa các thành viên thì Trưởng đoàn quyết định, chịu trách nhiệm trước pháp luật và người ra Quyết định thanh tra, trường hợp có ý kiến khác nhau giữa thành viên và Trưởng đoàn thì báo cáo người ra Quyết định thanh tra quyết định.Điều 44.13.TT.13.6. Nội dung và hình thức thông báo với đối tượng thanh tra
 
-Điều 44.13.TT.13.5. Nội dung, hình thức lấy ý kiến tập thể trong Đoàn thanh tra
+(Điều 6 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**Chỉ mục:** 5
+ 1. Nội dung thông báo với đối tượng thanh tra.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170000500
+ a) Quyết định thanh tra.
 
-**ID:** dk_00072336
+ b) Quyền và nghĩa vụ của đối tượng thanh tra, theo quy định của pháp luật.
 
----
+ c) Thời gian, địa điểm, nội dung làm việc với đối tượng thanh tra, cơ quan, tổ chức, cá nhân liên quan đến cuộc thanh tra.
 
+ d) Đề cương yêu cầu đối tượng thanh tra báo cáo; nội dung yêu cầu giải trình, báo cáo bổ sung (nếu có).
 
-### Điều 44.13.TT.13.6. Nội dung và hình thức thông báo với đối tượng thanh tra
+ đ) Các biện pháp xử lý và quyết định xử lý liên quan trực tiếp đến đối tượng thanh tra trong quá trình thanh tra.
 
-Điều 44.13.TT.13.6. Nội dung và hình thức thông báo với đối tượng thanh tra
+ e) Tài liệu, đồ vật, tài sản do đối tượng thanh tra quản lý bị tạm giữ hoặc niêm phong chờ xử lý.
 
-**Chỉ mục:** 6
+ g) Việc kết thúc thanh tra trực tiếp.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170000600
+ h) Kết luận thanh tra.
 
-**ID:** dk_00072337
+ i) Quyết định xử lý sau thanh tra liên quan trực tiếp đến đối tượng thanh tra.
 
----
+ k) Quyết định xử phạt vi phạm hành chính trong hoạt động thanh tra chuyên ngành liên quan trực tiếp đến trách nhiệm của đối tượng thanh tra.
 
+ 2. Hình thức thông báo với đối tượng thanh tra.
 
-### Điều 44.13.TT.13.7. Quyền và trách nhiệm của đối tượng thanh tra
+ Căn cứ vào đặc điểm, tính chất và nội dung phải thông báo, cơ quan thanh tra, cơ quan thực hiện chức năng thanh tra, Đoàn thanh tra có thể lựa chọn một, một số hoặc tất cả các hình thức thông báo sau đây:
 
-Điều 44.13.TT.13.7. Quyền và trách nhiệm của đối tượng thanh tra
+ a) Gửi văn bản cho đối tượng thanh tra.
 
-**Chỉ mục:** 7
+ b) Thông báo khi làm việc với đối tượng thanh tra.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170000700
+ c) Các hình thức phù hợp khác do Trưởng đoàn thanh tra quyết định theo quy định của pháp luật.Điều 44.13.TT.13.7. Quyền và trách nhiệm của đối tượng thanh tra
 
-**ID:** dk_00072338
+(Điều 7 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
----
+ 1. Đối tượng thanh tra có các quyền theo quy định của Luật Thanh tra và các văn bản hướng dẫn thi hành; được thông báo những nội dung liên quan đến hoạt động thanh tra theo quy định của pháp luật; phản ánh về trách nhiệm của Đoàn thanh tra trong quá trình thực hiện nhiệm vụ.
 
+ 2. Chấp hành quyết định thanh tra của cơ quan có thẩm quyền.
 
-### Điều 44.13.TT.13.8. Nội dung và hình thức lấy ý kiến tập thể trong Đoàn xác minh, Tổ xác minh
+ 3. Báo cáo về các nội dung được ghi trong quyết định thanh tra theo đề cương yêu cầu, giải trình, báo cáo bổ sung theo yêu cầu của Đoàn thanh tra và chịu trách nhiệm về tính chính xác, trung thực của nội dung đã báo cáo, giải trình.
 
-Điều 44.13.TT.13.8. Nội dung và hình thức lấy ý kiến tập thể trong Đoàn xác minh, Tổ xác minh
+ 4. Cung cấp kịp thời, chính xác thông tin, tài liệu liên quan đến nội dung thanh tra theo yêu cầu của Đoàn thanh tra.
 
-**Chỉ mục:** 8
+ 5. Chấp hành các quyết định xử lý trong quá trình thanh tra.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170000800
+ 6. Thực hiện nghiêm chỉnh các kết luận, kiến nghị, quyết định xử lý về thanh tra.Điều 44.13.TT.13.8. Nội dung và hình thức lấy ý kiến tập thể trong Đoàn xác minh, Tổ xác minh
 
-**ID:** dk_00072339
+(Điều 8 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
----
+ 1. Nội dung lấy ý kiến tập thể trong Đoàn xác minh, Tổ xác minh.
 
+ a) Dự thảo kế hoạch xác minh; nội dung sửa đổi, bổ sung kế hoạch xác minh nội dung khiếu nại, tố cáo.
 
-### Điều 44.13.TT.13.9. Nội dung và hình thức thông báo với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo
+ b) Đề cương nội dung yêu cầu người bị khiếu nại, người bị tố cáo giải trình; nội dung yêu cầu người bị khiếu nại, người bị tố cáo giải trình bổ sung (nếu có).
 
-Điều 44.13.TT.13.9. Nội dung và hình thức thông báo với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo
+ c) Dự thảo báo cáo kết quả xác minh, dự thảo kết luận nội dung tố cáo, dự thảo quyết định giải quyết khiếu nại.
 
-**Chỉ mục:** 9
+ d) Đề xuất kiến nghị xử lý đối với người bị khiếu nại, người bị tố cáo khi xác định người bị khiếu nại, người bị tố cáo có vi phạm; đề xuất xử lý đối với người có hành vi lợi dụng quyền khiếu nại, tố cáo để khiếu nại, tố cáo sai sự thật, xâm phạm đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170000900
+ 2. Hình thức lấy ý kiến tập thể trong Đoàn xác minh, Tổ xác minh.
 
-**ID:** dk_00072340
+ Việc lấy ý kiến được thực hiện thông qua họp Đoàn xác minh, Tổ xác minh hoặc gửi văn bản để thành viên tham gia ý kiến. Đoàn xác minh, Tổ xác minh lấy ý kiến công khai, dân chủ các vấn đề khác liên quan đến việc giải quyết khiếu nại, tố cáo do Trưởng đoàn, Tổ trưởng quyết định.
 
----
+ 3. Trường hợp có ý kiến khác nhau giữa các thành viên thì Trưởng đoàn, Tổ trưởng quyết định, chịu trách nhiệm trước pháp luật và người ra Quyết định xác minh nội dung khiếu nại, tố cáo; trường hợp có ý kiến khác nhau giữa thành viên và Trưởng đoàn, Tổ trưởng thì báo cáo người ra Quyết định xác minh nội dung khiếu nại, tố cáo quyết định.Điều 44.13.TT.13.9. Nội dung và hình thức thông báo với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo
 
+(Điều 9 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-### Điều 44.13.TT.13.10. Trách nhiệm của người khiếu nại, tố cáo
+ 1. Nội dung thông báo với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo.
 
-Điều 44.13.TT.13.10. Trách nhiệm của người khiếu nại, tố cáo
+ a) Việc thụ lý hoặc không thụ lý giải quyết khiếu nại, giải quyết tố cáo.
 
-**Chỉ mục:** 10
+ b) Quyền, nghĩa vụ của người khiếu nại, tố cáo; người bị khiếu nại, bị tố cáo và những người có liên quan theo quy định của pháp luật.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001000
+ c) Yêu cầu báo cáo, giải trình; nội dung, lịch làm việc với Đoàn xác minh, Tổ xác minh.
 
-**ID:** dk_00072341
+ d) Quyết định giải quyết khiếu nại, kết luận nội dung tố cáo.
 
----
+ 2. Hình thức thông báo với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo.
 
+ Căn cứ vào đặc điểm, tính chất và nội dung phải thông báo, cơ quan, đơn vị được giao nhiệm vụ xác minh, Đoàn xác minh, Tổ xác minh có thể lựa chọn một, một số hoặc tất cả các hình thức thông báo sau đây:
 
-### Điều 44.13.TT.13.11. Quyền và trách nhiệm của người bị khiếu nại, bị tố cáo
+ a) Gửi văn bản cho người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo.
 
-Điều 44.13.TT.13.11. Quyền và trách nhiệm của người bị khiếu nại, bị tố cáo
+ b) Thông báo khi làm việc với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo.
 
-**Chỉ mục:** 11
+ c) Các hình thức phù hợp khác do Trưởng đoàn xác minh, Tổ trưởng Tổ xác minh quyết định theo quy định của pháp luật.Điều 44.13.TT.13.10. Trách nhiệm của người khiếu nại, tố cáo
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001100
+(Điều 10 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**ID:** dk_00072342
+ 1. Việc khiếu nại, tố cáo phải thực hiện theo đúng quy định của pháp luật về khiếu nại, tố cáo.
 
----
+ 2. Chịu trách nhiệm trước pháp luật về hành vi lợi dụng quyền khiếu nại, tố cáo để khiếu nại, tố cáo sai sự thật hoặc hành vi xâm phạm đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; xuyên tạc, vu khống, xúc phạm danh dự, nhân phẩm, uy tín của cơ quan, tổ chức và của người khác.
 
+ 3. Xuất trình giấy tờ tùy thân, cung cấp thông tin, tài liệu có liên quan đến nội dung khiếu nại, tố cáo khi cơ quan hoặc người có thẩm quyền yêu cầu và chịu trách nhiệm về thông tin, tài liệu đã cung cấp.
 
-### Điều 44.13.TT.13.12. Nội dung, hình thức công khai với Nhân dân
+ 4. Thực hiện các yêu cầu của Đoàn xác minh, Tổ xác minh trong quá trình xác minh, kết luận nội dung khiếu nại, tố cáo theo quy định của pháp luật.Điều 44.13.TT.13.11. Quyền và trách nhiệm của người bị khiếu nại, bị tố cáo
 
-Điều 44.13.TT.13.12. Nội dung, hình thức công khai với Nhân dân
+(Điều 11 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**Chỉ mục:** 12
+ 1. Người bị khiếu nại, bị tố cáo có các quyền theo quy định của Luật Khiếu nại, Luật Tố cáo và các văn bản hướng dẫn thi hành.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001200
+ 2. Chấp hành quyết định xác minh, kết luận nội dung khiếu nại, tố cáo của cơ quan có thẩm quyền trong Công an nhân dân.
 
-**ID:** dk_00072343
+ 3. Có mặt đúng thời gian, địa điểm theo yêu cầu của Đoàn xác minh, Tổ xác minh.
 
----
+ 4. Báo cáo giải trình về nội dung bị khiếu nại, bị tố cáo theo yêu cầu của Đoàn xác minh, Tổ xác minh và chịu trách nhiệm trước pháp luật về nội dung đã báo cáo, giải trình.
 
+ 5. Cung cấp kịp thời, đầy đủ các thông tin, tài liệu liên quan đến nội dung bị khiếu nại, bị tố cáo theo yêu cầu của Đoàn xác minh, Tổ xác minh.
 
-### Điều 44.13.TT.13.13. Trách nhiệm của cán bộ tiếp công dân
+ 6. Chấp hành các quyết định giải quyết khiếu nại, kiến nghị theo quyết định xử lý tố cáo của Thủ trưởng cơ quan có thẩm quyền trong Công an nhân dân.Điều 44.13.TT.13.12. Nội dung, hình thức công khai với Nhân dân
 
-Điều 44.13.TT.13.13. Trách nhiệm của cán bộ tiếp công dân
+(Điều 12 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**Chỉ mục:** 13
+ 1. Nội dung công khai với Nhân dân
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001300
+ a) Địa chỉ nơi tiếp công dân.
 
-**ID:** dk_00072344
+ b) Họ tên, cấp bậc, chức vụ của cán bộ được phân công tiếp công dân tại nơi tiếp công dân.
 
----
+ c) Nội quy, thời gian tiếp công dân thường xuyên, lịch tiếp công dân của người đứng đầu cơ quan, tổ chức, đơn vị tại nơi tiếp công dân.
 
+ 2. Hình thức công khai với Nhân dân
 
-### Điều 44.13.TT.13.14. Quyền và trách nhiệm của người đến nơi tiếp công dân để khiếu nại, tố cáo, kiến nghị, phản ánh
+ Căn cứ vào đặc điểm, tính chất và nội dung phải công khai, cơ quan Công an áp dụng một, một số hoặc tất cả các hình thức công khai sau đây:
 
-Điều 44.13.TT.13.14. Quyền và trách nhiệm của người đến nơi tiếp công dân để khiếu nại, tố cáo, kiến nghị, phản ánh
+ a) Đăng tải trên trang thông tin điện tử của cơ quan Công an.
 
-**Chỉ mục:** 14
+ b) Niêm yết tại trụ sở cơ quan Công an.Điều 44.13.TT.13.13. Trách nhiệm của cán bộ tiếp công dân
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001400
+(Điều 13 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**ID:** dk_00072345
+ 1. Chỉ tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh tại nơi tiếp công dân, trường hợp tiếp công dân tại nơi khác phải được cấp có thẩm quyền cho phép.
 
----
+ 2. Giải thích, hướng dẫn đúng chính sách, pháp luật của Nhà nước và quy định của Bộ Công an cho công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh.
 
+ 3. Tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh trừ trường hợp được từ chối tiếp công dân theo quy định của pháp luật.
 
-### Điều 44.13.TT.13.15. Nội dung và hình thức công khai, minh bạch trong phòng, chống tham nhũng
+ 4. Tuân thủ đúng Điều lệnh Công an nhân dân.
 
-Điều 44.13.TT.13.15. Nội dung và hình thức công khai, minh bạch trong phòng, chống tham nhũng
+ 5. Tôn trọng và lắng nghe trình bày của người khiếu nại, tố cáo, kiến nghị, phản ánh.
 
-**Chỉ mục:** 15
+ 6. Vào sổ tiếp công dân khi tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001500
+ 7. Thông báo lý do từ chối tiếp công dân đối với những trường hợp từ chối tiếp theo quy định của pháp luật.Điều 44.13.TT.13.14. Quyền và trách nhiệm của người đến nơi tiếp công dân để khiếu nại, tố cáo, kiến nghị, phản ánh
 
-**ID:** dk_00072346
+(Điều 14 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
----
+ 1. Người đến nơi tiếp công dân để khiếu nại, tố cáo, kiến nghị, phản ánh có các quyền theo quy định của Luật Tiếp công dân, Luật Khiếu nại, Luật Tố cáo và các văn bản pháp luật liên quan; được phản ánh về việc thực hiện quy trình tiếp công dân, trách nhiệm của cán bộ tiếp công dân.
 
+ 2. Chấp hành nghiêm chỉnh các quy định của pháp luật về tiếp công dân và nội quy tiếp công dân.
 
-### Điều 44.13.TT.13.16. Trách nhiệm thực hiện dân chủ trong phòng, chống tham nhũng
+ 3. Không mang vũ khí, chất nổ, chất độc, chất dễ cháy hoặc chất cấm khác đến nơi tiếp công dân.
 
-Điều 44.13.TT.13.16. Trách nhiệm thực hiện dân chủ trong phòng, chống tham nhũng
+ 4. Không được lợi dụng quyền tự do dân chủ để có lời nói, hành vi gây rối trật tự công cộng, hành vi quá khích xúc phạm đến cơ quan và cán bộ tiếp công dân, xâm phạm đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức và cá nhân.Điều 44.13.TT.13.15. Nội dung và hình thức công khai, minh bạch trong phòng, chống tham nhũng
 
-**Chỉ mục:** 16
+(Điều 15 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001600
+ 1. Nội dung công khai, minh bạch gồm các quy định sau trừ nội dung thuộc bí mật nhà nước.
 
-**ID:** dk_00072347
+ a) Những thông tin về tổ chức, hoạt động của Công an đơn vị, địa phương.
 
----
+ b) Việc thực hiện chính sách, pháp luật có nội dung liên quan đến quyền, lợi ích hợp pháp của cán bộ, chiến sĩ, công nhân viên, lao động hợp đồng trong Công an nhân dân và công dân.
 
+ c) Việc bố trí, quản lý, sử dụng tài chính công, tài sản công hoặc kinh phí huy động từ các nguồn hợp pháp khác.
 
-### Điều 44.13.TT.13.17. Quyền và nghĩa vụ của công dân trong phòng, chống tham nhũng
+ d) Công tác tổ chức cán bộ của Công an đơn vị, địa phương.
 
-Điều 44.13.TT.13.17. Quyền và nghĩa vụ của công dân trong phòng, chống tham nhũng
+ đ) Việc thực hiện chính sách, pháp luật có nội dung không thuộc trường hợp quy định tại các điểm b, c, d khoản này mà theo quy định của pháp luật phải công khai, minh bạch.
 
-**Chỉ mục:** 17
+ e) Đơn vị trực tiếp giải quyết công việc của cơ quan, tổ chức, đơn vị, cá nhân khác ngoài nội dung công khai quy định tại các điểm b, c, d, đ khoản này còn phải công khai, minh bạch về thủ tục hành chính.
 
-**Mã phân cấp:** 440130000000000050000830000000000000000000802784901170001700
+ g) Quy định về định mức, tiêu chuẩn, chế độ và kết quả thực hiện quy định về định mức, tiêu chuẩn, chế độ.
 
-**ID:** dk_00072348
+ h) Báo cáo về công tác phòng, chống tham nhũng.
 
----
+ 2. Hình thức công khai.
 
+ Căn cứ vào đặc điểm, tính chất và nội dung phải thông báo, cơ quan, đơn vị có thể lựa chọn một, một số hoặc tất cả các hình thức thông báo sau đây:
 
-### Điều 44.13.LQ.84. Trách nhiệm của các cơ quan khác trong bộ máy nhà nước
+ a) Công bố tại các cuộc họp của đơn vị.
 
-Điều 44.13.LQ.84. Trách nhiệm của các cơ quan khác trong bộ máy nhà nước
+ b) Niêm yết tại trụ sở đơn vị.
 
-**Chỉ mục:** 84
+ c) Thông báo bằng văn bản đến cơ quan, tổ chức, đơn vị, cá nhân có liên quan.
 
-**Mã phân cấp:** 4401300000000000500008400000000000000000
+ d) Phát hành ấn phẩm.
 
-**ID:** dk_00072349
+ đ) Thông báo trên các phương tiện thông tin đại chúng.
 
----
+ e) Đăng tải trên cổng/trang thông tin điện tử của đơn vị.
 
+ g) Tổ chức họp báo.
 
-### Điều 44.13.LQ.85. Trách nhiệm của Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp huyện
+ h) Cung cấp thông tin theo yêu cầu của cơ quan, tổ chức, đơn vị, cá nhân theo quy định của pháp luật.Điều 44.13.TT.13.16. Trách nhiệm thực hiện dân chủ trong phòng, chống tham nhũng
+
+(Điều 16 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
+
+ 1. Công an các đơn vị, địa phương trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây.
+
+ a) Nghiêm túc thực hiện các biện pháp phòng ngừa tham nhũng; kịp thời phát hiện xử lý theo thẩm quyền và kiến nghị cơ quan nhà nước có thẩm quyền xử lý tham nhũng trong đơn vị mình; thực hiện quy định khác của pháp luật về phòng, chống tham nhũng.
+
+ b) Bảo vệ quyền và lợi ích hợp pháp của người phản ánh, báo cáo, tố cáo, tố giác, báo tin, cung cấp thông tin về hành vi tham nhũng.
+
+ c) Tiếp nhận, xử lý kịp thời phản ánh, báo cáo, tố cáo, tố giác, tin báo về hành vi tham nhũng.
+
+ d) Kịp thời cung cấp thông tin và thực hiện yêu cầu của cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền theo quy định của pháp luật trong quá trình phát hiện, xử lý tham nhũng. 
+
+ 2. Quyền, trách nhiệm của cán bộ, chiến sĩ Công an nhân dân.
+
+ a) Cán bộ, chiến sĩ Công an nhân dân có quyền tố cáo, tố giác, kiến nghị, phản ánh về hành vi tham nhũng, từ chối thực hiện hành vi liên quan đến tham nhũng theo quy định của pháp luật.
+
+ b) Cán bộ, chiến sĩ Công an nhân dân khi thực hiện nhiệm vụ và trong quan hệ xã hội phải thực hiện nghiêm túc Quy tắc ứng xử của Công an nhân dân, Điều lệnh Công an nhân dân, các quy định của pháp luật về phòng, chống tham nhũng nhằm bảo đảm liêm chính, trách nhiệm, đạo đức công vụ.
+
+ c) Cán bộ, chiến sĩ Công an nhân dân không được nhũng nhiễu trong giải quyết công việc và không được thực hiện các hành vi bị nghiêm cấm theo quy định của Luật Phòng, chống tham nhũng.
+
+ 3. Trách nhiệm của Thủ trưởng Công an các đơn vị, địa phương.
+
+ a) Chỉ đạo thực hiện các nội dung quy định tại khoản 1 Điều này.
+
+ b) Nghiêm túc thực hiện các nội dung quy định tại khoản 2 Điều này.
+
+ c) Gương mẫu, liêm khiết; chấp hành nghiêm chỉnh quy định của pháp luật về phòng, chống tham nhũng.Điều 44.13.TT.13.17. Quyền và nghĩa vụ của công dân trong phòng, chống tham nhũng
+
+(Điều 17 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
+
+ 1. Công dân có quyền phát hiện, phản ánh, tố cáo, tố giác, báo tin về hành vi tham nhũng của cán bộ, chiến sĩ Công an nhân dân trong quá trình thực thi công vụ; được bảo vệ, khen thưởng theo quy định của pháp luật; có quyền kiến nghị với cơ quan Công an những vấn đề có liên quan đến hoàn thiện pháp luật về phòng, chống tham nhũng thuộc thẩm quyền của Công an nhân dân và giám sát việc thực hiện pháp luật về phòng, chống tham nhũng của Công an nhân dân.
+
+ 2. Công dân có nghĩa vụ hợp tác, giúp đỡ cơ quan Công an trong phòng, chống tham nhũng; chịu trách nhiệm trước pháp luật về tính trung thực của các thông tin về phòng, chống tham nhũng mà mình cung cấp; không lợi dụng việc phản ánh, tố cáo, tố giác, báo tin về tham nhũng để vu khống cơ quan, tổ chức, đơn vị, cá nhân khác.Điều 44.13.LQ.84. Trách nhiệm của các cơ quan khác trong bộ máy nhà nước
+
+(Điều 84 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+1. Ủy ban Thường vụ Quốc hội, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội, Văn phòng Quốc hội, Văn phòng Chủ tịch nước, Hội đồng nhân dân các cấp có trách nhiệm tổ chức thực hiện pháp luật về thực hiện dân chủ ở cơ sở.
+
+2. Ủy ban Thường vụ Quốc hội, căn cứ vào quy định của Luật này, quy định việc thực hiện dân chủ trong nội bộ các cơ quan của Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội, các cơ quan của Hội đồng nhân dân các cấp phù hợp với tính chất đặc thù trong tổ chức và hoạt động của các cơ quan, đơn vị này.
 
 Điều 44.13.LQ.85. Trách nhiệm của Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp huyện
 
-**Chỉ mục:** 85
+(Điều 85 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000500008500000000000000000
+1. Tổ chức thi hành pháp luật về thực hiện dân chủ ở cơ sở trên địa bàn.
 
-**ID:** dk_00072350
+2. Xây dựng, trình Hội đồng nhân dân cùng cấp quyết định các biện pháp bảo đảm thực hiện dân chủ ở cơ sở trên địa bàn.
 
----
-
-
-### Điều 44.13.LQ.86. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân cấp xã
+3. Báo cáo cơ quan nhà nước có thẩm quyền về tình hình thực hiện dân chủ ở cơ sở trên địa bàn khi được yêu cầu.
 
 Điều 44.13.LQ.86. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân cấp xã
 
-**Chỉ mục:** 86
+(Điều 86 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000500008600000000000000000
+1. Hội đồng nhân dân cấp xã có trách nhiệm sau đây:
 
-**ID:** dk_00072351
+a) Quyết định các biện pháp bảo đảm thực hiện dân chủ trong phạm vi địa bàn cấp xã;
 
----
+b) Giám sát các cơ quan, tổ chức, cá nhân trên địa bàn cấp xã trong việc thực hiện pháp luật về thực hiện dân chủ ở cơ sở.
 
+2. Ủy ban nhân dân cấp xã có trách nhiệm sau đây:
 
-### Điều 44.13.LQ.87. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam các cấp
+a) Tổ chức thực hiện dân chủ ở cơ sở trên địa bàn cấp xã;
+
+b) Giữ mối liên hệ chặt chẽ với Nhân dân và cộng đồng dân cư trên địa bàn cấp xã;
+
+c) Xem xét, giải quyết và trả lời kịp thời các khiếu nại, tố cáo, kiến nghị của công dân, kiến nghị của Ban Thanh tra nhân dân ở xã, phường, thị trấn, Ban Giám sát đầu tư của cộng đồng, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội cấp xã;
+
+d) Kịp thời báo cáo cơ quan nhà nước cấp trên về những vấn đề không thuộc thẩm quyền giải quyết của mình;
+
+đ) Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của Luật này.
+
+3. Tại nơi không có đơn vị hành chính cấp xã, Hội đồng nhân dân và Ủy ban nhân dân cấp huyện thực hiện các nhiệm vụ của Hội đồng nhân dân, Ủy ban nhân dân cấp xã theo quy định của Luật này.
+
+4. Tại nơi không tổ chức Hội đồng nhân dân cấp xã thì Ủy ban nhân dân cấp xã báo cáo Ủy ban nhân dân cấp huyện về kết quả thực hiện dân chủ ở cơ sở trên địa bàn. Hội đồng nhân dân cấp huyện tại nơi không tổ chức Hội đồng nhân dân cấp xã hoặc Hội đồng nhân dân cấp tỉnh tại nơi không tổ chức Hội đồng nhân dân cấp xã và Hội đồng nhân dân cấp huyện thực hiện nhiệm vụ quy định tại khoản 1 Điều này.
 
 Điều 44.13.LQ.87. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam các cấp
 
-**Chỉ mục:** 87
+(Điều 87 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000500008700000000000000000
+1. Tổ chức vận động Nhân dân thực hiện dân chủ ở cơ sở, hương ước, quy ước của cộng đồng dân cư; tổ chức các phong trào thi đua về thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072352
+2. Tham gia, hỗ trợ, hướng dẫn Nhân dân thực hiện dân chủ ở cơ sở.
 
----
+3. Tiếp nhận, tổng hợp khiếu nại, tố cáo, phản ánh, kiến nghị của Nhân dân về thực hiện dân chủ ở cơ sở để chuyển đến cơ quan nhà nước có thẩm quyền theo quy định; giám sát quá trình giải quyết khiếu nại, tố cáo, phản ánh, kiến nghị của Nhân dân.
 
+4. Thực hiện giám sát, phản biện xã hội đối với hoạt động của cơ quan, đơn vị, cán bộ, công chức, viên chức, người lao động trong việc thực hiện chính sách, pháp luật về thực hiện dân chủ ở cơ sở.
 
-### Điều 44.13.LQ.88. Trách nhiệm của Công đoàn Việt Nam các cấp
+5. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của Luật này.
 
 Điều 44.13.LQ.88. Trách nhiệm của Công đoàn Việt Nam các cấp
 
-**Chỉ mục:** 88
+(Điều 88 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000500008800000000000000000
+1. Tổ chức vận động cán bộ, công chức, viên chức, người lao động thực hiện dân chủ ở cơ sở; tổ chức các phong trào thi đua về thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072353
+2. Tham gia, hỗ trợ, hướng dẫn cán bộ, công chức, viên chức, người lao động thực hiện dân chủ ở cơ quan, đơn vị, tổ chức có sử dụng lao động.
 
----
+3. Tiếp nhận, tổng hợp khiếu nại, tố cáo, phản ánh, kiến nghị của cán bộ, công chức, viên chức, người lao động về thực hiện dân chủ ở cơ sở để chuyển đến cơ quan nhà nước có thẩm quyền; theo dõi, giám sát quá trình giải quyết khiếu nại, tố cáo, phản ánh, kiến nghị của cán bộ, công chức, viên chức, người lao động.
 
+4. Thực hiện giám sát, phản biện xã hội đối với việc thực hiện các chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước có liên quan trực tiếp đến quyền và lợi ích hợp pháp, việc thực hiện dân chủ ở cơ sở của đoàn viên công đoàn.
 
-### Điều 44.13.LQ.89. Trách nhiệm của các tổ chức chính trị - xã hội khác
+5. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của Luật này.
 
 Điều 44.13.LQ.89. Trách nhiệm của các tổ chức chính trị - xã hội khác
 
-**Chỉ mục:** 89
+(Điều 89 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000500008900000000000000000
+1. Tuyên truyền, phổ biến, nâng cao nhận thức của hội viên, đoàn viên và Nhân dân về thực hiện dân chủ ở cơ sở.
 
-**ID:** dk_00072354
+2. Tham gia, phối hợp với cơ quan có thẩm quyền kiểm tra, thanh tra, giám sát việc thực hiện dân chủ ở cơ sở.
 
----
+3. Thực hiện giám sát, phản biện xã hội đối với việc thực hiện các chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước có liên quan trực tiếp đến quyền và lợi ích hợp pháp, việc thực hiện dân chủ ở cơ sở của hội viên, đoàn viên.
 
+Chương VI
 
-### Điều 44.13.LQ.90. Hiệu lực thi hành
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 44.13.LQ.90. Hiệu lực thi hành
 
-**Chỉ mục:** 90
+(Điều 90 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000600009000000000000000000
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
 
-**ID:** dk_00072356
+2. Pháp lệnh số 34/2007/PL-UBTVQH11 ngày 20 tháng 4 năm 2007 của Ủy ban Thường vụ Quốc hội về thực hiện dân chủ ở xã, phường, thị trấn và Nghị quyết số 55/1998/NQ-UBTVQH10 ngày 30 tháng 8 năm 1998 của Ủy ban Thường vụ Quốc hội về việc ban hành quy chế thực hiện dân chủ trong hoạt động của cơ quan hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
----
+Điều 44.13.NĐ.1.28. Hiệu lực thi hành
 
+(Điều 28 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-### Điều 44.13.NĐ.1.28. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 8 năm 2023.
 
-*Nội dung chưa có sẵn*
+2. Nghị định số 159/2016/NĐ-CP ngày 29 tháng 11 năm 2016 của Chính phủ quy định chi tiết và biện pháp thi hành một số điều của Luật Thanh tra về tổ chức và hoạt động của Ban Thanh tra nhân dân hết hiệu lực thi hành kể từ ngày 08 tháng 8 năm 2023.
 
-**Chỉ mục:** 28
+Điều 44.13.NĐ.1.30. Phối hợp tổ chức, thực hiện
 
-**Mã phân cấp:** 4401300000000000600009040284700059000280
+(Điều 30 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-**ID:** dk_00072357
+1. Đề nghị Ban Thường trực Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam chỉ đạo, hướng dẫn thực hiện các quy định về tổ chức, hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn và Ban Giám sát đầu tư của cộng đồng.
 
----
+2. Đề nghị Tổng Liên đoàn Lao động Việt Nam chỉ đạo, hướng dẫn công đoàn các cấp thực hiện quy định về tổ chức, hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị và ở doanh nghiệp nhà nước.
 
+Điều 44.13.NĐ.1.31. Trách nhiệm thi hành
 
-### Điều 44.13.NĐ.1.30. Phối hợp tổ chức, thực hiện
+(Điều 31 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-*Nội dung chưa có sẵn*
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 30
+Điều 44.13.NĐ.2.25. Điều khoản thi hành
 
-**Mã phân cấp:** 4401300000000000600009040284700059000300
+(Điều 25 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
-**ID:** dk_00072358
+1. Nghị định này có hiệu lực thi hành từ ngày 16 tháng 8 năm 2023
 
----
+2. Quyết định số 22/2018/QĐ-TTg ngày 08 tháng 5 năm 2018 của Thủ tướng Chính phủ về xây dựng, thực hiện hương ước, quy ước hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các cơ quan, tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Nghị định này.
 
-### Điều 44.13.NĐ.1.31. Trách nhiệm thi hành
+Điều 44.13.TT.1.23. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 23 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
-**Chỉ mục:** 31
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2019 và thay thế Thông tư số 111/2009/TT-BQP ngày 20 tháng 11 năm 2009 của Bộ trưởng Bộ Quốc phòng quy định về tổ chức và hoạt động của Hội đồng quân nhân trong Quân đội nhân dân Việt Nam.
 
-**Mã phân cấp:** 4401300000000000600009040284700059000310
+Điều 44.13.TT.1.24. Trách nhiệm thi hành
 
-**ID:** dk_00072359
+(Điều 24 Thông tư số 165/2018/TT-BQP, có hiệu lực thi hành kể từ ngày 15/01/2019)
 
----
+Tổng Tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị, chỉ huy các cơ quan, đơn vị chịu trách nhiệm thi hành Thông tư này./.
 
+Điều 44.13.TT.2.12. Hiệu lực thi hành
 
-### Điều 44.13.NĐ.2.25. Điều khoản thi hành
+(Điều 12 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2020 và thay thế Thông tư số 54/2009/TT-BCA ngày 02 tháng 10 năm 2009 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông.
 
-**Chỉ mục:** 25
+Điều 44.13.TT.2.13. Trách nhiệm thi hành
 
-**Mã phân cấp:** 4401300000000000600009040284720061000250
+(Điều 13 Thông tư số 67/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2020)
 
-**ID:** dk_00072360
+1. Thủ trưởng cơ quan Công an có cán bộ, chiến sỹ được Nhân dân đề nghị biểu dương, khen ngợi hoặc kiến nghị, phản ánh, góp ý phải có trách nhiệm xem xét để khen thưởng hoặc xử lý kịp thời theo đúng quy định của pháp luật.
 
----
+2. Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phổ biến, quán triệt Thông tư này đến toàn thể cán bộ, chiến sĩ và tổ chức thực hiện. Thông tư này được công bố công khai trên Cổng thông tin điện tử của Bộ Công an và Công an địa phương để các cơ quan, tổ chức, cá nhân thực hiện.
 
+3. Cục Cảnh sát giao thông, Cục Pháp chế và cải cách hành chính, tư pháp chịu trách nhiệm đề xuất, lập kế hoạch giúp Trưởng Ban chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an tổ chức kiểm tra việc thực hiện Thông tư này.
 
-### Điều 44.13.TT.1.23. Hiệu lực thi hành
+4. Hằng năm, các đơn vị thuộc Cục Cảnh sát giao thông và Công an các tỉnh, thành phố trực thuộc Trung ương sơ kết, tổng kết việc thực hiện Thông tư này và báo cáo kết quả bằng văn bản về Bộ Công an (Cục Cảnh sát giao thông, Cục Pháp chế và cải cách hành chính, tư pháp) để tổng hợp báo cáo lãnh đạo Bộ.
 
-*Nội dung chưa có sẵn*
+5. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, cơ quan, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Công an (Cục Cảnh sát giao thông, Cục Pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn, giải quyết.
 
-**Chỉ mục:** 23
+Điều 44.13.TT.3.11. Hiệu lực thi hành
 
-**Mã phân cấp:** 4401300000000000600009080267530165000230
+(Điều 11 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-**ID:** dk_00072361
+Thông tư này có hiệu lực thi hành kể từ ngày 26 tháng 01 năm 2020, thay thế Thông tư số 05/2016/TT-BCA ngày 20 tháng 01 năm 2016 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ ở trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng thuộc Bộ Công an.
 
----
+Điều 44.13.TT.3.12. Trách nhiệm thi hành
 
+(Điều 12 Thông tư số 73/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 26/01/2020)
 
-### Điều 44.13.TT.1.24. Trách nhiệm thi hành
+1. Cục trưởng Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng và Cục trưởng Cục Pháp chế và cải cách hành chính, tư pháp có trách nhiệm đôn đốc, kiểm tra việc thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng cơ sở giam giữ phạm nhân, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng chịu trách nhiệm thực hiện Thông tư này.
 
-**Chỉ mục:** 24
+3. Định kỳ 06 tháng, 01 năm và khi có yêu cầu của Ban Chi đạo thực hiện dân chủ ở cơ sở của Bộ Công an, các cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng tổ chức sơ kết, tổng kết việc thực hiện Thông tư này, báo cáo kết quả về Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng để tập hợp, báo cáo Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an.
 
-**Mã phân cấp:** 4401300000000000600009080267530165000240
+4. Trong quá trình thực hiện, nếu có vướng mắc, các đơn vị phản ánh về Bộ Công an (qua Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng, Cục Pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn kịp thời.
 
-**ID:** dk_00072362
+Điều 44.13.TT.4.11. Hiệu lực thi hành
 
----
+(Điều 11 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
+Thông tư này có hiệu lực thi hành kể từ ngày 12 tháng 02 năm 2020.
 
-### Điều 44.13.TT.2.12. Hiệu lực thi hành
+Quy chế thực hiện dân chủ trong tạm giữ, tạm giam của lực lượng Công an nhân dân ban hành kèm theo Quyết định số 729/1998/QĐ-BCA(V19) ngày 09 tháng 11 năm 1998 của Bộ trưởng Bộ Công an hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực.
 
-*Nội dung chưa có sẵn*
+Điều 44.13.TT.4.12. Trách nhiệm thi hành
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 81/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 12/02/2020)
 
-**Mã phân cấp:** 4401300000000000600009080271150067000120
+1. Cục trưởng Cục Cảnh sát quản lý tạm giữ, tạm giam và thi hành án hình sự tại cộng đồng, Cục trưởng Cục Pháp chế và cải cách hành chính, tư pháp có trách nhiệm đôn đốc, kiểm tra việc thực hiện Thông tư này.
 
-**ID:** dk_00072363
+2. Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương, thủ trưởng các cơ sở giam giữ trong Công an nhân dân chịu trách nhiệm thực hiện Thông tư này.
 
----
+3. Trong quá trình thực hiện, nếu có vướng mắc, Công an các đơn vị, địa phương phản ánh về Bộ Công an (qua Cục Cảnh sát quản lý tạm giữ, tạm giam và thi hành án hình sự tại cộng đồng, Cục Pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn, giải quyết.
 
+Điều 44.13.TT.5.11. Hiệu lực thi hành
 
-### Điều 44.13.TT.2.13. Trách nhiệm thi hành
+(Điều 11 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này có hiệu lực thi hành kể từ ngày 18 tháng 02 năm 2020 và thay thế Thông tư số 55/2009/TT-BCA ngày 02 tháng 10 năm 2009 của Bộ trưởng Bộ Công an quy định việc thực hiện dân chủ trong công tác của Cảnh sát môi trường.
 
-**Chỉ mục:** 13
+Điều 44.13.TT.5.12. Trách nhiệm thi hành
 
-**Mã phân cấp:** 4401300000000000600009080271150067000130
+(Điều 12 Thông tư số 83/2019/TT-BCA, có hiệu lực thi hành kể từ ngày 18/02/2020)
 
-**ID:** dk_00072364
+1. Thủ trưởng đơn vị trực thuộc Bộ, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phổ biến, quán triệt Thông tư này đến toàn thể cán bộ, chiến sĩ Công an nhân dân và tổ chức thực hiện.
 
----
+2. Cục Cảnh sát phòng, chống tội phạm về môi trường và Cục pháp chế và cải cách hành chính, tư pháp chịu trách nhiệm hướng dẫn, đề xuất, lập kế hoạch giúp Trưởng Ban chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an tổ chức kiểm tra, đánh giá việc thực hiện Thông tư này.
 
+3. Định kỳ 06 tháng, 01 năm, Công an các tỉnh, thành phố trực thuộc Trung ương sơ kết, tổng kết việc thực hiện Thông tư này và báo cáo kết quả bằng văn bản về Bộ (qua Cục Cảnh sát phòng, chống tội phạm về môi trường).
 
-### Điều 44.13.TT.3.11. Hiệu lực thi hành
+4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, cơ quan, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Công an (qua Cục Cảnh sát phòng, chống tội phạm về môi trường và Cục pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn, giải quyết.
 
-*Nội dung chưa có sẵn*
+Điều 44.13.TT.6.14. Hiệu lực thi hành
 
-**Chỉ mục:** 11
+(Điều 14 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
-**Mã phân cấp:** 4401300000000000600009080271290073000110
+Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 3 năm 2020 và thay thế Thông tư số 48/2011/TT-BCA ngày 06 tháng 7 năm 2011 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội.
 
-**ID:** dk_00072365
+Điều 44.13.TT.6.15. Trách nhiệm thi hành
 
----
+(Điều 15 Thông tư số 15/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 30/03/2020)
 
+1. Cục Cảnh sát quản lý hành chính về trật tự xã hội, Cục pháp chế và cải cách hành chính, tư pháp có trách nhiệm tổ chức kiểm tra, đôn đốc việc thực hiện Thông tư này.
 
-### Điều 44.13.TT.3.12. Trách nhiệm thi hành
+2. Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+3. Định kỳ 6 tháng, 01 năm, Công an các tỉnh, thành phố trực thuộc Trung ương tổ chức sơ kết, tổng kết việc thực hiện Thông tư này và báo cáo kết quả bằng văn bản về Bộ Công an (qua Cục Cảnh sát quản lý hành chính về trật tự xã hội).
 
-**Chỉ mục:** 12
+4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, Công an các đơn vị địa phương báo cáo về Bộ Công an (qua Cục Cảnh sát quản lý bành chính về trật tự xã hội) để có hướng dẫn, xem xét, giải quyết kịp thời.
 
-**Mã phân cấp:** 4401300000000000600009080271290073000120
+Điều 44.13.TT.7.16. Hiệu lực thi hành
 
-**ID:** dk_00072366
+(Điều 16 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
----
+Thông tư này có hiệu lực kể từ ngày 06 tháng 4 năm 2020 và thay thế Thông tư số 53/2009/TT-BCA ngày 30 tháng 9 năm 2009 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong công tác của Cảnh sát phòng cháy và chữa cháy.
 
+Điều 44.13.TT.7.17. Trách nhiệm thi hành
 
-### Điều 44.13.TT.4.11. Hiệu lực thi hành
+(Điều 17 Thông tư số 18/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 06/04/2020)
 
-*Nội dung chưa có sẵn*
+1. Thủ trưởng các đơn vị trực thuộc Bộ Công an, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
-**Chỉ mục:** 11
+Định kỳ 06 tháng, 01 năm hoặc khi có yêu cầu của Bộ Công an, Công an các đơn vị, địa phương tổ chức sơ kết, tổng kết việc thực hiện Thông tư này, báo cáo kết quả về Cục Cảnh sát Phòng cháy, chữa cháy và cứu nạn, cứu hộ để tập hợp, báo cáo lãnh đạo Bộ Công an.
 
-**Mã phân cấp:** 4401300000000000600009080271440081000110
+2. Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ có trách nhiệm hướng dẫn, đôn đốc kiểm tra việc thực hiện Thông tư này.
 
-**ID:** dk_00072367
+Trong quá trình thực hiện, nếu có vấn đề gì khó khăn, vướng mắc, Công an các đơn vị, địa phương, cơ quan, tổ chức, cá nhân có liên quan phản ánh về Bộ Công an (qua Cục Cảnh sát Phòng cháy, chữa cháy và cứu nạn, cứu hộ) để tập hợp, báo cáo lãnh đạo Bộ xem xét, giải quyết.
 
----
+Điều 44.13.TT.8.11. Hiệu lực thi hành
 
+(Điều 11 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-### Điều 44.13.TT.4.12. Trách nhiệm thi hành
+Thông tư này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2020 và thay thế Thông tư số 44/2009/TT-BCA ngày 13/7/2009 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong công tác quản lý xuất nhập cảnh của Công an nhân dân.
 
-*Nội dung chưa có sẵn*
+Điều 44.13.TT.8.12. Trách nhiệm thi hành
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 19/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4401300000000000600009080271440081000120
+1. Cục Quản lý xuất nhập cảnh có trách nhiệm tham mưu giúp lãnh đạo Bộ Công an tổ chức kiểm tra, đôn đốc, hướng dẫn và giải quyết những vướng mắc trong việc thực hiện Thông tư này.
 
-**ID:** dk_00072368
+2. Thủ trưởng các đơn vị trực thuộc Bộ Công an, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phổ biến, quán triệt đến toàn thể cán bộ, chiến sỹ và chỉ đạo tổ chức thực hiện Thông tư này.
 
----
+3. Định kỳ 06 tháng, 01 năm, Công an các đơn vị, địa phương tổ chức sơ kết, tổng kết thực hiện Thông tư này, báo cáo kết quả về Bộ Công an (qua Cục Quản lý xuất nhập cảnh).
 
+4. Trong quá trình thực hiện, nếu có vướng mắc, Công an các đơn vị, địa phương; các cơ quan, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Công an (qua Cục Quản lý xuất nhập cảnh và Cục Pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn, giải quyết.
 
-### Điều 44.13.TT.5.11. Hiệu lực thi hành
+Điều 44.13.TT.9.15. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 15 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
-**Chỉ mục:** 11
+Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 8 năm 2020 và thay thế Thông tư số 65/2009/TT-BCA ngày 19 tháng 11 năm 2009 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong công tác bảo đảm, quản lý phương tiện, vũ khí, vật tư, thiết bị kỹ thuật và trang cấp của Công an nhân dân.
 
-**Mã phân cấp:** 4401300000000000600009080271480083000110
+Điều 44.13.TT.9.16. Trách nhiệm thi hành
 
-**ID:** dk_00072369
+(Điều 16 Thông tư số 71/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 10/08/2020)
 
----
+1. Cục Trang bị và kho vận chủ trì, phối hợp với Cục Pháp chế và cải cách hành chính, tư pháp tham mưu giúp lãnh đạo Bộ tổ chức kiểm tra, đôn đốc và hướng dẫn thực hiện Thông tư này.
 
+2. Thủ trưởng các đơn vị thuộc cơ quan Bộ Công an, Giám đốc Công an các tỉnh, thành phố trực thuộc trung ương có trách nhiệm phổ biến, quán triệt đến toàn thể cán bộ, chiến sĩ thuộc quyền quản lý và tổ chức thực hiện Thông tư này.
 
-### Điều 44.13.TT.5.12. Trách nhiệm thi hành
+3. Định kỳ hàng năm và khi có yêu cầu của Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an, Công an các đơn vị, địa phương tổ chức sơ kết, tổng kết việc thực hiện Thông tư này, báo cáo kết quả bằng văn bản về Cục Trang bị và kho vận để tập hợp, báo cáo Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an.
 
-*Nội dung chưa có sẵn*
+4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, cơ quan, tổ chức, cá nhân có liên quan phản ánh về Bộ Công an (qua Cục Trang bị và kho vận) để được hướng dẫn, giải đáp./.
 
-**Chỉ mục:** 12
+Điều 44.13.TT.10.19. Hiệu lực thi hành
 
-**Mã phân cấp:** 4401300000000000600009080271480083000120
+(Điều 19 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-**ID:** dk_00072370
+Thông tư này có hiệu lực thi hành kể từ ngày 04 tháng 10 năm 2020 và thay thế Thông tư số 64/2009/TT-BCA ngày 19 tháng 11 năm 2009 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong các cơ sở y tế Công an nhân dân.
 
----
+Điều 44.13.TT.10.20. Trách nhiệm thi hành
 
+(Điều 20 Thông tư số 92/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 04/10/2020)
 
-### Điều 44.13.TT.6.14. Hiệu lực thi hành
+1. Thủ trưởng các đơn vị trực thuộc Bộ Công an, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phổ biến, quán triệt đến toàn thể cán bộ, chiến sĩ thuộc quyền quản lý và chỉ đạo, tổ chức thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Cục Y tế chủ trì, phối hợp với Cục Pháp chế và cải cách hành chính, tư pháp tham mưu giúp lãnh đạo Bộ tổ chức kiểm tra, đôn đốc và hướng dẫn thực hiện Thông tư này.
 
-**Chỉ mục:** 14
+3. Định kỳ 06 tháng, 01 năm và khi có yêu cầu của Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an, Công an các đơn vị, địa phương tổ chức sơ kết, tổng kết việc thực hiện Thông tư này, báo cáo kết quả về Cục Y tế để tập hợp, báo cáo Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an.
 
-**Mã phân cấp:** 4401300000000000600009080271910015000140
+Trong quá trình thực hiện, nếu có vướng mắc, Công an các đơn vị, địa phương, cơ quan, tổ chức, cá nhân có liên quan phản ánh về Bộ Công an (qua Cục Y tế, Cục Pháp chế và cải cách hành chính, tư pháp) để tập hợp, báo cáo lãnh đạo Bộ xem xét, giải quyết.
 
-**ID:** dk_00072371
+Điều 44.13.TT.11.15. Hiệu lực thi hành
 
----
+(Điều 15 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2021.
 
-### Điều 44.13.TT.6.15. Trách nhiệm thi hành
+Thông tư này thay thế Quy chế thực hiện dân chủ trong hoạt động điều tra của lực lượng Công an nhân dân ban hành kèm theo Quyết định số 729/1998/QĐ-BCA(V19) ngày 09 tháng 11 năm 1998 của Bộ trưởng Bộ Công an.
 
-*Nội dung chưa có sẵn*
+Trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì áp dụng theo các văn bản mới đó.
 
-**Chỉ mục:** 15
+Điều 44.13.TT.11.16. Trách nhiệm thi hành
 
-**Mã phân cấp:** 4401300000000000600009080271910015000150
+(Điều 16 Thông tư số 126/2020/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2021)
 
-**ID:** dk_00072372
+1. Thủ trưởng các đơn vị thuộc cơ quan Bộ, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
----
+2. Văn phòng Cơ quan Cảnh sát điều tra Bộ Công an, Cục An ninh điều tra Bộ Công an, Cục Pháp chế và Cải cách hành chính, tư pháp có trách nhiệm tham mưu, giúp lãnh Bộ tổ chức kiểm tra, đôn đốc và hướng dẫn thực hiện Thông tư này.
 
+3. Trong quá trình thực hiện, nếu có vướng mắc, Công an các đơn vị, địa phương báo cáo về Bộ Công an (qua Văn phòng Cơ quan Cảnh sát điều tra Bộ Công an và Cục An ninh điều tra Bộ Công an) để hướng dẫn, giải quyết.
 
-### Điều 44.13.TT.7.16. Hiệu lực thi hành
+Điều 44.13.TT.12.12. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 12 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
-**Chỉ mục:** 16
+Thông tư này có hiệu lực thi hành kể từ ngày 16 tháng 6 năm 2021 và thay thế quy định về thực hiện dân chủ trong tuyển sinh vào Công an nhân dân tại Thông tư số 03/2010/TT-BCA ngày 14 tháng 01 năm 2010 của Bộ trưởng Bộ Công an quy định về thực hiện dân chủ trong công tác tuyển sinh, tuyển chọn công dân vào Công an nhân dân.
 
-**Mã phân cấp:** 4401300000000000600009080271990018000160
+Điều 44.13.TT.12.13. Trách nhiệm thi hành
 
-**ID:** dk_00072373
+(Điều 13 Thông tư số 44/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 16/06/2021)
 
----
+1. Cục Đào tạo chủ trì, phối hợp với Cục Pháp chế và cải cách hành chính, tư pháp tham mưu giúp lãnh đạo Bộ tổ chức kiểm tra, đôn đốc thực hiện Thông tư này. Khi phát hiện Công an đơn vị, địa phương, trường Công an nhân dân không thực hiện đúng các nội dung về dân chủ quy định tại Thông tư này, vi phạm quy chế, quy định về tuyển sinh, Cục Đào tạo báo cáo lãnh đạo Bộ yêu cầu chấn chỉnh hoặc hủy bỏ kết quả tuyển sinh và xử lý nghiêm đối với đơn vị, cá nhân sai phạm.
 
+2. Thủ trưởng Công an các đơn vị, địa phương và các trường Công an nhân dân có trách nhiệm phổ biến, quán triệt Thông tư này đến toàn thể cán bộ, chiến sĩ và tổ chức thực hiện. Thông tư này được công bố công khai trên Cổng thông tin điện tử Bộ Công an và trang thông tin điện tử Công an các đơn vị, địa phương, các trường Công an nhân dân (nếu có) để cơ quan, tổ chức và công dân thực hiện.
 
-### Điều 44.13.TT.7.17. Trách nhiệm thi hành
+3. Định kỳ hàng năm và khi có yêu cầu của Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an, Công an các đơn vị, địa phương và các trường Công an nhân dân tổ chức sơ kết, tổng kết việc thực hiện Thông tư này và báo cáo về Cục Đào tạo để tập hợp, báo cáo Ban Chỉ đạo thực hiện dân chủ ở cơ sở của Bộ Công an.
 
-*Nội dung chưa có sẵn*
+4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, Công an đơn vị, địa phương, trường Công an nhân dân, cán bộ, chiến sĩ, cơ quan, tổ chức, công dân phản ánh về Bộ Công an (qua Cục Đào tạo và Cục Pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn, giải đáp./.
 
-**Chỉ mục:** 17
+Điều 44.13.TT.13.18. Hiệu lực thi hành
 
-**Mã phân cấp:** 4401300000000000600009080271990018000170
+(Điều 18 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-**ID:** dk_00072374
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2022 và thay thế Thông tư số 24/2009/TT-BCA-V24 ngày 28/4/2009 của Bộ Công an quy định về thực hiện dân chủ trong công tác thanh tra của Công an nhân dân.
 
----
+Điều 44.13.TT.13.19. Trách nhiệm thi hành
 
+(Điều 19 Thông tư số 117/2021/TT-BCA, có hiệu lực thi hành kể từ ngày 15/01/2022)
 
-### Điều 44.13.TT.8.11. Hiệu lực thi hành
+1. Thủ trưởng Công an các đơn vị, địa phương chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Thanh tra Bộ Công an chủ trì, phối hợp với Cục Pháp chế và cải cách hành chính, tư pháp kiểm tra, đôn đốc thực hiện Thông tư này.
 
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 4401300000000000600009080272000019000110
-
-**ID:** dk_00072375
-
----
-
-
-### Điều 44.13.TT.8.12. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 4401300000000000600009080272000019000120
-
-**ID:** dk_00072376
-
----
-
-
-### Điều 44.13.TT.9.15. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 4401300000000000600009080273260071000150
-
-**ID:** dk_00072377
-
----
-
-
-### Điều 44.13.TT.9.16. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 4401300000000000600009080273260071000160
-
-**ID:** dk_00072378
-
----
-
-
-### Điều 44.13.TT.10.19. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 4401300000000000600009080273810092000190
-
-**ID:** dk_00072379
-
----
-
-
-### Điều 44.13.TT.10.20. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 4401300000000000600009080273810092000200
-
-**ID:** dk_00072380
-
----
-
-
-### Điều 44.13.TT.11.15. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 4401300000000000600009080274840126000150
-
-**ID:** dk_00072381
-
----
-
-
-### Điều 44.13.TT.11.16. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 4401300000000000600009080274840126000160
-
-**ID:** dk_00072382
-
----
-
-
-### Điều 44.13.TT.12.12. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 4401300000000000600009080276310044000120
-
-**ID:** dk_00072383
-
----
-
-
-### Điều 44.13.TT.12.13. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 4401300000000000600009080276310044000130
-
-**ID:** dk_00072384
-
----
-
-
-### Điều 44.13.TT.13.18. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 4401300000000000600009080278490117000180
-
-**ID:** dk_00072385
-
----
-
-
-### Điều 44.13.TT.13.19. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 4401300000000000600009080278490117000190
-
-**ID:** dk_00072386
-
----
-
-
-### Điều 44.13.LQ.91. Áp dụng pháp luật và quy định chuyển tiếp
+3. Trong quá trình thực hiện nếu có vướng mắc, Công an các đơn vị, địa phương phản ánh về Bộ Công an (Thanh tra Bộ Công an, Cục Pháp chế và cải cách hành chính, tư pháp) để được hướng dẫn.
 
 Điều 44.13.LQ.91. Áp dụng pháp luật và quy định chuyển tiếp
 
-**Chỉ mục:** 91
+(Điều 91 Luật số 10/2022/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 4401300000000000600009100000000000000000
+1. Trường hợp luật khác ban hành trước ngày Luật này có hiệu lực thi hành có quy định cụ thể về nội dung, hình thức, thời hạn, trình tự, thủ tục công khai thông tin, lấy ý kiến tham gia của công dân, cán bộ, công chức, viên chức, người lao động trong các lĩnh vực cụ thể thì thực hiện theo quy định của luật đó.
 
-**ID:** dk_00072387
+2. Cơ quan trung ương của tổ chức chính trị, tổ chức chính trị - xã hội, trên cơ sở các nguyên tắc được quy định tại Luật này, các văn bản quy phạm pháp luật khác có liên quan và Điều lệ của tổ chức mình, quy định việc thực hiện dân chủ trong nội bộ cơ quan, đơn vị của tổ chức chính trị, tổ chức chính trị - xã hội.
 
----
+3. Hương ước, quy ước của cộng đồng dân cư, các quyết định khác của cộng đồng dân cư được công nhận, thông qua trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện cho đến khi được sửa đổi, bổ sung, thay thế hoặc bãi bỏ theo quy định.
 
+Điều 44.13.NĐ.1.29. Điều khoản chuyển tiếp
 
-### Điều 44.13.NĐ.1.29. Điều khoản chuyển tiếp
+(Điều 29 Nghị định số 59/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/08/2023)
 
-*Nội dung chưa có sẵn*
+1. Tổ chức của Ban Giám sát đầu tư của cộng đồng đã thành lập tiếp tục được thực hiện cho đến khi kết thúc chương trình, dự án.
 
-**Chỉ mục:** 29
+2. Tổ chức của Ban Thanh tra nhân dân ở xã, phường, thị trấn, Ban Thanh tra nhân dân ở cơ quan, đơn vị và Ban Thanh tra nhân dân ở doanh nghiệp nhà nước tiếp tục được thực hiện cho đến khi tổ chức bầu nhiệm kỳ mới.
 
-**Mã phân cấp:** 4401300000000000600009140284700059000290
+Điều 44.13.NĐ.2.24. Quy định chuyển tiếp
 
-**ID:** dk_00072388
+(Điều 24 Nghị định số 61/2023/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/08/2023)
 
----
+1. Hương ước, quy ước đã được phê duyệt hoặc công nhận trước ngày Nghị định này có hiệu lực thi hành mà phù hợp với quy định tại Điều 4 Nghị định này được tiếp tục thực hiện cho đến khi được sửa đổi, bổ sung, thay thế hoặc bãi bỏ theo quy định.
 
+2. Đối với hương ước, quy ước đã được phê duyệt hoặc công nhận trước ngày Nghị định này có hiệu lực thi hành nhưng không phù hợp với quy định tại Điều 4 Nghị định này thì cộng đồng dân cư xây dựng hương ước, quy ước mới thay thế trước ngày 31 tháng 12 năm 2023.
 
-### Điều 44.13.NĐ.2.24. Quy định chuyển tiếp
+(Điều này có nội dung liên quan đến Điều 44.13.LQ.4. Phạm vi thực hiện dân chủ ở cơ sở)
 
-*Nội dung chưa có sẵn*
+## Danh sách điều khoản
 
-**Chỉ mục:** 24
+### 44013000000000001000
 
-**Mã phân cấp:** 4401300000000000600009140284720061000240
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-**ID:** dk_00072389
+### 4401300000000000100000100000000000000000
 
----
+Điều 44.13.LQ.1. Phạm vi điều chỉnh
 
+### 4401300000000000100000140284700059000010
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 44.13.NĐ.1.1. Phạm vi điều chỉnh
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 373
-- **Điều khoản thực tế:** 357
-- **Điều khoản có nội dung:** 271 (75.9%)
-- **ID đề mục:** f9c15fe60ef14870959ed0cf1a2deb41
+### 4401300000000000100000140284700059000020
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 44.13.NĐ.1.2. Đối tượng áp dụng
 
----
+### 4401300000000000100000140284720061000010
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 44.13.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180267530165000010
+
+Điều 44.13.TT.1.1. Phạm vi điều chỉnh
+
+### 4401300000000000100000180267530165000020
+
+Điều 44.13.TT.1.2. Đối tượng áp dụng
+
+### 4401300000000000100000180271150067000010
+
+Điều 44.13.TT.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180271290073000010
+
+Điều 44.13.TT.3.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180271440081000010
+
+Điều 44.13.TT.4.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180271480083000010
+
+Điều 44.13.TT.5.1. Phạm vi điều chỉnh
+
+### 4401300000000000100000180271480083000020
+
+Điều 44.13.TT.5.2. Đối tượng áp dụng
+
+### 4401300000000000100000180271910015000010
+
+Điều 44.13.TT.6.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180271990018000010
+
+Điều 44.13.TT.7.1. Phạm vi điều chỉnh
+
+### 4401300000000000100000180271990018000020
+
+Điều 44.13.TT.7.2. Đối tượng áp dụng
+
+### 4401300000000000100000180272000019000010
+
+Điều 44.13.TT.8.1. Phạm vi điều chỉnh
+
+### 4401300000000000100000180272000019000020
+
+Điều 44.13.TT.8.2. Đối tượng áp dụng
+
+### 4401300000000000100000180273260071000010
+
+Điều 44.13.TT.9.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180273810092000010
+
+Điều 44.13.TT.10.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180274840126000010
+
+Điều 44.13.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180276310044000010
+
+Điều 44.13.TT.12.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000180278490117000010
+
+Điều 44.13.TT.13.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 4401300000000000100000200000000000000000
+
+Điều 44.13.LQ.2. Giải thích từ ngữ
+
+### 4401300000000000100000280271150067000040
+
+Điều 44.13.TT.2.4. Giải thích từ ngữ
+
+### 4401300000000000100000280273810092000020
+
+Điều 44.13.TT.10.2. Giải thích từ ngữ
+
+### 4401300000000000100000300000000000000000
+
+Điều 44.13.LQ.3. Nguyên tắc thực hiện dân chủ ở cơ sở
+
+### 440130000000000010000030000000000000000000802711500670000200
+
+Điều 44.13.TT.2.2. Mục đích thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
+
+### 440130000000000010000030000000000000000000802711500670000300
+
+Điều 44.13.TT.2.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông
+
+### 440130000000000010000030000000000000000000802712900730000200
+
+Điều 44.13.TT.3.2. Mục đích thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+
+### 440130000000000010000030000000000000000000802712900730000300
+
+Điều 44.13.TT.3.3. Nguyên tắc thực hiện dân chủ trong cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+
+### 440130000000000010000030000000000000000000802714400810000200
+
+Điều 44.13.TT.4.2. Mục đích thực hiện dân chủ trong tạm giữ, tạm giam
+
+### 440130000000000010000030000000000000000000802714400810000300
+
+Điều 44.13.TT.4.3. Nguyên tắc thực hiện dân chủ trong tạm giữ, tạm giam
+
+### 440130000000000010000030000000000000000000802714800830000300
+
+Điều 44.13.TT.5.3. Mục đích thực hiện dân chủ trong công tác của Cảnh sát môi trường
+
+### 440130000000000010000030000000000000000000802714800830000400
+
+Điều 44.13.TT.5.4. Nguyên tắc thực hiện dân chủ trong công tác của Cảnh sát môi trường
+
+### 440130000000000010000030000000000000000000802719100150000200
+
+Điều 44.13.TT.6.2. Mục đích thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
+
+### 440130000000000010000030000000000000000000802719100150000300
+
+Điều 44.13.TT.6.3. Nguyên tắc thực hiện dân chủ trong công tác quản lý hành chính về trật tự xã hội
+
+### 440130000000000010000030000000000000000000802719900180000300
+
+Điều 44.13.TT.7.3. Mục đích thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+
+### 440130000000000010000030000000000000000000802719900180000400
+
+Điều 44.13.TT.7.4. Nguyên tắc thực hiện dân chủ trong công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+
+### 440130000000000010000030000000000000000000802720000190000300
+
+Điều 44.13.TT.8.3. Mục đích thực hiện dân chủ trong công tác quản lý xuất nhập cảnh
+
+### 440130000000000010000030000000000000000000802720000190000400
+
+Điều 44.13.TT.8.4. Nguyên tắc thực hiện dân chủ
+
+### 440130000000000010000030000000000000000000802732600710000200
+
+Điều 44.13.TT.9.2. Mục đích thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
+
+### 440130000000000010000030000000000000000000802732600710000300
+
+Điều 44.13.TT.9.3. Nguyên tắc thực hiện dân chủ trong công tác bảo đảm, quản lý trang bị và kho vận
+
+### 440130000000000010000030000000000000000000802738100920000300
+
+Điều 44.13.TT.10.3. Mục đích thực hiện dân chủ trong các cơ sở y tế
+
+### 440130000000000010000030000000000000000000802738100920000400
+
+Điều 44.13.TT.10.4. Nguyên tắc thực hiện dân chủ trong các cơ sở y tế
+
+### 440130000000000010000030000000000000000000802748401260000200
+
+Điều 44.13.TT.11.2. Mục đích thực hiện dân chủ trong hoạt động điều tra
+
+### 440130000000000010000030000000000000000000802748401260000300
+
+Điều 44.13.TT.11.3. Nguyên tắc thực hiện dân chủ trong hoạt động điều tra
+
+### 440130000000000010000030000000000000000000802763100440000200
+
+Điều 44.13.TT.12.2. Mục đích thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
+
+### 440130000000000010000030000000000000000000802763100440000300
+
+Điều 44.13.TT.12.3. Nguyên tắc thực hiện dân chủ trong tuyển sinh vào Công an nhân dân
+
+### 440130000000000010000030000000000000000000802784901170000200
+
+Điều 44.13.TT.13.2. Mục đích thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
+
+### 440130000000000010000030000000000000000000802784901170000300
+
+Điều 44.13.TT.13.3. Nguyên tắc của việc thực hiện dân chủ trong công tác thanh tra, giải quyết khiếu nại, tố cáo, tiếp công dân và phòng, chống tham nhũng
+
+### 4401300000000000100000400000000000000000
+
+Điều 44.13.LQ.4. Phạm vi thực hiện dân chủ ở cơ sở
+
+### 4401300000000000100000500000000000000000
+
+Điều 44.13.LQ.5. Quyền của công dân trong thực hiện dân chủ ở cơ sở
+
+### 4401300000000000100000600000000000000000
+
+Điều 44.13.LQ.6. Nghĩa vụ của công dân trong thực hiện dân chủ ở cơ sở
+
+### 4401300000000000100000700000000000000000
+
+Điều 44.13.LQ.7. Quyền thụ hưởng của công dân
+
+### 4401300000000000100000800000000000000000
+
+Điều 44.13.LQ.8. Các biện pháp bảo đảm thực hiện dân chủ ở cơ sở
+
+### 4401300000000000100000900000000000000000
+
+Điều 44.13.LQ.9. Các hành vi bị nghiêm cấm trong thực hiện dân chủ ở cơ sở
+
+### 4401300000000000100001000000000000000000
+
+Điều 44.13.LQ.10. Xử lý vi phạm pháp luật về thực hiện dân chủ ở cơ sở
+
+### 44013000000000002000
+
+Chương II THỰC HIỆN DÂN CHỦ Ở XÃ, PHƯỜNG, THỊ TRẤN
+
+### 4401300000000000200000100000000000000000
+
+Mục 1 CÔNG KHAI THÔNG TIN Ở XÃ, PHƯỜNG, THỊ TRẤN
+
+### 440130000000000020000010000000000000000001100000000000000000
+
+Điều 44.13.LQ.11. Những nội dung chính quyền địa phương cấp xã phải công khai
+
+### 440130000000000020000010000000000000000001200000000000000000
+
+Điều 44.13.LQ.12. Hình thức và thời điểm công khai thông tin
+
+### 440130000000000020000010000000000000000001300000000000000000
+
+Điều 44.13.LQ.13. Lựa chọn hình thức công khai thông tin
+
+### 440130000000000020000010000000000000000001400000000000000000
+
+Điều 44.13.LQ.14. Trách nhiệm tổ chức thực hiện việc công khai thông tin
+
+### 4401300000000000200000200000000000000000
+
+Mục 2 NHÂN DÂN BÀN VÀ QUYẾT ĐỊNH
+
+### 440130000000000020000020000000000000000001500000000000000000
+
+Điều 44.13.LQ.15. Những nội dung Nhân dân bàn và quyết định
+
+### 440130000000000020000020000000000000000001600000000000000000
+
+Điều 44.13.LQ.16. Đề xuất nội dung để Nhân dân bàn và quyết định
+
+### 440130000000000020000020000000000000000001700000000000000000
+
+Điều 44.13.LQ.17. Hình thức Nhân dân bàn và quyết định
+
+### 440130000000000020000020000000000000000001800000000000000000
+
+Điều 44.13.LQ.18. Tổ chức cuộc họp của cộng đồng dân cư
+
+### 44013000000000002000002000000000000000000180000000000000000000402847000590000300
+
+Điều 44.13.NĐ.1.3. Tổ chức cuộc họp của cộng đồng dân cư để Nhân dân bàn và quyết định
+
+### 440130000000000020000020000000000000000001900000000000000000
+
+Điều 44.13.LQ.19. Phát phiếu lấy ý kiến của hộ gia đình
+
+### 44013000000000002000002000000000000000000190000000000000000000402847000590000400
+
+Điều 44.13.NĐ.1.4. Tổ chức phát phiếu lấy ý kiến của hộ gia đình để Nhân dân bàn và quyết định
+
+### 44013000000000002000002000000000000000000190000000000000000000402847000590000500
+
+Điều 44.13.NĐ.1.5. Biểu quyết trực tuyến tại thôn, tổ dân phố để Nhân dân bàn và quyết định
+
+### 440130000000000020000020000000000000000002000000000000000000
+
+Điều 44.13.LQ.20. Quyết định của cộng đồng dân cư
+
+### 440130000000000020000020000000000000000002100000000000000000
+
+Điều 44.13.LQ.21. Hiệu lực của quyết định của cộng đồng dân cư
+
+### 440130000000000020000020000000000000000002200000000000000000
+
+Điều 44.13.LQ.22. Sửa đổi, bổ sung, thay thế, bãi bỏ quyết định của cộng đồng dân cư
+
+### 440130000000000020000020000000000000000002300000000000000000
+
+Điều 44.13.LQ.23. Trách nhiệm trong việc tổ chức để Nhân dân bàn, quyết định và thực hiện quyết định của cộng đồng dân cư
+
+### 44013000000000002000002000000000000000000230000000000000000000402847000590000600
+
+Điều 44.13.NĐ.1.6. Công tác chuẩn bị bầu Trưởng thôn, Tổ trưởng tổ dân phố
+
+### 44013000000000002000002000000000000000000230000000000000000000402847000590000700
+
+Điều 44.13.NĐ.1.7. Tiến hành bầu Trưởng thôn, Tổ trưởng tổ dân phố
+
+### 44013000000000002000002000000000000000000230000000000000000000402847000590000800
+
+Điều 44.13.NĐ.1.8. Công nhận kết quả bầu cử
+
+### 44013000000000002000002000000000000000000230000000000000000000402847000590000900
+
+Điều 44.13.NĐ.1.9. Quy trình cho thôi làm Trưởng thôn, Tổ trưởng tổ dân phố
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000200
+
+Điều 44.13.NĐ.2.2. Hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000300
+
+Điều 44.13.NĐ.2.3. Mục đích xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000400
+
+Điều 44.13.NĐ.2.4. Nguyên tắc xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000500
+
+Điều 44.13.NĐ.2.5. Phạm vi nội dung của hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000600
+
+Điều 44.13.NĐ.2.6. Hình thức của hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000700
+
+Điều 44.13.NĐ.2.7. Đề xuất nội dung hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000800
+
+Điều 44.13.NĐ.2.8. Soạn thảo nội dung hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610000900
+
+Điều 44.13.NĐ.2.9. Lấy ý kiến dự thảo hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001000
+
+Điều 44.13.NĐ.2.10. Thông qua hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001100
+
+Điều 44.13.NĐ.2.11. Công nhận hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001200
+
+Điều 44.13.NĐ.2.12. Tạm ngừng thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001300
+
+Điều 44.13.NĐ.2.13. Sửa đổi, bổ sung, thay thế hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001400
+
+Điều 44.13.NĐ.2.14. Bãi bỏ hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001500
+
+Điều 44.13.NĐ.2.15. Thông tin, phổ biến, đánh giá thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001600
+
+Điều 44.13.NĐ.2.16. Thống kê, báo cáo về xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001700
+
+Điều 44.13.NĐ.2.17. Trách nhiệm của hộ gia đình, công dân cư trú tại cộng đồng dân cư trong xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001800
+
+Điều 44.13.NĐ.2.18. Trách nhiệm của Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp xã trong xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610001900
+
+Điều 44.13.NĐ.2.19. Trách nhiệm của Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng ban công tác Mặt trận ở cộng đồng dân cư trong xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610002000
+
+Điều 44.13.NĐ.2.20. Trách nhiệm của các tổ chức, cá nhân liên quan trong xây dựng và thực hiện hương ước, quy ước
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610002100
+
+Điều 44.13.NĐ.2.21. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610002200
+
+Điều 44.13.NĐ.2.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 44013000000000002000002000000000000000000230000000000000000000402847200610002300
+
+Điều 44.13.NĐ.2.23. Kinh phí thực hiện
+
+### 440130000000000020000020000000000000000002400000000000000000
+
+Điều 44.13.LQ.24. Trách nhiệm của Nhân dân trong việc tham gia bàn, quyết định các nội dung, công việc ở cơ sở
+
+### 4401300000000000200000300000000000000000
+
+Mục 3 NHÂN DÂN THAM GIA Ý KIẾN
+
+### 440130000000000020000030000000000000000002500000000000000000
+
+Điều 44.13.LQ.25. Những nội dung Nhân dân tham gia ý kiến trước khi cơ quan có thẩm quyền quyết định
+
+### 440130000000000020000030000000000000000002600000000000000000
+
+Điều 44.13.LQ.26. Hình thức Nhân dân tham gia ý kiến
+
+### 440130000000000020000030000000000000000002700000000000000000
+
+Điều 44.13.LQ.27. Việc tổ chức đối thoại, lấy ý kiến công dân là đối tượng thi hành trong trường hợp Ủy ban nhân dân cấp xã ban hành quyết định hành chính có nội dung xác lập nghĩa vụ hoặc làm chấm dứt, hạn chế quyền, lợi ích của đối tượng thi hành
+
+### 440130000000000020000030000000000000000002800000000000000000
+
+Điều 44.13.LQ.28. Trách nhiệm trong việc tổ chức để Nhân dân tham gia ý kiến
+
+### 440130000000000020000030000000000000000002900000000000000000
+
+Điều 44.13.LQ.29. Trách nhiệm của Nhân dân trong việc tham gia ý kiến về các nội dung ở xã, phường, thị trấn
+
+### 4401300000000000200000400000000000000000
+
+Mục 4 NHÂN DÂN KIỂM TRA, GIÁM SÁT
+
+### 440130000000000020000040000000000000000000100000000000000000
+
+Tiểu mục 1 NỘI DUNG, HÌNH THỨC KIỂM TRA, GIÁM SÁT
+
+### 44013000000000002000004000000000000000000010000000000000000003000000000000000000
+
+Điều 44.13.LQ.30. Nội dung kiểm tra, giám sát
+
+### 44013000000000002000004000000000000000000010000000000000000003100000000000000000
+
+Điều 44.13.LQ.31. Hình thức kiểm tra, giám sát
+
+### 44013000000000002000004000000000000000000010000000000000000003200000000000000000
+
+Điều 44.13.LQ.32. Hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân
+
+### 44013000000000002000004000000000000000000010000000000000000003300000000000000000
+
+Điều 44.13.LQ.33. Hội nghị định kỳ của cộng đồng dân cư
+
+### 4401300000000000200000400000000000000000001000000000000000000330000000000000000000402847000590001000
+
+Điều 44.13.NĐ.1.10. Công tác chuẩn bị tổ chức hội nghị định kỳ
+
+### 4401300000000000200000400000000000000000001000000000000000000330000000000000000000402847000590001100
+
+Điều 44.13.NĐ.1.11. Trình tự tổ chức hội nghị định kỳ
+
+### 44013000000000002000004000000000000000000010000000000000000003400000000000000000
+
+Điều 44.13.LQ.34. Xử lý kết quả kiểm tra, giám sát của Nhân dân
+
+### 44013000000000002000004000000000000000000010000000000000000003500000000000000000
+
+Điều 44.13.LQ.35. Trách nhiệm trong việc bảo đảm để Nhân dân thực hiện kiểm tra, giám sát
+
+### 440130000000000020000040000000000000000000200000000000000000
+
+Tiểu mục 2 BAN THANH TRA NHÂN DÂN Ở XÃ, PHƯỜNG, THỊ TRẤN
+
+### 44013000000000002000004000000000000000000020000000000000000003600000000000000000
+
+Điều 44.13.LQ.36. Tổ chức Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 44013000000000002000004000000000000000000020000000000000000003700000000000000000
+
+Điều 44.13.LQ.37. Tiêu chuẩn thành viên Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 44013000000000002000004000000000000000000020000000000000000003800000000000000000
+
+Điều 44.13.LQ.38. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 44013000000000002000004000000000000000000020000000000000000003900000000000000000
+
+Điều 44.13.LQ.39. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 44013000000000002000004000000000000000000020000000000000000004000000000000000000
+
+Điều 44.13.LQ.40. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001200
+
+Điều 44.13.NĐ.1.12. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001300
+
+Điều 44.13.NĐ.1.13. Tổ chức của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001400
+
+Điều 44.13.NĐ.1.14. Hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 4401300000000000200000400000000000000000002000000000000000000400000000000000000000402847000590001500
+
+Điều 44.13.NĐ.1.15. Phối hợp thực hiện hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn
+
+### 440130000000000020000040000000000000000000300000000000000000
+
+Tiểu mục 3 BAN GIÁM SÁT ĐẦU TƯ CỦA CỘNG ĐỒNG
+
+### 44013000000000002000004000000000000000000030000000000000000004100000000000000000
+
+Điều 44.13.LQ.41. Tổ chức Ban Giám sát đầu tư của cộng đồng
+
+### 44013000000000002000004000000000000000000030000000000000000004200000000000000000
+
+Điều 44.13.LQ.42. Tiêu chuẩn thành viên Ban Giám sát đầu tư của cộng đồng
+
+### 44013000000000002000004000000000000000000030000000000000000004300000000000000000
+
+Điều 44.13.LQ.43. Nhiệm vụ, quyền hạn của Ban Giám sát đầu tư của cộng đồng
+
+### 44013000000000002000004000000000000000000030000000000000000004400000000000000000
+
+Điều 44.13.LQ.44. Hoạt động của Ban Giám sát đầu tư của cộng đồng
+
+### 44013000000000002000004000000000000000000030000000000000000004500000000000000000
+
+Điều 44.13.LQ.45. Trách nhiệm trong việc bảo đảm hoạt động của Ban Giám sát đầu tư của cộng đồng
+
+### 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001600
+
+Điều 44.13.NĐ.1.16. Nguyên tắc tổ chức và hoạt động của Ban Giám sát đầu tư của cộng đồng
+
+### 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001700
+
+Điều 44.13.NĐ.1.17. Tổ chức của Ban Giám sát đầu tư của cộng đồng
+
+### 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001800
+
+Điều 44.13.NĐ.1.18. Hoạt động của Ban Giám sát đầu tư của cộng đồng
+
+### 4401300000000000200000400000000000000000003000000000000000000450000000000000000000402847000590001900
+
+Điều 44.13.NĐ.1.19. Công tác phối hợp thực hiện hoạt động của Ban Giám sát đầu tư của cộng đồng
+
+### 44013000000000003000
+
+Chương III THỰC HIỆN DÂN CHỦ Ở CƠ QUAN, ĐƠN VỊ
+
+### 4401300000000000300000100000000000000000
+
+Mục 1 CÔNG KHAI THÔNG TIN Ở CƠ QUAN, ĐƠN VỊ
+
+### 440130000000000030000010000000000000000004600000000000000000
+
+Điều 44.13.LQ.46. Những nội dung người đứng đầu cơ quan, đơn vị phải công khai
+
+### 440130000000000030000010000000000000000004700000000000000000
+
+Điều 44.13.LQ.47. Hình thức và thời điểm công khai thông tin ở cơ quan, đơn vị
+
+### 440130000000000030000010000000000000000004800000000000000000
+
+Điều 44.13.LQ.48. Trách nhiệm tổ chức thực hiện việc công khai thông tin ở cơ quan, đơn vị
+
+### 4401300000000000300000200000000000000000
+
+Mục 2 CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG BÀN VÀ QUYẾT ĐỊNH
+
+### 440130000000000030000020000000000000000004900000000000000000
+
+Điều 44.13.LQ.49. Những nội dung cán bộ, công chức, viên chức, người lao động bàn và quyết định
+
+### 440130000000000030000020000000000000000005000000000000000000
+
+Điều 44.13.LQ.50. Hình thức cán bộ, công chức, viên chức, người lao động bàn và quyết định
+
+### 440130000000000030000020000000000000000005100000000000000000
+
+Điều 44.13.LQ.51. Tổ chức hội nghị cán bộ, công chức, viên chức, người lao động
+
+### 440130000000000030000020000000000000000005200000000000000000
+
+Điều 44.13.LQ.52. Trách nhiệm trong việc tổ chức để cán bộ, công chức, viên chức, người lao động bàn, quyết định và thực hiện quyết định của tập thể cán bộ, công chức, viên chức, người lao động
+
+### 4401300000000000300000300000000000000000
+
+Mục 3 CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG THAM GIA Ý KIẾN
+
+### 440130000000000030000030000000000000000005300000000000000000
+
+Điều 44.13.LQ.53. Những nội dung cán bộ, công chức, viên chức, người lao động tham gia ý kiến trước khi người đứng đầu cơ quan, đơn vị quyết định
+
+### 440130000000000030000030000000000000000005400000000000000000
+
+Điều 44.13.LQ.54. Hình thức cán bộ, công chức, viên chức, người lao động tham gia ý kiến
+
+### 440130000000000030000030000000000000000005500000000000000000
+
+Điều 44.13.LQ.55. Trách nhiệm trong việc tổ chức để cán bộ, công chức, viên chức, người lao động tham gia ý kiến
+
+### 4401300000000000300000400000000000000000
+
+Mục 4 CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG KIỂM TRA, GIÁM SÁT
+
+### 440130000000000030000040000000000000000000100000000000000000
+
+Tiểu mục 1 NỘI DUNG, HÌNH THỨC KIỂM TRA, GIÁM SÁT
+
+### 44013000000000003000004000000000000000000010000000000000000005600000000000000000
+
+Điều 44.13.LQ.56. Nội dung cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát
+
+### 44013000000000003000004000000000000000000010000000000000000005700000000000000000
+
+Điều 44.13.LQ.57. Hình thức cán bộ, công chức, viên chức, người lao động kiểm tra, giám sát
+
+### 44013000000000003000004000000000000000000010000000000000000005800000000000000000
+
+Điều 44.13.LQ.58. Xử lý kết quả kiểm tra, giám sát của cán bộ, công chức, viên chức, người lao động
+
+### 44013000000000003000004000000000000000000010000000000000000005900000000000000000
+
+Điều 44.13.LQ.59. Trách nhiệm trong việc bảo đảm để cán bộ, công chức, viên chức, người lao động thực hiện kiểm tra, giám sát
+
+### 440130000000000030000040000000000000000000200000000000000000
+
+Tiểu mục 2 BAN THANH TRA NHÂN DÂN Ở CƠ QUAN, ĐƠN VỊ
+
+### 44013000000000003000004000000000000000000020000000000000000006000000000000000000
+
+Điều 44.13.LQ.60. Tổ chức Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000300
+
+Điều 44.13.TT.1.3. Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000400
+
+Điều 44.13.TT.1.4. Nguyên tắc tổ chức và hoạt động của Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000500
+
+Điều 44.13.TT.1.5. Tổ chức Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650000600
+
+Điều 44.13.TT.1.6. Thành phần, tiêu chuẩn, số lượng ủy viên Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650001800
+
+Điều 44.13.TT.1.18. Đại hội quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650001900
+
+Điều 44.13.TT.1.19. Sinh hoạt Hội đồng quân nhân và tập thể quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000600000000000000000000802675301650002000
+
+Điều 44.13.TT.1.20. Sinh hoạt đối thoại
+
+### 44013000000000003000004000000000000000000020000000000000000006100000000000000000
+
+Điều 44.13.LQ.61. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650000700
+
+Điều 44.13.TT.1.7. Chức năng của Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650000800
+
+Điều 44.13.TT.1.8. Nhiệm vụ của Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650000900
+
+Điều 44.13.TT.1.9. Quyền hạn của Hội đồng quân nhân
+
+### 4401300000000000300000400000000000000000002000000000000000000610000000000000000000802675301650001000
+
+Điều 44.13.TT.1.10. Mối quan hệ công tác của Hội đồng quân nhân
+
+### 44013000000000003000004000000000000000000020000000000000000006200000000000000000
+
+Điều 44.13.LQ.62. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001100
+
+Điều 44.13.TT.1.11. Thực hiện dân chủ về quân sự - chuyên môn
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001200
+
+Điều 44.13.TT.1.12. Thực hiện dân chủ về chính trị
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001300
+
+Điều 44.13.TT.1.13. Thực hiện dân chủ về kinh tế - đời sống
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001400
+
+Điều 44.13.TT.1.14. Biện pháp chung để thực hiện các nội dung dân chủ
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001500
+
+Điều 44.13.TT.1.15. Tiếp nhận, tổng hợp ý kiến, kiến nghị của quân nhân, công chức, công nhân quốc phòng, viên chức quốc phòng
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001600
+
+Điều 44.13.TT.1.16. Hoạt động giám sát
+
+### 4401300000000000300000400000000000000000002000000000000000000620000000000000000000802675301650001700
+
+Điều 44.13.TT.1.17. Hoạt động phản biện xã hội
+
+### 44013000000000003000004000000000000000000020000000000000000006300000000000000000
+
+Điều 44.13.LQ.63. Trách nhiệm trong việc bảo đảm hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002000
+
+Điều 44.13.NĐ.1.20. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002100
+
+Điều 44.13.NĐ.1.21. Tổ chức của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002200
+
+Điều 44.13.NĐ.1.22. Hoạt động của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 4401300000000000300000400000000000000000002000000000000000000630000000000000000000402847000590002300
+
+Điều 44.13.NĐ.1.23. Phối hợp thực hiện nhiệm vụ của Ban Thanh tra nhân dân ở cơ quan, đơn vị
+
+### 44013000000000004000
+
+Chương IV THỰC HIỆN DÂN CHỦ Ở TỔ CHỨC CÓ SỬ DỤNG LAO ĐỘNG
+
+### 4401300000000000400000100000000000000000
+
+Mục 1 THỰC HIỆN DÂN CHỦ Ở DOANH NGHIỆP NHÀ NƯỚC
+
+### 440130000000000040000010000000000000000000100000000000000000
+
+Tiểu mục 1 CÔNG KHAI THÔNG TIN Ở DOANH NGHIỆP NHÀ NƯỚC
+
+### 44013000000000004000001000000000000000000010000000000000000006400000000000000000
+
+Điều 44.13.LQ.64. Những nội dung doanh nghiệp nhà nước phải công khai
+
+### 44013000000000004000001000000000000000000010000000000000000006500000000000000000
+
+Điều 44.13.LQ.65. Hình thức và thời điểm công khai thông tin ở doanh nghiệp nhà nước
+
+### 44013000000000004000001000000000000000000010000000000000000006600000000000000000
+
+Điều 44.13.LQ.66. Trách nhiệm tổ chức thực hiện việc công khai thông tin ở doanh nghiệp nhà nước
+
+### 440130000000000040000010000000000000000000200000000000000000
+
+Tiểu mục 2 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC BÀN VÀ QUYẾT ĐỊNH
+
+### 44013000000000004000001000000000000000000020000000000000000006700000000000000000
+
+Điều 44.13.LQ.67. Những nội dung người lao động bàn và quyết định
+
+### 44013000000000004000001000000000000000000020000000000000000006800000000000000000
+
+Điều 44.13.LQ.68. Hình thức người lao động bàn và quyết định
+
+### 44013000000000004000001000000000000000000020000000000000000006900000000000000000
+
+Điều 44.13.LQ.69. Tổ chức hội nghị người lao động
+
+### 44013000000000004000001000000000000000000020000000000000000007000000000000000000
+
+Điều 44.13.LQ.70. Trách nhiệm trong việc tổ chức để người lao động bàn, quyết định và thực hiện quyết định của tập thể người lao động
+
+### 440130000000000040000010000000000000000000300000000000000000
+
+Tiểu mục 3 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC THAM GIA Ý KIẾN
+
+### 44013000000000004000001000000000000000000030000000000000000007100000000000000000
+
+Điều 44.13.LQ.71. Những nội dung người lao động tham gia ý kiến
+
+### 44013000000000004000001000000000000000000030000000000000000007200000000000000000
+
+Điều 44.13.LQ.72. Hình thức người lao động tham gia ý kiến
+
+### 44013000000000004000001000000000000000000030000000000000000007300000000000000000
+
+Điều 44.13.LQ.73. Tổ chức đối thoại tại nơi làm việc
+
+### 44013000000000004000001000000000000000000030000000000000000007400000000000000000
+
+Điều 44.13.LQ.74. Trách nhiệm trong việc tổ chức để người lao động tham gia ý kiến
+
+### 440130000000000040000010000000000000000000400000000000000000
+
+Tiểu mục 4 NGƯỜI LAO ĐỘNG Ở DOANH NGHIỆP NHÀ NƯỚC KIỂM TRA, GIÁM SÁT
+
+### 44013000000000004000001000000000000000000040000000000000000007500000000000000000
+
+Điều 44.13.LQ.75. Nội dung người lao động kiểm tra, giám sát
+
+### 44013000000000004000001000000000000000000040000000000000000007600000000000000000
+
+Điều 44.13.LQ.76. Hình thức người lao động kiểm tra, giám sát
+
+### 44013000000000004000001000000000000000000040000000000000000007700000000000000000
+
+Điều 44.13.LQ.77. Tổ chức Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 44013000000000004000001000000000000000000040000000000000000007800000000000000000
+
+Điều 44.13.LQ.78. Nhiệm vụ, quyền hạn của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 44013000000000004000001000000000000000000040000000000000000007900000000000000000
+
+Điều 44.13.LQ.79. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 44013000000000004000001000000000000000000040000000000000000008000000000000000000
+
+Điều 44.13.LQ.80. Xử lý kết quả kiểm tra, giám sát của người lao động
+
+### 44013000000000004000001000000000000000000040000000000000000008100000000000000000
+
+Điều 44.13.LQ.81. Trách nhiệm trong việc bảo đảm để người lao động thực hiện kiểm tra, giám sát
+
+### 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002400
+
+Điều 44.13.NĐ.1.24. Nguyên tắc tổ chức và hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002500
+
+Điều 44.13.NĐ.1.25. Tổ chức của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002600
+
+Điều 44.13.NĐ.1.26. Hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 4401300000000000400000100000000000000000004000000000000000000810000000000000000000402847000590002700
+
+Điều 44.13.NĐ.1.27. Phối hợp trong thực hiện hoạt động của Ban Thanh tra nhân dân ở doanh nghiệp nhà nước
+
+### 4401300000000000400000200000000000000000
+
+Mục 2 THỰC HIỆN DÂN CHỦ Ở DOANH NGHIỆP, TỔ CHỨC KHÁC CÓ THUÊ MƯỚN, SỬ DỤNG LAO ĐỘNG THEO HỢP ĐỒNG LAO ĐỘNG THUỘC KHU VỰC NGOÀI NHÀ NƯỚC
+
+### 440130000000000040000020000000000000000008200000000000000000
+
+Điều 44.13.LQ.82. Thực hiện dân chủ ở doanh nghiệp, tổ chức khác có thuê mướn, sử dụng lao động theo hợp đồng lao động thuộc khu vực ngoài Nhà nước
+
+### 44013000000000005000
+
+Chương V TỔ CHỨC THỰC HIỆN PHÁP LUẬT VỀ THỰC HIỆN DÂN CHỦ Ở CƠ SỞ
+
+### 4401300000000000500008300000000000000000
+
+Điều 44.13.LQ.83. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+
+### 440130000000000050000830000000000000000000802675301650002100
+
+Điều 44.13.TT.1.21. Trách nhiệm của các cơ quan, đơn vị
+
+### 440130000000000050000830000000000000000000802675301650002200
+
+Điều 44.13.TT.1.22. Kinh phí hoạt động của Hội đồng quân nhân
+
+### 440130000000000050000830000000000000000000802711500670000500
+
+Điều 44.13.TT.2.5. Nội dung công khai của Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
+
+### 440130000000000050000830000000000000000000802711500670000600
+
+Điều 44.13.TT.2.6. Hình thức công khai của Công an nhân dân
+
+### 440130000000000050000830000000000000000000802711500670000700
+
+Điều 44.13.TT.2.7. Những việc Nhân dân tham gia ý kiến về hoạt động bảo đảm trật tự, an toàn giao thông
+
+### 440130000000000050000830000000000000000000802711500670000800
+
+Điều 44.13.TT.2.8. Hình thức Nhân dân tham gia ý kiến
+
+### 440130000000000050000830000000000000000000802711500670000900
+
+Điều 44.13.TT.2.9. Trách nhiệm của Nhân dân tham gia vào hoạt động bảo đảm trật tự, an toàn giao thông
+
+### 440130000000000050000830000000000000000000802711500670001000
+
+Điều 44.13.TT.2.10. Những việc Nhân dân giám sát Công an nhân dân trong công tác bảo đảm trật tự, an toàn giao thông
+
+### 440130000000000050000830000000000000000000802711500670001100
+
+Điều 44.13.TT.2.11. Hình thức giám sát của Nhân dân
+
+### 440130000000000050000830000000000000000000802712900730000400
+
+Điều 44.13.TT.3.4. Những nội dung thông báo công khai
+
+### 440130000000000050000830000000000000000000802712900730000500
+
+Điều 44.13.TT.3.5. Hình thức công khai
+
+### 440130000000000050000830000000000000000000802712900730000600
+
+Điều 44.13.TT.3.6. Địa điểm tiếp công dân, giải quyết công việc liên quan đến công tác quản lý phạm nhân, trại viên, học sinh ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+
+### 440130000000000050000830000000000000000000802712900730000700
+
+Điều 44.13.TT.3.7. Những việc cơ quan, tổ chức, cá nhân tham gia, thực hiện trong công tác quản lý phạm nhân, trại viên, học sinh ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+
+### 440130000000000050000830000000000000000000802712900730000800
+
+Điều 44.13.TT.3.8. Những việc phạm nhân, trại viên, học sinh tham gia ý kiến để Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng quyết định
+
+### 440130000000000050000830000000000000000000802712900730000900
+
+Điều 44.13.TT.3.9. Trách nhiệm của Giám thị trại giam, trại tạm giam, Trưởng nhà tạm giữ, Giám đốc cơ sở giáo dục bắt buộc, Hiệu trưởng trường giáo dưỡng
+
+### 440130000000000050000830000000000000000000802712900730001000
+
+Điều 44.13.TT.3.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ phạm nhân, cơ sở giáo dục bắt buộc, trường giáo dưỡng
+
+### 440130000000000050000830000000000000000000802714400810000400
+
+Điều 44.13.TT.4.4. Những nội dung phải công khai
+
+### 440130000000000050000830000000000000000000802714400810000500
+
+Điều 44.13.TT.4.5. Hình thức công khai
+
+### 440130000000000050000830000000000000000000802714400810000600
+
+Điều 44.13.TT.4.6. Quy định về địa điểm tiếp công dân ở cơ sở giam giữ
+
+### 440130000000000050000830000000000000000000802714400810000700
+
+Điều 44.13.TT.4.7. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+
+### 440130000000000050000830000000000000000000802714400810000800
+
+Điều 44.13.TT.4.8. Quyền đề xuất ý kiến của người bị tạm giữ, người bị tạm giam
+
+### 440130000000000050000830000000000000000000802714400810000900
+
+Điều 44.13.TT.4.9. Trách nhiệm của thủ trưởng cơ sở giam giữ
+
+### 440130000000000050000830000000000000000000802714400810001000
+
+Điều 44.13.TT.4.10. Trách nhiệm của cán bộ, chiến sĩ ở cơ sở giam giữ
+
+### 440130000000000050000830000000000000000000802714800830000500
+
+Điều 44.13.TT.5.5. Những nội dung Cảnh sát môi trường phải công khai
+
+### 440130000000000050000830000000000000000000802714800830000600
+
+Điều 44.13.TT.5.6. Các hình thức công khai
+
+### 440130000000000050000830000000000000000000802714800830000700
+
+Điều 44.13.TT.5.7. Quyền, trách nhiệm của cơ quan, tổ chức, cá nhân
+
+### 440130000000000050000830000000000000000000802714800830000800
+
+Điều 44.13.TT.5.8. Trách nhiệm của Cảnh sát môi trường
+
+### 440130000000000050000830000000000000000000802714800830000900
+
+Điều 44.13.TT.5.9. Những việc cán bộ, chiến sĩ Cảnh sát môi trường không được làm
+
+### 440130000000000050000830000000000000000000802714800830001000
+
+Điều 44.13.TT.5.10. Công tác tiếp nhận, xử lý và giải quyết đơn, thư khiếu nại, tố cáo, kiến nghị, phản ánh
+
+### 440130000000000050000830000000000000000000802719100150000400
+
+Điều 44.13.TT.6.4. Địa điểm tiếp công dân, giải quyết công việc trong công tác quản lý hành chính về trật tự xã hội
+
+### 440130000000000050000830000000000000000000802719100150000500
+
+Điều 44.13.TT.6.5. Những nội dung công khai trong công tác quản lý hành chính về trật tự xã hội
+
+### 440130000000000050000830000000000000000000802719100150000600
+
+Điều 44.13.TT.6.6. Các hình thức công khai
+
+### 440130000000000050000830000000000000000000802719100150000700
+
+Điều 44.13.TT.6.7. Những việc cơ quan, tổ chức và cá nhân bàn, góp ý để cơ quan có thẩm quyền quyết định
+
+### 440130000000000050000830000000000000000000802719100150000800
+
+Điều 44.13.TT.6.8. Những việc cơ quan, tổ chức và cá nhân tham gia ý kiến để cơ quan Công an quyết định
+
+### 440130000000000050000830000000000000000000802719100150000900
+
+Điều 44.13.TT.6.9. Hình thức tham gia ý kiến của cơ quan, tổ chức và cá nhân
+
+### 440130000000000050000830000000000000000000802719100150001000
+
+Điều 44.13.TT.6.10. Quyền, trách nhiệm của cơ quan, tổ chức và cá nhân
+
+### 440130000000000050000830000000000000000000802719100150001100
+
+Điều 44.13.TT.6.11. Trách nhiệm, quyền hạn của Thủ trưởng đơn vị
+
+### 440130000000000050000830000000000000000000802719100150001200
+
+Điều 44.13.TT.6.12. Trách nhiệm, quyền hạn của cán bộ, chiến sĩ
+
+### 440130000000000050000830000000000000000000802719100150001300
+
+Điều 44.13.TT.6.13. Những việc cán bộ, chiến sĩ Cảnh sát quản lý hành chính về trật tự xã hội không được làm
+
+### 440130000000000050000830000000000000000000802719900180000500
+
+Điều 44.13.TT.7.5. Trách nhiệm của người đứng đầu đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ
+
+### 440130000000000050000830000000000000000000802719900180000600
+
+Điều 44.13.TT.7.6. Nội dung cán bộ, chiến sĩ tham gia ý kiến, giám sát, kiểm tra
+
+### 440130000000000050000830000000000000000000802719900180000700
+
+Điều 44.13.TT.7.7. Tác phong, thái độ, lề lối làm việc của cán bộ, chiến sĩ Công an nhân dân, Cảnh sát phòng cháy và chữa cháy khi thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+
+### 440130000000000050000830000000000000000000802719900180000800
+
+Điều 44.13.TT.7.8. Những việc cán bộ, chiến sĩ Cảnh sát phòng cháy và chữa cháy và cán bộ chiến sĩ Công an nhân dân được giao nhiệm vụ thực hiện công tác phòng cháy, chữa cháy và cứu nạn, cứu hộ không được làm
+
+### 440130000000000050000830000000000000000000802719900180000900
+
+Điều 44.13.TT.7.9. Những nội dung công khai trong công tác của Cảnh sát phòng cháy và chữa cháy và các đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+
+### 440130000000000050000830000000000000000000802719900180001000
+
+Điều 44.13.TT.7.10. Hình thức công khai
+
+### 440130000000000050000830000000000000000000802719900180001100
+
+Điều 44.13.TT.7.11. Trách nhiệm của đơn vị Cảnh sát phòng cháy và chữa cháy và đơn vị Công an được giao thực hiện nhiệm vụ phòng cháy, chữa cháy và cứu nạn, cứu hộ
+
+### 440130000000000050000830000000000000000000802719900180001200
+
+Điều 44.13.TT.7.12. Tiếp nhận và giải quyết đơn, thư góp ý, khiếu nại, tố cáo
+
+### 440130000000000050000830000000000000000000802719900180001300
+
+Điều 44.13.TT.7.13. Những việc cơ quan, tổ chức, cá nhân tham gia ý kiến
+
+### 440130000000000050000830000000000000000000802719900180001400
+
+Điều 44.13.TT.7.14. Trách nhiệm của cơ quan, tổ chức và cá nhân
+
+### 440130000000000050000830000000000000000000802719900180001500
+
+Điều 44.13.TT.7.15. Hình thức giám sát và những việc cơ quan, tổ chức, cá nhân giám sát
+
+### 440130000000000050000830000000000000000000802720000190000500
+
+Điều 44.13.TT.8.5. Những nội dung đơn vị thực hiện công tác quản lý xuất nhập cảnh phải công khai
+
+### 440130000000000050000830000000000000000000802720000190000600
+
+Điều 44.13.TT.8.6. Hình thức thông báo công khai
+
+### 440130000000000050000830000000000000000000802720000190000700
+
+Điều 44.13.TT.8.7. Trách nhiệm của đơn vị thực hiện công tác quản lý xuất nhập cảnh
+
+### 440130000000000050000830000000000000000000802720000190000800
+
+Điều 44.13.TT.8.8. Trách nhiệm của Thủ trưởng đơn vị thực hiện công tác quản lý xuất nhập cảnh
+
+### 440130000000000050000830000000000000000000802720000190000900
+
+Điều 44.13.TT.8.9. Trách nhiệm của cán bộ, chiến sỹ thực hiện công tác quản lý xuất nhập cảnh
+
+### 440130000000000050000830000000000000000000802720000190001000
+
+Điều 44.13.TT.8.10. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân có yêu cầu hoặc liên quan đến việc giải quyết các thủ tục xuất nhập cảnh
+
+### 440130000000000050000830000000000000000000802732600710000400
+
+Điều 44.13.TT.9.4. Các hình thức công khai
+
+### 440130000000000050000830000000000000000000802732600710000500
+
+Điều 44.13.TT.9.5. Kế hoạch bảo đảm trang bị
+
+### 440130000000000050000830000000000000000000802732600710000600
+
+Điều 44.13.TT.9.6. Tiêu chuẩn, định mức trang bị
+
+### 440130000000000050000830000000000000000000802732600710000700
+
+Điều 44.13.TT.9.7. Mua sắm trang bị
+
+### 440130000000000050000830000000000000000000802732600710000800
+
+Điều 44.13.TT.9.8. Cấp phát trang bị
+
+### 440130000000000050000830000000000000000000802732600710000900
+
+Điều 44.13.TT.9.9. Công khai các chỉ tiêu kế hoạch về trang bị
+
+### 440130000000000050000830000000000000000000802732600710001000
+
+Điều 44.13.TT.9.10. Kiểm tra, hướng dẫn việc quản lý trang bị
+
+### 440130000000000050000830000000000000000000802732600710001100
+
+Điều 44.13.TT.9.11. Xây dựng chế độ quản lý, cấp phát, bảo quản trang bị
+
+### 440130000000000050000830000000000000000000802732600710001200
+
+Điều 44.13.TT.9.12. Chế độ báo cáo
+
+### 440130000000000050000830000000000000000000802732600710001300
+
+Điều 44.13.TT.9.13. Công tác quản lý và cấp phát hàng hóa tại kho
+
+### 440130000000000050000830000000000000000000802732600710001400
+
+Điều 44.13.TT.9.14. Công tác quản lý vận tải hàng hóa
+
+### 440130000000000050000830000000000000000000802738100920000500
+
+Điều 44.13.TT.10.5. Nội dung Thủ trưởng cơ sở y tế công khai đối với cán bộ y tế
+
+### 440130000000000050000830000000000000000000802738100920000600
+
+Điều 44.13.TT.10.6. Hình thức công khai đến cán bộ y tế
+
+### 440130000000000050000830000000000000000000802738100920000700
+
+Điều 44.13.TT.10.7. Nội dung cán bộ y tế tham gia ý kiến
+
+### 440130000000000050000830000000000000000000802738100920000800
+
+Điều 44.13.TT.10.8. Hình thức để cán bộ y tế tham gia ý kiến
+
+### 440130000000000050000830000000000000000000802738100920000900
+
+Điều 44.13.TT.10.9. Nội dung cán bộ y tế giám sát, kiểm tra
+
+### 440130000000000050000830000000000000000000802738100920001000
+
+Điều 44.13.TT.10.10. Hình thức thực hiện giám sát, kiểm tra của cán bộ y tế
+
+### 440130000000000050000830000000000000000000802738100920001100
+
+Điều 44.13.TT.10.11. Nội dung Thủ trưởng cơ sở y tế công khai đối với người bệnh và người nhà người bệnh
+
+### 440130000000000050000830000000000000000000802738100920001200
+
+Điều 44.13.TT.10.12. Hình thức công khai đối với người bệnh và người nhà người bệnh
+
+### 440130000000000050000830000000000000000000802738100920001300
+
+Điều 44.13.TT.10.13. Nội dung người bệnh và người nhà người bệnh giám sát, tham gia ý kiến
+
+### 440130000000000050000830000000000000000000802738100920001400
+
+Điều 44.13.TT.10.14. Hình thức giám sát, tham gia ý kiến của người bệnh và người nhà người bệnh
+
+### 440130000000000050000830000000000000000000802738100920001500
+
+Điều 44.13.TT.10.15. Trách nhiệm của Thủ trưởng cơ sở y tế
+
+### 440130000000000050000830000000000000000000802738100920001600
+
+Điều 44.13.TT.10.16. Trách nhiệm thực hiện dân chủ của cán bộ y tế tại các cơ sở y tế
+
+### 440130000000000050000830000000000000000000802738100920001700
+
+Điều 44.13.TT.10.17. Trách nhiệm của các đoàn thể quần chúng, Thanh tra của cơ sở y tế
+
+### 440130000000000050000830000000000000000000802738100920001800
+
+Điều 44.13.TT.10.18. Trách nhiệm của người bệnh, người nhà người bệnh
+
+### 440130000000000050000830000000000000000000802748401260000400
+
+Điều 44.13.TT.11.4. Quan hệ giữa Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; giữa Cơ quan điều tra các cấp và giữa Cơ quan điều tra với cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra trong bảo đảm thực hiện dân chủ trong hoạt động điều tra
+
+### 440130000000000050000830000000000000000000802748401260000500
+
+Điều 44.13.TT.11.5. Bảo đảm dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
+
+### 440130000000000050000830000000000000000000802748401260000600
+
+Điều 44.13.TT.11.6. Những việc Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra không được làm
+
+### 440130000000000050000830000000000000000000802748401260000700
+
+Điều 44.13.TT.11.7. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của Thủ trưởng, Phó thủ trưởng Cơ quan điều tra, Điều tra viên và Cán bộ điều tra
+
+### 440130000000000050000830000000000000000000802748401260000800
+
+Điều 44.13.TT.11.8. Bảo đảm thực hiện dân chủ trong tiếp nhận, giải quyết nguồn tin về tội phạm và khiếu nại, tố cáo trong tố tụng hình sự
+
+### 440130000000000050000830000000000000000000802748401260000900
+
+Điều 44.13.TT.11.9. Những việc cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra không được làm
+
+### 440130000000000050000830000000000000000000802748401260001000
+
+Điều 44.13.TT.11.10. Trách nhiệm bảo đảm thực hiện dân chủ trong hoạt động điều tra của cấp trưởng, cấp phó và cán bộ điều tra thuộc các cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra
+
+### 440130000000000050000830000000000000000000802748401260001100
+
+Điều 44.13.TT.11.11. Những việc cán bộ, chiến sĩ Công an xã, phường, thị trấn, Đồn Công an, Trạm Công an không được làm khi tiến hành tiếp nhận tố giác, tin báo về tội phạm
+
+### 440130000000000050000830000000000000000000802748401260001200
+
+Điều 44.13.TT.11.12. Những việc cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ tham gia khi Cơ quan điều tra, cơ quan của Công an nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra tiến hành tố tụng
+
+### 440130000000000050000830000000000000000000802748401260001300
+
+Điều 44.13.TT.11.13. Bảo đảm thực hiện dân chủ đối với việc giải quyết khiếu nại, tố cáo trong tố tụng hình sự
+
+### 440130000000000050000830000000000000000000802748401260001400
+
+Điều 44.13.TT.11.14. Giải quyết bồi thường trong hoạt động điều tra
+
+### 440130000000000050000830000000000000000000802763100440000400
+
+Điều 44.13.TT.12.4. Nội dung công khai trong tuyển sinh vào Công an nhân dân
+
+### 440130000000000050000830000000000000000000802763100440000500
+
+Điều 44.13.TT.12.5. Hình thức công khai
+
+### 440130000000000050000830000000000000000000802763100440000600
+
+Điều 44.13.TT.12.6. Thực hiện dân chủ trong sơ tuyển tuyển sinh
+
+### 440130000000000050000830000000000000000000802763100440000700
+
+Điều 44.13.TT.12.7. Thực hiện dân chủ trong thi tuyển, xét tuyển
+
+### 440130000000000050000830000000000000000000802763100440000800
+
+Điều 44.13.TT.12.8. Trách nhiệm của thủ trưởng đơn vị trực tiếp tổ chức hoạt động tuyển sinh vào Công an nhân dân
+
+### 440130000000000050000830000000000000000000802763100440000900
+
+Điều 44.13.TT.12.9. Trách nhiệm của cán bộ, chiến sĩ Công an nhân dân
+
+### 440130000000000050000830000000000000000000802763100440001000
+
+Điều 44.13.TT.12.10. Trách nhiệm của công dân
+
+### 440130000000000050000830000000000000000000802763100440001100
+
+Điều 44.13.TT.12.11. Giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh trong tuyển sinh
+
+### 440130000000000050000830000000000000000000802784901170000400
+
+Điều 44.13.TT.13.4. Nội dung lấy ý kiến trong tập thể lãnh đạo cơ quan thanh tra trước khi trình cấp có thẩm quyền phê duyệt hoặc quyết định
+
+### 440130000000000050000830000000000000000000802784901170000500
+
+Điều 44.13.TT.13.5. Nội dung, hình thức lấy ý kiến tập thể trong Đoàn thanh tra
+
+### 440130000000000050000830000000000000000000802784901170000600
+
+Điều 44.13.TT.13.6. Nội dung và hình thức thông báo với đối tượng thanh tra
+
+### 440130000000000050000830000000000000000000802784901170000700
+
+Điều 44.13.TT.13.7. Quyền và trách nhiệm của đối tượng thanh tra
+
+### 440130000000000050000830000000000000000000802784901170000800
+
+Điều 44.13.TT.13.8. Nội dung và hình thức lấy ý kiến tập thể trong Đoàn xác minh, Tổ xác minh
+
+### 440130000000000050000830000000000000000000802784901170000900
+
+Điều 44.13.TT.13.9. Nội dung và hình thức thông báo với người khiếu nại, tố cáo, người bị khiếu nại, bị tố cáo
+
+### 440130000000000050000830000000000000000000802784901170001000
+
+Điều 44.13.TT.13.10. Trách nhiệm của người khiếu nại, tố cáo
+
+### 440130000000000050000830000000000000000000802784901170001100
+
+Điều 44.13.TT.13.11. Quyền và trách nhiệm của người bị khiếu nại, bị tố cáo
+
+### 440130000000000050000830000000000000000000802784901170001200
+
+Điều 44.13.TT.13.12. Nội dung, hình thức công khai với Nhân dân
+
+### 440130000000000050000830000000000000000000802784901170001300
+
+Điều 44.13.TT.13.13. Trách nhiệm của cán bộ tiếp công dân
+
+### 440130000000000050000830000000000000000000802784901170001400
+
+Điều 44.13.TT.13.14. Quyền và trách nhiệm của người đến nơi tiếp công dân để khiếu nại, tố cáo, kiến nghị, phản ánh
+
+### 440130000000000050000830000000000000000000802784901170001500
+
+Điều 44.13.TT.13.15. Nội dung và hình thức công khai, minh bạch trong phòng, chống tham nhũng
+
+### 440130000000000050000830000000000000000000802784901170001600
+
+Điều 44.13.TT.13.16. Trách nhiệm thực hiện dân chủ trong phòng, chống tham nhũng
+
+### 440130000000000050000830000000000000000000802784901170001700
+
+Điều 44.13.TT.13.17. Quyền và nghĩa vụ của công dân trong phòng, chống tham nhũng
+
+### 4401300000000000500008400000000000000000
+
+Điều 44.13.LQ.84. Trách nhiệm của các cơ quan khác trong bộ máy nhà nước
+
+### 4401300000000000500008500000000000000000
+
+Điều 44.13.LQ.85. Trách nhiệm của Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp huyện
+
+### 4401300000000000500008600000000000000000
+
+Điều 44.13.LQ.86. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân cấp xã
+
+### 4401300000000000500008700000000000000000
+
+Điều 44.13.LQ.87. Trách nhiệm của Ủy ban Mặt trận Tổ quốc Việt Nam các cấp
+
+### 4401300000000000500008800000000000000000
+
+Điều 44.13.LQ.88. Trách nhiệm của Công đoàn Việt Nam các cấp
+
+### 4401300000000000500008900000000000000000
+
+Điều 44.13.LQ.89. Trách nhiệm của các tổ chức chính trị - xã hội khác
+
+### 44013000000000006000
+
+Chương VI ĐIỀU KHOẢN THI HÀNH
+
+### 4401300000000000600009000000000000000000
+
+Điều 44.13.LQ.90. Hiệu lực thi hành
+
+### 4401300000000000600009040284700059000280
+
+Điều 44.13.NĐ.1.28. Hiệu lực thi hành
+
+### 4401300000000000600009040284700059000300
+
+Điều 44.13.NĐ.1.30. Phối hợp tổ chức, thực hiện
+
+### 4401300000000000600009040284700059000310
+
+Điều 44.13.NĐ.1.31. Trách nhiệm thi hành
+
+### 4401300000000000600009040284720061000250
+
+Điều 44.13.NĐ.2.25. Điều khoản thi hành
+
+### 4401300000000000600009080267530165000230
+
+Điều 44.13.TT.1.23. Hiệu lực thi hành
+
+### 4401300000000000600009080267530165000240
+
+Điều 44.13.TT.1.24. Trách nhiệm thi hành
+
+### 4401300000000000600009080271150067000120
+
+Điều 44.13.TT.2.12. Hiệu lực thi hành
+
+### 4401300000000000600009080271150067000130
+
+Điều 44.13.TT.2.13. Trách nhiệm thi hành
+
+### 4401300000000000600009080271290073000110
+
+Điều 44.13.TT.3.11. Hiệu lực thi hành
+
+### 4401300000000000600009080271290073000120
+
+Điều 44.13.TT.3.12. Trách nhiệm thi hành
+
+### 4401300000000000600009080271440081000110
+
+Điều 44.13.TT.4.11. Hiệu lực thi hành
+
+### 4401300000000000600009080271440081000120
+
+Điều 44.13.TT.4.12. Trách nhiệm thi hành
+
+### 4401300000000000600009080271480083000110
+
+Điều 44.13.TT.5.11. Hiệu lực thi hành
+
+### 4401300000000000600009080271480083000120
+
+Điều 44.13.TT.5.12. Trách nhiệm thi hành
+
+### 4401300000000000600009080271910015000140
+
+Điều 44.13.TT.6.14. Hiệu lực thi hành
+
+### 4401300000000000600009080271910015000150
+
+Điều 44.13.TT.6.15. Trách nhiệm thi hành
+
+### 4401300000000000600009080271990018000160
+
+Điều 44.13.TT.7.16. Hiệu lực thi hành
+
+### 4401300000000000600009080271990018000170
+
+Điều 44.13.TT.7.17. Trách nhiệm thi hành
+
+### 4401300000000000600009080272000019000110
+
+Điều 44.13.TT.8.11. Hiệu lực thi hành
+
+### 4401300000000000600009080272000019000120
+
+Điều 44.13.TT.8.12. Trách nhiệm thi hành
+
+### 4401300000000000600009080273260071000150
+
+Điều 44.13.TT.9.15. Hiệu lực thi hành
+
+### 4401300000000000600009080273260071000160
+
+Điều 44.13.TT.9.16. Trách nhiệm thi hành
+
+### 4401300000000000600009080273810092000190
+
+Điều 44.13.TT.10.19. Hiệu lực thi hành
+
+### 4401300000000000600009080273810092000200
+
+Điều 44.13.TT.10.20. Trách nhiệm thi hành
+
+### 4401300000000000600009080274840126000150
+
+Điều 44.13.TT.11.15. Hiệu lực thi hành
+
+### 4401300000000000600009080274840126000160
+
+Điều 44.13.TT.11.16. Trách nhiệm thi hành
+
+### 4401300000000000600009080276310044000120
+
+Điều 44.13.TT.12.12. Hiệu lực thi hành
+
+### 4401300000000000600009080276310044000130
+
+Điều 44.13.TT.12.13. Trách nhiệm thi hành
+
+### 4401300000000000600009080278490117000180
+
+Điều 44.13.TT.13.18. Hiệu lực thi hành
+
+### 4401300000000000600009080278490117000190
+
+Điều 44.13.TT.13.19. Trách nhiệm thi hành
+
+### 4401300000000000600009100000000000000000
+
+Điều 44.13.LQ.91. Áp dụng pháp luật và quy định chuyển tiếp
+
+### 4401300000000000600009140284700059000290
+
+Điều 44.13.NĐ.1.29. Điều khoản chuyển tiếp
+
+### 4401300000000000600009140284720061000240
+
+Điều 44.13.NĐ.2.24. Quy định chuyển tiếp
+

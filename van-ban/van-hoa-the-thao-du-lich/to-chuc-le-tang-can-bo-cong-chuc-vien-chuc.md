@@ -1,1973 +1,2803 @@
 ---
-layout: default
+layout: page
 title: Tổ chức lễ tang cán bộ, công chức, viên chức
 permalink: /van-ban/van-hoa-the-thao-du-lich/to-chuc-le-tang-can-bo-cong-chuc-vien-chuc/
-collection: subtopics
-slug: to-chuc-le-tang-can-bo-cong-chuc-vien-chuc
-parent: van-hoa-the-thao-du-lich
 ---
 
 # Tổ chức lễ tang cán bộ, công chức, viên chức
 
-**Đề mục:** Tổ chức lễ tang cán bộ, công chức, viên chức  
-**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)  
-**Số điều khoản:** 158  
-**Điều khoản có nội dung:** 52/149 (34.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
-
-### Điều 41.14.NĐ.1. Phạm vi điều chỉnh và đối tượng áp dụng
+QUY ĐỊNH CHUNG
 
 Điều 41.14.NĐ.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 105/2012/NĐ-CP Về tổ chức lễ tang cán bộ, công chức, viên chức ngày 17/12/2012 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000100000100000000000000000
+Nghị định này quy định việc tổ chức lễ tang đối với cán bộ, công chức, viên chức đang làm việc hoặc nghỉ hưu khi từ trần (sau đây gọi chung là người từ trần).
 
-**ID:** dk_00071169
+(Điều này có nội dung liên quan đến Điều 41.14.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng)
 
----
+Điều 41.14.TT.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 15/2013/TT-BCA Quy định chế độ tang lễ trong Công an nhân dân ngày 15/03/2013 của Bộ Công an, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.1. Phạm vi điều chỉnh
+Thông tư này quy định về tổ chức Lễ tang đối với sĩ quan, hạ sĩ quan, chiến sĩ, học viên, công nhân viên Công an nhân dân (sau đây gọi chung là cán bộ, chiến sĩ công an) hy sinh, từ trần; cán bộ công an đã nghỉ hưu từ trần; chi phí tổ chức lễ tang; chế độ viếng cán bộ, chiến sĩ công an, thân nhân của cán bộ, chiến sĩ công an, Trưởng, Phó trưởng Công an xã, thị trấn và Công an viên đang công tác hy sinh, từ trần.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 4101400000000000100000180246660015000010
+1. Đối tượng áp dụng:
 
-**ID:** dk_00071170
+a) Cán bộ, chiến sĩ công an hy sinh, từ trần trong khi làm nhiệm vụ hoặc do ốm đau, tai nạn;
 
----
+b) Cán bộ công an đã nghỉ hưu từ trần;
 
+c) Thân nhân cán bộ, chiến sĩ công an; Trưởng, Phó trưởng Công an xã, thị trấn và Công an viên đang công tác hy sinh, từ trần.
 
-### Điều 41.14.TT.1.2. Đối tượng áp dụng
+2. Đối tượng không áp dụng:
 
-*Nội dung chưa có sẵn*
+a) Cán bộ, chiến sĩ công an chết do tự sát hoặc do vi phạm bị kỷ luật “Tước danh hiệu Công an nhân dân” hoặc buộc thôi việc;
 
-**Chỉ mục:** 2
+b) Thân nhân của cán bộ, chiến sĩ công an; Trưởng, Phó trưởng Công an xã, thị trấn và Công an viên chết do tự sát hoặc do vi phạm bị truy tố trước pháp luật.
 
-**Mã phân cấp:** 4101400000000000100000180246660015000020
-
-**ID:** dk_00071171
-
----
-
-
-### Điều 41.14.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
+3. Trường hợp đặc biệt do lãnh đạo đơn vị chủ trì tổ chức Lễ tang quyết định.
 
 Điều 41.14.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 74/2013/TT-BTC Quy định các khoản chi phí và thực hiện việc cấp, quyết toán ngân sách nhà nước phục vụ Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang cấp cao ngày 04/06/2013 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/08/2013)
 
-**Mã phân cấp:** 4101400000000000100000180247470074000010
+Thông tư này quy định các khoản chi phí và thực hiện việc cấp, quyết toán ngân sách nhà nước phục vụ Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang cấp cao áp dụng cho các đối tượng được quy định tại Nghị định số 105/2012/NĐ-CP ngày 17 tháng 12 năm 2012 của Chính phủ về tổ chức lễ tang cán bộ, công chức, viên chức.
 
-**ID:** dk_00071172
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.1. Phạm vi điều chỉnh và đối tượng áp dụng)
 
----
+Điều 41.14.TT.3.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 86/2016/TT-BQP Quy định và hướng dẫn tổ chức lễ tang đối với quân nhân, công nhân, viên chức quốc phòng; người làm công tác cơ yếu do Bộ Quốc phòng quản lý ngày 20/06/2016 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 41.14.TT.3.1. Phạm vi điều chỉnh
+Thông tư này quy định và hướng dẫn tổ chức lễ tang đối với quân nhân, công nhân, viên chức quốc phòng; người làm công tác cơ yếu do Bộ Quốc phòng quản lý hy sinh, từ trần; tham gia tổ chức lễ tang đối với các đối tượng nêu trên nghỉ hưu từ trần; trách nhiệm của các cơ quan, đơn vị trong việc tổ chức lễ tang.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.3.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 4101400000000000100000180258590086000010
+1. Thông tư này áp dụng đối với:
 
-**ID:** dk_00071173
+a) Người đang công tác hy sinh, từ trần, gồm:
 
----
+- Quân nhân, công nhân, viên chức quốc phòng;
 
+- Người làm công tác cơ yếu do Bộ Quốc phòng quản lý;
 
-### Điều 41.14.TT.3.2. Đối tượng áp dụng
+- Quân nhân dự bị động viên trong thời gian tập trung huấn luyện, làm nhiệm vụ quân sự quốc phòng, an ninh.
 
-*Nội dung chưa có sẵn*
+b) Các đối tượng tại Điểm a nêu trên nghỉ hưu từ trần.
 
-**Chỉ mục:** 2
+2. Thông tư này không áp dụng đối với các đối tượng nêu tại Khoản 1 Điều này chết do tự thương, tự sát hoặc do vi phạm pháp luật của Nhà nước, kỷ luật của Quân đội với hình thức tước danh hiệu quân nhân hoặc buộc thôi việc.
 
-**Mã phân cấp:** 4101400000000000100000180258590086000020
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.4. Hình thức, nghi thức tổ chức lễ tang trong Quân đội)
 
-**ID:** dk_00071174
+Điều 41.14.NĐ.2. Nguyên tắc tổ chức lễ tang
 
----
+(Điều 2 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
+1. Việc tổ chức lễ tang đối với người từ trần, thể hiện sự trân trọng của Đảng, Nhà nước và nhân dân, cơ quan, đơn vị đối với công lao, cống hiến của cán bộ, công chức, viên chức trong quá trình làm việc, hoạt động cách mạng, xây dựng và bảo vệ Tổ quốc.
 
-### Điều 41.14.NĐ.2. Nguyên tắc tổ chức lễ tang
+2. Việc tổ chức lễ tang đối với người từ trần phải trang trọng, văn minh, kế thừa nét đẹp văn hóa truyền thống của dân tộc, tiết kiệm phù hợp với điều kiện kinh tế - xã hội của đất nước, của từng vùng; hạn chế, từng bước loại bỏ những tập quán lạc hậu, mê tín dị đoan, phô trương, lãng phí. Khuyến khích tổ chức an táng theo các hình thức hỏa táng, điện táng, an táng tại quê hương.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.3. Nguyên tắc
 
-**Chỉ mục:** 2
+(Điều 3 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 4101400000000000100000200000000000000000
+1. Tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân phải đảm bảo trang nghiêm, chu đáo, tiết kiệm, phù hợp với truyền thống dân tộc và nếp sống văn minh; không kết hợp tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân với phong tục, tập quán của địa phương; khuyến khích tổ chức an táng theo các hình thức hỏa táng, điện táng.
 
-**ID:** dk_00071175
+2. Căn cứ vào cấp bậc hàm, chức vụ của cán bộ tại thời điểm hy sinh, từ trần để tổ chức Lễ tang. Trường hợp cán bộ hy sinh, từ trần giữ nhiều chức vụ khác nhau thì tổ chức Lễ tang theo quy định đối với chức vụ cao nhất.
 
----
+Điều 41.14.TT.3.3. Nguyên tắc tổ chức lễ tang
 
+(Điều 3 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 41.14.TT.1.3. Nguyên tắc
+ 1. Tổ chức lễ tang đối với người hy sinh, từ trần thể hiện sự tri ân, trân trọng, ghi nhận của Đảng, Nhà nước, Quân đội đối với công lao, cống hiến của họ trong quá trình công tác, hoạt động cách mạng, xây dựng, chiến đấu và trưởng thành của Quân đội, vì sự nghiệp xây dựng và bảo vệ Tổ quốc.
 
-*Nội dung chưa có sẵn*
+ 2. Tổ chức lễ tang phải trang trọng, văn minh, kế thừa nét đẹp văn hóa truyền thống của dân tộc, tiết kiệm, phù hợp với điều kiện kinh tế; từng bước loại bỏ những tập quán lạc hậu; tránh phô trương, lãng phí. Khuyến khích tổ chức lễ tang theo các hình thức hỏa táng, điện táng, an táng tại quê hương.Điều 41.14.NĐ.3. Hình thức lễ tang
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 410140000000000010000020000000000000000000802466600150000300
+1. Lễ Quốc tang.
 
-**ID:** dk_00071176
+2. Lễ tang cấp Nhà nước.
 
----
+3. Lễ tang cấp cao.
 
+4. Lễ tang Cán bộ, công chức, viên chức.
 
-### Điều 41.14.TT.3.3. Nguyên tắc tổ chức lễ tang
+Điều 41.14.NĐ.4. Một số quy định khác
 
-*Nội dung chưa có sẵn*
+(Điều 4 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Chỉ mục:** 3
+1. Lễ viếng tổ chức tại nhà tang lễ, Lễ đưa tang và Lễ an táng thực hiện cùng trong một ngày (trừ Lễ Quốc tang).
 
-**Mã phân cấp:** 410140000000000010000020000000000000000000802585900860000300
+2. Trường hợp tổ chức Lễ viếng tại gia đình thì tùy theo phong tục địa phương và gia đình, thi hài người từ trần phải được khâm liệm vào linh cữu và bảo đảm vệ sinh, nhất là đối với người có bệnh lây nhiễm. Linh cữu được để không quá 48 (bốn mươi tám) giờ, kể từ khi khâm liệm đến khi tổ chức Lễ an táng.
 
-**ID:** dk_00071177
+3. Linh cữu người từ trần quàn tại nhà tang lễ hoặc tại gia đình không để ô cửa có lắp kính trên nắp quan tài.
 
----
+4. Không rắc vàng mã và các loại tiền do Ngân hàng Nhà nước Việt Nam phát hành và ngoại tệ trong quá trình đưa tang từ nhà tang lễ hoặc gia đình đến nơi an táng; không đốt đồ mã tại nơi an táng.
 
+5. Chỉ các thành viên Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang đeo băng tang đen (có chiều rộng 07 cm) trên cánh tay trái.
 
-### Điều 41.14.NĐ.3. Hình thức lễ tang
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.6. Một số quy định khác)
 
-*Nội dung chưa có sẵn*
+Chương II
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 4101400000000000100000300000000000000000
-
-**ID:** dk_00071178
-
----
-
-
-### Điều 41.14.NĐ.4. Một số quy định khác
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 4101400000000000100000400000000000000000
-
-**ID:** dk_00071179
-
----
-
-
-### Điều 41.14.NĐ.5. Chức danh được tổ chức Lễ Quốc tang
+LỄ QUỐC TANG
 
 Điều 41.14.NĐ.5. Chức danh được tổ chức Lễ Quốc tang
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200000500000000000000000
+1. Cán bộ đang giữ hoặc thôi giữ một trong các chức vụ sau đây  khi từ trần được tổ chức Lễ Quốc tang:
 
-**ID:** dk_00071181
+a) Tổng Bí thư Ban Chấp hành Trung ương Đảng;
 
----
+b) Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
+c) Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-### Điều 41.14.NĐ.6. Thông báo về Lễ Quốc tang
+d) Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-*Nội dung chưa có sẵn*
+2. Bộ Chính trị quyết định việc tổ chức Lễ Quốc tang đối với cán bộ cấp cao khác có quá trình đóng góp và công lao to lớn đối với sự nghiệp cách mạng của Đảng, Nhà nước và nhân dân, có uy tín lớn trong nước và quốc tế.
 
-**Chỉ mục:** 6
+Điều 41.14.NĐ.6. Thông báo về Lễ Quốc tang
 
-**Mã phân cấp:** 4101400000000000200000600000000000000000
+(Điều 6 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**ID:** dk_00071182
+Các cơ quan sau đây cùng đứng tên ra thông cáo về Lễ Quốc tang:
 
----
+1. Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam;
 
+2. Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-### Điều 41.14.NĐ.7. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang
+3. Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+
+4. Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+
+5. Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.
 
 Điều 41.14.NĐ.7. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200000700000000000000000
+1. Bộ Chính trị quyết định thành lập Ban Lễ tang Nhà nước, gồm từ 25 (hai mươi lăm) đến 30 (ba mươi) thành viên đại diện Bộ Chính trị, Ban Chấp hành Trung ương, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, các đoàn thể Trung ương, cơ quan nơi người từ trần đã hoặc đang công tác, đại diện lãnh đạo tỉnh, thành phố trực thuộc Trung ương quê hương hoặc nơi sinh của người từ trần.
 
-**ID:** dk_00071183
+a) Ban Lễ tang Nhà nước có nhiệm vụ chỉ đạo việc tổ chức Lễ Quốc tang theo quy định tại Nghị định này;
 
----
+b) Trưởng Ban Lễ tang Nhà nước là Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam hoặc Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
+2. Bộ Chính trị quyết định thành lập Ban Tổ chức Lễ tang, gồm từ 15 (mười lăm) đến 20 (hai mươi) thành viên đại diện cho các Bộ, ban, ngành ở Trung ương, địa phương quê hương hoặc nơi sinh của người từ trần và đại diện gia đình người từ trần,
 
-### Điều 41.14.NĐ.8. Các văn bản về Lễ Quốc tang
+a) Ban Tổ chức Lễ tang có nhiệm vụ giúp cho Ban Lễ tang Nhà nước trong việc điều hành các cơ quan là thành viên Ban Tổ chức Lễ tang, các cơ quan tham gia tổ chức Lễ Quốc tang theo quy định tại Nghị định này;
 
-*Nội dung chưa có sẵn*
+b) Trưởng Ban Tổ chức Lễ tang là một Phó Thủ tướng Chính phủ.
 
-**Chỉ mục:** 8
+Điều 41.14.NĐ.8. Các văn bản về Lễ Quốc tang
 
-**Mã phân cấp:** 4101400000000000200000800000000000000000
+(Điều 8 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**ID:** dk_00071184
-
----
-
-
-### Điều 41.14.NĐ.9. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ Quốc tang
+Ban Tổ chức Trung ương chủ trì, phối hợp với Ban Tuyên giáo Trung ương, Văn phòng Trung ương Đảng và cơ quan chủ quản của người từ trần soạn thảo: Thông cáo về Lễ Quốc tang; danh sách Ban Lễ tang Nhà nước, Ban Tổ chức Lễ tang, tiểu sử người từ trần; Thông báo về Lễ viếng, Lễ truy điệu, Lễ an táng; Lời điếu và Lời cảm ơn có ý kiến đóng góp của gia đình người từ trần và được Ban Lễ tang Nhà nước thông qua.
 
 Điều 41.14.NĐ.9. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ Quốc tang
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200000900000000000000000
+1. Đưa tin buồn
 
-**ID:** dk_00071185
+Khi chưa có thông báo chính thức của Ban Tổ chức Lễ tang, các phương tiện thông tin đại chúng chỉ được đưa tin vắn về việc từ trần. Sau khi thành lập Ban Tổ chức Lễ tang và việc tổ chức Lễ tang được chính thức công bố, các phương tiện thông tin đại chúng mới được đưa tin buồn, đăng bài viết giới thiệu về người từ trần.
 
----
+2. Đăng tin trên các phương tiện thông tin
 
+a) Báo Nhân dân và các cơ quan báo chí ở Trung ương và địa phương đưa tin về Lễ Quốc tang, gồm: Thông cáo, danh sách Ban Lễ tang Nhà nước, Ban Tổ chức Lễ tang; tiểu sử, ảnh người từ trần; nghi thức cả nước để tang; thông báo về Lễ viếng, Lễ truy điệu, Lễ an táng, lời cảm ơn của Ban Lễ tang Nhà nước;
 
-### Điều 41.14.NĐ.10. Thời gian, nghi thức để tang
+b) Hãng phim Tài liệu và Khoa học Trung ương quay phim tư liệu Lễ viếng, Lễ truy điệu và Lễ an táng. Đài Tiếng nói Việt Nam và Đài Truyền hình Việt Nam, Thông tấn xã Việt Nam tường thuật và truyền hình trực tiếp Lễ viếng, Lễ truy điệu và Lễ an táng.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.NĐ.10. Thời gian, nghi thức để tang
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200001000000000000000000
-
-**ID:** dk_00071186
-
----
-
-
-### Điều 41.14.NĐ.11. Nơi tổ chức Lễ Quốc tang và nơi an táng
+Thời gian tổ chức Lễ Quốc tang là 02 (hai) ngày. Trong thời gian này các cơ quan, công sở trong phạm vi cả nước và các cơ quan đại diện của Việt Nam ở nước ngoài treo cờ rủ, có dải băng tang (có kích thước bằng 1/10 chiều rộng lá cờ, chiều dài theo chiều dài của lá cờ và chỉ treo cờ đến 2/3 chiều cao của cột cờ, dùng băng vải đen buộc không để cờ bay), không tổ chức các hoạt động vui chơi, giải trí công cộng.
 
 Điều 41.14.NĐ.11. Nơi tổ chức Lễ Quốc tang và nơi an táng
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200001100000000000000000
+1. Lễ Quốc tang tổ chức tại Nhà tang lễ Quốc gia số 5 Trần Thánh Tông, Hà Nội (nếu tổ chức ở Hà Nội); Nhà tang lễ Bệnh viện Quân y 175 hoặc Nhà tang lễ số 25 Lê Quý Đôn, Quận 3, thành phố Hồ Chí Minh (nếu tổ chức ở thành phố Hồ Chí Minh).
 
-**ID:** dk_00071187
+2. An táng tại Nghĩa trang Mai Dịch, Hà Nội; Nghĩa trang thành phố Hồ Chí Minh hoặc hỏa táng, điện táng, an táng tại quê hương hay nghĩa trang địa phương khác theo nguyện vọng của gia đình.
 
----
-
-
-### Điều 41.14.NĐ.12. Trang trí lễ đài và túc trực bên linh cữu
+(Điều này có nội dung liên quan đến Điều 1. của Quyết định 34/2002/QĐ-TTg Về việc sử dụng và quản lý Nhà tang lễ số 5 Trần Thánh Tông, Hà Nội ban hành ngày 20/02/2002)
 
 Điều 41.14.NĐ.12. Trang trí lễ đài và túc trực bên linh cữu
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200001200000000000000000
+1. Lễ đài trang trí phông nền đen, trên đó treo Quốc kỳ có dải băng tang, ảnh người từ trần và dòng chữ trắng “Vô cùng thương tiếc đồng chí...”.
 
-**ID:** dk_00071188
+2. Bàn thờ đặt chính giữa phòng, dưới lễ đài, có lư hương và gối Huân chương.
 
----
+3. Linh cữu phủ Quốc kỳ, đặt trên bệ ở chính giữa lễ đài, đầu hướng về bàn thờ.
 
+4. Ban Tổ chức Lễ tang phân công các thành viên trong Ban Tổ chức Lễ tang đứng túc trực khi các đoàn cấp cao của Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam đến viếng.
 
-### Điều 41.14.NĐ.13. Vòng hoa trong Lễ viếng
+5. Trong quá trình tiến hành Lễ viếng và Lễ truy điệu có 02 (hai) chiến sĩ tiêu binh đứng cửa phòng Lễ tang; 04 (bốn) sĩ quan quân đội mặc lễ phục đứng túc trực 4 góc cạnh linh cữu và 06 (sáu) chiến sĩ tiêu binh đứng túc trực quanh linh cữu và đội quân nhạc phục vụ Lễ viếng, Lễ truy điệu, Lễ đưa tang.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.NĐ.13. Vòng hoa trong Lễ viếng
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200001300000000000000000
+1. Ban Tổ chức Lễ tang chuẩn bị 06 (sáu) vòng hoa, có băng vải đỏ chữ vàng của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và gia đình; sau khi các đoàn viếng xong đặt cố định hai bên bàn thờ.
 
-**ID:** dk_00071189
+2. Ban Tổ chức Lễ tang chuẩn bị 30 (ba mươi) vòng hoa luân chuyển. Trong thông báo tin buồn có ghi: Các đoàn đến viếng không mang vòng hoa, chỉ mang băng vải đen, có kích thước 1,2 m x 0,2 m, ghi dòng chữ trắng “Kính viếng”, dưới có dòng chữ nhỏ ghi tên cơ quan, tổ chức, cá nhân để gắn vào vòng hoa do Ban Tổ chức Lễ tang chuẩn bị.
 
----
+Điều 41.14.NĐ.14. Lễ viếng
 
+(Điều 14 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.14. Lễ viếng
+1. Ban Tổ chức Lễ tang sắp xếp các đoàn vào viếng theo đội hình như sau: 02 (hai) chiến sĩ khiêng vòng hoa đi đầu, tiếp theo là Trưởng đoàn, phía sau bên phải Trưởng đoàn là sĩ quan dẫn viếng, các thành viên trong đoàn viếng đi theo hai hàng dọc.
 
-*Nội dung chưa có sẵn*
+2. Ban Tổ chức Lễ tang tổ chức đón và xếp các đoàn đại biểu nước ngoài, các cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam và các cơ quan, cá nhân nước ngoài khác có nguyện vọng đến viếng và ghi sổ tang.
 
-**Chỉ mục:** 14
+3. Sau khi viếng, Trưởng đoàn ghi sổ tang.
 
-**Mã phân cấp:** 4101400000000000200001400000000000000000
+4. Trong quá trình viếng, Quân nhạc cử nhạc “Hồn tử sĩ”.
 
-**ID:** dk_00071190
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.30. Tổ chức cho các đoàn nước ngoài đến viếng)
 
----
+Điều 41.14.NĐ.15. Tổ chức Lễ viếng ở nước ngoài
 
+(Điều 15 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.15. Tổ chức Lễ viếng ở nước ngoài
+1. Cùng thời gian diễn ra Lễ Quốc tang ở Việt Nam, Bộ Ngoại giao hướng dẫn các cơ quan đại diện của Việt Nam ở nước ngoài tiếp đón các tổ chức, cá nhân người Việt Nam, người nước ngoài đến viếng và ghi sổ tang tại cơ quan đại diện của Việt Nam ở nước ngoài.
 
-*Nội dung chưa có sẵn*
+2. Trang trí lễ đài:
 
-**Chỉ mục:** 15
+a) Lễ đài trang trí phông nền đen, Quốc kỳ treo phía trên có dải băng tang, ảnh người từ trần và dòng chữ trắng “Vô cùng thương tiếc đồng chí...”;
 
-**Mã phân cấp:** 4101400000000000200001500000000000000000
+b) Bàn thờ đặt chính giữa phòng, dưới lễ đài có lư hương; hai bên bàn thờ đặt 02 (hai) vòng hoa cố định;
 
-**ID:** dk_00071191
+c) Bàn ghi sổ tang.
 
----
+(Điều này có nội dung liên quan đến Điều 23.1.TT.1.18. Mở sổ tang; Điều 23.1.TT.1.19. Treo cờ tang)
 
+Điều 41.14.NĐ.16. Lễ truy điệu
 
-### Điều 41.14.NĐ.16. Lễ truy điệu
+(Điều 16 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-*Nội dung chưa có sẵn*
+1. Thành phần dự Lễ truy điệu gồm: Ban Lễ tang Nhà nước; Ban Tổ chức Lễ tang; gia đình, người thân; đại diện các cơ quan, đơn vị và địa phương của người từ trần.
 
-**Chỉ mục:** 16
+2. Vị trí các đoàn dự Lễ truy điệu
 
-**Mã phân cấp:** 4101400000000000200001600000000000000000
+a) Gia đình đứng phía bên trái phòng lễ tang (theo hướng nhìn lên lễ đài);
 
-**ID:** dk_00071192
+b) Lãnh đạo Đảng, Nhà nước đứng phía bên phải phòng lễ tang (theo hướng nhìn lên lễ đài);
 
----
+c) Các đoàn đại biểu Bộ, Ban, ngành, đối tượng khác, lực lượng túc trực và đội quân nhạc đứng theo sắp xếp của Ban Tổ chức Lễ tang.
 
+3. Chương trình Lễ truy điệu
 
-### Điều 41.14.NĐ.17. Lễ đưa tang
+a) Trưởng ban Tổ chức Lễ tang tuyên bố Lễ truy điệu;
 
-*Nội dung chưa có sẵn*
+b) Quân nhạc cử Quốc ca;
 
-**Chỉ mục:** 17
+c) Trưởng ban Lễ tang Nhà nước đọc lời điếu và tuyên bố phút mặc niệm;
 
-**Mã phân cấp:** 4101400000000000200001700000000000000000
+d) Khi mặc niệm, quân nhạc cử nhạc “Hồn tử sĩ”;
 
-**ID:** dk_00071193
+đ) Trưởng ban Tổ chức Lễ tang tuyên bố kết thúc Lễ truy điệu.
 
----
+4. Cùng thời gian diễn ra Lễ truy điệu ở Trung ương, lãnh đạo địa phương quê hương hoặc nơi sinh của người từ trần tổ chức Lễ truy điệu tại địa phương.
 
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt)
 
-### Điều 41.14.NĐ.18. Lực lượng và phương tiện phục vụ Lễ tang
+Điều 41.14.NĐ.17. Lễ đưa tang
+
+(Điều 17 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
+
+1. Thành phần dự Lễ đưa tang gồm: Ban Lễ tang Nhà nước; Ban Tổ chức Lễ tang; gia đình, người thân; đại diện các cơ quan, đơn vị và địa phương của người từ trần.
+
+2. Khi chuyển linh cữu từ nhà tang lễ lên xe tang và từ xe tang vào phần mộ có 01 (một) sĩ quan mang ảnh, 01 (một) sĩ quan mang gối Huân chương và 01 (một) sĩ quan quấn cờ mang cờ đi trước linh cữu; đội công tác gồm 01 (một) sĩ quan và 12 (mười hai) chiến sĩ chuyển linh cữu từ nhà tang lễ lên xe tang, từ xe tang vào phần mộ; Trưởng ban, Phó Trưởng ban Lễ tang Nhà nước cùng khiêng linh cữu (phía đầu linh cữu); gia đình và các thành viên khác đi phía sau linh cữu.
+
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt)
 
 Điều 41.14.NĐ.18. Lực lượng và phương tiện phục vụ Lễ tang
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000200001800000000000000000
+1. Lực lượng phục vụ Lễ tang do Bộ Quốc phòng chuẩn bị, gồm;
 
-**ID:** dk_00071194
+a) Lực lượng phục vụ Lễ viếng: có 04 (bốn) sĩ quan túc trực cách linh cữu 1,5 m; 06 (sáu) chiến sĩ giữ súng CKC có lưỡi lê túc trực đứng bên ngoài cách sĩ quan túc trực 0,7 m; 02 (hai) chiến sĩ tiêu binh đứng trước cửa nhà tang lễ; lực lượng khiêng hoa; sĩ quan dẫn viếng; lực lượng quân nhạc phục vụ Lễ viếng;
 
----
+b) Lực lượng phục vụ Lễ truy điệu: có 04 (bốn) sĩ quan túc trực bốn góc cách linh cữu 1,5 m; 06 (sáu) chiến sĩ giữ súng CKC túc trực đứng bên ngoài cách sĩ quan túc trực 0,7 m; 02 (hai) chiến sĩ tiêu binh đứng trước cửa nhà tang lễ; 01 tổ Quốc kỳ; 01 tổ Quân kỳ; lực lượng danh dự ba Quân chủng (127 cán bộ, chiến sĩ), quân nhạc phục vụ Lễ truy điệu;
 
+c) Lực lượng phục vụ Lễ đưa tang: 01 (một) sĩ quan mang ảnh, 01 (một) sĩ quan mang gối Huân chương, 01 (một) sĩ quan quấn cờ; đội công tác gồm 01 sĩ quan và 12 (mười hai) chiến sĩ khiêng linh cữu; 07 (bảy) chiến sĩ chuẩn bị xe tang; lục lượng danh dự ba Quân chủng;
 
-### Điều 41.14.NĐ.19. Lễ hạ huyệt
+d) Lực lượng phục vụ Lễ an táng: 27 (hai mươi bảy) chiến sĩ làm nhiệm vụ tiêu binh tại cổng nghĩa trang; lực lượng mộ giả 13 (mười ba) chiến sĩ, lực lượng danh dự ba Quân chủng, lực lượng quân nhạc phục vụ Lễ an táng.
 
-*Nội dung chưa có sẵn*
+2. Phương tiện phục vụ Lễ tang do Bộ Quốc phòng chuẩn bị gồm: 01 xe chỉ huy; 01 xe chở Quốc kỳ, ảnh, gối Huân chương; 01 xe chở Quân kỳ; 06 xe chở đội hình danh dự; 01 xe hoa; 01 xe kéo xe tang (phía cuối xe tang là khẩu lựu pháo 122 mm); 01 xe dự phòng; 02 xe thông tin, 01 xe cứu thương.
 
-**Chỉ mục:** 19
+3. Linh cữu được phủ Quốc kỳ đặt trong lồng kính để trên xe tang.
 
-**Mã phân cấp:** 4101400000000000200001900000000000000000
+Điều 41.14.NĐ.19. Lễ hạ huyệt
 
-**ID:** dk_00071195
+(Điều 19 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
----
+1. Sau khi đội công tác di chuyển linh cữu vào vị trí phần mộ, Trưởng ban Tổ chức Lễ tang tuyên bố Lễ hạ huyệt.
 
+2. Đội công tác làm nhiệm vụ hạ huyệt.
 
-### Điều 41.14.NĐ.20. Xây mộ và chi phí
+3. Trưởng ban Tổ chức Lễ tang mời lãnh đạo Đảng, Nhà nước, gia đình bỏ nắm đất đầu tiên và đi quanh phần mộ để vĩnh biệt.
 
-*Nội dung chưa có sẵn*
+4. Đội công tác tiếp tục hoàn chỉnh phần mộ.
 
-**Chỉ mục:** 20
+5. Trong khi tiến hành Lễ hạ huyệt và lấp mộ, quân nhạc cử nhạc “Hành khúc tang lễ”.
 
-**Mã phân cấp:** 4101400000000000200002000000000000000000
+6. Sau khi lấp mộ xong, Ban Tổ chức Lễ tang dành một phút mặc niệm tiễn biệt người từ trần. Quân nhạc cử nhạc “Hồn tử sĩ".
 
-**ID:** dk_00071196
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt)
 
----
+Điều 41.14.NĐ.20. Xây mộ và chi phí
 
+(Điều 20 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.21. Chức danh được tổ chức Lễ tang cấp Nhà nước
+1. Mộ xây bằng đá granite, có kích thước theo quy định hiện hành.
+
+2. Chi phí xây mộ hoặc hỏa táng, điện táng và phục vụ Lễ tang do ngân sách nhà nước cấp.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.2.2. Nội dung chi và mức chi đối với Lễ Quốc tang)
+
+Chương III
+
+LỄ TANG CẤP NHÀ NƯỚC
+
+(Chương này có nội dung liên quan đến Điều 41.14.TT.1.9. Tổ chức Lễ tang của Thông tư 15/2013/TT-BCA Quy định chế độ tang lễ trong Công an nhân dân ban hành ngày 15/03/2013)
 
 Điều 41.14.NĐ.21. Chức danh được tổ chức Lễ tang cấp Nhà nước
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300002100000000000000000
+1. Cán bộ đang giữ hoặc thôi giữ một trong các chức vụ sau đây khi từ trần được tổ chức Lễ tang cấp Nhà nước:
 
-**ID:** dk_00071198
+a) Ủy viên Bộ Chính trị, Bí thư Ban Chấp hành Trung ương Đảng;
 
----
+b) Phó Chủ tịch nước Cộng hòa Xã hội chủ nghĩa Việt Nam;
 
+c) Phó Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-### Điều 41.14.NĐ.22. Đứng tên đưa tin buồn
+d) Phó Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-*Nội dung chưa có sẵn*
+đ) Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
 
-**Chỉ mục:** 22
+e) Chánh án Toà án nhân dân tối cao;
 
-**Mã phân cấp:** 4101400000000000300002200000000000000000
+g) Viện trưởng Viện kiểm sát nhân dân tối cao;
 
-**ID:** dk_00071199
+h) Đại tướng lực lượng vũ trang nhân dân;
 
----
+i) Thượng tướng lực lượng vũ trang nhân dân là cán bộ hoạt động cách mạng trước Tháng 8 năm 1945.
 
+2. Đối với trường hợp người từ trần giữ một trong các chức vụ quy định tại Khoản 1 Điều này mà bị kỷ luật thì việc tổ chức Lễ tang được quy định như sau:
 
-### Điều 41.14.NĐ.23. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang
+Lễ tang được tổ chức theo hình thức Lễ tang cán bộ, công chức, viên chức đối với trường hợp bị kỷ luật bằng hình thức cách chức.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.8. Chức danh được tổ chức Lễ tang cấp Nhà nước)
+
+Điều 41.14.NĐ.22. Đứng tên đưa tin buồn
+
+(Điều 22 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
+
+Tùy theo cương vị của người từ trần, việc đưa tin buồn được thực hiện dưới danh nghĩa của tất cả hoặc một số cơ quan sau đây và gia đình:
+
+1. Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam.
+
+2. Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+3. Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+4. Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+5. Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.23. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300002300000000000000000
+1. Ban Bí thư Trung ương Đảng quyết định thành lập Ban Lễ tang Nhà nước, gồm từ 20 (hai mươi) đến 25 (hai mươi lăm) thành viên đại diện Bộ Chính trị, Ban Chấp hành Trung ương, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, cơ quan nơi người từ trần đã hoặc đang công tác và địa phương quê hương hoặc nơi sinh của người từ trần.
 
-**ID:** dk_00071200
+a) Ban Lễ tang Nhà nước có nhiệm vụ chỉ đạo việc tổ chức Lễ tang cấp Nhà nước theo quy định tại Nghị định này;
 
----
+b) Trưởng Ban Lễ tang Nhà nước là một đồng chí ủy viên Bộ Chính trị; Phó Chủ tịch nước, Phó Thủ tướng Chính phủ hoặc Phó Chủ tịch Quốc hội.
 
+2. Ban Bí thư Trung ương Đảng quyết định thành lập Ban Tổ chức Lễ tang, gồm từ 10 (mười) đến 15 (mười lăm) thành viên đại diện cho các Bộ, Ban, ngành ở Trung ương, địa phương quê hương hoặc nơi sinh của người từ trần và đại diện gia đình.
 
-### Điều 41.14.NĐ.24. Các văn bản về Lễ tang cấp Nhà nước
+a) Ban Tổ chức Lễ tang có nhiệm vụ giúp Ban Lễ tang Nhà nước trong việc điều hành các cơ quan là thành viên Ban Tổ chức Lễ tang, các cơ quan tham gia tổ chức Lễ tang cấp Nhà nước theo quy định tại Nghị định này;
+
+b) Tùy theo chức danh của người từ trần, Trưởng ban tổ chức Lễ tang là một trong các đồng chí Chánh Văn phòng Trung ương Đảng; Chủ nhiệm Văn phòng Chủ tịch nước; Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ; Chủ nhiệm Văn phòng Quốc hội hoặc Chánh Văn phòng các cơ quan có chức danh quy định tại Điều 21 Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.24. Các văn bản về Lễ tang cấp Nhà nước
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300002400000000000000000
+Ban Tổ chức Trung ương chủ trì, phối hợp với Ban Tuyên giáo Trung ương, Văn phòng Trung ương Đảng và cơ quan chủ quản của người từ trần soạn thảo: Thông cáo về Lễ tang cấp Nhà nước; danh sách Ban Lễ tang Nhà nước, Ban Tổ chức Lễ tang; tiểu sử người từ trần; thông báo về Lễ viếng, Lễ truy điệu, Lễ an táng; Lời điếu và Lời cảm ơn có ý kiến đóng góp của gia đình người từ trần và được Ban Lễ tang Nhà nước thông qua.
 
-**ID:** dk_00071201
-
----
-
-
-### Điều 41.14.NĐ.25. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ tang cấp Nhà nước
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.25. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ tang cấp Nhà nước
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300002500000000000000000
+1. Đưa tin buồn
 
-**ID:** dk_00071202
+Khi chưa có thông báo chính thức của Ban Tổ chức Lễ tang, các phương tiện thông tin đại chúng chỉ được đưa tin vắn về người từ trần. Sau khi thành lập Ban Tổ chức Lễ tang và việc tổ chức Lễ tang chính thức công bố, các phương tiện thông tin đại chúng mới được đưa tin, đăng bài viết về người từ trần.
 
----
+2. Đăng tin trên các phương tiện thông tin
 
+a) Báo Nhân dân và các cơ quan báo chí ở Trung ương và địa phương đưa tin buồn; tiểu sử và ảnh người từ trần; thông báo về Lễ viếng, Lễ truy điệu, Lễ an táng và lời cảm ơn của Ban Lễ tang Nhà nước;
 
-### Điều 41.14.NĐ.26. Nơi tổ chức Lễ tang và nơi an táng
+b) Đài Tiếng nói Việt Nam và Đài Truyền hình Việt Nam, Thông tấn xã Việt Nam tường thuật và truyền hình Lễ viếng, Lễ truy điệu.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.26. Nơi tổ chức Lễ tang và nơi an táng
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300002600000000000000000
+1. Lễ tang cấp Nhà nước tổ chức tại Nhà tang lễ Quốc gia số 5 Trần Thánh Tông, Hà Nội (nếu tổ chức ở Hà Nội); Nhà tang lễ Bệnh viện Quân y 175 hoặc Nhà tang lễ số 25 Lê Quý Đôn, Quận 3, thành phố Hồ Chí Minh (nếu tổ chức ở thành phố Hồ Chí Minh).
 
-**ID:** dk_00071203
+2. An táng tại Nghĩa trang Mai Dịch, Hà Nội; Nghĩa trang thành phố Hồ Chí Minh hoặc hỏa táng, điện táng; an táng tại quê hương hay nghĩa trang địa phương khác theo nguyện vọng của gia đình.
 
----
-
-
-### Điều 41.14.NĐ.27. Trang trí lễ đài và túc trực bên linh cữu
+(Điều này có nội dung liên quan đến Điều 1. của Quyết định 34/2002/QĐ-TTg Về việc sử dụng và quản lý Nhà tang lễ số 5 Trần Thánh Tông, Hà Nội ban hành ngày 20/02/2002; Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.27. Trang trí lễ đài và túc trực bên linh cữu
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300002700000000000000000
+1. Lễ đài trang trí phông nền đen, trên đó gắn ảnh người từ trần và dòng chữ trắng “Vô cùng thương tiếc đồng chí …".
 
-**ID:** dk_00071204
+2. Bàn thờ đặt trước và chính giữa phông, dưới lễ đài có lư hương và gối Huân chương; hai bên bàn thờ đặt 06 (sáu) vòng hoa cố định.
 
----
+3. Linh cữu phủ Quốc kỳ, đặt trên bệ ở chính giữa, đầu hướng về lễ đài.
 
+4. Bàn thờ nhỏ đặt phía dưới, có bát hương để Trưởng đoàn các đoàn đến viếng thắp hương.
 
-### Điều 41.14.NĐ.28. Vòng hoa viếng
+5. Ban Tổ chức Lễ tang phân công các cán bộ cơ quan chủ quản nơi người từ trần đã hoặc đang công tác đứng túc trực bên linh cữu khi có các đoàn cấp cao của Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam đến viếng.
 
-*Nội dung chưa có sẵn*
+6. Gia đình đứng phía bên trái phòng lễ tang (theo hướng nhìn lên lễ đài).
 
-**Chỉ mục:** 28
+7. Trong quá trình tiến hành lễ viếng, tại phòng lễ tang có 02 (hai) chiến sĩ tiêu binh đứng trước cửa phòng lễ tang; 04 (bốn) sĩ quan quân đội mặc lễ phục và 04 (bốn) chiến sĩ tiêu binh đứng túc trực quanh linh cữu và đội quân nhạc phục vụ Lễ viếng, Lễ truy điệu, Lễ đưa tang.
 
-**Mã phân cấp:** 4101400000000000300002800000000000000000
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
-**ID:** dk_00071205
+Điều 41.14.NĐ.28. Vòng hoa viếng
 
----
+(Điều 28 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
+1. Ban Tổ chức Lễ tang chuẩn bị 06 (sáu) vòng hoa, có băng vải đỏ chữ vàng của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và gia đình; sau khi các đoàn viếng xong đặt cố định hai bên bàn thờ.
 
-### Điều 41.14.NĐ.29. Lễ viếng
+2. Ban Tổ chức Lễ tang chuẩn bị 25 (hai mươi lăm) vòng hoa luân chuyển. Trong thông báo tin buồn có ghi: các đoàn đến viếng không mang vòng hoa, chỉ mang theo băng vải đen, có kích thước 1,2m x 0,2m, ghi dòng chữ trắng “Kính viếng”, dưới có dòng chữ nhỏ ghi tên cơ quan, tổ chức, cá nhân để gắn vào vòng hoa do Ban Tổ chức Lễ tang chuẩn bị.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
-**Chỉ mục:** 29
+Điều 41.14.NĐ.29. Lễ viếng
 
-**Mã phân cấp:** 4101400000000000300002900000000000000000
+(Điều 29 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**ID:** dk_00071206
+1. Ban Tổ chức Lễ tang sắp xếp các đoàn vào viếng theo đội hình khi viếng như sau: 02 (hai) chiến sĩ khiêng vòng hoa đi đầu, tiếp theo là Trưởng đoàn, phía sau bên phải Trưởng đoàn là sĩ quan dẫn viếng, các thành viên trong đoàn viếng đi theo hai hàng dọc.
 
----
+2. Sau khi viếng, Trưởng đoàn ghi sổ tang.
 
+3. Trong quá trình viếng, Quân nhạc cử nhạc “Hồn tử sĩ’.
 
-### Điều 41.14.NĐ.30. Tổ chức cho các đoàn nước ngoài đến viếng
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.30. Tổ chức cho các đoàn nước ngoài đến viếng
 
-**Chỉ mục:** 30
+(Điều 30 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300003000000000000000000
+1. Việc tổ chức cho các đoàn nước ngoài đến viếng thực hiện theo quy định tại Khoản 2 Điều 14 Nghị định này.
 
-**ID:** dk_00071207
+2. Cơ quan đại điện của Việt Nam ở nước ngoài không tổ chức Lễ viếng, Lễ truy điệu.
 
----
-
-
-### Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.14. Lễ viếng; Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt
 
-**Chỉ mục:** 31
+(Điều 31 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300003100000000000000000
+Việc tổ chức Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt thực hiện theo quy định tại Khoản 1, 2 và 3 Điều 16, Điều 17 và Điều 19 Nghị định này.
 
-**ID:** dk_00071208
-
----
-
-
-### Điều 41.14.NĐ.32. Lực lượng và phương tiện phục vụ Lễ đưa tang
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.16. Lễ truy điệu; Điều 41.14.NĐ.17. Lễ đưa tang; Điều 41.14.NĐ.19. Lễ hạ huyệt; Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
 Điều 41.14.NĐ.32. Lực lượng và phương tiện phục vụ Lễ đưa tang
 
-**Chỉ mục:** 32
+(Điều 32 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000300003200000000000000000
+1. Lực lượng phục vụ Lễ đưa tang do Bộ Quốc phòng chuẩn bị, gồm: Tổ Quân kỳ, Đội danh dự ba Quân chủng; lực lượng chuyển linh cữu và hoa.
 
-**ID:** dk_00071209
+2. Đội xe phục vụ Lễ đưa tang do Bộ Quốc phòng chuẩn bị, gồm: 01 xe chỉ huy; 01 xe kéo xe tang (phía cuối xe tang có bệ với hàng chữ “Tổ quốc ghi công”); 01 xe chở Quân kỳ, ảnh, gối Huân chương; 03 xe chở đội danh dự ba Quân chủng và 01 xe hoa, 01 xe dự phòng, 02 xe thông tin và 01 xe cứu thương.
 
----
+3. Linh cữu phủ Quốc kỳ đặt trong lồng kính để trên xe kéo xe tang có hàng chữ “Tổ quốc ghi công”.
 
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
-### Điều 41.14.NĐ.33. Xây mộ và chi phí
+Điều 41.14.NĐ.33. Xây mộ và chi phí
 
-*Nội dung chưa có sẵn*
+(Điều 33 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Chỉ mục:** 33
+1. Mộ xây bằng đá granite, có kích thước theo quy định hiện hành.
 
-**Mã phân cấp:** 4101400000000000300003300000000000000000
+2. Chi phí xây mộ hoặc hỏa táng, điện táng và phục vụ Lễ tang do ngân sách nhà nước cấp.
 
-**ID:** dk_00071210
+(Điều này có nội dung liên quan đến Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước; Điều 41.14.TT.3.8. Tổ chức Lễ tang)
 
----
+Chương IV
 
-
-### Điều 41.14.NĐ.34. Chức danh được tổ chức Lễ tang cấp cao
+LỄ TANG CẤP CAO
 
 Điều 41.14.NĐ.34. Chức danh được tổ chức Lễ tang cấp cao
 
-**Chỉ mục:** 34
+(Điều 34 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000400003400000000000000000
+1. Cán bộ, công chức đương chức, thôi giữ chức thuộc diện Bộ Chính trị, Ban Bí thư Trung ương Đảng quản lý (trừ các chức danh được tổ chức Lễ Quốc tang và Lễ tang cấp Nhà nước); cán bộ hoạt động cách mạng trước ngày 01 tháng 01 năm 1945 (lão thành cách mạng) hoặc cán bộ hoạt động ở miền Nam suốt thời kỳ chống Mỹ (1954 - 1975) được tặng thưởng Huân chương Độc lập hạng Nhất trở lên; các nhà hoạt động xã hội, văn hóa, khoa học tiêu biểu (được tặng giải thưởng Hồ Chí Minh - giải thưởng cá nhân) và được tặng thưởng Huân chương Độc lập hạng Nhất trở lên; các nhà hoạt động xã hội, văn hóa, khoa học tiêu biểu (được tặng giải thưởng Hồ Chí Minh - giải thưởng cá nhân) là Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động đang công tác hoặc nghỉ hưu khi từ trần được tổ chức Lễ tang Cấp cao.
 
-**ID:** dk_00071212
+2. Đối với trường hợp người từ trần giữ một trong các chức danh quy định tại Khoản 1 Điều này mà bị kỷ luật bằng hình thức giáng chức hoặc cách chức, Lễ tang tổ chức theo hình thức Lễ tang cán bộ, công chức, viên chức.
 
----
+Điều 41.14.NĐ.35. Đứng tên đưa tin buồn
 
+(Điều 35 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.35. Đứng tên đưa tin buồn
+1. Ban Chấp hành Trung ương Đảng và cơ quan đã hoặc đang trực tiếp quản lý người từ trần đứng tên đưa tin buồn đối với các chức danh là Ủy viên Ban Chấp hành Trung ương.
 
-*Nội dung chưa có sẵn*
+2. Đối với các chức danh còn lại, cơ quan đã hoặc đang trực tiếp quản lý người từ trần; cấp ủy, chính quyền địa phương quê hương hoặc nơi cư trú của người từ trần đứng tên đưa tin buồn.
 
-**Chỉ mục:** 35
+3. Tin buồn đăng trên trang nhất báo Nhân dân, báo Quân đội nhân dân, báo Công an nhân dân, báo ngành và báo địa phương nơi quê hương hoặc nơi sinh của người từ trần.
 
-**Mã phân cấp:** 4101400000000000400003500000000000000000
+Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam đưa tin buồn.
 
-**ID:** dk_00071213
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.12. Đứng tên và đưa tin buồn)
 
----
+Điều 41.14.NĐ.36. Ban Tổ chức Lễ tang
 
+(Điều 36 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.36. Ban Tổ chức Lễ tang
+1. Ban Tổ chức Lễ tang do lãnh đạo cơ quan chủ quản; chính quyền địa phương nơi người từ trần đã hoặc đang công tác quyết định thành lập, gồm từ 10 (mười) đến 15 (mười lăm) thành viên đại diện các đơn vị, tổ chức chính trị, tổ chức chính trị - xã hội thuộc cơ quan chủ quản, địa phương.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 4101400000000000400003600000000000000000
-
-**ID:** dk_00071214
-
----
-
-
-### Điều 41.14.NĐ.37. Tổ chức Lễ tang và chuẩn bị lời điếu
+2. Trưởng Ban Tổ chức Lễ tang là một lãnh đạo cơ quan chủ quản hoặc cấp ủy, chính quyền địa phương.
 
 Điều 41.14.NĐ.37. Tổ chức Lễ tang và chuẩn bị lời điếu
 
-**Chỉ mục:** 37
+(Điều 37 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000400003700000000000000000
+Việc tổ chức Lễ tang và chuẩn bị lời điếu do cơ quan chủ quản hoặc cấp ủy, chính quyền địa phương nơi người từ trần đã hoặc đang công tác cùng gia đình thực hiện.
 
-**ID:** dk_00071215
+Điều 41.14.NĐ.38. Nơi tổ chức Lễ tang
 
----
+(Điều 38 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
+Lễ tang tổ chức tại Nhà tang lễ Quốc gia số 5 Trần Thánh Tông, Hà Nội (nếu tổ chức ở Hà Nội); Nhà tang lễ Bệnh viện Quân y 175 hoặc Nhà tang lễ số 25 Lê Quý Đôn, Quận 3, thành phố Hồ Chí Minh (nếu tổ chức ở Thành phố Hồ Chí Minh). Nếu từ trần ở địa phương khác thì thực hiện theo quy định của địa phương.
 
-### Điều 41.14.NĐ.38. Nơi tổ chức Lễ tang
+(Điều này có nội dung liên quan đến Điều 1. của Quyết định 34/2002/QĐ-TTg Về việc sử dụng và quản lý Nhà tang lễ số 5 Trần Thánh Tông, Hà Nội ban hành ngày 20/02/2002; Điều 41.14.TT.1.21. Một số nội dung khác; Điều 41.14.TT.3.16. Các nội dung khác)
 
-*Nội dung chưa có sẵn*
+Điều 41.14.NĐ.39. Nơi an táng
 
-**Chỉ mục:** 38
+(Điều 39 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000400003800000000000000000
+1. An táng tại Nghĩa trang Mai Dịch, Hà Nội (nếu từ trần ở Hà Nội), tại Nghĩa trang Thành phố Hồ Chí Minh (nếu từ trần ở Thành phố Hồ Chí Minh) đối với các trường hợp sau:
 
-**ID:** dk_00071216
+a) Cán bộ thuộc diện Bộ Chính trị quản lý;
 
----
+b) Cán bộ hoạt động cách mạng trước ngày 01 tháng 01 năm 1945 (lão thành cách mạng) hoặc cán bộ hoạt động ở miền Nam suốt thời kỳ chống Mỹ (1954 - 1975) được tặng thưởng Huân chương Độc lập hạng Nhất trở lên; các nhà hoạt động xã hội, văn hóa, khoa học tiêu biểu (được tặng giải thưởng Hồ Chí Minh - giải thưởng cá nhân) và được tặng thưởng Huân chương Độc lập hạng Nhất trở lên.
 
+c) Các nhà hoạt động xã hội, văn hóa, khoa học tiêu biểu (được tặng giải thưởng Hồ Chí Minh - giải thưởng cá nhân) là Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động.
 
-### Điều 41.14.NĐ.39. Nơi an táng
+2. Đối với các chức danh còn lại an táng tại Nghĩa trang địa phương hoặc theo nguyện vọng của gia đình.
 
-*Nội dung chưa có sẵn*
+3. Trường hợp gia đình có nguyện vọng hỏa táng, điện táng hoặc an táng tại quê nhà, Ban Tổ chức Lễ tang có trách nhiệm tổ chức Lễ tang cấp cao theo quy định tại Nghị định này.
 
-**Chỉ mục:** 39
-
-**Mã phân cấp:** 4101400000000000400003900000000000000000
-
-**ID:** dk_00071217
-
----
-
-
-### Điều 41.14.NĐ.40. Trang trí lễ đài và túc trực bên linh cữu
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.21. Một số nội dung khác; Điều 41.14.TT.3.16. Các nội dung khác)
 
 Điều 41.14.NĐ.40. Trang trí lễ đài và túc trực bên linh cữu
 
-**Chỉ mục:** 40
+(Điều 40 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000400004000000000000000000
+1. Lễ đài trang trí phông nền đen, trên đó gắn ảnh người từ trần và dòng chữ trắng “Vô cùng thương tiếc...”.
 
-**ID:** dk_00071218
+2. Bàn thờ đặt trước và chính giữa phông, hai bên bàn thờ đặt cố định 02 vòng hoa của cơ quan chủ quản và gia đình, dưới lễ đài có lư hương.
 
----
+3. Linh cữu đặt chính giữa lễ đài, đầu hướng về phía bàn thờ.
 
+4. Bàn thờ nhỏ đặt phía dưới, có bát hương để Trưởng đoàn các đoàn đến viếng thắp hương.
 
-### Điều 41.14.NĐ.41. Vòng hoa viếng
+5. Cán bộ lãnh đạo, chủ chốt của cơ quan chủ quản hoặc địa phương đứng phía bên phải phòng lễ tang (theo hướng nhìn lên lễ đài) khi có các đoàn lãnh đạo cao cấp của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam vào viếng.
 
-*Nội dung chưa có sẵn*
+6. Gia đình đứng phía bên trái phòng lễ tang (theo hướng nhìn lên lễ đài).
 
-**Chỉ mục:** 41
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.13. Trang trí lễ đài tổ chức Lễ tang; Điều 41.14.TT.3.16. Các nội dung khác)
 
-**Mã phân cấp:** 4101400000000000400004100000000000000000
+Điều 41.14.NĐ.41. Vòng hoa viếng
 
-**ID:** dk_00071219
+(Điều 41 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
----
+1. Ban Tổ chức Lễ tang chuẩn bị 02 (hai) vòng hoa, có băng đen chữ trắng của cơ quan chủ quản và gia đình đặt cố định hai bên bàn thờ.
 
+2. Ban Tổ chức Lễ tang chuẩn bị 15 (mười lăm) vòng hoa luân chuyển; trong thông báo tin buồn có ghi: Các đoàn đến viếng không mang vòng hoa, chỉ mang băng vải đen, kích thước 1,2 m x 0,2 m, với dòng chữ trắng “Kính viếng” dưới có dòng chữ nhỏ ghi tên cơ quan, tổ chức, cá nhân để gắn vào vòng hoa viếng do Ban Tổ chức Lễ tang chuẩn bị.
 
-### Điều 41.14.NĐ.42. Lễ viếng
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.16. Các nội dung khác)
 
-*Nội dung chưa có sẵn*
+Điều 41.14.NĐ.42. Lễ viếng
 
-**Chỉ mục:** 42
+(Điều 42 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000400004200000000000000000
+1. Ban Tổ chức Lễ tang sắp xếp các đoàn vào viếng theo đội hình như sau: 02 (hai) chiến sĩ đưa vòng hoa đi đầu, tiếp theo là Trưởng đoàn và các thành viên trong đoàn viếng đi theo hai hàng dọc.
 
-**ID:** dk_00071220
+2. Sau khi viếng, Trưởng đoàn ghi sổ tang.
 
----
+3. Trong quá trình viếng, Quân nhạc cử nhạc “Hồn tử sĩ’.
 
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.16. Các nội dung khác)
 
-### Điều 41.14.NĐ.43. Lễ truy điệu
+Điều 41.14.NĐ.43. Lễ truy điệu
 
-*Nội dung chưa có sẵn*
+(Điều 43 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Chỉ mục:** 43
+1. Thành phần dự Lễ truy điệu gồm: Ban Tổ chức Lễ tang, đại diện các cơ quan, tổ chức nơi người từ trần đã hoặc đang công tác; địa phương quê hương hoặc nơi cư trú của người từ trần và gia đình, người thân.
 
-**Mã phân cấp:** 4101400000000000400004300000000000000000
+2. Vị trí các đoàn dự Lễ truy điệu (theo hướng nhìn lên lễ đài):
 
-**ID:** dk_00071221
+a) Gia đình đứng phía bên trái phòng lễ tang;
 
----
+b) Lãnh đạo cơ quan, địa phương đứng phía bên phải phòng lễ tang;
 
+c) Các đoàn đại biểu khác đứng theo sắp xếp của Ban Tổ chức Lễ tang.
 
-### Điều 41.14.NĐ.44. Lễ đưa tang và xe tang
+3. Chương trình Lễ truy điệu:
 
-*Nội dung chưa có sẵn*
+a) Đại điện Ban Tổ chức Lễ tang tuyên bố Lễ truy điệu;
 
-**Chỉ mục:** 44
+b) Trưởng Ban Tổ chức Lễ tang đọc lời điếu, tuyên bố phút mặc   niệm và kết thúc Lễ truy điệu;
 
-**Mã phân cấp:** 4101400000000000400004400000000000000000
+c) Trong khi tiến hành Lễ truy điệu, Quân nhạc cử nhạc “Hồn tử sĩ”.
 
-**ID:** dk_00071222
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt; Điều 41.14.TT.3.16. Các nội dung khác)
 
----
+Điều 41.14.NĐ.44. Lễ đưa tang và xe tang
 
+(Điều 44 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.45. Lễ hạ huyệt
+1. Thành phần dự Lễ đưa tang như thành phần dự Lễ truy điệu.
 
-*Nội dung chưa có sẵn*
+2. Khi chuyển linh cữu lên xe tang và từ xe tang vào phần mộ, các thành viên Ban Tổ chức Lễ tang, các đoàn đại biểu và gia đình đi phía sau linh cữu.
 
-**Chỉ mục:** 45
+Đội phục vụ của nhà tang lễ và cơ quan, địa phương nơi người từ trần làm nhiệm vụ di chuyển linh cữu, vòng hoa ra xe tang và từ xe tang vào phần mộ.
 
-**Mã phân cấp:** 4101400000000000400004500000000000000000
+3. Xe tang do cơ quan chủ quản hoặc địa phương nơi người từ trần đã hoặc đang công tác chuẩn bị.
 
-**ID:** dk_00071223
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt; Điều 41.14.TT.3.16. Các nội dung khác)
 
----
+Điều 41.14.NĐ.45. Lễ hạ huyệt
 
+(Điều 45 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.46. Xây mộ và chi phí
+1. Sau khi linh cữu được di chuyển vào vị trí phần mộ, Trưởng ban Tổ chức Lễ tang tuyên bố Lễ hạ huyệt.
 
-*Nội dung chưa có sẵn*
+2. Đội công tác làm nhiệm vụ hạ huyệt.
 
-**Chỉ mục:** 46
+3. Ban Tổ chức Lễ tang, các đoàn đại biểu và gia đình bỏ nắm đất đầu tiên và đi quanh phần mộ để vĩnh biệt.
 
-**Mã phân cấp:** 4101400000000000400004600000000000000000
+4. Đội công tác tiếp tục hoàn chỉnh phần mộ.
 
-**ID:** dk_00071224
+5. Trong khi tiến hành Lễ hạ huyệt, Quân nhạc cử nhạc “Hồn tử sĩ".
 
----
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt; Điều 41.14.TT.3.16. Các nội dung khác)
 
+Điều 41.14.NĐ.46. Xây mộ và chi phí
 
-### Điều 41.14.NĐ.47. Chức danh được tổ chức Lễ tang cán bộ, công chức, viên chức
+(Điều 46 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
+
+1. Mộ xây bằng đá granite, có kích thước theo quy định hiện hành.
+
+2. Chi phí xây mộ, hỏa táng, điện táng và phục vụ lễ tang lấy từ nguồn mai táng phí theo quy định của pháp luật về bảo hiểm xã hội; phần kinh phí còn thiếu được ngân sách nhà nước cấp.
+
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.48. Đưa tin buồn; Điều 41.14.TT.1.21. Một số nội dung khác; Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao; Điều 41.14.TT.3.16. Các nội dung khác)
+
+Chương V
+
+LỄ TANG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+
+(Chương này có nội dung liên quan đến Điều 41.13.QĐ.1. của Quyết định 308/2005/QĐ-TTg Ban hành Quy chế thực hiện nếp sống văn minh trong việc cưới, việc tang và lễ hội ban hành ngày 25/11/2005)
 
 Điều 41.14.NĐ.47. Chức danh được tổ chức Lễ tang cán bộ, công chức, viên chức
 
-**Chỉ mục:** 47
+(Điều 47 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000500004700000000000000000
+1. Cán bộ, công chức, viên chức đang làm việc hoặc nghỉ hưu khi từ trần được tổ chức Lễ tang cán bộ, công chức, viên chức (trừ các chức danh được tổ chức Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang cấp cao).
 
-**ID:** dk_00071226
+2. Đối với trường hợp cán bộ, công chức, viên chức bị kỷ luật bằng hình thức buộc thôi việc, Lễ tang không tổ chức theo hình thức Lễ tang cán bộ, công chức, viên chức.
 
----
+Điều 41.14.NĐ.48. Đưa tin buồn
 
+(Điều 48 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.48. Đưa tin buồn
+1. Cơ quan đã hoặc đang trực tiếp quản lý người từ trần; cấp ủy, chính quyền địa phương quê hương hoặc nơi cư trú của người từ trần đứng tên để thông báo về Lễ tang trên các báo, đài tại địa phương nơi người từ trần đang công tác hoặc nghỉ hưu.
 
-*Nội dung chưa có sẵn*
+2. Đối với các trường hợp sau đây, việc đưa tin buồn được thực hiện trên trang 8 báo Nhân dân:
 
-**Chỉ mục:** 48
+a) Cán bộ hoạt động cách mạng từ trước Tháng 8 năm 1945 đã được cơ quan, cấp có thẩm quyền công nhận;
 
-**Mã phân cấp:** 4101400000000000500004800000000000000000
+b) Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Nghệ sĩ nhân dân, Nhà giáo nhân dân, Thầy thuốc nhân dân, Nghệ nhân nhân dân, người được tặng Giải thưởng Hồ Chí Minh về Văn học nghệ thuật và Khoa học - công nghệ, Đảng viên được tặng Huy hiệu 30 năm tuổi Đảng trở lên.
 
-**ID:** dk_00071227
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.46. Xây mộ và chi phí)
 
----
+Điều 41.14.NĐ.49. Ban Tổ chức Lễ tang
 
+(Điều 49 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.49. Ban Tổ chức Lễ tang
+1. Đối với người từ trần đang công tác:
 
-*Nội dung chưa có sẵn*
+a) Ban Tổ chức Lễ tang do cơ quan đang trực tiếp quản lý người từ trần quyết định, gồm các thành viên đại diện cho đơn vị, đoàn thể trong cơ quan nơi người từ trần đang công tác, đại diện gia đình và đại diện chính quyền địa phương nơi người từ trần sinh sống;
 
-**Chỉ mục:** 49
+b) Trưởng Ban Tổ chức Lễ tang là lãnh đạo đơn vị, tổ chức, cơ quan đang trực tiếp quản lý người từ trần.
 
-**Mã phân cấp:** 4101400000000000500004900000000000000000
+2. Đối với người từ trần đã nghỉ hưu:
 
-**ID:** dk_00071228
+Các trường hợp quy định tại Khoản 2 Điều 48 Nghị định này và các cán bộ, công chức đã giữ các chức vụ từ cấp Cục, Vụ, Sở và tương đương trở lên và cán bộ, công chức, viên chức:
 
----
+a) Ban Tổ chức Lễ tang do cấp ủy Đảng, tổ chức chính trị - xã hội địa phương, chính quyền địa phương (xã, phường, thị trấn, khu phố) nơi người từ trần nghỉ hưu và cư trú phối hợp với cơ quan, tổ chức, đơn vị lực lượng vũ trang quản lý người từ trần trước khi nghỉ hưu quyết định, gồm các thành viên đại diện cho các đoàn thể, chính quyền địa phương, đại diện gia đình và đại diện cơ quan, đơn vị lực lượng vũ trang đã quản lý người từ trần trước khi nghỉ hưu;
 
+b) Trưởng Ban Tổ chức Lễ tang là người đứng đầu cấp ủy Đảng, tổ chức chính trị - xã hội, chính quyền địa phương (xã, phường, thị trấn, khu phố) nơi người từ trần nghỉ hưu và cư trú.
 
-### Điều 41.14.NĐ.50. Lời điếu
+Điều 41.14.NĐ.50. Lời điếu
 
-*Nội dung chưa có sẵn*
+(Điều 50 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Chỉ mục:** 50
-
-**Mã phân cấp:** 4101400000000000500005000000000000000000
-
-**ID:** dk_00071229
-
----
-
-
-### Điều 41.14.NĐ.51. Nơi tổ chức Lễ tang và nơi an táng
+Việc chuẩn bị lời điếu do cơ quan chủ quản nơi người từ trần công tác hoặc cấp ủy, chính quyền địa phương (xã, phường, thị trấn, khu phố) nơi người từ trần nghỉ hưu cư trú cùng gia đình tiến hành.
 
 Điều 41.14.NĐ.51. Nơi tổ chức Lễ tang và nơi an táng
 
-**Chỉ mục:** 51
+(Điều 51 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000500005100000000000000000
+1. Căn cứ điều kiện của từng cơ quan, tổ chức, địa phương và nguyện vọng của gia đình người từ trần mà tổ chức Lễ tang tại nhà tang lễ hoặc tại gia đình.
 
-**ID:** dk_00071230
+2. An táng tại nghĩa trang địa phương, nghĩa trang khác hoặc hỏa táng, điện táng theo nguyện vọng của gia đình.
 
----
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.23. Các nội dung khác)
 
+Điều 41.14.NĐ.52. Trang trí lễ đài
 
-### Điều 41.14.NĐ.52. Trang trí lễ đài
+(Điều 52 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-*Nội dung chưa có sẵn*
+1. Lễ đài trang trí phông nền đen, trên đó gắn ảnh người từ trần và dòng chữ trắng “Vô cùng thương tiếc…".
 
-**Chỉ mục:** 52
+2. Bàn thờ đặt trước và chính giữa phông, hai bên bàn thờ đặt cố định 02 (hai) vòng hoa của cơ quan và gia đình, dưới lễ đài có lư hương.
 
-**Mã phân cấp:** 4101400000000000500005200000000000000000
+3. Linh cữu đặt chính giữa, đầu hướng về Lễ đài.
 
-**ID:** dk_00071231
+4. Bàn thờ nhỏ đặt phía dưới, có bát hương để viếng.
 
----
+5. Gia đình đứng phía bên trái phòng lễ tang (theo hướng nhìn lên lễ đài).
 
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.23. Các nội dung khác)
 
-### Điều 41.14.NĐ.53. Vòng hoa viếng
+Điều 41.14.NĐ.53. Vòng hoa viếng
 
-*Nội dung chưa có sẵn*
+(Điều 53 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Chỉ mục:** 53
+1. Ban Tổ chức Lễ tang chuẩn bị 02 (hai) vòng hoa của cơ quan chủ quản và gia đình đặt cố định hai bên bàn thờ.
 
-**Mã phân cấp:** 4101400000000000500005300000000000000000
+2. Ban Tổ chức Lễ tang chuẩn bị 05 (năm) vòng hoa luân chuyển; trong thông báo tin buồn có ghi: Các đoàn đến viếng không mang vòng hoa, chỉ mang băng vải đen, kích thước 1,2 m x 0,2 m, với dòng chữ trắng “Kính viếng” dưới có dòng chữ nhỏ ghi tên cơ quan, tổ chức để gắn vào vòng hoa do Ban Tổ chức Lễ tang chuẩn bị.
 
-**ID:** dk_00071232
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.23. Các nội dung khác)
 
----
+Điều 41.14.NĐ.54. Lễ viếng
 
+(Điều 54 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.54. Lễ viếng
+1. Tùy theo điều kiện tại nhà tang lễ hoặc tại gia đình để có hình thức tổ chức Lễ tang phù hợp với phong tục, tập quán của địa phương, tôn giáo và hoàn cảnh gia đình của người từ trần.
 
-*Nội dung chưa có sẵn*
+2. Trong thời gian tổ chức Lễ viếng tại gia đình không cử nhạc tang trước 06 giờ sáng và sau 22 giờ đêm; âm thanh bảo đảm không vượt quá độ ồn cho phép theo quy định; không sử dụng các nhạc khúc không phù hợp trong lễ tang.
 
-**Chỉ mục:** 54
-
-**Mã phân cấp:** 4101400000000000500005400000000000000000
-
-**ID:** dk_00071233
-
----
-
-
-### Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt
+(Điều này có nội dung liên quan đến Điều 41.14.TT.3.23. Các nội dung khác)
 
 Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt
 
-**Chỉ mục:** 55
+(Điều 55 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000500005500000000000000000
+Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt thực hiện theo quy định tại Điều 43, Điều 44 và Điều 45 Nghị định này.
 
-**ID:** dk_00071234
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.43. Lễ truy điệu; Điều 41.14.NĐ.44. Lễ đưa tang và xe tang; Điều 41.14.NĐ.45. Lễ hạ huyệt; Điều 41.14.TT.3.23. Các nội dung khác)
 
----
+Điều 41.14.NĐ.56. Trợ cấp mai táng
 
+(Điều 56 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.56. Trợ cấp mai táng
+Trợ cấp mai táng thực hiện theo quy định của pháp luật về bảo hiểm xã hội.
 
-*Nội dung chưa có sẵn*
+Chương VI
 
-**Chỉ mục:** 56
+TỔ CHỨC LỄ TANG TRONG CÔNG AN NHÂN DÂN VÀ TỔ CHỨC LỄ TANG ĐỐI VỚI QUÂN NHÂN, CÔNG NHÂN, VIÊN CHỨC QUỐC PHÒNG; NGƯỜI LÀM CÔNG TÁC CƠ YẾU DO BỘ QUỐC PHÒNG QUẢN LÝ
 
-**Mã phân cấp:** 4101400000000000500005600000000000000000
+Mục 1
 
-**ID:** dk_00071235
+QUY ĐỊNH CHẾ ĐỘ TANG LỄ TRONG CÔNG AN NHÂN DÂN
 
----
+Điều 41.14.TT.1.4. Hình thức Lễ tang
 
+(Điều 4 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.4. Hình thức Lễ tang
+1. Lễ tang cấp Nhà nước.
 
-*Nội dung chưa có sẵn*
+2. Lễ tang cấp cao trong Công an nhân dân.
 
-**Chỉ mục:** 4
+3. Lễ tang cán bộ đang công tác có cấp bậc hàm Đại tá trở xuống.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150000400
+4. Lễ tang cán bộ công an đã nghỉ hưu.
 
-**ID:** dk_00071238
+5. Lễ tang công nhân viên Công an nhân dân.
 
----
+Điều 41.14.TT.1.5. Trách nhiệm tổ chức Lễ tang
 
+(Điều 5 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.5. Trách nhiệm tổ chức Lễ tang
+Tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân gồm: Lễ viếng, Lễ truy điệu, Lễ đưa tang, Lễ an táng (hoặc hỏa táng, điện táng). Căn cứ vào cấp bậc, chức vụ, quá trình công tác của người hy sinh, từ trần và điều kiện cụ thể để tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân cho phù hợp.
 
-*Nội dung chưa có sẵn*
+1. Cán bộ, chiến sĩ công an đang công tác hy sinh, từ trần thuộc đơn vị, địa phương nào thì do đơn vị, địa phương đó chủ trì tổ chức Lễ tang. Nếu hy sinh, từ trần ở xa đơn vị, địa phương nơi công tác thì do Công an đơn vị, địa phương nơi cán bộ, chiến sĩ hy sinh, từ trần chủ trì tổ chức Lễ tang; đơn vị có cán bộ, chiến sĩ hy sinh, từ trần cử cán bộ phối hợp.
 
-**Chỉ mục:** 5
+Đơn vị chủ trì tổ chức Lễ tang thành lập Ban Lễ tang, Ban Tổ chức lễ tang, xây dựng kế hoạch, phân công nhiệm vụ, điều hành tổ chức Lễ tang, đảm bảo kinh phí và thanh quyết toán theo quy định.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150000500
+2. Cán bộ công an nghỉ hưu cư trú tại địa phương nào từ trần thì Công an địa phương đó có trách nhiệm tham gia cùng cấp ủy Đảng, chính quyền địa phương và gia đình tổ chức Lễ tang. Riêng đối với cán bộ công an công tác tại các đơn vị thuộc cơ quan Bộ nghỉ hưu tại thành phố Hà Nội và thành phố Hồ Chí Minh từ trần thì đơn vị công tác của cán bộ trước khi nghỉ hưu tham gia cùng cấp ủy Đảng, chính quyền địa phương và gia đình tổ chức Lễ tang.
 
-**ID:** dk_00071239
+a) Trường hợp đơn vị công tác của cán bộ trước khi nghỉ hưu đã chia tách hoặc sáp nhập thì đơn vị tiếp nhận bộ phận công tác của cán bộ trước khi nghỉ hưu tham gia cùng cấp ủy Đảng, chính quyền địa phương và gia đình tổ chức Lễ tang.
 
----
+b) Trường hợp đơn vị công tác của cán bộ trước khi nghỉ hưu đã giải thể:
 
+- Nếu đơn vị cũ thuộc Tổng cục nào (hoặc được Bộ giao cho Tổng cục nào theo dõi, quản lý) thì Cục Chính trị (hoặc Cục Chính trị hậu cần hoặc Cục Tham mưu) của Tổng cục đó tham gia cùng cấp ủy Đảng, chính quyền địa phương và gia đình tổ chức Lễ tang;
 
-### Điều 41.14.TT.1.6. Trang phục và băng tang
+- Nếu đơn vị trực thuộc Bộ thì Văn phòng Bộ tham gia cùng cấp ủy Đảng, chính quyền địa phương và gia đình tổ chức Lễ tang.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.34. Đơn vị chủ trì tổ chức Lễ tang)
 
-**Chỉ mục:** 6
+Điều 41.14.TT.1.6. Trang phục và băng tang
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150000600
+(Điều 6 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**ID:** dk_00071240
+1. Trang phục
 
----
+a) Đối với người hy sinh, từ trần:
 
+- Sĩ quan Công an nhân dân hy sinh, từ trần mặc lễ phục thu đông (nếu không có lễ phục thì mặc trang phục thu đông hoặc trang phục xuân hè), đeo cấp hiệu, cành tùng đơn, chân đi tất; mũ kêpi đặt trên ngực, sao mũ hướng lên đầu người hy sinh, từ trần; giầy da để cạnh hai bàn chân;
 
-### Điều 41.14.TT.1.7. Một số quy định khác
+- Hạ sĩ quan, chiến sĩ, học viên Công an nhân dân hy sinh, từ trần mặc trang phục thu đông (hoặc xuân hè) đeo cấp hiệu, phù hiệu, chân đi tất, giầy và mũ kêpi đặt như trường hợp sĩ quan;
 
-*Nội dung chưa có sẵn*
+- Công nhân viên Công an nhân dân hy sinh, từ trần mặc thường phục.
 
-**Chỉ mục:** 7
+b) Đối với cán bộ, chiến sĩ công an dự Lễ tang:
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150000700
+- Dự Lễ tang cấp Nhà nước, mặc lễ phục Công an nhân dân (theo mùa), có đội mũ;
 
-**ID:** dk_00071241
+- Các trường hợp còn lại, mặc trang phục Công an nhân dân (theo mùa), có đội mũ.
 
----
+2. Băng tang
 
+Chỉ các thành viên Ban Lễ tang Nhà nước và Ban Tổ chức lễ tang đeo băng tang đen (có chiều rộng 07cm) trên cánh tay trái.
 
-### Điều 41.14.TT.1.8. Chức danh được tổ chức Lễ tang cấp Nhà nước
+Điều 41.14.TT.1.7. Một số quy định khác
+
+(Điều 7 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+1. Lễ viếng tổ chức tại nhà tang lễ, Lễ đưa tang và Lễ an táng thực hiện cùng trong một ngày.
+
+2. Trường hợp tổ chức Lễ viếng tại gia đình thì tùy theo phong tục địa phương và gia đình, thi hài người từ trần phải được khâm liệm vào linh cữu và bảo đảm vệ sinh, nhất là đối với người có bệnh lây nhiễm. Linh cữu được để không quá 48 (bốn mươi tám) giờ, kể từ khi khâm liệm đến khi tổ chức Lễ an táng. Trong thời gian tổ chức Lễ viếng tại gia đình không cử nhạc tang trước 06 giờ sáng và sau 22 giờ đêm; âm thanh bảo đảm không vượt quá độ ồn cho phép; không sử dụng các nhạc khúc không phù hợp trong Lễ tang.
+
+3. Linh cữu người từ trần quàn tại nhà tang lễ hoặc gia đình không để cửa có lắp kính trên nắp quan tài.
+
+4. Hạn chế rắc vàng mã, không rắc các loại tiền do Ngân hàng Nhà nước Việt Nam phát hành và ngoại tệ trong quá trình đưa tang từ nhà tang lễ hoặc gia đình đến nơi an táng.
 
 Điều 41.14.TT.1.8. Chức danh được tổ chức Lễ tang cấp Nhà nước
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150000800
+Theo quy định tại khoản 1 Điều 21 Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ, cán bộ công an đang giữ chức vụ hoặc thôi giữ chức vụ hoặc có cấp bậc hàm sau đây khi hy sinh, từ trần được tổ chức Lễ tang cấp Nhà nước:
 
-**ID:** dk_00071242
+1. Ủy viên Bộ Chính trị, Bí thư Ban Chấp hành Trung ương Đảng.
 
----
+2. Đại tướng Công an nhân dân.
 
+3. Thượng tướng Công an nhân dân là cán bộ hoạt động cách mạng trước-8-1945.
 
-### Điều 41.14.TT.1.9. Tổ chức Lễ tang
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.21. Chức danh được tổ chức Lễ tang cấp Nhà nước)
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.9. Tổ chức Lễ tang
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150000900
+Thực hiện theo quy định tại Chương 3 Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ về tổ chức Lễ tang cán bộ, công chức, viên chức.
 
-**ID:** dk_00071243
+Văn phòng Bộ và Tổng cục Xây dựng lực lượng Công an nhân dân là cơ quan thường trực giúp lãnh đạo Bộ thực hiện nhiệm vụ được Ban Tổ chức lễ tang cấp Nhà nước phân công.
 
----
-
-
-### Điều 41.14.TT.1.10. Chức danh được tổ chức Lễ tang cấp cao trong Công an nhân dân
+(Điều này có nội dung liên quan đến Chương III LỄ TANG CẤP NHÀ NƯỚC)
 
 Điều 41.14.TT.1.10. Chức danh được tổ chức Lễ tang cấp cao trong Công an nhân dân
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001000
+Cán bộ đương chức, thôi giữ chức hoặc đã nghỉ hưu có chức vụ hoặc cấp bậc hàm sau đây khi hy sinh, từ trần (trừ trường hợp thuộc chức danh được tổ chức Lễ tang cấp Nhà nước quy định tại Điều 8 Mục 1 Chương này) được tổ chức Lễ tang cấp cao trong Công an nhân dân:
 
-**ID:** dk_00071244
+1. Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng, Ủy viên Đảng ủy Công an Trung ương, Thứ trưởng và tương đương.
 
----
+2. Tổng cục trưởng, Phó Tổng cục trưởng và tương đương.
 
+3. Sĩ quan cấp bậc hàm Thiếu tướng trở lên.
 
-### Điều 41.14.TT.1.11. Chủ trì tổ chức Lễ tang
+4. Cán bộ được tặng thưởng Huân chương Độc lập hạng Nhất trở lên.
 
-*Nội dung chưa có sẵn*
+5. Cán bộ được tặng giải thưởng Hồ Chí Minh (giải thưởng cá nhân) là Anh hùng lực lượng vũ trang nhân dân, Anh hùng Lao động.
 
-**Chỉ mục:** 11
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.10. Chức danh được tổ chức Lễ tang cấp cao trong Công an nhân dân; Điều 41.14.TT.1.22. Đơn vị chủ trì tổ chức Lễ tang)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001100
+Điều 41.14.TT.1.11. Chủ trì tổ chức Lễ tang
 
-**ID:** dk_00071245
+(Điều 11 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
----
+1. Đối với cán bộ đương chức:
 
+a) Lãnh đạo Bộ Công an chủ trì tổ chức Lễ tang đối với trường hợp là Ủy viên Ban chấp hành Trung ương Đảng, Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng, Ủy viên Đảng ủy Công an Trung ương, Thứ trưởng và tương đương; Tổng cục trưởng, Phó Tổng cục trưởng và tương đương; sĩ quan cấp bậc hàm Trung tướng.
 
-### Điều 41.14.TT.1.12. Công tác chuẩn bị
+Tổng cục Xây dựng lực lượng Công an nhân dân là đơn vị thường trực phối hợp với đơn vị có cán bộ hy sinh, từ trần giúp lãnh đạo Bộ tổ chức Lễ tang.
 
-*Nội dung chưa có sẵn*
+b) Các Tổng cục, Bộ Tư lệnh chủ trì (Tổng cục Xây dựng lực lượng Công an nhân dân phối hợp) tổ chức Lễ tang cấp cao đối với các trường hợp thuộc chức danh được tổ chức Lễ tang cấp cao còn lại thuộc đơn vị.
 
-**Chỉ mục:** 12
+c) Tổng cục Xây dựng lực lượng Công an nhân dân chủ trì phối hợp với các đơn vị trực thuộc Bộ; Công an tỉnh, thành phố trực thuộc Trung ương; Sở Cảnh sát phòng cháy và chữa cháy tổ chức Lễ tang cấp cao đối với trường hợp thuộc chức danh được tổ chức Lễ tang cấp cao công tác tại đơn vị trực thuộc Bộ và Công an địa phương (trừ trường hợp thuộc đối tượng lãnh đạo Bộ chủ trì tổ chức Lễ tang nêu tại điểm a trên). Đối với các địa phương mà Thành ủy, Tỉnh ủy đảm nhận chủ trì tổ chức Lễ tang thì thực hiện theo quy định của địa phương.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001200
+2. Đối với cán bộ thôi chức hoặc đã nghỉ hưu (trừ trường hợp bị kỷ luật cách chức):
 
-**ID:** dk_00071246
+a) Lãnh đạo Bộ Công an chủ trì tổ chức Lễ tang đối với các trường hợp nguyên: Ủy viên Ban chấp hành Trung ương Đảng, Ủy viên Đảng ủy Công an Trung ương, Thứ trưởng, Tổng cục trưởng, sĩ quan có cấp bậc hàm Trung tướng trở lên.
 
----
+Tổng cục Xây dựng lực lượng Công an nhân dân là đơn vị thường trực phối hợp với Văn phòng Bộ hoặc đơn vị công tác trước khi cán bộ nghỉ hưu từ trần giúp lãnh đạo Bộ tổ chức Lễ tang.
 
+b) Các Tổng cục, Bộ Tư lệnh nơi cán bộ công tác trước khi nghỉ hưu từ trần chủ trì tổ chức Lễ tang đối với cán bộ thuộc chức danh được tổ chức Lễ tang cấp cao còn lại.
 
-### Điều 41.14.TT.1.13. Ban Tổ chức lễ tang
+Cán bộ công tác tại các đơn vị trực thuộc Bộ đã nghỉ hưu từ trần thuộc chức danh được tổ chức Lễ tang cấp cao còn lại thì Tổng cục Xây dựng lực lượng Công an nhân dân chủ trì tổ chức Lễ tang. Đơn vị công tác trước khi cán bộ nghỉ hưu từ trần là cơ quan thường trực phối hợp với các đơn vị chức năng giúp Tổng cục Xây dựng lực lượng Công an nhân dân tổ chức Lễ tang.
 
-*Nội dung chưa có sẵn*
+c) Cán bộ công tác tại Công an tỉnh, thành phố trực thuộc Trung ương; Sở Cảnh sát phòng cháy và chữa cháy nghỉ hưu từ trần thuộc chức danh được tổ chức Lễ tang cấp cao do đơn vị công tác trước khi cán bộ nghỉ hưu từ trần chủ trì tổ chức Lễ tang.
 
-**Chỉ mục:** 13
+Điều 41.14.TT.1.12. Công tác chuẩn bị
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001300
+(Điều 12 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**ID:** dk_00071247
+Trước khi tổ chức Lễ tang, đơn vị chủ trì thực hiện các công việc sau:
 
----
+1. Thành lập Ban Tổ chức lễ tang.
 
+2. Xác định địa điểm tổ chức Lễ viếng, Lễ truy điệu, Lễ an táng hoặc hỏa táng, điện táng.
 
-### Điều 41.14.TT.1.14. Tin buồn, lời điếu, lời cảm ơn
+3. Xác định thời gian tổ chức Lễ viếng, Lễ truy điệu, Lễ an táng hoặc hỏa táng, điện táng.
 
-*Nội dung chưa có sẵn*
+4. Đăng tin buồn và thông báo cho các cơ quan, đơn vị liên quan biết.
 
-**Chỉ mục:** 14
+5. Chuẩn bị điếu văn; ảnh chân dung; huân chương, huy chương (nếu có); vòng hoa tiêu biểu, vòng hoa luân chuyển; băng tang, sổ tang; xe phục vụ Lễ tang; hệ thống âm thanh…
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001400
+6. Bố trí các lực lượng, đơn vị phục vụ Lễ tang như: Đội tiêu binh, danh dự; Đội nhạc lễ (nếu có); cán bộ, chiến sĩ làm nhiệm vụ túc trực bên linh cữu, khiêng hoa, khiêng linh cữu, dẫn viếng, đăng ký viếng…
 
-**ID:** dk_00071248
+7. Chuẩn bị kinh phí phục vụ Lễ tang theo quy định.
 
----
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.23. Công tác chuẩn bị)
 
+Điều 41.14.TT.1.13. Ban Tổ chức lễ tang
 
-### Điều 41.14.TT.1.15. Trang trí lễ đài
+(Điều 13 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-*Nội dung chưa có sẵn*
+1. Ban Tổ chức lễ tang Bộ Công an có từ 13 đến 15 thành viên, do Bộ trưởng Bộ Công an quyết định; Trưởng ban Tổ chức lễ tang là một đồng chí lãnh đạo Bộ Công an.
 
-**Chỉ mục:** 15
+2. Ban Tổ chức lễ tang Tổng cục, Bộ Tư lệnh, Công an tỉnh, thành phố trực thuộc Trung ương có từ 11 đến 13 thành viên, do lãnh đạo đơn vị chủ trì Lễ tang quyết định; Trưởng ban Tổ chức lễ tang là một đồng chí lãnh đạo đơn vị chủ trì Lễ tang.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001500
+3. Đối với cán bộ cấp cao nghỉ hưu từ trần, ngoài thành phần quy định tại khoản 1, khoản 2 Điều này, tham gia Ban Tổ chức lễ tang còn có đại diện gia đình, Ban Chủ nhiệm Câu lạc bộ Công an hưu trí, cấp ủy và chính quyền địa phương.
 
-**ID:** dk_00071249
+4. Trường hợp đặc biệt do lãnh đạo Bộ Công an xem xét, quyết định.
 
----
+Điều 41.14.TT.1.14. Tin buồn, lời điếu, lời cảm ơn
 
+(Điều 14 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.16. Vòng hoa tiêu biểu, vòng hoa luân chuyển
+1. Đối với trường hợp đương chức, thôi giữ chức danh Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng thì đứng tên đưa tin buồn là Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Đảng ủy Công an Trung ương, Bộ Công an, đơn vị đã công tác và gia đình (nếu là Đại biểu Quốc hội thì ghi thêm Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam). Tin buồn đăng trên trang nhất báo Nhân dân, báo Quân đội nhân dân, báo Công an nhân dân (có ảnh cỡ 06cm x 09cm) và báo địa phương nơi quê hương hoặc nơi sinh của người từ trần. Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam, Truyền hình Công an nhân dân đưa tin buồn.
+
+Tổng cục Xây dựng lực lượng Công an nhân dân phối hợp với Văn phòng Bộ chuẩn bị tin buồn, tóm tắt tiểu sử, lời điếu, lời cảm ơn và ảnh của cán bộ hy sinh, từ trần, tham khảo ý kiến của gia đình và báo cáo Trưởng ban Tổ chức lễ tang trước khi đưa tin.
+
+2. Tin buồn của Đảng ủy Công an Trung ương, Bộ Công an, đơn vị cán bộ hy sinh, từ trần đã công tác và gia đình đăng trên trang nhất báo Công an nhân dân, có ảnh (cỡ 06cm x 09cm) và tóm tắt tiểu sử đối với cán bộ hy sinh, từ trần thuộc chức danh được tổ chức Lễ tang cấp cao quy định tại Điều 10 Mục này (trừ trường hợp thuộc khoản 1 Điều này). Việc đăng tin buồn trên báo Nhân dân và đưa tin buồn trên Đài Truyền hình Việt Nam thực hiện theo quy định của Chính phủ.
+
+Đơn vị chủ trì tổ chức Lễ tang phối hợp với đơn vị có liên quan chuẩn bị tin buồn, tóm tắt tiểu sử, lời điếu, lời cảm ơn, ảnh của cán bộ hy sinh, từ trần, tham khảo ý kiến của gia đình và báo cáo Trưởng ban Tổ chức lễ tang trước khi đưa tin.
+
+Điều 41.14.TT.1.15. Trang trí lễ đài
+
+(Điều 15 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+1. Lễ đài trang trí phông nền đen, phía trên có dòng chữ trắng “Vô cùng thương tiếc đồng chí…”.
+
+2. Bàn thờ đặt trước và chính giữa phông, dưới lễ đài; trên bàn thờ có ảnh đồng chí hy sinh, từ trần cỡ 40cm x 30cm, giá Huân chương, lư hương, cây đèn.
+
+3. Linh cữu phủ Công an kỳ (kích thước 3m x 2m) đặt trên giá đỡ chính giữa lễ đài, đầu hướng về phía lễ đài.
+
+4. Bàn thờ nhỏ đặt phía dưới linh cữu, có bát hương để Trưởng các đoàn đến thắp hương viếng; phía trước bàn thờ có giá để vòng hoa của các đoàn đến viếng.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.27. Trang trí lễ đài)
 
 Điều 41.14.TT.1.16. Vòng hoa tiêu biểu, vòng hoa luân chuyển
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001600
+1. Ban Tổ chức lễ tang chuẩn bị từ 02 đến 04 vòng hoa tiêu biểu, dải băng vải đỏ, chữ vàng (kích thước 1,2m x 0,2m) của Đảng ủy Công an Trung ương, Bộ Công an và gia đình. Nếu cán bộ hy sinh, từ trần là Ủy viên Ban chấp hành Trung ương Đảng, Ủy viên dự khuyết Ban chấp hành Trung ương Đảng, Đại biểu Quốc hội, có thêm vòng hoa tiêu biểu của các cơ quan nêu trên đặt hai bên bàn thờ.
 
-**ID:** dk_00071250
-
----
-
-
-### Điều 41.14.TT.1.17. Túc trực bên linh cữu, đơn vị danh dự
+2. Ban Tổ chức lễ tang chuẩn bị 25 vòng hoa luân chuyển, băng vải đen, kích thước 1,2m x 0,2m với dòng chữ trắng “Vô cùng thương tiếc đồng chí…”; trong thông báo tin buồn có ghi: Các đoàn đến viếng không mang vòng hoa và băng vải đen mà sử dụng vòng hoa viếng do Ban Tổ chức lễ tang chuẩn bị.
 
 Điều 41.14.TT.1.17. Túc trực bên linh cữu, đơn vị danh dự
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001700
+1. Túc trực bên linh cữu có 02 sĩ quan cấp tá và 04 hạ sĩ quan, chiến sĩ. Thời gian túc trực bên linh cữu từ trước Lễ viễng 05 phút đến khi kết thúc Lễ truy điệu. Trường hợp thời gian tổ chức Lễ viếng kéo dài trên 04 giờ thì Trưởng ban Tổ chức lễ tang quyết định việc túc trực bên linh cữu cho phù hợp với thực tế nơi tổ chức Lễ tang.
 
-**ID:** dk_00071251
+2. Đơn vị danh dự gồm 40 đồng chí, trong đó có 01 sĩ quan chỉ huy, 03 đồng chí tổ Công an kỳ và sĩ quan dẫn viếng. Từ 10 đến 12 chiến sĩ làm nhiệm vụ khiêng hoa.
 
----
+3. Sĩ quan túc trực bên linh cữu do đơn vị chủ trì tổ chức Lễ tang bố trí. Hạ sĩ quan, chiến sĩ túc trực bên linh cữu, khiêng hoa, dẫn viếng, đơn vị danh dự do lực lượng Cảnh sát cơ động đảm nhiệm.
 
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.29. Túc trực bên linh cữu, đơn vị danh dự)
 
-### Điều 41.14.TT.1.18. Sử dụng xe trong Lễ tang
+Điều 41.14.TT.1.18. Sử dụng xe trong Lễ tang
 
-*Nội dung chưa có sẵn*
+(Điều 18 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Chỉ mục:** 18
+1. Sử dụng từ 9 đến 13 xe, gồm:
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001800
+- 01 xe cờ truyền thống của lực lượng Công an nhân dân, ảnh, giá Huân, huy chương;
 
-**ID:** dk_00071252
+- 02 xe chở Đội danh dự;
 
----
+- 01 xe chở Đội nhạc lễ;
 
+- 01 xe chở hoa;
 
-### Điều 41.14.TT.1.19. Nhạc lễ phục vụ Lễ tang
+- 01 xe chở hoặc kéo linh cữu;
 
-*Nội dung chưa có sẵn*
+- 02 đến 04 xe ca chở gia đình và cán bộ, chiến sĩ đi đưa tang;
 
-**Chỉ mục:** 19
+- 01 đến 02 xe Ban Tổ chức lễ tang.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150001900
+2. Xe cờ truyền thống, xe chở Đội danh dự, xe chở Đội nhạc lễ, xe chở hoa và xe chở linh cữu (gọi là xe nghi lễ) do lực lượng Cảnh sát cơ động đảm nhiệm. Xe chở gia đình, xe chở cán bộ, chiến sĩ đi đưa tang và xe Ban Tổ chức lễ tang do đơn vị chủ trì tổ chức Lễ tang bố trí.
 
-**ID:** dk_00071253
+Điều 41.14.TT.1.19. Nhạc lễ phục vụ Lễ tang
 
----
+(Điều 19 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
+1. Đội nhạc lễ Công an nhân dân phục vụ Lễ viếng, Lễ truy điệu, Lễ an táng (hoặc hỏa táng) đối với trường hợp thuộc đối tượng quy định tại khoản 1 và điểm a khoản 2 Điều 11 Mục này.
 
-### Điều 41.14.TT.1.20. Trình tự tổ chức Lễ tang
+2. Các trường hợp khác, dùng băng nhạc “Hồn tử sĩ” trong Lễ viếng, Lễ truy điệu, Lễ an táng (hoặc hỏa táng).
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.20. Trình tự tổ chức Lễ tang
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002000
+1. Lễ viếng (sơ đồ tổ chức Lễ viếng thực hiện theo Phụ lục số 1 kèm theo Thông tư này).
 
-**ID:** dk_00071254
+Trước khi tổ chức Lễ viếng, đại diện Ban Tổ chức lễ tang công bố Quyết định về việc thành lập Ban Tổ chức lễ tang; thông báo thời gian tổ chức Lễ viếng, Lễ truy điệu, Lễ đưa tang và Lễ an táng.
 
----
+a) Đến giờ viếng, khi các lực lượng phục vụ Lễ tang và những người tham dự Lễ tang đã vào vị trí theo quy định, Ban Tổ chức lễ tang thông báo “Lễ viếng đồng chí… bắt đầu”.
 
+b) Giới thiệu các đoàn vào viếng.
 
-### Điều 41.14.TT.1.21. Một số nội dung khác
+c) Từng đoàn vào viếng như sau:
 
-*Nội dung chưa có sẵn*
+- Hai chiến sĩ khiêng hoa đi trước;
 
-**Chỉ mục:** 21
+- Trưởng đoàn;
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002100
+- Các thành viên trong đoàn đi thành một hoặc hai hàng dọc;
 
-**ID:** dk_00071255
+- Sĩ quan dẫn viếng đi chếch phía sau, bên phải Trưởng đoàn.
 
----
+d) Khi đoàn vào viếng, hai chiến sĩ khiêng hoa đứng chờ sẵn, hướng vòng hoa về phía đoàn, “trình hoa”. Sau đó xoay vòng hoa lại, đi “nghiêm” chậm rãi trước đoàn vào vị trí viếng.
 
+đ) Đến vị trí viếng:
 
-### Điều 41.14.TT.1.22. Đơn vị chủ trì tổ chức Lễ tang
+- Hai chiến sĩ khiêng hoa đứng lại, phối hợp xoay và đặt vòng hoa vào giá hoa viếng, hướng mặt vòng hoa về phía đoàn viếng, sửa lại ngay ngắn rồi quay đằng sau đi đều về đứng ở hai bên;
 
-*Nội dung chưa có sẵn*
+- Sĩ quan dẫn viếng dẫn đoàn viếng đứng thành hàng ngang. Tùy số lượng đoàn viếng nhiều hay ít mà bố trí đứng thành một hoặc nhiều hàng ngang. Trưởng đoàn đứng chính giữa hàng, sĩ quan dẫn viếng đứng về bên phải đoàn viếng.
 
-**Chỉ mục:** 22
+e) Mặc niệm:
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002200
+Khi đoàn viếng đã ổn định đội hình, người điều khiển âm thanh mở băng nhạc “Hồn tử sĩ”. Nếu có Đội nhạc lễ Công an nhân dân thì cử bài “Hồn tử sĩ”. Khi nghe cử bài “Hồn tử sĩ”, mọi người trong đoàn viếng mặc niệm. Nếu mặc trang phục Công an nhân dân thì đứng nghiêm thực hiện động tác chào, mắt nhìn xuống nơi đặt linh cữu - chào vĩnh biệt người đã mất. Khi nhạc dừng lại, thôi chào, thôi mặc niệm. Nếu không có nhạc thì đồng chí trưởng đoàn hô: “Một phút mặc niệm bắt đầu”, cán bộ, chiến sĩ thực hiện động tác chào vĩnh biệt người đã mất, hết thời gian mặc niệm hô “thôi”. Nếu mặc thường phục thì đứng nghiêm, mắt nhìn xuống nơi đặt linh cữu, vĩnh biệt người đã mất.
 
-**ID:** dk_00071256
+g) Đi quanh linh cữu:
 
----
+- Sĩ quan dẫn viếng hướng dẫn đoàn viếng đi thành một hàng dọc theo thứ tự: Trưởng đoàn, sau đó đến các thành viên trong đoàn. Sĩ quan dẫn viếng đi bên phải Trưởng đoàn, đi vòng từ bên phải linh cữu (phía trong cán bộ túc trực) lên đầu linh cữu rồi vòng đến vị trí nơi gia đình thân nhân người đã mất, chia buồn với gia đình, sau đó đi ra khỏi khu vực viếng. Trưởng đoàn vào ghi sổ tang;
 
+- Hai chiến sĩ khiêng hoa từ hai bên đi vào đưa vòng hoa về nơi quy định.
 
-### Điều 41.14.TT.1.23. Công tác chuẩn bị
+h) Các đoàn nối tiếp theo thứ tự vào viếng.
 
-*Nội dung chưa có sẵn*
+2. Lễ truy điệu (sơ đồ tổ chức Lễ truy điệu thực hiện theo Phụ lục số 2 kèm theo Thông tư này).
 
-**Chỉ mục:** 23
+Đến giờ làm Lễ truy điệu, Ban Tổ chức lễ tang mời các đồng chí lãnh đạo, thành viên Ban Tổ chức lễ tang, các đoàn dự Lễ tang, đơn vị nghi lễ… vào vị trí tổ chức Lễ truy điệu.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002300
+a) Khi mọi người đã vào vị trí ổn định, Ban Tổ chức lễ tang tuyên bố: “Lễ truy điệu đồng chí… bắt đầu”. Sau đó, mời đồng chí Trưởng ban Tổ chức lễ tang đọc điếu văn; đọc điếu văn xong, đồng chí Trưởng ban Tổ chức lễ tang tuyên bố: “Phút mặc niệm bắt đầu”.
 
-**ID:** dk_00071257
+- Người điều khiển âm thanh mở nhạc “Hồn tử sĩ”, nếu có Đội nhạc lễ Công an nhân dân thì cử nhạc “Hồn tử sĩ”.
 
----
+- Đội danh dự thực hiện động tác bồng súng chào. Tất cả mọi người dự Lễ truy điệu đứng nghiêm, mặc niệm; cán bộ, chiến sĩ mặc trang phục Công an nhân dân đứng nghiêm thực hiện động tác chào. Kết thúc nhạc “Hồn tử sĩ”, các đại biểu thôi mặc niệm, Đội danh dự thôi chào.
 
+- Đại diện Ban Tổ chức lễ tang hoặc đại diện gia đình cảm ơn (nếu có).
 
-### Điều 41.14.TT.1.24. Ban Tổ chức lễ tang
+b) Ban Tổ chức lễ tang tuyên bố: “Lễ truy điệu đồng chí… kết thúc”, rồi mời các đồng chí lãnh đạo, đại biểu, các đoàn, gia đình nghỉ tại chỗ 5 phút và chuẩn bị đưa thi hài đồng chí… về nơi an nghỉ cuối cùng. Đội nhạc lễ (nếu có), Đội danh dự, tiêu binh ra khỏi vị trí. Các đội công tác thực hiện nhiệm vụ theo quy định.
 
-*Nội dung chưa có sẵn*
+3. Lễ đưa tang
 
-**Chỉ mục:** 24
+a) Chuyển linh cữu lên xe tang:
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002400
+- Đội nghi lễ và đoàn xe tang triển khai đội hình theo quy định;
 
-**ID:** dk_00071258
+- Chiến sĩ danh dự gấp Công an kỳ phủ trên linh cữu;
 
----
+- Hai chiến sĩ mang ảnh, giá Huân chương đến vị trí trước linh cữu để đi trước linh cữu;
 
+- Đội khiêng linh cữu vào khiêng linh cữu ra xe, các đại biểu, Ban Tổ chức lễ tang có thể cùng tham gia khiêng linh cữu;
 
-### Điều 41.14.TT.1.25. Đưa tin buồn
+- Khi linh cữu được khiêng ra, thứ tự đi sau linh cữu là gia đình, các đồng chí lãnh đạo, tiếp đến là đại biểu và các đoàn…;
 
-*Nội dung chưa có sẵn*
+- Đến xe tang, đặt linh cữu lên xe tang hoặc giá kéo. Chiến sĩ mang ảnh, giá Huân chương để lên xe chở Công an kỳ. Đối với Lễ tang của sĩ quan cấp úy, hạ sĩ quan, chiến sĩ không có xe Công an kỳ thì mang ảnh, giá Huân chương (nếu có), lên xe linh cữu. Bộ phận khiêng hoa, hương… đưa hoa, hương lên xe theo quy định;
 
-**Chỉ mục:** 25
+- Lãnh đạo, gia đình, đại biểu, thân quyến… lên các xe đưa tang.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002500
+b) Đưa tang, khi linh cữu đã được đặt lên xe chở linh cữu (hoặc xe kéo), các lực lượng đã chuẩn bị xong, Ban Tổ chức lễ tang ra lệnh cho đoàn xe tang xuất phát, thứ tự các xe như sau (xem Phụ lục số 3 kèm theo Thông tư này):
 
-**ID:** dk_00071259
+- Xe chỉ huy của Ban Tổ chức lễ tang;
 
----
+- Xe Công an kỳ, ảnh, huân, huy chương;
 
+- Xe Đội danh dự Công an nhân dân;
 
-### Điều 41.14.TT.1.26. Nơi tổ chức Lễ tang và nơi an táng
+- Xe chở Đội nhạc (nếu có);
+
+- Xe chở hoa;
+
+- Xe chở linh cữu (hoặc xe kéo linh cữu);
+
+- Xe gia đình;
+
+- Xe các đồng chí lãnh đạo;
+
+- Xe đại diện đơn vị, đại biểu;
+
+- Xe Ban Tổ chức lễ tang.
+
+Tốc độ, hành trình, cự ly của các xe đưa tang do Ban Tổ chức lễ tang quy định. Nhưng phải đảm bảo tuyến đường đi từ nơi tổ chức Lễ viếng đến nơi an táng hoặc hỏa táng là hợp lý nhất. Không thực hiện rước di ảnh qua nơi ở. Trường hợp đặc biệt do lãnh đạo Bộ quyết định.
+
+4. Lễ an táng hoặc hỏa táng
+
+a) An táng:
+
+- Đoàn xe tới nơi an táng, đỗ xe vào các vị trí quy định, lực lượng nghi lễ vào các vị trí làm nhiệm vụ;
+
+- Đội khiêng linh cữu chuyển linh cữu đặt lên giá trước huyệt;
+
+- Gia đình, các đồng chí lãnh đạo và các đoàn tham dự Lễ an táng đứng sau linh cữu theo hướng dẫn của Ban Tổ chức lễ tang;
+
+- Đội danh dự đứng thành 2-4 hàng ngang song song với linh cữu, Đội nhạc lễ (nếu có) đứng hướng đối diện với Đội danh dự;
+
+- Khi các lực lượng đã vào vị trí ổn định, Ban Tổ chức lễ tang tuyên bố: “Lễ an táng đồng chí… bắt đầu”;
+
+- Đội khiêng linh cữu khiêng linh cữu đặt trên huyệt;
+
+- Ban Tổ chức lễ tang tuyên bố “Hạ huyệt”;
+
+- Đội công tác hạ huyệt;
+
+- Khi linh cữu đã đặt vào vị trí, Ban Tổ chức lễ tang mời các đồng chí lãnh đạo, gia đình thân quyến bỏ nắm đất đầu tiên. Sau đó gia đình về đứng bên phải hoặc bên trái huyệt, các đồng chí lãnh đạo, các đại biểu về vị trí thích hợp;
+
+- Ban Tổ chức lễ tang tuyên bố: “Lấp huyệt”;
+
+- Đội công tác làm nhiệm vụ lấp huyệt;
+
+- Lấp huyệt xong, đặt hoa lên mộ;
+
+- Sau khi đặt vòng hoa lên mộ xong, Ban Tổ chức lễ tang tuyên bố “Vĩnh biệt đồng chí… Phút mặc niệm bắt đầu”. Đội danh dự bồng súng chào, mọi người dự Lễ an táng mặc niệm;
+
+- Mặc niệm xong, Đội danh dự “thôi chào”, mọi người thôi mặc niệm;
+
+- Kết thúc Lễ an táng, Ban Tổ chức lễ tang tuyên bố “Lễ an táng đồng chí… kết thúc”; cảm ơn các đồng chí lãnh đạo, các cơ quan, đoàn thể… rồi mời mọi người dự Lễ an táng đi một vòng quanh mộ, vĩnh biệt lần cuối người đã mất. Các đại biểu chia buồn với gia đình rồi ra về. Các lực lượng phục vụ Lễ tang theo hướng dẫn của Ban Tổ chức lễ tang lần lượt ra khỏi khu vực Lễ an táng.
+
+b) Hỏa táng: Ban Tổ chức lễ tang phối hợp với Đài hỏa táng và gia đình tổ chức hỏa táng theo quy định.
+
+Phu luc 1_Sơ đồ tổ chức Lễ viếng.docx
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.32. Trình tự tổ chức Lễ tang)
+
+Điều 41.14.TT.1.21. Một số nội dung khác
+
+(Điều 21 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+Nơi tổ chức Lễ tang, nơi an táng, xây mộ và chi phí thực hiện theo Quy định tại Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ và hướng dẫn của Bộ Tài chính.
+
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.38. Nơi tổ chức Lễ tang; Điều 41.14.NĐ.39. Nơi an táng; Điều 41.14.NĐ.46. Xây mộ và chi phí; Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao)
+
+Điều 41.14.TT.1.22. Đơn vị chủ trì tổ chức Lễ tang
+
+(Điều 22 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+1. Đối với cán bộ lãnh đạo Bộ Tư lệnh; lãnh đạo cấp Vụ, Cục, Công an tỉnh, thành phố trực thuộc Trung ương, Sở Cảnh sát phòng cháy và chữa cháy và tương đương hy sinh, từ trần (trừ các chức danh được tổ chức Lễ tang cấp cao trong Công an nhân dân quy định tại Điều 10 Mục 2 Chương này):
+
+a) Lãnh đạo Tổng cục, Bộ Tư lệnh chủ trì tổ chức Lễ tang đối với cán bộ hy sinh, từ trần thuộc Tổng cục, Bộ Tư lệnh. Trường hợp cán bộ hy sinh, từ trần thuộc các đơn vị trực thuộc Bộ thì lãnh đạo Tổng cục Xây dựng lực lượng Công an nhân dân chủ trì, phối hợp với đơn vị có cán bộ hy sinh, từ trần tổ chức Lễ tang;
+
+b) Lãnh đạo Công an tỉnh, thành phố trực thuộc Trung ương; Sở Cảnh sát phòng cháy và chữa cháy chủ trì phối hợp với chính quyền địa phương tổ chức Lễ tang đối với cán bộ thuộc đơn vị hy sinh, từ trần.
+
+2. Lãnh đạo Tổng cục, Bộ Tư lệnh; đơn vị trực thuộc Bộ; Công an tỉnh, thành phố trực thuộc Trung ương; Sở Cảnh sát phòng cháy và chữa cháy chủ trì tổ chức Lễ tang đối với cán bộ giữ chức vụ lãnh đạo cấp Trưởng phòng và tương đương hoặc cán bộ có cấp bậc hàm Đại tá thuộc đơn vị hy sinh, từ trần.
+
+3. Lãnh đạo Bộ Tư lệnh; Vụ, Cục và tương đương; Công an tỉnh, thành phố trực thuộc Trung ương; Sở Cảnh sát phòng cháy và chữa cháy chủ trì tổ chức Lễ tang đối với cán bộ giữ chức vụ lãnh đạo cấp Phó Trưởng phòng và tương đương trở xuống hoặc cán bộ, chiến sĩ có cấp bậc hàm Thượng tá trở xuống thuộc đơn vị hy sinh, từ trần. Tùy theo tình hình cụ thể của đơn vị, Công an các đơn vị, địa phương thực hiện phân cấp hoặc ủy quyền tổ chức Lễ tang đối với cán bộ, chiến sĩ công an thuộc đơn vị hy sinh, từ trần cho phù hợp.
+
+4. Cán bộ công an biệt phái hy sinh, từ trần thì tùy tình hình và yêu cầu nghiệp vụ cụ thể, đơn vị quản lý cán bộ biệt phái thống nhất với cơ quan nhận cán bộ biệt phái phối hợp với gia đình tổ chức Lễ tang.
+
+5. Cán bộ, chiến sĩ công an đi học, đi công tác, đi chữa bệnh ở nước ngoài từ trần thì Công an đơn vị, địa phương đang quản lý cán bộ chủ trì, phối hợp với Tổng cục V, Vụ Hợp tác quốc tế, Cục Đào tạo, Đại sứ quán (hoặc cơ quan đại diện Nhà nước Việt Nam) ở nước sở tại và gia đình tổ chức Lễ tang.
+
+6. Cán bộ, chiến sĩ công an đang trong thời gian học tập trung tại các học viện, trường Công an nhân dân hy sinh, từ trần thì Giám đốc học viện, Hiệu trưởng nhà trường chủ trì tổ chức Lễ tang.
+
+Trường hợp đang trong thời gian học hệ vừa làm vừa học tại trường hy sinh, từ trần thì đơn vị công tác của cán bộ, chiến sĩ chủ trì, phối hợp với nhà trường tổ chức Lễ tang.
+
+7. Cán bộ, chiến sĩ công an được cử đi học tại các trường ngoài ngành Công an hy sinh, từ trần thì đơn vị trực tiếp quản lý tiền lương hoặc sinh hoạt phí của cán bộ, chiến sĩ đi học chủ trì tổ chức Lễ tang.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.10. Chức danh được tổ chức Lễ tang cấp cao trong Công an nhân dân; Điều 41.14.TT.1.25. Đưa tin buồn)
+
+Điều 41.14.TT.1.23. Công tác chuẩn bị
+
+(Điều 23 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+Công tác chuẩn bị tổ chức Lễ tang thực hiện theo quy định tại Điều 12 Mục 2 Chương này.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.12. Công tác chuẩn bị)
+
+Điều 41.14.TT.1.24. Ban Tổ chức lễ tang
+
+(Điều 24 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+Lãnh đạo đơn vị chủ trì tổ chức Lễ tang quyết định thành lập Ban Tổ chức lễ tang, Trưởng ban Tổ chức lễ tang là một đồng chí lãnh đạo đơn vị chủ trì tổ chức Lễ tang. Số lượng, thành phần Ban Tổ chức lễ tang do đơn vị chủ trì tổ chức Lễ tang quyết định.
+
+Điều 41.14.TT.1.25. Đưa tin buồn
+
+(Điều 25 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+1. Bộ Công an, đơn vị và gia đình đứng tên đưa tin buồn trên trang 2 báo Công an nhân dân đối với cán bộ hy sinh, từ trần thuộc các chức danh quy định tại khoản 1 Điều 22 Mục này.
+
+Tổng cục, Bộ Tư lệnh; Vụ, Cục trực thuộc Bộ; Công an tỉnh, thành phố trực thuộc Trung ương; Sở Cảnh sát phòng cháy và chữa cháy và gia đình đứng tên đưa tin buồn trên trang 2 báo Công an nhân dân đối với cán bộ hy sinh, từ trần là lãnh đạo cấp phòng, cấp huyện và tương đương; cán bộ cấp bậc hàm Thượng tá, Đại tá; Anh hùng lực lượng vũ trang; Anh hùng Lao động; Thầy thuốc nhân dân; Nhà giáo nhân dân; Nghệ sĩ nhân dân; Giáo sư.
+
+Việc đăng tin buồn trên báo Nhân dân hoặc các phương tiện thông tin đại chúng đối với các trường hợp này, thực hiện theo quy định tại Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ.
+
+2. Cơ quan tổ chức cán bộ thuộc đơn vị chủ trì tổ chức Lễ tang chuẩn bị tin buồn, tham khảo ý kiến của gia đình và thông qua Trưởng ban Tổ chức lễ tang trước khi đăng tin trên báo Nhân dân và báo Công an nhân dân.
+
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.22. Đơn vị chủ trì tổ chức Lễ tang)
 
 Điều 41.14.TT.1.26. Nơi tổ chức Lễ tang và nơi an táng
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002600
+1. Cán bộ, chiến sĩ công an hy sinh, từ trần ở địa phương nào thì tổ chức Lễ tang và an táng hoặc hỏa táng ở nghĩa trang của địa phương đó theo quy định.
 
-**ID:** dk_00071260
+2. Trường hợp gia đình có nguyện vọng đưa thi hài về an táng ở nghĩa trang địa phương khác thì Trưởng ban Tổ chức lễ tang căn cứ quy định và ý kiến bệnh viện xem xét, quyết định.
 
----
+Điều 41.14.TT.1.27. Trang trí lễ đài
 
+(Điều 27 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.27. Trang trí lễ đài
+Đối với nơi tổ chức Lễ tang có điều kiện thì thực hiện trang trí lễ đài như quy định tại Điều 15 Mục 2 Chương này. Những nơi khác, tùy theo tình hình cụ thể để trang trí lễ đài phù hợp, đảm bảo trang nghiêm.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002700
-
-**ID:** dk_00071261
-
----
-
-
-### Điều 41.14.TT.1.28. Vòng hoa tiêu biểu, vòng hoa luân chuyển
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.15. Trang trí lễ đài)
 
 Điều 41.14.TT.1.28. Vòng hoa tiêu biểu, vòng hoa luân chuyển
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002800
+1. Ban Tổ chức lễ tang chuẩn bị 02 vòng hoa tiêu biểu, dải băng màu đen, chữ trắng ghi: “Vô cùng thương tiếc đồng chí…” đặt hai bên bàn thờ.
 
-**ID:** dk_00071262
-
----
-
-
-### Điều 41.14.TT.1.29. Túc trực bên linh cữu, đơn vị danh dự
+2. Ban Tổ chức lễ tang chuẩn bị từ 10 đến 20 vòng hoa luân chuyển, băng vải đen, kích thước 1,2m x 0,2m với dòng chữ trắng “Vô cùng thương tiếc đồng chí…”; trong thông báo tin buồn có ghi: Các đoàn đến viếng không mang vòng hoa và băng vải đen mà sử dụng vòng hoa viếng do Ban Tổ chức lễ tang chuẩn bị.
 
 Điều 41.14.TT.1.29. Túc trực bên linh cữu, đơn vị danh dự
 
-**Chỉ mục:** 29
+(Điều 29 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150002900
+1. Túc trực bên linh cữu (thời gian túc trực bên linh cữu thực hiện như quy định tại khoản 1 Điều 17 Mục 2 Chương này):
 
-**ID:** dk_00071263
+- Sĩ quan cấp Đại tá, Thượng tá: 02 sĩ quan cấp tá hoặc cấp úy và 04 hạ sĩ quan, chiến sĩ;
 
----
+- Sĩ quan cấp Trung tá, Thiếu tá: 02 sĩ quan cấp úy và 04 hạ sĩ quan, chiến sĩ;
 
+- Sĩ quan cấp úy và hạ sĩ quan, chiến sĩ: 04 hạ sĩ quan, chiến sĩ.
 
-### Điều 41.14.TT.1.30. Sử dụng xe trong Lễ tang
+2. Đơn vị danh dự, khiêng hoa:
 
-*Nội dung chưa có sẵn*
+- Sĩ quan cấp tá: 24 đồng chí, trong đó có 01 sĩ quan chỉ huy và 03 đồng chí tổ Công an kỳ. Từ 08 đến 10 chiến sĩ làm nhiệm vụ khiêng hoa;
 
-**Chỉ mục:** 30
+- Sĩ quan cấp úy và hạ sĩ quan, chiến sĩ: 13 đồng chí, trong đó có 01 chỉ huy. Có 08 chiến sĩ làm nhiệm vụ khiêng hoa.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003000
+3. Sĩ quan túc trực bên linh cữu do đơn vị chủ trì tổ chức Lễ tang đảm nhiệm. Hạ sĩ quan, chiến sĩ túc trực bên linh cữu, khiêng hoa, dẫn viếng và đơn vị danh dự do lực lượng Cảnh sát cơ động đảm nhiệm.
 
-**ID:** dk_00071264
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.17. Túc trực bên linh cữu, đơn vị danh dự)
 
----
+Điều 41.14.TT.1.30. Sử dụng xe trong Lễ tang
 
+(Điều 30 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.31. Nhạc lễ phục vụ Lễ tang
+1. Số lượng xe sử dụng trong Lễ tang
 
-*Nội dung chưa có sẵn*
+- Sĩ quan cấp Thượng tá, Đại tá sử dụng từ 7 đến 9 xe gồm: 01 xe cờ truyền thống của lực lượng Công an nhân dân, 01 xe Đội danh dự, 01 xe chở hoa, 01 xe chở linh cữu, 02 đến 03 xe ca chở gia đình và cán bộ, chiến sĩ đi đưa tang, 01 xe Ban Tổ chức lễ tang.
 
-**Chỉ mục:** 31
+- Sĩ quan cấp Thiếu tá, Trung tá sử dụng từ 5 đến 7 xe gồm: 01 xe cờ truyền thống của lực lượng Công an nhân dân, 01 xe Đội danh dự, 01 xe chở linh cữu, 01 đến 02 xe ca chở gia đình và cán bộ, chiến sĩ đi đưa tang, 01 xe Ban Tổ chức lễ tang.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003100
+- Sĩ quan cấp úy và hạ sĩ quan, chiến sĩ sử dụng từ 3 đến 5 xe gồm: 01 xe chở linh cữu, 01 xe Đội danh dự, 01 đến 03 xe chở gia đình, Ban Tổ chức lễ tang và cán bộ, chiến sĩ đi đưa tang.
 
-**ID:** dk_00071265
+2. Xe nghi lễ phục vụ Lễ tang do lực lượng Cảnh sát cơ động đảm nhiệm. Xe phục vụ gia đình, Ban Tổ chức lễ tang và cán bộ, chiến sĩ đi đưa tang do đơn vị chủ trì tổ chức Lễ tang đảm nhiệm.
 
----
+Điều 41.14.TT.1.31. Nhạc lễ phục vụ Lễ tang
 
+(Điều 31 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.32. Trình tự tổ chức Lễ tang
+Sử dụng băng nhạc “Hồn tử sĩ” trong Lễ viếng và Lễ truy điệu.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.32. Trình tự tổ chức Lễ tang
 
-**Chỉ mục:** 32
+(Điều 32 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003200
+Trình tự tổ chức Lễ tang thực hiện theo quy định tại Điều 20 Mục 2 Chương này.
 
-**ID:** dk_00071266
-
----
-
-
-### Điều 41.14.TT.1.33. Đối tượng được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.20. Trình tự tổ chức Lễ tang)
 
 Điều 41.14.TT.1.33. Đối tượng được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân
 
-**Chỉ mục:** 33
+(Điều 33 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003300
+Cán bộ hoạt động cách mạng trước năm 1945, cán bộ Tiền khởi nghĩa, Anh hùng lực lượng vũ trang, Anh hùng Lao động, Đại biểu Quốc hội, Thầy thuốc nhân dân, Nhà giáo nhân dân, Nghệ sĩ nhân dân, Giáo sư, Lãnh đạo cấp phòng, Công an huyện và tương đương trở lên; cán bộ có cấp bậc hàm Đại tá từ trần, nếu tổ chức lễ tang ở nơi có đủ điều kiện tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân thì được tổ chức Lễ tang theo quy định đối với sĩ quan cấp Thượng tá, Đại tá đang công tác hy sinh, từ trần.
 
-**ID:** dk_00071267
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.34. Đơn vị chủ trì tổ chức Lễ tang; Điều 41.14.TT.1.40. Lễ tang cán bộ công an đã nghỉ hưu)
 
----
+Điều 41.14.TT.1.34. Đơn vị chủ trì tổ chức Lễ tang
 
+(Điều 34 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.34. Đơn vị chủ trì tổ chức Lễ tang
+1. Cán bộ thuộc đối tượng quy định Điều 33 Mục này từ trần cư trú tại địa phương nào thì do Công an tỉnh, thành phố trực thuộc Trung ương nơi đó chủ trì phối hợp với đơn vị công tác trước khi nghỉ hưu, chính quyền địa phương và gia đình tổ chức Lễ tang. Nếu công tác tại các đơn vị thuộc cơ quan Bộ nghỉ hưu tại thành phố Hà Nội và thành phố Hồ Chí Minh thì do đơn vị công tác cấp Vụ, Cục… trước khi nghỉ hưu chủ trì phối hợp với Công an, chính quyền địa phương và gia đình tổ chức Lễ tang. Trường hợp đơn vị công tác của cán bộ trước khi nghỉ hưu đã sáp nhập (hoặc chia tách, giải thể) thì thực hiện như quy định tại khoản 2 Điều 5 Chương I Thông tư này.
 
-*Nội dung chưa có sẵn*
+Đối với cán bộ giữ chức vụ Vụ trưởng, Cục trưởng và tương đương; Phó Vụ trưởng, Phó Cục trưởng và tương đương là cán bộ hoạt động cách mạng trước-8-1945; Anh hùng lực lượng vũ trang nhân dân, Anh hùng Lao động; Đại biểu Quốc hội; Thầy thuốc nhân dân, Nhà giáo nhân dân, Nghệ sĩ nhân dân, Giáo sư công tác tại các đơn vị thuộc cơ quan Bộ nghỉ hưu tại thành phố Hà Nội, thành phố Hồ Chí Minh từ trần thì do Tổng cục, Bộ Tư lệnh, đơn vị trực thuộc Bộ nơi cán bộ công tác trước khi nghỉ hưu chủ trì phối hợp với công an, chính quyền địa phương và gia đình tổ chức Lễ tang.
 
-**Chỉ mục:** 34
+2. Cán bộ không thuộc đối tượng quy định tại Điều 33 Mục này từ trần thì chính quyền địa phương và gia đình chủ trì phối hợp với Công an cấp huyện nơi cán bộ cư trú tổ chức Lễ tang. Đơn vị có cán bộ nghỉ hưu tổ chức đoàn đến viếng hoặc có thể gửi vòng hoa viếng nếu ở xa.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003400
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.5. Trách nhiệm tổ chức Lễ tang; Điều 41.14.TT.1.33. Đối tượng được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân)
 
-**ID:** dk_00071268
+Điều 41.14.TT.1.35. Ban Tổ chức lễ tang
 
----
+(Điều 35 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
+Đơn vị chủ trì tổ chức Lễ tang quyết định thành lập Ban Tổ chức lễ tang, Trưởng ban Tổ chức lễ tang là một đồng chí lãnh đạo đơn vị chủ trì tổ chức Lễ tang. Tham gia Ban Tổ chức lễ tang có đại diện Công an, chính quyền địa phương nơi cán bộ cư trú, đại diện Câu lạc bộ Công an hưu trí và gia đình.
 
-### Điều 41.14.TT.1.35. Ban Tổ chức lễ tang
+Điều 41.14.TT.1.36. Đưa tin buồn
 
-*Nội dung chưa có sẵn*
+(Điều 36 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Chỉ mục:** 35
+1. Bộ Công an, đơn vị và gia đình đứng tên đưa tin buồn trên trang 2 báo Công an nhân dân đối với cán bộ từ trần nguyên là lãnh đạo Bộ Tư lệnh; lãnh đạo cấp Vụ, Cục, Công an tỉnh, thành phố trực thuộc Trung ương, Sở Cảnh sát phòng cháy và chữa cháy và tương đương.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003500
+Tổng cục, Bộ Tư lệnh, Vụ, Cục… và gia đình đứng tên đưa tin buồn trên trang 2 báo Công an nhân dân đối với cán bộ nguyên là lãnh đạo cấp phòng, cấp huyện và tương đương; cán bộ cấp bậc hàm Đại tá, Thượng tá; Anh hùng lực lượng vũ trang, Anh hùng Lao động, Thầy thuốc nhân dân, Nhà giáo nhân dân, Nghệ sĩ nhân dân, Giáo sư.
 
-**ID:** dk_00071269
+Việc đăng tin buồn trên báo Nhân dân hoặc các phương tiện thông tin đại chúng đối với các trường hợp này, thực hiện theo quy định tại Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ.
 
----
-
-
-### Điều 41.14.TT.1.36. Đưa tin buồn
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003600
-
-**ID:** dk_00071270
-
----
-
-
-### Điều 41.14.TT.1.37. Nghi thức và trách nhiệm tổ chức Lễ tang
+2. Cơ quan tổ chức cán bộ thuộc đơn vị chủ trì Lễ tang chuẩn bị tin buồn, tham khảo ý kiến của gia đình và thông qua Trưởng ban Tổ chức lễ tang trước khi đưa tin trên báo hoặc phương tiện thông tin đại chúng.
 
 Điều 41.14.TT.1.37. Nghi thức và trách nhiệm tổ chức Lễ tang
 
-**Chỉ mục:** 37
+(Điều 37 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003700
+1. Công nhân viên Công an nhân dân hưởng lương từ ngân sách nhà nước từ trần, thực hiện tổ chức Lễ tang như đối với cán bộ, công chức, viên chức Nhà nước từ trần quy định tại Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ.
 
-**ID:** dk_00071271
+2. Công nhân viên Công an hy sinh trong khi làm nhiệm vụ thì được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân như quy định đối với sĩ quan cấp úy đang công tác hy sinh, từ trần.
 
----
+3. Công nhân viên Công an nhân dân từ trần do cơ quan, đơn vị trực tiếp quản lý cùng với gia đình tổ chức Lễ tang.
 
-
-### Điều 41.14.TT.1.38. Lễ tang cấp Nhà nước và Lễ tang cấp cao
+4. Công nhân viên Công an nhân dân đã nghỉ hưu từ trần do chính quyền địa phương và gia đình phối hợp với đơn vị công tác trước khi nghỉ hưu tổ chức Lễ tang.
 
 Điều 41.14.TT.1.38. Lễ tang cấp Nhà nước và Lễ tang cấp cao
 
-**Chỉ mục:** 38
+(Điều 38 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003800
+Kinh phí phục vụ tổ chức Lễ tang cấp Nhà nước và Lễ tang cấp cao trong Công an nhân dân quy định tại Mục 1, Mục 2 Chương này thực hiện theo quy định tại Nghị định số 105/2012/NĐ-CP ngày 17-12-2012 của Chính phủ và văn bản hướng dẫn của Bộ Tài chính.
 
-**ID:** dk_00071272
-
----
-
-
-### Điều 41.14.TT.1.39. Lễ tang cán bộ, chiến sĩ công an đang công tác có cấp bậc hàm Đại tá trở xuống
+(Điều này có nội dung liên quan đến Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước; Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao)
 
 Điều 41.14.TT.1.39. Lễ tang cán bộ, chiến sĩ công an đang công tác có cấp bậc hàm Đại tá trở xuống
 
-**Chỉ mục:** 39
+(Điều 39 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150003900
+1. Kinh phí chi phục vụ tổ chức Lễ tang đối với các trường hợp quy định tại Mục 3 Chương này: ngoài trợ cấp mai táng theo quy định của Luật Bảo hiểm xã hội (bằng 10 tháng lương tối thiểu chung), còn được Bộ Công an hỗ trợ thêm 12 tháng lương tối thiểu chung theo quy định của Chính phủ tại thời điểm cán bộ, chiến sĩ công an hy sinh, từ trần.
 
-**ID:** dk_00071273
-
----
-
-
-### Điều 41.14.TT.1.40. Lễ tang cán bộ công an đã nghỉ hưu
+2. Trường hợp gia đình cán bộ, chiến sĩ công an đang công tác hy sinh, từ trần đảm nhận tổ chức Lễ tang thì đơn vị có cán bộ, chiến sĩ hy sinh, từ trần chi trả cho gia đình khoản kinh phí phục vụ tổ chức Lễ tang quy định tại khoản 1 trên.
 
 Điều 41.14.TT.1.40. Lễ tang cán bộ công an đã nghỉ hưu
 
-**Chỉ mục:** 40
+(Điều 40 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150004000
+Kinh phí phục vụ tổ chức Lễ tang đối với cán bộ công an đã nghỉ hưu từ trần thuộc đối tượng được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân quy định tại Điều 33 Mục 4 Chương này do gia đình cán bộ từ trần đảm bảo và thanh toán với cơ quan Bảo hiểm xã hội nơi cư trú. Đơn vị chủ trì tổ chức Lễ tang đảm bảo chi phí phục vụ phần nghi lễ của lực lượng Công an nhân dân như tiêu binh, danh dự và phương tiện chở Đội tiêu binh, danh dự.
 
-**ID:** dk_00071274
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.33. Đối tượng được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân)
 
----
+Điều 41.14.TT.1.41. Đối tượng được tổ chức viếng
 
+(Điều 41 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.41. Đối tượng được tổ chức viếng
+1. Cán bộ, chiến sĩ công an đang công tác hoặc đã nghỉ hưu hy sinh, từ trần.
 
-*Nội dung chưa có sẵn*
+2. Thân nhân của cán bộ, chiến sĩ công an đang công tác hy sinh, từ trần gồm: Bố, mẹ đẻ; bố, mẹ vợ hoặc chồng; người trực tiếp nuôi dưỡng cán bộ, chiến sĩ công an từ nhỏ; vợ, hoặc chồng; con.
 
-**Chỉ mục:** 41
+3. Trưởng, Phó trưởng Công an xã, thị trấn và Công an viên đang công tác hy sinh, từ trần.
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150004100
+Điều 41.14.TT.1.42. Phân cấp tổ chức viếng
 
-**ID:** dk_00071275
+(Điều 42 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
----
+1. Cán bộ, chiến sĩ công an hy sinh, từ trần và thân nhân cán bộ, chiến sĩ công an đang công tác thuộc đơn vị nào hy sinh, từ trần thì đơn vị đó đi viếng. Trường hợp ở quá xa nơi đơn vị đóng trụ sở thì trao đổi, đề nghị Công an địa phương nơi tổ chức Lễ tang làm đại diện đến viếng. Việc tổ chức đi viếng thân nhân cán bộ, chiến sĩ công an đang công tác hy sinh, từ trần thực hiện như phân cấp tổ chức Lễ tang đối với cán bộ, chiến sĩ công an hy sinh, từ trần. Lãnh đạo hoặc đại diện đơn vị chủ trì tổ chức Lễ tang đối với cán bộ, chiến sĩ công an hy sinh, từ trần ở cấp nào thì đi viếng thân nhân cán bộ, chiến sĩ ở cấp đó.
 
+2. Trưởng, Phó trưởng Công an xã, thị trấn và Công an viên đang công tác hy sinh, từ trần thì Công an cấp huyện trực tiếp quản lý tổ chức viếng.
 
-### Điều 41.14.TT.1.42. Phân cấp tổ chức viếng
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.43. Kinh phí tổ chức viếng)
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.43. Kinh phí tổ chức viếng
 
-**Chỉ mục:** 42
+(Điều 43 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150004200
+Đơn vị (theo quy định tại Điều 42 Chương này) đi viếng cán bộ, chiến sĩ công an; thân nhân cán bộ, chiến sĩ công an; Trưởng, Phó trưởng Công an xã, thị trấn và Công an viên đang công tác hy sinh, từ trần được chi mua vòng hoa, hương nến… bằng 01 (một) tháng lương tối thiểu chung theo quy định của Chính phủ tại thời điểm đi viếng.
 
-**ID:** dk_00071276
+(Điều này có nội dung liên quan đến Điều 41.14.TT.1.42. Phân cấp tổ chức viếng; Điều 41.14.TT.1.44. Kinh phí đảm bảo)
 
----
+Điều 41.14.TT.1.44. Kinh phí đảm bảo
 
+(Điều 44 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 41.14.TT.1.43. Kinh phí tổ chức viếng
+Kinh phí tổ chức Lễ tang quy định tại Mục 6 Chương II và kinh phí tổ chức đi viếng quy định tại Điều 43 Chương III Thông tư này do ngân sách Bộ Công an đảm bảo.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Mục 6 KINH PHÍ TỔ CHỨC LỄ TANG; Điều 41.14.TT.1.43. Kinh phí tổ chức viếng)
 
-**Chỉ mục:** 43
+Mục 2
 
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150004300
-
-**ID:** dk_00071277
-
----
-
-
-### Điều 41.14.TT.1.44. Kinh phí đảm bảo
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 44
-
-**Mã phân cấp:** 410140000000000055000001000000000000000000802466600150004400
-
-**ID:** dk_00071278
-
----
-
-
-### Điều 41.14.TT.3.4. Hình thức, nghi thức tổ chức lễ tang trong Quân đội
+QUY ĐỊNH VÀ HƯỚNG DẪN TỔ CHỨC LỄ TANG ĐỐI VỚI QUÂN NHÂN, CÔNG NHÂN, VIÊN CHỨC QUỐC PHÒNG; NGƯỜI LÀM CÔNG TÁC CƠ YẾU DO BỘ QUỐC PHÒNG QUẢN LÝ
 
 Điều 41.14.TT.3.4. Hình thức, nghi thức tổ chức lễ tang trong Quân đội
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860000400
+ 1. Hình thức tổ chức lễ tang, gồm:
 
-**ID:** dk_00071280
+ a) Lễ tang cấp Nhà nước;
 
----
+ b) Lễ tang Cấp cao;
 
+ c) Lễ tang quân nhân có cấp bậc từ Đại tá trở xuống;
 
-### Điều 41.14.TT.3.5. Quy định về trang phục trong lễ tang do Quân đội chủ trì
+ d) Lễ tang công nhân, viên chức quốc phòng.
+
+ 2. Nghi thức tổ chức lễ tang
+
+ a) Nghi thức tổ chức lễ tang, gồm: Trình tự tổ chức lễ tang, tổ chức lực lượng và phương tiện phục vụ lễ tang theo quy định tại Thông tư này.
+
+ b) Nghi thức tổ chức lễ tang trong Quân đội được thực hiện đối với:
+
+ - Người hy sinh, từ trần quy định tại Khoản 1 Điều 2 Thông tư này tổ chức lễ tang tại nhà tang lễ bệnh viện Quân đội hoặc tại cơ quan, đơn vị;
+
+ - Sĩ quan cấp Tướng (kể cả nghỉ hưu) hy sinh, từ trần tổ chức lễ tang tại gia đình, được vận dụng theo nghi thức tổ chức lễ tang trong Quân đội;
+
+ - Người hy sinh, từ trần có cấp hàm từ Đại tá trở xuống khi tổ chức lễ tang tại gia đình không thực hiện nghi thức lễ tang trong Quân đội.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.2. Đối tượng áp dụng)
 
 Điều 41.14.TT.3.5. Quy định về trang phục trong lễ tang do Quân đội chủ trì
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860000500
+ 1. Đối với quân nhân hy sinh, từ trần
 
-**ID:** dk_00071281
+ Trang phục khi khâm liệm đối với sĩ quan, quân nhân chuyên nghiệp mặc Tiểu lễ phục mùa đông, không đội mũ; hạ sĩ quan, binh sĩ mặc quân phục dự lễ theo Điều lệnh Quản lý bộ đội; công nhân, viên chức quốc phòng, quân nhân nghỉ hưu theo nguyện vọng của thân nhân người từ trần.
 
----
+ 2. Đối với Ban Lễ tang, Ban Tổ chức Lễ tang
 
+ a) Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang Cấp cao: Sĩ quan, quân nhân chuyên nghiệp tham gia thành viên Ban Lễ tang, Ban Tổ chức Lễ tang mặc Tiểu lễ phục mùa đông, đội mũ;
 
-### Điều 41.14.TT.3.6. Một số quy định khác
+ b) Các hình thức lễ tang khác: Sĩ quan, quân nhân chuyên nghiệp tham gia thành viên Ban Tổ chức Lễ tang, mặc Tiểu lễ phục theo mùa, đội mũ;
 
-*Nội dung chưa có sẵn*
+ c) Đại diện cơ quan, đơn vị ngoài Quân đội tham gia thành viên Ban Lễ tang, Ban Tổ chức Lễ tang mặc trang phục lịch sự, nghiêm túc.
 
-**Chỉ mục:** 6
+ 3. Đối với đoàn viếng
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860000600
+ a) Khi viếng Lễ Quốc tang, Lễ tang cấp Nhà nước: Sĩ quan, quân nhân chuyên nghiệp mặc Tiểu lễ phục mùa đông, đội mũ; hạ sĩ quan, binh sĩ mặc quân phục dự lễ, đội mũ;
 
-**ID:** dk_00071282
+ b) Khi viếng Lễ tang Cấp cao: Sĩ quan, quân nhân chuyên nghiệp mặc Tiểu lễ phục theo mùa, đội mũ;
 
----
+ c) Các hình thức lễ tang khác: Sĩ quan, quân nhân chuyên nghiệp; hạ sĩ quan, binh sĩ mặc quân phục thường dùng theo mùa, đội mũ.Điều 41.14.TT.3.6. Một số quy định khác
 
+(Điều 6 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 41.14.TT.3.7. Chức danh, cấp hàm được tổ chức Lễ tang cấp Nhà nước
+ 1. Người hy sinh, từ trần trong thời gian đi học tập trong nước, do nhà trường nơi học tập chủ trì, phối hợp với đơn vị quản lý tổ chức lễ tang.
+
+ 2. Người hy sinh, từ trần khi biệt phái sang các cơ quan Đảng, Nhà nước, do đơn vị quản lý trước khi đi biệt phái chủ trì, phối hợp với cơ quan, đơn vị nơi làm nhiệm vụ biệt phái tổ chức lễ tang.
+
+ 3. Người hy sinh, từ trần khi đi làm nhiệm vụ quốc tế, đi học, đi công tác, đi chữa bệnh ở nước ngoài, do đơn vị quản lý phối hợp với Cục Đối ngoại/Bộ Quốc phòng, Đại sứ quán hoặc cơ quan ngoại giao ở nước sở tại để tổ chức lễ tang.
+
+ 4. Người hy sinh, từ trần trên đường đi công tác hoặc nghỉ tại gia đình, do đơn vị quản lý chủ trì, phối hợp với cơ quan quân sự địa phương tổ chức lễ tang theo phân cấp quy định tại Điều 17 Thông tư này. Trường hợp đơn vị ở xa từ 100 km trở lên (tính theo đường quốc lộ, tỉnh lộ) thì cơ quan quân sự địa phương nơi người hy sinh, từ trần chủ trì, phối hợp với đơn vị quản lý tổ chức lễ tang.
+
+ 5. Người hy sinh trong chiến tranh, nếu không có điều kiện tổ chức lễ tang theo quy định tại Thông tư này thì thực hiện báo tử và tổ chức Lễ truy điệu tại địa phương.
+
+ 6. Trường hợp nhiều người hy sinh trong khi làm nhiệm vụ huấn luyện, diễn tập, sẵn sàng chiến đấu, làm nhiệm vụ quốc phòng, an ninh; người hy sinh có hành động dũng cảm, thủ trưởng đơn vị trực thuộc Quân ủy Trung ương quyết định hình thức lễ tang cao hơn nhằm tuyên truyền, giáo dục, nêu gương.
+
+ 7. Quân nhân nghỉ hưu từ trần, tổ chức lễ tang tại nhà tang lễ các bệnh viện Quân đội do đơn vị Quân đội chủ trì tổ chức theo nghi thức lễ tang trong Quân đội.
+
+ 8. Các quy định Lễ đưa tang, Lễ an táng; thời gian tổ chức lễ tang; quy cách quan tài; băng tang; quy định rắc vàng mã thực hiện theo quy định tại Điều 4 Nghị định số 105/2012/NĐ-CP ngày 17 tháng 12 năm 2012 của Chính phủ về tổ chức lễ tang cán bộ công chức, viên chức (sau đây gọi tắt là Nghị định số 105/2012/NĐ-CP).(Điều này có nội dung liên quan đến Điều 41.14.NĐ.4. Một số quy định khác; Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang)
 
 Điều 41.14.TT.3.7. Chức danh, cấp hàm được tổ chức Lễ tang cấp Nhà nước
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860000700
+ Cán bộ Quân đội đương chức hoặc thôi giữ chức thuộc một trong các chức vụ, cấp bậc quân hàm sau đây hy sinh, từ trần được tổ chức Lễ tang cấp Nhà nước, gồm:
 
-**ID:** dk_00071283
+ 1. Ủy viên Bộ Chính trị, Bí thư Ban Chấp hành Trung ương Đảng;
 
----
+ 2. Phó Chủ tịch nước, Phó Thủ tướng Chính phủ, Phó Chủ tịch Quốc hội;
 
+ 3. Đại tướng Quân đội nhân dân Việt Nam;
 
-### Điều 41.14.TT.3.8. Tổ chức Lễ tang
+ 4. Thượng tướng Quân đội nhân dân Việt Nam là cán bộ hoạt động cách mạng trước tháng 8 năm 1945.Điều 41.14.TT.3.8. Tổ chức Lễ tang
 
-*Nội dung chưa có sẵn*
+(Điều 8 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Chỉ mục:** 8
+ 1. Ban Lễ tang; Ban Tổ chức Lễ tang; đứng tên đưa tin buồn; đưa tin, đăng tin; nơi tổ chức Lễ tang và nơi an táng; trang trí lễ đài; vòng hoa; Lễ viếng; tổ chức các đoàn nước ngoài đến viếng; Lễ truy điệu; Lễ đưa tang; Lễ hạ huyệt; lực lượng và phương tiện phục vụ Lễ tang; xây vỏ mộ và chi phí thực hiện theo quy định tại các Điều 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 và Điều 33 Nghị định số 105/2012/NĐ-CP.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860000800
+ 2. Tổng cục Chính trị phối hợp với các Ban của Đảng chuẩn bị các văn bản báo cáo Ban Bí thư Trung ương Đảng theo quy định; chủ trì xây dựng kế hoạch, giúp Trưởng Ban Lễ tang, Trưởng Ban Tổ chức Lễ tang thông báo, triệu tập các cơ quan, đơn vị có liên quan để triển khai nhiệm vụ theo kế hoạch; theo dõi, điều hành trong quá trình tổ chức Lễ tang.
 
-**ID:** dk_00071284
-
----
-
-
-### Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao
+ 3. Sĩ quan đứng túc trực bên linh cữu trong thời gian có các đoàn của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Quân ủy Trung ương - Bộ Quốc phòng đến viếng và trong thời gian Lễ truy điệu là 04 (bốn) sĩ quan cấp Tướng và 04 (bốn) chiến sĩ tiêu binh. Thời gian còn lại của Lễ viếng là 04 (bốn) sĩ quan cấp Đại tá và 04 (bốn) chiến sĩ tiêu binh.(Điều này có nội dung liên quan đến Điều 41.14.NĐ.22. Đứng tên đưa tin buồn; Điều 41.14.NĐ.23. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang; Điều 41.14.NĐ.24. Các văn bản về Lễ tang cấp Nhà nước; Điều 41.14.NĐ.25. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ tang cấp Nhà nước; Điều 41.14.NĐ.26. Nơi tổ chức Lễ tang và nơi an táng; Điều 41.14.NĐ.27. Trang trí lễ đài và túc trực bên linh cữu; Điều 41.14.NĐ.28. Vòng hoa viếng; Điều 41.14.NĐ.29. Lễ viếng; Điều 41.14.NĐ.30. Tổ chức cho các đoàn nước ngoài đến viếng; Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt; Điều 41.14.NĐ.32. Lực lượng và phương tiện phục vụ Lễ đưa tang; Điều 41.14.NĐ.33. Xây mộ và chi phí)
 
 Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860000900
+ Cán bộ Quân đội đương chức, thôi giữ chức hoặc nghỉ hưu thuộc một trong các chức vụ, cấp bậc quân hàm sau đây hy sinh, từ trần được tổ chức Lễ tang Cấp cao (nếu không thuộc diện Lễ tang cấp Nhà nước), gồm:
 
-**ID:** dk_00071285
+ 1. Bộ trưởng, Chủ nhiệm Tổng cục Chính trị; Tổng Tham mưu trưởng; Thứ trưởng Bộ Quốc phòng; Thượng tướng, Đô đốc Hải quân;
 
----
+ 2. Ủy viên Ban Chấp hành Trung ương Đảng (kể cả Ủy viên dự khuyết), Ủy viên Quân ủy Trung ương;
 
+ 3. Phó Tổng Tham mưu trưởng; Phó Chủ nhiệm Tổng cục Chính trị;
 
-### Điều 41.14.TT.3.10. Phân cấp chủ trì tổ chức Lễ tang
+ 4. Chủ nhiệm, Chính ủy, Phó Chủ nhiệm, Phó Chính ủy các Tổng cục; Tổng cục trưởng, Chính ủy, Phó Tổng cục trưởng, Phó Chính ủy Tổng cục II;
+
+ 5. Tư lệnh, Chính ủy, Phó Tư lệnh, Phó Chính ủy Quân khu, Quân chủng, Bộ đội Biên phòng;
+
+ 6. Giám đốc, Chính ủy, Phó Giám đốc, Phó Chính ủy Học viện Quốc phòng;
+
+ 7. Trung tướng, Phó Đô đốc Hải quân, Thiếu tướng, Chuẩn Đô đốc Hải quân;
+
+ 8. Cán bộ hoạt động cách mạng trước ngày 01 tháng 01 năm 1945 (cán bộ Lão thành cách mạng), cán bộ hoạt động ở miền Nam suốt thời kỳ chống Mỹ (1954 - 1975) được tặng thưởng Huân chương Độc lập hạng Nhất trở lên; các nhà hoạt động xã hội, văn hóa, khoa học tiêu biểu (được tặng giải thưởng Hồ Chí Minh - giải thưởng cá nhân) và được tặng thưởng Huân chương Độc lập hạng Nhất trở lên; các nhà hoạt động xã hội, văn hoá, khoa học tiêu biểu (được tặng giải thưởng Hồ Chí Minh - giải thưởng cá nhân) là Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.10. Phân cấp chủ trì tổ chức Lễ tang; Điều 41.14.TT.3.12. Đứng tên và đưa tin buồn; Điều 41.14.TT.3.15. Phương tiện phục vụ Lễ tang; Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang)
 
 Điều 41.14.TT.3.10. Phân cấp chủ trì tổ chức Lễ tang
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001000
+ 1. Bộ Quốc phòng chủ trì tổ chức Lễ tang đối với các chức danh quy định tại Khoản 1 Điều 9 Thông tư này; Tổng cục Chính trị chủ trì xây dựng kế hoạch, chương trình tổ chức Lễ tang.
 
-**ID:** dk_00071286
+ 2. Đơn vị trực thuộc Quân ủy Trung ương chủ trì tổ chức Lễ tang đối với các chức danh quy định tại các Khoản 2, 3, 4, 5, 6, 7, 8 Điều 9 Thông tư này; cơ quan chính trị các đơn vị chủ trì xây dựng kế hoạch, chương trình tổ chức Lễ tang.
 
----
+ 3. Trường hợp đặc biệt, Bộ trưởng Bộ Quốc phòng xem xét quyết định.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao)
 
+Điều 41.14.TT.3.11. Ban Tổ chức Lễ tang
 
-### Điều 41.14.TT.3.11. Ban Tổ chức Lễ tang
+(Điều 11 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-*Nội dung chưa có sẵn*
+ 1. Lễ tang do Bộ Quốc phòng chủ trì
 
-**Chỉ mục:** 11
+ a) Ban Tổ chức Lễ tang có từ 10 (mười) đến 15 (mười lăm) thành viên, do Bộ trưởng Bộ Quốc phòng quyết định thành lập, gồm: Thủ trưởng Bộ Quốc phòng, Thủ trưởng Bộ Tổng Tham mưu, Tổng cục Chính trị và các Tổng cục, cơ quan, đơn vị, quê hương hoặc nơi cư trú và đại diện gia đình người hy sinh, từ trần.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001100
+ Tùy theo chức danh của người hy sinh, từ trần, Trưởng Ban Tổ chức Lễ tang là Bộ trưởng hoặc Chủ nhiệm Tổng cục Chính trị hoặc một Thứ trưởng Bộ Quốc phòng là Ủy viên Thường vụ Quân ủy Trung ương.
 
-**ID:** dk_00071287
+ b) Ban Tổ chức Lễ tang có nhiệm vụ chỉ đạo, điều hành các cơ quan là thành viên Ban Tổ chức Lễ tang thực hiện các nhiệm vụ theo quy định.
 
----
+ c) Ban Tổ chức Lễ tang quyết định thành lập bộ phận giúp việc, gồm đại diện các cơ quan thuộc Bộ Tổng Tham mưu, Tổng cục Chính trị và các Tổng cục, cơ quan, đơn vị, quê hương hoặc nơi cư trú và đại diện gia đình của người hy sinh, từ trần, có nhiệm vụ giúp Ban Tổ chức Lễ tang làm công tác phục vụ Lễ tang.
 
+ 2. Lễ tang do đơn vị trực thuộc Quân ủy Trung ương chủ trì
 
-### Điều 41.14.TT.3.12. Đứng tên và đưa tin buồn
+ a) Ban Tổ chức Lễ tang có từ 10 (mười) đến 15 (mười lăm) thành viên, do Thủ trưởng đơn vị chủ trì tổ chức Lễ tang quyết định, gồm các cơ quan chức năng, đơn vị, quê hương hoặc nơi cư trú và gia đình người hy sinh, từ trần; Trưởng Ban Tổ chức Lễ tang là một đồng chí Thủ trưởng đơn vị;
 
-*Nội dung chưa có sẵn*
+ b) Người hy sinh, từ trần là Ủy viên Ban Chấp hành Trung ương Đảng, Ủy viên Quân ủy Trung ương, Trưởng Ban Tổ chức Lễ tang là đồng chí Thứ trưởng Bộ Quốc phòng - Ủy viên Thường vụ Quân ủy Trung ương.Điều 41.14.TT.3.12. Đứng tên và đưa tin buồn
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001200
+ 1. Danh nghĩa đưa tin buồn
 
-**ID:** dk_00071288
+ Căn cứ chức vụ của người hy sinh, từ trần, việc đưa tin buồn thực hiện dưới danh nghĩa của tất cả hoặc một số cơ quan, đơn vị, địa phương và gia đình:
 
----
+ a) Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam; Quân ủy Trung ương - Bộ Quốc phòng (trong trường hợp người hy sinh, từ trần là Ủy viên hoặc Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng; Ủy viên Quân ủy Trung ương);
 
+ b) Quốc hội Nước Cộng hoà xã hội chủ nghĩa Việt Nam (trong trường hợp người hy sinh, từ trần là đại biểu Quốc hội);
 
-### Điều 41.14.TT.3.13. Trang trí lễ đài tổ chức Lễ tang
+ c) Bộ Quốc phòng; đơn vị đã hoặc đang trực tiếp quản lý người hy sinh, từ trần;
+
+ d) Cấp uỷ, chính quyền, cơ quan quân sự, ban, ngành đoàn thể địa phương nơi sinh quán hoặc nơi cư trú.
+
+ 2. Quy định việc đưa tin buồn trên các báo, đài
+
+ a) Việc đưa tin buồn trên các báo, đài thực hiện theo quy định tại Điều 35 Nghị định số 105/2012/NĐ-CP;
+
+ b) Báo Quân đội nhân dân đăng trên trang nhất; Kênh Truyền hình Quốc phòng Việt Nam phát trong chương trình thời sự buổi tối:
+
+ - Đối với người hy sinh, từ trần quy định tại Khoản 1, 2, 3 Điều 9 Thông tư này: Tin buồn, kèm theo ảnh (4 cm x 6 cm), tóm tắt tiểu sử; tuyên truyền về thân thế, sự nghiệp, quá trình cống hiến của người hy sinh, từ trần, chiếu phim phóng sự (nếu có);
+
+ - Đối với người hy sinh, từ trần quy định tại Khoản 4, 5, 6, 7, 8 Điều 9 Thông tư này: Tin buồn, kèm theo ảnh (4 cm x 6 cm), tóm tắt tiểu sử; tuyên truyền về quá trình cống hiến của người hy sinh, từ trần.
+
+ 3. Chuẩn bị tin buồn, tóm tắt tiểu sử, lời điếu; thẩm định nội dung
+
+ a) Cơ quan, đơn vị chủ trì xây dựng kế hoạch tổ chức Lễ tang chuẩn bị tóm tắt tiểu sử, tin buồn, lời điếu; xin ý kiến của gia đình người hy sinh, từ trần trước khi thông qua Trưởng Ban Tổ chức Lễ tang;
+
+ b) Thẩm định nội dung tin buồn: Người đang công tác hy sinh, từ trần do cơ quan quản lý nhân sự (Cục Cán bộ, Cục Quân lực) thẩm định; người đã nghỉ hưu từ trần do Cục Chính sách thẩm định;
+
+ Cơ quan thẩm định nội dung có trách nhiệm chuyển đến các báo, đài theo quy định tại Khoản 2 Điều này.(Điều này có nội dung liên quan đến Điều 41.14.NĐ.35. Đứng tên đưa tin buồn; Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao)
 
 Điều 41.14.TT.3.13. Trang trí lễ đài tổ chức Lễ tang
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001300
+ Thực hiện theo quy định tại Điều 40 Nghị định số 105/2012/NĐ-CP và một số nội dung sau:
 
-**ID:** dk_00071289
+ 1. Ảnh của người hy sinh, từ trần để trong khung kích thước 30 cm x 40 cm, có dải băng đen nhỏ vắt chéo góc trên bên trái khung ảnh nhìn từ dưới lên;
 
----
+ 2. Giá Huân chương, Huy chương bảo đảm đầy đủ các hình thức được khen thưởng của người hy sinh, từ trần;
 
+ 3. Linh cữu được phủ Quân kỳ.(Điều này có nội dung liên quan đến Điều 41.14.NĐ.40. Trang trí lễ đài và túc trực bên linh cữu)
 
-### Điều 41.14.TT.3.14. Lực lượng phục vụ Lễ tang
+Điều 41.14.TT.3.14. Lực lượng phục vụ Lễ tang
 
-*Nội dung chưa có sẵn*
+(Điều 14 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Chỉ mục:** 14
+ 1. Lễ tang do Bộ Quốc phòng chủ trì
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001400
+ a) Sĩ quan đứng túc trực bên linh cữu trong thời gian có các đoàn Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Quân ủy Trung ương - Bộ Quốc phòng đến viếng và trong thời gian Lễ truy điệu là 02 (hai) sĩ quan cấp Tướng, 02 (hai) sĩ quan cấp Đại tá và 04 (bốn) chiến sĩ tiêu binh. Thời gian còn lại của Lễ viếng là 04 (bốn) sĩ quan cấp Đại tá, Thượng tá và 04 (bốn) chiến sĩ tiêu binh;
 
-**ID:** dk_00071290
+ Sĩ quan cấp Tướng túc trực bên linh cữu do Trưởng Ban Tổ chức Lễ tang phân công cán bộ thuộc các cơ quan, đơn vị liên quan thực hiện;
 
----
+ b) Đơn vị danh dự gồm: 01 (một) chỉ huy, 01 (một) tổ Quân kỳ, đại diện 3 (ba) lực lượng Lục quân, Hải quân và Không quân. Mỗi khối 20 (hai mươi) chiến sĩ, 01 (một) đồng chí khối trưởng.
 
+ 2. Lễ tang do đơn vị trực thuộc Quân ủy Trung ương chủ trì
 
-### Điều 41.14.TT.3.15. Phương tiện phục vụ Lễ tang
+ a) Sĩ quan túc trực bên linh cữu là 04 (bốn) sĩ quan cấp Đại tá, Thượng tá và 04 (bốn) chiến sĩ tiêu binh. Trưởng Ban Tổ chức Lễ tang phân công cán bộ thuộc các cơ quan, đơn vị liên quan thực hiện.
 
-*Nội dung chưa có sẵn*
+ b) Đơn vị danh dự, gồm: 24 (hai bốn) chiến sĩ, 01 (một) sĩ quan chỉ huy và 01 (một) tổ Quân kỳ; người hy sinh, từ trần thuộc quân chủng nào thì đơn vị danh dự mặc lễ phục của quân chủng đó.
 
-**Chỉ mục:** 15
+ 3. Đơn vị danh dự, sĩ quan, chiến sĩ tiêu binh túc trực bên linh cữu
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001500
+ a) Lễ tang tổ chức tại Nhà tang lễ bệnh viện Quân đội trên địa bàn thành phố Hà Nội, do Đoàn Nghi lễ Quân đội thực hiện; tổ chức tại cơ quan, đơn vị trên địa bàn thành phố Hà Nội, do đơn vị chủ trì thống nhất với Đoàn Nghi lễ Quân đội thực hiện.
 
-**ID:** dk_00071291
+ b) Lễ tang tổ chức tại Nhà tang lễ các bệnh viện Quân đội trên địa bàn Thành phố Hồ Chí Minh, do Quân khu 7 thực hiện; tổ chức tại cơ quan, đơn vị trên địa bàn Thành phố Hồ Chí Minh, do đơn vị chủ trì thống nhất với Quân khu 7 thực hiện.Điều 41.14.TT.3.15. Phương tiện phục vụ Lễ tang
 
----
+(Điều 15 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
+ 1. Phương tiện phục vụ Lễ tang, gồm: 01 (một) xe chỉ huy; 01 (một) xe Quân kỳ, ảnh, giá Huân chương; 01 (một) xe đơn vị danh dự (nếu đơn vị danh dự 03 lực lượng thì sử dụng 03 xe); 01 (một) xe chở hoa; 01 (một) xe kéo linh cữu (xe linh xa) hoặc xe chở linh cữu; từ 03 (ba) đến 04 (bốn) xe chở người đi đưa tang; 02 (hai) xe Ban Tổ chức Lễ tang.
 
-### Điều 41.14.TT.3.16. Các nội dung khác
+ Sử dụng xe kéo linh cữu đối với các chức danh, cấp bậc quân hàm quy định tại Khoản 1, 2, 3 Điều 9 Thông tư này hy sinh, từ trần tổ chức an táng, hỏa táng, điện táng trên địa bàn thành phố Hà Nội, Thành phố Hồ Chí Minh; sử dụng xe chở linh cữu đối với các chức danh, cấp bậc quân hàm còn lại quy định tại Điều 9 Thông tư này hy sinh, từ trần. Trường hợp đặc biệt, do Bộ trưởng Bộ Quốc phòng xem xét, quyết định.
 
-*Nội dung chưa có sẵn*
+ Trường hợp Lễ tang do Bộ Quốc phòng chủ trì có 02 (hai) xe thông tin, 01 (một) xe cứu thương, 01 (một) xe dự phòng; đồng thời, bố trí xe dẫn đường hoặc phối hợp với Công an địa phương bố trí xe cảnh sát dẫn đường.
 
-**Chỉ mục:** 16
+ 2. Xe Quân kỳ, xe đơn vị danh dự, xe chở linh cữu hoặc xe linh xa, xe chở hoa (gọi là xe nghi lễ) quy định như sau:
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001600
+ a) Lễ tang tổ chức tại nhà tang lễ bệnh viện Quân đội trên địa bàn thành phố Hà Nội, xe nghi lễ do Đoàn Nghi lễ Quân đội thực hiện; ở cơ quan, đơn vị trên địa bàn thành phố Hà Nội, do đơn vị chủ trì tổ chức Lễ tang thống nhất với Đoàn Nghi lễ Quân đội thực hiện;
 
-**ID:** dk_00071292
+ b) Lễ tang tổ chức tại nhà tang lễ bệnh viện Quân đội trên địa bàn Thành phố Hồ Chí Minh, xe nghi lễ do Quân khu 7 thực hiện; ở cơ quan, đơn vị trên địa bàn Thành phố Hồ Chí Minh, do đơn vị chủ trì tổ chức Lễ tang phối hợp, thống nhất với Quân khu 7 thực hiện;
 
----
+ c) Ngoài địa bàn quy định tại Điểm a, b Khoản này, do đơn vị chủ trì tổ chức Lễ tang phối hợp với quân khu sở tại thực hiện.
 
+ 3. Xe phục vụ Ban Tổ chức Lễ tang, xe phục vụ gia đình, xe chở người đi đưa tang, do đơn vị chủ trì tổ chức Lễ tang thực hiện.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao)
 
-### Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang
+Điều 41.14.TT.3.16. Các nội dung khác
 
-*Nội dung chưa có sẵn*
+(Điều 16 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Chỉ mục:** 17
+ 1. Quân nhạc phục vụ lễ viếng, lễ truy điệu, lễ an táng thực hiện theo quy định tại các Điều 42, 43 và Điều 45 Nghị định số 105/2012/NĐ-CP.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001700
+ 2. Nơi tổ chức Lễ tang; nơi an táng; trang trí lễ đài; vòng hoa, Lễ viếng, Lễ truy điệu; Lễ đưa tang; Lễ hạ huyệt; xây vỏ mộ và chi phí thực hiện theo quy định tại các Điều 38, 39, 40, 41, 42, 43, 44, 45 và Điều 46 Nghị định số 105/2012/NĐ-CP và các quy định tại Thông tư này. Trường hợp đặc biệt, do Bộ trưởng Bộ Quốc phòng xem xét, quyết định.
 
-**ID:** dk_00071293
+ 3. Lễ tang sĩ quan cấp Tướng từ trần tổ chức theo nghi thức Quân đội tại gia đình trên địa bàn thành phố Hà Nội do Thủ trưởng Bộ Tổng Tham mưu quyết định điều động lực lượng, phương tiện phục vụ; ở địa bàn khác do Thủ trưởng đơn vị trực thuộc Quân ủy Trung ương quyết định điều động lực lượng, phương tiện phục vụ.(Điều này có nội dung liên quan đến Điều 41.14.NĐ.38. Nơi tổ chức Lễ tang; Điều 41.14.NĐ.39. Nơi an táng; Điều 41.14.NĐ.40. Trang trí lễ đài và túc trực bên linh cữu; Điều 41.14.NĐ.41. Vòng hoa viếng; Điều 41.14.NĐ.42. Lễ viếng; Điều 41.14.NĐ.43. Lễ truy điệu; Điều 41.14.NĐ.44. Lễ đưa tang và xe tang; Điều 41.14.NĐ.45. Lễ hạ huyệt; Điều 41.14.NĐ.46. Xây mộ và chi phí)
 
----
+Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang
 
+(Điều 17 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 41.14.TT.3.18. Tổ chức Lễ tang đối với các đối tượng khác
+ 1. Đơn vị trực thuộc Quân ủy Trung ương chủ trì tổ chức Lễ tang đối với quân nhân hy sinh, từ trần giữ chức vụ chỉ huy đơn vị trực thuộc Bộ Quốc phòng không thuộc đối tượng quy định tại Điều 9 Thông tư này.
+
+ 2. Đơn vị cấp sư đoàn, Bộ Chỉ huy quân sự, Bộ Chỉ huy Bộ đội Biên phòng tỉnh, Bộ Tư lệnh Vùng Hải quân, Bộ Tư lệnh Vùng Cảnh sát biển, cấp cục, vụ, viện và tương đương chủ trì tổ chức Lễ tang đối với quân nhân hy sinh, từ trần cấp bậc Đại tá hoặc sĩ quan, cán bộ đương chức, nguyên giữ chức chỉ huy cấp mình.
+
+ 3. Lữ đoàn, trung đoàn, Ban Chỉ huy quân sự cấp huyện và tương đương chủ trì tổ chức Lễ tang đối với quân nhân hy sinh, từ trần cấp Thượng tá hoặc giữ chức vụ chỉ huy lữ đoàn, trung đoàn, Ban Chỉ huy quân sự cấp huyện và tương đương; chủ trì hoặc xem xét, quyết định phân cấp tổ chức Lễ tang đối với quân nhân hưởng lương còn lại.
+
+ 4. Tiểu đoàn và tương đương chủ trì tổ chức Lễ tang đối với hạ sĩ quan, binh sĩ.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.6. Một số quy định khác; Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao; Điều 41.14.TT.3.24. Phân cấp tổ chức Lễ tang; Điều 41.14.TT.3.26. Đơn vị Quân đội chủ trì, phối hợp với cấp ủy, chính quyền địa phương cùng gia đình tổ chức Lễ tang)
 
 Điều 41.14.TT.3.18. Tổ chức Lễ tang đối với các đối tượng khác
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001800
+ 1. Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động (không thuộc chức danh tổ chức Lễ tang Cấp cao), Nhà giáo nhân dân, Thầy thuốc nhân dân, Nghệ sĩ nhân dân, Đại biểu Quốc có quân hàm từ Trung tá trở xuống hy sinh, từ trần, được tổ chức Lễ tang như đối với sĩ quan cấp Thượng tá.
 
-**ID:** dk_00071294
+ 2. Người hy sinh, từ trần có hệ số phụ cấp chức vụ lãnh đạo hoặc quân hàm tương đương với cấp nào thì tổ chức Lễ tang như quân nhân có chức vụ, quân hàm tương ứng.
 
----
+ 3. Quân nhân dự bị động viên trong thời gian tập trung huấn luyện, làm nhiệm vụ quân sự quốc phòng hy sinh, từ trần được tổ chức Lễ tang như đối với quân nhân có cùng cấp bậc, chức vụ đang công tác.Điều 41.14.TT.3.19. Ban Tổ chức Lễ tang
 
+(Điều 19 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 41.14.TT.3.19. Ban Tổ chức Lễ tang
+ Ban Tổ chức Lễ tang, có từ 07 (bảy) đến 10 (mười) thành viên, do Thủ trưởng đơn vị chủ trì tổ chức Lễ tang quyết định; Trưởng Ban Tổ chức Lễ tang là Thủ trưởng đơn vị quản lý người hy sinh, từ trần, có nhiệm vụ chỉ đạo, điều hành toàn bộ công tác tổ chức Lễ tang.Điều 41.14.TT.3.20. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn trên các phương tiện thông tin về Lễ tang
 
-*Nội dung chưa có sẵn*
+(Điều 20 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Chỉ mục:** 19
+ 1. Chuẩn bị tin buồn, lời điếu
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860001900
+ a) Cơ quan chính trị đơn vị chủ trì tổ chức Lễ tang chuẩn bị tin buồn, lời điếu, có tham khảo ý kiến của gia đình trước khi thông qua Trưởng Ban Tổ chức Lễ tang.
 
-**ID:** dk_00071295
+ b) Cục Cán bộ, Cục Quân lực thẩm định nội dung tin buồn và chuyển đến các báo, đài theo phân cấp quản lý.
 
----
+ 2. Đưa tin, đăng tin buồn
 
+ a) Đưa tin, đăng tin buồn trên trang 8 Báo Nhân dân: Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động, Nghệ sĩ nhân dân, Nhà giáo nhân dân, Thầy thuốc nhân dân, người được Giải thưởng Hồ Chí Minh về Văn học nghệ thuật và Khoa học công nghệ, đảng viên được tặng thưởng Huy hiệu 30 năm tuổi Đảng trở lên.
 
-### Điều 41.14.TT.3.20. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn trên các phương tiện thông tin về Lễ tang
-
-Điều 41.14.TT.3.20. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn trên các phương tiện thông tin về Lễ tang
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002000
-
-**ID:** dk_00071296
-
----
-
-
-### Điều 41.14.TT.3.21. Lực lượng phục vụ Lễ tang; nhạc trong Lễ tang
+ b) Đưa tin, đăng tin buồn trên Báo Quân đội nhân dân: Sĩ quan cấp Đại tá, Thượng tá hoặc giữ chức chỉ huy cấp sư đoàn, Bộ Chỉ huy quân sự cấp tỉnh và tương đương; cán bộ Quân đội thuộc diện tại Điểm a nêu trên.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.25. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn; Điều 41.14.TT.3.28. Đăng tin buồn trên Báo Nhân dân và Báo Quân đội nhân dân)
 
 Điều 41.14.TT.3.21. Lực lượng phục vụ Lễ tang; nhạc trong Lễ tang
 
-**Chỉ mục:** 21
+(Điều 21 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002100
+ 1. Sĩ quan, chiến sĩ tiêu binh túc trực bên linh cữu
 
-**ID:** dk_00071297
+ a) Quân nhân hy sinh, từ trần có cấp bậc Đại tá, Thượng tá hoặc giữ chức vụ chỉ huy cấp trung đoàn và tương đương trở lên: 02 (hai) sĩ quan cấp Tá và 04 (bốn) chiến sĩ tiêu binh túc trực bên linh cữu.
 
----
+ b) Quân nhân hy sinh, từ trần có cấp bậc Trung tá, Thiếu tá hoặc giữ chức vụ chỉ huy cấp tiểu đoàn và tương đương: 02 (hai) sĩ quan cấp Úy và 04 (bốn) chiến sĩ tiêu binh túc trực bên linh cữu.
 
+ c) Quân nhân hy sinh, từ trần cấp Úy trở xuống hy sinh, từ trần: 04 (bốn) chiến sĩ tiêu binh túc trực bên linh cữu.
 
-### Điều 41.14.TT.3.22. Phương tiện phục vụ Lễ tang
+ 2. Đơn vị danh dự
 
-*Nội dung chưa có sẵn*
+ a) Quân nhân hy sinh, từ trần có cấp bậc Đại tá, Thượng tá hoặc giữ chức vụ chỉ huy cấp trung đoàn và tương đương trở lên: Đơn vị danh dự gồm 20 (hai mươi) chiến sĩ, 01 (một) sĩ quan chỉ huy và 01 (một) tổ Quân kỳ.
 
-**Chỉ mục:** 22
+ b) Quân nhân hy sinh, từ trần có cấp bậc Trung tá, Thiếu tá hoặc giữ chức vụ chỉ huy cấp tiểu đoàn và tương đương: Đơn vị danh dự gồm 16 (mười sáu) chiến sĩ, 01 (một) sĩ quan chỉ huy và 01 (một) tổ Quân kỳ.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002200
+ c) Quân nhân hy sinh, từ trần là cấp Úy: Đơn vị danh dự gồm 12 (mười hai) chiến sĩ, 01 (một) sĩ quan chỉ huy và 01 (một) tổ Quân kỳ.
 
-**ID:** dk_00071298
+ d) Quân nhân hy sinh, từ trần là hạ sĩ quan, binh sĩ: Đơn vị danh dự gồm 08 (tám) chiến sĩ, 01 (một) sĩ quan chỉ huy.
 
----
+ 3. Phân cấp sử dụng lực lượng phục vụ Lễ tang
 
+ a) Lễ tang tổ chức tại các Nhà tang lễ bệnh viện Quân đội trên địa bàn thành phố Hà Nội, do đơn vị chủ trì tổ chức Lễ tang thống nhất với Đoàn Nghi lễ Quân đội thực hiện;
 
-### Điều 41.14.TT.3.23. Các nội dung khác
+ b) Lễ tang tổ chức tại các Nhà tang lễ bệnh viện Quân đội trên địa bàn Thành phố Hồ Chí Minh, do đơn vị chủ trì tổ chức Lễ tang thống nhất với Quân khu 7 thực hiện;
 
-*Nội dung chưa có sẵn*
+ c) Lễ tang tổ chức ngoài địa bàn nêu trên, do đơn vị chủ trì tổ chức Lễ tang thực hiện.
 
-**Chỉ mục:** 23
+ 4. Nhạc trong Lễ tang: Sử dụng băng nhạc buồn, bài "Hồn tử sĩ" và Hành khúc tang lễ.Điều 41.14.TT.3.22. Phương tiện phục vụ Lễ tang
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002300
+(Điều 22 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**ID:** dk_00071299
+ 1. Quân nhân hy sinh, từ trần có cấp bậc Đại tá, Thượng tá hoặc giữ chức vụ chỉ huy cấp Trung đoàn và tương đương trở lên (trừ các chức danh thuộc tổ chức Lễ tang Cấp cao) được sử dụng từ 09 (chín) đến 10 (mười) xe phục vụ, gồm: 01 (một) xe Quân kỳ; 01 (một) xe đội danh dự; 01 (một) xe chở hoa; 01 (một) xe chở linh cữu; 03 (ba) đến 04 (bốn) xe chở người đi đưa tang; 02 (hai) xe Ban Tổ chức Lễ tang.
 
----
+ 2. Quân nhân hy sinh, từ trần có cấp bậc Trung tá, Thiếu tá hoặc có chức vụ chỉ huy cấp Tiểu đoàn và tương đương, được sử dụng từ 07 (bảy) đến 08 (tám) xe phục vụ, gồm: 01 (một) xe Quân kỳ; 01 (một) xe đội danh dự; 01 (một) xe hoa; 01 xe chở linh cữu; 01 (một) đến 02 (hai) xe chở người đi đưa tang; 02 (hai) xe Ban Tổ chức Lễ tang.
 
+ 3. Quân nhân hy sinh, từ trần cấp Úy trở xuống được sử dụng từ 05 (năm) đến 06 (sáu) xe phục vụ, gồm: 01 (một) xe Ban Tổ chức Lễ tang; 01 (một) xe đội danh dự; 01 (một) xe hoa; 01 (một) xe chở linh cữu; 01 (một) đến 02 (hai) xe chở gia đình và đồng đội đưa tang.
 
-### Điều 41.14.TT.3.24. Phân cấp tổ chức Lễ tang
+ 4. Phân cấp sử dựng phương tiện phục vụ Lễ tang
 
-*Nội dung chưa có sẵn*
+ a) Lễ tang tổ chức tại các nhà tang lễ trên địa bàn thành phố Hà Nội, do đơn vị chủ trì tổ chức Lễ tang thống nhất với Đoàn Nghi lễ Quân đội thực hiện;
 
-**Chỉ mục:** 24
+ b) Lễ tang tổ chức tại các nhà tang lễ trên địa bàn Thành phố Hồ Chí Minh, do đơn vị chủ trì tổ chức Lễ tang thống nhất với Quân khu 7 thực hiện;
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002400
+ c) Lễ tang tổ chức ngoài địa bàn nêu trên, xe phục vụ Lễ tang, do đơn vị chủ trì tổ chức Lễ tang thực hiện.Điều 41.14.TT.3.23. Các nội dung khác
 
-**ID:** dk_00071300
+(Điều 23 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
----
+ Nơi tổ chức Lễ tang; nơi an táng; trang trí lễ đài; vòng hoa viếng; Lễ viếng; Lễ truy điệu; Lễ đưa tang; Lễ hạ huyệt thực hiện theo quy định tại các Điều 51, 52, 53, 54, Điều 55 Nghị định số 105/2012/NĐ-CP và quy định tại Thông tư này. Trường hợp đặc biệt, do Bộ trưởng Bộ Quốc phòng xem xét, quyết định.(Điều này có nội dung liên quan đến Điều 41.14.NĐ.51. Nơi tổ chức Lễ tang và nơi an táng; Điều 41.14.NĐ.52. Trang trí lễ đài; Điều 41.14.NĐ.53. Vòng hoa viếng; Điều 41.14.NĐ.54. Lễ viếng; Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt)
 
+Điều 41.14.TT.3.24. Phân cấp tổ chức Lễ tang
 
-### Điều 41.14.TT.3.25. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn
+(Điều 24 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
+
+ 1. Công nhân, viên chức quốc phòng hy sinh, từ trần tổ chức Lễ tang như đối với cán bộ, công chức, viên chức Nhà nước từ trần theo quy định tại Chương V Nghị định số 105/2012/NĐ-CP.
+
+ 2. Công nhân, viên chức quốc phòng có hệ số lương tương ứng với sĩ quan cấp nào thì được phân cấp tổ chức Lễ tang tương ứng như đối với sĩ quan cấp đó theo quy định tại Điều 17 Thông tư này.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang)
 
 Điều 41.14.TT.3.25. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn
 
-**Chỉ mục:** 25
+(Điều 25 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002500
+ 1. Chuẩn bị tin buồn, lời điếu
 
-**ID:** dk_00071301
+ a) Cơ quan chính trị đơn vị chủ trì tổ chức Lễ tang chuẩn bị tin buồn, lời điếu, có tham khảo ý kiến của gia đình trước khi thông qua Trưởng Ban Tổ chức Lễ tang;
 
----
+ b) Cục Cán bộ, Cục Quân lực thẩm định nội dung tin buồn và chuyển đến các báo, đài theo phân cấp quản lý.
 
+ 2. Đưa tin, đăng tin buồn
 
-### Điều 41.14.TT.3.26. Đơn vị Quân đội chủ trì, phối hợp với cấp ủy, chính quyền địa phương cùng gia đình tổ chức Lễ tang
+ a) Đưa tin, đăng tin buồn trên trang 8 Báo Nhân dân thực hiện như Điểm a, Khoản 2, Điều 20 Thông tư này.
+
+ b) Đưa tin, đăng tin buồn trên Báo Quân đội nhân dân: Người hy sinh, từ trần có hệ số lương từ 5,76 (Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương công chức, viên chức và lực lượng vũ trang) và tương đương trở lên; đối tượng thuộc Điểm a Khoản 2 Điều này.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.20. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn trên các phương tiện thông tin về Lễ tang)
 
 Điều 41.14.TT.3.26. Đơn vị Quân đội chủ trì, phối hợp với cấp ủy, chính quyền địa phương cùng gia đình tổ chức Lễ tang
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002600
+ Khi quân nhân nghỉ hưu từ trần, tổ chức Lễ tang tại nhà tang lễ bệnh viện Quân đội; căn cứ đối tượng và điều kiện cụ thể của người từ trần, đơn vị Quân đội quản lý quân nhân trước khi nghỉ hưu hoặc cơ quan quân sự địa phương chủ trì, phối hợp với cấp ủy, chính quyền địa phương cùng gia đình tổ chức Lễ tang, cụ thể như sau:
 
-**ID:** dk_00071302
+ 1. Đơn vị quản lý quân nhân trước khi nghỉ hưu (đơn vị cũ) chủ trì
 
----
+ a) Đối tượng:
 
+ - Quân nhân nghỉ hưu từ trần có cấp bậc Đại tá hoặc có chức vụ nguyên là lãnh đạo, chỉ huy cấp cục, vụ, sư đoàn, Bộ Chỉ huy quân sự, Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh và tương đương trở lên;
 
-### Điều 41.14.TT.3.27. Đơn vị Quân đội phối hợp tham gia tổ chức Lễ tang
+ - Quân nhân nghỉ hưu từ trần là cán bộ Tiền khởi nghĩa; cán bộ hoạt động kháng chiến chống Pháp, chống Mỹ được tặng thưởng Huân chương Độc lập hạng Nhất hoặc Huân chương Quân công hạng Nhất; Anh hùng Lực lượng vũ trang nhân dân; Anh hùng Lao động; Đại biểu Quốc hội; Nhà giáo nhân dân; Thầy thuốc nhân dân; Nghệ sĩ nhân dân; Giáo sư.
+
+ b) Điều kiện: Lễ tang được tổ chức tại nhà tang lễ bệnh viện Quân đội trên cùng địa bàn cấp tỉnh (với đơn vị cũ) hoặc không cùng địa bàn nhưng ở địa bàn giáp ranh dưới 100 km đối với đồng bằng, trung du và dưới 50 km đối với miền núi theo đường quốc lộ, tỉnh lộ.
+
+ c) Phân cấp chủ trì: Thực hiện theo quy định tại Khoản 1, 2 Điều 17 Thông tư này.
+
+ Căn cứ chức vụ trước khi nghỉ hưu của người từ trần, đơn vị cũ xác định thành phần Ban Tổ chức Lễ tang và Trưởng Ban Tổ chức Lễ tang cho phù hợp.
+
+ 2. Cơ quan quân sự địa phương chủ trì
+
+ a) Đối tượng:
+
+ - Quân nhân nghỉ hưu từ trần theo quy định tại Điểm a Khoản 1 Điều này cư trú trên địa bàn mà đơn vị trước khi nghỉ hưu ở xa hoặc đã giải thể;
+
+ - Quân nhân nghỉ hưu từ trần thuộc các đối tượng còn lại cư trú trên địa bàn.
+
+ b) Điều kiện: Lễ tang được tổ chức tại nhà tang lễ bệnh viện Quân đội trên cùng địa bàn cấp tỉnh.
+
+ c) Phân cấp chủ trì
+
+ - Bộ Tư lệnh Thủ đô Hà Nội, Bộ Chỉ huy quân sự cấp tỉnh cùng gia đình chủ trì, phối hợp với cấp ủy, chính quyền, đoàn thể địa phương tổ chức Lễ tang đối với đối tượng quy định tại Điểm a Khoản 1 Điều này cư trú trên địa bàn mà đơn vị trước khi nghỉ hưu ở xa hoặc đã giải thể; đồng thời, thông báo đơn vị cũ đến viếng hoặc gửi vòng hoa viếng.
+
+ - Ban Chỉ huy quân sự cấp huyện cùng gia đình chủ trì, phối hợp với cấp ủy, chính quyền, đoàn thể địa phương tổ chức Lễ tang đối với quân nhân nghỉ hưu có cấp bậc quân hàm từ Thượng tá trở xuống; đồng thời, đơn vị cũ phối hợp tham gia Ban Tổ chức Lễ tang, đến viếng hoặc gửi vòng hoa viếng.
+
+ 3. Nghi thức tổ chức Lễ tang đối với cán bộ Quân đội nghỉ hưu: Trường hợp có điều kiện thì nghi thức tổ chức Lễ tang được thực hiện như đối với quân nhân có cùng cấp bậc, chức vụ đang công tác hy sinh, từ trần.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang)
 
 Điều 41.14.TT.3.27. Đơn vị Quân đội phối hợp tham gia tổ chức Lễ tang
 
-**Chỉ mục:** 27
+(Điều 27 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002700
+ Quân nhân, công nhân, viên chức quốc phòng nghỉ hưu từ trần không thuộc các trường hợp quy định tại Điều 26 Thông tư này, do cấp ủy, chính quyền địa phương chủ trì, phối hợp gia đình tổ chức Lễ tang theo quy định tại Nghị định số 105/2012/NĐ-CP. Đơn vị Quân đội phối hợp tham gia tổ chức Lễ tang, như sau:
 
-**ID:** dk_00071303
+ 1. Đơn vị cũ (ở gần) và cơ quan quân sự địa phương sở tại cử cán bộ tham gia Ban Tổ chức Lễ tang và phối hợp tổ chức Lễ tang.
 
----
+ 2. Nội dung phối hợp tổ chức Lễ tang
 
+ - Lễ tang tổ chức tại nhà tang lễ, nếu có điều kiện thì có thể vận dụng thực hiện một số nội dung theo nghi thức quân đội, như: Tiêu binh, túc trực linh cữu, đơn vị danh dự, do cơ quan quân sự địa phương tham mưu, đề xuất và phối hợp với cơ quan, đơn vị liên quan thực hiện; bảo đảm phù hợp với tình hình cụ thể và điều kiện, khả năng của từng cơ quan, đơn vị, địa phương.
 
-### Điều 41.14.TT.3.28. Đăng tin buồn trên Báo Nhân dân và Báo Quân đội nhân dân
+ - Lễ tang tổ chức tại gia đình: Thực hiện theo phong tục của địa phương; cơ quan quân sự địa phương và đơn vị cũ (nếu ở gần) tổ chức đoàn viếng.Điều 41.14.TT.3.28. Đăng tin buồn trên Báo Nhân dân và Báo Quân đội nhân dân
 
-Điều 41.14.TT.3.28. Đăng tin buồn trên Báo Nhân dân và Báo Quân đội nhân dân
+(Điều 28 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Chỉ mục:** 28
+ 1. Việc đăng tin buồn trên trang 8 Báo Nhân dân, thực hiện theo quy định tại Điểm a Khoản 2 Điều 20 Thông tư này. Việc đăng tin buồn trên Báo Quân đội, nhân dân thực hiện theo quy định tại Điểm b Khoản 2 Điều 20 Thông tư này.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002800
+ Cục Chính sách thẩm định nội dung tin buồn.
 
-**ID:** dk_00071304
+ 2. Những nội dung khác thực hiện theo quy định tại Chương V Nghị định số 105/2012/NĐ-CP.(Điều này có nội dung liên quan đến Điều 41.14.TT.3.20. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn trên các phương tiện thông tin về Lễ tang)
 
----
+Điều 41.14.TT.3.29. Tổng cục Chính trị
 
+(Điều 29 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-### Điều 41.14.TT.3.29. Tổng cục Chính trị
+ Chỉ đạo triển khai thực hiện Thông tư này; đồng thời, chỉ đạo các cơ quan thực hiện nhiệm vụ theo chức năng, như sau:
 
-*Nội dung chưa có sẵn*
+ 1. Cục Chính sách
 
-**Chỉ mục:** 29
+ a) Chủ trì, theo dõi, kiểm tra việc thực hiện các quy định về tổ chức lễ tang theo quy định tại Thông tư này; chỉ đạo, hướng dẫn và giải quyết vướng mắc, phát sinh trong thực hiện tổ chức lễ tang đối với quân nhân đã nghỉ hưu, từ trần;
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860002900
+ b) Chủ trì đề xuất, phối hợp thực hiện những nội dung liên quan đến tổ chức Lễ tang cấp Nhà nước, Lễ tang Cấp cao trong Quân đội đối với cán bộ Quân đội đã nghỉ hưu từ trần;
 
-**ID:** dk_00071305
+ c) Dự toán kinh phí, xăng dầu bảo đảm phục vụ Lễ tang quân nhân nghỉ hưu theo quy định tại Thông tư này.
 
----
+ 2. Cục Cán bộ
 
+ a) Chỉ đạo tổ chức lễ tang đối với các đối tượng đang công tác hy sinh, từ trần thuộc thẩm quyền quản lý;
 
-### Điều 41.14.TT.3.30. Bộ Tổng Tham mưu
+ b) Chủ trì đề xuất, phối hợp thực hiện những nội dung liên quan đến tổ chức Lễ tang cấp Nhà nước, Lễ tang Cấp cao do Quân đội chủ trì đối với cán bộ đang công tác hy sinh, từ trần.
 
-*Nội dung chưa có sẵn*
+ 3. Cục Tuyên huấn
 
-**Chỉ mục:** 30
+ Chỉ đạo các hoạt động đưa tin, viết bài, quay phim tài liệu, tuyên truyền về lễ tang và người hy sinh, từ trần, phù hợp với các quy định tại Thông tư này.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860003000
+ 4. Cục Bảo vệ an ninh Quân đội
 
-**ID:** dk_00071306
+ Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan, chỉ đạo thực hiện các quy định về bảo đảm an ninh trong tổ chức lễ tang; trực tiếp chỉ đạo và bảo đảm công tác an ninh, an toàn trong tổ chức Lễ tang cấp Nhà nước, Lễ tang Cấp cao do Bộ Quốc phòng chủ trì theo chức năng, nhiệm vụ được phân công.
 
----
+ 5. Báo Quân đội nhân dân và Trung tâm Phát thanh - Truyền hình Quân đội
 
+ Phối hợp tuyên truyền, phổ biến nội dung Thông tư; thực hiện việc đưa, đăng tin buồn; viết bài hoặc phát hành phim tài liệu về thân thế, sự nghiệp người hy sinh, từ trần theo quy định tại Thông tư này.Điều 41.14.TT.3.30. Bộ Tổng Tham mưu
 
-### Điều 41.14.TT.3.31. Tổng cục Hậu cần
+(Điều 30 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-*Nội dung chưa có sẵn*
+ Chỉ đạo triển khai thực hiện Thông tư này; đồng thời, chỉ đạo các cơ quan thực hiện nhiệm vụ theo chức năng, như sau:
 
-**Chỉ mục:** 31
+ 1. Cục Quân huấn
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860003100
+ a) Quy định chi tiết nghi thức trong các hình thức tổ chức lễ tang; thứ tự các bước thực hiện trong Lễ viếng, Lễ truy điệu, Lễ đưa tang và Lễ an táng (hoặc hoả táng, điện táng); tổ chức lực lượng, bảo đảm phương tiện, trang bị và đội hình xe trong các hình thức tổ chức lễ tang; quy định phạm vi sử dụng lực lượng nghi lễ khi đưa tang ra ngoài địa bàn thành phố Hà Nội và Thành phố Hồ Chí Minh.
 
-**ID:** dk_00071307
+ b) Phối hợp với các cơ quan, đơn vị có liên quan điều hành các lực lượng, phương tiện phục vụ trong quá trình tổ chức Lễ tang cấp Nhà nước và Lễ tang Cấp cao do Bộ Quốc phòng chủ trì.
 
----
+ 2. Cục Quân lực
 
+ a) Chỉ đạo tổ chức lễ tang đối với các đối tượng đang công tác trong Quân đội hy sinh, từ trần thuộc thẩm quyền quản lý;
 
-### Điều 41.14.TT.3.32. Tổng cục Kỹ thuật
+ b) Nghiên cứu, đề xuất tổ chức biên chế, lực lượng phục vụ lễ tang theo quy định tại Thông tư này.
 
-*Nội dung chưa có sẵn*
+ 3. Đoàn Nghi lễ Quân đội và Đội nghi lễ Quân đội thuộc Quân khu 7
 
-**Chỉ mục:** 32
+ Tổ chức lực lượng, bảo đảm phương tiện chuyên dùng; thực hiện các nghi thức, nghi lễ trong các hình thức tổ chức lễ tang theo quy định tại Thông tư này.Điều 41.14.TT.3.31. Tổng cục Hậu cần
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860003200
+(Điều 31 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**ID:** dk_00071308
+ Hằng năm, chỉ đạo, hướng dẫn lập dự toán và phân cấp xăng dầu hỗ trợ tổ chức lễ tang cho các cơ quan, đơn vị; thực hiện các nội dung có liên quan theo chức năng.Điều 41.14.TT.3.32. Tổng cục Kỹ thuật
 
----
+(Điều 32 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
+ Chỉ đạo công tác bảo đảm kỹ thuật cho các phương tiện ô tô, xe máy phục vụ Lễ tang cấp Nhà nước, Lễ tang Cấp cao do Bộ Quốc phòng chủ trì và các nội dung có liên quan khác theo chức năng.Điều 41.14.TT.3.33. Cục Tài chính/Bộ Quốc phòng
 
-### Điều 41.14.TT.3.33. Cục Tài chính/Bộ Quốc phòng
+(Điều 33 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-*Nội dung chưa có sẵn*
+ Hằng năm, chỉ đạo các cơ quan, đơn vị lập dự toán, phân cấp kinh phí, kiểm tra, hướng dẫn sử dụng và thanh quyết toán kinh phí hỗ trợ tổ chức lễ tang theo quy định tại Thông tư này.Điều 41.14.TT.3.34. Các đơn vị trực thuộc Quân ủy Trung ương
 
-**Chỉ mục:** 33
+(Điều 34 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860003300
+ Quán triệt, triển khai tổ chức thực hiện Thông tư này. Hằng năm, chỉ đạo các cơ quan, đơn vị thuộc quyền lập dự toán kinh phí, xăng dầu bảo đảm cho tổ chức lễ tang và thanh quyết toán theo quy định.Điều 41.14.TT.3.35. Kinh phí, xăng dầu bảo đảm
 
-**ID:** dk_00071309
+(Điều 35 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
----
+ 1. Kinh phí tổ chức Lễ tang cấp Nhà nước và Lễ tang Cấp cao
 
+ Kinh phí tổ chức Lễ tang cấp Nhà nước và Lễ tang Cấp cao trong Quân đội quy định tại Chương II, Chương III Thông tư này thực hiện theo Thông tư số 74/2013/TT-BTC ngày 04 tháng 6 năm 2013 của Bộ Tài chính quy định các khoản chi phí và thực hiện việc cấp phát, quyết toán ngân sách Nhà nước phục vụ Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang Cấp cao.
 
-### Điều 41.14.TT.3.34. Các đơn vị trực thuộc Quân ủy Trung ương
+ 2. Kinh phí tổ chức lễ tang đối với quân nhân có cấp bậc Đại tá trở xuống đang công tác hoặc nghỉ hưu và công nhân, viên chức quốc phòng đang công tác hy sinh, từ trần thực hiện theo quy định của pháp luật về bảo hiểm xã hội; đồng thời, được Bộ Quốc phòng hỗ trợ thêm kinh phí theo quy định hiện hành. Các cơ quan, đơn vị chủ trì tổ chức lễ tang hoặc thay mặt đơn vị Quân đội đi viếng được chi các nội dung theo chế độ quy định.
 
-Điều 41.14.TT.3.34. Các đơn vị trực thuộc Quân ủy Trung ương
+ 3. Hằng năm, Bộ Quốc phòng bố trí một khoản xăng dầu để hỗ trợ cho các cơ quan, đơn vị chủ trì và tham gia tổ chức lễ tang, phù hợp với việc phân cấp và nghi thức tổ chức lễ tang trong Quân đội.(Điều này có nội dung liên quan đến Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước; Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao)
 
-**Chỉ mục:** 34
+Chương VII
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860003400
+ĐIỀU KHOẢN THI HÀNH
 
-**ID:** dk_00071310
+Điều 41.14.NĐ.57. Tổ chức thực hiện
 
----
+(Điều 57 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
+1. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, tuyên truyền, kiểm tra việc thực hiện Nghị định này.
 
-### Điều 41.14.TT.3.35. Kinh phí, xăng dầu bảo đảm
+2. Bộ Quốc phòng và Bộ Công an phối hợp với Bộ Văn hóa, Thể thao và Du lịch hướng dẫn cụ thể về việc tổ chức Lễ tang đối với sĩ quan, hạ sĩ quan, chiến sĩ trong lực lượng vũ trang nhân dân.
 
-*Nội dung chưa có sẵn*
+3. Bộ Quốc phòng quy định về đơn vị danh dự, sĩ quan túc trực, quân nhạc, đội chiến sĩ khiêng vòng hoa, đội xe nghi thức đưa tang, đội hình xe khi đưa tang tại Lễ Quốc tang và Lễ tang cấp Nhà nước.
 
-**Chỉ mục:** 35
+4. Bộ Công an quy định về công tác bảo vệ an ninh, an toàn giao thông tại Lễ Quốc tang và Lễ tang cấp Nhà nước.
 
-**Mã phân cấp:** 410140000000000055000002000000000000000000802585900860003500
+5. Bộ Tài chính quy định các khoản chi phí cụ thể và thực hiện việc cấp ngân sách, quyết toán ngân sách phục vụ Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang cấp cao.
 
-**ID:** dk_00071311
+6. Bộ Xây dựng chủ trì và phối hợp với Bộ Tài nguyên và Môi trường hướng dẫn việc quy hoạch nhà tang lễ, nhà điện táng, quy hoạch nghĩa trang tại các thành phố, thị xã, thị trấn, thị tứ, khu công nghiệp và khu dân cư phù hợp với quy hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền xét duyệt.
 
----
+7. Bộ Y tế xây dựng quy định hướng dẫn về vệ sinh trong hoạt động mai táng và hỏa táng, điện táng.
 
-
-### Điều 41.14.NĐ.57. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 57
-
-**Mã phân cấp:** 4101400000000000600005700000000000000000
-
-**ID:** dk_00071313
-
----
-
-
-### Điều 41.14.TT.2.2. Nội dung chi và mức chi đối với Lễ Quốc tang
+8. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm trong việc xây dựng quy hoạch, kế hoạch và đầu tư kinh phí xây dựng nghĩa trang, quy định cụ thể việc xây mộ cho phù hợp với quỹ đất, phong tục, tập quán của địa phương mình và khuyến khích, vận động việc hỏa táng, điện táng và thực hiện tốt nếp sống văn minh trong việc tang tại địa phương.
 
 Điều 41.14.TT.2.2. Nội dung chi và mức chi đối với Lễ Quốc tang
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 74/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 01/08/2013)
 
-**Mã phân cấp:** 410140000000000060000570000000000000000000802474700740000200
+Mức chi từ ngân sách nhà nước cho một Lễ Quốc tang tối đa là 800 triệu đồng để chi cho các nội dung sau:
 
-**ID:** dk_00071314
+1. Các khoản chi mang tính cố định: Tối đa 295 triệu đồng
 
----
+a) Chi mua quan tài: Tối đa 50 triệu đồng
 
+b) Chi làm bàn thờ tại gia đình: Tối đa 50 triệu đồng
 
-### Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước
+c) Chi xây vỏ mộ (gồm xây vỏ mộ, ốp đá): Tối đa 80 triệu đồng
+
+d) Chi làm bàn thờ, trang trí tại các nơi tổ chức lễ tang: Tối đa 80 triệu đồng
+
+đ) Chi mua vải phủ bàn thờ, làm Quốc kỳ phủ linh cữu: Tối đa 15 triệu đồng
+
+e) Chi mua vải liệm, đồ khâm liệm, băng tang: Tối đa 20 triệu đồng
+
+2. Các khoản chi do Ban tổ chức xem xét quyết định: Tối đa 505 triệu đồng
+
+a) Chi làm 06 vòng hoa tiêu biểu, 30 vòng hoa luân chuyển.
+
+b) Chi thuê xe phục vụ tang lễ.
+
+c) Chi thuê nhà bạt, ô che nắng, mưa.
+
+d) Chi thuê cây cảnh, thảm trải sàn.
+
+đ) Chi ăn, ở cho khách địa phương, họ hàng về dự tang lễ.
+
+e) Chi quay video, chụp ảnh, truyền hình.
+
+g) Chi phục vụ tang lễ: điện, nước, bồi dưỡng phục vụ tang lễ.
+
+h) Chi bảo vệ mộ 10 ngày đầu.
+
+i) Chi phí khác phát sinh (nếu có).
+
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.20. Xây mộ và chi phí; Điều 41.14.TT.2.5. Cấp phát và quyết toán kinh phí)
 
 Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 74/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 01/08/2013)
 
-**Mã phân cấp:** 410140000000000060000570000000000000000000802474700740000300
+Mức chi từ ngân sách nhà nước cho một Lễ tang cấp Nhà nước tối đa là 250 triệu đồng để chi cho các nội dung sau:
 
-**ID:** dk_00071315
+1. Các khoản chi mang tính cố định: Tối đa 120 triệu đồng
 
----
+a) Chi mua quan tài: Tối đa 30 triệu đồng
 
+b) Chi làm bàn thờ tại gia đình: Tối đa 25 triệu đồng
 
-### Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao
+c) Chi xây vỏ mộ: Tối đa 40 triệu đồng
+
+d) Chi trang trí bàn thời tại các nơi tổ chức lễ tang: Tối đa 5 triệu đồng
+
+đ) Chi mua vải phủ bàn thờ, làm Quốc kỳ phủ linh cữu: Tối đa 10 triệu đồng.
+
+e) Chi mua vải liệm, đồ khâm liệm, băng tang: Tối đa 10 triệu đồng
+
+2. Các khoản chi do Ban tổ chức xem xét quyết định: Tối đa 130 triệu đồng
+
+a) Chi làm 06 vòng hoa tiêu biểu, 25 vòng hoa luân chuyển.
+
+b) Chi thuê xe phục vụ tang lễ.
+
+c) Chi thuê nhà bạt.
+
+d) Chi quay video, chụp ảnh, truyền hình.
+
+đ) Chi phục vụ tang lễ.
+
+e) Chi phí khác phát sinh (nếu có).
+
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.33. Xây mộ và chi phí; Điều 41.14.TT.1.38. Lễ tang cấp Nhà nước và Lễ tang cấp cao; Điều 41.14.TT.2.5. Cấp phát và quyết toán kinh phí; Điều 41.14.TT.3.35. Kinh phí, xăng dầu bảo đảm)
 
 Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 74/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 01/08/2013)
 
-**Mã phân cấp:** 410140000000000060000570000000000000000000802474700740000400
+Mức chi từ ngân sách nhà nước cho một Lễ tang cấp cao tối đa là 60 triệu đồng để chi cho các nội dung sau:
 
-**ID:** dk_00071316
+1. Các khoản chi mang tính cố định: Tối đa là 45 triệu đồng
 
----
+a) Chi mua quan tài: Tối đa 10 triệu đồng
 
+b) Chi làm bàn thờ: Tối đa 15 triệu đồng
 
-### Điều 41.14.TT.2.5. Cấp phát và quyết toán kinh phí
+c) Chi xây vỏ mộ: Tối đa 15 triệu đồng
 
-*Nội dung chưa có sẵn*
+d) Chi mua vải liệm, đồ khâm liệm, băng tang: Tối đa 5 triệu đồng
 
-**Chỉ mục:** 5
+2. Các khoản chi Ban tổ chức xem xét quyết định: Tối đa 15 triệu đồng
 
-**Mã phân cấp:** 410140000000000060000570000000000000000000802474700740000500
+a) Chi làm 02 vòng hoa tiêu biểu, 15 vòng hoa luân chuyển.
 
-**ID:** dk_00071317
+b) Chi thuê xe phục vụ tang lễ.
 
----
+c) Chi quay video, chụp ảnh.
 
+d) Chi phục vụ lễ tang.
 
-### Điều 41.14.NĐ.58. Xử lý vi phạm
+(Điều này có nội dung liên quan đến Điều 41.14.NĐ.46. Xây mộ và chi phí; Điều 41.14.TT.1.21. Một số nội dung khác; Điều 41.14.TT.1.38. Lễ tang cấp Nhà nước và Lễ tang cấp cao; Điều 41.14.TT.2.5. Cấp phát và quyết toán kinh phí; Điều 41.14.TT.3.35. Kinh phí, xăng dầu bảo đảm)
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.2.5. Cấp phát và quyết toán kinh phí
 
-**Chỉ mục:** 58
+(Điều 5 Thông tư số 74/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 01/08/2013)
 
-**Mã phân cấp:** 4101400000000000600005800000000000000000
+1. Đối với các khoản chi nêu tại tiết a, b, c Khoản 1 các Điều 2, Điều 3, Điều 4 nếu gia đình tự nguyện mua sắm thì cơ quan đảm bảo kinh phí phục vụ tang lễ thanh toán khoán cho gia đình tối đa theo mức quy định trên, việc kinh phí thực tế phát sinh quá quy định sẽ do gia đình tự đảm bảo.
 
-**ID:** dk_00071318
+Trường hợp Ban tổ chức thực hiện mua sắm, số kinh phí cũng không vượt quá mức kinh phí tối đa được quy định.
 
----
+2. Đối với Lễ Quốc tang và Lễ tang cấp Nhà nước: Khi phát sinh lễ tang, Bộ Tài chính sẽ căn cứ vào mức quy định nêu trên và đề nghị của Văn phòng Trung ương để cấp phát cho Văn phòng Trung ương từ nguồn dự phòng ngân sách trung ương vào Loại 460, Khoản 461, Mục 7750.
 
+3. Đối với Lễ tang cấp cao: Chi phí cho Lễ tang cấp cao được sử dụng từ nguồn mai táng phí theo quy định của pháp luật về bảo hiểm xã hội và các quy định khác của nhà nước, đối với phần kinh phí thiếu thì cơ quan, tổ chức trực tiếp quản lý đối tượng bố trí sắp xếp trong dự toán được ngân sách nhà nước giao hàng năm và được hạch toán vào Loại 460, Khoản 474, Mục 7754. Trường hợp không sắp xếp được trong dự toán ngân sách hàng năm thì cơ quan, tổ chức trực tiếp quản lý đối tượng làm việc với cơ quan tài chính đồng cấp để trình cấp có thẩm quyền bổ sung kinh phí từ nguồn dự phòng ngân sách nhà nước.
 
-### Điều 41.14.NĐ.59. Hiệu lực thi hành
+Kinh phí chi cho Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang cấp cao theo quy định trên đây được tổng hợp chung vào báo cáo quyết toán năm của đơn vị.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 41.14.TT.2.2. Nội dung chi và mức chi đối với Lễ Quốc tang; Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước; Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao)
 
-**Chỉ mục:** 59
+Điều 41.14.NĐ.58. Xử lý vi phạm
 
-**Mã phân cấp:** 4101400000000000600005900000000000000000
+(Điều 58 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**ID:** dk_00071319
+Các tổ chức, cá nhân vi phạm các quy định về tổ chức Lễ tang theo quy định tại Nghị định này thì tùy theo mức độ vi phạm bị phê bình hoặc xử phạt hành chính.
 
----
+Điều 41.14.NĐ.59. Hiệu lực thi hành
 
+(Điều 59 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-### Điều 41.14.NĐ.60. Trách nhiệm thi hành
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2013 và thay thế Nghị định số 62/2001/NĐ-CP ngày 12 tháng 9 năm 2001 của Chính phủ về việc ban hành Quy chế tổ chức lễ tang đối với cán bộ, công chức, viên chức nhà nước khi từ trần.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.NĐ.60. Trách nhiệm thi hành
 
-**Chỉ mục:** 60
+(Điều 60 Nghị định số 105/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2013)
 
-**Mã phân cấp:** 4101400000000000600006000000000000000000
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ; Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00071320
+Điều 41.14.TT.1.45. Hiệu lực thi hành
 
----
+(Điều 45 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
+1. Thông tư này có hiệu lực kể từ ngày 01 tháng 5 năm 2013.
 
-### Điều 41.14.TT.1.45. Hiệu lực thi hành
+2. Thông tư này thay thế Thông tư số 22/2011/TT-BCA ngày 26 tháng 4 năm 2011 của Bộ Công an và các văn bản hướng dẫn trước đây của Bộ Công an trái với Thông tư này.
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.1.46. Trách nhiệm thi hành
 
-**Chỉ mục:** 45
+(Điều 46 Thông tư số 15/2013/TT-BCA, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 4101400000000000600006080246660015000450
+1. Các đồng chí Tổng cục trưởng; Thủ trưởng các đơn vị trực thuộc Bộ; Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương; Giám đốc Sở Cảnh sát phòng cháy và chữa cháy chịu trách nhiệm quán triệt đến cán bộ, chiến sĩ thuộc đơn vị và tổ chức thực hiện Thông tư này.
 
-**ID:** dk_00071321
+2. Bộ Tư lệnh Cảnh sát cơ động chịu trách nhiệm hướng dẫn chi tiết về trang phục, trang bị của lực lượng tiêu binh danh dự và bố trí sắp xếp đội hình trong Lễ viếng, Lễ truy điệu, Lễ đưa tang, Lễ an táng để thực hiện thống nhất trong Công an nhân dân.
 
----
+3. Tổng cục Xây dựng lực lượng Công an nhân dân có trách nhiệm hướng dẫn, kiểm tra, đề xuất xử lý những vướng mắc phát sinh trong quá trình thực hiện Thông tư này.
 
+Trong quá trình thực hiện Thông tư này, nếu có vướng mắc, Công an các đơn vị, địa phương báo cáo về Bộ (qua Tổng cục Xây dựng lực lượng Công an nhân dân) nghiên cứu, giải quyết.
 
-### Điều 41.14.TT.1.46. Trách nhiệm thi hành
+Điều 41.14.TT.2.6. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 6 Thông tư số 74/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 01/08/2013)
 
-**Chỉ mục:** 46
+Thông tư này có hiệu lực kể từ ngày 01/08/2013 và thay thế Thông tư số 40/2002/TT-BTC ngày 2/5/2002 của Bộ Tài chính hướng dẫn các khoản chi phí, cấp phát và quyết toán ngân sách phục vụ Lễ Quốc tang, Lễ tang cấp Nhà nước, Lễ tang cấp cao. Trong quá trình thực hiện nếu có vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài chính để xem xét, giải quyết.
 
-**Mã phân cấp:** 4101400000000000600006080246660015000460
+Điều 41.14.TT.3.36. Hiệu lực thi hành
 
-**ID:** dk_00071322
+(Điều 36 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
----
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 8 năm 2016 và thay thế Thông tư Liên tịch số 114/2005/TTLT-BQP-BNV ngày 01 tháng 8 năm 2005 của Bộ Quốc phòng - Bộ Nội vụ về Hướng dẫn thực hiện tổ chức lễ tang đối với quân nhân, công nhân viên chức quốc phòng hy sinh, từ trần.
 
+Điều 41.14.TT.3.37. Trách nhiệm thi hành
 
-### Điều 41.14.TT.2.6. Điều khoản thi hành
+(Điều 37 Thông tư số 86/2016/TT-BQP, có hiệu lực thi hành kể từ ngày 05/08/2016)
 
-*Nội dung chưa có sẵn*
+1. Tổng Tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị, chỉ huy các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 6
+2. Quá trình tổ chức thực hiện, nếu có vướng mắc, các cơ quan, đơn vị, báo cáo về Bộ Quốc phòng (qua Cục Chính sách/Tổng cục Chính trị) để xem xét, giải quyết.
 
-**Mã phân cấp:** 4101400000000000600006080247470074000060
+## Danh sách điều khoản
 
-**ID:** dk_00071323
+### 41014000000000001000
 
----
+Chương I QUY ĐỊNH CHUNG
 
+### 4101400000000000100000100000000000000000
 
-### Điều 41.14.TT.3.36. Hiệu lực thi hành
+Điều 41.14.NĐ.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 4101400000000000100000180246660015000010
 
-**Chỉ mục:** 36
+Điều 41.14.TT.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 4101400000000000600006080258590086000360
+### 4101400000000000100000180246660015000020
 
-**ID:** dk_00071324
+Điều 41.14.TT.1.2. Đối tượng áp dụng
 
----
+### 4101400000000000100000180247470074000010
 
+Điều 41.14.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-### Điều 41.14.TT.3.37. Trách nhiệm thi hành
+### 4101400000000000100000180258590086000010
 
-*Nội dung chưa có sẵn*
+Điều 41.14.TT.3.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 37
+### 4101400000000000100000180258590086000020
 
-**Mã phân cấp:** 4101400000000000600006080258590086000370
+Điều 41.14.TT.3.2. Đối tượng áp dụng
 
-**ID:** dk_00071325
+### 4101400000000000100000200000000000000000
 
----
+Điều 41.14.NĐ.2. Nguyên tắc tổ chức lễ tang
 
+### 410140000000000010000020000000000000000000802466600150000300
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 41.14.TT.1.3. Nguyên tắc
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 158
-- **Điều khoản thực tế:** 149
-- **Điều khoản có nội dung:** 52 (34.9%)
-- **ID đề mục:** c78e4b280d12421198a547fbbd144f7b
+### 410140000000000010000020000000000000000000802585900860000300
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 41.14.TT.3.3. Nguyên tắc tổ chức lễ tang
 
----
+### 4101400000000000100000300000000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 41.14.NĐ.3. Hình thức lễ tang
+
+### 4101400000000000100000400000000000000000
+
+Điều 41.14.NĐ.4. Một số quy định khác
+
+### 41014000000000002000
+
+Chương II LỄ QUỐC TANG
+
+### 4101400000000000200000500000000000000000
+
+Điều 41.14.NĐ.5. Chức danh được tổ chức Lễ Quốc tang
+
+### 4101400000000000200000600000000000000000
+
+Điều 41.14.NĐ.6. Thông báo về Lễ Quốc tang
+
+### 4101400000000000200000700000000000000000
+
+Điều 41.14.NĐ.7. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang
+
+### 4101400000000000200000800000000000000000
+
+Điều 41.14.NĐ.8. Các văn bản về Lễ Quốc tang
+
+### 4101400000000000200000900000000000000000
+
+Điều 41.14.NĐ.9. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ Quốc tang
+
+### 4101400000000000200001000000000000000000
+
+Điều 41.14.NĐ.10. Thời gian, nghi thức để tang
+
+### 4101400000000000200001100000000000000000
+
+Điều 41.14.NĐ.11. Nơi tổ chức Lễ Quốc tang và nơi an táng
+
+### 4101400000000000200001200000000000000000
+
+Điều 41.14.NĐ.12. Trang trí lễ đài và túc trực bên linh cữu
+
+### 4101400000000000200001300000000000000000
+
+Điều 41.14.NĐ.13. Vòng hoa trong Lễ viếng
+
+### 4101400000000000200001400000000000000000
+
+Điều 41.14.NĐ.14. Lễ viếng
+
+### 4101400000000000200001500000000000000000
+
+Điều 41.14.NĐ.15. Tổ chức Lễ viếng ở nước ngoài
+
+### 4101400000000000200001600000000000000000
+
+Điều 41.14.NĐ.16. Lễ truy điệu
+
+### 4101400000000000200001700000000000000000
+
+Điều 41.14.NĐ.17. Lễ đưa tang
+
+### 4101400000000000200001800000000000000000
+
+Điều 41.14.NĐ.18. Lực lượng và phương tiện phục vụ Lễ tang
+
+### 4101400000000000200001900000000000000000
+
+Điều 41.14.NĐ.19. Lễ hạ huyệt
+
+### 4101400000000000200002000000000000000000
+
+Điều 41.14.NĐ.20. Xây mộ và chi phí
+
+### 41014000000000003000
+
+Chương III LỄ TANG CẤP NHÀ NƯỚC
+
+### 4101400000000000300002100000000000000000
+
+Điều 41.14.NĐ.21. Chức danh được tổ chức Lễ tang cấp Nhà nước
+
+### 4101400000000000300002200000000000000000
+
+Điều 41.14.NĐ.22. Đứng tên đưa tin buồn
+
+### 4101400000000000300002300000000000000000
+
+Điều 41.14.NĐ.23. Ban Lễ tang Nhà nước và Ban Tổ chức Lễ tang
+
+### 4101400000000000300002400000000000000000
+
+Điều 41.14.NĐ.24. Các văn bản về Lễ tang cấp Nhà nước
+
+### 4101400000000000300002500000000000000000
+
+Điều 41.14.NĐ.25. Đưa tin, đăng tin trên các phương tiện thông tin về Lễ tang cấp Nhà nước
+
+### 4101400000000000300002600000000000000000
+
+Điều 41.14.NĐ.26. Nơi tổ chức Lễ tang và nơi an táng
+
+### 4101400000000000300002700000000000000000
+
+Điều 41.14.NĐ.27. Trang trí lễ đài và túc trực bên linh cữu
+
+### 4101400000000000300002800000000000000000
+
+Điều 41.14.NĐ.28. Vòng hoa viếng
+
+### 4101400000000000300002900000000000000000
+
+Điều 41.14.NĐ.29. Lễ viếng
+
+### 4101400000000000300003000000000000000000
+
+Điều 41.14.NĐ.30. Tổ chức cho các đoàn nước ngoài đến viếng
+
+### 4101400000000000300003100000000000000000
+
+Điều 41.14.NĐ.31. Lễ truy điệu, Lễ đưa tang và Lễ hạ huyệt
+
+### 4101400000000000300003200000000000000000
+
+Điều 41.14.NĐ.32. Lực lượng và phương tiện phục vụ Lễ đưa tang
+
+### 4101400000000000300003300000000000000000
+
+Điều 41.14.NĐ.33. Xây mộ và chi phí
+
+### 41014000000000004000
+
+Chương IV LỄ TANG CẤP CAO
+
+### 4101400000000000400003400000000000000000
+
+Điều 41.14.NĐ.34. Chức danh được tổ chức Lễ tang cấp cao
+
+### 4101400000000000400003500000000000000000
+
+Điều 41.14.NĐ.35. Đứng tên đưa tin buồn
+
+### 4101400000000000400003600000000000000000
+
+Điều 41.14.NĐ.36. Ban Tổ chức Lễ tang
+
+### 4101400000000000400003700000000000000000
+
+Điều 41.14.NĐ.37. Tổ chức Lễ tang và chuẩn bị lời điếu
+
+### 4101400000000000400003800000000000000000
+
+Điều 41.14.NĐ.38. Nơi tổ chức Lễ tang
+
+### 4101400000000000400003900000000000000000
+
+Điều 41.14.NĐ.39. Nơi an táng
+
+### 4101400000000000400004000000000000000000
+
+Điều 41.14.NĐ.40. Trang trí lễ đài và túc trực bên linh cữu
+
+### 4101400000000000400004100000000000000000
+
+Điều 41.14.NĐ.41. Vòng hoa viếng
+
+### 4101400000000000400004200000000000000000
+
+Điều 41.14.NĐ.42. Lễ viếng
+
+### 4101400000000000400004300000000000000000
+
+Điều 41.14.NĐ.43. Lễ truy điệu
+
+### 4101400000000000400004400000000000000000
+
+Điều 41.14.NĐ.44. Lễ đưa tang và xe tang
+
+### 4101400000000000400004500000000000000000
+
+Điều 41.14.NĐ.45. Lễ hạ huyệt
+
+### 4101400000000000400004600000000000000000
+
+Điều 41.14.NĐ.46. Xây mộ và chi phí
+
+### 41014000000000005000
+
+Chương V LỄ TANG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+
+### 4101400000000000500004700000000000000000
+
+Điều 41.14.NĐ.47. Chức danh được tổ chức Lễ tang cán bộ, công chức, viên chức
+
+### 4101400000000000500004800000000000000000
+
+Điều 41.14.NĐ.48. Đưa tin buồn
+
+### 4101400000000000500004900000000000000000
+
+Điều 41.14.NĐ.49. Ban Tổ chức Lễ tang
+
+### 4101400000000000500005000000000000000000
+
+Điều 41.14.NĐ.50. Lời điếu
+
+### 4101400000000000500005100000000000000000
+
+Điều 41.14.NĐ.51. Nơi tổ chức Lễ tang và nơi an táng
+
+### 4101400000000000500005200000000000000000
+
+Điều 41.14.NĐ.52. Trang trí lễ đài
+
+### 4101400000000000500005300000000000000000
+
+Điều 41.14.NĐ.53. Vòng hoa viếng
+
+### 4101400000000000500005400000000000000000
+
+Điều 41.14.NĐ.54. Lễ viếng
+
+### 4101400000000000500005500000000000000000
+
+Điều 41.14.NĐ.55. Lễ truy điệu, Lễ đưa tang, Lễ hạ huyệt
+
+### 4101400000000000500005600000000000000000
+
+Điều 41.14.NĐ.56. Trợ cấp mai táng
+
+### 41014000000000005500
+
+Chương VI TỔ CHỨC LỄ TANG TRONG CÔNG AN NHÂN DÂN VÀ TỔ CHỨC LỄ TANG ĐỐI VỚI QUÂN NHÂN, CÔNG NHÂN, VIÊN CHỨC QUỐC PHÒNG; NGƯỜI LÀM CÔNG TÁC CƠ YẾU DO BỘ QUỐC PHÒNG QUẢN LÝ
+
+### 4101400000000000550000010000000000000000
+
+Mục 1 QUY ĐỊNH CHẾ ĐỘ TANG LỄ TRONG CÔNG AN NHÂN DÂN
+
+### 410140000000000055000001000000000000000000802466600150000400
+
+Điều 41.14.TT.1.4. Hình thức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150000500
+
+Điều 41.14.TT.1.5. Trách nhiệm tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150000600
+
+Điều 41.14.TT.1.6. Trang phục và băng tang
+
+### 410140000000000055000001000000000000000000802466600150000700
+
+Điều 41.14.TT.1.7. Một số quy định khác
+
+### 410140000000000055000001000000000000000000802466600150000800
+
+Điều 41.14.TT.1.8. Chức danh được tổ chức Lễ tang cấp Nhà nước
+
+### 410140000000000055000001000000000000000000802466600150000900
+
+Điều 41.14.TT.1.9. Tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150001000
+
+Điều 41.14.TT.1.10. Chức danh được tổ chức Lễ tang cấp cao trong Công an nhân dân
+
+### 410140000000000055000001000000000000000000802466600150001100
+
+Điều 41.14.TT.1.11. Chủ trì tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150001200
+
+Điều 41.14.TT.1.12. Công tác chuẩn bị
+
+### 410140000000000055000001000000000000000000802466600150001300
+
+Điều 41.14.TT.1.13. Ban Tổ chức lễ tang
+
+### 410140000000000055000001000000000000000000802466600150001400
+
+Điều 41.14.TT.1.14. Tin buồn, lời điếu, lời cảm ơn
+
+### 410140000000000055000001000000000000000000802466600150001500
+
+Điều 41.14.TT.1.15. Trang trí lễ đài
+
+### 410140000000000055000001000000000000000000802466600150001600
+
+Điều 41.14.TT.1.16. Vòng hoa tiêu biểu, vòng hoa luân chuyển
+
+### 410140000000000055000001000000000000000000802466600150001700
+
+Điều 41.14.TT.1.17. Túc trực bên linh cữu, đơn vị danh dự
+
+### 410140000000000055000001000000000000000000802466600150001800
+
+Điều 41.14.TT.1.18. Sử dụng xe trong Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150001900
+
+Điều 41.14.TT.1.19. Nhạc lễ phục vụ Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150002000
+
+Điều 41.14.TT.1.20. Trình tự tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150002100
+
+Điều 41.14.TT.1.21. Một số nội dung khác
+
+### 410140000000000055000001000000000000000000802466600150002200
+
+Điều 41.14.TT.1.22. Đơn vị chủ trì tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150002300
+
+Điều 41.14.TT.1.23. Công tác chuẩn bị
+
+### 410140000000000055000001000000000000000000802466600150002400
+
+Điều 41.14.TT.1.24. Ban Tổ chức lễ tang
+
+### 410140000000000055000001000000000000000000802466600150002500
+
+Điều 41.14.TT.1.25. Đưa tin buồn
+
+### 410140000000000055000001000000000000000000802466600150002600
+
+Điều 41.14.TT.1.26. Nơi tổ chức Lễ tang và nơi an táng
+
+### 410140000000000055000001000000000000000000802466600150002700
+
+Điều 41.14.TT.1.27. Trang trí lễ đài
+
+### 410140000000000055000001000000000000000000802466600150002800
+
+Điều 41.14.TT.1.28. Vòng hoa tiêu biểu, vòng hoa luân chuyển
+
+### 410140000000000055000001000000000000000000802466600150002900
+
+Điều 41.14.TT.1.29. Túc trực bên linh cữu, đơn vị danh dự
+
+### 410140000000000055000001000000000000000000802466600150003000
+
+Điều 41.14.TT.1.30. Sử dụng xe trong Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150003100
+
+Điều 41.14.TT.1.31. Nhạc lễ phục vụ Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150003200
+
+Điều 41.14.TT.1.32. Trình tự tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150003300
+
+Điều 41.14.TT.1.33. Đối tượng được tổ chức Lễ tang theo nghi thức của lực lượng Công an nhân dân
+
+### 410140000000000055000001000000000000000000802466600150003400
+
+Điều 41.14.TT.1.34. Đơn vị chủ trì tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150003500
+
+Điều 41.14.TT.1.35. Ban Tổ chức lễ tang
+
+### 410140000000000055000001000000000000000000802466600150003600
+
+Điều 41.14.TT.1.36. Đưa tin buồn
+
+### 410140000000000055000001000000000000000000802466600150003700
+
+Điều 41.14.TT.1.37. Nghi thức và trách nhiệm tổ chức Lễ tang
+
+### 410140000000000055000001000000000000000000802466600150003800
+
+Điều 41.14.TT.1.38. Lễ tang cấp Nhà nước và Lễ tang cấp cao
+
+### 410140000000000055000001000000000000000000802466600150003900
+
+Điều 41.14.TT.1.39. Lễ tang cán bộ, chiến sĩ công an đang công tác có cấp bậc hàm Đại tá trở xuống
+
+### 410140000000000055000001000000000000000000802466600150004000
+
+Điều 41.14.TT.1.40. Lễ tang cán bộ công an đã nghỉ hưu
+
+### 410140000000000055000001000000000000000000802466600150004100
+
+Điều 41.14.TT.1.41. Đối tượng được tổ chức viếng
+
+### 410140000000000055000001000000000000000000802466600150004200
+
+Điều 41.14.TT.1.42. Phân cấp tổ chức viếng
+
+### 410140000000000055000001000000000000000000802466600150004300
+
+Điều 41.14.TT.1.43. Kinh phí tổ chức viếng
+
+### 410140000000000055000001000000000000000000802466600150004400
+
+Điều 41.14.TT.1.44. Kinh phí đảm bảo
+
+### 4101400000000000550000020000000000000000
+
+Mục 2 QUY ĐỊNH VÀ HƯỚNG DẪN TỔ CHỨC LỄ TANG ĐỐI VỚI QUÂN NHÂN, CÔNG NHÂN, VIÊN CHỨC QUỐC PHÒNG; NGƯỜI LÀM CÔNG TÁC CƠ YẾU DO BỘ QUỐC PHÒNG QUẢN LÝ
+
+### 410140000000000055000002000000000000000000802585900860000400
+
+Điều 41.14.TT.3.4. Hình thức, nghi thức tổ chức lễ tang trong Quân đội
+
+### 410140000000000055000002000000000000000000802585900860000500
+
+Điều 41.14.TT.3.5. Quy định về trang phục trong lễ tang do Quân đội chủ trì
+
+### 410140000000000055000002000000000000000000802585900860000600
+
+Điều 41.14.TT.3.6. Một số quy định khác
+
+### 410140000000000055000002000000000000000000802585900860000700
+
+Điều 41.14.TT.3.7. Chức danh, cấp hàm được tổ chức Lễ tang cấp Nhà nước
+
+### 410140000000000055000002000000000000000000802585900860000800
+
+Điều 41.14.TT.3.8. Tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860000900
+
+Điều 41.14.TT.3.9. Chức danh, cấp bậc quân hàm được tổ chức Lễ tang Cấp cao
+
+### 410140000000000055000002000000000000000000802585900860001000
+
+Điều 41.14.TT.3.10. Phân cấp chủ trì tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860001100
+
+Điều 41.14.TT.3.11. Ban Tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860001200
+
+Điều 41.14.TT.3.12. Đứng tên và đưa tin buồn
+
+### 410140000000000055000002000000000000000000802585900860001300
+
+Điều 41.14.TT.3.13. Trang trí lễ đài tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860001400
+
+Điều 41.14.TT.3.14. Lực lượng phục vụ Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860001500
+
+Điều 41.14.TT.3.15. Phương tiện phục vụ Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860001600
+
+Điều 41.14.TT.3.16. Các nội dung khác
+
+### 410140000000000055000002000000000000000000802585900860001700
+
+Điều 41.14.TT.3.17. Phân cấp tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860001800
+
+Điều 41.14.TT.3.18. Tổ chức Lễ tang đối với các đối tượng khác
+
+### 410140000000000055000002000000000000000000802585900860001900
+
+Điều 41.14.TT.3.19. Ban Tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002000
+
+Điều 41.14.TT.3.20. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn trên các phương tiện thông tin về Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002100
+
+Điều 41.14.TT.3.21. Lực lượng phục vụ Lễ tang; nhạc trong Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002200
+
+Điều 41.14.TT.3.22. Phương tiện phục vụ Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002300
+
+Điều 41.14.TT.3.23. Các nội dung khác
+
+### 410140000000000055000002000000000000000000802585900860002400
+
+Điều 41.14.TT.3.24. Phân cấp tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002500
+
+Điều 41.14.TT.3.25. Chuẩn bị tin buồn, lời điếu, đưa tin, đăng tin buồn
+
+### 410140000000000055000002000000000000000000802585900860002600
+
+Điều 41.14.TT.3.26. Đơn vị Quân đội chủ trì, phối hợp với cấp ủy, chính quyền địa phương cùng gia đình tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002700
+
+Điều 41.14.TT.3.27. Đơn vị Quân đội phối hợp tham gia tổ chức Lễ tang
+
+### 410140000000000055000002000000000000000000802585900860002800
+
+Điều 41.14.TT.3.28. Đăng tin buồn trên Báo Nhân dân và Báo Quân đội nhân dân
+
+### 410140000000000055000002000000000000000000802585900860002900
+
+Điều 41.14.TT.3.29. Tổng cục Chính trị
+
+### 410140000000000055000002000000000000000000802585900860003000
+
+Điều 41.14.TT.3.30. Bộ Tổng Tham mưu
+
+### 410140000000000055000002000000000000000000802585900860003100
+
+Điều 41.14.TT.3.31. Tổng cục Hậu cần
+
+### 410140000000000055000002000000000000000000802585900860003200
+
+Điều 41.14.TT.3.32. Tổng cục Kỹ thuật
+
+### 410140000000000055000002000000000000000000802585900860003300
+
+Điều 41.14.TT.3.33. Cục Tài chính/Bộ Quốc phòng
+
+### 410140000000000055000002000000000000000000802585900860003400
+
+Điều 41.14.TT.3.34. Các đơn vị trực thuộc Quân ủy Trung ương
+
+### 410140000000000055000002000000000000000000802585900860003500
+
+Điều 41.14.TT.3.35. Kinh phí, xăng dầu bảo đảm
+
+### 41014000000000006000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 4101400000000000600005700000000000000000
+
+Điều 41.14.NĐ.57. Tổ chức thực hiện
+
+### 410140000000000060000570000000000000000000802474700740000200
+
+Điều 41.14.TT.2.2. Nội dung chi và mức chi đối với Lễ Quốc tang
+
+### 410140000000000060000570000000000000000000802474700740000300
+
+Điều 41.14.TT.2.3. Nội dung chi và mức chi đối với Lễ tang cấp Nhà nước
+
+### 410140000000000060000570000000000000000000802474700740000400
+
+Điều 41.14.TT.2.4. Nội dung chi và mức chi đối với Lễ tang cấp cao
+
+### 410140000000000060000570000000000000000000802474700740000500
+
+Điều 41.14.TT.2.5. Cấp phát và quyết toán kinh phí
+
+### 4101400000000000600005800000000000000000
+
+Điều 41.14.NĐ.58. Xử lý vi phạm
+
+### 4101400000000000600005900000000000000000
+
+Điều 41.14.NĐ.59. Hiệu lực thi hành
+
+### 4101400000000000600006000000000000000000
+
+Điều 41.14.NĐ.60. Trách nhiệm thi hành
+
+### 4101400000000000600006080246660015000450
+
+Điều 41.14.TT.1.45. Hiệu lực thi hành
+
+### 4101400000000000600006080246660015000460
+
+Điều 41.14.TT.1.46. Trách nhiệm thi hành
+
+### 4101400000000000600006080247470074000060
+
+Điều 41.14.TT.2.6. Điều khoản thi hành
+
+### 4101400000000000600006080258590086000360
+
+Điều 41.14.TT.3.36. Hiệu lực thi hành
+
+### 4101400000000000600006080258590086000370
+
+Điều 41.14.TT.3.37. Trách nhiệm thi hành
+

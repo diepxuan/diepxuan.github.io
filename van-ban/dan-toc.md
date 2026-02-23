@@ -1,38 +1,11 @@
 ---
-layout: default
+layout: page
 title: Dân tộc
 permalink: /van-ban/dan-toc/
-collection: topics
-slug: dan-toc
 ---
 
 # Dân tộc
 
-**Chủ đề:** Dân tộc  
-**STT:** 10  
-**Số đề mục:** 1  
-**Số điều khoản:** 0  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
+## Danh sách đề mục
 
-## 📋 Danh sách đề mục
-
-### [Công tác dân tộc](/dan-toc/cong-tac-dan-toc/)
-- **Số điều khoản:** 0
-- **Điều khoản có nội dung:** 0/0 (0%)
-- **STT:** 1
-
-
-## 🔙 Quay lại
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số đề mục:** 1
-- **Tổng số điều khoản:** 0
-- **ID chủ đề:** a6ee2d1a2edc4c30bff581efbd765464
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+- [Công tác dân tộc](dan-toc/cong-tac-dan-toc/)

@@ -1,2779 +1,4417 @@
 ---
-layout: default
+layout: page
 title: Thư viện
 permalink: /van-ban/van-hoa-the-thao-du-lich/thu-vien/
-collection: subtopics
-slug: thu-vien
-parent: van-hoa-the-thao-du-lich
 ---
 
 # Thư viện
 
-**Đề mục:** Thư viện  
-**Chủ đề:** [Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)  
-**Số điều khoản:** 221  
-**Điều khoản có nội dung:** 106/211 (50.2%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 41.12.LQ.1. Phạm vi điều chỉnh
+Điều 41.12.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 46/2019/QH14 Luật Thư viện ngày 21/11/2019 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Chỉ mục:** 1
+Luật này quy định về thành lập, hoạt động thư viện; quyền, nghĩa vụ vàtrách nhiệm, của cơ quan, tổ chức, cá nhân trong hoạt động thư viện; quản lý nhà nước về thư viện.
 
-**Mã phân cấp:** 4101200000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Điều 19.7.NĐ.1.30. Ngoại lệ không xâm phạm quyền tác giả dành cho người khuyết tật)
 
-**ID:** dk_00070926
+Điều 41.12.LQ.2. Đối tượng áp dụng
 
----
+(Điều 2 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài hoạt động thư viện hoặc có liên quan đến hoạt động thư viện trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-### Điều 41.12.LQ.2. Đối tượng áp dụng
+Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 93/2020/NĐ-CP Quy định chi tiết một số điều của Luật Thư viện ngày 18/08/2020 của Chính phủ, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Chỉ mục:** 2
+Nghị định này quy định chi tiết về thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư tại điểm a khoản 1 Điều 5; về tài liệu cổ, quý hiếm, các bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học được Nhà nước đầu tư tại điểm c khoản 1 Điều 5; về không gian đọc, phòng đọc cơ sở tại khoản 1 Điều 6; về điều kiện thành lập thư viện tại các điểm a, b, c và d khoản 1 Điều 18; về trình tự, thủ tục đình chỉ, chấm dứt hoạt động thư viện tại khoản 5 Điều 22; về liên thông thư viện tại Điều 29 của Luật Thư viện.
 
-**Mã phân cấp:** 4101200000000000100000200000000000000000
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.5. Chính sách của Nhà nước về phát triển sự nghiệp thư viện; Điều 41.12.LQ.6. Xã hội hóa trong hoạt động thư viện; Điều 41.12.LQ.18. Điều kiện thành lập thư viện; Điều 41.12.LQ.22. Đình chỉ, chấm dứt hoạt động thư viện; Điều 41.12.LQ.29. Liên thông thư viện)
 
-**ID:** dk_00070927
+Điều 41.12.NĐ.1.2. Đối tượng áp dụng
 
----
+(Điều 2 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-
-### Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 4101200000000000100000240273790093000010
-
-**ID:** dk_00070928
-
----
-
-
-### Điều 41.12.NĐ.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4101200000000000100000240273790093000020
-
-**ID:** dk_00070929
-
----
-
-
-### Điều 41.12.TT.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
+Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài tham gia hoạt động thư viện hoặc có liên quan đến hoạt động thư viện trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
 Điều 41.12.TT.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 18/2014/TT-BVHTTDL Quy định về hoạt động chuyên môn, nghiệp vụ của thư viện ngày 08/12/2014 của Bộ Văn hoá, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-**Mã phân cấp:** 4101200000000000100000280252990018750010
+1. Thông tư này quy định về hoạt động chuyên môn, nghiệp vụ của thư viện.
 
-**ID:** dk_00070930
-
----
-
-
-### Điều 41.12.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
+2. Thông tư này áp dụng đối với các thư viện quy định tại Điều 13 Nghị định số 72/2002/NĐ-CP ngày 06 tháng 8 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh thư viện; cơ quan, tổ chức, cá nhân Việt Nam tham gia thành lập và quản lý thư viện.
 
 Điều 41.12.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 13/2016/TT- BVHTTDL Thông tư quy định quy chế mẫu hoạt động của Thư viện công cộng cấp tỉnh, huyện, xã. ngày 09/12/2016 của Bộ Văn hoá Thông tin Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 4101200000000000100000280260310013000010
+1. Thông tư này quy định quy chế mẫu hoạt động của thư viện công cộng cấp tỉnh, huyện, xã (sau đây gọi là thư viện công cộng các cấp), bao gồm:
 
-**ID:** dk_00070931
+a) Thư viện cấp tỉnh;
 
----
+b) Thư viện cấp huyện: thư viện trực thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố trực thuộc tỉnh hoặc thư viện trực thuộc Phòng Văn hóa-Thông tin hoặc Trung tâm Văn hóa-Thông tin hoặc Trung tâm Văn hóa-Thể thao hoặc Nhà Văn hóa huyện, quận, thị xã, thành phố trực thuộc tỉnh;
 
+c) Thư viện cấp xã: thư viện trực thuộc Ủy ban nhân dân xã, phường, thị trấn hoặc thư viện trực thuộc Trung tâm Văn hóa-Thể thao hoặc Nhà Văn hóa xã, phường, thị trấn.
 
-### Điều 41.12.TT.4.1. Phạm vi điều chỉnh
+2. Thông tư này áp dụng đối với thư viện công cộng các cấp và các tổ chức, cá nhân có liên quan.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.TT.4.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 01/2020/TT-BVHTTDL Quy định các mẫu văn bản thông báo thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện ngày 22/05/2020 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 4101200000000000100000280272910001000010
+Thông tư này quy định các mẫu văn bản thông báo thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện tại điểm a khoản 2 Điều 23 Luật Thư viện.
 
-**ID:** dk_00070932
+Điều 41.12.TT.4.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 01/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
+Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài tham gia thành lập, sáp nhập, hợp nhất, chia, chia tách, giải thể, chấm dứt hoạt động thư viện trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-### Điều 41.12.TT.4.2. Đối tượng áp dụng
+Điều 41.12.TT.5.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 02/2020/TT-BVHTTDL Quy định về bảo quản, thanh lọc tài nguyên thông tin và tài nguyên thông tin hạn chế sử dụng trong thư viện. ngày 25/05/2020 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Chỉ mục:** 2
+Thông tư này quy định chi tiết về bảo quản tài nguyên thông tin tại khoản 2 Điều 27; thanh lọc tài nguyên thông tin tại khoản 3 Điều 25; tài nguyên thông tin hạn chế sử dụng và nguyên tắc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện tại khoản 2 Điều 7 của Luật Thư viện.
 
-**Mã phân cấp:** 4101200000000000100000280272910001000020
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.7. Tài nguyên thông tin hạn chế sử dụng trong thư viện; Điều 41.12.LQ.25. Xây dựng tài nguyên thông tin; Điều 41.12.LQ.27. Bảo quản tài nguyên thông tin)
 
-**ID:** dk_00070933
+Điều 41.12.TT.5.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
+1. Thông tư này áp dụng đối với thư viện công lập quy định tại điểm a khoản 2 Điều 9 của Luật Thư viện, cơ quan, tổ chức, cá nhân tham gia hoặc liên quan đến hoạt động bảo quản tài nguyên thông tin, thanh lọc tài nguyên thông tin và sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện.
 
-### Điều 41.12.TT.5.1. Phạm vi điều chỉnh
+2. Khuyến khích thư viện ngoài công lập quy định tại điểm b khoản 2 Điều 9 của Luật Thư viện thực hiện bảo quản tài nguyên thông tin, thanh lọc tài nguyên thông tin và sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện theo quy định tại Thông tư này.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.9. Các loại thư viện)
 
-**Chỉ mục:** 1
+Điều 41.12.TT.6.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 4101200000000000100000280272940002000010
+(Điều 1 Thông tư số 05/2020/TT-BVHTTDL Quy định về đánh giá hoạt động thư viện ngày 28/08/2020 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-**ID:** dk_00070934
+Thông tư này quy định chi tiết Điều 37 của Luật Thư viện về đánh giá hoạt động thư viện, gồm: mục đích, nguyên tắc và thực hiện đánh giá hoạt động thư viện.
 
----
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.37. Đánh giá hoạt động thư viện)
 
+Điều 41.12.TT.6.2. Đối tượng áp dụng
 
-### Điều 41.12.TT.5.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với các loại thư viện quy định tại khoản 1 Điều 9 của Luật Thư viện; cơ quan, tổ chức, cá nhân tham gia đánh giá hoạt động thư viện và các cơ quan, tổ chức, cá nhân có liên quan đến việc đánh giá hoạt động thư viện.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4101200000000000100000280272940002000020
-
-**ID:** dk_00070935
-
----
-
-
-### Điều 41.12.TT.6.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 4101200000000000100000280273890005000010
-
-**ID:** dk_00070936
-
----
-
-
-### Điều 41.12.TT.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4101200000000000100000280273890005000020
-
-**ID:** dk_00070937
-
----
-
-
-### Điều 41.12.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.9. Các loại thư viện)
 
 Điều 41.12.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 09/2021/TT-BVHTTDL Thông tư hướng dẫn thực hiện chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của thư viện công cộng tỉnh, thành phố trực thuộc trung ương. ngày 22/09/2021 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/12/2021)
 
-**Mã phân cấp:** 4101200000000000100000280277790009000010
+1. Thông tư này hướng dẫn thực hiện chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của thư viện công cộng tỉnh, thành phố trực thuộc trung ương (sau đây gọi là thư viện cấp tỉnh).
 
-**ID:** dk_00070938
+2. Thông tư này áp dụng đối với thư viện cấp tỉnh; cơ quan, tổ chức, cá nhân thành lập, quản lý và có liên quan đến hoạt động của thư viện cấp tỉnh.
 
----
+Điều 41.12.TT.8.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 05/2022/TT-BVHTTDL hướng dẫn hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin ngày 04/08/2022 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-### Điều 41.12.TT.8.1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin; trách nhiệm của tổ chức, cá nhân có liên quan đến hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.TT.8.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 4101200000000000100000280280950005000010
+1. Thông tư này áp dụng đối với thư viện công lập quy định tại điểm a Khoản 2 Điều 9 của Luật Thư viện, cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin.
 
-**ID:** dk_00070939
+2. Khuyến khích thư viện ngoài công lập quy định tại điểm b Khoản 2 Điều 9 của Luật Thư viện thực hiện hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin theo hướng dẫn tại Thông tư này.
 
----
-
-
-### Điều 41.12.TT.8.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 4101200000000000100000280280950005000020
-
-**ID:** dk_00070940
-
----
-
-
-### Điều 41.12.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.9. Các loại thư viện)
 
 Điều 41.12.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 12/2024/TT-BVHTTDL quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm, bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học ngày 20/11/2024 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 05/01/2025 )
 
-**Mã phân cấp:** 4101200000000000100000280289340012000010
+1. Thông tư này quy định về định mức kinh tế - kỹ thuật dịch vụ sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm, bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học (sau đây gọi là tài liệu đặc biệt) trong hoạt động thư viện có sử dụng ngân sách nhà nước.
 
-**ID:** dk_00070941
+2. Đối tượng áp dụng:
 
----
+a) Thư viện công lập quy định tại điểm a khoản 2 Điều 9 Luật Thư viện sử dụng ngân sách nhà nước để cung cấp dịch vụ sưu tầm, bảo quản và phát huy giá trị tài liệu đặc biệt theo quy trình nghiệp vụ thư viện (sau đây gọi là dịch vụ sự nghiệp công);
 
+b) Các cơ quan, tổ chức khác sử dụng ngân sách nhà nước để cung cấp dịch vụ sự nghiệp công theo quy định;
 
-### Điều 41.12.LQ.3. Giải thích từ ngữ
+c) Cơ quan, tổ chức, cá nhân quản lý hoặc liên quan đến việc triển khai cung cấp dịch vụ sự nghiệp công sử dụng ngân sách nhà nước;
 
-*Nội dung chưa có sẵn*
+d) Khuyến khích thư viện, cơ quan, tổ chức ngoài công lập triển khai cung cấp dịch vụ sự nghiệp công không sử dụng ngân sách nhà nước áp dụng định mức kinh tế - kỹ thuật tại Thông tư này.
 
-**Chỉ mục:** 3
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.9. Các loại thư viện)
 
-**Mã phân cấp:** 4101200000000000100000300000000000000000
+Điều 41.12.LQ.3. Giải thích từ ngữ
 
-**ID:** dk_00070942
+(Điều 3 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
----
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
+1.Thư việnlà thiết chế văn hóa, thông tin, giáo dục, khoa học thực hiện việc xây dựng, xử lý, lưu giữ, bảo quản, cung cấp tài nguyên thông tin phục vụ nhu cầu của người sử dụng.
 
-### Điều 41.12.TT.1.2. Giải thích từ ngữ
+2.Thư viện sốlà thư viện hoặc bộ phận của thư viện có tài nguyên thông tin được xử lý, lưu giữ dưới dạng số mà người sử dụng thư viện truy cập, khai thác thông qua thiết bị điện tử và không gian mạng.
 
-*Nội dung chưa có sẵn*
+3.Tài nguyên thông tinlà tập hợp các loại hình tài liệu, dữ liệu gồm tài liệu in, tài liệu viết tay, tài liệu nghe, nhìn, tài liệu số, tài liệu vi dạng gồm vi phim, vi phiếu, tài liệu đặc biệt cho người khuyết tật và tài liệu, dữ liệu khác.
 
-**Chỉ mục:** 2
+4.Tài nguyên thông tin mởlà tài nguyên thông tin mà người sử dụng thư viện có thể tiếp cận không có rào cản về tài chính, pháp lý hoặc kỹ thuật.
 
-**Mã phân cấp:** 4101200000000000100000380252990018750020
+5.Tiện ích thư việnlà trang thiết bị phục vụ nhu cầu của người sử dụng, người làm công tác thư viện trong việc thu thập, xử lý, lưu giữ, bảo quản, khai thác tài nguyên thông tin và phát huy giá trị của thư viện.
 
-**ID:** dk_00070943
+6.Dịch vụ thư việnlà hoạt động do thư viện tổ chức hoặc phối hợp tổ chức nhằm phục vụ nhu cầu của người sử dụng thư viện.
 
----
+7.Liên thông thư việnlà hoạt động liên kết, hợp tác giữa các thư viện nhằm sử dụng hợp lý, hiệu quả tài nguyên thông tin, tiện ích thư viện, kết quả xử lý tài nguyên thông tin, sản phẩm thông tin thư viện và dịch vụ thư viện.
 
+Điều 41.12.TT.1.2. Giải thích từ ngữ
 
-### Điều 41.12.TT.5.3. Giải thích từ ngữ
+(Điều 2 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-*Nội dung chưa có sẵn*
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+*1. Hoạt động chuyên môn, nghiệp vụ của thư viện* là những hoạt động được thực hiện theo quy tắc, quy trình của nghiệp vụ thư viện, bao gồm: xây dựng vốn tài liệu; xử lý tài liệu; tổ chức bộ máy tra cứu; tổ chức tài liệu; bảo quản tài liệu; kiểm kê, thanh lọc tài liệu; tổ chức dịch vụ thư viện; biên soạn ấn phẩm thông tin thư viện; hoạt động truyền thông, vận động; thống kê thư viện.
 
-**Mã phân cấp:** 4101200000000000100000380272940002000030
+*2. Thư viện điện tử *là thư viện trong đó tài liệu được thu thập, lưu giữ, xử lý, tổ chức, tra cứu, sử dụng dưới dạng điện tử.
 
-**ID:** dk_00070944
+*3. Tài liệu điện tử *là tài liệu dưới dạng số hoá, bao gồm báo, tạp chí điện tử, sách điện tử, tài liệu tham khảo dưới dạng trực tuyến hoặc đĩa (CD-ROM), cơ sở dữ liệu toàn văn, thư mục và các thông tin trên mạng.
 
----
+*4. Tài liệu thư viện *là những tài liệu được tạo lập trong quá trình xây dựng vốn tài liệu thư viện và bao gồm một số dạng thức chủ yếu sau: giấy, điện tử, đa phương tiện và các dạng thức khác.
 
+*5. Xây dựng vốn tài liệu* *thư viện* là việc thực hiện thường xuyên quá trình thu thập, lựa chọn, thanh lọc tài liệu phù hợp với chức năng, nhiệm vụ của thư viện và nhu cầu của đối tượng người sử dụng mà thư viện có trách nhiệm phục vụ.
 
-### Điều 41.12.TT.8.3. Giải thích từ ngữ
+*6. Xử lý tài liệu thư viện* là quá trình thực hiện việc xử lý kỹ thuật, hình thức và nội dung tài liệu theo quy tắc của nghiệp vụ thư viện.
 
-*Nội dung chưa có sẵn*
+*7. Tổ chức tài liệu thư viện* là việc bố trí, sắp xếp tài liệu theo nội dung, hình thức và mục đích sử dụng tài liệu.
 
-**Chỉ mục:** 3
+*8. Bảo quản tài liệu thư viện *là hoạt động bảo vệ, giữ gìn, phòng ngừa và loại trừ các yếu tố gây hại cho tài liệu do thiên nhiên hoặc con người gây ra.
 
-**Mã phân cấp:** 4101200000000000100000380280950005000030
+*9. Dịch vụ thư viện* là các công việc, hoạt động, quá trình hay cách thức mà thư viện tổ chức thực hiện nhằm phục vụ, đáp ứng nhu cầu người sử dụng.
 
-**ID:** dk_00070945
+*10.* *Người sử dụng* là người có nhu cầu tra cứu, tìm thông tin, tài liệu, sử dụng tài liệu, sản phẩm, dịch vụ thư viện, hoặc tham gia các hoạt động khác do thư viện tổ chức.
 
----
+Điều 41.12.TT.5.3. Giải thích từ ngữ
 
+(Điều 3 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-### Điều 41.12.LQ.4. Chức năng, nhiệm vụ của thư viện
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+1. Bảo quản tài nguyên thông tin là quá trình áp dụng các biện pháp khoa học, kỹ thuật nhằm duy trì tính toàn vẹn, kéo dài tuổi thọ và giá trị sử dụng của tài nguyên thông tin trong thư viện. Bảo quản tài nguyên thông tin bao gồm: bảo quản dự phòng, bảo quản phục chế và chuyển dạng tài nguyên thông tin.
 
-**Chỉ mục:** 4
+2. Bảo quản dự phòng là biện pháp bảo quản tài nguyên thông tin nhằm ngăn chặn sự xuống cấp của toàn bộ tài nguyên thông tin trong quá trình sử dụng và phục vụ, hạn chế đến mức thấp nhất các tác nhân gây hư hại tài nguyên thông tin.
 
-**Mã phân cấp:** 4101200000000000100000400000000000000000
+3. Bảo quản phục chế là biện pháp bảo quản tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy bao gồm các hoạt động tu bổ, sửa chữa lại tình trạng xuống cấp về mặt lý tính, hóa tính nhằm đưa tài nguyên thông tin đã bị hư hại trở về trạng thái ban đầu hoặc gần giống với trạng thái ban đầu.
 
-**ID:** dk_00070946
+4. Chuyển dạng tài nguyên thông tin là biện pháp bảo quản tài nguyên thông tin được triển khai bằng việc tạo ra 01 bản sao của tài nguyên thông tin dưới dạng một vật mang tin khác nhằm bảo đảm sự an toàn cho tài nguyên thông tin gốc.
 
----
+5. Thanh lọc tài nguyên thông tin là việc đưa ra khỏi kho những tài nguyên thông tin không phù hợp với diện phục vụ của thư viện, thừa bản, lạc hậu về nội dung, bị hư hỏng không thể phục hồi, bị mất trong quá trình phục vụ để chuyển đổi mục đích sử dụng hoặc thực hiện thanh lý tài sản.
 
+6. Tài liệu số là tài nguyên thông tin được xử lý, lưu giữ dưới dạng số mà người sử dụng thư viện có thể truy cập, khai thác thông qua thiết bị điện tử và không gian mạng.
 
-### Điều 41.12.LQ.5. Chính sách của Nhà nước về phát triển sự nghiệp thư viện
+Điều 41.12.TT.8.3. Giải thích từ ngữ
+
+(Điều 3 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+*1. Hoạt động thư viện lưu động* là hoạt động phục vụ ngoài trụ sở của thư viện được thực hiện thông qua sử dụng các trang thiết bị và phương tiện vận tải nhằm cung cấp trực tiếp tài nguyên thông tin, tiện ích thư viện, sản phẩm, dịch vụ thư viện phục vụ cho người sử dụng.
+
+*2. Luân chuyển tài nguyên thông tin* là hoạt động được thực hiện ngoài trụ sở thư viện hoặc qua không gian mạng, thông qua vận chuyển hoặc liên thông, chia sẻ, kết nối tài nguyên thông tin đến thư viện hoặc các điểm có phục vụ sách, báo khác (sau đây gọi là điểm luân chuyển) để phục vụ người sử dụng.
+
+Điều 41.12.LQ.4. Chức năng, nhiệm vụ của thư viện
+
+(Điều 4 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Xây dựng, xử lý, lưu giữ, bảo quản, kết nối và phát triển tài nguyên thông tin phù hợp với người sử dụng thư viện.
+
+2. Tổ chức sử dụng chung tài nguyên thông tin, sản phẩm thông tin và dịch vụ thư viện; truyền bá tri thức, giá trị văn hóa của dân tộc và nhân loại; phục vụ nhu cầu nghiên cứu, học tập, giải trí; góp phần hình thành và phát triển kiến thức, kỹ năng, phẩm chất, năng lực củangười sử dụng thư viện.
+
+3. Ứng dụng thành tựu khoa học và công nghệ, hiện đại hóa thư viện.
+
+4. Phát triển văn hóa đọc và góp phần tạo môi trường học tập suốt đời cho Nhân dân, xây dựng xã hội học tập, nâng cao dân trí, xây dựng con người Việt Nam toàn diện.
 
 Điều 41.12.LQ.5. Chính sách của Nhà nước về phát triển sự nghiệp thư viện
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000100000500000000000000000
+1. Nhà nước đầu tư cho thư viện công lập các nội dung sau đây:
 
-**ID:** dk_00070947
+a) Ưu tiên đầu tư cho Thư viện Quốc gia Việt Nam, thư viện công cộng tỉnh, thành phố trực thuộc trung ương (sau đây gọi là thư viện cấp tỉnh) và thư viện có vai trò quan trọng;
 
----
+b) Hiện đại hóa thư viện; xây dựng thư viện số, tài nguyên thông tin dùng chung, tài nguyên thông tin mở; liên thông thư viện trong nước và nước ngoài;
 
+c) Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm, các bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học;
 
-### Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư
+d) Tổ chức dịch vụ thư viện lưu động, luân chuyển tài nguyên thông tin phục vụ khuvực biên giới, hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế-xã hội khó khăn, đặc biệt khó khăn;
+
+đ) Đào tạo, bồi dưỡng nâng cao năng lực và phát triển nguồn nhân lực thư viện;
+
+e) Nghiên cứu, ứng dụng thành tựu khoa học và công nghệ tiên tiến trong hoạt động thư viện.
+
+2. Nhà nước hỗ trợ đầu tư các nội dung sau đây:
+
+a) Cung cấp dịch vụ sự nghiệp công trong lĩnh vực thư viện, phát triển văn hóa đọc;
+
+b) Duy trì và phát triển thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng không vì mục tiêu lợi nhuận;
+
+c) Cước vận chuyển tài liệu thư viện phục vụ nhiệm vụ chính trị, khu vực biên giới, hải đảo, vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn;
+
+d) Hợp tác quốc tế về thư viện.
+
+3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân tham gia hoạt động quy định tại khoản 1 và khoản 2 Điều này.
+
+4. Chính phủquy định chi tiết về thư viện có vai trò quantrọng được ưu tiên đầu tưquy định tại điểm a khoản 1 Điều này và tài liệucổ, quý hiếm, các bộsưu tập tài liệu có giá trịđặc biệt về lịch sử, văn hóa, khoa học quy định tại điểm c khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000402737900930000300
+1. Có đủ điều kiện, khả năng thực hiện nhiệm vụ quy định tại các Điều 25, 26, 27, 28 và chủ trì xây dựng, chia sẻ, khai thác tài nguyên thông tin dùng chung giữa các thư viện quy định tại khoản 1 Điều 29 Nghị định này; triển khai kết nối, hợp tác với các thư viện cùng nhóm, chuyên ngành, lĩnh vực trong phạm vi quốc gia, lĩnh vực, ngành hoặc vùng, miền, địa phương.
 
-**ID:** dk_00070948
+2. Cơ sở vật chất, tiện ích, kỹ thuật hiện đại, đáp ứng nhu cầu phục vụ người sử dụng thư viện và khả năng mở rộng liên thông, liên kết thư viện trong lĩnh vực, ngành hoặc vùng, miền, địa phương:
 
----
+a) Có ít nhất 500.000 đơn vị bảo quản, trong đó có ít nhất 200.000 bản sách và ít nhất 5.000 đầu tài liệu số; cơ sở dữ liệu dùng chung đáp ứng các tiêu chuẩn quốc gia, tuân thủ quy định pháp luật về sở hữu trí tuệ và an ninh mạng;
 
+b) Tài nguyên thông tin được lưu trữ, bảo quản và quản lý bằng hạ tầng, thiết bị kỹ thuật và công nghệ hiện đại: Thư viện có phần mềm tiên tiến ứng dụng trong hoạt động chuyên môn, nghiệp vụ, quản lý thư viện; có cổng thông tin hoặc trang thông tin điện tử cung cấp tra cứu mục lục trực tuyến và các dịch vụ cung cấp tài liệu số; có dịch vụ tư vấn trực tuyến cho người sử dụng; sử dụng máy tính và các trang thiết bị hiện đại để triển khai phục vụ người sử dụng thư viện;
 
-### Điều 41.12.QĐ.3.1.
+c) Không gian đọc thân thiện, bảo đảm khả năng tiếp cận thư viện cho mọi đối tượng người sử dụng; bảo đảm vệ sinh môi trường, trang thiết bị an ninh, an toàn và phòng cháy, chữa cháy;
 
-*Nội dung chưa có sẵn*
+d) Có ít nhất 50 máy vi tính phục vụ người sử dụng thư viện;
 
-**Chỉ mục:** 1
+đ) Đã thực hiện liên thông thư viện ở phạm vi vùng, miền, địa phương hoặc lĩnh vực, ngành hoặc quốc tế.
 
-**Mã phân cấp:** 41012000000000001000005000000000000000000040273790093000030000802117300500000100
+3. Người làm công tác thư viện phải bảo đảm các yêu cầu sau:
 
-**ID:** dk_00070949
+a) Có trình độ nghiệp vụ thông tin - thư viện đáp ứng tiêu chuẩn về vị trí việc làm theo quy định của pháp luật;
 
----
+b) Có ít nhất 70% số người làm công tác thư viện tốt nghiệp từ đại học trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp;
 
+c) Có khả năng ứng dụng công nghệ thông tin trong hoạt động chuyên môn, nghiệp vụ, sử dụng thành thạo phần mềm quản lý thư viện theo yêu cầu vị trí việc làm, thực hiện liên thông thư viện; hướng dẫn người sử dụng thư viện sử dụng tiện ích thư viện hiện đại để tiếp cận và khai thác thông tin.
 
-### Điều 41.12.NĐ.1.4. Thẩm quyền xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư
+4. Hiệu quả hoạt động thư viện bình quân hằng năm:
+
+a) Đạt ít nhất 6.000 người đăng ký sử dụng thư viện, mượn tài nguyên thông tin, sử dụng tài liệu điện tử, tài liệu số tại thư viện, ngoài thư viện và trên không gian mạng; đạt ít nhất 1.000.000 lượt người đến thư viện và truy cập trang thông tin điện tử của thư viện;
+
+b) Đạt ít nhất 2.000.000 lượt tài nguyên thông tin phục vụ tại thư viện và phục vụ lưu động; đạt ít nhất 1.000.000 lượt tài nguyên thông tin phục vụ trên không gian mạng;
+
+c) Đạt ít nhất 80% các hoạt động chuyên môn, nghiệp vụ, dịch vụ thư viện đã được ứng dụng khoa học và công nghệ; đã xây dựng cổng thông tin hoặc trang thông tin điện tử của thư viện; tổ chức được mục lục điện tử trực tuyến (OPAC); có ít nhất 30% dịch vụ thư viện được cung cấp trực tuyến;
+
+d) Tổ chức ít nhất 04 hội nghị, hội thảo, triển lãm chuyên đề; có ít nhất 01 sáng kiến cải tiến kỹ thuật được nghiệm thu đưa vào thực hiện trong thực tiễn hoặc có ít nhất 06 sản phẩm thông tin chuyên đề, thư mục được chia sẻ với các thư viện khác;
+
+đ) Đạt ít nhất 56 giờ/tuần thư viện mở cửa phục vụ hoặc 24 giờ hằng ngày đối với thư viện phục vụ trên không gian mạng.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.25. Hợp tác trong thu thập, bổ sung và sử dụng tài nguyên thông tin; Điều 41.12.NĐ.1.26. Chia sẻ kết quả xử lý chuyên môn, nghiệp vụ, biên mục và sản phẩm thông tin thư viện; Điều 41.12.NĐ.1.27. Liên kết triển khai dịch vụ liên thư viện; Điều 41.12.NĐ.1.28. Xây dựng mục lục liên hợp; Điều 41.12.NĐ.1.29. Cơ chế liên thông thư viện)
+
+Điều 41.12.QĐ.3.1.
+
+(Điều 1 Quyết định số 50/2003/QĐ-BVHTT Về việc quy định mức kinh phí mua sách lý luận, chính trị của hệ thống thư viện ngày 22/08/2003 của Bộ Văn hoá - Thông tin, có hiệu lực thi hành kể từ ngày 16/09/2003)
+
+Ban hành kèm theo Quyết định này ;Quy định mức kinh phí mua sách lý luận, chính trị của hệ thống thư viện.
+
+Quy định mua sách lý luận
 
 Điều 41.12.NĐ.1.4. Thẩm quyền xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000402737900930000400
+1. Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội xác định đối với thư viện đại học, thư viện thuộc các cơ sở giáo dục khác sau khi có ý kiến đồng ý bằng văn bản của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
 
-**ID:** dk_00070950
+2. Người đứng đầu ban, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan trung ương xác định đối với thư viện không thuộc khoản 1 Điều này sau khi có ý kiến đồng ý bằng văn bản của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
 
----
+Điều 41.12.NĐ.1.5. Tài liệu cổ
 
+(Điều 5 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-### Điều 41.12.NĐ.1.5. Tài liệu cổ
+Tài liệu cổ là tài liệu có từ một trăm năm tuổi trở lên.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.8. Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm và bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học của thư viện công lập)
 
-**Chỉ mục:** 5
+Điều 41.12.NĐ.1.6. Tài liệu quý hiếm
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000402737900930000500
+(Điều 6 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**ID:** dk_00070951
+Tài liệu quý hiếm phải đáp ứng một trong các tiêu chí sau:
 
----
+1. Là bản chính, bản gốc bản thảo viết tay hoặc có bút tích của anh hùng dân tộc, danh nhân, nhân vật lịch sử tiêu biểu.
 
+2. Là tài liệu được tạo ra trong khoảng thời gian hoặc tại nơi diễn ra các sự kiện là dấu mốc quan trọng trong lịch sử dân tộc Việt Nam; chứa thông tin về các sự kiện, biến cố và hiện tượng đặc biệt của tự nhiên, đời sống xã hội và tư duy, có ý nghĩa nền tảng đối với quản lý nhà nước, kinh tế, quốc phòng, an ninh, đối ngoại, trật tự, an toàn xã hội, nghiên cứu khoa học, lịch sử, văn học và đáp ứng ít nhất một trong các tiêu chí sau:
 
-### Điều 41.12.NĐ.1.6. Tài liệu quý hiếm
+a) Được thể hiện trên vật mang tin độc đáo, tiêu biểu của thời kỳ lịch sử;
 
-*Nội dung chưa có sẵn*
+b) Chỉ có một hoặc lưu giữ được rất ít bản cùng loại mà không thể hoặc rất khó bổ sung, thay thế nếu bị mất hoặc hư hỏng;
 
-**Chỉ mục:** 6
+c) Độc đáo về ngôn ngữ thể hiện, hình thức trình bày, kỹ thuật chế tác hoặc tiêu biểu đại diện cho khuynh hướng, phong cách, thời đại.
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000402737900930000600
-
-**ID:** dk_00070952
-
----
-
-
-### Điều 41.12.NĐ.1.7. Bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.8. Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm và bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học của thư viện công lập)
 
 Điều 41.12.NĐ.1.7. Bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000402737900930000700
+1. Bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học là tập hợp các tài liệu được thu thập, gìn giữ, sắp xếp có hệ thống theo những tiêu chí chung về hình thức, nội dung để đáp ứng nhu cầu tìm hiểu lịch sử, tự nhiên và xã hội.
 
-**ID:** dk_00070953
+2. Bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học phải đáp ứng các tiêu chí sau:
 
----
+a) Đặc sắc, có ý nghĩa đặc biệt về tư tưởng, chính trị, kinh tế - xã hội, khoa học, lịch sử và có tầm quan trọng đặc biệt đối với quốc gia, địa phương, xã hội, dân tộc; có ý nghĩa văn hóa đặc biệt và nền tảng đối với quản lý nhà nước, kinh tế, quốc phòng, an ninh, đối ngoại, trật tự, an toàn xã hội, nghiên cứu khoa học, lịch sử, văn học;
 
+b) Được hình thành trong hoàn cảnh lịch sử đặc biệt về thời gian, không gian; đặc sắc về phương pháp tư liệu hóa, chất liệu vật mang tin.
 
-### Điều 41.12.NĐ.1.8. Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm và bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học của thư viện công lập
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.8. Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm và bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học của thư viện công lập)
 
 Điều 41.12.NĐ.1.8. Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm và bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học của thư viện công lập
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000402737900930000800
+1. Việc sưu tầm phải đáp ứng yêu cầu về tiêu chí đối với tài liệu sưu tầm và thực hiện theo phương thức, trình tự sau:
 
-**ID:** dk_00070954
+a) Tiêu chí: Đáp ứng các tiêu chí quy định tại Điều 5, Điều 6, khoản 2 Điều 7 Nghị định này và có nguồn gốc rõ ràng, hợp pháp, không có tranh chấp, khiếu kiện liên quan; phù hợp với chức năng, nhiệm vụ, đối tượng và phạm vi hoạt động của thư viện;
 
----
+b) Phương thức thực hiện bao gồm: Thu thập trong cộng đồng; mua của tổ chức, cá nhân; tiếp nhận từ tổ chức, cá nhân tặng, cho hoặc chuyển giao; trao đổi giữa các thư viện, giữa thư viện với cơ quan, tổ chức, cá nhân; các phương thức sưu tầm khác;
 
+c) Trình tự thực hiện:
 
-### Điều 41.12.TT.11.2. Quy định chung về định mức kinh tế - kỹ thuật
+- Khảo sát, thu thập thông tin về tài liệu; xác định tài liệu đáp ứng tiêu chí quy định tại điểm a khoản này để lập kế hoạch sưu tầm, trình người có thẩm quyền phê duyệt;
+
+- Lập hồ sơ tài liệu dự kiến sưu tầm gồm: Danh sách tài liệu; biên bản thẩm định tài liệu và các tài liệu khác liên quan (nếu có);
+
+- Thực hiện việc sưu tầm theo kế hoạch đã được phê duyệt;
+
+- Vào sổ đăng ký; lưu trữ hồ sơ hình thành trong quá trình sưu tầm tài liệu.
+
+2. Việc bảo quản tài liệu thực hiện theo biện pháp bảo quản dự phòng, bảo quản phục chế, chuyển dạng tài liệu phù hợp với từng loại hình tài liệu.
+
+3. Việc phát huy giá trị tài liệu được thực hiện như sau:
+
+a) Số hóa hoặc hình thành bản sao để phục vụ theo quy chế của thư viện;
+
+b) Hình thành phiên bản chữ tiếng Việt của tài liệu trên nguyên tắc chuyển ngữ đối với tài liệu bằng chữ Hán, chữ Nôm, chữ Hán - Nôm và các chữ khác.
+
+4. Đối với việc sưu tầm, bảo quản, phát huy giá trị tài liệu cổ, quý hiếm, bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học là di sản văn hóa, ngoài việc thực hiện theo quy định tại các khoản 1, 2 và 3 Điều này, phải tuân thủ các quy định có liên quan của pháp luật về di sản văn hóa và pháp luật về lưu trữ.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.5. Tài liệu cổ; Điều 41.12.NĐ.1.6. Tài liệu quý hiếm; Điều 41.12.NĐ.1.7. Bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học)
 
 Điều 41.12.TT.11.2. Quy định chung về định mức kinh tế - kỹ thuật
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000802893400120000200
+ 1. Định mức kinh tế - kỹ thuật tại Thông tư này là mức tối đa, được bảo đảm tính đúng, tính đủ các hao phí nhân công, hao phí máy móc, thiết bị và hao phí vật liệu để trực tiếp hoàn thành thực hiện cung cấp dịch vụ sự nghiệp công.
 
-**ID:** dk_00070955
+ 2. Định mức kinh tế - kỹ thuật trong Thông tư này là căn cứ để cơ quan, tổ chức liên quan xác định đơn giá, giá dịch vụ sự nghiệp công sử dụng ngân sách nhà nước đặt hàng phù hợp với Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên.
 
----
+ 3. Các chức danh lao động trong thành phần hao phí nhân công trong các bảng định mức được xác định theo nguyên tắc sau đây:
 
+ a) Các chức danh lao động trong thành phần hao phí nhân công của bảng định mức xác định theo quy định tại Thông tư số 02/2022/TT-BVHTTDL ngày 01 tháng 7 năm 2022 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mã số, tiêu chuẩn chức danh nghề nghiệp và xếp lương viên chức chuyên ngành thư viện, Thông tư số 10/2023/TT-BVHTTDL ngày 09 tháng 8 năm 2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch hướng dẫn về vị trí việc làm lãnh đạo, quản lý và chức danh nghề nghiệp chuyên ngành, cơ cấu viên chức theo chức danh nghề nghiệp trong đơn vị sự nghiệp công lập thuộc lĩnh vực văn hóa, thể thao và du lịch.
 
-### Điều 41.12.TT.11.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật
+ b) Trường hợp các chức danh lao động trong thành phần hao phí nhân công không có trong Thông tư số 02/2022/TT-BVHTTDL, Thông tư số 10/2023/TT-BVHTTDL thì áp dụng theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang, Nghị định số 117/2016/NĐ-CP ngày 21 tháng 7 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang, Nghị định số 111/2022/NĐ-CP ngày 30 tháng 12 năm 2022 của Chính phủ về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập hoặc xem xét quy đổi tương đương theo vị trí việc làm đã được cấp có thẩm quyền phê duyệt.
+
+ c) Trường hợp hạng, bậc của chức danh lao động thực tế không như quy định tại Phụ lục ban hành kèm theo Thông tư này, cơ quan, tổ chức chủ quản của thư viện, đơn vị cung cấp dịch vụ sự nghiệp công (sau đây gọi là thư viện) xem xét, quyết định áp dụng hạng, bậc của chức danh lao động đang làm việc và tính mức hao phí theo thực tế bảo đảm chi phí về nhân công không vượt quá tổng định mức hao phí nhân công đối với dịch vụ tương ứng.
+
+ 4. Đối với các chi phí khác phục vụ hoạt động cung cấp dịch vụ sự nghiệp công được thực hiện như sau:
+
+ a) Đối với các chi phí mua bản quyền, dịch tài liệu, điện, điện thoại giao dịch, công tác phí, sử dụng cơ sở vật chất, hạ tầng công nghệ thông tin, phần mềm quản trị thư viện, phần mềm, máy móc và thiết bị chuyên dụng, văn phòng phẩm, các chi phí quản lý, hoạt động chuyên môn dùng chung, hỗ trợ dịch vụ của đơn vị và các chi phí phát sinh khác, thì các thư viện, cơ quan, tổ chức áp dụng theo mức đã được cơ quan nhà nước có thẩm quyền ban hành hoặc lập dự toán riêng đối với công đoạn phát sinh ngoài định mức này để trình cấp có thẩm quyền xem xét, phê duyệt theo quy định pháp luật về ngân sách nhà nước.
+
+ b) Đối với trường hợp thuê chuyên gia tư vấn, thực hiện theo Thông tư số 02/2015/TT-BLĐTBXH ngày 12 tháng 01 năm 2015 của Bộ trưởng Bộ Lao động, Thương binh và Xã hội quy định mức lương đối với chuyên gia tư vấn trong nước làm cơ sở dự toán gói thầu cung cấp dịch vụ tư vấn áp dụng hình thức hợp đồng theo thời gian sử dụng vốn nhà nước.
+
+ c) Đối với tài liệu cần giám định để xác định di vật, cổ vật thì định mức kinh tế - kỹ thuật được tính theo quy định pháp luật về định mức kinh tế - kỹ thuật dịch vụ giám định di vật, cổ vật.
+
+ d) Đối với các khoản chi phí thực tế, các dịch vụ thuê mướn, mua bán khác thực hiện theo quy định pháp luật về ngân sách nhà nước. Đối với các nội dung chi trả dịch vụ nếu thuộc hạn mức phải đấu thầu thì thực hiện theo quy định của pháp luật về đấu thầu.(Điều này có nội dung liên quan đến Điều 1. Sửa đổi, bổ sung Điều 5, Điều 7 và Điều 11 của Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (sau đây viết tắt là Nghị định số 204/2004/NĐ-CP) như sau:; Điều 2. Sửa đổi, bổ sung Bảng lương chuyên môn, nghiệp vụ đối với cán bộ, viên chức trong các đơn vị sự nghiệp của Nhà nước (Bảng 3) và Bảng phụ cấp chức vụ lãnh đạo (bầu cử, bổ nhiệm) trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước; cơ quan, đơn vị thuộc Quân đội nhân dân và Công an nhân dân ban hành kèm theo Nghị định số 204/2004/NĐ-CP: của Nghị định 117/2016/NĐ-CP Nghị định sửa đổi, bổ sung một số điều của Nghị định số 204/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang ban hành ngày 21/07/2016; Điều 1. Phạm vi điều chỉnh của Nghị định 32/2019/NĐ-CP Quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên ban hành ngày 10/04/2019; Điều 1. Phạm vi điều chỉnh của Nghị định 111/2022/NĐ-CP Về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập ban hành ngày 30/12/2022; Điều 1. Phạm vi điều chỉnh của Thông tư 02/2015/TT-BLĐTBXH Quy định mức lương đối với chuyên gia tư vấn trong nước làm cơ sở dự toán gói thầu cung cấp dịch vụ tư vấn áp dụng hình thức hợp đồng theo thời gian sử dụng vốn nhà nước ban hành ngày 12/01/2015; Điều 5.1.NĐ.1.1. Phạm vi điều chỉnh; Điều 5.2.TT.59.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 5.2.TT.91.1. Phạm vi điều chỉnh)
 
 Điều 41.12.TT.11.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000802893400120000300
+ 1. Nội dung định mức kinh tế - kỹ thuật bao gồm:
 
-**ID:** dk_00070956
+ a) Hao phí nhân công: là thời gian lao động trực tiếp và lao động gián tiếp cần thiết của các hạng, bậc lao động bình quân để hoàn thành việc thực hiện một dịch vụ. Mức hao phí của lao động trực tiếp là thời gian thực hiện các công đoạn của dịch vụ sự nghiệp công, được tính bằng công, mỗi công tương ứng với thời gian làm việc 01 ngày làm việc (08 giờ) của người lao động theo quy định tại Điều 105 của Bộ luật Lao động. Mức hao phí của lao động gián tiếp tính bằng tỷ lệ 15% của tổng hao phí lao động trực tiếp tương ứng*.*
 
----
+ b) Hao phí về máy móc, thiết bị sử dụng: là thời gian sử dụng cần thiết từng loại máy móc, thiết bị để hoàn thành việc cung cấp dịch vụ sự nghiệp công. Mức hao phí trong định mức được tính bằng ca sử dụng máy, mỗi ca tương ứng trên tổng thời gian khấu hao máy với 01 ngày làm việc (08 giờ) theo quy định tại Điều 105 của Bộ Luật Lao động.
 
+ c) Hao phí vật liệu sử dụng: là số lượng các loại vật liệu cụ thể và cần thiết sử dụng trực tiếp để phục vụ cho việc cung cấp dịch vụ sự nghiệp công. Mức hao phí trong định mức được tính bằng số lượng từng loại vật liệu cụ thể. Mức hao phí vật liệu phụ được tính bằng 10% tổng giá trị hao phí vật liệu trong cùng bảng định mức.
 
-### Điều 41.12.TT.11.4. Định mức kinh tế - kỹ thuật dịch vụ sưu tầm tài liệu đặc biệt
+ 2. Kết cấu của định mức kinh tế - kỹ thuật bao gồm:
+
+ a) Tên định mức;
+
+ b) Mô tả nội dung công việc: là nội dung các công đoạn chính để thực hiện cung cấp dịch vụ sự nghiệp công;
+
+ c) Bảng định mức, bao gồm:
+
+ - Định mức hao phí nhân công: chức danh và hạng, bậc lao động, đơn vị tính mức hao phí, trị số định mức hao phí;
+
+ - Định mức hao phí máy móc, thiết bị sử dụng: tên loại máy móc hoặc thiết bị, đơn vị tính mức hao phí, trị số định mức hao phí;
+
+ - Định mức hao phí vật liệu sử dụng: tên và quy cách vật liệu, đơn vị tính mức hao phí, trị số định mức hao phí;
+
+ - Trị số định mức: là giá trị tính bằng số của thời gian thực hiện thực tế trên hao phí nhân công, máy móc, thiết bị sử dụng, vật liệu sử dụng trong quá trình cung cấp dịch vụ sự nghiệp công.
+
+ - Ghi chú: là nội dung hướng dẫn cách tính định mức trong điều kiện kỹ thuật khác nhau (nếu có) hoặc để hoàn thành một khối lượng công việc khác với đơn vị tính tại Bảng định mức.(Điều này có nội dung liên quan đến Điều 20.2.LQ.1. Phạm vi điều chỉnh)
 
 Điều 41.12.TT.11.4. Định mức kinh tế - kỹ thuật dịch vụ sưu tầm tài liệu đặc biệt
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000802893400120000400
+1. Dịch vụ sưu tầm tài liệu đặc biệt được triển khai theo một hoặc nhiều hình thức sau đây:
 
-**ID:** dk_00070957
+a) Thu thập trong cộng đồng.
 
----
+b) Mua của tổ chức, cá nhân.
 
+c) Tiếp nhận của tổ chức, cá nhân tặng, cho hoặc chuyển giao.
 
-### Điều 41.12.TT.11.5. Định mức kinh tế - kỹ thuật dịch vụ bảo quản tài liệu đặc biệt
+d) Trao đổi giữa các thư viện, giữa thư viện với cơ quan, tổ chức, cá nhân.
+
+đ) Các phương thức sưu tầm khác.
+
+2. Định mức kinh tế - kỹ thuật dịch vụ sưu tầm tài liệu đặc biệt được quy định chi tiết tại Phụ lục số 01 kèm theo Thông tư này.
+
+phu luc so 01 kem TT 12.2024.docx
 
 Điều 41.12.TT.11.5. Định mức kinh tế - kỹ thuật dịch vụ bảo quản tài liệu đặc biệt
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000802893400120000500
+1. Dịch vụ bảo quản tài liệu đặc biệt được triển khai theo các hình thức sau đây:
 
-**ID:** dk_00070958
+a) Bảo quản dự phòng.
 
----
+b) Bảo quản phục chế.
 
+c) Chuyển dạng tài liệu.
 
-### Điều 41.12.TT.11.6. Định mức kinh tế - kỹ thuật dịch vụ phát huy giá trị tài liệu đặc biệt
+2. Định mức kinh tế - kỹ thuật dịch vụ bảo quản tài liệu đặc biệt được quy định chi tiết tại Phụ lục số 02 kèm theo Thông tư này.
+
+phu luc so 02 kem TT 12.2024.docx
 
 Điều 41.12.TT.11.6. Định mức kinh tế - kỹ thuật dịch vụ phát huy giá trị tài liệu đặc biệt
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-**Mã phân cấp:** 410120000000000010000050000000000000000000802893400120000600
+1. Dịch vụ phát huy giá trị tài liệu đặc biệt được triển khai theo một hoặc nhiều hình thức sau đây:
 
-**ID:** dk_00070959
+a) Số hóa hoặc hình thành bản sao để phục vụ theo quy chế của thư viện.
 
----
+b) Hình thành phiên bản chữ tiếng Việt của tài liệu trên nguyên tắc chuyển ngữ đối với tài liệu bằng chữ Hán, chữ Nôm, chữ Hán - Nôm và các chữ khác.
 
+2. Định mức kinh tế - kỹ thuật dịch vụ phát huy giá trị tài liệu đặc biệt được quy định chi tiết tại Phụ lục số 03 kèm theo Thông tư này.
 
-### Điều 41.12.LQ.6. Xã hội hóa trong hoạt động thư viện
+phu luc 3 TT 12.2024.doc
 
 Điều 41.12.LQ.6. Xã hội hóa trong hoạt động thư viện
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000100000600000000000000000
+1. Cộng đồng dân cư, tổ chức, cá nhân được tạo điều kiện để đầu tư, tài trợ, viện trợ, tặng cho, đóng góp phát triển sự nghiệp thư viện, văn hóa đọc, xây dựng và phát huy không gian đọc, phòng đọc cơ sở.
 
-**ID:** dk_00070960
+2. Cộng đồng dân cư, tổ chức, cá nhân tham gia hoạt động thư viện được hưởng ưu đãi theo quy định của pháp luật.
 
----
+3. Cộng đồng dân cư, tổ chức, cá nhân đầu tư xây dựng cơ sở vật chất, trang thiết bị cho thư viện; tài trợ, viện trợ, tặng cho, đóng góp để phát triển sự nghiệp thư viện và phát triển văn hóa đọc được ghi nhận và vinh danh theo quy định của pháp luật về thi đua, khen thưởng.
 
+4. Chính phủ quy định chi tiết về không gian đọc, phòng đọc cơ sở quy định tại khoản 1 Điều này.
 
-### Điều 41.12.NĐ.1.9. Tiêu chí xác định không gian đọc, phòng đọc cơ sở
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 41.12.NĐ.1.9. Tiêu chí xác định không gian đọc, phòng đọc cơ sở
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000010000060000000000000000000402737900930000900
+1. Không gian đọc, phòng đọc cơ sở là nơi đọc sách do cộng đồng dân cư, tổ chức, cá nhân Việt Nam thành lập nhằm cung cấp cho người dân thông tin, kiến thức và dịch vụ văn hóa đọc trong khu vực sinh sống tại thôn, làng, ấp, bản, phum, sóc, tổ dân phố mà chưa đủ điều kiện thành lập thư viện theo quy định tại Điều 19 và Điều 20 Nghị định này.
 
-**ID:** dk_00070961
+2. Khuyến khích thành lập không gian đọc, phòng đọc cơ sở đáp ứng các tiêu chí sau:
 
----
+a) Có ít nhất 300 bản sách;
 
+b) Có đối tượng phục vụ phù hợp với mục tiêu hoạt động của không gian đọc, phòng đọc cơ sở;
 
-### Điều 41.12.NĐ.1.10. Hoạt động của không gian đọc, phòng đọc cơ sở
+c) Có diện tích, hạ tầng bảo đảm việc bảo quản tài nguyên thông tin và phục vụ người sử dụng; không ảnh hưởng tới trật tự, an toàn giao thông, bảo đảm vệ sinh môi trường và cảnh quan; bảo đảm trang thiết bị an ninh, an toàn và phòng cháy, chữa cháy;
+
+d) Có người quản lý không gian đọc, phòng đọc cơ sở;
+
+đ) Có nội quy phù hợp với đối tượng phục vụ của không gian đọc, phòng đọc cơ sở.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.20. Điều kiện thành lập thư viện cộng đồng)
 
 Điều 41.12.NĐ.1.10. Hoạt động của không gian đọc, phòng đọc cơ sở
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000010000060000000000000000000402737900930001000
+1. Hoạt động của không gian đọc, phòng đọc cơ sở thực hiện theo nguyên tắc tự quản, tự chịu trách nhiệm.
 
-**ID:** dk_00070962
+2. Không gian đọc, phòng đọc cơ sở được hỗ trợ, hướng dẫn về chuyên môn, nghiệp vụ và được tạo điều kiện tiếp nhận tài nguyên thông tin, tiện ích thư viện luân chuyển từ thư viện công cộng trên địa bàn.
 
----
+3. Nhà nước khuyến khích không gian đọc, phòng đọc cơ sở có đủ điều kiện thành lập thư viện cộng đồng hoặc thư viện tư nhân có phục vụ cộng đồng thực hiện việc thông báo thành lập thư viện theo quy định tại Điều 23 của Luật Thư viện.
 
-
-### Điều 41.12.LQ.7. Tài nguyên thông tin hạn chế sử dụng trong thư viện
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.23. Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện)
 
 Điều 41.12.LQ.7. Tài nguyên thông tin hạn chế sử dụng trong thư viện
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000100000700000000000000000
+1. Tài nguyên thông tin hạn chế sử dụng trong thư viện bao gồm:
 
-**ID:** dk_00070963
+a) Tài nguyên thông tin cónội dung thông tin nếu sử dụng rộng rãi có thể ảnh hưởng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
 
----
+b) Tài nguyên thông tin thuộc bí mật nhà nước, hạn chế sử dụng, tiếp cận có điều kiện, hạn chế quyền tiếp cận theo quy định của pháp luật về bảo vệ bí mật nhà nước, tiếp cận thông tin, lưu trữ;
 
+c) Bản gốc tài liệu cổ, quý hiếm, tài nguyên thông tin là di sản văn hóa đang lưu giữ trong thư viện;
 
-### Điều 41.12.TT.5.31. Tài nguyên thông tin hạn chế sử dụng trong thư viện quy định tại điểm a khoản 1 Điều 7 của Luật Thư viện
+d) Bản gốc tài liệu bị hư hỏng.
+
+2. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về tài nguyên thông tin hạn chế sử dụng trong thư viện quy định tại điểm a khoản 1 Điều này; quy định nguyên tắc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện.
+
+3. Cơ quan, tổ chức, cánhân thành lập thư viện có trách nhiệm xây dựng danh mục tài nguyên thông tin hạn chế sử dụng và việc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.5.1. Phạm vi điều chỉnh; Điều 41.12.TT.5.31. Tài nguyên thông tin hạn chế sử dụng trong thư viện quy định tại điểm a khoản 1 Điều 7 của Luật Thư viện)
 
 Điều 41.12.TT.5.31. Tài nguyên thông tin hạn chế sử dụng trong thư viện quy định tại điểm a khoản 1 Điều 7 của Luật Thư viện
 
-**Chỉ mục:** 31
+(Điều 31 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000010000070000000000000000000802729400020003100
+1. Tài nguyên thông tin chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt nam có nội dung:
 
-**ID:** dk_00070964
+a) Xuyên tạc chủ trương, chính sách, pháp luật của Nhà nước; bịa đặt, gây hoang mang trong nhân dân;
 
----
+b) Xuyên tạc lịch sử, phủ nhận thành tựu cách mạng; xúc phạm dân tộc, anh hùng dân tộc, phỉ báng, phủ nhận chính quyền nhân dân;
 
+c) Gây chiến tranh tâm lý, kích động chiến tranh nhằm chống lại độc lập, chủ quyền và toàn vẹn lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-### Điều 41.12.TT.5.32. Nguyên tắc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện
+d) Gây chia rẽ giữa các tầng lớp nhân dân, giữa nhân dân với chính quyền nhân dân, với lực lượng vũ trang nhân dân, với tổ chức chính trị, tổ chức chính trị - xã hội.
+
+2. Tài nguyên thông tin về vấn đề dân tộc, tôn giáo có nội dung:
+
+a) Gây hằn thù, kỳ thị, chia rẽ, ly khai dân tộc, xâm phạm quyền bình đẳng trong cộng đồng các dân tộc Việt Nam;
+
+b) Kích động, chia rẽ đoàn kết dân tộc, tôn giáo; gây chia rẽ người theo tôn giáo với người không theo tôn giáo, giữa người theo các tôn giáo khác nhau, chia rẽ các tín đồ tôn giáo với chính quyền nhân dân, với tổ chức chính trị, tổ chức chính trị - xã hội; xúc phạm niềm tin tín ngưỡng, tôn giáo;
+
+c) Hoạt động tổ chức tôn giáo trái phép; hoạt động tôn giáo của tổ chức, cá nhân có liên quan đến an ninh quốc gia;
+
+d) Phá hoại việc thực hiện chính sách đoàn kết quốc tế.
+
+3. Tài nguyên thông tin về vấn đề xã hội, chính trị, văn hóa, khoa học có nội dung:
+
+a) Vu khống, xúc phạm uy tín của cơ quan, tổ chức hoặc danh dự và nhân phẩm của cá nhân;
+
+b) Kích động bạo lực; tuyên truyền lối sống đồi trụy; miêu tả tỉ mỉ những hành động dâm ô, hành vi tội ác; không phù hợp với thuần phong mỹ tục Việt Nam;
+
+c) Chưa được phổ biến thuộc các đề án, dự án, chương trình, kế hoạch và đề tài nghiên cứu khoa học có liên quan đến đến biên giới, chủ quyền lãnh thổ quốc gia, quốc phòng và an ninh quốc gia; ảnh hưởng đến lợi ích của quốc gia, dân tộc;
+
+d) Cổ súy các hủ tục, mê tín, dị đoan; gây hoang mang trong xã hội, ảnh hưởng xấu đến trật tự, an toàn xã hội và sức khỏe của cộng đồng.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.7. Tài nguyên thông tin hạn chế sử dụng trong thư viện)
 
 Điều 41.12.TT.5.32. Nguyên tắc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện
 
-**Chỉ mục:** 32
+(Điều 32 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000010000070000000000000000000802729400020003200
+1. Đối với tài nguyên thông tin hạn chế sử dụng quy định tại điểm a và điểm b khoản 1 Điều 7 của Luật Thư viện, người sử dụng thư viện phải tuân thủ những quy định sau:
 
-**ID:** dk_00070965
+a) Chỉ được sử dụng cho mục đích nghiên cứu khoa học hoặc các nhiệm vụ chính trị do cơ quan nhà nước có thẩm quyền phê duyệt;
 
----
+b) Phải có giấy giới thiệu, văn bản đề nghị của cơ quan nhà nước, tổ chức chủ quản, tổ chức chính trị nơi học tập, công tác, sinh hoạt hoặc được sự đồng ý bằng văn bản của người đứng đầu thư viện theo quy chế khai thác tài nguyên thông tin hạn chế sử dụng của thư viện;
 
+c) Thực hiện các quy định về bảo mật trong quá trình khai thác tài nguyên thông tin, không sao chụp, phát tán, phổ biến tài nguyên thông tin lên không gian mạng và các phương tiện thông tin đại chúng khác;
 
-### Điều 41.12.LQ.8. Các hành vi bị nghiêm cấm trong hoạt động thư viện
+d) Chỉ đọc tại chỗ, tại phòng riêng biệt theo nội quy của thư viện.
+
+2. Đối với tài nguyên thông tin hạn chế sử dụng quy định tại điểm c và điểm d khoản 1 Điều 7 của Luật Thư viện, người sử dụng thư viện phải sử dụng bản sao, bản số hóa theo quy định của thư viện.
 
 Điều 41.12.LQ.8. Các hành vi bị nghiêm cấm trong hoạt động thư viện
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000100000800000000000000000
+1. Lợi dụng hoạt động thư viện để xuyên tạc chủ trương, chính sách, pháp luật của Nhà nước, chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; chia rẽ khốiđạiđoàn kết toàn dân tộc; kíchđộng bạo lực, gây thù hằn giữa các dân tộc, tôn giáo; tuyên truyền chiến tranh xâm lược; phá hoại thuần phong mỹ tục; truyền bá mê tín; lôi kéo người sử dụng thư viện vào tệ nạn xã hội.
 
-**ID:** dk_00070966
+2. Cung cấp tài nguyên thông tin thuộc bí mật nhà nước, trừ trường hợp pháp luật có quy định khác.
 
----
+3. Hạn chếquyền tiếp cận và sử dụng tài nguyên thông tin của người sử dụng thư viện trái với quy định của pháp luật.
 
+4. Cung cấp thông tin về người sử dụng thư viện, trừ trường hợp theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
-### Điều 41.12.LQ.9. Các loại thư viện
+5. Chiếm dụng, đánh tráo, hủy hoại, làm hư hỏng tài nguyên thông tin.
 
-*Nội dung chưa có sẵn*
+6. Xâmnhập tráiphép vào hệ thốngthôngtinthư viện, cơ sở dữliệu thư viện; làm sai lệch, gián đoạn hoặc phá hoại hệ thống thông tin thư viện, cơ sở dữ liệu thư viện.
 
-**Chỉ mục:** 9
+Chương II
 
-**Mã phân cấp:** 410120000000000020000010000000000000000000900000000000000000
+THÀNH LẬP THƯ VIỆN
 
-**ID:** dk_00070969
+Mục 1
 
----
+MẠNG LƯỚI THƯ VIỆN
 
+Điều 41.12.LQ.9. Các loại thư viện
 
-### Điều 41.12.LQ.10. Thư viện Quốc gia Việt Nam
+(Điều 9 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-*Nội dung chưa có sẵn*
+1. Thư viện bao gồm các loại sau đây:
 
-**Chỉ mục:** 10
+a) Thư viện Quốc gia Việt Nam;
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001000000000000000000
+b) Thư viện công cộng;
 
-**ID:** dk_00070970
+c) Thư viện chuyên ngành;
 
----
+d) Thư viện lực lượng vũ trang nhân dân;
 
+đ) Thư viện cơ sở giáo dục đại học (sau đây gọi là thư viện đại học);
 
-### Điều 41.12.LQ.11. Thư viện công cộng
+e) Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sởgiáo dục nghề nghiệp và cơ sở giáo dục khác;
 
-*Nội dung chưa có sẵn*
+g) Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng;
 
-**Chỉ mục:** 11
+h) Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam.
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001100000000000000000
+2. Thư viện được tổ chức theo các mô hình sau đây:
 
-**ID:** dk_00070971
+a) Thư viện công lập do Nhà nước đầu tư, bảo đảm điều kiện hoạt động và đại diện chủ sở hữu được tổchức theo mô hình đơn vị sự nghiệp công lập hoặc phù hợp với mô hình của cơ quan, tổ chức chủ quản;
 
----
+b) Thư viện ngoài công lập do tổ chức, cá nhân Việt Nam hoặc tổ chức, cá nhân nước ngoài, cộng đồng dân cư đầu tư, bảo đảm điều kiện hoạt động và được tổ chức theo mô hình doanh nghiệp, tổ chức sự nghiệp ngoài công lập hoặc mô hình khác.
 
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.30. Phương thức liên thông thư viện của Nghị định 93/2020/NĐ-CP Quy định chi tiết một số điều của Luật Thư viện ban hành ngày 18/08/2020; Điều 41.12.TT.5.2. Đối tượng áp dụng của Thông tư 02/2020/TT-BVHTTDL Quy định về bảo quản, thanh lọc tài nguyên thông tin và tài nguyên thông tin hạn chế sử dụng trong thư viện. ban hành ngày 25/05/2020; Điều 41.12.TT.6.2. Đối tượng áp dụng của Thông tư 05/2020/TT-BVHTTDL Quy định về đánh giá hoạt động thư viện ban hành ngày 28/08/2020; Điều 41.12.TT.8.2. Đối tượng áp dụng của Thông tư 05/2022/TT-BVHTTDL hướng dẫn hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin ban hành ngày 04/08/2022; Điều 41.12.TT.10.1. của Thông tư 16/2023/TT-BVHTTDL ban hành Quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn triển khai việc thực hiện cung cấp dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập ban hành ngày 29/12/2023; Điều 41.12.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng)
 
-### Điều 41.12.TT.2.2. Tên gọi của thư viện công cộng các cấp
+Điều 41.12.LQ.10. Thư viện Quốc gia Việt Nam
+
+(Điều 10 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Thư viện Quốc gia Việt Nam là thư viện trung tâm của cả nước.
+
+2. Thư viện Quốc gia Việt Nam thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Tiếp nhận, bảo quản, lưu giữ vĩnh viễn xuất bản phẩm, ấn phẩm báo chí được xuất bản tại Việt Nam theo quy định của pháp luật; luận án tiến sĩ của công dân Việt Nam bảo vệởtrong nước và nước ngoài; luận án tiến sĩ của người nước ngoài bảo vệ tại Việt Nam;
+
+b) Bổ sung và phổ biến tài liệu về Việt Nam, tài liệu tiêu biểu của nước ngoài;
+
+c) Xây dựng hệ thống thôngtin thư mục quốc gia; chủtrì, phốihợp với thư viện của các Bộ, ngành vàthư viện khác trong nước xây dựng Tổng mục lục Việt Nam; công bố, chia sẻ thông tin thư mục quốc gia, tài nguyên thông tin số cho thư viện cónhu cầu, trừ tài nguyên thông tin hạn chế sử dụng theo quy định của Luật này và pháp luật về bảo vệ bí mật nhà nước, tiếp cận thông tin, lưu trữ;
+
+d) Nghiên cứu khoa học thông tin thư viện;
+
+đ) Thực hiện biên mục tập trung; chủ trì, phối hợp với các thư viện xây dựng và phát triển cơ sở dữ liệu toàn văn, thư viện số;
+
+e) Hợp tác, trao đổi tài nguyên thông tin với thư viện trong nước và nước ngoài; tham gia diễn đàn, tổ chức xã hội - nghề nghiệp về thư viện theo quy định của pháp luật;
+
+g) Hướng dẫn chuyên môn, nghiệp vụ cho các thư viện trong cả nước theo phân công và thực hiện nhiệm vụ khác do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch giao.
+
+Điều 41.12.LQ.11. Thư viện công cộng
+
+(Điều 11 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Thư viện công cộng là thư viện có tài nguyên thông tin tổng hợp phục vụ Nhân dân.
+
+2. Thư viện cấp tỉnh là thư viện trung tâm của tỉnh, thành phố trực thuộc trung ương, thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Thu thập tài liệu cổ, quý hiếm; tài nguyên thông tin về tiếng nói, chữ viết của người dân tộc thiểu số; tài nguyên thông tin của địa phương và về địa phương;
+
+b) Xây dựng cơ sở dữ liệu, thư viện số về địa phương; phổ biến tài nguyên thông tin phục vụ phát triển kinh tế - xã hội địa phương;
+
+c) Hỗ trợ, hướng dẫn, trang bị kỹ năng tìm kiếm, khai thác và sử dụng thông tin cho người sử dụng thư viện;
+
+d) Tổ chức khu vực đọc phục vụ trẻ em, người khuyết tật;
+
+đ) Tham gia xâydựng thư viện công cộng huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là thư viện cấp huyện), thư viện công cộng xã, phường, thị trấn (sau đây gọi là thư viện cấp xã);
+
+e) Tổ chức thư viện lưu động, luân chuyển tài nguyên thông tin, tiện ích thư viện;
+
+g) Tổ chức triển lãm và hoạt động khác nhằm phát triển văn hóa đọc;
+
+h) Thực hiện liên thông với thư viện trong nước và nước ngoài;
+
+i) Hướng dẫn chuyên môn, nghiệp vụ cho thư viện trên địa bàn theo phân công và thực hiện nhiệm vụ khác do cơ quan nhà nước có thẩm quyền giao.
+
+3. Thư viện cấp huyện thực hiện chức năng,nhiệm vụ quy định tạiĐiều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Tiếp nhận tài nguyên thông tin, tiện ích thư viện từ thư viện cấp tỉnh;
+
+b) Luân chuyển tài nguyên thông tin đến thư viện trên địa bàn;
+
+c) Tổ chức hoạt động phục vụ nhu cầu học tập suốt đời của Nhân dân trên địa bàn;
+
+d) Thực hiện nhiệm vụ khác do cơ quan nhà nước có thẩm quyền giao.
+
+4. Thư viện cấp xã thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Tiếp nhận tài nguyên thông tin, tiện ích thư viện từ thư viện cấp tỉnh, thư viện cấp huyện và các nguồn hợp pháp khác;
+
+b) Luân chuyển tài nguyên thông tin đến thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng trên địa bàn;
+
+c) Tham gia xây dựng văn hóa đọc, hình thành thói quen đọc cho Nhân dân trên địa bàn;
+
+d) Thực hiện nhiệm vụ khác do cơ quan nhà nước cóthẩm quyền giao.
+
+(Điều này có nội dung liên quan đến Điều 6.3.LQ.38. Trách nhiệm của cơ sở văn hóa, thể dục, thể thao, giải trí và du lịch; Điều 41.12.NĐ.1.11. Điều kiện thành lập thư viện công cộng cấp tỉnh; Điều 41.12.NĐ.1.12. Điều kiện thành lập thư viện công cộng cấp huyện; Điều 41.12.NĐ.1.13. Điều kiện thành lập thư viện công cộng cấp xã; Điều 41.12.TT.7.3. Nhiệm vụ, quyền hạn)
 
 Điều 41.12.TT.2.2. Tên gọi của thư viện công cộng các cấp
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000200
+1. Tên gọi thư viện công cộng các cấp như sau: Thư viện + cấp hành chính + tên địa phương nơi đặt thư viện.
 
-**ID:** dk_00070972
-
----
-
-
-### Điều 41.12.TT.2.3. Đối tượng và yêu cầu phục vụ của thư viện công cộng các cấp
+2. Các trường hợp đặt tên khác do Ủy ban nhân dân cùng cấp xem xét quyết định. Việc đặt tên phải đảm bảo phù hợp với truyền thống lịch sử, văn hóa, đạo đức, thuần phong mỹ tục của dân tộc.
 
 Điều 41.12.TT.2.3. Đối tượng và yêu cầu phục vụ của thư viện công cộng các cấp
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000300
+1. Đối tượng phục vụ là mọi tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài có nhu cầu sử dụng vốn tài liệu thư viện.
 
-**ID:** dk_00070973
-
----
-
-
-### Điều 41.12.TT.2.4. Vị trí, chức năng của thư viện công cộng các cấp
+2. Thư viện công cộng các cấp tổ chức phục vụ bằng các hình thức đa dạng, phong phú; mở cửa thư viện theo đúng quy định tại Nội quy thư viện phù hợp với điều kiện lao động và sinh hoạt của nhân dân trên địa bàn, khuyến khích mở cửa phục vụ ngoài giờ hành chính; tạo điều kiện thuận lợi cho người sử dụng thư viện; không đặt ra các quy định hạn chế quyền sử dụng thư viện của người đọc.
 
 Điều 41.12.TT.2.4. Vị trí, chức năng của thư viện công cộng các cấp
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000400
+1. Thư viện công cộng các cấp do Ủy ban nhân dân cùng cấp quyết định thành lập, có chức năng thu thập, bảo quản, tổ chức khai thác và sử dụng vốn tài liệu, bao gồm tài liệu trong nước và nước ngoài theo quy định của pháp luật; xây dựng, hình thành thói quen đọc trong nhân dân; tham gia xây dựng và tổ chức việc luân chuyển tài liệu xuống cơ sở.
 
-**ID:** dk_00070974
+2. Thư viện công cộng các cấp giữ vai trò phối hợp hoạt động trao đổi tài liệu, nghiệp vụ với các thư viện khác trên địa bàn, trên cơ sở đảm bảo các tiêu chuẩn về thư viện cấp tương ứng theo quy định của pháp luật; được đầu tư xây dựng cơ sở vật chất và hoạt động bằng ngân sách nhà nước và các nguồn thu khác.
 
----
+Điều 41.12.TT.2.5. Kinh phí hoạt động
 
+(Điều 5 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-### Điều 41.12.TT.2.5. Kinh phí hoạt động
+Nguồn tài chính của thư viện công cộng các cấp bao gồm nguồn ngân sách nhà nước cấp và nguồn thu khác theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+1. Nguồn ngân sách nhà nước cấp bao gồm:
 
-**Chỉ mục:** 5
+a) Kinh phí hoạt động thường xuyên theo chức năng nhiệm vụ, các dịch vụ sự nghiệp công và kế hoạch được giao;
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000500
+b) Kinh phí đầu tư cơ sở hạ tầng và mua sắm trang thiết bị, phương tiện vận chuyển tài liệu phục vụ lưu động, vốn tài liệu thư viện, tuyên truyền giới thiệu sách, báo, luân chuyển vốn tài liệu, phục vụ lưu động và ứng dụng công nghệ thông tin và các hoạt động sự nghiệp theo kế hoạch đã được giao hàng năm.
 
-**ID:** dk_00070975
+2. Nguồn thu khác bao gồm:
 
----
+a) Thu từ phí làm thẻ thư viện;
 
+b) Thu từ các hoạt động cung ứng dịch vụ thư viện-thông tin, dịch vụ hỗ trợ khác phù hợp với chức năng, nhiệm vụ được giao theo quy định của pháp luật;
 
-### Điều 41.12.TT.2.6. Nhiệm vụ và quyền hạn của thư viện cấp xã
+c) Các khoản thu như nhận tài trợ, xã hội hóa, quà biếu, tặng của các tổ chức, cá nhân trong, ngoài nước và các khoản thu khác theo quy định của pháp luật.
+
+3. Việc thu, quản lý, sử dụng nguồn kinh phí được thực hiện theo quy định của pháp luật về tài chính, kế toán.
 
 Điều 41.12.TT.2.6. Nhiệm vụ và quyền hạn của thư viện cấp xã
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000600
+ 1. Các nhiệm vụ và quyền hạn theo quy định của Pháp lệnh thư viện số 31/2000/PL-UBTVQH10 ngày 28 tháng 12 năm 2000 (sau đây gọi là Pháp lệnh thư viện) và Nghị định số số 72/2002/NĐ-CP ngày 6 tháng 8 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh thư viện (sau đây gọi là Nghị định số 72/2002/NĐ-CP).
 
-**ID:** dk_00070976
+ 2. Tổ chức các hoạt động chuyên môn, nghiệp vụ của thư viện thuộc thẩm quyền theo quy định tại Thông tư số 18/2014/TT-BVHTTDL ngày 08 tháng 12 năm 2014 của Bộ Văn hóa, Thể thao và Du lịch.
 
----
+ 3. Căn cứ chương trình phát triển kinh tế, văn hóa, xã hội của địa phương, kế hoạch công tác hàng năm của Ủy ban nhân dân cấp xã, của Ban Văn hóa-xã hội và kế hoạch hoạt động của thư viện tại địa phương để xây dựng kế hoạch hoạt động và tổ chức thực hiện sau khi được phê duyệt.
 
+ 4. Thực hiện báo cáo định kỳ 6 tháng, hàng năm và báo cáo đột xuất, báo cáo chuyên đề về tình hình hoạt động của thư viện với cơ quan chủ quản và thư viện cấp huyện.
 
-### Điều 41.12.TT.2.7. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp xã
+ 5. Thực hiện các nhiệm vụ khác phù hợp với chức năng, nhiệm vụ của thư viện theo sự phân công của cơ quan chủ quản.Điều 41.12.TT.2.7. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp xã
 
-Điều 41.12.TT.2.7. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp xã
+(Điều 7 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Chỉ mục:** 7
+ 1. Xây dựng và phát triển vốn tài liệu của thư viện:
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000700
+ a) Xây dựng kế hoạch bổ sung vốn tài liệu từ nguồn ngân sách phù hợp với trình độ và nhu cầu của nhân dân, với đặc điểm và yêu cầu phát triển kinh tế, văn hóa, xã hội của địa phương; trình cơ quan chủ quản để đưa vào kế hoạch xây dựng phát triển vốn tài liệu hàng năm;
 
-**ID:** dk_00070977
+ b) Tăng cường vốn tài liệu thông qua việc tiếp nhận sách, báo luân chuyển từ thư viện tỉnh, huyện; sách báo do các tổ chức, cá nhân trong và ngoài nước tài trợ, biếu, tặng hoặc trao đổi với các thư viện, phòng đọc sách khác trên địa bàn;
 
----
+ c) Tổ chức khảo sát nhu cầu của người sử dụng trên địa bàn để xây dựng kế hoạch bổ sung cho phù hợp;
 
+ d) Tham gia và phối hợp hỗ trợ thư viện cấp tỉnh, cấp huyện trong việc xây dựng và phát triển vốn tài liệu địa chí của địa phương;
 
-### Điều 41.12.TT.2.8. Quan hệ công tác của thư viện cấp xã
+ 2. Xử lý thông tin và tổ chức bộ máy tra cứu:
 
-Điều 41.12.TT.2.8. Quan hệ công tác của thư viện cấp xã
+ a) Tổ chức hình thức tra cứu phù hợp, tối thiểu có danh mục tài liệu trong thư viện. Khuyến khích ứng dụng công nghệ thông tin trong xây dựng hệ thống tra cứu điện tử;
 
-**Chỉ mục:** 8
+ b) Khuyến khích sử dụng kết quả xử lý kỹ thuật, xử lý hình thức của thư viện cấp tỉnh, cấp huyện và kết quả xử lý của các thư viện đầu ngành để đảm bảo tính chính xác, thống nhất, tiết kiệm thời gian, công sức và kinh phí.
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000800
+ 3. Tổ chức sắp xếp tài liệu khoa học, thuận tiện cho người sử dụng, phải đảm bảo tối thiểu các bộ phận kho tài liệu người lớn và kho tài liệu thiếu nhi.
 
-**ID:** dk_00070978
+ 4. Xây dựng và triển khai các biện pháp bảo quản tài liệu, phòng cháy chữa cháy; thực hiện kiểm kê, thanh lọc tài liệu phù hợp với quy mô, số lượng, tính chất tài liệu của thư viện theo quy định pháp luật.
 
----
+ 6. Tổ chức các hoạt động giới thiệu, thông báo sách, báo, tài liệu mới cho người sử dụng thư viện.
 
+ 7. Tổ chức hoặc phối hợp tổ chức các hoạt động thông tin, tuyên truyền theo kế hoạch hoặc yêu cầu của cơ quan chủ quản; xây dựng phong trào và hình thành thói quen đọc và làm theo sách, báo của nhân dân trên địa bàn.
 
-### Điều 41.12.TT.2.9. Nhiệm vụ và quyền hạn của thư viện cấp huyện
+ 8. Tham gia xây dựng và phát triển mạng lưới tủ sách, phòng đọc sách khu dân cư. Phát huy vai trò là điểm luân chuyển tài liệu trong mạng lưới thư viện trên địa bàn.
+
+ 9. Thực hiện chế độ báo cáo thống kê theo quy định, tăng cường ứng dụng công nghệ thông tin trong công tác báo cáo thống kê.Điều 41.12.TT.2.8. Quan hệ công tác của thư viện cấp xã
+
+(Điều 8 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
+
+1. Chịu sự chỉ đạo, quản lý về tổ chức, biên chế và hoạt động của Ủy ban nhân dân cấp xã hoặc Ban Văn hóa-xã hội theo phân cấp của Ủy ban nhân dân cấp xã.
+
+2. Chịu sự hướng dẫn, kiểm tra hoạt động của Phòng Văn hóa-Thông tin cấp huyện và hướng dẫn về chuyên môn nghiệp vụ của thư viện cấp tỉnh, cấp huyện trên địa bàn.
+
+3. Phối hợp công tác với các thư viện, tủ sách thuộc các cơ quan, tổ chức, cá nhân trên địa bàn để phục vụ, đáp ứng các yêu cầu hợp pháp của các tổ chức và cá nhân đến liên hệ công tác tại thư viện xã.
+
+**Mục 2. THƯ VIỆN CẤP HUYỆN**
 
 Điều 41.12.TT.2.9. Nhiệm vụ và quyền hạn của thư viện cấp huyện
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130000900
+1. Các nhiệm vụ và quyền hạn theo quy định của Pháp lệnh thư viện và Nghị định số 72/2002/NĐ-CP.
 
-**ID:** dk_00070979
+2. Tổ chức các hoạt động chuyên môn, nghiệp vụ của thư viện thuộc thẩm quyền theo quy định tại Thông tư số 18/2014/TT-BVHTTDL ngày 08 tháng 12 năm 2014 của Bộ Văn hóa, Thể thao và Du lịch.
 
----
+3. Căn cứ quy hoạch, kế hoạch phát triển mạng lưới thư viện đã được phê duyệt, chương trình phát triển kinh tế, văn hóa, xã hội của địa phương để xây dựng kế hoạch hoạt động dài hạn, ngắn hạn của thư viện trình Ủy ban nhân dân cấp huyện và tổ chức thực hiện sau khi được phê duyệt.
 
+4. Thực hiện báo cáo định kỳ 6 tháng, hằng năm và báo cáo đột xuất về tình hình hoạt động của thư viện huyện và các thư viện cấp xã trên toàn huyện với cơ quan chủ quản và thư viện tỉnh theo phân cấp.
 
-### Điều 41.12.TT.2.10. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp huyện
+5. Đối với thư viện có tư cách pháp nhân có nhiệm vụ quản lý tổ chức, nhân sự, tài chính, tài sản của thư viện và được ký kết hợp đồng lao động, quản lý lao động hợp đồng theo quy định của pháp luật và phân cấp của cơ quan có thẩm quyền.
+
+6. Thực hiện các nhiệm vụ khác phù hợp với chức năng, nhiệm vụ của thư viện theo sự phân công của cơ quan chủ quản.
 
 Điều 41.12.TT.2.10. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp huyện
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130001000
+1. Xây dựng và phát triển vốn tài liệu của thư viện:
 
-**ID:** dk_00070980
+a) Xây dựng và trình cơ quan chủ quản kế hoạch bổ sung vốn tài liệu từ nguồn ngân sách phù hợp với trình độ và nhu cầu của nhân dân, với đặc điểm và yêu cầu phát triển kinh tế, văn hóa, xã hội của địa phương; tổ chức khảo sát nhu cầu của người sử dụng trên địa bàn để xây dựng diện bổ sung cho phù hợp;
 
----
+b) Bổ sung vốn tài liệu thông qua việc đặt mua, trao đổi, nhận biếu tặng từ các nhà xuất bản, cơ quan phát hành, các tổ chức, cá nhân trong và ngoài nước theo quy định của pháp luật; tiếp nhận tài liệu luân chuyển của thư viện tỉnh và các thư viện khác trên địa bàn;
 
+c) Ứng dụng công nghệ thông tin trong công tác thư viện, phối hợp với các đơn vị có năng lực tổ chức chuyển dạng tài liệu đặc thù của địa phương theo quy định pháp luật;
 
-### Điều 41.12.TT.2.11. Quan hệ công tác của thư viện cấp huyện
+d) Sưu tầm, bổ sung, tham gia và phối hợp thư viện các cấp trong việc xây dựng và phát triển vốn tài liệu địa chí của địa phương;
+
+2. Xử lý thông tin và tổ chức bộ máy tra cứu:
+
+a) Thực hiện xử lý tài liệu theo đúng quy tắc, quy chuẩn, yêu cầu về tiêu chuẩn nghiệp vụ thư viện. Khuyến khích sử dụng kết quả xử lý tài liệu của thư viện cấp tỉnh, Thư viện Quốc gia Việt Nam và các thư viện đầu ngành để đảm bảo tính chính xác, thống nhất, tiết kiệm thời gian, công sức và kinh phí;
+
+b) Tổ chức bộ máy tra cứu phù hợp quy mô và hình thức phục vụ của thư viện, khuyến khích xây dựng mục lục chữ cái, mục lục phân loại. Khuyến khích ứng dụng công nghệ thông tin trong xây dựng các cơ sở dữ liệu, mục lục điện tử.
+
+3. Tổ chức kho đảm bảo tối thiểu các bộ phận: kho báo/tạp chí, kho tài liệu thiếu nhi, kho tài liệu người lớn. Khuyến khích thành lập kho luân chuyển.
+
+4. Xây dựng kế hoạch hàng năm để bảo vệ môi trường, hệ thống kho tàng, xây dựng các phương án bảo quản tài liệu, phòng cháy chữa cháy trong thư viện, thực hiện kiểm kê, thanh lọc tài liệu phù hợp với quy mô, số lượng, tính chất tài liệu của thư viện theo quy định pháp luật.
+
+5. Cung cấp các sản phẩm và dịch vụ thư viện:
+
+a) Biên soạn và xuất bản các ấn phẩm thông tin thư mục;
+
+b) Triển khai các dịch vụ: đọc tại chỗ; mượn về nhà; sử dụng máy tính và truy nhập internet; luân chuyển sách, báo, tài liệu khác.
+
+6. Xây dựng và phát triển mạng lưới thư viện cấp xã, tủ sách cơ sở, thư viện tư nhân có phục vụ cộng đồng trên địa bàn. Tổ chức tốt công tác luân chuyển sách báo trên địa bàn.
+
+7. Triển khai các hình thức tiếp thị và truyền thông vận động bao gồm: triển lãm, trưng bày sách, báo, tư liệu, tuyên truyền giới thiệu sách, tổ chức ngày hội đọc sách, thiếu nhi kể chuyện theo sách.
+
+8. Thực hiện chế độ báo cáo thống kê theo quy định, tăng cường ứng dụng công nghệ thông tin trong công tác báo cáo thống kê.
 
 Điều 41.12.TT.2.11. Quan hệ công tác của thư viện cấp huyện
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802603100130001100
+1. Chịu sự chỉ đạo, quản lý về tổ chức, biên chế và hoạt động thư viện của Ủy ban nhân dân cấp huyện hoặc Phòng Văn hóa và Thông tin hoặc Trung tâm Văn hóa-Thông tin hoặc Trung tâm Văn hóa-Thể thao cấp huyện theo phân cấp.
 
-**ID:** dk_00070981
+2. Chịu sự kiểm tra, hướng dẫn của Phòng Văn hóa và Thông tin và hướng dẫn nghiệp vụ của thư viện cấp tỉnh theo sự phân công của Sở Văn hóa, Thể thao và Du lịch hoặc Sở Văn hóa và Thể thao.
 
----
+3. Hướng dẫn về chuyên môn, nghiệp vụ cho các thư viện, phòng đọc sách ở cơ sở theo kế hoạch đã được cơ quan có thẩm quyền phê duyệt.
 
+4. Phối hợp công tác, trao đổi tài liệu với các thư viện của các cơ quan, tổ chức, cá nhân khác trên địa bàn huyện.
 
-### Điều 41.12.TT.7.2. Chức năng
+Điều 41.12.TT.7.2. Chức năng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 09/2021/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/12/2021)
 
-**Chỉ mục:** 2
+ Thư viện cấp tỉnh là đơn vị sự nghiệp công lập thuộc Sở Văn hóa, Thể thao và Du lịch hoặc Sở Văn hóa và Thể thao (sau đây gọi là Sở Văn hóa, Thể thao và Du lịch), có chức năng xây dựng, xử lý, lưu giữ, bảo quản, kết nối và tổ chức khai thác, sử dụng tài nguyên thông tin phù hợp với đặc điểm, yêu cầu xây dựng và phát triển kinh tế - xã hội của địa phương.
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802777900090000200
+ Thư viện cấp tỉnh có tư cách pháp nhân, có con dấu và được mở tài khoản tại Kho bạc Nhà nước và ngân hàng theo quy định của pháp luật.Điều 41.12.TT.7.3. Nhiệm vụ, quyền hạn
 
-**ID:** dk_00070982
+(Điều 3 Thông tư số 09/2021/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/12/2021)
 
----
+ Thư viện cấp tỉnh thực hiện nhiệm vụ, quyền hạn theo quy định tại khoản 2 Điều 11, Điều 38 và Điều 39 của Luật Thư viện và các nhiệm vụ, quyền hạn sau:
 
+ 1. Xây dựng kế hoạch hoạt động, kế hoạch phát triển trung hạn, ngắn hạn, hàng năm của thư viện cấp tỉnh trình Giám đốc Sở Văn hóa, Thể thao và Du lịch phê duyệt và tổ chức thực hiện sau khi được phê duyệt;
 
-### Điều 41.12.TT.7.3. Nhiệm vụ, quyền hạn
+ 2. Phối hợp với phòng chuyên môn quản lý văn hóa thuộc Sở Văn hóa, Thể thao và Du lịch tham mưu cho Giám đốc Sở Văn hóa, Thể thao và Du lịch trình Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương các đề án, kế hoạch dài hạn, trung hạn, các định hướng phát triển mạng lưới thư viện công cộng trên địa bàn;
 
-*Nội dung chưa có sẵn*
+ 3. Hướng dẫn các thư viện công cộng trên địa bàn thực hiện quy định, định hướng, chỉ đạo về công tác thư viện của cơ quan quản lý nhà nước về thư viện ở trung ương và địa phương. Tham gia phát triển mạng lưới thư viện, hỗ trợ về chuyên môn, nghiệp vụ cho các thư viện và tổ chức, cá nhân có nhu cầu thành lập thư viện trên địa bàn;
 
-**Chỉ mục:** 3
+ 4. Tham gia xây dựng, bảo tồn và phát huy giá trị văn hóa thành văn, tài liệu cổ quý hiếm, bộ sưu tập có giá trị đặc biệt của địa phương; các tài nguyên thông tin xuất bản tại địa phương, viết về địa phương hoặc do nhân dân địa phương sáng tạo;
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802777900090000300
+ 5. Tổ chức các hoạt động chuyên môn, nghiệp vụ, cung ứng các dịch vụ sự nghiệp công trong lĩnh vực thư viện theo quy định của pháp luật;
 
-**ID:** dk_00070983
+ 6. Thực hiện xã hội hóa, vận động thu hút các tổ chức, cá nhân tham gia xây dựng, phát triển thư viện và văn hóa đọc theo quy định của pháp luật;
 
----
+ 7. Đánh giá hoạt động thư viện, nhu cầu sử dụng tài nguyên thông tin, sản phẩm và dịch vụ thông tin thư viện của người sử dụng;
 
+ 8. Ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ, chuyển đổi số trong hoạt động thư viện; xây dựng tài nguyên thông tin số, tài nguyên thông tin mở, thư viện số theo quy định của pháp luật;
 
-### Điều 41.12.TT.7.4. Cơ cấu tổ chức
+ 9. Tham gia hợp tác quốc tế trong lĩnh vực thư viện, các hoạt động của các tổ chức quốc tế về thư viện; xây dựng và tiếp nhận các dự án tài trợ tài nguyên thông tin, trang thiết bị thư viện và dự án đào tạo, bồi dưỡng người làm công tác thư viện do tổ chức nước ngoài tài trợ theo quy định của pháp luật;
 
-*Nội dung chưa có sẵn*
+ 10. Báo cáo định kỳ hoặc báo cáo đột xuất về tình hình hoạt động của thư viện với cơ quan quản lý nhà nước có thẩm quyền theo quy định của pháp luật;
 
-**Chỉ mục:** 4
+ 11. Quản lý tổ chức bộ máy, nhân sự, thực hiện chế độ chính sách đối với viên chức và người lao động thuộc phạm vi quản lý của thư viện theo quy định của pháp luật và phân cấp quản lý của Sở Văn hóa, Thế thao và Du lịch;
 
-**Mã phân cấp:** 41012000000000002000001000000000000000000110000000000000000000802777900090000400
+ 12. Thực hiện các nhiệm vụ khác do Giám đốc Sở Văn hóa, Thể thao và Du lịch giao.(Điều này có nội dung liên quan đến Điều 41.12.LQ.11. Thư viện công cộng; Điều 41.12.LQ.38. Quyền của thư viện; Điều 41.12.LQ.39. Trách nhiệm của thư viện)
 
-**ID:** dk_00070984
+Điều 41.12.TT.7.4. Cơ cấu tổ chức
 
----
+(Điều 4 Thông tư số 09/2021/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/12/2021)
 
+ 1. Lãnh đạo thư viện cấp tỉnh có Giám đốc và các Phó Giám đốc theo quy định.
 
-### Điều 41.12.LQ.12. Thư viện chuyên ngành
+ 2. Các tổ chức chuyên môn, nghiệp vụ trực thuộc thư viện cấp tỉnh:
 
-*Nội dung chưa có sẵn*
+ Thư viện cấp tỉnh có các tổ chức chuyên môn, nghiệp vụ để triển khai thực hiện hoạt động theo nhóm nhiệm vụ sau:
 
-**Chỉ mục:** 12
+ a) Nhóm nhiệm vụ kỹ thuật - nghiệp vụ: thực hiện các công việc về xây dựng, xử lý, tổ chức, bảo quản tài nguyên thông tin; hướng dẫn, tư vấn, hỗ trợ phát triển mạng lưới thư viện;
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001200000000000000000
+ b) Nhóm nhiệm vụ công nghệ - truyền thông: thực hiện các công việc liên quan đến ứng dụng công nghệ thông tin, chuyển đổi số; quản trị cơ sở dữ liệu, hạ tầng công nghệ thông tin, liên thông, liên kết chia sẻ tài nguyên thông tin với các thư viện khác; thực hiện công tác truyền thông, vận động, xã hội hóa, thu hút các tổ chức, cá nhân tham gia xây dựng thư viện và phát triển văn hóa đọc;
 
-**ID:** dk_00070985
+ c) Nhóm nhiệm vụ phục vụ người sử dụng: thực hiện các công việc cung ứng tài nguyên thông tin theo hình thức phục vụ, nhóm đối tượng chuyên biệt hoặc loại hình tài nguyên thông tin; phát triển sản phẩm và dịch vụ thông tin thư viện; thực hiện đánh giá nhu cầu sử dụng thông tin của người sử dụng;
 
----
+ d) Nhóm nhiệm vụ hành chính - quản trị: thực hiện các công việc thống kê, tổng hợp, cấp thẻ sử dụng thư viện, đánh giá hoạt động thư viện, hợp tác quốc tế về thư viện; các hoạt động nghiệp vụ hành chính, văn thư, lưu trữ, tổ chức cán bộ, kế toán và các hoạt động quản trị nội bộ khác.
 
+ Việc xây dựng cơ cấu tổ chức của thư viện cấp tỉnh phải bảo đảm tính đầy đủ về nội dung các nhóm nhiệm vụ quy định tại khoản này và đáp ứng các tiêu chí thành lập phòng thuộc đơn vị sự nghiệp công lập theo quy định của pháp luật về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập.
 
-### Điều 41.12.LQ.13. Thư viện lực lượng vũ trang nhân dân
+ Căn cứ chức năng, nhiệm vụ, quyền hạn, số lượng người làm việc và tính chất, đặc điểm, điều kiện thực tế, Giám đốc thư viện cấp tỉnh trình cấp có thẩm quyền quy định cụ thể cơ cấu tổ chức của thư viện theo quy định của pháp luật.Điều 41.12.LQ.12. Thư viện chuyên ngành
+
+(Điều 12 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Thư viện chuyên ngành là thư viện có tài nguyên thông tin chuyên sâu về một ngành, lĩnh vực hoặc nhiều ngành, lĩnh vực phục vụ cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức chủ quản.
+
+Thư viện chuyên ngành gồm thư viện của cơ quan nhà nước; thư viện của tổ chức khoa học và công nghệ; thư viện của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; thư viện của tổ chức kinh tế.
+
+2. Thư viện chuyên ngành thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Phát triển tài nguyên thông tin phù hợp với chuyên ngành phục vụ; tiếp nhận, bổsung và tổ chức khai thác tài nguyên thôngtin từ hoạt động nghiên cứu, công bố khoa học, tài liệu hội nghị, hội thảo, báo cáo nghiên cứu, khảo sát của cán bộ nghiên cứu, cơ quan, tổ chức chủ quản và đề án, dự án, tạp chí chuyên ngành của cơ quan, tổ chức chủ quản;
+
+b) Xây dựng cơ sở dữ liệu, thư viện số chuyên ngành nội sinh; bổ sung và mua quyền truy cập tài nguyên thông tin chuyên ngành nước ngoài;
+
+c) Thực hiện liên thông với thư viện trong nước và nước ngoài;
+
+d) Thực hiện nhiệm vụ khác do cơ quan, tổ chức chủ quản giao.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.14. Điều kiện thành lập thư viện chuyên ngành)
 
 Điều 41.12.LQ.13. Thư viện lực lượng vũ trang nhân dân
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001300000000000000000
+1. Thư viện lực lượng vũ trang nhân dân là thư viện của các đơn vị Quân đội nhân dân và Công an nhân dân, cótài nguyên thôngtintổng hợp, chuyên ngành quốc phòng, an ninh phục vụ cán bộ, chiến sĩ và Nhân dân trên địa bàn, người đang chấp hành hình phạt tù, học tập, cải tạo trong cơ sởgiam giữ, trường giáo dưỡng.
 
-**ID:** dk_00070986
+2. Thư viện lực lượng vũ trang nhân dân thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
 
----
+a)Phát triển tài nguyên thông tin phù hợp với yêu cầu nhiệm vụ được giao; tiếp nhận, bổ sung và tổ chức khai thác tài nguyên thông tin chuyên ngành quốc phòng, an ninh trong nước và nước ngoài; tài liệu hội nghị, hội thảo, báo cáo nghiên cứu, khảo sát và đề án, dự án, tạp chí chuyên ngành của lực lượng vũ trang nhân dân theo quy định;
 
+b) Xây dựng cơ sở dữ liệu, thư viện số chuyên ngành nội sinh; bổ sung và mua quyền truy cập tài nguyên thông tin chuyên ngành quốc phòng, an ninh;
 
-### Điều 41.12.LQ.14. Thư viện đại học
+c) Thực hiện liên thông giữa các thư viện trong cùng hệ thống, chia sẻ tài nguyên thông tin với thư viện trong nước và nước ngoài;
 
-*Nội dung chưa có sẵn*
+d) Thực hiện nhiệm vụ khác do cơ quan chủ quản giao.
 
-**Chỉ mục:** 14
+Điều 41.12.LQ.14. Thư viện đại học
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001400000000000000000
+(Điều 14 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**ID:** dk_00070987
+1. Thư viện đại học là thư viện có tài nguyên thông tin phục vụ người học và người dạy trong cơ sở giáo dục đại học.
 
----
+2. Thư viện đại học thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
 
+a) Phát triển tài nguyên thông tin phù hợp với mục tiêu, nội dung, chương trình, lĩnh vực, ngành đào tạo, nghiên cứu khoa học và phát triển công nghệ của cơ sở giáo dục đại học;
 
-### Điều 41.12.LQ.15. Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác
+b) Tiếp nhận, bổ sung và tổ chức khai thác khóa luận, đồ án, luận văn, luận án, kết quả nghiên cứu khoa học của người học và người dạytrong cơ sở giáo dục đại học; xây dựng tài liệu nội sinh, cơ sở dữ liệu học liệu, tài nguyên học liệu mở;
+
+c) Tổ chức không gian đọc; hướng dẫn sử dụng sản phẩm thư viện và dịch vụ thư viện; hoàn thiện kỹ năng tìm kiếm, khai thác và sử dụng thông tin; củng cố, mở rộng kiến thức cho người học, người dạy và cán bộ quản lý;
+
+d) Thực hiện liên thông với thư viện trong nước và nước ngoài;
+
+đ) Thực hiện nhiệm vụ khác do cơ sở giáo dục đại học giao.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.16. Điều kiện thành lập thư viện đại học)
 
 Điều 41.12.LQ.15. Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001500000000000000000
+1. Thư viện cơ sởgiáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác là thư viện có tài nguyên thông tin phục vụ người học và ngườidạy trongcơ sởgiáo dục.
 
-**ID:** dk_00070988
+2. Thư viện cơ sở giáo dục mầmnon thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
 
----
+a) Phát triển tài nguyên thông tin phù hợp với độ tuổi, tâm lý của trẻ em mầm non; nhu cầu thông tin, tài liệu của người dạy, cán bộ quản lý và chương trình giáo dục của cơ sở giáo dục;
 
+b) Tổ chức hoạt động làm quen với sách và hình thành thói quen đọc củatrẻ em mầm non; hướng dẫn sử dụng thư viện, trang bị kỹ năng tìm kiếm, khai thác, sử dụng thông tin cho người dạy và cán bộ quản lý;
 
-### Điều 41.12.LQ.16. Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng
+c) Thực hiện nhiệm vụ khác do cơ sở giáo dục giao.
+
+3. Thư viện cơ sở giáo dục phổ thông thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Phát triển tài nguyên thông tin phù hợp với nhu cầu học tập, nghiên cứu của người học, người dạy, cán bộ quản lý và mục tiêu, nội dung, chương trình học tập, giảng dạy của từng cấp học, chương trình học;
+
+b) Tổ chức hoạt động khuyến đọc, hình thành thói quen, kỹ năng đọc của người học; hướng dẫn sử dụng thư viện, trang bị kỹ năng tìm kiếm, khai thác, sử dụng thông tin cho người học, người dạy và cán bộ quản lý;
+
+c) Hỗ trợ việc học tập, giảng dạy, nghiên cứu và tổ chức các hoạt động giáo dục khác;
+
+d) Thực hiện nhiệm vụ khác do cơ sở giáo dục giao.
+
+4. Thư viện cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
+
+a) Phát triển tài nguyên thông tin phù hợp với nhu cầu học tập, nghiên cứu của người học, người dạy, cán bộ quản lý và mục tiêu, nội dung, chương trình đào tạo của cơ sở giáo dục;
+
+b) Tổ chức hoạt động khuyến đọc; hướng dẫn sử dụng thư viện, trang bị kỹ năng tìm kiếm, khai thác, sử dụng thông tin cho người học, người dạy và cán bộ quản lý;
+
+c) Thực hiện nhiệm vụ khác do cơ sở giáo dục giao.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.17. Điều kiện thành lập thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông; Điều 41.12.NĐ.1.18. Điều kiện thành lập thư viện cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác)
 
 Điều 41.12.LQ.16. Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001600000000000000000
+1. Thư viện cộng đồng là thư viện, có tài nguyên thông tin tổng hợp do cộng đồng dân cư thành lập tại trung tâm học tập cộng đồng, trung tâm văn hóa, thể thao xã, phường, thị trấn; điểm bưu điện văn hóa xã; nhà văn hóa thôn, ấp, bản, làng, buôn, phum, sóc; khu chung cư; nơi sinh hoạt chung của cộng đồng.
 
-**ID:** dk_00070989
+2. Thư viện tư nhân có phục vụ cộng đồng là thư viện có tài nguyên thông tin tổng hợp hoặc chuyên ngành do tổ chức, cá nhân Việt Nam thành lập, tựbảo đảm kinh phí hoạt động.
 
----
+3. Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng thực hiện chức năng, nhiệm vụ quyđịnh tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
 
+a) Cung cấp tài nguyên thông tin cho Nhân dân trên địa bàn; tiếp nhận tài nguyên thông tin luân chuyển từ thư viện công cộng các cấp đểphục vụ Nhân dân;
 
-### Điều 41.12.LQ.17. Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam
+b) Tổ chức hoạt động thư viện theo nội dung đã thông báo cho cơ quan nhà nước có thẩm quyền;
+
+c) Xây dựng và tham gia phát triển văn hóa đọc cho Nhân dântrên địa bàn.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.19. Điều kiện thành lập thư viện tư nhân có phục vụ cộng đồng; Điều 41.12.NĐ.1.20. Điều kiện thành lập thư viện cộng đồng)
 
 Điều 41.12.LQ.17. Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000010000000000000000001700000000000000000
+1. Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam là thư viện cótài nguyên thông tin tổng hợp, chuyên ngành do tổ chức, cá nhân nước ngoài thành lập tại Việt Nam; tự bảo đảm kinh phí hoạt động; hoạt động theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00070990
+2. Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:
 
----
+a) Tổ chức hoạt động thư viện theo nội dung đã thông báo cho cơ quan nhà nước có thẩm quyền;
 
+b) Tham gia phát triển văn hóa đọc.
 
-### Điều 41.12.LQ.18. Điều kiện thành lập thư viện
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.21. Điều kiện thành lập thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam)
 
-*Nội dung chưa có sẵn*
+Mục 2
 
-**Chỉ mục:** 18
+THÀNH LẬP, SÁP NHẬP, HỢP NHẤT, CHIA, TÁCH, GIẢI THỂ THƯ VIỆN
 
-**Mã phân cấp:** 410120000000000020000020000000000000000001800000000000000000
+Điều 41.12.LQ.18. Điều kiện thành lập thư viện
 
-**ID:** dk_00070992
+(Điều 18 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
----
+1. Thư viện được thành lập khi có đủ các điều kiện sau đây:
 
+a) Mục tiêu, đối tượng phục vụ xác định;
 
-### Điều 41.12.NĐ.1.11. Điều kiện thành lập thư viện công cộng cấp tỉnh
+b) Tài nguyên thông tin phù hợp với chức năng, nhiệm vụ, đối tượng phục vụ của thư viện;
+
+c) Cơ sở vật chất, trang thiết bị bảo đảm phục vụ hoạt động thư viện;
+
+d) Người làm công tác thư viện có chuyên môn, nghiệp vụ phù hợp với hoạt động thư viện;
+
+đ) Người đại diện theo pháp luật của thư viện có năng lực hành vi dân sự đầy đủ.
+
+2. Chính phủ quy định chi tiết các điểm a, b, c và d khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh)
 
 Điều 41.12.NĐ.1.11. Điều kiện thành lập thư viện công cộng cấp tỉnh
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001100
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại khoản 1 và khoản 2 Điều 11 của Luật Thư viện; có đối tượng phục vụ là tổ chức, cá nhân có nhu cầu sử dụng thư viện trên địa bàn tỉnh, thành phố trực thuộc trung ương.
 
-**ID:** dk_00070993
+2. Có ít nhất 200.000 bản sách với ít nhất 50.000 đầu sách, bao gồm tài liệu số, tài liệu nghe, nhìn và tài liệu phục vụ cho người khuyết tật; có ít nhất 50 đầu báo, tạp chí, bao gồm báo điện tử được xử lý theo quy tắc nghiệp vụ thư viện.
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Có vị trí độc lập tại trung tâm của cộng đồng dân cư hoặc giao thông thuận tiện;
 
-### Điều 41.12.NĐ.1.12. Điều kiện thành lập thư viện công cộng cấp huyện
+b) Diện tích thư viện phải đáp ứng yêu cầu về bảo quản tài nguyên thông tin, khu vực phục vụ, kho, phòng đọc đa phương tiện, các phòng chuyên môn, nghiệp vụ và khu vệ sinh;
+
+c) Bảo đảm cho người khuyết tật có thể di chuyển và tiếp cận dễ dàng, thuận lợi với tài nguyên thông tin và tiện ích thư viện;
+
+d) Bảo đảm ít nhất 100 m2 đối với không gian đọc tổng hợp dành cho người sử dụng thư viện; ít nhất 50 m2 dành cho khu vực phục vụ trẻ em và người khuyết tật;
+
+đ) Bảo đảm cơ sở hạ tầng kỹ thuật công nghệ thông tin, thiết bị kết nối mạng, thiết bị an ninh, thiết bị ngoại vi và thiết bị phụ trợ, mạng nội bộ, mạng diện rộng đáp ứng yêu cầu hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện; triển khai liên thông thư viện, tổ chức các dịch vụ trực tuyến và các dịch vụ liên quan;
+
+e) Bảo đảm các thiết bị, phương tiện chuyên dụng bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy;
+
+g) Tổ chức được dịch vụ thư viện lưu động, luân chuyển tài nguyên thông tin phục vụ Nhân dân trên địa bàn đối với thư viện ở khu vực biên giới, hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn.
+
+4. Người làm công tác thư viện phải bảo đảm các yêu cầu sau:
+
+a) Có trình độ nghiệp vụ thông tin - thư viện đáp ứng tiêu chuẩn về vị trí việc làm theo quy định của pháp luật;
+
+b) Có ít nhất 70% số người làm công tác thư viện tốt nghiệp từ cao đẳng trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp;
+
+c) Có khả năng ứng dụng công nghệ thông tin trong hoạt động chuyên môn, nghiệp vụ, thực hiện liên thông thư viện; có năng lực hướng dẫn người sử dụng thư viện sử dụng tiện ích thư viện hiện đại để tiếp cận và khai thác thông tin.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.11. Thư viện công cộng)
 
 Điều 41.12.NĐ.1.12. Điều kiện thành lập thư viện công cộng cấp huyện
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001200
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại khoản 3 Điều 11 của Luật Thư viện; có đối tượng phục vụ là tổ chức, cá nhân có nhu cầu sử dụng thư viện trên địa bàn huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương.
 
-**ID:** dk_00070994
+2. Có ít nhất 10.000 bản sách với ít nhất 1.000 đầu sách; ít nhất 10 đầu báo, tạp chí (bao gồm báo điện tử) được xử lý theo quy tắc nghiệp vụ thư viện.
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Được bố trí ở trung tâm của cộng đồng dân cư hoặc vị trí giao thông thuận tiện;
 
-### Điều 41.12.NĐ.1.13. Điều kiện thành lập thư viện công cộng cấp xã
+b) Diện tích thư viện đáp ứng yêu cầu về bảo quản tài nguyên thông tin, khu vực phục vụ, kho, phòng chuyên môn, nghiệp vụ và khu vệ sinh;
+
+c) Bảo đảm ít nhất 60 m2 đối với không gian đọc cho người sử dụng thư viện;
+
+d) Bảo đảm cho người khuyết tật có thể di chuyển và tiếp cận dễ dàng, thuận lợi với tài nguyên thông tin và tiện ích thư viện;
+
+đ) Có phương tiện, thiết bị bảo đảm phục vụ hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện;
+
+e) Bảo đảm các thiết bị, phương tiện chuyên dụng bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy.
+
+4. Người làm công tác thư viện tốt nghiệp từ cao đẳng trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.11. Thư viện công cộng)
 
 Điều 41.12.NĐ.1.13. Điều kiện thành lập thư viện công cộng cấp xã
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001300
+1. Có mục tiêu hoạt động đáp ứng các yêu cầu về chức năng, nhiệm vụ quy định tại khoản 3 Điều 11 của Luật Thư viện; có đối tượng phục vụ là tổ chức, cá nhân có nhu cầu sử dụng thư viện trên địa bàn xã, phường, thị trấn.
 
-**ID:** dk_00070995
+2. Có ít nhất 2.000 bản sách và 02 đầu báo, tạp chí (khuyến khích sử dụng báo điện tử) được xử lý theo quy tắc nghiệp vụ thư viện.
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Được bố trí ở gần cộng đồng dân cư hoặc vị trí giao thông thuận tiện;
 
-### Điều 41.12.NĐ.1.14. Điều kiện thành lập thư viện chuyên ngành
+b) Không gian thư viện phải đáp ứng yêu cầu bảo quản tài nguyên thông tin, khu vực phục vụ và khu vệ sinh;
+
+c) Bảo đảm ít nhất 40 m2 đối với không gian đọc cho người sử dụng thư viện;
+
+d) Có các phương tiện, trang thiết bị đáp ứng yêu cầu hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện; bảo đảm các thiết bị, phương tiện bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy.
+
+4. Người làm công tác thư viện tốt nghiệp từ trung học phổ thông trở lên, đã tham gia tập huấn hoặc được hướng dẫn nghiệp vụ về thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.11. Thư viện công cộng)
 
 Điều 41.12.NĐ.1.14. Điều kiện thành lập thư viện chuyên ngành
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001400
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại Điều 12 của Luật Thư viện; có đối tượng phục vụ là cán bộ, công chức, viên chức, người lao động thuộc cơ quan, tổ chức thành lập thư viện và các đối tượng khác có nhu cầu sử dụng thư viện theo quy chế của thư viện.
 
-**ID:** dk_00070996
+2. Có ít nhất 2.000 bản sách, trong đó có ít nhất 500 đầu tài liệu số; có các đầu báo, tạp chí, bao gồm báo điện tử gắn với chức năng, nhiệm vụ của cơ quan, tổ chức được xử lý theo quy tắc nghiệp vụ thư viện, bảo đảm phục vụ nhu cầu công tác, học tập, nghiên cứu của người sử dụng thư viện.
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Diện tích thư viện đáp ứng yêu cầu về bảo quản tài nguyên thông tin, khu vực phục vụ, kho, phòng chuyên môn, nghiệp vụ và khu vệ sinh;
 
-### Điều 41.12.NĐ.1.15. Điều kiện thành lập thư viện lực lượng vũ trang nhân dân
+b) Bảo đảm không gian đọc cho người sử dụng thư viện ít nhất 100 m2 đối với cơ quan, tổ chức của trung ương và 40 m2 đối với cơ quan, tổ chức của cơ sở;
+
+c) Bảo đảm cơ sở hạ tầng kỹ thuật công nghệ thông tin, thiết bị kết nối mạng, thiết bị an ninh, thiết bị ngoại vi và thiết bị phụ trợ, mạng nội bộ, mạng diện rộng đáp ứng yêu cầu hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện, triển khai liên thông thư viện, tổ chức các dịch vụ trực tuyến và các dịch vụ liên quan;
+
+d) Bảo đảm các thiết bị, phương tiện chuyên dụng bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy.
+
+4. Người làm công tác thư viện phải bảo đảm các yêu cầu sau:
+
+a) Có trình độ nghiệp vụ thông tin - thư viện đáp ứng tiêu chuẩn về vị trí việc làm theo quy định của pháp luật;
+
+b) Có ít nhất 70% số người làm công tác thư viện tốt nghiệp từ cao đẳng trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp;
+
+c) Có khả năng ứng dụng công nghệ thông tin trong hoạt động chuyên môn, nghiệp vụ, thực hiện liên thông thư viện; có năng lực hướng dẫn người sử dụng thư viện tiếp cận và khai thác thông tin, thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.12. Thư viện chuyên ngành)
 
 Điều 41.12.NĐ.1.15. Điều kiện thành lập thư viện lực lượng vũ trang nhân dân
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001500
-
-**ID:** dk_00070997
-
----
-
-
-### Điều 41.12.NĐ.1.16. Điều kiện thành lập thư viện đại học
+Thư viện lực lượng vũ trang nhân dân thành lập theo quy định của Luật Thư viện và quy định riêng của Chính phủ.
 
 Điều 41.12.NĐ.1.16. Điều kiện thành lập thư viện đại học
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001600
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại Điều 14 của Luật Thư viện; có đối tượng phục vụ là người dạy, người học, nhân viên thuộc cơ sở giáo dục và các đối tượng khác có nhu cầu sử dụng thư viện theo quy chế của thư viện.
 
-**ID:** dk_00070998
+2. Có tài nguyên thông tin bao gồm sách giáo khoa, giáo trình, tài liệu tham khảo, ấn phẩm báo, tạp chí phù hợp với mỗi chuyên ngành đào tạo của cơ sở giáo dục được xử lý theo quy tắc nghiệp vụ thư viện, đáp ứng yêu cầu phục vụ ít nhất 60% người học và người dạy.
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Được bố trí ở trung tâm của cơ sở giáo dục, thuận tiện cho người sử dụng, đặc biệt đối với người khuyết tật;
 
-### Điều 41.12.QĐ.4.1.
+b) Diện tích đủ để lưu trữ tài nguyên thông tin, khu vực phục vụ, khu làm việc cho người làm công tác thư viện và các nhu cầu xử lý nghiệp vụ khác;
 
-*Nội dung chưa có sẵn*
+c) Bảo đảm không gian đọc, bao gồm phòng đọc tổng hợp và phòng đọc khác dành cho người sử dụng thư viện ít nhất 200 m2;
 
-**Chỉ mục:** 1
+d) Bảo đảm cơ sở hạ tầng kỹ thuật công nghệ thông tin, thiết bị kết nối mạng, thiết bị an ninh, thiết bị ngoại vi và thiết bị phụ trợ, mạng nội bộ, mạng diện rộng đáp ứng yêu cầu hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện, triển khai liên thông thư viện, tổ chức các dịch vụ trực tuyến và các dịch vụ liên quan;
 
-**Mã phân cấp:** 4101200000000000200000200000000000000000018000000000000000000040273790093000160000802283500130000100
+đ) Bảo đảm các thiết bị, phương tiện chuyên dụng bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy.
 
-**ID:** dk_00070999
+4. Người làm công tác thư viện phải bảo đảm các yêu cầu sau:
 
----
+a) Có trình độ nghiệp vụ thông tin - thư viện đáp ứng tiêu chuẩn về vị trí việc làm theo quy định của pháp luật;
 
+b) Có ít nhất 70% số người làm công tác thư viện tốt nghiệp từ cao đẳng trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp;
 
-### Điều 41.12.NĐ.1.17. Điều kiện thành lập thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông
+c) Có khả năng ứng dụng công nghệ thông tin trong hoạt động chuyên môn, nghiệp vụ, có năng lực trong việc hỗ trợ người học và người dạy tìm kiếm, khai thác và sử dụng tài nguyên thông tin trong và ngoài thư viện.
+
+5. Thư viện của đại học quốc gia ngoài việc đáp ứng các điều kiện quy định tại các khoản 1, 2, 3 và 4 Điều này, phải đáp ứng các điều kiện quy định tại các khoản 1, 2 và 3 Điều 3 Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.14. Thư viện đại học)
+
+Điều 41.12.QĐ.4.1.
+
+(Điều 1 Quyết định số 13/2008/QĐ-BVHTTDL Về việc ban hành Quy chế mẫu tổ chức và hoạt động thư viện trường đại học ngày 10/03/2008 của Bộ Văn hóa - Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 31/03/2008)
+
+Ban hành kèm theo Quyết định này Quy chế mẫu về tổ chức và hoạt động của thư viện trường đại học.
+
+Quy chế mẫu về tổ chức và hoạt động Thư viện trường Đại học.doc
 
 Điều 41.12.NĐ.1.17. Điều kiện thành lập thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001700
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại các khoản 1, 2 và 3 Điều 15 của Luật Thư viện; có đối tượng phục vụ là người dạy, người học, nhân viên thuộc cơ sở giáo dục và các đối tượng khác có nhu cầu sử dụng thư viện theo quy chế của thư viện.
 
-**ID:** dk_00071000
+2. Có tài nguyên thông tin như sau:
 
----
+a) Sách giáo khoa, sách nghiệp vụ của giáo viên, sách tham khảo đáp ứng nhu cầu của người học và người dạy trong cơ sở giáo dục:
 
+- Đối với cơ sở giáo dục mầm non: Bảo đảm ít nhất 02 bản sách/học sinh và 03 bản sách/giáo viên;
 
-### Điều 41.12.QĐ.1.1.
+- Đối với cơ sở giáo dục tiểu học: Bảo đảm ít nhất 03 bản sách/học sinh và 01 bộ sách/giáo viên theo khối lớp;
 
-*Nội dung chưa có sẵn*
+- Đối với cơ sở giáo dục trung học cơ sở: Bảo đảm ít nhất 04 bản sách/học sinh và 01 bộ sách/giáo viên theo bộ môn giảng dạy;
 
-**Chỉ mục:** 1
+- Đối với cơ sở giáo dục trung học phổ thông: Bảo đảm ít nhất 05 bản sách/học sinh và 01 bộ sách/giáo viên theo bộ môn giảng dạy;
 
-**Mã phân cấp:** 4101200000000000200000200000000000000000018000000000000000000040273790093000170000801942300610000100
+b) Báo, tạp chí, bản đồ và tranh ảnh giáo dục, tài liệu nghe, nhìn, sách điện tử, các dạng tài liệu khác phù hợp với lứa tuổi, nhu cầu học tập của học sinh và yêu cầu tham khảo của giáo viên; bảo đảm tối thiểu các tài liệu có nội dung sát với chương trình giảng dạy và học tập của nhà trường theo danh mục do Bộ Giáo dục và Đào tạo hướng dẫn được xử lý theo quy tắc nghiệp vụ thư viện.
 
-**ID:** dk_00071001
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
----
+a) Được bố trí ở trung tâm của cơ sở giáo dục, thuận tiện cho người sử dụng thư viện, đặc biệt đối với người khuyết tật;
 
+b) Diện tích đủ để lưu trữ tài nguyên thông tin, triển khai các hoạt động thư viện, khu vực phục vụ đọc, khu làm việc của nhân viên thư viện và các nhu cầu xử lý nghiệp vụ khác;
 
-### Điều 41.12.QĐ.2.1.
+c) Không gian đọc cho người sử dụng thư viện ít nhất 50 m2; kết nối với các phòng nghe - nhìn, phòng máy tính của nhà trường, các tủ sách lớp học; khuyến khích tổ chức thư viện mở, không gian đọc thân thiện;
 
-*Nội dung chưa có sẵn*
+d) Có các phương tiện, trang thiết bị đáp ứng yêu cầu hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện;
 
-**Chỉ mục:** 1
+đ) Bảo đảm các thiết bị, phương tiện chuyên dụng bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy.
 
-**Mã phân cấp:** 4101200000000000200000200000000000000000018000000000000000000040273790093000170000802094100011000100
+4. Người làm công tác thư viện tốt nghiệp từ trung cấp trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp.
 
-**ID:** dk_00071002
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.15. Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác)
 
----
+Điều 41.12.QĐ.1.1.
 
+(Điều 1 Quyết định số 61/1998/QĐ-BGDĐT ban hành Quy chế tổ chức và hoạt động thư viện trường phổ thông ngày 06/11/1998 của Bộ Giáo Dục và Ðào Tạo, có hiệu lực thi hành kể từ ngày 21/11/1998)
 
-### Điều 41.12.NĐ.1.18. Điều kiện thành lập thư viện cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác
+Nay ban hành kèm theo Quyết định này bản “Quy chế tổ chức và hoạt động thư viện trường phổ thông” áp dụng cho tất cả các loại hình trường phổ thông công lập, dân lập, bán công, tư thục và các trường được phép đào tạo trình độ các bậc học phổ thông.
+
+Quychetochucvahoatdongthuvietruongphothong_61.1998.QĐ.BGDĐT.doc
+
+Điều 41.12.QĐ.2.1.
+
+(Điều 1 Quyết định số 01/2003/QĐ-BGDĐT, có hiệu lực thi hành kể từ ngày 17/01/2003, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Quyết định số 01/2004/QĐ-BGDĐT có hiệu lực thi hành kể từ ngày 25/02/2004)
+
+Ban hành kèm theo Quyết định này Quy định về tiêu chuẩn thư viện trường phổ thông.
+
+Quy định_về tiêu chuẩn thư viện trường phổ thông.doc
 
 Điều 41.12.NĐ.1.18. Điều kiện thành lập thư viện cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001800
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại khoản 4 Điều 15 của Luật Thư viện; có đối tượng phục vụ là người dạy, người học, nhân viên thuộc cơ sở giáo dục và các đối tượng khác có nhu cầu sử dụng thư viện theo quy chế của thư viện.
 
-**ID:** dk_00071003
+2. Bảo đảm có ít nhất 02 bản sách/người học và 01 bản sách/người dạy; có ấn phẩm, báo, tạp chí phù hợp với chuyên ngành đào tạo của cơ sở giáo dục được xử lý theo quy tắc nghiệp vụ thư viện.
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Được bố trí ở trung tâm hoặc địa điểm thuận lợi cho người sử dụng thư viện của cơ sở giáo dục;
 
-### Điều 41.12.NĐ.1.19. Điều kiện thành lập thư viện tư nhân có phục vụ cộng đồng
+b) Diện tích đủ để lưu trữ tài liệu tham khảo, sách giáo khoa, giáo trình, khu vực phục vụ đọc, khu làm việc của cán bộ và các nhu cầu xử lý nghiệp vụ khác;
+
+c) Bảo đảm không gian đọc cho người sử dụng thư viện ít nhất 100 m2 đối với trường cao đẳng; ít nhất 50 m2 đối với trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên;
+
+d) Có các phương tiện, trang thiết bị đáp ứng yêu cầu hoạt động chuyên môn, nghiệp vụ của người làm công tác thư viện và phục vụ người sử dụng thư viện; thuận tiện cho người khuyết tật tiếp cận tài nguyên thông tin;
+
+đ) Bảo đảm các thiết bị, phương tiện chuyên dụng bảo quản tài nguyên thông tin, an ninh, an toàn và phòng cháy, chữa cháy.
+
+4. Người làm công tác thư viện phải bảo đảm các yêu cầu sau:
+
+a) Tốt nghiệp từ cao đẳng trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp;
+
+b) Có kỹ năng ứng dụng công nghệ thông tin trong hoạt động chuyên môn, nghiệp vụ thư viện; có năng lực trong việc hỗ trợ người học và người dạy tìm kiếm, khai thác và sử dụng tài nguyên thông tin trong và ngoài thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.15. Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác)
 
 Điều 41.12.NĐ.1.19. Điều kiện thành lập thư viện tư nhân có phục vụ cộng đồng
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930001900
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại khoản 2 và khoản 3 Điều 16 của Luật Thư viện, không trái với quy định của pháp luật; có đối tượng phục vụ là người dân trong cộng đồng và các đối tượng khác phù hợp với mục tiêu hoạt động của thư viện.
 
-**ID:** dk_00071004
+2. Có ít nhất 2.000 bản sách (bao gồm tài liệu số).
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Diện tích và hạ tầng bảo đảm bảo quản tài nguyên thông tin, tiện ích thư viện với không gian đọc ít nhất 25 m2 dành cho người sử dụng thư viện;
 
-### Điều 41.12.NĐ.1.20. Điều kiện thành lập thư viện cộng đồng
+b) Bảo đảm vệ sinh môi trường, cảnh quan, trang thiết bị an ninh, an toàn và phòng cháy, chữa cháy; không ảnh hưởng tới trật tự, an toàn giao thông trong khu vực.
+
+4. Người làm công tác thư viện phải tốt nghiệp từ trung học phổ thông trở lên; có ít nhất 01 người có trình độ nghiệp vụ thư viện hoặc đã tham gia tập huấn hoặc được hướng dẫn nghiệp vụ về thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.16. Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng)
 
 Điều 41.12.NĐ.1.20. Điều kiện thành lập thư viện cộng đồng
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930002000
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại khoản 1 và khoản 3 Điều 16 của Luật Thư viện, không trái với quy định của pháp luật; có đối tượng phục vụ là người dân trong cộng đồng và các đối tượng khác phù hợp với mục tiêu hoạt động của thư viện.
 
-**ID:** dk_00071005
+2. Có ít nhất 1.500 bản sách (bao gồm tài liệu số).
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Diện tích và hạ tầng bảo đảm bảo quản tài nguyên thông tin, tiện ích thư viện với không gian đọc ít nhất 25 m2 dành cho người sử dụng thư viện;
 
-### Điều 41.12.NĐ.1.21. Điều kiện thành lập thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam
+b) Bảo đảm vệ sinh môi trường, cảnh quan, trang thiết bị an ninh, an toàn và phòng cháy, chữa cháy; không ảnh hưởng tới trật tự, an toàn giao thông trong khu vực.
+
+4. Người làm công tác thư viện tốt nghiệp từ trung cấp trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.16. Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng; Điều 41.12.NĐ.1.9. Tiêu chí xác định không gian đọc, phòng đọc cơ sở)
 
 Điều 41.12.NĐ.1.21. Điều kiện thành lập thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000180000000000000000000402737900930002100
+1. Có mục tiêu tổ chức, hoạt động thư viện phù hợp và đáp ứng các chức năng, nhiệm vụ quy định tại Điều 17 của Luật Thư viện, không trái với quy định của pháp luật Việt Nam; có đối tượng phục vụ là người Việt Nam phù hợp với mục tiêu hoạt động của thư viện.
 
-**ID:** dk_00071006
+2. Có ít nhất 2.000 bản sách (bao gồm tài liệu số).
 
----
+3. Có cơ sở vật chất và tiện ích thư viện bảo đảm các yêu cầu sau:
 
+a) Diện tích và hạ tầng bảo đảm bảo quản tài nguyên thông tin, tiện ích thư viện với không gian đọc ít nhất 25 m2 dành cho người sử dụng thư viện;
 
-### Điều 41.12.LQ.19. Thành lập thư viện công lập
+b) Bảo đảm vệ sinh môi trường, cảnh quan, trang thiết bị an ninh, an toàn và phòng cháy, chữa cháy; không ảnh hưởng tới trật tự, an toàn giao thông trong khu vực.
 
-*Nội dung chưa có sẵn*
+4. Người làm việc trong thư viện có đầy đủ năng lực pháp luật dân sự và năng lực hành vi dân sự, phải tốt nghiệp từ trung học phổ thông trở lên, đã tham gia tập huấn hoặc được hướng dẫn nghiệp vụ về thư viện. Người nước ngoài làm việc trong thư viện phải có lý lịch tư pháp và nơi cư trú rõ ràng tại Việt Nam.
 
-**Chỉ mục:** 19
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.17. Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam)
 
-**Mã phân cấp:** 410120000000000020000020000000000000000001900000000000000000
+Điều 41.12.LQ.19. Thành lập thư viện công lập
 
-**ID:** dk_00071007
+(Điều 19 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
----
+1. Đối với thư viện là đơn vị sự nghiệp công lập, thẩm quyền, trình tự, thủ tục thành lập thư viện thực hiện theo quy định của pháp luật vềđơn vị sự nghiệp công lập.
 
-
-### Điều 41.12.LQ.20. Thành lập thư viện ngoài công lập
+2. Đối với thư viện không thuộc trường hợp quy định tại khoản 1 Điều này, thẩm quyền, trình tự, thủ tục thành lập thư viện thực hiện theo quy định của pháp luật điều chỉnh việc thành lập cơ quan, tổ chức chủ quản của thư viện.
 
 Điều 41.12.LQ.20. Thành lập thư viện ngoài công lập
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000020000000000000000002000000000000000000
+1. Tổ chức, cá nhân, cộng đồng dân cư có quyền thành lập thư viện khi đáp ứng đủ các điều kiện quy định tại khoản 1 Điều 18 của Luật này và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00071008
-
----
-
-
-### Điều 41.12.LQ.21. Sáp nhập, hợp nhất, chia, tách, giải thể thư viện
+2. Đối với thư viện thành lập theo mô hình doanh nghiệp, việc thành lập thư viện thực hiện theo quy định của Luật này, pháp luật về doanh nghiệp và quy định khác của pháp luật có liên quan.
 
 Điều 41.12.LQ.21. Sáp nhập, hợp nhất, chia, tách, giải thể thư viện
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000020000000000000000002100000000000000000
+1. Việc sáp nhập, hợp nhất, chia, tách, giải thể thư viện phải cóphương án bảo toàn tài nguyên thông tin được Nhà nước đầu tư, tổ chức, cá nhân tàitrợ, việntrợ, tặng cho, đóng góp cho thư viện.
 
-**ID:** dk_00071009
-
----
-
-
-### Điều 41.12.LQ.22. Đình chỉ, chấm dứt hoạt động thư viện
+2. Cơ quan, tổ chức, cá nhân thành lập thư viện có quyền quyết định sáp nhập, hợp nhất, chia, tách, giải thểthư viện theo trình tự, thủ tục của pháp luật về đơn vị sự nghiệp công lập, doanh nghiệp hoặc pháp luật điều chỉnh cơ quan, tổ chức chủ quản của thư viện.
 
 Điều 41.12.LQ.22. Đình chỉ, chấm dứt hoạt động thư viện
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000020000000000000000002200000000000000000
+1. Thư viện bị đình chỉ hoạt động có thời hạn trong trường hợp sau đây:
 
-**ID:** dk_00071010
+a) Vi phạm quy định tại khoản 1 Điều 8 của Luật này;
 
----
+b) Đã bị xử phạt vi phạm hành chính về hoạt động thư viện mà không chấm dứt hành vi vi phạm.
 
+2. Thư viện chấm dứt hoạt động trong trường hợp sau đây:
 
-### Điều 41.12.NĐ.1.22. Trình tự, thủ tục đình chỉ hoạt động thư viện
+a) Tự chấm dứt hoạt động;
+
+b) Bị buộc chấm dứt hoạt động do hết thời hạn bị đình chỉ hoạt động quy định tại khoản 1 Điều này mà không khắc phục hành vi vi phạm.
+
+3. Thẩm quyền đình chỉ, chấm dứt hoạt động thư viện được quy định như sau:
+
+a) Cơ quan, tổ chức, cá nhân có thẩm quyền thành lập thư viện có quyền chấmdứt hoạt động thư viện đốivớitrường hợp quy định tại điểm a khoản 2 Điều này;
+
+b) Tổ chức, cá nhân có thẩm quyền theo quy định của pháp luật về xử lý vi phạm hành chính có thẩm quyền đình chỉ hoạt động thư viện theo quy định của pháp luật, có quyền buộc chấm dứt hoạt động thư viện đối với trường hợp quy định tại điểm b khoản 2 Điều này.
+
+4. Quyết định ánh chỉ, chấm dứt hoạt động thư viện phải nêu rõ lý do và công bố công khai tại trụ sở thư viện. Quyết định đình chỉ hoạt động phải nêu rõ thời hạn đình chỉ. Trong thời hạn bị đình chỉ hoạt động, nếu thư viện khắc phục được vi phạm nêutại quyết định đình chỉ hoạt động, tổ chức, cá nhân có thẩm quyền đình chỉhoạt động thư viện quyết định cho phép thư viện hoạt động trở lại.
+
+5. Chính phủ quy định trình tự, thủ tục đình chỉ, chấm dứt hoạt động thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh; Điều 41.12.NĐ.1.22. Trình tự, thủ tục đình chỉ hoạt động thư viện)
 
 Điều 41.12.NĐ.1.22. Trình tự, thủ tục đình chỉ hoạt động thư viện
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000220000000000000000000402737900930002200
+1. Khi phát hiện thư viện có dấu hiệu vi phạm pháp luật, cơ quan, tổ chức, cá nhân có trách nhiệm thu thập chứng cứ và gửi văn bản đề nghị người có thẩm quyền đình chỉ hoạt động thư viện theo quy định tại điểm b khoản 3 Điều 22 của Luật Thư viện xem xét, ban hành quyết định xử phạt vi phạm hành chính.
 
-**ID:** dk_00071011
+2. Khi phát hiện có dấu hiệu vi phạm quy định tại khoản 1 Điều 22 của Luật Thư viện hoặc theo đề nghị của cơ quan, tổ chức, cá nhân quy định tại khoản 1 Điều này, người có thẩm quyền đình chỉ hoạt động thư viện tiến hành đánh giá mức độ vi phạm và ban hành quyết định xử phạt vi phạm hành chính bằng hình thức xử phạt đình chỉ hoạt động thư viện có thời hạn theo quy định của pháp luật. Trường hợp không đình chỉ, người có thẩm quyền đình chỉ phải trả lời bằng văn bản và nêu rõ lý do.
 
----
+3. Người làm công tác thư viện tốt nghiệp từ trung cấp trở lên chuyên ngành thông tin - thư viện hoặc tốt nghiệp chuyên ngành khác có chứng chỉ bồi dưỡng kiến thức, kỹ năng nghề nghiệp chuyên ngành thông tin - thư viện do cơ quan, tổ chức có thẩm quyền cấp.
 
-
-### Điều 41.12.NĐ.1.23. Trình tự, thủ tục chấm dứt hoạt động thư viện
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.22. Đình chỉ, chấm dứt hoạt động thư viện)
 
 Điều 41.12.NĐ.1.23. Trình tự, thủ tục chấm dứt hoạt động thư viện
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000220000000000000000000402737900930002300
+1. Trình tự, thủ tục tự chấm dứt hoạt động thư viện:
 
-**ID:** dk_00071012
+a) Thực hiện thông báo theo quy định tại khoản 3 Điều 23 của Luật Thư viện;
 
----
+b) Thực hiện chuyển giao tài nguyên thông tin và tiện ích thư viện theo phương án quy định tại khoản 7 Điều 45 của Luật Thư viện.
 
+2. Trình tự, thủ tục buộc chấm dứt hoạt động thư viện:
 
-### Điều 41.12.LQ.23. Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện
+a) Chậm nhất 15 ngày làm việc, trước ngày hết hạn đình chỉ hoạt động, thư viện bị đình chỉ có trách nhiệm báo cáo việc khắc phục nguyên nhân bị đình chỉ (kèm tài liệu chứng minh) đến người ra quyết định đình chỉ trước đó.
+
+Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, nếu thư viện không khắc phục hoặc không thể khắc phục được nguyên nhân bị đình chỉ, người ra quyết định đình chỉ hoạt động thư viện trước đó ra quyết định chấm dứt hoạt động của thư viện và gửi thông báo cho cơ quan, tổ chức thành lập thư viện (nếu có);
+
+b) Hết thời hạn đình chỉ, thư viện bị đình chỉ không có báo cáo việc khắc phục nguyên nhân bị đình chỉ, người ra quyết định đình chỉ hoạt động thư viện trước đó ra quyết định chấm dứt hoạt động của thư viện;
+
+c) Trường hợp có tiếp nhận tài nguyên thông tin và tiện ích thư viện luân chuyển từ thư viện công lập, trong thời hạn 15 ngày làm việc, kể từ ngày nhận quyết định buộc chấm dứt hoạt động, thư viện bị chấm dứt hoạt động phải hoàn thành việc hoàn trả toàn bộ tài nguyên thông tin và tiện ích thư viện cho thư viện được nhận luân chuyển.
+
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.23. Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện; Điều 41.12.LQ.45. Trách nhiệm của cơ quan, tổ chức, cá nhân thành lập thư viện)
 
 Điều 41.12.LQ.23. Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000020000020000000000000000002300000000000000000
+1. Cơ quan, tổ chức, cá nhân có thẩm quyền thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện phải thông báo cho cơ quan nhà nước có thẩm quyền quy định tại khoản 5 Điều này.
 
-**ID:** dk_00071013
+2. Hồ sơ thông báo bao gồm:
 
----
+a) Bản sao quyết định của cơ quan có thẩm quyền hoặc văn bản thông báo thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;
 
+b) Tài liệu chứng minh đủ điều kiện thành lập quy định tại khoản 1 Điều 18 của Luật này đối với thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng, thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam.
 
-### Điều 41.12.TT.4.3. Các mẫu văn bản ban hành kèm theo Thông tư
+3. Thờihạn thông báo được quy định như sau:
+
+a) Trong thời hạn 30 ngày, kể từ ngày ban hành quyết định thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động đối với thư viện công lập;
+
+b) Trước 30 ngày, tính đến ngày thư viện thực hiện việc mởcửa hoạt động, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động đối với thư viện ngoài công lập.
+
+4. Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ thông báo hợp lệ quy định tại khoản 2 Điều này, cơ quan có thẩm quyền phải trả lời bằng văn bản; trường hợp không đồng ý phải nêu rõ lý do. Trong thời hạn 10 ngày, kể từ ngày tiếp nhận thông báo, nếu hồ sơ thông báo không đủ tài liệu quy định tại khoản 2 Điều này, cơ quan có thẩm quyền có trách nhiệm gửi văn bản yêu cầu cơ quan, tổ chức, cá nhân bổ sung hoặc điều chỉnh hồ sơ.
+
+5. Thẩm quyền tiếp nhận hồ sơ thông báo được quy định như sau:
+
+a) Bộ Văn hóa,Thể thao và Du lịch tiếp nhận hồ sơ thông báo đối với thư viện chuyên ngànhởtrung ương, thư viện cấp tỉnh;
+
+b) Ủy ban nhân dân cấp tỉnh tiếp nhận hồ sơ thông báo đối với thư viện chuyên ngành ở cấp tỉnh, thư viện cấp huyện, thư viện đại học, thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam có trụ sở trên địa bàn;
+
+c) Ủy ban nhân dân cấp huyện tiếp nhận hồ sơ thông báo đối với thư viện cấp xã; thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác; thư viện tư nhân có phục vụ cộng đồng có trụsở trên địa bàn;
+
+d) Ủy ban nhân dân cấp xã tiếp nhận hồ sơ thông báo đối với thưviện cộng đồng có trụ sở trên địa bàn.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.10. Hoạt động của không gian đọc, phòng đọc cơ sở; Điều 41.12.NĐ.1.23. Trình tự, thủ tục chấm dứt hoạt động thư viện; Điều 41.12.TT.4.3. Các mẫu văn bản ban hành kèm theo Thông tư)
 
 Điều 41.12.TT.4.3. Các mẫu văn bản ban hành kèm theo Thông tư
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 01/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 8 Thông tư số 13/2023/TT-BVHTTDL có hiệu lực thi hành kể từ ngày 15/01/2024)
 
-**Mã phân cấp:** 41012000000000002000002000000000000000000230000000000000000000802729100010000300
+1. Thông báo thành lập thư viện (Dành cho Thư viện cộng đồng/Thư viện tư nhân có phục vụ cộng đồng) (M01A).
 
-**ID:** dk_00071014
+2. Thông báo thành lập thư viện (Dành cho Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam) (M01B).
 
----
+3. Thông báo thành lập thư viện (Dành cho Thư viện của cơ quan, tổ chức, đơn vị, cơ sở giáo dục) (M01C).
 
+4. Thông báo sáp nhập/hợp nhất/chia/tách thư viện (M02).
 
-### Điều 41.12.LQ.24. Nguyên tắc hoạt động thư viện
+5. Thông báo giải thể/chấm dứt hoạt động thư viện (M03).
 
-*Nội dung chưa có sẵn*
+phu luc VIII. TT13_2023_TT-BVHTTDL.doc
 
-**Chỉ mục:** 24
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.23. Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện)
 
-**Mã phân cấp:** 4101200000000000300002400000000000000000
+Chương III
 
-**ID:** dk_00071016
+HOẠT ĐỘNG THƯ VIỆN
 
----
+Điều 41.12.LQ.24. Nguyên tắc hoạt động thư viện
 
+(Điều 24 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-### Điều 41.12.TT.1.3. Yêu cầu của việc tổ chức và thực hiện các hoạt động chuyên môn, nghiệp vụ của thư viện
+1. Lấy người sử dụng thư viện làm trung tâm; tạo lập môi trường thân thiện, bìnhđẳng; bảo đảm quyền tiếp cận và sử dụng thư viện của tổ chức, cánhân.
+
+2. Tài nguyên thông tin được thu thập, xử lý, lưu giữ, bảo quản và phổ biến tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật quốc gia và chuẩn nghiệp vụ liên quan trong lĩnh vực thư viện.
+
+3. Thường xuyên đổi mới sáng tạo về quy trình, sản phẩm thông tin, dịch vụ thư viện trên cơ sởứng dụng thành tựu khoa học và công nghệ tiên tiến.
+
+4. Thực hiện liên thông thư viện.
+
+5. Tuân thủ quy định của pháp luật về sở hữu trí tuệ, khoa học và công nghệ, công nghệ thông tin, an ninh mạng và quy định khác của pháp luật có liên quan.
 
 Điều 41.12.TT.1.3. Yêu cầu của việc tổ chức và thực hiện các hoạt động chuyên môn, nghiệp vụ của thư viện
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500300
+ Việc tổ chức và thực hiện các hoạt động chuyên môn, nghiệp vụ của thư viện phải bảo đảm các yêu cầu sau:
 
-**ID:** dk_00071017
+ 1. Theo đúng quy định của pháp luật về thư viện; quy tắc, quy trình của nghiệp vụ thư viện.
 
----
+ 2. Đáp ứng và phục vụ cho việc thực hiện chức năng, nhiệm vụ của từng loại hình thư viện đã được pháp luật quy định; phù hợp với quy mô thư viện và đối tượng người sử dụng mà thư viện có trách nhiệm phục vụ.
 
+ 3. Tăng cường ứng dụng công nghệ thông tin nhằm từng bước thực hiện tự động hoá thư viện; chú trọng xây dựng vốn tài liệu điện tử, tổ chức các dịch vụ thư viện điện tử nhằm nâng cao chất lượng, hiệu quả dịch vụ thư viện, đáp ứng tốt nhất nhu cầu của người sử dụng.Điều 41.12.TT.1.4. Xây dựng vốn tài liệu
 
-### Điều 41.12.TT.1.4. Xây dựng vốn tài liệu
+(Điều 4 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-*Nội dung chưa có sẵn*
+ 1. Xây dựng vốn tài liệu nhằm tạo lập, tăng cường và nâng cao chất lượng nguồn lực thông tin của thư viện đáp ứng nhu cầu đa dạng và luôn thay đổi của người sử dụng.
 
-**Chỉ mục:** 4
+ 2. Xây dựng vốn tài liệu bao gồm một số nội dung chính sau đây:
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500400
+ a) Xác định chính sách phát triển vốn tài liệu phù hợp với chức năng, nhiệm vụ, đối tượng người sử dụng mà thư viện có trách nhiệm phục vụ;
 
-**ID:** dk_00071018
+ b) Tổ chức thu thập tài liệu bằng các hình thức sau:
 
----
+ - Mua tại các cơ quan, tổ chức có thẩm quyền phát hành, hoặc các tổ chức, doanh nghiệp có chức năng kinh doanh, xuất nhập khẩu sách, báo, tạp chí, văn hoá phẩm theo quy định của pháp luật, hoặc cá nhân sở hữu các tài liệu mà thư viện có nhu cầu bổ sung;
 
+ - Nhận theo chế độ lưu chiểu các xuất bản phẩm của cơ quan, tổ chức có thẩm quyền xuất bản theo quy định của pháp luật;
 
-### Điều 41.12.TT.1.5. Xử lý tài liệu
+ - Tự chuyển dạng (vi dạng, số hóa) tài liệu của thư viện mình theo quy định của pháp luật về bản quyền;
 
-*Nội dung chưa có sẵn*
+ - Mua quyền truy cập cơ sở dữ liệu, tài liệu điện tử;
 
-**Chỉ mục:** 5
+ - Liên thông tài liệu giữa các thư viện trong nước bằng các hình thức: mượn tài liệu; phối hợp bổ sung, chia sẻ dùng chung cơ sở dữ liệu hoặc quyền truy cập tài liệu điện tử;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500500
+ - Mượn, trao đổi tài liệu với tổ chức, cá nhân trong nước; trao đổi tài liệu với thư viện, cơ quan, tổ chức nước ngoài, quốc tế; tiếp nhận tài liệu do tổ chức, cá nhân trong và ngoài nước chuyển giao, hiến tặng;
 
-**ID:** dk_00071019
+ Việc trao đổi tài liệu với thư viện, cơ quan, tổ chức nước ngoài, quốc tế và tiếp nhận tài liệu chuyển giao, hiến tặng của tổ chức, cá nhân nước ngoài thực hiện theo quy định của pháp luật.
 
----
+ c) Thực hiện thanh lọc tài liệu.
 
+ 4. Việc xây dựng vốn tài liệu thư viện phải phù hợp với chức năng, nhiệm vụ, quy mô, loại hình thư viện và nhu cầu của đối tượng người sử dụng mà thư viện có trách nhiệm phục vụ.Điều 41.12.TT.1.5. Xử lý tài liệu
 
-### Điều 41.12.TT.1.6. Tổ chức bộ máy tra cứu
+(Điều 5 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-*Nội dung chưa có sẵn*
+ 1. Tài liệu bổ sung vào thư viện được xử lý theo quy tắc, quy trình của nghiệp vụ thư viện để phục vụ cho việc quản lý, tra cứu và sử dụng.
 
-**Chỉ mục:** 6
+ 2. Xử lý tài liệu bao gồm:
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500600
+ a) Xử lý kỹ thuật: đăng ký tài liệu vào sổ tài sản của thư viện (sổ đăng ký tổng quát, đăng ký cá biệt); đóng dấu; tạo lập ký hiệu xếp giá; dán nhãn, chỉ từ, mã vạch, nhận dạng tần số, hoặc một số dạng thức khác;
 
-**ID:** dk_00071020
+ b) Xử lý hình thức: Biên mục mô tả tài liệu;
 
----
+ c) Xử lý nội dung: định chỉ số phân loại; định chủ đề, từ khoá; chú giải; tóm tắt nội dung tài liệu.
 
+ 3. Việc xử lý tài liệu phải tuân thủ theo các quy tắc, quy chuẩn của nghiệp vụ thư viện; tận dụng kết quả xử lý nội dung tài liệu của các thư viện lớn, đầu ngành để bảo đảm tính chính xác, thống nhất và tiết kiệm thời gian, công sức và kinh phí của thư viện.Điều 41.12.TT.1.6. Tổ chức bộ máy tra cứu
 
-### Điều 41.12.TT.1.7. Tổ chức tài liệu
+(Điều 6 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-*Nội dung chưa có sẵn*
+ 1. Bộ máy tra cứu của thư viện giúp người sử dụng tra cứu, tìm thông tin, tài liệu có ở trong hoặc ngoài thư viện.
 
-**Chỉ mục:** 7
+ 2. Bộ máy tra cứu bao gồm một số hình thức chủ yếu sau:
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500700
+ a) Hệ thống tra cứu mục lục truyền thống giúp người sử dụng tra cứu, tìm tài liệu có trong thư viện qua phích mô tả tài liệu, bao gồm: mục lục chữ cái (tên tác giả, tên tài liệu); mục lục phân loại; mục lục chủ đề;
 
-**ID:** dk_00071021
+ b) Hệ thống tra cứu điện tử giúp người sử dụng tra cứu, tìm tài liệu có trong và ngoài thư viện thông qua máy tính và mạng máy tính truy nhập được tới các cơ sở dữ liệu thư mục, toàn văn cho từng loại hình tài liệu: sách; báo, tạp chí, bài trích và các loại hình tài liệu khác;
 
----
+ c) Kho tài liệu tra cứu.
 
+ 3. Bộ máy tra cứu phải được tổ chức khoa học, chính xác, thống nhất, phản ánh đầy đủ các tài liệu có trong thư viện, cập nhật kịp thời các tài liệu mới bổ sung vào thư viện; tiếp cận được với nguồn thông tin, tài liệu bên ngoài thư viện; đồng thời dễ tra cứu đối với người sử dụng.Điều 41.12.TT.1.7. Tổ chức tài liệu
 
-### Điều 41.12.TT.1.8. Bảo quản tài liệu
+(Điều 7 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-*Nội dung chưa có sẵn*
+ 1. Tổ chức tài liệu để xác định vị trí của tài liệu trong thư viện giúp cho công tác quản lý, bảo quản và phục vụ người sử dụng được nhanh chóng, dễ dàng, thuận tiện.
 
-**Chỉ mục:** 8
+ 2. Các hình thức tổ chức tài liệu trong thư viện:
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500800
+ a) Tài liệu giấy chủ yếu được tổ chức theo các hình thức sau:
 
-**ID:** dk_00071022
+ - Kho mở (tài liệu được sắp xếp theo chỉ số phân loại, hoặc chủ đề, kết hợp với ký hiệu tên tác giả hoặc nhan đề), người sử dụng tiếp cận trực tiếp với tài liệu thư viện;
 
----
+ - Kho đóng (tài liệu được sắp xếp theo số đăng ký cá biệt, kết hợp với khổ sách, ngôn ngữ và loại hình tài liệu), người sử dụng tiếp cận tài liệu thư viện thông qua cán bộ thư viện.
 
+ b) Tài liệu số được tổ chức dưới dạng cơ sở dữ liệu;
 
-### Điều 41.12.TT.1.9. Kiểm kê, thanh lọc tài liệu
+ c) Tài liệu đa phương tiện được tổ chức thành kho/phòng đọc riêng đi kèm với trang thiết bị chuyên dụng phù hợp.
 
-*Nội dung chưa có sẵn*
+ 3. Việc tổ chức tài liệu trong thư viện phải bảo đảm các yêu cầu sau:
 
-**Chỉ mục:** 9
+ a) Khoa học, phù hợp với quy mô, loại hình, nội dung vốn tài liệu, mục đích sử dụng và đối tượng người sử dụng;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187500900
+ b) Bảo đảm thuận lợi cho việc phục vụ người sử dụng và bảo quản, giữ gìn an toàn cho tài liệu.Điều 41.12.TT.1.8. Bảo quản tài liệu
 
-**ID:** dk_00071023
+(Điều 8 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
----
+ 1. Thực hiện việc bảo quản tài liệu để có thể sử dụng được lâu dài, góp phần tiết kiệm ngân sách nhà nước.
 
+ 2. Các hình thức bảo quản tài liệu giấy trong thư viện bao gồm:
 
-### Điều 41.12.TT.1.10. Tổ chức dịch vụ thư viện
+ a) Tổ chức, sắp xếp tài liệu và tổ chức kho một cách khoa học, tuân thủ các tiêu chuẩn kỹ thuật và môi trường để không làm hư hại tài liệu trong quá trình lưu giữ và phục vụ;
 
-*Nội dung chưa có sẵn*
+ b) Gia cố, đóng bìa các tài liệu thuộc diện được lưu giữ lâu dài trong thư viện;
 
-**Chỉ mục:** 10
+ c) Làm vệ sinh lau chùi, hút bụi, hút ẩm; khử nấm mốc, chống côn trùng có hại cho tài liệu; có các thiết bị phòng chống cháy, nổ phù hợp;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187501000
+ d) Phục chế kịp thời các tài liệu bị hư hỏng trong quá trình sử dụng, hoặc do thiên tai, hỏa hoạn, hoặc do không được thực hiện các biện pháp bảo quản theo quy định;
 
-**ID:** dk_00071024
+ đ) Chuyển dạng tài liệu quý hiếm.
 
----
+ 3. Việc bảo quản tài liệu phải được thực hiện với mọi tài liệu khi đưa ra phục vụ cũng như lưu giữ trong thư viện và phải tuân thủ quy trình, nguyên tắc, tiêu chuẩn, yêu cầu kỹ thuật và phù hợp với từng loại hình tài liệu.
 
+ Việc chuyển dạng tài liệu theo phương thức số hoá phải bảo đảm tính tương thích về mặt công nghệ trong tương lai cho định dạng dữ liệu được dùng để số hoá.Điều 41.12.TT.1.9. Kiểm kê, thanh lọc tài liệu
 
-### Điều 41.12.TT.1.11. Biên soạn ấn phẩm thông tin thư viện
+(Điều 9 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-Điều 41.12.TT.1.11. Biên soạn ấn phẩm thông tin thư viện
+ 1. Kiểm kê tài liệu:
 
-**Chỉ mục:** 11
+ a) Kiểm kê tài liệu nhằm đánh giá hiện trạng vốn tài liệu của thư viện trong một giai đoạn, từ đó đề ra các biện pháp củng cố, hoàn thiện, nâng cao chất lượng vốn tài liệu thư viện;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187501100
+ b) Kiểm kê tài liệu được thực hiện đối với tất cả các kho tài liệu được tổ chức trong thư viện;
 
-**ID:** dk_00071025
+ c) Kiểm kê tài liệu phải được thực hiện thường xuyên, theo định kỳ, gắn với công tác thanh lọc tài liệu trong thư viện.
 
----
+ Việc kiểm kê đột xuất được thực hiện trong các trường hợp thay đổi viên chức phụ trách kho tài liệu, hoặc khi có thiên tai, hỏa hoạn, hoặc theo yêu cầu của cơ quan, đơn vị trực tiếp quản lý thư viện.
 
+ 2. Thanh lọc tài liệu:
 
-### Điều 41.12.TT.1.12. Hoạt động truyền thông, vận động
+ a) Thanh lọc tài liệu thư viện nhằm nâng cao chất lượng vốn tài liệu thư viện, tiết kiệm chi phí cho công tác tổ chức kho và bảo quản tài liệu; góp phần giảm bớt thời gian lấy tài liệu phục vụ người sử dụng; đồng thời tận dụng giá trị sử dụng của tài liệu, góp phần tiết kiệm ngân sách nhà nước;
 
-Điều 41.12.TT.1.12. Hoạt động truyền thông, vận động
+ b) Việc thanh lọc tài liệu thực hiện theo quy định tại Thông tư số 21/2012/BVHTTDL ngày 28 tháng 12 năm 2012 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chí và thủ tục thanh lọc tài liệu thư viện;
 
-**Chỉ mục:** 12
+ c) Việc thanh lọc tài liệu thư viện phải được thực hiện thường xuyên, theo định kỳ và được tiến hành đối với các kho tài liệu được tổ chức trong thư viện.Điều 41.12.TT.1.10. Tổ chức dịch vụ thư viện
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187501200
+(Điều 10 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-**ID:** dk_00071026
+ 1. Tổ chức dịch vụ thư viện là một trong những hoạt động chuyên môn, nghiệp vụ quan trọng nhất của thư viện, nhằm cung cấp thông tin, tri thức đáp ứng nhu cầu học tập, nghiên cứu, công tác và giải trí của người sử dụng.
 
----
+ 2. Dịch vụ thư viện được tổ chức theo phương thức dịch vụ thư viện truyền thống, hoặc dịch vụ thư viện điện tử, bao gồm các dịch vụ chủ yếu sau:
 
+ a) Dịch vụ cung cấp thông tin, tài liệu: cung cấp tài liệu; thông tin về tài liệu; tra cứu, tìm, phổ biến và xử lý thông tin, tài liệu;
 
-### Điều 41.12.TT.1.13. Thống kê thư viện
+ b) Dịch vụ hỗ trợ việc học tập ngoài nhà trường: hướng dẫn sử dụng thư viện; tổ chức các chương trình giáo dục theo nhu cầu của cộng đồng, người sử dụng; hội thảo, toạ đàm, nói chuyện chuyên đề;
 
-*Nội dung chưa có sẵn*
+ c) Dịch vụ văn hoá và giải trí;
 
-**Chỉ mục:** 13
+ d) Dịch truy nhập máy tính cộng cộng;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802529900187501300
+ đ) Dịch vụ tư vấn, hỗ trợ về chuyên môn, nghiệp vụ thư viện và một số dịch vụ hỗ trợ cho hoạt động của thư viện.
 
-**ID:** dk_00071027
+ 3. Việc tổ chức dịch vụ thư viện phải phù hợp, đáp ứng nhu cầu của đối tượng người sử dụng mà thư viện có trách nhiệm phục vụ; bảo đảm việc tiếp cận bình đẳng, thuận lợi, dễ dàng cho người sử dụng.Điều 41.12.TT.1.11. Biên soạn ấn phẩm thông tin thư viện
 
----
+(Điều 11 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
+ 1. Biên soạn ấn phẩm thông tin thư viện nhằm phổ biến, quảng bá, giới thiệu vốn tài liệu thư viện; tài liệu mới xuất bản, bổ sung vào thư viện; đồng thời cũng chỉ chỗ nguồn tài liệu, giúp người sử dụng tiếp cận được tài liệu phù hợp với nhu cầu.
 
-### Điều 41.12.TT.8.4. Nguyên tắc trong triển khai hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ 2. Ấn phẩm thông tin thư viện được biên soạn dưới dạng giấy, điện tử, bao gồm một số loại hình chủ yếu sau:
 
-Điều 41.12.TT.8.4. Nguyên tắc trong triển khai hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ a) Thông tin thư mục: Thư mục Quốc gia do Thư viện Quốc gia Việt Nam biên soạn; thư mục thông báo tài liệu mới bổ sung vào thư viện; thư mục chuyên đề; thư mục các bài trích báo, tạp chí;
 
-**Chỉ mục:** 4
+ b) Thông tin chọn lọc, chuyên đề có tóm tắt nội dung tài liệu;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050000400
+ c) Một số loại hình khác.
 
-**ID:** dk_00071028
+ 3. Việc biên soạn ấn phẩm thông tin thư viện phải kịp thời, thường xuyên; phù hợp với chức năng, nhiệm vụ của từng loại hình thư viện và đối tượng người sử dụng mà thư viện có trách nhiệm phục vụ.Điều 41.12.TT.1.12. Hoạt động truyền thông, vận động
 
----
+(Điều 12 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
+ 1. Hoạt động truyền thông, vận động của thư viện nhằm thu hút người sử dụng tới thư viện, sử dụng dịch vụ thư viện.
 
-### Điều 41.12.TT.8.5. Hoạt động thư viện lưu động
+ 2. Hoạt động truyền thông, vận động của thư viện bao gồm một số hình thức chủ yếu sau:
 
-*Nội dung chưa có sẵn*
+ a) Trưng bày, triển lãm giới thiệu sách mới, chuyên đề tại thư viện, ngoài thư viện, trên các phương tiện thông tin đại chúng và một số hình thức khác nhằm giới thiệu vốn tài liệu thư viện;
 
-**Chỉ mục:** 5
+ b) Tổ chức các sự kiện văn hóa tại thư viện nhằm thu hút người sử dụng đến thư viện, từ đó khuyến khích đọc, xây dựng thói quen đọc;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050000500
+ c) Tổ chức lấy ý kiến đánh giá của công chúng, người sử dụng về hoạt động, dịch vụ của thư viện;
 
-**ID:** dk_00071029
+ đ) Xây dựng mạng lưới tổ chức, cá nhân có liên quan để phát triển hoạt động thư viện.
 
----
+ 3. Hoạt động truyền thông, vận động của thư viện phải phù hợp với chức năng, nhiệm vụ, phạm vi, đối tượng phục vụ của thư viện và tuân thủ các quy định của pháp luật có liên quan.Điều 41.12.TT.1.13. Thống kê thư viện
 
+(Điều 13 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-### Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin
+ 1. Thống kê thư viện nhằm đánh giá kết quả hoạt động, mức độ đáp ứng của thư viện đối với nhu cầu của người sử dụng; qua đó cung cấp các số liệu cần thiết để cơ quan quản lý thư viện và thư viện có căn cứ xây dựng kế hoạch, duy trì và cải thiện các dịch vụ từ đó nâng cao chất lượng, hiệu quả phục vụ của thư viện.
+
+ 2. Một số nội dung thống kê chủ yếu:
+
+ a) Thống kê về tài liệu:
+
+ - Số lượng vốn tài liệu, bao gồm: đầu sách/bản sách; đầu báo, tạp chí; số lượng tài liệu theo nội dung, dạng thức của tài liệu; số đầu tài liệu/cơ sở dữ liệu;
+
+ - Lượt tài liệu được lưu hành, bao gồm: lượt tài liệu được sử dụng tại thư viện, hoặc ngoài thư viện, được truy nhập đối với tài liệu điện tử, tài liệu đa phương tiện; lượt sử dụng tài liệu theo môn loại tri thức.
+
+ b) Thống kê về người sử dụng:
+
+ - Số người đăng ký sử dụng thư viện thường xuyên; số người lần đầu tiên đến đăng ký sử dụng thư viện trong năm;
+
+ - Thành phần người sử dụng thư viện;
+
+ - Lượt người sử dụng thư viện.
+
+ c) Một số nội dung thống kê khác tuỳ theo từng loại hình thư viện, yêu cầu của cơ quan trực tiếp quản lý thư viện và cơ quan quản lý nhà nước về thư viện.
+
+ 3. Thống kê thư viện phải được thực hiện theo quy định của pháp luật về thống kê.Điều 41.12.TT.8.4. Nguyên tắc trong triển khai hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+(Điều 4 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+ 1. Tuân thủ quy tắc, quy trình hoạt động chuyên môn, nghiệp vụ thư viện.
+
+ 2. Lấy người sử dụng thư viện làm trung tâm; thường xuyên đổi mới sáng tạo về quy trình cung ứng sản phẩm và dịch vụ thư viện; chủ động, kịp thời, linh hoạt, bảo đảm cung cấp cơ hội tiếp cận với tài nguyên thông tin và sản phẩm, dịch vụ thư viện phục vụ nhu cầu học tập, nghiên cứu và giải trí cho mọi đối tượng, đặc biệt là thiếu nhi, người cao tuổi và người khuyết tật.
+
+ 3. Bố trí thời gian hoạt động thư viện lưu động, luân chuyển tài nguyên thông tin phù hợp với điều kiện sinh hoạt, học tập, sản xuất; bảo đảm thực hiện đầy đủ các hoạt động chuyên môn, nghiệp vụ quy định tại Thông tư này.
+
+ 4. Bảo đảm an toàn về người, tài sản của thư viện; kịp thời thích ứng với từng điều kiện, hoàn cảnh cụ thể.
+
+ 5. Ứng dụng công nghệ thông tin, chuyển đổi số hướng đến phát triển tài nguyên thông tin số, tài nguyên thông tin mở, thư viện số trong tổ chức các hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin.
+
+ 6. Thiết lập cơ chế phối hợp giữa các loại thư viện, thư viện và các cơ quan, tổ chức có liên quan nhằm huy động, chia sẻ và phát huy hiệu quả các nguồn lực phục vụ người sử dụng.
+
+ 7. Tuân thủ quy định của pháp luật về sở hữu trí tuệ, khoa học và công nghệ, công nghệ thông tin, an ninh mạng và các quy định khác của pháp luật có liên quan.Điều 41.12.TT.8.5. Hoạt động thư viện lưu động
+
+(Điều 5 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+1. Phát triển tài nguyên thông tin
+
+a) Khảo sát địa điểm, đối tượng, nhu cầu của người sử dụng mà thư viện có trách nhiệm phục vụ làm căn cứ để lựa chọn, bổ sung các loại hình tài nguyên thông tin bảo đảm phù hợp với trình độ, nhu cầu của người sử dụng. Ưu tiên lựa chọn tài nguyên thông tin phục vụ phát triển kinh tế, văn hóa, xã hội của địa phương và các tài nguyên thông tin phục vụ cho nhóm đối tượng đặc thù như: thiếu nhi, người cao tuổi, người khuyết tật, đồng bào dân tộc thiểu số, đối tượng thuộc khu vực biên giới, hải đảo, vùng có điều kiện kinh tế-xã hội khó khăn, đặc biệt khó khăn, nhóm đối tượng chuyên biệt (nhà quản lý, nhà nghiên cứu, các doanh nghiệp, tổ chức, cá nhân có nhu cầu sử dụng tài nguyên thông tin phục vụ sản xuất, kinh doanh);
+
+b) Báo cáo kết quả khảo sát, lập danh mục lựa chọn tài nguyên thông tin và đưa vào Kế hoạch hoạt động thư viện lưu động hằng năm của thư viện; việc lựa chọn tài nguyên thông tin phải bảo đảm yêu cầu:
+
+- Tài nguyên thông tin là tài liệu in có ít nhất 03 bản trở lên đối với 01 tên sách trong kho sách của thư viện và không thuộc đối tượng là tài nguyên thông tin hạn chế sử dụng theo quy định;
+
+- Tài nguyên thông tin có tính cập nhật, không bị lỗi thời, phù hợp với nhu cầu của từng điểm phục vụ hoặc luân chuyển;
+
+- Đối với tài nguyên thông tin là tài liệu số phải tuân thủ quy định của pháp luật về sở hữu trí tuệ và các quy định khác có liên quan.
+
+c) Thực hiện bổ sung tài nguyên thông tin bằng các hình thức tiếp nhận xuất bản phẩm, mua tài nguyên thông tin, quyền truy cập cơ sở dữ liệu, tài nguyên thông tin số, tài nguyên thông tin mở, tài nguyên thông tin thuộc về công chúng, tài nguyên thông tin trực tuyến có giá trị khác.
+
+2. Xử lý thông tin và tổ chức tra cứu thông tin thực hiện theo quy trình nghiệp vụ phục vụ việc tra cứu, sử dụng theo quy định của pháp luật.
+
+3. Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện lưu động bảo đảm khoa học, hiện đại, phù hợp với chức năng, nhiệm vụ của thư viện và nhu cầu của người sử dụng thư viện.
+
+a) Sản phẩm thông tin thư viện bao gồm: hệ thống tra cứu thông tin, cơ sở dữ liệu thư mục, dữ kiện và toàn văn; thư mục thông tin chuyên đề phục vụ cho các nhóm đối tượng; các sản phẩm thông tin thư viện khác được hình thành trong quá trình xử lý tài nguyên thông tin của thư viện được thư viện lựa chọn để phục vụ lưu động;
+
+b) Dịch vụ thư viện bao gồm: tổ chức không gian đọc, cung cấp tài nguyên thông tin tại chỗ; tư vấn, hướng dẫn sử dụng các tài nguyên thông tin của thư viện; truy cập máy tính và internet công cộng; tổ chức các hoạt động khuyến đọc; dịch vụ cung cấp thông tin theo yêu cầu và các dịch vụ khác phù hợp với chức năng, nhiệm vụ của thư viện theo quy định của pháp luật.
+
+4. Truyền thông trong hoạt động thư viện lưu động
+
+a) Xây dựng kế hoạch và tổ chức các hoạt động truyền thông, vận động gắn với các sự kiện của đất nước, của địa phương và các sự kiện khác của ngành thư viện theo quy định của pháp luật;
+
+b) Giới thiệu về tài nguyên thông tin, sản phẩm và dịch vụ, tiện ích của thư viện và các nội dung khác theo quy định của pháp luật; xây dựng quan hệ công chúng, hình ảnh của thư viện;
+
+c) Trưng bày, triển lãm giới thiệu sách, kết hợp tuyên truyền giới thiệu các hoạt động thư viện lưu động qua các phương tiện truyền thông, mạng xã hội; lồng ghép các hoạt động của thư viện lưu động trong các sự kiện Ngày Sách và Văn hóa đọc Việt Nam, các cuộc thi khuyến đọc và các hoạt động văn hóa, giáo dục khác.
+
+5. Thống kê hiệu quả phục vụ theo các chỉ tiêu lượt người được phục vụ, lượt tài nguyên thông tin và các chỉ tiêu khác theo Mẫu số 01 quy định tại Phụ lục kèm theo Thông tư này.
+
+6. Đánh giá hoạt động thư viện lưu động theo quy định của pháp luật về đánh giá hoạt động thư viện.
+
+7. Kiểm kê số lượng tài nguyên thông tin bị hư hại để có phương án bảo quản phù hợp để tái sử dụng. Tài nguyên thông tin bị hư hại là tài liệu in không còn khả năng phục chế hoặc bị mất được đưa vào danh mục tài nguyên thông tin đề nghị thanh lọc theo quy định của pháp luật.
+
+Mau so 01.doc
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin; Điều 41.12.TT.8.8. Nhân lực cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin)
 
 Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050000600
+1. Hình thức luân chuyển tài nguyên thông tin bao gồm:
 
-**ID:** dk_00071030
+a) Luân chuyển đến các điểm ngoài trụ sở thư viện đối với các tài nguyên thông tin là tài liệu in, tài liệu viết tay, tài liệu nghe, nhìn, tài liệu vi dạng gồm vi phim, vi phiếu, tài liệu đặc biệt cho người khuyết tật và các tài liệu dạng vật chất khác;
 
----
+b) Luân chuyển thông qua không gian mạng đối với tài nguyên thông tin là tài liệu số.
 
+2. Luân chuyển tài nguyên thông tin quy định tại điểm a Khoản 1 Điều này được thực hiện như sau:
 
-### Điều 41.12.TT.8.7. Chia sẻ tài liệu số
+a) Xây dựng kế hoạch, lựa chọn địa điểm luân chuyển, ưu tiên đối với các điểm xa trung tâm, điểm có thư viện huyện, xã, các tủ sách khu dân cư, nhà văn hóa, trung tâm sinh hoạt cộng đồng, các trường học và các điểm khác có phục vụ sách, báo cho cộng đồng gặp khó khăn về tài nguyên thông tin hoặc nhu cầu của người dân về sử dụng thư viện cao;
 
-*Nội dung chưa có sẵn*
+b) Lựa chọn tài nguyên thông tin là tài liệu in để thực hiện luân chuyển theo hướng dẫn tại điểm a và điểm b Khoản 1 Điều 5 Thông tư này và không đồng thời là tài nguyên thông tin được lựa chọn để phục vụ lưu động theo quy định tại Điều 5 Thông tư này;
 
-**Chỉ mục:** 7
+c) Thời gian luân chuyển tài nguyên thông tin nhiều nhất là 06 tháng với 01 điểm luân chuyển.
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050000700
+Đối với các điểm luân chuyển ở vùng sâu, vùng xa, vùng biên giới, hải đảo, thời gian luân chuyển tài nguyên thông tin do thư viện thực hiện luân chuyển quyết định nhưng phải bảo đảm tính lưu thông trong phục vụ tài nguyên thông tin tại các điểm luân chuyển;
 
-**ID:** dk_00071031
+d) Thực hiện bàn giao tài nguyên thông tin cho điểm luân chuyển, thư viện có trách nhiệm:
 
----
+- Lập biên bản bàn giao tài nguyên thông tin luân chuyển theo Mẫu số 02 quy định tại Phụ lục kèm theo Thông tư này; cung cấp danh mục tài nguyên thông tin đã bàn giao cho người phụ trách điểm luân chuyển;
 
+- Hướng dẫn cho người phụ trách điểm luân chuyển về phương pháp tổ chức, bảo quản tài nguyên thông tin và phục vụ người sử dụng;
 
-### Điều 41.12.TT.8.8. Nhân lực cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+- Yêu cầu người phụ trách điểm luân chuyển thực hiện đánh giá mức độ sử dụng tài nguyên thông tin và nhu cầu của người sử dụng;
+
+- Tổng hợp kết quả sử dụng tài nguyên thông tin của các điểm luân chuyển làm căn cứ xây dựng danh mục tài nguyên thông tin dự kiến luân chuyển tiếp theo cho từng điểm luân chuyển.
+
+đ) Thực hiện kiểm kê số lượng, thống kê tài nguyên thông tin bị hư hại, bị mất để có phương án phục chế, thanh lọc theo quy định. Tài nguyên thông tin bị hư hại không còn khả năng phục chế hoặc bị mất được đưa vào danh mục đề nghị thanh lọc theo quy định của pháp luật.
+
+3. Luân chuyển tài nguyên thông tin quy định tại điểm b Khoản 1 Điều này thực hiện thông qua hoạt động chia sẻ tài liệu số quy định tại Điều 7 Thông tư này.
+
+Mau so 02.doc
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.8.5. Hoạt động thư viện lưu động; Điều 41.12.TT.8.7. Chia sẻ tài liệu số; Điều 41.12.TT.8.8. Nhân lực cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin; Điều 41.12.TT.8.10. Phương tiện phục vụ hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin)
+
+Điều 41.12.TT.8.7. Chia sẻ tài liệu số
+
+(Điều 7 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+ 1. Căn cứ nhu cầu sử dụng tài liệu số hằng năm của người sử dụng, thư viện xây dựng danh mục tài nguyên thông tin, kế hoạch liên kết, chia sẻ tài liệu số đến các thư viện, điểm phục vụ trên địa bàn.
+
+ 2. Tiếp nhận xuất bản phẩm, mua quyền truy cập cơ sở dữ liệu, tài liệu số, tài nguyên thông tin mở, tài nguyên thông tin thuộc về công chúng, sản phẩm thông tin thư viện ở dạng số do thư viện thực hiện và tài nguyên thông tin trực tuyến có giá trị khác.
+
+ Việc bổ sung tài liệu số phải bảo đảm tính tương thích về mặt kỹ thuật để các điểm luân chuyển thuận tiện trong việc khai thác, sử dụng. Tài liệu số được lựa chọn để chia sẻ không thuộc tài nguyên thông tin hạn chế sử dụng theo quy định của pháp luật.
+
+ 3. Việc chia sẻ tài liệu số tuân thủ cơ chế liên thông thư viện theo quy định tại Nghị định số 93/2020/NĐ-CP ngày 18 tháng 8 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Thư viện.
+
+ 4. Thư viện thực hiện chia sẻ tài liệu số có trách nhiệm:
+
+ a) Hướng dẫn cho người phụ trách điểm luân chuyển truy cập, bảo quản, bảo mật và khai thác tài liệu số phục vụ người sử dụng;
+
+ b) Yêu cầu người phụ trách điểm luân chuyển thống kê mức độ sử dụng tài nguyên thông tin của người sử dụng;
+
+ c) Tổng hợp kết quả sử dụng của các điểm luân chuyển làm căn cứ xây dựng danh mục dự kiến chia sẻ tiếp theo.(Điều này có nội dung liên quan đến Mục 6 LIÊN THÔNG THƯ VIỆN - Chương II của Nghị định 93/2020/NĐ-CP Quy định chi tiết một số điều của Luật Thư viện ban hành ngày 18/08/2020; Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin)
 
 Điều 41.12.TT.8.8. Nhân lực cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050000800
+ 1. Nhân lực tham gia hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin được bố trí trong tổng số nhân lực thư viện và đội ngũ cộng tác viên của thư viện phải đáp ứng yêu cầu sau đây:
 
-**ID:** dk_00071032
+ a) Có kinh nghiệm hoặc được tập huấn nghiệp vụ trong hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin;
 
----
+ b) Có trình độ chuyên môn, nghiệp vụ về thư viện và am hiểu về công nghệ thông tin;
 
+ c) Có ít nhất 03 vị trí việc làm tham gia 01 đợt phục vụ lưu động trong đó: 01 vị trí vận hành phương tiện lưu động và 02 vị trí tham gia vào việc tổ chức các hoạt động chuyên môn, nghiệp vụ đối với thư viện lưu động theo quy định của Điều 5 Thông tư này;
 
-### Điều 41.12.TT.8.9. Nguồn kinh phí cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ d) Có ít nhất 01 vị trí việc làm tham gia luân chuyển tài nguyên thông tin thực hiện các hoạt động theo quy định tại Điều 6 Thông tư này.
+
+ 2. Người tham gia hoạt động thư viện lưu động, hoạt động luân chuyển tài nguyên thông tin theo quy định tại điểm a Khoản 1 Điều 6 được hưởng chế độ công tác phí và các chế độ khác theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 41.12.TT.8.5. Hoạt động thư viện lưu động; Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin)
 
 Điều 41.12.TT.8.9. Nguồn kinh phí cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050000900
+ 1. Đối với thư viện công lập được bố trí từ các nguồn:
 
-**ID:** dk_00071033
+ a) Kinh phí hoạt động hằng năm của thư viện được cấp có thẩm quyền phê duyệt theo quy định của pháp luật về ngân sách Nhà nước và các văn bản hướng dẫn thi hành;
 
----
+ b) Chương trình, đề án, dự án của Nhà nước, tổ chức, cá nhân có liên quan đến lĩnh vực thư viện;
 
+ c) Tài trợ, viện trợ hợp pháp của tổ chức, cá nhân trong và ngoài nước;
 
-### Điều 41.12.TT.8.10. Phương tiện phục vụ hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ d) Nguồn xã hội hóa và các nguồn thu hợp pháp khác.
 
-Điều 41.12.TT.8.10. Phương tiện phục vụ hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ 2. Đối với thư viện ngoài công lập được bố trí từ nguồn kinh phí tự nguyện của thư viện và các nguồn kinh phí hợp pháp khác.Điều 41.12.TT.8.10. Phương tiện phục vụ hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050001000
+ 1. Thư viện bố trí phương tiện phục vụ hoạt động thư viện lưu động và hoạt động luân chuyển tài nguyên thông tin theo quy định tại điểm a Khoản 1 Điều 6 Thông tư này bao gồm: xe ô tô, thuyền, xe đẩy hoặc phương tiện vận chuyển khác phù hợp với đặc thù, tính chất hoạt động và điều kiện của thư viện.
 
-**ID:** dk_00071034
+ 2. Phương tiện phục vụ cho hoạt động thư viện lưu động phải bảo đảm các yêu cầu sau:
 
----
+ a) Có đầy đủ không gian để lưu giữ tài liệu, máy tính và trang thiết bị, băng rôn, khẩu hiệu và các vật dụng phục vụ cho hoạt động tác nghiệp của thư viện lưu động;
 
+ b) Có máy tính có kết nối internet và các vật dụng hỗ trợ cung ứng sản phẩm và dịch vụ thư viện lưu động;
 
-### Điều 41.12.TT.8.11. Trách nhiệm của thư viện trong hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ c) Có trang thiết bị hỗ trợ phát điện, âm thanh, đèn chiếu sáng.
+
+ 3. Khuyến khích các thư viện áp dụng các tiêu chuẩn đối với phương tiện phục vụ thư viện lưu động để nâng cao chất lượng, hiệu quả cung ứng sản phẩm và dịch vụ phục vụ người sử dụng.(Điều này có nội dung liên quan đến Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin)
 
 Điều 41.12.TT.8.11. Trách nhiệm của thư viện trong hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050001100
+ 1. Thư viện thực hiện hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin có trách nhiệm:
 
-**ID:** dk_00071035
+ a) Xây dựng kế hoạch phù hợp với nhu cầu, điều kiện lao động, học tập và sinh hoạt của người dân, ưu tiên vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn, biên giới, hải đảo, vùng đồng bào dân tộc thiểu số, trình cơ quan có thẩm quyền phê duyệt và tổ chức thực hiện;
 
----
+ b) Xây dựng kho tài nguyên thông tin chuyên biệt phục vụ hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin theo quy định của Thông tư này; thường xuyên cập nhật, đổi mới nội dung tài nguyên thông tin;
 
+ c) Thông báo cho chính quyền địa phương hoặc cơ quan quản lý thư viện tại nơi tổ chức phục vụ lưu động hoặc luân chuyển tài nguyên thông tin về kế hoạch hoạt động để phối hợp công tác hiệu quả; chủ động phối hợp với các cơ quan có liên quan tổ chức hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin theo quy định tại Thông tư này;
 
-### Điều 41.12.TT.8.12. Trách nhiệm của tổ chức, cá nhân tham gia hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ d) Khảo sát cơ sở hạ tầng thông tin tại các điểm hoạt động thư viện lưu động, luân chuyển tài nguyên thông tin, bảo đảm kết nối internet thuận tiện, phục vụ cho việc truy cập và tra cứu tài nguyên thông tin;
 
-Điều 41.12.TT.8.12. Trách nhiệm của tổ chức, cá nhân tham gia hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+ đ) Thực hiện báo cáo định kỳ, hằng năm và báo cáo đột xuất về tình hình hoạt động của thư viện lưu động và luân chuyển tài nguyên thông tin cho cơ quan chủ quản và cơ quan quản lý nhà nước về thư viện theo quy định của pháp luật;
 
-**Chỉ mục:** 12
+ e) Huy động nguồn xã hội hóa nhằm tăng cường nguồn lực cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin;
 
-**Mã phân cấp:** 410120000000000030000240000000000000000000802809500050001200
+ g) Quản lý nhân lực, tài chính, tài sản của thư viện trong quá trình hoạt động; bảo quản tài nguyên thông tin, kiểm kê, thống kê tài sản sau mỗi đợt phục vụ;
 
-**ID:** dk_00071036
+ h) Thực hiện các nhiệm vụ khác theo quy định của pháp luật.
 
----
+ 2. Thư viện có vai trò quan trọng theo quy định của pháp luật có trách nhiệm:
 
+ a) Các trách nhiệm theo quy định tại Khoản 1 Điều này;
 
-### Điều 41.12.LQ.25. Xây dựng tài nguyên thông tin
+ b) Giữ vai trò nòng cốt trong kết nối, chia sẻ tài liệu số, thực hiện các quy định về liên thông, chia sẻ tài nguyên thông tin theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+ 3. Thư viện công cộng cấp tỉnh giữ vai trò chính trong hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin tại địa phương.Điều 41.12.TT.8.12. Trách nhiệm của tổ chức, cá nhân tham gia hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
 
-**Chỉ mục:** 25
+(Điều 12 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 4101200000000000300002500000000000000000
+ 1. Chấp hành nội quy, quy định của thư viện và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00071037
+ 2. Tham gia bảo quản tài nguyên thông tin và phương tiện, trang thiết bị phục vụ lưu động của thư viện theo quy định.
 
----
+ 3. Tổ chức, cá nhân tiếp nhận hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin ngoài việc thực hiện quy định tại các Khoản 1 và 2 Điều này, có trách nhiệm:
 
+ a) Bố trí địa điểm, bảo đảm an ninh, trật tự an toàn xã hội cho hoạt động thư viện lưu động; bảo đảm cơ sở vật chất lưu giữ và có biện pháp bảo quản tránh thất thoát tài nguyên thông tin khi tiếp nhận luân chuyển;
 
-### Điều 41.12.TT.5.16. Mục đích, nguyên tắc thanh lọc tài nguyên thông tin
+ b) Phối hợp với thư viện trong việc triển khai các hoạt động phục vụ người sử dụng;
+
+ c) Sau khi tiếp nhận tài nguyên thông tin phải triển khai các hoạt động phục vụ người sử dụng, thống kê kết quả phục vụ theo quy định, thu hồi tài nguyên thông tin sau khi triển khai phục vụ, đánh giá hiệu quả và đề xuất tài nguyên thông tin mới phù hợp với nhu cầu.Điều 41.12.LQ.25. Xây dựng tài nguyên thông tin
+
+(Điều 25 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Xâydựng tài nguyên thông tin gồm phát triển và thanh lọc tài nguyên thông tin.
+
+2. Phát triển tài nguyên thông tin được quy định như sau:
+
+a) Xác định phương thức và nguồn bổ sung tài nguyên thông tin phù hợp vớchức năng, nhiệm vụ, đối tượng phục vụ của thư viện; tiếp nhận xuất bản phẩm, ấn phẩm báo chí theo quy định của pháp luật về xuất bản, báo chí và theo chức năng, nhiệm vụ của thư việnđược quy định tại Luật này;
+
+b) Bổ sung, mua tài nguyên thông tin và quyền truy cập cơ sở dữ liệu, tài nguyên thông tin số;
+
+c) Thu thập tài nguyên thông tin mở, tài nguyên thông tin thuộc về công chúng, tài nguyên thông tin trực tuyếncógiá trị khác;
+
+d) Liên thông trao đổi tài nguyên thông tin giữa các thư viện trong nước và nước ngoài; hợp tác trong việc bổ sung, chia sẻ, dùng chung cơ sở dữ liệu hoặc quyền truy cập tài nguyên thông tin số;
+
+đ) Chuyển dạng, số hóa tài nguyên thông tin phục vụ lưu giữ và nghiên cứu theo quy định của pháp luật về sở hữu trí tuệ và quy định khác của pháp luật có liên quan;
+
+e) Tiếp nhận tài nguyên thông tin do tổ chức, cá nhân trong nước và nước ngoài chuyển giao, tàitrợ, viện trợ, tặng cho, đóng góp.
+
+3. Thanh lọc tài nguyên thông tin được thực hiện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.5.1. Phạm vi điều chỉnh; Điều 41.12.TT.10.1. )
 
 Điều 41.12.TT.5.16. Mục đích, nguyên tắc thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020001600
+1. Thanh lọc tài nguyên thông tin được thực hiện theo quy định của Thông tư này nhằm:
 
-**ID:** dk_00071038
+a) Nâng cao chất lượng tài nguyên thông tin, giảm bớt thời gian tìm kiếm trong phục vụ người sử dụng;
 
----
+b) Tạo điều kiện thuận lợi để người sử dụng tiếp cận và khai thác tài nguyên thông tin của thư viện;
 
+c) Tiết kiệm chi phí cho công tác tổ chức kho, bảo quản tài nguyên thông tin và tận dụng giá trị sử dụng của tài nguyên thông tin của thư viện.
 
-### Điều 41.12.TT.5.17. Thời hạn thanh lọc tài nguyên thông tin
+2. Việc thanh lọc tài nguyên thông tin được thực hiện theo nguyên tắc sau:
+
+a) Thanh lọc tài nguyên thông tin phải được thực hiện định kỳ theo quy định tại Điều 17 Thông tư này, gắn với hoạt động phát triển tài nguyên thông tin;
+
+b) Tài nguyên thông tin được phép thanh lọc khi có một trong các tiêu chí quy định tại các Điều 19, 20, 21 và 22 Thông tư này;
+
+c) Số lượng tài nguyên thông tin được phép thanh lọc trong 01 lần không quá 10% tổng số tài nguyên thông tin trong thư viện.
 
 Điều 41.12.TT.5.17. Thời hạn thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020001700
+1. Thanh lọc tài nguyên thông tin được tiến hành định kỳ 03 năm/01 lần đối với thư viện có tài nguyên thông tin từ 300.000 đơn vị bảo quản trở xuống và 05 năm/01 lần đối với thư viện có tài nguyên thông tin từ 300.000 đơn vị bảo quản trở lên.
 
-**ID:** dk_00071039
-
----
-
-
-### Điều 41.12.TT.5.18. Bảo đảm cho việc thanh lọc tài nguyên thông tin
+2. Trường hợp đặc biệt, việc thanh lọc tài nguyên thông tin được tiến hành đột xuất theo yêu cầu của cơ quan, tổ chức trực tiếp quản lý thư viện và cơ quan có thẩm quyền khác.
 
 Điều 41.12.TT.5.18. Bảo đảm cho việc thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020001800
+1. Căn cứ thời hạn thanh lọc tài nguyên thông tin quy định tại Điều 17 Thông tư này, người đứng đầu thư viện có trách nhiệm đưa hoạt động thanh lọc tài nguyên thông tin vào kế hoạch công tác năm.
 
-**ID:** dk_00071040
+2. Kinh phí chi cho việc thanh lọc tài nguyên thông tin được bố trí từ ngân sách nhà nước.
 
----
-
-
-### Điều 41.12.TT.5.19. Tiêu chí về nội dung, hình thức và thời gian xuất bản
+Thư viện dự trù kinh phí chi cho việc thanh lọc tài nguyên thông tin trong kế hoạch ngân sách chi cho hoạt động nghiệp vụ của thư viện, trình cơ quan, tổ chức có thẩm quyền phê duyệt.
 
 Điều 41.12.TT.5.19. Tiêu chí về nội dung, hình thức và thời gian xuất bản
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020001900
+1. Tiêu chí về nội dung tài nguyên thông tin:
 
-**ID:** dk_00071041
+a) Tài nguyên thông tin có nội dung lạc hậu, không còn giá trị lịch sử, văn hóa, khoa học, thực tiễn;
 
----
+b) Tài nguyên thông tin là văn bản quy phạm pháp luật hết hiệu lực thi hành, trừ trường hợp do thư viện chuyên ngành phục vụ hoạt động nghiên cứu pháp luật hoặc lập pháp lưu giữ;
 
+c) Tài nguyên thông tin có giá trị về nội dung nhưng không phù hợp với chức năng, nhiệm vụ của thư viện và nhu cầu của người sử dụng mà thư viện có trách nhiệm phục vụ.
 
-### Điều 41.12.TT.5.20. Tiêu chí về tình trạng
+2. Tiêu chí về hình thức tài nguyên thông tin:
 
-*Nội dung chưa có sẵn*
+a) Sách giáo khoa, giáo trình, tài liệu tham khảo dùng trong các cơ sở giáo dục đã được sửa đổi, thay thế; đối với thư viện đại học, thư viện chuyên ngành, giữ lại tối thiểu 01 bản phục vụ nghiên cứu, tham khảo;
 
-**Chỉ mục:** 20
+b) Tài liệu số đã có phiên bản mới cập nhật, thay thế được sản xuất bằng các công nghệ cao hơn.
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002000
+3. Tiêu chí về thời gian xuất bản áp dụng đối với báo, tạp chí phổ thông, khoa học thường thức là 02 năm sau khi xuất bản.
 
-**ID:** dk_00071042
+4. Tiêu chí quy định tại các khoản 1, 2 và 3 Điều này không áp dụng đối với tài liệu địa chí được lưu giữ trong các thư viện công cộng.
 
----
+Điều 41.12.TT.5.20. Tiêu chí về tình trạng
 
+(Điều 20 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-### Điều 41.12.TT.5.21. Tiêu chí về số lượng bản
+1. Tài nguyên thông tin còn giá trị về nội dung nhưng đã cũ nát trong quá trình sử dụng hoặc do thiên tai, bão lũ, côn trùng xâm hại mà không thể phục chế, trừ những tài liệu là di sản văn hóa theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+2. Bản ghi âm, ghi hình, ghi chữ bị hỏng, gãy, nứt trong quá trình sử dụng, chất lượng không còn bảo đảm.
 
-**Chỉ mục:** 21
+3. Tài nguyên thông tin bị mất trong quá trình phục vụ người sử dụng và luân chuyển, trao đổi.
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002100
+Điều 41.12.TT.5.21. Tiêu chí về số lượng bản
 
-**ID:** dk_00071043
+(Điều 21 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
----
+1. Thanh lọc tài nguyên thông tin thư viện có nhiều bản trên một tên được quy định như sau:
 
+a) Đối với sách in: có trên 04 bản/01 tên sách;
 
-### Điều 41.12.TT.5.22. Tiêu chí về ngôn ngữ
+b) Đối với báo, tạp chí in: có trên 02 bản/01 số báo, tạp chí.
 
-*Nội dung chưa có sẵn*
+2. Tiêu chí quy định tại khoản 1 Điều này không áp dụng đối với tài nguyên thông tin trong thư viện của cơ sở giáo dục.
 
-**Chỉ mục:** 22
+Điều 41.12.TT.5.22. Tiêu chí về ngôn ngữ
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002200
+(Điều 22 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**ID:** dk_00071044
+1. Các tài nguyên thông tin được xuất bản bằng tiếng dân tộc thiểu số không phù hợp với đặc điểm dân cư trên địa bàn.
 
----
+2. Các tài nguyên thông tin bằng tiếng nước ngoài không thông dụng, mà không có người sử dụng trong thời gian 05 năm tính đến thời điểm đề nghị thanh lọc.
 
-
-### Điều 41.12.TT.5.23. Trình tự thanh lọc tài nguyên thông tin
+3. Tiêu chí quy định tại các khoản 1 và 2 Điều này không áp dụng đối với tài nguyên thông tin được lưu giữ trong Thư viện Quốc gia Việt Nam.
 
 Điều 41.12.TT.5.23. Trình tự thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 23
+(Điều 23 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002300
+1. Xây dựng đề án thanh lọc tài nguyên thông tin và trình phê duyệt đề án.
 
-**ID:** dk_00071045
+2. Thực hiện thanh lọc tài nguyên thông tin theo quy định tại Điều 25 Thông tư này.
 
----
+3. Thẩm định tài nguyên thông tin đề nghị thanh lọc và phê duyệt danh mục, hình thức xử lý tài nguyên thông tin được phép thanh lọc theo quy định tại Điều 27 Thông tư này.
 
+4. Chỉnh lý sổ đăng ký cá biệt, hệ thống tra cứu thông tin của thư viện theo quy định tại Điều 28 Thông tư này.
 
-### Điều 41.12.TT.5.24. Thủ tục trình và phê duyệt đề án thanh lọc tài nguyên thông tin
+5. Xử lý tài nguyên thông tin sau thanh lọc theo quy định tại Điều 29 Thông tư này.
+
+6. Lưu giữ và bảo quản hồ sơ thanh lọc tài nguyên thông tin thư viện theo quy định tại Điều 30 Thông tư này.
 
 Điều 41.12.TT.5.24. Thủ tục trình và phê duyệt đề án thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 24
+(Điều 24 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002400
+1. Thư viện có yêu cầu thanh lọc tài nguyên thông tin gửi 01 bộ hồ sơ đề nghị thanh lọc đến cơ quan, tổ chức trực tiếp quản lý thư viện.
 
-**ID:** dk_00071046
+Hồ sơ đề nghị bao gồm:
 
----
+a) Quyết định của cơ quan, tổ chức trực tiếp quản lý thư viện phê duyệt kế hoạch công tác năm của thư viện, trong đó có nhiệm vụ thanh lọc tài nguyên thông tin. Trường hợp đột xuất phải có văn bản của cơ quan, tổ chức trực tiếp quản lý thư viện;
 
+b) Tờ trình đề nghị phê duyệt đề án thanh lọc tài nguyên thông tin theo Mẫu số 01 của Phụ lục ban hành theo Thông tư này;
 
-### Điều 41.12.TT.5.25. Thực hiện thanh lọc tài nguyên thông tin
+c) Đề án thanh lọc tài nguyên thông tin theo Mẫu số 02 của Phụ lục ban hành theo Thông tư này.
+
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan, tổ chức trực tiếp quản lý thư viện có trách nhiệm xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, cơ quan, tổ chức trực tiếp quản lý thư viện thông báo bằng văn bản cho thư viện để chỉnh sửa, bổ sung.
+
+3. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, cơ quan, tổ chức trực tiếp quản lý thư viện có trách nhiệm xem xét, ra quyết định phê duyệt đề án theo Mẫu số 03 của Phụ lục ban hành theo Thông tư này.
+
+Mẫu số 01.doc
+
+Mẫu số 02.doc
+
+Mẫu số 03.doc
 
 Điều 41.12.TT.5.25. Thực hiện thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 25
+(Điều 25 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002500
+Việc thanh lọc tài nguyên thông tin thư viện được thực hiện như sau:
 
-**ID:** dk_00071047
+1. Tiến hành kiểm kê tài nguyên thông tin, đánh dấu những tài nguyên thông tin nằm trong diện đề nghị thanh lọc.
 
----
+2. Lập danh mục và đề xuất hình thức xử lý tài nguyên thông tin đề nghị thanh lọc theo Mẫu số 04 của Phụ lục ban hành theo Thông tư này.
 
+3. Đưa tài nguyên thông tin đề nghị thanh lọc ra khỏi kho để thẩm định.
 
-### Điều 41.12.TT.5.26. Hội đồng thẩm định tài nguyên thông tin đề nghị thanh lọc
+Mẫu số 04.doc
 
 Điều 41.12.TT.5.26. Hội đồng thẩm định tài nguyên thông tin đề nghị thanh lọc
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002600
+1. Hội đồng thẩm định tài nguyên thông tin (sau đây gọi là Hội đồng) thực hiện chức năng thẩm định tài nguyên thông tin đề nghị thanh lọc để tư vấn cho cơ quan, tổ chức trực tiếp quản lý thư viện ra quyết định phê duyệt danh mục và hình thức xử lý tài nguyên thông tin được phép thanh lọc.
 
-**ID:** dk_00071048
+2. Người đứng đầu cơ quan, tổ chức trực tiếp quản lý thư viện có thẩm quyền ra quyết định thành lập Hội đồng theo Mẫu số 05 của Phụ lục ban hành theo Thông tư này.
 
----
+3. Thành phần của Hội đồng gồm có:
 
+Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng là đại diện lãnh đạo cơ quan, tổ chức trực tiếp quản lý thư viện và các thành viên là đại diện thư viện có tài nguyên thông tin đề nghị thanh lọc, đại diện đơn vị có liên quan đến việc quản lý tài sản trực thuộc cơ quan, tổ chức trực tiếp quản lý thư viện và người am hiểu về lĩnh vực có tài nguyên thông tin đề nghị thanh lọc.
 
-### Điều 41.12.TT.5.27. Thẩm định tài nguyên thông tin đề nghị thanh lọc, phê duyệt danh mục và hình thức xử lý tài nguyên thông tin được phép thanh lọc
+Mẫu số 05.doc
 
 Điều 41.12.TT.5.27. Thẩm định tài nguyên thông tin đề nghị thanh lọc, phê duyệt danh mục và hình thức xử lý tài nguyên thông tin được phép thanh lọc
 
-**Chỉ mục:** 27
+(Điều 27 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002700
+1. Việc thẩm định tài nguyên thông tin đề nghị thanh lọc được thực hiện như sau:
 
-**ID:** dk_00071049
+a) Xem xét, đánh giá trực tiếp đối với tài nguyên thông tin đề nghị thanh lọc chứa đựng một trong các tiêu chí quy định tại các Điều 19, 20 và 22 Thông tư này;
 
----
+b) Xem xét, đánh giá trên sổ đăng ký cá biệt đối với tài nguyên thông tin đề nghị thanh lọc chứa đựng tiêu chí quy định tại Điều 21 Thông tư này;
 
+c) Lập biên bản kết quả thẩm định tài nguyên thông tin đề nghị thanh lọc kèm theo kiến nghị của Hội đồng về danh mục các tài nguyên thông tin đủ điều kiện thanh lọc và hình thức xử lý các tài nguyên thông tin theo Mẫu số 06a và Mẫu số 06b của Phụ lục ban hành theo Thông tư này.
 
-### Điều 41.12.TT.5.28. Chỉnh lý sổ đăng ký cá biệt, hệ thống tra cứu thông tin
+2. Trên cơ sở kết quả thẩm định của Hội đồng, cơ quan, tổ chức trực tiếp quản lý thư viện ra quyết định phê duyệt Danh mục tài nguyên thông tin được phép thanh lọc và hình thức xử lý các tài nguyên thông tin theo Mẫu số 07a và Mẫu số 07b của Phụ lục ban hành theo Thông tư này.
+
+Mẫu số 06a.doc
+
+Mẫu số 06b.doc
+
+Mẫu số 07a.doc
+
+Mẫu số 07b.doc
 
 Điều 41.12.TT.5.28. Chỉnh lý sổ đăng ký cá biệt, hệ thống tra cứu thông tin
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002800
+Việc chỉnh lý sổ đăng ký cá biệt, hệ thống tra cứu thông tin của thư viện được thực hiện như sau:
 
-**ID:** dk_00071050
+1. Đối với tài liệu in được thanh lọc có trên 01 bản: điền cụm từ “đã thanh lọc” vào cột ghi chú của sổ đăng ký cá biệt, ở dòng tương thích với số đăng ký cá biệt của tài nguyên thông tin được phép thanh lọc, các biểu ghi tương ứng của cơ sở dữ liệu và ghi số quyết định thanh lọc của cơ quan có thẩm quyền.
 
----
+Đối với tài liệu in được thanh lọc chỉ có một bản duy nhất: xóa số đăng ký cá biệt trên phiếu mô tả hoặc rút phiếu mô tả tài nguyên thông tin đó ra khỏi hệ thống mục lục và cơ sở dữ liệu của thư viện (nếu có)
 
-
-### Điều 41.12.TT.5.29. Xử lý tài nguyên thông tin sau thanh lọc
+2. Đối với tài liệu số: xóa tài liệu khỏi cơ sở dữ liệu có chứa tài liệu số.
 
 Điều 41.12.TT.5.29. Xử lý tài nguyên thông tin sau thanh lọc
 
-**Chỉ mục:** 29
+(Điều 29 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020002900
+1. Tài nguyên thông tin sau thanh lọc theo tiêu chí quy định tại các Điều 19, 20, 21 và 22 được xử lý dưới hình thức sau:
 
-**ID:** dk_00071051
+a) Chuyển đổi mục đích sử dụng;
 
----
+b) Thực hiện thanh lý.
 
+2. Thư viện có tài nguyên thông tin thanh lọc phải công bố danh mục tài nguyên thông tin thanh lọc tại trụ sở thư viện và trên trang thông tin điện tử của thư viện (nếu có) trong thời hạn 15 ngày.
 
-### Điều 41.12.TT.5.30. Lưu giữ và bảo quản hồ sơ thanh lọc tài nguyên thông tin
+3. Hết thời hạn theo quy định tại khoản 2 Điều này, thư viện thực hiện việc xử lý tài nguyên thông tin thanh lọc theo quyết định của cơ quan, tổ chức trực tiếp quản lý thư viện.
 
 Điều 41.12.TT.5.30. Lưu giữ và bảo quản hồ sơ thanh lọc tài nguyên thông tin
 
-**Chỉ mục:** 30
+(Điều 30 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000250000000000000000000802729400020003000
+1. Hồ sơ thanh lọc tài nguyên thông tin phải được bảo quản tại thư viện trong thời hạn ít nhất 05 năm, kể từ ngày thực hiện việc thanh lọc.
 
-**ID:** dk_00071052
+2. Hồ sơ thanh lọc tài nguyên thông tin bao gồm:
 
----
+a) Hồ sơ đề nghị thanh lọc tài nguyên thông tin quy định tại khoản 1 Điều 24 Thông tư này;
 
+b) Danh mục tài nguyên thông tin đề nghị thanh lọc theo quy định tại khoản 2 Điều 25 Thông tư này;
 
-### Điều 41.12.LQ.26. Xử lý tài nguyên thông tin và tổ chức hệ thống tra cứu thông tin
+c) Quyết định thành lập Hội đồng thẩm định tài nguyên thông tin đề nghị thanh lọc;
+
+d) Biên bản thẩm định tài nguyên thông tin đề nghị thanh lọc của Hội đồng thẩm định tài nguyên thông tin đề nghị thanh lọc;
+
+đ) Quyết định phê duyệt Danh mục và hình thức xử lý tài nguyên thông tin được phép thanh lọc của cơ quan nhà nước có thẩm quyền.
 
 Điều 41.12.LQ.26. Xử lý tài nguyên thông tin và tổ chức hệ thống tra cứu thông tin
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000300002600000000000000000
+1. Xử lý tài nguyên thông tin được quy định như sau:
 
-**ID:** dk_00071053
+a) Tài nguyên thông tin sau khi bổ sung vào thư viện phải được xử lý theo quy trình nghiệp vụ; xây dựng hệ thống tra cứu thông tin để phục vụ việc quản lý,tra cứu và sử dụng;
 
----
+b) Thực hiện biên mục sao chép, áp dụngkết quả xử lýtài nguyên thông tin có vai trò quan trọng để bảo đảm chính xác, thống nhất và tiết kiệm.
 
+2. Tổ chức hệ thốngtra cứu thông tin được quy định như sau:
 
-### Điều 41.12.LQ.27. Bảo quản tài nguyên thông tin
+a) Hệ thống tra cứu thông tin phản ánh toàn bộ tài nguyên thông tin bằng các hình thức mục lục, cơ sở dữ liệu; đăng tảitrêncổng thông tin điện tử hoặc trang thông tin điện tử của thư viện;
 
-*Nội dung chưa có sẵn*
+b) Bảo đảm lưu trữ an toàn kết quả xử lý tài nguyên thông tin;
 
-**Chỉ mục:** 27
+c) Bảo đảm cập nhật, dễ sử dụng;
 
-**Mã phân cấp:** 4101200000000000300002700000000000000000
+d) Bảo đảm liên thông trong tra cứu thông tin giữa các thư viện.
 
-**ID:** dk_00071054
+(Điều này có nội dung liên quan đến Điều 41.12.TT.10.1. )
 
----
+Điều 41.12.LQ.27. Bảo quản tài nguyên thông tin
 
+(Điều 27 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-### Điều 41.12.TT.5.4. Nguyên tắc trong hoạt động bảo quản tài nguyên thông tin
+1. Bảo quản tài nguyên thông tin được quy định như sau:
+
+a) Thực hiện đối với toàn bộ tài nguyên thông tin trong quá trình lưu giữ, phục vụ;
+
+b) Bảo đảm an toàn thông tin phục vụ cho việc quản lý, tra cứu và sử dụng;
+
+c) Thực hiện các hình thức bảo quản dự phòng, phục chế hoặc chuyển dạng tài liệu phù hợp với điều kiện của thư viện;
+
+d) Tài nguyên thông tin số phải được sao lưu định kỳ và có cơ chế khôi phục dữ liệu khi cần thiết; phải được bảo quản bảo đảm tương thích về mặt công nghệ cho định dạng dữ liệu;
+
+đ) Tài nguyên thông tin là di sản văn hóa, tài nguyên thông tin thuộc danh mục bí mật nhà nước phải được bảo quản theo quy định của pháp luật về di sản văn hóa, lưu trữ, bảo vệ bí mật nhà nước.
+
+2. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.5.1. Phạm vi điều chỉnh; Điều 41.12.TT.10.1. )
 
 Điều 41.12.TT.5.4. Nguyên tắc trong hoạt động bảo quản tài nguyên thông tin
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020000400
+1. Hoạt động bảo quản tài nguyên thông tin được thực hiện từ khâu chọn vị trí, thiết kế xây dựng trụ sở thư viện, mua sắm trang thiết bị, dụng cụ, bố trí kho và gắn với thư viện trong suốt quá trình tồn tại và hoạt động.
 
-**ID:** dk_00071055
+2. Tuân thủ các quy tắc về điều kiện kỹ thuật, môi trường và các điều kiện khác bảo đảm an toàn cho tài nguyên thông tin.
 
----
+3. Chú trọng bảo quản dự phòng nhằm ngăn chặn triệt để những căn nguyên gây hại và phù hợp với từng loại hình tài nguyên thông tin.
 
+Việc bảo quản dự phòng phải tiến hành liên tục, thường xuyên theo định kỳ tối thiểu 06 tháng 01 lần.
 
-### Điều 41.12.TT.5.5. Kho, trang thiết bị và dụng cụ bảo quản tài nguyên thông tin
+4. Giữ nguyên dạng, nguyên bản của tài liệu gốc, không thêm bớt, cắt xén hình ảnh làm ảnh hưởng đến nội dung thông tin của tài liệu gốc khi thực hiện bảo quản phục chế.
+
+5. Xây dựng cơ sở dữ liệu các tài nguyên thông tin được chuyển dạng, bảo đảm khả năng truy cập, an toàn, xác thực, bảo mật, dễ tìm kiếm, quản lý và cập nhật đối với vật mang tin được chuyển dạng từ tài nguyên thông tin gốc.
+
+6. Ứng dụng công nghệ thông tin và những thành tựu khoa học, công nghệ trong bảo quản tài nguyên thông tin trong thư viện.
 
 Điều 41.12.TT.5.5. Kho, trang thiết bị và dụng cụ bảo quản tài nguyên thông tin
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020000500
+1. Kho bảo quản tài nguyên thông tin phải bảo đảm các yêu cầu sau:
 
-**ID:** dk_00071056
+a) Được đặt ở nơi khô ráo theo điều kiện của thư viện;
 
----
+b) Có môi trường không khí trong sạch bảo đảm điều kiện nhiệt độ, độ ẩm, ánh sáng thích hợp với từng loại hình tài nguyên thông tin;
 
+c) Địa chất công trình ổn định, có độ chịu tải cao;
 
-### Điều 41.12.TT.5.6. Trách nhiệm của cơ quan, tổ chức có liên quan đến hoạt động bảo quản tài nguyên thông tin trong thư viện
+d) Thuận tiện cho di chuyển, bảo vệ, phòng cháy, chữa cháy và tổ chức khai thác sử dụng tài nguyên thông tin.
+
+2. Trang thiết bị, dụng cụ bảo quản tài nguyên thông tin trong thư viện bao gồm:
+
+a) Hệ thống phòng cháy, chữa cháy theo quy định của pháp luật về phòng cháy, chữa cháy;
+
+b) Hệ thống máy đo độ ẩm, đo nhiệt độ và máy điều hòa nhiệt độ, quạt thông gió, máy hút ẩm và các trang thiết bị bảo đảm an toàn khác;
+
+c) Hệ thống giá kệ, hộp để tài nguyên thông tin;
+
+d) Máy móc, dụng cụ vệ sinh và bảo quản tài nguyên thông tin;
+
+đ) Hệ thống máy chủ, thiết bị lưu trữ dữ liệu, bảo quản tài nguyên thông tin là tài liệu số và các dạng tài liệu đặc thù khác.
 
 Điều 41.12.TT.5.6. Trách nhiệm của cơ quan, tổ chức có liên quan đến hoạt động bảo quản tài nguyên thông tin trong thư viện
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020000600
+1. Cơ quan nhà nước có thẩm quyền thành lập và quản lý thư viện công lập có trách nhiệm giám sát, kiểm tra định kỳ công tác bảo quản tài nguyên thông tin của thư viện.
 
-**ID:** dk_00071057
+2. Các thư viện thực hiện bảo quản tài nguyên thông tin có trách nhiệm:
 
----
+a) Căn cứ kế hoạch hằng năm được cấp có thẩm quyền phê duyệt, xây dựng kế hoạch, quy chế bảo quản tài nguyên thông tin trong thư viện;
 
+b) Nâng cao năng lực, trình độ đội ngũ làm công tác bảo quản tài nguyên thông tin trong thư viện đáp ứng yêu cầu trong bảo quản tài nguyên thông tin;
 
-### Điều 41.12.TT.5.7. Bảo quản dự phòng đối với tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
+c) Giáo dục, nâng cao ý thức của người sử dụng trong bảo quản tài nguyên thông tin của thư viện.
 
 Điều 41.12.TT.5.7. Bảo quản dự phòng đối với tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020000700
+1. Thực hiện các biện pháp kỹ thuật trong sắp xếp đối với tài liệu in, tài liệu viết tay bảo đảm sự lưu thông không khí.
 
-**ID:** dk_00071058
+2. Bảo trì, vệ sinh kho, giá kệ và các dụng cụ để tài liệu khác theo định kỳ.
 
----
+3. Phòng, chống các tác nhân tự nhiên như: độ ẩm, ánh sáng, nhiệt độ và sự xâm hại của các loại vi sinh vật, côn trùng, động vật gây hủy hoại tài liệu in, tài liệu viết tay của thư viện.
 
+4. Triển khai công tác phòng, chống cháy nổ và chống ngập lụt cho kho tài liệu như sau:
 
-### Điều 41.12.TT.5.8. Bảo quản dự phòng đối với tài liệu số, tài liệu nghe, nhìn, tài liệu vi dạng, tài liệu đặc biệt cho người khuyết tật và các dạng khác
+a) Xây dựng kế hoạch, phổ biến, luyện tập, diễn tập phương án phòng, chống cháy nổ và ngập lụt; hình thành đội phản ứng nhanh ứng phó với sự cố liên quan đến hỏa hoạn, ngập lụt và các tai họa, thảm họa khác;
+
+b) Đánh giá bộ sưu tập có giá trị để có phương án, biện pháp bảo quản phù hợp khi có sự cố xảy ra;
+
+c) Khảo sát, theo dõi và đánh giá mức độ rủi ro của kho tài liệu theo định kỳ.
 
 Điều 41.12.TT.5.8. Bảo quản dự phòng đối với tài liệu số, tài liệu nghe, nhìn, tài liệu vi dạng, tài liệu đặc biệt cho người khuyết tật và các dạng khác
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020000800
+1. Thực hiện bảo quản dự phòng đối với tài liệu số như sau:
 
-**ID:** dk_00071059
+a) Thực hiện các biện pháp bảo mật, an toàn thông tin số, định kỳ sao lưu dự phòng dữ liệu; bảo đảm chuẩn dữ liệu đầu vào;
 
----
+b) Bảo quản và thường xuyên kiểm tra việc vận hành của các thiết bị lưu giữ dữ liệu;
 
+c) Thực hiện các biện pháp phòng, chống mã độc, bảo đảm an toàn an ninh thông tin của thư viện;
 
-### Điều 41.12.TT.5.9. Những yêu cầu cơ bản trong bảo quản phục chế
+d) Xây dựng kế hoạch dự phòng các cuộc tấn công bằng mã độc trên không gian mạng và có các biện pháp phục hồi dữ liệu trong trường hợp bị mất dữ liệu.
+
+2. Thực hiện bảo quản dự phòng đối với tài liệu nghe, nhìn, tài liệu vi dạng, tài liệu đặc biệt cho người khuyết tật và các dạng khác như sau:
+
+a) Thực hiện các biện pháp bảo đảm môi trường, nhiệt độ, độ ẩm, thực hiện đóng hộp bảo vệ đối với băng đĩa từ, đĩa quang;
+
+b) Số hóa tài nguyên thông tin dạng nghe, nhìn bảo đảm chất lượng định dạng, môi trường bảo quản, phù hợp với các tiêu chuẩn của công nghệ hạn chế sự lỗi thời về mặt công nghệ;
+
+c) Lưu giữ tài nguyên thông tin dạng ảnh, vi phim, vi phiếu trong các hộp chứa trong điều kiện khí hậu được kiểm soát; thường xuyên kiểm tra và đo đạc các dấu hiệu xuống cấp, hư hỏng để kịp thời ngăn chặn sự lây nhiễm sang tài liệu khác;
+
+d) Bảo đảm môi trường bảo quản ổn định về nhiệt độ, độ ẩm, độ thông thoáng, ngăn chặn các tác nhân phá hoại; phù hợp với đặc thù của từng dạng tài nguyên thông tin bao gồm: thẻ tre, giấy dó, mai rùa, mộc bản hoặc các dạng khác.
 
 Điều 41.12.TT.5.9. Những yêu cầu cơ bản trong bảo quản phục chế
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020000900
+1. Bảo đảm vệ sinh và an toàn lao động khi thực hiện bảo quản phục chế; khi di chuyển tài liệu phải dùng cả hai tay; không mang, đeo đồ trang sức trong lúc làm việc.
 
-**ID:** dk_00071060
+2. Trong quá trình phục chế tài liệu phải sử dụng bút chì, không sử dụng bút mực, không cầm bút trên tay hay cài bút sau tai khi quan sát tài liệu.
 
----
+3. Vận chuyển tài liệu bằng xe chuyên dụng, giữ tài liệu bằng phẳng, khu vực để tài liệu phải ngăn nắp, chắc chắn và sạch sẽ.
 
+4. Thường xuyên vệ sinh máy móc, dụng cụ làm việc; sử dụng nguyên vật liệu thích hợp trong bảo quản phục chế.
 
-### Điều 41.12.TT.5.10. Xử lý cơ bản trong phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
+5. Không sử dụng nguyên vật liệu có chứa chất độc hại, ảnh hưởng đến sức khỏe và môi trường trong quá trình bảo quản phục chế.
+
+6. Không để lương thực, thực phẩm trong kho tài liệu.
 
 Điều 41.12.TT.5.10. Xử lý cơ bản trong phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020001000
+1. Sửa chữa, thay trang, gắn các trang bị long; gia cố, sửa chữa gáy; thay tờ gác, thay gáy sách; sửa chữa bìa cũ hoặc thay bìa mới; làm túi đựng, làm hộp và các loại bao bì khác đối với các tài liệu bị hư hỏng không lớn như bị tuột trang, rách tờ gác, rách bìa, long gáy, long bìa.
 
-**ID:** dk_00071061
+2. Làm sạch tài liệu bằng phương pháp vệ sinh bề mặt không sử dụng các dung môi hữu cơ nhằm loại bỏ bụi bẩn, côn trùng hoặc các vật lạ dính trên bề mặt tài liệu hoặc cản trở khả năng hiển thị của hình ảnh hoặc thông tin.
 
----
-
-
-### Điều 41.12.TT.5.11. Phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
+3. Làm phẳng tài liệu bị cuộn hoặc bị gấp trong thời gian dài nên khó sử dụng; tài liệu để lâu tự quăn, cong góc, bị gấp, nhăn do người sử dụng gấp nếp trong quá trình sử dụng.
 
 Điều 41.12.TT.5.11. Phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020001100
+1. Phục chế tài liệu in, tài liệu viết tay trên giấy được thực hiện khi tài liệu bị hư hỏng nặng, không thể phục chế dưới hình thức xử lý cơ bản theo quy định tại Điều 10 Thông tư này.
 
-**ID:** dk_00071062
+2. Phục chế tài liệu in, tài liệu viết tay trên giấy được thực hiện như sau:
 
----
+a) Sửa chữa, bồi vá giấy, dán phủ gia cố khi giấy bị yếu, hư hại;
 
+b) Bồi nền gia cố, làm khô không khí, giảm độ ẩm, làm lạnh chân không, làm khô bằng nhiệt trong chân không đối với tài liệu bị ẩm, ướt;
 
-### Điều 41.12.TT.5.12. Sao chụp để bảo quản tài nguyên thông tin
+c) Xử lý đóng ghim bị gỉ nhằm hạn chế tối đa hư hại, giảm tính bền vững, ngăn chặn sự ố màu của tài liệu;
+
+d) Xử lý nấm mốc trên giấy, cách ly các tài liệu bị nấm mốc bằng việc đặt trong các túi, xác định rõ vị trí nguồn gốc của độ ẩm, duy trì môi trường thích hợp, đặt các chất hút ẩm và tăng lưu lượng không khí nhằm tiêu diệt sự phát triển của nấm mốc;
+
+đ) Xử lý tài liệu bị côn trùng xâm nhập bằng phương pháp sử dụng hóa chất hoặc không sử dụng hóa chất như: làm lạnh, thay đổi thành phần không khí hoặc những phương pháp khác.
 
 Điều 41.12.TT.5.12. Sao chụp để bảo quản tài nguyên thông tin
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020001200
+Sao chụp tài nguyên thông tin để bảo quản phải bảo đảm các yêu cầu sau:
 
-**ID:** dk_00071063
+1. Hình ảnh khi sao chụp phải rõ ràng.
 
----
+2. Giữ được tính nguyên vẹn của nội dung tài nguyên thông tin.
 
-
-### Điều 41.12.TT.5.13. Vi dạng hóa tài nguyên thông tin
+3. Làm khung viền đối với hình ảnh sao chụp mỏng, dễ rách.
 
 Điều 41.12.TT.5.13. Vi dạng hóa tài nguyên thông tin
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020001300
+1. Vi dạng hóa tài nguyên thông tin được áp dụng đối với tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy.
 
-**ID:** dk_00071064
+2. Vi dạng hóa tài nguyên thông tin được thực hiện theo quy trình sau:
 
----
+a) Xây dựng danh mục tài nguyên thông tin cần vi dạng hóa;
 
+b) Xây dựng tiêu chuẩn thư mục và kỹ thuật nhằm bảo đảm tính thống nhất;
 
-### Điều 41.12.TT.5.14. Số hóa tài nguyên thông tin
+c) Triển khai vi dạng hóa tài nguyên thông tin;
 
-*Nội dung chưa có sẵn*
+d) Tổ chức cơ sở dữ liệu tài liệu đã được vi dạng hóa.
 
-**Chỉ mục:** 14
+Điều 41.12.TT.5.14. Số hóa tài nguyên thông tin
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020001400
+(Điều 14 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**ID:** dk_00071065
+1. Số hóa tài nguyên thông tin được thực hiện đối với tài nguyên thông tin không phải là tài liệu số nhằm mục đích bảo vệ bản gốc, thể hiện một cách rõ ràng các đặc điểm của bản gốc.
 
----
+2. Số hóa tài nguyên thông tin được thực hiện như sau:
 
+a) Xây dựng kế hoạch, danh mục tài nguyên thông tin cần được số hóa, biện pháp lưu giữ tài nguyên thông tin đã được số hóa;
 
-### Điều 41.12.TT.5.15. Hình thức chuyển dạng tài nguyên thông tin khác
+b) Lựa chọn công nghệ thực hiện;
+
+c) Số hóa tài nguyên thông tin;
+
+d) Tạo siêu dữ liệu liên kết;
+
+đ) Vận hành, bảo quản và cung cấp dữ liệu.
+
+3. Các thao tác khi thực hiện số hóa tài nguyên thông tin bao gồm:
+
+a) Kiểm tra tài liệu để xác định nguy cơ bị hư hỏng;
+
+b) Xử lý an toàn cho tài nguyên thông tin;
+
+c) Thực hiện xử lý cơ bản đối với tài nguyên thông tin theo quy định tại Điều 10 Thông tư này;
+
+d) Bảo đảm an ninh nơi số hóa để bảo vệ tài nguyên thông tin, tránh mất cắp hoặc gây hư hại dữ liệu.
 
 Điều 41.12.TT.5.15. Hình thức chuyển dạng tài nguyên thông tin khác
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 410120000000000030000270000000000000000000802729400020001500
+1. Tài nguyên thông tin là di sản văn hóa, tài liệu quý hiếm được thể hiện dưới dạng thẻ tre, giấy dó, mai rùa, mộc bản hoặc các dạng khác được sao chép, chuyển dạng sang tài liệu in hoặc tài liệu số để thuận tiện trong bảo quản, phục vụ.
 
-**ID:** dk_00071066
-
----
-
-
-### Điều 41.12.LQ.28. Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện
+2. Bản sao chuyển dạng tài nguyên thông tin quy định tại khoản 1 Điều này được thực hiện bảo quản theo quy định tại Chương này.
 
 Điều 41.12.LQ.28. Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000300002800000000000000000
+1. Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện được quy định như sau:
 
-**ID:** dk_00071067
+a) Bảo đảm khoa học, hiện đại, hiệu quả, phù hợp với chức năng, nhiệm vụ của thư viện và nhu cầu của người sử dụng thư viện;
 
----
+b) Bảo đảm sự đa dạng về hình thức, phương thức cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện.
 
+2. Sản phẩm thông tin thư viện bao gồm:
 
-### Điều 41.12.LQ.29. Liên thông thư viện
+a) Hệ thống tra cứu thông tin, cơ sở dữ liệu thư mục, dữ kiện và toàn văn;
 
-*Nội dung chưa có sẵn*
+b) Thư mục, thông tin chuyên đề;
 
-**Chỉ mục:** 29
+c) Cổng thông tin điện tử,trang thông tin điện tử;
 
-**Mã phân cấp:** 4101200000000000300002900000000000000000
+d) Sản phẩm thông tin thư viện khác được hình thành trong quá trình xử lý tài nguyên thông tin của thư viện.
 
-**ID:** dk_00071068
+3. Dịch vụ thư viện bao gồm:
 
----
+a) Cung cấp tài nguyên thông tin tại thư viện, ngoài thư viện gồm dịch vụ thư viện lưu động, luân chuyển tài nguyên thông tin hoặc trên không gian mạng;
 
+b) Cung cấp thông tin thư mục, chỉ dẫn thông tin;
 
-### Điều 41.12.NĐ.1.24. Nguyên tắc liên thông thư viện
+c) Tư vấn, bồi dưỡng cho tổ chức, cá nhân về chuyên môn, nghiệp vụ thư viện và hỗ trợ học tập, nghiên cứu;
 
-*Nội dung chưa có sẵn*
+đ) Tổ chức hội nghị, hội thảo, triển lãm, truyền thông, phổ biến tài nguyên thông tin;
 
-**Chỉ mục:** 24
+đ) Hỗ trợ các tiện ích khai thác thư viện số;
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930002400
+e) Hình thức dịch vụ thư viện khác.
 
-**ID:** dk_00071069
+Điều 41.12.LQ.29. Liên thông thư viện
 
----
+(Điều 29 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+1. Liên thông thư viện bao gồm các nội dung sau đây:
 
-### Điều 41.12.NĐ.1.25. Hợp tác trong thu thập, bổ sung và sử dụng tài nguyên thông tin
+a) Hợp tác trong việc bổ sung, mua, thu thập tài nguyên thông tin dùng chung và hợp tác trong xây dựng mục lục liên hợp;
+
+b) Chia sẻ, sử dụng chung tài nguyên thông tin giữa các thư viện; chia sẻ kết quả xử lý tài nguyên thông tin và sản phẩm thông tin thư viện;
+
+c) Liên kết tổ chức dịch vụ thư viện phục vụ người sử dụng thư viện.
+
+2. Liên thông thư viện thực hiện theo các phương thức sau đây:
+
+a) Liên thông theo khu vực địa lý;
+
+b) Liên thông theo nhóm thư viện có chức năng, nhiệm vụ, đối tượng phục vụ tương đồng;
+
+c) Liên thông theo lĩnh vực, nội dung tài nguyên thông tin;
+
+d) Liên thông giữa các loại thư viện.
+
+3. Liên thông thư viện thực hiện theo cơ chế sau đây:
+
+a) Thư viện được Nhà nước ưu tiên đầu tư làm nòng cốt trong xây dựng, chia sẻ và khai thác tài nguyên thông tin dùng chung giữa các thư viện;
+
+b) Hợp tác trong việc bổ sung, muaquyền truy cập và chia sẻ tài nguyên thông tin nước ngoài, sử dụng hiệu quả nguồn kinh phí của Nhà nước và xã hội;
+
+c) Tài nguyên thông tin được xây dựng từ ngân sách nhà nước phải được liên thông, chia sẻ giữa các thư viện.
+
+4. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh)
+
+Điều 41.12.NĐ.1.24. Nguyên tắc liên thông thư viện
+
+(Điều 24 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
+
+1. Bảo đảm sử dụng có hiệu quả các nguồn lực đầu tư của Nhà nước và tổ chức, cá nhân cho hoạt động thư viện.
+
+2. Đáp ứng nhu cầu sử dụng tài nguyên thông tin, sản phẩm thông tin và dịch vụ thư viện của người sử dụng.
+
+3. Được thực hiện trên cơ sở tự nguyện, hợp tác có thỏa thuận và có sự phân công, phối hợp giữa các thư viện.
+
+4. Chia sẻ, liên kết các cơ sở dữ liệu, tài nguyên thông tin được đầu tư xây dựng từ nguồn ngân sách nhà nước theo quy định.
+
+5. Tuân thủ quy định của pháp luật về sở hữu trí tuệ, khoa học và công nghệ, công nghệ thông tin, an ninh mạng và quy định của pháp luật có liên quan.
+
+6. Bảo đảm quản lý và sử dụng tài nguyên thông tin liên thông đúng mục đích, hiệu quả, đúng quy chế liên thông.
 
 Điều 41.12.NĐ.1.25. Hợp tác trong thu thập, bổ sung và sử dụng tài nguyên thông tin
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930002500
+1. Xây dựng các nhóm thư viện để điều tiết, phối hợp bổ sung, cập nhật và chia sẻ tài nguyên thông tin. Các thư viện tham gia nhóm trên cơ sở tự nguyện kết nối, chia sẻ, đóng góp tài nguyên của thư viện cho nhóm dùng chung; chỉ định một thư viện chủ trì là đầu mối liên kết các thư viện trong nhóm.
 
-**ID:** dk_00071070
+Thư viện tham gia nhóm đáp ứng các điều kiện sau:
 
----
+a) Có đối tượng phục vụ tương đồng;
 
+b) Có hạ tầng công nghệ thông tin bảo đảm và tương thích;
 
-### Điều 41.12.NĐ.1.26. Chia sẻ kết quả xử lý chuyên môn, nghiệp vụ, biên mục và sản phẩm thông tin thư viện
+c) Có nhân lực để đáp ứng, vận hành, khai thác, chia sẻ;
+
+d) Có kinh phí duy trì hoạt động với nhóm;
+
+đ) Trường hợp hợp tác theo phương thức sản xuất kinh doanh, ngoài việc tuân theo quy định tại các điểm a, b, c và d khoản này, còn phải tuân theo quy định của pháp luật có liên quan.
+
+2. Hợp tác trong thu thập, bổ sung và sử dụng tài nguyên thông tin bao gồm: Phối hợp trong xây dựng tài nguyên thông tin dưới dạng in ấn; liên kết, chia sẻ trong bổ sung tài nguyên thông tin và quyền truy cập cơ sở dữ liệu, tài nguyên thông tin số.
+
+3. Tài nguyên thông tin chia sẻ phải bảo đảm các điều kiện sau:
+
+a) Bảo đảm tính hợp pháp;
+
+b) Được mô tả, lưu trữ, quản lý, khai thác theo cấu trúc đồng nhất, đáp ứng tiêu chuẩn tương ứng của ngành thư viện thế giới;
+
+c) Bảo đảm tính thống nhất về quy trình khai thác và chính sách chia sẻ tài nguyên thông tin theo quy chế của nhóm;
+
+d) Được quản lý bằng các phần mềm cho phép máy tính, điện thoại và các thiết bị điện tử khác có thể truy cập theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư)
 
 Điều 41.12.NĐ.1.26. Chia sẻ kết quả xử lý chuyên môn, nghiệp vụ, biên mục và sản phẩm thông tin thư viện
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930002600
+1. Thư viện được đầu tư kinh phí từ ngân sách nhà nước có trách nhiệm chia sẻ kết quả xử lý tài nguyên thông tin bao gồm dữ liệu về tài nguyên thông tin và các thông tin mô tả cơ bản về tài nguyên thông tin của thư viện được tổ chức theo cấu trúc nghiệp vụ thư viện (sau đây gọi là biểu ghi) với các thư viện khác trong nhóm theo quy định của pháp luật.
 
-**ID:** dk_00071071
+2. Tùy thuộc vào điều kiện cụ thể, các thư viện trong nhóm có thể chia sẻ cơ sở dữ liệu biểu ghi; thiết lập mục lục phản ánh tài nguyên thông tin của từ 02 thư viện trở lên (sau đây gọi là mục lục liên hợp) theo các cấp độ sau:
 
----
+a) Chỉ được tra cứu và xem dữ liệu về tài nguyên thông tin;
 
+b) Được đọc trực tiếp;
 
-### Điều 41.12.NĐ.1.27. Liên kết triển khai dịch vụ liên thư viện
+c) Được tải về đọc theo quy định (đối với tài liệu số) hoặc xác định rõ loại hình và mức độ khai thác (đối với tài nguyên thông tin khác);
+
+d) Phải trả giá dịch vụ theo quy định của thư viện, quy chế liên kết của nhóm và quy định của pháp luật.
+
+3. Trách nhiệm của thư viện chủ trì:
+
+a) Duy trì và phát triển hệ thống dữ liệu dùng chung;
+
+b) Hỗ trợ quản lý dữ liệu cho các thư viện trong nhóm; cấp quyền sử dụng và khai thác hệ thống;
+
+c) Kiểm soát chất lượng biểu ghi; chỉ đạo sự thống nhất và chuẩn hóa các biểu ghi của các thư viện trong nhóm;
+
+d) Hướng dẫn, hỗ trợ các thư viện trong nhóm về những vấn đề chuyên môn.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư)
 
 Điều 41.12.NĐ.1.27. Liên kết triển khai dịch vụ liên thư viện
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930002700
+1. Liên kết triển khai dịch vụ liên thư viện bao gồm những nội dung cơ bản sau:
 
-**ID:** dk_00071072
+a) Thực hiện mượn liên thư viện đối với tài nguyên thông tin dạng in, dạng số hoặc đa phương tiện giữa các thư viện phục vụ người sử dụng;
 
----
+b) Liên kết, phối hợp trong cấp thẻ sử dụng thư viện cho người sử dụng trên cùng một địa bàn, trong cùng chuyên ngành, lĩnh vực hoặc hệ thống;
 
+c) Phối hợp, trao đổi tài nguyên thông tin, sử dụng các tiện ích, trang thiết bị thư viện để cung cấp dịch vụ thư viện phục vụ người sử dụng;
 
-### Điều 41.12.NĐ.1.28. Xây dựng mục lục liên hợp
+d) Sử dụng các phương thức triển khai dịch vụ liên thư viện khác phù hợp với đặc thù của từng loại thư viện và quy định của pháp luật liên quan.
 
-*Nội dung chưa có sẵn*
+2. Mượn liên thư viện thực hiện theo quy định sau:
 
-**Chỉ mục:** 28
+a) Tổ chức cho mượn tài nguyên thông tin giữa các thư viện theo quy định của thư viện tham gia liên thông và quy chế của nhóm;
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930002800
+b) Thời hạn và số lượng tài nguyên thông tin được mượn thực hiện theo quy định của thư viện có tài nguyên thông tin;
 
-**ID:** dk_00071073
+c) Người sử dụng thư viện đăng ký hoặc gửi yêu cầu mượn liên thư viện tại nơi cấp thẻ thư viện của mình; tiếp nhận tài nguyên thông tin thông qua thư viện nơi đăng ký làm thẻ hoặc trực tiếp tại thư viện có tài nguyên thông tin, qua bưu điện hoặc trên không gian mạng theo quy định của thư viện có tài nguyên thông tin.
 
----
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư)
 
+Điều 41.12.NĐ.1.28. Xây dựng mục lục liên hợp
 
-### Điều 41.12.NĐ.1.29. Cơ chế liên thông thư viện
+(Điều 28 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-*Nội dung chưa có sẵn*
+1. Việc xây dựng, quản trị và phát triển mục lục liên hợp thực hiện theo nguyên tắc sau:
 
-**Chỉ mục:** 29
+a) Xác định vai trò, quyền và nghĩa vụ của các thư viện thành viên tham gia xây dựng mục lục liên hợp; phân công thư viện chủ trì;
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930002900
+b) Thống nhất quy định thực hiện chuẩn hóa về quy trình, nghiệp vụ trong xây dựng các biểu ghi của các thư viện thành viên;
 
-**ID:** dk_00071074
+c) Thường xuyên cập nhật biểu ghi phản ánh thực trạng tài nguyên thông tin của thư viện;
 
----
+d) Gắn việc xây dựng mục lục liên hợp với hoạt động hợp tác trong thu thập, bổ sung và sử dụng tài nguyên thông tin, mượn liên thư viện.
 
+2. Việc đóng góp biểu ghi để tích hợp dữ liệu trong mục lục liên hợp thực hiện theo cơ chế sau:
 
-### Điều 41.12.NĐ.1.30. Phương thức liên thông thư viện
+a) Các thư viện tham gia xây dựng mục lục liên hợp gửi biểu ghi đến thư viện được phân công chủ trì;
+
+b) Các thông tin, dữ liệu trong biểu ghi của thư viện tham gia xây dựng mục lục liên hợp bảo đảm các tiêu chuẩn chung, khi xuất ra đáp ứng đầy đủ các thông tin mô tả cơ bản về tài nguyên thông tin của thư viện gồm: Tên (nhan đề), tên tác giả, thông tin xuất bản, từ khóa, chủ đề, số đăng ký cá biệt, mã xếp giá và các thông tin khác theo yêu cầu đã được thống nhất trong nhóm;
+
+c) Đồng bộ các biểu ghi với hệ thống mục lục liên hợp đối với liên thông trong nước hoặc hệ thống mục lục liên hợp toàn cầu đối với liên thông quốc tế.
+
+3. Thư viện Quốc gia Việt Nam, thư viện công cộng cấp tỉnh và các thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư có trách nhiệm phối hợp trong cập nhật, chuẩn hóa cơ sở dữ liệu phát triển mục lục liên hợp quốc gia.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư)
+
+Điều 41.12.NĐ.1.29. Cơ chế liên thông thư viện
+
+(Điều 29 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
+
+1. Thư viện được Nhà nước ưu tiên đầu tư chủ trì xây dựng, chia sẻ và khai thác tài nguyên thông tin dùng chung giữa các thư viện như sau:
+
+a) Tạo lập, chia sẻ dữ liệu, kết quả xử lý, tài nguyên thông tin số theo quy định của pháp luật;
+
+b) Biên soạn, xây dựng cơ sở dữ liệu, cung cấp các sản phẩm, dịch vụ thư viện dùng chung;
+
+c) Xây dựng và hình thành hệ thống mục lục liên hợp; quản lý các thư viện trong nhóm, kiểm soát chất lượng cơ sở dữ liệu; giải quyết các vấn đề kỹ thuật liên quan đến nghiệp vụ; bảo đảm an toàn, bảo mật và sao lưu hệ thống;
+
+d) Là đầu mối trao đổi tài nguyên thông tin, cung cấp quyền truy cập tài liệu số; phục vụ các yêu cầu sử dụng cá biệt.
+
+2. Các thư viện tham gia hợp tác trong việc bổ sung, mua quyền truy cập và chia sẻ tài nguyên thông tin nước ngoài như sau:
+
+a) Tạo lập, xây dựng, chuẩn hóa dữ liệu kết nối, chia sẻ, đóng góp tài nguyên của thư viện cho nhóm dùng chung theo điều lệ, quy chế liên kết;
+
+b) Tham gia xây dựng chính sách về mức độ chia sẻ, quyền truy cập của người sử dụng thư viện; chính sách thu phí, giá dịch vụ theo quy định hiện hành;
+
+c) Tận dụng kết quả xử lý tài nguyên thông tin, các sản phẩm và dịch vụ thông tin của các thư viện khác phục vụ người sử dụng;
+
+d) Tài nguyên thông tin được xây dựng từ ngân sách nhà nước phải được liên thông, chia sẻ và sử dụng có hiệu quả.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư)
 
 Điều 41.12.NĐ.1.30. Phương thức liên thông thư viện
 
-**Chỉ mục:** 30
+(Điều 30 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 410120000000000030000290000000000000000000402737900930003000
+1. Liên thông giữa các thư viện theo khu vực địa lý trên phạm vi quốc tế, khu vực, quốc gia, vùng, miền, trên cùng địa bàn.
 
-**ID:** dk_00071075
+2. Liên thông theo nhóm giữa các thư viện có cùng chức năng, nhiệm vụ và đối tượng phục vụ.
 
----
+3. Liên thông giữa các thư viện có cùng lĩnh vực, nội dung tài nguyên thông tin về khoa học xã hội và nhân văn, khoa học tự nhiên và công nghệ và các lĩnh vực khác.
 
+4. Liên thông giữa các loại thư viện quy định tại khoản 1 Điều 9 của Luật Thư viện.
 
-### Điều 41.12.LQ.30. Phát triển văn hóa đọc
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.9. Các loại thư viện)
 
-*Nội dung chưa có sẵn*
+Điều 41.12.LQ.30. Phát triển văn hóa đọc
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000300003000000000000000000
+1. Ngày 21 tháng 4 hằng năm là Ngày Sách và Văn hóa đọc Việt Nam.
 
-**ID:** dk_00071076
+2. Phát triển văn hóa đọc thông qua các hoạt động sau đây:
 
----
+a) Tổ chức hoạt động hình thành thói quen đọc trong gia đình, trường học, cơ quan, tổchức trong phạm vi cả nước;
 
+b) Hướng dẫn phương pháp, kỹ năng đọc, khai thác tài nguyên thông tin cho trẻ em tại thư viện cơ sở giáo dục mầm non, thư viện cơ sở giáo dục phổ thông;
 
-### Điều 41.12.LQ.31. Phát triển thư viện số
+c) Phát triển kỹ năng tìm kiếm, khai thác và sử dụng thông tin, mở rộng tri thức cho người sử dụng thư viện;
 
-*Nội dung chưa có sẵn*
+d) Đẩy mạnh liên thông giữa thư viện công cộng với thư viện khác trên địa bàn; truy cập và khai thác thông tin, tri thức từ thư viện số dùng chung thông qua thiết bị điện tử; sử dụng dịch vụ thư viện lưu động và luân chuyển tài nguyên thông tin.
 
-**Chỉ mục:** 31
+Điều 41.12.LQ.31. Phát triển thư viện số
 
-**Mã phân cấp:** 4101200000000000300003100000000000000000
+(Điều 31 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**ID:** dk_00071077
+1. Xây dựng tài nguyên thông tin số trên cơ sở thu thập tài liệu số, số hóa tài liệu của thư viện.
 
----
+2. Xử lý, lưu giữ, bảo quản tài nguyên thông tin số phải tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật về công nghệ thông tin, chuyên môn, nghiệp vụ thư viện.
 
+3. Sử dụng phần mềm tiên tiến trong quản trị thư viện số, thiết kế giao diện thông minh; bảo đảm tính mở, liên thông trongtra cứu, khai thác và chuyển đổi dữ liệu giữa các hệ thống lưu trữ dữ liệu; hỗ trợ cấp quyền truy cập, khai thác tài nguyên thông tin số cho người sử dụng thư viện.
 
-### Điều 41.12.LQ.32. Hiện đại hóa thư viện
+4. Cung cấp quyền truy cập tài nguyên thông tin số vàcác dạng khác.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.LQ.32. Hiện đại hóa thư viện
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000300003200000000000000000
+1. Xây dựng và phát triển cơ sở hạ tầng kỹ thuật hiện đại bảo đảm triển khai, vận hành thư viện số và tự động hóa thư viện.
 
-**ID:** dk_00071078
+2. Triển khai phòng đọc kho mở, hệ thống cung cấp tài liệu tự động; hệ thống tự mượn, tự trả tài liệu; hệ thống giám sát, an ninh thư viện tiên tiến; không gian sáng tạo cho người sử dụng thư viện; khu vực phục vụ trẻ em, người khuyết tật.
 
----
+3. Nghiên cứu, ứng dụng hệ thống trí tuệ nhân tạo, Internet vạn vật, hệ thống dữ liệu lớn, điện toán đám mây, truy cập mở, thành tựu khoa học và công nghệ tiên tiến, hiện đại khác phù hợp với xu thế phát triển của thế giới trong hoạt động thư viện.
 
+4. Xây dựng mạng thông tin thư viện tiên tiến, kết nối các thư viện trong nước và nước ngoài.
 
-### Điều 41.12.LQ.33. Truyền thông thư viện
+5. Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện hiện đại đáp ứng nhu cầu của người sử dụng thư viện; xây dựng cơ sở dữ liệu, phát triển và khai thác thư viện số; triển khai trang thông tin điện tử,cổng thông tin điện tử và các dịch vụ thư viện trên không gian mạng.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 6.3.LQ.38. Trách nhiệm của cơ sở văn hóa, thể dục, thể thao, giải trí và du lịch)
 
-**Chỉ mục:** 33
+Điều 41.12.LQ.33. Truyền thông thư viện
 
-**Mã phân cấp:** 4101200000000000300003300000000000000000
+(Điều 33 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**ID:** dk_00071079
+1. Thư viện thực hiện truyền thông các nội dung sau đây:
 
----
+a) Tài nguyên thông tin;
 
+b) Sản phẩm thông tin thư viện và dịch vụ thư viện;
 
-### Điều 41.12.LQ.34. Phối hợp giữa thư viện với cơ quan, tổ chức
+c) Tiện ích thư viện;
+
+d) Nhân lực thư viện;
+
+đ) Nội dung khác liên quan đến thư viện phù hợp với quy định của pháp luật.
+
+2. Hình thức truyền thông thư viện bao gồm:
+
+a) Trưng bày,triển lãm giới thiệu sách, sản phẩm thông tin thư viện và dịch vụ thư viện; giao lưu, tọa đàm, hội nghị, hội thảo, thuyết trình; tổ chức sự kiện văn hóa, giáo dục liên quan đến thư viện;
+
+b) Xây dựng quan hệ công chúng, hình ảnh của thư viện;
+
+c) Hình thức khác phù hợp với quy định của pháp luật.
 
 Điều 41.12.LQ.34. Phối hợp giữa thư viện với cơ quan, tổ chức
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000300003400000000000000000
+1. Thư viện phối hợp với cơ quan, tổ chức trong các hoạt động sau đây:
 
-**ID:** dk_00071080
+a) Bảo quản tài nguyên thông tin, cơ sở dữ liệu;
 
----
+b) Khai thác, chia sẻ, phát huy hiệu quả sử dụng tài nguyên thông tin của thư viện và tưliệu, cơ sở dữ liệu của các cơ quan, tổchứcphối hợp;
 
+c) Tổ chức các hình thức dịch vụ thư viện phục vụ người sử dụng thư viện và công chúng.
 
-### Điều 41.12.LQ.35. Nguồn tài chính của thư viện
+2. Thư viện phối hợp với cơ quan, tổ chức về thông tin khoa học và công nghệ, lưu trữ nhằm bảo đảm việc sử dụng và bảo quản hiệu quả tài nguyên thông tin, ngân hàng dữ liệu của Nhà nước, doanh nghiệp, cơ quan, tổ chức khác theo chương trình hợp tác, hợp đồng và quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+3. Thư viện phối hợp với cơ quan, tổ chức về văn hóa, du lịch và cơ quan, tổ chức khác nhằm đa dạng hình thức phục vụ và dịch vụ thư viện.
 
-**Chỉ mục:** 35
+Điều 41.12.LQ.35. Nguồn tài chính của thư viện
 
-**Mã phân cấp:** 4101200000000000300003500000000000000000
+(Điều 35 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**ID:** dk_00071081
+1. Nguồn ngân sách nhà nước.
 
----
+2. Nguồn thu từ dịch vụ thư viện.
 
+3. Nguồn tài trợ, viện trợ, tặng cho, đóng góp từ tổ chức, cá nhân trong nước và nước ngoài theo quy định của pháp luật.
 
-### Điều 41.12.TT.9.1.
+4. Nguồn thu hợp pháp khác.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.TT.9.1. 
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 07/2023/TT-BVHTTDL ban hành quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn cung cấp dịch vụ hỗ trợ về chuyên môn, nghiệp vụ thư viện và dịch vụ hỗ trợ học tập, nghiên cứu ngày 31/05/2023 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/09/2023)
 
-**Mã phân cấp:** 410120000000000030000350000000000000000000802839500070000100
+Ban hành kèm theo Thông tư này Quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn triển khai việc thực hiện cung cấp dịch vụ hỗ trợ về chuyên môn, nghiệp vụ thư viện và dịch vụ hỗ trợ học tập, nghiên cứu.
 
-**ID:** dk_00071082
+Quy dinh ban hanh kem theo TT so 07.2023.TT-BVHTTDL.doc
 
----
+Điều 41.12.TT.10.1. 
 
+(Điều 1 Thông tư số 16/2023/TT-BVHTTDL ban hành Quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn triển khai việc thực hiện cung cấp dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập ngày 29/12/2023 của Bộ Văn hóa, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/03/2024)
 
-### Điều 41.12.TT.10.1.
+Ban hành kèm theo Thông tư này Quy định tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật và hướng dẫn triển khai việc thực hiện cung cấp dịch vụ xây dựng, xử lý, bảo quản tài nguyên thông tin; xây dựng cơ sở dữ liệu, hệ thống tra cứu thông tin tại thư viện công lập.
 
-*Nội dung chưa có sẵn*
+Phu luc_ ban hanh kem theo TT so 16_2023_TT-BVHTTDL.doc
 
-**Chỉ mục:** 1
+Quy dinh ban hanh kem theo TT so 16_2023_TT-BVHTTDL.doc
 
-**Mã phân cấp:** 410120000000000030000350000000000000000000802860700160000100
+(Điều này có nội dung liên quan đến Điều 41.12.LQ.9. Các loại thư viện; Điều 41.12.LQ.25. Xây dựng tài nguyên thông tin; Điều 41.12.LQ.26. Xử lý tài nguyên thông tin và tổ chức hệ thống tra cứu thông tin; Điều 41.12.LQ.27. Bảo quản tài nguyên thông tin; Điều 41.12.LQ.37. Đánh giá hoạt động thư viện của Luật 46/2019/QH14 Luật Thư viện ban hành ngày 21/11/2019)
 
-**ID:** dk_00071083
+Điều 41.12.LQ.36. Hợp tác quốc tế về thư viện
 
----
+(Điều 36 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+1. Xây dựng và triển khai chương trình, đề án, dự án hợp tác quốc tế.
 
-### Điều 41.12.LQ.36. Hợp tác quốc tế về thư viện
+2. Tham gia các tổ chức, hội, diễn đàn nghề nghiệp, liên thông với thư viện trong nước và nước ngoài.
 
-*Nội dung chưa có sẵn*
+3. Tham gia xây dựng, thực hiện, tuyên truyền, phổ biến, giáo dục pháp luật và thông lệ quốc tế về thư viện.
 
-**Chỉ mục:** 36
+4. Nghiên cứu khoa học, trao đổi tài nguyên thông tin, kinh nghiệm, đào tạo, bồi dưỡng nguồn nhân lực; ứng dụng và chuyển giao công nghệ; quảng bá, xúc tiến, tạo điều kiện cho tổ chức, cá nhân nước ngoài tham gia, hỗ trợ hoạt động thư viện.
 
-**Mã phân cấp:** 4101200000000000300003600000000000000000
+5. Hoạt động hợp tác quốc tế khác phù hợp với quy định của pháp luật.
 
-**ID:** dk_00071084
+(Điều này có nội dung liên quan đến Điều 19.2.LQ.1. Phạm vi điều chỉnh)
 
----
+Điều 41.12.LQ.37. Đánh giá hoạt động thư viện
 
+(Điều 37 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-### Điều 41.12.LQ.37. Đánh giá hoạt động thư viện
+1. Việc đánh giá hoạt động thư viện được thực hiện đối với các loại thư viện nhằm phục vụ công tác quản lý nhà nước về thư viện và nâng cao hiệu quả hoạt động thư viện.
 
-*Nội dung chưa có sẵn*
+2. Nguyên tắc đánh giá hoạt động thư viện được thực hiện như sau:
 
-**Chỉ mục:** 37
+a) Khách quan, chính xác, đúng quy định của pháp luật;
 
-**Mã phân cấp:** 4101200000000000300003700000000000000000
+b) Trung thực, công khai, minh bạch, bình đẳng;
 
-**ID:** dk_00071085
+c) Theo định kỳhằngnăm.
 
----
+3. Tiêu chí, phương pháp, thủ tục đánh giá hoạt động thư viện được thực hiện theo tiêu chuẩn quốc gia.
 
+4. Tổ chức thực hiện đánh giá hoạt động thư viện bao gồm:
 
-### Điều 41.12.TT.6.3. Mục đích đánh giá hoạt động thư viện
+a) Thư viện tự đánh giá;
+
+b) Cơ quan, tổ chức, cánhân thành lập thư viện đánh giá;
+
+c) Cơ quan quản lý nhà nước về thư viện đánh giá.
+
+5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.6.1. Phạm vi điều chỉnh; Điều 41.12.TT.10.1. )
 
 Điều 41.12.TT.6.3. Mục đích đánh giá hoạt động thư viện
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-**Mã phân cấp:** 410120000000000030000370000000000000000000802738900050000300
+ 1. Đánh giá hoạt động thư viện phục vụ công tác quản lý nhà nước về thư viện được thực hiện trên cơ sở xác định năng lực của thư viện, tác động của thư viện đối với cá nhân, cộng đồng và xã hội để có cơ chế quản lý, đầu tư phù hợp, nghiên cứu, đề xuất chính sách, định hướng phát triển phát triển thư viện và văn hóa đọc của cả nước.
 
-**ID:** dk_00071086
+ 2. Đánh giá hoạt động thư viện nhằm nâng cao hiệu quả hoạt động thư viện thực hiện trên cơ sở đánh giá năng lực tổ chức tài nguyên thông tin và tiện ích thư viện, việc đổi mới, nâng cao chất lượng dịch vụ để các thư viện xác định hiệu quả hoạt động, làm cơ sở lập kế hoạch, đưa ra giải pháp cải tiến chất lượng dịch vụ và hiệu quả hoạt động của thư viện, khẳng định giá trị của thư viện đối với người sử dụng, cộng đồng và xã hội.Điều 41.12.TT.6.4. Nguyên tắc đánh giá hoạt động thư viện
 
----
+(Điều 4 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
+ 1. Bảo đảm tính khách quan, chính xác, đúng quy định của pháp luật trong đánh giá hoạt động thư viện thông qua việc sử dụng phương pháp định lượng, thống kê, tính toán, thu thập số liệu theo tiêu chuẩn quốc gia.
 
-### Điều 41.12.TT.6.4. Nguyên tắc đánh giá hoạt động thư viện
+ 2. Bảo đảm tính trung thực, công khai, minh bạch, bình đẳng trong đánh giá hoạt động thư viện thông qua việc thu thập các thông tin, số liệu đánh giá được điều tra, thu thập tại các thư viện, đồng thời với việc lấy ý kiến người sử dụng thư viện theo tiêu chuẩn quốc gia được áp dụng chung đối với các loại thư viện.
 
-Điều 41.12.TT.6.4. Nguyên tắc đánh giá hoạt động thư viện
+ 3. Đánh giá hằng năm với kỳ đánh giá được thư viện thực hiện tính từ ngày 01 tháng 12 của năm trước đến hết ngày 30 tháng 11 của năm báo cáo. Đối với thư viện thuộc các cơ sở giáo dục, việc tự đánh giá có thể được kết hợp thực hiện theo năm học.Điều 41.12.TT.6.5. Thư viện tự đánh giá
 
-**Chỉ mục:** 4
+(Điều 5 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-**Mã phân cấp:** 410120000000000030000370000000000000000000802738900050000400
+1. Thư viện tự đánh giá hoạt động theo quy định sau:
 
-**ID:** dk_00071087
+a) Thư viện Quốc gia Việt Nam, thư viện công cộng cấp tỉnh, thư viện công lập có vai trò quan trọng thực hiện đánh giá đủ các tiêu chí theo tiêu chuẩn quốc gia;
 
----
+b) Thư viện không thuộc điểm a khoản 1 Điều này thực hiện đánh giá theo các tiêu chí do cơ quan, tổ chức, cá nhân thành lập thư viện lựa chọn từ bộ tiêu chí theo tiêu chuẩn quốc gia trên nguyên tắc bảo đảm các nhóm tiêu chí phù hợp với chức năng, nhiệm vụ, quy mô và vai trò của thư viện.
 
+2. Thư viện tự đánh giá hoạt động theo hướng dẫn tại Điều 7 của Thông tư này và gửi báo cáo kết quả tự đánh giá theo Mẫu số 01 tại Phụ lục ban hành kèm theo Thông tư này về cơ quan, tổ chức, cá nhân thành lập thư viện (nếu có), cơ quan quản lý nhà nước (khi được yêu cầu) chậm nhất vào ngày 30 tháng 12 hằng năm; hoặc 60 ngày sau khi kết thúc năm học đối với trường hợp đánh giá theo năm học.
 
-### Điều 41.12.TT.6.5. Thư viện tự đánh giá
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 5
-
-**Mã phân cấp:** 410120000000000030000370000000000000000000802738900050000500
-
-**ID:** dk_00071088
-
----
-
-
-### Điều 41.12.TT.6.6. Cơ quan, tổ chức, cá nhân thành lập thư viện và cơ quan quản lý nhà nước về thư viện đánh giá
+Mẫu số 01.doc
 
 Điều 41.12.TT.6.6. Cơ quan, tổ chức, cá nhân thành lập thư viện và cơ quan quản lý nhà nước về thư viện đánh giá
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-**Mã phân cấp:** 410120000000000030000370000000000000000000802738900050000600
+1. Cơ quan, tổ chức, cá nhân thành lập thư viện và cơ quan quản lý nhà nước về thư viện thực hiện đánh giá hoạt động thư viện theo một hoặc các phương thức sau:
 
-**ID:** dk_00071089
+a) Thông qua báo cáo kết quả tự đánh giá hoạt động hằng năm của thư viện;
 
----
+b) Trực tiếp đánh giá hoạt động tại thư viện;
 
+c) Trực tuyến thông qua hệ thống phần mềm xử lý số liệu.
 
-### Điều 41.12.TT.6.7. Hướng dẫn thực hiện đánh giá hoạt động thư viện
+2. Cơ quan, tổ chức thành lập thư viện và cơ quan quản lý nhà nước về thư viện tổ chức việc đánh giá hoạt động thư viện theo hướng dẫn tại Điều 7 của Thông tư này và các quy định sau đây đối với trường hợp trực tiếp đánh giá hoạt động tại thư viện:
+
+a) Gửi thông báo, kế hoạch và các yêu cầu về việc tổ chức đánh giá hoạt động tới thư viện được đánh giá chậm nhất 10 ngày làm việc trước ngày dự kiến thực hiện đánh giá;
+
+b) Gửi dự thảo kết quả đánh giá hoạt động thư viện cho thư viện được đánh giá chậm nhất 02 ngày làm việc sau khi có kết quả phân tích, đánh giá.
+
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được dự thảo báo cáo, thư viện có ý kiến phản hồi bằng văn bản đối với dự thảo đánh giá; trường hợp không nhất trí, phải nêu rõ lý do;
+
+c) Tổng hợp, ra kết quả đánh giá hoạt động chính thức trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến phản hồi của thư viện;
+
+d) Gửi kết quả đánh giá hoạt động thư viện theo Mẫu số 02 tại Phụ lục ban hành kèm theo Thông tư này về thư viện được đánh giá và cơ quan trực tiếp quản lý thư viện (nếu có).
+
+Mẫu số 02.doc
 
 Điều 41.12.TT.6.7. Hướng dẫn thực hiện đánh giá hoạt động thư viện
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-**Mã phân cấp:** 410120000000000030000370000000000000000000802738900050000700
+ 1. Lập kế hoạch
 
-**ID:** dk_00071090
+ a) Xác định thời gian, tiến độ, nội dung và dự toán kinh phí thực hiện; trường hợp cần thiết thành lập nhóm đánh giá;
 
----
+ b) Tổ chức hướng dẫn điều tra, thu thập thông tin, số liệu, sử dụng phần mềm đánh giá (nếu có), xử lý số liệu (chuẩn hóa số liệu), báo cáo kết quả đánh giá (tính toán và báo cáo) cho các thành viên tham gia.
 
+ 2. Thu thập thông tin, số liệu
 
-### Điều 41.12.LQ.38. Quyền của thư viện
+ a) Thông qua báo cáo đánh giá hằng năm của thư viện;
 
-*Nội dung chưa có sẵn*
+ b) Thu thập trực tiếp tại thư viện theo biểu mẫu điều tra;
 
-**Chỉ mục:** 38
+ c) Thông qua hệ thống phần mềm xử lý số liệu và các phương thức theo tiêu chuẩn quốc gia;
 
-**Mã phân cấp:** 410120000000000040000010000000000000000003800000000000000000
+ d) Các phương thức khác;
 
-**ID:** dk_00071093
+ 3. Phân tích kết quả
 
----
+ a) Tổng hợp, xử lý số liệu (chuẩn hóa số liệu); xây dựng báo cáo kết quả đánh giá (tính toán và báo cáo) bằng phần mềm đánh giá (nếu có);
 
+ b) Hoàn thiện các báo cáo và số liệu điều tra.
 
-### Điều 41.12.LQ.39. Trách nhiệm của thư viện
+ 4. Hoàn tất đánh giá
 
-*Nội dung chưa có sẵn*
+ a) Họp báo cáo kết quả đánh giá;
 
-**Chỉ mục:** 39
+ b) Xây dựng hồ sơ và lưu giữ các báo cáo và số liệu điều tra.Chương IV
 
-**Mã phân cấp:** 410120000000000040000010000000000000000003900000000000000000
+QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG THƯ VIỆN
 
-**ID:** dk_00071094
+Mục 1
 
----
+QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA THƯ VIỆN, NGƯỜI LÀM CÔNG TÁC THƯ VIỆN, NGƯỜI SỬ DỤNG THƯ VIỆN
 
+Điều 41.12.LQ.38. Quyền của thư viện
 
-### Điều 41.12.LQ.40. Quyền của người làm công tác thư viện
+(Điều 38 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Xác định nội dung và bình thức hoạt động phù hợp với chức năng, nhiệm vụ của thư viện.
+
+2. Trao đổi tài nguyên thông tin, tham gia hệ thống thông tin thư việntrong nước và nước ngoài theo quy định của pháp luật.
+
+3. Từ chối yêu cầu sử dụng tài nguyênthông tin trái với quy định của pháp luật, quy chế, nội quy thư viện.
+
+4. Thu phí, giá từ việc cung cấp dịch vụ thư viện theo quy định của pháp luật
+
+5. Nghiên cứu,ứng dụng thành tựu khoa học và công nghệ tiên tiến, thiết lập cơ sở hạ tầng kỹ thuật đáp ứng yêu cầu hiện đại hóa thư viện.
+
+6. Vận động vàtiếp nhận tài trợ, viện trợ, tặng cho, đóng góp cho thư viện theo quy định của pháp luật
+
+7. Mở rộng phục vụ đối tượng người sử dụng thư viện phù hợp với quy định của pháp luật và quy chế thư viện.
+
+8. Hợp tác quốc tế về thư viện.
+
+9. Xác định hình thức và giá trị bồi thường thiệt hại do người sử dụng thư viện gây ra theo quy trình của pháp luật và nội quy thư viện.
+
+10. Thư viện Quốc gia Việt Nam, thư viện chuyên ngành của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Văn phòng Quốc hội, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và thư viện cấp tỉnh được lưu giữ tài nguyên thôngtin quyđịnh tại điểma khoản 1Điều 7của Luật này để phục vụ hoạt động nghiên cứu.
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.7.3. Nhiệm vụ, quyền hạn)
+
+Điều 41.12.LQ.39. Trách nhiệm của thư viện
+
+(Điều 39 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Bảo đảm thực hiện quyền tiếp cận thông tin và sử dụng dịch vụ thư viện được quy định tại Luật này, quy định khác của pháp luật có liên quan và quy chế, nội quy thư viện.
+
+2. Sử dụng hiệu quả nguồn lực trong thư viện.
+
+3. Tổ chức hoạt động chuyên môn, nghiệp vụ thư viện theo quy định tại Luật này và hoạt động khác phù hợp với chức năng, nhiệm vụ của thư viện.
+
+4. Tổ chức dịch vụ thư viện; bố trí thời gian phục vụ phù hợp với điều kiện sinh hoạt, làm việc, học tập của người sử dụng thư viện.
+
+5. Công bố nội quy, hướng dẫn sử dụng thư viện.
+
+6. Công khai, minh bạch về tài nguyên thông tin và hoạt động của thư viện.
+
+7. Thực hiện chế độ báo cáo định kỳ hằng năm và khiđược yêu cầu.
+
+8. Quản lý, lưu giữ và tổ chức phục vụ tài nguyên thông tin hạn chế sử dụng theo quy định của Luật này, quy định khác của pháp luật có liên quan và quy chế, nội quy thư viện.
+
+(Điều này có nội dung liên quan đến Điều 41.12.TT.7.3. Nhiệm vụ, quyền hạn)
 
 Điều 41.12.LQ.40. Quyền của người làm công tác thư viện
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000010000000000000000004000000000000000000
+1. Được học tập, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ, kiến thức quản lý thư viện và kỹ năng sử dụng trang thiết bị, phương tiện, kỹ thuật hiện đại ứng dụng trong hoạt động thư viện.
 
-**ID:** dk_00071095
+2. Được tham gia nghiên cứu khoa học, sinh hoạt chuyên môn, nghiệp vụ; tham gia tổ chức xã hội - nghề nghiệp về thư viện.
 
----
-
-
-### Điều 41.12.LQ.41. Nghĩa vụ của người làm công tác thư viện
+3. Được hưởng lương; chế độ, chính sách ưu đãi về nghề nghiệp theo quy định của pháp luật.
 
 Điều 41.12.LQ.41. Nghĩa vụ của người làm công tác thư viện
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000010000000000000000004100000000000000000
+1. Thực hiện quy định của pháp luật về thư viện và quy định khác của pháp luật cóliên quan, quy định về chuyên môn, nghiệp vụ, quy chế, nội quy của cơ quan, tổ chức.
 
-**ID:** dk_00071096
+2. Tạo điều kiện để người sử dụng thư viện tiếp cận, sử dụng tài nguyên thông tin và tiện ích thư viện; bảo đảm quyền bình đẳng và các quyền khác của người sử dụng thư viện được quy định tại Luật này.
 
----
+3. Hỗtrợ, hướng dẫn, trang bị kỹ năng tìm kiếm, khai thác và sử dụng thông tin cho người sử dụng thư viện.
 
+4. Học tập để nâng cao năng lực chuyên môn, nghiệp vụ.
 
-### Điều 41.12.LQ.42. Quyền của người sử dụng thư viện
+5. Thực hiện quy tắc ứng xử nghề nghiệp thư viện.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.LQ.42. Quyền của người sử dụng thư viện
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000010000000000000000004200000000000000000
+1. Được sử dụng thư viện, tiếp cận, sử dụng tài nguyên thông tin và tiện ích thư viện phù hợp với nội quy thư viện, pháp luật về sở hữu trí tuệ, bảo vệ bí mật nhà nước và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00071097
+2. Được miễn phí tại thư viện công lập đối với các hoạt động sau đây:
 
----
+a) Sử dụng tài nguyên thông tin tại thư viện, mượn theo thời hạn quy địnhtrong nội quy thư viện;
 
+b) Tra cứu thông tintrên không gian mạng; tiếp nhận thông tin về tài nguyên thông tin thông qua hệ thống tra cứu hoặc hình thức tiếp nhận thông tin, tra cứu khác;
 
-### Điều 41.12.LQ.43. Nghĩa vụ của người sử dụng thư viện
+c) Được giúp đỡ, tư vấn về tìm kiếm, lựa chọn tài nguyên thông tin phù hợp với yêu cầu;
+
+d) Hoạt động khác theo quy định.
+
+3. Được sử dụng dịch vụ thư viện theo danh mục dịch vụ do thư viện cung cấp.
+
+4. Được hướng dẫn sử dụng thư viện, hỗ trợ, trang bị kỹ năng tìm kiếm, khai thác và sử dụng thông tin.
+
+5. Được tham gia các hoạt động dành cho người sử dụng thư viện do thư viện tổ chức.
+
+6. Được lựa chọn thư viện phù hợp với nhu cầu và quy chế, nội quy thư viện.
+
+7. Được khiếu nại, tố cáo về hành vi hạn chế quyền sử dụng thư viện.
 
 Điều 41.12.LQ.43. Nghĩa vụ của người sử dụng thư viện
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000010000000000000000004300000000000000000
+1. Chấp hành quy định của pháp luật và nội quy thư viện.
 
-**ID:** dk_00071098
+2. Thanh toán đầy đủ chi phí làm thẻ và sử dụng dịch vụ thư viện theo quy định.
 
----
+3. Bảo quản tài nguyên thông tin và tài sản khác của thư viện.
 
-
-### Điều 41.12.LQ.44. Quyền của người sử dụng thư viện đặc thù
+4. Bồi thường thiệt hại theo quy định.
 
 Điều 41.12.LQ.44. Quyền của người sử dụng thư viện đặc thù
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000010000000000000000004400000000000000000
+1. Người dân tộc thiểu số được tạo điều kiện sử dụng tài nguyên thông tin bằng tiếng nói, chữ viết của dân tộc mình phù hợp với điều kiện của thư viện.
 
-**ID:** dk_00071099
+2. Người sử dụng thư viện là người cao tuổi hoặc người khuyết tật mà không thể tới thư viện được tạo điều kiện sử dụng tài nguyên thông tin tại nhà thông qua dịch vụ thư viện lưu động hoặc gửi qua bưu chính, không gian mạng khi có yêu cầu phù hợp với hoạt động của thư viện.
 
----
+3. Người khiếm thị, người khiếm thính có quyền sử dụng tài nguyên thông tin theo quy định tại khoản 2 Điều này và được tạo điều kiện sử dụng tài liệu in chữ nổi Braille, tài liệu nghe, nhìn, tài liệu ngôn ngữ ký hiệu hoặc tàiliệu đặc biệt khác.
 
+4. Trẻ em được tạo điều kiện sử dụng tài nguyên thông tin phù hợp với lứa tuổi, cấp học tại thư viện cơ sở giáo dục và thư viện công cộng.
 
-### Điều 41.12.LQ.45. Trách nhiệm của cơ quan, tổ chức, cá nhân thành lập thư viện
+5. Trẻ em, người cao tuổi, thương binh, người khuyết tật, người thuộc hộ nghèo, hộ cận nghèo được miễn các khoản chi phí làm thẻ thư viện.
+
+6. Người đang chấp hành hình phạt tù, học tập, cải tạo tại trại giam, cơ sởgiáo dục bắt buộc, trường giáo dưỡng, cơ sở cai nghiện bắt buộc được tạo điều kiện sử dụng tài nguyên thông tin của thư viện tại nơi giam giữ, học tập và chữa bệnh.
+
+(Điều này có nội dung liên quan đến Điều 6.3.LQ.38. Trách nhiệm của cơ sở văn hóa, thể dục, thể thao, giải trí và du lịch)
+
+Mục 2
+
+TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN
 
 Điều 41.12.LQ.45. Trách nhiệm của cơ quan, tổ chức, cá nhân thành lập thư viện
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000020000000000000000004500000000000000000
+1. Bảo đảm cơ sở vật chất, kỹ thuật, kinh phí, nhân sự cho thư viện hoạt động và phát triển theo quy định của pháp luật.
 
-**ID:** dk_00071101
+2. Quản lý tổ chức và nhân sự thư viện.
 
----
+3. Ban hành quy chế về tổ chức và hoạt động của thư viện theo quy định của pháp luật.
 
+4. Thực hiện chế độ, chính sách ưuđãi về nghề nghiệp cho người làm công tác thư viện.
 
-### Điều 41.12.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân trực tiếp quản lý thư viện
+5. Khuyến khích tổ chức, cá nhân nộp tài liệu học tập, bài giảng, tài liệu tham khảo, khóa luận, đồ án, luận văn, luận án, kết quả nghiên cứu khoa học cho thư viện thuộc cơ sở giáo dục, thư viện thuộc cơ quan, tổ chức nơi học tập, nghiên cứu, công tác.
+
+6. Vận động cơ quan nhà nước, chính quyền địa phương cung cấp miễn phí cho thư viện tài liệu, xuấtbản phẩm,ấn phẩmdo cơ quan nhà nước, chính quyền địa phương xuất bản.
+
+7. Có phương án chuyển giao tài nguyên thông tin và tiện ích thư viện theo quy định của pháp luật về quản lý, sử dụng tài sản công trong trường hợp sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động của thư viện công lập.
+
+8. Kiểm tra, phát hiện, xử lý kịp thời các hành vi vi phạm trong hoạt động thư viện theo quy định của pháp luật.
+
+9. Thông báo bằng văn bản đến cơ quan nhà nước có thẩm quyền theo quy định tại Điều 23 của Luật này khithành lập, sáp nhập, hợp nhất, chia, tách, giải thể,chấmdứt hoạtđộng thư viện.
+
+10. Bảo đảm điều kiện về phòng cháy và chữa cháy; bảo vệ môi trường và phòng, chống thiên tai theo quy định của pháp luật.
+
+11. Bảo đảm thư viện trong cơ sở giáo dục có nguồn tài nguyên thông tin phát triển; gắn hoạt động thư viện với chương trình học phù hợp với chương trình đào tạo của cơ sở giáo dục; phân công lãnh đạo trực tiếp phụ trách thư viện và bố trí người làm công tác thư viện có chuyên môn, nghiệp vụ phù hợp với hoạt động thư viện.
+
+12. Tổ chức, cá nhân nước ngoài thành lập thư viện cótrách nhiệm tạo điều kiện cho người lao động Việt Nam làm việc tại thư viện được tham gia các tổ chức, đoàn thể và hưởng các quyền khác theo quy định của pháp luật Việt Nam.
+
+(Điều này có nội dung liên quan đến Điều 41.12.NĐ.1.23. Trình tự, thủ tục chấm dứt hoạt động thư viện)
 
 Điều 41.12.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân trực tiếp quản lý thư viện
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000020000000000000000004600000000000000000
+1. Xây dựng, tổ chức thực hiện kế hoạch hoạt động thư viện, phát triển tài nguyên thông tin và phát triển văn hóa đọc.
 
-**ID:** dk_00071102
+2. Sử dụng hiệu quả nguồn lực đầu tư cho thư viện.
 
----
+3. Tạo điều kiện cho người làm công tác thư viện được bồidưỡng nâng cao trình độ chuyên môn, nghiệp vụ.
 
+4. Thực hiện chế độ thống kê, thông tin, báo cáo hoạt động thư viện với cơ quan, tổ chức thành lập thư viện và cơ quan nhà nước có thẩm quyền.
 
-### Điều 41.12.LQ.47. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+5. Tổ chức thực hiện liên thông thư viện với phương thức thích hợp.
 
 Điều 41.12.LQ.47. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 410120000000000040000020000000000000000004700000000000000000
+1. Cơ quan, tổ chức xuất bản, cơ quan báo chí thực hiện việc nộp xuất bản phẩm, ấn phẩm báo chí cho thư viện theo quy định của pháp luật về xuất bản, báo chí.
 
-**ID:** dk_00071103
+2. Người Việt Nam bảo vệ luận án tiến sĩ ở trong nước, nước ngoài; công dân nước ngoài bảo vệ luận án tiến sĩ tại Việt Nam nộp luận án cho Thư viện Quốc gia Việt Nam theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
----
+3. Người dạy trong cơ sở giáo dục phối hợp với người làm công tác thư viện hướng dẫn người học sử dụng tài nguyên thông tin và tiện ích thư viện trong học tập, nghiên cứu.
 
+4. Tổ chức xã hội - nghề nghiệp về thư viện được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây:
 
-### Điều 41.12.LQ.48. Trách nhiệm quản lý nhà nước về thư viện của Chính phủ
+a) Tham gia phát triển sự nghiệp thư viện;
+
+b) Phối hợp với cơ quan quản lý nhà nước tuyên truyền, phổ biến quy định của pháp luật, chính sách, thành tựu về khoa học thư viện trong nước và nước ngoài;
+
+c) Tư vấn xây dựng tiêu chuẩn về thư viện, chất lượng dịch vụ thư viện và phát triển văn hóa đọc;
+
+d) Tham gia xây dựng và vận động hội viên thực hiện quy tắc ứng xử nghề nghiệp thư viện.
+
+Chương V
+
+TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ THƯ VIỆN
 
 Điều 41.12.LQ.48. Trách nhiệm quản lý nhà nước về thư viện của Chính phủ
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000500004800000000000000000
+1. Chính phủ thống nhất quản lý nhà nước về thư viện.
 
-**ID:** dk_00071105
+2. Bộ Văn hóa, Thể thao và Du lịch là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về thư viện trong phạm vi cả nước và có trách nhiệm sau đây:
 
----
+a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện chính sách, văn bản quy phạm pháp luật, chiến lược, kế hoạch phát triển thư viện;
 
+b) Ban hành hoặc trình cơ quan có thẩm quyền ban hành tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia trong hoạt động thư viện; ban hành quy tắc ứng xử nghề nghiệp thư viện;
 
-### Điều 41.12.LQ.49. Trách nhiệm quản lý nhà nước về thư viện của Bộ, cơ quan ngang Bộ
+c) Chỉđạo thực hiện liên thông thư viện; chỉ đạo chuyên môn, nghiệp vụ thư viện, bồi dưỡng phát triển nguồn nhân lực thư viện, nghiên cứu, ứng dụng khoa học và công nghệ trong hoạt động thư viện;
+
+d) Thông tin, tuyên truyền, phổ biến, giáo dụcpháp luật vềthư viện;
+
+đ) Xây dựng và hướng dẫn hoạt động phát triển văn hóa đọc;
+
+e) Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo trong hoạt động thư viện theo thẩm quyền;
+
+g) Hợp tác quốc tế về thư viện.
+
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.1. Phạm vi điều chỉnh)
 
 Điều 41.12.LQ.49. Trách nhiệm quản lý nhà nước về thư viện của Bộ, cơ quan ngang Bộ
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000500004900000000000000000
+1. Bộ Quốc phòng, Bộ Công an, trongphạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ Văn hóa, Thểthao và Du lịch quản lý tổ chức và hoạt động thư viện lực lượng vũtrang nhân dân.
 
-**ID:** dk_00071106
+2. Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ Văn hóa, Thểthao và Du lịch tổ chức hoạt động, xây dựng tiêu chuẩn đối với thư viện cơ sở giáo dục; phát triển văn hóa đọc học đường; quản lý công tác đào tạo nhân lực thư viện; quản lý thư viện tại cơ sở cai nghiện bắt buộc.
 
----
+3. Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch và các cơ quan nhà nước có liên quan quản lý hệ thống thông tin, an toàn thông tin mạng trong hoạt động thư viện; chủ trì thực hiện quy định về lưu chiếu.
 
+4. Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch thẩm định, công bố tiêu chuẩn quốc gia, thẩm định quy chuẩn kỹ thuật quốc gia về hoạt động thư viện; chỉ đạo việc phát triển, chia sẻ tài nguyên thông tin về khoa học và công nghệ, đổi mới sáng tạo trong nước và nước ngoài.
 
-### Điều 41.12.LQ.50. Trách nhiệm quản lý nhà nước về thư viện của Ủy ban nhân dân các cấp
+5. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện quản lý nhà nước về thư viện.
+
+(Điều này có nội dung liên quan đến Điều 19.8.LQ.1. Phạm vi điều chỉnh)
 
 Điều 41.12.LQ.50. Trách nhiệm quản lý nhà nước về thư viện của Ủy ban nhân dân các cấp
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 4101200000000000500005000000000000000000
+1. Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về thư viện tại địa phương; tổ chức xây dựng, ban hành, thực hiện chính sách, chiến lược, kế hoạch phát triển thư viện, văn hóa đọc tại địa phương.
 
-**ID:** dk_00071107
+2. Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
 
----
+a) Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách hỗ trợ, thu hút xây dựng và phát triển mạng lưới thư viện tại địa phương đáp ứng nhu cầu tiếp cận thông tin, tri thức của Nhân dân địa phương;
 
+b) Đầu tư phát triển thư viện cấp tỉnh; xây dựng, kiện toàn và củng cố hệ thống thư viện công cộng trên địa bàn; khuyến khích tổ chức, cá nhân thành lập, duy trìthư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng tại địa phương; quy định việc thư viện cấp tỉnhđược tiếp nhận xuất bản phẩm xuất bản tại địa phương phù hợp với quy định của pháp luật;
 
-### Điều 41.12.LQ.51. Hiệu lực thi hành
+c) Chỉđạo việc hiện đại hóa thư viện, xây dựng cơ chế phối hợp giữa thư viện với cơ quan, tổ chức để phát triển thư viện và văn hóa đọctrên địa bàn;
 
-*Nội dung chưa có sẵn*
+d) Chỉ đạo Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã quản lý thư viện công cộng và mạng lưới thư viện trên địa bàn.
 
-**Chỉ mục:** 51
+Chương VI
 
-**Mã phân cấp:** 4101200000000000600005100000000000000000
+ĐIỀU KHOẢN THI HÀNH
 
-**ID:** dk_00071109
+Điều 41.12.LQ.51. Hiệu lực thi hành
 
----
+(Điều 51 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.
 
-### Điều 41.12.NĐ.1.32. Hiệu lực thi hành
+2. Pháp lệnh Thư viện số 31/2000/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.NĐ.1.32. Hiệu lực thi hành
 
-**Chỉ mục:** 32
+(Điều 32 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Mã phân cấp:** 4101200000000000600005140273790093000320
+1. Nghị định này có hiệu lực thi hành từ ngày 05 tháng 10 năm 2020.
 
-**ID:** dk_00071110
+2. Nghị định số 72/2002/NĐ-CP ngày 06 tháng 8 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh Thư viện; Nghị định số 02/2009/NĐ-CP ngày 06 tháng 01 năm 2009 của Chính phủ quy định về tổ chức và hoạt động của thư viện tư nhân có phục vụ cộng đồng; quy định của khoản 5 Điều 2 Nghị định số 01/2012/NĐ-CP ngày 04 tháng 01 năm 2012 của Chính phủ sửa đổi, bổ sung, thay thế hoặc bãi bỏ, hủy bỏ các quy định có liên quan đến thủ tục hành chính thuộc phạm vi chức năng quản lý của Bộ Văn hóa, Thể thao và Du lịch hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
----
+Điều 41.12.NĐ.1.33. Trách nhiệm thi hành
 
+(Điều 33 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-### Điều 41.12.NĐ.1.33. Trách nhiệm thi hành
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và cơ quan, tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.QĐ.1.2.
 
-**Chỉ mục:** 33
+(Điều 2 Quyết định số 61/1998/QĐ-BGDĐT, có hiệu lực thi hành kể từ ngày 21/11/1998)
 
-**Mã phân cấp:** 4101200000000000600005140273790093000330
+Quyết định này có hiệu sau 15 ngày, kể từ ngày ký, thay thế Quyết định số 947/QĐ ngày 31/7/1979 của Bộ trưởng Bộ Giáo dục về Quy chế tổ chức và hoạt động thư viện trường phổ thông và Quyết định số[ 2164/GD-ĐT](https://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=2164/GD-%C4%90T&area=2&type=0&match=False&vc=True&lan=1) ngày 27/6/1995 về Quy định về trường, lớp, thư viện, thiết bị giáo dục ở trường tiểu học (phần Thư viện trường học).
 
-**ID:** dk_00071111
+Điều 41.12.QĐ.1.3.
 
----
+(Điều 3 Quyết định số 61/1998/QĐ-BGDĐT, có hiệu lực thi hành kể từ ngày 21/11/1998)
 
+Các ông (bà) Chánh văn phòng Bộ, Vụ trưởng các Vụ có liên quan và Thủ trưởng các đơn vị trực thuộc Bộ, Giám đốc Sở Giáo dục - Đào tạo chịu trách nhiệm thi hành quyết định này.
 
-### Điều 41.12.QĐ.1.2.
+Điều 41.12.QĐ.2.2.
 
-*Nội dung chưa có sẵn*
+(Điều 2 Quyết định số 01/2003/QĐ-BGDĐT, có hiệu lực thi hành kể từ ngày 17/01/2003)
 
-**Chỉ mục:** 2
+Quyết định này có hiệu lực sau 15 ngày, kể từ ngày ký và thay thế Quyết định số 659/QĐ-NXBCD ngày 09/7/1990 của Bộ trưởng Bộ Giáo dục và đào tạo về tiêu chuẩn thư viện trường học áp dụng cho các trường phổ thông.
 
-**Mã phân cấp:** 4101200000000000600005180194230061000020
+Điều 41.12.QĐ.2.3.
 
-**ID:** dk_00071112
+(Điều 3 Quyết định số 01/2003/QĐ-BGDĐT, có hiệu lực thi hành kể từ ngày 17/01/2003)
 
----
+Các Chánh Văn phòng, Vụ trưởng các vụ có liên quan và Thứ trưởng các đơn vị thuộc Bộ, Giám đốc các Sở Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này.
 
+Điều 41.12.QĐ.2.4.
 
-### Điều 41.12.QĐ.1.3.
+(Điều 2 Quyết định số 01/2004/QĐ-BGDĐT Về việc sửa đổi, bổ sung Quyết định số 01/2003/QĐ-BGDĐT ngày 02/01/2003 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành quy định tiêu chuẩn thư viện trường phổ thông ngày 29/01/2004 của Bộ Giáo dục và Đào tạo, có hiệu lực thi hành kể từ ngày 25/02/2004)
 
-*Nội dung chưa có sẵn*
+Quyết định này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo. Những quy định trước đây trái với Quyết định này đều bãi bỏ.
 
-**Chỉ mục:** 3
+Điều 41.12.QĐ.2.5.
 
-**Mã phân cấp:** 4101200000000000600005180194230061000030
+(Điều 3 Quyết định số 01/2004/QĐ-BGDĐT, có hiệu lực thi hành kể từ ngày 25/02/2004)
 
-**ID:** dk_00071113
+Các Chánh Văn phòng, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Giám đốc các Sở Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này.
 
----
+Điều 41.12.QĐ.3.2.
 
+(Điều 2 Quyết định số 50/2003/QĐ-BVHTT, có hiệu lực thi hành kể từ ngày 16/09/2003)
 
-### Điều 41.12.QĐ.2.2.
+Quy định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Các quy định trước đây của Bộ Văn hóa-Thông tin trái với quy định này đều bị bãi bỏ.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.QĐ.3.3.
 
-**Chỉ mục:** 2
+(Điều 3 Quyết định số 50/2003/QĐ-BVHTT, có hiệu lực thi hành kể từ ngày 16/09/2003)
 
-**Mã phân cấp:** 4101200000000000600005180209410001100020
+Các ông (bà) Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Cục trưởng Cục Xuất bản, Vụ trưởng Vụ Thư viện, Vụ trưởng Vụ Kế hoạch - Tài chính, Giám đốc các thư viện và các tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-**ID:** dk_00071114
+Điều 41.12.QĐ.4.2.
 
----
+(Điều 2 Quyết định số 13/2008/QĐ-BVHTTDL, có hiệu lực thi hành kể từ ngày 31/03/2008)
 
+Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Những quy định trước đây trái với Quyết định này đều bị bãi bỏ.
 
-### Điều 41.12.QĐ.2.3.
+Điều 41.12.QĐ.4.3.
 
-*Nội dung chưa có sẵn*
+(Điều 3 Quyết định số 13/2008/QĐ-BVHTTDL, có hiệu lực thi hành kể từ ngày 31/03/2008)
 
-**Chỉ mục:** 3
+Chánh Văn phòng, Vụ trưởng Vụ Thư viện, Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc đại học, học viện, Hiệu trưởng trường đại học, cao đẳng và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-**Mã phân cấp:** 4101200000000000600005180209410001100030
+Điều 41.12.TT.1.14. Hiệu lực thi hành
 
-**ID:** dk_00071115
+(Điều 14 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
----
+Thông tư này có hiệu lực thi hành từ ngày 25 tháng 01 năm 2015.
 
+Điều 41.12.TT.1.15. Tổ chức thực hiện
 
-### Điều 41.12.QĐ.2.4.
+(Điều 15 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-*Nội dung chưa có sẵn*
+Thông tư này là căn cứ để thư viện xây dựng kế hoạch phát triển, công tác năm trình cơ quan có thẩm quyền phê duyệt và thực hiện việc phân công viên chức thư viện phù hợp với tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành thư viện theo quy định của pháp luật.
 
-**Chỉ mục:** 2
+Điều 41.12.TT.1.16. Trách nhiệm thi hành
 
-**Mã phân cấp:** 4101200000000000600005180209410001100040
+(Điều 16 Thông tư số 18/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 25/01/2015)
 
-**ID:** dk_00071116
+1. Vụ trưởng Vụ Thư viện chịu trách nhiệm tổ chức theo dõi, giám sát và kiểm tra việc thực hiện Thông tư này.
 
----
+2. Người đứng đầu cơ quan, tổ chức trực tiếp quản lý thư viện và thư viện chịu trách nhiệm thi hành Thông tư này.
 
+3. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ thư viện) để xem xét, bổ sung, sửa đổi.
 
-### Điều 41.12.QĐ.2.5.
+Điều 41.12.TT.2.15. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 15 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-**Chỉ mục:** 3
+1. Vụ Thư viện chịu trách nhiệm tổ chức thực hiện, theo dõi, giám sát và kiểm tra việc thực hiện Thông tư này.
 
-**Mã phân cấp:** 4101200000000000600005180209410001100050
+2. Sở Văn hóa, Thể thao và Du lịch hoặc Sở Văn hóa và Thể thao có trách nhiệm chỉ đạo việc xây dựng, thực hiện quy chế hoạt động của thư viện theo quy định của Thông tư này ở địa phương.
 
-**ID:** dk_00071117
+3. Giám đốc, người phụ trách thư viện công cộng các cấp căn cứ Thông tư này tổ chức xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành quy chế hoạt động của thư viện.
 
----
+Điều 41.12.TT.2.16. Hiệu lực thi hành
 
+(Điều 16 Thông tư số 13/2016/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 22/01/2017)
 
-### Điều 41.12.QĐ.3.2.
+1. Thông tư này có hiệu lực thi hành từ ngày 22 tháng 01 năm 2017.
 
-*Nội dung chưa có sẵn*
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, các Quyết định số 16/2005/QĐ-BVHTT ngày 04 tháng 5 năm 2005 của Bộ trưởng Bộ Văn hóa-Thông tin ban hành Quy chế mẫu về tổ chức và hoạt động của thư viện tỉnh, thành phố trực thuộc Trung ương; Quyết định số 49/2006/QĐ-BVHTT ngày 05 tháng 5 năm 2006 của Bộ trưởng Bộ Văn hóa-Thông tin ban hành Quy chế mẫu về tổ chức và hoạt động của thư viện huyện, quận, thị xã, thành phố trực thuộc tỉnh; Quyết định số 77/2008/QĐ-BVHTTDL ngày 28 tháng 8 năm 2008 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành Quy chế mẫu về tổ chức và hoạt động của thư viện xã, phường, thị trấn hết hiệu lực.
 
-**Chỉ mục:** 2
+5. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để xem xét, bổ sung, sửa đổi.
 
-**Mã phân cấp:** 4101200000000000600005180211730050000020
+Điều 41.12.TT.4.4. Tổ chức thực hiện
 
-**ID:** dk_00071118
+(Điều 4 Thông tư số 01/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
----
+1. Vụ Thư viện Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm theo dõi, đôn đốc và hướng dẫn thực hiện Thông tư này.
 
+2. Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Văn hóa, Thông tin, Thể thao và Du lịch có trách nhiệm đôn đốc và hướng dẫn thực hiện Thông tư này trên địa bàn thuộc thẩm quyền quản lý.
 
-### Điều 41.12.QĐ.3.3.
+3. Cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-*Nội dung chưa có sẵn*
+Điều 41.12.TT.4.5. Hiệu lực thi hành
 
-**Chỉ mục:** 3
+(Điều 5 Thông tư số 01/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-**Mã phân cấp:** 4101200000000000600005180211730050000030
+1. Thông tư này có hiệu lực thi hành kể từ ngày 09 tháng 7 năm 2020.
 
-**ID:** dk_00071119
+2. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để nghiên cứu, sửa đổi, bổ sung.
 
----
+Điều 41.12.TT.5.33. Tổ chức thực hiện
 
+(Điều 33 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
-### Điều 41.12.QĐ.4.2.
+1. Vụ Thư viện Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm theo dõi, đôn đốc và hướng dẫn thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao, Sở Văn hóa, Thông tin, Thể thao và Du lịch có trách nhiệm đôn đốc và hướng dẫn thực hiện Thông tư này trên địa bàn thuộc thẩm quyền quản lý.
 
-**Chỉ mục:** 2
+3. Cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Mã phân cấp:** 4101200000000000600005180228350013000020
+Điều 41.12.TT.5.34. Điều khoản thi hành
 
-**ID:** dk_00071120
+(Điều 34 Thông tư số 02/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 09/07/2020)
 
----
+1. Thông tư này có hiệu lực thi hành kể từ ngày 09 tháng 7 năm 2020.
 
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, các quy định sau hết hiệu lực thi hành:
 
-### Điều 41.12.QĐ.4.3.
+a) Thông tư số 21/2012/TT-BVHTTDL ngày 28 tháng 12 năm 2012 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tiêu chí và thủ tục thanh lọc tài liệu thư viện;
 
-*Nội dung chưa có sẵn*
+b) Điều 8 và khoản 2 Điều 9 Thông tư số 18/2014/TT-BVHTTDL ngày 08 tháng 12 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về hoạt động chuyên môn, nghiệp vụ của thư viện.
 
-**Chỉ mục:** 3
+3. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để sửa đổi, bổ sung cho phù hợp.
 
-**Mã phân cấp:** 4101200000000000600005180228350013000030
+Điều 41.12.TT.6.8. Trách nhiệm thi hành
 
-**ID:** dk_00071121
+(Điều 8 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
----
+1. Trách nhiệm của thư viện
 
+a) Thực hiện tự đánh giá hoạt động hằng năm theo quy định tại Thông tư này;
 
-### Điều 41.12.TT.1.14. Hiệu lực thi hành
+b) Phối hợp với cơ quan, tổ chức thành lập thư viện, cơ quan quản lý nhà nước về thư viện tiến hành đánh giá hoạt động;
 
-*Nội dung chưa có sẵn*
+c) Thực hiện kế hoạch nâng cao chất lượng hoạt động và các dịch vụ thư viện trên cơ sở kết quả tự đánh giá hoặc đánh giá hoạt động.
 
-**Chỉ mục:** 14
+2. Trách nhiệm của cơ quan, tổ chức, cá nhân thành lập thư viện
 
-**Mã phân cấp:** 4101200000000000600005180252990018750140
+a) Tổ chức đánh giá hoạt động thư viện theo quy định tại Thông tư này;
 
-**ID:** dk_00071122
+b) Hướng dẫn, chỉ đạo, giám sát thư viện thực hiện kế hoạch nâng cao chất lượng các dịch vụ và hoạt động thư viện; lập kế hoạch xây dựng, đầu tư cho thư viện trên cơ sở kết quả đánh giá hoạt động thư viện;
 
----
+c) Báo cáo kết quả với cơ quan quản lý nhà nước về thư viện; xây dựng kế hoạch phát triển thư viện và văn hóa đọc.
 
+3. Trách nhiệm của cơ quan quản lý nhà nước về thư viện
 
-### Điều 41.12.TT.1.15. Tổ chức thực hiện
+a) Tổ chức đánh giá hoạt động thư viện theo quy định tại Thông tư này;
 
-*Nội dung chưa có sẵn*
+b) Kiểm tra, giám sát quá trình và kết quả đánh giá hoạt động thư viện;
 
-**Chỉ mục:** 15
+c) Định hướng, hướng dẫn, chỉ đạo, giám sát thư viện thực hiện kế hoạch nâng cao chất lượng các dịch vụ, hoạt động thư viện và phát triển văn hóa đọc;
 
-**Mã phân cấp:** 4101200000000000600005180252990018750150
+d) Tổ chức sơ kết, tổng kết việc đánh giá hoạt động thư viện.
 
-**ID:** dk_00071123
+Điều 41.12.TT.6.9. Tổ chức thực hiện
 
----
+(Điều 9 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
+1. Vụ Thư viện Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm tổ chức, hướng dẫn, theo dõi, đôn đốc và kiểm tra việc thực hiện Thông tư này.
 
-### Điều 41.12.TT.1.16. Trách nhiệm thi hành
+2. Các Bộ, ngành và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo thực hiện việc đánh giá hoạt động thư viện thuộc phạm vi quản lý của mình theo quy định tại Thông tư này.
 
-*Nội dung chưa có sẵn*
+3. Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao có trách nhiệm đôn đốc và hướng dẫn thực hiện Thông tư này trên địa bàn thuộc thẩm quyền quản lý.
 
-**Chỉ mục:** 16
+Điều 41.12.TT.6.10. Hiệu lực thi hành
 
-**Mã phân cấp:** 4101200000000000600005180252990018750160
+(Điều 10 Thông tư số 05/2020/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 15/10/2020)
 
-**ID:** dk_00071124
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2020.
 
----
+2. Trong quá trình thực hiện, nếu có vấn đề khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để sửa đổi, bổ sung cho phù hợp.
 
+Điều 41.12.TT.7.5. Tổ chức thực hiện
 
-### Điều 41.12.TT.2.15. Tổ chức thực hiện
+(Điều 5 Thông tư số 09/2021/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/12/2021)
 
-*Nội dung chưa có sẵn*
+1. Vụ Thư viện chịu trách nhiệm hướng dẫn, đôn đốc và kiểm tra việc thực hiện Thông tư này.
 
-**Chỉ mục:** 15
+2. Giám đốc Sở Văn hóa, Thể thao và Du lịch xây dựng chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của thư viện cấp tỉnh, trình Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương theo quy định của pháp luật.
 
-**Mã phân cấp:** 4101200000000000600005180260310013000150
+3. Giám đốc Thư viện cấp tỉnh xác định vị trí việc làm trong thư viện, phân công viên chức, người lao động phù hợp với tiêu chuẩn, chức danh, nghề nghiệp viên chức theo quy định của pháp luật.
 
-**ID:** dk_00071125
+Điều 41.12.TT.7.6. Điều khoản thi hành
 
----
+(Điều 6 Thông tư số 09/2021/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/12/2021)
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2021.
 
-### Điều 41.12.TT.2.16. Hiệu lực thi hành
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, các Điều 12, Điều 13 và Điều 14 của Thông tư số 13/2016/TT-BVHTTDL ngày 09 tháng 12 năm 2016 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định quy chế mẫu hoạt động của thư viện công cộng cấp tỉnh, huyện, xã hết hiệu lực.
 
-*Nội dung chưa có sẵn*
+3. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để xem xét, sửa đổi, bổ sung cho phù hợp.
 
-**Chỉ mục:** 16
+Điều 41.12.TT.8.13. Tổ chức thực hiện
 
-**Mã phân cấp:** 4101200000000000600005180260310013000160
+(Điều 13 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**ID:** dk_00071126
+1. Vụ Thư viện chịu trách nhiệm hướng dẫn, đôn đốc và kiểm tra việc thực hiện Thông tư này.
 
----
+2. Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao các tỉnh, thành phố trực thuộc trung ương hướng dẫn, đôn đốc và kiểm tra thực hiện Thông tư này tại địa phương.
 
+3. Thư viện và các cơ quan, tổ chức có liên quan căn cứ chức năng, nhiệm vụ được giao có trách nhiệm tổ chức thực hiện Thông tư này.
 
-### Điều 41.12.TT.4.4. Tổ chức thực hiện
+Điều 41.12.TT.8.14. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 14 Thông tư số 05/2022/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Chỉ mục:** 4
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2022.
 
-**Mã phân cấp:** 4101200000000000600005180272910001000040
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, Thông tư số 33/2018/TT- BVHTTDL ngày 15 tháng 10 năm 2018 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về hoạt động thư viện lưu động và luân chuyển tài liệu hết hiệu lực.
 
-**ID:** dk_00071127
+3. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để xem xét, sửa đổi, bổ sung cho phù hợp.
 
----
+Điều 41.12.TT.9.2. Tổ chức thực hiện
 
+(Điều 2 Thông tư số 07/2023/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/09/2023)
 
-### Điều 41.12.TT.4.5. Hiệu lực thi hành
+1. Căn cứ tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật quy định tại Thông tư này, các bộ, ngành, cơ quan trung ương, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương xem xét, quyết định áp dụng định mức cụ thể phù hợp với điều kiện của đơn vị cung cấp dịch vụ sự nghiệp công thuộc phạm vi quản lý của bộ, ngành, địa phương.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp các văn bản viện dẫn Thông tư này được sửa đổi, bổ sung hoặc thay thế thì được thực hiện theo văn bản mới ban hành.
 
-**Chỉ mục:** 5
+3. Thư viện, cơ quan, tổ chức sử dụng ngân sách nhà nước để triển khai cung ứng dịch vụ sự nghiệp công có liên quan căn cứ điều kiện thực tế, đề xuất với cơ quan có thẩm quyền xem xét, quyết định xây dựng định mức cụ thể.
 
-**Mã phân cấp:** 4101200000000000600005180272910001000050
+Điều 41.12.TT.9.3. Hiệu lực thi hành
 
-**ID:** dk_00071128
+(Điều 3 Thông tư số 07/2023/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/09/2023)
 
----
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2023.
 
+2. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để xem xét, giải quyết.
 
-### Điều 41.12.TT.5.33. Tổ chức thực hiện
+Điều 41.12.TT.10.2. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 16/2023/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/03/2024)
 
-**Chỉ mục:** 33
+1. Căn cứ tiêu chí, tiêu chuẩn chất lượng, định mức kinh tế - kỹ thuật tại Quy định ban hành kèm theo Thông tư, các bộ, ngành, cơ quan trung ương, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương xem xét, quyết định áp dụng định mức cụ thể phù hợp với điều kiện của đơn vị cung cấp dịch vụ sự nghiệp công thuộc phạm vi quản lý và không vượt quá định mức quy định tại Thông tư này.
 
-**Mã phân cấp:** 4101200000000000600005180272940002000330
+2. Trường hợp các văn bản viện dẫn tại Quy định ban hành kèm theo Thông tư này được sửa đổi, bổ sung hoặc thay thế thì được thực hiện theo văn bản mới ban hành.
 
-**ID:** dk_00071129
+3. Thư viện, cơ quan, tổ chức sử dụng ngân sách nhà nước để triển khai cung ứng dịch vụ sự nghiệp công có liên quan, căn cứ điều kiện thực tiễn, đề xuất với cơ quan có thẩm quyền xem xét, quyết định áp dụng định mức cụ thể.
 
----
+Điều 41.12.TT.10.3. Hiệu lực thi hành
 
+(Điều 3 Thông tư số 16/2023/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/03/2024)
 
-### Điều 41.12.TT.5.34. Điều khoản thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2024.
 
-*Nội dung chưa có sẵn*
+2. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để được hướng dẫn hoặc nghiên cứu sửa đổi, bổ sung cho phù hợp.
 
-**Chỉ mục:** 34
+Điều 41.12.TT.11.7. Tổ chức thực hiện
 
-**Mã phân cấp:** 4101200000000000600005180272940002000340
+(Điều 7 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-**ID:** dk_00071130
+1. Căn cứ định mức kinh tế - kỹ thuật quy định tại Thông tư này, các bộ, ngành, cơ quan trung ương và các cơ quan, đơn vị liên quan xem xét quyết định áp dụng định mức kinh tế - kỹ thuật cụ thể phù hợp với điều kiện của đơn vị cung cấp dịch vụ sự nghiệp công thuộc phạm vi quản lý.
 
----
+2. Thư viện, cơ quan, tổ chức sử dụng ngân sách nhà nước để triển khai cung ứng dịch vụ sự nghiệp công có liên quan, căn cứ điều kiện thực tiễn, đề xuất với cơ quan có thẩm quyền xem xét, quyết định áp dụng định mức cụ thể.
 
+Điều 41.12.TT.11.8. Hiệu lực thi hành
 
-### Điều 41.12.TT.6.8. Trách nhiệm thi hành
+(Điều 8 Thông tư số 12/2024/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 05/01/2025)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 01 năm 2025.
 
-**Chỉ mục:** 8
+2. Trường hợp văn bản quy phạm pháp luật được viện dẫn áp dụng tại Thông tư này được sửa đổi, bổ sung, thay thế thì thực hiện theo văn bản sửa đổi, bổ sung, thay thế mới được ban hành.
 
-**Mã phân cấp:** 4101200000000000600005180273890005000080
+3. Trong quá trình thực hiện, nếu phát sinh, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Thư viện) để xem xét, giải quyết./.
 
-**ID:** dk_00071131
+Điều 41.12.LQ.52. Điều khoản chuyển tiếp
 
----
+(Điều 52 Luật số 46/2019/QH14, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
+Thư viện thành lập, đăng ký hoạt động trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động mà không phải thực hiện thủ tục thông báo hoạt động theo quy định của Luật này.
 
-### Điều 41.12.TT.6.9. Tổ chức thực hiện
+Điều 41.12.NĐ.1.31. Điều khoản chuyển tiếp
 
-*Nội dung chưa có sẵn*
+(Điều 31 Nghị định số 93/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 05/10/2020)
 
-**Chỉ mục:** 9
+1. Tổ chức, cá nhân đã nộp hồ sơ đăng ký hoạt động thư viện tư nhân có phục vụ cộng đồng trước ngày Nghị định này có hiệu lực thi hành, nhưng chưa có Giấy chứng nhận đăng ký hoạt động thì tiếp tục thực hiện theo quy định của pháp luật tại thời điểm nộp hồ sơ.
 
-**Mã phân cấp:** 4101200000000000600005180273890005000090
+2. Thư viện thành lập trước ngày 01 tháng 7 năm 2020 phải kiện toàn để đáp ứng đủ điều kiện về thành lập thư viện trong thời hạn chậm nhất 02 năm kể từ ngày Nghị định này có hiệu lực thi hành.
 
-**ID:** dk_00071132
+## Danh sách điều khoản
 
----
+### 41012000000000001000
 
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 41.12.TT.6.10. Hiệu lực thi hành
+### 4101200000000000100000100000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 41.12.LQ.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 10
+### 4101200000000000100000200000000000000000
 
-**Mã phân cấp:** 4101200000000000600005180273890005000100
+Điều 41.12.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00071133
+### 4101200000000000100000240273790093000010
 
----
+Điều 41.12.NĐ.1.1. Phạm vi điều chỉnh
 
+### 4101200000000000100000240273790093000020
 
-### Điều 41.12.TT.7.5. Tổ chức thực hiện
+Điều 41.12.NĐ.1.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 4101200000000000100000280252990018750010
 
-**Chỉ mục:** 5
+Điều 41.12.TT.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Mã phân cấp:** 4101200000000000600005180277790009000050
+### 4101200000000000100000280260310013000010
 
-**ID:** dk_00071134
+Điều 41.12.TT.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
----
+### 4101200000000000100000280272910001000010
 
+Điều 41.12.TT.4.1. Phạm vi điều chỉnh
 
-### Điều 41.12.TT.7.6. Điều khoản thi hành
+### 4101200000000000100000280272910001000020
 
-*Nội dung chưa có sẵn*
+Điều 41.12.TT.4.2. Đối tượng áp dụng
 
-**Chỉ mục:** 6
+### 4101200000000000100000280272940002000010
 
-**Mã phân cấp:** 4101200000000000600005180277790009000060
+Điều 41.12.TT.5.1. Phạm vi điều chỉnh
 
-**ID:** dk_00071135
+### 4101200000000000100000280272940002000020
 
----
+Điều 41.12.TT.5.2. Đối tượng áp dụng
 
+### 4101200000000000100000280273890005000010
 
-### Điều 41.12.TT.8.13. Tổ chức thực hiện
+Điều 41.12.TT.6.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 4101200000000000100000280273890005000020
 
-**Chỉ mục:** 13
+Điều 41.12.TT.6.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 4101200000000000600005180280950005000130
+### 4101200000000000100000280277790009000010
 
-**ID:** dk_00071136
+Điều 41.12.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
----
+### 4101200000000000100000280280950005000010
 
+Điều 41.12.TT.8.1. Phạm vi điều chỉnh
 
-### Điều 41.12.TT.8.14. Điều khoản thi hành
+### 4101200000000000100000280280950005000020
 
-*Nội dung chưa có sẵn*
+Điều 41.12.TT.8.2. Đối tượng áp dụng
 
-**Chỉ mục:** 14
+### 4101200000000000100000280289340012000010
 
-**Mã phân cấp:** 4101200000000000600005180280950005000140
+Điều 41.12.TT.11.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**ID:** dk_00071137
+### 4101200000000000100000300000000000000000
 
----
+Điều 41.12.LQ.3. Giải thích từ ngữ
 
+### 4101200000000000100000380252990018750020
 
-### Điều 41.12.TT.9.2. Tổ chức thực hiện
+Điều 41.12.TT.1.2. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+### 4101200000000000100000380272940002000030
 
-**Chỉ mục:** 2
+Điều 41.12.TT.5.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 4101200000000000600005180283950007000020
+### 4101200000000000100000380280950005000030
 
-**ID:** dk_00071138
+Điều 41.12.TT.8.3. Giải thích từ ngữ
 
----
+### 4101200000000000100000400000000000000000
 
+Điều 41.12.LQ.4. Chức năng, nhiệm vụ của thư viện
 
-### Điều 41.12.TT.9.3. Hiệu lực thi hành
+### 4101200000000000100000500000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 41.12.LQ.5. Chính sách của Nhà nước về phát triển sự nghiệp thư viện
 
-**Chỉ mục:** 3
+### 410120000000000010000050000000000000000000402737900930000300
 
-**Mã phân cấp:** 4101200000000000600005180283950007000030
+Điều 41.12.NĐ.1.3. Tiêu chí xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư
 
-**ID:** dk_00071139
+### 41012000000000001000005000000000000000000040273790093000030000802117300500000100
 
----
+Điều 41.12.QĐ.3.1.
 
+### 410120000000000010000050000000000000000000402737900930000400
 
-### Điều 41.12.TT.10.2. Tổ chức thực hiện
+Điều 41.12.NĐ.1.4. Thẩm quyền xác định thư viện công lập có vai trò quan trọng được Nhà nước ưu tiên đầu tư
 
-*Nội dung chưa có sẵn*
+### 410120000000000010000050000000000000000000402737900930000500
 
-**Chỉ mục:** 2
+Điều 41.12.NĐ.1.5. Tài liệu cổ
 
-**Mã phân cấp:** 4101200000000000600005180286070016000020
+### 410120000000000010000050000000000000000000402737900930000600
 
-**ID:** dk_00071140
+Điều 41.12.NĐ.1.6. Tài liệu quý hiếm
 
----
+### 410120000000000010000050000000000000000000402737900930000700
 
+Điều 41.12.NĐ.1.7. Bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học
 
-### Điều 41.12.TT.10.3. Hiệu lực thi hành
+### 410120000000000010000050000000000000000000402737900930000800
 
-*Nội dung chưa có sẵn*
+Điều 41.12.NĐ.1.8. Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm và bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học của thư viện công lập
 
-**Chỉ mục:** 3
+### 410120000000000010000050000000000000000000802893400120000200
 
-**Mã phân cấp:** 4101200000000000600005180286070016000030
+Điều 41.12.TT.11.2. Quy định chung về định mức kinh tế - kỹ thuật
 
-**ID:** dk_00071141
+### 410120000000000010000050000000000000000000802893400120000300
 
----
+Điều 41.12.TT.11.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật
 
+### 410120000000000010000050000000000000000000802893400120000400
 
-### Điều 41.12.TT.11.7. Tổ chức thực hiện
+Điều 41.12.TT.11.4. Định mức kinh tế - kỹ thuật dịch vụ sưu tầm tài liệu đặc biệt
 
-*Nội dung chưa có sẵn*
+### 410120000000000010000050000000000000000000802893400120000500
 
-**Chỉ mục:** 7
+Điều 41.12.TT.11.5. Định mức kinh tế - kỹ thuật dịch vụ bảo quản tài liệu đặc biệt
 
-**Mã phân cấp:** 4101200000000000600005180289340012000070
+### 410120000000000010000050000000000000000000802893400120000600
 
-**ID:** dk_00071142
+Điều 41.12.TT.11.6. Định mức kinh tế - kỹ thuật dịch vụ phát huy giá trị tài liệu đặc biệt
 
----
+### 4101200000000000100000600000000000000000
 
+Điều 41.12.LQ.6. Xã hội hóa trong hoạt động thư viện
 
-### Điều 41.12.TT.11.8. Hiệu lực thi hành
+### 410120000000000010000060000000000000000000402737900930000900
 
-*Nội dung chưa có sẵn*
+Điều 41.12.NĐ.1.9. Tiêu chí xác định không gian đọc, phòng đọc cơ sở
 
-**Chỉ mục:** 8
+### 410120000000000010000060000000000000000000402737900930001000
 
-**Mã phân cấp:** 4101200000000000600005180289340012000080
+Điều 41.12.NĐ.1.10. Hoạt động của không gian đọc, phòng đọc cơ sở
 
-**ID:** dk_00071143
+### 4101200000000000100000700000000000000000
 
----
+Điều 41.12.LQ.7. Tài nguyên thông tin hạn chế sử dụng trong thư viện
 
+### 410120000000000010000070000000000000000000802729400020003100
 
-### Điều 41.12.LQ.52. Điều khoản chuyển tiếp
+Điều 41.12.TT.5.31. Tài nguyên thông tin hạn chế sử dụng trong thư viện quy định tại điểm a khoản 1 Điều 7 của Luật Thư viện
 
-*Nội dung chưa có sẵn*
+### 410120000000000010000070000000000000000000802729400020003200
 
-**Chỉ mục:** 52
+Điều 41.12.TT.5.32. Nguyên tắc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện
 
-**Mã phân cấp:** 4101200000000000600005200000000000000000
+### 4101200000000000100000800000000000000000
 
-**ID:** dk_00071144
+Điều 41.12.LQ.8. Các hành vi bị nghiêm cấm trong hoạt động thư viện
 
----
+### 41012000000000002000
 
+Chương II THÀNH LẬP THƯ VIỆN
 
-### Điều 41.12.NĐ.1.31. Điều khoản chuyển tiếp
+### 4101200000000000200000100000000000000000
 
-*Nội dung chưa có sẵn*
+Mục 1 MẠNG LƯỚI THƯ VIỆN
 
-**Chỉ mục:** 31
+### 410120000000000020000010000000000000000000900000000000000000
 
-**Mã phân cấp:** 4101200000000000600005240273790093000310
+Điều 41.12.LQ.9. Các loại thư viện
 
-**ID:** dk_00071145
+### 410120000000000020000010000000000000000001000000000000000000
 
----
+Điều 41.12.LQ.10. Thư viện Quốc gia Việt Nam
 
+### 410120000000000020000010000000000000000001100000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Văn hóa, thể thao, du lịch](/van-hoa-the-thao-du-lich/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 41.12.LQ.11. Thư viện công cộng
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 221
-- **Điều khoản thực tế:** 211
-- **Điều khoản có nội dung:** 106 (50.2%)
-- **ID đề mục:** 956c36d80ced4865a29851759c932274
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000200
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 41.12.TT.2.2. Tên gọi của thư viện công cộng các cấp
 
----
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000300
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 41.12.TT.2.3. Đối tượng và yêu cầu phục vụ của thư viện công cộng các cấp
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000400
+
+Điều 41.12.TT.2.4. Vị trí, chức năng của thư viện công cộng các cấp
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000500
+
+Điều 41.12.TT.2.5. Kinh phí hoạt động
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000600
+
+Điều 41.12.TT.2.6. Nhiệm vụ và quyền hạn của thư viện cấp xã
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000700
+
+Điều 41.12.TT.2.7. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp xã
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000800
+
+Điều 41.12.TT.2.8. Quan hệ công tác của thư viện cấp xã
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130000900
+
+Điều 41.12.TT.2.9. Nhiệm vụ và quyền hạn của thư viện cấp huyện
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130001000
+
+Điều 41.12.TT.2.10. Trách nhiệm trong thực hiện hoạt động chuyên môn của thư viện cấp huyện
+
+### 41012000000000002000001000000000000000000110000000000000000000802603100130001100
+
+Điều 41.12.TT.2.11. Quan hệ công tác của thư viện cấp huyện
+
+### 41012000000000002000001000000000000000000110000000000000000000802777900090000200
+
+Điều 41.12.TT.7.2. Chức năng
+
+### 41012000000000002000001000000000000000000110000000000000000000802777900090000300
+
+Điều 41.12.TT.7.3. Nhiệm vụ, quyền hạn
+
+### 41012000000000002000001000000000000000000110000000000000000000802777900090000400
+
+Điều 41.12.TT.7.4. Cơ cấu tổ chức
+
+### 410120000000000020000010000000000000000001200000000000000000
+
+Điều 41.12.LQ.12. Thư viện chuyên ngành
+
+### 410120000000000020000010000000000000000001300000000000000000
+
+Điều 41.12.LQ.13. Thư viện lực lượng vũ trang nhân dân
+
+### 410120000000000020000010000000000000000001400000000000000000
+
+Điều 41.12.LQ.14. Thư viện đại học
+
+### 410120000000000020000010000000000000000001500000000000000000
+
+Điều 41.12.LQ.15. Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác
+
+### 410120000000000020000010000000000000000001600000000000000000
+
+Điều 41.12.LQ.16. Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng
+
+### 410120000000000020000010000000000000000001700000000000000000
+
+Điều 41.12.LQ.17. Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam
+
+### 4101200000000000200000200000000000000000
+
+Mục 2 THÀNH LẬP, SÁP NHẬP, HỢP NHẤT, CHIA, TÁCH, GIẢI THỂ THƯ VIỆN
+
+### 410120000000000020000020000000000000000001800000000000000000
+
+Điều 41.12.LQ.18. Điều kiện thành lập thư viện
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001100
+
+Điều 41.12.NĐ.1.11. Điều kiện thành lập thư viện công cộng cấp tỉnh
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001200
+
+Điều 41.12.NĐ.1.12. Điều kiện thành lập thư viện công cộng cấp huyện
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001300
+
+Điều 41.12.NĐ.1.13. Điều kiện thành lập thư viện công cộng cấp xã
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001400
+
+Điều 41.12.NĐ.1.14. Điều kiện thành lập thư viện chuyên ngành
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001500
+
+Điều 41.12.NĐ.1.15. Điều kiện thành lập thư viện lực lượng vũ trang nhân dân
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001600
+
+Điều 41.12.NĐ.1.16. Điều kiện thành lập thư viện đại học
+
+### 4101200000000000200000200000000000000000018000000000000000000040273790093000160000802283500130000100
+
+Điều 41.12.QĐ.4.1.
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001700
+
+Điều 41.12.NĐ.1.17. Điều kiện thành lập thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông
+
+### 4101200000000000200000200000000000000000018000000000000000000040273790093000170000801942300610000100
+
+Điều 41.12.QĐ.1.1.
+
+### 4101200000000000200000200000000000000000018000000000000000000040273790093000170000802094100011000100
+
+Điều 41.12.QĐ.2.1.
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001800
+
+Điều 41.12.NĐ.1.18. Điều kiện thành lập thư viện cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930001900
+
+Điều 41.12.NĐ.1.19. Điều kiện thành lập thư viện tư nhân có phục vụ cộng đồng
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930002000
+
+Điều 41.12.NĐ.1.20. Điều kiện thành lập thư viện cộng đồng
+
+### 41012000000000002000002000000000000000000180000000000000000000402737900930002100
+
+Điều 41.12.NĐ.1.21. Điều kiện thành lập thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam
+
+### 410120000000000020000020000000000000000001900000000000000000
+
+Điều 41.12.LQ.19. Thành lập thư viện công lập
+
+### 410120000000000020000020000000000000000002000000000000000000
+
+Điều 41.12.LQ.20. Thành lập thư viện ngoài công lập
+
+### 410120000000000020000020000000000000000002100000000000000000
+
+Điều 41.12.LQ.21. Sáp nhập, hợp nhất, chia, tách, giải thể thư viện
+
+### 410120000000000020000020000000000000000002200000000000000000
+
+Điều 41.12.LQ.22. Đình chỉ, chấm dứt hoạt động thư viện
+
+### 41012000000000002000002000000000000000000220000000000000000000402737900930002200
+
+Điều 41.12.NĐ.1.22. Trình tự, thủ tục đình chỉ hoạt động thư viện
+
+### 41012000000000002000002000000000000000000220000000000000000000402737900930002300
+
+Điều 41.12.NĐ.1.23. Trình tự, thủ tục chấm dứt hoạt động thư viện
+
+### 410120000000000020000020000000000000000002300000000000000000
+
+Điều 41.12.LQ.23. Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện
+
+### 41012000000000002000002000000000000000000230000000000000000000802729100010000300
+
+Điều 41.12.TT.4.3. Các mẫu văn bản ban hành kèm theo Thông tư
+
+### 41012000000000003000
+
+Chương III HOẠT ĐỘNG THƯ VIỆN
+
+### 4101200000000000300002400000000000000000
+
+Điều 41.12.LQ.24. Nguyên tắc hoạt động thư viện
+
+### 410120000000000030000240000000000000000000802529900187500300
+
+Điều 41.12.TT.1.3. Yêu cầu của việc tổ chức và thực hiện các hoạt động chuyên môn, nghiệp vụ của thư viện
+
+### 410120000000000030000240000000000000000000802529900187500400
+
+Điều 41.12.TT.1.4. Xây dựng vốn tài liệu
+
+### 410120000000000030000240000000000000000000802529900187500500
+
+Điều 41.12.TT.1.5. Xử lý tài liệu
+
+### 410120000000000030000240000000000000000000802529900187500600
+
+Điều 41.12.TT.1.6. Tổ chức bộ máy tra cứu
+
+### 410120000000000030000240000000000000000000802529900187500700
+
+Điều 41.12.TT.1.7. Tổ chức tài liệu
+
+### 410120000000000030000240000000000000000000802529900187500800
+
+Điều 41.12.TT.1.8. Bảo quản tài liệu
+
+### 410120000000000030000240000000000000000000802529900187500900
+
+Điều 41.12.TT.1.9. Kiểm kê, thanh lọc tài liệu
+
+### 410120000000000030000240000000000000000000802529900187501000
+
+Điều 41.12.TT.1.10. Tổ chức dịch vụ thư viện
+
+### 410120000000000030000240000000000000000000802529900187501100
+
+Điều 41.12.TT.1.11. Biên soạn ấn phẩm thông tin thư viện
+
+### 410120000000000030000240000000000000000000802529900187501200
+
+Điều 41.12.TT.1.12. Hoạt động truyền thông, vận động
+
+### 410120000000000030000240000000000000000000802529900187501300
+
+Điều 41.12.TT.1.13. Thống kê thư viện
+
+### 410120000000000030000240000000000000000000802809500050000400
+
+Điều 41.12.TT.8.4. Nguyên tắc trong triển khai hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+### 410120000000000030000240000000000000000000802809500050000500
+
+Điều 41.12.TT.8.5. Hoạt động thư viện lưu động
+
+### 410120000000000030000240000000000000000000802809500050000600
+
+Điều 41.12.TT.8.6. Luân chuyển tài nguyên thông tin
+
+### 410120000000000030000240000000000000000000802809500050000700
+
+Điều 41.12.TT.8.7. Chia sẻ tài liệu số
+
+### 410120000000000030000240000000000000000000802809500050000800
+
+Điều 41.12.TT.8.8. Nhân lực cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+### 410120000000000030000240000000000000000000802809500050000900
+
+Điều 41.12.TT.8.9. Nguồn kinh phí cho hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+### 410120000000000030000240000000000000000000802809500050001000
+
+Điều 41.12.TT.8.10. Phương tiện phục vụ hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+### 410120000000000030000240000000000000000000802809500050001100
+
+Điều 41.12.TT.8.11. Trách nhiệm của thư viện trong hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+### 410120000000000030000240000000000000000000802809500050001200
+
+Điều 41.12.TT.8.12. Trách nhiệm của tổ chức, cá nhân tham gia hoạt động thư viện lưu động và luân chuyển tài nguyên thông tin
+
+### 4101200000000000300002500000000000000000
+
+Điều 41.12.LQ.25. Xây dựng tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020001600
+
+Điều 41.12.TT.5.16. Mục đích, nguyên tắc thanh lọc tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020001700
+
+Điều 41.12.TT.5.17. Thời hạn thanh lọc tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020001800
+
+Điều 41.12.TT.5.18. Bảo đảm cho việc thanh lọc tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020001900
+
+Điều 41.12.TT.5.19. Tiêu chí về nội dung, hình thức và thời gian xuất bản
+
+### 410120000000000030000250000000000000000000802729400020002000
+
+Điều 41.12.TT.5.20. Tiêu chí về tình trạng
+
+### 410120000000000030000250000000000000000000802729400020002100
+
+Điều 41.12.TT.5.21. Tiêu chí về số lượng bản
+
+### 410120000000000030000250000000000000000000802729400020002200
+
+Điều 41.12.TT.5.22. Tiêu chí về ngôn ngữ
+
+### 410120000000000030000250000000000000000000802729400020002300
+
+Điều 41.12.TT.5.23. Trình tự thanh lọc tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020002400
+
+Điều 41.12.TT.5.24. Thủ tục trình và phê duyệt đề án thanh lọc tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020002500
+
+Điều 41.12.TT.5.25. Thực hiện thanh lọc tài nguyên thông tin
+
+### 410120000000000030000250000000000000000000802729400020002600
+
+Điều 41.12.TT.5.26. Hội đồng thẩm định tài nguyên thông tin đề nghị thanh lọc
+
+### 410120000000000030000250000000000000000000802729400020002700
+
+Điều 41.12.TT.5.27. Thẩm định tài nguyên thông tin đề nghị thanh lọc, phê duyệt danh mục và hình thức xử lý tài nguyên thông tin được phép thanh lọc
+
+### 410120000000000030000250000000000000000000802729400020002800
+
+Điều 41.12.TT.5.28. Chỉnh lý sổ đăng ký cá biệt, hệ thống tra cứu thông tin
+
+### 410120000000000030000250000000000000000000802729400020002900
+
+Điều 41.12.TT.5.29. Xử lý tài nguyên thông tin sau thanh lọc
+
+### 410120000000000030000250000000000000000000802729400020003000
+
+Điều 41.12.TT.5.30. Lưu giữ và bảo quản hồ sơ thanh lọc tài nguyên thông tin
+
+### 4101200000000000300002600000000000000000
+
+Điều 41.12.LQ.26. Xử lý tài nguyên thông tin và tổ chức hệ thống tra cứu thông tin
+
+### 4101200000000000300002700000000000000000
+
+Điều 41.12.LQ.27. Bảo quản tài nguyên thông tin
+
+### 410120000000000030000270000000000000000000802729400020000400
+
+Điều 41.12.TT.5.4. Nguyên tắc trong hoạt động bảo quản tài nguyên thông tin
+
+### 410120000000000030000270000000000000000000802729400020000500
+
+Điều 41.12.TT.5.5. Kho, trang thiết bị và dụng cụ bảo quản tài nguyên thông tin
+
+### 410120000000000030000270000000000000000000802729400020000600
+
+Điều 41.12.TT.5.6. Trách nhiệm của cơ quan, tổ chức có liên quan đến hoạt động bảo quản tài nguyên thông tin trong thư viện
+
+### 410120000000000030000270000000000000000000802729400020000700
+
+Điều 41.12.TT.5.7. Bảo quản dự phòng đối với tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
+
+### 410120000000000030000270000000000000000000802729400020000800
+
+Điều 41.12.TT.5.8. Bảo quản dự phòng đối với tài liệu số, tài liệu nghe, nhìn, tài liệu vi dạng, tài liệu đặc biệt cho người khuyết tật và các dạng khác
+
+### 410120000000000030000270000000000000000000802729400020000900
+
+Điều 41.12.TT.5.9. Những yêu cầu cơ bản trong bảo quản phục chế
+
+### 410120000000000030000270000000000000000000802729400020001000
+
+Điều 41.12.TT.5.10. Xử lý cơ bản trong phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
+
+### 410120000000000030000270000000000000000000802729400020001100
+
+Điều 41.12.TT.5.11. Phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy
+
+### 410120000000000030000270000000000000000000802729400020001200
+
+Điều 41.12.TT.5.12. Sao chụp để bảo quản tài nguyên thông tin
+
+### 410120000000000030000270000000000000000000802729400020001300
+
+Điều 41.12.TT.5.13. Vi dạng hóa tài nguyên thông tin
+
+### 410120000000000030000270000000000000000000802729400020001400
+
+Điều 41.12.TT.5.14. Số hóa tài nguyên thông tin
+
+### 410120000000000030000270000000000000000000802729400020001500
+
+Điều 41.12.TT.5.15. Hình thức chuyển dạng tài nguyên thông tin khác
+
+### 4101200000000000300002800000000000000000
+
+Điều 41.12.LQ.28. Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện
+
+### 4101200000000000300002900000000000000000
+
+Điều 41.12.LQ.29. Liên thông thư viện
+
+### 410120000000000030000290000000000000000000402737900930002400
+
+Điều 41.12.NĐ.1.24. Nguyên tắc liên thông thư viện
+
+### 410120000000000030000290000000000000000000402737900930002500
+
+Điều 41.12.NĐ.1.25. Hợp tác trong thu thập, bổ sung và sử dụng tài nguyên thông tin
+
+### 410120000000000030000290000000000000000000402737900930002600
+
+Điều 41.12.NĐ.1.26. Chia sẻ kết quả xử lý chuyên môn, nghiệp vụ, biên mục và sản phẩm thông tin thư viện
+
+### 410120000000000030000290000000000000000000402737900930002700
+
+Điều 41.12.NĐ.1.27. Liên kết triển khai dịch vụ liên thư viện
+
+### 410120000000000030000290000000000000000000402737900930002800
+
+Điều 41.12.NĐ.1.28. Xây dựng mục lục liên hợp
+
+### 410120000000000030000290000000000000000000402737900930002900
+
+Điều 41.12.NĐ.1.29. Cơ chế liên thông thư viện
+
+### 410120000000000030000290000000000000000000402737900930003000
+
+Điều 41.12.NĐ.1.30. Phương thức liên thông thư viện
+
+### 4101200000000000300003000000000000000000
+
+Điều 41.12.LQ.30. Phát triển văn hóa đọc
+
+### 4101200000000000300003100000000000000000
+
+Điều 41.12.LQ.31. Phát triển thư viện số
+
+### 4101200000000000300003200000000000000000
+
+Điều 41.12.LQ.32. Hiện đại hóa thư viện
+
+### 4101200000000000300003300000000000000000
+
+Điều 41.12.LQ.33. Truyền thông thư viện
+
+### 4101200000000000300003400000000000000000
+
+Điều 41.12.LQ.34. Phối hợp giữa thư viện với cơ quan, tổ chức
+
+### 4101200000000000300003500000000000000000
+
+Điều 41.12.LQ.35. Nguồn tài chính của thư viện
+
+### 410120000000000030000350000000000000000000802839500070000100
+
+Điều 41.12.TT.9.1.
+
+### 410120000000000030000350000000000000000000802860700160000100
+
+Điều 41.12.TT.10.1.
+
+### 4101200000000000300003600000000000000000
+
+Điều 41.12.LQ.36. Hợp tác quốc tế về thư viện
+
+### 4101200000000000300003700000000000000000
+
+Điều 41.12.LQ.37. Đánh giá hoạt động thư viện
+
+### 410120000000000030000370000000000000000000802738900050000300
+
+Điều 41.12.TT.6.3. Mục đích đánh giá hoạt động thư viện
+
+### 410120000000000030000370000000000000000000802738900050000400
+
+Điều 41.12.TT.6.4. Nguyên tắc đánh giá hoạt động thư viện
+
+### 410120000000000030000370000000000000000000802738900050000500
+
+Điều 41.12.TT.6.5. Thư viện tự đánh giá
+
+### 410120000000000030000370000000000000000000802738900050000600
+
+Điều 41.12.TT.6.6. Cơ quan, tổ chức, cá nhân thành lập thư viện và cơ quan quản lý nhà nước về thư viện đánh giá
+
+### 410120000000000030000370000000000000000000802738900050000700
+
+Điều 41.12.TT.6.7. Hướng dẫn thực hiện đánh giá hoạt động thư viện
+
+### 41012000000000004000
+
+Chương IV QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG THƯ VIỆN
+
+### 4101200000000000400000100000000000000000
+
+Mục 1 QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA THƯ VIỆN, NGƯỜI LÀM CÔNG TÁC THƯ VIỆN, NGƯỜI SỬ DỤNG THƯ VIỆN
+
+### 410120000000000040000010000000000000000003800000000000000000
+
+Điều 41.12.LQ.38. Quyền của thư viện
+
+### 410120000000000040000010000000000000000003900000000000000000
+
+Điều 41.12.LQ.39. Trách nhiệm của thư viện
+
+### 410120000000000040000010000000000000000004000000000000000000
+
+Điều 41.12.LQ.40. Quyền của người làm công tác thư viện
+
+### 410120000000000040000010000000000000000004100000000000000000
+
+Điều 41.12.LQ.41. Nghĩa vụ của người làm công tác thư viện
+
+### 410120000000000040000010000000000000000004200000000000000000
+
+Điều 41.12.LQ.42. Quyền của người sử dụng thư viện
+
+### 410120000000000040000010000000000000000004300000000000000000
+
+Điều 41.12.LQ.43. Nghĩa vụ của người sử dụng thư viện
+
+### 410120000000000040000010000000000000000004400000000000000000
+
+Điều 41.12.LQ.44. Quyền của người sử dụng thư viện đặc thù
+
+### 4101200000000000400000200000000000000000
+
+Mục 2 TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN
+
+### 410120000000000040000020000000000000000004500000000000000000
+
+Điều 41.12.LQ.45. Trách nhiệm của cơ quan, tổ chức, cá nhân thành lập thư viện
+
+### 410120000000000040000020000000000000000004600000000000000000
+
+Điều 41.12.LQ.46. Trách nhiệm của cơ quan, tổ chức, cá nhân trực tiếp quản lý thư viện
+
+### 410120000000000040000020000000000000000004700000000000000000
+
+Điều 41.12.LQ.47. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan
+
+### 41012000000000005000
+
+Chương V TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ THƯ VIỆN
+
+### 4101200000000000500004800000000000000000
+
+Điều 41.12.LQ.48. Trách nhiệm quản lý nhà nước về thư viện của Chính phủ
+
+### 4101200000000000500004900000000000000000
+
+Điều 41.12.LQ.49. Trách nhiệm quản lý nhà nước về thư viện của Bộ, cơ quan ngang Bộ
+
+### 4101200000000000500005000000000000000000
+
+Điều 41.12.LQ.50. Trách nhiệm quản lý nhà nước về thư viện của Ủy ban nhân dân các cấp
+
+### 41012000000000006000
+
+Chương VI ĐIỀU KHOẢN THI HÀNH
+
+### 4101200000000000600005100000000000000000
+
+Điều 41.12.LQ.51. Hiệu lực thi hành
+
+### 4101200000000000600005140273790093000320
+
+Điều 41.12.NĐ.1.32. Hiệu lực thi hành
+
+### 4101200000000000600005140273790093000330
+
+Điều 41.12.NĐ.1.33. Trách nhiệm thi hành
+
+### 4101200000000000600005180194230061000020
+
+Điều 41.12.QĐ.1.2.
+
+### 4101200000000000600005180194230061000030
+
+Điều 41.12.QĐ.1.3.
+
+### 4101200000000000600005180209410001100020
+
+Điều 41.12.QĐ.2.2.
+
+### 4101200000000000600005180209410001100030
+
+Điều 41.12.QĐ.2.3.
+
+### 4101200000000000600005180209410001100040
+
+Điều 41.12.QĐ.2.4.
+
+### 4101200000000000600005180209410001100050
+
+Điều 41.12.QĐ.2.5.
+
+### 4101200000000000600005180211730050000020
+
+Điều 41.12.QĐ.3.2.
+
+### 4101200000000000600005180211730050000030
+
+Điều 41.12.QĐ.3.3.
+
+### 4101200000000000600005180228350013000020
+
+Điều 41.12.QĐ.4.2.
+
+### 4101200000000000600005180228350013000030
+
+Điều 41.12.QĐ.4.3.
+
+### 4101200000000000600005180252990018750140
+
+Điều 41.12.TT.1.14. Hiệu lực thi hành
+
+### 4101200000000000600005180252990018750150
+
+Điều 41.12.TT.1.15. Tổ chức thực hiện
+
+### 4101200000000000600005180252990018750160
+
+Điều 41.12.TT.1.16. Trách nhiệm thi hành
+
+### 4101200000000000600005180260310013000150
+
+Điều 41.12.TT.2.15. Tổ chức thực hiện
+
+### 4101200000000000600005180260310013000160
+
+Điều 41.12.TT.2.16. Hiệu lực thi hành
+
+### 4101200000000000600005180272910001000040
+
+Điều 41.12.TT.4.4. Tổ chức thực hiện
+
+### 4101200000000000600005180272910001000050
+
+Điều 41.12.TT.4.5. Hiệu lực thi hành
+
+### 4101200000000000600005180272940002000330
+
+Điều 41.12.TT.5.33. Tổ chức thực hiện
+
+### 4101200000000000600005180272940002000340
+
+Điều 41.12.TT.5.34. Điều khoản thi hành
+
+### 4101200000000000600005180273890005000080
+
+Điều 41.12.TT.6.8. Trách nhiệm thi hành
+
+### 4101200000000000600005180273890005000090
+
+Điều 41.12.TT.6.9. Tổ chức thực hiện
+
+### 4101200000000000600005180273890005000100
+
+Điều 41.12.TT.6.10. Hiệu lực thi hành
+
+### 4101200000000000600005180277790009000050
+
+Điều 41.12.TT.7.5. Tổ chức thực hiện
+
+### 4101200000000000600005180277790009000060
+
+Điều 41.12.TT.7.6. Điều khoản thi hành
+
+### 4101200000000000600005180280950005000130
+
+Điều 41.12.TT.8.13. Tổ chức thực hiện
+
+### 4101200000000000600005180280950005000140
+
+Điều 41.12.TT.8.14. Điều khoản thi hành
+
+### 4101200000000000600005180283950007000020
+
+Điều 41.12.TT.9.2. Tổ chức thực hiện
+
+### 4101200000000000600005180283950007000030
+
+Điều 41.12.TT.9.3. Hiệu lực thi hành
+
+### 4101200000000000600005180286070016000020
+
+Điều 41.12.TT.10.2. Tổ chức thực hiện
+
+### 4101200000000000600005180286070016000030
+
+Điều 41.12.TT.10.3. Hiệu lực thi hành
+
+### 4101200000000000600005180289340012000070
+
+Điều 41.12.TT.11.7. Tổ chức thực hiện
+
+### 4101200000000000600005180289340012000080
+
+Điều 41.12.TT.11.8. Hiệu lực thi hành
+
+### 4101200000000000600005200000000000000000
+
+Điều 41.12.LQ.52. Điều khoản chuyển tiếp
+
+### 4101200000000000600005240273790093000310
+
+Điều 41.12.NĐ.1.31. Điều khoản chuyển tiếp
+

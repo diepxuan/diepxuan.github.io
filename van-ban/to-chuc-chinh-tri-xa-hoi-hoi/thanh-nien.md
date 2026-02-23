@@ -1,1674 +1,2319 @@
 ---
-layout: default
+layout: page
 title: Thanh niên
 permalink: /van-ban/to-chuc-chinh-tri-xa-hoi-hoi/thanh-nien/
-collection: subtopics
-slug: thanh-nien
-parent: to-chuc-chinh-tri-xa-hoi-hoi
 ---
 
 # Thanh niên
 
-**Đề mục:** Thanh niên  
-**Chủ đề:** [Tổ chức chính trị - xã hội, hội](/to-chuc-chinh-tri-xa-hoi-hoi/)  
-**Số điều khoản:** 133  
-**Điều khoản có nội dung:** 75/126 (59.5%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 36.3.LQ.1. Thanh niên
+Điều 36.3.LQ.1. Thanh niên
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 57/2020/QH14 Luật Thanh niên ngày 16/06/2020 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 1
+ Thanh niên là công dân Việt Nam từ đủ 16 tuổi đến 30 tuổi.Điều 36.3.LQ.2. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3600300000000000100000100000000000000000
+(Điều 2 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060090
+ Luật này quy định về quyền, nghĩa vụ và trách nhiệm của thanh niên; chính sách của Nhà nước đối với thanh niên; trách nhiệm của cơ quan, tổ chức thanh niên, tổ chức khác, cơ sở giáo dục, gia đình và cá nhân đối với thanh niên; quản lý nhà nước về thanh niên.Điều 36.3.LQ.3. Đối tượng áp dụng
 
----
+(Điều 3 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ Luật này áp dụng đối với thanh niên; cơ quan, tổ chức, cơ sở giáo dục, gia đình và cá nhân.Điều 36.3.NĐ.1.1. Phạm vi điều chỉnh
 
-### Điều 36.3.LQ.2. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 12/2011/NĐ-CP Về tổ chức và chính sách đối với thanh niên xung phong ngày 30/01/2011 của Chính phủ, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-*Nội dung chưa có sẵn*
+Nghị định này quy định về tổ chức và chính sách đối với thanh niên xung phong tham gia phát triển kinh tế - xã hội và trách nhiệm của các cơ quan nhà nước đối với thanh niên xung phong.
 
-**Chỉ mục:** 2
+Điều 36.3.NĐ.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3600300000000000100000200000000000000000
+(Điều 2 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**ID:** dk_00060091
+Nghị định này áp dụng đối với tổ chức thanh niên xung phong, đội viên thanh niên xung phong và cán bộ quản lý thanh niên xung phong.
 
----
+Điều 36.3.NĐ.2.1. Phạm vi điều chỉnh
 
+(Điều 1 Nghị định số 13/2021/NĐ-CP Quy định về đối thoại với thanh niên; cơ chế, chính sách và biện pháp thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi ngày 01/03/2021 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-### Điều 36.3.LQ.3. Đối tượng áp dụng
+Nghị định này quy định về đối thoại với thanh niên; cơ chế, chính sách và biện pháp thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi.
 
-*Nội dung chưa có sẵn*
+Điều 36.3.NĐ.2.2. Đối tượng áp dụng
 
-**Chỉ mục:** 3
+(Điều 2 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 3600300000000000100000300000000000000000
+Nghị định này áp dụng đối với thanh niên, cơ quan, tổ chức, cơ sở giáo dục, gia đình và cá nhân có liên quan đến thanh niên.
 
-**ID:** dk_00060092
+Điều 36.3.NĐ.3.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị định số 17/2021/NĐ-CP Quy định về chính sách đối với thanh niên xung phong, thanh niên tình nguyện ngày 09/03/2021 của Chính phủ, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
+Nghị định này quy định chính sách đối với thanh niên xung phong, thanh niên tình nguyện và trách nhiệm của cơ quan, tổ chức đối với thanh niên xung phong, thanh niên tình nguyện theo quy định của Luật Thanh niên.
 
-### Điều 36.3.NĐ.1.1. Phạm vi điều chỉnh
+Điều 36.3.NĐ.3.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Chỉ mục:** 1
+Nghị định này áp dụng đối với:
 
-**Mã phân cấp:** 3600300000000000100000340238910012000010
+1. Người tham gia tổ chức thanh niên xung phong; thanh niên tình nguyện.
 
-**ID:** dk_00060093
+2. Cơ quan, tổ chức, cá nhân có liên quan đến thanh niên xung phong và thanh niên tình nguyện.
 
----
+Điều 36.3.TL.1.1. Phạm vi và đối tượng áp dụng
 
+(Điều 1 Thông tư liên tịch số 119/2013/TTLT-BTC-BNV Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí hoạt động thuơng xuyên của các tổ chức thanh niên xung phong từ ngân sách nhà nước ngày 26/08/2013 của Bộ Tài chính và Bộ Nội vụ, có hiệu lực thi hành kể từ ngày 15/10/2013)
 
-### Điều 36.3.NĐ.1.2. Đối tượng áp dụng
+1. Phạm vi áp dụng:
 
-*Nội dung chưa có sẵn*
+Thông tư liên tịch này quy định về lập dự toán, quản lý, sử dụng và quyết toán khoản kinh phí hoạt động thường xuyên do ngân sách nhà nước hỗ trợ hàng năm để thực hiện các chính sách đối với thanh niên xung phong theo quy định tại Điều 19 Nghị định số 12/2011/NĐ-CP ngày 30/1/2011 của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong.
 
-**Chỉ mục:** 2
+2. Đối tượng áp dụng:
 
-**Mã phân cấp:** 3600300000000000100000340238910012000020
+a) Ban Chỉ huy lực lượng thanh niên xung phong.
 
-**ID:** dk_00060094
+b) Tổng đội thanh niên xung phong.
 
----
+c) Trung tâm, Trường Giáo dục lao động xã hội của thanh niên xung phong.
 
-
-### Điều 36.3.NĐ.2.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3600300000000000100000340275740013000010
-
-**ID:** dk_00060095
-
----
-
-
-### Điều 36.3.NĐ.2.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3600300000000000100000340275740013000020
-
-**ID:** dk_00060096
-
----
-
-
-### Điều 36.3.NĐ.3.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3600300000000000100000340275820017000010
-
-**ID:** dk_00060097
-
----
-
-
-### Điều 36.3.NĐ.3.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3600300000000000100000340275820017000020
-
-**ID:** dk_00060098
-
----
-
-
-### Điều 36.3.TL.1.1. Phạm vi và đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3600300000000000100000380248300119000010
-
-**ID:** dk_00060099
-
----
-
-
-### Điều 36.3.LQ.4. Vai trò, quyền và nghĩa vụ của thanh niên
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.19. Kinh phí thực hiện chính sách đối với thanh niên xung phong)
 
 Điều 36.3.LQ.4. Vai trò, quyền và nghĩa vụ của thanh niên
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000100000400000000000000000
+ 1. Thanh niên là lực lượng xã hội to lớn, xung kích, sáng tạo, đi đầu trong công cuộc đổi mới, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa; có vai trò quan trọng trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, hội nhập quốc tế và xây dựng chủ nghĩa xã hội.
 
-**ID:** dk_00060100
+ 2. Thanh niên có quyền và nghĩa vụ của công dân theo quy định của Hiến pháp và pháp luật.Điều 36.3.LQ.5. Nguyên tắc bảo đảm thực hiện quyền, nghĩa vụ của thanh niên và chính sách của Nhà nước đối với thanh niên
 
----
+(Điều 5 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ 1. Quyền, nghĩa vụ của thanh niên được công nhận, tôn trọng, bảo vệ và bảo đảm thực hiện theo quy định của Hiến pháp và pháp luật
 
-### Điều 36.3.LQ.5. Nguyên tắc bảo đảm thực hiện quyền, nghĩa vụ của thanh niên và chính sách của Nhà nước đối với thanh niên
+ 2. Không phân biệt dân tộc, giới tính, thành phần xã hội, tín ngưỡng, tôn giáo, trình độ văn hóa, nghề nghiệp trong thực hiện quyền, nghĩa vụ của thanh niên.
 
-Điều 36.3.LQ.5. Nguyên tắc bảo đảm thực hiện quyền, nghĩa vụ của thanh niên và chính sách của Nhà nước đối với thanh niên
+ 3. Nhà nước, tổ chức, cơ sở giáo dục, gia đình và cá nhân có trách nhiệm tạo điều kiện để thanh niên thực hiện quyền, nghĩa vụ theo quy định của Hiến pháp và pháp luật.
 
-**Chỉ mục:** 5
+ 4. Chính sách của Nhà nước đối với thanh niên phải bảo đảm mục tiêu phát triển thanh niên; tạo điều kiện cho thanh niên thực hiện, quyền, nghĩa vụ, trách nhiệm và phát huy năng lực; được xây dựng hoặc lồng ghép trong các chính sách của ngành, lĩnh vực, địa phương.
 
-**Mã phân cấp:** 3600300000000000100000500000000000000000
+ 5. Việc xây dựng và thực hiện chính sách của Nhà nước đối với thanh niên phải bảo đảm sự tham gia của thanh niên; tôn trọng, lắng nghe ý kiến, nguyện vọng của thanh niên.
 
-**ID:** dk_00060101
+ 6. Hỗ trợ, tạo điều kiện cho thanh niên Việt Nam ở nước ngoài tham gia các hoạt động hướng về Tổ quốc và giữ gìn, phát huy bản sắc văn hóa dân tộc.
 
----
+ 7. Xử lý kịp thời, nghiêm minh cơ quan, tổ chức, cá nhân không thực hiện hoặc thực hiện không đúng trách nhiệm theo quy định của Luật này.Điều 36.3.LQ.6. Nguồn lực thực hiện chính sách của Nhà nước đối với thanh niên
 
+(Điều 6 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-### Điều 36.3.LQ.6. Nguồn lực thực hiện chính sách của Nhà nước đối với thanh niên
+ 1. Nhà nước bảo đảm nguồn lực để xây dựng và tổ chức thực hiện chính sách, đối với thanh niên theo quy định của pháp luật.
 
-Điều 36.3.LQ.6. Nguồn lực thực hiện chính sách của Nhà nước đối với thanh niên
+ 2. Nguồn tài chính bảo đảm thực hiện chính sách đối với thanh niên gồm ngân sách nhà nước; các khoản ủng hộ, viện trợ, tài trợ và đóng góp hợp pháp khác của tổ chức, doanh nghiệp, cá nhân trong nước và nước ngoài.Điều 36.3.LQ.7. Ủy ban quốc gia về Thanh niên Việt Nam
 
-**Chỉ mục:** 6
+(Điều 7 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000100000600000000000000000
+ 1. Ủy ban quốc gia về Thanh niên Việt Nam là tổ chức phối hợp liên ngành, có chức năng tư vấn giúp Thủ tướng Chính phủ về công tác thanh niên.
 
-**ID:** dk_00060102
+ 2. Nhiệm vụ, quyền hạn của Ủy ban quốc gia về Thanh niên Việt Nam do Thủ tướng Chính phủ quy định.Điều 36.3.LQ.8. Hợp tác quốc tế về thanh niên
 
----
+(Điều 8 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ 1. Hợp tác quốc tế về thanh niên phải bảo đảm nguyên tắc bình đẳng, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, phù hợp với pháp luật mỗi nước, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thông lệ quốc tế.
 
-### Điều 36.3.LQ.7. Ủy ban quốc gia về Thanh niên Việt Nam
+ 2. Nội dung hợp tác quốc tế về thanh niên bao gồm:
 
-Điều 36.3.LQ.7. Ủy ban quốc gia về Thanh niên Việt Nam
+ a) Tham gia tổ chức quốc tế; ký kết và thực hiện điều ước quốc tế, thỏa thuận quốc tế về thanh niên; chương trình, dự án hợp tác quốc tế về thanh niên;
 
-**Chỉ mục:** 7
+ b) Trao đổi thông tin, kinh nghiệm quản lý và chính sách, pháp luật về thanh niên;
 
-**Mã phân cấp:** 3600300000000000100000700000000000000000
+ c) Giao lưu giữa thanh niên Việt Nam với thanh niên các nước.Điều 36.3.LQ.9. Tháng Thanh niên
 
-**ID:** dk_00060103
+(Điều 9 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
----
+ 1. Tháng 3 hằng năm là Tháng Thanh niên. Tháng Thanh niên được tổ chức nhằm phát huy tinh thần xung kích, tình nguyện, sáng tạo của thanh niên để tham gia hoạt động vì lợi ích của cộng đồng, xã hội và vận động tổ chức, cá nhân đầu tư, phát triển thanh niên.
 
+ 2. Đoàn Thanh niên Cộng sản Hồ Chí Minh chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan tổ chức hoạt động Tháng Thanh niên.
 
-### Điều 36.3.LQ.8. Hợp tác quốc tế về thanh niên
+ 3. Chính phủ, chính quyền địa phương các cấp có trách nhiệm tạo điều kiện về cơ chế, chính sách, nguồn lực để hỗ trợ Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp tổ chức hoạt động Tháng Thanh niên. Người đứng đầu cơ quan, tổ chức có trách nhiệm tạo điều kiện, hỗ trợ cho thanh niên tham gia hoạt động Tháng Thanh niên.Điều 36.3.LQ.10. Đối thoại với thanh niên
 
-*Nội dung chưa có sẵn*
+(Điều 10 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 8
+ 1. Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm đối thoại với thanh niên ít nhất mỗi năm một lần về các vấn đề liên quan đến thanh niên; người đứng đầu cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân có trách nhiệm đối thoại với thanh niên theo yêu cầu của tổ chức thanh niên quy định tại Luật này.
 
-**Mã phân cấp:** 3600300000000000100000800000000000000000
+ 2. Người có trách nhiệm đối thoại với thanh niên quy định tại khoản 1 Điều này chỉ đạo chuẩn bị kế hoạch, chương trình đối thoại và công bố công khai trên cổng thông tin điện tử, trang thông tin điện tử hoặc niêm yết tại trụ sở cơ quan, tổ chức, đơn vị chậm nhất là 30 ngày trước ngày tổ chức đối thoại; giải quyết theo thẩm quyền hoặc kiến nghị với cơ quan có thẩm quyền giải quyết các kiến nghị của thanh niên thông qua hoạt động đối thoại.
 
-**ID:** dk_00060104
+ 3. Trong thời hạn 10 ngày kể từ ngày đối thoại, nội dung kết luận đối thoại phải được công khai trên cổng thông tin điện tử, trang thông tin điện tử hoặc niêm yết tại trụ sở cơ quan, tổ chức, đơn vị và gửi đến các cơ quan, tổ chức, đơn vị có liên quan; trường hợp nội dung đối thoại phức tạp, liên quan đến nhiều lĩnh vực thì thời hạn này là 15 ngày.
 
----
+ 4. Chính phủ quy định chi tiết Điều này.Điều 36.3.NĐ.2.3. Nguồn lực thực hiện
 
+(Điều 3 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-### Điều 36.3.LQ.9. Tháng Thanh niên
+1. Kinh phí thực hiện đối thoại với thanh niên; cơ chế, chính sách và biện pháp thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi được bảo đảm và lồng ghép trong kinh phí ngân sách nhà nước hiện hành tại Luật Ngân sách nhà nước.
 
-*Nội dung chưa có sẵn*
+2. Các tổ chức thanh niên được huy động các nguồn ủng hộ, tài trợ và đóng góp hợp pháp khác của tổ chức, doanh nghiệp, cá nhân trong nước và nước ngoài để thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi.
 
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 3600300000000000100000900000000000000000
-
-**ID:** dk_00060105
-
----
-
-
-### Điều 36.3.LQ.10. Đối thoại với thanh niên
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 3600300000000000100001000000000000000000
-
-**ID:** dk_00060106
-
----
-
-
-### Điều 36.3.NĐ.2.3. Nguồn lực thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000300
-
-**ID:** dk_00060107
-
----
-
-
-### Điều 36.3.NĐ.2.4. Nguyên tắc đối thoại với thanh niên
+(Điều này có nội dung liên quan đến Điều 26.3.LQ.1. Phạm vi điều chỉnh)
 
 Điều 36.3.NĐ.2.4. Nguyên tắc đối thoại với thanh niên
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000400
+1. Thực hiện đúng chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong tổ chức thực hiện đối thoại với thanh niên,
 
-**ID:** dk_00060108
+2. Tôn trọng, lắng nghe ý kiến, nguyện vọng của thanh niên.
 
----
+3. Bảo đảm công khai, minh bạch, kịp thời, đúng quy định pháp luật.
 
+Điều 36.3.NĐ.2.5. Trách nhiệm tổ chức đối thoại
 
-### Điều 36.3.NĐ.2.5. Trách nhiệm tổ chức đối thoại
+(Điều 5 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-*Nội dung chưa có sẵn*
+1. Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm tổ chức đối thoại với thanh niên ít nhất mỗi năm một lần.
 
-**Chỉ mục:** 5
+2. Người đứng đầu cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân có trách nhiệm đối thoại với thanh niên theo yêu cầu của Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Thanh niên Việt Nam, Hội Sinh viên Việt Nam và các tổ chức khác của thanh niên được thành lập và hoạt động theo quy định của pháp luật.
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000500
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.2.6. Hình thức đối thoại; Điều 36.3.NĐ.2.9. Nội dung kế hoạch, chương trình đối thoại)
 
-**ID:** dk_00060109
+Điều 36.3.NĐ.2.6. Hình thức đối thoại
 
----
+(Điều 6 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
+Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và cơ quan, tổ chức, đơn vị quy định tại khoản 2 Điều 5 Nghị định này quyết định tổ chức đối thoại với thanh niên theo các hình thức đối thoại trực tiếp hoặc trực tuyến.
 
-### Điều 36.3.NĐ.2.6. Hình thức đối thoại
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.2.5. Trách nhiệm tổ chức đối thoại; Điều 36.3.NĐ.2.10. Tổ chức đối thoại)
 
-*Nội dung chưa có sẵn*
+Điều 36.3.NĐ.2.7. Nội dung đối thoại
 
-**Chỉ mục:** 6
+(Điều 7 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000600
+1. Việc thực hiện cơ chế, chính sách và các quy định của pháp luật đối với thanh niên.
 
-**ID:** dk_00060110
+2. Hoạt động của các cơ quan, tổ chức liên quan đến quyền và lợi ích hợp pháp của thanh niên.
 
----
+3. Những nội dung thuộc thẩm quyền hoặc trách nhiệm báo cáo với cơ quan có thẩm quyền giải quyết các kiến nghị của thanh niên.
 
+4. Vai trò, trách nhiệm của thanh niên trong học tập, lao động, rèn luyện, tham gia phát triển kinh tế - xã hội và bảo vệ Tổ quốc.
 
-### Điều 36.3.NĐ.2.7. Nội dung đối thoại
+5. Những kiến nghị, đề xuất khác của thanh niên.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000700
-
-**ID:** dk_00060111
-
----
-
-
-### Điều 36.3.NĐ.2.8. Xây dựng kế hoạch, chương trình đối thoại
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.2.9. Nội dung kế hoạch, chương trình đối thoại)
 
 Điều 36.3.NĐ.2.8. Xây dựng kế hoạch, chương trình đối thoại
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000800
+1. Bộ Nội vụ chủ trì, phối hợp với Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh xây dựng kế hoạch, chương trình đối thoại với thanh niên hằng năm trình Thủ tướng Chính phủ xem xét, quyết định.
 
-**ID:** dk_00060112
+Cơ quan quản lý nhà nước, đơn vị được giao nhiệm vụ về công tác thanh niên chủ trì, phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp xây dựng kế hoạch, chương trình đối thoại với thanh niên hằng năm trình Chủ tịch Ủy ban nhân dân cùng cấp xem xét, quyết định.
 
----
+2. Người đứng đầu cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân có trách nhiệm xây dựng kế hoạch đối thoại với thanh niên trên cơ sở yêu cầu của các tổ chức thanh niên quy định tại khoản 2 Điều 5 Nghị định này.
 
-
-### Điều 36.3.NĐ.2.9. Nội dung kế hoạch, chương trình đối thoại
+3. Đoàn Thanh niên Cộng sản Hồ Chí Minh và các tổ chức khác của thanh niên tổng hợp nhu cầu, nguyện vọng, kiến nghị, đề xuất của thanh niên, lựa chọn chủ đề và phối hợp với cơ quan, tổ chức, đơn vị quy định tại khoản 1, khoản 2 Điều này để phục vụ xây dựng kế hoạch đối thoại.
 
 Điều 36.3.NĐ.2.9. Nội dung kế hoạch, chương trình đối thoại
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130000900
+1. Kế hoạch đối thoại với thanh niên phải đảm bảo nội dung sau:
 
-**ID:** dk_00060113
+a) Mục đích, yêu cầu: Tiếp nhận ý kiến, kiến nghị của thanh niên về xây dựng, thực hiện chính sách, pháp luật; cung cấp, phổ biến chính sách, pháp luật đối với thanh niên; giải đáp vấn đề liên quan đến quyền, lợi ích hợp pháp của thanh niên trong quá trình thực hiện chính sách, pháp luật của nhà nước đối với thanh niên;
 
----
+b) Thời gian:
 
+Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp tổ chức đối thoại với thanh niên vào tháng 3 hằng năm. Trường hợp không thể tổ chức trong tháng 3 thì tổ chức đối thoại vào thời gian phù hợp, nhưng phải đảm bảo ít nhất 1 năm 1 lần;
 
-### Điều 36.3.NĐ.2.10. Tổ chức đối thoại
+Trường hợp đối thoại theo yêu cầu của tổ chức Đoàn thanh niên quy định tại khoản 2 Điều 5 Nghị định này thì trong vòng 45 ngày kể từ ngày nhận được yêu cầu, người đứng đầu cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân có trách nhiệm xem xét tổ chức đối thoại với thanh niên.
 
-*Nội dung chưa có sẵn*
+c) Địa điểm: Cơ quan, tổ chức, đơn vị lựa chọn địa điểm và chuẩn bị các điều kiện thuận lợi, phù hợp với hình thức đối thoại để thanh niên tham gia đối thoại;
 
-**Chỉ mục:** 10
+d) Nội dung: Cơ quan, tổ chức, đơn vị phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp và các tổ chức khác của thanh niên lựa chọn nội dung đối thoại quy định tại Điều 7 Nghị định này;
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130001000
+đ) Thành phần tham gia:
 
-**ID:** dk_00060114
+Chủ trì: Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp chủ trì đối thoại định kỳ; Người đứng đầu cơ quan, tổ chức, đơn vị chủ trì đối thoại theo yêu cầu của tổ chức thanh niên;
 
----
+Thành phần tham gia đối thoại gồm: Đại diện Lãnh đạo Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp; Đại diện các cơ quan chuyên môn của cơ quan, tổ chức, đơn vị tổ chức đối thoại; Đại diện cơ quan quản lý nhà nước về thanh niên các cấp; Đại diện thanh niên do Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp giới thiệu; Đại diện cơ quan, tổ chức, đơn vị có liên quan.
 
+e) Tổ chức thực hiện: Cơ quan, tổ chức, đơn vị tổ chức đối thoại phân công nhiệm vụ thực hiện nội dung kế hoạch.
 
-### Điều 36.3.NĐ.2.11. Nội dung kết luận đối thoại
+2. Chương trình gồm các nội dung sau: Thời gian bắt đầu, thời gian kết thúc; nội dung chương trình; phân công thực hiện.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.2.5. Trách nhiệm tổ chức đối thoại; Điều 36.3.NĐ.2.7. Nội dung đối thoại)
 
-**Chỉ mục:** 11
+Điều 36.3.NĐ.2.10. Tổ chức đối thoại
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130001100
+(Điều 10 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**ID:** dk_00060115
+1. Căn cứ kế hoạch, chương trình đối thoại đã được công khai, các cơ quan, tổ chức, đơn vị chủ trì, phối hợp với tổ chức Đoàn Thanh niên Cộng sản Hồ Chi Minh cùng cấp và các cơ quan liên quan tổ chức thực hiện đối thoại theo kế hoạch.
 
----
+2. Cơ quan, tổ chức, đơn vị tổ chức đối thoại quyết định tiếp nhận ý kiến, kiến nghị của thanh niên bằng phiếu, phát biểu trực tiếp hoặc thông qua các phương tiện thông tin đại chúng, Trang/Cổng thông tin điện tử của cơ quan, tổ chức, đơn vị phù hợp với hình thức đối thoại quy định tại Điều 6 Nghị định này.
 
+3. Cơ quan, tổ chức, đơn vị tổng hợp các nội dung theo nhóm vấn đề để trả lời tại cuộc đối thoại những nội dung thuộc thẩm quyền. Đối với những nội dung không thuộc thẩm quyền thì ghi nhận và gửi các cơ quan có thẩm quyền giải quyết theo quy định.
 
-### Điều 36.3.NĐ.2.12. Tổ chức thực hiện
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.2.6. Hình thức đối thoại; Điều 36.3.NĐ.2.11. Nội dung kết luận đối thoại)
 
-*Nội dung chưa có sẵn*
+Điều 36.3.NĐ.2.11. Nội dung kết luận đối thoại
 
-**Chỉ mục:** 12
+(Điều 11 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000010000100000000000000000000402757400130001200
+1. Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp, cơ quan, tổ chức, đơn vị có văn bản kết luận nội dung đối thoại và gửi các cơ quan, tổ chức, đơn vị có liên quan xem xét, giải quyết theo quy định đối với những nội dung đối thoại phức tạp, liên quan đến nhiều ngành, nhiều lĩnh vực. Văn bản kết luận đối thoại gồm các nội dung sau:
 
-**ID:** dk_00060116
+a) Những vấn đề được thanh niên nêu ý kiến, kiến nghị, đề xuất:
 
----
+b) Những ý kiến, kiến nghị, đề xuất của thanh niên đã được giải đáp ngay tại cuộc đối thoại;
 
+c) Những ý kiến, kiến nghị, đề xuất của thanh niên có nội dung phức tạp, liên quan đến nhiều ngành, lĩnh vực đã được chuyển đến cơ quan tổ chức, đơn vị để xem xét, giải quyết;
 
-### Điều 36.3.LQ.11. Áp dụng điều ước quốc tế về quyền trẻ em đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+d) Phân công cơ quan, tổ chức, đơn vị giải quyết kiến nghị, đề xuất của thanh niên theo chức năng, nhiệm vụ được giao.
+
+2. Thời gian ban hành văn bản và xử lý nội dung kết luận được thực hiện theo quy định tại khoản 3 Điều 10 Luật Thanh niên.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.2.10. Tổ chức đối thoại)
+
+Điều 36.3.NĐ.2.12. Tổ chức thực hiện
+
+(Điều 12 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
+
+1. Bộ Nội vụ có trách nhiệm chủ trì, phối hợp với Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh và các cơ quan liên quan theo dõi, đôn đốc, kiểm tra việc thực hiện đối thoại với thanh niên tại đơn vị và địa phương,
+
+2. Hằng năm, người đứng đầu cơ quan, tổ chức, đơn vị báo cáo kết quả tổ chức đối thoại và kết quả giải quyết các kiến nghị với cơ quan cấp trên trực tiếp,
+
+3. Hằng năm, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương tổng hợp kết quả thực hiện đối thoại với thanh niên vào báo cáo quản lý nhà nước về thanh niên và gửi về Bộ Nội vụ báo cáo Chính phủ theo quy định.
 
 Điều 36.3.LQ.11. Áp dụng điều ước quốc tế về quyền trẻ em đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000100001100000000000000000
+ Nhà nước áp dụng điều ước quốc tế về quyền trẻ em mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi phù hợp với điều kiện của Việt Nam.Chương II
 
-**ID:** dk_00060117
+TRÁCH NHIỆM CỦA THANH NIÊN
 
----
+Điều 36.3.LQ.12. Trách nhiệm đối với Tổ quốc
 
+(Điều 12 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-### Điều 36.3.LQ.12. Trách nhiệm đối với Tổ quốc
+ 1. Phát huy truyền thống dựng nước và giữ nước của dân tộc; xung kích, sáng tạo, đi đầu trong công cuộc đổi mới, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
 
-*Nội dung chưa có sẵn*
+ 2. Sẵn sàng bảo vệ Tổ quốc, bảo vệ độc lập, giữ vững chủ quyền, an ninh quốc gia, thống nhất và toàn vẹn lãnh thổ; đảm nhận công việc khó khăn, gian khổ, cấp bách khi Tổ quốc yêu cầu.
 
-**Chỉ mục:** 12
+ 3. Đấu tranh với các âm mưu, hoạt động gây phương hại đến lợi ích quốc gia, dân tộc.Điều 36.3.LQ.13. Trách nhiệm đối với Nhà nước và xã hội
 
-**Mã phân cấp:** 3600300000000000200001200000000000000000
+(Điều 13 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060119
+ 1. Gương mẫu chấp hành chính sách, pháp luật và thực hiện nghĩa vụ công dân
 
----
+ 2. Tham gia giữ gìn trật tự, an toàn xã hội, quốc phòng, an ninh quốc gia.
 
+ 3. Chủ động đề xuất ý tưởng, sáng kiến trong quá trình xây dựng chính sách, pháp luật; tham gia quản lý nhà nước và xã hội.
 
-### Điều 36.3.LQ.13. Trách nhiệm đối với Nhà nước và xã hội
+ 4. Tích cực tham gia tuyên truyền, vận động Nhân dân thực hiện Hiến pháp và pháp luật.
 
-Điều 36.3.LQ.13. Trách nhiệm đối với Nhà nước và xã hội
+ 5. Xây dựng các mô hình sản xuất, kinh doanh tạo việc làm; tham gia bảo vệ môi trường và các hoạt động vì lợi ích của cộng đồng, xã hội.
 
-**Chỉ mục:** 13
+ 6. Tích cực tham gia hoạt động chăm sóc, giáo dục và bảo vệ trẻ em.Điều 36.3.LQ.14. Trách nhiệm đối với gia đình
 
-**Mã phân cấp:** 3600300000000000200001300000000000000000
+(Điều 14 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060120
+ 1. Chăm lo hạnh phúc gia đình; giữ gìn và phát huy truyền thống tốt đẹp của gia đình Việt Nam.
 
----
+ 2. Kính trọng, hiếu thảo đối với ông bà, cha mẹ và tôn trọng các thành viên khác trong gia đình; chăm sóc, giáo dục con em trong gia đình.
 
+ 3. Tích cực phòng, chống bạo lực gia đình, xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình.Điều 36.3.LQ.15. Trách nhiệm đối với bản thân
 
-### Điều 36.3.LQ.14. Trách nhiệm đối với gia đình
+(Điều 15 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-*Nội dung chưa có sẵn*
+ 1. Rèn luyện đạo đức, nhân cách, lối sống văn hóa, ứng xử văn minh; có trách nhiệm công dân, ý thức chấp hành pháp luật; phòng, chống tiêu cực, tệ nạn xã hội, hành vi trái pháp luật và đạo đức xã hội.
 
-**Chỉ mục:** 14
+ 2. Tích cực học tập, nâng cao trình độ, kiến thức, kỹ năng; tiếp cận, nghiên cứu, ứng dụng khoa học và công nghệ vào thực tiễn.
 
-**Mã phân cấp:** 3600300000000000200001400000000000000000
+ 3. Chủ động tìm hiểu về thị trường lao động; lựa chọn nghề nghiệp, việc làm phù hợp; rèn luyện ý thức trách nhiệm, kỷ luật lao động và tác phong chuyên nghiệp; sáng tạo, cải tiến kỹ thuật nâng cao năng suất lao động.
 
-**ID:** dk_00060121
+ 4. Rèn luyện, bảo vệ, chăm sóc, nâng cao sức khỏe, phát triển thể chất và tinh thần; trang bị kiến thức, kỹ năng sống, kỹ năng chăm sóc sức khỏe sinh sản, sức khỏe tình dục, phòng, chống bệnh tật; không lạm dụng rượu, bia; hạn chế sử dụng thuốc lá; không sử dụng ma túy, chất gây nghiện và chất kích thích khác mà pháp luật cấm; phòng, chống tác hại từ không gian mạng.
 
----
+ 5. Tích cực tham gia các hoạt động, phong trào văn hóa, thể dục, thể thao lành mạnh; bảo vệ, giữ gìn, phát huy bản sắc văn hóa dân tộc; tiếp thu tinh hoa văn hóa nhân loại.Chương III
 
-
-### Điều 36.3.LQ.15. Trách nhiệm đối với bản thân
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 3600300000000000200001500000000000000000
-
-**ID:** dk_00060122
-
----
-
-
-### Điều 36.3.LQ.16. Chính sách về học tập và nghiên cứu khoa học
+CHÍNH SÁCH CỦA NHÀ NƯỚC ĐỐI VỚI THANH NIÊN
 
 Điều 36.3.LQ.16. Chính sách về học tập và nghiên cứu khoa học
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000300001600000000000000000
+ 1. Bảo đảm bình đẳng trong tiếp cận giáo dục và tạo điều kiện cho thanh niên tham gia nghiên cứu khoa học.
 
-**ID:** dk_00060124
+ 2. Ban hành và bảo đảm thực hiện các chương trình giáo dục đạo đức, lý tưởng, truyền thống dân tộc, lối sống văn hóa, kỹ năng sống, ý thức chấp hành pháp luật cho thanh niên.
 
----
+ 3. Có chính sách tín dụng, học bổng, miễn, giảm học phí cho thanh niên theo quy định của pháp luật.
 
+ 4. Khuyến khích, hỗ trợ thanh niên học tập, nâng cao trình độ chuyên môn, nghiệp vụ; khả năng sáng tạo, nghiên cứu, ứng dụng tiến bộ khoa học và công nghệ.
 
-### Điều 36.3.LQ.17. Chính sách về lao động, việc làm
+ 5. Ưu đãi, hỗ trợ tổ chức, cá nhân đầu tư hoạt động nghiên cứu khoa học, đổi mới sáng tạo của thanh niên; tham gia đào tạo kỹ năng sống và kỹ năng cần thiết khác cho thanh niên.Điều 36.3.LQ.17. Chính sách về lao động, việc làm
 
-*Nội dung chưa có sẵn*
+(Điều 17 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 17
+ 1. Tư vấn, định hướng nghề nghiệp, cung cấp thông tin thị trường lao động cho thanh niên; giáo dục kỹ năng nghề nghiệp, đạo đức nghề nghiệp cho thanh niên; bảo đảm thanh niên không bị cưỡng bức, bóc lột sức lao động.
 
-**Mã phân cấp:** 3600300000000000300001700000000000000000
+ 2. Tạo điều kiện để thanh niên có việc làm; tạo việc làm tại chỗ cho thanh niên ở vùng nông thôn, miền núi, hải đảo phù hợp với từng vùng, miền, gắn với từng giai đoạn phát triển của đất nước.
 
-**ID:** dk_00060125
+ 3. Tạo điều kiện cho thanh niên được vay vốn ưu đãi từ Quỹ quốc gia về việc làm và nguồn tín dụng hợp pháp khác để tự tạo việc làm, phát triển sản xuất, kinh doanh.Điều 36.3.LQ.18. Chính sách về khởi nghiệp
 
----
+(Điều 18 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ 1. Giáo dục, đào tạo kiến thức, kỹ năng khởi nghiệp cho thanh niên.
 
-### Điều 36.3.LQ.18. Chính sách về khởi nghiệp
+ 2. Cung cấp thông tin về thị trường; hỗ trợ pháp lý, khoa học và công nghệ, xúc tiến đầu tư, phát triển nguồn nhân lực; ưu đãi vay vốn từ các tổ chức tín dụng theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+ 3. Khuyến khích, tạo môi trường thuận lợi để thanh niên khởi nghiệp sáng tạo ứng dụng khoa học và công nghệ.
 
-**Chỉ mục:** 18
+ 4. Ưu đãi, hỗ trợ tổ chức, cá nhân tham gia cung ứng dịch vụ hỗ trợ thanh niên khởi nghiệp; khuyến khích thành lập quỹ khởi nghiệp cho thanh niên theo quy định của pháp luậtĐiều 36.3.LQ.19. Chính sách về bảo vệ, chăm sóc và nâng cao sức khỏe
 
-**Mã phân cấp:** 3600300000000000300001800000000000000000
+(Điều 19 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060126
+ 1. Tư vấn, hỗ trợ nâng cao sức khỏe cho thanh niên; phòng, chống bạo lực gia đình, bạo lực học đường, xâm hại tình dục; phòng, chống ma túy, HIV/AIDS; phòng ngừa bệnh lây truyền qua đường tình dục, bệnh xã hội khác và các nguy cơ ảnh hưởng đến sức khỏe thể chất, tinh thần của thanh niên.
 
----
+ 2. Bảo đảm cho thanh niên được cung cấp thông tin, tiếp cận dịch vụ thân thiện về bảo vệ, chăm sóc sức khỏe sinh sản, sức khỏe tình dục; được tư vấn, khám sức khỏe trước khi kết hôn
 
+ 3. Khuyến khích tổ chức, cá nhân đầu tư, cung cấp dịch vụ y tế, chăm sóc sức khỏe cho thanh niên.Điều 36.3.LQ.20. Chính sách về văn hóa, thể dục, thể thao
 
-### Điều 36.3.LQ.19. Chính sách về bảo vệ, chăm sóc và nâng cao sức khỏe
+(Điều 20 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-Điều 36.3.LQ.19. Chính sách về bảo vệ, chăm sóc và nâng cao sức khỏe
+ 1. Khuyến khích, hỗ trợ thanh niên tham gia hoạt động và sáng tạo trong văn hóa, thể dục, thể thao.
 
-**Chỉ mục:** 19
+ 2. Tạo điều kiện cho thanh niên tích cực tham gia giữ gìn, phát huy giá trị văn hóa dân tộc và tiếp thu tinh hoa văn hóa nhân loại.
 
-**Mã phân cấp:** 3600300000000000300001900000000000000000
+ 3. Tuyên truyền, phổ biến, giáo dục nâng cao nhận thức và bảo vệ sự an toàn của thanh niên trên không gian mạng.
 
-**ID:** dk_00060127
+ 4. Khuyến khích tổ chức, cá nhân đầu tư xây dựng các thiết chế văn hóa, thể dục, thể thao cho thanh niên.Điều 36.3.LQ.21. Chính sách về bảo vệ Tổ quốc
 
----
+(Điều 21 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ 1. Bảo đảm cho thanh niên được giáo dục quốc phòng và an ninh, tinh thần yêu nước, chủ nghĩa anh hùng cách mạng, ý thức xây dựng và bảo vệ Tổ quốc.
 
-### Điều 36.3.LQ.20. Chính sách về văn hóa, thể dục, thể thao
+ 2. Bảo đảm cho thanh niên thực hiện nghĩa vụ quân sự; nghĩa vụ tham gia Công an nhân dân, Dân quân tự vệ; tham gia quân nhân dự bị và xây dựng nền quốc phòng toàn dân, nền an ninh nhân dân theo quy định của pháp luật.
 
-Điều 36.3.LQ.20. Chính sách về văn hóa, thể dục, thể thao
+ 3. Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân được hưởng chính sách hỗ trợ đào tạo nghề và các chính sách ưu đãi khác theo quy định của pháp luật.Điều 36.3.LQ.22. Chính sách đối với thanh niên xung phong
 
-**Chỉ mục:** 20
+(Điều 22 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000300002000000000000000000
+ 1. Thanh niên xung phong là lực lượng xung kích của thanh niên tham gia thực hiện các nhiệm vụ phát triển kinh tế - xã hội, giải quyết việc làm, giáo dục, đào tạo, rèn luyện thanh niên và các nhiệm vụ đột xuất, cấp bách, khó khăn, gian khổ trong xây dựng và bảo vệ Tổ quốc.
 
-**ID:** dk_00060128
+ 2. Nhà nước ban hành chính sách để thanh niên xung phong thực hiện các nhiệm vụ sau đây:
 
----
+ a) Tham gia dự án phát triển kinh tế - xã hội được Nhà nước giao;
 
+ b) Tham gia khắc phục hậu quả thiên tai, dịch bệnh; bảo vệ môi trường; giữ gìn trật tự, an toàn xã hội, quốc phòng, an ninh quốc gia;
 
-### Điều 36.3.LQ.21. Chính sách về bảo vệ Tổ quốc
+ c) Tham gia sản xuất hàng hóa, cung ứng dịch vụ, chuyển giao tiến bộ kỹ thuật hỗ trợ sản xuất, đào tạo nghề gắn với tạo việc làm cho thanh niên;
 
-*Nội dung chưa có sẵn*
+ d) Các nhiệm vụ đột xuất, cấp bách, khó khăn, gian khổ theo quy định của pháp luật.
 
-**Chỉ mục:** 21
+ 3. Nhà nước bảo đảm điều kiện về kinh phí, cơ sở vật chất và trang thiết bị cần thiết cho tổ chức thanh niên xung phong khi thực hiện nhiệm vụ được Nhà nước giao.
 
-**Mã phân cấp:** 3600300000000000300002100000000000000000
+ 4. Thanh niên xung phong được hưởng chế độ, chính sách trong và sau khi hoàn thành nhiệm vụ.
 
-**ID:** dk_00060129
-
----
-
-
-### Điều 36.3.LQ.22. Chính sách đối với thanh niên xung phong
-
-Điều 36.3.LQ.22. Chính sách đối với thanh niên xung phong
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 3600300000000000300002200000000000000000
-
-**ID:** dk_00060130
-
----
-
-
-### Điều 36.3.NĐ.1.3. Chức năng của thanh niên xung phong
+ 5. Chính phủ quy định chi tiết Điều này.(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.3. Nhiệm vụ của thanh niên xung phong và thanh niên tình nguyện)
 
 Điều 36.3.NĐ.1.3. Chức năng của thanh niên xung phong
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120000300
-
-**ID:** dk_00060131
-
----
-
-
-### Điều 36.3.NĐ.1.4. Nhiệm vụ của thanh niên xung phong
+Thanh niên xung phong là lực lượng xung kích của thanh niên tham gia thực hiện nhiệm vụ phát triển kinh tế - xã hội, giải quyết việc làm, giáo dục, rèn luyện và đào tạo thanh niên.
 
 Điều 36.3.NĐ.1.4. Nhiệm vụ của thanh niên xung phong
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120000400
+1. Tham gia thực hiện chương trình, dự án phát triển kinh tế - xã hội được giao ở biên giới, hải đảo, những nơi có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn (sau đây gọi chung là vùng khó khăn).
 
-**ID:** dk_00060132
+2. Tham gia thực hiện việc khắc phục hậu quả thiên tai, dịch bệnh, bảo vệ môi trường, trật tự an toàn giao thông, bảo đảm an ninh quốc phòng và các nhiệm vụ đột xuất, cấp bách khác.
 
----
+3. Tham gia thực hiện cai nghiện ma túy, giáo dục lao động, giải quyết việc làm cho thanh niên sau cai nghiện ma túy và các đối tượng thanh thiếu niên mắc tệ nạn xã hội khác.
 
+4. Tham gia sản xuất hàng hóa, cung ứng dịch vụ, chuyển giao tiến bộ khoa học kỹ thuật, hỗ trợ nông dân sản xuất và đào tạo nghề gắn với tạo việc làm cho thanh niên.
 
-### Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong
+5. Giáo dục, rèn luyện, đào tạo và bồi dưỡng văn hóa, chuyên môn nghiệp vụ, phẩm chất chính trị, phẩm chất đạo đức và chăm lo đời sống văn hóa tinh thần cho đội viên, cán bộ quản lý thanh niên xung phong.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong; Điều 36.3.TT.1.2. Nguyên tắc thành lập tổ chức thanh niên xung phong; Điều 36.3.TT.1.5. Hồ sơ đề nghị thành lập tổ chức thanh niên xung phong)
 
 Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120000500
+1. Thanh niên xung phong chỉ được thành lập khi cần huy động thanh niên để thực hiện nhiệm vụ theo quy định tại Điều 4 của Nghị định này trong thời gian từ 24 tháng trở lên.
 
-**ID:** dk_00060133
+2. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong được quy định như sau:
 
----
+a) Thanh niên xung phong ở Trung ương do Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh quyết định thành lập, giải thể và quản lý;
 
+b) Thanh niên xung phong ở tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung thanh niên xung phong cấp tỉnh) do Đoàn thanh niên Cộng sản Hồ Chí Minh tỉnh, thành quyết định thành lập, giải thể và quản lý.
 
-### Điều 36.3.TT.1.1. Trách nhiệm quản lý thanh niên xung phong
+3. Việc thành lập thanh niên xung phong phải được sự chấp thuận của cơ quan quản lý nhà nước có thẩm quyền theo quy định của pháp luật.
+
+4. Bộ Nội vụ hướng dẫn về trình tự, thủ tục thành lập, giải thể và quản lý thanh niên xung phong quy định tại Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.4. Nhiệm vụ của thanh niên xung phong; Điều 36.3.NĐ.1.10. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương; Điều 36.3.NĐ.1.11. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh; Điều 36.3.NĐ.1.12. Tổng đội thanh niên xung phong; Điều 36.3.NĐ.1.13. Trung tâm, Trường Giáo dục lao động xã hội)
 
 Điều 36.3.TT.1.1. Trách nhiệm quản lý thanh niên xung phong
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 11/2011/TT-BNV Hướng dẫn thi hành một số điều của Nghị định số 12/2011/NĐ-CP ngày 30 tháng 01 năm 2011của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong ngày 26/09/2011 của Bộ Nội vụ, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000100
+ 1. Đối với cơ quan quản lý nhà nước có thẩm quyền (Bộ Nội vụ và Ủy ban nhân dân các tỉnh thành phố trực thuộc Trung ương):
 
-**ID:** dk_00060134
+ a) Thực hiện chức năng, nhiệm vụ quản lý nhà nước đối với thanh niên xung phong;
 
----
+ b) Xem xét, chấp thuận hoặc không chấp thuận việc thành lập, giải thể, gia hạn tổ chức thanh niên xung phong theo thẩm quyền;
 
+ c) Thanh tra, kiểm tra việc thực hiện chính sách, pháp luật đối với thanh niên xung phong.
 
-### Điều 36.3.TT.1.2. Nguyên tắc thành lập tổ chức thanh niên xung phong
+ 2. Đối với tổ chức Đoàn thanh niên Cộng sản Hồ Chí Minh (viết tắt là Tổ chức Đoàn):
 
-Điều 36.3.TT.1.2. Nguyên tắc thành lập tổ chức thanh niên xung phong
+ a) Thành lập hoặc giải thể, thu hồi quyết định của tổ chức thanh niên xung phong và trực tiếp quản lý hoạt động của tổ chức thanh niên xung phong do cấp mình quyết định thành lập;
 
-**Chỉ mục:** 2
+ b) Ban hành quy chế tổ chức và hoạt động của các tổ chức thanh niên xung phong do cấp mình quyết định thành lập;
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000200
+ c) Hướng dẫn, kiểm tra hoạt động của các tổ chức thanh niên xung phong do cấp mình thành lập.Điều 36.3.TT.1.2. Nguyên tắc thành lập tổ chức thanh niên xung phong
 
-**ID:** dk_00060135
+(Điều 2 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
----
+ 1. Thành lập tổ chức thanh niên xung phong phải xuất phát từ yêu cầu thực hiện nhiệm vụ được quy định tại Điều 4 Nghị định số 12/2011/NĐ-CP trong thời gian từ 24 tháng trở lên.
 
+ 2. Tổ chức thanh niên xung phong chỉ được thành lập khi xác định rõ mục tiêu, chức năng, nhiệm vụ và không chồng chéo với tổ chức thanh niên xung phong đang hoạt động trên địa bàn hành chính cấp tỉnh. Quy mô, loại hình tổ chức phải phù hợp với chức năng, nhiệm vụ được giao. Đối với tổ chức thanh niên xung phong do Trung ương Đoàn thành lập có phạm vi hoạt động trên địa bàn đã có tổ chức thanh niên xung phong của tỉnh cần trao đổi, thống nhất với địa phương để bảo đảm không chồng chéo về chức năng, nhiệm vụ với tổ chức thanh niên xung phong đã được thành lập trước đó.
 
-### Điều 36.3.TT.1.3. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong ở Trung ương
+ 3. Việc thành lập Trung tâm, Trường giáo dục lao động xã hội theo quy định tại Khoản 1 Điều 9 Nghị định số 12/2011/NĐ-CP phải phù hợp với các quy định pháp luật hiện hành về ngành, lĩnh vực hoạt động.
+
+ 4. Việc thành lập tổ chức thanh niên xung phong ở cấp Trung ương phải được sự chấp thuận bằng văn bản của Bộ Nội vụ; ở các tỉnh, thành phố trực thuộc Trung ương phải được sự chấp thuận bằng văn bản của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.4. Nhiệm vụ của thanh niên xung phong; Điều 36.3.NĐ.1.9. Tổ chức thanh niên xung phong)
 
 Điều 36.3.TT.1.3. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong ở Trung ương
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000300
+ 1. Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh (viết tắt là Trung ương Đoàn) có nhu cầu thành lập tổ chức thanh niên xung phong lập 01 bộ hồ sơ theo quy định tại Điều 5 Thông tư này gửi trực tiếp đến Bộ Nội vụ đề nghị cho ý kiến chấp thuận để làm cơ sở cho việc ra quyết định thành lập.
 
-**ID:** dk_00060136
+ 2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Nội vụ có trách nhiệm xem xét, cho ý kiến chấp thuận bằng văn bản việc thành lập tổ chức thanh niên xung phong. Trong trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do.
 
----
+ Trong quá trình xem xét hồ sơ, Bộ Nội vụ có thể mời đại diện các bộ, ngành, chuyên gia, nhà khoa học có liên quan tham gia; yêu cầu Trung ương Đoàn cung cấp thông tin, tài liệu có liên quan đến hồ sơ thành lập tổ chức thanh niên xung phong.
 
+ 3. Căn cứ ý kiến chấp thuận của Bộ Nội vụ, Trung ương Đoàn ra quyết định thành lập tổ chức thanh niên xung phong.
 
-### Điều 36.3.TT.1.4. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong cấp tỉnh
+ Đối với việc thành lập Trung tâm, Trường giáo dục lao động xã hội, sau khi có ý kiến chấp thuận của Bộ Nội vụ, trình tự, thủ tục thành lập được thực hiện theo quy định của pháp luật về lĩnh vực hoạt động chuyên ngành.Điều 36.3.TT.1.4. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong cấp tỉnh
 
-Điều 36.3.TT.1.4. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong cấp tỉnh
+(Điều 4 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Chỉ mục:** 4
+ 1. Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh có nhu cầu thành lập tổ chức thanh niên xung phong lập 01 bộ hồ sơ theo quy định tại Điều 5 Thông tư này gửi trực tiếp đến Sở Nội vụ để trình Ủy ban nhân dân tỉnh cho ý kiến chấp thuận.
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000400
+ 2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Nội vụ có trách nhiệm xem xét, trình Ủy ban nhân dân tỉnh cho ý kiến chấp thuận bằng văn bản việc thành lập tổ chức thanh niên xung phong. Trong trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do.
 
-**ID:** dk_00060137
+ Trong quá trình thẩm tra hồ sơ thành lập tổ chức thanh niên xung phong, Sở Nội vụ có quyền đề nghị Đoàn Thanh niên cấp tỉnh cung cấp thông tin và tài liệu có liên quan hoặc mời đại diện các sở, ngành liên quan và nhà khoa học để thảo luận, cho ý kiến về chuyên môn.
 
----
+ 3. Căn cứ ý kiến chấp thuận của Ủy ban nhân dân tỉnh, Đoàn thanh niên cấp tỉnh ra quyết định thành lập tổ chức thanh niên xung phong.
 
-
-### Điều 36.3.TT.1.5. Hồ sơ đề nghị thành lập tổ chức thanh niên xung phong
+ Đối với việc thành lập Trung tâm, Trường giáo dục lao động xã hội, sau khi có ý kiến chấp thuận của Ủy ban nhân dân tỉnh, trình tự, thủ tục thành lập được thực hiện theo quy định của pháp luật về lĩnh vực hoạt động chuyên ngành.(Điều này có nội dung liên quan đến Điều 36.3.TT.1.5. Hồ sơ đề nghị thành lập tổ chức thanh niên xung phong)
 
 Điều 36.3.TT.1.5. Hồ sơ đề nghị thành lập tổ chức thanh niên xung phong
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000500
+ 1. Văn bản của tổ chức Đoàn đề nghị cơ quan quản lý nhà nước có thẩm quyền cho ý kiến chấp thuận về việc thành lập tổ chức thanh niên xung phong.
 
-**ID:** dk_00060138
+ 2. Văn bản chấp thuận của cấp ủy Đảng cùng cấp đồng ý việc thành lập tổ chức và hoạt động của thanh niên xung phong. Đối với cấp Trung ương là văn bản chấp thuận của Ban Tổ chức Trung ương Đảng.
 
----
+ 3. Đề án thành lập tổ chức thanh niên xung phong gồm các nội dung sau:
 
+ a) Loại hình tổ chức cần thành lập thanh niên xung phong;
 
-### Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong
+ c) Mục tiêu, chức năng, nhiệm vụ của tổ chức thanh niên xung phong;
+
+ d) Cơ cấu của tổ chức thanh niên xung phong;
+
+ đ) Nguồn lực và các điều kiện cần thiết khác bảo đảm để tổ chức thanh niên xung phong mới được thành lập hoạt động. Trong đó, dự kiến về nhân sự, biên chế, kinh phí hoạt động, trụ sở làm việc và trang thiết bị, phương tiện cần thiết của tổ chức thanh niên xung phong;
+
+ e) Thời gian dự kiến kế hoạch hoạt động của tổ chức thanh niên xung phong;
+
+ g) Kiến nghị của cơ quan xây dựng đề án thành lập tổ chức thanh niên xung phong (nếu có).
+
+ 4. Đối với việc thành lập Trung tâm, Trường giáo dục lao động xã hội, ngoài các nội dung nêu trên đề án còn phải có ý kiến bằng văn bản của các cơ quan quản lý chuyên ngành liên quan cấp Trung ương bao gồm: Bộ Giáo dục và Đào tạo, Bộ Lao động Thương binh và Xã hội, Bộ Kế hoạch và Đầu tư, Bộ Tài chính. Đối với cấp địa phương bao gồm: Sở Giáo dục và Đào tạo, Sở Lao động Thương binh và Xã hội, Sở Kế hoạch và Đầu tư, Sở Tài chính.
+
+ 5. Tài liệu chứng minh điều kiện để được thành lập tổ chức thanh niên xung phong theo quy định tại Điều 4 Nghị định số 12/2011/NĐ-CP.
+
+ 6. Các tài liệu khác có liên quan (nếu có).(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.4. Nhiệm vụ của thanh niên xung phong; Điều 36.3.TT.1.4. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong cấp tỉnh)
 
 Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000600
+ 1. Kết thúc thời hạn hoạt động được ghi trong quyết định thành lập mà không có quyết định gia hạn.
 
-**ID:** dk_00060139
+ 2. Mục tiêu, nhiệm vụ và nội dung hoạt động không còn phù hợp với yêu cầu phát triển kinh tế - xã hội của địa phương.
 
----
-
-
-### Điều 36.3.TT.1.7. Thẩm quyền và căn cứ giải thể tổ chức thanh niên xung phong
+ 3. Theo quyết định của cơ quan quản lý nhà nước có thẩm quyền xử lý đối với tổ chức thanh niên xung phong vi phạm pháp luật.(Điều này có nội dung liên quan đến Điều 36.3.TT.1.7. Thẩm quyền và căn cứ giải thể tổ chức thanh niên xung phong; Điều 36.3.TT.1.8. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong; Điều 36.3.TT.1.9. Hồ sơ đề nghị giải thể tổ chức thanh niên xung phong; Điều 36.3.TT.1.12. Trách nhiệm của tổ chức thanh niên xung phong)
 
 Điều 36.3.TT.1.7. Thẩm quyền và căn cứ giải thể tổ chức thanh niên xung phong
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000700
+ 1. Cơ quan có thẩm quyền thành lập tổ chức thanh niên xung phong ra quyết định giải thể tổ chức thanh niên xung phong đối với trường hợp quy định tại Khoản 1 và Khoản 2 Điều 6 Thông tư này.
 
-**ID:** dk_00060140
+ 2. Cơ quan có thẩm quyền thành lập tổ chức thanh niên xung phong ra quyết định giải thể tổ chức thanh niên xung phong đối với trường hợp quy định tại Khoản 3 Điều 6 Thông tư này phải căn cứ quyết định xử lý vi phạm pháp luật của cơ quan có thẩm quyền.
 
----
-
-
-### Điều 36.3.TT.1.8. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong
+ 3. Cơ quan có thẩm quyền thành lập tổ chức thanh niên xung phong ra quyết định giải thể sau khi đã có ý kiến chấp thuận của cơ quan quản lý nhà nước có thẩm quyền cùng cấp.(Điều này có nội dung liên quan đến Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong)
 
 Điều 36.3.TT.1.8. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000800
+ 1. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong quy định tại Khoản 1 và Khoản 2 Điều 6 Thông tư này được thực hiện như sau:
 
-**ID:** dk_00060141
+ a) Cơ quan có thẩm quyền giải thể tổ chức thanh niên xung phong cần lập 01 bộ hồ sơ theo quy định tại Điều 9 Thông tư này gửi trực tiếp đến cơ quan quản lý nhà nước có thẩm quyền cùng cấp để xem xét chấp thuận việc giải thể hoặc không chấp thuận việc giải thể;
 
----
+ b) Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan quản lý nhà nước có thẩm quyền cùng cấp có trách nhiệm xem xét, cho ý kiến chấp thuận bằng văn bản việc giải thể tổ chức thanh niên xung phong. Trong trường hợp không chấp thuận phải nêu rõ lý do;
 
+ c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến chấp thuận của cơ quan quản lý nhà nước có thẩm quyền cùng cấp, cơ quan có thẩm quyền thành lập ra quyết định giải thể tổ chức thanh niên xung phong.
 
-### Điều 36.3.TT.1.9. Hồ sơ đề nghị giải thể tổ chức thanh niên xung phong
+ Đối với trường hợp giải thể Trung tâm, Trường giáo dục lao động xã hội, sau khi có ý kiến chấp thuận của cơ quan quản lý nhà nước có thẩm quyền, trình tự, thủ tục giải thể được thực hiện theo quy định của pháp luật về lĩnh vực hoạt động chuyên ngành.
+
+ 2. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong quy định tại Khoản 3 Điều 6 Thông tư này được thực hiện như sau:
+
+ a) Căn cứ vào quyết định xử lý vi phạm của cơ quan có thẩm quyền; cơ quan có thẩm quyền giải thể tổ chức thanh niên xung phong gửi hồ sơ trực tiếp đến cơ quan quản lý nhà nước có thẩm quyền cùng cấp cho ý kiến chấp thuận việc giải thể;
+
+ b) Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan quản lý nhà nước có thẩm quyền cùng cấp có trách nhiệm xem xét, cho ý kiến chấp thuận bằng văn bản việc giải thể tổ chức thanh niên xung phong;
+
+ c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến chấp thuận của cơ quan quản lý nhà nước có thẩm quyền cùng cấp, cơ quan có thẩm quyền thành lập ra quyết định giải thể tổ chức thanh niên xung phong.(Điều này có nội dung liên quan đến Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong; Điều 36.3.TT.1.9. Hồ sơ đề nghị giải thể tổ chức thanh niên xung phong)
 
 Điều 36.3.TT.1.9. Hồ sơ đề nghị giải thể tổ chức thanh niên xung phong
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114000900
+ 1. Văn bản của tổ chức Đoàn đề nghị cơ quan quản lý nhà nước có thẩm quyền cho ý kiến chấp thuận việc giải thể tổ chức thanh niên xung phong.
 
-**ID:** dk_00060142
+ 2. Văn bản chấp thuận của cấp ủy Đảng cùng cấp đồng ý việc giải thể tổ chức và hoạt động của thanh niên xung phong. Đối với cấp Trung ương là văn bản chấp thuận của Ban Tổ chức Trung ương Đảng.
 
----
+ 3. Phương án giải thể tổ chức thanh niên xung phong:
 
+ a) Lý do giải thể tổ chức thanh niên xung phong (đối với tổ chức thanh niên xung phong giải thể theo quy định tại Khoản 2 Điều 6 thì cần nêu rõ bằng chứng chứng minh mục tiêu, nhiệm vụ và nội dung hoạt động không còn phù hợp với yêu cầu phát triển kinh tế - xã hội của địa phương);
 
-### Điều 36.3.TT.1.10. Cán bộ quản lý thanh niên xung phong
+ b) Đề xuất phương án giải quyết về nhân sự, tổ chức bộ máy, biên chế, tài chính, tài sản, đất đai và các vấn đề khác có liên quan;
+
+ c) Quy định trách nhiệm của tổ chức, cá nhân thực hiện phương án giải thể tổ chức và thời hạn xử lý các vấn đề liên quan.
+
+ Đối với việc giải thể Trung tâm, Trường giáo dục lao động xã hội, ngoài các nội dung trên đây, hồ sơ đề nghị giải thể còn phải có ý kiến bằng văn bản của các cơ quan quản lý chuyên ngành liên quan.
+
+ 4. Văn bản của cơ quan có thẩm quyền xử lý vi phạm của tổ chức thanh niên xung phong đối với trường hợp quy định tại Khoản 3 Điều 6 Thông tư này.
+
+ 5. Các tài liệu khác có liên quan (nếu có).(Điều này có nội dung liên quan đến Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong; Điều 36.3.TT.1.8. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong)
 
 Điều 36.3.TT.1.10. Cán bộ quản lý thanh niên xung phong
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114001000
+ 1. Cán bộ quản lý thanh niên xung phong là các chức danh lãnh đạo, quản lý hoặc làm công việc chuyên môn, kỹ thuật trong đơn vị thanh niên xung phong, gồm: Cán bộ, công chức, viên chức và sỹ quan, quân nhân chuyên nghiệp, công nhân viên quốc phòng thuộc lực lượng vũ trang được điều động, biệt phái đến làm việc và giao nhiệm vụ quản lý hoặc làm công việc chuyên môn kỹ thuật trong tổ chức thanh niên xung phong theo quyết định của cơ quan có thẩm quyền.
 
-**ID:** dk_00060143
+ 2. Đội viên thanh niên xung phong có đủ các điều kiện, tiêu chuẩn sau đây: Chấp hành tốt đường lối, chủ trương của Đảng, chính sách và pháp luật của Nhà nước; có phẩm chất đạo đức tốt; có sức khỏe tốt; có năng lực lãnh đạo, điều hành, tổ chức thực hiện nhiệm vụ; có tinh thần trách nhiệm trong công tác; có kinh nghiệm trong việc tổ chức các hoạt động của thanh niên xung phong; hoàn thành xuất sắc nhiệm vụ được cơ quan có thẩm quyền thành lập tổ chức thanh niên xung phong xác nhận; có trình độ chuyên môn, nghiệp vụ phù hợp với nhiệm vụ được giao thì được cơ quan có thẩm quyền xem xét, tuyển chọn và bổ nhiệm làm cán bộ quản lý thanh niên xung phong trong thời gian thực hiện nhiệm vụ của tổ chức thanh niên xung phong.
 
----
+ 3. Nhiệm vụ, quyền hạn của cán bộ quản lý thanh niên xung phong các cấp do cơ quan quyết định thành lập quy định cụ thể tại quy chế tổ chức, hoạt động của tổ chức thanh niên xung phong.Điều 36.3.TT.1.11. Sử dụng cán bộ quản lý thanh niên xung phong
 
+(Điều 11 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-### Điều 36.3.TT.1.11. Sử dụng cán bộ quản lý thanh niên xung phong
-
-Điều 36.3.TT.1.11. Sử dụng cán bộ quản lý thanh niên xung phong
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114001100
-
-**ID:** dk_00060144
-
----
-
-
-### Điều 36.3.TT.1.12. Trách nhiệm của tổ chức thanh niên xung phong
+ Việc bố trí, phân công công tác, chuyển ngạch, nâng ngạch, bổ nhiệm, miễn nhiệm, bổ nhiệm lại, đề bạt, điều động luân chuyển, biệt phái, khen thưởng, kỷ luật cán bộ quản lý thanh niên xung phong được thực hiện theo quy định của Luật Cán bộ, công chức và Luật Viên chức.(Điều này có nội dung liên quan đến Điều 5.1.LQ.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 1. Phạm vi điều chỉnh của Luật 58/2010/QH12 Viên chức ban hành ngày 15/11/2010)
 
 Điều 36.3.TT.1.12. Trách nhiệm của tổ chức thanh niên xung phong
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114001200
+ 1. Đối với Tổng đội thanh niên xung phong sau thời hạn 03 tháng kể từ ngày có quyết định của cơ quan có thẩm quyền thành lập nếu không chuẩn bị được các điều kiện cần thiết về: Cơ cấu tổ chức, đội ngũ cán bộ quản lý, đội viên thanh niên xung phong và cơ sở vật chất, thiết bị để hoạt động theo quy định thì cơ quan có thẩm quyền quyết định thành lập ra quyết định thu hồi quyết định thành lập và báo cáo về cơ quan quản lý nhà nước về thanh niên xung phong cùng cấp.
 
-**ID:** dk_00060145
+ 2. Đối với Trung tâm, Trường giáo dục lao động xã hội sau thời hạn 06 tháng kể từ ngày có quyết định của cơ quan có thẩm quyền thành lập nếu không chuẩn bị được các điều kiện cần thiết về cơ sở vật chất, thiết bị dạy và học nghề; đội ngũ giảng viên, giáo viên và cán bộ quản lý dạy nghề; chương trình dạy nghề và các điều kiện đảm bảo hoạt động có chất lượng khác để tổ chức thực hiện theo quy định, thì cơ quan có thẩm quyền quyết định thành lập ra quyết định thu hồi quyết định thành lập và báo cáo về cơ quan quản lý nhà nước về thanh niên xung phong cùng cấp.
 
----
+ 3. Trước thời hạn giải thể theo quy định 30 ngày, tổ chức Đoàn có tổ chức thanh niên xung phong giải thể theo quy định tại Khoản 1 Điều 6 Thông tư này phải gửi hồ sơ đề nghị giải thể đến cơ quan quản lý nhà nước có thẩm quyền xem xét, giải quyết. Nếu quá thời hạn bị giải thể mà không gửi hồ sơ đề nghị giải thể thì cơ quan quản lý nhà nước có thẩm quyền tiến hành giải thể tổ chức thanh niên xung phong theo quy định tại Thông tư này, khi đó người đứng đầu tổ chức Đoàn phải chịu trách nhiệm về hậu quả của việc giải thể tổ chức thanh niên xung phong quá thời hạn quy định.
 
+ Trường hợp Tổ chức thanh niên xung phong không đồng ý với quyết định giải thể thì có quyền khiếu nại theo quy định của pháp luật. Trong thời gian chờ giải quyết khiếu nại, tổ chức đó phải tạm dừng mọi hoạt động.(Điều này có nội dung liên quan đến Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong)
 
-### Điều 36.3.TT.1.13. Chế độ báo cáo
+Điều 36.3.TT.1.13. Chế độ báo cáo
 
-*Nội dung chưa có sẵn*
+(Điều 13 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Chỉ mục:** 13
+ 1. Chậm nhất là ngày 15 tháng 6 đối với báo cáo 6 tháng đầu năm và ngày 15 tháng 11 đối với báo cáo hàng năm, các đơn vị thành viên của lực lượng thanh niên xung phong có trách nhiệm báo cáo với Ban Chỉ huy lực lượng thanh niên xung phong cùng cấp tình hình tổ chức và kết quả hoạt động của đơn vị mình.
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000050000802413000114001300
+ 2. Chậm nhất là ngày 15 tháng 7 đối với báo cáo 6 tháng đầu năm và ngày 15 tháng 12 đối với báo cáo hàng năm, Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh có trách nhiệm tổng hợp, báo cáo tỉnh Đoàn, Ủy ban nhân dân tỉnh và Ban Chỉ huy lực lượng thanh niên xung phong Trung ương tình hình tổ chức và kết quả hoạt động của lực lượng thanh niên xung phong tỉnh.
 
-**ID:** dk_00060146
+ 3. Chậm nhất là ngày 30 tháng 7 đối với báo cáo 6 tháng đầu năm và ngày 15 tháng 01 đối với báo cáo hàng năm, Ban Chỉ huy lực lượng thanh niên xung phong Trung ương có trách nhiệm tổng hợp, báo cáo Chính phủ (qua Bộ Nội vụ) và Trung ương Đoàn tình hình tổ chức, hoạt động của thanh niên xung phong trong cả nước.Điều 36.3.NĐ.1.6. Đội viên thanh niên xung phong
 
----
+(Điều 6 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
+1. Đội viên thanh niên xung phong là công dân Việt Nam từ đủ 18 tuổi đển 30 tuổi, có phẩm chất đạo đức, sức khỏe tốt, tình nguyện gia nhập thanh niên xung phong từ 24 tháng trở lên.
 
-### Điều 36.3.NĐ.1.6. Đội viên thanh niên xung phong
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120000600
-
-**ID:** dk_00060147
-
----
-
-
-### Điều 36.3.NĐ.1.8. Trang phục và các hình thức ghi nhận thanh niên xung phong
+2. Đội viên thanh niên xung phong có trách nhiệm tuân thủ quy chế của tổ chức thanh niên xung phong, pháp luật và được hưởng các chế độ, chính sách theo quy định.
 
 Điều 36.3.NĐ.1.8. Trang phục và các hình thức ghi nhận thanh niên xung phong
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120000800
+1. Trang phục thanh niên xung phong bao gồm: đồng phục, cấp hiệu, phù hiệu thanh niên xung phong.
 
-**ID:** dk_00060148
+2. Các hình thức ghi nhận thanh niên xung phong bao gồm: Thẻ đội viên thanh niên xung phong, Giấy chứng nhận hoàn thành nhiệm vụ thanh niên xung phong, Kỷ niệm chương thanh niên xung phong.
 
----
+3. Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh quy định thống nhất trang phục và các hình thức ghi nhận thanh niên xung phong quy định tại khoản 1, khoản 2 Điều này và quyết định việc trao tặng Kỷ niệm chương thanh niên xung phong.
 
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.19. Kinh phí thực hiện chính sách đối với thanh niên xung phong)
 
-### Điều 36.3.NĐ.1.9. Tổ chức thanh niên xung phong
+Điều 36.3.NĐ.1.9. Tổ chức thanh niên xung phong
 
-*Nội dung chưa có sẵn*
+(Điều 9 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Chỉ mục:** 9
+1. Thanh niên xung phong được tổ chức dưới các hình thức sau đây:
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120000900
+a) Tổng đội thanh niên xung phong;
 
-**ID:** dk_00060149
+b) Trung tâm, Trường Giáo dục lao động xã hội.
 
----
+2. Ban Chỉ huy lực lượng thanh niên xung phong là cơ quan giúp Đoàn Thanh niên Cộng sản Hồ Chí Minh thực hiện nhiệm vụ quản lý thanh niên xung phong cùng cấp.
 
+3. Thanh niên xung phong có thể thành lập doanh nghiệp để thực hiện nhiệm vụ được giao theo quy định của pháp luật.
 
-### Điều 36.3.NĐ.1.10. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương
+(Điều này có nội dung liên quan đến Điều 36.3.TT.1.2. Nguyên tắc thành lập tổ chức thanh niên xung phong)
 
 Điều 36.3.NĐ.1.10. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001000
+1. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương do Bí thư Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh thành lập, giải thể và quản lý theo quy định tại Điều 5 Nghị định này.
 
-**ID:** dk_00060150
+2. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương gồm: Chỉ huy trưởng, không quá 3 Phó Chỉ huy trưởng và các phòng nghiệp vụ theo hướng dẫn của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
----
+3. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương có nhiệm vụ, quyền hạn sau đây:
 
+a) Giúp Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh quyết định về tổ chức, hoạt động và chính sách đối với thanh niên xung phong;
 
-### Điều 36.3.NĐ.1.11. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh
+b) Chỉ đạo, đôn đốc, kiểm tra các đơn vị thanh niên xung phong trực thuộc lực lượng thanh niên xung phong Trung ương và những đơn vị thanh niên xung phong địa phương được cơ quan có thẩm quyền ở Trung ương giao nhiệm vụ;
+
+c) Là đầu mối duy trì, bảo đảm chế độ thông tin và phối hợp thực hiện nhiệm vụ của thanh niên xung phong;
+
+d) Tổng hợp, báo cáo Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh về tổ chức, hoạt động và thực hiện chính sách đối với thanh niên xung phong.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong)
 
 Điều 36.3.NĐ.1.11. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001100
+1. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh do Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp quyết định thành lập, giải thể và quản lý theo quy định tại Điều 5 Nghị định này.
 
-**ID:** dk_00060151
+2. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh gồm: Chỉ huy trưởng, không quá 3 Phó Chỉ huy trưởng và các bộ phận nghiệp vụ theo hướng dẫn của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
----
+3. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh có nhiệm vụ, quyền hạn sau đây:
 
+a) Giúp Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp quyết định về tổ chức, hoạt động và chính sách đối với thanh niên xung phong;
 
-### Điều 36.3.NĐ.1.12. Tổng đội thanh niên xung phong
+b) Chỉ đạo, đôn đốc, hướng dẫn, kiểm tra các đơn vị thanh niên xung phong trực thuộc lực lượng thanh niên xung phong cấp tỉnh thực hiện nhiệm vụ được giao;
 
-*Nội dung chưa có sẵn*
+c) Là đầu mối duy trì, bảo đảm chế độ thông tin và phối hợp thực hiện nhiệm vụ của lực lượng thanh niên xung phong cấp tỉnh;
 
-**Chỉ mục:** 12
+d) Tổng hợp, báo cáo Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp và Ban Chỉ huy lực lượng thanh niên xung phong Trung ương về tình hình tổ chức, hoạt động và thực hiện chính sách đối với thanh niên xung phong.
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001200
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong)
 
-**ID:** dk_00060152
+Điều 36.3.NĐ.1.12. Tổng đội thanh niên xung phong
 
----
+(Điều 12 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
+1. Tổng đội thanh niên xung phong do Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp thành lập, giải thể và quản lý theo quy định tại Điều 5 Nghị định này.
 
-### Điều 36.3.NĐ.1.13. Trung tâm, Trường Giáo dục lao động xã hội
+2. Cơ cấu tổ chức của Tổng đội thanh niên xung phong gồm:
+
+a) Tổng đội trưởng và không quá 3 Phó Tổng đội trưởng;
+
+b) Các bộ phận chuyên môn kỹ thuật và trực tiếp quản lý, sử dụng thanh niên xung phong được thành lập theo hướng dẫn của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
+
+3. Tổng đội thanh niên xung phong có nhiệm vụ sau đây:
+
+a) Tham gia thực hiện chương trình, dự án phát triển kinh tế - xã hội được giao ở vùng khó khăn; góp phần xóa đói giảm nghèo, ổn định dân cư và tham gia giữ gìn an ninh quốc phòng;
+
+b) Tham gia thực hiện nhiệm vụ về phòng, chống và khắc phục hậu quả thiên tai, dịch bệnh, bảo vệ môi trường, duy trì trật tự an toàn giao thông, giữ gìn văn minh đô thị và nhiệm vụ khó khăn, đột xuất khác;
+
+c) Tổ chức sản xuất hàng hóa, cung ứng dịch vụ, chuyển giao tiến bộ khoa học kỹ thuật, đào tạo nghề gắn với tạo việc làm cho thanh niên;
+
+d) Giáo dục, rèn luyện, bồi dưỡng và chăm lo đời sống văn hóa tinh thần cho đội viên thanh niên xung phong;
+
+đ) Tổng hợp, báo cáo Ban Chỉ huy thanh niên xung phong cùng cấp về tình hình tổ chức, hoạt động và thực hiện chế độ, chính sách đối với thanh niên xung phong.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong; Điều 36.3.NĐ.1.15. Chính sách đối với đơn vị thanh niên xung phong)
 
 Điều 36.3.NĐ.1.13. Trung tâm, Trường Giáo dục lao động xã hội
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001300
+1. Trung tâm, Trường Giáo dục lao động xã hội của tổ chức thanh niên xung phong được thành lập theo quy định của pháp luật và được quản lý theo quy định tại Điều 5 Nghị định này.
 
-**ID:** dk_00060153
+2. Tổ chức của Trung tâm, Trường Giáo dục lao động xã hội gồm:
 
----
+a) Giám đốc và không quá 03 Phó Giám đốc;
 
+b) Các bộ phận chuyên môn, nghiệp vụ được thành lập theo hướng dẫn của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
-### Điều 36.3.NĐ.1.14. Doanh nghiệp
+3. Trung tâm, Trường Giáo dục lao động xã hội của tổ chức thanh niên xung phong có nhiệm vụ, quyền hạn sau đây:
 
-*Nội dung chưa có sẵn*
+a) Tiếp nhận, điều trị, giáo dục, dạy nghề và tạo việc làm cho thanh niên nghiện ma túy, thanh niên sau cai nghiện ma túy theo quy định của pháp luật;
 
-**Chỉ mục:** 14
+b) Bồi dưỡng nghiệp vụ cho cán bộ làm công tác quản lý thanh niên xung phong và dạy nghề cho đội viên thanh niên xung phong;
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001400
+c) Tổng hợp, báo cáo Ban Chỉ huy thanh niên xung phong cùng cấp về tình hình tổ chức, hoạt động và thực hiện chính sách đối với thanh niên xung phong.
 
-**ID:** dk_00060154
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong; Điều 36.3.NĐ.1.15. Chính sách đối với đơn vị thanh niên xung phong)
 
----
+Điều 36.3.NĐ.1.14. Doanh nghiệp
 
+(Điều 14 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-### Điều 36.3.NĐ.1.15. Chính sách đối với đơn vị thanh niên xung phong
+1. Doanh nghiệp của tổ chức thanh niên xung phong được thành lập và hoạt động theo quy định của Luật Doanh nghiệp.
+
+2. Doanh nghiệp của tổ chức thanh niên xung phong có trách nhiệm tạo điều kiện để đội viên thanh niên xung phong đã hoàn thành nhiệm vụ hoặc người sau cai nghiện ma túy được tiếp nhận vào việc làm tại doanh nghiệp.
 
 Điều 36.3.NĐ.1.15. Chính sách đối với đơn vị thanh niên xung phong
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001500
+1. Tổng đội thanh niên xung phong được hưởng các chính sách sau đây:
 
-**ID:** dk_00060155
+a) Nhà nước cấp kinh phí để thực hiện các chương trình, dự án phát triển kinh tế - xã hội tương ứng với nhiệm vụ được giao; đảm bảo cho các hoạt động thường xuyên của bộ máy quản lý quy định tại khoản 2 Điều 12 Nghị định này theo quy định của pháp luật;
 
----
+b) Được Nhà nước giao quyền sử dụng đất, giao rừng và được miễn, giảm thuế sử dụng đất trong thời gian thực hiện dự án theo quy định của pháp luật;
 
+c) Được quyền vay vốn tín dụng ưu đãi để sản xuất và được ủy thác vay vốn của Ngân hàng Chính sách xã hội cho đội viên thanh niên xung phong thuộc tổng đội để sản xuất, cung ứng dịch vụ theo quy định của pháp luật.
 
-### Điều 36.3.NĐ.1.19. Kinh phí thực hiện chính sách đối với thanh niên xung phong
+2. Trung tâm, Trường Giáo dục lao động xã hội của tổ chức thanh niên xung phong được hưởng các chính sách sau đây:
+
+a) Được hưởng chính sách ưu đãi đối với hoạt động cai nghiện ma túy và giải quyết việc làm cho người sau cai nghiện; hoạt động dạy nghề và dịch vụ việc làm theo quy định của pháp luật;
+
+b) Nhà nước đảm bảo cho các hoạt động thường xuyên của bộ máy quản lý quy định tại khoản 2 Điều 13 Nghị định này theo quy định của pháp luật.
+
+3. Doanh nghiệp thuộc tổ chức thanh niên xung phong sản xuất, cung ứng các sản phẩm, dịch vụ công ích do Nhà nước giao được cấp kinh phí tương ứng và được hưởng các cơ chế, chính sách, ưu đãi khác theo quy định của pháp luật.
+
+Doanh nghiệp thuộc tổ chức thanh niên xung phong tiếp nhận đội viên thanh niên xung phong sau khi hoàn thành nhiệm vụ hoặc thanh niên sau cai nghiện ma túy được hưởng các chính sách quy định tại điểm b, điểm c khoản 1 Điều 15 Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.12. Tổng đội thanh niên xung phong; Điều 36.3.NĐ.1.13. Trung tâm, Trường Giáo dục lao động xã hội)
 
 Điều 36.3.NĐ.1.19. Kinh phí thực hiện chính sách đối với thanh niên xung phong
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402389100120001900
+1. Nhà nước bảo đảm hoạt động thường xuyên của Ban Chỉ huy lực lượng thanh niên xung phong, trang phục và các hình thức ghi nhận thanh niên xung phong quy định tại Điều 8 Nghị định này.
 
-**ID:** dk_00060156
+2. Nhà nước hỗ trợ kinh phí hoạt động đối với các Tổng đội thanh niên xung phong, Trung tâm, Trường Giáo dục lao động xã hội của thanh niên xung phong theo quy định hiện hành đối với đơn vị sự nghiệp công lập.
 
----
-
-
-### Điều 36.3.TL.1.2. Nguyên tắc bố trí kinh phí hoạt động thường xuyên từ nguồn ngân sách nhà nước đối với tổ chức thanh niên xung phong
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.1.8. Trang phục và các hình thức ghi nhận thanh niên xung phong của Nghị định 12/2011/NĐ-CP Về tổ chức và chính sách đối với thanh niên xung phong ban hành ngày 30/01/2011; Điều 36.3.TL.1.1. Phạm vi và đối tượng áp dụng)
 
 Điều 36.3.TL.1.2. Nguyên tắc bố trí kinh phí hoạt động thường xuyên từ nguồn ngân sách nhà nước đối với tổ chức thanh niên xung phong
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư liên tịch số 119/2013/TTLT-BTC-BNV, có hiệu lực thi hành kể từ ngày 15/10/2013)
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000190000802483001190000200
+ 1. Kinh phí hoạt động thường xuyên của Ban Chỉ huy lực lượng thanh niên xung phong các cấp do ngân sách nhà nước đảm bảo theo phân cấp ngân sách hiện hành được xác định trên cơ sở biên chế được cơ quan có thẩm quyền giao hàng năm, định mức phân bổ chi quản lý hành chính và các khoản chi khác theo quy định; được bố trí trong dự toán chi ngân sách nhà nước hàng năm của Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp.
 
-**ID:** dk_00060157
+ 2. Nhà nước hỗ trợ kinh phí hoạt động thường xuyên đối với các Tổng đội thanh niên xung phong, Trung tâm, Trường Giáo dục lao động xã hội của thanh niên xung phong theo quy định hiện hành đối với đơn vị sự nghiệp công lập. Phần kinh phí được ngân sách nhà nước hỗ trợ (nếu có) được bố trí trong dự toán chi ngân sách nhà nước hàng năm của Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp.
 
----
+ 3. Việc bảo đảm kinh phí đối với Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh, hỗ trợ kinh phí hỗ trợ đối với các Tổng đội thanh niên xung phong, Trung tâm, Trường Giáo dục lao động xã hội của thanh niên xung phong được thành lập trước ngày Nghị định số 12/2011/NĐ-CP ngày 30/1/2011 của Chính phủ có hiệu lực thi hành do Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định theo nội dung chi và mức chi quy định tại Thông tư này.Điều 36.3.TL.1.3. Nội dung chi của các tổ chức thanh niên xung phong
 
+(Điều 3 Thông tư liên tịch số 119/2013/TTLT-BTC-BNV, có hiệu lực thi hành kể từ ngày 15/10/2013)
 
-### Điều 36.3.TL.1.3. Nội dung chi của các tổ chức thanh niên xung phong
+ 1. Nội dung chi của Ban Chỉ huy lực lượng thanh niên xung phong các cấp:
 
-Điều 36.3.TL.1.3. Nội dung chi của các tổ chức thanh niên xung phong
+ a) Chi tiền lương, các khoản phụ cấp và các khoản đóng góp cho Chỉ huy trưởng, các Phó Chỉ huy trưởng và cán bộ bộ phận nghiệp vụ không phải là cán bộ kiêm nhiệm theo hướng dẫn của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh được quy định trong quyết định về quy chế tổ chức và hoạt động của Ban Chỉ huy lực lượng thanh niên xung phong của tổ chức Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp.
 
-**Chỉ mục:** 3
+ b) Chi tiền công thuê lao động (nếu có).
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000190000802483001190000300
+ c) Chi tổ chức hội nghị sơ kết, tổng kết; chi công tác phí; chi thanh toán dịch vụ công cộng; chi mua vật tư văn phòng; chi thông tin, tuyên truyền, liên lạc; chi thuê mướn phục vụ hoạt động của tổ chức.
 
-**ID:** dk_00060158
+ d) Chi đào tạo, bồi dưỡng cán bộ cho cán bộ làm công tác quản lý thanh niên xung phong của Ban Chỉ huy lực lượng thanh niên xung phong các cấp.
 
----
+ đ) Chi khen thưởng cho cán bộ làm công tác quản lý thanh niên xung phong và các đội viên có thành tích hoàn thành xuất sắc nhiệm vụ được giao.
 
+ e) Chi trang phục cho Chỉ huy trưởng, các Phó Chỉ huy trưởng và bộ phận nghiệp vụ được quy định trong quyết định định về quy chế tổ chức và hoạt động của Ban Chỉ huy lực lượng thanh niên xung phong của tổ chức Đoàn Thanh niên Cộng sản Hồ Chí Minh cùng cấp theo quy định của cấp có thẩm quyền.
 
-### Điều 36.3.TL.1.4. Mức chi
+ g) Chi làm thẻ đội viên thanh niên xung phong, Giấy chứng nhận hoàn thành nhiệm vụ thanh niên xung phong, Kỷ niệm chương thanh niên xung phong đối với đội viên và cán bộ làm công tác quản lý thanh niên xung phong trực thuộc lực lượng thanh niên xung phong cùng cấp theo quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
-*Nội dung chưa có sẵn*
+ h) Chi tiền trợ cấp một lần và tiền tàu xe đi đường đối với các cán bộ làm công tác quản lý thanh niên xung phong làm nhiệm vụ ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn sau khi hoàn thành nhiệm vụ trở về địa phương.
 
-**Chỉ mục:** 4
+ i) Chi mua sắm, sửa chữa thường xuyên tài sản.
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000190000802483001190000400
+ k) Các khoản chi khác theo quy định.
 
-**ID:** dk_00060159
+ 2. Nội dung chi của các tổ chức thanh niên xung phong là Tổng đội thanh niên xung phong hoặc Trung tâm, Trường Giáo dục lao động xã hội:
 
----
+ a) Chi tiền lương, các khoản phụ cấp và các khoản đóng góp cho biên chế sự nghiệp được cấp có thẩm quyền giao.
 
+ b) Chi tiền công, sinh hoạt phí (nếu có) cho đội viên thanh niên xung phong.
 
-### Điều 36.3.TL.1.5. Lập dự toán, quản lý và quyết toán kinh phí:
+ c) Chi công tác phí; chi thanh toán dịch vụ công cộng; chi mua vật tư văn phòng; chi thông tin, tuyên truyền, liên lạc; chi thuê mướn phục vụ hoạt động của tổ chức.
 
-Điều 36.3.TL.1.5. Lập dự toán, quản lý và quyết toán kinh phí:
+ d) Chi tổ chức hội nghị sơ kết, tổng kết hàng năm hoặc theo chương trình, dự án.
 
-**Chỉ mục:** 5
+ đ) Chi đào tạo, bồi dưỡng nâng cao nghiệp vụ cho đội ngũ cán bộ làm công tác quản lý thanh niên xung phong.
 
-**Mã phân cấp:** 36003000000000003000022000000000000000000040238910012000190000802483001190000500
+ e) Chi khen thưởng cho cán bộ làm công tác quản lý thanh niên xung phong và các đội viên có thành tích xuất sắc trong thực hiện nhiệm vụ và các thành tích tiêu biểu khác.
 
-**ID:** dk_00060160
+ g) Chi trang phục cho cán bộ quản lý và đội viên theo quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
----
+ h) Chi tập huấn, huấn luyện đội viên mới tham gia.
 
+ i) Chi làm thẻ đội viên thanh niên xung phong, Giấy chứng nhận hoàn thành nhiệm vụ thanh niên xung phong đối với đội viên và cán bộ quản lý thanh niên xung phong theo quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
-### Điều 36.3.NĐ.3.3. Nhiệm vụ của thanh niên xung phong và thanh niên tình nguyện
+ k) Chi trợ cấp 1 lần và tiền tàu xe đi đường khi hoàn thành nhiệm vụ trở về địa phương đối với cán bộ quản lý thanh niên xung phong và đội viên thanh niên xung phong làm nhiệm vụ ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 
-Điều 36.3.NĐ.3.3. Nhiệm vụ của thanh niên xung phong và thanh niên tình nguyện
+ l) Chi thanh toán dịch vụ công cộng; chi mua vật tư văn phòng; chi thông tin, tuyên truyền, liên lạc.
 
-**Chỉ mục:** 3
+ m) Chi mua sắm, sửa chữa thường xuyên tài sản.
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170000300
+ n) Các khoản chi khác theo quy định.Điều 36.3.TL.1.4. Mức chi
 
-**ID:** dk_00060161
+(Điều 4 Thông tư liên tịch số 119/2013/TTLT-BTC-BNV, có hiệu lực thi hành kể từ ngày 15/10/2013)
 
----
+ 1. Các nội dung chi nêu trên được thực hiện theo mức chi hiện hành đối với nguồn kinh phí cấp từ ngân sách nhà nước. Tùy khả năng kinh phí của từng địa phương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương báo cáo Hội đồng nhân dân để quyết định các chính sách hỗ trợ cho tổ chức thanh niên xung phong, cán bộ quản lý thanh niên xung phong và đội viên thanh niên xung phong trên địa bàn cho phù hợp với tình hình thực tế.
 
+ 2. Thông tư quy định một số mức chi cụ thể như sau:
 
-### Điều 36.3.NĐ.3.4. Nguyên tắc thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện
+ a) Về chế độ tiền công, sinh hoạt phí, trợ cấp đối với đội viên thanh niên xung phong:
+
+ - Đội viên thanh niên xung phong được hưởng tiền công và các chế độ, chính sách bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định của pháp luật hiện hành và được thể hiện trong hợp đồng lao động. Mức tiền công được xác định theo giá tiền công lao động thực tế tại địa phương do Sở Lao động – Thương binh và Xã hội phối hợp với Sở Tài chính trình Ủy ban nhân dân cấp tỉnh quy định;
+
+ - Đối với đội viên thanh niên xung phong làm nhiệm vụ ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định tại khoản 2 Điều 1 Nghị định số 116/2010/NĐ-CP ngày 24/12/2010 của Chính phủ, ngoài các chế độ quy định tại Điều 16 Nghị định số 12/2011/NĐ-CP ngày 30/1/2011 của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong, được hưởng thêm các chế độ sau:
+
+ + Được hưởng sinh hoạt phí 06 tháng đầu, kể từ khi tham gia thanh niên xung phong. Mỗi tháng làm việc được hưởng mức sinh hoạt phí bằng 01 lần mức lương tối thiểu chung theo quy định của pháp luật;
+
+ + Sau khi hoàn thành nhiệm vụ tại đơn vị thanh niên xung phong, nếu đội viên thanh niên xung phong trở về địa phương, được cấp tiền tàu xe đi đường, bao gồm: Tiền phương tiện vận tải (trừ phương tiện máy bay) của tổ chức, cá nhân kinh doanh vận tải hành khách theo quy định của pháp luật, gồm: tiền phương tiện từ đơn vị thanh niên xung phong đến ga tàu, bến xe; vé tàu, xe vận chuyển đến địa phương nơi cư trú;
+
+ Mức thanh toán: Theo giá ghi trên vé, hóa đơn mua vé (giá vé không bao gồm các chi phí dịch vụ khác như: tham quan du lịch, các dịch vụ đặc biệt theo yêu cầu). Trường hợp đội viên thanh niên xung phong sử dụng phương tiện là máy bay khi có vé hợp pháp sẽ được thanh toán tối đa theo giá cước vận tải khách công cộng bằng phương tiện đường bộ, đường sắt, đường thủy phù hợp với tuyến đường từ đơn vị thanh niên xung phong đến địa phương nơi cư trú.
+
+ Đối với những đoạn đường không có phương tiện vận tải của tổ chức, cá nhân kinh doanh vận tải hành khách theo quy định của pháp luật mà đội viên thanh niên xung phong phải thuê phương tiện vận tải khác thì thủ trưởng cơ quan, đơn vị xem xét quyết định cho thanh toán tiền thuê phương tiện mà đội viên thanh niên xung phong đã thuê trên cơ sở hợp đồng thuê phương tiện hoặc giấy biên nhận thanh toán với chủ phương tiện theo số ki-lô-mét thực đi và đơn giá khoán được quy định trong quy chế chi tiêu nội bộ của cơ quan, đơn vị.
+
+ Nếu đội viên thanh niên xung phong tự túc bằng phương tiện cá nhân của mình thì được thanh toán khoán tiền tự túc phương tiện theo số ki-lô-mét thực đi, tương ứng với mức giá vận tải phổ biến của loại phương tiện công cộng tại địa phương nhưng không vượt quá mức khoán tiền tự túc phương tiện khi đi công tác và phải được quy định trong quy chế chi tiêu nội bộ của cơ quan, đơn vị;
+
+ + Sau khi hoàn thành nhiệm vụ tại đơn vị thanh niên xung phong, đội viên thanh niên xung phong được hưởng trợ cấp 01 lần theo mức mỗi năm làm việc trong tổ chức thanh niên xung phong bằng 01 tháng tiền công hoặc tiền lương đang được hưởng. Trường hợp không đủ 01 năm (12 tháng) nếu thời gian làm việc từ 01 tháng đến đủ 06 tháng thì hưởng 1/2 tháng tiền công, nếu thời gian làm việc trên 06 tháng thì được tính 01 tháng tiền công.
+
+ Việc thanh toán tiền trợ cấp một lần và tiền tàu xe về địa phương nêu trên thực hiện trước khi cán bộ làm công tác quản lý thanh niên xung phong và các đội viên thanh niên xung phong trở về địa phương.
+
+ b) Về chế độ tiền lương, phụ cấp, sinh hoạt phí và trợ cấp đối với cán bộ quản lý thanh niên xung phong:
+
+ - Được hưởng chế độ tiền lương chung theo quy định của pháp luật áp dụng đối với cán bộ, công chức, viên chức;
+
+ - Cán bộ làm công tác quản lý thanh niên xung phong ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định tại khoản 2 Điều 1 Nghị định số 116/2010/NĐ-CP ngày 24/12/2010 của Chính phủ, được hưởng các chế độ, chính sách về sinh hoạt phí và trợ cấp như đội viên thanh niên xung phong làm nhiệm vụ ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn quy định tại điểm a khoản 2 điều này.
+
+ c) Về tiêu chuẩn trang phục đối với đội viên thanh niên xung phong và cán bộ quản lý thanh niên xung phong: Thực hiện theo quy định của cơ quan có thẩm quyền.Điều 36.3.TL.1.5. Lập dự toán, quản lý và quyết toán kinh phí:
+
+(Điều 5 Thông tư liên tịch số 119/2013/TTLT-BTC-BNV, có hiệu lực thi hành kể từ ngày 15/10/2013)
+
+ Việc lập dự toán, quản lý và quyết toán kinh phí thực hiện chính sách đối với các tổ chức thanh niên xung phong thực hiện theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn.Điều 36.3.NĐ.3.3. Nhiệm vụ của thanh niên xung phong và thanh niên tình nguyện
+
+(Điều 3 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
+
+1. Thanh niên xung phong thực hiện các nhiệm vụ theo quy định tại khoản 2 Điều 22 Luật Thanh niên.
+
+2. Thanh niên tình nguyện thực hiện các nhiệm vụ sau:
+
+a) Tham gia chương trình, đề án, dự án phát triển kinh tế - xã hội được cấp có thẩm quyền phê duyệt do cá nhân tự nguyện đăng ký với cơ quan chủ trì thực hiện và có thời hạn từ 24 tháng trở lên (sau đây gọi là thanh niên tình nguyện tham gia chương trình, đề án, dự án);
+
+b) Tham gia hoạt động tình nguyện vì lợi ích của cộng đồng và xã hội do cá nhân tự nguyện đăng ký với cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội (sau đây gọi là thanh niên tình nguyện vì cộng đồng, xã hội).
+
+(Điều này có nội dung liên quan đến Điều 36.3.LQ.22. Chính sách đối với thanh niên xung phong)
 
 Điều 36.3.NĐ.3.4. Nguyên tắc thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170000400
+1. Bảo đảm công khai, minh bạch, kịp thời, đúng quy định của pháp luật.
 
-**ID:** dk_00060162
+2. Chính phủ và chính quyền địa phương tạo điều kiện để thanh niên tham gia tổ chức thanh niên xung phong, hoạt động tình nguyện theo quy định của pháp luật.
 
----
+3. Chính phủ, chính quyền địa phương, Đoàn Thanh niên Cộng sản Hồ Chí Minh và các tổ chức thanh niên được thành lập theo quy định của pháp luật tôn vinh, biểu dương, ghi nhận hoặc đề xuất cấp có thẩm quyền khen thưởng thanh niên xung phong có thành tích trong thực hiện nhiệm vụ; thanh niên tình nguyện có nhiều cống hiến, đóng góp cho hoạt động tình nguyện.
 
-
-### Điều 36.3.NĐ.3.5. Kinh phí thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện
+4. Cơ quan, tổ chức, cá nhân chịu trách nhiệm trước pháp luật khi không thực hiện hoặc thực hiện không đúng trách nhiệm theo quy định tại Nghị định này.
 
 Điều 36.3.NĐ.3.5. Kinh phí thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170000500
+1. Đối với thanh niên xung phong
 
-**ID:** dk_00060163
+a) Kinh phí thực hiện chính sách đối với thanh niên xung phong do ngân sách nhà nước bảo đảm theo phân cấp ngân sách nhà nước hiện hành tại Luật Ngân sách nhà nước để thực hiện nhiệm vụ được cấp có thẩm quyền giao;
 
----
+b) Nhà nước bảo đảm điều kiện về kinh phí, cơ sở vật chất và trang thiết bị cần thiết cho tổ chức thanh niên xung phong khi thực hiện nhiệm vụ được Nhà nước giao theo quy định hiện hành về phân cấp ngân sách nhà nước.
 
+2. Đối với thanh niên tình nguyện
 
-### Điều 36.3.NĐ.3.6. Chính sách đối với đội viên thanh niên xung phong trong quá trình thực hiện nhiệm vụ
+a) Kinh phí thực hiện chính sách đối với thanh niên tình nguyện tham gia chương trình, đề án, dự án do ngân sách nhà nước bảo đảm trong chương trình, đề án, dự án được cấp có thẩm quyền phê duyệt theo phân cấp ngân sách nhà nước hiện hành tại Luật Ngân sách nhà nước;
+
+b) Kinh phí thực hiện chính sách đối với thanh niên tình nguyện vì cộng đồng, xã hội do cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội tự trang trải hoặc huy động từ các nguồn ủng hộ, tài trợ và đóng góp hợp pháp khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 26.3.LQ.1. Phạm vi điều chỉnh)
 
 Điều 36.3.NĐ.3.6. Chính sách đối với đội viên thanh niên xung phong trong quá trình thực hiện nhiệm vụ
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170000600
+1. Được hưởng đầy đủ chế độ, chính sách đối với người lao động theo quy định của pháp luật về lao động, pháp luật về bảo hiểm xã hội, bảo hiểm y tế.
 
-**ID:** dk_00060164
+2. Được cấp trang phục thanh niên xung phong tối thiểu mỗi năm 02 bộ, thẻ đội viên thanh niên xung phong.
 
----
+3. Được tạo điều kiện học tập nâng cao trình độ học vấn, lý luận chính trị, chuyên môn, nghề nghiệp; tham gia các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí theo quy định của pháp luật.
 
+4. Được tham gia hoạt động đoàn thể; được bồi dưỡng, xét kết nạp vào Đoàn Thanh niên Cộng sản Hồ Chí Minh, xét kết nạp vào Đảng Cộng sản Việt Nam theo quy định của Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Điều lệ Đảng Cộng sản Việt Nam.
 
-### Điều 36.3.NĐ.3.7. Chính sách đối với đội viên thanh niên xung phong sau khi hoàn thành nhiệm vụ
+5. Được ưu tiên vay vốn tại Ngân hàng Chính sách xã hội theo quy định hiện hành.
+
+6. Đội viên thanh niên xung phong có hành động dũng cảm bị chết hoặc bị thương thuộc một trong các trường hợp theo quy định của pháp luật về ưu đãi người có công với cách mạng thì được tổ chức thanh niên xung phong đề nghị cơ quan có thẩm quyền xem xét, công nhận là liệt sĩ hoặc quyết định được hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.
+
+7. Đội viên thanh niên xung phong đang làm việc trong tổ chức thanh niên xung phong nếu bị chết thì được hưởng trợ cấp mai táng theo quy định của pháp luật về bảo hiểm xã hội và được tổ chức thanh niên xung phong hỗ trợ phương tiện đưa về quê quán hoặc gia đình nếu có yêu cầu của thân nhân.
+
+8. Đội viên thanh niên xung phong có thời gian làm việc đủ 24 tháng trong tổ chức thanh niên xung phong thì được Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh tặng Kỷ niệm chương thanh niên xung phong. Trường hợp thời gian tham gia tổ chức thanh niên xung phong ở các đợt khác nhau hoặc gián đoạn thì được cộng dồn.
+
+9. Đội viên thanh niên xung phong có công trạng, thành tích trong thực hiện nhiệm vụ được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.
+
+10. Đội viên thanh niên xung phong làm nhiệm vụ ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật thì được hưởng thêm các chính sách sau:
+
+a) Được hỗ trợ một khoản sinh hoạt phí 06 tháng đầu kể từ khi làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn. Mỗi tháng làm việc được hưởng mức sinh hoạt phí bằng 01 lần mức lương cơ sở theo quy định của pháp luật;
+
+b) Được tạm hoãn hoặc miễn gọi nhập ngũ theo quy định của Luật Nghĩa vụ quân sự.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.8. Chính sách đối với người làm công tác lãnh đạo, quản lý, chuyên môn, kỹ thuật trong tổ chức thanh niên xung phong)
 
 Điều 36.3.NĐ.3.7. Chính sách đối với đội viên thanh niên xung phong sau khi hoàn thành nhiệm vụ
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170000700
+1. Được tổ chức thanh niên xung phong cấp Giấy chứng nhận hoàn thành nhiệm vụ.
 
-**ID:** dk_00060165
+2. Được ưu tiên khi tham gia tuyển dụng công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức.
 
----
+3. Trường hợp có nguyện vọng ở lại định cư, lập nghiệp tại các địa phương là vùng đồng bào dân tộc thiểu số và miền núi, vùng sâu, vùng xa, biên giới, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì được áp dụng các chính sách của Nhà nước về phát triển kinh tế - xã hội theo địa bàn nơi định cư.
 
+4. Trường hợp thực hiện nhiệm vụ tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật thì được hưởng thêm các chính sách sau:
 
-### Điều 36.3.NĐ.3.8. Chính sách đối với người làm công tác lãnh đạo, quản lý, chuyên môn, kỹ thuật trong tổ chức thanh niên xung phong
+a) Trợ cấp 01 lần theo mức mỗi năm làm việc trong tổ chức thanh niên xung phong tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bằng 01 tháng tiền công hiện hưởng. Trường hợp không đủ 01 năm (12 tháng) nếu thời gian làm việc từ 01 tháng đến đủ 06 tháng thì hưởng 1/2 tháng tiền công, nếu thời gian làm việc trên 06 tháng thì được tính 01 tháng tiền công;
+
+b) Được miễn gọi nhập ngũ theo quy định của Luật Nghĩa vụ quân sự;
+
+c) Được cấp tiền tàu xe đi đường khi trở về địa phương.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.8. Chính sách đối với người làm công tác lãnh đạo, quản lý, chuyên môn, kỹ thuật trong tổ chức thanh niên xung phong)
 
 Điều 36.3.NĐ.3.8. Chính sách đối với người làm công tác lãnh đạo, quản lý, chuyên môn, kỹ thuật trong tổ chức thanh niên xung phong
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170000800
+1. Cán bộ, công chức, viên chức khi được bổ nhiệm, điều động, luân chuyển làm công tác lãnh đạo, quản lý trong tổ chức thanh niên xung phong được hưởng các chế độ, chính sách theo quy định của pháp luật về cán bộ, công chức, viên chức; đồng thời được hưởng các chính sách khác như đội viên thanh niên xung phong quy định tại khoản 2, khoản 8, khoản 9 Điều 6 và khoản 1 Điều 7 Nghị định này. Trường hợp công tác tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật thì được hưởng thêm chế độ, chính sách về sinh hoạt phí và trợ cấp như đội viên thanh niên xung phong quy định tại khoản 10 Điều 6 và khoản 4 Điều 7 Nghị định này.
 
-**ID:** dk_00060166
+2. Người được tuyển dụng, hợp đồng để thực hiện các nhiệm vụ quản lý, chuyên môn, kỹ thuật thì hưởng chính sách theo quy định của pháp luật về viên chức, pháp luật về lao động và một số chính sách áp dụng đối với người làm lãnh đạo, quản lý thanh niên xung phong theo thỏa thuận với tổ chức thanh niên xung phong.
 
----
+3. Người tham gia tổ chức thanh niên xung phong đáp ứng đủ tiêu chuẩn, điều kiện theo quy định thì được xem xét, đưa vào quy hoạch các chức danh lãnh đạo, quản lý tại chỗ hoặc giới thiệu ứng cử vào các chức danh thuộc tổ chức chính trị, tổ chức chính trị - xã hội và chính quyền địa phương ở địa phương hoặc cơ quan, đơn vị khác.
 
-
-### Điều 36.3.NĐ.3.14. Trách nhiệm của người tham gia tổ chức thanh niên xung phong
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.6. Chính sách đối với đội viên thanh niên xung phong trong quá trình thực hiện nhiệm vụ; Điều 36.3.NĐ.3.7. Chính sách đối với đội viên thanh niên xung phong sau khi hoàn thành nhiệm vụ)
 
 Điều 36.3.NĐ.3.14. Trách nhiệm của người tham gia tổ chức thanh niên xung phong
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 17/2021/NĐ-CP Quy định về chính sách đối với thanh niên xung phong, thanh niên tình nguyện ngày 09/03/2021 của Chính phủ, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170001400
+1. Chấp hành quy định của pháp luật, nội quy, quy định của tổ chức thanh niên xung phong và phong tục, tập quán của địa phương nơi thực hiện nhiệm vụ.
 
-**ID:** dk_00060167
+2. Thực hiện nhiệm vụ theo phân công của tổ chức thanh niên xung phong.
 
----
-
-
-### Điều 36.3.NĐ.3.16. Trách nhiệm của tổ chức thanh niên xung phong
+3. Trường hợp tự ý bỏ việc khi chưa đủ thời gian làm việc theo cam kết thì phải bồi thường kinh phí hỗ trợ ban đầu, trang thiết bị và các chi phí khác có liên quan.
 
 Điều 36.3.NĐ.3.16. Trách nhiệm của tổ chức thanh niên xung phong
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000220000000000000000000402758200170001600
+1. Tổ chức tuyển chọn đội viên thanh niên xung phong vào làm nhiệm vụ tại đơn vị bảo đảm theo quy định của pháp luật.
 
-**ID:** dk_00060168
+2. Thực hiện việc ký kết hợp đồng lao động, hợp đồng làm việc và bảo đảm chính sách về tiền lương, tiền công, phụ cấp (nếu có), các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định của pháp luật về lao động, pháp luật về viên chức đối với đội viên thanh niên xung phong và người làm công tác lãnh đạo, quản lý, chuyên môn, kỹ thuật trong tổ chức thanh niên xung phong.
 
----
+3. Cung cấp trang thiết bị làm việc, trang phục thanh niên xung phong, thẻ đội viên thanh niên xung phong, phương tiện bảo hộ cá nhân cần thiết, phù hợp với yêu cầu nhiệm vụ của thanh niên xung phong; bảo đảm an toàn cho thanh niên xung phong tham gia thực hiện nhiệm vụ.
 
+4. Giáo dục, rèn luyện, bồi dưỡng kiến thức, kỹ năng làm việc cho thanh niên xung phong trong quá trình thực hiện nhiệm vụ; cấp Giấy chứng nhận hoàn thành nhiệm vụ cho thanh niên xung phong theo mẫu quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
 
-### Điều 36.3.LQ.23. Chính sách đối với thanh niên tình nguyện
+5. Tổ chức các hoạt động đoàn thể; bồi dưỡng, xét kết nạp vào Đoàn Thanh niên Cộng sản Hồ Chí Minh, xét kết nạp vào Đảng Cộng sản Việt Nam theo quy định của Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Điều lệ Đảng Cộng sản Việt Nam.
 
 Điều 36.3.LQ.23. Chính sách đối với thanh niên tình nguyện
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000300002300000000000000000
+ 1. Thanh niên tình nguyện là thanh niên tự nguyện tham gia hoạt động vì lợi ích của cộng đồng, xã hội phù hợp với quy định của pháp luật.
 
-**ID:** dk_00060169
+ 2. Nhà nước ban hành chính sách đối với thanh niên tình nguyện như sau:
 
----
+ a) Tạo lập các kênh thông tin để thanh niên được tiếp cận và tham gia hoạt động tình nguyện;
 
+ b) Xây dựng chương trình, dự án đưa thanh niên tình nguyện về làm việc tại các vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, biên giới, hải đảo;
 
-### Điều 36.3.NĐ.3.9. Chính sách đối với thanh niên tình nguyện trong quá trình thực hiện chương trình, đề án, dự án
+ c) Khuyến khích tổ chức, cá nhân hỗ trợ thanh niên tham gia hoạt động tình nguyện vì lợi ích của cộng đồng, xã hội.
 
-Điều 36.3.NĐ.3.9. Chính sách đối với thanh niên tình nguyện trong quá trình thực hiện chương trình, đề án, dự án
+ 3. Chính phủ quy định chi tiết Điều này.Điều 36.3.NĐ.3.9. Chính sách đối với thanh niên tình nguyện trong quá trình thực hiện chương trình, đề án, dự án
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170000900
+1. Được cơ quan, tổ chức có thẩm quyền ký hợp đồng lao động; được hưởng đầy đủ chế độ, chính sách đối với người lao động theo quy định của pháp luật về lao động, pháp luật về bảo hiểm xã hội, bảo hiểm y tế.
 
-**ID:** dk_00060170
+2. Được hưởng các chế độ tiền lương hoặc tiền công, phụ cấp, trợ cấp, công tác phí và chế độ, chính sách khác quy định trong chương trình, đề án, dự án đã được cấp có thẩm quyền phê duyệt.
 
----
+3. Được trang bị phương tiện làm việc và phương tiện bảo hộ cá nhân cần thiết, bảo đảm an toàn, phù hợp với yêu cầu nhiệm vụ hoạt động tình nguyện.
 
+4. Được đào tạo, bồi dưỡng nâng cao kiến thức và các kỹ năng cần thiết trong quá trình thực hiện nhiệm vụ được giao.
 
-### Điều 36.3.NĐ.3.10. Chính sách đối với thanh niên tình nguyện sau khi kết thúc chương trình, đề án, dự án
+5. Được phân công, giao nhiệm vụ phù hợp với trình độ chuyên môn được đào tạo và nhu cầu bố trí, sử dụng thanh niên tình nguyện.
+
+6. Được tham gia hoạt động đoàn thể; được bồi dưỡng, xét kết nạp vào Đoàn Thanh niên Cộng sản Hồ Chí Minh, xét kết nạp vào Đảng Cộng sản Việt Nam theo quy định của Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Điều lệ Đảng Cộng sản Việt Nam.
+
+7. Được chính quyền địa phương, đơn vị nơi diễn ra hoạt động tình nguyện tạo điều kiện về nơi ở; tham gia các hoạt động chính trị, văn hóa, xã hội tại địa phương.
+
+8. Được cấp ủy, chính quyền địa phương, đơn vị nơi diễn ra hoạt động tình nguyện xem xét, tạo nguồn cán bộ lãnh đạo, quản lý phù hợp với quy hoạch cán bộ lãnh đạo, quản lý của địa phương.
+
+9. Đối với các chương trình, đề án, dự án phát triển kinh tế - xã hội của thanh niên tình nguyện được cấp ủy, chính quyền địa phương, đơn vị nơi diễn ra hoạt động tình nguyện đánh giá có hiệu quả, tính khả thi cao thì được chính quyền địa phương xem xét, hỗ trợ tổ chức triển khai thực hiện.
+
+10. Thanh niên tình nguyện có hành động dũng cảm bị chết hoặc bị thương thuộc một trong các trường hợp theo quy định của pháp luật về ưu đãi người có công với cách mạng thì được Ủy ban nhân dân cấp xã nơi diễn ra hoạt động tình nguyện đề nghị cơ quan có thẩm quyền xem xét, công nhận là liệt sĩ hoặc quyết định được hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.
+
+11. Thanh niên tham gia hoạt động tình nguyện bị chết thì được hưởng tiền trợ cấp mai táng theo quy định của pháp luật về bảo hiểm xã hội, được chính quyền địa phương nơi diễn ra hoạt động tình nguyện hỗ trợ phương tiện đưa về quê quán hoặc gia đình theo yêu cầu của thân nhân.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.17. Trách nhiệm của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện)
 
 Điều 36.3.NĐ.3.10. Chính sách đối với thanh niên tình nguyện sau khi kết thúc chương trình, đề án, dự án
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001000
+1. Được chính quyền địa phương nơi diễn ra hoạt động tình nguyện cấp Giấy chứng nhận tham gia hoạt động tình nguyện theo thẩm quyền.
 
-**ID:** dk_00060171
+2. Được cấp có thẩm quyền, đơn vị nơi diễn ra hoạt động tình nguyện xem xét, quy hoạch, đào tạo và bố trí sử dụng nếu hoàn thành tốt nhiệm vụ trở lên trong thời gian hoạt động tình nguyện và có nhu cầu tiếp tục ở lại địa phương công tác.
 
----
+3. Được hỗ trợ một lần bằng một nửa tiền lương hoặc tiền công tháng hiện hưởng sau khi hoàn thành nhiệm vụ được giao.
 
+4. Được hưởng chính sách hỗ trợ đào tạo nghề gắn với tạo việc làm theo quy định của pháp luật.
 
-### Điều 36.3.NĐ.3.11. Chính sách đối với thanh niên tình nguyện trong quá trình hoạt động tình nguyện
+5. Thanh niên tình nguyện có nguyện vọng ở lại định cư, lập nghiệp tại các địa phương là vùng đồng bào dân tộc thiểu số và miền núi, vùng sâu, vùng xa, biên giới, hải đảo, vùng có điều kiện kinh tế - xã đặc biệt khó khăn thì được áp dụng các chính sách của Nhà nước về phát triển kinh tế - xã hội theo địa bàn nơi định cư.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.17. Trách nhiệm của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện)
 
 Điều 36.3.NĐ.3.11. Chính sách đối với thanh niên tình nguyện trong quá trình hoạt động tình nguyện
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001100
+1. Được cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện tập huấn, bồi dưỡng về kiến thức, nghiệp vụ và kỹ năng hoạt động tình nguyện.
 
-**ID:** dk_00060172
+2. Được trang bị phương tiện làm việc, phương tiện bảo hộ cá nhân cần thiết bảo đảm an toàn, phù hợp với yêu cầu nhiệm vụ hoạt động tình nguyện.
 
----
+3. Được tham gia hoạt động đoàn thể; được bồi dưỡng, xét kết nạp vào vào Đoàn Thanh niên Cộng sản Hồ Chí Minh, xét kết nạp vào Đảng Cộng sản Việt Nam theo quy định của Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Điều lệ Đảng Cộng sản Việt Nam.
 
+4. Thanh niên tình nguyện bị chết hoặc bị thương khi đang thực hiện nhiệm vụ tình nguyện thuộc một trong các trường hợp theo quy định của pháp luật về ưu đãi người có công với cách mạng thì được Ủy ban nhân dân cấp xã nơi diễn ra hoạt động tình nguyện đề nghị cơ quan có thẩm quyền xem xét, công nhận là liệt sĩ hoặc quyết định được hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.
 
-### Điều 36.3.NĐ.3.12. Chính sách đối với thanh niên tình nguyện sau khi kết thúc hoạt động tình nguyện
+5. Thanh niên tình nguyện trong khi đang thực hiện nhiệm vụ bị chết thì được hỗ trợ mai táng theo quy định của pháp luật về bảo hiểm xã hội. Trường hợp thanh niên tình nguyện không tham gia bảo hiểm xã hội thì được cơ quan, tổ chức, đơn vị, tổ chức hoạt động tình nguyện hỗ trợ mai táng và phương tiện đưa về quê quán hoặc gia đình theo yêu cầu của thân nhân.
+
+6. Thanh niên không thuộc đối tượng tham gia bảo hiểm xã hội, bảo hiểm y tế bắt buộc và chưa tham gia bảo hiểm xã hội, bảo hiểm y tế tự nguyện trong khi đang thực hiện nhiệm vụ tình nguyện bị tai nạn thì được cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện bảo đảm các chính sách sau đây:
+
+a) Trường hợp bị tai nạn dẫn đến suy giảm khả năng lao động từ 5% đến 30% thì được hỗ trợ tối thiểu một nửa chi phí cứu chữa, phục hồi sức khỏe, phục hồi chức năng bị suy giảm;
+
+b) Trường hợp bị tai nạn dẫn đến suy giảm khả năng lao động từ 31% trở lên thì ngoài chế độ hỗ trợ được hưởng theo quy định tại điểm a Khoản này còn được hưởng trợ cấp một lần với số tiền tối thiểu là 5.000.000 đồng, sau đó cứ suy giảm thêm 01% thì được tăng thêm tối thiểu là 1.000.000 đồng;
+
+c) Trường hợp bị chết do tai nạn lao động thì được trợ cấp một lần với số tiền tối thiểu là 50.000.000 đồng.
+
+7. Thanh niên là cán bộ, công chức, viên chức, người lao động làm việc trong các cơ quan, đơn vị, tổ chức kinh tế nhà nước, lực lượng vũ trang tham gia hoạt động tình nguyện có hành động dũng cảm cứu người, cứu tài sản của Nhà nước và của Nhân dân mà bị thương cần điều trị theo kết luận của cơ quan y tế thì thời gian nghỉ làm việc để điều trị vẫn được tính vào thời gian công tác để hưởng các chế độ, chính sách của Nhà nước theo quy định của pháp luật.
+
+8. Thanh niên là học sinh, sinh viên tham gia hoạt động tình nguyện có hành động dũng cảm cứu người, cứu tài sản của Nhà nước và của Nhân dân mà bị thương cần điều trị theo kết luận của cơ quan y tế, làm gián đoạn quá trình học tập thì được tạo điều kiện để hoàn thành chương trình học tập.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.17. Trách nhiệm của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện)
 
 Điều 36.3.NĐ.3.12. Chính sách đối với thanh niên tình nguyện sau khi kết thúc hoạt động tình nguyện
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001200
+1. Được cấp Giấy chứng nhận tham gia hoạt động tình nguyện.
 
-**ID:** dk_00060173
+2. Được hưởng chính sách hỗ trợ đào tạo nghề và tạo việc làm theo quy định của pháp luật về giáo dục nghề nghiệp và pháp luật về việc làm.
 
----
-
-
-### Điều 36.3.NĐ.3.13. Chính sách đối với cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội
+3. Được xem xét, ưu tiên tuyển chọn tham gia các chương trình, đề án, dự án phát triển kinh tế - xã hội và bảo vệ Tổ quốc nếu tham gia hoạt động tình nguyện từ 03 tháng trở lên. Trường hợp tham gia nhiều hoạt động tình nguyện theo đợt thì được cộng dồn thời gian tham gia hoạt động tình nguyện.
 
 Điều 36.3.NĐ.3.13. Chính sách đối với cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001300
+1. Được huy động, sử dụng tài trợ bằng tiền hoặc bằng sản phẩm, hàng hóa từ các nguồn ủng hộ, tài trợ, đóng góp hợp pháp theo quy định của pháp luật.
 
-**ID:** dk_00060174
+2. Được Ủy ban nhân dân các cấp tạo điều kiện, bảo đảm an ninh, trật tự trong quá trình tổ chức hoạt động tình nguyện; chỉ đạo các ngành có liên quan tại địa phương phối hợp trong công tác tổ chức hoạt động tình nguyện.
 
----
-
-
-### Điều 36.3.NĐ.3.15. Trách nhiệm của thanh niên tình nguyện
+3. Cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội có nhiều thành tích trong hoạt động tình nguyện được xem xét, khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.
 
 Điều 36.3.NĐ.3.15. Trách nhiệm của thanh niên tình nguyện
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001500
+1. Thanh niên tình nguyện tham gia chương trình, đề án, dự án có trách nhiệm thực hiện các nhiệm vụ được phân công tại chương trình, đề án, dự án đã được cấp có thẩm quyền phê duyệt.
 
-**ID:** dk_00060175
+2. Thanh niên tình nguyện vì cộng đồng, xã hội có trách nhiệm sau đây:
 
----
+a) Chấp hành quy định của pháp luật, nội quy, quy định của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội và phong tục, tập quán của địa phương nơi thực hiện hoạt động tình nguyện;
 
+b) Thực hiện nhiệm vụ theo phân công của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội; phối hợp tốt với các tổ chức, cá nhân có liên quan tại địa phương trong quá trình hoạt động tình nguyện;
 
-### Điều 36.3.NĐ.3.17. Trách nhiệm của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện
+c) Thanh niên là cán bộ, công chức, viên chức, người lao động làm việc trong các cơ quan, đơn vị, tổ chức nhà nước, tổ chức kinh tế, lực lượng vũ trang tham gia hoạt động tình nguyện phải có đơn đề nghị và được cơ quan, đơn vị có thẩm quyền quản lý, sử dụng cán bộ, công chức, viên chức, người lao động chấp thuận bằng văn bản;
+
+d) Thanh niên là học sinh, sinh viên tham gia hoạt động tình nguyện trong thời gian học tập phải có đơn đề nghị và được cơ sở giáo dục đào tạo, cơ sở giáo dục nghề nghiệp quản lý trực tiếp chấp thuận bằng văn bản.
 
 Điều 36.3.NĐ.3.17. Trách nhiệm của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001700
+1. Cơ quan, đơn vị chủ trì thực hiện chương trình, đề án, dự án có trách nhiệm bảo đảm chính sách đối với thanh niên tham gia hoạt động tình nguyện quy định tại Điều 9, Điều 10 Nghị định này và các chế độ, chính sách khác trong chương trình, đề án, dự án được cấp có thẩm quyền phê duyệt.
 
-**ID:** dk_00060176
+2. Cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội có trách nhiệm sau đây:
 
----
+a) Khảo sát, làm việc với Ủy ban nhân dân nơi diễn ra hoạt động tình nguyện để xây dựng kế hoạch tổ chức hoạt động tình nguyện, trong đó nêu rõ mục đích, thời gian, địa điểm, nội dung, chương trình hoạt động tình nguyện, số lượng, thành phần thanh niên tham gia hoạt động tình nguyện;
 
+b) Gửi kế hoạch tổ chức hoạt động tình nguyện trước khi tổ chức hoạt động tình nguyện đến Ủy ban nhân dân cấp xã nơi diễn ra hoạt động tình nguyện; đến Ủy ban nhân dân cấp huyện nếu hoạt động tình nguyện diễn ra trên địa bàn hai xã thuộc huyện trở lên; đến Ủy ban nhân dân cấp tỉnh nếu hoạt động tình nguyện diễn ra trên địa bàn hai huyện thuộc tỉnh trở lên;
 
-### Điều 36.3.NĐ.3.18. Trách nhiệm của Ủy ban nhân dân cấp xã, cấp huyện đối với thanh niên tình nguyện
+c) Tổ chức tuyển chọn thanh niên tham gia hoạt động tình nguyện, quản lý thanh niên tình nguyện bảo đảm đúng kế hoạch, an toàn, hiệu quả và phù hợp với nhiệm vụ phát triển kinh tế - xã hội của địa phương;
+
+d) Xây dựng nội quy, quy định về hoạt động tình nguyện, bồi dưỡng kiến thức, kỹ năng cần thiết cho thanh niên tham gia hoạt động tình nguyện;
+
+đ) Cung cấp trang thiết bị làm việc, phương tiện bảo hộ cá nhân cần thiết phù hợp với yêu cầu nhiệm vụ hoạt động tình nguyện; bảo đảm sức khỏe và an toàn cho thanh niên tham gia hoạt động tình nguyện;
+
+e) Hỗ trợ hoặc trợ cấp đối với các trường hợp quy định tại khoản 5 và khoản 6 Điều 11 Nghị định này;
+
+g) Cung cấp đầy đủ thông tin với chính quyền địa phương và các cơ quan, tổ chức liên quan trong quá trình tổ chức hoạt động tình nguyện khi được yêu cầu;
+
+h) Phối hợp với các tổ chức của thanh niên trên địa bàn tổ chức thực hiện hoạt động tình nguyện và công khai trên các phương tiện thông tin đại chúng tại địa phương về mục đích, quy mô, hình thức tổ chức hoạt động tình nguyện;
+
+i) Cấp Giấy chứng nhận tham gia hoạt động tình nguyện đối với thanh niên tình nguyện theo mẫu quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh.
+
+3. Người đứng đầu cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện chịu trách nhiệm cá nhân trước pháp luật về những hành vi vi phạm pháp luật xảy ra khi tổ chức các hoạt động tình nguyện.
+
+(Điều này có nội dung liên quan đến Điều 36.3.NĐ.3.9. Chính sách đối với thanh niên tình nguyện trong quá trình thực hiện chương trình, đề án, dự án; Điều 36.3.NĐ.3.10. Chính sách đối với thanh niên tình nguyện sau khi kết thúc chương trình, đề án, dự án; Điều 36.3.NĐ.3.11. Chính sách đối với thanh niên tình nguyện trong quá trình hoạt động tình nguyện)
 
 Điều 36.3.NĐ.3.18. Trách nhiệm của Ủy ban nhân dân cấp xã, cấp huyện đối với thanh niên tình nguyện
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000030000230000000000000000000402758200170001800
+1. Thông báo việc đồng ý tiếp nhận hoạt động tình nguyện tại địa phương với cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện theo thẩm quyền (về mục tiêu, phạm vi, nội dung, số lượng, thành phần thanh niên tham gia hoạt động tình nguyện); trường hợp không đồng ý phải nêu rõ lý do.
 
-**ID:** dk_00060177
+2. Tạo điều kiện, bảo đảm an ninh, trật tự để các cơ quan, tổ chức, cá nhân hoạt động tình nguyện theo đúng kế hoạch tổ chức hoạt động tình nguyện.
 
----
+3. Tạm dừng hoặc chấm dứt các hoạt động tình nguyện vi phạm pháp luật hoặc không đúng với kế hoạch tổ chức hoạt động tình nguyện.
 
+4. Báo cáo, đề xuất cấp có thẩm quyền xử lý, giải quyết kịp thời trường hợp vi phạm pháp luật xảy ra trong hoạt động tình nguyện trên địa bàn.
 
-### Điều 36.3.LQ.24. Chính sách đối với thanh niên có tài năng
+5. Cấp Giấy chứng nhận tham gia hoạt động tình nguyện cho thanh niên tình nguyện tham gia chương trình, đề án, dự án theo thẩm quyền.
 
 Điều 36.3.LQ.24. Chính sách đối với thanh niên có tài năng
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000300002400000000000000000
+ 1. Nhà nước có chính sách phát hiện, đào tạo, bồi dưỡng, thu hút, trọng dụng và đãi ngộ đối với thanh niên có tài năng.
 
-**ID:** dk_00060178
+ 2. Người đứng đầu cơ quan, tổ chức có trách nhiệm thực hiện chính sách đối với thanh niên có tài năng phù hợp với chức năng, nhiệm vụ và quyền hạn của mình.Điều 36.3.LQ.25. Chính sách đối với thanh niên là người dân tộc thiểu số
 
----
+(Điều 25 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ 1. Ưu tiên cho thanh niên là người dân tộc thiểu số về học tập, lao động, việc làm, khởi nghiệp, chăm sóc sức khỏe, thể dục, thể thao.
 
-### Điều 36.3.LQ.25. Chính sách đối với thanh niên là người dân tộc thiểu số
+ 2. Hỗ trợ thanh niên là người dân tộc thiểu số giữ gìn, phát huy bản sắc văn hóa dân tộc, xây dựng nếp sống văn minh, đấu tranh xóa bỏ phong tục, tập quán lạc hậu.
 
-Điều 36.3.LQ.25. Chính sách đối với thanh niên là người dân tộc thiểu số
+ 3. Ưu tiên lựa chọn đào tạo, bồi dưỡng và đưa vào quy hoạch để tạo nguồn lãnh đạo, quản lý đối với cán bộ, công chức, viên chức là thanh niên người dân tộc thiểu số trong cơ quan, tổ chức, đơn vị của Nhà nước.
 
-**Chỉ mục:** 25
+ 4. Khuyến khích doanh nghiệp, tổ chức ưu tiên tuyển dụng thanh niên là người dân tộc thiểu số.Điều 36.3.LQ.26. Chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
 
-**Mã phân cấp:** 3600300000000000300002500000000000000000
+(Điều 26 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060179
+ 1. Bảo đảm hoàn thành phổ cập giáo dục theo quy định của pháp luật.
 
----
+ 2. Ưu tiên, tạo điều kiện tham gia hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí phù hợp với khả năng và lứa tuổi để phát triển toàn diện.
 
+ 3. Đào tạo, tư vấn lựa chọn nghề nghiệp, việc làm phù hợp với lứa tuổi.
 
-### Điều 36.3.LQ.26. Chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+ 4. Trang bị kiến thức, kỹ năng tự bảo vệ trước nguy cơ ảnh hưởng đến sức khỏe thể chất, tinh thần; bảo đảm các biện pháp hỗ trợ và can thiệp để thanh niên từ đủ 16 tuổi đến dưới 18 tuổi được sống an toàn, lành mạnh.
 
-Điều 36.3.LQ.26. Chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+ 5. Bảo đảm việc thực hiện các chính sách về hình sự, hành chính, dân sự theo quy định của pháp luật.
 
-**Chỉ mục:** 26
+ 6. Ưu tiên giải quyết nhanh chóng các vụ việc gây tổn hại đến thể chất và tinh thần của thanh niên từ đủ 16 tuổi đến dưới 18 tuổi.
 
-**Mã phân cấp:** 3600300000000000300002600000000000000000
+ 7. Khuyến khích tổ chức, cá nhân phát hiện, đào tạo, bồi dưỡng năng khiếu cho thanh niên từ đủ 16 tuổi đến dưới 18 tuổi.
 
-**ID:** dk_00060180
+ 8. Chính phủ quy định cơ chế, chính sách và biện pháp thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi.Điều 36.3.NĐ.2.13. Nguyên tắc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
 
----
+(Điều 13 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
+1. Các biện pháp phải bảo đảm thực hiện chính sách được quy định tại các Luật, Bộ luật.
 
-### Điều 36.3.NĐ.2.13. Nguyên tắc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+2. Bảo đảm các cơ quan, tổ chức, cá nhân thực hiện cơ chế, chính sách đối với thanh niên công khai, minh bạch theo quy định pháp luật,
 
-Điều 36.3.NĐ.2.13. Nguyên tắc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+3. Không phân biệt giới tính, dân tộc, tôn giáo khi thực hiện các cơ chế, chính sách đối với thanh niên.
 
-**Chỉ mục:** 13
+4. Nhà nước, chính quyền địa phương, gia đình và các cơ quan, đơn vị có trách nhiệm tạo điều kiện cho thanh niên phát triển toàn diện phù hợp với khả năng và lứa tuổi.
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001300
+Điều 36.3.NĐ.2.14. Về phổ cập giáo dục
 
-**ID:** dk_00060181
+(Điều 14 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
----
+1. Biện pháp thực hiện chính sách về phổ cập giáo dục cho thanh niên từ đủ 16 đến dưới 18 tuổi:
 
+a) Tuyên truyền, thông tin về chính sách phổ cập giáo dục để vận động thanh niên chưa được phổ cập tích cực tham gia học tập, phổ cập giáo dục;
 
-### Điều 36.3.NĐ.2.14. Về phổ cập giáo dục
+b) Rà soát, thống kê, xây dựng kế hoạch tổ chức phổ cập giáo dục cho thanh niên;
 
-*Nội dung chưa có sẵn*
+c) Theo dõi, hướng dẫn kiểm tra việc thực hiện phổ cập giáo dục cho thanh niên.
 
-**Chỉ mục:** 14
+2. Bộ Giáo dục và Đào tạo
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001400
+a) Phối hợp với Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh phổ biến, tuyên truyền và vận động thanh niên, đặc biệt thanh niên vùng đồng bào dân tộc thiểu số và miền núi tham gia phổ cập giáo dục;
 
-**ID:** dk_00060182
+b) Phối hợp với Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chỉ đạo, hướng dẫn, đôn đốc, kiểm tra các địa phương và cơ sở giáo dục, cơ sở giáo dục nghề nghiệp thực hiện việc phổ biến, tuyên truyền, vận động, triển khai tổ chức phổ cập giáo dục cho thanh niên chưa hoàn thành phổ cập giáo dục.
 
----
+3. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
 
+a) Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh thực hiện việc phổ biến, tuyên truyền, vận động thanh niên chưa hoàn thành trung học cơ sở tích cực tham gia thực hiện phổ cập giáo dục;
 
-### Điều 36.3.NĐ.2.15. Về hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí
+b) Chỉ đạo Ủy ban nhân dân các cấp định kỳ rà soát, thống kê số lượng thanh niên chưa được phổ cập; xây dựng kế hoạch tổ chức thực hiện phổ cập giáo dục;
+
+c) Chủ động bố trí ngân sách địa phương thực hiện việc phổ biến, tuyên truyền, triển khai các hoạt động, chương trình, kế hoạch, tổ chức phổ cập giáo dục cho thanh niên, trình Hội đồng nhân dân cùng cấp quyết định theo pháp luật ngân sách hiện hành.
+
+4. Cơ sở giáo dục, cơ sở giáo dục nghề nghiệp
+
+a) Các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh và gia đình thông tin, Tuyên truyền, vận động cho thanh niên học tập, phổ cập giáo dục;
+
+b) Bố trí cơ sở vật chất, trường lớp, giáo viên và các điều kiện bảo đảm tổ chức thực hiện phổ cập giáo dục.
+
+5. Gia đình có trách nhiệm tạo điều kiện và bảo đảm quyền cho thanh niên được học tập, phổ cập giáo dục.
+
+6. Thanh niên từ đủ 16 đến dưới 18 tuổi chưa được phổ cập giáo dục có nghĩa vụ tham gia học tập hoàn thành phổ cập giáo dục.
 
 Điều 36.3.NĐ.2.15. Về hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001500
+1. Biện pháp thực hiện chính sách về văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên:
 
-**ID:** dk_00060183
+a) Xây dựng, tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí phù hợp với xu thế, nhu cầu, sở thích của thanh niên và truyền thống văn hóa, chuẩn mực đạo đức của Việt Nam;
 
----
+b) Lồng ghép các hoạt động văn hóa, thể dục, thể thao với các sự kiện, ngày lễ, ngày hội, ngày truyền thống của địa phương, cơ sở giáo dục và cơ sở giáo dục nghề nghiệp để khuyến khích, thu hút thanh niên tham gia.
 
+2. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, Trung đoàn Đoàn Thanh niên Cộng sản Hồ Chí Minh hướng dẫn Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương xây dựng kế hoạch; tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí để thanh niên được tiếp cận, tích cực tham gia giữ gìn, phát huy giá trị truyền thống văn hóa dân tộc và tiếp thu tinh hoa văn hóa nhân loại.
 
-### Điều 36.3.NĐ.2.16. Về đào tạo, tư vấn lựa chọn nghề nghiệp, việc làm
+Bộ Văn hóa, Thể thao và Du lịch theo dõi, đôn đốc, kiểm tra việc tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên.
+
+3. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
+
+a) Chỉ đạo Ủy ban nhân dân các cấp xây dựng và tổ chức hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên phát huy các loại hình văn hóa phù hợp truyền thống văn hóa, chuẩn mực đạo đức, những giá trị tốt đẹp của văn hóa Việt Nam; đồng thời đáp ứng được nhu cầu, sở thích, phù hợp với khả năng và lứa tuổi. Khuyến khích, tạo điều kiện cho thanh niên giữ gìn và phát huy các loại hình văn hóa cổ truyền của dân tộc;
+
+b) Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh thực hiện việc tuyên truyền, giáo dục ý thức trách nhiệm, nghĩa vụ của thanh niên và thông tin về các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên tích cực tham gia.
+
+4. Đoàn Thanh niên Cộng sản Hồ Chí Minh các cấp
+
+a) Phối hợp với các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp, các tổ chức, đơn vị tổ chức các hoạt động ngoại khóa, hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí phù hợp với đặc điểm tâm lý, sinh lý của thanh niên;
+
+b) Khuyến khích, tạo điều kiện cho thanh niên không sinh hoạt trong các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp được tham gia các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí theo sở thích, nhu cầu của bản thân.
+
+5. Các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp, cơ sở văn hóa
+
+a) Xây dựng kế hoạch, tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên tham gia theo năng khiếu, sở thích, giới tính, lứa tuổi và sức khỏe. Thực hiện quyền tham gia các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí của thanh niên;
+
+b) Xây dựng kế hoạch, đề xuất với cấp có thẩm quyền bố trí kinh phí và huy động các nguồn kinh phí hợp pháp khác tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên phù hợp pháp luật, truyền thống văn hóa, chuẩn mực đạo đức xã hội;
+
+c) Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí để tuyên truyền, giáo dục lối sống văn hóa, chuẩn mực đạo đức và thu hút thanh niên tham gia các hoạt động vui chơi, giải trí lành mạnh;
+
+d) Quản lý và sử dụng có hiệu quả cơ sở vật chất, đội ngũ quản lý, chuyên gia, huấn luyện viên, giáo viên phục vụ tổ chức các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí cho thanh niên;
+
+đ) Bảo đảm an toàn cho thanh niên khi tham gia các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí;
+
+e) Phát hiện, bồi dưỡng năng khiếu cho thanh niên thông qua các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí.
+
+6. Gia đình có trách nhiệm định hướng, tạo điều kiện cho thanh niên tham gia các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí nhằm nâng cao sức khỏe, bảo vệ, giữ gìn, phát huy bản sắc dân tộc và tiếp thu tinh hoa văn hóa nhân loại.
 
 Điều 36.3.NĐ.2.16. Về đào tạo, tư vấn lựa chọn nghề nghiệp, việc làm
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001600
+1. Thanh niên từ đủ 16 tuổi đến dưới 18 tuổi được:
 
-**ID:** dk_00060184
+a) Cung cấp thông tin, xu hướng phát triển kỹ năng nghề, việc làm tương lai và thị trường lao động;
 
----
+b) Tham gia các buổi tư vấn, định hướng nghề nghiệp, việc làm;
 
+c) Tham gia các cuộc thi phát triển kỹ năng nghề, thực hành nghề nghiệp gắn với việc làm.
 
-### Điều 36.3.NĐ.2.17. Về trang bị kiến thức, kỹ năng tự bảo vệ sức khỏe thể chất, tinh thần
+2. Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội hướng dẫn Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và cơ sở giáo dục, cơ sở giáo dục nghề nghiệp đổi mới, thực hiện có hiệu quả việc tư vấn, định hướng nghề nghiệp đáp ứng nhu cầu của thanh niên và thị trường lao động trong từng giai đoạn; tổ chức và khuyến khích thanh niên tham gia các cuộc thi kỹ năng nghề.
+
+3. Cơ sở giáo dục, cơ sở giáo dục nghề nghiệp
+
+a) Tư vấn, hướng nghiệp; cung cấp thông tin, xu hướng việc làm, thị trường lao động để định hướng nghề nghiệp cho thanh niên;
+
+b) Được liên kết với các tổ chức, đơn vị khác để đào tạo, phát triển kỹ năng nghề, thực hành nghề nghiệp gắn với việc làm cho thanh niên theo quy định của pháp luật.
+
+4. Gia đình có trách nhiệm tìm hiểu thông tin nghề nghiệp, việc làm và thị trường lao động để tư vấn, định hướng cho thanh niên lựa chọn nghề nghiệp, việc làm phù hợp khả năng, nguyện vọng và nhu cầu sử dụng lao động của xã hội.
 
 Điều 36.3.NĐ.2.17. Về trang bị kiến thức, kỹ năng tự bảo vệ sức khỏe thể chất, tinh thần
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001700
+1. Thanh niên từ đủ 16 tuổi đến dưới 18 tuổi được;
 
-**ID:** dk_00060185
+a) Trang bị kiến thức, kỹ năng và cung cấp thông tin tư vấn về chăm sóc sức khỏe sinh sản, sức khỏe tình dục, sức khỏe tâm thần và các bệnh xã hội khác; phòng, chống bạo lực gia đình, bạo lực học đường, xâm hại tình dục, phòng, chống ma túy và các tệ nạn xã hội khác;
 
----
+b) Tuyên truyền, phổ biến và tiếp cận dịch vụ thân thiện về bảo vệ, chăm sóc sức khỏe sinh sản, sức khỏe tình dục.
 
+2. Bộ Y tế đảm bảo cung cấp dịch vụ thân thiện về bảo vệ, chăm sóc sức khỏe sinh sản, sức khỏe tình dục cho thanh niên.
 
-### Điều 36.3.NĐ.2.18. Ưu tiên giải quyết nhanh chóng các vụ việc gây tổn hại đến thể chất và tinh thần
+3. Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội phối hợp với Bộ Y tế xây dựng, ban hành, hướng dẫn thực hiện Chương trình giáo dục sức khỏe sinh sản, sức khỏe tình dục toàn diện và sức khỏe tâm thần trong các cơ sở giáo dục cấp học trung học phổ thông, các cơ sở giáo dục nghề nghiệp.
+
+4. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chỉ đạo Ủy ban nhân dân các cấp, các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp tổ chức, thực hiện hiệu quả việc trang bị kiến thức, kỹ năng chăm sóc và bảo vệ sức khỏe thể chất và tinh thần cho thanh niên; chống bạo lực gia đình, bạo lực học đường và các tệ nạn xã hội khác.
+
+5. Các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp
+
+a) Trang bị kiến thức, kỹ năng, kỹ năng sống; cung cấp thông tin tư vấn về chăm sóc sức khỏe sinh sản, sức khỏe tình dục, sức khỏe tâm thần và các bệnh xã hội khác; phòng, chống bạo lực gia đình, bạo lực học đường, xâm hại tình dục, phòng, chống ma túy và các tệ nạn xã hội khác;
+
+b) Kịp thời phát hiện những hành vi về bạo lực gia đình, bạo lực học đường và các tệ nạn khác để xử lý.
+
+6. Gia đình giáo dục, hướng dẫn, trang bị kiến thức, kỹ năng sống, kỹ năng chăm sóc sức khỏe sinh sản, sức khỏe tình dục để thanh niên tự bảo vệ sức khỏe thể chất và tinh thần; được sống an toàn, lành mạnh.
 
 Điều 36.3.NĐ.2.18. Ưu tiên giải quyết nhanh chóng các vụ việc gây tổn hại đến thể chất và tinh thần
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001800
+1. Bộ Công an phối hợp với các cơ quan liên quan theo dõi, rà soát, hướng dẫn giải quyết kịp thời các vụ việc gây tổn hại về thể chất và tinh thần của thanh niên bảo đảm việc thực hiện các chính sách về hình sự, hành chính, dân sự cho thanh niên theo quy định của pháp luật.
 
-**ID:** dk_00060186
+2. Các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp hướng dẫn, lồng ghép các chương trình phổ biến, giáo dục pháp luật cho thanh niên trong việc thực hiện chính sách, pháp luật của nhà nước. Khi phát hiện vụ việc gây tổn hại đến thể chất và tinh thần của thanh niên phải kịp thời tìm hiểu, báo cáo nhanh chóng, đầy đủ cho các cơ quan, đơn vị liên quan để giải quyết.
 
----
-
-
-### Điều 36.3.NĐ.2.19. Về phát hiện, đào tạo, bồi dưỡng năng khiếu
+3. Gia đình có trách nhiệm giáo dục, phổ biến cho thanh niên về chính sách, pháp luật của nhà nước. Khi phát hiện vụ việc gây tổn hại đến thể chất và tinh thần của thanh niên phải kịp thời thông báo cho các cơ quan, đơn vị liên quan để giải quyết, giúp đỡ thanh niên sửa chữa sai lầm, phát triển lành mạnh, trở thành công dân có ích cho xã hội.
 
 Điều 36.3.NĐ.2.19. Về phát hiện, đào tạo, bồi dưỡng năng khiếu
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130001900
+1. Các cơ quan, tổ chức, đơn vị: Phát hiện, đào tạo, bồi dưỡng phát triển thanh niên có năng khiếu, đặc biệt thanh niên ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng dân tộc thiểu số và miền núi, vùng bãi ngang ven biển và hải đảo.
 
-**ID:** dk_00060187
+2. Bộ Giáo dục và Đào tạo chủ trì phối hợp với Bộ Lao động - Thương binh và Xã hội, Bộ Văn hóa, Thể thao và Du lịch, Bộ Khoa học và Công nghệ, Bộ Thông tin và Truyền thông, Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh theo dõi, hướng dẫn các địa phương, các cơ sở giáo dục, cơ sở giáo dục nghề nghiệp đánh giá, báo cáo việc phát hiện, đào tạo, bồi dưỡng cho thanh niên học sinh có năng khiếu.
 
----
-
-
-### Điều 36.3.NĐ.2.20. Theo dõi việc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+3. Gia đình khuyến khích, định hướng, bồi dưỡng, chăm lo, tạo điều kiện phát triển năng khiếu cho thanh niên; phối hợp với cơ sở giáo dục có kế hoạch bồi dưỡng năng khiếu của thanh niên.
 
 Điều 36.3.NĐ.2.20. Theo dõi việc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Mã phân cấp:** 360030000000000030000260000000000000000000402757400130002000
+1. Bộ Nội vụ chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương theo dõi, kiểm tra, đánh giá việc thực hiện cơ chế, chính sách đối với thanh niên.
 
-**ID:** dk_00060188
+2. Hằng năm, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương báo cáo kết quả thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi lồng ghép vào báo cáo quản lý nhà nước về thanh niên gửi Bộ Nội vụ để báo cáo Chính phủ.
 
----
+Chương IV
 
+TRÁCH NHIỆM CỦA TỔ CHỨC THANH NIÊN
 
-### Điều 36.3.LQ.27. Tổ chức thanh niên
+Điều 36.3.LQ.27. Tổ chức thanh niên
 
-*Nội dung chưa có sẵn*
+(Điều 27 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Chỉ mục:** 27
+ 1. Tổ chức thanh niên gồm Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Thanh niên Việt Nam, Hội Sinh viên Việt Nam và các tổ chức khác của thanh niên được thành lập, tổ chức và hoạt động theo quy định của pháp luật
 
-**Mã phân cấp:** 3600300000000000400002700000000000000000
+ 2. Tổ chức thanh niên có vai trò đoàn kết, tập hợp thanh niên, đại diện chăm lo, bảo vệ quyền và lợi ích hợp pháp, chính đáng của thanh niên; phát huy vai trò của thanh niên trong sự nghiệp xây dựng và bảo vệ Tổ quốc.
 
-**ID:** dk_00060190
+ 3. Tổ chức thanh niên có trách nhiệm nghiên cứu nhu cầu, nguyện vọng của thanh niên để kiến nghị với cơ quan, tổ chức có thẩm quyền; phối hợp với cơ quan quản lý nhà nước về thanh niên, các cơ quan có liên quan trong việc tuyên truyền, giáo dục, thực hiện chính sách, pháp luật đối với thanh niên; tổ chức cho thanh niên tham gia phong trào vì lợi ích của cộng đồng, xã hội, vì sự nghiệp xây dựng và bảo vệ Tổ quốc.Điều 36.3.LQ.28. Đoàn Thanh niên Cộng sản Hồ Chí Minh
 
----
+(Điều 28 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
+ 1. Đoàn Thanh niên Cộng sản Hồ Chí Minh là tổ chức chính trị-xã hội của thanh niên Việt Nam, giữ vai trò nòng cốt trong phong trào thanh niên và tổ chức thanh niên; tổ chức hướng dẫn hoạt động của thiếu niên, nhi đồng, phụ trách Đội Thiếu niên tiền phong Hồ Chí Minh.
 
-### Điều 36.3.LQ.28. Đoàn Thanh niên Cộng sản Hồ Chí Minh
+ 2. Đoàn Thanh niên Cộng sản Hồ Chí Minh có trách nhiệm giám sát và phản biện xã hội đối với chính sách, pháp luật về thanh niên theo quy định của pháp luật; tổng hợp, phản ánh ý kiến, kiến nghị của thanh niên đến cơ quan, tổ chức có thẩm quyền.
 
-Điều 36.3.LQ.28. Đoàn Thanh niên Cộng sản Hồ Chí Minh
+ 3. Đoàn Thanh niên Cộng sản Hồ Chí Minh có trách nhiệm tham gia, phối hợp với các cơ quan nhà nước có liên quan trong quá trình xây dựng, tuyên truyền và tổ chức thực hiện chính sách, pháp luật đối với thanh niên.
 
-**Chỉ mục:** 28
+ 4. Đoàn Thanh niên Cộng sản Hồ Chí Minh thực hiện các hoạt động đối ngoại thanh niên.Điều 36.3.NĐ.3.21. Đề nghị Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh
 
-**Mã phân cấp:** 3600300000000000400002800000000000000000
+(Điều 21 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**ID:** dk_00060191
+1. Đối với thanh niên xung phong
 
----
+a) Quy định mẫu Giấy chứng nhận hoàn thành nhiệm vụ cho người tham gia tổ chức thanh niên xung phong; chỉ đạo, hướng dẫn Đoàn Thanh niên Cộng sản Hồ Chí Minh các tỉnh, thành phố trực thuộc Trung ương và các tổ chức thanh niên xung phong thực hiện đúng quy định về cấp Giấy chứng nhận hoàn thành nhiệm vụ và tặng Kỷ niệm chương đối với người tham gia tổ chức thanh niên xung phong;
 
+b) Phối hợp với Bộ Nội vụ và các bộ, ngành liên quan trong việc thanh tra, kiểm tra thực hiện chính sách đối với người tham gia tổ chức thanh niên xung phong đảm bảo theo đúng quy định của pháp luật;
 
-### Điều 36.3.NĐ.3.21. Đề nghị Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh
+c) Khen thưởng, tôn vinh các tổ chức, cá nhân có nhiều thành tích trong quá trình thực hiện nhiệm vụ; trao tặng Huy hiệu “Tuổi trẻ dũng cảm” theo quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh cho thanh niên xung phong có hành động dũng cảm.
 
-Điều 36.3.NĐ.3.21. Đề nghị Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh
+2. Đối với thanh niên tình nguyện
 
-**Chỉ mục:** 21
+a) Tổ chức tuyên truyền, vận động, nâng cao nhận thức, phát huy vai trò, trách nhiệm của thanh niên tham gia hoạt động tình nguyện;
 
-**Mã phân cấp:** 360030000000000040000280000000000000000000402758200170002100
+b) Xây dựng kênh thông tin kết nối các hoạt động tình nguyện của thanh niên trên phạm vi toàn quốc; thực hiện nhiệm vụ điều phối hoạt động tình nguyện của thanh niên;
 
-**ID:** dk_00060192
+c) Phối hợp với các bộ, ngành liên quan chỉ đạo, định hướng, xây dựng cơ chế, chính sách tạo điều kiện cho hoạt động tình nguyện của thanh niên;
 
----
+d) Chỉ đạo, hướng dẫn Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh và các tổ chức khác của thanh niên được thành lập theo quy định của pháp luật về phương thức huy động thanh niên tham gia hoạt động tình nguyện trong tổ chức của mình;
 
+đ) Chủ trì, phối hợp với các cơ quan, đơn vị liên quan quy định mẫu Giấy chứng nhận tham gia hoạt động tình nguyện và hướng dẫn các cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện cấp Giấy chứng nhận cho thanh niên tham gia hoạt động tình nguyện;
 
-### Điều 36.3.LQ.29. Hội Liên hiệp Thanh niên Việt Nam và Hội Sinh viên Việt Nam
+e) Khen thưởng, tôn vinh các tổ chức, cá nhân có nhiều thành tích trong hoạt động tình nguyện; trao tặng Huy hiệu “Tuổi trẻ dũng cảm” theo quy định của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh cho thanh niên tình nguyện có hành động dũng cảm trong quá trình tham gia hoạt động tình nguyện.
+
+3. Hằng năm hoặc đột xuất báo cáo cơ quan quản lý nhà nước về thanh niên kết quả tổ chức triển khai thực hiện chính sách đối với thanh niên xung phong và thanh niên tình nguyện theo chức năng, nhiệm vụ được giao.
 
 Điều 36.3.LQ.29. Hội Liên hiệp Thanh niên Việt Nam và Hội Sinh viên Việt Nam
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000400002900000000000000000
+ 1. Hội Liên hiệp Thanh niên Việt Nam là tổ chức xã hội rộng rãi của thanh niên Việt Nam và tổ chức thanh niên nhằm đoàn kết, tập hợp mọi tầng lớp thanh niên Việt Nam phấn đấu vì sự nghiệp xây dựng và bảo vệ Tổ quốc.
 
-**ID:** dk_00060193
+ 2. Hội Sinh viên Việt Nam là tổ chức xã hội của sinh viên Việt Nam nhằm đoàn kết, tập hợp sinh viên Việt Nam cùng phấn đấu học tập, rèn luyện và cống hiến cho đất nước.
 
----
+ 3. Hội Liên hiệp Thanh niên Việt Nam, Hội Sinh viên Việt Nam có trách nhiệm phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh tham gia giám sát, phản biện xã hội đối với chính sách, pháp luật về thanh niên theo quy định của pháp luật.Điều 36.3.LQ.30. Chính sách của Nhà nước đối với tổ chức thanh niên
 
+(Điều 30 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-### Điều 36.3.LQ.30. Chính sách của Nhà nước đối với tổ chức thanh niên
+ 1. Tạo điều kiện để tổ chức thanh niên tham gia xây dựng và thực hiện chính sách, pháp luật đối với thanh niên.
 
-Điều 36.3.LQ.30. Chính sách của Nhà nước đối với tổ chức thanh niên
+ 2. Bảo đảm điều kiện để tổ chức thanh niên thực hiện các nhiệm vụ được Nhà nước giao.
 
-**Chỉ mục:** 30
+ 3. Hỗ trợ, tạo điều kiện để tổ chức thanh niên huy động thanh niên thực hiện chương trình, dự án phát triển kinh tế - xã hội và các chương trình, dự án khác.
 
-**Mã phân cấp:** 3600300000000000400003000000000000000000
+ 4. Cơ quan, tổ chức, đơn vị của Nhà nước có trách nhiệm tạo điều kiện để Đoàn Thanh niên Cộng sản Hồ Chí Minh tổ chức hoạt động giám sát, phản biện xã hội trong việc xây dựng và thực hiện chính sách, pháp luật đối với thanh niên.Chương V
 
-**ID:** dk_00060194
-
----
-
-
-### Điều 36.3.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam
+TRÁCH NHIỆM CỦA MẶT TRẬN TỔ QUỐC VIỆT NAM, TỔ CHỨC XÃ HỘI, TỔ CHỨC KINH TẾ, CƠ SỞ GIÁO DỤC, GIA ĐÌNH
 
 Điều 36.3.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000500003100000000000000000
+ 1. Xây dựng kế hoạch, chương trình thống nhất hành động của Mặt trận Tổ quốc Việt Nam về công tác tập hợp, đoàn kết, phát huy lực lượng thanh niên.
 
-**ID:** dk_00060196
+ 2. Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh và các tổ chức thành viên khác của Mặt trận Tổ quốc Việt Nam thực hiện chương trình giám sát, phản biện xã hội đối với chính sách, pháp luật về thanh niên và công tác thanh niên.
 
----
+ 3. Vận động thành viên của Mặt trận Tổ quốc Việt Nam chăm lo, bảo vệ quyền và lợi ích hợp pháp, chính đáng của thanh niên.Điều 36.3.LQ.32. Trách nhiệm của tổ chức xã hội
 
+(Điều 32 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-### Điều 36.3.LQ.32. Trách nhiệm của tổ chức xã hội
+ 1. Vận động thành viên của mình tạo điều kiện để thanh niên học tập, lao động, tham gia hoạt động văn hóa, thể dục, thể thao, phát triển thể lực, trí tuệ; bồi dưỡng đạo đức, truyền thống dân tộc, ý thức công dân; đi đầu trong công cuộc lao động sáng tạo và bảo vệ Tổ quốc.
 
-*Nội dung chưa có sẵn*
+ 2. Phối hợp với cơ quan quản lý nhà nước về thanh niên trong xây dựng, tổ chức thực hiện chính sách, pháp luật đối với thanh niên.
 
-**Chỉ mục:** 32
+ 3. Phối hợp với tổ chức thanh niên chăm lo, bảo vệ quyền và lợi ích hợp pháp, chính đáng của thanh niên.
 
-**Mã phân cấp:** 3600300000000000500003200000000000000000
+ 4. Hỗ trợ các nguồn lực theo quy định của pháp luật và điều lệ của tổ chức xã hội nhằm phát triển thanh niên.Điều 36.3.LQ.33. Trách nhiệm của tổ chức kinh tế
 
-**ID:** dk_00060197
+(Điều 33 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
----
+ 1. Bảo đảm môi trường, điều kiện làm việc an toàn; cung cấp đầy đủ kiến thức, thông tin về an toàn, vệ sinh lao động cho người lao động là thanh niên.
 
+ 2. Quan tâm chăm lo đời sống của người lao động là thanh niên; hỗ trợ để người lao động là thanh niên được học tập, tham gia hoạt động văn hóa, thể dục, thể thao; chăm sóc và bảo vệ sức khỏe.
 
-### Điều 36.3.LQ.33. Trách nhiệm của tổ chức kinh tế
+ 3. Tạo điều kiện để tổ chức Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Thanh niên Việt Nam thành lập và hoạt động.
 
-*Nội dung chưa có sẵn*
+ 4. Khuyến khích, hỗ trợ thanh niên khởi nghiệp; đào tạo nghề, nghiệp vụ, kỹ năng sống; đầu tư xây dựng cơ sở vật chất về văn hóa, thể dục, thể thao cho thanh niên.Điều 36.3.LQ.34. Trách nhiệm của cơ sở giáo dục
 
-**Chỉ mục:** 33
+(Điều 34 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000500003300000000000000000
+ 1. Giáo dục truyền thống, đạo đức, lối sống lành mạnh cho thanh niên.
 
-**ID:** dk_00060198
+ 2. Xây dựng môi trường giáo dục an toàn, thân thiện, lành mạnh; thực hiện các biện pháp phòng, chống bạo lực học đường và xâm hại tình dục cho thanh niên.
 
----
+ 3. Phát huy tính sáng tạo trong học tập, nghiên cứu khoa học; nâng cao năng lực tự học, kỹ năng thực hành; tư vấn, định hướng nghề nghiệp cho thanh niên.
 
+ 4. Tư vấn tâm lý về các vấn đề xã hội, tâm lý học đường; giáo dục kỹ năng sống, kiến thức chăm sóc, bảo vệ sức khỏe, sức khỏe sinh sản, sức khỏe tình dục, giới tính, kỹ năng phòng, chống các bệnh học đường và tệ nạn xã hội cho thanh niên.
 
-### Điều 36.3.LQ.34. Trách nhiệm của cơ sở giáo dục
+ 5. Tạo điều kiện cho thanh niên tham gia các hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí và các hoạt động ngoại khóa khác.
 
-*Nội dung chưa có sẵn*
+ 6. Tạo điều kiện để tổ chức Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên Việt Nam thành lập và hoạt động.Điều 36.3.LQ.35. Trách nhiệm của gia đình
 
-**Chỉ mục:** 34
+(Điều 35 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000500003400000000000000000
+ 1. Tôn trọng, lắng nghe ý kiến, nguyện vọng của thanh niên; quan tâm, giáo dục, động viên và tạo điều kiện để thanh niên thực hiện quyền, nghĩa vụ và trách nhiệm của mình theo quy định của pháp luật.
 
-**ID:** dk_00060199
+ 2. Tôn trọng quyền của thanh niên trong hôn nhân và gia đình; giáo dục giới tính, bình đẳng giới và các kiến thức cần thiết về hôn nhân và gia đình.
 
----
+ 3. Chăm lo, giáo dục thanh niên phát triển về thể chất, tinh thần, trí tuệ, đạo đức, nhân cách; có nếp sống văn hóa lành mạnh, trở thành người con hiếu thảo của gia đình, công dân có ích cho xã hội.
 
+ 4. Rèn luyện kỹ năng sống cho thanh niên; giáo dục ý thức, kỷ luật lao động; tôn trọng, tạo điều kiện để thanh niên lựa chọn nghề nghiệp, tìm kiếm việc làm.
 
-### Điều 36.3.LQ.35. Trách nhiệm của gia đình
+ 5. Định hướng, tạo điều kiện để thanh niên tiếp cận các nguồn thông tin an toàn và bảo vệ thanh niên trên môi trường không gian mạng.Chương VI
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 3600300000000000500003500000000000000000
-
-**ID:** dk_00060200
-
----
-
-
-### Điều 36.3.LQ.36. Nội dung quản lý nhà nước về thanh niên
+QUẢN LÝ NHÀ NƯỚC VỀ THANH NIÊN
 
 Điều 36.3.LQ.36. Nội dung quản lý nhà nước về thanh niên
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000600003600000000000000000
+ 1. Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về thanh niên; quy định các biện pháp để thực hiện chính sách đối với thanh niên.
 
-**ID:** dk_00060202
+ 2. Xây dựng và tổ chức thực hiện chiến lược, chính sách, chương trình, kế hoạch phát triển thanh niên.
 
----
+ 3. Thực hiện công tác thống kê, thông tin, báo cáo về tình hình thanh niên và việc thực hiện chính sách, pháp luật đối với thanh niên.
 
+ 4. Xây dựng đội ngũ cán bộ, công chức làm công tác quản lý nhà nước về thanh niên.
 
-### Điều 36.3.LQ.37. Trách nhiệm của Chính phủ
+ 5. Tuyên truyền, phổ biến, giáo dục chính sách, pháp luật về thanh niên.
 
-*Nội dung chưa có sẵn*
+ 6. Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo, kiến nghị; sơ kết, tổng kết, thi đua, khen thưởng trong việc thực hiện chính sách, pháp luật đối với thanh niên.
 
-**Chỉ mục:** 37
+ 7. Hợp tác quốc tế về thanh niên.
 
-**Mã phân cấp:** 3600300000000000600003700000000000000000
+ 8. Ban hành chính sách hỗ trợ, khuyến khích tổ chức, cá nhân tham gia thực hiện chính sách đối với thanh niên.Điều 36.3.LQ.37. Trách nhiệm của Chính phủ
 
-**ID:** dk_00060203
+(Điều 37 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
----
+ Chính phủ thống nhất quản lý nhà nước về thanh niên và có trách nhiệm sau đây:
 
+ 1. Bảo đảm hiệu lực, hiệu quả việc thực hiện các nội dung quản lý nhà nước về thanh niên;
 
-### Điều 36.3.LQ.38. Trách nhiệm của Bộ Nội vụ
+ 2. Bảo đảm cơ chế và biện pháp phối hợp giữa các Bộ,, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, chính quyền địa phương và cơ quan, tổ chức có liên quan trong việc xây dựng, thực hiện chính sách, pháp luật đối với thanh niên;
 
-*Nội dung chưa có sẵn*
+ 3. Bảo đảm xây dựng và thực hiện các mục tiêu, chỉ tiêu phát triển thanh niên trong chiến lược, chương trình, kế hoạch phát triển kinh tế - xã hội dài hạn, trung hạn và hằng năm của quốc gia, ngành, lĩnh vực;
 
-**Chỉ mục:** 38
+ 4. Báo cáo kết quả thực hiện chính sách, pháp luật đối với thanh niên theo yêu cầu của Quốc hội.Điều 36.3.LQ.38. Trách nhiệm của Bộ Nội vụ
 
-**Mã phân cấp:** 3600300000000000600003800000000000000000
+(Điều 38 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060204
+ Bộ Nội vụ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:
 
----
+ 1. Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách, pháp luật về thanh niên; chiến lược, chương trình, kế hoạch phát triển thanh niên;
 
+ 2. Đề xuất việc lồng ghép chính sách, chỉ tiêu, mục tiêu phát triển thanh niên khi xây dựng chính sách, chiến lược, chương trình, kế hoạch phát triển kinh tế - xã hội của ngành, lĩnh vực. Hướng dẫn các Bộ, ngành lồng ghép chỉ tiêu thống kê về thanh niên Việt Nam vào hệ thống chỉ tiêu của Bộ, ngành;
 
-### Điều 36.3.NĐ.1.20. Trách nhiệm của Bộ Nội vụ
+ 3. Hướng dẫn các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh thực hiện nhiệm vụ quản lý nhà nước về thanh niên; tổ chức tập huấn, bồi dưỡng kiến thức, kỹ năng cho đội ngũ cán bộ, công chức làm công tác quản lý nhà nước về thanh niên;
 
-*Nội dung chưa có sẵn*
+ 4. Chủ trì, phối hợp với các cơ quan có liên quan quản lý, khai thác và công bố dữ liệu về thanh niên, chỉ số phát triển thanh niên;
 
-**Chỉ mục:** 20
+ 5. Chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh xây dựng, tổ chức thực hiện chính sách, pháp luật đối với thanh niên;
 
-**Mã phân cấp:** 360030000000000060000380000000000000000000402389100120002000
+ 6. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo, kiến nghị; sơ kết, tổng kết, thi đua, khen thưởng; xử lý vi phạm theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý vi phạm trong việc thực hiện chính sách, pháp luật đối với thanh niên;
 
-**ID:** dk_00060205
+ 7. Hằng năm, báo cáo Chính phủ kết quả thực hiện chính sách, pháp luật đối với thanh niên và nhiệm vụ quản lý nhà nước về thanh niên;
 
----
+ 8. Chủ trì, phối hợp với các cơ quan có liên quan quản lý hoạt động hợp tác quốc tế về thanh niên theo quy định của pháp luật.Điều 36.3.NĐ.1.20. Trách nhiệm của Bộ Nội vụ
 
+(Điều 20 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-### Điều 36.3.LQ.39. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+1. Xây dựng và trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật về tổ chức, hoạt động và chính sách đối với thanh niên xung phong.
+
+2. Đôn đốc việc thực hiện các quy định của pháp luật về tổ chức và hoạt động đối với thanh niên xung phong.
+
+3. Thanh tra, kiểm tra và giải quyết khiếu nại, tố cáo liên quan đến tổ chức, hoạt động và việc thực hiện chính sách đối với thanh niên xung phong.
+
+4. Báo cáo Thủ tướng Chính phủ về tình hình tổ chức, hoạt động và việc thực hiện chính sách đối với thanh niên xung phong.
 
 Điều 36.3.LQ.39. Trách nhiệm của các Bộ, cơ quan ngang Bộ
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000600003900000000000000000
+ Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Nội vụ thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:
 
-**ID:** dk_00060206
+ 1. Ban hành chính sách, cơ chế tạo điều kiện cho thanh niên tham gia vào các chương trình phát triển của ngành, lĩnh vực;
 
----
+ 2. Lồng ghép chính sách, chỉ tiêu, mục tiêu phát triển thanh niên khi xây dựng chính sách, chiến lược, chương trình, kế hoạch phát triển kinh tế - xã hội của ngành, lĩnh vực; lồng ghép các chỉ tiêu thống kê về thanh niên Việt Nam vào hệ thống chỉ tiêu của Bộ, ngành;
 
+ 3. Hướng dẫn Ủy ban nhân dân cấp tỉnh thực hiện chính sách, pháp luật đối với thanh niên thuộc thẩm quyền quản lý nhà nước về ngành, lĩnh vực;
 
-### Điều 36.3.NĐ.1.21. Trách nhiệm của các Bộ, ngành
+ 4. Hằng năm, báo cáo việc thực hiện chính sách, pháp luật đối với thanh niên theo ngành, lĩnh vực, gửi Bộ Nội vụ để tổng hợp, báo cáo Chính phủ.Điều 36.3.NĐ.1.21. Trách nhiệm của các Bộ, ngành
 
-*Nội dung chưa có sẵn*
+(Điều 21 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-**Chỉ mục:** 21
+1. Bộ Tài chính chủ trì, phối hợp với Bộ Nội vụ hướng dẫn việc cấp phát, quản lý và sử dụng kinh phí quy định tại Điều 19 Nghị định này.
 
-**Mã phân cấp:** 360030000000000060000390000000000000000000402389100120002100
+2. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Nội vụ hướng dẫn việc lồng ghép cơ chế, chính sách để thanh niên xung phong hoàn thành nhiệm vụ được giao.
 
-**ID:** dk_00060207
-
----
-
-
-### Điều 36.3.NĐ.3.20. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+3. Các Bộ, ngành liên quan theo chức năng, nhiệm vụ của mình lồng ghép cơ chế, chính sách để thanh niên xung phong thực hiện các nhiệm vụ được giao.
 
 Điều 36.3.NĐ.3.20. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000060000390000000000000000000402758200170002000
+1. Bộ Nội vụ
 
-**ID:** dk_00060208
+a) Chủ trì, phối hợp với các bộ, cơ quan liên quan, Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh tổ chức triển khai thực hiện Nghị định này;
 
----
+b) Thanh tra, kiểm tra và đề nghị xử lý vi phạm trong việc thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện;
 
+c) Sơ kết, tổng kết, báo cáo cấp có thẩm quyền việc tổ chức triển khai thực hiện chính sách đối với thanh niên xung phong và thanh niên tình nguyện.
 
-### Điều 36.3.LQ.40. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh
+2. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+a) Tạo điều kiện cho thanh niên xung phong, thanh niên tình nguyện hoạt động trong các lĩnh vực thuộc phạm vi quản lý;
+
+b) Lồng ghép cơ chế, chính sách theo chức năng, nhiệm vụ để thanh niên xung phong, thanh niên tình nguyện thực hiện nhiệm vụ được giao;
+
+c) Xây dựng kênh thông tin về các hoạt động tình nguyện của thanh niên để thanh niên được tiếp cận và tham gia;
+
+d) Khen thưởng, biểu dương đối với thanh niên có nhiều thành tích trong quá trình tham gia hoạt động tình nguyện;
+
+đ) Hằng năm, báo cáo kết quả thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện lồng ghép trong báo cáo quản lý nhà nước về thanh niên theo quy định.
+
+3. Bộ Giáo dục và Đào tạo và Bộ Lao động - Thương binh và Xã hội quy định các hình thức biểu dương, khen thưởng đối với thanh niên tích cực tham gia và hoàn thành tốt nhiệm vụ hoạt động tình nguyện trong các cơ sở giáo dục đào tạo, cơ sở giáo dục nghề nghiệp.
 
 Điều 36.3.LQ.40. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**Mã phân cấp:** 3600300000000000600004000000000000000000
+ 1. Hội đồng nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:
 
-**ID:** dk_00060209
+ a) Ban hành nghị quyết về phát triển thanh niên tại địa phương để thực hiện chính sách, pháp luật của Nhà nước đối với thanh niên;
 
----
+ b) Quyết định các chỉ tiêu, mục tiêu phát triển thanh niên trong nghị quyết phát triển kinh tế - xã hội của địa phương hằng năm và từng giai đoạn;
 
+ c) Quyết định phân bổ dự toán ngân sách để tổ chức thực hiện chính sách, pháp luật, chiến lược, chương trình, kế hoạch phát triển thanh niên tại địa phương;
 
-### Điều 36.3.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+ d) Giám sát việc thực hiện chính sách, pháp luật đối với thanh niên tại địa phương;
 
-Điều 36.3.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+ đ) Quyết định biên chế của cơ quan được giao thực hiện nhiệm vụ quản lý nhà nước về thanh niên.
 
-**Chỉ mục:** 22
+ 2. Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:
 
-**Mã phân cấp:** 360030000000000060000400000000000000000000402389100120002200
+ a) Tổ chức thực hiện chính sách, pháp luật, chiến lược, chương trình, kế hoạch phát triển thanh niên tại địa phương;
 
-**ID:** dk_00060210
+ b) Lồng ghép các chỉ tiêu, mục tiêu phát triển thanh niên khi xây dựng chương trình, kế hoạch phát triển kinh tế - xã hội của địa phương hằng năm và từng giai đoạn;
 
----
+ c) Xây dựng đội ngũ cán bộ, công chức làm công tác quản lý nhà nước về thanh niên;
 
+ d) Bảo đảm quyền và lợi ích hợp pháp, chính đáng của thanh niên khi đầu tư phát triển các cơ sở giáo dục, y tế, tư vấn sức khỏe, cơ sở hoạt động văn hóa, thể dục, thể thao;
 
-### Điều 36.3.NĐ.3.19. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+ đ) Quản lý, khai thác và công bố dữ liệu thống kê về thanh niên, chỉ số phát triển thanh niên tại địa phương;
+
+ e) Thực hiện công tác thống kê, thông tin, hằng năm báo cáo kết quả thực hiện chính sách, pháp luật về thanh niên, gửi Bộ Nội vụ để tổng hợp, báo cáo Chính phủ;
+
+ g) Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo, kiến nghị về thanh niên;
+
+ h) Chỉ đạo, hướng dẫn Ủy ban nhân dân cấp dưới thực hiện nhiệm vụ quản lý nhà nước về thanh niên.Điều 36.3.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+(Điều 22 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
+
+1. Thực hiện chức năng quản lý nhà nước về thanh niên xung phong trên địa bàn theo phân cấp của Chính phủ như sau:
+
+a) Ban hành và hướng dẫn thực hiện các quy định về tổ chức, hoạt động và chính sách đối với thanh niên xung phong theo quy định của pháp luật, phù hợp với điều kiện phát triển kinh tế - xã hội ở địa phương;
+
+b) Giao nhiệm vụ và tạo điều kiện để tổ chức thanh niên xung phong hoàn thành nhiệm vụ được giao;
+
+c) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm các quy định tại Nghị định này;
+
+d) Tổng hợp, báo cáo Thủ tướng Chính phủ về tổ chức, hoạt động và việc thực hiện chính sách đối với thanh niên xung phong.
+
+2. Tạo điều kiện để các tổ chức thanh niên xung phong của Trung ương và các tỉnh khác thực hiện các chương trình, dự án tại địa phương.
 
 Điều 36.3.NĐ.3.19. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Mã phân cấp:** 360030000000000060000400000000000000000000402758200170001900
+1. Đối với thanh niên xung phong
 
-**ID:** dk_00060211
+Ủy ban nhân dân cấp tỉnh thực hiện chức năng quản lý nhà nước về thanh niên xung phong trên địa bàn và có trách nhiệm sau đây:
 
----
+a) Tổ chức thực hiện chính sách đối với thanh niên xung phong theo quy định của pháp luật, phù hợp với điều kiện phát triển kinh tế - xã hội của địa phương;
 
+b) Hướng dẫn, theo dõi, đôn đốc, kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo theo thẩm quyền về chính sách đối với thanh niên xung phong.
 
-### Điều 36.3.LQ.41. Hiệu lực thi hành
+2. Đối với thanh niên tình nguyện
 
-*Nội dung chưa có sẵn*
+Ủy ban nhân dân cấp tỉnh thực hiện chức năng quản lý nhà nước về thanh niên tình nguyện và có trách nhiệm sau đây:
 
-**Chỉ mục:** 41
+a) Xây dựng kênh thông tin về các hoạt động tình nguyện để thanh niên được tiếp cận và tham gia;
 
-**Mã phân cấp:** 3600300000000000700004100000000000000000
+b) Thông báo việc đồng ý tiếp nhận hoạt động tình nguyện vì cộng đồng, xã hội tại địa phương với cơ quan tổ chức hoạt động tình nguyện theo thẩm quyền (về mục tiêu, phạm vi, nội dung, số lượng, thành phần thanh niên tham gia hoạt động tình nguyện); trường hợp không đồng ý phải nêu rõ lý do;
 
-**ID:** dk_00060213
+c) Tạo điều kiện để các tổ chức, cá nhân thực hiện hoạt động tình nguyện trên địa bàn;
 
----
+d) Hướng dẫn, theo dõi, đôn đốc, kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo theo thẩm quyền về chính sách đối với thanh niên tình nguyện.
 
+3. Hằng năm, báo cáo kết quả thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện lồng ghép trong báo cáo quản lý nhà nước về thanh niên theo quy định.
 
-### Điều 36.3.NĐ.1.23. Hiệu lực thi hành
+Chương VII
 
-*Nội dung chưa có sẵn*
+ĐIỀU KHOẢN THI HÀNH
 
-**Chỉ mục:** 23
+Điều 36.3.LQ.41. Hiệu lực thi hành
 
-**Mã phân cấp:** 3600300000000000700004140238910012000230
+(Điều 41 Luật số 57/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 
-**ID:** dk_00060214
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.
 
----
+2. Luật Thanh niên số 53/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
+Điều 36.3.NĐ.1.23. Hiệu lực thi hành
 
-### Điều 36.3.NĐ.1.24. Trách nhiệm thi hành
+(Điều 23 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
-*Nội dung chưa có sẵn*
+1. Nghị định này có hiệu lực thi hành kể từ ngày 26 tháng 3 năm 2011.
 
-**Chỉ mục:** 24
+2. Bãi bỏ Quyết định số 770/TTg ngày 20 tháng 12 năm 1994 của Thủ tướng Chính phủ về tổ chức và chính sách đối với thanh niên xung phong.
 
-**Mã phân cấp:** 3600300000000000700004140238910012000240
+Điều 36.3.NĐ.1.24. Trách nhiệm thi hành
 
-**ID:** dk_00060215
+(Điều 24 Nghị định số 12/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 26/03/2011)
 
----
+1. Bộ Nội vụ có trách nhiệm hướng dẫn thi hành Nghị định này.
 
+2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan trực thuộc Chính phủ, Chủ nhiệm Ủy ban Quốc gia về thanh niên Việt Nam, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-### Điều 36.3.NĐ.2.21. Hiệu lực thi hành
+Điều 36.3.NĐ.2.21. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 21 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
-**Chỉ mục:** 21
+Nghị định này có hiệu lực thi hành kể từ ngày ký.
 
-**Mã phân cấp:** 3600300000000000700004140275740013000210
+Điều 36.3.NĐ.2.22. Trách nhiệm thi hành
 
-**ID:** dk_00060216
+(Điều 22 Nghị định số 13/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/03/2021)
 
----
+1. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
+2. Trong quá trình tổ chức thực hiện Nghị định, nếu có vướng mắc, đề nghị các bộ, cơ quan trung ương và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương phản ánh về Bộ Nội vụ để tổng hợp, báo cáo cấp thẩm quyền xem xét, quyết định.
 
-### Điều 36.3.NĐ.2.22. Trách nhiệm thi hành
+Điều 36.3.NĐ.3.22. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 22 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
-**Chỉ mục:** 22
+1. Nghị định này có hiệu lực thi hành kể từ ngày ký.
 
-**Mã phân cấp:** 3600300000000000700004140275740013000220
+2. Điều 7 Chương I; Điều 16, Điều 17, Điều 18 Chương III tại Nghị định số 12/2011/NĐ-CP ngày 30 tháng 01 năm 2011 của Chính phủ quy định về tổ chức và chính sách đối với thanh niên xung phong hết hiệu lực kể từ ngày Nghị định này có hiệu lực.
 
-**ID:** dk_00060217
+Điều 36.3.NĐ.3.23. Trách nhiệm thi hành
 
----
+(Điều 23 Nghị định số 17/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 09/03/2021)
 
+1. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-### Điều 36.3.NĐ.3.22. Hiệu lực thi hành
+2. Trong quá trình tổ chức thực hiện Nghị định, nếu có vướng mắc đề nghị các bộ, cơ quan trung ương và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương phản ánh về Bộ Nội vụ để tổng hợp, báo cáo Chính phủ xem xét, quyết định.
 
-*Nội dung chưa có sẵn*
+Điều 36.3.TT.1.14. Hiệu lực thi hành
 
-**Chỉ mục:** 22
+(Điều 14 Thông tư số 11/2011/TT-BNV, có hiệu lực thi hành kể từ ngày 01/11/2011)
 
-**Mã phân cấp:** 3600300000000000700004140275820017000220
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2011.
 
-**ID:** dk_00060218
+2. Tổ chức thanh niên xung phong được thành lập trước ngày Nghị định số 12/2011/NĐ-CP ngày 30/01/2011 của Chính phủ có hiệu lực thi hành thì không phải tổ chức lại theo quy định tại Thông tư này.
 
----
+3. Trong quá trình thực hiện Thông tư này, nếu có khó khăn, vướng mắc, đề nghị phản ánh về Bộ Nội vụ để xem xét, giải quyết.
 
+Điều 36.3.TL.1.6. Hiệu lực thi hành
 
-### Điều 36.3.NĐ.3.23. Trách nhiệm thi hành
+(Điều 6 Thông tư liên tịch số 119/2013/TTLT-BTC-BNV, có hiệu lực thi hành kể từ ngày 15/10/2013)
 
-*Nội dung chưa có sẵn*
+1. Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2013.
 
-**Chỉ mục:** 23
+2. Trong quá trình thực hiện Thông tư liên tịch này, nếu có vướng mắc đề nghị các cơ quan, đơn vị phản ánh về Bộ Tài chính, Bộ Nội vụ để nghiên cứu, sửa đổi, bổ sung cho phù hợp.
 
-**Mã phân cấp:** 3600300000000000700004140275820017000230
+## Danh sách điều khoản
 
-**ID:** dk_00060219
+### 36003000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 3600300000000000100000100000000000000000
 
-### Điều 36.3.TT.1.14. Hiệu lực thi hành
+Điều 36.3.LQ.1. Thanh niên
 
-*Nội dung chưa có sẵn*
+### 3600300000000000100000200000000000000000
 
-**Chỉ mục:** 14
+Điều 36.3.LQ.2. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3600300000000000700004180241300011400140
+### 3600300000000000100000300000000000000000
 
-**ID:** dk_00060220
+Điều 36.3.LQ.3. Đối tượng áp dụng
 
----
+### 3600300000000000100000340238910012000010
 
+Điều 36.3.NĐ.1.1. Phạm vi điều chỉnh
 
-### Điều 36.3.TL.1.6. Hiệu lực thi hành
+### 3600300000000000100000340238910012000020
 
-*Nội dung chưa có sẵn*
+Điều 36.3.NĐ.1.2. Đối tượng áp dụng
 
-**Chỉ mục:** 6
+### 3600300000000000100000340275740013000010
 
-**Mã phân cấp:** 3600300000000000700004180248300119000060
+Điều 36.3.NĐ.2.1. Phạm vi điều chỉnh
 
-**ID:** dk_00060221
+### 3600300000000000100000340275740013000020
 
----
+Điều 36.3.NĐ.2.2. Đối tượng áp dụng
 
+### 3600300000000000100000340275820017000010
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức chính trị - xã hội, hội](/to-chuc-chinh-tri-xa-hoi-hoi/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 36.3.NĐ.3.1. Phạm vi điều chỉnh
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 133
-- **Điều khoản thực tế:** 126
-- **Điều khoản có nội dung:** 75 (59.5%)
-- **ID đề mục:** 012d9b93c11d48b6b08e14d77515ca1e
+### 3600300000000000100000340275820017000020
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 36.3.NĐ.3.2. Đối tượng áp dụng
 
----
+### 3600300000000000100000380248300119000010
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 36.3.TL.1.1. Phạm vi và đối tượng áp dụng
+
+### 3600300000000000100000400000000000000000
+
+Điều 36.3.LQ.4. Vai trò, quyền và nghĩa vụ của thanh niên
+
+### 3600300000000000100000500000000000000000
+
+Điều 36.3.LQ.5. Nguyên tắc bảo đảm thực hiện quyền, nghĩa vụ của thanh niên và chính sách của Nhà nước đối với thanh niên
+
+### 3600300000000000100000600000000000000000
+
+Điều 36.3.LQ.6. Nguồn lực thực hiện chính sách của Nhà nước đối với thanh niên
+
+### 3600300000000000100000700000000000000000
+
+Điều 36.3.LQ.7. Ủy ban quốc gia về Thanh niên Việt Nam
+
+### 3600300000000000100000800000000000000000
+
+Điều 36.3.LQ.8. Hợp tác quốc tế về thanh niên
+
+### 3600300000000000100000900000000000000000
+
+Điều 36.3.LQ.9. Tháng Thanh niên
+
+### 3600300000000000100001000000000000000000
+
+Điều 36.3.LQ.10. Đối thoại với thanh niên
+
+### 360030000000000010000100000000000000000000402757400130000300
+
+Điều 36.3.NĐ.2.3. Nguồn lực thực hiện
+
+### 360030000000000010000100000000000000000000402757400130000400
+
+Điều 36.3.NĐ.2.4. Nguyên tắc đối thoại với thanh niên
+
+### 360030000000000010000100000000000000000000402757400130000500
+
+Điều 36.3.NĐ.2.5. Trách nhiệm tổ chức đối thoại
+
+### 360030000000000010000100000000000000000000402757400130000600
+
+Điều 36.3.NĐ.2.6. Hình thức đối thoại
+
+### 360030000000000010000100000000000000000000402757400130000700
+
+Điều 36.3.NĐ.2.7. Nội dung đối thoại
+
+### 360030000000000010000100000000000000000000402757400130000800
+
+Điều 36.3.NĐ.2.8. Xây dựng kế hoạch, chương trình đối thoại
+
+### 360030000000000010000100000000000000000000402757400130000900
+
+Điều 36.3.NĐ.2.9. Nội dung kế hoạch, chương trình đối thoại
+
+### 360030000000000010000100000000000000000000402757400130001000
+
+Điều 36.3.NĐ.2.10. Tổ chức đối thoại
+
+### 360030000000000010000100000000000000000000402757400130001100
+
+Điều 36.3.NĐ.2.11. Nội dung kết luận đối thoại
+
+### 360030000000000010000100000000000000000000402757400130001200
+
+Điều 36.3.NĐ.2.12. Tổ chức thực hiện
+
+### 3600300000000000100001100000000000000000
+
+Điều 36.3.LQ.11. Áp dụng điều ước quốc tế về quyền trẻ em đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+
+### 36003000000000002000
+
+Chương II TRÁCH NHIỆM CỦA THANH NIÊN
+
+### 3600300000000000200001200000000000000000
+
+Điều 36.3.LQ.12. Trách nhiệm đối với Tổ quốc
+
+### 3600300000000000200001300000000000000000
+
+Điều 36.3.LQ.13. Trách nhiệm đối với Nhà nước và xã hội
+
+### 3600300000000000200001400000000000000000
+
+Điều 36.3.LQ.14. Trách nhiệm đối với gia đình
+
+### 3600300000000000200001500000000000000000
+
+Điều 36.3.LQ.15. Trách nhiệm đối với bản thân
+
+### 36003000000000003000
+
+Chương III CHÍNH SÁCH CỦA NHÀ NƯỚC ĐỐI VỚI THANH NIÊN
+
+### 3600300000000000300001600000000000000000
+
+Điều 36.3.LQ.16. Chính sách về học tập và nghiên cứu khoa học
+
+### 3600300000000000300001700000000000000000
+
+Điều 36.3.LQ.17. Chính sách về lao động, việc làm
+
+### 3600300000000000300001800000000000000000
+
+Điều 36.3.LQ.18. Chính sách về khởi nghiệp
+
+### 3600300000000000300001900000000000000000
+
+Điều 36.3.LQ.19. Chính sách về bảo vệ, chăm sóc và nâng cao sức khỏe
+
+### 3600300000000000300002000000000000000000
+
+Điều 36.3.LQ.20. Chính sách về văn hóa, thể dục, thể thao
+
+### 3600300000000000300002100000000000000000
+
+Điều 36.3.LQ.21. Chính sách về bảo vệ Tổ quốc
+
+### 3600300000000000300002200000000000000000
+
+Điều 36.3.LQ.22. Chính sách đối với thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120000300
+
+Điều 36.3.NĐ.1.3. Chức năng của thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120000400
+
+Điều 36.3.NĐ.1.4. Nhiệm vụ của thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120000500
+
+Điều 36.3.NĐ.1.5. Thẩm quyền thành lập, giải thể và quản lý thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000100
+
+Điều 36.3.TT.1.1. Trách nhiệm quản lý thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000200
+
+Điều 36.3.TT.1.2. Nguyên tắc thành lập tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000300
+
+Điều 36.3.TT.1.3. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong ở Trung ương
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000400
+
+Điều 36.3.TT.1.4. Trình tự, thủ tục thành lập tổ chức thanh niên xung phong cấp tỉnh
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000500
+
+Điều 36.3.TT.1.5. Hồ sơ đề nghị thành lập tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000600
+
+Điều 36.3.TT.1.6. Các trường hợp giải thể tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000700
+
+Điều 36.3.TT.1.7. Thẩm quyền và căn cứ giải thể tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000800
+
+Điều 36.3.TT.1.8. Trình tự, thủ tục giải thể tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114000900
+
+Điều 36.3.TT.1.9. Hồ sơ đề nghị giải thể tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114001000
+
+Điều 36.3.TT.1.10. Cán bộ quản lý thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114001100
+
+Điều 36.3.TT.1.11. Sử dụng cán bộ quản lý thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114001200
+
+Điều 36.3.TT.1.12. Trách nhiệm của tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000050000802413000114001300
+
+Điều 36.3.TT.1.13. Chế độ báo cáo
+
+### 360030000000000030000220000000000000000000402389100120000600
+
+Điều 36.3.NĐ.1.6. Đội viên thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120000800
+
+Điều 36.3.NĐ.1.8. Trang phục và các hình thức ghi nhận thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120000900
+
+Điều 36.3.NĐ.1.9. Tổ chức thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120001000
+
+Điều 36.3.NĐ.1.10. Ban Chỉ huy lực lượng thanh niên xung phong Trung ương
+
+### 360030000000000030000220000000000000000000402389100120001100
+
+Điều 36.3.NĐ.1.11. Ban Chỉ huy lực lượng thanh niên xung phong cấp tỉnh
+
+### 360030000000000030000220000000000000000000402389100120001200
+
+Điều 36.3.NĐ.1.12. Tổng đội thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120001300
+
+Điều 36.3.NĐ.1.13. Trung tâm, Trường Giáo dục lao động xã hội
+
+### 360030000000000030000220000000000000000000402389100120001400
+
+Điều 36.3.NĐ.1.14. Doanh nghiệp
+
+### 360030000000000030000220000000000000000000402389100120001500
+
+Điều 36.3.NĐ.1.15. Chính sách đối với đơn vị thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402389100120001900
+
+Điều 36.3.NĐ.1.19. Kinh phí thực hiện chính sách đối với thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000190000802483001190000200
+
+Điều 36.3.TL.1.2. Nguyên tắc bố trí kinh phí hoạt động thường xuyên từ nguồn ngân sách nhà nước đối với tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000190000802483001190000300
+
+Điều 36.3.TL.1.3. Nội dung chi của các tổ chức thanh niên xung phong
+
+### 36003000000000003000022000000000000000000040238910012000190000802483001190000400
+
+Điều 36.3.TL.1.4. Mức chi
+
+### 36003000000000003000022000000000000000000040238910012000190000802483001190000500
+
+Điều 36.3.TL.1.5. Lập dự toán, quản lý và quyết toán kinh phí:
+
+### 360030000000000030000220000000000000000000402758200170000300
+
+Điều 36.3.NĐ.3.3. Nhiệm vụ của thanh niên xung phong và thanh niên tình nguyện
+
+### 360030000000000030000220000000000000000000402758200170000400
+
+Điều 36.3.NĐ.3.4. Nguyên tắc thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện
+
+### 360030000000000030000220000000000000000000402758200170000500
+
+Điều 36.3.NĐ.3.5. Kinh phí thực hiện chính sách đối với thanh niên xung phong, thanh niên tình nguyện
+
+### 360030000000000030000220000000000000000000402758200170000600
+
+Điều 36.3.NĐ.3.6. Chính sách đối với đội viên thanh niên xung phong trong quá trình thực hiện nhiệm vụ
+
+### 360030000000000030000220000000000000000000402758200170000700
+
+Điều 36.3.NĐ.3.7. Chính sách đối với đội viên thanh niên xung phong sau khi hoàn thành nhiệm vụ
+
+### 360030000000000030000220000000000000000000402758200170000800
+
+Điều 36.3.NĐ.3.8. Chính sách đối với người làm công tác lãnh đạo, quản lý, chuyên môn, kỹ thuật trong tổ chức thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402758200170001400
+
+Điều 36.3.NĐ.3.14. Trách nhiệm của người tham gia tổ chức thanh niên xung phong
+
+### 360030000000000030000220000000000000000000402758200170001600
+
+Điều 36.3.NĐ.3.16. Trách nhiệm của tổ chức thanh niên xung phong
+
+### 3600300000000000300002300000000000000000
+
+Điều 36.3.LQ.23. Chính sách đối với thanh niên tình nguyện
+
+### 360030000000000030000230000000000000000000402758200170000900
+
+Điều 36.3.NĐ.3.9. Chính sách đối với thanh niên tình nguyện trong quá trình thực hiện chương trình, đề án, dự án
+
+### 360030000000000030000230000000000000000000402758200170001000
+
+Điều 36.3.NĐ.3.10. Chính sách đối với thanh niên tình nguyện sau khi kết thúc chương trình, đề án, dự án
+
+### 360030000000000030000230000000000000000000402758200170001100
+
+Điều 36.3.NĐ.3.11. Chính sách đối với thanh niên tình nguyện trong quá trình hoạt động tình nguyện
+
+### 360030000000000030000230000000000000000000402758200170001200
+
+Điều 36.3.NĐ.3.12. Chính sách đối với thanh niên tình nguyện sau khi kết thúc hoạt động tình nguyện
+
+### 360030000000000030000230000000000000000000402758200170001300
+
+Điều 36.3.NĐ.3.13. Chính sách đối với cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện vì cộng đồng, xã hội
+
+### 360030000000000030000230000000000000000000402758200170001500
+
+Điều 36.3.NĐ.3.15. Trách nhiệm của thanh niên tình nguyện
+
+### 360030000000000030000230000000000000000000402758200170001700
+
+Điều 36.3.NĐ.3.17. Trách nhiệm của cơ quan, tổ chức, đơn vị tổ chức hoạt động tình nguyện
+
+### 360030000000000030000230000000000000000000402758200170001800
+
+Điều 36.3.NĐ.3.18. Trách nhiệm của Ủy ban nhân dân cấp xã, cấp huyện đối với thanh niên tình nguyện
+
+### 3600300000000000300002400000000000000000
+
+Điều 36.3.LQ.24. Chính sách đối với thanh niên có tài năng
+
+### 3600300000000000300002500000000000000000
+
+Điều 36.3.LQ.25. Chính sách đối với thanh niên là người dân tộc thiểu số
+
+### 3600300000000000300002600000000000000000
+
+Điều 36.3.LQ.26. Chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+
+### 360030000000000030000260000000000000000000402757400130001300
+
+Điều 36.3.NĐ.2.13. Nguyên tắc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+
+### 360030000000000030000260000000000000000000402757400130001400
+
+Điều 36.3.NĐ.2.14. Về phổ cập giáo dục
+
+### 360030000000000030000260000000000000000000402757400130001500
+
+Điều 36.3.NĐ.2.15. Về hoạt động văn hóa, thể dục, thể thao, vui chơi, giải trí
+
+### 360030000000000030000260000000000000000000402757400130001600
+
+Điều 36.3.NĐ.2.16. Về đào tạo, tư vấn lựa chọn nghề nghiệp, việc làm
+
+### 360030000000000030000260000000000000000000402757400130001700
+
+Điều 36.3.NĐ.2.17. Về trang bị kiến thức, kỹ năng tự bảo vệ sức khỏe thể chất, tinh thần
+
+### 360030000000000030000260000000000000000000402757400130001800
+
+Điều 36.3.NĐ.2.18. Ưu tiên giải quyết nhanh chóng các vụ việc gây tổn hại đến thể chất và tinh thần
+
+### 360030000000000030000260000000000000000000402757400130001900
+
+Điều 36.3.NĐ.2.19. Về phát hiện, đào tạo, bồi dưỡng năng khiếu
+
+### 360030000000000030000260000000000000000000402757400130002000
+
+Điều 36.3.NĐ.2.20. Theo dõi việc thực hiện cơ chế, chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi
+
+### 36003000000000004000
+
+Chương IV TRÁCH NHIỆM CỦA TỔ CHỨC THANH NIÊN
+
+### 3600300000000000400002700000000000000000
+
+Điều 36.3.LQ.27. Tổ chức thanh niên
+
+### 3600300000000000400002800000000000000000
+
+Điều 36.3.LQ.28. Đoàn Thanh niên Cộng sản Hồ Chí Minh
+
+### 360030000000000040000280000000000000000000402758200170002100
+
+Điều 36.3.NĐ.3.21. Đề nghị Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh
+
+### 3600300000000000400002900000000000000000
+
+Điều 36.3.LQ.29. Hội Liên hiệp Thanh niên Việt Nam và Hội Sinh viên Việt Nam
+
+### 3600300000000000400003000000000000000000
+
+Điều 36.3.LQ.30. Chính sách của Nhà nước đối với tổ chức thanh niên
+
+### 36003000000000005000
+
+Chương V TRÁCH NHIỆM CỦA MẶT TRẬN TỔ QUỐC VIỆT NAM, TỔ CHỨC XÃ HỘI, TỔ CHỨC KINH TẾ, CƠ SỞ GIÁO DỤC, GIA ĐÌNH
+
+### 3600300000000000500003100000000000000000
+
+Điều 36.3.LQ.31. Trách nhiệm của Mặt trận Tổ quốc Việt Nam
+
+### 3600300000000000500003200000000000000000
+
+Điều 36.3.LQ.32. Trách nhiệm của tổ chức xã hội
+
+### 3600300000000000500003300000000000000000
+
+Điều 36.3.LQ.33. Trách nhiệm của tổ chức kinh tế
+
+### 3600300000000000500003400000000000000000
+
+Điều 36.3.LQ.34. Trách nhiệm của cơ sở giáo dục
+
+### 3600300000000000500003500000000000000000
+
+Điều 36.3.LQ.35. Trách nhiệm của gia đình
+
+### 36003000000000006000
+
+Chương VI QUẢN LÝ NHÀ NƯỚC VỀ THANH NIÊN
+
+### 3600300000000000600003600000000000000000
+
+Điều 36.3.LQ.36. Nội dung quản lý nhà nước về thanh niên
+
+### 3600300000000000600003700000000000000000
+
+Điều 36.3.LQ.37. Trách nhiệm của Chính phủ
+
+### 3600300000000000600003800000000000000000
+
+Điều 36.3.LQ.38. Trách nhiệm của Bộ Nội vụ
+
+### 360030000000000060000380000000000000000000402389100120002000
+
+Điều 36.3.NĐ.1.20. Trách nhiệm của Bộ Nội vụ
+
+### 3600300000000000600003900000000000000000
+
+Điều 36.3.LQ.39. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+
+### 360030000000000060000390000000000000000000402389100120002100
+
+Điều 36.3.NĐ.1.21. Trách nhiệm của các Bộ, ngành
+
+### 360030000000000060000390000000000000000000402758200170002000
+
+Điều 36.3.NĐ.3.20. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+### 3600300000000000600004000000000000000000
+
+Điều 36.3.LQ.40. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh
+
+### 360030000000000060000400000000000000000000402389100120002200
+
+Điều 36.3.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 360030000000000060000400000000000000000000402758200170001900
+
+Điều 36.3.NĐ.3.19. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 36003000000000007000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 3600300000000000700004100000000000000000
+
+Điều 36.3.LQ.41. Hiệu lực thi hành
+
+### 3600300000000000700004140238910012000230
+
+Điều 36.3.NĐ.1.23. Hiệu lực thi hành
+
+### 3600300000000000700004140238910012000240
+
+Điều 36.3.NĐ.1.24. Trách nhiệm thi hành
+
+### 3600300000000000700004140275740013000210
+
+Điều 36.3.NĐ.2.21. Hiệu lực thi hành
+
+### 3600300000000000700004140275740013000220
+
+Điều 36.3.NĐ.2.22. Trách nhiệm thi hành
+
+### 3600300000000000700004140275820017000220
+
+Điều 36.3.NĐ.3.22. Hiệu lực thi hành
+
+### 3600300000000000700004140275820017000230
+
+Điều 36.3.NĐ.3.23. Trách nhiệm thi hành
+
+### 3600300000000000700004180241300011400140
+
+Điều 36.3.TT.1.14. Hiệu lực thi hành
+
+### 3600300000000000700004180248300119000060
+
+Điều 36.3.TL.1.6. Hiệu lực thi hành
+

@@ -1,1375 +1,2459 @@
 ---
-layout: default
+layout: page
 title: Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan/
-collection: subtopics
-slug: hoat-dong-giam-sat-cua-quoc-hoi-va-hoi-dong-nhan-dan
-parent: to-chuc-bo-may-nha-nuoc
 ---
 
 # Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 
-**Đề mục:** Hoạt động giám sát của Quốc hội và Hội đồng nhân dân  
-**Chủ đề:** [Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)  
-**Số điều khoản:** 116  
-**Điều khoản có nội dung:** 77/103 (74.8%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 35.3.LQ.1. Phạm vi điều chỉnh
+Điều 35.3.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ngày 20/11/2015 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2016 )
 
-**Chỉ mục:** 1
+ Luật này quy định về hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội và Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân; trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát, cơ quan, tổ chức và cá nhân khác có liên quan đến hoạt động giám sát.Điều 35.3.NQ.2.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3500300000000000100000100000000000000000
+(Điều 1 Nghị quyết số 96/2023/QH15 về việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn ngày 23/06/2023 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2023 )
 
-**ID:** dk_00059209
-
----
-
-
-### Điều 35.3.NQ.2.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3500300000000000100000110284180096000010
-
-**ID:** dk_00059210
-
----
-
-
-### Điều 35.3.NQ.2.2. Đối tượng lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm
+Nghị quyết này quy định việc Quốc hội, Hội đồng nhân dân lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn quy định tại Điều 2 của Nghị quyết này.
 
 Điều 35.3.NQ.2.2. Đối tượng lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 96/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 3500300000000000100000110284180096000020
+1. Quốc hội lấy phiếu tín nhiệm đối với những người giữ các chức vụ sau đây:
 
-**ID:** dk_00059211
+a) Chủ tịch nước, Phó Chủ tịch nước;
 
----
+b) Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội, Tổng Thư ký Quốc hội, Chủ tịch Hội đồng Dân tộc, Chủ nhiệm Ủy ban của Quốc hội;
 
+c) Thủ tướng Chính phủ, Phó Thủ tướng Chính phủ, Bộ trưởng, các thành viên khác của Chính phủ;
 
-### Điều 35.3.LQ.2. Giải thích từ ngữ
+d) Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước.
 
-*Nội dung chưa có sẵn*
+2. Hội đồng nhân dân cấp tỉnh, cấp huyện lấy phiếu tín nhiệm đối với những người giữ các chức vụ sau đây:
 
-**Chỉ mục:** 2
+a) Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Hội đồng nhân dân, Trưởng Ban của Hội đồng nhân dân cấp tỉnh, cấp huyện;
 
-**Mã phân cấp:** 3500300000000000100000200000000000000000
+b) Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân, các Ủy viên Ủy ban nhân dân cấp tỉnh, cấp huyện.
 
-**ID:** dk_00059212
+3. Quốc hội, Hội đồng nhân dân bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn trong các trường hợp quy định tại Điều 13 của Nghị quyết này.
 
----
+4. Trường hợp một người đồng thời giữ nhiều chức vụ quy định tại khoản 1 hoặc khoản 2 Điều này thì việc lấy phiếu tín nhiệm được thực hiện một lần đối với tất cả các chức vụ đó.
 
+5. Không lấy phiếu tín nhiệm đối với người giữ chức vụ quy định tại khoản 1 và khoản 2 Điều này đã có thông báo nghỉ công tác chờ nghỉ hưu hoặc được bầu, bổ nhiệm trong năm lấy phiếu tín nhiệm.
 
-### Điều 35.3.NQ.2.3. Giải thích từ ngữ
+(Điều này có nội dung liên quan đến Điều 35.3.NQ.2.13. Các trường hợp bỏ phiếu tín nhiệm; Điều 35.3.NQ.2.18. Phiếu sử dụng trong lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm và việc xác định phiếu hợp lệ)
 
-*Nội dung chưa có sẵn*
+Điều 35.3.LQ.2. Giải thích từ ngữ
 
-**Chỉ mục:** 3
+(Điều 2 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000100000210284180096000030
+ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00059213
+ 1.* Giám sát* là việc chủ thể giám sát theo dõi, xem xét, đánh giá hoạt động của cơ quan, tổ chức, cá nhân chịu sự giám sát trong việc tuân theo Hiến pháp và pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình, xử lý theo thẩm quyền hoặc yêu cầu, kiến nghị cơ quan có thẩm quyền xử lý.
 
----
+ 2. *Chủ thể giám sát* bao gồm Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội và Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân.
 
+ 3. *Giám sát tối cao* là việc Quốc hội theo dõi, xem xét, đánh giá hoạt động của cơ quan, tổ chức, cá nhân chịu sự giám sát trong việc tuân theo Hiến pháp, luật, nghị quyết của Quốc hội và xử lý theo thẩm quyền hoặc yêu cầu cơ quan có thẩm quyền xử lý. Giám sát tối cao được thực hiện tại kỳ họp Quốc hội.
 
-### Điều 35.3.LQ.3. Nguyên tắc hoạt động giám sát
+ 4. *Giám sát chuyên đề* là việc chủ thể giám sát theo dõi, xem xét, đánh giá vấn đề hoặc hoạt động của cơ quan, tổ chức, cá nhân chịu sự giám sát trong việc tuân theo Hiến pháp và pháp luật.
 
-*Nội dung chưa có sẵn*
+ 5. *Giám sát của Quốc hội *bao gồm giám sát tối cao của Quốc hội, giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và các đại biểu Quốc hội.
 
-**Chỉ mục:** 3
+ 6. *Giám sát của Hội đồng nhân dân* bao gồm giám sát của Hội đồng nhân dân tại kỳ họp, giám sát của Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và các đại biểu Hội đồng nhân dân.
 
-**Mã phân cấp:** 3500300000000000100000300000000000000000
+ 7. *Chất vấn* là việc đại biểu Quốc hội nêu vấn đề thuộc trách nhiệm của Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Bộ trưởng, thành viên khác của Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; đại biểu Hội đồng nhân dân nêu vấn đề thuộc trách nhiệm của Chủ tịch Ủy ban nhân dân, thành viên khác của Ủy ban nhân dân, Chánh án Tòa án nhân dân, Viện trưởng Viện kiểm sát nhân dân, Thủ trưởng cơ quan thuộc Ủy ban nhân dân cùng cấp và yêu cầu những người này trả lời về trách nhiệm của mình đối với vấn đề được nêu.
 
-**ID:** dk_00059214
+ 8. *Giải trình* là việc cơ quan, cá nhân hữu quan giải thích, làm rõ trách nhiệm của mình trong việc thực hiện nhiệm vụ, quyền hạn được giao theo yêu cầu của chủ thể giám sát quy định tại Luật này.Điều 35.3.NQ.2.3. Giải thích từ ngữ
 
----
+(Điều 3 Nghị quyết số 96/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
+Trong Nghị quyết này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội
+1. *Lấy phiếu tín nhiệm* là việc Quốc hội, Hội đồng nhân dân thực hiện quyền giám sát, đánh giá mức độ tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn để làm cơ sở xem xét đánh giá cán bộ.
 
-*Nội dung chưa có sẵn*
+2. *Bỏ phiếu tín nhiệm* là việc Quốc hội, Hội đồng nhân dân thực hiện quyền giám sát, đánh giá tín nhiệm hoặc không tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn để làm cơ sở cho việc miễn nhiệm hoặc phê chuẩn đề nghị miễn nhiệm người không được Quốc hội, Hội đồng nhân dân tín nhiệm.
 
-**Chỉ mục:** 4
+(Điều này có nội dung liên quan đến Điều 35.3.LQ.18. Lấy phiếu tín nhiệm; Điều 35.3.LQ.19. Bỏ phiếu tín nhiệm)
 
-**Mã phân cấp:** 3500300000000000100000400000000000000000
+Điều 35.3.LQ.3. Nguyên tắc hoạt động giám sát
 
-**ID:** dk_00059215
+(Điều 3 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ 1. Tuân thủ Hiến pháp và pháp luật.
 
+ 2. Bảo đảm khách quan, công khai, minh bạch, hiệu quả.
 
-### Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân
+ 3. Không làm cản trở đến hoạt động bình thường của cơ quan, tổ chức, cá nhân chịu sự giám sát.Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội
+
+(Điều 4 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+1. Thẩm quyền giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội được quy định như sau:
+
+a) Quốc hội giám sát tối cao việc tuân theo Hiến pháp, luật, nghị quyết của Quốc hội; giám sát tối cao hoạt động của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, thành viên khác của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập; giám sát tối cao văn bản quy phạm pháp luật của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; giám sát tối cao nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội hoặc Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao;
+
+b) Ủy ban thường vụ Quốc hội giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội; giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập, Hội đồng nhân dân cấp tỉnh; giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; giám sát nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, nghị quyết của Hội đồng nhân dân cấp tỉnh; giúp Quốc hội tổ chức thực hiện quyền giám sát tối cao theo sự phân công của Quốc hội;
+
+c) Hội đồng dân tộc, các Ủy ban của Quốc hội trong phạm vi nhiệm vụ, quyền hạn của mình giám sát việc thực hiện Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội; giám sát hoạt động của Chính phủ, bộ, cơ quan ngang bộ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập; giám sát văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; giám sát nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao thuộc lĩnh vực Hội đồng dân tộc, Ủy ban phụ trách; giúp Quốc hội, Ủy ban thường vụ Quốc hội thực hiện quyền giám sát theo sự phân công của Quốc hội, Ủy ban thường vụ Quốc hội;
+
+d) Đoàn đại biểu Quốc hội tổ chức hoạt động giám sát của Đoàn và tổ chức để đại biểu Quốc hội trong Đoàn thực hiện nhiệm vụ giám sát tại địa phương; tham gia giám sát với Đoàn giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội tại địa phương;
+
+đ) Đại biểu Quốc hội chất vấn Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Bộ trưởng, thành viên khác của Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; trong phạm vi nhiệm vụ, quyền hạn của mình giám sát văn bản quy phạm pháp luật, việc thi hành pháp luật; giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân; tham gia Đoàn giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội tại các bộ, ngành, địa phương khi có yêu cầu.
+
+2. Khi xét thấy cần thiết, Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội tiến hành giám sát hoạt động của cơ quan, tổ chức, cá nhân khác.
+
+(Điều này có nội dung liên quan đến Điều 30.2.LQ.12. Giám sát và kiểm sát việc thi hành án; Điều 198. Giám sát của Quốc hội, Hội đồng nhân dân các cấp, Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận về việc quản lý và sử dụng đất đai của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 6. Giám sát việc thi hành án hình sự của Luật 41/2019/QH14 Luật thi hành án hình sự ban hành ngày 14/06/2019; Điều 30. Giám sát hoạt động ký kết và thực hiện thỏa thuận quốc tế của Pháp lệnh 33/2007/PL-UBTVQH11 Ký kết và thực hiện thỏa thuận quốc tế ban hành ngày 20/04/2007; Điều 8.2.LQ.36. Giám sát việc thực hiện pháp luật về bình đẳng giới; Điều 35.5.LQ.22. Trách nhiệm của Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội; Điều 26.4.LQ.4. Nguyên tắc thực hành tiết kiệm, chống lãng phí; Điều 26.4.LQ.6. Giám sát về thực hành tiết kiệm, chống lãng phí; Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân; Điều 26.3.LQ.19. Nhiệm vụ, quyền hạn của Quốc hội; Điều 26.3.LQ.20. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội; Điều 26.3.LQ.21. Nhiệm vụ, quyền hạn của Ủy ban tài chính, ngân sách của Quốc hội; Điều 26.3.LQ.22. Nhiệm vụ, quyền hạn của Hội đồng dân tộc và các Ủy ban khác của Quốc hội của ; Điều 35.1.LQ.4. Trách nhiệm của cơ quan, tổ chức trong công tác bầu cử; Điều 35.1.LQ.13. Nguyên tắc hoạt động của Hội đồng bầu cử quốc gia; Điều 35.1.LQ.88. Xác nhận tư cách của người trúng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân; Điều 35.3.LQ.11. Các hoạt động giám sát tối cao của Quốc hội; Điều 35.3.LQ.22. Các hoạt động giám sát của Ủy ban thường vụ Quốc hội; Điều 35.3.LQ.37. Các hoạt động giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội; Điều 35.3.LQ.40. Giám sát văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương; Điều 35.3.LQ.47. Các hoạt động giám sát của đại biểu Quốc hội; Điều 35.3.LQ.50. Chất vấn của đại biểu Quốc hội; Điều 37.10.LQ.7. Giám sát việc thực hiện chế độ tạm giữ, tạm giam; Điều 44.15.LQ.10. Giám sát việc tổ chức trưng cầu ý dân; Điều 44.15.LQ.18. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội; Điều 37.11.LQ.13. Giám sát của cơ quan, tổ chức, đại biểu dân cử đối với hoạt động điều tra hình sự; Điều 8.1.LQ.77. Tổ chức đại diện tiếng nói, nguyện vọng của trẻ em; Điều 8.1.LQ.79. Quốc hội, Hội đồng nhân dân các cấp; Điều 32.2.LQ.13. Giám sát việc bảo đảm thực hiện quyền tiếp cận thông tin của ; Điều 23.4.LQ.7. Giám sát hoạt động ký kết và thực hiện điều ước quốc tế; Điều 28.2.LQ.7. Giám sát việc quản lý nợ công; Điều 18.2.LQ.7. Giám sát công tác phòng, chống tham nhũng; Điều 9. Trách nhiệm giám sát việc giải quyết kiến nghị của cử tri của )
 
 Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000100000500000000000000000
+ 1. Thẩm quyền giám sát của Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân được quy định như sau:
 
-**ID:** dk_00059216
+ a) Hội đồng nhân dân giám sát việc tuân theo Hiến pháp, pháp luật ở địa phương và việc thực hiện nghị quyết của Hội đồng nhân dân cùng cấp; giám sát hoạt động của Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự cùng cấp và Ban của Hội đồng nhân dân cấp mình; giám sát quyết định của Ủy ban nhân dân cùng cấp và nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp;
 
----
+ b) Thường trực Hội đồng nhân dân giám sát việc tuân theo Hiến pháp, pháp luật ở địa phương và việc thực hiện nghị quyết của Hội đồng nhân dân cùng cấp; giám sát hoạt động của Ủy ban nhân dân, các cơ quan thuộc Ủy ban nhân dân, Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự cùng cấp và Hội đồng nhân dân cấp dưới; giám sát quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp; giúp Hội đồng nhân dân thực hiện quyền giám sát theo sự phân công của Hội đồng nhân dân;
 
+ c) Ban của Hội đồng nhân dân giúp Hội đồng nhân dân giám sát hoạt động của Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự cùng cấp; giám sát hoạt động của Ủy ban nhân dân, các cơ quan thuộc Ủy ban nhân dân cùng cấp thuộc lĩnh vực Ban phụ trách; giám sát văn bản quy phạm pháp luật thuộc lĩnh vực Ban phụ trách;
 
-### Điều 35.3.LQ.6. Trách nhiệm của các chủ thể giám sát
+ d) Tổ đại biểu Hội đồng nhân dân giám sát việc tuân theo Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên ở địa phương và nghị quyết của Hội đồng nhân dân cùng cấp hoặc về vấn đề do Hội đồng nhân dân, Thường trực Hội đồng nhân dân phân công;
+
+ đ) Đại biểu Hội đồng nhân dân chất vấn Chủ tịch Ủy ban nhân dân, thành viên khác của Ủy ban nhân dân, Chánh án Tòa án nhân dân, Viện trưởng Viện kiểm sát nhân dân, Thủ trưởng cơ quan thuộc Ủy ban nhân dân cùng cấp; trong phạm vi nhiệm vụ, quyền hạn của mình giám sát việc tuân theo Hiến pháp và pháp luật; giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân ở địa phương.
+
+ 2. Khi xét thấy cần thiết, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân tiến hành giám sát hoạt động của cơ quan, tổ chức, cá nhân khác ở địa phương.(Điều này có nội dung liên quan đến Điều 198. Giám sát của Quốc hội, Hội đồng nhân dân các cấp, Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận về việc quản lý và sử dụng đất đai của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 6. Giám sát việc thi hành án hình sự của Luật 41/2019/QH14 Luật thi hành án hình sự ban hành ngày 14/06/2019; Điều 8.2.LQ.36. Giám sát việc thực hiện pháp luật về bình đẳng giới của Luật 73/2006/QH11 Bình đẳng giới ban hành ngày 29/11/2006; Điều 30.2.LQ.14. Nhiệm vụ, quyền hạn của cơ quan thi hành án dân sự cấp tỉnh; Điều 30.2.LQ.16. Nhiệm vụ, quyền hạn của cơ quan thi hành án dân sự cấp huyện của Luật 26/2008/QH12 Thi hành án dân sự ban hành ngày 14/11/2008; Điều 35.5.LQ.25. Trách nhiệm của cơ quan, tổ chức và người dân Thủ đô của Luật 25/2012/QH13 Thủ đô ban hành ngày 21/11/2012; Điều 26.4.LQ.4. Nguyên tắc thực hành tiết kiệm, chống lãng phí; Điều 26.4.LQ.6. Giám sát về thực hành tiết kiệm, chống lãng phí; Điều 26.4.LQ.70. Trách nhiệm của Hội đồng nhân dân các cấp; Điều 26.4.LQ.71. Trách nhiệm của Ủy ban nhân dân các cấp của Luật 44/2013/QH13 Thực hành tiết kiệm, chống lãng phí ban hành ngày 26/11/2013; Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân; Điều 26.3.LQ.10. Dự phòng ngân sách nhà nước; Điều 26.3.LQ.15. Công khai ngân sách nhà nước; Điều 26.3.LQ.17. Kế hoạch tài chính 05 năm; Điều 26.3.LQ.30. Nhiệm vụ, quyền hạn của Hội đồng nhân dân các cấp; Điều 26.3.LQ.45. Trách nhiệm của các cơ quan, tổ chức, đơn vị trong việc lập dự toán ngân sách hằng năm; Điều 26.3.LQ.52. Điều chỉnh dự toán ngân sách nhà nước; Điều 26.3.LQ.59. Xử lý tăng, giảm thu, chi so với dự toán trong quá trình chấp hành ngân sách nhà nước; Điều 26.3.LQ.69. Thời hạn và trình tự quyết toán ngân sách địa phương của Luật 83/2015/QH13 Ngân sách nhà nước ban hành ngày 25/06/2015; Điều 35.1.LQ.4. Trách nhiệm của cơ quan, tổ chức trong công tác bầu cử; Điều 35.1.LQ.88. Xác nhận tư cách của người trúng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân; Điều 35.3.LQ.57. Các hoạt động giám sát của Hội đồng nhân dân; Điều 35.3.LQ.66. Các hoạt động giám sát của Thường trực Hội đồng nhân dân; Điều 35.3.LQ.83. Hoạt động giám sát của đại biểu Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân; Điều 35.3.LQ.84. Chất vấn của đại biểu Hội đồng nhân dân của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015; Điều 37.11.LQ.13. Giám sát của cơ quan, tổ chức, đại biểu dân cử đối với hoạt động điều tra hình sự của Luật 99/2015/QH13 Tổ chức cơ quan điều tra hình sự ban hành ngày 26/11/2015; Điều 8.1.LQ.79. Quốc hội, Hội đồng nhân dân các cấp của Luật 102/2016/QH13 Trẻ em ban hành ngày 05/04/2016; Điều 32.2.LQ.13. Giám sát việc bảo đảm thực hiện quyền tiếp cận thông tin của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 28.2.LQ.7. Giám sát việc quản lý nợ công của Luật 20/2017/QH14 Quản lý nợ công ban hành ngày 23/11/2017; Điều 25.13.LQ.37. Nhiệm vụ, quyền hạn của Hội đồng nhân dân các cấp của Luật 22/2018/QH14 Quốc phòng ban hành ngày 08/06/2018; Điều 18.2.LQ.7. Giám sát công tác phòng, chống tham nhũng của Luật 36/2018/QH14 Phòng, chống tham nhũng ban hành ngày 20/11/2018; Điều 33.4.LQ.20. Nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân các cấp; Điều 33.4.LQ.87. Thẩm quyền xóa nợ tiền thuế, tiền chậm nộp, tiền phạt của Luật 38/2019/QH14 Luật Quản lý thuế ban hành ngày 13/06/2019; Điều 9. Hoạt động giám sát của Tổ đại biểu Hội đồng nhân dân của Nghị quyết 629/2019/UBTVQH14 Hướng dẫn một số hoạt động của Hội đồng nhân dân ban hành ngày 30/01/2019)
 
 Điều 35.3.LQ.6. Trách nhiệm của các chủ thể giám sát
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000100000600000000000000000
+ 1. Quốc hội báo cáo về hoạt động giám sát tối cao của mình trước cử tri cả nước thông qua phương tiện thông tin đại chúng và hoạt động tiếp xúc cử tri của đại biểu Quốc hội.
 
-**ID:** dk_00059217
+ 2. Ủy ban thường vụ Quốc hội chịu trách nhiệm và báo cáo về hoạt động giám sát của mình trước Quốc hội.
 
----
+ 3. Hội đồng dân tộc, Ủy ban của Quốc hội chịu trách nhiệm và báo cáo về hoạt động giám sát của mình trước Quốc hội, Ủy ban thường vụ Quốc hội.
 
+ 4. Đoàn đại biểu Quốc hội chịu trách nhiệm và báo cáo về hoạt động giám sát của mình, báo cáo về hoạt động giám sát của đại biểu Quốc hội trong Đoàn với Ủy ban thường vụ Quốc hội.
 
-### Điều 35.3.LQ.7. Trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát
+ 5. Đại biểu Quốc hội chịu trách nhiệm và báo cáo về hoạt động giám sát của mình trước cử tri tại địa phương thông qua hoạt động tiếp xúc cử tri.
+
+ 6. Hội đồng nhân dân báo cáo về hoạt động giám sát của mình trước cử tri địa phương thông qua phương tiện thông tin đại chúng và hoạt động tiếp xúc cử tri của đại biểu Hội đồng nhân dân.
+
+ 7. Thường trực Hội đồng nhân dân chịu trách nhiệm và báo cáo về hoạt động giám sát của mình trước Hội đồng nhân dân.
+
+ 8. Ban của Hội đồng nhân dân chịu trách nhiệm và báo cáo về hoạt động giám sát của mình trước Hội đồng nhân dân, Thường trực Hội đồng nhân dân.
+
+ 9. Tổ đại biểu Hội đồng nhân dân chịu trách nhiệm và báo cáo về hoạt động giám sát của mình, báo cáo về hoạt động giám sát của đại biểu Hội đồng nhân dân trong Tổ với Thường trực Hội đồng nhân dân.
+
+ 10. Đại biểu Hội đồng nhân dân chịu trách nhiệm và báo cáo về hoạt động giám sát của mình trước cử tri tại địa phương thông qua hoạt động tiếp xúc cử tri.
+
+ 11. Các chủ thể giám sát quy định tại Điều này chịu trách nhiệm về báo cáo, nghị quyết, kết luận, yêu cầu, kiến nghị giám sát của mình.(Điều này có nội dung liên quan đến Điều 2. Trách nhiệm của đại biểu Quốc hội của Nghị quyết liên tịch 525/2012/NQLT/UBTVQH13-ĐCTUBTWMTTQVN Về việc tiếp xúc cử tri của Đại biểu Quốc hội ban hành ngày 27/09/2012)
 
 Điều 35.3.LQ.7. Trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000100000700000000000000000
+ 1. Cơ quan, tổ chức, cá nhân chịu sự giám sát phải thực hiện đầy đủ kế hoạch, nội dung, yêu cầu giám sát của chủ thể giám sát; cung cấp thông tin liên quan đến nhiệm vụ của mình, trừ thông tin thuộc danh mục bí mật nhà nước mà theo quy định của pháp luật về bảo vệ bí mật nhà nước thì chủ thể giám sát đó không thuộc diện được tiếp cận; báo cáo trung thực, khách quan, đầy đủ, kịp thời theo yêu cầu của cơ quan, cá nhân có thẩm quyền giám sát; nghiêm chỉnh chấp hành nghị quyết giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng nhân dân; thực hiện kết luận, kiến nghị của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân.
 
-**ID:** dk_00059218
+ 2. Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang bộ có trách nhiệm gửi văn bản quy phạm pháp luật mà mình đã ban hành đến Ủy ban thường vụ Quốc hội, đồng thời gửi đến Hội đồng dân tộc, Ủy ban của Quốc hội có liên quan chậm nhất là 03 ngày kể từ ngày ký văn bản.
 
----
+ Hội đồng nhân dân cấp tỉnh có trách nhiệm gửi nghị quyết mà mình đã ban hành đến Ủy ban thường vụ Quốc hội chậm nhất là 03 ngày kể từ ngày ký văn bản.
 
+ Hội đồng nhân dân cấp huyện có trách nhiệm gửi nghị quyết mà mình đã ban hành đến Thường trực Hội đồng nhân dân cấp tỉnh chậm nhất là 03 ngày kể từ ngày ký văn bản.
 
-### Điều 35.3.LQ.8. Quyền của cơ quan, tổ chức, cá nhân chịu sự giám sát
+ Hội đồng nhân dân cấp xã có trách nhiệm gửi nghị quyết mà mình đã ban hành đến Thường trực Hội đồng nhân dân cấp huyện chậm nhất là 03 ngày kể từ ngày ký văn bản.
+
+ Ủy ban nhân dân có trách nhiệm gửi quyết định mà mình đã ban hành đến Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân cùng cấp có liên quan chậm nhất là 03 ngày kể từ ngày ký văn bản.
+
+ 3. Cá nhân, người đứng đầu cơ quan, tổ chức chịu sự giám sát có trách nhiệm trực tiếp báo cáo, trình bày những vấn đề mà chủ thể giám sát yêu cầu; trường hợp không thể trực tiếp báo cáo, trình bày được thì ủy quyền cho cấp phó của mình.
+
+ 4. Cơ quan, tổ chức, cá nhân chịu sự giám sát có hành vi cản trở hoặc không thực hiện nghị quyết, kết luận, yêu cầu, kiến nghị của chủ thể giám sát thì chủ thể giám sát yêu cầu, kiến nghị cơ quan, tổ chức có thẩm quyền xem xét xử lý trách nhiệm đối với cơ quan, tổ chức, cá nhân đó. Tùy theo tính chất, mức độ vi phạm, chủ thể giám sát yêu cầu, kiến nghị cơ quan, tổ chức có thẩm quyền xử lý theo quy định của pháp luật đối với người đứng đầu cơ quan, tổ chức, cá nhân chịu sự giám sát và người có liên quan.(Điều này có nội dung liên quan đến Điều 35.3.LQ.88. Bảo đảm thực hiện hoạt động giám sát của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015)
 
 Điều 35.3.LQ.8. Quyền của cơ quan, tổ chức, cá nhân chịu sự giám sát
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000100000800000000000000000
+ 1. Được thông báo trước về kế hoạch, nội dung giám sát, nội dung được yêu cầu báo cáo, trả lời về vấn đề liên quan đến hoạt động giám sát.
 
-**ID:** dk_00059219
+ 2. Giải trình, bảo vệ tính đúng đắn trong việc thực hiện chính sách, pháp luật thuộc nhiệm vụ, quyền hạn của mình liên quan đến nghị quyết, kết luận, yêu cầu, kiến nghị của chủ thể giám sát.
 
----
-
-
-### Điều 35.3.LQ.9. Tham gia giám sát của cơ quan, tổ chức, cá nhân
+ 3. Đề nghị chủ thể giám sát xem xét lại kết luận, yêu cầu, kiến nghị giám sát liên quan đến hoạt động của cơ quan, tổ chức, đơn vị mình; trường hợp không tán thành với kết luận, yêu cầu, kiến nghị giám sát thì tự mình hoặc báo cáo với người đứng đầu cơ quan, tổ chức có thẩm quyền để đề nghị Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân xem xét kết luận, yêu cầu, kiến nghị đó.(Điều này có nội dung liên quan đến Điều 35.3.LQ.88. Bảo đảm thực hiện hoạt động giám sát)
 
 Điều 35.3.LQ.9. Tham gia giám sát của cơ quan, tổ chức, cá nhân
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000100000900000000000000000
+ 1. Ủy ban Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận có thể được mời tham gia hoạt động giám sát.
 
-**ID:** dk_00059220
+ 2. Cơ quan, tổ chức, cá nhân hữu quan có trách nhiệm tham gia hoạt động giám sát khi có yêu cầu của chủ thể giám sát.(Điều này có nội dung liên quan đến Điều 8.2.LQ.29. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Luật 73/2006/QH11 Bình đẳng giới ban hành ngày 29/11/2006; Điều 35.1.LQ.66. Hội nghị tiếp xúc cử tri; Điều 9. Trách nhiệm giám sát việc giải quyết kiến nghị của cử tri của Nghị quyết liên tịch 525/2012/NQLT/UBTVQH13-ĐCTUBTWMTTQVN Về việc tiếp xúc cử tri của Đại biểu Quốc hội ban hành ngày 27/09/2012)
 
----
+Điều 35.3.LQ.10. Hiệu quả của giám sát
 
+(Điều 10 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.10. Hiệu quả của giám sát
+ 1. Giám sát của Quốc hội, Hội đồng nhân dân là hoạt động giám sát của cơ quan quyền lực nhà nước.
 
-*Nội dung chưa có sẵn*
+ 2. Hiệu quả giám sát của Quốc hội được bảo đảm bằng hiệu quả giám sát tối cao của Quốc hội, giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và các đại biểu Quốc hội.
 
-**Chỉ mục:** 10
+ 3. Hiệu quả giám sát của Hội đồng nhân dân được bảo đảm bằng hiệu quả giám sát tại kỳ họp Hội đồng nhân dân, giám sát của Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và các đại biểu Hội đồng nhân dân.Chương II
 
-**Mã phân cấp:** 3500300000000000100001000000000000000000
+GIÁM SÁT CỦA QUỐC HỘI
 
-**ID:** dk_00059221
+Mục 1
 
----
-
-
-### Điều 35.3.LQ.11. Các hoạt động giám sát tối cao của Quốc hội
+HOẠT ĐỘNG GIÁM SÁT TỐI CAO CỦA QUỐC HỘI
 
 Điều 35.3.LQ.11. Các hoạt động giám sát tối cao của Quốc hội
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001100000000000000000
+ 1. Xem xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, cơ quan khác do Quốc hội thành lập và các báo cáo khác quy định tại Điều 13 của Luật này.
 
-**ID:** dk_00059224
+ 2. Xem xét văn bản quy phạm pháp luật quy định tại điểm a khoản 1 Điều 4 của Luật này có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội.
 
----
+ 3. Xem xét việc trả lời chất vấn của những người bị chất vấn quy định tại điểm đ khoản 1 Điều 4 của Luật này.
 
+ 4. Xem xét báo cáo giám sát chuyên đề.
 
-### Điều 35.3.LQ.12. Chương trình giám sát của Quốc hội
+ 5. Xem xét báo cáo của Ủy ban lâm thời do Quốc hội thành lập để điều tra về một vấn đề nhất định.
+
+ 6. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn.
+
+ 7. Xem xét báo cáo của Ủy ban thường vụ Quốc hội về kiến nghị giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội.(Điều này có nội dung liên quan đến Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 35.3.LQ.13. Xem xét báo cáo)
 
 Điều 35.3.LQ.12. Chương trình giám sát của Quốc hội
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001200000000000000000
+ 1. Ủy ban thường vụ Quốc hội dự kiến chương trình giám sát hằng năm của Quốc hội trên cơ sở đề nghị của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và ý kiến, kiến nghị của cử tri cả nước, trình Quốc hội xem xét, quyết định tại kỳ họp giữa năm của năm trước.
 
-**ID:** dk_00059225
+ Chậm nhất là ngày 01 tháng 3 của năm trước, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam gửi đề nghị, kiến nghị về nội dung giám sát của Quốc hội đến Ủy ban thường vụ Quốc hội. Đề nghị, kiến nghị giám sát phải nêu rõ sự cần thiết, nội dung, phạm vi, đối tượng giám sát.
 
----
+ Tổng thư ký Quốc hội tổ chức tập hợp, tổng hợp đề nghị, kiến nghị giám sát và báo cáo Ủy ban thường vụ Quốc hội. Ủy ban thường vụ Quốc hội thảo luận và lập dự kiến chương trình giám sát của Quốc hội để trình Quốc hội.
 
+ 2. Quốc hội xem xét quyết định chương trình giám sát hằng năm theo trình tự sau đây:
 
-### Điều 35.3.NQ.1.1.
+ a) Ủy ban thường vụ Quốc hội trình bày tờ trình về dự kiến chương trình giám sát hằng năm của Quốc hội;
 
-*Nội dung chưa có sẵn*
+ b) Quốc hội thảo luận;
 
-**Chỉ mục:** 1
+ c) Quốc hội ra nghị quyết về chương trình giám sát hằng năm của Quốc hội.
 
-**Mã phân cấp:** 35003000000000002000001000000000000000000120000000000000000000202606403340000100
+ 3. Ủy ban thường vụ Quốc hội ban hành kế hoạch và tổ chức thực hiện chương trình giám sát của Quốc hội, trừ trường hợp quy định tại Điều 16 của Luật này. Trường hợp cần thiết, trong thời gian Quốc hội không họp, Ủy ban thường vụ Quốc hội có thể điều chỉnh chương trình giám sát của Quốc hội và báo cáo Quốc hội tại kỳ họp gần nhất.
 
-**ID:** dk_00059226
+ 4. Ủy ban thường vụ Quốc hội báo cáo kết quả thực hiện chương trình giám sát hằng năm của Quốc hội tại kỳ họp Quốc hội đầu năm sau. Quốc hội có thể thảo luận về kết quả thực hiện chương trình giám sát hằng năm của Quốc hội.(Điều này có nội dung liên quan đến Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội)
 
----
+Điều 35.3.NQ.1.1. 
 
+(Điều 1 Nghị quyết số 334/2017/UBTVQH14 Ban hành Quy chế tổ chức thực hiện một số hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội ngày 11/01/2017 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/03/2017)
 
-### Điều 35.3.LQ.13. Xem xét báo cáo
+Ban hành kèm theo Nghị quyết này Quy chế “Tổ chức thực hiện một số hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội”.
 
-*Nội dung chưa có sẵn*
+Quy chế này quy định chi tiết về trình tự, thủ tục xây dựng, tổ chức thực hiện và báo cáo kết quả thực hiện chương trình giám sát của Quốc hội, Ủy ban thường vụ Quốc hội; tổ chức chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội, phiên họp Ủy ban thường vụ Quốc hội; tổ chức thực hiện giám sát chuyên đề của Quốc hội, Ủy ban thường vụ Quốc hội; tổ chức hoạt động giám sát của Đoàn đại biểu Quốc hội, đại biểu Quốc hội; điều hòa hoạt động của các đoàn giám sát chuyên đề, hoạt động giải trình tại các cơ quan của Quốc hội; xem xét việc thực hiện các nghị quyết, kiến nghị giám sát; một số nội dung về công tác bảo đảm, tổ chức phục vụ hoạt động giám sát.
 
-**Chỉ mục:** 13
+Hội đồng dân tộc, Ủy ban của Quốc hội thực hiện hoạt động giám sát theo quy định của Luật hoạt động giám sát của Quốc hội và Hội đồng nhân dân và thực hiện các nhiệm vụ, quyền hạn theo quy định của Quy chế này.
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001300000000000000000
+Quy che to chuc thuc hien mot so hoat dong giam sat cua Quoc hoi_Uy ban Thuong vu Quoc hoi_Hoi dong dan toc_Uy ban cua Quoc hoi_Doan dai bieu Quoc hoi va dai bieu Quoc hoi dinh kem theo.doc
 
-**ID:** dk_00059227
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.50. Giám sát của Ủy ban thường vụ Quốc hội; Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội; Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội; Điều 35.3.LQ.23. Chương trình giám sát của Ủy ban thường vụ Quốc hội; Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội; Điều 35.3.LQ.27. Giám sát chuyên đề của Ủy ban thường vụ Quốc hội; Điều 35.3.LQ.48. Các hoạt động giám sát của Đoàn đại biểu Quốc hội của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015)
 
----
+Điều 35.3.LQ.13. Xem xét báo cáo
 
+(Điều 13 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.14. Xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội
+ 1. Quốc hội xem xét các báo cáo sau đây:
+
+ a) Báo cáo công tác hằng năm của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập;
+
+ b) Báo cáo công tác nhiệm kỳ của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập;
+
+ c) Báo cáo của Chính phủ về kinh tế - xã hội; Báo cáo của Chính phủ về thực hiện ngân sách nhà nước, quyết toán ngân sách nhà nước; Báo cáo của Chính phủ về tình hình thi hành Hiến pháp, luật, nghị quyết của Quốc hội; Báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao về việc giải quyết khiếu nại, tố cáo; Báo cáo của Chính phủ về công tác phòng, chống tham nhũng; Báo cáo của Chính phủ về thực hành tiết kiệm, chống lãng phí; Báo cáo của Chính phủ về công tác phòng, chống tội phạm và vi phạm pháp luật; Báo cáo của Chính phủ về công tác thi hành án; Báo cáo của Chính phủ về việc thực hiện mục tiêu quốc gia về bình đẳng giới;
+
+ d) Báo cáo về việc thi hành pháp luật trong một số lĩnh vực khác theo quy định của pháp luật;
+
+ đ) Báo cáo khác theo nghị quyết của Quốc hội hoặc theo đề nghị của Ủy ban thường vụ Quốc hội.
+
+ 2. Thời điểm xem xét báo cáo được quy định như sau:
+
+ a) Tại kỳ họp cuối năm, Quốc hội xem xét, thảo luận báo cáo quy định tại điểm a và điểm c khoản 1 Điều này. Tại kỳ họp giữa năm, các cơ quan này gửi báo cáo đến đại biểu Quốc hội; khi cần thiết, Quốc hội xem xét, thảo luận;
+
+ b) Tại kỳ họp cuối nhiệm kỳ, Quốc hội xem xét, thảo luận báo cáo quy định tại điểm b khoản 1 Điều này;
+
+ c) Thời điểm xem xét báo cáo quy định tại điểm d khoản 1 Điều này theo quy định của pháp luật;
+
+ d) Thời điểm xem xét báo cáo quy định tại điểm đ khoản 1 Điều này theo nghị quyết của Quốc hội hoặc đề nghị của Ủy ban thường vụ Quốc hội.
+
+ 3. Theo sự phân công của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra các báo cáo quy định tại khoản 1 Điều này, trừ báo cáo của Ủy ban thường vụ Quốc hội, Chủ tịch nước, Hội đồng dân tộc, các Ủy ban của Quốc hội.
+
+ 4. Quốc hội xem xét, thảo luận báo cáo theo trình tự sau đây:
+
+ a) Người đứng đầu cơ quan có báo cáo trình bày báo cáo;
+
+ b) Chủ tịch Hội đồng dân tộc hoặc Chủ nhiệm Ủy ban của Quốc hội trình bày báo cáo thẩm tra;
+
+ c) Quốc hội thảo luận, cho ý kiến về báo cáo; trường hợp cần thiết, báo cáo có thể được đưa ra thảo luận tại Tổ đại biểu Quốc hội;
+
+ d) Người đứng đầu cơ quan có báo cáo có thể trình bày bổ sung những vấn đề mà đại biểu Quốc hội quan tâm;
+
+ đ) Quốc hội xem xét, quyết định việc ra nghị quyết về công tác của cơ quan có báo cáo.
+
+ 5. Nghị quyết về công tác của cơ quan có báo cáo phải có những nội dung cơ bản sau đây:
+
+ a) Đánh giá kết quả đạt được, những hạn chế, bất cập và nguyên nhân của hạn chế, bất cập; trách nhiệm của cơ quan có báo cáo và người đứng đầu;
+
+ b) Thời hạn khắc phục hạn chế, bất cập;
+
+ c) Trách nhiệm thi hành của cơ quan, cá nhân;
+
+ d) Trách nhiệm báo cáo kết quả thực hiện nghị quyết về giám sát.(Điều này có nội dung liên quan đến Điều 50. Báo cáo thực hiện quy hoạch, kế hoạch sử dụng đất; Điều 200. Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 48. Báo cáo về hoạt động quy hoạch; Điều 49. Trách nhiệm đánh giá thực hiện quy hoạch của Luật 21/2017/QH14 quy hoạch ban hành ngày 24/11/2017; Điều 194. Nhiệm vụ, quyền hạn của Chính phủ trong quản lý nhà nước về thi hành án hình sự của Luật 41/2019/QH14 Luật thi hành án hình sự ban hành ngày 14/06/2019; Điều 8.2.LQ.25. Trách nhiệm của Chính phủ của Luật 73/2006/QH11 Bình đẳng giới ban hành ngày 29/11/2006; Điều 40.1.LQ.61. Trách nhiệm của Chính phủ trong hoạt động tương trợ tư pháp của Luật 08/2007/QH12 Tương trợ tư pháp ban hành ngày 21/11/2007; Điều 2.2.LQ.10. Kiểm toán quỹ bảo hiểm y tế; Điều 2.2.LQ.34. Quản lý quỹ bảo hiểm y tế; Điều 30.2.LQ.166. Nhiệm vụ, quyền hạn của Chính phủ trong thi hành án dân sự; Điều 18.1.LQ.65. Trách nhiệm phối hợp trong công tác giải quyết khiếu nại; Điều 45.9.LQ.28. Thành lập Quỹ phòng, chống tác hại của thuốc lá của Luật 09/2012/QH13 Phòng, chống tác hại của thuốc lá ban hành ngày 18/06/2012; Điều 35.5.LQ.22. Trách nhiệm của Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội của Luật 25/2012/QH13 Thủ đô ban hành ngày 21/11/2012; Điều 19.5.LQ.73. Trách nhiệm của Chính phủ của Luật 29/2013/QH13 Khoa học và công nghệ ban hành ngày 18/06/2013; Điều 18.4.LQ.5. Quản lý công tác tiếp công dân của Luật 42/2013/QH13 Tiếp công dân ban hành ngày 25/11/2013; Điều 26.4.LQ.67. Trách nhiệm của Chính phủ của Luật 44/2013/QH13 Thực hành tiết kiệm, chống lãng phí ban hành ngày 26/11/2013; Điều 21.1.LQ.134. Trách nhiệm báo cáo công tác bảo vệ môi trường hằng năm của Luật 55/2014/QH13 Bảo vệ môi trường ban hành ngày 23/06/2014; Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân; Điều 35.6.LQ.6. Nhiệm vụ và quyền hạn của Chính phủ trong tổ chức thi hành Hiến pháp và pháp luật; Điều 35.6.LQ.7. Nhiệm vụ và quyền hạn của Chính phủ trong hoạch định chính sách và trình dự án luật, pháp lệnh; Điều 35.6.LQ.8. Nhiệm vụ và quyền hạn của Chính phủ trong quản lý và phát triển kinh tế; Điều 35.6.LQ.27. Trách nhiệm của Chính phủ; Điều 35.6.LQ.29. Trách nhiệm của Thủ tướng Chính phủ; Điều 35.6.LQ.37. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang bộ của Luật 76/2015/QH13 Tổ chức Chính phủ ban hành ngày 19/06/2015; Điều 26.3.LQ.10. Dự phòng ngân sách nhà nước; Điều 26.3.LQ.15. Công khai ngân sách nhà nước; Điều 26.3.LQ.17. Kế hoạch tài chính 05 năm; Điều 26.3.LQ.23. Nhiệm vụ, quyền hạn của Kiểm toán nhà nước; Điều 26.3.LQ.44. Thời gian hướng dẫn lập, xây dựng, tổng hợp, quyết định và giao dự toán ngân sách nhà nước; Điều 26.3.LQ.47. Các tài liệu trình dự toán ngân sách nhà nước và phương án phân bổ ngân sách; Điều 26.3.LQ.51. Tạm cấp ngân sách; Điều 26.3.LQ.52. Điều chỉnh dự toán ngân sách nhà nước; Điều 26.3.LQ.59. Xử lý tăng, giảm thu, chi so với dự toán trong quá trình chấp hành ngân sách nhà nước; Điều 26.3.LQ.60. Báo cáo tình hình chấp hành ngân sách nhà nước của Luật 83/2015/QH13 Ngân sách nhà nước ban hành ngày 25/06/2015; Điều 35.3.LQ.11. Các hoạt động giám sát tối cao của Quốc hội; Điều 35.3.LQ.22. Các hoạt động giám sát của Ủy ban thường vụ Quốc hội; Điều 35.3.LQ.24. Xem xét báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập; Điều 35.3.LQ.28. Xem xét báo cáo hoạt động của Hội đồng nhân dân cấp tỉnh; Điều 35.3.LQ.37. Các hoạt động giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội; Điều 35.3.LQ.39. Thẩm tra báo cáo; Điều 35.3.LQ.59. Xem xét báo cáo của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015; Điều 37.10.LQ.62. Trách nhiệm của Chính phủ của Luật 94/2015/QH13 Thi hành tạm giữ, tạm giam ban hành ngày 25/11/2015; Điều 8.1.LQ.80. Chính phủ của Luật 102/2016/QH13 Trẻ em ban hành ngày 05/04/2016; Điều 14.1.LQ.5. Chính sách của Nhà nước về phát triển đường sắt; Điều 18.5.LQ.60. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước, cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; Điều 18.5.LQ.61. Trách nhiệm thông tin, báo cáo trong công tác giải quyết tố cáo; Điều 18.2.LQ.16. Báo cáo, công khai báo cáo về công tác phòng, chống tham nhũng; Điều 18.2.LQ.84. Trách nhiệm của Chính phủ, Bộ, cơ quan ngang Bộ của Luật 36/2018/QH14 Phòng, chống tham nhũng ban hành ngày 20/11/2018; Điều 33.4.LQ.14. Nhiệm vụ, quyền hạn của Chính phủ; Điều 33.4.LQ.87. Thẩm quyền xóa nợ tiền thuế, tiền chậm nộp, tiền phạt của Luật 38/2019/QH14 Luật Quản lý thuế ban hành ngày 13/06/2019; Điều 13.1.LQ.105. Cơ quan quản lý nhà nước về giáo dục)
 
 Điều 35.3.LQ.14. Xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001400000000000000000
+ 1. Quốc hội xem xét văn bản quy phạm pháp luật của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; xem xét nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059228
+ Quốc hội xem xét văn bản quy phạm pháp luật của Ủy ban thường vụ Quốc hội, nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội theo đề nghị của Chủ tịch nước.
 
----
+ Chủ tịch nước, Chính phủ, Hội đồng dân tộc, Ủy ban của Quốc hội, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức thành viên của Mặt trận hoặc đại biểu Quốc hội có quyền gửi đề nghị về văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội đến Ủy ban thường vụ Quốc hội để trình Quốc hội xem xét, quyết định. Trường hợp pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội thì Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức thành viên của Mặt trận hoặc đại biểu Quốc hội có quyền gửi đề nghị đến Chủ tịch nước để trình Quốc hội xem xét, quyết định.
 
+ Ủy ban pháp luật có trách nhiệm thẩm tra đề nghị về văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp.
 
-### Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội
+ Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm chủ trì, phối hợp thẩm tra đề nghị về văn bản có dấu hiệu trái luật, nghị quyết của Quốc hội thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
 
-Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội
+ 2. Quốc hội xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội theo trình tự sau đây:
 
-**Chỉ mục:** 15
+ a) Ủy ban thường vụ Quốc hội hoặc Chủ tịch nước trình bày tờ trình;
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001500000000000000000
+ b) Đại diện cơ quan thẩm tra trình bày báo cáo thẩm tra;
 
-**ID:** dk_00059229
+ c) Người đứng đầu cơ quan đã ban hành văn bản báo cáo, giải trình;
 
----
+ d) Quốc hội thảo luận;
 
+ đ) Quốc hội ra nghị quyết về việc xem xét văn bản quy phạm pháp luật.
 
-### Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội
+ 3. Nghị quyết của Quốc hội phải xác định văn bản quy phạm pháp luật trái hoặc không trái với Hiến pháp, luật, nghị quyết của Quốc hội; trường hợp văn bản quy phạm pháp luật trái với Hiến pháp, luật, nghị quyết của Quốc hội thì quyết định bãi bỏ một phần hoặc toàn bộ văn bản đó.Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội
 
-*Nội dung chưa có sẵn*
+(Điều 15 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 16
+ 1. Trước phiên chất vấn, đại biểu Quốc hội ghi vấn đề chất vấn, người bị chất vấn vào phiếu chất vấn và gửi đến Ủy ban thường vụ Quốc hội.
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001600000000000000000
+ 2. Căn cứ vào chương trình kỳ họp, ý kiến, kiến nghị của cử tri, vấn đề xã hội quan tâm và phiếu chất vấn của đại biểu Quốc hội, Ủy ban thường vụ Quốc hội trình Quốc hội quyết định nhóm vấn đề chất vấn và người bị chất vấn.
 
-**ID:** dk_00059230
+ 3. Hoạt động chất vấn tại kỳ họp Quốc hội được tiến hành theo trình tự sau đây:
 
----
+ a) Đại biểu Quốc hội nêu chất vấn, có thể cung cấp thông tin minh họa bằng hình ảnh, video, vật chứng cụ thể;
 
+ b) Người bị chất vấn phải trả lời trực tiếp, đầy đủ vấn đề mà đại biểu Quốc hội đã chất vấn, không được ủy quyền cho người khác trả lời thay; xác định rõ trách nhiệm, biện pháp và thời hạn khắc phục hạn chế, bất cập (nếu có);
 
-### Điều 35.3.LQ.17. Xem xét báo cáo của Ủy ban lâm thời
+ c) Trường hợp đại biểu Quốc hội không đồng ý với nội dung trả lời chất vấn thì có quyền chất vấn lại để người bị chất vấn trả lời;
+
+ d) Những người khác có thể được mời tham dự phiên họp và trả lời chất vấn của đại biểu Quốc hội về vấn đề thuộc trách nhiệm của mình.
+
+ Thời gian nêu chất vấn, thời gian trả lời chất vấn được thực hiện theo quy định của Nội quy kỳ họp Quốc hội.
+
+ 4. Quốc hội cho trả lời chất vấn bằng văn bản trong các trường hợp sau đây:
+
+ a) Chất vấn không thuộc nhóm vấn đề chất vấn tại kỳ họp;
+
+ b) Vấn đề chất vấn cần được điều tra, xác minh;
+
+ c) Chất vấn thuộc nhóm vấn đề chất vấn tại kỳ họp nhưng chưa được trả lời tại kỳ họp.
+
+ Người bị chất vấn phải trực tiếp trả lời bằng văn bản. Văn bản trả lời chất vấn được gửi đến đại biểu Quốc hội đã chất vấn, Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội và được đăng tải trên Cổng thông tin điện tử của Quốc hội chậm nhất là 20 ngày kể từ ngày chất vấn, trừ tài liệu mật theo quy định của pháp luật.
+
+ Sau khi nhận được văn bản trả lời chất vấn, nếu đại biểu Quốc hội không đồng ý với nội dung trả lời thì có quyền đề nghị Ủy ban thường vụ Quốc hội đưa ra thảo luận tại phiên họp Ủy ban thường vụ Quốc hội, kỳ họp Quốc hội gần nhất hoặc kiến nghị Quốc hội xem xét trách nhiệm đối với người bị chất vấn.
+
+ 5. Quốc hội ra nghị quyết về chất vấn. Nghị quyết về chất vấn có nội dung cơ bản sau đây:
+
+ a) Đánh giá kết quả thực hiện nhiệm vụ, quyền hạn, trách nhiệm của người bị chất vấn, những hạn chế, bất cập và nguyên nhân liên quan đến vấn đề chất vấn;
+
+ b) Thời hạn khắc phục hạn chế, bất cập;
+
+ c) Trách nhiệm thi hành của cơ quan, cá nhân;
+
+ d) Trách nhiệm báo cáo kết quả thực hiện nghị quyết về chất vấn.
+
+ 6. Phiên họp chất vấn được phát thanh, truyền hình trực tiếp, trừ trường hợp do Quốc hội quyết định.
+
+ 7. Chậm nhất là 20 ngày trước ngày khai mạc kỳ họp, người đã trả lời chất vấn có trách nhiệm gửi báo cáo về việc thực hiện nghị quyết của Quốc hội về chất vấn, các vấn đề đã hứa tại các kỳ họp trước đến đại biểu Quốc hội và Ủy ban thường vụ Quốc hội. Báo cáo về việc thực hiện nghị quyết của Quốc hội về chất vấn, các vấn đề đã hứa được đăng tải trên Cổng thông tin điện tử của Quốc hội.
+
+ 8. Tại kỳ họp cuối năm của năm giữa nhiệm kỳ và kỳ họp cuối năm của năm cuối nhiệm kỳ, Quốc hội xem xét, thảo luận báo cáo tổng hợp của các thành viên Chính phủ, báo cáo của Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước và những người bị chất vấn khác về việc thực hiện nghị quyết của Quốc hội, nghị quyết của Ủy ban thường vụ Quốc hội về chất vấn và các vấn đề đã hứa tại các kỳ họp Quốc hội, phiên họp Ủy ban thường vụ Quốc hội.(Điều này có nội dung liên quan đến Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội; Điều 35.3.LQ.50. Chất vấn của đại biểu Quốc hội; Điều 35.3.LQ.60. Chất vấn và xem xét trả lời chất vấn tại kỳ họp Hội đồng nhân dân; Điều 35.3.NQ.1.1. )
+
+Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội
+
+(Điều 16 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Căn cứ chương trình giám sát của mình, Quốc hội ra nghị quyết thành lập Đoàn giám sát chuyên đề theo đề nghị của Ủy ban thường vụ Quốc hội.
+
+ Nghị quyết của Quốc hội về việc thành lập Đoàn giám sát phải xác định rõ đối tượng, phạm vi và nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát.
+
+ Đoàn giám sát do Chủ tịch Quốc hội hoặc Phó Chủ tịch Quốc hội làm Trưởng đoàn, một số Ủy viên Ủy ban thường vụ Quốc hội làm Phó Trưởng đoàn, các thành viên khác gồm Ủy viên Ủy ban thường vụ Quốc hội, đại diện Hội đồng dân tộc, Ủy ban của Quốc hội, đại diện Đoàn đại biểu Quốc hội ở địa phương nơi Đoàn tiến hành giám sát và một số đại biểu Quốc hội. Đại diện Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, tổ chức thành viên của Mặt trận, các chuyên gia có thể được mời tham gia Đoàn giám sát.
+
+ 2. Đoàn giám sát có những nhiệm vụ, quyền hạn sau đây:
+
+ a) Xây dựng, đề cương báo cáo để cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo;
+
+ b) Thông báo nội dung, kế hoạch, đề cương báo cáo cho cơ quan, tổ chức, cá nhân chịu sự giám sát, Đoàn đại biểu Quốc hội địa phương nơi tiến hành giám sát chậm nhất là 20 ngày kể từ ngày Quốc hội ra nghị quyết thành lập Đoàn giám sát; thông báo chương trình và thành phần Đoàn giám sát chậm nhất là 10 ngày trước ngày Đoàn tiến hành làm việc với cơ quan, tổ chức, cá nhân chịu sự giám sát;
+
+ c) Thực hiện đúng nội dung, kế hoạch giám sát; phân công các thành viên Đoàn giám sát tiến hành giám sát trực tiếp tại địa phương hoặc cơ quan, tổ chức;
+
+ d) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát, giải trình những vấn đề mà Đoàn giám sát quan tâm;
+
+ đ) Xem xét báo cáo của cơ quan, tổ chức, cá nhân chịu sự giám sát, trưng cầu giám định, mời chuyên gia tư vấn, thu thập thông tin, tiếp xúc, trao đổi với người có liên quan về những vấn đề mà Đoàn giám sát xét thấy cần thiết;
+
+ e) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Đoàn giám sát có quyền yêu cầu cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật;
+
+ g) Khi kết thúc hoạt động giám sát, Đoàn giám sát báo cáo kết quả giám sát để Quốc hội xem xét tại kỳ họp gần nhất.
+
+ Trước khi báo cáo Quốc hội, Đoàn giám sát báo cáo Ủy ban thường vụ Quốc hội về kết quả giám sát của Đoàn.
+
+ 3. Quốc hội xem xét báo cáo của Đoàn giám sát theo trình tự sau đây:
+
+ a) Đoàn giám sát báo cáo kết quả giám sát;
+
+ b) Đại diện cơ quan, tổ chức, cá nhân chịu sự giám sát được mời dự họp và báo cáo giải trình;
+
+ c) Quốc hội thảo luận.
+
+ Trong quá trình thảo luận đại diện Đoàn giám sát có thể bổ sung các vấn đề liên quan;
+
+ d) Quốc hội ra nghị quyết về chuyên đề giám sát.
+
+ 4. Nghị quyết giám sát chuyên đề có những nội dung cơ bản sau đây:
+
+ a) Đánh giá kết quả đạt được, những hạn chế, bất cập và nguyên nhân hạn chế, bất cập liên quan đến chuyên đề giám sát; trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát và người đứng đầu cơ quan, tổ chức có liên quan;
+
+ b) Thời gian khắc phục hạn chế, bất cập;
+
+ c) Trách nhiệm thi hành của cơ quan, tổ chức, cá nhân;
+
+ d) Trách nhiệm báo cáo kết quả thực hiện nghị quyết.
+
+ 5. Nghị quyết giám sát chuyên đề được gửi đến cơ quan, tổ chức, cá nhân chịu sự giám sát và cơ quan, tổ chức, cá nhân có liên quan.
+
+ 6. Tại kỳ họp cuối năm của năm giữa nhiệm kỳ và kỳ họp cuối năm của năm cuối nhiệm kỳ, các cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo Quốc hội việc thực hiện nghị quyết của Quốc hội về giám sát chuyên đề. Trong trường hợp cần thiết, Quốc hội quyết định việc giám sát lại.(Điều này có nội dung liên quan đến Điều 35.3.LQ.12. Chương trình giám sát của Quốc hội; Điều 35.3.LQ.27. Giám sát chuyên đề của Ủy ban thường vụ Quốc hội; Điều 35.3.LQ.62. Giám sát chuyên đề của Hội đồng nhân dân; Điều 35.3.NQ.1.1. )
 
 Điều 35.3.LQ.17. Xem xét báo cáo của Ủy ban lâm thời
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001700000000000000000
+ 1. Khi xét thấy cần thiết, theo đề nghị của Hội đồng dân tộc, Ủy ban của Quốc hội hoặc của ít nhất một phần ba tổng số đại biểu Quốc hội, Ủy ban thường vụ Quốc hội trình Quốc hội quyết định thành lập Ủy ban lâm thời để điều tra về một vấn đề nhất định. Việc xác định ít nhất một phần ba tổng số đại biểu Quốc hội được thực hiện theo quy định tại Điều 33 của Luật tổ chức Quốc hội.
 
-**ID:** dk_00059231
+ 2. Việc xem xét đề nghị thành lập Ủy ban lâm thời theo trình tự sau đây:
 
----
+ a) Ủy ban thường vụ Quốc hội trình Quốc hội đề nghị thành lập Ủy ban lâm thời. Tờ trình phải nêu rõ lý do, nội dung, đối tượng điều tra, dự kiến thành phần, nhiệm vụ, quyền hạn của Ủy ban lâm thời;
 
+ b) Quốc hội thảo luận, ra nghị quyết thành lập Ủy ban lâm thời.
 
-### Điều 35.3.LQ.18. Lấy phiếu tín nhiệm
+ 3. Ủy ban lâm thời có nhiệm vụ, quyền hạn sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Xây dựng kế hoạch điều tra;
 
-**Chỉ mục:** 18
+ b) Thông báo nội dung, kế hoạch điều tra cho cơ quan, tổ chức, cá nhân là đối tượng điều tra chậm nhất là 10 ngày kể từ ngày Quốc hội ra nghị quyết thành lập Ủy ban lâm thời; thông báo chương trình và thành phần Ủy ban lâm thời chậm nhất là 05 ngày trước ngày Ủy ban lâm thời tiến hành làm việc với cơ quan, tổ chức, cá nhân là đối tượng điều tra;
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001800000000000000000
+ c) Thực hiện đúng nội dung điều tra; phân công các thành viên Ủy ban lâm thời tiến hành hoạt động điều tra tại địa phương hoặc cơ quan, tổ chức;
 
-**ID:** dk_00059232
+ d) Yêu cầu cơ quan, tổ chức, cá nhân là đối tượng điều tra và cơ quan, tổ chức, cá nhân hữu quan báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung điều tra; giải trình những vấn đề Ủy ban lâm thời quan tâm;
 
----
+ đ) Trưng cầu giám định, mời chuyên gia tư vấn, thu thập thông tin, gặp gỡ, tiếp xúc, trao đổi với những người có liên quan về những vấn đề mà Ủy ban lâm thời xét thấy cần thiết;
 
+ e) Yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền quyết định áp dụng biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật, tẩu tán tài sản, tiêu hủy tài liệu, vật chứng liên quan đến nội dung điều tra;
 
-### Điều 35.3.LQ.19. Bỏ phiếu tín nhiệm
+ g) Thực hiện nhiệm vụ, quyền hạn khác được quy định trong nghị quyết của Quốc hội thành lập Ủy ban lâm thời;
 
-*Nội dung chưa có sẵn*
+ h) Khi kết thúc hoạt động điều tra, Ủy ban lâm thời báo cáo Quốc hội xem xét kết quả điều tra tại kỳ họp gần nhất.
 
-**Chỉ mục:** 19
+ Trước khi báo cáo Quốc hội, Ủy ban lâm thời báo cáo Ủy ban thường vụ Quốc hội về kết quả điều tra.
 
-**Mã phân cấp:** 350030000000000020000010000000000000000001900000000000000000
+ 4. Quốc hội xem xét báo cáo kết quả điều tra của Ủy ban lâm thời theo trình tự sau đây:
 
-**ID:** dk_00059233
+ a) Chủ nhiệm Ủy ban lâm thời trình bày báo cáo kết quả điều tra;
 
----
+ b) Quốc hội thảo luận.
 
+ Trong quá trình thảo luận, đại diện Ủy ban lâm thời có thể báo cáo bổ sung các vấn đề liên quan;
 
-### Điều 35.3.LQ.20. Xem xét báo cáo của Ủy ban thường vụ Quốc hội về kiến nghị giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội
+ c) Cơ quan, tổ chức, cá nhân là đối tượng điều tra có thể được mời dự phiên họp Quốc hội và phát biểu ý kiến giải trình;
+
+ d) Quốc hội ra nghị quyết về kết quả điều tra.(Điều này có nội dung liên quan đến Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội)
+
+Điều 35.3.LQ.18. Lấy phiếu tín nhiệm
+
+(Điều 18 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, bị ngưng hiệu lực theo quy định tại Điều 20 của Nghị quyết số 96/2023/QH15 có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+1. Quốc hội lấy phiếu tín nhiệm đối với những người giữ các chức vụ sau đây:
+
+a) Chủ tịch nước, Phó Chủ tịch nước;
+
+b) Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội;
+
+c) Thủ tướng Chính phủ, Phó Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ;
+
+d) Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước.
+
+2. Việc lấy phiếu tín nhiệm được thực hiện tại kỳ họp Quốc hội theo trình tự sau đây:
+
+a) Ủy ban thường vụ Quốc hội trình Quốc hội quyết định danh sách những người được lấy phiếu tín nhiệm;
+
+b) Quốc hội lấy phiếu tín nhiệm bằng cách bỏ phiếu kín;
+
+c) Ủy ban thường vụ Quốc hội trình Quốc hội thông qua nghị quyết xác nhận kết quả lấy phiếu tín nhiệm.
+
+3. Người được lấy phiếu tín nhiệm có quá nửa tổng số đại biểu Quốc hội đánh giá tín nhiệm thấp thì có thể xin từ chức.
+
+Người được lấy phiếu tín nhiệm có từ hai phần ba tổng số đại biểu Quốc hội trở lên đánh giá tín nhiệm thấp thì Ủy ban thường vụ Quốc hội trình Quốc hội bỏ phiếu tín nhiệm.
+
+4. Ngoài quy định tại Điều này, thời hạn, thời điểm, quy trình lấy phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn được thực hiện theo nghị quyết của Quốc hội.
+
+(Điều này có nội dung liên quan đến Điều 35.3.NQ.2.3. Giải thích từ ngữ; Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành)
+
+Điều 35.3.LQ.19. Bỏ phiếu tín nhiệm
+
+(Điều 19 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, bị ngưng hiệu lực theo quy định tại Điều 20 của Nghị quyết số 96/2023/QH15 có hiệu lực thi hành kể từ ngày 01/07/2023)
+
+1. Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn thuộc một trong các trường hợp sau đây:
+
+a) Ủy ban thường vụ Quốc hội đề nghị;
+
+b) Có kiến nghị của ít nhất hai mươi phần trăm tổng số đại biểu Quốc hội theo quy định tại Điều 33 của Luật tổ chức Quốc hội;
+
+c) Có kiến nghị của Hội đồng dân tộc hoặc Ủy ban của Quốc hội;
+
+d) Người được lấy phiếu tín nhiệm mà có từ hai phần ba tổng số đại biểu Quốc hội trở lên đánh giá tín nhiệm thấp.
+
+2. Việc bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn được thực hiện tại kỳ họp Quốc hội theo trình tự sau đây:
+
+a) Ủy ban thường vụ Quốc hội trình Quốc hội bỏ phiếu tín nhiệm;
+
+b) Người được đưa ra bỏ phiếu tín nhiệm trình bày ý kiến của mình;
+
+c) Quốc hội thảo luận tại Đoàn đại biểu Quốc hội;
+
+d) Ủy ban thường vụ Quốc hội báo cáo Quốc hội kết quả thảo luận tại Đoàn đại biểu Quốc hội;
+
+đ) Quốc hội bỏ phiếu tín nhiệm bằng cách bỏ phiếu kín;
+
+e) Ủy ban thường vụ Quốc hội trình Quốc hội thông qua nghị quyết xác nhận kết quả bỏ phiếu tín nhiệm.
+
+3. Người được bỏ phiếu tín nhiệm có quá nửa tổng số đại biểu Quốc hội đánh giá không tín nhiệm thì có thể xin từ chức; trường hợp không từ chức thì cơ quan hoặc người có thẩm quyền giới thiệu người đó để Quốc hội bầu hoặc phê chuẩn có trách nhiệm trình Quốc hội xem xét, quyết định việc miễn nhiệm, bãi nhiệm hoặc phê chuẩn đề nghị miễn nhiệm, cách chức đối với người đó.
+
+4. Ngoài quy định tại Điều này, quy trình bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn được thực hiện theo nghị quyết của Quốc hội.
+
+(Điều này có nội dung liên quan đến Điều 3. Mục đích lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 4. Nguyên tắc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 6. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 16. Phiếu sử dụng trong lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm và việc xác định phiếu hợp lệ; Điều 17. Kết quả lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm của Nghị quyết 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn ban hành ngày 28/11/2014; Điều 35.8.LQ.33. Quyền kiến nghị của đại biểu Quốc hội; Điều 35.3.NQ.2.3. Giải thích từ ngữ; Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành)
 
 Điều 35.3.LQ.20. Xem xét báo cáo của Ủy ban thường vụ Quốc hội về kiến nghị giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000010000000000000000002000000000000000000
+ 1. Trường hợp cơ quan, tổ chức, cá nhân chịu sự giám sát không thực hiện kết luận, kiến nghị giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội thì Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội có quyền kiến nghị với Ủy ban thường vụ Quốc hội để báo cáo Quốc hội xem xét, quyết định.
 
-**ID:** dk_00059234
+ 2. Quốc hội xem xét báo cáo của Ủy ban thường vụ Quốc hội về kiến nghị giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội theo trình tự sau đây:
 
----
+ a) Đại diện Ủy ban thường vụ Quốc hội trình bày báo cáo;
 
+ b) Cơ quan, tổ chức, cá nhân chịu sự giám sát có thể báo cáo giải trình;
 
-### Điều 35.3.LQ.21. Thẩm quyền của Quốc hội trong việc xem xét kết quả giám sát
+ c) Quốc hội thảo luận;
 
-Điều 35.3.LQ.21. Thẩm quyền của Quốc hội trong việc xem xét kết quả giám sát
+ d) Quốc hội ra nghị quyết về vấn đề được kiến nghị.Điều 35.3.LQ.21. Thẩm quyền của Quốc hội trong việc xem xét kết quả giám sát
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000010000000000000000002100000000000000000
+ Căn cứ vào kết quả giám sát, Quốc hội có thẩm quyền sau đây:
 
-**ID:** dk_00059235
+ 1. Yêu cầu Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước ban hành văn bản quy định chi tiết Hiến pháp, luật, nghị quyết của Quốc hội;
 
----
+ 2. Bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội hoặc Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật, nghị quyết của Quốc hội;
 
+ 3. Miễn nhiệm, bãi nhiệm Chủ tịch nước, Phó Chủ tịch nước, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan khác do Quốc hội thành lập; phê chuẩn đề nghị miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thẩm phán Tòa án nhân dân tối cao;
 
-### Điều 35.3.LQ.22. Các hoạt động giám sát của Ủy ban thường vụ Quốc hội
+ 4. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn;
+
+ 5. Yêu cầu cơ quan, cá nhân có thẩm quyền miễn nhiệm, bãi nhiệm hoặc cách chức, xử lý đối với người có hành vi vi phạm pháp luật nghiêm trọng;
+
+ 6. Ra nghị quyết về chất vấn; ra nghị quyết về kết quả giám sát chuyên đề và các nội dung khác thuộc thẩm quyền của Quốc hội.Mục 2
+
+HOẠT ĐỘNG GIÁM SÁT CỦA ỦY BAN THƯỜNG VỤ QUỐC HỘI
 
 Điều 35.3.LQ.22. Các hoạt động giám sát của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002200000000000000000
+ 1. Xem xét báo cáo công tác của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, cơ quan khác do Quốc hội thành lập và các báo cáo khác quy định tại khoản 1 Điều 13 của Luật này trong thời gian giữa hai kỳ họp Quốc hội do Quốc hội giao hoặc theo yêu cầu của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059237
+ 2. Xem xét văn bản quy phạm pháp luật quy định tại điểm b khoản 1 Điều 4 của Luật này có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội.
 
----
+ 3. Xem xét việc trả lời chất vấn của những người bị chất vấn quy định tại điểm đ khoản 1 Điều 4 của Luật này trong thời gian giữa hai kỳ họp Quốc hội.
 
+ 4. Giám sát chuyên đề.
 
-### Điều 35.3.LQ.23. Chương trình giám sát của Ủy ban thường vụ Quốc hội
+ 5. Xem xét báo cáo hoạt động của Hội đồng nhân dân cấp tỉnh; xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.
+
+ 6. Giám sát việc giải quyết khiếu nại, tố cáo của công dân.
+
+ 7. Giám sát việc giải quyết kiến nghị của cử tri.
+
+ 8. Giám sát việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
+
+ 9. Xem xét kiến nghị giám sát của Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội.
+
+ 10. Kiến nghị việc bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn.(Điều này có nội dung liên quan đến Điều 26.3.LQ.10. Dự phòng ngân sách nhà nước; Điều 26.3.LQ.51. Tạm cấp ngân sách; Điều 26.3.LQ.59. Xử lý tăng, giảm thu, chi so với dự toán trong quá trình chấp hành ngân sách nhà nước; Điều 26.3.LQ.60. Báo cáo tình hình chấp hành ngân sách nhà nước; Điều 26.3.LQ.70. Thời hạn và trình tự quyết toán ngân sách nhà nước của Luật 83/2015/QH13 Ngân sách nhà nước ban hành ngày 25/06/2015; Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 35.3.LQ.13. Xem xét báo cáo; Điều 33.4.LQ.14. Nhiệm vụ, quyền hạn của Chính phủ của Luật 38/2019/QH14 Luật Quản lý thuế ban hành ngày 13/06/2019)
 
 Điều 35.3.LQ.23. Chương trình giám sát của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002300000000000000000
+ 1. Ủy ban thường vụ Quốc hội quyết định chương trình giám sát hằng năm của mình căn cứ vào chương trình giám sát của Quốc hội, đề nghị của Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và ý kiến, kiến nghị của cử tri cả nước.
 
-**ID:** dk_00059238
+ Chậm nhất là ngày 01 tháng 3 của năm trước, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam gửi đến Ủy ban thường vụ Quốc hội đề nghị giám sát đưa vào chương trình giám sát của Ủy ban thường vụ Quốc hội. Đề nghị giám sát phải nêu rõ sự cần thiết, nội dung, phạm vi, đối tượng giám sát.
 
----
+ Tổng thư ký Quốc hội tổ chức tập hợp, tổng hợp đề nghị giám sát và báo cáo Ủy ban thường vụ Quốc hội.
 
+ 2. Ủy ban thường vụ Quốc hội xem xét, quyết định chương trình giám sát hằng năm theo trình tự sau đây:
 
-### Điều 35.3.LQ.24. Xem xét báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập
+ a) Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội trình bày tờ trình về dự kiến chương trình giám sát của Ủy ban thường vụ Quốc hội;
+
+ b) Ủy ban thường vụ Quốc hội thảo luận;
+
+ c) Ủy ban thường vụ Quốc hội ra nghị quyết về chương trình giám sát của Ủy ban thường vụ Quốc hội.
+
+ 3. Căn cứ vào chương trình giám sát đã được thông qua, Ủy ban thường vụ Quốc hội ban hành kế hoạch và tổ chức thực hiện; phân công thành viên Ủy ban thường vụ Quốc hội thực hiện các nội dung trong chương trình; giao Hội đồng dân tộc, các Ủy ban của Quốc hội tổ chức thực hiện một số nội dung trong chương trình giám sát và báo cáo kết quả với Ủy ban thường vụ Quốc hội; quyết định tiến độ thực hiện và các biện pháp bảo đảm thực hiện chương trình giám sát. Trong trường hợp cần thiết, Ủy ban thường vụ Quốc hội quyết định điều chỉnh Chương trình giám sát của mình.
+
+ Ủy ban thường vụ Quốc hội có thể thảo luận về việc thực hiện chương trình giám sát hằng năm của mình tại phiên họp Ủy ban thường vụ Quốc hội.
+
+ 4. Ủy ban thường vụ Quốc hội báo cáo kết quả thực hiện chương trình giám sát hằng năm của mình với Quốc hội vào kỳ họp giữa năm của năm sau.(Điều này có nội dung liên quan đến Điều 35.3.NQ.1.1. )
 
 Điều 35.3.LQ.24. Xem xét báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002400000000000000000
+ 1. Trong thời gian giữa hai kỳ họp Quốc hội, Ủy ban thường vụ Quốc hội xem xét báo cáo công tác của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, cơ quan khác do Quốc hội thành lập và các báo cáo khác quy định tại khoản 1 Điều 13 của Luật này do Quốc hội giao hoặc khi xét thấy cần thiết.
 
-**ID:** dk_00059239
+ 2. Báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập được Hội đồng dân tộc hoặc Ủy ban của Quốc hội thẩm tra trước khi trình Ủy ban thường vụ Quốc hội.
 
----
+ 3. Ủy ban thường vụ Quốc hội xem xét báo cáo theo trình tự sau đây:
 
+ a) Người đứng đầu cơ quan quy định tại khoản 1 Điều này trình bày báo cáo;
 
-### Điều 35.3.LQ.25. Xem xét văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội
+ b) Chủ tịch Hội đồng dân tộc hoặc Chủ nhiệm Ủy ban của Quốc hội trình bày báo cáo thẩm tra;
+
+ c) Đại diện các cơ quan, tổ chức được mời tham dự phiên họp phát biểu ý kiến;
+
+ d) Ủy ban thường vụ Quốc hội thảo luận;
+
+ đ) Người đứng đầu cơ quan trình báo cáo có thể trình bày bổ sung những vấn đề có liên quan;
+
+ e) Ủy ban thường vụ Quốc hội ra nghị quyết về công tác của cơ quan đã báo cáo khi xét thấy cần thiết.
+
+ 4. Nội dung nghị quyết theo quy định tại khoản 5 Điều 13 của Luật này.(Điều này có nội dung liên quan đến Điều 35.3.LQ.13. Xem xét báo cáo)
 
 Điều 35.3.LQ.25. Xem xét văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002500000000000000000
+ 1. Ủy ban thường vụ Quốc hội xem xét văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00059240
+ a) Khi phát hiện văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội;
 
----
+ b) Theo đề nghị của Hội đồng dân tộc, Ủy ban của Quốc hội, đại biểu Quốc hội;
 
+ c) Theo đề nghị của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức thành viên của Mặt trận.
 
-### Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội
+ 2. Ủy ban pháp luật có trách nhiệm thẩm tra đề nghị về văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp.
 
-Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội
+ Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm chủ trì, phối hợp thẩm tra đề nghị về văn bản quy phạm pháp luật có dấu hiệu trái luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
 
-**Chỉ mục:** 26
+ 3. Ủy ban thường vụ Quốc hội xem xét văn bản quy phạm pháp luật quy định tại khoản 1 Điều này theo trình tự sau đây:
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002600000000000000000
+ a) Đại diện cơ quan, tổ chức, cá nhân có đề nghị trình bày;
 
-**ID:** dk_00059241
+ b) Đại diện cơ quan thẩm tra trình bày báo cáo thẩm tra;
 
----
+ c) Đại diện cơ quan, tổ chức được mời tham dự phiên họp phát biểu ý kiến;
 
+ d) Người đứng đầu cơ quan, cá nhân đã ban hành văn bản báo cáo, giải trình về vấn đề có liên quan;
 
-### Điều 35.3.LQ.27. Giám sát chuyên đề của Ủy ban thường vụ Quốc hội
+ đ) Ủy ban thường vụ Quốc hội thảo luận;
+
+ e) Ủy ban thường vụ Quốc hội ra nghị quyết về việc xem xét văn bản quy phạm pháp luật.
+
+ 4. Nội dung nghị quyết xác định văn bản quy phạm pháp luật trái hoặc không trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội; trường hợp văn bản quy phạm pháp luật trái với Hiến pháp, luật, nghị quyết của Quốc hội thì quyết định đình chỉ việc thi hành một phần hoặc toàn bộ văn bản quy phạm pháp luật và trình Quốc hội quyết định việc bãi bỏ một phần hoặc toàn bộ văn bản đó tại kỳ họp gần nhất; trường hợp văn bản trái pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thì bãi bỏ một phần hoặc toàn bộ văn bản đó.Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội
+
+(Điều 26 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Trong thời gian giữa hai kỳ họp Quốc hội, đại biểu Quốc hội ghi vấn đề chất vấn, người bị chất vấn vào phiếu chất vấn và gửi đến Ủy ban thường vụ Quốc hội.
+
+ Căn cứ chương trình phiên họp, ý kiến, kiến nghị của cử tri, vấn đề mà xã hội quan tâm và phiếu chất vấn của đại biểu Quốc hội, Ủy ban thường vụ Quốc hội quyết định nhóm vấn đề chất vấn, người bị chất vấn, thời gian chất vấn.
+
+ 2. Hoạt động chất vấn tại phiên họp Ủy ban thường vụ Quốc hội được tiến hành theo trình tự sau đây:
+
+ a) Đại biểu Quốc hội nêu vấn đề chất vấn, có thể cung cấp thông tin minh họa bằng hình ảnh, video, vật chứng cụ thể;
+
+ b) Người bị chất vấn phải trả lời trực tiếp, đầy đủ vấn đề mà đại biểu Quốc hội đã chất vấn, không được ủy quyền cho người khác trả lời thay; xác định rõ trách nhiệm, biện pháp và thời hạn khắc phục hạn chế, bất cập (nếu có);
+
+ c) Trường hợp đại biểu Quốc hội không đồng ý với nội dung trả lời chất vấn thì có quyền chất vấn lại để người bị chất vấn trả lời;
+
+ d) Những người khác có thể được mời tham dự phiên họp và trả lời chất vấn của đại biểu Quốc hội về vấn đề thuộc trách nhiệm của mình.
+
+ Thời gian nêu chất vấn, thời gian trả lời chất vấn được thực hiện theo quy định của Nội quy kỳ họp Quốc hội.
+
+ 3. Ủy ban thường vụ Quốc hội cho trả lời chất vấn bằng văn bản trong các trường hợp sau đây:
+
+ a) Chất vấn không thuộc nhóm vấn đề chất vấn tại phiên họp;
+
+ b) Vấn đề chất vấn cần được điều tra, xác minh;
+
+ c) Chất vấn thuộc nhóm vấn đề chất vấn tại phiên họp nhưng chưa được trả lời tại phiên họp.
+
+ Người bị chất vấn phải trực tiếp trả lời bằng văn bản. Văn bản trả lời chất vấn được gửi đến đại biểu Quốc hội chất vấn, Ủy ban thường vụ Quốc hội, các Đoàn đại biểu Quốc hội và được đăng tải trên Cổng thông tin điện tử của Quốc hội chậm nhất là 20 ngày kể từ ngày chất vấn, trừ tài liệu mật theo quy định của pháp luật.
+
+ Sau khi nhận được văn bản trả lời chất vấn, nếu đại biểu Quốc hội không đồng ý với nội dung trả lời thì có quyền đề nghị Ủy ban thường vụ Quốc hội đưa ra thảo luận tại phiên họp Ủy ban thường vụ Quốc hội, kỳ họp Quốc hội gần nhất hoặc kiến nghị Ủy ban thường vụ Quốc hội, Quốc hội xem xét trách nhiệm đối với người bị chất vấn.
+
+ 4. Ủy ban thường vụ Quốc hội có thể ra nghị quyết về chất vấn. Nội dung nghị quyết theo quy định tại khoản 5 Điều 15 của Luật này.
+
+ 5. Phiên họp chất vấn được truyền hình trực tuyến đến các tỉnh, thành phố trực thuộc trung ương để các đại biểu Quốc hội tham gia; được phát thanh, truyền hình trực tiếp, trừ trường hợp do Ủy ban thường vụ Quốc hội quyết định.(Điều này có nội dung liên quan đến Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội; Điều 35.3.LQ.50. Chất vấn của đại biểu Quốc hội; Điều 35.3.NQ.1.1. )
 
 Điều 35.3.LQ.27. Giám sát chuyên đề của Ủy ban thường vụ Quốc hội
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002700000000000000000
+ 1. Căn cứ vào chương trình giám sát của mình, Ủy ban thường vụ Quốc hội quyết định thành lập Đoàn giám sát chuyên đề.
 
-**ID:** dk_00059242
+ Nghị quyết của Ủy ban thường vụ Quốc hội về việc thành lập Đoàn giám sát phải xác định rõ đối tượng, phạm vi, nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
----
+ Đoàn giám sát do một Phó Chủ tịch Quốc hội hoặc Ủy viên Ủy ban thường vụ Quốc hội làm Trưởng đoàn, các thành viên khác gồm đại diện Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội ở địa phương nơi Đoàn tiến hành giám sát và một số đại biểu Quốc hội. Đại diện Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, tổ chức thành viên của Mặt trận, các chuyên gia có thể được mời tham gia hoạt động của Đoàn giám sát.
 
+ 2. Đoàn giám sát có những nhiệm vụ, quyền hạn sau đây:
 
-### Điều 35.3.LQ.28. Xem xét báo cáo hoạt động của Hội đồng nhân dân cấp tỉnh
+ a) Xây dựng đề cương báo cáo để cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo;
+
+ b) Thông báo nội dung, kế hoạch, đề cương báo cáo cho cơ quan, tổ chức, cá nhân chịu sự giám sát, Đoàn đại biểu Quốc hội địa phương nơi tiến hành giám sát chậm nhất là 15 ngày kể từ ngày ra nghị quyết thành lập Đoàn giám sát; thông báo chương trình và thành phần Đoàn giám sát chậm nhất là 10 ngày trước ngày Đoàn tiến hành làm việc với cơ quan, tổ chức, cá nhân chịu sự giám sát;
+
+ c) Thực hiện đúng nội dung, kế hoạch giám sát; phân công các thành viên Đoàn giám sát tiến hành giám sát trực tiếp tại địa phương hoặc cơ quan, tổ chức;
+
+ d) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát, giải trình những vấn đề mà Đoàn giám sát quan tâm;
+
+ đ) Xem xét báo cáo của cơ quan, tổ chức, cá nhân chịu sự giám sát, trưng cầu giám định, mời chuyên gia tư vấn, thu thập thông tin, tiếp xúc, trao đổi với người có liên quan về những vấn đề mà Đoàn giám sát xét thấy cần thiết;
+
+ e) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Đoàn giám sát có quyền yêu cầu cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật;
+
+ g) Chậm nhất là 15 ngày kể từ ngày kết thúc hoạt động giám sát, Đoàn giám sát báo cáo kết quả giám sát để Ủy ban thường vụ Quốc hội xem xét, quyết định.
+
+ 3. Ủy ban thường vụ Quốc hội xem xét báo cáo của Đoàn giám sát theo trình tự sau đây:
+
+ a) Trưởng Đoàn giám sát trình bày báo cáo;
+
+ b) Đại diện cơ quan, tổ chức, cá nhân chịu sự giám sát được mời tham dự phiên họp phát biểu ý kiến;
+
+ c) Ủy ban thường vụ Quốc hội thảo luận.
+
+ Trong quá trình thảo luận, đại diện Đoàn giám sát có thể trình bày bổ sung những vấn đề có liên quan;
+
+ d) Ủy ban thường vụ Quốc hội ra nghị quyết giám sát chuyên đề.
+
+ 4. Nội dung nghị quyết giám sát chuyên đề theo quy định tại khoản 4 Điều 16 của Luật này.
+
+ Nghị quyết này được gửi đến cơ quan, tổ chức, cá nhân chịu sự giám sát và cơ quan, tổ chức, cá nhân có liên quan.(Điều này có nội dung liên quan đến Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội; Điều 35.3.NQ.1.1. )
 
 Điều 35.3.LQ.28. Xem xét báo cáo hoạt động của Hội đồng nhân dân cấp tỉnh
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002800000000000000000
+ 1. Hội đồng nhân dân cấp tỉnh gửi báo cáo hoạt động 06 tháng và hằng năm đến Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059243
+ 2. Trường hợp cần thiết, Ủy ban thường vụ Quốc hội phân công Hội đồng dân tộc, Ủy ban của Quốc hội nghiên cứu báo cáo hoạt động của Hội đồng nhân dân cấp tỉnh và báo cáo Ủy ban thường vụ Quốc hội.
 
----
+ 3. Ủy ban thường vụ Quốc hội thảo luận, ra nghị quyết về hoạt động của Hội đồng nhân dân cấp tỉnh.
 
-
-### Điều 35.3.LQ.29. Xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên
+ Nội dung nghị quyết theo quy định tại khoản 5 Điều 13 của Luật này.(Điều này có nội dung liên quan đến Điều 35.3.LQ.13. Xem xét báo cáo)
 
 Điều 35.3.LQ.29. Xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000002900000000000000000
+ 1. Ủy ban thường vụ Quốc hội tự mình hoặc theo đề nghị của Thủ tướng Chính phủ, kiến nghị của Hội đồng dân tộc, Ủy ban của Quốc hội hoặc đại biểu Quốc hội xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.
 
-**ID:** dk_00059244
+ Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm chuẩn bị ý kiến về nghị quyết quy định tại khoản này theo phân công của Ủy ban thường vụ Quốc hội.
 
----
+ 2. Ủy ban thường vụ Quốc hội xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh theo trình tự sau đây:
 
+ a) Đại diện cơ quan, tổ chức, cá nhân quy định tại khoản 1 Điều này trình bày đề nghị, kiến nghị;
 
-### Điều 35.3.LQ.30. Giám sát việc giải quyết khiếu nại, tố cáo
+ b) Chủ tịch Hội đồng dân tộc hoặc Chủ nhiệm Ủy ban của Quốc hội trình bày ý kiến;
 
-Điều 35.3.LQ.30. Giám sát việc giải quyết khiếu nại, tố cáo
+ c) Chủ tịch Hội đồng nhân dân cấp tỉnh nơi đã ra nghị quyết được mời tham dự phiên họp và trình bày ý kiến;
 
-**Chỉ mục:** 30
+ d) Ủy ban thường vụ Quốc hội thảo luận;
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003000000000000000000
+ đ) Ủy ban thường vụ Quốc hội ra nghị quyết về việc xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh.
 
-**ID:** dk_00059245
+ Nội dung nghị quyết xác định nghị quyết của Hội đồng nhân dân cấp tỉnh trái hoặc không trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên; trường hợp nghị quyết của Hội đồng nhân dân cấp tỉnh trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên thì quyết định bãi bỏ một phần hoặc toàn bộ nghị quyết đó.Điều 35.3.LQ.30. Giám sát việc giải quyết khiếu nại, tố cáo
 
----
+(Điều 30 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ 1. Ủy ban thường vụ Quốc hội giám sát việc giải quyết khiếu nại, tố cáo; xem xét báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao về việc giải quyết khiếu nại, tố cáo; tổ chức giám sát chuyên đề hoặc phân công Hội đồng dân tộc, Ủy ban của Quốc hội giám sát việc giải quyết khiếu nại, tố cáo.
 
-### Điều 35.3.LQ.31. Giám sát việc giải quyết kiến nghị của cử tri
+ 2. Khi nhận được khiếu nại, tố cáo của công dân, Ủy ban thường vụ Quốc hội chỉ đạo nghiên cứu, xử lý; khi cần thiết chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền để xem xét, giải quyết.
+
+ Cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết trong thời hạn do pháp luật quy định và thông báo việc giải quyết đến Ủy ban thường vụ Quốc hội trong thời hạn 07 ngày kể từ ngày ra quyết định giải quyết; trường hợp không đồng ý với kết quả giải quyết thì Ủy ban thường vụ Quốc hội có quyền yêu cầu cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết và thông báo kết quả giải quyết đến Ủy ban thường vụ Quốc hội.
+
+ 3. Ủy ban thường vụ Quốc hội xem xét báo cáo, kiến nghị của Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội về việc giải quyết khiếu nại, tố cáo của cơ quan, tổ chức, cá nhân có thẩm quyền.
+
+ 4. Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Ủy ban thường vụ Quốc hội yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật, khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm, đồng thời yêu cầu người có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật; trường hợp không đồng ý với việc giải quyết của cơ quan, tổ chức, cá nhân đó thì yêu cầu người đứng đầu cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết. Cơ quan, tổ chức, cá nhân hữu quan có trách nhiệm thực hiện yêu cầu của Ủy ban thường vụ Quốc hội và báo cáo Ủy ban thường vụ Quốc hội trong thời hạn 30 ngày kể từ ngày nhận được yêu cầu.(Điều này có nội dung liên quan đến Điều 18.1.LQ.65. Trách nhiệm phối hợp trong công tác giải quyết khiếu nại; Điều 18.5.LQ.60. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước, cơ quan khác của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; Điều 18.5.LQ.61. Trách nhiệm thông tin, báo cáo trong công tác giải quyết tố cáo)
 
 Điều 35.3.LQ.31. Giám sát việc giải quyết kiến nghị của cử tri
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003100000000000000000
+ 1. Ủy ban thường vụ Quốc hội có trách nhiệm giám sát việc giải quyết kiến nghị của cử tri của cơ quan, tổ chức, cá nhân có thẩm quyền; tổng hợp báo cáo kết quả giải quyết kiến nghị của cử tri của các cơ quan có thẩm quyền trình Quốc hội.
 
-**ID:** dk_00059246
+ 2. Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và cơ quan khác có thẩm quyền báo cáo kết quả giải quyết kiến nghị của cử tri với Ủy ban thường vụ Quốc hội.
 
----
+ 3. Ủy ban thường vụ Quốc hội xem xét báo cáo việc giải quyết kiến nghị của cử tri theo trình tự sau đây:
 
+ a) Đại diện cơ quan quy định tại khoản 2 Điều này trình bày báo cáo;
 
-### Điều 35.3.QĐ.1.1.
+ b) Ủy ban thường vụ Quốc hội thảo luận;
 
-*Nội dung chưa có sẵn*
+ c) Chủ tọa phiên họp kết luận.
 
-**Chỉ mục:** 1
+ 4. Ủy ban thường vụ Quốc hội chỉ đạo xây dựng báo cáo giám sát kết quả giải quyết kiến nghị của cử tri và dự thảo nghị quyết về việc giải quyết kiến nghị của cử tri trình Quốc hội.(Điều này có nội dung liên quan đến Chương V TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, ĐƠN VỊ GIẢI QUYẾT VÀ GIÁM SÁT VIỆC GIẢI QUYẾT KIẾN NGHỊ CỦA CỬ TRI của Nghị quyết liên tịch 525/2012/NQLT/UBTVQH13-ĐCTUBTWMTTQVN Về việc tiếp xúc cử tri của Đại biểu Quốc hội ban hành ngày 27/09/2012)
 
-**Mã phân cấp:** 35003000000000002000002000000000000000000310000000000000000000502625900330000100
+Điều 35.3.QĐ.1.1.
 
-**ID:** dk_00059247
+(Điều 1 Quyết định số 33/2017/QĐ-TTg Quy chế tiếp nhận, giải quyết và trả lời kiến nghị của cử tri do Quốc hội chuyển đến ngày 25/07/2017 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 15/09/2017)
 
----
+Ban hành kèm theo Quyết định này Quy chế tiếp nhận, giải quyết và trả lời kiến nghị của cử tri do Quốc hội chuyển đến.
 
+Quy che to chuc thuc hien mot so hoat dong giam sat cua Quoc hoi_Uy ban Thuong vu Quoc hoi_Hoi dong dan toc_Uy ban cua Quoc hoi_Doan dai bieu Quoc hoi va dai bieu Quoc hoi dinh kem theo.doc
 
-### Điều 35.3.LQ.32. Giám sát việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân
+(Điều này có nội dung liên quan đến Điều 90. Xem xét báo cáo tổng hợp ý kiến, kiến nghị của cử tri ở địa phương của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015)
 
 Điều 35.3.LQ.32. Giám sát việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003200000000000000000
+ 1. Ủy ban thường vụ Quốc hội phối hợp với Hội đồng bầu cử quốc gia ban hành kế hoạch giám sát và tổ chức Đoàn giám sát việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp.
 
-**ID:** dk_00059248
+ Thành phần Đoàn giám sát do Ủy ban thường vụ Quốc hội quyết định.
 
----
+ 2. Đoàn giám sát tiến hành giám sát các tổ chức phụ trách bầu cử ở địa phương và báo cáo Ủy ban thường vụ Quốc hội, Hội đồng bầu cử quốc gia về kết quả giám sát.
 
-
-### Điều 35.3.LQ.33. Xem xét kiến nghị giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội
+ Ủy ban thường vụ Quốc hội, Hội đồng bầu cử quốc gia xem xét kết quả giám sát và giải quyết theo thẩm quyền hoặc yêu cầu cơ quan, tổ chức có liên quan giải quyết kịp thời các kiến nghị của Đoàn giám sát theo quy định của pháp luật về bầu cử.(Điều này có nội dung liên quan đến Điều 35.1.LQ.4. Trách nhiệm của cơ quan, tổ chức trong công tác bầu cử; Điều 35.1.LQ.13. Nguyên tắc hoạt động của Hội đồng bầu cử quốc gia; Điều 35.1.LQ.88. Xác nhận tư cách của người trúng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân)
 
 Điều 35.3.LQ.33. Xem xét kiến nghị giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003300000000000000000
+ 1. Trường hợp cơ quan, tổ chức, cá nhân chịu sự giám sát không thực hiện kết luận, kiến nghị giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội thì Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội có quyền kiến nghị với Ủy ban thường vụ Quốc hội xem xét, quyết định.
 
-**ID:** dk_00059249
+ 2. Ủy ban thường vụ Quốc hội xem xét kiến nghị giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội theo trình tự sau đây:
 
----
+ a) Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội hoặc đại biểu Quốc hội trình bày báo cáo về việc cơ quan, tổ chức, cá nhân chịu sự giám sát không thực hiện kết luận, kiến nghị giám sát;
 
+ b) Cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo, giải trình;
 
-### Điều 35.3.LQ.34. Kiến nghị Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+ c) Ủy ban thường vụ Quốc hội thảo luận;
 
-Điều 35.3.LQ.34. Kiến nghị Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+ d) Ủy ban thường vụ Quốc hội ra nghị quyết về vấn đề được kiến nghị.Điều 35.3.LQ.34. Kiến nghị Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003400000000000000000
+ 1. Thành viên Ủy ban thường vụ Quốc hội có quyền đề nghị Ủy ban thường vụ Quốc hội xem xét, quyết định trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn có hành vi vi phạm pháp luật hoặc không thực hiện đúng và đầy đủ nhiệm vụ được giao, gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
 
-**ID:** dk_00059250
+ Văn bản đề nghị phải được gửi đến Chủ tịch Quốc hội để đưa ra Ủy ban thường vụ Quốc hội tại phiên họp gần nhất.
 
----
+ Ủy ban thường vụ Quốc hội xem xét, quyết định việc trình Quốc hội bỏ phiếu tín nhiệm theo trình tự sau đây:
 
+ a) Thành viên Ủy ban thường vụ Quốc hội trình bày đề xuất bỏ phiếu tín nhiệm;
 
-### Điều 35.3.LQ.35. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc xem xét kết quả giám sát
+ b) Ủy ban thường vụ Quốc hội thảo luận;
 
-Điều 35.3.LQ.35. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc xem xét kết quả giám sát
+ c) Cơ quan, tổ chức, cá nhân được mời tham dự phiên họp phát biểu ý kiến;
 
-**Chỉ mục:** 35
+ d) Ủy ban thường vụ Quốc hội biểu quyết bằng hình thức bỏ phiếu kín.
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003500000000000000000
+ Ủy ban thường vụ Quốc hội trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn khi có ít nhất hai phần ba tổng số thành viên Ủy ban thường vụ Quốc hội biểu quyết tán thành.
 
-**ID:** dk_00059251
+ 2. Khi nhận được kiến nghị của ít nhất hai mươi phần trăm tổng số đại biểu Quốc hội hoặc kiến nghị của Hội đồng dân tộc, Ủy ban của Quốc hội về việc bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn hoặc người được lấy phiếu tín nhiệm có từ hai phần ba tổng số đại biểu Quốc hội trở lên đánh giá tín nhiệm thấp thì Ủy ban thường vụ Quốc hội trình Quốc hội bỏ phiếu tín nhiệm.
 
----
+ Ủy ban thường vụ Quốc hội xem xét việc trình Quốc hội bỏ phiếu tín nhiệm theo trình tự sau đây:
 
+ a) Đại diện cơ quan được Ủy ban thường vụ Quốc hội phân công báo cáo kiến nghị của đại biểu Quốc hội, kết quả lấy phiếu tín nhiệm hoặc đại diện Hội đồng dân tộc, Ủy ban của Quốc hội có kiến nghị trình bày tờ trình;
 
-### Điều 35.3.LQ.36. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
+ b) Ủy ban thường vụ Quốc hội thảo luận về kiến nghị bỏ phiếu tín nhiệm;
 
-Điều 35.3.LQ.36. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
+ c) Cơ quan, tổ chức, cá nhân được mời tham dự phiên họp phát biểu ý kiến;
 
-**Chỉ mục:** 36
+ d) Ủy ban thường vụ Quốc hội thông qua tờ trình Quốc hội về việc bỏ phiếu tín nhiệm.Điều 35.3.LQ.35. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc xem xét kết quả giám sát
 
-**Mã phân cấp:** 350030000000000020000020000000000000000003600000000000000000
+(Điều 35 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00059252
+ Căn cứ vào kết quả giám sát, Ủy ban thường vụ Quốc hội có thẩm quyền sau đây:
 
----
+ 1. Đình chỉ việc thi hành một phần hoặc toàn bộ văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật, nghị quyết của Quốc hội và trình Quốc hội xem xét, quyết định việc bãi bỏ một phần hoặc toàn bộ văn bản đó tại kỳ họp gần nhất;
 
+ 2. Bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước; nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao trái với pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội;
 
-### Điều 35.3.LQ.37. Các hoạt động giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+ 3. Kiến nghị với Quốc hội hoặc yêu cầu cơ quan, cá nhân có thẩm quyền miễn nhiệm, bãi nhiệm hoặc cách chức, xử lý đối với người có hành vi vi phạm pháp luật nghiêm trọng;
+
+ 4. Đề nghị Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn;
+
+ 5. Bãi bỏ một phần hoặc toàn bộ nghị quyết của Hội đồng nhân dân cấp tỉnh trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên; giải tán Hội đồng nhân dân cấp tỉnh trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân;
+
+ 6. Ra nghị quyết về chất vấn; ra nghị quyết về kết quả giám sát chuyên đề.
+
+ Định kỳ 06 tháng, người bị chất vấn, cá nhân, tổ chức chịu sự giám sát phải báo cáo kết quả thực hiện nghị quyết chất vấn, nghị quyết giám sát chuyên đề và kết quả thực hiện kết luận, yêu cầu, kiến nghị giám sát của Ủy ban thường vụ Quốc hội;
+
+ 7. Yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật, xem xét trách nhiệm, xử lý người vi phạm, kịp thời khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm.Điều 35.3.LQ.36. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
+
+(Điều 36 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Phân công Hội đồng dân tộc, các Ủy ban của Quốc hội thẩm tra các báo cáo và thực hiện một số nội dung trong chương trình giám sát của Ủy ban thường vụ Quốc hội.
+
+ 2. Yêu cầu Hội đồng dân tộc, các Ủy ban của Quốc hội hằng năm báo cáo về dự kiến chương trình, nội dung, kế hoạch giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội.
+
+ 3. Yêu cầu Hội đồng dân tộc, Ủy ban của Quốc hội điều chỉnh chương trình, kế hoạch, thời gian, địa điểm thực hiện giám sát của mình để tránh trùng lặp, chồng chéo về nội dung, thời gian, địa điểm giám sát.
+
+ 4. Yêu cầu Hội đồng dân tộc, Ủy ban của Quốc hội phối hợp thực hiện hoạt động giám sát ở cùng một địa phương, cơ quan, đơn vị để bảo đảm chất lượng và hiệu quả hoạt động giám sát.Mục 3
+
+HOẠT ĐỘNG GIÁM SÁT CỦA HỘI ĐỒNG DÂN TỘC, ỦY BAN CỦA QUỐC HỘI
 
 Điều 35.3.LQ.37. Các hoạt động giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000030000000000000000003700000000000000000
+ 1. Thẩm tra báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước quy định tại khoản 1 Điều 13 của Luật này thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách hoặc theo sự phân công của Ủy ban thường vụ Quốc hội.
 
-**ID:** dk_00059254
+ 2. Giám sát văn bản quy phạm pháp luật quy định tại điểm c khoản 1 Điều 4 của Luật này.
 
----
+ 3. Giám sát chuyên đề.
 
+ 4. Tổ chức hoạt động giải trình những vấn đề thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
 
-### Điều 35.3.LQ.38. Chương trình giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+ 5. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.
+
+ 6. Kiến nghị về việc bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn.(Điều này có nội dung liên quan đến Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 35.3.LQ.13. Xem xét báo cáo)
 
 Điều 35.3.LQ.38. Chương trình giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000030000000000000000003800000000000000000
+ 1. Hội đồng dân tộc, Ủy ban của Quốc hội quyết định chương trình giám sát hằng năm của mình căn cứ vào chương trình giám sát của Quốc hội, Ủy ban thường vụ Quốc hội và ý kiến của các thành viên Hội đồng dân tộc, Ủy ban của Quốc hội.
 
-**ID:** dk_00059255
+ 2. Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội dự kiến chương trình giám sát trình Hội đồng dân tộc, Ủy ban của Quốc hội xem xét, quyết định vào cuối năm trước và tổ chức thực hiện chương trình đó; trường hợp cần thiết có thể điều chỉnh chương trình giám sát và báo cáo Hội đồng dân tộc, Ủy ban của Quốc hội tại phiên họp gần nhất.Điều 35.3.LQ.39. Thẩm tra báo cáo
 
----
+(Điều 39 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ 1. Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra các báo cáo quy định tại khoản 1 Điều 13 của Luật này, trừ các báo cáo của Ủy ban thường vụ Quốc hội, Chủ tịch nước, Hội đồng dân tộc và các Ủy ban của Quốc hội.
 
-### Điều 35.3.LQ.39. Thẩm tra báo cáo
+ 2. Hội đồng dân tộc, Ủy ban của Quốc hội tổ chức phiên họp để thẩm tra báo cáo theo trình tự sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Người đứng đầu cơ quan có báo cáo trình bày báo cáo;
 
-**Chỉ mục:** 39
+ b) Đại diện cơ quan, tổ chức được mời dự phiên họp phát biểu ý kiến;
 
-**Mã phân cấp:** 350030000000000020000030000000000000000003900000000000000000
+ c) Hội đồng dân tộc, Ủy ban của Quốc hội thảo luận;
 
-**ID:** dk_00059256
+ d) Hội đồng dân tộc, Ủy ban của Quốc hội biểu quyết những nội dung cần thiết;
 
----
+ đ) Chủ tọa phiên họp tóm tắt ý kiến phát biểu tại phiên họp thẩm tra.
 
-
-### Điều 35.3.LQ.40. Giám sát văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương
+ 3. Báo cáo thẩm tra của Hội đồng dân tộc, Ủy ban của Quốc hội phản ánh ý kiến của các thành viên Hội đồng dân tộc, Ủy ban của Quốc hội và ý kiến của đại biểu tham gia thẩm tra, được trình bày tại phiên họp của Quốc hội, Ủy ban thường vụ Quốc hội.(Điều này có nội dung liên quan đến Điều 35.3.LQ.13. Xem xét báo cáo)
 
 Điều 35.3.LQ.40. Giám sát văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004000000000000000000
+ 1. Hội đồng dân tộc, Ủy ban của Quốc hội trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thường xuyên theo dõi, đôn đốc Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước trong việc ban hành văn bản quy phạm pháp luật thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
 
-**ID:** dk_00059257
+ 2. Khi nhận được văn bản quy phạm pháp luật do cơ quan hữu quan quy định tại điểm c khoản 1 Điều 4 của Luật này gửi đến, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội có trách nhiệm nghiên cứu, xem xét nội dung văn bản đó. Trường hợp phát hiện văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội báo cáo Hội đồng dân tộc, Ủy ban của Quốc hội.
 
----
+ 3. Hội đồng dân tộc, Ủy ban của Quốc hội tổ chức phiên họp để xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội theo trình tự sau đây:
 
+ a) Đại diện Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội trình bày báo cáo;
 
-### Điều 35.3.LQ.41. Giám sát chuyên đề của Hội đồng dân tộc, Ủy ban của Quốc hội
+ b) Đại diện cơ quan, cá nhân đã ban hành văn bản giải trình;
+
+ c) Đại diện cơ quan, tổ chức, cá nhân được mời dự phiên họp phát biểu ý kiến;
+
+ d) Hội đồng dân tộc, Ủy ban của Quốc hội thảo luận;
+
+ đ) Chủ tọa phiên họp tóm tắt ý kiến phát biểu tại phiên họp;
+
+ e) Hội đồng dân tộc, Ủy ban của Quốc hội biểu quyết về việc xem xét văn bản quy phạm pháp luật khi xét thấy cần thiết.
+
+ Trường hợp văn bản quy phạm pháp luật trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thì Hội đồng dân tộc, Ủy ban của Quốc hội kiến nghị cơ quan, cá nhân đã ban hành văn bản sửa đổi, bổ sung hoặc bãi bỏ một phần hoặc toàn bộ văn bản đó.
+
+ 4. Trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị, cơ quan, cá nhân phải xem xét, thực hiện và thông báo cho Hội đồng dân tộc, Ủy ban của Quốc hội biết.
+
+ Quá thời hạn này mà cơ quan, cá nhân đã ban hành văn bản không thực hiện kiến nghị hoặc thực hiện không đáp ứng với yêu cầu thì Hội đồng dân tộc, Ủy ban của Quốc hội kiến nghị Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ đình chỉ thi hành, bãi bỏ một phần hoặc toàn bộ văn bản đó theo thẩm quyền.
+
+ 5. Kết quả giám sát văn bản quy phạm pháp luật phải được báo cáo Ủy ban thường vụ Quốc hội. Trường hợp cần thiết, Hội đồng dân tộc, Ủy ban của Quốc hội kiến nghị Ủy ban thường vụ Quốc hội ban hành nghị quyết về giám sát việc ban hành văn bản quy phạm pháp luật.(Điều này có nội dung liên quan đến Điều 13. Gửi văn bản quy phạm pháp luật, hồ sơ dự án, dự thảo văn bản quy phạm pháp luật; Điều 162. Giám sát văn bản quy phạm pháp luật; Điều 163. Nội dung giám sát văn bản quy phạm pháp luật; Điều 164. Giám sát, xử lý văn bản quy phạm pháp luật có dấu hiệu trái pháp luật của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015; Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội)
 
 Điều 35.3.LQ.41. Giám sát chuyên đề của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004100000000000000000
+ 1. Căn cứ vào chương trình giám sát, Hội đồng dân tộc, Ủy ban của Quốc hội quyết định thành lập Đoàn giám sát chuyên đề theo đề nghị của Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội.
 
-**ID:** dk_00059258
+ Quyết định thành lập Đoàn giám sát phải xác định rõ đối tượng, phạm vi, nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
----
+ Đoàn giám sát do Chủ tịch hoặc Phó Chủ tịch Hội đồng dân tộc, Chủ nhiệm hoặc Phó Chủ nhiệm Ủy ban của Quốc hội làm Trưởng đoàn, có ít nhất ba thành viên Hội đồng dân tộc, thành viên Ủy ban của Quốc hội tham gia, đại diện Đoàn đại biểu Quốc hội ở địa phương nơi Đoàn tiến hành giám sát. Đại biểu Quốc hội không phải là thành viên của Hội đồng dân tộc, Ủy ban của Quốc hội, đại diện cơ quan, tổ chức hữu quan có thể được mời tham gia hoạt động của Đoàn giám sát. Cơ quan, tổ chức hữu quan có trách nhiệm tạo điều kiện cho người được mời tham gia hoạt động của Đoàn giám sát.
 
+ 2. Đoàn giám sát có những nhiệm vụ, quyền hạn sau đây:
 
-### Điều 35.3.LQ.42. Xem xét báo cáo của Đoàn giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+ a) Xây dựng đề cương báo cáo để cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo;
 
-Điều 35.3.LQ.42. Xem xét báo cáo của Đoàn giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+ b) Thông báo nội dung, kế hoạch, đề cương báo cáo cho cơ quan, tổ chức, cá nhân chịu sự giám sát, Đoàn đại biểu Quốc hội nơi tiến hành giám sát chậm nhất là 15 ngày kể từ ngày ra quyết định thành lập Đoàn giám sát; thông báo chương trình và thành phần Đoàn giám sát chậm nhất là 10 ngày trước ngày Đoàn bắt đầu tiến hành hoạt động giám sát;
 
-**Chỉ mục:** 42
+ c) Thực hiện đúng nội dung, kế hoạch giám sát;
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004200000000000000000
+ d) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát; giải trình những vấn đề mà Đoàn quan tâm;
 
-**ID:** dk_00059259
+ đ) Xem xét, xác minh, trưng cầu giám định, mời chuyên gia tư vấn, thu thập thông tin, tiếp xúc, trao đổi với người có liên quan về những vấn đề mà Đoàn giám sát xét thấy cần thiết;
 
----
+ e) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Đoàn giám sát có quyền yêu cầu cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật, khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật;
 
+ g) Sau khi kết thúc hoạt động giám sát, Đoàn giám sát báo cáo kết quả giám sát để Hội đồng dân tộc, Ủy ban của Quốc hội xem xét, quyết định.Điều 35.3.LQ.42. Xem xét báo cáo của Đoàn giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
 
-### Điều 35.3.LQ.43. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
+(Điều 42 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 35.3.LQ.43. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
+ 1. Căn cứ vào tính chất, nội dung của vấn đề được giám sát, Hội đồng dân tộc, Ủy ban của Quốc hội tổ chức phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội để xem xét, thảo luận về báo cáo của Đoàn giám sát.
 
-**Chỉ mục:** 43
+ 2. Việc xem xét báo cáo của Đoàn giám sát theo trình tự sau đây:
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004300000000000000000
+ a) Đại diện Đoàn giám sát trình bày báo cáo;
 
-**ID:** dk_00059260
+ b) Đại diện cơ quan, tổ chức, cá nhân chịu sự giám sát được mời tham dự phiên họp phát biểu ý kiến;
 
----
+ c) Hội đồng dân tộc, Ủy ban của Quốc hội thảo luận.
 
+ Trong quá trình thảo luận, đại diện Đoàn giám sát có thể trình bày bổ sung về vấn đề có liên quan;
 
-### Điều 35.3.LQ.44. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+ d) Chủ tọa phiên họp tóm tắt ý kiến phát biểu tại phiên họp;
 
-Điều 35.3.LQ.44. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+ đ) Hội đồng dân tộc, Ủy ban của Quốc hội biểu quyết khi xét thấy cần thiết.
 
-**Chỉ mục:** 44
+ 3. Hội đồng dân tộc, Ủy ban của Quốc hội gửi báo cáo kết quả giám sát đến Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, cá nhân chịu sự giám sát và cơ quan, tổ chức, cá nhân có liên quan.
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004400000000000000000
+ 4. Cơ quan, tổ chức, cá nhân chịu sự giám sát có trách nhiệm thực hiện các kiến nghị giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội; trường hợp không thực hiện hoặc thực hiện không đầy đủ thì Hội đồng dân tộc, Ủy ban của Quốc hội báo cáo Ủy ban thường vụ Quốc hội xem xét, quyết định.Điều 35.3.LQ.43. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
 
-**ID:** dk_00059261
+(Điều 43 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ 1. Căn cứ vào chương trình giám sát, Hội đồng dân tộc, Ủy ban của Quốc hội yêu cầu thành viên Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước giải trình và cá nhân có liên quan tham gia giải trình vấn đề thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
 
+ Việc tổ chức giải trình, nội dung, kế hoạch tổ chức giải trình và người được yêu cầu giải trình do Thường trực Hội đồng dân tộc, Thường trực Ủy ban quyết định.
 
-### Điều 35.3.LQ.45. Kiến nghị Ủy ban thường vụ Quốc hội xem xét trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+ Người được yêu cầu giải trình có trách nhiệm báo cáo, giải trình theo yêu cầu của Hội đồng dân tộc, Ủy ban của Quốc hội.
 
-Điều 35.3.LQ.45. Kiến nghị Ủy ban thường vụ Quốc hội xem xét trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+ 2. Việc giải trình được tổ chức tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội.
 
-**Chỉ mục:** 45
+ Hội đồng dân tộc, Ủy ban của Quốc hội, đại biểu Quốc hội, cơ quan, tổ chức, cá nhân có liên quan, các chuyên gia, nhà khoa học, đối tượng chịu sự tác động của chính sách có thể được mời tham dự phiên giải trình và phát biểu ý kiến.
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004500000000000000000
+ 3. Nội dung, kế hoạch tổ chức giải trình của Hội đồng dân tộc, Ủy ban của Quốc hội được thông báo cho người được yêu cầu giải trình, thành viên Hội đồng dân tộc, Ủy ban của Quốc hội và đại biểu được mời tham dự phiên giải trình chậm nhất là 10 ngày trước ngày tiến hành phiên giải trình.
 
-**ID:** dk_00059262
+ 4. Phiên giải trình của Hội đồng dân tộc, Ủy ban của Quốc hội được tổ chức công khai, trừ trường hợp do Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội quyết định.
 
----
+ 5. Phiên giải trình được tiến hành theo trình tự sau đây:
 
+ a) Chủ tọa nêu vấn đề yêu cầu giải trình, người có trách nhiệm giải trình;
 
-### Điều 35.3.LQ.46. Thẩm quyền của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc xem xét kết quả giám sát
+ b) Thành viên Hội đồng dân tộc, Ủy ban của Quốc hội, đại biểu Quốc hội tham dự nêu yêu cầu giải trình;
 
-Điều 35.3.LQ.46. Thẩm quyền của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc xem xét kết quả giám sát
+ c) Người giải trình có trách nhiệm giải trình vấn đề được yêu cầu;
 
-**Chỉ mục:** 46
+ d) Đại diện cơ quan, tổ chức được mời tham dự phiên giải trình phát biểu ý kiến;
 
-**Mã phân cấp:** 350030000000000020000030000000000000000004600000000000000000
+ đ) Chủ tọa tóm tắt nội dung phiên giải trình, dự kiến kết luận vấn đề được giải trình;
 
-**ID:** dk_00059263
+ e) Hội đồng dân tộc, Ủy ban của Quốc hội xem xét, thông qua kết luận vấn đề được giải trình; kết luận được thông qua khi có quá nửa tổng số thành viên của Hội đồng dân tộc, Ủy ban của Quốc hội biểu quyết tán thành.
 
----
+ Kết luận của Hội đồng dân tộc, Ủy ban của Quốc hội được gửi đến Ủy ban thường vụ Quốc hội, đại biểu Quốc hội, người được yêu cầu giải trình và các cơ quan, tổ chức có liên quan.
 
+ 6. Cơ quan, cá nhân có liên quan có trách nhiệm thực hiện kết luận của Hội đồng dân tộc, Ủy ban của Quốc hội; trường hợp không thực hiện hoặc thực hiện không đầy đủ thì Hội đồng dân tộc, Ủy ban của Quốc hội báo cáo Ủy ban thường vụ Quốc hội xem xét, quyết định.Điều 35.3.LQ.44. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
 
-### Điều 35.3.LQ.47. Các hoạt động giám sát của đại biểu Quốc hội
+(Điều 44 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Hội đồng dân tộc, Ủy ban của Quốc hội trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách.
+
+ 2. Khi nhận được khiếu nại, tố cáo, kiến nghị của công dân, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội có trách nhiệm tổ chức nghiên cứu và xử lý; khi cần thiết chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền để xem xét, giải quyết.
+
+ Cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết trong thời hạn do pháp luật quy định và thông báo về việc giải quyết đến Hội đồng dân tộc, Ủy ban của Quốc hội trong thời hạn 07 ngày kể từ ngày ra quyết định giải quyết. Trường hợp không đồng ý với kết quả giải quyết thì Hội đồng dân tộc, Ủy ban của Quốc hội có quyền kiến nghị với người đứng đầu cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết và thông báo kết quả giải quyết đến Hội đồng dân tộc, Ủy ban của Quốc hội.
+
+ 3. Trường hợp cần thiết, Hội đồng dân tộc, Ủy ban của Quốc hội có quyền yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền báo cáo; yêu cầu cơ quan, tổ chức, cá nhân có liên quan hoặc người khiếu nại, tố cáo, kiến nghị trình bày và cung cấp thông tin, tài liệu mà Hội đồng dân tộc, Ủy ban của Quốc hội quan tâm; tổ chức Đoàn giám sát chuyên đề; cử thành viên của mình xem xét, xác minh về những vấn đề mà Hội đồng dân tộc, Ủy ban của Quốc hội quan tâm.Điều 35.3.LQ.45. Kiến nghị Ủy ban thường vụ Quốc hội xem xét trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+
+(Điều 45 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Trong quá trình giám sát, nếu phát hiện người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn có hành vi vi phạm pháp luật hoặc không thực hiện đúng và đầy đủ nhiệm vụ, quyền hạn được giao, gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân hoặc khi có kiến nghị bằng văn bản của ít nhất hai mươi phần trăm tổng số thành viên Hội đồng dân tộc, thành viên Ủy ban của Quốc hội về việc xem xét bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn thì Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội có trách nhiệm báo cáo Hội đồng dân tộc, Ủy ban của Quốc hội xem xét, quyết định.
+
+ 2. Hội đồng dân tộc, Ủy ban của Quốc hội xem xét, quyết định kiến nghị về việc bỏ phiếu tín nhiệm tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội theo trình tự sau đây:
+
+ a) Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội báo cáo Hội đồng dân tộc, Ủy ban của Quốc hội về kiến nghị bỏ phiếu tín nhiệm;
+
+ b) Đại diện cơ quan, tổ chức được mời tham dự phiên họp phát biểu ý kiến;
+
+ c) Hội đồng dân tộc, Ủy ban của Quốc hội thảo luận;
+
+ d) Hội đồng dân tộc, Ủy ban của Quốc hội biểu quyết bằng hình thức bỏ phiếu kín.
+
+ Trong trường hợp có ít nhất hai phần ba tổng số thành viên Hội đồng dân tộc, thành viên Ủy ban của Quốc hội bỏ phiếu tán thành thì Hội đồng dân tộc, Ủy ban của Quốc hội kiến nghị Ủy ban thường vụ Quốc hội trình Quốc hội bỏ phiếu tín nhiệm.Điều 35.3.LQ.46. Thẩm quyền của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc xem xét kết quả giám sát
+
+(Điều 46 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ Căn cứ vào kết quả giám sát, Hội đồng dân tộc, Ủy ban của Quốc hội có thẩm quyền sau đây:
+
+ 1. Kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền sửa đổi, bổ sung, đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật;
+
+ 2. Kiến nghị với Thủ tướng Chính phủ, các thành viên khác của Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước và những người đứng đầu cơ quan, tổ chức có liên quan về những vấn đề thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách. Người nhận được kiến nghị có trách nhiệm xem xét và trả lời trong thời hạn 15 ngày kể từ ngày nhận được kiến nghị. Quá thời hạn này mà không nhận được trả lời hoặc trường hợp không tán thành với nội dung trả lời thì Hội đồng dân tộc, Ủy ban của Quốc hội có quyền kiến nghị với Chủ tịch Quốc hội yêu cầu người nhận được kiến nghị trả lời tại phiên họp Ủy ban thường vụ Quốc hội hoặc tại kỳ họp Quốc hội gần nhất; đối với Chủ tịch Ủy ban nhân dân cấp tỉnh thì đề nghị Thủ tướng Chính phủ xem xét;
+
+ 3. Yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật, xem xét trách nhiệm, xử lý người vi phạm, khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm.Mục 4
+
+HOẠT ĐỘNG GIÁM SÁT CỦA ĐẠI BIỂU QUỐC HỘI VÀ ĐOÀN ĐẠI BIỂU QUỐC HỘI
 
 Điều 35.3.LQ.47. Các hoạt động giám sát của đại biểu Quốc hội
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000040000000000000000004700000000000000000
+ 1. Đại biểu Quốc hội giám sát thông qua các hoạt động sau đây:
 
-**ID:** dk_00059265
+ a) Chất vấn những người bị chất vấn quy định tại điểm đ khoản 1 Điều 4 của Luật này;
 
----
+ b) Giám sát văn bản quy phạm pháp luật; giám sát việc thi hành pháp luật;
 
+ c) Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.
 
-### Điều 35.3.LQ.48. Các hoạt động giám sát của Đoàn đại biểu Quốc hội
+ 2. Đại biểu Quốc hội tự mình tiến hành hoạt động giám sát hoặc tham gia hoạt động giám sát của Đoàn đại biểu Quốc hội; tham gia Đoàn giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội tại địa phương khi có yêu cầu.(Điều này có nội dung liên quan đến Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 2. Trách nhiệm của đại biểu Quốc hội của Nghị quyết liên tịch 525/2012/NQLT/UBTVQH13-ĐCTUBTWMTTQVN Về việc tiếp xúc cử tri của Đại biểu Quốc hội ban hành ngày 27/09/2012)
 
 Điều 35.3.LQ.48. Các hoạt động giám sát của Đoàn đại biểu Quốc hội
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000040000000000000000004800000000000000000
+ 1. Đoàn đại biểu Quốc hội tổ chức hoạt động giám sát thông qua các hoạt động sau đây:
 
-**ID:** dk_00059266
+ a) Giám sát chuyên đề việc thi hành pháp luật ở địa phương;
 
----
+ b) Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân mà đại biểu Quốc hội, Đoàn đại biểu Quốc hội đã chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết;
 
+ c) Cử đại biểu Quốc hội trong Đoàn đại biểu Quốc hội tham gia Đoàn giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội tại địa phương khi có yêu cầu.
 
-### Điều 35.3.LQ.49. Chương trình giám sát của đại biểu Quốc hội, Đoàn đại biểu Quốc hội
+ 2. Đoàn đại biểu Quốc hội tổ chức để đại biểu Quốc hội trong Đoàn đại biểu Quốc hội thực hiện giám sát tại địa phương.(Điều này có nội dung liên quan đến Điều 35.3.NQ.1.1. )
 
 Điều 35.3.LQ.49. Chương trình giám sát của đại biểu Quốc hội, Đoàn đại biểu Quốc hội
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000040000000000000000004900000000000000000
+ Đại biểu Quốc hội lập chương trình giám sát hằng năm của mình và gửi đến Đoàn đại biểu Quốc hội.
 
-**ID:** dk_00059267
+ Đoàn đại biểu Quốc hội căn cứ vào chương trình giám sát của từng đại biểu Quốc hội, chương trình giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, tình hình thực tế của địa phương, đề nghị của Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh và ý kiến, kiến nghị của cử tri tại địa phương lập chương trình giám sát hằng năm của Đoàn đại biểu Quốc hội và báo cáo Ủy ban thường vụ Quốc hội. Đoàn đại biểu Quốc hội tổ chức thực hiện các hoạt động giám sát của Đoàn đại biểu Quốc hội và tổ chức để đại biểu Quốc hội trong Đoàn đại biểu Quốc hội thực hiện chương trình giám sát của mình.
 
----
+ Hằng năm, Đoàn đại biểu Quốc hội có trách nhiệm báo cáo Ủy ban thường vụ Quốc hội về việc thực hiện chương trình giám sát của Đoàn đại biểu Quốc hội và của các đại biểu Quốc hội trong Đoàn.Điều 35.3.LQ.50. Chất vấn của đại biểu Quốc hội
 
+(Điều 50 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.50. Chất vấn của đại biểu Quốc hội
+ 1. Đại biểu Quốc hội có quyền chất vấn trực tiếp tại kỳ họp Quốc hội, phiên họp Ủy ban thường vụ Quốc hội hoặc gửi chất vấn bằng văn bản đến người bị chất vấn quy định tại điểm đ khoản 1 Điều 4 của Luật này.
 
-*Nội dung chưa có sẵn*
+ 2. Nội dung chất vấn phải cụ thể, rõ ràng, có căn cứ và phải liên quan đến nhiệm vụ, quyền hạn, trách nhiệm của người bị chất vấn.
 
-**Chỉ mục:** 50
+ 3. Trình tự chất vấn tại kỳ họp Quốc hội, phiên họp Ủy ban thường vụ Quốc hội được thực hiện theo quy định tại Điều 15 và Điều 26 của Luật này, Nội quy kỳ họp Quốc hội, Quy chế làm việc của Ủy ban thường vụ Quốc hội.
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005000000000000000000
-
-**ID:** dk_00059268
-
----
-
-
-### Điều 35.3.LQ.51. Đại biểu Quốc hội giám sát văn bản quy phạm pháp luật
+ Trường hợp đại biểu Quốc hội gửi chất vấn trực tiếp bằng văn bản đến người bị chất vấn thì chậm nhất là 20 ngày kể từ ngày chất vấn, người bị chất vấn phải trả lời bằng văn bản cho người chất vấn, đồng thời gửi đến Ủy ban thường vụ Quốc hội.(Điều này có nội dung liên quan đến Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội; Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội của )
 
 Điều 35.3.LQ.51. Đại biểu Quốc hội giám sát văn bản quy phạm pháp luật
 
-**Chỉ mục:** 51
+(Điều 51 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005100000000000000000
-
-**ID:** dk_00059269
-
----
-
-
-### Điều 35.3.LQ.52. Đoàn đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
+ Đại biểu Quốc hội có trách nhiệm nghiên cứu, xem xét nội dung các văn bản quy phạm pháp luật. Trường hợp phát hiện văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thì đại biểu Quốc hội có quyền kiến nghị cơ quan, cá nhân có thẩm quyền sửa đổi, bổ sung, đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật đó. Nếu cơ quan, cá nhân đã ban hành văn bản không thực hiện kiến nghị hoặc thực hiện không đáp ứng với yêu cầu thì đại biểu Quốc hội báo cáo Ủy ban thường vụ Quốc hội xem xét, xử lý theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 163. Nội dung giám sát văn bản quy phạm pháp luật; Điều 164. Giám sát, xử lý văn bản quy phạm pháp luật có dấu hiệu trái pháp luật của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015)
 
 Điều 35.3.LQ.52. Đoàn đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005200000000000000000
+ 1. Căn cứ vào chương trình giám sát của mình hoặc theo yêu cầu của Quốc hội, Ủy ban thường vụ Quốc hội, thực hiện kế hoạch giám sát của Quốc hội, Ủy ban thường vụ Quốc hội được phân công, Đoàn đại biểu Quốc hội quyết định thành lập Đoàn giám sát chuyên đề việc thi hành pháp luật ở địa phương.
 
-**ID:** dk_00059270
+ Nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát do Đoàn đại biểu Quốc hội quyết định.
 
----
+ Nội dung, kế hoạch giám sát được thông báo cho cơ quan, tổ chức, cá nhân chịu sự giám sát chậm nhất là 10 ngày trước ngày bắt đầu tiến hành hoạt động giám sát.
 
+ Đoàn giám sát do Trưởng đoàn hoặc Phó Trưởng Đoàn đại biểu Quốc hội làm Trưởng đoàn và có ít nhất ba đại biểu Quốc hội là thành viên Đoàn đại biểu Quốc hội tham gia Đoàn giám sát.
 
-### Điều 35.3.LQ.53. Đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
+ Đại diện cơ quan, tổ chức hữu quan có thể được mời tham gia hoạt động của Đoàn giám sát.
 
-Điều 35.3.LQ.53. Đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
+ Cơ quan, tổ chức liên quan có trách nhiệm tạo điều kiện cho người được mời tham gia hoạt động của Đoàn giám sát.
 
-**Chỉ mục:** 53
+ 2. Khi tiến hành giám sát, Đoàn giám sát có những nhiệm vụ, quyền hạn sau đây:
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005300000000000000000
+ a) Thực hiện đúng nội dung, kế hoạch giám sát theo quyết định thành lập Đoàn giám sát;
 
-**ID:** dk_00059271
+ b) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát; giải trình vấn đề mà Đoàn giám sát quan tâm; xem xét, giải quyết vấn đề có liên quan đến việc thi hành chính sách, pháp luật hoặc liên quan đến đời sống kinh tế - xã hội của Nhân dân địa phương;
 
----
+ c) Xem xét, xác minh, mời chuyên gia tư vấn về những vấn đề mà Đoàn giám sát xét thấy cần thiết;
 
+ d) Kiến nghị cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật.
 
-### Điều 35.3.LQ.54. Giám sát của đại biểu Quốc hội đối với việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+ 3. Chậm nhất là 10 ngày kể từ ngày kết thúc hoạt động giám sát, Đoàn giám sát báo cáo kết quả giám sát đến Đoàn đại biểu Quốc hội.
 
-Điều 35.3.LQ.54. Giám sát của đại biểu Quốc hội đối với việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+ 4. Căn cứ vào tính chất, nội dung của vấn đề được giám sát, Đoàn đại biểu Quốc hội xem xét, yêu cầu, kiến nghị của Đoàn giám sát và gửi đến cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
-**Chỉ mục:** 54
+ Báo cáo kết quả giám sát của Đoàn đại biểu Quốc hội trong trường hợp giám sát theo yêu cầu của Đoàn giám sát của Quốc hội, Ủy ban thường vụ Quốc hội được gửi đến Đoàn giám sát của Quốc hội, Ủy ban thường vụ Quốc hội theo kế hoạch.Điều 35.3.LQ.53. Đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005400000000000000000
+(Điều 53 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00059272
+ 1. Căn cứ vào chương trình giám sát của mình, đại biểu Quốc hội tiến hành giám sát việc thi hành pháp luật ở địa phương.
 
----
+ Đại biểu Quốc hội quyết định nội dung, kế hoạch giám sát, cơ quan, tổ chức, cá nhân chịu sự giám sát và báo cáo Đoàn đại biểu Quốc hội.
 
+ Đoàn đại biểu Quốc hội có trách nhiệm tổ chức để đại biểu Quốc hội tiến hành giám sát việc thi hành pháp luật tại địa phương; thông báo nội dung, kế hoạch giám sát của đại biểu Quốc hội đến cơ quan, tổ chức, cá nhân chịu sự giám sát chậm nhất là 10 ngày trước ngày bắt đầu tiến hành hoạt động giám sát; bảo đảm kinh phí, phương tiện và điều kiện cần thiết khác, tổ chức phục vụ hoạt động giám sát của đại biểu Quốc hội.
 
-### Điều 35.3.LQ.55. Quyền yêu cầu cung cấp thông tin
+ 2. Khi tiến hành giám sát, đại biểu Quốc hội có những nhiệm vụ, quyền hạn sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Thực hiện đúng nội dung, kế hoạch giám sát;
 
-**Chỉ mục:** 55
+ b) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát; giải trình vấn đề mà đại biểu Quốc hội quan tâm; xem xét, giải quyết vấn đề có liên quan đến việc thi hành chính sách, pháp luật hoặc liên quan đến đời sống kinh tế - xã hội của Nhân dân địa phương;
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005500000000000000000
+ c) Xem xét, xác minh, mời chuyên gia tư vấn về vấn đề mà đại biểu Quốc hội xét thấy cần thiết;
 
-**ID:** dk_00059273
+ d) Kiến nghị cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật.
 
----
+ 3. Chậm nhất là 10 ngày kể từ ngày kết thúc hoạt động giám sát, đại biểu Quốc hội gửi kết luận về vấn đề được giám sát đến cơ quan, tổ chức, cá nhân chịu sự giám sát; đồng thời gửi đến đến Đoàn đại biểu Quốc hội mà mình là thành viên.Điều 35.3.LQ.54. Giám sát của đại biểu Quốc hội đối với việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
 
+(Điều 54 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.56. Thẩm quyền của đại biểu Quốc hội, Đoàn đại biểu Quốc hội trong việc xem xét kết quả giám sát
+ 1. Đoàn đại biểu Quốc hội có trách nhiệm tổ chức để đại biểu Quốc hội tiếp công dân, giám sát cơ quan, tổ chức, cá nhân có thẩm quyền trong việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.
 
-Điều 35.3.LQ.56. Thẩm quyền của đại biểu Quốc hội, Đoàn đại biểu Quốc hội trong việc xem xét kết quả giám sát
+ 2. Khi nhận được khiếu nại, tố cáo, kiến nghị của công dân, đại biểu Quốc hội có trách nhiệm nghiên cứu, kịp thời chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết và thông báo cho người khiếu nại, tố cáo, kiến nghị biết; đôn đốc, theo dõi và giám sát việc giải quyết. Người có thẩm quyền giải quyết phải thông báo cho đại biểu Quốc hội về kết quả giải quyết khiếu nại, tố cáo, kiến nghị của công dân trong thời hạn theo quy định của pháp luật.
 
-**Chỉ mục:** 56
+ Trường hợp xét thấy việc giải quyết khiếu nại, tố cáo, kiến nghị không đúng pháp luật, đại biểu Quốc hội có quyền gặp người đứng đầu cơ quan, tổ chức hữu quan để tìm hiểu, yêu cầu xem xét lại; khi cần thiết, đại biểu Quốc hội yêu cầu người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.
 
-**Mã phân cấp:** 350030000000000020000040000000000000000005600000000000000000
+ 3. Đại biểu Quốc hội có quyền yêu cầu cơ quan, tổ chức, cá nhân có liên quan hoặc người khiếu nại, tố cáo, kiến nghị đến trình bày và cung cấp thông tin, tài liệu có liên quan; xem xét, xác minh vấn đề mà đại biểu Quốc hội quan tâm.(Điều này có nội dung liên quan đến Điều 18.4.LQ.21. Tiếp công dân của đại biểu Quốc hội)
 
-**ID:** dk_00059274
+Điều 35.3.LQ.55. Quyền yêu cầu cung cấp thông tin
 
----
+(Điều 55 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ 1. Khi tiến hành giám sát, đại biểu Quốc hội có quyền yêu cầu cơ quan, tổ chức, cá nhân có liên quan đến vấn đề giám sát cung cấp thông tin, tài liệu liên quan đến nhiệm vụ của cơ quan, tổ chức, cá nhân đó.
 
-### Điều 35.3.LQ.57. Các hoạt động giám sát của Hội đồng nhân dân
+ 2. Người đứng đầu cơ quan, tổ chức, cá nhân có trách nhiệm đáp ứng yêu cầu của đại biểu Quốc hội chậm nhất là 05 ngày kể từ ngày nhận được yêu cầu.Điều 35.3.LQ.56. Thẩm quyền của đại biểu Quốc hội, Đoàn đại biểu Quốc hội trong việc xem xét kết quả giám sát
+
+(Điều 56 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Căn cứ vào kết quả giám sát, đại biểu Quốc hội, Đoàn đại biểu Quốc hội có thẩm quyền sau đây:
+
+ a) Yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền sửa đổi, bổ sung, đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật;
+
+ b) Kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, giải quyết các vấn đề có liên quan đến chủ trương, chính sách, pháp luật. Cơ quan, tổ chức, cá nhân nhận được kiến nghị có trách nhiệm xem xét và trả lời trong thời hạn 15 ngày kể từ ngày nhận được kiến nghị. Quá thời hạn này mà không nhận được trả lời hoặc trường hợp không tán thành với nội dung trả lời thì đại biểu Quốc hội, Đoàn đại biểu Quốc hội có quyền kiến nghị với cơ quan, tổ chức, cá nhân có thẩm quyền xem xét, giải quyết, đồng thời báo cáo Ủy ban thường vụ Quốc hội xem xét, quyết định;
+
+ c) Yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật, xem xét trách nhiệm, xử lý người vi phạm, khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm.
+
+ 2. Ngoài các quyền quy định tại khoản 1 Điều này, đại biểu Quốc hội có quyền kiến nghị Ủy ban thường vụ Quốc hội xem xét trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn.Chương III
+
+GIÁM SÁT CỦA HỘI ĐỒNG NHÂN DÂN
+
+Mục 1
+
+HOẠT ĐỘNG GIÁM SÁT CỦA HỘI ĐỒNG NHÂN DÂN
 
 Điều 35.3.LQ.57. Các hoạt động giám sát của Hội đồng nhân dân
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000005700000000000000000
+ 1. Xem xét báo cáo công tác của Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự cùng cấp và các báo cáo khác theo quy định tại Điều 59 của Luật này.
 
-**ID:** dk_00059277
+ 2. Xem xét việc trả lời chất vấn của những người bị chất vấn quy định tại điểm đ khoản 1 Điều 5 của Luật này.
 
----
+ 3. Xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp.
 
+ 4. Giám sát chuyên đề.
 
-### Điều 35.3.LQ.58. Chương trình giám sát của Hội đồng nhân dân
+ 5. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Hội đồng nhân dân bầu.(Điều này có nội dung liên quan đến Điều 87. Hoạt động giám sát của Hội đồng nhân dân của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015; Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân; Điều 35.3.LQ.59. Xem xét báo cáo của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015; Điều 8.1.LQ.90. Ủy ban nhân dân các cấp của Luật 102/2016/QH13 Trẻ em ban hành ngày 05/04/2016)
 
 Điều 35.3.LQ.58. Chương trình giám sát của Hội đồng nhân dân
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000005800000000000000000
+ 1. Thường trực Hội đồng nhân dân dự kiến chương trình giám sát hằng năm của Hội đồng nhân dân trên cơ sở đề nghị của các Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và kiến nghị của cử tri ở địa phương trình Hội đồng nhân dân xem xét, quyết định tại kỳ họp giữa năm của năm trước.
 
-**ID:** dk_00059278
+ Chậm nhất là ngày 01 tháng 3 của năm trước, các Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và cử tri ở địa phương gửi đề nghị, kiến nghị giám sát của Hội đồng nhân dân đến Thường trực Hội đồng nhân dân. Đề nghị, kiến nghị giám sát phải nêu rõ sự cần thiết, nội dung, phạm vi, đối tượng giám sát.
 
----
+ Văn phòng Hội đồng nhân dân cấp tỉnh, bộ phận giúp việc Hội đồng nhân dân cấp huyện, cấp xã tập hợp, tổng hợp đề nghị, kiến nghị giám sát và báo cáo Thường trực Hội đồng nhân dân. Thường trực Hội đồng nhân dân thảo luận và lập dự kiến chương trình giám sát của Hội đồng nhân dân để trình Hội đồng nhân dân xem xét, quyết định chậm nhất là 10 ngày trước ngày khai mạc kỳ họp giữa năm của Hội đồng nhân dân.
 
+ 2. Hội đồng nhân dân quyết định chương trình giám sát hằng năm theo trình tự sau đây:
 
-### Điều 35.3.LQ.59. Xem xét báo cáo
+ a) Thường trực Hội đồng nhân dân trình bày tờ trình về dự kiến chương trình giám sát;
 
-*Nội dung chưa có sẵn*
+ b) Hội đồng nhân dân thảo luận;
 
-**Chỉ mục:** 59
+ c) Hội đồng nhân dân biểu quyết thông qua chương trình giám sát của Hội đồng nhân dân.
 
-**Mã phân cấp:** 350030000000000030000010000000000000000005900000000000000000
+ 3. Thường trực Hội đồng nhân dân ban hành kế hoạch và tổ chức thực hiện chương trình giám sát của Hội đồng nhân dân, trừ trường hợp quy định tại Điều 62 của Luật này.
 
-**ID:** dk_00059279
+ 4. Thường trực Hội đồng nhân dân báo cáo kết quả thực hiện chương trình giám sát hằng năm của Hội đồng nhân dân tại kỳ họp giữa năm sau của Hội đồng nhân dân.(Điều này có nội dung liên quan đến Điều 35.3.LQ.62. Giám sát chuyên đề của Hội đồng nhân dân)
 
----
+Điều 35.3.LQ.59. Xem xét báo cáo
 
+(Điều 59 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.60. Chất vấn và xem xét trả lời chất vấn tại kỳ họp Hội đồng nhân dân
+ 1. Hội đồng nhân dân xem xét các báo cáo sau đây:
+
+ a) Báo cáo công tác 06 tháng, hằng năm của Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Ủy ban nhân dân, Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự cùng cấp;
+
+ b) Báo cáo công tác nhiệm kỳ của Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Ủy ban nhân dân, Tòa án nhân dân, Viện kiểm sát nhân dân cùng cấp;
+
+ c) Báo cáo của Ủy ban nhân dân về kinh tế - xã hội; báo cáo của Ủy ban nhân dân về thực hiện ngân sách nhà nước, quyết toán ngân sách nhà nước của địa phương; báo cáo của Ủy ban nhân dân về công tác phòng, chống tham nhũng; báo cáo của Ủy ban nhân dân về thực hành tiết kiệm, chống lãng phí; báo cáo của Ủy ban nhân dân về công tác phòng, chống tội phạm và vi phạm pháp luật; báo cáo của Ủy ban nhân dân về việc giải quyết khiếu nại, tố cáo và kiến nghị của cử tri;
+
+ d) Báo cáo về việc thi hành pháp luật trong một số lĩnh vực khác theo quy định của pháp luật;
+
+ đ) Báo cáo khác theo đề nghị của Thường trực Hội đồng nhân dân.
+
+ 2. Thời điểm xem xét báo cáo được quy định như sau:
+
+ a) Tại kỳ họp giữa năm và cuối năm, Hội đồng nhân dân xem xét, thảo luận các báo cáo quy định tại điểm a và điểm c khoản 1 Điều này;
+
+ b) Tại kỳ họp cuối nhiệm kỳ, Hội đồng nhân dân xem xét, thảo luận các báo cáo quy định tại điểm b khoản 1 Điều này;
+
+ c) Thời điểm xem xét các báo cáo quy định tại điểm d và điểm đ khoản 1 Điều này theo đề nghị của Thường trực Hội đồng nhân dân.
+
+ 3. Theo sự phân công của Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân cùng cấp thẩm tra các báo cáo quy định tại khoản 1 Điều này, trừ báo cáo của Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân.
+
+ 4. Hội đồng nhân dân xem xét, thảo luận báo cáo theo trình tự sau đây:
+
+ a) Người đứng đầu cơ quan có báo cáo trình bày báo cáo;
+
+ b) Trưởng Ban của Hội đồng nhân dân trình bày báo cáo thẩm tra;
+
+ c) Người đứng đầu cơ quan có báo cáo có thể trình bày bổ sung những vấn đề có liên quan mà Hội đồng nhân dân quan tâm;
+
+ d) Hội đồng nhân dân thảo luận;
+
+ đ) Hội đồng nhân dân có thể ra nghị quyết về công tác của cơ quan có báo cáo.
+
+ 5. Nội dung của nghị quyết theo quy định tại khoản 5 Điều 13 của Luật này.(Điều này có nội dung liên quan đến Điều 21.1.LQ.125. Trách nhiệm quan trắc môi trường của Luật 55/2014/QH13 Bảo vệ môi trường ban hành ngày 23/06/2014; Điều 35.3.LQ.13. Xem xét báo cáo; Điều 35.3.LQ.57. Các hoạt động giám sát của Hội đồng nhân dân; Điều 35.3.LQ.78. Thẩm tra báo cáo của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015; Điều 18.2.LQ.16. Báo cáo, công khai báo cáo về công tác phòng, chống tham nhũng; Điều 18.2.LQ.85. Trách nhiệm của Ủy ban nhân dân các cấp)
 
 Điều 35.3.LQ.60. Chất vấn và xem xét trả lời chất vấn tại kỳ họp Hội đồng nhân dân
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000006000000000000000000
+ 1. Trước phiên họp chất vấn, đại biểu Hội đồng nhân dân ghi vấn đề chất vấn, người bị chất vấn vào phiếu chất vấn và gửi đến Thường trực Hội đồng nhân dân.
 
-**ID:** dk_00059280
+ 2. Căn cứ vào chương trình kỳ họp, ý kiến, kiến nghị của cử tri, vấn đề xã hội quan tâm và phiếu chất vấn của đại biểu Hội đồng nhân dân, Thường trực Hội đồng nhân dân đề nghị Hội đồng nhân dân quyết định nhóm vấn đề chất vấn và người bị chất vấn.
 
----
+ 3. Hoạt động chất vấn tại kỳ họp Hội đồng nhân dân được thực hiện theo trình tự sau đây:
 
+ a) Đại biểu Hội đồng nhân dân nêu chất vấn, có thể cung cấp thông tin minh họa bằng hình ảnh, video, vật chứng cụ thể;
 
-### Điều 35.3.LQ.61. Xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
+ b) Người bị chất vấn phải trả lời trực tiếp, đầy đủ vào vấn đề mà đại biểu Hội đồng nhân dân đã chất vấn, không được ủy quyền cho người khác trả lời thay; xác định rõ trách nhiệm, biện pháp và thời hạn khắc phục hạn chế, bất cập (nếu có);
+
+ c) Trường hợp đại biểu Hội đồng nhân dân không đồng ý với nội dung trả lời chất vấn thì có quyền chất vấn lại để người bị chất vấn trả lời;
+
+ d) Những người khác có thể được mời tham dự phiên họp và trả lời chất vấn của đại biểu Hội đồng nhân dân về vấn đề thuộc trách nhiệm của mình.
+
+ Thời gian nêu chất vấn, thời gian trả lời chất vấn được thực hiện theo quy định tại Quy chế hoạt động của Hội đồng nhân dân và đại biểu Hội đồng nhân dân.
+
+ 4. Hội đồng nhân dân cho trả lời chất vấn bằng văn bản trong các trường hợp sau đây:
+
+ a) Chất vấn không thuộc nhóm vấn đề chất vấn tại kỳ họp;
+
+ b) Vấn đề chất vấn cần được điều tra, xác minh;
+
+ c) Chất vấn thuộc nhóm vấn đề chất vấn tại kỳ họp nhưng chưa được trả lời tại kỳ họp.
+
+ Người bị chất vấn phải trực tiếp trả lời bằng văn bản. Văn bản trả lời chất vấn được gửi đến đại biểu Hội đồng nhân dân đã chất vấn, Thường trực Hội đồng nhân dân trong thời hạn 20 ngày kể từ ngày chất vấn.
+
+ Sau khi nhận được văn bản trả lời chất vấn, nếu đại biểu Hội đồng nhân dân không đồng ý với nội dung trả lời chất vấn thì có quyền đề nghị Hội đồng nhân dân đưa ra thảo luận tại kỳ họp Hội đồng nhân dân hoặc kiến nghị Hội đồng nhân dân xem xét trách nhiệm đối với người bị chất vấn.
+
+ 5. Hội đồng nhân dân có thể ra nghị quyết về chất vấn. Nội dung nghị quyết theo quy định tại khoản 5 Điều 15 của Luật này.
+
+ 6. Phiên họp chất vấn tại Hội đồng nhân dân cấp tỉnh được phát thanh, truyền hình trực tiếp, trừ trường hợp do Hội đồng nhân dân quyết định.
+
+ 7. Chậm nhất là 10 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, người đã trả lời chất vấn có trách nhiệm gửi báo cáo về việc thực hiện nghị quyết của Hội đồng nhân dân về chất vấn, các vấn đề đã hứa tại kỳ họp trước đến Thường trực Hội đồng nhân dân để chuyển đến các đại biểu Hội đồng nhân dân.(Điều này có nội dung liên quan đến Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội; Điều 35.3.LQ.84. Chất vấn của đại biểu Hội đồng nhân dân)
 
 Điều 35.3.LQ.61. Xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000006100000000000000000
+ 1. Hội đồng nhân dân xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của mình theo đề nghị của Thường trực Hội đồng nhân dân.
 
-**ID:** dk_00059281
+ 2. Hội đồng nhân dân xem xét văn bản quy phạm pháp luật quy định tại khoản 1 Điều này theo trình tự sau đây:
 
----
+ a) Đại diện Thường trực Hội đồng nhân dân trình bày tờ trình;
 
+ b) Hội đồng nhân dân thảo luận.
 
-### Điều 35.3.LQ.62. Giám sát chuyên đề của Hội đồng nhân dân
+ c) Người đứng đầu cơ quan đã ban hành văn bản quy phạm pháp luật trình bày bổ sung những vấn đề có liên quan;
 
-Điều 35.3.LQ.62. Giám sát chuyên đề của Hội đồng nhân dân
+ d) Hội đồng nhân dân ra nghị quyết về việc xem xét văn bản.
 
-**Chỉ mục:** 62
+ 3. Nghị quyết của Hội đồng nhân dân phải xác định văn bản quy phạm pháp luật trái hoặc không trái với Hiến pháp, luật, văn bản của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp; trường hợp văn bản quy phạm pháp luật trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp thì quyết định bãi bỏ một phần hoặc toàn bộ văn bản đó.Điều 35.3.LQ.62. Giám sát chuyên đề của Hội đồng nhân dân
 
-**Mã phân cấp:** 350030000000000030000010000000000000000006200000000000000000
+(Điều 62 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00059282
+ 1. Căn cứ chương trình giám sát, Hội đồng nhân dân ra nghị quyết thành lập Đoàn giám sát chuyên đề theo đề nghị của Thường trực Hội đồng nhân dân.
 
----
+ Nghị quyết của Hội đồng nhân dân về việc thành lập Đoàn giám sát phải xác định rõ đối tượng, phạm vi, nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
+ Đoàn giám sát do Chủ tịch Hội đồng nhân dân hoặc Phó Chủ tịch Hội đồng nhân dân làm Trưởng đoàn, các thành viên khác gồm Ủy viên của Thường trực Hội đồng nhân dân, đại diện Ban của Hội đồng nhân dân và một số đại biểu Hội đồng nhân dân. Đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp, tổ chức thành viên của Mặt trận có thể được mời tham gia Đoàn giám sát.
 
-### Điều 35.3.LQ.63. Hội đồng nhân dân lấy phiếu tín nhiệm
+ 2. Đoàn giám sát có những nhiệm vụ, quyền hạn sau đây:
+
+ a) Xây dựng đề cương báo cáo để cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo;
+
+ b) Thông báo nội dung, kế hoạch, đề cương báo cáo cho cơ quan, tổ chức, cá nhân chịu sự giám sát chậm nhất là 15 ngày kể từ ngày Hội đồng nhân dân ra nghị quyết thành lập Đoàn giám sát; thông báo chương trình và thành phần Đoàn giám sát chậm nhất là 10 ngày trước ngày Đoàn tiến hành làm việc với cơ quan, tổ chức, cá nhân chịu sự giám sát;
+
+ c) Thực hiện đúng nội dung, kế hoạch giám sát;
+
+ d) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát, giải trình vấn đề mà Đoàn giám sát quan tâm;
+
+ đ) Xem xét, xác minh, mời chuyên gia tư vấn về vấn đề mà Đoàn giám sát xét thấy cần thiết;
+
+ e) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Đoàn giám sát có quyền yêu cầu cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật;
+
+ g) Khi kết thúc hoạt động giám sát, Đoàn giám sát báo cáo kết quả giám sát để Hội đồng nhân dân xem xét tại kỳ họp gần nhất.
+
+ Trước khi báo cáo Hội đồng nhân dân, Đoàn giám sát báo cáo Thường trực Hội đồng nhân dân về kết quả giám sát.
+
+ 3. Hội đồng nhân dân xem xét báo cáo của Đoàn giám sát theo trình tự sau đây:
+
+ a) Đoàn giám sát báo cáo kết quả giám sát;
+
+ b) Đại diện cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo, giải trình;
+
+ c) Hội đồng nhân dân thảo luận.
+
+ Trong quá trình thảo luận, đại diện Đoàn giám sát có thể trình bày bổ sung về những vấn đề liên quan;
+
+ d) Hội đồng nhân dân ra nghị quyết về vấn đề được giám sát. Nội dung nghị quyết giám sát chuyên đề theo quy định tại khoản 4 Điều 16 của Luật này.
+
+ 4. Nghị quyết giám sát được gửi đến cơ quan, tổ chức, cá nhân chịu sự giám sát và cơ quan, tổ chức, cá nhân có liên quan.(Điều này có nội dung liên quan đến Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội; Điều 35.3.LQ.58. Chương trình giám sát của Hội đồng nhân dân)
 
 Điều 35.3.LQ.63. Hội đồng nhân dân lấy phiếu tín nhiệm
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, bị ngưng hiệu lực theo quy định tại Điều 20 của Nghị quyết số 96/2023/QH15 có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000006300000000000000000
+1. Hội đồng nhân dân lấy phiếu tín nhiệm đối với những người giữ các chức vụ sau đây:
 
-**ID:** dk_00059283
+a) Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Hội đồng nhân dân, Trưởng Ban của Hội đồng nhân dân; Chánh Văn phòng Hội đồng nhân dân đối với Hội đồng nhân dân cấp tỉnh;
 
----
+b) Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân, Ủy viên Ủy ban nhân dân.
 
+2. Việc lấy phiếu tín nhiệm được thực hiện tại kỳ họp Hội đồng nhân dân theo trình tự sau đây:
 
-### Điều 35.3.LQ.64. Hội đồng nhân dân bỏ phiếu tín nhiệm
+a) Thường trực Hội đồng nhân dân trình Hội đồng nhân dân quyết định danh sách những người được lấy phiếu tín nhiệm;
+
+b) Hội đồng nhân dân lấy phiếu tín nhiệm bằng cách bỏ phiếu kín;
+
+c) Thường trực Hội đồng nhân dân trình Hội đồng nhân dân thông qua nghị quyết xác nhận kết quả lấy phiếu tín nhiệm.
+
+3. Người được lấy phiếu tín nhiệm có quá nửa tổng số đại biểu Hội đồng nhân dân đánh giá tín nhiệm thấp thì có thể xin từ chức.
+
+Người được lấy phiếu tín nhiệm có từ hai phần ba tổng số đại biểu Hội đồng nhân dân trở lên đánh giá tín nhiệm thấp thì Thường trực Hội đồng nhân dân trình Hội đồng nhân dân bỏ phiếu tín nhiệm.
+
+4. Ngoài quy định tại Điều này, thời hạn, thời điểm, trình tự lấy phiếu tín nhiệm đối với người được Hội đồng nhân dân bầu được thực hiện theo nghị quyết của Quốc hội.
+
+(Điều này có nội dung liên quan đến Điều 3. Mục đích lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 4. Nguyên tắc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 5. Căn cứ đánh giá mức độ tín nhiệm; Điều 6. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 7. Thời hạn và thời điểm tổ chức lấy phiếu tín nhiệm; Điều 10. Hệ quả đối với người được lấy phiếu tín nhiệm; Điều 15. Hệ quả đối với người không được Quốc hội, Hội đồng nhân dân tín nhiệm; Điều 16. Phiếu sử dụng trong lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm và việc xác định phiếu hợp lệ; Điều 17. Kết quả lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm của Nghị quyết 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn ban hành ngày 28/11/2014; Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành)
 
 Điều 35.3.LQ.64. Hội đồng nhân dân bỏ phiếu tín nhiệm
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, bị ngưng hiệu lực theo quy định tại Điều 20 của Nghị quyết số 96/2023/QH15 có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000006400000000000000000
+1. Hội đồng nhân dân bỏ phiếu tín nhiệm đối với người giữ chức vụ do Hội đồng nhân dân bầu trong các trường hợp sau đây:
 
-**ID:** dk_00059284
+a) Có kiến nghị của ít nhất một phần ba tổng số đại biểu Hội đồng nhân dân;
 
----
+b) Có kiến nghị của Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp;
 
+c) Người được lấy phiếu tín nhiệm có từ hai phần ba tổng số đại biểu Hội đồng nhân dân trở lên đánh giá tín nhiệm thấp.
 
-### Điều 35.3.LQ.65. Thẩm quyền của Hội đồng nhân dân trong việc xem xét kết quả giám sát
+2. Việc bỏ phiếu tín nhiệm đối với người giữ chức vụ do Hội đồng nhân dân bầu được thực hiện tại kỳ họp Hội đồng nhân dân theo trình tự sau đây:
+
+a) Thường trực Hội đồng nhân dân trình Hội đồng nhân dân bỏ phiếu tín nhiệm;
+
+b) Người được đưa ra bỏ phiếu tín nhiệm trình bày ý kiến của mình;
+
+c) Hội đồng nhân dân thảo luận;
+
+d) Hội đồng nhân dân bỏ phiếu tín nhiệm bằng cách bỏ phiếu kín;
+
+đ) Thường trực Hội đồng nhân dân trình Hội đồng nhân thông qua nghị quyết xác nhận kết quả bỏ phiếu tín nhiệm.
+
+3. Người được bỏ phiếu tín nhiệm có quá nửa tổng số đại biểu Hội đồng nhân dân đánh giá không tín nhiệm thì có thể xin từ chức; trường hợp không từ chức thì cơ quan hoặc người có thẩm quyền giới thiệu người đó để Hội đồng nhân dân bầu có trách nhiệm trình Hội đồng nhân dân xem xét, quyết định việc miễn nhiệm, bãi nhiệm đối với người đó.
+
+4. Ngoài quy định tại Điều này, trình tự bỏ phiếu tín nhiệm đối với người giữ chức vụ do Hội đồng nhân dân bầu được thực hiện theo nghị quyết của Quốc hội.
+
+(Điều này có nội dung liên quan đến Điều 3. Mục đích lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 4. Nguyên tắc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 5. Căn cứ đánh giá mức độ tín nhiệm; Điều 6. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 11. Các trường hợp bỏ phiếu tín nhiệm; Điều 12. Thủ tục đề nghị, kiến nghị Quốc hội, Hội đồng nhân dân bỏ phiếu tín nhiệm; Điều 15. Hệ quả đối với người không được Quốc hội, Hội đồng nhân dân tín nhiệm; Điều 16. Phiếu sử dụng trong lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm và việc xác định phiếu hợp lệ; Điều 17. Kết quả lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm của Nghị quyết 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn ban hành ngày 28/11/2014; Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành)
 
 Điều 35.3.LQ.65. Thẩm quyền của Hội đồng nhân dân trong việc xem xét kết quả giám sát
 
-**Chỉ mục:** 65
+(Điều 65 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000010000000000000000006500000000000000000
+ Căn cứ vào kết quả giám sát, Hội đồng nhân dân có thẩm quyền sau đây:
 
-**ID:** dk_00059285
+ 1. Bãi bỏ một phần hoặc toàn bộ quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp;
 
----
+ 2. Ra nghị quyết về chất vấn;
 
+ 3. Miễn nhiệm, bãi nhiệm Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Hội đồng nhân dân, Trưởng Ban của Hội đồng nhân dân, Chánh Văn phòng Hội đồng nhân dân đối với Hội đồng nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân và các Ủy viên Ủy ban nhân dân;
 
-### Điều 35.3.LQ.66. Các hoạt động giám sát của Thường trực Hội đồng nhân dân
+ 4. Giải tán Hội đồng nhân dân cấp dưới trực tiếp trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân.Mục 2
+
+HOẠT ĐỘNG GIÁM SÁT CỦA THƯỜNG TRỰC HỘI ĐỒNG NHÂN DÂN
 
 Điều 35.3.LQ.66. Các hoạt động giám sát của Thường trực Hội đồng nhân dân
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000020000000000000000006600000000000000000
+ 1. Xem xét quyết định của Ủy ban nhân dân cùng cấp và nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp.
 
-**ID:** dk_00059287
+ 2. Xem xét việc trả lời chất vấn của những người bị chất vấn quy định tại điểm đ khoản 1 Điều 5 của Luật này trong thời gian giữa hai kỳ họp Hội đồng nhân dân.
 
----
+ 3. Giám sát chuyên đề.
 
+ 4. Tổ chức hoạt động giải trình tại phiên họp Thường trực Hội đồng nhân dân.
 
-### Điều 35.3.LQ.67. Chương trình giám sát của Thường trực Hội đồng nhân dân
+ 5. Giám sát việc giải quyết khiếu nại, tố cáo của công dân.
+
+ 6. Giám sát việc giải quyết kiến nghị của cử tri.(Điều này có nội dung liên quan đến Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân)
 
 Điều 35.3.LQ.67. Chương trình giám sát của Thường trực Hội đồng nhân dân
 
-**Chỉ mục:** 67
+(Điều 67 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000020000000000000000006700000000000000000
+ 1. Thường trực Hội đồng nhân dân quyết định chương trình giám sát hằng năm của mình căn cứ vào chương trình giám sát của Hội đồng nhân dân và ý kiến của các thành viên Thường trực Hội đồng nhân dân, đề nghị của các Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và ý kiến, kiến nghị của cử tri ở địa phương.
 
-**ID:** dk_00059288
+ Chậm nhất là 05 ngày trước ngày khai mạc kỳ họp cuối năm của Hội đồng nhân dân, các Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp gửi đến Thường trực Hội đồng nhân dân đề nghị giám sát đưa vào chương trình giám sát của Thường trực Hội đồng nhân dân. Đề nghị giám sát phải nêu rõ sự cần thiết, nội dung, phạm vi, đối tượng giám sát.
 
----
+ Văn phòng Hội đồng nhân dân cấp tỉnh, bộ phận giúp việc Hội đồng nhân dân cấp huyện, cấp xã tập hợp, tổng hợp đề nghị giám sát trình Thường trực Hội đồng nhân dân.
 
+ 2. Chương trình giám sát hằng năm được Thường trực Hội đồng nhân dân xem xét, quyết định chậm nhất là 15 ngày kể từ ngày bế mạc kỳ họp cuối năm trước của Hội đồng nhân dân.
 
-### Điều 35.3.LQ.68. Xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
+ Thường trực Hội đồng nhân dân xem xét quyết định chương trình giám sát hằng năm theo trình tự sau đây:
 
-Điều 35.3.LQ.68. Xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
+ a) Chánh Văn phòng Hội đồng nhân dân cấp tỉnh, người đứng đầu bộ phận giúp việc Hội đồng nhân dân cấp huyện, cấp xã trình dự kiến chương trình giám sát của Thường trực Hội đồng nhân dân;
 
-**Chỉ mục:** 68
+ b) Thường trực Hội đồng nhân dân thảo luận;
 
-**Mã phân cấp:** 350030000000000030000020000000000000000006800000000000000000
+ c) Thường trực Hội đồng nhân dân thông qua chương trình giám sát.
 
-**ID:** dk_00059289
+ 3. Căn cứ vào chương trình giám sát đã được thông qua, Thường trực Hội đồng nhân dân phân công thành viên Thường trực Hội đồng nhân dân thực hiện các nội dung trong chương trình; giao các Ban của Hội đồng nhân dân thực hiện một số nội dung thuộc chương trình và báo cáo kết quả với Thường trực Hội đồng nhân dân khi cần thiết.
 
----
+ 4. Thường trực Hội đồng nhân dân báo cáo kết quả thực hiện chương trình giám sát hằng năm của mình với Hội đồng nhân dân vào kỳ họp giữa năm của năm sau.Điều 35.3.LQ.68. Xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
 
+(Điều 68 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.69. Chất vấn và xem xét trả lời chất vấn tại phiên họp Thường trực Hội đồng nhân dân trong thời gian giữa hai kỳ họp Hội đồng nhân dân
+ 1. Thường trực Hội đồng nhân dân xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp thuộc một trong các trường hợp sau đây:
 
-Điều 35.3.LQ.69. Chất vấn và xem xét trả lời chất vấn tại phiên họp Thường trực Hội đồng nhân dân trong thời gian giữa hai kỳ họp Hội đồng nhân dân
+ a) Khi phát hiện văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp;
 
-**Chỉ mục:** 69
+ b) Theo đề nghị của Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân;
 
-**Mã phân cấp:** 350030000000000030000020000000000000000006900000000000000000
+ c) Theo đề nghị của Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp.
 
-**ID:** dk_00059290
+ 2. Ban pháp chế có trách nhiệm thẩm tra đề nghị về văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp.
 
----
+ Ban của Hội đồng nhân dân có trách nhiệm chủ trì, phối hợp thẩm tra đề nghị về văn bản quy phạm pháp luật có dấu hiệu trái với luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp thuộc lĩnh vực phụ trách.
 
+ 3. Thường trực Hội đồng nhân dân xem xét văn bản quy phạm pháp luật quy định tại khoản 1 Điều này theo trình tự sau đây:
 
-### Điều 35.3.LQ.70. Giám sát chuyên đề của Thường trực Hội đồng nhân dân
+ a) Đại diện cơ quan, tổ chức, cá nhân có đề nghị trình bày;
+
+ b) Trưởng ban của Hội đồng nhân dân trình bày báo cáo thẩm tra;
+
+ c) Đại diện cơ quan, tổ chức được mời tham dự phiên họp phát biểu ý kiến;
+
+ d) Người đứng đầu cơ quan đã ban hành văn bản quy phạm pháp luật báo cáo, giải trình;
+
+ đ) Thường trực Hội đồng nhân dân thảo luận;
+
+ e) Chủ tọa cuộc họp kết luận.
+
+ 4. Khi xét thấy văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp thì Thường trực Hội đồng nhân dân có quyền yêu cầu cơ quan ban hành văn bản sửa đổi, bổ sung, bãi bỏ một phần hoặc toàn bộ văn bản; trường hợp cơ quan ban hành văn bản không thực hiện yêu cầu thì Thường trực Hội đồng nhân dân trình Hội đồng nhân dân xem xét, quyết định.Điều 35.3.LQ.69. Chất vấn và xem xét trả lời chất vấn tại phiên họp Thường trực Hội đồng nhân dân trong thời gian giữa hai kỳ họp Hội đồng nhân dân
+
+(Điều 69 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Trong thời gian giữa hai kỳ họp Hội đồng nhân dân, đại biểu Hội đồng nhân dân ghi vấn đề chất vấn, người bị chất vấn vào phiếu chất vấn và gửi đến Thường trực Hội đồng nhân dân cùng cấp.
+
+ Căn cứ vào chương trình phiên họp, ý kiến, kiến nghị của cử tri, vấn đề xã hội quan tâm và phiếu chất vấn của đại biểu Hội đồng nhân dân, Thường trực Hội đồng nhân dân quyết định nhóm vấn đề chất vấn, người bị chất vấn, thời gian chất vấn.
+
+ 2. Hoạt động chất vấn tại phiên họp Thường trực Hội đồng nhân dân được tiến hành theo trình tự sau đây:
+
+ a) Đại biểu Hội đồng nhân dân nêu chất vấn, có thể cung cấp thông tin minh họa bằng hình ảnh, video, vật chứng cụ thể;
+
+ b) Người bị chất vấn phải trả lời trực tiếp, đầy đủ vào vấn đề mà đại biểu Hội đồng nhân dân đã chất vấn, không được ủy quyền cho người khác trả lời thay; xác định rõ trách nhiệm, biện pháp và thời hạn khắc phục hạn chế, bất cập (nếu có);
+
+ c) Trường hợp đại biểu Hội đồng nhân dân không đồng ý với nội dung trả lời chất vấn thì có quyền chất vấn lại để người bị chất vấn trả lời;
+
+ d) Những người khác có thể được mời tham dự phiên họp và trả lời chất vấn của đại biểu Hội đồng nhân dân về vấn đề thuộc trách nhiệm của mình.
+
+ Thời gian nêu chất vấn, thời gian trả lời chất vấn được thực hiện theo quy định của quy chế hoạt động của Hội đồng nhân dân, đại biểu Hội đồng nhân dân.
+
+ 3. Thường trực Hội đồng nhân dân cho trả lời chất vấn bằng văn bản trong trường hợp sau đây:
+
+ a) Chất vấn không thuộc nhóm vấn đề chất vấn tại phiên họp;
+
+ b) Vấn đề chất vấn cần được điều tra, xác minh;
+
+ c) Chất vấn thuộc nhóm vấn đề chất vấn tại phiên họp nhưng chưa được trả lời tại phiên họp.
+
+ Người bị chất vấn phải trực tiếp trả lời bằng văn bản. Văn bản trả lời chất vấn được gửi đến đại biểu Hội đồng nhân dân đã chất vấn, Thường trực Hội đồng nhân dân trong thời hạn 20 ngày kể từ ngày chất vấn.
+
+ Sau khi nhận được văn bản trả lời chất vấn, nếu đại biểu Hội đồng nhân dân không đồng ý với nội dung trả lời thì có quyền đề nghị Thường trực Hội đồng nhân dân đưa ra thảo luận tại phiên họp Thường trực Hội đồng nhân dân hoặc kiến nghị Thường trực Hội đồng nhân dân, Hội đồng nhân dân xem xét trách nhiệm đối với người bị chất vấn.(Điều này có nội dung liên quan đến Điều 35.3.LQ.84. Chất vấn của đại biểu Hội đồng nhân dân)
 
 Điều 35.3.LQ.70. Giám sát chuyên đề của Thường trực Hội đồng nhân dân
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000020000000000000000007000000000000000000
+ 1. Căn cứ vào chương trình giám sát, Thường trực Hội đồng nhân dân quyết định thành lập Đoàn giám sát chuyên đề.
 
-**ID:** dk_00059291
+ Quyết định thành lập Đoàn giám sát phải xác định rõ đối tượng, phạm vi, nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
----
+ Đoàn giám sát do một Phó Chủ tịch Hội đồng nhân dân hoặc Ủy viên của Thường trực Hội đồng nhân dân làm Trưởng đoàn, các thành viên khác gồm đại diện của Ban của Hội đồng nhân dân và một số đại biểu Hội đồng nhân dân. Đại diện Ủy ban Mặt trận Tổ quốc Việt Nam, tổ chức thành viên của Mặt trận có thể được mời tham gia Đoàn giám sát.
 
+ 2. Đoàn giám sát có những nhiệm vụ, quyền hạn sau đây:
 
-### Điều 35.3.LQ.71. Báo cáo kết quả giám sát của Đoàn giám sát
+ a) Xây dựng đề cương báo cáo để cơ quan, tổ chức chịu sự giám sát báo cáo;
 
-Điều 35.3.LQ.71. Báo cáo kết quả giám sát của Đoàn giám sát
+ b) Thông báo nội dung, kế hoạch, đề cương báo cáo cho cơ quan, tổ chức, cá nhân chịu sự giám sát chậm nhất là 15 ngày kể từ ngày ra quyết định thành lập Đoàn giám sát; thông báo chương trình và thành phần Đoàn giám sát chậm nhất là 10 ngày trước ngày Đoàn làm việc với cơ quan, tổ chức, cá nhân chịu sự giám sát;
 
-**Chỉ mục:** 71
+ c) Thực hiện đúng nội dung, kế hoạch giám sát;
 
-**Mã phân cấp:** 350030000000000030000020000000000000000007100000000000000000
+ d) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát, giải trình vấn đề mà Đoàn giám sát quan tâm;
 
-**ID:** dk_00059292
+ đ) Xem xét, xác minh, mời chuyên gia tư vấn về vấn đề mà Đoàn giám sát xét thấy cần thiết;
 
----
+ e) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Đoàn giám sát có quyền yêu cầu cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật;
 
+ g) Chậm nhất là 15 ngày kể từ ngày kết thúc hoạt động giám sát, Đoàn giám sát báo cáo kết quả giám sát để Thường trực Hội đồng nhân dân xem xét, quyết định.
 
-### Điều 35.3.LQ.72. Giải trình tại phiên họp Thường trực Hội đồng nhân dân
+ 3. Thường trực Hội đồng nhân dân có trách nhiệm báo cáo Hội đồng nhân dân về hoạt động giám sát của mình giữa hai kỳ họp.Điều 35.3.LQ.71. Báo cáo kết quả giám sát của Đoàn giám sát
 
-Điều 35.3.LQ.72. Giải trình tại phiên họp Thường trực Hội đồng nhân dân
+(Điều 71 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 72
+ 1. Trong thời hạn 07 ngày kể từ ngày nhận được báo cáo kết quả giám sát của Đoàn giám sát, Thường trực Hội đồng nhân dân có trách nhiệm xem xét báo cáo theo trình tự sau đây:
 
-**Mã phân cấp:** 350030000000000030000020000000000000000007200000000000000000
+ a) Trưởng Đoàn giám sát trình bày báo cáo;
 
-**ID:** dk_00059293
+ b) Đại diện cơ quan, tổ chức, cá nhân chịu sự giám sát được mời tham dự phiên họp phát biểu ý kiến;
 
----
+ c) Thường trực Hội đồng nhân dân thảo luận.
 
+ Trong quá trình thảo luận, đại diện Đoàn giám sát có thể trình bày bổ sung những vấn đề có liên quan;
 
-### Điều 35.3.LQ.73. Giám sát việc giải quyết khiếu nại, tố cáo của công dân
+ d) Chủ tọa cuộc họp kết luận.
 
-Điều 35.3.LQ.73. Giám sát việc giải quyết khiếu nại, tố cáo của công dân
+ Kết luận của Thường trực Hội đồng nhân dân được gửi đến cơ quan, tổ chức, cá nhân chịu sự giám sát và các cơ quan, tổ chức có liên quan.
 
-**Chỉ mục:** 73
+ 3. Thường trực Hội đồng nhân dân có trách nhiệm theo dõi kết quả giải quyết kiến nghị của cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
-**Mã phân cấp:** 350030000000000030000020000000000000000007300000000000000000
+ 4. Trong trường hợp cần thiết, Thường trực Hội đồng nhân dân đề nghị Hội đồng nhân dân xem xét báo cáo kết quả giám sát của Đoàn giám sát tại kỳ họp gần nhất.Điều 35.3.LQ.72. Giải trình tại phiên họp Thường trực Hội đồng nhân dân
 
-**ID:** dk_00059294
+(Điều 72 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+ 1. Căn cứ vào chương trình giám sát, Thường trực Hội đồng nhân dân yêu cầu thành viên của Ủy ban nhân dân, Chánh án Tòa án nhân dân, Viện trưởng Viện kiểm sát nhân dân cùng cấp giải trình và cá nhân có liên quan tham gia giải trình vấn đề mà Thường trực Hội đồng nhân dân quan tâm.
 
+ Việc tổ chức giải trình, nội dung, kế hoạch tổ chức giải trình và người được yêu cầu giải trình do Thường trực Hội đồng nhân dân quyết định.
 
-### Điều 35.3.LQ.74. Giám sát việc giải quyết kiến nghị của cử tri
+ Người được yêu cầu có trách nhiệm báo cáo, giải trình theo yêu cầu của Thường trực Hội đồng nhân dân.
 
-Điều 35.3.LQ.74. Giám sát việc giải quyết kiến nghị của cử tri
+ Đại biểu Hội đồng nhân dân được mời tham dự và phát biểu ý kiến tại phiên giải trình. Cơ quan, tổ chức, cá nhân có liên quan, các chuyên gia, nhà khoa học có thể được mời tham dự và phát biểu ý kiến tại phiên giải trình.
 
-**Chỉ mục:** 74
+ 2. Nội dung, kế hoạch tổ chức giải trình tại phiên họp Thường trực Hội đồng nhân dân được thông báo cho cá nhân được yêu cầu giải trình chậm nhất là 10 ngày trước ngày tiến hành phiên giải trình.
 
-**Mã phân cấp:** 350030000000000030000020000000000000000007400000000000000000
+ 3. Phiên giải trình được tổ chức công khai, trừ trường hợp do Thường trực Hội đồng nhân dân quyết định.
 
-**ID:** dk_00059295
+ 4. Phiên giải trình được tiến hành theo trình tự sau đây:
 
----
+ a) Chủ tọa nêu nội dung yêu cầu giải trình, người có trách nhiệm giải trình;
 
+ b) Thành viên Thường trực Hội đồng nhân dân, đại biểu Hội đồng nhân dân tham dự nêu yêu cầu giải trình;
 
-### Điều 35.3.LQ.75. Trách nhiệm của Thường trực Hội đồng nhân dân trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
+ c) Người giải trình có trách nhiệm giải trình vấn đề được yêu cầu;
+
+ d) Đại diện cơ quan, tổ chức được mời tham dự phiên giải trình phát biểu ý kiến;
+
+ đ) Chủ tọa tóm tắt nội dung phiên giải trình, dự kiến kết luận vấn đề được giải trình.
+
+ Thường trực Hội đồng nhân dân xem xét, thông qua kết luận vấn đề được giải trình; kết luận được thông qua khi có quá nửa tổng số thành viên Thường trực Hội đồng nhân dân biểu quyết tán thành.
+
+ Kết luận của Thường trực Hội đồng nhân dân được gửi đến đại biểu Hội đồng nhân dân, người được yêu cầu giải trình và cơ quan, tổ chức có liên quan.
+
+ 5. Cơ quan, cá nhân có liên quan có trách nhiệm thực hiện kết luận của Thường trực Hội đồng nhân dân; trường hợp không thực hiện hoặc thực hiện không đầy đủ thì Thường trực Hội đồng nhân dân báo cáo Hội đồng nhân dân xem xét, quyết định.Điều 35.3.LQ.73. Giám sát việc giải quyết khiếu nại, tố cáo của công dân
+
+(Điều 73 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Thường trực Hội đồng nhân dân giám sát việc thi hành pháp luật về khiếu nại, tố cáo; tổ chức Đoàn giám sát hoặc giao cho các Ban của Hội đồng nhân dân giám sát việc giải quyết khiếu nại, tố cáo tại địa phương.
+
+ 2. Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Thường trực Hội đồng nhân dân yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật; trường hợp không đồng ý với việc giải quyết của cơ quan, tổ chức, cá nhân đó thì yêu cầu người đứng đầu cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết.
+
+ Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện yêu cầu của Thường trực Hội đồng nhân dân và báo cáo Thường trực Hội đồng nhân dân trong thời hạn 07 ngày kể từ ngày ra quyết định giải quyết.Điều 35.3.LQ.74. Giám sát việc giải quyết kiến nghị của cử tri
+
+(Điều 74 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Thường trực Hội đồng nhân dân có trách nhiệm giám sát việc giải quyết kiến nghị của cử tri và chuẩn bị báo cáo giám sát việc giải quyết kiến nghị của cử tri của các cơ quan nhà nước có thẩm quyền trình Hội đồng nhân dân cùng cấp.
+
+ 2. Ủy ban nhân dân báo cáo kết quả giải quyết kiến nghị của cử tri.
+
+ Báo cáo của Ủy ban nhân dân về kết quả giải quyết kiến nghị của cử tri phải được Ban của Hội đồng nhân dân thẩm tra theo sự phân công của Thường trực Hội đồng nhân dân.
+
+ 3. Thường trực Hội đồng nhân dân xem xét báo cáo việc giải quyết kiến nghị của cử tri theo trình tự sau đây:
+
+ a) Đại diện Ủy ban nhân dân trình bày báo cáo;
+
+ b) Cơ quan thẩm tra trình bày báo cáo thẩm tra;
+
+ c) Đại diện cơ quan, tổ chức, cá nhân được mời tham dự phiên họp phát biểu ý kiến;
+
+ d) Thường trực Hội đồng nhân dân thảo luận;
+
+ đ) Chủ tọa phiên họp kết luận.
+
+ 4. Thường trực Hội đồng nhân dân chỉ đạo xây dựng báo cáo giám sát kết quả giải quyết kiến nghị của cử tri và dự thảo nghị quyết về việc giải quyết kiến nghị của cử tri trình Hội đồng nhân dân cùng cấp.(Điều này có nội dung liên quan đến Điều 90. Xem xét báo cáo tổng hợp ý kiến, kiến nghị của cử tri ở địa phương của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015)
 
 Điều 35.3.LQ.75. Trách nhiệm của Thường trực Hội đồng nhân dân trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
 
-**Chỉ mục:** 75
+(Điều 75 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000020000000000000000007500000000000000000
+ 1. Xem xét, cho ý kiến về chương trình, nội dung giám sát của các Ban của Hội đồng nhân dân;
 
-**ID:** dk_00059296
+ 2. Yêu cầu Ban của Hội đồng nhân dân điều chỉnh kế hoạch giám sát của mình, bảo đảm hoạt động giám sát không bị trùng lặp;
 
----
+ 3. Phân công Ban của Hội đồng nhân dân thực hiện một số nội dung thuộc chương trình giám sát của Hội đồng nhân dân và Thường trực Hội đồng nhân dân;
 
+ 4. Hằng quý, tổ chức họp với Trưởng ban, Phó Trưởng ban của Hội đồng nhân dân để phối hợp hoạt động giám sát, đánh giá về tình hình và kết quả hoạt động giám sát;
 
-### Điều 35.3.LQ.76. Các hoạt động giám sát của Ban của Hội đồng nhân dân
+ 5. Tổng hợp kết quả giám sát trình Hội đồng nhân dân.Mục 3
+
+HOẠT ĐỘNG GIÁM SÁT CỦA BAN CỦA HỘI ĐỒNG NHÂN DÂN
 
 Điều 35.3.LQ.76. Các hoạt động giám sát của Ban của Hội đồng nhân dân
 
-**Chỉ mục:** 76
+(Điều 76 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000030000000000000000007600000000000000000
+ 1. Thẩm tra các báo cáo do Hội đồng nhân dân, Thường trực Hội đồng nhân dân phân công.
 
-**ID:** dk_00059298
+ 2. Giám sát quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp.
 
----
+ 3. Giám sát chuyên đề.
 
+ 4. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.Điều 35.3.LQ.77. Chương trình giám sát của Ban của Hội đồng nhân dân
 
-### Điều 35.3.LQ.77. Chương trình giám sát của Ban của Hội đồng nhân dân
+(Điều 77 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 35.3.LQ.77. Chương trình giám sát của Ban của Hội đồng nhân dân
+ 1. Ban của Hội đồng nhân dân lập chương trình giám sát hằng năm căn cứ vào chương trình giám sát của Hội đồng nhân dân, Thường trực Hội đồng nhân dân và ý kiến các thành viên của Ban của Hội đồng nhân dân.
 
-**Chỉ mục:** 77
+ 2. Chương trình giám sát hằng năm của Ban của Hội đồng nhân dân được Ban của Hội đồng nhân dân xem xét, quyết định vào cuối năm trước. Trưởng Ban tổ chức thực hiện chương trình giám sát; trường hợp cần thiết, chương trình giám sát có thể được điều chỉnh.Điều 35.3.LQ.78. Thẩm tra báo cáo
 
-**Mã phân cấp:** 350030000000000030000030000000000000000007700000000000000000
+(Điều 78 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**ID:** dk_00059299
+ 1. Chậm nhất là 10 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, Ban của Hội đồng nhân dân tổ chức họp thẩm tra báo cáo quy định tại khoản 1 Điều 59 của Luật này theo sự phân công của Hội đồng nhân dân, Thường trực Hội đồng nhân dân.
 
----
+ 2. Việc thẩm tra báo cáo quy định tại khoản 1 Điều này được tiến hành theo trình tự sau đây:
 
+ a) Người đứng đầu cơ quan có báo cáo trình bày;
 
-### Điều 35.3.LQ.78. Thẩm tra báo cáo
+ b) Đại diện cơ quan, tổ chức được mời dự phiên họp phát biểu ý kiến;
 
-*Nội dung chưa có sẵn*
+ c) Ban của Hội đồng nhân dân thảo luận;
 
-**Chỉ mục:** 78
+ d) Người đứng đầu cơ quan có báo cáo trình bày, giải trình bổ sung;
 
-**Mã phân cấp:** 350030000000000030000030000000000000000007800000000000000000
+ đ) Chủ tọa phiên họp dự kiến kết luận; Ban của Hội đồng nhân dân biểu quyết khi xét thấy cần thiết.
 
-**ID:** dk_00059300
-
----
-
-
-### Điều 35.3.LQ.79. Giám sát văn bản quy phạm pháp luật
+ 3. Báo cáo thẩm tra của Ban của Hội đồng nhân dân được gửi đến Hội đồng nhân dân, Thường trực Hội đồng nhân dân cùng cấp.(Điều này có nội dung liên quan đến Điều 35.3.LQ.59. Xem xét báo cáo)
 
 Điều 35.3.LQ.79. Giám sát văn bản quy phạm pháp luật
 
-**Chỉ mục:** 79
+(Điều 79 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000030000000000000000007900000000000000000
+ 1. Ban của Hội đồng nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thường xuyên theo dõi việc ban hành quyết định của Ủy ban nhân dân cùng cấp và nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp.
 
-**ID:** dk_00059301
+ 2. Trường hợp phát hiện văn bản quy phạm pháp luật quy định tại khoản 1 Điều này có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp thì các Ban của Hội đồng nhân dân có quyền yêu cầu cơ quan đã ban hành văn bản đó xem xét, sửa đổi, bổ sung, đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ văn bản đó.
 
----
-
-
-### Điều 35.3.LQ.80. Giám sát chuyên đề của Ban của Hội đồng nhân dân
+ Trong thời hạn 30 ngày kể từ ngày nhận được yêu cầu, cơ quan đã ban hành văn bản phải thông báo cho Ban của Hội đồng nhân dân biết việc giải quyết; quá thời hạn này mà không trả lời hoặc giải quyết không đáp ứng với yêu cầu thì Ban của Hội đồng nhân dân có quyền kiến nghị với Thường trực Hội đồng nhân dân xem xét, quyết định.(Điều này có nội dung liên quan đến Điều 13. Gửi văn bản quy phạm pháp luật, hồ sơ dự án, dự thảo văn bản quy phạm pháp luật; Điều 162. Giám sát văn bản quy phạm pháp luật; Điều 163. Nội dung giám sát văn bản quy phạm pháp luật; Điều 164. Giám sát, xử lý văn bản quy phạm pháp luật có dấu hiệu trái pháp luật; Điều 167. Hội đồng nhân dân và Ủy ban nhân dân kiểm tra, xử lý văn bản quy phạm pháp luật có dấu hiệu trái pháp luật của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015)
 
 Điều 35.3.LQ.80. Giám sát chuyên đề của Ban của Hội đồng nhân dân
 
-**Chỉ mục:** 80
+(Điều 80 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000030000000000000000008000000000000000000
+ 1. Căn cứ vào chương trình giám sát của mình hoặc qua giám sát việc giải quyết khiếu nại, tố cáo của công dân, qua phương tiện thông tin đại chúng, ý kiến, kiến nghị của cử tri phát hiện có dấu hiệu vi phạm pháp luật hoặc được Hội đồng nhân dân, Thường trực Hội đồng nhân dân giao thì Ban của Hội đồng nhân dân tổ chức Đoàn giám sát của Ban để thực hiện giám sát chuyên đề.
 
-**ID:** dk_00059302
+ Quyết định thành lập Đoàn giám sát phải xác định rõ phạm vi, đối tượng, nội dung, kế hoạch giám sát, thành phần Đoàn giám sát và cơ quan, tổ chức, cá nhân chịu sự giám sát.
 
----
+ Đoàn giám sát do Trưởng Ban hoặc Phó Trưởng Ban của Hội đồng nhân dân làm Trưởng đoàn, các thành viên khác gồm Ủy viên của Ban của Hội đồng nhân dân và một số đại biểu Hội đồng nhân dân. Đại diện Ủy ban Mặt trận Tổ quốc Việt Nam, tổ chức thành viên của Mặt trận có thể được mời tham gia hoạt động Đoàn giám sát.
 
+ 2. Đoàn giám sát có nhiệm vụ, quyền hạn sau đây:
 
-### Điều 35.3.LQ.81. Xem xét báo cáo của Đoàn giám sát
+ a) Xây dựng đề cương báo cáo để cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo;
 
-*Nội dung chưa có sẵn*
+ b) Thông báo nội dung, kế hoạch, đề cương báo cáo cho cơ quan, tổ chức, cá nhân chịu sự giám sát chậm nhất là 15 ngày kể từ ngày ra quyết định thành lập Đoàn giám sát; thông báo chương trình và thành phần Đoàn giám sát chậm nhất là 10 ngày trước ngày Đoàn giám sát làm việc với cơ quan, tổ chức, cá nhân chịu sự giám sát;
 
-**Chỉ mục:** 81
+ c) Thực hiện đúng nội dung, kế hoạch giám sát;
 
-**Mã phân cấp:** 350030000000000030000030000000000000000008100000000000000000
+ d) Yêu cầu cơ quan, tổ chức, cá nhân chịu sự giám sát báo cáo bằng văn bản, cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát, giải trình vấn đề mà Đoàn giám sát quan tâm;
 
-**ID:** dk_00059303
+ đ) Xem xét, xác minh, mời chuyên gia tư vấn về vấn đề mà Đoàn giám sát xét thấy cần thiết;
 
----
+ e) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Đoàn giám sát có quyền yêu cầu cơ quan, tổ chức, cá nhân hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật;
 
+ g) Chậm nhất là 10 ngày kể từ ngày kết thúc hoạt động giám sát, Đoàn giám sát phải báo cáo kết quả giám sát với Ban của Hội đồng nhân dân.Điều 35.3.LQ.81. Xem xét báo cáo của Đoàn giám sát
 
-### Điều 35.3.LQ.82. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+(Điều 81 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-Điều 35.3.LQ.82. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+ 1. Căn cứ vào tính chất, nội dung của vấn đề được giám sát, Ban tổ chức phiên họp để xem xét, thảo luận về báo cáo của Đoàn giám sát theo trình tự sau đây:
 
-**Chỉ mục:** 82
+ a) Trưởng Đoàn giám sát trình bày báo cáo;
 
-**Mã phân cấp:** 350030000000000030000030000000000000000008200000000000000000
+ b) Đại diện cơ quan, tổ chức, cá nhân chịu sự giám sát được mời tham dự phiên họp phát biểu ý kiến;
 
-**ID:** dk_00059304
+ c) Ban của Hội đồng nhân dân thảo luận;
 
----
+ d) Chủ tọa phiên họp kết luận; Ban của Hội đồng nhân dân biểu quyết khi xét thấy cần thiết.
 
+ 2. Báo cáo kết quả giám sát của Ban của Hội đồng nhân dân phải nêu rõ kiến nghị về các biện pháp cần thiết.
 
-### Điều 35.3.LQ.83. Hoạt động giám sát của đại biểu Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân
+ 3. Báo cáo kết quả giám sát của Ban của Hội đồng nhân dân gửi đến Thường trực Hội đồng nhân dân, Hội đồng nhân dân và cơ quan, tổ chức, cá nhân chịu sự giám sát.
+
+ 4. Ban của Hội đồng nhân dân có trách nhiệm theo dõi kết quả giải quyết kiến nghị của cơ quan, tổ chức, cá nhân chịu sự giám sát.Điều 35.3.LQ.82. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+
+(Điều 82 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+ 1. Ban của Hội đồng nhân dân giám sát việc thi hành pháp luật về khiếu nại, tố cáo; tổ chức Đoàn giám sát để giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị tại địa phương.
+
+ 2. Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Ban của Hội đồng nhân dân yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền xử lý, xem xét trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm theo quy định của pháp luật; trường hợp không đồng ý với việc giải quyết của cơ quan, tổ chức, cá nhân đó thì yêu cầu người đứng đầu cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết.
+
+ Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện yêu cầu của Ban của Hội đồng nhân dân và phải báo cáo Ban của Hội đồng nhân dân trong thời hạn 10 ngày kể từ ngày ra quyết định giải quyết.Mục 4
+
+HOẠT ĐỘNG GIÁM SÁT CỦA ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN, TỔ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN
 
 Điều 35.3.LQ.83. Hoạt động giám sát của đại biểu Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000040000000000000000008300000000000000000
+ 1. Đại biểu Hội đồng nhân dân giám sát thông qua các hoạt động sau đây:
 
-**ID:** dk_00059306
+ a) Chất vấn những người bị chất vấn quy định tại điểm đ khoản 1 Điều 5 của Luật này;
 
----
+ b) Giám sát quyết định của Ủy ban nhân dân cùng cấp và nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp;
 
+ c) Giám sát việc thi hành pháp luật ở địa phương;
 
-### Điều 35.3.LQ.84. Chất vấn của đại biểu Hội đồng nhân dân
+ d) Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân.
+
+ 2. Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp huyện giám sát việc tuân theo Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp tại địa phương hoặc về các vấn đề do Hội đồng nhân dân hoặc Thường trực Hội đồng nhân dân phân công; tổ chức để đại biểu Hội đồng nhân dân thực hiện hoạt động giám sát.(Điều này có nội dung liên quan đến Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân)
 
 Điều 35.3.LQ.84. Chất vấn của đại biểu Hội đồng nhân dân
 
-**Chỉ mục:** 84
+(Điều 84 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000040000000000000000008400000000000000000
+ 1. Đại biểu Hội đồng nhân dân có quyền chất vấn trực tiếp tại kỳ họp Hội đồng nhân dân, phiên họp Thường trực Hội đồng nhân dân hoặc gửi chất vấn bằng văn bản đến người bị chất vấn quy định tại điểm đ khoản 1 Điều 5 của Luật này.
 
-**ID:** dk_00059307
+ 2. Nội dung chất vấn phải cụ thể, rõ ràng, có căn cứ và phải liên quan đến nhiệm vụ, quyền hạn, trách nhiệm của người bị chất vấn.
 
----
-
-
-### Điều 35.3.LQ.85. Giám sát văn bản quy phạm pháp luật
+ 3. Trình tự, thủ tục chất vấn của đại biểu Hội đồng nhân dân tại kỳ họp Hội đồng nhân dân, phiên họp Thường trực Hội đồng nhân dân được thực hiện theo quy định tại Điều 60 và Điều 69 của Luật này và quy chế hoạt động của Hội đồng nhân dân, đại biểu Hội đồng nhân dân.(Điều này có nội dung liên quan đến Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân; Điều 35.3.LQ.60. Chất vấn và xem xét trả lời chất vấn tại kỳ họp Hội đồng nhân dân; Điều 35.3.LQ.69. Chất vấn và xem xét trả lời chất vấn tại phiên họp Thường trực Hội đồng nhân dân trong thời gian giữa hai kỳ họp Hội đồng nhân dân)
 
 Điều 35.3.LQ.85. Giám sát văn bản quy phạm pháp luật
 
-**Chỉ mục:** 85
+(Điều 85 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 350030000000000030000040000000000000000008500000000000000000
+ 1. Đại biểu Hội đồng nhân dân có trách nhiệm nghiên cứu, xem xét nội dung quyết định của Ủy ban nhân dân cùng cấp và nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp.
 
-**ID:** dk_00059308
+ 2. Trường hợp phát hiện văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp thì đại biểu Hội đồng nhân dân có quyền yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền sửa đổi, bổ sung, đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật.Điều 35.3.LQ.86. Giám sát việc thi hành pháp luật ở địa phương
 
----
+(Điều 86 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
+ 1. Đại biểu Hội đồng nhân dân thường xuyên theo dõi, xem xét việc thi hành pháp luật tại địa phương.
 
-### Điều 35.3.LQ.86. Giám sát việc thi hành pháp luật ở địa phương
+ 2. Tổ đại biểu Hội đồng nhân dân tổ chức để đại biểu Hội đồng nhân dân giám sát việc thi hành pháp luật trên địa bàn nơi đại biểu ứng cử.
 
-Điều 35.3.LQ.86. Giám sát việc thi hành pháp luật ở địa phương
+ 3. Tổ đại biểu Hội đồng nhân dân có nhiệm vụ, quyền hạn sau đây:
 
-**Chỉ mục:** 86
+ a) Thông báo nội dung, kế hoạch giám sát cho cơ quan, tổ chức, cá nhân chịu sự giám sát chậm nhất là 07 ngày trước ngày bắt đầu tiến hành hoạt động giám sát;
 
-**Mã phân cấp:** 350030000000000030000040000000000000000008600000000000000000
+ b) Mời đại diện cơ quan, tổ chức, cá nhân có liên quan tham gia giám sát.
 
-**ID:** dk_00059309
+ 4. Khi tiến hành giám sát, đại biểu Hội đồng nhân dân có những nhiệm vụ, quyền hạn sau đây:
 
----
+ a) Thực hiện đúng nội dung, kế hoạch giám sát;
 
+ b) Khi phát hiện có hành vi vi phạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì đại biểu Hội đồng nhân dân có quyền yêu cầu cơ quan, tổ chức hữu quan áp dụng các biện pháp cần thiết để kịp thời chấm dứt hành vi vi phạm pháp luật và khôi phục lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân bị vi phạm; trường hợp cơ quan, tổ chức không thực hiện hoặc đại biểu Hội đồng nhân dân không đồng ý với việc giải quyết thì đại biểu Hội đồng nhân dân có quyền yêu cầu cơ quan, tổ chức cấp trên trực tiếp xem xét giải quyết;
 
-### Điều 35.3.LQ.87. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+ c) Chậm nhất là 10 ngày kể từ ngày kết thúc hoạt động giám sát, đại biểu Hội đồng nhân dân báo cáo kết quả giám sát với Thường trực Hội đồng nhân dân cùng cấp.Điều 35.3.LQ.87. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
 
-Điều 35.3.LQ.87. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+(Điều 87 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Chỉ mục:** 87
+ 1. Khi nhận được khiếu nại, tố cáo, kiến nghị của công dân, đại biểu Hội đồng nhân dân có trách nhiệm nghiên cứu và chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền để xem xét, giải quyết; theo dõi, đôn đốc việc giải quyết, đồng thời thông báo cho người khiếu nại, tố cáo, kiến nghị biết.
 
-**Mã phân cấp:** 350030000000000030000040000000000000000008700000000000000000
+ 2. Trong thời hạn do pháp luật quy định, cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết và thông báo bằng văn bản cho đại biểu Hội đồng nhân dân biết kết quả giải quyết; trường hợp không đồng ý với việc giải quyết, đại biểu Hội đồng nhân dân có quyền gặp người có thẩm quyền giải quyết hoặc người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của người có thẩm quyền giải quyết để yêu cầu giải quyết hoặc báo cáo cơ quan có thẩm quyền xem xét, xử lý theo thẩm quyền.Chương IV
 
-**ID:** dk_00059310
-
----
-
-
-### Điều 35.3.LQ.88. Bảo đảm thực hiện hoạt động giám sát
+BẢO ĐẢM HOẠT ĐỘNG GIÁM SÁT
 
 Điều 35.3.LQ.88. Bảo đảm thực hiện hoạt động giám sát
 
-**Chỉ mục:** 88
+(Điều 88 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000400008800000000000000000
+ 1. Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân có trách nhiệm thực hiện chương trình, kế hoạch giám sát.
 
-**ID:** dk_00059312
+ Đại biểu Quốc hội, đại biểu Hội đồng nhân dân có trách nhiệm tham gia đầy đủ Đoàn giám sát mà mình là thành viên.
 
----
+ 2. Các chủ thể giám sát có quyền tổ chức lấy ý kiến, trưng cầu giám định khi cần thiết theo quy định của pháp luật.
 
+ 3. Tổ chức, cá nhân có liên quan, chuyên gia có trách nhiệm tham gia hoạt động giám sát theo yêu cầu, kế hoạch giám sát.
 
-### Điều 35.3.LQ.89. Bảo đảm việc thực hiện kết luận, kiến nghị giám sát
+ Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm cung cấp thông tin, tài liệu cho các chủ thể giám sát và chịu trách nhiệm về tính chính xác, trung thực của thông tin, tài liệu cung cấp.
+
+ 4. Cơ quan, tổ chức, cá nhân chịu sự giám sát thực hiện quyền, trách nhiệm theo quy định tại Điều 7 và Điều 8 của Luật này.
+
+ 5. Cơ quan thông tin đại chúng có quyền tiếp cận, đưa tin về hoạt động giám sát theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 35.3.LQ.7. Trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát; Điều 35.3.LQ.8. Quyền của cơ quan, tổ chức, cá nhân chịu sự giám sát)
 
 Điều 35.3.LQ.89. Bảo đảm việc thực hiện kết luận, kiến nghị giám sát
 
-**Chỉ mục:** 89
+(Điều 89 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 3500300000000000400008900000000000000000
+ 1. Chương trình, kế hoạch giám sát, báo cáo kết quả giám sát, nghị quyết về giám sát, kết luận, kiến nghị giám sát và kết quả thực hiện kết luận, kiến nghị giám sát phải được đăng tải trên cổng thông tin điện tử của cơ quan tiến hành giám sát hoặc đăng tải trên phương tiện thông tin đại chúng, trừ trường hợp phải bảo đảm bí mật nhà nước theo quy định của pháp luật.
 
-**ID:** dk_00059313
+ 2. Nghị quyết về giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng nhân dân có giá trị pháp lý bắt buộc thực hiện.
 
----
+ 3. Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân có trách nhiệm thường xuyên theo dõi, đôn đốc việc thực hiện nghị quyết, kết luận, kiến nghị giám sát; trường hợp cơ quan, tổ chức, cá nhân chịu sự giám sát không thực hiện hoặc thực hiện không đúng yêu cầu trong nghị quyết, kết luận, kiến nghị giám sát thì xử lý theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền xử lý.Điều 35.3.LQ.90. Bảo đảm kinh phí và tổ chức phục vụ hoạt động giám sát của Quốc hội, Hội đồng nhân dân
 
+(Điều 90 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.90. Bảo đảm kinh phí và tổ chức phục vụ hoạt động giám sát của Quốc hội, Hội đồng nhân dân
+ 1. Kinh phí phục vụ hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân do ngân sách nhà nước bảo đảm.
 
-Điều 35.3.LQ.90. Bảo đảm kinh phí và tổ chức phục vụ hoạt động giám sát của Quốc hội, Hội đồng nhân dân
+ 2. Trong phạm vi nhiệm vụ, quyền hạn của mình, Văn phòng Quốc hội, Văn phòng Đoàn đại biểu Quốc hội, Văn phòng Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp huyện và bộ phận phục vụ Hội đồng nhân dân cấp xã có trách nhiệm bảo đảm điều kiện vật chất, tổ chức phục vụ hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân.
 
-**Chỉ mục:** 90
+ 3. Cơ quan, tổ chức, cá nhân có liên quan trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm đáp ứng yêu cầu phục vụ hoạt động giám sát và tạo điều kiện thuận lợi cho hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân và đại biểu Hội đồng nhân dân.(Điều này có nội dung liên quan đến Điều 35.8.NQ.5.6. Chi cho công tác giám sát, khảo sát)
 
-**Mã phân cấp:** 3500300000000000400009000000000000000000
+Chương V
 
-**ID:** dk_00059314
+ĐIỀU KHOẢN THI HÀNH
 
----
+Điều 35.3.LQ.91. Hiệu lực thi hành
 
+(Điều 91 Luật số 87/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-### Điều 35.3.LQ.91. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
 
-*Nội dung chưa có sẵn*
+2. Luật hoạt động giám sát của Quốc hội số 05/2003/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
-**Chỉ mục:** 91
+Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành
 
-**Mã phân cấp:** 3500300000000000500009100000000000000000
+(Điều 20 Nghị quyết số 96/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**ID:** dk_00059316
+Ngưng hiệu lực thi hành Điều 12 và Điều 13 của Luật Tổ chức Quốc hội số 57/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 65/2020/QH14; Điều 88 và Điều 89 của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14 và Luật số 47/2019/QH14; các điều 18, 19, 63 và 64 của Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân số 87/2015/QH13 kể từ ngày Nghị quyết này có hiệu lực thi hành cho đến khi Quốc hội có quy định khác.
 
----
-
-
-### Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 3500300000000000500009110284180096000200
-
-**ID:** dk_00059317
-
----
-
-
-### Điều 35.3.NQ.2.21. Sửa đổi, bổ sung Nghị quyết số 119/2020/QH14 và Nghị quyết số 131/2020/QH14
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.12. Lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm; Điều 35.8.LQ.13. Bỏ phiếu tín nhiệm; Điều 88. Lấy phiếu tín nhiệm; Điều 89. Bỏ phiếu tín nhiệm của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015; Điều 35.3.LQ.18. Lấy phiếu tín nhiệm; Điều 35.3.LQ.19. Bỏ phiếu tín nhiệm; Điều 35.3.LQ.63. Hội đồng nhân dân lấy phiếu tín nhiệm; Điều 35.3.LQ.64. Hội đồng nhân dân bỏ phiếu tín nhiệm của Luật 87/2015/QH13 Hoạt động giám sát của Quốc hội và Hội đồng nhân dân ban hành ngày 20/11/2015)
 
 Điều 35.3.NQ.2.21. Sửa đổi, bổ sung Nghị quyết số 119/2020/QH14 và Nghị quyết số 131/2020/QH14
 
-**Chỉ mục:** 21
+(Điều 21 Nghị quyết số 96/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-**Mã phân cấp:** 3500300000000000500009110284180096000210
+1. Bãi bỏ điểm đ khoản 1 Điều 2 của Nghị quyết số 119/2020/QH14 ngày 19 tháng 6 năm 2020 của Quốc hội về thí điểm tổ chức mô hình chính quyền đô thị và một số cơ chế, chính sách đặc thù phát triển thành phố Đà Nẵng.
 
-**ID:** dk_00059318
+2. Bãi bỏ điểm c khoản 1 Điều 2 của Nghị quyết số 131/2020/QH14 ngày 16 tháng 11 năm 2020 của Quốc hội về tổ chức chính quyền đô thị tại Thành phố Hồ Chí Minh.
 
----
+(Điều này có nội dung liên quan đến Điều 2. Hội đồng nhân dân thành phố Đà Nẵng của Nghị quyết 119/2020/QH14 Về thí điểm tổ chức mô hình chính quyền đô thị và một số cơ chế, chính sách đặc thù phát triển thành phố Đà Nẵng ban hành ngày 19/06/2020; Điều 2. Hội đồng nhân dân Thành phố của Nghị quyết 131/2020/QH14 Tổ chức chính quyền đô thị tại thành phố Hồ Chí Minh ban hành ngày 16/11/2020)
 
+Điều 35.3.NQ.2.22. Hiệu lực thi hành
 
-### Điều 35.3.NQ.2.22. Hiệu lực thi hành
+(Điều 22 Nghị quyết số 96/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2023)
 
-*Nội dung chưa có sẵn*
+1. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
 
-**Chỉ mục:** 22
+2. Nghị quyết số 85/2014/QH13 ngày 28 tháng 11 năm 2014 của Quốc hội về việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành.
 
-**Mã phân cấp:** 3500300000000000500009110284180096000220
+3. Ủy ban Thường vụ Quốc hội hướng dẫn thi hành Nghị quyết này.
 
-**ID:** dk_00059319
+Điều 35.3.NQ.1.2. 
 
----
+(Điều 2 Nghị quyết số 334/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/03/2017)
 
+Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Tổng thư ký Quốc hội, Văn phòng Quốc hội, cơ quan thuộc Ủy ban thường vụ Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị quyết này.
 
-### Điều 35.3.NQ.1.2.
+Điều 35.3.NQ.1.3. 
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị quyết số 334/2017/UBTVQH14, có hiệu lực thi hành kể từ ngày 01/03/2017)
 
-**Chỉ mục:** 2
+Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2017.
 
-**Mã phân cấp:** 3500300000000000500009120260640334000020
+Điều 35.3.QĐ.1.2.
 
-**ID:** dk_00059320
+(Điều 2 Quyết định số 33/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/09/2017)
 
----
+Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 9 năm 2017.
 
+Điều 35.3.QĐ.1.3.
 
-### Điều 35.3.NQ.1.3.
+(Điều 3 Quyết định số 33/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 15/09/2017)
 
-*Nội dung chưa có sẵn*
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Thường trực Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
 
-**Chỉ mục:** 3
+## Danh sách điều khoản
 
-**Mã phân cấp:** 3500300000000000500009120260640334000030
+### 35003000000000001000
 
-**ID:** dk_00059321
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 3500300000000000100000100000000000000000
 
+Điều 35.3.LQ.1. Phạm vi điều chỉnh
 
-### Điều 35.3.QĐ.1.2.
+### 3500300000000000100000110284180096000010
 
-*Nội dung chưa có sẵn*
+Điều 35.3.NQ.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+### 3500300000000000100000110284180096000020
 
-**Mã phân cấp:** 3500300000000000500009150262590033000020
+Điều 35.3.NQ.2.2. Đối tượng lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm
 
-**ID:** dk_00059322
+### 3500300000000000100000200000000000000000
 
----
+Điều 35.3.LQ.2. Giải thích từ ngữ
 
+### 3500300000000000100000210284180096000030
 
-### Điều 35.3.QĐ.1.3.
+Điều 35.3.NQ.2.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+### 3500300000000000100000300000000000000000
 
-**Chỉ mục:** 3
+Điều 35.3.LQ.3. Nguyên tắc hoạt động giám sát
 
-**Mã phân cấp:** 3500300000000000500009150262590033000030
+### 3500300000000000100000400000000000000000
 
-**ID:** dk_00059323
+Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội
 
----
+### 3500300000000000100000500000000000000000
 
+Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 3500300000000000100000600000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 116
-- **Điều khoản thực tế:** 103
-- **Điều khoản có nội dung:** 77 (74.8%)
-- **ID đề mục:** 29f5421abe82411490028d58cef7f0fa
+Điều 35.3.LQ.6. Trách nhiệm của các chủ thể giám sát
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 3500300000000000100000700000000000000000
 
----
+Điều 35.3.LQ.7. Trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 3500300000000000100000800000000000000000
+
+Điều 35.3.LQ.8. Quyền của cơ quan, tổ chức, cá nhân chịu sự giám sát
+
+### 3500300000000000100000900000000000000000
+
+Điều 35.3.LQ.9. Tham gia giám sát của cơ quan, tổ chức, cá nhân
+
+### 3500300000000000100001000000000000000000
+
+Điều 35.3.LQ.10. Hiệu quả của giám sát
+
+### 35003000000000002000
+
+Chương II GIÁM SÁT CỦA QUỐC HỘI
+
+### 3500300000000000200000100000000000000000
+
+Mục 1 HOẠT ĐỘNG GIÁM SÁT TỐI CAO CỦA QUỐC HỘI
+
+### 350030000000000020000010000000000000000001100000000000000000
+
+Điều 35.3.LQ.11. Các hoạt động giám sát tối cao của Quốc hội
+
+### 350030000000000020000010000000000000000001200000000000000000
+
+Điều 35.3.LQ.12. Chương trình giám sát của Quốc hội
+
+### 35003000000000002000001000000000000000000120000000000000000000202606403340000100
+
+Điều 35.3.NQ.1.1.
+
+### 350030000000000020000010000000000000000001300000000000000000
+
+Điều 35.3.LQ.13. Xem xét báo cáo
+
+### 350030000000000020000010000000000000000001400000000000000000
+
+Điều 35.3.LQ.14. Xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội
+
+### 350030000000000020000010000000000000000001500000000000000000
+
+Điều 35.3.LQ.15. Chất vấn và xem xét việc trả lời chất vấn tại kỳ họp Quốc hội
+
+### 350030000000000020000010000000000000000001600000000000000000
+
+Điều 35.3.LQ.16. Giám sát chuyên đề của Quốc hội
+
+### 350030000000000020000010000000000000000001700000000000000000
+
+Điều 35.3.LQ.17. Xem xét báo cáo của Ủy ban lâm thời
+
+### 350030000000000020000010000000000000000001800000000000000000
+
+Điều 35.3.LQ.18. Lấy phiếu tín nhiệm
+
+### 350030000000000020000010000000000000000001900000000000000000
+
+Điều 35.3.LQ.19. Bỏ phiếu tín nhiệm
+
+### 350030000000000020000010000000000000000002000000000000000000
+
+Điều 35.3.LQ.20. Xem xét báo cáo của Ủy ban thường vụ Quốc hội về kiến nghị giám sát của Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội
+
+### 350030000000000020000010000000000000000002100000000000000000
+
+Điều 35.3.LQ.21. Thẩm quyền của Quốc hội trong việc xem xét kết quả giám sát
+
+### 3500300000000000200000200000000000000000
+
+Mục 2 HOẠT ĐỘNG GIÁM SÁT CỦA ỦY BAN THƯỜNG VỤ QUỐC HỘI
+
+### 350030000000000020000020000000000000000002200000000000000000
+
+Điều 35.3.LQ.22. Các hoạt động giám sát của Ủy ban thường vụ Quốc hội
+
+### 350030000000000020000020000000000000000002300000000000000000
+
+Điều 35.3.LQ.23. Chương trình giám sát của Ủy ban thường vụ Quốc hội
+
+### 350030000000000020000020000000000000000002400000000000000000
+
+Điều 35.3.LQ.24. Xem xét báo cáo của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập
+
+### 350030000000000020000020000000000000000002500000000000000000
+
+Điều 35.3.LQ.25. Xem xét văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội
+
+### 350030000000000020000020000000000000000002600000000000000000
+
+Điều 35.3.LQ.26. Chất vấn và xem xét trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội
+
+### 350030000000000020000020000000000000000002700000000000000000
+
+Điều 35.3.LQ.27. Giám sát chuyên đề của Ủy ban thường vụ Quốc hội
+
+### 350030000000000020000020000000000000000002800000000000000000
+
+Điều 35.3.LQ.28. Xem xét báo cáo hoạt động của Hội đồng nhân dân cấp tỉnh
+
+### 350030000000000020000020000000000000000002900000000000000000
+
+Điều 35.3.LQ.29. Xem xét nghị quyết của Hội đồng nhân dân cấp tỉnh có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên
+
+### 350030000000000020000020000000000000000003000000000000000000
+
+Điều 35.3.LQ.30. Giám sát việc giải quyết khiếu nại, tố cáo
+
+### 350030000000000020000020000000000000000003100000000000000000
+
+Điều 35.3.LQ.31. Giám sát việc giải quyết kiến nghị của cử tri
+
+### 35003000000000002000002000000000000000000310000000000000000000502625900330000100
+
+Điều 35.3.QĐ.1.1.
+
+### 350030000000000020000020000000000000000003200000000000000000
+
+Điều 35.3.LQ.32. Giám sát việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân
+
+### 350030000000000020000020000000000000000003300000000000000000
+
+Điều 35.3.LQ.33. Xem xét kiến nghị giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội
+
+### 350030000000000020000020000000000000000003400000000000000000
+
+Điều 35.3.LQ.34. Kiến nghị Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+
+### 350030000000000020000020000000000000000003500000000000000000
+
+Điều 35.3.LQ.35. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc xem xét kết quả giám sát
+
+### 350030000000000020000020000000000000000003600000000000000000
+
+Điều 35.3.LQ.36. Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
+
+### 3500300000000000200000300000000000000000
+
+Mục 3 HOẠT ĐỘNG GIÁM SÁT CỦA HỘI ĐỒNG DÂN TỘC, ỦY BAN CỦA QUỐC HỘI
+
+### 350030000000000020000030000000000000000003700000000000000000
+
+Điều 35.3.LQ.37. Các hoạt động giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350030000000000020000030000000000000000003800000000000000000
+
+Điều 35.3.LQ.38. Chương trình giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350030000000000020000030000000000000000003900000000000000000
+
+Điều 35.3.LQ.39. Thẩm tra báo cáo
+
+### 350030000000000020000030000000000000000004000000000000000000
+
+Điều 35.3.LQ.40. Giám sát văn bản quy phạm pháp luật của cơ quan nhà nước ở trung ương
+
+### 350030000000000020000030000000000000000004100000000000000000
+
+Điều 35.3.LQ.41. Giám sát chuyên đề của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350030000000000020000030000000000000000004200000000000000000
+
+Điều 35.3.LQ.42. Xem xét báo cáo của Đoàn giám sát của Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350030000000000020000030000000000000000004300000000000000000
+
+Điều 35.3.LQ.43. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội
+
+### 350030000000000020000030000000000000000004400000000000000000
+
+Điều 35.3.LQ.44. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+
+### 350030000000000020000030000000000000000004500000000000000000
+
+Điều 35.3.LQ.45. Kiến nghị Ủy ban thường vụ Quốc hội xem xét trình Quốc hội bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+
+### 350030000000000020000030000000000000000004600000000000000000
+
+Điều 35.3.LQ.46. Thẩm quyền của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc xem xét kết quả giám sát
+
+### 3500300000000000200000400000000000000000
+
+Mục 4 HOẠT ĐỘNG GIÁM SÁT CỦA ĐẠI BIỂU QUỐC HỘI VÀ ĐOÀN ĐẠI BIỂU QUỐC HỘI
+
+### 350030000000000020000040000000000000000004700000000000000000
+
+Điều 35.3.LQ.47. Các hoạt động giám sát của đại biểu Quốc hội
+
+### 350030000000000020000040000000000000000004800000000000000000
+
+Điều 35.3.LQ.48. Các hoạt động giám sát của Đoàn đại biểu Quốc hội
+
+### 350030000000000020000040000000000000000004900000000000000000
+
+Điều 35.3.LQ.49. Chương trình giám sát của đại biểu Quốc hội, Đoàn đại biểu Quốc hội
+
+### 350030000000000020000040000000000000000005000000000000000000
+
+Điều 35.3.LQ.50. Chất vấn của đại biểu Quốc hội
+
+### 350030000000000020000040000000000000000005100000000000000000
+
+Điều 35.3.LQ.51. Đại biểu Quốc hội giám sát văn bản quy phạm pháp luật
+
+### 350030000000000020000040000000000000000005200000000000000000
+
+Điều 35.3.LQ.52. Đoàn đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
+
+### 350030000000000020000040000000000000000005300000000000000000
+
+Điều 35.3.LQ.53. Đại biểu Quốc hội giám sát việc thi hành pháp luật ở địa phương
+
+### 350030000000000020000040000000000000000005400000000000000000
+
+Điều 35.3.LQ.54. Giám sát của đại biểu Quốc hội đối với việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+
+### 350030000000000020000040000000000000000005500000000000000000
+
+Điều 35.3.LQ.55. Quyền yêu cầu cung cấp thông tin
+
+### 350030000000000020000040000000000000000005600000000000000000
+
+Điều 35.3.LQ.56. Thẩm quyền của đại biểu Quốc hội, Đoàn đại biểu Quốc hội trong việc xem xét kết quả giám sát
+
+### 35003000000000003000
+
+Chương III GIÁM SÁT CỦA HỘI ĐỒNG NHÂN DÂN
+
+### 3500300000000000300000100000000000000000
+
+Mục 1 HOẠT ĐỘNG GIÁM SÁT CỦA HỘI ĐỒNG NHÂN DÂN
+
+### 350030000000000030000010000000000000000005700000000000000000
+
+Điều 35.3.LQ.57. Các hoạt động giám sát của Hội đồng nhân dân
+
+### 350030000000000030000010000000000000000005800000000000000000
+
+Điều 35.3.LQ.58. Chương trình giám sát của Hội đồng nhân dân
+
+### 350030000000000030000010000000000000000005900000000000000000
+
+Điều 35.3.LQ.59. Xem xét báo cáo
+
+### 350030000000000030000010000000000000000006000000000000000000
+
+Điều 35.3.LQ.60. Chất vấn và xem xét trả lời chất vấn tại kỳ họp Hội đồng nhân dân
+
+### 350030000000000030000010000000000000000006100000000000000000
+
+Điều 35.3.LQ.61. Xem xét văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
+
+### 350030000000000030000010000000000000000006200000000000000000
+
+Điều 35.3.LQ.62. Giám sát chuyên đề của Hội đồng nhân dân
+
+### 350030000000000030000010000000000000000006300000000000000000
+
+Điều 35.3.LQ.63. Hội đồng nhân dân lấy phiếu tín nhiệm
+
+### 350030000000000030000010000000000000000006400000000000000000
+
+Điều 35.3.LQ.64. Hội đồng nhân dân bỏ phiếu tín nhiệm
+
+### 350030000000000030000010000000000000000006500000000000000000
+
+Điều 35.3.LQ.65. Thẩm quyền của Hội đồng nhân dân trong việc xem xét kết quả giám sát
+
+### 3500300000000000300000200000000000000000
+
+Mục 2 HOẠT ĐỘNG GIÁM SÁT CỦA THƯỜNG TRỰC HỘI ĐỒNG NHÂN DÂN
+
+### 350030000000000030000020000000000000000006600000000000000000
+
+Điều 35.3.LQ.66. Các hoạt động giám sát của Thường trực Hội đồng nhân dân
+
+### 350030000000000030000020000000000000000006700000000000000000
+
+Điều 35.3.LQ.67. Chương trình giám sát của Thường trực Hội đồng nhân dân
+
+### 350030000000000030000020000000000000000006800000000000000000
+
+Điều 35.3.LQ.68. Xem xét quyết định của Ủy ban nhân dân cùng cấp, nghị quyết của Hội đồng nhân dân cấp dưới trực tiếp có dấu hiệu trái với Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp
+
+### 350030000000000030000020000000000000000006900000000000000000
+
+Điều 35.3.LQ.69. Chất vấn và xem xét trả lời chất vấn tại phiên họp Thường trực Hội đồng nhân dân trong thời gian giữa hai kỳ họp Hội đồng nhân dân
+
+### 350030000000000030000020000000000000000007000000000000000000
+
+Điều 35.3.LQ.70. Giám sát chuyên đề của Thường trực Hội đồng nhân dân
+
+### 350030000000000030000020000000000000000007100000000000000000
+
+Điều 35.3.LQ.71. Báo cáo kết quả giám sát của Đoàn giám sát
+
+### 350030000000000030000020000000000000000007200000000000000000
+
+Điều 35.3.LQ.72. Giải trình tại phiên họp Thường trực Hội đồng nhân dân
+
+### 350030000000000030000020000000000000000007300000000000000000
+
+Điều 35.3.LQ.73. Giám sát việc giải quyết khiếu nại, tố cáo của công dân
+
+### 350030000000000030000020000000000000000007400000000000000000
+
+Điều 35.3.LQ.74. Giám sát việc giải quyết kiến nghị của cử tri
+
+### 350030000000000030000020000000000000000007500000000000000000
+
+Điều 35.3.LQ.75. Trách nhiệm của Thường trực Hội đồng nhân dân trong việc chỉ đạo, điều hòa, phối hợp hoạt động giám sát
+
+### 3500300000000000300000300000000000000000
+
+Mục 3 HOẠT ĐỘNG GIÁM SÁT CỦA BAN CỦA HỘI ĐỒNG NHÂN DÂN
+
+### 350030000000000030000030000000000000000007600000000000000000
+
+Điều 35.3.LQ.76. Các hoạt động giám sát của Ban của Hội đồng nhân dân
+
+### 350030000000000030000030000000000000000007700000000000000000
+
+Điều 35.3.LQ.77. Chương trình giám sát của Ban của Hội đồng nhân dân
+
+### 350030000000000030000030000000000000000007800000000000000000
+
+Điều 35.3.LQ.78. Thẩm tra báo cáo
+
+### 350030000000000030000030000000000000000007900000000000000000
+
+Điều 35.3.LQ.79. Giám sát văn bản quy phạm pháp luật
+
+### 350030000000000030000030000000000000000008000000000000000000
+
+Điều 35.3.LQ.80. Giám sát chuyên đề của Ban của Hội đồng nhân dân
+
+### 350030000000000030000030000000000000000008100000000000000000
+
+Điều 35.3.LQ.81. Xem xét báo cáo của Đoàn giám sát
+
+### 350030000000000030000030000000000000000008200000000000000000
+
+Điều 35.3.LQ.82. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+
+### 3500300000000000300000400000000000000000
+
+Mục 4 HOẠT ĐỘNG GIÁM SÁT CỦA ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN, TỔ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN
+
+### 350030000000000030000040000000000000000008300000000000000000
+
+Điều 35.3.LQ.83. Hoạt động giám sát của đại biểu Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân
+
+### 350030000000000030000040000000000000000008400000000000000000
+
+Điều 35.3.LQ.84. Chất vấn của đại biểu Hội đồng nhân dân
+
+### 350030000000000030000040000000000000000008500000000000000000
+
+Điều 35.3.LQ.85. Giám sát văn bản quy phạm pháp luật
+
+### 350030000000000030000040000000000000000008600000000000000000
+
+Điều 35.3.LQ.86. Giám sát việc thi hành pháp luật ở địa phương
+
+### 350030000000000030000040000000000000000008700000000000000000
+
+Điều 35.3.LQ.87. Giám sát việc giải quyết khiếu nại, tố cáo, kiến nghị của công dân
+
+### 35003000000000004000
+
+Chương IV BẢO ĐẢM HOẠT ĐỘNG GIÁM SÁT
+
+### 3500300000000000400008800000000000000000
+
+Điều 35.3.LQ.88. Bảo đảm thực hiện hoạt động giám sát
+
+### 3500300000000000400008900000000000000000
+
+Điều 35.3.LQ.89. Bảo đảm việc thực hiện kết luận, kiến nghị giám sát
+
+### 3500300000000000400009000000000000000000
+
+Điều 35.3.LQ.90. Bảo đảm kinh phí và tổ chức phục vụ hoạt động giám sát của Quốc hội, Hội đồng nhân dân
+
+### 35003000000000005000
+
+Chương V ĐIỀU KHOẢN THI HÀNH
+
+### 3500300000000000500009100000000000000000
+
+Điều 35.3.LQ.91. Hiệu lực thi hành
+
+### 3500300000000000500009110284180096000200
+
+Điều 35.3.NQ.2.20. Ngưng hiệu lực thi hành
+
+### 3500300000000000500009110284180096000210
+
+Điều 35.3.NQ.2.21. Sửa đổi, bổ sung Nghị quyết số 119/2020/QH14 và Nghị quyết số 131/2020/QH14
+
+### 3500300000000000500009110284180096000220
+
+Điều 35.3.NQ.2.22. Hiệu lực thi hành
+
+### 3500300000000000500009120260640334000020
+
+Điều 35.3.NQ.1.2.
+
+### 3500300000000000500009120260640334000030
+
+Điều 35.3.NQ.1.3.
+
+### 3500300000000000500009150262590033000020
+
+Điều 35.3.QĐ.1.2.
+
+### 3500300000000000500009150262590033000030
+
+Điều 35.3.QĐ.1.3.
+

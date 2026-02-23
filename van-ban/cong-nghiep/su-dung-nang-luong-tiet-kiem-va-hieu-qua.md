@@ -1,1895 +1,2482 @@
 ---
-layout: default
+layout: page
 title: Sử dụng năng lượng tiết kiệm và hiệu quả
 permalink: /van-ban/cong-nghiep/su-dung-nang-luong-tiet-kiem-va-hieu-qua/
-collection: subtopics
-slug: su-dung-nang-luong-tiet-kiem-va-hieu-qua
-parent: cong-nghiep
 ---
 
 # Sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Đề mục:** Sử dụng năng lượng tiết kiệm và hiệu quả  
-**Chủ đề:** [Công nghiệp](/cong-nghiep/)  
-**Số điều khoản:** 155  
-**Điều khoản có nội dung:** 62/143 (43.4%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 7.7.LQ.1. Phạm vi điều chỉnh
+Điều 7.7.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 50/2010/QH12 Sử dụng năng lượng tiết kiệm và hiệu quả ngày 17/06/2010 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2011 )
 
-**Chỉ mục:** 1
+Luật này quy định về sử dụng năng lượng tiết kiệm và hiệu quả; chính sách, biện pháp thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả; quyền, nghĩa vụ, trách nhiệm của tổ chức, hộ gia đình, cá nhân trong sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**Mã phân cấp:** 0700700000000000100000100000000000000000
+Điều 7.7.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00009991
+(Điều 2 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
----
+Luật này áp dụng đối với tổ chức, hộ gia đình, cá nhân sử dụng năng lượng tại Việt Nam.
 
+Điều 7.7.NĐ.1.1. Phạm vi điều chỉnh
 
-### Điều 7.7.LQ.2. Đối tượng áp dụng
+(Điều 1 Nghị định số 21/2011/NĐ-CP Quy định chi tiết và biện pháp thi hành Luật Sử dụng năng lượng tiết kiệm và hiệu quả ngày 29/03/2011 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/05/2011 )
 
-*Nội dung chưa có sẵn*
+Nghị định này quy định về thống kê về sử dụng năng lượng; cơ sở sử dụng năng lượng trọng điểm; sử dụng năng lượng tiết kiệm và hiệu quả trong cơ quan, đơn vị sử dụng ngân sách nhà nước; dán nhãn năng lượng cho phương tiện, thiết bị sử dụng năng lượng; biện pháp thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả; kiểm tra, thanh tra về sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**Chỉ mục:** 2
+Điều 7.7.NĐ.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0700700000000000100000200000000000000000
+(Điều 2 Nghị định số 21/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2011)
 
-**ID:** dk_00009992
+Nghị định này áp dụng đối với tổ chức, cá nhân sử dụng năng lượng tại Việt Nam.
 
----
+Điều 7.7.QĐ.3.1. Phạm vi điều chỉnh
 
+(Điều 1 Quyết định số 24/2018/QĐ-TTg Ban hành Danh mục và lộ trình phương tiện, thiết bị sử dụng năng lượng phải loại bỏ và các tổ máy phát điện hiệu suất thấp không được xây dựng mới ngày 18/05/2018 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 10/07/2018 )
 
-### Điều 7.7.NĐ.1.1. Phạm vi điều chỉnh
+1. Quyết định này quy định về danh mục và lộ trình phương tiện, thiết bị sử dụng năng lượng có hiệu suất thấp phải loại bỏ (không cho phép nhập khẩu, sản xuất và kinh doanh trong nước) và các tổ máy phát điện hiệu suất thấp không được xây dựng mới.
 
-*Nội dung chưa có sẵn*
+2. Quyết định này không áp dụng đối với những phương tiện, thiết bị tạm nhập, tái xuất, phục vụ sửa chữa thay thế, kiểm tra mức hiệu suất năng lượng.
 
-**Chỉ mục:** 1
+Điều 7.7.QĐ.3.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0700700000000000100000240239490021000010
+(Điều 2 Quyết định số 24/2018/QĐ-TTg, có hiệu lực thi hành kể từ ngày 10/07/2018)
 
-**ID:** dk_00009993
+Quyết định này áp dụng đối với cơ quan nhà nước, doanh nghiệp và tổ chức, cá nhân tham gia hoạt động nhập khẩu, sản xuất và kinh doanh hàng hóa quy định tại khoản 1 và khoản 2 Điều 3 Quyết định này.
 
----
+Điều 7.7.TT.2.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 64/2011/TT-BGTVT Quy định biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải ngày 26/12/2011 của Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 09/02/2012 )
 
-### Điều 7.7.NĐ.1.2. Đối tượng áp dụng
+Thông tư này quy định về đào tạo quản lý năng lượng, kiểm toán viên năng lượng; thẩm quyền cấp, công nhận chứng chỉ quản lý năng lượng; cấp, công nhận, thu hồi chứng chỉ kiểm toán viên năng lượng.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.2.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 64/2011/TT-BGTVT, có hiệu lực thi hành kể từ ngày 09/02/2012)
 
-**Mã phân cấp:** 0700700000000000100000240239490021000020
+Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến công tác quy hoạch giao thông; hoạt động đầu tư, xây dựng công trình giao thông; sản xuất, lắp ráp, nhập khẩu phương tiện vận tải để lưu hành; hoạt động vận tải.
 
-**ID:** dk_00009994
+Điều 7.7.TT.3.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 09/2012/TT-BCT Quy định về việc lập kế hoạch, báo cáo thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả; thực hiện kiểm toán năng lượng ngày 20/04/2012 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 05/06/2012 )
 
+Thông tư này quy định về:
 
-### Điều 7.7.QĐ.3.1. Phạm vi điều chỉnh
+1. Xây dựng kế hoạch và báo cáo thực hiện kế hoạch hằng năm, năm năm về sử dụng năng lượng tiết kiệm và hiệu quả của cơ sở sử dụng năng lượng trọng điểm.
 
-*Nội dung chưa có sẵn*
+2. Xây dựng kế hoạch và báo cáo tình hình sử dụng năng lượng hằng năm của cơ quan, đơn vị sử dụng ngân sách nhà nước.
 
-**Chỉ mục:** 1
+3. Trình tự, thủ tục thực hiện kiểm toán năng lượng.
 
-**Mã phân cấp:** 0700700000000000100000250265560024000010
+Điều 7.7.TT.3.2. Đối tượng áp dụng
 
-**ID:** dk_00009995
+(Điều 2 Thông tư số 09/2012/TT-BCT, có hiệu lực thi hành kể từ ngày 05/06/2012)
 
----
+Thông tư này áp dụng đối với:
 
+1. Cơ sở sử dụng năng lượng trọng điểm (sau đây gọi là cơ sở).
 
-### Điều 7.7.QĐ.3.2. Đối tượng áp dụng
+2. Cơ quan, đơn vị sử dụng ngân sách nhà nước (sau đây gọi là cơ quan, đơn vị).
 
-*Nội dung chưa có sẵn*
+3. Tổ chức kiểm toán năng lượng.
 
-**Chỉ mục:** 2
+4. Tổ chức, cá nhân khác có liên quan.
 
-**Mã phân cấp:** 0700700000000000100000250265560024000020
+Điều 7.7.TT.4.1. Phạm vi điều chỉnh
 
-**ID:** dk_00009996
+(Điều 1 Thông tư số 19/2013/TT-BNNPTNT Hướng dẫn biện pháp sử dụng năng lượng tiết kiệm, hiệu quả trong sản xuất nông nghiệp ngày 15/03/2013 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 01/05/2013 )
 
----
+Thông tư này hướng dẫn biện pháp sử dụng năng lượng tiết kiệm, hiệu quả trong sản xuất nông nghiệp.
 
+Điều 7.7.TT.4.2. Đối tượng áp dụng
 
-### Điều 7.7.TT.2.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 19/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với tổ chức, hộ gia đình, cá nhân có hoạt động liên quan đến sản xuất nông nghiệp, lâm nghiệp, thủy lợi, thủy sản và diêm nghiệp.
 
-**Chỉ mục:** 1
+Điều 7.7.TT.5.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0700700000000000100000280242210064000010
+(Điều 1 Thông tư số 02/2014/TT-BCT Quy định các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả cho các ngành công nghiệp ngày 16/01/2014 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 01/06/2014 )
 
-**ID:** dk_00009997
+Thông tư này quy định về:
 
----
+1. Sử dụng năng lượng tiết kiệm và hiệu quả cho các quá trình dùng chung trong sản xuất công nghiệp.
 
+2. Biện pháp quản lý và các giải pháp sử dụng năng lượng tiết kiệm và hiệu quả trong ngành hóa chất.
 
-### Điều 7.7.TT.2.2. Đối tượng áp dụng
+Điều 7.7.TT.5.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 02/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 01/06/2014)
 
-**Chỉ mục:** 2
+Thông tư này áp dụng đối với:
 
-**Mã phân cấp:** 0700700000000000100000280242210064000020
+1. Các cơ sở sản xuất công nghiệp quy định tại khoản 1 Điều 9 Luật sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00009998
+2. Các cơ quan, tổ chức, cá nhân khác có liên quan.
 
----
+Điều 7.7.TL.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư liên tịch số 43/2014/TTLT-BGTVT-BCT Quy định về dán nhãn năng lượng 
+đối với xe ô tô con loại từ 07 chỗ trở xuống ngày 24/09/2014 của Bộ Công Thương và Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 01/12/2014 )1. Thông tư này quy định về việc dán nhãn năng lượng đối với xe ô tô con loại từ 07 chỗ trở xuống (sau đây viết tắt là xe) được sản xuất, lắp ráp từ linh kiện rời, hoàn toàn mới hoặc nhập khẩu chưa qua sử dụng.
 
-### Điều 7.7.TT.3.1. Phạm vi điều chỉnh
+2. Thông tư này không áp dụng đối với:
 
-*Nội dung chưa có sẵn*
+a) Xe được sản xuất, lắp ráp, nhập khẩu sử dụng trực tiếp vào mục đích quốc phòng, an ninh của Bộ Quốc phòng, Bộ Công an;
 
-**Chỉ mục:** 1
+b) Xe tạm nhập tái xuất; xe quá cảnh, chuyển khẩu; xe của ngoại giao, lãnh sự;
 
-**Mã phân cấp:** 0700700000000000100000280243370009000010
+c) Xe có kết cấu, công nghệ mới mà hiện tại việc thử nghiệm trong nước chưa thực hiện được;
 
-**ID:** dk_00009999
+d) Xe nhập khẩu đơn chiếc, không vì mục đích kinh doanh xe;
 
----
+đ) Xe nhập khẩu theo quy định riêng của Thủ tướng Chính phủ;
 
+e) Xe không sử dụng nhiên liệu là xăng, điêzen, khí dầu mỏ hóa lỏng (LPG), khí tự nhiên (NG).
 
-### Điều 7.7.TT.3.2. Đối tượng áp dụng
+Điều 7.7.TL.1.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư liên tịch số 43/2014/TTLT-BGTVT-BCT, có hiệu lực thi hành kể từ ngày 01/12/2014)
 
-**Chỉ mục:** 2
+Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến sản xuất, lắp ráp, nhập khẩu, kinh doanh xe, kiểm tra, thử nghiệm mức tiêu thụ nhiên liệu và chứng nhận dán nhãn năng lượng xe.
 
-**Mã phân cấp:** 0700700000000000100000280243370009000020
+Điều 7.7.TT.6.1. Phạm vi điều chỉnh
 
-**ID:** dk_00010000
+(Điều 1 Thông tư số 19/2016/TT-BCT Quy định định mức tiêu hao năng lượng trong ngành công nghiệp sản xuất bia và nước giải khát ngày 14/09/2016 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/11/2016 )
 
----
+Thông tư này quy định về:
 
+1. Định mức tiêu hao năng lượng cho các cơ sở sản xuất ngành công nghiệp sản xuất bia và nước giải khát trong giai đoạn đến hết năm 2020 và giai đoạn từ năm 2021 – đến hết năm 2025.
 
-### Điều 7.7.TT.4.1. Phạm vi điều chỉnh
+2. Phương pháp xác định suất tiêu hao năng lượng trong các cơ sở sản xuất ngành công nghiệp sản xuất bia và nước giải khát.A
 
-*Nội dung chưa có sẵn*
+3. Thông tư này không áp dụng đối với các sản phẩm nước tinh khiết và nước khoáng.
 
-**Chỉ mục:** 1
+Điều 7.7.TT.6.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0700700000000000100000280246660019000010
+(Điều 2 Thông tư số 19/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 01/11/2016)
 
-**ID:** dk_00010001
+1. Cơ sở sản xuất, tổ chức và cá nhân hoạt động trong ngành công nghiệp sản xuất bia và nước giải khát.
 
----
+2. Các cơ quan, tổ chức, cá nhân khác có liên quan.
 
+Điều 7.7.TT.7.1. Phạm vi điều chỉnh
 
-### Điều 7.7.TT.4.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 20/2016/TT-BCT Quy định định mức tiêu hao năng lượng trong ngành công nghiệp thép ngày 20/09/2016 của Bộ công thương, có hiệu lực thi hành kể từ ngày 08/11/2016 )
 
-*Nội dung chưa có sẵn*
+1. Thông tư này quy định định mức tiêu hao năng lượng trong ngành công nghiệp thép trong giai đoạn đến hết năm 2020 và giai đoạn từ năm 2021 – đến hết năm 2025 bao gồm các công đoạn sản xuất: Thiêu kết quặng sắt; Luyện gang lò cao; Luyện thép lò chuyển (lò thổi), luyện thép lò điện hồ quang, luyện thép lò cảm ứng; Cán thép.
 
-**Chỉ mục:** 2
+2. Thông tư này không điều chỉnh các hoạt động sau: Sản xuất gang, thép phục vụ cho đúc chi tiết cơ khí; Sản xuất thép hợp kim làm vật liệu chế tạo máy; Sản xuất thép tấm phẳng cán nóng.
 
-**Mã phân cấp:** 0700700000000000100000280246660019000020
+Điều 7.7.TT.7.2. Đối tượng áp dụng
 
-**ID:** dk_00010002
+(Điều 2 Thông tư số 20/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 08/11/2016)
 
----
+1. Tổ chức, cá nhân hoạt động trong ngành công nghiệp thép.
 
+2. Các cơ quan, tổ chức khác có liên quan.
 
-### Điều 7.7.TT.5.1. Phạm vi điều chỉnh
+Điều 7.7.TT.8.1. Phạm vi Điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 36/2016/TT-BCT Quy định dán nhãn năng lượng cho các phương tiện, thiết bị sử dụng năng lượng thuộc phạm vi quản lý của Bộ Công Thương ngày 28/12/2016 của Bộ công thương, có hiệu lực thi hành kể từ ngày 10/02/2017 )
 
-**Chỉ mục:** 1
+1. Thông tư này quy định trình tự, thủ tục đăng ký, thực hiện dán nhãn năng lượng và thu hồi nhãn năng lượng đối với các phương tiện, thiết bị trong Danh mục phương tiện, thiết bị phải dán nhãn năng lượng do Thủ tướng Chính phủ ban hành thuộc phạm vi quản lý của Bộ Công Thương hoặc các phương tiện, thiết bị dán nhãn năng lượng theo hình thức tự nguyện (sau đây gọi chung là phương tiện, thiết bị)
 
-**Mã phân cấp:** 0700700000000000100000280249730002000010
+2. Thông tư này không áp dụng đối với các phương tiện, thiết bị sử dụng năng lượng sau:
 
-**ID:** dk_00010003
+a) Hàng hóa, vật tư thiết bị tạm nhập - tái xuất; Hàng hóa quá cảnh, chuyển khẩu;
 
----
+b) Hàng hóa doanh nghiệp trong nước sản xuất, gia công phục vụ xuất khẩu (không tiêu thụ trong nước);
 
+c) Hàng hóa thuộc lĩnh vực an ninh quốc phòng, bí mật quốc gia, an toàn bức xạ hạt nhân;
 
-### Điều 7.7.TT.5.2. Đối tượng áp dụng
+d) Hàng hóa nhập khẩu phi thương mại: Hành lý cá nhân, hàng hóa ngoại giao; hàng hóa tham gia triển lãm, hội chợ; Quà biếu, tặng; Hàng hóa, vật tư phụ tùng, linh kiện nhập khẩu đơn chiếc phục vụ mục đích sử dụng, thay thế trong các công trình, dự án đầu tư, phục vụ công việc như hội nghị, hội thảo nghiên cứu khoa học, thi đấu thể thao, biểu diễn văn hóa, biểu diễn nghệ thuật và các loại hàng hóa khác không nhằm mục đích kinh doanh theo quy định của pháp Luật.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.8.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 36/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 10/02/2017)
 
-**Mã phân cấp:** 0700700000000000100000280249730002000020
+Thông tư này áp dụng đối với:
 
-**ID:** dk_00010004
+1. Các nhà sản xuất, nhập khẩu (sau đây gọi là doanh nghiệp) phương tiện, thiết bị dán nhãn năng lượng.
 
----
+2. Các tổ chức thử nghiệm tham gia thử nghiệm phương tiện, thiết bị dán nhãn năng lượng.
 
+3. Các cơ quan quản lý hoạt động dán nhãn năng lượng và các cơ quan, tổ chức, cá nhân có liên quan.
 
-### Điều 7.7.TL.1.1. Phạm vi điều chỉnh
+Điều 7.7.TT.9.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 38/2016/TT-BCT Quy định định mức tiêu hao năng lượng trong ngành nhựa ngày 28/12/2016 của Bộ công thương, có hiệu lực thi hành kể từ ngày 10/12/2017 )
 
-**Chỉ mục:** 1
+1. Thông tư này quy định định mức tiêu hao năng lượng trong ngành nhựa trong giai đoạn đến hết năm 2020 và giai đoạn từ năm 2021 đến hết năm 2025 đối với các sản phẩm sau:
 
-**Mã phân cấp:** 0700700000000000100000280252240043000010
+a) Nhựa bao gói: bao gồm túi nhựa, chai nhựa và nhựa bao bì.
 
-**ID:** dk_00010005
+b) Nhựa vật liệu xây dựng: bao gồm các loại sản phẩm nhựa sử dụng trong xây dựng được sản xuất thông qua quá trình đùn tạo hình, không bao gồm các sản phẩm kết hợp các loại vật liệu khác (như cửa lõi thép hay tấm nhựa tráng nhôm...).
 
----
+c) Nhựa gia dụng/Nhựa kỹ thuật: bao gồm các sản phẩm nhựa gia dụng và nhựa kỹ thuật sản xuất thông qua quá trình phun tạo hình.
 
+Điều 7.7.TT.9.2. Đối tượng áp dụng
 
-### Điều 7.7.TL.1.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 38/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 10/12/2017)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với các cơ sở sản xuất sản phẩm nhựa và các cơ quan, tổ chức khác có liên quan.
 
-**Chỉ mục:** 2
+Điều 7.7.TT.10.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0700700000000000100000280252240043000020
+(Điều 1 Thông tư số 40/2017/TT-BGTVT Hướng dẫn việc dán nhãn năng lượng đối với xe ô tô con loại trên 07 chỗ đến 09 chỗ ngày 09/11/2017 của Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 01/01/2018 )
 
-**ID:** dk_00010006
+Thông tư này hướng dẫn việc dán nhãn năng lượng đối với xe ô tô con loại trên 07 chỗ đến 09 chỗ (sau đây viết tắt là xe) được sản xuất, lắp ráp từ linh kiện rời, hoàn toàn mới hoặc nhập khẩu chưa qua sử dụng.
 
----
+Điều 7.7.TT.10.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 40/2017/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
-### Điều 7.7.TT.6.1. Phạm vi điều chỉnh
+1. Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến sản xuất, lắp ráp, nhập khẩu, kinh doanh xe, kiểm tra, thử nghiệm mức tiêu thụ nhiên liệu và chứng nhận dán nhãn năng lượng xe.
 
-*Nội dung chưa có sẵn*
+2. Thông tư này không bắt buộc áp dụng đối với:
 
-**Chỉ mục:** 1
+a) Xe được sản xuất, lắp ráp, nhập khẩu sử dụng trực tiếp vào mục đích quốc phòng, an ninh của Bộ Quốc phòng, Bộ Công an;
 
-**Mã phân cấp:** 0700700000000000100000280259450019000010
+b) Xe tạm nhập tái xuất; xe quá cảnh, chuyển khẩu; xe của ngoại giao, lãnh sự;
 
-**ID:** dk_00010007
+c) Xe nhập khẩu đơn chiếc và không vì mục đích kinh doanh xe;
 
----
+d) Xe nhập khẩu theo quy định riêng của Thủ tướng Chính phủ;
 
+đ) Xe sử dụng nhiên liệu không phải là xăng, điêzen, khí dầu mỏ hóa lỏng (LPG), khí tự nhiên (NG).
 
-### Điều 7.7.TT.6.2. Đối tượng áp dụng
+Điều 7.7.TT.11.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 24/2017/TT-BCT Quy định mức tiêu hao năng lượng trong sản xuất giấy ngày 23/11/2017 của Bộ công thương, có hiệu lực thi hành kể từ ngày 10/01/2018 )
 
-**Chỉ mục:** 2
+Thông tư này quy định định mức tiêu hao năng lượng trong sản xuất giấy giai đoạn đến hết năm 2020 và giai đoạn từ năm 2021 đến hết năm 2025 đối với các sản phẩm sau:
 
-**Mã phân cấp:** 0700700000000000100000280259450019000020
+1. Giấy bao bì: được sản xuất từ nguyên liệu là giấy tái chế.
 
-**ID:** dk_00010008
+2. Giấy Tissue (Giấy vệ sinh các loại): được sản xuất từ nguyên liệu là bột giấy nguyên thủy, giấy tái chế.
 
----
+3. Giấy in, giấy viết và giấy phô-tô copy: được sản xuất từ nguyên liệu bột giấy nguyên thủy, giấy tái chế không khử mực hoặc sản xuất theo quy trình tích hợp từ nguyên liệu gỗ.
 
+Điều 7.7.TT.11.2. Đối tượng áp dụng
 
-### Điều 7.7.TT.7.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 24/2017/TT-BCT, có hiệu lực thi hành kể từ ngày 10/01/2018)
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0700700000000000100000280259510020000010
-
-**ID:** dk_00010009
-
----
-
-
-### Điều 7.7.TT.7.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0700700000000000100000280259510020000020
-
-**ID:** dk_00010010
-
----
-
-
-### Điều 7.7.TT.8.1. Phạm vi Điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0700700000000000100000280260500036000010
-
-**ID:** dk_00010011
-
----
-
-
-### Điều 7.7.TT.8.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0700700000000000100000280260500036000020
-
-**ID:** dk_00010012
-
----
-
-
-### Điều 7.7.TT.9.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0700700000000000100000280260500038000010
-
-**ID:** dk_00010013
-
----
-
-
-### Điều 7.7.TT.9.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0700700000000000100000280260500038000020
-
-**ID:** dk_00010014
-
----
-
-
-### Điều 7.7.TT.10.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0700700000000000100000280263660040000010
-
-**ID:** dk_00010015
-
----
-
-
-### Điều 7.7.TT.10.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0700700000000000100000280263660040000020
-
-**ID:** dk_00010016
-
----
-
-
-### Điều 7.7.TT.11.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0700700000000000100000280263800024000010
-
-**ID:** dk_00010017
-
----
-
-
-### Điều 7.7.TT.11.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0700700000000000100000280263800024000020
-
-**ID:** dk_00010018
-
----
-
-
-### Điều 7.7.TT.13.1. Phạm vi điều chỉnh và đối tượng áp dụng
+Thông tư này áp dụng đối với các cơ sở sản xuất sản phẩm giấy và các tổ chức, cá nhân có liên quan được quy định trong Điều 1 của Thông tư này.
 
 Điều 7.7.TT.13.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 91/2018/TT-BTC Hướng dẫn lập, quản lý và sử dụng kinh phí thực hiện lộ trình dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu ngày 28/09/2018 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 18/12/2018 )
 
-**Mã phân cấp:** 0700700000000000100000280266890091000010
+1. Thông tư này hướng dẫn lập, quản lý, sử dụng kinh phí thực hiện lộ trình dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu ban hành kèm theo Quyết định số 04/2017/QĐ-TTg ngày 9 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định danh mục phương tiện, thiết bị phải dán nhãn năng lượng, áp dụng mức hiệu suất năng lượng tối thiểu và lộ trình thực hiện.
 
-**ID:** dk_00010019
+2. Thông tư này áp dụng đối với các tổ chức, cá nhân liên quan đến việc quản lý, sử dụng kinh phí thực hiện lộ trình dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu.
 
----
+Điều 7.7.TT.15.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 52/2018/TT-BCT Quy định định mức tiêu hao năng lượng trong ngành công nghiệp chế biến thủy sản, áp dụng cho quá trình chế biến công nghiệp của các nhóm sản phẩm cá da trơn và tôm ngày 25/12/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 18/02/2019 )
 
-### Điều 7.7.TT.15.1. Phạm vi điều chỉnh
+Thông tư này quy định định mức tiêu hao năng lượng cho quá trình chế biến công nghiệp của các nhóm sản phẩm cá da trơn và tôm trong giai đoạn đến hết năm 2025 và giai đoạn từ năm 2026 đến hết năm 2030.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.15.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 52/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 18/02/2019)
 
-**Mã phân cấp:** 0700700000000000100000280267770052000010
+Thông tư này áp dụng đối với các cơ sở chế biến cá da trơn và tôm có quy mô từ 300 tấn sản phẩm/năm trở lên và các cơ quan, tổ chức có liên quan.
 
-**ID:** dk_00010020
+Điều 7.7.TT.18.1. Phạm vi và đối tượng áp dụng
 
----
+(Điều 1 Thông tư số 52/2025/TT-BCT quy định danh mục phương tiện, thiết bị phải dán nhãn năng lượng thuộc phạm vi quản lý và lộ trình thực hiện của Bộ Công Thương. ngày 14/11/2025 của Bộ Công thương, có hiệu lực thi hành kể từ ngày 01/01/2026 )
 
+1. Thông tư này quy định danh mục phương tiện, thiết bị phải dán nhãn năng lượng thuộc phạm vi quản lý và lộ trình thực hiện của Bộ Công Thương.
 
-### Điều 7.7.TT.15.2. Đối tượng áp dụng
+2. Thông tư này áp dụng đối với các tổ chức, cá nhân hoạt động trong sản xuất, nhập khẩu, phân phối và kinh doanh sản phẩm thuộc danh mục phương tiện, thiết bị phải dán nhãn năng lượng thuộc phạm vi quản lý của Bộ Công Thương.
 
-*Nội dung chưa có sẵn*
+3. Thông tư này không áp dụng đối với các tổ chức, cá nhân hoạt động trong sản xuất, nhập khẩu, phân phối và kinh doanh sản phẩm là:
 
-**Chỉ mục:** 2
+a) Phương tiện, thiết bị sản xuất, lắp ráp, nhập khẩu sử dụng trực tiếp vào mục đích quốc phòng, an ninh, nhập khẩu theo quy định riêng của Thủ tướng Chính phủ;
 
-**Mã phân cấp:** 0700700000000000100000280267770052000020
+b) Phương tiện, thiết bị tạm nhập tái xuất; quá cảnh, chuyển khẩu; hàng ngoại giao, lãnh sự;
 
-**ID:** dk_00010021
+c) Phương tiện, thiết bị phục vụ sửa chữa thay thế, kiểm tra mức hiệu suất năng lượng;
 
----
+Điều 7.7.LQ.3. Giải thích từ ngữ
 
+(Điều 3 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.TT.18.1. Phạm vi và đối tượng áp dụng
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+1. *Năng lượng* bao gồm nhiên liệu, điện năng, nhiệt năng thu được trực tiếp hoặc thông qua chế biến từ các nguồn tài nguyên năng lượng không tái tạo và tái tạo.
 
-**Chỉ mục:** 1
+2. *Tài nguyên năng lượng không tái tạo* gồm than đá, khí than, dầu mỏ, khí thiên nhiên, quặng urani và các tài nguyên năng lượng khác không có khả năng tái tạo.
 
-**Mã phân cấp:** 0700700000000000100000280292930052000010
+3. *Tài nguyên năng lượng tái tạo* gồm sức nước, sức gió, ánh sáng mặt trời, địa nhiệt, nhiên liệu sinh học và các tài nguyên năng lượng khác có khả năng tái tạo.
 
-**ID:** dk_00010022
+4. *Nhiên liệu *là các dạng vật chất được sử dụng trực tiếp hoặc qua chế biến để làm chất đốt.
 
----
+5. *Sử dụng năng lượng tiết kiệm và hiệu quả* là việc áp dụng các biện pháp quản lý và kỹ thuật nhằm giảm tổn thất, giảm mức tiêu thụ năng lượng của phương tiện, thiết bị mà vẫn bảo đảm nhu cầu, mục tiêu đặt ra đối với quá trình sản xuất và đời sống.
 
+6. *Kiểm toán năng lượng* là hoạt động đo lường, phân tích, tính toán, đánh giá để xác định mức tiêu thụ năng lượng, tiềm năng tiết kiệm năng lượng và đề xuất giải pháp sử dụng năng lượng tiết kiệm và hiệu quả đối với cơ sở sử dụng năng lượng.
 
-### Điều 7.7.LQ.3. Giải thích từ ngữ
+7. *Nhãn năng lượng* là nhãn cung cấp thông tin về loại năng lượng sử dụng, mức tiêu thụ năng lượng, hiệu suất năng lượng và các thông tin khác giúp người tiêu dùng nhận biết và lựa chọn phương tiện, thiết bị tiết kiệm năng lượng.
 
-*Nội dung chưa có sẵn*
+8. *Dán nhãn năng lượng* là việc dán, gắn, in, khắc nhãn năng lượng lên sản phẩm, bao bì.
 
-**Chỉ mục:** 3
+9. *Hiệu suất năng lượng* là chỉ số biểu thị khả năng của phương tiện, thiết bị chuyển hoá năng lượng sử dụng thành năng lượng hữu ích.
 
-**Mã phân cấp:** 0700700000000000100000300000000000000000
+10a. *Mức hiệu suất năng lượng cao* là mức hiệu suất năng lượng do cơ quan quản lý nhà nước có thẩm quyền quy định đối với phương tiện, thiết bị sử dụng năng lượng để khuyến khích áp dụng theo từng thời kỳ.
 
-**ID:** dk_00010023
+11. *Sản phẩm tiết kiệm năng lượng* bao gồm phương tiện, thiết bị, sản phẩm có hiệu suất năng lượng cao, vật liệu xây dựng có tính cách nhiệt tốt, giúp giảm tiêu thụ năng lượng, phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật do cơ quan nhà nước có thẩm quyền quy định.
 
----
+12.* Tổ chức dịch vụ năng lượng* là tổ chức cung cấp dịch vụ, giải pháp kỹ thuật và tài chính, thực hiện dự án đầu tư về sử dụng năng lượng tiết kiệm và hiệu quả dựa trên hợp đồng hiệu quả năng lượng. Tổ chức dịch vụ năng lượng bao gồm doanh nghiệp theo quy định của pháp luật về doanh nghiệp và tổ chức khác theo quy định của pháp luật có liên quan. Hoạt động đầu tư kinh doanh của tổ chức dịch vụ năng lượng được thực hiện theo quy định của pháp luật về doanh nghiệp, pháp luật về đầu tư, pháp luật về đầu tư theo phương thức đối tác công tư và quy định khác của pháp luật có liên quan.
 
+13.* Hợp đồng hiệu quả năng lượng* được hình thành giữa khách hàng và tổ chức dịch vụ năng lượng, làm cơ sở để khách hàng thanh toán cho tổ chức dịch vụ năng lượng khi thực hiện dự án sử dụng năng lượng tiết kiệm và hiệu quả.
 
-### Điều 7.7.TT.3.3. Giải thích từ ngữ
+14. *Chứng chỉ quản lý năng lượng* là chứng chỉ do Bộ Công Thương cấp cho người tham gia và đạt kết quả trong khóa đào tạo cho người quản lý năng lượng.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.3.3. Giải thích từ ngữ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 09/2012/TT-BCT, có hiệu lực thi hành kể từ ngày 05/06/2012)
 
-**Mã phân cấp:** 0700700000000000100000380243370009000030
+Trong Thông tư này, các thuật ngữ sau đây được hiểu như sau:
 
-**ID:** dk_00010024
+1. *Cổng thông tin điện tử là điểm truy cập duy nhất của người dùng trên môi trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng, qua đó người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin.*
 
----
+*2. Cơ sở dữ liệu là tập hợp các dữ liệu được biên soạn, sắp xếp có hệ thống theo một phương pháp nhất định để có thể truy cập, khai thác, quản lý và cập nhật thông qua phương tiện điện tử.*
 
+*3. Dữ liệu là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự.*
 
-### Điều 7.7.TT.5.3. Giải thích từ ngữ
+*4. Hệ thống cơ sở dữ liệu năng lượng quốc gia là hệ thống để truy cập, khai thác, quản lý và cập nhập cơ sở dữ liệu về sử dụng năng lượng quốc gia.*
 
-*Nội dung chưa có sẵn*
+*5. Thông điệp dữ liệu là thông tin được tạo ra, được gửi đi, được nhận hoặc được lưu trữ bằng phương tiện điện tử.*
 
-**Chỉ mục:** 3
+*6. Trang thông tin điện tử (Website) là trang thông tin hoặc một tập hợp trang thông tin trên môi trường mạng, phục vụ cho việc cung cấp, trao đổi thông tin.*
 
-**Mã phân cấp:** 0700700000000000100000380249730002000030
+*8. Văn bản điện tử là văn bản được thể hiện dưới dạng thông điệp dữ liệu.*
 
-**ID:** dk_00010025
+Điều 7.7.TT.5.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư số 02/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 01/06/2014)
 
+1. *Quá trình dùng chung trong sản xuất công nghiệp* (gọi tắt là các quá trình dùng chung) là các quá trình cung cấp, biến đổi, lưu trữ và sử dụng năng lượng trong sản xuất tại các cơ sở sản xuất công nghiệp.
 
-### Điều 7.7.TL.1.3. Giải thích từ ngữ
+2. *kOE* là kg dầu tương đương: quy định tại Phụ lục I, Thông tư này.
 
-*Nội dung chưa có sẵn*
+3. *IEER* là chỉ số hiệu quả năng lượng tổng hợp, kW/kW.
 
-**Chỉ mục:** 3
+4. *IPLV* là chỉ số non tải tổng hợp - được hiểu đầy đủ là chỉ số hiệu quả năng lượng non tải tổng hợp; kW/kW.
 
-**Mã phân cấp:** 0700700000000000100000380252240043000030
+5. *Chỉ số hiệu quả năng lượng (SEC)* là mức năng lượng sử dụng trên một đơn vị sản phẩm.
 
-**ID:** dk_00010026
+Điều 7.7.TL.1.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư liên tịch số 43/2014/TTLT-BGTVT-BCT, có hiệu lực thi hành kể từ ngày 01/12/2014)
 
+Một số từ ngữ quy định tại Thông tư này được hiểu như sau:
 
-### Điều 7.7.TT.6.3. Giải thích từ ngữ
+1. Nhãn năng lượng của xe (sau đây viết tắt là nhãn năng lượng) là nhãn cung cấp các thông tin liên quan đến loại nhiên liệu sử dụng, mức tiêu thụ nhiên liệu của xe đã được kiểm tra, chứng nhận hoặc đăng ký tự công bố giúp người tiêu dùng nhận biết và lựa chọn xe tiết kiệm nhiên liệu.
 
-*Nội dung chưa có sẵn*
+2. Mức tiêu thụ năng lượng của xe (mức tiêu thụ nhiên liệu) là lượng nhiên liệu tiêu hao của xe trên một quãng đường, ứng với điều kiện, chu trình thử nghiệm xác định. Đơn vị đo mức tiêu thụ nhiên liệu là lít (l)/100 ki lô mét (km) (đối với nhiên liệu là xăng, LPG và điêzen) hoặc mét khối (m3­)/100 ki lô mét (km) (đối với nhiên liệu là NG).
 
-**Chỉ mục:** 3
+3. Chứng nhận dán nhãn năng lượng của xe là chứng nhận mức tiêu thụ nhiên liệu làm căn cứ để thực hiện dán nhãn năng lượng.
 
-**Mã phân cấp:** 0700700000000000100000380259450019000030
+4. Xe ô tô con được định nghĩa tại Mục 3.1.1 Tiêu chuẩn Việt Nam - Phương tiện giao thông đường bộ - Ô tô - Phân loại theo mục đích sử dụng - TCVN 7271: 2003.
 
-**ID:** dk_00010027
+5. Kiểu loại xe được định nghĩa tại các văn bản sau đây:
 
----
+a) Mục 1.3.6 Quy chuẩn kỹ thuật quốc gia về khí thải xe ô tô sản xuất, lắp ráp và nhập khẩu mới - QCVN 05:2009/BGTVT do Bộ Giao thông vận tải ban hành (sau đây viết tắt là QCVN 05:2009/BGTVT);
 
+b) Mục 3.2 Tiêu chuẩn Việt Nam TCVN 7792:2007 - Phương tiện giao thông đường bộ - Khí thải CO­­2 và tiêu thụ nhiên liệu của ô tô con lắp động cơ đốt trong - Yêu cầu và phương pháp thử trong phê duyệt kiểu do Bộ Khoa học và Công nghệ công bố (sau đây viết tắt là TCVN 7792:2007);
 
-### Điều 7.7.TT.7.3. Giải thích từ ngữ
+c) Mục 3.2 Tiêu chuẩn Việt Nam TCVN 9854:2013 - Phương tiện giao thông đường bộ - Ô tô con - Giới hạn tiêu thụ nhiên liệu và phương pháp xác định do Bộ Khoa học và Công nghệ công bố (sau đây viết tắt là TCVN 9854:2013).
 
-*Nội dung chưa có sẵn*
+6. Cơ quan quản lý chất lượng (sau đây viết tắt là cơ quan QLCL) là Cục Đăng kiểm Việt Nam trực thuộc Bộ Giao thông vận tải.
 
-**Chỉ mục:** 3
+7. Cơ sở sản xuất, lắp ráp là doanh nghiệp sản xuất, lắp ráp (sau đây viết tắt là SXLR) xe từ linh kiện rời, hoàn toàn mới đang hoạt động theo quy định của pháp luật.
 
-**Mã phân cấp:** 0700700000000000100000380259510020000030
+8. Cơ sở nhập khẩu là tổ chức thực hiện việc nhập khẩu (sau đây viết tắt là NK) xe.
 
-**ID:** dk_00010028
+9. Cơ sở kinh doanh xe là tổ chức, cá nhân thực hiện việc bán, phân phối xe ra thị trường.
 
----
+10. Cơ sở thử nghiệm mức tiêu thụ nhiên liệu xe (sau đây viết tắt là cơ sở thử nghiệm) là cơ sở thử nghiệm chuyên ngành được cơ quan có thẩm quyền trong nước hoặc ngoài nước cấp phép hoạt động thử nghiệm, có lĩnh vực hoạt động phù hợp và được Cục Đăng kiểm Việt Nam - Bộ Giao thông vận tải hoặc Tổng cục Năng lượng - Bộ Công Thương xem xét và chỉ định theo quy định tại Điều 6 của Thông tư này.
 
+Điều 7.7.TT.6.3. Giải thích từ ngữ
 
-### Điều 7.7.TT.8.3. Giải thích từ ngữ
+(Điều 3 Thông tư số 19/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 01/11/2016)
 
-*Nội dung chưa có sẵn*
+1. Suất tiêu hao năng lượng (SEC) là tổng mức năng lượng tiêu hao để sản xuất một đơn vị sản phẩm.
 
-**Chỉ mục:** 3
+2. Định mức tiêu hao năng lượng là chỉ số suất tiêu hao năng lượng (SEC) tiến tiên ứng với từng giai đoạn do Bộ Công Thương quy định trong Thông tư này.
 
-**Mã phân cấp:** 0700700000000000100000380260500036000030
+3. 01 hecto lít (1hl) là đơn vị đo thể tích bằng 100 lít (100l).
 
-**ID:** dk_00010029
+Điều 7.7.TT.7.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư số 20/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 08/11/2016)
 
+Trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:
 
-### Điều 7.7.TT.9.3. Giải thích từ ngữ
+1. *Suất tiêu hao năng lượng (SEC)* là tổng năng lượng tiêu hao của một công đoạn sản xuất (Công đoạn) được tính bằng MJ (1.000.000 J) để sản xuất ra một tấn sản phẩm.
 
-*Nội dung chưa có sẵn*
+2. *Định mức tiêu hao năng lượng* là suất tiêu hao năng lượng (SEC) tiên tiến tương ứng với từng giai đoạn do Bộ Công Thương quy định trong Thông tư này.
 
-**Chỉ mục:** 3
+Điều 7.7.TT.8.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 0700700000000000100000380260500038000030
+(Điều 3 Thông tư số 36/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 10/02/2017)
 
-**ID:** dk_00010030
+Trong Thông tư này, các cụm từ dưới đây được hiểu như sau:
 
----
+1. Dán nhãn năng lượng là việc dán, gắn, in, khắc nhãn năng lượng lên sản phẩm, bao bì, hoặc hiển thị nhãn năng lượng điện tử trên sản phẩm.
 
+2. Nhãn so sánh là nhãn cung cấp thông tin về mức tiêu thụ năng lượng, loại năng lượng sử dụng, hiệu suất năng lượng và các thông tin khác giúp người tiêu dùng so sánh với các sản phẩm cùng loại trên thị trường để nhận biết và lựa chọn phương tiện, thiết bị tiết kiệm năng lượng.
 
-### Điều 7.7.TT.10.3. Giải thích từ ngữ
+3. Nhãn xác nhận là nhãn chứng nhận phương tiện, thiết bị có hiệu suất năng lượng cao nhất so với phương tiện, thiết bị khác cùng loại.
 
-*Nội dung chưa có sẵn*
+4. ILAC là Hiệp hội công nhận các tổ chức thử nghiệm quốc tế (International Laboratory Accreditation Cooperation).
 
-**Chỉ mục:** 3
+5. APLAC là Hiệp hội công nhận các phòng thử nghiệm Châu Á - Thái Bình Dương (Asia Pacific Laboratory Accreditation Cooperation).
 
-**Mã phân cấp:** 0700700000000000100000380263660040000030
+6. VILAS là Hệ thống công nhận Phòng thử nghiệm Việt Nam (Vietnam Laboratory Accreditation Scheme).
 
-**ID:** dk_00010031
+7. ISO là Tổ chức tiêu chuẩn hóa quốc tế (International Organization for Standardization).
 
----
+8. IEC là Ủy ban Kỹ thuật Điện Quốc tế (International Electrotechnical Commission).
 
+9. TCVN là Tiêu chuẩn Việt Nam.
 
-### Điều 7.7.TT.11.3. Giải thích từ ngữ
+Điều 7.7.TT.9.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 38/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 10/12/2017)
 
-**Chỉ mục:** 3
+*1.**Suất tiêu hao năng lượng**(SEC)* là tổng mức năng lượng tiêu hao để sản xuất một đơn vị khối lượng sản phẩm.
 
-**Mã phân cấp:** 0700700000000000100000380263800024000030
+*2.**Định mức tiêu hao năng lượng* là suất tiêu hao năng lượng (SEC) tiên tiến tương ứng cho từng giai đoạn cụ thể quy định tại Thông tư này.
 
-**ID:** dk_00010032
+Điều 7.7.TT.10.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư số 40/2017/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
+Một số từ ngữ quy định tại Thông tư này được hiểu như sau:
 
-### Điều 7.7.TT.15.3. Giải thích từ ngữ
+1. Nhãn năng lượng của xe (sau đây viết tắt là nhãn năng lượng) là nhãn cung cấp các thông tin liên quan đến loại nhiên liệu sử dụng, mức tiêu thụ nhiên liệu của xe giúp người tiêu dùng nhận biết và lựa chọn xe tiết kiệm nhiên liệu.
 
-*Nội dung chưa có sẵn*
+2. Mức tiêu thụ năng lượng của xe (mức tiêu thụ nhiên liệu) là lượng nhiên liệu tiêu hao của xe trên một quãng đường, ứng với điều kiện, chu trình thử nghiệm xác định. Đơn vị đo mức tiêu thụ nhiên liệu là lít (l)/100 ki lô mét (km) (đối với nhiên liệu là xăng, LPG và điêzen) hoặc mét khối (m3­)/100 ki lô mét (km) (đối với nhiên liệu là NG).
 
-**Chỉ mục:** 3
+3. Xe ô tô con được định nghĩa tại mục 3.1.1 Tiêu chuẩn Việt Nam TCVN 7271:2003 - Phương tiện giao thông đường bộ - Ô tô - Phân loại theo mục đích sử dụng.
 
-**Mã phân cấp:** 0700700000000000100000380267770052000030
+4. Kiểu loại xe được định nghĩa tại các văn bản sau đây:
 
-**ID:** dk_00010033
+a) Mục 1.3.6 QCVN 86:2015/BGTVT - Quy chuẩn kỹ thuật quốc gia về khí thải xe ô tô sản xuất, lắp ráp và nhập khẩu mới (sau đây viết tắt là QCVN 86:2015/BGTVT);
 
----
+b) Mục 3.2 Tiêu chuẩn Việt Nam TCVN 7792:2015 - Phương tiện giao thông đường bộ - Phương pháp đo phát thải CO­­2 và tiêu thụ nhiên liệu và/hoặc tiêu thụ năng lượng điện cho ô tô con được dẫn động bằng động cơ đốt trong hoặc được dẫn động bằng hệ dẫn động hybrid điện và phương pháp đo tiêu thụ năng lượng điện cho xe loại M1 và N1 được dẫn động bằng hệ dẫn động điện - Yêu cầu và phương pháp thử trong phê duyệt kiểu do Bộ Khoa học và Công nghệ công bố (sau đây viết tắt là TCVN 7792:2015);
 
+c) Mục 3.2 Tiêu chuẩn Việt Nam TCVN 9854:2013 - Phương tiện giao thông đường bộ - Ô tô con - Giới hạn tiêu thụ nhiên liệu và phương pháp xác định do Bộ Khoa học và Công nghệ công bố (sau đây viết tắt là TCVN 9854:2013;
 
-### Điều 7.7.TT.19.1. Phạm vi điều chỉnh
+5. Cơ sở sản xuất, lắp ráp là doanh nghiệp sản xuất, lắp ráp (sau đây viết tắt là SXLR) xe từ linh kiện rời, hoàn toàn mới đang hoạt động theo quy định của pháp luật;
 
-*Nội dung chưa có sẵn*
+6. Cơ sở nhập khẩu là tổ chức thực hiện việc nhập khẩu (sau đây viết tắt là NK) xe;
 
-**Chỉ mục:** 1
+7. Cơ sở kinh doanh xe là tổ chức, cá nhân thực hiện việc bán, phân phối xe ra thị trường.
 
-**Mã phân cấp:** 0700700000000000100000380292930053000010
+Điều 7.7.TT.11.3. Giải thích từ ngữ
 
-**ID:** dk_00010034
+(Điều 3 Thông tư số 24/2017/TT-BCT, có hiệu lực thi hành kể từ ngày 10/01/2018)
 
----
+1. Suất tiêu hao năng lượng (SEC) là tổng mức năng lượng tiêu hao để sản xuất một đơn vị khối lượng sản phẩm.
 
+2. Định mức tiêu hao năng lượng là suất tiêu hao năng lượng (SEC) tiên tiến tương ứng cho từng giai đoạn cụ thể quy định tại Thông tư này.
 
-### Điều 7.7.TT.19.2. Đối tượng áp dụng
+3. Thông tin chi tiết về một số sản phẩm giấy bao bì:
 
-*Nội dung chưa có sẵn*
+a) Giấy Testliner là sản phẩm giấy công nghiệp dùng để làm lớp mặt ngoài của thùng carton;
 
-**Chỉ mục:** 2
+b) Giấy Medium được sử dụng làm lớp sóng hoặc lớp mặt bên trong của thùng carton;
 
-**Mã phân cấp:** 0700700000000000100000380292930053000020
+c) Giấy Chipboard (giấy bìa cứng) là sản phẩm giấy công nghiệp được sử dụng rộng rãi để làm ống giấy (lõi cuộn sợi, chỉ), lon đựng trà hoặc làm pallet giấy, mắc áo, giấy lót container...;
 
-**ID:** dk_00010035
+d) Giấy Coreboard là sản phẩm giấy được sử dụng phổ biến trong ngành công nghiệp xơ sợi, ngoài ra còn dùng với mục đích khác như: cuốn các vật liệu kim loại, các vật liệu plastic... Tuy có cùng mục đích sử dụng tương tự Chipboard nhưng Coreboard là dòng giấy cao cấp hơn, độ tách lớp bám chắc, khả năng chịu lực cao hơn.
 
----
+Điều 7.7.TT.15.3. Giải thích từ ngữ
 
+(Điều 3 Thông tư số 52/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 18/02/2019)
 
-### Điều 7.7.LQ.4. Nguyên tắc sử dụng năng lượng tiết kiệm và hiệu quả
+1. Suất tiêu hao năng lượng (SEC) là tổng mức năng lượng tiêu hao trong quá trình chế biến trực tiếp và gián tiếp cho một đơn vị sản phẩm tương đương.
+
+2. Định mức tiêu hao năng lượng là suất tiêu hao năng lượng cần đạt theo từng giai đoạn theo quy định của Thông tư này.
+
+3. IQF (Individual Quick Freezing) là phương pháp cấp đông nhanh các sản phẩm rời.
+
+4. Sản phẩm tương đương là sản phẩm được chế biến quy đổi tương ứng với cá phi lê được cấp đông trên băng chuyền IQF mạ băng tới 15%, tái đông 1 lần và tôm tươi được cấp đông trên băng chuyền IQF theo hệ số quy đổi về năng lượng được quy định tại Phụ lục I của Thông tư này.
+
+Điều 7.7.TT.19.1. Phạm vi điều chỉnh
+
+(Điều 1 Thông tư số 53 /2025/TT-BCT Quy định về đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng ngày 14/11/2025 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/01/2026 )
+
+Thông tư này quy định:
+
+1. Nội dung, chương trình đào tạo, kiểm tra, giám sát, thẩm quyền, ủy quyền cấp, công nhận, cấp lại, thu hồi chứng chỉ quản lý năng lượng; thời hạn chứng chỉ quản lý năng lượng.
+
+2. Nội dung, chương trình đào tạo, kiểm tra, giám sát, thẩm quyền cấp, ủy quyền cấp, công nhận, thu hồi chứng chỉ kiểm toán viên năng lượng do cơ sơ đào tạo cấp.
+
+Điều 7.7.TT.19.2. Đối tượng áp dụng
+
+(Điều 2 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
+
+Thông tư này áp dụng đối với các cơ quan, tổ chức và các cá nhân tham gia hoạt động đào tạo về quản lý năng lượng và kiểm toán viên năng lượng.
 
 Điều 7.7.LQ.4. Nguyên tắc sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000100000400000000000000000
+1. Phù hợp với chiến lược, quy hoạch tổng thể về năng lượng, chính sách an ninh năng lượng và bảo vệ môi trường.
 
-**ID:** dk_00010036
+2. Được thực hiện thường xuyên, thống nhất từ quản lý, khai thác tài nguyên năng lượng đến khâu sử dụng cuối cùng.
 
----
-
-
-### Điều 7.7.LQ.5. Chính sách của Nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả
+3. Là trách nhiệm của cơ quan quản lý nhà nước, quyền và nghĩa vụ của tổ chức, hộ gia đình, cá nhân và toàn xã hội.
 
 Điều 7.7.LQ.5. Chính sách của Nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 43 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000100000500000000000000000
+1. Áp dụng thực hiện biện pháp sử dụng năng lượng tiết kiệm và hiệu quả phục vụ phát triển kinh tế - xã hội là một trong những ưu tiên hàng đầu.
 
-**ID:** dk_00010037
+2. Hỗ trợ tài chính, giá năng lượng và các chính sách ưu đãi cần thiết khác để thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả.
 
----
+3.Tăng cường đầu tư, sử dụng đa dạng hình thức huy động nguồn lực để đẩy mạnh hoạt động nghiên cứu khoa học, phát triển và ứng dụng công nghệ tiên tiến, đổi mới sáng tạo, chuyển đổi xanh, áp dụng hệ thống quản lý chất lượng, công cụ nâng cao năng suất, chất lượng tiên tiến về sử dụng năng lượng tiết kiệm và hiệu quả; phát triển năng lượng tái tạo phù hợp với điều kiện kinh tế - xã hội của Việt Nam góp phần bảo đảm an ninh năng lượng, bảo vệ môi trường. Khuyến khích phát triển những ngành, nghề, lĩnh vực tiêu thụ ít năng lượng, tài nguyên, tạo ra giá trị gia tăng cao. Tăng cường biện pháp kiểm soát đối với những ngành, nghề, lĩnh vực có cường độ sử dụng năng lượng cao, tiêu thụ nhiều tài nguyên thiên nhiên.
 
+4. Khuyến khích sử dụng phương tiện, thiết bị tiết kiệm năng lượng; thực hiện lộ trình áp dụng nhãn năng lượng; từng bước loại bỏ phương tiện, thiết bị có công nghệ lạc hậu, hiệu suất năng lượng thấp.
 
-### Điều 7.7.LQ.6. Chiến lược phát triển năng lượng quốc gia, quy hoạch tổng thể về năng lượng, chương trình sử dụng năng lượng
+5.Khuyến khích, hỗ trợ phát triển dịch vụ năng lượng. Đầu tư hợp lý cho công tác tuyên truyền, nâng cao nhận thức và hỗ trợ cộng đồng về sử dụng năng lượng tiết kiệm và hiệu quả. Tổ chức chương trình đào tạo nâng cao năng lực chuyên môn, cập nhật kiến thức cho tổ chức, cá nhân hoạt động trong lĩnh vực tiết kiệm năng lượng, đặc biệt là kiểm toán viên năng lượng và người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm. Khuyến khích, hỗ trợ cơ sở sử dụng năng lượng ký kết thỏa thuận tự nguyện về sử dụng năng lượng tiết kiệm và hiệu quả với cơ quan quản lý nhà nước hoặc tổ chức cung cấp năng lượng do Nhà nước quản lý hoặc ủy quyền.
+
+6.Sử dụng năng lượng tiết kiệm và hiệu quả là một chỉ tiêu trong kế hoạch phát triển kinh tế - xã hội quốc gia, tỉnh, thành phố và cơ sở sử dụng năng lượng trọng điểm. Tỉnh, thành phố căn cứ vào điều kiện kinh tế - xã hội xây dựng kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả hằng năm và năm năm.
 
 Điều 7.7.LQ.6. Chiến lược phát triển năng lượng quốc gia, quy hoạch tổng thể về năng lượng, chương trình sử dụng năng lượng
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000100000600000000000000000
+1. Chiến lược, quy hoạch, chương trình sử dụng năng lượng phải đáp ứng các yêu cầu sau đây:
 
-**ID:** dk_00010038
+a) Cung cấp năng lượng ổn định, an toàn; sử dụng hợp lý, tiết kiệm nguồn tài nguyên năng lượng;
 
----
+b) Dự báo cung, cầu năng lượng phù hợp với chiến lược, quy hoạch, kế hoạch phát triển kinh tế - xã hội; kết hợp hài hòa, cân đối giữa các quy hoạch ngành than, dầu khí, điện lực và các quy hoạch năng lượng khác;
 
+c) Thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả, ưu tiên phát triển hợp lý công nghệ năng lượng sạch, nâng cao tỷ trọng sử dụng năng lượng tái tạo;
 
-### Điều 7.7.LQ.7. Thống kê về sử dụng năng lượng
+d) Xây dựng và thực hiện lộ trình chế tạo phương tiện, thiết bị, vật liệu xây dựng tiết kiệm năng lượng.
 
-*Nội dung chưa có sẵn*
+1a. Nguồn lực để thực hiện hoạt động sử dụng năng lượng tiết kiệm và hiệu quả bao gồm nguồn ngân sách nhà nước, nguồn vốn xã hội hóa và nguồn hợp pháp khác theo quy định của pháp luật
 
-**Chỉ mục:** 7
+2. Thủ tướng Chính phủ chỉ đạo việc xây dựng và thực hiện chiến lược, quy hoạch, chương trình sử dụng năng lượng.
 
-**Mã phân cấp:** 0700700000000000100000700000000000000000
+Điều 7.7.LQ.7. Thống kê về sử dụng năng lượng
 
-**ID:** dk_00010039
+(Điều 7 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi bởi Điều 43 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
----
+Việc thống kê trong lĩnh vực năng lượng được thực hiện theo quy định của pháp luật về thống kê.
 
+Điều 7.7.LQ.8. Các hành vi bị cấm
 
-### Điều 7.7.LQ.8. Các hành vi bị cấm
+(Điều 8 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-*Nội dung chưa có sẵn*
+1. Hủy hoại nguồn tài nguyên năng lượng quốc gia.
 
-**Chỉ mục:** 8
+2. Giả mạo, gian dối để được hưởng chính sách ưu đãi của Nhà nước trong hoạt động sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**Mã phân cấp:** 0700700000000000100000800000000000000000
+3. Lợi dụng chức vụ, quyền hạn trong quản lý sử dụng năng lượng tiết kiệm và hiệu quả vì mục đích vụ lợi.
 
-**ID:** dk_00010040
+4. Cố ý cung cấp thông tin không trung thực về hiệu suất năng lượng của phương tiện, thiết bị trong hoạt động dán nhãn năng lượng, kiểm định, quảng cáo và các hoạt động khác gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, hộ gia đình, cá nhân.
 
----
+5. Sản xuất, nhập khẩu, lưu thông phương tiện, thiết bị sử dụng năng lượng thuộc Danh mục phương tiện, thiết bị phải loại bỏ do cơ quan nhà nước có thẩm quyền ban hành.
 
+Chương II
 
-### Điều 7.7.LQ.9. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả của cơ sở sản xuất công nghiệp
+SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG SẢN XUẤT CÔNG NGHIỆP
 
 Điều 7.7.LQ.9. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả của cơ sở sản xuất công nghiệp
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 43 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000200000900000000000000000
+1. Cơ sở sản xuất công nghiệp gồm cơ sở sản xuất, chế biến, gia công sản phẩm hàng hóa; cơ sở chế tạo, sửa chữa phương tiện, thiết bị; cơ sở khai thác mỏ; cơ sở sản xuất, cung cấp năng lượng.
 
-**ID:** dk_00010042
+2. Cơ sở sản xuất công nghiệp có trách nhiệm:
 
----
+a) Xây dựng, thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả hằng năm; lồng ghép chương trình quản lý năng lượng với các chương trình quản lý chất lượng, chương trình sản xuất sạch hơn, chương trình bảo vệ môi trường của cơ sở;
 
+b) Áp dụng tiêu chuẩn, quy chuẩn kỹ thuật, định mức về sử dụng năng lượng đã được cơ quan nhà nước có thẩm quyền quy định; lựa chọn áp dụng quy trình và mô hình quản lý sản xuất tiên tiến, biện pháp công nghệ phù hợp và thiết bị công nghệ có hiệu suất năng lượng cao; sử dụng các dạng năng lượng thay thế có hiệu quả cao hơn trong dây chuyền sản xuất;
 
-### Điều 7.7.LQ.10. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất, chế biến, gia công sản phẩm hàng hoá
+c) Áp dụng biện pháp kỹ thuật, kiến trúc nhà xưởng nhằm sử dụng tối đa hiệu quả hệ thống chiếu sáng, thông gió, làm mát; sử dụng tối đa ánh sáng, thông gió tự nhiên;
+
+d) Thực hiện quy trình vận hành, chế độ duy tu, bảo dưỡng phương tiện, thiết bị trong dây chuyền sản xuất để chống tổn thất năng lượng;
+
+đ) Loại bỏ dần phương tiện, thiết bị có công nghệ lạc hậu, tiêu tốn nhiều năng lượng theo quy định của Thủ tướng Chính phủ.
+
+3. Bộ trưởng Bộ Công Thương ban hành định mức sử dụng năng lượng áp dụng trong từng ngành sản xuất công nghiệp, trừ trường hợp quy định tại khoản 4 Điều này.
+
+4. Bộ trưởng Bộ Xây dựng ban hành định mức sử dụng năng lượng áp dụng trong ngành sản xuất vật liệu xây dựng thuộc phạm vi quản lý của Bộ Xây dựng.
 
 Điều 7.7.LQ.10. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất, chế biến, gia công sản phẩm hàng hoá
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000200001000000000000000000
+Cơ sở sản xuất, chế biến, gia công sản phẩm hàng hoá căn cứ các tiêu chuẩn, quy chuẩn kỹ thuật, định mức về sử dụng năng lượng để lựa chọn, áp dụng biện pháp công nghệ và quản lý sau đây:
 
-**ID:** dk_00010043
+1. Đầu tư hiện đại hóa dây chuyền sản xuất, chế biến, gia công sản phẩm hàng hóa; thay thế thiết bị có công nghệ lạc hậu, hiệu suất năng lượng thấp để tiết kiệm năng lượng và bảo vệ môi trường;
 
----
+2. Cải tiến, hợp lý hoá các quá trình:
 
+a) Đốt nhiên liệu trong lò hơi, lò luyện, lò nung, lò sấy;
 
-### Điều 7.7.LQ.11. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở chế tạo, sửa chữa phương tiện, thiết bị
+b) Trao đổi nhiệt trong thiết bị gia nhiệt, làm lạnh;
+
+c) Chuyển hóa nhiệt năng thành điện năng, điện năng thành nhiệt năng, cơ năng và các dạng chuyển hóa năng lượng khác;
+
+3. Tận dụng nhiệt thừa của lò hơi, lò luyện, lò nung, hơi nước thải nóng cho mục đích sản xuất và đời sống;
+
+4. Áp dụng các biện pháp kỹ thuật nhằm giảm tổn hao năng lượng trong hệ thống cung cấp điện và cung cấp nhiệt;
+
+5. Sử dụng động cơ điện, lò hơi, máy bơm có hiệu suất cao, thiết bị biến tần, thiết bị điều chỉnh tốc độ động cơ cho công trình xây lắp mới hoặc thay thế, sửa chữa;
+
+6. Áp dụng công nghệ đồng phát nhiệt điện đối với cơ sở chế biến, gia công, sản xuất sản phẩm hàng hoá có tiềm năng phát triển phụ tải điện và nhiệt.
 
 Điều 7.7.LQ.11. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở chế tạo, sửa chữa phương tiện, thiết bị
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000200001100000000000000000
+Cơ sở chế tạo, sửa chữa phương tiện, thiết bị căn cứ tiêu chuẩn, quy chuẩn kỹ thuật, định mức về sử dụng năng lượng để lựa chọn, áp dụng biện pháp công nghệ và quản lý sau đây:
 
-**ID:** dk_00010044
+1. Xây dựng và thực hiện kế hoạch thay thế thiết bị công nghệ lạc hậu; đầu tư lắp đặt máy công cụ thế hệ mới có công nghệ hiện đại, tự động hoá cao;
 
----
+2. Áp dụng biện pháp công nghệ nung, luyện vật liệu, tạo phôi, rèn, dập, phay, tiện, gia công sản phẩm đã được kiểm chứng trong thực tế là tiết kiệm và có hiệu quả cao về sử dụng năng lượng;
 
-
-### Điều 7.7.LQ.12. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở khai thác mỏ
+3. Lắp đặt bộ biến tần, thiết bị điều chỉnh tốc độ động cơ điện theo nhu cầu công suất cho cầu trục, thiết bị nâng hạ và vận chuyển trong nhà xưởng; bố trí dây chuyền sản xuất hợp lý nhằm tiết kiệm năng lượng.
 
 Điều 7.7.LQ.12. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở khai thác mỏ
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000200001200000000000000000
+Cơ sở khai thác mỏ căn cứ tiêu chuẩn, quy chuẩn kỹ thuật, định mức về sử dụng năng lượng để lựa chọn, áp dụng biện pháp công nghệ và quản lý sau đây:
 
-**ID:** dk_00010045
+1. Áp dụng quy trình khai thác hợp lý để giảm tiêu thụ nhiên liệu, điện, nước cung cấp cho phương tiện, thiết bị trong khai thác;
 
----
+2. Lựa chọn phương tiện, thiết bị phù hợp với điều kiện khai trường của mỏ để nâng cao năng suất khai thác, đồng thời tiết kiệm năng lượng;
 
+3. Áp dụng công nghệ tiết kiệm năng lượng trong sàng, tuyển, chế biến, vận chuyển khoáng sản;
 
-### Điều 7.7.LQ.13. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất, cung cấp năng lượng
+4. Thiết kế, lắp đặt hợp lý hệ thống thông gió trong mỏ hầm lò bảo đảm sử dụng năng lượng tiết kiệm và hiệu quả.
 
 Điều 7.7.LQ.13. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất, cung cấp năng lượng
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000200001300000000000000000
+1. Cơ sở sản xuất, cung cấp năng lượng căn cứ tiêu chuẩn, quy chuẩn kỹ thuật, định mức về sử dụng năng lượng áp dụng biện pháp công nghệ và quản lý sau đây:
 
-**ID:** dk_00010046
+a) Lựa chọn công nghệ có hiệu suất năng lượng cao; lắp đặt đầy đủ thiết bị đo lường, kiểm tra thông số vận hành; định kỳ tổ chức hiệu chỉnh, bảo trì lò, máy và thiết bị phụ trợ trong nhà máy phát điện để bảo đảm hiệu suất chung của nhà máy đạt hiệu suất thiết kế;
 
----
+b) Tận dụng nhiệt thải, hơi nước thải có nhiệt độ cao để cung cấp cho quá trình cháy, sấy nhiên liệu, làm nóng nước cấp vào lò nhằm nâng cao hiệu suất phát điện của tổ máy;
 
+c) Cơ sở phát điện phải tuân thủ phương thức huy động của đơn vị điều độ hệ thống điện quốc gia; xây dựng và thực hiện kế hoạch giảm điện tự dùng;
 
-### Điều 7.7.LQ.14. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất tiểu thủ công nghiệp
+d) Nhà máy thủy điện phải tuân thủ đầy đủ quy trình vận hành khai thác hồ chứa hoặc liên hồ chứa đã được cấp có thẩm quyền phê duyệt, bảo đảm yêu cầu phát điện an toàn, tham gia nhiệm vụ điều tiết cấp nước cho sản xuất và đời sống, đúng mục đích, tiết kiệm, hiệu quả;
+
+đ) Đơn vị truyền tải, phân phối điện phải xây dựng chương trình, kế hoạch, định mức và lộ trình cụ thể nhằm giảm tổn thất điện năng trong hệ thống truyền tải và phân phối, có trách nhiệm kiểm tra, giám sát chế độ non tải, quá tải của hệ thống lưới điện;
+
+e) Đơn vị khai thác, cung ứng nhiên liệu phải sử dụng kho chứa, phương tiện vận chuyển an toàn, phù hợp, giảm thất thoát, phòng ngừa gây ô nhiễm môi trường, lãng phí năng lượng;
+
+g) Đơn vị khai thác than, dầu khí phải thực hiện đánh giá phương án thu hồi và sử dụng hiệu quả về tài nguyên năng lượng, khí phát sinh trong khâu khai thác. Đơn vị vận chuyển, phân phối than, dầu khí phải thực hiện đánh giá phương án sử dụng hiệu quả về tài nguyên năng lượng, kiểm soát hao hụt trong các khâu chế biến, sản xuất, vận chuyển, phân phối và tồn trữ trong hệ thống cung ứng của doanh nghiệp. Định kỳ không quá năm năm tổ chức rà soát và cập nhật xây dựng định mức hao hụt xăng, dầu, than.
+
+2. Không xây dựng mới tổ máy phát điện bằng than, dầu, khí có công nghệ lạc hậu, hiệu suất thấp theo quy định của Thủ tướng Chính phủ.
+
+3 Bộ trưởng Bộ Công Thương ban hành quy định về định mức sử dụng năng lượng tự dùng trong cơ sở sản xuất, vận chuyển và phân phối năng lượng. Cơ sở sản xuất, vận chuyển và phân phối năng lượng có trách nhiệm phối hợp với Bộ Công Thương để xây dựng quy định về định mức sử dụng năng lượng tự dùng trong cơ sở.
 
 Điều 7.7.LQ.14. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất tiểu thủ công nghiệp
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000200001400000000000000000
+Cơ sở sản xuất tiểu thủ công nghiệp có trách nhiệm lựa chọn, áp dụng biện pháp công nghệ và quản lý để sử dụng năng lượng tiết kiệm và hiệu quả quy định tại các điều 9, 10 và 11 của Luật này phù hợp với quy mô và ngành nghề sản xuất.
 
-**ID:** dk_00010047
+Chương III
 
----
-
-
-### Điều 7.7.LQ.15. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng
+SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG XÂY DỰNG, CHIẾU SÁNG CÔNG CỘNG
 
 Điều 7.7.LQ.15. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000300001500000000000000000
+1. Áp dụng các giải pháp quy hoạch và thiết kế kiến trúc phù hợp với điều kiện tự nhiên nhằm giảm tiêu thụ năng lượng sử dụng cho chiếu sáng, thông gió, làm mát, sưởi ấm.
 
-**ID:** dk_00010049
+2. Sử dụng vật liệu cách nhiệt phù hợp tiêu chuẩn quốc gia hoặc tiêu chuẩn nước ngoài về mức hiệu suất năng lượng được cơ quan nhà nước có thẩm quyền công bố, thừa nhận áp dụng nhằm hạn chế truyền nhiệt qua tường, mái nhà, cửa ra vào và cửa sổ.
 
----
+3. Sử dụng và lắp đặt các phương tiện, thiết bị có hiệu suất năng lượng cao được thiết kế, sản xuất phù hợp tiêu chuẩn quốc gia, tiêu chuẩn nước ngoài về mức hiệu suất năng lượng được cơ quan nhà nước có thẩm quyền công bố, thừa nhận áp dụng.
 
+4. Sử dụng hệ thống quản lý, điều khiển tự động để vận hành phương tiện, thiết bị sử dụng năng lượng phù hợp với quy mô công trình.
 
-### Điều 7.7.LQ.16. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng
+5. Lắp đặt thiết bị đo lường điện, nhiệt, thiết bị khống chế nhiệt độ trong phòng và thiết bị kiểm soát hệ thống cung cấp điện, nhiệt tại các vị trí trong toà nhà phù hợp với điều kiện thời tiết và mục đích sử dụng.
+
+6. Sử dụng vật liệu xây dựng tiết kiệm năng lượng, vật liệu không nung, lắp đặt thiết bị sử dụng năng lượng mặt trời, khí sinh học trong các công trình xây dựng.
+
+7. Áp dụng tiêu chuẩn, quy chuẩn kỹ thuật, định mức về sử dụng năng lượng tiết kiệm và hiệu quả đối với công trình xây dựng.
 
 Điều 7.7.LQ.16. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000300001600000000000000000
+1. Bộ Xây dựng chủ trì, phối hợp với Bộ Công thương, bộ, cơ quan ngang bộ có liên quan ban hành định mức về sử dụng năng lượng, quy chuẩn kỹ thuật về thiết kế, thi công, vật liệu xây dựng nhằm sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00010050
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) có trách nhiệm áp dụng đồng bộ các biện pháp quản lý, kiểm soát chặt chẽ việc thực hiện quy định về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng tại địa phương.
 
----
-
-
-### Điều 7.7.LQ.17. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong chiếu sáng công cộng
+3. Cơ quan quản lý nhà nước về xây dựng có trách nhiệm kiểm tra, xử lý kịp thời vi phạm quy định về sử dụng năng lượng tiết kiệm và hiệu quả đối với công trình xây dựng đang thi công, cải tạo; không cấp giấy phép xây dựng cho công trình xây dựng không tuân thủ định mức về sử dụng năng lượng, quy chuẩn kỹ thuật nhằm sử dụng năng lượng tiết kiệm và hiệu quả.
 
 Điều 7.7.LQ.17. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong chiếu sáng công cộng
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000300001700000000000000000
+Chủ đầu tư, người đứng đầu cơ sở quản lý hệ thống chiếu sáng công cộng có trách nhiệm thực hiện các yêu cầu sau đây:
 
-**ID:** dk_00010051
+1. Bảo đảm hệ thống chiếu sáng công cộng được thiết kế theo tiêu chuẩn, quy chuẩn kỹ thuật đối với từng công trình và khu vực chiếu sáng; ưu tiên sử dụng thiết bị chiếu sáng hiệu suất cao, thiết bị chiếu sáng sử dụng nguồn năng lượng tái tạo, tận dụng nguồn chiếu sáng tự nhiên;
 
----
+2. Khi sửa chữa, thay thế, lắp đặt mới thiết bị chiếu sáng công cộng phải sử dụng thiết bị chiếu sáng được xác định là sản phẩm tiết kiệm năng lượng;
 
-
-### Điều 7.7.LQ.18. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong chiếu sáng công cộng
+3. Vận hành hệ thống chiếu sáng công cộng phù hợp theo thời gian trong ngày, theo mùa, vùng, miền.
 
 Điều 7.7.LQ.18. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong chiếu sáng công cộng
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000300001800000000000000000
+1. Bộ Xây dựng ban hành quy chuẩn kỹ thuật, quy định về chiếu sáng công cộng bảo đảm yêu cầu sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00010052
+2. Bộ Khoa học và Công nghệ công bố tiêu chuẩn quốc gia về hiệu suất năng lượng trong chiếu sáng công cộng.
 
----
+3. Ủy ban nhân dân các cấp có trách nhiệm áp dụng đồng bộ biện pháp quản lý, kiểm soát chặt chẽ việc thực hiện quy định về tiết kiệm điện trong chiếu sáng công cộng, thực hiện quản lý chiếu sáng công cộng theo thẩm quyền.
 
+Chương IV
 
-### Điều 7.7.LQ.19. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải
+SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG GIAO THÔNG VẬN TẢI
 
 Điều 7.7.LQ.19. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000400001900000000000000000
+1. Khuyến khích tổ chức, cá nhân tham gia hoạt động tư vấn, thiết kế, đầu tư phát triển giao thông vận tải công cộng; sản xuất, sử dụng phương tiện giao thông tiết kiệm năng lượng; khai thác và mở rộng ứng dụng khí hóa lỏng, khí thiên nhiên, điện, nhiên liệu hỗn hợp, nhiên liệu sinh học thay thế xăng, dầu.
 
-**ID:** dk_00010054
+2. Tổ chức, cá nhân kinh doanh dịch vụ vận tải phải lựa chọn và thực hiện các biện pháp sau đây:
 
----
+a) Tối ưu hóa tuyến vận tải, phương tiện vận tải nhằm nâng cao hiệu quả sử dụng năng lượng;
 
+b) Xây dựng và áp dụng quy định về bảo dưỡng, sửa chữa phương tiện giao thông vận tải thuộc phạm vi quản lý để giảm tiêu thụ nhiên liệu;
 
-### Điều 7.7.LQ.20. Trách nhiệm của tổ chức, cá nhân sản xuất, nhập khẩu thiết bị, phương tiện vận tải
+c) Ứng dụng các giải pháp công nghệ, quản lý, tổ chức vận tải nhằm sử dụng năng lượng tiết kiệm và hiệu quả.
+
+3. Chủ đầu tư, nhà thầu khi xây dựng, cải tạo công trình giao thông có trách nhiệm:
+
+a) Thực hiện các giải pháp về sử dụng năng lượng tiết kiệm và hiệu quả của dự án đã được phê duyệt;
+
+b) Áp dụng các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong thi công công trình.
 
 Điều 7.7.LQ.20. Trách nhiệm của tổ chức, cá nhân sản xuất, nhập khẩu thiết bị, phương tiện vận tải
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000400002000000000000000000
+1. Tổ chức, cá nhân sản xuất thiết bị, phương tiện vận tải có trách nhiệm:
 
-**ID:** dk_00010055
+a) Tuân thủ quy chuẩn kỹ thuật, định mức tiêu thụ năng lượng do cơ quan nhà nước có thẩm quyền ban hành trong sản xuất thiết bị, phương tiện vận tải;
 
----
+b) Áp dụng công nghệ tiên tiến; tăng cường nghiên cứu, chế tạo thiết bị, phương tiện vận tải tiết kiệm nhiên liệu, sử dụng nhiên liệu sạch, năng lượng tái tạo và các dạng nhiên liệu thay thế khác.
 
-
-### Điều 7.7.LQ.21. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải
+2. Tổ chức, cá nhân nhập khẩu thiết bị, phương tiện vận tải có trách nhiệm tuân thủ quy định về định mức tiêu thụ năng lượng do cơ quan nhà nước có thẩm quyền ban hành.
 
 Điều 7.7.LQ.21. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000400002100000000000000000
+1. Bộ Xây dựng có trách nhiệm:
 
-**ID:** dk_00010056
+a) Áp dụng các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong quy hoạch hệ thống giao thông đường bộ, đường sắt, đường thủy, đường hàng không;
 
----
+b) Chủ trì, phối hợp với bộ, cơ quan ngang bộ có liên quan xây dựng và ban hành theo thẩm quyền quy chuẩn kỹ thuật, định mức tiêu thụ năng lượng đối với phương tiện vận tải;
 
+c) Chỉ đạo, hướng dẫn việc thực hiện loại bỏ phương tiện vận tải quá thời hạn sử dụng, không đạt mức hiệu suất năng lượng tối thiểu;
 
-### Điều 7.7.LQ.22. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp
+d) Hướng dẫn doanh nghiệp vận tải hợp lý hóa hoạt động giao thông vận tải nhằm nâng cao hiệu quả sử dụng năng lượng của phương tiện vận tải;
+
+đ) Lập kế hoạch đầu tư, khai thác hệ thống giao thông công cộng, tăng cường sử dụng mạng lưới giao thông đường sắt, đường thủy kết hợp vận tải đa phương thức;
+
+e) Kiểm tra việc tuân thủ định mức tiêu thụ năng lượng đối với phương tiện vận tải.
+
+2. Bộ Công thương hướng dẫn cơ sở sản xuất phương tiện vận tải tuân thủ quy chuẩn kỹ thuật, định mức tiêu thụ năng lượng đối với phương tiện vận tải.
+
+3. Bộ Khoa học và Công nghệ chủ trì, phối hợp với các bộ, cơ quan ngang bộ có liên quan công bố tiêu chuẩn quốc gia về hiệu suất năng lượng của phương tiện vận tải và nhiên liệu thân thiện môi trường sử dụng trong giao thông vận tải.
+
+4. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:
+
+a) Áp dụng các biện pháp tiết kiệm năng lượng trong quy hoạch, phát triển hệ thống giao thông vận tải tại địa phương;
+
+b) Tổ chức phân làn, phân luồng giao thông hợp lý; quy định giờ hoạt động của một số loại phương tiện, giảm thiểu ùn tắc giao thông nhằm tiết kiệm năng lượng, bảo vệ môi trường;
+
+c) Thực hiện các nhiệm vụ khác về sử dụng năng lượng tiết kiệm và hiệu quả trong giao thông vận tải được phân cấp.
+
+Chương V
+
+SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG SẢN XUẤT NÔNG NGHIỆP
 
 Điều 7.7.LQ.22. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000500002200000000000000000
+1. Quy hoạch, tổ chức sản xuất nông nghiệp phải bảo đảm yêu cầu sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00010058
+2. Tổ chức, hộ gia đình, cá nhân sản xuất nông nghiệp lựa chọn các biện pháp sau đây để sử dụng năng lượng tiết kiệm và hiệu quả:
 
----
+a) Áp dụng kết quả nghiên cứu khoa học, cải tiến công nghệ nhằm đạt hiệu suất năng lượng cao đối với thiết bị sản xuất, gia công, chế biến, bảo quản, vận chuyển sản phẩm nông nghiệp;
 
+b) Sử dụng thiết bị, công nghệ năng lượng sạch, năng lượng tái tạo trong sản xuất, gia công, chế biến, bảo quản, vận chuyển sản phẩm nông nghiệp và phát triển ngành nghề;
 
-### Điều 7.7.LQ.23. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong thủy lợi
+c) Loại bỏ theo lộ trình phương tiện, thiết bị, máy móc nông nghiệp, đánh bắt thủy sản có công nghệ lạc hậu, hiệu suất năng lượng thấp theo quy định của cơ quan nhà nước có thẩm quyền;
+
+d) Thực hiện các hoạt động tuyên truyền, phổ biến kiến thức, tư vấn sử dụng năng lượng tiết kiệm và hiệu quả.
 
 Điều 7.7.LQ.23. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong thủy lợi
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000500002300000000000000000
+1. Tổ chức quy hoạch hệ thống thủy lợi hợp lý, tối ưu hoá hệ thống hồ chứa, kênh mương, tận dụng dòng chảy tự nhiên.
 
-**ID:** dk_00010059
-
----
-
-
-### Điều 7.7.LQ.24. Giảm tổn thất điện năng và sử dụng năng lượng tái tạo trong sản xuất nông nghiệp, nông thôn
+2. Vận hành, khai thác hợp lý công suất tổ máy bơm trong các trạm bơm cấp, thoát nước của hệ thống thủy lợi.
 
 Điều 7.7.LQ.24. Giảm tổn thất điện năng và sử dụng năng lượng tái tạo trong sản xuất nông nghiệp, nông thôn
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000500002400000000000000000
+1. Đầu tư, cải tạo lưới điện nông thôn phù hợp tiêu chuẩn, quy chuẩn kỹ thuật nhằm bảo đảm an toàn điện, giảm tổn thất điện năng.
 
-**ID:** dk_00010060
+2. Khuyến khích sản xuất, sử dụng nguồn năng lượng tại chỗ bằng sức nước, sức gió, ánh sáng mặt trời, khí sinh học, phụ phẩm nông nghiệp và các nguồn năng lượng tái tạo khác.
 
----
-
-
-### Điều 7.7.LQ.25. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp
+3. Phát triển hợp lý theo quy hoạch vùng cây nguyên liệu cho sản xuất nhiên liệu sinh học.
 
 Điều 7.7.LQ.25. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000500002500000000000000000
+1. Bộ Nông nghiệp và Môi trường có trách nhiệm:
 
-**ID:** dk_00010061
+a) Hướng dẫn thực hiện quy định tại các điều 22, 23 và khoản 2, khoản 3 Điều 24 của Luật này;
 
----
+b)***(được bãi bỏ)***
 
+2. Ủy ban nhân dân cấp tỉnh có trách nhiệm:
 
-### Điều 7.7.LQ.26. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ
+a) Chỉ đạo việc xây dựng và tổ chức thực hiện quy hoạch hệ thống thủy lợi tại địa phương;
+
+b) ***(được bãi bỏ)***
+
+c) Tăng cường quản lý, kiểm tra việc thực hiện các quy định về sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp.
+
+Chương VI
+
+SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG HOẠT ĐỘNG DỊCH VỤ VÀ HỘ GIA ĐÌNH
 
 Điều 7.7.LQ.26. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000600002600000000000000000
+Chủ khách sạn, siêu thị, nhà hàng, cửa hàng, cơ sở vui chơi giải trí, thể dục, thể thao và các cơ sở hoạt động dịch vụ khác có trách nhiệm:
 
-**ID:** dk_00010063
+1. Thực hiện sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng, chiếu sáng, quản lý phương tiện, thiết bị;
 
----
+2. Hạn chế sử dụng thiết bị công suất lớn, tiêu thụ nhiều điện năng vào giờ cao điểm trong chiếu sáng, trang trí, quảng cáo;
 
-
-### Điều 7.7.LQ.27. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hộ gia đình
+3. Kiểm soát, duy tu, bảo dưỡng phương tiện, thiết bị sử dụng năng lượng để giảm tổn thất năng lượng trong hoạt động dịch vụ.
 
 Điều 7.7.LQ.27. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hộ gia đình
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000600002700000000000000000
+Nhà nước khuyến khích hộ gia đình thực hiện các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả sau đây:
 
-**ID:** dk_00010064
+1. Thiết kế, xây dựng nhà ở có khả năng tận dụng ánh sáng và thông gió tự nhiên;
 
----
+2. Sử dụng vật liệu cách nhiệt, thiết bị gia dụng là sản phẩm tiết kiệm năng lượng; tăng cường sử dụng phương tiện, thiết bị sử dụng năng lượng tái tạo;
 
+3. Hạn chế sử dụng thiết bị điện công suất lớn, tiêu thụ nhiều điện năng vào giờ cao điểm;
 
-### Điều 7.7.LQ.28. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ, hộ gia đình
+4. Xây dựng nếp sống, thói quen tiết kiệm năng lượng trong sử dụng thiết bị chiếu sáng và gia dụng.
 
 Điều 7.7.LQ.28. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ, hộ gia đình
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000600002800000000000000000
+1. Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm hướng dẫn thực hiện các quy định của Luật này về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ, hộ gia đình.
 
-**ID:** dk_00010065
+2. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các quy định sau đây:
 
----
+a) Tuyên truyền, vận động cơ sở dịch vụ, hộ gia đình thực hiện các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả;
 
+b) Quản lý việc thực hiện các quy định về sử dụng năng lượng tiết kiệm và hiệu quả của cơ sở hoạt động dịch vụ tại địa phương;
 
-### Điều 7.7.LQ.29. Sử dụng năng lượng tiết kiệm và hiệu quả trong dự án đầu tư từ vốn nhà nước
+c) Vận động hộ gia đình thực hiện mô hình hộ gia đình sử dụng năng lượng tiết kiệm và hiệu quả; hưởng ứng các hoạt động về sử dụng năng lượng tiết kiệm.
+
+Chương VII
+
+SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG DỰ ÁN ĐẦU TƯ, CƠ QUAN, ĐƠN VỊ SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC
 
 Điều 7.7.LQ.29. Sử dụng năng lượng tiết kiệm và hiệu quả trong dự án đầu tư từ vốn nhà nước
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000700002900000000000000000
-
-**ID:** dk_00010067
-
----
-
-
-### Điều 7.7.LQ.30. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ quan, đơn vị sử dụng ngân sách nhà nước
+Chủ đầu tư dự án mới, dự án cải tạo cơ sở hạ tầng, công trình xây dựng có sử dụng vốn nhà nước phải thực hiện các quy định của Luật này phù hợp với từng lĩnh vực hoạt động và các quy định khác của pháp luật có liên quan về sử dụng năng lượng tiết kiệm và hiệu quả trong tất cả các giai đoạn thực hiện dự án.
 
 Điều 7.7.LQ.30. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ quan, đơn vị sử dụng ngân sách nhà nước
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000700003000000000000000000
+1. Hằng năm, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo cơ quan, đơn vị sử dụng ngân sách nhà nước trực thuộc xây dựng và tổ chức thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả, bao gồm mục tiêu, biện pháp, định mức về sử dụng năng lượng đối với trụ sở làm việc, công trình xây dựng trực thuộc và báo cáo tình hình tiêu thụ năng lượng; xây dựng và thực hiện Quy chế tiết kiệm năng lượng nội bộ, bảo đảm vận hành phương tiện, thiết bị sử dụng năng lượng phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật.
 
-**ID:** dk_00010068
+2. Cơ quan, đơn vị có cơ sở sử dụng năng lượng trọng điểm phải thực hiện kiểm toán năng lượng.
 
----
-
-
-### Điều 7.7.LQ.31. Trách nhiệm của người đứng đầu cơ quan, đơn vị sử dụng ngân sách nhà nước về thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả
+3. Ủy ban nhân dân cấp tỉnh tổ chức thanh tra, kiểm tra và xử lý vi phạm đối với hoạt động sử dụng năng lượng tiết kiệm và hiệu quả của cơ quan, đơn vị sử dụng ngân sách nhà nước trong phạm vi quản lý.
 
 Điều 7.7.LQ.31. Trách nhiệm của người đứng đầu cơ quan, đơn vị sử dụng ngân sách nhà nước về thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000700003100000000000000000
+1. Hằng năm, xây dựng kế hoạch, biện pháp thực hiện tiết kiệm năng lượng; ban hành quy chế sử dụng năng lượng của cơ quan, đơn vị.
 
-**ID:** dk_00010069
+2. Đăng ký kế hoạch sử dụng năng lượng với cơ quan quản lý nhà nước về năng lượng tại địa phương; phổ biến kế hoạch, biện pháp và quy chế thực hiện kế hoạch sử dụng năng lượng đến toàn thể cán bộ, công chức, viên chức.
 
----
+3. Tổ chức kiểm tra, đánh giá và áp dụng hình thức khen thưởng, kỷ luật đối với cán bộ, công chức, viên chức trực thuộc cơ quan, đơn vị trong việc thực hiện kế hoạch sử dụng năng lượng.
 
+Chương VIII
 
-### Điều 7.7.LQ.32. Cơ sở sử dụng năng lượng trọng điểm
+QUẢN LÝ VIỆC SỬ DỤNG NĂNG LƯỢNG CỦA CƠ SỞ SỬ DỤNG NĂNG LƯỢNG TRỌNG ĐIỂM
 
 Điều 7.7.LQ.32. Cơ sở sử dụng năng lượng trọng điểm
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000800003200000000000000000
+1. Cơ sở sử dụng năng lượng trọng điểm là cơ sở sử dụng năng lượng hằng năm với khối lượng lớn theo quy định của Chính phủ.
 
-**ID:** dk_00010071
-
----
-
-
-### Điều 7.7.LQ.33. Trách nhiệm của cơ sở sử dụng năng lượng trọng điểm
+2. Ủy ban nhân dân cấp tỉnh xây dựng, ban hành danh sách cơ sở sử dụng năng lượng trọng điểm trên địa bàn một năm một lần và gửi Bộ Công Thương tổng hợp.
 
 Điều 7.7.LQ.33. Trách nhiệm của cơ sở sử dụng năng lượng trọng điểm
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000800003300000000000000000
+1. Ngoài việc thực hiện các quy định tại Luật này đối với lĩnh vực hoạt động có liên quan, cơ sở sử dụng năng lượng trọng điểm còn có trách nhiệm:
 
-**ID:** dk_00010072
+a) Xây dựng và thực hiện kế hoạch hằng năm và năm năm về sử dụng năng lượng tiết kiệm và hiệu quả phù hợp với kế hoạch sản xuất, kinh doanh; báo cáo cơ quan nhà nước có thẩm quyền tại địa phương kết quả thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả;
 
----
+b) Xây dựng chế độ trách nhiệm đối với tập thể, cá nhân liên quan đến việc thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả;
 
+c) Chỉ định người quản lý năng lượng theo quy định tại Điều 35 của Luật này;
 
-### Điều 7.7.LQ.34. Kiểm toán năng lượng đối với cơ sở sử dụng năng lượng trọng điểm
+d) Ba năm một lần thực hiện việc kiểm toán năng lượng bắt buộc;
+
+đ) Áp dụng mô hình quản lý năng lượng theo quy định của Bộ trưởng Bộ Công Thương. Tổ chức duy trì hệ thống đo đếm đáp ứng tiêu chuẩn, bảo đảm tính chính xác của số liệu nhằm theo dõi, giám sát tình trạng sử dụng năng lượng, thống kê tình hình tiêu thụ, sử dụng các dạng năng lượng, lập bảng cân bằng năng lượng của cơ sở;
+
+e) Thực hiện quy định về sử dụng năng lượng tiết kiệm và hiệu quả trong xây dựng mới, cải tạo, mở rộng cơ sở.
+
+2. Bộ trưởng Bộ Công Thương ban hành quy định về xây dựng và thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả hằng năm và năm năm, quy định mẫu báo cáo định kỳ hằng năm và năm năm, áp dụng mô hình quản lý năng lượng phù hợp đối với cơ sở sử dụng năng lượng trọng điểm.
 
 Điều 7.7.LQ.34. Kiểm toán năng lượng đối với cơ sở sử dụng năng lượng trọng điểm
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000800003400000000000000000
+1. Cơ sở sử dụng năng lượng trọng điểm phải thực hiện chế độ kiểm toán năng lượng bằng hình thức tự kiểm toán hoặc thuê tổ chức kiểm toán năng lượng thực hiện.
 
-**ID:** dk_00010073
+2. Tổ chức kiểm toán năng lượng phải có đủ các điều kiện sau đây:
 
----
+a) Là pháp nhân thành lập theo quy định của pháp luật;
 
+b) Có đội ngũ kiểm toán viên năng lượng được cấp chứng chỉ kiểm toán viên năng lượng;
 
-### Điều 7.7.TT.19.3. Nguyên tắc đào tạo và đào tạo lại
+c) Có phương tiện, thiết bị kỹ thuật phục vụ cho việc kiểm toán năng lượng.
+
+3. Cơ sở sử dụng năng lượng trọng điểm tự thực hiện chế độ kiểm toán năng lượng khi có đủ các điều kiện quy định tại điểm b và điểm c khoản 2 Điều này.
+
+4. Bộ trưởng Bộ Công Thương ban hành quy định việc thực hiện kiểm toán năng lượng; nội dung, chương trình đào tạo, kiểm tra, giám sát, thẩm quyền cấp, công nhận, thu hồi chứng chỉ kiểm toán viên năng lượng do đơn vị đào tạo cấp.
 
 Điều 7.7.TT.19.3. Nguyên tắc đào tạo và đào tạo lại
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530000300
+ 1. Hoạt động đào tạo, đào tạo lại được thực hiện nhằm nâng cao năng lực chuyên môn, cập nhật kiến thức mới cho các tổ chức, cá nhân hoạt động trong lĩnh vực sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00010074
+ 2. Việc đào tạo, đào tạo lại phải đảm bảo tính thiết thực, phù hợp với trình độ, yêu cầu nhiệm vụ và tiêu chuẩn của từng vị trí công việc.
 
----
+ 3. Chương trình đào tạo phải đảm bảo tính thống nhất với quy định của pháp luật, tiêu chuẩn, quy chuẩn, đồng thời luôn cập nhật các giải pháp công nghệ tiên tiến và đáp ứng yêu cầu hội nhập quốc tế.(Điều này có nội dung liên quan đến Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm)
 
+Điều 7.7.TT.19.4. Nội dung và hình thức đào tạo
 
-### Điều 7.7.TT.19.4. Nội dung và hình thức đào tạo
+(Điều 4 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-*Nội dung chưa có sẵn*
+ 1. Đối với quản lý năng lượng, nội dung đào tạo bao gồm:
 
-**Chỉ mục:** 4
+ a) Kiến thức pháp luật về sử dụng năng lượng tiết kiệm và hiệu quả;
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530000400
+ b) Các công nghệ, thiết bị và giải pháp tiết kiệm năng lượng;
 
-**ID:** dk_00010075
+ c) Phương pháp xây dựng và vận hành hệ thống quản lý năng lượng;
 
----
+ d) Quy trình xây dựng, triển khai và giám sát kế hoạch sử dụng năng lượng;
 
+ đ) Quản lý, vận hành hệ thống đo đếm, thu thập và phân tích số liệu;
 
-### Điều 7.7.TT.19.5. Chương trình và tài liệu đào tạo
+ e) Phương pháp báo cáo và cơ chế phối hợp với các cơ quan quản lý.
 
-*Nội dung chưa có sẵn*
+ 2. Đối với kiểm toán viên năng lượng, nội dung đào tạo bao gồm:
 
-**Chỉ mục:** 5
+ a) Kiến thức pháp luật về sử dụng năng lượng tiết kiệm và hiệu quả;
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530000500
+ b) Các công nghệ, thiết bị và giải pháp tiết kiệm năng lượng;
 
-**ID:** dk_00010076
+ c) Quy trình và phương pháp kiểm toán năng lượng;
 
----
+ d) Tiêu chuẩn, quy chuẩn và công nghệ liên quan;
 
+ đ) Phân tích hiệu quả năng lượng và đề xuất giải pháp về sử dụng năng lượng tiết kiệm và hiệu quả;
 
-### Điều 7.7.TT.19.14. Điều kiện tham gia các khóa đào tạo kiểm toán viên năng lượng
+ e) Tính toán hiệu quả đầu tư cho các giải pháp tiết kiệm năng lượng.
+
+ 3. Hình thức đào tạo
+
+ Cơ sở đào tạo tổ chức đào tạo theo hình thức trực tiếp, trực tuyến hoặc kết hợp trực tiếp và trực tuyến, đảm bảo phù hợp với điều kiện cơ sở vật chất, thời gian đào tạo và chương trình đào tạo quy định tại Điều 5 của Thông tư này.(Điều này có nội dung liên quan đến Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm)
+
+Điều 7.7.TT.19.5. Chương trình và tài liệu đào tạo
+
+(Điều 5 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
+
+ 1. Bộ Công Thương quy định chương trình, tài liệu đào tạo và đào tạo lại, cùng bộ đề đánh giá năng lực đối với chương trình đào tạo quản lý năng lượng; chương trình, tài liệu và bộ đề đánh giá năng lực đối với chương trình đào tạo kiểm toán viên năng lượng.
+
+ 2. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công định kỳ rà soát, đánh giá và cập nhật chương trình, tài liệu đào tạo, đào tạo lại và bộ đề đánh giá năng lực quản lý năng lượng và kiểm toán viên năng lượng đảm bảo phù hợp với yêu cầu thực tiễn. 
+
+ (Điều này có nội dung liên quan đến Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm)
 
 Điều 7.7.TT.19.14. Điều kiện tham gia các khóa đào tạo kiểm toán viên năng lượng
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 53 /2025/TT-BCT Quy định về đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng ngày 14/11/2025 của Bộ công thương, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530001400
+ Đối tượng tham gia khóa đào tạo kiểm toán viên năng lượng phải có bằng tốt nghiệp cao đẳng trở lên thuộc chuyên ngành năng lượng hoặc kỹ thuật có liên quan.Điều 7.7.TT.19.15. Thực hiện đào tạo và cấp chứng chỉ kiểm toán viên năng lượng
 
-**ID:** dk_00010077
+(Điều 15 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
----
+ 1. Cơ sở đào tạo thông báo tuyển sinh rộng rãi trên các phương tiện thông tin đại chúng và niêm yết tại cơ sở đào tạo. Nội dung thông báo tuyển sinh phải bao gồm:
 
+ a) Mục đích, yêu cầu của khóa đào tạo;
 
-### Điều 7.7.TT.19.15. Thực hiện đào tạo và cấp chứng chỉ kiểm toán viên năng lượng
+ b) Nội dung chương trình, thời gian đào tạo, phương thức đào tạo, địa điểm, kinh phí và các thông tin cần thiết khác của khóa đào tạo.
 
-Điều 7.7.TT.19.15. Thực hiện đào tạo và cấp chứng chỉ kiểm toán viên năng lượng
+ 2. Cơ sở đào tạo thực hiện đào tạo và tổ chức đánh giá năng lực theo đúng nội dung chương trình và bộ đề đánh giá năng lực kiểm toán viên năng lượng do Bộ Công Thương ban hành.
 
-**Chỉ mục:** 15
+ 3. Căn cứ vào kết quả đánh giá năng lực, cơ sở đào tạo cấp chứng chỉ kiểm toán viên năng lượng cho các học viên đạt yêu cầu theo quy định của Bộ Công Thương.
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530001500
+ 4. Cơ sở đào tạo được thu học phí của học viên theo quy định của pháp luật.
 
-**ID:** dk_00010078
+ 5. Cơ sở đào tạo có trách nhiệm lưu hồ sơ học viên, hồ sơ đào tạo và thực hiện cấp chứng chỉ kiểm toán viên năng lượng theo đúng quy định.
 
----
+ 6. Mẫu chứng chỉ kiểm toán viên năng lượng được quy định tại Phụ lục 2 kèm theo Thông tư này.Điều 7.7.TT.19.16. Thu hồi chứng chỉ kiểm toán viên năng lượng
 
+(Điều 16 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.TT.19.16. Thu hồi chứng chỉ kiểm toán viên năng lượng
+ 1. Trong trường hợp người được cấp chứng chỉ kiểm toán viên năng lượng sử dụng không đúng mục đích, vi phạm quy định pháp luật hoặc không đủ năng lực thực hiện công việc được giao, sẽ bị xử lý theo quy định và bị thu hồi chứng chỉ kiểm toán viên năng lượng. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công và cơ sở đào tạo đã cấp chứng chỉ có thẩm quyền thu hồi chứng chỉ kiểm toán viên năng lượng đã cấp.
 
-Điều 7.7.TT.19.16. Thu hồi chứng chỉ kiểm toán viên năng lượng
+ 2. Trong trường hợp phát hiện quá trình đào tạo hoặc thi đánh giá kiểm toán viên năng lượng không thực hiện đúng theo quy định, Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công có thẩm quyền thu hồi chứng chỉ kiểm toán viên năng lượng đã cấp.Điều 7.7.TT.19.17. Công nhận chứng chỉ kiểm toán viên năng lượng
 
-**Chỉ mục:** 16
+(Điều 17 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530001600
+ Người có chứng chỉ kiểm toán viên năng lượng do các tổ chức có thẩm quyền của nước ngoài cấp, mà Việt Nam có hiệp ước công nhận lẫn nhau, thì được công nhận tại Việt Nam theo quy định của pháp luật.
 
-**ID:** dk_00010079
+ Điều 7.7.TT.19.18. Giám sát, kiểm tra quá trình đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng
 
----
+(Điều 18 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
+ 1. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công có trách nhiệm giám sát quá trình đào tạo, đánh giá năng lực của cơ sở đào tạo, kiểm tra hoạt động đào tạo, công tác quản lý và việc cấp giấy chứng nhận, cấp chứng chỉ đối với các cơ sở đào tạo quản lý năng lượng và kiểm toán viên năng lượng.
 
-### Điều 7.7.TT.19.17. Công nhận chứng chỉ kiểm toán viên năng lượng
+ 2. Trước ngày 31 tháng 12 hằng năm, cơ sở đào tạo quản lý năng lượng và kiểm toán viên năng lượng có trách nhiệm báo cáo kết quả thực hiện công tác đào tạo, cấp chứng chỉ về Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công, Bộ Công Thương.
 
-Điều 7.7.TT.19.17. Công nhận chứng chỉ kiểm toán viên năng lượng
+ 3. Hằng năm, Cục trưởng Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công lập và thực hiện kế hoạch giám sát, kiểm tra các cơ sở đào tạo quản lý năng lượng và kiểm toán viên năng lượng; cập nhật danh sách các cơ sở đào tạo đủ điều kiện và loại bỏ khỏi danh sách những cơ sở đào tạo không đủ điều kiện.(Điều này có nội dung liên quan đến Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm)
 
-**Chỉ mục:** 17
+Điều 7.7.TT.19.19. Lưu trữ hồ sơ
 
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530001700
+(Điều 19 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**ID:** dk_00010080
+ 1. Cơ sở đào tạo quản lý năng lượng, kiểm toán viên năng lượng có trách nhiệm lưu trữ hồ sơ các khóa đào tạo theo quy định của pháp luật về lưu trữ, bao gồm:
 
----
+ a) Hồ sơ nhập học của học viên và danh sách học viên được cấp giấy chứng nhận đã tham gia khóa đào tạo của từng khóa học;
 
+ b) Danh sách giảng viên tham gia giảng dạy cho mỗi khóa học;
 
-### Điều 7.7.TT.19.18. Giám sát, kiểm tra quá trình đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng
+ c) Sổ quản lý việc cấp giấy chứng nhận đào tạo quản lý năng lượng, cấp chứng chỉ quản lý năng lượng (đối với tổ chức được ủy quyền cấp) và cấp chứng chỉ kiểm toán viên năng lượng.
 
-Điều 7.7.TT.19.18. Giám sát, kiểm tra quá trình đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng
+ 2. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công có trách nhiệm lưu trữ hồ sơ cấp chứng chỉ quản lý năng lượng và hồ sơ cấp lại chứng chỉ quản lý năng lượng theo quy định của pháp luật về lưu trữ.
 
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530001800
-
-**ID:** dk_00010081
-
----
-
-
-### Điều 7.7.TT.19.19. Lưu trữ hồ sơ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 070070000000000080000340000000000000000000802929300530001900
-
-**ID:** dk_00010082
-
----
-
-
-### Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm
+ (Điều này có nội dung liên quan đến Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm)
 
 Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000800003500000000000000000
+1. Người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm phải có đủ các điều kiện sau đây:
 
-**ID:** dk_00010083
+a) Có bằng tốt nghiệp cao đẳng trở lên về chuyên ngành năng lượng hoặc ngành kỹ thuật liên quan đối với cơ sở sử dụng năng lượng trọng điểm trong sản xuất công nghiệp, công trình xây dựng, hoạt động dịch vụ; có bằng tốt nghiệp từ trung cấp kỹ thuật liên quan trở lên đối với cơ sở sử dụng năng lượng trọng điểm trong sản xuất nông nghiệp, giao thông vận tải;
 
----
+b) Có chứng chỉ quản lý năng lượng do cơ quan có thẩm quyền cấp.
 
+2. Người quản lý năng lượng có trách nhiệm giúp người đứng đầu cơ sở sử dụng năng lượng trọng điểm thực hiện các nhiệm vụ sau:
 
-### Điều 7.7.TT.19.6. Điều kiện tham gia các khóa đào tạo quản lý năng lượng
+a) Xây dựng kế hoạch hằng năm và năm năm về sử dụng năng lượng tiết kiệm và hiệu quả;
+
+b) Tổ chức mạng lưới quản lý hoạt động sử dụng năng lượng, áp dụng mô hình quản lý năng lượng;
+
+c) Thực hiện biện pháp sử dụng năng lượng tiết kiệm và hiệu quả theo mục tiêu và kế hoạch đã được phê duyệt;
+
+d) Kiểm tra, giám sát việc thực hiện biện pháp sử dụng năng lượng tiết kiệm và hiệu quả; theo dõi, giám sát nhu cầu, định mức sử dụng năng lượng;
+
+đ) Theo dõi nhu cầu tiêu thụ năng lượng của thiết bị và toàn bộ dây chuyền sản xuất; sự biến động của nhu cầu tiêu thụ năng lượng liên quan đến việc lắp đặt mới, cải tạo, sửa chữa thiết bị sử dụng năng lượng; thực hiện chế độ báo cáo định kỳ theo quy định;
+
+e) Tổ chức thông tin, tuyên truyền, đào tạo, tập huấn trong hoạt động sử dụng năng lượng.
+
+3 Bộ trưởng Bộ Công Thương quy định nội dung; chương trình đào tạo; kiểm tra, giám sát; thẩm quyền, ủy quyền cấp, công nhận, cấp lại, thu hồi chứng chỉ quản lý năng lượng; thời hạn chứng chỉ quản lý năng lượng. Bộ Công Thương công khai kế hoạch, danh sách tổ chức đào tạo trên Cổng thông tin điện tử của Bộ.
+
+(Điều này có nội dung liên quan đến Điều 7.7.TT.19.3. Nguyên tắc đào tạo và đào tạo lại; Điều 7.7.TT.19.4. Nội dung và hình thức đào tạo; Điều 7.7.TT.19.5. Chương trình và tài liệu đào tạo; Điều 7.7.TT.19.18. Giám sát, kiểm tra quá trình đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng; Điều 7.7.TT.19.19. Lưu trữ hồ sơ)
 
 Điều 7.7.TT.19.6. Điều kiện tham gia các khóa đào tạo quản lý năng lượng
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530000600
+ Người tham gia khóa đào tạo quản lý năng lượng phải có bằng tốt nghiệp cao đẳng trở lên về chuyên ngành năng lượng hoặc ngành kỹ thuật liên quan đối với cơ sở sử dụng năng lượng trọng điểm trong sản xuất công nghiệp, công trình xây dựng, hoạt động dịch vụ; có bằng tốt nghiệp từ trung cấp kỹ thuật liên quan trở lên đối với cơ sở sử dụng năng lượng trọng điểm trong sản xuất nông nghiệp, giao thông vận tải.Điều 7.7.TT.19.7. Thực hiện đào tạo quản lý năng lượng
 
-**ID:** dk_00010084
+(Điều 7 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
----
+ 1. Cơ sở đào tạo thông báo tuyển sinh rộng rãi trên các phương tiện thông tin đại chúng và niêm yết tại cơ sở đào tạo. Nội dung thông báo tuyển sinh bao gồm:
 
+ a) Mục đích, yêu cầu của khóa đào tạo;
 
-### Điều 7.7.TT.19.7. Thực hiện đào tạo quản lý năng lượng
+ b) Nội dung chương trình, thời gian, hình thức đào tạo, địa điểm, kinh phí và các thông tin cần thiết khác của khóa đào tạo.
 
-Điều 7.7.TT.19.7. Thực hiện đào tạo quản lý năng lượng
+ 2. Cơ sở đào tạo gửi văn bản đến Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công trước ngày khai giảng 10 ngày làm việc, thông tin về mục đích, thời gian đào tạo, hình thức đào tạo, địa điểm, số lượng học viên, giảng viên tham gia khóa đào tạo. Trường hợp có thay đổi kế hoạch, cơ sở đào tạo phải kịp thời thông báo cho Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công.
 
-**Chỉ mục:** 7
+ 3. Cơ sở đào tạo thực hiện đào tạo theo đúng nội dung chương trình do Bộ Công Thương ban hành và cấp giấy chứng nhận hoàn thành khoá đào tạo quản lý năng lượng cho học viên theo quy định.
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530000700
+ 4. Cơ sở đào tạo được thu học phí của học viên theo quy định của pháp luật.
 
-**ID:** dk_00010085
+ 5. Cơ sở đào tạo có trách nhiệm tổ chức đánh giá năng lực cho các học viên tham gia khóa đào tạo trong vòng 05 ngày kể từ khi kết thúc khóa đào tạo. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công giám sát quá trình tổ chức đánh giá năng lực của cơ sở đào tạo.
 
----
+ 6. Cơ sở đào tạo có trách nhiệm báo cáo Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công bằng văn bản về quá trình đào tạo tại cơ sở và đề nghị cấp chứng chỉ quản lý năng lượng cho các học viên đủ điều kiện trong thời hạn 15 ngày làm việc kể từ ngày hoàn thành đánh giá năng lực.Điều 7.7.TT.19.8. Hồ sơ cấp chứng chỉ quản lý năng lượng
 
+(Điều 8 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.TT.19.8. Hồ sơ cấp chứng chỉ quản lý năng lượng
+ Hồ sơ đề nghị cấp chứng chỉ quản lý năng lượng gồm:
 
-Điều 7.7.TT.19.8. Hồ sơ cấp chứng chỉ quản lý năng lượng
+ 1. Công văn đề nghị cấp chứng chỉ quản lý năng lượng và báo cáo kết quả thực hiện khóa đào tạo quản lý năng lượng của cơ sở đào tạo.
 
-**Chỉ mục:** 8
+ 2. Danh sách học viên tham dự khóa đào tạo (bao gồm đầy đủ các thông tin: họ và tên; ngày, tháng, năm sinh; số căn cước/căn cước công dân/hộ chiếu; đơn vị công tác; số điện thoại; địa chỉ thư điện tử).
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530000800
+ 3. Bản sao Giấy chứng nhận hoàn thành khóa đào tạo quản lý năng lượng của học viên.
 
-**ID:** dk_00010086
+ 4. Kết quả đánh giá năng lực học viên.
 
----
+ 5. Bản sao bằng cấp của học viên tham gia khóa đào tạo.
 
+ 6. 01 ảnh cỡ 3x4 cm của học viên tham gia khóa đào tạo.Điều 7.7.TT.19.9. Trình tự, thủ tục cấp chứng chỉ, công nhận chứng chỉ quản lý năng lượng
 
-### Điều 7.7.TT.19.9. Trình tự, thủ tục cấp chứng chỉ, công nhận chứng chỉ quản lý năng lượng
+(Điều 9 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-Điều 7.7.TT.19.9. Trình tự, thủ tục cấp chứng chỉ, công nhận chứng chỉ quản lý năng lượng
+1. Cơ sở đào tạo gửi 01 bộ hồ sơ cấp chứng chỉ quản lý năng lượng theo quy định tại khoản 1 Điều 8 đến Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công theo đường bưu điện, nộp trực tiếp hoặc nộp trực tuyến trên Cổng Dịch vụ công Quốc gia.
 
-**Chỉ mục:** 9
+2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công xem xét, quyết định cấp chứng chỉ quản lý năng lượng cho học viên có hồ sơ và kết quả đánh giá năng lực đạt yêu cầu theo quy định của Bộ Công Thương.
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530000900
+Mẫu chứng chỉ quản lý năng lượng được quy định tại Phụ lục 1 ban hành kèm theo Thông tư này.
 
-**ID:** dk_00010087
+3. Người có chứng chỉ quản lý năng lượng do các tổ chức có thẩm quyền của nước ngoài cấp hoặc tổ chức quốc tế cấp, mà Việt Nam có hiệp ước công nhận lẫn nhau, thì được công nhận chứng chỉ quản lý năng lượng tại Việt Nam theo quy định của pháp luật.
 
----
+4. Chứng chỉ quản lý năng lượng có thời hạn 05 năm kể từ ngày cấp.
 
-
-### Điều 7.7.TT.19.10. Thu hồi chứng chỉ quản lý năng lượng
+Phu Luc 1 TT 53.docx
 
 Điều 7.7.TT.19.10. Thu hồi chứng chỉ quản lý năng lượng
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530001000
+ Trong quá trình kiểm tra, giám sát, trường hợp phát hiện chứng chỉ quản lý năng lượng được sử dụng không đúng mục đích, vi phạm quy định, hoặc người được cấp chứng chỉ quản lý năng lượng không đảm bảo năng lực, không đáp ứng được yêu cầu công việc theo quy định, Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công quyết định thu hồi chứng chỉ quản lý năng lượng.Điều 7.7.TT.19.11. Thực hiện đào tạo lại, cấp lại chứng chỉ quản lý năng lượng khi hết hạn
 
-**ID:** dk_00010088
+(Điều 11 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
----
+ 1. Đào tạo lại quản lý năng lượng
 
+ a) Trước khi chứng chỉ quản lý năng lượng hết hạn, cá nhân có nhu cầu cấp lại chứng chỉ quản lý năng lượng phải đăng ký tham gia và hoàn thành khóa đào tạo bồi dưỡng, cập nhật kiến thức quản lý năng lượng theo quy định.
 
-### Điều 7.7.TT.19.11. Thực hiện đào tạo lại, cấp lại chứng chỉ quản lý năng lượng khi hết hạn
+ b) Cơ sở đào tạo tổ chức đào tạo theo đúng nội dung chương trình đào tạo lại do Bộ Công Thương ban hành.
 
-Điều 7.7.TT.19.11. Thực hiện đào tạo lại, cấp lại chứng chỉ quản lý năng lượng khi hết hạn
+ c) Cơ sở đào tạo có trách nhiệm tổ chức đánh giá năng lực cho các học viên trong thời hạn 03 ngày làm việc sau khi kết thúc khóa đào tạo. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công thực hiện giám sát quá trình tổ chức đánh giá năng lực cho các học viên tham gia khoá đào tạo lại của cơ sở đào tạo.
 
-**Chỉ mục:** 11
+ d) Cơ sở đào tạo có trách nhiệm báo cáo Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công bằng văn bản về quá trình đào tạo lại và đề nghị cấp lại chứng chỉ quản lý năng lượng cho các học viên đủ điều kiện trong thời hạn 15 ngày làm việc sau khi hoàn thành đánh giá năng lực cho các học viên.
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530001100
+ 2. Hồ sơ cấp lại chứng chỉ quản lý năng lượng gồm:
 
-**ID:** dk_00010089
+ a) Công văn đề nghị cấp lại chứng chỉ quản lý năng lượng kèm theo báo cáo kết quả thực hiện đào tạo lại của cơ sở đào tạo;
 
----
+ b) Danh sách học viên tham dự khóa đào tạo lại (bao gồm đầy đủ các thông tin: họ và tên; ngày, tháng, năm sinh; số căn cước/căn cước công dân/hộ chiếu; đơn vị công tác; số điện thoại; địa chỉ thư điện tử);
 
+ c) Kết quả đánh giá năng lực của học viên;
 
-### Điều 7.7.TT.19.12. Cấp đổi, cấp lại chứng chỉ quản lý năng lượng khi chưa hết hạn
+ d) Bản sao chứng chỉ quản lý năng lượng của học viên đã được cấp trước đây;
 
-Điều 7.7.TT.19.12. Cấp đổi, cấp lại chứng chỉ quản lý năng lượng khi chưa hết hạn
+ đ) 01 ảnh cỡ 3x4 cm của học viên tham gia khóa đào tạo lại.
 
-**Chỉ mục:** 12
+ 3. Cấp lại chứng chỉ quản lý năng lượng
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530001200
+ a) Cơ sở đào tạo gửi 01 bộ hồ sơ đề nghị cấp lại chứng chỉ quản lý năng lượng theo quy định tại khoản 2 Điều này đến Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công bằng đường bưu điện, nộp trực tiếp hoặc nộp trực tuyến qua Cổng Dịch vụ công Quốc gia.
 
-**ID:** dk_00010090
+ b) Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công xem xét, quyết định cấp lại chứng chỉ quản lý năng lượng cho học viên có hồ sơ và kết quả đánh giá năng lực đáp ứng quy định của Bộ Công Thương. Thời hạn chứng chỉ cấp lại là 05 năm kể từ ngày cấp.
 
----
+ 4. Trường hợp chứng chỉ quản lý năng lượng đã hết hạn, cá nhân có nhu cầu cấp chứng chỉ quản lý năng lượng phải tham gia khóa đào tạo quản lý năng lượng theo quy định tại Điều 7 Thông tư này.Điều 7.7.TT.19.12. Cấp đổi, cấp lại chứng chỉ quản lý năng lượng khi chưa hết hạn
 
+(Điều 12 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.TT.19.13. Ủy quyền cấp chứng chỉ quản lý năng lượng
+ 1. Trường hợp chứng chỉ quản lý năng lượng bị rách, hỏng hoặc bị mất, người đã được cấp chứng chỉ quản lý năng lượng có quyền đề nghị đổi hoặc cấp lại chứng chỉ.
 
-Điều 7.7.TT.19.13. Ủy quyền cấp chứng chỉ quản lý năng lượng
+ 2. Hồ sơ đề nghị đổi, cấp lại chứng chỉ quản lý năng lượng bao gồm:
 
-**Chỉ mục:** 13
+ a) Đơn đề nghị đổi, cấp lại chứng chỉ (nêu rõ lý do đề nghị);
 
-**Mã phân cấp:** 070070000000000080000350000000000000000000802929300530001300
+ b) 01 ảnh cỡ 3x4 cm.
 
-**ID:** dk_00010091
+ 3. Người đề nghị đổi, cấp lại chứng chỉ quản lý năng lượng nộp hồ sơ đến Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công bằng đường bưu điện, nộp trực tiếp hoặc nộp trực tuyến trên Cổng Dịch vụ công Quốc gia.
 
----
+ 4. Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công xem xét, quyết định việc cấp đổi hoặc cấp lại chứng chỉ quản lý năng lượng cho người đề nghị.Điều 7.7.TT.19.13. Ủy quyền cấp chứng chỉ quản lý năng lượng
 
+(Điều 13 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.LQ.36. Trách nhiệm quản lý nhà nước đối với cơ sở sử dụng năng lượng trọng điểm
+ Trường hợp ủy quyền cấp chứng chỉ quản lý năng lượng, Bộ Công Thương thực hiện việc ủy quyền theo quy định của Luật Tổ chức Chính phủ và các văn bản pháp luật có liên quan.
 
-Điều 7.7.LQ.36. Trách nhiệm quản lý nhà nước đối với cơ sở sử dụng năng lượng trọng điểm
+ Điều 7.7.LQ.36. Trách nhiệm quản lý nhà nước đối với cơ sở sử dụng năng lượng trọng điểm
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000800003600000000000000000
+1. Cơ quan nhà nước có thẩm quyền về quản lý năng lượng có trách nhiệm:
 
-**ID:** dk_00010092
+a) Kiểm tra thường xuyên tình hình sử dụng năng lượng của cơ sở sử dụng năng lượng trọng điểm; tổ chức tiếp nhận, lưu trữ báo cáo sử dụng năng lượng tiết kiệm và hiệu quả hằng năm và năm năm của các cơ sở theo quy định;
 
----
+b) Căn cứ báo cáo định kỳ về sử dụng năng lượng của cơ sở sử dụng năng lượng trọng điểm quy định tại Điều 33 của Luật này, yêu cầu, hướng dẫn cơ sở điều chỉnh kế hoạch hằng năm, kế hoạch năm năm về sử dụng năng lượng tiết kiệm và hiệu quả, định mức sử dụng năng lượng cho phù hợp với kế hoạch sản xuất, kinh doanh của đơn vị.
 
+2. Cơ sở sử dụng năng lượng trọng điểm không thực hiện quy định tại các điều 33, 34 và 35 của Luật này và các quy định khác của pháp luật có liên quan về sử dụng năng lượng tiết kiệm và hiệu quả thì bị xử lý theo quy định của pháp luật.
 
-### Điều 7.7.LQ.37. Biện pháp quản lý sử dụng năng lượng tiết kiệm và hiệu quả đối với phương tiện, thiết bị và vật liệu xây dựng
+Chương IX
+
+QUẢN LÝ PHƯƠNG TIỆN, THIẾT BỊ SỬ DỤNG NĂNG LƯỢNG VÀ VẬT LIỆU XÂY DỰNG
 
 Điều 7.7.LQ.37. Biện pháp quản lý sử dụng năng lượng tiết kiệm và hiệu quả đối với phương tiện, thiết bị và vật liệu xây dựng
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000900003700000000000000000
+Nhà nước áp dụng các biện pháp quản lý sử dụng năng lượng tiết kiệm và hiệu quả sau đây đối với phương tiện, thiết bị:
 
-**ID:** dk_00010094
+1. Xây dựng và công bố tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu của phương tiện, thiết bị sử dụng năng lượng;
 
----
+2. Dán nhãn năng lượng đối với phương tiện, thiết bị sử dụng năng lượng và vật liệu xây dựng;
 
+3. Công bố thông tin cần thiết về sử dụng năng lượng của phương tiện, thiết bị và vật liệu xây dựng;
 
-### Điều 7.7.LQ.38. Xây dựng, công bố tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu
+4. Loại bỏ phương tiện, thiết bị dưới mức hiệu suất năng lượng tối thiểu;
+
+5. Xử lý các hành vi vi phạm quy định tại Điều này.
 
 Điều 7.7.LQ.38. Xây dựng, công bố tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000000900003800000000000000000
+1. Việc xây dựng tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu đối với phương tiện, thiết bị sử dụng năng lượng phải bảo đảm các yêu cầu sau đây:
 
-**ID:** dk_00010095
+a) Thực hiện mục tiêu tiết kiệm năng lượng và bảo vệ môi trường;
 
----
+b) Phù hợp với yêu cầu phát triển kinh tế - xã hội, trình độ khoa học và công nghệ của đất nước, đáp ứng yêu cầu hội nhập khu vực và quốc tế;
 
+c) Khuyến khích đầu tư nghiên cứu, sản xuất, cung cấp cho thị trường sản phẩm có hiệu suất năng lượng cao, tiết kiệm năng lượng.
 
-### Điều 7.7.LQ.39. Dán nhãn năng lượng
+2. Bộ Khoa học và Công nghệ công bố năm năm một lần tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.LQ.39. Dán nhãn năng lượng
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000000900003900000000000000000
+1. Phương tiện, thiết bị và vật liệu xây dựng thuộc danh mục phương tiện, thiết bị và vật liệu xây dựng phải dán nhãn năng lượng phải được dán nhãn trước khi đưa ra thị trường.
 
-**ID:** dk_00010096
+2. Cơ sở sản xuất, doanh nghiệp nhập khẩu, phân phối, kinh doanh phương tiện, thiết bị và vật liệu xây dựng, bao gồm cả trên nền tảng thương mại điện tử, phải thực hiện công bố, dán nhãn năng lượng đối với phương tiện, thiết bị và vật liệu xây dựng sau khi phương tiện, thiết bị và vật liệu xây dựng được thử nghiệm, đánh giá sự phù hợp với tiêu chuẩn quốc gia về hiệu suất năng lượng theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, pháp luật về đo lường.
 
----
+3. Bộ trưởng Bộ Công Thương, Bộ trưởng Bộ Xây dựng trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm:
 
+a) Xây dựng, ban hành danh mục phương tiện, thiết bị và vật liệu xây dựng phải dán nhãn năng lượng và lộ trình thực hiện thuộc phạm vi quản lý của Bộ;
 
-### Điều 7.7.TT.18.2. Danh mục phương tiện, thiết bị phải thực hiện dán nhãn năng lượng
+b) Quy định nội dung, quy cách nhãn năng lượng;
+
+c) Quy định phòng thử nghiệm có đủ điều kiện được cấp giấy chứng nhận thử nghiệm phù hợp với tiêu chuẩn hiệu suất năng lượng;
+
+d) Hướng dẫn, công bố việc dán nhãn năng lượng đối với phương tiện, thiết bị và vật liệu xây dựng thuộc phạm vi quản lý của Bộ;
+
+đ) Quy định việc công nhận nhãn năng lượng của phương tiện, thiết bị nhập khẩu.
+
+4. Ủy ban nhân dân cấp tỉnh xây dựng kế hoạch hằng năm tổ chức triển khai thanh tra, kiểm tra việc tuân thủ quy định của pháp luật về dán nhãn năng lượng phương tiện, thiết bị và vật liệu xây dựng trong sản xuất, kinh doanh, phân phối trên địa bàn.
 
 Điều 7.7.TT.18.2. Danh mục phương tiện, thiết bị phải thực hiện dán nhãn năng lượng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 52/2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 070070000000000090000390000000000000000000802929300520000200
+ Danh mục phương tiện, thiết bị thực hiện dán nhãn năng lượng chia thành các nhóm thiết bị như sau:
 
-**ID:** dk_00010097
+ 1. Nhóm thiết bị gia dụng gồm: Đèn huỳnh quang ống thẳng, đèn huỳnh quang compact, chấn lưu điện từ và điện tử cho bóng đèn huỳnh quang, máy điều hòa không khí, tủ lạnh, máy giặt gia dụng, nồi cơm điện, quạt điện, máy thu hình, đèn LED, bình đun nước nóng có dự trữ, bếp từ, bếp hồng ngoại, lò vi sóng;
 
----
+ 2. Nhóm thiết bị văn phòng và thương mại gồm: Máy photocopy, máy in, màn hình máy tính, máy tính xách tay, máy tính để bàn, tủ giữ lạnh thương mại, máy điều hòa không khí thương mại;
 
+ 3. Nhóm thiết bị công nghiệp gồm: Máy biến áp phân phối, động cơ điện, đèn điện LED chiếu sáng đường và phố.Điều 7.7.TT.18.3. Lộ trình thực hiện dán nhãn năng lượng
 
-### Điều 7.7.TT.18.3. Lộ trình thực hiện dán nhãn năng lượng
+(Điều 3 Thông tư số 52/2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-Điều 7.7.TT.18.3. Lộ trình thực hiện dán nhãn năng lượng
+ 1. Đối với nhóm thiết bị gia dụng và nhóm thiết bị công nghiệp
 
-**Chỉ mục:** 3
+ a) Thực hiện dán nhãn năng lượng bắt buộc đối với các thiết bị gia dụng và nhóm thiết bị công nghiệp sau: Đèn huỳnh quang ống thẳng, đèn huỳnh quang compact, chấn lưu điện từ và điện tử cho đèn huỳnh quang, máy điều hòa không khí, tủ lạnh, máy giặt gia dụng, nồi cơm điện, quạt điện, máy thu hình, đèn LED, bình đun nước nóng có dự trữ, máy biến áp phân phối, động cơ điện;
 
-**Mã phân cấp:** 070070000000000090000390000000000000000000802929300520000300
+ b) Thực hiện dán nhãn năng lượng tự nguyện đến hết ngày 31 tháng 12 năm 2026 đối với: bếp từ, bếp hồng ngoại, lò vi sóng, đèn điện LED chiếu sáng đường và phố;
 
-**ID:** dk_00010098
+ c) Thực hiện dán nhãn năng lượng bắt buộc từ ngày 01 tháng 01 năm 2027 đối với: bếp từ, bếp hồng ngoại, lò vi sóng, đèn điện LED chiếu sáng đường và phố;
 
----
+ 2. Đối với nhóm thiết bị văn phòng và thương mại
 
+ a) Thực hiện dán nhãn năng lượng bắt buộc đối với máy tính xách tay, tủ giữ lạnh thương mại;
 
-### Điều 7.7.TT.18.4. Tổ chức thực hiện
+ b) Thực hiện dán nhãn năng lượng tự nguyện đối với: máy photocopy, màn hình máy tính, máy in, máy điều hòa không khí thương mại;
 
-*Nội dung chưa có sẵn*
+ c) Thực hiện dán nhãn năng lượng tự nguyện đến hết ngày 31 tháng 12 năm 2026 đối với máy tính để bàn;
 
-**Chỉ mục:** 4
+ d) Thực hiện dán nhãn năng lượng bắt buộc từ ngày 01 tháng 01 năm 2027 đối với máy tính để bàn.
 
-**Mã phân cấp:** 070070000000000090000390000000000000000000802929300520000400
+ 3. Khuyến khích thực hiện việc dán nhãn năng lượng tự nguyện đối với phương tiện, thiết bị không thuộc danh mục quy định tại Điều 2 Thông tư này đã có tiêu chuẩn quốc gia quy định mức hiệu suất năng lượng đồng thời có khả năng thử nghiệm trong nước.Điều 7.7.TT.18.4. Tổ chức thực hiện
 
-**ID:** dk_00010099
+(Điều 4 Thông tư số 52/2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
----
+ 1. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công, Bộ Công Thương có trách nhiệm hướng dẫn, kiểm tra, giám sát việc dán nhãn năng lượng cho các nhóm phương tiện, thiết bị phải dán nhãn năng lượng tại Điều 3 Thông tư này;
 
+ 2. Ủy ban nhân dân cấp tỉnh chỉ đạo các cơ quan chuyên môn liên quan kiểm tra, giám sát việc thực hiện dán nhãn năng lượng phương tiện, thiết bị trên địa bàn thuộc danh mục theo lộ trình quy định tại Thông tư này.Điều 7.7.LQ.40. Quản lý phương tiện, thiết bị dưới mức hiệu suất năng lượng tối thiểu
 
-### Điều 7.7.LQ.40. Quản lý phương tiện, thiết bị dưới mức hiệu suất năng lượng tối thiểu
+(Điều 40 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-Điều 7.7.LQ.40. Quản lý phương tiện, thiết bị dưới mức hiệu suất năng lượng tối thiểu
+1. Dự án thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả được xem xét, hỗ trợ kinh phí từ chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**Chỉ mục:** 40
+2. Tổ chức, cá nhân đầu tư sản xuất sản phẩm, vật liệu tiết kiệm năng lượng; đầu tư nâng cấp, cải tạo dây chuyền sản xuất, mở rộng quy mô sản xuất bằng công nghệ tiết kiệm năng lượng, dự án đầu tư vào cơ sở tiết kiệm năng lượng, sản xuất, lắp đặt máy móc, thiết bị hoặc vật liệu tiết kiệm năng lượng, dự án nhằm tối ưu hóa việc sử dụng năng lượng hoặc giảm phát thải khí nhà kính được ưu đãi, hỗ trợ như sau:
 
-**Mã phân cấp:** 0700700000000000900004000000000000000000
+a) Ưu đãi theo quy định của pháp luật về đất đai;
 
-**ID:** dk_00010100
+b) Được vay vốn ưu đãi và hỗ trợ theo quy định của pháp luật từ Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả, Ngân hàng Phát triển Việt Nam, Quỹ Đổi mới công nghệ quốc gia, Quỹ Bảo vệ môi trường; được hỗ trợ từ Chương trình quốc gia phát triển công nghệ cao, Chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả;
 
----
+c) Ưu đãi khác theo quy định của Luật này và quy định khác của pháp luật có liên quan;
 
+d) Hỗ trợ hoạt động kỹ thuật bao gồm: kiểm toán năng lượng, nghiên cứu, tư vấn, thiết kế, chuyên gia tư vấn kỹ thuật, ứng dụng công nghệ tiết kiệm năng lượng.
 
-### Điều 7.7.LQ.41. Ưu đãi đối với hoạt động sử dụng năng lượng tiết kiệm và hiệu quả
+3.  Chính phủ quy định việc khuyến khích tổ chức, doanh nghiệp đầu tư, mở rộng, nâng cấp, cải tạo, chuyển đổi sang công nghệ tiết kiệm năng lượng, giảm phát thải khí nhà kính; đầu tư và chuyển đổi sang sản xuất sản phẩm tiết kiệm năng lượng, giảm phát thải khí nhà kính thông qua cơ chế hỗ trợ tín dụng xanh, phát hành trái phiếu xanh.
+
+4. Chính phủ xây dựng cơ chế khuyến khích, giải pháp hỗ trợ thúc đẩy ứng dụng quá trình chuyển đổi phù hợp với cuộc cách mạng công nghệ, chuyển đổi số trong sản xuất, chế biến công nghiệp; thúc đẩy đổi mới sáng tạo trong lĩnh vực sử dụng năng lượng tiết kiệm và hiệu quả.
+
+Chương X
+
+BIỆN PHÁP THÚC ĐẨY SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ
 
 Điều 7.7.LQ.41. Ưu đãi đối với hoạt động sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000001000004100000000000000000
+1. Dự án thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả được xem xét, hỗ trợ kinh phí từ chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00010102
+2. Tổ chức, cá nhân đầu tư sản xuất sản phẩm tiết kiệm năng lượng; đầu tư dây chuyền sản xuất, mở rộng quy mô sản xuất bằng công nghệ tiết kiệm năng lượng được ưu đãi, hỗ trợ như sau:
 
----
+a) Các ưu đãi về thuế xuất khẩu, thuế nhập khẩu, thuế thu nhập doanh nghiệp theo quy định của pháp luật về thuế;
 
+b) Các ưu đãi theo quy định của pháp luật về đất đai;
 
-### Điều 41a. Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả
+c) Được vay vốn ưu đãi từ Ngân hàng phát triển, Quỹ hỗ trợ phát triển khoa học và công nghệ, Quỹ đổi mới công nghệ quốc gia, Quỹ bảo vệ môi trường và được hỗ trợ từ Chương trình quốc gia phát triển công nghệ cao, Chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả;
+
+d) Các ưu đãi khác theo quy định của Luật này và pháp luật có liên quan.
+
+3. Phương tiện, thiết bị, phụ tùng, vật tư phục vụ cho hoạt động nghiên cứu phát triển công nghệ tiết kiệm năng lượng; sản phẩm tiết kiệm năng lượng, các loại phương tiện giao thông tiết kiệm nhiên liệu, sử dụng khí hoá lỏng, khí thiên nhiên, điện, nhiên liệu hỗn hợp, sinh học mà trong nước chưa sản xuất được và thuộc danh mục do Chính phủ quy định được miễn, giảm thuế nhập khẩu theo quy định của pháp luật về thuế.
 
 Điều 41a. Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 41a
+1. Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả là Quỹ tài chính nhà nước ngoài ngân sách, hoạt động không vì mục đích lợi nhuận.
 
-**Mã phân cấp:** 0700700000000001000004150000000000000000
+2. Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả được hoạt động huy động vốn, cho vay, đầu tư, ủy thác và nhận ủy thác để thực hiện chức năng thúc đẩy hoạt động sử dụng năng lượng tiết kiệm và hiệu quả trên địa bàn cả nước. 
 
-**ID:** dk_00010103
+3. Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả có mục tiêu hỗ trợ, tài trợ cho dự án, nhiệm vụ, hoạt động thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả với cơ chế linh hoạt theo yêu cầu của nhà tài trợ và quy định của pháp luật hiện hành.
 
----
+4. Thủ tướng Chính phủ quyết định việc thành lập, tổ chức và hoạt động của Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả theo hướng xã hội hóa, bảo đảm độc lập về tài chính, không trùng lặp với nguồn thu, nhiệm vụ chi của ngân sách nhà nước và hạn chế việc làm tăng chi phí hoạt động sản xuất, kinh doanh cho doanh nghiệp, cơ sở sản xuất, kinh doanh. 
 
-
-### Điều 7.7.LQ.42. Phát triển khoa học và công nghệ sử dụng năng lượng tiết kiệm và hiệu quả
+5. Chính phủ quy định nguồn vốn của Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả.
 
 Điều 7.7.LQ.42. Phát triển khoa học và công nghệ sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000001000004200000000000000000
+1. Nhà nước khuyến khích, tạo điều kiện thuận lợi cho tổ chức, cá nhân nghiên cứu khoa học, ứng dụng và phát triển công nghệ sử dụng năng lượng tiết kiệm và hiệu quả.
 
-**ID:** dk_00010104
+2. Bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí kinh phí và xây dựng các chương trình nghiên cứu khoa học, công nghệ sử dụng năng lượng tiết kiệm và hiệu quả.
 
----
+3. Hoạt động nghiên cứu khoa học, ứng dụng và phát triển công nghệ về sử dụng năng lượng tiết kiệm và hiệu quả được ưu tiên bao gồm:
 
+a) Ứng dụng và phát triển công nghệ nhằm nâng cao hiệu suất năng lượng trong các ngành công nghiệp, xây dựng, nông nghiệp, giao thông vận tải;
 
-### Điều 7.7.LQ.43. Tuyên truyền, giáo dục sử dụng năng lượng tiết kiệm và hiệu quả; phát triển dịch vụ năng lượng
+b) Ứng dụng giải pháp công nghệ để chế tạo mới phương tiện, thiết bị sử dụng năng lượng hiệu suất cao; cải tiến, đổi mới, nâng cấp thiết bị sử dụng năng lượng;
+
+c) Ứng dụng giải pháp sử dụng năng lượng tiết kiệm và hiệu quả vào thiết kế, thi công công trình xây dựng, sản xuất vật liệu xây dựng;
+
+d) Phát triển công nghệ đồng phát nhiệt điện, nâng cao hệ số sử dụng của tổ máy tuabin nhiệt; giải pháp công nghệ làm tăng hệ số sử dụng năng lượng nhiệt tổng hợp;
+
+đ) Phát triển và sử dụng công nghệ than sạch, khí hóa than, hóa lỏng nhiên liệu khí có hiệu suất năng lượng cao, giảm ô nhiễm môi trường;
+
+e) Nghiên cứu phát triển các dạng năng lượng thay thế nhiên liệu truyền thống.
 
 Điều 7.7.LQ.43. Tuyên truyền, giáo dục sử dụng năng lượng tiết kiệm và hiệu quả; phát triển dịch vụ năng lượng
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000001000004300000000000000000
+Nhà nước khuyến khích, tạo điều kiện thuận lợi cho tổ chức, cá nhân thực hiện các hoạt động sau đây:
 
-**ID:** dk_00010105
+1. Tổ chức hoạt động tuyên truyền, vận động nhằm nâng cao nhận thức, thực hiện các quy định của pháp luật về sử dụng năng lượng tiết kiệm và hiệu quả;
 
----
+2. Lồng ghép nội dung giáo dục về sử dụng năng lượng tiết kiệm và hiệu quả trong nhà trường với hình thức phù hợp;
 
+3. Tổ chức dịch vụ năng lượng thực hiện các hoạt động sau đây:
 
-### Điều 7.7.LQ.44. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả
+a) Kiểm toán năng lượng;
+
+b) Chuyển giao công nghệ tiết kiệm năng lượng, công nghệ thân thiện với môi trường;
+
+c) Đào tạo kiểm toán viên năng lượng, người quản lý năng lượng, tư vấn áp dụng mô hình quản lý năng lượng tiên tiến;
+
+d) Tư vấn, đầu tư thực hiện biện pháp tiết kiệm năng lượng, thực hiện hợp đồng hiệu quả năng lượng đối với cơ sở sử dụng năng lượng;
+
+đ) Cung cấp thông tin, quảng bá về sử dụng năng lượng tiết kiệm và hiệu quả;
+
+e) Dịch vụ khác về sử dụng năng lượng tiết kiệm và hiệu quả;
+
+4. Chính phủ quy định điều kiện đầu tư kinh doanh kiểm toán năng lượng; xây dựng cơ chế hỗ trợ, khuyến khích để hình thành hệ thống tổ chức dịch vụ năng lượng.
+
+5. Bộ trưởng Bộ Công Thương quy định về công tác kiểm tra, giám sát đối với đơn vị hoạt động trong lĩnh vực dịch vụ năng lượng, kiểm toán năng lượng, đào tạo kiểm toán viên năng lượng và người quản lý năng lượng; hướng dẫn yêu cầu kỹ thuật, biểu mẫu thông báo đối với tổ chức dịch vụ năng lượng. Bộ Công Thương công khai danh sách tổ chức, cá nhân hoạt động trong lĩnh vực dịch vụ năng lượng trên Cổng thông tin điện tử của Bộ.
+
+Chương XI
+
+TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ
 
 Điều 7.7.LQ.44. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000001100004400000000000000000
+1. Chính phủ thống nhất quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong phạm vi cả nước.
 
-**ID:** dk_00010107
+2. Bộ Công thương chịu tránh nhiệm trước Chính phủ thực hiện quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả.
 
----
+3. Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả theo phân công của Chính phủ.
 
-
-### Điều 7.7.LQ.45. Trách nhiệm của Bộ Công thương về sử dụng năng lượng tiết kiệm và hiệu quả
+4. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả theo phân cấp của Chính phủ.
 
 Điều 7.7.LQ.45. Trách nhiệm của Bộ Công thương về sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000001100004500000000000000000
+1. Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật, chiến lược, quy hoạch, chính sách, chương trình, kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả và tổ chức thực hiện theo phân công của Chính phủ.
 
-**ID:** dk_00010108
+2. Chủ trì, phối hợp với các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh trong hoạt động quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả.
 
----
+3. Tổ chức hệ thống cơ sở dữ liệu năng lượng quốc gia.
 
+4. Tham gia tuyên truyền, giáo dục pháp luật về sử dụng năng lượng tiết kiệm và hiệu quả.
 
-### Điều 7.7.LQ.46. Trách nhiệm của Ủy ban nhân dân cấp tỉnh về sử dụng năng lượng tiết kiệm và hiệu quả
+5. Tổ chức nghiên cứu khoa học, ứng dụng và chuyển giao công nghệ trong lĩnh vực sử dụng năng lượng tiết kiệm và hiệu quả.
+
+6. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động sử dụng năng lượng tiết kiệm và hiệu quả theo quy định của pháp luật.
 
 Điều 7.7.LQ.46. Trách nhiệm của Ủy ban nhân dân cấp tỉnh về sử dụng năng lượng tiết kiệm và hiệu quả
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Luật số 77/2025/QH15 có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000001100004600000000000000000
+1. Xây dựng kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả phù hợp với kế hoạch phát triển kinh tế - xã hội của địa phương, gửi kế hoạch năm năm về Bộ Công Thương để tổng hợp.
 
-**ID:** dk_00010109
+2. Tổ chức thực hiện cơ chế, chính sách, kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả.
 
----
+3. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động sử dụng năng lượng tiết kiệm và hiệu quả tại địa phương theo quy định của pháp luật.
 
+4. Báo cáo kết quả thực hiện mục tiêu sử dụng năng lượng tiết kiệm và hiệu quả hằng năm và trong từng giai đoạn năm năm gửi Bộ Công Thương tổng hợp, báo cáo Thủ tướng Chính phủ.
 
-### Điều 7.7.LQ.47. Hiệu lực thi hành
+Chương XII
 
-*Nội dung chưa có sẵn*
+ĐIỀU KHOẢN THI HÀNH
 
-**Chỉ mục:** 47
+Điều 7.7.LQ.47. Hiệu lực thi hành
 
-**Mã phân cấp:** 0700700000000001200004700000000000000000
+(Điều 47 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**ID:** dk_00010111
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011.
 
----
+Điều 7.7.LQ.2a. Hiệu lực thi hành
 
+(Điều 2a Luật số 77/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Sử dụng năng lượng tiết kiệm và hiệu quả ngày 18/06/2025 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2026 )
 
-### Điều 7.7.LQ.2a. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2a
-
-**Mã phân cấp:** 0700700000000001200004710236640050000021
-
-**ID:** dk_00010112
-
----
-
-
-### Điều 7.7.LQ.48. Quy định chi tiết và hướng dẫn thi hành
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
 
 Điều 7.7.LQ.48. Quy định chi tiết và hướng dẫn thi hành
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 50/2010/QH12, có hiệu lực thi hành kể từ ngày 01/01/2011)
 
-**Mã phân cấp:** 0700700000000001200004800000000000000000
+Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước./.
 
-**ID:** dk_00010113
+*Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010.*
 
----
+Điều 7.7.LQ.3a. Điều khoản chuyển tiếp
 
+(Điều 3a Luật số 77/2025/QH15, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.LQ.3a. Điều khoản chuyển tiếp
+Chứng chỉ quản lý năng lượng được cấp trước ngày Luật này có hiệu lực thi hành có giá trị đến hết ngày 31 tháng 12 năm 2030.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.NĐ.1.35. Hiệu lực thi hành
 
-**Chỉ mục:** 3a
+(Điều 35 Nghị định số 21/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2011)
 
-**Mã phân cấp:** 0700700000000001200004810236640050000031
+1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 5 năm 2011.
 
-**ID:** dk_00010114
+2. Nghị định này thay thế Nghị định số 102/2003/NĐ-CP ngày 03 tháng 9 năm 2003 của Chính phủ về sử dụng năng lượng tiết kiệm và hiệu quả.
 
----
+Điều 7.7.NĐ.1.36. Trách nhiệm thi hành
 
+(Điều 36 Nghị định số 21/2011/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2011)
 
-### Điều 7.7.NĐ.1.35. Hiệu lực thi hành
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.QĐ.1.3. Tổ chức thực hiện
 
-**Chỉ mục:** 35
+(Điều 3 Quyết định số 68/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/02/2012)
 
-**Mã phân cấp:** 0700700000000001200004840239490021000350
+1. Bộ Công Thương chủ trì, phối hợp với các Bộ, ngành liên quan tổ chức thực hiện quyết định này; báo cáo Thủ tướng Chính phủ kết quả thực hiện, các vấn đề vướng mắc cần giải quyết; trình Thủ tướng Chính phủ bổ sung, điều chỉnh Danh mục phương tiện, thiết bị tiết kiệm năng lượng được trang bị, mua sắm áp dụng đối với cơ quan, đơn vị sử dụng ngân sách nhà nước.
 
-**ID:** dk_00010115
+2. Bộ Khoa học và Công nghệ chủ trì, phối hợp với các Bộ, ngành liên quan xây dựng và ban hành tiêu chuẩn hiệu suất năng lượng và mức hiệu suất năng lượng tối thiểu của các phương tiện, thiết bị có số thứ tự từ 10 đến 13 trước ngày 21 tháng 12 năm 2012.
 
----
+3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo triển khai, giám sát việc thực hiện việc mua sắm phương tiện, thiết bị tiết kiệm năng lượng tại các đơn vị trên địa bàn quản lý, các đơn vị trực thuộc; có hình thức khen thưởng và xử lý vi phạm kịp thời.
 
+Điều 7.7.QĐ.1.4. Hiệu lực thi hành
 
-### Điều 7.7.NĐ.1.36. Trách nhiệm thi hành
+(Điều 4 Quyết định số 68/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/02/2012)
 
-*Nội dung chưa có sẵn*
+1. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2012.
 
-**Chỉ mục:** 36
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương; Thủ trưởng các cơ quan, đơn vị sử dụng ngân sách nhà nước, tổ chức và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-**Mã phân cấp:** 0700700000000001200004840239490021000360
+Điều 7.7.QĐ.2.5. Tổ chức thực hiện
 
-**ID:** dk_00010116
+(Điều 5 Quyết định số 04/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/04/2017)
 
----
+1. Bộ Công Thương có trách nhiệm:
 
+a) Hướng dẫn, kiểm tra, giám sát việc dán nhãn năng lượng cho các nhóm phương tiện, thiết bị phải dán nhãn năng lượng tại các khoản 1, 2 Điều 2 Quyết định này;
 
-### Điều 7.7.QĐ.1.3. Tổ chức thực hiện
+b) Chủ trì, phối hợp với các bộ, ngành liên quan trình Thủ tướng Chính phủ bổ sung danh mục các phương tiện, thiết bị sử dụng năng lượng phải dán nhãn năng lượng;
 
-*Nội dung chưa có sẵn*
+c) Xây dựng và triển khai các giải pháp hỗ trợ thực hiện lộ trình dán nhãn năng lượng quy định tại Điều 4 Quyết định này.
 
-**Chỉ mục:** 3
+2. Bộ Giao thông vận tải có trách nhiệm, hướng dẫn, kiểm tra, giám sát việc dán nhãn năng lượng cho các phương tiện, thiết bị quy định tại khoản 3 Điều 2 Quyết định này.
 
-**Mã phân cấp:** 0700700000000001200004850242070068000030
+3. Bộ Khoa học và Công nghệ có trách nhiệm:
 
-**ID:** dk_00010117
+a) Chủ trì, phối hợp với các bộ, ngành liên quan xây dựng và ban hành các tiêu chuẩn quốc gia về hiệu suất năng lượng và mức hiệu suất năng lượng tối thiểu của các phương tiện, thiết bị phù hợp với lộ trình dán nhãn năng lượng;
 
----
+b) Ban hành tiêu chuẩn hiệu suất năng lượng cho các phương tiện, thiết bị thuộc danh mục phương tiện, thiết bị phải dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu phù hợp với lộ trình thực hiện quy định tại Điều 2 và Điều 3 Quyết định này;
 
+c) Soát xét và công bố 05 năm một lần tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu.
 
-### Điều 7.7.QĐ.1.4. Hiệu lực thi hành
+4. Bộ Tài chính có trách nhiệm:
 
-*Nội dung chưa có sẵn*
+a) Chủ trì, phối hợp với các Bộ: Kế hoạch và Đầu tư, Công Thương quy định cơ chế hỗ trợ từ ngân sách để thực hiện lộ trình dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu;
 
-**Chỉ mục:** 4
+b) Chủ trì, phối hợp với các cơ quan liên quan hướng dẫn thủ tục nhập khẩu phương tiện, thiết bị phải dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu.
 
-**Mã phân cấp:** 0700700000000001200004850242070068000040
+5. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chỉ đạo các cơ quan chuyên môn, cơ quan tiết kiệm năng lượng tại địa phương phối hợp với các Bộ, ngành liên quan kiểm tra, giám sát việc thực hiện dán nhãn năng lượng và áp dụng mức hiệu suất năng lượng tối thiểu của các phương tiện, thiết bị trên địa bàn thuộc danh mục theo lộ trình quy định tại Quyết định này.
 
-**ID:** dk_00010118
+Điều 7.7.QĐ.2.6. Hiệu lực thi hành
 
----
+(Điều 6 Quyết định số 04/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 25/04/2017)
 
+1. Quyết định này có hiệu lực thi hành từ ngày 25 tháng 4 năm 2017 và thay thế Quyết định số 51/2011/QĐ-TTg ngày 12 tháng 9 năm 2011 của Thủ tướng Chính phủ quy định danh mục phương tiện, thiết bị phải dán nhãn năng lượng, áp dụng mức hiệu suất năng lượng tối thiểu và lộ trình thực hiện, Quyết định số 03/2013/QĐ-TTg ngày 14 tháng 01 năm 2013 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của Quyết định số 51/2011/QĐ-TTg ngày 12 tháng 9 năm 2011 của Thủ tướng Chính phủ.
 
-### Điều 7.7.QĐ.2.5. Tổ chức thực hiện
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, Thủ trưởng các cơ quan, đơn vị, tổ chức và cá nhân liên quan có trách nhiệm thi hành Quyết định này.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.QĐ.3.5. Tổ chức thực hiện
 
-**Chỉ mục:** 5
+(Điều 5 Quyết định số 24/2018/QĐ-TTg, có hiệu lực thi hành kể từ ngày 10/07/2018)
 
-**Mã phân cấp:** 0700700000000001200004850261210004000050
+1. Bộ Khoa học và Công nghệ có trách nhiệm
 
-**ID:** dk_00010119
+a) Chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương tổ chức hướng dẫn xây dựng và triển khai các giải pháp hỗ trợ thực hiện loại bỏ các phương tiện, thiết bị sử dụng năng lượng phải loại bỏ, các tổ máy phát điện hiệu suất thấp không được xây dựng mới quy định tại Quyết định này.
 
----
+b) Chủ trì, phối hợp với các bộ, ngành liên quan xây dựng tiêu chuẩn quốc gia về hiệu suất năng lượng và mức hiệu suất năng lượng tối thiểu của các phương tiện, thiết bị sử dụng nhiều năng lượng.
 
+c) Căn cứ vào tình hình phát triển kinh tế - xã hội và yêu cầu quản lý nhà nước trong quá trình thực hiện, chủ động phối hợp với các bộ, ngành liên quan rà soát trình Thủ tướng Chính phủ quyết định sửa đổi, bổ sung hoặc thay thế Danh mục phương tiện, thiết bị sử dụng năng lượng có hiệu suất thấp phải loại bỏ và các tổ máy phát điện hiệu suất thấp không được xây dựng mới.
 
-### Điều 7.7.QĐ.2.6. Hiệu lực thi hành
+2. Bộ Công Thương có trách nhiệm chủ trì, phối hợp với Bộ Khoa học và Công nghệ kiểm tra, thanh tra việc tuân thủ các quy định về loại bỏ phương tiện, thiết bị sử dụng năng lượng phải loại bỏ và các tổ máy phát điện hiệu suất thấp không được xây dựng mới quy định tại Quyết định này.
 
-*Nội dung chưa có sẵn*
+3. Các bộ, ngành, địa phương căn cứ vào chức năng, nhiệm vụ và thẩm quyền quản lý của mình, chủ trì thực hiện việc loại bỏ các phương tiện, thiết bị sử dụng năng lượng và các tổ máy phát điện hiệu suất thấp không được xây dựng mới.
 
-**Chỉ mục:** 6
+Điều 7.7.QĐ.3.6. Điều khoản thi hành
 
-**Mã phân cấp:** 0700700000000001200004850261210004000060
+(Điều 6 Quyết định số 24/2018/QĐ-TTg, có hiệu lực thi hành kể từ ngày 10/07/2018)
 
-**ID:** dk_00010120
+1. Quyết định này có hiệu lực thi hành từ ngày 10 tháng 7 năm 2018.
 
----
+Quyết định số 78/2013/QĐ-TTg ngày 25 tháng 12 năm 2013 của Thủ tướng Chính phủ ban hành Danh mục và lộ trình phương tiện, thiết bị sử dụng năng lượng phải loại bỏ và các tổ máy phát điện hiệu suất thấp không được xây dựng mới hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực.
 
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, Thủ trưởng cơ quan, đơn vị, tổ chức và cá nhân liên quan có trách nhiệm thi hành Quyết định này.
 
-### Điều 7.7.QĐ.3.5. Tổ chức thực hiện
+Điều 7.7.TT.2.7. Trách nhiệm của các cơ quan
 
-*Nội dung chưa có sẵn*
+(Điều 7 Thông tư số 64/2011/TT-BGTVT, có hiệu lực thi hành kể từ ngày 09/02/2012)
 
-**Chỉ mục:** 5
+1. Vụ Môi trường 
 
-**Mã phân cấp:** 0700700000000001200004850265560024000050
+a) Đôn đốc, giám sát, tổng hợp tình hình thực hiện pháp luật về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải, hàng năm báo cáo Lãnh đạo Bộ kết quả thực hiện.
 
-**ID:** dk_00010121
+b) Tham mưu, đề xuất kết hợp nguồn kinh phí để triển khai các đề án, dự án nghiên cứu ứng dụng khoa học, công nghệ, ứng dụng năng lượng mới nhằm nâng cao hiệu quả sử dụng năng lượng trong hoạt động giao thông vận tải theo các quy định hiện hành
 
----
+2. Vụ Vận tải 
 
+Tham mưu, đề xuất cơ chế, chính sách khuyến khích phát triển vận tải công cộng; các biện pháp điều tiết nhu cầu vận tải giữa các phương thức vận tải; hạn chế phương tiện có năng lực thông qua thấp, tiêu tốn nhiều nhiên liệu; thúc đẩy phát triển phương thức vận tải sử dụng năng lượng tiết kiệm và hiệu quả.
 
-### Điều 7.7.QĐ.3.6. Điều khoản thi hành
+3. Cục Đăng kiểm Việt Nam 
 
-*Nội dung chưa có sẵn*
+a) Xây dựng và trình Bộ Giao thông vận tải ban hành quy chuẩn kỹ thuật quốc gia về mức tiêu thụ nhiên liệu đối với một số loại phương tiện giao thông vận tải phù hợp với từng thời kỳ theo quy định tại Điểm a Khoản 4 Điều 33 Nghị định số 21/2011/NĐ-CP của Chính phủ.
 
-**Chỉ mục:** 6
+b) Tổ chức kiểm tra, thử nghiệm, chứng nhận mức tiêu thụ nhiên liệu theo quy chuẩn kỹ thuật quốc gia đối với kiểu loại phương tiện giao thông vận tải sản xuất, lắp ráp và nhập khẩu.
 
-**Mã phân cấp:** 0700700000000001200004850265560024000060
+c) Thực hiện kiểm định an toàn kỹ thuật và bảo vệ môi trường; kiểm tra việc tuân thủ quy định về niên hạn sử dụng phương tiện giao thông do cơ quan nhà nước có thẩm quyền ban hành.
 
-**ID:** dk_00010122
+4. Tổng cục đường bộ Việt Nam, các Cục: Hàng không Việt Nam, Hàng hải Việt Nam, Đường sắt Việt Nam, Đường thủy nội địa Việt Nam:
 
----
+a) Thực hiện các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong công tác tổ chức, điều hành hệ thống giao thông vận tải theo phân cấp.
 
+b) Tổ chức kiểm tra, giám sát việc thực hiện quy định về sử dụng năng lượng tiết kiệm và hiệu quả của các đơn vị trong phạm vi quản lý; hàng năm báo cáo Bộ Giao thông vận tải kết quả thực hiện.
 
-### Điều 7.7.TT.2.7. Trách nhiệm của các cơ quan
+5. Các Sở Giao thông vận tải 
 
-*Nội dung chưa có sẵn*
+a) Tổ chức hướng dẫn, phân luồng giao thông nhằm hạn chế ùn tắc, giảm cự ly vận tải; phát triển và nâng cao hiệu quả khai thác các tuyến vận tải công cộng; tùy theo điều kiện từng khu vực đô thị, thúc đẩy phát triển giao thông phi cơ giới (tuyến phố đi bộ; tuyến đường dành riêng cho xe đạp …).
 
-**Chỉ mục:** 7
+b) Thực hiện các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong công tác tổ chức, điều hành hệ thống giao thông vận tải, quản lý phương tiện vận tải theo phân cấp; báo cáo Bộ Giao thông vận tải về kết quả thực hiện các quy định quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải tại địa phương.
 
-**Mã phân cấp:** 0700700000000001200004880242210064000070
+Điều 7.7.TT.2.8. Hiệu lực thi hành
 
-**ID:** dk_00010123
+(Điều 8 Thông tư số 64/2011/TT-BGTVT, có hiệu lực thi hành kể từ ngày 09/02/2012)
 
----
+1. Thông tư này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký.
 
+2. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Cục trưởng các Cục, Giám đốc Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-### Điều 7.7.TT.2.8. Hiệu lực thi hành
+Điều 7.7.TT.3.15. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 15 Thông tư số 09/2012/TT-BCT, có hiệu lực thi hành kể từ ngày 05/06/2012)
 
-**Chỉ mục:** 8
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 6 năm 2012.
 
-**Mã phân cấp:** 0700700000000001200004880242210064000080
+2. Trong quá trình thực hiện nếu có vướng mắc, đề nghị các địa phương, các tổ chức, cá nhân có liên quan phản ánh về Bộ Công thương để kịp thời sửa đổi, bổ sung cho phù hợp.
 
-**ID:** dk_00010124
+Điều 7.7.TT.4.12. Trách nhiệm và tổ chức thực hiện
 
----
+(Điều 12 Thông tư số 19/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung được sửa đổi bởi Điều 10 Thông tư số 11/2017/TT-BNNPTNT có hiệu lực thi hành kể từ ngày 18/07/2017)
 
+1. Cục Kinh tế hợp tác và Phát triển nông thôn
 
-### Điều 7.7.TT.3.15. Điều khoản thi hành
+a) Là đầu mối thực hiện nhiệm vụ quản lý nhà nước của Bộ về các biện pháp sử dụng năng lượng tiết kiệm, hiệu quả trong sản xuất nông nghiệp.
 
-*Nội dung chưa có sẵn*
+b) Tổ chức triển khai, kiểm tra, giám sát việc thực hiện các biện pháp sử dụng năng lượng tiết kiệm hiệu quả.
 
-**Chỉ mục:** 15
+c) Chủ trì xây dựng, và trình Bộ phê duyệt kế hoạch thực hiện các biện pháp sử dụng năng lượng tiết kiệm, hiệu quả.
 
-**Mã phân cấp:** 0700700000000001200004880243370009000150
+2. Các Cục, Vụ, Tổng cục, Trung tâm trực thuộc Bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm tổ chức thực hiện Thông tư này.
 
-**ID:** dk_00010125
+Điều 7.7.TT.4.13. Hiệu lực thi hành
 
----
+(Điều 13 Thông tư số 19/2013/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2013.
 
-### Điều 7.7.TT.4.12. Trách nhiệm và tổ chức thực hiện
+2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để xem xét, sửa đổi, bổ sung cho phù hợp.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.5.30. Điều khoản thi hành
 
-**Chỉ mục:** 12
+(Điều 30 Thông tư số 02/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 01/06/2014)
 
-**Mã phân cấp:** 0700700000000001200004880246660019000120
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2014.
 
-**ID:** dk_00010126
+2. Trong quá trình thực hiện nếu có vướng mắc, các địa phương, các tổ chức, cá nhân có liên quan phản ánh về Bộ Công Thương để kịp thời sửa đổi, bổ sung cho phù hợp.
 
----
+Điều 7.7.TL.1.19. Hiệu lực thi hành
 
+(Điều 19 Thông tư liên tịch số 43/2014/TTLT-BGTVT-BCT, có hiệu lực thi hành kể từ ngày 01/12/2014)
 
-### Điều 7.7.TT.4.13. Hiệu lực thi hành
+1. Thông tư này có hiệu lực từ ngày 01 tháng 12 năm 2014.
 
-*Nội dung chưa có sẵn*
+2. Lộ trình áp dụng dán nhãn năng lượng:
 
-**Chỉ mục:** 13
+a) Đối với kiểu loại xe SXLR, NK mới: Áp dụng từ ngày 01 tháng 01 năm 2015.
 
-**Mã phân cấp:** 0700700000000001200004880246660019000130
+b) Các trường hợp được đăng ký tự công bố mức tiêu hao nhiên liệu và dán nhãn năng lượng quy định tại khoản 1 Điều 5 của Thông tư này: Áp dụng từ 01 tháng 01 năm 2015 đến hết ngày 31 tháng 12 năm 2016.
 
-**ID:** dk_00010127
+3. Trung tâm, phòng thử nghiệm khí thải đang thực hiện việc thử nghiệm khí thải theo QCVN 05:2009/BGTVT từ trước ngày 01 tháng 01 năm 2015 được kết hợp thử nghiệm mức tiêu thụ nhiên liệu của xe và phải đáp ứng yêu cầu quy định tại Điều 6 của Thông tư này trước ngày 01 tháng 01 năm 2016.
 
----
+4. Trường hợp các văn bản, tài liệu, tiêu chuẩn, quy chuẩn kỹ thuật dẫn chiếu trong Thông tư này có sửa đổi, bổ sung, thay thế thì áp dụng theo văn bản đã được sửa đổi, bổ sung, thay thế.
 
+Điều 7.7.TL.1.20. Trách nhiệm thi hành
 
-### Điều 7.7.TT.5.30. Điều khoản thi hành
+(Điều 20 Thông tư liên tịch số 43/2014/TTLT-BGTVT-BCT, có hiệu lực thi hành kể từ ngày 01/12/2014)
 
-*Nội dung chưa có sẵn*
+1. Thủ trưởng các cơ quan, đơn vị thuộc Bộ Giao thông vận tải, Bộ Công Thương trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện Thông tư này.
 
-**Chỉ mục:** 30
-
-**Mã phân cấp:** 0700700000000001200004880249730002000300
-
-**ID:** dk_00010128
-
----
-
-
-### Điều 7.7.TL.1.19. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 0700700000000001200004880252240043000190
-
-**ID:** dk_00010129
-
----
-
-
-### Điều 7.7.TL.1.20. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 0700700000000001200004880252240043000200
-
-**ID:** dk_00010130
-
----
-
-
-### Điều 7.7.TT.6.12. Hiệu lực thi hành1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2016.
+2. Trong quá trình thực hiện, nếu có vướng mắc phát sinh, các cơ quan, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Giao thông vận tải để trao đổi, thống nhất với Bộ Công Thương xem xét, giải quyết theo thẩm quyền.
 
 Điều 7.7.TT.6.12. Hiệu lực thi hành1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2016.
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 19/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 01/11/2016)
 
-**Mã phân cấp:** 0700700000000001200004880259450019000120
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2016.
 
-**ID:** dk_00010131
+2. Các dự án có Quyết định chủ trương đầu tư của cơ quan có thẩm quyền sau ngày Thông tư này có hiệu lực phải đáp ứng Khoản 2 Điều 5 của Thông tư này.
 
----
+3. Trong quá trình thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Công Thương để nghiên cứu, sửa đổi, bổ sung Thông tư.
 
+Điều 7.7.TT.8.14. Hiệu lực thi hành
 
-### Điều 7.7.TT.8.14. Hiệu lực thi hành
+(Điều 14 Thông tư số 36/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 10/02/2017)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này có hiệu lực từ ngày 10 tháng 02 năm 2017 và thay thế Thông tư số 07/2012/TT-BCT ngày 04 tháng 4 năm 2012 của Bộ Công Thương quy định dán nhãn năng lượng cho các phương tiện và thiết bị sử dụng năng lượng (sau đây gọi tắt là Thông tư số 07).
 
-**Chỉ mục:** 14
+2. Đối với các tổ chức thử nghiệm đã được Bộ Công Thương chỉ định theo quy định của Thông tư số 07, tổ chức thử nghiệm tiếp tục được thực hiện hoạt động cho đến khi hết thời hạn hiệu lực của Quyết định chỉ định phòng thử nghiệm.
 
-**Mã phân cấp:** 0700700000000001200004880260500036000140
+3. Đối với các doanh nghiệp sản xuất, nhập khẩu phương tiện, thiết bị đã được Bộ Công Thương chứng nhận dán nhãn năng lượng theo quy định của Thông tư số 07, doanh nghiệp được tiếp tục dán nhãn năng lượng cho các phương tiện thiết bị cho đến khi hết thời hạn hiệu lực của Quyết định chứng nhận dán nhãn năng lượng.
 
-**ID:** dk_00010132
+4. Bãi bỏ Điều 8 Thông tư số 04/2016/TT-BCT sửa đổi, bổ sung một số Thông tư của Bộ trưởng Bộ Công Thương về thủ tục hành chính trong lĩnh vực thương mại điện tử hóa chất, sản xuất kinh doanh rượu, nhượng quyền thương mại, hoạt động mua bán hàng hóa qua sở giao dịch hàng hóa, năng lượng, an toàn thực phẩm và điện lực.
 
----
+5. Trong quá trình thực hiện, nếu có vướng mắc hoặc vấn đề mới phát sinh đề nghị các tổ chức, cá nhân phản ánh về Bộ Công Thương để kịp thời xử lý.
 
+Điều 7.7.TT.9.11. Hiệu lực thi hành
 
-### Điều 7.7.TT.9.11. Hiệu lực thi hành
+(Điều 11 Thông tư số 38/2016/TT-BCT, có hiệu lực thi hành kể từ ngày 10/12/2017)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 12 năm 2017.
 
-**Chỉ mục:** 11
+2. Trong quá trình thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Công Thương để nghiên cứu, sửa đổi, bổ sung Thông tư.
 
-**Mã phân cấp:** 0700700000000001200004880260500038000110
+Điều 7.7.TT.10.7. Hiệu lực thi hành
 
-**ID:** dk_00010133
+(Điều 7 Thông tư số 40/2017/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
----
+1. Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2018.
 
+2. Lộ trình thực hiện dán nhãn năng lượng:
 
-### Điều 7.7.TT.10.7. Hiệu lực thi hành
+a) Xe SXLR, NK kể từ ngày 01 tháng 01 năm 2018 phải thực hiện dán nhãn năng lượng.
 
-*Nội dung chưa có sẵn*
+b) Các trường hợp tự công bố mức tiêu thụ nhiên liệu và dán nhãn năng lượng quy định tại khoản 1 Điều 5 của Thông tư này được thực hiện đến hết ngày 31 tháng 12 năm 2018.
 
-**Chỉ mục:** 7
+3. Trường hợp các văn bản, tài liệu, tiêu chuẩn, quy chuẩn kỹ thuật dẫn chiếu trong Thông tư này có sửa đổi, bổ sung, thay thế thì áp dụng theo văn bản đã được sửa đổi, bổ sung, thay thế.
 
-**Mã phân cấp:** 0700700000000001200004880263660040000070
+Điều 7.7.TT.10.8. Tổ chức thực hiện
 
-**ID:** dk_00010134
+(Điều 8 Thông tư số 40/2017/TT-BGTVT, có hiệu lực thi hành kể từ ngày 01/01/2018)
 
----
+1. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, đơn vị và tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.
 
+2. Trong quá trình thực hiện, nếu có vướng mắc phát sinh, các cơ quan, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Giao thông vận tải để xem xét, giải quyết theo thẩm quyền.
 
-### Điều 7.7.TT.10.8. Tổ chức thực hiện
+Điều 7.7.TT.11.10. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 10 Thông tư số 24/2017/TT-BCT, có hiệu lực thi hành kể từ ngày 10/01/2018)
 
-**Chỉ mục:** 8
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 01 năm 2018.
 
-**Mã phân cấp:** 0700700000000001200004880263660040000080
+2. Tổ chức, cá nhân không thực hiện các quy định tại Thông tư này sẽ bị xử lý theo quy định hiện hành.
 
-**ID:** dk_00010135
-
----
-
-
-### Điều 7.7.TT.11.10. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 0700700000000001200004880263800024000100
-
-**ID:** dk_00010136
-
----
-
-
-### Điều 7.7.TT.12.2. Thông tư này có hiệu lực thi hành kể từ ngày 01/6/2018 và thay thế Thông tư số 15/2013/TT-BXD ngày 26/9/2013 của Bộ Xây dựng ban hành Quy chuẩn kỹ thuật quốc gia về “Các công trình xây dựng sử dụng năng lượng hiệu quả”, mã số QCVN 09:2013/BXD
+3. Trong quá trình thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Công Thương để nghiên cứu, sửa đổi, bổ sung Thông tư.
 
 Điều 7.7.TT.12.2. Thông tư này có hiệu lực thi hành kể từ ngày 01/6/2018 và thay thế Thông tư số 15/2013/TT-BXD ngày 26/9/2013 của Bộ Xây dựng ban hành Quy chuẩn kỹ thuật quốc gia về “Các công trình xây dựng sử dụng năng lượng hiệu quả”, mã số QCVN 09:2013/BXD
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0700700000000001200004880264150015000020
-
-**ID:** dk_00010137
-
----
-
-
-### Điều 7.7.TT.12.3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+(Điều 2 Thông tư số 15/2017/TT-BXD, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
 Điều 7.7.TT.12.3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 15/2017/TT-BXD, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 0700700000000001200004880264150015000030
+Điều 7.7.TT.13.7. Tổ chức thực hiện
 
-**ID:** dk_00010138
+(Điều 7 Thông tư số 91/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 18/12/2018)
 
----
+1. Thông tư này có hiệu lực thi hành từ ngày 18 tháng 12 năm 2018.
 
+2. Trường hợp các văn bản dẫn chiếu tại Thông tư này được sửa đổi, bổ sung, thay thế thì thực hiện theo văn bản sửa đổi, bổ sung hoặc thay thế đó.
 
-### Điều 7.7.TT.13.7. Tổ chức thực hiện
+3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh về Bộ Tài chính để nghiên cứu sửa đổi, bổ sung cho phù hợp.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.15.10. Điều khoản chuyển tiếp
 
-**Chỉ mục:** 7
+(Điều 10 Thông tư số 52/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 18/02/2019)
 
-**Mã phân cấp:** 0700700000000001200004880266890091000070
+Trong vòng 6 tháng kể từ ngày Thông tư này có hiệu lực, các cơ sở chế biến thủy sản chưa thể xác định được định mức tiêu hao năng lượng theo quy định của Thông tư có trách nhiệm lắp đặt đầy đủ đồng hồ đo đếm năng lượng để đảm bảo tính toán chính xác suất tiêu hao năng lượng của cơ sở.
 
-**ID:** dk_00010139
+Điều 7.7.TT.15.11. Hiệu lực thi hành
 
----
+(Điều 11 Thông tư số 52/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 18/02/2019)
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày tháng năm 2019.
 
-### Điều 7.7.TT.15.10. Điều khoản chuyển tiếp
+2. Trong quá trình thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Công Thương để nghiên cứu hướng dẫn, giải đáp, sửa đổi, bổ sung Thông tư.
 
-*Nội dung chưa có sẵn*
+Điều 7.7.TT.18.5. Hiệu lực, trách nhiệm thi hành
 
-**Chỉ mục:** 10
+(Điều 5 Thông tư số 52/2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-**Mã phân cấp:** 0700700000000001200004880267770052000100
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
 
-**ID:** dk_00010140
+2. Trong quá trình thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Công Thương để nghiên cứu, sửa đổi, bổ sung Thông tư./.
 
----
+Điều 7.7.TT.19.20. Hiệu lực thi hành
 
+(Điều 20 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
-### Điều 7.7.TT.15.11. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
 
-*Nội dung chưa có sẵn*
+2. Thông tư này thay thế Thông tư số 39/2011/TT-BCT ngày 28 tháng 10 năm 2011 của Bộ trưởng Bộ Công Thương quy định về đào tạo, cấp chứng chỉ quản lý năng lượng, kiểm toán viên năng lượng.
 
-**Chỉ mục:** 11
+3. Bãi bỏ Điều 13 Thông tư số 38/2025/TT-BCT ngày 19 tháng 6 năm 2025 của Bộ trưởng Bộ Công Thương sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương.
 
-**Mã phân cấp:** 0700700000000001200004880267770052000110
+Điều 7.7.TT.19.21. Tổ chức thực hiện
 
-**ID:** dk_00010141
+(Điều 21 Thông tư số 53 /2025/TT-BCT, có hiệu lực thi hành kể từ ngày 01/01/2026)
 
----
+1. Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công chủ trì, thực hiện kiểm tra, giám sát quá trình đào tạo của các cơ sở đào tạo quản lý năng lượng và kiểm toán viên năng lượng.
 
+2. Các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này và gửi ý kiến, kiến nghị về Bộ Công Thương (qua Cục Đổi mới sáng tạo, Chuyển đổi xanh và Khuyến công) để được hướng dẫn, giải quyết các khó khăn, vướng mắc phát sinh./.
 
-### Điều 7.7.TT.18.5. Hiệu lực, trách nhiệm thi hành
+## Danh sách điều khoản
 
-*Nội dung chưa có sẵn*
+### 07007000000000001000
 
-**Chỉ mục:** 5
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-**Mã phân cấp:** 0700700000000001200004880292930052000050
+### 0700700000000000100000100000000000000000
 
-**ID:** dk_00010142
+Điều 7.7.LQ.1. Phạm vi điều chỉnh
 
----
+### 0700700000000000100000200000000000000000
 
+Điều 7.7.LQ.2. Đối tượng áp dụng
 
-### Điều 7.7.TT.19.20. Hiệu lực thi hành
+### 0700700000000000100000240239490021000010
 
-*Nội dung chưa có sẵn*
+Điều 7.7.NĐ.1.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 20
+### 0700700000000000100000240239490021000020
 
-**Mã phân cấp:** 0700700000000001200004880292930053000200
+Điều 7.7.NĐ.1.2. Đối tượng áp dụng
 
-**ID:** dk_00010143
+### 0700700000000000100000250265560024000010
 
----
+Điều 7.7.QĐ.3.1. Phạm vi điều chỉnh
 
+### 0700700000000000100000250265560024000020
 
-### Điều 7.7.TT.19.21. Tổ chức thực hiện
+Điều 7.7.QĐ.3.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 0700700000000000100000280242210064000010
 
-**Chỉ mục:** 21
+Điều 7.7.TT.2.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0700700000000001200004880292930053000210
+### 0700700000000000100000280242210064000020
 
-**ID:** dk_00010144
+Điều 7.7.TT.2.2. Đối tượng áp dụng
 
----
+### 0700700000000000100000280243370009000010
 
+Điều 7.7.TT.3.1. Phạm vi điều chỉnh
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Công nghiệp](/cong-nghiep/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 0700700000000000100000280243370009000020
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 155
-- **Điều khoản thực tế:** 143
-- **Điều khoản có nội dung:** 62 (43.4%)
-- **ID đề mục:** 913b88fd89da4fc58268477ae6d71bac
+Điều 7.7.TT.3.2. Đối tượng áp dụng
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 0700700000000000100000280246660019000010
 
----
+Điều 7.7.TT.4.1. Phạm vi điều chỉnh
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 0700700000000000100000280246660019000020
+
+Điều 7.7.TT.4.2. Đối tượng áp dụng
+
+### 0700700000000000100000280249730002000010
+
+Điều 7.7.TT.5.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280249730002000020
+
+Điều 7.7.TT.5.2. Đối tượng áp dụng
+
+### 0700700000000000100000280252240043000010
+
+Điều 7.7.TL.1.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280252240043000020
+
+Điều 7.7.TL.1.2. Đối tượng áp dụng
+
+### 0700700000000000100000280259450019000010
+
+Điều 7.7.TT.6.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280259450019000020
+
+Điều 7.7.TT.6.2. Đối tượng áp dụng
+
+### 0700700000000000100000280259510020000010
+
+Điều 7.7.TT.7.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280259510020000020
+
+Điều 7.7.TT.7.2. Đối tượng áp dụng
+
+### 0700700000000000100000280260500036000010
+
+Điều 7.7.TT.8.1. Phạm vi Điều chỉnh
+
+### 0700700000000000100000280260500036000020
+
+Điều 7.7.TT.8.2. Đối tượng áp dụng
+
+### 0700700000000000100000280260500038000010
+
+Điều 7.7.TT.9.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280260500038000020
+
+Điều 7.7.TT.9.2. Đối tượng áp dụng
+
+### 0700700000000000100000280263660040000010
+
+Điều 7.7.TT.10.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280263660040000020
+
+Điều 7.7.TT.10.2. Đối tượng áp dụng
+
+### 0700700000000000100000280263800024000010
+
+Điều 7.7.TT.11.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280263800024000020
+
+Điều 7.7.TT.11.2. Đối tượng áp dụng
+
+### 0700700000000000100000280266890091000010
+
+Điều 7.7.TT.13.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 0700700000000000100000280267770052000010
+
+Điều 7.7.TT.15.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000280267770052000020
+
+Điều 7.7.TT.15.2. Đối tượng áp dụng
+
+### 0700700000000000100000280292930052000010
+
+Điều 7.7.TT.18.1. Phạm vi và đối tượng áp dụng
+
+### 0700700000000000100000300000000000000000
+
+Điều 7.7.LQ.3. Giải thích từ ngữ
+
+### 0700700000000000100000380243370009000030
+
+Điều 7.7.TT.3.3. Giải thích từ ngữ
+
+### 0700700000000000100000380249730002000030
+
+Điều 7.7.TT.5.3. Giải thích từ ngữ
+
+### 0700700000000000100000380252240043000030
+
+Điều 7.7.TL.1.3. Giải thích từ ngữ
+
+### 0700700000000000100000380259450019000030
+
+Điều 7.7.TT.6.3. Giải thích từ ngữ
+
+### 0700700000000000100000380259510020000030
+
+Điều 7.7.TT.7.3. Giải thích từ ngữ
+
+### 0700700000000000100000380260500036000030
+
+Điều 7.7.TT.8.3. Giải thích từ ngữ
+
+### 0700700000000000100000380260500038000030
+
+Điều 7.7.TT.9.3. Giải thích từ ngữ
+
+### 0700700000000000100000380263660040000030
+
+Điều 7.7.TT.10.3. Giải thích từ ngữ
+
+### 0700700000000000100000380263800024000030
+
+Điều 7.7.TT.11.3. Giải thích từ ngữ
+
+### 0700700000000000100000380267770052000030
+
+Điều 7.7.TT.15.3. Giải thích từ ngữ
+
+### 0700700000000000100000380292930053000010
+
+Điều 7.7.TT.19.1. Phạm vi điều chỉnh
+
+### 0700700000000000100000380292930053000020
+
+Điều 7.7.TT.19.2. Đối tượng áp dụng
+
+### 0700700000000000100000400000000000000000
+
+Điều 7.7.LQ.4. Nguyên tắc sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000000100000500000000000000000
+
+Điều 7.7.LQ.5. Chính sách của Nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000000100000600000000000000000
+
+Điều 7.7.LQ.6. Chiến lược phát triển năng lượng quốc gia, quy hoạch tổng thể về năng lượng, chương trình sử dụng năng lượng
+
+### 0700700000000000100000700000000000000000
+
+Điều 7.7.LQ.7. Thống kê về sử dụng năng lượng
+
+### 0700700000000000100000800000000000000000
+
+Điều 7.7.LQ.8. Các hành vi bị cấm
+
+### 07007000000000002000
+
+Chương II SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG SẢN XUẤT CÔNG NGHIỆP
+
+### 0700700000000000200000900000000000000000
+
+Điều 7.7.LQ.9. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả của cơ sở sản xuất công nghiệp
+
+### 0700700000000000200001000000000000000000
+
+Điều 7.7.LQ.10. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất, chế biến, gia công sản phẩm hàng hoá
+
+### 0700700000000000200001100000000000000000
+
+Điều 7.7.LQ.11. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở chế tạo, sửa chữa phương tiện, thiết bị
+
+### 0700700000000000200001200000000000000000
+
+Điều 7.7.LQ.12. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở khai thác mỏ
+
+### 0700700000000000200001300000000000000000
+
+Điều 7.7.LQ.13. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất, cung cấp năng lượng
+
+### 0700700000000000200001400000000000000000
+
+Điều 7.7.LQ.14. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong cơ sở sản xuất tiểu thủ công nghiệp
+
+### 07007000000000003000
+
+Chương III SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG XÂY DỰNG, CHIẾU SÁNG CÔNG CỘNG
+
+### 0700700000000000300001500000000000000000
+
+Điều 7.7.LQ.15. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng
+
+### 0700700000000000300001600000000000000000
+
+Điều 7.7.LQ.16. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động xây dựng
+
+### 0700700000000000300001700000000000000000
+
+Điều 7.7.LQ.17. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong chiếu sáng công cộng
+
+### 0700700000000000300001800000000000000000
+
+Điều 7.7.LQ.18. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong chiếu sáng công cộng
+
+### 07007000000000004000
+
+Chương IV SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG GIAO THÔNG VẬN TẢI
+
+### 0700700000000000400001900000000000000000
+
+Điều 7.7.LQ.19. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải
+
+### 0700700000000000400002000000000000000000
+
+Điều 7.7.LQ.20. Trách nhiệm của tổ chức, cá nhân sản xuất, nhập khẩu thiết bị, phương tiện vận tải
+
+### 0700700000000000400002100000000000000000
+
+Điều 7.7.LQ.21. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động giao thông vận tải
+
+### 07007000000000005000
+
+Chương V SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG SẢN XUẤT NÔNG NGHIỆP
+
+### 0700700000000000500002200000000000000000
+
+Điều 7.7.LQ.22. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp
+
+### 0700700000000000500002300000000000000000
+
+Điều 7.7.LQ.23. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong thủy lợi
+
+### 0700700000000000500002400000000000000000
+
+Điều 7.7.LQ.24. Giảm tổn thất điện năng và sử dụng năng lượng tái tạo trong sản xuất nông nghiệp, nông thôn
+
+### 0700700000000000500002500000000000000000
+
+Điều 7.7.LQ.25. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong sản xuất nông nghiệp
+
+### 07007000000000006000
+
+Chương VI SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG HOẠT ĐỘNG DỊCH VỤ VÀ HỘ GIA ĐÌNH
+
+### 0700700000000000600002600000000000000000
+
+Điều 7.7.LQ.26. Trách nhiệm sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ
+
+### 0700700000000000600002700000000000000000
+
+Điều 7.7.LQ.27. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong hộ gia đình
+
+### 0700700000000000600002800000000000000000
+
+Điều 7.7.LQ.28. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả trong hoạt động dịch vụ, hộ gia đình
+
+### 07007000000000007000
+
+Chương VII SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ TRONG DỰ ÁN ĐẦU TƯ, CƠ QUAN, ĐƠN VỊ SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC
+
+### 0700700000000000700002900000000000000000
+
+Điều 7.7.LQ.29. Sử dụng năng lượng tiết kiệm và hiệu quả trong dự án đầu tư từ vốn nhà nước
+
+### 0700700000000000700003000000000000000000
+
+Điều 7.7.LQ.30. Biện pháp sử dụng năng lượng tiết kiệm và hiệu quả trong cơ quan, đơn vị sử dụng ngân sách nhà nước
+
+### 0700700000000000700003100000000000000000
+
+Điều 7.7.LQ.31. Trách nhiệm của người đứng đầu cơ quan, đơn vị sử dụng ngân sách nhà nước về thực hiện kế hoạch sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 07007000000000008000
+
+Chương VIII QUẢN LÝ VIỆC SỬ DỤNG NĂNG LƯỢNG CỦA CƠ SỞ SỬ DỤNG NĂNG LƯỢNG TRỌNG ĐIỂM
+
+### 0700700000000000800003200000000000000000
+
+Điều 7.7.LQ.32. Cơ sở sử dụng năng lượng trọng điểm
+
+### 0700700000000000800003300000000000000000
+
+Điều 7.7.LQ.33. Trách nhiệm của cơ sở sử dụng năng lượng trọng điểm
+
+### 0700700000000000800003400000000000000000
+
+Điều 7.7.LQ.34. Kiểm toán năng lượng đối với cơ sở sử dụng năng lượng trọng điểm
+
+### 070070000000000080000340000000000000000000802929300530000300
+
+Điều 7.7.TT.19.3. Nguyên tắc đào tạo và đào tạo lại
+
+### 070070000000000080000340000000000000000000802929300530000400
+
+Điều 7.7.TT.19.4. Nội dung và hình thức đào tạo
+
+### 070070000000000080000340000000000000000000802929300530000500
+
+Điều 7.7.TT.19.5. Chương trình và tài liệu đào tạo
+
+### 070070000000000080000340000000000000000000802929300530001400
+
+Điều 7.7.TT.19.14. Điều kiện tham gia các khóa đào tạo kiểm toán viên năng lượng
+
+### 070070000000000080000340000000000000000000802929300530001500
+
+Điều 7.7.TT.19.15. Thực hiện đào tạo và cấp chứng chỉ kiểm toán viên năng lượng
+
+### 070070000000000080000340000000000000000000802929300530001600
+
+Điều 7.7.TT.19.16. Thu hồi chứng chỉ kiểm toán viên năng lượng
+
+### 070070000000000080000340000000000000000000802929300530001700
+
+Điều 7.7.TT.19.17. Công nhận chứng chỉ kiểm toán viên năng lượng
+
+### 070070000000000080000340000000000000000000802929300530001800
+
+Điều 7.7.TT.19.18. Giám sát, kiểm tra quá trình đào tạo, cấp chứng chỉ quản lý năng lượng và kiểm toán viên năng lượng
+
+### 070070000000000080000340000000000000000000802929300530001900
+
+Điều 7.7.TT.19.19. Lưu trữ hồ sơ
+
+### 0700700000000000800003500000000000000000
+
+Điều 7.7.LQ.35. Điều kiện, nhiệm vụ của người quản lý năng lượng tại cơ sở sử dụng năng lượng trọng điểm
+
+### 070070000000000080000350000000000000000000802929300530000600
+
+Điều 7.7.TT.19.6. Điều kiện tham gia các khóa đào tạo quản lý năng lượng
+
+### 070070000000000080000350000000000000000000802929300530000700
+
+Điều 7.7.TT.19.7. Thực hiện đào tạo quản lý năng lượng
+
+### 070070000000000080000350000000000000000000802929300530000800
+
+Điều 7.7.TT.19.8. Hồ sơ cấp chứng chỉ quản lý năng lượng
+
+### 070070000000000080000350000000000000000000802929300530000900
+
+Điều 7.7.TT.19.9. Trình tự, thủ tục cấp chứng chỉ, công nhận chứng chỉ quản lý năng lượng
+
+### 070070000000000080000350000000000000000000802929300530001000
+
+Điều 7.7.TT.19.10. Thu hồi chứng chỉ quản lý năng lượng
+
+### 070070000000000080000350000000000000000000802929300530001100
+
+Điều 7.7.TT.19.11. Thực hiện đào tạo lại, cấp lại chứng chỉ quản lý năng lượng khi hết hạn
+
+### 070070000000000080000350000000000000000000802929300530001200
+
+Điều 7.7.TT.19.12. Cấp đổi, cấp lại chứng chỉ quản lý năng lượng khi chưa hết hạn
+
+### 070070000000000080000350000000000000000000802929300530001300
+
+Điều 7.7.TT.19.13. Ủy quyền cấp chứng chỉ quản lý năng lượng
+
+### 0700700000000000800003600000000000000000
+
+Điều 7.7.LQ.36. Trách nhiệm quản lý nhà nước đối với cơ sở sử dụng năng lượng trọng điểm
+
+### 07007000000000009000
+
+Chương IX QUẢN LÝ PHƯƠNG TIỆN, THIẾT BỊ SỬ DỤNG NĂNG LƯỢNG VÀ VẬT LIỆU XÂY DỰNG
+
+### 0700700000000000900003700000000000000000
+
+Điều 7.7.LQ.37. Biện pháp quản lý sử dụng năng lượng tiết kiệm và hiệu quả đối với phương tiện, thiết bị và vật liệu xây dựng
+
+### 0700700000000000900003800000000000000000
+
+Điều 7.7.LQ.38. Xây dựng, công bố tiêu chuẩn hiệu suất năng lượng, mức hiệu suất năng lượng tối thiểu
+
+### 0700700000000000900003900000000000000000
+
+Điều 7.7.LQ.39. Dán nhãn năng lượng
+
+### 070070000000000090000390000000000000000000802929300520000200
+
+Điều 7.7.TT.18.2. Danh mục phương tiện, thiết bị phải thực hiện dán nhãn năng lượng
+
+### 070070000000000090000390000000000000000000802929300520000300
+
+Điều 7.7.TT.18.3. Lộ trình thực hiện dán nhãn năng lượng
+
+### 070070000000000090000390000000000000000000802929300520000400
+
+Điều 7.7.TT.18.4. Tổ chức thực hiện
+
+### 0700700000000000900004000000000000000000
+
+Điều 7.7.LQ.40. Quản lý phương tiện, thiết bị dưới mức hiệu suất năng lượng tối thiểu
+
+### 07007000000000010000
+
+Chương X BIỆN PHÁP THÚC ĐẨY SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ
+
+### 0700700000000001000004100000000000000000
+
+Điều 7.7.LQ.41. Ưu đãi đối với hoạt động sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000001000004150000000000000000
+
+Điều 41a. Quỹ thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000001000004200000000000000000
+
+Điều 7.7.LQ.42. Phát triển khoa học và công nghệ sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000001000004300000000000000000
+
+Điều 7.7.LQ.43. Tuyên truyền, giáo dục sử dụng năng lượng tiết kiệm và hiệu quả; phát triển dịch vụ năng lượng
+
+### 07007000000000011000
+
+Chương XI TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ SỬ DỤNG NĂNG LƯỢNG TIẾT KIỆM VÀ HIỆU QUẢ
+
+### 0700700000000001100004400000000000000000
+
+Điều 7.7.LQ.44. Trách nhiệm quản lý nhà nước về sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000001100004500000000000000000
+
+Điều 7.7.LQ.45. Trách nhiệm của Bộ Công thương về sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 0700700000000001100004600000000000000000
+
+Điều 7.7.LQ.46. Trách nhiệm của Ủy ban nhân dân cấp tỉnh về sử dụng năng lượng tiết kiệm và hiệu quả
+
+### 07007000000000012000
+
+Chương XII ĐIỀU KHOẢN THI HÀNH
+
+### 0700700000000001200004700000000000000000
+
+Điều 7.7.LQ.47. Hiệu lực thi hành
+
+### 0700700000000001200004710236640050000021
+
+Điều 7.7.LQ.2a. Hiệu lực thi hành
+
+### 0700700000000001200004800000000000000000
+
+Điều 7.7.LQ.48. Quy định chi tiết và hướng dẫn thi hành
+
+### 0700700000000001200004810236640050000031
+
+Điều 7.7.LQ.3a. Điều khoản chuyển tiếp
+
+### 0700700000000001200004840239490021000350
+
+Điều 7.7.NĐ.1.35. Hiệu lực thi hành
+
+### 0700700000000001200004840239490021000360
+
+Điều 7.7.NĐ.1.36. Trách nhiệm thi hành
+
+### 0700700000000001200004850242070068000030
+
+Điều 7.7.QĐ.1.3. Tổ chức thực hiện
+
+### 0700700000000001200004850242070068000040
+
+Điều 7.7.QĐ.1.4. Hiệu lực thi hành
+
+### 0700700000000001200004850261210004000050
+
+Điều 7.7.QĐ.2.5. Tổ chức thực hiện
+
+### 0700700000000001200004850261210004000060
+
+Điều 7.7.QĐ.2.6. Hiệu lực thi hành
+
+### 0700700000000001200004850265560024000050
+
+Điều 7.7.QĐ.3.5. Tổ chức thực hiện
+
+### 0700700000000001200004850265560024000060
+
+Điều 7.7.QĐ.3.6. Điều khoản thi hành
+
+### 0700700000000001200004880242210064000070
+
+Điều 7.7.TT.2.7. Trách nhiệm của các cơ quan
+
+### 0700700000000001200004880242210064000080
+
+Điều 7.7.TT.2.8. Hiệu lực thi hành
+
+### 0700700000000001200004880243370009000150
+
+Điều 7.7.TT.3.15. Điều khoản thi hành
+
+### 0700700000000001200004880246660019000120
+
+Điều 7.7.TT.4.12. Trách nhiệm và tổ chức thực hiện
+
+### 0700700000000001200004880246660019000130
+
+Điều 7.7.TT.4.13. Hiệu lực thi hành
+
+### 0700700000000001200004880249730002000300
+
+Điều 7.7.TT.5.30. Điều khoản thi hành
+
+### 0700700000000001200004880252240043000190
+
+Điều 7.7.TL.1.19. Hiệu lực thi hành
+
+### 0700700000000001200004880252240043000200
+
+Điều 7.7.TL.1.20. Trách nhiệm thi hành
+
+### 0700700000000001200004880259450019000120
+
+Điều 7.7.TT.6.12. Hiệu lực thi hành1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2016.
+
+### 0700700000000001200004880260500036000140
+
+Điều 7.7.TT.8.14. Hiệu lực thi hành
+
+### 0700700000000001200004880260500038000110
+
+Điều 7.7.TT.9.11. Hiệu lực thi hành
+
+### 0700700000000001200004880263660040000070
+
+Điều 7.7.TT.10.7. Hiệu lực thi hành
+
+### 0700700000000001200004880263660040000080
+
+Điều 7.7.TT.10.8. Tổ chức thực hiện
+
+### 0700700000000001200004880263800024000100
+
+Điều 7.7.TT.11.10. Hiệu lực thi hành
+
+### 0700700000000001200004880264150015000020
+
+Điều 7.7.TT.12.2. Thông tư này có hiệu lực thi hành kể từ ngày 01/6/2018 và thay thế Thông tư số 15/2013/TT-BXD ngày 26/9/2013 của Bộ Xây dựng ban hành Quy chuẩn kỹ thuật quốc gia về “Các công trình xây dựng sử dụng năng lượng hiệu quả”, mã số QCVN 09:2013/BXD
+
+### 0700700000000001200004880264150015000030
+
+Điều 7.7.TT.12.3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+### 0700700000000001200004880266890091000070
+
+Điều 7.7.TT.13.7. Tổ chức thực hiện
+
+### 0700700000000001200004880267770052000100
+
+Điều 7.7.TT.15.10. Điều khoản chuyển tiếp
+
+### 0700700000000001200004880267770052000110
+
+Điều 7.7.TT.15.11. Hiệu lực thi hành
+
+### 0700700000000001200004880292930052000050
+
+Điều 7.7.TT.18.5. Hiệu lực, trách nhiệm thi hành
+
+### 0700700000000001200004880292930053000200
+
+Điều 7.7.TT.19.20. Hiệu lực thi hành
+
+### 0700700000000001200004880292930053000210
+
+Điều 7.7.TT.19.21. Tổ chức thực hiện
+

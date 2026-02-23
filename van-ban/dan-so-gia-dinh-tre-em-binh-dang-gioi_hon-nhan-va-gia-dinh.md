@@ -1,2805 +1,3659 @@
 ---
-layout: default
+layout: page
 title: Hôn nhân và gia đình
 permalink: /van-ban/dan-so-gia-dinh-tre-em-binh-dang-gioi/hon-nhan-va-gia-dinh/
-collection: subtopics
-slug: hon-nhan-va-gia-dinh
-parent: dan-so-gia-dinh-tre-em-binh-dang-gioi
 ---
 
 # Hôn nhân và gia đình
 
-**Đề mục:** Hôn nhân và gia đình  
-**Chủ đề:** [Dân số, gia đình, trẻ em, bình đẳng giới](/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
-**Số điều khoản:** 229  
-**Điều khoản có nội dung:** 151/213 (70.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 8.4.LQ.1. Phạm vi điều chỉnh
+Điều 8.4.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 52/2014/QH13 Hôn nhân và gia đình ngày 19/06/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2015 )
 
-**Chỉ mục:** 1
+**Luật này quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình; trách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.**
 
-**Mã phân cấp:** 0800400000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Điều 8.4.NĐ.2.1. Phạm vi điều chỉnh; Điều 8.4.TL.1.1. Phạm vi điều chỉnh)
 
-**ID:** dk_00010654
+Điều 8.4.NĐ.1.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị định số 02/2013/NĐ-CP Quy định về công tác gia đình ngày 03/01/2013 của Chính phủ, có hiệu lực thi hành kể từ ngày 18/02/2013 )
 
+Nghị định này quy định về công tác gia đình; trách nhiệm của cơ quan, tổ chức trong việc thực hiện công tác gia đình.
 
-### Điều 8.4.NĐ.1.1. Phạm vi điều chỉnh
+Công tác gia đình là hoạt động của các cơ quan, tổ chức nhằm xây dựng gia đình no ấm, bình đẳng, tiến bộ, hạnh phúc và bền vững.
 
-*Nội dung chưa có sẵn*
+Điều 8.4.NĐ.1.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 0800400000000000100000140245950002000010
+Nghị định này áp dụng đối với cơ quan, tổ chức trong việc thực hiện công tác gia đình.
 
-**ID:** dk_00010655
+Điều 8.4.NĐ.2.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị định số 126/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình ngày 31/12/2014 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/02/2015 )
 
+Nghị định này quy định chi tiết về áp dụng tập quán về hôn nhân và gia đình, chế độ tài sản của vợ chồng, giải quyết các việc về hôn nhân và gia đình có yếu tố nước ngoài và một số biện pháp thi hành Luật Hôn nhân và gia đình.
 
-### Điều 8.4.NĐ.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 0800400000000000100000140245950002000020
-
-**ID:** dk_00010656
-
----
-
-
-### Điều 8.4.NĐ.2.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0800400000000000100000140253220126000010
-
-**ID:** dk_00010657
-
----
-
-
-### Điều 8.4.TT.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.1. Phạm vi điều chỉnh)
 
 Điều 8.4.TT.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 12/2013/TT-BVHTTDL Quy định chi tiết hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng ngày 17/12/2013 của Bộ Văn hoá, Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 03/02/2014 )
 
-**Mã phân cấp:** 0800400000000000100000180249430012000010
+1. Thông tư này quy định việc thực hiện các hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng.
 
-**ID:** dk_00010658
+2. Đối tượng áp dụng: Các cơ quan, tổ chức và cá nhân có liên quan tới hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng.
 
----
+(Điều này có nội dung liên quan đến Điều 8.5.LQ.6. Chính sách của Nhà nước về phòng, chống bạo lực gia đình)
 
+Điều 8.4.TL.1.1. Phạm vi điều chỉnh
 
-### Điều 8.4.TL.1.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành một số quy định của Luật hôn nhân và gia đình ngày 06/01/2016 của Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 01/03/2016 )
 
-*Nội dung chưa có sẵn*
+Thông tư liên tịch này hướng dẫn thi hành quy định về xử lý việc kết hôn trái pháp luật, thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu và nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn tại các điều 11, 50 và 59 của Luật hôn nhân và gia đình.
 
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0800400000000000100000180256930001000010
-
-**ID:** dk_00010659
-
----
-
-
-### Điều 8.4.LQ.2. Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.1. Phạm vi điều chỉnh)
 
 Điều 8.4.LQ.2. Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình
 
-**Chỉ mục:** 2
+(Điều 2 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000100000200000000000000000
+1. Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.
 
-**ID:** dk_00010660
+2. Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn giáo, giữa người có tín ngưỡng với người không có tín ngưỡng, giữa công dân Việt Nam với người nước ngoài được tôn trọng và được pháp luật bảo vệ.
 
----
+3. Xây dựng gia đình ấm no, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; không phân biệt đối xử giữa các con.
 
+4. Nhà nước, xã hội và gia đình có trách nhiệm bảo vệ, hỗ trợ trẻ em, người cao tuổi, người khuyết tật thực hiện các quyền về hôn nhân và gia đình; giúp đỡ các bà mẹ thực hiện tốt chức năng cao quý của người mẹ; thực hiện kế hoạch hóa gia đình.
 
-### Điều 8.4.LQ.3. Giải thích từ ngữ
+5. Kế thừa, phát huy truyền thống văn hóa, đạo đức tốt đẹp của dân tộc Việt Nam về hôn nhân và gia đình.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 147. Tội vi phạm chế độ một vợ, một chồng của Bộ luật 15/1999/QH10 Hình sự ban hành ngày 21/12/1999; Điều 8.2.LQ.18. Bình đẳng giới trong gia đình của Luật 73/2006/QH11 Bình đẳng giới ban hành ngày 29/11/2006; Điều 9.1.LQ.3. Các nguyên tắc cơ bản của pháp luật dân sự; Điều 9.1.LQ.39. Quyền nhân thân trong hôn nhân và gia đình; Điều 9.1.LQ.160. Nguyên tắc xác lập, thực hiện quyền sở hữu, quyền khác đối với tài sản; Điều 9.1.LQ.585. Nguyên tắc bồi thường thiệt hại của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015)
 
-**Chỉ mục:** 3
+Điều 8.4.LQ.3. Giải thích từ ngữ
 
-**Mã phân cấp:** 0800400000000000100000300000000000000000
+(Điều 3 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00010661
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
----
+1.Hôn nhân là quan hệ giữa vợ và chồng sau khi kết hôn.
 
+2. Gia đình là tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh các quyền và nghĩa vụ giữa họ với nhau theo quy định của Luật này.
 
-### Điều 8.4.LQ.4. Trách nhiệm của Nhà nước và xã hội đối với hôn nhân và gia đình
+3. Chế độ hôn nhân và gia đình là toàn bộ những quy định của pháp luật về kết hôn, ly hôn; quyền và nghĩa vụ giữa vợ và chồng, giữa cha mẹ và con, giữa các thành viên khác trong gia đình; cấp dưỡng; xác định cha, mẹ, con; quan hệ hôn nhân và gia đình có yếu tố nước ngoài và những vấn đề khác liên quan đến hôn nhân và gia đình.
+
+4. Tập quán về hôn nhân và gia đình là quy tắc xử sự có nội dung rõ ràng về quyền, nghĩa vụ của các bên trong quan hệ hôn nhân và gia đình, được lặp đi, lặp lại trong một thời gian dài và được thừa nhận rộng rãi trong một vùng, miền hoặc cộng đồng.
+
+5. Kết hôn là việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định của Luật này về điều kiện kết hôn và đăng ký kết hôn.
+
+6. Kết hôn trái pháp luật là việc nam, nữ đã đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền nhưng một bên hoặc cả hai bên vi phạm điều kiện kết hôn theo quy định tại Điều 8 của Luật này.
+
+7. Chung sống như vợ chồng là việc nam, nữ tổ chức cuộc sống chung và coi nhau là vợ chồng.
+
+8. Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định tại điểm a khoản 1 Điều 8 của Luật này.
+
+9. Cưỡng ép kết hôn, ly hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để buộc người khác phải kết hôn hoặc ly hôn trái với ý muốn của họ.
+
+10. Cản trở kết hôn, ly hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để ngăn cản việc kết hôn của người có đủ điều kiện kết hôn theo quy định của Luật này hoặc buộc người khác phải duy trì quan hệ hôn nhân trái với ý muốn của họ.
+
+11. Kết hôn giả tạo là việc lợi dụng kết hôn để xuất cảnh, nhập cảnh, cư trú, nhập quốc tịch Việt Nam, quốc tịch nước ngoài; hưởng chế độ ưu đãi của Nhà nước hoặc để đạt được mục đích khác mà không nhằm mục đích xây dựng gia đình.
+
+12. Yêu sách của cải trong kết hôn là việc đòi hỏi về vật chất một cách quá đáng và coi đó là điều kiện để kết hôn nhằm cản trở việc kết hôn tự nguyện của nam, nữ.
+
+13. Thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân.
+
+14. Ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án.
+
+15. Ly hôn giả tạo là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản, vi phạm chính sách, pháp luật về dân số hoặc để đạt được mục đích khác mà không nhằm mục đích chấm dứt hôn nhân.
+
+16. Thành viên gia đình bao gồm vợ, chồng; cha mẹ đẻ, cha mẹ nuôi, cha dượng, mẹ kế, cha mẹ vợ, cha mẹ chồng; con đẻ, con nuôi, con riêng của vợ hoặc chồng, con dâu, con rể; anh, chị, em cùng cha mẹ, anh, chị, em cùng cha khác mẹ, anh, chị, em cùng mẹ khác cha, anh rể, em rể, chị dâu, em dâu của người cùng cha mẹ hoặc cùng cha khác mẹ, cùng mẹ khác cha; ông bà nội, ông bà ngoại; cháu nội, cháu ngoại; cô, dì, chú, cậu, bác ruột và cháu ruột.
+
+17. Những người cùng dòng máu về trực hệ là những người có quan hệ huyết thống, trong đó, người này sinh ra người kia kế tiếp nhau.
+
+18. Những người có họ trong phạm vi ba đời là những người cùng một gốc sinh ra gồm cha mẹ là đời thứ nhất; anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha là đời thứ hai; anh, chị, em con chú, con bác, con cô, con cậu, con dì là đời thứ ba.
+
+19. Người thân thích là người có quan hệ hôn nhân, nuôi dưỡng, người có cùng dòng máu về trực hệ và người có họ trong phạm vi ba đời.
+
+20. Nhu cầu thiết yếu là nhu cầu sinh hoạt thông thường về ăn, mặc, ở, học tập, khám bệnh, chữa bệnh và nhu cầu sinh hoạt thông thường khác không thể thiếu cho cuộc sống của mỗi người, mỗi gia đình.
+
+21. Sinh con bằng kỹ thuật hỗ trợ sinh sản là việc sinh con bằng kỹ thuật thụ tinh nhân tạo hoặc thụ tinh trong ống nghiệm.
+
+22. Mang thai hộ vì mục đích nhân đạo là việc một người phụ nữ tự nguyện, không vì mục đích thương mại giúp mang thai cho cặp vợ chồng mà người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản, bằng việc lấy noãn của người vợ và tinh trùng của người chồng để thụ tinh trong ống nghiệm, sau đó cấy vào tử cung của người phụ nữ tự nguyện mang thai để người này mang thai và sinh con.
+
+23. Mang thai hộ vì mục đích thương mại là việc một người phụ nữ mang thai cho người khác bằng việc áp dụng kỹ thuật hỗ trợ sinh sản để được hưởng lợi về kinh tế hoặc lợi ích khác.
+
+24. Cấp dưỡng là việc một người có nghĩa vụ đóng góp tiền hoặc tài sản khác để đáp ứng nhu cầu thiết yếu của người không sống chung với mình mà có quan hệ hôn nhân, huyết thống hoặc nuôi dưỡng trong trường hợp người đó là người chưa thành niên, người đã thành niên mà không có khả năng lao động và không có tài sản để tự nuôi mình hoặc người gặp khó khăn, túng thiếu theo quy định của Luật này.
+
+25. Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ hôn nhân và gia đình mà ít nhất một bên tham gia là người nước ngoài, người Việt Nam định cư ở nước ngoài; quan hệ hôn nhân và gia đình giữa các bên tham gia là công dân Việt Nam nhưng căn cứ để xác lập, thay đổi, chấm dứt quan hệ đó theo pháp luật nước ngoài, phát sinh tại nước ngoài hoặc tài sản liên quan đến quan hệ đó ở nước ngoài.
+
+(Điều này có nội dung liên quan đến Điều 146. Tội cưỡng ép kết hôn hoặc cản trở hôn nhân tự nguyện, tiến bộ; Điều 147. Tội vi phạm chế độ một vợ, một chồng; Điều 148. Tội tổ chức tảo hôn, tội tảo hôn; Điều 149. Tội đăng ký kết hôn trái pháp luật; Điều 150. Tội loạn luân; Điều 152. Tội từ chối hoặc trốn tránh nghĩa vụ cấp dưỡng của Bộ luật 15/1999/QH10 Hình sự ban hành ngày 21/12/1999; Điều 47. Hành vi tảo hôn, tổ chức tảo hôn; Điều 48. Hành vi vi phạm quy định về cấm kết hôn, vi phạm chế độ hôn nhân một vợ, một chồng; vi phạm quy định về ly hôn của Nghị định 110/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp, hành chính tư pháp, hôn nhân và gia đình, thi hành án dân sự, phá sản doanh nghiệp, hợp tác xã ban hành ngày 24/09/2013; Điều 1. ; Điều 2. ; Điều 3. ; Điều 4. của Thông tư liên tịch 01/2001/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành Nghị quyết số 35/2000/QH10 ngày 9 tháng 6 năm 2000 của Quốc hội “Về việc thi hành Luật Hôn nhân và gia đình” ban hành ngày 03/01/2001; Điều 8.2.LQ.18. Bình đẳng giới trong gia đình; Điều 8.2.LQ.33. Trách nhiệm của gia đình; Điều 15.6.LQ.10. Giữ quốc tịch khi quốc tịch của vợ hoặc chồng thay đổi; Điều 15.6.LQ.19. Điều kiện được nhập quốc tịch Việt Nam; Điều 15.6.LQ.23. Các trường hợp được trở lại quốc tịch Việt Nam; Điều 15.6.LQ.33. Căn cứ hủy bỏ Quyết định cho nhập quốc tịch Việt Nam của ; Điều 15.3.LQ.15. Trách nhiệm đăng ký khai sinh; Điều 15.3.LQ.33. Thời hạn và trách nhiệm đăng ký khai tử; Phần thứ năm PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI; Điều 9.1.LQ.5. Áp dụng tập quán; Điều 9.1.LQ.21. Người chưa thành niên; Điều 9.1.LQ.22. Mất năng lực hành vi dân sự; Điều 9.1.LQ.66. Nghĩa vụ của người quản lý tài sản của người vắng mặt tại nơi cư trú; Điều 9.1.LQ.212. Sở hữu chung của các thành viên gia đình; Điều 9.1.LQ.365. Chuyển giao quyền yêu cầu; Điều 9.1.LQ.377. Chấm dứt nghĩa vụ do được thay thế bằng nghĩa vụ khác; Điều 9.1.LQ.379. Những trường hợp không được bù trừ nghĩa vụ; Điều 9.1.LQ.591. Thiệt hại do tính mạng bị xâm phạm; Điều 9.1.LQ.658. Thứ tự ưu tiên thanh toán; Điều 8.4.NĐ.2.2. Nguyên tắc áp dụng tập quán; Điều 8.4.NĐ.2.3. Thỏa thuận về áp dụng tập quán; Điều 8.4.NĐ.2.4. Giải quyết vụ, việc hôn nhân và gia đình có áp dụng tập quán; Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật; Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật; Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn của )
 
 Điều 8.4.LQ.4. Trách nhiệm của Nhà nước và xã hội đối với hôn nhân và gia đình
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000100000400000000000000000
+1. Nhà nước có chính sách, biện pháp bảo hộ hôn nhân và gia đình, tạo điều kiện để nam, nữ xác lập hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng; xây dựng gia đình ấm no, tiến bộ, hạnh phúc và thực hiện đầy đủ chức năng của mình; tăng cường tuyên truyền, phổ biến, giáo dục pháp luật về hôn nhân và gia đình; vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình, phát huy truyền thống, phong tục, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc.
 
-**ID:** dk_00010662
+2. Chính phủ thống nhất quản lý nhà nước về hôn nhân và gia đình. Các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về hôn nhân và gia đình theo sự phân công của Chính phủ. Ủy ban nhân dân các cấp và các cơ quan khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.
 
----
+3. Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành viên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền, lợi ích hợp pháp của các thành viên gia đình. Nhà trường phối hợp với gia đình trong việc giáo dục, tuyên truyền, phổ biến pháp luật về hôn nhân và gia đình cho thế hệ trẻ.
 
+** Điều 5. Bảo vệ chế độ hôn nhân và gia đình**
 
-### Điều 8.4.NĐ.1.3. Cơ quan quản lý nhà nước về công tác gia đình
+1. Quan hệ hôn nhân và gia đình được xác lập, thực hiện theo quy định của Luật này được tôn trọng và được pháp luật bảo vệ.
+
+2. Cấm các hành vi sau đây:
+
+a) Kết hôn giả tạo, ly hôn giả tạo;
+
+b) Tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn, cản trở kết hôn;
+
+c) Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác hoặc chưa có vợ, chưa có chồng mà kết hôn hoặc chung sống như vợ chồng với người đang có chồng, có vợ;
+
+d) Kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu về trực hệ; giữa những người có họ trong phạm vi ba đời; giữa cha, mẹ nuôi với con nuôi; giữa người đã từng là cha, mẹ nuôi với con nuôi, cha chồng với con dâu, mẹ vợ với con rể, cha dượng với con riêng của vợ, mẹ kế với con riêng của chồng;
+
+đ) Yêu sách của cải trong kết hôn;
+
+e) Cưỡng ép ly hôn, lừa dối ly hôn, cản trở ly hôn;
+
+g) Thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản vì mục đích thương mại, mang thai hộ vì mục đích thương mại, lựa chọn giới tính thai nhi, sinh sản vô tính;
+
+h) Bạo lực gia đình;
+
+i) Lợi dụng việc thực hiện quyền về hôn nhân và gia đình để mua bán người, bóc lột sức lao động, xâm phạm tình dục hoặc có hành vi khác nhằm mục đích trục lợi.
+
+3. Mọi hành vi vi phạm pháp luật về hôn nhân và gia đình phải được xử lý nghiêm minh, đúng pháp luật.
+
+Cơ quan, tổ chức, cá nhân có quyền yêu cầu Tòa án, cơ quan khác có thẩm quyền áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình.
+
+4. Danh dự, nhân phẩm, uy tín, bí mật đời tư và các quyền riêng tư khác của các bên được tôn trọng, bảo vệ trong quá trình giải quyết vụ việc về hôn nhân và gia đình.
+
+(Điều này có nội dung liên quan đến Điều 8. Trách nhiệm quản lý nhà nước về bảo vệ, chăm sóc và giáo dục trẻ em của Luật 25/2004/QH11 Bảo vệ, chăm sóc và giáo dục trẻ em ban hành ngày 15/06/2004; Điều 9.1.LQ.7. Chính sách của Nhà nước đối với quan hệ dân sự)
 
 Điều 8.4.NĐ.1.3. Cơ quan quản lý nhà nước về công tác gia đình
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000300
+1. Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác gia đình trong phạm vi toàn quốc.
 
-**ID:** dk_00010663
+2. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện quản lý nhà nước về công tác gia đình.
 
----
-
-
-### Điều 8.4.NĐ.1.4. Xây dựng và tổ chức thực hiện chính sách, pháp luật về công tác gia đình
+3. Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về công tác gia đình tại địa phương.
 
 Điều 8.4.NĐ.1.4. Xây dựng và tổ chức thực hiện chính sách, pháp luật về công tác gia đình
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000400
-
-**ID:** dk_00010664
-
----
-
-
-### Điều 8.4.NĐ.1.5. Quy hoạch, đào tạo, bồi dưỡng đội ngũ cán bộ làm công tác gia đình
+Xây dựng và tổ chức thực hiện chính sách, pháp luật về gia đình; bình đẳng trong gia đình; phòng, chống bạo lực gia đình và các tệ nạn xã hội xâm nhập vào gia đình.
 
 Điều 8.4.NĐ.1.5. Quy hoạch, đào tạo, bồi dưỡng đội ngũ cán bộ làm công tác gia đình
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000500
+1. Xây dựng và tổ chức thực hiện quy hoạch đội ngũ cán bộ làm công tác gia đình các cấp.
 
-**ID:** dk_00010665
+2. Đào tạo, bồi dưỡng nâng cao năng lực cho đội ngũ cán bộ làm công tác gia đình; biên soạn tài liệu về công tác gia đình.
 
----
-
-
-### Điều 8.4.NĐ.1.6. Tuyên truyền, vận động, phổ biến kiến thức về công tác gia đình
+3. Bộ Văn hóa, Thể thao và Du lịch, Bộ Nội vụ quy định chi tiết Khoản 1 Điều này.
 
 Điều 8.4.NĐ.1.6. Tuyên truyền, vận động, phổ biến kiến thức về công tác gia đình
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000600
+1. Tuyên truyền, phổ biến các chủ trương của Đảng, chính sách, pháp luật của Nhà nước về gia đình, thực hiện bình đẳng trong gia đình, phòng, chống bạo lực gia đình và phòng ngừa, ngăn chặn các tệ nạn xã hội xâm nhập vào gia đình, thực hiện kế hoạch hóa gia đình.
 
-**ID:** dk_00010666
-
----
-
-
-### Điều 8.4.NĐ.1.7. Tổ chức, cơ quan cung ứng dịch vụ công thuộc lĩnh vực gia đình
+2. Xây dựng tài liệu và phổ biến kiến thức về gia đình, vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình; kế thừa, giữ gìn và phát huy những giá trị truyền thống văn hóa tốt đẹp của gia đình, dòng họ gắn với xây dựng những giá trị tiên tiến của gia đình trong xã hội phát triển.
 
 Điều 8.4.NĐ.1.7. Tổ chức, cơ quan cung ứng dịch vụ công thuộc lĩnh vực gia đình
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000700
+1. Việc cung ứng dịch vụ công thuộc lĩnh vực gia đình do đơn vị sự nghiệp công lập và doanh nghiệp thực hiện.
 
-**ID:** dk_00010667
-
----
-
-
-### Điều 8.4.NĐ.1.8. Hoạt động hỗ trợ xây dựng gia đình
+2. Điều kiện, trình tự, thủ tục, thẩm quyền thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập và doanh nghiệp cung ứng dịch vụ công thuộc lĩnh vực gia đình thực hiện theo quy định tại Nghị định số 55/2012/NĐ-CP ngày 28 tháng 6 năm 2012 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập, Luật Doanh nghiệp và các quy định của pháp luật có liên quan.
 
 Điều 8.4.NĐ.1.8. Hoạt động hỗ trợ xây dựng gia đình
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000800
+1. Tư vấn, giáo dục trước hôn nhân; cung cấp kiến thức, kỹ năng xây dựng và tổ chức cuộc sống gia đình; lồng ghép phù hợp nội dung giáo dục đời sống gia đình vào chương trình các cấp học; hỗ trợ việc duy trì, bảo tồn các giá trị truyền thống tốt đẹp của gia đình.
 
-**ID:** dk_00010668
+2. Hòa giải mâu thuẫn, tranh chấp trong gia đình và bảo vệ quyền, lợi ích hợp pháp của các thành viên trong gia đình.
 
----
+3. Xây dựng và hướng dẫn nhân rộng các mô hình gia đình hạnh phúc, phát triển bền vững.
 
+4. Bộ Văn hóa, Thể thao và Du lịch, Bộ Giáo dục và Đào tạo, Bộ Tư pháp và các Bộ, cơ quan ngang Bộ có liên quan quy định chi tiết các Khoản 1, 2 và 3 Điều này.
 
-### Điều 8.4.TT.1.2. Nội dung hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
+(Điều này có nội dung liên quan đến Điều 8.5.TL.1.1. Phạm vi điều chỉnh và đối tượng áp dụng)
 
 Điều 8.4.TT.1.2. Nội dung hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 12/2013/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 03/02/2014)
 
-**Mã phân cấp:** 08004000000000001000004000000000000000000040245950002000080000802494300120000200
+ 1. Tuyên truyền, nâng cao nhận thức về chủ trương, chính sách, pháp luật về gia đình và các vấn đề liên quan
 
-**ID:** dk_00010669
+ a) Tổ chức các hoạt động truyền thông, nâng cao nhận thức về: Các chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước về gia đình và những vấn đề liên quan; thực hiện bình đẳng giới trong gia đình, phòng, chống bạo lực gia đình; phòng ngừa, ngăn chặn các tệ nạn xã hội xâm nhập vào gia đình; thực hiện kế hoạch hóa gia đình; giáo dục đạo đức, lối sống phù hợp với truyền thống văn hóa tốt đẹp của dân tộc, dòng họ, gia đình; xây dựng gia đình văn hóa;
 
----
+ b) Biên soạn các ấn phẩm tuyên truyền, nâng cao nhận thức của mọi tầng lớp nhân dân trong việc xây dựng và gìn giữ những giá trị truyền thống tốt đẹp, phát huy những giá trị tiên tiến của gia đình Việt Nam.
 
+ 2. Phổ biến, giáo dục kiến thức, kỹ năng về xây dựng gia đình
 
-### Điều 8.4.TT.1.3. Các cơ quan, tổ chức và cá nhân thực hiện hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
+ a) Phổ biến các kiến thức, kỹ năng về: Ứng xử, giải quyết mâu thuẫn giữa các thành viên gia đình; phòng, chống bạo lực gia đình, thực hiện bình đẳng giới trong gia đình; phòng, chống tai nạn thương tích ở trẻ em; phòng, chống tệ nạn xã hội xâm nhập vào gia đình; phòng chống HIV/AIDS; kế thừa, giữ gìn và phát huy những giá trị truyền thống văn hóa tốt đẹp của gia đình, dòng họ gắn với xây dựng những giá trị tiên tiến của gia đình trong xã hội phát triển;
 
-Điều 8.4.TT.1.3. Các cơ quan, tổ chức và cá nhân thực hiện hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
+ b) Phổ biến các kiến thức, kỹ năng chăm sóc sức khỏe của các thành viên gia đình, đặc biệt là người cao tuổi, trẻ em, phụ nữ thời kỳ mang thai, nuôi con nhỏ;
 
-**Chỉ mục:** 3
+ c) Phổ biến kiến thức khoa học và công nghệ mới về lao động, sản xuất;
 
-**Mã phân cấp:** 08004000000000001000004000000000000000000040245950002000080000802494300120000300
+ d) Giáo dục kiến thức đời sống gia đình, kỹ năng xây dựng và tổ chức cuộc sống gia đình cho đối tượng nam, nữ chuẩn bị kết hôn, mới kết hôn.
 
-**ID:** dk_00010670
+ 3. Tư vấn, hòa giải các mâu thuẫn, tranh chấp trong gia đình; phòng ngừa, ngăn chặn hành vi bạo lực gia đình; thực hiện việc góp ý, phê bình với người gây bạo lực gia đình; bảo vệ, hỗ trợ nạn nhân bạo lực gia đình.
 
----
+ 4. Tổ chức các hoạt động hỗ trợ các hộ gia đình vay vốn để sản xuất, làm dịch vụ phát triển kinh tế gia đình theo quy định của pháp luật. Xây dựng các loại hình dịch vụ phục vụ gia đình phù hợp điều kiện thực tế của địa phương và nhu cầu của người dân.
 
+ 5. Tổ chức các hoạt động văn hóa văn nghệ, thể dục thể thao, vui chơi giải trí, sinh hoạt cộng đồng phù hợp với điều kiện thực tế của địa phương và nhu cầu của người dân.
 
-### Điều 8.4.TT.1.4. Trách nhiệm tổ chức hoạt động
+ 6. Biểu dương các tổ chức, cá nhân, gia đình tiêu biểu trong hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững.
 
-*Nội dung chưa có sẵn*
+ 7. Các hoạt động khác nhằm hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng.Điều 8.4.TT.1.3. Các cơ quan, tổ chức và cá nhân thực hiện hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
 
-**Chỉ mục:** 4
+(Điều 3 Thông tư số 12/2013/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 03/02/2014)
 
-**Mã phân cấp:** 08004000000000001000004000000000000000000040245950002000080000802494300120000400
+ 1. Ban chỉ đạo công tác gia đình.
 
-**ID:** dk_00010671
+ 2. Các loại hình Câu lạc bộ hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững.
 
----
+ 3. Trung tâm học tập cộng đồng.
 
+ 4. Các cơ quan, tổ chức hỗ trợ phát triển kinh tế gia đình.
 
-### Điều 8.4.TT.1.5. Kinh phí thực hiện
+ 5. Các tổ liên gia, tự quản.
 
-*Nội dung chưa có sẵn*
+ 6. Nhóm phòng, chống bạo lực gia đình.
 
-**Chỉ mục:** 5
+ 7. Địa chỉ tin cậy tại cộng đồng.
 
-**Mã phân cấp:** 08004000000000001000004000000000000000000040245950002000080000802494300120000500
+ 8. Tổ hòa giải cơ sở.
 
-**ID:** dk_00010672
+ 9. Đội tuyên truyền lưu động
 
----
+ 10. Cơ sở hỗ trợ nạn nhân bạo lực gia đình.
 
+ 11. Cơ sở tư vấn về phòng, chống bạo lực gia đình.
 
-### Điều 8.4.NĐ.1.9. Tổ chức kỷ niệm Ngày Gia đình Việt Nam
+ 12. Cơ sở bảo trợ xã hội.
 
-Điều 8.4.NĐ.1.9. Tổ chức kỷ niệm Ngày Gia đình Việt Nam
+ 13. Các cơ quan, tổ chức và cá nhân khác thực hiện hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng.Điều 8.4.TT.1.4. Trách nhiệm tổ chức hoạt động
 
-**Chỉ mục:** 9
+(Điều 4 Thông tư số 12/2013/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 03/02/2014)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020000900
+ 1. Bộ Văn hóa, Thể thao và Du lịch chỉ đạo triển khai các hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng theo chức năng, nhiệm vụ.
 
-**ID:** dk_00010673
+ 2. Vụ Gia đình và các đơn vị liên quan thuộc Bộ Văn hóa, Thể thao và Du lịch căn cứ vào chức năng, nhiệm vụ có trách nhiệm xây dựng và hướng dẫn tổ chức các hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng.
 
----
+ 3. Sở Văn hóa, Thể thao và Du lịch các tỉnh, thành phố trực thuộc Trung ương tổ chức các hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng theo chức năng, nhiệm vụ; phối hợp với các cơ quan, tổ chức liên quan tham mưu cho Ủy ban nhân dân cấp tỉnh bố trí và hướng dẫn sử dụng kinh phí cho hoạt động này trong kinh phí chi cho sự nghiệp gia đình; thực hiện kiểm tra, đánh giá, sơ kết, tổng kết, báo cáo việc thực hiện Thông tư này.
 
+ 4. Ban chỉ đạo công tác gia đình cấp tỉnh, huyện, xã chịu trách nhiệm tham mưu cho Ủy ban nhân dân cùng cấp triển khai các hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng.Điều 8.4.TT.1.5. Kinh phí thực hiện
 
-### Điều 8.4.NĐ.1.10. Thanh tra, kiểm tra, xử lý vi phạm pháp luật về công tác gia đình
+(Điều 5 Thông tư số 12/2013/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 03/02/2014)
+
+ Kinh phí tổ chức các hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng được bố trí từ ngân sách nhà nước và các nguồn kinh phí hỗ trợ khác theo quy định của pháp luật.Điều 8.4.NĐ.1.9. Tổ chức kỷ niệm Ngày Gia đình Việt Nam
+
+(Điều 9 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
+
+Hằng năm, tổ chức kỷ niệm Ngày Gia đình Việt Nam (ngày 28 tháng 6) nhằm đề cao trách nhiệm của lãnh đạo các ngành, các cấp, các đoàn thể, tổ chức xã hội và gia đình quan tâm xây dựng gia đình no ấm, bình đẳng, tiến bộ, hạnh phúc, bền vững; động viên, khen thưởng kịp thời tổ chức, cá nhân, gia đình có thành tích tiêu biểu, xuất sắc trong công tác gia đình.
 
 Điều 8.4.NĐ.1.10. Thanh tra, kiểm tra, xử lý vi phạm pháp luật về công tác gia đình
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001000
-
-**ID:** dk_00010674
-
----
-
-
-### Điều 8.4.NĐ.1.11. Nghiên cứu khoa học, xây dựng cơ sở dữ liệu về gia đình và công tác gia đình
+Tổ chức các hoạt động thanh tra, kiểm tra, xử lý vi phạm pháp luật về công tác gia đình theo quy định của pháp luật.
 
 Điều 8.4.NĐ.1.11. Nghiên cứu khoa học, xây dựng cơ sở dữ liệu về gia đình và công tác gia đình
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001100
+1. Tổ chức các hoạt động điều tra, khảo sát và nghiên cứu khoa học phục vụ việc xây dựng chính sách, pháp luật về công tác gia đình.
 
-**ID:** dk_00010675
+2. Xây dựng cơ sở dữ liệu về gia đình và công tác gia đình.
 
----
+3. Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Khoản 2 Điều này.
 
+Điều 8.4.NĐ.1.12. Hợp tác quốc tế
 
-### Điều 8.4.NĐ.1.12. Hợp tác quốc tế
+(Điều 12 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 12
-
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001200
-
-**ID:** dk_00010676
-
----
-
-
-### Điều 8.4.NĐ.1.13. Sơ kết, tổng kết, chế độ thông tin, báo cáo
+Hợp tác với các quốc gia, các tổ chức quốc tế, các tổ chức phi chính phủ trong việc xây dựng chính sách, kinh nghiệm quản lý, nghiên cứu khoa học, trao đổi chuyên gia, hỗ trợ kỹ thuật và tài chính về lĩnh vực gia đình theo quy định của pháp luật.
 
 Điều 8.4.NĐ.1.13. Sơ kết, tổng kết, chế độ thông tin, báo cáo
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001300
+1. Ủy ban nhân dân các cấp tổ chức sơ kết, tổng kết, đánh giá tình hình thực hiện các hoạt động về công tác gia đình tại địa phương, báo cáo cơ quan cấp trên.
 
-**ID:** dk_00010677
-
----
-
-
-### Điều 8.4.NĐ.1.14. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch
+2. Hằng năm, trước ngày 15 tháng 12, các Bộ, ngành liên quan, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm gửi báo cáo kết quả thực hiện công tác gia đình về Bộ Văn hóa, Thể thao và Du lịch để tổng hợp, báo cáo Thủ tướng Chính phủ.
 
 Điều 8.4.NĐ.1.14. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001400
+1. Xây dựng, tổ chức thực hiện chính sách, pháp luật về gia đình.
 
-**ID:** dk_00010678
+2. Hướng dẫn và tổ chức đào tạo, bồi dưỡng nâng cao năng lực cho đội ngũ cán bộ làm công tác gia đình.
 
----
+3. Hướng dẫn và tuyên truyền, vận động, phổ biến chính sách, pháp luật, kiến thức về công tác gia đình.
 
+4. Xây dựng và hướng dẫn nhân rộng các mô hình gia đình.
 
-### Điều 8.4.NĐ.1.15. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+5. Quản lý nhà nước đối với các đơn vị sự nghiệp công lập cung ứng dịch vụ công thuộc lĩnh vực gia đình.
+
+6. Hướng dẫn và tổ chức kỷ niệm Ngày Gia đình Việt Nam.
+
+7. Hợp tác quốc tế, nghiên cứu khoa học về gia đình và công tác gia đình theo quy định của pháp luật.
+
+8. Xây dựng cơ sở dữ liệu về gia đình và công tác gia đình.
+
+9. Thanh tra, kiểm tra, xử lý vi phạm về công tác gia đình theo quy định của pháp luật.
+
+10. Sơ kết, tổng kết, định kỳ báo cáo Thủ tướng Chính phủ về tình hình thực hiện công tác gia đình.
 
 Điều 8.4.NĐ.1.15. Trách nhiệm của Bộ Kế hoạch và Đầu tư
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001500
+Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch hướng dẫn, lồng ghép các chính sách về công tác gia đình vào các chiến lược, quy hoạch, kế hoạch phát triển kinh tế - xã hội.
 
-**ID:** dk_00010679
+Điều 8.4.NĐ.1.16. Trách nhiệm của Bộ Tài chính
 
----
+(Điều 16 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
+Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch và các Bộ, ngành có liên quan bố trí kinh phí thực hiện công tác gia đình theo phân cấp ngân sách nhà nước hiện hành; hướng dẫn, kiểm tra các Bộ, ngành liên quan, các địa phương trong việc bố trí và sử dụng kinh phí thực hiện công tác gia đình.
 
-### Điều 8.4.NĐ.1.16. Trách nhiệm của Bộ Tài chính
+Điều 8.4.NĐ.1.17. Trách nhiệm của Bộ Tư pháp
 
-*Nội dung chưa có sẵn*
+(Điều 17 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Chỉ mục:** 16
+1. Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch và các cơ quan có liên quan trong việc xây dựng chính sách, pháp luật về công tác gia đình trong phạm vi chức năng, nhiệm vụ được giao.
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001600
-
-**ID:** dk_00010680
-
----
-
-
-### Điều 8.4.NĐ.1.17. Trách nhiệm của Bộ Tư pháp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001700
-
-**ID:** dk_00010681
-
----
-
-
-### Điều 8.4.NĐ.1.18. Trách nhiệm của Bộ Giáo dục và Đào tạo
+2. Hướng dẫn công tác hòa giải mâu thuẫn, tranh chấp trong gia đình theo quy định của pháp luật.
 
 Điều 8.4.NĐ.1.18. Trách nhiệm của Bộ Giáo dục và Đào tạo
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001800
+Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, Hội Liên hiệp phụ nữ Việt Nam lồng ghép phù hợp nội dung giáo dục về gia đình vào chương trình giáo dục các cấp học.
 
-**ID:** dk_00010682
+Điều 8.4.NĐ.1.19. Trách nhiệm của Bộ Nội vụ
 
----
+(Điều 19 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-
-### Điều 8.4.NĐ.1.19. Trách nhiệm của Bộ Nội vụ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020001900
-
-**ID:** dk_00010683
-
----
-
-
-### Điều 8.4.NĐ.1.20. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
+Phối hợp với Bộ Văn hóa, Thể thao và Du lịch hướng dẫn thực hiện quy hoạch, kiện toàn đội ngũ cán bộ làm công tác gia đình các cấp.
 
 Điều 8.4.NĐ.1.20. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020002000
-
-**ID:** dk_00010684
-
----
-
-
-### Điều 8.4.NĐ.1.21. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, các Bộ, cơ quan có liên quan xây dựng chính sách, pháp luật về bảo vệ, chăm sóc, giáo dục trẻ em trong gia đình, chăm sóc, phụng dưỡng người cao tuổi trong gia đình và phòng, chống các tệ nạn xã hội xâm nhập vào gia đình theo chức năng, nhiệm vụ được giao.
 
 Điều 8.4.NĐ.1.21. Trách nhiệm của các Bộ, cơ quan ngang Bộ
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020002100
+1. Chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện các nội dung liên quan đến công tác gia đình trong phạm vi, chức năng, nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00010685
+2. Ban hành và trình cấp có thẩm quyền ban hành các chính sách, pháp luật, chương trình, đề án liên quan đến công tác gia đình; hướng dẫn, kiểm tra, thanh tra, sơ kết, tổng kết việc thực hiện các chính sách, pháp luật, chương trình, đề án thuộc trách nhiệm quản lý liên quan đến công tác gia đình.
 
----
-
-
-### Điều 8.4.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân các cấp
+3. Hằng năm, tổng kết việc thực hiện các nhiệm vụ liên quan đến công tác gia đình thuộc lĩnh vực quản lý nhà nước do Bộ, ngành chủ trì, gửi Bộ Văn hóa, Thể thao và Du lịch tổng hợp, báo cáo Thủ tướng Chính phủ.
 
 Điều 8.4.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân các cấp
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020002200
+1. Tổ chức, kiểm tra việc thực hiện chính sách, pháp luật về công tác gia đình tại địa phương.
 
-**ID:** dk_00010686
+2. Xây dựng, triển khai thực hiện chương trình, kế hoạch công tác gia đình gắn với chương trình phát triển kinh tế - xã hội của địa phương.
 
----
-
-
-### Điều 8.4.NĐ.1.23. Tham gia quản lý nhà nước về công tác gia đình của các cấp Hội Liên hiệp phụ nữ
+3. Bố trí ngân sách cho công tác gia đình theo đúng quy định của pháp luật về ngân sách nhà nước.
 
 Điều 8.4.NĐ.1.23. Tham gia quản lý nhà nước về công tác gia đình của các cấp Hội Liên hiệp phụ nữ
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020002300
-
-**ID:** dk_00010687
-
----
-
-
-### Điều 8.4.NĐ.1.24. Tham gia thực hiện công tác gia đình
+Bộ Văn hóa, Thể thao và Du lịch, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp bảo đảm cho Hội Liên hiệp phụ nữ cùng cấp tham gia quản lý nhà nước về công tác gia đình theo quy định của pháp luật và theo quy định tại Điều 4, Điều 6, các Khoản 1, 2 và 3 của Điều 8, Điều 9 Nghị định này.
 
 Điều 8.4.NĐ.1.24. Tham gia thực hiện công tác gia đình
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020002400
-
-**ID:** dk_00010688
-
----
-
-
-### Điều 8.4.NĐ.1.25. Kinh phí thực hiện công tác gia đình
+Đề nghị Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên tham gia tuyên truyền, phổ biến, giáo dục chính sách, pháp luật, kiểm tra, giám sát việc thực hiện chính sách, pháp luật về công tác gia đình theo quy định của pháp luật.
 
 Điều 8.4.NĐ.1.25. Kinh phí thực hiện công tác gia đình
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**Mã phân cấp:** 080040000000000010000040000000000000000000402459500020002500
+1. Kinh phí dành cho các hoạt động về công tác gia đình của các Bộ, ngành, Ủy ban nhân dân các cấp được bố trí từ ngân sách nhà nước theo quy định của pháp luật. Việc lập dự toán, phân bổ kinh phí cho công tác gia đình thực hiện theo quy định của Luật ngân sách nhà nước và các văn bản liên quan.
 
-**ID:** dk_00010689
+2. Kinh phí huy động của tổ chức, cá nhân trong nước và ngoài nước cho công tác gia đình được quản lý và sử dụng theo quy định của pháp luật.
 
----
+Điều 8.4.LQ.5. Bảo vệ chế độ hôn nhân và gia đình
 
+(Điều 5 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.5. Bảo vệ chế độ hôn nhân và gia đình
+1. Quan hệ hôn nhân và gia đình được xác lập, thực hiện theo quy định của Luật này được tôn trọng và được pháp luật bảo vệ.
 
-*Nội dung chưa có sẵn*
+2. Cấm các hành vi sau đây:
 
-**Chỉ mục:** 5
+a) Kết hôn giả tạo, ly hôn giả tạo;
 
-**Mã phân cấp:** 0800400000000000100000500000000000000000
+b) Tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn, cản trở kết hôn;
 
-**ID:** dk_00010690
+c) Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác hoặc chưa có vợ, chưa có chồng mà kết hôn hoặc chung sống như vợ chồng với người đang có chồng, có vợ;
 
----
+d) Kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu về trực hệ; giữa những người có họ trong phạm vi ba đời; giữa cha, mẹ nuôi với con nuôi; giữa người đã từng là cha, mẹ nuôi với con nuôi, cha chồng với con dâu, mẹ vợ với con rể, cha dượng với con riêng của vợ, mẹ kế với con riêng của chồng;
 
+đ) Yêu sách của cải trong kết hôn;
 
-### Điều 8.4.LQ.6. Áp dụng quy định của Bộ luật dân sự và các luật khác có liên quan
+e) Cưỡng ép ly hôn, lừa dối ly hôn, cản trở ly hôn;
+
+g) Thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản vì mục đích thương mại, mang thai hộ vì mục đích thương mại, lựa chọn giới tính thai nhi, sinh sản vô tính;
+
+h) Bạo lực gia đình;
+
+i) Lợi dụng việc thực hiện quyền về hôn nhân và gia đình để mua bán người, bóc lột sức lao động, xâm phạm tình dục hoặc có hành vi khác nhằm mục đích trục lợi.
+
+3. Mọi hành vi vi phạm pháp luật về hôn nhân và gia đình phải được xử lý nghiêm minh, đúng pháp luật.
+
+Cơ quan, tổ chức, cá nhân có quyền yêu cầu Tòa án, cơ quan khác có thẩm quyền áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình.
+
+4. Danh dự, nhân phẩm, uy tín, bí mật đời tư và các quyền riêng tư khác của các bên được tôn trọng, bảo vệ trong quá trình giải quyết vụ việc về hôn nhân và gia đình.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.34. Quyền được bảo vệ danh dự, nhân phẩm, uy tín; Điều 9.1.LQ.38. Quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình; Điều 15.3.TL.2.7. Đăng ký kết hôn của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016)
 
 Điều 8.4.LQ.6. Áp dụng quy định của Bộ luật dân sự và các luật khác có liên quan
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000100000600000000000000000
+Các quy định của Bộ luật dân sự và các luật khác có liên quan đến quan hệ hôn nhân và gia đình được áp dụng đối với quan hệ hôn nhân và gia đình trong trường hợp Luật này không quy định.
 
-**ID:** dk_00010691
-
----
-
-
-### Điều 8.4.LQ.7. Áp dụng tập quán về hôn nhân và gia đình
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.4. Áp dụng Bộ luật dân sự; Điều 9.1.LQ.5. Áp dụng tập quán; Điều 9.1.LQ.6. Áp dụng tương tự pháp luật)
 
 Điều 8.4.LQ.7. Áp dụng tập quán về hôn nhân và gia đình
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000100000700000000000000000
+1. Trong trường hợp pháp luật không quy định và các bên không có thỏa thuận thì tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, không trái với nguyên tắc quy định tại Điều 2 và không vi phạm điều cấm của Luật này được áp dụng.
 
-**ID:** dk_00010692
+2. Chính phủ quy định chi tiết khoản 1 Điều này.
 
----
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.5. Áp dụng tập quán)
 
+Điều 8.4.NĐ.2.2. Nguyên tắc áp dụng tập quán
 
-### Điều 8.4.NĐ.2.2. Nguyên tắc áp dụng tập quán
+(Điều 2 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-*Nội dung chưa có sẵn*
+1. Tập quán được áp dụng phải là quy tắc xử sự phù hợp với quy định tại Khoản 4 Điều 3 của Luật Hôn nhân và gia đình.
 
-**Chỉ mục:** 2
+2. Việc áp dụng tập quán phải tuân theo các điều kiện được quy định tại Điều 7 của Luật Hôn nhân và gia đình.
 
-**Mã phân cấp:** 080040000000000010000070000000000000000000402532201260000200
+3. Tôn trọng sự thỏa thuận của các bên về tập quán được áp dụng.
 
-**ID:** dk_00010693
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ)
 
----
+Điều 8.4.NĐ.2.3. Thỏa thuận về áp dụng tập quán
 
+(Điều 3 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-### Điều 8.4.NĐ.2.3. Thỏa thuận về áp dụng tập quán
+1. Quy định các bên không có thỏa thuận tại Khoản 1 Điều 7 của Luật Hôn nhân và gia đình được hiểu là các bên không có thỏa thuận về áp dụng tập quán và cũng không có thỏa thuận khác về vụ, việc cần được giải quyết.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp các bên có thỏa thuận về tập quán được áp dụng thì giải quyết theo thỏa thuận đó; nếu các bên không có thỏa thuận thì giải quyết theo quy định tại Điều 4 của Nghị định này.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 080040000000000010000070000000000000000000402532201260000300
-
-**ID:** dk_00010694
-
----
-
-
-### Điều 8.4.NĐ.2.4. Giải quyết vụ, việc hôn nhân và gia đình có áp dụng tập quán
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ)
 
 Điều 8.4.NĐ.2.4. Giải quyết vụ, việc hôn nhân và gia đình có áp dụng tập quán
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000010000070000000000000000000402532201260000400
+1. Trường hợp giải quyết vụ, việc hôn nhân và gia đình có áp dụng tập quán thì thực hiện việc hòa giải theo quy định của pháp luật về hòa giải ở cơ sở, khuyến khích sự tham gia hòa giải của người có uy tín trong cộng đồng, chức sắc tôn giáo.
 
-**ID:** dk_00010695
+2. Trường hợp hòa giải không thành hoặc vụ, việc hôn nhân và gia đình có áp dụng tập quán không thuộc phạm vi hòa giải ở cơ sở thì Tòa án giải quyết vụ, việc đó theo quy định của pháp luật tố tụng dân sự.
 
----
-
-
-### Điều 8.4.NĐ.2.5. Tuyên truyền, vận động nhân dân về áp dụng tập quán
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ)
 
 Điều 8.4.NĐ.2.5. Tuyên truyền, vận động nhân dân về áp dụng tập quán
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000010000070000000000000000000402532201260000500
+1. Các Bộ, ngành liên quan và Ủy ban nhân dân các cấp phối hợp với Mặt trận Tổ quốc Việt Nam xây dựng, thực hiện các chính sách, biện pháp sau đây:
 
-**ID:** dk_00010696
+a) Tạo điều kiện để người dân thực hiện các quy định của pháp luật về hôn nhân và gia đình; phát huy truyền thống, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, xóa bỏ tập quán lạc hậu về hôn nhân và gia đình;
 
----
+b) Tăng cường tuyên truyền, phổ biến pháp luật về hôn nhân và gia đình, vận động người dân phát huy truyền thống, tập quán tốt đẹp và xóa bỏ tập quán lạc hậu về hôn nhân và gia đình;
 
+c) Giáo dục thế hệ trẻ bảo tồn, phát triển ngôn ngữ, chữ viết và phát huy các giá trị văn hóa trong tập quán tốt đẹp của mỗi dân tộc.
 
-### Điều 8.4.NĐ.2.6. Trách nhiệm về xây dựng danh mục tập quán được áp dụng
+2. Tập quán lạc hậu về hôn nhân và gia đình là tập quán trái với những nguyên tắc cơ bản của chế độ hôn nhân và gia đình quy định tại Điều 2 của Luật Hôn nhân và gia đình hoặc vi phạm điều cấm quy định tại Khoản 2 Điều 5 của Luật Hôn nhân và gia đình.
+
+Ban hành kèm theo Nghị định này Danh mục tập quán lạc hậu về hôn nhân và gia đình cần vận động xóa bỏ hoặc cấm áp dụng.
 
 Điều 8.4.NĐ.2.6. Trách nhiệm về xây dựng danh mục tập quán được áp dụng
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000010000070000000000000000000402532201260000600
+1. Trong thời hạn ba năm kể từ ngày Nghị định này có hiệu lực, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) có trách nhiệm xây dựng, trình Hội đồng nhân dân cùng cấp phê duyệt danh mục các tập quán về hôn nhân và gia đình được áp dụng tại địa phương.
 
-**ID:** dk_00010697
+2. Căn cứ vào thực tiễn áp dụng tập quán về hôn nhân và gia đình tại địa phương, Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp sửa đổi, bổ sung danh mục tập quán đã ban hành.
 
----
+Chương II
 
+KẾT HÔN
 
-### Điều 8.4.LQ.8. Điều kiện kết hôn
+(Chương này có nội dung liên quan đến Điều 41.13.QĐ.1. của Quyết định 308/2005/QĐ-TTg Ban hành Quy chế thực hiện nếp sống văn minh trong việc cưới, việc tang và lễ hội ban hành ngày 25/11/2005)
 
-*Nội dung chưa có sẵn*
+Điều 8.4.LQ.8. Điều kiện kết hôn
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200000800000000000000000
+1. Nam, nữ kết hôn với nhau phải tuân theo các điều kiện sau đây:
 
-**ID:** dk_00010699
+a) Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên;
 
----
+b) Việc kết hôn do nam và nữ tự nguyện quyết định;
 
+c) Không bị mất năng lực hành vi dân sự;
 
-### Điều 8.4.TL.1.4. Xử lý yêu cầu hủy việc kết hôn trái pháp luật
+d) Việc kết hôn không thuộc một trong các trường hợp cấm kết hôn theo quy định tại các điểm a, b, c và d khoản 2 Điều 5 của Luật này.
+
+2. Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính.
+
+(Điều này có nội dung liên quan đến Điều 1. Điều kiện kết hôn (Điều 9) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn; Điều 15.3.LQ.38. Thủ tục đăng ký kết hôn; Điều 9.1.LQ.39. Quyền nhân thân trong hôn nhân và gia đình; Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật; Điều 15.3.TL.2.7. Đăng ký kết hôn; Điều 15.3.TL.2.19. Cấp Giấy xác nhận tình trạng hôn nhân của )
 
 Điều 8.4.TL.1.4. Xử lý yêu cầu hủy việc kết hôn trái pháp luật
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 080040000000000020000080000000000000000000802569300010000400
+1. Khi xem xét, giải quyết yêu cầu có liên quan đến việc hủy kết hôn trái pháp luật, Tòa án phải căn cứ vào yêu cầu của đương sự và điều kiện kết hôn, điều kiện công nhận quan hệ hôn nhân quy định tại Điều 8 và Điều 11 của Luật hôn nhân và gia đình để quyết định.
 
-**ID:** dk_00010700
+2. Trường hợp tại thời điểm kết hôn, hai bên kết hôn không có đủ điều kiện kết hôn nhưng sau đó có đủ điều kiện kết hôn quy định tại Điều 8 của Luật hôn nhân và gia đình thì Tòa án xử lý như sau:
 
----
+a) Nếu hai bên kết hôn cùng yêu cầu Tòa án công nhận quan hệ hôn nhân thì Tòa án quyết định công nhận quan hệ hôn nhân đó kể từ thời điểm các bên kết hôn có đủ điều kiện kết hôn.
 
+*V**í **dụ 1:* Anh A sinh ngày 25-01-1996, chị B sinh ngày 10-01-1995. Ngày 08-01-2015, anh A và chị B đăng ký kết hôn. Ngày 25-9-2016, Tòa án mở phiên họp giải quyết yêu cầu hủy việc kết hôn trái pháp luật. Tại phiên họp, anh A và chị B đều yêu cầu công nhận quan hệ hôn nhân, nếu xét thấy đã đủ các điều kiện kết hôn khác thì Tòa án xem xét công nhận quan hệ hôn nhân của anh A và chị B kể từ thời điểm cả anh A và chị B đủ tuổi kết hôn, tức là kể từ ngày 25-01-2016.
 
-### Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật
+*Ví dụ 2:* Anh A và chị B đăng ký kết hôn hợp pháp ngày 05-7-2009 và chưa ly hôn. Ngày 10-5-2012, anh A lại kết hôn với chị C. Ngày 12-6-2014, chị B chết. Ngày 15-5-2015, Tòa án mở phiên họp giải quyết yêu cầu hủy việc kết hôn trái pháp luật giữa anh A và chị C. Tại phiên họp, anh A và chị C đều yêu cầu công nhận quan hệ hôn nhân, nếu xét thấy đã đủ các điều kiện kết hôn khác thì Tòa án xem xét công nhận quan hệ hôn nhân của anh A và chị C kể từ thời điểm chị B chết, tức là ngày 12-6-2014.
+
+*Ví dụ 3:* Ngày 27-5-2009, chị A bị Tòa án tuyên bố mất năng lực hành vi dân sự. Ngày 30-9-2009, chị A kết hôn với anh B. Ngày 12-8-2012, Tòa án quyết định hủy bỏ quyết định tuyên bố chị A mất năng lực hành vi dân sự. Ngày 12-02-2015, Tòa án mở phiên họp giải quyết yêu cầu hủy việc kết hôn trái pháp luật. Tại phiên họp, chị A và anh B đều yêu cầu công nhận quan hệ hôn nhân, nếu xét thấy đã đủ các điều kiện kết hôn khác thì Tòa án xem xét công nhận quan hệ hôn nhân của chị A và anh B kể từ thời điểm chị A không còn bị mất năng lực hành vi dân sự theo quyết định của Tòa án đã có hiệu lực pháp luật.
+
+b) Nếu một hoặc hai bên yêu cầu hủy việc kết hôn trái pháp luật hoặc có một bên yêu cầu công nhận quan hệ hôn nhân hoặc có một bên yêu cầu ly hôn còn bên kia không có yêu cầu thì Tòa án quyết định hủy việc kết hôn trái pháp luật. Trường hợp có đơn khởi kiện, đơn yêu cầu Tòa án giải quyết thì quyền, nghĩa vụ của cha, mẹ, con; quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên từ thời điểm kết hôn đến thời điểm hủy việc kết hôn trái pháp luật được giải quyết theo quy định tại Điều 12 của Luật hôn nhân và gia đình.
+
+c) Trường hợp hai bên cùng yêu cầu Tòa án cho ly hôn hoặc có một bên yêu cầu ly hôn còn bên kia yêu cầu công nhận quan hệ hôn nhân thì Tòa án giải quyết cho ly hôn. Trường hợp này, quyền, nghĩa vụ của cha, mẹ, con từ thời điểm kết hôn đến thời điểm ly hôn được giải quyết theo quy định về quyền, nghĩa vụ của cha, mẹ, con khi ly hôn; quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên từ thời điểm kết hôn đến trước thời điểm đủ điều kiện kết hôn được giải quyết theo quy định tại Điều 16 của Luật hôn nhân và gia đình; quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên từ thời điểm đủ điều kiện kết hôn đến thời điểm ly hôn được giải quyết theo quy định tại Điều 59 của Luật hôn nhân và gia đình.
+
+3. Trường hợp hai bên đã đăng ký kết hôn nhưng tại thời điểm Tòa án giải quyết hai bên kết hôn vẫn không có đủ các điều kiện kết hôn quy định tại Điều 8 của Luật hôn nhân và gia đình thì thực hiện như sau:
+
+a) Nếu có yêu cầu hủy việc kết hôn trái pháp luật thì Tòa án quyết định hủy việc kết hôn trái pháp luật;
+
+b) Nếu một hoặc cả hai bên yêu cầu ly hôn hoặc yêu cầu công nhận quan hệ hôn nhân thì Tòa án bác yêu cầu của họ và quyết định hủy việc kết hôn trái pháp luật.
+
+Trường hợp quyết định theo hướng dẫn tại điểm a và điểm b khoản này thì Tòa án áp dụng quy định tại Điều 12 của Luật hôn nhân và gia đình để giải quyết hậu quả pháp lý của việc hủy kết hôn trái pháp luật.
+
+4. Khi xử lý yêu cầu hủy việc kết hôn trái pháp luật, Tòa án phải căn cứ vào quy định của pháp luật hôn nhân và gia đình có hiệu lực tại thời điểm xác lập quan hệ hôn nhân để xác định việc kết hôn có trái pháp luật hay không. Trình tự, thủ tục giải quyết yêu cầu xử lý việc kết hôn trái pháp luật được thực hiện theo quy định của Luật hôn nhân và gia đình và pháp luật tố tụng dân sự có hiệu lực tại thời điểm giải quyết. Đối với yêu cầu hủy việc kết hôn trái pháp luật thuộc trường hợp cán bộ và bộ đội miền Nam tập kết ra miền Bắc từ năm 1954, đã có vợ, có chồng ở miền Nam mà lấy vợ, lấy chồng ở miền Bắc thì vẫn xử lý theo Thông tư số 60/TATC ngày 22-02-1978 của Tòa án nhân dân tối cao “Hướng dẫn giải quyết các trường hợp cán bộ, bộ đội trong Nam tập kết ra Bắc mà lấy vợ, lấy chồng khác”.
 
 Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 080040000000000020000080000000000000000000802569300019300200
+Khi giải quyết yêu cầu hủy việc kết hôn trái pháp luật, Tòa án phải căn cứ vào điều kiện kết hôn quy định tại Điều 8 của Luật hôn nhân và gia đình để xem xét, quyết định xử lý việc kết hôn trái pháp luật và lưu ý một số điểm như sau:
 
-**ID:** dk_00010701
+1. *“Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên”* quy định tại điểm a khoản 1 Điều 8 của Luật hôn nhân và gia đình là trường hợp nam đã đủ hai mươi tuổi, nữ đã đủ mười tám tuổi trở lên và được xác định theo ngày, tháng, năm sinh.
 
----
+Trường hợp không xác định được ngày sinh, tháng sinh thì thực hiện như sau:
 
+a) Nếu xác định được năm sinh nhưng không xác định được tháng sinh thì tháng sinh được xác định là tháng một của năm sinh;
 
-### Điều 8.4.LQ.9. Đăng ký kết hôn
+b) Nếu xác định được năm sinh, tháng sinh nhưng không xác định được ngày sinh thì ngày sinh được xác định là ngày mùng một của tháng sinh.
 
-*Nội dung chưa có sẵn*
+Ví dụ: Chị B sinh ngày 10-01-1997, đến ngày 08-01-2015 chị B đăng ký kết hôn với anh A tại Ủy ban nhân dân xã X. Tại thời điểm đăng ký kết hôn chị B chưa đủ 18 tuổi (ngày chị B đủ 18 tuổi là ngày 10-01-2015), như vậy, theo quy định tại khoản 1 Điều 9 của Luật hôn nhân và gia đình năm 2000 thì chị B đã đủ tuổi kết hôn, tuy nhiên vì ngày chị B đăng ký kết hôn Luật hôn nhân và gia đình đã có hiệu lực (ngày 01-01-2015) nên chị B đã vi phạm điều kiện về tuổi kết hôn quy định tại điểm a khoản 1 Điều 8 của Luật hôn nhân và gia đình.
 
-**Chỉ mục:** 9
+2. *“Việc kết hôn do nam và nữ tự nguy**ệ**n quyết định”* quy định tại điểm b khoản 1 Điều 8 của Luật hôn nhân và gia đình là trường hợp nam nữ xác lập quan hệ vợ chồng với nhau hoàn toàn tự do theo ý chí của họ.
 
-**Mã phân cấp:** 0800400000000000200000900000000000000000
+3. *“Lừa dối kết hôn”* quy định tại điểm b khoản 2 Điều 5 của Luật hôn nhân và gia đình là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch và dẫn đến việc đồng ý kết hôn; nếu không có hành vi này thì bên bị lừa dối đã không đồng ý kết hôn.
 
-**ID:** dk_00010702
+4. *“Người đang có vợ hoặc có chồng**”* quy định tại điểm c khoản 2 Điều 5 của Luật hôn nhân và gia đình là người thuộc một trong các trường hợp sau đây:
 
----
+a) Người đã kết hôn với người khác theo đúng quy định của pháp luật về hôn nhân và gia đình nhưng chưa ly hôn hoặc không có sự kiện vợ (chồng) của họ chết hoặc vợ (chồng) của họ không bị tuyên bố là đã chết;
 
+b) Người xác lập quan hệ vợ chồng với người khác trước ngày 03-01-1987 mà chưa đăng ký kết hôn và chưa ly hôn hoặc không có sự kiện vợ (chồng) của họ chết hoặc vợ (chồng) của họ không bị tuyên bố là đã chết;
 
-### Điều 8.4.LQ.10. Người có quyền yêu cầu hủy việc kết hôn trái pháp luật
+c) Người đã kết hôn với người khác vi phạm điều kiện kết hôn theo quy định của Luật hôn nhân và gia đình nhưng đã được Tòa án công nhận quan hệ hôn nhân bằng bản án, quyết định của Tòa án đã có hiệu lực pháp luật và chưa ly hôn hoặc không có sự kiện vợ (chồng) của họ chết hoặc vợ (chồng) của họ không bị tuyên bố là đã chết.
+
+5. Việc xác định thời điểm *“cả hai bên kết hôn đã có đủ các điều kiện kết hôn**”* quy định tại khoản 2 Điều 11 của Luật hôn nhân và gia đình phải căn cứ vào các quy định của pháp luật. Tòa án yêu cầu đương sự xác định và cung cấp các tài liệu, chứng cứ để xác định thời điểm cả hai bên kết hôn đã có đủ các điều kiện kết hôn theo quy định tại Điều 8 của Luật hôn nhân và gia đình.
+
+*V**í **dụ 1:* Trường hợp kết hôn khi một bên bị cưỡng ép kết hôn hoặc bị lừa dối kết hôn là vi phạm điều kiện kết hôn quy định tại điểm d khoản 1 Điều 8 của Luật hôn nhân và gia đình. Tuy nhiên, nếu sau khi bị cưỡng ép kết hôn hoặc bị lừa dối kết hôn mà bên bị cưỡng ép kết hôn, bị lừa dối kết hôn đã biết nhưng đã thông cảm, tiếp tục chung sống hòa thuận thì thời điểm đủ điều kiện kết hôn là thời điểm đương sự biết mình bị cưỡng ép, bị lừa dối kết hôn nhưng vẫn tiếp tục sống chung như vợ chồng.
+
+*Ví dụ 2:* Ngày 15-01-2005, chị B kết hôn với anh A. Đến ngày 15-01-2010, chị B lại kết hôn với anh C. Ngày 25-01-2012, Tòa án có quyết định tuyên bố anh A chết. Ngày 12-6-2015, Tòa án mở phiên họp giải quyết yêu cầu hủy việc kết hôn trái pháp luật giữa chị B và anh C. Tại phiên họp, chị B và anh C đều yêu cầu công nhận quan hệ hôn nhân thì chị B và anh C phải cung cấp Quyết định của Tòa án tuyên bố anh A đã chết để xác định thời điểm chị B và anh C đủ điều kiện kết hôn. Trong trường hợp này, thời điểm chị B và anh C có đủ điều kiện kết hôn là thời điểm mà Tòa án xác định anh A chết được ghi trong quyết định của Tòa án có hiệu lực pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ; Điều 8.4.LQ.8. Điều kiện kết hôn; Điều 8.4.LQ.10. Người có quyền yêu cầu hủy việc kết hôn trái pháp luật; Điều 8.4.LQ.11. Xử lý việc kết hôn trái pháp luật; Điều 8.4.LQ.12. Hậu quả pháp lý của việc hủy kết hôn trái pháp luật)
+
+Điều 8.4.LQ.9. Đăng ký kết hôn
+
+(Điều 9 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
+
+1. Việc kết hôn phải được đăng ký và do cơ quan nhà nước có thẩm quyền thực hiện theo quy định của Luật này và pháp luật về hộ tịch.
+
+Việc kết hôn không được đăng ký theo quy định tại khoản này thì không có giá trị pháp lý.
+
+2. Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn.
+
+(Điều này có nội dung liên quan đến Điều 1. ; Điều 2. ; Điều 3. ; Điều 4. của Thông tư liên tịch 01/2001/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành Nghị quyết số 35/2000/QH10 ngày 9 tháng 6 năm 2000 của Quốc hội “Về việc thi hành Luật Hôn nhân và gia đình” ban hành ngày 03/01/2001; Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn; Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn)
 
 Điều 8.4.LQ.10. Người có quyền yêu cầu hủy việc kết hôn trái pháp luật
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200001000000000000000000
+1. Người bị cưỡng ép kết hôn, bị lừa dối kết hôn, theo quy định của pháp luật về tố tụng dân sự, có quyền tự mình yêu cầu hoặc đề nghị cá nhân, tổ chức quy định tại khoản 2 Điều này yêu cầu Tòa án hủy việc kết hôn trái pháp luật do việc kết hôn vi phạm quy định tại điểm b khoản 1 Điều 8 của Luật này.
 
-**ID:** dk_00010703
+2. Cá nhân, cơ quan, tổ chức sau đây, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật do việc kết hôn vi phạm quy định tại các điểm a, c và d khoản 1 Điều 8 của Luật này:
 
----
+a) Vợ, chồng của người đang có vợ, có chồng mà kết hôn với người khác; cha, mẹ, con, người giám hộ hoặc người đại diện theo pháp luật khác của người kết hôn trái pháp luật;
 
+b) Cơ quan quản lý nhà nước về gia đình;
 
-### Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật
+c) Cơ quan quản lý nhà nước về trẻ em;
+
+d) Hội liên hiệp phụ nữ.
+
+3. Cá nhân, cơ quan, tổ chức khác khi phát hiện việc kết hôn trái pháp luật thì có quyền đề nghị cơ quan, tổ chức quy định tại các điểm b, c và d khoản 2 Điều này yêu cầu Tòa án hủy việc kết hôn trái pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 33.3.NQ.1.11. Không phải nộp tiền tạm ứng án phí, tạm ứng lệ phí Tòa án; không phải chịu án phí, lệ phí Tòa án; Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật; Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật của Thông tư liên tịch 01/2016/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành một số quy định của Luật hôn nhân và gia đình ban hành ngày 06/01/2016)
 
 Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 080040000000000020000100000000000000000000802569300019300300
+1. Cơ quan, tổ chức, cá nhân quy định tại Điều 10 của Luật hôn nhân và gia đình có quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật. Kèm theo đơn yêu cầu, người yêu cầu phải nộp Giấy chứng nhận kết hôn đối với cá nhân quy định tại khoản 1 Điều 10 của Luật hôn nhân và gia đình hoặc giấy tờ, tài liệu khác chứng minh đã đăng ký kết hôn; tài liệu, chứng cứ chứng minh việc kết hôn vi phạm điều kiện kết hôn quy định tại Điều 8 của Luật hôn nhân và gia đình.
 
-**ID:** dk_00010704
+Trường hợp vợ chồng có đăng ký kết hôn nhưng không cung cấp được Giấy chứng nhận kết hôn do bị thất lạc thì phải có xác nhận của Ủy ban nhân dân đã cấp Giấy chứng nhận kết hôn.
 
----
+2. Tòa án thụ lý, giải quyết yêu cầu hủy việc kết hôn trái pháp luật theo quy định tại khoản 6 Điều 3 và Điều 11 của Luật hôn nhân và gia đình khi việc kết hôn đó đã được đăng ký tại đúng cơ quan có thẩm quyền. Cơ quan có thẩm quyền đăng ký kết hôn được xác định theo quy định của pháp luật về hộ tịch, pháp luật về hôn nhân và gia đình.
 
+Trường hợp nam, nữ đăng ký kết hôn tại đúng cơ quan có thẩm quyền đăng ký kết hôn mà yêu cầu Tòa án hủy việc kết hôn trái pháp luật thì thực hiện theo hướng dẫn tại Điều 4 của Thông tư liên tịch này.
 
-### Điều 8.4.LQ.11. Xử lý việc kết hôn trái pháp luật
+Trường hợp việc kết hôn được đăng ký tại không đúng cơ quan có thẩm quyền hoặc trường hợp nam, nữ chung sống với nhau như vợ chồng nhưng không có đăng ký kết hôn mà có yêu cầu Tòa án giải quyết thì thực hiện theo hướng dẫn tại khoản 3 và khoản 4 Điều này.
 
-*Nội dung chưa có sẵn*
+3. Trường hợp nam, nữ có đăng ký kết hôn nhưng việc kết hôn đăng ký tại không đúng cơ quan có thẩm quyền (không phân biệt có vi phạm điều kiện kết hôn hay không) mà có yêu cầu Tòa án hủy việc kết hôn trái pháp luật hoặc yêu cầu ly hôn thì Tòa án áp dụng Điều 9 của Luật hôn nhân và gia đình tuyên bố không công nhận quan hệ hôn nhân giữa họ đồng thời hủy Giấy chứng nhận kết hôn và thông báo cho cơ quan hộ tịch đã đăng ký kết hôn để xử lý theo quy định tại Điều 13 của Luật hôn nhân và gia đình. Nếu có yêu cầu Tòa án giải quyết về quyền, nghĩa vụ đối với con; tài sản, nghĩa vụ và hợp đồng giữa các bên thì giải quyết theo quy định tại Điều 15 và Điều 16 của Luật hôn nhân và gia đình.
 
-**Chỉ mục:** 11
+4. Trường hợp nam, nữ chung sống với nhau như vợ chồng mà không có đăng ký kết hôn (không phân biệt có vi phạm điều kiện kết hôn hay không) và có yêu cầu hủy việc kết hôn trái pháp luật hoặc yêu cầu ly hôn thì Tòa án thụ lý, giải quyết và áp dụng Điều 9 và Điều 14 của Luật hôn nhân và gia đình tuyên bố không công nhận quan hệ hôn nhân giữa họ. Nếu có yêu cầu Tòa án giải quyết về quyền, nghĩa vụ của cha, mẹ, con; quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên thì giải quyết theo quy định tại Điều 15 và Điều 16 của Luật hôn nhân và gia đình.
 
-**Mã phân cấp:** 0800400000000000200001100000000000000000
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ; Điều 8.4.LQ.10. Người có quyền yêu cầu hủy việc kết hôn trái pháp luật; Điều 8.4.LQ.11. Xử lý việc kết hôn trái pháp luật; Điều 8.4.LQ.12. Hậu quả pháp lý của việc hủy kết hôn trái pháp luật; Điều 8.4.LQ.13. Xử lý việc đăng ký kết hôn không đúng thẩm quyền; Điều 8.4.LQ.15. Quyền, nghĩa vụ của cha mẹ và con trong trường hợp nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn)
 
-**ID:** dk_00010705
+Điều 8.4.LQ.11. Xử lý việc kết hôn trái pháp luật
 
----
+(Điều 11 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Xử lý việc kết hôn trái pháp luật được Tòa án thực hiện theo quy định tại Luật này và pháp luật về tố tụng dân sự.
 
-### Điều 8.4.LQ.12. Hậu quả pháp lý của việc hủy kết hôn trái pháp luật
+2. Trong trường hợp tại thời điểm Tòa án giải quyết yêu cầu hủy việc kết hôn trái pháp luật mà cả hai bên kết hôn đã có đủ các điều kiện kết hôn theo quy định tại Điều 8 của Luật này và hai bên yêu cầu công nhận quan hệ hôn nhân thì Tòa án công nhận quan hệ hôn nhân đó. Trong trường hợp này, quan hệ hôn nhân được xác lập từ thời điểm các bên đủ điều kiện kết hôn theo quy định của Luật này.
+
+3. Quyết định của Tòa án về việc hủy kết hôn trái pháp luật hoặc công nhận quan hệ hôn nhân phải được gửi cho cơ quan đã thực hiện việc đăng ký kết hôn để ghi vào sổ hộ tịch; hai bên kết hôn trái pháp luật; cá nhân, cơ quan, tổ chức liên quan theo quy định của pháp luật về tố tụng dân sự.
+
+4. Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn Điều này.
+
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.35. Thẩm quyền của Tòa án nhân dân cấp huyện; Điều 37.5.LQ.39. Thẩm quyền của Tòa án theo lãnh thổ; Điều 37.5.LQ.40. Thẩm quyền của Tòa án theo sự lựa chọn của nguyên đơn, người yêu cầu; Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật; Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật của Thông tư liên tịch 01/2016/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành một số quy định của Luật hôn nhân và gia đình ban hành ngày 06/01/2016)
 
 Điều 8.4.LQ.12. Hậu quả pháp lý của việc hủy kết hôn trái pháp luật
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200001200000000000000000
+1. Khi việc kết hôn trái pháp luật bị hủy thì hai bên kết hôn phải chấm dứt quan hệ như vợ chồng.
 
-**ID:** dk_00010706
+2. Quyền, nghĩa vụ của cha, mẹ, con được giải quyết theo quy định về quyền, nghĩa vụ của cha, mẹ, con khi ly hôn.
 
----
+3. Quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên được giải quyết theo quy định tại Điều 16 của Luật này.
 
-
-### Điều 8.4.LQ.13. Xử lý việc đăng ký kết hôn không đúng thẩm quyền
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.209. Sở hữu chung theo phần; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật; Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật)
 
 Điều 8.4.LQ.13. Xử lý việc đăng ký kết hôn không đúng thẩm quyền
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200001300000000000000000
+Trong trường hợp việc đăng ký kết hôn không đúng thẩm quyền thì khi có yêu cầu, cơ quan nhà nước có thẩm quyền thu hồi, hủy bỏ giấy chứng nhận kết hôn theo quy định của pháp luật về hộ tịch và yêu cầu hai bên thực hiện lại việc đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền. Trong trường hợp này, quan hệ hôn nhân được xác lập từ ngày đăng ký kết hôn trước.
 
-**ID:** dk_00010707
-
----
-
-
-### Điều 8.4.LQ.14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
+(Điều này có nội dung liên quan đến Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật)
 
 Điều 8.4.LQ.14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200001400000000000000000
+1. Nam, nữ có đủ điều kiện kết hôn theo quy định của Luật này chung sống với nhau như vợ chồng mà không đăng ký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng. Quyền, nghĩa vụ đối với con, tài sản, nghĩa vụ và hợp đồng giữa các bên được giải quyết theo quy định tại Điều 15 và Điều 16 của Luật này.
 
-**ID:** dk_00010708
+2. Trong trường hợp nam, nữ chung sống với nhau như vợ chồng theo quy định tại khoản 1 Điều này nhưng sau đó thực hiện việc đăng ký kết hôn theo quy định của pháp luật thì quan hệ hôn nhân được xác lập từ thời điểm đăng ký kết hôn.
 
----
-
-
-### Điều 8.4.LQ.15. Quyền, nghĩa vụ của cha mẹ và con trong trường hợp nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
+(Điều này có nội dung liên quan đến Điều 1. ; Điều 2. ; Điều 3. ; Điều 4. của Thông tư liên tịch 01/2001/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành Nghị quyết số 35/2000/QH10 ngày 9 tháng 6 năm 2000 của Quốc hội “Về việc thi hành Luật Hôn nhân và gia đình” ban hành ngày 03/01/2001; Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn; Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn)
 
 Điều 8.4.LQ.15. Quyền, nghĩa vụ của cha mẹ và con trong trường hợp nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200001500000000000000000
+Quyền, nghĩa vụ giữa nam, nữ chung sống với nhau như vợ chồng và con được giải quyết theo quy định của Luật này về quyền, nghĩa vụ của cha mẹ và con.
 
-**ID:** dk_00010709
-
----
-
-
-### Điều 8.4.LQ.16. Giải quyết quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
+(Điều này có nội dung liên quan đến Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật)
 
 Điều 8.4.LQ.16. Giải quyết quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000200001600000000000000000
+1. Quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn được giải quyết theo thỏa thuận giữa các bên; trong trường hợp không có thỏa thuận thì giải quyết theo quy định của Bộ luật dân sự và các quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00010710
+2. Việc giải quyết quan hệ tài sản phải bảo đảm quyền, lợi ích hợp pháp của phụ nữ và con; công việc nội trợ và công việc khác có liên quan để duy trì đời sống chung được coi như lao động có thu nhập.
 
----
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.209. Sở hữu chung theo phần; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung)
 
+Chương III
 
-### Điều 8.4.LQ.17. Bình đẳng về quyền, nghĩa vụ giữa vợ, chồng
+QUAN HỆ GIỮA VỢ VÀ CHỒNG
+
+Mục 1
+
+QUYỀN VÀ NGHĨA VỤ VỀ NHÂN THÂN
 
 Điều 8.4.LQ.17. Bình đẳng về quyền, nghĩa vụ giữa vợ, chồng
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000001000000000000000001700000000000000000
+Vợ, chồng bình đẳng với nhau, có quyền, nghĩa vụ ngang nhau về mọi mặt trong gia đình, trong việc thực hiện các quyền, nghĩa vụ của công dân được quy định trong Hiến pháp, Luật này và các luật khác có liên quan.
 
-**ID:** dk_00010713
-
----
-
-
-### Điều 8.4.LQ.18. Bảo vệ quyền, nghĩa vụ về nhân thân của vợ, chồng
+(Điều này có nội dung liên quan đến Điều 8.2.LQ.18. Bình đẳng giới trong gia đình)
 
 Điều 8.4.LQ.18. Bảo vệ quyền, nghĩa vụ về nhân thân của vợ, chồng
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000001000000000000000001800000000000000000
+Quyền, nghĩa vụ về nhân thân của vợ, chồng quy định tại Luật này, Bộ luật dân sự và các luật khác có liên quan được tôn trọng và bảo vệ.
 
-**ID:** dk_00010714
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.25. Quyền nhân thân; Điều 9.1.LQ.39. Quyền nhân thân trong hôn nhân và gia đình)
 
----
+Điều 8.4.LQ.19. Tình nghĩa vợ chồng
 
+(Điều 19 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.19. Tình nghĩa vợ chồng
+1. Vợ chồng có nghĩa vụ thương yêu, chung thủy, tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; cùng nhau chia sẻ, thực hiện các công việc trong gia đình.
 
-*Nội dung chưa có sẵn*
+2. Vợ chồng có nghĩa vụ sống chung với nhau, trừ trường hợp vợ chồng có thỏa thuận khác hoặc do yêu cầu của nghề nghiệp, công tác, học tập, tham gia các hoạt động chính trị, kinh tế, văn hóa, xã hội và lý do chính đáng khác.
 
-**Chỉ mục:** 19
+Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng
 
-**Mã phân cấp:** 080040000000000030000001000000000000000001900000000000000000
+(Điều 20 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00010715
+Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính.
 
----
-
-
-### Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 080040000000000030000001000000000000000002000000000000000000
-
-**ID:** dk_00010716
-
----
-
-
-### Điều 8.4.LQ.21. Tôn trọng danh dự, nhân phẩm, uy tín của vợ, chồng
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân; Điều 15. Nơi cư trú của vợ, chồng của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 15.3.LQ.13. Thẩm quyền đăng ký khai sinh; Điều 15.3.LQ.19. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ; Điều 15.3.LQ.24. Thẩm quyền đăng ký nhận cha, mẹ, con; Điều 15.3.LQ.27. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch; Điều 15.3.LQ.32. Thẩm quyền đăng ký khai tử; Điều 15.3.LQ.35. Thẩm quyền đăng ký khai sinh; Điều 15.3.LQ.39. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ; Điều 15.3.LQ.43. Thẩm quyền đăng ký nhận cha, mẹ, con; Điều 15.3.LQ.46. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc; Điều 15.3.LQ.51. Thẩm quyền đăng ký khai tử; Điều 9.1.LQ.43. Nơi cư trú của vợ, chồng của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015)
 
 Điều 8.4.LQ.21. Tôn trọng danh dự, nhân phẩm, uy tín của vợ, chồng
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000001000000000000000002100000000000000000
+Vợ, chồng có nghĩa vụ tôn trọng, giữ gìn và bảo vệ danh dự, nhân phẩm, uy tín cho nhau.
 
-**ID:** dk_00010717
-
----
-
-
-### Điều 8.4.LQ.22. Tôn trọng quyền tự do tín ngưỡng, tôn giáo của vợ, chồng
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.34. Quyền được bảo vệ danh dự, nhân phẩm, uy tín)
 
 Điều 8.4.LQ.22. Tôn trọng quyền tự do tín ngưỡng, tôn giáo của vợ, chồng
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000001000000000000000002200000000000000000
+Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.
 
-**ID:** dk_00010718
-
----
-
-
-### Điều 8.4.LQ.23. Quyền, nghĩa vụ về học tập, làm việc, tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội
+(Điều này có nội dung liên quan đến Điều 38.1.LQ.6. Quyền tự do tín ngưỡng, tôn giáo của mọi người)
 
 Điều 8.4.LQ.23. Quyền, nghĩa vụ về học tập, làm việc, tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000001000000000000000002300000000000000000
+Vợ, chồng có quyền, nghĩa vụ tạo điều kiện, giúp đỡ nhau chọn nghề nghiệp; học tập, nâng cao trình độ văn hóa, chuyên môn, nghiệp vụ; tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội.
 
-**ID:** dk_00010719
+Mục 2
 
----
-
-
-### Điều 8.4.LQ.24. Căn cứ xác lập đại diện giữa vợ và chồng
+ĐẠI DIỆN GIỮA VỢ VÀ CHỒNG
 
 Điều 8.4.LQ.24. Căn cứ xác lập đại diện giữa vợ và chồng
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000002000000000000000002400000000000000000
+1. Việc đại diện giữa vợ và chồng trong xác lập, thực hiện, chấm dứt giao dịch được xác định theo quy định của Luật này, Bộ luật dân sự và các luật khác có liên quan.
 
-**ID:** dk_00010721
+2. Vợ, chồng có thể ủy quyền cho nhau xác lập, thực hiện và chấm dứt giao dịch mà theo quy định của Luật này, Bộ luật dân sự và các luật khác có liên quan phải có sự đồngýcủa cả hai vợ chồng.
 
----
+3. Vợ, chồng đại diện cho nhau khi một bên mất năng lực hành vi dân sự mà bên kia có đủ điều kiện làm người giám hộ hoặc khi một bên bị hạn chế năng lực hành vi dân sự mà bên kia được Tòa án chỉ định làm người đại diện theo pháp luật cho người đó, trừ trường hợp theo quy định của pháp luật thì người đó phải tự mình thực hiện quyền, nghĩa vụ có liên quan.
 
+Trong trường hợp một bên vợ, chồng mất năng lực hành vi dân sự mà bên kia có yêu cầu Tòa án giải quyết ly hôn thì căn cứ vào quy định về giám hộ trong Bộ luật dân sự, Tòa án chỉ định người khác đại diện cho người bị mất năng lực hành vi dân sự để giải quyết việc ly hôn.
 
-### Điều 8.4.LQ.25. Đại diện giữa vợ và chồng trong quan hệ kinh doanh
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.46. Giám hộ; Điều 9.1.LQ.47. Người được giám hộ; Điều 9.1.LQ.48. Người giám hộ; Điều 9.1.LQ.49. Điều kiện của cá nhân làm người giám hộ; Điều 9.1.LQ.53. Người giám hộ đương nhiên của người mất năng lực hành vi dân sự; Điều 9.1.LQ.134. Đại diện; Điều 9.1.LQ.135. Căn cứ xác lập quyền đại diện; Điều 9.1.LQ.136. Đại diện theo pháp luật của cá nhân; Điều 9.1.LQ.138. Đại diện theo ủy quyền)
 
 Điều 8.4.LQ.25. Đại diện giữa vợ và chồng trong quan hệ kinh doanh
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000002000000000000000002500000000000000000
+1. Trong trường hợp vợ, chồng kinh doanh chung thì vợ, chồng trực tiếp tham gia quan hệ kinh doanh là người đại diện hợp pháp của nhau trong quan hệ kinh doanh đó, trừ trường hợp trước khi tham gia quan hệ kinh doanh, vợ chồng có thỏa thuận khác hoặc Luật này và các luật liên quan có quy định khác.
 
-**ID:** dk_00010722
-
----
-
-
-### Điều 8.4.LQ.26. Đại diện giữa vợ và chồng trong trường hợp giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng đối với tài sản chung nhưng chỉ ghi tên vợ hoặc chồng
+2. Trong trường hợp vợ, chồng đưa tài sản chung vào kinh doanh thì áp dụng quy định tại Điều 36 của Luật này.
 
 Điều 8.4.LQ.26. Đại diện giữa vợ và chồng trong trường hợp giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng đối với tài sản chung nhưng chỉ ghi tên vợ hoặc chồng
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000002000000000000000002600000000000000000
+1. Việc đại diện giữa vợ và chồng trong việc xác lập, thực hiện và chấm dứt giao dịch liên quan đến tài sản chung có giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng tài sản chỉ ghi tên vợ hoặc chồng được thực hiện theo quy định tại Điều 24 và Điều 25 của Luật này.
 
-**ID:** dk_00010723
+2. Trong trường hợp vợ hoặc chồng có tên trên giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng tài sản tự mình xác lập, thực hiện và chấm dứt giao dịch với người thứ ba trái với quy định về đại diện giữa vợ và chồng của Luật này thì giao dịch đó vô hiệu, trừ trường hợp theo quy định của pháp luật mà người thứ ba ngay tình được bảo vệ quyền lợi.
 
----
+(Điều này có nội dung liên quan đến Điều 3. Tài sản chung của vợ chồng (Điều 27) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 11.1.LQ.98. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Điều 11.1.LQ.99. Trường hợp sử dụng đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của )
 
+Điều 8.4.LQ.27. Trách nhiệm liên đới của vợ, chồng
 
-### Điều 8.4.LQ.27. Trách nhiệm liên đới của vợ, chồng
+(Điều 27 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Vợ, chồng chịu trách nhiệm liên đới đối với giao dịch do một bên thực hiện quy định tại khoản 1 Điều 30 hoặc giao dịch khác phù hợp với quy định về đại diện tại các điều 24, 25 và 26 của Luật này.
 
-**Chỉ mục:** 27
+2. Vợ, chồng chịu trách nhiệm liên đới về các nghĩa vụ quy định tại Điều 37 của Luật này.
 
-**Mã phân cấp:** 080040000000000030000002000000000000000002700000000000000000
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.288. Thực hiện nghĩa vụ liên đới; Điều 9.1.LQ.289. Thực hiện nghĩa vụ đối với nhiều người có quyền liên đới)
 
-**ID:** dk_00010724
+Mục 3
 
----
-
-
-### Điều 8.4.LQ.28. Áp dụng chế độ tài sản của vợ chồng
+CHẾ ĐỘ TÀI SẢN CỦA VỢ CHỒNG
 
 Điều 8.4.LQ.28. Áp dụng chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000002800000000000000000
+1. Vợ chồng có quyền lựa chọn áp dụng chế độ tài sản theo luật định hoặc chế độ tài sản theo thỏa thuận.
 
-**ID:** dk_00010726
+Chế độ tài sản của vợ chồng theo luật định được thực hiện theo quy định tại các điều từ Điều 33 đến Điều 46 và từ Điều 59 đến Điều 64 của Luật này.
 
----
+Chế độ tài sản của vợ chồng theo thỏa thuận được thực hiện theo quy định tại các điều 47, 48, 49, 50 và 59 của Luật này.
 
+2. Các quy định tại các điều 29, 30, 31 và 32 của Luật này được áp dụng không phụ thuộc vào chế độ tài sản mà vợ chồng đã lựa chọn.
 
-### Điều 8.4.NĐ.2.7. Áp dụng chế độ tài sản của vợ chồng theo luật định
+3. Chính phủ quy định chi tiết về chế độ tài sản của vợ chồng.
+
+(Điều này có nội dung liên quan đến Điều 3. Tài sản chung của vợ chồng (Điều 27) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.209. Sở hữu chung theo phần; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 8.4.NĐ.2.7. Áp dụng chế độ tài sản của vợ chồng theo luật định)
 
 Điều 8.4.NĐ.2.7. Áp dụng chế độ tài sản của vợ chồng theo luật định
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000280000000000000000000402532201260000700
+Chế độ tài sản của vợ chồng theo luật định được áp dụng trong trường hợp vợ chồng không lựa chọn áp dụng chế độ tài sản theo thỏa thuận hoặc có thỏa thuận về chế độ tài sản nhưng thỏa thuận này bị Tòa án tuyên bố vô hiệu theo quy định tại Điều 50 của Luật Hôn nhân và gia đình.
 
-**ID:** dk_00010727
-
----
-
-
-### Điều 8.4.LQ.29. Nguyên tắc chung về chế độ tài sản của vợ chồng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.28. Áp dụng chế độ tài sản của vợ chồng; Điều 8.4.LQ.29. Nguyên tắc chung về chế độ tài sản của vợ chồng)
 
 Điều 8.4.LQ.29. Nguyên tắc chung về chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000002900000000000000000
+1. Vợ, chồng bình đẳng với nhau về quyền, nghĩa vụ trong việc tạo lập, chiếm hữu, sử dụng, định đoạt tài sản chung; không phân biệt giữa lao động trong gia đình và lao động có thu nhập.
 
-**ID:** dk_00010728
+2. Vợ, chồng có nghĩa vụ bảo đảm điều kiện để đáp ứng nhu cầu thiết yếu của gia đình.
 
----
+3. Việc thực hiện quyền, nghĩa vụ về tài sản của vợ chồng mà xâm phạm đến quyền, lợi ích hợp pháp của vợ, chồng, gia đình và của người khác thì phải bồi thường.
 
-
-### Điều 8.4.NĐ.2.8. Người thứ ba không ngay tình khi xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu
+(Điều này có nội dung liên quan đến Điều 3. Tài sản chung của vợ chồng (Điều 27) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 9.1.LQ.210. Sở hữu chung hợp nhất; Điều 9.1.LQ.213. Sở hữu chung của vợ chồng; Điều 9.1.LQ.216. Quản lý tài sản chung; Điều 9.1.LQ.217. Sử dụng tài sản chung; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 9.1.LQ.220. Chấm dứt sở hữu chung; Điều 8.4.NĐ.2.7. Áp dụng chế độ tài sản của vợ chồng theo luật định; Điều 8.4.NĐ.2.8. Người thứ ba không ngay tình khi xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu)
 
 Điều 8.4.NĐ.2.8. Người thứ ba không ngay tình khi xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000290000000000000000000402532201260000800
+Người thứ ba xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu thì bị coi là không ngay tình trong những trường hợp sau đây:
 
-**ID:** dk_00010729
+1. Đã được vợ, chồng cung cấp thông tin theo quy định tại Điều 16 của Nghị định này mà vẫn xác lập, thực hiện giao dịch trái với những thông tin đó;
 
----
+2. Vợ chồng đã công khai thỏa thuận theo quy định của pháp luật có liên quan về việc chiếm hữu, sử dụng, định đoạt tài sản và người thứ ba biết hoặc phải biết nhưng vẫn xác lập, thực hiện giao dịch trái với thỏa thuận của vợ chồng.
 
-
-### Điều 8.4.LQ.30. Quyền, nghĩa vụ của vợ, chồng trong việc đáp ứng nhu cầu thiết yếu của gia đình
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.29. Nguyên tắc chung về chế độ tài sản của vợ chồng; Điều 8.4.LQ.32. Giao dịch với người thứ ba ngay tình liên quan đến tài khoản ngân hàng, tài khoản chứng khoán và động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu, quyền sử dụng; Điều 8.4.LQ.60. Giải quyết quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba khi ly hôn)
 
 Điều 8.4.LQ.30. Quyền, nghĩa vụ của vợ, chồng trong việc đáp ứng nhu cầu thiết yếu của gia đình
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003000000000000000000
+1. Vợ, chồng có quyền, nghĩa vụ thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của gia đình.
 
-**ID:** dk_00010730
+2. Trong trường hợp vợ chồng không có tài sản chung hoặc tài sản chung không đủ để đáp ứng nhu cầu thiết yếu của gia đình thì vợ, chồng có nghĩa vụ đóng góp tài sản riêng theo khả năng kinh tế của mỗi bên.
 
----
-
-
-### Điều 8.4.LQ.31. Giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng
+(Điều này có nội dung liên quan đến Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn)
 
 Điều 8.4.LQ.31. Giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003100000000000000000
+Việc xác lập, thực hiện, chấm dứt các giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng phải có sự thỏa thuận của vợ chồng. Trong trường hợp nhà ở thuộc sở hữu riêng của vợ hoặc chồng thì chủ sở hữu có quyền xác lập, thực hiện, chấm dứt giao dịch liên quan đến tài sản đó nhưng phải bảo đảm chỗ ở cho vợ chồng.
 
-**ID:** dk_00010731
-
----
-
-
-### Điều 8.4.LQ.32. Giao dịch với người thứ ba ngay tình liên quan đến tài khoản ngân hàng, tài khoản chứng khoán và động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu, quyền sử dụng
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.209. Sở hữu chung theo phần; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung)
 
 Điều 8.4.LQ.32. Giao dịch với người thứ ba ngay tình liên quan đến tài khoản ngân hàng, tài khoản chứng khoán và động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu, quyền sử dụng
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003200000000000000000
+1. Trong giao dịch với người thứ ba ngay tình thì vợ, chồng là người đứng tên tài khoản ngân hàng, tài khoản chứng khoán được coi là người có quyền xác lập, thực hiện giao dịch liên quan đến tài sản đó.
 
-**ID:** dk_00010732
+2. Trong giao dịch với người thứ ba ngay tình thì vợ, chồng đang chiếm hữu động sản mà theo quy định của pháp luật không phải đăng ký quyền sở hữu được coi là người có quyền xác lập, thực hiện giao dịch liên quan đến tài sản đó trong trường hợp Bộ luật dân sự có quy định về việc bảo vệ người thứ ba ngay tình.
 
----
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.133. Bảo vệ quyền lợi của người thứ ba ngay tình khi giao dịch dân sự vô hiệu; Điều 9.1.LQ.213. Sở hữu chung của vợ chồng; Điều 8.4.NĐ.2.8. Người thứ ba không ngay tình khi xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu)
 
+Điều 8.4.LQ.33. Tài sản chung của vợ chồng
 
-### Điều 8.4.LQ.33. Tài sản chung của vợ chồng
+(Điều 33 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân, trừ trường hợp được quy định tại khoản 1 Điều 40 của Luật này; tài sản mà vợ chồng được thừa kế chung hoặc được tặng cho chung và tài sản khác mà vợ chồng thỏa thuận là tài sản chung.
 
-**Chỉ mục:** 33
+Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng, trừ trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng hoặc có được thông qua giao dịch bằng tài sản riêng.
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003300000000000000000
+2. Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo đảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.
 
-**ID:** dk_00010733
+3. Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.
 
----
-
-
-### Điều 8.4.LQ.34. Đăng ký quyền sở hữu, quyền sử dụng đối với tài sản chung
+(Điều này có nội dung liên quan đến Điều 3. Tài sản chung của vợ chồng (Điều 27) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 9.1.LQ.210. Sở hữu chung hợp nhất; Điều 9.1.LQ.213. Sở hữu chung của vợ chồng; Điều 9.1.LQ.216. Quản lý tài sản chung; Điều 9.1.LQ.217. Sử dụng tài sản chung; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 9.1.LQ.220. Chấm dứt sở hữu chung)
 
 Điều 8.4.LQ.34. Đăng ký quyền sở hữu, quyền sử dụng đối với tài sản chung
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003400000000000000000
+1. Trong trường hợp tài sản thuộc sở hữu chung của vợ chồng mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng thì giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng phải ghi tên cả hai vợ chồng, trừ trường hợp vợ chồng có thỏa thuận khác.
 
-**ID:** dk_00010734
+2. Trong trường hợp giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng tài sản chỉ ghi tên một bên vợ hoặc chồng thì giao dịch liên quan đến tài sản này được thực hiện theo quy định tại Điều 26 của Luật này; nếu có tranh chấp về tài sản đó thì được giải quyết theo quy định tại khoản 3 Điều 33 của Luật này.
 
----
-
-
-### Điều 8.4.NĐ.2.12. Đăng ký tài sản chung của vợ chồng
+(Điều này có nội dung liên quan đến Điều 11.1.LQ.95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 8.4.NĐ.2.12. Đăng ký tài sản chung của vợ chồng của Nghị định 126/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình ban hành ngày 31/12/2014)
 
 Điều 8.4.NĐ.2.12. Đăng ký tài sản chung của vợ chồng
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000340000000000000000000402532201260001200
+1. Tài sản chung của vợ chồng phải đăng ký theo quy định tại Điều 34 của Luật Hôn nhân và gia đình bao gồm quyền sử dụng đất, những tài sản khác mà pháp luật quy định phải đăng ký quyền sử dụng, quyền sở hữu.
 
-**ID:** dk_00010735
+2. Đối với tài sản chung của vợ chồng đã được đăng ký và ghi tên một bên vợ hoặc chồng thì vợ, chồng có quyền yêu cầu cơ quan có thẩm quyền cấp đổi giấy chứng nhận quyền sở hữu, quyền sử dụng đất để ghi tên của cả vợ và chồng.
 
----
+3. Trong trường hợp tài sản chung được chia trong thời kỳ hôn nhân mà trong giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng đất ghi tên cả vợ và chồng thì bên được chia phần tài sản bằng hiện vật có quyền yêu cầu cơ quan đăng ký tài sản cấp lại giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng đất trên cơ sở văn bản thỏa thuận của vợ chồng hoặc quyết định của Tòa án về chia tài sản chung.
 
-
-### Điều 8.4.LQ.35. Chiếm hữu, sử dụng, định đoạt tài sản chung
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.34. Đăng ký quyền sở hữu, quyền sử dụng đối với tài sản chung; Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh)
 
 Điều 8.4.LQ.35. Chiếm hữu, sử dụng, định đoạt tài sản chung
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003500000000000000000
+1. Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận.
 
-**ID:** dk_00010736
+2. Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ chồng trong những trường hợp sau đây:
 
----
+a) Bất động sản;
 
+b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu;
 
-### Điều 8.4.NĐ.2.13. Chiếm hữu, sử dụng, định đoạt tài sản chung của vợ chồng
+c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.209. Sở hữu chung theo phần; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 8.4.NĐ.2.13. Chiếm hữu, sử dụng, định đoạt tài sản chung của vợ chồng)
 
 Điều 8.4.NĐ.2.13. Chiếm hữu, sử dụng, định đoạt tài sản chung của vợ chồng
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000350000000000000000000402532201260001300
+1. Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận. Trong trường hợp vợ hoặc chồng xác lập, thực hiện giao dịch liên quan đến tài sản chung để đáp ứng nhu cầu thiết yếu của gia đình thì được coi là có sự đồng ý của bên kia, trừ trường hợp quy định tại Khoản 2 Điều 35 của Luật Hôn nhân và gia đình.
 
-**ID:** dk_00010737
+2. Trong trường hợp vợ hoặc chồng định đoạt tài sản chung vi phạm quy định tại Khoản 2 Điều 35 của Luật Hôn nhân và gia đình thì bên kia có quyền yêu cầu Tòa án tuyên bố giao dịch vô hiệu và giải quyết hậu quả pháp lý của giao dịch vô hiệu.
 
----
-
-
-### Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.35. Chiếm hữu, sử dụng, định đoạt tài sản chung; Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh; Điều 8.4.LQ.64. Chia tài sản chung của vợ chồng đưa vào kinh doanh)
 
 Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003600000000000000000
+Trong trường hợp vợ chồng có thỏa thuận về việc một bên đưa tài sản chung vào kinh doanh thì người này có quyền tự mình thực hiện giao dịch liên quan đến tài sản chung đó. Thỏa thuận này phải lập thành văn bản.
 
-**ID:** dk_00010738
-
----
-
-
-### Điều 8.4.LQ.37. Nghĩa vụ chung về tài sản của vợ chồng
+(Điều này có nội dung liên quan đến Điều 8.4.NĐ.2.9. Thu nhập hợp pháp khác của vợ, chồng trong thời kỳ hôn nhân; Điều 8.4.NĐ.2.10. Hoa lợi, lợi tức phát sinh từ tài sản riêng của vợ, chồng; Điều 8.4.NĐ.2.11. Tài sản riêng khác của vợ, chồng theo quy định của pháp luật; Điều 8.4.NĐ.2.12. Đăng ký tài sản chung của vợ chồng; Điều 8.4.NĐ.2.13. Chiếm hữu, sử dụng, định đoạt tài sản chung của vợ chồng; Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân)
 
 Điều 8.4.LQ.37. Nghĩa vụ chung về tài sản của vợ chồng
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003700000000000000000
+Vợ chồng có các nghĩa vụ chung về tài sản sau đây:
 
-**ID:** dk_00010739
+1. Nghĩa vụ phát sinh từ giao dịch do vợ chồng cùng thỏa thuận xác lập, nghĩa vụ bồi thường thiệt hại mà theo quy định của pháp luật vợ chồng cùng phải chịu trách nhiệm;
 
----
+2. Nghĩa vụ do vợ hoặc chồng thực hiện nhằm đáp ứng nhu cầu thiết yếu của gia đình;
 
+3. Nghĩa vụ phát sinh từ việc chiếm hữu, sử dụng, định đoạt tài sản chung;
 
-### Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn
+4. Nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung hoặc để tạo ra nguồn thu nhập chủ yếu của gia đình;
+
+5. Nghĩa vụ bồi thường thiệt hại do con gây ra mà theo quy định của Bộ luật dân sự thì cha mẹ phải bồi thường;
+
+6. Nghĩa vụ khác theo quy định của các luật có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.586. Năng lực chịu trách nhiệm bồi thường thiệt hại của cá nhân; Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn)
 
 Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000370000000000000000000802569300010000700
+1. Vợ chồng khi ly hôn có quyền tự thỏa thuận với nhau về toàn bộ các vấn đề, trong đó có cả việc phân chia tài sản. Trường hợp vợ chồng không thỏa thuận được mà có yêu cầu thì Tòa án phải xem xét, quyết định việc áp dụng chế độ tài sản của vợ chồng theo thỏa thuận hay theo luật định, tùy từng trường hợp cụ thể mà Tòa án xử lý như sau:
 
-**ID:** dk_00010740
+a) Trường hợp không có văn bản thỏa thuận về chế độ tài sản của vợ chồng hoặc văn bản thỏa thuận về chế độ tài sản của vợ chồng bị Tòa án tuyên bố vô hiệu toàn bộ thì áp dụng chế độ tài sản của vợ chồng theo luật định để chia tài sản của vợ chồng khi ly hôn;
 
----
+b) Trường hợp có văn bản thỏa thuận về chế độ tài sản của vợ chồng và văn bản này không bị Tòa án tuyên bố vô hiệu toàn bộ thì áp dụng các nội dung của văn bản thỏa thuận để chia tài sản của vợ chồng khi ly hôn. Đối với những vấn đề không được vợ chồng thỏa thuận hoặc thỏa thuận không rõ ràng hoặc bị vô hiệu thì áp dụng các quy định tương ứng tại các khoản 2, 3, 4, 5 Điều 59 và các điều 60, 61, 62, 63 và 64 của Luật hôn nhân và gia đình để chia tài sản của vợ chồng khi ly hôn.
 
+2. Khi giải quyết ly hôn nếu có yêu cầu tuyên bố thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu thì Tòa án xem xét, giải quyết đồng thời với yêu cầu chia tài sản của vợ chồng khi ly hôn.
 
-### Điều 8.4.LQ.38. Chia tài sản chung trong thời kỳ hôn nhân
+3. Khi chia tài sản chung của vợ chồng khi ly hôn, Tòa án phải xác định vợ, chồng có quyền, nghĩa vụ về tài sản với người thứ ba hay không để đưa người thứ ba vào tham gia tố tụng với tư cách người có quyền lợi, nghĩa vụ liên quan. Trường hợp vợ, chồng có quyền, nghĩa vụ về tài sản với người thứ ba mà họ có yêu cầu giải quyết thì Tòa án phải giải quyết khi chia tài sản chung của vợ chồng. Trường hợp vợ chồng có nghĩa vụ với người thứ ba mà người thứ ba không yêu cầu giải quyết thì Tòa án hướng dẫn họ để giải quyết bằng vụ án khác.
+
+4. Trường hợp áp dụng chế độ tài sản của vợ chồng theo luật định để chia tài sản của vợ chồng khi ly hôn thì tài sản chung của vợ chồng về nguyên tắc được chia đôi nhưng có tính đến các yếu tố sau đây để xác định tỷ lệ tài sản mà vợ chồng được chia:
+
+a) *“Hoàn cảnh của gia đình và của vợ, chồng”* là tình trạng về năng lực pháp luật, năng lực hành vi, sức khỏe, tài sản, khả năng lao động tạo ra thu nhập sau khi ly hôn của vợ, chồng cũng như của các thành viên khác trong gia đình mà vợ chồng có quyền, nghĩa vụ về nhân thân và tài sản theo quy định của Luật hôn nhân và gia đình. Bên gặp khó khăn hơn sau khi ly hôn được chia phần tài sản nhiều hơn so với bên kia hoặc được ưu tiên nhận loại tài sản để bảo đảm duy trì, ổn định cuộc sống của họ nhưng phải phù hợp với hoàn cảnh thực tế của gia đình và của vợ, chồng.
+
+b) *“Công sức đóng góp của vợ, chồng vào việc tạo lập, duy trì và phát triển khối tài sản chung”* là sự đóng góp về tài sản riêng, thu nhập, công việc gia đình và lao động của vợ, chồng trong việc tạo lập, duy trì và phát triển khối tài sản chung. Người vợ hoặc chồng ở nhà chăm sóc con, gia đình mà không đi làm được tính là lao động có thu nhập tương đương với thu nhập của chồng hoặc vợ đi làm. Bên có công sức đóng góp nhiều hơn sẽ được chia nhiều hơn.
+
+c) *“Bảo vệ lợi ích chính đ**á**ng của mỗi bên trong sản xuất, kinh doanh và nghề nghiệp đ**ể **các bên có điều kiện tiếp tục lao động tạo thu nhập**”* là việc chia tài sản chung của vợ chồng phải bảo đảm cho vợ, chồng đang hoạt động nghề nghiệp được tiếp tục hành nghề; cho vợ, chồng đang hoạt động sản xuất, kinh doanh được tiếp tục được sản xuất, kinh doanh để tạo thu nhập và phải thanh toán cho bên kia phần giá trị tài sản chênh lệch. Việc bảo vệ lợi ích chính đáng của mỗi bên trong sản xuất, kinh doanh và hoạt động nghề nghiệp không được ảnh hưởng đến điều kiện sống tối thiểu của vợ, chồng và con chưa thành niên, con đã thành niên nhưng mất năng lực hành vi dân sự.
+
+*V**í **d**ụ:* Vợ chồng có tài sản chung là một chiếc ô tô người chồng đang chạy xe taxi trị giá 400 triệu đồng và một cửa hàng tạp hóa người vợ đang kinh doanh trị giá 200 triệu đồng. Khi giải quyết ly hôn và chia tài sản chung, Tòa án phải xem xét giao cửa hàng tạp hóa cho người vợ, giao xe ô tô cho người chồng để họ tiếp tục kinh doanh, tạo thu nhập. Người chồng nhận được phần giá trị tài sản lớn hơn phải thanh toán cho người vợ phần giá trị là 100 triệu đồng.
+
+d) *“Lỗi của mỗi bên trong v**i **phạm quyền, nghĩa vụ của vợ chồng**”* là lỗi của vợ hoặc chồng vi phạm quyền, nghĩa vụ về nhân thân, tài sản của vợ chồng dẫn đến ly hôn.
+
+*Ví dụ:* Trường hợp người chồng có hành vi bạo lực gia đình, không chung thủy hoặc phá tán tài sản thì khi giải quyết ly hôn Tòa án phải xem xét yếu tố lỗi của người chồng khi chia tài sản chung của vợ chồng để đảm bảo quyền, lợi ích hợp pháp của vợ và con chưa thành niên.
+
+5. Giá trị tài sản chung của vợ chồng, tài sản riêng của vợ, chồng được xác định theo giá thị trường tại thời điểm giải quyết sơ thẩm vụ việc.
+
+6. Khi giải quyết chia tài sản khi ly hôn, Tòa án phải xem xét để bảo vệ quyền, lợi ích hợp pháp của vợ, con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+*Ví d**ụ:* Khi chia nhà ở là tài sản chung và là chỗ ở duy nhất của vợ chồng, trong trường hợp không chia được bằng hiện vật thì Tòa án xem xét và quyết định cho người vợ hoặc chồng trực tiếp nuôi con chưa thành niên, con bị hạn chế hoặc mất năng lực hành vi dân sự nhận hiện vật và thanh toán giá trị tương ứng với phần tài sản được chia cho người chồng hoặc vợ nếu người vợ hoặc chồng có yêu cầu.
+
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ; Điều 8.4.LQ.30. Quyền, nghĩa vụ của vợ, chồng trong việc đáp ứng nhu cầu thiết yếu của gia đình; Điều 8.4.LQ.37. Nghĩa vụ chung về tài sản của vợ chồng; Điều 8.4.LQ.59. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn; Điều 8.4.LQ.61. Chia tài sản trong trường hợp vợ chồng sống chung với gia đình; Điều 8.4.LQ.107. Nghĩa vụ cấp dưỡng)
 
 Điều 8.4.LQ.38. Chia tài sản chung trong thời kỳ hôn nhân
 
-**Chỉ mục:** 38
+(Điều 38 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003800000000000000000
+1. Trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chia một phần hoặc toàn bộ tài sản chung, trừ trường hợp quy định tại Điều 42 của Luật này; nếu không thỏa thuận được thì có quyền yêu cầu Tòa án giải quyết.
 
-**ID:** dk_00010741
+2. Thỏa thuận về việc chia tài sản chung phải lập thành văn bản. Văn bản này được công chứng theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật.
 
----
+3. Trong trường hợp vợ, chồng có yêu cầu thì Tòa án giải quyết việc chia tài sản chung của vợ chồng theo quy định tại Điều 59 của Luật này.
 
-
-### Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.119. Hình thức giao dịch dân sự; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 37.5.LQ.29. Những yêu cầu về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân của Nghị định 126/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình ban hành ngày 31/12/2014)
 
 Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000380000000000000000000402532201260001400
+1. Việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân không làm chấm dứt chế độ tài sản của vợ chồng theo luật định.
 
-**ID:** dk_00010742
+2. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu vợ chồng không có thỏa thuận khác thì phần tài sản được chia; hoa lợi, lợi tức phát sinh từ tài sản đó; hoa lợi, lợi tức phát sinh từ tài sản riêng khác của vợ, chồng là tài sản riêng của vợ, chồng.
 
----
+3. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu tài sản có được từ việc khai thác tài sản riêng của vợ, chồng mà không xác định được đó là thu nhập do lao động, hoạt động sản xuất, kinh doanh của vợ, chồng hay là hoa lợi, lợi tức phát sinh từ tài sản riêng đó thì thuộc sở hữu chung của vợ chồng.
 
-
-### Điều 8.4.LQ.39. Thời điểm có hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh; Điều 8.4.LQ.38. Chia tài sản chung trong thời kỳ hôn nhân; Điều 8.4.LQ.40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân; Điều 8.4.LQ.41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân; Điều 8.4.LQ.42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu; Điều 8.4.LQ.64. Chia tài sản chung của vợ chồng đưa vào kinh doanh)
 
 Điều 8.4.LQ.39. Thời điểm có hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000003900000000000000000
+1. Thời điểm có hiệu lực của việc chia tài sản chung của vợ chồng là thời điểm do vợ chồng thỏa thuận và được ghi trong văn bản; nếu trong văn bản không xác định thời điểm có hiệu lực thì thời điểm có hiệu lực được tính từ ngày lập văn bản.
 
-**ID:** dk_00010743
+2. Trong trường hợp tài sản được chia mà theo quy định của pháp luật, giao dịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì việc chia tài sản chung của vợ chồng có hiệu lực từ thời điểm việc thỏa thuận tuân thủ hình thức mà pháp luật quy định.
 
----
+3. Trong trường hợp Tòa án chia tài sản chung của vợ chồng thì việc chia tài sản chung có hiệu lực kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.
 
+4. Quyền, nghĩa vụ về tài sản giữa vợ, chồng với người thứ ba phát sinh trước thời điểm việc chia tài sản chung có hiệu lực vẫn có giá trị pháp lý, trừ trường hợp các bên có thỏa thuận khác.
 
-### Điều 8.4.LQ.40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.119. Hình thức giao dịch dân sự; Điều 9.1.LQ.404. Giải thích hợp đồng của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 37.5.LQ.404. Thủ tục gửi đơn yêu cầu Tòa án xét tính hợp pháp của cuộc đình công)
 
 Điều 8.4.LQ.40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004000000000000000000
+1. Trong trường hợp chia tài sản chung của vợ chồng thì phần tài sản được chia, hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản chung là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác. Phần tài sản còn lại không chia vẫn là tài sản chung của vợ chồng.
 
-**ID:** dk_00010744
+2. Thỏa thuận của vợ chồng quy định tại khoản 1 Điều này không làm thay đổi quyền, nghĩa vụ về tài sản được xác lập trước đó giữa vợ, chồng với người thứ ba.
 
----
-
-
-### Điều 8.4.LQ.41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.109. Hoa lợi, lợi tức; Điều 9.1.LQ.210. Sở hữu chung hợp nhất; Điều 9.1.LQ.213. Sở hữu chung của vợ chồng; Điều 9.1.LQ.216. Quản lý tài sản chung; Điều 9.1.LQ.217. Sử dụng tài sản chung; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 9.1.LQ.220. Chấm dứt sở hữu chung; Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân)
 
 Điều 8.4.LQ.41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004100000000000000000
+1. Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chấm dứt hiệu lực của việc chia tài sản chung. Hình thức của thỏa thuận được thực hiện theo quy định tại khoản 2 Điều 38 của Luật này.
 
-**ID:** dk_00010745
+2. Kể từ ngày thỏa thuận của vợ chồng quy định tại khoản 1 Điều này có hiệu lực thì việc xác định tài sản chung, tài sản riêng của vợ chồng được thực hiện theo quy định tại Điều 33 và Điều 43 của Luật này. Phần tài sản mà vợ, chồng đã được chia vẫn thuộc sở hữu riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác.
 
----
+3. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của việc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.
 
+4. Trong trường hợp việc chia tài sản chung trong thời kỳ hôn nhân được thực hiện theo bản án, quyết định có hiệu lực của Tòa án thì thỏa thuận chấm dứt hiệu lực của việc chia tài sản chung phải được Tòa án công nhận.
 
-### Điều 8.4.LQ.42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu
+(Điều này có nội dung liên quan đến Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân)
 
 Điều 8.4.LQ.42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004200000000000000000
+Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00010746
+1. Ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình;
 
----
+2. Nhằm trốn tránh thực hiện các nghĩa vụ sau đây:
 
+a) Nghĩa vụ nuôi dưỡng, cấp dưỡng;
 
-### Điều 8.4.LQ.43. Tài sản riêng của vợ, chồng
+b) Nghĩa vụ bồi thường thiệt hại;
 
-*Nội dung chưa có sẵn*
+c) Nghĩa vụ thanh toán khi bị Tòa án tuyên bố phá sản;
 
-**Chỉ mục:** 43
+d) Nghĩa vụ trả nợ cho cá nhân, tổ chức;
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004300000000000000000
+đ) Nghĩa vụ nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước;
 
-**ID:** dk_00010747
+e) Nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật dân sự và quy định khác của pháp luật có liên quan.
 
----
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.122. Giao dịch dân sự vô hiệu; Điều 9.1.LQ.123. Giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội; Điều 9.1.LQ.124. Giao dịch dân sự vô hiệu do giả tạo; Điều 9.1.LQ.126. Giao dịch dân sự vô hiệu do bị nhầm lẫn; Điều 9.1.LQ.127. Giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép; Điều 9.1.LQ.128. Giao dịch dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình; Điều 9.1.LQ.129. Giao dịch dân sự vô hiệu do không tuân thủ quy định về hình thức; Điều 9.1.LQ.130. Giao dịch dân sự vô hiệu từng phần; Điều 9.1.LQ.131. Hậu quả pháp lý của giao dịch dân sự vô hiệu; Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân)
 
+Điều 8.4.LQ.43. Tài sản riêng của vợ, chồng
 
-### Điều 8.4.LQ.44. Chiếm hữu, sử dụng, định đoạt tài sản riêng
+(Điều 43 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
+
+1. Tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản được chia riêng cho vợ, chồng theo quy định tại các điều 38, 39 và 40 của Luật này; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng.
+
+2. Tài sản được hình thành từ tài sản riêng của vợ, chồng cũng là tài sản riêng của vợ, chồng. Hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân được thực hiện theo quy định tại khoản 1 Điều 33 và khoản 1 Điều 40 của Luật này.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.234. Xác lập quyền sở hữu do được thừa kế; Điều 9.1.LQ.457. Hợp đồng tặng cho tài sản)
 
 Điều 8.4.LQ.44. Chiếm hữu, sử dụng, định đoạt tài sản riêng
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004400000000000000000
+1. Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình; nhập hoặc không nhập tài sản riêng vào tài sản chung.
 
-**ID:** dk_00010748
+2. Trong trường hợp vợ hoặc chồng không thể tự mình quản lý tài sản riêng và cũng không ủy quyền cho người khác quản lý thì bên kia có quyền quản lý tài sản đó. Việc quản lý tài sản phải bảo đảm lợi ích của người có tài sản.
 
----
+3. Nghĩa vụ riêng về tài sản của mỗi người được thanh toán từ tài sản riêng của người đó.
 
+4. Trong trường hợp vợ, chồng có tài sản riêng mà hoa lợi, lợi tức từ tài sản riêng đó là nguồn sống duy nhất của gia đình thì việc định đoạt tài sản này phải có sự đồng ý của chồng, vợ.
 
-### Điều 8.4.NĐ.2.9. Thu nhập hợp pháp khác của vợ, chồng trong thời kỳ hôn nhân
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.186. Quyền chiếm hữu của chủ sở hữu; Điều 9.1.LQ.190. Quyền sử dụng của chủ sở hữu; Điều 9.1.LQ.194. Quyền định đoạt của chủ sở hữu; Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 8.4.NĐ.2.9. Thu nhập hợp pháp khác của vợ, chồng trong thời kỳ hôn nhân; Điều 8.4.NĐ.2.10. Hoa lợi, lợi tức phát sinh từ tài sản riêng của vợ, chồng; Điều 8.4.NĐ.2.11. Tài sản riêng khác của vợ, chồng theo quy định của pháp luật)
 
 Điều 8.4.NĐ.2.9. Thu nhập hợp pháp khác của vợ, chồng trong thời kỳ hôn nhân
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000440000000000000000000402532201260000900
+1. Khoản tiền thưởng, tiền trúng thưởng xổ số, tiền trợ cấp, trừ trường hợp quy định tại Khoản 3 Điều 11 của Nghị định này.
 
-**ID:** dk_00010749
+2. Tài sản mà vợ, chồng được xác lập quyền sở hữu theo quy định của Bộ luật Dân sự đối với vật vô chủ, vật bị chôn giấu, bị chìm đắm, vật bị đánh rơi, bị bỏ quên, gia súc, gia cầm bị thất lạc, vật nuôi dưới nước.
 
----
+3. Thu nhập hợp pháp khác theo quy định của pháp luật.
 
-
-### Điều 8.4.NĐ.2.10. Hoa lợi, lợi tức phát sinh từ tài sản riêng của vợ, chồng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh; Điều 8.4.LQ.44. Chiếm hữu, sử dụng, định đoạt tài sản riêng)
 
 Điều 8.4.NĐ.2.10. Hoa lợi, lợi tức phát sinh từ tài sản riêng của vợ, chồng
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000440000000000000000000402532201260001000
+1. Hoa lợi phát sinh từ tài sản riêng của vợ, chồng là sản vật tự nhiên mà vợ, chồng có được từ tài sản riêng của mình.
 
-**ID:** dk_00010750
+2. Lợi tức phát sinh từ tài sản riêng của vợ, chồng là khoản lợi mà vợ, chồng thu được từ việc khai thác tài sản riêng của mình.
 
----
-
-
-### Điều 8.4.NĐ.2.11. Tài sản riêng khác của vợ, chồng theo quy định của pháp luật
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh; Điều 8.4.LQ.44. Chiếm hữu, sử dụng, định đoạt tài sản riêng)
 
 Điều 8.4.NĐ.2.11. Tài sản riêng khác của vợ, chồng theo quy định của pháp luật
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000440000000000000000000402532201260001100
+1. Quyền tài sản đối với đối tượng sở hữu trí tuệ theo quy định của pháp luật sở hữu trí tuệ.
 
-**ID:** dk_00010751
+2. Tài sản mà vợ, chồng xác lập quyền sở hữu riêng theo bản án, quyết định của Tòa án hoặc cơ quan có thẩm quyền khác.
 
----
+3. Khoản trợ cấp, ưu đãi mà vợ, chồng được nhận theo quy định của pháp luật về ưu đãi người có công với cách mạng; quyền tài sản khác gắn liền với nhân thân của vợ, chồng.
 
-
-### Điều 8.4.LQ.45. Nghĩa vụ riêng về tài sản của vợ, chồng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh; Điều 8.4.LQ.44. Chiếm hữu, sử dụng, định đoạt tài sản riêng)
 
 Điều 8.4.LQ.45. Nghĩa vụ riêng về tài sản của vợ, chồng
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004500000000000000000
+Vợ, chồng có các nghĩa vụ riêng về tài sản sau đây:
 
-**ID:** dk_00010752
+1. Nghĩa vụ của mỗi bên vợ, chồng có trước khi kết hôn;
 
----
+2. Nghĩa vụ phát sinh từ việc chiếm hữu, sử dụng, định đoạt tài sản riêng, trừ trường hợp nghĩa vụ phát sinh trong việc bảo quản, duy trì, tu sửa tài sản riêng của vợ, chồng theo quy định tại khoản 4 Điều 44 hoặc quy định tại khoản 4 Điều 37 của Luật này;
 
+3. Nghĩa vụ phát sinh từ giao dịch do một bên xác lập, thực hiện không vì nhu cầu của gia đình;
 
-### Điều 8.4.LQ.46. Nhập tài sản riêng của vợ, chồng vào tài sản chung
+4. Nghĩa vụ phát sinh từ hành vi vi phạm pháp luật của vợ, chồng.
 
 Điều 8.4.LQ.46. Nhập tài sản riêng của vợ, chồng vào tài sản chung
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004600000000000000000
+1. Việc nhập tài sản riêng của vợ, chồng vào tài sản chung được thực hiện theo thỏa thuận của vợ chồng.
 
-**ID:** dk_00010753
+2. Tài sản được nhập vào tài sản chung mà theo quy định của pháp luật, giao dịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì thỏa thuận phải bảo đảm hình thức đó.
 
----
+3. Nghĩa vụ liên quan đến tài sản riêng đã nhập vào tài sản chung được thực hiện bằng tài sản chung, trừ trường hợp vợ chồng có thỏa thuận khác hoặc pháp luật có quy định khác.
 
-
-### Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.119. Hình thức giao dịch dân sự; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng)
 
 Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004700000000000000000
+Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thỏa thuận thì thỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực. Chế độ tài sản của vợ chồng theo thỏa thuận được xác lập kể từ ngày đăng ký kết hôn.
 
-**ID:** dk_00010754
-
----
-
-
-### Điều 8.4.NĐ.2.15. Xác định tài sản của vợ chồng theo thỏa thuận
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.119. Hình thức giao dịch dân sự; Điều 8.4.NĐ.2.15. Xác định tài sản của vợ chồng theo thỏa thuận; Điều 8.4.NĐ.2.16. Cung cấp thông tin về chế độ tài sản của vợ chồng theo thỏa thuận trong giao dịch với người thứ ba; Điều 8.4.NĐ.2.17. Sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng; Điều 8.4.NĐ.2.18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng)
 
 Điều 8.4.NĐ.2.15. Xác định tài sản của vợ chồng theo thỏa thuận
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000470000000000000000000402532201260001500
+1. Trường hợp lựa chọn áp dụng chế độ tài sản của vợ chồng theo thỏa thuận thì vợ chồng có thể thỏa thuận về xác định tài sản theo một trong các nội dung sau đây:
 
-**ID:** dk_00010755
+a) Tài sản giữa vợ và chồng bao gồm tài sản chung và tài sản riêng của vợ, chồng;
 
----
+b) Giữa vợ và chồng không có tài sản riêng của vợ, chồng mà tất cả tài sản do vợ, chồng có được trước khi kết hôn hoặc trong thời kỳ hôn nhân đều thuộc tài sản chung;
 
+c) Giữa vợ và chồng không có tài sản chung mà tất cả tài sản do vợ, chồng có được trước khi kết hôn và trong thời kỳ hôn nhân đều thuộc sở hữu riêng của người có được tài sản đó;
 
-### Điều 8.4.NĐ.2.16. Cung cấp thông tin về chế độ tài sản của vợ chồng theo thỏa thuận trong giao dịch với người thứ ba
+d) Xác định theo thỏa thuận khác của vợ chồng.
+
+2. Thỏa thuận về tài sản của vợ chồng phải phù hợp với quy định tại các Điều 29, 30, 31 và 32 của Luật Hôn nhân và gia đình. Nếu vi phạm, người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án tuyên bố thỏa thuận vô hiệu theo quy định tại Điều 50 của Luật Hôn nhân và gia đình.
+
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng)
 
 Điều 8.4.NĐ.2.16. Cung cấp thông tin về chế độ tài sản của vợ chồng theo thỏa thuận trong giao dịch với người thứ ba
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000470000000000000000000402532201260001600
+Trường hợp chế độ tài sản của vợ chồng theo thỏa thuận được áp dụng thì khi xác lập, thực hiện giao dịch vợ, chồng có nghĩa vụ cung cấp cho người thứ ba biết về những thông tin liên quan; nếu vợ, chồng vi phạm nghĩa vụ này thì người thứ ba được coi là ngay tình và được bảo vệ quyền lợi theo quy định của Bộ luật Dân sự.
 
-**ID:** dk_00010756
-
----
-
-
-### Điều 8.4.NĐ.2.17. Sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng)
 
 Điều 8.4.NĐ.2.17. Sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000470000000000000000000402532201260001700
+1. Trong trường hợp chế độ tài sản của vợ chồng theo thỏa thuận được áp dụng thì trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận sửa đổi, bổ sung một phần hoặc toàn bộ nội dung của chế độ tài sản đó hoặc áp dụng chế độ tài sản theo luật định.
 
-**ID:** dk_00010757
+2. Thỏa thuận sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng phải được công chứng hoặc chứng thực theo quy định của pháp luật.
 
----
-
-
-### Điều 8.4.NĐ.2.18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng; Điều 8.4.LQ.48. Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng; Điều 8.4.LQ.49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của vợ chồng)
 
 Điều 8.4.NĐ.2.18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000470000000000000000000402532201260001800
+1. Thỏa thuận sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng có hiệu lực từ ngày được công chứng hoặc chứng thực. Vợ, chồng có nghĩa vụ cung cấp cho người thứ ba biết về những thông tin liên quan theo quy định tại Điều 16 của Nghị định này.
 
-**ID:** dk_00010758
+2. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm việc sửa đổi, bổ sung chế độ tài sản của vợ chồng có hiệu lực vẫn có giá trị pháp lý, trừ trường hợp các bên có thỏa thuận khác.
 
----
-
-
-### Điều 8.4.LQ.48. Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng; Điều 8.4.LQ.48. Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng; Điều 8.4.LQ.49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của vợ chồng)
 
 Điều 8.4.LQ.48. Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004800000000000000000
+1. Nội dung cơ bản của thỏa thuận về chế độ tài sản bao gồm:
 
-**ID:** dk_00010759
+a) Tài sản được xác định là tài sản chung, tài sản riêng của vợ, chồng;
 
----
+b) Quyền, nghĩa vụ của vợ chồng đối với tài sản chung, tài sản riêng và giao dịch có liên quan; tài sản để bảo đảm nhu cầu thiết yếu của gia đình;
 
+c) Điều kiện, thủ tục và nguyên tắc phân chia tài sản khi chấm dứt chế độ tài sản;
 
-### Điều 8.4.LQ.49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của vợ chồng
+d) Nội dung khác có liên quan.
+
+2. Khi thực hiện chế độ tài sản theo thỏa thuận mà phát sinh những vấn đề chưa được vợ chồng thỏa thuận hoặc thỏa thuận không rõ ràng thì áp dụng quy định tại các điều 29, 30, 31 và 32 của Luật này và quy định tương ứng của chế độ tài sản theo luật định.
+
+(Điều này có nội dung liên quan đến Điều 8.4.NĐ.2.17. Sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng; Điều 8.4.NĐ.2.18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng)
 
 Điều 8.4.LQ.49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của vợ chồng
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000004900000000000000000
+1. Vợ chồng có quyền sửa đổi, bổ sung thỏa thuận về chế độ tài sản.
 
-**ID:** dk_00010760
+2. Hình thức sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản theo thỏa thuận được áp dụng theo quy định tại Điều 47 của Luật này.
 
----
-
-
-### Điều 8.4.LQ.50. Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.421. Sửa đổi hợp đồng; Điều 8.4.NĐ.2.17. Sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng; Điều 8.4.NĐ.2.18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng)
 
 Điều 8.4.LQ.50. Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000030000003000000000000000005000000000000000000
+1. Thỏa thuận về chế độ tài sản của vợ chồng bị Tòa án tuyên bố vô hiệu khi thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00010761
+a) Không tuân thủ điều kiện có hiệu lực của giao dịch được quy định tại Bộ luật dân sự và các luật khác có liên quan;
 
----
+b) Vi phạm một trong các quy định tại các điều 29, 30, 31 và 32 của Luật này;
 
+c) Nội dung của thỏa thuận vi phạm nghiêm trọng quyền được cấp dưỡng, quyền được thừa kế và quyền, lợi ích hợp pháp khác của cha, mẹ, con và thành viên khác của gia đình.
 
-### Điều 8.4.TL.1.5. Thủ tục xem xét thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu
+2. Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.122. Giao dịch dân sự vô hiệu; Điều 9.1.LQ.123. Giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội; Điều 9.1.LQ.124. Giao dịch dân sự vô hiệu do giả tạo; Điều 9.1.LQ.126. Giao dịch dân sự vô hiệu do bị nhầm lẫn; Điều 9.1.LQ.127. Giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép; Điều 9.1.LQ.128. Giao dịch dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình; Điều 9.1.LQ.129. Giao dịch dân sự vô hiệu do không tuân thủ quy định về hình thức; Điều 9.1.LQ.130. Giao dịch dân sự vô hiệu từng phần; Điều 9.1.LQ.131. Hậu quả pháp lý của giao dịch dân sự vô hiệu; Điều 8.4.TL.1.5. Thủ tục xem xét thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu; Điều 8.4.TL.1.6. Xác định thỏa thuận về chế độ tài sản của vợ chồng vô hiệu)
 
 Điều 8.4.TL.1.5. Thủ tục xem xét thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000500000000000000000000802569300010000500
+1. Cơ quan, tổ chức, cá nhân sau đây, theo quy định của pháp luật về tố tụng dân sự có quyền yêu cầu Tòa án tuyên bố thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu do thỏa thuận về chế độ tài sản của vợ chồng thuộc trường hợp quy định tại khoản 1 Điều 50 của Luật hôn nhân và gia đình:
 
-**ID:** dk_00010762
+a) Vợ, chồng hoặc vợ chồng đã thỏa thuận về chế độ tài sản;
 
----
+b) Người bị xâm phạm, người giám hộ của người bị xâm phạm quyền và lợi ích hợp pháp do có thỏa thuận về chế độ tài sản của vợ chồng.
 
+2. Trình tự, thủ tục giải quyết yêu cầu Tòa án tuyên bố thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu được thực hiện theo quy định của pháp luật tố tụng dân sự.
 
-### Điều 8.4.TL.1.6. Xác định thỏa thuận về chế độ tài sản của vợ chồng vô hiệu
+3. Trường hợp Tòa án đang giải quyết vụ việc dân sự có liên quan đến nội dung thỏa thuận về chế độ tài sản của vợ chồng mà có yêu cầu Tòa án xem xét thỏa thuận về chế độ tài sản của vợ chồng vô hiệu thì Tòa án phải xem xét, quyết định nội dung thỏa thuận về chế độ tài sản của vợ chồng liên quan đến tài sản tranh chấp có bị vô hiệu hay không. Trường hợp thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu một phần hoặc toàn bộ thì Tòa án phải tuyên thỏa thuận về chế độ tài sản của vợ chồng vô hiệu một phần hoặc toàn bộ trong bản án, quyết định để làm cơ sở giải quyết quyền, nghĩa vụ của các bên.
+
+*V**í** d**ụ:* Anh A và chị B trước khi kết hôn có lập văn bản thỏa thuận xác lập chế độ tài sản của vợ chồng, trong văn bản xác định quyền sử dụng đất là tài sản riêng của anh A trước khi kết hôn (trên thực tế đã thế chấp cho Ngân hàng C) sẽ là tài sản chung của vợ chồng sau khi kết hôn. Do đến hạn anh A không trả được nợ nên Ngân hàng C yêu cầu xử lý tài sản bảo đảm là quyền sử dụng đất nhưng anh A không đồng ý và cho rằng đây là tài sản chung của vợ chồng mà không phải tài sản riêng của anh. Ngân hàng C đã khởi kiện ra Tòa án yêu cầu anh A trả nợ, yêu cầu hủy văn bản thỏa thuận chế độ tài sản của vợ chồng anh A và yêu cầu xử lý tài sản thế chấp là quyền sử dụng đất của anh A. Trường hợp này Tòa án phải xác định thỏa thuận xác lập chế độ tài sản của vợ chồng anh A bị vô hiệu vì vi phạm nghiêm trọng quyền của ngân hàng C đối với tài sản đã được anh A thế chấp.
+
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.50. Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu)
 
 Điều 8.4.TL.1.6. Xác định thỏa thuận về chế độ tài sản của vợ chồng vô hiệu
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 08004000000000003000000300000000000000000500000000000000000000802569300010000600
+1. Thỏa thuận về chế độ tài sản của vợ chồng có thể bị Tòa án tuyên bố vô hiệu toàn bộ hoặc vô hiệu một phần.
 
-**ID:** dk_00010763
+a) Trường hợp thỏa thuận về chế độ tài sản của vợ chồng bị Tòa án tuyên bố vô hiệu toàn bộ thì chế độ tài sản của vợ chồng theo luật định được áp dụng.
 
----
+b) Trường hợp thỏa thuận về chế độ tài sản của vợ chồng bị tuyên bố vô hiệu một phần thì các nội dung không bị vô hiệu vẫn được áp dụng; đối với phần nội dung bị vô hiệu thì các quy định tương ứng về chế độ tài sản của vợ chồng theo luật định được áp dụng.
 
+2. Tòa án quyết định tuyên bố thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu khi thuộc trường hợp quy định tại khoản 1 Điều 50 của Luật hôn nhân và gia đình và lưu ý một số trường hợp sau đây:
 
-### Điều 8.4.LQ.51. Quyền yêu cầu giải quyết ly hôn
+a) Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu do vi phạm quyền được bảo đảm chỗ ở của vợ, chồng quy định tại Điều 31 và điểm b khoản 1 Điều 50 của Luật hôn nhân và gia đình là trường hợp thỏa thuận đó cho phép một bên được quyền định đoạt nhà ở là nơi ở duy nhất của vợ chồng dẫn đến vợ, chồng không có chỗ ở hoặc không bảo đảm chỗ ở tối thiểu về diện tích, điều kiện sinh hoạt, an toàn, vệ sinh môi trường theo quy định của pháp luật về nhà ở.
 
-*Nội dung chưa có sẵn*
+b) Nội dung của thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu do vi phạm nghiêm trọng quyền được cấp dưỡng, quyền được thừa kế và các quyền, lợi ích hợp pháp khác của cha, mẹ, con và các thành viên khác của gia đình quy định tại điểm c khoản 1 Điều 50 của Luật hôn nhân và gia đình là trường hợp thỏa thuận đó nhằm trốn tránh nghĩa vụ cấp dưỡng quy định từ Điều 110 đến Điều 115 của Luật hôn nhân và gia đình hoặc để tước bỏ quyền thừa kế của những người thừa kế không phụ thuộc vào nội dung di chúc theo quy định của Bộ luật dân sự hoặc vi phạm các quyền, lợi ích hợp pháp của cha, mẹ, con và các thành viên khác của gia đình đã được Luật hôn nhân và gia đình và pháp luật khác có liên quan quy định.
 
-**Chỉ mục:** 51
+*V**í **dụ 1:* Ông A đang có nghĩa vụ cấp dưỡng cho anh B. Sau đó ông A kết hôn với bà C và thỏa thuận chuyển giao toàn bộ tài sản của mình cho bà C, do đó, không còn tài sản để thực hiện nghĩa vụ cấp dưỡng cho anh B. Trong trường hợp này thỏa thuận về tài sản giữa ông A và bà C bị vô hiệu.
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005100000000000000000
+*Ví dụ 2:* Anh A có con đã thành niên nhưng không có khả năng lao động. Sau đó, anh A kết hôn với chị B. Anh A và chị B đã thỏa thuận xác lập chế độ tài sản của vợ chồng, trong đó có nội dung toàn bộ tài sản của anh A sẽ do chị B thừa hưởng khi anh A chết. Trong trường hợp này, nội dung thỏa thuận về chế độ tài sản giữa anh A và chị B bị vô hiệu đối với phần tài sản của anh A mà người con bị mất năng lực hành vi dân sự được thừa kế theo quy định của pháp luật.
 
-**ID:** dk_00010766
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.50. Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu)
 
----
+Chương IV
 
+CHẤM DỨT HÔN NHÂN
 
-### Điều 8.4.LQ.52. Khuyến khích hòa giải ở cơ sở
+Mục 1
 
-*Nội dung chưa có sẵn*
+LY HÔN
 
-**Chỉ mục:** 52
+Điều 8.4.LQ.51. Quyền yêu cầu giải quyết ly hôn
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005200000000000000000
+(Điều 51 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00010767
+1. Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.
 
----
+2. Cha, mẹ, người thân thích khác có quyền yêu cầu Tòa án giải quyết ly hôn khi một bên vợ, chồng do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi của mình, đồng thời là nạn nhân của bạo lực gia đình do chồng, vợ của họ gây ra làm ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe, tinh thần của họ.
 
+3. Chồng không có quyền yêu cầu ly hôn trong trường hợp vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.
 
-### Điều 8.4.LQ.53. Thụ lý đơn yêu cầu ly hôn
+(Điều này có nội dung liên quan đến Điều 8. Căn cứ cho ly hôn (Điều 89) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 5. Quyền và nghĩa vụ của nạn nhân bạo lực gia đình; Điều 9.1.LQ.22. Mất năng lực hành vi dân sự; Điều 9.1.LQ.23. Người có khó khăn trong nhận thức, làm chủ hành vi; Điều 9.1.LQ.24. Hạn chế năng lực hành vi dân sự)
 
-*Nội dung chưa có sẵn*
+Điều 8.4.LQ.52. Khuyến khích hòa giải ở cơ sở
 
-**Chỉ mục:** 53
+(Điều 52 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005300000000000000000
+Nhà nước và xã hội khuyến khích việc hòa giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn. Việc hòa giải được thực hiện theo quy định của pháp luật về hòa giải ở cơ sở.
 
-**ID:** dk_00010768
+(Điều này có nội dung liên quan đến Điều 37.1.LQ.3. Phạm vi hòa giải ở cơ sở; Điều 37.1.LQ.5. Chính sách của Nhà nước về hòa giải ở cơ sở; Điều 37.1.NĐ.1.5. Phạm vi hòa giải ở cơ sở)
 
----
+Điều 8.4.LQ.53. Thụ lý đơn yêu cầu ly hôn
 
+(Điều 53 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.54. Hòa giải tại Tòa án
+1. Tòa án thụ lý đơn yêu cầu ly hôn theo quy định của pháp luật về tố tụng dân sự.
 
-*Nội dung chưa có sẵn*
+2. Trong trường hợp không đăng ký kết hôn mà có yêu cầu ly hôn thì Tòa án thụ lý và tuyên bố không công nhận quan hệ vợ chồng theo quy định tại khoản 1 Điều 14 của Luật này; nếu có yêu cầu về con và tài sản thì giải quyết theo quy định tại Điều 15 và Điều 16 của Luật này.
 
-**Chỉ mục:** 54
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.363. Bồi thường thiệt hại trong trường hợp bên bị vi phạm có lỗi; Điều 9.1.LQ.365. Chuyển giao quyền yêu cầu)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005400000000000000000
+Điều 8.4.LQ.54. Hòa giải tại Tòa án
 
-**ID:** dk_00010769
+(Điều 54 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
----
+Sau khi đã thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự.
 
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.10. Hòa giải trong tố tụng dân sự; Điều 37.5.LQ.205. Nguyên tắc tiến hành hòa giải; Điều 37.5.LQ.206. Những vụ án dân sự không được hòa giải; Điều 37.5.LQ.207. Những vụ án dân sự không tiến hành hòa giải được)
 
-### Điều 8.4.LQ.55. Thuận tình ly hôn
+Điều 8.4.LQ.55. Thuận tình ly hôn
 
-*Nội dung chưa có sẵn*
+(Điều 55 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 55
+Trong trường hợp vợ chồng cùng yêu cầu ly hôn, nếu xét thấy hai bên thật sự tự nguyện ly hôn và đã thỏa thuận về việc chia tài sản, việc trông nom, nuôi dưỡng, chăm sóc, giáo dục con trên cơ sở bảo đảm quyền lợi chính đáng của vợ và con thì Tòa án công nhận thuận tình ly hôn; nếu không thỏa thuận được hoặc có thỏa thuận nhưng không bảo đảm quyền lợi chính đáng của vợ và con thì Tòa án giải quyết việc ly hôn.
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005500000000000000000
+(Điều này có nội dung liên quan đến Điều 9. Thuận tình ly hôn (Điều 90) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Mục 7 HỢP ĐỒNG; Điều 37.5.LQ.29. Những yêu cầu về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.39. Thẩm quyền của Tòa án theo lãnh thổ; Điều 37.5.LQ.379. Quyền yêu cầu hủy bỏ quyết định tuyên bố một người mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi; Điều 37.5.LQ.396. Đơn yêu cầu công nhận thuận tình ly hôn, thỏa thuận nuôi con, chia tài sản khi ly hôn)
 
-**ID:** dk_00010770
+Điều 8.4.LQ.56. Ly hôn theo yêu cầu của một bên
 
----
+(Điều 56 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Khi vợ hoặc chồng yêu cầu ly hôn mà hòa giải tại Tòa án không thành thì Tòa án giải quyết cho ly hôn nếu có căn cứ về việc vợ, chồng có hành vi bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được.
 
-### Điều 8.4.LQ.56. Ly hôn theo yêu cầu của một bên
+2. Trong trường hợp vợ hoặc chồng của người bị Tòa án tuyên bố mất tích yêu cầu ly hôn thì Tòa án giải quyết cho ly hôn.
 
-*Nội dung chưa có sẵn*
+3. Trong trường hợp có yêu cầu ly hôn theo quy định tại khoản 2 Điều 51 của Luật này thì Tòa án giải quyết cho ly hôn nếu có căn cứ về việc chồng, vợ có hành vi bạo lực gia đình làm ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe, tinh thần của người kia.
 
-**Chỉ mục:** 56
-
-**Mã phân cấp:** 080040000000000040000001000000000000000005600000000000000000
-
-**ID:** dk_00010771
-
----
-
-
-### Điều 8.4.LQ.57. Thời điểm chấm dứt hôn nhân và trách nhiệm gửi bản án, quyết định ly hôn
+(Điều này có nội dung liên quan đến Điều 8. Căn cứ cho ly hôn (Điều 89); Điều 10. Ly hôn theo yêu cầu của một bên (Điều 9) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 5. Quyền và nghĩa vụ của nạn nhân bạo lực gia đình; Điều 9.1.LQ.68. Tuyên bố mất tích; Điều 9.1.LQ.70. Huỷ bỏ quyết định tuyên bố mất tích; Điều 9.1.LQ.71. Tuyên bố chết; Điều 9.1.LQ.72. Quan hệ nhân thân và quan hệ tài sản của người bị Tòa án tuyên bố là đã chết)
 
 Điều 8.4.LQ.57. Thời điểm chấm dứt hôn nhân và trách nhiệm gửi bản án, quyết định ly hôn
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005700000000000000000
+1. Quan hệ hôn nhân chấm dứt kể từ ngày bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật.
 
-**ID:** dk_00010772
+2. Tòa án đã giải quyết ly hôn phải gửi bản án, quyết định ly hôn đã có hiệu lực pháp luật cho cơ quan đã thực hiện việc đăng ký kết hôn để ghi vào sổ hộ tịch; hai bên ly hôn; cá nhân, cơ quan, tổ chức khác theo quy định của Bộ luật tố tụng dân sự và các luật khác có liên quan.
 
----
-
-
-### Điều 8.4.LQ.58. Quyền, nghĩa vụ của cha mẹ và con sau khi ly hôn
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.30. Trách nhiệm thông báo khi có sự thay đổi hộ tịch; Điều 15.3.LQ.31. Thủ tục ghi vào Sổ hộ tịch việc thay đổi hộ tịch theo bản án, quyết định của cơ quan nhà nước có thẩm quyền)
 
 Điều 8.4.LQ.58. Quyền, nghĩa vụ của cha mẹ và con sau khi ly hôn
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005800000000000000000
+Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn được áp dụng theo quy định tại các điều 81, 82, 83 và 84 của Luật này.
 
-**ID:** dk_00010773
-
----
-
-
-### Điều 8.4.LQ.59. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn
+(Điều này có nội dung liên quan đến Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000)
 
 Điều 8.4.LQ.59. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn
 
-**Chỉ mục:** 59
+(Điều 59 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000005900000000000000000
+1. Trong trường hợp chế độ tài sản của vợ chồng theo luật định thì việc giải quyết tài sản do các bên thỏa thuận; nếu không thỏa thuận được thì theo yêu cầu của vợ, chồng hoặc của hai vợ chồng, Tòa án giải quyết theo quy định tại các khoản 2, 3, 4 và 5 Điều này và tại các điều 60, 61, 62, 63 và 64 của Luật này.
 
-**ID:** dk_00010774
+Trong trường hợp chế độ tài sản của vợ chồng theo thỏa thuận thì việc giải quyết tài sản khi ly hôn được áp dụng theo thỏa thuận đó; nếu thỏa thuận không đầy đủ, rõ ràng thì áp dụng quy định tương ứng tại các khoản 2, 3, 4 và 5 Điều này và tại các điều 60, 61, 62, 63 và 64 của Luật này để giải quyết.
 
----
+2. Tài sản chung của vợ chồng được chia đôi nhưng có tính đến các yếu tố sau đây:
 
+a) Hoàn cảnh của gia đình và của vợ, chồng;
 
-### Điều 8.4.LQ.60. Giải quyết quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba khi ly hôn
+b) Công sức đóng góp của vợ, chồng vào việc tạo lập, duy trì và phát triển khối tài sản chung. Lao động của vợ, chồng trong gia đình được coi như lao động có thu nhập;
+
+c) Bảo vệ lợi ích chính đáng của mỗi bên trong sản xuất, kinh doanh và nghề nghiệp để các bên có điều kiện tiếp tục lao động tạo thu nhập;
+
+d) Lỗi của mỗi bên trong vi phạm quyền, nghĩa vụ của vợ chồng.
+
+3. Tài sản chung của vợ chồng được chia bằng hiện vật, nếu không chia được bằng hiện vật thì chia theo giá trị; bên nào nhận phần tài sản bằng hiện vật có giá trị lớn hơn phần mình được hưởng thì phải thanh toán cho bên kia phần chênh lệch.
+
+4. Tài sản riêng của vợ, chồng thuộc quyền sở hữu của người đó, trừ trường hợp tài sản riêng đã nhập vào tài sản chung theo quy định của Luật này.
+
+Trong trường hợp có sự sáp nhập, trộn lẫn giữa tài sản riêng với tài sản chung mà vợ, chồng có yêu cầu về chia tài sản thì được thanh toán phần giá trị tài sản của mình đóng góp vào khối tài sản đó, trừ trường hợp vợ chồng có thỏa thuận khác.
+
+5. Bảo vệ quyền, lợi ích hợp pháp của vợ, con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+6. Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn Điều này.
+
+(Điều này có nội dung liên quan đến Điều 12. Chia tài sản của vợ chồng khi ly hôn (các Điều 95, 96, 97 và 98) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 37.5.LQ.28. Những tranh chấp về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.29. Những yêu cầu về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn của )
 
 Điều 8.4.LQ.60. Giải quyết quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba khi ly hôn
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000006000000000000000000
+1. Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
 
-**ID:** dk_00010775
+2. Trong trường hợp có tranh chấp về quyền, nghĩa vụ tài sản thì áp dụng quy định tại các điều 27, 37 và 45 của Luật này và quy định của Bộ luật dân sự để giải quyết.
 
----
-
-
-### Điều 8.4.LQ.61. Chia tài sản trong trường hợp vợ chồng sống chung với gia đình
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.133. Bảo vệ quyền lợi của người thứ ba ngay tình khi giao dịch dân sự vô hiệu; Điều 8.4.NĐ.2.8. Người thứ ba không ngay tình khi xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu)
 
 Điều 8.4.LQ.61. Chia tài sản trong trường hợp vợ chồng sống chung với gia đình
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000006100000000000000000
+1. Trong trường hợp vợ chồng sống chung với gia đình mà ly hôn, nếu tài sản của vợ chồng trong khối tài sản chung của gia đình không xác định được thì vợ hoặc chồng được chia một phần trong khối tài sản chung của gia đình căn cứ vào công sức đóng góp của vợ chồng vào việc tạo lập, duy trì, phát triển khối tài sản chung cũng như vào đời sống chung của gia đình. Việc chia một phần trong khối tài sản chung do vợ chồng thỏa thuận với gia đình; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
 
-**ID:** dk_00010776
+2. Trong trường hợp vợ chồng sống chung với gia đình mà tài sản của vợ chồng trong khối tài sản chung của gia đình có thể xác định được theo phần thì khi ly hôn, phần tài sản của vợ chồng được trích ra từ khối tài sản chung đó để chia theo quy định tại Điều 59 của Luật này.
 
----
-
-
-### Điều 8.4.LQ.62. Chia quyền sử dụng đất của vợ chồng khi ly hôn
+(Điều này có nội dung liên quan đến Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn)
 
 Điều 8.4.LQ.62. Chia quyền sử dụng đất của vợ chồng khi ly hôn
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000006200000000000000000
+1. Quyền sử dụng đất là tài sản riêng của bên nào thì khi ly hôn vẫn thuộc về bên đó.
 
-**ID:** dk_00010777
+2. Việc chia quyền sử dụng đất là tài sản chung của vợ chồng khi ly hôn được thực hiện như sau:
 
----
+a) Đối với đất nông nghiệp trồng cây hàng năm, nuôi trồng thủy sản, nếu cả hai bên đều có nhu cầu và có điều kiện trực tiếp sử dụng đất thì được chia theo thỏa thuận của hai bên; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết theo quy định tại Điều 59 của Luật này.
 
+Trong trường hợp chỉ một bên có nhu cầu và có điều kiện trực tiếp sử dụng đất thì bên đó được tiếp tục sử dụng nhưng phải thanh toán cho bên kia phần giá trị quyền sử dụng đất mà họ được hưởng;
 
-### Điều 8.4.LQ.63. Quyền lưu cư của vợ hoặc chồng khi ly hôn
+b) Trong trường hợp vợ chồng có quyền sử dụng đất nông nghiệp trồng cây hàng năm, nuôi trồng thủy sản chung với hộ gia đình thì khi ly hôn phần quyền sử dụng đất của vợ chồng được tách ra và chia theo quy định tại điểm a khoản này;
+
+c) Đối với đất nông nghiệp trồng cây lâu năm, đất lâm nghiệp để trồng rừng, đất ở thì được chia theo quy định tại Điều 59 của Luật này;
+
+d) Đối với loại đất khác thì được chia theo quy định của pháp luật về đất đai.
+
+3. Trong trường hợp vợ chồng sống chung với gia đình mà không có quyền sử dụng đất chung với hộ gia đình thì khi ly hôn quyền lợi của bên không có quyền sử dụng đất và không tiếp tục sống chung với gia đình được giải quyết theo quy định tại Điều 61 của Luật này.
+
+(Điều này có nội dung liên quan đến Điều 10. Phân loại đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013)
 
 Điều 8.4.LQ.63. Quyền lưu cư của vợ hoặc chồng khi ly hôn
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000006300000000000000000
+Nhà ở thuộc sở hữu riêng của vợ, chồng đã đưa vào sử dụng chung thì khi ly hôn vẫn thuộc sở hữu riêng của người đó; trường hợp vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt, trừ trường hợp các bên có thỏa thuận khác.
 
-**ID:** dk_00010778
-
----
-
-
-### Điều 8.4.LQ.64. Chia tài sản chung của vợ chồng đưa vào kinh doanh
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.257. Quyền hưởng dụng; Điều 9.1.LQ.258. Căn cứ xác lập quyền hưởng dụng)
 
 Điều 8.4.LQ.64. Chia tài sản chung của vợ chồng đưa vào kinh doanh
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000001000000000000000006400000000000000000
+Vợ, chồng đang thực hiện hoạt động kinh doanh liên quan đến tài sản chung có quyền được nhận tài sản đó và phải thanh toán cho bên kia phần giá trị tài sản mà họ được hưởng, trừ trường hợp pháp luật về kinh doanh có quy định khác.
 
-**ID:** dk_00010779
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng; Điều 9.1.LQ.208. Xác lập quyền sở hữu chung; Điều 9.1.LQ.209. Sở hữu chung theo phần; Điều 9.1.LQ.218. Định đoạt tài sản chung; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 8.4.NĐ.2.13. Chiếm hữu, sử dụng, định đoạt tài sản chung của vợ chồng; Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân)
 
----
+Mục 2
 
+HÔN NHÂN CHẤM DỨT DO VỢ, CHỒNG CHẾT HOẶC BỊ TÒA ÁN TUYÊN BỐ LÀ ĐÃ CHẾT
 
-### Điều 8.4.LQ.65. Thời điểm chấm dứt hôn nhân
+Điều 8.4.LQ.65. Thời điểm chấm dứt hôn nhân
 
-*Nội dung chưa có sẵn*
+(Điều 65 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 65
+Hôn nhân chấm dứt kể từ thời điểm vợ hoặc chồng chết.
 
-**Mã phân cấp:** 080040000000000040000002000000000000000006500000000000000000
+Trong trường hợp Tòa án tuyên bố vợ hoặc chồng là đã chết thì thời điểm hôn nhân chấm dứt được xác định theo ngày chết được ghi trong bản án, quyết định của Tòa án.
 
-**ID:** dk_00010781
-
----
-
-
-### Điều 8.4.LQ.66. Giải quyết tài sản của vợ chồng trong trường hợp một bên chết hoặc bị Tòa án tuyên bố là đã chết
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.68. Tuyên bố mất tích; Điều 9.1.LQ.69. Quản lý tài sản của người bị tuyên bố mất tích; Điều 9.1.LQ.70. Huỷ bỏ quyết định tuyên bố mất tích; Điều 9.1.LQ.71. Tuyên bố chết; Điều 9.1.LQ.72. Quan hệ nhân thân và quan hệ tài sản của người bị Tòa án tuyên bố là đã chết của Bộ luật 91/2015/QH13 Dân sự ban hành ngày 24/11/2015; Điều 37.5.LQ.391. Quyền yêu cầu tuyên bố một người là đã chết; Điều 37.5.LQ.392. Chuẩn bị xét đơn yêu cầu tuyên bố một người là đã chết; Điều 37.5.LQ.393. Quyết định tuyên bố một người là đã chết; Điều 37.5.LQ.394. Đơn yêu cầu hủy bỏ quyết định tuyên bố một người là đã chết; Điều 37.5.LQ.395. Quyết định hủy bỏ quyết định tuyên bố một người là đã chết)
 
 Điều 8.4.LQ.66. Giải quyết tài sản của vợ chồng trong trường hợp một bên chết hoặc bị Tòa án tuyên bố là đã chết
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000002000000000000000006600000000000000000
+1. Khi một bên vợ, chồng chết hoặc bị Tòa án tuyên bố là đã chết thì bên còn sống quản lý tài sản chung của vợ chồng, trừ trường hợp trong di chúc có chỉ định người khác quản lý di sản hoặc những người thừa kế thỏa thuận cử người khác quản lý di sản.
 
-**ID:** dk_00010782
+2. Khi có yêu cầu về chia di sản thì tài sản chung của vợ chồng được chia đôi, trừ trường hợp vợ chồng có thỏa thuận về chế độ tài sản. Phần tài sản của vợ, chồng chết hoặc bị Tòa án tuyên bố là đã chết được chia theo quy định của pháp luật về thừa kế.
 
----
+3. Trong trường hợp việc chia di sản ảnh hưởng nghiêm trọng đến đời sống của vợ hoặc chồng còn sống, gia đình thì vợ, chồng còn sống có quyền yêu cầu Tòa án hạn chế phân chia di sản theo quy định của Bộ luật dân sự.
 
+4. Tài sản của vợ chồng trong kinh doanh được giải quyết theo quy định tại các khoản 1, 2 và 3 Điều này, trừ trường hợp pháp luật về kinh doanh có quy định khác.
 
-### Điều 8.4.LQ.67. Quan hệ nhân thân, tài sản khi vợ, chồng bị tuyên bố là đã chết mà trở về
+(Điều này có nội dung liên quan đến Phần thứ tư THỪA KẾ; Điều 9.1.LQ.68. Tuyên bố mất tích; Điều 9.1.LQ.69. Quản lý tài sản của người bị tuyên bố mất tích; Điều 9.1.LQ.70. Huỷ bỏ quyết định tuyên bố mất tích; Điều 9.1.LQ.72. Quan hệ nhân thân và quan hệ tài sản của người bị Tòa án tuyên bố là đã chết; Điều 9.1.LQ.219. Chia tài sản thuộc sở hữu chung; Điều 9.1.LQ.680. Thừa kế)
 
 Điều 8.4.LQ.67. Quan hệ nhân thân, tài sản khi vợ, chồng bị tuyên bố là đã chết mà trở về
 
-**Chỉ mục:** 67
+(Điều 67 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000040000002000000000000000006700000000000000000
+1. Khi Tòa án ra quyết định hủy bỏ tuyên bố một người là đã chết mà vợ hoặc chồng của người đó chưa kết hôn với người khác thì quan hệ hôn nhân được khôi phục kể từ thời điểm kết hôn. Trong trường hợp có quyết định cho ly hôn của Tòa án theo quy định tại khoản 2 Điều 56 của Luật này thì quyết định cho ly hôn vẫn có hiệu lực pháp luật. Trong trường hợp vợ, chồng của người đó đã kết hôn với người khác thì quan hệ hôn nhân được xác lập sau có hiệu lực pháp luật.
 
-**ID:** dk_00010783
+2. Quan hệ tài sản của người bị tuyên bố là đã chết trở về với người vợ hoặc chồng được giải quyết như sau:
 
----
+a) Trong trường hợp hôn nhân được khôi phục thì quan hệ tài sản được khôi phục kể từ thời điểm quyết định của Tòa án hủy bỏ tuyên bố chồng, vợ là đã chết có hiệu lực. Tài sản do vợ, chồng có được kể từ thời điểm quyết định của Tòa án về việc tuyên bố chồng, vợ là đã chết có hiệu lực đến khi quyết định hủy bỏ tuyên bố chồng, vợ đã chết có hiệu lực là tài sản riêng của người đó;
 
+b) Trong trường hợp hôn nhân không được khôi phục thì tài sản có được trước khi quyết định của Tòa án về việc tuyên bố vợ, chồng là đã chết có hiệu lực mà chưa chia được giải quyết như chia tài sản khi ly hôn.
 
-### Điều 8.4.LQ.68. Bảo vệ quyền và nghĩa vụ của cha mẹ và con
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.73. Huỷ bỏ quyết định tuyên bố chết)
+
+Chương V
+
+QUAN HỆ GIỮA CHA MẸ VÀ CON
+
+Mục 1
+
+QUYỀN VÀ NGHĨA VỤ GIỮA CHA MẸ VÀ CON
 
 Điều 8.4.LQ.68. Bảo vệ quyền và nghĩa vụ của cha mẹ và con
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000006800000000000000000
+1. Quyền và nghĩa vụ của cha mẹ và con theo quy định tại Luật này, Bộ luật dân sự và các luật khác có liên quan được tôn trọng và bảo vệ.
 
-**ID:** dk_00010786
+2. Con sinh ra không phụ thuộc vào tình trạng hôn nhân của cha mẹ đều có quyền và nghĩa vụ như nhau đối với cha mẹ của mình được quy định tại Luật này, Bộ luật dân sự và các luật khác có liên quan.
 
----
+3. Giữa con nuôi và cha nuôi, mẹ nuôi có các quyền và nghĩa vụ của cha mẹ và con được quy định tại Luật này, Luật nuôi con nuôi, Bộ luật dân sự và các luật khác có liên quan.
 
+4. Mọi thỏa thuận của cha mẹ, con liên quan đến quan hệ nhân thân, tài sản không được làm ảnh hưởng đến quyền, lợi ích hợp pháp của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình, cha mẹ mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
 
-### Điều 8.4.LQ.69. Nghĩa vụ và quyền của cha mẹ
+(Điều này có nội dung liên quan đến Điều 5. Trách nhiệm bảo vệ, chăm sóc và giáo dục trẻ em; Điều 6. Thực hiện quyền của trẻ em của Luật 25/2004/QH11 Bảo vệ, chăm sóc và giáo dục trẻ em ban hành ngày 15/06/2004; Điều 15.5.LQ.2. Mục đích nuôi con nuôi)
 
-*Nội dung chưa có sẵn*
+Điều 8.4.LQ.69. Nghĩa vụ và quyền của cha mẹ
 
-**Chỉ mục:** 69
+(Điều 69 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000006900000000000000000
+1. Thương yêu con, tôn trọng ý kiến của con; chăm lo việc học tập, giáo dục để con phát triển lành mạnh về thể chất, trí tuệ, đạo đức, trở thành người con hiếu thảo của gia đình, công dân có ích cho xã hội.
 
-**ID:** dk_00010787
+2. Trông nom, nuôi dưỡng, chăm sóc, bảo vệ quyền, lợi ích hợp pháp của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
 
----
+3. Giám hộ hoặc đại diện theo quy định của Bộ luật dân sự cho con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự.
 
+4. Không được phân biệt đối xử với con trên cơ sở giới hoặc theo tình trạng hôn nhân của cha mẹ; không được lạm dụng sức lao động của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động; không được xúi giục, ép buộc con làm việc trái pháp luật, trái đạo đức xã hội.
 
-### Điều 8.4.LQ.70. Quyền và nghĩa vụ của con
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.21. Người chưa thành niên; Điều 9.1.LQ.23. Người có khó khăn trong nhận thức, làm chủ hành vi; Điều 9.1.LQ.24. Hạn chế năng lực hành vi dân sự; Điều 9.1.LQ.47. Người được giám hộ; Điều 9.1.LQ.52. Người giám hộ đương nhiên của người chưa thành niên; Điều 9.1.LQ.53. Người giám hộ đương nhiên của người mất năng lực hành vi dân sự; Điều 9.1.LQ.54. Cử, chỉ định người giám hộ; Điều 9.1.LQ.55. Nghĩa vụ của người giám hộ đối với người được giám hộ chưa đủ mười lăm tuổi; Điều 9.1.LQ.56. Nghĩa vụ của người giám hộ đối với người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi)
 
-*Nội dung chưa có sẵn*
+Điều 8.4.LQ.70. Quyền và nghĩa vụ của con
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007000000000000000000
+1. Được cha mẹ thương yêu, tôn trọng, thực hiện các quyền, lợi ích hợp pháp về nhân thân và tài sản theo quy định của pháp luật; được học tập và giáo dục; được phát triển lành mạnh về thể chất, trí tuệ và đạo đức.
 
-**ID:** dk_00010788
+2. Có bổn phận yêu quý, kính trọng, biết ơn, hiếu thảo, phụng dưỡng cha mẹ, giữ gìn danh dự, truyền thống tốt đẹp của gia đình.
 
----
+3. Con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình thì có quyền sống chung với cha mẹ, được cha mẹ trông nom, nuôi dưỡng, chăm sóc.
 
+Con chưa thành niên tham gia công việc gia đình phù hợp với lứa tuổi và không trái với quy định của pháp luật về bảo vệ, chăm sóc và giáo dục trẻ em.
 
-### Điều 8.4.LQ.71. Nghĩa vụ và quyền chăm sóc, nuôi dưỡng
+4. Con đã thành niên có quyền tự do lựa chọn nghề nghiệp, nơi cư trú, học tập, nâng cao trình độ văn hóa, chuyên môn, nghiệp vụ; tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội theo nguyện vọng và khả năng của mình. Khi sống cùng với cha mẹ, con có nghĩa vụ tham gia công việc gia đình, lao động, sản xuất, tạo thu nhập nhằm bảo đảm đời sống chung của gia đình; đóng góp thu nhập vào việc đáp ứng nhu cầu của gia đình phù hợp với khả năng của mình.
+
+5. Được hưởng quyền về tài sản tương xứng với công sức đóng góp vào tài sản của gia đình.
+
+(Điều này có nội dung liên quan đến Điều 11. Quyền được khai sinh và có quốc tịch; Điều 12. Quyền được chăm sóc, nuôi dưỡng; Điều 13. Quyền sống chung với cha mẹ; Điều 14. Quyền được tôn trọng, bảo vệ tính mạng, thân thể, nhân phẩm và danh dự; Điều 15. Quyền được chăm sóc sức khoẻ; Điều 16. Quyền được học tập; Điều 17. Quyền vui chơi, giải trí, hoạt động văn hoá, nghệ thuật, thể dục, thể thao, du lịch; Điều 18. Quyền được phát triển năng khiếu; Điều 19. Quyền có tài sản; Điều 20. Quyền được tiếp cận thông tin, bày tỏ ý kiến và tham gia hoạt động xã hội; Điều 21. Bổn phận của trẻ em; Điều 22. Những việc trẻ em không được làm của Luật 25/2004/QH11 Bảo vệ, chăm sóc và giáo dục trẻ em ban hành ngày 15/06/2004; Điều 9.1.LQ.21. Người chưa thành niên; Điều 9.1.LQ.22. Mất năng lực hành vi dân sự; Điều 9.1.LQ.23. Người có khó khăn trong nhận thức, làm chủ hành vi; Điều 9.1.LQ.24. Hạn chế năng lực hành vi dân sự; Điều 9.1.LQ.47. Người được giám hộ; Điều 9.1.LQ.52. Người giám hộ đương nhiên của người chưa thành niên; Điều 9.1.LQ.53. Người giám hộ đương nhiên của người mất năng lực hành vi dân sự; Điều 9.1.LQ.54. Cử, chỉ định người giám hộ; Điều 9.1.LQ.55. Nghĩa vụ của người giám hộ đối với người được giám hộ chưa đủ mười lăm tuổi; Điều 9.1.LQ.56. Nghĩa vụ của người giám hộ đối với người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi)
 
 Điều 8.4.LQ.71. Nghĩa vụ và quyền chăm sóc, nuôi dưỡng
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007100000000000000000
+1. Cha, mẹ có nghĩa vụ và quyền ngang nhau, cùng nhau chăm sóc, nuôi dưỡng con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
 
-**ID:** dk_00010789
+2. Con có nghĩa vụ và quyền chăm sóc, nuôi dưỡng cha mẹ, đặc biệt khi cha mẹ mất năng lực hành vi dân sự, ốm đau, già yếu, khuyết tật; trường hợp gia đình có nhiều con thì các con phải cùng nhau chăm sóc, nuôi dưỡng cha mẹ.
 
----
+(Điều này có nội dung liên quan đến Điều 12. Quyền được chăm sóc, nuôi dưỡng; Điều 15. Quyền được chăm sóc sức khoẻ của Luật 25/2004/QH11 Bảo vệ, chăm sóc và giáo dục trẻ em ban hành ngày 15/06/2004; Điều 6.3.LQ.8. Trách nhiệm của gia đình)
 
+Điều 8.4.LQ.72. Nghĩa vụ và quyền giáo dục con
 
-### Điều 8.4.LQ.72. Nghĩa vụ và quyền giáo dục con
+(Điều 72 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Cha mẹ có nghĩa vụ và quyền giáo dục con, chăm lo và tạo điều kiện cho con học tập.
 
-**Chỉ mục:** 72
+Cha mẹ tạo điều kiện cho con được sống trong môi trường gia đình đầm ấm, hòa thuận; làm gương tốt cho con về mọi mặt; phối hợp chặt chẽ với nhà trường, cơ quan, tổ chức trong việc giáo dục con.
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007200000000000000000
+2. Cha mẹ hướng dẫn con chọn nghề; tôn trọng quyền chọn nghề, quyền tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội của con.
 
-**ID:** dk_00010790
+3. Cha mẹ có thể đề nghị cơ quan, tổ chức hữu quan giúp đỡ để thực hiện việc giáo dục con khi gặp khó khăn không thể tự giải quyết được.
 
----
+(Điều này có nội dung liên quan đến Điều 5. Trách nhiệm bảo vệ, chăm sóc và giáo dục trẻ em; Điều 8. Trách nhiệm quản lý nhà nước về bảo vệ, chăm sóc và giáo dục trẻ em; Điều 10. Hợp tác quốc tế về bảo vệ, chăm sóc và giáo dục trẻ em; Điều 16. Quyền được học tập; Điều 24. Trách nhiệm chăm sóc, nuôi dưỡng; Điều 28. Trách nhiệm bảo đảm quyền được học tập của Luật 25/2004/QH11 Bảo vệ, chăm sóc và giáo dục trẻ em ban hành ngày 15/06/2004)
 
+Điều 8.4.LQ.73. Đại diện cho con
 
-### Điều 8.4.LQ.73. Đại diện cho con
+(Điều 73 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Cha mẹ là người đại diện theo pháp luật của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự, trừ trường hợp con có người khác làm giám hộ hoặc có người khác đại diện theo pháp luật.
 
-**Chỉ mục:** 73
+2. Cha hoặc mẹ có quyền tự mình thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007300000000000000000
+3. Đối với giao dịch liên quan đến tài sản là bất động sản, động sản có đăng ký quyền sở hữu, quyền sử dụng, tài sản đưa vào kinh doanh của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự thì phải có sự thỏa thuận của cha mẹ.
 
-**ID:** dk_00010791
+4. Cha, mẹ phải chịu trách nhiệm liên đới về việc thực hiện giao dịch liên quan đến tài sản của con được quy định tại khoản 2 và khoản 3 Điều này và theo quy định của Bộ luật dân sự.
 
----
+(Điều này có nội dung liên quan đến Chương IX ĐẠI DIỆN; Điều 9.1.LQ.55. Nghĩa vụ của người giám hộ đối với người được giám hộ chưa đủ mười lăm tuổi; Điều 9.1.LQ.56. Nghĩa vụ của người giám hộ đối với người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi; Điều 9.1.LQ.58. Quyền của người giám hộ)
 
+Điều 8.4.LQ.74. Bồi thường thiệt hại do con gây ra
 
-### Điều 8.4.LQ.74. Bồi thường thiệt hại do con gây ra
+(Điều 74 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+Cha mẹ phải bồi thường thiệt hại do con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự gây ra theo quy định của Bộ luật dân sự.
 
-**Chỉ mục:** 74
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.586. Năng lực chịu trách nhiệm bồi thường thiệt hại của cá nhân)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007400000000000000000
+Điều 8.4.LQ.75. Quyền có tài sản riêng của con
 
-**ID:** dk_00010792
+(Điều 75 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
----
+1. Con có quyền có tài sản riêng. Tài sản riêng của con bao gồm tài sản được thừa kế riêng, được tặng cho riêng, thu nhập do lao động của con, hoa lợi, lợi tức phát sinh từ tài sản riêng của con và thu nhập hợp pháp khác. Tài sản được hình thành từ tài sản riêng của con cũng là tài sản riêng của con.
 
+2. Con từ đủ 15 tuổi trở lên sống chung với cha mẹ phải có nghĩa vụ chăm lo đời sống chung của gia đình; đóng góp vào việc đáp ứng nhu cầu thiết yếu của gia đình nếu có thu nhập.
 
-### Điều 8.4.LQ.75. Quyền có tài sản riêng của con
+3. Con đã thành niên có nghĩa vụ đóng góp thu nhập vào việc đáp ứng nhu cầu của gia đình theo quy định tại khoản 4 Điều 70 của Luật này.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng)
 
-**Chỉ mục:** 75
+Điều 8.4.LQ.76. Quản lý tài sản riêng của con
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007500000000000000000
+(Điều 76 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**ID:** dk_00010793
+1. Con từ đủ 15 tuổi trở lên có thể tự mình quản lý tài sản riêng hoặc nhờ cha mẹ quản lý.
 
----
+2. Tài sản riêng của con dưới 15 tuổi, con mất năng lực hành vi dân sự do cha mẹ quản lý. Cha mẹ có thể ủy quyền cho người khác quản lý tài sản riêng của con. Tài sản riêng của con do cha mẹ hoặc người khác quản lý được giao lại cho con khi con từ đủ 15 tuổi trở lên hoặc khi con khôi phục năng lực hành vi dân sự đầy đủ, trừ trường hợp cha mẹ và con có thỏa thuận khác.
 
+3. Cha mẹ không quản lý tài sản riêng của con trong trường hợp con đang được người khác giám hộ theo quy định của Bộ luật dân sự; người tặng cho tài sản hoặc để lại tài sản thừa kế theo di chúc cho người con đã chỉ định người khác quản lý tài sản đó hoặc trường hợp khác theo quy định của pháp luật.
 
-### Điều 8.4.LQ.76. Quản lý tài sản riêng của con
+4. Trong trường hợp cha mẹ đang quản lý tài sản riêng của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự mà con được giao cho người khác giám hộ thì tài sản riêng của con được giao lại cho người giám hộ quản lý theo quy định của Bộ luật dân sự.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 76
-
-**Mã phân cấp:** 080040000000000050000001000000000000000007600000000000000000
-
-**ID:** dk_00010794
-
----
-
-
-### Điều 8.4.LQ.77. Định đoạt tài sản riêng của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự
+(Điều này có nội dung liên quan đến Điều 15.5.LQ.24. Hệ quả của việc nuôi con nuôi; Điều 15.5.LQ.27. Hệ quả của việc chấm dứt nuôi con nuôi; Điều 9.1.LQ.59. Quản lý tài sản của người được giám hộ; Điều 9.1.LQ.205. Sở hữu riêng và tài sản thuộc sở hữu riêng; Điều 9.1.LQ.206. Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng)
 
 Điều 8.4.LQ.77. Định đoạt tài sản riêng của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự
 
-**Chỉ mục:** 77
+(Điều 77 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007700000000000000000
+1. Trường hợp cha mẹ hoặc người giám hộ quản lý tài sản riêng của con dưới 15 tuổi thì có quyền định đoạt tài sản đó vì lợi ích của con, nếu con từ đủ 09 tuổi trở lên thì phải xem xét nguyện vọng của con.
 
-**ID:** dk_00010795
+2. Con từ đủ 15 tuổi đến dưới 18 tuổi có quyền định đoạt tài sản riêng, trừ trường hợp tài sản là bất động sản, động sản có đăng ký quyền sở hữu, quyền sử dụng hoặc dùng tài sản để kinh doanh thì phải có sự đồng ý bằng văn bản của cha mẹ hoặc người giám hộ.
 
----
+3. Trong trường hợp con đã thành niên mất năng lực hành vi dân sự thì việc định đoạt tài sản riêng của con do người giám hộ thực hiện.
 
-
-### Điều 8.4.LQ.78. Quyền, nghĩa vụ của cha nuôi, mẹ nuôi và con nuôi
+(Điều này có nội dung liên quan đến Điều 15.5.LQ.24. Hệ quả của việc nuôi con nuôi; Điều 15.5.LQ.27. Hệ quả của việc chấm dứt nuôi con nuôi; Điều 9.1.LQ.55. Nghĩa vụ của người giám hộ đối với người được giám hộ chưa đủ mười lăm tuổi; Điều 9.1.LQ.56. Nghĩa vụ của người giám hộ đối với người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi; Điều 9.1.LQ.57. Nghĩa vụ của người giám hộ đối với người được giám hộ mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi; Điều 9.1.LQ.58. Quyền của người giám hộ; Điều 9.1.LQ.59. Quản lý tài sản của người được giám hộ)
 
 Điều 8.4.LQ.78. Quyền, nghĩa vụ của cha nuôi, mẹ nuôi và con nuôi
 
-**Chỉ mục:** 78
+(Điều 78 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007800000000000000000
+1. Cha nuôi, mẹ nuôi, con nuôi có quyền và nghĩa vụ của cha, mẹ, con được quy định trong Luật này kể từ thời điểm quan hệ nuôi con nuôi được xác lập theo quy định của Luật Nuôi con nuôi.
 
-**ID:** dk_00010796
+Trong trường hợp chấm dứt việc nuôi con nuôi theo quyết định của Tòa án thì quyền, nghĩa vụ của cha nuôi, mẹ nuôi với con nuôi chấm dứt kể từ ngày quyết định của Tòa án có hiệu lực pháp luật.
 
----
+2. Quyền, nghĩa vụ của cha đẻ, mẹ đẻ và con đã làm con nuôi của người khác được thực hiện theo quy định của Luật Nuôi con nuôi.
 
+3. Quyền, nghĩa vụ giữa cha đẻ, mẹ đẻ và con đẻ được khôi phục kể từ thời điểm quan hệ nuôi con nuôi chấm dứt. Trong trường hợp cha đẻ, mẹ đẻ không còn hoặc không có đủ điều kiện để nuôi con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình thì Tòa án giải quyết việc chấm dứt nuôi con nuôi và chỉ định người giám hộ cho con theo quy định của Bộ luật dân sự.
 
-### Điều 8.4.LQ.79. Quyền, nghĩa vụ của cha dượng, mẹ kế và con riêng của vợ hoặc của chồng
+(Điều này có nội dung liên quan đến Điều 15.5.LQ.5. Thứ tự ưu tiên lựa chọn gia đình thay thế; Điều 15.5.LQ.6. Bảo hộ quyền nuôi con nuôi và quyền được nhận làm con nuôi; Điều 15.5.LQ.8. Người được nhận làm con nuôi)
 
 Điều 8.4.LQ.79. Quyền, nghĩa vụ của cha dượng, mẹ kế và con riêng của vợ hoặc của chồng
 
-**Chỉ mục:** 79
+(Điều 79 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000007900000000000000000
+1. Cha dượng, mẹ kế có quyền và nghĩa vụ trông nom, nuôi dưỡng, chăm sóc, giáo dục con riêng của bên kia cùng sống chung với mình theo quy định tại các điều 69, 71 và 72 của Luật này.
 
-**ID:** dk_00010797
-
----
-
-
-### Điều 8.4.LQ.80. Quyền, nghĩa vụ của con dâu, con rể, cha mẹ vợ, cha mẹ chồng
+2. Con riêng có quyền và nghĩa vụ chăm sóc, phụng dưỡng cha dượng, mẹ kế cùng sống chung với mình theo quy định tại Điều 70 và Điều 71 của Luật này.
 
 Điều 8.4.LQ.80. Quyền, nghĩa vụ của con dâu, con rể, cha mẹ vợ, cha mẹ chồng
 
-**Chỉ mục:** 80
+(Điều 80 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008000000000000000000
-
-**ID:** dk_00010798
-
----
-
-
-### Điều 8.4.LQ.81. Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn
+Trong trường hợp con dâu, con rể sống chung với cha mẹ chồng, cha mẹ vợ thì giữa các bên có các quyền, nghĩa vụ tôn trọng, quan tâm, chăm sóc và giúp đỡ nhau theo quy định tại các điều 69, 70, 71 và 72 của Luật này.
 
 Điều 8.4.LQ.81. Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn
 
-**Chỉ mục:** 81
+(Điều 81 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008100000000000000000
+1. Sau khi ly hôn, cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình theo quy định của Luật này, Bộ luật dân sự và các luật khác có liên quan.
 
-**ID:** dk_00010799
+2. Vợ, chồng thỏa thuận về người trực tiếp nuôi con, nghĩa vụ, quyền của mỗi bên sau khi ly hôn đối với con; trường hợp không thỏa thuận được thì Tòa án quyết định giao con cho một bên trực tiếp nuôi căn cứ vào quyền lợi về mọi mặt của con; nếu con từ đủ 07 tuổi trở lên thì phải xem xét nguyện vọng của con.
 
----
+3. Con dưới 36 tháng tuổi được giao cho mẹ trực tiếp nuôi, trừ trường hợp người mẹ không đủ điều kiện để trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con hoặc cha mẹ có thỏa thuận khác phù hợp với lợi ích của con.
 
-
-### Điều 8.4.LQ.82. Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn
+(Điều này có nội dung liên quan đến Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000)
 
 Điều 8.4.LQ.82. Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn
 
-**Chỉ mục:** 82
+(Điều 82 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008200000000000000000
+1. Cha, mẹ không trực tiếp nuôi con có nghĩa vụ tôn trọng quyền của con được sống chung với người trực tiếp nuôi.
 
-**ID:** dk_00010800
+2. Cha, mẹ không trực tiếp nuôi con có nghĩa vụ cấp dưỡng cho con.
 
----
+3. Sau khi ly hôn, người không trực tiếp nuôi con có quyền, nghĩa vụ thăm nom con mà không ai được cản trở.
 
-
-### Điều 8.4.LQ.83. Nghĩa vụ, quyền của cha, mẹ trực tiếp nuôi con đối với người không trực tiếp nuôi con sau khi ly hôn
+Cha, mẹ không trực tiếp nuôi con lạm dụng việc thăm nom để cản trở hoặc gây ảnh hưởng xấu đến việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con thì người trực tiếp nuôi con có quyền yêu cầu Tòa án hạn chế quyền thăm nom con của người đó.
 
 Điều 8.4.LQ.83. Nghĩa vụ, quyền của cha, mẹ trực tiếp nuôi con đối với người không trực tiếp nuôi con sau khi ly hôn
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008300000000000000000
+1. Cha, mẹ trực tiếp nuôi con có quyền yêu cầu người không trực tiếp nuôi con thực hiện các nghĩa vụ theo quy định tại Điều 82 của Luật này; yêu cầu người không trực tiếp nuôi con cùng các thành viên gia đình tôn trọng quyền được nuôi con của mình.
 
-**ID:** dk_00010801
+2. Cha, mẹ trực tiếp nuôi con cùng các thành viên gia đình không được cản trở người không trực tiếp nuôi con trong việc thăm nom, chăm sóc, nuôi dưỡng, giáo dục con.
 
----
-
-
-### Điều 8.4.LQ.84. Thay đổi người trực tiếp nuôi con sau khi ly hôn
+(Điều này có nội dung liên quan đến Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000)
 
 Điều 8.4.LQ.84. Thay đổi người trực tiếp nuôi con sau khi ly hôn
 
-**Chỉ mục:** 84
+(Điều 84 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008400000000000000000
+1. Trong trường hợp có yêu cầu của cha, mẹ hoặc cá nhân, tổ chức được quy định tại khoản 5 Điều này, Tòa án có thể quyết định việc thay đổi người trực tiếp nuôi con.
 
-**ID:** dk_00010802
+2. Việc thay đổi người trực tiếp nuôi con được giải quyết khi có một trong các căn cứ sau đây:
 
----
+a) Cha, mẹ có thỏa thuận về việc thay đổi người trực tiếp nuôi con phù hợp với lợi ích của con;
 
+b) Người trực tiếp nuôi con không còn đủ điều kiện trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con.
 
-### Điều 8.4.LQ.85. Hạn chế quyền của cha, mẹ đối với con chưa thành niên
+3. Việc thay đổi người trực tiếp nuôi con phải xem xét nguyện vọng của con từ đủ 07 tuổi trở lên.
+
+4. Trong trường hợp xét thấy cả cha và mẹ đều không đủ điều kiện trực tiếp nuôi con thì Tòa án quyết định giao con cho người giám hộ theo quy định của Bộ luật dân sự.
+
+5. Trong trường hợp có căn cứ theo quy định tại điểm b khoản 2 Điều này thì trên cơ sở lợi ích của con, cá nhân, cơ quan, tổ chức sau có quyền yêu cầu thay đổi người trực tiếp nuôi con:
+
+a) Người thân thích;
+
+b) Cơ quan quản lý nhà nước về gia đình;
+
+c) Cơ quan quản lý nhà nước về trẻ em;
+
+d) Hội liên hiệp phụ nữ.
+
+(Điều này có nội dung liên quan đến Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 33.3.NQ.1.11. Không phải nộp tiền tạm ứng án phí, tạm ứng lệ phí Tòa án; không phải chịu án phí, lệ phí Tòa án)
 
 Điều 8.4.LQ.85. Hạn chế quyền của cha, mẹ đối với con chưa thành niên
 
-**Chỉ mục:** 85
+(Điều 85 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008500000000000000000
+1. Cha, mẹ bị hạn chế quyền đối với con chưa thành niên trong các trường hợp sau đây:
 
-**ID:** dk_00010803
+a) Bị kết án về một trong các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con với lỗi cố ý hoặc có hành vi vi phạm nghiêm trọng nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con;
 
----
+b) Phá tán tài sản của con;
 
+c) Có lối sống đồi trụy;
 
-### Điều 8.4.LQ.86. Người có quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên
+d) Xúi giục, ép buộc con làm những việc trái pháp luật, trái đạo đức xã hội.
+
+2. Căn cứ vào từng trường hợp cụ thể, Tòa án có thể tự mình hoặc theo yêu cầu của cá nhân, cơ quan, tổ chức quy định tại Điều 86 của Luật này ra quyết định không cho cha, mẹ trông nom, chăm sóc, giáo dục con, quản lý tài sản riêng của con hoặc đại diện theo pháp luật cho con trong thời hạn từ 01 năm đến 05 năm. Tòa án có thể xem xét việc rút ngắn thời hạn này.
+
+(Điều này có nội dung liên quan đến Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000)
 
 Điều 8.4.LQ.86. Người có quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên
 
-**Chỉ mục:** 86
+(Điều 86 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008600000000000000000
+1. Cha, mẹ, người giám hộ của con chưa thành niên, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên.
 
-**ID:** dk_00010804
+2. Cá nhân, cơ quan, tổ chức sau đây, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên:
 
----
+a) Người thân thích;
 
+b) Cơ quan quản lý nhà nước về gia đình;
 
-### Điều 8.4.LQ.87. Hậu quả pháp lý của việc cha, mẹ bị hạn chế quyền đối với con chưa thành niên
+c) Cơ quan quản lý nhà nước về trẻ em;
+
+d) Hội liên hiệp phụ nữ.
+
+**3. Cá nhân, cơ quan, tổ chức khác khi phát hiện cha, mẹ có hành vi vi phạm quy định tại khoản 1 Điều 85 của Luật này có quyền đề nghị cơ quan, tổ chức quy định tại các điểm b, c và d khoản 2 Điều này yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên.**
+
+(Điều này có nội dung liên quan đến Điều 15.5.LQ.14. Điều kiện đối với người nhận con nuôi của Luật 52/2010/QH12 Nuôi con nuôi ban hành ngày 17/06/2010; Điều 37.5.LQ.29. Những yêu cầu về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.40. Thẩm quyền của Tòa án theo sự lựa chọn của nguyên đơn, người yêu cầu của Bộ luật 92/2015/QH13 Tố tụng dân sự ban hành ngày 25/11/2015; Điều 33.3.NQ.1.11. Không phải nộp tiền tạm ứng án phí, tạm ứng lệ phí Tòa án; không phải chịu án phí, lệ phí Tòa án)
 
 Điều 8.4.LQ.87. Hậu quả pháp lý của việc cha, mẹ bị hạn chế quyền đối với con chưa thành niên
 
-**Chỉ mục:** 87
+(Điều 87 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000001000000000000000008700000000000000000
+1. Trong trường hợp cha hoặc mẹ bị Tòa án hạn chế quyền đối với con chưa thành niên thì người kia thực hiện quyền trông nom, nuôi dưỡng, chăm sóc, giáo dục con, quản lý tài sản riêng của con và đại diện theo pháp luật cho con.
 
-**ID:** dk_00010805
+2. Việc trông nom, chăm sóc, giáo dục con và quản lý tài sản riêng của con chưa thành niên được giao cho người giám hộ theo quy định của Bộ luật dân sự và Luật này trong các trường hợp sau đây:
 
----
+a) Cha và mẹ đều bị Tòa án hạn chế quyền đối với con chưa thành niên;
 
+b) Một bên cha, mẹ không bị hạn chế quyền đối với con chưa thành niên nhưng không đủ điều kiện để thực hiện quyền, nghĩa vụ đối với con;
 
-### Điều 8.4.LQ.88. Xác định cha, mẹ
+c) Một bên cha, mẹ bị hạn chế quyền đối với con chưa thành niên và chưa xác định được bên cha, mẹ còn lại của con chưa thành niên.
 
-*Nội dung chưa có sẵn*
+3. Cha, mẹ đã bị Tòa án hạn chế quyền đối với con chưa thành niên vẫn phải thực hiện nghĩa vụ cấp dưỡng cho con.
 
-**Chỉ mục:** 88
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.47. Người được giám hộ; Điều 9.1.LQ.49. Điều kiện của cá nhân làm người giám hộ)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000008800000000000000000
+Mục 2
 
-**ID:** dk_00010807
+XÁC ĐỊNH CHA, MẸ, CON
 
----
+Điều 8.4.LQ.88. Xác định cha, mẹ
 
+(Điều 88 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.89. Xác định con
+1. Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ hôn nhân là con chung của vợ chồng.
 
-*Nội dung chưa có sẵn*
+Con được sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân.
 
-**Chỉ mục:** 89
+Con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận là con chung của vợ chồng.
 
-**Mã phân cấp:** 080040000000000050000002000000000000000008900000000000000000
+2. Trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định.
 
-**ID:** dk_00010808
+(Điều này có nội dung liên quan đến Điều 5. Xác định cha, mẹ, con (Điều 63, Điều 64) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 15.5.LQ.21. Sự đồng ý cho làm con nuôi; Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch)
 
----
+Điều 8.4.LQ.89. Xác định con
 
+(Điều 89 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.90. Quyền nhận cha, mẹ
+1. Người không được nhận là cha, mẹ của một người có thể yêu cầu Tòa án xác định người đó là con mình.
 
-*Nội dung chưa có sẵn*
+2. Người được nhận là cha, mẹ của một người có thể yêu cầu Tòa án xác định người đó không phải là con mình.
 
-**Chỉ mục:** 90
+(Điều này có nội dung liên quan đến Điều 5. Xác định cha, mẹ, con (Điều 63, Điều 64) của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009000000000000000000
+Điều 8.4.LQ.90. Quyền nhận cha, mẹ
 
-**ID:** dk_00010809
+(Điều 90 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
----
+1. Con có quyền nhận cha, mẹ của mình, kể cả trong trường hợp cha, mẹ đã chết.
 
+2. Con đã thành niên nhận cha, không cần phải có sự đồng ý của mẹ; nhận mẹ, không cần phải có sự đồng ý của cha.
 
-### Điều 8.4.LQ.91. Quyền nhận con
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch)
 
-*Nội dung chưa có sẵn*
+Điều 8.4.LQ.91. Quyền nhận con
 
-**Chỉ mục:** 91
+(Điều 91 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009100000000000000000
+1. Cha, mẹ có quyền nhận con, kể cả trong trường hợp con đã chết.
 
-**ID:** dk_00010810
-
----
-
-
-### Điều 8.4.LQ.92. Xác định cha, mẹ, con trong trường hợp người có yêu cầu chết
+2. Trong trường hợp người đang có vợ, chồng mà nhận con thì việc nhận con không cần phải có sự đồng ý của người kia.
 
 Điều 8.4.LQ.92. Xác định cha, mẹ, con trong trường hợp người có yêu cầu chết
 
-**Chỉ mục:** 92
+(Điều 92 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009200000000000000000
-
-**ID:** dk_00010811
-
----
-
-
-### Điều 8.4.LQ.93. Xác định cha, mẹ trong trường hợp sinh con bằng kỹ thuật hỗ trợ sinh sản
+Trong trường hợp có yêu cầu về việc xác định cha, mẹ, con mà người có yêu cầu chết thì người thân thích của người này có quyền yêu cầu Tòa án xác định cha, mẹ, con cho người yêu cầu đã chết.
 
 Điều 8.4.LQ.93. Xác định cha, mẹ trong trường hợp sinh con bằng kỹ thuật hỗ trợ sinh sản
 
-**Chỉ mục:** 93
+(Điều 93 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009300000000000000000
+1. Trong trường hợp người vợ sinh con bằng kỹ thuật hỗ trợ sinh sản thì việc xác định cha, mẹ được áp dụng theo quy định tại Điều 88 của Luật này.
 
-**ID:** dk_00010812
+2. Trong trường hợp người phụ nữ sống độc thân sinh con bằng kỹ thuật hỗ trợ sinh sản thì người phụ nữ đó là mẹ của con được sinh ra.
 
----
+3. Việc sinh con bằng kỹ thuật hỗ trợ sinh sản không làm phát sinh quan hệ cha, mẹ và con giữa người cho tinh trùng, cho noãn, cho phôi với người con được sinh ra.
 
-
-### Điều 8.4.LQ.94. Xác định cha, mẹ trong trường hợp mang thai hộ vì mục đích nhân đạo
+4. Việc xác định cha, mẹ trong trường hợp mang thai hộ vì mục đích nhân đạo được áp dụng theo quy định tại Điều 94 của Luật này.
 
 Điều 8.4.LQ.94. Xác định cha, mẹ trong trường hợp mang thai hộ vì mục đích nhân đạo
 
-**Chỉ mục:** 94
+(Điều 94 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009400000000000000000
-
-**ID:** dk_00010813
-
----
-
-
-### Điều 8.4.LQ.95. Điều kiện mang thai hộ vì mục đích nhân đạo
+Con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra.
 
 Điều 8.4.LQ.95. Điều kiện mang thai hộ vì mục đích nhân đạo
 
-**Chỉ mục:** 95
+(Điều 95 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009500000000000000000
+1. Việc mang thai hộ vì mục đích nhân đạo phải được thực hiện trên cơ sở tự nguyện của các bên và được lập thành văn bản.
 
-**ID:** dk_00010814
+2. Vợ chồng có quyền nhờ người mang thai hộ khi có đủ các điều kiện sau đây:
 
----
+a) Có xác nhận của tổ chức y tế có thẩm quyền về việc người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản;
 
+b) Vợ chồng đang không có con chung;
 
-### Điều 8.4.LQ.96. Thỏa thuận về mang thai hộ vì mục đích nhân đạo
+c) Đã được tư vấn về y tế, pháp lý, tâm lý.
+
+3. Người được nhờ mang thai hộ phải có đủ các điều kiện sau đây:
+
+a) Là người thân thích cùng hàng của bên vợ hoặc bên chồng nhờ mang thai hộ;
+
+b) Đã từng sinh con và chỉ được mang thai hộ một lần;
+
+c) Ở độ tuổi phù hợp và có xác nhận của tổ chức y tế có thẩm quyền về khả năng mang thai hộ;
+
+d) Trường hợp người phụ nữ mang thai hộ có chồng thì phải có sự đồng ý bằng văn bản của người chồng;
+
+đ) Đã được tư vấn về y tế, pháp lý, tâm lý.
+
+4. Việc mang thai hộ vì mục đích nhân đạo không được trái với quy định của pháp luật về sinh con bằng kỹ thuật hỗ trợ sinh sản.
+
+5. Chính phủ quy định chi tiết Điều này.
 
 Điều 8.4.LQ.96. Thỏa thuận về mang thai hộ vì mục đích nhân đạo
 
-**Chỉ mục:** 96
+(Điều 96 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009600000000000000000
+1. Thỏa thuận về mang thai hộ vì mục đích nhân đạo giữa vợ chồng nhờ mang thai hộ (sau đây gọi là bên nhờ mang thai hộ) và vợ chồng người mang thai hộ (sau đây gọi là bên mang thai hộ) phải có các nội dung cơ bản sau đây:
 
-**ID:** dk_00010815
+a) Thông tin đầy đủ về bên nhờ mang thai hộ và bên mang thai hộ theo các điều kiện có liên quan quy định tại Điều 95 của Luật này;
 
----
+b) Cam kết thực hiện các quyền, nghĩa vụ quy định tại Điều 97 và Điều 98 của Luật này;
 
+c) Việc giải quyết hậu quả trong trường hợp có tai biến sản khoa; hỗ trợ để bảo đảm sức khỏe sinh sản cho người mang thai hộ trong thời gian mang thai và sinh con, việc nhận con của bên nhờ mang thai hộ, quyền và nghĩa vụ của hai bên đối với con trong trường hợp con chưa được giao cho bên nhờ mang thai hộ và các quyền, nghĩa vụ khác có liên quan;
 
-### Điều 8.4.LQ.97. Quyền, nghĩa vụ của bên mang thai hộ vì mục đích nhân đạo
+d) Trách nhiệm dân sự trong trường hợp một hoặc cả hai bên vi phạm cam kết theo thỏa thuận.
+
+2. Thỏa thuận về việc mang thai hộ phải được lập thành văn bản có công chứng. Trong trường hợp vợ chồng bên nhờ mang thai hộ ủy quyền cho nhau hoặc vợ chồng bên mang thai hộ ủy quyền cho nhau về việc thỏa thuận thì việc ủy quyền phải lập thành văn bản có công chứng. Việc ủy quyền cho người thứ ba không có giá trị pháp lý.
+
+Trong trường hợp thỏa thuận về mang thai hộ giữa bên mang thai hộ và bên nhờ mang thai hộ được lập cùng với thỏa thuận giữa họ với cơ sở y tế thực hiện việc sinh con bằng kỹ thuật hỗ trợ sinh sản thì thỏa thuận này phải có xác nhận của người có thẩm quyền của cơ sở y tế này.
+
+(Điều này có nội dung liên quan đến Mục 7 HỢP ĐỒNG)
 
 Điều 8.4.LQ.97. Quyền, nghĩa vụ của bên mang thai hộ vì mục đích nhân đạo
 
-**Chỉ mục:** 97
+(Điều 97 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009700000000000000000
+1. Người mang thai hộ, chồng của người mang thai hộ có quyền, nghĩa vụ như cha mẹ trong việc chăm sóc sức khỏe sinh sản và chăm sóc, nuôi dưỡng con cho đến thời điểm giao đứa trẻ cho bên nhờ mang thai hộ; phải giao đứa trẻ cho bên nhờ mang thai hộ.
 
-**ID:** dk_00010816
+2. Người mang thai hộ phải tuân thủ quy định về thăm khám, các quy trình sàng lọc để phát hiện, điều trị các bất thường, dị tật của bào thai theo quy định của Bộ Y tế.
 
----
+3. Người mang thai hộ được hưởng chế độ thai sản theo quy định của pháp luật về lao động và bảo hiểm xã hội cho đến thời điểm giao đứa trẻ cho bên nhờ mang thai hộ. Trong trường hợp kể từ ngày sinh đến thời điểm giao đứa trẻ mà thời gian hưởng chế độ thai sản chưa đủ 60 ngày thì người mang thai hộ vẫn được hưởng chế độ thai sản cho đến khi đủ 60 ngày. Việc sinh con do mang thai hộ không tính vào số con theo chính sách dân số và kế hoạch hóa gia đình.
 
+4. Bên mang thai hộ có quyền yêu cầu bên nhờ mang thai hộ thực hiện việc hỗ trợ, chăm sóc sức khỏe sinh sản.
 
-### Điều 8.4.LQ.98. Quyền, nghĩa vụ của bên nhờ mang thai hộ vì mục đích nhân đạo
+Trong trường hợp vì lý do tính mạng, sức khỏe của mình hoặc sự phát triển của thai nhi, người mang thai hộ có quyền quyết định về số lượng bào thai, việc tiếp tục hay không tiếp tục mang thai phù hợp với quy định của pháp luật về chăm sóc sức khỏe sinh sản và sinh con bằng kỹ thuật hỗ trợ sinh sản.
+
+5. Trong trường hợp bên nhờ mang thai hộ từ chối nhận con thì bên mang thai hộ có quyền yêu cầu Tòa án buộc bên nhờ mang thai hộ nhận con.
+
+(Điều này có nội dung liên quan đến Điều 8.1.TT.4.3. Nguyên tắc tư vấn, sàng lọc, chẩn đoán, điều trị trước sinh và sơ sinh)
 
 Điều 8.4.LQ.98. Quyền, nghĩa vụ của bên nhờ mang thai hộ vì mục đích nhân đạo
 
-**Chỉ mục:** 98
+(Điều 98 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009800000000000000000
+1. Bên nhờ mang thai hộ có nghĩa vụ chi trả các chi phí thực tế để bảo đảm việc chăm sóc sức khỏe sinh sản theo quy định của Bộ Y tế.
 
-**ID:** dk_00010817
+2. Quyền, nghĩa vụ của bên nhờ mang thai hộ vì mục đích nhân đạo đối với con phát sinh kể từ thời điểm con được sinh ra. Người mẹ nhờ mang thai hộ được hưởng chế độ thai sản theo quy định của pháp luật về lao động và bảo hiểm xã hội từ thời điểm nhận con cho đến khi con đủ 06 tháng tuổi.
 
----
+3. Bên nhờ mang thai hộ không được từ chối nhận con. Trong trường hợp bên nhờ mang thai hộ chậm nhận con hoặc vi phạm nghĩa vụ về nuôi dưỡng, chăm sóc con thì phải có nghĩa vụ cấp dưỡng cho con theo quy định của Luật này và bị xử lý theo quy định của pháp luật có liên quan; nếu gây thiệt hại cho bên mang thai hộ thì phải bồi thường. Trong trường hợp bên nhờ mang thai hộ chết thì con được hưởng thừa kế theo quy định của pháp luật đối với di sản của bên nhờ mang thai hộ.
 
+4. Giữa con sinh ra từ việc mang thai hộ với các thành viên khác của gia đình bên nhờ mang thai hộ có các quyền, nghĩa vụ theo quy định của Luật này, Bộ luật dân sự và luật khác có liên quan.
 
-### Điều 8.4.LQ.99. Giải quyết tranh chấp liên quan đến việc sinh con bằng kỹ thuật hỗ trợ sinh sản, mang thai hộ vì mục đích nhân đạo
+5. Trong trường hợp bên mang thai hộ từ chối giao con thì bên nhờ mang thai hộ có quyền yêu cầu Tòa án buộc bên mang thai hộ giao con.
 
 Điều 8.4.LQ.99. Giải quyết tranh chấp liên quan đến việc sinh con bằng kỹ thuật hỗ trợ sinh sản, mang thai hộ vì mục đích nhân đạo
 
-**Chỉ mục:** 99
+(Điều 99 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000009900000000000000000
+1. Tòa án là cơ quan có thẩm quyền giải quyết tranh chấp về sinh con bằng kỹ thuật hỗ trợ sinh sản, mang thai hộ.
 
-**ID:** dk_00010818
+2. Trong trường hợp chưa giao đứa trẻ mà cả hai vợ chồng bên nhờ mang thai hộ chết hoặc mất năng lực hành vi dân sự thì bên mang thai hộ có quyền nhận nuôi đứa trẻ; nếu bên mang thai hộ không nhận nuôi đứa trẻ thì việc giám hộ và cấp dưỡng đối với đứa trẻ được thực hiện theo quy định của Luật này và Bộ luật dân sự.
 
----
-
-
-### Điều 8.4.LQ.100. Xử lý hành vi vi phạm về sinh con bằng kỹ thuật hỗ trợ sinh sản và mang thai hộ
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.28. Những tranh chấp về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.29. Những yêu cầu về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.115. Giao người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi cho cá nhân hoặc tổ chức trông nom, nuôi dưỡng, chăm sóc, giáo dục)
 
 Điều 8.4.LQ.100. Xử lý hành vi vi phạm về sinh con bằng kỹ thuật hỗ trợ sinh sản và mang thai hộ
 
-**Chỉ mục:** 100
+(Điều 100 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000010000000000000000000
-
-**ID:** dk_00010819
-
----
-
-
-### Điều 8.4.LQ.101. Thẩm quyền giải quyết việc xác định cha, mẹ, con
+Các bên trong quan hệ sinh con bằng kỹ thuật hỗ trợ sinh sản, mang thai hộ vi phạm điều kiện, quyền, nghĩa vụ được quy định tại Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý theo trách nhiệm dân sự, hành chính, hình sự.
 
 Điều 8.4.LQ.101. Thẩm quyền giải quyết việc xác định cha, mẹ, con
 
-**Chỉ mục:** 101
+(Điều 101 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000010100000000000000000
+1. Cơ quan đăng ký hộ tịch có thẩm quyền xác định cha, mẹ, con theo quy định của pháp luật về hộ tịch trong trường hợp không có tranh chấp.
 
-**ID:** dk_00010820
+2. Tòa án có thẩm quyền giải quyết việc xác định cha, mẹ, con trong trường hợp có tranh chấp hoặc người được yêu cầu xác định là cha, mẹ, con đã chết và trường hợp quy định tại Điều 92 của Luật này.
 
----
+Quyết định của Tòa án về xác định cha, mẹ, con phải được gửi cho cơ quan đăng ký hộ tịch để ghi chú theo quy định của pháp luật về hộ tịch; các bên trong quan hệ xác định cha, mẹ, con; cá nhân, cơ quan, tổ chức có liên quan theo quy định của pháp luật về tố tụng dân sự.
 
-
-### Điều 8.4.LQ.102. Người có quyền yêu cầu xác định cha, mẹ, con
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.28. Những tranh chấp về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.29. Những yêu cầu về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án; Điều 37.5.LQ.115. Giao người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi cho cá nhân hoặc tổ chức trông nom, nuôi dưỡng, chăm sóc, giáo dục)
 
 Điều 8.4.LQ.102. Người có quyền yêu cầu xác định cha, mẹ, con
 
-**Chỉ mục:** 102
+(Điều 102 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 080040000000000050000002000000000000000010200000000000000000
+1. Cha, mẹ, con đã thành niên không bị mất năng lực hành vi dân sự có quyền yêu cầu cơ quan đăng ký hộ tịch xác định con, cha, mẹ cho mình trong trường hợp được quy định tại khoản 1 Điều 101 của Luật này.
 
-**ID:** dk_00010821
+2. Cha, mẹ, con, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án xác định con, cha, mẹ cho mình trong trường hợp được quy định tại khoản 2 Điều 101 của Luật này.
 
----
+3. Cá nhân, cơ quan, tổ chức sau đây, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án xác định cha, mẹ cho con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự; xác định con cho cha, mẹ chưa thành niên hoặc mất năng lực hành vi dân sự trong các trường hợp được quy định tại khoản 2 Điều 101 của Luật này:
 
+a) Cha, mẹ, con, người giám hộ;
 
-### Điều 8.4.LQ.103. Quyền, nghĩa vụ giữa các thành viên khác của gia đình
+b) Cơ quan quản lý nhà nước về gia đình;
+
+c) Cơ quan quản lý nhà nước về trẻ em;
+
+d) Hội liên hiệp phụ nữ.
+
+Chương VI
+
+QUAN HỆ GIỮA CÁC THÀNH VIÊN KHÁC CỦA GIA ĐÌNH
 
 Điều 8.4.LQ.103. Quyền, nghĩa vụ giữa các thành viên khác của gia đình
 
-**Chỉ mục:** 103
+(Điều 103 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000600010300000000000000000
+1. Các thành viên gia đình có quyền, nghĩa vụ quan tâm, chăm sóc, giúp đỡ, tôn trọng nhau. Quyền, lợi ích hợp pháp về nhân thân và tài sản của các thành viên gia đình quy định tại Luật này, Bộ luật dân sự và các luật khác có liên quan được pháp luật bảo vệ.
 
-**ID:** dk_00010823
+2. Trong trường hợp sống chung thì các thành viên gia đình có nghĩa vụ tham gia công việc gia đình, lao động tạo thu nhập; đóng góp công sức, tiền hoặc tài sản khác để duy trì đời sống chung của gia đình phù hợp với khả năng thực tế của mình.
 
----
-
-
-### Điều 8.4.LQ.104. Quyền, nghĩa vụ của ông bà nội, ông bà ngoại và cháu
+3. Nhà nước có chính sách tạo điều kiện để các thế hệ trong gia đình quan tâm, chăm sóc, giúp đỡ nhau nhằm giữ gìn và phát huy truyền thống tốt đẹp của gia đình Việt Nam; khuyến khích các cá nhân, tổ chức trong xã hội cùng tham gia vào việc giữ gìn, phát huy truyền thống tốt đẹp của gia đình Việt Nam.
 
 Điều 8.4.LQ.104. Quyền, nghĩa vụ của ông bà nội, ông bà ngoại và cháu
 
-**Chỉ mục:** 104
+(Điều 104 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000600010400000000000000000
+1. Ông bà nội, ông bà ngoại có quyền, nghĩa vụ trông nom, chăm sóc, giáo dục cháu, sống mẫu mực và nêu gương tốt cho con cháu; trường hợp cháu chưa thành niên, cháu đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình mà không có người nuôi dưỡng theo quy định tại Điều 105 của Luật này thì ông bà nội, ông bà ngoại có nghĩa vụ nuôi dưỡng cháu.
 
-**ID:** dk_00010824
+2. Cháu có nghĩa vụ kính trọng, chăm sóc, phụng dưỡng ông bà nội, ông bà ngoại; trường hợp ông bà nội, ông bà ngoại không có con để nuôi dưỡng mình thì cháu đã thành niên có nghĩa vụ nuôi dưỡng.
 
----
+Điều 8.4.LQ.105. Quyền, nghĩa vụ của anh, chị, em
 
+(Điều 105 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.105. Quyền, nghĩa vụ của anh, chị, em
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 105
-
-**Mã phân cấp:** 0800400000000000600010500000000000000000
-
-**ID:** dk_00010825
-
----
-
-
-### Điều 8.4.LQ.106. Quyền, nghĩa vụ của cô, dì, chú, cậu, bác ruột và cháu ruột
+Anh, chị, em có quyền, nghĩa vụ thương yêu, chăm sóc, giúp đỡ nhau; có quyền, nghĩa vụ nuôi dưỡng nhau trong trường hợp không còn cha mẹ hoặc cha mẹ không có điều kiện trông nom, nuôi dưỡng, chăm sóc, giáo dục con.
 
 Điều 8.4.LQ.106. Quyền, nghĩa vụ của cô, dì, chú, cậu, bác ruột và cháu ruột
 
-**Chỉ mục:** 106
+(Điều 106 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000600010600000000000000000
+Cô, dì, chú, cậu, bác ruột và cháu ruột có quyền, nghĩa vụ thương yêu, chăm sóc, giúp đỡ nhau; có quyền, nghĩa vụ nuôi dưỡng nhau trong trường hợp người cần được nuôi dưỡng không còn cha, mẹ, con và những người được quy định tại Điều 104 và Điều 105 của Luật này hoặc còn nhưng những người này không có điều kiện để thực hiện nghĩa vụ nuôi dưỡng.
 
-**ID:** dk_00010826
+Chương VII
 
----
+CẤP DƯỠNG
 
+(Chương này có nội dung liên quan đến Điều 6.2.LQ.10. Nghĩa vụ và quyền phụng dưỡng người cao tuổi của Luật 39/2009/QH12 Người cao tuổi ban hành ngày 23/11/2009)
 
-### Điều 8.4.LQ.107. Nghĩa vụ cấp dưỡng
+Điều 8.4.LQ.107. Nghĩa vụ cấp dưỡng
 
-*Nội dung chưa có sẵn*
+(Điều 107 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Chỉ mục:** 107
+1. Nghĩa vụ cấp dưỡng được thực hiện giữa cha, mẹ và con; giữa anh, chị, em với nhau; giữa ông bà nội, ông bà ngoại và cháu; giữa cô, dì, chú, cậu, bác ruột và cháu ruột; giữa vợ và chồng theo quy định của Luật này.
 
-**Mã phân cấp:** 0800400000000000700010700000000000000000
+Nghĩa vụ cấp dưỡng không thể thay thế bằng nghĩa vụ khác và không thể chuyển giao cho người khác.
 
-**ID:** dk_00010828
+2. Trong trường hợp người có nghĩa vụ nuôi dưỡng trốn tránh nghĩa vụ thì theo yêu cầu của cá nhân, cơ quan, tổ chức được quy định tại Điều 119 của Luật này, Tòa án buộc người đó phải thực hiện nghĩa vụ cấp dưỡng theo quy định của Luật này.
 
----
-
-
-### Điều 8.4.LQ.108. Một người cấp dưỡng cho nhiều người
+(Điều này có nội dung liên quan đến Điều 152. Tội từ chối hoặc trốn tránh nghĩa vụ cấp dưỡng của Bộ luật 15/1999/QH10 Hình sự ban hành ngày 21/12/1999; Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 9.1.LQ.21. Người chưa thành niên; Điều 9.1.LQ.22. Mất năng lực hành vi dân sự; Điều 9.1.LQ.66. Nghĩa vụ của người quản lý tài sản của người vắng mặt tại nơi cư trú; Điều 9.1.LQ.351. Trách nhiệm dân sự do vi phạm nghĩa vụ; Điều 9.1.LQ.365. Chuyển giao quyền yêu cầu; Điều 9.1.LQ.377. Chấm dứt nghĩa vụ do được thay thế bằng nghĩa vụ khác; Điều 9.1.LQ.379. Những trường hợp không được bù trừ nghĩa vụ; Điều 9.1.LQ.591. Thiệt hại do tính mạng bị xâm phạm; Điều 9.1.LQ.658. Thứ tự ưu tiên thanh toán; Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn)
 
 Điều 8.4.LQ.108. Một người cấp dưỡng cho nhiều người
 
-**Chỉ mục:** 108
+(Điều 108 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700010800000000000000000
-
-**ID:** dk_00010829
-
----
-
-
-### Điều 8.4.LQ.109. Nhiều người cùng cấp dưỡng cho một người hoặc cho nhiều người
+Trong trường hợp một người có nghĩa vụ cấp dưỡng cho nhiều người thì người cấp dưỡng và những người được cấp dưỡng thỏa thuận với nhau về phương thức và mức cấp dưỡng phù hợp với thu nhập, khả năng thực tế của người có nghĩa vụ cấp dưỡng và nhu cầu thiết yếu của những người được cấp dưỡng; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
 
 Điều 8.4.LQ.109. Nhiều người cùng cấp dưỡng cho một người hoặc cho nhiều người
 
-**Chỉ mục:** 109
+(Điều 109 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700010900000000000000000
-
-**ID:** dk_00010830
-
----
-
-
-### Điều 8.4.LQ.110. Nghĩa vụ cấp dưỡng của cha, mẹ đối với con
+Trong trường hợp nhiều người cùng có nghĩa vụ cấp dưỡng cho một người hoặc cho nhiều người thì những người này thỏa thuận với nhau về phương thức và mức đóng góp phù hợp với thu nhập, khả năng thực tế của mỗi người và nhu cầu thiết yếu của người được cấp dưỡng; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
 
 Điều 8.4.LQ.110. Nghĩa vụ cấp dưỡng của cha, mẹ đối với con
 
-**Chỉ mục:** 110
+(Điều 110 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011000000000000000000
+Cha, mẹ có nghĩa vụ cấp dưỡng cho con chưa thành niên, con đã thành niên không có khả năng lao động và không có tài sản để tự nuôi mình trong trường hợp không sống chung với con hoặc sống chung với con nhưng vi phạm nghĩa vụ nuôi dưỡng con.
 
-**ID:** dk_00010831
-
----
-
-
-### Điều 8.4.LQ.111. Nghĩa vụ cấp dưỡng của con đối với cha, mẹ
+(Điều này có nội dung liên quan đến Điều 11. Việc trông nom, chăm sóc, giáo dục, nuôi dưỡng con sau khi ly hôn (Điều 92). của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000)
 
 Điều 8.4.LQ.111. Nghĩa vụ cấp dưỡng của con đối với cha, mẹ
 
-**Chỉ mục:** 111
+(Điều 111 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011100000000000000000
-
-**ID:** dk_00010832
-
----
-
-
-### Điều 8.4.LQ.112. Nghĩa vụ cấp dưỡng giữa anh, chị, em
+Con đã thành niên không sống chung với cha, mẹ có nghĩa vụ cấp dưỡng cho cha, mẹ trong trường hợp cha, mẹ không có khả năng lao động và không có tài sản để tự nuôi mình.
 
 Điều 8.4.LQ.112. Nghĩa vụ cấp dưỡng giữa anh, chị, em
 
-**Chỉ mục:** 112
+(Điều 112 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011200000000000000000
-
-**ID:** dk_00010833
-
----
-
-
-### Điều 8.4.LQ.113. Nghĩa vụ cấp dưỡng giữa ông bà nội, ông bà ngoại và cháu
+Trong trường hợp không còn cha mẹ hoặc cha mẹ không có khả năng lao động và không có tài sản để cấp dưỡng cho con thì anh, chị đã thành niên không sống chung với em có nghĩa vụ cấp dưỡng cho em chưa thành niên không có tài sản để tự nuôi mình hoặc em đã thành niên không có khả năng lao động và không có tài sản để tự nuôi mình; em đã thành niên không sống chung với anh, chị có nghĩa vụ cấp dưỡng cho anh, chị không có khả năng lao động và không có tài sản để tự nuôi mình.
 
 Điều 8.4.LQ.113. Nghĩa vụ cấp dưỡng giữa ông bà nội, ông bà ngoại và cháu
 
-**Chỉ mục:** 113
+(Điều 113 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011300000000000000000
+1. Ông bà nội, ông bà ngoại không sống chung với cháu có nghĩa vụ cấp dưỡng cho cháu trong trường hợp cháu chưa thành niên hoặc cháu đã thành niên không có khả năng lao động, không có tài sản để tự nuôi mình và không có người cấp dưỡng theo quy định tại Điều 112 của Luật này.
 
-**ID:** dk_00010834
-
----
-
-
-### Điều 8.4.LQ.114. Nghĩa vụ cấp dưỡng giữa cô, dì, chú, cậu, bác ruột và cháu ruột
+2. Cháu đã thành niên không sống chung với ông bà nội, ông bà ngoại có nghĩa vụ cấp dưỡng cho ông bà nội, ông bà ngoại trong trường hợp ông bà không có khả năng lao động, không có tài sản để tự nuôi mình và không có người khác cấp dưỡng theo quy định của Luật này.
 
 Điều 8.4.LQ.114. Nghĩa vụ cấp dưỡng giữa cô, dì, chú, cậu, bác ruột và cháu ruột
 
-**Chỉ mục:** 114
+(Điều 114 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011400000000000000000
+1. Cô, dì, chú, cậu, bác ruột không sống chung với cháu ruột có nghĩa vụ cấp dưỡng cho cháu trong trường hợp cháu chưa thành niên hoặc cháu đã thành niên không có khả năng lao động và không có tài sản để tự nuôi mình mà không có người khác cấp dưỡng theo quy định của Luật này.
 
-**ID:** dk_00010835
-
----
-
-
-### Điều 8.4.LQ.115. Nghĩa vụ cấp dưỡng giữa vợ và chồng khi ly hôn
+2. Cháu đã thành niên không sống chung với cô, dì, chú, cậu, bác ruột có nghĩa vụ cấp dưỡng cho cô, dì, chú, cậu, bác ruột trong trường hợp người cần được cấp dưỡng không có khả năng lao động và không có tài sản để tự nuôi mình mà không có người khác cấp dưỡng theo quy định của Luật này.
 
 Điều 8.4.LQ.115. Nghĩa vụ cấp dưỡng giữa vợ và chồng khi ly hôn
 
-**Chỉ mục:** 115
+(Điều 115 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011500000000000000000
+Khi ly hôn nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng mà có lý do chính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình.
 
-**ID:** dk_00010836
+Điều 8.4.LQ.116. Mức cấp dưỡng
 
----
+(Điều 116 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Mức cấp dưỡng do người có nghĩa vụ cấp dưỡng và người được cấp dưỡng hoặc người giám hộ của người đó thỏa thuận căn cứ vào thu nhập, khả năng thực tế của người có nghĩa vụ cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
 
-### Điều 8.4.LQ.116. Mức cấp dưỡng
+2. Khi có lý do chính đáng, mức cấp dưỡng có thể thay đổi. Việc thay đổi mức cấp dưỡng do các bên thỏa thuận; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
 
-*Nội dung chưa có sẵn*
+Điều 8.4.LQ.117. Phương thức cấp dưỡng
 
-**Chỉ mục:** 116
+(Điều 117 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011600000000000000000
+Việc cấp dưỡng có thể được thực hiện định kỳ hàng tháng, hàng quý, nửa năm, hàng năm hoặc một lần.
 
-**ID:** dk_00010837
+Các bên có thể thỏa thuận thay đổi phương thức cấp dưỡng, tạm ngừng cấp dưỡng trong trường hợp người có nghĩa vụ cấp dưỡng lâm vào tình trạng khó khăn về kinh tế mà không có khả năng thực hiện nghĩa vụ cấp dưỡng; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
 
----
+Điều 8.4.LQ.118. Chấm dứt nghĩa vụ cấp dưỡng
 
+(Điều 118 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.117. Phương thức cấp dưỡng
+Nghĩa vụ cấp dưỡng chấm dứt trong các trường hợp sau đây:
 
-*Nội dung chưa có sẵn*
+1. Người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình;
 
-**Chỉ mục:** 117
+2. Người được cấp dưỡng được nhận làm con nuôi;
 
-**Mã phân cấp:** 0800400000000000700011700000000000000000
+3. Người cấp dưỡng đã trực tiếp nuôi dưỡng người được cấp dưỡng;
 
-**ID:** dk_00010838
+4. Người cấp dưỡng hoặc người được cấp dưỡng chết;
 
----
+5. Bên được cấp dưỡng sau khi ly hôn đã kết hôn;
 
-
-### Điều 8.4.LQ.118. Chấm dứt nghĩa vụ cấp dưỡng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 118
-
-**Mã phân cấp:** 0800400000000000700011800000000000000000
-
-**ID:** dk_00010839
-
----
-
-
-### Điều 8.4.LQ.119. Người có quyền yêu cầu thực hiện nghĩa vụ cấp dưỡng
+6. Trường hợp khác theo quy định của luật.
 
 Điều 8.4.LQ.119. Người có quyền yêu cầu thực hiện nghĩa vụ cấp dưỡng
 
-**Chỉ mục:** 119
+(Điều 119 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700011900000000000000000
+1. Người được cấp dưỡng, cha, mẹ hoặc người giám hộ của người đó, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án buộc người không tự nguyện thực hiện nghĩa vụ cấp dưỡng phải thực hiện nghĩa vụ đó.
 
-**ID:** dk_00010840
+2. Cá nhân, cơ quan, tổ chức sau đây, theo quy định của pháp luật về tố tụng dân sự, có quyền yêu cầu Tòa án buộc người không tự nguyện thực hiện nghĩa vụ cấp dưỡng phải thực hiện nghĩa vụ đó:
 
----
+a) Người thân thích;
 
+b) Cơ quan quản lý nhà nước về gia đình;
 
-### Điều 8.4.LQ.120. Khuyến khích việc trợ giúp của tổ chức, cá nhân
+c) Cơ quan quản lý nhà nước về trẻ em;
+
+d) Hội liên hiệp phụ nữ.
+
+3. Cá nhân, cơ quan, tổ chức khác khi phát hiện hành vi trốn tránh thực hiện nghĩa vụ cấp dưỡng có quyền đề nghị cơ quan, tổ chức quy định tại các điểm b, c và d khoản 2 Điều này yêu cầu Tòa án buộc người không tự nguyện thực hiện nghĩa vụ cấp dưỡng phải thực hiện nghĩa vụ đó.
+
+(Điều này có nội dung liên quan đến Điều 33.3.NQ.1.11. Không phải nộp tiền tạm ứng án phí, tạm ứng lệ phí Tòa án; không phải chịu án phí, lệ phí Tòa án)
 
 Điều 8.4.LQ.120. Khuyến khích việc trợ giúp của tổ chức, cá nhân
 
-**Chỉ mục:** 120
+(Điều 120 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000700012000000000000000000
+Nhà nước và xã hội khuyến khích tổ chức, cá nhân trợ giúp bằng tiền hoặc tài sản khác cho gia đình, cá nhân có hoàn cảnh đặc biệt khó khăn, túng thiếu.
 
-**ID:** dk_00010841
+(Điều này có nội dung liên quan đến Điều 50. Hoạt động dịch vụ của cơ sở trợ giúp trẻ em; Điều 51. Trẻ em mồ côi không nơi nương tựa, trẻ em bị bỏ rơi; Điều 52. Trẻ em khuyết tật, tàn tật, trẻ em là nạn nhân của chất độc hoá học; Điều 53. Trẻ em nhiễm HIV/AIDS; Điều 54. Trẻ em phải làm việc nặng nhọc, nguy hiểm, tiếp xúc với chất độc hại, trẻ em phải làm việc xa gia 
 
----
+đình; Điều 55. Trẻ em lang thang; Điều 57. Trẻ em nghiện ma túy của Luật 25/2004/QH11 Bảo vệ, chăm sóc và giáo dục trẻ em ban hành ngày 15/06/2004)Chương VIII
 
-
-### Điều 8.4.LQ.121. Bảo vệ quyền, lợi ích hợp pháp của các bên trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài
+QUAN HỆ HÔN NHÂN VÀ GIA ĐÌNH CÓ YẾU TỐ NƯỚC NGOÀI
 
 Điều 8.4.LQ.121. Bảo vệ quyền, lợi ích hợp pháp của các bên trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài
 
-**Chỉ mục:** 121
+(Điều 121 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012100000000000000000
+1. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, quan hệ hôn nhân và gia đình có yếu tố nước ngoài được tôn trọng và bảo vệ phù hợp với các quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**ID:** dk_00010843
+2. Trong quan hệ hôn nhân và gia đình với công dân Việt Nam, người nước ngoài tại Việt Nam có các quyền, nghĩa vụ như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.
 
----
+3. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bảo hộ quyền, lợi ích hợp pháp của công dân Việt Nam ở nước ngoài trong quan hệ hôn nhân và gia đình phù hợp với pháp luật Việt Nam, pháp luật của nước sở tại, pháp luật và tập quán quốc tế.
 
-
-### Điều 8.4.LQ.122. Áp dụng pháp luật đối với quan hệ hôn nhân và gia đình có yếu tố nước ngoài
+4. Chính phủ quy định chi tiết việc giải quyết quan hệ hôn nhân và gia đình có yếu tố nước ngoài nhằm bảo đảm quyền, lợi ích hợp pháp của các bên và bảo đảm thực hiện quy định tại khoản 2 Điều 5 của Luật này.
 
 Điều 8.4.LQ.122. Áp dụng pháp luật đối với quan hệ hôn nhân và gia đình có yếu tố nước ngoài
 
-**Chỉ mục:** 122
+(Điều 122 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012200000000000000000
+1. Các quy định của pháp luật về hôn nhân và gia đình của nước Cộng hòa xã hội chủ nghĩa Việt Nam được áp dụng đối với quan hệ hôn nhân và gia đình có yếu tố nước ngoài, trừ trường hợp Luật này có quy định khác.
 
-**ID:** dk_00010844
+Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.
 
----
+2. Trong trường hợp Luật này, các văn bản pháp luật khác của Việt Nam có dẫn chiếu về việc áp dụng pháp luật nước ngoài thì pháp luật nước ngoài được áp dụng, nếu việc áp dụng đó không trái với các nguyên tắc cơ bản được quy định tại Điều 2 của Luật này.
 
+Trong trường hợp pháp luật nước ngoài dẫn chiếu trở lại pháp luật Việt Nam thì áp dụng pháp luật về hôn nhân và gia đình Việt Nam.
 
-### Điều 8.4.NĐ.2.51. Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
+3. Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có dẫn chiếu về việc áp dụng pháp luật nước ngoài thì pháp luật nước ngoài được áp dụng.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.664. Xác định pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài; Điều 9.1.LQ.665. Áp dụng điều ước quốc tế đối với quan hệ dân sự có yếu tố nước ngoài; Điều 9.1.LQ.666. Áp dụng tập quán quốc tế; Điều 9.1.LQ.667. Áp dụng pháp luật nước ngoài; Điều 9.1.LQ.668. Phạm vi pháp luật được dẫn chiếu đến; Điều 9.1.LQ.669. Áp dụng pháp luật của nước có nhiều hệ thống pháp luật; Điều 9.1.LQ.670. Trường hợp không áp dụng pháp luật nước ngoài; Điều 9.1.LQ.671. Thời hiệu; Điều 9.1.LQ.672. Căn cứ xác định pháp luật áp dụng đối với người không quốc tịch, người có nhiều quốc tịch; Điều 9.1.LQ.673. Năng lực pháp luật dân sự của cá nhân; Điều 9.1.LQ.674. Năng lực hành vi dân sự của cá nhân)
 
 Điều 8.4.NĐ.2.51. Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
 
-**Chỉ mục:** 51
+(Điều 51 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005100
-
-**ID:** dk_00010845
-
----
-
-
-### Điều 8.4.NĐ.2.52. Nguyên tắc hoạt động tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
+Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài (sau đây gọi là Trung tâm) là đơn vị sự nghiệp thuộc Trung ương Hội Liên hiệp Phụ nữ Việt Nam hoặc Hội Liên hiệp phụ nữ tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là Hội Liên hiệp phụ nữ).
 
 Điều 8.4.NĐ.2.52. Nguyên tắc hoạt động tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
 
-**Chỉ mục:** 52
+(Điều 52 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005200
+1. Hoạt động của Trung tâm phải bảo đảm nguyên tắc phi lợi nhuận, góp phần làm lành mạnh hóa quan hệ hôn nhân và gia đình có yếu tố nước ngoài, phù hợp với nguyên tắc cơ bản của chế độ hôn nhân và gia đình Việt Nam, thuần phong mỹ tục của dân tộc.
 
-**ID:** dk_00010846
+2. Các bên kết hôn có quyền được tư vấn, hỗ trợ về hôn nhân và gia đình có yếu tố nước ngoài. Việc tư vấn, hỗ trợ không phụ thuộc vào quốc tịch, nơi cư trú của người có yêu cầu.
 
----
+3. Nghiêm cấm lợi dụng việc tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài nhằm mua bán người, bóc lột sức lao động, xâm phạm tình dục hoặc vì mục đích trục lợi khác.
 
+Điều 8.4.NĐ.2.53. Điều kiện thành lập Trung tâm
 
-### Điều 8.4.NĐ.2.53. Điều kiện thành lập Trung tâm
+(Điều 53 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-*Nội dung chưa có sẵn*
+Hội Liên hiệp phụ nữ quyết định thành lập Trung tâm khi có đủ các điều kiện sau đây:
 
-**Chỉ mục:** 53
+1. Có quy chế hoạt động bảo đảm nguyên tắc quy định tại Điều 52 của Nghị định này được Hội Liên hiệp phụ nữ phê duyệt;
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005300
+2. Có địa điểm, trang thiết bị, nhân lực cần thiết bảo đảm hoạt động của Trung tâm;
 
-**ID:** dk_00010847
-
----
-
-
-### Điều 8.4.NĐ.2.54. Thủ tục đăng ký hoạt động của Trung tâm, cấp lại giấy đăng ký hoạt động của Trung tâm
+3. Người dự kiến đứng đầu Trung tâm là người không có tiền án.
 
 Điều 8.4.NĐ.2.54. Thủ tục đăng ký hoạt động của Trung tâm, cấp lại giấy đăng ký hoạt động của Trung tâm
 
-**Chỉ mục:** 54
+(Điều 54 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005400
+1. Sau khi có quyết định thành lập, Trung tâm phải đăng ký hoạt động tại Sở Tư pháp, nơi đặt trụ sở của Trung tâm.
 
-**ID:** dk_00010848
+2. Hồ sơ đăng ký hoạt động của Trung tâm được lập thành 01 bộ, gồm các giấy tờ sau đây:
 
----
+a) Tờ khai đăng ký hoạt động theo mẫu quy định;
 
+b) Bản sao Quyết định thành lập Trung tâm;
 
-### Điều 8.4.NĐ.2.55. Quyền hạn, nghĩa vụ của Trung tâm
+c) Giấy tờ chứng minh địa điểm đặt trụ sở của Trung tâm;
+
+d) Phiếu lý lịch tư pháp của người dự kiến đứng đầu Trung tâm được cấp chưa quá 03 tháng, tính đến ngày nhận hồ sơ;
+
+đ) Bản sao quy chế hoạt động quy định tại Khoản 1 Điều 53 của Nghị định này.
+
+3. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp cấp giấy đăng ký hoạt động theo mẫu quy định cho Trung tâm. Trường hợp từ chối cấp giấy đăng ký hoạt động thì Sở Tư pháp thông báo bằng văn bản cho Trung tâm, trong đó nêu rõ lý do từ chối.
+
+4. Trường hợp giấy đăng ký hoạt động của Trung tâm bị mất hoặc hư hỏng không sử dụng được thì được cấp lại giấy đăng ký hoạt động.
 
 Điều 8.4.NĐ.2.55. Quyền hạn, nghĩa vụ của Trung tâm
 
-**Chỉ mục:** 55
+(Điều 55 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005500
+1. Trung tâm có quyền hạn sau đây:
 
-**ID:** dk_00010849
+a) Tư vấn những vấn đề liên quan đến hôn nhân và gia đình có yếu tố nước ngoài cho công dân Việt Nam theo hướng dẫn của Hội Liên hiệp Phụ nữ;
 
----
+b) Tư vấn, bồi dưỡng cho công dân Việt Nam về ngôn ngữ, văn hóa, phong tục tập quán, pháp luật về hôn nhân và gia đình, về nhập cư của nước mà người yêu cầu dự định kết hôn với công dân nước đó;
 
+c) Tư vấn, giúp đỡ người nước ngoài tìm hiểu về ngôn ngữ, văn hóa, phong tục tập quán, pháp luật về hôn nhân và gia đình của Việt Nam;
 
-### Điều 8.4.NĐ.2.56. Thay đổi nội dung giấy đăng ký hoạt động của Trung tâm
+d) Giúp đỡ các bên kết hôn tìm hiểu về hoàn cảnh cá nhân, gia đình của mỗi bên và các vấn đề khác liên quan mà các bên yêu cầu;
+
+đ) Cấp giấy xác nhận cho công dân Việt Nam sau khi đã được tư vấn, bồi dưỡng theo quy định tại Điểm a và Điểm b Khoản 1 Điều này, nếu có yêu cầu;
+
+e) Giúp đỡ các bên kết hôn hoàn tất hồ sơ đăng ký kết hôn theo quy định của pháp luật, nếu có yêu cầu;
+
+g) Trường hợp công dân Việt Nam hoặc người nước ngoài có nhu cầu giới thiệu người nước ngoài hoặc công dân Việt Nam để kết hôn thì Trung tâm thực hiện giới thiệu;
+
+h) Hoạt động hợp tác với tổ chức tư vấn, hỗ trợ hôn nhân của nước ngoài được thành lập theo quy định của pháp luật nước đó để giải quyết những vấn đề liên quan đến hôn nhân và gia đình giữa công dân Việt Nam với người nước ngoài;
+
+i) Được nhận thù lao để trang trải chi phí hoạt động và được thanh toán chi phí thực tế hợp lý khác theo quy định của pháp luật, bảo đảm nguyên tắc phi lợi nhuận;
+
+k) Được thay đổi nội dung giấy đăng ký hoạt động theo quy định tại Điều 56 của Nghị định này.
+
+2. Trung tâm có các nghĩa vụ sau đây:
+
+a) Thực hiện hoạt động theo đúng nội dung ghi trong giấy đăng ký hoạt động;
+
+b) Tư vấn, hỗ trợ cho mọi đối tượng có yêu cầu, không phụ thuộc vào quốc tịch, nơi cư trú của người có yêu cầu; cấp giấy xác nhận của Trung tâm sau khi thực hiện tư vấn, hỗ trợ cho người có yêu cầu;
+
+c) Công bố công khai mức thù lao theo quy định;
+
+d) Giữ bí mật các thông tin, tư liệu về đời sống riêng tư, bí mật cá nhân, bí mật gia đình của các bên theo quy định của pháp luật;
+
+đ) Báo cáo định kỳ 06 tháng và hàng năm về hoạt động của Trung tâm, báo cáo quyết toán tình hình thu, chi tài chính liên quan đến hoạt động tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài cho Hội Liên hiệp phụ nữ và Sở Tư pháp nơi đăng ký hoạt động; báo cáo đột xuất, cung cấp tài liệu hoặc giải thích về những vấn đề liên quan đến hoạt động của Trung tâm khi có yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+e) Chịu sự kiểm tra, quản lý của Hội Liên hiệp phụ nữ;
+
+g) Chịu sự thanh tra, kiểm tra của Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Bộ Tư pháp, Sở Tư pháp nơi đăng ký hoạt động và cơ quan có thẩm quyền khác theo quy định của pháp luật;
+
+h) Các nghĩa vụ khác theo quy định của pháp luật.
 
 Điều 8.4.NĐ.2.56. Thay đổi nội dung giấy đăng ký hoạt động của Trung tâm
 
-**Chỉ mục:** 56
+(Điều 56 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005600
+1. Trung tâm muốn thay đổi về tên gọi, địa điểm đặt trụ sở thì phải có văn bản đề nghị ghi chú thay đổi, kèm theo giấy đăng ký hoạt động gửi Sở Tư pháp, nơi đăng ký hoạt động.
 
-**ID:** dk_00010850
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản đề nghị ghi chú thay đổi, Sở Tư pháp xác nhận nội dung thay đổi vào giấy đăng ký hoạt động của Trung tâm.
 
----
+2. Trường hợp muốn thay đổi người đứng đầu Trung tâm hoặc thay đổi nội dung hoạt động của Trung tâm, Hội Liên hiệp phụ nữ phải có văn bản gửi Sở Tư pháp, nơi đăng ký hoạt động của Trung tâm, trong đó nêu rõ mục đích, nội dung, lý do thay đổi, kèm theo giấy đăng ký hoạt động của Trung tâm. Nếu thay đổi người đứng đầu Trung tâm thì còn phải có Phiếu lý lịch tư pháp của người dự kiến thay thế được cấp chưa quá 03 tháng tính đến ngày nhận hồ sơ.
 
+Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xác nhận nội dung thay đổi vào giấy đăng ký hoạt động. Trường hợp từ chối thì Sở Tư pháp thông báo bằng văn bản cho Hội Liên hiệp phụ nữ và nêu rõ lý do.
 
-### Điều 8.4.NĐ.2.57. Chấm dứt hoạt động của Trung tâm
+Điều 8.4.NĐ.2.57. Chấm dứt hoạt động của Trung tâm
 
-*Nội dung chưa có sẵn*
+(Điều 57 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Chỉ mục:** 57
+1. Trung tâm chấm dứt hoạt động trong các trường hợp sau đây:
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005700
+a) Hội Liên hiệp phụ nữ quyết định giải thể Trung tâm;
 
-**ID:** dk_00010851
+b) Trung tâm bị tước quyền sử dụng giấy đăng ký hoạt động theo quyết định của cơ quan nhà nước có thẩm quyền.
 
----
+2. Trong trường hợp chấm dứt hoạt động theo quy định tại Điểm a Khoản 1 Điều này, Hội Liên hiệp phụ nữ phải có văn bản thông báo về việc chấm dứt hoạt động của Trung tâm gửi Sở Tư pháp, nơi Trung tâm đăng ký hoạt động, chậm nhất 30 ngày trước ngày chấm dứt hoạt động của Trung tâm. Trung tâm phải nộp lại giấy đăng ký hoạt động cho Sở Tư pháp, nơi đã đăng ký hoạt động.
 
+3. Trong trường hợp chấm dứt hoạt động theo quy định tại Điểm b Khoản 1 Điều này, Sở Tư pháp hoặc cơ quan có thẩm quyền khác gửi Hội Liên hiệp phụ nữ quyết định tước quyền sử dụng giấy đăng ký hoạt động chậm nhất 30 ngày trước ngày Trung tâm bị buộc chấm dứt hoạt động.
 
-### Điều 8.4.NĐ.2.58. Nhiệm vụ, quyền hạn của Bộ Tư pháp
+4. Trước ngày chấm dứt hoạt động, Trung tâm có trách nhiệm thanh toán các khoản nợ (nếu có) với tổ chức, cá nhân có liên quan và giải quyết các vấn đề có liên quan đến việc chấm dứt hoạt động; báo cáo bằng văn bản gửi Hội Liên hiệp phụ nữ và Sở Tư pháp, nơi đăng ký hoạt động.
 
 Điều 8.4.NĐ.2.58. Nhiệm vụ, quyền hạn của Bộ Tư pháp
 
-**Chỉ mục:** 58
+(Điều 58 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005800
+Bộ Tư pháp chịu trách nhiệm trước Chính phủ thống nhất quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài trong phạm vi toàn quốc, có nhiệm vụ và quyền hạn sau đây:
 
-**ID:** dk_00010852
+1. Xây dựng, trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về hôn nhân và gia đình có yếu tố nước ngoài;
 
----
+2. Hướng dẫn Ủy ban nhân dân cấp tỉnh và phối hợp với Bộ Ngoại giao chỉ đạo, hướng dẫn Cơ quan đại diện trong việc thi hành pháp luật về hôn nhân và gia đình có yếu tố nước ngoài; phổ biến, giáo dục pháp luật và giải quyết các việc về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật;
 
+3. Ban hành thống nhất sổ và biểu mẫu đăng ký các việc hộ tịch theo quy định của Nghị định này;
 
-### Điều 8.4.NĐ.2.59. Nhiệm vụ, quyền hạn của Bộ Ngoại giao
+4. Thanh tra, kiểm tra việc thực hiện pháp luật về hôn nhân và gia đình có yếu tố nước ngoài; giải quyết khiếu nại, tố cáo theo quy định của pháp luật; xử lý vi phạm hành chính về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật;
+
+5. Thực hiện thống kê số liệu về đăng ký kết hôn; nhận cha, mẹ, con; cấp giấy xác nhận tình trạng hôn nhân; ghi vào sổ việc kết hôn, nhận cha, mẹ, con; ghi vào sổ hộ tịch việc ly hôn, hủy kết hôn trái pháp luật theo quy định của Nghị định này;
+
+6. Thực hiện hợp tác quốc tế trong lĩnh vực hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật.
 
 Điều 8.4.NĐ.2.59. Nhiệm vụ, quyền hạn của Bộ Ngoại giao
 
-**Chỉ mục:** 59
+(Điều 59 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260005900
+Bộ Ngoại giao thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật, có nhiệm vụ và quyền hạn sau đây:
 
-**ID:** dk_00010853
+1. Chỉ đạo Cơ quan đại diện trong việc thi hành pháp luật về hôn nhân và gia đình có yếu tố nước ngoài, về nghiệp vụ đăng ký hộ tịch; thực hiện các biện pháp bảo vệ quyền và lợi ích hợp pháp của công dân Việt Nam ở nước ngoài trong quan hệ hôn nhân và gia đình phù hợp với pháp luật của nước tiếp nhận và điều ước quốc tế mà Việt Nam là thành viên;
 
----
+2. Chỉ đạo Cơ quan đại diện thực hiện thống kê số liệu, báo cáo định kỳ hàng năm về: Tình hình đăng ký kết hôn; nhận cha, mẹ, con; ghi vào sổ việc kết hôn, nhận cha, mẹ, con thuộc thẩm quyền giải quyết của Cơ quan đại diện theo quy định của Nghị định này.
 
+Tổng hợp số liệu thống kê và báo cáo định kỳ hàng năm về: Tình hình đăng ký kết hôn, nhận cha, mẹ, con; ghi vào sổ việc kết hôn, nhận cha, mẹ, con thuộc thẩm quyền giải quyết của Cơ quan đại diện gửi Bộ Tư pháp;
 
-### Điều 8.4.NĐ.2.61. Nhiệm vụ, quyền hạn của Bộ Công an
+3. Cập nhật, cung cấp những thông tin cơ bản về pháp luật, văn hóa, phong tục, tập quán của các nước sở tại để làm cơ sở định hướng công tác truyền thông, tư vấn trong nước;
+
+4. Thanh tra, kiểm tra việc thực hiện pháp luật về hôn nhân và gia đình có yếu tố nước ngoài tại Cơ quan đại diện; giải quyết khiếu nại, tố cáo theo quy định của pháp luật; xử lý vi phạm hành chính về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật;
+
+5. Giải quyết theo thẩm quyền những vấn đề đối ngoại phát sinh trong quá trình thực hiện các điều ước quốc tế về hôn nhân và gia đình mà Việt Nam là thành viên;
+
+6. Cấp bản sao Giấy chứng nhận kết hôn, Quyết định công nhận việc nhận cha, mẹ, con theo quy định của pháp luật;
+
+7. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.67. Trách nhiệm của Bộ Ngoại giao)
 
 Điều 8.4.NĐ.2.61. Nhiệm vụ, quyền hạn của Bộ Công an
 
-**Chỉ mục:** 61
+(Điều 61 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260006100
+Bộ Công an thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật, có nhiệm vụ và quyền hạn sau đây:
 
-**ID:** dk_00010854
+1. Chỉ đạo, hướng dẫn Công an tỉnh, thành phố trực thuộc Trung ương chủ trì, phối hợp với Sở Tư pháp xác minh theo chức năng chuyên ngành các vấn đề được yêu cầu trong hồ sơ đăng ký kết hôn theo quy định của Nghị định này; cấp Hộ chiếu kịp thời và tạo điều kiện thuận lợi cho công dân Việt Nam đã được đăng ký kết hôn, công nhận là cha, mẹ, con xuất cảnh khi có yêu cầu;
 
----
+2. Chỉ đạo và thực hiện các biện pháp phòng ngừa, đấu tranh chống các hoạt động môi giới kết hôn nhằm mục đích kiếm lời, các hành vi lợi dụng việc kết hôn, nhận cha, mẹ, con nhằm mục đích trục lợi, mua bán người, bóc lột sức lao động, xâm phạm tình dục và các hành vi khác vi phạm pháp luật về hôn nhân và gia đình có yếu tố nước ngoài;
 
+3. Thanh tra, kiểm tra việc thực hiện pháp luật về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật;
 
-### Điều 8.4.NĐ.2.62. Nhiệm vụ của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+4. Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.68. Trách nhiệm của Bộ Công an)
 
 Điều 8.4.NĐ.2.62. Nhiệm vụ của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
 
-**Chỉ mục:** 62
+(Điều 62 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260006200
-
-**ID:** dk_00010855
-
----
-
-
-### Điều 8.4.NĐ.2.63. Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp tỉnh
+Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Tư pháp trong việc thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài.
 
 Điều 8.4.NĐ.2.63. Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 63
+(Điều 63 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015, có nội dung được sửa đổi bởi Điều 45 Nghị định số 123/2015/NĐ-CP có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260006300
+1. Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài trên địa bàn, có nhiệm vụ và quyền hạn sau đây:
 
-**ID:** dk_00010856
+a) Thực hiện đăng ký việc kết hôn có yếu tố nước ngoài theo quy định của Nghị định này;
 
----
+b) Phổ biến, giáo dục pháp luật về hôn nhân và gia đình có yếu tố nước ngoài;
 
+c) Thực hiện việc thống kê số liệu, báo cáo Bộ Tư pháp theo định kỳ 06 tháng và hàng năm về: Tình hình đăng ký kết hôn, nhận cha, mẹ, con; ghi vào sổ việc kết hôn, nhận cha, mẹ, con theo quy định của Nghị định này; tình hình thực hiện pháp luật về hôn nhân và gia đình có yếu tố nước ngoài ở địa phương;
 
-### Điều 8.4.NĐ.2.64. Trách nhiệm của Trung ương Hội Liên hiệp Phụ nữ Việt Nam trong lĩnh vực hôn nhân và gia đình có yếu tố nước ngoài
+d) Bảo đảm những điều kiện cần thiết để Hội Liên hiệp phụ nữ tỉnh, thành phố trực thuộc Trung ương thành lập Trung tâm; tạo điều kiện để Trung tâm hoạt động có hiệu quả; quản lý hoạt động của các Trung tâm trên địa bàn;
+
+đ) Thanh tra, kiểm tra việc thực hiện pháp luật về hôn nhân và gia đình có yếu tố nước ngoài trên địa bàn; giải quyết khiếu nại, tố cáo và xử lý vi phạm hành chính về hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật;
+
+e) Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+2. Sở Tư pháp giúp Ủy ban nhân dân cấp tỉnh trong việc thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài tại địa phương, thực hiện nhiệm vụ và quyền hạn cụ thể theo quy định của Nghị định này
+
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.69. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương)
 
 Điều 8.4.NĐ.2.64. Trách nhiệm của Trung ương Hội Liên hiệp Phụ nữ Việt Nam trong lĩnh vực hôn nhân và gia đình có yếu tố nước ngoài
 
-**Chỉ mục:** 64
+(Điều 64 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001220000000000000000000402532201260006400
+1. Trung ương Hội Liên hiệp Phụ nữ Việt Nam phối hợp với Bộ Tư pháp, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh thực hiện các hoạt động trong lĩnh vực hôn nhân và gia đình có yếu tố nước ngoài theo quy định của pháp luật.
 
-**ID:** dk_00010857
+2. Trung ương Hội Liên hiệp Phụ nữ Việt Nam có trách nhiệm sau đây:
 
----
+a) Thành lập Trung tâm theo quy định của Nghị định này và thực hiện quản lý hoạt động của Trung tâm;
 
+b) Chỉ đạo, hướng dẫn Hội Liên hiệp phụ nữ tỉnh, thành phố trực thuộc Trung ương thành lập Trung tâm và thực hiện quản lý hoạt động của Trung tâm;
 
-### Điều 8.4.LQ.123. Thẩm quyền giải quyết các vụ việc hôn nhân và gia đình có yếu tố nước ngoài
+c) Chỉ đạo, hướng dẫn về tổ chức và hoạt động của Trung tâm;
+
+d) Phối hợp với Bộ Tư pháp kiểm tra, thanh tra về tổ chức và hoạt động của Trung tâm.
 
 Điều 8.4.LQ.123. Thẩm quyền giải quyết các vụ việc hôn nhân và gia đình có yếu tố nước ngoài
 
-**Chỉ mục:** 123
+(Điều 123 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012300000000000000000
+1. Thẩm quyền đăng ký hộ tịch liên quan đến các quan hệ hôn nhân và gia đình có yếu tố nước ngoài được thực hiện theo quy định của pháp luật về hộ tịch.
 
-**ID:** dk_00010858
+2. Thẩm quyền giải quyết các vụ việc hôn nhân và gia đình có yếu tố nước ngoài tại Tòa án được thực hiện theo quy định của Bộ luật tố tụng dân sự.
 
----
+3. Tòa án nhân dân cấp huyện nơi cư trú của công dân Việt Nam hủy việc kết hôn trái pháp luật, giải quyết việc ly hôn, các tranh chấp về quyền và nghĩa vụ của vợ chồng, cha mẹ và con, về nhận cha, mẹ, con, nuôi con nuôi và giám hộ giữa công dân Việt Nam cư trú ở khu vực biên giới với công dân của nước láng giềng cùng cư trú ở khu vực biên giới với Việt Nam theo quy định của Luật này và các quy định khác của pháp luật Việt Nam.
 
-
-### Điều 8.4.LQ.124. Hợp pháp hoá lãnh sự giấy tờ, tài liệu về hôn nhân và gia đình
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.664. Xác định pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài; Điều 9.1.LQ.665. Áp dụng điều ước quốc tế đối với quan hệ dân sự có yếu tố nước ngoài; Điều 9.1.LQ.666. Áp dụng tập quán quốc tế; Điều 9.1.LQ.667. Áp dụng pháp luật nước ngoài; Điều 9.1.LQ.668. Phạm vi pháp luật được dẫn chiếu đến; Điều 9.1.LQ.669. Áp dụng pháp luật của nước có nhiều hệ thống pháp luật; Điều 9.1.LQ.670. Trường hợp không áp dụng pháp luật nước ngoài; Điều 9.1.LQ.671. Thời hiệu; Điều 9.1.LQ.672. Căn cứ xác định pháp luật áp dụng đối với người không quốc tịch, người có nhiều quốc tịch; Điều 9.1.LQ.673. Năng lực pháp luật dân sự của cá nhân; Điều 19. Thẩm quyền đăng ký kết hôn; Điều 27. Thẩm quyền cấp giấy xác nhận tình trạng hôn nhân; Điều 31. Thẩm quyền đăng ký việc nhận cha, mẹ, con; Điều 42. Thẩm quyền ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài)
 
 Điều 8.4.LQ.124. Hợp pháp hoá lãnh sự giấy tờ, tài liệu về hôn nhân và gia đình
 
-**Chỉ mục:** 124
+(Điều 124 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012400000000000000000
+Giấy tờ do cơ quan có thẩm quyền của nước ngoài lập, cấp hoặc xác nhận để sử dụng giải quyết các vụ việc hôn nhân và gia đình thì phải được hợp pháp hoá lãnh sự, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại.
 
-**ID:** dk_00010859
-
----
-
-
-### Điều 8.4.NĐ.2.60. Nhiệm vụ, quyền hạn của Cơ quan đại diện
+(Điều này có nội dung liên quan đến Điều 27. Thẩm quyền cấp giấy xác nhận tình trạng hôn nhân; Điều 28. Thủ tục cấp giấy xác nhận tình trạng hôn nhân; Điều 29. Từ chối cấp giấy xác nhận tình trạng hôn nhân cho công dân Việt Nam cư trú trong nước để kết hôn với người nước ngoài tại cơ quan có thẩm quyền của nước ngoài; Điều 36. Điều kiện, hình thức công nhận việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài ở nước ngoài; Điều 37. Thẩm quyền ghi vào sổ đăng ký kết hôn việc kết hôn, ghi vào sổ hộ tịch việc nhận cha, mẹ, con của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài; Điều 38. Hồ sơ, trình tự, thủ tục ghi vào sổ việc kết hôn; Điều 39. Từ chối ghi vào sổ việc kết hôn; Điều 40. Hồ sơ, trình tự, thủ tục ghi vào sổ việc nhận cha, mẹ, con; Điều 41. Điều kiện ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 42. Thẩm quyền ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 43. Các trường hợp phải ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 44. Hồ sơ ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 45. Trình tự, thủ tục ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 46. Cách ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 47. Ghi vào sổ hộ tịch việc hủy kết hôn trái pháp luật đã được giải quyết ở nước ngoài; Điều 8.4.NĐ.2.60. Nhiệm vụ, quyền hạn của Cơ quan đại diện)
 
 Điều 8.4.NĐ.2.60. Nhiệm vụ, quyền hạn của Cơ quan đại diện
 
-**Chỉ mục:** 60
+(Điều 60 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Mã phân cấp:** 080040000000000080001240000000000000000000402532201260006000
+1. Cơ quan đại diện thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài, có nhiệm vụ và quyền hạn sau đây:
 
-**ID:** dk_00010860
+a) Thực hiện việc đăng ký kết hôn, nhận cha, mẹ, con; ghi vào sổ việc kết hôn, nhận cha, mẹ, con phù hợp với pháp luật của nước tiếp nhận và điều ước quốc tế mà Việt Nam là thành viên;
 
----
+b) Thực hiện thống kê số liệu, báo cáo Bộ Ngoại giao theo định kỳ 06 tháng và hàng năm về: Tình hình đăng ký kết hôn, nhận cha, mẹ, con; ghi vào sổ việc kết hôn, nhận cha, mẹ, con thuộc thẩm quyền giải quyết của Cơ quan đại diện theo quy định của Nghị định này;
 
+c) Cập nhật những thông tin cơ bản về pháp luật, văn hóa, phong tục, tập quán của nước sở tại, báo cáo Bộ Ngoại giao;
 
-### Điều 8.4.LQ.125. Công nhận, ghi chú bản án, quyết định của Tòa án, cơ quan có thẩm quyền của nước ngoài về hôn nhân và gia đình
+d) Giải quyết khiếu nại, tố cáo và xử lý vi phạm hành chính liên quan đến giải quyết các việc về hộ tịch theo quy định của pháp luật;
+
+đ) Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+2. Viên chức ngoại giao, viên chức lãnh sự làm công tác hộ tịch có trách nhiệm giúp Cơ quan đại diện thực hiện các nhiệm vụ, quyền hạn cụ thể theo quy định tại Khoản 1 Điều này, trừ việc giải quyết tố cáo quy định tại Điểm d Khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.124. Hợp pháp hoá lãnh sự giấy tờ, tài liệu về hôn nhân và gia đình; Điều 15.3.LQ.67. Trách nhiệm của Bộ Ngoại giao)
 
 Điều 8.4.LQ.125. Công nhận, ghi chú bản án, quyết định của Tòa án, cơ quan có thẩm quyền của nước ngoài về hôn nhân và gia đình
 
-**Chỉ mục:** 125
+(Điều 125 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012500000000000000000
+1. Việc công nhận bản án, quyết định về hôn nhân và gia đình của Tòa án nước ngoài có yêu cầu thi hành tại Việt Nam được thực hiện theo quy định của Bộ luật tố tụng dân sự.
 
-**ID:** dk_00010861
+2. Chính phủ quy định việc ghi vào sổ hộ tịch các việc về hôn nhân và gia đình theo bản án, quyết định của Tòa án nước ngoài mà không có yêu cầu thi hành tại Việt Nam hoặc không có đơn yêu cầu không công nhận tại Việt Nam; quyết định về hôn nhân và gia đình của cơ quan khác có thẩm quyền của nước ngoài.
 
----
+(Điều này có nội dung liên quan đến Phần thứ bảy THỦ TỤC CÔNG NHẬN VÀ CHO THI HÀNH TẠI VIỆT NAM HOẶC KHÔNG CÔNG NHẬN BẢN ÁN, QUYẾT ĐỊNH DÂN SỰ CỦA TÒA ÁN NƯỚC NGOÀI; CÔNG NHẬN VÀ CHO THI HÀNH PHÁN QUYẾT CỦA TRỌNG TÀI NƯỚC NGOÀI)
 
+Điều 8.4.LQ.126. Kết hôn có yếu tố nước ngoài
 
-### Điều 8.4.LQ.126. Kết hôn có yếu tố nước ngoài
+(Điều 126 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Trong việc kết hôn giữa công dân Việt Nam với người nước ngoài, mỗi bên phải tuân theo pháp luật của nước mình về điều kiện kết hôn; nếu việc kết hôn được tiến hành tại cơ quan nhà nước có thẩm quyền của Việt Nam thì người nước ngoài còn phải tuân theo các quy định của Luật này về điều kiện kết hôn.
 
-**Chỉ mục:** 126
+2. Việc kết hôn giữa những người nước ngoài thường trú ở Việt Nam tại cơ quan có thẩm quyền của Việt Nam phải tuân theo các quy định của Luật này về điều kiện kết hôn.
 
-**Mã phân cấp:** 0800400000000000800012600000000000000000
+(Điều này có nội dung liên quan đến Điều 19. Thẩm quyền đăng ký kết hôn; Điều 20. Hồ sơ đăng ký kết hôn; Điều 21. Thủ tục nộp, tiếp nhận hồ sơ; Điều 22. Thời hạn giải quyết việc đăng ký kết hôn; Điều 23. Trình tự giải quyết việc đăng ký kết hôn tại Việt Nam; Điều 24. Lễ đăng ký kết hôn tại Việt Nam; Điều 25. Trình tự đăng ký kết hôn tại Cơ quan đại diện; Điều 26. Từ chối đăng ký kết hôn; Điều 49. Trình tự, thủ tục đăng ký kết hôn)
 
-**ID:** dk_00010862
+Điều 8.4.LQ.127. Ly hôn có yếu tố nước ngoài
 
----
+(Điều 127 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
+1. Việc ly hôn giữa công dân Việt Nam với người nước ngoài, giữa người nước ngoài với nhau thường trú ở Việt Nam được giải quyết tại cơ quan có thẩm quyền của Việt Nam theo quy định của Luật này.
 
-### Điều 8.4.LQ.127. Ly hôn có yếu tố nước ngoài
+2. Trong trường hợp bên là công dân Việt Nam không thường trú ở Việt Nam vào thời điểm yêu cầu ly hôn thì việc ly hôn được giải quyết theo pháp luật của nước nơi thường trú chung của vợ chồng; nếu họ không có nơi thường trú chung thì giải quyết theo pháp luật Việt Nam.
 
-*Nội dung chưa có sẵn*
+3. Việc giải quyết tài sản là bất động sản ở nước ngoài khi ly hôn tuân theo pháp luật của nước nơi có bất động sản đó.
 
-**Chỉ mục:** 127
-
-**Mã phân cấp:** 0800400000000000800012700000000000000000
-
-**ID:** dk_00010863
-
----
-
-
-### Điều 8.4.LQ.128. Xác định cha, mẹ, con có yếu tố nước ngoài
+(Điều này có nội dung liên quan đến Điều 41. Điều kiện ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 42. Thẩm quyền ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 43. Các trường hợp phải ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 44. Hồ sơ ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 45. Trình tự, thủ tục ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài; Điều 46. Cách ghi vào sổ hộ tịch việc ly hôn đã được giải quyết ở nước ngoài)
 
 Điều 8.4.LQ.128. Xác định cha, mẹ, con có yếu tố nước ngoài
 
-**Chỉ mục:** 128
+(Điều 128 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012800000000000000000
+1. Cơ quan đăng ký hộ tịch Việt Nam có thẩm quyền giải quyết việc xác định cha, mẹ, con mà không có tranh chấp giữa công dân Việt Nam với người nước ngoài, giữa công dân Việt Nam với nhau mà ít nhất một bên định cư ở nước ngoài, giữa người nước ngoài với nhau mà ít nhất một bên thường trú tại Việt Nam theo quy định của pháp luật về hộ tịch.
 
-**ID:** dk_00010864
+2. Tòa án có thẩm quyền của Việt Nam giải quyết việc xác định cha, mẹ, con có yếu tố nước ngoài đối với trường hợp quy định tại khoản 2 Điều 88, Điều 89, Điều 90, khoản 1, khoản 5 Điều 97, khoản 3, khoản 5 Điều 98 và Điều 99 của Luật này; các trường hợp khác có tranh chấp.
 
----
-
-
-### Điều 8.4.LQ.129. Nghĩa vụ cấp dưỡng có yếu tố nước ngoài
+(Điều này có nội dung liên quan đến Điều 30. Điều kiện nhận cha, mẹ, con)
 
 Điều 8.4.LQ.129. Nghĩa vụ cấp dưỡng có yếu tố nước ngoài
 
-**Chỉ mục:** 129
+(Điều 129 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800012900000000000000000
+1. Nghĩa vụ cấp dưỡng tuân theo pháp luật của nước nơi người yêu cầu cấp dưỡng cư trú. Trường hợp người yêu cầu cấp dưỡng không có nơi cư trú tại Việt Nam thì áp dụng pháp luật của nước nơi người yêu cầu cấp dưỡng là công dân.
 
-**ID:** dk_00010865
+2. Cơ quan có thẩm quyền giải quyết đơn yêu cầu cấp dưỡng của người quy định tại khoản 1 Điều này là cơ quan của nước nơi người yêu cầu cấp dưỡng cư trú.
 
----
-
-
-### Điều 8.4.LQ.130. Áp dụng chế độ tài sản của vợ chồng theo thỏa thuận; giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.35. Thẩm quyền của Tòa án nhân dân cấp huyện; Điều 37.5.LQ.37. Thẩm quyền của Tòa án nhân dân cấp tỉnh; Điều 30. Điều kiện nhận cha, mẹ, con; Điều 31. Thẩm quyền đăng ký việc nhận cha, mẹ, con; Điều 32. Hồ sơ nhận cha, mẹ, con; Điều 33. Thời hạn giải quyết việc nhận cha, mẹ, con; Điều 34. Trình tự giải quyết việc nhận cha, mẹ, con tại Việt Nam của ; Điều 35. Trình tự giải quyết việc nhận cha, mẹ, con tại Cơ quan đại diện; Điều 50. Trình tự, thủ tục đăng ký nhận cha, mẹ, con của của Nghị định 126/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình ban hành ngày 31/12/2014)
 
 Điều 8.4.LQ.130. Áp dụng chế độ tài sản của vợ chồng theo thỏa thuận; giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài
 
-**Chỉ mục:** 130
+(Điều 130 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000800013000000000000000000
+Trong trường hợp có yêu cầu giải quyết việc áp dụng chế độ tài sản của vợ chồng theo thỏa thuận; quan hệ nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài thì cơ quan có thẩm quyền của Việt Nam áp dụng các quy định của Luật này và các luật khác có liên quan của Việt Nam để giải quyết.
 
-**ID:** dk_00010866
+Chương IX
 
----
+ĐIỀU KHOẢN THI HÀNH
 
+Điều 8.4.LQ.131. Điều khoản chuyển tiếp
 
-### Điều 8.4.LQ.131. Điều khoản chuyển tiếp
+(Điều 131 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-*Nội dung chưa có sẵn*
+1. Quan hệ hôn nhân và gia đình được xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật về hôn nhân và gia đình tại thời điểm xác lập để giải quyết.
 
-**Chỉ mục:** 131
+2. Đối với vụ việc về hôn nhân và gia đình do Tòa án thụ lý trước ngày Luật này có hiệu lực mà chưa giải quyết thì áp dụng thủ tục theo quy định của Luật này.
 
-**Mã phân cấp:** 0800400000000000900013100000000000000000
+3. Không áp dụng Luật này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với vụ việc mà Tòa án đã giải quyết theo quy định của pháp luật về hôn nhân và gia đình trước ngày Luật này có hiệu lực.
 
-**ID:** dk_00010868
+(Điều này có nội dung liên quan đến Điều 4. Việc Toà án áp dụng pháp luật về hôn nhân và gia đình để giải quyết các vụ, việc về hôn nhân và gia đình được quy định như sau: của Nghị quyết 35/2000/QH10 Về việc thi hành Luật hôn nhân và gia đình ban hành ngày 09/06/2000)
 
----
+Điều 8.4.LQ.132. Hiệu lực thi hành
 
+(Điều 132 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-### Điều 8.4.LQ.132. Hiệu lực thi hành
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 132
-
-**Mã phân cấp:** 0800400000000000900013200000000000000000
-
-**ID:** dk_00010869
-
----
-
-
-### Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành
+Luật Hôn nhân và gia đình số 22/2000/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
 Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành
 
-**Chỉ mục:** 133
+(Điều 133 Luật số 52/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 
-**Mã phân cấp:** 0800400000000000900013300000000000000000
+Chính phủ quy định chi tiết các điều, khoản được giao trong Luật.
 
-**ID:** dk_00010870
+Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
----
+(Điều này có nội dung liên quan đến Điều 4. Việc Toà án áp dụng pháp luật về hôn nhân và gia đình để giải quyết các vụ, việc về hôn nhân và gia đình được quy định như sau:; Điều 5. của Nghị quyết 35/2000/QH10 Về việc thi hành Luật hôn nhân và gia đình ban hành ngày 09/06/2000; Điều 13. Hiệu lực thi hành của Nghị quyết của Nghị quyết 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000 ban hành ngày 23/12/2000; Điều 8.4.NĐ.2.65. Hiệu lực thi hành; Điều 8.4.NĐ.2.66. Điều khoản chuyển tiếp; Điều 8.4.NĐ.2.67. Trách nhiệm thi hành; Điều 8.4.TL.1.5.; Điều 8.4.TL.1.6.; Điều 8.4.TL.1.8. Hiệu lực thi hành)
 
+Điều 8.4.NĐ.1.26. Hiệu lực thi hành
 
-### Điều 8.4.NĐ.1.26. Hiệu lực thi hành
+(Điều 26 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-*Nội dung chưa có sẵn*
+Nghị định này có hiệu lực thi hành kể từ ngày 18 tháng 02 năm 2013.
 
-**Chỉ mục:** 26
+Điều 8.4.NĐ.1.27. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0800400000000000900013340245950002000260
+(Điều 27 Nghị định số 02/2013/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/02/2013)
 
-**ID:** dk_00010871
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Nghị định này.
 
----
+Điều 8.4.NĐ.2.65. Hiệu lực thi hành
 
+(Điều 65 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-### Điều 8.4.NĐ.1.27. Trách nhiệm thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2015.
 
-*Nội dung chưa có sẵn*
+2. Bãi bỏ Nghị định số 70/2001/NĐ-CP ngày 03 tháng 10 năm 2001 của Chính phủ quy định chi tiết thi hành Luật Hôn nhân và gia đình; Nghị định số 32/2002/NĐ-CP ngày 27 tháng 3 năm 2002 của Chính phủ quy định việc áp dụng Luật Hôn nhân và gia đình đối với các dân tộc thiểu số; Điều 2 Nghị định số 06/2012/NĐ-CP ngày 02 tháng 02 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về hộ tịch, hôn nhân và gia đình và chứng thực; Nghị định số 24/2013/NĐ-CP ngày 28 tháng 3 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Hôn nhân và gia đình về quan hệ hôn nhân và gia đình có yếu tố nước ngoài, trừ các quy định về hợp pháp hóa lãnh sự, chứng thực chữ ký người dịch, chứng thực bản sao giấy tờ, giấy tờ đối với người không quốc tịch, người có nhiều quốc tịch nước ngoài, công dân Việt Nam định cư ở nước ngoài và lệ phí được tiếp tục áp dụng đến khi Nghị định quy định chi tiết thi hành Luật Hộ tịch có hiệu lực.
 
-**Chỉ mục:** 27
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành)
 
-**Mã phân cấp:** 0800400000000000900013340245950002000270
+Điều 8.4.NĐ.2.66. Điều khoản chuyển tiếp
 
-**ID:** dk_00010872
+(Điều 66 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
----
+Hồ sơ yêu cầu đăng ký kết hôn; nhận cha, mẹ, con; cấp Giấy xác nhận tình trạng hôn nhân cho công dân Việt Nam cư trú trong nước để đăng ký kết hôn với người nước ngoài tại cơ quan có thẩm quyền của nước ngoài ở nước ngoài; ghi vào sổ việc kết hôn, nhận cha, mẹ, con đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài ở nước ngoài được cơ quan có thẩm quyền của Việt Nam tiếp nhận trước ngày Nghị định này có hiệu lực thì tiếp tục được giải quyết theo quy định của Nghị định số 24/2013/NĐ-CP ngày 28 tháng 3 năm 2013 quy định chi tiết thi hành một số điều của Luật Hôn nhân và gia đình về quan hệ hôn nhân và gia đình có yếu tố nước ngoài.
 
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành)
 
-### Điều 8.4.NĐ.2.65. Hiệu lực thi hành
+Điều 8.4.NĐ.2.67. Trách nhiệm thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 67 Nghị định số 126/2014/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2015)
 
-**Chỉ mục:** 65
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-**Mã phân cấp:** 0800400000000000900013340253220126000650
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành)
 
-**ID:** dk_00010873
+Điều 8.4.TL.1.5.
 
----
+(Điều 5 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành Nghị quyết số 35/2000/QH10 ngày 9 tháng 6 năm 2000 của Quốc hội “Về việc thi hành Luật Hôn nhân và gia đình” ngày 03/01/2001 của Bộ Tư pháp, Tòa án nhân dân tối cao và Viện kiểm sát nhân dân tối cao, có hiệu lực thi hành kể từ ngày 18/01/2001)
 
+Đối với những vụ, việc đã được Toà án giải quyết theo Luật Hôn nhân và gia đình năm 1986 và bản án, quyết định của Toà án đã có hiệu lực pháp luật, thì không áp dụng Luật Hôn nhân và gia đình năm 2000, Nghị quyết số 35 của Quốc hội và Thông tư này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm.
 
-### Điều 8.4.NĐ.2.66. Điều khoản chuyển tiếp
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành; Điều 15.3.NĐ.1.44. Điều khoản chuyển tiếp)
 
-*Nội dung chưa có sẵn*
+Điều 8.4.TL.1.6.
 
-**Chỉ mục:** 66
+(Điều 6 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 18/01/2001)
 
-**Mã phân cấp:** 0800400000000000900013340253220126000660
+Thông tư này có hiệu lực kể từ ngày 18/1/2001. Trong quá trình thực hiện, nếu có gì vướng mắc hoặc chưa được hướng dẫn, cần phải giải thích hoặc hướng dẫn bổ sung, thì đề nghị phản ánh cho Toà án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao, Bộ Tư pháp để có sự giải thích hoặc hướng dẫn bổ sung kịp thời./.
 
-**ID:** dk_00010874
+ **VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO**
 
----
+ **PHÓ VIỆN TRƯỞNG**
 
+ ***(Đã ký)***
 
-### Điều 8.4.NĐ.2.67. Trách nhiệm thi hành
+ **Nguyễn Thị Tuyết**
 
-*Nội dung chưa có sẵn*
+ **TÒA ÁN NHÂN DÂN TỐI CAO**
 
-**Chỉ mục:** 67
+ **CHÁNH ÁN**
 
-**Mã phân cấp:** 0800400000000000900013340253220126000670
+ ***(Đã ký)***
 
-**ID:** dk_00010875
+ **Trịnh Hồng Dương**
 
----
+ **BỘ TƯ PHÁP**
 
+ **THỨ TRƯỞNG**
 
-### Điều 8.4.TL.1.5.
+ ***(Đã ký)***
 
-*Nội dung chưa có sẵn*
+ **Uông Chu Lưu**
 
-**Chỉ mục:** 5
+ ​
 
-**Mã phân cấp:** 0800400000000000900013380202120001000050
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành)
 
-**ID:** dk_00010876
+Điều 8.4.TT.1.6. Hiệu lực thi hành
 
----
+(Điều 6 Thông tư số 12/2013/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 03/02/2014)
 
+Thông tư này có hiệu lực thi hành từ ngày 03 tháng 02 năm 2014.
 
-### Điều 8.4.TL.1.6.
+Điều 8.4.TT.1.7. Trách nhiệm thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 7 Thông tư số 12/2013/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 03/02/2014)
 
-**Chỉ mục:** 6
+1. Các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.
 
-**Mã phân cấp:** 0800400000000000900013380202120001000060
+2. Vụ Gia đình chịu trách nhiệm theo dõi, kiểm tra và đánh giá việc thực hiện Thông tư này.
 
-**ID:** dk_00010877
+3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về Bộ Văn hóa, Thể thao và Du lịch để kịp thời nghiên cứu, sửa đổi, bổ sung.
 
----
+Điều 8.4.TL.1.8. Hiệu lực thi hành
 
+(Điều 8 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-### Điều 8.4.TT.1.6. Hiệu lực thi hành
+1. Thông tư liên tịch này có hiệu lực kể từ ngày 01 tháng 3 năm 2016.
 
-*Nội dung chưa có sẵn*
+2. Vụ việc hôn nhân và gia đình đã được Tòa án thụ lý trước ngày Thông tư liên tịch này có hiệu lực nhưng kể từ ngày Thông tư liên tịch này có hiệu lực mới xét xử sơ thẩm, phúc thẩm, giám đốc thẩm, tái thẩm thì áp dụng Thông tư liên tịch này để giải quyết.
 
-**Chỉ mục:** 6
+3. Bản án, quyết định của Tòa án đã có hiệu lực pháp luật trước ngày Thông tư liên tịch này có hiệu lực thì không áp dụng hướng dẫn tại Thông tư liên tịch này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm.
 
-**Mã phân cấp:** 0800400000000000900013380249430012000060
-
-**ID:** dk_00010878
-
----
-
-
-### Điều 8.4.TT.1.7. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 0800400000000000900013380249430012000070
-
-**ID:** dk_00010879
-
----
-
-
-### Điều 8.4.TL.1.8. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 0800400000000000900013380256930001000080
-
-**ID:** dk_00010880
-
----
-
-
-### Điều 8.4.TL.1.9. Giải thích, sửa đổi, bổ sung Thông tư liên tịch
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành)
 
 Điều 8.4.TL.1.9. Giải thích, sửa đổi, bổ sung Thông tư liên tịch
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, có hiệu lực thi hành kể từ ngày 01/03/2016)
 
-**Mã phân cấp:** 0800400000000000900013380256930001000090
+Trong quá trình thực hiện, nếu có vướng mắc cần được giải thích hoặc cần sửa đổi, bổ sung Thông tư liên tịch thì Tòa án nhân dân, Viện kiểm sát nhân dân các cấp, cơ quan, tổ chức, cá nhân phản ánh với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Bộ Tư pháp để giải thích, sửa đổi, bổ sung kịp thời./.
 
-**ID:** dk_00010881
+## Danh sách điều khoản
 
----
+### 08004000000000001000
 
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Dân số, gia đình, trẻ em, bình đẳng giới](/dan-so-gia-dinh-tre-em-binh-dang-gioi/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 0800400000000000100000100000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 229
-- **Điều khoản thực tế:** 213
-- **Điều khoản có nội dung:** 151 (70.9%)
-- **ID đề mục:** 4913a1cf5f78471ca807ed5f8c57aaee
+Điều 8.4.LQ.1. Phạm vi điều chỉnh
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 0800400000000000100000140245950002000010
 
----
+Điều 8.4.NĐ.1.1. Phạm vi điều chỉnh
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 0800400000000000100000140245950002000020
+
+Điều 8.4.NĐ.1.2. Đối tượng áp dụng
+
+### 0800400000000000100000140253220126000010
+
+Điều 8.4.NĐ.2.1. Phạm vi điều chỉnh
+
+### 0800400000000000100000180249430012000010
+
+Điều 8.4.TT.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 0800400000000000100000180256930001000010
+
+Điều 8.4.TL.1.1. Phạm vi điều chỉnh
+
+### 0800400000000000100000200000000000000000
+
+Điều 8.4.LQ.2. Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình
+
+### 0800400000000000100000300000000000000000
+
+Điều 8.4.LQ.3. Giải thích từ ngữ
+
+### 0800400000000000100000400000000000000000
+
+Điều 8.4.LQ.4. Trách nhiệm của Nhà nước và xã hội đối với hôn nhân và gia đình
+
+### 080040000000000010000040000000000000000000402459500020000300
+
+Điều 8.4.NĐ.1.3. Cơ quan quản lý nhà nước về công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020000400
+
+Điều 8.4.NĐ.1.4. Xây dựng và tổ chức thực hiện chính sách, pháp luật về công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020000500
+
+Điều 8.4.NĐ.1.5. Quy hoạch, đào tạo, bồi dưỡng đội ngũ cán bộ làm công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020000600
+
+Điều 8.4.NĐ.1.6. Tuyên truyền, vận động, phổ biến kiến thức về công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020000700
+
+Điều 8.4.NĐ.1.7. Tổ chức, cơ quan cung ứng dịch vụ công thuộc lĩnh vực gia đình
+
+### 080040000000000010000040000000000000000000402459500020000800
+
+Điều 8.4.NĐ.1.8. Hoạt động hỗ trợ xây dựng gia đình
+
+### 08004000000000001000004000000000000000000040245950002000080000802494300120000200
+
+Điều 8.4.TT.1.2. Nội dung hoạt động hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
+
+### 08004000000000001000004000000000000000000040245950002000080000802494300120000300
+
+Điều 8.4.TT.1.3. Các cơ quan, tổ chức và cá nhân thực hiện hỗ trợ xây dựng gia đình hạnh phúc, phát triển bền vững tại cộng đồng
+
+### 08004000000000001000004000000000000000000040245950002000080000802494300120000400
+
+Điều 8.4.TT.1.4. Trách nhiệm tổ chức hoạt động
+
+### 08004000000000001000004000000000000000000040245950002000080000802494300120000500
+
+Điều 8.4.TT.1.5. Kinh phí thực hiện
+
+### 080040000000000010000040000000000000000000402459500020000900
+
+Điều 8.4.NĐ.1.9. Tổ chức kỷ niệm Ngày Gia đình Việt Nam
+
+### 080040000000000010000040000000000000000000402459500020001000
+
+Điều 8.4.NĐ.1.10. Thanh tra, kiểm tra, xử lý vi phạm pháp luật về công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020001100
+
+Điều 8.4.NĐ.1.11. Nghiên cứu khoa học, xây dựng cơ sở dữ liệu về gia đình và công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020001200
+
+Điều 8.4.NĐ.1.12. Hợp tác quốc tế
+
+### 080040000000000010000040000000000000000000402459500020001300
+
+Điều 8.4.NĐ.1.13. Sơ kết, tổng kết, chế độ thông tin, báo cáo
+
+### 080040000000000010000040000000000000000000402459500020001400
+
+Điều 8.4.NĐ.1.14. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch
+
+### 080040000000000010000040000000000000000000402459500020001500
+
+Điều 8.4.NĐ.1.15. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+
+### 080040000000000010000040000000000000000000402459500020001600
+
+Điều 8.4.NĐ.1.16. Trách nhiệm của Bộ Tài chính
+
+### 080040000000000010000040000000000000000000402459500020001700
+
+Điều 8.4.NĐ.1.17. Trách nhiệm của Bộ Tư pháp
+
+### 080040000000000010000040000000000000000000402459500020001800
+
+Điều 8.4.NĐ.1.18. Trách nhiệm của Bộ Giáo dục và Đào tạo
+
+### 080040000000000010000040000000000000000000402459500020001900
+
+Điều 8.4.NĐ.1.19. Trách nhiệm của Bộ Nội vụ
+
+### 080040000000000010000040000000000000000000402459500020002000
+
+Điều 8.4.NĐ.1.20. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
+
+### 080040000000000010000040000000000000000000402459500020002100
+
+Điều 8.4.NĐ.1.21. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+
+### 080040000000000010000040000000000000000000402459500020002200
+
+Điều 8.4.NĐ.1.22. Trách nhiệm của Ủy ban nhân dân các cấp
+
+### 080040000000000010000040000000000000000000402459500020002300
+
+Điều 8.4.NĐ.1.23. Tham gia quản lý nhà nước về công tác gia đình của các cấp Hội Liên hiệp phụ nữ
+
+### 080040000000000010000040000000000000000000402459500020002400
+
+Điều 8.4.NĐ.1.24. Tham gia thực hiện công tác gia đình
+
+### 080040000000000010000040000000000000000000402459500020002500
+
+Điều 8.4.NĐ.1.25. Kinh phí thực hiện công tác gia đình
+
+### 0800400000000000100000500000000000000000
+
+Điều 8.4.LQ.5. Bảo vệ chế độ hôn nhân và gia đình
+
+### 0800400000000000100000600000000000000000
+
+Điều 8.4.LQ.6. Áp dụng quy định của Bộ luật dân sự và các luật khác có liên quan
+
+### 0800400000000000100000700000000000000000
+
+Điều 8.4.LQ.7. Áp dụng tập quán về hôn nhân và gia đình
+
+### 080040000000000010000070000000000000000000402532201260000200
+
+Điều 8.4.NĐ.2.2. Nguyên tắc áp dụng tập quán
+
+### 080040000000000010000070000000000000000000402532201260000300
+
+Điều 8.4.NĐ.2.3. Thỏa thuận về áp dụng tập quán
+
+### 080040000000000010000070000000000000000000402532201260000400
+
+Điều 8.4.NĐ.2.4. Giải quyết vụ, việc hôn nhân và gia đình có áp dụng tập quán
+
+### 080040000000000010000070000000000000000000402532201260000500
+
+Điều 8.4.NĐ.2.5. Tuyên truyền, vận động nhân dân về áp dụng tập quán
+
+### 080040000000000010000070000000000000000000402532201260000600
+
+Điều 8.4.NĐ.2.6. Trách nhiệm về xây dựng danh mục tập quán được áp dụng
+
+### 08004000000000002000
+
+Chương II KẾT HÔN
+
+### 0800400000000000200000800000000000000000
+
+Điều 8.4.LQ.8. Điều kiện kết hôn
+
+### 080040000000000020000080000000000000000000802569300010000400
+
+Điều 8.4.TL.1.4. Xử lý yêu cầu hủy việc kết hôn trái pháp luật
+
+### 080040000000000020000080000000000000000000802569300019300200
+
+Điều 8.4.TL.1.2. Căn cứ hủy việc kết hôn trái pháp luật
+
+### 0800400000000000200000900000000000000000
+
+Điều 8.4.LQ.9. Đăng ký kết hôn
+
+### 0800400000000000200001000000000000000000
+
+Điều 8.4.LQ.10. Người có quyền yêu cầu hủy việc kết hôn trái pháp luật
+
+### 080040000000000020000100000000000000000000802569300019300300
+
+Điều 8.4.TL.1.3. Thụ lý, giải quyết đơn yêu cầu hủy việc kết hôn trái pháp luật
+
+### 0800400000000000200001100000000000000000
+
+Điều 8.4.LQ.11. Xử lý việc kết hôn trái pháp luật
+
+### 0800400000000000200001200000000000000000
+
+Điều 8.4.LQ.12. Hậu quả pháp lý của việc hủy kết hôn trái pháp luật
+
+### 0800400000000000200001300000000000000000
+
+Điều 8.4.LQ.13. Xử lý việc đăng ký kết hôn không đúng thẩm quyền
+
+### 0800400000000000200001400000000000000000
+
+Điều 8.4.LQ.14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
+
+### 0800400000000000200001500000000000000000
+
+Điều 8.4.LQ.15. Quyền, nghĩa vụ của cha mẹ và con trong trường hợp nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
+
+### 0800400000000000200001600000000000000000
+
+Điều 8.4.LQ.16. Giải quyết quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn
+
+### 08004000000000003000
+
+Chương III QUAN HỆ GIỮA VỢ VÀ CHỒNG
+
+### 0800400000000000300000010000000000000000
+
+Mục 1 QUYỀN VÀ NGHĨA VỤ VỀ NHÂN THÂN
+
+### 080040000000000030000001000000000000000001700000000000000000
+
+Điều 8.4.LQ.17. Bình đẳng về quyền, nghĩa vụ giữa vợ, chồng
+
+### 080040000000000030000001000000000000000001800000000000000000
+
+Điều 8.4.LQ.18. Bảo vệ quyền, nghĩa vụ về nhân thân của vợ, chồng
+
+### 080040000000000030000001000000000000000001900000000000000000
+
+Điều 8.4.LQ.19. Tình nghĩa vợ chồng
+
+### 080040000000000030000001000000000000000002000000000000000000
+
+Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng
+
+### 080040000000000030000001000000000000000002100000000000000000
+
+Điều 8.4.LQ.21. Tôn trọng danh dự, nhân phẩm, uy tín của vợ, chồng
+
+### 080040000000000030000001000000000000000002200000000000000000
+
+Điều 8.4.LQ.22. Tôn trọng quyền tự do tín ngưỡng, tôn giáo của vợ, chồng
+
+### 080040000000000030000001000000000000000002300000000000000000
+
+Điều 8.4.LQ.23. Quyền, nghĩa vụ về học tập, làm việc, tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội
+
+### 0800400000000000300000020000000000000000
+
+Mục 2 ĐẠI DIỆN GIỮA VỢ VÀ CHỒNG
+
+### 080040000000000030000002000000000000000002400000000000000000
+
+Điều 8.4.LQ.24. Căn cứ xác lập đại diện giữa vợ và chồng
+
+### 080040000000000030000002000000000000000002500000000000000000
+
+Điều 8.4.LQ.25. Đại diện giữa vợ và chồng trong quan hệ kinh doanh
+
+### 080040000000000030000002000000000000000002600000000000000000
+
+Điều 8.4.LQ.26. Đại diện giữa vợ và chồng trong trường hợp giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng đối với tài sản chung nhưng chỉ ghi tên vợ hoặc chồng
+
+### 080040000000000030000002000000000000000002700000000000000000
+
+Điều 8.4.LQ.27. Trách nhiệm liên đới của vợ, chồng
+
+### 0800400000000000300000030000000000000000
+
+Mục 3 CHẾ ĐỘ TÀI SẢN CỦA VỢ CHỒNG
+
+### 080040000000000030000003000000000000000002800000000000000000
+
+Điều 8.4.LQ.28. Áp dụng chế độ tài sản của vợ chồng
+
+### 08004000000000003000000300000000000000000280000000000000000000402532201260000700
+
+Điều 8.4.NĐ.2.7. Áp dụng chế độ tài sản của vợ chồng theo luật định
+
+### 080040000000000030000003000000000000000002900000000000000000
+
+Điều 8.4.LQ.29. Nguyên tắc chung về chế độ tài sản của vợ chồng
+
+### 08004000000000003000000300000000000000000290000000000000000000402532201260000800
+
+Điều 8.4.NĐ.2.8. Người thứ ba không ngay tình khi xác lập, thực hiện giao dịch với vợ, chồng liên quan đến tài khoản ngân hàng, tài khoản chứng khoán, động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu
+
+### 080040000000000030000003000000000000000003000000000000000000
+
+Điều 8.4.LQ.30. Quyền, nghĩa vụ của vợ, chồng trong việc đáp ứng nhu cầu thiết yếu của gia đình
+
+### 080040000000000030000003000000000000000003100000000000000000
+
+Điều 8.4.LQ.31. Giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng
+
+### 080040000000000030000003000000000000000003200000000000000000
+
+Điều 8.4.LQ.32. Giao dịch với người thứ ba ngay tình liên quan đến tài khoản ngân hàng, tài khoản chứng khoán và động sản khác mà theo quy định của pháp luật không phải đăng ký quyền sở hữu, quyền sử dụng
+
+### 080040000000000030000003000000000000000003300000000000000000
+
+Điều 8.4.LQ.33. Tài sản chung của vợ chồng
+
+### 080040000000000030000003000000000000000003400000000000000000
+
+Điều 8.4.LQ.34. Đăng ký quyền sở hữu, quyền sử dụng đối với tài sản chung
+
+### 08004000000000003000000300000000000000000340000000000000000000402532201260001200
+
+Điều 8.4.NĐ.2.12. Đăng ký tài sản chung của vợ chồng
+
+### 080040000000000030000003000000000000000003500000000000000000
+
+Điều 8.4.LQ.35. Chiếm hữu, sử dụng, định đoạt tài sản chung
+
+### 08004000000000003000000300000000000000000350000000000000000000402532201260001300
+
+Điều 8.4.NĐ.2.13. Chiếm hữu, sử dụng, định đoạt tài sản chung của vợ chồng
+
+### 080040000000000030000003000000000000000003600000000000000000
+
+Điều 8.4.LQ.36. Tài sản chung được đưa vào kinh doanh
+
+### 080040000000000030000003000000000000000003700000000000000000
+
+Điều 8.4.LQ.37. Nghĩa vụ chung về tài sản của vợ chồng
+
+### 08004000000000003000000300000000000000000370000000000000000000802569300010000700
+
+Điều 8.4.TL.1.7. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn
+
+### 080040000000000030000003000000000000000003800000000000000000
+
+Điều 8.4.LQ.38. Chia tài sản chung trong thời kỳ hôn nhân
+
+### 08004000000000003000000300000000000000000380000000000000000000402532201260001400
+
+Điều 8.4.NĐ.2.14. Hậu quả của việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân
+
+### 080040000000000030000003000000000000000003900000000000000000
+
+Điều 8.4.LQ.39. Thời điểm có hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân
+
+### 080040000000000030000003000000000000000004000000000000000000
+
+Điều 8.4.LQ.40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân
+
+### 080040000000000030000003000000000000000004100000000000000000
+
+Điều 8.4.LQ.41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ hôn nhân
+
+### 080040000000000030000003000000000000000004200000000000000000
+
+Điều 8.4.LQ.42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu
+
+### 080040000000000030000003000000000000000004300000000000000000
+
+Điều 8.4.LQ.43. Tài sản riêng của vợ, chồng
+
+### 080040000000000030000003000000000000000004400000000000000000
+
+Điều 8.4.LQ.44. Chiếm hữu, sử dụng, định đoạt tài sản riêng
+
+### 08004000000000003000000300000000000000000440000000000000000000402532201260000900
+
+Điều 8.4.NĐ.2.9. Thu nhập hợp pháp khác của vợ, chồng trong thời kỳ hôn nhân
+
+### 08004000000000003000000300000000000000000440000000000000000000402532201260001000
+
+Điều 8.4.NĐ.2.10. Hoa lợi, lợi tức phát sinh từ tài sản riêng của vợ, chồng
+
+### 08004000000000003000000300000000000000000440000000000000000000402532201260001100
+
+Điều 8.4.NĐ.2.11. Tài sản riêng khác của vợ, chồng theo quy định của pháp luật
+
+### 080040000000000030000003000000000000000004500000000000000000
+
+Điều 8.4.LQ.45. Nghĩa vụ riêng về tài sản của vợ, chồng
+
+### 080040000000000030000003000000000000000004600000000000000000
+
+Điều 8.4.LQ.46. Nhập tài sản riêng của vợ, chồng vào tài sản chung
+
+### 080040000000000030000003000000000000000004700000000000000000
+
+Điều 8.4.LQ.47. Thỏa thuận xác lập chế độ tài sản của vợ chồng
+
+### 08004000000000003000000300000000000000000470000000000000000000402532201260001500
+
+Điều 8.4.NĐ.2.15. Xác định tài sản của vợ chồng theo thỏa thuận
+
+### 08004000000000003000000300000000000000000470000000000000000000402532201260001600
+
+Điều 8.4.NĐ.2.16. Cung cấp thông tin về chế độ tài sản của vợ chồng theo thỏa thuận trong giao dịch với người thứ ba
+
+### 08004000000000003000000300000000000000000470000000000000000000402532201260001700
+
+Điều 8.4.NĐ.2.17. Sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng
+
+### 08004000000000003000000300000000000000000470000000000000000000402532201260001800
+
+Điều 8.4.NĐ.2.18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng
+
+### 080040000000000030000003000000000000000004800000000000000000
+
+Điều 8.4.LQ.48. Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng
+
+### 080040000000000030000003000000000000000004900000000000000000
+
+Điều 8.4.LQ.49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của vợ chồng
+
+### 080040000000000030000003000000000000000005000000000000000000
+
+Điều 8.4.LQ.50. Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu
+
+### 08004000000000003000000300000000000000000500000000000000000000802569300010000500
+
+Điều 8.4.TL.1.5. Thủ tục xem xét thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu
+
+### 08004000000000003000000300000000000000000500000000000000000000802569300010000600
+
+Điều 8.4.TL.1.6. Xác định thỏa thuận về chế độ tài sản của vợ chồng vô hiệu
+
+### 08004000000000004000
+
+Chương IV CHẤM DỨT HÔN NHÂN
+
+### 0800400000000000400000010000000000000000
+
+Mục 1 LY HÔN
+
+### 080040000000000040000001000000000000000005100000000000000000
+
+Điều 8.4.LQ.51. Quyền yêu cầu giải quyết ly hôn
+
+### 080040000000000040000001000000000000000005200000000000000000
+
+Điều 8.4.LQ.52. Khuyến khích hòa giải ở cơ sở
+
+### 080040000000000040000001000000000000000005300000000000000000
+
+Điều 8.4.LQ.53. Thụ lý đơn yêu cầu ly hôn
+
+### 080040000000000040000001000000000000000005400000000000000000
+
+Điều 8.4.LQ.54. Hòa giải tại Tòa án
+
+### 080040000000000040000001000000000000000005500000000000000000
+
+Điều 8.4.LQ.55. Thuận tình ly hôn
+
+### 080040000000000040000001000000000000000005600000000000000000
+
+Điều 8.4.LQ.56. Ly hôn theo yêu cầu của một bên
+
+### 080040000000000040000001000000000000000005700000000000000000
+
+Điều 8.4.LQ.57. Thời điểm chấm dứt hôn nhân và trách nhiệm gửi bản án, quyết định ly hôn
+
+### 080040000000000040000001000000000000000005800000000000000000
+
+Điều 8.4.LQ.58. Quyền, nghĩa vụ của cha mẹ và con sau khi ly hôn
+
+### 080040000000000040000001000000000000000005900000000000000000
+
+Điều 8.4.LQ.59. Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn
+
+### 080040000000000040000001000000000000000006000000000000000000
+
+Điều 8.4.LQ.60. Giải quyết quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba khi ly hôn
+
+### 080040000000000040000001000000000000000006100000000000000000
+
+Điều 8.4.LQ.61. Chia tài sản trong trường hợp vợ chồng sống chung với gia đình
+
+### 080040000000000040000001000000000000000006200000000000000000
+
+Điều 8.4.LQ.62. Chia quyền sử dụng đất của vợ chồng khi ly hôn
+
+### 080040000000000040000001000000000000000006300000000000000000
+
+Điều 8.4.LQ.63. Quyền lưu cư của vợ hoặc chồng khi ly hôn
+
+### 080040000000000040000001000000000000000006400000000000000000
+
+Điều 8.4.LQ.64. Chia tài sản chung của vợ chồng đưa vào kinh doanh
+
+### 0800400000000000400000020000000000000000
+
+Mục 2 HÔN NHÂN CHẤM DỨT DO VỢ, CHỒNG CHẾT HOẶC BỊ TÒA ÁN TUYÊN BỐ LÀ ĐÃ CHẾT
+
+### 080040000000000040000002000000000000000006500000000000000000
+
+Điều 8.4.LQ.65. Thời điểm chấm dứt hôn nhân
+
+### 080040000000000040000002000000000000000006600000000000000000
+
+Điều 8.4.LQ.66. Giải quyết tài sản của vợ chồng trong trường hợp một bên chết hoặc bị Tòa án tuyên bố là đã chết
+
+### 080040000000000040000002000000000000000006700000000000000000
+
+Điều 8.4.LQ.67. Quan hệ nhân thân, tài sản khi vợ, chồng bị tuyên bố là đã chết mà trở về
+
+### 08004000000000005000
+
+Chương V QUAN HỆ GIỮA CHA MẸ VÀ CON
+
+### 0800400000000000500000010000000000000000
+
+Mục 1 QUYỀN VÀ NGHĨA VỤ GIỮA CHA MẸ VÀ CON
+
+### 080040000000000050000001000000000000000006800000000000000000
+
+Điều 8.4.LQ.68. Bảo vệ quyền và nghĩa vụ của cha mẹ và con
+
+### 080040000000000050000001000000000000000006900000000000000000
+
+Điều 8.4.LQ.69. Nghĩa vụ và quyền của cha mẹ
+
+### 080040000000000050000001000000000000000007000000000000000000
+
+Điều 8.4.LQ.70. Quyền và nghĩa vụ của con
+
+### 080040000000000050000001000000000000000007100000000000000000
+
+Điều 8.4.LQ.71. Nghĩa vụ và quyền chăm sóc, nuôi dưỡng
+
+### 080040000000000050000001000000000000000007200000000000000000
+
+Điều 8.4.LQ.72. Nghĩa vụ và quyền giáo dục con
+
+### 080040000000000050000001000000000000000007300000000000000000
+
+Điều 8.4.LQ.73. Đại diện cho con
+
+### 080040000000000050000001000000000000000007400000000000000000
+
+Điều 8.4.LQ.74. Bồi thường thiệt hại do con gây ra
+
+### 080040000000000050000001000000000000000007500000000000000000
+
+Điều 8.4.LQ.75. Quyền có tài sản riêng của con
+
+### 080040000000000050000001000000000000000007600000000000000000
+
+Điều 8.4.LQ.76. Quản lý tài sản riêng của con
+
+### 080040000000000050000001000000000000000007700000000000000000
+
+Điều 8.4.LQ.77. Định đoạt tài sản riêng của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự
+
+### 080040000000000050000001000000000000000007800000000000000000
+
+Điều 8.4.LQ.78. Quyền, nghĩa vụ của cha nuôi, mẹ nuôi và con nuôi
+
+### 080040000000000050000001000000000000000007900000000000000000
+
+Điều 8.4.LQ.79. Quyền, nghĩa vụ của cha dượng, mẹ kế và con riêng của vợ hoặc của chồng
+
+### 080040000000000050000001000000000000000008000000000000000000
+
+Điều 8.4.LQ.80. Quyền, nghĩa vụ của con dâu, con rể, cha mẹ vợ, cha mẹ chồng
+
+### 080040000000000050000001000000000000000008100000000000000000
+
+Điều 8.4.LQ.81. Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn
+
+### 080040000000000050000001000000000000000008200000000000000000
+
+Điều 8.4.LQ.82. Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn
+
+### 080040000000000050000001000000000000000008300000000000000000
+
+Điều 8.4.LQ.83. Nghĩa vụ, quyền của cha, mẹ trực tiếp nuôi con đối với người không trực tiếp nuôi con sau khi ly hôn
+
+### 080040000000000050000001000000000000000008400000000000000000
+
+Điều 8.4.LQ.84. Thay đổi người trực tiếp nuôi con sau khi ly hôn
+
+### 080040000000000050000001000000000000000008500000000000000000
+
+Điều 8.4.LQ.85. Hạn chế quyền của cha, mẹ đối với con chưa thành niên
+
+### 080040000000000050000001000000000000000008600000000000000000
+
+Điều 8.4.LQ.86. Người có quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ đối với con chưa thành niên
+
+### 080040000000000050000001000000000000000008700000000000000000
+
+Điều 8.4.LQ.87. Hậu quả pháp lý của việc cha, mẹ bị hạn chế quyền đối với con chưa thành niên
+
+### 0800400000000000500000020000000000000000
+
+Mục 2 XÁC ĐỊNH CHA, MẸ, CON
+
+### 080040000000000050000002000000000000000008800000000000000000
+
+Điều 8.4.LQ.88. Xác định cha, mẹ
+
+### 080040000000000050000002000000000000000008900000000000000000
+
+Điều 8.4.LQ.89. Xác định con
+
+### 080040000000000050000002000000000000000009000000000000000000
+
+Điều 8.4.LQ.90. Quyền nhận cha, mẹ
+
+### 080040000000000050000002000000000000000009100000000000000000
+
+Điều 8.4.LQ.91. Quyền nhận con
+
+### 080040000000000050000002000000000000000009200000000000000000
+
+Điều 8.4.LQ.92. Xác định cha, mẹ, con trong trường hợp người có yêu cầu chết
+
+### 080040000000000050000002000000000000000009300000000000000000
+
+Điều 8.4.LQ.93. Xác định cha, mẹ trong trường hợp sinh con bằng kỹ thuật hỗ trợ sinh sản
+
+### 080040000000000050000002000000000000000009400000000000000000
+
+Điều 8.4.LQ.94. Xác định cha, mẹ trong trường hợp mang thai hộ vì mục đích nhân đạo
+
+### 080040000000000050000002000000000000000009500000000000000000
+
+Điều 8.4.LQ.95. Điều kiện mang thai hộ vì mục đích nhân đạo
+
+### 080040000000000050000002000000000000000009600000000000000000
+
+Điều 8.4.LQ.96. Thỏa thuận về mang thai hộ vì mục đích nhân đạo
+
+### 080040000000000050000002000000000000000009700000000000000000
+
+Điều 8.4.LQ.97. Quyền, nghĩa vụ của bên mang thai hộ vì mục đích nhân đạo
+
+### 080040000000000050000002000000000000000009800000000000000000
+
+Điều 8.4.LQ.98. Quyền, nghĩa vụ của bên nhờ mang thai hộ vì mục đích nhân đạo
+
+### 080040000000000050000002000000000000000009900000000000000000
+
+Điều 8.4.LQ.99. Giải quyết tranh chấp liên quan đến việc sinh con bằng kỹ thuật hỗ trợ sinh sản, mang thai hộ vì mục đích nhân đạo
+
+### 080040000000000050000002000000000000000010000000000000000000
+
+Điều 8.4.LQ.100. Xử lý hành vi vi phạm về sinh con bằng kỹ thuật hỗ trợ sinh sản và mang thai hộ
+
+### 080040000000000050000002000000000000000010100000000000000000
+
+Điều 8.4.LQ.101. Thẩm quyền giải quyết việc xác định cha, mẹ, con
+
+### 080040000000000050000002000000000000000010200000000000000000
+
+Điều 8.4.LQ.102. Người có quyền yêu cầu xác định cha, mẹ, con
+
+### 08004000000000006000
+
+Chương VI QUAN HỆ GIỮA CÁC THÀNH VIÊN KHÁC CỦA GIA ĐÌNH
+
+### 0800400000000000600010300000000000000000
+
+Điều 8.4.LQ.103. Quyền, nghĩa vụ giữa các thành viên khác của gia đình
+
+### 0800400000000000600010400000000000000000
+
+Điều 8.4.LQ.104. Quyền, nghĩa vụ của ông bà nội, ông bà ngoại và cháu
+
+### 0800400000000000600010500000000000000000
+
+Điều 8.4.LQ.105. Quyền, nghĩa vụ của anh, chị, em
+
+### 0800400000000000600010600000000000000000
+
+Điều 8.4.LQ.106. Quyền, nghĩa vụ của cô, dì, chú, cậu, bác ruột và cháu ruột
+
+### 08004000000000007000
+
+Chương VII CẤP DƯỠNG
+
+### 0800400000000000700010700000000000000000
+
+Điều 8.4.LQ.107. Nghĩa vụ cấp dưỡng
+
+### 0800400000000000700010800000000000000000
+
+Điều 8.4.LQ.108. Một người cấp dưỡng cho nhiều người
+
+### 0800400000000000700010900000000000000000
+
+Điều 8.4.LQ.109. Nhiều người cùng cấp dưỡng cho một người hoặc cho nhiều người
+
+### 0800400000000000700011000000000000000000
+
+Điều 8.4.LQ.110. Nghĩa vụ cấp dưỡng của cha, mẹ đối với con
+
+### 0800400000000000700011100000000000000000
+
+Điều 8.4.LQ.111. Nghĩa vụ cấp dưỡng của con đối với cha, mẹ
+
+### 0800400000000000700011200000000000000000
+
+Điều 8.4.LQ.112. Nghĩa vụ cấp dưỡng giữa anh, chị, em
+
+### 0800400000000000700011300000000000000000
+
+Điều 8.4.LQ.113. Nghĩa vụ cấp dưỡng giữa ông bà nội, ông bà ngoại và cháu
+
+### 0800400000000000700011400000000000000000
+
+Điều 8.4.LQ.114. Nghĩa vụ cấp dưỡng giữa cô, dì, chú, cậu, bác ruột và cháu ruột
+
+### 0800400000000000700011500000000000000000
+
+Điều 8.4.LQ.115. Nghĩa vụ cấp dưỡng giữa vợ và chồng khi ly hôn
+
+### 0800400000000000700011600000000000000000
+
+Điều 8.4.LQ.116. Mức cấp dưỡng
+
+### 0800400000000000700011700000000000000000
+
+Điều 8.4.LQ.117. Phương thức cấp dưỡng
+
+### 0800400000000000700011800000000000000000
+
+Điều 8.4.LQ.118. Chấm dứt nghĩa vụ cấp dưỡng
+
+### 0800400000000000700011900000000000000000
+
+Điều 8.4.LQ.119. Người có quyền yêu cầu thực hiện nghĩa vụ cấp dưỡng
+
+### 0800400000000000700012000000000000000000
+
+Điều 8.4.LQ.120. Khuyến khích việc trợ giúp của tổ chức, cá nhân
+
+### 08004000000000008000
+
+Chương VIII QUAN HỆ HÔN NHÂN VÀ GIA ĐÌNH CÓ YẾU TỐ NƯỚC NGOÀI
+
+### 0800400000000000800012100000000000000000
+
+Điều 8.4.LQ.121. Bảo vệ quyền, lợi ích hợp pháp của các bên trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài
+
+### 0800400000000000800012200000000000000000
+
+Điều 8.4.LQ.122. Áp dụng pháp luật đối với quan hệ hôn nhân và gia đình có yếu tố nước ngoài
+
+### 080040000000000080001220000000000000000000402532201260005100
+
+Điều 8.4.NĐ.2.51. Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
+
+### 080040000000000080001220000000000000000000402532201260005200
+
+Điều 8.4.NĐ.2.52. Nguyên tắc hoạt động tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
+
+### 080040000000000080001220000000000000000000402532201260005300
+
+Điều 8.4.NĐ.2.53. Điều kiện thành lập Trung tâm
+
+### 080040000000000080001220000000000000000000402532201260005400
+
+Điều 8.4.NĐ.2.54. Thủ tục đăng ký hoạt động của Trung tâm, cấp lại giấy đăng ký hoạt động của Trung tâm
+
+### 080040000000000080001220000000000000000000402532201260005500
+
+Điều 8.4.NĐ.2.55. Quyền hạn, nghĩa vụ của Trung tâm
+
+### 080040000000000080001220000000000000000000402532201260005600
+
+Điều 8.4.NĐ.2.56. Thay đổi nội dung giấy đăng ký hoạt động của Trung tâm
+
+### 080040000000000080001220000000000000000000402532201260005700
+
+Điều 8.4.NĐ.2.57. Chấm dứt hoạt động của Trung tâm
+
+### 080040000000000080001220000000000000000000402532201260005800
+
+Điều 8.4.NĐ.2.58. Nhiệm vụ, quyền hạn của Bộ Tư pháp
+
+### 080040000000000080001220000000000000000000402532201260005900
+
+Điều 8.4.NĐ.2.59. Nhiệm vụ, quyền hạn của Bộ Ngoại giao
+
+### 080040000000000080001220000000000000000000402532201260006100
+
+Điều 8.4.NĐ.2.61. Nhiệm vụ, quyền hạn của Bộ Công an
+
+### 080040000000000080001220000000000000000000402532201260006200
+
+Điều 8.4.NĐ.2.62. Nhiệm vụ của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+
+### 080040000000000080001220000000000000000000402532201260006300
+
+Điều 8.4.NĐ.2.63. Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp tỉnh
+
+### 080040000000000080001220000000000000000000402532201260006400
+
+Điều 8.4.NĐ.2.64. Trách nhiệm của Trung ương Hội Liên hiệp Phụ nữ Việt Nam trong lĩnh vực hôn nhân và gia đình có yếu tố nước ngoài
+
+### 0800400000000000800012300000000000000000
+
+Điều 8.4.LQ.123. Thẩm quyền giải quyết các vụ việc hôn nhân và gia đình có yếu tố nước ngoài
+
+### 0800400000000000800012400000000000000000
+
+Điều 8.4.LQ.124. Hợp pháp hoá lãnh sự giấy tờ, tài liệu về hôn nhân và gia đình
+
+### 080040000000000080001240000000000000000000402532201260006000
+
+Điều 8.4.NĐ.2.60. Nhiệm vụ, quyền hạn của Cơ quan đại diện
+
+### 0800400000000000800012500000000000000000
+
+Điều 8.4.LQ.125. Công nhận, ghi chú bản án, quyết định của Tòa án, cơ quan có thẩm quyền của nước ngoài về hôn nhân và gia đình
+
+### 0800400000000000800012600000000000000000
+
+Điều 8.4.LQ.126. Kết hôn có yếu tố nước ngoài
+
+### 0800400000000000800012700000000000000000
+
+Điều 8.4.LQ.127. Ly hôn có yếu tố nước ngoài
+
+### 0800400000000000800012800000000000000000
+
+Điều 8.4.LQ.128. Xác định cha, mẹ, con có yếu tố nước ngoài
+
+### 0800400000000000800012900000000000000000
+
+Điều 8.4.LQ.129. Nghĩa vụ cấp dưỡng có yếu tố nước ngoài
+
+### 0800400000000000800013000000000000000000
+
+Điều 8.4.LQ.130. Áp dụng chế độ tài sản của vợ chồng theo thỏa thuận; giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài
+
+### 08004000000000009000
+
+Chương IX ĐIỀU KHOẢN THI HÀNH
+
+### 0800400000000000900013100000000000000000
+
+Điều 8.4.LQ.131. Điều khoản chuyển tiếp
+
+### 0800400000000000900013200000000000000000
+
+Điều 8.4.LQ.132. Hiệu lực thi hành
+
+### 0800400000000000900013300000000000000000
+
+Điều 8.4.LQ.133. Quy định chi tiết và hướng dẫn thi hành
+
+### 0800400000000000900013340245950002000260
+
+Điều 8.4.NĐ.1.26. Hiệu lực thi hành
+
+### 0800400000000000900013340245950002000270
+
+Điều 8.4.NĐ.1.27. Trách nhiệm thi hành
+
+### 0800400000000000900013340253220126000650
+
+Điều 8.4.NĐ.2.65. Hiệu lực thi hành
+
+### 0800400000000000900013340253220126000660
+
+Điều 8.4.NĐ.2.66. Điều khoản chuyển tiếp
+
+### 0800400000000000900013340253220126000670
+
+Điều 8.4.NĐ.2.67. Trách nhiệm thi hành
+
+### 0800400000000000900013380202120001000050
+
+Điều 8.4.TL.1.5.
+
+### 0800400000000000900013380202120001000060
+
+Điều 8.4.TL.1.6.
+
+### 0800400000000000900013380249430012000060
+
+Điều 8.4.TT.1.6. Hiệu lực thi hành
+
+### 0800400000000000900013380249430012000070
+
+Điều 8.4.TT.1.7. Trách nhiệm thi hành
+
+### 0800400000000000900013380256930001000080
+
+Điều 8.4.TL.1.8. Hiệu lực thi hành
+
+### 0800400000000000900013380256930001000090
+
+Điều 8.4.TL.1.9. Giải thích, sửa đổi, bổ sung Thông tư liên tịch
+

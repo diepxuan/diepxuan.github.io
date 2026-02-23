@@ -1,2766 +1,4314 @@
 ---
-layout: default
+layout: page
 title: Tổ chức Viện kiểm sát nhân dân
 permalink: /van-ban/to-chuc-bo-may-nha-nuoc/to-chuc-vien-kiem-sat-nhan-dan/
-collection: subtopics
-slug: to-chuc-vien-kiem-sat-nhan-dan
-parent: to-chuc-bo-may-nha-nuoc
 ---
 
 # Tổ chức Viện kiểm sát nhân dân
 
-**Đề mục:** Tổ chức Viện kiểm sát nhân dân  
-**Chủ đề:** [Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)  
-**Số điều khoản:** 230  
-**Điều khoản có nội dung:** 128/210 (61.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 35.10.LQ.1. Phạm vi điều chỉnh
+Điều 35.10.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ngày 24/11/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Chỉ mục:** 1
+Luật này quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Viện kiểm sát nhân dân; về Kiểm sát viên và các chức danh khác trong Viện kiểm sát nhân dân; về bảo đảm hoạt động của Viện kiểm sát nhân dân.
 
-**Mã phân cấp:** 3501000000000000100000100000000000000000
+(Điều này có nội dung liên quan đến Điều 30.4.NĐ.73. Kiểm sát hoạt động của Thừa phát lại)
 
-**ID:** dk_00059755
+Điều 35.10.NQ.3.1. Phạm vi điều chỉnh
 
----
-
-
-### Điều 35.10.NQ.3.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3501000000000000100000120254550924000010
-
-**ID:** dk_00059756
-
----
-
-
-### Điều 35.10.TL.1.1. Đối tượng, phạm vi, nguyên tắc áp dụng
+(Điều 1 Nghị quyết số 924/2015/UBTVQH13 Về tiêu chuẩn bổ nhiệm, điều kiện nâng ngạch kiểm tra viên của 
+Viện kiểm sát nhân dân ngày 13/05/2015 của Ủy ban Thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 01/06/2015)Nghị quyết này quy định về tiêu chuẩn bổ nhiệm, điều kiện nâng ngạch Kiểm tra viên của Viện kiểm sát nhân dân.
 
 Điều 35.10.TL.1.1. Đối tượng, phạm vi, nguyên tắc áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư liên tịch số 01/2006/TTLT-VKSTC-BNV-BTC Hướng dẫn thi hành Quyết định số 138/2005/QĐ-TTg ngày 13 tháng 6 năm 2005 của Thủ tướng Chính phủ về chế độ phụ cấp trách nhiệm đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên ngành Kiểm sát. ngày 19/01/2006 của Bộ Tài chính, Bộ Nội vụ và Viện Kiểm sát Nhân dân Tối cao, có hiệu lực thi hành kể từ ngày 20/02/2006)
 
-**Mã phân cấp:** 3501000000000000100000180220540001000010
+1. Đối tượng và phạm vi áp dụng
 
-**ID:** dk_00059757
+Đối tượng hưởng phụ cấp trách nhiệm theo nghề trong ngành Kiểm sát nhân dân bao gồm Kiểm sát viên, Điều tra viên, Kiểm tra viên các cấp đang hưởng lương theo quy định tại Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Uỷ ban Thường vụ Quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn nghiệp vụ ngành Toà án, ngành Kiểm sát. Cụ thể:
 
----
+a) Viện trưởng Viện kiểm sát nhân dân tối cao;
 
+b) Kiểm sát viên Viện kiểm sát nhân dân tối cao, Kiểm sát viên Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là cấp tỉnh), Kiểm sát viên Viện kiểm sát nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh (sau đây gọi tắt là cấp huyện);
 
-### Điều 35.10.TL.2.1. Đối tượng áp dụng
+c) Điều tra viên cao cấp, Điều tra viên trung cấp, Điều tra viên sơ cấp;
 
-*Nội dung chưa có sẵn*
+d) Kiểm tra viên cao cấp, Kiểm tra viên chính, Kiểm tra viên.
 
-**Chỉ mục:** 1
+2. Nguyên tắc áp dụng
 
-**Mã phân cấp:** 3501000000000000100000180248160001000010
+a) Đối tượng hưởng phụ cấp trách nhiệm quy định tại khoản 1 mục I Thông tư này là những người được cấp có thẩm quyền quyết định bổ nhiệm vào chức danh theo quy định của pháp luật.
 
-**ID:** dk_00059758
+b) Cán bộ công chức được bổ nhiệm vào chức danh nào thì hưởng mức phụ cấp trách nhiệm quy định đối với chức danh đó.
 
----
+c) Trường hợp được bổ nhiệm vào chức danh trước ngày 01/10/2004 thì được hưởng phụ cấp trách nhiệm theo quy định tại Thông tư này kể từ ngày 01/10/2004. Trường hợp được bổ nhiệm vào chức danh từ ngày 01/10/2004 trở đi thì được hưởng phụ cấp trách nhiệm theo quy định tại Thông tư này kể từ ngày được bổ nhiệm.
 
+3. Đối tượng quy định tại khoản 1 mục I Thông tư này không được hưởng phụ cấp trách nhiệm trong thời gian sau
 
-### Điều 35.10.TL.3.1. Phạm vi điều chỉnh
+a) Thời gian đi công tác, làm việc, học tập ở nước ngoài hưởng 40% tiền lương theo quy định tại khoản 4 Điều 8 của Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính Phủ;
 
-*Nội dung chưa có sẵn*
+b) Thời gian đi học ở trong nước không làm nghiệp vụ kiểm sát từ 3 tháng liên tục trở lên;
 
-**Chỉ mục:** 1
+c) Thời gian nghỉ việc riêng không hưởng lương từ 1 tháng liên tục trở lên;
 
-**Mã phân cấp:** 3501000000000000100000180265130001960010
+d) Thời gian nghỉ ốm đau, thai sản vượt quá thời hạn quy định tại Điều lệ bảo hiểm xã hội hiện hành của Nhà nước;
 
-**ID:** dk_00059759
+e) Thời gian bị đình chỉ công tác.
 
----
+Điều 35.10.TL.2.1. Đối tượng áp dụng
 
+(Điều 1 Thông tư liên tịch số 01/2013/TTLT-VKSTC-BTC Hướng dẫn thực hiện Nghị quyết số 522B/NQ-UBTVQH13 ngày 16/8/2012 của Ủy ban Thường vụ Quốc hội về trang phục đối với cán bộ, công chức, viên chức ngành Kiểm sát và Giấy chứng minh Kiểm sát viên ngày 12/08/2013 của Bộ Tài chính và Viện kiểm sát nhân dân tối cao, có hiệu lực thi hành kể từ ngày 01/10/2013)
 
-### Điều 35.10.TL.3.2. Đối tượng áp dụng
+1. Đối tượng được cấp trang phục để sử dụng khi thi hành công vụ là cán bộ, công chức, viên chức Viện kiểm sát nhân dân.
 
-*Nội dung chưa có sẵn*
+2. Đối tượng được cấp Giấy chứng minh Kiểm sát viên để sử dụng khi thi hành công vụ là cán bộ, công chức được bổ nhiệm giữ chức danh Kiểm sát viên.
 
-**Chỉ mục:** 2
+Điều 35.10.TL.3.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3501000000000000100000180265130001960020
+(Điều 1 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT Quy định phối hợp trong việc báo cáo, thông báo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp ngày 05/04/2018 của Viện kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp, Bộ Tài chính và Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
-**ID:** dk_00059760
+Thông tư liên tịch này quy định việc phối hợp của các cơ quan, người có thẩm quyền trong việc báo cáo, thông báo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp.
 
----
+Điều 35.10.TL.3.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
-### Điều 35.10.TL.3.3. Giải thích từ ngữ
+Thông tư liên tịch này áp dụng đối với các cơ quan, người có thẩm quyền giải quyết khiếu nại, tố cáo trong hoạt động tư pháp.
 
-*Nội dung chưa có sẵn*
+Điều 35.10.TL.3.3. Giải thích từ ngữ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
-**Mã phân cấp:** 3501000000000000100000180265130001960030
+Trong Thông tư liên tịch này, những từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00059761
+1. *Hoạt động tư pháp:* Bao gồm hoạt động trong các lĩnh vực tố tụng hình sự, tố tụng dân sự, tố tụng hành chính, thủ tục phá sản, thi hành án hình sự, thi hành án dân sự, thi hành án hành chính, thi hành tạm giữ, tạm giam, xem xét, quyết định áp dụng các biện pháp xử lý hành chính tại Tòa án và việc khác mà pháp luật quy định là hoạt động tư pháp.
 
----
+2. *Khiếu nại trong hoạt động tư pháp*: Là việc cá nhân, cơ quan, tổ chức, theo thủ tục do pháp luật quy định, đề nghị cơ quan, người có thẩm quyền xem xét lại quyết định, hành vi của cơ quan, người có thẩm quyền trong hoạt động tư pháp, khi có căn cứ cho rằng quyết định, hành vi đó là trái pháp luật, xâm phạm quyền và lợi ích hợp pháp của mình.
 
+3. *Tố cáo trong hoạt động tư pháp*: Là việc cá nhân, theo thủ tục do pháp luật quy định, báo cho cơ quan, người có thẩm quyền biết về hành vi vi phạm pháp luật của cơ quan, người có thẩm quyền trong hoạt động tư pháp gây thiệt hại hoặc đe dọa gây thiệt hại lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức.
 
-### Điều 35.10.TL.4.1. Phạm vi điều chỉnh
+*4. Báo cáo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp *là văn bản của cơ quan cấp dưới gửi cơ quan cấp trên trong cùng một bộ, ngành để báo cáo.
 
-*Nội dung chưa có sẵn*
+*5. Thông báo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp* là văn bản do các cơ quan cấp trung ương của mỗi bộ, ngành gửi cho Viện kiểm sát nhân dân tối cao.
 
-**Chỉ mục:** 1
+Điều 35.10.TL.4.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 3501000000000000100000180267340005000010
+(Điều 1 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP Quy định phối hợp giữa các cơ quan trong thực hiện thống kê hình sự ngày 12/11/2018 của Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng và Viện Kiểm sát Nhân dân Tối cao, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00059762
+1. Thông tư liên tịch này quy định phối hợp giữa Viện kiểm sát nhân dân, Tòa án nhân dân, Công an nhân dân, Quân đội nhân dân trong hoạt động lập, đối chiếu và gửi báo cáo thống kê hình sự.
 
----
+2. Thống kê hình sự theo quy định tại khoản 1 Điều này bao gồm: Thống kê tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; khởi tố, điều tra; truy tố; xét xử các vụ án hình sự; thi hành tạm giữ, tạm giam và thi hành án hình sự do hai hoặc nhiều cơ quan quy định tại khoản 1 Điều này cùng thu thập, đối chiếu và báo cáo *(sau đây gọi là thống kê hình sự liên ngành)*.
 
+(Điều này có nội dung liên quan đến Điều 31.1.LQ.14. Hệ thống thông tin thống kê bộ, ngành)
 
-### Điều 35.10.TL.4.2. Đối tượng áp dụng
+Điều 35.10.TL.4.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 2
+Thông tư liên tịch này áp dụng đối với đơn vị, cá nhân có thẩm quyền thuộc Viện kiểm sát nhân dân, Tòa án nhân dân, Công an nhân dân, Quân đội nhân dân trong thực hiện thống kê hình sự liên ngành.
 
-**Mã phân cấp:** 3501000000000000100000180267340005000020
+Điều 35.10.TT.1.1. Phạm vi điều chỉnh
 
-**ID:** dk_00059763
+(Điều 1 Thông tư số 113/2015/TT-BQP Quy định về tuyển chọn, đào tạo, bồi dưỡng, sử dụng cán bộ Viện kiểm sát quân sự ngày 28/09/2015 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
----
+Thông tư này quy định nguyên tắc, nghĩa vụ, quyền lợi, nguồn, tiêu chuẩn, quy trình tuyển chọn, đào tạo, bồi dưỡng, sử dụng cán bộ Viện kiểm sát quân sự.
 
+Điều 35.10.TT.1.2. Đối tượng áp dụng
 
-### Điều 35.10.TT.1.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-*Nội dung chưa có sẵn*
+Thông tư này áp dụng đối với cơ quan, đơn vị và cá nhân có liên quan đến công tác tuyển chọn, đào tạo, bồi dưỡng, sử dụng cán bộ Viện kiểm sát quân sự.
 
-**Chỉ mục:** 1
+Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh
 
-**Mã phân cấp:** 3501000000000000100000180346919200995000
+(Điều 1 Thông tư số 01/2015/TT-VKSTC Quy định về quản lý, sử dụng trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Kiểm tra viên trong ngành Kiểm sát nhân dân ngày 30/12/2015 của Viện kiểm sát nhân dân tối cao, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-**ID:** dk_00059764
+Thông tư này quy định về quản lý, sử dụng trang phục của các chức danh tư pháp, công chức, viên chức, người lao động hợp đồng theo Nghị định số 68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ (viết tắt là công chức, viên chức); quản lý, sử dụng, mẫu Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên trong ngành Kiểm sát nhân dân.
 
----
+Trang phục của các chức danh tư pháp, công chức, viên chức, người lao động khác làm việc tại Viện kiểm sát quân sự các cấp thực hiện theo quy định về trang phục đối với Quân đội nhân dân Việt Nam.
 
-
-### Điều 35.10.TT.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 3501000000000000100000180445184604990000
-
-**ID:** dk_00059765
-
----
-
-
-### Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 3501000000000000100000180640732758940000
-
-**ID:** dk_00059766
-
----
-
-
-### Điều 35.10.LQ.2. Chức năng, nhiệm vụ của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 25.14.NĐ.6.9. Trang phục dự lễ mùa đông của nam sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan; Điều 25.14.NĐ.6.10. Trang phục dự lễ mùa đông của nữ sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan; Điều 11. Trang phục dự lễ hai hàng cúc của sĩ quan Hải quân; Điều 12. Trang phục dự lễ mùa hè của nam sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan; Điều 13. Trang phục dự lễ mùa hè của nữ sĩ quan, quân nhân chuyên nghiệp, học viên là sĩ quan và học viên đào tạo sĩ quan; Điều 25.14.NĐ.6.14. Trang phục dự lễ của công nhân và viên chức quốc phòng; Điều 25.14.NĐ.6.15. Trang phục dự lễ của hạ sĩ quan - binh sĩ, học viên đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật; trang phục thường dùng, trang phục dã chiến, trang phục nghiệp vụ, trang phục công tác; mũ và áo chống rét của Quân đội nhân dân Việt Nam)
 
 Điều 35.10.LQ.2. Chức năng, nhiệm vụ của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 2
+(Điều 2 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000200000000000000000
+1. Viện kiểm sát nhân dân là cơ quan thực hành quyền công tố, kiểm sát hoạt động tư pháp của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 
-**ID:** dk_00059767
+2. Viện kiểm sát nhân dân có nhiệm vụ bảo vệ Hiến pháp và pháp luật, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.
 
----
-
-
-### Điều 35.10.LQ.3. Chức năng thực hành quyền công tố của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự; Điều 37.7.LQ.159. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong việc giải quyết nguồn tin về tội phạm; Điều 37.7.LQ.165. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự; Điều 37.7.LQ.236. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn truy tố; Điều 37.7.LQ.266. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn xét xử)
 
 Điều 35.10.LQ.3. Chức năng thực hành quyền công tố của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000300000000000000000
+1. Thực hành quyền công tố là hoạt động của Viện kiểm sát nhân dân trong tố tụng hình sự để thực hiện việc buộc tội của Nhà nước đối với người phạm tội, được thực hiện ngay từ khi giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong suốt quá trình khởi tố, điều tra, truy tố, xét xử vụ án hình sự.
 
-**ID:** dk_00059768
+2. Viện kiểm sát nhân dân thực hành quyền công tố nhằm bảo đảm:
 
----
+a) Mọi hành vi phạm tội, người phạm tội phải được phát hiện, khởi tố, điều tra, truy tố, xét xử kịp thời, nghiêm minh, đúng người, đúng tội, đúng pháp luật, không làm oan người vô tội, không để lọt tội phạm và người phạm tội;
 
+b) Không để người nào bị khởi tố, bị bắt, tạm giữ, tạm giam, bị hạn chế quyền con người, quyền công dân trái luật.
 
-### Điều 35.10.LQ.4. Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân
+3. Khi thực hiện chức năng thực hành quyền công tố, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:
+
+a) Yêu cầu khởi tố, hủy bỏ quyết định khởi tố hoặc không khởi tố vụ án trái pháp luật, phê chuẩn, không phê chuẩn quyết định khởi tố bị can của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; trực tiếp khởi tố vụ án, khởi tố bị can trong những trường hợp do Bộ luật tố tụng hình sự quy định;
+
+b) Quyết định, phê chuẩn việc áp dụng, thay đổi, hủy bỏ các biện pháp hạn chế quyền con người, quyền công dân trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong việc khởi tố, điều tra, truy tố theo quy định của Bộ luật tố tụng hình sự;
+
+c) Hủy bỏ các quyết định tố tụng trái pháp luật khác trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong việc khởi tố, điều tra của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra;
+
+d) Khi cần thiết đề ra yêu cầu điều tra và yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện;
+
+đ) Yêu cầu cơ quan, tổ chức, cá nhân hữu quan cung cấp tài liệu để làm rõ tội phạm, người phạm tội;
+
+e) Trực tiếp giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; tiến hành một số hoạt động điều tra để làm rõ căn cứ quyết định việc buộc tội đối với người phạm tội;
+
+g) Điều tra các tội phạm xâm phạm hoạt động tư pháp, các tội phạm về tham nhũng, chức vụ xảy ra trong hoạt động tư pháp theo quy định của luật;
+
+h) Quyết định việc áp dụng thủ tục rút gọn trong giai đoạn điều tra, truy tố;
+
+i) Quyết định việc truy tố, buộc tội bị cáo tại phiên tòa;
+
+k) Kháng nghị bản án, quyết định của Tòa án trong trường hợp Viện kiểm sát nhân dân phát hiện oan, sai, bỏ lọt tội phạm, người phạm tội;
+
+l) Thực hiện nhiệm vụ, quyền hạn khác trong việc buộc tội đối với người phạm tội theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 40.1.LQ.64. Trách nhiệm của Viện kiểm sát nhân dân tối cao; Điều 40.1.LQ.69. Trách nhiệm của Viện kiểm sát nhân dân cấp tỉnh; Điều 35.10.LQ.6. Các công tác của Viện kiểm sát nhân dân; Điều 37.11.LQ.30. Nhiệm vụ, quyền hạn của Cơ quan điều tra Viện kiểm sát nhân dân tối cao; Điều 37.7.LQ.159. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong việc giải quyết nguồn tin về tội phạm; Điều 37.7.LQ.165. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự; Điều 37.7.LQ.236. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn truy tố; Điều 37.7.LQ.266. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn xét xử)
 
 Điều 35.10.LQ.4. Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 4
+(Điều 4 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000400000000000000000
+1. Kiểm sát hoạt động tư pháp là hoạt động của Viện kiểm sát nhân dân để kiểm sát tính hợp pháp của các hành vi, quyết định của cơ quan, tổ chức, cá nhân trong hoạt động tư pháp, được thực hiện ngay từ khi tiếp nhận và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong suốt quá trình giải quyết vụ án hình sự; trong việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động; việc thi hành án, việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp; các hoạt động tư pháp khác theo quy định của pháp luật.
 
-**ID:** dk_00059769
+2. Viện kiểm sát nhân dân kiểm sát hoạt động tư pháp nhằm bảo đảm:
 
----
+a) Việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; việc giải quyết vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động; việc thi hành án; việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp; các hoạt động tư pháp khác được thực hiện đúng quy định của pháp luật;
 
+b) Việc bắt, tạm giữ, tạm giam, thi hành án phạt tù, chế độ tạm giữ, tạm giam, quản lý và giáo dục người chấp hành án phạt tù theo đúng quy định của pháp luật; quyền con người và các quyền, lợi ích hợp pháp khác của người bị bắt, tạm giữ, tạm giam, người chấp hành án phạt tù không bị luật hạn chế phải được tôn trọng và bảo vệ;
 
-### Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân
+c) Bản án, quyết định của Tòa án đã có hiệu lực pháp luật phải được thi hành nghiêm chỉnh;
+
+đ) Mọi vi phạm pháp luật trong hoạt động tư pháp phải được phát hiện, xử lý kịp thời, nghiêm minh.
+
+3. Khi thực hiện chức năng kiểm sát hoạt động tư pháp, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:
+
+a) Yêu cầu cơ quan, tổ chức, cá nhân thực hiện hoạt động tư pháp theo đúng quy định của pháp luật; tự kiểm tra việc tiến hành hoạt động tư pháp thuộc thẩm quyền và thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu để Viện kiểm sát nhân dân kiểm sát tính hợp pháp của các hành vi, quyết định trong hoạt động tư pháp;
+
+b) Trực tiếp kiểm sát; xác minh, thu thập tài liệu để làm rõ vi phạm pháp luật của cơ quan, tổ chức, cá nhân trong hoạt động tư pháp;
+
+c) Xử lý vi phạm; yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền khắc phục, xử lý nghiêm minh vi phạm pháp luật trong hoạt động tư pháp; kiến nghị cơ quan, tổ chức hữu quan áp dụng các biện pháp phòng ngừa vi phạm pháp luật và tội phạm;
+
+d) Kháng nghị bản án, quyết định của Tòa án có vi phạm pháp luật; kiến nghị hành vi, quyết định của Tòa án có vi phạm pháp luật; kháng nghị hành vi, quyết định có vi phạm pháp luật của cơ quan, người có thẩm quyền khác trong hoạt động tư pháp;
+
+đ) Kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp; giải quyết khiếu nại, tố cáo thuộc thẩm quyền;
+
+e) Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát hoạt động tư pháp theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 7. Kiểm sát việc tuân theo pháp luật trong việc bắt giữ tàu biển. của Pháp lệnh 05/2008/PL-UBTVQH12 Thủ tục bắt giữ tàu biển ban hành ngày 27/08/2008; Điều 40.1.LQ.64. Trách nhiệm của Viện kiểm sát nhân dân tối cao; Điều 40.1.LQ.69. Trách nhiệm của Viện kiểm sát nhân dân cấp tỉnh; Điều 30.2.LQ.12. Giám sát và kiểm sát việc thi hành án; Chương XI KIỂM SÁT THI HÀNH ÁN HÌNH SỰ của Luật 53/2010/QH12 Thi hành án hình sự ban hành ngày 17/06/2010; Điều 37.2.LQ.21. Kiểm sát việc tuân theo pháp luật trong quá trình giải quyết phá sản; Điều 35.10.LQ.6. Các công tác của Viện kiểm sát nhân dân; Điều 37.5.LQ.21. Kiểm sát việc tuân theo pháp luật trong tố tụng dân sự; Điều 37.5.LQ.504. Thẩm quyền giải quyết khiếu nại đối với quyết định, hành vi của người tiến hành tố tụng; Điều 37.5.LQ.512. Thẩm quyền và thời hạn giải quyết tố cáo; Điều 37.5.LQ.515. Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng dân sự; Điều 37.6.LQ.25. Kiểm sát việc tuân theo pháp luật trong tố tụng hành chính; Điều 37.6.LQ.332. Thẩm quyền giải quyết khiếu nại đối với quyết định, hành vi của người tiến hành tố tụng; Điều 37.6.LQ.340. Thẩm quyền và thời hạn giải quyết tố cáo; Điều 37.6.LQ.343. Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng hành chính; Điều 37.10.LQ.6. Kiểm sát hoạt động quản lý, thi hành tạm giữ, tạm giam; Điều 37.10.LQ.42. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát quản lý, thi hành tạm giữ, tạm giam; Điều 37.10.LQ.49. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi giải quyết khiếu nại trong quản lý, thi hành tạm giữ, tạm giam; Điều 37.10.LQ.60. Thẩm quyền, thủ tục, thời hạn giải quyết tố cáo; Điều 37.7.LQ.160. Nhiệm vụ, quyền hạn của Viện kiểm sát trong việc tiếp nhận và kiểm sát việc giải quyết nguồn tin về tội phạm; Điều 37.7.LQ.166. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát điều tra vụ án hình sự; Điều 37.7.LQ.237. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát trong giai đoạn truy tố; Điều 37.7.LQ.267. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát xét xử; Điều 37.7.LQ.474. Thẩm quyền và thời hạn giải quyết khiếu nại quyết định, hành vi tố tụng trong việc giữ người trong trường hợp khẩn cấp, bắt, tạm giữ, tạm giam; Điều 37.7.LQ.475. Thẩm quyền và thời hạn giải quyết khiếu nại đối với Điều tra viên, Cán bộ điều tra, Phó Thủ trưởng và Thủ trưởng Cơ quan điều tra, người được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.7.LQ.476. Thẩm quyền và thời hạn giải quyết khiếu nại đối với Kiểm sát viên, Kiểm tra viên, Phó Viện trưởng và Viện trưởng Viện kiểm sát; Điều 37.7.LQ.481. Thẩm quyền và thời hạn giải quyết tố cáo; Điều 37.7.LQ.483. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát việc giải quyết khiếu nại, tố cáo; Điều 37.3.PL.8. Kiểm sát việc tuân theo pháp luật trong việc bắt giữ tàu bay; Điều 4. Kiểm sát việc xem xét, quyết định áp dụng biện pháp xử lý hành chính của Pháp lệnh 09/2014/UBTVQH13 Trình tự, thủ tục xem xét, quyết định áp dụng các biện pháp xử lý hành chính tại Tòa án nhân dân ban hành ngày 20/01/2014)
 
 Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000500000000000000000
+1. Trường hợp hành vi, bản án, quyết định của cơ quan, cá nhân có thẩm quyền trong hoạt động tư pháp có vi phạm pháp luật nghiêm trọng, xâm phạm quyền con người, quyền công dân, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Viện kiểm sát nhân dân phải kháng nghị. Cơ quan, người có thẩm quyền phải giải quyết kháng nghị của Viện kiểm sát nhân dân theo quy định của pháp luật.
 
-**ID:** dk_00059770
+2. Trường hợp hành vi, quyết định của cơ quan, tổ chức, cá nhân trong hoạt động tư pháp có vi phạm pháp luật ít nghiêm trọng không thuộc trường hợp kháng nghị quy định tại khoản 1 Điều này thì Viện kiểm sát nhân dân kiến nghị cơ quan, tổ chức, cá nhân đó khắc phục vi phạm pháp luật và xử lý nghiêm minh người vi phạm pháp luật; nếu phát hiện sơ hở, thiếu sót trong hoạt động quản lý thì kiến nghị cơ quan, tổ chức hữu quan khắc phục và áp dụng các biện pháp phòng ngừa vi phạm pháp luật và tội phạm. Cơ quan, tổ chức, cá nhân liên quan có trách nhiệm xem xét, giải quyết, trả lời kiến nghị của Viện kiểm sát nhân dân theo quy định của pháp luật.
 
----
-
-
-### Điều 35.10.LQ.6. Các công tác của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 21. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị quyết định bắt giữ tàu biển để bảo đảm giải quyết khiếu nại hàng hải; Điều 34. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị quyết định trả lại đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời bắt giữ tàu biển; Điều 36. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị quyết định áp dụng biện pháp khẩn cấp tạm thời bắt giữ tàu biển; Điều 49. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị quyết định trả lại đơn yêu cầu bắt giữ tàu biển để thi hành án; Điều 51. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị quyết định bắt giữ tàu biển để thi hành án; Điều 66. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị quyết định bắt giữ tàu biển theo ủy thác tư pháp của Tòa án nước ngoài của Pháp lệnh 05/2008/PL-UBTVQH12 Thủ tục bắt giữ tàu biển ban hành ngày 27/08/2008; Điều 40.1.LQ.40. Quyết định dẫn độ; Điều 30.2.LQ.44. Xác minh điều kiện thi hành án; Điều 30.2.LQ.64. Kháng nghị quyết định của Tòa án về miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước; Điều 30.2.LQ.160. Quyền kháng nghị của Viện kiểm sát; Điều 30.2.LQ.161. Trả lời kháng nghị của Viện kiểm sát; Điều 37.2.LQ.36. Đề nghị xem xét lại, kiến nghị việc trả lại đơn yêu cầu mở thủ tục phá sản; Điều 37.2.LQ.44. Giải quyết đề nghị xem xét lại, kháng nghị quyết định mở hoặc không mở thủ tục phá sản; Điều 37.2.LQ.85. Đề nghị, kiến nghị xem xét lại và giải quyết đề nghị, kiến nghị xem xét lại Nghị quyết của Hội nghị chủ nợ; Điều 37.2.LQ.111. Đề nghị xem xét lại, kháng nghị quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản; Điều 37.2.LQ.113. Xem xét đơn đề nghị, kiến nghị theo thủ tục đặc biệt; Điều 35.10.LQ.9. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động của Viện kiểm sát nhân dân; Điều 37.5.LQ.41. Chuyển vụ việc dân sự cho Tòa án khác; giải quyết tranh chấp về thẩm quyền; Điều 37.5.LQ.58. Nhiệm vụ, quyền hạn của Kiểm sát viên; Điều 37.5.LQ.140. Khiếu nại, kiến nghị về quyết định áp dụng, thay đổi, hủy bỏ hoặc không áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời; Điều 37.5.LQ.141. Giải quyết khiếu nại, kiến nghị về quyết định áp dụng, thay đổi, hủy bỏ hoặc không áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời; Điều 37.5.LQ.194. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị về việc trả lại đơn khởi kiện; Điều 37.5.LQ.278. Kháng nghị của Viện kiểm sát; Điều 37.5.LQ.285. Thụ lý vụ án để xét xử phúc thẩm; Điều 37.5.LQ.319. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị về quyết định đưa vụ án ra xét xử theo thủ tục rút gọn; Điều 37.5.LQ.331. Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm; Điều 37.5.LQ.339. Thời hạn mở phiên tòa giám đốc thẩm; Điều 37.5.LQ.354. Người có thẩm quyền kháng nghị theo thủ tục tái thẩm; Điều 37.5.LQ.357. Áp dụng các quy định về thủ tục giám đốc thẩm; Điều 37.5.LQ.358. Yêu cầu, kiến nghị, đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao; Điều 37.5.LQ.359. Thủ tục xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao; Điều 37.5.LQ.371. Kháng cáo, kháng nghị quyết định giải quyết việc dân sự; Điều 37.5.LQ.373. Chuẩn bị xét kháng cáo, kháng nghị; Điều 37.5.LQ.412. Quyết định về tính hợp pháp của cuộc đình công; Điều 37.5.LQ.413. Trình tự, thủ tục giải quyết kháng cáo, kháng nghị quyết định về tính hợp pháp của cuộc đình công; Điều 37.5.LQ.426. Bảo đảm quyền kháng cáo, kháng nghị; Điều 37.5.LQ.442. Kháng cáo, kháng nghị; Điều 37.5.LQ.443. Xét kháng cáo, kháng nghị; Điều 37.5.LQ.450. Gửi quyết định của Tòa án và việc kháng cáo, kháng nghị; Điều 37.5.LQ.456. Chuyển hồ sơ cho Tòa án khác, giải quyết tranh chấp về thẩm quyền; Điều 37.5.LQ.461. Kháng cáo, kháng nghị; Điều 37.5.LQ.462. Xét kháng cáo, kháng nghị; Điều 37.5.LQ.515. Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng dân sự; Điều 37.6.LQ.34. Chuyển vụ án cho Tòa án khác, giải quyết tranh chấp về thẩm quyền; Điều 37.6.LQ.42. Nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát; Điều 37.6.LQ.76. Khiếu nại, kiến nghị việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời; Điều 37.6.LQ.77. Giải quyết khiếu nại, kiến nghị việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời; Điều 37.6.LQ.124. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị về việc trả lại đơn khởi kiện; Điều 37.6.LQ.217. Thụ lý vụ án để xét xử phúc thẩm; Điều 37.6.LQ.243. Thủ tục phúc thẩm đối với quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị; Điều 37.6.LQ.248. Khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị về quyết định đưa vụ án ra giải quyết theo thủ tục rút gọn; Điều 37.6.LQ.268. Thời hạn mở phiên tòa giám đốc thẩm; Điều 37.6.LQ.286. Áp dụng các quy định của thủ tục giám đốc thẩm; Điều 37.6.LQ.287. Yêu cầu, kiến nghị, đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao; Điều 37.6.LQ.289. Thời hạn mở phiên họp và thông báo mở phiên họp xem xét kiến nghị, đề nghị; Điều 37.6.LQ.315. Kiểm sát việc thi hành bản án, quyết định của Tòa án; Điều 37.6.LQ.343. Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng hành chính; Điều 37.7.LQ.41. Nhiệm vụ, quyền hạn và trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát; Điều 37.7.LQ.181. Tạm đình chỉ chức vụ bị can đang đảm nhiệm; Điều 37.7.LQ.237. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát trong giai đoạn truy tố; Điều 37.7.LQ.267. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát xét xử; Điều 37.7.LQ.336. Kháng nghị của Viện kiểm sát; Điều 37.7.LQ.340. Thụ lý vụ án; Điều 37.7.LQ.385. Thời hạn mở phiên tòa giám đốc thẩm; Điều 37.7.LQ.403. Các thủ tục khác về tái thẩm; Điều 37.7.LQ.404. Yêu cầu, kiến nghị, đề nghị xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao; Điều 37.7.LQ.453. Khiếu nại, kháng cáo, kháng nghị; Điều 37.7.LQ.457. Quyết định áp dụng thủ tục rút gọn; Điều 37.7.LQ.483. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát việc giải quyết khiếu nại, tố cáo; Điều 37.3.PL.22. Kiến nghị và giải quyết kiến nghị về quyết định bắt giữ tàu bay theo yêu cầu của người có quyền, lợi ích đối với tàu bay; Điều 37.3.PL.29. Kiến nghị và giải quyết kiến nghị về quyết định thả tàu bay đang bị bắt giữ theo yêu cầu của người có quyền, lợi ích đối với tàu bay; Điều 37.3.PL.40. Kiến nghị và giải quyết kiến nghị về quyết định bắt giữ tàu bay để thi hành án; Điều 37.3.PL.47. Kiến nghị và giải quyết kiến nghị về quyết định thả tàu bay đang bị bắt giữ để thi hành án; Điều 29. Các quyết định của Tòa án có thể bị khiếu nại, kiến nghị, kháng nghị; Điều 30. Người có quyền khiếu nại, kiến nghị, kháng nghị đối với quyết định của Tòa án của Pháp lệnh 09/2014/UBTVQH13 Trình tự, thủ tục xem xét, quyết định áp dụng các biện pháp xử lý hành chính tại Tòa án nhân dân ban hành ngày 20/01/2014)
 
 Điều 35.10.LQ.6. Các công tác của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000600000000000000000
+1. Viện kiểm sát nhân dân thực hiện chức năng thực hành quyền công tố bằng các công tác sau đây:
 
-**ID:** dk_00059771
+a) Thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;
 
----
+b) Thực hành quyền công tố trong giai đoạn khởi tố, điều tra vụ án hình sự;
 
+c) Thực hành quyền công tố trong giai đoạn truy tố tội phạm;
 
-### Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân
+d) Thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự;
+
+đ) Điều tra một số loại tội phạm;
+
+e) Thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự.
+
+2. Viện kiểm sát nhân dân thực hiện chức năng kiểm sát hoạt động tư pháp bằng các công tác sau đây:
+
+a) Kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;
+
+b) Kiểm sát việc khởi tố, điều tra vụ án hình sự;
+
+c) Kiểm sát việc tuân theo pháp luật của người tham gia tố tụng trong giai đoạn truy tố;
+
+d) Kiểm sát việc xét xử vụ án hình sự;
+
+đ) Kiểm sát việc tạm giữ, tạm giam, thi hành án hình sự;
+
+e) Kiểm sát việc giải quyết các vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật;
+
+g) Kiểm sát việc thi hành án dân sự, thi hành án hành chính;
+
+h) Kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp của các cơ quan có thẩm quyền theo quy định của pháp luật; giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền;
+
+i) Kiểm sát hoạt động tương trợ tư pháp.
+
+3. Các công tác khác của Viện kiểm sát nhân dân gồm có:
+
+a) Thống kê tội phạm; xây dựng pháp luật; phổ biến, giáo dục pháp luật;
+
+b) Đào tạo, bồi dưỡng; nghiên cứu khoa học; hợp tác quốc tế và các công tác khác để xây dựng Viện kiểm sát nhân dân.
+
+(Điều này có nội dung liên quan đến Điều 232. Quyết định về tính hợp pháp của cuộc đình công của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012; Điều 40.1.LQ.64. Trách nhiệm của Viện kiểm sát nhân dân tối cao; Điều 40.1.LQ.69. Trách nhiệm của Viện kiểm sát nhân dân cấp tỉnh; Điều 30.2.LQ.12. Giám sát và kiểm sát việc thi hành án; Điều 30.2.LQ.159. Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự; Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước; Điều 35.10.LQ.3. Chức năng thực hành quyền công tố của Viện kiểm sát nhân dân; Điều 35.10.LQ.4. Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân; Điều 44.1.LQ.1. Phạm vi điều chỉnh của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015; Điều 9.1.LQ.1. Phạm vi điều chỉnh; Điều 37.7.LQ.163. Thẩm quyền điều tra; Điều 39.13.PL.1.4. Kiểm sát việc xem xét, quyết định áp dụng biện pháp xử lý hành chính của Pháp lệnh 09/2014/UBTVQH13 Trình tự, thủ tục xem xét, quyết định áp dụng các biện pháp xử lý hành chính tại Tòa án nhân dân ban hành ngày 20/01/2014)
 
 Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000700000000000000000
+1. Viện kiểm sát nhân dân do Viện trưởng lãnh đạo. Viện trưởng Viện kiểm sát nhân dân cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát nhân dân cấp trên. Viện trưởng các Viện kiểm sát cấp dưới chịu sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059772
+Viện kiểm sát cấp trên có trách nhiệm kiểm tra, xử lý nghiêm minh vi phạm pháp luật của Viện kiểm sát cấp dưới. Viện trưởng Viện kiểm sát cấp trên có quyền rút, đình chỉ, hủy bỏ quyết định trái pháp luật của Viện trưởng Viện kiểm sát cấp dưới.
 
----
+2. Tại Viện kiểm sát nhân dân tối cao, Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương, Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương thành lập Ủy ban kiểm sát để thảo luận và quyết định theo đa số những vấn đề quan trọng, cho ý kiến về các vụ án, vụ việc trước khi Viện trưởng quyết định theo quy định tại các Điều 43, 45, 47, 53 và 55 của Luật này.
 
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.43. Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao; Điều 35.10.LQ.45. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao; Điều 35.10.LQ.47. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh; Điều 35.10.LQ.53. Ủy ban kiểm sát Viện kiểm sát quân sự trung ương; Điều 35.10.LQ.55. Ủy ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương)
 
-### Điều 35.10.TT.1.3. Nguyên tắc thực hiện
+Điều 35.10.TT.1.3. Nguyên tắc thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Chỉ mục:** 3
+1. Bảo đảm sự lãnh đạo của cấp ủy, tổ chức đảng; sự chỉ đạo, hướng dẫn của cơ quan chính trị các cấp.
 
-**Mã phân cấp:** 3501000000000000100000700500000000000000
+2. Thực hiện thống nhất theo các quy định của Nhà nước, Quân đội và Viện Kiểm sát nhân dân.
 
-**ID:** dk_00059773
+3. Đảm bảo đúng nguồn, tiêu chuẩn, quy trình; công khai, khách quan, dân chủ; có nhu cầu biên chế.
 
----
-
-
-### Điều 35.10.LQ.8. Trách nhiệm phối hợp của Viện kiểm sát nhân dân
+4. Theo quy trình phát triển từ Viện kiểm sát quân sự cấp dưới lên Viện kiểm sát quân sự cấp trên qua tuyển chọn, sắp xếp, bố trí theo quy hoạch.
 
 Điều 35.10.LQ.8. Trách nhiệm phối hợp của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000800000000000000000
+Trong phạm vi chức năng, nhiệm vụ của mình, Viện kiểm sát nhân dân có trách nhiệm phối hợp với cơ quan Công an, Tòa án, Thi hành án, Thanh tra, Kiểm toán, các cơ quan nhà nước khác, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận để phòng, chống tội phạm có hiệu quả; xử lý kịp thời, nghiêm minh các loại tội phạm và vi phạm pháp luật trong hoạt động tư pháp; phổ biến, giáo dục pháp luật; xây dựng pháp luật; đào tạo, bồi dưỡng; nghiên cứu tội phạm và vi phạm pháp luật.
 
-**ID:** dk_00059774
-
----
-
-
-### Điều 35.10.LQ.9. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước; Điều 1. Phạm vi điều chỉnh của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015)
 
 Điều 35.10.LQ.9. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100000900000000000000000
+1. Cơ quan, tổ chức, cá nhân hữu quan phải nghiêm chỉnh chấp hành các quyết định, yêu cầu, kiến nghị, kháng nghị của Viện kiểm sát nhân dân; có quyền kiến nghị, khiếu nại, tố cáo các hành vi, quyết định trái pháp luật của Viện kiểm sát nhân dân; Viện kiểm sát nhân dân phải giải quyết, trả lời theo quy định của pháp luật.
 
-**ID:** dk_00059775
+2. Khi có căn cứ cho rằng hành vi, quyết định của Viện kiểm sát nhân dân không có căn cứ, trái pháp luật thì Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, Tòa án và Cơ quan thi hành án có quyền kiến nghị, yêu cầu Viện kiểm sát nhân dân xem xét lại. Viện kiểm sát nhân dân phải giải quyết, trả lời theo quy định của pháp luật.
 
----
+3. Nghiêm cấm cơ quan, tổ chức, cá nhân cản trở, can thiệp vào hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân; lợi dụng quyền khiếu nại, tố cáo để vu khống cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân.
 
-
-### Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân; Điều 33. Trách nhiệm giải quyết kiến nghị của cử tri của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao của Nghị quyết liên tịch 525/2012/NQLT/UBTVQH13-ĐCTUBTWMTTQVN Về việc tiếp xúc cử tri của Đại biểu Quốc hội ban hành ngày 27/09/2012)
 
 Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100001000000000000000000
+Quốc hội, các cơ quan của Quốc hội, đại biểu Quốc hội, Đoàn đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động của Viện kiểm sát nhân dân theo quy định của pháp luật.
 
-**ID:** dk_00059776
-
----
-
-
-### Điều 35.10.LQ.11. Ngày truyền thống, phù hiệu của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 35.8.LQ.6. Giám sát tối cao của Quốc hội; Điều 35.8.LQ.32. Quyền chất vấn; Điều 35.8.LQ.43. Đoàn đại biểu Quốc hội; Điều 35.8.LQ.50. Giám sát của Ủy ban thường vụ Quốc hội; Điều 35.8.LQ.81. Yêu cầu báo cáo, cung cấp tài liệu, cử thành viên đến xem xét, xác minh; Điều 35.8.LQ.82. Giải trình tại phiên họp Hội đồng dân tộc, Ủy ban của Quốc hội; Điều 35.4.LQ.26. Đối tượng, nội dung, phạm vi giám sát; Điều 35.4.LQ.27. Hình thức giám sát; Điều 35.4.LQ.28. Quyền và trách nhiệm của Mặt trận Tổ quốc Việt Nam trong hoạt động giám sát; Điều 96. Quyền chất vấn của đại biểu Hội đồng nhân dân của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015; Điều 26.3.LQ.19. Nhiệm vụ, quyền hạn của Quốc hội; Điều 35.3.LQ.4. Thẩm quyền giám sát của Quốc hội; Điều 35.3.LQ.5. Thẩm quyền giám sát của Hội đồng nhân dân; Điều 35.3.LQ.13. Xem xét báo cáo)
 
 Điều 35.10.LQ.11. Ngày truyền thống, phù hiệu của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 11
+(Điều 11 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000100001100000000000000000
+1. Ngày truyền thống của Viện kiểm sát nhân dân là ngày 26 tháng 7 hằng năm.
 
-**ID:** dk_00059777
+2. Phù hiệu của Viện kiểm sát nhân dân hình tròn, nền đỏ, viền vàng, có tia chìm ly tâm; ở giữa có hình ngôi sao năm cánh nổi màu vàng; hai bên có hình bông lúa; ở dưới có hình thanh kiếm lá chắn; trên nền lá chắn có nửa bánh xe răng màu xanh thẫm và các chữ “KS” màu bạch kim; nửa dưới phù hiệu có hình dải lụa đỏ bao quanh, phía trước có dòng chữ “Cộng hòa xã hội chủ nghĩa Việt Nam”.
 
----
+Chương II
 
+CÁC CÔNG TÁC THỰC HIỆN CHỨC NĂNG, NHIỆM VỤ CỦA VIỆN KIỂM SÁT NHÂN DÂN
 
-### Điều 35.10.LQ.12. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố
+Mục 1
+
+THỰC HÀNH QUYỀN CÔNG TỐ, KIỂM SÁT VIỆC TIẾP NHẬN, GIẢI QUYẾT TỐ GIÁC, TIN BÁO VỀ TỘI PHẠM VÀ KIẾN NGHỊ KHỞI TỐ
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.12. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố
 
-**Chỉ mục:** 12
+(Điều 12 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000001000000000000000001200000000000000000
+1. Phê chuẩn, không phê chuẩn việc bắt người trong trường hợp khẩn cấp, gia hạn tạm giữ và các biện pháp khác hạn chế quyền con người, quyền công dân trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.
 
-**ID:** dk_00059780
+2. Hủy bỏ quyết định tạm giữ, các quyết định tố tụng khác trái pháp luật của cơ quan có thẩm quyền trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.
 
----
+3. Khi cần thiết đề ra yêu cầu kiểm tra, xác minh và yêu cầu cơ quan có thẩm quyền giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố thực hiện.
 
+4. Trực tiếp giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố trong trường hợp phát hiện có vi phạm pháp luật nghiêm trọng hoặc có dấu hiệu bỏ lọt tội phạm mà Viện kiểm sát nhân dân đã yêu cầu nhưng không được khắc phục.
 
-### Điều 35.10.LQ.13. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố
+5. Thực hiện nhiệm vụ, quyền hạn khác để thực hành quyền công tố theo quy định của Bộ luật tố tụng hình sự nhằm chống bỏ lọt tội phạm, chống làm oan người vô tội.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương; Điều 37.7.LQ.145. Trách nhiệm tiếp nhận và thẩm quyền giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.LQ.159. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong việc giải quyết nguồn tin về tội phạm)
 
 Điều 35.10.LQ.13. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000001000000000000000001300000000000000000
+1. Tiếp nhận đầy đủ tố giác, tin báo về tội phạm và kiến nghị khởi tố do các cơ quan, tổ chức, cá nhân chuyển đến và chuyển ngay cho Cơ quan điều tra có thẩm quyền giải quyết.
 
-**ID:** dk_00059781
+2. Kiểm sát việc tuân theo pháp luật của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong việc tiếp nhận tố giác, tin báo về tội phạm và kiến nghị khởi tố. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm thông báo đầy đủ, kịp thời tố giác, tin báo về tội phạm và kiến nghị khởi tố đã tiếp nhận cho Viện kiểm sát nhân dân.
 
----
+3. Trực tiếp kiểm sát; kiểm sát việc kiểm tra, xác minh, lập hồ sơ và kết quả giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm thông báo đầy đủ, kịp thời kết quả xác minh, giải quyết cho Viện kiểm sát nhân dân.
 
+4. Khi phát hiện việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố không đầy đủ, vi phạm pháp luật thì Viện kiểm sát nhân dân yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện các hoạt động sau đây:
 
-### Điều 35.10.LQ.14. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự
+a) Tiếp nhận, kiểm tra, xác minh, ra quyết định giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố đầy đủ, đúng pháp luật;
+
+b) Kiểm tra việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và thông báo kết quả cho Viện kiểm sát nhân dân;
+
+c) Cung cấp tài liệu về vi phạm pháp luật trong việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;
+
+d) Khắc phục vi phạm pháp luật và xử lý nghiêm người vi phạm.
+
+5. Giải quyết các tranh chấp về thẩm quyền giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.
+
+6. Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương; Điều 16.1.LQ.375. Tội làm sai lệch hồ sơ vụ án, vụ việc; Điều 37.7.LQ.150. Giải quyết tranh chấp về thẩm quyền giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.LQ.160. Nhiệm vụ, quyền hạn của Viện kiểm sát trong việc tiếp nhận và kiểm sát việc giải quyết nguồn tin về tội phạm)
+
+Mục 2
+
+THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT ĐIỀU TRA VỤ ÁN HÌNH SỰ
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.14. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự
 
-**Chỉ mục:** 14
+(Điều 14 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000002000000000000000001400000000000000000
+1. Yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khởi tố hoặc thay đổi, bổ sung quyết định khởi tố vụ án, khởi tố bị can.
 
-**ID:** dk_00059783
+2. Hủy bỏ các quyết định khởi tố, quyết định thay đổi hoặc bổ sung quyết định khởi tố vụ án, quyết định không khởi tố vụ án trái pháp luật; phê chuẩn, hoặc hủy bỏ quyết định khởi tố, quyết định thay đổi hoặc bổ sung quyết định khởi tố bị can trái pháp luật.
 
----
+3. Khởi tố, thay đổi, bổ sung quyết định khởi tố vụ án, khởi tố bị can trong những trường hợp do Bộ luật tố tụng hình sự quy định.
 
+4. Phê chuẩn, không phê chuẩn việc bắt người trong trường hợp khẩn cấp, gia hạn tạm giữ, việc tạm giam và các biện pháp khác hạn chế quyền con người, quyền công dân.
 
-### Điều 35.10.LQ.15. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát điều tra vụ án hình sự
+5. Quyết định áp dụng, thay đổi, hủy bỏ biện pháp bắt, tạm giữ, tạm giam, các biện pháp ngăn chặn và các biện pháp khác hạn chế quyền con người, quyền công dân theo quy định của luật.
+
+6. Phê chuẩn, không phê chuẩn, hủy bỏ các quyết định tố tụng khác của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.
+
+7. Đề ra yêu cầu điều tra và yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện việc điều tra để làm rõ tội phạm, người phạm tội; yêu cầu Cơ quan điều tra truy nã bị can.
+
+8. Trực tiếp tiến hành một số hoạt động điều tra trong trường hợp để kiểm tra, bổ sung tài liệu, chứng cứ khi xét phê chuẩn các lệnh, quyết định của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra hoặc trong trường hợp phát hiện có dấu hiệu oan, sai, bỏ lọt tội phạm, vi phạm pháp luật mà Viện kiểm sát nhân dân đã yêu cầu nhưng không được khắc phục.
+
+9. Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện hành vi của người có thẩm quyền trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong việc khởi tố, điều tra có dấu hiệu tội phạm.
+
+10. Quyết định việc gia hạn thời hạn điều tra, thời hạn tạm giam, chuyển vụ án, áp dụng thủ tục rút gọn, áp dụng biện pháp bắt buộc chữa bệnh.
+
+11. Thực hiện nhiệm vụ, quyền hạn khác trong việc thực hành quyền công tố theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương; Điều 35.10.LQ.32. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự; Điều 37.7.LQ.161. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố và kiểm sát việc khởi tố vụ án hình sự; Điều 37.7.LQ.165. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự)
 
 Điều 35.10.LQ.15. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát điều tra vụ án hình sự
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000002000000000000000001500000000000000000
+1. Kiểm sát việc tuân theo pháp luật trong việc khởi tố, điều tra và lập hồ sơ vụ án của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.
 
-**ID:** dk_00059784
+2. Kiểm sát hoạt động tố tụng hình sự của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.
 
----
+3. Giải quyết tranh chấp về thẩm quyền điều tra.
 
+4. Yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra cung cấp tài liệu liên quan để kiểm sát việc tuân theo pháp luật trong việc khởi tố, điều tra khi cần thiết.
 
-### Điều 35.10.LQ.16. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn truy tố
+5. Kiến nghị, yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khắc phục vi phạm trong việc khởi tố, điều tra.
+
+6. Yêu cầu Thủ trưởng Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thay đổi Điều tra viên, cán bộ điều tra; xử lý nghiêm minh Điều tra viên, cán bộ điều tra vi phạm pháp luật trong hoạt động tố tụng.
+
+7. Kiến nghị cơ quan, tổ chức hữu quan áp dụng biện pháp phòng ngừa tội phạm và vi phạm pháp luật.
+
+8. Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát điều tra vụ án hình sự theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương; Điều 16.1.LQ.4. Trách nhiệm phòng ngừa và đấu tranh chống tội phạm; Điều 37.7.LQ.161. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố và kiểm sát việc khởi tố vụ án hình sự; Điều 37.7.LQ.166. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát điều tra vụ án hình sự)
+
+Mục 3
+
+THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯ PHÁP TRONG GIAI ĐOẠN TRUY TỐ
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.16. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn truy tố
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000003000000000000000001600000000000000000
+1. Quyết định áp dụng, thay đổi, hủy bỏ biện pháp bắt, tạm giữ, tạm giam, các biện pháp khác hạn chế quyền con người, quyền công dân theo quy định của luật; yêu cầu Cơ quan điều tra truy nã bị can.
 
-**ID:** dk_00059786
+2. Yêu cầu cơ quan, tổ chức, cá nhân cung cấp tài liệu liên quan đến vụ án trong trường hợp cần thiết.
 
----
+3. Trực tiếp tiến hành một số hoạt động điều tra nhằm kiểm tra, bổ sung tài liệu, chứng cứ để quyết định việc truy tố hoặc khi Tòa án yêu cầu điều tra bổ sung mà xét thấy không cần phải trả hồ sơ cho Cơ quan điều tra.
 
+4. Quyết định khởi tố, thay đổi, bổ sung quyết định khởi tố vụ án, khởi tố bị can trong trường hợp phát hiện vụ án còn có hành vi phạm tội, người phạm tội khác chưa được khởi tố, điều tra và trả hồ sơ cho Cơ quan điều tra để điều tra bổ sung.
 
-### Điều 35.10.LQ.17. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tư pháp trong giai đoạn truy tố
+5. Quyết định việc tách, nhập vụ án, chuyển vụ án để truy tố theo thẩm quyền, áp dụng thủ tục rút gọn, áp dụng biện pháp bắt buộc chữa bệnh.
+
+6. Quyết định gia hạn, không gia hạn thời hạn truy tố, thời hạn áp dụng các biện pháp ngăn chặn.
+
+7. Quyết định truy tố, không truy tố bị can.
+
+8. Quyết định đình chỉ, tạm đình chỉ vụ án, bị can; quyết định phục hồi vụ án, bị can.
+
+9. Thực hiện nhiệm vụ, quyền hạn khác để quyết định việc truy tố theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.32. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự; Điều 37.7.LQ.236. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn truy tố)
 
 Điều 35.10.LQ.17. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tư pháp trong giai đoạn truy tố
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000003000000000000000001700000000000000000
+1. Kiểm sát hoạt động tố tụng hình sự của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.
 
-**ID:** dk_00059787
+2. Kiến nghị cơ quan, tổ chức hữu quan áp dụng biện pháp phòng ngừa tội phạm và vi phạm pháp luật.
 
----
+3. Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát hoạt động tư pháp theo quy định của Bộ luật tố tụng hình sự.
 
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.237. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát trong giai đoạn truy tố)
 
-### Điều 35.10.LQ.18. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự
+Mục 4
+
+THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT XÉT XỬ VỤ ÁN HÌNH SỰ
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.18. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự
 
-**Chỉ mục:** 18
+(Điều 18 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000004000000000000000001800000000000000000
+1. Công bố cáo trạng hoặc quyết định truy tố theo thủ tục rút gọn, quyết định khác về việc buộc tội đối với bị cáo tại phiên tòa.
 
-**ID:** dk_00059789
+2. Xét hỏi, luận tội, tranh luận, phát biểu quan điểm về việc giải quyết vụ án tại phiên tòa.
 
----
+3. Kháng nghị bản án, quyết định của Tòa án trong trường hợp phát hiện oan, sai, bỏ lọt tội phạm, người phạm tội.
 
+4. Thực hiện nhiệm vụ, quyền hạn khác trong việc buộc tội theo quy định của Bộ luật tố tụng hình sự.
 
-### Điều 35.10.LQ.19. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát xét xử vụ án hình sự
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.32. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự; Điều 37.7.LQ.266. Nhiệm vụ, quyền hạn của Viện kiểm sát khi thực hành quyền công tố trong giai đoạn xét xử)
 
 Điều 35.10.LQ.19. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát xét xử vụ án hình sự
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000004000000000000000001900000000000000000
+1. Kiểm sát việc tuân theo pháp luật trong việc xét xử các vụ án hình sự của Tòa án.
 
-**ID:** dk_00059790
+2. Kiểm sát bản án, quyết định của Tòa án.
 
----
+3. Kiểm sát hoạt động tố tụng hình sự của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.
 
+4. Yêu cầu Tòa án cùng cấp, cấp dưới chuyển hồ sơ vụ án hình sự để xem xét, quyết định việc kháng nghị.
 
-### Điều 35.10.LQ.20. Thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương
+5. Kháng nghị bản án, quyết định của Tòa án có vi phạm nghiêm trọng về thủ tục tố tụng.
+
+6. Thực hiện quyền yêu cầu, kiến nghị và nhiệm vụ, quyền hạn khác trong kiểm sát xét xử vụ án hình sự theo quy định của Bộ luật tố tụng hình sự.
+
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.267. Nhiệm vụ, quyền hạn của Viện kiểm sát khi kiểm sát xét xử)
+
+Mục 5
+
+CÔNG TÁC ĐIỀU TRA CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.20. Thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000005000000000000000002000000000000000000
+Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương điều tra tội phạm xâm phạm hoạt động tư pháp, tội phạm về tham nhũng, chức vụ xảy ra trong hoạt động tư pháp theo quy định của luật mà người phạm tội là cán bộ, công chức thuộc Cơ quan điều tra, Tòa án, Viện kiểm sát nhân dân, cơ quan thi hành án, người có thẩm quyền tiến hành hoạt động tư pháp.
 
-**ID:** dk_00059792
-
----
-
-
-### Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương
+(Điều này có nội dung liên quan đến Điều 37.7.LQ.163. Thẩm quyền điều tra)
 
 Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000005000000000000000002100000000000000000
+Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương thực hành quyền công tố và kiểm sát việc tuân theo pháp luật trong việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; việc khởi tố, điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương theo quy định tại các Điều 12, 13, 14 và 15 của Luật này và quy định của Bộ luật tố tụng hình sự.
 
-**ID:** dk_00059793
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.12. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; Điều 35.10.LQ.13. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; Điều 35.10.LQ.14. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự; Điều 35.10.LQ.15. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát điều tra vụ án hình sự)
 
----
+Mục 6
 
+KIỂM SÁT VIỆC TẠM GIỮ, TẠM GIAM, THI HÀNH ÁN HÌNH SỰ
 
-### Điều 35.10.LQ.22. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tạm giữ, tạm giam
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.22. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tạm giữ, tạm giam
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000006000000000000000002200000000000000000
+1. Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật của cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam.
 
-**ID:** dk_00059795
+2. Khi kiểm sát việc tạm giữ, tạm giam, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:
 
----
+a) Trực tiếp kiểm sát tại nhà tạm giữ, trại tạm giam; hỏi người bị tạm giữ, tạm giam về việc tạm giữ, tạm giam;
 
+b) Kiểm sát hồ sơ tạm giữ, tạm giam;
 
-### Điều 35.10.LQ.23. Giải quyết khiếu nại, tố cáo trong hoạt động tạm giữ, tạm giam
+c) Yêu cầu Trưởng nhà tạm giữ, Giám thị trại tạm giam tự kiểm tra việc tạm giữ, tạm giam và thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu có liên quan đến việc tạm giữ, tạm giam; thông báo tình hình tạm giữ, tạm giam; trả lời về quyết định, biện pháp hoặc việc làm vi phạm pháp luật trong việc tạm giữ, tạm giam;
+
+d) Quyết định trả tự do ngay cho người bị tạm giữ, tạm giam không có căn cứ và trái pháp luật;
+
+đ) Kháng nghị, kiến nghị, yêu cầu cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam đình chỉ việc thi hành, sửa đổi hoặc bãi bỏ quyết định có vi phạm pháp luật trong việc tạm giữ, tạm giam, chấm dứt hành vi vi phạm pháp luật và yêu cầu xử lý người vi phạm pháp luật;
+
+e) Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện vụ việc có dấu hiệu tội phạm trong tạm giữ, tạm giam theo quy định của pháp luật;
+
+g) Giải quyết khiếu nại, tố cáo và thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát việc tạm giữ, tạm giam theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.24. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam; Điều 37.10.LQ.42. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát quản lý, thi hành tạm giữ, tạm giam)
 
 Điều 35.10.LQ.23. Giải quyết khiếu nại, tố cáo trong hoạt động tạm giữ, tạm giam
 
-**Chỉ mục:** 23
+(Điều 23 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000006000000000000000002300000000000000000
+1. Viện kiểm sát nhân dân có trách nhiệm giải quyết khiếu nại, tố cáo trong hoạt động tạm giữ, tạm giam.
 
-**ID:** dk_00059796
+2. Cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam phải chuyển cho Viện kiểm sát nhân dân khiếu nại, tố cáo của người bị tạm giữ, tạm giam trong thời hạn 24 giờ, kể từ khi nhận được khiếu nại, tố cáo.
 
----
+3. Viện trưởng Viện kiểm sát nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Viện trưởng Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương, Viện trưởng Viện kiểm sát quân sự khu vực, Viện trưởng Viện kiểm sát quân sự quân khu và tương đương giải quyết khiếu nại đối với quyết định, hành vi trái pháp luật trong việc tạm giữ, tạm giam của cơ quan, người có thẩm quyền thuộc trách nhiệm kiểm sát của mình.
 
+Viện trưởng Viện kiểm sát cấp trên có thẩm quyền giải quyết khiếu nại đối với việc giải quyết khiếu nại của Viện trưởng Viện kiểm sát cấp dưới; quyết định giải quyết khiếu nại của Viện trưởng Viện kiểm sát cấp trên là quyết định có hiệu lực pháp luật.
 
-### Điều 35.10.LQ.24. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam
+4. Viện trưởng Viện kiểm sát có thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc tạm giữ, tạm giam của người có thẩm quyền thuộc trách nhiệm kiểm sát của mình.
+
+Trường hợp hết thời hạn pháp luật quy định mà tố cáo không được giải quyết thì Viện trưởng Viện kiểm sát cấp trên có thẩm quyền giải quyết tố cáo; kết luận nội dung tố cáo của Viện trưởng Viện kiểm sát cấp trên là kết luận cuối cùng.
+
+(Điều này có nội dung liên quan đến Điều 37.10.LQ.60. Thẩm quyền, thủ tục, thời hạn giải quyết tố cáo)
 
 Điều 35.10.LQ.24. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000006000000000000000002400000000000000000
+1. Trưởng nhà tạm giữ, Giám thị trại tạm giam có trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định sau đây của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam:
 
-**ID:** dk_00059797
+a) Yêu cầu cung cấp hồ sơ, tài liệu có liên quan đến việc tạm giữ, tạm giam phải được thực hiện ngay; yêu cầu thông báo tình hình tạm giữ, tạm giam, yêu cầu trả lời về quyết định, biện pháp hoặc việc làm vi phạm pháp luật trong việc tạm giữ, tạm giam được thực hiện trong thời hạn 15 ngày; yêu cầu tự kiểm tra việc tạm giữ, tạm giam và thông báo kết quả cho Viện kiểm sát nhân dân được thực hiện trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu;
 
----
+b) Quyết định quy định tại điểm d khoản 2 Điều 22 của Luật này phải được thi hành ngay; nếu không nhất trí với quyết định đó thì vẫn phải thi hành, nhưng có quyền khiếu nại lên Viện kiểm sát cấp trên có thẩm quyền. Trong thời hạn 10 ngày, kể từ ngày nhận được khiếu nại, Viện trưởng Viện kiểm sát cấp trên phải giải quyết;
 
+c) Kháng nghị quy định tại điểm đ khoản 2 Điều 22 của Luật này phải được giải quyết trong thời hạn 15 ngày, kể từ ngày nhận được kháng nghị; nếu không nhất trí với kháng nghị thì có quyền khiếu nại lên Viện kiểm sát cấp trên có thẩm quyền; Viện kiểm sát cấp trên phải giải quyết trong thời hạn 15 ngày, kể từ ngày nhận được khiếu nại; quyết định của Viện kiểm sát cấp trên là quyết định có hiệu lực pháp luật.
 
-### Điều 35.10.LQ.25. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc thi hành án hình sự
+2. Đối với kiến nghị quy định tại điểm đ khoản 2 Điều 22 của Luật này, cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết, trả lời theo quy định của pháp luật về tạm giữ, tạm giam.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.22. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tạm giữ, tạm giam; Điều 37.10.LQ.43. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong quản lý, thi hành tạm giữ, tạm giam)
 
 Điều 35.10.LQ.25. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc thi hành án hình sự
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000006000000000000000002500000000000000000
+1. Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật của Tòa án, cơ quan thi hành án hình sự, cơ quan, tổ chức được giao một số nhiệm vụ thi hành án hình sự, người có thẩm quyền, cơ quan, tổ chức, cá nhân có liên quan trong việc thi hành án hình sự.
 
-**ID:** dk_00059798
+2. Khi kiểm sát thi hành án hình sự, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:
 
----
+a) Yêu cầu Tòa án ra quyết định thi hành án hình sự; yêu cầu Tòa án, cơ quan thi hành án hình sự, cơ quan, tổ chức được giao một số nhiệm vụ thi hành án hình sự tự kiểm tra việc thi hành án hình sự và thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu có liên quan đến việc thi hành án hình sự;
 
+b) Trực tiếp kiểm sát việc thi hành án hình sự; kiểm sát hồ sơ thi hành án hình sự. Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương trực tiếp kiểm sát việc thi hành án phạt tù của trại giam đóng tại địa phương;
 
-### Điều 35.10.LQ.26. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc thi hành án hình sự
+c) Quyết định trả tự do ngay cho người đang chấp hành án phạt tù không có căn cứ và trái pháp luật;
+
+d) Đề nghị miễn, hoãn, tạm đình chỉ, đình chỉ chấp hành án; tham gia việc xét giảm, miễn thời hạn chấp hành án, chấp hành biện pháp tư pháp, rút ngắn thời gian thử thách;
+
+đ) Kháng nghị hành vi, quyết định có vi phạm pháp luật của cơ quan, người có thẩm quyền trong việc thi hành án hình sự;
+
+e) Kiến nghị, yêu cầu cơ quan, tổ chức, cá nhân chấm dứt, khắc phục vi phạm pháp luật trong thi hành án hình sự; xử lý nghiêm minh người vi phạm;
+
+g) Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện vụ việc có dấu hiệu tội phạm trong thi hành án hình sự theo quy định của pháp luật;
+
+h) Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát thi hành án hình sự theo quy định của pháp luật về thi hành án hình sự.
+
+(Điều này có nội dung liên quan đến Điều 110. Quyết định áp dụng biện pháp tư pháp; Điều 114. Nhiệm vụ, quyền hạn của Viện kiểm sát trong thi hành biện pháp tư pháp; Điều 119. Đình chỉ thi hành biện pháp bắt buộc chữa bệnh; Điều 135. Giải quyết trường hợp học sinh trường giáo dưỡng chết; Điều 141. Nhiệm vụ, quyền hạn của Viện kiểm sát trong kiểm sát thi hành án hình sự; Điều 142. Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo; Điều 152. Thẩm quyền giải quyết khiếu nại trong thi hành án hình sự; Điều 168. Thẩm quyền, thời hạn và thủ tục giải quyết tố cáo; Điều 174. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân tối cao trong thi hành án hình sự của Luật 53/2010/QH12 Thi hành án hình sự ban hành ngày 17/06/2010)
 
 Điều 35.10.LQ.26. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc thi hành án hình sự
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000006000000000000000002600000000000000000
+1. Đối với yêu cầu ra quyết định thi hành án hình sự đúng quy định của pháp luật, yêu cầu cung cấp hồ sơ, tài liệu có liên quan đến việc thi hành án hình sự, cơ quan, tổ chức, cá nhân được yêu cầu phải thực hiện ngay.
 
-**ID:** dk_00059799
+2. Đối với yêu cầu tự kiểm tra việc thi hành án hình sự và thông báo kết quả cho Viện kiểm sát nhân dân thì Tòa án, cơ quan thi hành án hình sự, cơ quan, tổ chức được giao một số nhiệm vụ thi hành án hình sự phải thực hiện trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu.
 
----
+3. Đối với kiến nghị, kháng nghị, quyết định, yêu cầu khác của Viện kiểm sát nhân dân trong việc thi hành án hình sự thì cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết, trả lời hoặc thi hành theo quy định của Luật thi hành án hình sự.
 
+(Điều này có nội dung liên quan đến Điều 143. Giải quyết kiến nghị, kháng nghị, yêu cầu, thi hành quyết định của Viện kiểm sát về thi hành án hình sự của Luật 53/2010/QH12 Thi hành án hình sự ban hành ngày 17/06/2010)
 
-### Điều 35.10.LQ.27. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật
+Mục 7
+
+KIỂM SÁT VIỆC GIẢI QUYẾT VỤ ÁN HÀNH CHÍNH, VỤ VIỆC DÂN SỰ, HÔN NHÂN VÀ GIA ĐÌNH, KINH DOANH, THƯƠNG MẠI, LAO ĐỘNG VÀ NHỮNG VIỆC KHÁC THEO QUY ĐỊNH CỦA PHÁP LUẬT; KIỂM SÁT THI HÀNH ÁN DÂN SỰ, THI HÀNH ÁN HÀNH CHÍNH
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.27. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000007000000000000000002700000000000000000
+1. Kiểm sát việc trả lại đơn khởi kiện, đơn yêu cầu.
 
-**ID:** dk_00059801
+2. Kiểm sát việc thụ lý, giải quyết vụ án, vụ việc.
 
----
+3. Thu thập tài liệu, chứng cứ trong trường hợp pháp luật quy định.
 
+4. Tham gia phiên tòa, phiên họp, phát biểu quan điểm của Viện kiểm sát nhân dân về việc giải quyết vụ án, vụ việc theo quy định của pháp luật.
 
-### Điều 35.10.LQ.28. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát thi hành án dân sự, thi hành án hành chính
+5. Kiểm sát bản án, quyết định của Tòa án.
+
+6. Kiểm sát hoạt động tố tụng của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.
+
+7. Kháng nghị, kiến nghị bản án, quyết định của Tòa án có vi phạm pháp luật; kiến nghị, yêu cầu Tòa án, cơ quan, tổ chức, cá nhân thực hiện hoạt động tố tụng.
+
+8. Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật.
 
 Điều 35.10.LQ.28. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát thi hành án dân sự, thi hành án hành chính
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000007000000000000000002800000000000000000
+1. Kiểm sát việc cấp, chuyển giao, giải thích, đính chính bản án, quyết định của Tòa án.
 
-**ID:** dk_00059802
+2. Trực tiếp kiểm sát việc thi hành án của cơ quan thi hành án dân sự cùng cấp và cấp dưới, Chấp hành viên, cơ quan, tổ chức và cá nhân có liên quan.
 
----
+3. Kiểm sát hồ sơ về thi hành án.
 
+4. Tham gia phiên họp, phát biểu quan điểm của Viện kiểm sát nhân dân về việc xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước.
 
-### Điều 35.10.LQ.29. Giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền của Viện kiểm sát nhân dân
+5. Kiểm sát hoạt động của cơ quan, tổ chức, cá nhân có liên quan trong việc thi hành án.
+
+6. Yêu cầu Tòa án, cơ quan thi hành án dân sự cùng cấp và cấp dưới, Chấp hành viên, cơ quan, tổ chức và cá nhân liên quan đến việc thi hành án thực hiện các việc sau đây:
+
+a) Ra quyết định thi hành án đúng quy định của pháp luật;
+
+b) Thi hành bản án, quyết định theo quy định của pháp luật;
+
+c) Tự kiểm tra việc thi hành án và thông báo kết quả cho Viện kiểm sát nhân dân;
+
+d) Cung cấp hồ sơ, tài liệu, vật chứng có liên quan đến việc thi hành án.
+
+Yêu cầu quy định tại các điểm a, b và d khoản này phải được thực hiện ngay; yêu cầu quy định tại điểm c khoản này phải được thực hiện trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu.
+
+7. Kiến nghị Tòa án, cơ quan thi hành án dân sự cùng cấp và cấp dưới, Chấp hành viên, cơ quan, tổ chức, cá nhân thực hiện đầy đủ trách nhiệm trong việc thi hành án.
+
+8. Kháng nghị quyết định của Tòa án, quyết định, hành vi của Thủ trưởng, Chấp hành viên cơ quan thi hành án dân sự cùng cấp và cấp dưới theo quy định của pháp luật; yêu cầu đình chỉ việc thi hành án, sửa đổi hoặc bãi bỏ quyết định có vi phạm pháp luật trong việc thi hành án, chấm dứt hành vi vi phạm pháp luật.
+
+9. Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát thi hành án dân sự, thi hành án hành chính theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự)
+
+Mục 8
+
+GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VÀ KIỂM SÁT VIỆC GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO TRONG HOẠT ĐỘNG TƯ PHÁP
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.29. Giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 29
+(Điều 29 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000008000000000000000002900000000000000000
+1. Viện kiểm sát nhân dân có thẩm quyền giải quyết các khiếu nại sau đây:
 
-**ID:** dk_00059804
+a) Khiếu nại hành vi, quyết định tố tụng của người có thẩm quyền của Viện kiểm sát nhân dân trong hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp;
 
----
+b) Khiếu nại hành vi, quyết định tố tụng của Thủ trưởng Cơ quan điều tra; kết quả giải quyết khiếu nại của Thủ trưởng Cơ quan điều tra đối với quyết định, hành vi tố tụng của Điều tra viên, Phó thủ trưởng Cơ quan điều tra;
 
+c) Khiếu nại hành vi, quyết định tố tụng của người có thẩm quyền thuộc cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra;
 
-### Điều 35.10.LQ.30. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp
+d) Khiếu nại trong hoạt động tạm giữ, tạm giam;
+
+đ) Khiếu nại hành vi, quyết định quản lý, giáo dục phạm nhân của người được giao quản lý, giáo dục phạm nhân;
+
+e) Khiếu nại khác theo quy định của pháp luật.
+
+2. Viện kiểm sát nhân dân có thẩm quyền giải quyết các tố cáo sau đây:
+
+a) Tố cáo hành vi vi phạm pháp luật của người có thẩm quyền của Viện kiểm sát nhân dân trong hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp;
+
+b) Tố cáo hành vi vi phạm pháp luật trong hoạt động của người có thẩm quyền tiến hành một số hoạt động điều tra;
+
+c) Tố cáo hành vi vi phạm pháp luật của người có thẩm quyền trong việc bắt, tạm giữ, tạm giam;
+
+d) Tố cáo hành vi vi phạm pháp luật của người được giao quản lý, giáo dục phạm nhân;
+
+đ) Tố cáo khác theo quy định của pháp luật.
+
+3. Khi giải quyết khiếu nại, tố cáo, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:
+
+a) Tiếp nhận, phân loại, thụ lý, kiểm tra, xác minh khiếu nại, tố cáo;
+
+b) Yêu cầu cơ quan, tổ chức, cá nhân giải trình, cung cấp hồ sơ, tài liệu có liên quan;
+
+c) Áp dụng biện pháp cần thiết nhằm ngăn chặn thiệt hại có thể xảy ra;
+
+d) Ra quyết định giải quyết khiếu nại, kết luận nội dung tố cáo;
+
+đ) Thông báo quyết định giải quyết khiếu nại, kết luận nội dung tố cáo cho người đã khiếu nại, tố cáo.
+
+(Điều này có nội dung liên quan đến Điều 37.10.LQ.60. Thẩm quyền, thủ tục, thời hạn giải quyết tố cáo)
 
 Điều 35.10.LQ.30. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000008000000000000000003000000000000000000
+1. Trực tiếp kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp tại cơ quan có thẩm quyền theo quy định của pháp luật.
 
-**ID:** dk_00059805
+2. Yêu cầu cơ quan có thẩm quyền ra quyết định giải quyết khiếu nại, kết luận nội dung tố cáo; kiểm tra việc giải quyết khiếu nại, tố cáo về hoạt động tư pháp của cấp mình và cấp dưới, thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu có liên quan cho Viện kiểm sát nhân dân.
 
----
-
-
-### Điều 35.10.LQ.31. Trách nhiệm báo cáo công tác giải quyết khiếu nại, tố cáo về hoạt động tư pháp của Viện kiểm sát nhân dân tối cao
+3. Ban hành kết luận kiểm sát, thực hiện quyền kiến nghị, kháng nghị theo quy định của pháp luật.
 
 Điều 35.10.LQ.31. Trách nhiệm báo cáo công tác giải quyết khiếu nại, tố cáo về hoạt động tư pháp của Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000008000000000000000003100000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân tối cao có trách nhiệm báo cáo Quốc hội công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp.
 
-**ID:** dk_00059806
+2. Định kỳ 06 tháng và hằng năm, Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp thông báo bằng văn bản cho Viện kiểm sát nhân dân tối cao về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp.
 
----
-
-
-### Điều 35.10.TL.3.4. Nguyên tắc thực hiện việc xây dựng và gửi báo cáo, thông báo
+Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp hướng dẫn thực hiện quy định tại khoản này.
 
 Điều 35.10.TL.3.4. Nguyên tắc thực hiện việc xây dựng và gửi báo cáo, thông báo
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
-**Mã phân cấp:** 35010000000000002000000800000000000000000310000000000000000000802651300019600400
+ 1. Việc xây dựng báo cáo, thông báo phải chính xác, bảo đảm đúng, đầy đủ các yêu cầu về nội dung, thời hạn đã được quy định trong Thông tư liên tịch này và yêu cầu của Quốc hội, các cơ quan có thẩm quyền của Quốc hội.
 
-**ID:** dk_00059807
+ 2. Bảo đảm việc chỉ đạo tập trung, thống nhất, kịp thời của cơ quan cấp trung ương đối với các cơ quan cấp dưới ở mỗi bộ, ngành.
 
----
+ 3. Bảo đảm sự phối hợp chặt chẽ giữa các cơ quan ở mỗi cấp, trong đó Viện kiểm sát giữ vai trò chủ trì.Điều 35.10.TL.3.5. Thời điểm, nội dung báo cáo, thông báo
 
+(Điều 5 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
-### Điều 35.10.TL.3.5. Thời điểm, nội dung báo cáo, thông báo
+1. Thời điểm lấy số liệu báo cáo, thông báo như sau:
 
-Điều 35.10.TL.3.5. Thời điểm, nội dung báo cáo, thông báo
+a) Báo cáo, thông báo định kỳ 06 tháng lấy số liệu từ ngày 01 tháng 10 của năm trước liền kề đến ngày 31 tháng 3 của kỳ báo cáo, thông báo.
 
-**Chỉ mục:** 5
+b) Báo cáo, thông báo để xây dựng báo cáo trình Uỷ ban tư pháp thẩm tra, Uỷ ban thường vụ Quốc hội cho ý kiến lấy số liệu từ ngày 01 tháng 10 của năm trước liền kề đến ngày 31 tháng 7 của năm báo cáo, thông báo.
 
-**Mã phân cấp:** 35010000000000002000000800000000000000000310000000000000000000802651300019600500
+c) Báo cáo, thông báo bổ sung để hoàn thiện báo cáo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp trình Quốc hội lấy số liệu bổ sung từ ngày 01 tháng 8 đến ngày 30 tháng 9 của năm báo cáo, thông báo.
 
-**ID:** dk_00059808
+2. Nội dung báo cáo, thông báo gồm:
 
----
+a) Nội dung báo cáo, thông báo định kỳ 06 tháng về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp theo mẫu số 01 ban hành kèm theo Thông tư liên tịch này.
 
+b) Nội dung báo cáo, thông báo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp để xây dựng báo cáo trình Uỷ ban tư pháp thẩm tra, Uỷ ban thường vụ Quốc hội cho ý kiến theo mẫu số 01 ban hành kèm theo Thông tư liên tịch này.
 
-### Điều 35.10.TL.3.6. Thời hạn gửi báo cáo, thông báo
+c) Nội dung báo cáo, thông báo bổ sung để hoàn thiện báo cáo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp trình Quốc hội theo mẫu số 02 ban hành kèm theo Thông tư liên tịch này.
 
-*Nội dung chưa có sẵn*
+3. Báo cáo, thông báo phải kèm theo các phụ lục thống kê số liệu. Việc xây dựng báo cáo, thông báo và phụ lục thống kê số liệu thực hiện theo các mẫu, phụ lục ban hành kèm Thông tư liên tịch này.
 
-**Chỉ mục:** 6
+Quá trình thực hiện phải phối hợp với Viện kiểm sát cùng cấp để kiểm tra, rà soát, đảm bảo tính thống nhất, chính xác.
 
-**Mã phân cấp:** 35010000000000002000000800000000000000000310000000000000000000802651300019600600
+Phu luc thongkesolieu.doc
 
-**ID:** dk_00059809
+Điều 35.10.TL.3.6. Thời hạn gửi báo cáo, thông báo
 
----
+(Điều 6 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
+ 1. Thời hạn gửi báo cáo, thông báo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp định kỳ 06 tháng như sau:
 
-### Điều 35.10.TL.3.7. Thẩm quyền ký văn bản báo cáo, thông báo
+ a) Báo cáo của cơ quan, đơn vị cấp huyện, cấp khu vực gửi lên cơ quan, đơn vị cấp tỉnh, cấp quân khu của mỗi ngành, đồng gửi Viện kiểm sát cùng cấp trước ngày 03 tháng 4 của kỳ báo cáo.
 
-Điều 35.10.TL.3.7. Thẩm quyền ký văn bản báo cáo, thông báo
+ b) Báo cáo của cơ quan, đơn vị cấp tỉnh, cấp quân khu và Tòa án nhân dân cấp cao, Viện kiểm sát nhân dân cấp cao gửi lên cơ quan, đơn vị cấp trung ương của mỗi bộ, ngành, đồng gửi Viện kiểm sát cùng cấp trước ngày 08 tháng 4 của kỳ báo cáo.
 
-**Chỉ mục:** 7
+ c) Báo cáo của Cục điều tra hình sự Bộ Quốc phòng, Cục Bảo vệ an ninh quân đội, Tòa án quân sự trung ương, Cục thi hành án Bộ Quốc phòng gửi Bộ Quốc phòng, đồng thời gửi Viện kiểm sát quân sự trung ương trước ngày 12 tháng 4 của kỳ báo cáo.
 
-**Mã phân cấp:** 35010000000000002000000800000000000000000310000000000000000000802651300019600700
+ d) Thông báo của các cơ quan cấp trung ương gửi Viện kiểm sát nhân dân tối cao trước ngày 08 tháng 5 của kỳ thông báo.
 
-**ID:** dk_00059810
+ 2. Thời hạn gửi báo cáo, thông báo để xây dựng báo cáo năm về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp trình Uỷ ban tư pháp thẩm tra, Uỷ ban thường vụ Quốc hội cho ý kiến như sau:
 
----
+ a) Báo cáo của cơ quan, đơn vị cấp huyện, cấp khu vực gửi lên cơ quan, đơn vị cấp tỉnh, cấp quân khu của mỗi ngành, đồng gửi Viện kiểm sát cùng cấp trước ngày 03 tháng 8 của năm báo cáo.
 
+ b) Báo cáo của cơ quan, đơn vị cấp tỉnh, cấp quân khu và Tòa án nhân dân cấp cao, Viện kiểm sát nhân dân cấp cao gửi lên cơ quan, đơn vị cấp trung ương của mỗi bộ, ngành, đồng gửi Viện kiểm sát cùng cấp trước ngày 08 tháng 8 của năm báo cáo.
 
-### Điều 35.10.LQ.32. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự
+ c) Báo cáo của Cục điều tra hình sự Bộ Quốc phòng, Cục Bảo vệ an ninh quân đội, Tòa án quân sự trung ương, Cục thi hành án Bộ Quốc phòng gửi Bộ Quốc phòng, đồng thời gửi Viện kiểm sát quân sự trung ương trước ngày 12 tháng 8 của năm báo cáo.
+
+ d) Thông báo của các cơ quan cấp trung ương gửi Viện kiểm sát nhân dân tối cao trước ngày 18 tháng 8 của năm thông báo.
+
+ 3. Thời hạn gửi báo cáo, thông báo bổ sung để hoàn thiện báo cáo về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp trình Quốc hội như sau:
+
+ a) Báo cáo của cơ quan, đơn vị cấp huyện, cấp khu vực gửi lên cơ quan, đơn vị cấp tỉnh, cấp quân khu của mỗi ngành, đồng gửi Viện kiểm sát cùng cấp trước ngày 03 tháng 10 của năm báo cáo.
+
+ b) Báo cáo của cơ quan, đơn vị cấp tỉnh, cấp quân khu và Tòa án nhân dân cấp cao, Viện kiểm sát nhân dân cấp cao gửi lên cơ quan, đơn vị cấp trung ương của mỗi bộ, ngành, đồng gửi Viện kiểm sát cùng cấp trước ngày 08 tháng 10 của năm báo cáo.
+
+ c) Báo cáo của Cục điều tra hình sự Bộ Quốc phòng, Cục Bảo vệ an ninh quân đội, Tòa án quân sự trung ương, Cục thi hành án Bộ Quốc phòng gửi Bộ Quốc phòng, đồng thời gửi Viện kiểm sát quân sự trung ương trước ngày 12 tháng 10 của năm báo cáo.
+
+ d) Thông báo của các cơ quan cấp trung ương gửi Viện kiểm sát nhân dân tối cao trước ngày 18 tháng 10 của năm thông báo.Điều 35.10.TL.3.7. Thẩm quyền ký văn bản báo cáo, thông báo
+
+(Điều 7 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
+
+ Báo cáo, thông báo do người đứng đầu cơ quan, đơn vị ký. Trường hợp người đứng đầu cơ quan, đơn vị vắng mặt thì có thể ủy quyền lại cho cấp phó của mình ký thay (KT).Mục 9
+
+THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯƠNG TRỢ TƯ PHÁP
+
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
 Điều 35.10.LQ.32. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000009000000000000000003200000000000000000
+1. Quyết định việc chuyển yêu cầu tương trợ tư pháp về hình sự của nước ngoài cho Cơ quan điều tra có thẩm quyền của Việt Nam để khởi tố, điều tra.
 
-**ID:** dk_00059812
+2. Yêu cầu cơ quan có thẩm quyền của nước ngoài triệu tập người làm chứng, người giám định; thu thập, cung cấp chứng cứ, tài liệu; truy cứu trách nhiệm hình sự đối với người phạm tội.
 
----
+3. Thực hiện nhiệm vụ, quyền hạn theo quy định tại các Điều 14, 16 và 18 của Luật này trong trường hợp cơ quan có thẩm quyền của Việt Nam điều tra, truy tố, xét xử vụ án hình sự theo yêu cầu của nước ngoài.
 
+4. Thực hiện nhiệm vụ, quyền hạn khác khi thực hành quyền công tố trong tương trợ tư pháp về hình sự theo quy định của Bộ luật tố tụng hình sự và Luật tương trợ tư pháp.
 
-### Điều 35.10.LQ.33. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tương trợ tư pháp
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.14. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự; Điều 35.10.LQ.16. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn truy tố; Điều 35.10.LQ.18. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự; Điều 37.7.LQ.247. Tạm đình chỉ vụ án)
 
 Điều 35.10.LQ.33. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tương trợ tư pháp
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000009000000000000000003300000000000000000
+1. Kiểm sát việc tuân theo pháp luật của cơ quan, người tiến hành và người tham gia hoạt động tương trợ tư pháp về hình sự, dân sự, dẫn độ, chuyển giao người đang chấp hành hình phạt tù.
 
-**ID:** dk_00059813
+2. Tham gia phiên họp của Tòa án về việc dẫn độ, chuyển giao người đang chấp hành hình phạt tù và phát biểu quan điểm của Viện kiểm sát nhân dân.
 
----
+3. Kháng nghị quyết định có vi phạm pháp luật của Tòa án về việc dẫn độ, chuyển giao người đang chấp hành hình phạt tù.
 
+4. Thực hiện quyền yêu cầu, kiến nghị và nhiệm vụ, quyền hạn khác trong kiểm sát hoạt động tương trợ tư pháp theo quy định của pháp luật.
 
-### Điều 35.10.LQ.34. Công tác thống kê tội phạm
+Mục 10
 
-*Nội dung chưa có sẵn*
+THỐNG KÊ TỘI PHẠM VÀ CÁC CÔNG TÁC KHÁC
 
-**Chỉ mục:** 34
+(Mục này có nội dung liên quan đến Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự của Luật 63/2014/QH13 Tổ chức Viện kiểm sát nhân dân ban hành ngày 24/11/2014)
 
-**Mã phân cấp:** 350100000000000020000010000000000000000003400000000000000000
+Điều 35.10.LQ.34. Công tác thống kê tội phạm
 
-**ID:** dk_00059815
+(Điều 34 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
----
+1. Viện kiểm sát nhân dân có trách nhiệm chủ trì thống kê tội phạm, phối hợp với các cơ quan hữu quan trong việc thống kê hình sự.
 
-
-### Điều 35.10.TL.4.3. Nguyên tắc cơ bản của hoạt động thống kê hình sự liên ngành và sử dụng dữ liệu thông tin thống kê hình sự liên ngành
+2. Trong phạm vi chức năng, nhiệm vụ của mình, các cơ quan tiến hành tố tụng và các cơ quan có liên quan có trách nhiệm phối hợp với Viện kiểm sát nhân dân trong việc thống kê tội phạm.
 
 Điều 35.10.TL.4.3. Nguyên tắc cơ bản của hoạt động thống kê hình sự liên ngành và sử dụng dữ liệu thông tin thống kê hình sự liên ngành
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000300
+ 1. Tuân thủ các nguyên tắc quy định tại Điều 5 Luật Thống kê.
 
-**ID:** dk_00059816
+ 2. Thống nhất biểu mẫu, giải thích biểu mẫu, thời hạn và kỳ thống kê.
 
----
-
-
-### Điều 35.10.TL.4.4. Nội dung, danh mục chỉ tiêu thống kê, biểu mẫu, giải thích biểu mẫu thống kê hình sự liên ngành
+ 3. Thống nhất sử dụng số liệu thống kê hình sự liên ngành trong các báo cáo của Viện kiểm sát nhân dân, Tòa án nhân dân, Công an nhân dân, Quân đội nhân dân.(Điều này có nội dung liên quan đến Điều 31.1.LQ.5. Nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê)
 
 Điều 35.10.TL.4.4. Nội dung, danh mục chỉ tiêu thống kê, biểu mẫu, giải thích biểu mẫu thống kê hình sự liên ngành
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000400
+1. Nội dung thống kê hình sự liên ngành bao gồm:
 
-**ID:** dk_00059817
+a) Thống kê tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố;
 
----
+b) Thống kê khởi tố, điều tra các vụ án hình sự;
 
+c) Thống kê truy tố các vụ án hình sự;
 
-### Điều 35.10.TL.4.5. Nguồn tài liệu phục vụ thống kê hình sự liên ngành
+d) Thống kê xét xử các vụ án hình sự;
+
+đ) Thống kê thi hành tạm giữ, tạm giam;
+
+e) Thống kê thi hành án hình sự.
+
+2. Danh mục chỉ tiêu thống kê hình sự liên ngành được quy định tại Phụ lục ban hành kèm theo Thông tư liên tịch này.
+
+Trường hợp cần thiết, Ban Chỉ đạo thống kê hình sự liên ngành Trung ương quyết định việc sửa đổi, bổ sung Danh mục chỉ tiêu thống kê hình sự liên ngành.
+
+3. Biểu mẫu, giải thích biểu mẫu thống kê hình sự liên ngành do Ban Chỉ đạo thống kê hình sự liên ngành Trung ương quy định.
+
+DanhmucchitieuthongkeHSliennganh.doc
 
 Điều 35.10.TL.4.5. Nguồn tài liệu phục vụ thống kê hình sự liên ngành
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000500
+ Số liệu thống kê hình sự liên ngành được thu thập từ hồ sơ, sổ nghiệp vụ, cơ sở dữ liệu và nguồn chính thức khác của Viện kiểm sát nhân dân, Tòa án nhân dân, Công an nhân dân, Quân đội nhân dân.Điều 35.10.TL.4.6. Kỳ thống kê hình sự liên ngành
 
-**ID:** dk_00059818
+(Điều 6 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ Thống kê hình sự liên ngành được thực hiện định kỳ theo tháng; số liệu được thống kê từ ngày 01 đến hết ngày cuối cùng của tháng.Điều 35.10.TL.4.7. Kinh phí hoạt động thống kê hình sự liên ngành
 
+(Điều 7 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 35.10.TL.4.6. Kỳ thống kê hình sự liên ngành
+ Kinh phí hoạt động thống kê hình sự liên ngành do Ngân sách nhà nước bảo đảm. Trong phạm vi chức năng, nhiệm vụ của mình, các cơ quan lập dự toán và đề nghị cơ quan có thẩm quyền phê duyệt.Điều 35.10.TL.4.8. Lưu trữ báo cáo thống kê hình sự liên ngành
 
-*Nội dung chưa có sẵn*
+(Điều 8 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 6
+ Cơ quan, đơn vị được giao lập, đối chiếu báo cáo thống kê hình sự liên ngành có trách nhiệm lưu trữ báo cáo và các tài liệu liên quan theo quy định của ngành mình.Điều 35.10.TL.4.9. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000600
+(Điều 9 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00059819
+ 1. Trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kỳ thống kê đối với cấp huyện, 03 ngày làm việc đối với cấp tỉnh, 05 ngày làm việc đối với Bộ Công an, các đơn vị được giao thuộc cơ quan Công an các cấp có trách nhiệm lập báo cáo thống kê quy định tại điểm a và điểm e (phần trại giam do Bộ Công an quản lý) khoản 1 Điều 4 Thông tư liên tịch này, chủ trì đối chiếu với đơn vị có liên quan thuộc Viện kiểm sát nhân dân cùng cấp, cùng ký báo cáo và gửi đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân cùng cấp.
 
----
+ 2. Trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kỳ thống kê đối với cấp huyện, 03 ngày làm việc đối với cấp tỉnh, 04 ngày làm việc đối với cấp cao, 05 ngày làm việc đối với Viện kiểm sát nhân dân tối cao, các đơn vị được giao thuộc Viện kiểm sát nhân dân các cấp có trách nhiệm lập báo cáo thống kê quy định tại các điểm b, c, d, đ và e (trừ trường hợp thuộc trại giam) khoản 1 Điều 4 Thông tư liên tịch này, chủ trì đối chiếu với đơn vị có liên quan thuộc cơ quan Công an, Tòa án nhân dân cùng cấp, cùng ký báo cáo và gửi đơn vị được giao nhiệm vụ thống kê.
 
+ 3. Trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kỳ thống kê đối với Viện kiểm sát nhân dân cấp huyện, 06 ngày làm việc đối với Viện kiểm sát nhân dân cấp tỉnh và Viện kiểm sát nhân dân cấp cao, đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân có trách nhiệm tổng hợp, xây dựng báo cáo thống kê hình sự liên ngành, trình lãnh đạo liên ngành ký và gửi cơ quan Công an, Tòa án nhân dân cùng cấp và Viện kiểm sát nhân dân cấp trên trực tiếp.
 
-### Điều 35.10.TL.4.7. Kinh phí hoạt động thống kê hình sự liên ngành
+ 4. Trong thời hạn 08 ngày làm việc kể từ ngày kết thúc kỳ thống kê, đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân tối cao có trách nhiệm tổng hợp, xây dựng báo cáo thống kê hình sự liên ngành toàn quốc trình lãnh đạo Viện kiểm sát nhân dân tối cao ký, gửi Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng.
 
-Điều 35.10.TL.4.7. Kinh phí hoạt động thống kê hình sự liên ngành
+ 5. Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình quy định cụ thể đơn vị có trách nhiệm lập, đối chiếu báo cáo thống kê hình sự liên ngành.Điều 35.10.TL.4.10. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân
 
-**Chỉ mục:** 7
+(Điều 10 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000700
+ 1. Trách nhiệm lập, đối chiếu báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân:
 
-**ID:** dk_00059820
+ a) Bộ phận thống kê hình sự của Cơ quan điều tra, Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong Quân đội nhân dân có trách nhiệm lập báo cáo thống kê tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; khởi tố, điều tra; thi hành tạm giữ, tạm giam và thi hành án hình sự mà cơ quan mình có trách nhiệm quản lý; chủ trì đối chiếu với bộ phận thống kê của Viện kiểm sát quân sự cùng cấp và gửi Viện kiểm sát quân sự cùng cấp để xây dựng báo cáo thống kê hình sự liên ngành;
 
----
+ b) Bộ phận thống kê hình sự của Viện kiểm sát quân sự có trách nhiệm lập báo cáo thống kê truy tố mà cơ quan mình có trách nhiệm quản lý; chủ trì đối chiếu với bộ phận thống kê của Cơ quan điều tra, Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong Quân đội nhân dân, Tòa án quân sự cùng cấp để xây dựng báo cáo thống kê hình sự liên ngành;
 
+ c) Bộ phận thống kê hình sự của Tòa án quân sự có trách nhiệm lập báo cáo thống kê xét xử, thi hành án hình sự mà cơ quan mình có trách nhiệm quản lý; chủ trì đối chiếu với bộ phận thống kê của Viện kiểm sát cùng cấp và gửi Viện kiểm sát quân sự cùng cấp để xây dựng báo cáo thống kê hình sự liên ngành.
 
-### Điều 35.10.TL.4.8. Lưu trữ báo cáo thống kê hình sự liên ngành
+ 2. Thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân:
 
-Điều 35.10.TL.4.8. Lưu trữ báo cáo thống kê hình sự liên ngành
+ a) Trong thời hạn 06 ngày làm việc kể từ ngày kết thúc kỳ thống kê, Viện kiểm sát quân sự Trung ương lập báo cáo thống kê hình sự liên ngành trong Quân đội nhân dân, trình lãnh đạo cơ quan có thẩm quyền trong Quân đội nhân dân ký, gửi các cơ quan có thẩm quyền trong Quân đội nhân dân và đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân tối cao;
 
-**Chỉ mục:** 8
+ b) Căn cứ vào thời hạn gửi báo cáo quy định tại điểm a khoản 2 Điều 10 Thông tư liên tịch này, Bộ trưởng Bộ Quốc phòng quy định thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân.Điều 35.10.TL.4.11. Phương thức gửi báo cáo thống kê hình sự liên ngành
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000800
+(Điều 11 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00059821
+ 1. Báo cáo thống kê hình sự liên ngành của các đơn vị quy định tại các khoản 1, 2, 3 và 4 Điều 9 Thông tư liên tịch này được gửi theo quy định về chế độ báo cáo thống kê của mỗi ngành.
 
----
+ 2. Bộ Quốc phòng quy định phương thức gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân.Điều 35.10.TL.4.12. Hiệu chỉnh số liệu trong báo cáo thống kê hình sự liên ngành
 
+(Điều 12 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 35.10.TL.4.9. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành
+ 1. Trường hợp sau khi gửi báo cáo thống kê hình sự liên ngành mà phát hiện có sai sót thì các đơn vị quy định tại khoản 1 và khoản 2 Điều 9 Thông tư liên tịch này có trách nhiệm kiểm tra, đối chiếu, thống nhất số liệu và gửi Viện kiểm sát nhân dân cùng cấp.
 
-Điều 35.10.TL.4.9. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành
+ Các đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân các cấp quy định khoản 3 Điều 9 Thông tư liên tịch này có trách nhiệm hiệu chỉnh số liệu trong báo cáo thống kê hình sự liên ngành gửi cơ quan Công an, Tòa án nhân dân cùng cấp và Viện kiểm sát nhân dân cấp trên có thẩm quyền.
 
-**Chỉ mục:** 9
+ 2. Trường hợp số liệu trong báo cáo thống kê hình sự liên ngành toàn quốc có chênh lệch, đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân tối cao có trách nhiệm chủ trì, phối hợp với các đơn vị có liên quan thuộc Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng để kiểm tra, đối chiếu, thống nhất số liệu, trình lãnh đạo Viện kiểm sát nhân dân tối cao ký và gửi các ngành theo quy định.Điều 35.10.TL.4.13. Cung cấp số liệu thống kê hình sự liên ngành
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050000900
+(Điều 13 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00059822
+ Khi có yêu cầu cung cấp số liệu thống kê hình sự liên ngành làm báo cáo của lãnh đạo các ngành tại các kỳ họp của Quốc hội và Hội đồng nhân dân các cấp, đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân các cấp có trách nhiệm tổng hợp, xây dựng báo cáo và cung cấp cho các ngành để thống nhất số liệu báo cáo.
 
----
+ Trường hợp cần thiết, đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân các cấp đối chiếu, thống nhất số liệu với đơn vị có liên quan trước khi cung cấp.Điều 35.10.TL.4.14. Ban Chỉ đạo thống kê hình sự liên ngành
 
+(Điều 14 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 35.10.TL.4.10. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân
+ 1. Ban Chỉ đạo thống kê hình sự liên ngành Trung ương gồm có: Đại diện lãnh đạo Viện kiểm sát nhân dân tối cao là Trưởng ban, đại diện lãnh đạo Toà án nhân dân tối cao, đại diện lãnh đạo Bộ Công an và đại diện lãnh đạo Bộ Quốc phòng là thành viên.
 
-Điều 35.10.TL.4.10. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân
+ 2. Ban Chỉ đạo thống kê hình sự liên ngành cấp cao gồm có: Đại diện lãnh đạo Viện kiểm sát nhân dân cấp cao là Trưởng ban, đại diện lãnh đạo Toà án nhân dân cấp cao là thành viên.
 
-**Chỉ mục:** 10
+ 3. Ban Chỉ đạo thống kê hình sự liên ngành cấp tỉnh gồm có: Đại diện lãnh đạo Viện kiểm sát nhân dân cấp tỉnh là Trưởng ban, đại diện lãnh đạo Toà án nhân dân cấp tỉnh, đại diện lãnh đạo Công an cấp tỉnh là thành viên.
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001000
+ 4. Ban Chỉ đạo thống kê hình sự liên ngành cấp huyện gồm có: Đại diện lãnh đạo Viện kiểm sát nhân dân cấp huyện là Trưởng ban, đại diện lãnh đạo Toà án nhân dân cấp huyện, đại diện lãnh đạo Công an cấp huyện là thành viên.
 
-**ID:** dk_00059823
+ 5. Ban Chỉ đạo thống kê hình sự liên ngành trong Quân đội nhân dân gồm có: Đại diện lãnh đạo Bộ Quốc phòng là Trưởng ban, đại diện lãnh đạo Viện kiểm sát quân sự Trung ương là Phó Trưởng ban, đại diện lãnh đạo Tòa án quân sự Trung ương, Vụ Pháp chế Bộ Quốc phòng, Cục Điều tra hình sự Bộ Quốc phòng, Cục Bảo vệ an ninh Quân đội thuộc Tổng cục Chính trị, Bộ Tư lệnh Bộ đội Biên phòng, Bộ Tư lệnh Cảnh sát biển là thành viên.
 
----
+ 6. Trường hợp thay đổi thành viên Ban Chỉ đạo thống kê hình sự liên ngành theo quy định tại các khoản 1, 2, 3, 4 và 5 Điều này, các cơ quan thông báo bằng văn bản với Trưởng ban Chỉ đạo thống kê hình sự liên ngành.Điều 35.10.TL.4.15. Nhiệm vụ, quyền hạn của Ban Chỉ đạo thống kê hình sự liên ngành
 
+(Điều 15 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 35.10.TL.4.11. Phương thức gửi báo cáo thống kê hình sự liên ngành
+ 1. Nhiệm vụ, quyền hạn của Ban Chỉ đạo thống kê hình sự liên ngành Trung ương:
 
-Điều 35.10.TL.4.11. Phương thức gửi báo cáo thống kê hình sự liên ngành
+ a) Quyết định các nội dung về công tác thống kê hình sự liên ngành; sửa đổi, bổ sung biểu mẫu và tài liệu hướng dẫn để tổ chức thực hiện thống nhất các loại báo cáo thống kê hình sự liên ngành;
 
-**Chỉ mục:** 11
+ b) Hướng dẫn, kiểm tra, đôn đốc việc thực hiện thống nhất công tác thống kê hình sự liên ngành của cấp mình và cấp dưới;
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001100
+ c) Định kỳ tổ chức sơ kết, tổng kết về công tác thống kê hình sự liên ngành;
 
-**ID:** dk_00059824
+ d) Đề nghị cấp có thẩm quyền khen thưởng đối với những tập thể, cá nhân có thành tích và xem xét kỷ luật đối với những tập thể, cá nhân có vi phạm trong thực hiện công tác thống kê hình sự liên ngành;
 
----
+ đ) Đề xuất với lãnh đạo các ngành về biên chế, tổ chức bộ máy, đầu tư trang thiết bị, phương tiện làm việc và kinh phí bảo đảm hoạt động, trong đó trọng tâm là đẩy mạnh ứng dụng công nghệ thông tin phục vụ công tác thống kê hình sự liên ngành.
 
+ 2. Ban Chỉ đạo thống kê hình sự liên ngành cấp cao, cấp tỉnh, cấp huyện và Ban Chỉ đạo thống kê hình sự liên ngành trong Quân đội nhân dân có nhiệm vụ, quyền hạn quy định tại các điểm b, c, d và đ khoản 1 Điều này.Điều 35.10.TL.4.16. Tổ giúp việc Ban Chỉ đạo thống kê hình sự liên ngành
 
-### Điều 35.10.TL.4.12. Hiệu chỉnh số liệu trong báo cáo thống kê hình sự liên ngành
+(Điều 16 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-Điều 35.10.TL.4.12. Hiệu chỉnh số liệu trong báo cáo thống kê hình sự liên ngành
+ 1. Tổ giúp việc Ban Chỉ đạo thống kê hình sự liên ngành các cấp do Ban Chỉ đạo thống kê hình sự liên ngành cùng cấp quyết định theo đề nghị của các cơ quan có liên quan; đại diện đơn vị được giao nhiệm vụ thống kê thuộc Viện kiểm sát nhân dân cùng cấp là Tổ trưởng.
 
-**Chỉ mục:** 12
+ 2. Tổ giúp việc Ban Chỉ đạo thống kê hình sự liên ngành có trách nhiệm tham mưu, giúp việc cho Ban Chỉ đạo thống kê hình sự liên ngành thực hiện các nhiệm vụ, quyền hạn quy định tại Điều 15 Thông tư liên tịch này.Điều 35.10.TL.4.17. Tổ chức thực hiện thống kê hình sự liên ngành
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001200
+(Điều 17 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00059825
+ 1. Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh án Toà án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, trong phạm vi nhiệm vụ, quyền hạn của mình, tổ chức thực hiện thống kê hình sự liên ngành theo quy định của Thông tư liên tịch này.
 
----
+ 2. Thủ trưởng các đơn vị thực hiện thống kê hình sự liên ngành thuộc Viện kiểm sát nhân dân, Tòa án nhân dân, Công an nhân dân, Quân đội nhân dân chịu trách nhiệm về tính chính xác của số liệu thống kê đã đối chiếu.Điều 35.10.LQ.35. Công tác nghiên cứu khoa học
 
+(Điều 35 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-### Điều 35.10.TL.4.13. Cung cấp số liệu thống kê hình sự liên ngành
+Trong phạm vi chức năng, nhiệm vụ của mình, Viện kiểm sát nhân dân có trách nhiệm nghiên cứu tội phạm học, khoa học kiểm sát góp phần thực hiện chức năng, nhiệm vụ và đấu tranh phòng, chống tội phạm, vi phạm pháp luật.
 
-Điều 35.10.TL.4.13. Cung cấp số liệu thống kê hình sự liên ngành
+Điều 35.10.LQ.36. Công tác xây dựng pháp luật
 
-**Chỉ mục:** 13
+(Điều 36 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001300
+Viện kiểm sát nhân dân tối cao có quyền đề nghị, trình dự án luật, pháp lệnh; chủ trì, phối hợp với các cơ quan, tổ chức hữu quan trong xây dựng pháp luật; ban hành văn bản pháp luật thuộc thẩm quyền theo quy định của luật về ban hành văn bản pháp luật.
 
-**ID:** dk_00059826
+Điều 35.10.LQ.37. Công tác đào tạo, bồi dưỡng
 
----
+(Điều 37 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
+1. Viện kiểm sát nhân dân thực hiện nhiệm vụ đào tạo, bồi dưỡng chuyên môn, nghiệp vụ để tạo nguồn nhân lực, nâng cao trình độ cho Kiểm sát viên, Điều tra viên, Kiểm tra viên, công chức khác và viên chức của Viện kiểm sát nhân dân theo quy định của pháp luật.
 
-### Điều 35.10.TL.4.14. Ban Chỉ đạo thống kê hình sự liên ngành
+2. Các cơ sở đào tạo, bồi dưỡng của Viện kiểm sát nhân dân được tổ chức các loại hình đào tạo, bồi dưỡng theo quy định của pháp luật.
 
-Điều 35.10.TL.4.14. Ban Chỉ đạo thống kê hình sự liên ngành
+Điều 35.10.LQ.38. Hợp tác quốc tế
 
-**Chỉ mục:** 14
+(Điều 38 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001400
-
-**ID:** dk_00059827
-
----
-
-
-### Điều 35.10.TL.4.15. Nhiệm vụ, quyền hạn của Ban Chỉ đạo thống kê hình sự liên ngành
-
-Điều 35.10.TL.4.15. Nhiệm vụ, quyền hạn của Ban Chỉ đạo thống kê hình sự liên ngành
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001500
-
-**ID:** dk_00059828
-
----
-
-
-### Điều 35.10.TL.4.16. Tổ giúp việc Ban Chỉ đạo thống kê hình sự liên ngành
-
-Điều 35.10.TL.4.16. Tổ giúp việc Ban Chỉ đạo thống kê hình sự liên ngành
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001600
-
-**ID:** dk_00059829
-
----
-
-
-### Điều 35.10.TL.4.17. Tổ chức thực hiện thống kê hình sự liên ngành
-
-Điều 35.10.TL.4.17. Tổ chức thực hiện thống kê hình sự liên ngành
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 35010000000000002000001000000000000000000340000000000000000000802673400050001700
-
-**ID:** dk_00059830
-
----
-
-
-### Điều 35.10.LQ.35. Công tác nghiên cứu khoa học
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 35
-
-**Mã phân cấp:** 350100000000000020000010000000000000000003500000000000000000
-
-**ID:** dk_00059831
-
----
-
-
-### Điều 35.10.LQ.36. Công tác xây dựng pháp luật
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 36
-
-**Mã phân cấp:** 350100000000000020000010000000000000000003600000000000000000
-
-**ID:** dk_00059832
-
----
-
-
-### Điều 35.10.LQ.37. Công tác đào tạo, bồi dưỡng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 37
-
-**Mã phân cấp:** 350100000000000020000010000000000000000003700000000000000000
-
-**ID:** dk_00059833
-
----
-
-
-### Điều 35.10.LQ.38. Hợp tác quốc tế
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 38
-
-**Mã phân cấp:** 350100000000000020000010000000000000000003800000000000000000
-
-**ID:** dk_00059834
-
----
-
-
-### Điều 35.10.LQ.39. Công tác phổ biến, giáo dục pháp luật
+Viện kiểm sát nhân dân hợp tác quốc tế trong việc đào tạo, bồi dưỡng, nghiên cứu khoa học, đàm phán, ký kết, gia nhập các hiệp định tương trợ tư pháp và các thỏa thuận quốc tế khác theo quy định của pháp luật.
 
 Điều 35.10.LQ.39. Công tác phổ biến, giáo dục pháp luật
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000020000010000000000000000003900000000000000000
+Thông qua việc thực hiện chức năng thực hành quyền công tố, kiểm sát hoạt động tư pháp, Viện kiểm sát nhân dân có trách nhiệm phổ biến, giáo dục pháp luật góp phần phòng, chống tội phạm và vi phạm pháp luật.
 
-**ID:** dk_00059835
+(Điều này có nội dung liên quan đến Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước của Luật 14/2012/QH13 Phổ biến, giáo dục pháp luật ban hành ngày 20/06/2012; Điều 33.3.LQ.20. Trách nhiệm của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, bộ, cơ quan ngang bộ và cơ quan thuộc Chính phủ của Luật 97/2015/QH13 Phí và lệ phí ban hành ngày 25/11/2015; Điều 4.5.LQ.41. Trách nhiệm của các cơ quan có liên quan đến hoạt động trợ giúp pháp lý trong tố tụng)
 
----
+Chương III
 
+TỔ CHỨC CỦA VIỆN KIỂM SÁT NHÂN DÂN
 
-### Điều 35.10.LQ.40. Hệ thống Viện kiểm sát nhân dân
+Điều 35.10.LQ.40. Hệ thống Viện kiểm sát nhân dân
 
-*Nội dung chưa có sẵn*
+(Điều 40 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Chỉ mục:** 40
+1. Viện kiểm sát nhân dân tối cao.
 
-**Mã phân cấp:** 3501000000000000300004000000000000000000
+2. Viện kiểm sát nhân dân cấp cao.
 
-**ID:** dk_00059837
+3. Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Viện kiểm sát nhân dân cấp tỉnh).
 
----
+4. Viện kiểm sát nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương (sau đây gọi là Viện kiểm sát nhân dân cấp huyện).
 
-
-### Điều 35.10.LQ.41. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân các cấp
+5. Viện kiểm sát quân sự các cấp.
 
 Điều 35.10.LQ.41. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân các cấp
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004100000000000000000
+1. Viện kiểm sát nhân dân tối cao thực hành quyền công tố, kiểm sát hoạt động tư pháp, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.
 
-**ID:** dk_00059838
+2. Viện kiểm sát nhân dân cấp cao thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với các vụ án, vụ việc thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp cao.
 
----
-
-
-### Điều 35.10.LQ.42. Cơ cấu tổ chức của Viện kiểm sát nhân dân tối cao
+3. Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện thực hành quyền công tố, kiểm sát hoạt động tư pháp trong phạm vi địa phương mình.
 
 Điều 35.10.LQ.42. Cơ cấu tổ chức của Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004200000000000000000
+1. Tổ chức bộ máy của Viện kiểm sát nhân dân tối cao gồm có:
 
-**ID:** dk_00059839
+a) Ủy ban kiểm sát;
 
----
+b) Văn phòng;
 
+c) Cơ quan điều tra;
 
-### Điều 35.10.LQ.43. Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao
+d) Các cục, vụ, viện và tương đương;
+
+đ) Các cơ sở đào tạo, bồi dưỡng, các cơ quan báo chí và các đơn vị sự nghiệp công lập khác;
+
+e) Viện kiểm sát quân sự trung ương.
+
+2. Viện kiểm sát nhân dân tối cao có Viện trưởng, các Phó Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên, Kiểm tra viên; Thủ trưởng, các Phó thủ trưởng Cơ quan điều tra, Điều tra viên; công chức khác, viên chức và người lao động khác.
 
 Điều 35.10.LQ.43. Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004300000000000000000
+1. Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao gồm có:
 
-**ID:** dk_00059840
+a) Viện trưởng Viện kiểm sát nhân dân tối cao;
 
----
+b) Các Phó Viện trưởng Viện kiểm sát nhân dân tối cao;
 
+c) Một số Kiểm sát viên Viện kiểm sát nhân dân tối cao do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
-### Điều 35.10.LQ.44. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp cao
+2. Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề quan trọng sau đây:
+
+a) Chương trình, kế hoạch công tác của ngành Kiểm sát nhân dân;
+
+b) Dự án luật, pháp lệnh trình Quốc hội, Ủy ban thường vụ Quốc hội; báo cáo của Viện trưởng Viện kiểm sát nhân dân tối cao trình Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước;
+
+c) Bộ máy làm việc của Viện kiểm sát nhân dân tối cao;
+
+d) Báo cáo của Viện trưởng Viện kiểm sát nhân dân tối cao trình Ủy ban thường vụ Quốc hội về những ý kiến của Viện trưởng không nhất trí với nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao; kiến nghị của Viện kiểm sát nhân dân tối cao về công tác đấu tranh phòng, chống tội phạm gửi Thủ tướng Chính phủ;
+
+đ) Xét tuyển người đang công tác tại Viện kiểm sát nhân dân tối cao đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;
+
+e) Đề nghị Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao tuyển chọn, xem xét việc miễn nhiệm, cách chức Kiểm sát viên Viện kiểm sát nhân dân tối cao.
+
+Xem xét, đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát nhân dân tối cao.
+
+3. Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 2 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng.
+
+4. Theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động phức tạp để Viện trưởng xem xét, quyết định.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.44. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp cao
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004400000000000000000
+1. Tổ chức bộ máy của Viện kiểm sát nhân dân cấp cao gồm có:
 
-**ID:** dk_00059841
+a) Ủy ban kiểm sát;
 
----
+b) Văn phòng;
 
+c) Các viện và tương đương.
 
-### Điều 35.10.LQ.45. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao
+2. Viện kiểm sát nhân dân cấp cao có Viện trưởng Viện kiểm sát nhân dân cấp cao, các Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác.
 
 Điều 35.10.LQ.45. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004500000000000000000
+1. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao gồm có:
 
-**ID:** dk_00059842
+a) Viện trưởng Viện kiểm sát nhân dân cấp cao;
 
----
+b) Các Phó Viện trưởng Viện kiểm sát nhân dân cấp cao;
 
+c) Một số Kiểm sát viên.
 
-### Điều 35.10.LQ.46. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp tỉnh
+2. Số lượng thành viên Ủy ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp cao.
+
+3. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề quan trọng sau đây:
+
+a) Việc thực hiện chương trình, kế hoạch công tác, chỉ thị, thông tư và quyết định của Viện kiểm sát nhân dân tối cao;
+
+b) Báo cáo tổng kết công tác của Viện kiểm sát nhân dân cấp cao;
+
+c) Xét tuyển người đang công tác tại Viện kiểm sát nhân dân cấp cao đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;
+
+d) Xem xét, đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát nhân dân cấp cao.
+
+4. Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát nhân dân tối cao.
+
+5. Theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp cao, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động phức tạp để Viện trưởng xem xét, quyết định.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.46. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp tỉnh
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004600000000000000000
+1. Tổ chức bộ máy của Viện kiểm sát nhân dân cấp tỉnh gồm có:
 
-**ID:** dk_00059843
+a) Ủy ban kiểm sát;
 
----
+b) Văn phòng;
 
+c) Các phòng và tương đương.
 
-### Điều 35.10.LQ.47. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh
+2. Viện kiểm sát nhân dân cấp tỉnh có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác.
 
 Điều 35.10.LQ.47. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004700000000000000000
+1. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh gồm có:
 
-**ID:** dk_00059844
+a) Viện trưởng;
 
----
+b) Các Phó Viện trưởng;
 
+c) Một số Kiểm sát viên.
 
-### Điều 35.10.LQ.48. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp huyện
+2. Số lượng thành viên Ủy ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh.
+
+3. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề sau đây:
+
+a) Việc thực hiện chương trình, kế hoạch công tác, chỉ thị, thông tư và quyết định của Viện kiểm sát nhân dân tối cao; việc thực hiện chương trình, kế hoạch công tác của Viện kiểm sát nhân dân cấp cao;
+
+b) Báo cáo tổng kết công tác với Viện kiểm sát nhân dân cấp trên, báo cáo công tác trước Hội đồng nhân dân cùng cấp;
+
+c) Xét tuyển người đang công tác tại Viện kiểm sát nhân dân cấp tỉnh và cấp huyện đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;
+
+d) Xem xét, đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát nhân dân cấp tỉnh và cấp huyện.
+
+4. Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát nhân dân tối cao.
+
+5. Theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động phức tạp để Viện trưởng xem xét, quyết định.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.48. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp huyện
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004800000000000000000
+1. Tổ chức bộ máy của Viện kiểm sát nhân dân cấp huyện gồm có văn phòng và các phòng; những nơi chưa đủ điều kiện thành lập phòng thì có các bộ phận công tác và bộ máy giúp việc.
 
-**ID:** dk_00059845
-
----
-
-
-### Điều 35.10.LQ.49. Thành lập, giải thể Viện kiểm sát nhân dân
+2. Viện kiểm sát nhân dân cấp huyện có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác.
 
 Điều 35.10.LQ.49. Thành lập, giải thể Viện kiểm sát nhân dân
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300004900000000000000000
-
-**ID:** dk_00059846
-
----
-
-
-### Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự
+Việc thành lập, giải thể Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
 Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005000000000000000000
+1. Các Viện kiểm sát quân sự thuộc hệ thống Viện kiểm sát nhân dân được tổ chức trong Quân đội nhân dân Việt Nam để thực hành quyền công tố, kiểm sát hoạt động tư pháp trong quân đội.
 
-**ID:** dk_00059847
+2. Trong phạm vi chức năng của mình, Viện kiểm sát quân sự có nhiệm vụ quy định tại khoản 2 Điều 2 của Luật này; bảo vệ an ninh, quốc phòng, kỷ luật và sức mạnh chiến đấu của quân đội; bảo vệ quyền và lợi ích hợp pháp của quân nhân, công chức, viên chức và người lao động khác trong quân đội; bảo đảm mọi hành vi phạm tội và vi phạm pháp luật phải được xử lý nghiêm minh.
 
----
+3. Viện kiểm sát quân sự thực hiện nhiệm vụ, quyền hạn quy định tại các mục 1, 2, 3, 4, 5, 6, 8, 9 và 10 Chương II của Luật này và kiểm sát thi hành án dân sự quy định tại Điều 28 của Luật này.
 
+(Điều này có nội dung liên quan đến Mục 1 THỰC HÀNH QUYỀN CÔNG TỐ, KIỂM SÁT VIỆC TIẾP NHẬN, GIẢI QUYẾT TỐ GIÁC, TIN BÁO VỀ TỘI PHẠM VÀ KIẾN NGHỊ KHỞI TỐ; Mục 2 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT ĐIỀU TRA VỤ ÁN HÌNH SỰ; Điều 35.10.LQ.2. Chức năng, nhiệm vụ của Viện kiểm sát nhân dân; Mục 3 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯ PHÁP TRONG GIAI ĐOẠN TRUY TỐ; Mục 4 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT XÉT XỬ VỤ ÁN HÌNH SỰ; Mục 5 CÔNG TÁC ĐIỀU TRA CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN; Mục 6 KIỂM SÁT VIỆC TẠM GIỮ, TẠM GIAM, THI HÀNH ÁN HÌNH SỰ; Mục 7 KIỂM SÁT VIỆC GIẢI QUYẾT VỤ ÁN HÀNH CHÍNH, VỤ VIỆC DÂN SỰ, HÔN NHÂN VÀ GIA ĐÌNH, KINH DOANH, THƯƠNG MẠI, LAO ĐỘNG VÀ NHỮNG VIỆC KHÁC THEO QUY ĐỊNH CỦA PHÁP LUẬT; KIỂM SÁT THI HÀNH ÁN DÂN SỰ, THI HÀNH ÁN HÀNH CHÍNH; Mục 8 GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VÀ KIỂM SÁT VIỆC GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO TRONG HOẠT ĐỘNG TƯ PHÁP; Mục 9 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯƠNG TRỢ TƯ PHÁP; Mục 10 THỐNG KÊ TỘI PHẠM VÀ CÁC CÔNG TÁC KHÁC; Điều 35.10.LQ.28. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát thi hành án dân sự, thi hành án hành chính)
 
-### Điều 35.10.LQ.51. Hệ thống Viện kiểm sát quân sự
+Điều 35.10.LQ.51. Hệ thống Viện kiểm sát quân sự
 
-*Nội dung chưa có sẵn*
+(Điều 51 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Chỉ mục:** 51
+1. Viện kiểm sát quân sự trung ương.
 
-**Mã phân cấp:** 3501000000000000300005100000000000000000
+2. Viện kiểm sát quân sự quân khu và tương đương.
 
-**ID:** dk_00059848
-
----
-
-
-### Điều 35.10.LQ.52. Cơ cấu tổ chức của Viện kiểm sát quân sự trung ương
+3. Viện kiểm sát quân sự khu vực.
 
 Điều 35.10.LQ.52. Cơ cấu tổ chức của Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005200000000000000000
+1. Viện kiểm sát quân sự trung ương thuộc cơ cấu Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059849
+2. Tổ chức bộ máy của Viện kiểm sát quân sự trung ương gồm có:
 
----
+a) Ủy ban kiểm sát;
 
+b) Văn phòng;
 
-### Điều 35.10.TT.1.16. Cán bộ chủ trì phòng, ban và tương đương thuộc Viện kiểm sát quân sự các cấp
+c) Cơ quan điều tra;
+
+d) Các phòng và tương đương.
+
+3. Viện kiểm sát quân sự trung ương có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên; Thủ trưởng, các Phó thủ trưởng Cơ quan điều tra, Điều tra viên, quân nhân khác, công chức, viên chức và người lao động khác.
 
 Điều 35.10.TT.1.16. Cán bộ chủ trì phòng, ban và tương đương thuộc Viện kiểm sát quân sự các cấp
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 350100000000000030000520000000000000000000802559301135001600
+1. Nguồn Trưởng phòng, Chánh Văn phòng Viện kiểm sát quân sự trung ương
 
-**ID:** dk_00059850
+a) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
 
----
+b) Phó Trưởng phòng, Phó Chánh Văn phòng Viện kiểm sát quân sự trung ương;
 
+c) Viện trưởng Viện kiểm sát quân sự khu vực.
 
-### Điều 35.10.LQ.53. Ủy ban kiểm sát Viện kiểm sát quân sự trung ương
+2. Nguồn Phó Trưởng phòng, Phó Chánh Văn phòng Viện kiểm sát quân sự trung ương
+
+a) Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
+
+b) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự khu vực;
+
+c) Trưởng ban Viện kiểm sát quân sự quân khu và tương đương;
+
+d) Kiểm sát viên, Điều tra viên cao cấp.
+
+3. Nguồn Trưởng ban Viện kiểm sát quân sự quân khu và tương đương
+
+a) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự khu vực;
+
+b) Kiểm sát viên, Điều tra viên trung cấp.
+
+4. Nguồn Trưởng ban Tài chính Viện kiểm sát quân sự trung ương là sĩ quan tốt nghiệp đại học (nhóm ngành Tài chính - Ngân hàng), hệ chính quy được tuyển chọn vào Viện kiểm sát quân sự theo Khoản 3 Điều 6 Thông tư này.
+
+5. Nguồn Chỉ huy Trung tâm huấn luyện của Viện kiểm sát quân sự là sĩ quan tốt nghiệp Học viện Hậu cần được tuyển chọn vào Viện kiểm sát quân sự theo Khoản 3, Điều 6 Thông tư này.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.54. Cơ cấu tổ chức của Viện kiểm sát quân sự quân khu và tương đương; Điều 35.10.TT.1.6. Nguồn tuyển chọn)
 
 Điều 35.10.LQ.53. Ủy ban kiểm sát Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005300000000000000000
+1. Ủy ban kiểm sát Viện kiểm sát quân sự trung ương gồm có:
 
-**ID:** dk_00059851
+a) Viện trưởng;
 
----
+b) Các Phó Viện trưởng;
 
+c) Một số Kiểm sát viên.
 
-### Điều 35.10.LQ.54. Cơ cấu tổ chức của Viện kiểm sát quân sự quân khu và tương đương
+2. Số lượng thành viên Ủy ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.
+
+3. Ủy ban kiểm sát Viện kiểm sát quân sự trung ương họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề sau đây:
+
+a) Chương trình, kế hoạch công tác của Viện kiểm sát quân sự;
+
+b) Báo cáo của Viện trưởng Viện kiểm sát quân sự trung ương trước Viện trưởng Viện kiểm sát nhân dân tối cao và Bộ trưởng Bộ Quốc phòng về công tác của Viện kiểm sát quân sự;
+
+c) Kiến nghị của Viện kiểm sát quân sự trung ương với Bộ trưởng Bộ Quốc phòng về việc đấu tranh phòng, chống tội phạm trong quân đội;
+
+d) Xét tuyển người đang công tác tại Viện kiểm sát quân sự trung ương đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;
+
+đ) Xem xét, đề nghị Viện trưởng Viện kiểm sát quân sự trung ương trình Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát quân sự trung ương.
+
+4. Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát nhân dân tối cao.
+
+5. Theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự phức tạp để Viện trưởng xem xét, quyết định.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.54. Cơ cấu tổ chức của Viện kiểm sát quân sự quân khu và tương đương
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005400000000000000000
+1. Tổ chức bộ máy của Viện kiểm sát quân sự quân khu và tương đương gồm có:
 
-**ID:** dk_00059852
+a) Ủy ban kiểm sát;
 
----
+b) Các ban và bộ máy giúp việc.
 
+2. Viện kiểm sát quân sự quân khu và tương đương có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác.
 
-### Điều 35.10.LQ.55. Ủy ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.16. Cán bộ chủ trì phòng, ban và tương đương thuộc Viện kiểm sát quân sự các cấp)
 
 Điều 35.10.LQ.55. Ủy ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005500000000000000000
+1. Ủy ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương gồm có:
 
-**ID:** dk_00059853
+a) Viện trưởng;
 
----
+b) Các Phó Viện trưởng;
 
+c) Một số Kiểm sát viên.
 
-### Điều 35.10.LQ.56. Cơ cấu tổ chức của Viện kiểm sát quân sự khu vực
+2. Số lượng thành viên Ủy ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát quân sự trung ương quyết định theo đề nghị của Viện trưởng Viện kiểm sát quân sự quân khu và tương đương.
+
+3. Ủy ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề sau đây:
+
+a) Việc thực hiện chương trình, kế hoạch công tác của Viện kiểm sát quân sự trung ương;
+
+b) Báo cáo tổng kết công tác với Viện trưởng Viện kiểm sát quân sự trung ương và Tư lệnh quân khu và tương đương;
+
+c) Xét tuyển người đang công tác tại Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;
+
+d) Xem xét, đề nghị Viện trưởng Viện kiểm sát quân sự trung ương trình Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực.
+
+4. Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát quân sự trung ương.
+
+5. Theo đề nghị của Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự phức tạp để Viện trưởng xem xét, quyết định.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.56. Cơ cấu tổ chức của Viện kiểm sát quân sự khu vực
 
-**Chỉ mục:** 56
+(Điều 56 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005600000000000000000
+1. Tổ chức bộ máy của Viện kiểm sát quân sự khu vực gồm có các bộ phận công tác và bộ máy giúp việc.
 
-**ID:** dk_00059854
-
----
-
-
-### Điều 35.10.LQ.57. Thành lập, giải thể Viện kiểm sát quân sự
+2. Viện kiểm sát quân sự khu vực có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác.
 
 Điều 35.10.LQ.57. Thành lập, giải thể Viện kiểm sát quân sự
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000300005700000000000000000
+Việc thành lập, giải thể Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao thống nhất với Bộ trưởng Bộ Quốc phòng trình Ủy ban thường vụ Quốc hội quyết định.
 
-**ID:** dk_00059855
+Chương IV
 
----
+CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG KHÁC CỦA VIỆN KIỂM SÁT NHÂN DÂN
 
+Mục 1
 
-### Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
+NHỮNG QUY ĐỊNH CHUNG
 
 Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 58
+(Điều 58 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000001000000000000000005800000000000000000
+1. Các chức danh tư pháp trong Viện kiểm sát nhân dân gồm có:
 
-**ID:** dk_00059858
+a) Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân, Viện kiểm sát quân sự các cấp;
 
----
+b) Kiểm sát viên;
 
+c) Thủ trưởng, Phó thủ trưởng Cơ quan điều tra;
 
-### Điều 35.10.LQ.59. Trách nhiệm của cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
+d) Điều tra viên;
+
+đ) Kiểm tra viên.
+
+2. Các công chức khác, viên chức và người lao động khác.
+
+3. Ở Viện kiểm sát quân sự có các chức danh tư pháp, công chức, viên chức, người lao động khác quy định tại khoản 1 và khoản 2 Điều này và các quân nhân khác.
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.17. Kiểm sát viên sơ cấp; Điều 35.10.TT.1.18. Kiểm sát viên trung cấp; Điều 35.10.TT.1.19. Kiểm sát viên cao cấp; Điều 35.10.TT.1.20. Kiểm sát viên Viện kiểm sát nhân dân tối cao; Điều 35.10.TT.1.21. Kiểm tra viên các ngạch; Điều 35.10.TT.1.22. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.23. Điều tra viên các ngạch của Cơ quan điều tra Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.24. Chuyên viên nghiên cứu Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.25. Trợ lý kế hoạch tổng hợp Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.26. Trợ lý thống kê hình sự, thống kê tội phạm Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.27. Trợ lý công nghệ thông tin Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.28. Trợ lý nhân sự, Trợ lý đào tạo kiêm quản lý hồ sơ cán bộ Viện kiểm sát quân sự trung ương; Điều 35.10.TT.1.29. Trợ lý chính trị Viện kiểm sát quân sự trung ương)
 
 Điều 35.10.LQ.59. Trách nhiệm của cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 59
+(Điều 59 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000001000000000000000005900000000000000000
+1. Thực hiện nhiệm vụ, quyền hạn và chịu trách nhiệm trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.
 
-**ID:** dk_00059859
+2. Bồi thường, bồi hoàn thiệt hại gây ra khi thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật.
 
----
+3. Giữ bí mật nhà nước và bí mật công tác.
 
+4. Tôn trọng và chịu sự giám sát của nhân dân.
 
-### Điều 35.10.TT.1.4. Nghĩa vụ của cán bộ Viện kiểm sát quân sự
+5. Nghiêm chỉnh chấp hành Hiến pháp, pháp luật, quy định của Viện kiểm sát nhân dân; tham gia phổ biến, giáo dục pháp luật.
+
+6. Thường xuyên học tập, nghiên cứu, nâng cao trình độ chuyên môn, nghiệp vụ.
+
+(Điều này có nội dung liên quan đến Điều 5.1.LQ.20. Những việc khác cán bộ, công chức không được làm; Điều 5.2.LQ.16. Nghĩa vụ chung của viên chức; Điều 5.2.LQ.17. Nghĩa vụ của viên chức trong hoạt động nghề nghiệp; Điều 5.2.LQ.19. Những việc viên chức không được làm; Điều 44.8.LQ.26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước; Điều 37.8.LQ.14. Quyền và nghĩa vụ của người thi hành công vụ gây thiệt hại; Điều 37.8.LQ.64. Nghĩa vụ hoàn trả của người thi hành công vụ)
 
 Điều 35.10.TT.1.4. Nghĩa vụ của cán bộ Viện kiểm sát quân sự
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000100000000000000000590000000000000000000802559301135000400
+1. Nghiêm chỉnh chấp hành đường lối, chủ trương, chính sách của Đảng, pháp luật Nhà nước, kỷ luật Quân đội và các quy chế công tác của Viện Kiểm sát nhân dân.
 
-**ID:** dk_00059860
+2. Thực hiện tốt chức trách, nhiệm vụ, sẵn sàng nhận và hoàn thành mọi nhiệm vụ được giao.
 
----
-
-
-### Điều 35.10.TT.1.5. Quyền lợi của cán bộ Viện kiểm sát quân sự
+3. Thường xuyên học tập, nghiên cứu để nâng cao trình độ về mọi mặt; quý trọng danh dự nghề nghiệp, phấn đấu, rèn luyện trở thành cán bộ mẫu mực, trong sáng về đạo đức, thận trọng, khiêm tốn, giữ gìn và phát huy truyền thống tốt đẹp của Quân đội nhân dân Việt Nam và Viện kiểm sát quân sự.
 
 Điều 35.10.TT.1.5. Quyền lợi của cán bộ Viện kiểm sát quân sự
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000100000000000000000590000000000000000000802559301135000500
+1. Được bố trí, sử dụng theo chức danh quy định, phù hợp với trình độ chuyên môn được đào tạo và năng lực thực hiện nhiệm vụ được giao.
 
-**ID:** dk_00059861
+2. Được học tập, bồi dưỡng nâng cao trình độ về mọi mặt; khuyến khích và tạo điều kiện để phát triển tài năng; nếu có đủ điều kiện, tiêu chuẩn thì có thể được xét thi tuyển, đào tạo theo các quy định tại Chương II của Thông tư này.
 
----
+3. Được hưởng mọi chế độ, quyền lợi, chính sách theo quy định của Quân đội và Viện kiểm sát nhân dân.
 
-
-### Điều 35.10.LQ.60. Điều động, luân chuyển, biệt phái công chức, viên chức của Viện kiểm sát nhân dân
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.95. Chế độ tiền lương; Điều 35.10.LQ.96. Chế độ phụ cấp; Điều 35.10.LQ.98. Chế độ đào tạo, bồi dưỡng)
 
 Điều 35.10.LQ.60. Điều động, luân chuyển, biệt phái công chức, viên chức của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000001000000000000000006000000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân tối cao quyết định:
 
-**ID:** dk_00059862
+a) Điều động, luân chuyển công chức, viên chức giữa các Viện kiểm sát nhân dân. Khi cần thiết thì điều động, luân chuyển công chức giữa các Viện kiểm sát nhân dân trong cùng một tỉnh, thành phố trực thuộc trung ương;
 
----
+b) Biệt phái công chức, viên chức của Viện kiểm sát nhân dân đến làm việc ở cơ quan nhà nước hoặc đơn vị khác theo yêu cầu nhiệm vụ.
 
+2. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh quyết định điều động, luân chuyển công chức giữa các Viện kiểm sát nhân dân trong cùng một tỉnh, thành phố trực thuộc trung ương.
 
-### Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự
+3. Bộ trưởng Bộ Quốc phòng quyết định:
+
+a) Điều động, luân chuyển Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức giữa các Viện kiểm sát quân sự không cùng quân khu và tương đương sau khi thống nhất với Viện trưởng Viện kiểm sát nhân dân tối cao;
+
+b) Biệt phái Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức của Viện kiểm sát quân sự đến làm việc ở cơ quan nhà nước hoặc đơn vị khác theo yêu cầu nhiệm vụ sau khi thống nhất với Viện trưởng Viện kiểm sát nhân dân tối cao.
+
+4. Tư lệnh quân khu và tương đương quyết định điều động, luân chuyển Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức giữa các Viện kiểm sát quân sự trực thuộc quân khu và tương đương sau khi thống nhất với Viện trưởng Viện kiểm sát quân sự trung ương.
 
 Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000100000000000000000600000000000000000000802559301135001400
+1. Việc bổ nhiệm, miễn nhiệm, cách chức, điều động đối với cán bộ Viện kiểm sát quân sự thực hiện theo quy định của Luật tổ chức Viện kiểm sát nhân dân; pháp luật về tổ chức cơ quan điều tra hình sự; Quy chế công tác cán bộ trong Quân đội nhân dân Việt Nam của Quân ủy Trung ương; quy trình bổ nhiệm các chức danh pháp lý của Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059863
+2. Những người được tuyển chọn vào Viện kiểm sát quân sự, nếu đề nghị bổ nhiệm Kiểm sát viên, Điều tra viên sơ cấp đến hai lần mà không được bổ nhiệm thì báo cáo cấp có thẩm quyền xem xét, quyết định điều chuyển khỏi Viện kiểm sát quân sự.
 
----
+3. Kiểm sát viên và Điều tra viên các ngạch nếu đề nghị bổ nhiệm lại đến hai lần mà không được bổ nhiệm thì tùy từng trường hợp cụ thể báo cáo cấp có thẩm quyền xem xét, quyết định điều chuyển công tác khác.
 
+4. Việc điều động, chuyển công tác khỏi ngành đối với cán bộ Viện kiểm sát quân sự phải có ý kiến bằng văn bản của Viện trưởng Viện kiểm sát quân sự trung ương; khi có ý kiến khác nhau phải báo cáo cấp có thẩm quyền xem xét, quyết định.
 
-### Điều 35.10.LQ.61. Quản lý công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
+5. Cấp nào có thẩm quyền bổ nhiệm cán bộ Viện kiểm sát quân sự thì cấp đó có thẩm quyền miễn nhiệm, cách chức.
+
+(Điều này có nội dung liên quan đến Điều 1. Sửa đổi, bổ sung một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam: của Luật 19/2008/QH12 Sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam ban hành ngày 03/06/2008; Điều 1. của Luật 72/2014/QH13 Sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam ban hành ngày 27/11/2014; Điều 25.14.LQ.15. Cấp bậc quân hàm cao nhất đối với chức vụ của sĩ quan; Điều 25.14.LQ.25. Thẩm quyền quyết định đối với sĩ quan; Điều 35.10.LQ.69. Viện trưởng Viện kiểm sát quân sự trung ương; Điều 35.10.LQ.70. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương; Điều 35.10.LQ.71. Viện trưởng Viện kiểm sát quân sự khu vực; Điều 35.10.LQ.72. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực; Điều 35.10.LQ.77. Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp; Điều 35.10.LQ.78. Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp; Điều 35.10.LQ.79. Tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp; Điều 35.10.LQ.80. Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao; Điều 35.10.LQ.81. Bổ nhiệm Kiểm sát viên trong trường hợp đặc biệt; Điều 35.10.LQ.88. Miễn nhiệm Kiểm sát viên; Điều 35.10.LQ.89. Cách chức Kiểm sát viên; Điều 35.10.LQ.90. Kiểm tra viên; Điều 35.10.NQ.3.8. Miễn nhiệm, cách chức Kiểm tra viên)
 
 Điều 35.10.LQ.61. Quản lý công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000001000000000000000006100000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân tối cao thống nhất quản lý công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân các cấp theo quy định của pháp luật, bảo đảm xây dựng Viện kiểm sát nhân dân trong sạch, vững mạnh.
 
-**ID:** dk_00059864
+2. Viện trưởng các Viện kiểm sát nhân dân khác trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm quản lý công chức và người lao động khác của Viện kiểm sát theo quy định của Luật này và theo sự phân công, phân cấp của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
----
+Mục 2
 
-
-### Điều 35.10.LQ.62. Viện trưởng Viện kiểm sát nhân dân tối cao
+VIỆN TRƯỞNG, PHÓ VIỆN TRƯỞNG VIỆN KIỂM SÁT NHÂN DÂN CÁC CẤP
 
 Điều 35.10.LQ.62. Viện trưởng Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006200000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân tối cao do Quốc hội bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước.
 
-**ID:** dk_00059866
+2. Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao theo nhiệm kỳ của Quốc hội. Khi Quốc hội hết nhiệm kỳ, Viện trưởng Viện kiểm sát nhân dân tối cao tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới bầu ra Viện trưởng Viện kiểm sát nhân dân tối cao.
 
----
-
-
-### Điều 35.10.LQ.63. Nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát nhân dân tối cao
+(Điều này có nội dung liên quan đến Điều 18.1.LQ.51. Thẩm quyền giải quyết khiếu nại; Điều 18.4.LQ.17. Việc tổ chức tiếp công dân tại Tòa án nhân dân, Viện kiểm sát nhân dân, Kiểm toán nhà nước; Điều 18.4.LQ.18. Trách nhiệm của người đứng đầu cơ quan trong việc tiếp công dân; Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng của Nghị quyết 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn ban hành ngày 28/11/2014; Điều 107. Xây dựng, ban hành thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao; Điều 110. Xây dựng, ban hành thông tư liên tịch của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015)
 
 Điều 35.10.LQ.63. Nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006300000000000000000
+1. Lãnh đạo, chỉ đạo, hướng dẫn, thanh tra, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác và xây dựng Viện kiểm sát nhân dân; quyết định các vấn đề về công tác của Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059867
+2. Ban hành thông tư, quyết định, chỉ thị, điều lệ, quy chế, chế độ công tác áp dụng đối với Viện kiểm sát nhân dân.
 
----
+3. Quy định bộ máy làm việc của Viện kiểm sát nhân dân tối cao và trình Ủy ban thường vụ Quốc hội phê chuẩn; quyết định bộ máy làm việc của Viện kiểm sát nhân dân cấp dưới; quy định bộ máy làm việc của Viện kiểm sát quân sự sau khi thống nhất với Bộ trưởng Bộ Quốc phòng, trình Ủy ban thường vụ Quốc hội phê chuẩn.
 
+4. Trình Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức Phó Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên Viện kiểm sát nhân dân tối cao.
 
-### Điều 35.10.LQ.64. Phó Viện trưởng Viện kiểm sát nhân dân tối cao
+5. Bổ nhiệm, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp, Điều tra viên các ngạch, Kiểm tra viên các ngạch.
+
+6. Bổ nhiệm, miễn nhiệm, cách chức các chức vụ lãnh đạo, quản lý thuộc thẩm quyền.
+
+7. Kiến nghị xây dựng luật, pháp lệnh; chỉ đạo việc xây dựng và trình dự án luật, pháp lệnh theo quy định của pháp luật; đề nghị Ủy ban thường vụ Quốc hội giải thích Hiến pháp, luật, pháp lệnh.
+
+8. Trình Chủ tịch nước ý kiến của mình về những trường hợp người bị kết án xin ân giảm án tử hình.
+
+9. Chỉ đạo, tổ chức thực hiện việc tổng kết kinh nghiệm thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân.
+
+10. Tham dự các phiên họp của Hội đồng thẩm phán Tòa án nhân dân tối cao bàn về việc hướng dẫn áp dụng thống nhất pháp luật.
+
+11. Kiến nghị với Chính phủ, các bộ, ngành trong công tác đấu tranh phòng, chống tội phạm và vi phạm pháp luật.
+
+12. Chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Ủy ban thường vụ Quốc hội và Chủ tịch nước; trả lời chất vấn, kiến nghị, yêu cầu của đại biểu Quốc hội.
+
+13. Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 5.1.LQ.10. Nghĩa vụ của cán bộ, công chức là người đứng đầu; Điều 18.1.LQ.51. Thẩm quyền giải quyết khiếu nại; Điều 18.4.LQ.18. Trách nhiệm của người đứng đầu cơ quan trong việc tiếp công dân; Điều 107. Xây dựng, ban hành thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao; Điều 110. Xây dựng, ban hành thông tư liên tịch của Luật 80/2015/QH13 Ban hành văn bản quy phạm pháp luật ban hành ngày 22/06/2015; Điều 65. Trình bày chữ ký văn bản của Nghị định 34/2016/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật ban hành ngày 14/05/2016)
 
 Điều 35.10.LQ.64. Phó Viện trưởng Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006400000000000000000
+1. Phó Viện trưởng Viện kiểm sát nhân dân tối cao do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059868
+2. Phó Viện trưởng Viện kiểm sát nhân dân tối cao thực hiện nhiệm vụ, quyền hạn theo sự phân công hoặc ủy quyền của Viện trưởng Viện kiểm sát nhân dân tối cao và các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm trước Viện trưởng và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.
 
----
-
-
-### Điều 35.10.LQ.65. Viện trưởng Viện kiểm sát nhân dân cấp cao
+3. Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát nhân dân tối cao là 05 năm, kể từ ngày được bổ nhiệm.
 
 Điều 35.10.LQ.65. Viện trưởng Viện kiểm sát nhân dân cấp cao
 
-**Chỉ mục:** 65
+(Điều 65 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006500000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân cấp cao do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.
 
-**ID:** dk_00059869
+2. Viện trưởng Viện kiểm sát nhân dân cấp cao có những nhiệm vụ, quyền hạn sau đây:
 
----
+a) Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác của Viện kiểm sát nhân dân cấp cao; quyết định các vấn đề về công tác của Viện kiểm sát nhân dân cấp cao; chịu trách nhiệm và báo cáo công tác trước Viện trưởng Viện kiểm sát nhân dân tối cao;
 
+b) Chỉ đạo, hướng dẫn, kiểm tra hoạt động nghiệp vụ thực hành quyền công tố và kiểm sát xét xử của Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện;
 
-### Điều 35.10.LQ.66. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh
+c) Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+3. Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân cấp cao là 05 năm, kể từ ngày được bổ nhiệm.
+
+(Điều này có nội dung liên quan đến Điều 5.1.LQ.10. Nghĩa vụ của cán bộ, công chức là người đứng đầu; Điều 18.1.LQ.51. Thẩm quyền giải quyết khiếu nại; Điều 18.4.LQ.18. Trách nhiệm của người đứng đầu cơ quan trong việc tiếp công dân)
 
 Điều 35.10.LQ.66. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006600000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.
 
-**ID:** dk_00059870
+2. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh có những nhiệm vụ, quyền hạn sau đây:
 
----
+a) Chỉ đạo, điều hành, thanh tra, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác của Viện kiểm sát nhân dân cấp tỉnh; quyết định các vấn đề về công tác của Viện kiểm sát nhân dân cấp tỉnh; chịu trách nhiệm và báo cáo công tác của Viện kiểm sát nhân dân cấp tỉnh và cấp dưới trực thuộc trước Viện trưởng Viện kiểm sát nhân dân tối cao; báo cáo công tác thực hành quyền công tố và kiểm sát xét xử của Viện kiểm sát nhân dân cấp tỉnh và cấp dưới trực thuộc trước Viện trưởng Viện kiểm sát nhân dân cấp cao;
 
+b) Chỉ đạo, hướng dẫn, thanh tra, kiểm tra hoạt động của Viện kiểm sát nhân dân cấp huyện trực thuộc;
 
-### Điều 35.10.LQ.67. Viện trưởng Viện kiểm sát nhân dân cấp huyện
+c) Báo cáo trước Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương về công tác của Viện kiểm sát nhân dân cấp mình và cấp dưới; trả lời chất vấn, kiến nghị, yêu cầu của đại biểu Hội đồng nhân dân cùng cấp;
+
+d) Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+3. Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh là 05 năm, kể từ ngày được bổ nhiệm.
+
+(Điều này có nội dung liên quan đến Điều 5.1.LQ.10. Nghĩa vụ của cán bộ, công chức là người đứng đầu; Điều 18.1.LQ.51. Thẩm quyền giải quyết khiếu nại; Điều 18.4.LQ.18. Trách nhiệm của người đứng đầu cơ quan trong việc tiếp công dân)
 
 Điều 35.10.LQ.67. Viện trưởng Viện kiểm sát nhân dân cấp huyện
 
-**Chỉ mục:** 67
+(Điều 67 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006700000000000000000
+1. Viện trưởng Viện kiểm sát nhân dân cấp huyện do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.
 
-**ID:** dk_00059871
+2. Viện trưởng Viện kiểm sát nhân dân cấp huyện có những nhiệm vụ, quyền hạn sau đây:
 
----
+a) Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định các vấn đề về công tác của Viện kiểm sát nhân dân cấp mình và thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm và báo cáo công tác trước Viện trưởng Viện kiểm sát nhân dân cấp tỉnh; báo cáo công tác thực hành quyền công tố và kiểm sát xét xử với Viện trưởng Viện kiểm sát nhân dân cấp cao khi có yêu cầu;
 
+b) Báo cáo công tác trước Hội đồng nhân dân, trả lời chất vấn, kiến nghị, yêu cầu của đại biểu Hội đồng nhân dân theo quy định của pháp luật.
 
-### Điều 35.10.LQ.68. Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện
+3. Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân cấp huyện là 05 năm, kể từ ngày được bổ nhiệm.
+
+(Điều này có nội dung liên quan đến Điều 5.1.LQ.10. Nghĩa vụ của cán bộ, công chức là người đứng đầu; Điều 18.1.LQ.51. Thẩm quyền giải quyết khiếu nại; Điều 18.4.LQ.18. Trách nhiệm của người đứng đầu cơ quan trong việc tiếp công dân)
 
 Điều 35.10.LQ.68. Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006800000000000000000
+1. Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.
 
-**ID:** dk_00059872
+2. Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật, theo sự phân công hoặc ủy quyền của Viện trưởng Viện kiểm sát nhân dân cấp mình; chịu trách nhiệm về việc thực hiện nhiệm vụ, quyền hạn trước Viện trưởng Viện kiểm sát nhân dân cấp mình và trước pháp luật.
 
----
-
-
-### Điều 35.10.LQ.69. Viện trưởng Viện kiểm sát quân sự trung ương
+3. Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện là 05 năm, kể từ ngày được bổ nhiệm.
 
 Điều 35.10.LQ.69. Viện trưởng Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 69
+(Điều 69 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000006900000000000000000
+1. Viện trưởng Viện kiểm sát quân sự trung ương là Phó Viện trưởng Viện kiểm sát nhân dân tối cao do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.
 
-**ID:** dk_00059873
+2. Viện trưởng Viện kiểm sát quân sự trung ương có những nhiệm vụ, quyền hạn sau đây:
 
----
+a) Lãnh đạo, chỉ đạo, hướng dẫn, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác và xây dựng Viện kiểm sát quân sự; quyết định các vấn đề về công tác của Viện kiểm sát quân sự trung ương;
 
+b) Báo cáo công tác của Viện kiểm sát quân sự trước Viện trưởng Viện kiểm sát nhân dân tối cao và Bộ trưởng Bộ Quốc phòng;
 
-### Điều 35.10.TT.1.15. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp
+c) Đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức Phó Viện trưởng Viện kiểm sát quân sự trung ương; Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực; Kiểm sát viên, Điều tra viên của Viện kiểm sát quân sự;
+
+d) Bổ nhiệm, miễn nhiệm, cách chức Kiểm tra viên các ngạch Viện kiểm sát quân sự;
+
+đ) Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật và sự phân công của Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng Bộ Quốc phòng.
+
+3. Nhiệm kỳ của Viện trưởng Viện kiểm sát quân sự trung ương là 05 năm, kể từ ngày được bổ nhiệm.
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
 Điều 35.10.TT.1.15. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000200000000000000000690000000000000000000802559301135001500
+1. Nguồn Viện trưởng Viện kiểm sát quân sự khu vực
 
-**ID:** dk_00059874
+a) Phó Viện trưởng Viện kiểm sát quân sự khu vực;
 
----
+b) Trưởng ban Viện kiểm sát quân sự quân khu và tương đương;
 
+c) Kiểm sát viên trung cấp;
 
-### Điều 35.10.LQ.70. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương
+d) Trường hợp đặc biệt khác do cấp có thẩm quyền quyết định.
+
+2. Nguồn Phó Viện trưởng Viện kiểm sát quân sự khu vực
+
+a) Kiểm sát viên sơ cấp, trung cấp;
+
+b) Điều tra viên trung cấp.
+
+3. Nguồn Viện trưởng Viện kiểm sát quân sự quân khu và tương đương
+
+a) Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
+
+b) Trưởng phòng, Phó Trưởng phòng, Chánh Văn phòng, Phó Chánh Văn phòng, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương;
+
+c) Viện trưởng Viện kiểm sát quân sự khu vực;
+
+d) Trưởng ban Viện kiểm sát quân sự quân khu và tương đương;
+
+đ) Kiểm sát viên cao cấp;
+
+e) Trường hợp đặc biệt khác do cấp có thẩm quyền quyết định.
+
+4. Nguồn Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương
+
+a) Trưởng phòng, Phó Trưởng phòng, Chánh Văn phòng, Phó Chánh Văn phòng, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương;
+
+b) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự khu vực;
+
+c) Trưởng ban Viện kiểm sát quân sự quân khu và tương đương;
+
+d) Kiểm sát viên trung cấp, cao cấp; Điều tra viên cao cấp.
+
+5. Nguồn Viện trưởng Viện kiểm sát quân sự trung ương
+
+a) Phó Viện trưởng Viện kiểm sát quân sự trung ương;
+
+b) Viện trưởng Viện kiểm sát quân sự quân khu và tương đương; Trưởng phòng; Thủ trưởng Cơ quan điều tra, Chánh Văn phòng Viện kiểm sát quân sự trung ương;
+
+c) Trường hợp đặc biệt khác do cấp có thẩm quyền quyết định.
+
+6. Nguồn Phó Viện trưởng Viện kiểm sát quân sự trung ương
+
+a) Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
+
+b) Trưởng phòng, Phó Trưởng phòng; Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; Chánh Văn phòng, Phó Chánh Văn phòng Viện kiểm sát quân sự trung ương.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.70. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương; Điều 35.10.LQ.71. Viện trưởng Viện kiểm sát quân sự khu vực; Điều 35.10.LQ.72. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực)
 
 Điều 35.10.LQ.70. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000007000000000000000000
+1. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.
 
-**ID:** dk_00059875
+2. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương có những nhiệm vụ, quyền hạn sau đây:
 
----
+a) Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định các vấn đề về công tác của Viện kiểm sát quân sự cấp mình; chịu trách nhiệm và báo cáo công tác của Viện kiểm sát quân sự cấp mình và cấp dưới trực thuộc trước Viện trưởng Viện kiểm sát quân sự trung ương; trả lời chất vấn trước Hội nghị đại biểu quân nhân do cơ quan chính trị quân khu và tương đương tổ chức hằng năm;
 
+b) Chỉ đạo, hướng dẫn, kiểm tra hoạt động của Viện kiểm sát quân sự khu vực trực thuộc;
 
-### Điều 35.10.LQ.71. Viện trưởng Viện kiểm sát quân sự khu vực
+c) Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+
+3. Nhiệm kỳ của Viện trưởng Viện kiểm sát quân sự quân khu và tương đương là 05 năm, kể từ ngày được bổ nhiệm.
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự; Điều 35.10.TT.1.15. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp)
 
 Điều 35.10.LQ.71. Viện trưởng Viện kiểm sát quân sự khu vực
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000007100000000000000000
+1. Viện trưởng Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.
 
-**ID:** dk_00059876
+2. Viện trưởng Viện kiểm sát quân sự khu vực chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định những vấn đề về công tác của Viện kiểm sát quân sự cấp mình và thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm và báo cáo công tác trước Viện trưởng Viện kiểm sát quân sự cấp trên.
 
----
+3. Nhiệm kỳ của Viện trưởng Viện kiểm sát quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm.
 
-
-### Điều 35.10.LQ.72. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự; Điều 35.10.TT.1.15. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp)
 
 Điều 35.10.LQ.72. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực
 
-**Chỉ mục:** 72
+(Điều 72 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000007200000000000000000
+1. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.
 
-**ID:** dk_00059877
+2. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực thực hiện nhiệm vụ, quyền hạn theo sự phân công hoặc ủy quyền của Viện trưởng Viện kiểm sát quân sự cấp mình và các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm về việc thực hiện nhiệm vụ, quyền hạn trước Viện trưởng Viện kiểm sát quân sự cấp mình và trước pháp luật.
 
----
+3. Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm.
 
-
-### Điều 35.10.LQ.73. Trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố, kiểm sát hoạt động tư pháp
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự; Điều 35.10.TT.1.15. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp)
 
 Điều 35.10.LQ.73. Trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố, kiểm sát hoạt động tư pháp
 
-**Chỉ mục:** 73
+(Điều 73 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000002000000000000000007300000000000000000
+Khi thực hành quyền công tố, kiểm sát hoạt động tư pháp, Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân phải nghiêm chỉnh chấp hành Hiến pháp, pháp luật và phải chịu trách nhiệm trước pháp luật về những hành vi, quyết định của mình trong việc khởi tố, bắt, giam, giữ, truy tố, tranh tụng, kháng nghị và các hành vi, quyết định khác thuộc thẩm quyền; nếu làm trái pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật.
 
-**ID:** dk_00059878
+(Điều này có nội dung liên quan đến Điều 37.8.LQ.35. Viện kiểm sát giải quyết bồi thường trong hoạt động tố tụng hình sự)
 
----
+Mục 3
 
+KIỂM SÁT VIÊN, KIỂM TRA VIÊN CỦA VIỆN KIỂM SÁT NHÂN DÂN
 
-### Điều 35.10.LQ.74. Kiểm sát viên
+Điều 35.10.LQ.74. Kiểm sát viên
 
-*Nội dung chưa có sẵn*
+(Điều 74 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Chỉ mục:** 74
-
-**Mã phân cấp:** 350100000000000040000003000000000000000007400000000000000000
-
-**ID:** dk_00059880
-
----
-
-
-### Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên
+Kiểm sát viên là người được bổ nhiệm theo quy định của pháp luật để thực hiện chức năng thực hành quyền công tố, kiểm sát hoạt động tư pháp.
 
 Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên
 
-**Chỉ mục:** 75
+(Điều 75 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000007500000000000000000
+1. Là công dân Việt Nam trung thành với Tổ quốc và Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, có phẩm chất đạo đức tốt, liêm khiết, trung thực, bản lĩnh chính trị vững vàng, có tinh thần kiên quyết bảo vệ pháp chế xã hội chủ nghĩa.
 
-**ID:** dk_00059881
+2. Có trình độ cử nhân luật trở lên.
 
----
+3. Đã được đào tạo về nghiệp vụ kiểm sát.
 
+4. Có thời gian làm công tác thực tiễn theo quy định của Luật này.
 
-### Điều 35.10.TT.1.6. Nguồn tuyển chọn
+5. Có sức khỏe bảo đảm hoàn thành nhiệm vụ được giao.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.77. Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp; Điều 35.10.LQ.78. Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp; Điều 35.10.LQ.79. Tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp; Điều 35.10.LQ.80. Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao)
 
-**Chỉ mục:** 6
+Điều 35.10.TT.1.6. Nguồn tuyển chọn
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000750000000000000000000802559301135000600
+(Điều 6 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**ID:** dk_00059882
+1. Quân nhân tại ngũ, công nhân viên quốc phòng; cán bộ, công chức, viên chức, công dân ngoài Quân đội có trình độ Tiến sĩ luật, Thạc sĩ luật hoặc đã tốt nghiệp cử nhân luật, hệ chính quy, loại khá trở lên.
 
----
+Trường hợp tình nguyện đến công tác ở các đơn vị đóng quân trên địa bàn vùng cao, biên giới, hải đảo hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của Chính phủ, có thể tuyển chọn tốt nghiệp cử nhân luật, hệ chính quy, loại trung bình.
 
+2. Quân nhân tại ngũ, công nhân viên quốc phòng, học sinh tốt nghiệp phổ thông trung học trúng tuyển sinh đại học quân sự được tuyển chọn đi đào tạo đại học luật hệ chính quy.
 
-### Điều 35.10.TT.1.7. Tiêu chuẩn tuyển chọn
+3. Những người có đủ các điều kiện, tiêu chuẩn của chức danh công tác trong Viện kiểm sát quân sự.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.16. Cán bộ chủ trì phòng, ban và tương đương thuộc Viện kiểm sát quân sự các cấp; Điều 35.10.TT.1.17. Kiểm sát viên sơ cấp; Điều 35.10.TT.1.21. Kiểm tra viên các ngạch)
 
-**Chỉ mục:** 7
+Điều 35.10.TT.1.7. Tiêu chuẩn tuyển chọn
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000750000000000000000000802559301135000700
+(Điều 7 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**ID:** dk_00059883
+Những người thuộc Điều 6 Thông tư này có đủ các điều kiện, tiêu chuẩn tuyển chọn vào đội ngũ cán bộ theo quy định của Bộ Quốc phòng; có năng lực thực hiện chức năng, nhiệm vụ của Viện kiểm sát quân sự; không nói ngọng, nói lắp, không có khuyết tật ảnh hưởng tới yêu cầu nghề nghiệp; có nguyện vọng phục vụ lâu dài tại Viện kiểm sát quân sự các cấp.
 
----
+Điều 35.10.TT.1.8. Quy trình tuyển chọn
 
+(Điều 8 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-### Điều 35.10.TT.1.8. Quy trình tuyển chọn
+1. Quy trình tuyển chọn đối với những người là sinh viên tốt nghiệp đại học, cán bộ, công chức, viên chức ngoài Quân đội
 
-*Nội dung chưa có sẵn*
+a) Xây dựng kế hoạch chỉ tiêu tuyển chọn cán bộ Viện kiểm sát quân sự:
 
-**Chỉ mục:** 8
+- Hằng năm, căn cứ vào nhu cầu biên chế, thực trạng đội ngũ cán bộ, cơ quan cán bộ cấp quân khu và tương đương chủ trì, phối hợp với Viện kiểm sát quân sự cùng cấp xây dựng kế hoạch, chỉ tiêu tuyển chọn cán bộ, báo cáo cơ quan chính trị thẩm định, trình thường vụ đảng ủy cấp mình.
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000750000000000000000000802559301135000800
+- Căn cứ vào quyết nghị của thường vụ đảng ủy cấp mình, cơ quan cán bộ cấp quân khu và tương đương tổng hợp kế hoạch, chỉ tiêu tuyển chọn cán bộ báo cáo Tổng cục Chính trị (qua Cục Cán bộ).
 
-**ID:** dk_00059884
+- Cục Cán bộ tổng hợp, trao đổi với Viện kiểm sát quân sự trung ương đề xuất chỉ tiêu tuyển chọn cán bộ Viện kiểm sát quân sự, báo cáo Thủ trưởng Tổng cục Chính trị và Bộ Quốc phòng xem xét, quyết định.
 
----
+b) Đề xuất nhân sự tuyển chọn cán bộ Viện kiểm sát quân sự:
 
+- Viện kiểm sát quân sự quân khu và tương đương
 
-### Điều 35.10.LQ.76. Ngạch Kiểm sát viên
+Sau khi được thông báo chỉ tiêu tuyển chọn cán bộ, Viện kiểm sát quân sự quân khu và tương đương thông báo công khai trên các phương tiện thông tin đại chúng; phối hợp với các cơ quan chức năng cùng cấp thành lập hội đồng tuyển chọn và tổ chức sơ tuyển trên hồ sơ; tiến hành thẩm tra xác minh đối với những trường hợp đã qua sơ tuyển; tổ chức thi tuyển hoặc xét tuyển (trong trường hợp không tổ chức thi tuyển).
 
-*Nội dung chưa có sẵn*
+Tổng hợp, đề xuất nhân sự tuyển chọn báo cáo Viện kiểm sát quân sự trung ương thẩm định; sau khi có kết quả thẩm định của Viện kiểm sát quân sự trung ương (bằng văn bản), tổng hợp, báo cáo cơ quan chính trị (qua cơ quan cán bộ) trình thường vụ đảng ủy cấp mình.
 
-**Chỉ mục:** 76
+- Cơ quan cán bộ cấp quân khu và tương đương
 
-**Mã phân cấp:** 350100000000000040000003000000000000000007600000000000000000
+Tổng hợp nhân sự tuyển chọn cán bộ do Viện kiểm sát quân sự cùng cấp đề xuất, báo cáo Thủ trưởng Cục Chính trị thẩm định và thường vụ đảng ủy cùng cấp xem xét, đề nghị.
 
-**ID:** dk_00059885
+- Hoàn chỉnh hồ sơ, thủ tục báo cáo Tổng cục Chính trị và Bộ Quốc phòng (qua Cục Cán bộ) xem xét, quyết định.
 
----
+c) Những người được tuyển chọn vào đội ngũ cán bộ, công tác tại Viện kiểm sát quân sự phải qua chương trình bồi dưỡng kiến thức quân sự theo quy định của Bộ Quốc phòng.
 
+2. Quy trình tuyển chọn đối với quân nhân tại ngũ, công nhân viên quốc phòng thực hiện theo các quy định của Bộ Quốc phòng.
 
-### Điều 35.10.LQ.77. Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp
+Điều 35.10.LQ.76. Ngạch Kiểm sát viên
+
+(Điều 76 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
+
+1. Ngạch Kiểm sát viên Viện kiểm sát nhân dân gồm có:
+
+a) Kiểm sát viên Viện kiểm sát nhân dân tối cao;
+
+b) Kiểm sát viên cao cấp;
+
+c) Kiểm sát viên trung cấp;
+
+d) Kiểm sát viên sơ cấp.
+
+2. Ở Viện kiểm sát nhân dân tối cao có thể được bố trí bốn ngạch Kiểm sát viên; ở Viện kiểm sát quân sự trung ương có Viện trưởng là Kiểm sát viên Viện kiểm sát nhân dân tối cao và có thể được bố trí các ngạch Kiểm sát viên cao cấp, trung cấp, sơ cấp; các Viện kiểm sát khác có thể được bố trí các ngạch Kiểm sát viên cao cấp, trung cấp, sơ cấp.
 
 Điều 35.10.LQ.77. Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp
 
-**Chỉ mục:** 77
+(Điều 77 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000007700000000000000000
+Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm sát viên sơ cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên sơ cấp của Viện kiểm sát quân sự:
 
-**ID:** dk_00059886
+1. Có thời gian làm công tác pháp luật từ 04 năm trở lên;
 
----
+2. Có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp;
 
+3. Đã trúng tuyển kỳ thi vào ngạch Kiểm sát viên sơ cấp.
 
-### Điều 35.10.TT.1.17. Kiểm sát viên sơ cấp
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên; Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
-*Nội dung chưa có sẵn*
+Điều 35.10.TT.1.17. Kiểm sát viên sơ cấp
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000770000000000000000000802559301135001700
+1. Nguồn Kiểm sát viên sơ cấp
 
-**ID:** dk_00059887
+a) Kiểm tra viên;
 
----
+b) Những người quy định tại Khoản 1 Điều 6 Thông tư này.
 
+2. Những người quy định tại Khoản 1 Điều này, được bố trí công tác tại Viện kiểm sát quân sự, sau thời gian công tác, nếu hoàn thành tốt nhiệm vụ, có đủ các điều kiện, tiêu chuẩn theo quy định của Luật tổ chức Viện kiểm sát nhân dân thì có thể được xét, đề nghị bổ nhiệm Kiểm sát viên sơ cấp.
 
-### Điều 35.10.LQ.78. Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân; Điều 35.10.TT.1.6. Nguồn tuyển chọn)
 
 Điều 35.10.LQ.78. Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp
 
-**Chỉ mục:** 78
+(Điều 78 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000007800000000000000000
+1. Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát quân sự:
 
-**ID:** dk_00059888
+a) Đã là Kiểm sát viên sơ cấp ít nhất 05 năm;
 
----
+b) Có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp;
 
+c) Có khả năng hướng dẫn nghiệp vụ thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với Kiểm sát viên sơ cấp;
 
-### Điều 35.10.TT.1.18. Kiểm sát viên trung cấp
+d) Đã trúng tuyển kỳ thi vào ngạch Kiểm sát viên trung cấp.
 
-*Nội dung chưa có sẵn*
+2. Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 10 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, các điểm b, c và d khoản 1 Điều này thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát quân sự.
 
-**Chỉ mục:** 18
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên; Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000780000000000000000000802559301135001800
+Điều 35.10.TT.1.18. Kiểm sát viên trung cấp
 
-**ID:** dk_00059889
+(Điều 18 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
----
+1. Nguồn Kiểm sát viên trung cấp
 
+a) Kiểm sát viên sơ cấp;
 
-### Điều 35.10.LQ.79. Tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp
+b) Kiểm tra viên chính, Kiểm tra viên cao cấp;
+
+c) Sĩ quan quân đội tại ngũ đã có thời gian làm công tác pháp luật từ 10 năm trở lên.
+
+2. Những người quy định tại Khoản 1 Điều này, hoàn thành tốt nhiệm vụ, có đủ các điều kiện, tiêu chuẩn theo quy định của Luật tổ chức Viện kiểm sát nhân dân và có nhu cầu thì có thể được xét, đề nghị bổ nhiệm Kiểm sát viên trung cấp.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.79. Tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp
 
-**Chỉ mục:** 79
+(Điều 79 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000007900000000000000000
+1. Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát quân sự:
 
-**ID:** dk_00059890
+a) Đã là Kiểm sát viên trung cấp ít nhất 05 năm;
 
----
+b) Có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp;
 
+c) Có khả năng hướng dẫn nghiệp vụ thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với Kiểm sát viên cấp dưới;
 
-### Điều 35.10.TT.1.19. Kiểm sát viên cao cấp
+d) Đã trúng tuyển kỳ thi vào ngạch Kiểm sát viên cao cấp.
 
-*Nội dung chưa có sẵn*
+2. Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 15 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, các điểm b, c và d khoản 1 Điều này thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát quân sự.
 
-**Chỉ mục:** 19
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên; Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000790000000000000000000802559301135001900
+Điều 35.10.TT.1.19. Kiểm sát viên cao cấp
 
-**ID:** dk_00059891
+(Điều 19 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
----
+1. Nguồn Kiểm sát viên cao cấp
 
+a) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
 
-### Điều 35.10.LQ.80. Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao
+b) Kiểm sát viên trung cấp;
+
+c) Điều tra viên cao cấp, Kiểm tra viên cao cấp;
+
+d) Sĩ quan Quân đội tại ngũ đã có thời gian làm công tác pháp luật từ 15 năm trở lên.
+
+2. Những người quy định tại Khoản 1 Điều này, hoàn thành tốt nhiệm vụ, có đủ các tiêu chuẩn theo quy định của Luật tổ chức Viện kiểm sát nhân dân và có nhu cầu thì có thể được xét, đề nghị bổ nhiệm Kiểm sát viên cao cấp.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.80. Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 80
+(Điều 80 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008000000000000000000
+1. Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được tuyển chọn, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao:
 
-**ID:** dk_00059892
+a) Đã là Kiểm sát viên cao cấp ít nhất 05 năm;
 
----
+b) Có năng lực chỉ đạo, điều hành công tác thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân tối cao;
 
+c) Có năng lực giải quyết những vấn đề quan trọng thuộc thẩm quyền của Viện kiểm sát nhân dân tối cao.
 
-### Điều 35.10.TT.1.20. Kiểm sát viên Viện kiểm sát nhân dân tối cao
+2. Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 20 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, điểm b và điểm c khoản 1 Điều này thì có thể được tuyển chọn, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên; Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
 Điều 35.10.TT.1.20. Kiểm sát viên Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000800000000000000000000802559301135002000
+1. Nguồn Kiểm sát viên Viện kiểm sát nhân dân tối cao
 
-**ID:** dk_00059893
+a) Phó Viện trưởng Viện kiểm sát quân sự trung ương;
 
----
+b) Kiểm sát viên cao cấp.
 
+2. Những người quy định tại Khoản 1 Điều này hoàn thành tốt nhiệm vụ, có đủ tiêu chuẩn theo quy định của Luật tổ chức Viện kiểm sát nhân dân thì có thể được xét, đề nghị bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao.
 
-### Điều 35.10.LQ.81. Bổ nhiệm Kiểm sát viên trong trường hợp đặc biệt
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.81. Bổ nhiệm Kiểm sát viên trong trường hợp đặc biệt
 
-**Chỉ mục:** 81
+(Điều 81 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008100000000000000000
+Trong trường hợp đặc biệt, người được cơ quan, tổ chức có thẩm quyền điều động đến để làm lãnh đạo Viện kiểm sát nhân dân các cấp, tuy chưa đủ thời gian làm Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp hoặc chưa đủ thời gian làm công tác pháp luật, nhưng có đủ các tiêu chuẩn quy định tại Điều 75 và điều kiện quy định tại khoản 2 Điều 77, điểm b và điểm c khoản 1 của các Điều 78, 79 và 80 của Luật này thì cũng có thể được tuyển chọn và bổ nhiệm làm Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp, Kiểm sát viên Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059894
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
----
+Điều 35.10.LQ.82. Nhiệm kỳ Kiểm sát viên
 
+(Điều 82 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-### Điều 35.10.LQ.82. Nhiệm kỳ Kiểm sát viên
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 82
-
-**Mã phân cấp:** 350100000000000040000003000000000000000008200000000000000000
-
-**ID:** dk_00059895
-
----
-
-
-### Điều 35.10.LQ.83. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm sát viên
+Kiểm sát viên được bổ nhiệm lần đầu có thời hạn là 05 năm; trường hợp được bổ nhiệm lại hoặc nâng ngạch thì thời hạn là 10 năm.
 
 Điều 35.10.LQ.83. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm sát viên
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008300000000000000000
+1. Khi thực hành quyền công tố, kiểm sát hoạt động tư pháp, Kiểm sát viên tuân theo pháp luật và chịu sự chỉ đạo của Viện trưởng Viện kiểm sát nhân dân.
 
-**ID:** dk_00059896
+Kiểm sát viên tuân theo pháp luật và phải chịu trách nhiệm trước pháp luật về hành vi, quyết định của mình trong việc thực hành quyền công tố, tranh tụng tại phiên tòa và kiểm sát hoạt động tư pháp.
 
----
+Kiểm sát viên phải chấp hành quyết định của Viện trưởng Viện kiểm sát nhân dân. Khi có căn cứ cho rằng quyết định đó là trái pháp luật thì Kiểm sát viên có quyền từ chối nhiệm vụ được giao và phải kịp thời báo cáo bằng văn bản với Viện trưởng; trường hợp Viện trưởng vẫn quyết định việc thi hành thì phải có văn bản và Kiểm sát viên phải chấp hành nhưng không phải chịu trách nhiệm về hậu quả của việc thi hành, đồng thời báo cáo lên Viện trưởng Viện kiểm sát nhân dân cấp trên có thẩm quyền. Viện trưởng đã quyết định phải chịu trách nhiệm trước pháp luật về quyết định của mình.
 
+Viện trưởng Viện kiểm sát nhân dân có trách nhiệm kiểm tra, xử lý nghiêm minh đối với vi phạm pháp luật của Kiểm sát viên khi thực hiện nhiệm vụ được giao; có quyền rút, đình chỉ hoặc hủy bỏ các quyết định trái pháp luật của Kiểm sát viên.
 
-### Điều 35.10.LQ.84. Những việc Kiểm sát viên không được làm
+2. Nhiệm vụ, quyền hạn cụ thể của Kiểm sát viên khi thực hành quyền công tố, kiểm sát hoạt động tư pháp do luật định.
+
+3. Trong vụ việc có nhiều Kiểm sát viên tham gia giải quyết thì Kiểm sát viên ở ngạch thấp hơn phải tuân theo sự phân công, chỉ đạo của Kiểm sát viên ở ngạch cao hơn.
+
+4. Khi thực hiện nhiệm vụ, Kiểm sát viên có quyền ra quyết định, kết luận, yêu cầu, kiến nghị theo quy định của pháp luật.
 
 Điều 35.10.LQ.84. Những việc Kiểm sát viên không được làm
 
-**Chỉ mục:** 84
+(Điều 84 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008400000000000000000
+1. Những việc mà pháp luật quy định cán bộ, công chức không được làm.
 
-**ID:** dk_00059897
+2. Tư vấn cho người bị bắt, bị tạm giữ, bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác làm cho việc giải quyết vụ án, vụ việc không đúng quy định của pháp luật.
 
----
+3. Can thiệp vào việc giải quyết vụ án, vụ việc hoặc lợi dụng ảnh hưởng của mình tác động đến người có trách nhiệm giải quyết vụ án, vụ việc.
 
+4. Đưa hồ sơ, tài liệu của vụ án, vụ việc ra khỏi cơ quan nếu không vì nhiệm vụ được giao hoặc không được sự đồng ý của người có thẩm quyền.
 
-### Điều 35.10.LQ.85. Tuyên thệ của Kiểm sát viên
+5. Tiếp bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác trong vụ án, vụ việc mà mình có thẩm quyền giải quyết ngoài nơi quy định.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 5.1.LQ.18. Những việc cán bộ, công chức không được làm liên quan đến đạo đức công vụ)
 
-**Chỉ mục:** 85
+Điều 35.10.LQ.85. Tuyên thệ của Kiểm sát viên
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008500000000000000000
+(Điều 85 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**ID:** dk_00059898
+Người được bổ nhiệm vào các ngạch Kiểm sát viên phải tuyên thệ:
 
----
+1. Tuyệt đối trung thành với Tổ quốc, tận tụy phục vụ nhân dân;
 
+2. Đấu tranh không khoan nhượng với mọi tội phạm và vi phạm pháp luật;
 
-### Điều 35.10.LQ.86. Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao
+3. Kiên quyết bảo vệ Hiến pháp, pháp luật, lẽ phải và công bằng xã hội;
+
+4. Không ngừng phấn đấu, học tập và làm theo lời dạy của Chủ tịch Hồ Chí Minh “Công minh, chính trực, khách quan, thận trọng, khiêm tốn”;
+
+5. Nghiêm chỉnh chấp hành kỷ luật, nguyên tắc tổ chức hoạt động của Viện kiểm sát nhân dân.
 
 Điều 35.10.LQ.86. Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao
 
-**Chỉ mục:** 86
+(Điều 86 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008600000000000000000
+1. Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao gồm có Chủ tịch là Viện trưởng Viện kiểm sát nhân dân tối cao và các ủy viên là đại diện lãnh đạo Bộ Quốc phòng, Bộ Nội vụ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Trung ương Hội luật gia Việt Nam.
 
-**ID:** dk_00059899
+Danh sách ủy viên Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
----
+2. Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao có những nhiệm vụ, quyền hạn sau đây:
 
+a) Tuyển chọn người đủ tiêu chuẩn làm Kiểm sát viên Viện kiểm sát nhân dân tối cao theo đề nghị của Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao để Viện trưởng Viện kiểm sát nhân dân tối cao trình Chủ tịch nước bổ nhiệm;
 
-### Điều 35.10.LQ.87. Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp
+b) Xem xét những trường hợp Kiểm sát viên Viện kiểm sát nhân dân tối cao có thể được miễn nhiệm chức danh Kiểm sát viên quy định tại khoản 2 Điều 88 của Luật này theo đề nghị của Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao để Viện trưởng Viện kiểm sát nhân dân tối cao trình Chủ tịch nước miễn nhiệm;
+
+c) Xem xét những trường hợp Kiểm sát viên Viện kiểm sát nhân dân tối cao có thể bị cách chức chức danh Kiểm sát viên quy định tại khoản 2 Điều 89 của Luật này theo đề nghị của Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao để Viện trưởng Viện kiểm sát nhân dân tối cao trình Chủ tịch nước cách chức.
+
+3. Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao làm việc theo chế độ tập thể; quyết định của Hội đồng tuyển chọn phải được quá nửa tổng số ủy viên biểu quyết tán thành.
+
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.20. Tham gia tuyển chọn Thẩm phán, Kiểm sát viên và giới thiệu Hội thẩm nhân dân)
 
 Điều 35.10.LQ.87. Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp
 
-**Chỉ mục:** 87
+(Điều 87 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008700000000000000000
+1. Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp gồm có Chủ tịch là Viện trưởng Viện kiểm sát nhân dân tối cao và các ủy viên là một Phó Viện trưởng Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát quân sự trung ương, đại diện lãnh đạo Bộ Quốc phòng, Bộ Nội vụ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam.
 
-**ID:** dk_00059900
+Danh sách Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định.
 
----
+2. Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp có những nhiệm vụ, quyền hạn sau đây:
 
+a) Tổ chức các kỳ thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp;
 
-### Điều 35.10.LQ.88. Miễn nhiệm Kiểm sát viên
+b) Công bố danh sách những người trúng tuyển;
 
-*Nội dung chưa có sẵn*
+c) Đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm người đã trúng tuyển làm Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp.
 
-**Chỉ mục:** 88
+3. Quy chế làm việc của Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008800000000000000000
+(Điều này có nội dung liên quan đến Điều 35.4.LQ.20. Tham gia tuyển chọn Thẩm phán, Kiểm sát viên và giới thiệu Hội thẩm nhân dân)
 
-**ID:** dk_00059901
+Điều 35.10.LQ.88. Miễn nhiệm Kiểm sát viên
 
----
+(Điều 88 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
+1. Kiểm sát viên đương nhiên được miễn nhiệm chức danh Kiểm sát viên khi nghỉ hưu, thôi việc, chuyển ngành.
 
-### Điều 35.10.LQ.89. Cách chức Kiểm sát viên
+2. Kiểm sát viên có thể được miễn nhiệm chức danh Kiểm sát viên vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do khác mà xét thấy không thể hoàn thành nhiệm vụ được giao.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
-**Chỉ mục:** 89
+Điều 35.10.LQ.89. Cách chức Kiểm sát viên
 
-**Mã phân cấp:** 350100000000000040000003000000000000000008900000000000000000
+(Điều 89 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**ID:** dk_00059902
+1. Kiểm sát viên đương nhiên bị cách chức chức danh Kiểm sát viên khi bị kết tội bằng bản án của Tòa án đã có hiệu lực pháp luật.
 
----
+2. Tùy theo tính chất, mức độ vi phạm, Kiểm sát viên có thể bị cách chức chức danh Kiểm sát viên khi thuộc một trong các trường hợp sau đây:
 
+a) Vi phạm trong khi thực hành quyền công tố, kiểm sát hoạt động tư pháp;
 
-### Điều 35.10.LQ.90. Kiểm tra viên
+b) Vi phạm quy định tại Điều 84 của Luật này;
 
-*Nội dung chưa có sẵn*
+c) Vi phạm về phẩm chất đạo đức;
 
-**Chỉ mục:** 90
+d) Có hành vi vi phạm pháp luật khác.
 
-**Mã phân cấp:** 350100000000000040000003000000000000000009000000000000000000
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
-**ID:** dk_00059903
+Điều 35.10.LQ.90. Kiểm tra viên
 
----
+(Điều 90 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
+1. Kiểm tra viên là người được bổ nhiệm theo quy định của pháp luật để giúp Kiểm sát viên thực hành quyền công tố, kiểm sát hoạt động tư pháp; thực hiện các nhiệm vụ, quyền hạn khác theo sự phân công của Viện trưởng Viện kiểm sát nhân dân.
 
-### Điều 35.10.NQ.3.2. Tiêu chuẩn chung của Kiểm tra viên
+2. Kiểm tra viên có các ngạch sau đây:
+
+a) Kiểm tra viên;
+
+b) Kiểm tra viên chính;
+
+c) Kiểm tra viên cao cấp.
+
+3. Tiêu chuẩn bổ nhiệm, điều kiện nâng ngạch Kiểm tra viên do Ủy ban thường vụ Quốc hội quy định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
+
+4. Kiểm tra viên có những nhiệm vụ, quyền hạn sau đây:
+
+a) Nghiên cứu hồ sơ vụ, việc và báo cáo kết quả với Kiểm sát viên;
+
+b) Lập hồ sơ kiểm sát vụ, việc;
+
+c) Giúp Kiểm sát viên thực hiện hoạt động khác khi thực hành quyền công tố, kiểm sát hoạt động tư pháp;
+
+d) Thực hiện các nhiệm vụ, quyền hạn khác theo sự phân công của Viện trưởng.
+
+5. Kiểm tra viên chịu trách nhiệm trước pháp luật, trước Kiểm sát viên và trước Viện trưởng Viện kiểm sát nhân dân về việc thực hiện nhiệm vụ, quyền hạn của mình; nếu có hành vi vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự.
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
 Điều 35.10.NQ.3.2. Tiêu chuẩn chung của Kiểm tra viên
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000200
+ 1. Là công dân Việt Nam trung thành với Tổ quốc và Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; có phẩm chất đạo đức tốt, liêm khiết, trung thực; có bản lĩnh chính trị vững vàng; có tinh thần kiên quyết bảo vệ pháp chế xã hội chủ nghĩa.
 
-**ID:** dk_00059904
+ 2. Có trình độ cử nhân luật trở lên.
 
----
+ 3. Đã được đào tạo về nghiệp vụ kiểm sát.
 
+ 4. Có thời gian làm công tác thực tiễn theo quy định của Nghị quyết này.
 
-### Điều 35.10.NQ.3.3. Tiêu chuẩn bổ nhiệm Kiểm tra viên
+ 5. Có sức khỏe bảo đảm hoàn thành nhiệm vụ được giao.(Điều này có nội dung liên quan đến Điều 35.10.TT.1.21. Kiểm tra viên các ngạch)
 
 Điều 35.10.NQ.3.3. Tiêu chuẩn bổ nhiệm Kiểm tra viên
 
-**Chỉ mục:** 3
+(Điều 3 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000300
+ Người có đủ tiêu chuẩn quy định tại Điều 2 của Nghị quyết này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm tra viên của Viện kiểm sát nhân dân; nếu đang làm việc tại các Viện kiểm sát quân sự thì có thể được bổ nhiệm làm Kiểm tra viên của Viện kiểm sát quân sự:
 
-**ID:** dk_00059905
+ 1. Đang là công chức.
 
----
+ 2. Có thời gian làm công tác pháp luật từ 03 năm trở lên.
 
-
-### Điều 35.10.NQ.3.4. Tiêu chuẩn bổ nhiệm Kiểm tra viên chính
+ 3. Có khả năng giúp Kiểm sát viên thực hành quyền công tố, kiểm sát hoạt động tư pháp; thực hiện nhiệm vụ, quyền hạn khác theo phân công của Viện trưởng Viện kiểm sát nhân dân, Viện trưởng Viện kiểm sát quân sự.(Điều này có nội dung liên quan đến Điều 35.10.TT.1.21. Kiểm tra viên các ngạch)
 
 Điều 35.10.NQ.3.4. Tiêu chuẩn bổ nhiệm Kiểm tra viên chính
 
-**Chỉ mục:** 4
+(Điều 4 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000400
+ Người có đủ tiêu chuẩn quy định tại Điều 2 của Nghị quyết này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm tra viên chính của Viện kiểm sát nhân dân; nếu đang làm việc tại các Viện kiểm sát quân sự thì có thể được bổ nhiệm làm Kiểm tra viên chính của Viện kiểm sát quân sự:
 
-**ID:** dk_00059906
+ 1. Đã là Kiểm tra viên ít nhất 05 năm.
 
----
+ 2. Có khả năng hướng dẫn nghiệp vụ đối với Kiểm tra viên và đảm nhận vị trí việc làm tương ứng với ngạch Kiểm tra viên chính.
 
-
-### Điều 35.10.NQ.3.5. Tiêu chuẩn bổ nhiệm Kiểm tra viên cao cấp
+ 3. Đã trúng tuyển kỳ thi vào ngạch Kiểm tra viên chính.(Điều này có nội dung liên quan đến Điều 35.10.TT.1.21. Kiểm tra viên các ngạch)
 
 Điều 35.10.NQ.3.5. Tiêu chuẩn bổ nhiệm Kiểm tra viên cao cấp
 
-**Chỉ mục:** 5
+(Điều 5 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000500
+ Người có đủ tiêu chuẩn quy định tại Điều 2 của Nghị quyết này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm tra viên cao cấp của Viện kiểm sát nhân dân; nếu đang làm việc tại các Viện kiểm sát quân sự thì có thể được bổ nhiệm làm Kiểm tra viên cao cấp của Viện kiểm sát quân sự:
 
-**ID:** dk_00059907
+ 1. Đã là Kiểm tra viên chính ít nhất 05 năm.
 
----
+ 2. Có khả năng hướng dẫn nghiệp vụ đối với Kiểm tra viên cấp dưới và đảm nhận vị trí việc làm tương ứng với ngạch Kiểm tra viên cao cấp.
 
-
-### Điều 35.10.NQ.3.6. Hội đồng tuyển chọn, xét thi tuyển nâng ngạch Kiểm tra viên
+ 3. Đã trúng tuyển kỳ thi vào ngạch Kiểm tra viên cao cấp.(Điều này có nội dung liên quan đến Điều 35.10.TT.1.21. Kiểm tra viên các ngạch)
 
 Điều 35.10.NQ.3.6. Hội đồng tuyển chọn, xét thi tuyển nâng ngạch Kiểm tra viên
 
-**Chỉ mục:** 6
+(Điều 6 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000600
+ 1. Hội đồng tuyển chọn Kiểm tra viên, xét thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp là Ủy ban kiểm sát Viện kiểm sát nhân dân, Ủy ban kiểm sát Viện kiểm sát quân sự các cấp.
 
-**ID:** dk_00059908
+ 2. Hội đồng tuyển chọn Kiểm tra viên, xét thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp có nhiệm vụ, quyền hạn sau đây:
 
----
+ a) Tuyển chọn người có đủ tiêu chuẩn, điều kiện để đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát quân sự trung ương bổ nhiệm Kiểm tra viên;
 
+ b) Xét tuyển người có đủ tiêu chuẩn, điều kiện dự thi vào ngạch Kiểm tra viên chính, Kiểm tra viên cao cấp.
 
-### Điều 35.10.NQ.3.7. Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp
+ 3. Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm Kiểm tra viên của Viện kiểm sát nhân dân các cấp. Viện trưởng Viện kiểm sát quân sự trung ương bổ nhiệm Kiểm tra viên của Viện kiểm sát quân sự các cấp.Điều 35.10.NQ.3.7. Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp
 
-Điều 35.10.NQ.3.7. Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp
+(Điều 7 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Chỉ mục:** 7
+ 1. Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp gồm có Chủ tịch là 01 Phó Viện trưởng Viện kiểm sát nhân dân tối cao, 02 Phó Chủ tịch là đại diện lãnh đạo Bộ Nội vụ và thành viên Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao, 02 thành viên là Vụ trưởng Vụ Tổ chức cán bộ Viện kiểm sát nhân dân tối cao và đại diện Viện kiểm sát quân sự trung ương.
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000700
+ Danh sách Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Vụ trưởng Vụ Tổ chức cán bộ Viện kiểm sát nhân dân tối cao.
 
-**ID:** dk_00059909
+ 2. Hội đồng thi tuyển có nhiệm vụ, quyền hạn sau đây:
 
----
+ a) Tổ chức các kỳ thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp;
 
+ b) Công bố danh sách những người trúng tuyển;
 
-### Điều 35.10.NQ.3.8. Miễn nhiệm, cách chức Kiểm tra viên
+ c) Đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát quân sự trung ương bổ nhiệm người đã trúng tuyển làm Kiểm tra viên chính, Kiểm tra viên cao cấp.
 
-Điều 35.10.NQ.3.8. Miễn nhiệm, cách chức Kiểm tra viên
+ 3. Quy chế làm việc của Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.Điều 35.10.NQ.3.8. Miễn nhiệm, cách chức Kiểm tra viên
 
-**Chỉ mục:** 8
+(Điều 8 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000202545509240000800
+ 1. Việc miễn nhiệm chức danh Kiểm tra viên được tiến hành trong các trường hợp sau đây:
 
-**ID:** dk_00059910
+ a) Kiểm tra viên đương nhiên được miễn nhiệm khi nghỉ hưu, thôi việc, chuyển ngành;
 
----
+ b) Kiểm tra viên có thể được miễn nhiệm vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do khác mà xét thấy không thể hoàn thành nhiệm vụ được giao.
 
+ 2. Kiểm tra viên đương nhiên bị cách chức khi bị kết tội bằng bản án của Tòa án đã có hiệu lực pháp luật.
 
-### Điều 35.10.TT.1.21. Kiểm tra viên các ngạch
+ 3. Tùy theo tính chất, mức độ vi phạm, Kiểm tra viên có thể bị cách chức chức danh Kiểm tra viên khi thuộc một trong các trường hợp sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Vi phạm pháp luật trong khi thực hiện nhiệm vụ;
 
-**Chỉ mục:** 21
+ b) Vi phạm những việc công chức không được làm;
 
-**Mã phân cấp:** 35010000000000004000000300000000000000000900000000000000000000302545509240000800
+ c) Vi phạm về phẩm chất đạo đức;
 
-**ID:** dk_00059911
+ d) Có hành vi vi phạm pháp luật khác.
 
----
+ 4. Trình tự, thủ tục miễn nhiệm, cách chức chức danh Kiểm tra viên do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.(Điều này có nội dung liên quan đến Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự)
 
+Điều 35.10.TT.1.21. Kiểm tra viên các ngạch
 
-### Điều 35.10.LQ.91. Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương
+(Điều 21 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
+
+1. Nguồn Kiểm tra viên các ngạch
+
+a) Các đối tượng quy định tại Điều 6 Thông tư này;
+
+b) Sĩ quan, quân nhân chuyên nghiệp đang công tác tại Viện kiểm sát quân sự các cấp.
+
+2. Những người quy định tại Khoản 1 Điều này, hoàn thành tốt nhiệm vụ, có đủ các điều kiện, tiêu chuẩn Kiểm tra viên từng ngạch theo quy định của Ủy ban thường vụ Quốc hội thì có thể được xét, đề nghị bổ nhiệm Kiểm tra viên ngạch tương ứng.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân; Điều 35.10.NQ.3.2. Tiêu chuẩn chung của Kiểm tra viên; Điều 35.10.NQ.3.3. Tiêu chuẩn bổ nhiệm Kiểm tra viên; Điều 35.10.NQ.3.4. Tiêu chuẩn bổ nhiệm Kiểm tra viên chính; Điều 35.10.NQ.3.5. Tiêu chuẩn bổ nhiệm Kiểm tra viên cao cấp; Điều 35.10.TT.1.6. Nguồn tuyển chọn)
+
+Mục 4
+
+THỦ TRƯỞNG, PHÓ THỦ TRƯỞNG, ĐIỀU TRA VIÊN VÀ CÁC CHỨC DANH KHÁC CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO, VIỆN KIỂM SÁT QUÂN SỰ TRUNG ƯƠNG
 
 Điều 35.10.LQ.91. Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 91
+(Điều 91 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000004000000000000000009100000000000000000
+1. Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.
 
-**ID:** dk_00059913
+2. Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao chịu trách nhiệm trước pháp luật và trước Viện trưởng Viện kiểm sát nhân dân tối cao về việc thực hiện nhiệm vụ, quyền hạn của mình.
 
----
-
-
-### Điều 35.10.TT.1.22. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương
+3. Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương chịu trách nhiệm trước pháp luật và trước Viện trưởng Viện kiểm sát quân sự trung ương, Viện trưởng Viện kiểm sát nhân dân tối cao về việc thực hiện nhiệm vụ, quyền hạn của mình.
 
 Điều 35.10.TT.1.22. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 22
+(Điều 22 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000910000000000000000000802559301135002200
+1. Nguồn Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương
 
-**ID:** dk_00059914
+a) Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương;
 
----
+b) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
 
+c) Phó Trưởng phòng, Phó Chánh Văn phòng Viện kiểm sát quân sự trung ương;
 
-### Điều 35.10.LQ.92. Điều tra viên và các chức danh khác của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương
+d) Kiểm sát viên, Điều tra viên cao cấp.
+
+2. Nguồn Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương
+
+a) Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương;
+
+b) Viện trưởng Viện kiểm sát quân sự khu vực;
+
+c) Trưởng ban Viện kiểm sát quân sự quân khu và tương đương;
+
+d) Kiểm sát viên, Điều tra viên cao cấp.
+
+3. Những người được quy định tại Khoản 1 và Khoản 2 Điều này, hoàn thành tốt chức trách, nhiệm vụ được giao thì có thể được quy hoạch, xem xét, đề nghị bổ nhiệm Trưởng phòng, Phó Trưởng phòng đồng thời là Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.LQ.92. Điều tra viên và các chức danh khác của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 92
+(Điều 92 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 350100000000000040000004000000000000000009200000000000000000
+1. Tiêu chuẩn bổ nhiệm, điều kiện nâng ngạch, các ngạch Điều tra viên và các chức danh khác của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương do luật định.
 
-**ID:** dk_00059915
+2. Khi thực hiện nhiệm vụ, quyền hạn được Thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao phân công, Điều tra viên và các chức danh khác của Cơ quan điều tra phải tuân theo pháp luật và chịu sự chỉ đạo trực tiếp của Thủ trưởng Cơ quan điều tra, sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
----
-
-
-### Điều 35.10.TT.1.23. Điều tra viên các ngạch của Cơ quan điều tra Viện kiểm sát quân sự trung ương
+3. Khi thực hiện nhiệm vụ, quyền hạn được Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương phân công, Điều tra viên và các chức danh khác của Cơ quan điều tra phải tuân theo pháp luật và chịu sự chỉ đạo trực tiếp của Thủ trưởng Cơ quan điều tra, sự lãnh đạo của Viện trưởng Viện kiểm sát quân sự trung ương, sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
 Điều 35.10.TT.1.23. Điều tra viên các ngạch của Cơ quan điều tra Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 23
+(Điều 23 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002300
+1. Nguồn Điều tra viên cao cấp
 
-**ID:** dk_00059916
+a) Kiểm sát viên, Điều tra viên trung cấp;
 
----
+b) Kiểm tra viên cao cấp.
 
+2. Nguồn Điều tra viên trung cấp
 
-### Điều 35.10.TT.1.24. Chuyên viên nghiên cứu Viện kiểm sát quân sự trung ương
+a) Kiểm sát viên, Điều tra viên sơ cấp;
+
+b) Kiểm tra viên chính.
+
+3. Nguồn Điều tra viên sơ cấp
+
+a) Kiểm tra viên;
+
+b) Những người quy định tại Khoản 1, Khoản 2 Điều 6 Thông tư này.
+
+4. Những người quy định tại Khoản 1, 2, 3 Điều này, hoàn thành tốt nhiệm vụ, có đủ các điều kiện, tiêu chuẩn Điều tra viên từng ngạch theo quy định của pháp luật về tổ chức cơ quan điều tra hình sự thì có thể được xét, đề nghị bổ nhiệm Điều tra viên ngạch tương ứng.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.TT.1.24. Chuyên viên nghiên cứu Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 24
+(Điều 24 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002400
+1. Nguồn chuyên viên nghiên cứu Viện kiểm sát quân sự trung ương
 
-**ID:** dk_00059917
+a) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự khu vực;
 
----
+b) Trưởng ban Viện kiểm sát quân sự quân khu và tương đương;
 
+c) Kiểm sát viên sơ cấp, trung cấp, cao cấp;
 
-### Điều 35.10.TT.1.25. Trợ lý kế hoạch tổng hợp Viện kiểm sát quân sự trung ương
+d) Điều tra viên trung cấp trở lên.
+
+2. Những người quy định tại Khoản 1 Điều này, nếu có khả năng nghiên cứu, biên soạn các tài liệu, tham gia ý kiến vào các dự án luật, các văn bản xin ý kiến; tổ chức triển khai những đề tài, chuyên đề nghiên cứu thì có thể xem xét bổ nhiệm làm chuyên viên nghiên cứu Viện kiểm sát quân sự trung ương.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.TT.1.25. Trợ lý kế hoạch tổng hợp Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 25
+(Điều 25 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002500
+1. Nguồn trợ lý kế hoạch tổng hợp Viện kiểm sát quân sự trung ương
 
-**ID:** dk_00059918
+a) Kiểm sát viên, Điều tra viên sơ cấp, trung cấp;
 
----
+b) Kiểm tra viên chính trở lên.
 
+2. Những người quy định tại Khoản 1 Điều này, nếu có khả năng theo dõi, quản lý công tác kế hoạch, tổng hợp; đăng ký, quản lý, khai thác các số liệu theo hệ thống nghiệp vụ; thành thạo tin học thì có thể xem xét bổ nhiệm Trợ lý kế hoạch tổng hợp Viện kiểm sát quân sự trung ương.
 
-### Điều 35.10.TT.1.26. Trợ lý thống kê hình sự, thống kê tội phạm Viện kiểm sát quân sự trung ương
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.TT.1.26. Trợ lý thống kê hình sự, thống kê tội phạm Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002600
+1. Nguồn Trợ lý thống kê hình sự, thống kê tội phạm Viện kiểm sát quân sự trung ương
 
-**ID:** dk_00059919
+a) Kiểm sát viên, Điều tra viên sơ cấp, trung cấp;
 
----
+b) Kiểm tra viên.
 
+2. Những người quy định tại Khoản 1 Điều này, nếu có khả năng thực hiện, theo dõi, kiểm tra công tác thống kê hình sự, thống kê tội phạm; thành thạo tin học thì có thể xem xét bổ nhiệm làm Trợ lý thống kê hình sự, thống kê tội phạm Viện kiểm sát quân sự trung ương.
 
-### Điều 35.10.TT.1.27. Trợ lý công nghệ thông tin Viện kiểm sát quân sự trung ương
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.TT.1.27. Trợ lý công nghệ thông tin Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 27
+(Điều 27 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002700
+1. Nguồn Trợ lý công nghệ thông tin Viện kiểm sát quân sự trung ương là sĩ quan tốt nghiệp đại học ngành công nghệ thông tin trở lên, hệ chính quy, được tuyển chọn vào Viện kiểm sát quân sự theo Khoản 3 Điều 6 Thông tư này.
 
-**ID:** dk_00059920
+2. Những người quy định tại Khoản 1 Điều này, nắm vững nguyên tắc, chế độ, quy định về quản lý, sử dụng hệ thống công nghệ thông tin; có kiến thức và năng lực nghiệp vụ chuyên môn trong lĩnh vực công nghệ thông tin; có khả năng độc lập nghiên cứu, đề xuất xây dựng một số chương trình phần mềm; quản lý, khai thác, khắc phục sự cố mạng máy tính quân sự thì có thể xem xét bổ nhiệm làm Trợ lý công nghệ thông tin Viện kiểm sát quân sự trung ương.
 
----
-
-
-### Điều 35.10.TT.1.28. Trợ lý nhân sự, Trợ lý đào tạo kiêm quản lý hồ sơ cán bộ Viện kiểm sát quân sự trung ương
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.TT.1.28. Trợ lý nhân sự, Trợ lý đào tạo kiêm quản lý hồ sơ cán bộ Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002800
+1. Nguồn Trợ lý nhân sự; Trợ lý đào tạo kiêm quản lý hồ sơ cán bộ Viện kiểm sát quân sự trung ương
 
-**ID:** dk_00059921
+a) Kiểm sát viên sơ cấp;
 
----
+b) Kiểm tra viên;
 
+c) Điều tra viên sơ cấp;
 
-### Điều 35.10.TT.1.29. Trợ lý chính trị Viện kiểm sát quân sự trung ương
+d) Sĩ quan Quân đội nhân dân Việt Nam được tuyển chọn về công tác tại Viện kiểm sát quân sự theo Khoản 3 Điều 6 Thông tư này.
+
+2. Những người quy định tại Khoản 1 Điều này, có khả năng nghiên cứu, đề xuất; thực hiện các nghiệp vụ về công tác tổ chức, cán bộ thì có thể xem xét bổ nhiệm làm Trợ lý nhân sự, Trợ lý đào tạo kiêm quản lý hồ sơ cán bộ Viện kiểm sát quân sự trung ương.
+
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
 Điều 35.10.TT.1.29. Trợ lý chính trị Viện kiểm sát quân sự trung ương
 
-**Chỉ mục:** 29
+(Điều 29 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 35010000000000004000000400000000000000000920000000000000000000802559301135002900
+1. Nguồn Trợ lý chính trị Viện kiểm sát quân sự trung ương là sĩ quan tốt nghiệp Trường sĩ quan Chính trị hoặc trường sĩ quan khác nhưng đã đào tạo qua Học viện Chính trị hoặc Học viện Chính trị quốc gia Hồ Chí Minh được tuyển chọn vào Viện kiểm sát quân sự theo Khoản 3 Điều 6 Thông tư này.
 
-**ID:** dk_00059922
+2. Những người quy định tại Khoản 1 Điều này, có khả năng thực hiện các nhiệm vụ về công tác đảng, công tác chính trị trong quân đội thì có thể xem xét bổ nhiệm làm Trợ lý chính trị Viện kiểm sát quân sự trung ương.
 
----
+(Điều này có nội dung liên quan đến Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân)
 
+Chương V
 
-### Điều 35.10.LQ.93. Tổng biên chế, số lượng, cơ cấu tỷ lệ ngạch Kiểm sát viên, Điều tra viên của Viện kiểm sát nhân dân
+BẢO ĐẢM HOẠT ĐỘNG CỦA VIỆN KIỂM SÁT NHÂN DÂN
 
 Điều 35.10.LQ.93. Tổng biên chế, số lượng, cơ cấu tỷ lệ ngạch Kiểm sát viên, Điều tra viên của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 93
+(Điều 93 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000500009300000000000000000
+1. Số lượng Kiểm sát viên Viện kiểm sát nhân dân tối cao không quá 19 người.
 
-**ID:** dk_00059924
+2. Tổng biên chế, số lượng Kiểm sát viên; cơ cấu tỷ lệ các ngạch Kiểm sát viên tại mỗi cấp Viện kiểm sát; số lượng, cơ cấu tỷ lệ các ngạch Điều tra viên của Viện kiểm sát nhân dân tối cao do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao sau khi có ý kiến của Chính phủ.
 
----
+Căn cứ tổng biên chế, số lượng, cơ cấu tỷ lệ các ngạch Kiểm sát viên đã được Ủy ban thường vụ Quốc hội quyết định, Viện trưởng Viện kiểm sát nhân dân tối cao quyết định biên chế, số lượng Kiểm sát viên, công chức khác, viên chức và người lao động khác của các đơn vị trực thuộc Viện kiểm sát nhân dân tối cao và các Viện kiểm sát nhân dân cấp dưới.
 
+3. Tổng biên chế, số lượng Kiểm sát viên; cơ cấu tỷ lệ các ngạch Kiểm sát viên của mỗi cấp Viện kiểm sát quân sự; số lượng, cơ cấu tỷ lệ các ngạch Điều tra viên của Viện kiểm sát quân sự trung ương do Ủy ban thường vụ Quốc hội quyết định theo đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.
 
-### Điều 35.10.LQ.94. Kinh phí và cơ sở vật chất
+Căn cứ số lượng, cơ cấu tỷ lệ ngạch Kiểm sát viên của Viện kiểm sát quân sự đã được Ủy ban thường vụ Quốc hội quyết định, Viện trưởng Viện kiểm sát nhân dân tối cao quyết định số lượng Kiểm sát viên của Viện kiểm sát quân sự mỗi cấp sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.
 
-*Nội dung chưa có sẵn*
+Điều 35.10.LQ.94. Kinh phí và cơ sở vật chất
 
-**Chỉ mục:** 94
+(Điều 94 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000500009400000000000000000
+1. Nhà nước bảo đảm kinh phí hoạt động, cơ sở vật chất cho Viện kiểm sát nhân dân theo quy định của pháp luật.
 
-**ID:** dk_00059925
+2. Kinh phí hoạt động của Viện kiểm sát nhân dân do Viện kiểm sát nhân dân tối cao lập dự toán và đề nghị Chính phủ trình Quốc hội quyết định. Trong trường hợp Chính phủ và Viện kiểm sát nhân dân tối cao không thống nhất về dự toán kinh phí hoạt động của Viện kiểm sát nhân dân thì Viện trưởng Viện kiểm sát nhân dân tối cao kiến nghị Quốc hội xem xét, quyết định. Việc quản lý, phân bổ và sử dụng kinh phí được thực hiện theo quy định của pháp luật về ngân sách.
 
----
+3. Kinh phí hoạt động của Viện kiểm sát quân sự do Viện trưởng Viện kiểm sát quân sự trung ương lập dự toán báo cáo Bộ Quốc phòng để đề nghị Chính phủ trình Quốc hội quyết định. Việc quản lý, phân bổ và sử dụng kinh phí hoạt động của các Viện kiểm sát quân sự được thực hiện theo quy định của pháp luật về ngân sách.
 
+4. Nhà nước ưu tiên đầu tư xây dựng trụ sở, trang thiết bị nâng cao năng lực hoạt động cho Viện kiểm sát nhân dân.
 
-### Điều 35.10.LQ.95. Chế độ tiền lương
+Trụ sở, trang thiết bị, phương tiện làm việc của Viện kiểm sát quân sự do Chính phủ bảo đảm theo đề nghị của Bộ trưởng Bộ Quốc phòng.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 4. Giải thích từ ngữ của Luật 49/2014/QH13 Đầu tư công ban hành ngày 18/06/2014; Điều 39.11.LQ.19. Loại vũ khí quân dụng trang bị cho Cơ yếu, Cơ quan điều tra của Viện kiểm sát nhân dân tối cao, Kiểm lâm, Kiểm ngư, An ninh hàng không, Hải quan cửa khẩu, lực lượng chuyên trách chống buôn lậu của Hải quan)
 
-**Chỉ mục:** 95
+Điều 35.10.LQ.95. Chế độ tiền lương
 
-**Mã phân cấp:** 3501000000000000500009500000000000000000
+(Điều 95 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**ID:** dk_00059926
+1. Kiểm sát viên, Điều tra viên, Kiểm tra viên có thang bậc lương riêng.
 
----
+2. Chế độ tiền lương đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên của Viện kiểm sát nhân dân do Ủy ban thường vụ Quốc hội quyết định trên cơ sở đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao. Chế độ tiền lương đối với công chức khác, viên chức và người lao động khác của Viện kiểm sát nhân dân được thực hiện theo quy định của pháp luật.
 
+3. Chế độ tiền lương đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được thực hiện theo chế độ của quân đội.
 
-### Điều 35.10.LQ.96. Chế độ phụ cấp
+(Điều này có nội dung liên quan đến Điều 1. Phê chuẩn việc bổ sung Bảng phụ cấp chức vụ đối với số chức danh lãnh đạo của thành phố thuộc tỉnh là đô thị loại I vào mục III Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và đại biểu Quốc hội hoạt động chuyên trách ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ Quốc hội về việc phê chuẩn Bảng lương chức vụ, Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; Bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát. của Nghị quyết 823/2009/UBTVQH12 Phê chuẩn việc sửa đổi, bổ sung mục III Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và đại biểu Quốc hội hoạt động chuyên trách ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát ban hành ngày 03/10/2009; Điều 1. của Nghị quyết 973/2015/UBTVQH13 Về sửa đổi, bổ sung bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và Đại biểu Quốc hội hoạt động chuyên trách, bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ Quốc hội; sửa đổi, bổ sung Nghị quyết số 522b/NQ-UBTVQH13 ngày 16 tháng 8 năm 2012 của Ủy ban thường vụ Quốc hội về trang phục đối với cán bộ, công chức, viên chức ngành Kiểm sát và giấy chứng minh Kiểm sát viên ban hành ngày 14/07/2015; Điều 5.1.NQ.1.1.; Điều 35.10.TT.1.5. Quyền lợi của cán bộ Viện kiểm sát quân sự)
 
-*Nội dung chưa có sẵn*
+Điều 35.10.LQ.96. Chế độ phụ cấp
 
-**Chỉ mục:** 96
+(Điều 96 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000500009600000000000000000
+1. Chế độ phụ cấp đặc thù của cán bộ, công chức, viên chức Viện kiểm sát nhân dân do Viện trưởng Viện kiểm sát nhân dân tối cao đề nghị Ủy ban thường vụ Quốc hội, Chính phủ quyết định.
 
-**ID:** dk_00059927
+2. Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được hưởng chế độ phụ cấp của Viện kiểm sát theo quy định của pháp luật.
 
----
+3. Chế độ phụ cấp khác theo quy định của pháp luật.
 
+(Điều này có nội dung liên quan đến Điều 1. Phê chuẩn việc bổ sung Bảng phụ cấp chức vụ đối với số chức danh lãnh đạo của thành phố thuộc tỉnh là đô thị loại I vào mục III Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và đại biểu Quốc hội hoạt động chuyên trách ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ Quốc hội về việc phê chuẩn Bảng lương chức vụ, Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; Bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát. của Nghị quyết 823/2009/UBTVQH12 Phê chuẩn việc sửa đổi, bổ sung mục III Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và đại biểu Quốc hội hoạt động chuyên trách ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát ban hành ngày 03/10/2009; Điều 1. của Nghị quyết 973/2015/UBTVQH13 Về sửa đổi, bổ sung bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và Đại biểu Quốc hội hoạt động chuyên trách, bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ Quốc hội; sửa đổi, bổ sung Nghị quyết số 522b/NQ-UBTVQH13 ngày 16 tháng 8 năm 2012 của Ủy ban thường vụ Quốc hội về trang phục đối với cán bộ, công chức, viên chức ngành Kiểm sát và giấy chứng minh Kiểm sát viên ban hành ngày 14/07/2015; Điều 5.1.NQ.1.1.; Điều 35.10.TT.1.5. Quyền lợi của cán bộ Viện kiểm sát quân sự)
 
-### Điều 35.10.QĐ.1.1.
+Điều 35.10.QĐ.1.1.
 
-*Nội dung chưa có sẵn*
+(Điều 1 Quyết định số 138/2005/QĐ-TTg Về chế độ phụ cấp trách nhiệm đối với Kiểm sát viên, Điều tra viên và Kiểm tra viên ngành Kiểm sát ngày 13/06/2005 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 04/07/2005)
 
-**Chỉ mục:** 1
+Kiểm sát viên Viện Kiểm sát nhân dân các cấp (kể cả Viện trưởng Viện Kiểm sát nhân dân tối cao), Điều tra viên các cấp và Kiểm tra viên các cấp được áp dụng phụ cấp trách nhiệm theo nghề Kiểm sát theo quy định sau đây:
 
-**Mã phân cấp:** 350100000000000050000960000000000000000000502183401380000100
+1. Viện trưởng Viện Kiểm sát nhân dân tối cao, Kiểm sát viên Viện Kiểm sát nhân dân tối cao và Điều tra viên cao cấp được hưởng phụ cấp trách nhiệm bằng 20% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
-**ID:** dk_00059928
+2. Kiểm sát viên Viện Kiểm sát nhân dân cấp tỉnh và Điều tra viên trung cấp được hưởng phụ cấp trách nhiệm bằng 25% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
----
+3. Kiểm sát viên Viện Kiểm sát nhân dân cấp huyện và Điều tra viên sơ cấp được hưởng phụ cấp trách nhiệm bằng 30% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
+4. Kiểm tra viên cao cấp được hưởng phụ cấp trách nhiệm bằng 15% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
-### Điều 35.10.TL.1.2. Mức phụ cấp trách  nhiệm và cách tính
+5. Kiểm tra viên chính được hưởng phụ cấp trách nhiệm bằng 20% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
+
+6. Kiểm tra viên được hưởng phụ cấp trách nhiệm bằng 25% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
 Điều 35.10.TL.1.2. Mức phụ cấp trách  nhiệm và cách tính
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư liên tịch số 01/2006/TTLT-VKSTC-BNV-BTC, có hiệu lực thi hành kể từ ngày 20/02/2006)
 
-**Mã phân cấp:** 35010000000000005000096000000000000000000050218340138000010000802205400015500200
+1. Mức phụ cấp trách nhiệm
 
-**ID:** dk_00059929
+a) Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên, Điều tra viên các cấp được hưởng mức phụ cấp trách nhiệm như sau:
 
----
+Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên Viện kiểm sát nhân dân tối cao và Điều tra viên cao cấp được hưởng phụ cấp trách nhiệm bằng 20% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có);
 
+Kiểm sát viên Viện kiểm sát nhân dân cấp tỉnh và Điều tra viên trung cấp được hưởng phụ cấp trách nhiệm bằng 25% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có);
 
-### Điều 35.10.TL.1.3. Nguồn kinh phí và cách chi trả
+Kiểm sát viên Viện kiểm sát nhân dân cấp huyện và Điều tra viên sơ cấp được hưởng phụ cấp trách nhiệm bằng 30% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
-*Nội dung chưa có sẵn*
+b) Kiểm tra viên các cấp được hưởng mức phụ cấp trách nhiệm như sau:
 
-**Chỉ mục:** 3
+Kiểm tra viên cao cấp được hưởng phụ cấp trách nhiệm bằng 15% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có);
 
-**Mã phân cấp:** 35010000000000005000096000000000000000000050218340138000010000802205400015500300
+Kiểm tra viên chính được hưởng phụ cấp trách nhiệm bằng 20% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có);
 
-**ID:** dk_00059930
+Kiểm tra viên được hưởng phụ cấp trách nhiệm bằng 25% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có).
 
----
+2. Cách tính
 
+*Ví dụ 1:* Ông H, Kiểm tra viên Viện kiểm sát nhân dân cấp huyện, hiện hưởng hệ số lương 3,99, bậc 6, nhóm chức danh loại A1 thuộc bảng lương chuyên môn, nghiệp vụ ngành Toà án, ngành Kiểm sát.
 
-### Điều 35.10.QĐ.1.2.
+Mức tiền phụ cấp trách nhiệm của ông H tính theo chức danh Kiểm tra viên bậc 6 là:
 
-*Nội dung chưa có sẵn*
+3,99 x 350.000 đồng/tháng x 25% = 349.125 (đồng/tháng)
 
-**Chỉ mục:** 2
+3. Áp dụng phụ cấp trách nhiệm khi thay đổi công việc
 
-**Mã phân cấp:** 350100000000000050000960000000000000000000502183401380000200
+a) Kiểm sát viên, Điều tra viên, Kiểm tra viên các cấp khi thay đổi công việc hoặc không tiếp tục đảm nhiệm các chức danh này, thì thôi hưởng phụ cấp trách nhiệm đối với các chức danh đó kể từ ngày quyết định thay đổi công việc có hiệu lực thi hành.
 
-**ID:** dk_00059931
+b) Kiểm sát viên, Điều tra viên, Kiểm tra viên các cấp khi được bổ nhiệm lên nhóm chức danh cao hơn mà tổng mức tiền lương cộng với tiền phụ cấp trách nhiệm của chức danh mới được bổ nhiệm thấp hơn trước khi bổ nhiệm thì được bảo lưu chênh lệch giữa tổng mức tiền lương cộng tiền phụ cấp trách nhiệm đang hưởng ở chức danh cũ so với tổng mức tiền lương cộng với tiền phụ cấp trách nhiệm được hưởng ở chức danh mới cho đến khi được nâng bậc lương liền kề.
 
----
+*Ví dụ 2:* Ông B, Điều tra viên sơ cấp, hiện hưởng hệ số lương 4,32, bậc 7, nhóm chức danh loại A1 thuộc bảng lương chuyên môn, nghiệp vụ ngành Toà án, ngành Kiểm sát; thời gian xét nâng bậc lương lần sau được tính kể từ ngày 01/01/2004. Đến ngày 01/01/2006 ông B được bổ nhiệm làm Điều tra viên trung cấp, xếp hệ số lương 4,40, bậc 1; thời gian xét nâng bậc lương lần sau ở chức danh Điều tra viên trung cấp được tính kể từ ngày 01/01/2004.
 
+Trước ngày được bổ nhiệm làm Điều tra viên trung cấp, tổng tiền lương cộng tiền phụ cấp trách nhiệm của ông B tính theo chức danh Điều tra viên sơ cấp bậc 7 là:
 
-### Điều 35.10.LQ.97. Trang phục, giấy chứng minh Kiểm sát viên, giấy chứng nhận Điều tra viên, Kiểm tra viên
+(4,32 x 350.000) + (4,32 x 350.000 x 30%) = 1.965.600 (đồng/tháng)
+
+Từ ngày 01/01/2006, tổng tiền lương cộng tiền phụ cấp trách nhiệm của ông B tính theo chức danh Điều tra viên trung cấp bậc 1 là:
+
+(4,40 x 350.000) + (4,40 x 350.000 x 25%) = 1.925.000 (đồng/tháng)
+
+Do tổng mức tiền lương cộng tiền phụ cấp trách nhiệm của ông B tính theo chức danh mới bổ nhiệm là 1.925.000 đồng/tháng, thấp hơn tổng mức tiền lương cộng tiền phụ cấp trách nhiệm trước khi được bổ nhiệm 1.965.600 đồng/tháng là 40.600 đồng, nên ông B được bảo lưu chênh lệch giữa tổng mức tiền lương cộng tiền phụ cấp trách nhiệm đã hưởng ở chức danh cũ so với tổng mức tiền lương cộng tiền phụ cấp trách nhiệm được hưởng ở chức danh mới là:1.965.600 đồng - 1.925.000 đồng = 40.600 đồng.
+
+Đến ngày 01/01/2007 ông B được nâng lên bậc 2 hệ số lương 4,74 của chức danh Điều tra viên trung cấp. Tổng tiền lương cộng tiền phụ cấp trách nhiệm là (4,74 x 350.000) + (4,74 x 350.000 x 25%) = 2.073.750 (đồng/tháng). Mức tiền này cao hơn tổng mức tiền lương cộng tiền phụ cấp trách nhiệm đã được hưởng trước đó, nên ông B thôi hưởng bảo lưu  phần chênh lệch 40.600 đồng.
+
+*Ví dụ 3:* Ông K, Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, hiện hưởng hệ số lương 6,78 bậc 8 Kiểm sát viên cấp tỉnh, nhóm chức danh loại A2 thuộc bảng lương chuyên môn, nghiệp vụ ngành Toà án, ngành Kiểm sát và hưởng hệ số phụ cấp chức vụ lãnh đạo 0,95; thời gian xét nâng bậc lương lần sau được tính kể từ ngày 15/6/2004. Đến ngày 01/11/2005 ông K được điều động, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao, đồng thời giữ chức vụ Phó vụ trưởng, xếp hệ số lương 6,92, bậc 3 và hưởng hệ số phụ cấp chức vụ lãnh đạo 0,85; thời gian xét nâng bậc lương lần sau ở chức danh Kiểm sát viên Viện kiểm sát nhân dân tối cao được tính từ ngày 15/6/2004.
+
+Trước ngày được điều động, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao, tổng tiền lương cộng tiền phụ cấp trách nhiệm của ông K (tháng 10/2005) tính theo chức danh Viện trưởng Viện kiểm sát nhân dân cấp tỉnh (bậc 8 Kiểm sát viên Viện kiểm sát nhân dân cấp tỉnh) là:
+
+(6,78 x 350.000) + [(6,78 + 0,95) x 350.000 x 25%] = 3.049.375 (đồng/tháng).
+
+Từ ngày 01/11/2005, tổng tiền lương cộng tiền phụ cấp trách nhiệm của ông K tính theo chức danh Phó vụ trưởng (bậc 3 Kiểm sát viên Viện kiểm sát nhân dân tối cao) là:
+
+(6,92 x 350.000) + [(6,92 + 0,85) x 350.000 x 20%] = 2.965.900 (đồng/tháng).
+
+Do tổng mức tiền lương cộng tiền phụ cấp trách nhiệm của ông K tính theo chức danh mới bổ nhiệm là 2.965.900 đồng, thấp hơn tổng mức tiền lương cộng tiền phụ cấp trách nhiệm trước khi được bổ nhiệm 3.049.375 đồng là 83.475 đồng, nên ông K được hưởng bảo lưu chênh lệch giữa tổng mức tiền lương cộng tiền phụ cấp trách nhiệm đã hưởng ở chức danh cũ so với tổng mức tiền lương cộng với tiền phụ cấp trách nhiệm được hưởng ở chức danh mới là: 3.049.375 đồng - 2.965.900 đồng = 83.475 đồng.
+
+Đến ngày 15/6/2007 ông K được nâng lên bậc 4 hệ số lương 7,28 của chức danh Kiểm sát viên Viện kiểm sát nhân dân tối cao. Tổng tiền lương cộng tiền phụ cấp trách nhiệm là (7,28 x 350.000) + [(7,28 + 0,85) x 350.000 x 20%]  = 3.117.100 (đồng/tháng). Mức tiền này cao hơn tổng mức tiền lương cộng tiền phụ cấp trách nhiệm đã được hưởng trước đó nên ông K thôi hưởng bảo lưu phần chênh lệch 83.475 đồng.
+
+(Điều này có nội dung liên quan đến Điều 35.10.QĐ.1.3.)
+
+Điều 35.10.TL.1.3. Nguồn kinh phí và cách chi trả
+
+(Điều 3 Thông tư liên tịch số 01/2006/TTLT-VKSTC-BNV-BTC, có hiệu lực thi hành kể từ ngày 20/02/2006)
+
+1. Nguồn kinh phí
+
+Nguồn kinh phí đảm bảo chế độ phụ cấp trách nhiệm đối với Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên, Điều tra viên và Kiểm tra viên các cấp ngành Kiểm sát được thực hiện theo các Thông tư hướng dẫn của Bộ Tài chính.
+
+2. Cách chi trả
+
+a) Phụ cấp trách nhiệm đối với Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên, Điều tra viên, Kiểm tra viên thuộc biên chế trả lương của Viện kiểm sát nhân dân cấp nào thì do Viện kiểm sát nhân dân cấp đó chi trả.
+
+b) Phụ cấp trách nhiệm được tính trả cùng kỳ lương hàng tháng và quyết toán theo quy định của pháp luật về chế độ quản lý tài chính hiện hành.
+
+c) Phụ cấp trách nhiệm quy định tại Thông tư này không được dùng để tính đóng, hưởng chế độ bảo hiểm xã hội, bảo hiểm y tế.
+
+3. Quản lý, quyết toán kinh phí
+
+Việc quản lý, cấp phát, hạch toán và quyết toán kinh phí thực hiện chế độ phụ cấp trách nhiệm đối với Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên, Điều tra viên, Kiểm tra viên các cấp ngành Kiểm sát nhân dân theo chế độ quản lý tài chính hiện hành và được hạch toán vào mục 102, tiểu mục 08 theo chương, loại, khoản, hạng tương ứng của mục lục ngân sách nhà nước.
+
+(Điều này có nội dung liên quan đến Điều 35.10.QĐ.1.3.)
+
+Điều 35.10.QĐ.1.2. 
+
+(Điều 2 Quyết định số 138/2005/QĐ-TTg, có hiệu lực thi hành kể từ ngày 04/07/2005)
+
+Nguồn kinh phí để chi trả chế độ phụ cấp trách nhiệm đối với Kiểm sát viên, Điều tra viên và Kiểm tra viên ngành Kiểm sát được bố trí trong dự toán ngân sách nhà nước hàng năm theo quy định của Luật Ngân sách nhà nước.
 
 Điều 35.10.LQ.97. Trang phục, giấy chứng minh Kiểm sát viên, giấy chứng nhận Điều tra viên, Kiểm tra viên
 
-**Chỉ mục:** 97
+(Điều 97 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000500009700000000000000000
+1. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân được cấp trang phục và phù hiệu; Kiểm sát viên được cấp cấp hiệu, giấy chứng minh; Điều tra viên, Kiểm tra viên được cấp cấp hiệu, giấy chứng nhận để làm nhiệm vụ.
 
-**ID:** dk_00059932
+Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được cấp trang phục theo chế độ của quân đội.
 
----
+2. Ủy ban thường vụ Quốc hội quy định chế độ cấp phát và sử dụng trang phục ngành Kiểm sát nhân dân, phù hiệu, cấp hiệu của Lãnh đạo Viện kiểm sát nhân dân các cấp, của Kiểm sát viên, Điều tra viên, Kiểm tra viên trên cơ sở đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
+Viện trưởng Viện kiểm sát nhân dân tối cao quy định hình thức, chất liệu, màu sắc trang phục; chế độ cấp phát và sử dụng trang phục đối với các công chức khác, viên chức và người lao động khác của Viện kiểm sát nhân dân.
 
-### Điều 35.10.NQ.1.1.
+3. Giấy chứng minh Kiểm sát viên do Viện trưởng Viện kiểm sát nhân dân tối cao cấp và quản lý. Hình thức, kích thước, màu sắc của Giấy chứng minh Kiểm sát viên do Ủy ban thường vụ Quốc hội quy định trên cơ sở đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
 
-*Nội dung chưa có sẵn*
+4. Giấy chứng nhận Điều tra viên, Kiểm tra viên do Viện trưởng Viện kiểm sát nhân dân tối cao quy định, cấp và quản lý.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Chương III TRANG PHỤC CỦA QUÂN ĐỘI NHÂN DÂN VIỆT NAM của Nghị định 82/2016/NĐ-CP Quy đinh quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam ban hành ngày 01/07/2016)
 
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220000100
+Điều 35.10.NQ.1.1.
 
-**ID:** dk_00059933
+(Điều 1 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012, có nội dung được sửa đổi bởi Điều 2 Nghị quyết số 973/2015/UBTVQH13 có hiệu lực thi hành kể từ ngày 14/07/2015)
 
----
+1. Cán bộ, công chức, viên chức Viện kiểm sát nhân dân được cấp trang phục để sử dụng theo niên hạn gồm có:
 
+- Quần áo lễ phục mùa hè: năm năm một bộ;
 
-### Điều 35.10.TL.2.2. Tiêu chuẩn, niên hạn sử dụng trang phục
+- Quần áo lễ phục mùa đông: năm năm một bộ;
+
+- Áo sơ mi dài tay lễ phục mùa đông: năm năm một chiếc;
+
+- Quần, áo xuân - hè trang phục thường dùng nam, nữ: một năm một bộ, lần đầu cấp hai bộ; đối với cán bộ, công chức, viên chức Viện kiểm sát nhân dân các tỉnh, thành phố từ Đà Nẵng trở vào cấp một năm hai bộ;
+
+- Quần, áo thu - đông trang phục thường dùng nam, nữ: hai năm một bộ, lần đầu cấp hai bộ; đối với cán bộ, công chức, viên chức Viện kiểm sát nhân dân các tỉnh, thành phố từ Đà Nẵng trở vào cấp bốn năm một bộ, lần đầu cấp hai bộ;
+
+- Áo khoác chống rét nam, nữ: năm năm một chiếc;
+
+- Áo sơ mi dài tay trang phục thường dùng nam, nữ: một năm một chiếc, lần đầu cấp hai chiếc;
+
+- Cà vạt: năm năm hai chiếc;
+
+- Thắt lưng: hai năm một chiếc;
+
+- Giầy da: hai năm một đôi, lần đầu cấp hai đôi;
+
+- Bít tất: một năm hai đôi;
+
+- Dép quai hậu: một năm một đôi;
+
+- Áo mưa: hai năm một chiếc.
+
+Kiêm sát viên, Điều tra viên, Kiểm tra viên và Chuyên viên còn được cấp cặp đựng tài liệu: ba năm một chiếc.
+
+2. Cán bộ, công chức, viên chức Viện kiểm sát nhân dân được cấp trang phục một lần như sau:
+
+- Phù hiệu Viện kiểm sát nhân dân;
+
+- Mũ kêpi;
+
+- Bộ cành tùng đơn gắn trên ve áo lễ phục;
+
+- Cuống đeo huân chương (dùng cho lễ phục vào dịp đại lễ);
+
+- Bộ phù hiệu gắn trên ve áo trang phục thường dùng;
+
+- Bộ cấp hiệu gắn trên vai áo;
+
+- Biển tên, chức vụ.
 
 Điều 35.10.TL.2.2. Tiêu chuẩn, niên hạn sử dụng trang phục
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư liên tịch số 01/2013/TTLT-VKSTC-BTC, có hiệu lực thi hành kể từ ngày 01/10/2013)
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000010000802481600015500200
+ 1. Trang phục cấp theo niên hạn sử dụng được quy định tại Khoản 1 Điều 1 Nghị quyết số 522b/NQ-UBTVQH13 ngày 16/8/2012 của Ủy ban Thường vụ Quốc hội, cụ thể như sau:
 
-**ID:** dk_00059934
+ **STT**
 
----
+ **Tên trang phục**
 
+ **Số lư****ợ****ng**
 
-### Điều 35.10.TL.2.3. Nguyên tắc cấp phát, sử dụng trang phục
+ **Niên hạn sử dụng**
 
-Điều 35.10.TL.2.3. Nguyên tắc cấp phát, sử dụng trang phục
+ 1.1
 
-**Chỉ mục:** 3
+ Quần áo lễ phục mùa hè
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000010000802481600015500300
+ 01 bộ
 
-**ID:** dk_00059935
+ 5 năm
 
----
+ 1.2
 
+ Quần áo lễ phục mùa đông
 
-### Điều 35.10.TL.2.4. Lập dự toán, quản lý và quyết toán kinh phí may sắm trang phục và Giấy chứng minh Kiểm sát viên
+ 01 bộ
 
-Điều 35.10.TL.2.4. Lập dự toán, quản lý và quyết toán kinh phí may sắm trang phục và Giấy chứng minh Kiểm sát viên
+ 5 năm
 
-**Chỉ mục:** 4
+ 1.3
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000010000802481600015500400
+ Áo sơ mi dài tay lễ phục mùa đông
 
-**ID:** dk_00059936
+ 01 chiếc
 
----
+ 5 năm
 
+ 1.4
 
-### Điều 35.10.TT.2.2. Nguyên tắc
+ Quần áo xuân hè trang phục thường dùng:
 
-*Nội dung chưa có sẵn*
+ + Từ Thừa Thiên Huế trở ra
 
-**Chỉ mục:** 2
+ + Từ Đà Nẵng trở vào
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000010000802568600019600200
+ 01 bộ
 
-**ID:** dk_00059937
+ 02 bộ
 
----
+ 1 năm (lần đầu 2 bộ)
 
+ 1 năm (lần đầu 2 bộ)
 
-### Điều 35.10.TT.2.3. Trang phục
+ 1.5
 
-*Nội dung chưa có sẵn*
+ Quần áo thu đông trang phục thường dùng:
 
-**Chỉ mục:** 3
+ + Từ Thừa Thiên Huế trở ra
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000010000802568600019600300
+ + Từ Đà Nẵng trở vào
 
-**ID:** dk_00059938
+ 01 bộ
 
----
+ 01 bộ
 
+ 2 năm (lần đầu 2 bộ)
 
-### Điều 35.10.NQ.1.4.
+ 4 năm (lần đầu 2 bộ)
 
-*Nội dung chưa có sẵn*
+ 1.6
 
-**Chỉ mục:** 4
+ Áo khoác chống rét
 
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220000400
+ 01 chiếc
 
-**ID:** dk_00059939
+ 5 năm
 
----
+ 1.7
 
+ Áo sơ mi dài tay trang phục thường dùng
 
-### Điều 35.10.NQ.1.5.
+ 01 chiếc
 
-*Nội dung chưa có sẵn*
+ 1 năm (lần đầu 2 chiếc)
 
-**Chỉ mục:** 5
+ 1.8
 
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220000500
+ Cà vạt
 
-**ID:** dk_00059940
+ 02 chiếc
 
----
+ 5 năm
 
+ 1.9
 
-### Điều 35.10.NQ.1.7.
+ Thắt lưng
 
-*Nội dung chưa có sẵn*
+ 01 chiếc
 
-**Chỉ mục:** 7
+ 2 năm
 
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220000700
+ 1.10
 
-**ID:** dk_00059941
+ Giầy da
 
----
+ 01 đôi
 
+ 2 năm (lần đầu 2 đôi)
 
-### Điều 35.10.TT.2.4. Giấy chứng minh Kiểm sát viên
+ 1.11
 
-*Nội dung chưa có sẵn*
+ Bít tất
 
-**Chỉ mục:** 4
+ 02 đôi
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000070000802568600019600400
+ 1 năm
 
-**ID:** dk_00059942
+ 1.12
 
----
+ Dép quai hậu
 
+ 01 đôi
 
-### Điều 35.10.TT.2.5. Giấy chứng nhận Điều tra viên
+ 1 năm
 
-*Nội dung chưa có sẵn*
+ 1.13
 
-**Chỉ mục:** 5
+ Áo mưa
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000070000802568600019600500
+ 01 chiếc
 
-**ID:** dk_00059943
+ 2 năm
 
----
+ 1.14
 
+ Cặp đựng tài liệu (cấp cho Kiểm sát viên, Điều tra viên, Kiểm tra viên và Chuyên viên)
 
-### Điều 35.10.TT.2.6. Giấy chứng nhận Kiểm tra viên
+ 01 chiếc
 
-*Nội dung chưa có sẵn*
+ 3 năm
 
-**Chỉ mục:** 6
+ 2. Trang phục cấp một lần
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000070000802568600019600600
+ Trang phục cấp một lần được quy định tại Khoản 2 Điều 1 Nghị quyết số 522b/NQ-UBTVQH13 ngày 16/8/2012 của Ủy ban Thường vụ Quốc hội, cụ thể như sau:
 
-**ID:** dk_00059944
+ a) Phù hiệu ngành Kiểm sát;
 
----
+ b) Mũ kêpi;
 
+ c) Bộ cành tùng đơn gắn trên ve áo lễ phục;
 
-### Điều 35.10.NQ.1.8.
+ d) Cuống đeo huân chương (dùng cho lễ phục vào dịp đại lễ);
 
-*Nội dung chưa có sẵn*
+ đ) Bộ phù hiệu gắn trên ve áo trang phục thường dùng;
 
-**Chỉ mục:** 8
+ e) Bộ cấp hiệu gắn trên vai áo;
 
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220000800
+ g) Biển tên, chức vụ.Điều 35.10.TL.2.3. Nguyên tắc cấp phát, sử dụng trang phục
 
-**ID:** dk_00059945
+(Điều 3 Thông tư liên tịch số 01/2013/TTLT-VKSTC-BTC, có hiệu lực thi hành kể từ ngày 01/10/2013)
 
----
+ 1. Việc cấp phát, sử dụng trang phục phải đúng mục đích, đúng đối tượng, đúng niên hạn theo quy định. Viện kiểm sát nhân dân các tỉnh, thành phố trực thuộc trung ương, các đơn vị dự toán trực thuộc Viện kiểm sát nhân dân tối cao phải mở sổ sách theo dõi quản lý việc cấp phát, sử dụng trang phục đến từng cán bộ, công chức, viên chức bảo đảm chính xác, đúng quy định.
 
+ 2. Trường hợp trang phục đã được cấp bị hư hỏng thì được cấp bổ sung. Trường hợp trang phục đã được cấp bị mất mát thì cá nhân phải tự may sắm đảm bảo yêu cầu trang phục theo quy định để sử dụng khi thi hành công vụ.
 
-### Điều 35.10.TT.2.8. Sử dụng trang phục thường dùng
+ 3. Đối với các trường hợp thôi việc, nghỉ hưu, chuyển công tác, nghỉ khác mà trang phục được cấp chưa hết niên hạn thì không phải thu hồi; nếu đã hết thời hạn mà chưa được cấp phát thì không được cấp phát.
 
-*Nội dung chưa có sẵn*
+ 4. Trang phục của cán bộ, công chức, viên chức Viện kiểm sát nhân dân theo quy định tại khoản 1, khoản 2 Điều 2 Thông tư này được cấp phát bằng hiện vật.
 
-**Chỉ mục:** 8
+ Đối với các trang phục là: giày da, dép quai hậu, thắt lưng, áo mưa, bít tất, cặp đựng tài liệu, căn cứ vào điều kiện cụ thể, Viện trưởng Viện kiểm sát nhân dân tối cao xem xét, có thể quyết định cấp tiền cho cá nhân tự may sắm theo đúng tiêu chuẩn, hình thức, màu sắc, kiểu dáng và trên cơ sở giá do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.Điều 35.10.TL.2.4. Lập dự toán, quản lý và quyết toán kinh phí may sắm trang phục và Giấy chứng minh Kiểm sát viên
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000080000802568600019600800
+(Điều 4 Thông tư liên tịch số 01/2013/TTLT-VKSTC-BTC, có hiệu lực thi hành kể từ ngày 01/10/2013)
 
-**ID:** dk_00059946
+ 1. Lập dự toán:
 
----
+ Hàng năm, căn cứ vào đối tượng được cấp trang phục, số lượng, chủng loại trang phục đến niên hạn được cấp hoặc được bổ sung, các đơn vị thuộc Viện kiểm sát nhân dân lập dự toán kinh phí chi trang phục theo quy định tại Thông tư này tổng hợp vào dự toán của đơn vị mình gửi Viện kiểm sát nhân dân tối cao tổng hợp gửi Bộ Tài chính theo quy định.
 
+ Kinh phí làm Giấy chứng minh Kiểm sát viên được tổng hợp vào dự toán ngân sách của toàn ngành hàng năm và thực hiện trong dự toán chi ngân sách đã được cơ quan có thẩm quyền phê duyệt, giao theo quy định.
 
-### Điều 35.10.TT.2.9. Sử dụng lễ phục
+ 2. Quản lý và quyết toán kinh phí may sắm trang phục:
 
-*Nội dung chưa có sẵn*
+ Việc quản lý và quyết toán kinh phí may sắm trang phục thực hiện theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn hiện hành.Điều 35.10.TT.2.2. Nguyên tắc
 
-**Chỉ mục:** 9
+(Điều 2 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000080000802568600019600900
+Việc quản lý, sử dụng trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên phải đúng đối tượng, tiêu chuẩn, mục đích và thống nhất trong ngành Kiểm sát nhân dân. Mọi vi phạm trong việc thực hiện Thông tư này phải được phát hiện, xử lý kịp thời, khách quan, đúng quy định của pháp luật và của ngành Kiểm sát nhân dân.
 
-**ID:** dk_00059947
+(Điều này có nội dung liên quan đến Điều 35.10.TT.2.4. Giấy chứng minh Kiểm sát viên; Điều 35.10.TT.2.5. Giấy chứng nhận Điều tra viên; Điều 35.10.TT.2.6. Giấy chứng nhận Kiểm tra viên)
 
----
+Điều 35.10.TT.2.3. Trang phục
 
+(Điều 3 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-### Điều 35.10.TT.2.10. Đội mũ kêpi
+1. Trang phục gồm: Trang phục thường dùng và lễ phục.
 
-*Nội dung chưa có sẵn*
+2. Trang phục thường dùng gồm: Quần, áo xuân hè; quần, áo thu đông; áo khoác chống rét; áo sơ mi dài tay; mũ kêpi; cà vạt; thắt lưng; giày da; bít tất; dép quai hậu; áo mưa; cặp đựng tài liệu; phù hiệu Viện kiểm sát nhân dân, bộ phù hiệu gắn trên ve áo, bộ cấp hiệu gắn trên vai áo, biển tên theo quy định của pháp luật.
 
-**Chỉ mục:** 10
+3. Lễ phục gồm: Quần áo lễ phục mùa hè, quần áo lễ phục mùa đông, áo sơ mi dài tay lễ phục mùa đông, mũ kêpi, bộ cành tùng đơn gắn trên ve áo lễ phục, phù hiệu, cấp hiệu, biển tên, cuống đeo huân chương theo quy định của pháp luật.
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000080000802568600019601000
+Điều 35.10.NQ.1.4. 
 
-**ID:** dk_00059948
+(Điều 4 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012)
 
----
+1. Phù hiệu gắn trên ve áo lễ phục của lãnh đạo Viện Kiểm sát nhân dân các cấp và Kiểm sát viên, Điều tra viên là cành tùng đơn màu vàng, chiều dài 65mm, có 09 nhánh, thiết kế riêng biệt không liền sao.
 
+2. Phù hiệu gắn trên ve áo trang phục thường dùng của lãnh đạo Viện Kiểm sát nhân dân các cấp và Kiểm sát viên, Điều tra viên có hình bình hành, nền màu đỏ tươi, cạnh dài 55 mm, cạnh ngắn 33 mm, góc nhọn 60 độ, viền xung quanh và ở giữa có biểu tượng thanh kiếm lá chắn màu vàng.
 
-### Điều 35.10.TT.2.11. Những trường hợp không phải sử dụng trang phục
+Điều 35.10.NQ.1.5.
+
+(Điều 5 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 2 Nghị quyết số 973/2015/UBTVQH13 có hiệu lực thi hành kể từ ngày 14/07/2015)
+
+1. Cấp hiệu gắn trên vai áo của Viện trưởng, Phó Viện trưởng Viện Kiểm sát nhân dân các cấp và Kiểm sát viên, Điều tra viên, Kiểm tra viên có hình ngũ giác, nền màu đỏ tươi, có tạo hoa văn; chiều dài 130 mm, phần đuôi rộng 50 mm, phần đầu rộng 40 mm, có viền màu vàng rộng 5 mm ở hai cạnh dọc và đầu vát nhọn; phần đầu vát nhọn được gắn chốt bằng kim loại có hình phù hiệu Viện kiểm sát nhân dân đường kính 15 mm.
+
+2. Cấp hiệu của Viện trưởng, Phó Viện trưởng Viện Kiểm sát nhân dân các cấp và Kiểm sát viên, Điều tra viên, Kiểm tra viên, cụ thể như sau:
+
+- Cấp hiệu của Viện trưởng Viện kiểm sát nhân dân tối cao không có vạch, ở giữa có gắn hình Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam màu vàng, đường kính 25 mm.
+
+Cấp hiệu của Phó viện trưởng Viện kiểm sát nhân dân tối cao không có vạch, ở giữa có gắn ba ngôi sao màu vàng, đường kính 24 mm.
+
+Cấp hiệu của Kiểm sát viên Viện kiểm sát nhân dân tối cao và Viện trưởng Viện kiểm sát nhân dân cấp cao không có vạch, ở giữa có gắn hai ngôi sao màu vàng, đường kính 22 mm.
+
+- Cấp hiệu của Phó viện trưởng Viện kiểm sát nhân dân cấp cao, Kiểm sát viên cao cấp và Điều tra viên cao cấp không có vạch, ở giữa có gắn một ngôi sao màu vàng, đường kính 22 mm.
+
+- Cấp hiệu của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Kiểm tra viên cao cấp có hai vạch dọc màu vàng, ở giữa có gắn bốn ngôi sao màu vàng đường kính 20 mm.
+
+- Cấp hiệu của Kiểm sát viên trung cấp, Điều tra viên trung cấp, Viện trưởng Viện kiểm sát nhân dân cấp huyện có hai vạch dọc màu vàng, ở giữa có gắn ba ngôi sao màu vàng đường kính 20 mm.
+
+- Cấp hiệu của Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện, Kiểm tra viên chính có hai vạch dọc màu vàng, ở giữa có gắn hai ngôi sao màu vàng đường kính 20 mm.
+
+- Cấp hiệu của Kiểm sát viên sơ cấp, Điều tra viên sơ cấp có hai vạch dọc màu vàng, ở giữa có gắn một ngôi sao màu vàng đường kính 20 mm.
+
+- Cấp hiệu của Kiểm tra viên có một vạch dọc màu vàng, ở giữa có gắn ba ngôi sao màu vàng đường kính 20 mm
+
+Điều 35.10.NQ.1.7.
+
+(Điều 7 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012, có nội dung bị bãi bỏ bởi Điều 2 Nghị quyết số 973/2015/UBTVQH13 có hiệu lực thi hành kể từ ngày 14/07/2015)
+
+2. Giấy chứng minh Kiểm sát viên có chiều dài 95 mm, chiều rộng 62 mm, gồm 2 mặt có đặc điểm như sau:
+
+- Mặt trước: Nền đỏ, trên cùng là dòng chữ “Cộng hòa xã hội chủ nghĩa Việt Nam” màu vàng; ở giữa là hình Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam; phía dưới Quốc huy là dòng chữ “Giấy chứng minh Kiểm sát viên” màu vàng (hình 1).
+
+- Mặt sau: Nền trắng có hoa văn chìm, màu hồng; có một đường gạch chéo màu đỏ rộng 8 mm, chạy từ góc dưới bên trái lên góc trên bên phải, ở giữa có ngôi sao vàng năm cánh; có phù hiệu ngành Kiểm sát ở góc trên bên trái; có ảnh của Kiểm sát viên ở góc dưới bên trái; có thông tin về họ và tên, ngày, tháng, năm sinh, chức danh, Viện kiểm sát nhân dân nơi công tác của Kiểm sát viên (hình 2).
+
+***                                                 Hình 2***
+
+Điều 35.10.TT.2.4. Giấy chứng minh Kiểm sát viên
+
+(Điều 4 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
+
+1. Giấy chứng minh Kiểm sát viên do Viện trưởng Viện kiểm sát nhân dân tối cao cấp cho: Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân các cấp, Viện kiểm sát quân sự các cấp, Kiểm sát viên các ngạch theo quy định của pháp luật.
+
+2. Giấy chứng minh Kiểm sát viên theo quy định tại Nghị quyết số 522b/NQ-UBTVQH13 ngày 16/8/2012 của Uỷ ban thường vụ Quốc hội về trang phục đối với cán bộ, công chức, viên chức ngành Kiểm sát và Giấy chứng minh Kiểm sát viên và Nghị quyết số 973/2015/UBTVQH13 ngày 14/7/2015 của Ủy ban thường vụ Quốc hội về sửa đổi, bổ sung Nghị quyết 522b/NQ-UBTVQH13 ngày 16/8/2012 như sau:
+
+a) Kích thước: Chiều dài 95 mm, chiều rộng 62 mm;
+
+b) Mặt trước: Nền đỏ, trên cùng là dòng chữ “Cộng hòa xã hội chủ nghĩa Việt Nam” màu vàng, in hoa, cỡ chữ 11; ở giữa là hình Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam; phía dưới Quốc huy là dòng chữ “Giấy chứng minh Kiểm sát viên” màu vàng, in hoa, cỡ chữ 13;
+
+c) Mặt sau: Nền trắng có hoa văn chìm, màu hồng; có một đường gạch chéo màu đỏ rộng 8 mm, chạy từ góc dưới bên trái lên góc trên bên phải, ở giữa có ngôi sao vàng năm cánh; có phù hiệu ngành Kiểm sát ở góc trên bên trái; có ảnh của Kiểm sát viên ở góc dưới bên trái, cỡ 23x30 mm; có thông tin về họ và tên, ngày, tháng, năm sinh, chức danh, đơn vị công tác; nhiệm kỳ; chữ ký của Viện trưởng và dấu của Viện kiểm sát nhân dân tối cao.
+
+(Phụ lục số 01 kèm theo)
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.2.2. Nguyên tắc)
+
+Điều 35.10.TT.2.5. Giấy chứng nhận Điều tra viên
+
+(Điều 5 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
+
+1. Giấy chứng nhận Điều tra viên do Viện trưởng Viện kiểm sát nhân dân tối cao cấp cho: Thủ trưởng, Phó Thủ trưởng, Điều tra viên các ngạch thuộc Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương.
+
+2. Mẫu Giấy chứng nhận Điều tra viên như sau:
+
+a) Kích thước: Chiều dài 95 mm, chiều rộng 62 mm;
+
+b) Mặt trước: Nền đỏ, trên cùng là dòng chữ “Cộng hòa xã hội chủ nghĩa Việt Nam” màu vàng, in hoa, cỡ chữ 11; ở giữa là hình Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam; phía dưới Quốc huy là dòng chữ “Giấy chứng nhận Điều tra viên” màu vàng, in hoa, cỡ chữ 13.
+
+c) Mặt sau: Nền trắng có hoa văn chìm, màu hồng; có một đường gạch chéo màu đỏ rộng 8 mm, chạy từ góc dưới bên trái lên góc trên bên phải, ở giữa có ngôi sao vàng năm cánh; có phù hiệu ngành Kiểm sát ở góc trên bên trái; có ảnh của Điều tra viên ở góc dưới bên trái, cỡ 23x30 mm; có thông tin về họ và tên, ngày, tháng, năm sinh, chức danh, đơn vị công tác; nhiệm kỳ; chữ ký của Viện trưởng và dấu của Viện kiểm sát nhân dân tối cao.
+
+(Phụ lục số 02 kèm theo)
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.2.2. Nguyên tắc)
+
+Điều 35.10.TT.2.6. Giấy chứng nhận Kiểm tra viên
+
+(Điều 6 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
+
+1. Giấy chứng nhận Kiểm tra viên do Viện trưởng Viện kiểm sát nhân dân tối cao cấp cho Kiểm tra viên các ngạch thuộc Viện kiểm sát nhân dân các cấp, Viện kiểm sát quân sự các cấp theo quy định của pháp luật.
+
+2. Mẫu Giấy chứng nhận Kiểm tra viên như sau:
+
+a) Kích thước: Chiều dài 95 mm, chiều rộng 62 mm;
+
+b) Mặt trước: Nền đỏ, trên cùng là dòng chữ “Cộng hòa xã hội chủ nghĩa Việt Nam” màu vàng, in hoa, cỡ chữ 11; ở giữa là hình Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam; phía dưới Quốc huy là dòng chữ “Giấy chứng nhận Kiểm tra viên” màu vàng, in hoa, cỡ chữ 13;
+
+c) Mặt sau: Nền trắng có hoa văn chìm, màu hồng; có một đường gạch chéo màu đỏ rộng 8 mm, chạy từ góc dưới bên trái lên góc trên bên phải, ở giữa có ngôi sao vàng năm cánh; có phù hiệu ngành Kiểm sát ở góc trên bên trái; có ảnh của Kiểm tra viên ở góc dưới bên trái, cỡ 23x30 mm; có thông tin về họ và tên, ngày, tháng, năm sinh, chức danh, đơn vị công tác; chữ ký của Viện trưởng và dấu của Viện kiểm sát nhân dân tối cao.
+
+(Phụ lục số 03 kèm theo)
+
+(Điều này có nội dung liên quan đến Điều 35.10.TT.2.2. Nguyên tắc)
+
+Điều 35.10.NQ.1.8. 
+
+(Điều 8 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012)
+
+Trong giờ làm việc và khi thực hiện nhiệm vụ, Kiểm sát viên, cán bộ, công chức, viên chức ngành Kiểm sát phải mang trang phục theo quy định; Kiểm sát viên phải mang Giấy chứng minh Kiểm sát viên.
+
+Điều 35.10.TT.2.8. Sử dụng trang phục thường dùng
+
+(Điều 8 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
+
+Công chức, viên chức trong giờ làm việc hoặc khi thực hiện nhiệm vụ phải sử dụng trang phục như sau:
+
+1. Mùa hè: Mặc quần áo xuân hè, áo để ngoài quần, đeo phù hiệu, cấp hiệu và đeo biển tên ở ngực áo bên phải. Mùa đông: Mặc quần áo thu đông, áo sơ mi phải để trong quần, thắt cà vạt, đeo phù hiệu, cấp hiệu và đeo biển tên ở ngực áo bên phải.
+
+2. Công chức, viên chức công tác tại các tỉnh từ Thừa Thiên - Huế trở ra sử dụng trang phục theo mùa: Mặc trang phục xuân hè từ ngày 01 tháng 4 đến hết ngày 31 tháng 10 hàng năm, mặc trang phục thu đông từ ngày 01 tháng 11 năm trước đến hết ngày 31 tháng 3 năm sau. Công chức, viên chức các đơn vị từ thành phố Đà Nẵng trở vào (trừ tỉnh Lâm Đồng) mặc trang phục xuân hè.
+
+3. Trong thời gian giao mùa giữa mùa hè và mùa đông hoặc những địa phương có thời tiết trong ngày khác nhau, việc thống nhất mặc trang phục thu đông hoặc trang phục xuân hè do Thủ trưởng cơ quan quyết định.
+
+Điều 35.10.TT.2.9. Sử dụng lễ phục
+
+(Điều 9 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
+
+1. Công chức, viên chức sử dụng lễ phục khi dự:
+
+a) Lễ mít tinh kỷ niệm do Đảng, Nhà nước, Viện kiểm sát nhân dân tối cao tổ chức;
+
+b) Đại hội đảng toàn quốc, họp Quốc hội;
+
+c) Lễ đón nhận huân, huy chương, danh hiệu vinh dự Nhà nước;
+
+d) Lễ tang cấp nhà nước.
+
+2. Việc sử dụng lễ phục trong từng trường hợp quy định tại Khoản 1 Điều này và các trường hợp cụ thể khác do Trưởng ban tổ chức hội nghị hoặc Thủ trưởng cơ quan quyết định.
+
+3. Khi sử dụng lễ phục được đeo huân chương, huy chương, kỷ niệm chương, huy hiệu của Đảng, Nhà nước, của Ngành và những huân chương, huy chương, kỷ niệm chương nước ngoài tặng được Viện kiểm sát nhân dân tối cao cho phép đeo.
+
+Huân chương, huy chương, kỷ niệm chương, huy hiệu được đeo ở ngực áo bên trái theo thứ tự hạng bậc cao đến hạng bậc thấp, từ trên xuống dưới, từ trái qua phải.
+
+Điều 35.10.TT.2.10. Đội mũ kêpi
+
+(Điều 10 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
+
+1. Công chức, viên chức đội mũ kêpi trong các trường hợp sau:
+
+a) Kiểm sát khám nghiệm hiện trường, thực nghiệm điều tra, kiểm sát cưỡng chế thi hành án, kê biên tài sản, kiểm sát nhà tạm giữ, trại tạm giam, trại giam;
+
+b) Trong trường hợp mặc lễ phục quy định tại Khoản 1 Điều 9 Thông tư này.
+
+2. Việc đội mũ trong từng trường hợp quy định tại Khoản 1 Điều này và các trường hợp cụ thể khác do Thủ trưởng cơ quan quyết định.
 
 Điều 35.10.TT.2.11. Những trường hợp không phải sử dụng trang phục
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000080000802568600019601100
+Công chức, viên chức trong giờ làm việc hoặc khi thực hiện nhiệm vụ không phải sử dụng trang phục:
 
-**ID:** dk_00059949
+1. Do yêu cầu công tác, tiếp khách quốc tế, hội thảo quốc tế hoặc tham gia các hoạt động văn hóa, thể thao, xã hội;
 
----
-
-
-### Điều 35.10.TT.2.12. Sử dụng Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên
+2. Nữ công chức, viên chức trong thời gian mang thai từ tháng thứ 3 đến khi sinh con được 12 tháng tuổi, trừ trường hợp khi thực hiện nhiệm vụ theo quy định phải sử dụng trang phục.
 
 Điều 35.10.TT.2.12. Sử dụng Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000080000802568600019601200
+1. Chỉ sử dụng Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên trong khi thi hành nhiệm vụ.
 
-**ID:** dk_00059950
+2. Không sử dụng Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên thay giấy giới thiệu, giấy chứng minh nhân dân và các loại giấy tờ tùy thân khác vào việc riêng hoặc việc trái pháp luật khác.
 
----
+Điều 35.10.NQ.1.9. 
 
+(Điều 9 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012)
 
-### Điều 35.10.NQ.1.9.
+1. Kiểm sát viên không được sử dụng phù hiệu, cấp hiệu và Giấy chứng minh Kiểm sát viên vào mục đích riêng; không được dùng Giấy chứng minh Kiểm sát viên thay giấy giới thiệu, giấy chứng minh nhân dân hoặc giấy tờ tùy thân khác.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 9
-
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220000900
-
-**ID:** dk_00059951
-
----
-
-
-### Điều 35.10.TT.2.7. Cấp, đổi, thu hồi trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên
+2. Việc cấp, đổi, thu hồi phù hiệu, cấp hiệu, Giấy chứng minh Kiểm sát viên do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.
 
 Điều 35.10.TT.2.7. Cấp, đổi, thu hồi trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000090000802568600019600700
+1. Công chức, viên chức khi được tuyển dụng, tiếp nhận làm việc trong ngành Kiểm sát nhân dân được cấp trang phục theo quy định. Viện kiểm sát nhân dân tối cao cấp trang phục cho công chức, viên chức công tác tại Viện kiểm sát nhân dân tối cao; Viện kiểm sát nhân dân cấp cao cấp trang phục, cho công chức, người lao động công tác tại Viện kiểm sát nhân dân cấp cao; Viện kiểm sát nhân dân cấp tỉnh cấp trang phục cho công chức, người lao động công tác tại Viện kiểm sát nhân dân cấp tỉnh và Viện kiểm sát nhân dân cấp huyện.
 
-**ID:** dk_00059952
+2. Công chức khi được bổ nhiệm các chức danh tư pháp lần đầu được Viện trưởng Viện kiểm sát nhân dân tối cao cấp Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên theo quy định.
 
----
+3. Khi thay đổi chức danh tư pháp hoặc đơn vị công tác thì công chức đề nghị Thủ trưởng đơn vị có văn bản trình Viện trưởng Viện kiểm sát nhân tối cao cấp đổi Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên, cấp hiệu, biển tên phù hợp.
 
+4. Phù hiệu, cấp hiệu, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên bị mất hoặc bị hư hỏng thì công chức, viên chức phải báo cáo giải trình bằng văn bản với Thủ trưởng đơn vị để trình cấp có thẩm quyền xem xét, cấp lại.
 
-### Điều 35.10.NQ.1.10.
+5. Khi chuyển ngành, thôi việc, chấm dứt hợp đồng lao động, cách chức, miễn nhiệm, buộc thôi việc, bị truy cứu trách nhiệm hình sự hoặc thuộc các trường hợp quy định tại Khoản 3 Điều này thì công chức, viên chức phải nộp lại phù hiệu, cấp hiệu, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên cho Thủ trưởng đơn vị. Trường hợp nghỉ hưu thì nộp lại Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên.
 
-*Nội dung chưa có sẵn*
+6. Thủ trưởng đơn vị thuộc Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân cấp cao, Viện trưởng Viện kiểm sát nhân dân cấp tỉnh có trách nhiệm đề nghị cấp, đổi, thu hồi Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên và gửi về Viện kiểm sát nhân dân tối cao (Vụ Tổ chức cán bộ).
 
-**Chỉ mục:** 10
+Điều 35.10.NQ.1.10. 
 
-**Mã phân cấp:** 350100000000000050000970000000000000000000202445505220001000
+(Điều 10 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012)
 
-**ID:** dk_00059953
+Người nào sử dụng trang phục, phù hiệu, cấp hiệu, Giấy chứng minh Kiểm sát viên trái pháp luật hoặc để làm những việc trái pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
----
+Điều 35.10.TT.2.14. Kiểm tra, thanh tra
 
+(Điều 14 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-### Điều 35.10.TT.2.14. Kiểm tra, thanh tra
+1. Thủ trưởng đơn vị thuộc Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân cấp cao, Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Viện trưởng Viện kiểm sát nhân dân cấp huyện có trách nhiệm đôn đốc, nhắc nhở và kiểm tra, thanh tra việc sử dụng trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên đối với công chức, viên chức thuộc phạm vi quản lý theo quy định của pháp luật và quy định tại Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Viện kiểm sát nhân dân tối cao, Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh tổ chức kiểm tra, thanh tra định kỳ hoặc đột xuất việc sử dụng trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên thuộc phạm vi quản lý theo quy định.
 
-**Chỉ mục:** 14
+Điều 35.10.TT.2.15. Xử lý vi phạm
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000100000802568600019601400
+(Điều 15 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-**ID:** dk_00059954
+Công chức, viên chức vi phạm quy định về quản lý, sử dụng trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên bị nhắc nhở, phê bình, kiểm điểm, thông báo công khai trong cơ quan, đơn vị; tùy theo tính chất, mức độ, hậu quả vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
----
+Điều 35.10.LQ.98. Chế độ đào tạo, bồi dưỡng
 
+(Điều 98 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-### Điều 35.10.TT.2.15. Xử lý vi phạm
+1. Nhà nước bảo đảm kinh phí cho công tác đào tạo, bồi dưỡng của Viện kiểm sát nhân dân theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+2. Nhà nước khuyến khích, tạo điều kiện phát triển nguồn nhân lực để phục vụ Viện kiểm sát nhân dân; có chính sách ưu tiên đào tạo, bồi dưỡng công chức, viên chức của Viện kiểm sát nhân dân là người dân tộc thiểu số hoặc công tác tại miền núi, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 
-**Chỉ mục:** 15
+3. Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được đào tạo, bồi dưỡng theo quy định của Viện kiểm sát nhân dân tối cao và Bộ Quốc phòng.
 
-**Mã phân cấp:** 35010000000000005000097000000000000000000020244550522000100000802568600019601500
+(Điều này có nội dung liên quan đến Điều 35.10.TT.1.5. Quyền lợi của cán bộ Viện kiểm sát quân sự)
 
-**ID:** dk_00059955
+Điều 35.10.TT.1.9. Đào tạo đại học hệ chính quy
 
----
+(Điều 9 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
+1. Mục tiêu: Đào tạo nguồn cán bộ Viện kiểm sát quân sự có kiến thức tổng hợp về khoa học pháp lý, kiến thức chuyên ngành kiểm sát và điều tra hình sự; có khả năng nghiên cứu khoa học và vận dụng trong thực tiễn hoạt động của Viện kiểm sát quân sự.
 
-### Điều 35.10.LQ.98. Chế độ đào tạo, bồi dưỡng
+2. Nguồn, tiêu chuẩn tuyển chọn
 
-*Nội dung chưa có sẵn*
+a) Quân nhân tại ngũ, công nhân viên quốc phòng, học sinh phổ thông trung học trúng tuyển sinh đại học quân sự, tuổi đời không quá 23; có đủ điều kiện, tiêu chuẩn tuyển chọn theo quy định của Bộ Giáo dục và Đào tạo, Bộ Quốc phòng và cơ sở đào tạo.
 
-**Chỉ mục:** 98
+b) Sĩ quan đã tốt nghiệp các trường đại học khác hệ chính quy, loại khá trở lên, tuổi đời không quá 28 được tuyển chọn vào Viện kiểm sát quân sự theo quy định của Bộ Quốc phòng.
 
-**Mã phân cấp:** 3501000000000000500009800000000000000000
+Điều 35.10.TT.1.10. Đào tạo sau đại học
 
-**ID:** dk_00059956
+(Điều 10 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
----
+1. Thạc sĩ luật
 
+a) Mục tiêu: Đào tạo cán bộ kiểm sát có trình độ kiến thức về khoa học pháp lý, đủ điều kiện để đảm nhiệm cương vị công tác kiểm sát ở cấp cao hơn và có khả năng nghiên cứu khoa học.
 
-### Điều 35.10.TT.1.9. Đào tạo đại học hệ chính quy
+b) Nguồn, tiêu chuẩn tuyển chọn: Viện trưởng, Phó Viện trưởng; Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; Kiểm sát viên, Kiểm tra viên, Điều tra viên có đủ các điều kiện theo quy định của Bộ Quốc phòng, Bộ Giáo dục và Đào tạo và cơ sở đào tạo.
 
-*Nội dung chưa có sẵn*
+2. Tiến sĩ luật
 
-**Chỉ mục:** 9
+a) Mục tiêu: Đào tạo cán bộ kiểm sát có trình độ cao về khoa học pháp lý; có khả năng sáng tạo, độc lập nghiên cứu, giảng dạy, hướng dẫn nghiệp vụ khoa học và hoạt động của Viện kiểm sát.
 
-**Mã phân cấp:** 350100000000000050000980000000000000000000802559301135000900
+b) Nguồn, tiêu chuẩn tuyển chọn: Viện trưởng, Phó Viện trưởng; Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; Kiểm sát viên, Kiểm tra viên, Điều tra viên thuộc diện quy hoạch sử dụng lâu dài, được đơn vị giới thiệu thi tuyển, có đủ các điều kiện theo quy định của Bộ Quốc phòng, Bộ Giáo dục và Đào tạo và cơ sở đào tạo.
 
-**ID:** dk_00059957
-
----
-
-
-### Điều 35.10.TT.1.10. Đào tạo sau đại học
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 350100000000000050000980000000000000000000802559301135001000
-
-**ID:** dk_00059958
-
----
-
-
-### Điều 35.10.TT.1.11. Đào tạo, bồi dưỡng về chính trị, quân sự
+3. Đào tạo sau đại học đối với một số chuyên ngành khác theo quy định chung của Bộ Quốc phòng, Bộ Giáo dục và Đào tạo.
 
 Điều 35.10.TT.1.11. Đào tạo, bồi dưỡng về chính trị, quân sự
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 350100000000000050000980000000000000000000802559301135001100
+1. Mục tiêu: Đào tạo, bồi dưỡng cán bộ kiểm sát có trình độ lý luận chính trị cao cấp, có kiến thức quân sự theo quy định của từng chức danh cán bộ Viện kiểm sát quân sự.
 
-**ID:** dk_00059959
+2. Nguồn tuyển chọn
 
----
+a) Trưởng phòng, Phó Trưởng phòng; Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra; Chánh Văn phòng, Phó Chánh Văn phòng Viện kiểm sát quân sự trung ương.
 
+b) Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương; Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự khu vực.
 
-### Điều 35.10.TT.1.12. Đào tạo, bồi dưỡng nghiệp vụ kiểm sát nghiệp vụ điều tra
+c) Kiểm sát viên, Điều tra viên, sĩ quan có cấp bậc quân hàm thiếu tá trở lên.
+
+3. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự trung ương được đào tạo tại Học viện Quốc phòng hoặc lớp cao cấp lý luận chính trị tại Học viện Chính trị.
 
 Điều 35.10.TT.1.12. Đào tạo, bồi dưỡng nghiệp vụ kiểm sát nghiệp vụ điều tra
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 350100000000000050000980000000000000000000802559301135001200
+1. Mục tiêu: Đào tạo, bồi dưỡng cán bộ có kiến thức chuyên ngành về công tác kiểm sát, nghiệp vụ điều tra, có khả năng đảm nhiệm chức danh Kiểm sát viên, Kiểm tra viên, Điều tra viên.
 
-**ID:** dk_00059960
-
----
-
-
-### Điều 35.10.TT.1.13. Bồi dưỡng một số kiến thức khác
+2. Nguồn tuyển chọn: Những người đã được tuyển chọn vào Viện kiểm sát quân sự các cấp, có trình độ cử nhân luật trở lên nhưng chưa đào tạo nghiệp vụ kiểm sát, nghiệp vụ điều tra.
 
 Điều 35.10.TT.1.13. Bồi dưỡng một số kiến thức khác
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Mã phân cấp:** 350100000000000050000980000000000000000000802559301135001300
+1. Bồi dưỡng kiến thức quản lý nhà nước
 
-**ID:** dk_00059961
+a) Mục tiêu: Bồi dưỡng cán bộ chủ trì của Viện kiểm sát quân sự các cấp có kiến thức về công tác quản lý nhà nước, chỉ đạo, điều hành chuyên ngành, có khả năng đảm nhiệm tốt cương vị lãnh đạo, chỉ huy.
 
----
+b) Đối tượng: Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp; Trưởng phòng, Phó Trưởng phòng, Chánh Văn phòng, Phó Chánh Văn phòng Viện kiểm sát quân sự trung ương; Trưởng ban Viện kiểm sát quân sự quân khu và tương đương.
 
+2. Bồi dưỡng nghiệp vụ và kiến thức khác
 
-### Điều 35.10.LQ.99. Khen thưởng, xử lý vi phạm
+Hằng năm, căn cứ vào kế hoạch của Viện kiểm sát nhân dân tối cao, Bộ Quốc phòng và nhu cầu bồi dưỡng cán bộ của Viện kiểm sát quân sự, Viện trưởng Viện kiểm sát quân sự trung ương xây dựng chương trình, kế hoạch trình cấp có thẩm quyền phê duyệt.
 
-*Nội dung chưa có sẵn*
+Điều 35.10.LQ.99. Khen thưởng, xử lý vi phạm
 
-**Chỉ mục:** 99
+(Điều 99 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Mã phân cấp:** 3501000000000000500009900000000000000000
+1. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân có thành tích trong công tác thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng và quy định của Viện kiểm sát nhân dân.
 
-**ID:** dk_00059962
+Quân nhân, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự có thành tích trong công tác thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng, quy định của Viện kiểm sát nhân dân, Bộ Quốc phòng.
 
----
+2. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân vi phạm pháp luật, vi phạm kỷ luật thì tùy theo tính chất, mức độ vi phạm mà xử lý kỷ luật, xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật và quy định của Viện kiểm sát nhân dân.
 
+Quân nhân, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự vi phạm pháp luật, vi phạm kỷ luật thì tùy theo tính chất, mức độ vi phạm mà xử lý kỷ luật, xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật, quy định của Viện kiểm sát nhân dân, Bộ Quốc phòng.
 
-### Điều 35.10.LQ.100. Hiệu lực thi hành
+Chương VI
 
-*Nội dung chưa có sẵn*
+ĐIỀU KHOẢN THI HÀNH
 
-**Chỉ mục:** 100
+Điều 35.10.LQ.100. Hiệu lực thi hành
 
-**Mã phân cấp:** 3501000000000000600010000000000000000000
+(Điều 100 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**ID:** dk_00059964
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2015, trừ các điều, khoản quy định tại khoản 2 Điều này.
 
----
+2. Điều 40, Điều 49, các khoản 3, 4 và 5 Điều 63, Điều 74, Điều 76, điểm b và điểm c khoản 1 Điều 79, điểm b và điểm c khoản 1 Điều 80, khoản 1 Điều 93 của Luật tổ chức Viện kiểm sát nhân dân có hiệu lực kể từ ngày 01 tháng 02 năm 2015.
 
+3. Luật tổ chức Viện kiểm sát nhân dân số 34/2002/QH10, Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11 đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 15/2011/PL-UBTVQH12, Pháp lệnh tổ chức Viện kiểm sát quân sự số 05/2002/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
-### Điều 35.10.LQ.101. Hướng dẫn thi hành
+Điều 35.10.LQ.101. Hướng dẫn thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 101 Luật số 63/2014/QH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-**Chỉ mục:** 101
+Chính phủ, Viện kiểm sát nhân dân tối cao và các cơ quan hữu quan trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết và hướng dẫn thi hành khoản 2 Điều 31, các Điều 86, 87, 90, 94, 95, 96, 97, 98 và 99 của Luật này.
 
-**Mã phân cấp:** 3501000000000000600010010252850063001010
+Điều 35.10.NQ.2.1.
 
-**ID:** dk_00059965
+(Điều 1 Nghị quyết số 82/2014/QH13 về việc thi hành Luật tổ chức Viện kiểm sát nhân dân ngày 24/11/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 24/11/2014)
 
----
+Kể từ ngày 01 tháng 02 năm 2015 đến ngày 01 tháng 6 năm 2015:
 
+1. Viện trưởng Viện kiểm sát nhân dân tối cao có trách nhiệm rà soát, chuẩn bị về tổ chức bộ máy, cán bộ, cơ sở vật chất và các điều kiện khác để bảo đảm hoạt động của Viện kiểm sát nhân dân các cấp theo quy định của Luật này;
 
-### Điều 35.10.NQ.2.1.
+2. Kiểm sát viên Viện kiểm sát nhân dân tối cao hết nhiệm kỳ tiếp tục thực hiện nhiệm vụ cho đến khi được xem xét, bổ nhiệm theo quy định tại khoản 5 Điều này;
 
-*Nội dung chưa có sẵn*
+3. Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp hết nhiệm kỳ tiếp tục thực hiện nhiệm vụ cho đến khi được xem xét, bổ nhiệm lại theo quy định của Luật này; việc xem xét, bổ nhiệm lại các Kiểm sát viên này phải thực hiện xong trước ngày 30 tháng 9 năm 2015;
 
-**Chỉ mục:** 1
+4. Căn cứ Điều 40, Điều 49 và khoản 3 Điều 63 của Luật tổ chức Viện kiểm sát nhân dân, Viện trưởng Viện kiểm sát nhân dân tối cao đề nghị Ủy ban thường vụ Quốc hội quyết định thành lập các Viện kiểm sát nhân dân cấp cao, phê chuẩn bộ máy làm việc của Viện kiểm sát nhân dân tối cao;
 
-**Mã phân cấp:** 3501000000000000600010010252850082000010
+5. Căn cứ khoản 4 và khoản 5 Điều 63, Điều 74, Điều 76, điểm b và điểm c khoản 1 Điều 79, điểm b và điểm c khoản 1 Điều 80, khoản 1 Điều 93 của Luật tổ chức Viện kiểm sát nhân dân, Viện trưởng Viện kiểm sát nhân dân tối cao có trách nhiệm:
 
-**ID:** dk_00059966
+a) Xem xét, quyết định đề nghị Chủ tịch nước bổ nhiệm các Kiểm sát viên Viện kiểm sát nhân dân tối cao;
 
----
+b) Xem xét, quyết định bổ nhiệm làm Kiểm sát viên cao cấp đối với các Kiểm sát viên Viện kiểm sát nhân dân tối cao được bổ nhiệm trước ngày 01 tháng 6 năm 2015 mà không được bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao theo quy định của Luật tổ chức Viện kiểm sát nhân dân.
 
+Điều 35.10.NQ.2.2.
 
-### Điều 35.10.NQ.2.2.
+(Điều 2 Nghị quyết số 82/2014/QH13, có hiệu lực thi hành kể từ ngày 24/11/2014)
 
-*Nội dung chưa có sẵn*
+Kể từ ngày 01 tháng 6 năm 2015:
 
-**Chỉ mục:** 2
+1. Những nhiệm vụ, quyền hạn mới của Viện kiểm sát nhân dân quy định tại các điểm b, c, e và g khoản 3 Điều 3, khoản 4 Điều 12 và thẩm quyền của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương quy định tại Điều 20 của Luật tổ chức Viện kiểm sát nhân dân được thực hiện sau khi Bộ luật tố tụng hình sự hiện hành được sửa đổi, bổ sung và luật về tổ chức cơ quan điều tra hình sự được Quốc hội thông qua và có hiệu lực thi hành quy định những nhiệm vụ, quyền hạn này thống nhất với Luật tổ chức Viện kiểm sát nhân dân.
 
-**Mã phân cấp:** 3501000000000000600010010252850082000020
+Trong thời gian Bộ luật tố tụng hình sự hiện hành chưa được sửa đổi, bổ sung, luật về tổ chức cơ quan điều tra hình sự chưa được Quốc hội thông qua và chưa có hiệu lực thi hành thì Viện kiểm sát nhân dân, Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương tiếp tục thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự và Pháp lệnh tổ chức điều tra hình sự hiện hành;
 
-**ID:** dk_00059967
+2. Viện kiểm sát nhân dân tối cao chuyển giao nhiệm vụ thực hành quyền công tố, kiểm sát xét xử phúc thẩm cho Viện kiểm sát nhân dân cấp cao.
 
----
+Viện kiểm sát nhân dân cấp tỉnh chuyển giao nhiệm vụ thực hành quyền công tố, kiểm sát xét xử giám đốc thẩm, tái thẩm cho Viện kiểm sát nhân dân cấp cao;
 
+3. Viện kiểm sát nhân dân cấp cao có nhiệm vụ, quyền hạn:
 
-### Điều 35.10.NQ.2.3.
+a) Thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với các vụ án, vụ việc thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp cao;
 
-*Nội dung chưa có sẵn*
+b) Thực hành quyền công tố, kiểm sát việc giải quyết theo thủ tục phúc thẩm đối với bản án, quyết định chưa có hiệu lực pháp luật của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương đã có kháng cáo, kháng nghị mà chưa được giải quyết;
 
-**Chỉ mục:** 3
+c) Thực hành quyền công tố, kiểm sát việc giải quyết theo thủ tục giám đốc thẩm, tái thẩm đối với bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương đã có kháng nghị mà chưa được giải quyết;
 
-**Mã phân cấp:** 3501000000000000600010010252850082000030
+d) Giải quyết kiến nghị, đơn đề nghị giám đốc thẩm, tái thẩm đối với bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương đã được Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân tối cao thụ lý mà chưa được giải quyết;
 
-**ID:** dk_00059968
+4. Viện trưởng Viện kiểm sát nhân dân cấp cao kháng nghị theo thủ tục phúc thẩm đối với bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương; kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi lãnh thổ thuộc thẩm quyền;
 
----
+5. Kiểm sát viên cao cấp được bổ nhiệm theo quy định tại điểm b khoản 5 Điều 1 của Nghị quyết này sau đó được xem xét bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao thì không áp dụng điều kiện quy định tại điểm a khoản 1 Điều 80 của Luật tổ chức Viện kiểm sát nhân dân;
 
+6. Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp còn nhiệm kỳ tiếp tục thực hiện nhiệm vụ cho đến hết nhiệm kỳ theo quyết định bổ nhiệm;
 
-### Điều 35.10.NQ.1.11.
+7. Lương và phụ cấp của Kiểm sát viên Viện kiểm sát nhân dân tối cao, Kiểm sát viên cao cấp được thực hiện tương ứng với lương và phụ cấp của Kiểm sát viên Viện kiểm sát nhân dân tối cao theo quy định pháp luật hiện hành cho đến khi có chế độ lương và phụ cấp mới.
 
-*Nội dung chưa có sẵn*
+Điều 35.10.NQ.2.3.
 
-**Chỉ mục:** 11
+(Điều 3 Nghị quyết số 82/2014/QH13, có hiệu lực thi hành kể từ ngày 24/11/2014)
 
-**Mã phân cấp:** 3501000000000000600010020244550522000110
+1. Viện kiểm sát nhân dân tối cao trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, tự mình hoặc phối hợp với các cơ quan hữu quan rà soát các văn bản pháp luật có liên quan đến Luật tổ chức Viện kiểm sát nhân dân để hủy bỏ, sửa đổi, bổ sung hoặc ban hành văn bản mới theo thẩm quyền; đề nghị Quốc hội, Ủy ban thường vụ Quốc hội, Chính phủ và các cơ quan hữu quan hủy bỏ, sửa đổi, bổ sung hoặc ban hành văn bản mới phù hợp với Luật này.
 
-**ID:** dk_00059969
+2. Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm thi hành Nghị quyết này.
 
----
+Điều 35.10.NQ.1.11.
 
+(Điều 11 Nghị quyết số 522b/NQ-UBTVQH13, có hiệu lực thi hành kể từ ngày 16/08/2012)
 
-### Điều 35.10.NQ.1.12.
+1. Nghị quyết này có hiệu lực từ ngày ký và thay thế Nghị quyết số 219/2003/NQ-UBTVQH11 ngày 09/01/2003 của Ủy ban Thường vụ Quốc hội về trang phục đối với cán bộ, công chức ngành Kiểm sát và Giấy chứng minh Kiểm sát viên.
 
-*Nội dung chưa có sẵn*
+2. Chính phủ, Viện trưởng Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thi hành Nghị quyết này.
 
-**Chỉ mục:** 3
+Điều 35.10.NQ.1.12.
 
-**Mã phân cấp:** 3501000000000000600010020244550522000120
+(Điều 3 Nghị quyết số 973/2015/UBTVQH13 VỀ SỬA ĐỔI, BỔ SUNG BẢNG PHỤ CẤP CHỨC VỤ ĐỐI VỚI CÁN BỘ LÃNH ĐẠO CỦA NHÀ NƯỚC VÀ ĐẠI BIỂU QUỐC HỘI HOẠT ĐỘNG CHUYÊN TRÁCH, BẢNG LƯƠNG CHUYÊN MÔN, NGHIỆP VỤ NGÀNH TÒA ÁN, NGÀNH KIỂM SÁT BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 730/2004/NQ-UBTVQH11 NGÀY 30 THÁNG 9 NĂM 2004 CỦA ỦY BAN THƯỜNG VỤ QUỐC HỘI; SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 522b/NQ-UBTVQH13 NGÀY 16 THÁNG 8 NĂM 2012 CỦA ỦY BAN THƯỜNG VỤ QUỐC HỘI VỀ TRANG PHỤC ĐỐI VỚI CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC NGÀNH KIỂM SÁT VÀ GIẤY CHỨNG MINH KIỂM SÁT VIÊN ngày 14/07/2015 của Ủy ban thường vụ Quốc hội, có hiệu lực thi hành kể từ ngày 14/07/2015)
 
-**ID:** dk_00059970
+1. Nghị quyết này có hiệu lực từ ngày ký.
 
----
+2. Chính phủ, Viện kiểm sát nhân dân tối cao và các cơ quan hữu quan hướng dẫn thi hành Nghị quyết này.
 
+Điều 35.10.NQ.3.9. Hiệu lực thi hành
 
-### Điều 35.10.NQ.3.9. Hiệu lực thi hành
+(Điều 9 Nghị quyết số 924/2015/UBTVQH13, có hiệu lực thi hành kể từ ngày 01/06/2015)
 
-*Nội dung chưa có sẵn*
+1. Nghị quyết này có hiệu lực kể từ ngày 01 tháng 6 năm 2015.
 
-**Chỉ mục:** 9
+2. Chính phủ, Viện kiểm sát nhân dân tối cao và các cơ quan hữu quan hướng dẫn thực hiện Nghị quyết này.
 
-**Mã phân cấp:** 3501000000000000600010020254550924000090
+Điều 35.10.QĐ.1.3.
 
-**ID:** dk_00059971
+(Điều 3 Quyết định số 138/2005/QĐ-TTg, có hiệu lực thi hành kể từ ngày 04/07/2005)
 
----
+Viện Kiểm sát nhân dân tối cao chủ trì, phối hợp với Bộ Nội vụ, Bộ Tài chính chịu trách nhiệm hướng dẫn thi hành Quyết định này.
 
+(Điều này có nội dung liên quan đến Điều 35.10.TL.1.2. Mức phụ cấp trách  nhiệm và cách tính; Điều 35.10.TL.1.3. Nguồn kinh phí và cách chi trả)
 
-### Điều 35.10.QĐ.1.3.
+Điều 35.10.QĐ.1.4.
 
-*Nội dung chưa có sẵn*
+(Điều 4 Quyết định số 138/2005/QĐ-TTg, có hiệu lực thi hành kể từ ngày 04/07/2005)
 
-**Chỉ mục:** 3
+Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-**Mã phân cấp:** 3501000000000000600010050218340138000030
+Bãi bỏ quy định về chế độ bồi dưỡng đối với Kiểm sát viên, Điều tra viên ngành Kiểm sát quy định tại Điều 1 và Viện trưởng Viện Kiểm sát nhân dân tối cao quy định tại Điều 4 Quyết định số 06/2001/QĐ-TTg ngày 10 tháng 01 năm 2001 của Thủ tướng Chính phủ quy định về chế độ bồi dưỡng đối với một số chức danh tư pháp.
 
-**ID:** dk_00059972
+Chế độ phụ cấp trách nhiệm theo nghề quy định tại Quyết định này được tính hưởng kể từ ngày 01 tháng 10 năm 2004.
 
----
+Điều 35.10.QĐ.1.5.
 
+(Điều 5 Quyết định số 138/2005/QĐ-TTg, có hiệu lực thi hành kể từ ngày 04/07/2005)
 
-### Điều 35.10.QĐ.1.4.
+Viện trưởng Viện Kiểm sát nhân dân tối cao, các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
 
-*Nội dung chưa có sẵn*
+Điều 35.10.TL.1.4. Tổ chức thực hiện
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 01/2006/TTLT-VKSTC-BNV-BTC, có hiệu lực thi hành kể từ ngày 20/02/2006)
 
-**Mã phân cấp:** 3501000000000000600010050218340138000040
+1. Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng công báo. Chế độ phụ cấp trách nhiệm quy định tại Thông tư này được tính hưởng kể từ ngày 01/10/2004.
 
-**ID:** dk_00059973
+2. Bãi bỏ quy định về chế độ bồi dưỡng đối với Kiểm sát viên, Điều tra viên ngành Kiểm sát nhân dân quy định tại Thông tư liên tịch số 05/2001/TTLT/BTP-BTCCBCP-BTC-BCA ngày 28/3/2001 của Bộ Tư pháp, Ban Tổ chức- Cán bộ Chính phủ (nay là Bộ Nội vụ), Bộ Tài chính, Bộ Công an hướng dẫn chế độ bồi dưỡng đối với một số chức danh tư pháp.
 
----
+Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh về Viện kiểm sát nhân dân tối cao, Bộ Nội vụ, Bộ Tài chính để nghiên cứu, giải quyết.
 
+Điều 35.10.TL.2.5. Tổ chức thực hiện
 
-### Điều 35.10.QĐ.1.5.
+(Điều 5 Thông tư liên tịch số 01/2013/TTLT-VKSTC-BTC, có hiệu lực thi hành kể từ ngày 01/10/2013)
 
-*Nội dung chưa có sẵn*
+1. Viện kiểm sát nhân dân tối cao chịu trách nhiệm quản lý, hướng dẫn, kiểm tra việc cấp phát và sử dụng trang phục theo quy định hiện hành.
 
-**Chỉ mục:** 5
+Khoản chi cấp phát trang phục không đúng quy định tại Thông tư này khi kiểm tra phát hiện phải được thu hồi nộp cho ngân sách. Cá nhân ra lệnh chi sai thì tùy theo mức độ vi phạm sẽ bị xử lý kỷ luật, xử phạt vi phạm hành chính, bồi hoàn số tiền chi sai theo quy định.
 
-**Mã phân cấp:** 3501000000000000600010050218340138000050
+2. Căn cứ tình hình cụ thể, Viện trưởng Viện kiểm sát nhân dân tối cao quyết định vận dụng cấp phát một số loại trang phục phù hợp với lao động hợp đồng không xác định thời hạn theo Nghị định số 68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ trong ngành Kiểm sát nhân dân.
 
-**ID:** dk_00059974
+3. Thông tư này có hiệu lực kể từ ngày 01/10/2013 và thay thế Thông tư liên tịch số 02/2003/TTLT-VKSTC-BTC ngày 15/10/2003 của Viện kiểm sát nhân dân tối cao và Bộ Tài chính hướng dẫn thực hiện Nghị quyết số 219/2003/NQ-UBTVQH ngày 09/01/2003 của Ủy ban Thường vụ Quốc hội về trang phục đối với cán bộ công chức ngành Kiểm sát và Giấy chứng minh Kiểm sát viên.
 
----
+Các chế độ quy định tại Thông tư liên tịch này được thực hiện từ ngày 16 tháng 8 năm 2012.
 
+4. Trong quá trình thực hiện nếu có khó khăn vướng mắc, đề nghị phản ánh về Bộ Tài chính, Viện kiểm sát nhân dân tối cao để sửa đổi, bổ sung cho phù hợp./.
 
-### Điều 35.10.TL.1.4. Tổ chức thực hiện
+Điều 35.10.TT.1.30. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 30 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
-**Chỉ mục:** 4
+Thông tư này có hiệu lực thi hành kể từ ngày 12 tháng 11 năm 2015 và thay thế Quyết định số 145/2005/QĐ-BQP ngày 29 tháng 9 năm 2005 của Bộ trưởng Bộ Quốc phòng ban hành Quy chế tuyển chọn, đào tạo, bồi dưỡng, sử dụng cán bộ ngành Kiểm sát quân sự.
 
-**Mã phân cấp:** 3501000000000000600010080220540001550040
+Điều 35.10.TT.1.31. Trách nhiệm thi hành
 
-**ID:** dk_00059975
+(Điều 31 Thông tư số 113/2015/TT-BQP, có hiệu lực thi hành kể từ ngày 12/11/2015)
 
----
+Tổng Tham mưu trưởng, Chủ nhiệm Tổng cục Chính trị, Viện trưởng Viện kiểm sát quân sự trung ương, Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+Điều 35.10.TT.2.13. Tổ chức thực hiện
 
-### Điều 35.10.TL.2.5. Tổ chức thực hiện
+(Điều 13 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
-*Nội dung chưa có sẵn*
+1. Cục Kế hoạch - Tài chính có trách nhiệm hướng dẫn, phối hợp với các đơn vị có liên quan bảo đảm việc cấp và quản lý trang phục thống nhất trong ngành Kiểm sát nhân dân.
 
-**Chỉ mục:** 5
+2. Vụ Tổ chức cán bộ có trách nhiệm: Thực hiện việc cấp, đổi, thu hồi Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên trong ngành Kiểm sát nhân dân; phối hợp với Cục Kế hoạch - Tài chính, Thanh tra Viện kiểm sát nhân dân tối cao trong việc quản lý, theo dõi, đôn đốc, kiểm tra, thanh tra việc thực hiện Thông tư này.
 
-**Mã phân cấp:** 3501000000000000600010080248160001550050
+Điều 35.10.TT.2.16. Hiệu lực thi hành
 
-**ID:** dk_00059976
+(Điều 16 Thông tư số 01/2015/TT-VKSTC, có hiệu lực thi hành kể từ ngày 13/02/2016)
 
----
+Thông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký.
 
+Các quy định trước đây trái với Thông tư này đều bị bãi bỏ.
 
-### Điều 35.10.TT.1.30. Hiệu lực thi hành
+Điều 35.10.TL.3.8. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 8 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
-**Chỉ mục:** 30
+1. Thông tư liên tịch này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký.
 
-**Mã phân cấp:** 3501000000000000600010080255930113500300
+2. Trong quá trình thực hiện, nếu có vướng mắc cần phản ánh kịp thời về Viện kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp, Bộ Tài chính, Bộ Nông nghiệp và phát triển nông thôn để giải quyết theo thẩm quyền.
 
-**ID:** dk_00059977
+Điều 35.10.TL.3.9. Trách nhiệm thực hiện
 
----
+(Điều 9 Thông tư liên tịch số 01/2018/TTLT-VKSTC-TATC-BCA-BQP-BTP-BTC-BNN&PTNT, có hiệu lực thi hành kể từ ngày 20/05/2018)
 
+Viện kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp, Bộ Tài chính, Bộ Nông nghiệp và phát triển nông thôn có trách nhiệm triển khai, hướng dẫn, đôn đốc, kiểm tra việc thực hiện Thông tư liên tịch này trong bộ, ngành mình.
 
-### Điều 35.10.TT.1.31. Trách nhiệm thi hành
+Trường hợp bộ, ngành nào có nhiều cơ quan, đơn vị cùng có thẩm quyền giải quyết khiếu nại, tố cáo trong hoạt động tư pháp ở mỗi cấp, phải giao một cơ quan, đơn vị chủ trì làm đầu mối chung và thông báo cho Viện kiểm sát cùng cấp biết.
 
-*Nội dung chưa có sẵn*
+Điều 35.10.TL.4.18. Hiệu lực thi hành
 
-**Chỉ mục:** 31
+(Điều 18 Thông tư liên tịch số 05/2018/TTLT-VKSNDTC- TANDTC-BCA-BQP, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 3501000000000000600010080255930113500310
+1. Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019.
 
-**ID:** dk_00059978
+Thông tư liên tịch này thay thế Thông tư liên tịch số 01/2005/TTLT-VKSTC-TATC-BCA-BQP ngày 01/7/2005 của Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh án Tòa án nhân dân tối cao, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng về *“Hướng dẫn thi hành một số quy định của pháp luật trong công tác thống kê hình sự, thống kê tội phạm”.*
 
----
+2. Trong quá trình thực hiện Thông tư liên tịch này, nếu có vướng mắc hoặc phát sinh vấn đề mới, cần phản ánh kịp thời đến Viện kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng để được giải thích hoặc xem xét sửa đổi, bổ sung./.
 
+## Danh sách điều khoản
 
-### Điều 35.10.TT.2.13. Tổ chức thực hiện
+### 35010000000000001000
 
-*Nội dung chưa có sẵn*
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-**Chỉ mục:** 13
+### 3501000000000000100000100000000000000000
 
-**Mã phân cấp:** 3501000000000000600010080256860001960130
+Điều 35.10.LQ.1. Phạm vi điều chỉnh
 
-**ID:** dk_00059979
+### 3501000000000000100000120254550924000010
 
----
+Điều 35.10.NQ.3.1. Phạm vi điều chỉnh
 
+### 3501000000000000100000180220540001000010
 
-### Điều 35.10.TT.2.16. Hiệu lực thi hành
+Điều 35.10.TL.1.1. Đối tượng, phạm vi, nguyên tắc áp dụng
 
-*Nội dung chưa có sẵn*
+### 3501000000000000100000180248160001000010
 
-**Chỉ mục:** 16
+Điều 35.10.TL.2.1. Đối tượng áp dụng
 
-**Mã phân cấp:** 3501000000000000600010080256860001960160
+### 3501000000000000100000180265130001960010
 
-**ID:** dk_00059980
+Điều 35.10.TL.3.1. Phạm vi điều chỉnh
 
----
+### 3501000000000000100000180265130001960020
 
+Điều 35.10.TL.3.2. Đối tượng áp dụng
 
-### Điều 35.10.TL.3.8. Hiệu lực thi hành
+### 3501000000000000100000180265130001960030
 
-*Nội dung chưa có sẵn*
+Điều 35.10.TL.3.3. Giải thích từ ngữ
 
-**Chỉ mục:** 8
+### 3501000000000000100000180267340005000010
 
-**Mã phân cấp:** 3501000000000000600010080265130001960080
+Điều 35.10.TL.4.1. Phạm vi điều chỉnh
 
-**ID:** dk_00059981
+### 3501000000000000100000180267340005000020
 
----
+Điều 35.10.TL.4.2. Đối tượng áp dụng
 
+### 3501000000000000100000180346919200995000
 
-### Điều 35.10.TL.3.9. Trách nhiệm thực hiện
+Điều 35.10.TT.1.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 3501000000000000100000180445184604990000
 
-**Chỉ mục:** 9
+Điều 35.10.TT.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 3501000000000000600010080265130001960090
+### 3501000000000000100000180640732758940000
 
-**ID:** dk_00059982
+Điều 35.10.TT.2.1. Phạm vi, đối tượng điều chỉnh
 
----
+### 3501000000000000100000200000000000000000
 
+Điều 35.10.LQ.2. Chức năng, nhiệm vụ của Viện kiểm sát nhân dân
 
-### Điều 35.10.TL.4.18. Hiệu lực thi hành
+### 3501000000000000100000300000000000000000
 
-*Nội dung chưa có sẵn*
+Điều 35.10.LQ.3. Chức năng thực hành quyền công tố của Viện kiểm sát nhân dân
 
-**Chỉ mục:** 18
+### 3501000000000000100000400000000000000000
 
-**Mã phân cấp:** 3501000000000000600010080267340005000180
+Điều 35.10.LQ.4. Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân
 
-**ID:** dk_00059983
+### 3501000000000000100000500000000000000000
 
----
+Điều 35.10.LQ.5. Kháng nghị, kiến nghị của Viện kiểm sát nhân dân
 
+### 3501000000000000100000600000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Tổ chức bộ máy nhà nước](/to-chuc-bo-may-nha-nuoc/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 35.10.LQ.6. Các công tác của Viện kiểm sát nhân dân
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 230
-- **Điều khoản thực tế:** 210
-- **Điều khoản có nội dung:** 128 (61.0%)
-- **ID đề mục:** 7d0dfc81bcee443792369066a6f45d3f
+### 3501000000000000100000700000000000000000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 35.10.LQ.7. Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân
 
----
+### 3501000000000000100000700500000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 35.10.TT.1.3. Nguyên tắc thực hiện
+
+### 3501000000000000100000800000000000000000
+
+Điều 35.10.LQ.8. Trách nhiệm phối hợp của Viện kiểm sát nhân dân
+
+### 3501000000000000100000900000000000000000
+
+Điều 35.10.LQ.9. Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động của Viện kiểm sát nhân dân
+
+### 3501000000000000100001000000000000000000
+
+Điều 35.10.LQ.10. Giám sát hoạt động của Viện kiểm sát nhân dân
+
+### 3501000000000000100001100000000000000000
+
+Điều 35.10.LQ.11. Ngày truyền thống, phù hiệu của Viện kiểm sát nhân dân
+
+### 35010000000000002000
+
+Chương II CÁC CÔNG TÁC THỰC HIỆN CHỨC NĂNG, NHIỆM VỤ CỦA VIỆN KIỂM SÁT NHÂN DÂN
+
+### 3501000000000000200000010000000000000000
+
+Mục 1 THỰC HÀNH QUYỀN CÔNG TỐ, KIỂM SÁT VIỆC TIẾP NHẬN, GIẢI QUYẾT TỐ GIÁC, TIN BÁO VỀ TỘI PHẠM VÀ KIẾN NGHỊ KHỞI TỐ
+
+### 350100000000000020000001000000000000000001200000000000000000
+
+Điều 35.10.LQ.12. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố
+
+### 350100000000000020000001000000000000000001300000000000000000
+
+Điều 35.10.LQ.13. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố
+
+### 3501000000000000200000020000000000000000
+
+Mục 2 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT ĐIỀU TRA VỤ ÁN HÌNH SỰ
+
+### 350100000000000020000002000000000000000001400000000000000000
+
+Điều 35.10.LQ.14. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự
+
+### 350100000000000020000002000000000000000001500000000000000000
+
+Điều 35.10.LQ.15. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát điều tra vụ án hình sự
+
+### 3501000000000000200000030000000000000000
+
+Mục 3 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯ PHÁP TRONG GIAI ĐOẠN TRUY TỐ
+
+### 350100000000000020000003000000000000000001600000000000000000
+
+Điều 35.10.LQ.16. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn truy tố
+
+### 350100000000000020000003000000000000000001700000000000000000
+
+Điều 35.10.LQ.17. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tư pháp trong giai đoạn truy tố
+
+### 3501000000000000200000040000000000000000
+
+Mục 4 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT XÉT XỬ VỤ ÁN HÌNH SỰ
+
+### 350100000000000020000004000000000000000001800000000000000000
+
+Điều 35.10.LQ.18. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự
+
+### 350100000000000020000004000000000000000001900000000000000000
+
+Điều 35.10.LQ.19. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát xét xử vụ án hình sự
+
+### 3501000000000000200000050000000000000000
+
+Mục 5 CÔNG TÁC ĐIỀU TRA CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN
+
+### 350100000000000020000005000000000000000002000000000000000000
+
+Điều 35.10.LQ.20. Thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương
+
+### 350100000000000020000005000000000000000002100000000000000000
+
+Điều 35.10.LQ.21. Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương
+
+### 3501000000000000200000060000000000000000
+
+Mục 6 KIỂM SÁT VIỆC TẠM GIỮ, TẠM GIAM, THI HÀNH ÁN HÌNH SỰ
+
+### 350100000000000020000006000000000000000002200000000000000000
+
+Điều 35.10.LQ.22. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tạm giữ, tạm giam
+
+### 350100000000000020000006000000000000000002300000000000000000
+
+Điều 35.10.LQ.23. Giải quyết khiếu nại, tố cáo trong hoạt động tạm giữ, tạm giam
+
+### 350100000000000020000006000000000000000002400000000000000000
+
+Điều 35.10.LQ.24. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam
+
+### 350100000000000020000006000000000000000002500000000000000000
+
+Điều 35.10.LQ.25. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc thi hành án hình sự
+
+### 350100000000000020000006000000000000000002600000000000000000
+
+Điều 35.10.LQ.26. Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc thi hành án hình sự
+
+### 3501000000000000200000070000000000000000
+
+Mục 7 KIỂM SÁT VIỆC GIẢI QUYẾT VỤ ÁN HÀNH CHÍNH, VỤ VIỆC DÂN SỰ, HÔN NHÂN VÀ GIA ĐÌNH, KINH DOANH, THƯƠNG MẠI, LAO ĐỘNG VÀ NHỮNG VIỆC KHÁC THEO QUY ĐỊNH CỦA PHÁP LUẬT; KIỂM SÁT THI HÀNH ÁN DÂN SỰ, THI HÀNH ÁN HÀNH CHÍNH
+
+### 350100000000000020000007000000000000000002700000000000000000
+
+Điều 35.10.LQ.27. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật
+
+### 350100000000000020000007000000000000000002800000000000000000
+
+Điều 35.10.LQ.28. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát thi hành án dân sự, thi hành án hành chính
+
+### 3501000000000000200000080000000000000000
+
+Mục 8 GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VÀ KIỂM SÁT VIỆC GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO TRONG HOẠT ĐỘNG TƯ PHÁP
+
+### 350100000000000020000008000000000000000002900000000000000000
+
+Điều 35.10.LQ.29. Giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền của Viện kiểm sát nhân dân
+
+### 350100000000000020000008000000000000000003000000000000000000
+
+Điều 35.10.LQ.30. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp
+
+### 350100000000000020000008000000000000000003100000000000000000
+
+Điều 35.10.LQ.31. Trách nhiệm báo cáo công tác giải quyết khiếu nại, tố cáo về hoạt động tư pháp của Viện kiểm sát nhân dân tối cao
+
+### 35010000000000002000000800000000000000000310000000000000000000802651300019600400
+
+Điều 35.10.TL.3.4. Nguyên tắc thực hiện việc xây dựng và gửi báo cáo, thông báo
+
+### 35010000000000002000000800000000000000000310000000000000000000802651300019600500
+
+Điều 35.10.TL.3.5. Thời điểm, nội dung báo cáo, thông báo
+
+### 35010000000000002000000800000000000000000310000000000000000000802651300019600600
+
+Điều 35.10.TL.3.6. Thời hạn gửi báo cáo, thông báo
+
+### 35010000000000002000000800000000000000000310000000000000000000802651300019600700
+
+Điều 35.10.TL.3.7. Thẩm quyền ký văn bản báo cáo, thông báo
+
+### 3501000000000000200000090000000000000000
+
+Mục 9 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯƠNG TRỢ TƯ PHÁP
+
+### 350100000000000020000009000000000000000003200000000000000000
+
+Điều 35.10.LQ.32. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự
+
+### 350100000000000020000009000000000000000003300000000000000000
+
+Điều 35.10.LQ.33. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tương trợ tư pháp
+
+### 3501000000000000200000100000000000000000
+
+Mục 10 THỐNG KÊ TỘI PHẠM VÀ CÁC CÔNG TÁC KHÁC
+
+### 350100000000000020000010000000000000000003400000000000000000
+
+Điều 35.10.LQ.34. Công tác thống kê tội phạm
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000300
+
+Điều 35.10.TL.4.3. Nguyên tắc cơ bản của hoạt động thống kê hình sự liên ngành và sử dụng dữ liệu thông tin thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000400
+
+Điều 35.10.TL.4.4. Nội dung, danh mục chỉ tiêu thống kê, biểu mẫu, giải thích biểu mẫu thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000500
+
+Điều 35.10.TL.4.5. Nguồn tài liệu phục vụ thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000600
+
+Điều 35.10.TL.4.6. Kỳ thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000700
+
+Điều 35.10.TL.4.7. Kinh phí hoạt động thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000800
+
+Điều 35.10.TL.4.8. Lưu trữ báo cáo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050000900
+
+Điều 35.10.TL.4.9. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001000
+
+Điều 35.10.TL.4.10. Trách nhiệm, thời hạn lập, đối chiếu và gửi báo cáo thống kê hình sự liên ngành của các đơn vị trong Quân đội nhân dân
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001100
+
+Điều 35.10.TL.4.11. Phương thức gửi báo cáo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001200
+
+Điều 35.10.TL.4.12. Hiệu chỉnh số liệu trong báo cáo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001300
+
+Điều 35.10.TL.4.13. Cung cấp số liệu thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001400
+
+Điều 35.10.TL.4.14. Ban Chỉ đạo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001500
+
+Điều 35.10.TL.4.15. Nhiệm vụ, quyền hạn của Ban Chỉ đạo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001600
+
+Điều 35.10.TL.4.16. Tổ giúp việc Ban Chỉ đạo thống kê hình sự liên ngành
+
+### 35010000000000002000001000000000000000000340000000000000000000802673400050001700
+
+Điều 35.10.TL.4.17. Tổ chức thực hiện thống kê hình sự liên ngành
+
+### 350100000000000020000010000000000000000003500000000000000000
+
+Điều 35.10.LQ.35. Công tác nghiên cứu khoa học
+
+### 350100000000000020000010000000000000000003600000000000000000
+
+Điều 35.10.LQ.36. Công tác xây dựng pháp luật
+
+### 350100000000000020000010000000000000000003700000000000000000
+
+Điều 35.10.LQ.37. Công tác đào tạo, bồi dưỡng
+
+### 350100000000000020000010000000000000000003800000000000000000
+
+Điều 35.10.LQ.38. Hợp tác quốc tế
+
+### 350100000000000020000010000000000000000003900000000000000000
+
+Điều 35.10.LQ.39. Công tác phổ biến, giáo dục pháp luật
+
+### 35010000000000003000
+
+Chương III TỔ CHỨC CỦA VIỆN KIỂM SÁT NHÂN DÂN
+
+### 3501000000000000300004000000000000000000
+
+Điều 35.10.LQ.40. Hệ thống Viện kiểm sát nhân dân
+
+### 3501000000000000300004100000000000000000
+
+Điều 35.10.LQ.41. Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân các cấp
+
+### 3501000000000000300004200000000000000000
+
+Điều 35.10.LQ.42. Cơ cấu tổ chức của Viện kiểm sát nhân dân tối cao
+
+### 3501000000000000300004300000000000000000
+
+Điều 35.10.LQ.43. Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao
+
+### 3501000000000000300004400000000000000000
+
+Điều 35.10.LQ.44. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp cao
+
+### 3501000000000000300004500000000000000000
+
+Điều 35.10.LQ.45. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao
+
+### 3501000000000000300004600000000000000000
+
+Điều 35.10.LQ.46. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp tỉnh
+
+### 3501000000000000300004700000000000000000
+
+Điều 35.10.LQ.47. Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh
+
+### 3501000000000000300004800000000000000000
+
+Điều 35.10.LQ.48. Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp huyện
+
+### 3501000000000000300004900000000000000000
+
+Điều 35.10.LQ.49. Thành lập, giải thể Viện kiểm sát nhân dân
+
+### 3501000000000000300005000000000000000000
+
+Điều 35.10.LQ.50. Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự
+
+### 3501000000000000300005100000000000000000
+
+Điều 35.10.LQ.51. Hệ thống Viện kiểm sát quân sự
+
+### 3501000000000000300005200000000000000000
+
+Điều 35.10.LQ.52. Cơ cấu tổ chức của Viện kiểm sát quân sự trung ương
+
+### 350100000000000030000520000000000000000000802559301135001600
+
+Điều 35.10.TT.1.16. Cán bộ chủ trì phòng, ban và tương đương thuộc Viện kiểm sát quân sự các cấp
+
+### 3501000000000000300005300000000000000000
+
+Điều 35.10.LQ.53. Ủy ban kiểm sát Viện kiểm sát quân sự trung ương
+
+### 3501000000000000300005400000000000000000
+
+Điều 35.10.LQ.54. Cơ cấu tổ chức của Viện kiểm sát quân sự quân khu và tương đương
+
+### 3501000000000000300005500000000000000000
+
+Điều 35.10.LQ.55. Ủy ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương
+
+### 3501000000000000300005600000000000000000
+
+Điều 35.10.LQ.56. Cơ cấu tổ chức của Viện kiểm sát quân sự khu vực
+
+### 3501000000000000300005700000000000000000
+
+Điều 35.10.LQ.57. Thành lập, giải thể Viện kiểm sát quân sự
+
+### 35010000000000004000
+
+Chương IV CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG KHÁC CỦA VIỆN KIỂM SÁT NHÂN DÂN
+
+### 3501000000000000400000010000000000000000
+
+Mục 1 NHỮNG QUY ĐỊNH CHUNG
+
+### 350100000000000040000001000000000000000005800000000000000000
+
+Điều 35.10.LQ.58. Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
+
+### 350100000000000040000001000000000000000005900000000000000000
+
+Điều 35.10.LQ.59. Trách nhiệm của cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
+
+### 35010000000000004000000100000000000000000590000000000000000000802559301135000400
+
+Điều 35.10.TT.1.4. Nghĩa vụ của cán bộ Viện kiểm sát quân sự
+
+### 35010000000000004000000100000000000000000590000000000000000000802559301135000500
+
+Điều 35.10.TT.1.5. Quyền lợi của cán bộ Viện kiểm sát quân sự
+
+### 350100000000000040000001000000000000000006000000000000000000
+
+Điều 35.10.LQ.60. Điều động, luân chuyển, biệt phái công chức, viên chức của Viện kiểm sát nhân dân
+
+### 35010000000000004000000100000000000000000600000000000000000000802559301135001400
+
+Điều 35.10.TT.1.14. Bổ nhiệm, miễn nhiệm, cách chức, điều động cán bộ Viện kiểm sát quân sự
+
+### 350100000000000040000001000000000000000006100000000000000000
+
+Điều 35.10.LQ.61. Quản lý công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân
+
+### 3501000000000000400000020000000000000000
+
+Mục 2 VIỆN TRƯỞNG, PHÓ VIỆN TRƯỞNG VIỆN KIỂM SÁT NHÂN DÂN CÁC CẤP
+
+### 350100000000000040000002000000000000000006200000000000000000
+
+Điều 35.10.LQ.62. Viện trưởng Viện kiểm sát nhân dân tối cao
+
+### 350100000000000040000002000000000000000006300000000000000000
+
+Điều 35.10.LQ.63. Nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát nhân dân tối cao
+
+### 350100000000000040000002000000000000000006400000000000000000
+
+Điều 35.10.LQ.64. Phó Viện trưởng Viện kiểm sát nhân dân tối cao
+
+### 350100000000000040000002000000000000000006500000000000000000
+
+Điều 35.10.LQ.65. Viện trưởng Viện kiểm sát nhân dân cấp cao
+
+### 350100000000000040000002000000000000000006600000000000000000
+
+Điều 35.10.LQ.66. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh
+
+### 350100000000000040000002000000000000000006700000000000000000
+
+Điều 35.10.LQ.67. Viện trưởng Viện kiểm sát nhân dân cấp huyện
+
+### 350100000000000040000002000000000000000006800000000000000000
+
+Điều 35.10.LQ.68. Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện
+
+### 350100000000000040000002000000000000000006900000000000000000
+
+Điều 35.10.LQ.69. Viện trưởng Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000200000000000000000690000000000000000000802559301135001500
+
+Điều 35.10.TT.1.15. Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp
+
+### 350100000000000040000002000000000000000007000000000000000000
+
+Điều 35.10.LQ.70. Viện trưởng Viện kiểm sát quân sự quân khu và tương đương
+
+### 350100000000000040000002000000000000000007100000000000000000
+
+Điều 35.10.LQ.71. Viện trưởng Viện kiểm sát quân sự khu vực
+
+### 350100000000000040000002000000000000000007200000000000000000
+
+Điều 35.10.LQ.72. Phó Viện trưởng Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực
+
+### 350100000000000040000002000000000000000007300000000000000000
+
+Điều 35.10.LQ.73. Trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố, kiểm sát hoạt động tư pháp
+
+### 3501000000000000400000030000000000000000
+
+Mục 3 KIỂM SÁT VIÊN, KIỂM TRA VIÊN CỦA VIỆN KIỂM SÁT NHÂN DÂN
+
+### 350100000000000040000003000000000000000007400000000000000000
+
+Điều 35.10.LQ.74. Kiểm sát viên
+
+### 350100000000000040000003000000000000000007500000000000000000
+
+Điều 35.10.LQ.75. Tiêu chuẩn chung của Kiểm sát viên
+
+### 35010000000000004000000300000000000000000750000000000000000000802559301135000600
+
+Điều 35.10.TT.1.6. Nguồn tuyển chọn
+
+### 35010000000000004000000300000000000000000750000000000000000000802559301135000700
+
+Điều 35.10.TT.1.7. Tiêu chuẩn tuyển chọn
+
+### 35010000000000004000000300000000000000000750000000000000000000802559301135000800
+
+Điều 35.10.TT.1.8. Quy trình tuyển chọn
+
+### 350100000000000040000003000000000000000007600000000000000000
+
+Điều 35.10.LQ.76. Ngạch Kiểm sát viên
+
+### 350100000000000040000003000000000000000007700000000000000000
+
+Điều 35.10.LQ.77. Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp
+
+### 35010000000000004000000300000000000000000770000000000000000000802559301135001700
+
+Điều 35.10.TT.1.17. Kiểm sát viên sơ cấp
+
+### 350100000000000040000003000000000000000007800000000000000000
+
+Điều 35.10.LQ.78. Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp
+
+### 35010000000000004000000300000000000000000780000000000000000000802559301135001800
+
+Điều 35.10.TT.1.18. Kiểm sát viên trung cấp
+
+### 350100000000000040000003000000000000000007900000000000000000
+
+Điều 35.10.LQ.79. Tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp
+
+### 35010000000000004000000300000000000000000790000000000000000000802559301135001900
+
+Điều 35.10.TT.1.19. Kiểm sát viên cao cấp
+
+### 350100000000000040000003000000000000000008000000000000000000
+
+Điều 35.10.LQ.80. Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao
+
+### 35010000000000004000000300000000000000000800000000000000000000802559301135002000
+
+Điều 35.10.TT.1.20. Kiểm sát viên Viện kiểm sát nhân dân tối cao
+
+### 350100000000000040000003000000000000000008100000000000000000
+
+Điều 35.10.LQ.81. Bổ nhiệm Kiểm sát viên trong trường hợp đặc biệt
+
+### 350100000000000040000003000000000000000008200000000000000000
+
+Điều 35.10.LQ.82. Nhiệm kỳ Kiểm sát viên
+
+### 350100000000000040000003000000000000000008300000000000000000
+
+Điều 35.10.LQ.83. Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm sát viên
+
+### 350100000000000040000003000000000000000008400000000000000000
+
+Điều 35.10.LQ.84. Những việc Kiểm sát viên không được làm
+
+### 350100000000000040000003000000000000000008500000000000000000
+
+Điều 35.10.LQ.85. Tuyên thệ của Kiểm sát viên
+
+### 350100000000000040000003000000000000000008600000000000000000
+
+Điều 35.10.LQ.86. Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao
+
+### 350100000000000040000003000000000000000008700000000000000000
+
+Điều 35.10.LQ.87. Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp
+
+### 350100000000000040000003000000000000000008800000000000000000
+
+Điều 35.10.LQ.88. Miễn nhiệm Kiểm sát viên
+
+### 350100000000000040000003000000000000000008900000000000000000
+
+Điều 35.10.LQ.89. Cách chức Kiểm sát viên
+
+### 350100000000000040000003000000000000000009000000000000000000
+
+Điều 35.10.LQ.90. Kiểm tra viên
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000200
+
+Điều 35.10.NQ.3.2. Tiêu chuẩn chung của Kiểm tra viên
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000300
+
+Điều 35.10.NQ.3.3. Tiêu chuẩn bổ nhiệm Kiểm tra viên
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000400
+
+Điều 35.10.NQ.3.4. Tiêu chuẩn bổ nhiệm Kiểm tra viên chính
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000500
+
+Điều 35.10.NQ.3.5. Tiêu chuẩn bổ nhiệm Kiểm tra viên cao cấp
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000600
+
+Điều 35.10.NQ.3.6. Hội đồng tuyển chọn, xét thi tuyển nâng ngạch Kiểm tra viên
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000700
+
+Điều 35.10.NQ.3.7. Hội đồng thi tuyển Kiểm tra viên chính, Kiểm tra viên cao cấp
+
+### 35010000000000004000000300000000000000000900000000000000000000202545509240000800
+
+Điều 35.10.NQ.3.8. Miễn nhiệm, cách chức Kiểm tra viên
+
+### 35010000000000004000000300000000000000000900000000000000000000302545509240000800
+
+Điều 35.10.TT.1.21. Kiểm tra viên các ngạch
+
+### 3501000000000000400000040000000000000000
+
+Mục 4 THỦ TRƯỞNG, PHÓ THỦ TRƯỞNG, ĐIỀU TRA VIÊN VÀ CÁC CHỨC DANH KHÁC CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO, VIỆN KIỂM SÁT QUÂN SỰ TRUNG ƯƠNG
+
+### 350100000000000040000004000000000000000009100000000000000000
+
+Điều 35.10.LQ.91. Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000910000000000000000000802559301135002200
+
+Điều 35.10.TT.1.22. Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương
+
+### 350100000000000040000004000000000000000009200000000000000000
+
+Điều 35.10.LQ.92. Điều tra viên và các chức danh khác của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002300
+
+Điều 35.10.TT.1.23. Điều tra viên các ngạch của Cơ quan điều tra Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002400
+
+Điều 35.10.TT.1.24. Chuyên viên nghiên cứu Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002500
+
+Điều 35.10.TT.1.25. Trợ lý kế hoạch tổng hợp Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002600
+
+Điều 35.10.TT.1.26. Trợ lý thống kê hình sự, thống kê tội phạm Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002700
+
+Điều 35.10.TT.1.27. Trợ lý công nghệ thông tin Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002800
+
+Điều 35.10.TT.1.28. Trợ lý nhân sự, Trợ lý đào tạo kiêm quản lý hồ sơ cán bộ Viện kiểm sát quân sự trung ương
+
+### 35010000000000004000000400000000000000000920000000000000000000802559301135002900
+
+Điều 35.10.TT.1.29. Trợ lý chính trị Viện kiểm sát quân sự trung ương
+
+### 35010000000000005000
+
+Chương V BẢO ĐẢM HOẠT ĐỘNG CỦA VIỆN KIỂM SÁT NHÂN DÂN
+
+### 3501000000000000500009300000000000000000
+
+Điều 35.10.LQ.93. Tổng biên chế, số lượng, cơ cấu tỷ lệ ngạch Kiểm sát viên, Điều tra viên của Viện kiểm sát nhân dân
+
+### 3501000000000000500009400000000000000000
+
+Điều 35.10.LQ.94. Kinh phí và cơ sở vật chất
+
+### 3501000000000000500009500000000000000000
+
+Điều 35.10.LQ.95. Chế độ tiền lương
+
+### 3501000000000000500009600000000000000000
+
+Điều 35.10.LQ.96. Chế độ phụ cấp
+
+### 350100000000000050000960000000000000000000502183401380000100
+
+Điều 35.10.QĐ.1.1.
+
+### 35010000000000005000096000000000000000000050218340138000010000802205400015500200
+
+Điều 35.10.TL.1.2. Mức phụ cấp trách nhiệm và cách tính
+
+### 35010000000000005000096000000000000000000050218340138000010000802205400015500300
+
+Điều 35.10.TL.1.3. Nguồn kinh phí và cách chi trả
+
+### 350100000000000050000960000000000000000000502183401380000200
+
+Điều 35.10.QĐ.1.2.
+
+### 3501000000000000500009700000000000000000
+
+Điều 35.10.LQ.97. Trang phục, giấy chứng minh Kiểm sát viên, giấy chứng nhận Điều tra viên, Kiểm tra viên
+
+### 350100000000000050000970000000000000000000202445505220000100
+
+Điều 35.10.NQ.1.1.
+
+### 35010000000000005000097000000000000000000020244550522000010000802481600015500200
+
+Điều 35.10.TL.2.2. Tiêu chuẩn, niên hạn sử dụng trang phục
+
+### 35010000000000005000097000000000000000000020244550522000010000802481600015500300
+
+Điều 35.10.TL.2.3. Nguyên tắc cấp phát, sử dụng trang phục
+
+### 35010000000000005000097000000000000000000020244550522000010000802481600015500400
+
+Điều 35.10.TL.2.4. Lập dự toán, quản lý và quyết toán kinh phí may sắm trang phục và Giấy chứng minh Kiểm sát viên
+
+### 35010000000000005000097000000000000000000020244550522000010000802568600019600200
+
+Điều 35.10.TT.2.2. Nguyên tắc
+
+### 35010000000000005000097000000000000000000020244550522000010000802568600019600300
+
+Điều 35.10.TT.2.3. Trang phục
+
+### 350100000000000050000970000000000000000000202445505220000400
+
+Điều 35.10.NQ.1.4.
+
+### 350100000000000050000970000000000000000000202445505220000500
+
+Điều 35.10.NQ.1.5.
+
+### 350100000000000050000970000000000000000000202445505220000700
+
+Điều 35.10.NQ.1.7.
+
+### 35010000000000005000097000000000000000000020244550522000070000802568600019600400
+
+Điều 35.10.TT.2.4. Giấy chứng minh Kiểm sát viên
+
+### 35010000000000005000097000000000000000000020244550522000070000802568600019600500
+
+Điều 35.10.TT.2.5. Giấy chứng nhận Điều tra viên
+
+### 35010000000000005000097000000000000000000020244550522000070000802568600019600600
+
+Điều 35.10.TT.2.6. Giấy chứng nhận Kiểm tra viên
+
+### 350100000000000050000970000000000000000000202445505220000800
+
+Điều 35.10.NQ.1.8.
+
+### 35010000000000005000097000000000000000000020244550522000080000802568600019600800
+
+Điều 35.10.TT.2.8. Sử dụng trang phục thường dùng
+
+### 35010000000000005000097000000000000000000020244550522000080000802568600019600900
+
+Điều 35.10.TT.2.9. Sử dụng lễ phục
+
+### 35010000000000005000097000000000000000000020244550522000080000802568600019601000
+
+Điều 35.10.TT.2.10. Đội mũ kêpi
+
+### 35010000000000005000097000000000000000000020244550522000080000802568600019601100
+
+Điều 35.10.TT.2.11. Những trường hợp không phải sử dụng trang phục
+
+### 35010000000000005000097000000000000000000020244550522000080000802568600019601200
+
+Điều 35.10.TT.2.12. Sử dụng Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên
+
+### 350100000000000050000970000000000000000000202445505220000900
+
+Điều 35.10.NQ.1.9.
+
+### 35010000000000005000097000000000000000000020244550522000090000802568600019600700
+
+Điều 35.10.TT.2.7. Cấp, đổi, thu hồi trang phục, Giấy chứng minh Kiểm sát viên, Giấy chứng nhận Điều tra viên, Giấy chứng nhận Kiểm tra viên
+
+### 350100000000000050000970000000000000000000202445505220001000
+
+Điều 35.10.NQ.1.10.
+
+### 35010000000000005000097000000000000000000020244550522000100000802568600019601400
+
+Điều 35.10.TT.2.14. Kiểm tra, thanh tra
+
+### 35010000000000005000097000000000000000000020244550522000100000802568600019601500
+
+Điều 35.10.TT.2.15. Xử lý vi phạm
+
+### 3501000000000000500009800000000000000000
+
+Điều 35.10.LQ.98. Chế độ đào tạo, bồi dưỡng
+
+### 350100000000000050000980000000000000000000802559301135000900
+
+Điều 35.10.TT.1.9. Đào tạo đại học hệ chính quy
+
+### 350100000000000050000980000000000000000000802559301135001000
+
+Điều 35.10.TT.1.10. Đào tạo sau đại học
+
+### 350100000000000050000980000000000000000000802559301135001100
+
+Điều 35.10.TT.1.11. Đào tạo, bồi dưỡng về chính trị, quân sự
+
+### 350100000000000050000980000000000000000000802559301135001200
+
+Điều 35.10.TT.1.12. Đào tạo, bồi dưỡng nghiệp vụ kiểm sát nghiệp vụ điều tra
+
+### 350100000000000050000980000000000000000000802559301135001300
+
+Điều 35.10.TT.1.13. Bồi dưỡng một số kiến thức khác
+
+### 3501000000000000500009900000000000000000
+
+Điều 35.10.LQ.99. Khen thưởng, xử lý vi phạm
+
+### 35010000000000006000
+
+Chương VI ĐIỀU KHOẢN THI HÀNH
+
+### 3501000000000000600010000000000000000000
+
+Điều 35.10.LQ.100. Hiệu lực thi hành
+
+### 3501000000000000600010010252850063001010
+
+Điều 35.10.LQ.101. Hướng dẫn thi hành
+
+### 3501000000000000600010010252850082000010
+
+Điều 35.10.NQ.2.1.
+
+### 3501000000000000600010010252850082000020
+
+Điều 35.10.NQ.2.2.
+
+### 3501000000000000600010010252850082000030
+
+Điều 35.10.NQ.2.3.
+
+### 3501000000000000600010020244550522000110
+
+Điều 35.10.NQ.1.11.
+
+### 3501000000000000600010020244550522000120
+
+Điều 35.10.NQ.1.12.
+
+### 3501000000000000600010020254550924000090
+
+Điều 35.10.NQ.3.9. Hiệu lực thi hành
+
+### 3501000000000000600010050218340138000030
+
+Điều 35.10.QĐ.1.3.
+
+### 3501000000000000600010050218340138000040
+
+Điều 35.10.QĐ.1.4.
+
+### 3501000000000000600010050218340138000050
+
+Điều 35.10.QĐ.1.5.
+
+### 3501000000000000600010080220540001550040
+
+Điều 35.10.TL.1.4. Tổ chức thực hiện
+
+### 3501000000000000600010080248160001550050
+
+Điều 35.10.TL.2.5. Tổ chức thực hiện
+
+### 3501000000000000600010080255930113500300
+
+Điều 35.10.TT.1.30. Hiệu lực thi hành
+
+### 3501000000000000600010080255930113500310
+
+Điều 35.10.TT.1.31. Trách nhiệm thi hành
+
+### 3501000000000000600010080256860001960130
+
+Điều 35.10.TT.2.13. Tổ chức thực hiện
+
+### 3501000000000000600010080256860001960160
+
+Điều 35.10.TT.2.16. Hiệu lực thi hành
+
+### 3501000000000000600010080265130001960080
+
+Điều 35.10.TL.3.8. Hiệu lực thi hành
+
+### 3501000000000000600010080265130001960090
+
+Điều 35.10.TL.3.9. Trách nhiệm thực hiện
+
+### 3501000000000000600010080267340005000180
+
+Điều 35.10.TL.4.18. Hiệu lực thi hành
+

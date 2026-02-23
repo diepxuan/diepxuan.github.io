@@ -1,4872 +1,8257 @@
 ---
-layout: default
+layout: page
 title: Hợp tác xã
 permalink: /van-ban/doanh-nghiep-hop-tac-xa/hop-tac-xa/
-collection: subtopics
-slug: hop-tac-xa
-parent: doanh-nghiep-hop-tac-xa
 ---
 
 # Hợp tác xã
 
-**Đề mục:** Hợp tác xã  
-**Chủ đề:** [Doanh nghiệp, hợp tác xã](/doanh-nghiep-hop-tac-xa/)  
-**Số điều khoản:** 384  
-**Điều khoản có nội dung:** 242/372 (65.1%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 12.4.LQ.1. Phạm vi điều chỉnh
+Điều 12.4.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 17/2023/QH15 Luật Hợp tác xã ngày 20/06/2023 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2024 )
 
-**Chỉ mục:** 1
+Luật này quy định về thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; chính sách của Nhà nước về phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-**Mã phân cấp:** 1200400000000000100000100000000000000000
+Điều 12.4.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00013272
+(Điều 2 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+1. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
+2. Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.LQ.2. Đối tượng áp dụng
+3. Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.1.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Nghị định số 77/2019/NĐ-CP Về tổ hợp tác ngày 10/10/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 25/11/2019 )
 
-**Mã phân cấp:** 1200400000000000100000200000000000000000
+Nghị định này quy định về thành lập, tổ chức, hoạt động và chấm dứt hoạt động của tổ hợp tác.
 
-**ID:** dk_00013273
+Điều 12.4.NĐ.1.2. Đối tượng áp dụng
 
----
+(Điều 2 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
+Nghị định này áp dụng đối với:
 
-### Điều 12.4.NĐ.1.1. Phạm vi điều chỉnh
+1. Các tổ hợp tác, thành viên tổ hợp tác;
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1200400000000000100000240270660077000010
-
-**ID:** dk_00013274
-
----
-
-
-### Điều 12.4.NĐ.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1200400000000000100000240270660077000020
-
-**ID:** dk_00013275
-
----
-
-
-### Điều 12.4.NĐ.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
+2. Cơ quan nhà nước có thẩm quyền, tổ chức, cá nhân có liên quan.
 
 Điều 12.4.NĐ.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 45/2021/NĐ-CP Về việc thành lập, tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã ngày 31/03/2021 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/05/2021 )
 
-**Mã phân cấp:** 1200400000000000100000240276040045000010
+1. Phạm vi điều chỉnh của Nghị định bao gồm:
 
-**ID:** dk_00013276
+a) Việc tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã được thành lập theo Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về thành lập Quỹ hỗ trợ phát triển hợp tác xã và Quyết định số 23/2017/QĐ-TTg ngày 22 tháng 6 năm 2017 của Thủ tướng Chính phủ về sửa đổi, bổ sung một số điều của Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về thành lập Quỹ Hỗ trợ phát triển hợp tác xã và ban hành Quy chế hoạt động bảo lãnh tín dụng và hỗ trợ lãi suất sau đầu tư của Quỹ hỗ trợ phát triển hợp tác xã (sau đây gọi tắt là Quỹ hợp tác xã trung ương);
 
----
+b) Việc thành lập, tổ chức và hoạt động của Quỹ Hỗ trợ phát triển hợp tác xã tại các tỉnh, thành phố trực thuộc trung ương (sau đây gọi tắt là Quỹ hợp tác xã địa phương).
 
+2. Đối tượng áp dụng:
 
-### Điều 12.4.NĐ.3.1. Phạm vi điều chỉnh
+a) Quỹ hợp tác xã trung ương và Quỹ hợp tác xã địa phương;
 
-*Nội dung chưa có sẵn*
+b) Hợp tác xã, liên hiệp hợp tác xã; thành viên của tổ hợp tác và hợp tác xã được Quỹ hợp tác xã cho vay theo quy định tại Nghị định này;
 
-**Chỉ mục:** 1
+c) Liên minh Hợp tác xã Việt Nam và Liên minh hợp tác xã các cấp; các tổ chức, cá nhân có liên quan trong quá trình thực hiện Nghị định này.
 
-**Mã phân cấp:** 1200400000000000100000240288090092000010
+Điều 12.4.NĐ.3.1. Phạm vi điều chỉnh
 
-**ID:** dk_00013277
+(Điều 1 Nghị định số 92/2024/NĐ-CP Về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã ngày 18/07/2024 của Chính phủ, có hiệu lực thi hành kể từ ngày 18/07/2024 )
 
----
+Nghị định này quy định về hồ sơ, trình tự, thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã; về cơ quan đăng ký kinh doanh; việc liên thông đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã; các nội dung khác liên quan đến việc đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
+Điều 12.4.NĐ.3.2. Đối tượng áp dụng
 
-### Điều 12.4.NĐ.3.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-*Nội dung chưa có sẵn*
+1. Tổ hợp tác thuộc đối tượng phải đăng ký kinh doanh, tổ hợp tác có nhu cầu đăng ký kinh doanh theo quy định tại khoản 2 Điều 107 Luật Hợp tác xã.
 
-**Chỉ mục:** 2
+2. Hợp tác xã, liên hiệp hợp tác xã.
 
-**Mã phân cấp:** 1200400000000000100000240288090092000020
-
-**ID:** dk_00013278
-
----
-
-
-### Điều 12.4.TT.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
+3. Cơ quan, tổ chức, cá nhân có liên quan đến việc đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.TT.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 83/2015/TT-BTC Hướng dẫn chế độ quản lý tài chính đối với hợp tác xã ngày 28/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 15/07/2015 )
 
-**Mã phân cấp:** 1200400000000000100000280254700083000010
+1. Thông tư này hướng dẫn chế độ quản lý tài chính áp dụng đối với hợp tác xã, liên hiệp hợp tác xã theo quy định tại Điều 2, Luật Hợp tác xã số 23/2012/QH13 ngày 20 tháng 11 năm 2012.
 
-**ID:** dk_00013279
+2. Căn cứ vào các quy định của Thông tư này, hợp tác xã, liên hiệp hợp tác xã xây dựng quy chế quản lý tài chính nội bộ phù hợp với đặc điểm, điều kiện hoạt động của hợp tác xã, liên hiệp hợp tác xã; thông qua đại hội thành viên, hợp tác xã thành viên để tổ chức thực hiện đầy đủ quy chế tài chính nội bộ, các quy định của pháp luật có liên quan, đảm bảo nguyên tắc tự nguyện, bình đẳng, công khai, dân chủ và đúng pháp luật.
 
----
+Điều 12.4.TT.2.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 09/2017/TT-BNNPTNT Hướng dẫn phân loại và đánh giá hợp tác xã hoạt động trong lĩnh vực nông nghiệp ngày 17/04/2017 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 31/05/2017 )
 
-### Điều 12.4.TT.2.1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn phân loại; tiêu chí, phương pháp và trình tự đánh giá; xếp loại hợp tác xã có hoạt động trong lĩnh vực nông nghiệp gồm: trồng trọt, chăn nuôi, lâm nghiệp, ngư nghiệp, diêm nghiệp và hoạt động dịch vụ nông nghiệp có liên quan (sau đây gọi chung là hợp tác xã nông nghiệp).
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.2.2. Đối tượngáp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
-**Mã phân cấp:** 1200400000000000100000280261600009000010
+1. Các hợp tác xã hoạt động theo Luật Hợp tác xã số 23/2012/QH13 do Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam ban hành ngày 25 tháng 11 năm 2012 trong lĩnh vực trồng trọt, chăn nuôi, lâm nghiệp, ngư nghiệp, diêm nghiệp và các dịch vụ có liên quan.
 
-**ID:** dk_00013280
+2. Các cơ quan và tổ chức có liên quan.
 
----
+Điều 12.4.TT.3.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 31/2018/TT-BTC Hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản ngày 30/03/2018 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 14/05/2018 )
 
-### Điều 12.4.TT.2.2. Đối tượngáp dụng
+Thông tư này hướng dẫn về việc xử lý tài sản (bao gồm cả thanh lý tài sản) hình thành từ nhiều nguồn vốn (vốn hỗ trợ, trợ cấp của nhà nước; từ quỹ đầu tư phát triển hàng năm; khoản được tặng, cho theo thỏa thuận là tài sản không chia; vốn tài sản khác được điều lệ quy định là tài sản không chia và vốn góp của các thành viên hợp tác xã) khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.3.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 31/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 14/05/2018)
 
-**Mã phân cấp:** 1200400000000000100000280261600009000020
+1. Hợp tác xã, liên hiệp hợp tác xã (sau đây viết tắt là HTX) được thành lập và hoạt động theo quy định của Luật Hợp tác xã.
 
-**ID:** dk_00013281
+2. Cơ quan, tổ chức, cá nhân có liên quan đến việc xử lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản theo quy định tại Điều 1 Thông tư này.
 
----
+Điều 12.4.TT.4.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 124/2021/TT-BTC Hướng dẫn cơ chế tài chính, quản lý, sử dụng kinh phí Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025 ban hành kèm theo Quyết định số 1804/QĐ-TTg ngày 13 tháng 11 năm 2020 của Thủ tướng Chính phủ ngày 30/12/2021 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 14/02/2022 )
 
-### Điều 12.4.TT.3.1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn về mức hỗ trợ và cơ chế tài chính hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã; hỗ trợ nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể; vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể theo Quyết định số 1804/QĐ-TTg ngày 13 tháng 11 năm 2020 của Thủ tướng Chính phủ phê duyệt Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025 (sau đây gọi là Quyết định số 1804/QĐ-TTg ngày 13/11/2020 của Thủ tướng Chính phủ).
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.4.2. Đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 2 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 1200400000000000100000280265070031000010
+1. Hợp tác xã, Liên hiệp hợp tác xã và các tổ chức, cá nhân thuộc đối tượng hỗ trợ đáp ứng các tiêu chí cụ thể của từng nội dung hỗ trợ được quy định trong Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025 được Thủ tướng Chính phủ phê duyệt tại Quyết định số 1804/QĐ-TTg .
 
-**ID:** dk_00013282
+2. Các cơ quan, tổ chức có liên quan đến thực hiện Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025.
 
----
+Điều 12.4.TT.5.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 13/2022/TT-BLĐTBXH Hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Quỹ hỗ trợ phát triển hợp tác xã ngày 30/06/2022 của Bộ Lao động - Thương binh và Xã hội, có hiệu lực thi hành kể từ ngày 15/08/2022 )
 
-### Điều 12.4.TT.3.2. Đối tượng áp dụng
+Thông tư này hướng dẫn quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, Chủ tịch, Tổng giám đốc hoặc Giám đốc, Phó Tổng giám đốc hoặc Phó Giám đốc, Kế toán trưởng, Kiểm soát viên của Quỹ hỗ trợ phát triển hợp tác xã theo quy định tại Nghị định số 45/2021/NĐ-CP ngày 31 tháng 03 năm 2021 của Chính phủ về việc thành lập, tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã (sau đây gọi tắt là Nghị định số 45/2021/NĐ-CP), bao gồm:
 
-*Nội dung chưa có sẵn*
+1. Quỹ hỗ trợ phát triển hợp tác xã Việt Nam.
 
-**Chỉ mục:** 2
+2. Quỹ hỗ trợ phát triển hợp tác xã tại các tỉnh, thành phố trực thuộc trung ương hoạt động theo mô hình Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
 
-**Mã phân cấp:** 1200400000000000100000280265070031000020
+Các Quỹ hỗ trợ phát triển hợp tác xã quy định tại khoản 1 và khoản 2 Điều này sau đây gọi chung là Quỹ.
 
-**ID:** dk_00013283
+Điều 12.4.TT.5.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
+1. Người lao động làm việc theo hợp đồng lao động.
 
-### Điều 12.4.TT.4.1. Phạm vi điều chỉnh
+2. Chủ tịch, Tổng giám đốc hoặc Giám đốc, Phó Tổng giám đốc hoặc Phó Giám đốc, Kế toán trưởng, Kiểm soát viên (sau đây gọi chung là người quản lý).
 
-*Nội dung chưa có sẵn*
+3. Cơ quan, tổ chức và cá nhân có liên quan đến quản lý lao động, tiền lương, thù lao, tiền thưởng quy định tại Thông tư này.
 
-**Chỉ mục:** 1
+Điều 12.4.TT.6.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 1200400000000000100000280278780124000010
+(Điều 1 Thông tư số 52/2022/TT-BTC Hướng dẫn một số điều Nghị định số 45/2021/NĐ-CP ngày 31/03/2021 của Chính phủ về thành lập, tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã ngày 12/08/2022 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/10/2022 )
 
-**ID:** dk_00013284
+Thông tư này hướng dẫn một số nội dung về chế độ quản lý tài chính, đánh giá hiệu quả hoạt động, xếp loại, xử lý tài chính khi chuyển đổi mô hình hoạt động của các Quỹ hỗ trợ phát triển hợp tác xã quy định tại Nghị định số 45/2021/NĐ-CP ngày 31 tháng 03 năm 2021 của Chính phủ về việc thành lập, tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã (sau đây viết tắt là Nghị định số 45/2021/NĐ-CP).
 
----
+Điều 12.4.TT.6.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-### Điều 12.4.TT.4.2. Đối tượng áp dụng
+1. Quỹ hỗ trợ phát triển hợp tác xã (sau đây viết tắt là Quỹ hợp tác xã hoặc Quỹ) bao gồm: Quỹ hỗ trợ phát triển hợp tác xã Việt Nam (Quỹ hợp tác xã Trung ương) và Quỹ hỗ trợ phát triển hợp tác xã địa phương (Quỹ hợp tác xã địa phương).
 
-*Nội dung chưa có sẵn*
+2. Cơ quan thực hiện chức năng đại diện chủ sở hữu vốn nhà nước tại Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
 
-**Chỉ mục:** 2
+3. Liên minh hợp tác xã Việt Nam và Liên minh hợp tác xã cấp tỉnh.
 
-**Mã phân cấp:** 1200400000000000100000280278780124000020
-
-**ID:** dk_00013285
-
----
-
-
-### Điều 12.4.TT.5.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1200400000000000100000280280600013000010
-
-**ID:** dk_00013286
-
----
-
-
-### Điều 12.4.TT.5.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1200400000000000100000280280600013000020
-
-**ID:** dk_00013287
-
----
-
-
-### Điều 12.4.TT.6.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1200400000000000100000280281030052000010
-
-**ID:** dk_00013288
-
----
-
-
-### Điều 12.4.TT.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1200400000000000100000280281030052000020
-
-**ID:** dk_00013289
-
----
-
-
-### Điều 12.4.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
+4. Các cơ quan, tổ chức và cá nhân khác có liên quan đến hoạt động của Quỹ hỗ trợ phát triển hợp tác xã.
 
 Điều 12.4.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 09/2024/TT-BKHĐT Ban hành biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và quy định về nội dung thông tin, việc cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã ngày 16/05/2024 của Bộ Kế hoạch và Đầu tư, có hiệu lực thi hành kể từ ngày 01/07/2024 )
 
-**Mã phân cấp:** 1200400000000000100000280287460009000010
+1. Phạm vi điều chỉnh
 
-**ID:** dk_00013290
+Thông tư này quy định về biểu mẫu áp dụng trong đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên cả nước; quy định về nội dung thông tin, việc cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã.
 
----
+2. Đối tượng áp dụng:
 
+a) Tổ hợp tác đăng ký theo Luật Hợp tác xã, hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.3. Áp dụng Luật Hợp tác xã và luật khác
+b) Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+c) Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.LQ.3. Áp dụng Luật Hợp tác xã và luật khác
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100000300000000000000000
+Trường hợp luật khác có quy định đặc thù về thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thì áp dụng theo quy định của luật đó.
 
-**ID:** dk_00013291
+(Điều này có nội dung liên quan đến Điều 22.3.LQ.1. Phạm vi điều chỉnh; Điều 22.3.TT.28.1. Phạm vi điều chỉnh; Điều 22.3.TT.48.1. Phạm vi điều chỉnh)
 
----
+Điều 12.4.LQ.4. Giải thích từ ngữ
 
+(Điều 4 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.4. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-*Nội dung chưa có sẵn*
+1.Giao dịch nội bộ là việc cung cấp sản phẩm, dịch vụ bao gồm cả dịch vụ tạo việc làm và hoạt động cho vay nội bộ của hợp tác xã, liên hiệp hợp tác xã cho thành viên chính thức theo thỏa thuận bằng văn bản.
 
-**Chỉ mục:** 4
+2.Giao dịch bên ngoài là giao dịch của hợp tác xã, liên hiệp hợp tác xã không thuộc giao dịch nội bộ.
 
-**Mã phân cấp:** 1200400000000000100000400000000000000000
+3.Giấy chứng nhận đăng ký hợp tác xã là văn bản bằng bản giấy hoặc bản điện tử ghi thông tin về đăng ký hợp tác xã, liên hiệp hợp tác xã do cơ quan đăng ký kinh doanh cấp cho hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013292
+4.Giấy chứng nhận đăng ký tổ hợp tác là văn bản bằng bản giấy hoặc bản điện tử ghi thông tin về đăng ký tổ hợp tác do cơ quan đăng ký kinh doanh cấp.
 
----
+5.Góp sức lao động là việc thành viên trực tiếp tham gia quản lý, lao động theo thỏa thuận tại tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
+6.Góp vốn là việc thành viên góp tài sản để tạo thành vốn điều lệ khi thành lập hợp tác xã, liên hiệp hợp tác xã hoặc để bổ sung vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã đã được thành lập hoặc để tạo thành tài sản chung của các thành viên tổ hợp tác.
 
-### Điều 12.4.NĐ.1.3. Giải thích từ ngữ
+7.Hợp tác xã là tổ chức có tư cách pháp nhân do ít nhất 05 thành viên chính thức tự nguyện thành lập, hợp tác tương trợ trong sản xuất, kinh doanh, tạo việc làm nhằm đáp ứng nhu cầu chung về kinh tế, văn hóa, xã hội của thành viên, góp phần xây dựng cộng đồng xã hội phát triển bền vững; thực hiện quản trị tự chủ, tự chịu trách nhiệm, bình đẳng và dân chủ.
 
-*Nội dung chưa có sẵn*
+8.Liên hiệp hợp tác xã là tổ chức có tư cách pháp nhân do ít nhất 03 hợp tác xã là thành viên chính thức tự nguyện thành lập, hợp tác tương trợ trong sản xuất, kinh doanh, tạo việc làm nhằm mở rộng quy mô sản xuất, kinh doanh, nâng cao năng lực tham gia thị trường, góp phần xây dựng cộng đồng xã hội phát triển bền vững; thực hiện quản trị tự chủ, tự chịu trách nhiệm, bình đẳng và dân chủ.
 
-**Chỉ mục:** 3
+9.Mức độ sử dụng sản phẩm, dịch vụ của thành viên là tỷ lệ giá trị sản phẩm, dịch vụ mà từng thành viên sử dụng trên tổng giá trị sản phẩm, dịch vụ do hợp tác xã, liên hiệp hợp tác xã cung ứng cho tất cả thành viên.
 
-**Mã phân cấp:** 1200400000000000100000440270660077000030
+10.Mức độ góp sức lao động của thành viên được đo bằng tỷ lệ tiền lương, tiền công hoặc thù lao của từng thành viên trên tổng tiền lương, tiền công và thù lao của tất cả thành viên.
 
-**ID:** dk_00013293
+11.Người có quan hệ gia đình bao gồm vợ, chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu, anh ruột của vợ, anh ruột của chồng, chị ruột của vợ, chị ruột của chồng, em ruột của vợ, em ruột của chồng.
 
----
+12.Phần vốn góp là giá trị tài sản góp vốn mà một thành viên đã góp hoặc cam kết góp vào vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã hoặc giá trị tài sản mà thành viên đã góp hoặc cam kết góp vào tổ hợp tác theo quy định tại hợp đồng hợp tác.
 
+13.Quỹ chung không chia là quỹ của hợp tác xã, liên hiệp hợp tác xã không chia cho thành viên trong quá trình hoạt động.
 
-### Điều 12.4.NĐ.2.2. Giải thích từ ngữ
+14.Tài sản chung không chia là tài sản của hợp tác xã, liên hiệp hợp tác xã không chia cho thành viên trong quá trình hoạt động.
 
-*Nội dung chưa có sẵn*
+15.Tài sản chung được chia là tài sản của hợp tác xã, liên hiệp hợp tác xã được chia cho thành viên.
 
-**Chỉ mục:** 2
+16.Thành viên bao gồm thành viên chính thức, thành viên liên kết góp vốn và thành viên liên kết không góp vốn của hợp tác xã, liên hiệp hợp tác xã hoặc thành viên của tổ hợp tác.
 
-**Mã phân cấp:** 1200400000000000100000440276040045000020
+17.Thành viên chính thức bao gồm:
 
-**ID:** dk_00013294
+a) Thành viên góp vốn và sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Thành viên góp vốn và góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã;
 
+c) Thành viên góp vốn, sử dụng sản phẩm, dịch vụ và góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.NĐ.3.3. Giải thích từ ngữ
+18.Thành viên liên kết góp vốn là thành viên chỉ góp vốn, không sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã và không góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã.
 
-*Nội dung chưa có sẵn*
+19.Thành viên liên kết không góp vốn bao gồm:
 
-**Chỉ mục:** 3
+a) Thành viên không góp vốn, chỉ sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã;
 
-**Mã phân cấp:** 1200400000000000100000440288090092000030
+b) Thành viên không góp vốn, chỉ góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã;
 
-**ID:** dk_00013295
+c) Thành viên không góp vốn, chỉ sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã và góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã.
 
----
+20.Tổ chức lại hợp tác xã, liên hiệp hợp tác xã là việc chia, tách, hợp nhất, sáp nhập hợp tác xã, liên hiệp hợp tác xã.
 
+21.Tổ hợp tác là tổ chức không có tư cách pháp nhân, được hình thành trên cơ sở hợp đồng hợp tác do ít nhất 02 thành viên tự nguyện thành lập, cùng góp vốn, góp sức lao động để thực hiện những công việc nhất định, cùng hưởng lợi và cùng chịu trách nhiệm.
 
-### Điều 12.4.TT.7.2. Giải thích từ ngữ
+22.Tỷ lệ giá trị giao dịch nội bộ là tỷ lệ doanh thu của giao dịch nội bộ so với tổng doanh thu của hợp tác xã, liên hiệp hợp tác xã hoặc tỷ lệ chi phí của giao dịch nội bộ so với tổng chi phí của hợp tác xã, liên hiệp hợp tác xã trong một năm tài chính.
 
-*Nội dung chưa có sẵn*
+23.Tỷ lệ phần vốn góp là tỷ lệ giữa phần vốn góp của một thành viên và vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã hoặc tỷ lệ giữa phần vốn góp của một thành viên tổ hợp tác và tổng giá trị phần vốn góp của các thành viên tổ hợp tác.
 
-**Chỉ mục:** 2
+24.Vốn điều lệ là tổng giá trị tài sản do thành viên chính thức và thành viên liên kết góp vốn đã góp hoặc cam kết góp khi thành lập hoặc trong quá trình hoạt động của hợp tác xã, liên hiệp hợp tác xã.
 
-**Mã phân cấp:** 1200400000000000100000480287460009000020
+25.Vốn góp tối thiểu là mức vốn góp thấp nhất mà cá nhân, tổ chức phải góp vào vốn điều lệ để trở thành thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013296
+26.Vốn góp tối đa là mức vốn góp cao nhất mà cá nhân, tổ chức được góp vào vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã
 
----
+Điều 12.4.NĐ.1.3. Giải thích từ ngữ
 
+(Điều 3 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-### Điều 12.4.LQ.5. Bảo đảm của Nhà nước đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thành viên
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Tổ hợp tác là tổ chức không có tư cách pháp nhân, được hình thành trên cơ sở hợp đồng hợp tác, gồm từ 02 cá nhân, pháp nhân trở lên tự nguyện thành lập, cùng đóng góp tài sản, công sức để thực hiện những công việc nhất định, cùng hưởng lợi và cùng chịu trách nhiệm.
+
+2. Hợp đồng hợp tác do các thành viên tổ hợp tác tự thỏa thuận, được lập thành văn bản, có chữ ký của một trăm phần trăm (100%) thành viên tổ hợp tác. Nội dung hợp đồng hợp tác không được trái với quy định của luật có liên quan, bao gồm các nội dung: Mục đích, thời hạn hợp tác; họ, tên, nơi cư trú của cá nhân; tên, trụ sở của pháp nhân; tài sản đóng góp (nếu có); đóng góp bằng sức lao động (nếu có); phương thức phân chia hoa lợi, lợi tức; quyền, nghĩa vụ của thành viên hợp đồng hợp tác; quyền, nghĩa vụ của người đại diện (nếu có); điều kiện tham gia và rút khỏi hợp đồng hợp tác của thành viên (nếu có); điều kiện chấm dứt hợp đồng.
+
+3. Phần đóng góp của một thành viên tổ hợp tác là giá trị vốn góp bằng tài sản, công sức (hoạt động hay công việc cụ thể) của thành viên đó đã đóng góp hoặc cam kết đóng góp vào tổ hợp tác. Việc xác định giá trị phần đóng góp của thành viên tổ hợp tác được thực hiện theo quy định tại Điều 24 của Nghị định này.
+
+4. Thời hạn hợp tác là thời gian các thành viên tổ hợp tác thỏa thuận hợp tác với nhau và ghi trong hợp đồng hợp tác. Thời hạn hợp tác được xác định theo quy định từ Điều 144 đến Điều 148 của Bộ luật dân sự. Trường hợp các bên không thỏa thuận thời hạn hợp tác thì thời hạn hợp tác kết thúc khi chấm dứt hợp đồng hợp tác theo quy định tại Điều 512 của Bộ luật dân sự.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.144. Thời hạn; Điều 9.1.LQ.145. Áp dụng cách tính thời hạn; Điều 9.1.LQ.146. Quy định về thời hạn, thời điểm tính thời hạn; Điều 9.1.LQ.147. Thời điểm bắt đầu thời hạn; Điều 9.1.LQ.148. Kết thúc thời hạn; Điều 9.1.LQ.504. Hợp đồng hợp tác; Điều 9.1.LQ.505. Nội dung của hợp đồng hợp tác)
+
+Điều 12.4.NĐ.2.2. Giải thích từ ngữ
+
+(Điều 2 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+1. “Quỹ hợp tác xã hoặc Quỹ” quy định tại Nghị định này được hiểu là Quỹ hợp tác xã trung ương và Quỹ hợp tác xã địa phương.
+
+2. “Khách hàng” là hợp tác xã, liên hiệp hợp tác xã và thành viên của tổ hợp tác, hợp tác xã được cho vay của Quỹ hợp tác xã.
+
+3. "Vốn điều lệ thực có" được xác định bằng mức vốn điều lệ ghi trên sổ sách kế toán cộng hoặc trừ lợi nhuận lũy kế chưa phân phối (lỗ lũy kế chưa xử lý) được phản ánh trên sổ sách kế toán tại cùng một thời điểm.
+
+4. "Nợ xấu" là nợ thuộc các nhóm 3, nhóm 4 và nhóm 5 theo quy chế về phân loại nợ của Quỹ hợp tác xã.
+
+5. "Người có liên quan" là tổ chức, cá nhân theo quy định tại khoản 28 Điều 4 Luật Các tổ chức tín dụng năm 2010 và các văn bản sửa đổi, bổ sung (nếu có).
+
+6. “Người quản lý Quỹ” là Chủ tịch Quỹ, Chủ tịch và thành viên Hội đồng quản trị Quỹ, Tổng giám đốc/Giám đốc, Phó Tổng giám đốc/Phó Giám đốc, Kế toán trưởng của Quỹ và người giữ chức danh khác theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã.
+
+7. “Sáng lập viên” là thành viên hợp tác xã, tổ hợp tác; hợp tác xã, liên hiệp hợp tác xã tự nguyện cam kết sáng lập, tham gia thành lập Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã.
+
+8. “Ủy ban nhân dân cấp tỉnh” được hiểu là Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương.
+
+Điều 12.4.NĐ.3.3. Giải thích từ ngữ
+
+(Điều 3 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
+
+1. Đăng ký tổ hợp tác là việc đăng ký nội dung đăng ký kinh doanh và đăng ký thuế của tổ hợp tác, đăng ký thay đổi nội dung đăng ký tổ hợp tác, các nghĩa vụ đăng ký, thông báo khác và các nghiệp vụ có liên quan theo quy định tại Nghị định này.
+
+2. Đăng ký hợp tác xã, liên hiệp hợp tác xã là việc đăng ký nội dung đăng ký kinh doanh và đăng ký thuế của hợp tác xã, liên hiệp hợp tác xã, đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã, đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã, đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã, các nghĩa vụ đăng ký, thông báo khác và các nghiệp vụ có liên quan theo quy định tại Luật Hợp tác xã và Nghị định này.
+
+3. Hệ thống thông tin về đăng ký hợp tác xã là hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh do Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với các cơ quan có liên quan xây dựng và vận hành để thực hiện công tác đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
+
+4. Cơ sở dữ liệu về đăng ký hợp tác xã là tập hợp dữ liệu về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên phạm vi toàn quốc. Cơ sở dữ liệu về đăng ký hợp tác xã là một thành phần của Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp. Thông tin trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và tình trạng pháp lý của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã lưu trữ tại Cơ sở dữ liệu về đăng ký hợp tác xã có giá trị pháp lý là thông tin gốc về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
+
+5. Hồ sơ hợp lệ là hồ sơ có đầy đủ giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định tại Luật Hợp tác xã và Nghị định này.
+
+6. Bản sao là giấy tờ được sao từ sổ gốc hoặc được chứng thực từ bản chính bởi cơ quan, tổ chức có thẩm quyền hoặc đã được cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đối chiếu với bản chính.
+
+Điều 12.4.TT.7.2. Giải thích từ ngữ
+
+(Điều 2 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1.* Cổng thông tin quốc gia về hợp tác xã* là cổng tích hợp thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên phạm vi cả nước và các thông tin liên quan khác nhằm phục vụ công tác theo dõi, điều hành, quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+2. *Cơ sở dữ liệu về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã (gọi tắt là Cơ sở dữ liệu về hợp tác xã)* là tập hợp thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được xây dựng, cập nhật, duy trì để quản lý, khai thác và sử dụng thông qua các phương tiện điện tử.
+
+3. *Cơ quan quản lý Cơ sở dữ liệu về hợp tác xã* là cơ quan có thẩm quyền được giao nhiệm vụ quản lý Cơ sở dữ liệu về hợp tác xã tại các bộ, ngành, cơ quan đăng ký kinh doanh các cấp tại địa phương.
+
+4. *Tài khoản truy cập* là thông tin bao gồm tên đăng nhập và mật khẩu được tạo bởi Hệ thống thông tin quốc gia về hợp tác xã để cơ quan, đơn vị, tổ chức, cá nhân đăng nhập vào Cơ sở dữ liệu về hợp tác xã.
 
 Điều 12.4.LQ.5. Bảo đảm của Nhà nước đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thành viên
 
-**Chỉ mục:** 5
+(Điều 5 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100000500000000000000000
+1. Công nhận và bảo hộ quyền sở hữu tài sản, vốn, thu nhập, quyền và lợi ích hợp pháp khác của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thành viên. Nhà nước trưng mua hoặc trưng dụng tài sản của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật về trưng mua, trưng dụng tài sản.
 
-**ID:** dk_00013297
+2. Bảo đảm môi trường đầu tư kinh doanh bình đẳng giữa tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã với các loại hình doanh nghiệp và tổ chức kinh tế khác.
 
----
-
-
-### Điều 12.4.LQ.6. Tổ chức chính trị, tổ chức chính trị - xã hội trong tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+3. Bảo đảm quyền tự chủ, tự chịu trách nhiệm trong tổ chức, hoạt động, sản xuất, kinh doanh và không can thiệp vào hoạt động hợp pháp của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.LQ.6. Tổ chức chính trị, tổ chức chính trị - xã hội trong tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100000600000000000000000
+1. Tổ chức chính trị, tổ chức chính trị - xã hội trong tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoạt động trong khuôn khổ [Hiến pháp](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx), pháp luật và Điều lệ của tổ chức.
 
-**ID:** dk_00013298
-
----
-
-
-### Điều 12.4.LQ.7. Hành vi bị nghiêm cấm liên quan đến tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+2. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có trách nhiệm tạo điều kiện thuận lợi để thành viên, người lao động thành lập và tham gia các tổ chức quy định tại khoản 1 Điều này.
 
 Điều 12.4.LQ.7. Hành vi bị nghiêm cấm liên quan đến tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 7
+(Điều 7 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100000700000000000000000
+1. Đối với cơ quan quản lý nhà nước:
 
-**ID:** dk_00013299
+a) Cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký tổ hợp tác trong trường hợp không đủ điều kiện; từ chối cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký tổ hợp tác trong trường hợp đủ điều kiện theo quy định của Luật này;
 
----
+b) Cản trở việc thực hiện các quyền, nghĩa vụ hợp pháp của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, thành viên theo quy định của Luật này;
 
+c) Hỗ trợ, ưu đãi cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không đúng nguyên tắc, đối tượng, thẩm quyền, nội dung, trình tự, thủ tục theo quy định của pháp luật;
 
-### Điều 12.4.LQ.8. Nguyên tắc tổ chức, quản lý và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+d) Lợi dụng quyền hạn để làm trái với các quy định của pháp luật về hỗ trợ, ưu đãi cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+đ) Gây chậm trễ, phiền hà, cản trở, sách nhiễu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, tổ chức, cá nhân có liên quan trong đăng ký, hoạt động và thực hiện hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+e) Cố ý báo cáo, cung cấp thông tin sai lệch, không trung thực liên quan đến hỗ trợ, ưu đãi cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+2. Đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã:
+
+a) Hoạt động không có giấy chứng nhận đăng ký theo quy định của Luật này; hoạt động khi không đủ điều kiện theo quy định của Luật này và pháp luật có liên quan;
+
+b) Kê khai không trung thực, không chính xác nội dung hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+c) Thực hiện không đúng các nguyên tắc tổ chức, quản lý và hoạt động theo quy định của Luật này;
+
+d) Cung cấp thông tin giả mạo, không trung thực, làm giả giấy tờ để trục lợi;
+
+đ) Sử dụng nguồn lực hỗ trợ không đúng mục đích đã cam kết.
+
+3. Đối với thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã:
+
+a) Lợi dụng chức vụ, quyền hạn vì lợi ích cá nhân hoặc của một nhóm thành viên;
+
+b) Cung cấp thông tin không trung thực cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 39.13.NĐ.95.64. Vi phạm về đăng ký, đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã; Điều 39.13.NĐ.95.65. Vi phạm về hoạt động của hợp tác xã, liên hiệp hợp tác xã; Điều 39.13.NĐ.95.66. Vi phạm về thông tin báo cáo của hợp tác xã, liên hiệp hợp tác xã; Điều 39.13.NĐ.95.67. Vi phạm về góp vốn vào hợp tác xã, liên hiệp hợp tác xã; Điều 39.13.NĐ.95.68. Vi phạm về chia, tách, sáp nhập hợp tác xã, liên hiệp hợp tác xã; Điều 39.13.NĐ.95.69. Vi phạm về hoạt động chi nhánh, văn phòng đại diện, địa điểm kỉnh doanh của hợp tác xã, liên hiệp hợp tác xã)
 
 Điều 12.4.LQ.8. Nguyên tắc tổ chức, quản lý và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100000800000000000000000
+1. Tự nguyện tham gia và mở rộng kết nạp thành viên.
 
-**ID:** dk_00013300
+Cá nhân, tổ chức tự nguyện thành lập, gia nhập, ra khỏi tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã coi trọng lợi ích của thành viên, mở rộng kết nạp thành viên; không phân biệt giới tính, địa vị xã hội, dân tộc hoặc tôn giáo đối với mọi cá nhân tham gia.
 
----
+2. Dân chủ, bình đẳng trong tổ chức, quản lý.
 
+Thành viên tổ hợp tác có quyền dân chủ trong việc quyết định tổ chức và hoạt động của tổ hợp tác. Thành viên chính thức của hợp tác xã, liên hiệp hợp tác xã được tham gia vào công việc tổ chức, quản lý và hoạt động của hợp tác xã, liên hiệp hợp tác xã một cách dân chủ, bình đẳng, không phụ thuộc vào phần vốn góp.
 
-### Điều 12.4.LQ.9. Quyền của hợp tác xã, liên hiệp hợp tác xã
+3. Trách nhiệm tham gia hoạt động kinh tế của thành viên hợp tác xã, liên hiệp hợp tác xã.
+
+Thành viên chính thức góp vốn khi gia nhập và được cùng kiểm soát vốn, quỹ và tài sản của hợp tác xã, liên hiệp hợp tác xã; được phân phối thu nhập chủ yếu theo mức độ sử dụng sản phẩm, dịch vụ hoặc mức độ đóng góp sức lao động.
+
+4. Tự chủ và tự chịu trách nhiệm.
+
+Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tự chủ, tự chịu trách nhiệm về hoạt động của mình trước [Hiến pháp](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx) và pháp luật.
+
+5. Chú trọng giáo dục, đào tạo và thông tin.
+
+Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chú trọng tuyên truyền chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước về phát triển kinh tế tập thể cho thành viên, người dân, tầng lớp thanh niên; thường xuyên giáo dục, đào tạo, bồi dưỡng, nâng cao trình độ, tay nghề kỹ thuật cho thành viên, người lao động; cung cấp thông tin đầy đủ, chính xác, kịp thời cho các thành viên.
+
+6. Tăng cường hợp tác, liên kết.
+
+Các thành viên hợp tác, liên kết, tương trợ lẫn nhau, hướng đến làm giàu cho thành viên và tập thể. Khuyến khích các tổ hợp tác tham gia thành lập hợp tác xã; các hợp tác xã cùng hợp tác để thành lập liên hiệp hợp tác xã nhằm nâng cao năng lực tham gia chuỗi sản xuất, tiêu thụ sản phẩm, dịch vụ. Khuyến khích tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã cùng hợp tác hình thành và tham gia tổ chức đại diện, hệ thống Liên minh hợp tác xã Việt Nam để phát triển phong trào hợp tác xã trong nước và quốc tế. Tăng cường liên kết giữa tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã với các tổ chức khác, đặc biệt là liên kết với doanh nghiệp nhà nước trong hỗ trợ liên kết, tiêu thụ, sử dụng sản phẩm, dịch vụ, tạo điều kiện cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoạt động hiệu quả.
+
+7. Quan tâm phát triển cộng đồng.
+
+Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thành viên quan tâm chăm lo, xây dựng cộng đồng thành viên đoàn kết, tương trợ lẫn nhau và tham gia phát triển cộng đồng dân cư tại địa phương, vùng, quốc gia, quốc tế.
 
 Điều 12.4.LQ.9. Quyền của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100000900000000000000000
+1. Tổ chức thực hiện có hiệu quả các mục tiêu, chỉ tiêu đã đề ra.
 
-**ID:** dk_00013301
+2. Quyết định việc tổ chức, quản lý và hoạt động của hợp tác xã, liên hiệp hợp tác xã; thuê và sử dụng lao động.
 
----
+3. Được kinh doanh, sản xuất trong những ngành, nghề mà pháp luật không cấm.
 
+4. Yêu cầu thành viên đăng ký nhu cầu sử dụng sản phẩm, dịch vụ để xây dựng và triển khai thực hiện kế hoạch cung ứng, tiêu thụ sản phẩm, dịch vụ cho thành viên.
 
-### Điều 12.4.LQ.10. Nghĩa vụ của hợp tác xã, liên hiệp hợp tác xã
+5. Cung cấp sản phẩm, dịch vụ ra bên ngoài sau khi hoàn thành nghĩa vụ và bảo đảm lợi ích của thành viên theo quy định của Điều lệ hoặc pháp luật có liên quan.
+
+6. Cung cấp dịch vụ, tổ chức hoạt động kinh tế, xã hội, văn hóa vì mục tiêu chăm lo đời sống của thành viên, cộng đồng và phát triển bền vững.
+
+7. Tham gia thực hiện chính sách, chương trình, dự án phát triển kinh tế, văn hóa, xã hội, bảo đảm an ninh chính trị, trật tự, an toàn xã hội, bảo vệ môi trường tại cộng đồng dân cư.
+
+8. Kết nạp mới, chấm dứt tư cách thành viên theo quy định của pháp luật về hợp tác xã.
+
+9. Tăng, giảm vốn điều lệ trong quá trình hoạt động.
+
+10. Huy động vốn theo quy định của pháp luật.
+
+11. Cho vay nội bộ theo quy định của Luật này.
+
+12. Theo dõi riêng các khoản doanh thu, chi phí của giao dịch nội bộ và giao dịch bên ngoài.
+
+13. Liên danh, liên kết, hợp tác với tổ chức, cá nhân trong nước và nước ngoài để thực hiện mục tiêu hoạt động của hợp tác xã, liên hiệp hợp tác xã.
+
+14. Góp vốn, mua cổ phần, thành lập doanh nghiệp nhằm mục tiêu hỗ trợ hoạt động của hợp tác xã, liên hiệp hợp tác xã.
+
+15. Thực hiện việc phân phối thu nhập, xử lý các khoản lỗ, khoản nợ của hợp tác xã, liên hiệp hợp tác xã.
+
+16. Tham gia tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã.
+
+17. Khiếu nại, tố cáo hành vi vi phạm quyền và lợi ích hợp pháp của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật; giải quyết tranh chấp nội bộ và xử lý thành viên vi phạm theo quy định của Điều lệ.
+
+18. Quyền khác theo quy định của pháp luật và Điều lệ.
 
 Điều 12.4.LQ.10. Nghĩa vụ của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100001000000000000000000
+1. Kết nạp thành viên khi đáp ứng đầy đủ điều kiện theo quy định của Luật này, Điều lệ và pháp luật có liên quan.
 
-**ID:** dk_00013302
+2. Bảo đảm quyền và lợi ích hợp pháp của thành viên theo quy định của Luật này và Điều lệ.
 
----
+3. Thực hiện thỏa thuận giữa hợp tác xã, liên hiệp hợp tác xã với thành viên, đáp ứng tối đa nhu cầu của thành viên đã đăng ký trước khi phục vụ khách hàng không phải là thành viên.
 
+4. Thực hiện quy định của pháp luật về tài chính, thuế, kế toán, kiểm toán, thống kê và pháp luật có liên quan.
 
-### Điều 12.4.TT.1.11. Kiểm kê tài sản
+5. Quản lý, sử dụng vốn, tài sản và các quỹ của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật và Điều lệ.
 
-*Nội dung chưa có sẵn*
+6. Quản lý, sử dụng đất và tài nguyên theo quy định của pháp luật.
 
-**Chỉ mục:** 11
+7. Ký kết và thực hiện hợp đồng lao động, đóng bảo hiểm xã hội và các chính sách cho người lao động theo quy định của pháp luật.
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001100
+8. Giáo dục, đào tạo, phổ biến, bồi dưỡng cho thành viên và người lao động.
 
-**ID:** dk_00013303
+9. Thực hiện đúng, đầy đủ, kịp thời nghĩa vụ về đăng ký hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật này.
 
----
+10. Thực hiện công bố thông tin cho thành viên theo quy định tại Điều 14 của Luật này và công bố thông tin theo quy định của pháp luật có liên quan.
 
+11. Bồi thường thiệt hại do hợp tác xã, liên hiệp hợp tác xã gây ra cho thành viên theo quy định của pháp luật và Điều lệ.
 
-### Điều 12.4.TT.1.12. Đánh giá lại tài sản
+12. Lập, cập nhật và lưu trữ sổ đăng ký thành viên chính thức, thành viên liên kết góp vốn.
 
-*Nội dung chưa có sẵn*
+13. Thực hiện chế độ báo cáo, cập nhật thông tin về tình hình hoạt động của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật.
 
-**Chỉ mục:** 12
+14. Nghĩa vụ khác theo quy định của pháp luật và Điều lệ.
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001200
+Điều 12.4.TT.1.11. Kiểm kê tài sản
 
-**ID:** dk_00013304
+(Điều 11 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
----
+ 1. Hợp tác xã, liên hiệp hợp tác xã phải tổ chức kiểm kê định kỳ hoặc đột xuất để xác định số lượng tài sản (tài sản cố định và đầu tư dài hạn, tài sản lưu động và đầu tư ngắn hạn, tài sản không chia) trong các trường hợp: Khi khóa sổ kế toán để lập báo cáo tài chính năm; khi thực hiện quyết định chia, tách, sáp nhập, hợp nhất, giải thể, phá sản; sau khi xảy ra thiên tai, dịch họa; hoặc vì lý do nào đó gây ra biến động tài sản; hoặc theo quy định của pháp luật. Thống kê tài sản thừa, thiếu, xác định rõ nguyên nhân, trách nhiệm của tổ chức, cá nhân có liên quan và xác định mức bồi thường vật chất theo quy định.
 
+ 2. Xử lý kiểm kê
 
-### Điều 12.4.TT.1.13. Quản lý nợ phải thu
+ a) Xử lý tổn thất tài sản sau kiểm kê
 
-*Nội dung chưa có sẵn*
+ Tổn thất về tài sản là tài sản bị mất, thiếu hụt, hư hỏng, kém, mất phẩm chất, lạc hậu mốt, lạc hậu kỹ thuật, tồn kho ứ đọng được xác định trong kiểm kê định kỳ và kiểm kê đột xuất. Hợp tác xã, liên hiệp hợp tác xã phải xác định giá trị đã bị tổn thất, nguyên nhân, trách nhiệm và xử lý như sau:
 
-**Chỉ mục:** 13
+ - Nếu do nguyên nhân chủ quan thì người gây ra tổn thất phải bồi thường, xử lý theo quy định của pháp luật. Đại hội thành viên hoặc cơ quan theo phân cấp tại điều lệ, quy chế quản lý tài chính quyết định mức bồi thường theo quy định của pháp luật và chịu trách nhiệm về quyết định của mình;
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001300
+ - Tài sản đã mua bảo hiểm nếu tổn thất thì xử lý theo hợp đồng bảo hiểm;
 
-**ID:** dk_00013305
+ - Giá trị tài sản tổn thất sau khi đã bù đắp bằng tiền bồi thường của cá nhân, tập thể, của tổ chức bảo hiểm, nếu thiếu được bù đắp bằng quỹ dự phòng tài chính của công ty. Trường hợp quỹ dự phòng tài chính không đủ bù đắp thì phần thiếu được hạch toán vào chi phí sản xuất, kinh doanh trong kỳ;
 
----
+ - Những trường hợp đặc biệt do thiên tai, dịch bệnh, hỏa hoạn và trường hợp bất khả kháng khác gây thiệt hại nghiêm trọng, hợp tác xã, liên hiệp hợp tác xã không thể tự khắc phục được thì lập phương án xử lý tổn thất trình đại hội thành viên. Đại hội thành viên quyết định việc xử lý tổn thất theo quy định của pháp luật và chịu trách nhiệm về quyết định của mình.
 
+ b) Tải sản thừa sau kiểm kê
 
-### Điều 12.4.TT.1.14. Quản lý nợ phải trả
+ Tài sản thừa sau kiểm kê là chênh lệch giữa số tài sản thực tế kiểm kê với số tài sản ghi trên sổ sách kế toán. Tài sản thừa sau khi kiểm kê phải xác định rõ nguyên nhân và căn cứ vào quyết định của cơ quan có thẩm quyền để xem xét, xử lý. Trường hợp giá trị tài sản thừa nếu không xác định được nguyên nhân và không tìm được chủ sở hữu được ghi nhận vào thu nhập khác của hợp tác xã, liên hiệp hợp tác xã.Điều 12.4.TT.1.12. Đánh giá lại tài sản
 
-*Nội dung chưa có sẵn*
+(Điều 12 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**Chỉ mục:** 14
+ 1. Hợp tác xã, liên hiệp hợp tác xã thực hiện đánh giá lại tài sản trong các trường hợp sau:
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001400
+ a) Theo quyết định của cơ quan nhà nước có thẩm quyền.
 
-**ID:** dk_00013306
+ b) Dùng tài sản để góp vốn, mua cổ phần, thành lập doanh nghiệp.
 
----
+ c) Chuyển đổi sang hình thức tổ chức kinh tế khác.
 
+ d) Chia, tách, hợp nhất, sáp nhập, giải thể, phá sản.
 
-### Điều 12.4.TT.1.15. Quản lý, theo dõi tạm ứng và thanh toán tạm ứng
+ đ) Các trường hợp khác theo quy định của pháp luật.
 
-Điều 12.4.TT.1.15. Quản lý, theo dõi tạm ứng và thanh toán tạm ứng
+ 2. Việc đánh giá lại tài sản phải theo đúng các quy định của pháp luật. Các khoản chênh lệch tăng hoặc giảm giá trị do đánh giá lại tài sản quy định tại Khoản 1 Điều này thực hiện theo quy định đối với từng trường hợp cụ thể.Điều 12.4.TT.1.13. Quản lý nợ phải thu
 
-**Chỉ mục:** 15
+(Điều 13 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001500
+ 1. Các khoản nợ phải thu trong hợp tác xã, liên hiệp hợp tác xã gồm:
 
-**ID:** dk_00013307
+ a) Phải thu của thành viên, hợp tác xã thành viên: Là giá trị những sản phẩm, hàng hóa, dịch vụ bán, cung cấp cho thành viên, hợp tác xã thành viên, nhưng chưa được thanh toán.
 
----
+ b) Phải thu của khách hàng: Là giá trị những sản phẩm, dịch vụ hợp tác xã, liên hiệp hợp tác xã bán, cung cấp cho khách hàng, nhưng chưa được thanh toán.
 
+ c) Phải thu trong hoạt động tín dụng nội bộ: Là khoản cho vay nội bộ trong hợp tác xã, liên hiệp hợp tác xã (cả gốc và lãi).
 
-### Điều 12.4.TT.1.16. Quản lý các khoản thuế phải nộp và các nghĩa vụ tài chính với Nhà nước
+ d) Phải thu khác theo quy định của pháp luật.
 
-Điều 12.4.TT.1.16. Quản lý các khoản thuế phải nộp và các nghĩa vụ tài chính với Nhà nước
+ 2. Hợp tác xã, liên hiệp hợp tác xã phải mở sổ theo dõi chi tiết theo từng đối tượng nợ, theo nội dung nợ và từng lần thanh toán; thường xuyên phân loại các khoản nợ (nợ luân chuyển, nợ phải thu khó đòi, nợ không có khả năng thu hồi), đôn đốc thu hồi nợ. Đối với các khoản nợ phải thu bằng hiện vật, hợp tác xã, liên hiệp hợp tác xã cần phải theo dõi cả về hiện vật và giá trị để bảo toàn vốn khi giá cả có biến động.
 
-**Chỉ mục:** 16
+ Đối với khoản nợ phải thu của khách hàng có quan hệ giao dịch thường xuyên, định kỳ phải kiểm tra đối chiếu số phải thu, số đã thu, số còn lại và xác nhận nợ với hợp tác xã, liên hiệp hợp tác xã bằng văn bản.
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001600
+ 3. Cuối kỳ kế toán năm, căn cứ vào các khoản nợ phải thu được xác định là nợ phải thu khó đòi, hợp tác xã, liên hiệp hợp tác xã phải trích lập dự phòng đối với khoản nợ phải thu khó đòi theo quy định tại Thông tư số 228/2009/TT-BTC ngày 7/12/2009 của Bộ Tài chính, Thông tư số 89/2013/TT-BTC ngày 28/6/2013 sửa đổi, bổ sung Thông tư số 228/2009/TT-BTC ngày 7/12/2009 và các văn bản sửa đổi, bổ sung, thay thế (nếu có).
 
-**ID:** dk_00013308
+ 4. Hợp tác xã, liên hiệp hợp tác xã định kỳ hoặc đột xuất đối chiếu các khoản công nợ phải thu trong các trường hợp: Khi khóa sổ kế toán để lập báo cáo tài chính năm; khi thực hiện quyết định chia, tách, sáp nhập, hợp nhất, giải thể, phá sản; hoặc theo quy định của pháp luật. Thống kê nợ không thu hồi được, nợ quá hạn và xác định rõ nguyên nhân, trách nhiệm của tổ chức và cá nhân có liên quan và xác định mức bồi thường vật chất theo quy định.
 
----
+ 5. Đối với nợ phải thu không có khả năng thu hồi, hợp tác xã, liên hiệp hợp tác xã có trách nhiệm xử lý bồi thường của cá nhân, tập thể có liên quan, số còn lại được xử lý theo thứ tự ưu tiên như sau:
 
+ a) Bù đắp bằng khoản dự phòng nợ phải thu khó đòi.
 
-### Điều 12.4.TT.1.17. Quản lý thanh toán với thành viên và người lao động
+ b) Bù đắp từ nguồn quỹ dự phòng tài chính.
 
-Điều 12.4.TT.1.17. Quản lý thanh toán với thành viên và người lao động
+ c) Hạch toán vào chi phí sản xuất kinh doanh trong năm. Trường hợp hạch toán vào chi phí kinh doanh mà hợp tác xã, liên hiệp hợp tác xã bị lỗ thì được chuyển lỗ sang năm sau theo quy định của pháp luật về thuế.
 
-**Chỉ mục:** 17
+ Nợ không có khả năng thu hồi sau khi xử lý như trên, hợp tác xã, liên hiệp hợp tác xã vẫn phải theo dõi trên tài khoản ngoài bảng cân đối kế toán và phải tổ chức đôn đốc, thu hồi. Số tiền thu hồi được hạch toán vào thu nhập khác của hợp tác xã, liên hiệp hợp tác xã.Điều 12.4.TT.1.14. Quản lý nợ phải trả
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001700
+(Điều 14 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**ID:** dk_00013309
+ 1. Nợ phải trả phát sinh do đi vay hoặc phát sinh trong quá trình mua bán vật tư, sản phẩm, hàng hóa, dịch vụ phải được phân loại theo đối tượng nợ và tính chất nợ, bao gồm: Phải trả các tổ chức tín dụng, phải trả người bán, phải nộp Nhà nước, phải trả thành viên, hợp tác xã thành viên, người lao động và các khoản phải trả, phải nộp khác.
 
----
+ 2. Hợp tác xã, liên hiệp hợp tác xã phải mở sổ chi tiết, đầy đủ các khoản nợ phải trả theo từng chủ nợ, nội dung khoản vay, thời hạn vay và từng lần thanh toán.
 
+ 3. Thanh toán các khoản nợ phải trả theo đúng thời hạn đã cam kết. Thường xuyên xem xét, đánh giá, phân tích khả năng thanh toán nợ, phát hiện sớm tình hình khó khăn trong thanh toán nợ để có giải pháp khắc phục kịp thời không để phát sinh các khoản nợ quá hạn. Các khoản nợ phải trả mà không phải trả, không có đối tượng để trả thì hạch toán vào thu nhập.Điều 12.4.TT.1.15. Quản lý, theo dõi tạm ứng và thanh toán tạm ứng
 
-### Điều 12.4.TT.1.18. Nguyên tắc quản lý doanh thu, thu nhập khác và chi phí
+(Điều 15 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-Điều 12.4.TT.1.18. Nguyên tắc quản lý doanh thu, thu nhập khác và chi phí
+ 1. Tạm ứng là khoản tiền mà hợp tác xã, liên hiệp hợp tác xã ứng trước cho cán bộ, thành viên để thực hiện các nhiệm vụ đã được phê duyệt.
 
-**Chỉ mục:** 18
+ 2. Việc theo dõi hạch toán tạm ứng được thực hiện theo các quy định sau:
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001800
+ a) Người nhận tạm ứng phải là cán bộ hoặc thành viên trong hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013310
+ b) Giấy đề nghị tạm ứng phải ghi rõ họ tên địa chỉ (đơn vị, bộ phận) và số tiền đề nghị tạm ứng, lý do tạm ứng, mục đích sử dụng tiền tạm ứng, thời gian thanh toán ghi rõ ngày hoàn lại số tiền đã tạm ứng và phải được người có thẩm quyền theo phân cấp tại điều lệ, quy chế quản lý tài chính ký duyệt. Kế toán lập phiếu chi kèm theo giấy đề nghị tạm ứng chuyển cho thủ quỹ xuất quỹ.
 
----
+ c) Tiền tạm ứng được thanh toán ngay sau khi hoàn thành công việc. Nếu việc thanh toán chậm quá ngày quy định ghi trên giấy tạm ứng thì người ứng tiền và kế toán theo dõi tạm ứng phải chịu trách nhiệm theo quy chế quản lý tài chính, kế toán của hợp tác xã, liên hiệp hợp tác xã.
 
+ d) Người nhận tạm ứng phải sử dụng tiền đúng nội dung ghi trên giấy tạm ứng, thanh toán đúng hạn và có đầy đủ các chứng từ gốc. Người nhận tạm ứng chưa thanh toán số tiền tạm ứng lần trước thì không được tạm ứng tiếp lần sau.
 
-### Điều 12.4.TT.1.19. Quản lý doanh thu và thu nhập khác
+ đ) Hợp tác xã, liên hiệp hợp tác xã mở sổ theo dõi tạm ứng chi tiết đến từng đối tượng, từng lần tạm ứng và thanh toán tạm ứng.Điều 12.4.TT.1.16. Quản lý các khoản thuế phải nộp và các nghĩa vụ tài chính với Nhà nước
 
-Điều 12.4.TT.1.19. Quản lý doanh thu và thu nhập khác
+(Điều 16 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**Chỉ mục:** 19
+ Hợp tác xã, liên hiệp hợp tác xã thực hiện đầy đủ các quy định pháp luật về thuế. Hợp tác xã, liên hiệp hợp tác xã theo dõi số phải nộp, số đã nộp, số còn phải nộp chi tiết từng khoản thuế và các nghĩa vụ tài chính với Nhà nước.Điều 12.4.TT.1.17. Quản lý thanh toán với thành viên và người lao động
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830001900
+(Điều 17 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**ID:** dk_00013311
+ 1. Thanh toán với thành viên và người lao động trong hợp tác xã, liên hiệp hợp tác xã gồm: Các khoản tiền công, tiền lãi, các khoản khác mà hợp tác xã, liên hiệp hợp tác xã phải trả.
 
----
+ 2. Hợp tác xã, liên hiệp hợp tác xã phải mở sổ chi tiết theo dõi từng đối tượng, từng khoản tiền phải trả. Những khoản trả công bằng sản phẩm phải mở sổ chi tiết theo dõi số lượng, đơn giá và số tiền phải trả; đồng thời hợp tác xã, liên hiệp hợp tác xã phải mở sổ thanh toán với thành viên để thực hiện việc công khai tài chính và thực hiện quy chế dân chủ đối với thành viên, không được thanh toán qua các đội, tổ.Điều 12.4.TT.1.18. Nguyên tắc quản lý doanh thu, thu nhập khác và chi phí
 
+(Điều 18 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-### Điều 12.4.TT.1.20. Quản lý chi phí
+ 1. Hội đồng quản trị, giám đốc (tổng giám đốc) hợp tác xã, liên hiệp hợp tác xã chịu trách nhiệm trước các thành viên, hợp tác xã thành viên và trước pháp luật, tổ chức quản lý chặt chẽ, đảm bảo về tính đúng đắn và hợp pháp của các khoản doanh thu, thu nhập khác và chi phí hoạt động sản xuất kinh doanh.
 
-*Nội dung chưa có sẵn*
+ 2. Toàn bộ doanh thu, thu nhập khác và chi phí hoạt động sản xuất kinh doanh của hợp tác xã, liên hiệp hợp tác xã phát sinh phải có đầy đủ hóa đơn, chứng từ hợp pháp theo quy định của pháp luật và được phản ánh đầy đủ, kịp thời, chính xác, trung thực trong sổ kế toán, báo cáo tài chính của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật về kế toán.
 
-**Chỉ mục:** 20
+ 3. Doanh thu, thu nhập được xác định bằng đồng Việt Nam, trường hợp thu bằng ngoại tệ phải quy đổi về đồng Việt Nam theo quy định của pháp luật.
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002000
+ 4. Hợp tác xã, liên hiệp hợp tác xã phải tính đúng, tính đủ chi phí hoạt động sản xuất, kinh doanh, tự trang trải mọi khoản chi phí bằng các khoản thu của hợp tác xã, liên hiệp hợp tác xã và tự chịu trách nhiệm về kết quả hoạt động kinh doanh của mình.
 
-**ID:** dk_00013312
+ 5. Việc xác định doanh thu, chi phí để xác định thu nhập chịu thuế thu nhập doanh nghiệp thực hiện theo quy định của pháp luật về thuế thu nhập doanh nghiệp.Điều 12.4.TT.1.19. Quản lý doanh thu và thu nhập khác
 
----
+(Điều 19 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
+ 1. Doanh thu và thu nhập khác của hợp tác xã, liên hiệp hợp tác xã được xác định phù hợp theo quy định của pháp luật về kế toán và thuế.
 
-### Điều 12.4.TT.1.23. Mục đích sử dụng các quỹ
+ 2. Doanh thu bao gồm doanh thu hoạt động sản xuất, kinh doanh và doanh thu hoạt động tài chính, tín dụng nội bộ, trong đó:
 
-*Nội dung chưa có sẵn*
+ a) Doanh thu từ hoạt động sản xuất kinh doanh là toàn bộ giá trị của sản phẩm, dịch vụ mà hợp tác xã, liên hiệp hợp tác xã đã bán, cung cấp cho thành viên, hợp tác xã thành viên, khách hàng và đã được thành viên, hợp tác xã thành viên, khách hàng thanh toán hoặc chấp nhận thanh toán, bao gồm:
 
-**Chỉ mục:** 23
+ - Doanh thu từ hoạt động sản xuất kinh doanh cho thành viên, hợp tác xã thành viên.
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002300
+ - Doanh thu từ hoạt động sản xuất kinh doanh cho khách hàng không phải là thành viên.
 
-**ID:** dk_00013313
+ - Hợp tác xã, liên hiệp hợp tác xã phải tổ chức hạch toán theo dõi riêng hai loại doanh thu trên.
 
----
+ b) Doanh thu từ hoạt động tài chính, tín dụng nội bộ bao gồm: các khoản thu phát sinh từ tiền bản quyền, cho các bên khác sử dụng tài sản của hợp tác xã, liên hiệp hợp tác xã, tiền lãi từ việc cho vay vốn, lãi tiền gửi, lãi bán hàng trả chậm, trả góp, lãi cho thuê tài chính; lãi tỷ giá hối đoái, bao gồm cả lãi do bán ngoại tệ; tiền thu từ chuyển nhượng vốn của hợp tác xã, liên hiệp hợp tác xã đầu tư tại doanh nghiệp; lợi nhuận, cổ tức được chia từ việc góp vốn, mua cổ phần thành lập; tiền lãi cho vay của hoạt động tín dụng nội bộ. Trường hợp lợi nhuận được chia đã nộp thuế thu nhập doanh nghiệp thì hợp tác xã, liên hiệp hợp tác xã không phải nộp thuế thu nhập đối với khoản lợi nhuận được chia này.
 
+ 3. Thu nhập khác gồm các khoản thu từ việc thanh lý, nhượng bán tài sản cố định, thu tiền bảo hiểm được bồi thường, các khoản nợ phải trả nay không có chủ nợ được ghi tăng thu nhập; thu tiền phạt khách hàng do vi phạm hợp đồng, giá trị tài sản trí tuệ, bản quyền được bên nhận vốn góp chấp nhận, được ghi nhận là thu nhập khác của hợp tác xã, liên hiệp hợp tác xã và các khoản thu khác theo quy định của pháp luật.
 
-### Điều 12.4.TT.1.24. Báo cáo tài chính:
+ 4. Tất cả các khoản doanh thu phải được tính bằng tiền. Trường hợp thu bằng hàng hóa, dịch vụ, đổi hàng thì phải tính thành tiền tại thời điểm thanh toán hoặc chấp nhận thanh toán để hạch toán vào doanh thu.
 
-*Nội dung chưa có sẵn*
+ 5. Toàn bộ doanh thu phát sinh trong kỳ phải có các hóa đơn, chứng từ và phải phản ánh đầy đủ kịp thời vào sổ kế toán theo quy định của pháp luật về kế toán.
 
-**Chỉ mục:** 24
+ 6. Hợp tác xã, liên hiệp hợp tác xã phải theo dõi và hạch toán riêng những khoản doanh thu được miễn, giảm thuế thu nhập doanh nghiệp.
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002400
+ 7. Các khoản thu không được hạch toán vào doanh thu, gồm:
 
-**ID:** dk_00013314
+ a) Tiền thu hồi công nợ, thu tạm ứng, thu vốn góp của thành viên, hợp tác xã thành viên, nhận vốn góp liên doanh của các tổ chức, cá nhân khác.
 
----
+ b) Các khoản hỗ trợ của Nhà nước (bằng tiền hoặc hiện vật) để đầu tư phát triển hình thành tài sản kết cấu hạ tầng và các tài sản cố định khác. Sau khi tiếp nhận tài sản để quản lý và sử dụng thì hạch toán tăng tài sản không chia của hợp tác xã, liên hiệp hợp tác xã.
 
+ c) Các khoản trợ cấp, hỗ trợ không hoàn lại khác của Nhà nước; khoản được tặng, cho khác theo thỏa thuận là tài sản không chia;
 
-### Điều 12.4.TT.1.25. Công khai tài chính:
+ d) Tại thời điểm lập báo cáo quyết toán, hợp tác xã, liên hiệp hợp tác xã đã viết hóa đơn bán hàng và đã thu tiền nhưng chưa xuất hàng thì số tiền đã thu không được ghi vào doanh thu, mà hạch toán là khoản thu trước của khách hàng.Điều 12.4.TT.1.20. Quản lý chi phí
 
-*Nội dung chưa có sẵn*
+(Điều 20 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**Chỉ mục:** 25
+ Chi phí hoạt động sản xuất kinh doanh của hợp tác xã, liên hiệp hợp tác xã là các khoản chi phí phát sinh liên quan đến hoạt động sản xuất kinh doanh trong năm tài chính. Việc xác định chi phí được thực hiện phù hợp theo quy định của pháp luật về kế toán và thuế; chi phí hoạt động sản xuất kinh doanh gồm một số nội dung sau:
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002500
+ 1. Chi phí sản xuất kinh doanh:
 
-**ID:** dk_00013315
+ a) Chi phí nguyên vật liệu, nhiên liệu, động lực, bán thành phẩm, dịch vụ mua ngoài (tính theo mức tiêu hao thực tế và giá gốc thực tế), chi phí phân bổ công cụ, dụng cụ lao động, chi phí sửa chữa tài sản cố định, chi phí trích trước, chi phí sửa chữa lớn tài sản cố định.
 
----
+ b) Chi phí khấu hao tài sản cố định theo quy định của pháp luật.
 
+ c) Chi phí tiền lương, tiền công, chi phí có tính chất lương phải trả cho thành viên, người lao động theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội (trường hợp trả bằng hiện vật thì quy ra bằng tiền).
 
-### Điều 12.4.TT.1.26. Bàn giao công tác quản lý tài chính:
+ d) Kinh phí bảo hiểm xã hội, bảo hiểm thất nghiệp, kinh phí công đoàn, bảo hiểm y tế cho người lao động mà hợp tác xã, liên hiệp hợp tác xã phải nộp theo quy định.
 
-Điều 12.4.TT.1.26. Bàn giao công tác quản lý tài chính:
+ đ) Chi phí giao dịch, môi giới, tiếp khách, tiếp thị, xúc tiến thương mại, quảng cáo, hội họp tính theo chi phí thực tế phát sinh và theo quy định của Luật Thuế thu nhập doanh nghiệp.
 
-**Chỉ mục:** 26
+ e) Chi phí bằng tiền khác theo quy định của pháp luật:
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002600
+ - Các khoản thuế, phí, lệ phí theo quy định của pháp luật được tính vào chi phí sản xuất kinh doanh của hợp tác xã, liên hiệp hợp tác xã;
 
-**ID:** dk_00013316
+ - Tiền thuê đất;
 
----
+ - Trợ cấp thôi việc, mất việc cho người lao động;
 
+ - Đào tạo nâng cao năng lực quản lý, tay nghề của người lao động;
 
-### Điều 12.4.TT.1.27. Kiểm tra tài chính kế toán:
+ - Chi cho công tác y tế;
 
-*Nội dung chưa có sẵn*
+ - Thưởng sáng kiến cải tiến, thưởng tăng năng suất lao động, thưởng tiết kiệm vật tư và chi phí. Mức thưởng do giám đốc (tổng giám đốc) hợp tác xã, liên hiệp hợp tác xã quyết định căn cứ vào hiệu quả công việc trên mang lại nhưng không được cao hơn số tiết kiệm chi phí do công việc đó mang lại trong 01 năm;
 
-**Chỉ mục:** 27
+ - Chi phí cho lao động nữ;
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002700
+ - Chi phí cho công tác bảo vệ môi trường;
 
-**ID:** dk_00013317
+ - Chi phí ăn ca cho người lao động;
 
----
+ - Các khoản chi phí bằng tiền khác.
 
+ g) Giá trị tài sản tổn thất thực tế theo quy định tại Khoản 2 Điều 11; nợ phải thu không có khả năng thu hồi theo quy định tại Khoản 5 Điều 13; Thông tư này.
 
-### Điều 12.4.TT.1.28. Quản lý hồ sơ chứng từ
+ h) Giá trị các khoản dự phòng giảm giá hàng hóa tồn kho; dự phòng nợ phải thu khó đòi; dự phòng tổn thất các khoản đầu tư tài chính; dự phòng bảo hành sản phẩm, hàng hóa, công trình xây lắp; chi phí trích trước bảo hành sản phẩm; các khoản dự phòng theo quy định của pháp luật đối với hợp tác xã, liên hiệp hợp tác xã hoạt động trong lĩnh vực đặc thù.
 
-*Nội dung chưa có sẵn*
+ i) Chi phí hoạt động tài chính, bao gồm: các khoản chi liên quan đến góp vốn, mua cổ phần, thành lập doanh nghiệp (bao gồm các khoản chi phí do các bên góp vốn phải tự chi kể cả khoản lỗ được chia từ doanh nghiệp góp vốn); giá trị vốn góp được chuyển nhượng; tiền lãi phải trả do huy động vốn; lỗ chênh lệch tỷ giá Hối đoái phát sinh trong kỳ, lỗ chênh lệch tỷ giá hối đoái khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ vào cuối năm tài chính; chi phí chiết khấu thanh toán; chi phí cho thuê tài sản; dự phòng giảm giá các khoản đầu tư dài hạn; chi phí của hoạt động tín dụng nội bộ.
 
-**Chỉ mục:** 28
+ 2. Chi phí khác, bao gồm:
 
-**Mã phân cấp:** 120040000000000010000100000000000000000000802547000830002800
+ a) Chi phí nhượng bán, thanh lý tài sản cố định (gồm cả chi phí đấu thầu hoạt động thanh lý); giá trị còn lại của tài sản cố định thanh lý, nhượng bán (nếu có); giá trị còn lại của tài sản cố định bị tháo dỡ.
 
-**ID:** dk_00013318
+ b) Chênh lệch lỗ do đánh giá lại vật tư, hàng hóa tài sản cố định mang đi góp vốn vào công ty con, công ty liên doanh, đầu tư vào công ty liên kết và đầu tư dài hạn khác.
 
----
+ c) Chi phí cho việc thu hồi các khoản nợ đã xóa sổ kế toán.
 
+ d) Chi phí để thu tiền phạt.
 
-### Điều 12.4.LQ.11. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
+ đ) Chi phí về tiền phạt do vi phạm hợp đồng.
 
-Điều 12.4.LQ.11. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
+ e) Các chi phí khác theo quy định của pháp luật.
 
-**Chỉ mục:** 11
+ 3. Các khoản chi không được trừ khi xác định thu nhập chịu thuế thực hiện theo quy định của Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn.Điều 12.4.TT.1.23. Mục đích sử dụng các quỹ
 
-**Mã phân cấp:** 1200400000000000100001100000000000000000
+(Điều 23 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
-**ID:** dk_00013319
+ 1. Quỹ đầu tư phát triển: Để đầu tư mở rộng quy mô sản xuất, kinh doanh hoặc đầu tư chiều sâu cho hợp tác xã, liên hiệp hợp tác xã.
 
----
+ 2. Quỹ dự phòng tài chính: Để bù đắp những thiệt hại do nguyên nhân bất khả kháng; xử lý tổn thất tài sản, nợ phải thu không có khả năng thu hồi theo quy định và bù lỗ hoạt động sản xuất kinh doanh.
 
+ 3. Quỹ khen thưởng theo quy định tại điều lệ hoặc quyết định của đại hội thành viên được dùng để:
 
-### Điều 12.4.LQ.12. Chế độ lưu trữ tài liệu
+ a) Thưởng cuối năm hoặc thường kỳ trên cơ sở năng suất lao động và thành tích công tác của mỗi cán bộ, nhân viên trong hợp tác xã, liên hiệp hợp tác xã.
 
-*Nội dung chưa có sẵn*
+ b) Thưởng đột xuất cho những cá nhân, tập thể trong hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 12
+ c) Thưởng cho những cá nhân và đơn vị ngoài hợp tác xã, liên hiệp hợp tác xã có đóng góp nhiều cho hoạt động của hợp tác xã, liên hiệp hợp tác xã.
 
-**Mã phân cấp:** 1200400000000000100001200000000000000000
+ d) Các khoản thưởng khác do đại hội thành viên quyết định.
 
-**ID:** dk_00013320
+ Mức thưởng theo quy định tại các điểm a, b, c, d khoản này do giám đốc (tổng giám đốc) quyết định. Riêng việc thưởng theo quy định tại điểm a khoản này cần có ý kiến của công đoàn hợp tác xã, liên hiệp hợp tác xã trước khi quyết định.
 
----
+ 4. Quỹ phúc lợi theo quy định tại điều lệ hoặc quyết định của đại hội thành viên được dùng để:
 
+ a) Đầu tư xây dựng hoặc sửa chữa các công trình phúc lợi của hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.LQ.13. Hệ thống thông tin quốc gia về hợp tác xã
+ b) Chi cho các hoạt động phúc lợi của tập thể thành viên, người lao động trong hợp tác xã, liên hiệp hợp tác xã.
+
+ c) Góp một phần vốn để đầu tư xây dựng các công trình phúc lợi chung trong ngành hoặc với các đơn vị khác theo hợp đồng.
+
+ d) Sử dụng một phần quỹ phúc lợi để trợ cấp khó khăn đột xuất cho những thành viên, người lao động kể cả những trường hợp về hưu, về mất sức, lâm vào hoàn cảnh khó khăn, không nơi nương tựa hoặc làm công tác từ thiện xã hội.
+
+ Việc sử dụng quỹ phúc lợi do đại hội thành viên quyết định sau khi tham khảo ý kiến của công đoàn hợp tác xã, liên hiệp hợp tác xã.
+
+ 5. Đối với các quỹ khác: Đại hội thành viên quyết định việc lập các quỹ này và quy định rõ ràng việc sử dụng các quỹ này trong điều lệ, quy chế quản lý tài chính của hợp tác xã, liên hiệp hợp tác xã.Điều 12.4.TT.1.24. Báo cáo tài chính:
+
+(Điều 24 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
+
+ 1. Cuối kỳ kế toán năm, hợp tác xã, liên hiệp hợp tác xã có trách nhiệm lập và gửi báo cáo tài chính theo quy định của Bộ Tài chính về chế độ kế toán áp dụng cho hợp tác xã, liên hiệp hợp tác xã, gửi cơ quan đăng ký hợp tác xã, Phòng Tài chính - kế hoạch thuộc Ủy ban nhân dân cấp huyện và Chi cục Thuế (quận, huyện), Chi cục hoặc Phòng Tài chính doanh nghiệp thuộc Sở Tài chính.
+
+ 2. Ủy ban nhân dân huyện có trách nhiệm tổng hợp báo cáo tài chính của các hợp tác xã trên địa bàn gửi Sở Kế hoạch và Đầu tư. Sở Kế hoạch và Đầu tư chủ trì, phối hợp với các cơ quan liên quan tổng hợp, phân tích tình hình hoạt động kinh doanh của các hợp tác xã, liên hiệp hợp tác xã gửi Bộ Kế hoạch và Đầu tư, Bộ Tài chính (Cục Tài chính doanh nghiệp) và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương. Điều 12.4.TT.1.25. Công khai tài chính:
+
+(Điều 25 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
+
+ 1. Ngoài các báo cáo dùng để công khai tài chính theo quy định của pháp luật về kế toán, chủ tịch hội đồng quản trị hợp tác xã, liên hiệp hợp tác xã có trách nhiệm công khai tình hình tài chính hàng năm cho thành viên, hợp tác xã thành viên và trước đại hội thành viên. Nội dung chủ yếu báo cáo công khai tài chính gồm:
+
+ - Tổng thu: Các nguồn thu cụ thể.
+
+ - Tổng chi: Các khoản chi cụ thể.
+
+ Chi tiết thu, chi từng ngành nghề; loại dịch vụ, sản phẩm; kết quả lãi, lỗ của các hoạt động trên.
+
+ - Kết quả phân phối thu nhập, xử lý lỗ.
+
+ - Các khoản công nợ trong hợp tác xã, liên hiệp hợp tác xã: Nợ cũ, nợ mới phát sinh, nợ quá hạn, nợ đến hạn và nợ phải thu khó đòi.
+
+ - Kết quả kiểm kê tài sản, vốn của hợp tác xã, liên hiệp hợp tác xã.
+
+ 2. Hình thức và thời hạn công khai tài chính
+
+ a) Việc công khai tài chính được thực hiện theo các hình thức:
+
+ - Phát hành ấn phẩm;
+
+ - Thông báo bằng văn bản;
+
+ - Niêm yết;
+
+ - Các hình thức khác theo quy định của pháp luật.
+
+ b) Hợp tác xã, liên hiệp hợp tác xã phải công khai tài chính năm trong thời hạn 90 ngày, kể từ ngày kết thúc kỳ kế toán năm.Điều 12.4.TT.1.26. Bàn giao công tác quản lý tài chính:
+
+(Điều 26 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
+
+ Khi thực hiện bàn giao giữa hội đồng quản trị nhiệm kỳ trước cho hội đồng quản trị kế nhiệm hoặc giữa chủ tịch hội đồng quản trị nhiệm kỳ trước cho chủ tịch hội đồng quản trị kế nhiệm hoặc giữa kế toán trưởng cũ cho kế toán trưởng mới phải lập Biên bản bàn giao, có xác nhận của ban kiểm soát, kiểm soát viên của hợp tác xã, liên hiệp hợp tác xã và tuân thủ các quy định của pháp luật về chế độ quản lý tài sản, tài chính. Hội đồng quản trị, chủ tịch hội đồng quản trị và kế toán trưởng cũ chịu trách nhiệm những phần việc đã làm; hội đồng quản trị, chủ tịch hội đồng quản trị và kế toán trưởng mới phải kế thừa quyền hạn và trách nhiệm hợp pháp về quản lý tài chính, tài sản của hợp tác xã kể từ ngày nhận bàn giao.Điều 12.4.TT.1.27. Kiểm tra tài chính kế toán:
+
+(Điều 27 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
+
+ 1. Kế toán trưởng hợp tác xã, liên hiệp hợp tác xã có trách nhiệm thường xuyên kiểm tra công tác kế toán nội bộ.
+
+ 2. Ban kiểm soát, kiểm soát viên có trách nhiệm giám sát, kiểm tra (kiểm toán nội bộ) những hoạt động về tài chính kế toán theo quy định của pháp luật và điều lệ hợp tác xã, liên hiệp hợp tác xã; kiểm tra, kiểm soát định mức quản lý sử dụng vật tư, tài sản, vốn, quỹ; quản lý thu, chi và phân phối thu nhập; kiểm tra việc thực hiện kế hoạch tài chính, chấp hành chính sách chế độ tài chính, kế toán, thống kê của Nhà nước.
+
+ 3. Phòng Tài chính Kế hoạch thuộc UBND cấp huyện có nhiệm vụ hướng dẫn, kiểm tra việc chấp hành các chế độ tài chính, kế toán của hợp tác xã, liên hiệp hợp tác xã.Điều 12.4.TT.1.28. Quản lý hồ sơ chứng từ
+
+(Điều 28 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
+
+ Hợp tác xã, liên hiệp hợp tác xã phải thực hiện chế độ quản lý, lưu giữ tài liệu, chứng từ, hồ sơ tài chính, kế toán theo quy định của pháp luật có liên quan.Điều 12.4.LQ.11. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
+
+(Điều 11 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã là cá nhân đại diện cho hợp tác xã, liên hiệp hợp tác xã thực hiện các quyền, nghĩa vụ phát sinh từ giao dịch của hợp tác xã, liên hiệp hợp tác xã; đại diện cho hợp tác xã, liên hiệp hợp tác xã với tư cách người yêu cầu giải quyết việc dân sự, nguyên đơn, bị đơn, người có quyền, nghĩa vụ liên quan trước Trọng tài, Tòa án và quyền, nghĩa vụ khác theo quy định của pháp luật.
+
+2. Hợp tác xã, liên hiệp hợp tác xã có thể có một hoặc nhiều người đại diện theo pháp luật, số lượng, chức danh, quyền, nghĩa vụ của người đại diện theo pháp luật; phân chia quyền, nghĩa vụ người đại diện theo pháp luật trong trường hợp hợp tác xã, liên hiệp hợp tác xã có nhiều hơn một người đại diện theo pháp luật thực hiện theo quy định của Điều lệ.
+
+3. Hợp tác xã, liên hiệp hợp tác xã phải bảo đảm luôn có ít nhất một người đại diện theo pháp luật cư trú tại Việt Nam. Trường hợp hợp tác xã, liên hiệp hợp tác xã chỉ còn một người đại diện theo pháp luật mà người này trong vòng 30 ngày không thực hiện hoặc không thực hiện được quyền, nghĩa vụ của người đại diện theo pháp luật và không ủy quyền cho người khác thực hiện quyền, nghĩa vụ của người đại diện theo pháp luật thì chậm nhất 15 ngày kể từ ngày hết thời hạn nêu trên, hợp tác xã, liên hiệp hợp tác xã phải tổ chức Đại hội thành viên bầu người đại diện theo pháp luật.
+
+4. Tòa án, cơ quan có thẩm quyền tiến hành tố tụng khác có quyền chỉ định người đại diện theo pháp luật tham gia tố tụng theo quy định của pháp luật.
+
+Điều 12.4.LQ.12. Chế độ lưu trữ tài liệu
+
+(Điều 12 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Hợp tác xã, liên hiệp hợp tác xã phải lưu trữ theo quy định của pháp luật tài liệu sau:
+
+a) Điều lệ và các quy chế của hợp tác xã, liên hiệp hợp tác xã; sổ đăng ký thành viên chính thức, thành viên liên kết góp vốn;
+
+b) Giấy chứng nhận đăng ký hợp tác xã; văn bằng bảo hộ quyền sở hữu trí tuệ; giấy chứng nhận đăng ký chất lượng sản phẩm hàng hóa; giấy phép kinh doanh ngành, nghề có điều kiện và giấy tờ khác có liên quan;
+
+c) Tài liệu, giấy xác nhận quyền sở hữu, quyền sử dụng tài sản của hợp tác xã, liên hiệp hợp tác xã;
+
+d) Giấy chứng nhận phần vốn góp của thành viên chính thức, thành viên liên kết góp vốn; biên bản, nghị quyết của hội nghị thành lập, Đại hội thành viên, Hội đồng quản trị; các quyết định của hợp tác xã, liên hiệp hợp tác xã;
+
+đ) Báo cáo tài chính, sổ kế toán, chứng từ kế toán và tài liệu kế toán khác;
+
+e) Kết luận của cơ quan thanh tra, kiểm tra, báo cáo kiểm toán (nếu có);
+
+g) Tài liệu khác theo quy định của Điều lệ.
+
+2. Tổ hợp tác phải lưu trữ theo quy định của pháp luật các tài liệu sau:
+
+a) Hợp đồng hợp tác;
+
+b) Giấy chứng nhận đăng ký tổ hợp tác (nếu có);
+
+c) Sổ ghi chép về việc đóng góp của thành viên tổ hợp tác;
+
+d) Tài liệu khác theo quy định của hợp đồng hợp tác.
 
 Điều 12.4.LQ.13. Hệ thống thông tin quốc gia về hợp tác xã
 
-**Chỉ mục:** 13
+(Điều 13 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100001300000000000000000
+1. Hệ thống thông tin quốc gia về hợp tác xã bao gồm: Cổng thông tin quốc gia về hợp tác xã; cơ sở dữ liệu về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; cơ sở dữ liệu liên quan và hạ tầng kỹ thuật hệ thống.
 
-**ID:** dk_00013321
+2. Hệ thống thông tin quốc gia về hợp tác xã được xây dựng thống nhất từ Trung ương đến địa phương; được chuẩn hóa để cập nhật, khai thác và quản lý bằng công nghệ thông tin.
 
----
+3. Bộ trưởng Bộ Kế hoạch và Đầu tư quy định về nội dung thông tin, việc cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã.
 
+Điều 12.4.TT.7.4. Nguyên tắc thực hiện
 
-### Điều 12.4.TT.7.4. Nguyên tắc thực hiện
+(Điều 4 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-*Nội dung chưa có sẵn*
+ 1. Công tác xây dựng, cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã được thực hiện thống nhất, đồng bộ, khoa học, phản ánh đầy đủ, chính xác và kịp thời thông tin của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; bảo đảm tập trung tối đa nguồn lực, rút ngắn thời gian trong việc thu thập, chỉnh sửa, cập nhật, khai thác thông tin.
 
-**Chỉ mục:** 4
+ 2. Cơ sở dữ liệu về hợp tác xã được lưu trữ, bảo mật, bảo đảm an ninh, an toàn thông tin theo quy định của pháp luật; việc xây dựng, quản lý, sử dụng, khai thác tuân thủ các quy định của pháp luật có liên quan.Điều 12.4.TT.7.5. Nội dung thông tin
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090000400
+(Điều 5 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**ID:** dk_00013322
+ 1. Đối với tổ hợp tác: Thực hiện cập nhật các trường thông tin tại Mẫu VII-1 Phụ lục VII kèm theo Thông tư này để chuẩn hóa thông tin đầu vào, quản lý thông tin, dữ liệu của Cơ sở dữ liệu về hợp tác xã.
 
----
+ 2. Đối với hợp tác xã: Thực hiện cập nhật các trường thông tin tại Mẫu VII-2 Phụ lục VII kèm theo Thông tư này để chuẩn hóa thông tin đầu vào, quản lý thông tin, dữ liệu của Cơ sở dữ liệu về hợp tác xã.
 
+ 3. Đối với liên hiệp hợp tác xã: Thực hiện cập nhật các trường thông tin tại Mẫu VII-3 Phụ lục VII kèm theo Thông tư này để chuẩn hóa thông tin đầu vào, quản lý thông tin, dữ liệu của Cơ sở dữ liệu về hợp tác xã.
 
-### Điều 12.4.TT.7.5. Nội dung thông tin
+ 4. Đối với cơ quan đăng ký kinh doanh các cấp: Thực hiện cập nhật các trường thông tin tại Mẫu VII-4 Phụ lục VII kèm theo Thông tư này để chuẩn hóa thông tin đầu vào, quản lý thông tin, dữ liệu của Cơ sở dữ liệu về hợp tác xã.Điều 12.4.TT.7.6. Cập nhật thông tin của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-*Nội dung chưa có sẵn*
+(Điều 6 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Chỉ mục:** 5
+ 1. Chậm nhất vào ngày 15/12 hằng năm, tổ hợp tác cập nhật thông tin theo biểu tại Mẫu VII-1 Phụ lục VII, hợp tác xã cập nhật thông tin theo biểu tại Mẫu VII-2 Phụ lục VII, liên hiệp hợp tác xã cập nhật thông tin theo biểu tại Mẫu VII-3 Phụ lục VII.
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090000500
+ 2. Số liệu cập nhật thông tin tính từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 12 của năm cập nhật.Điều 12.4.TT.7.7. Cập nhật thông tin của cơ quan đăng ký kinh doanh các cấp
 
-**ID:** dk_00013323
+(Điều 7 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+ 1. Chậm nhất vào ngày 18/12 hằng năm, cơ quan đăng ký kinh doanh cấp huyện cập nhật thông tin theo biểu tại Mẫu VII-4 Phụ lục VII gửi cơ quan đăng ký kinh doanh cấp tỉnh.
 
+ 2. Chậm nhất vào ngày 21/12 hằng năm, cơ quan đăng ký kinh doanh cấp tỉnh cập nhật thông tin theo biểu tại Mẫu VII-4 Phụ lục VII gửi Bộ Kế hoạch và Đầu tư.
 
-### Điều 12.4.TT.7.6. Cập nhật thông tin của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+ 3. Số liệu cập nhật thông tin tính từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 12 của năm cập nhật.Điều 12.4.TT.7.8. Khai thác thông tin trên Hệ thống thông tin quốc gia về hợp tác xã
 
-Điều 12.4.TT.7.6. Cập nhật thông tin của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+(Điều 8 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Chỉ mục:** 6
+ 1. Bộ Kế hoạch và Đầu tư sử dụng thông tin từ Cơ sở dữ liệu về hợp tác xã để tổng hợp, phân tích các nội dung thuộc lĩnh vực quản lý nhà nước về hợp tác xã, phục vụ sự lãnh đạo, chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ; kết nối, chia sẻ dữ liệu từ Cơ sở dữ liệu về hợp tác xã với các hệ thống thông tin khác và khai thác thông tin theo quy định của pháp luật.
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090000600
+ 2. Bộ, ngành, địa phương được khai thác, sử dụng dữ liệu tổng hợp, phân tích chung, dữ liệu về hợp tác xã của bộ, ngành, địa phương mình trong Cơ sở dữ liệu về hợp tác xã; các dữ liệu này được chia sẻ mặc định để phục vụ công tác chỉ đạo, điều hành theo chức năng, nhiệm vụ.
 
-**ID:** dk_00013324
+ 3. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được khai thác dữ liệu của hệ thống; được truy cập, sử dụng và khai thác dữ liệu trên Hệ thống thông tin quốc gia về hợp tác xã đối với các dữ liệu dùng chung và tuân thủ việc khai thác, sử dụng theo quy định của pháp luật.Điều 12.4.TT.7.9. Quản lý Hệ thống thông tin quốc gia về hợp tác xã
 
----
+(Điều 9 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
+ 1. Bộ Kế hoạch và Đầu tư thực hiện tạo lập tài khoản truy cập cho cơ quan đăng ký kinh doanh cấp tỉnh và cơ quan quản lý Cơ sở dữ liệu về hợp tác xã tại các bộ, ngành liên quan có chức năng quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Cơ sở dữ liệu về hợp tác xã được lưu trữ trong Hệ thống thông tin quốc gia về hợp tác xã theo phân cấp quản lý và được sao lưu trên phương tiện lưu trữ chuyên dụng để dự phòng rủi ro.
 
-### Điều 12.4.TT.7.7. Cập nhật thông tin của cơ quan đăng ký kinh doanh các cấp
+ 2. Cơ quan đăng ký kinh doanh cấp tỉnh thực hiện tạo lập tài khoản truy cập cho cơ quan đăng ký kinh doanh cấp huyện.
 
-Điều 12.4.TT.7.7. Cập nhật thông tin của cơ quan đăng ký kinh doanh các cấp
+ 3. Cơ quan đăng ký kinh doanh cấp huyện thực hiện tạo lập tài khoản truy cập cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 7
+ 4. Cơ quan quản lý Cơ sở dữ liệu về hợp tác xã có trách nhiệm tạo lập tài khoản truy cập, thực hiện cấp, hạn chế, mở rộng, khóa hoặc hủy quyền truy cập của tài khoản và thực hiện giao nhiệm vụ bằng văn bản cho cán bộ, công chức, viên chức được giao quản lý Cơ sở dữ liệu về hợp tác xã.
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090000700
+ 5. Cán bộ, công chức, viên chức khi được giao nhiệm vụ có trách nhiệm truy cập vào tài khoản đã được cấp để cập nhập thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo từng ngành, lĩnh vực, địa phương vào Cơ sở dữ liệu về hợp tác xã; thông tin phải đầy đủ, chính xác theo mẫu đã được cấp có thẩm quyền quản lý xác nhận hoặc định dạng sẵn có trên Hệ thống thông tin quốc gia về hợp tác xã.
 
-**ID:** dk_00013325
+ 6. Trường hợp cán bộ, công chức, viên chức đang thực hiện nhiệm vụ quản lý Cơ sở dữ liệu về hợp tác xã chuyển đổi vị trí công tác đến cơ quan, đơn vị khác thì trong thời hạn 05 ngày làm việc, cơ quản lý Cơ sở dữ liệu về hợp tác xã theo phân cấp có trách nhiệm thực hiện khóa tài khoản truy cập vào Cơ sở dữ liệu về hợp tác xã của cán bộ, công chức, viên chức đó và chuyển giao nhiệm vụ cho cán bộ, công chức, viên chức phụ trách khác.
 
----
+ 7. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã giải thể thì cơ quan quản lý Cơ sở dữ liệu về hợp tác xã theo phân cấp thực hiện việc hủy quyền truy cập tài khoản của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
+ 8. Người đứng đầu cơ quan quản lý Cơ sở dữ liệu về hợp tác xã có trách nhiệm giao nhiệm vụ bằng văn bản cho cán bộ, công chức, viên chức thực hiện nhiệm vụ quản lý Cơ sở dữ liệu về hợp tác xã.Điều 12.4.TT.7.10. Kết nối, chia sẻ thông tin
 
-### Điều 12.4.TT.7.8. Khai thác thông tin trên Hệ thống thông tin quốc gia về hợp tác xã
+(Điều 10 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-Điều 12.4.TT.7.8. Khai thác thông tin trên Hệ thống thông tin quốc gia về hợp tác xã
+ 1. Bộ Kế hoạch và Đầu tư thiết lập và công bố các dịch vụ chia sẻ thông tin thuộc phạm vi Hệ thống thông tin quốc gia về hợp tác xã.
 
-**Chỉ mục:** 8
+ 2. Việc kết nối, chia sẻ thông tin giữa Hệ thống thông tin quốc gia về hợp tác xã với các hệ thống thông tin, cơ sở dữ liệu khác phải bảo đảm tuân thủ quy định về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090000800
+ Điều 12.4.TT.7.11. Trách nhiệm của cán bộ, công chức, viên chức được giao quản lý Cơ sở dữ liệu về hợp tác xã của bộ, ngành, địa phương
 
-**ID:** dk_00013326
+(Điều 11 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+ 1. Thông qua nghiệp vụ kỹ thuật, tổ chức việc bảo quản, lưu trữ cơ sở dữ liệu cửa cơ quan; kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu của cơ quan mình và Cơ sở dữ liệu về hợp tác xã theo quy định pháp luật.
 
+ 2. Cung cấp dữ liệu về hợp tác xã bảo đảm chính xác, kịp thời theo yêu cầu của cấp có thẩm quyền.
 
-### Điều 12.4.TT.7.9. Quản lý Hệ thống thông tin quốc gia về hợp tác xã
+ 3. Nghiên cứu, phát hiện các vấn đề chưa rõ hoặc mâu thuẫn trong Cơ sở dữ liệu về hợp tác xã và những vấn đề nảy sinh trong quá trình quản lý, báo cáo cấp có thẩm quyền quản lý cơ sở dữ liệu xem xét, xử lý.
 
-Điều 12.4.TT.7.9. Quản lý Hệ thống thông tin quốc gia về hợp tác xã
+ 4. Đôn đốc việc hoàn thiện đầy đủ các trường thông tin trong dữ liệu về hợp tác xã thuộc thẩm quyền quản lý của cơ quan, đơn vị mình.
 
-**Chỉ mục:** 9
+ 5. Học tập, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ phục vụ công tác quản lý Cơ sở dữ liệu về hợp tác xã theo yêu cầu công việc.
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090000900
+ 6. Chịu trách nhiệm bảo đảm bí mật, an toàn thông tin Cơ sở dữ liệu về hợp tác xã của bộ, ngành, địa phương; không tiết lộ, cung cấp thông tin tài khoản truy cập của cơ quan, đơn vị và tài khoản người dùng nếu không được sự đồng ý bằng văn bản của cơ quan có thẩm quyền; chịu trách nhiệm trước pháp luật và cơ quan, cấp có thẩm quyền về việc vi phạm các quy định về bảo đảm bí mật, an toàn thông tin.
 
-**ID:** dk_00013327
+ 7. Trường hợp vi phạm các quy định tại Thông tư này thì tùy theo tính chất và mức độ vi phạm sẽ bị xem xét, xử lý theo quy định của pháp luật.Điều 12.4.TT.7.12. Trách nhiệm của cơ quan, đơn vị có tài khoản truy cập
 
----
+(Điều 12 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
+ 1. Quản lý tài khoản được phân cấp; cấp, hạn chế, mở rộng hoặc hủy quyền truy cập vào Cơ sở dữ liệu về hợp tác xã theo phân cấp quản lý.
 
-### Điều 12.4.TT.7.10. Kết nối, chia sẻ thông tin
+ 2. Tổ chức thực hiện quản lý Cơ sở dữ liệu về hợp tác xã theo quy định tại Thông tư này và quy định của cấp có thẩm quyền; chấp hành sự chỉ đạo, kiểm tra và hướng dẫn nghiệp vụ về công tác quản lý Cơ sở dữ liệu về hợp tác xã của cơ quan cấp trên.
 
-*Nội dung chưa có sẵn*
+ 3. Đôn đốc, kiểm tra việc thực hiện các quy định về quản lý Cơ sở dữ liệu về hợp tác xã trong phạm vi quản lý; tham mưu xem xét, xử lý vi phạm cơ quan, đơn vị, cá nhân không cập nhật dữ liệu, có sai phạm trong cập nhật dữ liệu và bảo quản Cơ sở dữ liệu về hợp tác xã theo phân cấp quản lý.Điều 12.4.TT.7.13. Trách nhiệm của bộ, ngành, địa phương
 
-**Chỉ mục:** 10
+(Điều 13 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090001000
+ 1. Trách nhiệm của Bộ Kế hoạch và Đầu tư
 
-**ID:** dk_00013328
+ a) Chủ trì tổ chức, bảo đảm nguồn lực xây dựng, quản lý, vận hành, bảo trì, giám sát, nâng cấp hạ tầng kỹ thuật, phần mềm và biện pháp bảo đảm an toàn Hệ thống thông tin quốc gia về hợp tác xã.
 
----
+ b) Quản lý tài khoản quản trị, phân quyền cập nhật, kết nối, chia sẻ, khai thác dữ liệu trong Hệ thống thông tin quốc gia về hợp tác xã phục vụ hoạt động quản lý nhà nước theo chức năng, thẩm quyền.
 
+ c) Chủ trì, hướng dẫn tổ chức, cá nhân có liên quan cập nhật, khai thác, quản lý Hệ thống thông tin quốc gia về hợp tác xã và tổng hợp thông tin trong phạm vi cả nước.
 
-### Điều 12.4.TT.7.11. Trách nhiệm của cán bộ, công chức, viên chức được giao quản lý Cơ sở dữ liệu về hợp tác xã của bộ, ngành, địa phương
+ d) Chỉ đạo, hướng dẫn, kiểm tra định kỳ hoặc đột xuất việc cập nhật, khai thác và quản lý Cơ sở dữ liệu về hợp tác xã ở các bộ, ngành, địa phương; tổ chức tập huấn công tác cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã.
 
-Điều 12.4.TT.7.11. Trách nhiệm của cán bộ, công chức, viên chức được giao quản lý Cơ sở dữ liệu về hợp tác xã của bộ, ngành, địa phương
+ đ) Phối hợp với tổ chức, cá nhân có liên quan để xử lý những vấn đề phát sinh trong quá trình cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã.
 
-**Chỉ mục:** 11
+ 2. Trách nhiệm của các bộ, ngành, cơ quan liên quan
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090001100
+ a) Chỉ đạo, hướng dẫn tổ chức, cá nhân có liên quan báo cáo số liệu để cập nhật, khai thác và quản lý Cơ sở dữ liệu về hợp tác xã liên quan đến lĩnh vực phụ trách.
 
-**ID:** dk_00013329
+ b) Cung cấp thông tin về đơn vị, cá nhân đầu mối phụ trách Cơ sở dữ liệu về hợp tác xã; phối hợp với Bộ Kế hoạch và Đầu tư cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã theo chức năng, nhiệm vụ được giao.
 
----
+ c) Kiểm tra việc thực hiện các quy định tại Thông tư này về cập nhật, khai thác và quản lý Cơ sở dữ liệu về hợp tác xã liên quan đến ngành, lĩnh vực phụ trách.
 
+ d) Đảm bảo nguồn lực, hạ tầng kết nối, chia sẻ dữ liệu ổn định, thông suốt, đáp ứng các điều kiện, tiêu chuẩn kỹ thuật, cấp độ an toàn thông tin theo quy định để kết nối, chia sẻ dữ liệu trong Hệ thống thông tin quốc gia về hợp tác xã.
 
-### Điều 12.4.TT.7.12. Trách nhiệm của cơ quan, đơn vị có tài khoản truy cập
+ đ) Ngân hàng Nhà nước thu thập, tổng hợp thông tin đối với quỹ tín dụng nhân dân, ngân hàng hợp tác xã theo quy định của pháp luật về các tổ chức tín dụng; thực hiện việc kết nối, chia sẻ thông tin trên Hệ thống thông tin quốc gia về hợp tác xã.
 
-Điều 12.4.TT.7.12. Trách nhiệm của cơ quan, đơn vị có tài khoản truy cập
+ e) Các bộ, ngành, cơ quan liên quan thực hiện việc kết nối, chia sẻ thông tin chuyên ngành về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã (nếu có) trên Hệ thống thông tin quốc gia về hợp tác xã.
 
-**Chỉ mục:** 12
+ 3. Trách nhiệm của các địa phương
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090001200
+ a) Chỉ đạo, hướng dẫn tổ chức, cá nhân có liên quan báo cáo số liệu để cập nhật, khai thác và quản lý Cơ sở dữ liệu về hợp tác xã tại địa phương.
 
-**ID:** dk_00013330
+ b) Cung cấp thông tin về đơn vị, cá nhân đầu mối phụ trách Cơ sở dữ liệu về hợp tác xã; phối hợp với Bộ Kế hoạch và Đầu tư cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã theo chức năng, nhiệm vụ được giao.
 
----
+ c) Kiểm tra việc thực hiện các quy định tại Thông tư này về cập nhật, khai thác và quản lý Cơ sở dữ liệu về hợp tác xã tại địa phương.
 
+ d) Đảm bảo nguồn lực, hạ tầng kết nối, chia sẻ dữ liệu ổn định, thông suốt, đáp ứng các điều kiện, tiêu chuẩn kỹ thuật, cấp độ an toàn thông tin theo quy định để kết nối, chia sẻ dữ liệu trong Hệ thống thông tin quốc gia về hợp tác xã.
 
-### Điều 12.4.TT.7.13. Trách nhiệm của bộ, ngành, địa phương
+ đ) Tổ chức thực hiện việc cập nhật dữ liệu theo quy định tại Thông tư này; chịu trách nhiệm về tính kịp thời, đầy đủ, chính xác của thông tin được cập nhật trong Hệ thống thông tin quốc gia về hợp tác xã.
 
-Điều 12.4.TT.7.13. Trách nhiệm của bộ, ngành, địa phương
+ e) Tổng hợp tình hình hoạt động của Quỹ hỗ trợ phát triển hợp tác xã hoạt động theo mô hình hợp tác xã tại địa phương và cung cấp thông tin trên Hệ thống thông tin quốc gia về hợp tác xã (nếu có).
 
-**Chỉ mục:** 13
+ Điều 12.4.LQ.14. Công bố thông tin cho thành viên hợp tác xã, liên hiệp hợp tác xã
 
-**Mã phân cấp:** 120040000000000010000130000000000000000000802874600090001300
+(Điều 14 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**ID:** dk_00013331
+1. Thông tin công bố cho thành viên bao gồm:
 
----
+a) Điều lệ và quy chế nội bộ;
 
+b) Nghị quyết của Đại hội thành viên, Hội đồng quản trị, quyết định của Giám đốc (Tổng giám đốc);
 
-### Điều 12.4.LQ.14. Công bố thông tin cho thành viên hợp tác xã, liên hiệp hợp tác xã
+c) Danh sách và tỷ lệ phần vốn góp của thành viên chính thức, thành viên liên kết góp vốn;
 
-Điều 12.4.LQ.14. Công bố thông tin cho thành viên hợp tác xã, liên hiệp hợp tác xã
+d) Báo cáo tài chính hằng năm;
 
-**Chỉ mục:** 14
+đ) Thông tin quản lý, sử dụng quỹ chung không chia và tài sản chung không chia;
 
-**Mã phân cấp:** 1200400000000000100001400000000000000000
+e) Thông tin về giáo dục, đào tạo, phổ biến, bồi dưỡng cho thành viên, người lao động;
 
-**ID:** dk_00013332
+g) Thông tin khác phải công khai theo quy định của Điều lệ.
 
----
-
-
-### Điều 12.4.LQ.15. Sổ đăng ký thành viên của hợp tác xã, liên hiệp hợp tác xã
+2. Thông tin quy định tại khoản 1 Điều này phải được niêm yết công khai tại trụ sở của hợp tác xã, liên hiệp hợp tác xã chậm nhất là 05 ngày làm việc kể từ ngày ban hành văn bản và được cung cấp cho thành viên khi có yêu cầu. Thời gian niêm yết thông tin ít nhất 30 ngày liên tục kể từ ngày niêm yết.
 
 Điều 12.4.LQ.15. Sổ đăng ký thành viên của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 15
+(Điều 15 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000100001500000000000000000
+1. Sổ đăng ký thành viên chính thức, thành viên liên kết góp vốn là văn bản giấy hoặc dữ liệu điện tử bao gồm các nội dung chủ yếu sau đây:
 
-**ID:** dk_00013333
+a) Tên, mã số, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Họ, tên, địa chỉ liên lạc, quốc tịch, số định danh cá nhân hoặc số giấy tờ pháp lý của cá nhân đối với thành viên là cá nhân; tên, mã số hoặc số giấy tờ pháp lý của tổ chức, địa chỉ trụ sở chính đối với thành viên là tổ chức;
 
+c) Phần vốn góp, tỷ lệ phần vốn góp đã góp, thời điểm góp vốn, loại tài sản góp vốn, số lượng, giá trị của từng loại tài sản góp vốn của từng thành viên chính thức, thành viên liên kết góp vốn;
 
-### Điều 12.4.LQ.16. Phân loại hợp tác xã
+d) Số và ngày cấp giấy chứng nhận phần vốn góp của từng thành viên chính thức, thành viên liên kết góp vốn.
 
-*Nội dung chưa có sẵn*
+2. Hợp tác xã, liên hiệp hợp tác xã quyết định về việc lập sổ đăng ký thành viên liên kết không góp vốn.
 
-**Chỉ mục:** 16
+Điều 12.4.LQ.16. Phân loại hợp tác xã
 
-**Mã phân cấp:** 1200400000000000100001600000000000000000
+(Điều 16 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**ID:** dk_00013334
+1. Hợp tác xã được phân loại siêu nhỏ, nhỏ, vừa, lớn theo tiêu chí số lượng thành viên chính thức và một trong hai tiêu chí sau:
 
----
+a) Doanh thu;
 
+b) Tổng nguồn vốn.
 
-### Điều 12.4.TT.2.3. Phân loại hợp tác xã nông nghiệp
+2. Hợp tác xã siêu nhỏ, nhỏ, vừa, lớn được xác định theo lĩnh vực hoạt động.
 
-*Nội dung chưa có sẵn*
+3. Chính phủ quy định chi tiết Điều này.
 
-**Chỉ mục:** 3
+Điều 12.4.TT.2.3. Phân loại hợp tác xã nông nghiệp
 
-**Mã phân cấp:** 120040000000000010000160000000000000000000802616000090000300
+(Điều 3 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
-**ID:** dk_00013335
+ 1. Hợp tác xã trồng trọt: Là hợp tác xã có hoạt động sản xuất trồng trọt (trồng cây hàng năm, cây lâu năm; nhân và chăm sóc cây giống nông nghiệp) và dịch vụ trồng trọt có liên quan; dịch vụ sau thu hoạch; xử lý hạt giống để nhân giống.
 
----
+ 2. Hợp tác xã chăn nuôi: Là hợp tác xã có hoạt động sản xuất chăn nuôi (trâu, bò, ngựa, lừa, la, dê, cừu, lợn, gia cầm và chăn nuôi khác); dịch vụ chăn nuôi có liên quan; săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan.
 
+ 3. Hợp tác xã lâm nghiệp: Là hợp tác xã có hoạt động sản xuất lâm nghiệp (trồng và chăm sóc rừng; khai thác gỗ và lâm sản khác; thu nhặt sản phẩm từ rừng không phải gỗ và lâm sản khác) và dịch vụ lâm nghiệp có liên quan.
 
-### Điều 12.4.TT.2.4. Tiêu chí đánh giá hợp tác xã nông nghiệp
+ 4. Hợp tác xã thủy sản: Là hợp tác xã có hoạt động nuôi trồng thuỷ sản (nuôi trồng thuỷ sản biển, nội địa; sản xuất giống thuỷ sản); khai thác thủy sản (khai thác thủy sản biển và nội địa, bao gồm cả bảo quản thuỷ sản ngay trên tàu đánh cá).
 
-Điều 12.4.TT.2.4. Tiêu chí đánh giá hợp tác xã nông nghiệp
+ 5. Hợp tác xã diêm nghiệp: Là hợp tác xã có hoạt động khai thác muối (khai thác muối mỏ, đập vụn muối và sàng muối; sản xuất muối từ nước biển, nước mặn ở hồ hoặc nước mặn tự nhiên khác; nghiền, tẩy rửa, và tinh chế muối phục vụ cho sản xuất) và dịch vụ có liên quan đến phục vụ khai thác muối.
 
-**Chỉ mục:** 4
+ 6. Hợp tác xã nước sạch nông thôn: Là hợp tác xã có hoạt động khai thác, xử lý và cung cấp nước sạch (khai thác nước từ sông, hồ, ao; thu nước mưa; thanh lọc nước để cung cấp; khử muối của nước biển để sản xuất nước như là sản phẩm chính; phân phối nước thông qua đường ống, bằng xe hoặc các phương tiện khác) cho nhu cầu sinh hoạt trên địa bàn nông thôn.
 
-**Mã phân cấp:** 120040000000000010000160000000000000000000802616000090000400
+ 7. Hợp tác xã nông nghiệp tổng hợp: Là hợp tác xã có hoạt động từ hai lĩnh vực hoạt động của các hợp tác xã được phân loại tại Khoản 1, Khoản 2, Khoản 3, Khoản 4, Khoản 5, Khoản 6 Điều này trở lên.
 
-**ID:** dk_00013336
+ Khi tiến hành phân loại, các hợp tác xã căn cứ Quyết định số 10/2017/QĐ-TTg ngày 23 tháng 01 năm 2007 ban hành Hệ thống ngành kinh tế của Việt Nam (190) và văn bản hướng dẫn thi hành của Bộ Kế hoạch và Đầu tư để xác định các hoạt động chi tiết chưa được nêu cụ thể trong phân loại hợp tác xã trên.Điều 12.4.TT.2.4. Tiêu chí đánh giá hợp tác xã nông nghiệp
 
----
+(Điều 4 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
+ 1. Hợp tác xã nông nghiệp được đánh giá theo 06 tiêu chí:
 
-### Điều 12.4.TT.2.5. Phương pháp và trình tự đánh giá hợp tác xã nông nghiệp
+ a) Tiêu chí 1: Doanh thu và kết quả hoạt động sản xuất kinh doanh trong năm của hợp tác xã;
 
-Điều 12.4.TT.2.5. Phương pháp và trình tự đánh giá hợp tác xã nông nghiệp
+ b) Tiêu chí 2: Lợi ích của các thành viên hợp tác xã;
 
-**Chỉ mục:** 5
+ c) Tiêu chí 3: Vốn hoạt động của hợp tác xã;
 
-**Mã phân cấp:** 120040000000000010000160000000000000000000802616000090000500
+ d) Tiêu chí 4: Quy mô thành viên ảnh hưởng tích cực đến cộng đồng;
 
-**ID:** dk_00013337
+ đ) Tiêu chí 5: Hợp tác xã được khen thưởng trong năm;
 
----
+ e) Tiêu chí 6: Mức độ hài lòng của thành viên đối với hợp tác xã.
 
+ 2. Các tiêu chí và điểm chấm chi tiết được quy định cụ thể tại Phụ lục 1 ban hành kèm theo Thông tư này.Điều 12.4.TT.2.5. Phương pháp và trình tự đánh giá hợp tác xã nông nghiệp
 
-### Điều 12.4.TT.2.6. Xếp loại hợp tác xã nông nghiệp
+(Điều 5 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
-*Nội dung chưa có sẵn*
+ 1. Phương pháp đánh giá được thực hiện theo hình thức hợp tác xã tự chấm điểm các tiêu chí (theo Phụ lục 1 ban hành kèm theo Thông tư này).
 
-**Chỉ mục:** 6
+ 2. Trình tự đánh giá xếp loại hợp tác xã nông nghiệp được thực hiện hàng năm theo 05 bước sau:
 
-**Mã phân cấp:** 120040000000000010000160000000000000000000802616000090000600
+ a) Bước 1: Lấy ý kiến thành viên về mức độ hài lòng đối với hợp tác xã
 
-**ID:** dk_00013338
+ Đối tượng thực hiện: Hội đồng quản trị hợp tác xã nông nghiệp.
 
----
+ Đối tượng lấy ý kiến: Các thành viên dự đại hội (hoặc đại hội đại biểu) thành viên hàng năm hoặc nhiệm kỳ tổ chức trong quý I của năm.
 
+ Cách tiến hành: Hội đồng quản trị hợp tác xã nông nghiệp phát phiếu đánh giá mức độ hài lòng của thành viên hợp tác xã (theo Phụ lục 2 ban hành kèm theo Thông tư này) cho thành viên dự đại hội, thu thập phiếu đánh giá, rà soát phiếu đánh giá, chuyển phiếu đánh giá chưa đúng hoặc chưa đầy đủ để hướng dẫn thành viên đánh giá lại, thu thập phiếu đánh giá hợp lệ, tổng hợp, tính điểm đánh giá bình quân của thành viên (bằng tổng điểm đánh giá của các phiếu hợp lệ chia cho số thành viên có phiếu đánh giá hợp lệ).
 
-### Điều 12.4.LQ.17. Nguyên tắc thực hiện chính sách
+ b) Bước 2: Hợp tác xã nông nghiệp tổ chức tự chấm điểm
 
-*Nội dung chưa có sẵn*
+ Đối tượng thực hiện: Hội đồng quản trị hợp tác xã nông nghiệp.
 
-**Chỉ mục:** 17
+ Đối tượng kiểm tra: Ban Kiểm soát (hoặc kiểm soát viên).
 
-**Mã phân cấp:** 1200400000000000200001700000000000000000
+ Cách tiến hành: Hội đồng quản trị hợp tác xã nông nghiệp tổ chức tự chấm điểm và tổng hợp kết quả vào bảng tự chấm điểm của hợp tác xã hoạt động trong lĩnh vực nông nghiệp (theo Phụ lục 3 ban hành kèm theo Thông tư này), gửi Ban Kiểm soát (hoặc kiểm soát viên) để kiểm tra.
 
-**ID:** dk_00013340
+ c) Bước 3: Hợp tác xã nông nghiệp gửi bảng tự chấm điểm
 
----
+ Đối tượng thực hiện: Hội đồng quản trị hợp tác xã nông nghiệp.
 
+ Đối tượng nhận: Phòng Nông nghiệp và Phát triển nông thôn hoặc Phòng Kinh tế (sau đây gọi chung là Phòng Nông nghiệp và Phát triển nông thôn) cấp huyện.
 
-### Điều 12.4.LQ.18. Tiêu chí thụ hưởng chính sách
+ Thời gian thực hiện: Trước ngày 01 tháng 4 hàng năm.
 
-*Nội dung chưa có sẵn*
+ d) Bước 4: Báo cáo kết quả cho cơ quan quản lý nhà nước cấp huyện, tỉnh và thông báo công khai kết quả tự chấm điểm và xếp loại hợp tác xã cho thành viên
 
-**Chỉ mục:** 18
+ Đối với việc Báo cáo kết quả cho cơ quan quản lý nhà nước cấp huyện, tỉnh:
 
-**Mã phân cấp:** 1200400000000000200001800000000000000000
+ Đối tượng thực hiện báo cáo: Phòng Nông nghiệp và Phát triển nông thôn. Đối tượng nhận báo cáo: Ủy ban nhân dân cấp huyện và Sở Nông nghiệp và Phát triển nông thôn (Chi cục Phát triển nông thôn). Nội dung báo cáo: Danh sách xếp loại các hợp tác xã nông nghiệp trên địa bàn (về số lượng từng loại hợp tác xã nông nghiệp đạt loại tốt, khá, trung bình, yếu và số lượng hợp tác xã không xếp loại). Cách tiến hành: Phòng Nông nghiệp và Phát triển nông thôn đôn đốc, hướng dẫn các hợp tác xã nông nghiệp tự chấm điểm (trường hợp cần thiết phải xem xét, kiểm tra lại mức độ phù hợp của bảng tự chấm điểm của hợp tác xã, Phòng Nông nghiệp và Phát triển nông thôn làm việc với hợp tác xã để hướng dẫn hợp tác xã rà soát chấm điểm lại cho đúng với nội dung của Thông tư này); tổng hợp để báo cáo. Thời gian báo cáo: Trước ngày 10 tháng 4 hàng năm.
 
-**ID:** dk_00013341
+ Đối với việc thông báo công khai kết quả tự chấm điểm và xếp loại hợp tác xã cho thành viên:
 
----
+ Đối tượng thông báo: Hội đồng quản trị hợp tác xã nông nghiệp. Đối tượng nhận thông báo: Thành viên hợp tác xã nông nghiệp. Thời gian và cách tiến hành: Đến hết 15 tháng 4 hàng năm, nếu không có ý kiến của Phòng Nông nghiệp và Phát triển nông thôn, hội đồng quản trị hợp tác xã nông nghiệp thông báo công khai kết quả tự chấm điểm và xếp loại hợp tác xã cho các thành viên.
 
+ đ) Bước 5: Báo cáo kết quả cho Bộ Nông nghiệp và Phát triển nông thôn
 
-### Điều 12.4.LQ.19. Nguồn vốn thực hiện chính sách
+ Đối tượng thực hiện báo cáo: Sở Nông nghiệp và Phát triển nông thôn (Chi cục Phát triển nông thôn).
 
-*Nội dung chưa có sẵn*
+ Đối tượng nhận báo cáo: Bộ Nông nghiệp và Phát triển nông thôn (Cục Kinh tế hợp tác và Phát triển nông thôn).
 
-**Chỉ mục:** 19
+ Nội dung báo cáo: Danh sách các hợp tác xã nông nghiệp trên địa bàn cấp tỉnh đã xếp loại (tốt, khá, trung bình, yếu) và hợp tác xã không xếp loại.
 
-**Mã phân cấp:** 1200400000000000200001900000000000000000
+ Thời gian báo cáo: Trước ngày 15 tháng 4 hàng năm.Điều 12.4.TT.2.6. Xếp loại hợp tác xã nông nghiệp
 
-**ID:** dk_00013342
+(Điều 6 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
----
+ 1. Hợp tác xã nông nghiệp được xếp loại theo 04 mức sau:
 
+ a) Hợp tác xã hoạt động tốt: Tổng số điểm đạt từ 80 điểm đến 100 điểm;
 
-### Điều 12.4.LQ.20. Chính sách phát triển nguồn nhân lực, thông tin, tư vấn
+ b) Hợp tác xã hoạt động khá: Tổng số điểm đạt từ 65 điểm đến dưới 80 điểm;
+
+ c) Hợp tác xã hoạt động trung bình: Tổng số điểm đạt từ 50 điểm đến dưới 65 điểm;
+
+ d) Hợp tác xã hoạt động yếu: Tổng số điểm đạt dưới 50 điểm hoặc trong năm bị cơ quan có thẩm quyền xử phạt vi phạm hành chính trong hoạt động của hợp tác xã.
+
+ 2. Hợp tác xã mới thành lập và sản xuất kinh doanh chưa đủ 12 tháng trong năm thì không tự chấm điểm và xếp loại.Chương II
+
+CHÍNH SÁCH CỦA NHÀ NƯỚC VỀ PHÁT TRIỂN TỔ HỢP TÁC, HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+Điều 12.4.LQ.17. Nguyên tắc thực hiện chính sách
+
+(Điều 17 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Bảo đảm công khai, minh bạch về nội dung, đối tượng, trình tự, thủ tục, nguồn lực, mức hỗ trợ và kết quả thực hiện.
+
+2. Triển khai đồng bộ với Chương trình tổng thể về phát triển kinh tế tập thể, phù hợp với khả năng cân đối nguồn lực của Nhà nước ở từng thời kỳ.
+
+3. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đồng thời đáp ứng điều kiện của các mức khác nhau trong cùng một nội dung chính sách, cùng thời điểm theo quy định của Luật này và quy định khác của pháp luật có liên quan thì tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được lựa chọn mức hỗ trợ có lợi nhất.
+
+Điều 12.4.LQ.18. Tiêu chí thụ hưởng chính sách
+
+(Điều 18 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Hợp tác xã, liên hiệp hợp tác xã được xem xét thụ hưởng chính sách khi đáp ứng các tiêu chí sau đây:
+
+a) Không trong thời gian thi hành quyết định xử lý vi phạm hành chính do vi phạm các hành vi bị nghiêm cấm quy định tại khoản 2 Điều 7 của Luật này; không trong thời gian chấp hành bản án hình sự của Tòa án đã có hiệu lực pháp luật;
+
+b) Phát triển thành viên hoặc tăng tỷ lệ giá trị giao dịch nội bộ hoặc phát triển quỹ chung không chia, tài sản chung không chia hoặc thực hiện giáo dục, đào tạo, tập huấn, phổ biến, bồi dưỡng cho thành viên, người lao động hoặc mới thành lập tại địa bàn kinh tế - xã hội khó khăn, địa bàn kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật;
+
+c) Có báo cáo kiểm toán trong trường hợp nội dung chính sách có yêu cầu.
+
+2. Tổ hợp tác được xem xét thụ hưởng chính sách khi đáp ứng các tiêu chí sau đây:
+
+a) Có Giấy chứng nhận đăng ký tổ hợp tác;
+
+b) Không trong thời gian thi hành quyết định xử lý vi phạm hành chính do vi phạm các hành vi bị nghiêm cấm quy định tại khoản 2 Điều 7 của Luật này;
+
+c) Phát triển thành viên hoặc thực hiện giáo dục, đào tạo, tập huấn, phổ biến, bồi dưỡng cho thành viên, người lao động hoặc mới thành lập tại địa bàn kinh tế - xã hội khó khăn, địa bàn kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật.
+
+3. Trường hợp nhiều hợp tác xã, liên hiệp hợp tác xã cùng đáp ứng quy định tại khoản 1 Điều này, nhiều tổ hợp tác cùng đáp ứng quy định tại khoản 2 Điều này thì ưu tiên lựa chọn tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo các tiêu chí sau đây: Số lượng thành viên nhiều hơn; số lượng thành viên là người khuyết tật nhiều hơn; số lượng thành viên là đồng bào dân tộc thiểu số nhiều hơn; số lượng thành viên, người lao động tham gia bảo hiểm xã hội bắt buộc và bảo hiểm xã hội tự nguyện nhiều hơn; có phụ nữ làm quản lý, có nhiều thành viên là nữ hoặc sử dụng nhiều lao động nữ hơn; hoạt động tại địa bàn kinh tế - xã hội khó khăn, địa bàn kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật; tham gia liên kết hình thành chuỗi giá trị, cụm liên kết ngành, gắn với kinh tế xanh, kinh tế tuần hoàn, kinh tế tri thức, nông nghiệp hữu cơ, thích ứng với biến đổi khí hậu, chuyển đổi số vì mục tiêu phát triển bền vững; tổ chức hoặc tham gia các hoạt động lợi ích cộng đồng dân cư.
+
+4. Chính phủ quy định chi tiết Điều này.
+
+Điều 12.4.LQ.19. Nguồn vốn thực hiện chính sách
+
+(Điều 19 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Nguồn vốn từ ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước.
+
+2. Nguồn vốn từ miễn, giảm thuế, phí, lệ phí, tiền thuê đất, tiền sử dụng đất và các khoản phải nộp ngân sách nhà nước theo quy định của pháp luật.
+
+3. Nguồn vốn tín dụng ưu đãi theo quy định của pháp luật.
+
+4. Nguồn huy động, tài trợ hợp pháp từ cá nhân, tổ chức trong nước và nước ngoài.
 
 Điều 12.4.LQ.20. Chính sách phát triển nguồn nhân lực, thông tin, tư vấn
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000200002000000000000000000
+1. Xây dựng, triển khai nội dung đào tạo về kinh tế tập thể vào chương trình của một số cơ sở giáo dục đại học, chương trình đào tạo lý luận chính trị, chương trình bồi dưỡng quản lý nhà nước.
 
-**ID:** dk_00013343
+2. Xây dựng, triển khai các chương trình đào tạo, bồi dưỡng nâng cao năng lực cho thành viên, người lao động làm việc trong tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, cơ quan quản lý nhà nước, tổ chức đại diện và các cơ quan, tổ chức có liên quan.
 
----
+3. Hỗ trợ lương, thưởng và phúc lợi để thu hút người lao động có chất lượng cao làm việc tại tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
+4. Xây dựng, triển khai các chương trình truyền thông để nâng cao nhận thức, kiến thức quản trị và sản xuất, kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.LQ.21. Chính sách đất đai
+5. Hỗ trợ thông tin, tư vấn về pháp lý, tiếp cận các nguồn vốn và vấn đề khác trong quá trình thành lập, hoạt động, tổ chức lại, giải thể, phá sản đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; chuyển đổi tổ hợp tác thành hợp tác xã.
 
-*Nội dung chưa có sẵn*
+6. Xây dựng mạng lưới cung cấp dịch vụ tư vấn cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 21
+7. Nhân rộng mô hình hợp tác xã, liên hiệp hợp tác xã hoạt động hiệu quả.
 
-**Mã phân cấp:** 1200400000000000200002100000000000000000
+8. Hợp tác quốc tế trong đào tạo chính quy về kinh tế tập thể.
 
-**ID:** dk_00013344
+9. Chính phủ quy định chi tiết Điều này.
 
----
+Điều 12.4.LQ.21. Chính sách đất đai
 
+(Điều 21 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.22. Chính sách thuế, phí và lệ phí
+1. Trong quy hoạch, kế hoạch sử dụng đất, chính quyền địa phương ưu tiên bố trí quỹ đất cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thuê; ưu đãi hợp lý về giá và thời gian cho thuê đất đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chưa được hỗ trợ thuê đất theo quy định của pháp luật về đất đai và pháp luật có liên quan.
 
-*Nội dung chưa có sẵn*
+2. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thuê đất, đất có mặt nước của Nhà nước để sản xuất, kinh doanh thì được miễn, giảm tiền thuê đất, thuê đất có mặt nước; trường hợp thuê, thuê lại đất, đất có mặt nước của tổ chức, hộ gia đình, cá nhân để sản xuất, kinh doanh thì được Nhà nước hỗ trợ tiền thuê đất, thuê đất có mặt nước theo quy định của pháp luật về đất đai.
 
-**Chỉ mục:** 22
+3. Nhà nước tạo điều kiện để tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã sử dụng đất ổn định trong hoạt động sản xuất, kinh doanh theo quy định của pháp luật về đất đai.
 
-**Mã phân cấp:** 1200400000000000200002200000000000000000
+Điều 12.4.LQ.22. Chính sách thuế, phí và lệ phí
 
-**ID:** dk_00013345
+(Điều 22 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+1. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được hưởng mức ưu đãi thuế, ưu đãi phí và lệ phí cao nhất trong cùng lĩnh vực, ngành, nghề và địa bàn theo pháp luật về thuế, phí và lệ phí.
 
+2. Không thu lệ phí đăng ký đối với tổ hợp tác, không thu phí công bố nội dung đăng ký trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh.
 
-### Điều 12.4.LQ.23. Chính sách tiếp cận vốn, bảo hiểm
+3. Miễn, giảm thuế thu nhập doanh nghiệp theo quy định của pháp luật về thuế thu nhập doanh nghiệp đối với:
 
-*Nội dung chưa có sẵn*
+a) Thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã;
 
-**Chỉ mục:** 23
+b) Thu nhập của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tham gia liên kết với cá nhân, tổ chức khác hình thành chuỗi giá trị, cụm liên kết ngành, gắn với kinh tế xanh, kinh tế tuần hoàn, kinh tế tri thức vì mục tiêu phát triển bền vững;
 
-**Mã phân cấp:** 1200400000000000200002300000000000000000
+c) Trường hợp khác theo quy định của pháp luật về thuế thu nhập doanh nghiệp.
 
-**ID:** dk_00013346
+4. Miễn thuế thu nhập doanh nghiệp đối với phần thu nhập hình thành quỹ chung không chia, phần thu nhập hình thành tài sản chung không chia của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật về thuế thu nhập doanh nghiệp.
 
----
+5. Miễn, giảm lệ phí môn bài đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật về phí và lệ phí.
 
+6. Miễn lệ phí trước bạ đối với cá nhân, tổ chức khi chuyển quyền sử dụng đất, chuyển quyền sở hữu tài sản góp vốn vào hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật về phí và lệ phí.
 
-### Điều 12.4.LQ.24. Chính sách ứng dụng khoa học và công nghệ, đổi mới sáng tạo và chuyển đổi số
+Điều 12.4.LQ.23. Chính sách tiếp cận vốn, bảo hiểm
+
+(Điều 23 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được thụ hưởng chính sách tiếp cận vốn như sau:
+
+a) Vay vốn ưu đãi từ các tổ chức tín dụng theo quy định của pháp luật;
+
+b) Hỗ trợ vay vốn với lãi suất ưu đãi, hỗ trợ lãi suất sau đầu tư, bảo lãnh tín dụng đầu tư từ Quỹ hỗ trợ phát triển hợp tác xã theo quy định của Chính phủ;
+
+c) Ưu tiên tiếp cận nguồn vốn từ các quỹ phát triển khoa học và công nghệ, bảo vệ môi trường, thích ứng với biến đổi khí hậu và các định chế tài chính theo quy định của pháp luật vì mục tiêu phát triển bền vững;
+
+d) Hỗ trợ tăng cường năng lực tài chính cho hợp tác xã, liên hiệp hợp tác xã hoạt động trong lĩnh vực tài chính, ngân hàng;
+
+đ) Ưu tiên, hỗ trợ tham gia hoạt động xúc tiến đầu tư của các bộ, ngành, địa phương.
+
+2. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được hỗ trợ phí bảo hiểm đối với tài sản chung không chia tham gia bảo hiểm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật về kinh doanh bảo hiểm.
+
+3. Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã mà không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc thì khi tham gia bảo hiểm xã hội tự nguyện được Nhà nước hỗ trợ theo quy định của pháp luật về bảo hiểm xã hội.
+
+(Điều này có nội dung liên quan đến Điều 19.5.LQ.4. Nhiệm vụ của hoạt động khoa học và công nghệ; Điều 19.5.LQ.5. Nguyên tắc hoạt động khoa học và công nghệ; Điều 19.5.LQ.6. Chính sách của Nhà nước về phát triển khoa học và công nghệ; Điều 19.5.LQ.7. Ngày khoa học và công nghệ Việt Nam; Điều 19.5.LQ.8. Các hành vi bị cấm; Điều 19.5.LQ.9. Hình thức và phân loại tổ chức khoa học và công nghệ; Điều 19.5.LQ.10. Quy hoạch mạng lưới tổ chức khoa học và công nghệ công lập; Điều 19.5.LQ.11. Điều kiện thành lập, đăng ký hoạt động của tổ chức khoa học và công nghệ; Điều 19.5.LQ.12. Thẩm quyền, trình tự, thủ tục thành lập, sáp nhập, chia, tách, giải thể tổ chức khoa học và công nghệ; Điều 19.5.LQ.13. Quyền của tổ chức khoa học và công nghệ; Điều 19.5.LQ.14. Nghĩa vụ của tổ chức khoa học và công nghệ; Điều 19.5.LQ.15. Văn phòng đại diện, chi nhánh tại Việt Nam của tổ chức khoa học và công nghệ nước ngoài; Điều 19.5.LQ.16. Mục đích, nguyên tắc đánh giá, xếp hạng tổ chức khoa học và công nghệ; Điều 19.5.LQ.17. Đánh giá tổ chức khoa học và công nghệ phục vụ quản lý nhà nước; Điều 19.5.LQ.18. Tổ chức đánh giá độc lập; Điều 19.5.LQ.19. Chức danh nghiên cứu khoa học, chức danh công nghệ; Điều 19.5.LQ.20. Quyền của cá nhân hoạt động khoa học và công nghệ; Điều 19.5.LQ.21. Nghĩa vụ của cá nhân hoạt động khoa học và công nghệ; Điều 19.5.LQ.22. Đào tạo nhân lực, bồi dưỡng nhân tài về khoa học và công nghệ; Điều 19.5.LQ.23. Ưu đãi trong việc sử dụng nhân lực, nhân tài khoa học và công nghệ; Điều 19.5.LQ.24. Thu hút cá nhân hoạt động khoa học và công nghệ là người Việt Nam ở nước ngoài và chuyên gia nước ngoài; Điều 19.5.LQ.25. Nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.26. Đề xuất nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.27. Thẩm quyền phê duyệt, ký hợp đồng thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.28. Phương thức giao nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.29. Tuyển chọn tổ chức, cá nhân thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Điều 19.5.LQ.30. Nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước được giao trực tiếp; Điều 19.5.LQ.31. Nhiệm vụ khoa học và công nghệ được quỹ trong lĩnh vực khoa học và công nghệ xét tài trợ, cho vay, bảo lãnh vốn vay; Điều 19.5.LQ.32. Liên kết xác định và thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.33. Phân loại hợp đồng khoa học và công nghệ; Điều 19.5.LQ.34. Quyền, nghĩa vụ của bên đặt hàng theo hợp đồng nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.35. Quyền, nghĩa vụ của bên nhận đặt hàng thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.36. Giải quyết tranh chấp hợp đồng khoa học và công nghệ; Điều 19.5.LQ.37. Đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.38. Hội đồng khoa học và công nghệ chuyên ngành, tổ chức, chuyên gia tư vấn độc lập đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.39. Đăng ký, lưu giữ kết quả thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.40. Trách nhiệm tiếp nhận và tổ chức ứng dụng kết quả thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.41. Quyền sở hữu, quyền sử dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.42. Quyền tác giả đối với kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.43. Phân chia lợi nhuận khi sử dụng, chuyển giao quyền sử dụng, chuyển nhượng, góp vốn bằng kết quả nghiên cứu khoa học và phát triển công nghệ sử dụng ngân sách nhà nước; Điều 19.5.LQ.44. Trách nhiệm triển khai ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.45. Khuyến khích ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.46. Ứng dụng khoa học và công nghệ trong dự án đầu tư, chương trình phát triển kinh tế - xã hội; Điều 19.5.LQ.47. Khuyến khích hoạt động sáng kiến, cải tiến kỹ thuật, hợp lý hóa sản xuất và đổi mới sáng tạo; Điều 19.5.LQ.48. Truyền thông, phổ biến kiến thức khoa học và công nghệ; Điều 19.5.LQ.49. Ngân sách nhà nước cho khoa học và công nghệ; Điều 19.5.LQ.50. Mục đích chi ngân sách nhà nước cho khoa học và công nghệ; Điều 19.5.LQ.51. Xây dựng dự toán và quản lý việc sử dụng ngân sách nhà nước cho khoa học và công nghệ; Điều 19.5.LQ.52. Áp dụng khoán chi đối với nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; mua kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.53. Cấp, sử dụng, quản lý kinh phí thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Điều 19.5.LQ.54. Cơ chế đầu tư đặc biệt thực hiện nhiệm vụ khoa học và công nghệ đặc biệt; Điều 19.5.LQ.55. Huy động nguồn vốn ngoài ngân sách nhà nước đầu tư cho khoa học và công nghệ; Điều 19.5.LQ.56. Đầu tư của doanh nghiệp cho khoa học và công nghệ; Điều 19.5.LQ.57. Khuyến khích doanh nghiệp ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.58. Phát triển doanh nghiệp khoa học và công nghệ; Điều 19.5.LQ.59. Các quỹ hỗ trợ, đầu tư cho hoạt động khoa học và công nghệ; Điều 19.5.LQ.60. Quỹ phát triển khoa học và công nghệ quốc gia; Điều 19.5.LQ.61. Quỹ phát triển khoa học và công nghệ của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tỉnh, thành phố trực thuộc trung ương; Điều 19.5.LQ.62. Quỹ phát triển khoa học và công nghệ của tổ chức, cá nhân; Điều 19.5.LQ.63. Quỹ phát triển khoa học và công nghệ của doanh nghiệp; Điều 19.5.LQ.64. Chính sách thuế đối với hoạt động khoa học và công nghệ; Điều 19.5.LQ.65. Chính sách tín dụng đối với hoạt động khoa học và công nghệ; Điều 19.5.LQ.66. Xây dựng hạ tầng kỹ thuật phục vụ phát triển khoa học và công nghệ; Điều 19.5.LQ.67. Xây dựng hạ tầng phục vụ phát triển công nghệ cao; Điều 19.5.LQ.68. Xây dựng hạ tầng thông tin, cơ sở dữ liệu quốc gia và thống kê về khoa học và công nghệ; Điều 19.5.LQ.69. Xây dựng và phát triển thị trư­ờng khoa học và công nghệ; Điều 19.5.LQ.70. Nguyên tắc hội nhập quốc tế về khoa học và công nghệ; Điều 19.5.LQ.71. Hoạt động hội nhập quốc tế về khoa học và công nghệ; Điều 19.5.LQ.72. Biện pháp thúc đẩy hội nhập quốc tế về khoa học và công nghệ; Điều 19.5.LQ.73. Trách nhiệm của Chính phủ; Điều 19.5.LQ.74. Trách nhiệm của Bộ Khoa học và Công nghệ; Điều 19.5.LQ.75. Trách nhiệm của bộ, cơ quan ngang bộ; Điều 19.5.LQ.76. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 19.5.LQ.77. Danh hiệu vinh dự Nhà nước, khen thưởng và giải thưởng về khoa học và công nghệ; Điều 19.5.LQ.78. Nhận danh hiệu, giải thưởng về khoa học và công nghệ của tổ chức, cá nhân nước ngoài, tổ chức quốc tế; Điều 19.5.LQ.79. Xử lý vi phạm; Điều 19.5.NĐ.4.1.; Điều 19.5.NĐ.4.2. ; Điều 19.5.NĐ.4.3. ; Điều 19.5.NĐ.7.1. Phạm vi điều chỉnh; Điều 19.5.NĐ.7.4. Nội dung chi ngân sách nhà nước cho khoa học và công nghệ; Điều 19.5.NĐ.7.5. Về kế hoạch, lập dự toán và phân bổ ngân sách nhà nước cho khoa học và công nghệ; Điều 19.5.NĐ.7.6. Cơ chế đầu tư đặc biệt và phương thức thực hiện đối với các nhiệm vụ khoa học và công nghệ đặc biệt; Điều 19.5.NĐ.7.7. Quỹ phát triển khoa học và công nghệ của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tỉnh, thành phố trực thuộc trung ương; Điều 19.5.NĐ.7.8. Nguồn đầu tư của doanh nghiệp cho khoa học và công nghệ; Điều 19.5.NĐ.7.9. Trích lập quỹ phát triển khoa học và công nghệ của doanh nghiệp; Điều 19.5.NĐ.7.10. Nội dung chi của quỹ phát triển khoa học và công nghệ của doanh nghiệp; Điều 19.5.NĐ.7.11. Quản lý quỹ phát triển khoa học và công nghệ của doanh nghiệp; Điều 19.5.NĐ.7.12. Huy động nguồn vốn ngoài ngân sách nhà nước đầu tư cho khoa học và công nghệ; Điều 19.5.NĐ.7.13. Quỹ phát triển khoa học và công nghệ của tổ chức, cá nhân; Điều 19.5.NĐ.7.14. Cơ chế quản lý kinh phí thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Điều 19.5.NĐ.7.15. Khoán chi đến sản phẩm cuối cùng đối với các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Điều 19.5.NĐ.7.16. Khoán chi từng phần đối với các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Điều 19.5.NĐ.7.17. Sử dụng kinh phí thực hiện nhiệm vụ khoa học và công nghệ từ ngân sách nhà nước; Điều 19.5.NĐ.7.18. Mua kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.NĐ.7.19. Khoán chi đối với nhiệm vụ khoa học và công nghệ, mua kết quả nghiên cứu khoa học và phát triển công nghệ sử dụng kinh phí ngoài ngân sách nhà nước; Điều 19.5.NĐ.7.20. Chính sách ưu đãi đối với doanh nghiệp khoa học và công nghệ; Điều 19.5.TT.20.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 19.5.TT.20.3. Yêu cầu đối với đề tài đột xuất; Điều 19.5.TT.20.4. Yêu cầu đối với đề tài tiềm năng; Điều 19.5.TT.20.5. Nguyên tắc đánh giá đề tài; Điều 19.5.TT.20.6. Hội đồng khoa học; Điều 19.5.TT.20.7. Kinh phí thực hiện đề tài; Điều 19.5.TT.20.8. Hồ sơ đăng ký thực hiện đề tài; Điều 19.5.TT.20.9. Điều kiện của tổ chức, cá nhân đăng ký thực hiện đề tài; Điều 19.5.TT.20.10. Đánh giá xét chọn đề tài; Điều 19.5.TT.20.11. Tổ chức đánh giá xét chọn đề tài; Điều 19.5.TT.20.12. Phê duyệt và công bố danh mục đề tài được tài trợ; Điều 19.5.TT.20.13. Thẩm định hồ sơ và phê duyệt kinh phí đề tài; Điều 19.5.TT.20.14. Hợp đồng nghiên cứu khoa học; Điều 19.5.TT.20.15. Báo cáo và kiểm tra định kỳ; Điều 19.5.TT.20.16. Hồ sơ đánh giá kết quả đề tài; Điều 19.5.TT.20.17. Đánh giá kết quả đề tài; Điều 19.5.TT.20.18. Công nhận và xử lý đánh giá kết quả đề tài; Điều 19.5.TT.20.19. Trách nhiệm của tổ chức chủ trì đề tài; Điều 19.5.TT.20.20. Trách nhiệm của chủ nhiệm đề tài; Điều 19.5.TT.22.1.; Điều 19.5.TT.22.2.; Điều 19.5.TT.22.3.; Điều 19.5.TT.22.4.; Điều 19.5.TT.35.1. Phạm vi điều chỉnh; Điều 19.5.TT.35.4. Nguyên tắc chung về việc cho vay; Điều 19.5.TT.35.5. Đối tượng và điều kiện được xem xét vay vốn; Điều 19.5.TT.35.6. Tiêu chí xác định lãi suất cho vay và nội dung được vay vốn; Điều 19.5.TT.35.7. Bảo đảm tiền vay; Điều 19.5.TT.35.8. Hạn mức cho vay; Điều 19.5.TT.35.9. Uỷ thác cho vay; Điều 19.5.TT.35.10. Hồ sơ đăng ký; Điều 19.5.TT.35.11. Tổ chức đánh giá, thẩm định, phê duyệt; Điều 19.5.TT.35.12. Hủy bỏ quyết định cho vay; Điều 19.5.TT.35.13. Giải ngân vốn vay; Điều 19.5.TT.35.14. Quản lý giám sát khoản vay; Điều 19.5.TT.35.15. Điều chỉnh kỳ hạn trả nợ, gia hạn nợ vay; Điều 19.5.TT.35.16. Chế độ thông tin, báo cáo và lưu giữ hồ sơ; Điều 19.5.TT.35.17. Quyền và nghĩa vụ của Quỹ; Điều 19.5.TT.35.18. Quyền và nghĩa vụ của bên vay; Điều 19.5.TT.36.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 19.5.TT.36.3. Nguyên tắc quản lý đề tài; Điều 19.5.TT.36.4. Tài trợ hoạt động hợp tác quốc tế trong đề tài; Điều 19.5.TT.36.5. Chuyên gia đánh giá; Điều 19.5.TT.36.6. Hội đồng khoa học; Điều 19.5.TT.36.7. Hồ sơ đăng ký thực hiện đề tài; Điều 19.5.TT.36.8. Yêu cầu đối với tổ chức, cá nhân thực hiện đề tài; Điều 19.5.TT.36.9. Yêu cầu về thời gian thực hiện và kết quả của đề tài; Điều 19.5.TT.36.10. Phương thức, tiêu chí đánh giá xét chọn đề tài; Điều 19.5.TT.36.11. Thẩm định, phê duyệt và công bố danh mục đề tài; Điều 19.5.TT.36.12. Hợp đồng nghiên cứu khoa học; Điều 19.5.TT.36.13. Báo cáo và đánh giá định kỳ; Điều 19.5.TT.36.14. Điều chỉnh tên, mục tiêu, sản phẩm của đề tài; Điều 19.5.TT.36.15. Điều chỉnh kinh phí thực hiện đề tài; Điều 19.5.TT.36.16. Thay đổi tổ chức chủ trì đề tài; Điều 19.5.TT.36.17. Thay đổi chủ nhiệm đề tài; Điều 19.5.TT.36.18. Điều chỉnh nội dung của đề tài; Điều 19.5.TT.36.19. Điều chỉnh thời gian thực hiện đề tài; Điều 19.5.TT.36.20. Điều chỉnh khác đối với đề tài; Điều 19.5.TT.36.21. Trình tự, thủ tục điều chỉnh; Điều 19.5.TT.36.22. Chấm dứt hợp đồng; Điều 19.5.TT.36.23. Báo cáo và hồ sơ đánh giá kết quả thực hiện đề tài; Điều 19.5.TT.36.24. Đánh giá kết quả thực hiện đề tài; Điều 19.5.TT.36.25. Xử lý kết quả đánh giá, nghiệm thu đề tài; Điều 19.5.TT.36.26. Công nhận kết quả thực hiện đề tài; Điều 19.5.TT.36.27. Quản lý tài sản hình thành của đề tài; Điều 19.5.TT.36.28. Trách nhiệm của Quỹ; Điều 19.5.TT.36.29. Trách nhiệm của tổ chức chủ trì đề tài; Điều 19.5.TT.36.30. Trách nhiệm của chủ nhiệm và thành viên tham gia đề tài; Điều 19.5.TT.53.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 19.5.TT.53.2. Quyền hạn và trách nhiệm của doanh nghiệp; Điều 19.5.TT.53.3. Chi thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.TT.53.4. Chi hỗ trợ phát triển khoa học và công nghệ của doanh nghiệp; Điều 19.5.TT.53.5. Chi thực hiện hoạt động chuyển giao công nghệ; Điều 19.5.TT.53.6. Chi phục vụ hoạt động quản lý Quỹ; Điều 19.5.TT.53.7. Yêu cầu hỗ trợ từ Quỹ phát triển khoa học và công nghệ quốc gia; Quỹ phát triển khoa học và công nghệ của các bộ; Quỹ phát triển khoa học và công nghệ tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp đăng ký nộp thuế (sau đây viết tắt là Quỹ phát triển khoa học và công nghệ quốc gia, bộ, địa phương))
 
 Điều 12.4.LQ.24. Chính sách ứng dụng khoa học và công nghệ, đổi mới sáng tạo và chuyển đổi số
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000200002400000000000000000
+1. Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đổi mới sáng tạo, nâng cao năng suất dựa trên nền tảng khoa học và công nghệ và đổi mới sáng tạo; xây dựng mô hình kinh tế xanh, kinh tế tuần hoàn, giảm phát thải khí nhà kính; đổi mới công nghệ, tiếp nhận, cải tiến, hoàn thiện, làm chủ công nghệ thông qua các hoạt động nghiên cứu, đào tạo, tư vấn, tìm kiếm, giải mã, chuyển giao công nghệ; xác lập, quản lý, khai thác, bảo vệ và phát triển tài sản trí tuệ.
 
-**ID:** dk_00013347
+2. Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chuyển đổi số và ứng dụng thương mại điện tử trong sản xuất và lưu thông sản phẩm thông qua xây dựng hạ tầng công nghệ thông tin, cung cấp thiết bị đầu cuối và phần mềm, ứng dụng dùng chung.
 
----
+3. Hỗ trợ xây dựng trang thông tin điện tử cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và kết nối với Hệ thống thông tin quốc gia về hợp tác xã.
 
+4. Hỗ trợ kinh phí cho việc cung cấp dịch vụ tư vấn chuyển giao công nghệ cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên cơ sở nhu cầu và theo hợp đồng được ký kết với cơ sở cung cấp dịch vụ tư vấn.
 
-### Điều 12.4.LQ.25. Chính sách tiếp cận và nghiên cứu thị trường
+5. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 19.7.LQ.1. Phạm vi điều chỉnh; Điều 19.5.LQ.1. Phạm vi điều chỉnh; Điều 19.5.LQ.4. Nhiệm vụ của hoạt động khoa học và công nghệ; Điều 19.5.LQ.6. Chính sách của Nhà nước về phát triển khoa học và công nghệ; Điều 19.5.LQ.7. Ngày khoa học và công nghệ Việt Nam; Điều 19.5.LQ.14. Nghĩa vụ của tổ chức khoa học và công nghệ; Điều 19.5.LQ.17. Đánh giá tổ chức khoa học và công nghệ phục vụ quản lý nhà nước; Điều 19.5.LQ.35. Quyền, nghĩa vụ của bên nhận đặt hàng thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.36. Giải quyết tranh chấp hợp đồng khoa học và công nghệ; Điều 19.5.LQ.46. Ứng dụng khoa học và công nghệ trong dự án đầu tư, chương trình phát triển kinh tế - xã hội; Điều 19.5.LQ.54. Cơ chế đầu tư đặc biệt thực hiện nhiệm vụ khoa học và công nghệ đặc biệt; Điều 19.5.LQ.56. Đầu tư của doanh nghiệp cho khoa học và công nghệ; Điều 19.5.LQ.58. Phát triển doanh nghiệp khoa học và công nghệ; Điều 19.5.LQ.59. Các quỹ hỗ trợ, đầu tư cho hoạt động khoa học và công nghệ; Điều 19.5.LQ.60. Quỹ phát triển khoa học và công nghệ quốc gia; Điều 19.5.LQ.62. Quỹ phát triển khoa học và công nghệ của tổ chức, cá nhân; Điều 19.5.LQ.65. Chính sách tín dụng đối với hoạt động khoa học và công nghệ; Điều 19.5.LQ.69. Xây dựng và phát triển thị trư­ờng khoa học và công nghệ; Điều 19.5.LQ.70. Nguyên tắc hội nhập quốc tế về khoa học và công nghệ; Điều 19.5.LQ.74. Trách nhiệm của Bộ Khoa học và Công nghệ; Điều 19.5.LQ.78. Nhận danh hiệu, giải thưởng về khoa học và công nghệ của tổ chức, cá nhân nước ngoài, tổ chức quốc tế; Điều 19.2.LQ.1. Phạm vi điều chỉnh; Điều 19.2.LQ.3. Chính sách của Nhà nước đối với hoạt động chuyển giao công nghệ; Điều 19.2.LQ.4. Đối tượng công nghệ được chuyển giao; Điều 19.2.LQ.5. Hình thức chuyển giao công nghệ; Điều 19.2.LQ.6. Phương thức chuyển giao công nghệ; Điều 19.2.LQ.7. Quyền chuyển giao công nghệ; Điều 19.2.LQ.8. Góp vốn bằng công nghệ vào dự án đầu tư; Điều 19.2.LQ.9. Công nghệ khuyến khích chuyển giao; Điều 19.2.LQ.10. Công nghệ hạn chế chuyển giao; Điều 19.2.LQ.11. Công nghệ cấm chuyển giao; Điều 19.2.LQ.12. Những hành vi bị nghiêm cấm trong hoạt động chuyển giao công nghệ; Điều 19.2.LQ.13. Thẩm định hoặc có ý kiến về công nghệ dự án đầu tư; Điều 19.2.LQ.14. Thẩm quyền thẩm định hoặc có ý kiến về công nghệ trong giai đoạn quyết định chủ trương đầu tư; Điều 19.2.LQ.15. Thẩm quyền thẩm định hoặc có ý kiến về công nghệ trong giai đoạn quyết định đầu tư; Điều 19.2.LQ.16. Nội dung giải trình về sử dụng công nghệ trong hồ sơ dự án đầu tư; Điều 19.2.LQ.17. Trình tự thẩm định hoặc có ý kiến về công nghệ dự án đầu tư trong giai đoạn quyết định chủ trương đầu tư; Điều 19.2.LQ.18. Trình tự thẩm định hoặc có ý kiến về công nghệ dự án đầu tư trong giai đoạn quyết định đầu tư; Điều 19.2.LQ.19. Nội dung thẩm định hoặc có ý kiến về công nghệ dự án đầu tư; Điều 19.2.LQ.20. Thực hiện thẩm định hoặc lấy ý kiến về công nghệ dự án đầu tư; Điều 19.2.LQ.21. Kiểm tra, giám sát công nghệ trong dự án đầu tư và chuyển giao công nghệ; Điều 19.2.LQ.22. Giao kết và thực hiện hợp đồng chuyển giao công nghệ; Điều 19.2.LQ.23. Nội dung hợp đồng chuyển giao công nghệ; Điều 19.2.LQ.24. Thời hạn thực hiện và thời điểm có hiệu lực của hợp đồng chuyển giao công nghệ; Điều 19.2.LQ.25. Quyền và nghĩa vụ của bên giao công nghệ; Điều 19.2.LQ.26. Quyền và nghĩa vụ của bên nhận công nghệ; Điều 19.2.LQ.27. Giá, phương thức thanh toán chuyển giao công nghệ; Điều 19.2.LQ.28. Chuyển giao công nghệ hạn chế chuyển giao; Điều 19.2.LQ.29. Hồ sơ, trình tự, thủ tục chấp thuận chuyển giao công nghệ; Điều 19.2.LQ.30. Hồ sơ, trình tự, thủ tục cấp Giấy phép chuyển giao công nghệ; Điều 19.2.LQ.31. Đăng ký chuyển giao công nghệ; Điều 19.2.LQ.32. Hiệu lực Giấy phép chuyển giao công nghệ, Giấy chứng nhận đăng ký chuyển giao công nghệ; Điều 19.2.LQ.33. Gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ; Điều 19.2.LQ.34. Nghĩa vụ bảo mật trong việc cấp Giấy phép chuyển giao công nghệ, Giấy chứng nhận đăng ký chuyển giao công nghệ; Điều 19.2.LQ.35. Hỗ trợ, khuyến khích doanh nghiệp ứng dụng, đổi mới công nghệ; Điều 19.2.LQ.36. Thúc đẩy thương mại hóa kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.2.LQ.37. Chương trình Đổi mới công nghệ quốc gia; Điều 19.2.LQ.38. Quỹ Đổi mới công nghệ quốc gia; Điều 19.2.LQ.39. Chính sách thuế để thúc đẩy hoạt động chuyển giao, ứng dụng, đổi mới công nghệ; Điều 19.2.LQ.40. Phát triển công nghệ tạo ra và hoàn thiện các sản phẩm quốc gia, trọng điểm, chủ lực; Điều 19.2.LQ.41. Biện pháp phát triển thị trường khoa học và công nghệ; Điều 19.2.LQ.42. Phát triển nguồn cung, nguồn cầu của thị trường khoa học và công nghệ; Điều 19.2.LQ.43. Phát triển tổ chức trung gian của thị trường khoa học và công nghệ; Điều 19.2.LQ.44. Công bố, trình diễn, giới thiệu công nghệ; Điều 19.2.LQ.45. Các loại hình dịch vụ chuyển giao công nghệ; Điều 19.2.LQ.46. Quyền của tổ chức, cá nhân kinh doanh dịch vụ chuyển giao công nghệ; Điều 19.2.LQ.47. Nghĩa vụ của tổ chức, cá nhân kinh doanh dịch vụ chuyển giao công nghệ; Điều 19.2.LQ.48. Tổ chức thực hiện hoạt động đánh giá, thẩm định giá, giám định công nghệ; Điều 19.2.LQ.49. Công nghệ khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 19.2.LQ.50. Trách nhiệm của tổ chức, cá nhân trong hoạt động chuyển giao công nghệ cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 19.2.LQ.51. Trách nhiệm của cơ quan quản lý nhà nước trong hoạt động chuyển giao công nghệ cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 19.2.LQ.52. Chuyển giao công nghệ trong nông nghiệp; Điều 19.2.LQ.53. Trách nhiệm của Chính phủ; Điều 19.2.LQ.54. Trách nhiệm của Bộ Khoa học và Công nghệ; Điều 19.2.LQ.55. Trách nhiệm của các Bộ, cơ quan ngang Bộ; Điều 19.2.LQ.56. Trách nhiệm của Ủy ban nhân dân cấp tỉnh; Điều 19.2.LQ.57. Thống kê chuyển giao, ứng dụng, đổi mới công nghệ; Điều 19.2.LQ.58. Trách nhiệm của cơ quan đại diện ngoại giao Việt Nam ở nước ngoài đối với hoạt động chuyển giao công nghệ)
 
 Điều 12.4.LQ.25. Chính sách tiếp cận và nghiên cứu thị trường
 
-**Chỉ mục:** 25
+(Điều 25 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000200002500000000000000000
+1. Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được cung cấp thông tin về pháp lý, kinh tế; khảo sát và nghiên cứu thị trường; thông tin dự báo, cảnh báo các biện pháp phòng vệ thương mại áp dụng đối với hàng hóa xuất khẩu của Việt Nam.
 
-**ID:** dk_00013348
+2. Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã liên kết hình thành vùng nguyên liệu, sản xuất, tiêu thụ sản phẩm, áp dụng và chứng nhận các tiêu chuẩn để phát triển thị trường.
 
----
+3. Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã xây dựng, đăng ký nhãn hiệu, xuất xứ hàng hóa; đăng ký, tiếp thị sản phẩm.
 
+4. Hỗ trợ hình thành sản phẩm, hàng hóa và dịch vụ có nguồn gốc địa phương, có đặc trưng về giá trị kinh tế, văn hóa, lợi thế của địa phương.
 
-### Điều 12.4.LQ.26. Chính sách đầu tư phát triển kết cấu hạ tầng, trang thiết bị
+5. Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tổ chức, tham gia hội chợ, triển lãm trong nước và nước ngoài; xây dựng, triển khai, tham gia sàn giao dịch thương mại điện tử.
+
+6. Ưu tiên, hỗ trợ tham gia hoạt động xúc tiến thương mại của các bộ, ngành, địa phương.
+
+7. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 19.7.LQ.1. Phạm vi điều chỉnh; Điều 19.7.NĐ.2.1. Phạm vi điều chỉnh)
 
 Điều 12.4.LQ.26. Chính sách đầu tư phát triển kết cấu hạ tầng, trang thiết bị
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000200002600000000000000000
+1. Hỗ trợ đầu tư phát triển kết cấu hạ tầng, trang thiết bị cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã nhằm phục vụ hoạt động sản xuất, kinh doanh, an sinh xã hội, bảo vệ môi trường, thích ứng với biến đổi khí hậu.
 
-**ID:** dk_00013349
+2. Chuyển giao một số công trình kết cấu hạ tầng của Nhà nước phục vụ lợi ích chung của cộng đồng cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên địa bàn để quản lý, vận hành, duy tu, bảo dưỡng theo quy định của pháp luật.
 
----
+3. Chuyển giao một số công trình công cộng và cơ sở hạ tầng khác cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã để làm trụ sở, nhà kho, cửa hàng mua bán, trưng bày, giới thiệu sản phẩm phục vụ hoạt động sản xuất, kinh doanh theo quy định của pháp luật.
 
+4. Hỗ trợ kinh phí đầu tư, xây dựng kết cấu hạ tầng hình thành chuỗi sản xuất, cung cấp dịch vụ chế biến và tiêu thụ sản phẩm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.LQ.27. Chính sách hỗ trợ tư vấn tài chính và đánh giá rủi ro
+5. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.LQ.27. Chính sách hỗ trợ tư vấn tài chính và đánh giá rủi ro
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000200002700000000000000000
+1. Hỗ trợ chi phí kiểm toán cho hợp tác xã quy mô siêu nhỏ và nhỏ khi được hưởng chính sách hỗ trợ của Nhà nước theo quy định.
 
-**ID:** dk_00013350
+2. Hỗ trợ tổ chức đại diện, hệ thống Liên minh hợp tác xã Việt Nam trong việc thực hiện đánh giá rủi ro, tư vấn tài chính; tư vấn kiểm soát nội bộ, tư vấn kiểm toán nội bộ cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
----
-
-
-### Điều 12.4.LQ.28. Chính sách hỗ trợ hoạt động trong lĩnh vực nông nghiệp
+3. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.LQ.28. Chính sách hỗ trợ hoạt động trong lĩnh vực nông nghiệp
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000200002800000000000000000
+1. Ngoài các chính sách quy định tại các điều 20, 21, 22, 23, 24, 25, 26 và 27 của Luật này, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoạt động trong lĩnh vực nông nghiệp được thụ hưởng các chính sách sau đây:
 
-**ID:** dk_00013351
+a) Hỗ trợ phí bảo hiểm nông nghiệp theo quy định của pháp luật về kinh doanh bảo hiểm;
 
----
+b) Hỗ trợ vốn, giống, khoa học và công nghệ khi tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chuyển đổi sang sản xuất bền vững, nông nghiệp hữu cơ, thích ứng với biến đổi khí hậu;
 
+c) Hỗ trợ chi phí xây dựng kết cấu hạ tầng vùng nguyên liệu khi tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã nhận góp vốn bằng quyền sử dụng đất hoặc thuê đất, đất có mặt nước của tổ chức, hộ gia đình, cá nhân để hình thành vùng nguyên liệu sản xuất nông nghiệp tập trung.
 
-### Điều 12.4.LQ.29. Quỹ hỗ trợ phát triển hợp tác xã
+2. Chính phủ quy định chi tiết điểm b và điểm c khoản 1 Điều này.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 19.5.LQ.1. Phạm vi điều chỉnh; Điều 19.5.LQ.5. Nguyên tắc hoạt động khoa học và công nghệ; Điều 19.5.LQ.9. Hình thức và phân loại tổ chức khoa học và công nghệ; Điều 19.5.LQ.11. Điều kiện thành lập, đăng ký hoạt động của tổ chức khoa học và công nghệ; Điều 19.5.LQ.15. Văn phòng đại diện, chi nhánh tại Việt Nam của tổ chức khoa học và công nghệ nước ngoài; Điều 19.5.LQ.16. Mục đích, nguyên tắc đánh giá, xếp hạng tổ chức khoa học và công nghệ; Điều 19.5.LQ.19. Chức danh nghiên cứu khoa học, chức danh công nghệ; Điều 19.5.LQ.20. Quyền của cá nhân hoạt động khoa học và công nghệ; Điều 19.5.LQ.23. Ưu đãi trong việc sử dụng nhân lực, nhân tài khoa học và công nghệ; Điều 19.5.LQ.25. Nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.27. Thẩm quyền phê duyệt, ký hợp đồng thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.28. Phương thức giao nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.30. Nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước được giao trực tiếp; Điều 19.5.LQ.31. Nhiệm vụ khoa học và công nghệ được quỹ trong lĩnh vực khoa học và công nghệ xét tài trợ, cho vay, bảo lãnh vốn vay; Điều 19.5.LQ.32. Liên kết xác định và thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.33. Phân loại hợp đồng khoa học và công nghệ; Điều 19.5.LQ.38. Hội đồng khoa học và công nghệ chuyên ngành, tổ chức, chuyên gia tư vấn độc lập đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ; Điều 19.5.LQ.44. Trách nhiệm triển khai ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.45. Khuyến khích ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.48. Truyền thông, phổ biến kiến thức khoa học và công nghệ; Điều 19.5.LQ.51. Xây dựng dự toán và quản lý việc sử dụng ngân sách nhà nước cho khoa học và công nghệ; Điều 19.5.LQ.52. Áp dụng khoán chi đối với nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; mua kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.53. Cấp, sử dụng, quản lý kinh phí thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Điều 19.5.LQ.57. Khuyến khích doanh nghiệp ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ; Điều 19.5.LQ.63. Quỹ phát triển khoa học và công nghệ của doanh nghiệp; Điều 19.5.LQ.64. Chính sách thuế đối với hoạt động khoa học và công nghệ; Điều 19.5.LQ.66. Xây dựng hạ tầng kỹ thuật phục vụ phát triển khoa học và công nghệ; Điều 19.5.LQ.67. Xây dựng hạ tầng phục vụ phát triển công nghệ cao; Điều 19.5.LQ.68. Xây dựng hạ tầng thông tin, cơ sở dữ liệu quốc gia và thống kê về khoa học và công nghệ; Điều 19.5.LQ.71. Hoạt động hội nhập quốc tế về khoa học và công nghệ; Điều 19.5.LQ.73. Trách nhiệm của Chính phủ; Điều 19.5.LQ.75. Trách nhiệm của bộ, cơ quan ngang bộ)
 
-**Chỉ mục:** 29
+Điều 12.4.LQ.29. Quỹ hỗ trợ phát triển hợp tác xã
 
-**Mã phân cấp:** 1200400000000000200002900000000000000000
+(Điều 29 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**ID:** dk_00013352
+1. Quỹ hỗ trợ phát triển hợp tác xã là quỹ tài chính nhà nước ngoài ngân sách hoặc tổ chức tài chính, hoạt động không vì mục tiêu lợi nhuận, bảo toàn và phát triển vốn, tự chủ về tài chính, tự chịu trách nhiệm trong huy động vốn và sử dụng vốn nhằm thực hiện các chức năng sau đây:
 
----
+a) Cho vay vốn với lãi suất ưu đãi, hỗ trợ lãi suất sau đầu tư và bảo lãnh tín dụng đầu tư đối với hợp tác xã, liên hiệp hợp tác xã và đối với thành viên của tổ hợp tác, hợp tác xã, trừ thành viên là doanh nghiệp;
 
+b) Tiếp nhận, quản lý và sử dụng nguồn vốn trong nước và ngoài nước, nguồn tài trợ, viện trợ, đóng góp, ủy thác của cá nhân, tổ chức trong nước và nước ngoài theo quy định của pháp luật;
 
-### Điều 12.4.NĐ.2.3. Địa vị pháp lý, tư cách pháp nhân
+c) Huy động vốn từ cá nhân, tổ chức trong nước theo quy định của pháp luật;
+
+d) Ủy thác, nhận ủy thác cho vay; tư vấn tài chính và đầu tư, đào tạo cho khách hàng vay vốn của Quỹ hỗ trợ phát triển hợp tác xã theo quy định của pháp luật.
+
+2. Quỹ hỗ trợ phát triển hợp tác xã Việt Nam được thành lập ở Trung ương, Quỹ hỗ trợ phát triển hợp tác xã cấp tỉnh được thành lập ở tinh, thành phố trực thuộc Trung ương.
+
+3. Chính phủ quy định việc thành lập, tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã.
 
 Điều 12.4.NĐ.2.3. Địa vị pháp lý, tư cách pháp nhân
 
-**Chỉ mục:** 3
+(Điều 3 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000300
+1. Quỹ hợp tác xã là quỹ tài chính nhà nước ngoài ngân sách hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ hoặc là tổ chức tài chính hoạt động theo mô hình hợp tác xã, hoạt động không vì mục tiêu lợi nhuận, bảo toàn và phát triển vốn, tự chủ và tự chịu trách nhiệm trong huy động vốn và sử dụng vốn nhằm thực hiện chức năng cho vay cho hợp tác xã, liên hiệp hợp tác xã, thành viên của tổ hợp tác và hợp tác xã theo quy định tại Nghị định này và pháp luật có liên quan.
 
-**ID:** dk_00013353
+2. Quỹ hợp tác xã có tư cách pháp nhân, có vốn điều lệ, có con dấu, được mở tài khoản tại Kho bạc Nhà nước và các ngân hàng thương mại hoạt động hợp pháp tại Việt Nam theo quy định của pháp luật.
 
----
-
-
-### Điều 12.4.NĐ.2.4. Chức năng, nhiệm vụ của Quỹ hợp tác xã
+3. Quỹ hợp tác xã được thành lập, tổ chức, hoạt động, phá sản và giải thể theo quy định tại Nghị định này và pháp luật liên quan tương ứng với mô hình hoạt động khi không quy định tại Nghị định này.
 
 Điều 12.4.NĐ.2.4. Chức năng, nhiệm vụ của Quỹ hợp tác xã
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000400
+1. Tiếp nhận, quản lý và sử dụng các nguồn vốn trong nước và ngoài nước, các nguồn tài trợ, viện trợ, đóng góp, ủy thác của các tổ chức, cá nhân trong và ngoài nước.
 
-**ID:** dk_00013354
+2. Huy động vốn từ các tổ chức, cá nhân trong nước theo quy định tại Nghị định này.
 
----
+3. Cho vay cho khách hàng theo quy định tại Nghị định này.
 
+4. Thực hiện các hoạt động tư vấn tài chính và đầu tư; đào tạo cho các khách hàng vay vốn của Quỹ theo quy định của pháp luật.
 
-### Điều 12.4.NĐ.2.5. Nguyên tắc hoạt động của Quỹ hợp tác xã
+5. Ủy thác, nhận ủy thác theo quy định tại Nghị định này và pháp luật có liên quan.
 
 Điều 12.4.NĐ.2.5. Nguyên tắc hoạt động của Quỹ hợp tác xã
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000500
+1. Quỹ hợp tác xã hoạt động theo nguyên tắc tự chủ về tài chính, công khai, minh bạch, bảo toàn và phát triển vốn.
 
-**ID:** dk_00013355
-
----
-
-
-### Điều 12.4.NĐ.2.6. Trách nhiệm và quyền hạn của Quỹ hợp tác xã
+2. Quỹ hợp tác xã thực hiện cho vay theo đúng đối tượng và có đủ điều kiện theo quy định tại Nghị định này.
 
 Điều 12.4.NĐ.2.6. Trách nhiệm và quyền hạn của Quỹ hợp tác xã
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000600
+Quỹ hợp tác xã có trách nhiệm và quyền hạn cơ bản như sau:
 
-**ID:** dk_00013356
+1. Trách nhiệm của Quỹ hợp tác xã:
 
----
+a) Thực hiện cho vay cho khách hàng đúng đối tượng, đáp ứng đủ các điều kiện theo quy định;
 
+b) Sử dụng vốn đúng mục đích theo quy định tại Nghị định này và pháp luật có liên quan;
 
-### Điều 12.4.TT.6.22. Trách nhiệm của Quỹ hợp tác xã
+c) Thực hiện chế độ kế toán, thống kê và báo cáo tài chính theo quy định của pháp luật về kế toán, thống kê;
 
-*Nội dung chưa có sẵn*
+d) Chịu sự thanh tra, kiểm tra của các cơ quan quản lý nhà nước có thẩm quyền theo quy định của pháp luật và kiểm tra, giám sát của Liên minh hợp tác cùng cấp;
 
-**Chỉ mục:** 22
+đ) Cung cấp số liệu, công bố công khai về tình hình tài chính và tình hình hoạt động theo quy định tại Nghị định này và pháp luật có liên quan;
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000060000802810300520002200
+e) Mua bảo hiểm tài sản và các loại bảo hiểm khác theo quy định của pháp luật để đảm bảo an toàn cho hoạt động của Quỹ hợp tác xã;
 
-**ID:** dk_00013357
+g) Ban hành, sửa đổi, bổ sung các quy trình, quy chế nội bộ về tổ chức, quản trị và hoạt động của Quỹ hợp tác xã theo thẩm quyền quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã.
 
----
+2. Quyền hạn của Quỹ hợp tác xã:
 
+a) Tổ chức và hoạt động phù hợp với mục tiêu, phạm vi hoạt động của Quỹ hợp tác xã;
 
-### Điều 12.4.NĐ.2.7. Mô hình hoạt động của Quỹ hợp tác xã trung ương
+b) Được lựa chọn các dự án đầu tư, phương án sản xuất kinh doanh khả thi, có hiệu quả, đủ điều kiện, phù hợp với kế hoạch hỗ trợ khách hàng của Quỹ hợp tác xã để thực hiện cho vay theo quy định tại Nghị định này;
+
+c) Được tuyển chọn, bố trí, sử dụng, đào tạo và sử dụng lao động theo quy định tại Nghị định này và các quy định của pháp luật có liên quan;
+
+d) Được từ chối mọi yêu cầu của cá nhân hay tổ chức về việc cung cấp thông tin và các nguồn lực của Quỹ hợp tác xã nếu yêu cầu đó trái với quy định của pháp luật và trái với Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã.
+
+Điều 12.4.TT.6.22. Trách nhiệm của Quỹ hợp tác xã
+
+(Điều 22 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+Thực hiện cơ chế quản lý tài chính và các nội dung liên quan đến hoạt động của Quỹ Hợp tác xã quy định tại Nghị định số 45/2021/NĐ-CP, Thông tư này và các văn bản quy phạm pháp luật có liên quan.
 
 Điều 12.4.NĐ.2.7. Mô hình hoạt động của Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000700
-
-**ID:** dk_00013358
-
----
-
-
-### Điều 12.4.NĐ.2.8. Quyền hạn, trách nhiệm của Thủ tướng Chính phủ và Liên minh Hợp tác xã Việt Nam, Chủ tịch Quỹ hợp tác xã trung ương đối với Quỹ hợp tác xã trung ương
+Quỹ hợp tác xã trung ương là quỹ tài chính nhà nước ngoài ngân sách, hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ theo quy định tại Nghị định này.
 
 Điều 12.4.NĐ.2.8. Quyền hạn, trách nhiệm của Thủ tướng Chính phủ và Liên minh Hợp tác xã Việt Nam, Chủ tịch Quỹ hợp tác xã trung ương đối với Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000800
+1. Quyền hạn, trách nhiệm của Thủ tướng Chính phủ:
 
-**ID:** dk_00013359
+a) Phê duyệt chiến lược; kế hoạch hoạt động và kế hoạch đầu tư phát triển 05 năm theo đề nghị của Liên minh Hợp tác xã Việt Nam;
 
----
+b) Quyết định việc cơ cấu, tổ chức lại (chia, tách, hợp nhất, sáp nhập), chuyển đổi mô hình Quỹ, giải thể, phá sản Quỹ hợp tác xã trung ương theo đề nghị của Liên minh Hợp tác xã Việt Nam, trên cơ sở ý kiến của Bộ Tài chính, Bộ Tư pháp, Bộ Kế hoạch và Đầu tư và Ngân hàng Nhà nước Việt Nam;
 
+c) Quyết định mức vốn điều lệ và thay đổi mức vốn điều lệ của Quỹ hợp tác xã trung ương trong quá trình hoạt động theo đề nghị của Liên minh Hợp tác xã Việt Nam và ý kiến của Bộ Tài chính, Bộ Kế hoạch và Đầu tư;
 
-### Điều 12.4.NĐ.2.9. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã trung ương
+d) Giao Liên minh Hợp tác xã Việt Nam thực hiện chức năng cơ quan đại diện chủ sở hữu đối với Quỹ hợp tác xã trung ương theo quy định tại Nghị định này.
+
+2. Quyền hạn, trách nhiệm của Liên minh Hợp tác xã Việt Nam:
+
+a) Trình Thủ tướng Chính phủ phê duyệt chiến lược; kế hoạch hoạt động và kế hoạch đầu tư phát triển 05 năm;
+
+b) Phê duyệt kế hoạch hoạt động, kế hoạch tài chính hàng năm của Quỹ hợp tác xã trung ương theo đề nghị của Chủ tịch Quỹ hợp tác xã trung ương;
+
+c) Quyết định về quy hoạch, bổ nhiệm, bổ nhiệm lại, chấp thuận từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu của Chủ tịch, Kiểm soát viên, Tổng Giám đốc Quỹ;
+
+d) Ban hành, sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương theo quy định tại Nghị định này;
+
+đ) Phê duyệt Báo cáo tài chính, phân phối lợi nhuận, trích lập các quỹ hàng năm của Quỹ hợp tác xã trung ương sau khi có ý kiến thẩm định của Kiểm soát viên của Quỹ hợp tác xã trung ương;
+
+e) Các quyền hạn, trách nhiệm khác của cơ quan đại diện chủ sở hữu theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương.
+
+3. Chủ tịch Quỹ hợp tác xã trung ương thực hiện các quyền và nhiệm vụ như sau:
+
+a) Xây dựng và trình Liên minh Hợp tác xã Việt Nam phê duyệt: kế hoạch hoạt động, kế hoạch tài chính hàng năm của Quỹ hợp tác xã trung ương;
+
+b) Đề nghị Liên minh Hợp tác xã Việt Nam quy hoạch, bổ nhiệm, bổ nhiệm lại, chấp thuận từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu của Chủ tịch, Tổng giám đốc và Kiểm soát viên Quỹ hợp tác xã trung ương;
+
+c) Quyết định quy hoạch, bổ nhiệm, đánh giá, bổ nhiệm lại; chấp thuận từ chức, miễn nhiệm, khen thưởng, kỷ luật, thôi việc, nghỉ hưu của Phó Tổng giám đốc, Kế toán trưởng Quỹ hợp tác xã trung ương sau khi được Liên minh Hợp tác xã Việt Nam phê duyệt chủ trương;
+
+d) Đề nghị Liên minh Hợp tác xã Việt Nam sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương; trình cấp có thẩm quyền điều chỉnh tăng, giảm vốn điều lệ, cơ cấu, tổ chức lại, chuyển đổi mô hình, giải thể, phá sản Quỹ hợp tác xã trung ương;
+
+đ) Trình Liên minh Hợp tác xã Việt Nam phê duyệt báo cáo tài chính, phân phối lợi nhuận, trích lập các quỹ hàng năm của Quỹ hợp tác xã trung ương sau khi có ý kiến thẩm định của Kiểm soát viên Quỹ hợp tác xã trung ương;
+
+e) Quyết định ban hành, sửa đổi, bổ sung các quy trình, quy chế nội bộ về tổ chức, quản trị và hoạt động của Quỹ hợp tác xã trung ương sau khi có ý kiến chấp thuận của Liên minh Hợp tác xã Việt Nam;
+
+g) Thực hiện các quyền hạn và trách nhiệm khác quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương.
 
 Điều 12.4.NĐ.2.9. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450000900
+Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã trung ương gồm:
 
-**ID:** dk_00013360
+1. Chủ tịch Quỹ.
 
----
+2. Kiểm soát viên.
 
-
-### Điều 12.4.NĐ.2.10. Chủ tịch Quỹ hợp tác xã trung ương
+3. Ban điều hành gồm: Tổng Giám đốc, các Phó Tổng giám đốc, Kế toán trưởng và bộ máy giúp việc.
 
 Điều 12.4.NĐ.2.10. Chủ tịch Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 45/2021/NĐ-CP Về việc thành lập, tổ chức và hoạt động của Quỹ hỗ trợ phát triển hợp tác xã ngày 31/03/2021 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001000
+1. Chủ tịch Quỹ hợp tác xã trung ương được Liên minh Hợp tác xã Việt Nam bổ nhiệm, chịu trách nhiệm trước Chủ tịch Liên minh Hợp tác xã Việt Nam về hoạt động của Quỹ.
 
-**ID:** dk_00013361
+2. Chủ tịch Quỹ hợp tác xã trung ương có nhiệm kỳ không quá 05 năm và có thể được bổ nhiệm lại nhưng không quá 02 nhiệm kỳ. Chủ tịch Quỹ hợp tác xã có thể hoạt động theo chế độ kiêm nhiệm hoặc chuyên trách do Liên minh Hợp tác xã Việt Nam quyết định căn cứ vào quy mô hoạt động của Quỹ.
 
----
+3. Tiêu chuẩn, điều kiện để được bổ nhiệm Chủ tịch Quỹ hợp tác xã trung ương:
 
+a) Là công dân Việt Nam theo quy định của pháp luật;
 
-### Điều 12.4.NĐ.2.11. Kiểm soát viên Quỹ hợp tác xã trung ương
+b) Có đầy đủ năng lực hành vi dân sự, có đủ sức khỏe để đảm đương nhiệm vụ;
+
+c) Có trình độ đại học trở lên trong các lĩnh vực kinh tế, tài chính, ngân hàng, luật, kế toán, kiểm toán;
+
+d) Có kinh nghiệm ít nhất 03 năm là người quản lý, điều hành một trong các lĩnh vực kinh tế, tài chính, ngân hàng, luật, kế toán, kiểm toán;
+
+đ) Không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của Chủ tịch, Phó Chủ tịch Liên minh Hợp tác xã Việt Nam; Kiểm soát viên, Tổng giám đốc, Phó Tổng giám đốc và Kế toán trưởng của Quỹ;
+
+e) Các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Liên minh Hợp tác xã Việt Nam quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã.
+
+4. Quyền hạn, trách nhiệm của Chủ tịch Quỹ hợp tác xã trung ương thực hiện theo quy định tại khoản 3 Điều 8 Nghị định này và Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương.
 
 Điều 12.4.NĐ.2.11. Kiểm soát viên Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001100
+1. Kiểm soát viên Quỹ hợp tác xã trung ương do Liên minh Hợp tác xã Việt Nam bổ nhiệm, hoạt động theo chế độ chuyên trách để giúp kiểm soát việc tổ chức thực hiện các hoạt động quản lý, điều hành của Chủ tịch Quỹ, Tổng Giám đốc Quỹ theo quy định của pháp luật và Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã.
 
-**ID:** dk_00013362
+2. Kiểm soát viên có nhiệm kỳ không quá 05 năm và có thể được bổ nhiệm lại nhưng không quá 02 nhiệm kỳ.
 
----
+3. Tiêu chuẩn, điều kiện để được bổ nhiệm Kiểm soát viên Quỹ hợp tác xã trung ương:
 
+a) Đáp ứng các tiêu chuẩn, điều kiện tại các điểm a, b, c, d và e khoản 3 Điều 10 Nghị định này;
 
-### Điều 12.4.NĐ.2.12. Tổng giám đốc Quỹ hợp tác xã trung ương
+b) Không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của Chủ tịch, Phó Chủ tịch Liên minh Hợp tác xã Việt Nam; Tổng Giám đốc, Phó Tổng Giám đốc và Kế toán trưởng của Quỹ.
+
+4. Chủ tịch Liên minh Hợp tác xã Việt Nam ban hành Quy chế hoạt động của Kiểm soát viên Quỹ hợp tác xã trung ương theo quy định về quy chế hoạt động của Kiểm soát viên công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, phù hợp với quy định tại Nghị định này.
 
 Điều 12.4.NĐ.2.12. Tổng giám đốc Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001200
+1. Tổng Giám đốc Quỹ hợp tác xã trung ương do Liên minh Hợp tác xã Việt Nam bổ nhiệm, miễn nhiệm để trực tiếp điều hành hoạt động hàng ngày của Quỹ.
 
-**ID:** dk_00013363
+2. Tổng Giám đốc Quỹ được bổ nhiệm với nhiệm kỳ không quá 05 năm và có thể được bổ nhiệm lại hoặc thay thế.
 
----
+3. Tiêu chuẩn, điều kiện để được bổ nhiệm Tổng Giám đốc Quỹ hợp tác xã trung ương:
 
+a) Đáp ứng các tiêu chuẩn, điều kiện tại các điểm a, b, c, d và e khoản 3 Điều 10 Nghị định này;
 
-### Điều 12.4.NĐ.2.13. Phó Tổng giám đốc, Kế toán trưởng và bộ máy giúp việc của Quỹ hợp tác xã trung ương
+b) Không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của Chủ tịch, Phó Chủ tịch Liên minh Hợp tác xã Việt Nam; Kiểm soát viên, Phó Tổng Giám đốc và Kế toán trưởng của Quỹ.
+
+4. Quyền hạn và trách nhiệm của Tổng Giám đốc Quỹ hợp tác xã trung ương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương.
 
 Điều 12.4.NĐ.2.13. Phó Tổng giám đốc, Kế toán trưởng và bộ máy giúp việc của Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001300
+1. Phó Tổng giám đốc Quỹ hợp tác xã trung ương do Chủ tịch Quỹ bổ nhiệm trên cơ sở đề nghị của Tổng Giám đốc để giúp Tổng Giám đốc điều hành hoạt động của Quỹ theo phân công và ủy quyền của Tổng Giám đốc; chịu trách nhiệm trước Tổng Giám đốc Quỹ và trước pháp luật về nhiệm vụ được phân công và ủy quyền, số lượng Phó Tổng giám đốc Quỹ do Chủ tịch Liên minh Hợp tác xã Việt Nam quyết định, tối đa không quá 03 người.
 
-**ID:** dk_00013364
+2. Kế toán trưởng Quỹ hợp tác xã trung ương do Chủ tịch Quỹ bổ nhiệm trên cơ sở đề nghị của Tổng Giám đốc, chịu trách nhiệm tổ chức thực hiện công tác kế toán, thống kê của Quỹ theo phân công và ủy quyền của Tổng Giám đốc Quỹ, phù hợp với quy định của pháp luật về kế toán và pháp luật có liên quan; chịu trách nhiệm trước Tổng Giám đốc, trước Chủ tịch Quỹ hợp tác xã trung ương và trước pháp luật về thực hiện nhiệm vụ, quyền hạn được phân công hoặc ủy quyền.
 
----
+3. Bộ máy giúp việc của Quỹ hợp tác xã trung ương:
 
+a) Bộ máy giúp việc gồm các phòng, ban chuyên môn, nghiệp vụ có chức năng tham mưu, giúp việc Chủ tịch và Tổng Giám đốc Quỹ điều hành, quản lý Quỹ. Tổng Giám đốc Quỹ quyết định bổ nhiệm, miễn nhiệm các chức danh lãnh đạo của bộ máy giúp việc sau khi được Chủ tịch Quỹ chấp thuận về chủ trương;
 
-### Điều 12.4.NĐ.2.14. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương
+b) Cơ cấu tổ chức và chức năng, nhiệm vụ, quyền hạn của bộ máy giúp việc do Tổng Giám đốc Quỹ quyết định.
+
+4. Tiêu chuẩn, điều kiện để được bổ nhiệm Phó Tổng giám đốc, Kế toán trưởng của Quỹ hợp tác xã trung ương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương.
+
+5. Quyền hạn và trách nhiệm của Phó Tổng giám đốc, Kế toán trưởng và bộ máy giúp việc của Quỹ hợp tác xã trung ương thực hiện theo Điều lệ tổ chức và hoạt động.
 
 Điều 12.4.NĐ.2.14. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001400
+1. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương do Liên minh Hợp tác xã Việt Nam ban hành.
 
-**ID:** dk_00013365
+2. Nội dung cơ bản Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương bao gồm:
 
----
+a) Tên và nơi đặt trụ sở chính;
 
+b) Địa vị pháp lý và mô hình hoạt động, tư cách pháp nhân;
 
-### Điều 12.4.NĐ.2.15. Thành lập mới Quỹ hợp tác xã địa phương
+c) Nội dung và phạm vi hoạt động;
+
+d) Vốn điều lệ;
+
+đ) Cơ cấu tổ chức quản lý, người đại diện theo pháp luật của Quỹ;
+
+e) Chức năng, nhiệm vụ của Quỹ;
+
+g) Chức năng, nhiệm vụ của Chủ tịch, Kiểm soát viên và ban điều hành Quỹ;
+
+h) Tiêu chuẩn, điều kiện bổ nhiệm và quyền hạn, trách nhiệm của người quản lý và các chức danh lãnh đạo khác của Quỹ;
+
+i) Việc tuyển dụng lao động, quy hoạch và bổ nhiệm các chức danh lãnh đạo;
+
+k) Nguyên tắc quản lý tài chính đối với Quỹ;
+
+l) Thủ tục sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ;
+
+m) Quan hệ giữa Quỹ với các cơ quan quản lý nhà nước và các bên liên quan theo quy định tại Nghị định này;
+
+n) Quan hệ giữa Quỹ hợp tác xã trung ương và Quỹ hợp tác xã địa phương theo quy định tại Nghị định này;
+
+o) Xử lý tranh chấp, cơ cấu lại, phá sản, giải thể đối với Quỹ theo quy định tại Nghị định này và pháp luật có liên quan;
+
+p) Các nội dung khác theo yêu cầu quản lý.
 
 Điều 12.4.NĐ.2.15. Thành lập mới Quỹ hợp tác xã địa phương
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021, có nội dung bị bãi bỏ bởi Điều 13 Nghị định số 104/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 01/01/2023)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001500
+1. Các tỉnh, thành phố trực thuộc trung ương xem xét thành lập Quỹ hợp tác xã địa phương trên cơ sở định hướng phát triển kinh tế tập thể trên địa bàn, đảm bảo việc thành lập là cần thiết, khả thi và đáp ứng đủ điều kiện theo quy định tại khoản 2 Điều này. Trường hợp cần thiết phải thành lập, mỗi tỉnh, thành phố trực thuộc trung ương chỉ được thành lập 01 Quỹ hợp tác xã địa phương theo quy định tại Nghị định này.
 
-**ID:** dk_00013366
+2. Điều kiện thành lập mới Quỹ hợp tác xã địa phương, bao gồm:
 
----
+a) Có Đề án thành lập Quỹ hợp tác xã địa phương được các cơ quan có thẩm quyền phê duyệt quy định tại Nghị định này. Đề án phải bao gồm các nội dung cơ bản quy định tại khoản 3 Điều này;
 
+b) Có vốn điều lệ tối thiểu tại thời điểm thành lập Quỹ hợp tác xã là 20 tỷ đồng;
 
-### Điều 12.4.NĐ.2.16. Mô hình hoạt động và phương thức tổ chức điều hành hoạt động của Quỹ hợp tác xã địa phương
+c) Có Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương đã được các cơ quan có thẩm quyền phê duyệt quy định tại Nghị định này, phù hợp với quy định tại Điều 19 Nghị định này.
+
+3. Nội dung cơ bản của Đề án thành lập Quỹ hợp tác xã địa phương gồm:
+
+a) Sự cần thiết của việc thành lập Quỹ hợp tác xã địa phương; tác động của việc thành lập Quỹ hợp tác xã địa phương đến sự phát triển kinh tế - xã hội của địa phương; tính khả thi của việc thành lập và hoạt động;
+
+b) Tên Quỹ hợp tác xã địa phương, địa bàn hoạt động, địa điểm dự kiến đặt trụ sở chính, vốn điều lệ khi thành lập, nguồn hình thành vốn điều lệ, nội dung hoạt động phù hợp với quy định tại Nghị định này;
+
+c) Mô hình hoạt động của Quỹ hợp tác xã địa phương theo quy định tại Điều 16 Nghị định này và thuyết minh cụ thể lý do lựa chọn mô hình hoạt động của Quỹ, đảm bảo hiệu quả và phù hợp với tình hình thực tế tại địa phương;
+
+d) Thuyết minh cụ thể về dự kiến cơ cấu tổ chức và quy trình hoạt động của Quỹ hợp tác xã địa phương theo quy định tại Nghị định này, bao gồm: Cơ cấu tổ chức; quy trình các hoạt động nghiệp vụ của Quỹ hợp tác xã địa phương; quy định về quản lý rủi ro, trong đó nêu rõ các loại rủi ro có thể xảy ra trong quá trình hoạt động, phương thức và biện pháp phòng ngừa, kiểm soát các loại rủi ro này; dự kiến hệ thống công nghệ thông tin để quản lý hoạt động của Quỹ;
+
+đ) Phương án tài chính và hoạt động của Quỹ hợp tác xã địa phương dự kiến trong vòng 05 năm sau khi thành lập, gồm: Phương án về nguồn vốn hoạt động của Quỹ, thuyết minh cụ thể về cơ cấu nguồn vốn hoạt động (bao gồm: vốn điều lệ, nguồn hình thành vốn điều lệ, vốn huy động và vốn khác; hiệu quả hoạt động dự kiến của Quỹ hợp tác xã địa phương để chứng minh tính khả thi của việc thành lập;
+
+e) Danh sách các thành viên dự kiến là người quản lý Quỹ hợp tác xã địa phương và tài liệu chứng minh năng lực đáp ứng đủ các tiêu chuẩn, điều kiện của người quản lý quy định tại Nghị định này;
+
+g) Trường hợp Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã phải bổ sung thêm:
+
+- Danh sách các thành viên dự kiến tham gia góp vốn thành lập Quỹ, có chữ ký xác nhận của các thành viên, bao gồm các nội dung sau: Họ và tên (đối với thành viên là cá nhân, người đại diện hộ gia đình), tên và địa chỉ đặt trụ sở chính (đối với thành viên là pháp nhân), số chứng minh nhân dân hoặc số thẻ căn cước công dân hoặc số hộ chiếu (đối với thành viên là cá nhân) và số Giấy đăng ký kinh doanh (đối với thành viên là pháp nhân), số tiền tham gia góp vốn và tỷ lệ vốn góp của từng thành viên;
+
+- Bản sao có chứng thực của Ủy ban nhân dân cấp xã của các giấy tờ sau: giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu (đối với thành viên là cá nhân, người đại diện của pháp nhân, hộ gia đình) còn hiệu lực, giấy chứng nhận đăng ký kinh doanh (đối với thành viên là pháp nhân);
+
+- Văn bản ủy quyền của pháp nhân cho người đại diện của pháp nhân tham gia góp vốn; văn bản ủy quyền của thành viên hộ gia đình cho người đại diện hộ gia đình tham gia góp vốn.
+
+4. Quy trình thành lập mới Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ:
+
+a) Liên minh hợp tác xã cấp tỉnh xây dựng Đề án thành lập Quỹ hợp tác xã địa phương, báo cáo Ủy ban nhân dân cấp tỉnh xem xét, thẩm định;
+
+b) Trong vòng 30 ngày làm việc kể từ ngày nhận được Đề án thành lập Quỹ hợp tác xã địa phương theo quy định tại điểm a khoản này, trường hợp việc thành lập Quỹ là không khả thi và không đủ điều kiện, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho Liên minh hợp tác xã cấp tỉnh và nêu rõ lý do không phê duyệt;
+
+c) Trường hợp việc thành lập Quỹ là khả thi và đủ điều kiện, Ủy ban nhân dân cấp tỉnh báo cáo Hội đồng nhân dân cấp tỉnh xem xét, phê duyệt về chủ trương thành lập Quỹ với các nội dung cơ bản sau: Vốn điều lệ và nguồn hình thành vốn điều lệ, nguồn vốn huy động, mô hình hoạt động và cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương và các nội dung khác theo yêu cầu quản lý của Hội đồng nhân dân cấp tỉnh;
+
+d) Sau khi Hội đồng nhân dân cấp tỉnh chấp thuận về chủ trương, Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành Quyết định thành lập Quỹ hợp tác xã;
+
+đ) Trong thời gian 30 ngày làm việc kể từ ngày Quỹ hợp tác xã được thành lập, Ủy ban nhân dân cấp tỉnh gửi thông báo cho Bộ Tài chính, Ngân hàng Nhà nước Việt Nam, Bộ Kế hoạch và Đầu tư, Liên minh Hợp tác xã Việt Nam kèm theo Quyết định thành lập Quỹ hợp tác xã địa phương; Quỹ hợp tác xã địa phương có trách nhiệm thông báo công khai việc thành lập Quỹ trên các phương tiện thông tin đại chúng;
+
+e) Trong thời hạn 180 ngày kể từ ngày Quyết định thành lập Quỹ hợp tác xã địa phương được ban hành, Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí ngân sách địa phương cấp đủ vốn điều lệ theo Quyết định đã ban hành.
+
+5. Quy trình thành lập mới Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã:
+
+a) Các sáng lập viên và đại diện Liên minh hợp tác xã cấp tỉnh tổ chức Hội nghị thành lập Quỹ hợp tác xã địa phương thông qua các nội dung để xin chủ trương thành lập Quỹ bao gồm: Đề án thành lập Quỹ theo quy định tại khoản 3 Điều này; dự kiến Điều lệ tổ chức và hoạt động của Quỹ theo quy định tại Điều 19 Nghị định này và các nội dung khác liên quan đến việc thành lập, tổ chức hoạt động của Quỹ. Nghị quyết của Hội nghị thành lập Quỹ hợp tác xã địa phương phải được biểu quyết thông qua theo nguyên tắc đa số;
+
+b) Sau khi Nghị quyết của Hội nghị thành lập Quỹ hợp tác xã địa phương được thông qua, Liên minh hợp tác xã cấp tỉnh báo cáo Ủy ban nhân dân cấp tỉnh xem xét, thẩm định Đề án thành lập Quỹ hợp tác xã địa phương;
+
+c) Trong vòng 30 ngày làm việc kể từ ngày nhận được Đề án thành lập Quỹ hợp tác xã địa phương theo quy định tại điểm b khoản này, trường hợp việc thành lập Quỹ là không khả thi và không đủ điều kiện, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho Liên minh hợp tác xã cấp tỉnh và nêu rõ lý do không phê duyệt;
+
+d) Trường hợp việc thành lập Quỹ là khả thi và đủ điều kiện, Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh xem xét, phê duyệt chủ trương thành lập Quỹ;
+
+đ) Sau khi Hội đồng nhân dân cấp tỉnh chấp thuận về chủ trương, Đại hội thành viên Quỹ hợp tác xã địa phương họp và ra Nghị quyết thành lập Quỹ hợp tác xã địa phương;
+
+e) Sau khi Nghị quyết thành lập Quỹ hợp tác xã được Đại hội thành viên thông qua, Quỹ hợp tác xã địa phương có văn bản đề nghị Sở Kế hoạch và Đầu tư cấp giấy chứng nhận đăng ký Quỹ hợp tác xã địa phương để hoạt động theo quy định của pháp luật;
+
+g) Trong thời gian 30 ngày làm việc kể từ ngày Quỹ hợp tác xã địa phương được cấp giấy chứng nhận đăng ký, Ủy ban nhân dân cấp tỉnh gửi thông báo cho Bộ Tài chính, Ngân hàng Nhà nước Việt Nam, Bộ Kế hoạch và Đầu tư, Liên minh Hợp tác xã Việt Nam kèm theo Giấy chứng nhận đăng ký thành lập Quỹ hợp tác xã địa phương. Quỹ hợp tác xã địa phương có trách nhiệm thông báo công khai việc thành lập Quỹ trên các phương tiện thông tin đại chúng;
+
+h) Trong thời hạn 180 ngày kể từ ngày Giấy chứng nhận đăng ký thành lập Quỹ hợp tác xã địa phương được cấp, thành viên góp vốn có trách nhiệm thực hiện góp đủ vốn điều lệ đã cam kết.
 
 Điều 12.4.NĐ.2.16. Mô hình hoạt động và phương thức tổ chức điều hành hoạt động của Quỹ hợp tác xã địa phương
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001600
+1. Quỹ hợp tác xã địa phương hoạt động theo một trong hai mô hình sau:
 
-**ID:** dk_00013367
+a) Mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ;
 
----
+b) Mô hình hợp tác xã.
 
+2. Quỹ hợp tác xã địa phương được tổ chức điều hành theo một trong hai phương thức sau:
 
-### Điều 12.4.NĐ.2.17. Quyền hạn, trách nhiệm của Ủy ban nhân dân cấp tỉnh và Liên minh hợp tác xã cấp tỉnh; cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ
+a) Thành lập bộ máy tổ chức, quản lý điều hành độc lập Quỹ hợp tác xã địa phương và triển khai các hoạt động nghiệp vụ theo quy định tại Nghị định này;
+
+b) Ủy thác cho các tổ chức tài chính tại địa phương để quản lý. Việc ủy thác được thực hiện thông qua văn bản ủy thác ký giữa hai bên, trong đó phải bao gồm các nội dung cơ bản sau: Phạm vi, nội dung ủy thác, quy trình ủy thác; trách nhiệm, nghĩa vụ và quyền hạn giữa bên ủy thác và bên nhận ủy thác; rủi ro phát sinh và các nội dung khác có liên quan.
 
 Điều 12.4.NĐ.2.17. Quyền hạn, trách nhiệm của Ủy ban nhân dân cấp tỉnh và Liên minh hợp tác xã cấp tỉnh; cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001700
+1. Quyền hạn, trách nhiệm của Ủy ban nhân dân cấp tỉnh:
 
-**ID:** dk_00013368
+a) Phê duyệt chiến lược, kế hoạch hoạt động, kế hoạch tài chính và kế hoạch đầu tư phát triển 05 năm theo đề nghị của Liên minh hợp tác xã cấp tỉnh;
 
----
+b) Quyết định việc thành lập, cơ cấu, tổ chức lại, chuyển đổi sở hữu, phá sản, giải thể Quỹ hợp tác xã địa phương theo đề nghị của Liên minh hợp tác xã cấp tỉnh, trên cơ sở ý kiến tham gia của Sở Tài chính, Sở Kế hoạch và Đầu tư và Sở Tư pháp sau khi có ý kiến chấp thuận của Hội đồng nhân dân cấp tỉnh;
 
+c) Quyết định mức vốn điều lệ và phê duyệt điều chỉnh tăng, giảm mức vốn điều lệ của Quỹ hợp tác xã địa phương trong quá trình hoạt động theo đề nghị của Liên minh hợp tác xã cấp tỉnh, ý kiến tham gia của Sở Tài chính và Sở Kế hoạch và Đầu tư sau khi có ý kiến chấp thuận của Hội đồng nhân dân cấp tỉnh;
 
-### Điều 12.4.TT.6.10. Phê duyệt báo cáo tài chính
+d) Ban hành, sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương theo quy định tại Nghị định này;
 
-*Nội dung chưa có sẵn*
+đ) Bổ nhiệm hoặc ủy quyền cho Liên minh hợp tác xã cấp tỉnh bổ nhiệm đối với các chức danh Chủ tịch Quỹ, Kiểm soát viên, Giám đốc Quỹ theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
 
-**Chỉ mục:** 10
+e) Quyền hạn, trách nhiệm khác theo quy định tại Nghị định này và quy định của pháp luật có liên quan.
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000170000802810300520001000
+2. Quyền hạn, trách nhiệm của Liên minh hợp tác xã cấp tỉnh:
 
-**ID:** dk_00013369
+a) Phê duyệt kế hoạch hoạt động, kế hoạch tài chính hàng năm của Quỹ hợp tác xã địa phương sau khi có ý kiến chấp thuận của Ủy ban nhân dân cấp tỉnh;
 
----
+b) Quyết định về quy hoạch, bổ nhiệm, bổ nhiệm lại, chấp thuận từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với các chức danh được phân cấp theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã;
 
+c) Phê duyệt Báo cáo tài chính, phân phối lợi nhuận, trích lập các quỹ hàng năm của Quỹ hợp tác xã địa phương sau khi có ý kiến thẩm định của Kiểm soát viên của Quỹ hợp tác xã địa phương;
 
-### Điều 12.4.TT.6.12. Lập kế hoạch tài chính hằng năm
+d) Thực hiện một số quyền hạn, trách nhiệm khác do Ủy ban nhân dân cấp tỉnh giao quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương.
 
-*Nội dung chưa có sẵn*
+3. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương gồm:
 
-**Chỉ mục:** 12
+a) Chủ tịch Quỹ;
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000170000802810300520001200
+b) Kiểm soát viên;
 
-**ID:** dk_00013370
+c) Ban điều hành gồm: Giám đốc, các Phó Giám đốc, Kế toán trưởng và bộ máy giúp việc.
 
----
+4. Chủ tịch Quỹ hợp tác xã địa phương:
 
+a) Chủ tịch Quỹ hợp tác xã địa phương là người đại diện chủ sở hữu thực hiện quyền, trách nhiệm của đại diện chủ sở hữu nhà nước tại Quỹ;
 
-### Điều 12.4.NĐ.2.18. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã
+b) Nhiệm kỳ của Chủ tịch Quỹ hợp tác xã địa phương không quá 5 năm và có thể được bổ nhiệm lại nhưng không quá 02 nhiệm kỳ. Việc bổ nhiệm, miễn nhiệm Chủ tịch Quỹ hợp tác xã địa phương theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+c) Tiêu chuẩn, điều kiện bổ nhiệm Chủ tịch Quỹ hợp tác xã địa phương: Đáp ứng các tiêu chuẩn, điều kiện quy định tại các điểm a, b, c và d khoản 3 Điều 10 Nghị định này; không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của Chủ tịch, Phó Chủ tịch Liên minh hợp tác xã cấp tỉnh; Kiểm soát viên, Giám đốc, Phó Giám đốc và Kế toán trưởng của Quỹ và các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Liên minh hợp tác xã cấp tỉnh quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+d) Trách nhiệm và quyền hạn của Chủ tịch Quỹ hợp tác xã địa phương: Xây dựng và trình Liên minh hợp tác xã cấp tỉnh để trình Ủy ban nhân dân cấp tỉnh phê duyệt chiến lược, kế hoạch hoạt động, kế hoạch tài chính và kế hoạch đầu tư phát triển 05 năm; xây dựng và trình Liên minh hợp tác xã cấp tỉnh phê duyệt kế hoạch hoạt động, kế hoạch tài chính hàng năm của Quỹ hợp tác xã địa phương. Đề nghị Liên minh hợp tác xã cấp tỉnh quy hoạch, bổ nhiệm, bổ nhiệm lại, chấp thuận từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với các chức danh được phân cấp theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương. Báo cáo Liên minh hợp tác xã cấp tỉnh đề nghị Ủy ban nhân dân cấp tỉnh sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương; điều chỉnh tăng, giảm vốn điều lệ, tổ chức lại, chuyển đổi mô hình, giải thể, phá sản Quỹ hợp tác xã địa phương. Trình Liên minh hợp tác xã cấp tỉnh phê duyệt báo cáo tài chính, phân phối lợi nhuận, trích lập các quỹ hàng năm của Quỹ hợp tác xã địa phương sau khi có ý kiến thẩm định của Kiểm soát viên Quỹ hợp tác xã địa phương. Quyết định ban hành, sửa đổi, bổ sung các quy trình, quy chế nội bộ về tổ chức, quản trị và hoạt động của Quỹ hợp tác xã địa phương sau khi có ý kiến chấp thuận của Liên minh hợp tác xã cấp tỉnh. Thực hiện các quyền hạn và trách nhiệm khác quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương.
+
+5. Kiểm soát viên Quỹ hợp tác xã địa phương:
+
+a) Kiểm soát viên Quỹ hợp tác xã địa phương giúp Liên minh hợp tác xã cấp tỉnh kiểm soát việc tổ chức thực hiện các hoạt động quản lý, điều hành của Chủ tịch và Giám đốc Quỹ hợp tác xã địa phương và các nội dung khác có liên quan;
+
+b) Kiểm soát viên của Quỹ hợp tác xã địa phương có nhiệm kỳ không quá 05 năm và có thể được bổ nhiệm lại nhưng không quá 02 nhiệm kỳ; việc bổ nhiệm, miễn nhiệm Kiểm soát viên Quỹ hợp tác xã địa phương theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+c) Tiêu chuẩn, điều kiện bổ nhiệm Kiểm soát viên Quỹ hợp tác xã địa phương: Đáp ứng các tiêu chuẩn, điều kiện quy định tại các điểm a, b, c và d khoản 3 Điều 10 Nghị định này; không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của Chủ tịch, Phó Chủ tịch Liên minh hợp tác xã cấp tỉnh; Chủ tịch Quỹ, Giám đốc, Phó Giám đốc và Kế toán trưởng của Quỹ và các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Liên minh hợp tác xã cấp tỉnh quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã;
+
+d) Chủ tịch Liên minh hợp tác xã cấp tỉnh ban hành Quy chế hoạt động của Kiểm soát viên Quỹ hợp tác xã địa phương theo quy định về quy chế hoạt động của Kiểm soát viên công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, phù hợp với quy định tại Nghị định này.
+
+6. Giám đốc Quỹ hợp tác xã địa phương:
+
+a) Giám đốc Quỹ hợp tác xã địa phương trực tiếp điều hành hoạt động của Quỹ;
+
+b) Giám đốc Quỹ được bổ nhiệm với nhiệm kỳ không quá 05 năm và được bổ nhiệm lại hoặc thay thế. Việc bổ nhiệm, miễn nhiệm Giám đốc Quỹ hợp tác xã địa phương theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+c) Tiêu chuẩn, điều kiện bổ nhiệm Giám đốc Quỹ hợp tác xã địa phương: Đáp ứng các tiêu chuẩn, điều kiện quy định tại các điểm a, b, c và d khoản 3 Điều 10 Nghị định này; không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của Chủ tịch, Phó Chủ tịch Liên minh hợp tác xã cấp tỉnh; Chủ tịch Quỹ, Kiểm soát viên, Phó Giám đốc và Kế toán trưởng của Quỹ và các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Liên minh hợp tác xã cấp tỉnh quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+d) Quyền hạn và trách nhiệm của Giám đốc Quỹ hợp tác xã địa phương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ.
+
+7. Phó Giám đốc, Kế toán trưởng và bộ máy giúp việc Quỹ:
+
+a) Phó Giám đốc Quỹ hợp tác xã địa phương do Chủ tịch Quỹ hợp tác xã địa phương bổ nhiệm, miễn nhiệm trên cơ sở đề nghị của Giám đốc Quỹ. Phó Giám đốc Quỹ giúp Giám đốc Quỹ điều hành Quỹ hợp tác xã địa phương theo phân công và ủy quyền của Giám đốc Quỹ; chịu trách nhiệm trước Giám đốc và trước pháp luật về nhiệm vụ được phân công và ủy quyền;
+
+b) Kế toán trưởng Quỹ hợp tác xã địa phương do Chủ tịch Quỹ hợp tác xã địa phương bổ nhiệm, miễn nhiệm trên cơ sở đề nghị của Giám đốc Quỹ. Kế toán trưởng chịu trách nhiệm tổ chức thực hiện công tác kế toán, thống kê tài chính của Quỹ hợp tác xã địa phương theo phân công của Giám đốc và phù hợp với quy định của pháp luật về kế toán và Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã;
+
+c) Bộ máy giúp việc của Quỹ hợp tác xã địa phương gồm các phòng, ban chuyên môn, nghiệp vụ có chức năng tham mưu, giúp việc Chủ tịch và Giám đốc Quỹ điều hành, quản lý Quỹ. Giám đốc Quỹ quyết định bổ nhiệm, miễn nhiệm các chức danh lãnh đạo của bộ máy giúp việc sau khi được Chủ tịch Quỹ phê duyệt. Cơ cấu tổ chức và chức năng, nhiệm vụ, quyền hạn của bộ máy giúp việc quy định cụ thể tại Điều lệ tổ chức và hoạt động của Quỹ;
+
+d) Tiêu chuẩn, điều kiện bổ nhiệm Phó Giám đốc, Kế toán trưởng Quỹ thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+đ) Quyền hạn và trách nhiệm của Phó Giám đốc, Kế toán trưởng và bộ máy giúp việc của Quỹ hợp tác xã địa phương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương.
+
+Điều 12.4.TT.6.10. Phê duyệt báo cáo tài chính
+
+(Điều 10 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+Hằng năm, Quỹ hợp tác xã có trách nhiệm báo cáo, trình Liên minh hợp tác xã cùng cấp (đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ) hoặc Đại hội thành viên (đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã) phê duyệt báo cáo tài chính, phân phối kết quả tài chính sau khi báo cáo tài chính năm đã được kiểm toán bởi tổ chức kiểm toán độc lập theo quy định pháp luật về kiểm toán và có ý kiến thẩm định của kiểm soát viên.
+
+Điều 12.4.TT.6.12. Lập kế hoạch tài chính hằng năm
+
+(Điều 12 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
+
+1. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ:
+
+a) Xây dựng kế hoạch tài chính năm: Quỹ hợp tác xã có trách nhiệm xây dựng kế hoạch tài chính năm trình Liên minh hợp tác xã cùng cấp phê duyệt theo mẫu tại Phụ lục 3, Phụ lục 4, Phụ lục 5 và Phụ lục 6 ban hành kèm theo Thông tư này gồm: Kế hoạch tài chính năm; kế hoạch doanh thu - chi phí; kế hoạch đầu tư xây dựng cơ bản, mua sắm tài sản; kế hoạch nguồn vốn và sử dụng vốn;
+
+b) Thời gian phê duyệt kế hoạch tài chính: Trước ngày 30 tháng 4 năm kế hoạch:
+
+- Liên minh hợp tác xã Việt Nam xem xét, phê duyệt kế hoạch tài chính năm đối với Quỹ hợp tác xã Trung ương;
+
+- Liên minh hợp tác xã cấp tỉnh xem xét, phê duyệt kế hoạch tài chính năm đối với Quỹ hợp tác xã địa phương sau khi có ý kiến chấp thuận của Ủy ban nhân dân cấp tỉnh và gửi Ủy ban nhân dân cấp tỉnh, cơ quan tài chính cùng cấp để phục vụ công tác quản lý, giám sát.
+
+2. Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã:
+
+a) Xây dựng kế hoạch tài chính năm: Quỹ hợp tác xã có trách nhiệm xây dựng kế hoạch tài chính năm trình Đại hội thành viên thông qua theo mẫu tại Phụ lục 3, Phụ lục 4, Phụ lục 5 và Phụ lục 6 ban hành kèm theo Thông tư này;
+
+b) Thời gian phê duyệt kế hoạch tài chính: Trước ngày 30 tháng 4 năm kế hoạch, Đại hội thành viên xem xét, phê duyệt kế hoạch tài chính năm để Quỹ hợp tác xã triển khai, thực hiện.
 
 Điều 12.4.NĐ.2.18. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001800
+1. Cơ cấu tổ chức, bộ máy của Quỹ gồm:
 
-**ID:** dk_00013371
+a) Đại hội thành viên;
 
----
+b) Hội đồng quản trị;
 
+c) Kiểm soát viên;
 
-### Điều 12.4.NĐ.2.19. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương
+d) Ban điều hành gồm: Giám đốc, các Phó Giám đốc Quỹ, Kế toán trưởng và bộ máy giúp việc.
+
+2. Đại hội thành viên:
+
+a) Đại hội thành viên có quyền quyết định cao nhất của Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã. Đại hội thành viên gồm có Đại hội thường niên và Đại hội bất thường. Đại hội thành viên được tổ chức dưới hình thức đại hội toàn thể hoặc đại hội đại biểu thành viên theo quy định của Luật Hợp tác xã;
+
+b) Đại hội thành viên có quyền hạn và nhiệm vụ theo quy định tại Luật Hợp tác xã.
+
+3. Hội đồng quản trị:
+
+a) Hội đồng quản trị Quỹ hợp tác xã địa phương do Đại hội thành viên bầu, miễn nhiệm, bãi nhiệm theo thể thức bỏ phiếu kín. Hội đồng quản trị tối thiểu là 03 người gồm: Chủ tịch và các thành viên. Chủ tịch Hội đồng quản trị Quỹ hợp tác xã địa phương hoạt động theo chế độ kiêm nhiệm hoặc chuyên trách, có nhiệm kỳ không quá 05 năm và có thể được bổ nhiệm lại nhưng không quá 02 nhiệm kỳ;
+
+b) Tiêu chuẩn, điều kiện bổ nhiệm Chủ tịch Hội đồng quản trị Quỹ hợp tác xã địa phương theo quy định tại điểm c khoản 4 Điều 17 Nghị định này và Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+c) Trách nhiệm và quyền hạn của Chủ tịch Hội đồng quản trị Quỹ hợp tác xã địa phương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương.
+
+4. Kiểm soát viên Quỹ hợp tác xã địa phương:
+
+a) Kiểm soát viên Quỹ hợp tác xã địa phương do Đại hội thành viên bầu, miễn nhiệm, bãi nhiệm theo thể thức bỏ phiếu kín;
+
+b) Kiểm soát viên hoạt động theo chế độ chuyên trách hoặc kiêm nhiệm, có nhiệm kỳ không quá 05 năm và có thể được bầu, bổ nhiệm lại nhưng không quá 02 nhiệm kỳ để giúp kiểm soát việc tổ chức thực hiện các hoạt động quản lý, điều hành của Hội đồng quản trị, Giám đốc Quỹ và các nội dung khác có liên quan;
+
+c) Tiêu chuẩn, điều kiện bổ nhiệm Kiểm soát viên Quỹ hợp tác xã địa phương thực hiện theo quy định tại khoản 3 Điều 11 Nghị định này và Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+d) Đại hội thành viên thông qua Nghị quyết ban hành Quy chế hoạt động của Kiểm soát viên Quỹ hợp tác xã địa phương, phù hợp với quy định tại Luật Hợp tác xã và Nghị định này.
+
+5. Giám đốc Quỹ hợp tác xã địa phương:
+
+a) Giám đốc Quỹ hợp tác xã địa phương do Đại hội thành viên bầu, miễn nhiệm, bãi nhiệm theo thể thức bỏ phiếu kín; là người trực tiếp điều hành hoạt động của Quỹ. Giám đốc Quỹ được bổ nhiệm với nhiệm kỳ không quá 05 năm và có thể được bổ nhiệm lại hoặc thay thế;
+
+b) Tiêu chuẩn, điều kiện bổ nhiệm Giám đốc Quỹ hợp tác xã địa phương thực hiện theo quy định tại điểm c khoản 6 Điều 17 Nghị định này và Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+c) Quyền hạn và trách nhiệm của Giám đốc Quỹ hợp tác xã địa phương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương.
+
+6. Phó Giám đốc, Kế toán trưởng và bộ máy giúp việc:
+
+a) Phó Giám đốc Quỹ do Chủ tịch Hội đồng quản trị Quỹ bổ nhiệm, miễn nhiệm trên cơ sở đề nghị của Giám đốc Quỹ. Phó Giám đốc Quỹ giúp Giám đốc Quỹ điều hành Quỹ hợp tác xã địa phương theo phân công và ủy quyền của Giám đốc Quỹ; chịu trách nhiệm trước Giám đốc và trước pháp luật về nhiệm vụ được phân công và ủy quyền. Chủ tịch Hội đồng quản trị quyết định cơ cấu, số lượng Phó Giám đốc theo quy mô, điều kiện hoạt động của Quỹ trong từng thời kỳ;
+
+b) Kế toán trưởng Quỹ do Chủ tịch Hội đồng quản trị Quỹ bổ nhiệm, miễn nhiệm trên cơ sở đề nghị của Giám đốc Quỹ. Kế toán trưởng chịu trách nhiệm tổ chức thực hiện công tác kế toán, thống kê tài chính của Quỹ hợp tác xã theo phân công của Giám đốc và phù hợp với quy định của pháp luật về kế toán và pháp luật có liên quan;
+
+c) Bộ máy giúp việc của Quỹ gồm các phòng, ban chuyên môn, nghiệp vụ có chức năng tham mưu, giúp việc Hội đồng quản trị và Giám đốc Quỹ điều hành, quản lý Quỹ. Giám đốc Quỹ quyết định bổ nhiệm, miễn nhiệm các chức danh lãnh đạo của bộ máy giúp việc sau khi được Hội đồng quản trị Quỹ phê duyệt về chủ trương. Cơ cấu tổ chức và chức năng, nhiệm vụ, quyền hạn của bộ máy giúp việc quy định cụ thể tại Điều lệ tổ chức và hoạt động của Quỹ;
+
+d) Tiêu chuẩn, điều kiện bổ nhiệm Phó Giám đốc, Kế toán trưởng Quỹ hợp tác xã địa phương thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương;
+
+đ) Quyền hạn và trách nhiệm của Phó Giám đốc, Kế toán trưởng và bộ máy giúp việc của Quỹ hợp tác xã địa phương thực hiện theo quy định tai Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương.
 
 Điều 12.4.NĐ.2.19. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450001900
+1. Nội dung của Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương phù hợp với mô hình tổ chức và hoạt động của Quỹ hợp tác xã địa phương và phải đảm bảo các nội dung cơ bản được quy định tại Điều 14 Nghị định này.
 
-**ID:** dk_00013372
+2. Ủy ban nhân dân cấp tỉnh ban hành Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ. Đại hội thành viên Quỹ hợp tác xã địa phương ban hành Nghị quyết phê duyệt Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã.
 
----
+Điều 12.4.NĐ.2.20. Đối tượng và phạm vi cho vay
 
+(Điều 20 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-### Điều 12.4.NĐ.2.20. Đối tượng và phạm vi cho vay
+1. Đối tượng cho vay:
 
-*Nội dung chưa có sẵn*
+a) Đối tượng cho vay của Quỹ hợp tác xã là hợp tác xã, liên hiệp hợp tác xã; thành viên của tổ hợp tác, hợp tác xã (trừ đối tượng thành viên hợp tác xã là doanh nghiệp);
 
-**Chỉ mục:** 20
+b) Liên minh Hợp tác xã Việt Nam, Ủy ban nhân dân cấp tỉnh quy định đối tượng được ưu tiên cho vay từ Quỹ hợp tác xã căn cứ vào chiến lược phát triển của Quỹ.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002000
+2. Phạm vi cho vay:
 
-**ID:** dk_00013373
+a) Quỹ hợp tác xã trung ương cho vay đối với các đối tượng quy định tại khoản 1 Điều này trên phạm vi toàn quốc;
 
----
+b) Quỹ hợp tác xã địa phương cho vay đối với các đối tượng quy định tại khoản 1 Điều này trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi Quỹ hợp tác xã thành lập.
 
+Điều 12.4.NĐ.2.21. Nguyên tắc cho vay
 
-### Điều 12.4.NĐ.2.21. Nguyên tắc cho vay
+(Điều 21 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-*Nội dung chưa có sẵn*
+1. Hoạt động cho vay của Quỹ hợp tác xã đối với khách hàng được thực hiện theo thỏa thuận giữa Quỹ hợp tác xã và khách hàng, phù hợp với quy định tại Nghị định này.
 
-**Chỉ mục:** 21
+2. Khách hàng vay vốn Quỹ hợp tác xã phải đảm bảo sử dụng vốn vay đúng mục đích, hoàn trả nợ gốc và lãi tiền vay đúng thời hạn đã thỏa thuận với Quỹ hợp tác xã.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002100
+Điều 12.4.NĐ.2.22. Điều kiện cho vay
 
-**ID:** dk_00013374
+(Điều 22 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
----
+1. Khách hàng thuộc đối tượng quy định tại khoản 1 Điều 20 Nghị định này.
 
+2. Khách hàng vay vốn là pháp nhân được thành lập theo quy định của pháp luật. Khách hàng vay vốn là cá nhân phải đủ 18 tuổi trở lên và có đầy đủ năng lực hành vi dân sự theo quy định của pháp luật.
 
-### Điều 12.4.NĐ.2.22. Điều kiện cho vay
+3. Khách hàng có dự án đầu tư hoặc phương án sản xuất, kinh doanh được Quỹ hợp tác xã thẩm định, đánh giá là khả thi và có khả năng hoàn trả nợ vay.
 
-*Nội dung chưa có sẵn*
+4. Khách hàng thực hiện quy định về bảo đảm tiền vay theo quy định tại Điều 26 Nghị định này.
 
-**Chỉ mục:** 22
+5. Khách hàng có vốn chủ sở hữu tham gia dự án đầu tư, phương án sản xuất, kinh doanh tối thiểu là 20% tổng vốn đầu tư dự án, phương án sản xuất kinh doanh.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002200
-
-**ID:** dk_00013375
-
----
-
-
-### Điều 12.4.NĐ.2.23. Mức vốn cho vay và giới hạn cho vay
+6. Tại thời điểm giải ngân lần đầu tiên của Quỹ hợp tác xã sau khi ký kết hợp đồng tín dụng, khách hàng không có nợ xấu tại các tổ chức tín dụng.
 
 Điều 12.4.NĐ.2.23. Mức vốn cho vay và giới hạn cho vay
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002300
+1. Mức vốn vay: Căn cứ vào phương án sử dụng vốn vay, khả năng tài chính, khả năng hoàn trả vốn vay, bảo đảm tiền vay của khách hàng và giới hạn cho vay quy định tại Nghị định này, Quỹ hợp tác xã xem xét, quyết định mức vốn cho vay cụ thể cho từng khách hàng, phù hợp với khả năng nguồn vốn và năng lực tài chính của Quỹ hợp tác xã.
 
-**ID:** dk_00013376
+2. Giới hạn cho vay:
 
----
+a) Tổng mức dư nợ cho vay đối với một khách hàng không vượt quá 15% vốn điều lệ thực có của Quỹ hợp tác xã tại thời điểm quyết định cho vay;
 
+b) Tổng mức dư nợ cho vay đối với một khách hàng và người có liên quan không vượt quá 25% vốn điều lệ thực có của Quỹ hợp tác xã tại thời điểm quyết định cho vay.
 
-### Điều 12.4.NĐ.2.24. Thời hạn cho vay
+3. Các Quỹ hợp tác xã cho vay họp vốn thực hiện theo hợp đồng thỏa thuận giữa các Quỹ hợp tác xã và khách hàng, phù hợp với quy định tại Nghị định này và pháp luật có liên quan.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.2.24. Thời hạn cho vay
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002400
+1. Thời hạn cho vay của Quỹ hợp tác xã đối với khách hàng được xác định trên cơ sở khả năng thu hồi vốn, phù hợp với chu kỳ sản xuất kinh doanh, phương án đầu tư và khả năng trả nợ của khách hàng.
 
-**ID:** dk_00013377
-
----
-
-
-### Điều 12.4.NĐ.2.25. Lãi suất cho vay và đồng tiền cho vay, thu nợ
+2. Thời hạn cho vay cụ thể đối với từng dự án đầu tư, phương án sản xuất, kinh doanh của khách hàng do Quỹ hợp tác xã xem xét, quyết định.
 
 Điều 12.4.NĐ.2.25. Lãi suất cho vay và đồng tiền cho vay, thu nợ
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002500
+1. Nguyên tắc xác định lãi suất và đồng tiền cho vay, thu nợ
 
-**ID:** dk_00013378
+a) Lãi suất cho vay của Quỹ hợp tác xã phải phù hợp với chính sách ưu đãi, kế hoạch phát triển kinh tế hợp tác, hợp tác xã của Chính phủ và từng địa phương, đồng thời, đảm bảo nguyên tắc trang trải đủ chi phí hoạt động của Quỹ hợp tác xã và phù hợp với quy định của pháp luật về lãi suất cho vay;
 
----
+b) Lãi suất quá hạn đối với từng trường hợp cụ thể do Quỹ hợp tác xã quyết định, tối đa bằng 150% lãi suất cho vay trong hạn;
 
+c) Đồng tiền cho vay và thu nợ là đồng Việt Nam.
 
-### Điều 12.4.NĐ.2.26. Bảo đảm tiền vay
+2. Thẩm quyền quy định lãi suất cho vay, lãi suất quá hạn, miễn, giảm lãi suất cho vay thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã, quy định nội bộ về cho vay, quản lý tiền vay.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.2.26. Bảo đảm tiền vay
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002600
+1. Việc áp dụng biện pháp bảo đảm tiền vay hoặc không có bảo đảm bằng tài sản do Quỹ hợp tác xã và khách hàng thỏa thuận, phù hợp với quy định của pháp luật về biện pháp bảo đảm.
 
-**ID:** dk_00013379
+2. Quỹ hợp tác xã được xử lý tài sản bảo đảm của khách hàng để thu hồi nợ theo quy định của pháp luật về giao dịch bảo đảm.
 
----
+Điều 12.4.NĐ.2.27. Cơ cấu lại thời hạn trả nợ
 
+(Điều 27 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-### Điều 12.4.NĐ.2.27. Cơ cấu lại thời hạn trả nợ
+Quỹ hợp tác xã xem xét quyết định cơ cấu lại thời hạn trả nợ (bao gồm biện pháp điều chỉnh kỳ hạn nợ, gia hạn nợ) trên cơ sở đề nghị của khách hàng, khả năng tài chính của Quỹ hợp tác xã và kết quả đánh giá khả năng trả nợ của khách hàng, như sau:
 
-*Nội dung chưa có sẵn*
+1. Khách hàng không có khả năng trả nợ đúng kỳ hạn nợ gốc và/hoặc lãi tiền vay và được Quỹ hợp tác xã đánh giá là có khả năng trả đầy đủ nợ gốc và/hoặc lãi tiền vay theo kỳ hạn trả nợ được điều chỉnh, thì Quỹ hợp tác xã xem xét điều chỉnh kỳ hạn trả nợ gốc và/hoặc lãi tiền vay đó phù hợp với nguồn trả nợ của khách hàng; thời hạn cho vay không thay đổi.
 
-**Chỉ mục:** 27
+2. Khách hàng không có khả năng trả đầy đủ nợ gốc và/hoặc lãi tiền vay đúng thời hạn cho vay đã thỏa thuận và được Quỹ hợp tác xã đánh giá là có khả năng trả đầy đủ nợ gốc và/hoặc lãi tiền vay trong một khoảng thời gian nhất định sau thời hạn cho vay, thì Quỹ hợp tác xã xem xét cho gia hạn nợ với thời hạn phù hợp với nguồn trả nợ của khách hàng.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002700
-
-**ID:** dk_00013380
-
----
-
-
-### Điều 12.4.NĐ.2.28. Phân loại nợ, trích lập, sử dụng dự phòng rủi ro cho vay
+3. Thẩm quyền quyết định việc cơ cấu lại thời hạn trả nợ theo Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã và quy định nội bộ về cho vay, quản lý tiền vay của Quỹ.
 
 Điều 12.4.NĐ.2.28. Phân loại nợ, trích lập, sử dụng dự phòng rủi ro cho vay
 
-**Chỉ mục:** 28
+(Điều 28 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002800
+1. Quỹ hợp tác xã thực hiện phân loại nợ, trích lập dự phòng rủi ro đối với các khoản cho vay chịu rủi ro và sử dụng dự phòng để xử lý rủi ro cho vay theo quy định của Ngân hàng Nhà nước Việt Nam đối với tổ chức tài chính vi mô.
 
-**ID:** dk_00013381
+2. Đối với những khoản cho vay ủy thác hoặc nhận ủy thác mà Quỹ hợp tác xã không chịu rủi ro thì không trích lập dự phòng rủi ro.
 
----
+3. Sau 05 năm kể từ ngày sử dụng dự phòng để xử lý rủi ro cho vay và đã sử dụng mọi biện pháp mà không thu hồi được nợ, căn cứ đề nghị của Hội đồng xử lý rủi ro của Quỹ hợp tác xã:
 
+a) Đối với Quỹ hợp tác xã trung ương: Chủ tịch Quỹ hợp tác xã Việt Nam quyết định xuất toán khoản nợ đã chuyển theo dõi ngoại bảng trên cơ sở phê duyệt của Liên minh Hợp tác xã Việt Nam sau khi báo cáo Thủ tướng Chính phủ;
 
-### Điều 12.4.NĐ.2.29. Hội đồng xử lý rủi ro
+b) Đối với Quỹ hợp tác xã địa phương hoạt động theo mô hình Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Chủ tịch Quỹ hợp tác xã địa phương quyết định xuất toán khoản nợ đã chuyển theo dõi ngoại bảng trên cơ sở phê duyệt của Liên minh hợp tác xã cấp tỉnh sau khi báo cáo Ủy ban nhân dân cấp tỉnh.
 
-*Nội dung chưa có sẵn*
+4. Đối với Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã: Chủ tịch Hội đồng quản trị Quỹ hợp tác xã địa phương quyết định xuất toán khoản nợ đã chuyển theo dõi ngoại bảng sau khi được Đại hội thành viên của Quỹ hợp tác xã thông qua.
 
-**Chỉ mục:** 29
+5. Căn cứ quy định tại khoản 1, khoản 2 và khoản 3 Điều này, Quỹ hợp tác xã ban hành quy định nội bộ về phân loại nợ, trích lập dự phòng rủi ro và sử dụng dự phòng để xử lý rủi ro cho vay theo quy định tại Nghị định này.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450002900
+Điều 12.4.NĐ.2.29. Hội đồng xử lý rủi ro
 
-**ID:** dk_00013382
+(Điều 29 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
----
+1. Quỹ hợp tác xã phải thành lập Hội đồng xử lý rủi ro do Chủ tịch/Chủ tịch Hội đồng quản trị của Quỹ làm Chủ tịch và các thành viên gồm Kiểm soát viên, Giám đốc Quỹ, Kế toán trưởng, Trưởng phòng cho vay và các thành viên khác do Chủ tịch/Chủ tịch Hội đồng quản trị của Quỹ quyết định.
 
+2. Nhiệm vụ của Hội đồng xử lý rủi ro:
 
-### Điều 12.4.NĐ.2.30. Hoạt động ủy thác cho vay của Quỹ hợp tác xã trung ương
+a) Định kỳ hàng quý xem xét việc đánh giá phân loại nợ, trích lập dự phòng rủi ro và sử dụng dự phòng rủi ro do Giám đốc Quỹ báo cáo;
+
+b) Quyết định về việc sử dụng dự phòng để xử lý rủi ro;
+
+c) Quyết định phương án thu hồi nợ đối với các khoản nợ đã được sử dụng dự phòng để xử lý rủi ro cho vay, trong đó phải xác định rõ thời gian và biện pháp để thu hồi nợ;
+
+d) Theo dõi tình hình thực hiện thu hồi nợ đối với các khoản nợ đã được sử dụng dự phòng để xử lý rủi ro;
+
+đ) Chuẩn bị thủ tục, trình tự, hồ sơ để xuất toán các khoản nợ đã chuyển theo dõi ngoại bảng để trình cấp có thẩm quyền xem xét, quyết định theo quy định tại khoản 3 Điều 28 Nghị định này;
+
+e) Xây dựng quy chế hoạt động nội bộ của Hội đồng xử lý rủi ro trình Chủ tịch/Chủ tịch Hội đồng quản trị Quỹ hợp tác xã ký ban hành.
 
 Điều 12.4.NĐ.2.30. Hoạt động ủy thác cho vay của Quỹ hợp tác xã trung ương
 
-**Chỉ mục:** 30
+(Điều 30 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003000
+1. Quỹ hợp tác xã trung ương được ủy thác vốn cho Quỹ hợp tác xã địa phương và các tổ chức tài chính, tín dụng khác để thực hiện hoạt động cho vay.
 
-**ID:** dk_00013383
-
----
-
-
-### Điều 12.4.NĐ.2.31. Ban hành quy định nội bộ về cho vay, quản lý tiền vay
+2. Quỹ hợp tác xã trung ương và tổ chức nhận ủy thác phải ký hợp đồng ủy thác để làm căn cứ triển khai thực hiện. Hợp đồng ủy thác phải quy định rõ các nội dung, gồm: Nội dung và phạm vi ủy thác, số tiền ủy thác, quy trình ủy thác, rủi ro phát sinh, trách nhiệm, nghĩa vụ, quyền hạn của các bên và các nội dung khác có liên quan.
 
 Điều 12.4.NĐ.2.31. Ban hành quy định nội bộ về cho vay, quản lý tiền vay
 
-**Chỉ mục:** 31
+(Điều 31 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003100
+1. Quỹ hợp tác xã ban hành quy định nội bộ về cho vay, quản lý tiền vay theo thẩm quyền quy định tại Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã.
 
-**ID:** dk_00013384
-
----
-
-
-### Điều 12.4.NĐ.2.32. Hoạt động huy động vốn của Quỹ hợp tác xã
+2. Quy định nội bộ về cho vay, quản lý tiền vay phải phù hợp với quy định tại Nghị định này và đặc điểm hoạt động của Quỹ và đảm bảo các nội dung tối thiểu như sau: Đối tượng cho vay, điều kiện cho vay, phương thức cho vay, thời hạn cho vay, lãi suất cho vay, lãi suất quá hạn, hồ sơ cho vay, thu nợ, quy trình và thủ tục cơ cấu lại thời hạn trả nợ, chuyển nợ quá hạn; quy trình thẩm định, phê duyệt và quyết định cho vay; quy trình kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; áp dụng biện pháp bảo đảm tiền vay, các trường hợp được miễn tài sản bảo đảm căn cứ vào kết quả đánh giá mức độ rủi ro và khả năng trả nợ của khách hàng; thẩm quyền quyết định đối với từng biện pháp bảo đảm; xử lý rủi ro.
 
 Điều 12.4.NĐ.2.32. Hoạt động huy động vốn của Quỹ hợp tác xã
 
-**Chỉ mục:** 32
+(Điều 32 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003200
+Quỹ hợp tác xã được huy động vốn phù hợp với loại hình tổ chức của Quỹ hợp tác xã, cụ thể như sau:
 
-**ID:** dk_00013385
+1. Đối với Quỹ hợp tác xã trung ương:
 
----
+Quỹ hợp tác xã trung ương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ thực hiện huy động vốn theo quy định tại Luật Doanh nghiệp, Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và các văn bản hướng dẫn có liên quan.
 
+2. Đối với Quỹ hợp tác xã địa phương:
 
-### Điều 12.4.NĐ.2.33. Hoạt động khác của Quỹ hợp tác xã
+a) Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ thực hiện huy động vốn trên địa bàn theo quy định tại Luật Doanh nghiệp, Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và các văn bản hướng dẫn có liên quan;
+
+b) Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã thực hiện huy động vốn trên địa bàn theo quy định của Luật Hợp tác xã và các văn bản hướng dẫn có liên quan.
 
 Điều 12.4.NĐ.2.33. Hoạt động khác của Quỹ hợp tác xã
 
-**Chỉ mục:** 33
+(Điều 33 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003300
-
-**ID:** dk_00013386
-
----
-
-
-### Điều 12.4.NĐ.2.34. Chế độ tài chính, kế toán và kiểm toán
+Quỹ hợp tác xã được thực hiện các hoạt động dịch vụ tư vấn đầu tư, tài chính và thực hiện các hoạt động dịch vụ hỗ trợ, đào tạo cho các khách hàng vay vốn của Quỹ theo quy định của pháp luật hiện hành.
 
 Điều 12.4.NĐ.2.34. Chế độ tài chính, kế toán và kiểm toán
 
-**Chỉ mục:** 34
+(Điều 34 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003400
+1. Quỹ hợp tác xã thực hiện chế độ tài chính, kế toán, chế độ báo cáo theo quy định tại Nghị định này và hướng dẫn của Bộ Tài chính.
 
-**ID:** dk_00013387
+2. Năm tài chính của Quỹ hợp tác xã từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm.
 
----
+3. Báo cáo tài chính năm của Quỹ hợp tác xã phải được một tổ chức kiếm toán độc lập kiểm toán hoặc kiểm toán nhà nước theo quy định của pháp luật hiện hành.
 
+Điều 12.4.NĐ.2.35. Nguyên tắc quản lý tài chính
 
-### Điều 12.4.NĐ.2.35. Nguyên tắc quản lý tài chính
+(Điều 35 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-*Nội dung chưa có sẵn*
+1. Quỹ hợp tác xã tự chủ về tài chính, tự chịu trách nhiệm trong việc thực hiện các nhiệm vụ được giao, thực hiện các nghĩa vụ và các cam kết của mình theo quy định của pháp luật.
 
-**Chỉ mục:** 35
+2. Quỹ hợp tác xã thực hiện công khai tài chính theo quy định của pháp luật hiện hành. Chủ tịch/Chủ tịch Hội đồng quản trị Quỹ hợp tác xã chịu trách nhiệm về tính chính xác, trung thực của các báo cáo tài chính, thống kê và việc thực hiện công khai tài chính.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003500
-
-**ID:** dk_00013388
-
----
-
-
-### Điều 12.4.NĐ.2.36. Nguồn vốn hoạt động của Quỹ hợp tác xã
+3. Quỹ hợp tác xã thực hiện nghĩa vụ thuế theo quy định của pháp luật về thuế.
 
 Điều 12.4.NĐ.2.36. Nguồn vốn hoạt động của Quỹ hợp tác xã
 
-**Chỉ mục:** 36
+(Điều 36 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003600
+Nguồn vốn hoạt động của Quỹ hợp tác xã được hình thành từ các nguồn sau:
 
-**ID:** dk_00013389
+1. Vốn chủ sở hữu:
 
----
+a) Vốn điều lệ;
 
+b) Các Quỹ: Quỹ đầu tư phát triển, Quỹ dự phòng tài chính;
 
-### Điều 12.4.NĐ.2.37. Vốn điều lệ của Quỹ hợp tác xã
+c) Vốn hình thành từ các khoản tài trợ, viện trợ, đóng góp không phải hoàn trả của các tổ chức, cá nhân trong và ngoài nước;
 
-*Nội dung chưa có sẵn*
+d) Các khoản chênh lệch do đánh giá lại tài sản;
 
-**Chỉ mục:** 37
+đ) Chênh lệch thu chi chưa phân phối, lỗ lũy kế chưa xử lý;
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003700
+e) Vốn khác thuộc sở hữu của Quỹ hợp tác xã.
 
-**ID:** dk_00013390
+2. Vốn huy động từ các tổ chức, cá nhân trong nước theo quy định tại Điều 32 Nghị định này.
 
----
+3. Các khoản hỗ trợ có hoàn lại của Nhà nước (nếu có) cho Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã thực hiện theo quy định tại Luật Hợp tác xã.
 
+4. Các nguồn vốn hợp pháp khác theo quy định của pháp luật (nếu có).
 
-### Điều 12.4.NĐ.2.38. Nguyên tắc quản lý, sử dụng vốn và tài sản của Quỹ hợp tác xã
+Điều 12.4.NĐ.2.37. Vốn điều lệ của Quỹ hợp tác xã
+
+(Điều 37 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
+
+1. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, vốn điều lệ của Quỹ do ngân sách nhà nước cấp và các nguồn vốn hợp pháp khác, cụ thể như sau:
+
+a) Vốn điều lệ của Quỹ hợp tác xã trung ương là 1.000 (một nghìn) tỷ đồng được bố trí từ nguồn chi đầu tư phát triển của ngân sách trung ương. Việc thay đổi mức vốn điều lệ của Quỹ hợp tác xã trung ương do Thủ tướng Chính phủ quyết định trên cơ sở đề nghị của Liên minh Hợp tác xã Việt Nam sau khi có ý kiến thống nhất với Bộ Tài chính và Bộ Kế hoạch và Đầu tư;
+
+b) Vốn điều lệ của Quỹ hợp tác xã địa phương tối thiểu là 20 (hai mươi) tỷ đồng được bố trí từ nguồn chi đầu tư phát triển của ngân sách địa phương. Việc thay đổi mức vốn điều lệ của Quỹ hợp tác xã địa phương do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định sau khi được Hội đồng nhân dân cùng cấp thông qua trên cơ sở đề nghị của Liên minh hợp tác xã cấp tỉnh sau khi có ý kiến thống nhất với Sở Tài chính và Sở Kế hoạch và Đầu tư.
+
+2. Đối với Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã:
+
+a) Vốn điều lệ của Quỹ hợp tác xã tối thiểu là 20 tỷ đồng do các thành viên góp;
+
+b) Việc thay đổi mức vốn điều lệ của Quỹ hợp tác xã do Đại hội thành viên của Quỹ hợp tác xã quyết định.
 
 Điều 12.4.NĐ.2.38. Nguyên tắc quản lý, sử dụng vốn và tài sản của Quỹ hợp tác xã
 
-**Chỉ mục:** 38
+(Điều 38 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003800
+1. Việc quản lý, sử dụng vốn của Quỹ hợp tác xã phải đảm bảo an toàn, đúng mục đích và có hiệu quả để thực hiện các nhiệm vụ của Quỹ hợp tác xã theo quy định tại Nghị định này.
 
-**ID:** dk_00013391
+2. Đối với quản lý và sử dụng nguồn vốn tạm thời nhàn rỗi:
 
----
+a) Quỹ hợp tác xã được gửi tại các ngân hàng thương mại thành lập và hoạt động hợp pháp tại Việt Nam theo nguyên tắc đảm bảo an toàn và phát triển vốn;
 
+b) Vốn nhàn rỗi của Quỹ hợp tác xã địa phương có thể gửi tại Quỹ hợp tác xã trung ương và ngược lại theo thỏa thuận giữa các bên;
 
-### Điều 12.4.TT.6.3. Quản lý và sử dụng tài sản
+c) Quỹ hợp tác xã xây dựng quy chế nội bộ về quản lý và sử dụng nguồn vốn tạm thời nhàn rỗi, trong đó tối thiểu phải có các nội dung sau: Tiêu chí lựa chọn ngân hàng thương mại để gửi tiền đảm bảo nguyên tắc an toàn và phát triển vốn; thẩm quyền quyết định lựa chọn ngân hàng.
 
-*Nội dung chưa có sẵn*
+3. Việc mua sắm, quản lý, sử dụng tài sản của Quỹ hợp tác xã:
 
-**Chỉ mục:** 3
+a) Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước sở hữu 100% vốn điều lệ: Quỹ hợp tác xã được mua sắm, đầu tư vào tài sản cố định phục vụ trực tiếp cho hoạt động theo nguyên tắc giá trị còn lại của tài sản cố định không vượt quá 10% vốn điều lệ thực có tại thời điểm quyết định đầu tư, mua sắm; chấp hành đầy đủ các quy định của pháp luật về quản lý đầu tư, xây dựng đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước sở hữu 100% vốn điều lệ;
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000380000802810300520000300
+b) Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã: Việc đầu tư, mua sắm tài sản cố định phục vụ trực tiếp cho hoạt động của Quỹ hợp tác xã thực hiện theo quy định tại Luật Hợp tác xã và quy chế nội bộ của Quỹ do Hội đồng quản trị ban hành sau khi có ý kiến chấp thuận của đại hội thành viên Quỹ hợp tác xã.
 
-**ID:** dk_00013392
+Điều 12.4.TT.6.3. Quản lý và sử dụng tài sản
 
----
+(Điều 3 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
+1. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ:
 
-### Điều 12.4.NĐ.2.39. Bảo đảm an toàn vốn
+a) Giới hạn đầu tư xây dựng, mua sắm tài sản cố định phục vụ trực tiếp cho hoạt động của Quỹ thực hiện theo quy định tại điểm a, khoản 3 Điều 38 Nghị định số 45/2021/NĐ-CP;
 
-*Nội dung chưa có sẵn*
+b) Thẩm quyền, trình tự, thủ tục và các nội dung liên quan khác đến việc đầu tư xây dựng, mua sắm, quản lý, sử dụng, khấu hao, thuê, cho thuê, thế chấp, cầm cố, thanh lý, nhượng bán, kiểm kê, đánh giá lại tài sản cố định của Quỹ áp dụng theo quy định của Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, Điều lệ tổ chức và hoạt động, Quy chế quản lý và sử dụng tài sản cố định của Quỹ.
 
-**Chỉ mục:** 39
+2. Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã:
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450003900
+Giới hạn đầu tư xây dựng, mua sắm, thẩm quyền, trình tự, thủ tục và các nội dung liên quan khác đến việc đầu tư xây dựng, mua sắm, quản lý, sử dụng, khấu hao, thuê, cho thuê, thế chấp, cầm cố, thanh lý, nhượng bán, kiểm kê, đánh giá lại tài sản cố định của Quỹ áp dụng theo quy định của pháp luật đối với hợp tác xã, Điều lệ tổ chức và hoạt động, Quy chế quản lý và sử dụng tài sản cố định của Quỹ.
 
-**ID:** dk_00013393
+Điều 12.4.NĐ.2.39. Bảo đảm an toàn vốn
 
----
+(Điều 39 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
+Quỹ hợp tác xã có trách nhiệm thực hiện các quy định về bảo đảm an toàn vốn hoạt động như sau:
 
-### Điều 12.4.NĐ.2.40. Lương, phụ cấp lương của Quỹ hợp tác xã
+1. Quản lý, sử dụng vốn, tài sản, phân phối kết quả tài chính, thực hiện chế độ quản lý tài chính và chế độ kế toán theo đúng quy định tại Nghị định này và các quy định của pháp luật có liên quan.
+
+2. Thực hiện các quy định về giới hạn cho vay theo quy định tại Nghị định này.
+
+3. Mua bảo hiểm tài sản đối với tài sản pháp luật quy định phải mua bảo hiểm theo quy định của pháp luật.
+
+4. Hạch toán vào chi phí hoạt động khoản dự phòng rủi ro cho vay theo quy định tại Nghị định này.
+
+5. Các biện pháp khác về bảo toàn vốn theo quy định của pháp luật.
 
 Điều 12.4.NĐ.2.40. Lương, phụ cấp lương của Quỹ hợp tác xã
 
-**Chỉ mục:** 40
+(Điều 40 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004000
+1. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Quỹ hợp tác xã áp dụng quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, người quản lý Quỹ theo quy định đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ và phù hợp với tính chất và mô hình hoạt động của Quỹ theo quy định tại Nghị định này.
 
-**ID:** dk_00013394
+2. Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã: Quỹ hợp tác xã áp dụng quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, người quản lý Quỹ quy định đối với hợp tác xã theo quy định của Luật Hợp tác xã.
 
----
+Điều 12.4.NĐ.2.41. Thu nhập của Quỹ hợp tác xã
 
+(Điều 41 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-### Điều 12.4.NĐ.2.41. Thu nhập của Quỹ hợp tác xã
+1. Các khoản thu của Quỹ hợp tác xã phải được xác định phù hợp với các chuẩn mực kế toán Việt Nam và các quy định của pháp luật có liên quan, có hóa đơn hoặc chứng từ hợp lệ và phải được hạch toán đầy đủ vào doanh thu.
 
-*Nội dung chưa có sẵn*
+2. Thu nhập của Quỹ hợp tác xã bao gồm:
 
-**Chỉ mục:** 41
+a) Thu từ lãi và các khoản thu nhập tương tự;
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004100
+b) Thu nhập từ hoạt động dịch vụ;
 
-**ID:** dk_00013395
+c) Thu từ hoạt động khác;
 
----
+d) Thu nhập khác theo quy định của pháp luật.
 
+3. Bộ Tài chính hướng dẫn cụ thể các khoản thu của Quỹ hợp tác xã quy định tại khoản 2 Điều này.
 
-### Điều 12.4.TT.6.5. Nguyên tắc ghi nhận doanh thu
+Điều 12.4.TT.6.5. Nguyên tắc ghi nhận doanh thu
 
-*Nội dung chưa có sẵn*
+(Điều 5 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Chỉ mục:** 5
+1. Các khoản thu của Quỹ hợp tác xã phải ghi nhận và hạch toán cho mục đích lập và trình bày báo cáo tài chính thực hiện theo quy định của chuẩn mực kế toán Việt Nam và các quy định của pháp luật có liên quan, có hóa đơn hoặc chứng từ hợp lệ.
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000410000802810300520000500
+2. Đối với thu lãi từ hoạt động cho vay, Quỹ hợp tác xã có trách nhiệm đánh giá khả năng thu hồi nợ và thực hiện phân loại nợ theo đúng quy định tại Điều 28 Nghị định số 45/2021/NĐ-CP để làm căn cứ hạch toán lãi phải thu và thực hiện hạch toán như sau:
 
-**ID:** dk_00013396
+a) Quỹ hạch toán số lãi phải thu phát sinh trong kỳ vào doanh thu đối với các khoản nợ được phân loại là nợ đủ tiêu chuẩn không phải trích dự phòng rủi ro cụ thể theo quy định của Ngân hàng Nhà nước Việt Nam đối với tổ chức tài chính vi mô;
 
----
+b) Đối với số lãi phải thu của các khoản nợ được giữ nguyên nhóm nợ đủ tiêu chuẩn do thực hiện chính sách của Nhà nước và số lãi phải thu phát sinh trong kỳ của khoản nợ còn lại thì không hạch toán doanh thu, Quỹ thực hiện theo dõi ngoại bảng để đôn đốc thu, khi thu được thì hạch toán vào doanh thu.
 
+3. Đối với thu lãi tiền gửi: là số lãi phải thu từ tiền gửi phát sinh trong kỳ.
 
-### Điều 12.4.TT.6.6. Doanh thu
+4. Đối với các khoản phải thu đã hạch toán vào doanh thu nhưng sau đó được đánh giá không thu được hoặc đến kỳ hạn thu không thu được thì Quỹ hạch toán vào chi phí và theo dõi ngoại bảng để đôn đốc thu. Khi thu được thì Quỹ hạch toán vào doanh thu.
 
-*Nội dung chưa có sẵn*
+5. Đối với các khoản thu từ hoạt động khác: Thực hiện theo quy định của pháp luật về thuế và pháp luật có liên quan.
 
-**Chỉ mục:** 6
+6. Việc xác định doanh thu của Quỹ cho mục đích tính thuế thực hiện theo quy định của pháp luật về thuế.
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000410000802810300520000600
+Điều 12.4.TT.6.6. Doanh thu
 
-**ID:** dk_00013397
+(Điều 6 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
----
+Doanh thu của Quỹ là khoản phải thu phát sinh trong kỳ, bao gồm:
 
+1. Thu từ hoạt động nghiệp vụ:
 
-### Điều 12.4.NĐ.2.42. Chi phí của Quỹ hợp tác xã
+a) Thu lãi cho vay;
 
-*Nội dung chưa có sẵn*
+b) Thu phí từ hợp đồng dịch vụ nhận ủy thác cho vay;
 
-**Chỉ mục:** 42
+c) Thu từ hoạt động dịch vụ tư vấn đầu tư, tài chính liên quan đến hoạt động của Quỹ; thu từ hoạt động dịch vụ hỗ trợ, đào tạo cho các khách hàng vay vốn của Quỹ theo quy định của pháp luật;
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004200
+d) Các khoản thu khác từ hoạt động nghiệp vụ theo quy định của pháp luật.
 
-**ID:** dk_00013398
+2. Thu từ hoạt động tài chính:
 
----
+a) Thu lãi tiền gửi;
 
+b) Thu từ chênh lệch tỷ giá (nếu có);
 
-### Điều 12.4.TT.6.7. Nguyên tắc ghi nhận và quản lý chi phí
+c) Thu từ hoạt động tài chính khác.
+
+3. Các khoản thu khác:
+
+a) Thu từ nhượng bán, thanh lý tài sản;
+
+b) Thu từ hoạt động cho thuê tài sản;
+
+c) Chênh lệch các khoản thu bảo hiểm được bồi thường đền bù tổn thất tài sản sau khi thực hiện bù đắp tổn thất;
+
+d) Thu nợ đã xóa thu hồi được;
+
+đ) Thu hoàn nhập dự phòng;
+
+e) Các khoản thu hợp pháp khác theo quy định của pháp luật.
+
+Điều 12.4.NĐ.2.42. Chi phí của Quỹ hợp tác xã
+
+(Điều 42 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
+
+1. Chi phí Quỹ hợp tác xã là các khoản chi phí thực tế phát sinh liên quan đến hoạt động Quỹ; tuân thủ nguyên tắc phù hợp giữa thu nhập và chi phí; có đủ hóa đơn, chứng từ hợp lệ theo quy định của pháp luật. Quỹ hợp tác xã không được hạch toán vào chi phí các khoản chi do các nguồn kinh phí khác đài thọ. Việc xác định và hạch toán chi phí được thực hiện phù hợp với các chuẩn mực kế toán Việt Nam và các quy định của pháp luật có liên quan. Chi phí được trừ khi xác định nghĩa vụ thuế được thực hiện theo quy định của pháp luật về thuế.
+
+2. Chi phí của Quỹ hợp tác xã, bao gồm:
+
+a) Chi phí lãi và các chi phí tương tự;
+
+b) Chi phí hoạt động dịch vụ;
+
+c) Chi hoạt động khác;
+
+d) Chi nộp thuế và các khoản phí, lệ phí;
+
+đ) Chi cho cán bộ, nhân viên Quỹ hợp tác xã;
+
+e) Chi cho hoạt động quản lý và công vụ;
+
+g) Chi về tài sản;
+
+h) Chi trích lập dự phòng rủi ro cho vay;
+
+i) Chi tham gia các hoạt động do Liên minh hợp tác xã các cấp tổ chức liên quan đến hoạt động của Quỹ hợp tác xã;
+
+k) Các khoản chi phí khác.
+
+3. Bộ Tài chính hướng dẫn cụ thể các khoản chi phí của Quỹ hợp tác xã quy định tại khoản 2 Điều này.
 
 Điều 12.4.TT.6.7. Nguyên tắc ghi nhận và quản lý chi phí
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000420000802810300520000700
+1. Chi phí được ghi nhận vào chi phí hoạt động của Quỹ hợp tác xã phải tuân thủ nguyên tắc phù hợp giữa doanh thu và chi phí, có đủ hóa đơn, chứng từ hợp lý, hợp lệ theo quy định của pháp luật. Các khoản chi của Quỹ hợp tác xã phải được ghi nhận và hạch toán cho mục đích lập và trình bày báo cáo tài chính thực hiện theo quy định của chuẩn mực kế toán Việt Nam và các quy định của pháp luật có liên quan.
 
-**ID:** dk_00013399
+2. Nguyên tắc quản lý chi phí:
 
----
+a) Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Quỹ hợp tác xã xây dựng và trình Chủ tịch Quỹ ban hành quy chế chi tiêu nội bộ, trong đó có định mức chi phù hợp cho từng giai đoạn đảm bảo tuân thủ quy định của pháp luật;
 
+b) Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã: Chủ tịch Hội đồng quản trị ban hành quy chế chi tiêu nội bộ của Quỹ sau khi Đại hội thành viên chấp thuận và thông qua quy chế;
 
-### Điều 12.4.TT.6.8. Chi phí
+c) Đối với các khoản chi không đúng chế độ, không được quyết toán, các khoản chi vượt định mức tại quy chế chi tiêu nội bộ, Quỹ phải xác định rõ trách nhiệm của tổ chức, cá nhân có liên quan để trình cấp có thẩm quyền quyết định phương án bồi hoàn.
 
-*Nội dung chưa có sẵn*
+3. Việc xác định chi phí của Quỹ cho mục đích tính thuế thực hiện theo quy định của pháp luật về thuế.
 
-**Chỉ mục:** 8
+Điều 12.4.TT.6.8. Chi phí
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000420000802810300520000800
+(Điều 8 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**ID:** dk_00013400
+Chi phí của Quỹ là các khoản chi thực tế phát sinh trong kỳ liên quan đến hoạt động của Quỹ, bao gồm:
 
----
+1. Chi phí hoạt động nghiệp vụ:
 
+a) Chi trả lãi vốn huy động;
 
-### Điều 12.4.TT.6.9. Các khoản chi không được hạch toán vào chi phí
+b) Chi phí liên quan đến hoạt động cho vay, thu nợ;
+
+c) Chi phí liên quan đến hoạt động ủy thác và nhận ủy thác;
+
+d) Chi trích lập dự phòng rủi ro cho vay theo quy định tại Điều 28 Nghị định số 45/2021/NĐ-CP;
+
+đ) Chi mua bảo hiểm rủi ro và các loại bảo hiểm nghiệp vụ khác theo quy định;
+
+e) Các khoản chi khác từ hoạt động nghiệp vụ.
+
+2. Chi phí tài chính:
+
+a) Chi chênh lệch tỷ giá (nếu có);
+
+b) Các khoản chi khác từ hoạt động tài chính.
+
+3. Chi phí quản lý:
+
+a) Chi về tài sản gồm: Chi khấu hao tài sản cố định; chi thuê tài sản cố định; chi bảo trì, bảo dưỡng, sửa chữa và vận hành tài sản; chi mua sắm công cụ, dụng cụ; chi bảo hiểm tài sản, chi kiểm định phương tiện theo quy định; chi nhượng bán, thanh lý tài sản không bao gồm giá trị còn lại của tài sản cố định thanh lý, nhượng bán (nếu có);
+
+b) Chi cho người quản lý, người lao động:
+
+- Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Chi tiền lương, tiền công; các khoản đóng góp theo lương gồm bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn bệnh nghề nghiệp, kinh phí công đoàn; chi ăn ca; chi trang phục giao dịch; chi cho lao động nữ, chi làm thêm giờ, khám sức khỏe định kỳ và các khoản chi khác cho người lao động áp dụng theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
+
+- Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã: Các khoản chi cho người quản lý, người lao động áp dụng theo quy định tại Luật hợp tác xã, Điều lệ tổ chức và hoạt động Quỹ, Quy chế tiền lương, tiền công cho người quản lý, người lao động của Quỹ đã được Đại hội thành viên thông qua;
+
+c) Chi cho hoạt động quản lý và công vụ: Chi điện, nước, điện thoại, internet, bưu phí, vật liệu, giấy in, văn phòng phẩm; chi công tác phí, chi tư vấn liên quan đến hoạt động của Quỹ, chi dịch vụ thanh toán, kiểm toán; chi thuê chuyên gia trong và ngoài nước; chi cộng tác viên, chi nghiên cứu khoa học, nghiên cứu đổi mới công nghệ; chi đào tạo, huấn luyện nghiệp vụ; chi thưởng sáng kiến cải tiến, tăng năng suất lao động, chi cho công tác bảo vệ môi trường, bảo vệ cơ quan; chi y tế, chi xăng dầu, chi phòng cháy chữa cháy, chi phương tiện vận chuyển, chi tuyên truyền, quảng cáo, tiếp thị; chi hội nghị, lễ tân, khánh tiết theo quy định của pháp luật;
+
+d) Chi phụ cấp cho các chức danh kiêm nhiệm (nếu có);
+
+đ) Các chi phí quản lý khác theo quy định của pháp luật.
+
+4. Chi theo quy định tại điểm i khoản 2 Điều 42 Nghị định số 45/2021/NĐ-CP.
+
+5. Chi trích lập dự phòng giảm giá hàng tồn kho, dự phòng nợ phải thu khó đòi, dự phòng tổn thất tài sản, đầu tư tài chính và các khoản dự phòng khác áp dụng theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ (đối với Quỹ Hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ) hoặc pháp luật đối với hợp tác xã (đối với Quỹ Hợp tác xã hoạt động theo mô hình hợp tác xã).
+
+6. Chi phí khác:
+
+a) Chi phí nhượng bán, thanh lý tài sản (nếu có) bao gồm cả giá trị còn lại của tài sản cố định được thanh lý nhượng bán;
+
+b) Chi phí xử lý tổn thất tài sản sau khi đã bù đắp bằng các nguồn vốn khác theo quy định;
+
+c) Chi các khoản đã hạch toán doanh thu nhưng thực tế không thu được;
+
+d) Chi tiền phạt do vi phạm hợp đồng kinh tế;
+
+đ) Chi án phí, lệ phí thi hành án và các chi phí tố tụng khác theo quy định của pháp luật;
+
+e) Chi cho công tác xã hội theo quy định của pháp luật về thuế;
+
+g) Chi đóng phí hiệp hội ngành nghề trong và ngoài nước mà Quỹ tham gia theo quy định của pháp luật (nếu có);
+
+h) Chi cho hoạt động đảng, đoàn thể;
+
+i) Các khoản chi phí khác theo quy định của pháp luật.
+
+7. Định mức chi phí quy định tại khoản 1, khoản 2, khoản 3 và khoản 4 Điều này được thực hiện như sau:
+
+a) Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Quỹ thực hiện theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ. Trường hợp pháp luật chưa có quy định hoặc không khống chế mức chi, Quỹ hợp tác xã căn cứ vào khả năng tài chính xây dựng định mức trong quy chế chi tiêu nội bộ của Quỹ, quyết định việc chi tiêu đảm bảo tiết kiệm, hiệu quả và chịu trách nhiệm trước pháp luật;
+
+b) Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã: Thực hiện theo quy định tại Luật hợp tác xã và các văn bản hướng dẫn. Trường hợp pháp luật chưa có quy định hoặc không khống chế mức chi, Quỹ hợp tác xã căn cứ vào khả năng tài chính xây dựng định mức trong quy chế chi tiêu nội bộ của Quỹ, quyết định việc chi tiêu đảm bảo tiết kiệm, hiệu quả và chịu trách nhiệm trước pháp luật.
 
 Điều 12.4.TT.6.9. Các khoản chi không được hạch toán vào chi phí
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000420000802810300520000900
+1. Các khoản thiệt hại đã được Nhà nước hỗ trợ hoặc cơ quan bảo hiểm, bên gây thiệt hại bồi thường.
 
-**ID:** dk_00013401
+2. Các khoản chi phạt thuộc trách nhiệm cá nhân do vi phạm hành chính, vi phạm môi trường, phạt nợ vay quá hạn do nguyên nhân chủ quan, phạt vi phạm chế độ tài chính.
 
----
+3. Các khoản chi không có hóa đơn, chứng từ hợp lý, hợp lệ theo quy định của pháp luật.
 
+4. Các khoản chi thuộc nguồn kinh phí khác đài thọ.
 
-### Điều 12.4.NĐ.2.43. Kết quả tài chính và phân phối kết quả tài chính
+5. Các khoản chi của cá nhân ủng hộ địa phương, các tổ chức xã hội, các cơ quan khác.
+
+6. Các khoản chi vượt định mức theo quy định tại Thông tư này và các văn bản quy phạm pháp luật khác có liên quan.
 
 Điều 12.4.NĐ.2.43. Kết quả tài chính và phân phối kết quả tài chính
 
-**Chỉ mục:** 43
+(Điều 43 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004300
+1. Kết quả tài chính là số chênh lệch giữa tổng số thu nhập và tổng số chi phí phát sinh trong năm tài chính:
 
-**ID:** dk_00013402
+a) Kết quả tài chính của Quỹ hợp tác xã trong năm thặng dư khi chênh lệch giữa thu nhập và chi phí phát sinh trong năm tài chính của Quỹ hợp tác xã có kết quả dương;
 
----
+b) Kết quả tài chính của Quỹ hợp tác xã trong năm bị thâm hụt khi chênh lệch giữa thu nhập và chi phí phát sinh trong năm tài chính của Quỹ hợp tác xã có kết quả âm.
 
+2. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước sở hữu 100% vốn điều lệ, khi kết quả tài chính trong năm đạt thặng dư, sau khi trả tiền phạt do vi phạm các quy định của pháp luật và bù đắp khoản thâm hụt từ những năm trước (nếu có), được phân phối như sau:
 
-### Điều 12.4.NĐ.2.44. Chế độ báo cáo
+a) Trích tối đa 30% vào quỹ đầu tư phát triển.
 
-*Nội dung chưa có sẵn*
+b) Trích 10% vào quỹ dự phòng tài chính.
 
-**Chỉ mục:** 44
+c) Trích quỹ khen thưởng, phúc lợi cho người lao động của Quỹ hợp tác xã:
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004400
+Quỹ hợp tác xã xếp loại A được trích 3 tháng lương thực hiện cho hai quỹ khen thưởng và phúc lợi;
 
-**ID:** dk_00013403
+Quỹ hợp tác xã xếp loại B được trích 1,5 tháng lương thực hiện cho hai quỹ khen thưởng và phúc lợi;
 
----
+Quỹ hợp tác xã xếp loại C được trích 1 tháng lương thực hiện cho hai quỹ khen thưởng và phúc lợi.
 
+d) Trích quỹ thưởng người quản lý và kiểm soát viên:
 
-### Điều 12.4.TT.6.11. Chế độ báo cáo và công khai tài chính
+Quỹ hợp tác xã xếp loại A được trích 1,5 tháng lương thực hiện của người quản lý và kiểm soát viên;
+
+Quỹ hợp tác xã xếp loại B được trích 01 tháng lương thực hiện của người quản lý và kiểm soát viên;
+
+Quỹ hợp tác xã xếp loại C thì không được trích lập quỹ thưởng người quản lý và kiểm soát viên.
+
+đ) Trường hợp chênh lệch thu chi còn lại sau khi trích lập các quỹ quy định tại điểm a và b khoản này mà không đủ nguồn để trích các quỹ khen thưởng, phúc lợi cho người lao động, quỹ thưởng người quản lý và kiểm soát viên theo mức quy định thì Quỹ hợp tác xã được giảm mức trích lập quỹ đầu tư phát triển để bổ sung nguồn trích lập đủ quỹ khen thưởng, phúc lợi cho người lao động, quỹ thưởng người quản lý và kiểm soát viên theo mức quy định nhưng mức giảm tối đa không quá mức trích vào quỹ đầu tư phát triển trong năm tài chính;
+
+e) Số còn lại (nếu có) sau khi trích lập các quỹ trên được bổ sung vào quỹ đầu tư phát triển của Quỹ hợp tác xã.
+
+3. Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã:
+
+a) Việc phân phối chênh lệch giữa thu nhập và chi phí được thực hiện theo quy định tại khoản 1, khoản 2 Điều 46 Luật Hợp tác xã;
+
+b) Phần còn lại (nếu có) sau khi trích lập các quỹ quy định tại điểm a khoản này được bổ sung vào quỹ đầu tư phát triển của Quỹ hợp tác xã.
+
+4. Mục đích sử dụng của các Quỹ:
+
+a) Quỹ đầu tư phát triển được dùng để đầu tư mở rộng quy mô hoạt động, đổi mới công nghệ trang thiết bị, điều kiện làm việc của Quỹ hợp tác xã và bổ sung vốn điều lệ cho Quỹ hợp tác xã. Chủ tịch Quỹ quyết định hình thức và biện pháp đầu tư phù hợp với quy định áp dụng đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ. Chủ tịch Hội đồng quản trị Quỹ quyết định hình thức và biện pháp đầu tư phù hợp với quy định Luật Hợp tác xã;
+
+b) Quỹ dự phòng tài chính dùng để bù đắp phần còn lại của những tổn thất, thiệt hại về tài sản, công nợ không đòi được xảy ra trong quá trình hoạt động sau khi đã được bù đắp bằng tiền bồi thường của các tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng trích lập trong chi phí;
+
+c) Quỹ thưởng người quản lý và kiểm soát viên: Được dùng để thưởng cho người quản lý và kiểm soát viên của Quỹ hợp tác xã. Mức thưởng do Chủ tịch Liên minh hợp tác xã cùng cấp (đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ) hoặc Đại hội thành viên (đối với Quỹ hợp tác xã hoạt động theo mô hình Hợp tác xã) quyết định theo mức độ hoàn thành nhiệm vụ được giao và hiệu quả hoạt động của Quỹ hợp tác xã trên cơ sở đề nghị của Chủ tịch/Chủ tịch Hội đồng quản trị của Quỹ;
+
+d) Quỹ khen thưởng được dùng để thưởng định kỳ hoặc đột xuất cho cá nhân, tập thể của Quỹ hợp tác xã trên cơ sở năng suất lao động hoặc thành tích công tác;
+
+đ) Quỹ phúc lợi được sử dụng để chi cho các hoạt động thể thao, văn hóa, công trình phúc lợi công cộng của tập thể cán bộ của Quỹ hợp tác xã; chi trợ cấp khó khăn thường xuyên, đột xuất cho cán bộ Quỹ hợp tác xã; Chi cho hoạt động phúc lợi khác của Quỹ hợp tác xã.
+
+Giám đốc Quỹ hợp tác xã phối hợp với Công đoàn của Quỹ hợp tác xã quản lý, sử dụng quỹ này công khai, minh bạch.
+
+5. Khi kết quả tài chính trong năm bị thâm hụt, Quỹ hợp tác xã được chuyển số chênh lệch thu nhập nhỏ hơn chi phí sang năm sau, thời gian chuyển không quá 05 năm nếu Quỹ hợp tác xã không chuyển hết số chênh lệch thu nhập nhỏ hơn chi phí, Quỹ hợp tác xã báo cáo Thủ tướng Chính phủ (đối với Quỹ hợp tác xã trung ương), Chủ tịch Ủy ban nhân dân cấp tỉnh (đối với Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn do Nhà nước nắm giữ 100% vốn điều lệ) và Đại hội thành viên (đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã) xem xét, quyết định việc giảm vốn hoặc bổ sung vốn, cơ cấu, tổ chức lại hoặc giải thể, phá sản Quỹ hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.46. Mã số hợp tác xã, liên hiệp hợp tác xã)
+
+Điều 12.4.NĐ.2.44. Chế độ báo cáo
+
+(Điều 44 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
+
+1. Đối với Quỹ hợp tác xã trung ương:
+
+a) Lập và gửi các báo cáo định kỳ 6 tháng và hàng năm về Liên minh Hợp tác xã Việt Nam, Bộ Tài chính, Ngân hàng Nhà nước Việt Nam và Bộ Kế hoạch và Đầu tư để theo dõi, giám sát;
+
+b) Tổng hợp báo cáo định kỳ 6 tháng và hàng năm của các Quỹ hợp tác xã địa phương. Báo cáo tổng hợp được gửi về Liên minh Hợp tác xã Việt Nam, Bộ Tài chính, Ngân hàng Nhà nước Việt Nam, Bộ Kế hoạch và Đầu tư để theo dõi, giám sát.
+
+2. Đối với các Quỹ hợp tác xã địa phương:
+
+Lập và gửi các báo cáo định kỳ 6 tháng và hàng năm về Ủy ban nhân dân cấp tỉnh, Liên minh hợp tác xã cấp tỉnh, Sở Tài chính, Chi nhánh Ngân hàng Nhà nước cấp tỉnh nơi Quỹ hợp tác xã thành lập và gửi về Quỹ hợp tác xã trung ương để tổng hợp theo quy định tại điểm b, khoản 1 Điều này.
+
+3. Các loại báo cáo 6 tháng và hàng năm của Quỹ hợp tác xã tại khoản 1 Điều này gồm:
+
+a) Báo cáo tài chính, gồm: Bảng cân đối kế toán; báo cáo kết quả hoạt động; báo cáo lưu chuyển tiền tệ; báo cáo tình hình biến động vốn chủ sở hữu; bản thuyết minh báo cáo tài chính theo quy định của pháp luật; báo cáo tình hình thu chi tài chính; báo cáo tình hình phân phối chênh lệch thu, chi và sử dụng các quỹ theo hướng dẫn của Bộ Tài chính;
+
+b) Báo cáo tổng hợp tình hình hoạt động nghiệp vụ của Quỹ;
+
+c) Báo cáo tình hình hoạt động cho vay của Quỹ;
+
+d) Báo cáo kiểm toán báo cáo tài chính năm.
+
+4. Thời hạn gửi báo cáo:
+
+a) Báo cáo 06 tháng gửi chậm nhất trước ngày 31 tháng 7 hàng năm;
+
+b) Báo cáo năm được gửi chậm nhất là sau 90 ngày kể từ ngày kết thúc năm tài chính; riêng báo cáo kiểm toán báo cáo tài chính năm của Quỹ hợp tác xã do tổ chức kiểm toán độc lập thực hiện được gửi chậm nhất là sau 120 ngày kể từ ngày kết thúc năm tài chính.
+
+5. Phương thức gửi báo cáo: Quỹ hợp tác xã thực hiện gửi báo cáo theo phương thức gửi trực tiếp hoặc gửi qua dịch vụ bưu chính.
+
+6. Trường hợp đột xuất, Quỹ hợp tác xã có trách nhiệm, nghĩa vụ cung cấp thông tin, báo cáo cho cơ quan có thẩm quyền khi có yêu cầu.
+
+7. Định kỳ hàng năm, Liên minh hợp tác xã các cấp thực hiện chế độ báo cáo theo quy định tại Điều 12 Nghị định số 163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước và các văn bản sửa đổi, bổ sung (nếu có).
+
+8. Quỹ hợp tác xã thực hiện chế độ báo cáo theo quy định của pháp luật thanh tra, kiểm tra, kiểm toán.
+
+(Điều này có nội dung liên quan đến Điều 26.3.NĐ.2.12. Quỹ tài chính nhà nước ngoài ngân sách)
 
 Điều 12.4.TT.6.11. Chế độ báo cáo và công khai tài chính
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000440000802810300520001100
+1. Quỹ hợp tác xã thực hiện chế độ báo cáo theo quy định tại Điều 44 Nghị định số 45/2021/NĐ-CP.
 
-**ID:** dk_00013404
+2. Thời gian chốt số liệu:
 
----
+a) Đối với báo cáo 06 tháng đầu năm: Tính từ ngày 01 tháng 01 năm báo cáo đến hết ngày 30 tháng 6 năm báo cáo;
 
+b) Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm báo cáo đến hết ngày 31 tháng 12 năm báo cáo.
 
-### Điều 12.4.NĐ.2.45. Đánh giá hiệu quả hoạt động của Quỹ hợp tác xã
+3. Mẫu biểu Báo cáo:
+
+a) Báo cáo tài chính quy định tại điểm a khoản 3 Điều 44 Nghị định 45/2021/NĐ-CP: Thực hiện theo quy định tại chế độ kế toán của Quỹ;
+
+b) Báo cáo tình hình hoạt động cho vay quy định tại điểm c khoản 3 Điều 44 Nghị định 45/2021/NĐ-CP:
+
+- Quỹ hợp tác xã địa phương gửi báo cáo cho Quỹ hợp tác xã Trung ương để tổng hợp theo mẫu tại Phụ lục 1a ban hành kèm theo Thông tư này;
+
+- Quỹ hợp tác xã Trung ương tổng hợp gửi báo cáo các cơ quan theo mẫu tại Phụ lục 1b ban hành kèm theo Thông tư này;
+
+c) Báo cáo tổng hợp tình hình hoạt động nghiệp vụ quy định tại điểm b khoản 3 Điều 44 Nghị định 45/2021/NĐ-CP:
+
+- Quỹ hợp tác xã địa phương gửi báo cáo cho Quỹ hợp tác xã Trung ương để tổng hợp theo mẫu tại Phụ lục 2a ban hành kèm theo Thông tư này;
+
+- Quỹ hợp tác xã Trung ương tổng hợp gửi báo cáo các cơ quan theo mẫu tại Phụ lục 2b ban hành kèm theo Thông tư này;
+
+d) Thời hạn nộp báo cáo theo quy định tại khoản 4 Điều 44 Nghị định 45/2021/NĐ-CP.
+
+4. Công khai tài chính:
+
+a) Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ thực hiện công khai tài chính theo quy định đối với doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ;
+
+b) Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã thực hiện công khai tài chính theo quy định của pháp luật đối với hợp tác xã.
 
 Điều 12.4.NĐ.2.45. Đánh giá hiệu quả hoạt động của Quỹ hợp tác xã
 
-**Chỉ mục:** 45
+(Điều 45 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004500
+1. Các chỉ tiêu đánh giá hiệu quả hoạt động hàng năm của Quỹ hợp tác xã, bao gồm:
 
-**ID:** dk_00013405
+a) Chỉ tiêu 1: Tăng trưởng dư nợ cho vay;
 
----
+b) Chỉ tiêu 2: Tỷ lệ nợ xấu (bao gồm dư nợ các nhóm 3, nhóm 4 và nhóm 5 theo kết quả phân loại nợ của Quỹ);
 
+c) Chỉ tiêu 3: Kết quả tài chính hàng năm;
 
-### Điều 12.4.TT.6.13. Phương thức xác định các chỉ tiêu đánh giá hiệu quả hoạt động
+d) Chỉ tiêu 4: Tình hình chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn của Quỹ, nghĩa vụ với ngân sách nhà nước, chế độ báo cáo tài chính.
+
+2. Khi tính toán các chỉ tiêu đánh giá hiệu quả hoạt động của Quỹ hợp tác xã tại khoản 1 Điều này, Quỹ hợp tác xã được loại trừ các yếu tố khách quan về:
+
+a) Thiên tai, hỏa hoạn, dịch bệnh, chiến tranh và các nguyên nhân bất khả kháng khác;
+
+b) Thay đổi về chính sách của Nhà nước ảnh hưởng đến hoạt động của Quỹ hợp tác xã.
+
+3. Bộ Tài chính hướng dẫn cụ thể phương thức xác định các chỉ tiêu đánh giá hiệu quả hoạt động và xếp loại Quỹ hợp tác xã, phù hợp với đặc thù hoạt động của Quỹ hợp tác xã.
+
+4. Liên minh hợp tác xã cùng cấp thực hiện giao chỉ tiêu và thực hiện đánh giá hiệu quả hoạt động hàng năm cho Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên Nhà nước nắm giữ 100% vốn điều lệ theo quy định tại Điều này. Đại hội thành viên giao chỉ tiêu và thực hiện đánh giá hiệu quả hoạt động hàng năm cho Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã.
 
 Điều 12.4.TT.6.13. Phương thức xác định các chỉ tiêu đánh giá hiệu quả hoạt động
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000450000802810300520001300
+1. Chỉ tiêu đánh giá hiệu quả hoạt động hằng năm của Quỹ hợp tác xã thực hiện theo quy định tại khoản 1 Điều 45 Nghị định số 45/2021/NĐ-CP và được xác định như sau:
 
-**ID:** dk_00013406
+a) Chỉ tiêu 1: Tăng trưởng dư nợ cho vay (bao gồm dư nợ cho vay trực tiếp và dư nợ ủy thác cho vay) là tỷ lệ % giữa chênh lệch dư nợ tại thời điểm 31/12 năm đánh giá và dư nợ tại thời điểm 31/12 năm trước liền kề chia cho dư nợ tại thời điểm 31/12 năm trước liền kề;
 
----
+b) Chỉ tiêu 2: Tỷ lệ nợ xấu là tỷ lệ giữa số dư nợ xấu Quỹ chịu rủi ro theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ đối với tổ chức tài chính vi mô so với tổng dư nợ cho vay Quỹ chịu rủi ro (dư nợ cho vay Quỹ chịu rủi ro bao gồm dư nợ cho vay trực tiếp và dư nợ ủy thác cho vay);
 
+c) Chỉ tiêu 3: Kết quả tài chính hằng năm là chênh lệch giữa tổng doanh thu và tổng chi phí phát sinh trong năm đánh giá, được xác định theo báo cáo tài chính đã được kiểm toán của Quỹ hợp tác xã;
 
-### Điều 12.4.TT.6.14. Phương thức xếp loại Quỹ hợp tác xã
+d) Chỉ tiêu 4: Tình hình chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn, nghĩa vụ với ngân sách nhà nước, chế độ báo cáo tài chính: Quỹ chấp hành đúng quy định, không có hành vi thực hiện sai, bỏ sót, thực hiện không đầy đủ, không kịp thời hoặc không thực hiện. Các hành vi vi phạm bao gồm hành vi của Quỹ, cá nhân dưới danh nghĩa Quỹ hoặc người quản lý Quỹ gây ra khi thực hiện nhiệm vụ của Quỹ.
+
+2. Khi tính toán các chỉ tiêu đánh giá hiệu quả hoạt động quy định tại khoản 1 Điều này, Quỹ được loại trừ các yếu tố khách quan theo quy định tại khoản 2 Điều 45 Nghị định số 45/2021/NĐ-CP.
 
 Điều 12.4.TT.6.14. Phương thức xếp loại Quỹ hợp tác xã
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000450000802810300520001400
+Quỹ hợp tác xã đánh giá, xếp loại hiệu quả hoạt động theo nguyên tắc so sánh giữa kết quả thực hiện và các chỉ tiêu được giao tại kế hoạch tài chính Quỹ, cụ thể như sau:
 
-**ID:** dk_00013407
+1. Chỉ tiêu 1: Tăng trưởng dư nợ cho vay
 
----
+a) Quỹ hợp tác xã xếp loại A khi chỉ tiêu thực hiện bằng hoặc cao hơn kế hoạch được giao;
 
+b) Quỹ hợp tác xã xếp loại B khi chỉ tiêu thực hiện thấp hơn kế hoạch được giao nhưng tối thiểu bằng 90% kế hoạch được giao;
 
-### Điều 12.4.TT.6.15. Tổng hợp xếp loại Quỹ hợp tác xã
+c) Quỹ hợp tác xã xếp loại C khi chỉ tiêu thực hiện đạt dưới 90% kế hoạch được giao.
+
+2. Chỉ tiêu 2: Tỷ lệ nợ xấu
+
+a) Quỹ hợp tác xã xếp loại A khi chỉ tiêu thực hiện bằng hoặc thấp hơn kế hoạch được giao;
+
+b) Quỹ hợp tác xã xếp loại B khi chỉ tiêu thực hiện cao hơn kế hoạch được giao nhưng tối đa bằng 110% kế hoạch được giao;
+
+c) Quỹ hợp tác xã xếp loại C khi chỉ tiêu thực hiện cao hơn 110% kế hoạch được giao.
+
+3. Chỉ tiêu 3: Kết quả tài chính hằng năm
+
+a) Quỹ hợp tác xã xếp loại A khi chỉ tiêu thực hiện bằng hoặc cao hơn kế hoạch được giao;
+
+b) Quỹ hợp tác xã xếp loại B khi chỉ tiêu thực hiện thấp hơn kế hoạch được giao nhưng tối thiểu bằng 90% kế hoạch được giao;
+
+c) Quỹ hợp tác xã xếp loại C khi chỉ tiêu thực hiện đạt dưới 90% kế hoạch được giao.
+
+4. Chỉ tiêu 4: Tình hình chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn của Quỹ, nghĩa vụ với ngân sách nhà nước, chế độ báo cáo tài chính.
+
+a) Quỹ hợp tác xã xếp loại A khi: Trong năm đánh giá xếp loại, Quỹ không bị cơ quan có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực thuế đối với nhóm hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn, không thu và nhóm hành vi trốn thuế; không bị hoặc bị cơ quan đại diện chủ sở hữu/cơ quan tài chính nhắc nhở bằng văn bản 01 (một) lần về việc nộp báo cáo để thực hiện giám sát tài chính, báo cáo xếp loại hiệu quả hoạt động Quỹ hợp tác xã, báo cáo tài chính không đúng quy định, không đúng hạn;
+
+b) Quỹ hợp tác xã xếp loại B khi trong năm đánh giá xếp loại, Quỹ bị cơ quan có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực thuế do có 01 hành vi vi phạm thuộc nhóm hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn, không thu; hoặc bị cơ quan đại diện chủ sở hữu/cơ quan tài chính nhắc nhở bằng văn bản 02 (hai) lần về việc nộp báo cáo để thực hiện giám sát tài chính, báo cáo xếp loại hiệu quả hoạt động Quỹ hợp tác xã, báo cáo tài chính không đúng quy định, không đúng hạn;
+
+c) Quỹ hợp tác xã xếp loại C khi trong năm đánh giá xếp loại, Quỹ bị cơ quan có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực thuế do có từ 02 hành vi vi phạm khác nhau trở lên thuộc nhóm hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn, không thu; hoặc Quỹ có hành vi trốn thuế theo quy định của Chính phủ về xử phạt vi phạm hành chính về thuế, hóa đơn; hoặc bị cơ quan đại diện chủ sở hữu/cơ quan tài chính nhắc nhở bằng văn bản 03 (ba) lần trở lên về việc nộp báo cáo để thực hiện giám sát tài chính, báo cáo xếp loại hiệu quả hoạt động Quỹ hợp tác xã, báo cáo tài chính không đúng quy định, không đúng hạn; Người quản lý Quỹ vi phạm pháp luật trong quá trình thực thi nhiệm vụ của Quỹ trong việc chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn, nghĩa vụ với ngân sách nhà nước, quy định về chế độ báo cáo tài chính và báo cáo để thực hiện giám sát tài chính theo công bố, kết luận của cơ quan chức năng. Việc đánh giá xếp loại Quỹ chỉ tính 01 (một) lần đối với cùng một vụ việc sai phạm của người quản lý Quỹ;
+
+d) Các hành vi vi phạm thủ tục thuế không xem xét để thực hiện đánh giá xếp loại Quỹ.
 
 Điều 12.4.TT.6.15. Tổng hợp xếp loại Quỹ hợp tác xã
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000450000802810300520001500
+1. Quỹ xếp loại A khi không có chỉ tiêu xếp loại C, trong đó có ít nhất 2 chỉ tiêu được xếp loại A trở lên và không có loại C.
 
-**ID:** dk_00013408
+2. Quỹ xếp loại C khi có 2 chỉ tiêu không xếp loại A và các chỉ tiêu còn lại xếp loại C.
 
----
+3. Quỹ xếp loại B trong các trường hợp còn lại.
 
+4. Căn cứ các chỉ tiêu đánh giá hiệu quả hoạt động quy định tại Thông tư này, Quỹ báo cáo kết quả đánh giá và xếp loại gửi Liên minh hợp tác xã cùng cấp để Liên minh hợp tác xã cùng cấp thẩm định, phê duyệt xếp loại hiệu quả hoạt động Quỹ trước ngày 31 tháng 5 hằng năm.
 
-### Điều 12.4.TT.6.16. Đánh giá hiệu quả hoạt động và xếp loại Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã
+**Mục 2: ĐỐI VỚI QUỸ HỢP TÁC XÃ HOẠT ĐỘNG THEO MÔ HÌNH HỢP TÁC XÃ**
 
 Điều 12.4.TT.6.16. Đánh giá hiệu quả hoạt động và xếp loại Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000450000802810300520001600
-
-**ID:** dk_00013409
-
----
-
-
-### Điều 12.4.NĐ.2.46. Các trường hợp giải thể Quỹ hợp tác xã
+Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã, căn cứ quy định tại Chương III Thông tư này, Điều lệ tổ chức và hoạt động của Quỹ, yêu cầu quản lý, Quỹ hợp tác xã trình Đại hội thành viên ban hành quy chế về đánh giá hiệu quả hoạt động và xếp loại Quỹ hợp tác xã, đánh giá, xếp loại người quản lý và kiểm soát viên Quỹ hợp tác xã để thực hiện, đảm bảo phù hợp với quy định tại Nghị định số 45/2021/NĐ-CP của Chính phủ, Luật hợp tác xã và các văn bản hướng dẫn có liên quan hoặc sửa đổi, bổ sung, thay thế (nếu có).
 
 Điều 12.4.NĐ.2.46. Các trường hợp giải thể Quỹ hợp tác xã
 
-**Chỉ mục:** 46
+(Điều 46 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004600
+Quỹ hợp tác xã giải thể khi thuộc một trong các trường hợp sau:
 
-**ID:** dk_00013410
+1. Quỹ hợp tác xã địa phương không có đủ vốn điều lệ tối thiểu theo quy định tại Điều 37 và điểm c khoản 5 Điều 58 Nghị định này.
 
----
+2. Quỹ hợp tác xã bị các cơ quan có thẩm quyền quy định tại Nghị định này đánh giá xếp loại C trong 05 năm liên tiếp theo quy định tại Nghị định này và tỷ lệ giá trị dư nợ cho vay (không bao gồm các khoản nhận ủy thác cho vay) trên vốn chủ sở hữu thấp hơn 20% trong 05 năm liên tiếp.
 
+3. Tỷ lệ nợ xấu của Quỹ hợp tác xã trên tổng dư nợ cho vay cao hơn 50% vốn điều lệ thực có của Quỹ trong 05 năm liên tiếp.
 
-### Điều 12.4.NĐ.2.47. Thẩm quyền quyết định giải thể Quỹ hợp tác xã
+4. Lũy kế chênh lệch thu chi âm lớn hơn hoặc bằng 75% số vốn điều lệ thực có của Quỹ hợp tác xã trong 05 năm liên tiếp.
+
+5. Các trường hợp giải thể khác theo quyết định của Thủ tướng Chính phủ đối với Quỹ hợp tác xã trung ương; Ủy ban nhân dân cấp tỉnh đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ; đại hội thành viên đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã.
 
 Điều 12.4.NĐ.2.47. Thẩm quyền quyết định giải thể Quỹ hợp tác xã
 
-**Chỉ mục:** 47
+(Điều 47 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004700
+1. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước sở hữu 100% vốn điều lệ:
 
-**ID:** dk_00013411
+a) Đối với Quỹ hợp tác xã trung ương: Trên cơ sở đề xuất của Liên minh Hợp tác xã Việt Nam, ý kiến tham gia của Bộ Tài chính, Bộ Kế hoạch và Đầu tư, Ngân hàng Nhà nước Việt Nam, Thủ tướng Chính phủ xem xét, quyết định việc giải thể Quỹ hợp tác xã trung ương theo quy định tại Nghị định này và quy định pháp luật liên quan;
 
----
+b) Đối với Quỹ hợp tác xã địa phương: Trên cơ sở đề xuất của Liên minh hợp tác xã cấp tỉnh, ý kiến tham gia của Sở Tài chính, Sở Kế hoạch và Đầu tư, chi nhánh Ngân hàng Nhà nước Việt Nam tại địa phương, Ủy ban nhân dân cấp tỉnh xem xét, trình Hội đồng nhân dân cấp tỉnh thông qua, phê duyệt chủ trương giải thể trước khi ban hành Quyết định giải thể Quỹ hợp tác xã địa phương theo quy định tại Nghị định này và quy định pháp luật liên quan.
 
-
-### Điều 12.4.NĐ.2.48. Hồ sơ, trình tự, thủ tục giải thể Quỹ hợp tác xã
+2. Đối với Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã: Việc quyết định giải thể Quỹ hợp tác xã thực hiện theo quy định tại Luật Hợp tác xã và quy định pháp luật có liên quan.
 
 Điều 12.4.NĐ.2.48. Hồ sơ, trình tự, thủ tục giải thể Quỹ hợp tác xã
 
-**Chỉ mục:** 48
+(Điều 48 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004800
+1. Đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Hồ sơ, trình tự, thủ tục giải thể Quỹ hợp tác xã thực hiện theo quy định như đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
 
-**ID:** dk_00013412
+2. Đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã: Hồ sơ, trình tự, thủ tục giải thể Quỹ hợp tác xã thực hiện theo quy định như đối với hợp tác xã.
 
----
+Điều 12.4.NĐ.2.49. Phá sản Quỹ hợp tác xã
 
+(Điều 49 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-### Điều 12.4.NĐ.2.49. Phá sản Quỹ hợp tác xã
+Việc phá sản Quỹ hợp tác xã được thực hiện theo quy định của pháp luật về phá sản và Điều 55 Luật Hợp tác xã (đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã).
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.55. Đăng ký hoạt động chi nhánh, văn phòng đại diện; thông báo địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã)
 
-**Chỉ mục:** 49
+Điều 12.4.NĐ.2.50. Chuyển đổi mô hình hoạt động
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450004900
+(Điều 50 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**ID:** dk_00013413
+1. Trường hợp Quỹ hợp tác xã chuyển đổi mô hình hoạt động từ mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ sang mô hình hợp tác xã hoặc ngược lại, Quỹ hợp tác xã phải thực hiện xây dựng phương án chuyển đổi, xác định rõ nghĩa vụ xử lý của Quỹ hợp tác xã hiện hành, phương án chuyển sang Quỹ hợp tác xã hoạt động theo mô hình mới (phương án tài chính, quản lý điều hành, dư nợ cho vay).
 
----
+2. Thẩm quyền quyết định chuyển đổi mô hình:
 
+a) Đối với Quỹ hợp tác xã trung ương thực hiện theo quy định tại điểm b khoản 1 Điều 8 Nghị định này;
 
-### Điều 12.4.NĐ.2.50. Chuyển đổi mô hình hoạt động
+b) Đối với Quỹ hợp tác xã địa phương chuyển đổi mô hình hoạt động từ mô hình Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ sang mô hình hợp tác xã: Ủy ban nhân dân cấp tỉnh quyết định chuyển đổi mô hình theo đề nghị của Liên minh hợp tác xã cấp tỉnh, trên cơ sở ý kiến của Sở Tài chính, Sở Tư pháp, Sở Kế hoạch và Đầu tư và chi nhánh Ngân hàng Nhà nước Việt Nam;
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 50
-
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005000
-
-**ID:** dk_00013414
-
----
-
-
-### Điều 12.4.TT.6.17. Chuyển đổi Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ sang mô hình hợp tác xã.
+c) Đối với Quỹ hợp tác xã địa phương chuyển đổi mô hình hoạt động từ mô hình hợp tác xã sang mô hình Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ: Ủy ban nhân dân cấp tỉnh quyết định chuyển đổi mô hình theo đề nghị của Đại hội thành viên Quỹ hợp tác xã địa phương, trên cơ sở ý kiến của Liên minh hợp tác xã cấp tỉnh, Sở Tài chính, Sở Tư pháp, Sở Kế hoạch và Đầu tư và chi nhánh Ngân hàng Nhà nước Việt Nam và chấp thuận của Hội đồng nhân dân cấp tỉnh.
 
 Điều 12.4.TT.6.17. Chuyển đổi Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ sang mô hình hợp tác xã.
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000500000802810300520001700
+1. Quỹ hợp tác xã có nhu cầu chuyển đổi mô hình phải xây dựng phương án giải thể Quỹ hợp tác xã hiện hành và phương án thành lập Quỹ hợp tác hoạt động theo mô hình mới (phương án tài chính, phương án tổ chức bộ máy điều hành, dư nợ cho vay và các nội dung liên quan), báo cáo Liên minh hợp tác xã cùng cấp thẩm định và trình cấp có thẩm quyền quyết định theo quy định tại Điều 46 và Điều 50 Nghị định số 45/2021/NĐ-CP.
 
-**ID:** dk_00013415
+2. Căn cứ phương án giải thể Quỹ hiện hành và phương án thành lập Quỹ hoạt động theo mô hình mới được các cấp có thẩm quyền phê duyệt tại khoản 1 Điều này:
 
----
+a) Đối với việc giải thể Quỹ hợp tác xã hiện hành: Hồ sơ, trình tự, thủ tục và xử lý tài chính khi giải thể Quỹ được áp dụng theo quy định của pháp luật về giải thể công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ;
 
-
-### Điều 12.4.TT.6.18. Chuyển đổi Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã sang mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
+b) Đối với việc thành lập Quỹ hợp tác xã hoạt động theo mô hình mới: việc thành lập mới Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã thực hiện theo quy định tại Điều 15 Nghị định số 45/2021/NĐ-CP.
 
 Điều 12.4.TT.6.18. Chuyển đổi Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã sang mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000500000802810300520001800
+1. Quỹ hợp tác xã có nhu cầu chuyển đổi mô hình phải xây dựng phương án giải thể Quỹ hợp tác xã hiện hành và phương án thành lập Quỹ hợp tác hoạt động theo mô hình mới (phương án tài chính, phương án tổ chức bộ máy điều hành, dư nợ cho vay và các nội dung liên quan), báo cáo Liên minh hợp tác xã cấp tỉnh thẩm định và trình cấp có thẩm quyền quyết định theo quy định tại Điều 46 và Điều 50 Nghị định số 45/2021/NĐ-CP.
 
-**ID:** dk_00013416
+2. Căn cứ phương án giải thể Quỹ hiện hành và phương án thành lập Quỹ hoạt động theo mô hình mới được các cấp có thẩm quyền phê duyệt tại khoản 1 Điều này:
 
----
+a) Đối với việc giải thể Quỹ hợp tác xã hiện hành: Hồ sơ, trình tự, thủ tục và xử lý tài chính khi giải thể Quỹ được áp dụng theo quy định của pháp luật về giải thể hợp tác xã tại Luật Hợp tác xã và các văn bản hướng dẫn liên quan hoặc sửa đổi, bổ sung, thay thế (nếu có).
 
+b) Đối với việc thành lập Quỹ hợp tác xã hoạt động theo mô hình mới: việc thành lập mới Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ thực hiện theo quy định tại Điều 15 Nghị định số 45/2021/NĐ-CP.
 
-### Điều 12.4.NĐ.2.51. Trách nhiệm của Bộ Tài chính
+Điều 12.4.NĐ.2.51. Trách nhiệm của Bộ Tài chính
 
-*Nội dung chưa có sẵn*
+(Điều 51 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Chỉ mục:** 51
+1. Hướng dẫn cơ chế quản lý tài chính và đánh giá hiệu quả hoạt động của các Quỹ hợp tác xã; hướng dẫn xử lý các vấn đề về tài chính khi tổ chức lại, chuyển đổi mô hình hoạt động các Quỹ hợp tác xã; hướng dẫn chế độ kế toán đối với Quỹ hợp tác xã theo quy định tại Nghị định này.
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005100
+2. Chủ trì, phối hợp với các bộ, ngành, Liên minh Hợp tác xã Việt Nam, Ủy ban nhân dân cấp tỉnh và các đơn vị có liên quan hoàn thiện, sửa đổi, bổ sung văn bản pháp lý về tổ chức và hoạt động của Quỹ hợp tác xã trình các cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền.
 
-**ID:** dk_00013417
+Điều 12.4.TT.6.19. Trách nhiệm của Bộ Tài chính
 
----
+(Điều 19 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
+1. Thực hiện các trách nhiệm quy định tại Điều 51 Nghị định số 45/2021/NĐ-CP.
 
-### Điều 12.4.TT.6.19. Trách nhiệm của Bộ Tài chính
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000510000802810300520001900
-
-**ID:** dk_00013418
-
----
-
-
-### Điều 12.4.NĐ.2.52. Trách nhiệm của Ngân hàng Nhà nước Việt Nam
+2. Chủ trì, phối hợp với các cơ quan liên quan đánh giá, nghiên cứu sửa đổi, bổ sung Thông tư này trong trường hợp cần thiết.
 
 Điều 12.4.NĐ.2.52. Trách nhiệm của Ngân hàng Nhà nước Việt Nam
 
-**Chỉ mục:** 52
+(Điều 52 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005200
+1. Phối hợp với Liên minh Hợp tác xã Việt Nam và Ủy ban nhân dân cấp tỉnh, Liên minh hợp tác xã cấp tỉnh trong việc kiểm tra, giám sát hoạt động cho vay của Quỹ hợp tác xã theo quy định tại Nghị định này.
 
-**ID:** dk_00013419
-
----
-
-
-### Điều 12.4.NĐ.2.53. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+2. Phối hợp với Bộ Tài chính và các bộ, ngành có liên quan trong việc xây dựng, hoàn thiện khuôn khổ pháp lý về tổ chức và hoạt động của Quỹ hợp tác xã và tổ chức, triển khai thực hiện Nghị định này theo quy định của pháp luật.
 
 Điều 12.4.NĐ.2.53. Trách nhiệm của Bộ Kế hoạch và Đầu tư
 
-**Chỉ mục:** 53
+(Điều 53 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005300
+1. Cân đối, bố trí trong kế hoạch đầu tư công trung hạn ngân sách nhà nước để bổ sung vốn điều lệ cho Quỹ hợp tác xã trung ương theo quy định tại Luật Đầu tư công và các văn bản hướng dẫn Luật Đầu tư công.
 
-**ID:** dk_00013420
+2. Theo dõi, kiểm tra, giám sát tình hình sử dụng vốn ngân sách nhà nước cấp cho Quỹ hợp tác xã trung ương theo quy định của Luật Đầu tư công và pháp luật có liên quan.
 
----
-
-
-### Điều 12.4.NĐ.2.54. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
+3. Phối hợp với Bộ Tài chính và các bộ, ngành có liên quan trong việc xây dựng, hoàn thiện khuôn khổ pháp lý về tổ chức và hoạt động của Quỹ hợp tác xã và tổ chức, triển khai thực hiện Nghị định này theo quy định của pháp luật.
 
 Điều 12.4.NĐ.2.54. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
 
-**Chỉ mục:** 54
+(Điều 54 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005400
-
-**ID:** dk_00013421
-
----
-
-
-### Điều 12.4.NĐ.2.55. Trách nhiệm của Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh
+Chủ trì, phối hợp với các bộ, ngành, Ủy ban nhân dân cấp tỉnh hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, người quản lý và xếp hạng Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
 
 Điều 12.4.NĐ.2.55. Trách nhiệm của Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 55
+(Điều 55 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005500
+1. Trách nhiệm của Hội đồng nhân dân cấp tỉnh:
 
-**ID:** dk_00013422
+a) Phê duyệt Đề án thành lập Quỹ hợp tác xã địa phương theo quy định tại Nghị định này;
 
----
+b) Giám sát việc tổ chức thực hiện và quản lý Quỹ hợp tác xã địa phương theo quy định của pháp luật về ngân sách nhà nước quy định tại Nghị định này và pháp luật có liên quan.
 
+2. Trách nhiệm của Ủy ban nhân dân cấp tỉnh:
 
-### Điều 12.4.TT.6.20. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+a) Quyết định thành lập, giải thể và phá sản các Quỹ hợp tác xã địa phương theo quy định tại Nghị định này và pháp luật có liên quan;
+
+b) Căn cứ vào dự toán ngân sách nhà nước được Hội đồng nhân dân cùng cấp chấp thuận, quyết định cấp vốn điều lệ cho Quỹ hợp tác xã địa phương theo quy định tại Nghị định này và quyết định điều chỉnh vốn điều lệ trong quá trình hoạt động của Quỹ hợp tác xã theo quy định tại Nghị định này và pháp luật có liên quan;
+
+c) Thanh tra, kiểm tra, giám sát toàn diện đối với hoạt động của Quỹ hợp tác xã địa phương;
+
+d) Báo cáo định kỳ hàng năm và đột xuất với Bộ Tài chính, Bộ Kế hoạch và Đầu tư và Ngân hàng Nhà nước Việt Nam về kết quả và tình hình hoạt động Quỹ hợp tác xã theo quy định tại Nghị định này;
+
+đ) Kiến nghị những giải pháp tháo gỡ khó khăn trong hoạt động Quỹ hợp tác xã; kiến nghị bổ sung, sửa đổi cơ chế chính sách cho hoạt động Quỹ hợp tác xã;
+
+e) Hàng năm báo cáo Hội đồng nhân dân cấp tỉnh về kết quả hoạt động của Quỹ hợp tác xã, đề xuất các giải pháp tháo gỡ khó khăn và nâng cao hiệu quả hoạt động của Quỹ theo thẩm quyền;
+
+g) Các nội dung khác thuộc trách nhiệm của Ủy ban nhân dân cấp tỉnh theo quy định tại Nghị định này và pháp luật liên quan.
 
 Điều 12.4.TT.6.20. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000550000802810300520002000
+1. Thực hiện các trách nhiệm theo quy định tại khoản 2 Điều 55 Nghị định số 45/2021/NĐ-CP.
 
-**ID:** dk_00013423
+2. Chỉ đạo Chủ tịch Quỹ hợp tác xã và Quỹ hợp tác xã thực hiện cơ chế tài chính, đánh giá hiệu quả hoạt động, xếp loại và xử lý tài chính khi chuyển đổi mô hình Quỹ theo quy định tại Thông tư này.
 
----
-
-
-### Điều 12.4.NĐ.2.56. Trách nhiệm của Liên minh Hợp tác xã Việt Nam và Liên minh hợp tác xã Việt Nam cấp tỉnh
+3. Chỉ đạo Sở Kế hoạch và Đầu tư hướng dẫn Quỹ hợp tác xã việc đăng ký lại Giấy chứng nhận đăng ký thành lập Quỹ hợp tác xã theo quy định tại điểm d khoản 5 Điều 58 Nghị định số 45/2021/NĐ-CP.
 
 Điều 12.4.NĐ.2.56. Trách nhiệm của Liên minh Hợp tác xã Việt Nam và Liên minh hợp tác xã Việt Nam cấp tỉnh
 
-**Chỉ mục:** 56
+(Điều 56 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 120040000000000020000290000000000000000000402760400450005600
+1. Liên minh hợp tác xã cùng cấp thực hiện quản lý, kiểm tra, giám sát hoạt động của Quỹ hợp tác xã theo quy định tại Nghị định và các văn bản hướng dẫn liên quan.
 
-**ID:** dk_00013424
+2. Liên minh hợp tác xã cùng cấp thực hiện đánh giá hiệu quả hoạt động và xếp loại Quỹ hợp tác xã hàng năm theo quy định tại Nghị định và các văn bản hướng dẫn liên quan.
 
----
+3. Liên minh Hợp tác xã Việt Nam phối hợp với Ủy ban nhân dân cấp tỉnh tổ chức theo dõi, tổng kết, đánh giá kết quả hoạt động của hệ thống Quỹ hợp tác xã để đề xuất, báo cáo với Thủ tướng Chính phủ về định hướng phát triển hệ thống Quỹ hợp tác xã theo quy định tại Nghị định này và quy định của pháp luật có liên quan.
 
-
-### Điều 12.4.TT.6.21. Trách nhiệm của Liên minh hợp tác xã các cấp
+4. Thực hiện một số quyền hạn và trách nhiệm do cơ quan có thẩm quyền giao đối với Quỹ hợp tác xã theo quy định tại Nghị định này và pháp luật có liên quan.
 
 Điều 12.4.TT.6.21. Trách nhiệm của Liên minh hợp tác xã các cấp
 
-**Chỉ mục:** 21
+(Điều 21 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000040276040045000560000802810300520002100
+1. Thực hiện các trách nhiệm quy định tại Điều 8 và Điều 56 Nghị định số 45/2021/NĐ-CP.
 
-**ID:** dk_00013425
+2. Thẩm định và trình cấp có thẩm quyền phê duyệt phương án chuyển đổi mô hình hoạt động của Quỹ hợp tác theo quy định tại Điều 50 Nghị định số 45/2021/NĐ-CP và Thông tư này.
 
----
+Điều 12.4.QĐ.1.1.
 
+(Điều 1 Quyết định số 246/2006/QĐ-TTg Về việc thành lập Quỹ Hỗ trợ phát triển hợp tác xã ngày 27/10/2006 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 27/11/2006 )
 
-### Điều 12.4.QĐ.1.1.
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 120040000000000020000290000000000000000000502233502460000100
-
-**ID:** dk_00013426
-
----
-
-
-### Điều 12.4.TT.5.3. Thang lương, bảng lương và phụ cấp lương
+Thành lập Quỹ Hỗ trợ phát triển hợp tác xã (sau đây gọi tắt là Quỹ) trực thuộc Liên minh Hợp tác xã Việt Nam để hỗ trợ các hợp tác xã, liên hiệp hợp tác xã phát triển hoạt động sản xuất kinh doanh, nâng cao năng suất, chất lượng hiệu quả hoạt động, góp phần chuyển dịch cơ cấu kinh tế, tạo việc làm, tăng thu nhập cho các hợp tác xã và liên hiệp hợp tác xã.
 
 Điều 12.4.TT.5.3. Thang lương, bảng lương và phụ cấp lương
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000050223350246000010000802806000130000300
+1. Quỹ xây dựng thang lương, bảng lương, phụ cấp lương và chuyển xếp lương đối với người lao động theo quy định tại Điều 93 của Bộ luật Lao động.
 
-**ID:** dk_00013427
-
----
-
-
-### Điều 12.4.TT.5.4. Quản lý lao động, xác định quỹ tiền lương, tạm ứng quỹ tiền lương, phân phối tiền lương, tiền thưởng
+2. Thang lương, bảng lương do Quỹ xây dựng phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở và công khai tại Quỹ trước khi ban hành.
 
 Điều 12.4.TT.5.4. Quản lý lao động, xác định quỹ tiền lương, tạm ứng quỹ tiền lương, phân phối tiền lương, tiền thưởng
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000050223350246000010000802806000130000400
+1. Quỹ thực hiện quản lý lao động, xác định quỹ tiền lương kế hoạch, quỹ tiền lương thực hiện, tạm ứng và phân phối tiền lương, tiền thưởng đối với người lao động theo quy định tại Mục 2; Điều 9, Điều 10, Điều 13 Mục 3 và Mục 4 Thông tư số 26/2016/TT-BLĐTBXH ngày 01 tháng 9 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện quản lý lao động, tiền lương và tiền thưởng đối với người lao động làm việc trong công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ (sau đây gọi tắt là Thông tư số 26/2016/TT-BLĐTBXH).
 
-**ID:** dk_00013428
-
----
-
-
-### Điều 12.4.TT.5.5. Loại trừ các yếu tố khách quan khi xác định quỹ tiền lương của người lao động
+2. Khi xác định mức tiền lương bình quân kế hoạch, mức tiền lương bình quân thực hiện để tính quỹ tiền lương kế hoạch, quỹ tiền lương thực hiện theo quy định tại Điều 9 và Điều 14 Thông tư số 26/2016/TT-BLĐTBXH thì chỉ tiêu lợi nhuận (lợi nhuận kế hoạch, lợi nhuận thực hiện trong năm và lợi nhuận thực hiện của năm trước liền kề) được tính bằng chỉ tiêu chênh lệch giữa tổng số thu nhập và tổng số chi phí (sau đây gọi tắt là chênh lệch thu trừ chi) của Quỹ. Việc xác định chỉ tiêu chênh lệch thu trừ chi thực hiện theo hướng dẫn của Bộ Tài chính.
 
 Điều 12.4.TT.5.5. Loại trừ các yếu tố khách quan khi xác định quỹ tiền lương của người lao động
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000050223350246000010000802806000130000500
+1. Khi xác định quỹ tiền lương (kế hoạch và thực hiện) của người lao động, nếu có yếu tố khách quan tác động trực tiếp đến năng suất lao động, chênh lệch thu trừ chi thì phải xác định loại trừ, bảo đảm tiền lương gắn với năng suất lao động, hiệu quả hoạt động thực sự của Quỹ.
 
-**ID:** dk_00013429
+2. Các yếu tố khách quan để loại trừ khi xác định quỹ tiền lương, bao gồm các yếu tố quy định tại khoản 1 Điều 11 Thông tư số 26/2016/TT-BLĐTBXH và khoản 2 Điều 45 Nghị định số 45/2021/NĐ-CP .
 
----
-
-
-### Điều 12.4.TT.5.6. Xếp lương, chuyển xếp lương đối với người quản lý Quỹ chuyên trách
+3. Việc loại trừ ảnh hưởng của yếu tố khách quan đến năng suất lao động, chênh lệch thu trừ chi của Quỹ phải được lượng hóa bằng giá trị cụ thể.
 
 Điều 12.4.TT.5.6. Xếp lương, chuyển xếp lương đối với người quản lý Quỹ chuyên trách
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000050223350246000010000802806000130000600
+1. Quỹ thực hiện việc xếp lương, chuyển xếp lương đối với người quản lý chuyên trách theo quy định tại Mục 2 Thông tư số 27/2016/TT-BLĐTBXH ngày 01 tháng 9 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện chế độ tiền lương, thù lao, tiền thưởng đối với người quản lý công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ (sau đây gọi tắt là Thông tư số 27/2016/TT-BLĐTBXH). Đối với Chủ tịch Quỹ thì xếp lương theo chức danh Chủ tịch Hội đồng thành viên.
 
-**ID:** dk_00013430
-
----
-
-
-### Điều 12.4.TT.5.7. Xác định quỹ tiền lương, thù lao, tiền thưởng
+2. Quỹ căn cứ vào tiêu chuẩn xếp hạng ban hành tại Phụ lục kèm theo Thông tư này để định hạng làm cơ sở xác định mức tiền lương chế độ, mức lương cơ bản đối với người quản lý chuyên trách.
 
 Điều 12.4.TT.5.7. Xác định quỹ tiền lương, thù lao, tiền thưởng
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000050223350246000010000802806000130000700
+1. Việc xác định mức tiền lương bình quân, quỹ tiền lương, thù lao kế hoạch; quỹ tiền lương, thù lao thực hiện; quỹ tiền thưởng; trả lương, thù lao, tiền thưởng đối với người quản lý Quỹ được thực hiện theo quy định tại các Điều 3, 9, 11, 12, 14, 15, 16, 17, 18, 19 và tại các khoản 1, 3, 4, 5, 6 Điều 10 Thông tư số 27/2016/TT-BLĐTBXH .
 
-**ID:** dk_00013431
+2. Khi xác định mức tiền lương bình quân, quỹ tiền lương kế hoạch, quỹ tiền lương thực hiện của người quản lý chuyên trách theo quy định tại khoản 1 Điều này thì chỉ tiêu lợi nhuận (lợi nhuận kế hoạch, lợi nhuận thực hiện trong năm và lợi nhuận thực hiện của năm trước liền kề) được tính bằng chỉ tiêu chênh lệch thu trừ chi, trong đó:
 
----
+a) Trường hợp Quỹ bảo đảm đủ các điều kiện: bảo toàn và phát triển vốn nhà nước; nộp thuế và các khoản nộp ngân sách, trích quỹ dự phòng rủi ro theo đúng quy định của pháp luật; có tăng trưởng dư nợ cho vay; năng suất lao động bình quân không giảm và chênh lệch thu trừ chi kế hoạch cao hơn thực hiện của năm trước liền kề thì mức tiền lương bình quân kế hoạch của người quản lý chuyên trách được xác định như sau:
 
+**TLbqkh = TLcb x (1 + Hln)**
 
-### Điều 12.4.TT.5.8. Loại trừ yếu tố khách quan khi xác định quỹ tiền lương, thù lao đối với người quản lý
+Trong đó:
+
+TLbqkh : Mức tiền lương bình quân kế hoạch của người quản lý chuyên trách;
+
+TLcb : Mức lương cơ bản của người quản lý chuyên trách được xác định theo khoản 1 Điều 10 Thông tư số 27/2016/TT-BLĐTBXH ;
+
+Hln: Hệ số lương tăng thêm so với mức lương cơ bản gắn với mức chênh lệch thu trừ chi như sau: mức chênh lệch dưới 10 tỷ đồng thì Hln được tính tối đa bằng 0,1; mức chênh lệch từ 10 tỷ đồng đến dưới 20 tỷ đồng thì Hln được tính tối đa bằng 0,3; mức chênh lệch từ 20 tỷ đồng đến dưới 30 tỷ đồng thì Hln được tính tối đa bằng 0,5; mức chênh lệch từ 30 tỷ đồng đến dưới 50 tỷ đồng thì Hln được tính tối đa bằng 0,7; mức chênh lệch từ 50 tỷ đồng trở lên thì Hln được tính tối đa bằng 1,0.
+
+b) Trường hợp Quỹ không có tăng trưởng dư nợ cho vay thì mức tiền lương bình quân được xác định không vượt quá mức lương cơ bản.
+
+3. Khi xác định thù lao của người quản lý không chuyên trách, trường hợp Quỹ không có người quản lý chuyên trách tương ứng để xác định mức thù lao của người quản lý không chuyên trách theo quy định tại khoản 2 Điều 3 Thông tư số 27/2016/TT-BLĐTBXH thì thực hiện như sau:
+
+a) Xác định mức tiền lương của từng người quản lý chuyên trách theo quy định tại khoản 2 Điều này.
+
+b) Xác định mức thù lao của người quản lý không chuyên trách theo công việc và thời gian làm việc, nhưng không vượt quá 20% mức tiền lương của người quản lý chuyên trách tương ứng theo điểm a khoản 3 Điều này.
 
 Điều 12.4.TT.5.8. Loại trừ yếu tố khách quan khi xác định quỹ tiền lương, thù lao đối với người quản lý
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 12004000000000002000029000000000000000000050223350246000010000802806000130000800
+1. Khi xác định quỹ tiền lương, quỹ thù lao (kế hoạch và thực hiện) của người quản lý, nếu có yếu tố khách quan tác động trực tiếp đến năng suất lao động, chênh lệch thu trừ chi thì phải xác định loại trừ, bảo đảm tiền lương gắn với năng suất lao động, hiệu quả hoạt động thực sự của Quỹ.
 
-**ID:** dk_00013432
+2. Các yếu tố khách quan để loại trừ khi xác định quỹ tiền lương, quỹ thù lao bao gồm các yếu tố quy định tại khoản 1 Điều 13 Thông tư số 27/2016/TT-BLĐTBXH và khoản 2 Điều 45 Nghị định số 45/2021/NĐ-CP .
 
----
+3. Việc loại trừ ảnh hưởng của yếu tố khách quan đến năng suất lao động, chênh lệch thu trừ chi của Quỹ phải được lượng hóa bằng giá trị cụ thể.
 
+Chương III
 
-### Điều 12.4.LQ.30. Điều kiện trở thành thành viên hợp tác xã
+THÀNH VIÊN CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ MỤC 1. THÀNH VIÊN HỢP TÁC XÃ
 
 Điều 12.4.LQ.30. Điều kiện trở thành thành viên hợp tác xã
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003000000000000000000
+1. Thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã bao gồm:
 
-**ID:** dk_00013434
+a) Cá nhân là công dân Việt Nam từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ;
 
----
+b) Cá nhân là nhà đầu tư nước ngoài có giấy chứng nhận đăng ký đầu tư theo quy định của pháp luật về đầu tư;
 
+c) Hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân thành lập, hoạt động tại Việt Nam. Các thành viên của tổ chức này phải cử một người đại diện theo quy định của [Bộ luật Dân sự](https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx) để thực hiện quyền, nghĩa vụ của thành viên hợp tác xã;
 
-### Điều 12.4.LQ.31. Quyền của thành viên hợp tác xã
+d) Pháp nhân Việt Nam.
 
-*Nội dung chưa có sẵn*
+2. Thành viên liên kết không góp vốn của hợp tác xã bao gồm:
 
-**Chỉ mục:** 31
+a) Cá nhân là công dân Việt Nam hoặc người nước ngoài cư trú hợp pháp tại Việt Nam, từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ;
 
-**Mã phân cấp:** 1200400000000000300003100000000000000000
+b) Cá nhân là công dân Việt Nam từ đủ 15 tuổi trở lên đến dưới 18 tuổi, không bị hạn chế năng lực hành vi dân sự, không bị mất năng lực hành vi dân sự, không có khó khăn trong nhận thức, làm chủ hành vi; khi tham gia các giao dịch dân sự, lao động thì phải đáp ứng các điều kiện theo quy định của pháp luật;
 
-**ID:** dk_00013435
+c) Hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân thành lập, hoạt động tại Việt Nam. Các thành viên của tổ chức này phải cử một người đại diện theo quy định của [Bộ luật Dân sự](https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx) để thực hiện quyền, nghĩa vụ của thành viên hợp tác xã;
 
----
+d) Pháp nhân Việt Nam.
 
+3. Cá nhân, tổ chức phải có đơn tự nguyện gia nhập, góp vốn hoặc nộp phí thành viên và đáp ứng điều kiện quy định của Luật này và Điều lệ.
 
-### Điều 12.4.LQ.32. Nghĩa vụ của thành viên hợp tác xã
+4. Thành viên của hợp tác xã có thể đồng thời là thành viên của nhiều hợp tác xã, trừ trường hợp Điều lệ có quy định khác.
+
+5. Cá nhân là nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài khi tham gia là thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã phải đáp ứng các điều kiện sau đây:
+
+a) Điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư và pháp luật có liên quan;
+
+b) Điều kiện bảo đảm quốc phòng, an ninh theo quy định của pháp luật về đầu tư.
+
+6. Hợp tác xã có thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài phải đáp ứng điều kiện tiếp cận thị trường áp dụng đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư và pháp luật có liên quan.
+
+7. Tổng số thành viên chính thức là tổ chức kinh tế có vốn đầu tư nước ngoài và cá nhân là nhà đầu tư nước ngoài phải chiếm tỷ lệ dưới 35% tổng số thành viên chính thức của hợp tác xã.
+
+Điều 12.4.LQ.31. Quyền của thành viên hợp tác xã
+
+(Điều 31 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Thành viên chính thức có quyền sau đây:
+
+a) Được hợp tác xã cung ứng sản phẩm, dịch vụ, việc làm;
+
+b) Được phân phối thu nhập theo quy định của Luật này và Điều lệ;
+
+c) Được hưởng phúc lợi của hợp tác xã;
+
+d) Được tham dự hoặc bầu đại biểu tham dự Đại hội thành viên;
+
+đ) Được biểu quyết nội dung thuộc thẩm quyền của Đại hội thành viên;
+
+e) Ứng cử, đề cử thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên và các chức danh quản lý khác được bầu;
+
+g) Kiến nghị, yêu cầu Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát hoặc kiểm soát viên giải trình về hoạt động của hợp tác xã;
+
+h) Yêu cầu Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát hoặc kiểm soát viên triệu tập Đại hội thành viên bất thường;
+
+i) Được cung cấp thông tin cần thiết liên quan đến hoạt động của hợp tác xã; được hỗ trợ đào tạo, bồi dưỡng và nâng cao trình độ chuyên môn nghiệp vụ phục vụ hoạt động của hợp tác xã;
+
+k) Ra khỏi hợp tác xã theo quy định của Luật này và Điều lệ;
+
+l) Được trả lại một phần hoặc toàn bộ phần vốn góp theo quy định của Luật này và Điều lệ;
+
+m) Được nhận phần giá trị tài sản còn lại của hợp tác xã theo quy định của Luật này và Điều lệ;
+
+n) Khiếu nại, tố cáo, khởi kiện theo quy định của pháp luật;
+
+o) Quyền khác theo quy định của pháp luật và Điều lệ.
+
+2. Thành viên liên kết góp vốn có quyền sau đây:
+
+a) Các quyền quy định tại các điểm b, c, g, i, k, l, m, n và o khoản 1 Điều này;
+
+b) Tham gia và phát biểu nhưng không được biểu quyết tại cuộc họp Đại hội thành viên khi được mời.
+
+3. Thành viên liên kết không góp vốn có quyền sau đây:
+
+a) Các quyền quy định tại các điểm a, c, i, k, n và o khoản 1 Điều này;
+
+b) Tham gia và phát biểu nhưng không được biểu quyết tại cuộc họp Đại hội thành viên khi được mời.
 
 Điều 12.4.LQ.32. Nghĩa vụ của thành viên hợp tác xã
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003200000000000000000
+1. Thành viên chính thức có nghĩa vụ sau đây:
 
-**ID:** dk_00013436
+a) Góp đủ, đúng thời hạn phần vốn góp đã cam kết theo quy định của Điều lệ;
 
----
+b) Sử dụng sản phẩm, dịch vụ của hợp tác xã đã đăng ký hoặc góp sức lao động theo thỏa thuận với hợp tác xã;
 
+c) Chịu trách nhiệm về các khoản nợ, nghĩa vụ tài chính của hợp tác xã trong phạm vi phần vốn góp vào hợp tác xã;
 
-### Điều 12.4.LQ.33. Chấm dứt tư cách thành viên hợp tác xã
+d) Bồi thường thiệt hại do mình gây ra cho hợp tác xã theo quy định của pháp luật và Điều lệ;
+
+đ) Tuân thủ tôn chỉ, mục đích, Điều lệ, quy chế của hợp tác xã, nghị quyết Đại hội thành viên và quyết định của Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc Giám đốc đối với tổ chức quản trị rút gọn;
+
+e) Nghĩa vụ khác theo quy định của pháp luật và Điều lệ.
+
+2. Thành viên liên kết góp vốn có nghĩa vụ quy định tại các điểm a, c, d, đ và e khoản 1 Điều này.
+
+3. Thành viên liên kết không góp vốn có nghĩa vụ sau đây:
+
+a) Nộp phí thành viên theo quy định của Điều lệ. Phí thành viên không phải là khoản thu thuộc ngân sách nhà nước theo quy định của [Luật Phí và lệ phí](https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-phi-va-le-phi-2015-298376.aspx).
+
+b) Nghĩa vụ quy định tại các điểm b, d, đ và e khoản 1 Điều này.
 
 Điều 12.4.LQ.33. Chấm dứt tư cách thành viên hợp tác xã
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003300000000000000000
+1. Các trường hợp chấm dứt tư cách thành viên chính thức:
 
-**ID:** dk_00013437
+a) Thành viên là cá nhân đã chết; bị Tòa án tuyên bố là đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi;
 
----
+b) Thành viên là tổ chức chấm dứt tồn tại, giải thể, phá sản;
 
+c) Hợp tác xã chấm dứt tồn tại, giải thể, phá sản;
 
-### Điều 12.4.LQ.34. Điều kiện trở thành thành viên liên hiệp hợp tác xã
+d) Thành viên tự nguyện ra khỏi hợp tác xã;
+
+đ) Thành viên bị khai trừ theo quy định của Điều lệ;
+
+e) Thành viên không sử dụng sản phẩm, dịch vụ hoặc không góp sức lao động trong thời gian liên tục theo quy định của Điều lệ;
+
+g) Tại thời điểm cam kết góp đủ vốn, thành viên không thực hiện góp vốn hoặc góp vốn thấp hơn vốn góp tối thiểu quy định trong Điều lệ.
+
+2. Các trường hợp chấm dứt tư cách thành viên liên kết góp vốn theo quy định tại các điểm a, b, c, d, đ và g khoản 1 Điều này.
+
+3. Các trường hợp chấm dứt tư cách thành viên liên kết không góp vốn:
+
+a) Các trường hợp quy định tại các điểm a, b, c, d, đ và e khoản 1 Điều này;
+
+b) Không nộp phí thành viên theo quy định của Điều lệ.
+
+4. Thẩm quyền quyết định chấm dứt tư cách thành viên, giải quyết quyền, nghĩa vụ đối với thành viên trong trường hợp chấm dứt tư cách thành viên thực hiện theo quy định của Luật này và Điều lệ.
+
+**Mục 2. THÀNH VIÊN LIÊN HIỆP HỢP TÁC XÃ**
 
 Điều 12.4.LQ.34. Điều kiện trở thành thành viên liên hiệp hợp tác xã
 
-**Chỉ mục:** 34
+(Điều 34 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003400000000000000000
+1. Thành viên liên hiệp hợp tác xã bao gồm:
 
-**ID:** dk_00013438
+a) Thành viên chính thức là hợp tác xã;
 
----
+b) Thành viên liên kết góp vốn, thành viên liên kết không góp vốn là pháp nhân Việt Nam.
 
+2. Hợp tác xã, pháp nhân Việt Nam phải có đơn tự nguyện gia nhập, góp vốn và đáp ứng điều kiện theo quy định của Luật này và Điều lệ.
 
-### Điều 12.4.LQ.35. Quyền của thành viên liên hiệp hợp tác xã
+3. Thành viên của liên hiệp hợp tác xã có thể đồng thời là thành viên của nhiều liên hiệp hợp tác xã, trừ trường hợp Điều lệ có quy định khác.
+
+4. Tổ chức kinh tế có vốn đầu tư nước ngoài khi tham gia là thành viên chính thức, thành viên liên kết góp vốn của liên hiệp hợp tác xã phải đáp ứng các điều kiện sau đây:
+
+a) Điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư và pháp luật có liên quan;
+
+b) Điều kiện bảo đảm quốc phòng, an ninh theo quy định của pháp luật về đầu tư.
+
+5. Liên hiệp hợp tác xã có thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài phải đáp ứng điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư và pháp luật có liên quan.
+
+6. Tổng số thành viên chính thức là tổ chức kinh tế có vốn đầu tư nước ngoài phải chiếm tỷ lệ dưới 35% tổng số thành viên chính thức của liên hiệp hợp tác xã.
 
 Điều 12.4.LQ.35. Quyền của thành viên liên hiệp hợp tác xã
 
-**Chỉ mục:** 35
+(Điều 35 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003500000000000000000
+1. Thành viên chính thức có quyền sau đây:
 
-**ID:** dk_00013439
+a) Được liên hiệp hợp tác xã cung ứng sản phẩm, dịch vụ, việc làm;
 
----
+b) Được phân phối thu nhập theo quy định của Luật này và Điều lệ của liên hiệp hợp tác xã;
 
+c) Được hưởng phúc lợi của liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.36. Nghĩa vụ của thành viên liên hiệp hợp tác xã
+d) Được tham dự hoặc bầu đại biểu tham dự Đại hội thành viên;
+
+đ) Được biểu quyết nội dung thuộc thẩm quyền của Đại hội thành viên;
+
+e) Ứng cử, đề cử thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên và các chức danh quản lý khác được bầu;
+
+g) Kiến nghị, yêu cầu Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát hoặc kiểm soát viên giải trình về hoạt động của liên hiệp hợp tác xã;
+
+h) Yêu cầu Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát hoặc kiểm soát viên triệu tập Đại hội thành viên bất thường;
+
+i) Được cung cấp thông tin cần thiết liên quan đến hoạt động của liên hiệp hợp tác xã; được hỗ trợ đào tạo, bồi dưỡng và nâng cao trình độ nghiệp vụ phục vụ hoạt động của liên hiệp hợp tác xã;
+
+k) Ra khỏi liên hiệp hợp tác xã theo quy định của Luật này và Điều lệ;
+
+l) Được trả lại một phần hoặc toàn bộ phần vốn góp theo quy định của Luật này và Điều lệ;
+
+m) Được nhận giá trị tài sản còn lại của liên hiệp hợp tác xã theo quy định của Luật này và Điều lệ;
+
+n) Khiếu nại, tố cáo, khởi kiện theo quy định của pháp luật;
+
+o) Quyền khác theo quy định của pháp luật và Điều lệ.
+
+2. Thành viên liên kết góp vốn có quyền sau đây:
+
+a) Các quyền quy định tại các điểm b, c, g, i, k, l, m, n và o khoản 1 Điều này;
+
+b) Tham gia và phát biểu nhưng không được biểu quyết tại cuộc họp Đại hội thành viên khi được mời.
+
+3. Thành viên liên kết không góp vốn có quyền sau đây:
+
+a) Các quyền quy định tại các điểm a, c, i, k, n và o khoản 1 Điều này;
+
+b) Tham gia và phát biểu nhưng không được biểu quyết tại cuộc họp Đại hội thành viên khi được mời.
 
 Điều 12.4.LQ.36. Nghĩa vụ của thành viên liên hiệp hợp tác xã
 
-**Chỉ mục:** 36
+(Điều 36 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003600000000000000000
+1. Thành viên chính thức có nghĩa vụ sau đây:
 
-**ID:** dk_00013440
+a) Góp đủ, đúng thời hạn phần vốn góp đã cam kết theo quy định của Điều lệ;
 
----
+b) Sử dụng sản phẩm, dịch vụ của liên hiệp hợp tác xã đã đăng ký hoặc góp sức lao động theo thỏa thuận với liên hiệp hợp tác xã;
 
+c) Chịu trách nhiệm về các khoản nợ, nghĩa vụ tài chính của liên hiệp hợp tác xã trong phạm vi phần vốn góp;
 
-### Điều 12.4.LQ.37. Chấm dứt tư cách thành viên liên hiệp hợp tác xã
+d) Bồi thường thiệt hại do mình gây ra cho liên hiệp hợp tác xã theo quy định của pháp luật;
+
+đ) Tuân thủ tôn chỉ, mục đích, Điều lệ, quy chế của liên hiệp hợp tác xã, nghị quyết Đại hội thành viên và quyết định của Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc Giám đốc đối với tổ chức quản trị rút gọn;
+
+e) Nghĩa vụ khác theo quy dinh của pháp luật và Điều lệ.
+
+2. Thành viên liên kết góp vốn có nghĩa vụ quy định tại các điểm a, c, d, đ và e khoản 1 Điều này.
+
+3. Thành viên liên kết không góp vốn có nghĩa vụ sau đây:
+
+a) Nộp phí thành viên theo quy định của Điều lệ. Phí thành viên không phải là khoản thu thuộc ngân sách nhà nước theo quy định của [Luật Phí và lệ phí](https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-phi-va-le-phi-2015-298376.aspx);
+
+b) Nghĩa vụ quy định tại các điểm b, d, đ và e khoản 1 Điều này.
 
 Điều 12.4.LQ.37. Chấm dứt tư cách thành viên liên hiệp hợp tác xã
 
-**Chỉ mục:** 37
+(Điều 37 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000300003700000000000000000
+1. Các trường hợp chấm dứt tư cách thành viên chính thức bao gồm:
 
-**ID:** dk_00013441
+a) Thành viên chấm dứt tồn tại, giải thể, phá sản;
 
----
+b) Liên hiệp hợp tác xã chấm dứt tồn tại, giải thể, phá sản;
 
+c) Thành viên tự nguyện ra khối liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.38. Sáng lập viên
+d) Thành viên bị khai trừ theo quy định của Điều lệ;
 
-*Nội dung chưa có sẵn*
+đ) Thành viên không sử dụng sản phẩm, dịch vụ hoặc không góp sức lao động trong thời gian liên tục theo quy định của Điều lệ;
 
-**Chỉ mục:** 38
+e) Tại thời điểm cam kết góp đủ vốn, thành viên không thực hiện góp vốn hoặc góp vốn thấp hơn vốn góp tối thiểu quy định trong Điều lệ.
 
-**Mã phân cấp:** 1200400000000000400003800000000000000000
+2. Các trường hợp chấm dứt tư cách thành viên liên kết góp vốn theo quy định tại các điểm a, b, c, d và e khoản 1 Điều này.
 
-**ID:** dk_00013443
+3. Các trường hợp chấm dứt tư cách thành viên liên kết không góp vốn bao gồm:
 
----
+a) Các trường hợp quy định tại các điểm a, b, c, d và đ khoản 1 Điều này;
 
+b) Không nộp phí thành viên theo quy định của Điều lệ.
 
-### Điều 12.4.LQ.39. Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã
+4. Thẩm quyền quyết định chấm dứt tư cách thành viên, giải quyết quyền, nghĩa vụ đối với thành viên trong trường hợp chấm dứt tư cách thành viên thực hiện theo quy định của Luật này và Điều lệ.
+
+Chương IV
+
+THÀNH LẬP HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+Điều 12.4.LQ.38. Sáng lập viên
+
+(Điều 38 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Sáng lập viên hợp tác xã là cá nhân, tổ chức tự nguyện cam kết tham gia thành lập và là thành viên chính thức của hợp tác xã.
+
+Sáng lập viên liên hiệp hợp tác xã là hợp tác xã tự nguyện cam kết tham gia thành lập và là thành viên chính thức của liên hiệp hợp tác xã.
+
+2. Sáng lập viên vận động, tuyên truyền thành lập; xây dựng phương án sản xuất, kinh doanh, dự thảo Điều lệ; chuẩn bị các điều kiện và triển khai các công việc để tổ chức hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã.
+
+3. Sáng lập viên có thể liên hệ với cơ quan đăng ký kinh doanh, cơ quan nhà nước có thẩm quyền hoặc tổ chức đại diện nơi thành lập hoặc cơ quan, tổ chức khác để được tư vấn, hỗ trợ việc thành lập.
+
+4. Sáng lập viên là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài phải đáp ứng điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư và pháp luật có liên quan.
 
 Điều 12.4.LQ.39. Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400003900000000000000000
+1. Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã do sáng lập viên tổ chức có thành phần bao gồm:
 
-**ID:** dk_00013444
+a) Sáng lập viên là cá nhân;
 
----
+b) Người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của sáng lập viên là tổ chức;
 
+c) Cá nhân, người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức khác có nguyện vọng gia nhập hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.40. Nội dung của Điều lệ hợp tác xã, liên hiệp hợp tác xã
+d) Đại diện của tổ chức đại diện có thể được mời tham gia hội nghị nhưng không có quyền biểu quyết.
+
+2. Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã được thực hiện theo trình tự sau đây:
+
+a) Thảo luận về dự thảo Điều lệ; danh sách thành viên; phương án sản xuất, kinh doanh; tổ chức quản trị;
+
+b) Thông qua Điều lệ;
+
+c) Thông qua danh sách thành viên là cá nhân, tổ chức tán thành Điều lệ và đủ điều kiện theo quy định của Luật này và pháp luật có liên quan.
+
+3. Thành viên chính thức quyết định các nội dung sau đây:
+
+a) Phương án sản xuất, kinh doanh;
+
+b) Bầu thành viên Hội đồng quản trị và Chủ tịch Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc bầu Giám đốc đối với tổ chức quản trị rút gọn. Hội đồng quản trị bổ nhiệm Giám đốc (Tổng giám đốc);
+
+c) Bầu thành viên Ban kiểm soát và Trưởng Ban kiểm soát đối với tổ chức quản trị đầy đủ hoặc bầu kiểm soát viên đối với tổ chức quản trị rút gọn;
+
+d) Người được ủy quyền đăng ký thành lập và thực hiện các nội dung khác có liên quan đến việc thành lập và tổ chức, hoạt động của hợp tác xã, liên hiệp hợp tác xã.
+
+4. Thành viên chính thức, thành viên liên kết góp vốn định giá, thông qua kết quả định giá tài sản góp vốn của các thành viên theo quy định tại khoản 1 Điều 77 của Luật này.
+
+5. Nghị quyết của hội nghị thành lập bao gồm những nội dung quy định tại khoản 3 Điều này và phải được biểu quyết theo nguyên tắc đa số, mỗi thành viên một phiếu bầu ngang nhau.
 
 Điều 12.4.LQ.40. Nội dung của Điều lệ hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004000000000000000000
+Nội dung của Điều lệ không được trái với quy định của Luật này và pháp luật có liên quan, bao gồm các nội dung chủ yếu sau đây:
 
-**ID:** dk_00013445
+1. Tên, địa chỉ trụ sở chính; biểu tượng (nếu có);
 
----
+2. Ngành, nghề kinh doanh;
 
+3. Điều kiện, thủ tục kết nạp thành viên;
 
-### Điều 12.4.LQ.41. Đăng ký hợp tác xã, liên hiệp hợp tác xã
+4. Các trường hợp chấm dứt và thủ tục chấm dứt tư cách thành viên, trong đó quy định cụ thể về điều kiện chấm dứt tư cách thành viên, bao gồm:
+
+a) Trường hợp khai trừ thành viên;
+
+b) Mức độ thường xuyên sử dụng sản phẩm, dịch vụ hoặc thời gian liên tục không góp sức lao động của thành viên chính thức;
+
+c) Giá trị tối thiểu của sản phẩm, dịch vụ mà thành viên chính thức phải sử dụng;
+
+5. Quyền, nghĩa vụ của thành viên;
+
+6. Tổ chức quản trị; thẩm quyền của Đại hội thành viên; nhiệm vụ, quyền hạn của Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát đối với tổ chức quản trị đầy đủ hoặc nhiệm vụ, quyền hạn của Giám đốc, kiểm soát viên đối với tổ chức quản trị rút gọn;
+
+7. Số lượng, chức danh và quyền, nghĩa vụ của người đại diện theo pháp luật; phân chia quyền, nghĩa vụ của người đại diện theo pháp luật trong trường hợp hợp tác xã, liên hiệp hợp tác xã có nhiều hơn một người đại diện theo pháp luật;
+
+8. Vốn điều lệ; tăng, giảm vốn điều lệ; vốn góp tối thiểu, vốn góp tối đa, hình thức, thời hạn góp vốn; định giá tài sản góp vốn; trả lại một phần hoặc toàn bộ phần vốn góp của thành viên chính thức, thành viên liên kết góp vốn;
+
+9. Phí thành viên trong trường hợp có thành viên liên kết không góp vốn;
+
+10. Hình thức tổ chức Đại hội thành viên; cách thức biểu quyết tại Đại hội thành viên; cách thức bầu đại biểu tham dự và biểu quyết tại Đại hội thành viên trong trường hợp Đại hội thành viên tổ chức theo hình thức đại hội đại biểu;
+
+11. Tỷ lệ giá trị giao dịch nội bộ tối thiểu;
+
+12. Đầu tư, góp vốn, mua cổ phần, thành lập doanh nghiệp, liên danh, liên kết với tổ chức kinh tế;
+
+13. Lập quỹ; tỷ lệ trích lập quỹ; tỷ lệ, phương thức phân phối thu nhập;
+
+14. Quản lý tài chính, sử dụng và xử lý tài sản, vốn, quỹ và khoản lỗ;
+
+15. Nguyên tắc trả thù lao, tiền lương, tiền công, tiền thưởng và chế độ khác cho thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên, người lao động;
+
+16. Trình tự, thủ tục cấp, cấp lại, cấp đổi, thu hồi Giấy chứng nhận phần vốn góp;
+
+17. Trình tự, thủ tục sửa đổi, bổ sung Điều lệ;
+
+18. Biện pháp xử lý thành viên nợ quá hạn;
+
+19. Xử lý vi phạm Điều lệ và nguyên tắc giải quyết tranh chấp nội bộ.
 
 Điều 12.4.LQ.41. Đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 41
+(Điều 41 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004100000000000000000
+1. Đăng ký hợp tác xã, liên hiệp hợp tác xã bao gồm đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã; đăng ký chuyển đổi tổ hợp tác thành hợp tác xã; đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh và nghĩa vụ đăng ký, thông báo khác theo quy định của Luật này.
 
-**ID:** dk_00013446
+2. Hồ sơ đăng ký được gửi đến cơ quan đăng ký kinh doanh theo một trong các phương thức sau đây:
 
----
+a) Bằng bản giấy nộp trực tiếp tại cơ quan đăng ký kinh doanh;
 
+b) Bằng bản giấy qua dịch vụ bưu chính;
 
-### Điều 12.4.NĐ.3.4. Nguyên tắc áp dụng giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+c) Qua hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh.
+
+3. Chính phủ quy định về cơ quan đăng ký kinh doanh, trình tự, thủ tục, liên thông trong đăng ký hợp tác xã, liên hiệp hợp tác xã.
+
+4. Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành biểu mẫu thực hiện thủ tục đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.4. Nguyên tắc áp dụng giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920000400
+1. Người đại diện tổ hợp tác, người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tự kê khai hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của các thông tin kê khai trong hồ sơ và các báo cáo.
 
-**ID:** dk_00013447
+2. Trường hợp hợp tác xã, liên hiệp hợp tác xã có nhiều hơn một người đại diện theo pháp luật thì người đại diện theo pháp luật thực hiện thủ tục đăng ký hợp tác xã, liên hiệp hợp tác xã phải bảo đảm và chịu trách nhiệm thực hiện đúng quyền hạn, nghĩa vụ của mình quy định tại Điều lệ của hợp tác xã, liên hiệp hợp tác xã.
 
----
+3. Cơ quan đăng ký kinh doanh chịu trách nhiệm về tính hợp lệ của hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, không chịu trách nhiệm về những vi phạm pháp luật của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã xảy ra trước và sau khi đăng ký.
 
+4. Cơ quan đăng ký kinh doanh không giải quyết tranh chấp giữa các thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã với nhau hoặc với tổ chức, cá nhân khác hoặc giữa tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã với tổ chức, cá nhân khác.
 
-### Điều 12.4.NĐ.3.5. Cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+5. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không bắt buộc phải đóng dấu trong giấy đề nghị đăng ký, thông báo thay đổi nội dung đăng ký, nghị quyết, quyết định, biên bản họp trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+6. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã là người có thẩm quyền ký văn bản đề nghị thực hiện các thủ tục đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh trực thuộc hợp tác xã, liên hiệp hợp tác xã.
+
+Trường hợp địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã trực thuộc chi nhánh thì người ký văn bản đề nghị thực hiện các thủ tục đối với địa điểm kinh doanh là người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã hoặc người đứng đầu chi nhánh.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.5. Cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920000500
+1. Cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là Phòng Tài chính - Kế hoạch thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp huyện).
 
-**ID:** dk_00013448
+2. Đối với các tỉnh, thành phố trực thuộc trung ương áp dụng thí điểm cơ chế, chính sách đặc thù theo nghị quyết của Quốc hội thì cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thực hiện theo quyết định của cơ quan có thẩm quyền theo quy định pháp luật.
 
----
+3. Cơ quan đăng ký kinh doanh quy định tại khoản 1 và khoản 2 Điều này gọi chung là cơ quan đăng ký kinh doanh cấp huyện.
 
+4. Cơ quan đăng ký kinh doanh cấp huyện có tài khoản và con dấu riêng.
 
-### Điều 12.4.NĐ.3.6. Nhiệm vụ, quyền hạn của Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.6. Nhiệm vụ, quyền hạn của Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920000600
+1. Hướng dẫn cơ quan đăng ký kinh doanh cấp huyện về hồ sơ, trình tự, thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013449
+2. Đôn đốc, kiểm tra, giám sát cơ quan đăng ký kinh doanh cấp huyện trong việc thực hiện nhiệm vụ, quyền hạn về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
----
-
-
-### Điều 12.4.NĐ.3.7. Nhiệm vụ, quyền hạn của cơ quan đăng ký kinh doanh cấp huyện
+3. Báo cáo Ủy ban nhân dân cấp tỉnh, các cơ quan liên quan về tình hình đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên địa bàn theo quy định về chế độ báo cáo của cơ quan hành chính nhà nước.
 
 Điều 12.4.NĐ.3.7. Nhiệm vụ, quyền hạn của cơ quan đăng ký kinh doanh cấp huyện
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920000700
+1. Trực tiếp nhận hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; xem xét tính hợp lệ của hồ sơ và cấp hoặc từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013450
+2. Hướng dẫn tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và người thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã về hồ sơ, trình tự, thủ tục đăng ký.
 
----
+3. Phối hợp xây dựng, quản lý, vận hành Hệ thống thông tin về đăng ký hợp tác xã; thực hiện việc số hóa hồ sơ, chuẩn hóa, chuyển đổi dữ liệu, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tại địa phương vào Cơ sở dữ liệu về đăng ký hợp tác xã.
 
+4. Cung cấp thông tin về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã lưu trữ tại Cơ sở dữ liệu về đăng ký hợp tác xã trong phạm vi địa phương quản lý cho Ủy ban nhân dân cấp huyện, Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương và theo yêu cầu của cơ quan phòng, chống rửa tiền thuộc Ngân hàng Nhà nước Việt Nam, các cơ quan có liên quan theo quy định của pháp luật.
 
-### Điều 12.4.NĐ.3.9. Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh
+5. Trực tiếp kiểm tra hoặc đề nghị cơ quan nhà nước có thẩm quyền kiểm tra tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo nội dung trong hồ sơ đăng ký.
+
+6. Yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã báo cáo về việc tuân thủ các quy định tại Luật Hợp tác xã và Nghị định này.
+
+7. Yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tạm ngừng hoặc chấm dứt kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện, ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài khi nhận được văn bản của cơ quan nhà nước có thẩm quyền về việc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không đáp ứng điều kiện theo quy định.
+
+8. Thu hồi, khôi phục Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã; giải thể, chấm dứt hoạt động tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật.
+
+9. Báo cáo Ủy ban nhân dân cấp huyện, Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương, các cơ quan liên quan về tình hình đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên địa bàn theo quy định về chế độ báo cáo của cơ quan hành chính nhà nước.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.9. Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920000900
+1. Giấy chứng nhận đăng ký tổ hợp tác được cấp cho tổ hợp tác. Giấy chứng nhận đăng ký hợp tác xã được cấp cho hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013451
+Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh được cấp cho chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã.
 
----
+2. Nội dung Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh được ghi trên cơ sở thông tin trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, hồ sơ đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
 
+3. Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã đồng thời là Giấy chứng nhận đăng ký thuế của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã không phải là giấy phép kinh doanh.
 
-### Điều 12.4.NĐ.3.10. Kê khai thông tin cá nhân trong thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.10. Kê khai thông tin cá nhân trong thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 92/2024/NĐ-CP Về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã ngày 18/07/2024 của Chính phủ, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920001000
+1. Trường hợp đã có số định danh cá nhân, người thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã kê khai các thông tin về họ, chữ đệm và tên, ngày, tháng, năm sinh, số định danh cá nhân của mình và của cá nhân có yêu cầu kê khai thông tin cá nhân trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Các thông tin kê khai phải chính xác so với các thông tin được lưu trữ tại Cơ sở dữ liệu quốc gia về dân cư. Trường hợp thông tin cá nhân được kê khai có sai khác so với thông tin được lưu trữ tại Cơ sở dữ liệu quốc gia về dân cư, cá nhân đó có trách nhiệm liên hệ với cơ quan quản lý nhà nước có thẩm quyền để hiệu chỉnh thông tin trước khi thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013452
+2. Trường hợp nộp hồ sơ đăng ký bằng bản giấy, người nộp hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã xuất trình căn cước công dân hoặc thẻ căn cước hoặc sử dụng tài khoản định danh điện tử theo quy định pháp luật để thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
----
+3. Trường hợp không có số định danh cá nhân thì hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có yêu cầu kê khai thông tin cá nhân của người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã, người đứng đầu chi nhánh, văn phòng đại diện, địa điểm kinh doanh, người đại diện tổ hợp tác trong trường hợp người đại diện tổ hợp tác là cá nhân hoặc người đại diện hợp pháp của pháp nhân trong trường hợp người đại diện tổ hợp tác là pháp nhân phải kèm theo bản sao chứng minh nhân dân hoặc hộ chiếu hoặc hộ chiếu nước ngoài hoặc các giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực của cá nhân đó theo quy định.
 
+4. Trường hợp việc kết nối giữa Cơ sở dữ liệu về đăng ký hợp tác xã với Cơ sở dữ liệu quốc gia về dân cư bị gián đoạn thì hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã phải kèm theo bản sao căn cước công dân hoặc thẻ căn cước hoặc chứng minh nhân dân hoặc hộ chiếu hoặc hộ chiếu nước ngoài hoặc các giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực của người nộp hồ sơ đăng ký, người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã, người đứng đầu chi nhánh, văn phòng đại diện, địa điểm kinh doanh, người đại diện tổ hợp tác trong trường hợp người đại diện tổ hợp tác là cá nhân hoặc người đại diện hợp pháp của pháp nhân trong trường hợp người đại diện tổ hợp tác là pháp nhân theo quy định.
 
-### Điều 12.4.NĐ.3.11. Số lượng hồ sơ và ngôn ngữ sử dụng trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+5. Các thông tin cá nhân được Cơ sở dữ liệu quốc gia về dân cư chia sẻ với Cơ sở dữ liệu về đăng ký hợp tác xã bao gồm:
+
+a) Họ, chữ đệm và tên;
+
+b) Ngày, tháng, năm sinh;
+
+c) Số định danh cá nhân;
+
+d) Giới tính;
+
+đ) Dân tộc;
+
+e) Quốc tịch;
+
+g) Nơi thường trú;
+
+h) Nơi ở hiện nay.
+
+6. Cơ quan đăng ký kinh doanh cấp huyện, Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương, cơ quan quản lý nhà nước về đăng ký kinh doanh có quyền khai thác thông tin trong Cơ sở dữ liệu quốc gia về dân cư để giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã, lưu trữ, bảo quản thông tin, dữ liệu theo quy định của pháp luật, bảo đảm an toàn, bảo mật và được sao lưu dự phòng bảo đảm tính đầy đủ, toàn vẹn của hồ sơ cho phép truy cập, sử dụng khi cần thiết hoặc để phục vụ công tác kiểm tra, đối chiếu, tra soát, giải quyết khiếu nại và cung cấp thông tin khi có yêu cầu từ cơ quan, tổ chức theo quy định.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.11. Số lượng hồ sơ và ngôn ngữ sử dụng trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920001100
+1. Người thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã nộp 01 bộ hồ sơ khi thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013453
+2. Cơ quan đăng ký kinh doanh cấp huyện không được yêu cầu người thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã nộp thêm hồ sơ hoặc giấy tờ khác ngoài các giấy tờ trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy định tại Luật Hợp tác xã và Nghị định này.
 
----
+3. Ngôn ngữ sử dụng trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã:
 
+a) Các giấy tờ, tài liệu trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được lập bằng tiếng Việt;
 
-### Điều 12.4.NĐ.3.12. Ủy quyền thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+b) Trường hợp hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có tài liệu bằng tiếng nước ngoài thì hồ sơ phải có bản dịch tiếng Việt công chứng kèm theo tài liệu bằng tiếng nước ngoài;
+
+c) Trường hợp giấy tờ, tài liệu trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được lập bằng tiếng Việt và tiếng nước ngoài thì bản tiếng Việt được sử dụng để thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.12. Ủy quyền thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920001200
+1. Người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã được ghi trong nghị quyết Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã. Việc ủy quyền lại để thực hiện thủ tục đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định của pháp luật về dân sự.
 
-**ID:** dk_00013454
+2. Trừ trường hợp quy định tại khoản 1 Điều này, cá nhân ký tên tại văn bản đề nghị đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã như sau:
 
----
+a) Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã, kèm theo hồ sơ phải có văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực;
 
+b) Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã, kèm theo hồ sơ đăng ký phải có bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ, giấy giới thiệu hoặc văn bản phân công nhiệm vụ của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.NĐ.3.13. Ghi ngành, nghề kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+3. Trường hợp thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã qua dịch vụ bưu chính công ích, khi thực hiện thủ tục, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký.
+
+4. Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã thì việc ủy quyền thực hiện theo quy định tại điểm b khoản 2 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.13. Ghi ngành, nghề kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920001300
+1. Khi đăng ký thành lập hoặc thông báo thay đổi ngành, nghề kinh doanh hoặc khi đề nghị cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã theo quy định tại Nghị định này, người thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã lựa chọn ngành kinh tế cấp bốn trong Hệ thống ngành kinh tế Việt Nam để ghi ngành, nghề kinh doanh trong hồ sơ đăng ký. Cơ quan đăng ký kinh doanh cấp huyện hướng dẫn, đối chiếu và ghi nhận ngành, nghề kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã vào Cơ sở dữ liệu về đăng ký hợp tác xã.
 
-**ID:** dk_00013455
+2. Nội dung cụ thể của ngành kinh tế cấp bốn quy định tại khoản 1 Điều này thực hiện theo Quyết định của Thủ tướng Chính phủ ban hành Hệ thống ngành kinh tế Việt Nam.
 
----
+3. Đối với những ngành, nghề đầu tư kinh doanh có điều kiện được quy định tại các văn bản quy phạm pháp luật khác thì ngành, nghề kinh doanh được ghi theo ngành, nghề quy định tại các văn bản quy phạm pháp luật đó.
 
+4. Đối với những ngành, nghề kinh doanh không có trong Hệ thống ngành kinh tế Việt Nam nhưng được quy định tại các văn bản quy phạm pháp luật khác thì ngành, nghề kinh doanh được ghi theo ngành, nghề quy định tại các văn bản quy phạm pháp luật đó.
 
-### Điều 12.4.NĐ.3.14. Mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+5. Đối với những ngành, nghề kinh doanh không có trong Hệ thống ngành kinh tế Việt Nam và chưa được quy định tại các văn bản quy phạm pháp luật khác thì cơ quan đăng ký kinh doanh cấp huyện xem xét ghi nhận ngành, nghề kinh doanh này vào Cơ sở dữ liệu về đăng ký hợp tác xã nếu không thuộc ngành, nghề cấm đầu tư kinh doanh, đồng thời thông báo cho Bộ Kế hoạch và Đầu tư để bổ sung ngành, nghề kinh doanh mới.
+
+6. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có nhu cầu ghi ngành, nghề kinh doanh chi tiết hơn ngành kinh tế cấp bốn thì lựa chọn một ngành kinh tế cấp bốn trong Hệ thống ngành kinh tế Việt Nam, sau đó ghi chi tiết ngành, nghề kinh doanh ngay dưới ngành kinh tế cấp bốn nhưng phải bảo đảm ngành, nghề kinh doanh chi tiết của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã phù hợp với ngành kinh tế cấp bốn đã chọn. Trong trường hợp này, ngành, nghề kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là ngành, nghề kinh doanh chi tiết đã ghi.
+
+7. Việc ghi ngành, nghề kinh doanh quy định tại khoản 3 và khoản 4 Điều này thực hiện theo quy định tại khoản 6 Điều này, trong đó, ngành, nghề kinh doanh chi tiết được ghi theo ngành, nghề quy định tại các văn bản quy phạm pháp luật chuyên ngành.
+
+8. Việc ghi ngành, nghề kinh doanh của chi nhánh, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định tại các khoản 1, 2, 3, 4, 5, 6 và 7 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.14. Mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920001400
+1. Mỗi tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được cấp một mã số duy nhất gọi là mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Mã số này đồng thời là mã số thuế của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013456
+2. Mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tồn tại trong suốt quá trình hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và không được cấp lại cho tổ chức, cá nhân khác. Khi tổ hợp tác chấm dứt hoạt động, hợp tác xã, liên hiệp hợp tác xã giải thể thì mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chấm dứt hiệu lực. Trường hợp tổ hợp tác chấm dứt tồn tại do chuyển đổi thành hợp tác xã thì mã số tổ hợp tác không bị chấm dứt hiệu lực.
 
----
+3. Mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được tạo, gửi, nhận tự động bởi Hệ thống thông tin về đăng ký hợp tác xã, Hệ thống ứng dụng đăng ký thuế và được ghi trên Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã. Việc tạo mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được thực hiện theo quy trình sau:
 
+a) Khi hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đủ điều kiện để được cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Hệ thống thông tin về đăng ký hợp tác xã truyền thông tin đăng ký thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã sang Hệ thống ứng dụng đăng ký thuế;
 
-### Điều 12.4.NĐ.3.19. Tiếp nhận, xử lý hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã theo phương thức nộp hồ sơ trực tiếp tại cơ quan đăng ký kinh doanh cấp huyện và đăng ký qua dịch vụ bưu chính
+b) Hệ thống ứng dụng đăng ký thuế nhận thông tin đăng ký thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã từ Hệ thống thông tin về đăng ký hợp tác xã truyền sang và tự động kiểm tra sự phù hợp của thông tin theo quy định của pháp luật về đăng ký thuế.
+
+Trường hợp thông tin phù hợp theo quy định của pháp luật về đăng ký thuế, Hệ thống ứng dụng đăng ký thuế tự động tạo mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thực hiện phân cấp cơ quan quản lý thuế quản lý đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; đồng thời truyền các thông tin này sang Hệ thống thông tin về đăng ký hợp tác xã.
+
+Trường hợp thông tin không phù hợp theo quy định của pháp luật về đăng ký thuế, Hệ thống ứng dụng đăng ký thuế tự động phản hồi về việc thông tin không phù hợp và truyền sang Hệ thống thông tin về đăng ký hợp tác xã;
+
+c) Trên cơ sở thông tin do Hệ thống ứng dụng đăng ký thuế cung cấp, cơ quan đăng ký kinh doanh cấp huyện cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã và thông báo về cơ quan quản lý thuế quản lý trực tiếp cho người thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; trường hợp hồ sơ chưa đủ điều kiện cấp theo quy định pháp luật về thuế, cơ quan đăng ký kinh doanh cấp huyện ra thông báo cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+4. Mã số đơn vị phụ thuộc của hợp tác xã, liên hiệp hợp tác xã được cấp cho chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã. Mã số này đồng thời là mã số thuế của chi nhánh, văn phòng đại diện. Quy trình tạo mã số đơn vị phụ thuộc thực hiện tương tự quy định tại khoản 3 Điều này.
+
+5. Mã số địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã là dãy số gồm 5 chữ số được cấp theo số thứ tự từ 00001 đến 99999. Mã số này không phải là mã số thuế của địa điểm kinh doanh.
+
+6. Cơ quan quản lý nhà nước thống nhất sử dụng mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã để thực hiện công tác quản lý nhà nước và trao đổi thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.19. Tiếp nhận, xử lý hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã theo phương thức nộp hồ sơ trực tiếp tại cơ quan đăng ký kinh doanh cấp huyện và đăng ký qua dịch vụ bưu chính
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920001900
+1. Người nộp hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã nộp hồ sơ tại cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính.
 
-**ID:** dk_00013457
+2. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được tiếp nhận vào Hệ thống thông tin về đăng ký hợp tác xã khi có đủ các điều kiện sau đây:
 
----
+a) Có đủ giấy tờ theo quy định tại Luật Hợp tác xã và Nghị định này;
 
+b) Tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đã được điền vào giấy đề nghị đăng ký;
 
-### Điều 12.4.NĐ.3.20. Cấp đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng
+c) Có số điện thoại của người nộp hồ sơ;
+
+d) Đã nộp lệ phí đăng ký kinh doanh, trừ trường hợp được miễn lệ phí đăng ký kinh doanh theo quy định.
+
+3. Sau khi tiếp nhận hồ sơ đăng ký, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận về việc nhận hồ sơ cho người nộp hồ sơ.
+
+4. Cơ quan đăng ký kinh doanh cấp huyện nhập đầy đủ, chính xác thông tin trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, số hóa, đặt tên văn bản điện tử tương ứng với tên loại giấy tờ trong hồ sơ đăng ký bằng bản giấy và đính kèm lên Hệ thống thông tin về đăng ký hợp tác xã.
+
+5. Các thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã được truyền sang Hệ thống ứng dụng đăng ký thuế để phối hợp, trao đổi thông tin giữa cơ quan đăng ký kinh doanh cấp huyện và cơ quan thuế.
+
+6. Thời hạn để tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã sửa đổi, bổ sung hồ sơ đăng ký là 60 ngày kể từ ngày cơ quan đăng ký kinh doanh cấp huyện ra thông báo yêu cầu sửa đổi, bổ sung hồ sơ. Sau thời hạn nêu trên, nếu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không nộp hồ sơ sửa đổi, bổ sung thì hồ sơ đăng ký không còn giá trị. Cơ quan đăng ký kinh doanh cấp huyện sẽ hủy hồ sơ đăng ký theo quy trình trên Hệ thống thông tin về đăng ký hợp tác xã.
+
+7. Người đại diện tổ hợp tác, người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể dừng thực hiện thủ tục đăng ký khi hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chưa được chấp thuận trên Hệ thống thông tin về đăng ký hợp tác xã. Trong trường hợp này, người có thẩm quyền ký văn bản đề nghị dừng thực hiện thủ tục đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là người ký văn bản đề nghị đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Cơ quan đăng ký kinh doanh cấp huyện xem xét, ra thông báo dừng thực hiện thủ tục đăng ký cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và hủy hồ sơ đăng ký theo quy trình trên Hệ thống thông tin về đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị. Trường hợp từ chối dừng thực hiện thủ tục, cơ quan đăng ký kinh doanh cấp huyện ra thông báo bằng văn bản cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và nêu rõ lý do từ chối.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.20. Cấp đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002000
+1. Cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng là việc cấp không thực hiện thông qua Hệ thống thông tin về đăng ký hợp tác xã. Việc cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng được áp dụng trong các trường hợp sau:
 
-**ID:** dk_00013458
+a) Hệ thống thông tin về đăng ký hợp tác xã đang trong quá trình xây dựng, nâng cấp;
 
----
+b) Hệ thống thông tin về đăng ký hợp tác xã hoặc Hệ thống ứng dụng đăng ký thuế gặp sự cố kỹ thuật;
 
+c) Các trường hợp bất khả kháng khác.
 
-### Điều 12.4.NĐ.3.22. Phương thức thanh toán lệ phí đăng ký kinh doanh đối với hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+2. Căn cứ vào thời gian dự kiến khắc phục sự cố hoặc xây dựng, nâng cấp Hệ thống thông tin về đăng ký hợp tác xã, Bộ Kế hoạch và Đầu tư thông báo trước về thời gian dự kiến để cơ quan đăng ký kinh doanh cấp huyện thực hiện việc cấp đăng ký theo quy trình dự phòng, trừ trường hợp bất khả kháng.
+
+3. Việc phối hợp giải quyết thủ tục cấp đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng giữa cơ quan đăng ký kinh doanh cấp huyện và cơ quan thuế thực hiện theo quy trình luân chuyển hồ sơ bằng bản giấy hoặc hình thức khác.
+
+4. Trong thời hạn 30 ngày kể từ ngày nhận được thông báo của Bộ Kế hoạch và Đầu tư về việc Hệ thống thông tin về đăng ký hợp tác xã hoàn thành việc xây dựng, nâng cấp hoặc khắc phục sự cố, cơ quan đăng ký kinh doanh cấp huyện phải cập nhật dữ liệu, thông tin đã cấp cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng vào Cơ sở dữ liệu về đăng ký hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.22. Phương thức thanh toán lệ phí đăng ký kinh doanh đối với hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002200
+1. Người nộp hồ sơ đăng ký nộp lệ phí đăng ký kinh doanh tại thời điểm nộp hồ sơ. Lệ phí đăng ký kinh doanh có thể nộp trực tiếp tại bộ phận tiếp nhận hồ sơ ở cấp huyện hoặc chuyển vào tài khoản của cơ quan đăng ký kinh doanh cấp huyện hoặc thanh toán trực tuyến thông qua chức năng thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc bằng cách thức khác theo quy định của pháp luật. Lệ phí đăng ký kinh doanh không được hoàn trả trong trường hợp hợp tác xã, liên hiệp hợp tác xã không được cấp đăng ký.
 
-**ID:** dk_00013459
+2. Tiền sử dụng dịch vụ thanh toán trực tuyến không được tính trong lệ phí đăng ký kinh doanh.
 
----
+3. Việc giải quyết các lỗi giao dịch phát sinh trong quá trình sử dụng dịch vụ thanh toán trực tuyến được thực hiện theo quy định của pháp luật về giải quyết thủ tục hành chính trên môi trường điện tử.
 
-
-### Điều 12.4.NĐ.3.23. Xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo
+4. Cơ quan đăng ký kinh doanh cấp huyện có trách nhiệm phối hợp với tổ chức cung cấp dịch vụ trung gian thanh toán hoặc ngân hàng thương mại thực hiện việc đối soát dữ liệu thanh toán qua hệ thống thanh toán trực tuyến của Cổng dịch vụ công quốc gia hoặc của tổ chức cung cấp dịch vụ trung gian thanh toán.
 
 Điều 12.4.NĐ.3.23. Xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002300
+1. Trường hợp có căn cứ xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo thì cá nhân, tổ chức liên quan gửi văn bản đến cơ quan đăng ký kinh doanh cấp huyện để đề nghị thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện đối với trường hợp nội dung kê khai trong hồ sơ đăng ký thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện là giả mạo hoặc đề nghị thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện của lần đăng ký thay đổi được cấp trên cơ sở nội dung kê khai trong hồ sơ đăng ký thay đổi là giả mạo.
 
-**ID:** dk_00013460
+Người đề nghị thu hồi có trách nhiệm cung cấp cho cơ quan đăng ký kinh doanh cấp huyện một trong các giấy tờ quy định tại khoản 2 Điều này. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị quy định tại khoản này, cơ quan đăng ký kinh doanh cấp huyện xử lý theo quy định tại khoản 3 Điều này, khoản 2 Điều 24, khoản 1 Điều 53, khoản 2 Điều 55 và khoản 2 Điều 64 Nghị định này.
 
----
+2. Giấy tờ xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo bao gồm:
 
+a) Bản sao văn bản của cơ quan nhà nước có thẩm quyền cấp văn bản trả lời văn bản do cơ quan đó cấp bị giả mạo;
 
-### Điều 12.4.NĐ.3.24. Xử lý các trường hợp thực hiện không đúng quy định về hồ sơ, trình tự, thủ tục hoặc nội dung kê khai trong hồ sơ đăng ký thay đổi là giả mạo hoặc nội dung kê khai trong hồ sơ không trung thực, không chính xác
+b) Bản sao văn bản trả lời của cơ quan công an về việc nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo.
+
+3. Trường hợp cần xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo, cơ quan đăng ký kinh doanh cấp huyện gửi văn bản kèm theo hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đến cơ quan quy định tại khoản 2 Điều này. Các cơ quan có trách nhiệm trả lời bằng văn bản về kết quả xác định theo đề nghị của cơ quan đăng ký kinh doanh cấp huyện trong thời hạn 30 ngày kể từ ngày nhận được văn bản đề nghị.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.24. Xử lý các trường hợp thực hiện không đúng quy định về hồ sơ, trình tự, thủ tục hoặc nội dung kê khai trong hồ sơ đăng ký thay đổi là giả mạo hoặc nội dung kê khai trong hồ sơ không trung thực, không chính xác
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002400
+1. Trường hợp cơ quan đăng ký kinh doanh cấp huyện xử lý các trường hợp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã không đúng quy định về hồ sơ, trình tự, thủ tục tại Luật Hợp tác xã và Nghị định này, cơ quan đăng ký kinh doanh cấp huyện thông báo cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, đồng thời thực hiện lại theo đúng quy định về hồ sơ, trình tự, thủ tục tại Luật Hợp tác xã và Nghị định này.
 
-**ID:** dk_00013461
+2. Việc xử lý trường hợp nội dung kê khai trong hồ sơ đăng ký thay đổi nội dung đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện là giả mạo được thực hiện theo quy định sau đây:
 
----
+Trường hợp nội dung kê khai trong hồ sơ đăng ký thay đổi nội dung đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện là giả mạo, cơ quan đăng ký kinh doanh cấp huyện ra thông báo về hành vi vi phạm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện của lần đăng ký thay đổi được cấp trên cơ sở nội dung kê khai trong hồ sơ đăng ký thay đổi là giả mạo trong thời hạn 03 ngày làm việc kể từ ngày nhận được giấy tờ quy định tại khoản 2 Điều 23 Nghị định này. Cơ quan đăng ký kinh doanh cấp huyện đăng tải thông báo vi phạm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
 
+Cơ quan đăng ký kinh doanh cấp huyện thông báo cho cơ quan quản lý thuế, cơ quan nhà nước có thẩm quyền về hành vi vi phạm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện để phối hợp quản lý và xử lý theo quy định của pháp luật, đồng thời cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện trên cơ sở hồ sơ hợp lệ liền kề trước hồ sơ đăng ký thay đổi có nội dung kê khai là giả mạo.
 
-### Điều 12.4.NĐ.3.25. Chuẩn hóa, chuyển đổi dữ liệu đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể nộp lại hồ sơ để được xem xét cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể gộp các nội dung thay đổi hợp pháp của các lần đăng ký liền kề sau hồ sơ đăng ký thay đổi có nội dung kê khai là giả mạo trong một bộ hồ sơ để được cấp một lần đăng ký thay đổi mới.
+
+3. Việc xử lý nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh không trung thực, không chính xác được thực hiện như sau:
+
+a) Trường hợp nội dung kê khai trong hồ sơ đăng ký thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh là không trung thực, không chính xác, cơ quan đăng ký kinh doanh cấp huyện thông báo cho cơ quan quản lý thuế, cơ quan nhà nước có thẩm quyền để phối hợp quản lý và xử lý theo quy định của pháp luật, đồng thời thông báo Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh được cấp trên cơ sở hồ sơ đăng ký có nội dung kê khai không trung thực, không chính xác là không có hiệu lực. Cơ quan đăng ký kinh doanh cấp huyện đăng tải thông báo Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh không có hiệu lực trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+
+Cơ quan đăng ký kinh doanh cấp huyện yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã nộp hồ sơ mới thay cho hồ sơ đăng ký thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh kê khai không trung thực, không chính xác theo quy định trong thời hạn 30 ngày kể từ ngày ra thông báo để được xem xét cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể gộp các nội dung thay đổi hợp pháp của các lần đăng ký thay đổi trong một bộ hồ sơ để được cấp một lần đăng ký thay đổi mới. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không nộp hồ sơ, cơ quan đăng ký kinh doanh cấp huyện yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã báo cáo theo quy định tại khoản 6 Điều 7 Nghị định này;
+
+b) Trường hợp nội dung kê khai trong hồ sơ đăng ký thay đổi nội dung đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh là không trung thực, không chính xác, cơ quan đăng ký kinh doanh cấp huyện thông báo cho cơ quan quản lý thuế, cơ quan nhà nước có thẩm quyền để phối hợp quản lý và xử lý theo quy định của pháp luật, đồng thời thông báo Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh được cấp trên cơ sở hồ sơ đăng ký có nội dung kê khai không trung thực, không chính xác là không có hiệu lực và cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh trên cơ sở hồ sơ hợp lệ liền kề trước hồ sơ kê khai không trung thực, không chính xác. Cơ quan đăng ký kinh doanh cấp huyện đăng tải thông báo Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh không có hiệu lực trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+
+Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể nộp hồ sơ mới để được xem xét cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có thể gộp các nội dung thay đổi hợp pháp của các lần đăng ký thay đổi liền kề sau hồ sơ kê khai không trung thực, không chính xác trong một bộ hồ sơ để được cấp một lần đăng ký thay đổi mới.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.25. Chuẩn hóa, chuyển đổi dữ liệu đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002500
+1. Chuẩn hóa dữ liệu là việc thực hiện các bước rà soát, kiểm tra đối chiếu và bổ sung, hiệu đính thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, tình trạng pháp lý của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã.
 
-**ID:** dk_00013462
+2. Cơ quan đăng ký kinh doanh cấp huyện chịu trách nhiệm chuyển đổi dữ liệu, cập nhật, bổ sung thông tin đăng ký của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã vào Cơ sở dữ liệu về đăng ký hợp tác xã. Thông tin được chuyển đổi, cập nhật, bổ sung vào Cơ sở dữ liệu về đăng ký hợp tác xã phải trùng khớp với thông tin tại hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
----
+3. Trên cơ sở thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đã được chuyển đổi và lưu trữ tại Cơ sở dữ liệu về đăng ký hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện gửi thông báo về việc rà soát thông tin đăng ký và tình trạng pháp lý của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đến tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đối chiếu thông tin.
 
+Trường hợp thông tin đăng ký và tình trạng pháp lý của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tại thông báo chưa chính xác so với Giấy chứng nhận đăng ký hợp tác xã, hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thì tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã gửi thông báo bổ sung, cập nhật thông tin đến cơ quan đăng ký kinh doanh cấp huyện theo quy định tại khoản 1 Điều 46 Nghị định này trong thời hạn 90 ngày kể từ ngày cơ quan đăng ký kinh doanh cấp huyện ra thông báo. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã chịu trách nhiệm về tính trung thực, chính xác của thông tin phản hồi tới cơ quan đăng ký kinh doanh cấp huyện.
 
-### Điều 12.4.NĐ.3.26. Hiệu đính, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+4. Việc triển khai công tác số hóa hồ sơ, chuẩn hóa, chuyển đổi dữ liệu, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được thực hiện theo kế hoạch của cơ quan đăng ký kinh doanh cấp huyện.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.26. Hiệu đính, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002600
+1. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã phát hiện nội dung trên Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã chưa chính xác so với nội dung hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã gửi văn bản đề nghị hiệu đính thông tin đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Cơ quan đăng ký kinh doanh cấp huyện cấp lại Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị nếu thông tin nêu tại văn bản đề nghị là chính xác.
 
-**ID:** dk_00013463
+2. Trường hợp cơ quan đăng ký kinh doanh cấp huyện phát hiện nội dung trên Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã chưa chính xác so với nội dung hồ sơ đăng ký, cơ quan đăng ký kinh doanh cấp huyện gửi thông báo về việc hiệu đính nội dung trên Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã đến tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thực hiện việc cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày gửi thông báo.
 
----
+3. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã phát hiện nội dung thông tin đăng ký trong Cơ sở dữ liệu về đăng ký hợp tác xã bị thiếu hoặc chưa chính xác so với hồ sơ đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký thuế do quá trình chuyển đổi dữ liệu vào Cơ sở dữ liệu về đăng ký hợp tác xã, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã gửi văn bản đề nghị bổ sung, hiệu đính đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Kèm theo văn bản đề nghị bổ sung, hiệu đính phải có bản sao thông báo thành lập/thay đổi tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký thuế. Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận văn bản đề nghị hiệu đính, cơ quan đăng ký kinh doanh cấp huyện có trách nhiệm bổ sung, hiệu đính thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã.
 
+4. Trường hợp cơ quan đăng ký kinh doanh cấp huyện phát hiện nội dung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã không có hoặc không chính xác so với hồ sơ đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký thuế do quá trình chuyển đổi dữ liệu vào Cơ sở dữ liệu về đăng ký hợp tác xã, trong thời hạn 03 ngày làm việc kể từ ngày phát hiện, cơ quan đăng ký kinh doanh cấp huyện bổ sung, hiệu đính nội dung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã.
 
-### Điều 12.4.NĐ.3.27. Tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã
+5. Việc hiệu đính, cập nhật, bổ sung thông tin trên giấy xác nhận thay đổi nội dung đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh và các thông tin về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã lưu trữ tại Cơ sở dữ liệu về đăng ký hợp tác xã thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.27. Tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002700
+Các tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã bao gồm:
 
-**ID:** dk_00013464
+1. “Tạm ngừng kinh doanh” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đang trong thời gian thực hiện tạm ngừng kinh doanh theo quy định tại Nghị định này.
 
----
+2. “Bị thu hồi do cưỡng chế về quản lý thuế” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đã bị cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã theo đề nghị của cơ quan quản lý thuế về thực hiện biện pháp cưỡng chế thi hành quyết định hành chính về quản lý thuế.
 
+3. “Đang làm thủ tục giải thể, bị chia, bị hợp nhất, được sáp nhập” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đã được cơ quan đăng ký kinh doanh cấp huyện ra thông báo đang làm thủ tục giải thể; hợp tác xã, liên hiệp hợp tác xã đã có nghị quyết chia, hợp đồng hợp nhất, hợp đồng sáp nhập và đang làm thủ tục chia, hợp nhất, sáp nhập tại cơ quan đăng ký kinh doanh cấp huyện.
 
-### Điều 12.4.NĐ.3.28. Tình trạng pháp lý của tổ hợp tác, tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+4. “Đang làm thủ tục phá sản” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đã có quyết định mở thủ tục phá sản của Tòa án theo quy định của pháp luật về phá sản.
+
+5. “Đã giải thể, phá sản, chấm dứt tồn tại” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đã được cơ quan đăng ký kinh doanh cấp huyện ra thông báo về việc giải thể; hợp tác xã, liên hiệp hợp tác xã có quyết định tuyên bố phá sản của Tòa án theo quy định của pháp luật về phá sản; hợp tác xã, liên hiệp hợp tác xã bị chấm dứt tồn tại do bị chia, bị hợp nhất, được sáp nhập theo quy định tại Luật Hợp tác xã.
+
+6. “Không hoạt động tại địa chỉ đã đăng ký” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã mà qua công tác kiểm tra, xác minh của cơ quan thuế và các đơn vị có liên quan không tìm thấy hợp tác xã, liên hiệp hợp tác xã tại địa chỉ đã đăng ký. Thông tin về hợp tác xã, liên hiệp hợp tác xã không còn hoạt động tại địa chỉ đã đăng ký do cơ quan thuế cung cấp cho cơ quan đăng ký kinh doanh cấp huyện. Việc chuyển tình trạng pháp lý và kết thúc tình trạng pháp lý này do cơ quan thuế quyết định, trừ trường hợp hợp tác xã, liên hiệp hợp tác xã đang thuộc tình trạng pháp lý quy định tại các khoản 1, 2, 3, 4 và 5 Điều này. Cơ quan thuế có trách nhiệm gửi thông tin về tình trạng pháp lý “Không hoạt động tại địa chỉ đã đăng ký” của hợp tác xã, liên hiệp hợp tác xã cho cơ quan đăng ký kinh doanh cấp huyện. Cơ quan đăng ký kinh doanh cấp huyện ghi nhận, cập nhật tình trạng pháp lý do cơ quan thuế cung cấp vào Cơ sở dữ liệu về đăng ký hợp tác xã.
+
+7. “Đang hoạt động” là tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đã được cấp Giấy chứng nhận đăng ký hợp tác xã mà không thuộc tình trạng pháp lý quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này.
 
 Điều 12.4.NĐ.3.28. Tình trạng pháp lý của tổ hợp tác, tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 28
+(Điều 28 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002800
+Các tình trạng pháp lý của tổ hợp tác, tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã bao gồm:
 
-**ID:** dk_00013465
+1. “Tạm ngừng kinh doanh” là tình trạng pháp lý của tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã đang trong thời gian thực hiện tạm ngừng kinh doanh theo quy định tại Nghị định này.
 
----
+2. “Bị thu hồi do cưỡng chế về quản lý thuế” là tình trạng pháp lý của tổ hợp tác, chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã đã bị cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo đề nghị của cơ quan quản lý thuế về thực hiện biện pháp cưỡng chế thi hành quyết định hành chính về quản lý thuế.
 
+3. “Đang làm thủ tục chấm dứt hoạt động” là tình trạng pháp lý của tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã đã được cơ quan đăng ký kinh doanh cấp huyện ra thông báo đang làm thủ tục chấm dứt hoạt động.
 
-### Điều 12.4.NĐ.3.29. Công khai thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+4. “Đã chấm dứt hoạt động” là tình trạng pháp lý của tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh đã được cơ quan đăng ký kinh doanh cấp huyện ra thông báo về việc chấm dứt hoạt động tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
+
+5. “Không hoạt động tại địa chỉ đã đăng ký” là tình trạng pháp lý của tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã mà qua công tác kiểm tra, xác minh của cơ quan thuế và các đơn vị có liên quan không tìm thấy tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã tại địa chỉ đã đăng ký. Thông tin về tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã không còn hoạt động tại địa chỉ đã đăng ký do cơ quan thuế cung cấp cho cơ quan đăng ký kinh doanh cấp huyện. Việc chuyển tình trạng pháp lý và kết thúc tình trạng pháp lý này do cơ quan thuế quyết định, trừ trường hợp tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã đang thuộc tình trạng pháp lý quy định tại các khoản 1, 2, 3 và 4 Điều này. Cơ quan thuế có trách nhiệm gửi thông tin về tình trạng pháp lý “Không hoạt động tại địa chỉ đã đăng ký” của tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã cho cơ quan đăng ký kinh doanh cấp huyện. Cơ quan đăng ký kinh doanh cấp huyện ghi nhận, cập nhật tình trạng pháp lý do cơ quan thuế cung cấp vào Cơ sở dữ liệu về đăng ký hợp tác xã.
+
+6. “Đang hoạt động” là tình trạng pháp lý của tổ hợp tác, chi nhánh, văn phòng đại diện, địa điểm kinh doanh đã được cấp Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh mà không thuộc tình trạng pháp lý quy định tại các khoản 1, 2, 3, 4 và 5 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.29. Công khai thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 29
+(Điều 29 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920002900
+Tổ chức, cá nhân có thể tra cứu thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã miễn phí tại địa chỉ [www.dangkykinhdoanh.gov.vn](http://www.dangkykinhdoanh.gov.vn/), bao gồm: tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; địa chỉ trụ sở của tổ hợp tác, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã; ngành, nghề kinh doanh; tên người đại diện tổ hợp tác, người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã; tình trạng pháp lý của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013466
-
----
-
-
-### Điều 12.4.NĐ.3.30. Đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.30. Đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử
 
-**Chỉ mục:** 30
+(Điều 30 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920003000
+1. Đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử là việc người đại diện tổ hợp tác, người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục đăng ký trên Hệ thống thông tin về đăng ký hợp tác xã.
 
-**ID:** dk_00013467
+2. Tổ chức, cá nhân sử dụng chữ ký số theo quy định của pháp luật về giao dịch điện tử để đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử.
 
----
-
-
-### Điều 12.4.NĐ.3.31. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.31. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử
 
-**Chỉ mục:** 31
+(Điều 31 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920003100
+1. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử bao gồm các giấy tờ theo quy định tại Luật Hợp tác xã và Nghị định này được thể hiện dưới dạng văn bản điện tử. Hồ sơ đăng ký trên môi trường điện tử có giá trị pháp lý tương đương hồ sơ đăng ký bằng bản giấy.
 
-**ID:** dk_00013468
+2. Văn bản điện tử là văn bản dưới dạng thông điệp dữ liệu được tạo lập hoặc được số hóa từ văn bản giấy và thể hiện chính xác, toàn vẹn nội dung của văn bản giấy. Văn bản điện tử có thể định dạng “.doc” hoặc “.docx” hoặc “.pdf”.
 
----
+3. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử phải bảo đảm các yêu cầu sau:
 
+a) Có đầy đủ các giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định như hồ sơ đăng ký bằng bản giấy và được thể hiện dưới dạng văn bản điện tử. Tên văn bản điện tử phải được đặt tương ứng với tên loại giấy tờ trong hồ sơ đăng ký bằng bản giấy. Cá nhân ký tên trong hồ sơ đăng ký có thể sử dụng chữ ký số để ký trực tiếp trên văn bản điện tử hoặc ký trực tiếp trên văn bản giấy và quét (scan) văn bản giấy theo các định dạng quy định tại khoản 2 Điều này;
 
-### Điều 12.4.NĐ.3.32. Trình tự, thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử sử dụng chữ ký số
+b) Các thông tin đăng ký được kê khai trên Hệ thống thông tin về đăng ký hợp tác xã phải được nhập đầy đủ và chính xác theo các thông tin trong hồ sơ đăng ký bằng bản giấy; trong đó có thông tin về số điện thoại, thư điện tử của người nộp hồ sơ;
+
+c) Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử được xác thực bằng chữ ký số của người có thẩm quyền ký văn bản đề nghị đăng ký hoặc người được người có thẩm quyền ủy quyền thực hiện thủ tục đăng ký. Trường hợp ủy quyền thực hiện thủ tục đăng ký, hồ sơ đăng ký trên môi trường điện tử phải kèm theo các giấy tờ, tài liệu quy định tại Điều 12 Nghị định này và được thể hiện dưới dạng văn bản điện tử quy định tại điểm a khoản này.
+
+4. Thời hạn để tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã sửa đổi, bổ sung hồ sơ đăng ký trên môi trường điện tử là 60 ngày kể từ ngày cơ quan đăng ký kinh doanh cấp huyện ra thông báo yêu cầu sửa đổi, bổ sung hồ sơ. Sau thời hạn nêu trên, nếu không nhận được hồ sơ sửa đổi, bổ sung, cơ quan đăng ký kinh doanh cấp huyện sẽ hủy hồ sơ đăng ký theo quy trình trên Hệ thống thông tin về đăng ký hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.32. Trình tự, thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử sử dụng chữ ký số
 
-**Chỉ mục:** 32
+(Điều 32 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920003200
+1. Người nộp hồ sơ sử dụng tài khoản định danh điện tử để truy cập vào Hệ thống thông tin về đăng ký hợp tác xã.
 
-**ID:** dk_00013469
+2. Người nộp hồ sơ kê khai thông tin, tải văn bản điện tử, ký xác thực hồ sơ đăng ký trên môi trường điện tử và thanh toán lệ phí theo quy trình trên Hệ thống thông tin về đăng ký hợp tác xã.
 
----
+3. Sau khi hoàn thành việc gửi hồ sơ đăng ký, người nộp hồ sơ sẽ nhận được giấy biên nhận hồ sơ đăng ký trong tài khoản của người nộp hồ sơ trên Hệ thống thông tin về đăng ký hợp tác xã.
 
+4. Các thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã được truyền sang Hệ thống ứng dụng đăng ký thuế để phối hợp, trao đổi thông tin giữa cơ quan đăng ký kinh doanh cấp huyện và cơ quan thuế.
 
-### Điều 12.4.NĐ.3.33. Các trường hợp cơ quan đăng ký kinh doanh cấp huyện từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+5. Trường hợp hồ sơ đủ điều kiện cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện thực hiện cấp đăng ký cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã bằng bản giấy hoặc bản điện tử. Trường hợp hồ sơ chưa hợp lệ hoặc tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã yêu cầu đăng ký không đúng theo quy định hoặc thông tin kê khai trong hồ sơ đăng ký không thống nhất, cơ quan đăng ký kinh doanh cấp huyện gửi thông báo trên môi trường điện tử cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã để yêu cầu sửa đổi, bổ sung hồ sơ. Người nộp hồ sơ sử dụng tài khoản truy cập vào Hệ thống thông tin về đăng ký hợp tác xã để nhận thông tin phản hồi về kết quả xử lý hồ sơ.
+
+6. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục đăng ký trên môi trường điện tử có thể dừng thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã theo quy định tại khoản 7 Điều 19 Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.33. Các trường hợp cơ quan đăng ký kinh doanh cấp huyện từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 33
+(Điều 33 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920003300
+1. Cơ quan đăng ký kinh doanh cấp huyện từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã nếu thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00013470
+a) Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đã bị cơ quan đăng ký kinh doanh cấp huyện ra thông báo về hành vi vi phạm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thuộc trường hợp thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã hoặc đã bị ra quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã;
 
----
+b) Hợp tác xã, liên hiệp hợp tác xã đang trong quá trình giải thể theo nghị quyết giải thể của Đại hội thành viên; tổ hợp tác đang trong quá trình chấm dứt hoạt động;
 
+c) Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đang trong tình trạng pháp lý “Không hoạt động tại địa chỉ đã đăng ký”.
 
-### Điều 12.4.NĐ.3.34. Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+2. Cơ quan đăng ký kinh doanh cấp huyện tiếp tục giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã đối với các trường hợp quy định tại khoản 1 Điều này khi:
+
+a) Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã đã có biện pháp khắc phục những vi phạm theo yêu cầu trong thông báo về hành vi vi phạm của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thuộc trường hợp thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã và được cơ quan đăng ký kinh doanh cấp huyện chấp nhận hoặc đã được khôi phục Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã sau khi bị ra quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã;
+
+b) Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã phải đăng ký thay đổi nội dung đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã để phục vụ việc chấm dứt hoạt động tổ hợp tác, giải thể hợp tác xã, liên hiệp hợp tác xã theo quy định. Trong trường hợp này, hồ sơ đăng ký thay đổi phải kèm theo văn bản giải trình của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã về lý do đăng ký thay đổi và được cơ quan đăng ký kinh doanh cấp huyện chấp nhận;
+
+c) Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không còn trong tình trạng pháp lý “Không hoạt động tại địa chỉ đã đăng ký”.
+
+3. Trường hợp Tòa án; Cơ quan thi hành án; Cơ quan điều tra, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên quy định tại Bộ luật Tố tụng hình sự yêu cầu bằng văn bản về việc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không được thực hiện một hoặc một số thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã thì cơ quan đăng ký kinh doanh cấp huyện từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã khi tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục đó cho đến khi có ý kiến chấp thuận bằng văn bản của các tổ chức, cá nhân nêu trên về việc cho phép tiếp tục thực hiện thủ tục đăng ký.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.34. Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 34
+(Điều 34 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920003400
-
-**ID:** dk_00013471
-
----
-
-
-### Điều 12.4.NĐ.3.35. Cấp Giấy chứng nhận đăng ký hợp tác xã
+Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định tại Điều 41 và Điều 42 Luật Hợp tác xã.
 
 Điều 12.4.NĐ.3.35. Cấp Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 35
+(Điều 35 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920003500
+1. Hợp tác xã, liên hiệp hợp tác xã được cấp Giấy chứng nhận đăng ký hợp tác xã khi có đủ các điều kiện theo quy định tại khoản 1 Điều 44 Luật Hợp tác xã.
 
-**ID:** dk_00013472
-
----
-
-
-### Điều 12.4.NĐ.3.52. Chấm dứt tồn tại của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập
+2. Hợp tác xã, liên hiệp hợp tác xã có quyền hoạt động kinh doanh kể từ ngày được cấp Giấy chứng nhận đăng ký hợp tác xã, trừ trường hợp kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện. Trường hợp hợp tác xã, liên hiệp hợp tác xã đăng ký ngày bắt đầu hoạt động kinh doanh sau ngày được cấp Giấy chứng nhận đăng ký hợp tác xã thì hợp tác xã, liên hiệp hợp tác xã được quyền hoạt động kinh doanh kể từ ngày đăng ký.
 
 Điều 12.4.NĐ.3.52. Chấm dứt tồn tại của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập
 
-**Chỉ mục:** 52
+(Điều 52 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920005200
+1. Sau khi hợp tác xã, liên hiệp hợp tác xã mới được thành lập trên cơ sở chia hợp tác xã, liên hiệp hợp tác xã, hợp tác xã, liên hiệp hợp tác xã hợp nhất, hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập được cấp đăng ký hợp tác xã, liên hiệp hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập sang tình trạng “Đang làm thủ tục giải thể, bị chia, bị hợp nhất, được sáp nhập” và chuyển tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh sang tình trạng đang làm thủ tục chấm dứt hoạt động. Cơ quan đăng ký kinh doanh cấp huyện gửi thông tin cho cơ quan thuế. Cơ quan thuế có trách nhiệm gửi thông tin cho cơ quan đăng ký kinh doanh cấp huyện về việc hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh đã hoàn thành việc quyết toán và chuyển giao nghĩa vụ thuế.
 
-**ID:** dk_00013473
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông tin của cơ quan thuế về việc hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập hoàn thành việc quyết toán và chuyển giao nghĩa vụ thuế, cơ quan đăng ký kinh doanh cấp huyện thực hiện việc chấm dứt tồn tại của hợp tác xã, liên hiệp hợp tác xã và chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong Cơ sở dữ liệu về đăng ký hợp tác xã.
 
----
-
-
-### Điều 12.4.NĐ.3.57. Quy trình đăng tải quyết định mở thủ tục phá sản, quyết định tuyên bố hợp tác xã, liên hiệp hợp tác xã phá sản của Tòa án
+3. Trước khi chấm dứt tồn tại của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập thì tất cả các chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập phải được chấm dứt hoạt động.
 
 Điều 12.4.NĐ.3.57. Quy trình đăng tải quyết định mở thủ tục phá sản, quyết định tuyên bố hợp tác xã, liên hiệp hợp tác xã phá sản của Tòa án
 
-**Chỉ mục:** 57
+(Điều 57 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000402880900920005700
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định mở thủ tục phá sản của Tòa án, cơ quan đăng ký kinh doanh cấp huyện đăng tải quyết định trên Cổng thông tin quốc gia về đăng ký doanh nghiệp, chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đang làm thủ tục phá sản.
 
-**ID:** dk_00013474
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định tuyên bố hợp tác xã, liên hiệp hợp tác xã phá sản của Tòa án, cơ quan đăng ký kinh doanh cấp huyện đăng tải quyết định trên Cổng thông tin quốc gia về đăng ký doanh nghiệp và chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đã phá sản.
 
----
-
-
-### Điều 12.4.TT.7.3. Hệ thống biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+3. Thông tin về việc hợp tác xã, liên hiệp hợp tác xã đang làm thủ tục phá sản hoặc đã phá sản được truyền sang Hệ thống ứng dụng đăng ký thuế để cập nhật.
 
 Điều 12.4.TT.7.3. Hệ thống biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 120040000000000040000410000000000000000000802874600090000300
+ 1. Danh mục biểu mẫu và cách ghi các mẫu giấy dùng chung cho hợp tác xã, liên hiệp hợp tác xã quy định tại Phụ lục I ban hành kèm theo Thông tư này.
 
-**ID:** dk_00013475
+ 2. Mẫu văn bản quy định cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, tổ chức, cá nhân có liên quan trong thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã bao gồm:
 
----
+ a) Biểu mẫu thực hiện thủ tục đăng ký hợp tác xã, liên hiệp hợp tác xã bao gồm các biểu mẫu từ Mẫu II-1 đến Mẫu II-12 của Phụ lục II ban hành kèm theo Thông tư này;
 
+ b) Biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác bao gồm các biểu mẫu từ Mẫu III-1 đến Mẫu III-7 của Phụ lục III ban hành kèm theo Thông tư này.
 
-### Điều 12.4.LQ.42. Đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+ 3. Mẫu văn bản quy định cho Cơ quan đăng ký kinh doanh cấp huyện dùng trong giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã bao gồm:
 
-Điều 12.4.LQ.42. Đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+ a) Biểu mẫu cho Cơ quan đăng ký kinh doanh cấp huyện dùng trong đăng ký hợp tác xã, liên hiệp hợp tác xã bao gồm các biểu mẫu từ Mẫu IV-1 đến Mẫu IV-11 của Phụ lục IV ban hành kèm theo Thông tư này;
 
-**Chỉ mục:** 42
+ b) Biểu mẫu cho Cơ quan đăng ký kinh doanh cấp huyện dùng trong đăng ký tổ hợp tác bao gồm các biểu mẫu từ Mẫu V-1 đến Mẫu V-7 của Phụ lục V ban hành kèm theo Thông tư này;
 
-**Mã phân cấp:** 1200400000000000400004200000000000000000
+ c) Biểu mẫu cho Cơ quan đăng ký kinh doanh cấp huyện dùng chung trong đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã bao gồm các biểu mẫu từ Mẫu VI-1 đến Mẫu VI-5 của Phụ lục VI ban hành kèm theo Thông tư này.
 
-**ID:** dk_00013476
+ 4. Nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về quản lý tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã bao gồm các biểu mẫu từ Mẫu VII-1 đến Mẫu VII-4 của Phụ lục VII ban hành kèm theo Thông tư này.
 
----
+ 5. Danh mục chữ cái và ký hiệu sử dụng trong đặt tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã quy định tại Phụ lục VIII ban hành kèm theo Thông tư này.
 
+ Điều 12.4.LQ.42. Đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
 
-### Điều 12.4.LQ.43. Nội dung giấy đề nghị đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+(Điều 42 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Trước khi hoạt động, người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục đăng ký thành lập tại cơ quan đăng ký kinh doanh nơi đặt trụ sở chính.
+
+2. Hồ sơ đăng ký thành lập bao gồm:
+
+a) Giấy đề nghị đăng ký thành lập;
+
+b) Điều lệ;
+
+c) Nghị quyết hội nghị thành lập;
+
+d) Danh sách thành viên chính thức, thành viên liên kết góp vốn;
+
+đ) Danh sách, số định danh cá nhân của người đại diện theo pháp luật là người Việt Nam; danh sách, bản sao giấy tờ pháp lý của người đại diện theo pháp luật là người nước ngoài;
+
+e) Bản sao giấy chứng nhận đăng ký đầu tư theo quy định tại điểm b khoản 1 Điều 30 của Luật này;
+
+g) Bản sao giấy chứng nhận đăng ký đầu tư đối với dự án thành lập hợp tác xã, liên hiệp hợp tác xã trong trường hợp hợp tác xã, liên hiệp hợp tác xã được tham gia thành lập bởi cá nhân là nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định của pháp luật về đầu tư.
+
+3. Người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã phải kê khai đầy đủ, trung thực và chính xác các nội dung quy định tại khoản 2 Điều này và chịu trách nhiệm trước pháp luật về các nội dung đã kê khai.
+
+4. Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký và cấp Giấy chứng nhận đăng ký hợp tác xã; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung cho người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
 
 Điều 12.4.LQ.43. Nội dung giấy đề nghị đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004300000000000000000
+Giấy đề nghị đăng ký thành lập bao gồm nội dung chủ yếu sau đây:
 
-**ID:** dk_00013477
+1. Tên hợp tác xã, liên hiệp hợp tác xã;
 
----
+2. Địa chỉ trụ sở chính, số điện thoại của hợp tác xã, liên hiệp hợp tác xã;
 
+3. Ngành, nghề kinh doanh;
 
-### Điều 12.4.LQ.44. Giấy chứng nhận đăng ký hợp tác xã
+4. Vốn điều lệ;
+
+5. Số lượng thành viên chính thức, thành viên liên kết góp vốn, trong đó nêu rõ thông tin thành viên chính thức, thành viên liên kết góp vốn là cá nhân là nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài;
+
+6. Họ, tên, chữ ký, địa chỉ liên lạc, quốc tịch, số định danh cá nhân hoặc số giấy tờ pháp lý đối với người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã;
+
+7. Thông tin đăng ký thuế.
 
 Điều 12.4.LQ.44. Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 44
+(Điều 44 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004400000000000000000
+1. Điều kiện cấp Giấy chứng nhận đăng ký hợp tác xã:
 
-**ID:** dk_00013478
+a) Ngành, nghề đăng ký kinh doanh không bị cấm đầu tư kinh doanh;
 
----
+b) Có hồ sơ đăng ký hợp lệ;
 
+c) Tên của hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật này;
 
-### Điều 12.4.NĐ.3.49. Cấp lại Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh
+d) Nộp đủ lệ phí đăng ký theo quy định của pháp luật về phí và lệ phí.
+
+2. Hợp tác xã, liên hiệp hợp tác xã được cấp lại, cấp đổi Giấy chứng nhận đăng ký hợp tác xã theo quy định của Chính phủ. Khi cấp lại, cấp đổi Giấy chứng nhận đăng ký hợp tác xã thì hợp tác xã, liên hiệp hợp tác xã phải nộp lệ phí theo quy định của pháp luật.
 
 Điều 12.4.NĐ.3.49. Cấp lại Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh
 
-**Chỉ mục:** 49
+(Điều 49 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000440000000000000000000402880900920004900
-
-**ID:** dk_00013479
-
----
-
-
-### Điều 12.4.LQ.45. Nội dung Giấy chứng nhận đăng ký hợp tác xã
+Trường hợp hợp tác xã, liên hiệp hợp tác xã có nhu cầu được cấp lại Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh do bị mất, cháy, rách, nát hoặc bị tiêu hủy dưới hình thức khác, hợp tác xã, liên hiệp hợp tác xã gửi văn bản đề nghị cấp lại đến cơ quan đăng ký kinh doanh cấp huyện nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính hoặc nơi đặt chi nhánh, văn phòng đại diện, địa điểm kinh doanh. Cơ quan đăng ký kinh doanh cấp huyện xem xét cấp lại trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị.
 
 Điều 12.4.LQ.45. Nội dung Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 45
+(Điều 45 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004500000000000000000
+Giấy chứng nhận đăng ký hợp tác xã bao gồm nội dung chủ yếu sau đây;
 
-**ID:** dk_00013480
+1. Tên hợp tác xã, liên hiệp hợp tác xã;
 
----
+2. Địa chỉ trụ sở chính;
 
+3. Mã số hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.46. Mã số hợp tác xã, liên hiệp hợp tác xã
+4. Vốn điều lệ;
+
+5. Họ, tên, địa chỉ liên lạc, quốc tịch, số định danh cá nhân hoặc số giấy tờ pháp lý của người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.LQ.46. Mã số hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004600000000000000000
+1. Mã số hợp tác xã, liên hiệp hợp tác xã được tạo bởi hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh, cấp cho hợp tác xã, liên hiệp hợp tác xã khi thành lập.
 
-**ID:** dk_00013481
+2. Mỗi hợp tác xã, liên hiệp hợp tác xã có một mã số duy nhất và không được sử dụng lại để cấp cho tổ chức khác.
 
----
+3. Mã số hợp tác xã, liên hiệp hợp tác xã được dùng để thực hiện nghĩa vụ về thuế, thủ tục hành chính và quyền, nghĩa vụ khác.
 
-
-### Điều 12.4.LQ.47. Đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã
+(Điều này có nội dung liên quan đến Điều 12.4.NĐ.2.43. Kết quả tài chính và phân phối kết quả tài chính)
 
 Điều 12.4.LQ.47. Đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004700000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã phải đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã khi thay đổi một trong các thông tin quy định tại khoản 1, 2 và 5 Điều 45 của Luật này hoặc khi thay đổi vốn điều lệ từ 5% vốn điều lệ hoặc từ 01 tỷ đồng trở lên hoặc khi tổ chức lại hợp tác xã, liên hiệp hợp tác xã. Việc thay đổi được thực hiện theo trình tự sau đây:
 
-**ID:** dk_00013482
+a) Trong thời hạn 10 ngày kể từ ngày có thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh;
 
----
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận đăng ký hợp tác xã; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
 
+2. Việc đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã theo quyết định của Tòa án hoặc Trọng tài thực hiện theo trình tự sau đây:
 
-### Điều 12.4.NĐ.3.37. Đăng ký thay đổi địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã
+a) Trong thời hạn 10 ngày kể từ ngày bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc phán quyết của Trọng tài có hiệu lực, người đề nghị đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh;
+
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký thay đổi, cơ quan đăng ký kinh doanh có trách nhiệm xem xét và cấp Giấy chứng nhận đăng ký hợp tác xã theo nội dung bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc phán quyết của Trọng tài có hiệu lực; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+3. Chính phủ quy định hồ sơ đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã.
 
 Điều 12.4.NĐ.3.37. Đăng ký thay đổi địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 37
+(Điều 37 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000470000000000000000000402880900920003700
+1. Trước khi đăng ký thay đổi địa chỉ trụ sở chính dẫn đến thay đổi cơ quan thuế quản lý, hợp tác xã, liên hiệp hợp tác xã phải thực hiện các thủ tục với cơ quan thuế liên quan đến việc chuyển địa chỉ trụ sở theo quy định của pháp luật về thuế.
 
-**ID:** dk_00013483
+2. Trường hợp chuyển địa chỉ trụ sở chính, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở mới. Hồ sơ bao gồm các giấy tờ sau đây:
 
----
+a) Giấy đề nghị đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã;
 
+b) Bản sao hoặc bản chính biên bản họp Đại hội thành viên về việc chuyển địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.NĐ.3.38. Đăng ký thay đổi tên hợp tác xã, liên hiệp hợp tác xã
+c) Bản sao hoặc bản chính nghị quyết của Đại hội thành viên về việc chuyển địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã.
+
+3. Trình tự đăng ký thay đổi địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định tại Điều 47 Luật Hợp tác xã.
+
+4. Việc thay đổi địa chỉ trụ sở chính không làm thay đổi quyền và nghĩa vụ của hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.38. Đăng ký thay đổi tên hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 38
+(Điều 38 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000470000000000000000000402880900920003800
+1. Hồ sơ bao gồm các giấy tờ sau đây:
 
-**ID:** dk_00013484
+a) Giấy đề nghị đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Bản sao hoặc bản chính biên bản họp Đại hội thành viên về việc thay đổi tên hợp tác xã, liên hiệp hợp tác xã;
 
+c) Bản sao hoặc bản chính nghị quyết của Đại hội thành viên về việc thay đổi tên hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.NĐ.3.39. Đăng ký thay đổi người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
+2. Trình tự đăng ký thay đổi tên hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định tại Điều 47 Luật Hợp tác xã.
+
+3. Việc thay đổi tên không làm thay đổi quyền và nghĩa vụ của hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.39. Đăng ký thay đổi người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 39
+(Điều 39 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000470000000000000000000402880900920003900
+1. Hồ sơ bao gồm các giấy tờ sau đây:
 
-**ID:** dk_00013485
+a) Giấy đề nghị đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã do Chủ tịch Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc Giám đốc (đối với tổ chức quản trị rút gọn) ký; trường hợp Chủ tịch Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc Giám đốc (đối với tổ chức quản trị rút gọn) đồng thời là người đại diện theo pháp luật thì người ký thông báo là người mới được bầu làm Chủ tịch Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc Giám đốc (đối với tổ chức quản trị rút gọn);
 
----
+b) Bản sao hoặc bản chính biên bản họp Đại hội thành viên về việc thay đổi người đại diện theo pháp luật;
 
+c) Bản sao hoặc bản chính nghị quyết của Đại hội thành viên về việc thay đổi người đại diện theo pháp luật;
 
-### Điều 12.4.NĐ.3.40. Đăng ký thay đổi vốn điều lệ
+d) Danh sách, số định danh cá nhân của người đại diện theo pháp luật là người Việt Nam; Danh sách, bản sao hộ chiếu nước ngoài hoặc giấy tờ có giá trị thay thế hộ chiếu nước ngoài của người đại diện theo pháp luật là người nước ngoài.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp chỉ thay đổi thông tin cá nhân của người đại diện theo pháp luật được ghi nhận trên Giấy chứng nhận đăng ký hợp tác xã, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh cấp huyện nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính. Hồ sơ bao gồm giấy đề nghị đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 40
+3. Trường hợp hợp tác xã, liên hiệp hợp tác xã đăng ký thay đổi người đại diện theo pháp luật đồng thời đăng ký thay đổi các nội dung khác thì người ký hồ sơ là Chủ tịch Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc Giám đốc (đối với tổ chức quản trị rút gọn).
 
-**Mã phân cấp:** 120040000000000040000470000000000000000000402880900920004000
+4. Trình tự đăng ký thay đổi người đại diện theo pháp luật thực hiện theo quy định tại Điều 47 Luật Hợp tác xã.
 
-**ID:** dk_00013486
+Điều 12.4.NĐ.3.40. Đăng ký thay đổi vốn điều lệ
 
----
+(Điều 40 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
+1. Trường hợp hợp tác xã, liên hiệp hợp tác xã thay đổi vốn điều lệ theo quy định tại khoản 1 Điều 47 Luật Hợp tác xã, hồ sơ đăng ký thay đổi vốn điều lệ bao gồm các giấy tờ sau đây:
 
-### Điều 12.4.LQ.48. Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã
+a) Giấy đề nghị đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã;
+
+b) Bản sao hoặc bản chính biên bản họp Đại hội thành viên về việc thay đổi vốn điều lệ;
+
+c) Bản sao hoặc bản chính nghị quyết của Đại hội thành viên về việc thay đổi vốn điều lệ;
+
+d) Bản sao văn bản của cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư.
+
+2. Trình tự đăng ký thay đổi vốn điều lệ thực hiện theo quy định tại Điều 47 Luật Hợp tác xã.
 
 Điều 12.4.LQ.48. Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004800000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã phải thông báo với cơ quan đăng ký kinh doanh khi có thay đổi một trong các nội dung sau đây:
 
-**ID:** dk_00013487
+a) Đăng ký về ngành, nghề kinh doanh;
 
----
+b) Thông tin đăng ký thuế;
 
+c) Thông tin thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài.
 
-### Điều 12.4.NĐ.3.41. Thông báo thay đổi ngành, nghề kinh doanh
+2. Việc thông báo được thực hiện theo trình tự sau đây:
+
+a) Trong thời hạn 10 ngày kể từ ngày có thay đổi nội dung quy định tại khoản 1 Điều này, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ thông báo thay đổi đến cơ quan đăng ký kinh doanh;
+
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ thông báo, cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ và thực hiện thay đổi nội dung đăng ký; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+3. Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã theo quyết định của Tòa án hoặc Trọng tài thực hiện theo trình tự sau đây:
+
+a) Trong thời hạn 10 ngày kể từ ngày bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc phán quyết của Trọng tài có hiệu lực, người đề nghị thay đổi nội dung đăng ký gửi hồ sơ thông báo thay đổi nội dung đăng ký đến cơ quan đăng ký kinh doanh;
+
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ thông báo, cơ quan đăng ký kinh doanh có trách nhiệm xem xét và thực hiện thay đổi nội dung đăng ký theo nội dung bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc phán quyết của Trọng tài có hiệu lực; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+4. Chính phủ quy định hồ sơ thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.41. Thông báo thay đổi ngành, nghề kinh doanh
 
-**Chỉ mục:** 41
+(Điều 41 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000480000000000000000000402880900920004100
+1. Hồ sơ bao gồm các giấy tờ sau đây:
 
-**ID:** dk_00013488
+a) Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Bản sao hoặc bản chính biên bản họp Đại hội thành viên về việc thay đổi ngành, nghề kinh doanh;
 
+c) Bản sao hoặc bản chính nghị quyết của Đại hội thành viên về việc thay đổi ngành, nghề kinh doanh.
 
-### Điều 12.4.NĐ.3.42. Thông báo thay đổi thông tin đăng ký thuế
+2. Trình tự thông báo thay đổi ngành, nghề kinh doanh thực hiện theo quy định tại Điều 48 Luật Hợp tác xã. Trường hợp hợp tác xã, liên hiệp hợp tác xã có nhu cầu, cơ quan đăng ký kinh doanh cấp huyện cấp giấy xác nhận về việc thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.42. Thông báo thay đổi thông tin đăng ký thuế
 
-**Chỉ mục:** 42
+(Điều 42 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000480000000000000000000402880900920004200
+1. Trường hợp hợp tác xã, liên hiệp hợp tác xã thay đổi thông tin đăng ký thuế mà không thay đổi nội dung đăng ký kinh doanh, trừ thay đổi phương pháp tính thuế, hợp tác xã, liên hiệp hợp tác xã gửi thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính.
 
-**ID:** dk_00013489
-
----
-
-
-### Điều 12.4.NĐ.3.43. Thông báo thay đổi thông tin về thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài
+2. Trình tự thông báo thay đổi thông tin đăng ký thuế thực hiện theo quy định tại Điều 48 Luật Hợp tác xã. Trường hợp hợp tác xã, liên hiệp hợp tác xã có nhu cầu, cơ quan đăng ký kinh doanh cấp huyện cấp giấy xác nhận về việc thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.43. Thông báo thay đổi thông tin về thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài
 
-**Chỉ mục:** 43
+(Điều 43 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000480000000000000000000402880900920004300
+1. Hồ sơ bao gồm các giấy tờ sau đây:
 
-**ID:** dk_00013490
+a) Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Danh sách thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài sau khi thay đổi;
 
+c) Bản sao văn bản của cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư.
 
-### Điều 12.4.NĐ.3.44. Thông báo về việc thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã
+2. Trình tự thông báo thay đổi thông tin về thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài thực hiện theo quy định tại Điều 48 Luật Hợp tác xã. Trường hợp hợp tác xã, liên hiệp hợp tác xã có nhu cầu, cơ quan đăng ký kinh doanh cấp huyện cấp giấy xác nhận về việc thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.44. Thông báo về việc thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 44
+(Điều 44 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000480000000000000000000402880900920004400
+Hồ sơ thông báo về việc thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã bao gồm thông báo về việc thành lập doanh nghiệp.
 
-**ID:** dk_00013491
-
----
-
-
-### Điều 12.4.NĐ.3.46. Thông báo bổ sung, cập nhật thông tin trong hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã
+Khi nhận được hồ sơ thông báo, cơ quan đăng ký kinh doanh cấp huyện kiểm tra tính hợp lệ của hồ sơ và cập nhật thông tin vào Cơ sở dữ liệu về đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ.
 
 Điều 12.4.NĐ.3.46. Thông báo bổ sung, cập nhật thông tin trong hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 46
+(Điều 46 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000480000000000000000000402880900920004600
+1. Trường hợp hợp tác xã, liên hiệp hợp tác xã bổ sung, cập nhật các thông tin trong hồ sơ đăng ký mà không thuộc các trường hợp đăng ký, thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã quy định tại các Điều 37, 38, 39, 40, 41, 42, 43 và 45 của Nghị định này thì hợp tác xã, liên hiệp hợp tác xã gửi thông báo bổ sung, cập nhật thông tin đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Cơ quan đăng ký kinh doanh cấp huyện tiếp nhận thông báo, xem xét cập nhật thông tin vào Cơ sở dữ liệu về đăng ký hợp tác xã. Trường hợp hợp tác xã, liên hiệp hợp tác xã bổ sung, cập nhật các thông tin trên Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh thì cơ quan đăng ký kinh doanh cấp huyện cấp Giấy trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ.
 
-**ID:** dk_00013492
-
----
-
-
-### Điều 12.4.LQ.49. Công bố nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã
+2. Trường hợp thay đổi địa giới hành chính làm thay đổi địa chỉ trụ sở chính, địa chỉ chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã thì hợp tác xã, liên hiệp hợp tác xã không bắt buộc phải thực hiện thủ tục đăng ký thay đổi địa chỉ với cơ quan đăng ký kinh doanh cấp huyện. Hợp tác xã, liên hiệp hợp tác xã gửi thông báo bổ sung, cập nhật thông tin đến cơ quan đăng ký kinh doanh cấp huyện để được xem xét cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh đã được cập nhật thông tin về địa chỉ khi có nhu cầu hoặc khi đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.LQ.49. Công bố nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004900000000000000000
+1. Sau khi cấp Giấy chứng nhận đăng ký hợp tác xã, cơ quan đăng ký kinh doanh công bố nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh. Nội dung công bố bao gồm:
 
-**ID:** dk_00013493
+a) Nội dung Giấy chứng nhận đăng ký hợp tác xã;
 
----
+b) Ngành, nghề kinh doanh.
 
+2. Trường hợp đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã theo quy định tại Điều 47 của Luật này, thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã theo quy định tại Điều 48 của Luật này, những nội dung thay đổi phải được công bố trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh.
 
-### Điều 12.4.LQ.50. Tên của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và địa điểm kinh doanh
+3. Nội dung đăng ký, nội dung thay đổi theo quy định tại khoản 1 và khoản 2 Điều này được công bố trong 30 ngày liên tục kể từ ngày hồ sơ được chấp thuận.
 
 Điều 12.4.LQ.50. Tên của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và địa điểm kinh doanh
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400004910284150017000500
+1. Tên tiếng Việt của hợp tác xã, liên hiệp hợp tác xã bao gồm hai thành tố theo thứ tự sau đây:
 
-**ID:** dk_00013494
+a) Tên của hợp tác xã được bắt đầu bằng cụm từ “Hợp tác xã”. Đối với Quỹ hỗ trợ phát triển hợp tác xã hoạt động theo mô hình hợp tác xã thì tên bắt đầu bằng cụm từ “Quỹ hỗ trợ phát triển hợp tác xã”. Tên của liên hiệp hợp tác xã được bắt đầu bằng cụm từ “Liên hiệp hợp tác xã”;
 
----
+b) Tên riêng được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ F, J, Z, W, chữ số và ký hiệu.
 
+2. Tên bằng tiếng nước ngoài của hợp tác xã, liên hiệp hợp tác xã là tên được dịch từ tên tiếng Việt sang một trong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên riêng của hợp tác xã, liên hiệp hợp tác xã có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng nước ngoài.
 
-### Điều 12.4.NĐ.3.15. Tên của hợp tác xã, liên hiệp hợp tác xã
+3. Tên viết tắt của hợp tác xã, liên hiệp hợp tác xã được viết tắt từ tên tiếng Việt hoặc tên bằng tiếng nước ngoài.
+
+4. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải bao gồm tên hợp tác xã, liên hiệp hợp tác xã kèm theo cụm từ “Chi nhánh” đối với chi nhánh, cụm từ “Văn phòng đại diện” đối với văn phòng đại diện, cụm từ “Địa điểm kinh doanh” đối với địa điểm kinh doanh.
+
+5. Việc đặt tên riêng của hợp tác xã, liên hiệp hợp tác xã không được vi phạm quy định sau đây:
+
+a) Đặt tên trùng hoặc tên gây nhầm lẫn với tên của hợp tác xã, liên hiệp hợp tác xã đã đăng ký trên phạm vi toàn quốc;
+
+b) Đặt tên xâm phạm quyền sở hữu công nghiệp đối với tên thương mại, nhãn hiệu, chỉ dẫn địa lý của tổ chức, cá nhân khác theo quy định của pháp luật về sở hữu trí tuệ;
+
+c) Sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của hợp tác xã, liên hiệp hợp tác xã, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó;
+
+d) Sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.
+
+6. Tên của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện phải được đăng ký tại cơ quan đăng ký kinh doanh.
+
+7. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 19.7.LQ.1. Phạm vi điều chỉnh; Điều 19.7.NĐ.2.1. Phạm vi điều chỉnh)
 
 Điều 12.4.NĐ.3.15. Tên của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000491028415001700050000402880900920001500
+1. Hợp tác xã, liên hiệp hợp tác xã không được đăng ký tên riêng trùng hoặc gây nhầm lẫn với tên của hợp tác xã, liên hiệp hợp tác xã khác đã đăng ký trong Cơ sở dữ liệu về đăng ký hợp tác xã trên phạm vi toàn quốc, trừ những hợp tác xã, liên hiệp hợp tác xã đã giải thể hoặc đã có quyết định có hiệu lực của Tòa án tuyên bố phá sản.
 
-**ID:** dk_00013495
+2. Cơ quan đăng ký kinh doanh cấp huyện có quyền chấp thuận hoặc từ chối tên dự kiến đăng ký của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật và quyết định của cơ quan đăng ký kinh doanh cấp huyện là quyết định cuối cùng. Trường hợp không đồng ý với quyết định của cơ quan đăng ký kinh doanh cấp huyện, hợp tác xã, liên hiệp hợp tác xã có thể khởi kiện theo quy định của pháp luật về tố tụng hành chính.
 
----
+3. Khuyến khích và tạo điều kiện thuận lợi cho các hợp tác xã, liên hiệp hợp tác xã có tên trùng và tên gây nhầm lẫn tự thương lượng với nhau để đăng ký đổi tên.
 
+4. Tên hợp tác xã, liên hiệp hợp tác xã phải được viết hoặc gắn tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã; phải được in hoặc viết trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do hợp tác xã, liên hiệp hợp tác xã phát hành.
 
-### Điều 12.4.NĐ.3.16. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+5. Trường hợp có tên bằng tiếng nước ngoài, tên bằng tiếng nước ngoài của hợp tác xã, liên hiệp hợp tác xã được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.16. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000491028415001700050000402880900920001600
+1. Phần tên riêng trong tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ cái F, J, Z, W, chữ số, các ký hiệu.
 
-**ID:** dk_00013496
+2. Ngoài tên bằng tiếng Việt, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã có thể đăng ký tên bằng tiếng nước ngoài và tên viết tắt. Tên bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang một trong những tiếng nước ngoài hệ chữ La-tinh. Tên viết tắt được viết tắt từ tên tiếng Việt hoặc tên bằng tiếng nước ngoài.
 
----
-
-
-### Điều 12.4.NĐ.3.17. Tên trùng và tên gây nhầm lẫn của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+3. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết hoặc gắn tại trụ sở chi nhánh, văn phòng đại diện và địa điểm kinh doanh.
 
 Điều 12.4.NĐ.3.17. Tên trùng và tên gây nhầm lẫn của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000491028415001700050000402880900920001700
+1. Tên riêng của tổ hợp tác đề nghị đăng ký được coi là trùng với tên riêng của tổ hợp tác khác đã đăng ký khi được viết hoàn toàn giống nhau, không phân biệt chữ hoa hay chữ thường, trừ những tổ hợp tác đã chấm dứt hoạt động.
 
-**ID:** dk_00013497
+Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký được coi là trùng với tên riêng của hợp tác xã, liên hiệp hợp tác xã khác đã đăng ký khi được viết hoàn toàn giống với tên tiếng Việt của hợp tác xã, liên hiệp hợp tác xã đã đăng ký, không phân biệt chữ hoa hay chữ thường.
 
----
+2. Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký được coi là gây nhầm lẫn với tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký nếu thuộc một trong các trường hợp sau đây:
 
+a) Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký được đọc giống tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký;
 
-### Điều 12.4.NĐ.3.18. Xử lý đối với trường hợp tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp
+b) Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký chỉ khác với tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký bởi một số tự nhiên, một số thứ tự hoặc một chữ cái trong bảng chữ cái tiếng Việt, chữ F, J, Z, W được viết liền hoặc cách ngay sau tên riêng của hợp tác xã, liên hiệp hợp tác xã đó;
+
+c) Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký chỉ khác với tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký bởi một ký hiệu “&” hoặc “và”, “.”, “,”, “+”, “-”, “_”;
+
+d) Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký chỉ khác với tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký bởi từ “tân” ngay trước hoặc từ “mới” được viết liền hoặc cách ngay sau hoặc trước tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký;
+
+đ) Tên riêng của hợp tác xã, liên hiệp hợp tác xã đề nghị đăng ký chỉ khác với tên riêng của hợp tác xã, liên hiệp hợp tác xã đã đăng ký bởi một cụm từ “miền Bắc”, “miền Nam”, “miền Trung”, “miền Tây”, “miền Đông”.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.NĐ.3.18. Xử lý đối với trường hợp tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000491028415001700050000402880900920001800
+1. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không được đặt tên xâm phạm quyền sở hữu công nghiệp đối với tên thương mại, nhãn hiệu, chỉ dẫn địa lý của tổ chức, cá nhân khác theo quy định của pháp luật về sở hữu trí tuệ, trừ trường hợp được sự chấp thuận của chủ sở hữu tên thương mại, nhãn hiệu, chỉ dẫn địa lý đó. Trước khi đăng ký đặt tên, người thành lập tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã hoặc tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tham khảo các nhãn hiệu, chỉ dẫn địa lý đã đăng ký và được lưu trữ tại cơ sở dữ liệu về nhãn hiệu và chỉ dẫn địa lý của cơ quan quản lý nhà nước về sở hữu công nghiệp. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã phải tự chịu trách nhiệm trước pháp luật nếu đặt tên xâm phạm quyền sở hữu công nghiệp.
 
-**ID:** dk_00013498
+2. Việc xử lý tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp được thực hiện theo quy định của pháp luật chuyên ngành. Căn cứ để xác định tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp thực hiện theo quy định của pháp luật về sở hữu trí tuệ.
 
----
+3. Chủ thể quyền sở hữu công nghiệp có quyền gửi văn bản đề nghị đến cơ quan đăng ký kinh doanh cấp huyện để yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có tên xâm phạm quyền sở hữu công nghiệp phải thay đổi tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Kèm theo văn bản đề nghị của chủ thể quyền sở hữu công nghiệp phải có bản sao các giấy tờ sau đây:
 
+a) Văn bản kết luận của cơ quan có thẩm quyền về việc sử dụng tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là xâm phạm quyền sở hữu công nghiệp;
 
-### Điều 12.4.LQ.51. Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã
+b) Giấy chứng nhận đăng ký nhãn hiệu, Giấy chứng nhận đăng ký chỉ dẫn địa lý; bản trích lục Sổ đăng ký quốc gia về nhãn hiệu, chỉ dẫn địa lý được bảo hộ do cơ quan quản lý nhà nước về sở hữu công nghiệp cấp; Giấy chứng nhận nhãn hiệu đăng ký quốc tế được bảo hộ tại Việt Nam do cơ quan quản lý nhà nước về sở hữu công nghiệp cấp; hợp đồng sử dụng đối tượng quyền sở hữu công nghiệp trong trường hợp người yêu cầu là người được chuyển quyền sử dụng đối tượng sở hữu công nghiệp đó.
+
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đầy đủ giấy tờ quy định tại khoản này, cơ quan đăng ký kinh doanh cấp huyện ra thông báo yêu cầu tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có tên xâm phạm quyền sở hữu công nghiệp phải đăng ký thay đổi tên. Kèm theo thông báo phải có các giấy tờ quy định tại khoản này.
+
+4. Trường hợp tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp thì tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có tên vi phạm phải đăng ký thay đổi tên. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có tên vi phạm phải đăng ký thay đổi tên trong thời hạn 60 ngày kể từ ngày cơ quan đăng ký kinh doanh cấp huyện ra thông báo yêu cầu thay đổi tên hoặc cơ quan có thẩm quyền xử lý vi phạm yêu cầu. Trường hợp tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không đăng ký thay đổi tên xâm phạm quyền sở hữu công nghiệp theo yêu cầu, cơ quan đăng ký kinh doanh cấp huyện thông báo cho cơ quan có thẩm quyền xử lý vi phạm để xử lý theo quy định.
+
+5. Việc xử lý đối với trường hợp tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác)
 
 Điều 12.4.LQ.51. Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 51
+(Điều 51 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400005100000000000000000
-
-**ID:** dk_00013499
-
----
-
-
-### Điều 12.4.LQ.52. Dấu của hợp tác xã, liên hiệp hợp tác xã
+Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã đặt trên lãnh thổ Việt Nam là địa chỉ liên lạc của hợp tác xã, liên hiệp hợp tác xã được xác định theo địa giới đơn vị hành chính.
 
 Điều 12.4.LQ.52. Dấu của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400005200000000000000000
+1. Dấu bao gồm dấu được làm tại cơ sở khắc dấu hoặc dấu dưới hình thức chữ ký số theo quy định của pháp luật về giao dịch điện tử.
 
-**ID:** dk_00013500
+2. Hợp tác xã, liên hiệp hợp tác xã quyết định loại dấu, số lượng, hình thức và nội dung dấu của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và đơn vị khác của hợp tác xã, liên hiệp hợp tác xã.
 
----
-
-
-### Điều 12.4.LQ.53. Chi nhánh, văn phòng đại diện và địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+3. Việc quản lý và lưu giữ dấu được thực hiện theo quy định của Điều lệ hoặc quy chế do hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện hoặc đơn vị khác của hợp tác xã, liên hiệp hợp tác xã có dấu ban hành. Hợp tác xã, liên hiệp hợp tác xã sử dụng dấu trong hoạt động theo quy định của pháp luật.
 
 Điều 12.4.LQ.53. Chi nhánh, văn phòng đại diện và địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400005300000000000000000
+1. Chi nhánh là đơn vị phụ thuộc của hợp tác xã, liên hiệp hợp tác xã, có nhiệm vụ thực hiện toàn bộ hoặc một phần chức năng của hợp tác xã, liên hiệp hợp tác xã, bao gồm cả chức năng đại diện theo ủy quyền. Ngành, nghề kinh doanh của chi nhánh phải đúng với ngành, nghề kinh doanh của hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013501
+2. Văn phòng đại diện là đơn vị phụ thuộc của hợp tác xã, liên hiệp hợp tác xã, có nhiệm vụ đại diện theo ủy quyền cho lợi ích của hợp tác xã, liên hiệp hợp tác xã. Văn phòng đại diện không thực hiện chức năng kinh doanh của hợp tác xã, liên hiệp hợp tác xã.
 
----
-
-
-### Điều 12.4.LQ.54. Cung cấp thông tin về nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã
+3. Địa điểm kinh doanh là nơi hợp tác xã, liên hiệp hợp tác xã tiến hành hoạt động kinh doanh cụ thể.
 
 Điều 12.4.LQ.54. Cung cấp thông tin về nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400005400000000000000000
+1. Tổ chức, cá nhân có quyền đề nghị cơ quan đăng ký kinh doanh cung cấp thông tin về nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã được lưu trữ trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh và phải nộp phí theo quy định của pháp luật.
 
-**ID:** dk_00013502
-
----
-
-
-### Điều 12.4.LQ.55. Đăng ký hoạt động chi nhánh, văn phòng đại diện; thông báo địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+2. Cơ quan đăng ký kinh doanh có nghĩa vụ cung cấp đầy đủ và kịp thời thông tin theo quy định tại khoản 1 Điều này.
 
 Điều 12.4.LQ.55. Đăng ký hoạt động chi nhánh, văn phòng đại diện; thông báo địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 55
+(Điều 55 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000400005500000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã có quyền thành lập một hoặc nhiều chi nhánh, văn phòng đại diện tại một địa phương theo địa giới đơn vị hành chính ở trong nước theo trình tự sau đây:
 
-**ID:** dk_00013503
+a) Hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký hoạt động của chi nhánh, văn phòng đại diện đến cơ quan đăng ký kinh doanh nơi hợp tác xã, liên hiệp hợp tác xã đặt chi nhánh, văn phòng đại diện;
 
----
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ đăng ký hoạt động của chi nhánh, văn phòng đại diện, cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ và cấp giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
 
+2. Trong thời hạn 10 ngày kể từ ngày có thay đổi, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký thay đổi nội dung giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện ở trong nước đến cơ quan đăng ký kinh doanh.
 
-### Điều 12.4.NĐ.3.36. Hồ sơ, trình tự, thủ tục đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo địa điểm kinh doanh
+3. Hợp tác xã, liên hiệp hợp tác xã có quyền thành lập chi nhánh, văn phòng đại diện ở nước ngoài. Trong thời hạn 30 ngày kể từ ngày thành lập chi nhánh, văn phòng đại diện ở nước ngoài, hợp tác xã, liên hiệp hợp tác xã phải gửi hồ sơ thông báo tới cơ quan đăng ký kinh doanh nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính.
+
+4. Trong thời hạn 10 ngày kể từ ngày quyết định địa điểm kinh doanh, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ thông báo đến cơ quan đăng ký kinh doanh nơi đặt địa điểm kinh doanh.
+
+5. Chính phủ quy định hồ sơ đăng ký hoạt động; đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện; thông báo địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 12.4.NĐ.2.49. Phá sản Quỹ hợp tác xã)
 
 Điều 12.4.NĐ.3.36. Hồ sơ, trình tự, thủ tục đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo địa điểm kinh doanh
 
-**Chỉ mục:** 36
+(Điều 36 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000550000000000000000000402880900920003600
+1. Trong thời hạn 10 ngày kể từ ngày quyết định lập chi nhánh, văn phòng đại diện, hợp tác xã, liên hiệp hợp tác xã nộp hồ sơ đăng ký hoạt động chi nhánh, văn phòng đại diện đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt chi nhánh, văn phòng đại diện. Hồ sơ bao gồm các giấy tờ sau đây:
 
-**ID:** dk_00013504
+a) Thông báo thành lập chi nhánh, văn phòng đại diện;
 
----
+b) Bản sao hoặc bản chính biên bản họp Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc Đại hội thành viên (đối với tổ chức quản trị rút gọn) về việc thành lập chi nhánh, văn phòng đại diện;
 
+c) Bản sao hoặc bản chính quyết định của Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc nghị quyết của Đại hội thành viên (đối với tổ chức quản trị rút gọn) về việc thành lập chi nhánh, văn phòng đại diện.
 
-### Điều 12.4.NĐ.3.45. Đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+2. Hợp tác xã, liên hiệp hợp tác xã có thể lập địa điểm kinh doanh tại địa chỉ khác nơi đặt trụ sở chính hoặc đặt chi nhánh. Hồ sơ thông báo địa điểm kinh doanh bao gồm thông báo lập địa điểm kinh doanh.
+
+3. Sau khi tiếp nhận hồ sơ đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo địa điểm kinh doanh, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận, kiểm tra tính hợp lệ của hồ sơ. Trường hợp hồ sơ hợp lệ, cơ quan đăng ký kinh doanh cấp huyện cấp Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh. Trường hợp hồ sơ chưa hợp lệ hoặc tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh yêu cầu đăng ký không đúng theo quy định hoặc thông tin kê khai trong hồ sơ đăng ký không thống nhất, cơ quan đăng ký kinh doanh cấp huyện thông báo bằng văn bản cho người nộp hồ sơ trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ. Thông báo phải nêu rõ lý do và các yêu cầu sửa đổi, bổ sung hồ sơ.
+
+4. Hồ sơ, trình tự, thủ tục thông báo thành lập chi nhánh, văn phòng đại diện ở nước ngoài
+
+Hồ sơ thông báo lập chi nhánh, văn phòng đại diện ở nước ngoài của hợp tác xã, liên hiệp hợp tác xã bao gồm các giấy tờ sau đây:
+
+a) Thông báo về việc lập chi nhánh, văn phòng đại diện ở nước ngoài;
+
+b) Bản sao giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện hoặc giấy tờ có giá trị pháp lý tương đương.
+
+Cơ quan đăng ký kinh doanh cấp huyện cập nhật thông tin về chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ thông báo.
 
 Điều 12.4.NĐ.3.45. Đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
 
-**Chỉ mục:** 45
+(Điều 45 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000040000550000000000000000000402880900920004500
+1. Khi thay đổi nội dung trong hồ sơ đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh, hợp tác xã, liên hiệp hợp tác xã đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh với cơ quan đăng ký kinh doanh cấp huyện nơi đặt chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
 
-**ID:** dk_00013505
+2. Trước khi đăng ký thay đổi địa chỉ chi nhánh, văn phòng đại diện dẫn đến thay đổi cơ quan thuế quản lý trực tiếp, hợp tác xã, liên hiệp hợp tác xã phải thực hiện các thủ tục về thuế với cơ quan thuế liên quan đến việc chuyển địa điểm theo quy định của pháp luật về thuế.
 
----
+3. Trường hợp hợp tác xã, liên hiệp hợp tác xã thay đổi địa chỉ nơi đặt chi nhánh, văn phòng đại diện, địa điểm kinh doanh sang huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương khác nơi chi nhánh, văn phòng đại diện, địa điểm kinh doanh đã đăng ký, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh cấp huyện nơi chi nhánh, văn phòng đại diện, địa điểm kinh doanh dự định chuyển đến.
 
+4. Hồ sơ đăng ký thay đổi bao gồm giấy đề nghị đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
 
-### Điều 12.4.LQ.56. Tổ chức quản trị
+5. Khi nhận được hồ sơ, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận cho người nộp hồ sơ. Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan đăng ký kinh doanh cấp huyện có trách nhiệm xem xét tính hợp lệ của hồ sơ, cấp Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh hoặc giấy xác nhận về việc thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh nếu hợp tác xã, liên hiệp hợp tác xã có nhu cầu; trường hợp hồ sơ chưa hợp lệ hoặc tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh yêu cầu đăng ký không đúng theo quy định hoặc thông tin kê khai trong hồ sơ đăng ký không thống nhất, cơ quan đăng ký kinh doanh cấp huyện thông báo bằng văn bản nội dung cần sửa đổi, bổ sung cho hợp tác xã, liên hiệp hợp tác xã.
 
-*Nội dung chưa có sẵn*
+Chương V
 
-**Chỉ mục:** 56
+TỔ CHỨC QUẢN TRỊ CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ MỤC 1. TỔ CHỨC QUẢN TRỊ VÀ ĐẠI HỘI THÀNH VIÊN
 
-**Mã phân cấp:** 1200400000000000500005600000000000000000
+Điều 12.4.LQ.56. Tổ chức quản trị
 
-**ID:** dk_00013507
+(Điều 56 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+1. Tổ chức quản trị của hợp tác xã, liên hiệp hợp tác xã bao gồm hai loại:
 
+a) Tổ chức quản trị đầy đủ bao gồm Đại hội thành viên, Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát. Chủ tịch Hội đồng quản trị có thể kiêm Giám đốc (Tổng giám đốc);
 
-### Điều 12.4.LQ.57. Đại hội thành viên
+b) Tổ chức quản trị rút gọn bao gồm Đại hội thành viên, Giám đốc, kiểm soát viên.
 
-*Nội dung chưa có sẵn*
+2. Hợp tác xã quy mô nhỏ, vừa, lớn, liên hiệp hợp tác xã từ 10 thành viên trở lên phải tổ chức theo tổ chức quản trị đầy đủ.
 
-**Chỉ mục:** 57
+3. Hợp tác xã quy mô siêu nhỏ, liên hiệp hợp tác xã dưới 10 thành viên có thể tổ chức theo tổ chức quản trị đầy đủ hoặc tổ chức quản trị rút gọn.
 
-**Mã phân cấp:** 1200400000000000500005700000000000000000
+4. Trường hợp hợp tác xã, liên hiệp hợp tác xã đang tổ chức theo tổ chức quản trị rút gọn phát triển thành hợp tác xã quy mô nhỏ, vừa, lớn, liên hiệp hợp tác xã từ 10 thành viên trở lên thì Đại hội thành viên gần nhất phải quyết định việc chuyển sang tổ chức quản trị đầy đủ.
 
-**ID:** dk_00013508
+Điều 12.4.LQ.57. Đại hội thành viên
 
----
+(Điều 57 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
+1. Đại hội thành viên là cơ quan quyết định cao nhất của hợp tác xã, liên hiệp hợp tác xã. Đại hội thành viên họp thường niên mỗi năm một lần và có thể họp bất thường. Trường hợp tổ chức theo tổ chức quản trị rút gọn, Đại hội thành viên họp định kỳ theo quy định của Điều lệ nhưng ít nhất 03 tháng một lần và có thể họp bất thường.
 
-### Điều 12.4.LQ.58. Đại biểu tham dự đại hội đại biểu
+2. Đại hội thành viên được tổ chức dưới hình thức đại hội toàn thể hoặc đại hội đại biểu. Đại hội toàn thể bao gồm các thành viên chính thức tham dự và biểu quyết tại cuộc họp Đại hội thành viên. Đại hội đại biểu bao gồm các đại biểu đại diện cho các thành viên chính thức tham dự và biểu quyết tại cuộc họp Đại hội thành viên. Hợp tác xã, liên hiệp hợp tác xã có tổng số thành viên chính thức từ 50 thành viên trở lên có thể tổ chức đại hội đại biểu.
 
-*Nội dung chưa có sẵn*
+Cuộc họp Đại hội thành viên có thể mời thành viên liên kết góp vốn, thành viên liên kết không góp vốn tham dự.
 
-**Chỉ mục:** 58
+3. Cuộc họp Đại hội thành viên có thể được tổ chức bằng hình thức họp trực tiếp, họp trực tuyến hoặc kết hợp giữa họp trực tiếp và họp trực tuyến.
 
-**Mã phân cấp:** 1200400000000000500005800000000000000000
+4. Cuộc họp Đại hội thành viên phải được ghi biên bản, có thể ghi âm, ghi hình để cung cấp cho các thành viên nếu có yêu cầu. Biên bản họp phải có chữ ký của chủ tọa và thư ký. Trường hợp chủ tọa, thư ký từ chối ký thì biên bản họp có hiệu lực nếu được trên 50% thành viên tham dự đồng ý ký; biên bản ghi rõ việc chủ tọa, thư ký từ chối ký. Người ký tên trong biên bản họp chịu trách nhiệm liên đới về tính chính xác và trung thực của biên bản họp.
 
-**ID:** dk_00013509
+Điều 12.4.LQ.58. Đại biểu tham dự đại hội đại biểu
 
----
+(Điều 58 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
+1. Tiêu chuẩn đại biểu và trình tự, thủ tục bầu đại biểu tham dự đại hội đại biểu do Điều lệ quy định.
 
-### Điều 12.4.LQ.59. Triệu tập Đại hội thành viên
+2. Số lượng đại biểu tham dự đại hội đại biểu do Điều lệ quy định nhưng phải bảo đảm yêu cầu sau đây:
 
-*Nội dung chưa có sẵn*
+a) Không được ít hơn 50% tổng số thành viên chính thức đối với hợp tác xã, liên hiệp hợp tác xã có tổng số thành viên chính thức từ trên 50 đến 100 thành viên;
 
-**Chỉ mục:** 59
+b) Không được ít hơn 30% tổng số thành viên chính thức đối với hợp tác xã, liên hiệp hợp tác xã có tổng số thành viên chính thức từ trên 100 đến 300 thành viên;
 
-**Mã phân cấp:** 1200400000000000500005900000000000000000
+c) Không được ít hơn 20% tổng số thành viên chính thức đối với hợp tác xã, liên hiệp hợp tác xã có tổng số thành viên chính thức từ trên 300 đến 1.000 thành viên;
 
-**ID:** dk_00013510
+d) Không được ít hơn 200 đại biểu đối với hợp tác xã, liên hiệp hợp tác xã có tổng số thành viên chính thức trên 1.000 thành viên.
 
----
+3. Đại biểu tham dự đại hội đại biểu phải thể hiện được ý kiến, nguyện vọng và có trách nhiệm thông tin về kết quả đại hội cho tất cả thành viên mà mình đại diện.
 
+Điều 12.4.LQ.59. Triệu tập Đại hội thành viên
 
-### Điều 12.4.LQ.60. Chuẩn bị Đại hội thành viên
+(Điều 59 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-*Nội dung chưa có sẵn*
+1. Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc Giám đốc đối với tổ chức quản trị rút gọn triệu tập Đại hội thành viên thường niên trong thời hạn 04 tháng kể từ ngày kết thúc năm tài chính.
 
-**Chỉ mục:** 60
+2. Trường hợp tổ chức theo tổ chức quản trị đầy đủ, Đại hội thành viên bất thường được triệu tập trong trường hợp sau đây:
 
-**Mã phân cấp:** 1200400000000000500006000000000000000000
+a) Hội đồng quản trị triệu tập để giải quyết những vấn đề vượt quá thẩm quyền;
 
-**ID:** dk_00013511
+b) Hội đồng quản trị triệu tập theo đề nghị của Ban kiểm soát hoặc ít nhất một phần ba tổng số thành viên chính thức;
 
----
+c) Chủ tịch Hội đồng quản trị triệu tập trong trường hợp không tổ chức được cuộc họp định kỳ của Hội đồng quản trị sau 02 lần triệu tập.
 
+3. Trường hợp tổ chức theo tổ chức quản trị rút gọn, Giám đốc triệu tập Đại hội thành viên bất thường trong trường hợp sau đây:
 
-### Điều 12.4.LQ.61. Tham dự và biểu quyết trong Đại hội thành viên
+a) Giải quyết những vấn đề vượt quá thẩm quyền;
+
+b) Theo đề nghị của kiểm soát viên hoặc ít nhất một phần ba tổng số thành viên chính thức.
+
+4. Việc triệu tập Đại hội thành viên bất thường đối với trường hợp quy định tại điểm b khoản 2 và điểm b khoản 3 Điều này được thực hiện như sau:
+
+a) Trong thời hạn 15 ngày kể từ ngày nhận được đề nghị của Ban kiểm soát hoặc kiểm soát viên hoặc ít nhất một phần ba tổng số thành viên chính thức, Hội đồng quản trị hoặc Giám đốc phải triệu tập Đại hội thành viên bất thường;
+
+b) Trường hợp quá thời hạn 15 ngày kể từ ngày nhận được đề nghị của Ban kiểm soát hoặc kiểm soát viên hoặc ít nhất một phần ba tổng số thành viên chính thức mà Hội đồng quản trị hoặc Giám đốc không triệu tập Đại hội thành viên bất thường hoặc quá 04 tháng kể từ ngày kết thúc năm tài chính mà Hội đồng quản trị hoặc Giám đốc không triệu tập Đại hội thành viên thường niên thì Ban kiểm soát hoặc kiểm soát viên có quyền triệu tập Đại hội thành viên bất thường;
+
+c) Trong thời hạn 15 ngày kể từ ngày Ban kiểm soát hoặc kiểm soát viên có quyền triệu tập mà không triệu tập Đại hội thành viên bất thường theo quy định tại điểm b khoản này thì thành viên đại diện cho ít nhất một phần ba tổng số thành viên chính thức có quyền triệu tập Đại hội thành viên. Việc cử thành viên đại diện phải được lập thành biên bản và có đầy đủ chữ ký của tất cả thành viên đề nghị triệu tập Đại hội thành viên.
+
+5. Trường hợp Hội đồng quản trị hoặc Giám đốc không triệu tập họp Đại hội thành viên theo quy định tại khoản 1 và điểm a khoản 4 Điều này thì Hội đồng quản trị hoặc Giám đốc phải bồi thường thiệt hại phát sinh cho hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật và Điều lệ.
+
+Trường hợp Ban kiểm soát hoặc kiểm soát viên không triệu tập họp Đại hội thành viên theo quy định tại điểm b khoản 4 Điều này thì Ban kiểm soát hoặc kiểm soát viên phải bồi thường thiệt hại phát sinh cho hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật và Điều lệ.
+
+6. Đại hội thành viên do người triệu tập chủ trì, trừ trường hợp Đại hội thành viên quyết định bầu thành viên khác chủ trì.
+
+7. Đại hội thành viên được tiến hành khi có ít nhất 50% tổng số thành viên chính thức hoặc đại biểu được triệu tập tham dự; trường hợp không đủ số lượng thành viên thì phải hoãn họp Đại hội thành viên.
+
+Trường hợp cuộc họp lần thứ nhất không đủ điều kiện tiến hành thì triệu tập họp lần thứ hai trong thời hạn 30 ngày kể từ ngày dự định họp lần thứ nhất. Cuộc họp Đại hội thành viên lần thứ hai được tiến hành khi có ít nhất 33% tổng số thành viên chính thức hoặc đại biểu được triệu tập tham dự.
+
+Trường hợp cuộc họp lần thứ hai không đủ điều kiện tiến hành thì triệu tập họp lần thứ ba trong thời hạn 20 ngày kể từ ngày dự định họp lần thứ hai. Trong trường hợp này, cuộc họp Đại hội thành viên được tiến hành không phụ thuộc vào số thành viên tham dự.
+
+Điều 12.4.LQ.60. Chuẩn bị Đại hội thành viên
+
+(Điều 60 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Người triệu tập Đại hội thành viên phải lập danh sách thành viên, đại biểu có quyền dự họp; chuẩn bị chương trình, nội dung, tài liệu và dự thảo nghị quyết; thông báo triệu tập gửi đến từng thành viên ít nhất 03 ngày trước ngày Đại hội thành viên khai mạc. Nội dung thông báo triệu tập phải xác định rõ thời gian, địa điểm, hình thức và chương trình họp. Thông báo triệu tập được gửi bằng bản giấy, bản điện tử hoặc phương thức khác do Điều lệ quy định.
+
+2. Nội dung chương trình đại hội có thể thay đổi khi có ít nhất một phần ba tổng số thành viên chính thức kiến nghị bằng văn bản điều chỉnh về cùng một nội dung. Nội dung kiến nghị phải được gửi đến người triệu tập họp chậm nhất 02 ngày trước ngày Đại hội thành viên khai mạc nếu Điều lệ không có quy định khác. Kiến nghị phải ghi rõ tên thành viên chính thức và nội dung kiến nghị.
+
+3. Người triệu tập Đại hội thành viên chỉ có quyền từ chối kiến nghị quy định tại khoản 2 Điều này nếu thuộc một trong các trường hợp sau đây:
+
+a) Kiến nghị được gửi đến không đúng thời hạn;
+
+b) Kiến nghị không phù hợp với nội dung được đề nghị xem xét tại Đại hội thành viên;
+
+c) Nội dung kiến nghị không thuộc thẩm quyền quyết định của Đại hội thành viên;
+
+d) Trường hợp khác theo quy định của Điều lệ.
+
+4. Trường hợp từ chối kiến nghị, người triệu tập phải báo cáo Đại hội thành viên trước khi quyết định chương trình Đại hội thành viên.
+
+Các kiến nghị được chấp thuận phải được đưa vào chương trình dự kiến. Chương trình Đại hội thành viên phải được Đại hội thành viên biểu quyết thông qua.
 
 Điều 12.4.LQ.61. Tham dự và biểu quyết trong Đại hội thành viên
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006100000000000000000
+1. Thành viên, đại biểu được xác định là tham dự và biểu quyết tại cuộc họp Đại hội thành viên trong trường hợp sau đây:
 
-**ID:** dk_00013512
+a) Tham dự và biểu quyết trực tiếp tại cuộc họp;
 
----
+b) Tham dự và biểu quyết bằng hình thức trực tuyến;
 
+c) Đã ủy quyền cho cá nhân, tổ chức khác tham dự và biểu quyết tại cuộc họp.
 
-### Điều 12.4.LQ.62. Điều kiện trở thành thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên, kế toán
+2. Các nội dung sau đây được Đại hội thành viên thông qua khi có ít nhất 65% tổng số phiếu biểu quyết tán thành của thành viên, đại biểu tham dự và biểu quyết theo quy định tại khoản 1 Điều này:
+
+a) Sửa đổi, bổ sung Điều lệ;
+
+b) Quyết định việc đầu tư hoặc bán tài sản chung được chia có giá trị bằng hoặc lớn hơn 20% tổng giá trị tài sản của hợp tác xã, liên hiệp hợp tác xã được ghi trong báo cáo tài chính gần nhất; quyết định việc đầu tư hoặc bán tài sản chung không chia;
+
+c) Thay đổi tổ chức quản trị của hợp tác xã, liên hiệp hợp tác xã;
+
+d) Tổ chức lại, giải thể, phá sản hợp tác xã, liên hiệp hợp tác xã.
+
+3. Các nội dung không thuộc quy định tại khoản 2 Điều này được thông qua khi có trên 50% tổng số phiếu biểu quyết tán thành của thành viên, đại biểu tham dự và biểu quyết theo quy định tại khoản 1 Điều này.
+
+4. Đối với Đại hội thành viên của hợp tác xã, mỗi thành viên chính thức tham dự đại hội toàn thể có một phiếu biểu quyết có giá trị ngang nhau, không phụ thuộc vào phần vốn góp hay chức vụ thành viên. Mỗi đại biểu tham dự đại hội đại biểu có số phiếu biểu quyết bằng số lượng thành viên ủy quyền.
+
+5. Đối với Đại hội thành viên của liên hiệp hợp tác xã, mỗi thành viên chính thức hoặc đại biểu thành viên chính thức tham dự có số lượng phiếu biểu quyết ngang nhau hoặc khác nhau tương ứng theo số lượng thành viên chính thức của các hợp tác xã thành viên do Điều lệ của liên hiệp hợp tác xã quy định.
+
+6. Phiếu biểu quyết và biên bản kiểm phiếu tại Đại hội thành viên phải được lưu trữ.
 
 Điều 12.4.LQ.62. Điều kiện trở thành thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên, kế toán
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006200000000000000000
+1. Thành viên Hội đồng quản trị của hợp tác xã, liên hiệp hợp tác xã phải đáp ứng các điều kiện sau đây:
 
-**ID:** dk_00013513
+a) Là thành viên chính thức hoặc là người đại diện theo pháp luật hoặc theo ủy quyền của tổ chức là thành viên chính thức;
 
----
+b) Không đồng thời là thành viên Ban kiểm soát hoặc kiểm soát viên, kế toán trưởng, thủ quỹ của cùng hợp tác xã, liên hiệp hợp tác xã;
 
+c) Không được là người có quan hệ gia đình với thành viên khác của Hội đồng quản trị, Ban kiểm soát hoặc kiểm soát viên, kế toán trưởng, thủ quỹ của cùng hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.LQ.63. Miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động đối với người giữ các chức danh trong hợp tác xã, liên hiệp hợp tác xã
+2. Giám đốc (Tổng giám đốc) của hợp tác xã, liên hiệp hợp tác xã phải đáp ứng các điều kiện sau đây:
+
+a) Là thành viên chính thức hoặc là người đại diện theo pháp luật hoặc theo ủy quyền của tổ chức là thành viên chính thức. Hợp tác xã, liên hiệp hợp tác xã tổ chức theo tổ chức quản trị đầy đủ có thể thuê Giám đốc (Tổng giám đốc) theo quyết định của Đại hội thành viên.
+
+b) Không đồng thời là thành viên Ban kiểm soát hoặc kiểm soát viên, kế toán trưởng, thủ quỹ của cùng hợp tác xã, liên hiệp hợp tác xã;
+
+c) Không được là người có quan hệ gia đình với thành viên Ban kiểm soát hoặc kiểm soát viên, kế toán trưởng, thủ quỹ của cùng hợp tác xã, liên hiệp hợp tác xã.
+
+3. Thành viên Ban kiểm soát hoặc kiểm soát viên của hợp tác xã, liên hiệp hợp tác xã phải đáp ứng các điều kiện sau đây:
+
+a) Là thành viên chính thức hoặc là người đại diện theo pháp luật hoặc theo ủy quyền của tổ chức là thành viên chính thức;
+
+b) Không đồng thời là thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), kế toán trưởng, thủ quỹ của cùng hợp tác xã, liên hiệp hợp tác xã;
+
+c) Không được là người có quan hệ gia đình với thành viên Hội đồng quản trị, thành viên khác của Ban kiểm soát hoặc kiểm soát viên, Giám đốc (Tổng giám đốc), kế toán trưởng, thủ quỹ của cùng hợp tác xã, liên hiệp hợp tác xã.
+
+4. Những người sau đây không được là thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên:
+
+a) Đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc hoặc đang bị Tòa án cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định;
+
+b) Trường hợp khác theo quy định của pháp luật và Điều lệ.
+
+5. Kế toán trưởng, người làm kế toán phải có chuyên môn, nghiệp vụ về kế toán theo quy định của pháp luật về kế toán.
 
 Điều 12.4.LQ.63. Miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động đối với người giữ các chức danh trong hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006300000000000000000
+1. Thành viên Hội đồng quản trị, thành viên Ban kiểm soát hoặc kiểm soát viên, Giám đốc (Tổng giám đốc) bị miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động nếu thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00013514
+a) Không còn đáp ứng điều kiện theo quy định tại Điều 62 của Luật này;
 
----
+b) Có đơn từ chức và được chấp thuận;
 
+c) Bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi;
 
-### Điều 12.4.LQ.64. Thẩm quyền của Đại hội thành viên theo tổ chức quản trị đầy đủ
+d) Tổ chức mà Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên là người đại diện bị mất tư cách pháp nhân hoặc bị chấm dứt tồn tại, giải thể, phá sản;
+
+đ) Trường hợp khác theo quy định của pháp luật, Điều lệ và hợp đồng lao động.
+
+2. Thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên sau khi bị miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động phải chịu trách nhiệm đối với quyết định của mình trong thời gian đảm nhiệm chức vụ.
+
+**Mục 2. TỔ CHỨC QUẢN TRỊ ĐẦY ĐỦ**
 
 Điều 12.4.LQ.64. Thẩm quyền của Đại hội thành viên theo tổ chức quản trị đầy đủ
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006400000000000000000
+1. Thông qua định hướng phát triển của hợp tác xã, liên hiệp hợp tác xã; sửa đổi, bổ sung Điều lệ; báo cáo hoạt động của Hội đồng quản trị và Ban kiểm soát; báo cáo tài chính hằng năm; phương án sản xuất, kinh doanh.
 
-**ID:** dk_00013515
+2. Thông qua phương án phân phối thu nhập và xử lý khoản lỗ, khoản nợ; tỷ lệ trích lập quỹ chung không chia và quỹ khác; phương án thù lao, tiền lương, tiền công, tiền thưởng và chế độ đãi ngộ khác cho thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát, người giữ chức danh quản lý, chuyên môn khác và người lao động.
 
----
+3. Thông qua việc đầu tư hoặc bán tài sản chung được chia có giá trị bằng hoặc lớn hơn 20% tổng giá trị tài sản của hợp tác xã, liên hiệp hợp tác xã được ghi trong báo cáo tài chính gần nhất; việc đầu tư hoặc bán tài sản chung không chia.
 
+4. Thông qua việc góp vốn, mua cổ phần, thành lập doanh nghiệp, liên danh, liên kết; tham gia vào hợp tác xã, liên hiệp hợp tác xã khác, tổ chức đại diện.
 
-### Điều 12.4.LQ.65. Hội đồng quản trị
+5. Thông qua việc tăng, giảm vốn điều lệ, vốn góp tối thiểu; việc huy động vốn; việc trả lại một phần hoặc toàn bộ phần vốn góp; kết quả định giá tài sản và tài sản chung không chia; quy chế quản lý, sử dụng tài sản và quỹ.
 
-*Nội dung chưa có sẵn*
+6. Thông qua tổ chức quản trị; quy chế quản trị nội bộ; quy chế hoạt động Hội đồng quản trị, Ban kiểm soát; quyết định số lượng thành viên Hội đồng quản trị, số lượng thành viên Ban kiểm soát, số lượng người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã; việc tổ chức lại, giải thể, phá sản hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 65
+7. Bầu, bãi nhiệm, miễn nhiệm thành viên Hội đồng quản trị, thành viên Ban kiểm soát, Trưởng Ban kiểm soát; người đại diện theo pháp luật. Bầu, bãi nhiệm, miễn nhiệm hoặc ủy quyền cho Hội đồng quản trị bầu, bãi nhiệm, miễn nhiệm Chủ tịch Hội đồng quản trị. Thông qua chủ trương Chủ tịch Hội đồng quản trị kiêm Giám đốc (Tổng giám đốc) hoặc thuê Giám đốc (Tổng giám đốc).
 
-**Mã phân cấp:** 1200400000000000500006500000000000000000
+8. Quyết định lựa chọn tổ chức kiểm toán độc lập.
 
-**ID:** dk_00013516
+9. Thẩm quyền khác do Đại hội thành viên quyết định nhưng không trái với quy định của Luật này và pháp luật có liên quan.
 
----
+Điều 12.4.LQ.65. Hội đồng quản trị
 
+(Điều 65 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.66. Nhiệm vụ, quyền hạn của Hội đồng quản trị
+1. Hội đồng quản trị là cơ quan quản lý hợp tác xã, liên hiệp hợp tác xã, bao gồm Chủ tịch Hội đồng quản trị và thành viên khác của Hội đồng quản trị do Hội nghị thành lập hoặc Đại hội thành viên bầu trong số thành viên chính thức. Số lượng thành viên Hội đồng quản trị do Điều lệ quy định nhưng tối thiểu là 03 người, tối đa là 15 người. Tổng số lượng thành viên tham gia Hội đồng quản trị là tổ chức kinh tế có vốn đầu tư nước ngoài và cá nhân là nhà đầu tư nước ngoài chiếm dưới 35% tổng số lượng thành viên Hội đồng quản trị.
+
+2. Nhiệm kỳ của Hội đồng quản trị do Điều lệ quy định nhưng tối đa là 05 năm. Nhiệm kỳ của thành viên Hội đồng quản trị theo nhiệm kỳ của Hội đồng quản trị. Thành viên Hội đồng quản trị có thể được bầu lại với số nhiệm kỳ không hạn chế. Việc bầu, bãi nhiệm, miễn nhiệm thành viên Hội đồng quản trị được thực hiện bằng phiếu kín.
+
+3. Hội đồng quản trị hợp tác xã họp định kỳ theo quy định của Điều lệ nhưng ít nhất 03 tháng một lần. Hội đồng quản trị liên hiệp hợp tác xã họp định kỳ theo quy định của Điều lệ nhưng ít nhất 06 tháng một lần.
+
+4. Hội đồng quản trị họp bất thường khi có yêu cầu của một trong các chủ thể sau đây:
+
+a) Chủ tịch Hội đồng quản trị;
+
+b) Giám đốc (Tổng giám đốc);
+
+c) Trưởng Ban kiểm soát;
+
+d) Ít nhất một phần ba tổng số thành viên Hội đồng quản trị.
+
+5. Cuộc họp Hội đồng quản trị được thực hiện như sau:
+
+a) Cuộc họp Hội đồng quản trị được tiến hành khi có ít nhất hai phần ba tổng số thành viên Hội đồng quản trị tham dự. Quyết định của Hội đồng quản trị được thông qua theo nguyên tắc đa số, mỗi thành viên có một phiếu biểu quyết có giá trị ngang nhau. Trường hợp có số phiếu ngang nhau thì nội dung có phiếu tán thành của Chủ tịch Hội đồng quản trị hoặc người được Chủ tịch Hội đồng quản trị ủy quyền chủ trì cuộc họp là nội dung được thông qua;
+
+b) Trường hợp triệu tập họp Hội đồng quản trị theo định kỳ nhưng không đủ số thành viên tham dự, Chủ tịch Hội đồng quản trị triệu tập cuộc họp Hội đồng quản trị lần thứ hai trong thời gian không quá 15 ngày kể từ ngày dự định cuộc họp lần đầu. Trường hợp này, cuộc họp được tiến hành nếu có trên 50% số thành viên Hội đồng quản trị dự họp;
+
+c) Trường hợp triệu tập họp Hội đồng quản trị lần thứ hai mà vẫn không đủ số thành viên tham dự, Chủ tịch Hội đồng quản trị triệu tập Đại hội thành viên bất thường trong thời hạn không quá 30 ngày kể từ ngày dự định họp lần thứ hai. Chủ tịch Hội đồng quản trị báo cáo Đại hội thành viên bất thường để xem xét tư cách của thành viên Hội đồng quản trị không tham dự hai cuộc họp trước và đề xuất biện pháp xử lý;
+
+d) Cuộc họp Hội đồng quản trị phải được ghi biên bản, có thể ghi âm, ghi hình để cung cấp cho các thành viên nếu có yêu cầu. Biên bản họp phải có chữ ký của chủ tọa và thư ký. Thành viên Hội đồng quản trị có quyền bảo lưu ý kiến và được ghi vào biên bản họp. Trường hợp chủ tọa, thư ký từ chối ký thì biên bản họp có hiệu lực nếu được trên 50% thành viên tham dự đồng ý ký; biên bản họp ghi rõ việc chủ tọa, thư ký từ chối ký. Người ký tên trong biên bản họp chịu trách nhiệm liên đới về tính chính xác và trung thực của biên bản họp.
+
+6. Trường hợp nội dung do Hội đồng quản trị thông qua trái với quy định của pháp luật, nghị quyết Đại hội thành viên, Điều lệ gây thiệt hại cho hợp tác xã, liên hiệp hợp tác xã thì các thành viên tán thành nội dung đó phải cùng liên đới chịu trách nhiệm cá nhân và phải bồi thường thiệt hại cho hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật; thành viên phản đối được miễn trừ trách nhiệm và có quyền yêu cầu Tòa án đình chỉ thực hiện hoặc hủy bỏ nội dung này.
 
 Điều 12.4.LQ.66. Nhiệm vụ, quyền hạn của Hội đồng quản trị
 
-**Chỉ mục:** 66
+(Điều 66 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006600000000000000000
+1. Trình Đại hội thành viên xem xét, thông qua các nội dung thuộc thẩm quyền của Đại hội thành viên theo quy định tại Điều 64 của Luật này.
 
-**ID:** dk_00013517
+2. Quyết định tổ chức các bộ phận giúp việc, đơn vị trực thuộc của hợp tác xã, liên hiệp hợp tác xã theo quy định của Điều lệ. Thành lập chi nhánh, văn phòng đại diện.
 
----
+3. Tổ chức thực hiện nghị quyết của Đại hội thành viên. Báo cáo Đại hội thành viên kết quả hoạt động sản xuất, kinh doanh của hợp tác xã, liên hiệp hợp tác xã.
 
+4. Chuyển nhượng, thanh lý, xử lý tài sản của hợp tác xã, liên hiệp hợp tác xã theo thẩm quyền. Quyết định đầu tư hoặc bán tài sản chung được chia có giá trị dưới 20% tổng giá trị tài sản của hợp tác xã, liên hiệp hợp tác xã được ghi trong báo cáo tài chính gần nhất.
 
-### Điều 12.4.LQ.67. Chủ tịch Hội đồng quản trị
+5. Phối hợp với chủ sở hữu, người góp vốn để định giá hoặc thuê tổ chức thẩm định giá định giá tài sản của cá nhân, tổ chức trong quá trình hoạt động của hợp tác xã, liên hiệp hợp tác xã.
 
-*Nội dung chưa có sẵn*
+6. Quản lý, kết nạp hoặc chấm dứt tư cách thành viên chính thức, thành viên liên kết góp vốn. Báo cáo với Đại hội thành viên gần nhất về công tác phát triển thành viên hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 67
+7. Bầu, bãi nhiệm, miễn nhiệm Chủ tịch Hội đồng quản trị theo quy định của Điều lệ (nếu có).
 
-**Mã phân cấp:** 1200400000000000500006700000000000000000
+8. Bổ nhiệm; miễn nhiệm; cách chức; ký kết hợp đồng lao động, chấm dứt hợp đồng lao động; giám sát và đánh giá kết quả làm việc Giám đốc (Tổng giám đốc), Phó Giám đốc (Phó Tổng giám đốc) và người giữ chức danh quản lý khác.
 
-**ID:** dk_00013518
+9. Quyết định khen thưởng, kỷ luật thành viên chính thức, thành viên liên kết góp vốn, người lao động; khen thưởng cá nhân, tổ chức khác có đóng góp nổi bật trong việc xây dựng, phát triển hợp tác xã, liên hiệp hợp tác xã.
 
----
+10. Nhiệm vụ, quyền hạn khác theo quy định của pháp luật và Điều lệ.
 
+Điều 12.4.LQ.67. Chủ tịch Hội đồng quản trị
 
-### Điều 12.4.LQ.68. Giám đốc (Tổng giám đốc) theo tổ chức quản trị đầy đủ
+(Điều 67 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Chủ tịch Hội đồng quản trị do Hội nghị thành lập hoặc Đại hội thành viên bầu, bãi nhiệm, miễn nhiệm trong số thành viên chính thức hoặc Hội đồng quản trị bầu, bãi nhiệm, miễn nhiệm trong số thành viên Hội đồng quản trị. Việc bầu, bãi nhiệm, miễn nhiệm Chủ tịch Hội đồng quản trị được thực hiện bằng phiếu kín.
+
+2. Chủ tịch Hội đồng quản trị có nhiệm vụ, quyền hạn sau đây:
+
+a) Chịu trách nhiệm trước Đại hội thành viên và Hội đồng quản trị về nhiệm vụ được giao;
+
+b) Ký Điều lệ và nghị quyết thành lập hợp tác xã, liên hiệp hợp tác xã; các văn bản của Hội nghị thành lập, Đại hội thành viên; ký văn bản của Hội đồng quản trị theo quy định của pháp luật và Điều lệ;
+
+c) Quyết định chương trình, kế hoạch và phân công nhiệm vụ thành viên Hội đồng quản trị;
+
+d) Chuẩn bị nội dung, chương trình, triệu tập và chủ trì cuộc họp của Hội đồng quản trị, Đại hội thành viên, trừ trường hợp Luật này hoặc Điều lệ có quy định khác;
+
+đ) Nhiệm vụ, quyền hạn khác theo quy định của pháp luật và Điều lệ.
+
+3. Trường hợp Chủ tịch Hội đồng quản trị vắng mặt hoặc không thể thực hiện nhiệm vụ thì phải ủy quyền bằng văn bản cho một thành viên khác thực hiện nhiệm vụ, quyền hạn của Chủ tịch Hội đồng quản trị theo quy định tại Điều lệ. Trường hợp không có người được ủy quyền hoặc Chủ tịch Hội đồng quản trị đã chết, mất tích, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc, trốn khỏi nơi cư trú, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, bị Tòa án cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định thì việc bầu Chủ tịch Hội đồng quản trị được thực hiện như sau:
+
+a) Hội đồng quản trị bầu một người trong số các thành viên còn lại làm Chủ tịch Hội đồng quản trị cho đến khi Đại hội thành viên gần nhất bầu Chủ tịch Hội đồng quản trị;
+
+b) Hội đồng quản trị bầu một người trong số các thành viên còn lại làm Chủ tịch Hội đồng quản trị trong trường hợp Hội đồng quản trị được Đại hội thành viên ủy quyền bầu Chủ tịch Hội đồng quản trị.
+
+4. Trường hợp Chủ tịch Hội đồng quản trị kiêm Giám đốc (Tổng giám đốc) thì thực hiện thêm nhiệm vụ, quyền hạn của Giám đốc (Tổng giám đốc) quy định tại khoản 4 Điều 68 của Luật này.
 
 Điều 12.4.LQ.68. Giám đốc (Tổng giám đốc) theo tổ chức quản trị đầy đủ
 
-**Chỉ mục:** 68
+(Điều 68 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006800000000000000000
+1. Giám đốc (Tổng giám đốc) là người điều hành hoạt động của hợp tác xã, liên hiệp hợp tác xã; chịu sự giám sát, chịu trách nhiệm trước Hội đồng quản trị và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00013519
+2. Nhiệm kỳ của Giám đốc (Tổng giám đốc) do Điều lệ quy định nhưng tối đa là 05 năm. Giám đốc (Tổng giám đốc) có thể được bổ nhiệm lại với số nhiệm kỳ không hạn chế.
 
----
+3. Trường hợp Giám đốc (Tổng giám đốc) được thuê, không là thành viên chính thức thì được tham gia cuộc họp Đại hội thành viên, Hội đồng quản trị nhưng không có quyền biểu quyết. Nhiệm kỳ của Giám đốc (Tổng giám đốc) thực hiện theo quy định của hợp đồng lao động.
 
+4. Giám đốc (Tổng giám đốc) có nhiệm vụ, quyền hạn sau đây:
 
-### Điều 12.4.LQ.69. Ban kiểm soát theo tổ chức quản trị đầy đủ
+a) Trình Hội đồng quản trị các nội dung thuộc thẩm quyền của Hội đồng quản trị;
+
+b) Thực hiện các nghị quyết của Hội nghị thành lập, Đại hội thành viên, nghị quyết và quyết định của Hội đồng quản trị; ký kết hợp đồng nhân danh hợp tác xã, liên hiệp hợp tác xã theo thẩm quyền;
+
+c) Tổ chức thực hiện phương án sản xuất, kinh doanh; quyết định địa điểm kinh doanh;
+
+d) Chịu trách nhiệm trong hoạt động mua chung, bán chung sản phẩm, dịch vụ cho các thành viên của hợp tác xã, liên hiệp hợp tác xã;
+
+đ) Quản lý, kết nạp hoặc chấm dứt tư cách thành viên liên kết không góp vốn và báo cáo Hội đồng quản trị; tuyển dụng lao động; quyết định khen thưởng, kỷ luật thành viên liên kết không góp vốn, người lao động;
+
+e) Nhiệm vụ, quyền hạn khác theo quy định của pháp luật và Điều lệ.
 
 Điều 12.4.LQ.69. Ban kiểm soát theo tổ chức quản trị đầy đủ
 
-**Chỉ mục:** 69
+(Điều 69 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500006900000000000000000
+1. Ban kiểm soát có từ 01 đến 07 thành viên bao gồm Trưởng Ban kiểm soát và kiểm soát viên do Đại hội thành viên bầu trong số thành viên chính thức, chịu trách nhiệm trước Đại hội thành viên. Nhiệm kỳ Ban kiểm soát tối đa là 05 năm. Nhiệm kỳ của thành viên Ban kiểm soát theo nhiệm kỳ của Ban kiểm soát. Thành viên Ban kiểm soát có thể được bầu lại với số nhiệm kỳ không hạn chế. Trường hợp Ban kiểm soát chỉ có 01 thành viên thì thành viên đó đồng thời là Trưởng Ban kiểm soát. Việc bầu, bãi nhiệm, miễn nhiệm thành viên Ban kiểm soát được thực hiện bằng phiếu kín.
 
-**ID:** dk_00013520
+2. Ban kiểm soát hoạt động độc lập, kiểm tra và giám sát hoạt động của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật và Điều lệ.
 
----
+3. Ban kiểm soát có nhiệm vụ, quyền hạn sau đây:
 
+a) Kiểm tra việc tuân thủ pháp luật, chấp hành Điều lệ, nghị quyết của Đại hội thành viên, nghị quyết của Hội đồng quản trị và quy chế của hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.70. Thẩm quyền của Đại hội thành viên theo tổ chức quản trị rút gọn
+b) Giám sát hoạt động của Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên theo quy định của pháp luật, Điều lệ, nghị quyết của Đại hội thành viên và quy chế của hợp tác xã, liên hiệp hợp tác xã;
+
+c) Kiểm tra hoạt động tài chính, việc chấp hành chế độ kế toán, phân phối thu nhập, xử lý khoản lỗ, sử dụng quỹ, tài sản, vốn vay của hợp tác xã, liên hiệp hợp tác xã và khoản hỗ trợ của Nhà nước;
+
+d) Thẩm định báo cáo tài chính hằng năm trước khi trình Đại hội thành viên; tổ chức việc kiểm toán nội bộ khi cần thiết; rà soát, kiểm tra và đánh giá hiệu lực, hiệu quả của hệ thống kiểm soát nội bộ, kiểm toán nội bộ, quản lý rủi ro và cảnh báo sớm của hợp tác xã, liên hiệp hợp tác xã;
+
+đ) Yêu cầu cung cấp tài liệu, sổ sách, chứng từ và thông tin cần thiết để phục vụ công tác rà soát, kiểm tra, giám sát và không được sử dụng vào mục đích khác;
+
+e) Thông báo cho Hội đồng quản trị và báo cáo trước Đại hội thành viên về kết quả kiểm soát; kiến nghị Hội đồng quản trị, Giám đốc (Tổng giám đốc) khắc phục những yếu kém, vi phạm trong hoạt động của hợp tác xã, liên hiệp hợp tác xã; trình Đại hội thành viên xem xét thông qua báo cáo hoạt động của Ban kiểm soát;
+
+g) Tiếp nhận kiến nghị liên quan đến hợp tác xã, liên hiệp hợp tác xã; giải quyết theo thẩm quyền hoặc kiến nghị Hội đồng quản trị, Đại hội thành viên giải quyết theo thẩm quyền;
+
+h) Trưởng Ban kiểm soát, kiểm soát viên được tham dự nhưng không được quyền biểu quyết tại cuộc họp của Hội đồng quản trị;
+
+i) Chuẩn bị chương trình và triệu tập Đại hội thành viên bất thường;
+
+k) Nhiệm vụ, quyền hạn khác theo quy định của pháp luật và Điều lệ.
+
+**Mục 3. TỔ CHỨC QUẢN TRỊ RÚT GỌN**
 
 Điều 12.4.LQ.70. Thẩm quyền của Đại hội thành viên theo tổ chức quản trị rút gọn
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500007000000000000000000
+1. Thông qua định hướng phát triển của hợp tác xã, liên hiệp hợp tác xã; sửa đổi, bổ sung Điều lệ; báo cáo hoạt động của Giám đốc và kiểm soát viên; báo cáo tài chính hằng năm; phương án sản xuất, kinh doanh.
 
-**ID:** dk_00013521
+2. Thông qua phương án phân phối thu nhập và xử lý khoản lỗ, khoản nợ; tỷ lệ trích lập quỹ chung không chia và quỹ khác; phương án thù lao, tiền lương, tiền công, tiền thưởng và chế độ đãi ngộ khác cho Giám đốc, kiểm soát viên, người giữ chức danh quản lý, chuyên môn khác và người lao động.
 
----
+3. Thông qua việc đầu tư hoặc bán tài sản chung được chia có giá trị bằng hoặc lớn hơn 20% tổng giá trị tài sản của hợp tác xã, liên hiệp hợp tác xã được ghi trong báo cáo tài chính gần nhất; việc đầu tư hoặc bán tài sản chung không chia.
 
+4. Thông qua việc góp vốn, mua cổ phần, thành lập doanh nghiệp, liên danh, liên kết; tham gia vào hợp tác xã, liên hiệp hợp tác xã khác, tổ chức đại diện.
 
-### Điều 12.4.LQ.71. Giám đốc theo tổ chức quản trị rút gọn
+5. Thông qua việc tăng, giảm vốn điều lệ, vốn góp tối thiểu; việc huy động vốn; việc trả lại một phần hoặc toàn bộ phần vốn góp; định giá hoặc thông qua kết quả định giá tài sản và tài sản chung không chia; quy chế quản lý, sử dụng tài sản và quỹ.
+
+6. Thông qua tổ chức quản trị, quy chế quản trị nội bộ; phương án tổ chức bộ phận giúp việc, đơn vị trực thuộc của hợp tác xã, liên hiệp hợp tác xã; việc tổ chức lại, giải thể, phá sản hợp tác xã, liên hiệp hợp tác xã.
+
+7. Bầu, bãi nhiệm, miễn nhiệm Giám đốc, kiểm soát viên; quyết định số lượng, bầu, bãi nhiệm, miễn nhiệm người đại diện theo pháp luật.
+
+8. Quyết định lựa chọn tổ chức kiểm toán độc lập; thành lập chi nhánh, văn phòng đại diện; khen thưởng, kỷ luật thành viên chính thức, thành viên liên kết góp vốn.
+
+9. Thông qua việc kết nạp hoặc chấm dứt tư cách thành viên chính thức, thành viên liên kết góp vốn theo quy định của Điều lệ.
+
+10. Thẩm quyền khác do Đại hội thành viên quyết định nhưng không trái với quy định của Luật này và pháp luật có liên quan.
 
 Điều 12.4.LQ.71. Giám đốc theo tổ chức quản trị rút gọn
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500007100000000000000000
+1. Giám đốc là người điều hành hoạt động của hợp tác xã, liên hiệp hợp tác xã; chịu sự giám sát, chịu trách nhiệm trước Đại hội thành viên và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00013522
+2. Nhiệm kỳ của Giám đốc do Điều lệ quy định nhưng tối đa là 05 năm. Giám đốc có thể được bầu lại với số nhiệm kỳ không hạn chế. Việc bầu, bãi nhiệm, miễn nhiệm Giám đốc được thực hiện bằng phiếu kín.
 
----
+3. Giám đốc có nhiệm vụ, quyền hạn sau đây:
 
+a) Trình Đại hội thành viên các nội dung thuộc thẩm quyền của Đại hội thành viên;
 
-### Điều 12.4.LQ.72. Kiểm soát viên theo tổ chức quản trị rút gọn
+b) Ký Điều lệ, nghị quyết thành lập hợp tác xã, liên hiệp hợp tác xã; các văn bản của Đại hội thành viên;
+
+c) Thực hiện các nghị quyết của Đại hội thành viên, quyết định các vấn đề liên quan đến công việc hằng ngày của hợp tác xã, liên hiệp hợp tác xã mà không thuộc thẩm quyền của Đại hội thành viên; ký kết hợp đồng nhân danh hợp tác xã, liên hiệp hợp tác xã trong trường hợp là người đại diện theo pháp luật do Điều lệ hoặc pháp luật quy định;
+
+d) Tổ chức thực hiện phương án sản xuất, kinh doanh; quyết định địa điểm kinh doanh; báo cáo Đại hội thành viên kết quả hoạt động sản xuất, kinh doanh của hợp tác xã, liên hiệp hợp tác xã; công tác phát triển thành viên;
+
+đ) Chịu trách nhiệm trong hoạt động mua chung, bán chung sản phẩm, dịch vụ cho các thành viên của hợp tác xã, liên hiệp hợp tác xã;
+
+e) Quyết định việc chuyển nhượng, thanh lý, xử lý tài sản của hợp tác xã, liên hiệp hợp tác xã theo thẩm quyền do Đại hội thành viên giao; quyết định đầu tư hoặc bán tài sản chung được chia có giá trị dưới 20% tổng giá trị tài sản được ghi trong báo cáo tài chính gần nhất của hợp tác xã, liên hiệp hợp tác xã;
+
+g) Quản lý thành viên, thông báo nghị quyết, quyết định của Đại hội thành viên tới các thành viên chính thức, thành viên liên kết góp vốn; kết nạp, chấm dứt tư cách thành viên liên kết không góp vốn theo quy định của Luật này, Điều lệ và báo cáo với Đại hội thành viên gần nhất; tuyển dụng lao động; đánh giá kết quả làm việc của Phó Giám đốc (nếu có);
+
+h) Quyết định khen thưởng, kỷ luật thành viên liên kết không góp vốn, người lao động; khen thưởng cá nhân, tổ chức khác có đóng góp nổi bật trong việc xây dựng, phát triển hợp tác xã, liên hiệp hợp tác xã;
+
+i) Nhiệm vụ, quyền hạn khác theo quy định của pháp luật và Điều lệ.
 
 Điều 12.4.LQ.72. Kiểm soát viên theo tổ chức quản trị rút gọn
 
-**Chỉ mục:** 72
+(Điều 72 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000500007200000000000000000
+1. Kiểm soát viên kiểm tra và giám sát hoạt động của hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật và Điều lệ. Kiểm soát viên hoạt động độc lập, chịu trách nhiệm trước Đại hội thành viên và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00013523
+2. Nhiệm kỳ của kiểm soát viên do Điều lệ quy định nhưng tối đa là 05 năm và có thể được bầu lại với số nhiệm kỳ không hạn chế. Việc bầu, bãi nhiệm, miễn nhiệm kiểm soát viên được thực hiện bằng phiếu kín.
 
----
+3. Kiểm soát viên có nhiệm vụ, quyền hạn sau đây:
 
+a) Kiểm tra việc tuân thủ pháp luật, chấp hành Điều lệ, nghị quyết của Đại hội thành viên và quy chế của hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.73. Tài sản góp vốn
+b) Giám sát hoạt động của Giám đốc, thành viên theo quy định của pháp luật, Điều lệ, nghị quyết của Đại hội thành viên, các quy chế của hợp tác xã, liên hiệp hợp tác xã;
 
-*Nội dung chưa có sẵn*
+c) Kiểm tra hoạt động tài chính, việc chấp hành chế độ kế toán, phân phối thu nhập, xử lý các khoản lỗ, sử dụng các quỹ, tài sản, vốn vay của hợp tác xã, liên hiệp hợp tác xã và các khoản hỗ trợ của Nhà nước;
 
-**Chỉ mục:** 73
+d) Thẩm định báo cáo tài chính hàng năm trước khi trình Đại hội thành viên; tổ chức việc kiểm toán nội bộ khi cần thiết;
 
-**Mã phân cấp:** 1200400000000000600007300000000000000000
+đ) Yêu cầu cung cấp tài liệu, sổ sách, chứng từ và những thông tin cần thiết để phục vụ công tác kiểm tra, giám sát nhưng không được sử dụng các tài liệu, thông tin đó vào mục đích khác;
 
-**ID:** dk_00013525
+e) Báo cáo trước Đại hội thành viên về kết quả kiểm soát; kiến nghị Giám đốc khắc phục những yếu kém, vi phạm trong hoạt động của hợp tác xã, liên hiệp hợp tác xã;
 
----
+g) Tiếp nhận kiến nghị, giải quyết theo thẩm quyền hoặc kiến nghị Giám đốc, Đại hội thành viên giải quyết theo thẩm quyền;
 
+h) Chuẩn bị chương trình và triệu tập Đại hội thành viên bất thường;
 
-### Điều 12.4.LQ.74. Góp vốn điều lệ hợp tác xã, liên hiệp hợp tác xã
+i) Nhiệm vụ, quyền hạn khác theo quy định của pháp luật và Điều lệ.
+
+Chương VI
+
+TÀI SẢN, TÀI CHÍNH CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+Điều 12.4.LQ.73. Tài sản góp vốn
+
+(Điều 73 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Tài sản góp vốn là Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật, tài sản khác, quyền khác định giá được bằng Đồng Việt Nam.
+
+2. Chỉ cá nhân, tổ chức là chủ sở hữu hợp pháp hoặc có quyền sử dụng quyền tài sản hợp pháp, quyền khác quy định tại khoản 1 Điều này có quyền góp vốn theo quy định của pháp luật.
+
+3. Đối với tài sản là quyền sử dụng đất, phương tiện vận tải, tài sản khác thì cá nhân, tổ chức có thể lựa chọn góp vốn bằng tài sản đó hoặc thỏa thuận cho phép hợp tác xã, liên hiệp hợp tác xã được hưởng quyền khác đối với tài sản đó theo quy định của pháp luật về đất đai và pháp luật về dân sự.
+
+4. Thành viên có thể dùng tài sản để tham gia hoạt động sản xuất, kinh doanh của hợp tác xã, liên hiệp hợp tác xã thông qua hợp đồng hợp tác, hợp đồng liên kết với hợp tác xã, liên hiệp hợp tác xã. Trong trường hợp này, tài sản đó không phải là tài sản góp vốn và không phải chuyển quyền sở hữu cho hợp tác xã, liên hiệp hợp tác xã.
+
+(Điều này có nội dung liên quan đến Điều 19.7.LQ.1. Phạm vi điều chỉnh; Điều 19.7.NĐ.2.1. Phạm vi điều chỉnh)
 
 Điều 12.4.LQ.74. Góp vốn điều lệ hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 74
+(Điều 74 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600007400000000000000000
+1. Phần vốn góp của thành viên chính thức được thực hiện theo thỏa thuận và theo quy định của Luật này và Điều lệ về vốn góp tối thiểu và vốn góp tối đa. Vốn góp tối đa không quá 30% vốn điều lệ đối với hợp tác xã và không quá 40% vốn điều lệ đối với liên hiệp hợp tác xã.
 
-**ID:** dk_00013526
+2. Tổng phần vốn góp của tất cả thành viên liên kết góp vốn được thực hiện theo thỏa thuận và theo quy định của Điều lệ nhưng không quá 30% vốn điều lệ đối với hợp tác xã và không quá 40% vốn điều lệ đối với liên hiệp hợp tác xã.
 
----
+3. Tổng phần vốn góp của tất cả thành viên là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài không quá 30% vốn điều lệ đối với hợp tác xã, liên hiệp hợp tác xã.
 
+4. Thời hạn, hình thức và mức góp vốn điều lệ của thành viên theo quy định của Điều lệ nhưng thời hạn phải góp đủ vốn chậm nhất là 06 tháng kể từ ngày hợp tác xã, liên hiệp hợp tác xã được cấp Giấy chứng nhận đăng ký hợp tác xã hoặc kể từ ngày được kết nạp, không kể thời gian vận chuyển, nhập khẩu tài sản góp vốn, thực hiện thủ tục hành chính để chuyển quyền sở hữu tài sản (nếu có). Trong thời hạn này, thành viên có các quyền, nghĩa vụ tương ứng với tỷ lệ phần vốn góp đã cam kết.
 
-### Điều 12.4.LQ.75. Giấy chứng nhận phần vốn góp
+5. Thành viên chỉ được góp vốn cho hợp tác xã, liên hiệp hợp tác xã bằng loại tài sản khác với tài sản đã cam kết nếu được sự tán thành của Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc Đại hội thành viên đối với tổ chức quản trị rút gọn.
 
-*Nội dung chưa có sẵn*
+6. Sau thời hạn quy định tại khoản 4 Điều này, thành viên chưa góp vốn hoặc chưa góp đủ phần vốn góp đã cam kết thì xử lý như sau:
 
-**Chỉ mục:** 75
+a) Thành viên chưa góp vốn theo cam kết hoặc góp vốn thấp hơn vốn góp tối thiểu quy định trong Điều lệ sẽ bị chấm dứt tư cách thành viên;
 
-**Mã phân cấp:** 1200400000000000600007500000000000000000
+b) Thành viên chưa góp đủ phần vốn góp đã cam kết nhưng có phần vốn góp bằng hoặc cao hơn vốn góp tối thiểu theo quy định của Điều lệ có quyền tương ứng với phần vốn góp đã góp theo quy định của Luật này và Điều lệ.
 
-**ID:** dk_00013527
+7. Trong thời hạn 30 ngày kể từ ngày kết thúc thời hạn phải góp đủ phần vốn góp đã cam kết theo quy định tại khoản 4 Điều này, hợp tác xã, liên hiệp hợp tác xã phải đăng ký thay đổi vốn điều lệ bằng phần vốn đã góp theo quy định của Luật này, trừ trường hợp phần vốn góp còn thiếu đã được góp đủ trong thời hạn này. Thành viên chưa góp đủ phần vốn góp đã cam kết phải chịu trách nhiệm tương ứng với tỷ lệ phần vốn góp đã cam kết đối với nghĩa vụ tài chính phát sinh trong thời gian trước ngày được cấp Giấy chứng nhận phần vốn góp theo quy định của Luật này và Điều lệ.
 
----
+Điều 12.4.LQ.75. Giấy chứng nhận phần vốn góp
 
+(Điều 75 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.76. Chuyển giao tài sản góp vốn
+1. Hợp tác xã, liên hiệp hợp tác xã phải cấp Giấy chứng nhận phần vốn góp cho thành viên và ghi vào sổ đăng ký thành viên tại thời điểm góp đủ phần vốn góp.
 
-*Nội dung chưa có sẵn*
+2. Giấy chứng nhận phần vốn góp bao gồm các nội dung chủ yếu sau đây:
 
-**Chỉ mục:** 76
+a) Tên, mã số, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã;
 
-**Mã phân cấp:** 1200400000000000600007600000000000000000
+b) Vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã;
 
-**ID:** dk_00013528
+c) Họ, tên, địa chỉ liên lạc, quốc tịch, số định danh cá nhân hoặc số giấy tờ pháp lý của cá nhân góp vốn; tên, địa chỉ trụ sở chính, mã số hoặc số giấy tờ pháp lý của tổ chức góp vốn;
 
----
+d) Phần vốn góp và tỷ lệ phần vốn góp của thành viên;
 
+đ) Số và ngày cấp Giấy chứng nhận phần vốn góp;
 
-### Điều 12.4.LQ.77. Định giá tài sản góp vốn, tài sản chung không chia
+e) Họ, tên, chữ ký của người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã.
+
+3. Hợp tác xã, liên hiệp hợp tác xã cấp lại Giấy chứng nhận phần vốn góp trong trường hợp Giấy chứng nhận phần vốn góp bị mất, bị hỏng; cấp đổi Giấy chứng nhận phần vốn góp trong trường hợp có thay đổi nội dung Giấy chứng nhận phần vốn góp quy định tại khoản 2 Điều này; thu hồi Giấy chứng nhận phần vốn góp trong trường hợp chấm dứt tư cách thành viên hợp tác xã, liên hiệp hợp tác xã.
+
+4. Trình tự, thủ tục cấp, cấp lại, cấp đổi, thu hồi Giấy chứng nhận phần vốn góp theo quy định của Điều lệ.
+
+Điều 12.4.LQ.76. Chuyển giao tài sản góp vốn
+
+(Điều 76 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Việc góp vốn cho hợp tác xã, liên hiệp hợp tác xã bằng tài sản được thực hiện như sau:
+
+a) Đối với tài sản phải đăng ký quyền sở hữu hoặc quyền sử dụng đất thì thành viên làm thủ tục chuyển quyền sở hữu tài sản hoặc quyền sử dụng đất cho hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật;
+
+b) Đối với tài sản không phải đăng ký quyền sở hữu, việc góp vốn phải được thực hiện bằng việc giao nhận tài sản góp vốn có xác nhận bằng văn bản.
+
+2. Việc góp vốn cho hợp tác xã, liên hiệp hợp tác xã thông qua thỏa thuận cho phép hợp tác xã, liên hiệp hợp tác xã được hưởng quyền khác đối với tài sản được thực hiện như sau:
+
+a) Hợp đồng xác lập quyền khác đối với tài sản giữa thành viên và hợp tác xã, liên hiệp hợp tác xã phải được lập thành văn bản, ghi rõ thời hạn hưởng quyền theo quy định của pháp luật và Điều lệ;
+
+b) Giấy chứng nhận phần vốn góp phải ghi rõ thời hạn hưởng quyền;
+
+c) Thành viên không phải chuyển quyền sở hữu tài sản hoặc chuyển quyền sử dụng đất cho hợp tác xã, liên hiệp hợp tác xã.
+
+3. Văn bản giao nhận tài sản góp vốn bao gồm các nội dung chủ yếu sau đây:
+
+a) Tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã;
+
+b) Họ, tên, địa chỉ liên lạc, quốc tịch, số định danh cá nhân hoặc số giấy tờ pháp lý của cá nhân góp vốn; tên, địa chỉ trụ sở chính, mã số hoặc số giấy tờ pháp lý của tổ chức góp vốn;
+
+c) Loại tài sản và số đơn vị tài sản góp vốn; tổng giá trị tài sản góp vốn và tỷ lệ của tổng giá trị tài sản đó trong vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã;
+
+d) Ngày giao nhận; chữ ký, họ và tên của cá nhân góp vốn hoặc người đại diện theo ủy quyền, người đại diện theo pháp luật của cá nhân, tổ chức góp vốn và người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã.
+
+4. Việc góp vốn chỉ được coi là hoàn thành khi quyền sở hữu tài sản, quyền sử dụng đất, quyền khác đối với tài sản góp vốn đã được xác lập cho hợp tác xã, liên hiệp hợp tác xã theo quy định tại khoản 1 và khoản 2 Điều này.
 
 Điều 12.4.LQ.77. Định giá tài sản góp vốn, tài sản chung không chia
 
-**Chỉ mục:** 77
+(Điều 77 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600007700000000000000000
+1. Tài sản góp vốn khi thành lập hợp tác xã, liên hiệp hợp tác xã phải được tất cả thành viên chính thức, thành viên liên kết góp vốn định giá đồng thuận hoặc do một tổ chức thẩm định giá định giá.
 
-**ID:** dk_00013529
+Trường hợp tài sản góp vốn được thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã, liên hiệp hợp tác xã tự định giá mà giá trị tài sản góp vốn cao hơn so với giá trị thực tế tại thời điểm góp vốn thì các thành viên này cùng liên đới góp thêm bằng số chênh lệch giữa giá trị được định giá và giá trị thực tế của tài sản góp vốn tại thời điểm kết thúc định giá.
 
----
+Trường hợp tổ chức thẩm định giá định giá thì giá trị tài sản góp vốn phải được trên 50% số thành viên chính thức và thành viên liên kết góp vốn tham gia hội nghị thành lập chấp thuận.
 
+2. Tài sản góp vốn trong quá trình hoạt động do Đại hội thành viên hoặc Hội đồng quản trị của hợp tác xã, liên hiệp hợp tác xã và người góp vốn thỏa thuận định giá hoặc do một tổ chức thẩm định giá định giá. Trường hợp tổ chức thẩm định giá định giá thì giá trị tài sản góp vốn phải được người góp vốn và Đại hội thành viên hoặc Hội đồng quản trị của hợp tác xã, liên hiệp hợp tác xã chấp thuận.
 
-### Điều 12.4.LQ.78. Tăng, giảm vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã
+3. Định giá tài sản chung không chia trong quá trình hoạt động, giải thể, phá sản do một tổ chức thẩm định giá định giá và Đại hội thành viên hoặc Hội đồng quản trị của hợp tác xã, liên hiệp hợp tác xã chấp thuận.
 
 Điều 12.4.LQ.78. Tăng, giảm vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 78
+(Điều 78 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600007800000000000000000
+1. Vốn điều lệ tăng trong trường hợp sau đây:
 
-**ID:** dk_00013530
+a) Tăng phần vốn góp của thành viên;
 
----
+b) Tiếp nhận phần vốn góp của thành viên mới.
 
+2. Vốn điều lệ giảm trong trường hợp sau đây:
 
-### Điều 12.4.LQ.79. Huy động vốn và tiếp nhận các khoản hỗ trợ, tặng cho, tài trợ
+a) Thành viên chưa góp vốn hoặc chưa góp đủ phần vốn góp đã cam kết khi quá thời hạn quy định tại khoản 4 Điều 74 của Luật này;
+
+b) Hợp tác xã, liên hiệp hợp tác xã trả lại một phần hoặc toàn bộ phần vốn góp cho thành viên.
+
+3. Hợp tác xã, liên hiệp hợp tác xã chỉ được giảm vốn điều lệ khi bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác sau khi đã hoàn trả phần vốn góp cho thành viên.
+
+4. Trường hợp vốn điều lệ giảm dẫn đến thành viên có phần vốn góp vượt quá vốn góp tối đa thì hợp tác xã, liên hiệp hợp tác xã thực hiện một hoặc một số biện pháp sau để bảo đảm về vốn góp tối đa theo quy định của Luật này và Điều lệ:
+
+a) Trả lại phần vốn vượt vốn góp tối đa cho thành viên;
+
+b) Huy động thêm vốn góp của thành viên khác;
+
+c) Kết nạp thành viên mới.
 
 Điều 12.4.LQ.79. Huy động vốn và tiếp nhận các khoản hỗ trợ, tặng cho, tài trợ
 
-**Chỉ mục:** 79
+(Điều 79 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600007900000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã ưu tiên huy động vốn từ thành viên để đầu tư, mở rộng sản xuất, kinh doanh trên cơ sở thỏa thuận với thành viên.
 
-**ID:** dk_00013531
+2. Trường hợp huy động vốn từ thành viên chưa đáp ứng đủ nhu cầu thì hợp tác xã, liên hiệp hợp tác xã huy động vốn từ các nguồn khác theo quy định của pháp luật và Điều lệ.
 
----
+3. Hợp tác xã, liên hiệp hợp tác xã tiếp nhận các khoản hỗ trợ của Nhà nước thực hiện nghĩa vụ thuế theo quy định của pháp luật về thuế thu nhập doanh nghiệp. Việc quản lý các khoản hỗ trợ của Nhà nước được thực hiện như sau:
 
+a) Khoản hỗ trợ của Nhà nước có quy định đưa vào tài sản chung không chia thì được xác định là tài sản chung không chia của hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.80. Vốn hoạt động của hợp tác xã, liên hiệp hợp tác xã
+b) Khoản hỗ trợ của Nhà nước phải hoàn lại được tính vào số nợ của hợp tác xã, liên hiệp hợp tác xã;
+
+c) Khoản hỗ trợ của Nhà nước không thuộc điểm a và điểm b khoản này thì được quản lý theo quy định của Điều lệ.
+
+4. Hợp tác xã, liên hiệp hợp tác xã tiếp nhận, quản lý và sử dụng các khoản tặng cho, tài trợ hợp pháp của cá nhân, tổ chức theo thỏa thuận phù hợp với quy định của pháp luật. Việc tiếp nhận, quản lý và sử dụng các khoản tặng cho, tài trợ có yếu tố nước ngoài phải phù hợp với quy định của pháp luật, thỏa thuận quốc tế và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
 Điều 12.4.LQ.80. Vốn hoạt động của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 80
+(Điều 80 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600008000000000000000000
+1. Vốn hoạt động của hợp tác xã, liên hiệp hợp tác xã bao gồm phần vốn góp của thành viên chính thức và thành viên liên kết góp vốn, phí thành viên, vốn huy động, vốn tích luỹ, quỹ chung không chia, quỹ khác và nguồn thu hợp pháp khác.
 
-**ID:** dk_00013532
-
----
-
-
-### Điều 12.4.LQ.81. Thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã
+2. Việc quản lý, sử dụng vốn hoạt động của hợp tác xã, liên hiệp hợp tác xã phù hợp với quy định của Luật này và pháp luật có liên quan.
 
 Điều 12.4.LQ.81. Thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 81
+(Điều 81 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600008100000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã được thành lập doanh nghiệp nhằm mục tiêu hỗ trợ hoạt động, liên kết, tiêu thụ, sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã. Trình tự, thủ tục thành lập doanh nghiệp theo quy định của pháp luật về doanh nghiệp.
 
-**ID:** dk_00013533
+2. Hợp tác xã, liên hiệp hợp tác xã thực hiện quyền, nghĩa vụ của mình với tư cách là chủ sở hữu doanh nghiệp theo quy định của pháp luật về doanh nghiệp và pháp luật có liên quan.
 
----
+3. Hợp đồng, giao dịch khác giữa hợp tác xã, liên hiệp hợp tác xã và doanh nghiệp được thành lập phải được thiết lập và thực hiện độc lập, bình đẳng theo điều kiện áp dụng đối với chủ thể pháp lý độc lập.
 
+4. Doanh nghiệp được thành lập không được trở thành thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã, liên hiệp hợp tác xã đó.
 
-### Điều 12.4.LQ.82. Góp vốn, mua cổ phần tham gia doanh nghiệp
+5. Việc thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã phải bảo đảm các quy định sau đây:
+
+a) Được Đại hội thành viên thông qua;
+
+b) Không được sử dụng các nguồn vốn thuộc quỹ chung không chia và tài sản chung không chia để thành lập doanh nghiệp.
+
+6. Trong thời hạn 10 ngày làm việc kể từ khi thành lập doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã phải thông báo với cơ quan đã cấp Giấy chứng nhận đăng ký hợp tác xã.
+
+7. Chính phủ quy định điều kiện hợp tác xã, liên hiệp hợp tác xã thành lập doanh nghiệp.
 
 Điều 12.4.LQ.82. Góp vốn, mua cổ phần tham gia doanh nghiệp
 
-**Chỉ mục:** 82
+(Điều 82 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600008200000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã được góp vốn, mua cổ phần tham gia doanh nghiệp, trừ doanh nghiệp đang là thành viên chính thức hoặc thành viên liên kết góp vốn của hợp tác xã, liên hiệp hợp tác xã nhằm mục tiêu hỗ trợ hoạt động, liên kết, tiêu thụ, sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013534
+2. Hợp tác xã, liên hiệp hợp tác xã thực hiện quyền, nghĩa vụ của mình với tư cách là thành viên, cổ đông của doanh nghiệp theo quy định của pháp luật về doanh nghiệp và pháp luật có liên quan.
 
----
+3. Doanh nghiệp được góp vốn, mua cổ phần không được trở thành thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã, liên hiệp hợp tác xã đó.
 
+4. Việc góp vốn, mua cả phần tham gia doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã phải bảo đảm các quy định sau đây:
 
-### Điều 12.4.LQ.83. Hoạt động cho vay nội bộ trong hợp tác xã, liên hiệp hợp tác xã
+a) Được Đại hội thành viên thông qua;
+
+b) Không được sử dụng các nguồn vốn thuộc quỹ chung không chia và tài sản chung không chia để góp vốn, mua cổ phần tham gia doanh nghiệp.
+
+5. Chính phủ quy định điều kiện góp vốn, mua cổ phần tham gia doanh nghiệp.
 
 Điều 12.4.LQ.83. Hoạt động cho vay nội bộ trong hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 83
+(Điều 83 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600008300000000000000000
+1. Cho vay nội bộ là việc hợp tác xã, liên hiệp hợp tác xã cho thành viên chính thức vay trong thời hạn không quá 12 tháng nhằm hỗ trợ sản xuất, kinh doanh và đời sống trên nguyên tắc tự nguyện, tự chịu trách nhiệm, không vì mục tiêu lợi nhuận, phải bảo toàn vốn, có hoàn trả và bù đắp đủ các khoản chi phí của hoạt động cho vay nội bộ. Hoạt động cho vay nội bộ không phải là hoạt động ngân hàng theo quy định của pháp luật về các tổ chức tín dụng.
 
-**ID:** dk_00013535
+2. Hợp tác xã, liên hiệp hợp tác xã thực hiện hoạt động cho vay nội bộ khi đáp ứng các điều kiện sau đây:
 
----
+a) Hợp tác xã, liên hiệp hợp tác xã tổ chức theo tổ chức quản trị đầy đủ và số lượng thành viên Ban kiểm soát tối thiểu từ 03 thành viên trở lên;
 
+b) Hợp tác xã, liên hiệp hợp tác xã cho vay nội bộ sau khi bảo đảm nguồn vốn cho hoạt động sản xuất, kinh doanh; không sử dụng nguồn vốn huy động trong và ngoài thành viên để thực hiện hoạt động cho vay nội bộ;
 
-### Điều 12.4.LQ.84. Quỹ chung không chia
+c) Mở sổ sách ghi chép, theo dõi và hạch toán riêng hoạt động cho vay nội bộ;
 
-*Nội dung chưa có sẵn*
+d) Hoạt động cho vay nội bộ phải được Đại hội thành viên thông qua và quy định trong Điều lệ.
 
-**Chỉ mục:** 84
+3. Chính phủ quy định chi tiết khoản 2 Điều này và quy định mức cho vay, giới hạn cho vay, lãi suất, xử lý rủi ro từ hoạt động cho vay nội bộ.
 
-**Mã phân cấp:** 1200400000000000600008400000000000000000
+Điều 12.4.LQ.84. Quỹ chung không chia
 
-**ID:** dk_00013536
+(Điều 84 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+Quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã được hình thành từ các nguồn sau đây:
 
+1. Thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã được trích lập hằng năm theo tỷ lệ do Điều lệ quy định;
 
-### Điều 12.4.LQ.85. Thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã
+2. Thu nhập từ giao dịch bên ngoài của hợp tác xã, liên hiệp hợp tác xã; thu nhập từ doanh nghiệp do hợp tác xã, liên hiệp hợp tác xã thành lập; thu nhập từ góp vốn, mua cổ phần được trích lập hằng năm theo tỷ lệ do Điều lệ quy định nhưng không thấp hơn:
+
+a) 5% đối với hợp tác xã;
+
+b) 10% đối với liên hiệp hợp tác xã.
+
+3. Thu nhập từ chuyển nhượng, thanh lý tài sản chung không chia theo quy định tại điểm a khoản 3 Điều 79 và điểm c khoản 2 Điều 88 của Luật này;
+
+4. Thu nhập từ khoản tặng cho, tài trợ hợp pháp của cá nhân, tổ chức bằng Đồng Việt Nam hoặc ngoại tệ theo thỏa thuận đưa vào quỹ chung không chia sau khi hoàn thành nghĩa vụ nộp thuế theo quy định của pháp luật.
 
 Điều 12.4.LQ.85. Thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 85
+(Điều 85 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600008500000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã phân tách thu nhập từ giao dịch nội bộ và thu nhập từ giao dịch bên ngoài để làm căn cứ cho cơ quan nhà nước có thẩm quyền xem xét miễn, giảm thuế thu nhập doanh nghiệp hoặc cho thụ hưởng các chính sách của Nhà nước theo quy định và để phân phối thu nhập theo quy định tại Điều 86 của Luật này; trường hợp không phân tách được thì toàn bộ thu nhập của hợp tác xã, liên hiệp hợp tác xã được coi là thu nhập từ giao dịch bên ngoài.
 
-**ID:** dk_00013537
+2. Chính phủ quy định về giao dịch nội bộ và thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã.
 
----
+Điều 12.4.LQ.86. Phân phối thu nhập
 
+(Điều 86 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.86. Phân phối thu nhập
+Sau khi trích lập quỹ chung không chia, nộp thuế, hoàn thành nghĩa vụ tài chính khác và xử lý lỗ trong hoạt động sản xuất, kinh doanh theo quy định của pháp luật, thu nhập của hợp tác xã, liên hiệp hợp tác xã được phân phối như sau:
 
-*Nội dung chưa có sẵn*
+1. Trích lập các quỹ theo quy định của pháp luật (nếu có);
 
-**Chỉ mục:** 86
+2. Trích lập quỹ khác do Đại hội thành viên quyết định;
 
-**Mã phân cấp:** 1200400000000000600008600000000000000000
+3. Thu nhập còn lại của hợp tác xã, liên hiệp hợp tác xã sau khi đã trích lập các quỹ theo quy định tại khoản 1 và khoản 2 Điều này được phân phối cho thành viên chính thức, thành viên liên kết góp vốn theo trình tự sau đây:
 
-**ID:** dk_00013538
+a) Đối với thu nhập từ giao dịch nội bộ còn lại thì phân phối tối thiểu 51% cho thành viên chính thức theo mức độ sử dụng sản phẩm, dịch vụ và mức độ góp sức lao động; phần còn lại được phân phối theo tỷ lệ phần vốn góp cho thành viên chính thức và thành viên liên kết góp vốn theo quy định của Điều lệ;
 
----
+b) Đối với thu nhập từ giao dịch bên ngoài còn lại thì phân phối cho thành viên chính thức, thành viên liên kết góp vốn theo quy định của Điều lệ.
 
+Điều 12.4.LQ.87. Quản lý, sử dụng các quỹ
 
-### Điều 12.4.LQ.87. Quản lý, sử dụng các quỹ
+(Điều 87 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-*Nội dung chưa có sẵn*
+1. Quỹ chung không chia được sử dụng để hình thành và phát triển tài sản chung không chia; không được chia cho thành viên trong quá trình hoạt động; được xử lý khi giải thể, phá sản theo quy định tại Điều 101 và Điều 102 của Luật này. Hợp tác xã, liên hiệp hợp tác xã phải lập sổ theo dõi quỹ chung không chia theo nguồn hình thành.
 
-**Chỉ mục:** 87
+2. Hợp tác xã, liên hiệp hợp tác xã được sử dụng quỹ chung không chia nhàn rỗi để gửi tiết kiệm tại các tổ chức tín dụng, để làm tài sản bảo đảm khi vay vốn và phải bảo toàn vốn, trừ các khoản quỹ chung không chia từ nguồn hỗ trợ của Nhà nước và nguồn hỗ trợ của cá nhân, tổ chức có quy định hợp tác xã, liên hiệp hợp tác xã đó không được dùng làm tài sản bảo đảm khi vay vốn. Khoản lãi phát sinh từ việc gửi tiết kiệm này được ghi nhận vào quỹ chung không chia.
 
-**Mã phân cấp:** 1200400000000000600008700000000000000000
+3. Việc quản lý, sử dụng quỹ chung không chia và quỹ khác phải được quy định trong Điều lệ, quy chế về quản lý tài chính của hợp tác xã, liên hiệp hợp tác xã và phù hợp với quy định của pháp luật.
 
-**ID:** dk_00013539
+4. Hằng năm, Hội đồng quản trị hoặc Giám đốc báo cáo Đại hội thành viên về việc quản lý, sử dụng các quỹ trong năm và phương hướng sử dụng các quỹ năm tiếp theo theo thẩm quyền.
 
----
+Điều 12.4.LQ.88. Quản lý, sử dụng tài sản
 
+(Điều 88 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.88. Quản lý, sử dụng tài sản
+1. Tài sản của hợp tác xã, liên hiệp hợp tác xã được hình thành từ nguồn sau đây:
 
-*Nội dung chưa có sẵn*
+a) Phần vốn góp của thành viên chính thức, thành viên liên kết góp vốn, phí thành viên;
 
-**Chỉ mục:** 88
+b) Vốn huy động của thành viên và vốn huy động khác;
 
-**Mã phân cấp:** 1200400000000000600008800000000000000000
+c) Vốn, tài sản được hình thành trong quá trình hoạt động;
 
-**ID:** dk_00013540
+d) Khoản hỗ trợ của Nhà nước và khoản tặng cho, tài trợ hợp pháp của cá nhân, tổ chức khác.
 
----
+2. Tài sản chung không chia của hợp tác xã, liên hiệp hợp tác xã bao gồm:
 
+a) Quyền sử dụng đất do Nhà nước giao đất không thu tiền sử dụng đất; được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất, do mua tài sản gắn liền với đất, nhận chuyển nhượng quyền sử dụng đất hợp pháp từ người khác mà tiền sử dụng đất, tiền thuê đất, tiền mua tài sản gắn liền với đất, tiền nhận chuyển nhượng quyền sử dụng đất do Nhà nước hỗ trợ;
 
-### Điều 12.4.LQ.89. Xử lý các khoản lỗ, khoản nợ của hợp tác xã, liên hiệp hợp tác xã
+b) Tài sản hình thành từ quỹ chung không chia;
+
+c) Tài sản do Nhà nước hỗ trợ một phần hoặc toàn bộ được quy định là tài sản chung không chia;
+
+d) Tài sản do cá nhân, tổ chức tặng cho, tài trợ hợp pháp theo thỏa thuận là tài sản chung không chia;
+
+đ) Tài sản là công trình phục vụ lợi ích chung của cộng đồng do Nhà nước đầu tư, xây dựng, chuyển giao cho hợp tác xã, liên hiệp hợp tác xã quản lý, sử dụng;
+
+e) Tài sản khác được Điều lệ quy định là tài sản chung không chia.
+
+3. Hợp tác xã, liên hiệp hợp tác xã quản lý, sử dụng tài sản chung không chia theo nguyên tắc sau đây:
+
+a) Quản lý, sử dụng tài sản quy định tại khoản 2 Điều này theo quy định của pháp luật và Điều lệ hoặc theo thỏa thuận giữa cá nhân, tổ chức tặng cho, tài trợ hợp pháp và hợp tác xã, liên hiệp hợp tác xã. Hợp tác xã, liên hiệp hợp tác xã phải lập sổ theo dõi tài sản chung không chia theo nguồn hình thành.
+
+b) Chịu trách nhiệm bảo vệ, bảo dưỡng và bảo trì định kỳ, sửa chữa bằng chi phí của mình trong quá trình sử dụng;
+
+c) Tài sản chung không chia được phép chuyển nhượng, thanh lý sau khi được định giá theo quy định tại khoản 3 Điều 77 của Luật này khi Đại hội thành viên thông qua và phù hợp với quy định của pháp luật và Điều lệ hoặc theo thỏa thuận giữa cá nhân, tổ chức tặng cho, tài trợ hợp pháp và hợp tác xã, liên hiệp hợp tác xã;
+
+d) Hợp tác xã, liên hiệp hợp tác xã được sử dụng tài sản chung không chia để làm tài sản bảo đảm khi vay vốn và bảo toàn tài sản, trừ tài sản chung không chia quy định tại các điểm a, c và đ khoản 2 Điều này và nguồn hỗ trợ của cá nhân, tổ chức có quy định hợp tác xã, liên hiệp hợp tác xã đó không được dùng làm tài sản bảo đảm khi vay vốn.
+
+4. Việc quản lý, sử dụng tài sản được thực hiện theo quy định của Điều lệ, nghị quyết Đại hội thành viên, quy chế quản lý tài chính của hợp tác xã, liên hiệp hợp tác xã và quy định của pháp luật.
 
 Điều 12.4.LQ.89. Xử lý các khoản lỗ, khoản nợ của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 89
+(Điều 89 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000600008900000000000000000
+1. Kết thúc năm tài chính, nếu phát sinh lỗ thì hợp tác xã, liên hiệp hợp tác xã thực hiện chuyển lỗ theo quy định của pháp luật về quản lý thuế.
 
-**ID:** dk_00013541
+2. Các khoản nợ của hợp tác xã, liên hiệp hợp tác xã được xử lý theo quy định của pháp luật và Điều lệ.
 
----
+Điều 12.4.LQ.90. Trả lại, thừa kế phần vốn góp
 
+(Điều 90 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 12.4.LQ.90. Trả lại, thừa kế phần vốn góp
+1. Hợp tác xã, liên hiệp hợp tác xã trả lại phần vốn góp cho thành viên khi chấm dứt tư cách thành viên hoặc trả lại phần vốn góp vượt quá vốn góp tối đa của thành viên theo quy định của Luật này và Điều lệ.
 
-*Nội dung chưa có sẵn*
+2. Thành viên được trả lại phần vốn góp sau khi đã thực hiện đầy đủ nghĩa vụ tài chính của mình đối với hợp tác xã, liên hiệp hợp tác xã.
 
-**Chỉ mục:** 90
+3. Trường hợp thành viên chính thức, thành viên liên kết góp vốn là cá nhân đã chết thì người hưởng thừa kế nếu đáp ứng đủ điều kiện theo quy định của Luật này và Điều lệ, tự nguyện tham gia hợp tác xã thì trở thành thành viên chính thức hoặc thành viên liên kết góp vốn và tiếp tục thực hiện quyền, nghĩa vụ của thành viên chính thức hoặc thành viên liên kết góp vốn; nếu không tham gia hợp tác xã thì được hưởng thừa kế phần vốn góp theo quy định của pháp luật.
 
-**Mã phân cấp:** 1200400000000000600009000000000000000000
+4. Trường hợp thành viên chính thức, thành viên liên kết góp vốn là cá nhân biệt tích thì quyền, nghĩa vụ của thành viên được thực hiện thông qua người quản lý tài sản của thành viên đó theo quy định của pháp luật về dân sự.
 
-**ID:** dk_00013542
+5. Trường hợp thành viên là cá nhân bị Tòa án tuyên bố bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi thì quyền, nghĩa vụ của thành viên được thực hiện thông qua người giám hộ hoặc người đại diện theo pháp luật của thành viên đó theo quy định của pháp luật về dân sự.
 
----
+6. Trường hợp thành viên là tổ chức chấm dứt tồn tại, giải thể, phá sản thì việc trả lại phần vốn góp được thực hiện theo quy định của pháp luật và Điều lệ.
 
+Điều 12.4.LQ.91. Chế độ kế toán
 
-### Điều 12.4.LQ.91. Chế độ kế toán
+(Điều 91 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-*Nội dung chưa có sẵn*
+1. Hợp tác xã, liên hiệp hợp tác xã phải thực hiện công tác kế toán và lập báo cáo tài chính theo quy định của pháp luật về kế toán.
 
-**Chỉ mục:** 91
+2. Hợp tác xã, liên hiệp hợp tác xã quyết định việc thực hiện theo dõi, hạch toán riêng giao dịch nội bộ và giao dịch bên ngoài. Trường hợp hợp tác xã, liên hiệp hợp tác xã không theo dõi, hạch toán riêng giao dịch nội bộ thì toàn bộ giao dịch của hợp tác xã, liên hiệp hợp tác xã được coi là giao dịch bên ngoài.
 
-**Mã phân cấp:** 1200400000000000600009100000000000000000
+3. Bộ trưởng Bộ Tài chính quy định chế độ kế toán đối với hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013543
+(Điều này có nội dung liên quan đến của ; Điều 19.2.LQ.35. Hỗ trợ, khuyến khích doanh nghiệp ứng dụng, đổi mới công nghệ; Điều 1. Phạm vi điều chỉnh của Thông tư 24/2017/TT-BTC Hướng dẫn Chế độ kế toán Hợp tác xã, liên hiệp hợp tác xã ban hành ngày 28/03/2017)
 
----
+Chương VII
 
-
-### Điều 12.4.LQ.92. Chia hợp tác xã, liên hiệp hợp tác xã
+TỔ CHỨC LẠI, GIẢI THỂ, PHÁ SẢN HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
 
 Điều 12.4.LQ.92. Chia hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 92
+(Điều 92 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009200000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã có thể chia tài sản, quyền, nghĩa vụ, thành viên hiện có (sau đây gọi là hợp tác xã, liên hiệp hợp tác xã bị chia) để thành lập hai hoặc nhiều hợp tác xã, liên hiệp hợp tác xã mới.
 
-**ID:** dk_00013545
+2. Thủ tục chia hợp tác xã, liên hiệp hợp tác xã được thực hiện như sau:
 
----
+a) Đại hội thành viên của hợp tác xã, liên hiệp hợp tác xã bị chia thông qua nghị quyết chia hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật này và Điều lệ.
 
+Nghị quyết chia hợp tác xã, liên hiệp hợp tác xã bao gồm nội dung chủ yếu sau đây: tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã bị chia; tên hợp tác xã, liên hiệp hợp tác xã mới; nguyên tắc, cách thức và thủ tục chia quyền, tài sản bao gồm cả quỹ chung không chia, tài sản chung không chia; phương án sử dụng lao động; cách thức phân chia, thời hạn và thủ tục chuyển đổi vốn góp của hợp tác xã, liên hiệp hợp tác xã bị chia sang hợp tác xã, liên hiệp hợp tác xã mới; nguyên tắc giải quyết nghĩa vụ hợp tác xã, liên hiệp hợp tác xã bị chia; thời hạn thực hiện chia hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.93. Tách hợp tác xã, liên hiệp hợp tác xã
+b) Nghị quyết chia hợp tác xã, liên hiệp hợp tác xã phải được gửi đến tất cả chủ nợ, thông báo cho người lao động, Ủy ban nhân dân nơi cấp Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 15 ngày kể từ ngày thông qua nghị quyết;
+
+c) Việc đăng ký hợp tác xã, liên hiệp hợp tác xã mới được thực hiện theo quy định tại Điều 41 và Điều 42 của Luật này. Trong trường hợp này, hồ sơ đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã mới bao gồm tài liệu quy định tại các điểm a, b, d, đ, e và g khoản 2 Điều 42 của Luật này và nghị quyết chia hợp tác xã, liên hiệp hợp tác xã.
+
+3. Hợp tác xã, liên hiệp hợp tác xã bị chia chấm dứt tồn tại sau khi các hợp tác xã, liên hiệp hợp tác xã mới được cấp Giấy chứng nhận đăng ký hợp tác xã. Các hợp tác xã, liên hiệp hợp tác xã mới phải cùng liên đới chịu trách nhiệm các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của hợp tác xã, liên hiệp hợp tác xã bị chia hoặc thỏa thuận với chủ nợ, khách hàng và người lao động để một trong số các hợp tác xã, liên hiệp hợp tác xã đó thực hiện nghĩa vụ này. Hợp tác xã, liên hiệp hợp tác xã mới đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp được phân chia theo nghị quyết chia hợp tác xã, liên hiệp hợp tác xã.
+
+4. Tài sản chung không chia, quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã bị chia được chuyển thành tài sản chung không chia, quỹ chung không chia của các hợp tác xã, liên hiệp hợp tác xã sau khi chia theo phương án do Đại hội thành viên của hợp tác xã, liên hiệp hợp tác xã bị chia quyết định.
 
 Điều 12.4.LQ.93. Tách hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 93
+(Điều 93 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009300000000000000000
+1. Hợp tác xã có thể tách bằng cách chuyển một phần tài sản, quyền, nghĩa vụ, thành viên của mình (sau đây gọi là hợp tác xã bị tách) để thành lập một hoặc nhiều hợp tác xã được tách. Liên hiệp hợp tác xã có thể tách bằng cách chuyển một phần tài sản, quyền, nghĩa vụ, thành viên của mình (sau đây gọi là liên hiệp hợp tác xã bị tách) để thành lập một hoặc nhiều liên hiệp hợp tác xã được tách. Hợp tác xã, liên hiệp hợp tác xã bị tách không chấm dứt tồn tại.
 
-**ID:** dk_00013546
+2. Thủ tục tách hợp tác xã, liên hiệp hợp tác xã được thực hiện như sau:
 
----
+a) Đại hội thành viên của hợp tác xã, liên hiệp hợp tác xã bị tách thông qua nghị quyết tách hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật này và Điều lệ.
 
+Nghị quyết tách hợp tác xã, liên hiệp hợp tác xã bao gồm nội dung chủ yếu sau đây: tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã bị tách; tên hợp tác xã, liên hiệp hợp tác xã được tách; phương án sử dụng lao động; nguyên tắc, cách thức và thủ tục chuyển một phần tài sản, quyền, nghĩa vụ từ hợp tác xã, liên hiệp hợp tác xã bị tách sang hợp tác xã, liên hiệp hợp tác xã được tách, bao gồm cả quỹ chung không chia, tài sản chung không chia; thời hạn thực hiện tách hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.94. Hợp nhất hợp tác xã, liên hiệp hợp tác xã
+b) Nghị quyết tách hợp tác xã, liên hiệp hợp tác xã phải được gửi đến tất cả chủ nợ, thông báo cho người lao động, Ủy ban nhân dân nơi cấp Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 15 ngày kể từ ngày thông qua nghị quyết;
+
+c) Việc đăng ký hợp tác xã, liên hiệp hợp tác xã được tách thực hiện theo quy định tại Điều 41 và Điều 42 của Luật này. Trong trường hợp này, hồ sơ đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã được tách bao gồm tài liệu quy định tại các điểm a, b, d, đ, e và g khoản 2 Điều 42 của Luật này và nghị quyết tách hợp tác xã, liên hiệp hợp tác xã;
+
+d) Việc đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã, thông báo thay đổi nội dung đăng ký đối với hợp tác xã, liên hiệp hợp tác xã bị tách thực hiện theo quy định tại các điều 41, 47 và 48 của Luật này. Trong trường hợp này, hồ sơ phải kèm theo nghị quyết tách hợp tác xã, liên hiệp hợp tác xã.
+
+3. Hợp tác xã, liên hiệp hợp tác xã bị tách và hợp tác xã, liên hiệp hợp tác xã được tách phải cùng liên đới chịu trách nhiệm về các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của hợp tác xã, liên hiệp hợp tác xã bị tách, trừ trường hợp hợp tác xã, liên hiệp hợp tác xã bị tách, hợp tác xã, liên hiệp hợp tác xã được tách, chủ nợ, khách hàng và người lao động của hợp tác xã, liên hiệp hợp tác xã bị tách có thỏa thuận khác. Hợp tác xã, liên hiệp hợp tác xã được tách đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp được phân chia theo nghị quyết tách hợp tác xã, liên hiệp hợp tác xã.
+
+4. Tài sản chung không chia, quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã bị tách được chuyển thành tài sản chung không chia, quỹ chung không chia của các hợp tác xã, liên hiệp hợp tác xã sau khi tách theo phương án do Đại hội thành viên của hợp tác xã, liên hiệp hợp tác xã bị tách quyết định.
 
 Điều 12.4.LQ.94. Hợp nhất hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 94
+(Điều 94 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009400000000000000000
+1. Hai hoặc nhiều hợp tác xã, liên hiệp hợp tác xã có thể hợp nhất (sau đây gọi là hợp tác xã, liên hiệp hợp tác xã bị hợp nhất) thành một hợp tác xã, liên hiệp hợp tác xã mới cùng loại hình (sau đây gọi là hợp tác xã, liên hiệp hợp tác xã hợp nhất), đồng thời chấm dứt tồn tại của các hợp tác xã, liên hiệp hợp tác xã bị hợp nhất.
 
-**ID:** dk_00013547
+2. Thủ tục hợp nhất hợp tác xã, liên hiệp hợp tác xã được thực hiện như sau:
 
----
+a) Hợp tác xã, liên hiệp hợp tác xã bị hợp nhất chuẩn bị dự thảo hợp đồng hợp nhất, dự thảo Điều lệ hợp tác xã, liên hiệp hợp tác xã hợp nhất.
 
+Hợp đồng hợp nhất phải bao gồm nội dung chủ yếu sau đây: tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã bị hợp nhất; tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã hợp nhất; phương án sử dụng lao động; phương án xử lý các khoản nợ; thời hạn, thủ tục và điều kiện chuyển đổi tài sản bao gồm cả quỹ chung không chia, tài sản chung không chia; thời hạn, thủ tục chuyển đổi vốn góp của hợp tác xã, liên hiệp hợp tác xã bị hợp nhất thành vốn góp của hợp tác xã, liên hiệp hợp tác xã hợp nhất; thời hạn thực hiện hợp nhất;
 
-### Điều 12.4.LQ.95. Sáp nhập hợp tác xã, liên hiệp hợp tác xã
+b) Đại hội thành viên của các hợp tác xã, liên hiệp hợp tác xã bị hợp nhất thông qua hợp đồng hợp nhất, Điều lệ, quyết định tổ chức quản trị, bầu Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị hoặc Giám đốc, Trưởng Ban kiểm soát, thành viên Ban kiểm soát hoặc kiểm soát viên;
+
+c) Hợp đồng hợp nhất phải được gửi đến tất cả chủ nợ, thông báo cho người lao động, Ủy ban nhân dân nơi cấp Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 15 ngày kể từ ngày thông qua;
+
+d) Việc đăng ký hợp tác xã, liên hiệp hợp tác xã hợp nhất thực hiện theo quy định tại Điều 41 và Điều 42 của Luật này. Trong trường hợp này, hồ sơ đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã hợp nhất bao gồm tài liệu quy định tại các điểm a, b, d, đ, e và g khoản 2 Điều 42 của Luật này và hợp đồng hợp nhất, nghị quyết thông qua hợp đồng hợp nhất của các hợp tác xã, liên hiệp hợp tác xã bị hợp nhất.
+
+3. Hợp tác xã, liên hiệp hợp tác xã hợp nhất được hưởng quyền và lợi ích hợp pháp, chịu trách nhiệm về các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của các hợp tác xã, liên hiệp hợp tác xã bị hợp nhất. Hợp tác xã, liên hiệp hợp tác xã hợp nhất đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp của các hợp tác xã, liên hiệp hợp tác xã bị hợp nhất theo hợp đồng hợp nhất.
+
+4. Tài sản chung không chia, quỹ chung không chia của các hợp tác xã, liên hiệp hợp tác xã bị hợp nhất được chuyển thành tài sản chung không chia, quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã hợp nhất.
 
 Điều 12.4.LQ.95. Sáp nhập hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 95
+(Điều 95 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009500000000000000000
+1. Một hoặc nhiều hợp tác xã, liên hiệp hợp tác xã có thể sáp nhập bằng cách chuyển toàn bộ tài sản, quyền, nghĩa vụ và lợi ích hợp pháp (sau đây gọi là hợp tác xã, liên hiệp hợp tác xã được sáp nhập) sang một hợp tác xã, liên hiệp hợp tác xã khác cùng loại hình (sau đây gọi là hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập).
 
-**ID:** dk_00013548
+2. Thủ tục sáp nhập hợp tác xã, liên hiệp hợp tác xã được thực hiện như sau:
 
----
+a) Các hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập và được sáp nhập chuẩn bị dự thảo hợp đồng sáp nhập và dự thảo Điều lệ hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập.
 
+Hợp đồng sáp nhập bao gồm nội dung chủ yếu sau đây: tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập; tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã được sáp nhập; phương án sử dụng lao động; cách thức, thủ tục, thời hạn và điều kiện chuyển đổi tài sản bao gồm cả quỹ chung không chia, tài sản chung không chia; chuyển đổi phần vốn góp của hợp tác xã, liên hiệp hợp tác xã được sáp nhập thành phần vốn góp của hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập; thời hạn thực hiện sáp nhập;
 
-### Điều 12.4.LQ.96. Tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+b) Đại hội thành viên của các hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập và được sáp nhập thông qua hợp đồng sáp nhập, Điều lệ hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập;
+
+c) Hợp đồng sáp nhập phải được gửi đến tất cả chủ nợ, thông báo cho người lao động, Ủy ban nhân dân nơi cấp Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 15 ngày kể từ ngày thông qua;
+
+d) Việc đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã, thông báo thay đổi nội dung đăng ký đối với hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập thực hiện theo quy định tại các điều 41, 47 và 48 của Luật này. Trong trường hợp này, hồ sơ phải kèm theo hợp đồng sáp nhập, nghị quyết thông qua hợp đồng sáp nhập của các hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập và được sáp nhập.
+
+3. Sau khi hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập được đăng ký, hợp tác xã, liên hiệp hợp tác xã được sáp nhập chấm dứt tồn tại; hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập được hưởng các quyền và lợi ích hợp pháp, chịu trách nhiệm về các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của hợp tác xã, liên hiệp hợp tác xã được sáp nhập. Các hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp của các hợp tác xã, liên hiệp hợp tác xã được sáp nhập theo hợp đồng sáp nhập.
+
+4. Tài sản chung không chia, quỹ chung không chia của các hợp tác xã, liên hiệp hợp tác xã được sáp nhập được chuyển thành tài sản chung không chia, quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã nhận sáp nhập.
 
 Điều 12.4.LQ.96. Tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh của hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 96
+(Điều 96 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009600000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã phải thông báo bằng văn bản cho cơ quan đăng ký kinh doanh chậm nhất là 03 ngày làm việc trước ngày tạm ngừng kinh doanh hoặc trước ngày tiếp tục kinh doanh trở lại.
 
-**ID:** dk_00013549
+2. Cơ quan đăng ký kinh doanh, cơ quan nhà nước có thẩm quyền yêu cầu hợp tác xã, liên hiệp hợp tác xã:
 
----
+a) Tạm ngừng hoặc chấm dứt kinh doanh ngành, nghề kinh doanh có điều kiện; ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài khi phát hiện hợp tác xã, liên hiệp hợp tác xã không có đủ điều kiện tương ứng theo quy định của pháp luật;
 
+b) Tạm ngừng kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về quản lý thuế, môi trường và quy định của pháp luật có liên quan;
 
-### Điều 12.4.NĐ.3.47. Thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại đối với hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+c) Đình chỉ hoạt động, chấm dứt kinh doanh một hoặc một số ngành, nghề kinh doanh hoặc trong một số lĩnh vực theo quyết định của Tòa án.
+
+3. Trong thời gian tạm ngừng kinh doanh, hợp tác xã, liên hiệp hợp tác xã phải nộp đủ thuế, bảo hiểm xã hội còn nợ; tiếp tục thanh toán các khoản nợ, hoàn thành việc thực hiện hợp đồng đã ký với khách hàng và người lao động, trừ trường hợp có thỏa thuận khác.
+
+4. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.NĐ.3.47. Thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại đối với hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh
 
-**Chỉ mục:** 47
+(Điều 47 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070000960000000000000000000402880900920004700
+1. Trường hợp hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trở lại, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ thông báo đến cơ quan đăng ký kinh doanh cấp huyện nơi hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh đặt trụ sở chậm nhất 03 ngày làm việc trước ngày tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trở lại. Trường hợp hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh có nhu cầu tiếp tục tạm ngừng kinh doanh sau khi hết thời hạn đã thông báo thì gửi hồ sơ thông báo tạm ngừng kinh doanh đến cơ quan đăng ký kinh doanh cấp huyện chậm nhất 03 ngày làm việc trước ngày tiếp tục tạm ngừng kinh doanh. Thời hạn tạm ngừng kinh doanh của mỗi lần thông báo không được quá 12 tháng.
 
-**ID:** dk_00013550
+2. Hồ sơ thông báo tạm ngừng kinh doanh của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh bao gồm các giấy tờ sau:
 
----
+a) Thông báo tạm ngừng kinh doanh;
 
+b) Bản sao hoặc bản chính biên bản họp Đại hội thành viên về việc tạm ngừng kinh doanh đối với trường hợp hợp tác xã, liên hiệp hợp tác xã thông báo tạm ngừng kinh doanh;
 
-### Điều 12.4.NĐ.3.48. Tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền
+c) Bản sao hoặc bản chính nghị quyết của Đại hội thành viên về việc tạm ngừng kinh doanh đối với trường hợp hợp tác xã, liên hiệp hợp tác xã thông báo tạm ngừng kinh doanh.
+
+3. Hồ sơ thông báo tiếp tục kinh doanh trở lại của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh bao gồm thông báo tiếp tục kinh doanh trở lại.
+
+4. Sau khi nhận hồ sơ thông báo, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận, kiểm tra tính hợp lệ của hồ sơ và cấp giấy xác nhận về việc hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tạm ngừng kinh doanh, giấy xác nhận về việc hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tiếp tục kinh doanh trở lại trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+
+5. Trường hợp hợp tác xã, liên hiệp hợp tác xã thông báo tạm ngừng kinh doanh, cơ quan đăng ký kinh doanh cấp huyện cập nhật tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã và tình trạng pháp lý của các chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã trong tình trạng “Đang hoạt động” sang tình trạng “Tạm ngừng kinh doanh”.
+
+6. Hợp tác xã, liên hiệp hợp tác xã có thể thông báo tiếp tục kinh doanh trở lại đồng thời với thông báo tiếp tục kinh doanh trở lại đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh. Cơ quan đăng ký kinh doanh cấp huyện cập nhật tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã đồng thời với tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong Cơ sở dữ liệu về đăng ký hợp tác xã.
 
 Điều 12.4.NĐ.3.48. Tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền
 
-**Chỉ mục:** 48
+(Điều 48 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070000960000000000000000000402880900920004800
+1. Trong thời hạn 03 ngày làm việc kể từ ngày cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản của cơ quan nhà nước có thẩm quyền về việc hợp tác xã, liên hiệp hợp tác xã kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện, ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài nhưng không đáp ứng điều kiện theo quy định, cơ quan đăng ký kinh doanh cấp huyện ra thông báo yêu cầu hợp tác xã, liên hiệp hợp tác xã tạm ngừng hoặc chấm dứt kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện, ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài.
 
-**ID:** dk_00013551
-
----
-
-
-### Điều 12.4.LQ.97. Các trường hợp giải thể hợp tác xã, liên hiệp hợp tác xã
+2. Trong thời hạn 03 ngày làm việc kể từ ngày cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản của cơ quan nhà nước có thẩm quyền về việc hợp tác xã, liên hiệp hợp tác xã bị cơ quan nhà nước có thẩm quyền yêu cầu tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh một hoặc một số ngành, nghề kinh doanh trong một số lĩnh vực theo quyết định của Tòa án, cơ quan đăng ký kinh doanh cấp huyện cập nhật thông tin vào Cơ sở dữ liệu về đăng ký hợp tác xã và công bố trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
 
 Điều 12.4.LQ.97. Các trường hợp giải thể hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 97
+(Điều 97 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009700000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục giải thể theo một trong hai trường hợp sau đây:
 
-**ID:** dk_00013552
+a) Giải thể tự nguyện theo nghị quyết Đại hội thành viên;
 
----
+b) Giải thể bắt buộc theo quyết định của Toà án hoặc khi bị thu hồi Giấy chứng nhận đăng ký hợp tác xã, trừ trường hợp luật khác có quy định khác.
 
-
-### Điều 12.4.LQ.98. Giải thể tự nguyện đối với hợp tác xã, liên hiệp hợp tác xã
+2. Hợp tác xã, liên hiệp hợp tác xã chỉ được giải thể khi bảo đảm thanh toán hết các khoản nợ, nghĩa vụ tài sản khác và không trong quá trình giải quyết tranh chấp tại Tòa án hoặc Trọng tài. Người đại diện theo pháp luật, Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc) và người giữ chức danh có liên quan trong hợp tác xã, liên hiệp hợp tác xã cùng liên đới chịu trách nhiệm về các khoản nợ của hợp tác xã, liên hiệp hợp tác xã; phải chịu trách nhiệm cá nhân về thiệt hại do việc không thực hiện hoặc thực hiện không đúng quy định về giải thể tại Luật này.
 
 Điều 12.4.LQ.98. Giải thể tự nguyện đối với hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 98
+(Điều 98 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009800000000000000000
+1. Đại hội thành viên thông qua nghị quyết giải thể hợp tác xã, liên hiệp hợp tác xã. Nghị quyết giải thể hợp tác xã, liên hiệp hợp tác xã bao gồm nội dung chủ yếu sau đây:
 
-**ID:** dk_00013553
+a) Tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Lý do giải thể;
 
+c) Thời hạn và thủ tục bàn giao tài sản chung không chia, quỹ chung không chia;
 
-### Điều 12.4.NĐ.3.50. Đăng ký giải thể tự nguyện hợp tác xã, liên hiệp hợp tác xã
+d) Thời hạn, thủ tục thanh lý hợp đồng và thanh toán các khoản nợ, phương án giải quyết nợ. Phương án giải quyết nợ phải có tên, địa chỉ của chủ nợ; số nợ, thời hạn, địa điểm và phương thức thanh toán nợ; cách thức và thời hạn giải quyết khiếu nại của chủ nợ;
+
+đ) Phương án xử lý nghĩa vụ phát sinh từ hợp đồng lao động.
+
+2. Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc Giám đốc đối với tổ chức quản trị rút gọn trực tiếp tổ chức thanh lý tài sản của hợp tác xã, liên hiệp hợp tác xã theo nghị quyết của Đại hội thành viên, trừ trường hợp Điều lệ quy định thành lập tổ chức thanh lý riêng.
+
+3. Trong thời hạn 07 ngày làm việc kể từ ngày thông qua nghị quyết, người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã hoàn thành các công việc sau đây:
+
+a) Gửi nghị quyết giải thể đến cơ quan đăng ký kinh doanh, Ủy ban nhân dân nơi cấp Giấy chứng nhận đăng ký hợp tác xã, cơ quan thuế, người lao động trong hợp tác xã, liên hiệp hợp tác xã;
+
+b) Niêm yết công khai nghị quyết giải thể tại trụ sở chính, chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã;
+
+c) Trường hợp còn nghĩa vụ tài chính chưa giải quyết thì phải gửi nghị quyết giải thể đến các chủ nợ, người có quyền, nghĩa vụ và lợi ích có liên quan.
+
+4. Cơ quan đăng ký kinh doanh phải thông báo tình trạng hợp tác xã, liên hiệp hợp tác xã đang làm thủ tục giải thể trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh, kèm theo thông báo phải đăng tải nghị quyết giải thể.
+
+5. Việc xử lý tài sản của hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định tại Điều 101 của Luật này.
+
+6. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký giải thể hợp tác xã, liên hiệp hợp tác xã cho cơ quan đăng ký kinh doanh trong thời hạn 05 ngày làm việc kể từ ngày thanh toán hết các khoản nợ. Trước khi nộp hồ sơ đăng ký giải thể, hợp tác xã, liên hiệp hợp tác xã phải thực hiện thủ tục chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh theo quy định của Chính phủ.
+
+7. Cơ quan đăng ký kinh doanh cập nhật tình trạng giải thể của hợp tác xã, liên hiệp hợp tác xã trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh thuộc một trong hai trường hợp sau đây:
+
+a) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký giải thể;
+
+b) Sau thời hạn 06 tháng kể từ ngày nhận được nghị quyết giải thể theo quy định tại điểm a khoản 3 Điều này mà không nhận được hồ sơ đăng ký giải thể và ý kiến khác của hợp tác xã, liên hiệp hợp tác xã và ý kiến của bên có liên quan bằng văn bản.
+
+8. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.NĐ.3.50. Đăng ký giải thể tự nguyện hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 50
+(Điều 50 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070000980000000000000000000402880900920005000
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được nghị quyết giải thể hợp tác xã, liên hiệp hợp tác xã do người đại diện theo pháp luật gửi đến theo quy định tại điểm a khoản 3 Điều 98 Luật Hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện thực hiện như sau:
 
-**ID:** dk_00013554
+a) Đăng tải nghị quyết giải thể đồng thời thông báo tình trạng hợp tác xã, liên hiệp hợp tác xã đang làm thủ tục giải thể, tình trạng chi nhánh, văn phòng đại diện, địa điểm kinh doanh đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp;
 
----
+b) Chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã sang tình trạng đang làm thủ tục giải thể, chuyển tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh sang tình trạng đang làm thủ tục chấm dứt hoạt động trong Cơ sở dữ liệu về đăng ký hợp tác xã;
 
+c) Gửi thông tin về việc giải thể của hợp tác xã, liên hiệp hợp tác xã, thông tin về việc đang làm thủ tục chấm dứt hoạt động của chi nhánh, văn phòng đại diện, địa điểm kinh doanh cho cơ quan thuế.
 
-### Điều 12.4.LQ.99. Giải thể bắt buộc đối với hợp tác xã, liên hiệp hợp tác xã
+2. Trong thời hạn 05 ngày làm việc kể từ ngày thanh toán hết các khoản nợ và hoàn thành nghĩa vụ về thuế, hợp tác xã, liên hiệp hợp tác xã nộp hồ sơ đăng ký giải thể đến cơ quan đăng ký kinh doanh cấp huyện nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính. Hồ sơ đăng ký giải thể bao gồm các giấy tờ sau đây:
+
+a) Thông báo về việc giải thể hợp tác xã, liên hiệp hợp tác xã;
+
+b) Báo cáo về việc xử lý tài sản của hợp tác xã, liên hiệp hợp tác xã giải thể;
+
+c) Quyết định về việc thu hồi quỹ chung không chia, tài sản chung không chia của Ủy ban nhân dân cấp huyện nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính trong trường hợp hợp tác xã, liên hiệp hợp tác xã có quỹ chung không chia, tài sản chung không chia có nguồn hỗ trợ toàn bộ từ Nhà nước;
+
+d) Báo cáo kết quả chuyển nhượng, thanh lý tài sản của hội đồng thanh lý tài sản chung không chia trong trường hợp hợp tác xã, liên hiệp hợp tác xã có quỹ chung không chia, tài sản chung không chia có nguồn hỗ trợ một phần của Nhà nước.
+
+3. Trước khi nộp hồ sơ đăng ký giải thể, hợp tác xã, liên hiệp hợp tác xã phải thực hiện thủ tục chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại cơ quan đăng ký kinh doanh cấp huyện nơi đặt chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
+
+4. Sau khi tiếp nhận hồ sơ đăng ký giải thể, cơ quan đăng ký kinh doanh cấp huyện gửi thông tin về việc hợp tác xã, liên hiệp hợp tác xã đăng ký giải thể cho cơ quan thuế. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được thông tin của cơ quan đăng ký kinh doanh cấp huyện, cơ quan thuế gửi ý kiến về việc hoàn thành nghĩa vụ nộp thuế của hợp tác xã, liên hiệp hợp tác xã đến cơ quan đăng ký kinh doanh cấp huyện. Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ đăng ký giải thể, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đã giải thể nếu không nhận được ý kiến phản đối của cơ quan thuế, đồng thời ra thông báo về việc giải thể của hợp tác xã, liên hiệp hợp tác xã.
+
+5. Sau thời hạn 06 tháng kể từ ngày cơ quan đăng ký kinh doanh cấp huyện nhận được nghị quyết giải thể của hợp tác xã, liên hiệp hợp tác xã mà không nhận được hồ sơ đăng ký giải thể của hợp tác xã, liên hiệp hợp tác xã, hồ sơ đăng ký chấm dứt hoạt động của chi nhánh, văn phòng đại diện, địa điểm kinh doanh và ý kiến phản đối bằng văn bản của cơ quan quản lý thuế hoặc tổ chức, cá nhân và bên có liên quan khác, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đã giải thể, đã chấm dứt hoạt động đồng thời ra thông báo hợp tác xã, liên hiệp hợp tác xã giải thể, chi nhánh, văn phòng đại diện, địa điểm kinh doanh chấm dứt hoạt động trong thời hạn 03 ngày làm việc kể từ ngày kết thúc thời hạn nêu trên.
+
+6. Trong thời hạn 06 tháng kể từ ngày nhận được nghị quyết giải thể và cơ quan đăng ký kinh doanh cấp huyện chưa chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã sang tình trạng đã giải thể, nếu không tiếp tục thực hiện giải thể, hợp tác xã, liên hiệp hợp tác xã gửi thông báo về việc hủy bỏ nghị quyết giải thể do người đại diện theo pháp luật ký đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Kèm theo thông báo phải có nghị quyết của Đại hội thành viên về việc hủy bỏ nghị quyết giải thể. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo, cơ quan đăng ký kinh doanh cấp huyện phải đăng tải thông báo và nghị quyết về việc hủy bỏ nghị quyết giải thể trên Cổng thông tin quốc gia về đăng ký doanh nghiệp, đồng thời khôi phục tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong Cơ sở dữ liệu về đăng ký hợp tác xã và gửi thông tin cho cơ quan thuế.
+
+7. Đối với hợp tác xã, liên hiệp hợp tác xã sử dụng con dấu do cơ quan công an cấp, hợp tác xã, liên hiệp hợp tác xã có trách nhiệm trả con dấu, giấy chứng nhận đăng ký mẫu con dấu cho cơ quan công an theo quy định.
 
 Điều 12.4.LQ.99. Giải thể bắt buộc đối với hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 99
+(Điều 99 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700009900000000000000000
+1. Cơ quan đăng ký kinh doanh phải thông báo tình trạng hợp tác xã, liên hiệp hợp tác xã đang làm thủ tục giải thể cho Ủy ban nhân dân nơi cấp Giấy chứng nhận đăng ký hợp tác xã và trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh đồng thời với việc ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc ngay sau khi nhận được quyết định giải thể của Tòa án đã có hiệu lực pháp luật; kèm theo thông báo phải đăng tải quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc quyết định của Tòa án đã có hiệu lực pháp luật.
 
-**ID:** dk_00013555
+2. Trong thời hạn 10 ngày kể từ ngày nhận được quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc quyết định của Tòa án đã có hiệu lực pháp luật, hợp tác xã, liên hiệp hợp tác xã phải thực hiện theo quy định tại các khoản 1, 2, 3, 5 và 6 Điều 98 của Luật này. Khi gửi nghị quyết giải thể theo quy định tại điểm a khoản 3 Điều 98 của Luật này phải gửi kèm theo bản sao quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc quyết định của Tòa án đã có hiệu lực pháp luật.
 
----
+3. Sau thời hạn 06 tháng kể từ ngày thông báo tình trạng đang làm thủ tục giải thể hợp tác xã, liên hiệp hợp tác xã theo quy định tại khoản 1 Điều này mà không nhận được phản đối của bên có liên quan bằng văn bản hoặc 05 ngày làm việc kể từ ngày nhận hồ sơ đăng ký giải thể, cơ quan đăng ký kinh doanh cập nhật tình trạng giải thể của hợp tác xã, liên hiệp hợp tác xã trên hệ thống thông tin điện tử của cơ quan đăng ký kinh doanh.
 
-
-### Điều 12.4.NĐ.3.51. Đăng ký giải thể bắt buộc hợp tác xã, liên hiệp hợp tác xã
+4. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.NĐ.3.51. Đăng ký giải thể bắt buộc hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 51
+(Điều 51 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070000990000000000000000000402880900920005100
+1. Trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc nhận được quyết định giải thể của Tòa án đã có hiệu lực pháp luật, cơ quan đăng ký kinh doanh cấp huyện thực hiện như sau:
 
-**ID:** dk_00013556
+a) Đăng tải quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc quyết định giải thể của Tòa án đã có hiệu lực pháp luật trên Cổng thông tin quốc gia về đăng ký doanh nghiệp; thông báo tình trạng hợp tác xã, liên hiệp hợp tác xã đang làm thủ tục giải thể, tình trạng chi nhánh, văn phòng đại diện, địa điểm kinh doanh đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp, trừ trường hợp hợp tác xã, liên hiệp hợp tác xã bị thu hồi Giấy chứng nhận đăng ký hợp tác xã theo đề nghị của cơ quan quản lý thuế;
 
----
+b) Chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã sang tình trạng đang làm thủ tục giải thể; chuyển tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh sang tình trạng đang làm thủ tục chấm dứt hoạt động trong Cơ sở dữ liệu về đăng ký hợp tác xã;
 
+c) Gửi thông tin về việc giải thể của hợp tác xã, liên hiệp hợp tác xã, chấm dứt hoạt động của chi nhánh, văn phòng đại diện, địa điểm kinh doanh cho cơ quan thuế.
 
-### Điều 12.4.LQ.100. Các hành vi bị cấm khi giải thể hợp tác xã, liên hiệp hợp tác xã
+2. Trong thời hạn 05 ngày làm việc kể từ ngày thanh toán hết các khoản nợ và hoàn thành nghĩa vụ về thuế, người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký giải thể cho cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Hồ sơ, trình tự, thủ tục đăng ký giải thể thực hiện theo quy định tại các khoản 2, 3 và 4 Điều 50 Nghị định này.
+
+3. Sau thời hạn 06 tháng kể từ ngày cơ quan đăng ký kinh doanh cấp huyện thông báo tình trạng hợp tác xã, liên hiệp hợp tác xã đang làm thủ tục giải thể trên Cổng thông tin quốc gia về đăng ký doanh nghiệp mà không nhận được hồ sơ đăng ký giải thể của hợp tác xã, liên hiệp hợp tác xã, hồ sơ đăng ký chấm dứt hoạt động của chi nhánh, văn phòng đại diện, địa điểm kinh doanh và ý kiến phản đối bằng văn bản của cơ quan quản lý thuế hoặc tổ chức, cá nhân và bên có liên quan khác, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đã giải thể, đã chấm dứt hoạt động đồng thời ra thông báo hợp tác xã, liên hiệp hợp tác xã giải thể, chi nhánh, văn phòng đại diện, địa điểm kinh doanh chấm dứt hoạt động trong thời hạn 03 ngày làm việc kể từ ngày kết thúc thời hạn nêu trên.
 
 Điều 12.4.LQ.100. Các hành vi bị cấm khi giải thể hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 100
+(Điều 100 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700010000000000000000000
+1. Kể từ khi có nghị quyết giải thể, quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc quyết định giải thể của Tòa án, người đại diện theo pháp luật, Chủ tịch Hội đồng quản trị, thành viên khác của Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên của hợp tác xã, liên hiệp hợp tác xã bị cấm thực hiện các hành vi sau đây:
 
-**ID:** dk_00013557
+a) Cất giấu, tẩu tán tài sản;
 
----
+b) Từ bỏ hoặc giảm bớt quyền đòi nợ;
 
+c) Chuyển khoản nợ không có bảo đảm thành khoản nợ có bảo đảm bằng tài sản của hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.101. Xử lý tài sản khi hợp tác xã, liên hiệp hợp tác xã giải thể
+d) Ký kết hợp đồng mới, trừ trường hợp để thực hiện giải thể hợp tác xã, liên hiệp hợp tác xã;
+
+đ) Cầm cố, thế chấp, tặng cho, cho thuê tài sản;
+
+e) Chấm dứt thực hiện hợp đồng đã có hiệu lực;
+
+g) Huy động vốn dưới mọi hình thức.
+
+2. Tùy theo tính chất và mức độ vi phạm, cá nhân có hành vi vi phạm quy định tại khoản 1 Điều này có thể bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường cho hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật.
 
 Điều 12.4.LQ.101. Xử lý tài sản khi hợp tác xã, liên hiệp hợp tác xã giải thể
 
-**Chỉ mục:** 101
+(Điều 101 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700010100000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã khi giải thể thực hiện thu hồi, xử lý quỹ chung không chia và tài sản chung không chia; thu hồi các tài sản khác; chuyển nhượng, thanh lý tài sản.
 
-**ID:** dk_00013558
+2. Quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã khi giải thể được xử lý theo các nguyên tắc sau đây:
 
----
+a) Phần quỹ chung không chia hình thành từ tiền chuyển nhượng, thanh lý tài sản chung không chia do Nhà nước hỗ trợ một phần hoặc toàn bộ được chuyển vào ngân sách nhà nước;
 
+b) Phần quỹ chung không chia theo quy định tại khoản 4 Điều 84 của Luật này được thực hiện theo thỏa thuận giữa cá nhân, tổ chức tặng cho, tài trợ hợp pháp và hợp tác xã, liên hiệp hợp tác xã. Trường hợp không có thỏa thuận thì thực hiện theo quy định tại khoản 4 và khoản 5 Điều này;
 
-### Điều 12.4.TT.3.3. Nguyên tắc xử lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản
+c) Phần quỹ chung không chia theo quy định tại khoản 1 và khoản 2 Điều 84 của Luật này được thực hiện theo quy định tại khoản 4 và khoản 5 Điều này.
+
+3. Tài sản chung không chia của hợp tác xã, liên hiệp hợp tác xã khi giải thể được xử lý theo các nguyên tắc sau đây:
+
+a) Tài sản chung không chia theo quy định tại các điểm a, c và đ khoản 2 Điều 88 của Luật này được giao cho cơ quan quản lý nhà nước có thẩm quyền để xử lý theo nguồn hình thành theo quy định của pháp luật;
+
+b) Tài sản chung không chia quy định tại điểm d khoản 2 Điều 88 của Luật này được thực hiện theo thỏa thuận giữa cá nhân, tổ chức tặng cho, tài trợ hợp pháp và hợp tác xã, liên hiệp hợp tác xã. Trường hợp không có thỏa thuận thì thực hiện theo quy định tại khoản 4 và khoản 5 Điều này;
+
+c) Tài sản chung không chia quy định tại điểm b và điểm e khoản 2 Điều 88 của Luật này được xử lý theo quy định tại khoản 4 và khoản 5 Điều này.
+
+4. Việc phân chia tài sản còn lại khi giải thể thực hiện theo thứ tự ưu tiên sau đây:
+
+a) Thanh toán chi phí giải thể bao gồm cả khoản chi cho việc thu hồi, định giá và thanh lý tài sản;
+
+b) Thanh toán nợ lương, trợ cấp thôi việc, đóng bảo hiểm xã hội theo quy định của pháp luật và quyền lợi khác của người lao động theo thỏa ước lao động tập thể và hợp đồng lao động đã ký kết;
+
+c) Nợ thuế;
+
+d) Khoản nợ khác.
+
+5. Sau khi phân chia tài sản theo quy định tại khoản 4 Điều này, phần còn lại được chia cho thành viên chính thức, thành viên liên kết góp vốn theo tỷ lệ phần vốn góp.
+
+6. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.TT.3.3. Nguyên tắc xử lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 31/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 14/05/2018)
 
-**Mã phân cấp:** 120040000000000070001010000000000000000000802650700310000300
+1. Để sử dụng có hiệu quả, tránh lãng phí tài sản, khi HTX giải thể, phá sản việc xử lý tài sản hình thành từ nhiều nguồn vốn được thực hiện theo trình tự: trước tiên thực hiện bàn giao cho hợp tác xã hoặc cơ quan hành chính, đơn vị sự nghiệp công lập, doanh nghiệp nhà nước (sau đây viết tắt là tổ chức nhà nước) trong đó ưu tiên bàn giao cho các HTX khác nằm trên địa bàn nhằm mục tiêu phục vụ lợi ích cộng đồng dân cư tại địa bàn; nếu không thực hiện bàn giao được (bao gồm cả trường hợp ngân sách không bố trí được kinh phí để hoàn trả HTX theo hướng dẫn tại điểm d khoản 1 Điều 5 Thông tư này) thì thực hiện chuyển nhượng hoặc thanh lý tài sản cho tất cả các đối tượng có nhu cầu sử dụng; thanh lý tài sản thực hiện trong trường hợp tài sản đã hết khấu hao, lạc hậu, bị hư hỏng mà không thể sửa chữa được hoặc việc sửa chữa không hiệu quả.
 
-**ID:** dk_00013559
+2. HTX giải thể, sau khi có giấy xác nhận về việc giải thể HTX và quyết định thu hồi Giấy chứng nhận đăng ký HTX (đối với giải thể tự nguyện) và có quyết định giải thể (đối với giải thể bắt buộc), trên cơ sở báo cáo tài chính do HTX lập tại thời điểm giải thể và các hồ sơ, tài liệu có liên quan, Hội đồng giải thể cùng với cơ quan tài chính cùng cấp với cơ quan cấp giấy chứng nhận đăng ký HTX và các cơ quan khác có liên quan thực hiện:
 
----
+a) Kiểm kê tài sản; xác định rõ nguồn gốc hình thành tài sản, tách riêng phần giá trị tài sản không chia; xác định tỷ lệ phần vốn hỗ trợ, trợ cấp của nhà nước, vốn từ nguồn quỹ đầu tư phát triển của HTX, vốn từ khoản được tặng, cho theo thỏa thuận là tài sản không chia, vốn tài sản khác được điều lệ quy định là tài sản không chia và tỷ lệ vốn đóng góp của các thành viên HTX trên nguyên giá của tài sản; xác định giá trị còn lại của tài sản theo sổ sách.
 
+b) Tổ chức định giá tài sản không chia (đối với tài sản chưa được hạch toán trên sổ kế toán trong trường hợp bàn giao tài sản) và đối với những tài sản thực hiện phương thức chuyển nhượng, thanh lý tài sản bằng hình thức thuê tổ chức có đủ điều kiện hoạt động thẩm định giá hoặc thành lập Hội đồng định giá (trong trường hợp không thuê tổ chức có đủ điều kiện hoạt động thẩm định giá xác định).
 
-### Điều 12.4.TT.3.4. Xử lý tài sản khi HTX, liên hiệp HTX giải thể, phá sản
+3. Khi HTX phá sản, Hội đồng quản trị HTX phối hợp với cơ quan tài chính cùng cấp với cơ quan cấp giấy chứng nhận đăng ký HTX và các cơ quan khác có liên quan, cùng với quản tài viên hoặc doanh nghiệp quản lý tài sản, thanh lý của HTX phá sản để tiếp nhận, kiểm kê, phân loại, đánh giá tài sản theo hướng dẫn tại khoản 2 Điều 3 Thông tư này.
+
+4. Đối với tài sản không chia của HTX là quyền sử dụng đất do Nhà nước giao, cho thuê đất thì thực hiện theo quy định pháp luật về đất đai.
+
+5. Trường hợp tài sản không còn hồ sơ, tài liệu để xác định nguồn gốc tài sản hoặc tỷ lệ từng loại nguồn vốn hình thành tài sản thì được xem như là tài sản không chia hình thành từ vốn hỗ trợ, trợ cấp của nhà nước và xử lý theo quy định điểm a, khoản 1 Điều 21 Nghị định số 193/2013/NĐ-CP của Chính phủ.
+
+6. Việc chuyển nhượng, thanh lý tài sản phải thực hiện nghĩa vụ thuế theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Chương X XỬ LÝ TÀI SẢN DOANH NGHIỆP, HỢP TÁC XÃ CÓ TRANH CHẤP)
 
 Điều 12.4.TT.3.4. Xử lý tài sản khi HTX, liên hiệp HTX giải thể, phá sản
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 31/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 14/05/2018)
 
-**Mã phân cấp:** 120040000000000070001010000000000000000000802650700310000400
+**1.Bàn giao tài sản**
 
-**ID:** dk_00013560
+a) Thẩm quyền quyết định bàn giao tài sản:
 
----
+Ủy ban nhân dân cùng cấp với cơ quan cấp giấy chứng nhận đăng ký HTX ra quyết định bàn giao tài sản cho HTX, tổ chức nhà nước thuộc địa bàn huyện trên cơ sở đề nghị của Hội đồng giải thể HTX, Hội đồng quản trị HTX phá sản. Đối với tài sản bàn giao sang HTX hoặc tổ chức thuộc huyện khác do Uỷ ban nhân dân cấp tỉnh quyết định (hoặc Ủy ban nhân dân cấp tỉnh ủy quyền cho một cơ quan khác ra quyết định bàn giao tài sản).
 
+b) Thành phần bàn giao tài sản:
 
-### Điều 12.4.TT.3.5. Về xử lý nghĩa vụ tài chính khi bàn giao, chuyển nhượng, thanh lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản
+Thành phần bàn giao tài sản gồm bên giao, bên nhận và cơ quan chứng kiến bàn giao (cơ quan cấp giấy chứng nhận đăng ký HTX, cơ quan tài chính cùng cấp với cơ quan cấp giấy chứng nhận đăng ký HTX và quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản của HTX phá sản).
+
+c) Quy trình bàn giao tài sản:
+
+Căn cứ quyết định bàn giao tài sản tại điểm a, Khoản 1 Điều này để thực hiện bàn giao tài sản, lập Biên bản bàn giao theo mẫu số 01 ban hành kèm theo Thông tư này, trong đó có các nội dung về thành phần bàn giao tài sản; Hồ sơ chi tiết của tài sản; giá trị còn lại theo sổ sách của tài sản hoặc theo giá trị đánh giá lại của tài sản (đối với tài sản chưa được theo dõi hạch toán trong hệ thống sổ sách kế toán của HTX); xác định phần giá trị tài sản hình thành từ vốn trợ cấp, hỗ trợ của nhà nước, vốn từ quỹ đầu tư phát triển, khoản được tặng, cho theo thỏa thuận là tài sản không chia, vốn tài sản khác được điều lệ quy định là tài sản không chia và phần vốn góp của các thành viên HTX.
+
+- Thực hiện hạch toán giảm, tăng tài sản và vốn theo chế độ kế toán hiện hành;
+
+- Thực hiện đăng ký quyền sở hữu, quyền sử dụng tài sản theo quy định pháp luật.
+
+**2. Chuyển nhượng tài sản, thanh lý tài sản**
+
+a) Thẩm quyền chuyển nhượng, thanh lý tài sản:
+
+Ủy ban nhân dân cùng cấp với cơ quan cấp giấy chứng nhận đăng ký HTX ra quyết định chuyển nhượng, thanh lý tài sản trên cơ sở đề nghị của Hội đồng giải thể HTX hoặc Hội đồng quản trị HTX phá sản.
+
+b) Phương thức chuyển nhượng, thanh lý tài sản:
+
+Căn cứ vào giá trị tài sản đã được định giá, Hội đồng giải thể HTX; Hội đồng quản trị HTX phá sản phối hợp với quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản của HTX phá sản tổ chức chuyển nhượng tài sản ( bao gồm bán thu hồi tài sản, phế liệu tài sản thanh lý) bằng hình thức đấu giá theo quy định của pháp luật về đấu giá tài sản.
+
+Đối với tài sản có giá trị đánh giá lại dưới 2.000.000 (hai triệu) đồng, tổ chức chuyển nhượng không qua thủ tục đấu giá.
+
+c) Báo cáo kết quả chuyển nhượng, thanh lý tài sản:
+
+Hội đồng giải thể HTX; Hội đồng quản trị HTX phá sản báo cáo kết quả chuyển nhượng tài sản về Ủy ban nhân dân cùng cấp với cơ quan cấp giấy chứng nhận đăng ký HTX để làm căn cứ xử lý khoản tiền thu từ chuyển nhượng tài sản, trong đó xác định tiền thu từ chuyển nhượng, chi phí chuyển nhượng (gồm chi phí kiểm kê, định giá tài sản, chi phí tổ chức bán đấu giá tài sản và các chi phí khác có liên quan) và nộp thuế theo quy định, thực hiện phân chia số tiền thu được còn lại theo từng nguồn vốn hình thành tài sản.
+
+(Điều này có nội dung liên quan đến Chương X XỬ LÝ TÀI SẢN DOANH NGHIỆP, HỢP TÁC XÃ CÓ TRANH CHẤP)
 
 Điều 12.4.TT.3.5. Về xử lý nghĩa vụ tài chính khi bàn giao, chuyển nhượng, thanh lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 31/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 14/05/2018)
 
-**Mã phân cấp:** 120040000000000070001010000000000000000000802650700310000500
+1. Xử lý nghĩa vụ tài chính giữa các bên bàn giao và tiếp nhận tài sản
 
-**ID:** dk_00013561
+HTX bàn giao tài sản ghi nhận giảm tài sản, giảm vốn (phân theo các nguồn vốn trợ cấp, hỗ trợ của nhà nước, vốn từ quỹ đầu tư phát triển, khoản được tặng, cho theo thỏa thuận là tài sản không chia, vốn tài sản khác được điều lệ quy định là tài sản không chia và vốn góp của các thành viên HTX) theo quy định của Luật HTX và chế độ kế toán HTX hiện hành. Việc xử lý nghĩa vụ tài chính giữa các bên bàn giao và tiếp nhận tài sản khi HTX giải thể, phá sản được quy định cụ thể như sau:
 
----
+a) Đối với phần giá trị tài sản hình thành từ khoản trợ cấp, hỗ trợ không hoàn lại của Nhà nước:
 
+- Trường hợp tổ chức tiếp nhận là HTX thì ghi nhận tăng tài sản, tăng vốn nhà nước theo Luật HTX và chế độ kế toán của HTX hiện hành.
 
-### Điều 12.4.LQ.102. Giải quyết phá sản đối với hợp tác xã, liên hiệp hợp tác xã
+- Trường hợp tổ chức tiếp nhận là doanh nghiệp nhà nước thì ghi nhận tăng tài sản, tăng vốn nhà nước theo quy định của pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và chế độ kế toán doanh nghiệp hiện hành.
+
+- Trường hợp tổ chức tiếp nhận là cơ quan hành chính, đơn vị sự nghiệp công lập thì ghi nhận tăng tài sản theo chế độ kế toán hành chính sự nghiệp hiện hành.
+
+b) Phần giá trị tài sản hình thành từ quỹ đầu tư phát triển; khoản được tặng, cho theo thỏa thuận là tài sản không chia; vốn tài sản khác được điều lệ quy định là tài sản không chia của HTX, tổ chức tiếp nhận có trách nhiệm thanh toán cho HTX để xử lý theo quy định tại điểm b khoản 1 Điều 21 Nghị định số 193/2013/NĐ-CP và khoản 3 Điều 1 Nghị định số 107/2017/NĐ-CP của Chính phủ.
+
+c) Phần giá trị tài sản hình thành từ vốn góp của các thành viên HTX, tổ chức tiếp nhận có trách nhiệm thanh toán cho HTX và được tính vào nguồn thu giải thể, phá sản để xử lý theo quy định tại Luật Hợp tác xã và Luật Phá sản.
+
+d) Trường hợp tổ chức tiếp nhận là cơ quan hành chính, đơn vị sự nghiệp công lập thì ngân sách địa phương cùng cấp thanh toán cho HTX giá trị tài sản tương ứng với phần giá trị tài sản còn lại hình thành từ quỹ đầu tư phát triển; khoản được tặng, cho theo thỏa thuận là tài sản không chia; vốn tài sản khác được điều lệ quy định là tài sản không chia của HTX và phần vốn góp của các thành viên HTX để xử lý theo hướng dẫn tại điểm b và điểm c Khoản 1 Điều này và phải phù hợp với pháp luật về ngân sách nhà nước.
+
+Trường hợp ngân sách địa phương cùng cấp không bố trí được kinh phí chi trả HTX thì không thực hiện bàn giao tài sản, và thực hiện xử lý tài sản theo hình thức chuyển nhượng hoặc thanh lý theo hướng dẫn tại khoản 2 Điều 4 Thông tư này.
+
+đ) Chi phí hợp lý có liên quan trực tiếp đến việc bàn giao, tiếp nhận tài sản do đơn vị tiếp nhận tài sản chi trả theo quy định.
+
+2. Về xử lý khoản tiền thu từ chuyển nhượng, thanh lý tài sản:
+
+Giá trị tài sản chuyển nhượng, thanh lý sau khi trừ chi phí chuyển nhượng, thanh lý tài sản và nộp thuế theo quy định, phần giá trị còn lại được phân chia theo tỷ lệ vốn trợ cấp, hỗ trợ của nhà nước; vốn từ quỹ đầu tư phát triển; khoản được tặng, cho theo thỏa thuận là tài sản không chia; vốn tài sản khác được điều lệ quy định là tài sản không chia của HTX và vốn góp của các thành viên HTX để xử lý theo quy định, cụ thể:
+
+a) Phần giá trị tài sản thu được hình thành từ vốn trợ cấp, hỗ trợ của nhà nước chuyển về ngân sách địa phương cùng cấp với cơ quan đăng ký HTX, liên hiệp HTX theo quy định tại điểm a khoản 1 Điều 21 Nghị định số 193/2013/NĐ-CP của Chính phủ.
+
+b) Phần giá trị tài sản hình thành từ quỹ đầu tư phát triển của HTX; khoản được tặng, cho theo thỏa thuận là tài sản không chia; vốn tài sản khác được điều lệ quy định là tài sản không chia của HTX xử lý theo quy định tại điểm b khoản 1 Điều 21 Nghị định số 193/2013/NĐ-CP và khoản 3 Điều 1 Nghị định số 107/2017/NĐ-CP của Chính phủ.
+
+c) Phần giá trị tài sản hình thành từ vốn góp của các thành viên HTX được tính vào nguồn thu giải thể, phá sản để xử lý theo quy định tại Luật Hợp tác xã và Luật Phá sản.
+
+3. Trường hợp giải thể, phá sản mà vốn, tài sản của HTX không đủ để thanh toán các khoản nợ thì HTX được sử dụng khoản tiền thu được từ bàn giao, chuyển nhượng, thanh lý tài sản hình thành từ nhiều nguồn vốn nêu tại khoản 1, khoản 2 Điều này để thanh toán các khoản nợ theo quy định tại khoản 2 Điều 21 Nghị định số 193/2013/NĐ-CP của Chính phủ.
+
+(Điều này có nội dung liên quan đến Chương X XỬ LÝ TÀI SẢN DOANH NGHIỆP, HỢP TÁC XÃ CÓ TRANH CHẤP)
 
 Điều 12.4.LQ.102. Giải quyết phá sản đối với hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 102
+(Điều 102 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700010200000000000000000
+1. Việc giải quyết phá sản đối với hợp tác xã, liên hiệp hợp tác xã được thực hiện theo quy định của pháp luật về phá sản.
 
-**ID:** dk_00013562
-
----
-
-
-### Điều 12.4.LQ.103. Thu hồi Giấy chứng nhận đăng ký hợp tác xã
+2. Việc xử lý quỹ chung không chia, tài sản chung không chia của hợp tác xã, liên hiệp hợp tác xã khi phá sản được thực hiện như việc xử lý quỹ chung không chia, tài sản chung không chia của hợp tác xã, liên hiệp hợp tác xã khi giải thể theo quy định tại Điều 101 của Luật này.
 
 Điều 12.4.LQ.103. Thu hồi Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 103
+(Điều 103 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700010300000000000000000
+1. Hợp tác xã, liên hiệp hợp tác xã bị thu hồi Giấy chứng nhận đăng ký hợp tác xã khi thuộc một trong các trường hợp sau đây:
 
-**ID:** dk_00013563
+a) Nội dung kê khai trong hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã là giả mạo;
 
----
+b) Ngừng hoạt động trên 12 tháng mà không thông báo cho cơ quan đăng ký kinh doanh và cơ quan thuế;
 
+c) Sau 12 tháng mà hợp tác xã, liên hiệp hợp tác xã không gửi báo cáo về việc tuân thủ theo quy định của Luật này theo yêu cầu của cơ quan đăng ký kinh doanh;
 
-### Điều 12.4.NĐ.3.53. Trình tự, thủ tục thu hồi Giấy chứng nhận đăng ký hợp tác xã
+d) Không đáp ứng điều kiện số lượng thành viên tối thiểu của hợp tác xã, liên hiệp hợp tác xã trong 12 tháng liên tục; không đáp ứng điều kiện số lượng thành viên tối đa là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài theo quy định của Luật này trong 06 tháng liên tục;
+
+đ) Không đáp ứng điều kiện vốn góp tối đa của thành viên hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật này trong 12 tháng liên tục;
+
+e) Không tổ chức Đại hội thành viên thường niên trong 18 tháng liên tục kể từ thời điểm tổ chức Đại hội thành viên gần nhất, trừ trường hợp bất khả kháng;
+
+g) Theo quyết định của Tòa án hoặc đề nghị của cơ quan nhà nước có thẩm quyền theo quy định của luật có liên quan.
+
+2. Chính phủ quy định trình tự, thủ tục thu hồi Giấy chứng nhận đăng ký hợp tác xã.
 
 Điều 12.4.NĐ.3.53. Trình tự, thủ tục thu hồi Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 53
+(Điều 53 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070001030000000000000000000402880900920005300
+1. Trường hợp nội dung kê khai trong hồ sơ đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã là giả mạo, cơ quan đăng ký kinh doanh cấp huyện ra thông báo về hành vi vi phạm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này và ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này trong thời hạn 03 ngày làm việc kể từ ngày nhận được giấy tờ quy định tại khoản 2 Điều 23 Nghị định này.
 
-**ID:** dk_00013564
+2. Trường hợp hợp tác xã, liên hiệp hợp tác xã có hành vi vi phạm thuộc một trong các trường hợp quy định tại các điểm b, c, d, đ và e khoản 1 Điều 103 Luật Hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện thông báo bằng văn bản về hành vi vi phạm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này và yêu cầu người đại diện theo pháp luật đến cơ quan đăng ký kinh doanh cấp huyện để giải trình. Kết thúc thời hạn giải trình ghi trong thông báo mà người được yêu cầu không đến hoặc nội dung giải trình không được chấp thuận thì cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này trong thời hạn 03 ngày làm việc kể từ ngày kết thúc thời hạn giải trình.
 
----
+Cơ quan đăng ký kinh doanh cấp huyện có trách nhiệm phối hợp với các cơ quan quản lý nhà nước có liên quan trong việc xem xét nội dung giải trình về hành vi vi phạm của hợp tác xã, liên hiệp hợp tác xã.
 
+3. Trường hợp cơ quan đăng ký kinh doanh cấp huyện nhận được quyết định của Tòa án về thu hồi Giấy chứng nhận đăng ký hợp tác xã, trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định của Tòa án, cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này.
 
-### Điều 12.4.NĐ.3.56. Trình tự, thủ tục hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hợp tác xã
+4. Trường hợp cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản đề nghị thu hồi Giấy chứng nhận đăng ký hợp tác xã của cơ quan nhà nước có thẩm quyền theo quy định của luật có liên quan, trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị thu hồi, cơ quan đăng ký kinh doanh cấp huyện ra thông báo bằng văn bản về hành vi vi phạm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này và ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định này.
+
+5. Sau khi cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã, hợp tác xã, liên hiệp hợp tác xã phải thực hiện thủ tục giải thể theo quy định tại Điều 51 Nghị định này và chấm dứt hoạt động của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã theo quy định tại Điều 54 Nghị định này.
+
+Hợp tác xã, liên hiệp hợp tác xã bị thu hồi Giấy chứng nhận đăng ký hợp tác xã theo đề nghị của cơ quan quản lý thuế không phải thực hiện thủ tục giải thể theo quy định tại Điều 51 Nghị định này. Trường hợp này, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh sang tình trạng “Bị thu hồi do cưỡng chế về quản lý thuế” trong Cơ sở dữ liệu về đăng ký hợp tác xã.
+
+6. Trong thời hạn 03 ngày làm việc kể từ ngày cơ quan đăng ký kinh doanh cấp huyện ra thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện đăng tải thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã trên Cổng thông tin quốc gia về đăng ký doanh nghiệp và gửi thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã đến trụ sở chính của hợp tác xã, liên hiệp hợp tác xã, đồng thời gửi sang cơ quan thuế để cập nhật và phối hợp quản lý.
 
 Điều 12.4.NĐ.3.56. Trình tự, thủ tục hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hợp tác xã
 
-**Chỉ mục:** 56
+(Điều 56 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070001030000000000000000000402880900920005600
+1. Cơ quan đăng ký kinh doanh cấp huyện ra quyết định hủy bỏ quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã đồng thời khôi phục Giấy chứng nhận đăng ký hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã trong các trường hợp sau đây:
 
-**ID:** dk_00013565
+a) Cơ quan đăng ký kinh doanh cấp huyện xác định hợp tác xã, liên hiệp hợp tác xã không thuộc trường hợp bị thu hồi Giấy chứng nhận đăng ký hợp tác xã;
 
----
+b) Cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản của cơ quan quản lý thuế đề nghị khôi phục Giấy chứng nhận đăng ký hợp tác xã sau khi hợp tác xã, liên hiệp hợp tác xã bị thu hồi Giấy chứng nhận đăng ký hợp tác xã do cưỡng chế nợ thuế.
 
+2. Cơ quan đăng ký kinh doanh cấp huyện ra quyết định hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày xác định hợp tác xã, liên hiệp hợp tác xã không thuộc trường hợp bị thu hồi Giấy chứng nhận đăng ký hợp tác xã hoặc nhận được văn bản đề nghị của cơ quan quản lý thuế.
 
-### Điều 12.4.LQ.104. Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+3. Trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định hủy bỏ quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã, cơ quan đăng ký kinh doanh cấp huyện gửi quyết định đến trụ sở chính của hợp tác xã, liên hiệp hợp tác xã, đồng thời gửi thông báo về việc khôi phục Giấy chứng nhận đăng ký hợp tác xã cho cơ quan quản lý thuế, đăng tải thông báo, quyết định trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
 
 Điều 12.4.LQ.104. Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
 
-**Chỉ mục:** 104
+(Điều 104 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000700010400000000000000000
+1. Chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã chấm dứt hoạt động theo các trường hợp sau đây:
 
-**ID:** dk_00013566
+a) Hợp tác xã, liên hiệp hợp tác xã quyết định chấm dứt hoạt động của chi nhánh, văn phòng đại diện;
 
----
+b) Bị thu hồi giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo quy định của pháp luật.
 
+2. Địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã chấm dứt hoạt động theo quyết định của Giám đốc (Tổng giám đốc) của hợp tác xã, liên hiệp hợp tác xã đó.
 
-### Điều 12.4.NĐ.3.54. Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+3. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã và người đứng đầu chi nhánh, văn phòng đại diện bị chấm dứt hoạt động liên đới chịu trách nhiệm về tính trung thực và chính xác của hồ sơ chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
+
+4. Hợp tác xã, liên hiệp hợp tác xã có chi nhánh đã chấm dứt hoạt động chịu trách nhiệm thực hiện các hợp đồng, thanh toán các khoản nợ, bao gồm cả nợ thuế của chi nhánh và tiếp tục sử dụng lao động hoặc giải quyết đủ quyền lợi hợp pháp cho người lao động đã làm việc tại chi nhánh theo quy định của pháp luật.
+
+5. Chính phủ quy định chi tiết Điều này.
 
 Điều 12.4.NĐ.3.54. Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
 
-**Chỉ mục:** 54
+(Điều 54 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070001040000000000000000000402880900920005400
+1. Trước khi thông báo chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh thì hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện phải đăng ký với cơ quan thuế để hoàn thành nghĩa vụ nộp thuế theo quy định của pháp luật về thuế.
 
-**ID:** dk_00013567
+2. Trong thời hạn 10 ngày kể từ ngày quyết định chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh, hợp tác xã, liên hiệp hợp tác xã gửi hồ sơ đăng ký chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
 
----
+Hồ sơ đăng ký chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh bao gồm các giấy tờ sau đây:
 
+a) Thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh;
 
-### Điều 12.4.NĐ.3.55. Trình tự, thủ tục thu hồi, hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện
+b) Bản sao hoặc bản chính biên bản họp Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc Đại hội thành viên (đối với tổ chức quản trị rút gọn) về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện đối với trường hợp chấm dứt hoạt động chi nhánh, văn phòng đại diện;
+
+c) Bản sao hoặc bản chính quyết định của Hội đồng quản trị (đối với tổ chức quản trị đầy đủ) hoặc nghị quyết của Đại hội thành viên (đối với tổ chức quản trị rút gọn) về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện đối với trường hợp chấm dứt hoạt động chi nhánh, văn phòng đại diện.
+
+3. Sau khi tiếp nhận hồ sơ đăng ký chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh, cơ quan đăng ký kinh doanh cấp huyện gửi thông tin về việc chi nhánh, văn phòng đại diện, địa điểm kinh doanh chấm dứt hoạt động cho cơ quan thuế. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được thông tin của cơ quan đăng ký kinh doanh cấp huyện, cơ quan thuế gửi thông tin về việc hoàn thành nghĩa vụ nộp thuế của chi nhánh, văn phòng đại diện, địa điểm kinh doanh đến cơ quan đăng ký kinh doanh cấp huyện. Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ đăng ký chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh sang tình trạng đã chấm dứt hoạt động nếu không nhận được ý kiến phản đối của cơ quan thuế, đồng thời ra thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
+
+4. Việc chấm dứt hoạt động chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã ở nước ngoài thực hiện theo quy định của pháp luật nước đó. Trong thời hạn 30 ngày kể từ ngày chính thức chấm dứt hoạt động chi nhánh, văn phòng đại diện ở nước ngoài, hợp tác xã, liên hiệp hợp tác xã gửi thông báo bằng văn bản về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện của hợp tác xã, liên hiệp hợp tác xã ở nước ngoài đến cơ quan đăng ký kinh doanh cấp huyện nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính. Cơ quan đăng ký kinh doanh cấp huyện cập nhật thông tin của hợp tác xã, liên hiệp hợp tác xã trong Cơ sở dữ liệu về đăng ký hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo.
+
+5. Kết thúc thời hạn 06 tháng kể từ ngày cơ quan đăng ký kinh doanh cấp huyện thông báo tình trạng chi nhánh, văn phòng đại diện, địa điểm kinh doanh đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp mà không nhận được hồ sơ đăng ký chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh và ý kiến phản đối bằng văn bản của cơ quan quản lý thuế hoặc tổ chức, cá nhân và bên có liên quan khác, cơ quan đăng ký kinh doanh cấp huyện thực hiện chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong Cơ sở dữ liệu về đăng ký hợp tác xã, đồng thời ra thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh. Thông tin về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh được Hệ thống thông tin về đăng ký hợp tác xã truyền sang Hệ thống ứng dụng đăng ký thuế để cập nhật.
 
 Điều 12.4.NĐ.3.55. Trình tự, thủ tục thu hồi, hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện
 
-**Chỉ mục:** 55
+(Điều 55 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000070001040000000000000000000402880900920005500
+1. Chi nhánh, văn phòng đại diện bị thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện trong các trường hợp sau đây:
 
-**ID:** dk_00013568
+a) Nội dung kê khai trong hồ sơ đăng ký thành lập chi nhánh, văn phòng đại diện là giả mạo;
 
----
+b) Ngừng hoạt động trên 12 tháng mà không thông báo cho cơ quan đăng ký kinh doanh cấp huyện và cơ quan thuế;
 
+c) Theo quyết định của Tòa án;
 
-### Điều 12.4.LQ.105. Kiểm toán nội bộ
+d) Theo đề nghị của cơ quan nhà nước có thẩm quyền theo quy định của luật có liên quan.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp nội dung kê khai trong hồ sơ đăng ký thành lập chi nhánh, văn phòng đại diện là giả mạo, cơ quan đăng ký kinh doanh cấp huyện ra thông báo về hành vi vi phạm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này và ra quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này trong thời hạn 03 ngày làm việc kể từ ngày nhận được giấy tờ quy định tại khoản 2 Điều 23 Nghị định này.
 
-**Chỉ mục:** 105
+3. Trường hợp chi nhánh, văn phòng đại diện ngừng hoạt động trên 12 tháng mà không thông báo cho cơ quan đăng ký kinh doanh cấp huyện và cơ quan thuế thì cơ quan đăng ký kinh doanh cấp huyện thông báo bằng văn bản về hành vi vi phạm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này và yêu cầu người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã đến cơ quan đăng ký kinh doanh cấp huyện để giải trình. Kết thúc thời hạn giải trình ghi trong thông báo mà người được yêu cầu không đến hoặc nội dung giải trình không được chấp thuận thì cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này trong thời hạn 03 ngày làm việc kể từ ngày kết thúc thời hạn giải trình. Cơ quan đăng ký kinh doanh cấp huyện có trách nhiệm phối hợp với cơ quan quản lý nhà nước có liên quan trong việc xem xét nội dung giải trình của người đại diện theo pháp luật.
 
-**Mã phân cấp:** 1200400000000000800010500000000000000000
+4. Trường hợp cơ quan đăng ký kinh doanh cấp huyện nhận được quyết định của Tòa án về thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định của Tòa án, cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**ID:** dk_00013570
+5. Trường hợp cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản đề nghị thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện của cơ quan nhà nước có thẩm quyền theo quy định của luật có liên quan, trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị thu hồi, cơ quan đăng ký kinh doanh cấp huyện thực hiện thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo trình tự, thủ tục quy định tại khoản 2 Điều này.
 
----
+6. Cơ quan đăng ký kinh doanh cấp huyện ban hành quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện đồng thời ra thông báo về việc chi nhánh, văn phòng đại diện đang làm thủ tục chấm dứt hoạt động, cập nhật tình trạng pháp lý của chi nhánh, văn phòng đại diện sang tình trạng đang làm thủ tục chấm dứt hoạt động, trừ trường hợp chi nhánh, văn phòng đại diện bị thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện để thực hiện biện pháp cưỡng chế nợ thuế theo đề nghị của cơ quan quản lý thuế. Trong thời hạn 03 ngày làm việc kể từ ngày ra thông báo vi phạm, quyết định thu hồi, thông báo tình trạng chi nhánh, văn phòng đại diện đang làm thủ tục chấm dứt hoạt động, cơ quan đăng ký kinh doanh cấp huyện đăng tải thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện và thông báo về việc chi nhánh, văn phòng đại diện đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp, gửi thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện đến trụ sở chính của hợp tác xã, liên hiệp hợp tác xã, đồng thời gửi sang cơ quan thuế để cập nhật và phối hợp quản lý.
 
+7. Sau khi cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, hợp tác xã, liên hiệp hợp tác xã phải thực hiện thủ tục chấm dứt hoạt động chi nhánh, văn phòng đại diện theo quy định tại Điều 54 Nghị định này.
 
-### Điều 12.4.LQ.106. Kiểm toán độc lập
+8. Cơ quan đăng ký kinh doanh cấp huyện ra quyết định hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện theo trình tự, thủ tục quy định tại Điều 56 Nghị định này.
 
-*Nội dung chưa có sẵn*
+Chương VIII
 
-**Chỉ mục:** 106
+KIỂM TOÁN HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
 
-**Mã phân cấp:** 1200400000000000800010600000000000000000
+Điều 12.4.LQ.105. Kiểm toán nội bộ
 
-**ID:** dk_00013571
+(Điều 105 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
----
+1. Hợp tác xã, liên hiệp hợp tác xã hoạt động trong lĩnh vực tài chính, ngân hàng thực hiện kiểm toán nội bộ theo quy định của [Luật Các tổ chức tín dụng](https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Luat-cac-to-chuc-tin-dung-2010-108079.aspx).
 
+2. Nhà nước khuyến khích hợp tác xã, liên hiệp hợp tác xã không hoạt động trong lĩnh vực quy định tại khoản 1 Điều này thực hiện kiểm toán nội bộ theo quy định của pháp luật về kiểm toán nội bộ.
 
-### Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác
+Điều 12.4.LQ.106. Kiểm toán độc lập
+
+(Điều 106 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Hợp tác xã, liên hiệp hợp tác xã phải có báo cáo tài chính năm được kiểm toán bởi tổ chức kiểm toán độc lập, bao gồm:
+
+a) Hợp tác xã có quy mô lớn;
+
+b) Liên hiệp hợp tác xã từ 10 thành viên trở lên;
+
+c) Hợp tác xã, liên hiệp hợp tác xã đề nghị thụ hưởng các chính sách của Nhà nước theo quy định của chính sách đó;
+
+d) Quỹ hỗ trợ phát triển hợp tác xã hoạt động theo mô hình hợp tác xã.
+
+2. Tần suất thực hiện kiểm toán độc lập báo cáo tài chính:
+
+a) Hợp tác xã, liên hiệp hợp tác xã quy định tại điểm a và điểm b khoản 1 Điều này phải kiểm toán báo cáo tài chính theo tần suất do Điều lệ quy định nhưng tối thiểu 02 năm phải kiểm toán một lần;
+
+b) Hợp tác xã, liên hiệp hợp tác xã quy định tại điểm c khoản 1 Điều này thực hiện theo yêu cầu của Điều lệ, cơ quan nhà nước có thẩm quyền và quy định của pháp luật;
+
+c) Hợp tác xã, liên hiệp hợp tác xã quy định tại điểm d khoản 1 Điều này phải kiểm toán báo cáo tài chính hằng năm.
+
+3. Hợp tác xã, liên hiệp hợp tác xã thực hiện kiểm toán tuân thủ, kiểm toán hoạt động theo yêu cầu của Đại hội thành viên hoặc khi có yêu cầu của cơ quan nhà nước có thẩm quyền.
+
+Chương IX
+
+TỔ HỢP TÁC
 
 Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác
 
-**Chỉ mục:** 107
+(Điều 107 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000900010700000000000000000
+1. Việc thành lập, tổ chức, hoạt động của tổ hợp tác được thực hiện trên cơ sở hợp đồng hợp tác theo quy định của pháp luật dân sự.
 
-**ID:** dk_00013573
+2. Tổ hợp tác khi có góp vốn và hợp đồng hợp tác không xác định thời hạn hoặc có thời hạn từ 12 tháng trở lên hoặc tổ hợp tác đề nghị thụ hưởng chính sách của Nhà nước phải đăng ký tại cơ quan đăng ký kinh doanh; khuyến khích tổ hợp tác khác đăng ký.
 
----
+3. Tổ hợp tác có quyền sau đây:
 
+a) Có tên riêng;
 
-### Điều 12.4.NĐ.1.4. Nguyên tắc tổ chức và hoạt động của tổ hợp tác
+b) Kinh doanh những ngành, nghề mà pháp luật không cấm; được quyền kinh doanh ngành, nghề kinh doanh có điều kiện theo quy định của pháp luật;
+
+c) Hợp tác kinh doanh với cá nhân, tổ chức để mở rộng hoạt động sản xuất, kinh doanh theo quy định của pháp luật;
+
+d) Mở và sử dụng tài khoản thanh toán tại tổ chức cung ứng dịch vụ thanh toán theo quy định của pháp luật có liên quan;
+
+đ) Xác lập và thực hiện các giao dịch dân sự;
+
+e) Được hưởng chính sách của Nhà nước khi có đủ điều kiện;
+
+g) Quyền khác theo quy định của pháp luật và hợp đồng hợp tác.
+
+4. Tổ hợp tác có nghĩa vụ sau đây:
+
+a) Bảo đảm quyền, lợi ích hợp pháp, chính đáng của thành viên, người lao động, cá nhân và tổ chức có liên quan;
+
+b) Thực hiện đầy đủ, kịp thời nghĩa vụ đối với thành viên, cá nhân, tổ chức có liên quan;
+
+c) Nghĩa vụ khác theo quy định của pháp luật và hợp đồng hợp tác.
+
+5. Chính phủ quy định chi tiết các khoản 1, 2, 3 và 4 Điều này.
+
+6. Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác.
+
+(Điều này có nội dung liên quan đến Điều 21. Thông báo yêu cầu sửa đổi, bổ sung hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.4. Nguyên tắc áp dụng giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.5. Cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.7. Nhiệm vụ, quyền hạn của cơ quan đăng ký kinh doanh cấp huyện; Điều 12.4.NĐ.3.9. Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh; Điều 12.4.NĐ.3.10. Kê khai thông tin cá nhân trong thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.11. Số lượng hồ sơ và ngôn ngữ sử dụng trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.12. Ủy quyền thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.13. Ghi ngành, nghề kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.14. Mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.17. Tên trùng và tên gây nhầm lẫn của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.18. Xử lý đối với trường hợp tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp; Điều 12.4.NĐ.3.19. Tiếp nhận, xử lý hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã theo phương thức nộp hồ sơ trực tiếp tại cơ quan đăng ký kinh doanh cấp huyện và đăng ký qua dịch vụ bưu chính; Điều 12.4.NĐ.3.20. Cấp đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng; Điều 12.4.NĐ.3.23. Xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo; Điều 12.4.NĐ.3.24. Xử lý các trường hợp thực hiện không đúng quy định về hồ sơ, trình tự, thủ tục hoặc nội dung kê khai trong hồ sơ đăng ký thay đổi là giả mạo hoặc nội dung kê khai trong hồ sơ không trung thực, không chính xác; Điều 12.4.NĐ.3.25. Chuẩn hóa, chuyển đổi dữ liệu đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.26. Hiệu đính, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.28. Tình trạng pháp lý của tổ hợp tác, tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.29. Công khai thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Điều 12.4.NĐ.3.30. Đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử; Điều 12.4.NĐ.3.31. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử; Điều 12.4.NĐ.3.32. Trình tự, thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử sử dụng chữ ký số; Điều 12.4.NĐ.3.33. Các trường hợp cơ quan đăng ký kinh doanh cấp huyện từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã)
 
 Điều 12.4.NĐ.1.4. Nguyên tắc tổ chức và hoạt động của tổ hợp tác
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770000400
+1. Tổ hợp tác hoạt động trên cơ sở hợp đồng hợp tác.
 
-**ID:** dk_00013574
+2. Cá nhân, pháp nhân tự nguyện thành lập, gia nhập và rút khỏi tổ hợp tác.
 
----
+3. Thành viên tổ hợp tác có quyền dân chủ, bình đẳng trong việc quyết định tổ chức và hoạt động của tổ hợp tác. Quyết định theo đa số trừ trường hợp hợp đồng hợp tác, Bộ luật dân sự và pháp luật có liên quan quy định khác.
 
+4. Cùng hưởng lợi và cùng chịu trách nhiệm.
 
-### Điều 12.4.NĐ.1.5. Quyền của tổ hợp tác
+Điều 12.4.NĐ.1.5. Quyền của tổ hợp tác
 
-*Nội dung chưa có sẵn*
+(Điều 5 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Chỉ mục:** 5
+1. Tổ hợp tác có tên riêng.
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770000500
+2. Tự do hoạt động, kinh doanh trong những ngành, nghề mà luật không cấm; được quyền kinh doanh ngành, nghề kinh doanh có điều kiện kể từ khi có đủ điều kiện theo quy định của pháp luật.
 
-**ID:** dk_00013575
+3. Hợp tác kinh doanh với tổ chức, cá nhân để mở rộng hoạt động, sản xuất, kinh doanh theo quy định của pháp luật.
 
----
+4. Thực hiện mở và sử dụng tài khoản thanh toán tại tổ chức cung ứng dịch vụ thanh toán theo quy định của pháp luật có liên quan.
 
+5. Xác lập và thực hiện các giao dịch dân sự theo quy định của Nghị định này, Điều 508 của Bộ luật dân sự và pháp luật khác có liên quan.
 
-### Điều 12.4.NĐ.1.6. Nghĩa vụ của tổ hợp tác
+6. Được hưởng các chính sách ưu đãi, hỗ trợ của Nhà nước như các hợp tác xã.
 
-*Nội dung chưa có sẵn*
+7. Quyền khác theo quy định của hợp đồng hợp tác, Bộ luật dân sự và pháp luật khác có liên quan.
 
-**Chỉ mục:** 6
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.508. Xác lập, thực hiện giao dịch dân sự)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770000600
+Điều 12.4.NĐ.1.6. Nghĩa vụ của tổ hợp tác
 
-**ID:** dk_00013576
+(Điều 6 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
----
+1. Tôn trọng quyền, lợi ích hợp pháp, chính đáng của người lao động, tổ chức, cá nhân khác và thành viên.
 
+2. Thực hiện đầy đủ, kịp thời các nghĩa vụ đối với nhà nước, người lao động, tổ chức, cá nhân khác và thành viên.
 
-### Điều 12.4.NĐ.1.7. Điều kiện trở thành thành viên tổ hợp tác
+3. Thực hiện các quy định của hợp đồng hợp tác, Bộ luật dân sự và pháp luật có liên quan.
 
 Điều 12.4.NĐ.1.7. Điều kiện trở thành thành viên tổ hợp tác
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770000700
+Thành viên tổ hợp tác phải đáp ứng các điều kiện sau đây:
 
-**ID:** dk_00013577
+1. Cá nhân là công dân Việt Nam, có năng lực hành vi dân sự phù hợp theo quy định từ Điều 16 đến Điều 24 Bộ luật dân sự, quy định của Bộ luật lao động và pháp luật khác có liên quan.
 
----
+2. Tổ chức là pháp nhân Việt Nam, thành lập và hoạt động theo quy định của pháp luật Việt Nam, có năng lực pháp luật phù hợp với lĩnh vực kinh doanh của tổ hợp tác.
 
+3. Tự nguyện gia nhập và chấp thuận nội dung hợp đồng hợp tác.
 
-### Điều 12.4.NĐ.1.8. Quyền của thành viên tổ hợp tác
+4. Cam kết đóng góp tài sản, công sức theo quy định của hợp đồng hợp tác.
 
-*Nội dung chưa có sẵn*
+5. Điều kiện khác theo quy định của hợp đồng hợp tác.
 
-**Chỉ mục:** 8
+(Điều này có nội dung liên quan đến Mục 1 NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN; Điều 9.1.LQ.16. Năng lực pháp luật dân sự của cá nhân; Điều 9.1.LQ.17. Nội dung năng lực pháp luật dân sự của cá nhân; Điều 9.1.LQ.18. Không hạn chế năng lực pháp luật dân sự của cá nhân; Điều 9.1.LQ.19. Năng lực hành vi dân sự của cá nhân; Điều 9.1.LQ.20. Người thành niên; Điều 9.1.LQ.21. Người chưa thành niên; Điều 9.1.LQ.22. Mất năng lực hành vi dân sự; Điều 9.1.LQ.23. Người có khó khăn trong nhận thức, làm chủ hành vi; Điều 9.1.LQ.24. Hạn chế năng lực hành vi dân sự)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770000800
+Điều 12.4.NĐ.1.8. Quyền của thành viên tổ hợp tác
 
-**ID:** dk_00013578
+(Điều 8 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
----
+1. Được hưởng hoa lợi, lợi tức thu được từ hoạt động của tổ hợp tác.
 
+2. Tham gia quyết định các vấn đề liên quan đến việc thực hiện hợp đồng hợp tác, quản lý, giám sát hoạt động của tổ hợp tác.
 
-### Điều 12.4.NĐ.1.9. Nghĩa vụ của thành viên tổ hợp tác
+3. Rút khỏi tổ hợp tác khi có lý do chính đáng và được sự đồng ý của hơn năm mươi phần trăm (50%) tổng số thành viên tổ hợp tác hoặc theo điều kiện đã thỏa thuận trong hợp đồng hợp tác.
+
+4. Các quyền khác theo quy định của hợp đồng hợp tác và pháp luật có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.507. Quyền, nghĩa vụ của thành viên hợp tác)
 
 Điều 12.4.NĐ.1.9. Nghĩa vụ của thành viên tổ hợp tác
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770000900
+1. Tham gia quyết định các vấn đề liên quan đến thực hiện hợp đồng hợp tác, giám sát hoạt động của tổ hợp tác.
 
-**ID:** dk_00013579
+2. Bồi thường thiệt hại do lỗi của mình gây ra.
 
----
+3. Thực hiện các quy định trong hợp đồng hợp tác theo nguyên tắc bình đẳng, cùng có lợi và bảo đảm lợi ích chung của tổ hợp tác.
 
+4. Góp đủ và đúng thời hạn tài sản, công sức đã cam kết tại hợp đồng hợp tác.
 
-### Điều 12.4.NĐ.1.10. Quy trình bổ sung thành viên tổ hợp tác
+5. Thực hiện các nghĩa vụ khác theo quy định của hợp đồng hợp tác và pháp luật có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.103. Trách nhiệm dân sự của thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân; Điều 9.1.LQ.104. Hậu quả pháp lý đối với giao dịch dân sự do thành viên không có quyền đại diện hoặc vượt quá phạm vi đại diện xác lập, thực hiện; Điều 9.1.LQ.507. Quyền, nghĩa vụ của thành viên hợp tác; Điều 9.1.LQ.508. Xác lập, thực hiện giao dịch dân sự; Điều 9.1.LQ.509. Trách nhiệm dân sự của thành viên hợp tác)
 
 Điều 12.4.NĐ.1.10. Quy trình bổ sung thành viên tổ hợp tác
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 77/2019/NĐ-CP Về tổ hợp tác ngày 10/10/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001000
+Thành viên tổ hợp tác tự thỏa thuận quy trình, điều kiện bổ sung thành viên và ghi vào hợp đồng hợp tác. Trong trường hợp hợp đồng hợp tác không quy định, thành viên tổ hợp tác được bổ sung theo quy trình sau:
 
-**ID:** dk_00013580
+1. Cá nhân, pháp nhân đáp ứng các điều kiện quy định tại Điều 7 của Nghị định này, có nguyện vọng gia nhập tổ hợp tác, viết đơn hoặc thể hiện nguyện vọng trực tiếp với tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền).
 
----
+2. Tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) tổ chức lấy ý kiến thành viên tổ hợp tác, trực tiếp hoặc gián tiếp, về vấn đề bổ sung thành viên tổ hợp tác.
 
+3. Cá nhân, pháp nhân được công nhận tư cách thành viên tổ hợp tác khi được hơn năm mươi phần trăm (50%) tổng số thành viên tổ hợp tác đồng ý bổ sung và ghi tên vào hợp đồng hợp tác.
 
-### Điều 12.4.NĐ.1.11. Chấm dứt tư cách thành viên tổ hợp tác
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.512. Chấm dứt hợp đồng hợp tác)
 
 Điều 12.4.NĐ.1.11. Chấm dứt tư cách thành viên tổ hợp tác
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001100
+1. Tư cách thành viên tổ hợp tác bị chấm dứt khi xảy ra một trong các trường hợp sau:
 
-**ID:** dk_00013581
+a) Tổ hợp tác chấm dứt hoạt động theo quy định tại Điều 14 của Nghị định này;
 
----
+b) Thành viên tổ hợp tác là cá nhân chết, hoặc bị tòa án tuyên bố là đã chết, trừ trường hợp quy định tại điểm a khoản 1 Điều 27 của Nghị định này;
 
+c) Thành viên tổ hợp tác là pháp nhân chấm dứt tồn tại, trừ trường hợp quy định tại khoản 4 Điều 27 của Nghị định này;
 
-### Điều 12.4.NĐ.1.12. Thành lập tổ hợp tác
+d) Thành viên tổ hợp tác tự nguyện rút khỏi tổ hợp tác theo quy định tại khoản 3 Điều 8 của Nghị định này;
 
-*Nội dung chưa có sẵn*
+đ) Thành viên tổ hợp tác vi phạm nghiêm trọng quy định của hợp đồng hợp tác và pháp luật khác có liên quan.
 
-**Chỉ mục:** 12
+2. Thành viên tổ hợp tác tự thỏa thuận về thẩm quyền quyết định, quy trình chấm dứt tư cách thành viên tổ hợp tác và ghi vào hợp đồng hợp tác. Trong trường hợp hợp đồng hợp tác không quy định cụ thể, việc chấm dứt tư cách thành viên tổ hợp tác đối với các trường hợp quy định tại điểm d và điểm đ khoản 1 Điều này được thực hiện như sau:
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001200
+a) Tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) tổng hợp và đề xuất danh sách các thành viên tổ hợp tác bị chấm dứt tư cách thành viên tại cuộc họp thành viên gần nhất để các thành viên tổ hợp tác xem xét, quyết định;
 
-**ID:** dk_00013582
+b) Tư cách thành viên tổ hợp tác sẽ bị chấm dứt nếu có hơn năm mươi phần trăm (50%) tổng số thành viên tổ hợp tác tán thành và được ghi vào biên bản cuộc họp, ghi cụ thể tỷ lệ phần trăm (%) số thành viên tán thành;
 
----
+c) Tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) thay mặt tổ hợp tác thông báo cho toàn thể thành viên tổ hợp tác về việc chấm dứt tư cách thành viên, gạch tên thành viên ra khỏi tổ hợp tác trong thời hạn 05 ngày làm việc kể từ ngày tổ chức cuộc họp thành viên tổ hợp tác.
 
+3. Quyền và nghĩa vụ của các thành viên tổ hợp tác bị chấm dứt tư cách thành viên được các thành viên tự thỏa thuận và ghi trong hợp đồng hợp tác. Trường hợp hợp đồng hợp tác không quy định thì thực hiện theo quy định tại Điều 26 Nghị định này.
 
-### Điều 12.4.NĐ.1.13. Tên, biểu tượng tổ hợp tác
+4. Trường hợp thành viên tổ hợp tác bị chấm dứt tư cách thành viên theo quy định tại điểm đ khoản 1 Điều này thì được xác định là bên vi phạm hợp đồng và phải thực hiện trách nhiệm dân sự theo quy định của Bộ luật dân sự, luật khác có liên quan.
 
-*Nội dung chưa có sẵn*
+5. Việc chấm dứt tư cách thành viên tổ hợp tác không làm chấm dứt quyền, nghĩa vụ của cá nhân, pháp nhân này được xác lập, thực hiện trước thời điểm rút khỏi hợp đồng hợp tác.
 
-**Chỉ mục:** 13
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.510. Rút khỏi hợp đồng hợp tác)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001300
+Điều 12.4.NĐ.1.12. Thành lập tổ hợp tác
 
-**ID:** dk_00013583
+(Điều 12 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
----
+1. Việc thành lập tổ hợp tác do các cá nhân, pháp nhân có nhu cầu đứng ra vận động thành lập và tổ chức hoạt động.
 
+2. Các nội dung chính về thành lập và tổ chức, hoạt động tổ hợp tác được các thành viên tổ hợp tác bàn bạc và thống nhất, ghi vào hợp đồng hợp tác.
 
-### Điều 12.4.NĐ.1.14. Chấm dứt hoạt động của tổ hợp tác
+3. Sau khi các thành viên tổ hợp tác ký tên vào hợp đồng hợp tác, tổ trưởng tổ hợp tác gửi thông báo về việc thành lập tổ hợp tác (Mẫu I.01) kèm theo hợp đồng hợp tác (Mẫu I.02) đến Ủy ban nhân dân cấp xã nơi tổ hợp tác dự định thành lập và hoạt động trong thời hạn 05 ngày làm việc.
+
+4. Trường hợp tổ hợp tác thay đổi một hoặc một số nội dung về tên, địa chỉ, ngành, nghề sản xuất kinh doanh, tổng giá trị phần đóng góp, người đại diện, số lượng thành viên của tổ hợp tác thì tổ hợp tác gửi thông báo (Mẫu I.01) tới Ủy ban nhân dân cấp xã nơi tổ hợp tác thành lập và hoạt động trong thời hạn 05 ngày làm việc kể từ khi thay đổi.
+
+5. Ủy ban nhân dân cấp xã lập sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác trên địa bàn của mình (Mẫu II.01); cập nhật các thay đổi và biến động của tổ hợp tác theo quy định của pháp luật.
+
+Phu luc kem theo Nghi dinh so 77_2019_ND-CP.doc
+
+Điều 12.4.NĐ.1.13. Tên, biểu tượng tổ hợp tác
+
+(Điều 13 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
+
+1. Tổ hợp tác có quyền chọn tên, biểu tượng của mình phù hợp với quy định tại khoản 2 Điều này và không trùng lặp với tên, biểu tượng của tổ hợp tác khác trong địa bàn cấp xã.
+
+2. Tên của tổ hợp tác chỉ bao gồm hai thành tố sau đây:
+
+a) Loại hình “Tổ hợp tác”;
+
+b) Tên riêng của tổ hợp tác. Tên riêng được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ F, J, Z, W, có thể kèm theo chữ số, ký hiệu. Không được sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc để đặt tên riêng cho tổ hợp tác. Không được sử dụng các cụm từ gây nhầm lẫn với các loại hình tổ chức khác theo quy định của pháp luật Việt Nam để đặt tên tổ hợp tác.
 
 Điều 12.4.NĐ.1.14. Chấm dứt hoạt động của tổ hợp tác
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001400
+1. Tổ hợp tác chấm dứt hoạt động trong trường hợp sau đây:
 
-**ID:** dk_00013584
+a) Hết thời hạn ghi trong hợp đồng hợp tác;
 
----
+b) Mục đích hợp tác đã đạt được;
 
+c) Không duy trì số lượng thành viên tối thiểu theo quy định tại khoản 1 Điều 3 của Nghị định này;
 
-### Điều 12.4.NĐ.1.15. Xử lý tài sản chung của các thành viên tổ hợp tác, tài chính của tổ hợp tác sau khi chấm dứt hoạt động
+d) Theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+đ) Theo quy định của hợp đồng hợp tác và pháp luật có liên quan;
+
+e) Theo thỏa thuận của các thành viên tổ hợp tác.
+
+2. Việc chấm dứt hoạt động của tổ hợp tác theo quy định tại điểm e khoản 1 Điều này phải được một trăm phần trăm (100%) tổng số thành viên tổ hợp tác tán thành, thể hiện bằng biên bản họp tổ hợp tác, có chữ ký xác nhận của tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) và các thành viên tổ hợp tác, trừ trường hợp hợp đồng hợp tác quy định khác.
+
+3. Trong thời hạn 05 ngày làm việc, kể từ ngày chấm dứt hoạt động, tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) gửi thông báo bằng văn bản về việc chấm dứt hoạt động (Mẫu I.03), kèm biên bản cuộc họp thành viên tổ hợp tác đến cho Ủy ban nhân dân cấp xã nơi tổ hợp tác hoạt động.
+
+Phu luc kem theo Nghi dinh so 77_2019_ND-CP.doc
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.512. Chấm dứt hợp đồng hợp tác)
 
 Điều 12.4.NĐ.1.15. Xử lý tài sản chung của các thành viên tổ hợp tác, tài chính của tổ hợp tác sau khi chấm dứt hoạt động
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001500
+1. Đối với các trường hợp chấm dứt hoạt động theo quy định tại khoản 1 Điều 14 của Nghị định này, tổ hợp tác phải thực hiện các nghĩa vụ tài chính hoặc nghĩa vụ tài sản khác phát sinh trong quá trình hoạt động của tổ hợp tác bằng tài sản chung của các thành viên tổ hợp tác.
 
-**ID:** dk_00013585
+2. Trường hợp tài sản chung của thành viên tổ hợp tác không đủ để thanh toán các nghĩa vụ tài chính hoặc nghĩa vụ tài sản khác thì các thành viên tổ hợp tác có trách nhiệm thanh toán các nghĩa vụ này bằng tài sản riêng theo phần tương ứng với phần đóng góp của mình, trừ trường hợp hợp đồng hợp tác hoặc pháp luật có liên quan quy định khác.
 
----
+3. Đối với các tài sản hình thành từ nguồn hỗ trợ, ưu đãi của Nhà nước hoặc được tặng, cho bởi cá nhân, tổ chức khác mà theo yêu cầu của Nhà nước hoặc bên tặng, cho, tổ hợp tác không có quyền định đoạt phần tài sản này, thì khi chấm dứt hoạt động, tổ hợp tác phải bàn giao cho Ủy ban nhân cấp xã nơi tổ hợp tác hoạt động hoặc cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật và phải được ghi vào hợp đồng hợp tác, trừ trường hợp các bên có thỏa thuận khác.
 
+4. Trường hợp sau khi đã thanh toán xong các nghĩa vụ tài chính hoặc nghĩa vụ tài sản khác mà tài sản chung của các thành viên tổ hợp tác vẫn còn thì tài sản còn lại được chia cho các thành viên tổ hợp tác theo tỷ lệ tương ứng với phần đóng góp vào tổ của mỗi thành viên theo quy định của hợp đồng hợp tác, trừ trường hợp pháp luật có liên quan hoặc các thành viên có thỏa thuận khác.
 
-### Điều 12.4.NĐ.1.16. Đại diện trong xác lập, thực hiện giao dịch
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.102. Tài sản chung của các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân; Điều 9.1.LQ.506. Tài sản chung của các thành viên hợp tác)
 
 Điều 12.4.NĐ.1.16. Đại diện trong xác lập, thực hiện giao dịch
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001600
+1. Đại diện của tổ hợp tác trong xác lập, thực hiện giao dịch dân sự là cá nhân hoặc pháp nhân được các thành viên tổ hợp tác đồng ý ủy quyền xác lập và thực hiện giao dịch dân sự.
 
-**ID:** dk_00013586
+2. Nội dung, thời hạn và phạm vi của người đại diện theo ủy quyền của các thành viên tổ hợp tác do các thành viên tự thỏa thuận và phải được lập thành văn bản trừ trường hợp pháp luật có liên quan quy định khác, có chữ ký của người được ủy quyền và một trăm phần trăm (100%) tổng số thành viên tổ hợp tác.
 
----
+3. Trong trường hợp cần thiết, tổ hợp tác có trách nhiệm thông báo với các bên liên quan về người đại diện theo ủy quyền của các thành viên tổ hợp tác, nội dung, thời hạn và phạm vi đại diện.
 
+4. Người đại diện và các thành viên tổ hợp tác phải tuân thủ các quy định về đại diện từ Điều 138 đến Điều 143 của Bộ luật dân sự và pháp luật khác có liên quan.
 
-### Điều 12.4.NĐ.1.17. Cơ chế điều hành hoạt động của tổ hợp tác
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.101. Chủ thể trong quan hệ dân sự có sự tham gia của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân; Điều 9.1.LQ.103. Trách nhiệm dân sự của thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân; Điều 9.1.LQ.104. Hậu quả pháp lý đối với giao dịch dân sự do thành viên không có quyền đại diện hoặc vượt quá phạm vi đại diện xác lập, thực hiện; Điều 9.1.LQ.138. Đại diện theo ủy quyền; Điều 9.1.LQ.139. Hậu quả pháp lý của hành vi đại diện; Điều 9.1.LQ.140. Thời hạn đại diện; Điều 9.1.LQ.141. Phạm vi đại diện; Điều 9.1.LQ.142. Hậu quả của giao dịch dân sự do người không có quyền đại diện xác lập, thực hiện; Điều 9.1.LQ.508. Xác lập, thực hiện giao dịch dân sự; Điều 9.1.LQ.509. Trách nhiệm dân sự của thành viên hợp tác)
 
 Điều 12.4.NĐ.1.17. Cơ chế điều hành hoạt động của tổ hợp tác
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001700
+1. Trong trường hợp cần thiết, tổ hợp tác có thể bầu tổ trưởng tổ hợp tác, ban điều hành và tổ chức các cuộc họp thành viên để điều hành các hoạt động của tổ hợp tác.
 
-**ID:** dk_00013587
+2. Quyền hạn, trách nhiệm của tổ trưởng, ban điều hành tổ hợp tác (nếu có) phải được quy định trong hợp đồng hợp tác. Trường hợp hợp đồng hợp tác không quy định, tổ trưởng, ban điều hành tổ hợp tác được thực hiện theo quy định tại Điều 18 và Điều 19 Nghị định này.
 
----
+Điều 12.4.NĐ.1.18. Tổ trưởng tổ hợp tác
 
+(Điều 18 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-### Điều 12.4.NĐ.1.18. Tổ trưởng tổ hợp tác
+1. Tổ trưởng tổ hợp tác được bầu trong số các thành viên tổ hợp tác, tại cuộc họp thành viên tổ hợp tác khi được hơn năm mươi phần trăm (50%) tổng số thành viên tán thành, trừ trường hợp hợp đồng hợp tác quy định khác.
 
-*Nội dung chưa có sẵn*
+2. Tổ trưởng tổ hợp tác tổ chức, điều hành hoạt động của tổ hợp tác theo phạm vi, nhiệm vụ được quy định trong hợp đồng hợp tác.
 
-**Chỉ mục:** 18
+3. Tổ trưởng tổ hợp tác phải đáp ứng các điều kiện ghi trong hợp đồng hợp tác, không trái với các quy định pháp luật.
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001800
+4. Tổ trưởng tổ hợp tác là người đại diện trong xác lập, thực hiện giao dịch khi được các thành viên tổ hợp tác ủy quyền theo quy định tại Điều 16 của Nghị định này.
 
-**ID:** dk_00013588
+Điều 12.4.NĐ.1.19. Ban điều hành tổ hợp tác
 
----
+(Điều 19 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
+1. Thành viên ban điều hành tổ hợp tác được bầu từ các thành viên tổ hợp tác, tại cuộc họp thành viên tổ hợp tác và được hơn năm mươi phần trăm (50%) tổng số thành viên tán thành, số lượng thành viên ban điều hành là số lẻ, do tổ hợp tác tự quy định.
 
-### Điều 12.4.NĐ.1.19. Ban điều hành tổ hợp tác
+2. Ban điều hành chịu trách nhiệm thực hiện một số nhiệm vụ quản lý, điều hành tổ hợp tác theo sự phân công của tổ trưởng tổ hợp tác và phải được các thành viên tán thành.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.1.20. Cuộc họp thành viên tổ hợp tác
 
-**Chỉ mục:** 19
+(Điều 20 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770001900
+1. Tổ hợp tác tự quyết định số lần họp tổ hợp tác nhưng ít nhất phải tiến hành cuộc họp thành viên một năm một lần.
 
-**ID:** dk_00013589
+Cuộc họp thành viên tổ hợp tác có thể quyết định các vấn đề sau đây:
 
----
+a) Thông qua kết quả hoạt động của tổ hợp tác;
 
+b) Phương án phân phối hoa lợi, lợi tức, xử lý lỗ và các vấn đề tài chính của tổ hợp tác;
 
-### Điều 12.4.NĐ.1.20. Cuộc họp thành viên tổ hợp tác
+c) Phương án hoạt động trong thời gian tới;
 
-*Nội dung chưa có sẵn*
+d) Xử lý tài sản chung của các thành viên tổ hợp tác;
 
-**Chỉ mục:** 20
+đ) Bầu, bãi nhiệm, miễn nhiệm tổ trưởng, ban điều hành, nếu cần thiết;
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002000
+e) Chấm dứt tư cách thành viên theo quy định tại điểm d và điểm đ khoản 1 Điều 11 của Nghị định này;
 
-**ID:** dk_00013590
+g) Sửa đổi, bổ sung hợp đồng hợp tác;
 
----
+h) Mức thù lao, tiền thưởng của tổ trưởng, thành viên ban điều hành (nếu có);
 
+i) Nội dung khác do tổ trưởng, ban điều hành hoặc hơn ba mươi ba phần trăm (33%) tổng số thành viên tổ hợp tác đề nghị;
 
-### Điều 12.4.NĐ.1.21. Biểu quyết trong tổ hợp tác
+k) Trường hợp khác theo quy định tại hợp đồng hợp tác.
 
-*Nội dung chưa có sẵn*
+2. Trình tự triệu tập cuộc họp thành viên tổ hợp tác
 
-**Chỉ mục:** 21
+Trong trường hợp hợp đồng hợp tác không quy định cụ thể, trình tự triệu tập cuộc họp thành viên tổ hợp tác được thực hiện như sau:
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002100
+a) Tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) thay mặt tổ hợp tác triệu tập cuộc họp thành viên. Trong trường hợp cần thiết, đại diện của hơn ba mươi ba phần trăm (33%) tổng số thành viên tổ hợp tác có thể yêu cầu tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) triệu tập cuộc họp thành viên, trừ trường hợp hợp đồng hợp tác và pháp luật có liên quan quy định khác;
 
-**ID:** dk_00013591
+b) Cuộc họp thành viên tổ hợp tác được tiến hành khi có hơn bảy mươi lăm phần trăm (75%) tổng số thành viên tổ hợp tác tham dự, trường hợp không đủ số thành viên tham dự thì phải hoãn họp tổ hợp tác và triệu tập họp tổ hợp tác lần thứ hai trong vòng 15 ngày làm việc, kể từ ngày dự định họp tổ hợp tác lần thứ nhất. Cuộc họp tổ hợp tác lần thứ hai phải có sự tham gia của tối thiểu hơn năm mươi phần trăm (50%) tổng số thành viên tổ hợp tác;
 
----
+c) Biên bản cuộc họp thành viên tổ hợp tác phải được lập thành văn bản có chữ ký xác nhận của đại diện các thành viên tham gia cuộc họp, ghi cụ thể tỷ lệ phần trăm (%) số thành viên tán thành;
 
+d) Trong thời hạn 05 ngày kể từ ngày tổ chức họp, tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) thông báo tới toàn thể thành viên tổ hợp tác nội dung cuộc họp thành viên tổ hợp tác, trừ trường hợp hợp đồng hợp tác và pháp luật có liên quan quy định khác.
 
-### Điều 12.4.NĐ.1.22. Tài sản chung của các thành viên tổ hợp tác, tài chính của tổ hợp tác
+Điều 12.4.NĐ.1.21. Biểu quyết trong tổ hợp tác
+
+(Điều 21 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
+
+1. Việc sửa đổi, bổ sung hợp đồng hợp tác phải được sự tán thành của một trăm phần trăm (100%) thành viên tổ hợp tác và thể hiện bằng văn bản, trừ trường hợp hợp đồng hợp tác có quy định khác.
+
+2. Việc định đoạt tài sản chung của các thành viên tổ hợp tác là quyền sử dụng đất, nhà, xưởng sản xuất, tư liệu sản xuất chính khác; tài sản có giá trị lớn hơn năm mươi phần trăm (50%) tổng số giá trị tài sản chung của các thành viên tổ hợp tác phải được sự tán thành của một trăm phần trăm (100%) thành viên tổ hợp tác và thể hiện bằng văn bản, trừ trường hợp hợp đồng hợp tác có quy định khác.
+
+3. Các nội dung khác không thuộc quy định tại khoản 1, khoản 2 Điều này được thông qua khi có ít nhất hơn năm mươi phần trăm (50%) tổng số thành viên tổ hợp tác tán thành, trừ trường hợp hợp đồng hợp tác quy định khác.
 
 Điều 12.4.NĐ.1.22. Tài sản chung của các thành viên tổ hợp tác, tài chính của tổ hợp tác
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002200
+1. Tài sản chung của các thành viên tổ hợp tác hình thành từ các nguồn:
 
-**ID:** dk_00013592
+a) Đóng góp của thành viên tổ hợp tác bao gồm: vật, tiền, giấy tờ có giá và các quyền tài sản;
 
----
+b) Phần được trích từ hoa lợi, lợi tức sau thuế;
 
+c) Các thành viên tổ hợp tác cùng tạo lập;
 
-### Điều 12.4.NĐ.1.23. Phân chia hoa lợi, lợi tức, xử lý lỗ
+d) Hỗ trợ, ưu đãi của Nhà nước hoặc các cá nhân, tổ chức khác tài trợ, tặng, cho chung;
+
+đ) Các nguồn khác theo quy định của pháp luật.
+
+2. Việc định đoạt tài sản, tài chính của tổ hợp tác do các thành viên tổ hợp tác quyết định theo quy định tại Điều 21 Nghị định này, trừ trường hợp quy định tại khoản 3 Điều này.
+
+3. Trường hợp tổ hợp tác được Nhà nước, cá nhân, tổ chức khác trao quyền hưởng dụng tài sản thì thực hiện quyền hưởng dụng theo quy định từ Điều 257 đến Điều 266 Bộ luật dân sự.
+
+4. Tổ hợp tác thực hiện các quy định về tài chính, kế toán theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.102. Tài sản chung của các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân; Điều 9.1.LQ.257. Quyền hưởng dụng; Điều 9.1.LQ.258. Căn cứ xác lập quyền hưởng dụng; Điều 9.1.LQ.259. Hiệu lực của quyền hưởng dụng; Điều 9.1.LQ.260. Thời hạn của quyền hưởng dụng; Điều 9.1.LQ.261. Quyền của người hưởng dụng; Điều 9.1.LQ.262. Nghĩa vụ của người hưởng dụng; Điều 9.1.LQ.263. Quyền và nghĩa vụ của chủ sở hữu tài sản; Điều 9.1.LQ.264. Quyền hưởng hoa lợi, lợi tức; Điều 9.1.LQ.265. Chấm dứt quyền hưởng dụng; Điều 9.1.LQ.266. Hoàn trả tài sản khi chấm dứt quyền hưởng dụng; Điều 9.1.LQ.506. Tài sản chung của các thành viên hợp tác)
 
 Điều 12.4.NĐ.1.23. Phân chia hoa lợi, lợi tức, xử lý lỗ
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002300
+1. Căn cứ vào thỏa thuận trong hợp đồng hợp tác, tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) lập phương án phân chia hoa lợi, lợi tức, xử lý lỗ của tổ hợp tác và báo cáo thành viên tại cuộc họp toàn thể thành viên.
 
-**ID:** dk_00013593
+2. Việc phân chia hoa lợi, lợi tức và các phương án tài chính khác của tổ hợp tác được tiến hành sau khi thực hiện nghĩa vụ tài chính với Nhà nước (nếu có), nghĩa vụ với người lao động (nếu có).
 
----
-
-
-### Điều 12.4.NĐ.1.24. Phần đóng góp của thành viên tổ hợp tác
+3. Hợp đồng hợp tác quy định cụ thể việc xử lý trong trường hợp tổ hợp tác bị lỗ hoặc gặp rủi ro khác.
 
 Điều 12.4.NĐ.1.24. Phần đóng góp của thành viên tổ hợp tác
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002400
+1. Các thành viên tổ hợp tác có thể đóng góp bằng tài sản, công sức vào tổ hợp tác tùy theo thỏa thuận tại hợp đồng hợp tác. Việc xác định giá trị tài sản và công sức của thành viên tổ hợp tác góp vào tổ hợp tác do các thành viên tổ hợp tác tự thỏa thuận hoặc do bên thứ ba xác định theo sự ủy quyền của một trăm phần trăm (100%) tổng số thành viên tổ hợp tác.
 
-**ID:** dk_00013594
+2. Trường hợp thành viên tổ hợp tác cam kết đóng góp không góp đủ và không đúng hạn phần đóng góp đã cam kết thì xử lý theo quy định từ Điều 351 đến Điều 364 của Bộ luật dân sự.
 
----
+(Điều này có nội dung liên quan đến Điều 9.1.LQ.351. Trách nhiệm dân sự do vi phạm nghĩa vụ; Điều 9.1.LQ.352. Trách nhiệm tiếp tục thực hiện nghĩa vụ; Điều 9.1.LQ.353. Chậm thực hiện nghĩa vụ; Điều 9.1.LQ.354. Hoãn thực hiện nghĩa vụ; Điều 9.1.LQ.355. Chậm tiếp nhận việc thực hiện nghĩa vụ; Điều 9.1.LQ.356. Trách nhiệm do không thực hiện nghĩa vụ giao vật; Điều 9.1.LQ.357. Trách nhiệm do chậm thực hiện nghĩa vụ trả tiền; Điều 9.1.LQ.358. Trách nhiệm do không thực hiện hoặc không được thực hiện một công việc; Điều 9.1.LQ.359. Trách nhiệm do chậm tiếp nhận việc thực hiện nghĩa vụ; Điều 9.1.LQ.360. Trách nhiệm bồi thường thiệt hại do vi phạm nghĩa vụ; Điều 9.1.LQ.361. Thiệt hại do vi phạm nghĩa vụ; Điều 9.1.LQ.362. Nghĩa vụ ngăn chặn, hạn chế thiệt hại; Điều 9.1.LQ.363. Bồi thường thiệt hại trong trường hợp bên bị vi phạm có lỗi; Điều 9.1.LQ.364. Lỗi trong trách nhiệm dân sự)
 
+Điều 12.4.NĐ.1.25. Xác minh phần đóng góp
 
-### Điều 12.4.NĐ.1.25. Xác minh phần đóng góp
+(Điều 25 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-*Nội dung chưa có sẵn*
+1. Tổ hợp tác lập sổ ghi chép rõ ràng, minh bạch về việc đóng góp của thành viên tổ hợp tác, bao gồm các nội dung sau:
 
-**Chỉ mục:** 25
+a) Tên, số định danh cá nhân (hoặc số chứng minh nhân dân, số thẻ căn cước công dân) của thành viên đóng góp hoặc tên, mã số pháp nhân, địa chỉ trụ sở chính của pháp nhân và tên, số định danh cá nhân (hoặc số chứng minh nhân dân, số thẻ căn cước công dân) của người đại diện theo pháp luật của pháp nhân đóng góp;
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002500
+b) Giá trị phần đóng góp và loại tài sản đóng góp của thành viên tổ hợp tác;
 
-**ID:** dk_00013595
+c) Thời điểm đóng góp;
 
----
+d) Chữ ký của người đóng góp hoặc đại diện theo pháp luật của pháp nhân;
 
+đ) Chữ ký của tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) và thành viên tổ hợp tác được phân công nhiệm vụ tiếp nhận phần đóng góp.
 
-### Điều 12.4.NĐ.1.26. Trả lại phần đóng góp
+2. Sổ ghi chép về việc đóng góp của thành viên tổ hợp tác phải được tổ trưởng tổ hợp tác (hoặc người được các thành viên tổ hợp tác ủy quyền) lưu giữ, bảo quản và chịu trách nhiệm trước tổ hợp tác, pháp luật nếu làm mất, tẩy xóa, sai lệch thông tin.
 
-*Nội dung chưa có sẵn*
+3. Thành viên tổ hợp tác được cấp “Giấy xác nhận phần đóng góp”, nếu cần thiết, với đầy đủ thông tin như trong sổ ghi chép của tổ hợp tác tại thời điểm đóng góp.
 
-**Chỉ mục:** 26
+Điều 12.4.NĐ.1.26. Trả lại phần đóng góp
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002600
+(Điều 26 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**ID:** dk_00013596
+1. Tổ hợp tác trả lại tài sản theo tỷ lệ tương ứng với phần đóng góp cho thành viên tổ hợp tác trong các trường hợp sau:
 
----
+a) Trường hợp tổ hợp tác chấm dứt hoạt động, sau khi đã thanh toán xong các nghĩa vụ tài chính hoặc nghĩa vụ tài sản khác mà tài sản chung của các thành viên tổ hợp tác vẫn còn thi tài sản còn lại được chia cho các thành viên tổ hợp tác theo tỷ lệ tương ứng với phần đóng góp vào tổ của mỗi thành viên, trừ trường hợp hợp đồng hợp tác quy định khác.
 
+b) Trường hợp thành viên chấm dứt tư cách thành viên theo điểm d khoản 1 Điều 11 của Nghị định này và không bị xác định là bên vi phạm hợp đồng, có yêu cầu trả lại phần đóng góp, tổ hợp tác chỉ trả lại phần đóng góp khi thành viên này hoàn thành các nghĩa vụ đối với tổ hợp tác được xác lập, thực hiện trước thời điểm chấm dứt tư cách thành viên, trừ trường hợp một trăm phần trăm (100%) thành viên tổ hợp tác có thỏa thuận khác và được quy định trong hợp đồng hợp tác.
 
-### Điều 12.4.NĐ.1.27. Thừa kế, kế thừa, quản lý phần đóng góp
+c) Trường hợp khác theo quy định của hợp đồng hợp tác và pháp luật khác có liên quan.
+
+2. Việc trả lại phần đóng góp cho thành viên tổ hợp tác quy định tại điểm b và điểm c khoản 1 Điều này không được làm thay đổi quyền và nghĩa vụ của tổ hợp tác đối với các bên liên quan hoặc chấm dứt quyền, nghĩa vụ của các thành viên tổ hợp tác được xác lập, thực hiện trước thời điểm chấm dứt tư cách thành viên.
+
+3. Trường hợp việc trả lại phần đóng góp của thành viên tổ hợp tác là tài sản ảnh hưởng đến hoạt động của tổ hợp tác thì phần đóng góp được tính bằng giá trị thành tiền để trả lại cho thành viên tổ hợp tác theo khoản 1 Điều 24 của Nghị định này.
 
 Điều 12.4.NĐ.1.27. Thừa kế, kế thừa, quản lý phần đóng góp
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002700
+1. Trường hợp thành viên tổ hợp tác là cá nhân chết hoặc bị tòa án tuyên bố là đã chết thì việc thừa kế được thực hiện theo quy định về thừa kế tại Bộ luật dân sự. Việc thừa kế phần đóng góp của thành viên tại tổ hợp tác được thực hiện như sau:
 
-**ID:** dk_00013597
+a) Nếu những người thừa kế có nguyện vọng tham gia tổ hợp tác và được đa số các thành viên tổ hợp tác chấp nhận theo quy định tại Điều 10 của Nghị định này thì được tiếp tục thực hiện các quyền, nghĩa vụ theo quy định trong hợp đồng hợp tác và pháp luật khác có liên quan;
 
----
+b) Nếu những người thừa kế không muốn tham gia tổ hợp tác hoặc không đủ điều kiện tham gia tổ hợp tác thì có quyền yêu cầu trả lại phần đóng góp và được phân chia tài sản theo quy định tại Điều 26 của Nghị định này, Bộ luật dân sự và pháp luật có liên quan;
 
+c) Nếu những người thừa kế tự nguyện để lại tài sản thừa kế cho tổ hợp tác thì phần đóng góp đó được đưa vào tài sản chung của các thành viên tổ hợp tác;
 
-### Điều 12.4.NĐ.1.28. Giải quyết tranh chấp
+d) Các trường hợp khác được giải quyết theo thỏa thuận của các bên.
 
-*Nội dung chưa có sẵn*
+2. Trường hợp thành viên tổ hợp tác là cá nhân vắng mặt tại nơi cư trú hoặc bị Tòa án tuyên bố mất tích, việc quản lý phần đóng góp của cá nhân đó phải tuân theo quy định từ Điều 65 đến Điều 70 của Bộ luật dân sự.
 
-**Chỉ mục:** 28
+3. Trường hợp thành viên tổ hợp tác là người hạn chế năng lực hành vi dân sự, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi thì việc trả lại hoặc quản lý phần đóng góp thông qua người đại diện theo pháp luật của người này theo quy định tại Điều 26 của Nghị định này, pháp luật khác có liên quan hoặc theo quyết định của Tòa án.
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002800
+4. Trường hợp thành viên tổ hợp tác là pháp nhân bị chia, tách, hợp nhất, sáp nhập, chuyển đổi thì việc kế thừa phần đóng góp được thực hiện theo quy định của Luật Doanh nghiệp, Luật Hợp tác xã và pháp luật khác có liên quan.
 
-**ID:** dk_00013598
+(Điều này có nội dung liên quan đến Phần thứ tư THỪA KẾ; Điều 9.1.LQ.65. Quản lý tài sản của người vắng mặt tại nơi cư trú; Điều 9.1.LQ.66. Nghĩa vụ của người quản lý tài sản của người vắng mặt tại nơi cư trú; Điều 9.1.LQ.67. Quyền của người quản lý tài sản của người vắng mặt tại nơi cư trú; Điều 9.1.LQ.68. Tuyên bố mất tích; Điều 9.1.LQ.69. Quản lý tài sản của người bị tuyên bố mất tích; Điều 9.1.LQ.70. Huỷ bỏ quyết định tuyên bố mất tích; Điều 9.1.LQ.71. Tuyên bố chết; Chương IX TỔ CHỨC LẠI, GIẢI THỂ VÀ PHÁ SẢN DOANH NGHIỆP; Điều 12.1.LQ.53. Xử lý phần vốn góp trong một số trường hợp đặc biệt; Điều 12.1.LQ.193. Thực hiện quyền của chủ doanh nghiệp tư nhân trong một số trường hợp đặc biệt)
 
----
+Điều 12.4.NĐ.1.28. Giải quyết tranh chấp
 
+(Điều 28 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-### Điều 12.4.NĐ.1.29. Chế độ báo cáo định kỳ và quản lý nhà nước về tổ hợp tác
+1. Tranh chấp giữa các thành viên tổ hợp tác trong phạm vi của hợp đồng hợp tác được ưu tiên giải quyết tranh chấp nội bộ tại tổ hợp tác; trường hợp các thành viên tổ hợp tác không tự thương lượng được thì giải quyết tranh chấp thông qua trung gian hòa giải hoặc thực hiện theo pháp luật tố tụng tại Tòa án, trọng tài.
+
+2. Tranh chấp giữa tổ hợp tác với các tổ chức, cá nhân khác được giải quyết theo quy định của pháp luật.
 
 Điều 12.4.NĐ.1.29. Chế độ báo cáo định kỳ và quản lý nhà nước về tổ hợp tác
 
-**Chỉ mục:** 29
+(Điều 29 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402706600770002900
+Chế độ báo cáo về tình hình hoạt động của tổ hợp tác và quản lý nhà nước về tổ hợp tác được thực hiện như sau:
 
-**ID:** dk_00013599
+1. Một năm một lần trước ngày 16 tháng 12 hàng năm, tổ hợp tác báo cáo trung thực, đầy đủ, chính xác bằng văn bản tình hình hoạt động của tổ hợp tác tới Ủy ban nhân dân cấp xã nơi tổ hợp tác hoạt động theo Mẫu 1.04. Thời gian chốt số liệu báo cáo tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.
 
----
+2. Chậm nhất vào ngày 30 tháng 12 hàng năm, Ủy ban nhân dân cấp xã tổng hợp, báo cáo tình hình hoạt động của tổ hợp tác của năm trước đó trên địa bàn xã, lồng ghép với báo cáo tình hình hoạt động của hợp tác xã (nếu có) với Ủy ban nhân dân cấp huyện theo mẫu quy định tại Mẫu II.02.
 
+3. Chậm nhất vào ngày 15 tháng 01 hàng năm, Ủy ban nhân dân cấp huyện tổng hợp, báo cáo tình hình hoạt động của tổ hợp tác của năm trước đó trên địa bàn huyện, lồng ghép với báo cáo tình hình hoạt động của hợp tác xã (nếu có) với Ủy ban nhân dân cấp tỉnh theo mẫu quy định tại Mẫu II.02.
 
-### Điều 12.4.NĐ.3.58. Hồ sơ, trình tự, thủ tục đăng ký tổ hợp tác
+4. Chậm nhất vào ngày 30 tháng 01 hàng năm, Ủy ban nhân dân cấp tỉnh tổng hợp, báo cáo tình hình hoạt động của tổ hợp tác của năm trước đó trên địa bàn tỉnh, lồng ghép với báo cáo tình hình hoạt động của hợp tác xã (nếu có) với Bộ Kế hoạch và Đầu tư theo mẫu quy định tại Mẫu II.02.
+
+5. Định kỳ hàng năm, Bộ Kế hoạch và Đầu tư báo cáo Thủ tướng Chính phủ về tình hình tổ hợp tác trên phạm vi cả nước, lồng ghép với báo cáo tình hình hoạt động của hợp tác xã (nếu có) và tình hình thực hiện chế độ báo cáo tình hình tổ hợp tác của các cơ quan, tổ chức, cá nhân theo quy định của Nghị định này.
+
+6. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với các cơ quan liên quan nghiên cứu, trình Chính phủ, Thủ tướng Chính phủ ban hành các chính sách thúc đẩy phát triển cho tổ hợp tác trong chính sách hỗ trợ phát triển kinh tế tập thể, hợp tác xã, phù hợp với quy định của pháp luật.
+
+Phu luc kem theo Nghi dinh so 77_2019_ND-CP.doc
 
 Điều 12.4.NĐ.3.58. Hồ sơ, trình tự, thủ tục đăng ký tổ hợp tác
 
-**Chỉ mục:** 58
+(Điều 58 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920005800
+1. Trong thời hạn 05 ngày làm việc kể từ ngày ký hợp đồng hợp tác, người đại diện tổ hợp tác thuộc đối tượng phải đăng ký kinh doanh hoặc có nhu cầu đăng ký kinh doanh theo quy định tại khoản 2 Điều 107 Luật Hợp tác xã nộp hồ sơ đăng ký thành lập tổ hợp tác tại cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ bao gồm các giấy tờ sau đây:
 
-**ID:** dk_00013600
+a) Giấy đề nghị đăng ký thành lập tổ hợp tác;
 
----
+b) Hợp đồng hợp tác;
 
+c) Danh sách thành viên tổ hợp tác;
 
-### Điều 12.4.NĐ.3.59. Cấp Giấy chứng nhận đăng ký tổ hợp tác
+d) Bản sao hoặc bản chính văn bản ủy quyền của thành viên tổ hợp tác cho một cá nhân hoặc một pháp nhân làm người đại diện tổ hợp tác.
+
+2. Sau khi tiếp nhận hồ sơ đăng ký thành lập tổ hợp tác, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận, kiểm tra điều kiện cấp Giấy chứng nhận đăng ký tổ hợp tác quy định tại khoản 1 Điều 59 Nghị định này. Trường hợp hồ sơ đủ điều kiện cấp, cơ quan đăng ký kinh doanh cấp huyện cấp Giấy chứng nhận đăng ký tổ hợp tác và gửi thông báo về cơ quan thuế quản lý cho tổ hợp tác trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ.
+
+3. Tổ hợp tác thành lập sau khi Luật Hợp tác xã có hiệu lực thi hành và đã thực hiện thủ tục thông báo đến Ủy ban nhân dân xã, phường, thị trấn theo quy định tại Nghị định số 77/2019/NĐ-CP ngày 10 tháng 10 năm 2019 của Chính phủ về tổ hợp tác thay đổi nội dung hoạt động dẫn đến thuộc đối tượng phải đăng ký kinh doanh hoặc có nhu cầu đăng ký kinh doanh theo quy định tại khoản 2 Điều 107 Luật Hợp tác xã thì thực hiện thủ tục đăng ký tổ hợp tác tại cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ đăng ký bao gồm các giấy tờ theo quy định tại khoản 1 Điều này và bản sao Giấy chứng nhận đăng ký thuế. Trình tự, thủ tục đăng ký thực hiện theo quy định tại khoản 2 Điều này.
 
 Điều 12.4.NĐ.3.59. Cấp Giấy chứng nhận đăng ký tổ hợp tác
 
-**Chỉ mục:** 59
+(Điều 59 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920005900
+1. Tổ hợp tác được cấp Giấy chứng nhận đăng ký tổ hợp tác khi có đủ các điều kiện sau đây:
 
-**ID:** dk_00013601
+a) Ngành, nghề đăng ký kinh doanh không bị cấm đầu tư kinh doanh;
 
----
+b) Tên của tổ hợp tác được đặt theo đúng quy định;
 
+c) Có hồ sơ đăng ký tổ hợp tác hợp lệ.
 
-### Điều 12.4.NĐ.3.60. Hồ sơ, trình tự, thủ tục đăng ký thay đổi nội dung đăng ký tổ hợp tác
+2. Tổ hợp tác có quyền hoạt động kinh doanh kể từ ngày được cấp Giấy chứng nhận đăng ký tổ hợp tác, trừ trường hợp kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện. Trường hợp tổ hợp tác đăng ký ngày bắt đầu hoạt động kinh doanh sau ngày được cấp Giấy chứng nhận đăng ký tổ hợp tác thì tổ hợp tác được quyền hoạt động kinh doanh kể từ ngày đã đăng ký, trừ trường hợp kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện.
+
+3. Trường hợp tổ hợp tác có nhu cầu được cấp lại Giấy chứng nhận đăng ký tổ hợp tác do bị mất, cháy, rách, nát hoặc bị tiêu hủy dưới hình thức khác, tổ hợp tác gửi văn bản đề nghị cấp lại đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở. Cơ quan đăng ký kinh doanh cấp huyện xem xét cấp lại Giấy chứng nhận đăng ký tổ hợp tác trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị.
 
 Điều 12.4.NĐ.3.60. Hồ sơ, trình tự, thủ tục đăng ký thay đổi nội dung đăng ký tổ hợp tác
 
-**Chỉ mục:** 60
+(Điều 60 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920006000
+1. Người đại diện tổ hợp tác của tổ hợp tác đã đăng ký theo quy định tại Nghị định này có trách nhiệm đăng ký thay đổi với cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở trong thời hạn 10 ngày kể từ ngày có thay đổi một hoặc một số nội dung sau đây:
 
-**ID:** dk_00013602
+a) Tên tổ hợp tác;
 
----
+b) Địa chỉ trụ sở tổ hợp tác;
 
+c) Ngành, nghề kinh doanh;
 
-### Điều 12.4.NĐ.3.61. Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã trên cơ sở chuyển đổi từ tổ hợp tác
+d) Tổng giá trị phần vốn góp;
+
+đ) Người đại diện tổ hợp tác;
+
+e) Thông tin đăng ký thuế.
+
+2. Khi thay đổi nội dung đăng ký tổ hợp tác quy định tại các điểm a, c và d khoản 1 Điều này, tổ hợp tác gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ đăng ký bao gồm các giấy tờ sau đây:
+
+a) Giấy đề nghị đăng ký thay đổi nội dung đăng ký tổ hợp tác;
+
+b) Bản sao hoặc bản chính biên bản họp thành viên tổ hợp tác về việc thay đổi nội dung đăng ký tổ hợp tác.
+
+3. Khi tổ hợp tác thay đổi địa chỉ trụ sở, tổ hợp tác gửi hồ sơ đăng ký thay đổi quy định tại khoản 2 Điều này đến cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác dự định chuyển đến. Trường hợp việc chuyển địa chỉ trụ sở dẫn đến thay đổi cơ quan thuế quản lý trực tiếp, tổ hợp tác phải thực hiện các thủ tục với cơ quan thuế liên quan đến việc chuyển địa điểm theo quy định của pháp luật về thuế trước khi đăng ký thay đổi địa chỉ trụ sở với cơ quan đăng ký kinh doanh cấp huyện.
+
+4. Trường hợp thay đổi người đại diện tổ hợp tác, tổ hợp tác nộp hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ bao gồm các giấy tờ sau đây:
+
+a) Giấy đề nghị đăng ký thay đổi nội dung đăng ký tổ hợp tác;
+
+b) Bản sao hoặc bản chính biên bản họp thành viên tổ hợp tác về việc thay đổi người đại diện;
+
+c) Bản sao hoặc bản chính văn bản ủy quyền của thành viên tổ hợp tác cho một cá nhân hoặc một pháp nhân làm người đại diện mới của tổ hợp tác.
+
+5. Trường hợp tổ hợp tác thay đổi thông tin đăng ký thuế mà không thay đổi nội dung đăng ký kinh doanh, trừ thay đổi phương pháp tính thuế, tổ hợp tác gửi hồ sơ đăng ký thay đổi đến cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ bao gồm giấy đề nghị đăng ký thay đổi nội dung đăng ký tổ hợp tác.
+
+6. Sau khi tiếp nhận hồ sơ đăng ký thay đổi, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận cho người nộp hồ sơ. Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan đăng ký kinh doanh cấp huyện có trách nhiệm xem xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận đăng ký tổ hợp tác trong trường hợp tổ hợp tác thay đổi nội dung đăng ký quy định tại các điểm a, b, d và đ khoản 1 Điều này hoặc giấy xác nhận về việc thay đổi nội dung đăng ký tổ hợp tác trong trường hợp tổ hợp tác thay đổi nội dung đăng ký quy định tại điểm c và điểm e khoản 1 Điều này nếu tổ hợp tác có nhu cầu; trường hợp hồ sơ chưa hợp lệ hoặc tên tổ hợp tác yêu cầu đăng ký không đúng theo quy định hoặc thông tin kê khai trong hồ sơ đăng ký không thống nhất, cơ quan đăng ký kinh doanh cấp huyện thông báo bằng văn bản nội dung cần sửa đổi, bổ sung.
 
 Điều 12.4.NĐ.3.61. Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã trên cơ sở chuyển đổi từ tổ hợp tác
 
-**Chỉ mục:** 61
+(Điều 61 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920006100
+1. Việc đăng ký thành lập hợp tác xã trên cơ sở chuyển đổi từ tổ hợp tác thực hiện tại cơ quan đăng ký kinh doanh cấp huyện nơi hợp tác xã dự định đặt trụ sở chính.
 
-**ID:** dk_00013603
+2. Hồ sơ đăng ký thành lập hợp tác xã trên cơ sở chuyển đổi từ tổ hợp tác bao gồm giấy tờ quy định tại các điểm a, b, c, d và đ khoản 2 Điều 42 Luật Hợp xã. Trường hợp hợp tác xã được chuyển đổi từ tổ hợp tác có nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tham gia góp vốn, mua cổ phần, mua phần vốn góp thuộc trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư thì hồ sơ bao gồm giấy tờ quy định tại các điểm a, b, c, d, đ và e khoản 2 Điều 42 Luật Hợp xã kèm theo bản sao văn bản của cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài.
 
----
+3. Tổ hợp tác chấm dứt tồn tại kể từ thời điểm hợp tác xã chuyển đổi từ tổ hợp tác được cấp Giấy chứng nhận đăng ký hợp tác xã.
 
-
-### Điều 12.4.NĐ.3.62. Hồ sơ, trình tự, thủ tục thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại của tổ hợp tác; tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền
+4. Hợp tác xã được chuyển đổi từ tổ hợp tác được giữ nguyên mã số của tổ hợp tác.
 
 Điều 12.4.NĐ.3.62. Hồ sơ, trình tự, thủ tục thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại của tổ hợp tác; tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền
 
-**Chỉ mục:** 62
+(Điều 62 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920006200
+1. Trường hợp tổ hợp tác tạm ngừng kinh doanh từ 15 ngày trở lên hoặc tiếp tục kinh doanh trở lại, tổ hợp tác gửi hồ sơ thông báo đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chậm nhất là 03 ngày làm việc trước ngày tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trở lại. Trường hợp tổ hợp tác có nhu cầu tiếp tục tạm ngừng kinh doanh sau khi hết thời hạn đã thông báo thì phải thông báo đến cơ quan đăng ký kinh doanh cấp huyện chậm nhất là 03 ngày làm việc trước ngày tiếp tục tạm ngừng kinh doanh. Thời hạn tạm ngừng kinh doanh của mỗi lần thông báo không được quá 12 tháng.
 
-**ID:** dk_00013604
+2. Hồ sơ thông báo tạm ngừng kinh doanh của tổ hợp tác bao gồm thông báo tạm ngừng kinh doanh và bản sao hoặc bản chính biên bản họp thành viên tổ hợp tác về việc tạm ngừng kinh doanh. Hồ sơ thông báo tiếp tục kinh doanh trở lại của tổ hợp tác bao gồm thông báo tiếp tục kinh doanh trở lại.
 
----
+3. Sau khi tiếp nhận hồ sơ thông báo, cơ quan đăng ký kinh doanh cấp huyện trao giấy biên nhận hồ sơ cho tổ hợp tác. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký kinh doanh cấp huyện cấp giấy xác nhận về việc tổ hợp tác tạm ngừng kinh doanh, giấy xác nhận về việc tổ hợp tác tiếp tục kinh doanh trở lại.
 
+4. Trong thời gian tạm ngừng kinh doanh, tổ hợp tác phải nộp đủ thuế, bảo hiểm xã hội còn nợ; tiếp tục thanh toán các khoản nợ, hoàn thành việc thực hiện hợp đồng đã ký với khách hàng và người lao động, trừ trường hợp có thỏa thuận khác.
 
-### Điều 12.4.NĐ.3.63. Hồ sơ, trình tự, thủ tục chấm dứt hoạt động tổ hợp tác
+5. Trong thời hạn 03 ngày làm việc kể từ ngày cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản của cơ quan nhà nước có thẩm quyền về việc tổ hợp tác kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện nhưng không đáp ứng điều kiện theo quy định, cơ quan đăng ký kinh doanh cấp huyện ra thông báo yêu cầu tổ hợp tác tạm ngừng kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện đó.
+
+6. Trong thời hạn 03 ngày làm việc kể từ ngày cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản của cơ quan nhà nước có thẩm quyền về việc tổ hợp tác bị cơ quan nhà nước có thẩm quyền yêu cầu tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh một hoặc một số ngành, nghề kinh doanh trong một số lĩnh vực theo quyết định của Tòa án, cơ quan đăng ký kinh doanh cấp huyện cập nhật thông tin vào Cơ sở dữ liệu về đăng ký hợp tác xã và công bố trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
 
 Điều 12.4.NĐ.3.63. Hồ sơ, trình tự, thủ tục chấm dứt hoạt động tổ hợp tác
 
-**Chỉ mục:** 63
+(Điều 63 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920006300
+1. Trong thời hạn 07 ngày làm việc kể từ ngày thông qua việc chấm dứt hoạt động của tổ hợp tác, tổ hợp tác gửi biên bản họp thành viên tổ hợp tác về việc chấm dứt hoạt động của tổ hợp tác kèm theo phương án giải quyết nợ (nếu có) đến cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Phương án giải quyết nợ phải có tên, địa chỉ của chủ nợ; số nợ, thời hạn, địa điểm và phương thức thanh toán số nợ đó; cách thức và thời hạn giải quyết khiếu nại của chủ nợ.
 
-**ID:** dk_00013605
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được các giấy tờ quy định tại khoản 1 Điều này, cơ quan đăng ký kinh doanh cấp huyện phải đăng tải các giấy tờ này và thông báo tình trạng tổ hợp tác đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp, chuyển tình trạng pháp lý của tổ hợp tác trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đang làm thủ tục chấm dứt hoạt động và gửi thông tin về việc chấm dứt hoạt động của tổ hợp tác cho cơ quan thuế. Tổ hợp tác thực hiện thủ tục hoàn thành nghĩa vụ thuế với cơ quan thuế theo quy định của Luật Quản lý thuế.
 
----
+3. Trong thời hạn 05 ngày làm việc kể từ ngày thanh toán hết các khoản nợ và nghĩa vụ phát sinh trong quá trình hoạt động của tổ hợp tác, tổ hợp tác gửi hồ sơ đăng ký chấm dứt hoạt động đến cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ đăng ký chấm dứt hoạt động tổ hợp tác bao gồm các giấy tờ sau đây:
 
+a) Thông báo chấm dứt hoạt động tổ hợp tác;
 
-### Điều 12.4.NĐ.3.64. Trình tự, thủ tục thu hồi, hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký tổ hợp tác
+b) Quyết định về việc thu hồi quỹ chung, tài sản chung của Ủy ban nhân dân cấp huyện nơi tổ hợp tác đặt trụ sở trong trường hợp tổ hợp tác có quỹ chung, tài sản chung có nguồn hỗ trợ toàn bộ từ Nhà nước;
+
+c) Báo cáo kết quả chuyển nhượng, thanh lý tài sản của Hội đồng thanh lý tài sản chung trong trường hợp tổ hợp tác có quỹ chung, tài sản chung có nguồn hỗ trợ một phần của Nhà nước.
+
+4. Sau khi tiếp nhận hồ sơ đăng ký chấm dứt hoạt động của tổ hợp tác, cơ quan đăng ký kinh doanh cấp huyện gửi thông tin về việc tổ hợp tác đăng ký chấm dứt hoạt động cho cơ quan thuế. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được thông tin của cơ quan đăng ký kinh doanh cấp huyện, cơ quan thuế gửi ý kiến về việc hoàn thành nghĩa vụ nộp thuế của tổ hợp tác đến cơ quan đăng ký kinh doanh cấp huyện. Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ đăng ký chấm dứt hoạt động của tổ hợp tác, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của tổ hợp tác trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đã chấm dứt hoạt động nếu không nhận được ý kiến phản đối của cơ quan thuế, đồng thời ra thông báo về việc chấm dứt hoạt động của tổ hợp tác.
+
+5. Kết thúc thời hạn 03 tháng kể từ ngày cơ quan đăng ký kinh doanh cấp huyện thông báo tình trạng tổ hợp tác đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp mà không nhận được hồ sơ đăng ký chấm dứt hoạt động tổ hợp tác và ý kiến phản đối bằng văn bản của cơ quan quản lý thuế hoặc tổ chức, cá nhân và bên có liên quan khác, cơ quan đăng ký kinh doanh cấp huyện chuyển tình trạng pháp lý của tổ hợp tác trong Cơ sở dữ liệu về đăng ký hợp tác xã sang tình trạng đã chấm dứt hoạt động, đồng thời ra thông báo về việc chấm dứt hoạt động tổ hợp tác trong thời hạn 03 ngày làm việc kể từ ngày kết thúc thời hạn nêu trên. Thông tin về việc chấm dứt hoạt động tổ hợp tác được Hệ thống thông tin về đăng ký hợp tác xã truyền sang Hệ thống ứng dụng đăng ký thuế để cập nhật.
 
 Điều 12.4.NĐ.3.64. Trình tự, thủ tục thu hồi, hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký tổ hợp tác
 
-**Chỉ mục:** 64
+(Điều 64 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000090001070000000000000000000402880900920006400
+1. Tổ hợp tác bị thu hồi Giấy chứng nhận đăng ký tổ hợp tác trong các trường hợp sau đây:
 
-**ID:** dk_00013606
+a) Nội dung kê khai trong hồ sơ đăng ký thành lập tổ hợp tác là giả mạo;
 
----
+b) Theo quyết định của Tòa án;
 
+c) Theo đề nghị của cơ quan nhà nước có thẩm quyền theo quy định của luật có liên quan.
 
-### Điều 12.4.LQ.108. Chuyển đổi tổ hợp tác thành hợp tác xã
+2. Trường hợp nội dung kê khai trong hồ sơ đăng ký thành lập tổ hợp tác là giả mạo, cơ quan đăng ký kinh doanh cấp huyện ra thông báo về hành vi vi phạm theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định này và ra quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này trong thời hạn 03 ngày làm việc kể từ ngày nhận được giấy tờ quy định tại khoản 2 Điều 23 Nghị định này.
+
+3. Trường hợp cơ quan đăng ký kinh doanh cấp huyện nhận được quyết định của Tòa án về thu hồi Giấy chứng nhận đăng ký tổ hợp tác, trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định của Tòa án, cơ quan đăng ký kinh doanh cấp huyện ra quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này theo quyết định của Tòa án.
+
+4. Trường hợp cơ quan đăng ký kinh doanh cấp huyện nhận được văn bản đề nghị thu hồi Giấy chứng nhận đăng ký tổ hợp tác của cơ quan nhà nước có thẩm quyền theo quy định của luật có liên quan, trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị thu hồi, cơ quan đăng ký kinh doanh cấp huyện thực hiện thu hồi Giấy chứng nhận đăng ký tổ hợp tác theo trình tự, thủ tục quy định tại khoản 2 Điều này.
+
+5. Cơ quan đăng ký kinh doanh cấp huyện ban hành quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác, đồng thời ra thông báo về việc tổ hợp tác đang làm thủ tục chấm dứt hoạt động, cập nhật tình trạng pháp lý của tổ hợp tác sang tình trạng đang làm thủ tục chấm dứt hoạt động, trừ trường hợp tổ hợp tác bị thu hồi Giấy chứng nhận đăng ký tổ hợp tác để thực hiện biện pháp cưỡng chế nợ thuế theo đề nghị của cơ quan quản lý thuế. Trong thời hạn 03 ngày làm việc kể từ ngày ra thông báo vi phạm, quyết định thu hồi, thông báo tình trạng tổ hợp tác đang làm thủ tục chấm dứt hoạt động, cơ quan đăng ký kinh doanh cấp huyện đăng tải thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác và thông báo về việc tổ hợp tác đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp và gửi thông báo vi phạm, quyết định thu hồi Giấy chứng nhận đăng ký tổ hợp tác đến trụ sở của tổ hợp tác, đồng thời gửi sang cơ quan thuế để cập nhật và phối hợp quản lý. Tổ hợp tác phải thực hiện thủ tục chấm dứt hoạt động theo quy định tại Điều 63 Nghị định này.
+
+6. Cơ quan đăng ký kinh doanh cấp huyện ra quyết định hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký tổ hợp tác theo trình tự, thủ tục quy định tại Điều 56 Nghị định này.
 
 Điều 12.4.LQ.108. Chuyển đổi tổ hợp tác thành hợp tác xã
 
-**Chỉ mục:** 108
+(Điều 108 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000900010800000000000000000
+1. Tổ hợp tác được chuyển đổi thành hợp tác xã khi đáp ứng các điều kiện sau đây:
 
-**ID:** dk_00013607
+a) Có Giấy chứng nhận đăng ký tổ hợp tác;
 
----
+b) Hoạt động liên tục ít nhất 12 tháng kể từ ngày được cấp Giấy chứng nhận đăng ký tổ hợp tác;
 
+c) Được tất cả thành viên tán thành.
 
-### Điều 12.4.LQ.109. Chính sách hỗ trợ tổ hợp tác chuyển đổi thành hợp tác xã
+2. Việc thành lập hợp tác xã trên cơ sở chuyển đổi từ tổ hợp tác được thực hiện theo quy định về thành lập hợp tác xã tại Luật này.
+
+3. Hợp tác xã được thành lập trên cơ sở chuyển đổi từ tổ hợp tác kế thừa toàn bộ quyền, nghĩa vụ của tổ hợp tác kể từ ngày được cấp Giấy chứng nhận đăng ký hợp tác xã.
 
 Điều 12.4.LQ.109. Chính sách hỗ trợ tổ hợp tác chuyển đổi thành hợp tác xã
 
-**Chỉ mục:** 109
+(Điều 109 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000000900010900000000000000000
+1. Cơ quan đăng ký kinh doanh tư vấn, hướng dẫn miễn phí về hồ sơ, thủ tục chuyển đổi tổ hợp tác thành hợp tác xã.
 
-**ID:** dk_00013608
+2. Tư vấn, hướng dẫn miễn phí thủ tục hành chính về thuế và chế độ kế toán tối đa trong thời hạn 03 năm kể từ ngày được cấp Giấy chứng nhận đăng ký hợp tác xã lần đầu theo quy định của Chính phủ.
 
----
+3. Miễn lệ phí cấp Giấy chứng nhận đăng ký hợp tác xã lần đầu; miễn phí thẩm định, lệ phí cấp phép kinh doanh lần đầu đối với ngành, nghề kinh doanh có điều kiện; miễn lệ phí môn bài trong thời hạn 03 năm kể từ ngày được cấp Giấy chứng nhận đăng ký hợp tác xã lần đầu.
 
+4. Miễn, giảm thuế thu nhập doanh nghiệp đối với hợp tác xã chuyển đổi từ tổ hợp tác theo quy định của pháp luật về thuế thu nhập doanh nghiệp.
 
-### Điều 12.4.LQ.110. Tổ chức đại diện của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+5. Miễn, giảm tiền sử dụng đất đối với hợp tác xã chuyển đổi từ tổ hợp tác theo quy định của pháp luật về đất đai.
+
+Chương X
+
+TỔ CHỨC ĐẠI DIỆN CỦA TỔ HỢP TÁC, HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
 
 Điều 12.4.LQ.110. Tổ chức đại diện của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 110
+(Điều 110 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000001000011000000000000000000
+1. Tổ chức đại diện của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được thành lập, tổ chức và hoạt động theo quy định của pháp luật về hội và pháp luật có liên quan.
 
-**ID:** dk_00013610
+2. Tổ chức đại diện của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã có các nhiệm vụ sau đây:
 
----
+a) Đại diện và bảo vệ quyền, lợi ích hợp pháp của các thành viên;
 
+b) Tuyên truyền, hướng dẫn, chia sẻ thông tin, vận động thực hiện các chính sách của Nhà nước về phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.111. Hệ thống Liên minh hợp tác xã Việt Nam
+c) Tư vấn, hỗ trợ và cung cấp dịch vụ, đào tạo, bồi dưỡng nguồn nhân lực phục vụ cho việc hình thành và phát triển của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+d) Thực hiện các chương trình, dự án, dịch vụ công được giao hỗ trợ phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+đ) Tham gia xây dựng chính sách, pháp luật về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+e) Đại diện cho các thành viên trong quan hệ hoạt động phối hợp với các tổ chức trong nước và nước ngoài theo quy định của pháp luật;
+
+g) Thực hiện đánh giá rủi ro, tư vấn, hỗ trợ nhằm tăng cường tính minh bạch trong quản lý tài chính, bảo đảm tuân thủ các quy định của pháp luật trong vận hành và nâng cao hiệu quả trong hoạt động sản xuất, kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
+
+h) Đánh giá hiệu quả và đóng góp kinh tế, xã hội, văn hóa từ hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thành viên.
+
+3. Nhà nước hỗ trợ kinh phí đối với hoạt động gắn với nhiệm vụ được Nhà nước giao cho tổ chức đại diện.
+
+4. Khuyến khích tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tham gia là thành viên của tổ chức đại diện.
 
 Điều 12.4.LQ.111. Hệ thống Liên minh hợp tác xã Việt Nam
 
-**Chỉ mục:** 111
+(Điều 111 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000001000011100000000000000000
+1. Hệ thống Liên minh hợp tác xã Việt Nam là tổ chức đại diện của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, bảo vệ quyền và lợi ích hợp pháp của các tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, giữ vai trò nòng cốt và thúc đẩy phát triển kinh tế tập thể.
 
-**ID:** dk_00013611
+2. Hệ thống Liên minh hợp tác xã Việt Nam gồm Liên minh hợp tác xã Việt Nam được thành lập ở Trung ương và Liên minh hợp tác xã cấp tỉnh được thành lập ở các tỉnh, thành phố trực thuộc Trung ương. Điều lệ Liên minh hợp tác xã Việt Nam được Đại hội Liên minh hợp tác xã Việt Nam thông qua và do Thủ tướng Chính phủ phê duyệt; Điều lệ Liên minh hợp tác xã cấp tỉnh được Đại hội Liên minh hợp tác xã cấp tỉnh thông qua và do Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt. Nội dung, hình thức và hiệu lực thi hành của Điều lệ Liên minh hợp tác xã cấp tỉnh thống nhất với Điều lệ Liên minh hợp tác xã Việt Nam.
 
----
+3. Hệ thống Liên minh hợp tác xã Việt Nam có nhiệm vụ sau đây:
 
+a) Các nhiệm vụ của tổ chức đại diện theo quy định tại khoản 2 Điều 110 của Luật này;
 
-### Điều 12.4.LQ.112. Nội dung chủ yếu về quản lý nhà nước
+b) Bảo vệ quyền, lợi ích hợp pháp của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã không phải là thành viên;
+
+c) Nhiệm vụ khác được Nhà nước giao.
+
+4. Nhà nước hỗ trợ, tạo điều kiện để hệ thống Liên minh hợp tác xã Việt Nam thực hiện các hoạt động được giao.
+
+Chương XI
+
+QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI TỔ HỢP TÁC, HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
 
 Điều 12.4.LQ.112. Nội dung chủ yếu về quản lý nhà nước
 
-**Chỉ mục:** 112
+(Điều 112 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000001100011200000000000000000
+1. Xây dựng, tổ chức thực hiện chiến lược, kế hoạch, chương trình, đề án phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên quy mô cả nước và từng ngành, lĩnh vực, vùng và địa phương.
 
-**ID:** dk_00013613
+2. Xây dựng, ban hành, tuyên truyền, phổ biến, hướng dẫn, tổ chức thực hiện các văn bản quy phạm pháp luật, các cơ chế chính sách, giải pháp liên quan đến phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
----
+3. Thanh tra, kiểm tra việc thực hiện pháp luật đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; xử lý các hành vi vi phạm pháp luật theo quy định của pháp luật.
 
+4. Hợp tác quốc tế về phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-### Điều 12.4.LQ.113. Trách nhiệm của các cơ quan quản lý nhà nước
+5. Xây dựng, quản lý và vận hành Hệ thống thông tin quốc gia về hợp tác xã.
 
 Điều 12.4.LQ.113. Trách nhiệm của các cơ quan quản lý nhà nước
 
-**Chỉ mục:** 113
+(Điều 113 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 1200400000000001100011300000000000000000
+1. Chính phủ thống nhất quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong phạm vi cả nước.
 
-**ID:** dk_00013614
+2. Bộ Kế hoạch và Đầu tư là cơ quan đầu mối giúp Chính phủ thực hiện nhiệm vụ quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
----
+3. Bộ, cơ quan ngang bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật.
 
+4. Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo thẩm quyền, thực hiện các biện pháp về phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong chương trình phát triển kinh tế - xã hội của địa phương.
 
-### Điều 12.4.NĐ.3.8. Trách nhiệm quản lý nhà nước về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+5. Bộ, cơ quan ngang bộ và cơ quan có liên quan, Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm kết nối, liên thông và chia sẻ thông tin với Hệ thống thông tin quốc gia về hợp tác xã.
+
+6. Cơ quan quản lý nhà nước có trách nhiệm phối hợp với Ủy ban Mặt trận tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, tổ chức đại diện, hệ thống Liên minh hợp tác xã Việt Nam và các tổ chức khác trong việc tuyên truyền, phổ biến, tổ chức thi hành pháp luật về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; triển khai các chương trình, dự án phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
 Điều 12.4.NĐ.3.8. Trách nhiệm quản lý nhà nước về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 120040000000000110001130000000000000000000402880900920000800
+1. Bộ Kế hoạch và Đầu tư
 
-**ID:** dk_00013615
+a) Trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; hướng dẫn chuyên môn, nghiệp vụ về công tác đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã;
 
----
+b) Phối hợp bồi dưỡng, tập huấn chuyên môn, nghiệp vụ cho cơ quan đăng ký kinh doanh cấp huyện; hướng dẫn cơ quan đăng ký kinh doanh cấp huyện thực hiện việc số hóa hồ sơ, chuẩn hóa, chuyển đổi dữ liệu, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tại địa phương vào Cơ sở dữ liệu về đăng ký hợp tác xã;
 
+c) Thanh tra, kiểm tra, giám sát cơ quan đăng ký kinh doanh cấp huyện thực hiện nghiệp vụ đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã;
 
-### Điều 12.4.LQ.114. Điều khoản thi hành
+d) Cung cấp thông tin về nội dung đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, tình trạng pháp lý và các thông tin khác của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã lưu trữ tại Cơ sở dữ liệu về đăng ký hợp tác xã cho các cơ quan quản lý nhà nước, cơ quan có liên quan khác theo quy định của pháp luật;
 
-*Nội dung chưa có sẵn*
+đ) Tổ chức xây dựng, quản lý, phát triển Hệ thống thông tin về đăng ký hợp tác xã thuộc Hệ thống thông tin quốc gia về đăng ký doanh nghiệp; hỗ trợ cơ quan đăng ký kinh doanh cấp huyện, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và cá nhân, tổ chức khác trong việc sử dụng Hệ thống thông tin về đăng ký hợp tác xã;
 
-**Chỉ mục:** 114
+e) Chủ trì, phối hợp với Bộ Tài chính trong việc liên thông thủ tục đăng ký kinh doanh và đăng ký thuế đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, kết nối giữa Hệ thống thông tin về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế;
 
-**Mã phân cấp:** 1200400000000001200011400000000000000000
+g) Hợp tác quốc tế trong lĩnh vực đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
 
-**ID:** dk_00013617
+2. Bộ Tài chính
 
----
+a) Phối hợp với Bộ Kế hoạch và Đầu tư trong việc kết nối giữa Hệ thống ứng dụng đăng ký thuế và Hệ thống thông tin về đăng ký hợp tác xã nhằm cung cấp mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, mã số đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã; trao đổi thông tin về tình hình hoạt động và nộp thuế của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh;
 
+b) Thực hiện quản lý nhà nước về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trong phạm vi nhiệm vụ, quyền hạn của mình theo quy định của pháp luật.
 
-### Điều 12.4.LQ.115. Quy định chuyển tiếp
+3. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ, quyền hạn được phân công có trách nhiệm thanh tra, kiểm tra, giám sát việc chấp hành các điều kiện đầu tư kinh doanh, điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+4. Ủy ban nhân dân các cấp
 
-**Chỉ mục:** 115
+a) Thực hiện quản lý nhà nước về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo thẩm quyền của địa phương;
 
-**Mã phân cấp:** 1200400000000001200011500000000000000000
+b) Chỉ đạo cơ quan quản lý nhà nước theo phạm vi ngành, lĩnh vực trên địa bàn thực hiện thanh tra, kiểm tra, giám sát việc chấp hành các điều kiện đầu tư kinh doanh, điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã;
 
-**ID:** dk_00013618
+c) Bố trí đủ nhân lực, kinh phí và nguồn lực khác cho cơ quan đăng ký kinh doanh cấp huyện để bảo đảm thực hiện các nhiệm vụ, quyền hạn quy định tại Nghị định này; tổ chức bồi dưỡng, tập huấn, nâng cao trình độ chuyên môn, nghiệp vụ cho cơ quan đăng ký kinh doanh cấp huyện.
 
----
+Chương XII
 
+ĐIỀU KHOẢN THI HÀNH
 
-### Điều 12.4.TT.4.3. Nguyên tắc hỗ trợ
+Điều 12.4.LQ.114. Điều khoản thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 114 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Chỉ mục:** 3
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2024, trừ quy định tại khoản 2 Điều này.
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000300
+2. Quy định tại khoản 3 và khoản 4 Điều 115 của Luật này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2023.
 
-**ID:** dk_00013619
+3. Luật Hợp tác xã số 23/2012/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ quy định tại khoản 5 Điều 115 của Luật này.
 
----
+4. Trong thời gian Cơ sở dữ liệu quốc gia về dân cư chưa kết nối với cơ sở dữ liệu về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, cá nhân là công dân Việt Nam được sử dụng bản sao giấy tờ pháp lý thay thế cho số định danh cá nhân khi thực hiện thủ tục hành chính theo quy định tại Luật này.
 
+Điều 12.4.LQ.115. Quy định chuyển tiếp
 
-### Điều 12.4.TT.4.4. Nguồn kinh phí
+(Điều 115 Luật số 17/2023/QH15, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-*Nội dung chưa có sẵn*
+1. Hợp tác xã, liên hiệp hợp tác xã được thành lập trước ngày Luật này có hiệu lực thi hành mà tổ chức và hoạt động không trái với quy định của Luật này thì tiếp tục hoạt động và không phải đăng ký lại; trường hợp Điều lệ của hợp tác xã, liên hiệp hợp tác xã không phù hợp với quy định của Luật này thì phải sửa đổi, bổ sung trong thời hạn 18 tháng kể từ ngày Luật này có hiệu lực thi hành.
 
-**Chỉ mục:** 4
+2. Tổ hợp tác được thành lập trước ngày Luật này có hiệu lực thi hành mà thuộc đối tượng phải đăng ký theo quy định tại khoản 2 Điều 107 của Luật này thì phải thực hiện đăng ký theo quy định của Luật này trong thời hạn 18 tháng kể từ ngày Luật này có hiệu lực thi hành.
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000400
+3. Hợp tác xã, liên hiệp hợp tác xã phải chấm dứt hoạt động tín dụng nội bộ theo quy định của Luật Hợp tác xã số 23/2012/QH13 kể từ ngày 01 tháng 9 năm 2023. Các hợp đồng tín dụng nội bộ đã được ký trước ngày 01 tháng 9 năm 2023 thì các bên tiếp tục thực hiện quyền, nghĩa vụ theo hợp đồng nhưng không được gia hạn hợp đồng.
 
-**ID:** dk_00013620
+4. Hợp tác xã đã thành lập doanh nghiệp, góp vốn, mua cổ phần và doanh nghiệp được thành lập, góp vốn, mua cổ phần là thành viên của hợp tác xã đó kể từ ngày 01 tháng 9 năm 2023 không được tăng tỷ lệ phần vốn góp hoặc cổ phần và trong thời hạn 24 tháng kể từ ngày 01 tháng 9 năm 2023 phải thực hiện theo quy định tại Điều 81, Điều 82 của Luật này.
 
----
+5. Chính sách của Nhà nước đối với hợp tác xã, liên hiệp hợp tác xã được ban hành theo quy định của Luật Hợp tác xã số 23/2012/QH13 được tiếp tục thực hiện cho đến khi hết thời gian áp dụng chính sách hoặc có văn bản thay thế, bãi bỏ.
 
+Điều 12.4.TT.4.3. Nguyên tắc hỗ trợ
 
-### Điều 12.4.TT.4.5. Đối tượng, nguồn kinh phí hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã
+(Điều 3 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
+
+1. Căn cứ vào lĩnh vực, địa bàn, điều kiện phát triển kinh tế - xã hội trong từng thời kỳ, trình độ phát triển của tổ chức kinh tế tập thể và khả năng cân đối của ngân sách nhà nước, các bộ, ngành thực hiện chức năng quản lý nhà nước đối với hợp tác xã theo lĩnh vực quản lý nhà nước được phân công, Ủy ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là UBND cấp tỉnh) tổng hợp nhu cầu và xây dựng kế hoạch hỗ trợ theo các nội dung của Chương trình, trong đó quy định nội dung hỗ trợ, mức hỗ trợ cụ thể, đảm bảo không vượt quá phạm vi, mức hỗ trợ tối đa theo quy định tại Thông tư này.
+
+2. Kinh phí thực hiện hỗ trợ Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025 phải được quản lý và sử dụng đúng mục đích, đúng đối tượng.
+
+3. Các nội dung chi chưa có quy định về mức chi thì thanh toán theo thực tế phát sinh (có hóa đơn, chứng từ chi hợp pháp, hợp lệ) nhưng phải bảo đảm trong phạm vi dự toán kinh phí hỗ trợ đã được cấp có thẩm quyền phê duyệt.
+
+Điều 12.4.TT.4.4. Nguồn kinh phí
+
+(Điều 4 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
+
+Nguồn kinh phí hỗ trợ thực hiện theo quy định tại Quyết định số 1804/QĐ-TTg ngày 13/11/2020 của Thủ tướng Chính phủ.
 
 Điều 12.4.TT.4.5. Đối tượng, nguồn kinh phí hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000500
-
-**ID:** dk_00013621
-
----
-
-
-### Điều 12.4.TT.4.6. Nội dung hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã
+Đối tượng, nguồn kinh phí hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã thực hiện theo khoản 1 Mục III Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021-2025 ban hành kèm theo Quyết định số 1804/QĐ-TTg ngày 13/11/2020 của Thủ tướng Chính phủ.
 
 Điều 12.4.TT.4.6. Nội dung hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000600
+1. Tổ chức các lớp tập huấn, cung cấp thông tin, tư vấn, phổ biến quy định pháp luật về kinh tế tập thể, hợp tác xã.
 
-**ID:** dk_00013622
+a) Chi tổ chức các lớp tập huấn tập trung: Thực hiện theo chế độ chi hội nghị quy định tại Thông tư số 40/2017/TT-BTC ngày 28/4/2017 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị và các văn bản quy định mức chi cụ thể về công tác phí, chi hội nghị đối với các cơ quan, đơn vị trực thuộc được Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương quy định. Chi thù lao và các khoản chi khác cho giảng viên, báo cáo viên thực hiện theo mức chi thù lao theo quy định đối với giảng viên, báo cáo viên tại Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
 
----
+b) Chi thông tin phổ biến quy định pháp luật về kinh tế tập thể, hợp tác xã:
 
+- Chi biên soạn đề cương, giới thiệu Luật, Pháp lệnh, tài liệu chuyên đề pháp luật, tài liệu tham khảo về kinh tế tập thể, hợp tác xã thực hiện theo quy định tại Thông tư số 76/2018/TT-BTC ngày 17/8/2018 của Bộ trưởng Bộ Tài chính hướng dẫn nội dung chi, mức chi xây dựng chương trình đào tạo, biên soạn giáo trình môn học đối với giáo dục đại học, giáo dục nghề nghiệp;
 
-### Điều 12.4.TT.4.7. Đối tượng, điều kiện, nguồn kinh phí và mức hỗ trợ nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể
+- Chi tạo lập thông tin điện tử phục vụ công tác phổ biến pháp luật: Thực hiện theo quy định tại Thông tư số 194/2012/TT-BTC ngày 15/11/2012 của Bộ trưởng Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước.
+
+2. Thủ trưởng cơ quan được cấp có thẩm quyền giao dự toán kinh phí thực hiện nhiệm vụ phổ biến chịu trách nhiệm lựa chọn hình thức, sản phẩm, nội dung thông tin truyền thông và phê duyệt dự toán kinh phí thực hiện công việc trong phạm vi dự toán được giao theo thẩm quyền, đảm bảo đúng chính sách, chế độ, tiết kiệm, hiệu quả, phù hợp với quy định của pháp luật về đấu thầu, đặt hàng và giao nhiệm vụ.
+
+3. Chi hỗ trợ, tư vấn xây dựng hoặc sửa đổi điều lệ; hướng dẫn và thực hiện các thủ tục sắp xếp, củng cố lại tổ chức, hoạt động của tổ chức kinh tế tập thể, hợp tác xã cho phù hợp với các quy định hiện hành.
+
+a) Đối với công chức, viên chức thực hiện nhiệm vụ tư vấn: Được thanh toán chế độ công tác phí theo chế độ hiện hành.
+
+b) Đối với hướng dẫn viên, cộng tác viên không phải là công chức, viên chức:
+
+- Chi thù lao: 60.000 đồng/1 giờ hướng dẫn trực tiếp;
+
+- Chi phí đi lại: Tối đa 50.000 đồng/1 ngày trong trường hợp đi, về trong ngày. Trường hợp đi tư vấn ở xa, phải nghỉ lại thì được thanh toán chế độ công tác phí như đối với công chức đi công tác theo quy định.
 
 Điều 12.4.TT.4.7. Đối tượng, điều kiện, nguồn kinh phí và mức hỗ trợ nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000700
-
-**ID:** dk_00013623
-
----
-
-
-### Điều 12.4.TT.4.8. Nội dung hỗ trợ nâng cao năng lực đối với công chức, viên chức của các cơ quan quản lý nhà nước về kinh tế tập thể, Liên minh hợp tác xã, các hiệp hội, đoàn thể, tổ chức chính trị - xã hội, giảng viên về kinh tế tập thể trong các trường Đại học, cao đẳng, trung học chuyên nghiệp
+Đối tượng, điều kiện, nguồn kinh phí và mức hỗ trợ nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể thực hiện theo theo quy định khoản 2 Mục III Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021-2025 ban hành kèm theo Quyết định số 1804/QĐ-TTg ngày 13/11/2020 của Thủ tướng Chính phủ.
 
 Điều 12.4.TT.4.8. Nội dung hỗ trợ nâng cao năng lực đối với công chức, viên chức của các cơ quan quản lý nhà nước về kinh tế tập thể, Liên minh hợp tác xã, các hiệp hội, đoàn thể, tổ chức chính trị - xã hội, giảng viên về kinh tế tập thể trong các trường Đại học, cao đẳng, trung học chuyên nghiệp
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000800
+1. Cấp học bổng đào tạo, nghiên cứu dài hạn trong nước và nước ngoài về hợp tác xã và các chuyên ngành hỗ trợ trực tiếp cho công tác quản lý nhà nước về kinh tế tập thể: Thực hiện theo Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn lập dự toán, quản lý và sử dụng kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
 
-**ID:** dk_00013624
-
----
-
-
-### Điều 12.4.TT.4.9. Nội dung hỗ trợ nâng cao năng lực đối với thành viên, người lao động đang làm công tác quản lý, chuyên môn kỹ thuật, nghiệp vụ của các tổ chức kinh tế tập thể (thành viên, người lao động kinh tế tập thể)
+2. Cấp học bổng bồi dưỡng ngắn hạn ở nước ngoài và tổ chức các khóa bồi dưỡng, tập huấn ngắn hạn trong nước: Thực hiện theo Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn lập dự toán, quản lý và sử dụng kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
 
 Điều 12.4.TT.4.9. Nội dung hỗ trợ nâng cao năng lực đối với thành viên, người lao động đang làm công tác quản lý, chuyên môn kỹ thuật, nghiệp vụ của các tổ chức kinh tế tập thể (thành viên, người lao động kinh tế tập thể)
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240000900
+1. Nội dung hỗ trợ đào tạo
 
-**ID:** dk_00013625
+Chi hỗ trợ kinh phí ăn ở cho học viên ít nhất bằng 1,5 lần mức lương tối thiểu vùng/01 khóa đào tạo. Mức chi cụ thể phải được Hội đồng nhân dân cấp tỉnh quyết định phù hợp với khả năng cân đối của địa phương. Trường hợp khóa đào tạo có thời gian dưới 01 tháng thì thực hiện hỗ trợ theo số ngày thực tế tham gia khóa đào tạo (26 ngày/ 01 tháng).
 
----
+2. Nội dung hỗ trợ bồi dưỡng
 
+a) Các thành viên, người lao động tổ chức kinh tế tập thể tham dự lớp bồi dưỡng được hỗ trợ kinh phí mua tài liệu học tập bắt buộc; hỗ trợ chi phí đi lại từ trụ sở đến nơi học tập (trừ vé máy bay), tiền ăn, tiền thuê phòng nghỉ theo quy định tại Thông tư số 40/2017/TT-BTC ngày 28/4/2017 của Bộ trưởng Bộ Tài chính về quy định chế độ công tác phí, chế độ chi hội nghị.
 
-### Điều 12.4.TT.4.10. Nội dung hỗ trợ đưa lao động trẻ về làm việc tại tổ chức kinh tế tập thể
+b) Chi phí tổ chức, quản lý lớp học: Thực hiện theo quy định về chi tổ chức các lớp bồi dưỡng cán bộ công chức, viên chức tại Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn lập dự toán, quản lý và sử dụng kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
 
 Điều 12.4.TT.4.10. Nội dung hỗ trợ đưa lao động trẻ về làm việc tại tổ chức kinh tế tập thể
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 124/2021/TT-BTC Hướng dẫn cơ chế tài chính, quản lý, sử dụng kinh phí Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025 ban hành kèm theo Quyết định số 1804/QĐ-TTg ngày 13 tháng 11 năm 2020 của Thủ tướng Chính phủ ngày 30/12/2021 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001000
-
-**ID:** dk_00013626
-
----
-
-
-### Điều 12.4.TT.4.11. Nội dung hỗ trợ xây dựng hệ thống đào tạo trực tuyến về kinh tế tập thể
+Mức hỗ trợ hàng tháng ít nhất bằng 1,5 mức lương tối thiểu vùng. Mức chi cụ thể phải được Hội đồng nhân dân cấp tỉnh quyết định phù hợp với khả năng cân đối của địa phương.
 
 Điều 12.4.TT.4.11. Nội dung hỗ trợ xây dựng hệ thống đào tạo trực tuyến về kinh tế tập thể
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001100
+1. Chi xây dựng khung, nội dung chương trình đào tạo trực tuyến: Thực hiện theo quy định tại Thông tư số 76/2018/TT-BTC ngày 17/8/2018 của Bộ trưởng Bộ Tài chính hướng dẫn nội dung chi, mức chi xây dựng chương trình đào tạo biên soạn giáo trình môn học đối với giáo dục đại học, giáo dục nghề nghiệp.
 
-**ID:** dk_00013627
+2. Chi triển khai thực hiện đào tạo trực tuyến về kinh tế tập thể: Thực hiện theo quy định tại Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
 
----
-
-
-### Điều 12.4.TT.4.12. Đối tượng, nguồn kinh phí hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể
+3. Chi xây dựng dữ liệu điện tử khung, nội dung chương trình đào tạo trực tuyến; vận hành và duy trì trang thông tin điện tử về đào tạo trực tuyến: Thực hiện theo quy định tại Thông tư số 194/2012/TT-BTC ngày 15/11/2012 của Bộ trưởng Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước.
 
 Điều 12.4.TT.4.12. Đối tượng, nguồn kinh phí hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001200
-
-**ID:** dk_00013628
-
----
-
-
-### Điều 12.4.TT.4.13. Nội dung hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể
+Đối tượng, nguồn kinh phí hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể thực hiện theo quy định tại điểm a, điểm c khoản 3 Mục III Chương trình hỗ trợ phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021-2025 ban hành kèm theo Quyết định số 1804/QĐ-TTg ngày 13/11/2020 của Thủ tướng Chính phủ.
 
 Điều 12.4.TT.4.13. Nội dung hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001300
+1. Chi vận hành và duy trì trang tin điện tử về kinh tế tập thể: Thực hiện theo quy định tại Thông tư số 194/2012/TT-BTC ngày 15/11/2012 của Bộ trưởng Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước.
 
-**ID:** dk_00013629
-
----
-
-
-### Điều 12.4.TT.4.14. Lập dự toán, sử dụng và quyết toán kinh phí
+2. Chi quản lý cơ sở dữ liệu về kinh tế tập thể kết nối với hệ thống đăng ký kinh doanh, báo cáo tài chính và báo cáo kiểm toán: Thực hiện theo quy định về các hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi thường xuyên nguồn vốn ngân sách nhà nước tại Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước.
 
 Điều 12.4.TT.4.14. Lập dự toán, sử dụng và quyết toán kinh phí
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001400
+1. Căn cứ Kế hoạch phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021 - 2025 được Thủ tướng Chính phủ phê duyệt, Kế hoạch phát triển kinh tế tập thể, hợp tác xã hàng năm; các bộ, ngành, địa phương lập dự toán ngân sách thực hiện các nhiệm vụ theo kế hoạch đã được cơ quan có thẩm quyền phê duyệt tổng hợp chung trong dự toán ngân sách hàng năm của cơ quan, đơn vị mình gửi các cấp có thẩm quyền theo quy định của Luật Ngân sách nhà nước, các văn bản hướng dẫn Luật; quy chế quản lý, điều hành các Chương trình mục tiêu quốc gia và các nguyên tắc, tiêu chí, định mức phân bổ vốn, kinh phí thực hiện Chương trình mục tiêu quốc gia.
 
-**ID:** dk_00013630
-
----
-
-
-### Điều 12.4.TT.4.15. Chấp hành dự toán và thanh toán, quyết toán kinh phí
+2. Bộ Kế hoạch và Đầu tư căn cứ Quyết định số 1804/QĐ-TTg ngày 13/11/2020 của Thủ tướng Chính phủ và quy định tại Thông tư này để tổng hợp nhu cầu kinh phí của các Bộ, ngành, địa phương.
 
 Điều 12.4.TT.4.15. Chấp hành dự toán và thanh toán, quyết toán kinh phí
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001500
+Việc chấp hành và thanh toán, quyết toán kinh phí hỗ trợ kinh tế tập thể, hợp tác xã thực hiện theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn.
 
-**ID:** dk_00013631
+Điều 12.4.TT.4.16. Công tác kiểm tra, giám sát
 
----
+(Điều 16 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
+1. Đối với nhiệm vụ chi thuộc ngân sách địa phương: UBND các tỉnh, thành phố trực thuộc Trung ương giao Sở Tài chính chủ trì, phối hợp với Sở Kế hoạch và Đầu tư và các cơ quan liên quan thực hiện giám sát, định kỳ hoặc đột xuất kiểm tra, đánh giá tình hình quản lý, sử dụng kinh phí nâng cao năng lực, nhận thức, thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã trên địa bàn.
 
-### Điều 12.4.TT.4.16. Công tác kiểm tra, giám sát
+2. Đối với nhiệm vụ chi thuộc ngân sách Trung ương: Bộ Tài chính chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư và các cơ quan liên quan định kỳ hoặc đột xuất kiểm tra, đánh giá tình hình thực hiện của các đơn vị được giao kế hoạch hỗ trợ.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.4.17. Chế độ báo cáo
 
-**Chỉ mục:** 16
+(Điều 17 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001600
+1. Định kỳ hàng năm, các bộ, ngành, cơ quan thuộc Trung ương, UBND các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm báo cáo đánh giá tình hình thực hiện công tác hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã; hỗ trợ nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể; vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể.
 
-**ID:** dk_00013632
+2. Nội dung báo cáo: Theo Đề cương tại Phụ lục số 01 và Biểu mẫu tại Phụ lục số 02, 03 kèm theo Thông tư này.
 
----
+3. Phương thức gửi, nhận báo cáo: Báo cáo hàng năm được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau: gửi trực tiếp; gửi qua dịch vụ bưu chính; gửi qua hệ thống phần mềm được liên thông giữa Bộ, ngành, địa phương.
 
+4. Thời gian chốt số liệu báo cáo và thời hạn gửi báo cáo:
 
-### Điều 12.4.TT.4.17. Chế độ báo cáo
+a) Báo cáo định kỳ hàng năm tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.
 
-*Nội dung chưa có sẵn*
+b) Báo cáo gửi về Bộ Kế hoạch và Đầu tư, cơ quan chủ quản Chương trình mục tiêu quốc gia được lồng ghép kinh phí trước ngày 20 tháng 12 hàng năm để tổng hợp gửi Bộ Tài chính trước ngày 25 tháng 12 hàng năm.
 
-**Chỉ mục:** 17
+Điều 12.4.TT.4.18. Điều khoản chuyển tiếp
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001700
+(Điều 18 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**ID:** dk_00013633
+Đối với các nội dung hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã; nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể theo Kế hoạch phát triển kinh tế tập thể, hợp tác xã giai đoạn 2021-2025 đang triển khai mà chưa thực hiện chi hỗ trợ thì thực hiện theo Thông tư này.
 
----
+Điều 12.4.NĐ.1.30. Điều khoản chuyển tiếp
 
+(Điều 30 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-### Điều 12.4.TT.4.18. Điều khoản chuyển tiếp
+Tổ hợp tác, các hình thức tổ, nhóm hợp tác khác đã hình thành và hoạt động trước ngày Nghị định này có hiệu lực thi hành thì phải bổ sung nội dung, hình thức của giao dịch theo quy định tại Điều 16 Nghị định này và được tiếp tục hoạt động theo Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.1.31. Hiệu lực thi hành
 
-**Chỉ mục:** 18
+(Điều 31 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
-**Mã phân cấp:** 120040000000000120001150000000000000000000802787801240001800
+Nghị định này có hiệu lực thi hành từ ngày 25 tháng 11 năm 2019 và thay thế Nghị định số 151/2007/NĐ-CP ngày 10 tháng 10 năm 2007 của Chính phủ về tổ chức và hoạt động của tổ hợp tác.
 
-**ID:** dk_00013634
+Điều 12.4.NĐ.1.32. Trách nhiệm thi hành
 
----
+(Điều 32 Nghị định số 77/2019/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/11/2019)
 
+1. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với các bộ, ngành liên quan tổ chức thi hành Nghị định này.
 
-### Điều 12.4.NĐ.1.30. Điều khoản chuyển tiếp
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.2.57. Điều khoản thi hành
 
-**Chỉ mục:** 30
+(Điều 57 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 1200400000000001200011540270660077000300
+1. Nghị định này có hiệu lực từ ngày 15 tháng 5 năm 2021.
 
-**ID:** dk_00013635
+2. Kể từ ngày Nghị định này có hiệu lực thi hành, bãi bỏ các nội dung quy định tại:
 
----
+a) Điều 2; khoản 1, khoản 3, khoản 4 Điều 3; khoản 2 Điều 5; Điều 6; Điều 7; Điều 8; Điều 9; khoản 1, khoản 2, khoản 3 Điều 11 Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về việc thành lập Quỹ hỗ trợ phát triển hợp tác xã;
 
+b) Khoản 2, khoản 3, khoản 4, khoản 5, khoản 6 Điều 1, Điều 2, Điều 3, Điều 4 Quyết định số 23/2017/QĐ-TTg ngày 23 tháng 6 năm 2017 của Thủ tướng Chính phủ về sửa đổi, bổ sung một số điều của Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về việc thành lập Quỹ hỗ trợ phát triển hợp tác xã;
 
-### Điều 12.4.NĐ.1.31. Hiệu lực thi hành
+c) Điểm a và b khoản 4 Điều 24 Nghị định số 193/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.2.58. Điều khoản chuyển tiếp
 
-**Chỉ mục:** 31
+(Điều 58 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 1200400000000001200011540270660077000310
+1. Đối với việc thực hiện các hợp đồng tín dụng, chứng thư bảo lãnh và các thỏa thuận đã ký giữa Quỹ hợp tác xã và các bên liên quan trước khi Nghị định này có hiệu lực thi hành thì tiếp tục thực hiện theo đúng các thoả thuận đã ký kết tại hợp đồng tín dụng, hợp đồng bảo lãnh, chứng thư bảo lãnh và các thỏa thuận khác. Trường hợp sửa đổi, bổ sung các thỏa thuận đã ký giữa Quỹ hợp tác xã và các bên liên quan được thực hiện theo quy định tại Nghị định này.
 
-**ID:** dk_00013636
+2. Tại thời điểm Nghị định này có hiệu lực, căn cứ quy định tại khoản 1 Điều 28 Nghị định này, trường hợp số dư dự phòng rủi ro của Quỹ hợp tác xã thừa so với số phải trích thì phần chênh lệch thừa được hoàn nhập vào thu nhập; trường hợp số dư dự phòng rủi ro của Quỹ hợp tác xã thiếu so với số phải trích, trong vòng 12 tháng, Quỹ hợp tác xã thực hiện bổ sung dự phòng rủi ro theo quy định.
 
----
+3. Đối với số dư quỹ dự trữ bổ sung vốn điều lệ của Quỹ hỗ trợ phát triển hợp tác xã theo quy định tại Thông tư số 81/2007/TT-BTC ngày 11 tháng 7 năm 2007 của Bộ Tài chính về hướng dẫn chế độ quản lý tài chính đối với Quỹ hỗ trợ phát triển hợp tác xã được bổ sung tăng vốn điều lệ cho Quỹ hỗ trợ phát triển hợp tác xã nhưng không quá số vốn quy định tại điểm a khoản 1 Điều 37 Nghị định này.
 
+4. Trong thời hạn 6 tháng kể từ ngày Nghị định này có hiệu lực thi hành, Quỹ hợp tác xã phải trình cấp có thẩm quyền quy định lãi suất cho vay, lãi suất quá hạn của Quỹ theo quy định tại khoản 2 Điều 25 Nghị định này.
 
-### Điều 12.4.NĐ.1.32. Trách nhiệm thi hành
+Trong thời gian chưa ban hành lãi suất, Quỹ hợp tác xã được áp dụng lãi suất hiện hành để thực hiện cho vay.
 
-*Nội dung chưa có sẵn*
+5. Đối với các Quỹ hợp tác xã đã thành lập và đang hoạt động trước thời điểm Nghị định này có hiệu lực: Tối đa trong thời hạn 03 năm kể từ ngày Nghị định này có hiệu lực, các Quỹ hợp tác xã phải rà soát, tổ chức sắp xếp lại:
 
-**Chỉ mục:** 32
+a) Mô hình hoạt động của Quỹ hợp tác xã;
 
-**Mã phân cấp:** 1200400000000001200011540270660077000320
+b) Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã;
 
-**ID:** dk_00013637
+c) Bổ sung vốn điều lệ tối thiểu của Quỹ hợp tác xã địa phương theo đúng quy định tại điểm b khoản 1 Điều 37 và điểm a khoản 2 Điều 37 Nghị định này;
 
----
+d) Đăng ký lại Giấy chứng nhận đăng ký thành lập Quỹ hợp tác xã địa phương tại Sở Kế hoạch và Đầu tư đối với Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã; Ủy ban nhân dân cấp tỉnh điều chỉnh quyết định thành lập đối với Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
 
+6. Chức danh Giám đốc, Phó Giám đốc của Quỹ hỗ trợ phát triển hợp tác xã được bổ nhiệm theo Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về thành lập Quỹ hỗ trợ phát triển hợp tác xã và Quyết định số 23/2017/QĐ-TTg ngày 22 tháng 6 năm 2017 của Thủ tướng Chính phủ về sửa đổi, bổ sung một số điều của Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về thành lập Quỹ hỗ trợ phát triển hợp tác xã và ban hành Quy chế hoạt động bảo lãnh tín dụng và hỗ trợ lãi suất sau đầu tư của Quỹ hỗ trợ phát triển hợp tác xã được bổ nhiệm thành Tổng giám đốc, Phó Giám đốc theo quy định tại Nghị định này.
 
-### Điều 12.4.NĐ.2.57. Điều khoản thi hành
+7. Đổi tên Quỹ hỗ trợ phát triển hợp tác xã được thành lập và hoạt động theo Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về thành lập Quỹ hỗ trợ phát triển hợp tác xã và Quyết định số 23/2017/QĐ-TTg ngày 22 tháng 6 năm 2017 của Thủ tướng Chính phủ về sửa đổi, bổ sung một số điều của Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về thành lập Quỹ hỗ trợ phát triển hợp tác xã và ban hành Quy chế hoạt động bảo lãnh tín dụng và hỗ trợ lãi suất sau đầu tư của Quỹ hỗ trợ phát triển hợp tác xã thành Quỹ hỗ trợ phát triển hợp tác xã Việt Nam. Quỹ hỗ trợ phát triển hợp tác xã Việt Nam kế thừa các quyền hạn, trách nhiệm, nghĩa vụ của Quỹ hỗ trợ phát triển hợp tác xã.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.2.59. Tổ chức thực hiện Nghị định
 
-**Chỉ mục:** 57
+(Điều 59 Nghị định số 45/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2021)
 
-**Mã phân cấp:** 1200400000000001200011540276040045000570
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Liên minh Hợp tác xã Việt Nam, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Hội đồng nhân dân cấp tỉnh, Chủ tịch Liên minh hợp tác xã cấp tỉnh, Chủ tịch và Giám đốc các Quỹ hợp tác xã, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00013638
+Điều 12.4.NĐ.3.65. Quy định chuyển tiếp
 
----
+(Điều 65 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
+1. Trường hợp hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã đã được tiếp nhận và chưa được cơ quan đăng ký kinh doanh cấp huyện chấp thuận trước ngày Nghị định này có hiệu lực thi hành thì việc giải quyết thủ tục đăng ký hợp tác xã, liên hiệp hợp tác xã thực hiện theo quy định tại Nghị định này.
 
-### Điều 12.4.NĐ.2.58. Điều khoản chuyển tiếp
+2. Hợp tác xã, liên hiệp hợp tác xã đã được cấp giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký hợp tác xã, giấy chứng nhận đăng ký liên hiệp hợp tác xã trước ngày Nghị định này có hiệu lực thi hành được tiếp tục hoạt động theo nội dung các giấy tờ trên. Hợp tác xã, liên hiệp hợp tác xã được cấp đổi sang Giấy chứng nhận đăng ký hợp tác xã theo quy định tại Nghị định này trong trường hợp sau đây:
 
-*Nội dung chưa có sẵn*
+a) Trường hợp hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục đăng ký, thông báo thay đổi nội dung đăng ký hợp tác xã, hợp tác xã, liên hiệp hợp tác xã nộp hồ sơ đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Hồ sơ bao gồm các giấy tờ tương ứng quy định tại Nghị định này và bản sao Giấy chứng nhận đăng ký thuế. Cơ quan đăng ký kinh doanh cấp huyện tiếp nhận, xem xét tính hợp lệ của hồ sơ, cấp Giấy chứng nhận đăng ký hợp tác xã, giấy xác nhận về việc thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã theo quy định tương ứng tại Nghị định này;
 
-**Chỉ mục:** 58
+b) Trường hợp hợp tác xã, liên hiệp hợp tác xã thực hiện thủ tục thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại, đăng ký thành lập, đăng ký thay đổi, thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại, chấm dứt hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh cùng huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính, hợp tác xã, liên hiệp hợp tác xã nộp hồ sơ đến cơ quan đăng ký kinh doanh cấp huyện nơi đặt trụ sở chính. Hồ sơ bao gồm các giấy tờ tương ứng quy định tại Nghị định này kèm theo giấy đề nghị đăng ký thay đổi nội dung đăng ký hợp tác xã và bản sao Giấy chứng nhận đăng ký thuế. Cơ quan đăng ký kinh doanh cấp huyện tiếp nhận, xem xét tính hợp lệ của hồ sơ, cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh, giấy xác nhận về việc thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã và các giấy xác nhận khác theo quy định tương ứng tại Nghị định này;
 
-**Mã phân cấp:** 1200400000000001200011540276040045000580
+c) Trường hợp chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã khác huyện, quận, thị xã thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính, hợp tác xã, liên hiệp hợp tác xã phải thực hiện thủ tục đăng ký quy định tại điểm a khoản này trước khi thực hiện thủ tục đăng ký thành lập, đăng ký thay đổi, thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại, chấm dứt hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
 
-**ID:** dk_00013639
+3. Tổ hợp tác đã được thành lập trước ngày Luật Hợp tác xã có hiệu lực thi hành mà thuộc đối tượng phải đăng ký theo quy định tại khoản 2 Điều 107 Luật Hợp tác xã thì phải thực hiện thủ tục đăng ký tại cơ quan đăng ký kinh doanh cấp huyện nơi tổ hợp tác đặt trụ sở. Hồ sơ đăng ký bao gồm giấy đề nghị cấp Giấy chứng nhận đăng ký tổ hợp tác và bản sao Giấy chứng nhận đăng ký thuế. Trường hợp tổ hợp tác có thay đổi nội dung đăng ký tổ hợp tác đã thông báo tới Ủy ban nhân dân xã, phường, thị trấn, tổ hợp tác có thể đăng ký thay đổi nội dung đăng ký tổ hợp tác đồng thời với đề nghị cấp Giấy chứng nhận đăng ký tổ hợp tác trong một bộ hồ sơ để được xem xét cấp Giấy chứng nhận đăng ký tổ hợp tác theo quy định tại Nghị định này. Trình tự, thủ tục đăng ký thực hiện theo quy định tại khoản 2 Điều 58 Nghị định này.
 
----
+4. Tổ hợp tác đã đăng ký kinh doanh theo quy định tại Nghị định này thì không phải thực hiện thủ tục thông báo tại Ủy ban nhân dân xã, phường, thị trấn theo quy định tại Nghị định số 77/2019/NĐ-CP ngày 10 tháng 10 năm 2019 của Chính phủ về tổ hợp tác.
 
+5. Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương có trách nhiệm bàn giao hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã đã cấp cho cơ quan đăng ký kinh doanh cấp huyện để cơ quan đăng ký kinh doanh cấp huyện chuyển đổi dữ liệu của hợp tác xã, liên hiệp hợp tác xã vào Cơ sở dữ liệu về đăng ký hợp tác xã.
 
-### Điều 12.4.NĐ.2.59. Tổ chức thực hiện Nghị định
+6. Ủy ban nhân dân xã, phường, thị trấn có trách nhiệm cung cấp thông tin tổ hợp tác thành lập trước ngày Nghị định này có hiệu lực thi hành được lưu trữ trong sổ theo dõi thành lập và hoạt động của tổ hợp tác cho cơ quan đăng ký kinh doanh cấp huyện để phục vụ việc chuyển đổi dữ liệu của tổ hợp tác tại địa phương vào Cơ sở dữ liệu về đăng ký hợp tác xã theo quy định tại Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.3.66. Điều khoản thi hành
 
-**Chỉ mục:** 59
+(Điều 66 Nghị định số 92/2024/NĐ-CP, có hiệu lực thi hành kể từ ngày 18/07/2024)
 
-**Mã phân cấp:** 1200400000000001200011540276040045000590
+1. Nghị định này có hiệu lực thi hành từ ngày ký ban hành.
 
-**ID:** dk_00013640
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện và các đối tượng áp dụng của Nghị định chịu trách nhiệm thi hành Nghị định này.
 
----
+Điều 12.4.QĐ.1.2.
 
+(Điều 3 Quyết định số 23/2017/QĐ-TTG Sửa đổi, bổ sung một số điều của Quyết định số 246/2006/QĐ-TTg ngày 27 tháng 10 năm 2006 của Thủ tướng Chính phủ về việc thành lập Quỹ Hỗ trợ phát triển hợp tác xã và ban hành Quy chế hoạt động bảo lãnh tín dụng, hỗ trợ lãi suất sau đầu tư của Quỹ Hỗ trợ phát triển hợp tác xã ngày 22/06/2017 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 15/08/2017 )
 
-### Điều 12.4.NĐ.3.65. Quy định chuyển tiếp
+Quyết định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2017.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.QĐ.1.3.
 
-**Chỉ mục:** 65
+(Điều 4 Quyết định số 23/2017/QĐ-TTG, có hiệu lực thi hành kể từ ngày 15/08/2017)
 
-**Mã phân cấp:** 1200400000000001200011540288090092000650
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Liên minh Hợp tác xã Việt Nam, Quỹ Hỗ trợ phát triển hợp tác xã và các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-**ID:** dk_00013641
+Điều 12.4.TT.1.29. Hiệu lực thi hành
 
----
+(Điều 29 Thông tư số 83/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 15/07/2015)
 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 7 năm 2015 và thay thế Thông tư liên tịch số 74/2008/TTLT-BTC-BNNPTNT ngày 14/8/2008 của Liên Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn về hướng dẫn chế độ quản lý tài chính trong hợp tác xã nông nghiệp.
 
-### Điều 12.4.NĐ.3.66. Điều khoản thi hành
+2. Căn cứ hướng dẫn của Thông tư này, hội đồng quản trị hợp tác xã, liên hiệp hợp tác xã xây dựng Quy chế quản lý tài chính nội bộ hợp tác xã, liên hiệp hợp tác xã, trình đại hội thành viên thông qua để thực hiện.
 
-*Nội dung chưa có sẵn*
+3. Cục Tài chính doanh nghiệp - Bộ Tài chính có nhiệm vụ chỉ đạo Sở Tài chính. Sở Tài chính thường xuyên hướng dẫn, kiểm tra việc thực hiện chế độ quản lý tài chính đối với hợp tác xã, liên hiệp hợp tác xã theo quy định của pháp luật.
 
-**Chỉ mục:** 66
+4. Trong quá trình thực hiện nếu có khó khăn vướng mắc, các đơn vị phản ánh về Bộ Tài chính để nghiên cứu, giải quyết.
 
-**Mã phân cấp:** 1200400000000001200011540288090092000660
+Điều 12.4.TT.2.7. Tổ chức thực hiện
 
-**ID:** dk_00013642
+(Điều 7 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
----
+1. Cục Kinh tế hợp tác và Phát triển nông thôn hướng dẫn thực hiện, kiểm tra đôn đốc, tổng hợp báo cáo Bộ Nông nghiệp và Phát triển nông thôn việc thực hiện Thông tư này.
 
+2. Sở Nông nghiệp và Phát triển nông thôn; Phòng Nông nghiệp và Phát triển nông thôn cấp huyện; các cơ quan liên quan trong ngành nông nghiệp và các hợp tác xã hoạt động trong lĩnh vực nông nghiệp chịu trách nhiệm thực hiện Thông tư này.
 
-### Điều 12.4.QĐ.1.2.
+3. Hợp tác xã hoạt động trong lĩnh vực nông nghiệp có trách nhiệm hàng năm thực hiện tự phân loại, đánh giá, xếp loại và báo cáo cho cơ quan quản lý nhà nước có thẩm quyền (Phòng Nông nghiệp và Phát triển nông thôn cấp huyện). Kết quả đánh giá xếp loại hợp tác xã là cơ sở để xem xét, lựa chọn khen thưởng của ngành nông nghiệp.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.2.8. Hiệu lực thi hành
 
-**Chỉ mục:** 3
+(Điều 8 Thông tư số 09/2017/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 31/05/2017)
 
-**Mã phân cấp:** 1200400000000001200011550223350246000020
+1. Thông tư này có hiệu lực kể từ ngày 31 tháng 5 năm 2017.
 
-**ID:** dk_00013643
+2. Trong quá trình thực hiện, nếu có vướng mắc hợp tác xã nông nghiệp, tổ chức, cá nhân phản ánh kịp thời về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu, sửa đổi, bổ sung.
 
----
+Điều 12.4.TT.3.6. Hiệu lực thi hành
 
+(Điều 6 Thông tư số 31/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 14/05/2018)
 
-### Điều 12.4.QĐ.1.3.
+1. Thông tư này có hiệu lực kể từ ngày 14 tháng 05 năm 2018.
 
-*Nội dung chưa có sẵn*
+2. Trong quá trình thực hiện, nếu có vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu sửa đổi, bổ sung cho phù hợp.
 
-**Chỉ mục:** 4
+Điều 12.4.TT.4.19. Hiệu lực thi hành
 
-**Mã phân cấp:** 1200400000000001200011550223350246000030
+(Điều 19 Thông tư số 124/2021/TT-BTC, có hiệu lực thi hành kể từ ngày 14/02/2022)
 
-**ID:** dk_00013644
+1. Thông tư này có hiệu lực từ ngày 14 tháng 02 năm 2022.
 
----
+2. Bãi bỏ Thông tư số 340/2016/TT-BTC ngày 29/12/2016 của Bộ trưởng Bộ Tài chính hướng dẫn về mức hỗ trợ và cơ chế tài chính hỗ trợ bồi dưỡng nguồn nhân lực của hợp tác xã, thành lập mới hợp tác xã, tổ chức lại hoạt động của hợp tác xã theo Chương trình hỗ trợ phát triển hợp tác xã giai đoạn 2015 - 2020.
 
+3. Trường hợp các mức chi tại các văn bản quy phạm pháp luật được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản sửa đổi, bổ sung tương ứng.
 
-### Điều 12.4.TT.1.29. Hiệu lực thi hành
+4. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các Bộ, ngành, UBND các tỉnh, thành phố trực thuộc Trung ương, các tổ chức kinh tế tập thể, hợp tác xã phản ánh về Bộ Tài chính, Bộ Kế hoạch và Đầu tư để nghiên cứu sửa đổi, bổ sung cho phù hợp.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.5.9. Trách nhiệm thực hiện
 
-**Chỉ mục:** 29
+(Điều 9 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 1200400000000001200011580254700083000290
+1. Trách nhiệm của Quỹ:
 
-**ID:** dk_00013645
+a) Chủ tịch Quỹ có trách nhiệm thực hiện nhiệm vụ quy định tại Điều 18, khoản 4 Điều 22 Thông tư số 26/2016/TT-BLĐTBXH; Điều 20, khoản 4 Điều 25 Thông tư số 27/2016/TT-BLĐTBXH. Khi gửi báo cáo tiền lương, tiền thưởng cho cơ quan đại diện chủ sở hữu thì đồng thời gửi Bộ Lao động - Thương binh và Xã hội để theo dõi, kiểm tra và giám sát chung.
 
----
+b) Tổng giám đốc, Giám đốc Quỹ có trách nhiệm thực hiện nhiệm vụ quy định tại Điều 17 Thông tư số 26/2016/TT-BLĐTBXH .
 
+c) Kiểm soát viên có trách nhiệm thực hiện nhiệm vụ quy định tại Điều 19 Thông tư số 26/2016/TT-BLĐTBXH , Điều 21 Thông tư số 27/2016/TT-BLĐTBXH và theo Điều lệ tổ chức và hoạt động của Quỹ.
 
-### Điều 12.4.TT.2.7. Tổ chức thực hiện
+2. Cơ quan đại diện chủ sở hữu đối với Quỹ có trách nhiệm thực hiện nhiệm vụ quy định tại Điều 20 Thông tư số 26/2016/TT-BLĐTBXH ; Điều 19, Điều 22 Thông tư số 27/2016/TT-BLĐTBXH. Khi gửi ý kiến cho Quỹ về quỹ tiền lương, tiền thưởng hàng năm thì đồng thời gửi Bộ Lao động - Thương binh và Xã hội để theo dõi, giám sát chung.
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.5.10. Hiệu lực thi hành
 
-**Chỉ mục:** 7
+(Điều 10 Thông tư số 13/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/08/2022)
 
-**Mã phân cấp:** 1200400000000001200011580261600009000070
+Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 8 năm 2022.
 
-**ID:** dk_00013646
+Trong quá trình thực hiện nếu có vướng mắc, đề nghị cơ quan, tổ chức phản ánh về Bộ Lao động - Thương binh và Xã hội để nghiên cứu, sửa đổi, bổ sung kịp thời.
 
----
+Điều 12.4.TT.6.23. Hiệu lực thi hành
 
+(Điều 23 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-### Điều 12.4.TT.2.8. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2022.
 
-*Nội dung chưa có sẵn*
+2. Thông tư này thay thế Thông tư số 81/2007/TT-BTC ngày 11/07/2007 của Bộ Tài chính về hướng dẫn chế độ tài chính đối với Quỹ hỗ trợ phát triển hợp tác xã.
 
-**Chỉ mục:** 8
+Điều 12.4.TT.6.24. Tổ chức thực hiện
 
-**Mã phân cấp:** 1200400000000001200011580261600009000080
+(Điều 24 Thông tư số 52/2022/TT-BTC, có hiệu lực thi hành kể từ ngày 01/10/2022)
 
-**ID:** dk_00013647
+1. Chủ tịch/Chủ tịch Hội đồng quản trị Quỹ hợp tác xã, ban điều hành Quỹ hợp tác xã và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quy định tại Thông tư này.
 
----
+2. Trong quá trình thực hiện, nếu có khó khăn vướng mắc, đề nghị các cơ quan, đơn vị có liên quan phản ánh về Bộ Tài chính để được hướng dẫn theo quy định của pháp luật.
 
+Điều 12.4.TT.7.15. Trách nhiệm thi hành
 
-### Điều 12.4.TT.3.6. Hiệu lực thi hành
+(Điều 15 Thông tư số 09/2024/TT-BKHĐT, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-*Nội dung chưa có sẵn*
+1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các đối tượng áp dụng của Thông tư chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 6
+2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh kịp thời về Bộ Kế hoạch và Đầu tư để nghiên cứu, sửa đổi, bổ sung.
 
-**Mã phân cấp:** 1200400000000001200011580265070031000060
+## Danh sách điều khoản
 
-**ID:** dk_00013648
+### 12004000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 1200400000000000100000100000000000000000
 
-### Điều 12.4.TT.4.19. Hiệu lực thi hành
+Điều 12.4.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 1200400000000000100000200000000000000000
 
-**Chỉ mục:** 19
+Điều 12.4.LQ.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1200400000000001200011580278780124000190
+### 1200400000000000100000240270660077000010
 
-**ID:** dk_00013649
+Điều 12.4.NĐ.1.1. Phạm vi điều chỉnh
 
----
+### 1200400000000000100000240270660077000020
 
+Điều 12.4.NĐ.1.2. Đối tượng áp dụng
 
-### Điều 12.4.TT.5.9. Trách nhiệm thực hiện
+### 1200400000000000100000240276040045000010
 
-*Nội dung chưa có sẵn*
+Điều 12.4.NĐ.2.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 9
+### 1200400000000000100000240288090092000010
 
-**Mã phân cấp:** 1200400000000001200011580280600013000090
+Điều 12.4.NĐ.3.1. Phạm vi điều chỉnh
 
-**ID:** dk_00013650
+### 1200400000000000100000240288090092000020
 
----
+Điều 12.4.NĐ.3.2. Đối tượng áp dụng
 
+### 1200400000000000100000280254700083000010
 
-### Điều 12.4.TT.5.10. Hiệu lực thi hành
+Điều 12.4.TT.1.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+### 1200400000000000100000280261600009000010
 
-**Chỉ mục:** 10
+Điều 12.4.TT.2.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 1200400000000001200011580280600013000100
+### 1200400000000000100000280261600009000020
 
-**ID:** dk_00013651
+Điều 12.4.TT.2.2. Đối tượngáp dụng
 
----
+### 1200400000000000100000280265070031000010
 
+Điều 12.4.TT.3.1. Phạm vi điều chỉnh
 
-### Điều 12.4.TT.6.23. Hiệu lực thi hành
+### 1200400000000000100000280265070031000020
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.3.2. Đối tượng áp dụng
 
-**Chỉ mục:** 23
+### 1200400000000000100000280278780124000010
 
-**Mã phân cấp:** 1200400000000001200011580281030052000230
+Điều 12.4.TT.4.1. Phạm vi điều chỉnh
 
-**ID:** dk_00013652
+### 1200400000000000100000280278780124000020
 
----
+Điều 12.4.TT.4.2. Đối tượng áp dụng
 
+### 1200400000000000100000280280600013000010
 
-### Điều 12.4.TT.6.24. Tổ chức thực hiện
+Điều 12.4.TT.5.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+### 1200400000000000100000280280600013000020
 
-**Chỉ mục:** 24
+Điều 12.4.TT.5.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1200400000000001200011580281030052000240
+### 1200400000000000100000280281030052000010
 
-**ID:** dk_00013653
+Điều 12.4.TT.6.1. Phạm vi điều chỉnh
 
----
+### 1200400000000000100000280281030052000020
 
+Điều 12.4.TT.6.2. Đối tượng áp dụng
 
-### Điều 12.4.TT.7.15. Trách nhiệm thi hành
+### 1200400000000000100000280287460009000010
 
-*Nội dung chưa có sẵn*
+Điều 12.4.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 15
+### 1200400000000000100000300000000000000000
 
-**Mã phân cấp:** 1200400000000001200011580287460009000150
+Điều 12.4.LQ.3. Áp dụng Luật Hợp tác xã và luật khác
 
-**ID:** dk_00013654
+### 1200400000000000100000400000000000000000
 
----
+Điều 12.4.LQ.4. Giải thích từ ngữ
 
+### 1200400000000000100000440270660077000030
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Doanh nghiệp, hợp tác xã](/doanh-nghiep-hop-tac-xa/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 12.4.NĐ.1.3. Giải thích từ ngữ
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 384
-- **Điều khoản thực tế:** 372
-- **Điều khoản có nội dung:** 242 (65.1%)
-- **ID đề mục:** 1dc74584acb9457295f53e46bb5524d2
+### 1200400000000000100000440276040045000020
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 12.4.NĐ.2.2. Giải thích từ ngữ
 
----
+### 1200400000000000100000440288090092000030
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 12.4.NĐ.3.3. Giải thích từ ngữ
+
+### 1200400000000000100000480287460009000020
+
+Điều 12.4.TT.7.2. Giải thích từ ngữ
+
+### 1200400000000000100000500000000000000000
+
+Điều 12.4.LQ.5. Bảo đảm của Nhà nước đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và thành viên
+
+### 1200400000000000100000600000000000000000
+
+Điều 12.4.LQ.6. Tổ chức chính trị, tổ chức chính trị - xã hội trong tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100000700000000000000000
+
+Điều 12.4.LQ.7. Hành vi bị nghiêm cấm liên quan đến tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100000800000000000000000
+
+Điều 12.4.LQ.8. Nguyên tắc tổ chức, quản lý và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100000900000000000000000
+
+Điều 12.4.LQ.9. Quyền của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100001000000000000000000
+
+Điều 12.4.LQ.10. Nghĩa vụ của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000010000100000000000000000000802547000830001100
+
+Điều 12.4.TT.1.11. Kiểm kê tài sản
+
+### 120040000000000010000100000000000000000000802547000830001200
+
+Điều 12.4.TT.1.12. Đánh giá lại tài sản
+
+### 120040000000000010000100000000000000000000802547000830001300
+
+Điều 12.4.TT.1.13. Quản lý nợ phải thu
+
+### 120040000000000010000100000000000000000000802547000830001400
+
+Điều 12.4.TT.1.14. Quản lý nợ phải trả
+
+### 120040000000000010000100000000000000000000802547000830001500
+
+Điều 12.4.TT.1.15. Quản lý, theo dõi tạm ứng và thanh toán tạm ứng
+
+### 120040000000000010000100000000000000000000802547000830001600
+
+Điều 12.4.TT.1.16. Quản lý các khoản thuế phải nộp và các nghĩa vụ tài chính với Nhà nước
+
+### 120040000000000010000100000000000000000000802547000830001700
+
+Điều 12.4.TT.1.17. Quản lý thanh toán với thành viên và người lao động
+
+### 120040000000000010000100000000000000000000802547000830001800
+
+Điều 12.4.TT.1.18. Nguyên tắc quản lý doanh thu, thu nhập khác và chi phí
+
+### 120040000000000010000100000000000000000000802547000830001900
+
+Điều 12.4.TT.1.19. Quản lý doanh thu và thu nhập khác
+
+### 120040000000000010000100000000000000000000802547000830002000
+
+Điều 12.4.TT.1.20. Quản lý chi phí
+
+### 120040000000000010000100000000000000000000802547000830002300
+
+Điều 12.4.TT.1.23. Mục đích sử dụng các quỹ
+
+### 120040000000000010000100000000000000000000802547000830002400
+
+Điều 12.4.TT.1.24. Báo cáo tài chính:
+
+### 120040000000000010000100000000000000000000802547000830002500
+
+Điều 12.4.TT.1.25. Công khai tài chính:
+
+### 120040000000000010000100000000000000000000802547000830002600
+
+Điều 12.4.TT.1.26. Bàn giao công tác quản lý tài chính:
+
+### 120040000000000010000100000000000000000000802547000830002700
+
+Điều 12.4.TT.1.27. Kiểm tra tài chính kế toán:
+
+### 120040000000000010000100000000000000000000802547000830002800
+
+Điều 12.4.TT.1.28. Quản lý hồ sơ chứng từ
+
+### 1200400000000000100001100000000000000000
+
+Điều 12.4.LQ.11. Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100001200000000000000000
+
+Điều 12.4.LQ.12. Chế độ lưu trữ tài liệu
+
+### 1200400000000000100001300000000000000000
+
+Điều 12.4.LQ.13. Hệ thống thông tin quốc gia về hợp tác xã
+
+### 120040000000000010000130000000000000000000802874600090000400
+
+Điều 12.4.TT.7.4. Nguyên tắc thực hiện
+
+### 120040000000000010000130000000000000000000802874600090000500
+
+Điều 12.4.TT.7.5. Nội dung thông tin
+
+### 120040000000000010000130000000000000000000802874600090000600
+
+Điều 12.4.TT.7.6. Cập nhật thông tin của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000010000130000000000000000000802874600090000700
+
+Điều 12.4.TT.7.7. Cập nhật thông tin của cơ quan đăng ký kinh doanh các cấp
+
+### 120040000000000010000130000000000000000000802874600090000800
+
+Điều 12.4.TT.7.8. Khai thác thông tin trên Hệ thống thông tin quốc gia về hợp tác xã
+
+### 120040000000000010000130000000000000000000802874600090000900
+
+Điều 12.4.TT.7.9. Quản lý Hệ thống thông tin quốc gia về hợp tác xã
+
+### 120040000000000010000130000000000000000000802874600090001000
+
+Điều 12.4.TT.7.10. Kết nối, chia sẻ thông tin
+
+### 120040000000000010000130000000000000000000802874600090001100
+
+Điều 12.4.TT.7.11. Trách nhiệm của cán bộ, công chức, viên chức được giao quản lý Cơ sở dữ liệu về hợp tác xã của bộ, ngành, địa phương
+
+### 120040000000000010000130000000000000000000802874600090001200
+
+Điều 12.4.TT.7.12. Trách nhiệm của cơ quan, đơn vị có tài khoản truy cập
+
+### 120040000000000010000130000000000000000000802874600090001300
+
+Điều 12.4.TT.7.13. Trách nhiệm của bộ, ngành, địa phương
+
+### 1200400000000000100001400000000000000000
+
+Điều 12.4.LQ.14. Công bố thông tin cho thành viên hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100001500000000000000000
+
+Điều 12.4.LQ.15. Sổ đăng ký thành viên của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000100001600000000000000000
+
+Điều 12.4.LQ.16. Phân loại hợp tác xã
+
+### 120040000000000010000160000000000000000000802616000090000300
+
+Điều 12.4.TT.2.3. Phân loại hợp tác xã nông nghiệp
+
+### 120040000000000010000160000000000000000000802616000090000400
+
+Điều 12.4.TT.2.4. Tiêu chí đánh giá hợp tác xã nông nghiệp
+
+### 120040000000000010000160000000000000000000802616000090000500
+
+Điều 12.4.TT.2.5. Phương pháp và trình tự đánh giá hợp tác xã nông nghiệp
+
+### 120040000000000010000160000000000000000000802616000090000600
+
+Điều 12.4.TT.2.6. Xếp loại hợp tác xã nông nghiệp
+
+### 12004000000000002000
+
+Chương II CHÍNH SÁCH CỦA NHÀ NƯỚC VỀ PHÁT TRIỂN TỔ HỢP TÁC, HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000000200001700000000000000000
+
+Điều 12.4.LQ.17. Nguyên tắc thực hiện chính sách
+
+### 1200400000000000200001800000000000000000
+
+Điều 12.4.LQ.18. Tiêu chí thụ hưởng chính sách
+
+### 1200400000000000200001900000000000000000
+
+Điều 12.4.LQ.19. Nguồn vốn thực hiện chính sách
+
+### 1200400000000000200002000000000000000000
+
+Điều 12.4.LQ.20. Chính sách phát triển nguồn nhân lực, thông tin, tư vấn
+
+### 1200400000000000200002100000000000000000
+
+Điều 12.4.LQ.21. Chính sách đất đai
+
+### 1200400000000000200002200000000000000000
+
+Điều 12.4.LQ.22. Chính sách thuế, phí và lệ phí
+
+### 1200400000000000200002300000000000000000
+
+Điều 12.4.LQ.23. Chính sách tiếp cận vốn, bảo hiểm
+
+### 1200400000000000200002400000000000000000
+
+Điều 12.4.LQ.24. Chính sách ứng dụng khoa học và công nghệ, đổi mới sáng tạo và chuyển đổi số
+
+### 1200400000000000200002500000000000000000
+
+Điều 12.4.LQ.25. Chính sách tiếp cận và nghiên cứu thị trường
+
+### 1200400000000000200002600000000000000000
+
+Điều 12.4.LQ.26. Chính sách đầu tư phát triển kết cấu hạ tầng, trang thiết bị
+
+### 1200400000000000200002700000000000000000
+
+Điều 12.4.LQ.27. Chính sách hỗ trợ tư vấn tài chính và đánh giá rủi ro
+
+### 1200400000000000200002800000000000000000
+
+Điều 12.4.LQ.28. Chính sách hỗ trợ hoạt động trong lĩnh vực nông nghiệp
+
+### 1200400000000000200002900000000000000000
+
+Điều 12.4.LQ.29. Quỹ hỗ trợ phát triển hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450000300
+
+Điều 12.4.NĐ.2.3. Địa vị pháp lý, tư cách pháp nhân
+
+### 120040000000000020000290000000000000000000402760400450000400
+
+Điều 12.4.NĐ.2.4. Chức năng, nhiệm vụ của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450000500
+
+Điều 12.4.NĐ.2.5. Nguyên tắc hoạt động của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450000600
+
+Điều 12.4.NĐ.2.6. Trách nhiệm và quyền hạn của Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000060000802810300520002200
+
+Điều 12.4.TT.6.22. Trách nhiệm của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450000700
+
+Điều 12.4.NĐ.2.7. Mô hình hoạt động của Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450000800
+
+Điều 12.4.NĐ.2.8. Quyền hạn, trách nhiệm của Thủ tướng Chính phủ và Liên minh Hợp tác xã Việt Nam, Chủ tịch Quỹ hợp tác xã trung ương đối với Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450000900
+
+Điều 12.4.NĐ.2.9. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450001000
+
+Điều 12.4.NĐ.2.10. Chủ tịch Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450001100
+
+Điều 12.4.NĐ.2.11. Kiểm soát viên Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450001200
+
+Điều 12.4.NĐ.2.12. Tổng giám đốc Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450001300
+
+Điều 12.4.NĐ.2.13. Phó Tổng giám đốc, Kế toán trưởng và bộ máy giúp việc của Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450001400
+
+Điều 12.4.NĐ.2.14. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450001500
+
+Điều 12.4.NĐ.2.15. Thành lập mới Quỹ hợp tác xã địa phương
+
+### 120040000000000020000290000000000000000000402760400450001600
+
+Điều 12.4.NĐ.2.16. Mô hình hoạt động và phương thức tổ chức điều hành hoạt động của Quỹ hợp tác xã địa phương
+
+### 120040000000000020000290000000000000000000402760400450001700
+
+Điều 12.4.NĐ.2.17. Quyền hạn, trách nhiệm của Ủy ban nhân dân cấp tỉnh và Liên minh hợp tác xã cấp tỉnh; cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ
+
+### 12004000000000002000029000000000000000000040276040045000170000802810300520001000
+
+Điều 12.4.TT.6.10. Phê duyệt báo cáo tài chính
+
+### 12004000000000002000029000000000000000000040276040045000170000802810300520001200
+
+Điều 12.4.TT.6.12. Lập kế hoạch tài chính hằng năm
+
+### 120040000000000020000290000000000000000000402760400450001800
+
+Điều 12.4.NĐ.2.18. Cơ cấu tổ chức, bộ máy của Quỹ hợp tác xã địa phương hoạt động theo mô hình hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450001900
+
+Điều 12.4.NĐ.2.19. Điều lệ tổ chức và hoạt động của Quỹ hợp tác xã địa phương
+
+### 120040000000000020000290000000000000000000402760400450002000
+
+Điều 12.4.NĐ.2.20. Đối tượng và phạm vi cho vay
+
+### 120040000000000020000290000000000000000000402760400450002100
+
+Điều 12.4.NĐ.2.21. Nguyên tắc cho vay
+
+### 120040000000000020000290000000000000000000402760400450002200
+
+Điều 12.4.NĐ.2.22. Điều kiện cho vay
+
+### 120040000000000020000290000000000000000000402760400450002300
+
+Điều 12.4.NĐ.2.23. Mức vốn cho vay và giới hạn cho vay
+
+### 120040000000000020000290000000000000000000402760400450002400
+
+Điều 12.4.NĐ.2.24. Thời hạn cho vay
+
+### 120040000000000020000290000000000000000000402760400450002500
+
+Điều 12.4.NĐ.2.25. Lãi suất cho vay và đồng tiền cho vay, thu nợ
+
+### 120040000000000020000290000000000000000000402760400450002600
+
+Điều 12.4.NĐ.2.26. Bảo đảm tiền vay
+
+### 120040000000000020000290000000000000000000402760400450002700
+
+Điều 12.4.NĐ.2.27. Cơ cấu lại thời hạn trả nợ
+
+### 120040000000000020000290000000000000000000402760400450002800
+
+Điều 12.4.NĐ.2.28. Phân loại nợ, trích lập, sử dụng dự phòng rủi ro cho vay
+
+### 120040000000000020000290000000000000000000402760400450002900
+
+Điều 12.4.NĐ.2.29. Hội đồng xử lý rủi ro
+
+### 120040000000000020000290000000000000000000402760400450003000
+
+Điều 12.4.NĐ.2.30. Hoạt động ủy thác cho vay của Quỹ hợp tác xã trung ương
+
+### 120040000000000020000290000000000000000000402760400450003100
+
+Điều 12.4.NĐ.2.31. Ban hành quy định nội bộ về cho vay, quản lý tiền vay
+
+### 120040000000000020000290000000000000000000402760400450003200
+
+Điều 12.4.NĐ.2.32. Hoạt động huy động vốn của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450003300
+
+Điều 12.4.NĐ.2.33. Hoạt động khác của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450003400
+
+Điều 12.4.NĐ.2.34. Chế độ tài chính, kế toán và kiểm toán
+
+### 120040000000000020000290000000000000000000402760400450003500
+
+Điều 12.4.NĐ.2.35. Nguyên tắc quản lý tài chính
+
+### 120040000000000020000290000000000000000000402760400450003600
+
+Điều 12.4.NĐ.2.36. Nguồn vốn hoạt động của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450003700
+
+Điều 12.4.NĐ.2.37. Vốn điều lệ của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450003800
+
+Điều 12.4.NĐ.2.38. Nguyên tắc quản lý, sử dụng vốn và tài sản của Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000380000802810300520000300
+
+Điều 12.4.TT.6.3. Quản lý và sử dụng tài sản
+
+### 120040000000000020000290000000000000000000402760400450003900
+
+Điều 12.4.NĐ.2.39. Bảo đảm an toàn vốn
+
+### 120040000000000020000290000000000000000000402760400450004000
+
+Điều 12.4.NĐ.2.40. Lương, phụ cấp lương của Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450004100
+
+Điều 12.4.NĐ.2.41. Thu nhập của Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000410000802810300520000500
+
+Điều 12.4.TT.6.5. Nguyên tắc ghi nhận doanh thu
+
+### 12004000000000002000029000000000000000000040276040045000410000802810300520000600
+
+Điều 12.4.TT.6.6. Doanh thu
+
+### 120040000000000020000290000000000000000000402760400450004200
+
+Điều 12.4.NĐ.2.42. Chi phí của Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000420000802810300520000700
+
+Điều 12.4.TT.6.7. Nguyên tắc ghi nhận và quản lý chi phí
+
+### 12004000000000002000029000000000000000000040276040045000420000802810300520000800
+
+Điều 12.4.TT.6.8. Chi phí
+
+### 12004000000000002000029000000000000000000040276040045000420000802810300520000900
+
+Điều 12.4.TT.6.9. Các khoản chi không được hạch toán vào chi phí
+
+### 120040000000000020000290000000000000000000402760400450004300
+
+Điều 12.4.NĐ.2.43. Kết quả tài chính và phân phối kết quả tài chính
+
+### 120040000000000020000290000000000000000000402760400450004400
+
+Điều 12.4.NĐ.2.44. Chế độ báo cáo
+
+### 12004000000000002000029000000000000000000040276040045000440000802810300520001100
+
+Điều 12.4.TT.6.11. Chế độ báo cáo và công khai tài chính
+
+### 120040000000000020000290000000000000000000402760400450004500
+
+Điều 12.4.NĐ.2.45. Đánh giá hiệu quả hoạt động của Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000450000802810300520001300
+
+Điều 12.4.TT.6.13. Phương thức xác định các chỉ tiêu đánh giá hiệu quả hoạt động
+
+### 12004000000000002000029000000000000000000040276040045000450000802810300520001400
+
+Điều 12.4.TT.6.14. Phương thức xếp loại Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000450000802810300520001500
+
+Điều 12.4.TT.6.15. Tổng hợp xếp loại Quỹ hợp tác xã
+
+### 12004000000000002000029000000000000000000040276040045000450000802810300520001600
+
+Điều 12.4.TT.6.16. Đánh giá hiệu quả hoạt động và xếp loại Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450004600
+
+Điều 12.4.NĐ.2.46. Các trường hợp giải thể Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450004700
+
+Điều 12.4.NĐ.2.47. Thẩm quyền quyết định giải thể Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450004800
+
+Điều 12.4.NĐ.2.48. Hồ sơ, trình tự, thủ tục giải thể Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450004900
+
+Điều 12.4.NĐ.2.49. Phá sản Quỹ hợp tác xã
+
+### 120040000000000020000290000000000000000000402760400450005000
+
+Điều 12.4.NĐ.2.50. Chuyển đổi mô hình hoạt động
+
+### 12004000000000002000029000000000000000000040276040045000500000802810300520001700
+
+Điều 12.4.TT.6.17. Chuyển đổi Quỹ hợp tác xã hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ sang mô hình hợp tác xã.
+
+### 12004000000000002000029000000000000000000040276040045000500000802810300520001800
+
+Điều 12.4.TT.6.18. Chuyển đổi Quỹ hợp tác xã hoạt động theo mô hình hợp tác xã sang mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
+
+### 120040000000000020000290000000000000000000402760400450005100
+
+Điều 12.4.NĐ.2.51. Trách nhiệm của Bộ Tài chính
+
+### 12004000000000002000029000000000000000000040276040045000510000802810300520001900
+
+Điều 12.4.TT.6.19. Trách nhiệm của Bộ Tài chính
+
+### 120040000000000020000290000000000000000000402760400450005200
+
+Điều 12.4.NĐ.2.52. Trách nhiệm của Ngân hàng Nhà nước Việt Nam
+
+### 120040000000000020000290000000000000000000402760400450005300
+
+Điều 12.4.NĐ.2.53. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+
+### 120040000000000020000290000000000000000000402760400450005400
+
+Điều 12.4.NĐ.2.54. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
+
+### 120040000000000020000290000000000000000000402760400450005500
+
+Điều 12.4.NĐ.2.55. Trách nhiệm của Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh
+
+### 12004000000000002000029000000000000000000040276040045000550000802810300520002000
+
+Điều 12.4.TT.6.20. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 120040000000000020000290000000000000000000402760400450005600
+
+Điều 12.4.NĐ.2.56. Trách nhiệm của Liên minh Hợp tác xã Việt Nam và Liên minh hợp tác xã Việt Nam cấp tỉnh
+
+### 12004000000000002000029000000000000000000040276040045000560000802810300520002100
+
+Điều 12.4.TT.6.21. Trách nhiệm của Liên minh hợp tác xã các cấp
+
+### 120040000000000020000290000000000000000000502233502460000100
+
+Điều 12.4.QĐ.1.1.
+
+### 12004000000000002000029000000000000000000050223350246000010000802806000130000300
+
+Điều 12.4.TT.5.3. Thang lương, bảng lương và phụ cấp lương
+
+### 12004000000000002000029000000000000000000050223350246000010000802806000130000400
+
+Điều 12.4.TT.5.4. Quản lý lao động, xác định quỹ tiền lương, tạm ứng quỹ tiền lương, phân phối tiền lương, tiền thưởng
+
+### 12004000000000002000029000000000000000000050223350246000010000802806000130000500
+
+Điều 12.4.TT.5.5. Loại trừ các yếu tố khách quan khi xác định quỹ tiền lương của người lao động
+
+### 12004000000000002000029000000000000000000050223350246000010000802806000130000600
+
+Điều 12.4.TT.5.6. Xếp lương, chuyển xếp lương đối với người quản lý Quỹ chuyên trách
+
+### 12004000000000002000029000000000000000000050223350246000010000802806000130000700
+
+Điều 12.4.TT.5.7. Xác định quỹ tiền lương, thù lao, tiền thưởng
+
+### 12004000000000002000029000000000000000000050223350246000010000802806000130000800
+
+Điều 12.4.TT.5.8. Loại trừ yếu tố khách quan khi xác định quỹ tiền lương, thù lao đối với người quản lý
+
+### 12004000000000003000
+
+Chương III THÀNH VIÊN CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ Mục 1. THÀNH VIÊN HỢP TÁC XÃ
+
+### 1200400000000000300003000000000000000000
+
+Điều 12.4.LQ.30. Điều kiện trở thành thành viên hợp tác xã
+
+### 1200400000000000300003100000000000000000
+
+Điều 12.4.LQ.31. Quyền của thành viên hợp tác xã
+
+### 1200400000000000300003200000000000000000
+
+Điều 12.4.LQ.32. Nghĩa vụ của thành viên hợp tác xã
+
+### 1200400000000000300003300000000000000000
+
+Điều 12.4.LQ.33. Chấm dứt tư cách thành viên hợp tác xã
+
+### 1200400000000000300003400000000000000000
+
+Điều 12.4.LQ.34. Điều kiện trở thành thành viên liên hiệp hợp tác xã
+
+### 1200400000000000300003500000000000000000
+
+Điều 12.4.LQ.35. Quyền của thành viên liên hiệp hợp tác xã
+
+### 1200400000000000300003600000000000000000
+
+Điều 12.4.LQ.36. Nghĩa vụ của thành viên liên hiệp hợp tác xã
+
+### 1200400000000000300003700000000000000000
+
+Điều 12.4.LQ.37. Chấm dứt tư cách thành viên liên hiệp hợp tác xã
+
+### 12004000000000004000
+
+Chương IV THÀNH LẬP HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000000400003800000000000000000
+
+Điều 12.4.LQ.38. Sáng lập viên
+
+### 1200400000000000400003900000000000000000
+
+Điều 12.4.LQ.39. Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004000000000000000000
+
+Điều 12.4.LQ.40. Nội dung của Điều lệ hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004100000000000000000
+
+Điều 12.4.LQ.41. Đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920000400
+
+Điều 12.4.NĐ.3.4. Nguyên tắc áp dụng giải quyết thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920000500
+
+Điều 12.4.NĐ.3.5. Cơ quan đăng ký kinh doanh tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920000600
+
+Điều 12.4.NĐ.3.6. Nhiệm vụ, quyền hạn của Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư tỉnh, thành phố trực thuộc trung ương
+
+### 120040000000000040000410000000000000000000402880900920000700
+
+Điều 12.4.NĐ.3.7. Nhiệm vụ, quyền hạn của cơ quan đăng ký kinh doanh cấp huyện
+
+### 120040000000000040000410000000000000000000402880900920000900
+
+Điều 12.4.NĐ.3.9. Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh
+
+### 120040000000000040000410000000000000000000402880900920001000
+
+Điều 12.4.NĐ.3.10. Kê khai thông tin cá nhân trong thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920001100
+
+Điều 12.4.NĐ.3.11. Số lượng hồ sơ và ngôn ngữ sử dụng trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920001200
+
+Điều 12.4.NĐ.3.12. Ủy quyền thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920001300
+
+Điều 12.4.NĐ.3.13. Ghi ngành, nghề kinh doanh của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920001400
+
+Điều 12.4.NĐ.3.14. Mã số tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920001900
+
+Điều 12.4.NĐ.3.19. Tiếp nhận, xử lý hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên Hệ thống thông tin về đăng ký hợp tác xã theo phương thức nộp hồ sơ trực tiếp tại cơ quan đăng ký kinh doanh cấp huyện và đăng ký qua dịch vụ bưu chính
+
+### 120040000000000040000410000000000000000000402880900920002000
+
+Điều 12.4.NĐ.3.20. Cấp đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo quy trình dự phòng
+
+### 120040000000000040000410000000000000000000402880900920002200
+
+Điều 12.4.NĐ.3.22. Phương thức thanh toán lệ phí đăng ký kinh doanh đối với hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+
+### 120040000000000040000410000000000000000000402880900920002300
+
+Điều 12.4.NĐ.3.23. Xác định nội dung kê khai trong hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã là giả mạo
+
+### 120040000000000040000410000000000000000000402880900920002400
+
+Điều 12.4.NĐ.3.24. Xử lý các trường hợp thực hiện không đúng quy định về hồ sơ, trình tự, thủ tục hoặc nội dung kê khai trong hồ sơ đăng ký thay đổi là giả mạo hoặc nội dung kê khai trong hồ sơ không trung thực, không chính xác
+
+### 120040000000000040000410000000000000000000402880900920002500
+
+Điều 12.4.NĐ.3.25. Chuẩn hóa, chuyển đổi dữ liệu đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920002600
+
+Điều 12.4.NĐ.3.26. Hiệu đính, cập nhật, bổ sung thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920002700
+
+Điều 12.4.NĐ.3.27. Tình trạng pháp lý của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920002800
+
+Điều 12.4.NĐ.3.28. Tình trạng pháp lý của tổ hợp tác, tình trạng pháp lý của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920002900
+
+Điều 12.4.NĐ.3.29. Công khai thông tin đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920003000
+
+Điều 12.4.NĐ.3.30. Đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử
+
+### 120040000000000040000410000000000000000000402880900920003100
+
+Điều 12.4.NĐ.3.31. Hồ sơ đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử
+
+### 120040000000000040000410000000000000000000402880900920003200
+
+Điều 12.4.NĐ.3.32. Trình tự, thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã trên môi trường điện tử sử dụng chữ ký số
+
+### 120040000000000040000410000000000000000000402880900920003300
+
+Điều 12.4.NĐ.3.33. Các trường hợp cơ quan đăng ký kinh doanh cấp huyện từ chối cấp đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920003400
+
+Điều 12.4.NĐ.3.34. Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920003500
+
+Điều 12.4.NĐ.3.35. Cấp Giấy chứng nhận đăng ký hợp tác xã
+
+### 120040000000000040000410000000000000000000402880900920005200
+
+Điều 12.4.NĐ.3.52. Chấm dứt tồn tại của hợp tác xã, liên hiệp hợp tác xã bị chia, bị hợp nhất, được sáp nhập
+
+### 120040000000000040000410000000000000000000402880900920005700
+
+Điều 12.4.NĐ.3.57. Quy trình đăng tải quyết định mở thủ tục phá sản, quyết định tuyên bố hợp tác xã, liên hiệp hợp tác xã phá sản của Tòa án
+
+### 120040000000000040000410000000000000000000802874600090000300
+
+Điều 12.4.TT.7.3. Hệ thống biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004200000000000000000
+
+Điều 12.4.LQ.42. Đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004300000000000000000
+
+Điều 12.4.LQ.43. Nội dung giấy đề nghị đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004400000000000000000
+
+Điều 12.4.LQ.44. Giấy chứng nhận đăng ký hợp tác xã
+
+### 120040000000000040000440000000000000000000402880900920004900
+
+Điều 12.4.NĐ.3.49. Cấp lại Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh
+
+### 1200400000000000400004500000000000000000
+
+Điều 12.4.LQ.45. Nội dung Giấy chứng nhận đăng ký hợp tác xã
+
+### 1200400000000000400004600000000000000000
+
+Điều 12.4.LQ.46. Mã số hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004700000000000000000
+
+Điều 12.4.LQ.47. Đăng ký thay đổi nội dung Giấy chứng nhận đăng ký hợp tác xã
+
+### 120040000000000040000470000000000000000000402880900920003700
+
+Điều 12.4.NĐ.3.37. Đăng ký thay đổi địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000470000000000000000000402880900920003800
+
+Điều 12.4.NĐ.3.38. Đăng ký thay đổi tên hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000470000000000000000000402880900920003900
+
+Điều 12.4.NĐ.3.39. Đăng ký thay đổi người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000470000000000000000000402880900920004000
+
+Điều 12.4.NĐ.3.40. Đăng ký thay đổi vốn điều lệ
+
+### 1200400000000000400004800000000000000000
+
+Điều 12.4.LQ.48. Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000480000000000000000000402880900920004100
+
+Điều 12.4.NĐ.3.41. Thông báo thay đổi ngành, nghề kinh doanh
+
+### 120040000000000040000480000000000000000000402880900920004200
+
+Điều 12.4.NĐ.3.42. Thông báo thay đổi thông tin đăng ký thuế
+
+### 120040000000000040000480000000000000000000402880900920004300
+
+Điều 12.4.NĐ.3.43. Thông báo thay đổi thông tin về thành viên chính thức, thành viên liên kết góp vốn là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài
+
+### 120040000000000040000480000000000000000000402880900920004400
+
+Điều 12.4.NĐ.3.44. Thông báo về việc thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000480000000000000000000402880900920004600
+
+Điều 12.4.NĐ.3.46. Thông báo bổ sung, cập nhật thông tin trong hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004900000000000000000
+
+Điều 12.4.LQ.49. Công bố nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400004910284150017000500
+
+Điều 12.4.LQ.50. Tên của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và địa điểm kinh doanh
+
+### 120040000000000040000491028415001700050000402880900920001500
+
+Điều 12.4.NĐ.3.15. Tên của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000491028415001700050000402880900920001600
+
+Điều 12.4.NĐ.3.16. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000491028415001700050000402880900920001700
+
+Điều 12.4.NĐ.3.17. Tên trùng và tên gây nhầm lẫn của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000491028415001700050000402880900920001800
+
+Điều 12.4.NĐ.3.18. Xử lý đối với trường hợp tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã xâm phạm quyền sở hữu công nghiệp
+
+### 1200400000000000400005100000000000000000
+
+Điều 12.4.LQ.51. Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400005200000000000000000
+
+Điều 12.4.LQ.52. Dấu của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400005300000000000000000
+
+Điều 12.4.LQ.53. Chi nhánh, văn phòng đại diện và địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400005400000000000000000
+
+Điều 12.4.LQ.54. Cung cấp thông tin về nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000400005500000000000000000
+
+Điều 12.4.LQ.55. Đăng ký hoạt động chi nhánh, văn phòng đại diện; thông báo địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000040000550000000000000000000402880900920003600
+
+Điều 12.4.NĐ.3.36. Hồ sơ, trình tự, thủ tục đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo địa điểm kinh doanh
+
+### 120040000000000040000550000000000000000000402880900920004500
+
+Điều 12.4.NĐ.3.45. Đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+
+### 12004000000000005000
+
+Chương V TỔ CHỨC QUẢN TRỊ CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ Mục 1. TỔ CHỨC QUẢN TRỊ VÀ ĐẠI HỘI THÀNH VIÊN
+
+### 1200400000000000500005600000000000000000
+
+Điều 12.4.LQ.56. Tổ chức quản trị
+
+### 1200400000000000500005700000000000000000
+
+Điều 12.4.LQ.57. Đại hội thành viên
+
+### 1200400000000000500005800000000000000000
+
+Điều 12.4.LQ.58. Đại biểu tham dự đại hội đại biểu
+
+### 1200400000000000500005900000000000000000
+
+Điều 12.4.LQ.59. Triệu tập Đại hội thành viên
+
+### 1200400000000000500006000000000000000000
+
+Điều 12.4.LQ.60. Chuẩn bị Đại hội thành viên
+
+### 1200400000000000500006100000000000000000
+
+Điều 12.4.LQ.61. Tham dự và biểu quyết trong Đại hội thành viên
+
+### 1200400000000000500006200000000000000000
+
+Điều 12.4.LQ.62. Điều kiện trở thành thành viên Hội đồng quản trị, Giám đốc (Tổng giám đốc), thành viên Ban kiểm soát hoặc kiểm soát viên, kế toán
+
+### 1200400000000000500006300000000000000000
+
+Điều 12.4.LQ.63. Miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động đối với người giữ các chức danh trong hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000500006400000000000000000
+
+Điều 12.4.LQ.64. Thẩm quyền của Đại hội thành viên theo tổ chức quản trị đầy đủ
+
+### 1200400000000000500006500000000000000000
+
+Điều 12.4.LQ.65. Hội đồng quản trị
+
+### 1200400000000000500006600000000000000000
+
+Điều 12.4.LQ.66. Nhiệm vụ, quyền hạn của Hội đồng quản trị
+
+### 1200400000000000500006700000000000000000
+
+Điều 12.4.LQ.67. Chủ tịch Hội đồng quản trị
+
+### 1200400000000000500006800000000000000000
+
+Điều 12.4.LQ.68. Giám đốc (Tổng giám đốc) theo tổ chức quản trị đầy đủ
+
+### 1200400000000000500006900000000000000000
+
+Điều 12.4.LQ.69. Ban kiểm soát theo tổ chức quản trị đầy đủ
+
+### 1200400000000000500007000000000000000000
+
+Điều 12.4.LQ.70. Thẩm quyền của Đại hội thành viên theo tổ chức quản trị rút gọn
+
+### 1200400000000000500007100000000000000000
+
+Điều 12.4.LQ.71. Giám đốc theo tổ chức quản trị rút gọn
+
+### 1200400000000000500007200000000000000000
+
+Điều 12.4.LQ.72. Kiểm soát viên theo tổ chức quản trị rút gọn
+
+### 12004000000000006000
+
+Chương VI TÀI SẢN, TÀI CHÍNH CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000000600007300000000000000000
+
+Điều 12.4.LQ.73. Tài sản góp vốn
+
+### 1200400000000000600007400000000000000000
+
+Điều 12.4.LQ.74. Góp vốn điều lệ hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600007500000000000000000
+
+Điều 12.4.LQ.75. Giấy chứng nhận phần vốn góp
+
+### 1200400000000000600007600000000000000000
+
+Điều 12.4.LQ.76. Chuyển giao tài sản góp vốn
+
+### 1200400000000000600007700000000000000000
+
+Điều 12.4.LQ.77. Định giá tài sản góp vốn, tài sản chung không chia
+
+### 1200400000000000600007800000000000000000
+
+Điều 12.4.LQ.78. Tăng, giảm vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600007900000000000000000
+
+Điều 12.4.LQ.79. Huy động vốn và tiếp nhận các khoản hỗ trợ, tặng cho, tài trợ
+
+### 1200400000000000600008000000000000000000
+
+Điều 12.4.LQ.80. Vốn hoạt động của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600008100000000000000000
+
+Điều 12.4.LQ.81. Thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600008200000000000000000
+
+Điều 12.4.LQ.82. Góp vốn, mua cổ phần tham gia doanh nghiệp
+
+### 1200400000000000600008300000000000000000
+
+Điều 12.4.LQ.83. Hoạt động cho vay nội bộ trong hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600008400000000000000000
+
+Điều 12.4.LQ.84. Quỹ chung không chia
+
+### 1200400000000000600008500000000000000000
+
+Điều 12.4.LQ.85. Thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600008600000000000000000
+
+Điều 12.4.LQ.86. Phân phối thu nhập
+
+### 1200400000000000600008700000000000000000
+
+Điều 12.4.LQ.87. Quản lý, sử dụng các quỹ
+
+### 1200400000000000600008800000000000000000
+
+Điều 12.4.LQ.88. Quản lý, sử dụng tài sản
+
+### 1200400000000000600008900000000000000000
+
+Điều 12.4.LQ.89. Xử lý các khoản lỗ, khoản nợ của hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000600009000000000000000000
+
+Điều 12.4.LQ.90. Trả lại, thừa kế phần vốn góp
+
+### 1200400000000000600009100000000000000000
+
+Điều 12.4.LQ.91. Chế độ kế toán
+
+### 12004000000000007000
+
+Chương VII TỔ CHỨC LẠI, GIẢI THỂ, PHÁ SẢN HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000000700009200000000000000000
+
+Điều 12.4.LQ.92. Chia hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700009300000000000000000
+
+Điều 12.4.LQ.93. Tách hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700009400000000000000000
+
+Điều 12.4.LQ.94. Hợp nhất hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700009500000000000000000
+
+Điều 12.4.LQ.95. Sáp nhập hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700009600000000000000000
+
+Điều 12.4.LQ.96. Tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh của hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000070000960000000000000000000402880900920004700
+
+Điều 12.4.NĐ.3.47. Thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại đối với hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+
+### 120040000000000070000960000000000000000000402880900920004800
+
+Điều 12.4.NĐ.3.48. Tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền
+
+### 1200400000000000700009700000000000000000
+
+Điều 12.4.LQ.97. Các trường hợp giải thể hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700009800000000000000000
+
+Điều 12.4.LQ.98. Giải thể tự nguyện đối với hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000070000980000000000000000000402880900920005000
+
+Điều 12.4.NĐ.3.50. Đăng ký giải thể tự nguyện hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700009900000000000000000
+
+Điều 12.4.LQ.99. Giải thể bắt buộc đối với hợp tác xã, liên hiệp hợp tác xã
+
+### 120040000000000070000990000000000000000000402880900920005100
+
+Điều 12.4.NĐ.3.51. Đăng ký giải thể bắt buộc hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700010000000000000000000
+
+Điều 12.4.LQ.100. Các hành vi bị cấm khi giải thể hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700010100000000000000000
+
+Điều 12.4.LQ.101. Xử lý tài sản khi hợp tác xã, liên hiệp hợp tác xã giải thể
+
+### 120040000000000070001010000000000000000000802650700310000300
+
+Điều 12.4.TT.3.3. Nguyên tắc xử lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản
+
+### 120040000000000070001010000000000000000000802650700310000400
+
+Điều 12.4.TT.3.4. Xử lý tài sản khi HTX, liên hiệp HTX giải thể, phá sản
+
+### 120040000000000070001010000000000000000000802650700310000500
+
+Điều 12.4.TT.3.5. Về xử lý nghĩa vụ tài chính khi bàn giao, chuyển nhượng, thanh lý tài sản hình thành từ nhiều nguồn vốn khi HTX giải thể, phá sản
+
+### 1200400000000000700010200000000000000000
+
+Điều 12.4.LQ.102. Giải quyết phá sản đối với hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000000700010300000000000000000
+
+Điều 12.4.LQ.103. Thu hồi Giấy chứng nhận đăng ký hợp tác xã
+
+### 120040000000000070001030000000000000000000402880900920005300
+
+Điều 12.4.NĐ.3.53. Trình tự, thủ tục thu hồi Giấy chứng nhận đăng ký hợp tác xã
+
+### 120040000000000070001030000000000000000000402880900920005600
+
+Điều 12.4.NĐ.3.56. Trình tự, thủ tục hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hợp tác xã
+
+### 1200400000000000700010400000000000000000
+
+Điều 12.4.LQ.104. Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+
+### 120040000000000070001040000000000000000000402880900920005400
+
+Điều 12.4.NĐ.3.54. Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+
+### 120040000000000070001040000000000000000000402880900920005500
+
+Điều 12.4.NĐ.3.55. Trình tự, thủ tục thu hồi, hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện
+
+### 12004000000000008000
+
+Chương VIII KIỂM TOÁN HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000000800010500000000000000000
+
+Điều 12.4.LQ.105. Kiểm toán nội bộ
+
+### 1200400000000000800010600000000000000000
+
+Điều 12.4.LQ.106. Kiểm toán độc lập
+
+### 12004000000000009000
+
+Chương IX TỔ HỢP TÁC
+
+### 1200400000000000900010700000000000000000
+
+Điều 12.4.LQ.107. Thành lập, hoạt động của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770000400
+
+Điều 12.4.NĐ.1.4. Nguyên tắc tổ chức và hoạt động của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770000500
+
+Điều 12.4.NĐ.1.5. Quyền của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770000600
+
+Điều 12.4.NĐ.1.6. Nghĩa vụ của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770000700
+
+Điều 12.4.NĐ.1.7. Điều kiện trở thành thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770000800
+
+Điều 12.4.NĐ.1.8. Quyền của thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770000900
+
+Điều 12.4.NĐ.1.9. Nghĩa vụ của thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001000
+
+Điều 12.4.NĐ.1.10. Quy trình bổ sung thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001100
+
+Điều 12.4.NĐ.1.11. Chấm dứt tư cách thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001200
+
+Điều 12.4.NĐ.1.12. Thành lập tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001300
+
+Điều 12.4.NĐ.1.13. Tên, biểu tượng tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001400
+
+Điều 12.4.NĐ.1.14. Chấm dứt hoạt động của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001500
+
+Điều 12.4.NĐ.1.15. Xử lý tài sản chung của các thành viên tổ hợp tác, tài chính của tổ hợp tác sau khi chấm dứt hoạt động
+
+### 120040000000000090001070000000000000000000402706600770001600
+
+Điều 12.4.NĐ.1.16. Đại diện trong xác lập, thực hiện giao dịch
+
+### 120040000000000090001070000000000000000000402706600770001700
+
+Điều 12.4.NĐ.1.17. Cơ chế điều hành hoạt động của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001800
+
+Điều 12.4.NĐ.1.18. Tổ trưởng tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770001900
+
+Điều 12.4.NĐ.1.19. Ban điều hành tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770002000
+
+Điều 12.4.NĐ.1.20. Cuộc họp thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770002100
+
+Điều 12.4.NĐ.1.21. Biểu quyết trong tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770002200
+
+Điều 12.4.NĐ.1.22. Tài sản chung của các thành viên tổ hợp tác, tài chính của tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770002300
+
+Điều 12.4.NĐ.1.23. Phân chia hoa lợi, lợi tức, xử lý lỗ
+
+### 120040000000000090001070000000000000000000402706600770002400
+
+Điều 12.4.NĐ.1.24. Phần đóng góp của thành viên tổ hợp tác
+
+### 120040000000000090001070000000000000000000402706600770002500
+
+Điều 12.4.NĐ.1.25. Xác minh phần đóng góp
+
+### 120040000000000090001070000000000000000000402706600770002600
+
+Điều 12.4.NĐ.1.26. Trả lại phần đóng góp
+
+### 120040000000000090001070000000000000000000402706600770002700
+
+Điều 12.4.NĐ.1.27. Thừa kế, kế thừa, quản lý phần đóng góp
+
+### 120040000000000090001070000000000000000000402706600770002800
+
+Điều 12.4.NĐ.1.28. Giải quyết tranh chấp
+
+### 120040000000000090001070000000000000000000402706600770002900
+
+Điều 12.4.NĐ.1.29. Chế độ báo cáo định kỳ và quản lý nhà nước về tổ hợp tác
+
+### 120040000000000090001070000000000000000000402880900920005800
+
+Điều 12.4.NĐ.3.58. Hồ sơ, trình tự, thủ tục đăng ký tổ hợp tác
+
+### 120040000000000090001070000000000000000000402880900920005900
+
+Điều 12.4.NĐ.3.59. Cấp Giấy chứng nhận đăng ký tổ hợp tác
+
+### 120040000000000090001070000000000000000000402880900920006000
+
+Điều 12.4.NĐ.3.60. Hồ sơ, trình tự, thủ tục đăng ký thay đổi nội dung đăng ký tổ hợp tác
+
+### 120040000000000090001070000000000000000000402880900920006100
+
+Điều 12.4.NĐ.3.61. Hồ sơ, trình tự, thủ tục đăng ký thành lập hợp tác xã trên cơ sở chuyển đổi từ tổ hợp tác
+
+### 120040000000000090001070000000000000000000402880900920006200
+
+Điều 12.4.NĐ.3.62. Hồ sơ, trình tự, thủ tục thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại của tổ hợp tác; tạm ngừng kinh doanh, đình chỉ hoạt động, chấm dứt kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền
+
+### 120040000000000090001070000000000000000000402880900920006300
+
+Điều 12.4.NĐ.3.63. Hồ sơ, trình tự, thủ tục chấm dứt hoạt động tổ hợp tác
+
+### 120040000000000090001070000000000000000000402880900920006400
+
+Điều 12.4.NĐ.3.64. Trình tự, thủ tục thu hồi, hủy bỏ quyết định thu hồi và khôi phục Giấy chứng nhận đăng ký tổ hợp tác
+
+### 1200400000000000900010800000000000000000
+
+Điều 12.4.LQ.108. Chuyển đổi tổ hợp tác thành hợp tác xã
+
+### 1200400000000000900010900000000000000000
+
+Điều 12.4.LQ.109. Chính sách hỗ trợ tổ hợp tác chuyển đổi thành hợp tác xã
+
+### 12004000000000010000
+
+Chương X TỔ CHỨC ĐẠI DIỆN CỦA TỔ HỢP TÁC, HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000001000011000000000000000000
+
+Điều 12.4.LQ.110. Tổ chức đại diện của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+
+### 1200400000000001000011100000000000000000
+
+Điều 12.4.LQ.111. Hệ thống Liên minh hợp tác xã Việt Nam
+
+### 12004000000000011000
+
+Chương XI QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI TỔ HỢP TÁC, HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+
+### 1200400000000001100011200000000000000000
+
+Điều 12.4.LQ.112. Nội dung chủ yếu về quản lý nhà nước
+
+### 1200400000000001100011300000000000000000
+
+Điều 12.4.LQ.113. Trách nhiệm của các cơ quan quản lý nhà nước
+
+### 120040000000000110001130000000000000000000402880900920000800
+
+Điều 12.4.NĐ.3.8. Trách nhiệm quản lý nhà nước về đăng ký tổ hợp tác, đăng ký hợp tác xã, liên hiệp hợp tác xã
+
+### 12004000000000012000
+
+Chương XII ĐIỀU KHOẢN THI HÀNH
+
+### 1200400000000001200011400000000000000000
+
+Điều 12.4.LQ.114. Điều khoản thi hành
+
+### 1200400000000001200011500000000000000000
+
+Điều 12.4.LQ.115. Quy định chuyển tiếp
+
+### 120040000000000120001150000000000000000000802787801240000300
+
+Điều 12.4.TT.4.3. Nguyên tắc hỗ trợ
+
+### 120040000000000120001150000000000000000000802787801240000400
+
+Điều 12.4.TT.4.4. Nguồn kinh phí
+
+### 120040000000000120001150000000000000000000802787801240000500
+
+Điều 12.4.TT.4.5. Đối tượng, nguồn kinh phí hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã
+
+### 120040000000000120001150000000000000000000802787801240000600
+
+Điều 12.4.TT.4.6. Nội dung hỗ trợ thành lập mới, củng cố tổ chức kinh tế tập thể, hợp tác xã
+
+### 120040000000000120001150000000000000000000802787801240000700
+
+Điều 12.4.TT.4.7. Đối tượng, điều kiện, nguồn kinh phí và mức hỗ trợ nâng cao năng lực, nhận thức cho khu vực kinh tế tập thể
+
+### 120040000000000120001150000000000000000000802787801240000800
+
+Điều 12.4.TT.4.8. Nội dung hỗ trợ nâng cao năng lực đối với công chức, viên chức của các cơ quan quản lý nhà nước về kinh tế tập thể, Liên minh hợp tác xã, các hiệp hội, đoàn thể, tổ chức chính trị - xã hội, giảng viên về kinh tế tập thể trong các trường Đại học, cao đẳng, trung học chuyên nghiệp
+
+### 120040000000000120001150000000000000000000802787801240000900
+
+Điều 12.4.TT.4.9. Nội dung hỗ trợ nâng cao năng lực đối với thành viên, người lao động đang làm công tác quản lý, chuyên môn kỹ thuật, nghiệp vụ của các tổ chức kinh tế tập thể (thành viên, người lao động kinh tế tập thể)
+
+### 120040000000000120001150000000000000000000802787801240001000
+
+Điều 12.4.TT.4.10. Nội dung hỗ trợ đưa lao động trẻ về làm việc tại tổ chức kinh tế tập thể
+
+### 120040000000000120001150000000000000000000802787801240001100
+
+Điều 12.4.TT.4.11. Nội dung hỗ trợ xây dựng hệ thống đào tạo trực tuyến về kinh tế tập thể
+
+### 120040000000000120001150000000000000000000802787801240001200
+
+Điều 12.4.TT.4.12. Đối tượng, nguồn kinh phí hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể
+
+### 120040000000000120001150000000000000000000802787801240001300
+
+Điều 12.4.TT.4.13. Nội dung hỗ trợ vận hành hệ thống thông tin dữ liệu, tuyên truyền, hỗ trợ về kinh tế tập thể
+
+### 120040000000000120001150000000000000000000802787801240001400
+
+Điều 12.4.TT.4.14. Lập dự toán, sử dụng và quyết toán kinh phí
+
+### 120040000000000120001150000000000000000000802787801240001500
+
+Điều 12.4.TT.4.15. Chấp hành dự toán và thanh toán, quyết toán kinh phí
+
+### 120040000000000120001150000000000000000000802787801240001600
+
+Điều 12.4.TT.4.16. Công tác kiểm tra, giám sát
+
+### 120040000000000120001150000000000000000000802787801240001700
+
+Điều 12.4.TT.4.17. Chế độ báo cáo
+
+### 120040000000000120001150000000000000000000802787801240001800
+
+Điều 12.4.TT.4.18. Điều khoản chuyển tiếp
+
+### 1200400000000001200011540270660077000300
+
+Điều 12.4.NĐ.1.30. Điều khoản chuyển tiếp
+
+### 1200400000000001200011540270660077000310
+
+Điều 12.4.NĐ.1.31. Hiệu lực thi hành
+
+### 1200400000000001200011540270660077000320
+
+Điều 12.4.NĐ.1.32. Trách nhiệm thi hành
+
+### 1200400000000001200011540276040045000570
+
+Điều 12.4.NĐ.2.57. Điều khoản thi hành
+
+### 1200400000000001200011540276040045000580
+
+Điều 12.4.NĐ.2.58. Điều khoản chuyển tiếp
+
+### 1200400000000001200011540276040045000590
+
+Điều 12.4.NĐ.2.59. Tổ chức thực hiện Nghị định
+
+### 1200400000000001200011540288090092000650
+
+Điều 12.4.NĐ.3.65. Quy định chuyển tiếp
+
+### 1200400000000001200011540288090092000660
+
+Điều 12.4.NĐ.3.66. Điều khoản thi hành
+
+### 1200400000000001200011550223350246000020
+
+Điều 12.4.QĐ.1.2.
+
+### 1200400000000001200011550223350246000030
+
+Điều 12.4.QĐ.1.3.
+
+### 1200400000000001200011580254700083000290
+
+Điều 12.4.TT.1.29. Hiệu lực thi hành
+
+### 1200400000000001200011580261600009000070
+
+Điều 12.4.TT.2.7. Tổ chức thực hiện
+
+### 1200400000000001200011580261600009000080
+
+Điều 12.4.TT.2.8. Hiệu lực thi hành
+
+### 1200400000000001200011580265070031000060
+
+Điều 12.4.TT.3.6. Hiệu lực thi hành
+
+### 1200400000000001200011580278780124000190
+
+Điều 12.4.TT.4.19. Hiệu lực thi hành
+
+### 1200400000000001200011580280600013000090
+
+Điều 12.4.TT.5.9. Trách nhiệm thực hiện
+
+### 1200400000000001200011580280600013000100
+
+Điều 12.4.TT.5.10. Hiệu lực thi hành
+
+### 1200400000000001200011580281030052000230
+
+Điều 12.4.TT.6.23. Hiệu lực thi hành
+
+### 1200400000000001200011580281030052000240
+
+Điều 12.4.TT.6.24. Tổ chức thực hiện
+
+### 1200400000000001200011580287460009000150
+
+Điều 12.4.TT.7.15. Trách nhiệm thi hành
+
