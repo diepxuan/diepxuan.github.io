@@ -9,13 +9,17 @@ slug: thong-ke
 # Thống kê
 
 **Chủ đề:** Thống kê  
+**STT:** 31  
 **Số đề mục:** 1  
 **Số điều khoản:** 661  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Thống kê](/van-ban/thong-ke/thong-ke/)** - 661 điều khoản
+### [Thống kê](/thong-ke/thong-ke/)
+- **Số điều khoản:** 661
+- **Điều khoản có nội dung:** 366/661 (55.4%)
+- **STT:** 1
 
 
 ## 🔙 Quay lại
@@ -24,13 +28,11 @@ slug: thong-ke
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1
 - **Tổng số điều khoản:** 661
-- **ID chủ đề:** ee961e69-7a8d-4405-8fe6-ecdf7e44323f
+- **ID chủ đề:** ee961e697a8d44058fe6ecdf7e44323f
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

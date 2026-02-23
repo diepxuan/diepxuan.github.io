@@ -9,13 +9,17 @@ slug: ton-giao-tin-nguong
 # Tôn giáo, tín ngưỡng
 
 **Chủ đề:** Tôn giáo, tín ngưỡng  
+**STT:** 38  
 **Số đề mục:** 1  
 **Số điều khoản:** 124  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Tín ngưỡng, tôn giáo](/van-ban/ton-giao-tin-nguong/tin-nguong-ton-giao/)** - 124 điều khoản
+### [Tín ngưỡng, tôn giáo](/ton-giao-tin-nguong/tin-nguong-ton-giao/)
+- **Số điều khoản:** 124
+- **Điều khoản có nội dung:** 102/124 (82.3%)
+- **STT:** 1
 
 
 ## 🔙 Quay lại
@@ -24,13 +28,11 @@ slug: ton-giao-tin-nguong
 ## 📊 Thống kê
 - **Tổng số đề mục:** 1
 - **Tổng số điều khoản:** 124
-- **ID chủ đề:** 48d084d9-d3f1-4c13-a898-dde6840fe0ff
+- **ID chủ đề:** 48d084d9d3f14c13a898dde6840fe0ff
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

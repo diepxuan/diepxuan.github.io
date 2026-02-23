@@ -9,38 +9,130 @@ slug: quoc-phong
 # Quốc phòng
 
 **Chủ đề:** Quốc phòng  
-**Số đề mục:** 11  
+**STT:** 25  
+**Số đề mục:** 21  
 **Số điều khoản:** 1,883  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Biên phòng Việt Nam](/van-ban/quoc-phong/bien-phong-viet-nam/)** - 107 điều khoản
-2. **[Cảnh sát biển Việt Nam](/van-ban/quoc-phong/canh-sat-bien-viet-nam/)** - 174 điều khoản
-3. **[Dân quân tự vệ](/van-ban/quoc-phong/dan-quan-tu-ve/)** - 196 điều khoản
-4. **[Giáo dục quốc phòng và an ninh](/van-ban/quoc-phong/giao-duc-quoc-phong-va-an-ninh/)** - 232 điều khoản
-5. **[Lực lượng dự bị động viên](/van-ban/quoc-phong/luc-luong-du-bi-dong-vien/)** - 113 điều khoản
-6. **[Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc](/van-ban/quoc-phong/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec/)** - 26 điều khoản
-7. **[Nghĩa vụ quân sự](/van-ban/quoc-phong/nghia-vu-quan-su/)** - 198 điều khoản
-8. **[Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng](/van-ban/quoc-phong/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong/)** - 190 điều khoản
-9. **[Quốc phòng](/van-ban/quoc-phong/quoc-phong/)** - 307 điều khoản
-10. **[Sĩ quan Quân đội nhân dân Việt Nam](/van-ban/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam/)** - 289 điều khoản
-11. **[Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ](/van-ban/quoc-phong/thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu/)** - 51 điều khoản
+### [Quản lý, bảo vệ công trình quốc phòng và khu quân sự](/quoc-phong/quan-ly-bao-ve-cong-trinh-quoc-phong-va-khu-quan-su/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 1
+
+### [Một số chế độ đối với đối tượng tham gia chiến tranh bảo vệ Tổ quốc, làm nhiệm vụ quốc tế ở Căm-pu-chia, giúp bạn Lào sau ngày 30 tháng 4 năm 1975 có từ đủ 20 năm trở lên phục vụ trong quân đội, công an đã phục viên, xuất ngũ, thôi việc](/quoc-phong/mot-so-che-do-doi-voi-doi-tuong-tham-gia-chien-tranh-bao-ve-to-quoc-lam-nhiem-vu-quoc-te-o-cam-pu-chia-giup-ban-lao-sau-ngay-30-thang-4-nam-1975-co-tu-du-20-nam-tro-len-phuc-vu-trong-quan-doi-cong-an-da-phuc-vien-xuat-ngu-thoi-viec/)
+- **Số điều khoản:** 26
+- **Điều khoản có nội dung:** 13/26 (50.0%)
+- **STT:** 10
+
+### [Nghĩa vụ quân sự](/quoc-phong/nghia-vu-quan-su/)
+- **Số điều khoản:** 198
+- **Điều khoản có nội dung:** 146/198 (73.7%)
+- **STT:** 11
+
+### [Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng](/quoc-phong/quan-nhan-chuyen-nghiep-cong-nhan-va-vien-chuc-quoc-phong/)
+- **Số điều khoản:** 190
+- **Điều khoản có nội dung:** 133/190 (70.0%)
+- **STT:** 12
+
+### [Quốc phòng](/quoc-phong/quoc-phong/)
+- **Số điều khoản:** 307
+- **Điều khoản có nội dung:** 236/307 (76.9%)
+- **STT:** 13
+
+### [Sĩ quan Quân đội nhân dân Việt Nam](/quoc-phong/si-quan-quan-doi-nhan-dan-viet-nam/)
+- **Số điều khoản:** 289
+- **Điều khoản có nội dung:** 166/289 (57.4%)
+- **STT:** 14
+
+### [Thực hiện chế độ hưu trí đối với quân nhân trực tiếp tham gia kháng chiến chống Mỹ cứu nước từ ngày 30 tháng 4 năm 1975 trở về trước có 20 năm trở lên phục vụ quân đội đã phục viên, xuất ngũ](/quoc-phong/thuc-hien-che-do-huu-tri-doi-voi-quan-nhan-truc-tiep-tham-gia-khang-chien-chong-my-cuu-nuoc-tu-ngay-30-thang-4-nam-1975-tro-ve-truoc-co-20-nam-tro-len-phuc-vu-quan-doi-da-phuc-vien-xuat-ngu/)
+- **Số điều khoản:** 51
+- **Điều khoản có nội dung:** 18/51 (35.3%)
+- **STT:** 15
+
+### [Tiêu chuẩn vật chất hậu cần đối với quân nhân tại ngũ (loại bỏ)](/quoc-phong/tieu-chuan-vat-chat-hau-can-doi-voi-quan-nhan-tai-ngu-loai-bo/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 16
+
+### [Phòng thủ dân sự](/quoc-phong/phong-thu-dan-su/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 16
+
+### [Phòng thủ dân sự](/quoc-phong/phong-thu-dan-su/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 16
+
+### [Phòng không nhân dân](/quoc-phong/phong-khong-nhan-dan/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 16
+
+### [Luật Phòng thủ dân sự](/quoc-phong/luat-phong-thu-dan-su/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 17
+
+### [Quản lý, bảo vệ Khu Di tích Lăng Chủ tịch Hồ Chí Minh](/quoc-phong/quan-ly-bao-ve-khu-di-tich-lang-chu-tich-ho-chi-minh/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 17
+
+### [Biên phòng Việt Nam](/quoc-phong/bien-phong-viet-nam/)
+- **Số điều khoản:** 107
+- **Điều khoản có nội dung:** 105/107 (98.1%)
+- **STT:** 2
+
+### [Công nghiệp quốc phòng, an ninh và động viên công nghiệp](/quoc-phong/cong-nghiep-quoc-phong-an-ninh-va-dong-vien-cong-nghiep/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 3
+
+### [Phòng không nhân dân](/quoc-phong/phong-khong-nhan-dan/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 4
+
+### [Dân quân tự vệ](/quoc-phong/dan-quan-tu-ve/)
+- **Số điều khoản:** 196
+- **Điều khoản có nội dung:** 194/196 (99.0%)
+- **STT:** 5
+
+### [Động viên công nghiệp (loại bỏ)](/quoc-phong/dong-vien-cong-nghiep-loai-bo/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 6
+
+### [Giáo dục quốc phòng và an ninh](/quoc-phong/giao-duc-quoc-phong-va-an-ninh/)
+- **Số điều khoản:** 232
+- **Điều khoản có nội dung:** 229/232 (98.7%)
+- **STT:** 7
+
+### [Cảnh sát biển Việt Nam](/quoc-phong/canh-sat-bien-viet-nam/)
+- **Số điều khoản:** 174
+- **Điều khoản có nội dung:** 172/174 (98.9%)
+- **STT:** 8
+
+### [Lực lượng dự bị động viên](/quoc-phong/luc-luong-du-bi-dong-vien/)
+- **Số điều khoản:** 113
+- **Điều khoản có nội dung:** 85/113 (75.2%)
+- **STT:** 9
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 11
+- **Tổng số đề mục:** 21
 - **Tổng số điều khoản:** 1,883
-- **ID chủ đề:** 859b54fa-0c05-4807-a50c-c8be82fcae62
+- **ID chủ đề:** 859b54fa0c054807a50cc8be82fcae62
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

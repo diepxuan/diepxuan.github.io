@@ -9,14 +9,22 @@ slug: giao-duc-dao-tao
 # Giáo dục, đào tạo
 
 **Chủ đề:** Giáo dục, đào tạo  
+**STT:** 13  
 **Số đề mục:** 2  
 **Số điều khoản:** 2,178  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Giáo dục](/van-ban/giao-duc-dao-tao/giao-duc/)** - 1,593 điều khoản
-2. **[Giáo dục đại học](/van-ban/giao-duc-dao-tao/giao-duc-dai-hoc/)** - 585 điều khoản
+### [Giáo dục](/giao-duc-dao-tao/giao-duc/)
+- **Số điều khoản:** 1,593
+- **Điều khoản có nội dung:** 880/1593 (55.2%)
+- **STT:** 1
+
+### [Giáo dục đại học](/giao-duc-dao-tao/giao-duc-dai-hoc/)
+- **Số điều khoản:** 585
+- **Điều khoản có nội dung:** 574/585 (98.1%)
+- **STT:** 2
 
 
 ## 🔙 Quay lại
@@ -25,13 +33,11 @@ slug: giao-duc-dao-tao
 ## 📊 Thống kê
 - **Tổng số đề mục:** 2
 - **Tổng số điều khoản:** 2,178
-- **ID chủ đề:** 0fb2411e-095b-4095-bbbe-fb8465ec4199
+- **ID chủ đề:** 0fb2411e095b4095bbbefb8465ec4199
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

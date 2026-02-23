@@ -9,31 +9,55 @@ slug: ngan-hang-tien-te
 # Ngân hàng, tiền tệ
 
 **Chủ đề:** Ngân hàng, tiền tệ  
-**Số đề mục:** 4  
+**STT:** 22  
+**Số đề mục:** 6  
 **Số điều khoản:** 2,891  
 **Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📋 Danh sách Đề mục
+## 📋 Danh sách đề mục
 
-1. **[Bảo hiểm tiền gửi](/van-ban/ngan-hang-tien-te/bao-hiem-tien-gui/)** - 142 điều khoản
-2. **[Các công cụ chuyển nhượng](/van-ban/ngan-hang-tien-te/cac-cong-cu-chuyen-nhuong/)** - 167 điều khoản
-3. **[Ngoại hối](/van-ban/ngan-hang-tien-te/ngoai-hoi/)** - 853 điều khoản
-4. **[Ngân hàng Nhà nước Việt Nam](/van-ban/ngan-hang-tien-te/ngan-hang-nha-nuoc-viet-nam/)** - 1,729 điều khoản
+### [Bảo hiểm tiền gửi](/ngan-hang-tien-te/bao-hiem-tien-gui/)
+- **Số điều khoản:** 142
+- **Điều khoản có nội dung:** 135/142 (95.1%)
+- **STT:** 1
+
+### [Các công cụ chuyển nhượng](/ngan-hang-tien-te/cac-cong-cu-chuyen-nhuong/)
+- **Số điều khoản:** 167
+- **Điều khoản có nội dung:** 154/167 (92.2%)
+- **STT:** 2
+
+### [Các tổ chức tín dụng](/ngan-hang-tien-te/cac-to-chuc-tin-dung/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 3
+
+### [Ngân hàng Nhà nước Việt Nam](/ngan-hang-tien-te/ngan-hang-nha-nuoc-viet-nam/)
+- **Số điều khoản:** 1,729
+- **Điều khoản có nội dung:** 1115/1729 (64.5%)
+- **STT:** 4
+
+### [Ngoại hối](/ngan-hang-tien-te/ngoai-hoi/)
+- **Số điều khoản:** 853
+- **Điều khoản có nội dung:** 576/853 (67.5%)
+- **STT:** 5
+
+### [Phòng, chống rửa tiền](/ngan-hang-tien-te/phong-chong-rua-tien/)
+- **Số điều khoản:** 0
+- **Điều khoản có nội dung:** 0/0 (0%)
+- **STT:** 6
 
 
 ## 🔙 Quay lại
 [← Danh sách tất cả Chủ đề](/van-ban/)
 
 ## 📊 Thống kê
-- **Tổng số đề mục:** 4
+- **Tổng số đề mục:** 6
 - **Tổng số điều khoản:** 2,891
-- **ID chủ đề:** 0f8741e9-b3d2-488b-aa70-961ccc802227
+- **ID chủ đề:** 0f8741e9b3d2488baa70961ccc802227
 
-## 🔍 Cách sử dụng
-1. **Chọn đề mục** từ danh sách trên
-2. **Xem nội dung đầy đủ** của đề mục
-3. **Sử dụng tìm kiếm** để tìm văn bản cụ thể
+## 🔍 Tìm kiếm
+Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
 
 ---
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{{{ site.time | date: "%Y-%m-%d" }}}}
+*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
