@@ -1,36 +1,8 @@
 ---
-layout: default
+layout: page
 title: Phòng, chống rửa tiền
 permalink: /van-ban/ngan-hang-tien-te/phong-chong-rua-tien/
-collection: subtopics
-slug: phong-chong-rua-tien
-parent: ngan-hang-tien-te
 ---
 
 # Phòng, chống rửa tiền
 
-**Đề mục:** Phòng, chống rửa tiền  
-**Chủ đề:** [Ngân hàng, tiền tệ](/ngan-hang-tien-te/)  
-**Số điều khoản:** 0  
-**Điều khoản có nội dung:** 0/0 (0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
-
-## 📜 Nội dung Điều khoản
-
-
-## 🔙 Quay lại
-[← Danh sách đề mục của Ngân hàng, tiền tệ](/ngan-hang-tien-te/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
-
-## 📊 Thống kê
-- **Tổng số điều khoản:** 0
-- **Điều khoản thực tế:** 0
-- **Điều khoản có nội dung:** 0 (0%)
-- **ID đề mục:** 6b4d44e7dd9d4879bab2c8c46de13d06
-
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
-
----
-
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*

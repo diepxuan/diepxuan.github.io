@@ -1,1414 +1,2081 @@
 ---
-layout: default
+layout: page
 title: Hộ tịch
 permalink: /van-ban/hanh-chinh-tu-phap/ho-tich/
-collection: subtopics
-slug: ho-tich
-parent: hanh-chinh-tu-phap
 ---
 
 # Hộ tịch
 
-**Đề mục:** Hộ tịch  
-**Chủ đề:** [Hành chính tư pháp](/hanh-chinh-tu-phap/)  
-**Số điều khoản:** 131  
-**Điều khoản có nội dung:** 37/106 (34.9%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 15.3.LQ.1. Phạm vi điều chỉnh
+Điều 15.3.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 60/2014/QH13 Hộ tịch ngày 20/11/2014 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2016 )
 
-**Chỉ mục:** 1
+1. Luật này quy định về hộ tịch; quyền, nghĩa vụ, nguyên tắc, thẩm quyền, thủ tục đăng ký hộ tịch; Cơ sở dữ liệu hộ tịch và quản lý nhà nước về hộ tịch.
 
-**Mã phân cấp:** 1500300000000000100000100000000000000000
+2. Thẩm quyền, thủ tục giải quyết các việc về quốc tịch, nuôi con nuôi được thực hiện theo quy định của Luật quốc tịch Việt Nam, Luật nuôi con nuôi, trừ trường hợp Luật này có quy định khác.
 
-**ID:** dk_00021163
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh của Luật 59/2014/QH13 Căn cước công dân ban hành ngày 20/11/2014)
 
----
+Điều 15.3.NĐ.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Nghị định số 123/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 2 Nghị định số 07/2025/NĐ-CP có hiệu lực thi hành kể từ ngày 09/01/2025)
 
-### Điều 15.3.NĐ.1.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1500300000000000100000140256410123000010
-
-**ID:** dk_00021164
-
----
-
-
-### Điều 15.3.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+Nghị định này quy định chi tiết một số điều của Luật Hộ tịch về đăng ký khai sinh, kết hôn, quản lý và sử dụng Sổ hộ tịch trong giai đoạn Cơ sở dữ liệu hộ tịch điện tử và Cơ sở dữ liệu quốc gia về dân cư chưa được vận hành thống nhất trên cả nước (sau đây gọi là giai đoạn chuyển tiếp); đăng ký khai sinh cho trẻ em bị bỏ rơi, trẻ em chưa xác định được cha, mẹ, trẻ em sinh ra do mang thai hộ; khai sinh, kết hôn, nhận cha, mẹ, con, khai tử tại khu vực biên giới; cấp Giấy xác nhận tình trạng hôn nhân; đăng ký giám sát việc giám hộ, đăng ký chấm dứt giám sát việc giám hộ; đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài chưa được đăng ký khai sinh về cư trú tại Việt Nam; đăng ký kết hôn có yếu tố nước ngoài tại Ủy ban nhân dân cấp huyện; ghi vào sổ hộ tịch việc kết hôn, ly hôn, hủy việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền nước ngoài; đăng ký lại khai sinh, kết hôn, khai tử; việc bố trí công chức tư pháp - hộ tịch làm công tác hộ tịch chuyên trách và một số biện pháp thi hành Luật Hộ tịch.
 
 Điều 15.3.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 87/2020/NĐ-CP Quy định về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến ngày 28/07/2020 của Chính phủ, có hiệu lực thi hành kể từ ngày 15/09/2020 )
 
-**Mã phân cấp:** 1500300000000000100000140273580087000010
+1. Nghị định này quy định về việc xây dựng, quản lý, cập nhật, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử; kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu hộ tịch điện tử với Cơ sở dữ liệu quốc gia về dân cư, Cổng dịch vụ công quốc gia, Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp tỉnh, Cơ sở dữ liệu khác của bộ, ngành, địa phương; cấp bản sao trích lục hộ tịch, xác nhận thông tin hộ tịch; đăng ký hộ tịch trực tuyến.
 
-**ID:** dk_00021165
+2. Đối tượng áp dụng của Nghị định là các bộ, cơ quan ngang bộ, cơ quan nhà nước ở trung ương; Ủy ban nhân dân các cấp, cơ quan đăng ký, quản lý hộ tịch trong nước và các Cơ quan đại diện Việt Nam ở nước ngoài; các tổ chức, cá nhân có liên quan trong việc xây dựng, quản lý, cập nhật, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử.
 
----
+Điều 15.3.TL.1.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư liên tịch số 05/2015/TTLT-BTP-BCA-BYT Hướng dẫn thực hiện liên thông các thủ tục hành chính về đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi ngày 15/05/2015 của Bộ Tư pháp, Bộ Công an và Bộ Y tế, có hiệu lực thi hành kể từ ngày 01/07/2015 )
 
-### Điều 15.3.TL.1.1. Phạm vi điều chỉnh
+Thông tư liên tịch này hướng dẫn về nguyên tắc, hồ sơ, quy trình và trách nhiệm của các cơ quan nhà nước, cán bộ, công chức, viên chức có liên quan đến việc tiếp nhận, chuyển giao, giải quyết hồ sơ và trả kết quả trong quá trình thực hiện liên thông các thủ tục hành chính về đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi hoặc đăng ký khai sinh, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi (sau đây gọi chung là liên thông các thủ tục hành chính) khi việc đăng ký khai sinh cho trẻ em dưới 6 tuổi thuộc thẩm quyền giải quyết của Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã).
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 2.2.LQ.16. Thẻ bảo hiểm y tế; Điều 2.2.LQ.17. Cấp thẻ bảo hiểm y tế)
 
-**Chỉ mục:** 1
+Điều 15.3.TL.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1500300000000000100000180254570005000010
+(Điều 2 Thông tư liên tịch số 05/2015/TTLT-BTP-BCA-BYT, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**ID:** dk_00021166
+Thông tư liên tịch này áp dụng đối với:
 
----
+1. Cơ quan đăng ký khai sinh, đăng ký cư trú, cấp thẻ bảo hiểm y tế.
 
+2. Cá nhân có yêu cầu thực hiện liên thông các thủ tục hành chính.
 
-### Điều 15.3.TL.1.2. Đối tượng áp dụng
+3. Các cơ quan, tổ chức, cá nhân có liên quan trong quá trình thực hiện liên thông các thủ tục hành chính.
 
-*Nội dung chưa có sẵn*
+Điều 15.3.TT.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Thông tư số 04/2020/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ngày 28/05/2020 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 16/07/2020 )
 
-**Mã phân cấp:** 1500300000000000100000180254570005000020
+Thông tư này quy định chi tiết một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch (sau đây gọi là Nghị định số 123/2015/NĐ-CP) về việc ủy quyền đăng ký hộ tịch; việc tiếp nhận hồ sơ, trả kết quả đăng ký hộ tịch; trình tự, thủ tục đăng ký khai sinh, kết hôn, khai tử, nhận cha, mẹ, con và một số việc hộ tịch khác; việc đăng ký khai sinh, kết hôn, khai tử lưu động; ban hành, hướng dẫn sử dụng, quản lý Sổ hộ tịch, giấy tờ hộ tịch.
 
-**ID:** dk_00021167
+(Điều này có nội dung liên quan đến Điều 15.6.TT.6.10. Quy định chuyển tiếp)
 
----
+Điều 15.3.TT.3.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 24/2020/TT-BYT Quy định về Phiếu chẩn đoán nguyên nhân tử vong, cấp Giấy báo tử và thống kê tử vong tại cơ sở khám bệnh, chữa bệnh ngày 28/12/2020 của Bộ Y tế, có hiệu lực thi hành kể từ ngày 01/02/2021 )
 
-### Điều 15.3.TT.2.1. Phạm vi điều chỉnh
+Thông tư này quy định cách ghi Phiếu chẩn đoán nguyên nhân tử vong: Cấp, cấp lại Giấy báo tử và báo cáo thống kê số liệu tử vong tại cơ sở khám bệnh, chữa bệnh.
 
-*Nội dung chưa có sẵn*
+Điều 15.3.TT.3.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 01/2022/TT-BTP Quy định chi tiết một số điều và biện pháp thi hành Nghị định số 87/2020/NĐ-CP ngày 28 tháng 7 năm 2020 của Chính phủ quy định về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến ngày 04/01/2022 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 18/02/2022 )
 
-**Mã phân cấp:** 1500300000000000100000180272970004000010
+Thông tư này quy định chi tiết một số điều và biện pháp thi hành Nghị định số 87/2020/NĐ-CP ngày 28 tháng 7 năm 2020 của Chính phủ về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến (sau đây gọi là Nghị định số 87/2020/NĐ-CP) về việc quản lý, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử, kết nối, chia sẻ thông tin với Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu khác; quy trình đăng ký hộ tịch trực tuyến; xác nhận thông tin hộ tịch; ban hành, hướng dẫn sử dụng, quản lý giấy tờ hộ tịch điện tử.
 
-**ID:** dk_00021168
+Điều 15.3.TT.3.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 01/2022/TT-BTP, có hiệu lực thi hành kể từ ngày 18/02/2022)
 
+1. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan nhà nước khác thực hiện kết nối, chia sẻ, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử.
 
-### Điều 15.3.TT.3.1. Phạm vi điều chỉnh
+2. Ủy ban nhân dân các cấp, cơ quan đăng ký, quản lý hộ tịch trong nước và Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài (sau đây gọi là Cơ quan đại diện).
 
-*Nội dung chưa có sẵn*
+3. Các tổ chức, cá nhân có liên quan trong việc xây dựng, quản lý, cập nhật, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử; đăng ký hộ tịch trực tuyến.
 
-**Chỉ mục:** 1
+Điều 15.3.TT.4.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 1500300000000000100000180275110024000010
+(Điều 1 Thông tư số 07/2023/TT-BNG, có hiệu lực thi hành kể từ ngày 15/02/2024, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 07/2025/TT-BNG có hiệu lực thi hành kể từ ngày 13/07/2025)
 
-**ID:** dk_00021169
+Thông tư này hướng dẫn chi tiết khoản 1 Điều 53 của Luật Hộ tịch về đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài; đăng ký lại khai sinh, kết hôn, khai tử; cấp bản sao trích lục hộ tịch; cấp Giấy xác nhận tình trạng hôn nhân cho công dân Việt Nam cư trú ở nước ngoài; quản lý nhà nước về hộ tịch; việc quản lý Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài (sau đây gọi là Cơ quan đại diện) theo quy định của Luật Hộ tịch, Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hộ tịch, được sửa đổi, bổ sung bởi Nghị định số 07/2025/NĐ-CP ngày 09 tháng 01 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hộ tịch, quốc tịch, chứng thực (sau đây gọi là Nghị định số 123/2015/NĐ-CP) và Nghị định số 87/2020/NĐ-CP ngày 28 tháng 7 năm 2020 của Chính phủ quy định về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến (sau đây gọi là Nghị định số 87/2020/NĐ-CP).
 
----
+Điều 15.3.LQ.2. Hộ tịch và đăng ký hộ tịch
 
+(Điều 2 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 15.3.TT.3.1. Phạm vi điều chỉnh
+1. Hộ tịch là những sự kiện được quy định tại Điều 3 của Luật này, xác định tình trạng nhân thân của cá nhân từ khi sinh ra đến khi chết.
 
-*Nội dung chưa có sẵn*
+2. Đăng ký hộ tịch là việc cơ quan nhà nước có thẩm quyền xác nhận hoặc ghi vào Sổ hộ tịch các sự kiện hộ tịch của cá nhân, tạo cơ sở pháp lý để Nhà nước bảo hộ quyền, lợi ích hợp pháp của cá nhân, thực hiện quản lý về dân cư.
 
-**Chỉ mục:** 1
+Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch
 
-**Mã phân cấp:** 1500300000000000100000180278830001000010
+(Điều 3 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00021170
+1. Xác nhận vào Sổ hộ tịch các sự kiện hộ tịch:
 
----
+a) Khai sinh;
 
+b) Kết hôn;
 
-### Điều 15.3.TT.3.2. Đối tượng áp dụng
+c) Giám hộ;
 
-*Nội dung chưa có sẵn*
+d) Nhận cha, mẹ, con;
 
-**Chỉ mục:** 2
+đ) Thay đổi, cải chính hộ tịch, xác định lại dân tộc, bổ sung thông tin hộ tịch;
 
-**Mã phân cấp:** 1500300000000000100000180278830001000020
+e) Khai tử.
 
-**ID:** dk_00021171
+2. Ghi vào Sổ hộ tịch việc thay đổi hộ tịch của cá nhân theo bản án, quyết định của cơ quan nhà nước có thẩm quyền:
 
----
+a) Thay đổi quốc tịch;
 
+b) Xác định cha, mẹ, con;
 
-### Điều 15.3.TT.4.1. Phạm vi điều chỉnh
+c) Xác định lại giới tính;
 
-*Nội dung chưa có sẵn*
+d) Nuôi con nuôi, chấm dứt việc nuôi con nuôi;
 
-**Chỉ mục:** 1
+đ) Ly hôn, hủy việc kết hôn trái pháp luật, công nhận việc kết hôn;
 
-**Mã phân cấp:** 1500300000000000100000180286070007000010
+e) Công nhận giám hộ;
 
-**ID:** dk_00021172
+g) Tuyên bố hoặc huỷ tuyên bố một người mất tích, đã chết, bị mất hoặc hạn chế năng lực hành vi dân sự.
 
----
+3. Ghi vào Sổ hộ tịch sự kiện khai sinh; kết hôn; ly hôn; hủy việc kết hôn; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; thay đổi hộ tịch; khai tử của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài.
 
+4. Xác nhận hoặc ghi vào Sổ hộ tịch các việc hộ tịch khác theo quy định của pháp luật.
 
-### Điều 15.3.LQ.2. Hộ tịch và đăng ký hộ tịch
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Ủy quyền đăng ký hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.TL.2.1. Phạm vi Điều chỉnh; Điều 2. Thẩm quyền đăng ký hộ tịch; Điều 12. Ghi vào Sổ hộ tịch các thay đổi hộ tịch theo bản án, quyết định của cơ quan có thẩm quyền của Việt Nam của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 8.4.LQ.88. Xác định cha, mẹ; Điều 8.4.LQ.90. Quyền nhận cha, mẹ; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 15.3.LQ.53. Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài)
 
-*Nội dung chưa có sẵn*
+Điều 15.3.LQ.4. Giải thích từ ngữ
 
-**Chỉ mục:** 2
+(Điều 4 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000100000200000000000000000
+Trong Luật này, những từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00021173
+1. Cơ quan đăng ký hộ tịch là Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi là Ủy ban nhân dân cấp xã), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và đơn vị hành chính tương đương (sau đây gọi là Ủy ban nhân dân cấp huyện), Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài (sau đây gọi là Cơ quan đại diện).
 
----
+2. Cơ sở dữ liệu hộ tịch là tập hợp thông tin hộ tịch của cá nhân đã đăng ký và lưu giữ trong Sổ hộ tịch và Cơ sở dữ liệu hộ tịch điện tử.
 
+3. Sổ hộ tịch là sổ giấy được lập và lưu giữ tại cơ quan đăng ký hộ tịch để xác nhận hoặc ghi các sự kiện hộ tịch quy định tại Điều 3 của Luật này.
 
-### Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch
+4. Cơ sở dữ liệu hộ tịch điện tử là cơ sở dữ liệu ngành, được lập trên cơ sở tin học hóa công tác đăng ký hộ tịch.
 
-*Nội dung chưa có sẵn*
+5. Cơ quan quản lý Cơ sở dữ liệu hộ tịch gồm cơ quan đăng ký hộ tịch, Bộ Tư pháp, Bộ Ngoại giao và cơ quan khác được giao thẩm quyền theo quy định của pháp luật.
 
-**Chỉ mục:** 3
+6. Giấy khai sinh là văn bản do cơ quan nhà nước có thẩm quyền cấp cho cá nhân khi được đăng ký khai sinh; nội dung Giấy khai sinh bao gồm các thông tin cơ bản về cá nhân theo quy định tại khoản 1 Điều 14 của Luật này.
 
-**Mã phân cấp:** 1500300000000000100000300000000000000000
+7. Giấy chứng nhận kết hôn là văn bản do cơ quan nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn; nội dung Giấy chứng nhận kết hôn bao gồm các thông tin cơ bản quy định tại khoản 2 Điều 17 của Luật này.
 
-**ID:** dk_00021174
+8. Quê quán của cá nhân được xác định theo quê quán của cha hoặc mẹ theo thỏa thuận của cha, mẹ hoặc theo tập quán được ghi trong tờ khai khi đăng ký khai sinh.
 
----
+9. Trích lục hộ tịchlà văn bản do cơ quan nhà nước có thẩm quyền cấp nhằm chứng minh sự kiện hộ tịch của cá nhân đã đăng ký tại cơ quan đăng ký hộ tịch. Bản chính trích lục hộ tịch được cấp ngay sau khi sự kiện hộ tịch được đăng ký. Bản sao trích lục hộ tịch bao gồm bản sao trích lục hộ tịch được cấp từ Cơ sở dữ liệu hộ tịch và bản sao trích lục hộ tịch được chứng thực từ bản chính.
 
+10. Thay đổi hộ tịchlà việc cơ quan nhà nước có thẩm quyền đăng ký thay đổi những thông tin hộ tịch của cá nhân khi có lý do chính đáng theo quy định của pháp luật dân sự hoặc thay đổi thông tin về cha, mẹ trong nội dung khai sinh đã đăng ký theo quy định của pháp luật.
 
-### Điều 15.3.LQ.4. Giải thích từ ngữ
+11. Xác định lại dân tộclà việc cơ quan nhà nước có thẩm quyền đăng ký xác định lại dân tộc của cá nhân theo quy định của Bộ luật dân sự.
 
-*Nội dung chưa có sẵn*
+12. Cải chính hộ tịch là việc cơ quan nhà nước có thẩm quyền sửa đổi những thông tin hộ tịch của cá nhân trong trường hợp có sai sót khi đăng ký hộ tịch.
 
-**Chỉ mục:** 4
+13. Bổ sung hộ tịch là việc cơ quan nhà nước có thẩm quyền cập nhật thông tin hộ tịch còn thiếu cho cá nhân đã được đăng ký.
 
-**Mã phân cấp:** 1500300000000000100000400000000000000000
+(Điều này có nội dung liên quan đến Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự; Điều 15.3.LQ.14. Nội dung đăng ký khai sinh; Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn; Điều 15.3.LQ.26. Phạm vi thay đổi hộ tịch; Điều 15.3.LQ.29. Thủ tục bổ sung hộ tịch; Điều 15.3.LQ.57. Cơ sở dữ liệu hộ tịch; Điều 15.3.LQ.58. Sổ hộ tịch; Điều 15.3.LQ.62. Cấp bản chính trích lục hộ tịch khi đăng ký hộ tịch; Điều 15.3.LQ.63. Cấp bản sao trích lục hộ tịch về sự kiện hộ tịch đã đăng ký; Điều 15.3.LQ.64. Thủ tục cấp bản sao trích lục hộ tịch; Điều 15.3.NĐ.1.4. Xác định nội dung đăng ký khai sinh, khai tử; Điều 15.3.NĐ.1.6. Giá trị pháp lý của Giấy khai sinh; Điều 15.3.NĐ.1.7. Điều kiện thay đổi, cải chính hộ tịch)
 
-**ID:** dk_00021175
+Điều 15.3.NĐ.2.2. Giải thích từ ngữ
 
----
+(Điều 2 Nghị định số 87/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/09/2020, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Nghị định số 07/2025/NĐ-CP có hiệu lực thi hành kể từ ngày 09/01/2025)
 
+1. Cơ sở dữ liệu hộ tịch điện tử là Cơ sở dữ liệu được lập trên cơ sở tin học hóa công tác đăng ký hộ tịch, nhằm lưu giữ thông tin hộ tịch của cá nhân được đăng ký theo quy định pháp luật, bằng thiết bị số, trong môi trường mạng, thông qua Phần mềm đăng ký, quản lý hộ tịch điện từ dùng chung.
 
-### Điều 15.3.NĐ.2.2. Giải thích từ ngữ
+2. Phần mềm đăng ký, quản lý hộ tịch điện tử dùng chung là nền tảng của Cơ sở dữ liệu hộ tịch điện tử, bao gồm phần mềm đăng ký, quản lý hộ tịch và các phần mềm ứng dụng, dịch vụ do Bộ Tư pháp xây dựng, thiết kế, cung cấp cho các cơ quan đăng ký, quản lý hộ tịch để thực hiện nghiệp vụ đăng ký hộ tịch, xây dựng, cập nhật, số hóa, chuẩn hóa và quản lý các dữ liệu hộ tịch, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử.
 
-*Nội dung chưa có sẵn*
+Phần mềm đăng ký, quản lý hộ tịch điện tử dùng chung được kết nối, tích hợp với Cổng dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tư pháp, Bộ Ngoại giao, Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh để hỗ trợ tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết và kết quả giải quyết các thủ tục hành chính trong lĩnh vực hộ tịch.
 
-**Chỉ mục:** 2
+3. Cơ quan quản lý Cơ sở dữ liệu hộ tịch điện tử bao gồm cơ quan đăng ký hộ tịch, Bộ Tư pháp, Sở Tư pháp các tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Sở Tư pháp), Phòng Tư pháp các huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là Phòng Tư pháp).
 
-**Mã phân cấp:** 1500300000000000100000440273580087000020
+4. Họ tên bao gồm họ, tên và chữ đệm (nếu có).
 
-**ID:** dk_00021176
+Điều 15.3.TT.4.3. Giải thích từ ngữ
 
----
+(Điều 3 Thông tư số 07/2023/TT-BNG, có hiệu lực thi hành kể từ ngày 15/02/2024)
 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-### Điều 15.3.TT.4.3. Giải thích từ ngữ
+1. Công dân Việt Nam cư trú ở nước ngoài là người đang có quốc tịch Việt Nam thường trú hoặc tạm trú ở nước ngoài.
 
-*Nội dung chưa có sẵn*
+2. Công dân Việt Nam thường trú ở nước ngoài là người đang có quốc tịch Việt Nam, được nước sở tại cho hưởng quy chế thường trú.
 
-**Chỉ mục:** 3
+3. Công dân Việt Nam tạm trú ở nước ngoài là người đang có quốc tịch Việt Nam công tác, học tập, lao động, cư trú có thời hạn ở nước ngoài.
 
-**Mã phân cấp:** 1500300000000000100000480286070007000030
+4. Cán bộ lãnh sự là viên chức ngoại giao, viên chức lãnh sự được giao thực hiện công tác hộ tịch tại Cơ quan đại diện.
 
-**ID:** dk_00021177
+Điều 15.3.LQ.5. Nguyên tắc đăng ký hộ tịch
 
----
+(Điều 5 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+1. Tôn trọng và bảo đảm quyền nhân thân của cá nhân.
 
-### Điều 15.3.LQ.5. Nguyên tắc đăng ký hộ tịch
+2. Mọi sự kiện hộ tịch của cá nhân phải được đăng ký đầy đủ, kịp thời, trung thực, khách quan và chính xác; trường hợp không đủ điều kiện đăng ký hộ tịch theo quy định của pháp luật thì người đứng đầu cơ quan đăng ký hộ tịch từ chối bằng văn bản và nêu rõ lý do.
 
-*Nội dung chưa có sẵn*
+3. Đối với những việc hộ tịch mà Luật này không quy định thời hạn giải quyết thì được giải quyết ngay trong ngày; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả trong ngày làm việc tiếp theo.
 
-**Chỉ mục:** 5
+4. Mỗi sự kiện hộ tịch chỉ được đăng ký tại một cơ quan đăng ký hộ tịch có thẩm quyền theo quy định của Luật này.
 
-**Mã phân cấp:** 1500300000000000100000500000000000000000
+Cá nhân có thể được đăng ký hộ tịch tại cơ quan đăng ký hộ tịch nơi thường trú, tạm trú hoặc nơi đang sinh sống. Trường hợp cá nhân không đăng ký tại nơi thường trú thì Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã, Cơ quan đại diện nơi đã đăng ký hộ tịch cho cá nhân có trách nhiệm thông báo việc đăng ký hộ tịch đến Ủy ban nhân dân cấp xã nơi cá nhân đó thường trú.
 
-**ID:** dk_00021178
+5. Mọi sự kiện hộ tịch sau khi đăng ký vào Sổ hộ tịch phải được cập nhật kịp thời, đầy đủ vào Cơ sở dữ liệu hộ tịch điện tử.
 
----
+6. Nội dung khai sinh, kết hôn, ly hôn, khai tử, thay đổi, cải chính, bổ sung hộ tịch, xác định lại giới tính, xác định lại dân tộc của cá nhân trong Cơ sở dữ liệu hộ tịch là thông tin đầu vào của Cơ sở dữ liệu quốc gia về dân cư.
 
+7. Bảo đảm công khai, minh bạch thủ tục đăng ký hộ tịch.
 
-### Điều 15.3.LQ.6. Quyền, nghĩa vụ đăng ký hộ tịch của cá nhân
+(Điều này có nội dung liên quan đến Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự)
 
 Điều 15.3.LQ.6. Quyền, nghĩa vụ đăng ký hộ tịch của cá nhân
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000100000600000000000000000
+1. Công dân Việt Nam, người không quốc tịch thường trú tại Việt Nam có quyền, nghĩa vụ đăng ký hộ tịch.
 
-**ID:** dk_00021179
+Quy định này cũng được áp dụng đối với công dân nước ngoài thường trú tại Việt Nam, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên có quy định khác.
 
----
+2. Trường hợp kết hôn, nhận cha, mẹ, con thì các bên phải trực tiếp thực hiện tại cơ quan đăng ký hộ tịch.
 
+Đối với các việc đăng ký hộ tịch khác hoặc cấp bản sao trích lục hộ tịch thì người có yêu cầu trực tiếp hoặc ủy quyền cho người khác thực hiện. Bộ trưởng Bộ Tư pháp quy định chi tiết việc ủy quyền.
 
-### Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch
+3. Người chưa thành niên, người đã thành niên mất năng lực hành vi dân sự yêu cầu đăng ký hộ tịch hoặc cấp bản sao trích lục hộ tịch thông qua người đại diện theo pháp luật.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Ủy quyền đăng ký hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.6.LQ.3. Giải thích từ ngữ; Điều 15.3.LQ.8. Bảo đảm thực hiện quyền, nghĩa vụ đăng ký hộ tịch; Điều 9.1.LQ.21. Người chưa thành niên; Điều 9.1.LQ.22. Mất năng lực hành vi dân sự)
 
-**Chỉ mục:** 7
+Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch
 
-**Mã phân cấp:** 1500300000000000100000700000000000000000
+(Điều 7 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00021180
+1. Ủy ban nhân dân cấp xã đăng ký hộ tịch trong các trường hợp sau:
 
----
+a) Đăng ký sự kiện hộ tịch quy định tại các điểm a, b, c, d và e khoản 1 Điều 3 của Luật này cho công dân Việt Nam cư trú ở trong nước;
 
+b) Đăng ký thay đổi, cải chính hộ tịch cho người chưa đủ 14 tuổi; bổ sung thông tin hộ tịch cho công dân Việt Nam cư trú ở trong nước;
 
-### Điều 15.3.LQ.8. Bảo đảm thực hiện quyền, nghĩa vụ đăng ký hộ tịch
+c) Thực hiện các việc hộ tịch theo quy định tại khoản 2 và khoản 4 Điều 3 của Luật này;
+
+d) Đăng ký khai sinh cho trẻ em sinh ra tại Việt Nam có cha hoặc mẹ là công dân Việt Nam thường trú tại khu vực biên giới, còn người kia là công dân của nước láng giềng thường trú tại khu vực biên giới với Việt Nam; kết hôn, nhận cha, mẹ, con của công dân Việt Nam thường trú ở khu vực biên giới với công dân của nước láng giềng thường trú ở khu vực biên giới với Việt Nam; khai tử cho người nước ngoài cư trú ổn định lâu dài tại khu vực biên giới của Việt Nam.
+
+2. Ủy ban nhân dân cấp huyện đăng ký hộ tịch trong các trường hợp sau, trừ trường hợp quy định tại điểm d khoản 1 Điều này:
+
+a) Đăng ký sự kiện hộ tịch quy định tại khoản 1 Điều 3 của Luật này có yếu tố nước ngoài;
+
+b) Đăng ký thay đổi, cải chính hộ tịch cho công dân Việt Nam từ đủ 14 tuổi trở lên cư trú ở trong nước; xác định lại dân tộc;
+
+c) Thực hiện các việc hộ tịch theo quy định tại khoản 3 Điều 3 của Luật này.
+
+3. Cơ quan đại diện đăng ký các việc hộ tịch quy định tại Điều 3 của Luật này cho công dân Việt Nam cư trú ở nước ngoài.
+
+4. Chính phủ quy định thủ tục đăng ký khai sinh, kết hôn, nhận cha, mẹ, con, khai tử quy định tại điểm d khoản 1 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 15.3.TL.2.2. Thẩm quyền đăng ký hộ tịch của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự; Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch; Điều 15.3.LQ.13. Thẩm quyền đăng ký khai sinh; Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn; Điều 15.3.LQ.19. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ; Điều 15.3.LQ.24. Thẩm quyền đăng ký nhận cha, mẹ, con; Điều 15.3.LQ.27. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch; Điều 15.3.LQ.32. Thẩm quyền đăng ký khai tử; Điều 15.3.LQ.35. Thẩm quyền đăng ký khai sinh; Điều 15.3.LQ.37. Thẩm quyền đăng ký kết hôn; Điều 15.3.LQ.39. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ; Điều 15.3.LQ.43. Thẩm quyền đăng ký nhận cha, mẹ, con; Điều 15.3.LQ.46. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc; Điều 15.3.LQ.48. Thẩm quyền ghi vào Sổ hộ tịch việc hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài; Điều 15.3.LQ.51. Thẩm quyền đăng ký khai tử; Điều 15.3.LQ.53. Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài; Điều 15.3.NĐ.1.2. Quy định về xuất trình, nộp giấy tờ khi đăng ký hộ tịch, cấp bản sao trích lục hộ tịch; Điều 15.3.NĐ.1.17. Đăng ký khai sinh; Điều 15.3.NĐ.1.18. Đăng ký kết hôn; Điều 15.3.NĐ.1.19. Đăng ký nhận cha, mẹ, con; Điều 15.3.NĐ.1.20. Đăng ký khai tử; Điều 15.3.NĐ.1.25. Thẩm quyền đăng ký lại khai sinh, kết hôn, khai tử)
 
 Điều 15.3.LQ.8. Bảo đảm thực hiện quyền, nghĩa vụ đăng ký hộ tịch
 
-**Chỉ mục:** 8
+(Điều 8 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000100000800000000000000000
+1. Nhà nước có chính sách, biện pháp đồng bộ, tạo điều kiện để cá nhân thực hiện quyền, nghĩa vụ đăng ký hộ tịch.
 
-**ID:** dk_00021181
+2. Nhà nước bảo đảm ngân sách, cơ sở vật chất, nguồn nhân lực, đầu tư phát triển công nghệ thông tin cho hoạt động đăng ký và quản lý hộ tịch.
 
----
-
-
-### Điều 15.3.LQ.9. Phương thức yêu cầu và tiếp nhận yêu cầu đăng ký hộ tịch
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.6. Quyền, nghĩa vụ đăng ký hộ tịch của cá nhân)
 
 Điều 15.3.LQ.9. Phương thức yêu cầu và tiếp nhận yêu cầu đăng ký hộ tịch
 
-**Chỉ mục:** 9
+(Điều 9 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000100000900000000000000000
+1. Khi yêu cầu đăng ký hộ tịch, cấp bản sao trích lục hộ tịch, cá nhân nộp hồ sơ trực tiếp cho cơ quan đăng ký hộ tịch hoặc gửi hồ sơ qua hệ thống bưu chính hoặc gửi qua hệ thống đăng ký hộ tịch trực tuyến.
 
-**ID:** dk_00021182
+2. Khi làm thủ tục đăng ký hộ tịch, cấp bản sao trích lục hộ tịch từ Cơ sở dữ liệu hộ tịch, cá nhân xuất trình giấy tờ chứng minh nhân thân cho cơ quan đăng ký hộ tịch. Trường hợp gửi hồ sơ qua hệ thống bưu chính thì phải gửi kèm theo bản sao có chứng thực giấy tờ chứng minh nhân thân.
 
----
+3. Đối với những việc đăng ký hộ tịch có quy định thời hạn giải quyết, thì người tiếp nhận hồ sơ phải viết giấy tiếp nhận; trường hợp hồ sơ chưa đầy đủ, không hợp lệ thì phải hướng dẫn bằng văn bản để người đi đăng ký hộ tịch bổ sung, hoàn thiện. Văn bản hướng dẫn phải ghi đầy đủ, rõ ràng loại giấy tờ bổ sung.
 
+Trường hợp người có yêu cầu nộp hồ sơ không đúng cơ quan đăng ký hộ tịch có thẩm quyền thì người tiếp nhận hướng dẫn người đi đăng ký hộ tịch đến cơ quan có thẩm quyền để nộp hồ sơ.
 
-### Điều 15.3.LQ.10. Hợp pháp hóa lãnh sự đối với giấy tờ của nước ngoài
+(Điều này có nội dung liên quan đến Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.9. Giấy tờ nộp và xuất trình khi đăng ký khai sinh; Điều 39.1.TT.1.3. Quyền và trách nhiệm công dân)
 
 Điều 15.3.LQ.10. Hợp pháp hóa lãnh sự đối với giấy tờ của nước ngoài
 
-**Chỉ mục:** 10
+(Điều 10 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000100001000000000000000000
+Giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp, công chứng hoặc xác nhận để sử dụng cho việc đăng ký hộ tịch tại Việt Nam phải được hợp pháp hóa lãnh sự theo quy định của pháp luật, trừ trường hợp được miễn theo điều ước quốc tế mà Việt Nam là thành viên.
 
-**ID:** dk_00021183
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.38. Thủ tục đăng ký kết hôn; Điều 15.3.NĐ.1.2. Quy định về xuất trình, nộp giấy tờ khi đăng ký hộ tịch, cấp bản sao trích lục hộ tịch; Điều 15.3.NĐ.1.30. Hồ sơ đăng ký kết hôn)
 
----
+Điều 15.3.LQ.11. Lệ phí hộ tịch
 
+(Điều 11 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 15.3.LQ.11. Lệ phí hộ tịch
+1. Miễn lệ phí đăng ký hộ tịch trong những trường hợp sau:
 
-*Nội dung chưa có sẵn*
+a) Đăng ký hộ tịch cho người thuộc gia đình có công với cách mạng; người thuộc hộ nghèo; người khuyết tật;
 
-**Chỉ mục:** 11
+b) Đăng ký khai sinh, khai tử đúng hạn, giám hộ, kết hôn của công dân Việt Nam cư trú ở trong nước.
 
-**Mã phân cấp:** 1500300000000000100001100000000000000000
+2. Cá nhân yêu cầu đăng ký sự kiện hộ tịch khác ngoài quy định tại khoản 1 Điều này, yêu cầu cấp bản sao trích lục hộ tịch phải nộp lệ phí.
 
-**ID:** dk_00021184
+Bộ Tài chính quy định chi tiết thẩm quyền thu, mức thu, nộp, chế độ quản lý và sử dụng lệ phí hộ tịch.
 
----
+(Điều này có nội dung liên quan đến Điều 33.3.TT.79.3. Danh mục các khoản lệ phí thuộc thẩm quyền của Hội đồng nhân dân cấp tỉnh; Điều 33.3.TT.79.4. Nguyên tắc xác định mức thu; Điều 33.3.TT.79.5. Căn cứ xác định mức thu phí và lệ phí; Điều 33.3.TT.102.4. Mức thu phí, lệ phí)
 
+Điều 15.3.LQ.12. Các hành vi bị nghiêm cấm
 
-### Điều 15.3.LQ.12. Các hành vi bị nghiêm cấm
+(Điều 12 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Nghiêm cấm cá nhân thực hiện các hành vi sau đây:
 
-**Chỉ mục:** 12
+a) Cung cấp thông tin, tài liệu sai sự thật; làm hoặc sử dụng giấy tờ giả, giấy tờ của người khác để đăng ký hộ tịch;
 
-**Mã phân cấp:** 1500300000000000100001200000000000000000
+b) Đe dọa, cưỡng ép, cản trở việc thực hiện quyền, nghĩa vụ đăng ký hộ tịch;
 
-**ID:** dk_00021185
+c) Can thiệp trái pháp luật vào hoạt động đăng ký hộ tịch;
 
----
+d) Cam đoan, làm chứng sai sự thật để đăng ký hộ tịch;
 
+đ) Làm giả, sửa chữa, làm sai lệch nội dung giấy tờ hộ tịch hoặc thông tin trong Cơ sở dữ liệu hộ tịch;
 
-### Điều 15.3.LQ.13. Thẩm quyền đăng ký khai sinh
+e) Đưa hối lộ, mua chuộc, hứa hẹn lợi ích vật chất, tinh thần để được đăng ký hộ tịch;
 
-*Nội dung chưa có sẵn*
+g) Lợi dụng việc đăng ký hộ tịch hoặc trốn tránh nghĩa vụ đăng ký hộ tịch nhằm động cơ vụ lợi, hưởng chính sách ưu đãi của Nhà nước hoặc trục lợi dưới bất kỳ hình thức nào;
 
-**Chỉ mục:** 13
+h) Người có thẩm quyền quyết định đăng ký hộ tịch thực hiện việc đăng ký hộ tịch cho bản thân hoặc người thân thích theo quy định của Luật hôn nhân và gia đình;
 
-**Mã phân cấp:** 150030000000000020000001000000000000000001300000000000000000
+i) Truy cập trái phép, trộm cắp, phá hoại thông tin trong Cơ sở dữ liệu hộ tịch.
 
-**ID:** dk_00021188
+2. Giấy tờ hộ tịch được cấp cho trường hợp đăng ký hộ tịch vi phạm quy định tại các điểm a, d, đ, g và h khoản 1 Điều này đều không có giá trị và phải thu hồi, huỷ bỏ.
 
----
+3. Cá nhân thực hiện hành vi quy định tại khoản 1 Điều này thì tuỳ theo tính chất, mức độ vi phạm có thể bị xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
+Trường hợp cán bộ, công chức vi phạm quy định tại khoản 1 Điều này, ngoài bị xử lý như trên còn bị xử lý kỷ luật theo quy định pháp luật về cán bộ, công chức.
 
-### Điều 15.3.LQ.14. Nội dung đăng ký khai sinh
+(Điều này có nội dung liên quan đến Điều 27. Hành vi vi phạm quy định về đăng ký khai sinh; Điều 28. Hành vi vi phạm quy định về đăng ký kết hôn và môi giới kết hôn; Điều 30. Hành vi vi phạm quy định về cấp giấy xác nhận tình trạng hôn nhân; Điều 31. Hành vi vi phạm quy định về đăng ký khai tử; Điều 32. Hành vi vi phạm quy định về đăng ký giám hộ; Điều 33. Hành vi vi phạm quy định về đăng ký việc nhận cha, mẹ, con; Điều 34. Hành vi vi phạm quy định về thay đổi, cải chính hộ tịch; Điều 35. Hành vi vi phạm quy định về xác định lại dân tộc, xác định lại giới tính; Điều 36. Hành vi vi phạm về quản lý, sử dụng giấy tờ hộ tịch của Nghị định 110/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp, hành chính tư pháp, hôn nhân và gia đình, thi hành án dân sự, phá sản doanh nghiệp, hợp tác xã ban hành ngày 24/09/2013; Điều 1. của Nghị định 67/2015/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 110/2013/NĐ-CP ngày 24 tháng 9 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp, hành chính tư pháp, hôn nhân và gia đình, thi hành án dân sự, phá sản doanh nghiệp, hợp tác xã ban hành ngày 14/08/2015; Điều 16.1.LQ.341. Tội làm giả con dấu, tài liệu của cơ quan, tổ chức; tội sử dụng con dấu hoặc tài liệu giả của cơ quan, tổ chức; Điều 16.1.LQ.354. Tội nhận hối lộ; Điều 16.1.LQ.356. Tội lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ; Điều 16.1.LQ.357. Tội lạm quyền trong khi thi hành công vụ; Điều 16.1.LQ.358. Tội lợi dụng chức vụ, quyền hạn gây ảnh hưởng đối với người khác để trục lợi)
 
-*Nội dung chưa có sẵn*
+Chương II
 
-**Chỉ mục:** 14
+ĐĂNG KÝ HỘ TỊCH TẠI UỶ BAN NHÂN DÂN CẤP XÃ
 
-**Mã phân cấp:** 150030000000000020000001000000000000000001400000000000000000
+(Chương này có nội dung liên quan đến Điều 41.13.QĐ.1. của Quyết định 308/2005/QĐ-TTg Ban hành Quy chế thực hiện nếp sống văn minh trong việc cưới, việc tang và lễ hội ban hành ngày 25/11/2005)
 
-**ID:** dk_00021189
+Mục 1
 
----
+ĐĂNG KÝ KHAI SINH
 
+(Mục này có nội dung liên quan đến Điều 15.6.LQ.15. Quốc tịch của trẻ em khi sinh ra có cha mẹ là công dân Việt Nam của Luật 24/2008/QH12 Quốc tịch Việt Nam ban hành ngày 13/11/2008)
 
-### Điều 15.3.LQ.15. Trách nhiệm đăng ký khai sinh
+Điều 15.3.LQ.13. Thẩm quyền đăng ký khai sinh
 
-*Nội dung chưa có sẵn*
+(Điều 13 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 15
+Ủy ban nhân dân cấp xã nơi cư trú của người cha hoặc người mẹ thực hiện đăng ký khai sinh.
 
-**Mã phân cấp:** 150030000000000020000001000000000000000001500000000000000000
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 9.1.LQ.40. Nơi cư trú của cá nhân)
 
-**ID:** dk_00021190
+Điều 15.3.LQ.14. Nội dung đăng ký khai sinh
 
----
+(Điều 14 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+1. Nội dung đăng ký khai sinh gồm:
 
-### Điều 15.3.LQ.16. Thủ tục đăng ký khai sinh
+a) Thông tin của người được đăng ký khai sinh: Họ, chữ đệm và tên; giới tính; ngày, tháng, năm sinh; nơi sinh; quê quán; dân tộc; quốc tịch;
 
-*Nội dung chưa có sẵn*
+b) Thông tin của cha, mẹ người được đăng ký khai sinh: Họ, chữ đệm và tên; năm sinh; dân tộc; quốc tịch; nơi cư trú;
 
-**Chỉ mục:** 16
+c) Số định danh cá nhân của người được đăng ký khai sinh.
 
-**Mã phân cấp:** 150030000000000020000001000000000000000001600000000000000000
+2. Việc xác định quốc tịch, dân tộc, họ của người được khai sinh được thực hiện theo quy định của pháp luật về quốc tịch Việt Nam và pháp luật dân sự.
 
-**ID:** dk_00021191
+3. Nội dung đăng ký khai sinh quy định tại khoản 1 Điều này là thông tin hộ tịch cơ bản của cá nhân, được ghi vào Sổ hộ tịch, Giấy khai sinh, cập nhật vào Cơ sở dữ liệu hộ tịch điện tử và Cơ sở dữ liệu quốc gia về dân cư. Hồ sơ, giấy tờ của cá nhân liên quan đến thông tin khai sinh phải phù hợp với nội dung đăng ký khai sinh của người đó.
 
----
+Chính phủ quy định việc cấp Số định danh cá nhân cho người được đăng ký khai sinh.
 
+(Điều này có nội dung liên quan đến Điều 15. Thủ tục đăng ký khai sinh, khai tử lưu động; Điều 15.3.TT.1.21. Cách ghi Giấy khai sinh, Sổ đăng ký khai sinh của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 6. Đăng ký khai sinh của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.6.LQ.15. Quốc tịch của trẻ em khi sinh ra có cha mẹ là công dân Việt Nam; Điều 15.6.LQ.16. Quốc tịch của trẻ em khi sinh ra có cha hoặc mẹ là công dân Việt Nam; Điều 15.6.LQ.17. Quốc tịch của trẻ em khi sinh ra có cha mẹ là người không quốc tịch; Điều 15.6.LQ.18. Quốc tịch của trẻ sơ sinh bị bỏ rơi, trẻ em được tìm thấy trên lãnh thổ Việt Nam; Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.LQ.16. Thủ tục đăng ký khai sinh; Điều 15.3.LQ.36. Thủ tục đăng ký khai sinh; Điều 15.3.NĐ.1.4. Xác định nội dung đăng ký khai sinh, khai tử; Điều 15.3.NĐ.1.14. Đăng ký khai sinh cho trẻ bị bỏ rơi; Điều 15.3.NĐ.1.15. Đăng ký khai sinh cho trẻ chưa xác định được cha, mẹ; Điều 15.3.NĐ.1.16. Đăng ký khai sinh cho trẻ em sinh ra do mang thai hộ; Điều 15.3.NĐ.1.17. Đăng ký khai sinh; Điều 15.3.NĐ.1.26. Thủ tục đăng ký lại khai sinh)
 
-### Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn
+Điều 15.3.LQ.15. Trách nhiệm đăng ký khai sinh
+
+(Điều 15 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+1. Trong thời hạn 60 ngày kể từ ngày sinh con, cha hoặc mẹ có trách nhiệm đăng ký khai sinh cho con; trường hợp cha, mẹ không thể đăng ký khai sinh cho con thì ông hoặc bà hoặc người thân thích khác hoặc cá nhân, tổ chức đang nuôi dưỡng trẻ em có trách nhiệm đăng ký khai sinh cho trẻ em.
+
+2. Công chức tư pháp - hộ tịch thường xuyên kiểm tra, đôn đốc việc đăng ký khai sinh cho trẻ em trên địa bàn trong thời hạn quy định; trường hợp cần thiết thì thực hiện đăng ký khai sinh lưu động.
+
+(Điều này có nội dung liên quan đến Điều 14. Các trường hợp đăng ký khai sinh, khai tử, kết hôn lưu động; Điều 15. Thủ tục đăng ký khai sinh, khai tử lưu động của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8.4.LQ.3. Giải thích từ ngữ; Điều 9.1.LQ.30. Quyền được khai sinh, khai tử; Điều 8.1.LQ.13. Quyền được khai sinh và có quốc tịch)
+
+Điều 15.3.LQ.16. Thủ tục đăng ký khai sinh
+
+(Điều 16 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+1. Người đi đăng ký khai sinh nộp tờ khai theo mẫu quy định và giấy chứng sinh cho cơ quan đăng ký hộ tịch. Trường hợp không có giấy chứng sinh thì nộp văn bản của người làm chứng xác nhận về việc sinh; nếu không có người làm chứng thì phải có giấy cam đoan về việc sinh; trường hợp khai sinh cho trẻ em bị bỏ rơi phải có biên bản xác nhận việc trẻ bị bỏ rơi do cơ quan có thẩm quyền lập; trường hợp khai sinh cho trẻ em sinh ra do mang thai hộ phải có văn bản chứng minh việc mang thai hộ theo quy định pháp luật.
+
+2. Ngay sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy thông tin khai sinh đầy đủ và phù hợp, công chức tư pháp - hộ tịch ghi nội dung khai sinh theo quy định tại khoản 1 Điều 14 của Luật này vào Sổ hộ tịch; cập nhật vào Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư để lấy Số định danh cá nhân.
+
+Công chức tư pháp - hộ tịch và người đi đăng ký khai sinh cùng ký tên vào Sổ hộ tịch. Chủ tịch Ủy ban nhân dân cấp xã cấp Giấy khai sinh cho người được đăng ký khai sinh.
+
+3. Chính phủ quy định chi tiết việc đăng ký khai sinh cho trẻ em bị bỏ rơi, trẻ em chưa xác định được cha, mẹ, trẻ em sinh ra do mang thai hộ; việc xác định quê quán của trẻ em bị bỏ rơi, trẻ em chưa xác định được cha, mẹ.
+
+(Điều này có nội dung liên quan đến Điều 2. &#160;Thẩm quyền và thủ tục cấp, cấp lại Giấy chứng sinh của Thông tư 17/2012/TT-BYT Quy định cấp và sử dụng Giấy chứng sinh ban hành ngày 24/10/2012; Điều 1. Sửa đổi, bổ sung Điều 2 Thông tư số 17/2012/TT-BYT ngày 24 tháng 10 năm 2012 của Bộ trưởng Bộ Y tế quy định cấp và sử dụng Giấy chứng sinh của Thông tư 34/2015/TT-BYT Sửa đổi, bổ sung Điều 2 Thông tư số 17/2012/TT-BYT ngày 24 tháng 10 năm 2012 của Bộ trưởng Bộ Y tế quy định cấp và sử dụng giấy chứng sinh ban hành ngày 27/10/2015; Điều 12. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 15.3.TT.1.21. Cách ghi Giấy khai sinh, Sổ đăng ký khai sinh của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.LQ.14. Nội dung đăng ký khai sinh; Điều 15.3.LQ.36. Thủ tục đăng ký khai sinh; Điều 15.3.NĐ.1.2. Quy định về xuất trình, nộp giấy tờ khi đăng ký hộ tịch, cấp bản sao trích lục hộ tịch; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.4. Xác định nội dung đăng ký khai sinh, khai tử; Điều 15.3.NĐ.1.9. Giấy tờ nộp và xuất trình khi đăng ký khai sinh; Điều 15.3.NĐ.1.14. Đăng ký khai sinh cho trẻ bị bỏ rơi; Điều 15.3.NĐ.1.15. Đăng ký khai sinh cho trẻ chưa xác định được cha, mẹ; Điều 15.3.NĐ.1.16. Đăng ký khai sinh cho trẻ em sinh ra do mang thai hộ; Điều 15.3.NĐ.1.17. Đăng ký khai sinh; Điều 15.3.NĐ.1.26. Thủ tục đăng ký lại khai sinh; Điều 15.3.TT.2.15. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con)
+
+Mục 2
+
+ĐĂNG KÝ KẾT HÔN
 
 Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000002000000000000000001700000000000000000
+1. Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên nam, nữ thực hiện đăng ký kết hôn.
 
-**ID:** dk_00021193
+2. Giấy chứng nhận kết hôn phải có các thông tin sau đây:
 
----
+a) Họ, chữ đệm và tên; ngày, tháng, năm sinh; dân tộc; quốc tịch; nơi cư trú; thông tin về giấy tờ chứng minh nhân thân của hai bên nam, nữ;
 
+b) Ngày, tháng, năm đăng ký kết hôn;
 
-### Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn
+c) Chữ ký hoặc điểm chỉ của hai bên nam, nữ và xác nhận của cơ quan đăng ký hộ tịch.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 15.3.TT.1.22. Cách ghi Giấy chứng nhận kết hôn, Sổ đăng ký kết hôn của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8.4.LQ.9. Đăng ký kết hôn; Điều 8.4.LQ.14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn; Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 39.1.NĐ.7. Sử dụng Chứng minh nhân dân; Điều 15.3.NĐ.1.44. Điều khoản chuyển tiếp; Điều 39.1.TT.1.3. Quyền và trách nhiệm công dân)
 
-**Chỉ mục:** 18
+Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn
 
-**Mã phân cấp:** 150030000000000020000002000000000000000001800000000000000000
+(Điều 18 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00021194
+1. Hai bên nam, nữ nộp tờ khai đăng ký kết hôn theo mẫu quy định cho cơ quan đăng ký hộ tịch và cùng có mặt khi đăng ký kết hôn.
 
----
+2. Ngay sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy đủ điều kiện kết hôn theo quy định của Luật hôn nhân và gia đình, công chức tư pháp - hộ tịch ghi việc kết hôn vào Sổ hộ tịch, cùng hai bên nam, nữ ký tên vào Sổ hộ tịch. Hai bên nam, nữ cùng ký vào Giấy chứng nhận kết hôn; công chức tư pháp - hộ tịch báo cáo Chủ tịch Ủy ban nhân dân cấp xã tổ chức trao Giấy chứng nhận kết hôn cho hai bên nam, nữ.
 
+Trường hợp cần xác minh điều kiện kết hôn của hai bên nam, nữ thì thời hạn giải quyết không quá 05 ngày làm việc.
 
-### Điều 15.3.LQ.19. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.2. Ủy quyền đăng ký hộ tịch; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 15.3.TT.1.22. Cách ghi Giấy chứng nhận kết hôn, Sổ đăng ký kết hôn của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8.4.LQ.8. Điều kiện kết hôn; Điều 8.4.LQ.9. Đăng ký kết hôn; Điều 8.4.LQ.14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.10. Giấy tờ nộp và xuất trình khi đăng ký kết hôn; Điều 15.3.NĐ.1.23. Giá trị sử dụng của Giấy xác nhận tình trạng hôn nhân; Điều 15.3.NĐ.1.27. Thủ tục đăng ký lại kết hôn; Điều 15.3.NĐ.1.44. Điều khoản chuyển tiếp)
+
+Mục 3
+
+ĐĂNG KÝ GIÁM HỘ
 
 Điều 15.3.LQ.19. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000003000000000000000001900000000000000000
+Ủy ban nhân dân cấp xã nơi cư trú của người được giám hộ hoặc người giám hộ thực hiện đăng ký giám hộ.
 
-**ID:** dk_00021196
+Ủy ban nhân dân cấp xã nơi đã đăng ký giám hộ thực hiện đăng ký chấm dứt giám hộ.
 
----
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 9.1.LQ.46. Giám hộ; Điều 9.1.LQ.47. Người được giám hộ; Điều 9.1.LQ.48. Người giám hộ; Điều 9.1.LQ.49. Điều kiện của cá nhân làm người giám hộ; Điều 9.1.LQ.50. Điều kiện của pháp nhân làm người giám hộ)
 
+Điều 15.3.LQ.20. Thủ tục đăng ký giám hộ cử
 
-### Điều 15.3.LQ.20. Thủ tục đăng ký giám hộ cử
+(Điều 20 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Người yêu cầu đăng ký giám hộ nộp tờ khai đăng ký giám hộ theo mẫu quy định và văn bản cử người giám hộ theo quy định của Bộ luật dân sự cho cơ quan đăng ký hộ tịch.
 
-**Chỉ mục:** 20
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy đủ điều kiện theo quy định pháp luật thì công chức tư pháp - hộ tịch ghi vào Sổ hộ tịch và cùng người đi đăng ký giám hộ ký vào Sổ hộ tịch, báo cáo Chủ tịch Ủy ban nhân dân cấp xã cấp trích lục cho người yêu cầu.
 
-**Mã phân cấp:** 150030000000000020000003000000000000000002000000000000000000
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ; Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ; Điều 9.1.LQ.46. Giám hộ; Điều 9.1.LQ.47. Người được giám hộ; Điều 9.1.LQ.48. Người giám hộ; Điều 9.1.LQ.49. Điều kiện của cá nhân làm người giám hộ; Điều 9.1.LQ.50. Điều kiện của pháp nhân làm người giám hộ; Điều 9.1.LQ.54. Cử, chỉ định người giám hộ; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
-**ID:** dk_00021197
+Điều 15.3.LQ.21. Đăng ký giám hộ đương nhiên
 
----
+(Điều 21 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+1. Người yêu cầu đăng ký giám hộ nộp tờ khai đăng ký giám hộ theo mẫu quy định và giấy tờ chứng minh điều kiện giám hộ đương nhiên theo quy định của Bộ luật dân sự cho cơ quan đăng ký hộ tịch. Trường hợp có nhiều người cùng đủ điều kiện làm giám hộ đương nhiên thì nộp thêm văn bản thỏa thuận về việc cử một người làm giám hộ đương nhiên.
 
-### Điều 15.3.LQ.21. Đăng ký giám hộ đương nhiên
+2. Trình tự đăng ký giám hộ đương nhiên được thực hiện theo quy định tại khoản 2 Điều 20 của Luật này.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ; Điều 15.3.LQ.41. Đăng ký giám hộ đương nhiên; Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ; Điều 9.1.LQ.46. Giám hộ; Điều 9.1.LQ.52. Người giám hộ đương nhiên của người chưa thành niên; Điều 9.1.LQ.53. Người giám hộ đương nhiên của người mất năng lực hành vi dân sự; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
-**Chỉ mục:** 21
+Điều 15.3.LQ.22. Đăng ký chấm dứt giám hộ
 
-**Mã phân cấp:** 150030000000000020000003000000000000000002100000000000000000
+(Điều 22 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00021198
+1. Người yêu cầu đăng ký chấm dứt giám hộ nộp tờ khai đăng ký chấm dứt giám hộ theo mẫu quy định và giấy tờ làm căn cứ chấm dứt giám hộ theo quy định của Bộ luật dân sự cho cơ quan đăng ký hộ tịch.
 
----
+2. Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy việc chấm dứt giám hộ đủ điều kiện theo quy định của Bộ luật dân sự, công chức tư pháp - hộ tịch ghi việc chấm dứt giám hộ vào Sổ hộ tịch, cùng người đi đăng ký chấm dứt giám hộ ký vào Sổ hộ tịch và báo cáo Chủ tịch Ủy ban nhân dân cấp xã cấp trích lục cho người yêu cầu.
 
+(Điều này có nội dung liên quan đến Điều 8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ; Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ; Điều 9.1.LQ.62. Chấm dứt việc giám hộ; Điều 9.1.LQ.63. Hậu quả chấm dứt việc giám hộ; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
-### Điều 15.3.LQ.22. Đăng ký chấm dứt giám hộ
+Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ
 
-*Nội dung chưa có sẵn*
+(Điều 23 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 22
+Trường hợp yêu cầu thay đổi người giám hộ theo quy định của Bộ luật dân sự và có người khác đủ điều kiện nhận làm giám hộ, thì các bên làm thủ tục đăng ký chấm dứt giám hộ trước đó và đăng ký giám hộ mới theo quy định tại Mục này.
 
-**Mã phân cấp:** 150030000000000020000003000000000000000002200000000000000000
+(Điều này có nội dung liên quan đến Điều 15.3.TL.2.8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.20. Thủ tục đăng ký giám hộ cử; Điều 15.3.LQ.21. Đăng ký giám hộ đương nhiên; Điều 15.3.LQ.22. Đăng ký chấm dứt giám hộ; Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ; Điều 9.1.LQ.60. Thay đổi người giám hộ; Điều 9.1.LQ.61. Chuyển giao giám hộ)
 
-**ID:** dk_00021199
+Mục 4
 
----
-
-
-### Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 150030000000000020000003000000000000000002300000000000000000
-
-**ID:** dk_00021200
-
----
-
-
-### Điều 15.3.LQ.24. Thẩm quyền đăng ký nhận cha, mẹ, con
+ĐĂNG KÝ NHẬN CHA, MẸ, CON
 
 Điều 15.3.LQ.24. Thẩm quyền đăng ký nhận cha, mẹ, con
 
-**Chỉ mục:** 24
+(Điều 24 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000004000000000000000002400000000000000000
+Ủy ban nhân dân cấp xã nơi cư trú của người nhận hoặc người được nhận là cha, mẹ, con thực hiện đăng ký nhận cha, mẹ, con.
 
-**ID:** dk_00021202
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
----
+Điều 15.3.LQ.25. Thủ tục đăng ký nhận cha, mẹ, con
 
+(Điều 25 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 15.3.LQ.25. Thủ tục đăng ký nhận cha, mẹ, con
+1. Người yêu cầu đăng ký nhận cha, mẹ, con nộp tờ khai theo mẫu quy định và chứng cứ chứng minh quan hệ cha con hoặc mẹ con cho cơ quan đăng ký hộ tịch. Khi đăng ký nhận cha, mẹ, con các bên phải có mặt.
 
-*Nội dung chưa có sẵn*
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy việc nhận cha, mẹ, con là đúng và không có tranh chấp, công chức tư pháp - hộ tịch ghi vào Sổ hộ tịch, cùng người đăng ký nhận cha, mẹ, con ký vào Sổ hộ tịch và báo cáo Chủ tịch Ủy ban nhân dân cấp xã cấp trích lục cho người yêu cầu.
 
-**Chỉ mục:** 25
+Trường hợp cần phải xác minh thì thời hạn được kéo dài thêm không quá 05 ngày làm việc.
 
-**Mã phân cấp:** 150030000000000020000004000000000000000002500000000000000000
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.2. Ủy quyền đăng ký hộ tịch; Điều 11. Chứng cứ chứng minh quan hệ cha, mẹ, con; Điều 12. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con; Điều 15.3.TT.1.13. Hướng dẫn đăng ký nhận cha, mẹ, con, bổ sung hộ tịch trong một số trường hợp đặc biệt; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.15. Đăng ký khai sinh cho trẻ chưa xác định được cha, mẹ; Điều 15.3.TT.2.14. Chứng cứ chứng minh quan hệ cha, mẹ, con; Điều 15.3.TT.2.15. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con)
 
-**ID:** dk_00021203
+Mục 5
 
----
+ĐĂNG KÝ THAY ĐỔI, CẢI CHÍNH, BỔ SUNG HỘ TỊCH
 
+Điều 15.3.LQ.26. Phạm vi thay đổi hộ tịch
 
-### Điều 15.3.LQ.26. Phạm vi thay đổi hộ tịch
+(Điều 26 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Thay đổi họ, chữ đệm và tên của cá nhân trong nội dung khai sinh đã đăng ký khi có căn cứ theo quy định của pháp luật dân sự.
 
-**Chỉ mục:** 26
+2. Thay đổi thông tin về cha, mẹ trong nội dung khai sinh đã đăng ký sau khi được nhận làm con nuôi theo quy định của Luật nuôi con nuôi.
 
-**Mã phân cấp:** 150030000000000020000005000000000000000002600000000000000000
-
-**ID:** dk_00021205
-
----
-
-
-### Điều 15.3.LQ.27. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch
+(Điều này có nội dung liên quan đến Điều 15.3.TL.2.10. Đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.LQ.45. Phạm vi thay đổi hộ tịch; Điều 9.1.LQ.27. Quyền thay đổi họ; Điều 9.1.LQ.28. Quyền thay đổi tên; Điều 15.5.NĐ.1.10. Thủ tục đăng ký việc nuôi con nuôi; Điều 15.3.NĐ.1.7. Điều kiện thay đổi, cải chính hộ tịch; Điều 15.3.TT.2.19. Thay đổi, bổ sung thông tin hộ tịch của con nuôi)
 
 Điều 15.3.LQ.27. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch
 
-**Chỉ mục:** 27
+(Điều 27 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000005000000000000000002700000000000000000
+Ủy ban nhân dân cấp xã nơi đã đăng ký hộ tịch trước đây hoặc nơi cư trú của cá nhân có thẩm quyền giải quyết việc thay đổi, cải chính hộ tịch cho người chưa đủ 14 tuổi; bổ sung hộ tịch cho công dân Việt Nam cư trú ở trong nước.
 
-**ID:** dk_00021206
-
----
-
-
-### Điều 15.3.LQ.28. Thủ tục đăng ký thay đổi, cải chính hộ tịch
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 37.5.LQ.269. Cấp trích lục bản án; giao, gửi bản án; Điều 15.3.TT.2.19. Thay đổi, bổ sung thông tin hộ tịch của con nuôi)
 
 Điều 15.3.LQ.28. Thủ tục đăng ký thay đổi, cải chính hộ tịch
 
-**Chỉ mục:** 28
+(Điều 28 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000005000000000000000002800000000000000000
+1. Người yêu cầu đăng ký thay đổi, cải chính hộ tịch nộp tờ khai theo mẫu quy định và giấy tờ liên quan cho cơ quan đăng ký hộ tịch.
 
-**ID:** dk_00021207
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy việc thay đổi, cải chính hộ tịch là có cơ sở, phù hợp với quy định của pháp luật dân sự và pháp luật có liên quan, công chức tư pháp - hộ tịch ghi vào Sổ hộ tịch, cùng người yêu cầu đăng ký thay đổi, cải chính hộ tịch ký vào Sổ hộ tịch và báo cáo Chủ tịch Ủy ban nhân dân cấp xã cấp trích lục cho người yêu cầu.
 
----
+Trường hợp thay đổi, cải chính hộ tịch liên quan đến Giấy khai sinh, Giấy chứng nhận kết hôn thì công chức tư pháp - hộ tịch ghi nội dung thay đổi, cải chính hộ tịch vào Giấy khai sinh, Giấy chứng nhận kết hôn.
 
+Trường hợp cần phải xác minh thì thời hạn được kéo dài thêm không quá 03 ngày làm việc.
 
-### Điều 15.3.LQ.29. Thủ tục bổ sung hộ tịch
+3. Trường hợp đăng ký thay đổi, cải chính hộ tịch không phải tại nơi đăng ký hộ tịch trước đây thì Ủy ban nhân dân cấp xã phải thông báo bằng văn bản kèm theo bản sao trích lục hộ tịch đến Ủy ban nhân dân nơi đăng ký hộ tịch trước đây để ghi vào Sổ hộ tịch.
 
-*Nội dung chưa có sẵn*
+Trường hợp nơi đăng ký hộ tịch trước đây là Cơ quan đại diện thì Ủy ban nhân dân cấp xã phải thông báo bằng văn bản kèm theo bản sao trích lục hộ tịch đến Bộ Ngoại giao để chuyển đến Cơ quan đại diện ghi vào Sổ hộ tịch.
 
-**Chỉ mục:** 29
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 24. Cách ghi Trích lục thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 10. Đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự; Điều 15.3.LQ.47. Thủ tục đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.7. Điều kiện thay đổi, cải chính hộ tịch; Điều 15.3.NĐ.1.13. Ghi vào Sổ hộ tịch nội dung thay đổi, cải chính hộ tịch; Điều 15.3.TT.2.19. Thay đổi, bổ sung thông tin hộ tịch của con nuôi)
 
-**Mã phân cấp:** 150030000000000020000005000000000000000002900000000000000000
+Điều 15.3.LQ.29. Thủ tục bổ sung hộ tịch
 
-**ID:** dk_00021208
+(Điều 29 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
----
+1. Người yêu cầu bổ sung hộ tịch nộp tờ khai theo mẫu quy định và giấy tờ liên quan cho cơ quan đăng ký hộ tịch.
 
+2. Ngay sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy yêu cầu bổ sung hộ tịch là đúng, công chức tư pháp - hộ tịch ghi nội dung bổ sung vào mục tương ứng trong Sổ hộ tịch, cùng người yêu cầu ký tên vào Sổ hộ tịch và báo cáo Chủ tịch Ủy ban nhân dân cấp xã cấp trích lục cho người yêu cầu.
 
-### Điều 15.3.LQ.30. Trách nhiệm thông báo khi có sự thay đổi hộ tịch
+Trường hợp bổ sung hộ tịch vào Giấy khai sinh, Giấy chứng nhận kết hôn thì công chức tư pháp - hộ tịch ghi nội dung bổ sung vào mục tương ứng và đóng dấu vào nội dung bổ sung.
+
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.13. Hướng dẫn đăng ký nhận cha, mẹ, con, bổ sung hộ tịch trong một số trường hợp đặc biệt; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 24. Cách ghi Trích lục thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 10. Đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.LQ.47. Thủ tục đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
+
+Mục 6
+
+GHI VÀO SỔ HỘ TỊCH VIỆC THAY ĐỔI HỘ TỊCH THEO BẢN ÁN, QUYẾT ĐỊNH CỦA CƠ QUAN NHÀ NƯỚC CÓ THẨM QUYỀN
+
+(Mục này có nội dung liên quan đến Điều 15.6.NĐ.1.24. Ghi quốc tịch trong các giấy tờ về hộ tịch đối với công dân Việt Nam đồng thời có quốc tịch nước ngoài; Điều 15.6.NĐ.1.24. Ghi quốc tịch trong các giấy tờ về hộ tịch đối với công dân Việt Nam đồng thời có quốc tịch nước ngoài của Nghị định 78/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam ban hành ngày 22/09/2009; Điều 15.6.TL.1.15. Ghi chú vào Sổ đăng ký khai sinh việc thông báo có quốc tịch nước ngoài; Điều 15.6.TL.1.15. Ghi chú vào Sổ đăng ký khai sinh việc thông báo có quốc tịch nước ngoài của Thông tư liên tịch 05/2010/TTLT/BTP-BNG-BCA Hướng dẫn thi hành Nghị định số 78/2009/NĐ-CP ngày 22 tháng 9 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam ban hành ngày 01/03/2010)
 
 Điều 15.3.LQ.30. Trách nhiệm thông báo khi có sự thay đổi hộ tịch
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000006000000000000000003000000000000000000
+1. Trong thời hạn 05 ngày làm việc kể từ ngày bản án, quyết định có hiệu lực pháp luật liên quan đến thay đổi hộ tịch của cá nhân theo quy định tại khoản 2 Điều 3 của Luật này, Tòa án nhân dân, cơ quan nhà nước có thẩm quyền có trách nhiệm thông báo bằng văn bản kèm theo trích lục bản án, bản sao quyết định đến Ủy ban nhân dân nơi đã đăng ký hộ tịch của cá nhân để ghi vào Sổ hộ tịch; trường hợp nơi đăng ký hộ tịch là Cơ quan đại diện thì thông báo cho Bộ Ngoại giao để chuyển đến Cơ quan đại diện ghi vào Sổ hộ tịch.
 
-**ID:** dk_00021210
+2. Trường hợp thay đổi quốc tịch thì việc thông báo được thực hiện theo quy định của pháp luật về quốc tịch.
 
----
-
-
-### Điều 15.3.LQ.31. Thủ tục ghi vào Sổ hộ tịch việc thay đổi hộ tịch theo bản án, quyết định của cơ quan nhà nước có thẩm quyền
+(Điều này có nội dung liên quan đến Điều 15.3.TL.2.12. Ghi vào Sổ hộ tịch các thay đổi hộ tịch theo bản án, quyết định của cơ quan có thẩm quyền của Việt Nam của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự; Điều 8.4.LQ.57. Thời điểm chấm dứt hôn nhân và trách nhiệm gửi bản án, quyết định ly hôn; Điều 37.5.LQ.269. Cấp trích lục bản án; giao, gửi bản án; Điều 15.3.TL.1.12. Thực hiện cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi tại Bảo hiểm xã hội cấp huyện; Điều 15.3.TT.2.21. Ghi vào Sổ hộ tịch việc thay đổi hộ tịch theo bản án, quyết định của cơ quan nhà nước có thẩm quyền)
 
 Điều 15.3.LQ.31. Thủ tục ghi vào Sổ hộ tịch việc thay đổi hộ tịch theo bản án, quyết định của cơ quan nhà nước có thẩm quyền
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000006000000000000000003100000000000000000
+Ngay sau khi nhận được thông báo theo quy định tại Điều 30 của Luật này, công chức tư pháp - hộ tịch ghi nội dung thay đổi vào Sổ hộ tịch theo bản án, quyết định của Tòa án nhân dân, cơ quan nhà nước có thẩm quyền.
 
-**ID:** dk_00021211
+(Điều này có nội dung liên quan đến Điều 19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8.4.LQ.57. Thời điểm chấm dứt hôn nhân và trách nhiệm gửi bản án, quyết định ly hôn; Điều 37.5.LQ.269. Cấp trích lục bản án; giao, gửi bản án)
 
----
+Mục 7
 
+ĐĂNG KÝ KHAI TỬ
 
-### Điều 15.3.LQ.32. Thẩm quyền đăng ký khai tử
+(Mục này có nội dung liên quan đến Điều 15.3.TT.2.13. Đăng ký khai tử của Thông tư 04/2020/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 28/05/2020)
 
-*Nội dung chưa có sẵn*
+Điều 15.3.LQ.32. Thẩm quyền đăng ký khai tử
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000007000000000000000003200000000000000000
+Ủy ban nhân dân cấp xã nơi cư trú cuối cùng của người chết thực hiện việc đăng ký khai tử. Trường hợp không xác định được nơi cư trú cuối cùng của người chết thì Ủy ban nhân dân cấp xã nơi người đó chết hoặc nơi phát hiện thi thể người chết thực hiện việc đăng ký khai tử.
 
-**ID:** dk_00021213
-
----
-
-
-### Điều 15.3.LQ.33. Thời hạn và trách nhiệm đăng ký khai tử
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
 Điều 15.3.LQ.33. Thời hạn và trách nhiệm đăng ký khai tử
 
-**Chỉ mục:** 33
+(Điều 33 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000020000007000000000000000003300000000000000000
+1. Trong thời hạn 15 ngày kể từ ngày có người chết thì vợ, chồng hoặc con, cha, mẹ hoặc người thân thích khác của người chết có trách nhiệm đi đăng ký khai tử; trường hợp người chết không có người thân thích thì đại diện của cơ quan, tổ chức, cá nhân liên quan có trách nhiệm đi khai tử.
 
-**ID:** dk_00021214
+2. Công chức tư pháp - hộ tịch thường xuyên kiểm tra, đôn đốc việc khai tử cho người chết; trường hợp không xác định được người có trách nhiệm đi khai tử thì công chức tư pháp - hộ tịch thực hiện đăng ký khai tử.
 
----
+(Điều này có nội dung liên quan đến Điều 8.4.LQ.3. Giải thích từ ngữ; Điều 15.3.LQ.48. Thẩm quyền ghi vào Sổ hộ tịch việc hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài; Điều 15.3.TT.2.17. Cải chính hộ tịch)
 
+Điều 15.3.LQ.34. Thủ tục đăng ký khai tử
 
-### Điều 15.3.LQ.34. Thủ tục đăng ký khai tử
+(Điều 34 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Người có trách nhiệm đi đăng ký khai tử nộp tờ khai theo mẫu quy định và Giấy báo tử hoặc giấy tờ khác thay giấy báo tử cho cơ quan đăng ký hộ tịch.
 
-**Chỉ mục:** 34
+2. Ngay sau khi nhận giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy việc khai tử đúng thì công chức tư pháp - hộ tịch ghi nội dung khai tử vào Sổ hộ tịch, cùng người đi khai tử ký tên vào Sổ hộ tịch và báo cáo Chủ tịch Ủy ban nhân dân cấp xã cấp trích lục cho người đi khai tử.
 
-**Mã phân cấp:** 150030000000000020000007000000000000000003400000000000000000
+Công chức tư pháp - hộ tịch khóa thông tin hộ tịch của người chết trong Cơ sở dữ liệu hộ tịch điện tử.
 
-**ID:** dk_00021215
+(Điều này có nội dung liên quan đến Điều 14. Các trường hợp đăng ký khai sinh, khai tử, kết hôn lưu động; Điều 15. Thủ tục đăng ký khai sinh, khai tử lưu động; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 23. Cách ghi Trích lục khai tử, Sổ đăng ký khai tử của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.NĐ.1.2. Quy định về xuất trình, nộp giấy tờ khi đăng ký hộ tịch, cấp bản sao trích lục hộ tịch; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
----
+Chương III
 
+ĐĂNG KÝ HỘ TỊCH TẠI ỦY BAN NHÂN DÂN CẤP HUYỆN
 
-### Điều 15.3.LQ.35. Thẩm quyền đăng ký khai sinh
+Mục 1
 
-*Nội dung chưa có sẵn*
+ĐĂNG KÝ KHAI SINH
 
-**Chỉ mục:** 35
+(Mục này có nội dung liên quan đến Điều 15.6.NĐ.1.22. Ghi quốc tịch Việt Nam của trẻ em khi sinh ra có cha mẹ là người không quốc tịch của Nghị định 78/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam ban hành ngày 22/09/2009; Điều 15.6.LQ.16. Quốc tịch của trẻ em khi sinh ra có cha hoặc mẹ là công dân Việt Nam của )
 
-**Mã phân cấp:** 150030000000000030000001000000000000000003500000000000000000
+Điều 15.3.LQ.35. Thẩm quyền đăng ký khai sinh
 
-**ID:** dk_00021218
+(Điều 35 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
----
+Ủy ban nhân dân cấp huyện nơi cư trú của người cha hoặc người mẹ thực hiện đăng ký khai sinh cho trẻ em trong các trường hợp sau đây:
 
+1. Trẻ em được sinh ra tại Việt Nam:
 
-### Điều 15.3.LQ.36. Thủ tục đăng ký khai sinh
+a) Có cha hoặc mẹ là công dân Việt Nam còn người kia là người nước ngoài hoặc người không quốc tịch;
 
-*Nội dung chưa có sẵn*
+b) Có cha hoặc mẹ là công dân Việt Nam cư trú ở trong nước còn người kia là công dân Việt Nam định cư ở nước ngoài;
 
-**Chỉ mục:** 36
+c) Có cha và mẹ là công dân Việt Nam định cư ở nước ngoài;
 
-**Mã phân cấp:** 150030000000000030000001000000000000000003600000000000000000
+d) Có cha và mẹ là người nước ngoài hoặc người không quốc tịch;
 
-**ID:** dk_00021219
+2. Trẻ em được sinh ra ở nước ngoài chưa được đăng ký khai sinh về cư trú tại Việt Nam:
 
----
+a) Có cha và mẹ là công dân Việt Nam;
 
+b) Có cha hoặc mẹ là công dân Việt Nam.
 
-### Điều 15.3.LQ.37. Thẩm quyền đăng ký kết hôn
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 15.6.LQ.3. Giải thích từ ngữ; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
-*Nội dung chưa có sẵn*
+Điều 15.3.LQ.36. Thủ tục đăng ký khai sinh
 
-**Chỉ mục:** 37
+(Điều 36 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000002000000000000000003700000000000000000
+1. Người đi đăng ký khai sinh nộp giấy tờ theo quy định tại khoản 1 Điều 16 của Luật này cho cơ quan đăng ký hộ tịch. Trường hợp cha hoặc mẹ hoặc cả cha và mẹ là người nước ngoài thì phải nộp văn bản thỏa thuận của cha, mẹ về việc chọn quốc tịch cho con.
 
-**ID:** dk_00021221
+Trường hợp cha, mẹ chọn quốc tịch nước ngoài cho con thì văn bản thỏa thuận phải có xác nhận của cơ quan nhà nước có thẩm quyền của nước ngoài mà người đó là công dân.
 
----
+2. Ngay sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy thông tin khai sinh đầy đủ và phù hợp, công chức làm công tác hộ tịch ghi nội dung khai sinh theo quy định tại Điều 14 của Luật này vào Sổ hộ tịch; trường hợp trẻ em có quốc tịch nước ngoài thì không ghi nội dung quy định tại điểm c khoản 1 Điều 14 của Luật này.
 
+Công chức làm công tác hộ tịch, người đi đăng ký khai sinh cùng ký tên vào Sổ hộ tịch. Phòng Tư pháp báo cáo Chủ tịch Ủy ban nhân dân cấp huyện cấp Giấy khai sinh cho người được đăng ký khai sinh.
 
-### Điều 15.3.LQ.38. Thủ tục đăng ký kết hôn
+3. Chính phủ quy định thủ tục đăng ký khai sinh đối với các trường hợp quy định tại khoản 2 Điều 35 của Luật này.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 2. &#160;Thẩm quyền và thủ tục cấp, cấp lại Giấy chứng sinh của Thông tư 17/2012/TT-BYT Quy định cấp và sử dụng Giấy chứng sinh ban hành ngày 24/10/2012; Điều 1. Sửa đổi, bổ sung Điều 2 Thông tư số 17/2012/TT-BYT ngày 24 tháng 10 năm 2012 của Bộ trưởng Bộ Y tế quy định cấp và sử dụng Giấy chứng sinh của Thông tư 34/2015/TT-BYT Sửa đổi, bổ sung Điều 2 Thông tư số 17/2012/TT-BYT ngày 24 tháng 10 năm 2012 của Bộ trưởng Bộ Y tế quy định cấp và sử dụng giấy chứng sinh ban hành ngày 27/10/2015; Điều 15.3.TT.1.12. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 15.3.TT.1.21. Cách ghi Giấy khai sinh, Sổ đăng ký khai sinh của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.6.LQ.16. Quốc tịch của trẻ em khi sinh ra có cha hoặc mẹ là công dân Việt Nam; Điều 15.3.LQ.14. Nội dung đăng ký khai sinh; Điều 15.3.LQ.16. Thủ tục đăng ký khai sinh; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.9. Giấy tờ nộp và xuất trình khi đăng ký khai sinh; Điều 15.3.NĐ.1.17. Đăng ký khai sinh; Điều 15.3.NĐ.1.29. Đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài về cư trú tại Việt Nam; Điều 15.3.TT.2.15. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con)
 
-**Chỉ mục:** 38
+Mục 2
 
-**Mã phân cấp:** 150030000000000030000002000000000000000003800000000000000000
+ĐĂNG KÝ KẾT HÔN
 
-**ID:** dk_00021222
+Điều 15.3.LQ.37. Thẩm quyền đăng ký kết hôn
 
----
+(Điều 37 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+1. Ủy ban nhân dân cấp huyện nơi cư trú của công dân Việt Nam thực hiện đăng ký kết hôn giữa công dân Việt Nam với người nước ngoài; giữa công dân Việt Nam cư trú ở trong nước với công dân Việt Nam định cư ở nước ngoài; giữa công dân Việt Nam định cư ở nước ngoài với nhau; giữa công dân Việt Nam đồng thời có quốc tịch nước ngoài với công dân Việt Nam hoặc với người nước ngoài.
 
-### Điều 15.3.LQ.39. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ
+2. Trường hợp người nước ngoài cư trú tại Việt Nam có yêu cầu đăng ký kết hôn tại Việt Nam thì Ủy ban nhân dân cấp huyện nơi cư trú của một trong hai bên thực hiện đăng ký kết hôn.
+
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 15.6.LQ.3. Giải thích từ ngữ; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 15.3.TT.2.11. Việc đăng ký kết hôn có yếu tố nước ngoài)
+
+Điều 15.3.LQ.38. Thủ tục đăng ký kết hôn
+
+(Điều 38 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+1. Hai bên nam, nữ nộp tờ khai theo mẫu quy định và giấy xác nhận của tổ chức y tế có thẩm quyền của Việt Nam hoặc nước ngoài xác nhận người đó không mắc bệnh tâm thần hoặc bệnh khác mà không có khả năng nhận thức, làm chủ được hành vi của mình cho cơ quan đăng ký hộ tịch.
+
+Người nước ngoài, công dân Việt Nam định cư ở nước ngoài phải nộp thêm giấy tờ chứng minh tình trạng hôn nhân, bản sao hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu.
+
+2. Trong thời hạn 15 ngày kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, công chức làm công tác hộ tịch có trách nhiệm xác minh, nếu thấy đủ điều kiện kết hôn theo quy định của pháp luật thì Phòng Tư pháp báo cáo Chủ tịch Ủy ban nhân dân cấp huyện giải quyết.
+
+3. Khi đăng ký kết hôn cả hai bên nam, nữ phải có mặt tại trụ sở Ủy ban nhân dân, công chức làm công tác hộ tịch hỏi ý kiến hai bên nam, nữ, nếu các bên tự nguyện kết hôn thì ghi việc kết hôn vào Sổ hộ tịch, cùng hai bên nam, nữ ký tên vào Sổ hộ tịch. Hai bên nam, nữ cùng ký vào Giấy chứng nhận kết hôn.
+
+Chủ tịch Ủy ban nhân dân cấp huyện trao Giấy chứng nhận kết hôn cho hai bên nam, nữ.
+
+4. Chính phủ quy định bổ sung giấy tờ trong hồ sơ đăng ký kết hôn, việc phỏng vấn, xác minh mục đích kết hôn khi giải quyết yêu cầu đăng ký kết hôn; thủ tục cấp giấy xác nhận tình trạng hôn nhân cho công dân Việt Nam để kết hôn với người nước ngoài tại cơ quan có thẩm quyền của nước ngoài ở nước ngoài nhằm bảo đảm quyền, lợi ích hợp pháp của các bên.
+
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.2. Ủy quyền đăng ký hộ tịch; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 15.3.TT.1.22. Cách ghi Giấy chứng nhận kết hôn, Sổ đăng ký kết hôn của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8.4.LQ.8. Điều kiện kết hôn; Điều 15.3.LQ.10. Hợp pháp hóa lãnh sự đối với giấy tờ của nước ngoài; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.10. Giấy tờ nộp và xuất trình khi đăng ký kết hôn; Điều 15.3.NĐ.1.23. Giá trị sử dụng của Giấy xác nhận tình trạng hôn nhân; Điều 15.3.NĐ.1.31. Trình tự đăng ký kết hôn; Điều 15.3.NĐ.1.32. Tổ chức trao Giấy chứng nhận kết hôn; Điều 15.3.TT.2.11. Việc đăng ký kết hôn có yếu tố nước ngoài)
+
+Mục 3
+
+ĐĂNG KÝ GIÁM HỘ
 
 Điều 15.3.LQ.39. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ
 
-**Chỉ mục:** 39
+(Điều 39 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000003000000000000000003900000000000000000
+Ủy ban nhân dân cấp huyện nơi cư trú của người được giám hộ hoặc người giám hộ thực hiện đăng ký giám hộ giữa công dân Việt Nam và người nước ngoài cùng cư trú tại Việt Nam.
 
-**ID:** dk_00021224
+Ủy ban nhân dân cấp huyện nơi đã đăng ký giám hộ thực hiện đăng ký chấm dứt giám hộ.
 
----
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
+Điều 15.3.LQ.40. Thủ tục đăng ký giám hộ cử
 
-### Điều 15.3.LQ.40. Thủ tục đăng ký giám hộ cử
+(Điều 40 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Người yêu cầu đăng ký giám hộ nộp tờ khai theo mẫu quy định và văn bản cử người giám hộ theo quy định của Bộ luật dân sự cho cơ quan đăng ký hộ tịch.
 
-**Chỉ mục:** 40
+2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, công chức làm công tác hộ tịch xác minh, nếu thấy đủ điều kiện theo quy định pháp luật thì ghi vào Sổ hộ tịch và cùng người đi đăng ký giám hộ ký vào Sổ hộ tịch. Phòng Tư pháp báo cáo Chủ tịch Ủy ban nhân dân cấp huyện cấp trích lục cho người yêu cầu.
 
-**Mã phân cấp:** 150030000000000030000003000000000000000004000000000000000000
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Mục 4 GIÁM HỘ; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
-**ID:** dk_00021225
+Điều 15.3.LQ.41. Đăng ký giám hộ đương nhiên
 
----
+(Điều 41 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+Thủ tục đăng ký giám hộ đương nhiên giữa công dân Việt Nam và người nước ngoài cùng cư trú ở Việt Nam được áp dụng theo quy định tại Điều 21 của Luật này.
 
-### Điều 15.3.LQ.41. Đăng ký giám hộ đương nhiên
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 41
-
-**Mã phân cấp:** 150030000000000030000003000000000000000004100000000000000000
-
-**ID:** dk_00021226
-
----
-
-
-### Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ
+(Điều này có nội dung liên quan đến Điều 8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.21. Đăng ký giám hộ đương nhiên; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
 Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ
 
-**Chỉ mục:** 42
+(Điều 42 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000003000000000000000004200000000000000000
+Thủ tục đăng ký chấm dứt, thay đổi giám hộ giữa công dân Việt Nam và người nước ngoài được áp dụng theo quy định tại Điều 22 và Điều 23 của Luật này.
 
-**ID:** dk_00021227
+(Điều này có nội dung liên quan đến Điều 8. Đăng ký giám hộ, chấm dứt giám hộ, thay đổi giám hộ của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.20. Thủ tục đăng ký giám hộ cử; Điều 15.3.LQ.21. Đăng ký giám hộ đương nhiên; Điều 15.3.LQ.22. Đăng ký chấm dứt giám hộ; Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
----
+Mục 4
 
-
-### Điều 15.3.LQ.43. Thẩm quyền đăng ký nhận cha, mẹ, con
+ĐĂNG KÝ NHẬN CHA, MẸ, CON
 
 Điều 15.3.LQ.43. Thẩm quyền đăng ký nhận cha, mẹ, con
 
-**Chỉ mục:** 43
+(Điều 43 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000004000000000000000004300000000000000000
+Ủy ban nhân dân cấp huyện nơi cư trú của người được nhận là cha, mẹ, con thực hiện đăng ký nhận cha, mẹ, con giữa công dân Việt Nam với người nước ngoài; giữa công dân Việt Nam cư trú ở trong nước với công dân Việt Nam định cư ở nước ngoài; giữa công dân Việt Nam định cư ở nước ngoài với nhau; giữa công dân Việt Nam đồng thời có quốc tịch nước ngoài với công dân Việt Nam hoặc với người nước ngoài; giữa người nước ngoài với nhau mà một hoặc cả hai bên thường trú tại Việt Nam.
 
-**ID:** dk_00021229
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
----
+Điều 15.3.LQ.44. Thủ tục đăng ký nhận cha, mẹ, con
 
+(Điều 44 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 15.3.LQ.44. Thủ tục đăng ký nhận cha, mẹ, con
+1. Người yêu cầu đăng ký nhận cha, mẹ, con nộp tờ khai theo mẫu quy định và giấy tờ, đồ vật hoặc các chứng cứ khác để chứng minh quan hệ cha con hoặc mẹ con cho cơ quan đăng ký hộ tịch. Trường hợp đăng ký nhận cha, mẹ, con giữa công dân Việt Nam với người nước ngoài hoặc giữa người nước ngoài với nhau thì người nước ngoài phải nộp thêm bản sao hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu để chứng minh về nhân thân.
 
-*Nội dung chưa có sẵn*
+2. Trong thời hạn 15 ngày kể từ ngày nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, công chức làm công tác hộ tịch xác minh, niêm yết việc nhận cha, mẹ, con tại trụ sở Ủy ban nhân dân cấp huyện trong thời gian 07 ngày liên tục, đồng thời gửi văn bản đề nghị Ủy ban nhân dân cấp xã nơi thường trú của người được nhận là cha, mẹ, con niêm yết trong thời gian 07 ngày liên tục tại trụ sở Ủy ban nhân dân cấp xã.
 
-**Chỉ mục:** 44
+3. Phòng Tư pháp báo cáo và đề xuất Chủ tịch Ủy ban nhân dân cấp huyện quyết định việc đăng ký nhận cha, mẹ, con, nếu thấy đủ điều kiện thì Chủ tịch Ủy ban nhân dân cấp huyện giải quyết.
 
-**Mã phân cấp:** 150030000000000030000004000000000000000004400000000000000000
+4. Khi đăng ký nhận cha, mẹ, con các bên phải có mặt; công chức làm công tác hộ tịch ghi vào Sổ hộ tịch, cùng các bên ký vào Sổ hộ tịch. Chủ tịch Ủy ban nhân dân cấp huyện cấp trích lục cho các bên.
 
-**ID:** dk_00021230
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.2. Ủy quyền đăng ký hộ tịch; Điều 15.3.TT.1.11. Chứng cứ chứng minh quan hệ cha, mẹ, con; Điều 15.3.TT.1.12. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con; Điều 15.3.TT.1.13. Hướng dẫn đăng ký nhận cha, mẹ, con, bổ sung hộ tịch trong một số trường hợp đặc biệt; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.19. Đăng ký nhận cha, mẹ, con; Điều 15.3.TT.2.14. Chứng cứ chứng minh quan hệ cha, mẹ, con; Điều 15.3.TT.2.15. Kết hợp giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con)
 
----
+Mục 5
 
+ĐĂNG KÝ THAY ĐỔI, CẢI CHÍNH, BỔ SUNG HỘ TỊCH, XÁC ĐỊNH LẠI DÂN TỘC
 
-### Điều 15.3.LQ.45. Phạm vi thay đổi hộ tịch
+Điều 15.3.LQ.45. Phạm vi thay đổi hộ tịch
 
-*Nội dung chưa có sẵn*
+(Điều 45 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 45
+Phạm vi thay đổi hộ tịch theo quy định tại Điều 26 của Luật này.
 
-**Mã phân cấp:** 150030000000000030000005000000000000000004500000000000000000
-
-**ID:** dk_00021232
-
----
-
-
-### Điều 15.3.LQ.46. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.26. Phạm vi thay đổi hộ tịch; Điều 15.5.NĐ.1.10. Thủ tục đăng ký việc nuôi con nuôi; Điều 15.3.NĐ.1.7. Điều kiện thay đổi, cải chính hộ tịch)
 
 Điều 15.3.LQ.46. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000005000000000000000004600000000000000000
+1. Ủy ban nhân dân cấp huyện nơi đã đăng ký hộ tịch trước đây hoặc nơi cư trú của người nước ngoài có thẩm quyền giải quyết việc cải chính, bổ sung hộ tịch đối với người nước ngoài đã đăng ký hộ tịch tại cơ quan có thẩm quyền của Việt Nam.
 
-**ID:** dk_00021233
+2. Ủy ban nhân dân cấp huyện nơi người Việt Nam định cư ở nước ngoài đã đăng ký hộ tịch trước đây có thẩm quyền giải quyết việc thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc.
 
----
+3. Ủy ban nhân dân cấp huyện nơi đã đăng ký hộ tịch trước đây hoặc nơi cư trú của cá nhân có thẩm quyền giải quyết việc thay đổi, cải chính hộ tịch cho công dân Việt Nam từ đủ 14 tuổi trở lên cư trú ở trong nước; xác định lại dân tộc.
 
-
-### Điều 15.3.LQ.47. Thủ tục đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 15.6.LQ.3. Giải thích từ ngữ; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 37.5.LQ.269. Cấp trích lục bản án; giao, gửi bản án; Điều 15.3.TT.2.19. Thay đổi, bổ sung thông tin hộ tịch của con nuôi)
 
 Điều 15.3.LQ.47. Thủ tục đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000005000000000000000004700000000000000000
+1. Thủ tục đăng ký thay đổi, cải chính hộ tịch được áp dụng theo quy định tại Điều 28 của Luật này.
 
-**ID:** dk_00021234
+Trường hợp yêu cầu xác định lại dân tộc thì phải có giấy tờ làm căn cứ chứng minh theo quy định của pháp luật; trình tự được thực hiện theo quy định tại Điều 28 của Luật này.
 
----
+2. Thủ tục yêu cầu bổ sung thông tin hộ tịch được áp dụng theo quy định tại Điều 29 của Luật này.
 
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.13. Hướng dẫn đăng ký nhận cha, mẹ, con, bổ sung hộ tịch trong một số trường hợp đặc biệt; Điều 15.3.TT.1.19. Nguyên tắc ghi sổ, giấy tờ hộ tịch; Điều 15.3.TT.1.24. Cách ghi Trích lục thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 10. Đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.3.LQ.28. Thủ tục đăng ký thay đổi, cải chính hộ tịch; Điều 15.3.LQ.29. Thủ tục bổ sung hộ tịch; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.7. Điều kiện thay đổi, cải chính hộ tịch)
 
-### Điều 15.3.LQ.48. Thẩm quyền ghi vào Sổ hộ tịch việc hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài
+Mục 6
+
+GHI VÀO SỔ HỘ TỊCH VIỆC HỘ TỊCH CỦA CÔNG DÂN VIỆT NAM ĐÃ ĐƯỢC GIẢI QUYẾT TẠI CƠ QUAN CÓ THẨM QUYỀN CỦA NƯỚC NGOÀI
+
+(Mục này có nội dung liên quan đến Điều 15.6.NĐ.1.24. Ghi quốc tịch trong các giấy tờ về hộ tịch đối với công dân Việt Nam đồng thời có quốc tịch nước ngoài; Điều 15.6.NĐ.1.24. Ghi quốc tịch trong các giấy tờ về hộ tịch đối với công dân Việt Nam đồng thời có quốc tịch nước ngoài của Nghị định 78/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam ban hành ngày 22/09/2009; Điều 15.6.TL.1.15. Ghi chú vào Sổ đăng ký khai sinh việc thông báo có quốc tịch nước ngoài; Điều 15.6.TL.1.15. Ghi chú vào Sổ đăng ký khai sinh việc thông báo có quốc tịch nước ngoài của Thông tư liên tịch 05/2010/TTLT/BTP-BNG-BCA Hướng dẫn thi hành Nghị định số 78/2009/NĐ-CP ngày 22 tháng 9 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam ban hành ngày 01/03/2010)
 
 Điều 15.3.LQ.48. Thẩm quyền ghi vào Sổ hộ tịch việc hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài
 
-**Chỉ mục:** 48
+(Điều 48 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000006000000000000000004800000000000000000
+1. Ủy ban nhân dân cấp huyện nơi cư trú của công dân Việt Nam ghi vào Sổ hộ tịch việc khai sinh; kết hôn; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; thay đổi hộ tịch đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài.
 
-**ID:** dk_00021236
+2. Ủy ban nhân dân cấp huyện nơi cá nhân đã đăng ký kết hôn hoặc ghi chú việc kết hôn trước đây ghi vào Sổ hộ tịch việc ly hôn, hủy việc kết hôn của cá nhân đã thực hiện ở nước ngoài.
 
----
+3. Ủy ban nhân dân cấp huyện nơi cư trú của người có trách nhiệm khai tử theo quy định tại khoản 1 Điều 33 của Luật này ghi vào Sổ hộ tịch việc khai tử đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài.
 
-
-### Điều 15.3.LQ.49. Thủ tục ghi vào Sổ hộ tịch việc khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; thay đổi hộ tịch; khai tử
+(Điều này có nội dung liên quan đến Điều 7. Ghi vào Sổ hộ tịch việc khai sinh đã được đăng ký ở nước ngoài của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch; Điều 15.3.LQ.33. Thời hạn và trách nhiệm đăng ký khai tử; Điều 15.5.NĐ.1.30. Ghi vào Sổ đăng ký nuôi con nuôi việc nuôi con nuôi đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài; Điều 15.3.NĐ.1.35. Trình tự, thủ tục ghi chú kết hôn; Điều 15.3.NĐ.1.38. Thẩm quyền ghi chú ly hôn; Điều 15.5.TL.2.15. Tiếp nhận lại, bố trí việc chăm sóc, nuôi dưỡng trẻ em được cho làm con nuôi nước ngoài phải quay trở lại Việt Nam)
 
 Điều 15.3.LQ.49. Thủ tục ghi vào Sổ hộ tịch việc khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; thay đổi hộ tịch; khai tử
 
-**Chỉ mục:** 49
+(Điều 49 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000006000000000000000004900000000000000000
+1. Người yêu cầu ghi vào Sổ hộ tịch việc khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; thay đổi hộ tịch; khai tử nộp tờ khai theo mẫu quy định và bản sao có chứng thực giấy tờ chứng minh các việc này đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài cho cơ quan đăng ký hộ tịch.
 
-**ID:** dk_00021237
+2. Sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, công chức làm công tác hộ tịch kiểm tra, nếu thấy yêu cầu là phù hợp thì ghi vào Sổ hộ tịch. Phòng Tư pháp báo cáo Chủ tịch Ủy ban nhân dân cấp huyện cấp trích lục cho người yêu cầu.
 
----
+Trong trường hợp phải xác minh thì thời hạn giải quyết không quá 03 ngày làm việc.
 
-
-### Điều 15.3.LQ.50. Thủ tục ghi vào Sổ hộ tịch việc kết hôn, ly hôn, hủy việc kết hôn
+(Điều này có nội dung liên quan đến Điều 7. Ghi vào Sổ hộ tịch việc khai sinh đã được đăng ký ở nước ngoài; Điều 19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.TL.2.14. Ghi vào Sổ hộ tịch việc khai sinh của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 15.5.NĐ.1.30. Ghi vào Sổ đăng ký nuôi con nuôi việc nuôi con nuôi đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
 Điều 15.3.LQ.50. Thủ tục ghi vào Sổ hộ tịch việc kết hôn, ly hôn, hủy việc kết hôn
 
-**Chỉ mục:** 50
+(Điều 50 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000030000006000000000000000005000000000000000000
+1. Người yêu cầu ghi vào Sổ hộ tịch việc kết hôn, ly hôn, hủy việc kết hôn nộp tờ khai theo mẫu quy định và bản sao có chứng thực giấy tờ chứng minh các việc này đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài cho cơ quan đăng ký hộ tịch.
 
-**ID:** dk_00021238
+2. Trong thời hạn 12 ngày kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định tại khoản 1 Điều này và đủ điều kiện theo quy định của pháp luật, công chức làm công tác hộ tịch ghi vào Sổ hộ tịch. Phòng Tư pháp báo cáo Chủ tịch Ủy ban nhân dân cấp huyện cấp trích lục cho người yêu cầu.
 
----
+3. Chính phủ quy định chi tiết về trình tự, thủ tục và thời gian phối hợp giữa các cơ quan thực hiện Điều này.
 
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.7. Ghi vào Sổ hộ tịch việc khai sinh đã được đăng ký ở nước ngoài; Điều 19. Nguyên tắc ghi sổ, giấy tờ hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.34. Điều kiện ghi vào Sổ hộ tịch việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài ở nước ngoài; Điều 15.3.NĐ.1.35. Trình tự, thủ tục ghi chú kết hôn; Điều 15.3.NĐ.1.36. Từ chối ghi vào sổ việc kết hôn; Điều 15.3.NĐ.1.39. Thủ tục ghi chú ly hôn)
 
-### Điều 15.3.LQ.51. Thẩm quyền đăng ký khai tử
+Mục 7
 
-*Nội dung chưa có sẵn*
+ĐĂNG KÝ KHAI TỬ
 
-**Chỉ mục:** 51
+Điều 15.3.LQ.51. Thẩm quyền đăng ký khai tử
 
-**Mã phân cấp:** 150030000000000030000007000000000000000005100000000000000000
+(Điều 51 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**ID:** dk_00021240
+1. Ủy ban nhân dân cấp huyện nơi cư trú cuối cùng của người chết thực hiện việc đăng ký khai tử cho người nước ngoài hoặc công dân Việt Nam định cư ở nước ngoài chết tại Việt Nam.
 
----
+2. Trường hợp không xác định được nơi cư trú cuối cùng của người chết theo quy định tại khoản 1 Điều này thì Ủy ban nhân dân cấp huyện nơi người đó chết hoặc nơi phát hiện thi thể người chết thực hiện việc đăng ký khai tử.
 
+(Điều này có nội dung liên quan đến Điều 12. Nơi cư trú của công dân của Luật 81/2006/QH11 Cư trú ban hành ngày 29/11/2006; Điều 8.4.LQ.20. Lựa chọn nơi cư trú của vợ chồng; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
-### Điều 15.3.LQ.52. Thủ tục đăng ký khai tử
+Điều 15.3.LQ.52. Thủ tục đăng ký khai tử
 
-*Nội dung chưa có sẵn*
+(Điều 52 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 52
+1. Người đi đăng ký khai tử nộp tờ khai theo mẫu quy định và Giấy báo tử hoặc giấy tờ khác thay giấy báo tử cho cơ quan đăng ký hộ tịch.
 
-**Mã phân cấp:** 150030000000000030000007000000000000000005200000000000000000
+2. Ngay sau khi nhận đủ giấy tờ theo quy định tại khoản 1 Điều này, nếu thấy việc khai tử đúng thì công chức làm công tác hộ tịch ghi vào Sổ hộ tịch và cùng người đi khai tử ký vào Sổ hộ tịch. Phòng Tư pháp báo cáo Chủ tịch Ủy ban nhân dân cấp huyện cấp trích lục hộ tịch cho người đi khai tử.
 
-**ID:** dk_00021241
+Trường hợp cần xác minh thì thời hạn giải quyết không quá 03 ngày làm việc.
 
----
+3. Sau khi đăng ký khai tử, Ủy ban nhân dân cấp huyện phải thông báo bằng văn bản kèm theo trích lục hộ tịch cho Bộ Ngoại giao để thông báo cho cơ quan có thẩm quyền của nước mà người chết là công dân.
 
+Trường hợp người chết là công dân Việt Nam định cư ở nước ngoài thì công chức làm công tác hộ tịch khóa thông tin của người chết trong Cơ sở dữ liệu hộ tịch điện tử.
 
-### Điều 15.3.LQ.53. Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài
+(Điều này có nội dung liên quan đến Điều 23. Cách ghi Trích lục khai tử, Sổ đăng ký khai tử của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.NĐ.1.2. Quy định về xuất trình, nộp giấy tờ khi đăng ký hộ tịch, cấp bản sao trích lục hộ tịch; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch; Điều 15.3.NĐ.1.4. Xác định nội dung đăng ký khai sinh, khai tử)
+
+Chương IV
+
+ĐĂNG KÝ HỘ TỊCH TẠI CƠ QUAN ĐẠI DIỆN
+
+(Chương này có nội dung liên quan đến Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự của Luật 33/2009/QH12 Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ban hành ngày 18/06/2009)
 
 Điều 15.3.LQ.53. Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài
 
-**Chỉ mục:** 53
+(Điều 53 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000400005300000000000000000
+1. Cơ quan đại diện thực hiện đăng ký các việc hộ tịch theo quy định tại Điều 3 của Luật này cho công dân Việt Nam cư trú ở nước ngoài, nếu việc đăng ký đó không trái pháp luật của nước tiếp nhận và điều ước quốc tế mà Việt Nam là thành viên.
 
-**ID:** dk_00021243
+2. Căn cứ quy định của Luật này, Bộ Ngoại giao phối hợp với Bộ Tư pháp hướng dẫn về thẩm quyền, thủ tục đăng ký hộ tịch, việc cấp bản sao trích lục hộ tịch cho công dân Việt Nam cư trú ở nước ngoài tại Cơ quan đại diện.
 
----
-
-
-### Điều 15.3.TT.4.4. Việc nộp hồ sơ, tiếp nhận hồ sơ và trả kết quả đăng ký hộ tịch
+(Điều này có nội dung liên quan đến Điều 2. Ủy quyền đăng ký hộ tịch của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 1. Phạm vi Điều chỉnh của Thông tư liên tịch 02/2016/TTLT-BNG-BTP Hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ban hành ngày 30/06/2016; Điều 23.1.LQ.2. Cơ quan đại diện; Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch; Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch)
 
 Điều 15.3.TT.4.4. Việc nộp hồ sơ, tiếp nhận hồ sơ và trả kết quả đăng ký hộ tịch
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 07/2023/TT-BNG, có hiệu lực thi hành kể từ ngày 15/02/2024, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 07/2025/TT-BNG có hiệu lực thi hành kể từ ngày 13/07/2025)
 
-**Mã phân cấp:** 150030000000000040000530000000000000000000802860700070000400
+Việc nộp, tiếp nhận hồ sơ và trả kết quả đăng ký hộ tịch tại Cơ quan đại diện được thực hiện theo quy định tại Điều 3 Nghị định số 123/2015/NĐ-CP, Điều 12 Nghị định số 87/2020/NĐ-CP, các Điều 2, 3, 4, 5 của Thông tư số 04/2020/TT-BTP ngày 28/5/2020 của Bộ Tư pháp quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15/11/2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch (sau đây gọi là Thông tư số 04/2020/TT-BTP) và hướng dẫn sau đây:
 
-**ID:** dk_00021244
+1. Hồ sơ đăng ký hộ tịch có thể được nộp trực tiếp hoặc qua đường bưu điện hoặc gửi qua hệ thống đăng ký hộ tịch trực tuyến.
 
----
+2. Người yêu cầu đăng ký hộ tịch, cấp bản sao trích lục hộ tịch xuất trình bản chính một trong các giấy tờ là hộ chiếu, chứng minh nhân dân, thẻ căn cước công dân, thẻ căn cước, căn cước điện tử, giấy chứng nhận căn cước hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng (sau đây gọi là giấy tờ tùy thân) để chứng minh về nhân thân; giấy tờ chứng minh đang cư trú tại nước sở tại (nếu có). Cơ quan đại diện kiểm tra, chụp và xác nhận bản chụp đã đối chiếu đúng với bản chính để lưu hồ sơ. Trường hợp nộp hồ sơ qua hệ thống bưu chính thì nộp bản sao đã được chứng thực hợp lệ các giấy tờ nêu trên.
 
+Trường hợp người yêu cầu là công dân Việt Nam đã được cấp số định danh cá nhân thì có thể xuất trình bản chính thẻ căn cước hoặc căn cước điện tử (nếu nộp trực tiếp) hoặc nộp bản chụp giấy tờ này (nếu nộp qua hệ thống bưu chính hoặc gửi qua hệ thống đăng ký hộ tịch trực tuyến) để chứng minh nhân thân khi cơ sở hạ tầng kỹ thuật cho phép Cơ quan đại diện kết nối với Cơ sở dữ liệu quốc gia về dân cư.
 
-### Điều 15.3.TT.4.6. Thẩm quyền đăng ký khai sinh
+3. Cơ quan đại diện tiếp nhận, giải quyết yêu cầu đăng ký hộ tịch trực tuyến phù hợp với mức độ triển khai dịch vụ công trực tuyến và việc sử dụng đồng bộ Phần mềm đăng ký, quản lý hộ tịch điện tử dùng chung tại Cơ quan đại diện. Trường hợp chưa tiếp nhận giải quyết đăng ký hộ tịch trực tuyến thì thông báo trên cổng thông tin điện tử của cơ quan mình hoặc có văn bản thông báo cho người yêu cầu và nêu rõ lý do; văn bản thông báo có thể gửi qua thư điện tử nếu người yêu cầu có địa chỉ thư điện tử.
 
-*Nội dung chưa có sẵn*
+4. Giấy tờ do cơ quan có thẩm quyền của nước sở tại cấp sử dụng để đăng ký hộ tịch tại Cơ quan đại diện không phải hợp pháp hóa lãnh sự. Trường hợp có nghi ngờ về tính xác thực của giấy tờ, Cơ quan đại diện yêu cầu giấy tờ phải được chứng nhận lãnh sự của cơ quan có thẩm quyền.
 
-**Chỉ mục:** 6
+Giấy tờ do cơ quan có thẩm quyền của nước thứ ba cấp sử dụng để đăng ký hộ tịch tại Cơ quan đại diện phải được hợp pháp hóa theo quy định.
 
-**Mã phân cấp:** 150030000000000040000530000000000000000000802860700070000600
+Giấy tờ bằng tiếng nước ngoài trong hồ sơ đăng ký hộ tịch phải được dịch sang tiếng Việt hoặc tiếng Anh và công chứng bản dịch hoặc chứng thực chữ ký người dịch theo quy định của pháp luật.
 
-**ID:** dk_00021245
+5. Khi trả kết quả đăng ký hộ tịch, nếu người yêu cầu nhận kết quả trực tiếp, người trả có trách nhiệm hướng dẫn người yêu cầu đăng ký hộ tịch kiểm tra nội dung giấy tờ hộ tịch và Sổ hộ tịch. Nếu người yêu cầu thấy nội dung đúng, phù hợp với hồ sơ đăng ký hộ tịch thì ký, ghi rõ họ tên trong Sổ hộ tịch; trường hợp nhận kết quả qua đường bưu điện hoặc nhận bản điện tử qua hệ thống dịch vụ công trực tuyến thì không yêu cầu phải ký Sổ hộ tịch, trừ trường hợp quy định tại khoản 6 Điều này.
 
----
+6. Đối với các việc hộ tịch sau, người yêu cầu đăng ký hộ tịch phải có mặt tại Cơ quan đại diện để ký vào Sổ hộ tịch và nhận kết quả: khai sinh; kết hôn; giám hộ; nhận cha, mẹ, con; thay đổi, cải chính hộ tịch, xác định lại dân tộc, bổ sung thông tin hộ tịch; khai tử.
 
+Đối với các việc hộ tịch khác, người yêu cầu đăng ký hộ tịch được lựa chọn nhận kết quả theo một trong các phương thức quy định tại khoản 4 Điều 12 Nghị định số 87/2020/NĐ-CP.
 
-### Điều 15.3.LQ.54. Công chức làm công tác hộ tịch tại Cơ quan đại diện
+Trường hợp muốn nhận kết quả qua đường bưu điện, người nộp hồ sơ phải chuẩn bị sẵn bì thư ghi địa chỉ, tem hoặc cước phí gửi bảo đảm trở lại.
+
+Điều 15.3.TT.4.6. Thẩm quyền đăng ký khai sinh
+
+(Điều 6 Thông tư số 07/2023/TT-BNG, có hiệu lực thi hành kể từ ngày 15/02/2024, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 07/2025/TT-BNG có hiệu lực thi hành kể từ ngày 13/07/2025)
+
+Cơ quan đại diện ở khu vực lãnh sự nơi cha hoặc mẹ của trẻ em cư trú hoặc nơi trẻ em sinh ra thực hiện việc đăng ký khai sinh cho trẻ em sinh ra tại nước ngoài, chưa được đăng ký khai sinh tại cơ quan có thẩm quyền nước ngoài và thuộc một trong các trường hợp sau:
+
+1. Có cha và mẹ là công dân Việt Nam;
+
+2. Có cha hoặc mẹ là công dân Việt Nam, còn người kia là người không quốc tịch;
+
+3. Có mẹ là công dân Việt Nam còn cha không rõ là ai;
+
+4. Có cha hoặc mẹ là công dân Việt Nam, người kia là công dân nước ngoài, cha và mẹ có văn bản thỏa thuận lựa chọn quốc tịch Việt Nam cho con khi đăng ký khai sinh.”
+
+4. Sửa đổi, bổ sung khoản 1 Điều 29 như sau:
+
+“1. Ngay sau khi nhận được yêu cầu cấp bản sao trích lục hộ tịch, nếu thấy đủ điều kiện, Cơ quan đại diện cấp bản sao trích lục hộ tịch cho người yêu cầu; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả trong ngày làm việc tiếp theo.”
+
+5. Sửa đổi khoản 3 Điều 37 như sau:
+
+“Đối với việc đăng ký khai tử, sau khi hoàn tất thủ tục và cấp trích lục khai tử, Cơ quan đại diện khóa thông tin hộ tịch của người chết trong Cơ sở dữ liệu hộ tịch điện tử theo quy định tại khoản 2 Điều 34 Luật Hộ tịch.
 
 Điều 15.3.LQ.54. Công chức làm công tác hộ tịch tại Cơ quan đại diện
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000400005400000000000000000
+1. Cơ quan đại diện cử viên chức ngoại giao, lãnh sự thực hiện đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài.
 
-**ID:** dk_00021246
+2. Viên chức ngoại giao, lãnh sự làm công tác hộ tịch ngoài điều kiện, tiêu chuẩn của viên chức ngoại giao, lãnh sự phải được bồi dưỡng nghiệp vụ hộ tịch trước khi thực hiện nhiệm vụ đăng ký hộ tịch.
 
----
+Điều 15.3.LQ.55. Lập Sổ hộ tịch tại Bộ Ngoại giao
 
+(Điều 55 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 15.3.LQ.55. Lập Sổ hộ tịch tại Bộ Ngoại giao
+Bộ Ngoại giao lập Sổ hộ tịch để ghi chép, cập nhật đầy đủ, quản lý thống nhất thông tin hộ tịch của công dân Việt Nam cư trú ở nước ngoài đã đăng ký tại Cơ quan đại diện và làm căn cứ cấp bản sao trích lục hộ tịch.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 55
-
-**Mã phân cấp:** 1500300000000000400005500000000000000000
-
-**ID:** dk_00021247
-
----
-
-
-### Điều 15.3.LQ.56. Trách nhiệm báo cáo của Cơ quan đại diện
+(Điều này có nội dung liên quan đến Điều 27. Mở, khóa Sổ hộ tịch tại Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện; Điều 28. Lưu trữ, bảo quản Sổ hộ tịch tại Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện và Sở Tư pháp; Điều 29. Mở, khóa Sổ hộ tịch và lưu trữ Sổ hộ tịch tại Cơ quan đại diện của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015)
 
 Điều 15.3.LQ.56. Trách nhiệm báo cáo của Cơ quan đại diện
 
-**Chỉ mục:** 56
+(Điều 56 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000400005600000000000000000
+Sau khi đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài, Cơ quan đại diện có trách nhiệm báo cáo bằng văn bản kèm bản sao trích lục hộ tịch về Bộ Ngoại giao để ghi vào Sổ hộ tịch và cập nhật vào Cơ sở dữ liệu hộ tịch điện tử.
 
-**ID:** dk_00021248
+Chương V
 
----
+CƠ SỞ DỮ LIỆU HỘ TỊCH, CẤP TRÍCH LỤC HỘ TỊCH
 
+Mục 1
 
-### Điều 15.3.LQ.57. Cơ sở dữ liệu hộ tịch
+CƠ SỞ DỮ LIỆU HỘ TỊCH
 
-*Nội dung chưa có sẵn*
+Điều 15.3.LQ.57. Cơ sở dữ liệu hộ tịch
 
-**Chỉ mục:** 57
+(Điều 57 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000050000001000000000000000005700000000000000000
+1. Cơ sở dữ liệu hộ tịch là tài sản quốc gia, lưu giữ toàn bộ thông tin hộ tịch của mọi cá nhân, làm cơ sở để bảo vệ quyền, lợi ích hợp pháp của cá nhân, phục vụ yêu cầu tra cứu thông tin, quản lý, hoạch định chính sách phát triển kinh tế - xã hội của đất nước.
 
-**ID:** dk_00021251
+2. Cơ sở dữ liệu hộ tịch bao gồm Sổ hộ tịch và Cơ sở dữ liệu hộ tịch điện tử là căn cứ để cấp bản sao trích lục hộ tịch.
 
----
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 39.15.LQ.10. Thu thập, cập nhật, điều chỉnh, quản lý, kết nối, chia sẻ, khai thác thông tin trong Cơ sở dữ liệu quốc gia về dân cư)
 
+Điều 15.3.LQ.58. Sổ hộ tịch
 
-### Điều 15.3.LQ.58. Sổ hộ tịch
+(Điều 58 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Sổ hộ tịch là căn cứ pháp lý để lập, cập nhật, điều chỉnh thông tin hộ tịch của cá nhân trong Cơ sở dữ liệu hộ tịch điện tử.
 
-**Chỉ mục:** 58
+Mỗi loại việc hộ tịch phải được ghi vào 01 quyển sổ, các trang phải đóng dấu giáp lai; Sổ hộ tịch được lưu giữ vĩnh viễn theo quy định của pháp luật.
 
-**Mã phân cấp:** 150030000000000050000001000000000000000005800000000000000000
+2. Việc khóa Sổ hộ tịch được thực hiện vào ngày cuối cùng của năm. Khi khóa Sổ hộ tịch phải ghi rõ tổng số trang và tổng số sự kiện hộ tịch đã đăng ký; người đứng đầu cơ quan đăng ký hộ tịch ký, đóng dấu.
 
-**ID:** dk_00021252
+Giấy tờ, đồ vật hoặc chứng cứ khác đã nộp khi đăng ký hộ tịch phải được lưu trữ, bảo quản theo quy định của pháp luật về lưu trữ.
 
----
+3. Cơ quan đăng ký hộ tịch có trách nhiệm lưu trữ, bảo quản Sổ hộ tịch, giấy tờ, đồ vật hoặc chứng cứ khác liên quan đến đăng ký hộ tịch.
 
+(Điều này có nội dung liên quan đến Điều 15.3.TT.1.28. Lưu trữ, bảo quản Sổ hộ tịch tại Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện và Sở Tư pháp; Điều 15.3.TT.1.29. Mở, khóa Sổ hộ tịch và lưu trữ Sổ hộ tịch tại Cơ quan đại diện của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.NĐ.1.12. Lưu trữ Sổ hộ tịch)
 
-### Điều 15.3.LQ.59. Cơ sở dữ liệu hộ tịch điện tử
+Điều 15.3.LQ.59. Cơ sở dữ liệu hộ tịch điện tử
 
-*Nội dung chưa có sẵn*
+(Điều 59 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 59
+1. Cơ sở dữ liệu hộ tịch điện tử được lập để lưu giữ, cập nhật, quản lý, tra cứu thông tin hộ tịch, phục vụ yêu cầu đăng ký hộ tịch trực tuyến; được kết nối để cung cấp, trao đổi thông tin hộ tịch cơ bản của cá nhân cho Cơ sở dữ liệu quốc gia về dân cư.
 
-**Mã phân cấp:** 150030000000000050000001000000000000000005900000000000000000
+2. Chính phủ quy định sự phối hợp giữa các bộ, cơ quan ngang bộ và trách nhiệm của Ủy ban nhân dân các cấp trong việc quản lý, sử dụng Cơ sở dữ liệu hộ tịch điện tử; thủ tục, trình tự đăng ký hộ tịch trực tuyến; việc kết nối, cung cấp, trao đổi thông tin giữa Cơ sở dữ liệu hộ tịch điện tử và Cơ sở dữ liệu quốc gia về dân cư.
 
-**ID:** dk_00021253
-
----
-
-
-### Điều 15.3.LQ.60. Cập nhật, điều chỉnh thông tin hộ tịch cá nhân trong Cơ sở dữ liệu hộ tịch điện tử
+(Điều này có nội dung liên quan đến Điều 4. Nguồn thông tin, yêu cầu, thứ tự thu thập, cập nhật thông tin về công dân vào Cơ sở dữ liệu quốc gia về dân cư của Nghị định 137/2015/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước công dân ban hành ngày 31/12/2015; Điều 39.15.LQ.10. Thu thập, cập nhật, điều chỉnh, quản lý, kết nối, chia sẻ, khai thác thông tin trong Cơ sở dữ liệu quốc gia về dân cư)
 
 Điều 15.3.LQ.60. Cập nhật, điều chỉnh thông tin hộ tịch cá nhân trong Cơ sở dữ liệu hộ tịch điện tử
 
-**Chỉ mục:** 60
+(Điều 60 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000050000001000000000000000006000000000000000000
+1. Các sự kiện hộ tịch của cá nhân ngay sau khi đăng ký vào Sổ hộ tịch đều phải được cập nhật kịp thời, đầy đủ, chính xác vào Cơ sở dữ liệu hộ tịch điện tử. Cơ quan đăng ký hộ tịch chịu trách nhiệm về mọi thông tin hộ tịch được cập nhật trong Cơ sở dữ liệu hộ tịch điện tử.
 
-**ID:** dk_00021254
+2. Trường hợp thông tin trong Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư khác với thông tin trong Sổ hộ tịch thì phải điều chỉnh cho phù hợp với Sổ hộ tịch.
 
----
-
-
-### Điều 15.3.LQ.61. Nguyên tắc quản lý, khai thác Cơ sở dữ liệu hộ tịch
+(Điều này có nội dung liên quan đến Điều 11. Mối quan hệ giữa Cơ sở dữ liệu quốc gia về dân cư với các cơ sở dữ liệu chuyên ngành của Luật 59/2014/QH13 Căn cước công dân ban hành ngày 20/11/2014; Điều 5. Trách nhiệm thu thập, cập nhật thông tin về công dân của Nghị định 137/2015/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước công dân ban hành ngày 31/12/2015; Điều 39.15.LQ.10. Thu thập, cập nhật, điều chỉnh, quản lý, kết nối, chia sẻ, khai thác thông tin trong Cơ sở dữ liệu quốc gia về dân cư)
 
 Điều 15.3.LQ.61. Nguyên tắc quản lý, khai thác Cơ sở dữ liệu hộ tịch
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000050000001000000000000000006100000000000000000
+1. Cơ sở dữ liệu hộ tịch được quản lý, bảo mật, bảo đảm an toàn; chỉ những cơ quan, tổ chức, cá nhân có thẩm quyền mới được tiếp cận và khai thác theo quy định của pháp luật.
 
-**ID:** dk_00021255
+2. Cơ quan quản lý Cơ sở dữ liệu hộ tịch có trách nhiệm bảo đảm bí mật cá nhân trong Cơ sở dữ liệu hộ tịch.
 
----
+Mục 2
 
-
-### Điều 15.3.LQ.62. Cấp bản chính trích lục hộ tịch khi đăng ký hộ tịch
+CẤP TRÍCH LỤC HỘ TỊCH
 
 Điều 15.3.LQ.62. Cấp bản chính trích lục hộ tịch khi đăng ký hộ tịch
 
-**Chỉ mục:** 62
+(Điều 62 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000050000002000000000000000006200000000000000000
+1. Khi đăng ký hộ tịch, cơ quan đăng ký hộ tịch cấp 01 bản chính trích lục hộ tịch cho người yêu cầu đăng ký hộ tịch, trừ việc đăng ký khai sinh, đăng ký kết hôn.
 
-**ID:** dk_00021257
+2. Bản chính trích lục hộ tịch được chứng thực bản sao.
 
----
-
-
-### Điều 15.3.LQ.63. Cấp bản sao trích lục hộ tịch về sự kiện hộ tịch đã đăng ký
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.4. Giải thích từ ngữ)
 
 Điều 15.3.LQ.63. Cấp bản sao trích lục hộ tịch về sự kiện hộ tịch đã đăng ký
 
-**Chỉ mục:** 63
+(Điều 63 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000050000002000000000000000006300000000000000000
+Cá nhân không phụ thuộc vào nơi cư trú có quyền yêu cầu Cơ quan quản lý Cơ sở dữ liệu hộ tịch cấp bản sao trích lục hộ tịch về sự kiện hộ tịch của mình đã được đăng ký.
 
-**ID:** dk_00021258
-
----
-
-
-### Điều 15.3.LQ.64. Thủ tục cấp bản sao trích lục hộ tịch
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
 Điều 15.3.LQ.64. Thủ tục cấp bản sao trích lục hộ tịch
 
-**Chỉ mục:** 64
+(Điều 64 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000050000002000000000000000006400000000000000000
+1. Người yêu cầu cấp bản sao trích lục hộ tịch trực tiếp hoặc thông qua người đại diện gửi tờ khai theo mẫu quy định cho Cơ quan quản lý Cơ sở dữ liệu hộ tịch.
 
-**ID:** dk_00021259
+Trường hợp cơ quan, tổ chức có thẩm quyền đề nghị cấp bản sao trích lục hộ tịch của cá nhân thì gửi văn bản yêu cầu nêu rõ lý do cho Cơ quan quản lý Cơ sở dữ liệu hộ tịch.
 
----
+2. Ngay sau khi nhận được yêu cầu, nếu đủ điều kiện thì Cơ quan quản lý Cơ sở dữ liệu hộ tịch cấp bản sao trích lục hộ tịch cho người yêu cầu.
 
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.4. Giải thích từ ngữ; Điều 15.3.NĐ.1.3. Cách thức nộp, tiếp nhận hồ sơ đăng ký hộ tịch, tiến hành xác minh khi giải quyết hồ sơ đăng ký hộ tịch)
 
-### Điều 15.3.LQ.65. Trách nhiệm của Chính phủ
+Chương VI
 
-*Nội dung chưa có sẵn*
+TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HỘ TỊCH, CÔNG CHỨC LÀM CÔNG TÁC HỘ TỊCH
 
-**Chỉ mục:** 65
+Mục 1
 
-**Mã phân cấp:** 150030000000000060000001000000000000000006500000000000000000
+TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HỘ TỊCH
 
-**ID:** dk_00021262
+Điều 15.3.LQ.65. Trách nhiệm của Chính phủ
 
----
+(Điều 65 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
+1. Chính phủ thống nhất quản lý nhà nước về hộ tịch. Bộ Tư pháp giúp Chính phủ thực hiện quản lý nhà nước về hộ tịch.
 
-### Điều 15.3.LQ.66. Trách nhiệm của Bộ Tư pháp
+2. Nội dung quản lý nhà nước về hộ tịch bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Ban hành hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về đăng ký và quản lý hộ tịch; tổ chức triển khai thực hiện pháp luật về hộ tịch;
 
-**Chỉ mục:** 66
+b) Ứng dụng công nghệ thông tin trong đăng ký và quản lý hộ tịch; xây dựng và quản lý Cơ sở dữ liệu hộ tịch điện tử;
 
-**Mã phân cấp:** 150030000000000060000001000000000000000006600000000000000000
+c) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về đăng ký và quản lý hộ tịch;
 
-**ID:** dk_00021263
+d) Thống kê hộ tịch;
 
----
+đ) Hợp tác quốc tế về hộ tịch.
 
+(Điều này có nội dung liên quan đến Điều 35.6.LQ.23. Nhiệm vụ và quyền hạn của Chính phủ trong quản lý về tổ chức bộ máy hành chính nhà nước, chế độ công vụ, cán bộ, công chức, viên chức và công tác thi đua, khen thưởng)
 
-### Điều 15.3.LQ.67. Trách nhiệm của Bộ Ngoại giao
+Điều 15.3.LQ.66. Trách nhiệm của Bộ Tư pháp
 
-*Nội dung chưa có sẵn*
+(Điều 66 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 67
+Bộ Tư pháp thực hiện quản lý nhà nước về hộ tịch và có nhiệm vụ, quyền hạn sau đây:
 
-**Mã phân cấp:** 150030000000000060000001000000000000000006700000000000000000
+1. Quy định, hướng dẫn, chỉ đạo, bồi dưỡng nghiệp vụ về đăng ký, quản lý hộ tịch cho công chức làm công tác hộ tịch ở trong nước;
 
-**ID:** dk_00021264
+2. Ban hành, hướng dẫn sử dụng, quản lý Sổ hộ tịch, Giấy khai sinh, Giấy chứng nhận kết hôn, trích lục hộ tịch và các biểu mẫu hộ tịch khác; quy định cụ thể điều kiện, trình tự đăng ký khai sinh, kết hôn, khai tử lưu động;
 
----
+3. Xây dựng và quản lý thống nhất Cơ sở dữ liệu hộ tịch điện tử; hướng dẫn, chỉ đạo địa phương trong việc quản lý, sử dụng phần mềm đăng ký và quản lý hộ tịch, Cơ sở dữ liệu hộ tịch điện tử, cung cấp thông tin hộ tịch cơ bản của cá nhân cho Cơ sở dữ liệu quốc gia về dân cư;
 
+4. Hằng năm tổng hợp tình hình, phân tích, đánh giá, thống kê hộ tịch báo cáo Chính phủ.
 
-### Điều 15.3.LQ.68. Trách nhiệm của Bộ Công an
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 35.6.LQ.39. Bộ, cơ quan ngang bộ)
 
-*Nội dung chưa có sẵn*
+Điều 15.3.LQ.67. Trách nhiệm của Bộ Ngoại giao
 
-**Chỉ mục:** 68
+(Điều 67 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000060000001000000000000000006800000000000000000
+1. Bộ Ngoại giao phối hợp với Bộ Tư pháp thực hiện quản lý nhà nước về hộ tịch tại Cơ quan đại diện và có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00021265
+a) Quy định, hướng dẫn, chỉ đạo, kiểm tra, thanh tra công tác đăng ký và quản lý hộ tịch tại các Cơ quan đại diện;
 
----
+b) Tổ chức việc bồi dưỡng nghiệp vụ hộ tịch cho viên chức ngoại giao, lãnh sự;
 
+c) Lập Sổ hộ tịch để quản lý thông tin hộ tịch của công dân Việt Nam đã đăng ký tại Cơ quan đại diện;
 
-### Điều 15.3.LQ.69. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
+d) Cập nhật, khai thác Cơ sở dữ liệu hộ tịch điện tử và cấp bản sao trích lục hộ tịch theo quy định;
+
+đ) Tổng hợp tình hình và thống kê hộ tịch của Cơ quan đại diện gửi Bộ Tư pháp theo quy định của Chính phủ.
+
+2. Cơ quan đại diện thực hiện quản lý nhà nước về hộ tịch của công dân Việt Nam cư trú ở nước ngoài và có nhiệm vụ, quyền hạn sau đây:
+
+a) Thực hiện việc đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài theo quy định của pháp luật về hộ tịch, pháp luật về lãnh sự và điều ước quốc tế liên quan;
+
+b) Bố trí viên chức ngoại giao, lãnh sự thực hiện nhiệm vụ đăng ký và quản lý hộ tịch tại Cơ quan đại diện;
+
+c) Quản lý, sử dụng Sổ hộ tịch và biểu mẫu hộ tịch theo quy định;
+
+d) Quản lý, cập nhật và khai thác Cơ sở dữ liệu hộ tịch điện tử và cấp bản sao trích lục hộ tịch theo quy định;
+
+đ) Báo cáo Bộ Ngoại giao nội dung đăng ký hộ tịch để cập nhật vào Cơ sở dữ liệu hộ tịch;
+
+e) Tổng hợp tình hình và thống kê hộ tịch báo cáo Bộ Ngoại giao theo quy định;
+
+g) Lưu giữ giấy tờ, đồ vật và chứng cứ khác liên quan đến đăng ký hộ tịch;
+
+h) Giải quyết khiếu nại, tố cáo và xử lý vi phạm về hộ tịch theo thẩm quyền.
+
+Viên chức ngoại giao, lãnh sự làm công tác hộ tịch có trách nhiệm giúp Cơ quan đại diện thực hiện nhiệm vụ, quyền hạn theo quy định tại các điểm a, c, d, đ, e và g khoản 2 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự; Điều 35.6.LQ.39. Bộ, cơ quan ngang bộ; Điều 8.4.NĐ.2.59. Nhiệm vụ, quyền hạn của Bộ Ngoại giao; Điều 8.4.NĐ.2.60. Nhiệm vụ, quyền hạn của Cơ quan đại diện; Điều 35.6.NĐ.11.2. Nhiệm vụ và quyền hạn)
+
+Điều 15.3.LQ.68. Trách nhiệm của Bộ Công an
+
+(Điều 68 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+Bộ Công an chủ trì, phối hợp với Bộ Tư pháp, Bộ Ngoại giao và các bộ, ngành liên quan thực hiện nhiệm vụ, quyền hạn sau đây:
+
+1. Bảo đảm kết nối Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu hộ tịch điện tử theo quy định của pháp luật;
+
+2. Bảo đảm an ninh, an toàn thông tin trong Cơ sở dữ liệu hộ tịch điện tử;
+
+3. Thực hiện các nhiệm vụ khác liên quan đến công tác hộ tịch.
+
+(Điều này có nội dung liên quan đến Điều 35.6.LQ.39. Bộ, cơ quan ngang bộ; Điều 8.4.NĐ.2.61. Nhiệm vụ, quyền hạn của Bộ Công an)
 
 Điều 15.3.LQ.69. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
 
-**Chỉ mục:** 69
+(Điều 69 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000060000001000000000000000006900000000000000000
+1. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) thực hiện quản lý nhà nước về hộ tịch tại địa phương và có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00021266
+a) Hướng dẫn, chỉ đạo việc tổ chức thực hiện công tác đăng ký và quản lý hộ tịch;
 
----
+b) Tổ chức tuyên truyền, phổ biến pháp luật về hộ tịch;
 
+c) Căn cứ quy định của Chính phủ, quyết định việc bố trí công chức làm công tác hộ tịch ở cấp huyện, cấp xã; bảo đảm cơ sở vật chất để phục vụ hoạt động đăng ký và quản lý hộ tịch;
 
-### Điều 15.3.LQ.70. Trách nhiệm của Ủy ban nhân dân cấp huyện
+d) Quản lý, cập nhật, khai thác Cơ sở dữ liệu hộ tịch điện tử theo quy định;
+
+đ) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về hộ tịch theo thẩm quyền;
+
+e) Thu hồi, hủy bỏ giấy tờ hộ tịch do Ủy ban nhân dân cấp huyện cấp trái quy định của Luật này, trừ trường hợp kết hôn trái pháp luật;
+
+g) Định kỳ tổ chức việc bồi dưỡng nghiệp vụ hộ tịch cho công chức làm công tác hộ tịch;
+
+h) Tổng hợp tình hình và thống kê hộ tịch báo cáo Bộ Tư pháp theo quy định.
+
+2. Sở Tư pháp giúp Ủy ban nhân dân cấp tỉnh thực hiện nhiệm vụ, quyền hạn quy định tại các điểm a, b, d, đ, g và h khoản 1 Điều này.
+
+3. Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm về công tác đăng ký, quản lý hộ tịch và những vi phạm trong công tác đăng ký, quản lý hộ tịch do buông lỏng quản lý.
+
+(Điều này có nội dung liên quan đến Điều 21. Thủ tục nộp, tiếp nhận hồ sơ; Điều 22. Thời hạn giải quyết việc đăng ký kết hôn của Nghị định 126/2014/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình ban hành ngày 31/12/2014; Điều 8.4.NĐ.2.63. Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp tỉnh)
 
 Điều 15.3.LQ.70. Trách nhiệm của Ủy ban nhân dân cấp huyện
 
-**Chỉ mục:** 70
+(Điều 70 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000060000001000000000000000007000000000000000000
+1. Ủy ban nhân dân cấp huyện thực hiện quản lý nhà nước về hộ tịch tại địa phương và có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00021267
+a) Thực hiện đăng ký hộ tịch theo quy định của Luật này;
 
----
+b) Chỉ đạo, kiểm tra việc đăng ký và quản lý hộ tịch tại Ủy ban nhân dân cấp xã;
 
+c) Tổ chức tuyên truyền, phổ biến các quy định của pháp luật về hộ tịch;
 
-### Điều 15.3.LQ.71. Trách nhiệm của Ủy ban nhân dân cấp xã
+d) Quản lý, sử dụng Sổ hộ tịch, biểu mẫu hộ tịch theo quy định;
+
+đ) Căn cứ quy định của Ủy ban nhân dân cấp tỉnh, bố trí công chức làm công tác hộ tịch;
+
+e) Quản lý, cập nhật, khai thác Cơ sở dữ liệu hộ tịch điện tử và cấp bản sao trích lục hộ tịch theo quy định;
+
+g) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về hộ tịch theo thẩm quyền;
+
+h) Thu hồi, hủy bỏ giấy tờ hộ tịch do Ủy ban nhân dân cấp xã cấp trái quy định của Luật này, trừ trường hợp kết hôn trái pháp luật;
+
+i) Tổng hợp tình hình và thống kê hộ tịch báo cáo Ủy ban nhân dân cấp tỉnh theo quy định của Chính phủ;
+
+k) Lưu trữ Sổ hộ tịch, hồ sơ đăng ký hộ tịch.
+
+2. Phòng Tư pháp giúp Ủy ban nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn quy định tại các điểm a, b, c, d, e, g, i và k khoản 1 Điều này.
+
+3. Đối với đơn vị hành chính cấp huyện không có đơn vị hành chính cấp xã thì ngoài việc thực hiện nhiệm vụ, quyền hạn về đăng ký và quản lý hộ tịch của Ủy ban nhân dân cấp huyện, còn thực hiện nhiệm vụ, quyền hạn đăng ký và quản lý hộ tịch của Ủy ban nhân dân cấp xã theo quy định tại Điều 71 của Luật này.
+
+4. Chủ tịch Ủy ban nhân dân cấp huyện chịu trách nhiệm về công tác đăng ký, quản lý hộ tịch và những vi phạm trong công tác đăng ký, quản lý hộ tịch do buông lỏng quản lý.
+
+(Điều này có nội dung liên quan đến Điều 21. Nhiệm vụ, quyền hạn của Ủy ban nhân dân tỉnh; Điều 22. Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân tỉnh của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015; Điều 15.3.NĐ.1.43. Trách nhiệm thi hành; Điều 15.3.TL.1.18. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh; Điều 15.3.TL.1.21. Trách nhiệm thi hành)
 
 Điều 15.3.LQ.71. Trách nhiệm của Ủy ban nhân dân cấp xã
 
-**Chỉ mục:** 71
+(Điều 71 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000060000001000000000000000007100000000000000000
+1. Ủy ban nhân dân cấp xã thực hiện quản lý nhà nước về hộ tịch tại địa phương và có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00021268
+a) Thực hiện đăng ký hộ tịch theo quy định của Luật này;
 
----
+b) Căn cứ quy định của Ủy ban nhân dân cấp trên, bố trí công chức tư pháp - hộ tịch thực hiện việc đăng ký hộ tịch;
 
+c) Tuyên truyền, phổ biến pháp luật về hộ tịch;
 
-### Điều 15.3.LQ.72. Công chức làm công tác hộ tịch
+d) Quản lý, sử dụng Sổ hộ tịch, biểu mẫu hộ tịch theo quy định;
 
-*Nội dung chưa có sẵn*
+đ) Quản lý, cập nhật, khai thác Cơ sở dữ liệu hộ tịch điện tử và cấp bản sao trích lục hộ tịch theo quy định;
 
-**Chỉ mục:** 72
+e) Tổng hợp tình hình và thống kê hộ tịch báo cáo Ủy ban nhân dân cấp huyện theo quy định của Chính phủ;
 
-**Mã phân cấp:** 150030000000000060000002000000000000000007200000000000000000
+g) Lưu trữ Sổ hộ tịch, hồ sơ đăng ký hộ tịch;
 
-**ID:** dk_00021270
+h) Giải quyết khiếu nại, tố cáo và xử lý vi phạm về hộ tịch theo thẩm quyền.
 
----
+2. Chủ tịch Ủy ban nhân dân cấp xã thường xuyên chỉ đạo, đôn đốc việc khai sinh, khai tử; chịu trách nhiệm về công tác đăng ký, quản lý hộ tịch và những vi phạm trong công tác đăng ký, quản lý hộ tịch do buông lỏng quản lý.
 
+Công chức tư pháp - hộ tịch giúp Ủy ban nhân dân cấp xã thực hiện nhiệm vụ, quyền hạn quy định tại các điểm a, c, d, đ, e và g khoản 1 Điều này.
 
-### Điều 15.3.LQ.73. Nhiệm vụ, quyền hạn của công chức làm công tác hộ tịch
+(Điều này có nội dung liên quan đến Điều 35. Nhiệm vụ, quyền hạn của Ủy ban nhân dân xã; Điều 36. Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân xã; Điều 63. Nhiệm vụ, quyền hạn của Ủy ban nhân dân phường; Điều 64. Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân phường; Điều 70. Nhiệm vụ, quyền hạn của Ủy ban nhân dân thị trấn; Điều 71. Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân thị trấn của Luật 77/2015/QH13 Tổ chức chính quyền địa phương ban hành ngày 19/06/2015)
+
+Mục 2
+
+CÔNG CHỨC LÀM CÔNG TÁC HỘ TỊCH
+
+Điều 15.3.LQ.72. Công chức làm công tác hộ tịch
+
+(Điều 72 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
+
+1. Công chức làm công tác hộ tịch bao gồm công chức tư pháp - hộ tịch ở cấp xã; công chức làm công tác hộ tịch ở Phòng Tư pháp thuộc Ủy ban nhân dân cấp huyện; viên chức ngoại giao, lãnh sự làm công tác hộ tịch tại Cơ quan đại diện.
+
+2. Công chức tư pháp - hộ tịch cấp xã phải có các tiêu chuẩn sau đây:
+
+a) Có trình độ từ trung cấp luật trở lên và đã được bồi dưỡng nghiệp vụ hộ tịch;
+
+b) Có chữ viết rõ ràng và trình độ tin học phù hợp theo yêu cầu công việc.
+
+Căn cứ điều kiện thực tế về diện tích, dân số, khối lượng công việc tư pháp, hộ tịch của địa phương, Chính phủ quy định việc bố trí công chức tư pháp - hộ tịch đảm nhiệm công tác hộ tịch chuyên trách.
+
+3. Công chức làm công tác hộ tịch tại Phòng Tư pháp phải có trình độ cử nhân luật trở lên và đã được bồi dưỡng nghiệp vụ hộ tịch.
+
+4. Viên chức ngoại giao, lãnh sự làm công tác hộ tịch tại Cơ quan đại diện đã được bồi dưỡng nghiệp vụ hộ tịch.
+
+(Điều này có nội dung liên quan đến Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự)
 
 Điều 15.3.LQ.73. Nhiệm vụ, quyền hạn của công chức làm công tác hộ tịch
 
-**Chỉ mục:** 73
+(Điều 73 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000060000002000000000000000007300000000000000000
+1. Trong lĩnh vực hộ tịch, công chức tư pháp - hộ tịch cấp xã có nhiệm vụ, quyền hạn sau đây:
 
-**ID:** dk_00021271
+a) Tuân thủ quy định của Luật này và các quy định khác của pháp luật có liên quan về hộ tịch;
 
----
+b) Chịu trách nhiệm trước Ủy ban nhân dân cấp xã và pháp luật về việc đăng ký hộ tịch;
 
+c) Tuyên truyền, phổ biến, vận động nhân dân chấp hành các quy định của pháp luật về hộ tịch;
 
-### Điều 15.3.LQ.74. Những việc công chức làm công tác hộ tịch không được làm
+d) Giúp Ủy ban nhân dân cấp xã đăng ký hộ tịch kịp thời, chính xác, khách quan, trung thực; cập nhật đầy đủ các sự kiện hộ tịch đã được đăng ký vào Cơ sở dữ liệu hộ tịch điện tử;
+
+đ) Chủ động kiểm tra, rà soát để đăng ký kịp thời việc sinh, tử phát sinh trên địa bàn.
+
+Đối với địa bàn dân cư không tập trung, điều kiện đi lại khó khăn, cách xa trụ sở Ủy ban nhân dân cấp xã, công chức tư pháp - hộ tịch báo cáo Ủy ban nhân dân cấp xã cho tổ chức đăng ký lưu động đối với việc khai sinh, kết hôn, khai tử;
+
+e) Thường xuyên trau dồi kiến thức pháp luật để nâng cao năng lực và nghiệp vụ đăng ký hộ tịch; tham gia các lớp bồi dưỡng chuyên môn nghiệp vụ do Ủy ban nhân dân hoặc cơ quan tư pháp cấp trên tổ chức;
+
+g) Chủ động báo cáo, đề xuất Ủy ban nhân dân cùng cấp phối hợp với cơ quan, tổ chức kiểm tra, xác minh về thông tin hộ tịch; yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin để xác minh khi đăng ký hộ tịch; phối hợp với cơ quan Công an cùng cấp cung cấp thông tin hộ tịch cơ bản của cá nhân cho Cơ sở dữ liệu quốc gia về dân cư.
+
+2. Quy định tại khoản 1 Điều này cũng được áp dụng đối với công chức làm công tác hộ tịch của Phòng Tư pháp, viên chức ngoại giao, lãnh sự làm công tác hộ tịch tại Cơ quan đại diện theo nhiệm vụ, quyền hạn của mình.
+
+(Điều này có nội dung liên quan đến Điều 23.1.LQ.8. Thực hiện nhiệm vụ lãnh sự)
 
 Điều 15.3.LQ.74. Những việc công chức làm công tác hộ tịch không được làm
 
-**Chỉ mục:** 74
+(Điều 74 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 150030000000000060000002000000000000000007400000000000000000
+1. Cửa quyền, hách dịch, sách nhiễu, trì hoãn, gây khó khăn, phiền hà, nhận hối lộ khi đăng ký, quản lý hộ tịch.
 
-**ID:** dk_00021272
+2. Thu lệ phí hộ tịch cao hơn mức quy định hoặc đặt ra các khoản thu khi đăng ký hộ tịch.
 
----
+3. Đặt ra thủ tục, giấy tờ, cố ý kéo dài thời hạn giải quyết đăng ký hộ tịch trái quy định của Luật này.
 
+4. Tẩy xóa, sửa chữa, làm sai lệch nội dung thông tin trong Cơ sở dữ liệu hộ tịch.
 
-### Điều 15.3.LQ.75. Giá trị của Sổ hộ tịch được lập, giấy tờ hộ tịch được cấp trước ngày Luật này có hiệu lực
+5. Đăng ký, cấp giấy tờ về hộ tịch trái quy định của Luật này.
+
+6. Tiết lộ thông tin liên quan đến bí mật cá nhân mà biết được qua đăng ký hộ tịch.
+
+7. Công chức làm công tác hộ tịch vi phạm các quy định tại Điều này thì tùy theo tính chất, mức độ vi phạm có thể bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+
+Chương VII
+
+ĐIỀU KHOẢN THI HÀNH
 
 Điều 15.3.LQ.75. Giá trị của Sổ hộ tịch được lập, giấy tờ hộ tịch được cấp trước ngày Luật này có hiệu lực
 
-**Chỉ mục:** 75
+(Điều 75 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000700007500000000000000000
+1. Sổ hộ tịch được lưu trữ trước ngày Luật này có hiệu lực vẫn có giá trị làm căn cứ chứng minh sự kiện hộ tịch của cá nhân, tra cứu, cấp bản sao trích lục hộ tịch, cấp giấy xác nhận tình trạng hôn nhân.
 
-**ID:** dk_00021274
+2. Giấy tờ hộ tịch đã cấp cho cá nhân theo quy định của pháp luật về hộ tịch trước ngày Luật này có hiệu lực vẫn có giá trị sử dụng.
 
----
+(Điều này có nội dung liên quan đến Điều 15.3.TT.2.18. Bổ sung thông tin hộ tịch)
 
+Điều 15.3.LQ.76. Điều khoản chuyển tiếp
 
-### Điều 15.3.LQ.76. Điều khoản chuyển tiếp
+(Điều 76 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-*Nội dung chưa có sẵn*
+1. Hồ sơ đăng ký hộ tịch được thụ lý trước ngày Luật này có hiệu lực mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định của pháp luật về hộ tịch tại thời điểm tiếp nhận.
 
-**Chỉ mục:** 76
+2. Chính phủ quy định chi tiết việc đăng ký lại khai sinh, khai tử, kết hôn đã được đăng ký trước ngày Luật này có hiệu lực.
 
-**Mã phân cấp:** 1500300000000000700007600000000000000000
+3. Chính phủ chỉ đạo việc rà soát, bồi dưỡng nghiệp vụ hộ tịch, kiện toàn đội ngũ công chức làm công tác hộ tịch bảo đảm thực hiện nhiệm vụ, quyền hạn được giao trong Luật; quy định thủ tục đăng ký khai sinh, kết hôn; cấp giấy xác nhận tình trạng hôn nhân cho công dân Việt Nam; chế độ lập, quản lý, sử dụng Sổ hộ tịch trong giai đoạn chuyển tiếp cho đến khi xây dựng xong Cơ sở dữ liệu quốc gia về dân cư, chậm nhất đến ngày 01 tháng 01 năm 2020 phải thực hiện thống nhất trên toàn quốc theo quy định của Luật này.
 
-**ID:** dk_00021275
+Điều 15.3.NĐ.2.24. Quy định chuyển tiếp
 
----
+(Điều 24 Nghị định số 87/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/09/2020)
 
+1. Các cơ quan đăng ký, quản lý hộ tịch ở địa phương sử dụng thống nhất Phần mềm đăng ký, quản lý hộ tịch điện tử dùng chung kể từ ngày Nghị định này có hiệu lực thi hành.
 
-### Điều 15.3.NĐ.2.24. Quy định chuyển tiếp
+2. Ủy ban nhân dân các cấp có trách nhiệm triển khai việc số hoá, quản lý, khai thác dữ liệu hộ tịch từ sổ giấy; chuyển đổi và chuẩn hóa dữ liệu từ các phần mềm đăng ký hộ tịch điện tử của địa phương đã triển khai thực hiện trước ngày Nghị định này có hiệu lực thi hành và cập nhật Cơ sở dữ liệu hộ tịch điện tử theo hướng dẫn của Bộ Tư pháp, bảo đảm hoàn thành trước ngày 01 tháng 01 năm 2025.
 
-*Nội dung chưa có sẵn*
+3. Việc khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử để đăng ký hộ tịch trực tuyến do Ủy ban nhân dân cấp tỉnh quyết định về phạm vi, mức độ và thời điểm triển khai tùy theo điều kiện cơ sở hạ tầng thông tin của địa phương.
 
-**Chỉ mục:** 24
+4. Bộ Tư pháp chủ trì, phối hợp với Bộ Ngoại giao nâng cấp, hiệu chỉnh Phần mềm đăng ký, quản lý hộ tịch dùng chung để thực hiện đồng bộ tại các Cơ quan đại diện và Bộ Ngoại giao.
 
-**Mã phân cấp:** 1500300000000000700007640273580087000240
+5. Bộ Ngoại giao thống nhất với Bộ Tư pháp về phạm vi, mức độ và thời điểm thực hiện Phần mềm đăng ký, quản lý hộ tịch dùng chung tùy theo điều kiện thực tế tại từng Cơ quan đại diện, bảo đảm hoàn thành trước ngày 01 tháng 01 năm 2022; triển khai việc số hóa, quản lý, khai thác dữ liệu hộ tịch từ sổ giấy, cập nhật Cơ sở dữ liệu hộ tịch điện tử theo hướng dẫn của Bộ Tư pháp, bảo đảm hoàn thành trước ngày 01 tháng 01 năm 2025.
 
-**ID:** dk_00021276
+6. Các Sổ hộ tịch đã mở trước ngày Nghị định này có hiệu lực thì vẫn được khóa sổ khi hết sổ, chứng thực bản sao và chuyển lưu theo quy định tại khoản 1, khoán 2 Điều 12 Nghị định số 123/2015/NĐ-CP.
 
----
+7. Sau khi Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư được đưa vào vận hành, sử dụng thống nhất trên toàn quốc, cơ quan thực hiện thủ tục hành chính có trách nhiệm kết nối với các Cơ sở dữ liệu này để xác định tình trạng hôn nhân của người có yêu cầu giải quyết thủ tục hành chính, không được yêu cầu nộp Giấy xác nhận tình trạng hôn nhân.
 
+Bộ Tư pháp phối hợp với Bộ Công an hướng dẫn thực hiện thống nhất quy định tại khoản này.
 
-### Điều 15.3.TT.2.38. Điều khoản chuyển tiếp
+Điều 15.3.TT.2.38. Điều khoản chuyển tiếp
 
-*Nội dung chưa có sẵn*
+(Điều 38 Thông tư số 04/2020/TT-BTP, có hiệu lực thi hành kể từ ngày 16/07/2020)
 
-**Chỉ mục:** 38
+1. Hồ sơ yêu cầu đăng ký hộ tịch do cơ quan đăng ký hộ tịch tiếp nhận trước ngày Thông tư này có hiệu lực mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định của Thông tư số 15/2015/TT-BTP ngày 16 tháng 11 năm 2015 của Bộ Tư pháp quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của C1hính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch (sau đây gọi là Thông tư số 15/2015/TT-BTP).
 
-**Mã phân cấp:** 1500300000000000700007680272970004000380
+2. Giấy khai sinh, Giấy chứng nhận kết hôn, Sổ hộ tịch theo mẫu ban hành kèm theo Thông tư số 15/2015/TT-BTP đang sử dụng tại các cơ quan đăng ký hộ tịch được tiếp tục sử dụng đến hết ngày 31 tháng 12 năm 2020.
 
-**ID:** dk_00021277
+Các trường hợp yêu cầu đăng ký hộ tịch khác tiếp nhận kể từ thời điểm Thông tư có hiệu lực thi hành được cấp giấy tờ hộ tịch theo mẫu ban hành kèm theo Thông tư này.
 
----
+Điều 15.3.TT.4.39. Điều khoản chuyển tiếp
 
+(Điều 39 Thông tư số 07/2023/TT-BNG, có hiệu lực thi hành kể từ ngày 15/02/2024)
 
-### Điều 15.3.TT.4.39. Điều khoản chuyển tiếp
+Hồ sơ đăng ký hộ tịch do Cơ quan đại diện tiếp nhận trước ngày Thông tư này có hiệu lực mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định tại Thông tư liên tịch số 02/2016/TTLT-BNG-BTP ngày 30 tháng 6 năm 2016 của Bộ Ngoại giao và Bộ Tư pháp hướng dẫn việc đăng ký và quản lý hộ tịch tại cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài.
 
-*Nội dung chưa có sẵn*
+Điều 15.3.LQ.77. Hiệu lực thi hành
 
-**Chỉ mục:** 39
+(Điều 77 Luật số 60/2014/QH13, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000700007680286070007000390
+1. Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016.
 
-**ID:** dk_00021278
+2. Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.
 
----
+Điều 15.3.NĐ.1.43. Trách nhiệm thi hành
 
+(Điều 43 Nghị định số 123/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-### Điều 15.3.LQ.77. Hiệu lực thi hành
+1. Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo thực hiện các nhiệm vụ theo quy định của Luật Hộ tịch và Nghị định này, thực hiện các biện pháp sau nhằm bảo đảm hiệu quả đăng ký và quản lý hộ tịch trên địa bàn:
 
-*Nội dung chưa có sẵn*
+a) Xây dựng kế hoạch, tổ chức đào tạo, bồi dưỡng, bố trí công chức làm công tác hộ tịch tại cấp huyện, cấp xã theo đúng quy định của Luật Hộ tịch và Nghị định này;
 
-**Chỉ mục:** 77
+b) Bố trí kinh phí, cơ sở vật chất đáp ứng yêu cầu của công tác đăng ký và quản lý hộ tịch tại địa phương;
 
-**Mã phân cấp:** 1500300000000000700007700000000000000000
+c) Tổ chức thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về hộ tịch theo thẩm quyền.
 
-**ID:** dk_00021279
+3. Chủ tịch Ủy ban nhân dân cấp huyện, cấp xã có trách nhiệm chỉ đạo thực hiện các nhiệm vụ theo quy định của Luật Hộ tịch và Nghị định này, thực hiện các biện pháp sau nhằm bảo đảm hiệu quả đăng ký và quản lý hộ tịch trên địa bàn:
 
----
+a) Chỉ đạo công chức làm công tác hộ tịch đăng ký đầy đủ, kịp thời, đúng quy định pháp luật các sự kiện hộ tịch xảy ra trên địa bàn; thực hiện thông báo việc đăng ký hộ tịch và cập nhật các sự kiện hộ tịch theo quy định của Luật Hộ tịch;
 
+b) Chỉ đạo các cơ quan, ban, ngành địa phương phối hợp chặt chẽ với công chức tư pháp - hộ tịch trong việc đôn đốc, rà soát các việc sinh, tử chưa được đăng ký trên địa bàn, có giải pháp tháo gỡ khó khăn, bảo đảm quyền đăng ký hộ tịch của người dân.
 
-### Điều 15.3.NĐ.1.43. Trách nhiệm thi hành
+c) Căn cứ tình hình thực tiễn, có kế hoạch bố trí nguồn lực, kinh phí và chỉ đạo công tác đăng ký hộ tịch lưu động tại địa phương theo hướng dẫn của Bộ Tư pháp.
 
-*Nội dung chưa có sẵn*
+3. Chủ tịch Ủy ban nhân dân các cấp chịu trách nhiệm về việc tuyển dụng, bố trí công chức làm công tác hộ tịch không đúng quy định của Luật Hộ tịch và Nghị định này.
 
-**Chỉ mục:** 43
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.70. Trách nhiệm của Ủy ban nhân dân cấp huyện; Điều 15.3.TL.1.18. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh; Điều 15.3.TL.1.19. Trách nhiệm của Ủy ban nhân dân cấp xã)
 
-**Mã phân cấp:** 1500300000000000700007740256410123000430
+Điều 15.3.NĐ.1.44. Điều khoản chuyển tiếp
 
-**ID:** dk_00021280
+(Điều 44 Nghị định số 123/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
----
+1. Hồ sơ yêu cầu đăng ký hộ tịch được cơ quan đăng ký hộ tịch tiếp nhận trước ngày 01 tháng 01 năm 2016 mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định của Nghị định số 158/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ về đăng ký và quản lý hộ tịch và Nghị định số 126/2014/NĐ-CP ngày 31 tháng 12 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình.
 
+2. Đối với trường hợp nam, nữ chung sống với nhau như vợ chồng trước ngày 03 tháng 01 năm 1987 mà chưa đăng ký kết hôn thì được khuyến khích và tạo điều kiện để đăng ký kết hôn. Quan hệ hôn nhân được công nhận kể từ ngày các bên xác lập quan hệ chung sống với nhau như vợ chồng. Thẩm quyền, thủ tục đăng ký kết hôn được thực hiện theo quy định tại Điều 17 và Điều 18 của Luật Hộ tịch.
 
-### Điều 15.3.NĐ.1.44. Điều khoản chuyển tiếp
+(Điều này có nội dung liên quan đến Điều 1. ; Điều 2. ; Điều 3. ; Điều 4. của Thông tư liên tịch 01/2001/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành Nghị quyết số 35/2000/QH10 ngày 9 tháng 6 năm 2000 của Quốc hội “Về việc thi hành Luật Hôn nhân và gia đình” ban hành ngày 03/01/2001; Điều 15.3.TT.1.22. Cách ghi Giấy chứng nhận kết hôn, Sổ đăng ký kết hôn của Thông tư 15/2015/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch ban hành ngày 16/11/2015; Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn; Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn; Điều 8.4.TL.1.5.)
 
-*Nội dung chưa có sẵn*
+Điều 15.3.NĐ.1.45. Hiệu lực thi hành
 
-**Chỉ mục:** 44
+(Điều 45 Nghị định số 123/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1500300000000000700007740256410123000440
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016.
 
-**ID:** dk_00021281
+2. Bãi bỏ các văn bản quy phạm pháp luật và các điều khoản sau đây:
 
----
+a) Nghị định số 77/2001/NĐ-CP ngày 22 tháng 10 năm 2001 của Chính phủ quy định chi tiết về đăng ký kết hôn theo Nghị quyết số 35/2000/QH10 của Quốc hội về việc thi hành Luật Hôn nhân và gia đình;
 
+b) Nghị định số 158/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ về đăng ký và quản lý hộ tịch;
 
-### Điều 15.3.NĐ.1.45. Hiệu lực thi hành
+c) Điều 1 và Điều 3 của Nghị định số 06/2012/NĐ-CP ngày 02 tháng 02 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về hộ tịch, hôn nhân và gia đình và chứng thực;
 
-*Nội dung chưa có sẵn*
+d) Các Điều 3, 5 và 44 của Nghị định số 24/2013/NĐ-CP ngày 28 tháng 3 năm 2013 của Chính phủ quy định chi tiết thi hành Luật Hôn nhân và gia đình về quan hệ hôn nhân và gia đình có yếu tố nước ngoài;
 
-**Chỉ mục:** 45
+đ) Từ Mục 1 đến Mục 6 Chương III gồm các điều từ Điều 19 đến Điều 50 và Điểm a Khoản 1 Điều 63 của Nghị định số 126/2014/NĐ-CP ngày 31 tháng 12 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình.
 
-**Mã phân cấp:** 1500300000000000700007740256410123000450
+3. Sửa đổi Khoản 2 Điều 63 của Nghị định số 126/2014/NĐ-CP ngày 31 tháng 12 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình như sau:
 
-**ID:** dk_00021282
+“2. Sở Tư pháp giúp Ủy ban nhân dân cấp tỉnh trong việc thực hiện quản lý nhà nước về hôn nhân và gia đình có yếu tố nước ngoài tại địa phương, thực hiện nhiệm vụ và quyền hạn cụ thể theo quy định của Nghị định này”.
 
----
+4. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các tổ chức, cá nhân có liên quan có trách nhiệm thi hành Nghị định này./.
 
+Điều 15.3.NĐ.1.46. Điều khoản thi hành
 
-### Điều 15.3.NĐ.1.46. Điều khoản thi hành
+(Điều 5 Nghị định số 07/2025/NĐ-CP Sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hộ tịch, quốc tịch, chứng thực ngày 09/01/2025 của Chính phủ, có hiệu lực thi hành kể từ ngày 09/01/2025 )
 
-*Nội dung chưa có sẵn*
+1. Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.
 
-**Chỉ mục:** 5
+2. Hồ sơ chứng thực, hộ tịch, quốc tịch tiếp nhận trước ngày Nghị định có hiệu lực mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định của Nghị định số 23/2015/NĐ-CP, Nghị định số 123/2015/NĐ-CP, Nghị định số 87/2020/NĐ-CP, Nghị định số 16/2020/NĐ-CP.
 
-**Mã phân cấp:** 1500300000000000700007740256410123000460
+3. Bộ Tư pháp có trách nhiệm hướng dẫn thi hành Nghị định này.
 
-**ID:** dk_00021283
+4. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các cá nhân, cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Nghị định này.
 
----
+Điều 15.3.NĐ.2.25. Điều khoản thi hành
 
+(Điều 25 Nghị định số 87/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/09/2020)
 
-### Điều 15.3.NĐ.2.25. Điều khoản thi hành
+1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 9 năm 2020.
 
-*Nội dung chưa có sẵn*
+2. Bãi bỏ quy định tại khoản 1, khoản 2 Điều 12 Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ.
 
-**Chỉ mục:** 25
+3. Bộ trưởng Bộ Tư pháp trong phạm vi chức năng, nhiệm vụ, quyền hạn được giao có trách nhiệm tổ chức thực hiện, hướng dẫn, kiểm tra việc thi hành Nghị định này.
 
-**Mã phân cấp:** 1500300000000000700007740273580087000250
+4. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng các cơ quan khác ở trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh, các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00021284
+Điều 15.3.TL.1.20. Hiệu lực thi hành
 
----
+(Điều 20 Thông tư liên tịch số 05/2015/TTLT-BTP-BCA-BYT, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
+Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2015.
 
-### Điều 15.3.TL.1.20. Hiệu lực thi hành
+Điều 15.3.TL.1.21. Trách nhiệm thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 21 Thông tư liên tịch số 05/2015/TTLT-BTP-BCA-BYT, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**Chỉ mục:** 20
+1. Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ Tư pháp, Bộ Công an, Bộ Y tế; Chủ tịch Ủy ban nhân dân các cấp, Giám đốc Sở Tư pháp, Giám đốc Bảo hiểm xã hội, Giám đốc Công an các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư liên tịch này.
 
-**Mã phân cấp:** 1500300000000000700007780254570005000200
+2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân báo cáo về Bộ Tư pháp (qua Cục Kiểm soát thủ tục hành chính), Bộ Công an (qua Tổng cục Cảnh sát), Bộ Y tế (qua Vụ Pháp chế) để kịp thời hướng dẫn.
 
-**ID:** dk_00021285
+(Điều này có nội dung liên quan đến Điều 15.3.LQ.70. Trách nhiệm của Ủy ban nhân dân cấp huyện; Điều 15.3.TL.1.16. Trách nhiệm của Bộ Tư pháp; Điều 15.3.TL.1.17. Trách nhiệm của Bộ Công an, Bộ Y tế, Bảo hiểm xã hội Việt Nam; Điều 15.3.TL.1.18. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh; Điều 15.3.TL.1.19. Trách nhiệm của Ủy ban nhân dân cấp xã)
 
----
+Điều 15.3.TT.2.39. Hiệu lực thi hành
 
+(Điều 39 Thông tư số 04/2020/TT-BTP, có hiệu lực thi hành kể từ ngày 16/07/2020)
 
-### Điều 15.3.TL.1.21. Trách nhiệm thi hành
+1. Thông tư này có hiệu lực từ ngày 16 tháng 7 năm 2020 và thay thế Thông tư số 15/2015/TT-BTP.
 
-*Nội dung chưa có sẵn*
+2. Trong quá trình triển khai thực hiện, nếu có vướng mắc, đề nghị Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Sở Tư pháp kịp thời phản ánh về Bộ Tư pháp để có hướng dẫn.
 
-**Chỉ mục:** 21
+Điều 15.3.TT.3.14. Trách nhiệm thi hành
 
-**Mã phân cấp:** 1500300000000000700007780254570005000210
+(Điều 14 Thông tư số 01/2022/TT-BTP, có hiệu lực thi hành kể từ ngày 18/02/2022)
 
-**ID:** dk_00021286
+1. Cơ quan đăng ký hộ tịch, công chức làm công tác hộ tịch có trách nhiệm cập nhật kịp thời, đầy đủ, chính xác các thông tin hộ tịch đã được đăng ký vào Cơ sở dữ liệu hộ tịch điện tử; tạo lập, cập nhật bản ghi dữ liệu hộ tịch điện tử của cá nhân thông qua các chức năng, tiện ích được cung cấp bởi Phần mềm đăng ký, quản lý hộ tịch điện tử dùng chung.
 
----
+2. Sở Tư pháp, Phòng Tư pháp, Ủy ban nhân dân cấp xã có trách nhiệm xây dựng kế hoạch, dự trù ngân sách, bảo đảm trang thiết bị, cơ sở hạ tầng cho việc số hóa Sổ hộ tịch, xây dựng, cập nhật, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến phù hợp với mức độ triển khai dịch vụ công trực tuyến tại địa phương.
 
+3. Trong thời gian chưa thực hiện xong việc số hóa Sổ hộ tịch, Cơ sở dữ liệu hộ tịch điện tử chưa vận hành thống nhất, chưa kết nối, khai thác được dữ liệu từ Cơ sở dữ liệu quốc gia về dân cư; cơ quan có thẩm quyền giải quyết các thủ tục hành chính liên thông theo quy định tại Khoản 4 Điều 3 Thông tư này chưa kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu hộ tịch điện tử, nếu người yêu cầu không cung cấp được bản sao điện tử, bản điện tử giấy tờ hộ tịch đối với các việc hộ tịch không yêu cầu phải có mặt tại cơ quan đăng ký hộ tịch khi nhận kết quả, thì cơ quan đăng ký hộ tịch tiếp nhận, giải quyết yêu cầu đăng ký hộ tịch theo quy định tại Khoản 5 Điều 12 Nghị định số 87/2020/NĐ-CP, cấp giấy tờ hộ tịch, bản sao Giấy khai sinh, bản sao trích lục hộ tịch theo biểu mẫu ban hành kèm theo Thông tư số 04/2020/TT-BTP, thực hiện ký số theo quy định của Thông tư số 41/2017/TT-BTTTT ngày 19/12/2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định sử dụng chữ ký số cho văn bản điện tử trong cơ quan nhà nước.
 
-### Điều 15.3.TT.2.39. Hiệu lực thi hành
+(Điều này có nội dung liên quan đến Điều 15.3.NĐ.2.12. Tiếp nhận, giải quyết yêu cầu đăng ký hộ tịch trực tuyến; Điều 15.3.TT.2.27. Mẫu giấy tờ, Sổ hộ tịch)
 
-*Nội dung chưa có sẵn*
+Điều 15.3.TT.3.15. Hiệu lực thi hành
 
-**Chỉ mục:** 39
+(Điều 15 Thông tư số 01/2022/TT-BTP, có hiệu lực thi hành kể từ ngày 18/02/2022)
 
-**Mã phân cấp:** 1500300000000000700007780272970004000390
+1. Thông tư này có hiệu lực từ ngày 18 tháng 02 năm 2022.
 
-**ID:** dk_00021287
+2. Ủy ban nhân dân các cấp và các cơ quan có liên quan chịu trách nhiệm tổ chức thực hiện Thông tư này.
 
----
-
-
-### Điều 15.3.TT.3.14. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 14
-
-**Mã phân cấp:** 1500300000000000700007780278830001000140
-
-**ID:** dk_00021288
-
----
-
-
-### Điều 15.3.TT.3.15. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 1500300000000000700007780278830001000150
-
-**ID:** dk_00021289
-
----
-
-
-### Điều 15.3.TT.3.3.2. Trách nhiệm tổ chức thực hiện và hiệu lực thi hành
+Trong quá trình triển khai thực hiện, nếu có vướng mắc, đề nghị Ủy ban nhân dân, Sở Tư pháp các tỉnh, thành phố trực thuộc Trung ương, cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Tư pháp để có hướng dẫn.
 
 Điều 15.3.TT.3.3.2. Trách nhiệm tổ chức thực hiện và hiệu lực thi hành
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 03/2023/TT-BTP Sửa đổi Thông tư 01/2022/TT-BTP hướng dẫn Nghị định 87/2020/NĐ-CP quy định về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến ngày 02/08/2023 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 02/08/2023 )
 
-**Mã phân cấp:** 1500300000000000700007780278830001000160
+1. Thông tư này có hiệu lực thi hành kể từ ngày 02 tháng 8 năm 2023.
 
-**ID:** dk_00021290
+2. Hồ sơ đăng ký hộ tịch đã tiếp nhận trước ngày Thông tư này có hiệu lực mà chưa giải quyết xong thì tiếp tục được giải quyết theo quy định của Thông tư số 01/2022/TT-BTP.
 
----
+3. Cục trưởng Cục Hộ tịch, quốc tịch, chứng thực, Thủ trưởng các đơn vị thuộc Bộ Tư pháp, Giám đốc Sở Tư pháp các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+Trong quá trình thực hiện, nếu có vướng mắc, đề nghị Uỷ ban nhân dân, Sở Tư pháp các tỉnh, thành phố trực thuộc Trung ương, cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Tư pháp để nghiên cứu, hướng dẫn.
 
-### Điều 15.3.TT.4.40. Hiệu lực thi hành
+Điều 15.3.TT.4.40. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 40 Thông tư số 07/2023/TT-BNG, có hiệu lực thi hành kể từ ngày 15/02/2024)
 
-**Chỉ mục:** 40
+1. Thông tư này có hiệu lực thi hành từ ngày 15 tháng 2 năm 2024.
 
-**Mã phân cấp:** 1500300000000000700007780286070007000400
+2. Bãi bỏ các quy định tại Thông tư liên tịch số 02/2016/TTLT-BNG-BTP ngày 30/6/2016 của Bộ Ngoại giao và Bộ Tư pháp hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài.
 
-**ID:** dk_00021291
+3. Trong quá trình thực hiện, nếu có vướng mắc hoặc phát sinh những việc mới, Cơ quan đại diện kịp thời phản ánh về Bộ Ngoại giao để kịp thời hướng dẫn.
 
----
+Điều 15.3.TT.4.4.2. Điều khoản thi hành
 
+(Điều 2 Thông tư số 07/2025/TT-BNG Sửa đổi, bổ sung một số điều của Thông tư số 07/2023/TT-BNG ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Ngoại giao hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài ngày 13/06/2025 của Bộ Ngoại giao, có hiệu lực thi hành kể từ ngày 13/07/2025 )
 
-### Điều 15.3.TT.4.4.2. Điều khoản thi hành
+1. Thông tư này có hiệu lực thi hành từ ngày 13 tháng 7 năm 2025.
 
-*Nội dung chưa có sẵn*
+2. Hồ sơ đã được tiếp nhận trước ngày Thông tư này có hiệu lực thì tiếp tục được giải quyết theo quy định tại Thông tư số 07/2023/TT-BNG ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Ngoại giao hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài và các văn bản quy phạm pháp luật có liên quan.
 
-**Chỉ mục:** 2
+3. Trong quá trình thực hiện, nếu có vướng mắc hoặc phát sinh những việc mới, Cơ quan đại diện kịp thời phản ánh về Bộ Ngoại giao để kịp thời hướng dẫn.
 
-**Mã phân cấp:** 1500300000000000700007780286070007000420
+## Danh sách điều khoản
 
-**ID:** dk_00021292
+### 15003000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 1500300000000000100000100000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Hành chính tư pháp](/hanh-chinh-tu-phap/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 15.3.LQ.1. Phạm vi điều chỉnh
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 131
-- **Điều khoản thực tế:** 106
-- **Điều khoản có nội dung:** 37 (34.9%)
-- **ID đề mục:** d0a397961eb44862972b87d5ad87ae2c
+### 1500300000000000100000140256410123000010
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 15.3.NĐ.1.1. Phạm vi điều chỉnh
 
----
+### 1500300000000000100000140273580087000010
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 15.3.NĐ.2.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 1500300000000000100000180254570005000010
+
+Điều 15.3.TL.1.1. Phạm vi điều chỉnh
+
+### 1500300000000000100000180254570005000020
+
+Điều 15.3.TL.1.2. Đối tượng áp dụng
+
+### 1500300000000000100000180272970004000010
+
+Điều 15.3.TT.2.1. Phạm vi điều chỉnh
+
+### 1500300000000000100000180275110024000010
+
+Điều 15.3.TT.3.1. Phạm vi điều chỉnh
+
+### 1500300000000000100000180278830001000010
+
+Điều 15.3.TT.3.1. Phạm vi điều chỉnh
+
+### 1500300000000000100000180278830001000020
+
+Điều 15.3.TT.3.2. Đối tượng áp dụng
+
+### 1500300000000000100000180286070007000010
+
+Điều 15.3.TT.4.1. Phạm vi điều chỉnh
+
+### 1500300000000000100000200000000000000000
+
+Điều 15.3.LQ.2. Hộ tịch và đăng ký hộ tịch
+
+### 1500300000000000100000300000000000000000
+
+Điều 15.3.LQ.3. Nội dung đăng ký hộ tịch
+
+### 1500300000000000100000400000000000000000
+
+Điều 15.3.LQ.4. Giải thích từ ngữ
+
+### 1500300000000000100000440273580087000020
+
+Điều 15.3.NĐ.2.2. Giải thích từ ngữ
+
+### 1500300000000000100000480286070007000030
+
+Điều 15.3.TT.4.3. Giải thích từ ngữ
+
+### 1500300000000000100000500000000000000000
+
+Điều 15.3.LQ.5. Nguyên tắc đăng ký hộ tịch
+
+### 1500300000000000100000600000000000000000
+
+Điều 15.3.LQ.6. Quyền, nghĩa vụ đăng ký hộ tịch của cá nhân
+
+### 1500300000000000100000700000000000000000
+
+Điều 15.3.LQ.7. Thẩm quyền đăng ký hộ tịch
+
+### 1500300000000000100000800000000000000000
+
+Điều 15.3.LQ.8. Bảo đảm thực hiện quyền, nghĩa vụ đăng ký hộ tịch
+
+### 1500300000000000100000900000000000000000
+
+Điều 15.3.LQ.9. Phương thức yêu cầu và tiếp nhận yêu cầu đăng ký hộ tịch
+
+### 1500300000000000100001000000000000000000
+
+Điều 15.3.LQ.10. Hợp pháp hóa lãnh sự đối với giấy tờ của nước ngoài
+
+### 1500300000000000100001100000000000000000
+
+Điều 15.3.LQ.11. Lệ phí hộ tịch
+
+### 1500300000000000100001200000000000000000
+
+Điều 15.3.LQ.12. Các hành vi bị nghiêm cấm
+
+### 15003000000000002000
+
+Chương II ĐĂNG KÝ HỘ TỊCH TẠI UỶ BAN NHÂN DÂN CẤP XÃ
+
+### 1500300000000000200000010000000000000000
+
+Mục 1 ĐĂNG KÝ KHAI SINH
+
+### 150030000000000020000001000000000000000001300000000000000000
+
+Điều 15.3.LQ.13. Thẩm quyền đăng ký khai sinh
+
+### 150030000000000020000001000000000000000001400000000000000000
+
+Điều 15.3.LQ.14. Nội dung đăng ký khai sinh
+
+### 150030000000000020000001000000000000000001500000000000000000
+
+Điều 15.3.LQ.15. Trách nhiệm đăng ký khai sinh
+
+### 150030000000000020000001000000000000000001600000000000000000
+
+Điều 15.3.LQ.16. Thủ tục đăng ký khai sinh
+
+### 1500300000000000200000020000000000000000
+
+Mục 2 ĐĂNG KÝ KẾT HÔN
+
+### 150030000000000020000002000000000000000001700000000000000000
+
+Điều 15.3.LQ.17. Thẩm quyền đăng ký kết hôn và nội dung Giấy chứng nhận kết hôn
+
+### 150030000000000020000002000000000000000001800000000000000000
+
+Điều 15.3.LQ.18. Thủ tục đăng ký kết hôn
+
+### 1500300000000000200000030000000000000000
+
+Mục 3 ĐĂNG KÝ GIÁM HỘ
+
+### 150030000000000020000003000000000000000001900000000000000000
+
+Điều 15.3.LQ.19. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ
+
+### 150030000000000020000003000000000000000002000000000000000000
+
+Điều 15.3.LQ.20. Thủ tục đăng ký giám hộ cử
+
+### 150030000000000020000003000000000000000002100000000000000000
+
+Điều 15.3.LQ.21. Đăng ký giám hộ đương nhiên
+
+### 150030000000000020000003000000000000000002200000000000000000
+
+Điều 15.3.LQ.22. Đăng ký chấm dứt giám hộ
+
+### 150030000000000020000003000000000000000002300000000000000000
+
+Điều 15.3.LQ.23. Đăng ký thay đổi giám hộ
+
+### 1500300000000000200000040000000000000000
+
+Mục 4 ĐĂNG KÝ NHẬN CHA, MẸ, CON
+
+### 150030000000000020000004000000000000000002400000000000000000
+
+Điều 15.3.LQ.24. Thẩm quyền đăng ký nhận cha, mẹ, con
+
+### 150030000000000020000004000000000000000002500000000000000000
+
+Điều 15.3.LQ.25. Thủ tục đăng ký nhận cha, mẹ, con
+
+### 1500300000000000200000050000000000000000
+
+Mục 5 ĐĂNG KÝ THAY ĐỔI, CẢI CHÍNH, BỔ SUNG HỘ TỊCH
+
+### 150030000000000020000005000000000000000002600000000000000000
+
+Điều 15.3.LQ.26. Phạm vi thay đổi hộ tịch
+
+### 150030000000000020000005000000000000000002700000000000000000
+
+Điều 15.3.LQ.27. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch
+
+### 150030000000000020000005000000000000000002800000000000000000
+
+Điều 15.3.LQ.28. Thủ tục đăng ký thay đổi, cải chính hộ tịch
+
+### 150030000000000020000005000000000000000002900000000000000000
+
+Điều 15.3.LQ.29. Thủ tục bổ sung hộ tịch
+
+### 1500300000000000200000060000000000000000
+
+Mục 6 GHI VÀO SỔ HỘ TỊCH VIỆC THAY ĐỔI HỘ TỊCH THEO BẢN ÁN, QUYẾT ĐỊNH CỦA CƠ QUAN NHÀ NƯỚC CÓ THẨM QUYỀN
+
+### 150030000000000020000006000000000000000003000000000000000000
+
+Điều 15.3.LQ.30. Trách nhiệm thông báo khi có sự thay đổi hộ tịch
+
+### 150030000000000020000006000000000000000003100000000000000000
+
+Điều 15.3.LQ.31. Thủ tục ghi vào Sổ hộ tịch việc thay đổi hộ tịch theo bản án, quyết định của cơ quan nhà nước có thẩm quyền
+
+### 1500300000000000200000070000000000000000
+
+Mục 7 ĐĂNG KÝ KHAI TỬ
+
+### 150030000000000020000007000000000000000003200000000000000000
+
+Điều 15.3.LQ.32. Thẩm quyền đăng ký khai tử
+
+### 150030000000000020000007000000000000000003300000000000000000
+
+Điều 15.3.LQ.33. Thời hạn và trách nhiệm đăng ký khai tử
+
+### 150030000000000020000007000000000000000003400000000000000000
+
+Điều 15.3.LQ.34. Thủ tục đăng ký khai tử
+
+### 15003000000000003000
+
+Chương III ĐĂNG KÝ HỘ TỊCH TẠI ỦY BAN NHÂN DÂN CẤP HUYỆN
+
+### 1500300000000000300000010000000000000000
+
+Mục 1 ĐĂNG KÝ KHAI SINH
+
+### 150030000000000030000001000000000000000003500000000000000000
+
+Điều 15.3.LQ.35. Thẩm quyền đăng ký khai sinh
+
+### 150030000000000030000001000000000000000003600000000000000000
+
+Điều 15.3.LQ.36. Thủ tục đăng ký khai sinh
+
+### 1500300000000000300000020000000000000000
+
+Mục 2 ĐĂNG KÝ KẾT HÔN
+
+### 150030000000000030000002000000000000000003700000000000000000
+
+Điều 15.3.LQ.37. Thẩm quyền đăng ký kết hôn
+
+### 150030000000000030000002000000000000000003800000000000000000
+
+Điều 15.3.LQ.38. Thủ tục đăng ký kết hôn
+
+### 1500300000000000300000030000000000000000
+
+Mục 3 ĐĂNG KÝ GIÁM HỘ
+
+### 150030000000000030000003000000000000000003900000000000000000
+
+Điều 15.3.LQ.39. Thẩm quyền đăng ký giám hộ, chấm dứt giám hộ
+
+### 150030000000000030000003000000000000000004000000000000000000
+
+Điều 15.3.LQ.40. Thủ tục đăng ký giám hộ cử
+
+### 150030000000000030000003000000000000000004100000000000000000
+
+Điều 15.3.LQ.41. Đăng ký giám hộ đương nhiên
+
+### 150030000000000030000003000000000000000004200000000000000000
+
+Điều 15.3.LQ.42. Thủ tục đăng ký chấm dứt, thay đổi giám hộ
+
+### 1500300000000000300000040000000000000000
+
+Mục 4 ĐĂNG KÝ NHẬN CHA, MẸ, CON
+
+### 150030000000000030000004000000000000000004300000000000000000
+
+Điều 15.3.LQ.43. Thẩm quyền đăng ký nhận cha, mẹ, con
+
+### 150030000000000030000004000000000000000004400000000000000000
+
+Điều 15.3.LQ.44. Thủ tục đăng ký nhận cha, mẹ, con
+
+### 1500300000000000300000050000000000000000
+
+Mục 5 ĐĂNG KÝ THAY ĐỔI, CẢI CHÍNH, BỔ SUNG HỘ TỊCH, XÁC ĐỊNH LẠI DÂN TỘC
+
+### 150030000000000030000005000000000000000004500000000000000000
+
+Điều 15.3.LQ.45. Phạm vi thay đổi hộ tịch
+
+### 150030000000000030000005000000000000000004600000000000000000
+
+Điều 15.3.LQ.46. Thẩm quyền đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc
+
+### 150030000000000030000005000000000000000004700000000000000000
+
+Điều 15.3.LQ.47. Thủ tục đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc
+
+### 1500300000000000300000060000000000000000
+
+Mục 6 GHI VÀO SỔ HỘ TỊCH VIỆC HỘ TỊCH CỦA CÔNG DÂN VIỆT NAM ĐÃ ĐƯỢC GIẢI QUYẾT TẠI CƠ QUAN CÓ THẨM QUYỀN CỦA NƯỚC NGOÀI
+
+### 150030000000000030000006000000000000000004800000000000000000
+
+Điều 15.3.LQ.48. Thẩm quyền ghi vào Sổ hộ tịch việc hộ tịch của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài
+
+### 150030000000000030000006000000000000000004900000000000000000
+
+Điều 15.3.LQ.49. Thủ tục ghi vào Sổ hộ tịch việc khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; thay đổi hộ tịch; khai tử
+
+### 150030000000000030000006000000000000000005000000000000000000
+
+Điều 15.3.LQ.50. Thủ tục ghi vào Sổ hộ tịch việc kết hôn, ly hôn, hủy việc kết hôn
+
+### 1500300000000000300000070000000000000000
+
+Mục 7 ĐĂNG KÝ KHAI TỬ
+
+### 150030000000000030000007000000000000000005100000000000000000
+
+Điều 15.3.LQ.51. Thẩm quyền đăng ký khai tử
+
+### 150030000000000030000007000000000000000005200000000000000000
+
+Điều 15.3.LQ.52. Thủ tục đăng ký khai tử
+
+### 15003000000000004000
+
+Chương IV ĐĂNG KÝ HỘ TỊCH TẠI CƠ QUAN ĐẠI DIỆN
+
+### 1500300000000000400005300000000000000000
+
+Điều 15.3.LQ.53. Đăng ký hộ tịch cho công dân Việt Nam cư trú ở nước ngoài
+
+### 150030000000000040000530000000000000000000802860700070000400
+
+Điều 15.3.TT.4.4. Việc nộp hồ sơ, tiếp nhận hồ sơ và trả kết quả đăng ký hộ tịch
+
+### 150030000000000040000530000000000000000000802860700070000600
+
+Điều 15.3.TT.4.6. Thẩm quyền đăng ký khai sinh
+
+### 1500300000000000400005400000000000000000
+
+Điều 15.3.LQ.54. Công chức làm công tác hộ tịch tại Cơ quan đại diện
+
+### 1500300000000000400005500000000000000000
+
+Điều 15.3.LQ.55. Lập Sổ hộ tịch tại Bộ Ngoại giao
+
+### 1500300000000000400005600000000000000000
+
+Điều 15.3.LQ.56. Trách nhiệm báo cáo của Cơ quan đại diện
+
+### 15003000000000005000
+
+Chương V CƠ SỞ DỮ LIỆU HỘ TỊCH, CẤP TRÍCH LỤC HỘ TỊCH
+
+### 1500300000000000500000010000000000000000
+
+Mục 1 CƠ SỞ DỮ LIỆU HỘ TỊCH
+
+### 150030000000000050000001000000000000000005700000000000000000
+
+Điều 15.3.LQ.57. Cơ sở dữ liệu hộ tịch
+
+### 150030000000000050000001000000000000000005800000000000000000
+
+Điều 15.3.LQ.58. Sổ hộ tịch
+
+### 150030000000000050000001000000000000000005900000000000000000
+
+Điều 15.3.LQ.59. Cơ sở dữ liệu hộ tịch điện tử
+
+### 150030000000000050000001000000000000000006000000000000000000
+
+Điều 15.3.LQ.60. Cập nhật, điều chỉnh thông tin hộ tịch cá nhân trong Cơ sở dữ liệu hộ tịch điện tử
+
+### 150030000000000050000001000000000000000006100000000000000000
+
+Điều 15.3.LQ.61. Nguyên tắc quản lý, khai thác Cơ sở dữ liệu hộ tịch
+
+### 1500300000000000500000020000000000000000
+
+Mục 2 CẤP TRÍCH LỤC HỘ TỊCH
+
+### 150030000000000050000002000000000000000006200000000000000000
+
+Điều 15.3.LQ.62. Cấp bản chính trích lục hộ tịch khi đăng ký hộ tịch
+
+### 150030000000000050000002000000000000000006300000000000000000
+
+Điều 15.3.LQ.63. Cấp bản sao trích lục hộ tịch về sự kiện hộ tịch đã đăng ký
+
+### 150030000000000050000002000000000000000006400000000000000000
+
+Điều 15.3.LQ.64. Thủ tục cấp bản sao trích lục hộ tịch
+
+### 15003000000000006000
+
+Chương VI TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HỘ TỊCH, CÔNG CHỨC LÀM CÔNG TÁC HỘ TỊCH
+
+### 1500300000000000600000010000000000000000
+
+Mục 1 TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HỘ TỊCH
+
+### 150030000000000060000001000000000000000006500000000000000000
+
+Điều 15.3.LQ.65. Trách nhiệm của Chính phủ
+
+### 150030000000000060000001000000000000000006600000000000000000
+
+Điều 15.3.LQ.66. Trách nhiệm của Bộ Tư pháp
+
+### 150030000000000060000001000000000000000006700000000000000000
+
+Điều 15.3.LQ.67. Trách nhiệm của Bộ Ngoại giao
+
+### 150030000000000060000001000000000000000006800000000000000000
+
+Điều 15.3.LQ.68. Trách nhiệm của Bộ Công an
+
+### 150030000000000060000001000000000000000006900000000000000000
+
+Điều 15.3.LQ.69. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
+
+### 150030000000000060000001000000000000000007000000000000000000
+
+Điều 15.3.LQ.70. Trách nhiệm của Ủy ban nhân dân cấp huyện
+
+### 150030000000000060000001000000000000000007100000000000000000
+
+Điều 15.3.LQ.71. Trách nhiệm của Ủy ban nhân dân cấp xã
+
+### 1500300000000000600000020000000000000000
+
+Mục 2 CÔNG CHỨC LÀM CÔNG TÁC HỘ TỊCH
+
+### 150030000000000060000002000000000000000007200000000000000000
+
+Điều 15.3.LQ.72. Công chức làm công tác hộ tịch
+
+### 150030000000000060000002000000000000000007300000000000000000
+
+Điều 15.3.LQ.73. Nhiệm vụ, quyền hạn của công chức làm công tác hộ tịch
+
+### 150030000000000060000002000000000000000007400000000000000000
+
+Điều 15.3.LQ.74. Những việc công chức làm công tác hộ tịch không được làm
+
+### 15003000000000007000
+
+Chương VII ĐIỀU KHOẢN THI HÀNH
+
+### 1500300000000000700007500000000000000000
+
+Điều 15.3.LQ.75. Giá trị của Sổ hộ tịch được lập, giấy tờ hộ tịch được cấp trước ngày Luật này có hiệu lực
+
+### 1500300000000000700007600000000000000000
+
+Điều 15.3.LQ.76. Điều khoản chuyển tiếp
+
+### 1500300000000000700007640273580087000240
+
+Điều 15.3.NĐ.2.24. Quy định chuyển tiếp
+
+### 1500300000000000700007680272970004000380
+
+Điều 15.3.TT.2.38. Điều khoản chuyển tiếp
+
+### 1500300000000000700007680286070007000390
+
+Điều 15.3.TT.4.39. Điều khoản chuyển tiếp
+
+### 1500300000000000700007700000000000000000
+
+Điều 15.3.LQ.77. Hiệu lực thi hành
+
+### 1500300000000000700007740256410123000430
+
+Điều 15.3.NĐ.1.43. Trách nhiệm thi hành
+
+### 1500300000000000700007740256410123000440
+
+Điều 15.3.NĐ.1.44. Điều khoản chuyển tiếp
+
+### 1500300000000000700007740256410123000450
+
+Điều 15.3.NĐ.1.45. Hiệu lực thi hành
+
+### 1500300000000000700007740256410123000460
+
+Điều 15.3.NĐ.1.46. Điều khoản thi hành
+
+### 1500300000000000700007740273580087000250
+
+Điều 15.3.NĐ.2.25. Điều khoản thi hành
+
+### 1500300000000000700007780254570005000200
+
+Điều 15.3.TL.1.20. Hiệu lực thi hành
+
+### 1500300000000000700007780254570005000210
+
+Điều 15.3.TL.1.21. Trách nhiệm thi hành
+
+### 1500300000000000700007780272970004000390
+
+Điều 15.3.TT.2.39. Hiệu lực thi hành
+
+### 1500300000000000700007780278830001000140
+
+Điều 15.3.TT.3.14. Trách nhiệm thi hành
+
+### 1500300000000000700007780278830001000150
+
+Điều 15.3.TT.3.15. Hiệu lực thi hành
+
+### 1500300000000000700007780278830001000160
+
+Điều 15.3.TT.3.3.2. Trách nhiệm tổ chức thực hiện và hiệu lực thi hành
+
+### 1500300000000000700007780286070007000400
+
+Điều 15.3.TT.4.40. Hiệu lực thi hành
+
+### 1500300000000000700007780286070007000420
+
+Điều 15.3.TT.4.4.2. Điều khoản thi hành
+

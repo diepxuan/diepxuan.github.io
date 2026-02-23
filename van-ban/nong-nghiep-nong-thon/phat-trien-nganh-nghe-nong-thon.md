@@ -1,1661 +1,3021 @@
 ---
-layout: default
+layout: page
 title: Phát triển ngành nghề nông thôn
 permalink: /van-ban/nong-nghiep-nong-thon/phat-trien-nganh-nghe-nong-thon/
-collection: subtopics
-slug: phat-trien-nganh-nghe-nong-thon
-parent: nong-nghiep-nong-thon
 ---
 
 # Phát triển ngành nghề nông thôn
 
-**Đề mục:** Phát triển ngành nghề nông thôn  
-**Chủ đề:** [Nông nghiệp, nông thôn](/nong-nghiep-nong-thon/)  
-**Số điều khoản:** 133  
-**Điều khoản có nội dung:** 47/125 (37.6%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+QUY ĐỊNH CHUNG
 
-### Điều 24.9.NĐ.1. Phạm vi điều chỉnh
+Điều 24.9.NĐ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 52/2018/NĐ-CP Về phát triển ngành nghề nông thôn ngày 12/04/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/06/2018 )
 
-**Chỉ mục:** 1
+Nghị định này quy định một số nội dung, chính sách phát triển ngành nghề nông thôn và làng nghề.
 
-**Mã phân cấp:** 2400900000000000100000100000000000000000
+Điều 24.9.NĐ.2. Đối tượng áp dụng
 
-**ID:** dk_00038157
+(Điều 2 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
----
+1. Tổ chức, cá nhân trong nước và nước ngoài trực tiếp đầu tư phát triển sản xuất, kinh doanh, dịch vụ ngành nghề nông thôn (sau đây gọi chung là cơ sở ngành nghề nông thôn) bao gồm: Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ gia đình hoạt động theo quy định của pháp luật.
 
+2. Các nghề truyền thống, làng nghề, làng nghề truyền thống được Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) quyết định công nhận.
 
-### Điều 24.9.NĐ.2. Đối tượng áp dụng
+3. Các tổ chức, cá nhân có liên quan tới công tác quản lý ngành nghề nông thôn (cả trung ương và địa phương).
 
-*Nội dung chưa có sẵn*
+Điều 24.9.NĐ.1.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 2
+(Điều 1 Nghị định số 57/2018/NĐ-CP Về cơ chế, chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn ngày 17/04/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 17/04/2018 )
 
-**Mã phân cấp:** 2400900000000000100000200000000000000000
+Nghị định này quy định một số cơ chế, chính sách ưu đãi, hỗ trợ đầu tư bổ sung của Nhà nước và quy định trình tự, thủ tục thực hiện ưu đãi, hỗ trợ đầu tư cho các doanh nghiệp đầu tư vào nông nghiệp, nông thôn.
 
-**ID:** dk_00038158
+Điều 24.9.NĐ.1.2. Đối tượng áp dụng
 
----
+(Điều 2 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
+1. Nghị định này áp dụng đối với doanh nghiệp nhận ưu đãi và hỗ trợ là doanh nghiệp được thành lập, đăng ký, hoạt động theo Luật doanh nghiệp và có dự án đầu tư quy định tại khoản 3, 4, 5, Điều 3 Nghị định này.
 
-### Điều 24.9.NĐ.1.1. Phạm vi điều chỉnh
+2. Các cơ quan, tổ chức, cá nhân có liên quan trong việc thực hiện chính sách ưu đãi và hỗ trợ theo quy định tại Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 24.9.QĐ.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 11/2011/QĐ-TTg Về chính sách khuyến khích phát triển ngành mây tre ngày 18/02/2011 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 05/04/2011 )
 
-**Mã phân cấp:** 2400900000000000100000240265250057000010
+Quyết định này quy định về quy hoạch, chính sách và giải pháp khuyến khích phát triển ngành mây, tre; trách nhiệm của các cấp, các ngành và các tổ chức có liên quan đến tạo vùng nguyên liệu, khai thác nguyên liệu, chế biến và tiêu thụ sản phẩm hàng mây tre ở Việt Nam.
 
-**ID:** dk_00038159
+Điều 24.9.QĐ.2.2. Đối tượng áp dụng
 
----
+(Điều 2 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-
-### Điều 24.9.NĐ.1.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400900000000000100000240265250057000020
-
-**ID:** dk_00038160
-
----
-
-
-### Điều 24.9.QĐ.2.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 2400900000000000100000250239100011000010
-
-**ID:** dk_00038161
-
----
-
-
-### Điều 24.9.QĐ.2.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400900000000000100000250239100011000020
-
-**ID:** dk_00038162
-
----
-
-
-### Điều 24.9.TT.4.1. Phạm vi điều chỉnh và đối tượng áp dụng
+Chính sách này áp dụng đối với các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn trong nước, người Việt Nam định cư ở nước ngoài, tổ chức và cá nhân nước ngoài có các hoạt động liên quan đến tạo vùng nguyên liệu, khai thác nguyên liệu, chế biến và tiêu thụ sản phẩm hàng mây tre.
 
 Điều 24.9.TT.4.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 13/2014/TT-NHNN Hướng dẫn việc cho vay theo Quyết định số 68/2013/QĐ-TTG 
+ngày 14 tháng 11 năm 2013 của Thủ tướng Chính phủ về chính sách hỗ trợ 
+nhằm giảm tổn thất trong nông nghiệp ngày 18/04/2014 của Ngân hàng Nhà nước Việt Nam, có hiệu lực thi hành kể từ ngày 12/05/2014 )1. Thông tư này hướng dẫn việc các ngân hàng thương mại cho các doanh nghiệp, hợp tác xã, tổ hợp tác, hộ gia đình, cá nhân vay vốn theo quy định tại Quyết định số 68/2013/QĐ-TTg ngày 14 tháng 11 năm 2013 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp (sau đây gọi tắt là Quyết định số 68/2013/QĐ-TTg).
 
-**Mã phân cấp:** 2400900000000000100000280250650013000010
+2. Thông tư này áp dụng đối với hợp đồng vay vốn tại các ngân hàng thương mại nhằm giảm tổn thất trong nông nghiệp được ký trước ngày 31/12/2020.
 
-**ID:** dk_00038163
-
----
-
-
-### Điều 24.9.TL.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
+(Điều này có nội dung liên quan đến Điều 22.3.TT.12.2. Đối tượng và phạm vi áp dụng quy định về hỗ trợ lãi suất)
 
 Điều 24.9.TL.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư liên tịch 13/2014/TTLT-BNNPTNT-BKHĐT-BTC hướng dẫn một số nội dung thực hiện Quyết định số 11/2011/QĐ-TTg ngày 18/02/2011 của Thủ tướng Chính phủ về chính sách khuyến khích phát triển ngành mây tre, ngày 28/4/2014 của Bộ Nông nghiệp phát triển và nông thôn, Bộ Kế hoạch và Đầu tư, Bộ Tài chính, có hiệu lực kể từ ngày 16/6/2014)
 
-**Mã phân cấp:** 2400900000000000100000280250750013000010
+1. Phạm vi điều chỉnh
 
-**ID:** dk_00038164
+Thông tư này hướng dẫn một số nội dung khuyến khích phát triển ngành mây tre theo Quyết định 11/2011/QĐ-TTg của Thủ tướng Chính phủ.
 
----
+2. Đối tượng áp dụng
 
-
-### Điều 24.9.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
+Thông tư này áp dụng đối với các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn trong nước, người Việt Nam định cư ở nước ngoài, tổ chức và cá nhân nước ngoài thực hiện các hoạt động phát triển ngành mây tre theo Quyết định 11/2011/QĐ-TTg của Thủ tướng Chính phủ.
 
 Điều 24.9.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 89/2014/TT-BTC Hướng dẫn hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất do thực hiện chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp ngày 07/07/2014 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 22/08/2014 )
 
-**Mã phân cấp:** 2400900000000000100000280251450089000010
+1. Phạm vi điều chỉnh:
 
-**ID:** dk_00038165
+Thông tư này hướng dẫn về điều kiện, hồ sơ, thủ tục, quy trình hỗ trợ lãi suất và cấp bù chênh lệch lãi suất thông qua các ngân hàng thương mại để thực hiện cho vay theo quy định tại Điều 1 và Điều 2 Quyết định số 68/2013/QĐ-TTg ngày 14/11/2013 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp (sau đây gọi tắt là Quyết định số 68/2013/QĐ-TTg).
 
----
+2. Đối tượng áp dụng:
 
+2.1 Ngân hàng thương mại được thành lập và hoạt động theo Luật các tổ chức tín dụng (sau đây gọi chung là ngân hàng thương mại) thực hiện cho vay theo quy định tại Điều 1 và Điều 2 Quyết định số 68/2013/QĐ-TTg.
 
-### Điều 24.9.TT.6.1. Phạm vi điều chỉnh, đối tượng áp dụng
+2.2 Cơ quan, tổ chức, cá nhân có liên quan.
+
+(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. )
 
 Điều 24.9.TT.6.1. Phạm vi điều chỉnh, đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 02/2020/TT-BNNPTNT Quy định tiêu trí kinh tế trang trại ngày 28/02/2020 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 14/04/2020 )
 
-**Mã phân cấp:** 2400900000000000100000280272070002000010
+1. Phạm vi điều chỉnh: Thông tư này quy định tiêu chí, chế độ báo cáo về kinh tế trang trại.
 
-**ID:** dk_00038166
+2. Đối tượng áp dụng:
 
----
+a) Cá nhân, chủ hộ gia đình có hoạt động sản xuất kinh doanh trong lĩnh vực nông nghiệp (trồng trọt, chăn nuôi, lâm nghiệp, nuôi trồng thủy sản, diêm nghiệp) đáp ứng các tiêu chí kinh tế trang trại theo quy định của Thông tư này;
 
+b) Cơ quan quản lý nhà nước, các tổ chức, cá nhân khác có liên quan.
 
-### Điều 24.9.NĐ.3. Giải thích từ ngữ
+Điều 24.9.NĐ.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Chỉ mục:** 3
+ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 2400900000000000100000300000000000000000
+ 1. Nghề truyền thống là nghề đã được hình thành từ lâu đời, tạo ra những sản phẩm độc đáo, có tính riêng biệt, được lưu truyền và phát triển đến ngày nay hoặc có nguy cơ bị mai một, thất truyền.
 
-**ID:** dk_00038167
+ 2. Làng nghề là một hoặc nhiều cụm dân cư cấp thôn, ấp, bản, làng, buôn, phum, sóc hoặc các điểm dân cư tương tự tham gia hoạt động ngành nghề nông thôn quy định tại Điều 4 Nghị định này.
 
----
+ 3. Làng nghề truyền thống là làng nghề có nghề truyền thống được hình thành từ lâu đời.Điều 24.9.NĐ.1.3. Giải thích từ ngữ
 
+(Điều 3 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-### Điều 24.9.NĐ.1.3. Giải thích từ ngữ
+1. Vùng nông thôn là khu vực địa giới hành chính không bao gồm địa bàn phường thuộc thị xã, quận và thành phố.
 
-*Nội dung chưa có sẵn*
+2. Ngành, nghề ưu đãi đầu tư trong nông nghiệp, nông thôn bao gồm những ngành, nghề được quy định tại Phụ lục ban hành kèm theo Nghị định này (Phụ lục I) và những ngành, nghề khác theo Quyết định của Thủ tướng Chính phủ trong từng thời kỳ.
 
-**Chỉ mục:** 3
+3. Dự án nông nghiệp đặc biệt ưu đãi đầu tư là dự án thuộc danh mục ngành, nghề quy định tại Phụ lục I thực hiện tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định pháp luật về đầu tư.
 
-**Mã phân cấp:** 2400900000000000100000340265250057000030
+4. Dự án nông nghiệp ưu đãi đầu tư là dự án thuộc danh mục ngành, nghề quy định tại Phụ lục I thực hiện tại địa bàn có điều kiện kinh tế - xã hội khó khăn theo quy định pháp luật về đầu tư.
 
-**ID:** dk_00038168
+5. Dự án nông nghiệp khuyến khích đầu tư là dự án thuộc danh mục ngành, nghề quy định tại Phụ lục I thực hiện tại vùng nông thôn, không thuộc địa bàn đã quy định tại khoản 3 và 4 Điều này.
 
----
+6. Nông nghiệp quy định tại Nghị định này gồm: Nông nghiệp, lâm nghiệp, thủy sản, diêm nghiệp (bao gồm cả nuôi trồng dược liệu).
 
+7. Nông sản là sản phẩm của các ngành nông nghiệp, lâm nghiệp, thủy sản, diêm nghiệp.
 
-### Điều 24.9.QĐ.2.4. Giải thích từ ngữ
+8. Doanh nghiệp nông nghiệp nhỏ và vừa mới thành lập là doanh nghiệp chỉ đầu tư vào lĩnh vực nông nghiệp, nông thôn, có thời gian hoạt động không quá 05 năm kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp và đáp ứng điều kiện quy định của Luật Hỗ trợ doanh nghiệp nhỏ và vừa.
 
-*Nội dung chưa có sẵn*
+9. Doanh nghiệp tham gia liên kết chuỗi giá trị là doanh nghiệp có hợp đồng thu mua nông sản ổn định (ít nhất có thời hạn là 36 tháng) với nông dân hoặc các tổ chức đại diện của nông dân.
 
-**Chỉ mục:** 4
+Phu luc 1_NĐ57.2018.docx
 
-**Mã phân cấp:** 2400900000000000100000350239100011000040
+Điều 24.9.QĐ.2.4. Giải thích từ ngữ
 
-**ID:** dk_00038169
+(Điều 4 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
----
+1. Nguyên liệu mây là sản phẩm được khai thác từ các loài mây, song thuộc các chi Calamus và Daemonorops thuộc họ Cau dừa (Arecacae) sống trong rừng tự nhiên hoặc được gieo, trồng để sử dụng, chế biến hàng mây tre.
 
+2. Nguyên liệu tre là sản phẩm được khai thác từ các loài tre, nứa, bương, luồng, lồ ô, vầu, tầm vông,… thuộc phân họ tre (Bambusoideae), họ Cỏ (Poaceae) sống trong rừng tự nhiên hoặc được gieo, trồng để sản xuất hàng mây tre.
 
-### Điều 24.9.NĐ.4. Các hoạt động ngành nghề nông thôn
+3. Vùng nguyên liệu mây, tre, gồm: vùng nguyên liệu mây, tre tự nhiên thuần loài hoặc hỗn giao với cây gỗ, thuộc rừng phòng hộ và rừng sản xuất; vùng nguyên liệu mây tre trồng trên đất rừng phòng hộ, đất rừng sản xuất và các loại đất khác.
 
-*Nội dung chưa có sẵn*
+4. Ngành mây tre là tên gọi chung của ngành nghề sản xuất các loại hàng hóa sử dụng nguyên, vật liệu từ các loài mây, tre bao gồm các hoạt động từ tạo nguyên liệu đến khai thác, chế biến và tiêu thụ sản phẩm hàng mây tre.
 
-**Chỉ mục:** 4
+Điều 24.9.NĐ.4. Các hoạt động ngành nghề nông thôn
 
-**Mã phân cấp:** 2400900000000000100000400000000000000000
+(Điều 4 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**ID:** dk_00038170
+ Các hoạt động ngành nghề nông thôn quy định trong Nghị định này bao gồm:
 
----
+ 1. Chế biến, bảo quản nông, lâm, thủy sản.
 
+ 2. Sản xuất hàng thủ công mỹ nghệ.
 
-### Điều 24.9.NĐ.5. Tiêu chí công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
+ 3. Xử lý, chế biến nguyên vật liệu phục vụ sản xuất ngành nghề nông thôn.
+
+ 4. Sản xuất đồ gỗ, mây tre đan, gốm sứ, thủy tinh, dệt may, sợi, thêu ren, đan lát, cơ khí nhỏ.
+
+ 5. Sản xuất và kinh doanh sinh vật cảnh.
+
+ 6. Sản xuất muối.
+
+ 7. Các dịch vụ phục vụ sản xuất, đời sống dân cư nông thôn.Chương II
+
+CÔNG NHẬN NGHỀ TRUYỀN THỐNG, LÀNG NGHỀ, LÀNG NGHỀ TRUYỀN THỐNG
 
 Điều 24.9.NĐ.5. Tiêu chí công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000200000500000000000000000
+ 1. Tiêu chí công nhận nghề truyền thống, làng nghề, làng nghề truyền thống áp dụng đối với các đối tượng được quy định tại khoản 2 Điều 2 có hoạt động trong lĩnh vực ngành nghề nông thôn được quy định tại Điều 4 Nghị định này và các tổ chức, cá nhân có liên quan.
 
-**ID:** dk_00038172
+ 2. Tiêu chí công nhận nghề truyền thống
 
----
+ Nghề được công nhận là nghề truyền thống phải đạt cả 03 tiêu chí sau:
 
+ a) Nghề đã xuất hiện tại địa phương từ trên 50 năm và hiện đang tiếp tục phát triển tính đến thời điểm đề nghị công nhận.
 
-### Điều 24.9.NĐ.6. Công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
+ b) Nghề tạo ra những sản phẩm mang bản sắc văn hóa dân tộc.
+
+ c) Nghề gắn với tên tuổi của một hay nhiều nghệ nhân hoặc tên tuổi của làng nghề.
+
+ 3. Tiêu chí công nhận làng nghề
+
+ Làng nghề được công nhận phải đạt cả 03 tiêu chí sau:
+
+ a) Có tối thiểu 20% tổng số hộ trên địa bàn tham gia một trong các hoạt động hoặc các hoạt động ngành nghề nông thôn quy định tại Điều 4 Nghị định này.
+
+ b) Hoạt động sản xuất kinh doanh ổn định tối thiểu 02 năm liên tục tính đến thời điểm đề nghị công nhận.
+
+ c) Đáp ứng các điều kiện bảo vệ môi trường làng nghề theo quy định của pháp luật hiện hành.
+
+ 4. Tiêu chí công nhận làng nghề truyền thống
+
+ Làng nghề truyền thống phải đạt tiêu chí làng nghề quy định tại khoản 3 Điều này và có ít nhất một nghề truyền thống theo quy định tại khoản 2 Điều này.(Điều này có nội dung liên quan đến Điều 21.1.LQ.70. Bảo vệ môi trường làng nghề; Điều 21.1.NĐ.9.15. Quy định chung về bảo vệ môi trường làng nghề; Điều 21.1.TT.58.12. Điều kiện về bảo vệ môi trường làng nghề)
 
 Điều 24.9.NĐ.6. Công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000200000600000000000000000
+ 1. Hồ sơ đề nghị công nhận nghề truyền thống
 
-**ID:** dk_00038173
+ a) Bản tóm tắt quá trình hình thành, phát triển của nghề truyền thống.
 
----
+ b) Bản sao giấy chứng nhận, huy chương đã đạt được trong các cuộc thi, triển lãm trong nước và quốc tế hoặc có tác phẩm đạt nghệ thuật cao được cấp tỉnh, thành phố trở lên trao tặng (nếu có). Đối với những tổ chức, cá nhân không có điều kiện tham dự các cuộc thi, triển lãm hoặc không có tác phẩm đạt giải thưởng thì phải có bản mô tả đặc trưng mang bản sắc văn hóa dân tộc của nghề truyền thống.
 
+ c) Bản sao giấy công nhận Nghệ nhân nghề truyền thống của cơ quan có thẩm quyền (nếu có).
 
-### Điều 24.9.NĐ.7. Mặt bằng sản xuất
+ 2. Hồ sơ đề nghị công nhận làng nghề
 
-*Nội dung chưa có sẵn*
+ a) Danh sách các hộ tham gia hoạt động ngành nghề nông thôn.
 
-**Chỉ mục:** 7
+ b) Bản tóm tắt kết quả hoạt động sản xuất, kinh doanh của các tổ chức, cá nhân tham gia hoạt động ngành nghề nông thôn trong 02 năm gần nhất.
 
-**Mã phân cấp:** 2400900000000000300000700000000000000000
+ c) Văn bản bảo đảm điều kiện về bảo vệ môi trường theo quy định.
 
-**ID:** dk_00038175
+ 3. Hồ sơ đề nghị công nhận làng nghề truyền thống
 
----
+ a) Hồ sơ đề nghị công nhận làng nghề truyền thống bao gồm các văn bản quy định tại khoản 1 và khoản 2 Điều này.
 
+ b) Trường hợp đã được công nhận làng nghề, hồ sơ thực hiện theo quy định tại khoản 1 Điều này.
 
-### Điều 24.9.QĐ.2.12. Về đất đai
+ c) Trường hợp chưa được công nhận làng nghề nhưng có nghề truyền thống đã được công nhận, hồ sơ thực hiện theo quy định tại khoản 2 Điều này.
 
-*Nội dung chưa có sẵn*
+ 4. Trình tự xét công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
 
-**Chỉ mục:** 12
+ a) Ủy ban nhân dân quận, huyện, thị xã, thành phố trực thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp huyện) lập hồ sơ đề nghị công nhận nghề truyền thống, làng nghề, làng nghề truyền thống theo tiêu chí quy định tại Điều 5 Nghị định này trình Ủy ban nhân dân cấp tỉnh xét công nhận.
 
-**Mã phân cấp:** 2400900000000000300000750239100011000120
+ b) Trong thời hạn 30 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh thành lập Hội đồng xét duyệt, chọn những đối tượng đủ tiêu chuẩn theo quy định tại Điều 5 Nghị định này, ra quyết định và cấp bằng công nhận nghề truyền thống, làng nghề, làng nghề truyền thống.
 
-**ID:** dk_00038176
+ 5. Thời gian xét công nhận các nghề truyền thống, làng nghề, làng nghề truyền thống do Ủy ban nhân dân cấp tỉnh quyết định.
 
----
+ 6. Nghề truyền thống, làng nghề, làng nghề truyền thống sau khi được công nhận không đạt tiêu chí quy định sẽ bị thu hồi bằng công nhận. Ủy ban nhân dân cấp huyện có trách nhiệm tổng hợp danh sách, gửi Ủy ban nhân dân cấp tỉnh để xem xét, thu hồi bằng công nhận nghề truyền thống, làng nghề, làng nghề truyền thống.
 
+ 7. Ủy ban nhân dân cấp huyện báo cáo Ủy ban nhân dân cấp tỉnh việc quản lý bằng công nhận nghề truyền thống, làng nghề, làng nghề truyền thống và tình hình thực hiện các quy định về tiêu chí công nhận nghề truyền thống, làng nghề, làng nghề truyền thống trên địa bàn định kỳ một năm một lần trước ngày 30 tháng 11 hằng năm hoặc đột xuất theo yêu cầu để tổng hợp gửi báo cáo Bộ Nông nghiệp và Phát triển nông thôn.(Điều này có nội dung liên quan đến Điều 21.1.TT.58.12. Điều kiện về bảo vệ môi trường làng nghề)
 
-### Điều 24.9.NĐ.8. Về đầu tư, tín dụng
+Chương III
 
-*Nội dung chưa có sẵn*
+QUẢN LÝ VÀ PHÁT TRIỂN NGÀNH NGHỀ NÔNG THÔN
 
-**Chỉ mục:** 8
+Điều 24.9.NĐ.7. Mặt bằng sản xuất
 
-**Mã phân cấp:** 2400900000000000300000800000000000000000
+(Điều 7 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**ID:** dk_00038177
+ 1. Các cơ sở ngành nghề nông thôn đề xuất dự án đầu tư có hiệu quả được tạo điều kiện thuận lợi về giao đất có thu tiền sử dụng đất và được cấp giấy chứng nhận quyền sử dụng đất theo quy định của pháp luật về đất đai.
 
----
+ 2. Đối với dự án đầu tư đòi hỏi nghiêm ngặt về xử lý ô nhiễm môi trường, bảo đảm yêu cầu nghiên cứu, sản xuất sản phẩm mới được ưu tiên giao đất có thu tiền sử dụng đất hoặc thuê đất tại các khu, cụm công nghiệp tập trung.
 
+ 3. Ngân sách địa phương hỗ trợ kinh phí để di dời các cơ sở ngành nghề nông thôn ra khỏi khu dân cư đến địa điểm quy hoạch, mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quyết định.(Điều này có nội dung liên quan đến Điều 55. Giao đất có thu tiền sử dụng đất; Điều 56. Cho thuê đất; Điều 100. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất; Điều 101. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân đang sử dụng đất mà không có giấy tờ về quyền sử dụng đất; Điều 149. Đất khu công nghiệp, khu chế xuất, cụm công nghiệp, làng nghề của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 14. Quy định chi tiết về điều kiện đối với người được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư; Điều 20. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân đang sử dụng đất mà không có giấy tờ về quyền sử dụng đất và không vi phạm pháp luật đất đai; Điều 22. Việc xử lý, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với hộ gia đình, cá nhân sử dụng đất có vi phạm pháp luật đất đai trước ngày 01 tháng 7 năm 2014; Điều 23. Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân đã được giao không đúng thẩm quyền; Điều 24. Xác định diện tích đất ở khi cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân sử dụng đất có vườn, ao gắn liền với nhà ở; Điều 24a. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với diện tích đất tăng thêm so với giấy tờ về quyền sử dụng đất cho hộ gia đình, cá nhân đang sử dụng đất; Điều 25. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho tổ chức trong nước đang sử dụng đất không thuộc trường hợp quy định tại Điều 46 của Nghị định này; Điều 26. Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, khu sản xuất kinh doanh có nhiều mục đích sử dụng đất khác nhau; Điều 27. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh; Điều 28. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với đất do cơ sở tôn giáo đang sử dụng; Điều 29. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu; Điều 30. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp khu đất của một người sử dụng nằm trên nhiều đơn vị hành chính; Điều 36. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp Nhà nước đã có quyết định quản lý đối với đất đai, tài sản gắn liền với đất nhưng chưa thực hiện của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 24.8.NĐ.11. Đầu tư cơ sở hạ tầng; Điều 24.9.NĐ.1.5. Miễn, giảm tiền sử dụng đất)
 
-### Điều 24.9.QĐ.2.13. Về đầu tư và tín dụng
+Điều 24.9.QĐ.2.12. Về đất đai
 
-*Nội dung chưa có sẵn*
+(Điều 12 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Chỉ mục:** 13
+1. Ủy ban nhân dân cấp tỉnh tổ chức rà soát quy hoạch sử dụng đất, quy hoạch bảo vệ và phát triển rừng, dành quỹ đất cho phát triển vùng nguyên liệu, cơ sở chế biến công nghiệp và làng nghề sản xuất hàng mây tre.
 
-**Mã phân cấp:** 2400900000000000300000850239100011000130
+2. Đẩy nhanh tiến độ giao đất, giao rừng, cho thuê đất, cho thuê rừng, khoán bảo vệ rừng ổn định lâu dài và cấp Giấy chứng nhận quyền sử dụng đất cho tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn để phát triển vùng nguyên liệu, cơ sở chế biến công nghiệp và làng nghề sản xuất hàng mây tre theo quy định của pháp luật.
 
-**ID:** dk_00038178
+3. Các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn được giao, khoán, quản lý, sử dụng đất rừng sản xuất nằm trong vùng quy hoạch phát triển nguyên liệu mây, tre được sử dụng diện tích đất kém hiệu quả và đất chưa sử dụng để phát triển nguyên liệu. Khuyến khích các doanh nghiệp sản xuất, kinh doanh liên doanh, liên kết với các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn được giao, khoán đất và rừng để sản xuất nguyên liệu.
 
----
+4. Các doanh nghiệp có dự án đầu tư phát triển ngành mây tre được hưởng ưu đãi về miễn, giảm tiền sử dụng đất quy định tại Danh mục lĩnh vực nông nghiệp đặc biệt ưu đãi đầu tư ban hành kèm theo Nghị định số 61/2010/NĐ-CP ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn.
 
+5. Tổ chức, cá nhân, hộ gia đình được nhà nước giao đất, cho thuê đất để trồng mây, tre, phát triển sản xuất, kinh doanh hàng mây tre được hưởng ưu đãi về miễn, giảm tiền sử dụng đất, tiền thuê đất theo quy định của pháp luật về đất đai.
 
-### Điều 24.9.TL.1.6. Nguồn vốn thực hiện
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.1.5. Miễn, giảm tiền sử dụng đất; Điều 24.9.NĐ.1.6. Miễn, giảm tiền thuê đất, thuê mặt nước của Nhà nước; Điều 24.9.NĐ.1.7. Hỗ trợ tập trung đất đai)
 
-*Nội dung chưa có sẵn*
+Điều 24.9.NĐ.8. Về đầu tư, tín dụng
 
-**Chỉ mục:** 6
+(Điều 8 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 240090000000000030000085023910001100013000802507500134500600
+ Đối với các dự án sản xuất kinh doanh có hiệu quả được:
 
-**ID:** dk_00038179
+ 1. Hưởng ưu đãi đầu tư theo Luật đầu tư công.
 
----
+ 2. Được áp dụng các chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn.
 
+ 3. Được ưu tiên vay vốn từ các tổ chức tín dụng, Quỹ quốc gia về việc làm, Quỹ phát triển doanh nghiệp nhỏ và vừa, Quỹ phát triển khoa học và công nghệ quốc gia theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 22.3.NĐ.7.4. Các lĩnh vực cho vay phục vụ phát triển nông nghiệp, nông thôn; Điều 22.3.NĐ.7.7. Nguồn vốn cho vay; Điều 24.8.NĐ.12. Tín dụng hỗ trợ đầu tư vào sản xuất, kinh doanh muối; Điều 24.9.NĐ.1.8. Tiếp cận, hỗ trợ tín dụng; Điều 24.9.NĐ.1.11. Hỗ trợ đầu tư cơ sở: Bảo quản, chế biến nông sản; giết mổ gia súc, gia cầm; chế tạo thiết bị, linh kiện, máy nông nghiệp; sản xuất sản phẩm phụ trợ; Điều 24.9.QĐ.2.13. Về đầu tư và tín dụng; Điều 24.9.QĐ.3.2. ; Điều 24.9.QĐ.3.3. ; Điều 24.9.TT.4.3. Nguyên tắc cho vay; Điều 24.9.TT.4.4. Điều kiện vay vốn; Điều 24.9.TT.4.5. Lãi suất và mức cho vay; Điều 24.9.TT.4.6. Thời hạn cho vay)
 
-### Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi
+Điều 24.9.QĐ.2.13. Về đầu tư và tín dụng
+
+(Điều 13 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
+
+1. Về hỗ trợ đầu tư 
+
+a) Điều kiện nhận hỗ trợ
+
+- Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn được cấp có thẩm quyền giao hoặc cho thuê đất.
+
+- Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn được chủ rừng là tổ chức nhà nước giao khoán bảo vệ rừng ổn định lâu dài.
+
+b) Nội dung hỗ trợ cụ thể:
+
+- Trồng rừng mây, tre tập trung trên đất trống, đồi núi trọc là rừng sản xuất trong vùng quy hoạch phát triển nguyên liệu mây, tre được hỗ trợ vốn từ ngân sách nhà nước cụ thể như sau:
+
++ Tổ chức, hộ gia đình, cá nhân và cộng đồng dân cư thôn ở các xã đặc biệt khó khăn (theo quy định của Thủ tướng Chính phủ) trồng các loài tre, song, mây được hưởng mức hỗ trợ theo quy định tại Nghị quyết 30a/2008/NQ-CP ngày 27 tháng 12 năm 2008 của Chính phủ về chương trình hỗ trợ giảm nghèo nhanh và bền vững đối với các huyện nghèo.
+
++ Tổ chức, hộ gia đình, cá nhân và cộng đồng dân cư thôn không thuộc xã đặc biệt khó khăn (theo Quyết định số 164/2006/QĐ-TTg ngày 11 tháng 7 năm 2006 của Thủ tướng Chính phủ về việc phê duyệt danh sách xã đặc biệt khó khăn, xã biên giới, xã an toàn khu vào diện đầu tư chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn vùng đồng bào dân tộc và miền núi giai đoạn 2006 - 2010) trồng các loài tre: tre, song, mây được hưởng mức hỗ trợ theo quy định tại Quyết định 147/2007/QĐ-TTg ngày 10 tháng 9 năm 2007 của Thủ tướng Chính phủ về một số chính sách phát triển rừng sản xuất.
+
+- Trồng mây, tre phân tán trong vùng quy hoạch phát triển nguyên liệu mây, tre:
+
+Tổ chức, hộ gia đình, cá nhân và cộng đồng dân cư thôn được hỗ trợ 100% tiền mua cây giống lần đầu, mức cụ thể do Ủy ban nhân dân cấp tỉnh quyết định theo giá cây giống hàng năm trên địa bàn tỉnh.
+
+- Trồng mới rừng mây, tre trên đất trống, đồi núi trọc, khoán bảo vệ, khoanh nuôi xúc tiến tái sinh rừng tự nhiên thuộc đất rừng phòng hộ được hỗ trợ theo quy định tại Quyết định số 60/2010/QĐ-TTg ngày 30 tháng 9 năm 2010 của Thủ tướng Chính phủ về ban hành các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển bằng nguồn ngân sách nhà nước giai đoạn 2011 – 2015. Mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quyết định.
+
+2. Về tín dụng
+
+a) Tổ chức, hộ gia đình, cá nhân trồng mây, tre; chế biến, tiêu thụ và cung ứng các dịch vụ phục vụ sản xuất hàng mây tre được vay vốn tín dụng theo quy định tại Nghị định số 41/2010/NĐ-CP ngày 12 tháng 4 năm 2010 của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn.
+
+b) Các cơ sở sản xuất, kinh doanh có xuất khẩu hàng mây tre được vay vốn tín dụng xuất khẩu theo quy định của pháp luật hiện hành.
+
+3. Về ưu đãi đầu tư 
+
+Doanh nghiệp có dự án trồng mây, tre; sản xuất hàng mây tre; cung ứng các dịch vụ trực tiếp phục vụ trồng mây, tre và tiêu thụ sản phẩm hàng mây tre được hưởng các ưu đãi đầu tư, hỗ trợ đầu tư theo quy định tại Nghị định số 61/2010/NĐ-CP ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn và các văn bản hướng dẫn thi hành.
+
+(Điều này có nội dung liên quan đến Điều 22.3.NĐ.7.7. Nguồn vốn cho vay; Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 24.9.NĐ.1.8. Tiếp cận, hỗ trợ tín dụng)
+
+Điều 24.9.TL.1.6. Nguồn vốn thực hiện
+
+(Điều 6 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
+
+1. Nguồn vốn thực hiện
+
+a) Vốn ngân sách, bao gồm: Thực hiện theo qui định tại Quyết định số 11/2011/QĐ-TTg của Thủ tướng Chính phủ về chính sách khuyến khích phát triển ngành mây tre và các văn bản hướng dẫn thực hiện có liên quan;
+
+b) Nguồn vốn tín dụng, bao gồm: Vốn tín dụng đầu tư phát triển của Nhà nước; vốn tín dụng thương mại;
+
+c) Nguồn vốn khác bao gồm: Đóng góp, hỗ trợ, viện trợ không hoàn lại của các tổ chức, cá nhân, các doanh nghiệp trong và ngoài nước; nguồn vốn từ liên doanh liên kết trong nước; huy động từ các nguồn hợp pháp khác.
+
+2. Ủy ban nhân dân cấp tỉnh chủ động bố trí ngân sách theo phân cấp để thực hiện các chính sách khuyến khích phát triển ngành mây tre trên địa bàn; thực hiện quản lý, sử dụng và lồng ghép các nguồn vốn để thực hiện chương trình có hiệu quả.
 
 Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 240090000000000030000085023910001100013000802507500134500700
+Trồng, khai thác, chế biến và tiêu thụ các sản phẩm về mây tre trên cơ sở thực hiện theo quy định của các nghị định, quyết định, thông tư, các dự án bao gồm từ khâu quy hoạch, thiết kế, thẩm định dự án, mức hỗ trợ cho công tác khuyến nông, khuyến công, xây dựng mô hình, đầu tư hỗ trợ về khoa học công nghệ, đào tạo nghề, khuyến khích các doanh nghiệp tham gia đầu tư vào nông nghiệp, nông thôn và xúc tiến thương mại. (*Danh mục các văn bản có liên quan tại Phụ lục ban hành kèm theo Thông tư này*).
 
-**ID:** dk_00038180
+1. Về lập quy hoạch phát triển ngành mây tre
 
----
+a) Quy hoạch vùng nguyên liệu mây tre: Thực hiện theo quy định tại Điều 5, Điều 6 Quyết định 11/2011/QĐ-TTg;
 
+b) Quy hoạch cơ sở chế biến hàng mây tre: Thực hiện theo quy định tại Điều 8, Điều 9, Điều 10 Quyết định 11/2011/QĐ-TTg;
 
-### Điều 24.9.TL.1.8. Lập,giao dự toán, phân bổ, quản lý và quyết toán nguồn vốn do ngân sách nhà nước cấp
+c) Việc lập, thẩm định, phê duyệt và quản lý quy hoạch: Thực hiện theo quy định tại Nghị định số 92/2006/NĐ-CP ngày 07/9/2006 của Chính phủ về lập, phê duyệt và quản lý quy hoạch tổng thể phát triển kinh tế - xã hội; Nghị định 04/2008/NĐ-CP ngày 11/01/2008 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 92/2006/NĐ-CP;
+
+d) Ủy ban nhân dân cấp tỉnh tổ chức xây dựng và phê duyệt quy hoạch vùng nguyên liệu mây tre, quy hoạch cơ sở sản xuất hàng mây tre. Kinh phí xây dựng, thẩm định và thực hiện quy hoạch từ nguồn ngân sách địa phương.
+
+2. Về lập kế hoạch phát triển ngành mây tre
+
+Lập kế hoạch phát triển ngành mây tre: Thực hiện theo kế hoạch bảo vệ và phát triển rừng giai đoạn 2011-2020; Mục III về cơ chế, chính sách, pháp luật của Quyết định số 57/QĐ-TTg ngày 09 tháng 01 năm 2012 của Thủ tướng Chính phủ về phê duyệt kế hoạch bảo vệ và phát triển rừng giai đoạn 2011-2020.
+
+3. Về lập dự án đầu tư phát triển và chế biến mây tre
+
+a) Việc lập, thẩm định và phê duyệt Dự án đầu tư trồng mây, tre: Thực hiện theo quy định tại Điều 15 Quyết định số 147/2007/QĐ-TTg ngày 10 tháng 9 năm 2007 của Thủ tướng Chính phủ về một số chính sách phát triển rừng sản xuất giai đoạn 2007-2015 (*sau đây gọi là Quyết định 147/2007/QĐ-TTg*); Điều 6, Điều 7 Thông tư liên tịch số 10/2013/TTLT-BNNPTNT-BKHĐT ngày 01 tháng 02 năm 2013 của Bộ Nông nghiệp và Phát triển nông thôn và Bộ Kế hoạch và Đầu tư hướng dẫn quản lý, sử dụng vốn đầu tư từ ngân sách nhà nước thực hiện Kế hoạch bảo vệ và phát triển rừng giai đoạn 2011 - 2020 theo Quyết định số 57/QĐ-TTg ngày 09/01/2012 của Thủ tướng Chính phủ.
+
+Trường hợp trồng cả cây lấy gỗ và mây tre, chủ đầu tư được lập chung một dự án. Nếu dự án trồng cây lấy gỗ đã được phê duyệt mà chuyển sang trồng mây tre hoặc bổ sung thêm trồng mây tre, chủ đầu tư báo cáo Sở Nông nghiệp và Phát triển nông thôn bổ sung thêm vào dự án đã có và điều chỉnh lại suất đầu tư cho phù hợp;
+
+b) Đối với dự án trồng mây tre bảo vệ bờ sông, bờ kênh, bờ suối, bờ hồ kết hợp cung cấp nguyên liệu cho chế biến, Sở Nông nghiệp và Phát triển nông thôn lập một dự án chung trình Ủy ban nhân dân cấp tỉnh phê duyệt. Trên cơ sở căn cứ ranh giới hành chính của huyện, Ủy ban nhân dân cấp tỉnh giao cho chính quyền cấp huyện hoặc tổ chức lâm nghiệp trên địa bàn triển khai đầu tư theo hình thức khoán cho tổ chức, hộ gia đình, cá nhân trồng và hưởng lợi. Phạm vi trồng dọc theo bờ sông, bờ kênh, bờ suối, bờ hồ với mật độ quy ra 1 héc-ta tối thiểu đạt 300 khóm. Mức hỗ trợ này như trồng rừng phòng hộ theo Quyết định số 60/2010/QĐ-TTg ngày 30/09/2010 của Thủ tướng Chính phủ về ban hành các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển bằng nguồn vốn ngân sách nhà nước giai đoạn 2011 - 2015;
+
+c) Hỗ trợ chi phí cho khảo sát, thiết kế thẩm định dự án, cấp chứng chỉ bền vững, giao, cấp giấy chứng nhận quyền sử dụng đất, khoán đất trồng rừng cho hộ gia đình, cá nhân, tổ chức cộng đồng: Thực hiện theo điểm đ khoản 1 Điều 1 Quyết định số 66/2011/QĐ-TTg ngày 9/12/2011 của Thủ tướng Chính phủ về sửa đổi bổ sung một số điều của Quyết định số 147/2007/QĐ-TTg (*sau đây gọi là Quyết định 66/2011/QĐ-TTg*). Mức chi phí này được tính ngoài tổng mức hỗ trợ đầu tư cho trồng mây tre;
+
+d) Đối với các nhà máy chế biến gỗ đã được cấp giấy chứng nhận đầu tư nay chuyển sang chế biến mây, tre không phải thay đổi giấy chứng nhận đầu tư đã cấp, chỉ báo cáo Sở Kế hoạch và Đầu tư trước khi đầu tư bằng văn bản.
+
+4. Về xác định, thực hiện mức hỗ trợ trồng mây tre
+
+Chi tiết các mục hỗ trợ được thực hiện theo quy định tại khoản 9 Mục II Thông tư liên tịch số 03/2012/TTLT-BKHĐT-BNNPTNT-BTC ngày 05/6/2012 của Bộ Kế hoạch và Đầu tư, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài chính hướng dẫn thực hiện Quyết định số 147/2007/QĐ-TTg và Quyết định số 66/2011/QĐ-TTg của Thủ tướng Chính phủ, Thông tư liên tịch số 04/2013/TTLT-BKHĐT-BNNPTNT-BTC ngày 19/8/2013 sửa đổi, bổ sung một số quy định tại Thông tư liên tịch số 03/2012/TTLT-BKHĐT- BNNPTNT-BTC. Mức hỗ trợ các hạng mục được lấy từ nguồn kinh phí phân bổ hàng năm theo kế hoạch của các địa phương.
+
+5. Về xây dựng mô hình trình diễn phát triển vùng nguyên liệu và chế biến mây tre
+
+a) Đối với mô hình trình diễn hỗ trợ từ nguồn vốn khuyến nông
+
+Hỗ trợ xây dựng mô hình trình diễn trồng mây tre cho các tổ chức và hộ gia đình bao gồm chi phí để mua giống và vật tư thiết yếu: Thực hiện theo quy định tại điểm b khoản 2, điểm b khoản 3 Điều 5, Thông tư số 15/2013/TT-BNNPTNT ngày 26 tháng 02 năm 2013 về quy định thực hiện một số điều của Nghị định số 02/2010/NĐ-CP ngày 08 tháng 01 năm 2010 của Chính phủ về Khuyến nông;
+
+b) Đối với mô hình trình diễn hỗ trợ từ nguồn vốn khuyến công
+
+Đối với mô hình trình diễn hỗ trợ xây dựng mô hình chế biến hàng mây tre cho các tổ chức: Thực hiện theo quy định tại Điều 4 khoản 2 Thông tư số 46/2012/TT-BCT ngày 28 tháng 12 năm 2012 của Bộ Công Thương về quy định chi tiết một số nội dung của Nghị định số 45/2012/NĐ-CP ngày 21 tháng 5 năm 2012 của Chính phủ về Khuyến công;
+
+c) Đối với các mô hình trình diễn phát triển vùng nguyên liệu và chế biến mây tre ở địa phương: Thực hiện theo quy định tại Điều 7 khoản 5 điểm a, b của Thông tư liên tịch này. Nội dung chi và mức hỗ trợ cho xây dựng mô hình trình diễn của địa phương do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định cụ thể phù hợp quy định hiện hành;
+
+đ) Nguồn kinh phí dành cho xây dựng các mô hình tại cấp Trung ương và địa phương thực hiện trong nguồn kinh phí khuyến nông theo các Điều 18, 19, 20 của Nghị định số 02/2010/NĐ-CP ngày 08 tháng 01 năm 2010 của Chính phủ về Khuyến nông; nguồn kinh phí khuyến công tại Điều 12, 13, 14 của Nghị định số 45/2012/NĐ-CP ngày 21 tháng 5 năm 2012 của Chính phủ về Khuyến công.
+
+6. Về tập huấn, đào tạo, dạy nghề
+
+a) Tập huấn ngắn hạn cho cán bộ làm công tác quản lý, cán bộ kỹ thuật, cán bộ khuyến nông các cấp: Thực hiện theo quy định tại Thông tư 139/2010/TT-BTC ngày 21/9/2010 của Bộ Tài chính quy định việc lập dự toán, quản lý và sử dụng kinh phí từ ngân sách nhà nước dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức;
+
+b) Đào tạo cho người sản xuất: Nội dung chi và mức chi quy định tại Thông tư liên tịch số 183/2010/TTLT-BTC-BNN ngày 15/11/2010 của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn về hướng dẫn việc quản lý, sử dụng kinh phí sự nghiệp kinh tế do ngân sách nhà nước cấp hàng năm để thực hiện hoạt động khuyến nông;
+
+c) Dạy nghề cho lao động ở nông thôn phát triển vùng nguyên liệu sản xuất hàng mây tre: Thực hiện theo quy định tại Quyết định số 1956/QĐ-TTg ngày 27 tháng 11 năm 2009 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo nghề cho lao động nông thôn đến năm 2020”; Thông tư liên tịch số 30/2012/TTLT-BLĐTBXH-BNV-BNNPTNT-BCT-BTTTT ngày 12/12/2012 hướng dẫn trách nhiệm tổ chức thực hiện Quyết định số 1956/QĐ-TTg ngày 27/11/2009 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo nghề cho lao động nông thôn đến năm 2020;
+
+d) Về kinh phí cho đào tạo nghề chế biến hàng mây tre từ nguồn bố trí đào tạo nghề cho lao động nông thôn theo quy định tại khoản 4 Mục 6 Quyết định số 1956/QĐ-TTg ngày 27 tháng 11 năm 2009 của Thủ tướng Chính phủ.
+
+7. Về khuyến khích doanh nghiệp đầu tư vào trồng, khai thác và chế biến mây tre
+
+a) Các tổ chức, cá nhân đầu tư vào trồng, chế biến mây tre được hưởng ưu đãi và hỗ trợ đầu tư theo quy định tại Nghị định số 61/2010/NĐ-CP ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn;
+
+b) Nguồn kinh phí để thực hiện chính sách cho các doanh nghiệp đầu tư vào trồng, chế biến mây tre do Ủy ban nhân dân cấp tỉnh cân đối trong kế hoạch hàng năm.
+
+8. Về xúc tiến thương mại đối với hàng mây tre
+
+a) Để hỗ trợ các hoạt động xúc tiến thương mại phục vụ xuất khẩu và tiêu thụ trong nước thực hiện theo Chương II Điều 9, 10, 11, 12 quy chế xây dựng, quản lý và thực hiện Chương trình xúc tiến thương mại quốc gia ban hành kèm theo Quyết định số 72/2011/QĐ-TTg ngày 15/11/2010 của Thủ tướng Chính phủ;
+
+b) Nguồn kinh phí hỗ trợ cho hoạt động xúc tiến thương mại thực hiện theo kế hoạch xúc tiến thương mại hàng năm ở các địa phương do Ủy ban nhân dân cấp tỉnh quyết định.
+
+(Điều này có nội dung liên quan đến Điều 9. Định mức đơn giá chi phí cho lập, thẩm định dự án quy hoạch; Điều 10. Trách nhiệm lập và trình phê duyệt quy hoạch; Điều 11. Quản lý quy hoạch; Điều 28. Trình tự lập quy hoạch phát triển ngành, lĩnh vực của Nghị định 92/2006/NĐ-CP Về lập, phê duyệt và quản lý quy hoạch tổng thể phát triển kinh tế - xã hội ban hành ngày 07/09/2006; Điều 1. của Nghị định 04/2008/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 92/2006/NĐ-CP ngày 07 tháng 9 năm 2006 của Chính phủ về lập, phê duyệt và quản lý quy hoạch tổng thể phát triển kinh tế - xã hội ban hành ngày 11/01/2008; Điều 6. Lập, thẩm định và phê duyệt dự án bảo vệ và phát triển rừng; Điều 7. Lập và phê duyệt thiết kế kỹ thuật các công trình lâm sinh và công trình hạ tầng cơ sở kỹ thuật phục vụ cho bảo vệ và phát triển rừng của Thông tư liên tịch 10/2013/TTLT-BNNPTNT-BKHĐT Hướng dẫn quản lý, sử dụng vốn đầu tư từ ngân sách nhà nước thực hiện Kế hoạch bảo vệ và phát triển rừng giai đoạn 2011 - 2020 theo Quyết định số 57/QĐ-TTg ngày 09/01/2012 của Thủ tướng Chính phủ ban hành ngày 01/02/2013; Điều 5. Phạm vi và mức hỗ trợ kinh phí đối với Chương trình Xúc tiến thương mại định hướng xuất khẩu; Điều 6. Phạm vi và mức hỗ trợ kinh phí đối với Chương trình Xúc tiến thương mại thị trường trong nước; Điều 7. Phạm vi và mức hỗ trợ kinh phí đối với Chương trình Xúc tiến thương mại miền núi, biên giới và hải đảo của Thông tư 171/2014/TT-BTC Hướng dẫn cơ chế tài chính hỗ trợ từ ngân sách nhà nước để thực hiện Chương trình Xúc tiến thương mại quốc gia ban hành ngày 14/11/2014; Điều 7.5.NĐ.12. Kinh phí khuyến công quốc gia; Điều 7.5.NĐ.13. Kinh phí khuyến công địa phương; Điều 7.5.NĐ.14. Quản lý kinh phí khuyến công quốc gia và kinh phí khuyến công địa phương; Điều 34.3.QĐ.2.1. ; Điều 24.9.QĐ.2.5. Định hướng phát triển vùng nguyên liệu; Điều 24.9.QĐ.2.6. Quy hoạch phát triển vùng nguyên liệu; Điều 24.9.QĐ.2.8. Định hướng phát triển các cơ sở sản xuất hàng mây tre; Điều 24.9.QĐ.2.9. Quy hoạch các cơ sở sản xuất hàng mây tre; Điều 24.9.QĐ.2.10. Quy hoạch các làng nghề sản xuất hàng mây tre; Điều 7.5.TT.1.4. Quy định chi tiết một số nội dung hoạt động khuyến công quy định tại Điều 4 Nghị định số 45/2012/NĐ-CP)
 
 Điều 24.9.TL.1.8. Lập,giao dự toán, phân bổ, quản lý và quyết toán nguồn vốn do ngân sách nhà nước cấp
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 240090000000000030000085023910001100013000802507500134500800
+Việc lập, giao dự toán, phân bổ quản lý và quyết toán nguồn vốn do ngân sách nhà nước cấp thực hiện theo các quy định của pháp luật hiện hành.
 
-**ID:** dk_00038181
+Điều 24.9.NĐ.9. Xúc tiến thương mại
 
----
+(Điều 9 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
+ 1. Nhà nước khuyến khích, tạo điều kiện thuận lợi và hỗ trợ cho các cơ sở ngành nghề nông thôn hoạt động xúc tiến thương mại theo quy định hiện hành của Chương trình xúc tiến thương mại quốc gia.
 
-### Điều 24.9.NĐ.9. Xúc tiến thương mại
+ 2. Nhà nước tổ chức các hoạt động xúc tiến thương mại liên quan hỗ trợ cơ sở ngành nghề nông thôn:
 
-*Nội dung chưa có sẵn*
+ a) Xây dựng trang thông tin điện tử giới thiệu sản phẩm, bán hàng trực tuyến; thiết kế mẫu mã sản phẩm, bao bì đóng gói; xây dựng thương hiệu, chỉ dẫn địa lý xuất xứ hàng hóa, bảo hộ sở hữu thương hiệu;
 
-**Chỉ mục:** 9
+ b) Hội thi sản phẩm thủ công Việt Nam.
 
-**Mã phân cấp:** 2400900000000000300000900000000000000000
+ 3. Cơ sở ngành nghề nông thôn tham gia các hoạt động xúc tiến thương mại quy định tại khoản 2 Điều này được ngân sách nhà nước hỗ trợ:
 
-**ID:** dk_00038182
+ a) Chi hỗ trợ thuê tư vấn, hỗ trợ trực tiếp cho các cơ sở ngành nghề nông thôn các nội dung quy định tại điểm a khoản 2 Điều này. Mức hỗ trợ tối đa 50% chi phí, nhưng không quá 50 triệu đồng/cơ sở.
 
----
+ b) Chi 100% chi phí: Thuê mặt bằng trình diễn sản phẩm; tổ chức hội thi; ăn nghỉ, đi lại đối với nội dung quy định tại điểm b khoản 2 Điều này.
 
+ 4. Nguồn kinh phí và cơ chế hỗ trợ tài chính từ ngân sách nhà nước theo quy định hiện hành của Chương trình xúc tiến thương mại quốc gia; các chương trình, kế hoạch xúc tiến thương mại, các chương trình, kế hoạch khuyến công, khuyến nông hàng năm của các bộ, ngành, địa phương.(Điều này có nội dung liên quan đến Điều 24.9.NĐ.1.10. Hỗ trợ đào tạo nguồn nhân lực, phát triển thị trường; Điều 24.9.QĐ.2.18. Về thị trường tiêu thụ sản phẩm)
 
-### Điều 24.9.QĐ.2.18. Về thị trường tiêu thụ sản phẩm
+Điều 24.9.QĐ.2.18. Về thị trường tiêu thụ sản phẩm
 
-*Nội dung chưa có sẵn*
+(Điều 18 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Chỉ mục:** 18
+1. Nhà nước khuyến khích các doanh nghiệp, cơ sở sản xuất kinh doanh, tiêu thụ, xuất khẩu hàng mây tre ký hợp đồng tiêu thụ lâu dài, ổn định với các hộ nông dân.
 
-**Mã phân cấp:** 2400900000000000300000950239100011000180
+2. Các doanh nghiệp sản xuất, kinh doanh mây tre được nhà nước hỗ trợ kinh phí xúc tiến thương mại trong và ngoài nước theo quy định tại Nghị định số 61/2010/NĐ-CP ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn và các văn bản hướng dẫn thi hành; các chương trình và nguồn kinh phí xúc tiến thương mại hàng năm của các Bộ, ngành và địa phương.
 
-**ID:** dk_00038183
+3. Khuyến khích thành lập các trung tâm nghiên cứu, thiết kế mẫu mã, sản phẩm mới phục vụ cho các cơ sở sản xuất theo định hướng đáp ứng nhu cầu nhập khẩu sản phẩm mây tre của thị trường trong và ngoài nước.
 
----
+4. Tổ chức thực hiện việc cung cấp thông tin thường xuyên về thị trường, những quy định về chất lượng, mẫu mã sản phẩm, thị hiếu tiêu dùng, các rào cản kỹ thuật để cơ sở sản xuất hàng mây, tre có cơ sở định hướng sản xuất, xuất khẩu phù hợp.
 
+5. Ủy ban nhân dân cấp tỉnh có trách nhiệm tạo điều kiện bố trí địa điểm thuận lợi, hỗ trợ kinh phí để xây dựng chợ mua bán nguyên liệu mây, tre gắn với vùng nguyên liệu tập trung; xây dựng các chợ, cửa hàng, trung tâm ở địa phương có làng nghề, các điểm du lịch để quảng bá giới thiệu và tiêu thụ sản phẩm; thực hiện thí điểm phát triển làng nghề mây tre gắn với các tuyến, điểm du lịch làng nghề.
 
-### Điều 24.9.NĐ.10. Khoa học công nghệ
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.9. Xúc tiến thương mại)
 
-*Nội dung chưa có sẵn*
+Điều 24.9.NĐ.10. Khoa học công nghệ
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000300001000000000000000000
+ 1. Cơ sở ngành nghề nông thôn khi thực hiện các hoạt động triển khai ứng dụng kết quả khoa học và công nghệ, đổi mới công nghệ, sản xuất sản phẩm mới và thực hiện các dịch vụ khoa học công nghệ hay tiếp nhận tiến bộ khoa học kỹ thuật từ các tổ chức, cá nhân trong và ngoài nước thì được hưởng các ưu đãi theo chính sách và cơ chế tài chính khuyến khích các doanh nghiệp đầu tư vào hoạt động khoa học công nghệ và nông nghiệp, nông thôn.
 
-**ID:** dk_00038184
+ 2. Cơ sở ngành nghề nông thôn thực hiện đề tài nghiên cứu độc lập hoặc phối hợp với các cơ quan nghiên cứu khoa học để tạo ra công nghệ mới, hoàn thiện sản phẩm nghiên cứu có khả năng thương mại hóa thuộc lĩnh vực ngành nghề nông thôn thì được Nhà nước hỗ trợ kinh phí từ nguồn kinh phí sự nghiệp khoa học công nghệ theo quy định hiện hành.
 
----
+ 3. Khuyến khích áp dụng khoa học công nghệ vào sản xuất ở làng nghề truyền thống để tăng năng suất, nâng cao khả năng cạnh tranh gắn với bảo tồn, phát huy bản sắc văn hóa của nghề truyền thống.(Điều này có nội dung liên quan đến Điều 19.2.LQ.49. Công nghệ khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 19.2.LQ.50. Trách nhiệm của tổ chức, cá nhân trong hoạt động chuyển giao công nghệ cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 19.2.LQ.51. Trách nhiệm của cơ quan quản lý nhà nước trong hoạt động chuyển giao công nghệ cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn; Điều 24.8.NĐ.13. Khuyến khích ứng dụng khoa học và công nghệ; Điều 24.9.NĐ.1.9. Hỗ trợ doanh nghiệp nghiên cứu, chuyển giao, ứng dụng nông nghiệp công nghệ cao)
 
+Điều 24.9.QĐ.2.14. Về khoa học công nghệ
 
-### Điều 24.9.QĐ.2.14. Về khoa học công nghệ
+(Điều 14 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-*Nội dung chưa có sẵn*
+1. Nhà nước khuyến khích các nhà đầu tư, cơ sở sản xuất kinh doanh ngành hàng mây tre đầu tư nghiên cứu ứng dụng và sử dụng khoa học, công nghệ tiên tiến trong việc chọn, tạo giống, bảo quản, chế biến các sản phẩm mây tre; tăng cường liên doanh, liên kết giữa nhà quản lý, khoa học, doanh nghiệp và người trồng mây, tre.
 
-**Chỉ mục:** 14
+2. Ngân sách nhà nước hỗ trợ 100% kinh phí để thực hiện:
 
-**Mã phân cấp:** 2400900000000000300001050239100011000140
+a) Điều tra trữ lượng, diện tích các giống mây, tre; xây dựng bộ sưu tập giống mây, tre có giá trị kinh tế cao, thích nghi với từng vùng sinh thái.
 
-**ID:** dk_00038185
+b) Nghiên cứu và thử nghiệm giống mây tre mới; tổ chức khảo nghiệm, kiểm nghiệm giống mây tre nhằm tuyển chọn các giống mới có năng suất cao, chất lượng tốt bổ sung vào cơ cấu giống mây tre.
 
----
+c) Ứng dụng thiết bị, công nghệ tiên tiến, công nghệ sinh học vào các khâu bảo quản, chế biến mây tre.
 
+d) Các đề tài nghiên cứu tiến bộ kỹ thuật, công nghệ tiên tiến, chế tạo máy móc, thiết bị hiện đại trong việc tạo giống, trồng, chăm sóc, khai thác, chế biến, sản xuất các mặt hàng mây tre của các viện nghiên cứu, các trường đại học thực hiện.
 
-### Điều 24.9.NĐ.11. Đào tạo nhân lực
+Nguồn kinh phí bố trí hàng năm từ Chương trình hỗ trợ ứng dụng và chuyển giao tiến bộ khoa học và công nghệ phục vụ phát triển kinh tế - xã hội nông thôn miền núi giai đoạn 2011 – 2015 tại Quyết định số 1831/QĐ-TTg ngày 01 tháng 10 năm 2010 của Thủ tướng Chính phủ; các chương trình, dự án và nguồn vốn sự nghiệp khoa học của các Bộ, ngành có liên quan. Mức kinh phí hỗ trợ cụ thể theo dự toán được cấp có thẩm quyền phê duyệt hàng năm.
 
-*Nội dung chưa có sẵn*
+3. Ngân sách địa phương hỗ trợ kinh phí thực hiện:
 
-**Chỉ mục:** 11
+a) Khôi phục các giống mây, tre của địa phương, các giống mây tre không còn nguồn giống gốc có giá trị kinh tế cao.
 
-**Mã phân cấp:** 2400900000000000300001100000000000000000
+b) Xây dựng vườn ươm để khảo nghiệm đối với các giống mây, tre mới trước khi trồng ở địa phương.
 
-**ID:** dk_00038186
+c) Đào tạo, hướng dẫn, xây dựng mô hình để chuyển giao nhanh giống mới, phương pháp canh tác, công nghệ bảo quản, chế biến mây tre tiên tiến; cung cấp thông tin khoa học công nghệ mới cho nông dân và các cơ sở sản xuất kinh doanh. Mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định.
 
----
+4. Về hỗ trợ áp dụng khoa học công nghệ: cơ sở sản xuất kinh doanh ngành hàng mây tre có dự án đầu tư phát triển vùng nguyên liệu, sản xuất hàng mây tre được Quỹ Hỗ trợ phát triển khoa học và công nghệ hỗ trợ 50% kinh phí thực hiện đề tài nghiên cứu tạo ra công nghệ mới do doanh nghiệp chủ trì thực hiện; hỗ trợ 30% tổng kinh phí đầu tư mới để thực hiện dự án sản xuất thử nghiệm được cấp có thẩm quyền phê duyệt (không tính trang thiết bị, nhà xưởng đã có vào tổng mức kinh phí).
 
+5. Xây dựng các tiêu chuẩn, quy chuẩn về gây trồng, chăm sóc, bảo quản, chế biến mây tre.
 
-### Điều 24.9.QĐ.2.15. Về lao động và đào tạo
+6. Xây dựng hệ thống các tiêu chuẩn, quy chuẩn kỹ thuật để quản lý chất lượng sản phẩm hàng mây tre đảm bảo tiêu chuẩn về sức khỏe cộng đồng và môi trường.
 
-*Nội dung chưa có sẵn*
+7. Bộ Nông nghiệp và Phát triển nông thôn thành lập Trung tâm nghiên cứu, ứng dụng, chuyển giao khoa học công nghệ phát triển ngành mây tre.
 
-**Chỉ mục:** 15
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.12. Hỗ trợ phát triển ngành nghề nông thôn; Điều 24.9.NĐ.1.9. Hỗ trợ doanh nghiệp nghiên cứu, chuyển giao, ứng dụng nông nghiệp công nghệ cao)
 
-**Mã phân cấp:** 2400900000000000300001150239100011000150
+Điều 24.9.NĐ.11. Đào tạo nhân lực
 
-**ID:** dk_00038187
+(Điều 11 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
----
+1. Người làm nghề truyền thống; người làm nghề tại làng nghề, làng nghề truyền thống và người làm việc tại các cơ sở ngành nghề nông thôn, được hỗ trợ đào tạo nghề nghiệp theo quy định hiện hành.
 
+2. Các nghệ nhân trong lĩnh vực ngành nghề nông thôn được Nhà nước hỗ trợ kinh phí tổ chức đào tạo nghiệp vụ sư phạm nghề nghiệp, kỹ năng dạy học; được thù lao theo quy định khi tham gia đào tạo nghề nghiệp cho lao động nông thôn. Khi nghệ nhân trực tiếp truyền nghề được thu tiền học phí của người học trên nguyên tắc thỏa thuận.
 
-### Điều 24.9.NĐ.12. Hỗ trợ phát triển ngành nghề nông thôn
+3. Ngân sách địa phương hỗ trợ một phần chi phí lớp học cho các cơ sở ngành nghề nông thôn trực tiếp mở lớp truyền nghề. Đối với đào tạo theo hình thức kèm cặp nghề, truyền nghề của nghệ nhân, thợ thủ công được quyết toán theo số lượng thực tế. Nội dung, mức chi hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quyết định.
+
+4. Các dự án đầu tư cơ sở dạy nghề nông thôn được hưởng các chính sách về đào tạo nghề cho lao động nông thôn theo quy định.
+
+5. Nguồn kinh phí thực hiện do ngân sách đảm bảo từ nguồn chi sự nghiệp giáo dục, đào tạo, dạy nghề; Chương trình mục tiêu quốc gia xây dựng nông thôn mới, các chương trình, dự án có liên quan và các nguồn hợp pháp khác. Nội dung chi và mức chi theo quy định về chính sách đào tạo nghề cho lao động nông thôn.
+
+(Điều này có nội dung liên quan đến Điều 24.8.NĐ.14. Đào tạo nguồn nhân lực; Điều 19.2.NĐ.2.6. Bồi dưỡng, tập huấn và đào tạo; Điều 24.9.QĐ.2.15. Về lao động và đào tạo; Điều 20.1.QĐ.1.2. Đối tượng áp dụng; Điều 20.1.QĐ.1.3. Nguyên tắc hỗ trợ đào tạo trình độ sơ cấp, đào tạo dưới 03 tháng; Điều 20.1.QĐ.1.4. Mức hỗ trợ chi phí đào tạo; Điều 20.1.QĐ.1.5. Mức hỗ trợ tiền ăn, tiền đi lại; Điều 20.1.QĐ.1.6. Kinh phí thực hiện chính sách hỗ trợ đào tạo)
+
+Điều 24.9.QĐ.2.15. Về lao động và đào tạo
+
+(Điều 15 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
+
+1. Lao động 
+
+Các cơ sở sản xuất, kinh doanh và hộ gia đình tham gia vào sản xuất, kinh doanh mây tre được vay vốn từ Quỹ quốc gia về việc làm thuộc Chương trình mục tiêu quốc gia về việc làm.
+
+2. Đào tạo
+
+a) Đào tạo đủ nguồn nhân lực, nhất là nguồn nhân lực chuyên sâu, chất lượng cao đáp ứng yêu cầu phát triển ngành mây, tre. Có chính sách ưu tiên cho người học nghề sản xuất hàng mây, tre đan trình độ trung cấp tại các cơ sở dạy nghề thủ công mỹ nghệ thuộc các vùng làng nghề, các doanh nghiệp sản xuất mây, tre để có được nguồn nhân lực chất lượng cao.
+
+b) Tập trung bồi dưỡng, nâng cao kỹ năng đối với lực lượng lao động không thường xuyên; đào tạo, bồi dưỡng, nâng cao đối với lực lượng lao động thường xuyên đang làm việc tại các cơ sở hoặc các doanh nghiệp sản xuất, chế biến mây tre.
+
+c) Lao động nông thôn trong ngành mây tre được áp dụng chính sách đào tạo nghề theo Quyết định số 1956/QĐ-TTg ngày 27 tháng 11 năm 2009 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo nghề cho lao động nông thôn đến năm 2020”.
+
+d) Các doanh nghiệp có dự án đầu tư để phát triển ngành mây tre thuộc Danh mục lĩnh vực nông nghiệp đặc biệt ưu đãi đầu tư, ưu đãi đầu tư và khuyến khích đầu tư theo quy định tại Nghị định số 61/2010/NĐ-CP của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn được ngân sách nhà nước hỗ trợ 100% kinh phí đào tạo nghề trong nước theo quy định tại Nghị định này.
+
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.11. Đào tạo nhân lực; Điều 24.9.NĐ.1.10. Hỗ trợ đào tạo nguồn nhân lực, phát triển thị trường; Điều 20.1.QĐ.1.1. Phạm vi điều chỉnh; Điều 20.1.QĐ.1.2. Đối tượng áp dụng; Điều 20.1.QĐ.1.3. Nguyên tắc hỗ trợ đào tạo trình độ sơ cấp, đào tạo dưới 03 tháng; Điều 20.1.QĐ.1.4. Mức hỗ trợ chi phí đào tạo; Điều 20.1.QĐ.1.5. Mức hỗ trợ tiền ăn, tiền đi lại; Điều 20.1.QĐ.1.6. Kinh phí thực hiện chính sách hỗ trợ đào tạo)
 
 Điều 24.9.NĐ.12. Hỗ trợ phát triển ngành nghề nông thôn
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000300001200000000000000000
+ 1. Dự án phát triển ngành nghề nông thôn từ ngân sách trung ương
 
-**ID:** dk_00038188
+ a) Đối tượng hỗ trợ xây dựng dự án: Cơ quan quản lý nhà nước về nông nghiệp và phát triển nông thôn, các cơ quan quản lý nhà nước có liên quan tại địa phương.
 
----
+ b) Nội dung chi hỗ trợ dự án: Mua nguyên vật liệu, máy móc, thiết bị, dây chuyền sản xuất; thuê cán bộ kỹ thuật chỉ đạo dự án; tập huấn cho người tham gia dự án, tổng kết dự án; quản lý dự án.
 
+ c) Nguyên tắc ưu tiên: Dự án chế biến nông, lâm, thủy sản gắn với công nghệ tiên tiến và thiết bị đồng bộ trong thu hoạch, bảo quản, chế biến và tiêu thụ nhằm nâng cao giá trị sản phẩm, đáp ứng nhu cầu thị trường; dự án thuộc chương trình bảo tồn và phát triển làng nghề; dự án phát triển hàng thủ công mỹ nghệ đáp ứng nhu cầu trong nước hoặc xuất khẩu; dự án sản xuất, cung cấp nguyên vật liệu phục vụ phát triển ngành nghề nông thôn; dự án sản xuất, chế tạo thiết bị, máy móc phục vụ sản xuất nông nghiệp, nông thôn; dự án sản xuất, chế biến muối sạch; dự án phát triển sinh vật cảnh; Dự án làng nghề gắn với phát triển du lịch sinh thái; Dự án sản xuất các sản phẩm từ phế, phụ phẩm nông nghiệp.
 
-### Điều 24.9.QĐ.2.3. Mục tiêu
+ d) Mức hỗ trợ tối đa 50% nhưng không quá 500 triệu đồng/dự án.
 
-*Nội dung chưa có sẵn*
+ đ) Kế hoạch và dự toán kinh phí hỗ trợ
 
-**Chỉ mục:** 3
+ Cơ quan quản lý nhà nước về nông nghiệp và phát triển nông thôn, các cơ quan quản lý nhà nước có liên quan ở các tỉnh, thành phố khảo sát, lập dự án gửi cơ quan quản lý nhà nước về ngành nghề nông thôn thuộc Bộ Nông nghiệp và Phát triển nông thôn, các cơ quan quản lý nhà nước khác có liên quan để xây dựng, tổng hợp vào dự toán ngân sách hàng năm.
 
-**Mã phân cấp:** 2400900000000000300001200502391000110000
+ Căn cứ kinh phí hỗ trợ xây dựng dự án phát triển ngành nghề nông thôn. Bộ Nông nghiệp và Phát triển nông thôn phê duyệt Kế hoạch triển khai thực hiện; cơ quan quản lý nhà nước về ngành nghề nông thôn thuộc Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn cơ quan quản lý nhà nước về nông nghiệp và phát triển nông thôn địa phương tổ chức triển khai thực hiện.
 
-**ID:** dk_00038189
+ Cơ quan quản lý nhà nước khác có liên quan ở trung ương được giao kinh phí hỗ trợ xây dựng dự án phát triển ngành nghề nông thôn phê duyệt kế hoạch và hướng dẫn triển khai thực hiện theo quy định hiện hành.
 
----
+ e) Nguồn kinh phí hỗ trợ Dự án phát triển ngành nghề nông thôn từ Chương trình mục tiêu quốc gia xây dựng nông thôn mới, chương trình khuyến nông, khuyến công và ngân sách của địa phương.
 
+ 2. Dự án phát triển ngành nghề nông thôn từ ngân sách địa phương thực hiện theo quy định tại khoản 1 Điều này và các quy định khác do Ủy ban nhân dân cấp tỉnh quy định.
 
-### Điều 24.9.QĐ.2.5. Định hướng phát triển vùng nguyên liệu
+ 3. Đối với nội dung hỗ trợ phát triển ngành nghề nông thôn từ ngân sách trung ương: Thông tin, tuyên truyền; bồi dưỡng, tập huấn và đào tạo; khảo sát, học tập kinh nghiệm các nước có liên quan; tư vấn và dịch vụ thực hiện theo hướng dẫn cơ chế tài chính của các chương trình khuyến nông, khuyến công, xây dựng nông thôn mới, giảm nghèo và chương trình, dự án có liên quan khác.
+
+ 4. Ủy ban nhân dân cấp tỉnh quy định các nội dung, hình thức, định mức hỗ trợ khác ngoài các nội dung quy định tại Điều này phù hợp với điều kiện của địa phương và quy định của pháp luật hiện hành.(Điều này có nội dung liên quan đến Điều 9. Hỗ trợ phát triển ngành nghề nông thôn của Thông tư 43/2017/TT-BTC Quy định quản lý và sử dụng kinh phí sự nghiệp thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2016-2020 ban hành ngày 12/05/2017; Điều 19.2.NĐ.2.27. Chính sách bồi dưỡng, tập huấn, đào tạo; Điều 19.2.NĐ.2.29. Chính sách xây dựng và nhân rộng mô hình; Điều 24.9.QĐ.2.14. Về khoa học công nghệ; Điều 24.9.QĐ.3.2. )
+
+Điều 24.9.QĐ.2.3. Mục tiêu
+
+(Điều 3 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
+
+1. Phát triển vùng nguyên liệu mây, tre nhằm đáp ứng nhu cầu nguyên liệu cho công nghiệp chế biến hàng mây tre và các ngành khác, góp phần tăng độ che phủ và khả năng phòng hộ của rừng, chống xói lở đất tại các vùng đầu nguồn, ven sông, ven suối.
+
+2. Phát triển công nghiệp sản xuất hàng mây tre nhằm từng bước gia tăng giá trị và hiệu quả kinh tế của các cơ sở sản xuất, kinh doanh hàng mây tre, góp phần vào sự phát triển kinh tế - xã hội của đất nước.
+
+3. Bảo tồn và phát triển các nghề truyền thống, làng nghề sản xuất hàng mây tre nhằm phát huy các giá trị về kinh tế, văn hóa, sinh thái, môi trường của làng nghề.
+
+4. Thúc đẩy hình thành thị trường hàng mây tre nhằm phục vụ tiêu dùng trong nước và xuất khẩu.
+
+5. Tạo việc làm, tăng thu nhập cho người dân, góp phần chuyển dịch cơ cấu kinh tế và xây dựng nông thôn mới.
 
 Điều 24.9.QĐ.2.5. Định hướng phát triển vùng nguyên liệu
 
-**Chỉ mục:** 5
+(Điều 5 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000050
+1. Phát triển vùng nguyên liệu phải gắn với quy hoạch phát triển các cơ sở chế biến sản phẩm hàng mây tre.
 
-**ID:** dk_00038190
+2. Phát triển vùng nguyên liệu theo hướng chuyên môn hóa sản xuất.
 
----
+3. Phát triển vùng nguyên liệu phải đảm bảo tính hiệu quả và bền vững.
 
-
-### Điều 24.9.QĐ.2.6. Quy hoạch phát triển vùng nguyên liệu
+(Điều này có nội dung liên quan đến Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi)
 
 Điều 24.9.QĐ.2.6. Quy hoạch phát triển vùng nguyên liệu
 
-**Chỉ mục:** 6
+(Điều 6 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000060
+1. Căn cứ quy hoạch phát triển vùng nguyên liệu 
 
-**ID:** dk_00038191
+Quy hoạch phát triển vùng nguyên liệu mây, tre căn cứ vào vùng sinh thái và phân bố của các loài mây, tre; vùng làng nghề sản xuất hàng mây tre; khả năng phát triển công nghiệp chế biến; điều kiện cơ sở hạ tầng phục vụ phát triển ngành mây tre.
 
----
+2. Nội dung quy hoạch phát triển vùng nguyên liệu
 
+a) Phát triển vùng nguyên liệu mây, tre tự nhiên
 
-### Điều 24.9.QĐ.2.7. Xây dựng và phê duyệt quy hoạch phát triển vùng nguyên liệu
+Khuyến khích phát triển vùng nguyên liệu mây, tre tự nhiên tại các vùng có rừng mây tre thuần loại, rừng hỗn giao các loài mây, tre với các loài cây gỗ thuộc các khu rừng phòng hộ và các khu rừng sản xuất, gồm:
+
+- Rừng do các tổ chức của Nhà nước quản lý (công ty lâm nghiệp, ban quản lý rừng phòng hộ…).
+
+- Rừng chưa giao, chưa cho thuê do Ủy ban nhân dân cấp xã đang chịu trách nhiệm quản lý.
+
+- Rừng Nhà nước đã giao cho các hộ gia đình, cá nhân, cộng đồng dân cư thôn sử dụng ổn định, lâu dài vào mục đích lâm nghiệp.
+
+b) Phát triển vùng trồng nguyên liệu mây, tre
+
+Khuyến khích phát triển trồng nguyên liệu mây, tre tại các vùng sau đây: 
+
+- Diện tích đất lâm nghiệp thuộc các trạng thái rừng IA, IB, IC được quy hoạch phát triển rừng sản xuất, rừng phòng hộ; các loại đất chưa sử dụng, đất sản xuất nông nghiệp kém hiệu quả, đất không trồng được các cây khác, diện tích đất dọc theo lưu vực sông, suối, vùng đất thường bị xói lở, rửa trôi thuộc quyền quản lý của các tổ chức.
+
+- Diện tích đất của các hộ gia đình, cá nhân, cộng đồng dân cư thôn được Nhà nước giao sử dụng ổn định, lâu dài vào mục đích nông, lâm nghiệp.
+
+c) Ưu tiên hình thành vùng nguyên liệu mây, tre tập trung chuyên canh có lợi thế về điều kiện tự nhiên, kinh tế, xã hội để phục vụ cho sản xuất quy mô lớn; gây trồng mây tre dọc theo các lưu vực sông, suối, các vùng xung yếu, vùng đất thường bị xói lở.
+
+d) Nhà nước ưu tiên đầu tư phát triển cơ sở hạ tầng giao thông vùng nguyên liệu mây, tre gắn với chế biến và tiêu thụ sản phẩm.
+
+đ) Thực hiện một số mô hình thí điểm xây dựng vùng chuyên canh nguyên liệu tập trung theo các tiêu chí phát triển rừng bền vững để tạo điều kiện thuận lợi trong việc xuất khẩu sản phẩm hàng mây tre.
+
+(Điều này có nội dung liên quan đến Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi)
 
 Điều 24.9.QĐ.2.7. Xây dựng và phê duyệt quy hoạch phát triển vùng nguyên liệu
 
-**Chỉ mục:** 7
+(Điều 7 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000070
-
-**ID:** dk_00038192
-
----
-
-
-### Điều 24.9.QĐ.2.8. Định hướng phát triển các cơ sở sản xuất hàng mây tre
+Ủy ban nhân dân cấp tỉnh căn cứ quy hoạch, kế hoạch sử dụng đất được cấp có thẩm quyền phê duyệt, tổ chức xây dựng và phê duyệt quy hoạch phát triển vùng nguyên liệu mây, tre trên địa bàn.
 
 Điều 24.9.QĐ.2.8. Định hướng phát triển các cơ sở sản xuất hàng mây tre
 
-**Chỉ mục:** 8
+(Điều 8 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000080
+1. Ưu tiên phát triển các cơ sở sản xuất gắn với vùng nguyên liệu tập trung chuyên canh, sử dụng nguồn nguyên liệu phân tán trong dân và sử dụng lao động nông thôn.
 
-**ID:** dk_00038193
+2. Phát triển các cơ sở sản xuất hàng mây tre theo hướng chuyên môn hóa kết hợp với phát triển sản xuất tổng hợp. Khuyến khích sản xuất các mặt hàng mây tre, đa dạng hóa các sản phẩm, sử dụng tối đa nguyên liệu từ mây, tre đáp ứng nhu cầu tiêu dùng trong nước và xuất khẩu để thay thế sản phẩm bằng gỗ.
 
----
+3. Ưu tiên phát triển các cơ sở sản xuất, kinh doanh hàng mây tre phục vụ xuất khẩu, sản phẩm tre công nghiệp, đồng thời chú trọng hỗ trợ phát triển các cơ sở sản xuất hàng mây tre truyền thống.
 
+4. Khuyến khích các cơ sở sản xuất hàng mây tre thành lập tổ chức khoa học công nghệ hoặc liên doanh với tổ chức, cá nhân để nghiên cứu, ứng dụng khoa học công nghệ tiên tiến trong sản xuất, chế biến nhằm nâng cao giá trị sản phẩm hàng mây tre.
 
-### Điều 24.9.QĐ.2.9. Quy hoạch các cơ sở sản xuất hàng mây tre
+(Điều này có nội dung liên quan đến Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi)
 
 Điều 24.9.QĐ.2.9. Quy hoạch các cơ sở sản xuất hàng mây tre
 
-**Chỉ mục:** 9
+(Điều 9 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000090
+1. Khuyến khích các cơ sở sản xuất hàng mây tre vào các khu công nghiệp, cụm công nghiệp hiện có ở các địa phương để tổ chức sản xuất liên hoàn từ khâu sơ chế nguyên liệu đến chế biến và xuất khẩu.
 
-**ID:** dk_00038194
+2. Ưu tiên quy hoạch các cụm công nghiệp, các cơ sở sản xuất thành phẩm có giá trị kinh tế cao đối với những địa phương có vùng nguyên liệu tập trung, có truyền thống sản xuất hàng mây tre.
 
----
-
-
-### Điều 24.9.QĐ.2.10. Quy hoạch các làng nghề sản xuất hàng mây tre
+(Điều này có nội dung liên quan đến Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi)
 
 Điều 24.9.QĐ.2.10. Quy hoạch các làng nghề sản xuất hàng mây tre
 
-**Chỉ mục:** 10
+(Điều 10 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000100
+1. Nhà nước khuyến khích khôi phục, bảo tồn và phát triển các làng nghề truyền thống, phát huy các giá trị về xã hội, kinh tế, văn hóa, theo hướng sản xuất sạch, thân thiện với môi trường.
 
-**ID:** dk_00038195
+2. Nhà nước hỗ trợ đầu tư phát triển các làng nghề mới ở những nơi có điều kiện về nguyên liệu, lao động, thị trường.
 
----
-
-
-### Điều 24.9.QĐ.2.11. Xây dựng và phê duyệt quy hoạch phát triển các cơ sở sản xuất hàng mây tre
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.13. Chương trình bảo tồn và phát triển làng nghề; Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi)
 
 Điều 24.9.QĐ.2.11. Xây dựng và phê duyệt quy hoạch phát triển các cơ sở sản xuất hàng mây tre
 
-**Chỉ mục:** 11
+(Điều 11 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000110
-
-**ID:** dk_00038196
-
----
-
-
-### Điều 24.9.QĐ.2.16. Khai thác nguyên liệu mây, tre và hưởng lợi
+Ủy ban nhân dân cấp tỉnh tổ chức xây dựng, phê duyệt quy hoạch phát triển các cơ sở sản xuất hàng mây tre trên địa bàn tỉnh.
 
 Điều 24.9.QĐ.2.16. Khai thác nguyên liệu mây, tre và hưởng lợi
 
-**Chỉ mục:** 16
+(Điều 16 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000160
+1. Khai thác
 
-**ID:** dk_00038197
+Khai thác nguyên liệu mây tre từ rừng sản xuất và rừng phòng hộ thực hiện theo quy định của Bộ Nông nghiệp và Phát triển nông thôn.
 
----
+2. Hưởng lợi
 
+a) Khi khai thác, sau khi trừ các khoản nộp theo quy định của nhà nước, chủ rừng được hưởng 100% sản phẩm khai thác.
 
-### Điều 24.9.QĐ.2.17. Về thuế
+b) Đối với các hộ gia đình, cá nhân, cộng đồng dân cư thôn nhận khoán bảo vệ rừng ổn định lâu dài với chủ rừng là tổ chức nhà nước được khai thác và hưởng lợi theo hợp đồng khoán giữa hai bên.
 
-*Nội dung chưa có sẵn*
+Điều 24.9.QĐ.2.17. Về thuế
 
-**Chỉ mục:** 17
+(Điều 17 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250239100011000170
+1. Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn đầu tư trồng rừng nguyên liệu mây, tre được miễn, giảm thuế sử dụng đất theo quy định tại Nghị quyết số 55/2010/QH12 ngày 24 tháng 11 năm 2010 của Quốc hội về miễn giảm thuế sử dụng đất nông nghiệp và các văn bản hướng dẫn thi hành.
 
-**ID:** dk_00038198
+2. Cơ sở sản xuất hàng mây tre được hưởng thuế suất thuế nhập khẩu không phần trăm (0%) đối với máy móc, thiết bị chuyên dùng cho sản xuất hàng mây tre trong nước chưa sản xuất được theo danh mục do Bộ Công thương ban hành. Cơ sở sản xuất, kinh doanh hàng mây tre mới đi vào hoạt động được hưởng ưu đãi về thuế thu nhập doanh nghiệp theo quy định hiện hành.
 
----
+3. Mây, tre khai thác từ rừng tự nhiên chịu thuế suất thuế tài nguyên 10%. Hộ gia đình, cá nhân được phép khai thác mây, tre từ rừng tự nhiên để phục vụ sinh hoạt được miễn thuế tài nguyên theo quy định của pháp luật.
 
+Điều 24.9.QĐ.2.19. Trách nhiệm của các Bộ, ngành
 
-### Điều 24.9.QĐ.2.19. Trách nhiệm của các Bộ, ngành
+(Điều 19 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-*Nội dung chưa có sẵn*
+1. Bộ Nông nghiệp và Phát triển nông thôn chủ trì tổ chức thực hiện quyết định này; phối hợp với các Bộ, ngành liên quan triển khai các công việc sau:
 
-**Chỉ mục:** 19
+a) Xây dựng và phê duyệt Đề án phát triển ngành mây tre giai đoạn 2011 – 2015 và định hướng đến năm 2020.
 
-**Mã phân cấp:** 2400900000000000300001250240600593500000
+b) Phối hợp với Bộ Tài chính, Bộ Kế hoạch và Đầu tư, Bộ Công thương ban hành các văn bản hướng dẫn triển khai Quyết định này trước tháng 7 năm 2011.
 
-**ID:** dk_00038199
+c) Phối hợp với các tổ chức chính trị - xã hội nghề nghiệp, các tổ chức quốc tế triển khai có hiệu quả Quyết định này.
 
----
+d) Hàng năm tổ chức kiểm tra, sơ kết, tổng kết đánh giá tình hình thực hiện chính sách khuyến khích phát triển ngành mây tre, báo cáo Thủ tướng Chính phủ.
 
+2. Bộ Kế hoạch và Đầu tư, Bộ Tài chính phối hợp với Bộ Nông nghiệp và Phát triển nông thôn ban hành các văn bản hướng dẫn triển khai quyết định này; cân đối bảo đảm kinh phí cho việc triển khai Quyết định này phù hợp quy định hiện hành.
 
-### Điều 24.9.QĐ.2.20. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+3. Bộ Công thương, Bộ Khoa học và Công nghệ, Bộ Tài nguyên và Môi trường phối hợp với Bộ Nông nghiệp và Phát triển nông thôn có kế hoạch triển khai chương trình xúc tiến thương mại, nghiên cứu khoa học hàng năm để thúc đẩy triển khai Quyết định này có hiệu quả.
+
+4. Các Bộ, ngành: Lao động – Thương binh và Xã hội, Văn hóa, Thể thao và Du lịch, Ngân hàng Nhà nước Việt Nam, Ủy ban Dân tộc và các Bộ, ngành liên quan phối hợp với Bộ Nông nghiệp và Phát triển nông thôn tổ chức thực hiện quyết định này theo chức năng, nhiệm vụ được giao.
 
 Điều 24.9.QĐ.2.20. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 20
+(Điều 20 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000300001250242086170175000
+Giao Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Sở Tài nguyên và Môi trường và các cơ quan liên quan thuộc tỉnh tổ chức thực hiện các nội dung trọng tâm sau đây:
 
-**ID:** dk_00038200
+1. Xây dựng kế hoạch cụ thể triển khai thực hiện chính sách khuyến khích phát triển ngành mây tre tại địa phương trình Ủy ban nhân dân tỉnh phê duyệt; chỉ đạo và khuyến khích sự liên kết giữa các thành phần kinh tế trong quá trình thực hiện.
 
----
+2. Tổ chức rà soát, điều chỉnh hoặc xây dựng mới, phê duyệt quy hoạch phát triển vùng nguyên liệu mây tre của tỉnh (vùng nguyên liệu tập trung chuyên canh, vùng nguyên liệu phân tán), quy hoạch phát triển cơ sở sản xuất hàng mây tre.
 
+3. Tổ chức rà soát đất đai, đẩy mạnh công tác giao đất, giao rừng và cấp giấy chứng nhận quyền sử dụng đất cho các doanh nghiệp, hộ gia đình, cá nhân, cộng đồng dân cư thôn tham gia vào việc phát triển vùng nguyên liệu mây tre.
 
-### Điều 24.9.TL.1.3. Kế hoạch phát triển ngành mây tre cấp tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh)
+4. Chỉ đạo tổ chức và thực hiện lồng ghép có hiệu quả chính sách khuyến khích phát triển ngành mây tre với các chương trình, dự án khác trên địa bàn.
+
+5. Định kỳ kiểm tra, giám sát việc thực hiện chính sách khuyến khích phát triển ngành mây tre và chế độ báo cáo định kỳ theo quy định.
 
 Điều 24.9.TL.1.3. Kế hoạch phát triển ngành mây tre cấp tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh)
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 240090000000000030000125024208617017500000802507500134500300
+1. Thẩm quyền và căn cứ xây dựng kế hoạch
 
-**ID:** dk_00038201
+a) Ủy ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương giao Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các Sở, ban, ngành liên quan xây dựng kế hoạch thực hiện chính sách khuyến khích phát triển ngành mây tre tại địa phương;
 
----
+b) Căn cứ xây dựng kế hoạch: Định hướng phát triển kinh tế xã hội; kế hoạch bảo vệ và phát triển rừng; thực trạng công tác trồng, khai thác, chế biến, tiêu thụ các sản phẩm từ mây tre trên địa bàn tỉnh; dự kiến kế hoạch phát triển mây tre trong kỳ kế hoạch tới.
 
+2. Nội dung chính của bản kế hoạch
 
-### Điều 24.9.TL.1.4. Kế hoạch phát triển ngành mây tre cấp huyện
+a) Tổng hợp kết quả thực hiện kế hoạch trồng, khai thác, chế biến và tiêu thụ các sản phẩm từ mây tre trong kỳ kế hoạch (số liệu tổng hợp đến các địa bàn huyện tham gia);
+
+b) Đánh giá kết quả đạt được, những tồn tại, nguyên nhân tồn tại của công tác trồng, khai thác, chế biến và tiêu thụ các sản phẩm từ mây tre trong kỳ kế hoạch;
+
+c) Lập kế hoạch trồng, khai thác, chế biến và tiêu thụ các sản phẩm từ mây tre trong kỳ kế hoạch (số liệu tổng hợp đến địa bàn các huyện tham gia);
+
+d) Giải pháp thực hiện: Về quy hoạch, giao, cho thuê đất trồng; nghiên cứu khoa học, ứng dụng tiến bộ kỹ thuật; đào tạo, tập huấn; thông tin về thị trường; xác định các nguồn vốn, bao gồm của Trung ương, địa phương, doanh nghiệp, liên doanh, liên kết, của người dân và các nguồn vốn huy động hợp pháp khác;
+
+đ) Tổ chức thực hiện: Nêu rõ trách nhiệm của các tổ chức, cá nhân trong quá trình thực hiện kế hoạch.
+
+3. Trình và phê duyệt
+
+Sở Nông nghiệp và Phát triển nông thôn trình Ủy ban nhân dân cấp tỉnh phê duyệt kế hoạch phát triển ngành mây tre.
 
 Điều 24.9.TL.1.4. Kế hoạch phát triển ngành mây tre cấp huyện
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 240090000000000030000125024208617017500000802507500134500400
+1. Thẩm quyền và căn cứ xây dựng kế hoạch
 
-**ID:** dk_00038202
+a) Ủy ban nhân dân cấp huyện chỉ đạo việc lập và tổ chức thực hiện kế hoạch phát triển ngành mây tre;
 
----
+b) Căn cứ để xây dựng kế hoạch: Trên cơ sở kế hoạch phát triển mây tre của tỉnh; thực trạng công tác trồng, chế biến, tiêu thụ các sản phẩm từ mây tre trên địa bàn; dự kiến kế hoạch phát triển mây tre trong kỳ kế hoạch tới.
 
+2. Nội dung chính của bản kế hoạch
 
-### Điều 24.9.TL.1.5. Kế hoạch phát triển ngành mây tre cấp xã
+a) Tình hình thực hiện kế hoạch trồng, bảo vệ (diện tích), sản lượng, khai thác, chế biến, tiêu thụ sản phẩm mây tre trên địa bàn ở kỳ kế hoạch trước (số liệu tổng hợp đến địa bàn các xã tham gia);
+
+b) Xây dựng kế hoạch trồng, bảo vệ (diện tích), sản lượng, khai thác, chế biến và tiêu thụ mây tre trong kỳ kế hoạch tới (số liệu tổng hợp đến địa bàn các xã tham gia);
+
+c) Các giải pháp thực hiện: Về đất đai; xây dựng cơ sở hạ tầng; đào tạo, tập huấn kỹ thuật; thị trường tiêu thụ; các nguồn vốn từ Trung ương thông qua tỉnh, nguồn của huyện, các doanh nghiệp, liên doanh, liên kết, của hộ gia đình, cá nhân và các nguồn huy động hợp pháp khác;
+
+d) Tổ chức thực hiện: Nêu rõ trách nhiệm của các tổ chức, cá nhân trong quá trình thực hiện kế hoạch.
+
+3. Trình và phê duyệt kế hoạch
+
+Trên cơ sở đề nghị của cơ quan quản lý nhà nước về nông nghiệp, Ủy ban nhân dân cấp huyện phê duyệt và chỉ đạo tổ chức thực hiện kế hoạch phát triển ngành mây tre trên địa bàn huyện.
 
 Điều 24.9.TL.1.5. Kế hoạch phát triển ngành mây tre cấp xã
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 240090000000000030000125024208617017500000802507500134500500
+1. Thẩm quyền và căn cứ xây dựng kế hoạch
 
-**ID:** dk_00038203
+a) Ủy ban nhân dân cấp xã chủ trì, phối hợp với các tổ chức, cá nhân có nhu cầu trồng, khai thác, chế biến, tiêu thụ mây tre xây dựng và thực hiện kế hoạch phát triển ngành mây tre trên địa bàn;
 
----
+b) Căn cứ xây dựng kế hoạch: Trên cơ sở kế hoạch phát triển mây tre của huyện; hiện trạng trồng, khai thác, chế biến và tiêu thụ mây tre trong kỳ kế hoạch; dự kiến kế hoạch phát triển mây tre trong kỳ kế hoạch tới.
 
+2. Nội dung chính của bản kế hoạch
 
-### Điều 24.9.TL.1.2. Nguyên tắc thực hiện
+a) Đánh giá tình hình thực hiện kế hoạch trồng, bảo vệ (diện tích), sản lượng, khai thác, chế biến, tiêu thụ sản phẩm mây tre trên địa bàn ở kỳ kế hoạch trước;
 
-*Nội dung chưa có sẵn*
+b) Xây dựng kế hoạch trồng, bảo vệ (diện tích), sản lượng, khai thác, chế biến và tiêu thụ mây tre trong kỳ kế hoạch tới;
 
-**Chỉ mục:** 2
+c) Các giải pháp thực hiện: Phổ biến, tuyên truyền, hướng dẫn kỹ thuật trồng, chăm sóc, bảo vệ mây tre; chỉ đạo, phối hợp với các tổ chức, cá nhân có liên quan trồng, khai thác, chế biến, tiêu thụ mây tre; thực hiện lồng ghép nguồn vốn được phân bổ, của doanh nghiệp, liên doanh, liên kết, của hộ gia đình, cá nhân và các nguồn huy động hợp pháp khác.
 
-**Mã phân cấp:** 2400900000000000300001250389158261010000
+Điều 24.9.TL.1.2. Nguyên tắc thực hiện
 
-**ID:** dk_00038204
+(Điều 2 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
----
+1. Phát triển ngành mây tre phải gắn với quy hoạch, kế hoạch ngành nông nghiệp và phát triển nông thôn, kế hoạch bảo vệ và phát triển rừng, phù hợp với định hướng phát triển kinh tế - xã hội của địa phương.
 
+2. Xây dựng kế hoạch dài hạn, trung hạn và hàng năm để phát triển ngành mây tre trên cơ sở lồng ghép các chương trình hỗ trợ có mục tiêu và các chương trình, dự án khác đang triển khai tại địa phương.
 
-### Điều 24.9.TL.1.9. Trách nhiệm của các Bộ
+3. Công khai, minh bạch về quản lý, sử dụng các nguồn lực; phát huy vai trò làm chủ của người dân và cộng đồng, thực hiện dân chủ cơ sở trong quá trình lập kế hoạch, tổ chức thực hiện và giám sát, đánh giá.
 
-*Nội dung chưa có sẵn*
+Điều 24.9.TL.1.9. Trách nhiệm của các Bộ
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 2400900000000000300001350389158261010000
+1. Bộ Nông nghiệp và Phát triển nông thôn
 
-**ID:** dk_00038205
+a) Là cơ quan thường trực tổ chức thực hiện, đôn đốc, kiểm tra, giám sát tình hình thực hiện Thông tư này trên phạm vi cả nước;
 
----
+b) Chủ trì và phối hợp với các Bộ, ngành liên quan xây dựng kế hoạch, tổng hợp nhu cầu kinh phí thực hiện phát triển ngành mây tre trên phạm vi cả nước gửi Bộ Kế hoạch và Đầu tư, Bộ Tài chính;
 
+c) Hàng năm tổng hợp, báo cáo Thủ tướng Chính phủ về việc thực hiện chính sách khuyến khích phát triển ngành mây tre.
 
-### Điều 24.9.TL.1.10. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+2. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính và các Bộ, ngành liên quan xây dựng kế hoạch, cân đối và phân bổ nguồn vốn ngân sách Trung ương thực hiện Thông tư này.
 
 Điều 24.9.TL.1.10. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-**Mã phân cấp:** 2400900000000000300001450389158261010000
+1. Chỉ đạo việc xây dựng kế hoạch dài hạn, trung hạn và ngắn hạn phát triển ngành mây tre theo quy hoạch, kế hoạch phát triển ngành nông nghiệp và phát triển nông thôn, phù hợp với định hướng phát triển kinh tế - xã hội tại địa phương.
 
-**ID:** dk_00038206
+2. Thực hiện rà soát, điều chỉnh, bổ sung quy hoạch phát triển vùng nguyên liệu mây tre của tỉnh, quy hoạch phát triển cơ sở sản xuất hàng mây tre; đẩy mạnh công tác giao đất, giao rừng, thuê đất và cấp giấy chứng nhận quyền sử dụng đất cho các tổ chức, hộ gia đình, cá nhân tham gia vào việc phát triển vùng nguyên liệu mây tre.
 
----
+3. Tăng cường công tác nghiên cứu khoa học, chuyển giao tiến bộ kỹ thuật, đào tạo nghề, phòng chống và xử lý ô nhiễm môi trường làng nghề mây, tre; xây dựng các mô hình bảo quản, chế biến và hỗ trợ tiêu thụ sản phẩm mây tre trên thị trường.
 
+4. Bố trí ngân sách địa phương theo phân cấp để thực hiện các chính sách khuyến khích phát triển ngành mây tre trên địa bàn; thực hiện quản lý, sử dụng và lồng ghép các nguồn vốn để thực hiện chương trình, dự án phát triển ngành mây tre.
 
-### Điều 24.9.NĐ.13. Chương trình bảo tồn và phát triển làng nghề
+5. Giao Sở Nông nghiệp và Phát triển nông thôn chủ trì, xây dựng kế hoạch cụ thể triển khai thực hiện chính sách khuyến khích phát triển ngành mây tre tại địa phương trình Ủy ban nhân dân tỉnh phê duyệt; chỉ đạo và khuyến khích sự liên kết giữa các thành phần kinh tế trong quá trình thực hiện.
+
+6. Định kỳ kiểm tra, giám sát việc thực hiện chính sách khuyến khích phát triển ngành mây tre và báo cáo kết quả thực hiện trước ngày 15/12 hàng năm về Bộ Nông nghiệp và Phát triển nông thôn để tổng hợp.
+
+Chương IV
+
+QUẢN LÝ VÀ PHÁT TRIỂN LÀNG NGHỀ, LÀNG NGHỀ TRUYỀN THỐNG
 
 Điều 24.9.NĐ.13. Chương trình bảo tồn và phát triển làng nghề
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000400001300000000000000000
+ 1. Chương trình bảo tồn, phát triển làng nghề bao gồm:
 
-**ID:** dk_00038208
+ a) Bảo tồn, phát triển làng nghề truyền thống.
 
----
+ b) Phát triển làng nghề gắn với du lịch và xây dựng nông thôn mới.
 
+ c) Phát triển làng nghề mới.
 
-### Điều 24.9.NĐ.14. Hỗ trợ phát triển làng nghề
+ 2. Nhà nước có Chương trình và dành kinh phí từ Chương trình mục tiêu quốc gia xây dựng nông thôn mới hỗ trợ các dự án, đề án, kế hoạch, mô hình thuộc chương trình bảo tồn và phát triển làng nghề quy định tại khoản 1 Điều này.
 
-*Nội dung chưa có sẵn*
+ 3. Ủy ban nhân dân cấp tỉnh căn cứ điều kiện cụ thể của địa phương, có cơ chế hỗ trợ các dự án bảo tồn, phát triển làng nghề trên địa bàn ngoài kinh phí hỗ trợ quy định tại khoản 2 Điều này.(Điều này có nội dung liên quan đến Điều 24.9.QĐ.2.10. Quy hoạch các làng nghề sản xuất hàng mây tre)
 
-**Chỉ mục:** 14
+Điều 24.9.NĐ.14. Hỗ trợ phát triển làng nghề
 
-**Mã phân cấp:** 2400900000000000400001400000000000000000
+(Điều 14 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**ID:** dk_00038209
+Làng nghề, làng nghề truyền thống được hưởng các chính sách khuyến khích phát triển ngành nghề nông thôn quy định tại Điều 7, Điều 8, Điều 9, Điều 10, Điều 11, Điều 12 Nghị định này, ngoài ra còn được hưởng các chính sách từ ngân sách địa phương như sau:
 
----
+1. Hỗ trợ kinh phí trực tiếp quy định tại quyết định công nhận nghề truyền thống, làng nghề, làng nghề truyền thống; hình thức, định mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quyết định.
 
+2. Hỗ trợ kinh phí đầu tư xây dựng cơ sở hạ tầng cho các làng nghề:
 
-### Điều 24.9.NĐ.1.4. Nguyên tắc áp dụng ưu đãi và hỗ trợ đầu tư
+a) Nội dung hỗ trợ đầu tư, cải tạo, nâng cấp và hoàn thiện cơ sở hạ tầng làng nghề: Đường giao thông, điện, nước sạch; hệ thống tiêu, thoát nước; xây dựng trung tâm, điểm bán hàng và giới thiệu sản phẩm làng nghề.
+
+b) Nguyên tắc ưu tiên: Làng nghề có nguy cơ mai một, thất truyền; làng nghề của đồng bào dân tộc thiểu số; làng nghề có thị trường tiêu thụ tốt; làng nghề gắn với phát triển du lịch và xây dựng nông thôn mới; làng nghề tạo việc làm, tăng thu nhập cho người dân địa phương; làng nghề gắn với việc bảo tồn, phát triển giá trị văn hóa thông qua các nghề truyền thống.
+
+c) Ủy ban nhân dân cấp tỉnh quyết định dự án đầu tư xây dựng cơ sở hạ tầng làng nghề theo quy định của Luật đầu tư công và các bản bản hướng dẫn theo quy định hiện hành.
+
+d) Nguồn kinh phí hỗ trợ đầu tư bao gồm: Nguồn kinh phí từ Chương trình mục tiêu quốc gia xây dựng nông thôn mới, Chương trình mục tiêu quốc gia Giảm nghèo bền vững, các chương trình mục tiêu và ngân sách của địa phương.
+
+đ) Ủy ban nhân dân cấp tỉnh quy định mức hỗ trợ đầu tư cải tạo, nâng cấp và hoàn thiện cơ sở hạ tầng làng nghề phù hợp với điều kiện thực tế của địa phương và đúng quy định của pháp luật hiện hành.
+
+3. Ngoài các chính sách quy định tại Nghị định này, làng nghề được khuyến khích phát triển được hưởng các chính sách theo quy định tại khoản 2 Điều 15 Nghị định số 19/2015/NĐ-CP ngày 14 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật bảo vệ môi trường.
+
+(Điều này có nội dung liên quan đến Điều 21.1.NĐ.9.15. Quy định chung về bảo vệ môi trường làng nghề; Điều 21.1.NĐ.9.21. Chính sách khuyến khích phát triển làng nghề, cơ sở sản xuất thuộc ngành nghề được khuyến khích phát triển; Điều 21.1.TT.30.4. Yêu cầu về hệ thống tiêu thoát nước; Điều 21.1.TT.30.5. Nguyên tắc và yêu cầu xử lý nước thải; Điều 21.1.TT.30.6. Xây dựng, cải tạo nâng cấp, quản lý hệ thống thoát nước và xử lý nước thải)
+
+Chương V
+
+CƠ CHẾ, CHÍNH SÁCH KHUYẾN KHÍCH DOANH NGHIỆP ĐẦU TƯ VÀO NÔNG NGHIỆP, NÔNG THÔN
 
 Điều 24.9.NĐ.1.4. Nguyên tắc áp dụng ưu đãi và hỗ trợ đầu tư
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450000540265250057000040
+1. Nhà nước ưu đãi đầu tư thông qua miễn, giảm thuế, phí, lệ phí và giảm một số thủ tục hành chính cho doanh nghiệp.
 
-**ID:** dk_00038211
+2. Nhà nước hỗ trợ đầu tư bằng hình thức hỗ trợ một phần kinh phí đầu tư hoặc cấp bù chênh lệch lãi suất cho doanh nghiệp.
 
----
+3. Doanh nghiệp có dự án nông nghiệp đặc biệt ưu đãi đầu tư, dự án nông nghiệp ưu đãi đầu tư, dự án nông nghiệp khuyến khích đầu tư được hưởng các ưu đãi đầu tư, hỗ trợ đầu tư theo quy định của Nghị định này.
 
+4. Ưu tiên hỗ trợ đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo quy định tại khoản 2 Điều 3 Luật Hỗ trợ doanh nghiệp vừa và nhỏ; doanh nghiệp xây dựng vùng nguyên liệu có hợp đồng liên kết với nông dân.
 
-### Điều 24.9.NĐ.1.5. Miễn, giảm tiền sử dụng đất
+5. Trong cùng một thời gian, nếu dự án đầu tư được hưởng ưu đãi, hỗ trợ đầu tư có các mức ưu đãi, hỗ trợ khác nhau thì doanh nghiệp được lựa chọn áp dụng mức ưu đãi, hỗ trợ đầu tư có lợi nhất.
 
-*Nội dung chưa có sẵn*
+6. Doanh nghiệp tự bỏ vốn, huy động vốn để thực hiện dự án đầu tư vào ngành, nghề ưu đãi đầu tư trong nông nghiệp, nông thôn. Nhà nước hỗ trợ sau đầu tư theo định mức hỗ trợ đối với từng loại hạng mục, công trình do Ủy ban nhân dân cấp tỉnh ban hành; trình tự, thủ tục hỗ trợ theo quy định tại Nghị định này.
 
-**Chỉ mục:** 5
+(Điều này có nội dung liên quan đến Điều 15. Hình thức và đối tượng áp dụng ưu đãi đầu tư của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014)
 
-**Mã phân cấp:** 2400900000000000450000540265250057000050
+Điều 24.9.NĐ.1.5. Miễn, giảm tiền sử dụng đất
 
-**ID:** dk_00038212
+(Điều 5 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
----
+Doanh nghiệp có dự án nông nghiệp (đặc biệt ưu đãi đầu tư, ưu đãi đầu tư và khuyến khích đầu tư) được Nhà nước giao đất hoặc được chuyển mục đích đất để làm nhà ở cho người lao động theo quy định tại Điều 55 Luật đất đai được miễn tiền chuyển mục đích sử dụng đất đối với diện tích đất được chuyển mục đích để xây dựng nhà ở cho người lao động làm việc tại dự án; được miễn tiền sử dụng đất đối với diện tích đất đó sau khi được chuyển đổi.
 
-
-### Điều 24.9.NĐ.1.6. Miễn, giảm tiền thuê đất, thuê mặt nước của Nhà nước
+(Điều này có nội dung liên quan đến Điều 55. Giao đất có thu tiền sử dụng đất của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 24.9.NĐ.7. Mặt bằng sản xuất; Điều 24.9.QĐ.2.12. Về đất đai)
 
 Điều 24.9.NĐ.1.6. Miễn, giảm tiền thuê đất, thuê mặt nước của Nhà nước
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450000640265250057000060
+1. Doanh nghiệp có dự án nông nghiệp ưu đãi đầu tư và khuyến khích đầu tư khi thuê đất, thuê mặt nước của Nhà nước thì được áp dụng mức giá đất ưu đãi do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định và giá thuê đất, thuê mặt nước ổn định tối thiểu 05 năm.
 
-**ID:** dk_00038213
+2. Doanh nghiệp có dự án nông nghiệp đặc biệt ưu đãi đầu tư thì dự án đó được miễn tiền thuê đất, thuê mặt nước kể từ ngày Nhà nước cho thuê đất, thuê mặt nước.
 
----
+3. Doanh nghiệp có dự án nông nghiệp ưu đãi đầu tư thì dự án đó được miễn tiền thuê đất, thuê mặt nước trong 15 năm đầu kể từ ngày Nhà nước cho thuê đất, thuê mặt nước và giảm 50% tiền thuê đất, thuê mặt nước trong 07 năm tiếp theo.
 
+4. Doanh nghiệp có dự án nông nghiệp khuyến khích đầu tư thì dự án đó được miễn tiền thuê đất, thuê mặt nước trong 11 năm đầu kể từ ngày Nhà nước cho thuê đất, thuê mặt nước và giảm 50% tiền thuê đất, thuê mặt nước trong 05 năm tiếp theo.
 
-### Điều 24.9.NĐ.1.7. Hỗ trợ tập trung đất đai
+5. Doanh nghiệp có dự án nông nghiệp (đặc biệt ưu đãi đầu tư, ưu đãi đầu tư, khuyến khích đầu tư) được Nhà nước cho thuê đất xây dựng nhà ở cho người lao động của dự án, đất cơ sở sản xuất phi nông nghiệp (đất xây dựng nhà xưởng, kho chứa, sân phơi, đường giao thông, cây xanh) kể cả đất được phép chuyển mục đích sang các loại đất quy định tại khoản này để phục vụ dự án đó thì được miễn tiền thuê đất.
 
-*Nội dung chưa có sẵn*
+6. Doanh nghiệp nông nghiệp nhỏ và vừa mới thành lập được miễn tiền thuê đất, thuê mặt nước của Nhà nước trong 05 năm đầu kể từ ngày dự án hoàn thành đi vào hoạt động và giảm 50% tiền thuê đất, thuê mặt nước trong 10 năm tiếp theo.
 
-**Chỉ mục:** 7
+(Điều này có nội dung liên quan đến Điều 14. Quy định chi tiết về điều kiện đối với người được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư của Nghị định 43/2014/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Đất đai ban hành ngày 15/05/2014; Điều 24.9.QĐ.2.12. Về đất đai)
 
-**Mã phân cấp:** 2400900000000000450000740265250057000070
+Điều 24.9.NĐ.1.7. Hỗ trợ tập trung đất đai
 
-**ID:** dk_00038214
+(Điều 7 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
----
+1. Doanh nghiệp có dự án nông nghiệp đặc biệt ưu đãi đầu tư thuê, thuê lại đất, mặt nước của hộ gia đình, cá nhân để thực hiện dự án đầu tư thì được Nhà nước hỗ trợ kinh phí tương đương với 20% tiền thuê đất, thuê mặt nước cho 05 năm đầu tiên kể từ khi dự án hoàn thành đi vào hoạt động; giá thuê đất, thuê mặt nước theo quy định tại khoản 1 Điều 6 Nghị định này.
 
+2. Doanh nghiệp có dự án nông nghiệp (đặc biệt ưu đãi đầu tư, ưu đãi đầu tư và khuyến khích đầu tư) nhận góp vốn bằng quyền sử dụng đất của hộ gia đình, cá nhân để hình thành vùng nguyên liệu được Nhà nước hỗ trợ xây dựng cơ sở hạ tầng vùng nguyên liệu với mức hỗ trợ 50 triệu đồng/ha, nhưng không quá 10 tỷ đồng/dự án và không phải chuyển sang thuê đất đối với diện tích đất nhận góp vốn bằng quyền sử dụng đất.
 
-### Điều 24.9.NĐ.1.8. Tiếp cận, hỗ trợ tín dụng
+3. Doanh nghiệp tập trung đất đai bằng các hình thức quy định tại khoản 1, khoản 2 Điều này thì được Nhà nước hỗ trợ bằng tổng các hỗ trợ theo quy định tại từng khoản nêu trên.
 
-*Nội dung chưa có sẵn*
+4. Trong chu kỳ thuê đất của doanh nghiệp đầu tư vào nông nghiệp, nông thôn, Nhà nước không điều chỉnh quy hoạch, kế hoạch sử dụng đất làm ảnh hưởng đến dự án. Trừ trường hợp Nhà nước thu hồi đất theo quy định tại Điều 61, Điều 62 Luật đất đai và các trường hợp đặc biệt phải điều chỉnh kế hoạch, quy hoạch sử dụng đất theo quy định tại khoản 1 và khoản 2 Điều 46 Luật đất đai.
 
-**Chỉ mục:** 8
+5. Khuyến khích doanh nghiệp sử dụng đất nông nghiệp, đất nuôi trồng thủy sản xây dựng các nhà máy chế biến nông sản, cơ sở hạ tầng đi kèm (kho chứa, trụ sở, đường nội bộ, hệ thống xử lý chất thải). Thủ tục chuyển mục đích sử dụng đất, xây dựng theo quy định của Luật đất đai và Luật xây dựng.
 
-**Mã phân cấp:** 2400900000000000450000840265250057000080
+(Điều này có nội dung liên quan đến Điều 46. Điều chỉnh quy hoạch, kế hoạch sử dụng đất; Điều 61. Thu hồi đất vì mục đích quốc phòng, an ninh; Điều 62. Thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng của Luật 45/2013/QH13 Đất đai ban hành ngày 29/11/2013; Điều 12.3.LQ.11. Hỗ trợ mặt bằng sản xuất; Điều 24.9.QĐ.2.12. Về đất đai)
 
-**ID:** dk_00038215
+Điều 24.9.NĐ.1.8. Tiếp cận, hỗ trợ tín dụng
 
----
+(Điều 8 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
+1. Doanh nghiệp có dự án đầu tư vào nông nghiệp, nông thôn được ngân sách địa phương hỗ trợ lãi suất vay thương mại sau khi dự án hoàn thành như sau:
 
-### Điều 24.9.QĐ.3.1.
+a) Mức hỗ trợ: Bằng chênh lệch lãi suất vay thương mại so với lãi suất tín dụng nhà nước ưu đãi đầu tư tính trên số dư nợ thực tế tại thời điểm xem xét hồ sơ hỗ trợ.
 
-*Nội dung chưa có sẵn*
+b) Thời gian hỗ trợ lãi suất tính từ ngày bắt đầu giải ngân theo hợp đồng tín dụng với ngân hàng thương mại:
 
-**Chỉ mục:** 1
+- Tối đa 08 năm đối với dự án nông nghiệp đặc biệt ưu đãi đầu tư; tối đa 06 năm đối với dự án nông nghiệp ưu đãi đầu tư; tối đa 05 năm đối với dự án nông nghiệp khuyến khích đầu tư. Trường hợp dự án của doanh nghiệp nông nghiệp vừa và nhỏ mới thành lập thì thời gian hỗ trợ lãi suất là 08 năm.
 
-**Mã phân cấp:** 2400900000000000450000850249100068000010
+- Dự án mà doanh nghiệp tham gia liên kết chuỗi giá trị thì được áp dụng hỗ trợ lãi suất theo chu kỳ sản xuất của sản phẩm.
 
-**ID:** dk_00038216
+c) Hạn mức vay vốn được hỗ trợ lãi suất: Tối đa không quá 70% tổng mức đầu tư của dự án.
 
----
+d) Chính sách và phương thức hỗ trợ cụ thể do Hội đồng nhân dân cấp tỉnh ban hành phù hợp với điều kiện của địa phương.
 
+2. Các công trình xây dựng trên đất (bao gồm cả nhà lưới, nhà kính, nhà màng và công trình thủy lợi) của doanh nghiệp đầu tư được tính là tài sản để thế chấp vay vốn tại các ngân hàng thương mại.
 
-### Điều 24.9.TT.3.1.
+(Điều này có nội dung liên quan đến Điều 22.3.NĐ.7.11. Thời hạn cho vay; Điều 22.3.NĐ.7.14. Chính sách tín dụng khuyến khích sản xuất nông nghiệp theo mô hình liên kết; Điều 22.3.NĐ.7.15. Chính sách tín dụng khuyến khích sản xuất nông nghiệp ứng dụng công nghệ cao; Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 24.9.QĐ.2.13. Về đầu tư và tín dụng)
 
-*Nội dung chưa có sẵn*
+Điều 24.9.QĐ.3.1. 
 
-**Chỉ mục:** 1
+(Điều 1 Quyết định số 68/2013/QĐ-TTg Về chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp ngày 14/11/2013 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2014 )
 
-**Mã phân cấp:** 240090000000000045000085024910006800001000802503600080000100
+Ngân sách nhà nước hỗ trợ lãi suất vốn vay thương mại đối với các khoản vay dài hạn, trung hạn, ngắn hạn bằng đồng Việt Nam để mua máy, thiết bị nhằm giảm tổn thất trong nông nghiệp như sau:
 
-**ID:** dk_00038217
+1. Đối tượng hỗ trợ là các doanh nghiệp, hợp tác xã, tổ hợp tác, hộ gia đình, cá nhân.
 
----
+2. Nhóm danh mục máy, thiết bị gồm:
 
+a) Các loại máy làm đất, san phẳng đồng ruộng, gieo cấy, trồng, chăm sóc, thu hoạch lúa, ngô, cà phê, chè, mía; máy sấy nông sản, thủy sản; máy, thiết bị sản xuất muối sạch; máy, thiết bị sử dụng trong chăn nuôi;
 
-### Điều 24.9.QĐ.3.2.
+b) Hệ thống thiết bị tưới tiết kiệm nước trong sản xuất nông nghiệp;
 
-*Nội dung chưa có sẵn*
+c) Máy, thiết bị sử dụng sản xuất giống, nuôi trồng, thu hoạch thủy sản;
 
-**Chỉ mục:** 2
+d) Các loại máy, thiết bị dò cá, thu, thả lưới câu, thông tin liên lạc, hầm (buồng) cấp đông, thùng (hầm) bảo quản sản phẩm có gắn thiết bị lạnh, sản xuất nước đá, lọc nước biển làm nước ngọt sử dụng trên tàu cá, tàu dịch vụ hậu cần phục vụ đánh bắt xa bờ;
 
-**Mã phân cấp:** 2400900000000000450000850249100068000020
+đ) Máy, thiết bị chế biến sản phẩm từ phế và phụ phẩm nông nghiệp, thủy sản;
 
-**ID:** dk_00038218
+e) Kho, thiết bị sử dụng chứa, bảo quản thóc, ngô quy mô hộ gia đình;
 
----
+g) Các loại máy kéo, động cơ Diezen sử dụng trong nông nghiệp, khai thác đánh bắt thủy sản.
 
+3. Điều kiện được hưởng hỗ trợ:
 
-### Điều 24.9.TT.3.2.
+a) Các hợp tác xã, tổ hợp tác, hộ gia đình, cá nhân phải được Ủy ban nhân dân cấp xã xác nhận là đối tượng trực tiếp sản xuất trồng trọt, chăn nuôi, nuôi trồng, đánh bắt, chế biến nông sản, thủy sản; dịch vụ cơ giới nông nghiệp;
 
-*Nội dung chưa có sẵn*
+b) Các doanh nghiệp có ký kết thực hiện hợp đồng liên kết sản xuất, tiêu thụ nông sản, dịch vụ cơ giới hóa với tổ hợp tác, hợp tác xã hoặc nông dân;
 
-**Chỉ mục:** 2
+c) Các loại máy, thiết bị quy định tại Khoản 2 Điều này phải là máy, thiết bị mới, chất lượng phù hợp tiêu chuẩn công bố theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa.
 
-**Mã phân cấp:** 240090000000000045000085024910006800002000802503600080000200
+4. Mức vay, mức hỗ trợ lãi suất, thời gian hỗ trợ:
 
-**ID:** dk_00038219
+a) Mức vay tối đa để mua các loại máy, thiết bị quy định tại Khoản 2 Điều này bằng 100% giá trị hàng hóa;
 
----
+b) Hỗ trợ 100% lãi suất vốn vay trong hai năm đầu, 50% trong năm thứ ba.
 
+(Điều này có nội dung liên quan đến Điều 22.3.TT.12.2. Đối tượng và phạm vi áp dụng quy định về hỗ trợ lãi suất; Điều 22.3.TT.12.3. Nguyên tắc, điều kiện, thời hạn, mức tiền cho vay và hỗ trợ lãi suất, hồ sơ vay vốn, phương thức hỗ trợ lãi suất; Điều 24.9.TT.3.1.; Điều 24.9.TT.4.2. Bên cho vay và bên vay; Điều 24.9.TT.4.5. Lãi suất và mức cho vay; Điều 24.9.TT.4.6. Thời hạn cho vay; Điều 24.9.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 24.9.TT.5.2. Hình thức thực hiện hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất; Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất; Điều 24.9.TT.5.4. Mức hỗ trợ, cấp bù và nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất)
 
-### Điều 24.9.QĐ.3.3.
+Điều 24.9.TT.3.1.
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 08/2014/TT-BNNPTTN, có hiệu lực thi hành kể từ ngày 12/05/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 02/2016/TT-BNNPTNT có hiệu lực thi hành kể từ ngày 22/04/2016)
 
-**Chỉ mục:** 3
+Ban hành kèm theo Thông tư này ;Danh mục chủng loại máy, thiết bị sản xuất trong nước, nhập khẩu; được hưởng chính sách hỗ trợ theo quy định tại khoản 2 Điều 1 Quyết định số 68/2013/QĐ-TTg ngày 14/11/2013 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp (sau đây gọi là Quyết định 68/2013/QĐ-TTg), có Danh mục kèm theo.
 
-**Mã phân cấp:** 2400900000000000450000850249100068000030
+Danh muc _Thong tu 02.2016.docx
 
-**ID:** dk_00038220
+Thong tu 02.2016.TT.BNN sua doi Thong tu 08.doc.docx
 
----
+(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.1. )
 
+Điều 24.9.QĐ.3.2. 
 
-### Điều 24.9.TT.4.2. Bên cho vay và bên vay
+(Điều 2 Quyết định số 68/2013/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-*Nội dung chưa có sẵn*
+Ngân sách nhà nước hỗ trợ phần chênh lệch giữa lãi suất thương mại đối với các khoản vay dài hạn, trung hạn bằng đồng Việt Nam và lãi suất tín dụng đầu tư phát triển của Nhà nước để thực hiện các dự án đầu tư dây chuyền máy, thiết bị giảm tổn thất trong nông nghiệp (bao gồm cả nhà xưởng); các dự án chế tạo máy, thiết bị sản xuất nông nghiệp quy định như sau:
 
-**Chỉ mục:** 2
+1. Đối tượng hỗ trợ là các doanh nghiệp, hợp tác xã, tổ hợp tác, hộ gia đình, cá nhân.
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500130000200
+2. Danh mục các dự án đầu tư gồm:
 
-**ID:** dk_00038221
+a) Kho silô dự trữ lúa, ngô; hệ thống sấy nông sản; dây chuyền máy, thiết bị xay xát, đánh bóng, phân loại gạo;
 
----
+b) Hệ thống nhà kính, nhà lưới phục vụ sản xuất; máy, thiết bị bảo quản, chế biến rau, hoa, quả;
 
+c) Dây chuyền máy, thiết bị bảo quản, giết mổ gia súc, gia cầm công nghiệp; chế biến thủy sản (thiết bị làm lạnh, cấp đông, tái đông; sản xuất nước đá, đá vảy; thiết bị hấp sấy...);
 
-### Điều 24.9.TT.4.3. Nguyên tắc cho vay
+d) Dây chuyền máy, thiết bị chế biến cà phê, chè, nhân điều, hồ tiêu;
 
-*Nội dung chưa có sẵn*
+đ) Dây chuyền máy, thiết bị chế biến muối;
 
-**Chỉ mục:** 3
+e) Các dự án chế tạo máy, thiết bị sản xuất nông nghiệp.
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500130000300
+3. Điều kiện được hưởng hỗ trợ:
 
-**ID:** dk_00038222
+a) Các tổ chức, cá nhân phải có dự án đầu tư được cấp có thẩm quyền phê duyệt;
 
----
+b) Các dự án đầu tư chưa được hưởng hỗ trợ từ các chính sách khác.
 
+4. Mức vay tối đa bằng 70% giá trị của dự án.
 
-### Điều 24.9.TT.4.4. Điều kiện vay vốn
+5. Thời hạn cho vay được xác định theo khả năng thu hồi vốn của dự án và khả năng trả nợ của chủ đầu tư phù hợp với đặc điểm sản xuất, kinh doanh của dự án nhưng không quá 12 năm.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 24.9.NĐ.12. Hỗ trợ phát triển ngành nghề nông thôn; Điều 24.9.TT.3.2.; Điều 24.9.TT.4.2. Bên cho vay và bên vay; Điều 24.9.TT.4.5. Lãi suất và mức cho vay; Điều 24.9.TT.4.6. Thời hạn cho vay; Điều 24.9.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 24.9.TT.5.2. Hình thức thực hiện hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất; Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất; Điều 24.9.TT.5.4. Mức hỗ trợ, cấp bù và nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất)
 
-**Chỉ mục:** 4
+Điều 24.9.TT.3.2.
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500130000400
+(Điều 2 Thông tư số 08/2014/TT-BNNPTTN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-**ID:** dk_00038223
+Thẩm định điều kiện kỹ thuật các loại máy, thiết bị của các dự án đầu tư theo quy định tại khoản 2 Điều 2 Quyết định số 68/2013/QĐ-TTg phải bảo đảm các yêu cầu sau:
 
----
+1. Dự án phải có thuyết minh quy trình công nghệ sản xuất sản phẩm.
 
+2. Các loại máy, thiết bị trong dây chuyền phải có đầy đủ hồ sơ, tài liệu kỹ thuật; không vi phạm quyền bảo hộ về sở hữu trí tuệ, sở hữu công nghiệp; phải đảm bảo tính pháp lý về nguồn gốc xuất xứ và đáp ứng các quy định hiện hành về công bố tiêu chuẩn áp dụng theo Điều 23 Luật Chất lượng sản phẩm, hàng hóa.
 
-### Điều 24.9.TT.4.5. Lãi suất và mức cho vay
+(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.2. )
 
-*Nội dung chưa có sẵn*
+Điều 24.9.QĐ.3.3. 
 
-**Chỉ mục:** 5
+(Điều 3 Quyết định số 68/2013/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500130000500
+Nguyên tắc xác định mức lãi suất cho vay của các ngân hàng thương mại và ngân sách nhà nước hỗ trợ lãi suất, cấp bù chênh lệch lãi suất như sau:
 
-**ID:** dk_00038224
+1. Mức lãi suất cho vay thương mại của các ngân hàng để mua các loại máy, thiết bị là mức lãi suất cho vay thấp nhất trong lĩnh vực nông nghiệp, nông thôn cùng kỳ hạn và cùng thời kỳ của ngân hàng thực hiện cho vay và được công bố công khai.
 
----
+2. Ngân sách nhà nước chỉ hỗ trợ lãi suất và cấp bù chênh lệch lãi suất đối với các khoản khách hàng trả nợ đúng hạn. Những khoản vay bị chuyển sang nợ quá hạn sẽ không được hưởng hỗ trợ kể từ thời điểm phát sinh nợ xấu.
 
+3. Ngân sách nhà nước chỉ hỗ trợ lãi suất và cấp bù chênh lệch lãi suất đối với các khoản vay đã ký hợp đồng vay vốn tại các ngân hàng thương mại trước ngày 31 tháng 12 năm 2020.
 
-### Điều 24.9.TT.4.6. Thời hạn cho vay
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 22.3.TT.12.4. Quy trình và trách nhiệm của khách hàng vay, ngân hàng thương mại, công ty tài chính thực hiện hỗ trợ lãi suất; Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất)
 
-*Nội dung chưa có sẵn*
+Điều 24.9.TT.4.2. Bên cho vay và bên vay
 
-**Chỉ mục:** 6
+(Điều 2 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500130000600
+1. Bên cho vay là các ngân hàng thương mại được thành lập và hoạt động theo quy định của Luật các tổ chức tín dụng.
 
-**ID:** dk_00038225
+2. Bên vay là các tổ chức, cá nhân được quy định tại Điều 1 và Điều 2 Quyết định số 68/2013/QĐ-TTg.
 
----
+(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. ; Điều 22.3.TT.12.3. Nguyên tắc, điều kiện, thời hạn, mức tiền cho vay và hỗ trợ lãi suất, hồ sơ vay vốn, phương thức hỗ trợ lãi suất)
 
+Điều 24.9.TT.4.3. Nguyên tắc cho vay
 
-### Điều 24.9.TT.4.7. Trách nhiệm của các ngân hàng thương mại
+(Điều 3 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
+
+1. Cho vay nhằm giảm tổn thất trong nông nghiệp được thực hiện theo quy định về cho vay của tổ chức tín dụng đối với khách hàng và quy định tại Thông tư này.
+
+2. Khách hàng vay vốn phải sử dụng vốn đúng mục đích.
+
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 22.3.TT.12.3. Nguyên tắc, điều kiện, thời hạn, mức tiền cho vay và hỗ trợ lãi suất, hồ sơ vay vốn, phương thức hỗ trợ lãi suất)
+
+Điều 24.9.TT.4.4. Điều kiện vay vốn
+
+(Điều 4 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
+
+1. Các đối tượng vay vốn bằng đồng Việt Nam mua máy, thiết bị nằm trong danh mục chủng loại máy, thiết bị sản xuất trong nước, nhập khẩu do Bộ Nông nghiệp và Phát triển nông thôn công bố và đầu tư các dự án máy, thiết bị được thẩm định theo hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn.
+
+2. Đáp ứng các điều kiện tại khoản 3 Điều 1 và khoản 3 Điều 2 Quyết định số 68/2013/QĐ-TTg.
+
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 22.3.TT.12.3. Nguyên tắc, điều kiện, thời hạn, mức tiền cho vay và hỗ trợ lãi suất, hồ sơ vay vốn, phương thức hỗ trợ lãi suất; Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất)
+
+Điều 24.9.TT.4.5. Lãi suất và mức cho vay
+
+(Điều 5 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
+
+1. Các ngân hàng thương mại cho vay theo mức lãi suất cho vay thấp nhất áp dụng cho các khoản vay vốn phục vụ lĩnh vực nông nghiệp, nông thôn cùng kỳ hạn và cùng thời kỳ.
+
+2. Mức cho vay tối đa được hỗ trợ lãi suất, cấp bù chênh lệch lãi suất quy định tại khoản 4 Điều 1 và khoản 4 Điều 2 Quyết định số 68/2013/QĐ-TTg.
+
+3. Việc hỗ trợ lãi suất, cấp bù chênh lệch lãi suất đối với khách hàng được thực hiện theo hướng dẫn của Bộ Tài chính.
+
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. ; Điều 22.3.TT.12.3. Nguyên tắc, điều kiện, thời hạn, mức tiền cho vay và hỗ trợ lãi suất, hồ sơ vay vốn, phương thức hỗ trợ lãi suất; Điều 24.9.TT.5.4. Mức hỗ trợ, cấp bù và nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất)
+
+Điều 24.9.TT.4.6. Thời hạn cho vay
+
+(Điều 6 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
+
+1. Thời hạn cho vay đối với khách hàng mua máy, thiết bị theo quy định tại điểm b khoản 4 Điều 1 Quyết định số 68/2013/QĐ-TTg do ngân hàng thương mại và khách hàng thỏa thuận, nhưng chỉ được ngân sách nhà nước hỗ trợ lãi suất tối đa 03 năm.
+
+2. Thời hạn cho vay đối với khách hàng đầu tư dự án dây chuyền máy, thiết bị quy định tại khoản 5 Điều 2 Quyết định số 68/2013/QĐ-TTg do ngân hàng thương mại và khách hàng tự thỏa thuận, phù hợp với khả năng thu hồi vốn của dự án, nhưng tối đa không quá 12 năm.
+
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng; Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. ; Điều 22.3.TT.12.3. Nguyên tắc, điều kiện, thời hạn, mức tiền cho vay và hỗ trợ lãi suất, hồ sơ vay vốn, phương thức hỗ trợ lãi suất)
 
 Điều 24.9.TT.4.7. Trách nhiệm của các ngân hàng thương mại
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500139000700
+1. Báo cáo Ngân hàng Nhà nước Việt Nam (Vụ Tín dụng các ngành kinh tế) và Bộ Tài chính về việc tham gia cho vay nhằm giảm tổn thất trong nông nghiệp trước khi thực hiện khoản cho vay đầu tiên, trừ các ngân hàng thương mại đã thực hiện cho vay nhằm giảm tổn thất sau thu hoạch đối với nông sản thủy sản theo Thông tư số 22/2012/TT-NHNN ngày 22 tháng 6 năm 2012 của Ngân hàng Nhà nước Việt Nam về hướng dẫn thực hiện Quyết định số 63/2010/QĐ-TTg ngày 15 tháng 10 năm 2010 và Quyết định số 65/2011/QĐ-TTg ngày 02 tháng 12 năm 2011 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất sau thu hoạch đối với nông sản, thủy sản.
 
-**ID:** dk_00038226
+2. Có trách nhiệm xem xét, thẩm định và quyết định cho vay đối với khách hàng theo quy định và chịu trách nhiệm về quyết định cho vay của mình.
 
----
-
-
-### Điều 24.9.TT.4.8. Trách nhiệm của khách hàng vay vốn
+3. Định kỳ hàng tháng (trước ngày 10 của tháng tiếp theo) báo cáo Ngân hàng Nhà nước Việt Nam (Vụ Tín dụng các ngành kinh tế) kết quả về cho vay hỗ trợ nhằm giảm tổn thất trong nông nghiệp, theo mẫu biểu đính kèm Thông tư này.
 
 Điều 24.9.TT.4.8. Trách nhiệm của khách hàng vay vốn
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500139000800
+1. Cung cấp đầy đủ, trung thực các thông tin, tài liệu liên quan đến việc vay vốn theo quy định và chịu trách nhiệm về tính chính xác của các thông tin tài liệu đã cung cấp.
 
-**ID:** dk_00038227
-
----
-
-
-### Điều 24.9.TT.4.9. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước
+2. Sử dụng vốn vay đúng mục đích; trả nợ gốc, lãi theo thỏa thuận với ngân hàng thương mại.
 
 Điều 24.9.TT.4.9. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802506500139000900
+1 .Vụ Tín dụng các ngành kinh tế
 
-**ID:** dk_00038228
+a) Phối hợp với các đơn vị có liên quan trong việc tháo gỡ những khó khăn, vướng mắc trong quá trình triển khai thực hiện cho vay theo quy định tại Thông tư này;
 
----
+b) Tổng hợp và báo cáo Thống đốc kết quả cho vay nhằm giảm tổn thất trong nông nghiệp.
 
+2. Cơ quan Thanh tra, giám sát ngân hàng
 
-### Điều 24.9.TT.5.2. Hình thức thực hiện hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+Thực hiện thanh tra, giám sát việc cho vay của các ngân hàng thương mại đối với khách hàng theo quy định tại Thông tư này.
+
+(Điều này có nội dung liên quan đến Điều 22.3.TT.12.5. Trách nhiệm của Ngân hàng Nhà nước Việt Nam)
 
 Điều 24.9.TT.5.2. Hình thức thực hiện hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802514500890000200
+ 1. Ngân hàng thương mại cho vay thực hiện việc hỗ trợ lãi suất hoặc hỗ trợ phần chênh lệch giữa lãi suất thương mại và lãi suất tín dụng đầu tư phát triển của Nhà nước đối với các tổ chức, cá nhân vay vốn thuộc đối tượng quy định tại Điều 1, Điều 2 Quyết định số 68/2013/QĐ-TTg.
 
-**ID:** dk_00038229
-
----
-
-
-### Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+ 2. Ngân sách nhà nước hỗ trợ lãi suất vốn vay thương mại hoặc cấp bù phần chênh lệch giữa lãi suất thương mại và lãi suất tín dụng đầu tư phát triển của Nhà nước cho ngân hàng thương mại thực hiện cho vay theo quy định tại khoản 1 Điều này.(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. )
 
 Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014, có nội dung được sửa đổi bởi Điều 1 Thông tư số 82/2019/TT-BTC có hiệu lực thi hành kể từ ngày 30/12/2019)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802514500890000300
+1. Các ngân hàng thương mại tổ chức thực hiện cho vay theo quy định tại Điều 1, Điều 2 và Điều 3 Quyết định số 68/2013/QĐ-TTg và hướng dẫn của Ngân hàng Nhà nước Việt Nam.
 
-**ID:** dk_00038230
+2. Các khoản vay được ngân sách nhà nước hỗ trợ lãi suất và cấp bù chênh lệch lãi suất là các khoản vay đáp ứng đầy đủ các điều kiện sau:
 
----
+2.1 Các khoản vay đúng đối tượng, đúng mục tiêu và đáp ứng đủ các điều kiện quy định tại Điều 1, Điều 2 và Điều 3 Quyết định số 68/2013/QĐ-TTg.
 
+2.2 Các khoản vay trả nợ đúng hạn tại thời điểm hỗ trợ lãi suất và cấp bù chênh lệch lãi suất; không thực hiện hỗ trợ lãi suất và cấp bù chênh lệch lãi suất đối với các khoản vay quá hạn tính từ thời điểm quá hạn. Các khoản cho vay bị quá hạn một phần dư nợ gốc thì khách hàng không được hỗ trợ lãi suất, cấp bù chênh lệch lãi suất đối với phần dư nợ gốc bị quá hạn kể từ thời điểm phát sinh nợ quá hạn. Phần dư nợ gốc không bị quá hạn theo quy định thì tiếp tục được hưởng hỗ trợ lãi suất, cấp bù chênh lệch lãi suất theo Quyết định số 68/2013/QĐ-TTg.
 
-### Điều 24.9.TT.5.4. Mức hỗ trợ, cấp bù và nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất
+2.3 Các khoản vay đã ký hợp đồng vay vốn tại các ngân hàng thương mại từ ngày Quyết định số 68/2013/QĐ-TTg có hiệu lực thi hành đến trước ngày 31/12/2020.
+
+(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. ; Điều 24.9.QĐ.3.3. ; Điều 24.9.TT.4.4. Điều kiện vay vốn)
 
 Điều 24.9.TT.5.4. Mức hỗ trợ, cấp bù và nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802514500890000400
+ 1. Mức hỗ trợ lãi suất và cấp bù chênh lệch lãi suất:
 
-**ID:** dk_00038231
+ 1.1 Các khoản vay để mua các loại máy móc, thiết bị quy định tại Khoản 2 Điều 1 Quyết định số 68/2013/QĐ-TTg được ngân sách nhà nước hỗ trợ 100% lãi suất trong 02 năm đầu, 50% lãi suất trong năm thứ ba. Thời điểm hỗ trợ lãi suất đối với từng khoản vay được tính từ ngày giải ngân.
 
----
+ 1.2 Các khoản vay để thực hiện các dự án đầu tư dây chuyền máy, thiết bị; các dự án chế tạo máy, thiết bị sản xuất nông nghiệp quy định tại Khoản 2 Điều 2 Quyết định số 68/2013/QĐ-TTg được ngân sách nhà nước cấp bù chênh lệch giữa lãi suất cho vay thương mại của các ngân hàng thương mại và lãi suất tín dụng đầu tư phát triển của Nhà nước. Thời điểm cấp bù chênh lệch lãi suất đối với từng khoản vay được tính từ ngày giải ngân.
 
+ Thời gian được nhà nước cấp bù chênh lệch lãi suất bằng thời hạn cho vay quy định tại khoản 5 Điều 2 Quyết định số 68/2013/QĐ-TTg, tối đa không quá 12 năm.
 
-### Điều 24.9.TT.5.5. Hồ sơ, thủ tục hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+ 1.3 Mức lãi suất cho vay của các ngân hàng thương mại làm cơ sở để ngân sách nhà nước hỗ trợ lãi suất và cấp bù chênh lệch lãi suất là mức lãi suất cho vay thấp nhất của ngân hàng thương mại có hoạt động cho vay theo Quyết định số 68/2013/QĐ-TTg được áp dụng cho vay cho các khoản vay vốn phục vụ lĩnh vực nông nghiệp, nông thôn cùng kỳ hạn và cùng thời kỳ được ngân hàng thương mại niêm yết công khai tại các điểm giao dịch.
+
+ 1.4 Mức lãi suất tín dụng đầu tư phát triển của Nhà nước làm căn cứ cấp bù chênh lệch lãi suất theo quy định tại Điều 2 Quyết định số 68/2013/QĐ-TTg là mức lãi suất tín dụng đầu tư phát triển của Nhà nước công bố áp dụng cho từng thời kỳ.
+
+ 2. Nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất:
+
+ Nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất thực hiện chính sách hỗ trợ giảm tổn thất trong nông nghiệp được bố trí trong dự toán chi cấp bù chênh lệch lãi suất cho vay tín dụng ưu đãi (vốn đầu tư phát triển) của ngân sách nhà nước hàng năm.(Điều này có nội dung liên quan đến Điều 24.9.QĐ.3.1. ; Điều 24.9.QĐ.3.2. ; Điều 24.9.TT.4.5. Lãi suất và mức cho vay)
 
 Điều 24.9.TT.5.5. Hồ sơ, thủ tục hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014, có nội dung được sửa đổi bởi Điều 1 Thông tư số 82/2019/TT-BTC có hiệu lực thi hành kể từ ngày 30/12/2019)
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802514500890000500
+1. Lập kế hoạch hỗ trợ lãi suất và cấp bù chênh lệch lãi suất:
 
-**ID:** dk_00038232
+Hàng năm, chậm nhất vào ngày 31/7, các ngân hàng thương mại căn cứ dự kiến dư nợ cho vay để mua máy móc, thiết bị, đầu tư dây chuyền máy, thiết bị phục vụ sản xuất nông nghiệp của năm sau để xây dựng kế hoạch hỗ trợ lãi suất và cấp bù chênh lệch lãi suất cho năm kế hoạch (có chia ra từng quý) gửi Bộ Tài chính và Bộ Kế hoạch và Đầu tư.
 
----
+Riêng năm 2014, muộn nhất sau 15 ngày kể từ ngày Thông tư này có hiệu lực thi hành, các ngân hàng thương mại có trách nhiệm lập và gửi kế hoạch hỗ trợ lãi suất và cấp bù chênh lệch lãi suất cho Bộ Tài chính và Bộ Kế hoạch và Đầu tư.
 
+Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính bố trí dự toán chi cấp bù chênh lệch lãi suất của ngân sách trung ương để cấp bù cho các ngân hàng thương mại cho vay thực hiện chính sách hỗ trợ giảm tổn thất trong nông nghiệp.
 
-### Điều 24.9.TT.5.6. Chế độ báo cáo
+2. Việc lập kế hoạch hỗ trợ lãi suất và cấp bù chênh lệch lãi suất năm được thực hiện theo công thức sau đây:
 
-*Nội dung chưa có sẵn*
+2.1. Đối với lãi suất vay vốn được hỗ trợ:
 
-**Chỉ mục:** 6
+ Số tiền lãi được hỗ trợ kế hoạch
 
-**Mã phân cấp:** 240090000000000045000085024910006800003000802514500890000600
+ =
 
-**ID:** dk_00038233
+ Số tiền lãi được hỗ trợ của dư nợ cũ đã phát sinh (nêu tại Tiết a Điểm này)
 
----
+ +
 
+ Số tiền lãi được hỗ trợ dự kiến phát sinh trong năm kế hoạch (nêu tại Tiết b Điểm này)
 
-### Điều 24.9.NĐ.1.9. Hỗ trợ doanh nghiệp nghiên cứu, chuyển giao, ứng dụng nông nghiệp công nghệ cao
+a) Đối với những dư nợ cũ đã phát sinh (bao gồm cả số ước thực hiện đến 31/12 của năm trước năm kế hoạch):
+
+ Số tiền lãi được hỗ trợ của dư nợ cũ đã phát sinh
+
+ =
+
+ Dư nợ cho vay bình quân
+
+ x
+
+ Mức lãi suất hỗ trợ bình quân
+
+Trong đó:
+
+- Dư nợ cho vay bình quân được ngân hàng thương mại tính toán trên cơ sở bình quân số dư nợ đã thực hiện cho vay.
+
+- Mức lãi suất hỗ trợ bình quân bằng 100% lãi suất cho vay bình quân của ngân hàng thương mại trong 2 năm đầu, bằng 50% lãi suất cho vay bình quân của ngân hàng thương mại trong năm thứ ba được xác định theo quy định tại khoản 1 Điều 4 Thông tư này.
+
+b) Đối với những dư nợ sẽ phát sinh trong năm kế hoạch:
+
+ Số tiền lãi được hỗ trợ dự kiến phát sinh trong năm kế hoạch
+
+ =
+
+ Dư nợ cho vay bình quân dự kiến của năm được hỗ trợ
+
+ x
+
+ Mức lãi suất hỗ trợ bình quân
+
+Trong đó:
+
+- Dư nợ cho vay bình quân dự kiến của năm được hỗ trợ được tính theo công thức bình quân số học giữa dư nợ đầu năm kế hoạch và dư nợ cuối năm kế hoạch.
+
+- Mức lãi suất hỗ trợ bình quân bằng 100% lãi suất cho vay bình quân của ngân hàng thương mại trong 2 năm đầu, bằng 50% lãi suất cho vay bình quân của ngân hàng thương mại trong năm thứ ba được xác định theo quy định tại khoản 1 Điều 4 Thông tư này.
+
+2.2. Đối với lãi suất vay vốn được cấp bù:
+
+ Số tiền lãi chênh lệch được cấp bù kế hoạch
+
+ =
+
+ Số tiền lãi chênh lệch được cấp bù của dư nợ cũ đã phát sinh (nêu tại Tiết a Điểm này)
+
+ +
+
+ Số tiền lãi chênh lệch được cấp bù dự kiến phát sinh trong năm kế hoạch (nêu tại Tiết b Điểm này)
+
+a) Đối với những dư nợ cũ đã phát sinh (bao gồm cả số ước thực hiện đến 31/12 của năm trước năm kế hoạch):
+
+ Số tiền lãi chênh lệch được cấp bù của dư nợ cũ đã phát sinh
+
+ =
+
+ Dư nợ đã cho vay bình quân được cấp bù chênh lệch lãi suất
+
+ x
+
+ Mức chênh lệch lãi suất cấp bù bình quân
+
+Trong đó:
+
+- Dư nợ đã cho vay bình quân được cấp bù chênh lệch lãi suất được ngân hàng thương mại tính toán trên cơ sở bình quân số dư nợ đã thực hiện cho vay.
+
+- Mức chênh lệch lãi suất cấp bù bình quân là chênh lệch giữa lãi suất cho vay bình quân của ngân hàng thương mại và lãi suất tín dụng đầu tư phát triển của nhà nước, được tính theo công thức bình quân số học giữa mức chênh lệch lãi suất cấp bù đầu năm và cuối năm.
+
+b) Đối với những dư nợ ước sẽ phát sinh trong năm kế hoạch:
+
+ Số tiền lãi chênh lệch được cấp bù dự kiến phát sinh trong năm kế hoạch
+
+ =
+
+ Dư nợ cho vay bình quân dự kiến của năm được cấp bù
+
+ x
+
+ Mức chênh lệch lãi suất cấp bù bình quân
+
+Trong đó:
+
+- Dư nợ cho vay bình quân dự kiến của năm được cấp bù được tính theo công thức bình quân số học giữa dư nợ đầu năm kế hoạch và dư nợ cuối năm kế hoạch.
+
+- Mức chênh lệch lãi suất cấp bù bình quân là chênh lệch giữa lãi suất cho vay bình quân của ngân hàng thương mại và lãi suất tín dụng đầu tư phát triển của nhà nước, được tính theo công thức bình quân số học giữa mức chênh lệch lãi suất cấp bù đầu năm và cuối năm.
+
+3. Tạm cấp hỗ trợ lãi suất vay vốn và tạm cấp bù chênh lệch lãi suất hàng quý:
+
+Tối đa sau 30 ngày kể từ ngày nhận được báo cáo thực hiện quý theo quy định tại khoản 1 Điều 6 Thông tư này kèm văn bản đề nghị của ngân hàng thương mại, Bộ Tài chính sẽ thực hiện tạm cấp bằng 80% số tiền hỗ trợ lãi suất của ngân hàng thực hiện quý trước nhưng số tiền tạm cấp lũy kế tính từ đầu năm không vượt quá dự toán được giao đầu năm. Trường hợp không thực hiện tạm cấp, Bộ Tài chính có văn bản trả lời nguyên nhân và hướng dẫn các ngân hàng thương mại cách thức xử lý trong thời hạn 20 ngày làm việc.
+
+4. Phương pháp xác định số tiền lãi được hỗ trợ và số tiền lãi chênh lệch được cấp bù:
+
+4.1. Đối với các khoản vay được hỗ trợ lãi suất vốn vay theo quy định tại Điều 1 Quyết định số 68/2013/QĐ-TTg:
+
+a) Số tiền lãi được hỗ trợ cho một khoản vay được tính theo phương pháp tích số giữa mức lãi suất hỗ trợ với dư nợ cho vay và thời gian vay vốn được hỗ trợ lãi suất theo công thức sau:
+
+ Số tiền lãi được hỗ trợ thực tế
+
+ =
+
+ Mức lãi suất hỗ trợ năm
+
+ x
+
+ Tổng các tích số giữa số dư nợ (tương ứng với lãi suất cho vay cùng kỳ) với số ngày dư nợ thực tế trong năm
+
+ 365
+
+Trong đó:
+
+- Mức lãi suất hỗ trợ thực hiện theo quy định tại khoản 1 Điều 4 Thông tư này và được tính theo đơn vị là %/năm.
+
+- n là số ngày dư nợ thực tế trong kỳ được hỗ trợ lãi suất.
+
+b) Số tiền lãi được hỗ trợ của các ngân hàng thương mại là tổng số tiền lãi hỗ trợ thực tế của tất cả các khoản vay thuộc đối tượng được hỗ trợ lãi suất.
+
+c) Các ngân hàng thương mại sử dụng công thức trên để xác định số tiền hỗ trợ lãi suất đề nghị Bộ Tài chính cấp bù.
+
+4.2. Đối với các khoản vay được cấp bù chênh lệch lãi suất theo quy định tại Điều 2 Quyết định số 68/2013/QĐ-TTg:
+
+a) Số tiền lãi chênh lệch được cấp bù cho một khoản vay được tính theo phương pháp tích số giữa mức chênh lệch lãi suất được cấp bù với dư nợ cho vay và thời gian vay vốn được cấp bù lãi suất theo công thức sau:
+
+ Số tiền lãi chênh lệch được cấp bù thực tế
+
+ =
+
+ Mức chênh lệch lãi suất cấp bù năm
+
+ x
+
+ Tổng các tích số giữa số dư nợ (tương ứng với lãi suất cho vay cùng kỳ) với số ngày dư nợ thực tế trong năm
+
+ 365
+
+Trong đó:
+
+- Mức chênh lệch lãi suất cấp bù theo quy định tại khoản 1 Điều 4 Thông tư này và được tính theo đơn vị là %/năm.
+
+- n là số ngày dư nợ thực tế phát sinh trong kỳ được hỗ trợ lãi suất.
+
+b) Số tiền lãi chênh lệch được cấp bù của ngân hàng thương mại là tổng số lãi cấp bù thực tế của tất cả các khoản vay thuộc đối tượng được cấp bù lãi suất xác định theo quy định tại tiết a điểm 4.2 khoản 4 Điều này.
+
+c) Ngân hàng thương mại sử dụng công thức trên để xác định số tiền chênh lệch lãi suất đề nghị Bộ Tài chính cấp bù.
+
+5. Quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất:
+
+5.1. Trong vòng 90 ngày kể từ ngày kết thúc năm tài chính, các ngân hàng thương mại phải gửi hồ sơ đề nghị quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất cho Bộ Tài chính. Đối với các trường hợp hồ sơ thiếu hoặc không hợp lệ, Bộ Tài chính có trách nhiệm thông báo bằng văn bản cho các ngân hàng thương mại nhà nước trong thời hạn 10 ngày làm việc.
+
+5.2. Hồ sơ đề nghị quyết toán:
+
+a) Hồ sơ đề nghị quyết toán đối với khoản vay được hỗ trợ lãi suất vay vốn:
+
+- Báo cáo tổng hợp toàn hệ thống về quyết toán hỗ trợ lãi suất vay vốn đã được kiểm toán bởi Kiểm toán độc lập hoặc Kiểm toán nhà nước (Phụ lục 1 ban hành kèm Thông tư này).
+
+- Báo cáo theo từng tỉnh về quyết toán hỗ trợ lãi suất vay vốn (Phụ lục 2 ban hành kèm Thông tư này).
+
+b) Hồ sơ đề nghị quyết toán đối với khoản vay được cấp bù chênh lệch lãi suất:
+
+- Báo cáo tổng hợp toàn hệ thống về quyết toán chênh lệch lãi suất cấp bù theo lãi suất tín dụng đầu tư phát triển đã được kiểm toán bởi Kiểm toán độc lập hoặc Kiểm toán nhà nước (Phụ lục 3 ban hành kèm Thông tư này).
+
+- Báo cáo theo từng tỉnh về quyết toán chênh lệch lãi suất cấp bù theo lãi suất tín dụng đầu tư phát triển (Phụ lục 4 ban hành kèm Thông tư này).
+
+5.3. Các ngân hàng thương mại tổ chức sao, lưu chứng từ, các báo cáo chi tiết theo từng khoản hỗ trợ lãi suất đảm bảo tính chính xác, minh bạch rõ ràng để tạo điều kiện cho công tác thẩm tra số liệu quyết toán hỗ trợ lãi suất và cấp bù chênh lệch lãi suất quy định tại Điểm 5.4 Khoản 5 Điều này.
+
+5.4 Thẩm tra số liệu quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất:
+
+a) Bộ Tài chính tiến hành thẩm tra số liệu quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất sau khi nhận được đầy đủ hồ sơ đề nghị quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+
+b) Bộ Tài chính thông báo bằng văn bản các chi nhánh của ngân hàng thương mại được lựa chọn để thực hiện thẩm tra quyết toán.
+
+c) Các ngân hàng thương mại có trách nhiệm cung cấp các hồ sơ chi tiết theo từng khoản vay, được tổng hợp theo từng chi nhánh được lựa chọn để thực hiện thẩm tra quyết toán như sau:
+
+- Hợp đồng tín dụng, khế ước hoặc các giấy tờ tương đương để xác định đối tượng khách hàng vay vốn, tình hình thực hiện cho vay, dư nợ, thu nợ.
+
+- Bảng kê tích số để xác định số tiền hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+
+- Giấy xác nhận của khách hàng trực tiếp vay vốn về việc đã được hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất theo năm trong đó có liệt kê từng lần được hỗ trợ dưới mọi hình thức.
+
+- Văn bản thông báo lãi suất cho vay thấp nhất để làm căn cứ phê duyệt quyết toán số hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+
+Các tài liệu nêu trên là bản phôtô có đóng dấu sao y bản chính của các ngân hàng thương mại (số lượng 01 bộ) và được người có trách nhiệm ký, ghi rõ họ tên.
+
+d) Việc thẩm tra số liệu quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất được thực hiện trong thời gian 90 ngày kể từ ngày nhận được đầy đủ hồ sơ quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất của các ngân hàng thương mại.
+
+5.5. Xử lý chênh lệch số liệu quyết toán và số tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất:
+
+- Trường hợp có sự chênh lệch giữa số báo cáo quyết toán có xác nhận của cơ quan kiểm toán và số thẩm tra quyết toán của Bộ Tài chính, các ngân hàng thương mại có trách nhiệm điều chỉnh trên sổ sách kế toán để phản ánh chính xác số quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+
+- Trường hợp số tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất đã được ngân sách nhà nước chuyển tiền cao hơn số thẩm tra quyết toán thì số chênh lệch sẽ được Bộ Tài chính thu hồi nộp ngân sách nhà nước.
+
+- Trường hợp số tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất đã được ngân sách nhà nước chuyển tiền thấp hơn số thẩm tra quyết toán thì số chênh lệch sẽ được ngân sách nhà nước cấp bổ sung.
+
+- Việc xử lý chênh lệch giữa số thẩm tra quyết toán và số tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất được thực hiện trong thời gian 45 ngày kể từ ngày của Biên bản thẩm tra quyết toán.
+
+- Trường hợp phải kéo dài thời gian xử lý chênh lệch giữa số liệu quyết toán và số thẩm tra quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất và các trường hợp đặc biệt khác sẽ do Bộ trưởng Bộ Tài chính xem xét, quyết định.
+
+6. Xử lý việc thu hồi số tiền đã hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất:
+
+- Trường hợp trong thời gian hỗ trợ, các ngân hàng thương mại qua kiểm tra khách hàng vay vốn mà phát hiện sai phạm trong việc sử dụng vốn vay của khách hàng thì tiến hành chuyển khoản vay sai phạm được nhà nước hỗ trợ thành khoản vay thông thường và tiến hành thu hồi ngay số tiền ngân hàng đã tạm ứng hỗ trợ cho khách hàng vay vốn.
+
+- Trường hợp sai phạm của khách hàng vay vốn được phát hiện sau khi quyết toán của các cơ quan quản lý nhà nước, các ngân hàng thương mại có trách nhiệm thu hồi số tiền được nhà nước hỗ trợ và nộp trả về ngân sách nhà nước.
+
+- Trường hợp số tiền hỗ trợ lãi suất của các khách hàng vay vốn có sai phạm đã được các ngân hàng thương mại dùng mọi biện pháp để tận thu nhưng không thu hồi được, các ngân hàng thương mại có báo cáo cụ thể từng trường hợp gửi về Bộ Tài chính để được hướng dẫn xử lý.
+
+Phu luc 1_Thong tu 89.2014.TT.BTC.docx
+
+Phu luc 2_Thong tu 89.2014.TT.BTC.docx
+
+Phu luc 3_Thong tu 89.2014.TT.BTC.docx
+
+Phu luc 4_Thong tu 89.2014.TT.BTC.docx
+
+Điều 24.9.TT.5.6. Chế độ báo cáo
+
+(Điều 6 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 82/2019/TT-BTC có hiệu lực thi hành kể từ ngày 30/12/2019)
+
+1. Các ngân hàng thương mại thực hiện chế độ báo cáo quý, năm về kết quả thực hiện hỗ trợ lãi suất, cấp bù chênh lệch lãi suất của chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp của toàn hệ thống theo quy định tại Thông tư này, bao gồm:
+
+a) Đối với báo cáo quý:
+
+Định kỳ hàng quý, các ngân hàng thương mại tổng hợp số liệu về kết quả thực hiện hỗ trợ lãi suất, cấp bù chênh lệch lãi suất của chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp của toàn hệ thống theo Phụ lục số 05, Phụ lục số 06 ban hành kèm theo Thông tư này và gửi về Bộ Tài chính.
+
+b) Đối với báo cáo năm:
+
+Định kỳ hàng năm, các ngân hàng thương mại gửi báo cáo thực hiện năm cho Bộ Tài chính gồm:
+
+- Số tiền hỗ trợ lãi suất vay vốn và chênh lệch lãi suất đã được tạm cấp trong năm.
+
+- Số tiền hỗ trợ lãi suất vay vốn và chênh lệch lãi suất phát sinh thực tế đề nghị được cấp cả năm.
+
+- Hồ sơ đề nghị quyết toán theo quy định tại điểm 5.2 khoản 5 Điều 5 Thông tư này.
+
+2. Thời hạn báo cáo
+
+a) Thời hạn gửi báo cáo quý: chậm nhất là 30 ngày kể từ ngày kết thúc quý.
+
+b) Thời hạn gửi báo cáo năm: chậm nhất là 90 ngày kể từ ngày kết thúc năm tài chính.
+
+3. Phương thức báo cáo
+
+Các ngân hàng thương mại thực hiện báo cáo bằng văn bản cho Bộ Tài chính.
 
 Điều 24.9.NĐ.1.9. Hỗ trợ doanh nghiệp nghiên cứu, chuyển giao, ứng dụng nông nghiệp công nghệ cao
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450000940265250057000090
+1. Hỗ trợ kinh phí thực hiện đề tài nghiên cứu khoa học, mua bản quyền công nghệ, mua công nghệ hoặc mua kết quả nghiên cứu khoa học và phát triển công nghệ để tạo ra sản phẩm mới, cải tiến công nghệ, công nghệ giảm thiểu ô nhiễm môi trường, công nghệ tiết kiệm nguyên liệu, nhiên liệu, tiết kiệm năng lượng:
 
-**ID:** dk_00038234
+a) Mức hỗ trợ: 80% kinh phí thực hiện, nhưng không quá 300 triệu đồng/đề tài/bản quyền/công nghệ.
 
----
+b) Điều kiện hỗ trợ
 
+- Doanh nghiệp có doanh thu năm trước tối thiểu bằng 10 lần mức hỗ trợ.
 
-### Điều 24.9.NĐ.1.10. Hỗ trợ đào tạo nguồn nhân lực, phát triển thị trường
+- Các bản quyền, công nghệ doanh nghiệp đề xuất mua phải phù hợp với định hướng phát triển sản xuất của doanh nghiệp đã đăng ký.
+
+- Trường hợp đề tài nghiên cứu khoa học được ứng dụng trong thực tế thì được thanh toán bằng mức hỗ trợ; trường hợp không được áp dụng trong thực tế thì được thanh toán bằng 50% mức hỗ trợ.
+
+2. Hỗ trợ doanh nghiệp thực hiện dự án sản xuất thử nghiệm phục vụ áp dụng công nghệ mới, công nghệ cao, sản xuất sản phẩm mới:
+
+a) Ưu tiên doanh nghiệp tham gia, chủ trì các dự án, nhiệm vụ (sau đây gọi là dự án) khoa học công nghệ có sử dụng ngân sách nhà nước.
+
+- Doanh nghiệp được mời tham gia phối hợp thực hiện các nội dung của dự án khoa học công nghệ hoặc xây dựng mô hình thuộc nhiệm vụ khoa học công nghệ triển khai tại địa phương doanh nghiệp đăng ký kinh doanh;
+
+- Đề xuất đặt hàng dự án của doanh nghiệp được xem xét ưu tiên phê duyệt triển khai thực hiện theo hình thức xét chọn hoặc giao trực tiếp;
+
+- Doanh nghiệp có nguồn gen quý hiếm được ưu tiên thực hiện dự án quỹ gen cấp quốc gia để phát triển thành sản phẩm thương mại.
+
+b) Mức hỗ trợ: 70% kinh phí thực hiện nhiệm vụ đối với dự án nông nghiệp đặc biệt ưu đãi đầu tư và 50% kinh phí đối với dự án nông nghiệp ưu đãi đầu tư và dự án nông nghiệp khuyến khích đầu tư nhưng không quá 01 tỷ đồng.
+
+c) Điều kiện hỗ trợ
+
+- Dự án sản xuất sản phẩm thử nghiệm, sản phẩm công nghệ cao, sản phẩm mới có văn bản thống nhất của cơ quan quản lý khoa học thuộc cấp bộ hoặc Ủy ban nhân dân cấp tỉnh.
+
+- Nhiệm vụ đề xuất hỗ trợ có nội dung phù hợp với định hướng phát triển sản xuất, kinh doanh của doanh nghiệp.
+
+3. Doanh nghiệp được giao toàn bộ quyền sở hữu kết quả nghiên cứu khoa học, phát triển công nghệ sau khi các nhiệm vụ khoa học và công nghệ được nghiệm thu và ưu tiên triển khai sản phẩm khoa học công nghệ:
+
+a) Doanh nghiệp chủ trì đề tài khoa học và công nghệ, dự án có sử dụng ngân sách nhà nước chọn, tạo được giống cây trồng, vật nuôi, khi kết thúc dự án nghiệm thu từ mức đạt trở lên được phép triển khai nhân rộng trong thời gian 03 năm kể từ khi kết thúc dự án nghiệm thu.
+
+b) Doanh nghiệp chủ trì đề tài khoa học và công nghệ, dự án có sử dụng ngân sách nhà nước tạo ra các sản phẩm mới được thị trường chấp nhận, khi kết thúc nhiệm vụ nghiệm thu từ mức đạt trở lên được phép triển khai nhân rộng trong thời gian 02 năm kể từ khi kết thúc dự án nghiệm thu.
+
+c) Doanh nghiệp chủ trì đề tài khoa học và công nghệ, dự án có sử dụng ngân sách nhà nước, có phòng thí nghiệm đạt tiêu chuẩn ISO/IEC 17025, các kết quả kiểm nghiệm về tiêu chuẩn sản phẩm của doanh nghiệp được chấp nhận khi đăng ký lưu hành sản phẩm tại các cơ quan chức năng theo chuyên môn.
+
+4. Doanh nghiệp có dự án nhân giống cây trồng bằng công nghệ nuôi cấy mô được hỗ trợ như sau:
+
+a) Mức hỗ trợ 80% kinh phí đầu tư để xây dựng cơ sở hạ tầng, thiết bị và xử lý môi trường, nhưng không quá 05 tỷ đồng/dự án.
+
+b) Điều kiện hỗ trợ: Quy mô từ 01 triệu cây/năm trở lên. Trường hợp quy mô dự án tăng thì mức hỗ trợ tăng tương ứng nhưng không quá 10 tỷ đồng/dự án.
+
+5. Doanh nghiệp có dự án sản xuất giống cây trồng, giống vật nuôi, giống thủy sản, trồng thử nghiệm cây trồng mới có giá trị kinh tế cao được Ủy ban nhân dân cấp tỉnh phê duyệt được hỗ trợ 70% chi phí để xây dựng cơ sở hạ tầng, thiết bị và xử lý môi trường, cây giống nhưng không quá 03 tỷ đồng/dự án.
+
+6. Doanh nghiệp đầu tư các khu, vùng, dự án nông nghiệp ứng dụng công nghệ cao được hỗ trợ tối đa 300 triệu đồng/ha để xây dựng cơ sở hạ tầng, thiết bị và xử lý môi trường.
+
+(Điều này có nội dung liên quan đến Điều 19.2.LQ.5. Hình thức chuyển giao công nghệ; Điều 19.2.LQ.6. Phương thức chuyển giao công nghệ; Điều 24.9.NĐ.10. Khoa học công nghệ; Điều 19.2.NĐ.2.29. Chính sách xây dựng và nhân rộng mô hình; Điều 19.2.NĐ.2.31. Xã hội hóa khuyến nông, chuyển giao công nghệ trong nông nghiệp; Điều 24.9.QĐ.2.14. Về khoa học công nghệ)
 
 Điều 24.9.NĐ.1.10. Hỗ trợ đào tạo nguồn nhân lực, phát triển thị trường
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450001040265250057000100
+1. Doanh nghiệp có dự án nông nghiệp đặc biệt ưu đãi đầu tư, ưu đãi đầu tư và khuyến khích đầu tư được ngân sách nhà nước hỗ trợ như sau:
 
-**ID:** dk_00038235
+a) Hỗ trợ cho doanh nghiệp trực tiếp đào tạo nghề cho lao động với mức hỗ trợ 02 triệu đồng/tháng/lao động, thời gian hỗ trợ 03 tháng.
 
----
+Trường hợp doanh nghiệp tham gia liên kết chuỗi giá trị được hỗ trợ kinh phí tổ chức đào tạo và hướng dẫn kỹ thuật cho nông dân, mức hỗ trợ 500 ngàn đồng/nông dân tham gia liên kết được đào tạo. Thời gian hỗ trợ là 03 tháng.
 
+b) Hỗ trợ 50% chi phí quảng cáo, xây dựng thương hiệu sản phẩm chủ lực quốc gia và cấp tỉnh; 50% kinh phí tham gia triển lãm hội chợ trong nước, ngoài nước được cấp có thẩm quyền phê duyệt.
 
-### Điều 24.9.NĐ.1.11. Hỗ trợ đầu tư cơ sở: Bảo quản, chế biến nông sản; giết mổ gia súc, gia cầm; chế tạo thiết bị, linh kiện, máy nông nghiệp; sản xuất sản phẩm phụ trợ
+2. Các khoản hỗ trợ nêu tại khoản 1 Điều này được thực hiện theo dự án đầu tư. Tổng các khoản hỗ trợ cho một dự án tối đa không quá 10% tổng mức đầu tư dự án và không quá 01 tỷ đồng.
+
+3. Hỗ trợ một doanh nghiệp xây dựng và quản lý một trang thông tin điện tử “Chợ nông sản quốc gia”.
+
+a) Điều kiện hỗ trợ:
+
+- Doanh nghiệp có ít nhất 05 năm kinh nghiệm trong lĩnh vực thương mại điện tử và có tài sản đảm bảo tối thiểu 10 tỷ đồng.
+
+- Trang thông tin điện tử “Chợ nông sản quốc gia” được xây dựng ít nhất bằng 03 ngôn ngữ (tiếng Việt, tiếng Anh, tiếng Trung) và cam kết duy trì hoạt động tối thiểu 10 năm. Thông tin sản phẩm của các doanh nghiệp được duy trì ít nhất 03 năm.
+
+- Nhà nước bắt đầu hỗ trợ khi có tối thiểu 500 doanh nghiệp đã đăng sản phẩm lên trang thông tin điện tử.
+
+b) Mức hỗ trợ: Nhà nước hỗ trợ cho doanh nghiệp có trang thông tin điện tử quốc gia là 05 triệu đồng/doanh nghiệp có sản phẩm đã đăng lên trang thông tin điện tử quốc gia. Tổng mức hỗ trợ không quá 05 tỷ đồng.
+
+c) Trường hợp có nhiều doanh nghiệp cùng muốn tham gia xây dựng trang thông tin điện tử giao dịch nông sản quốc gia, thì việc lựa chọn thông qua hình thức đấu thầu.
+
+4. Doanh nghiệp đầu tư vào nông nghiệp, nông thôn được quyền chủ động thu mua nguyên liệu nông sản từ nuôi, trồng để đưa vào bảo quản chế biến theo tiêu chuẩn của doanh nghiệp.
+
+Nông sản từ nuôi, trồng được tự do lưu thông trên thị trường, cơ quan nhà nước không được có các thủ tục hành chính về xác nhận nguồn gốc nguyên liệu và các thủ tục hành chính khác gây khó khăn cho việc khai thác, vận chuyển, tiêu thụ, xuất khẩu nông sản, trừ trường hợp liên quan đến an ninh quốc gia và dịch bệnh nguy hiểm tới sức khỏe cộng đồng được quy định tại Luật chuyên ngành.
+
+(Điều này có nội dung liên quan đến Điều 12.3.LQ.14. Hỗ trợ thông tin, tư vấn và pháp lý; Điều 12.3.LQ.15. Hỗ trợ phát triển nguồn nhân lực; Điều 24.9.NĐ.9. Xúc tiến thương mại; Điều 24.9.QĐ.2.15. Về lao động và đào tạo)
 
 Điều 24.9.NĐ.1.11. Hỗ trợ đầu tư cơ sở: Bảo quản, chế biến nông sản; giết mổ gia súc, gia cầm; chế tạo thiết bị, linh kiện, máy nông nghiệp; sản xuất sản phẩm phụ trợ
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450001140265250057000110
+1. Doanh nghiệp có dự án đầu tư cơ sở chế biến nông sản; cơ sở giết mổ; cơ sở chế tạo thiết bị, linh kiện, máy nông nghiệp; cơ sở sản xuất sản phẩm phụ trợ được ngân sách nhà nước hỗ trợ như sau:
 
-**ID:** dk_00038236
+a) Hỗ trợ cơ sở chế biến nông sản, cơ sở giết mổ gia súc gia cầm: 60% kinh phí đầu tư và không quá 15 tỷ đồng/dự án để xây dựng cơ sở hạ tầng về xử lý chất thải, giao thông, điện, nước, nhà xưởng và mua thiết bị trong hàng rào dự án.
 
----
+b) Hỗ trợ cơ sở sản xuất nhà máy cơ khí chế tạo thiết bị, linh kiện, máy nông nghiệp và nhà máy sản xuất sản phẩm phụ trợ: 60% kinh phí đầu tư và không quá 05 tỷ đồng/dự án để xây dựng cơ sở hạ tầng về xử lý chất thải, giao thông, điện, nước, nhà xưởng và mua thiết bị trong hàng rào dự án.
 
+c) Các dự án đầu tư chế biến nông sản phải bảo đảm các điều kiện giá trị sản phẩm sau chế biến tăng ít nhất 1,5 lần so với giá trị nguyên liệu thô ban đầu.
 
-### Điều 24.9.NĐ.1.12. Hỗ trợ đầu tư cơ sở chăn nuôi bò sữa, bò thịt
+2. Hỗ trợ bảo quản nông sản
+
+Doanh nghiệp có dự án đầu tư cơ sở bảo quản nông sản (gồm sấy, chiếu xạ, khử trùng, đông lạnh, bảo quản sinh học) được ngân sách nhà nước hỗ trợ như sau:
+
+a) Mức hỗ trợ 70% chi phí đầu tư nhưng không quá 02 tỷ đồng/dự án để xây dựng cơ sở hạ tầng về giao thông, điện, nước, xử lý chất thải, nhà xưởng và mua thiết bị.
+
+b) Điều kiện hỗ trợ:
+
+- Công suất cơ sở sấy lúa, ngô, khoai, sắn, lâm sản phải đạt tối thiểu 100 tấn sản phẩm/ngày; sấy phụ phẩm thủy sản đạt tối thiểu 50 tấn sản phẩm/ngày.
+
+- Bảo quản rau, hoa quả tươi, chè, hạt tiêu, hạt điều đạt 1.000 tấn kho; bảo quản lưu trữ giống cây trồng đạt công suất 100 tấn kho.
+
+3. Hỗ trợ mua tàu dịch vụ biển: Doanh nghiệp mua tàu làm dịch vụ nghề cá trên biển được ngân sách nhà nước hỗ trợ tối đa 60% chi phí, mức hỗ trợ tính theo công suất: 30 triệu đồng/tấn tải trọng (DWT); tải trọng tối thiểu tàu 200 DWT, mức hỗ trợ không quá 10 tỷ đồng/tàu.
+
+4. Trường hợp doanh nghiệp hình thành theo quy định tại Điều 6 Nghị định số 118/2014/NĐ-CPngày 17 tháng 12 năm 2014 của Chính phủ về sắp xếp, đổi mới và phát triển, nâng cao hiệu quả hoạt động của công ty nông, lâm nghiệp có xây dựng nhà máy chế biến quy định tại khoản 1 Điều này được hỗ trợ bổ sung cơ sở hạ tầng cho vùng nguyên liệu, định mức hỗ trợ là 50 triệu đồng/ha và không quá 05 tỷ đồng/dự án.
+
+5. Trường hợp sản phẩm nông sản chế biến quy định tại điểm a khoản 1 Điều này khi được công nhận là sản phẩm chủ lực quốc gia, ngoài mức hỗ trợ quy định tại các khoản trên thì dự án được hỗ trợ bổ sung 03 tỷ đồng để đầu tư cơ sở hạ tầng.
+
+(Điều này có nội dung liên quan đến Điều 24.9.NĐ.8. Về đầu tư, tín dụng)
 
 Điều 24.9.NĐ.1.12. Hỗ trợ đầu tư cơ sở chăn nuôi bò sữa, bò thịt
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450001240265250057000120
+Doanh nghiệp có dự án đầu tư cơ sở chăn nuôi bò sữa, bò thịt được ngân sách nhà nước hỗ trợ như sau:
 
-**ID:** dk_00038237
+1. Hỗ trợ 05 tỷ đồng/dự án để xây dựng cơ sở hạ tầng về xử lý chất thải, giao thông, điện, nước, nhà xưởng và mua thiết bị.
 
----
-
-
-### Điều 24.9.NĐ.1.13. Hỗ trợ doanh nghiệp cung cấp dịch vụ công và đầu tư kết cấu hạ tầng nông nghiệp, nông thôn
+2. Ngoài hỗ trợ hạ tầng quy định tại khoản 1 Điều này, nếu doanh nghiệp nhập, bò giống cao sản để nuôi trực tiếp hoặc liên kết nuôi với hộ gia đình thì được hỗ trợ bổ sung là 10 triệu đồng/con.
 
 Điều 24.9.NĐ.1.13. Hỗ trợ doanh nghiệp cung cấp dịch vụ công và đầu tư kết cấu hạ tầng nông nghiệp, nông thôn
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450001340265250057000130
+1. Doanh nghiệp có dự án cung cấp nước sạch cho vùng nông thôn được hỗ trợ như sau:
 
-**ID:** dk_00038238
+a) Hỗ trợ 03 triệu đồng/m3/ngày đêm công suất cho xây mới hoặc 02 triệu đồng/m3/ngày đêm công suất cho nâng cấp cải tạo nhà máy sản xuất nước sạch.
 
----
+b) Hỗ trợ tối đa 50% chi phí đường ống chính dẫn đến các khu vực dân cư có từ 10 hộ trở lên.
 
+2. Doanh nghiệp có dự án thu gom, xử lý chất thải rắn sinh hoạt; nước thải sinh hoạt tại nông thôn; thu gom xử lý chất thải làng nghề, nông thôn được hỗ trợ 60% chi phí mua thiết bị, xây dựng hệ thống xử lý, mức hỗ trợ không quá 05 tỷ đồng/dự án.
 
-### Điều 24.9.NĐ.1.14. Nguồn vốn hỗ trợ
+3. Doanh nghiệp có dự án nuôi trồng thủy sản có quy mô tối thiểu 05 ha trở lên được hỗ trợ 200 triệu đồng/ha để xây dựng hạ tầng, cấp nước, thoát nước, xử lý môi trường. Diện tích nuôi tăng lên mức hỗ trợ được tăng lên tương ứng. Mức hỗ trợ không quá 10 tỷ đồng/dự án.
 
-*Nội dung chưa có sẵn*
+4. Doanh nghiệp có dự án xây dựng bến cảng phục vụ vận chuyển sản phẩm nông lâm thủy sản, khu neo đậu tàu thuyền, hệ thống tưới tiên tiến tiết kiệm nước, công trình thủy lợi làm dịch vụ tưới tiêu cho sản xuất nông nghiệp được hỗ trợ 50% kinh phí đầu tư theo dự án được cấp có thẩm quyền phê duyệt. Mức hỗ trợ không quá 20 tỷ đồng/dự án.
 
-**Chỉ mục:** 14
+5. Hỗ trợ xây dựng nhà ở xã hội cho người lao động: Doanh nghiệp đầu tư vào nông nghiệp, nông thôn có 100 lao động trở lên làm việc thường xuyên tại nhà máy, được hỗ trợ xây dựng nhà ở cho người lao động mức hỗ trợ là 01 triệu đồng/m2 xây dựng đối với nhà cấp IV, hỗ trợ 02 triệu đồng/m2 xây dựng đối với nhà 02 tầng trở lên.
 
-**Mã phân cấp:** 2400900000000000450001440265250057000140
+6. Hỗ trợ ngoài hàng rào: Doanh nghiệp có dự án đầu tư vào nông nghiệp, nông thôn, theo quy định của Nghị định này nếu bên ngoài hàng rào dự án chưa có đường giao thông đạt chuẩn cấp V miền núi, hệ thống điện, cấp thoát nước để phục vụ dự án thì được hỗ trợ bổ sung 70% chi phí và không quá 05 tỷ đồng đầu tư xây dựng các hạng mục trên.
 
-**ID:** dk_00038239
+Điều 24.9.NĐ.1.14. Nguồn vốn hỗ trợ
 
----
+(Điều 14 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
+1. Ngân sách trung ương dành khoản ngân sách tương đương tối thiểu 5% vốn đầu tư phát triển hàng năm cho ngành nông nghiệp; ngân sách các tỉnh, thành phố trực thuộc trung ương dành tối thiểu 5% vốn chi ngân sách địa phương hàng năm cho ngành nông nghiệp để thực hiện. Ngoài ra, các bộ ngành và địa phương được sử dụng nguồn vốn lồng ghép từ các Chương trình, dự án phát triển kinh tế xã hội và các quỹ hợp pháp để thực hiện hỗ trợ doanh nghiệp theo quy định tại Nghị định này.
 
-### Điều 24.9.NĐ.1.15. Cơ chế hỗ trợ sau đầu tư
+2. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính căn cứ khả năng cân đối vốn của từng giai đoạn và hàng năm, nhu cầu hỗ trợ của doanh nghiệp trong từng địa phương, báo cáo Chính phủ quyết định về nguồn vốn hỗ trợ để thực hiện Nghị định này.
 
-*Nội dung chưa có sẵn*
+Điều 24.9.NĐ.1.15. Cơ chế hỗ trợ sau đầu tư
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450001540265250057000150
+1. Ngân sách trung ương:
 
-**ID:** dk_00038240
+Thủ tướng Chính phủ giao tổng mức vốn hỗ trợ trung hạn và hàng năm cho địa phương theo mục: “Chương trình hỗ trợ doanh nghiệp đầu tư vào nông nghiệp, nông thôn” trong kế hoạch đầu tư công. Khi dự án đủ điều kiện, Bộ Kế hoạch và Đầu tư giao mức chi tiết danh mục và mức vốn hỗ trợ cho dự án theo quy định của Luật đầu tư công.
 
----
+2. Ngân sách địa phương: Hỗ trợ cho các dự án tại địa phương, đáp ứng quy định của Nghị định này.
 
+3. Quyết định về phê duyệt chủ trương đầu tư danh mục dự án quy định tại điểm a khoản 1 Điều 16 Nghị định này và văn bản cam kết hỗ trợ vốn của cấp có thẩm quyền là căn cứ để giao kế hoạch hỗ trợ từ ngân sách nhà nước cho doanh nghiệp.
 
-### Điều 24.9.NĐ.1.16. Trình tự thủ tục đầu tư
+4. Ngân sách nhà nước thực hiện hỗ trợ sau đầu tư: Khi hạng mục đầu tư của dự án hoàn thành và nghiệm thu thì được giải ngân 70% mức vốn hỗ trợ theo hạng mục đầu tư; sau khi dự án hoàn thành, nghiệm thu và đưa vào sản xuất, kinh doanh thì được giải ngân 30% mức vốn hỗ trợ còn lại.
 
-*Nội dung chưa có sẵn*
+5. Vốn giao cho doanh nghiệp chưa giải ngân hết trong năm kế hoạch ngân sách sẽ được chuyển sang năm sau giải ngân tiếp. Trường hợp sau 02 năm mà doanh nghiệp vẫn chưa giải ngân hết thì số vốn còn lại chỉ được điều chuyển cho doanh nghiệp khác theo quy định của Nghị định này.
 
-**Chỉ mục:** 16
+6. Nguồn vốn và thủ tục hỗ trợ đầu tư đối với doanh nghiệp có vốn đầu tư nước ngoài (quy định tại khoản 1 Điều 23 Luật đầu tư) và doanh nghiệp nhà nước thực hiện theo quy định riêng của pháp luật.
 
-**Mã phân cấp:** 2400900000000000450001640265250057000160
+7. Phần vốn hỗ trợ từ ngân sách nhà nước không tính vào thu nhập chịu thuế của doanh nghiệp và được Nhà nước cam kết bảo đảm phần vốn này khi doanh nghiệp thực hiện vay vốn từ ngân hàng thương mại để thực hiện dự án.
 
-**ID:** dk_00038241
+(Điều này có nội dung liên quan đến Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 19.2.LQ.13. Thẩm định hoặc có ý kiến về công nghệ dự án đầu tư)
 
----
+Điều 24.9.NĐ.1.16. Trình tự thủ tục đầu tư
 
+(Điều 16 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-### Điều 24.9.NĐ.1.17. Hồ sơ và thủ tục nhận hỗ trợ
+1. Thực hiện liên thông và rút gọn thủ tục hành chính như sau:
 
-*Nội dung chưa có sẵn*
+a) Ủy ban nhân dân cấp tỉnh ban hành quyết định chủ trương đầu tư về danh mục dự án khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn (theo Mẫu số 01 tại Phụ lục II kèm theo Nghị định này).
 
-**Chỉ mục:** 17
+b) Quyết định theo quy định tại điểm a khoản này là quyết định chủ trương đầu tư theo quy định tại điểm a khoản 1 Điều 32 Luật đầu tư.
 
-**Mã phân cấp:** 2400900000000000450001740265250057000170
+Trường hợp có từ 02 doanh nghiệp trở lên cùng đăng ký thực hiện dự án đầu tư trên cùng địa điểm thì thực hiện lựa chọn nhà đầu tư theo quy định của pháp luật về đấu thầu.
 
-**ID:** dk_00038242
+c) Doanh nghiệp có dự án thuộc danh mục quy định tại điểm a khoản này được cơ quan nhà nước có thẩm quyền cung cấp thông tin hoặc cấp giấy phép quy hoạch để lập quy hoạch 1/500. Thời gian cung cấp thông tin hoặc cấp giấy phép quy hoạch tối đa không quá 15 ngày làm việc kể từ ngày nhận được đề nghị của doanh nghiệp.
 
----
+d) Việc thẩm định thiết kế cơ sở các dự án thuộc danh mục quy định tại điểm a khoản này thực hiện theo điểm b khoản 4 Điều 57 Luật xây dựng.
 
+đ) Các công trình xây dựng ở nông thôn thuộc khu vực chưa có quy hoạch phát triển đô thị hoặc xây dựng trong khu công nghiệp, khu chế xuất, khu công nghệ cao, hoặc trong khu nông nghiệp công nghệ cao có quy hoạch 1/500 được duyệt thì được miễn giấy phép xây dựng theo quy định tại khoản 2 Điều 89 Luật xây dựng.
 
-### Điều 24.9.NĐ.1.18. Trách nhiệm của bộ, ngành trung ương
+e) Tất cả các dự án không phải thẩm tra công nghệ trừ các dự án quy định tại Điều 30, Điều 31 và điểm b khoản 1 Điều 32 Luật đầu tư và Điều 13 Luật Chuyển giao công nghệ.
+
+2. Cho phép chủ đầu tư dự án thực hiện song song hoặc lồng ghép các thủ tục về đất đai, môi trường, xây dựng và nhận hỗ trợ đầu tư.
+
+3. Dự án đầu tư thuộc danh mục quy định tại điểm a khoản 1 Điều này, khi chưa hoạt động sản xuất kinh doanh, cơ quan Nhà nước tại địa phương không được thanh tra, kiểm tra, kiểm toán dưới bất kỳ hình thức nào trừ khi có quy định của Luật hoặc có dấu hiệu vi phạm pháp luật rõ ràng.
+
+Mau so 1_ Phu luc 2_NĐ 57.2018.docx
+
+(Điều này có nội dung liên quan đến Điều 43.5.LQ.57. Thẩm quyền thẩm định dự án đầu tư xây dựng; Điều 43.5.LQ.89. Đối tượng và các loại giấy phép xây dựng; Điều 30. Thẩm quyền quyết định chủ trương đầu tư của Quốc hội; Điều 31. Thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ; Điều 32. Thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014; Điều 19.2.LQ.13. Thẩm định hoặc có ý kiến về công nghệ dự án đầu tư)
+
+Điều 24.9.NĐ.1.17. Hồ sơ và thủ tục nhận hỗ trợ
+
+(Điều 17 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
+
+1. Hồ sơ, trình tự đề nghị hỗ trợ
+
+a) Doanh nghiệp gửi 03 bộ hồ sơ gồm Dự án đầu tư, văn bản đề nghị hỗ trợ của doanh nghiệp tới Sở Kế hoạch và Đầu tư (Mẫu số 02 tại Phụ lục II kèm theo Nghị định này).
+
+b) Trong thời hạn tối đa 10 ngày làm việc, Sở Kế hoạch và Đầu tư có văn bản thẩm tra và báo cáo Ủy ban nhân dân cấp tỉnh (Mẫu số 03 tại Phụ lục II kèm theo Nghị định này), trong vòng 05 ngày Ủy ban nhân dân cấp tỉnh có văn bản cam kết hỗ trợ vốn cho doanh nghiệp (Mẫu số 04 tại Phụ lục II kèm theo Nghị định này). Trường hợp từ chối cam kết hỗ trợ cho doanh nghiệp, Ủy ban nhân dân cấp tỉnh có văn bản gửi doanh nghiệp nêu rõ lý do.
+
+c) Trường hợp sử dụng ngân sách trung ương thì thực hiện quy định của pháp luật về đầu tư công.
+
+2. Nghiệm thu hạng mục đầu tư hoặc toàn bộ dự án
+
+a) Căn cứ đề nghị nghiệm thu của doanh nghiệp, trong thời hạn 05 ngày làm việc Sở Nông nghiệp và Phát triển nông thôn chủ trì mời các cơ quan liên quan tham gia Hội đồng nghiệm thu.
+
+b) Nội dung nghiệm thu: Nghiệm thu hạng mục, toàn bộ dự án theo Định mức hỗ trợ đối với từng loại hạng mục, công trình do Ủy ban nhân dân cấp tỉnh ban hành.
+
+c) Biên bản nghiệm thu của hội đồng nghiệm thu (Mẫu số 05 tại Phụ lục II kèm theo Nghị định này) là căn cứ để giải ngân vốn hỗ trợ cho doanh nghiệp. Ngoài ra các cơ quan nhà nước không được yêu cầu doanh nghiệp bổ sung các văn bản khác.
+
+3. Thủ tục nhận hỗ trợ
+
+Doanh nghiệp gửi hồ sơ đề nghị giải ngân vốn hỗ trợ gồm: Biên bản nghiệm thu, quyết định giao vốn của cơ quan có thẩm quyền gửi Kho bạc Nhà nước để được giải ngân khoản hỗ trợ trong vòng 05 ngày làm việc.
+
+Mau so 2_ Phu luc 2_NĐ 57.2018.docx
+
+Mau so 3_ Phu luc 2_NĐ 57.2018.docx
+
+Mau so 4_ Phu luc 2_NĐ 57.2018.docx
+
+Mau so 5_ Phu luc 2_NĐ 57.2018.docx
+
+(Điều này có nội dung liên quan đến Điều 33. Hồ sơ, trình tự, thủ tục quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh của Luật 67/2014/QH13 Đầu tư ban hành ngày 26/11/2014)
 
 Điều 24.9.NĐ.1.18. Trách nhiệm của bộ, ngành trung ương
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000450001800000000000000000
+1. Bộ Kế hoạch và Đầu tư:
 
-**ID:** dk_00038243
+a) Chủ trì, phối hợp với Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn thực hiện Nghị định này.
 
----
+b) Chủ trì, phối hợp với Bộ Tài chính tổng hợp, bố trí vốn trung hạn và hằng năm hỗ trợ các địa phương theo khả năng cân đối ngân sách trung ương để thực hiện chính sách quy định tại Nghị định này, trình các cấp có thẩm quyền quyết định theo quy định tại Luật ngân sách nhà nước và Luật đầu tư công.
 
+c) Xây dựng kế hoạch, triển khai theo dõi, kiểm tra thực hiện Nghị định.
 
-### Điều 24.9.NĐ.1.19. Trách nhiệm của địa phương
+2. Bộ Tài chính:
 
-*Nội dung chưa có sẵn*
+a) Phối hợp với Bộ Kế hoạch và Đầu tư triển khai theo dõi, kiểm tra thực hiện Nghị định.
 
-**Chỉ mục:** 19
+b) Phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn thực hiện Nghị định này.
 
-**Mã phân cấp:** 2400900000000000450001900000000000000000
+3. Bộ Nông nghiệp và Phát triển nông thôn:
 
-**ID:** dk_00038244
+a) Ban hành danh mục sản phẩm nông nghiệp chủ lực quốc gia, tiêu chuẩn bò sữa, bò thịt cao sản.
 
----
+b) Chủ trì, phối hợp với Bộ Khoa học và Công nghệ ban hành tiêu chí dự án nông nghiệp ứng dụng công nghệ cao.
 
+c) Phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính hướng dẫn kiểm tra giám sát thực hiện Nghị định này.
 
-### Điều 24.9.NQ.1.1. Đánh giá tình hình
+4. Bộ Khoa học và Công nghệ: Ban hành danh mục sản phẩm công nghệ, đề tài cần nghiên cứu, mua bản quyền quy định tại Điều 9 Nghị định này.
 
-*Nội dung chưa có sẵn*
+5. Bộ Công Thương:
 
-**Chỉ mục:** 1
+a) Chủ trì, phối hợp với Bộ Nông nghiệp và Phát triển nông thôn ban hành danh mục sản phẩm cơ khí chế tạo, linh kiện, máy nông nghiệp và sản phẩm phụ trợ phục vụ phát triển nông nghiệp, nông thôn được hỗ trợ đầu tư theo Điều 11 Nghị định này.
 
-**Mã phân cấp:** 2400900000000000475000140198760003000010
+b) Hướng dẫn thực hiện khoản 3, Điều 10 Nghị định này.
 
-**ID:** dk_00038246
+6. Bộ Tài nguyên và Môi trường: Hướng dẫn thực hiện quy định tại khoản 2 Điều 8 Nghị định này.
 
----
+7. Hàng năm, các Bộ: Nông nghiệp và Phát triển nông thôn, Công Thương, Tài nguyên và Môi trường, Xây dựng rà soát, điều chỉnh giảm các thủ tục hành chính trong lĩnh vực được giao để tạo điều kiện cho doanh nghiệp đầu tư kinh doanh trong nông nghiệp, nông thôn, báo cáo Thủ tướng Chính phủ.
 
+Điều 24.9.NĐ.1.19. Trách nhiệm của địa phương
 
-### Điều 24.9.NQ.1.2. Quan điểm và chính sách phát triển kinh tế trang trại
+(Điều 19 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
+
+1. Hội đồng nhân dân cấp tỉnh:
+
+a) Rà soát, ban hành chính sách đặc thù khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn tại địa phương, trong đó quy định chính sách tín dụng tại địa phương quy định tại Điều 8 Nghị định này; vốn cấp bù lãi suất hỗ trợ cho các dự án và mức vốn sử dụng ngân sách địa phương để đảm bảo thực hiện hỗ trợ doanh nghiệp.
+
+b) Ban hành cơ chế thúc đẩy tập trung đất đai, tạo quỹ đất để thu hút doanh nghiệp đầu tư vào nông nghiệp, nông thôn phù hợp với thẩm quyền và các quy định của pháp luật.
+
+2. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương:
+
+a) Ban hành quyết định chủ trương đầu tư về danh mục dự án khuyến khích doanh nghiệp đầu tư vào nông nghiệp nông thôn theo quy định tại khoản 1 Điều 16 Nghị định này. Thời hạn 05 năm một lần; hàng năm Ủy ban nhân dân cấp tỉnh rà soát và điều chỉnh.
+
+b) Ban hành danh mục sản phẩm nông nghiệp chủ lực cấp tỉnh.
+
+c) Ban hành định mức hỗ trợ đối với từng loại hạng mục, công trình phù hợp với các mức hỗ trợ quy định tại Nghị định này.
+
+d) Chỉ đạo thực hiện và đánh giá tình hình thực hiện Nghị định tại địa phương năm trước đó, báo cáo gửi Bộ Kế hoạch và Đầu tư trước ngày 31 tháng 3 hàng năm.
+
+đ) Giao Sở Kế hoạch và Đầu tư chủ trì, phối hợp với Sở Tài chính và Sở Nông nghiệp và Phát triển nông thôn trình Ủy ban nhân dân cấp tỉnh giao danh mục và mức vốn hỗ trợ cho doanh nghiệp theo từng dự án.
+
+3. Trách nhiệm của doanh nghiệp:
+
+a) Phê duyệt dự án đầu tư, phê duyệt thiết kế kỹ thuật, dự toán, thi công hoặc thuê nhà thầu thi công.
+
+b) Các thành viên của doanh nghiệp được phép tính phần hỗ trợ của Nhà nước theo quy định tại Nghị định này vào vốn điều lệ theo Luật doanh nghiệp.
+
+Chương VI
+
+VỀ KINH TẾ TRANG TRẠI
+
+Điều 24.9.NQ.1.1. Đánh giá tình hình
+
+(Điều 1 Nghị quyết số 03/2000/NQ-CP Về kinh tế trang trại. ngày 02/02/2000 của Chính phủ, có hiệu lực thi hành kể từ ngày 02/02/2000 )
+
+Thực hiện đường lối đổi mới của Đảng và Nhà nước, kinh tế hộ nông dân đã phát huy tác dụng to lớn, tạo sức mạnh mới trong sự nghiệp phát triển nông nghiệp và kinh tế nông thôn. Trên nền tảng kinh tế tự chủ của hộ nông dân đã hình thành các trang trại được đầu tư vốn, lao động với trình độ công nghệ và quản lý cao hơn, nhằm mở rộng quy mô sản xuất hàng hoá và nâng cao năng suất, hiệu quả và sức cạnh tranh trong cơ chế thị trường.
+
+Hiện nay, hình thức kinh tế trang trại đang tăng nhanh về số lượng với nhiều thành phần kinh tế tham gia, nhưng chủ yếu vẫn là trang trại hộ gia đình nông dân và một tỷ lệ đáng kể của gia đình cán bộ, công nhân, viên chức, bộ đội, công an đã nghỉ hưu. Hầu hết các trang trại có quy mô đất đai dưới mức hạn điền, với nguồn gốc đa dạng, sử dụng lao động của gia đình là chủ yếu; một số có thuê lao động thời vụ và lao động thường xuyên, tiền công lao động được thoả thuận giữa hai bên. Hầu hết vốn đầu tư là vốn tự có và vốn vay của cộng đồng; vốn vay của tổ chức tín dụng chỉ chiếm tỷ trọng thấp. Phần lớn trang trại phát huy được lợi thế của từng vùng, kinh doanh tổng hợp, lấy ngắn nuôi dài.
+
+Sự phát triển của kinh tế trang trại đã góp phần khai thác thêm nguồn vốn trong dân, mở mang thêm diện tích đất trống, đồi núi trọc, đất hoang hoá, nhất là ở các vùng trung du, miền núi và ven biển; tạo thêm việc làm cho lao động nông thôn, góp phần xoá đói giảm nghèo; tăng thêm nông sản hàng hoá. Một số trang trại đã góp phần sản xuất và cung ứng giống tốt, làm dịch vụ, kỹ thuật tiêu thụ sản phẩm cho nông dân trong vùng.
+
+Tuy nhiên, quá trình phát triển kinh tế trang trại đang đặt ra nhiều vấn đề cần được giải quyết kịp thời.
+
+1. Mặc dù Đảng và Nhà nước đã có chủ trương về phát triển kinh tế trang trại, song còn một số vấn đề về quan điểm và chính sách phải tiếp tục làm rõ như: việc giao đất, thuê đất, chuyển nhượng, tích tụ đất để làm kinh tế trang trại; việc thuê mướn, sử dụng lao động; việc cán bộ, đảng viên làm kinh tế trang trại; việc đăng ký hoạt động và thuế thu nhập của trang trại...Những vấn đề đó chậm được giải quyết đã phần nào hạn chế việc khai thác tiềm lực phong phú ở nhiều vùng để phát triển kinh tế trang trại.
+
+2. Hiện còn khoảng 30% trang trại chưa được giao đất, thuê đất ổn định, lâu dài, nên chủ trang trại chưa thực sự yên tâm đầu tư sản xuất.
+
+3. Hầu hết các địa phương có trang trại phát triển chưa làm tốt công tác quy hoạch sản xuất, thuỷ lợi, giao thông, điện, nước sinh hoạt, thông tin liên lạc; thị trường còn kém phát triển.
+
+4. Phần lớn chủ trang trại còn thiếu hiểu biết về thị trường, khoa học kỹ thuật và quản lý, thiếu vốn sản xuất để phát triển lâu dài, thường lúng túng và chịu thua thiệt khi giá nông sản xuống thấp, tiêu thụ sản phẩm gặp khó khăn.
 
 Điều 24.9.NQ.1.2. Quan điểm và chính sách phát triển kinh tế trang trại
 
-**Chỉ mục:** 2
+(Điều 2 Nghị quyết số 03/2000/NQ-CP, có hiệu lực thi hành kể từ ngày 02/02/2000)
 
-**Mã phân cấp:** 2400900000000000475000240198760003000020
+Trên cơ sở tổng kết thực tiễn hình thành và phát triển các trang trại trong thời gian qua và căn cứ vào chủ trương đối với kinh tế trang trại đã được nêu trong Nghị quyết Hội nghị lần thứ 4 của Ban Chấp hành Trung ương Đảng (tháng 12 năm 1997) và Nghị quyết số 06 ngày 10 tháng 11 năm 1998 của Bộ Chính trị về phát triển nông nghiệp và nông thôn, cần giải quyết một số vấn đề về quan điểm và chính sách nhằm tạo môi trường và điều kiện thuận lợi hơn cho sự phát triển mạnh mẽ kinh tế trang trại trong thời gian tới.
 
-**ID:** dk_00038247
+1. Thống nhất nhận thức về tính chất và vị trí của kinh tế trang trại:
 
----
+- Kinh tế trang trại là hình thức tổ chức sản xuất hàng hoá trong nông nghiệp, nông thôn, chủ yếu dựa vào hộ gia đình, nhằm mở rộng quy mô và nâng cao hiệu quả sản xuất trong lĩnh vực trồng trọt, chăn nuôi, nuôi trồng thuỷ sản, trồng rừng, gắn sản xuất với chế biến và tiêu thụ nông, lâm, thuỷ sản.
 
+- Phát triển kinh tế trang trại nhằm khai thác, sử dụng có hiệu quả đất đai, vốn, kỹ thuật, kinh nghiệm quản lý góp phần phát triển nông nghiệp bền vững; tạo việc làm, tăng thu nhập; khuyến khích làm giàu đi đôi với xoá đói giảm nghèo; phân bổ lại lao động, dân cư, xây dựng nông thôn mới .
 
-### Điều 24.9.TT.6.2. Phân loại trang trại
+- Quá trình chuyển dịch, tích tụ ruộng đất hình thành các trang trại gắn liền với quá trình phân công lại lao động ở nông thôn, từng bước chuyển dịch lao động nông nghiệp sang làm các ngành phi nông nghiệp, thúc đẩy tiến trình công nghiệp hoá trong nông nghiệp và nông thôn.
 
-*Nội dung chưa có sẵn*
+2. Một số chính sách lâu dài của Nhà nước đối với kinh tế trang trại
 
-**Chỉ mục:** 2
+- Nhà nước khuyến khích phát triển và bảo hộ kinh tế trang trại. Các hộ gia đình, cá nhân đầu tư phát triển kinh tế trang trại được Nhà nước giao đất, cho thuê đất, cấp giấy chứng nhận quyền sử dụng đất ổn định, lâu dài theo pháp luật để sản xuất kinh doanh.
 
-**Mã phân cấp:** 240090000000000047500024019876000300002000802720700020000200
+- Nhà nước đặc biệt khuyến khích việc đầu tư khai thác và sử dụng có hiệu quả đất trống, đồi núi trọc ở trung du, miền núi, biên giới, hải đảo, tận dụng khai thác các loại đất còn hoang hoá, ao, hồ, đầm, bãi bồi ven sông, ven biển, mặt nước eo vịnh, đầm phá để sản xuất nông, lâm, ngư nghiệp theo hướng chuyên canh với tỷ suất hàng hoá cao. Đối với vùng đất hẹp, người đông, khuyến khích phát triển kinh tế trang trại sử dụng ít đất, nhiều lao động, thâm canh cao gắn với chế biến và thương mại, dịch vụ, làm ra nông sản có giá trị kinh tế lớn. Ưu tiên giao đất, cho thuê đất đối với những hộ nông dân có vốn, kinh nghiệm sản xuất, quản lý, có yêu cầu mở rộng quy mô sản xuất nông nghiệp hàng hoá và những hộ không có đất sản xuất nông nghiệp mà có nguyện vọng tạo dựng cơ nghiệp lâu dài trong nông nghiệp.
 
-**ID:** dk_00038248
+- Nhà nước thực hiện nhất quán chính sách phát huy kinh tế tự chủ của hộ nông dân, phát triển kinh tế trang trại đi đôi với chuyển đổi hợp tác xã cũ, mở rộng các hình thức kinh tế hợp tác, liên kết sản xuất - kinh doanh giữa các hộ nông dân, các trang trại, các nông, lâm trường quốc doanh, doanh nghiệp Nhà nước và doanh nghiệp thuộc các thành phần kinh tế khác để tạo động lực và sức mạnh tổng hợp cho nông nghiệp, nông thôn phát triển.
 
----
+- Nhà nước hỗ trợ về vốn, khoa học-công nghệ, chế biến, tiêu thụ sản phẩm, xây dựng kết cấu hạ tầng, tạo điều kiện thuận lợi cho các trang trại phát triển bền vững.
 
+- Tăng cường công tác quản lý Nhà nước để các trang trại phát triển lành mạnh, có hiệu quả.
 
-### Điều 24.9.TT.6.3. Tiêu chí kinh tế trang trại
+3. Về chính sách cụ thể.
 
-*Nội dung chưa có sẵn*
+a) Chính sách đất đai
 
-**Chỉ mục:** 3
+- Hộ gia đình có nhu cầu và khả năng sử dụng đất để phát triển trang trại được Nhà nước giao đất hoặc cho thuê đất và được cấp giấy chứng nhận quyền sử dụng đất. Thẩm quyền giao đất, cho thuê đất được áp dụng theo quy định tại Nghị định số 85/1999/NĐ-CP, ngày 28 tháng 8 năm 1999 của Chính phủ về sửa đổi, bổ sung một số quy định về việc giao đất nông nghiệp cho hộ gia đình, cá nhân sử dụng ổn định lâu dài và Nghị định số 163/1999/NĐ-CP, ngày 16 tháng 11 năm 1999 của Chính phủ về giao đất, cho thuê đất lâm nghiệp cho tổ chức, hộ gia đình và cá nhân sử dụng ổn định, lâu dài vào mục đích lâm nghiệp.
 
-**Mã phân cấp:** 240090000000000047500024019876000300002000802720700020000300
+Hộ gia đình trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thuỷ sản sống tại địa phương có nhu cầu và khả năng sử dụng đất để mở rộng sản xuất thì ngoài phần đất đã được giao trong hạn mức của địa phương còn được ủy ban nhân dân xã xét cho thuê đất để phát triển trang trại.
 
-**ID:** dk_00038249
+Hộ gia đình phi nông nghiệp có nguyện vọng và khả năng tạo dựng cơ nghiệp lâu dài từ sản xuất nông, lâm nghiệp và nuôi trồng thuỷ sản được ủy ban nhân dân xã cho thuê đất để làm kinh tế trang trại.
 
----
+Hộ gia đình, cá nhân ở địa phương khác nếu có nguyện vọng lập nghiệp lâu dài, có vốn đầu tư để phát triển trang trại, được ủy ban nhân dân xã sở tại cho thuê đất.
 
+Diện tích đất được giao, được thuê phụ thuộc vào quỹ đất của địa phương và khả năng sản xuất kinh doanh của chủ trang trại.
 
-### Điều 24.9.TT.6.4. Cách tính tổng diện tích đất sản xuất và giá trị sản xuất của trang trại
+- Hộ gia đình, cá nhân được nhận chuyển nhượng quyền sử dụng đất, thuê hoặc thuê lại quyền sử dụng đất của các tổ chức, hộ gia đình, cá nhân khác để phát triển trang trại theo quy định của pháp luật. Người nhận chuyển nhượng hoặc thuê quyền sử dụng đất hợp pháp có các quyền và nghĩa vụ theo quy định của pháp luật về đất đai và được cấp giấy chứng nhận quyền sử dụng đất.
 
-Điều 24.9.TT.6.4. Cách tính tổng diện tích đất sản xuất và giá trị sản xuất của trang trại
+Hộ gia đình, cá nhân đã được giao hoặc nhận chuyển nhượng, quyền sử dụng đất vượt quá hạn mức sử dụng đất trước ngày 01 tháng 01 năm 1999 để phát triển trang trại, thì được tiếp tục sử dụng và chuyển sang thuê phần diện tích đất vượt hạn mức, theo quy định của pháp luật về đất đai và được cấp giấy chứng nhận quyền sử dụng đất.
 
-**Chỉ mục:** 4
+Hộ gia đình, cá nhân sử dụng đất nhưng chưa được giao, chưa được thuê, hoặc đã nhận chuyển nhượng quyền sử dụng đất nhưng chưa được cấp giấy chứng nhận trước ngày ban hành Nghị quyết này, nếu không có tranh chấp, sử dụng đất đúng mục đích, thì được xem xét để giao hoặc cho thuê đất và được cấp giấy chứng nhận quyền sử dụng đất.
 
-**Mã phân cấp:** 240090000000000047500024019876000300002000802720700020000400
+- Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo cơ quan địa chính khẩn trương cấp giấy chứng nhận quyền sử dụng đất, để các chủ trang trại yên tâm đầu tư phát triển sản xuất.
 
-**ID:** dk_00038250
+b) Chính sách thuế
 
----
+- Để khuyến khích và tạo điều kiện hộ gia đình, cá nhân đầu tư phát triển kinh tế trang trại, nhất là ở những vùng đất trống đồi núi trọc, bãi bồi, đầm phá ven biển, thực hiện miễn thuế thu nhập cho trang trại với thời gian tối đa theo Nghị định số 51/1999/NĐ-CP, ngày 8 tháng 7 năm 1999 của Chính phủ về việc Quy định chi tiết thi hành Luật khuyến khích đầu tư trong nước (sửa đổi) số 03/1998/QH10.
 
+Theo quy định của Luật thuế thu nhập doanh nghiệp thì hộ gia đình và cá nhân nông dân sản xuất hàng hóa lớn có thu nhập cao thuộc đối tượng nộp thuế thu nhập doanh nghiệp. Giao Bộ Tài chính nghiên cứu trình Chính phủ sửa đổi, bổ sung Nghị định số 30/1998/NĐ-CP ngày 13 tháng 5 năm 1998 của Chính phủ về Quy định chi tiết thi hành Luật thuế thu nhập doanh nghiệp theo hướng quy định đối tượng nộp thuế là những hộ làm kinh tế trang trại đã sản xuất kinh doanh ổn định, có giá trị hàng hóa và lãi lớn, giảm thấp nhất mức thuế suất, nhằm khuyến khích phát triển kinh tế trang trại, được nhân dân đồng tình và có khả năng thực hiện.
 
-### Điều 24.9.TT.6.5. Theo dõi, thống kê và chế độ báo cáo về kinh tế trang trại
+- Các trang trại được miễn giảm tiền thuê đất theo quy định của pháp luật về đất đai khi thuê đất trống, đồi núi trọc, đất hoang hoá để trồng rừng sản xuất, trồng cây lâu năm và khi thuê diện tích ở các vùng nước tự nhiên chưa có đầu tư cải tạo vào mục đích sản xuất nông, lâm, ngư nghiệp.
 
-Điều 24.9.TT.6.5. Theo dõi, thống kê và chế độ báo cáo về kinh tế trang trại
+c) Chính sách đầu tư, tín dụng
 
-**Chỉ mục:** 5
+- Căn cứ vào quy hoạch phát triển sản xuất nông, lâm, ngư nghiệp trên các địa bàn có điều kiện kinh tế xã hội khó khăn và đặc biệt khó khăn, Nhà nước có chính sách hỗ trợ đầu tư phát triển kết cấu hạ tầng về giao thông, thuỷ lợi, điện, nước sinh hoạt, thông tin, cơ sở chế biến để khuyến khích các hộ gia đình, cá nhân phát triển trang trại sản xuất nông, lâm, ngư nghiệp.
 
-**Mã phân cấp:** 240090000000000047500024019876000300002000802720700020000500
+- Trang trại phát triển sản xuất, kinh doanh trong những lĩnh vực thuộc đối tượng quy định tại Điều 8 mục I Chương II của Nghị định số 43/1999/NĐ-CP ngày 29 tháng 6 năm 1999 của Chính phủ được vay vốn từ Quỹ hỗ trợ đầu tư phát triển của Nhà nước và việc vay vốn tín dụng đầu tư phát triển của Nhà nước thực hiện theo các quy định của Nghị định này.
 
-**ID:** dk_00038251
+- Trang trại phát triển sản xuất, kinh doanh được vay vốn tín dụng thương mại của các ngân hàng thương mại quốc doanh. Việc vay vốn được thực hiện theo quy định tại Quyết định số 67/1999/QĐ-TTg, ngày 30 tháng 3 năm 1999 của Thủ tướng Chính phủ về "Một số chính sách tín dụng ngân hàng phát triển nông nghiệp và nông thôn", chủ trang trại được dùng tài sản hình thành từ vốn vay để bảo đảm tiền vay theo quy định tại Nghị định số 178/1999/NĐ-CP, ngày 29 tháng 12 năm 1999 của Chính phủ về bảo đảm tiền vay của các tổ chức tín dụng.
 
----
+d) Chính sách lao động
 
+- Nhà nước khuyến khích và tạo điều kiện hỗ trợ để các chủ trang trại mở rộng quy mô sản xuất kinh doanh, tạo được nhiều việc làm cho lao động nông thôn, ưu tiên sử dụng lao động của hộ nông dân không đất, thiếu đất sản xuất nông nghiệp, hộ nghèo thiếu việc làm. Chủ trang trại được thuê lao động không hạn chế về số lượng; trả công lao động trên cơ sở thoả thuận với người lao động theo quy định của pháp luật về lao động. Chủ trang trại phải trang bị đồ dùng bảo hộ lao động theo từng loại nghề cho người lao động và có trách nhiệm với người lao động khi gặp rủi ro, tai nạn, ốm đau trong thời gian làm việc theo hợp đồng lao động.
 
-### Điều 24.9.NQ.1.3. Tổ chức thực hiện
+- Đối với địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn, chủ trang trại được ưu tiên vay vốn thuộc chương trình giải quyết việc làm, xoá đói giảm nghèo để tạo việc làm cho lao động tại chỗ; thu hút lao động ở các vùng đông dân cư đến phát triển sản xuất.
 
-*Nội dung chưa có sẵn*
+- Nhà nước có kế hoạch hỗ trợ đào tạo nghề nghiệp cho lao động làm trong trang trại bằng nhiều hình thức tập huấn, bồi dưỡng ngắn hạn.
 
-**Chỉ mục:** 3
+đ) Chính sách khoa học, công nghệ, môi trường.
 
-**Mã phân cấp:** 2400900000000000475000240202261025000000
+- Bộ Nông nghiệp và Phát triển nông thôn cùng với các địa phương có quy hoạch, kế hoạch xây dựng các công trình thuỷ lợi để tạo nguồn nước cho phát triển sản xuất. Chủ trang trại tự bỏ vốn hoặc vay từ nguồn vốn tín dụng đầu tư phát triển của Nhà nước để xây dựng hệ thống dẫn nước phục vụ sản xuất và sinh hoạt trong trang trại. Các chủ trang trại xây dựng các công trình thuỷ lợi, sử dụng nước mặt, nước ngầm trong phạm vi trang trại theo quy hoạch không phải nộp thuế tài nguyên nước.
 
-**ID:** dk_00038252
+- Bộ Nông nghiệp và Phát triển nông thôn cùng với các tỉnh, thành phố trực thuộc Trung ương quy hoạch đầu tư phát triển các vườn ươm giống cây nông nghiệp, cây lâm nghiệp và các cơ sở sản xuất con giống (chăn nuôi, thuỷ sản) hoặc hỗ trợ một số trang trại có điều kiện sản xuất giống để bảo đảm đủ giống tốt, giống có chất lượng cao cung cấp cho các trang trại và cho hộ nông dân trong vùng.
 
----
+- Khuyến khích chủ trang trại góp vốn vào Quỹ hỗ trợ phát triển khoa học, liên kết với cơ sở khoa học, đào tạo, chuyển giao tiến bộ khoa học, kỹ thuật áp dụng vào trang trại và làm dịch vụ kỹ thuật cho nông dân trong vùng.
 
+e) Chính sách thị trường.
 
-### Điều 24.9.TT.1.1. Mục đích, yêu cầu
+- Bộ Thương mại, Bộ Nông nghiệp và Phát triển nông thôn, ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương tổ chức tốt việc cung cấp thông tin thị trường, khuyến cáo khoa học kỹ thuật, giúp trang trại định hướng sản xuất kinh doanh phù hợp với nhu cầu của thị trường trong và ngoài nước.
 
-*Nội dung chưa có sẵn*
+- Nhà nước hỗ trợ việc đầu tư nâng cấp, mở rộng và xây dựng mới các cơ sở công nghiệp chế biến ở các vùng tập trung, chuyên canh; hướng dẫn việc ký kết hợp đồng cung ứng vật tư và tiêu thụ nông sản. Khuyến khích các thành phần kinh tế tham gia phát triển công nghiệp chế biến nông sản và tiêu thụ nông sản hàng hoá của trang trại và nông dân trên địa bàn.
 
-**Chỉ mục:** 1
+- Nhà nước khuyến khích phát triển chợ nông thôn, các trung tâm giao dịch mua bán nông sản và vật tư nông nghiệp. Tạo điều kiện cho các chủ trang trại được tiếp cận và tham gia các chương trình, dự án hợp tác, hội chợ triển lãm trong và ngoài nuớc.
 
-**Mã phân cấp:** 240090000000000047500024020226102500000000802000100614500100
+Đẩy mạnh sự liên kết giữa các cơ sở sản xuất, chế biến, tiêu thụ nông sản thuộc các thành phần kinh tế, đặc biệt là giữa các doanh nghiệp Nhà nước với hợp tác xã, chủ trang trại, hộ nông dân.
 
-**ID:** dk_00038253
+Nhà nước tạo điều kiện và khuyến khích chủ trang trại xuất khẩu trực tiếp sản phẩm của mình và sản phẩm mua gom của trang trại khác, của các hộ nông dân và nhập khẩu vật tư nông nghiệp.
 
----
+g) Chính sách bảo hộ tài sản đã đầu tư của trang trại.
 
+Tài sản và vốn đầu tư hợp pháp của trang trại không bị quốc hữu hoá, không bị tịch thu bằng biện pháp hành chính. Trong trường hợp vì lý do quốc phòng, an ninh, vì lợi ích quốc gia, Nhà nước cần thu hồi đất được giao, được thuê của trang trại thì chủ trang trại được thanh toán hoặc bồi thường theo giá thị trường tại thời điểm công bố quyết định thu hồi.
 
-### Điều 24.9.TT.1.2. Nội dung qui hoạch phát triển trang trại
+h) Nghĩa vụ của chủ trang trại.
+
+Chủ trang trại có nghĩa vụ:
+
+Trong quá trình sản xuất phải thực hiện các quy trình kỹ thuật về bảo vệ đất và làm giàu đất và các quy định khác của pháp luật về đất đai;
+
+Nộp thuế và thực hiện các nghĩa vụ tài chính theo quy định của pháp luật;
+
+Tuân thủ các quy định của pháp luật về quốc phòng, an ninh, trật tự, an toàn xã hội;
+
+Thực hiện đầy đủ các nghĩa vụ theo quy định của pháp luật về lao động;
+
+Tuân thủ các quy định pháp luật về bảo vệ môi trường, bảo vệ di tích lịch sử, văn hoá, danh lam thắng cảnh.
+
+Điều 24.9.TT.6.2. Phân loại trang trại
+
+(Điều 2 Thông tư số 02/2020/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 14/04/2020)
+
+ 1. Trang trại chuyên ngành được xác định theo lĩnh vực sản xuất như trồng trọt, chăn nuôi, lâm nghiệp, nuôi trồng thủy sản, diêm nghiệp và tỷ trọng giá trị sản xuất của lĩnh vực chiếm trên 50% cơ cấu giá trị sản xuất của trang trại trong năm. Trang trại chuyên ngành được phân loại như sau:
+
+ a) Trang trại trồng trọt;
+
+ b) Trang trại chăn nuôi;
+
+ c) Trang trại lâm nghiệp;
+
+ d) Trang trại nuôi trồng thủy sản;
+
+ đ) Trang trại sản xuất muối.
+
+ 2. Trang trại tổng hợp là trang trại trong đó không có lĩnh vực sản xuất nào có tỷ trọng giá trị sản xuất chiếm trên 50% cơ cấu giá trị sản xuất của trang trại trong năm.Điều 24.9.TT.6.3. Tiêu chí kinh tế trang trại
+
+(Điều 3 Thông tư số 02/2020/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 14/04/2020)
+
+ 1. Đối với trang trại chuyên ngành:
+
+ a) Trồng trọt: Giá trị sản xuất bình quân phải đạt từ 1,0 tỷ đồng/năm trở lên và tổng diện tích đất sản xuất từ 1,0 ha trở lên;
+
+ b) Nuôi trồng thủy sản: Giá trị sản xuất bình quân phải đạt từ 2,0 tỷ đồng/năm trở lên và tổng diện tích đất sản xuất từ 1,0 ha trở lên;
+
+ c) Chăn nuôi: Giá trị sản xuất bình quân phải đạt từ 2,0 tỷ đồng/năm trở lên và đạt quy mô chăn nuôi trang trại theo quy định tại Điều 52 Luật Chăn nuôi và văn bản hướng dẫn;
+
+ d) Lâm nghiệp: Giá trị sản xuất bình quân đạt từ 1,0 tỷ đồng/năm trở lên và tổng diện tích đất sản xuất từ 10,0 ha trở lên;
+
+ đ) Sản xuất muối: Giá trị sản xuất bình quân đạt 0,35 tỷ đồng/năm trở lên và tổng diện tích đất sản xuất từ 1,0 ha trở lên.
+
+ 2. Đối với trang trại tổng hợp: Giá trị sản xuất bình quân phải đạt từ 2,0 tỷ đồng/năm trở lên và tổng diện tích đất sản xuất từ 1,0 ha trở lên.Điều 24.9.TT.6.4. Cách tính tổng diện tích đất sản xuất và giá trị sản xuất của trang trại
+
+(Điều 4 Thông tư số 02/2020/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 14/04/2020)
+
+ 1. Tổng diện tích đất sản xuất quy định tại Điều 3 Thông tư này là tổng diện tích đất sản xuất kinh doanh của trang trại, được sử dụng hợp pháp theo quy định của pháp luật về đất đai, bao gồm diện tích đất để trồng trọt, chăn nuôi, lâm nghiệp, nuôi trồng thủy sản, sản xuất muối và đất để xây dựng hạ tầng phục vụ sản xuất của trang trại tại thời điểm kê khai.
+
+ 2. Giá trị sản xuất của trang trại/năm là giá trị sản xuất của ít nhất 1 năm trang trại đạt được trong 3 năm gần nhất với năm kê khai; được tính bằng tổng giá trị sản xuất các kỳ thu hoạch hoặc khai thác trong năm.
+
+ Đối với trang trại mới thành lập chưa có sản phẩm thu hoạch, giá trị sản xuất được ước tính căn cứ vào phương án sản xuất, tình hình triển khai thực tế của trang trại.Điều 24.9.TT.6.5. Theo dõi, thống kê và chế độ báo cáo về kinh tế trang trại
+
+(Điều 5 Thông tư số 02/2020/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 14/04/2020)
+
+1. Ủy ban nhân dân cấp xã có trách nhiệm:
+
+a) Hướng dẫn, phổ biến tiêu chí kinh tế trang trại cho cá nhân, chủ hộ gia đình có hoạt động sản xuất kinh doanh trong lĩnh vực nông nghiệp trên địa bàn cấp xã;
+
+b) Triển khai theo dõi, thống kê, cập nhật các biến động về chủ trang trại, diện tích đất sản xuất, loại trang trại;
+
+c) Lập sổ theo dõi phát triển kinh tế trang trại trên địa bàn theo mẫu tại Phụ lục I ban hành kèm theo Thông tư này.
+
+2. Chế độ báo cáo về kinh tế trang trại theo mẫu tại Phụ lục II ban hành kèm theo Thông tư này:
+
+a) Hằng năm, Ủy ban nhân dân cấp xã tổng hợp, báo cáo về kinh tế trang trại trên địa bàn xã trong năm gửi Ủy ban nhân dân cấp huyện; Ủy ban nhân dân cấp huyện tổng hợp, báo cáo Ủy ban nhân dân cấp tỉnh (qua Sở Nông nghiệp và Phát triển nông thôn);
+
+b) Trước ngày 19 tháng 12 hằng năm, Sở Nông nghiệp và Phát triển nông thôn tổng hợp, báo cáo về kinh tế trang trại trong năm trên địa bàn tỉnh gửi Ủy ban nhân dân cấp tỉnh và Bộ Nông nghiệp và Phát triển nông thôn;
+
+c) Phương thức gửi, nhận báo cáo, thời gian chốt số liệu báo cáo thực hiện theo quy định tại khoản 4 Điều 8, khoản 4 Điều 12 Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính Nhà nước.
+
+Phụ lục 1 _ TT 02.2020.docx
+
+Phụ lục 2 _ TT 02.2020.docx
+
+Điều 24.9.NQ.1.3. Tổ chức thực hiện
+
+(Điều 3 Nghị quyết số 03/2000/NQ-CP, có hiệu lực thi hành kể từ ngày 02/02/2000)
+
+1. Bộ Nông nghiệp và Phát triển nông thôn chịu trách nhiệm hướng dẫn các điạ phương xây dựng quy hoạch các vùng phát triển kinh tế trang trại; quy hoạch phát triển hệ thống thuỷ lợi, cơ sở công nghiệp chế biến; tổ chức hệ thống khuyến nông, khuyến lâm, thông tin thị trường; hướng dẫn các doanh nghiệp công nghiệp chế biến ký kết hợp đồng tiêu thụ nông sản, nguyên liệu cho các trang trại; tổ chức đào tạo nghiệp vụ kỹ thuật, quản lý cho chủ trang trại; hàng năm, trình Chính phủ báo cáo tổng hợp tình hình kinh tế trang trại và kiến nghị những chính sách cần bổ sung, sửa đổi để phát triển kinh tế trang trại.
+
+2. Các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Chính phủ hướng dẫn việc thực hiện các chính sách thuộc phạm vi chức năng, nhiệm vụ của mình nêu trong Nghị quyết này.
+
+3. Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
+
+- Quy hoạch vùng mở mang kinh tế trang trại phù hợp với quy hoạch tổng thể phát triển kinh tế, xã hội của tỉnh; hàng năm công bố quy hoạch sử dụng đất đã được cơ quan có thẩm quyền xét duyệt; công bố quỹ đất chưa sử dụng, quỹ đất có nhu cầu cho thuê, niêm yết công khai tại trụ sở ủy ban nhân dân các cấp để các hộ gia đình, cá nhân đăng ký thuê sử dụng lập trang trại.
+
+- Xây dựng kết cấu hạ tầng phục vụ cho vùng phát triển kinh tế trang trại phù hợp với sự phát triển của nông nghiệp, nông thôn trong thời kỳ mới.
+
+- Bảo đảm trật tự an ninh trên địa bàn để nhân dân yên tâm đầu tư phát triển sản xuất.
+
+Điều 24.9.TT.1.1. Mục đích, yêu cầu
+
+(Điều 1 Thông tư số 61/2000/TT-BNNPTNT/KH Hướng dẫn lập quy hoạch phát triển kinh tế trang trại ngày 06/06/2000 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 21/06/2000 )
+
+- Đưa kinh tế trang trại phát triển phù hợp với qui hoạch phát triển nông nghiệp, nông thôn của địa phương, khắc phục tình trạng tự phát, hiệu quả thấp và kém bền vững.
+
+- Khai thác có hiệu quả tài nguyên đất đai, nước, sinh vật, lao động, vốn và các tiềm năng kinh tế khác để sản xuất ra nhiều sản phẩm hàng hoá có chất lượng và giá trị cao, tạo việc làm và nâng cao thu nhập của nông dân.
+
+- Hình thành các vùng sản xuất tập trung các loại cây trồng, vật nuôi là thế mạnh của mỗi vùng, gắn với chế biến và tiêu thụ sản phẩm.
+
+- Xây dựng cơ sở hạ tầng và dịch vụ phục vụ cho việc phát triển kinh tế trang trại theo hướng thâm canh, đạt hiệu quả cao.
+
+- Phát triển kinh tế trang trại bảo đảm yêu cầu bảo vệ môi trường sinh thái và sản xuất bền vững.
 
 Điều 24.9.TT.1.2. Nội dung qui hoạch phát triển trang trại
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 61/2000/TT-BNNPTNT/KH, có hiệu lực thi hành kể từ ngày 21/06/2000)
 
-**Mã phân cấp:** 240090000000000047500024020226102500000000802000100614500200
+1- Qui hoạch sử dụng đất đai
 
-**ID:** dk_00038254
+- Tiến hành kiểm tra, nắm vững quĩ đất hiện đang sử dụng cho nông nghiệp, lâm nghiệp; Quĩ đất trống đồi núi trọc, bãi bồi ven sông, ven biển, mặt nước có khả năng khai thác đưa vào sử dụng trong nông - lâm - ngư nghiệp theo phương thức trang trại; Thể hiện rõ quĩ đất trồng cây công nghiệp, đồng cỏ, đất phát triển các loại rừng, diện tích mặt nước nuôi trồng thuỷ sản, đất giành cho phát triển công nghiệp và dịch vụ.
 
----
+- Bố trí các vùng đất trống đồi núi trọc, bãi bồi ven biển, đất hoang hoá để giao cho các tổ chức, cá nhân có khả năng phát triển kinh tế trang trại dưới hình thức giao, cho thuê hoặc đấu thầu sử dụng.
 
+- Những nội dung trên phải thể hiện trên bản đồ tỷ lệ lớn. Ở những nơi chưa có thì tạm thời dùng các sơ đồ để thể hiện.
 
-### Điều 24.9.TT.1.3. Phương pháp tiến hành
+2- Qui hoạch sản xuất nông - lâm nghiệp và chế biến - tiêu thụ nông sản
 
-*Nội dung chưa có sẵn*
+- Căn cứ vào điều kiện thị trường, đất đai, nguồn nước, khí hậu, kinh nghiệm truyền thống... để bố trí các loại cây trồng, vật nuôi chính trong vùng phát triển trang trại để làm cơ sở hướng dẫn cho các chủ trang trại. Đối với vùng còn nhiều đất đai, phát triển sản xuất trồng trọt kết hợp với chăn nuôi, nuôi trồng thuỷ sản để làm ra nhiều sản phẩm hàng hoá cung cấp cho thị trường trong nước và xuất khẩu. Đối với vùng đất ít, người đông thì phát triển các ngành nghề sử dụng ít đất nhưng có hiệu quả cao như làm giống, trồng hoa, cây cảnh, chăn nuôi gia súc và thuỷ đặc sản, kết hợp với các hoạt động dịch vụ, ngành nghề để sử dụng được nhiều lao động và đạt hiệu quả kinh tế cao.
 
-**Chỉ mục:** 3
+- Xác định lâm phần ổn định của các loại rừng trong vùng phát triển trang trại để làm cơ sở giao hoặc khoán bảo vệ rừng cho chủ trang trại theo nghị định số 163/1999/NĐ.CP ngày 16/11/1999 của Chính phủ về giao đất , cho thuê đất lâm nghiệp cho tổ chức, hộ gia đình và các nhân sử dụng ổn định, lâu dài vào mục đích lâm nghiệp. Xác định cơ cấu cây rừng chính để trồng rừng.
 
-**Mã phân cấp:** 240090000000000047500024020226102500000000802000100614500300
+- Xác định hướng phát triển chế biến; Lựa chọn công nghệ chế biến phù hợp với từng vùng để hướng dẫn cho trang trại áp dụng, chú trọng qui mô vừa và nhỏ, áp dụng công nghệ, thiết bị hiện đại kết hợp với phương pháp truyền thống được cải tiến.
 
-**ID:** dk_00038255
+- Bố trí các công trình thuỷ lợi, giao thông, điện, điện thoại... phục cho phát triển trang trại ở các vùng tập trung, nhất là các vùng đất mới. Xác định rõ nguồn vốn đầu tư. Nhà nước hộ trợ đầu tư các công trình có liên quan chung đến toàn vùng. Phần đầu tư trong nội bộ trang trại do chủ trang trại tự đảm nhận phù hợp với qui hoạch phát triển chung.
 
----
+- Hình thành mạng lưới các cơ sở sản xuất và cung ứng giống cây con tốt, bảo vệ thực vật, thú y, khuyến nông.... trên địa bàn, kết hợp giữa các cơ sở của nhà nước với các thành phần kinh tế khác. Hộ trợ các trang trại có khả năng làm dịch vụ kỹ thuật cho các trang trại và hộ nông dân khác trong vùng.
 
+- Khuyến khích việc liên doanh, liên kết giữa trang trại với các doanh nghiệp nhà nước và thành phần kinh tế khác trên địa bàn để sản xuất, chế biến và tiêu thụ sản phẩm làm ra.
 
-### Điều 24.9.QĐ.1.1.
+4- Qui hoạch phát triển nguồn nhân lực
 
-*Nội dung chưa có sẵn*
+- Xác định nhu cầu và hướng hộ trợ các chủ trang trại đào tạo, bồi dưỡng nâng cao kiến thức khoa học kỹ thuật, quản lý, nhất là kiến thức tiếp thị, hạch toán kinh tế thông qua các lớp ngắn hạn và các khoá đào tạo dài hạn.
 
-**Chỉ mục:** 1
+- Tăng cường trao đổi kinh nghiệm quản lý và ứng dụng khoa học công nghệ giữa các trang trại.
 
-**Mã phân cấp:** 2400900000000000493700150224460026000010
+5- Bảo vệ môi trường
 
-**ID:** dk_00038257
+Nêu rõ yêu cầu đối với các trang trại về việc bảo vệ rừng, bảo vệ đất, bảo vệ nguồn nước, chống ô nhiễm do chất thải, nhất là đối với các trang trại canh tác trên các vùng đất dốc và các trang trại chăn nuôi qui mô lớn, hướng dẫn các biện pháp xử lý chất thải và bảo vệ môi trường phù hợp
 
----
+Điều 24.9.TT.1.3. Phương pháp tiến hành
 
+(Điều 3 Thông tư số 61/2000/TT-BNNPTNT/KH, có hiệu lực thi hành kể từ ngày 21/06/2000)
 
-### Điều 24.9.NĐ.15. Bộ Nông nghiệp và Phát triển nông thôn
+1- Điều tra nắm tình hình kinh tế trang trại đã có trên địa bàn về số lượng, qui mô, kết quả sản xuất và thu nhập của trang trại. Đánh giá những thuận lợi, khó khăn của phát triển kinh tế trang trại ở địa phương.
+
+2- Kế thừa, tham khảo các tài liệu qui hoạch hiện có của địa phương về phát triển nông nghiệp, nông thôn và qui hoạch sử dụng đất, kết hợp khảo sát bổ sung để đánh giá những lợi thế và hạn chế của từng vùng.
+
+3- Nắm bắt các thông tin và dự báo về thị trường, về tiến bộ khoa học kỹ thuật và công nghệ làm cơ sở qui hoạch sản xuất của trang trại.
+
+4- Trong qúa trình xây dựng và thực hiện qui hoạch phải tổ chức bàn bạc với nông dân về phương hướng sản xuất, chế biến và tiêu thụ sản phẩm của trang trại, phối hợp các dự án xây dựng cơ sở hạ tầng và phát triển dịch vụ, đáp ứng sát nhu cầu phát triển của trang trại và hộ nông dân trên địa bàn.
+
+Chương VII
+
+QUY HOẠCH PHÁT TRIỂN MÍA ĐƯỜNG ĐẾN NĂM 2010 VÀ ĐỊNH HƯỚNG ĐẾN NĂM 2020
+
+Điều 24.9.QĐ.1.1. 
+
+(Điều 1 Quyết định số 26/2007/QĐ-TTg Phê duyệt Quy hoạch phát triển mía đường đến năm 2010 và định hướng đến năm 2020 ngày 15/02/2007 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 13/03/2007 )
+
+Phê duyệt Quy hoạch phát triển mía đường đến năm 2010 và định hướng đến năm 2020 với các nội dung chính sau:
+
+**I. QUAN ĐIỂM PHÁT TRIỂN**
+
+1. Phát triển sản xuất mía đường trong thời gian tới phải đảm bảo hiệu quả kinh tế - xã hội và bền vững, bảo vệ môi trường sinh thái, phù hợp với quy hoạch chuyển đổi cơ cấu nông nghiệp và kinh tế nông thôn theo hướng công nghiệp hóa, hiện đại hóa.
+
+2. Phát triển sản xuất mía đường trên cơ sở phát triển đồng bộ từ sản xuất mía nguyên liệu, nhà máy chế biến, sản xuất các sản phẩm sau đường đến lưu thông và tiêu thụ sản phẩm; từng bước mở rộng công suất các nhà máy đường hiện có theo hướng công nghệ hiện đại, thiết bị tiên tiến.
+
+3. Khuyến khích các thành phần kinh tế đầu tư phát triển mía đường, gắn lợi ích giữa nhà chế biến và người sản xuất nguyên liệu, thúc đẩy xây dựng nông thôn mới.
+
+4. Nhà nước hỗ trợ một phần đầu tư phát triển cơ sở hạ tầng giao thông, thủy lợi vùng mía tập trung; nghiên cứu, chuyển giao tiến bộ khoa học và công nghệ, nhằm nâng cao năng suất, chất lượng, hiệu quả sản xuất mía đường.
+
+**II. CÁC CHỈ TIÊU PHÁT TRIỂN**
+
+1. Đến năm 2010
+
+ a) Sản xuất đường:
+
+ - Sản lượng đường: 1,5 triệu tấn, trong đó, đường công nghiệp là 1,4 triệu tấn (670.000 tấn đường luyện và 730.000 tấn đường trắng), đường thủ công là 100.000 tấn (quy đường trắng).
+
+ - Tổng công suất thiết kế của các nhà máy: 105.000 tấn mía ngày, trong đó: bốn vùng trọng điểm phát triển mía đường cò tổng công suất các nhà máy là 86.000 tấn mía ngày (chiếm trên 82% công suất cả nước). Cụ thể:
+
+ + Vùng Bắc Trung Bộ: tổng công suất nhà máy là 35.000 tấn mía ngày;
+
+ + Vùng Duyên hải miền Trung và Tây Nguyên: tổng công suất nhà máy là 16.300 tấn mía ngày;
+
+ + Vùng Đông Nam Bộ: tổng công suất nhà máy là 14.900 tấn mía ngày;
+
+ + Vùng Đồng bằng sông Cửu Long: tổng công suất nhà máy là 19.800 tấn mía ngày.
+
+ b) Về sản xuất mía nguyên liệu:
+
+ - Tổng diện tích trồng mía: 300.000 ha, trong đó vùng nguyên liệu tập trung là: 250.000 ha.
+
+ - Năng suất mía bình quân: 65 tấn/ha.
+
+ - Chữ đường bình quân: 11 CCS.
+
+ - Sản lượng mía: 19,5 triệu tấn.
+
+ - Bốn vùng trọng điểm phát triển mía đường có tổng diện tích trồng mía là 222.000 ha (chiếm 74,0% diện tích mía cả nước). Cụ thể:
+
+ + Vùng Bắc Trung Bộ: tổng diện tích trồng mía là 80.000 ha;
+
+ + Vùng duyên hải miền Trung và Tây Nguyên: tổng diện tích trồng mía là 53.000 ha;
+
+ + Vùng Đông Nam Bộ: tổng diện tích trồng mía là 37.000 ha;
+
+ + Vùng đồng bằng sông Cửu Long: tổng diện tích trồng mía là 52.000 ha.
+
+2. Định hướng phát triển đến năm 2020
+
+Đến năm 2020 sản xuất đường đáp ứng đủ cho tiêu dùng trong nước và xuất khẩu, mức sản xuất khoảng 2,1 triệu tấn, trong đó: đường luyện là 1,5 triệu tấn, đường trắng 500.000 tấn, đường thủ công 100.000 tấn.
+
+Đầu tư thâm canh diện tích mía hiện có, mở rộng diện tích ở nơi có điều kiện theo hướng: trồng giống mía mới, áp dụng công nghệ canh tác tiên tiến và đầu tư có tưới. Đến năm 2020 tổng diện tích trồng mía khoảng 300.000 ha, năng suất mía bình quân đạt 80 tấn/ha, chữ đường bình quân 12 CCS, sản lượng mía đạt 24 triệu tấn; tổng công suất thiết kế của các nhà máy khoảng 120.000 tấn mía ngày.
+
+**III. CÁC GIẢI PHÁP CHỦ YẾU**
+
+1. Quy hoạch:
+
+ a) Ủy ban nhân dân các tỉnh có nhà máy đường chủ trì phối hợp với Bộ Nông nghiệp và Phát triển nông thôn chỉ đạo việc rà soát điều chỉnh, phê duyệt quy hoạch phát triển nguyên liệu của tỉnh; điều chỉnh, bổ sung, quy hoạch vùng nguyên liệu của từng nhà máy phù hợp với quy hoạch phát triển cơ sở chế biến;
+
+ b) Không xây dựng mới nhà máy đường. Các nhà máy đường từng bước đầu tư chiều sâu, hiện đại hóa, mở rộng công suất hiện có một cách hợp lý phù hợp với vùng nguyên liệu và thị trường; nâng cao hiệu suất tổng thu hồi, chất lượng sản phẩm, giảm ô nhiễm môi trường, góp phần hạ giá thành sản phẩm, nâng cao hiệu quả sản xuất và sức cạnh tranh; đa dạng hóa sản phẩm như cồn, điện, phân vi sinh, bánh, kẹo,… để nâng cao hiệu quả sản xuất, kinh doanh.
+
+2. Xây dựng vùng nguyên liệu:
+
+ a) Thực hiện các giải pháp đồng bộ về giống, kỹ thuật thâm canh, đầu tư cơ sở hạ tầng, áp dụng cơ giới hóa… để tăng nhanh năng suất, chất lượng mía;
+
+ b) Ủy ban nhân dân các tỉnh có nhà máy đường chỉ đạo các nhà máy và các cấp phát triển vùng nguyên liệu mía theo quy hoạch đã được phê duyệt, bảo đảm đủ nguyên liệu theo công suất ép của các nhà máy; nhân nhanh diện tích mía giống mới có năng suất, chữ đường cao; đẩy mạnh thâm canh, cải tiến kỹ thuật canh tác, triển khai phương pháp trồng mía có tưới ở nơi đủ điều kiện; chỉ đạo hướng dẫn nhà máy lập dự án đầu tư phát triển vùng nguyên liệu phù hợp với quy hoạch; có chính sách hỗ trợ đầu tư cơ sở hạ tầng (thủy lợi, giao thông) vùng nguyên liệu; hỗ trợ khuyến khích nông dân dồn điền đổi thửa để hình thành vùng sản xuất nguyên liệu tập trung;
+
+ c) Các nhà máy, cơ sở chế biến mía đường phải có kế hoạch phát triển vùng nguyên liệu mía của đơn vị phù hợp với quy hoạch đã được phê duyệt; có giải pháp và chính sách cụ thể hỗ trợ người trồng mía phát triển vùng nguyên liệu tập trung, áp dụng kỹ thuật thâm canh và cơ giới hóa vào sản xuất, để nâng cao năng suất chất lượng mía và ký hợp đồng tiêu thụ mía với người trồng mía hoặc tổ chức của người trồng mía.
+
+3. Về khoa học và công nghệ:
+
+ a) Bộ Nông nghiệp và Phát triển nông thôn sớm triển khai và hoàn thành Đề án nhân giống mía 3 cấp "Phát triển giống mía cho vùng nguyên liệu các nhà máy đường giai đoạn 2003 – 2008"; xây dựng hệ thống viện nghiên cứu và các trung tâm giống mía đủ điều kiện trang thiết bị và năng lực cán bộ để chủ động sản xuất giống tốt, có năng suất, chữ đường cao đáp ứng yêu cầu sản xuất. Đồng thời với việc nghiên cứu, chọn tạo giống, có chương trình, kế hoạch nhập khẩu giống mía có năng suất, chữ đường cao để khảo nghiệm và nhân nhanh các giống mía qua khảo nghiệm được đánh giá tốt phù hợp với Việt Nam;
+
+ b) Tăng cường công tác khuyến nông (khuyến nông nhà nước, khuyến nông của doanh nghiệp), đào tạo, hướng dẫn, xây dựng mô hình để chuyển giao nhanh giống mới, phương pháp canh tác tiên tiến, tiến bộ khoa học và công nghệ cho nông dân. Bộ Nông nghiệp và Phát triển nông thôn, các địa phương dành nguồn kinh phí ngân sách từ chương trình giống cây trồng, giống vật nuôi và giống thủy sản cho việc phát triển giống mía theo dự án đã được phê duyệt và khuyến nông cây mía;
+
+ c) Xây dựng và ban hành quy trình thâm canh phù hợp với từng vùng sinh thái, tổ chức hướng dẫn chuyển giao nhanh vào sản xuất, tăng cường đầu tư thâm canh, nâng cao năng suất, chất lượng mía;
+
+d) Các nhà máy sớm hoàn thiện hệ thống quản lý sản xuất, chất lượng ở các nhà máy đường theo hướng hiện đại, đảm bảo an toàn vệ sinh thực phẩm, phù hợp với hội nhập kinh tế thế giới. Đến năm 2010, tất cả các nhà máy sản xuất đường đều đạt tiêu chuẩn quản lý theo ISO.
+
+4. Về đầu tư:
+
+ a) Ngân sách nhà nước hỗ trợ: nhập khẩu và nhân giống mía mới; đầu tư hồ chứa nước, các công trình thủy lợi đầu mối (kênh cấp 1, 2) và giao thông trong vùng nguyên liệu tập trung. Ủy ban nhân dân tỉnh có kế hoạch sử dụng nguồn ngân sách địa phương để đầu tư hạ tầng ngoài nhà máy và ngoài vùng nguyên liệu;
+
+ b) Thực hiện chính sách huy động vốn từ các nguồn vốn hợp pháp khác cùng với nguồn vốn hỗ trợ của Nhà nước để đầu tư xây dựng đồng bộ cơ sở hạ tầng (giao thông, thủy lợi, cải tạo đồng ruộng…) cho vùng nguyên liệu tập trung, tăng năng suất, chất lượng và giảm chi phí vận chuyển mía. Đầu tư tưới diện tích mía ở nơi có đủ điều kiện và nguồn nước, phấn đấu đến năm 2010, diện tích mía được tưới đạt trên 40%;
+
+ c) Khuyến khích các nhà máy đường hỗ trợ nông dân đầu tư cơ giới hóa các khâu từ làm đất đến thu hoạch mía,… để nâng cao năng suất lao động và giải quyết tình trạng thiếu lao động.
+
+5. Về tiêu thụ và xúc tiến thương mại:
+
+ a) Hàng năm Bộ Nông nghiệp và Phát triển nông thôn báo cáo kế hoạch cân đối giữa sản xuất và tiêu dùng để có giải pháp điều chỉnh sản xuất phù hợp; Bộ Thương mại chủ trì, phối hợp với Bộ Nông nghiệp và Phát triển nông thôn và Hiệp hội Mía đường Việt Nam có biện pháp điều hành việc tiêu thụ đường trong nước phù hợp không để biến động giá cả;
+
+ b) Các nhà máy đường thực hiện tốt việc ký hợp đồng với người trồng mía theo Quyết định số 80/2002/QĐ-TTg của Thủ tướng Chính phủ và Quy chế phối hợp trong sản xuất, tiêu thụ mía và đường giữa các nhà máy, công ty đường.
+
+ c) Nhà nước khuyến khích và tạo điều kiện các nhà máy, công ty mía đường xây dựng thương hiệu, nhãn mác hàng hóa và tăng cường xúc tiến thương mại mía đường.
+
+6. Về tổ chức sản xuất:
+
+ a) Hoàn thành dứt điểm việc chuyển đổi sở hữu và xử lý tài chính đối với các nhà máy đường theo Quyết định số 28/2004/QĐ-TTg của Thủ tướng Chính phủ;
+
+ b) Khuyến khích và tạo điều kiện thành lập hợp tác xã sản xuất, dịch vụ và tiêu thụ mía của nông dân; đổi mới và nâng cao hiệu quả hợp tác xã hiện có trong ngành mía đường;
+
+ c) Nâng cao vai trò và hiệu quả hoạt động của Hiệp hội Mía đường Việt Nam để thực hiện tốt việc phối hợp các nhà máy đường trong các lĩnh vực tiêu thụ, thông tin, dự báo thị trường, xúc tiến thương mại, khoa học, công nghệ và tiêu thụ mía, đường, tiến tới chủ động điều tiết, bình ổn thị trường, đảm bảo lợi ích cho cả doanh nghiệp, nông dân và người tiêu dùng; xây dựng quỹ bảo hiểm sản xuất mía đường.
+
+**IV. TỔ CHỨC THỰC HIỆN**
+
+1. Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các Bộ, ngành liên quan, Ủy ban nhân dân các tỉnh hướng dẫn, chỉ đạo, kiểm tra việc triển khai quy hoạch; kịp thời cập nhật thông tin về thị trường, tiến bộ khoa học, công nghệ để có sự điều chỉnh quy hoạch phù hợp.
+
+2. Ủy ban nhân dân các tỉnh có nhà máy đường chịu trách nhiệm phê duyệt chỉ đạo triển khai quy hoạch mía đường của tỉnh phù hợp với quy hoạch này; chỉ đạo, kiểm tra việc ký và thực hiện hợp đồng giữa nhà máy và người trồng mía và thực hiện quy chế phối hợp trong sản xuất, tiêu thụ mía và đường giữa các nhà máy trên địa bàn; xử lý các trường hợp tranh mua, tranh bán nguyên liệu, giữ ổn định trật tự tại địa phương.
+
+(Điều này có nội dung liên quan đến Điều 1.; Điều 2. ; Điều 3. Thực hiện các giải pháp xử lý khó khăn cho các Nhà máy sau khi phân loại. của Quyết định 28/2004/QĐ-TTg Về tổ chức lại sản xuất và thực hiện một số giải pháp xử lý khó khăn đối với các nhà máy và Công ty Đường ban hành ngày 04/03/2004)
+
+Chương VIII
+
+TỔ CHỨC THỰC HIỆN
 
 Điều 24.9.NĐ.15. Bộ Nông nghiệp và Phát triển nông thôn
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000500001500000000000000000
+ Bộ Nông nghiệp và Phát triển nông thôn là cơ quan quản lý nhà nước về làng nghề, ngành nghề nông thôn tại trung ương có quyền hạn, trách nhiệm:
 
-**ID:** dk_00038259
+ 1. Chủ trì, phối hợp với các bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh tổ chức chỉ đạo thực hiện quản lý nhà nước đối với làng nghề, ngành nghề nông thôn.
 
----
+ 2. Xây dựng và ban hành các chính sách khuyến khích phát triển ngành nghề nông thôn; bảo tồn và phát triển làng nghề.
 
+ 3. Chỉ đạo xây dựng và tổ chức thực hiện các chương trình, đề án, dự án hỗ trợ phát triển làng nghề, ngành nghề nông thôn.
 
-### Điều 24.9.NĐ.16. Bộ Tài nguyên và Môi trường
+ 4. Hàng năm, xây dựng kế hoạch, dự toán kinh phí phát triển ngành nghề nông thôn gửi cơ quan tài chính cùng cấp để tổng hợp vào phương án phân bổ ngân sách trình cơ quan có thẩm quyền xem xét, quyết định theo quy định của Luật ngân sách nhà nước.
 
-*Nội dung chưa có sẵn*
+ 5. Thanh tra, kiểm tra, đánh giá định kỳ hoặc đột xuất việc thực hiện chính sách, pháp luật, hiệu quả hoạt động của các làng nghề và các cơ sở ngành nghề nông thôn.Điều 24.9.NĐ.16. Bộ Tài nguyên và Môi trường
 
-**Chỉ mục:** 16
+(Điều 16 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000500001600000000000000000
+ 1. Chỉ đạo, ban hành hoặc trình cơ quan có thẩm quyền ban hành chính sách tạo điều kiện thuận lợi cho các cơ sở ngành nghề nông thôn được giao đất, thuê đất, cấp giấy chứng nhận quyền sử dụng đất theo quy định của pháp luật về đất đai.
 
-**ID:** dk_00038260
+ 2. Xây dựng và ban hành hoặc trình cơ quan có thẩm quyền ban hành các văn bản quy phạm pháp luật, chính sách, chiến lược, kế hoạch bảo vệ môi trường và quy chuẩn kỹ thuật về môi trường đối với làng nghề; nghiên cứu, ứng dụng và phổ biến công nghệ xử lý môi trường phù hợp với làng nghề để khuyến khích phát triển các ngành nghề nông thôn sử dụng công nghệ thân thiện với môi trường, hạn chế phát sinh chất thải và đảm bảo các điều kiện vệ sinh an toàn thực phẩm, hạn chế hình thành và phát triển các loại hình có tiềm năng gây ô nhiễm môi trường cao.
 
----
+ 3. Chủ trì, phối hợp với Bộ Nông nghiệp và Phát triển nông thôn, các bộ, ngành và địa phương có liên quan ban hành danh mục làng nghề bị ô nhiễm môi trường cần xử lý.(Điều này có nội dung liên quan đến Điều 21.1.NĐ.9.20. Trách nhiệm của Bộ Tài nguyên và Môi trường)
 
+Điều 24.9.NĐ.17. Bộ Công Thương
 
-### Điều 24.9.NĐ.17. Bộ Công Thương
+(Điều 17 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-*Nội dung chưa có sẵn*
+ 1. Chủ trì xây dựng, ban hành hoặc đề nghị cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật, chính sách, chương trình, kế hoạch khuyến công; hướng dẫn, tổ chức triển khai thực hiện, kiểm tra, đánh giá định kỳ hoặc đột xuất việc thực hiện các cơ chế, chính sách sau khi được ban hành.
 
-**Chỉ mục:** 17
+ 2. Tổ chức thực hiện hoạt động phát triển cụm công nghiệp, chương trình hỗ trợ đầu tư hạ tầng cụm công nghiệp theo quy định của pháp luật;
 
-**Mã phân cấp:** 2400900000000000500001700000000000000000
+ 3. Hàng năm xây dựng kế hoạch, dự toán kinh phí hoạt động khuyến công từ nguồn ngân sách trung ương, trình cơ quan có thẩm quyền phê duyệt và tổ chức thực hiện theo quy định.Điều 24.9.NĐ.18. Bộ Khoa học và Công nghệ
 
-**ID:** dk_00038261
+(Điều 18 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
----
+ 1. Chỉ đạo bố trí kinh phí hỗ trợ ứng dụng khoa học và công nghệ cho lĩnh vực phát triển ngành nghề nông thôn trong kế hoạch hàng năm.
 
+ 2. Hướng dẫn, quản lý công nghệ sản xuất, hạn chế việc đưa công nghệ cũ, lạc hậu vào làng nghề, cơ sở ngành nghề nông thôn và khu vực dân cư nông thôn gây ô nhiễm môi trường.
 
-### Điều 24.9.NĐ.18. Bộ Khoa học và Công nghệ
+ 3. Chủ trì, phối hợp với các cơ quan có liên quan nghiên cứu, giới thiệu, phổ biến công nghệ sản xuất thân thiện môi trường đối với làng nghề, cơ sở ngành nghề nông thôn.Điều 24.9.NĐ.19. Bộ Kế hoạch và Đầu tư
 
-*Nội dung chưa có sẵn*
+(Điều 19 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Chỉ mục:** 18
+ Chủ trì, phối hợp với Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn và các đơn vị có liên quan cân đối, bố trí vốn từ ngân sách nhà nước và các nguồn vốn khác để thực hiện các chính sách theo quy định tại Nghị định này.Điều 24.9.NĐ.20. Bộ Tài chính
 
-**Mã phân cấp:** 2400900000000000500001800000000000000000
+(Điều 20 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**ID:** dk_00038262
+ Hướng dẫn, cân đối, bố trí nguồn vốn từ ngân sách nhà nước và các nguồn vốn khác để hỗ trợ cho hoạt động phát triển ngành nghề nông thôn trong kế hoạch hằng năm theo quy định hiện hành và quy định tại Nghị định này.Điều 24.9.NĐ.21. Bộ Lao động - Thương binh và Xã hội
 
----
+(Điều 21 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
+ Hướng dẫn chỉ đạo, kiểm tra, tổ chức thực hiện các chính sách hỗ trợ về đào tạo nghề, giải quyết việc làm và thực hiện các quy định về lao động, an toàn vệ sinh lao động, bảo hiểm xã hội để phát triển ngành nghề nông thôn.Điều 24.9.NĐ.22. Bộ Văn hóa, Thể thao và Du lịch
 
-### Điều 24.9.NĐ.19. Bộ Kế hoạch và Đầu tư
+(Điều 22 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-*Nội dung chưa có sẵn*
+ Chỉ đạo phát triển du lịch gắn với làng nghề; tổ chức các hoạt động xúc tiến du lịch, hỗ trợ phát triển hạ tầng du lịch làng nghề, khuyến khích phát triển dịch vụ và sản phẩm du lịch làng nghề.Điều 24.9.NĐ.23. Ủy ban nhân dân cấp tỉnh
 
-**Chỉ mục:** 19
+(Điều 23 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000500001900000000000000000
+1. Thực hiện chức năng quản lý nhà nước về làng nghề, ngành nghề nông thôn tại địa phương; rà soát các văn bản quy định của địa phương phù hợp với quy định tại Nghị định này; xây dựng, ban hành cơ chế, chính sách, quy định mức chi và bố trí nguồn vốn từ ngân sách địa phương hàng năm để hỗ trợ đầu tư phát triển làng nghề, ngành nghề nông thôn.
 
-**ID:** dk_00038263
+2. Chỉ đạo, hướng dẫn, kiểm tra việc thực hiện các chính sách, quy hoạch phát triển, bảo vệ môi trường làng nghề, ngành nghề nông thôn và định hướng bảo tồn, phát triển làng nghề, ngành nghề nông thôn; định kỳ 5 năm một lần, rà soát, thống kê, phân loại, lập quy hoạch (hoặc kế hoạch quản lý) phát triển ngành nghề nông thôn tại địa phương cho phù hợp với yêu cầu thực tiễn.
 
----
+3. Chỉ đạo Sở Nông nghiệp và Phát triển nông thôn thực hiện quản lý nhà nước đối với làng nghề, ngành nghề nông thôn. Hàng năm, Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Ủy ban nhân dân cấp huyện hướng dẫn xây dựng và tổng hợp kế hoạch phát triển ngành nghề nông thôn, trình cấp có thẩm quyền phê duyệt trong kế hoạch phát triển nông nghiệp, nông thôn địa phương.
 
+4. Chỉ đạo các sở, ban, ngành và địa phương quản lý việc công nhận nghề truyền thống, làng nghề và làng nghề truyền thống; hướng dẫn cụ thể về tiêu chí bản sắc văn hóa dân tộc đối với các nghề truyền thống, làng nghề truyền thống để xem xét, công nhận; rà soát, lập danh sách làng nghề được công nhận; thực hiện công tác bảo vệ môi trường làng nghề; đầu tư, nâng cấp các hạng mục công trình xử lý chất thải cho làng nghề, cơ sở ngành nghề nông thôn.
 
-### Điều 24.9.NĐ.20. Bộ Tài chính
+5. Phổ biến, tuyên truyền chính sách khuyến khích phát triển ngành nghề nông thôn để các tổ chức, cá nhân có nhu cầu thực hiện các chương trình, đề án, dự án hoặc các hoạt động có liên quan đến phát triển ngành nghề nông thôn tiếp cận các nguồn lực, chính sách hỗ trợ phát triển ngành nghề nông thôn.
 
-*Nội dung chưa có sẵn*
+6. Chỉ đạo Sở Nông nghiệp và Phát triển nông thôn xây dựng kế hoạch, dự toán kinh phí phát triển ngành nghề nông thôn gửi cơ quan tài chính cùng cấp tổng hợp vào phương án phân bổ ngân sách, trình cơ quan có thẩm quyền xem xét, quyết định theo quy định của Luật ngân sách nhà nước.
 
-**Chỉ mục:** 20
+7. Chỉ đạo Ủy ban nhân dân cấp huyện xây dựng, tổng hợp dự toán kinh phí phát triển ngành nghề nông thôn vào dự toán ngân sách hàng năm của địa phương, trình cơ quan có thẩm quyền phê duyệt theo quy định của pháp luật. Ngoài nguồn kinh phí bố trí trực tiếp thực hiện chính sách này, các địa phương có trách nhiệm bố trí, cân đối thêm từ các nguồn kinh phí các chương trình, dự án khác và nguồn hỗ trợ từ các tổ chức quốc tế để hỗ trợ phát triển ngành nghề nông thôn.
 
-**Mã phân cấp:** 2400900000000000500002000000000000000000
+8. Báo cáo định kỳ hoặc đột xuất theo yêu cầu của Thủ tướng Chính phủ, Bộ Nông nghiệp và Phát triển nông thôn về phát triển ngành nghề, làng nghề nông thôn.
 
-**ID:** dk_00038264
-
----
-
-
-### Điều 24.9.NĐ.21. Bộ Lao động - Thương binh và Xã hội
-
-Điều 24.9.NĐ.21. Bộ Lao động - Thương binh và Xã hội
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 2400900000000000500002100000000000000000
-
-**ID:** dk_00038265
-
----
-
-
-### Điều 24.9.NĐ.22. Bộ Văn hóa, Thể thao và Du lịch
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 2400900000000000500002200000000000000000
-
-**ID:** dk_00038266
-
----
-
-
-### Điều 24.9.NĐ.23. Ủy ban nhân dân cấp tỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 2400900000000000500002300000000000000000
-
-**ID:** dk_00038267
-
----
-
-
-### Điều 24.9.NĐ.24. Các tổ chức chính trị - xã hội, tổ chức xã hội, nghề nghiệp
+(Điều này có nội dung liên quan đến Điều 21.1.NĐ.9.19. Trách nhiệm của Ủy ban nhân dân cấp tỉnh)
 
 Điều 24.9.NĐ.24. Các tổ chức chính trị - xã hội, tổ chức xã hội, nghề nghiệp
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
-**Mã phân cấp:** 2400900000000000500002340265200052000240
+Tăng cường phối hợp với các cơ quan Nhà nước có liên quan, các tổ chức trong và ngoài nước thực hiện có hiệu quả việc bảo tồn và phát triển nghề truyền thống, làng nghề và làng nghề truyền thống thông qua các chương trình, dự án về phát triển ngành nghề nông thôn.
 
-**ID:** dk_00038268
+Điều 24.9.NĐ.25. Điều khoản thi hành
 
----
+(Điều 25 Nghị định số 52/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2018)
 
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2018 và thay thế Nghị định số [66/2006/NĐ-CP](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/nghi-dinh-66-2006-nd-cp-phat-trien-nganh-nghe-nong-thon-12901.aspx) ngày 07 tháng 7 năm 2006 về phát triển ngành nghề nông thôn.
 
-### Điều 24.9.NĐ.25. Điều khoản thi hành
+2. Các quyết định công nhận nghề truyền thống, làng nghề, làng nghề truyền thống của Ủy ban nhân dân cấp tỉnh trước ngày Nghị định này có hiệu lực thi hành:
 
-*Nội dung chưa có sẵn*
+a) Phù hợp với các tiêu chí quy định tại Điều 5 Nghị định này, Ủy ban nhân dân cấp tỉnh chỉ đạo thực hiện.
 
-**Chỉ mục:** 25
+b) Chưa phù hợp với các tiêu chí quy định tại Điều 5 Nghị định này, Ủy ban nhân dân cấp tỉnh chỉ đạo các cơ quan chức năng tổ chức thực hiện việc khắc phục.
 
-**Mã phân cấp:** 2400900000000000500002340265200052000250
+3. Đối với những hồ sơ đã được cơ quan nhà nước có thẩm quyền tiếp nhận để giải quyết các chính sách theo quy định tại Nghị định số [66/2006/NĐ-CP](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/nghi-dinh-66-2006-nd-cp-phat-trien-nganh-nghe-nong-thon-12901.aspx) ngày 07 tháng 7 năm 2006 trước ngày Nghị định này có hiệu lực thì được giải quyết theo quy định của pháp luật tại thời điểm tiếp nhận.
 
-**ID:** dk_00038269
+4. Nghị định không hỗ trợ cho các đối tượng đã được hỗ trợ từ các chương trình khác trùng với các chương trình quy định tại Nghị định này.
 
----
-
-
-### Điều 24.9.NĐ.1.20. Điều khoản chuyển tiếp và hiệu lực thi hành
+5. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Nghị định này./.
 
 Điều 24.9.NĐ.1.20. Điều khoản chuyển tiếp và hiệu lực thi hành
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 57/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 17/04/2018)
 
-**Mã phân cấp:** 2400900000000000500002340315119306770000
+1. Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Nghị định số [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx) ngày 19 tháng 12 năm 2013 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn (Nghị định 210/2013/NĐ-CP).
 
-**ID:** dk_00038270
+2. Doanh nghiệp có dự án đầu tư đáp ứng các điều kiện ưu đãi quy định tại Nghị định này nếu đã triển khai thực hiện dự án sau ngày Nghị định [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx) có hiệu lực mà chưa được hưởng ưu đãi thì được hưởng ưu đãi cho thời gian còn lại của dự án theo quy định tại Nghị định này.
 
----
+3. Doanh nghiệp đang hưởng ưu đãi đầu tư quy định tại Nghị định số [61/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx) ngày 04 tháng 6 năm 2010 và Nghị định [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx) tiếp tục được hưởng các ưu đãi đã cấp hoặc có quyền hưởng ưu đãi theo quy định tại Nghị định này cho thời gian còn lại của dự án nếu đáp ứng được các điều kiện ưu đãi, hỗ trợ theo quy định tại Nghị định này.
 
+4. Doanh nghiệp có dự án đang thực hiện và đáp ứng quy định ưu đãi, hỗ trợ tại Nghị định [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx) thì tiếp tục được ưu đãi hỗ trợ theo Nghị định [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx) hoặc theo quy định tại Nghị định này.
 
-### Điều 24.9.QĐ.1.2.
+5. Dự án đang thực hiện theo quy định tại Nghị định [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx) và chưa hoàn thành thủ tục về đầu tư, xây dựng, đất đai, môi trường được phép áp dụng quy định về thủ tục tại Điều 16 Nghị định này để thực hiện đầu tư dự án.
 
-*Nội dung chưa có sẵn*
+6. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-**Chỉ mục:** 2
+Điều 24.9.QĐ.1.2. 
 
-**Mã phân cấp:** 2400900000000000500002340364739210291000
+(Điều 2 Quyết định số 26/2007/QĐ-TTg, có hiệu lực thi hành kể từ ngày 13/03/2007)
 
-**ID:** dk_00038271
+Quyết định này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo.
 
----
+Điều 24.9.QĐ.1.3. 
 
+(Điều 3 Quyết định số 26/2007/QĐ-TTg, có hiệu lực thi hành kể từ ngày 13/03/2007)
 
-### Điều 24.9.QĐ.1.3.
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh liên quan chịu trách nhiệm thi hành Quyết định này./.
 
-*Nội dung chưa có sẵn*
+Điều 24.9.QĐ.2.21. Hiệu lực thi hành
 
-**Chỉ mục:** 3
+(Điều 21 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
-**Mã phân cấp:** 2400900000000000500002340414111014294000
+Quyết định này có hiệu lực thi hành kể từ ngày 05 tháng 4 năm 2011.
 
-**ID:** dk_00038272
+Điều 24.9.QĐ.2.22. Trách nhiệm thi hành
 
----
+(Điều 22 Quyết định số 11/2011/QĐ-TTg, có hiệu lực thi hành kể từ ngày 05/04/2011)
 
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này./. 
 
-### Điều 24.9.QĐ.2.21. Hiệu lực thi hành
+Điều 24.9.QĐ.3.4. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 4 Quyết định số 68/2013/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-**Chỉ mục:** 21
+1. Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm:
 
-**Mã phân cấp:** 2400900000000000500002350239100013500000
+a) Chủ trì, phối hợp với Bộ Công Thương công bố chủng loại máy, thiết bị sản xuất trong nước, nhập khẩu thuộc nhóm danh mục máy, thiết bị được hưởng chính sách hỗ trợ quy định tại Khoản 2 Điều 1 Quyết định này;
 
-**ID:** dk_00038273
+b) Hướng dẫn thẩm định điều kiện kỹ thuật các loại máy, thiết bị của các dự án đầu tư quy định tại Khoản 2 Điều 2 Quyết định này;
 
----
+c) Chủ trì, phối hợp với Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các Bộ, ngành liên quan kiểm tra, giám sát việc thực hiện Quyết định này.
 
+2. Bộ Công Thương phối hợp với Bộ Nông nghiệp và Phát triển nông thôn thống nhất máy, thiết bị được hưởng các chính sách hỗ trợ theo quy định tại Khoản 2 Điều 1 Quyết định này.
 
-### Điều 24.9.QĐ.2.22. Trách nhiệm thi hành
+3. Ngân hàng Nhà nước Việt Nam hướng dẫn và kiểm tra các ngân hàng thương mại thực hiện cho vay theo quy định tại Quyết định này.
 
-*Nội dung chưa có sẵn*
+4. Bộ Tài chính chủ trì hướng dẫn thực hiện việc hỗ trợ lãi suất, cấp bù chênh lệch lãi suất đối với các khoản vốn vay theo qui định tại Quyết định này.
 
-**Chỉ mục:** 22
+5. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương:
 
-**Mã phân cấp:** 2400900000000000500002350249100068000040
+a) Chỉ đạo thực hiện các chương trình, đề án nhằm giảm tổn thất trong nông nghiệp của địa phương; hướng dẫn, giám sát số lượng, chủng loại máy, thiết bị được hỗ trợ phù hợp với yêu cầu thực tế của từng lĩnh vực, từng địa bàn để phát huy hiệu quả của chính sách hỗ trợ.
 
-**ID:** dk_00038274
+b) Căn cứ nhu cầu thực tế về đầu tư máy, thiết bị giảm tổn thất trong nông nghiệp và khả năng ngân sách của địa phương, các tỉnh, thành phố nghiên cứu xem xét có chính sách hỗ trợ bổ sung ngoài chính sách quy định tại Quyết định này;
 
----
+c) Hàng năm báo cáo Bộ Nông nghiệp và Phát triển nông thôn về kết quả thực hiện chính sách trên địa bàn.
 
+Điều 24.9.QĐ.3.5. Hiệu lực thi hành
 
-### Điều 24.9.QĐ.3.4. Tổ chức thực hiện
+(Điều 5 Quyết định số 68/2013/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-*Nội dung chưa có sẵn*
+1. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2014 và thay thế Quyết định số 63/2010/QĐ-TTg ngày 15 tháng 10 năm 2010 và Quyết định số 65/2011/QĐ-TTg ngày 02 tháng 12 năm 2011 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất sau thu hoạch đối với nông sản, thủy sản.
 
-**Chỉ mục:** 4
+2. Các tổ chức, cá nhân đang thực hiện chính sách hỗ trợ theo Quyết định số 63/2010/QĐ-TTg ngày 15 tháng 10 năm 2010 và Quyết định số 65/2011/QĐ-TTg ngày 02 tháng 12 năm 2011 của Thủ tướng Chính phủ trước ngày Quyết định này có hiệu lực thì tiếp tục được hưởng các chính sách hỗ trợ đó.
 
-**Mã phân cấp:** 2400900000000000500002350249100068000040
+Điều 24.9.QĐ.3.6. 
 
-**ID:** dk_00038275
+(Điều 6 Quyết định số 68/2013/QĐ-TTg, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
----
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
 
+Điều 24.9.TT.1.4. Tổ chức thực hiện
 
-### Điều 24.9.QĐ.3.5. Hiệu lực thi hành
+(Điều 4 Thông tư số 61/2000/TT-BNNPTNT/KH, có hiệu lực thi hành kể từ ngày 21/06/2000)
 
-*Nội dung chưa có sẵn*
+1- Giao Vụ Kế hoạch và Qui hoạch chủ trì phối hợp với Viện Qui hoạch và Thiết kế nông nghiệp, Viện Điều tra qui hoạch rừng, Viện qui hoạch thuỷ lợi chỉ đạo về nội dung, phương pháp, giúp các địa phương triển khai việc lập qui hoạch phát triển trang trại phù hợp với điều kiện cụ thể ở mỗi địa phương.
 
-**Chỉ mục:** 5
+2- Sở Nông nghiệp và PTNT các tỉnh, thành phố trực thuộc TW chủ trì phối hợp với các ngành liên quan tổ chức và chỉ đạo việc lập qui hoạch phát triển trang trại của địa phương trình UBND cấp có thẩm quyền phê duyệt trong năm 2000-2001 làm căn cứ triển khai thực hiện cho những năm tới.
 
-**Mã phân cấp:** 2400900000000000500002350698363717895000
+3- Kinh phí lập qui hoạch trang trại do ngân sách tỉnh đầu tư. Ngân sách TW đầu tư cho việc làm điểm ở một số vùng để rút kinh nghiệm.
 
-**ID:** dk_00038276
+Điều 24.9.TT.3.3. Tổ chức thực hiện
 
----
+(Điều 3 Thông tư số 08/2014/TT-BNNPTTN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
+1. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các cơ quan, đơn vị có liên quan:
 
-### Điều 24.9.QĐ.3.6.
+a) Tuyên truyền, hướng dẫn, kiểm tra, đôn đốc thực hiện Thông tư này;
 
-*Nội dung chưa có sẵn*
+b) Định kỳ hàng năm, trước ngày 20/12 báo cáo Bộ Nông nghiệp và Phát triển nông thôn tình hình thực hiện chính sách hỗ trợ của địa phương.
 
-**Chỉ mục:** 6
+2. Cục Chế biến nông lâm thủy sản và nghề muối có trách nhiệm:
 
-**Mã phân cấp:** 2400900000000000500002351140888413041000
+a) Thường xuyên cập nhật các loại máy, thiết bị sản xuất trong nước, nhập khẩu để trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn xem xét, công bố bổ sung vào Danh mục máy, thiết bị được hưởng chính sách hỗ trợ theo Quyết định 68/2013/QĐ-TTg;
 
-**ID:** dk_00038277
+b) Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan tổ chức đôn đốc, kiểm tra, giám sát việc thực hiện Quyết định số 68/2013/QĐ-TTg;
 
----
+c) Tổng hợp tình hình, định kỳ hàng năm báo cáo Bộ trưởng về kết quả thực hiện chính sách trong phạm vi cả nước.
 
+Điều 24.9.TT.3.4. Hiệu lực thi hành
 
-### Điều 24.9.TT.1.4. Tổ chức thực hiện
+(Điều 4 Thông tư số 08/2014/TT-BNNPTTN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này có hiệu lực thi hành kể từ ngày 12 tháng 5 năm 2014.
 
-**Chỉ mục:** 4
+Thay thế Thông tư 28/2012/TT-BNNPTNT ngày 28/6/2012 của Bộ Nông nghiệp và Phát triển nông thôn.
 
-**Mã phân cấp:** 2400900000000000500002380200010061000040
+2. Tổ chức, cá nhân đang thực hiện chính sách hỗ trợ theo Thông tư 28/2012/TT-BNNPTNT trước ngày Thông tư này có hiệu lực thì tiếp tục được hưởng các chính sách hỗ trợ.
 
-**ID:** dk_00038278
+3. Trong quá trình thực hiện nếu phát sinh vướng mắc, các tổ chức, cá nhân cần phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để được hướng dẫn, giải quyết./.
 
----
+Điều 24.9.TT.3.5. Hiệu lực thi hành
 
+(Điều 2 Thông tư số 02/2016/TT-BNNPTNT Sửa đổi, bổ sung Danh mục chủng loại máy, thiết bị được hưởng chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp ban hành kèm theo Thông tư số 08/2014/TT-BNNPTNT ngày 20/3/2014 của Bộ Nông nghiệp và phát triển nông thôn ngày 22/02/2016 của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực thi hành kể từ ngày 22/04/2016 )
 
-### Điều 24.9.TT.3.3. Tổ chức thực hiện
+1. Thông tư này có hiệu lực thi hành kể từ ngày 22 tháng 4 năm 2016.
 
-*Nội dung chưa có sẵn*
+2. Trong quá trình thực hiện nếu phát sinh vướng mắc, các tổ chức, cá nhân cần phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để được hướng dẫn, giải quyết./.
 
-**Chỉ mục:** 3
+Điều 24.9.TT.4.10. Tổ chức thực hiện
 
-**Mã phân cấp:** 2400900000000000500002380250360008000030
+(Điều 10 Thông tư số 13/2014/TT-NHNN, có hiệu lực thi hành kể từ ngày 12/05/2014)
 
-**ID:** dk_00038279
+1. Thông tư này có hiệu lực thi hành kể từ ngày 12 tháng 5 năm 2014 và thay thế Thông tư số 22/2012/TT-NHNN ngày 22 tháng 6 năm 2012 của Ngân hàng Nhà nước Việt Nam về hướng dẫn thực hiện Quyết định số 63/2010/QĐ-TTg ngày 15 tháng 10 năm 2010 và Quyết định số 65/2011/QĐ-TTg ngày 2 tháng 12 năm 2011 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất sau thu hoạch đối với nông sản, thủy sản.
 
----
+2. Chánh Văn phòng, Vụ trưởng Vụ Tín dụng các ngành kinh tế, Thủ trưởng các đơn vị có liên quan thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh các tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng thành viên, Chủ tịch Hội đồng quản trị và Tổng Giám đốc (Giám đốc) các ngân hàng thương mại chịu trách nhiệm tổ chức thi hành Thông tư này.
 
+Điều 24.9.TL.1.11. Hiệu lực thi hành
 
-### Điều 24.9.TT.3.4. Hiệu lực thi hành
+(Điều 11 Thông tư liên tịch số 13/2014/TTLT-BNNPTNT-BKHĐT-BTC, có hiệu lực thi hành kể từ ngày 16/06/2014)
 
-*Nội dung chưa có sẵn*
+Thông tư này có hiệu lực thi hành kể từ ngày 16 tháng 6 năm 2014.
 
-**Chỉ mục:** 4
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Nông nghiệp và Phát triển nông thôn, Bộ Kế hoạch và Đầu tư, Bộ Tài chính để nghiên cứu sửa đổi, bổ sung cho phù hợp./.
 
-**Mã phân cấp:** 2400900000000000500002580250360008000040
+Điều 24.9.TT.5.7. Điều khoản chuyển tiếp
 
-**ID:** dk_00038280
+(Điều 7 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014)
 
----
+1. Đối với các khoản vay được hỗ trợ lãi suất và cấp bù chênh lệch lãi suất theo quy định tại Quyết định số 63/2010/QĐ-TTg ngày 15/10/2010, Quyết định số 65/2011/QĐ-TTg ngày 02/12/2011 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất sau thu hoạch đối với nông sản, thủy sản thì vẫn áp dụng quy định về mức, nguồn vốn, hồ sơ, thủ tục hỗ trợ lãi suất và cấp bù chênh lệch lãi suất, chế độ báo cáo tại Thông tư số 188/2012/TT-BTC ngày 07/11/2012 của Bộ Tài chính.
 
-
-### Điều 24.9.TT.3.5. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 2400900000000000500002580250360008450050
-
-**ID:** dk_00038281
-
----
-
-
-### Điều 24.9.TT.4.10. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 2400900000000000500002580250464742518000
-
-**ID:** dk_00038282
-
----
-
-
-### Điều 24.9.TL.1.11. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 11
-
-**Mã phân cấp:** 2400900000000000500002580250469669250000
-
-**ID:** dk_00038283
-
----
-
-
-### Điều 24.9.TT.5.7. Điều khoản chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 2400900000000000500002580251450089000070
-
-**ID:** dk_00038284
-
----
-
-
-### Điều 24.9.TT.5.8. Hiệu lực thi hành và tổ chức thực hiện
+2. Đối với các khoản vay được ký kết từ ngày Quyết định số 68/2013/QĐ-TTg có hiệu lực (ngày 01/01/2014) và đủ điều kiện được hỗ trợ lãi suất và cấp bù chênh lệch lãi suất theo quy định tại Quyết định số 68/2013/QĐ-TTg thì thực hiện theo quy định tại Thông tư này.
 
 Điều 24.9.TT.5.8. Hiệu lực thi hành và tổ chức thực hiện
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 89/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 22/08/2014)
 
-**Mã phân cấp:** 2400900000000000500002580251450089000080
+1. Thông tư này có hiệu lực thi hành kể từ ngày 22 tháng 8 năm 2014.
 
-**ID:** dk_00038285
+2. Trong quá trình thực hiện nếu phát sinh vướng mắc đề nghị phản ánh về Bộ Tài chính để xem xét, giải quyết./.
 
----
+Điều 24.9.TT.5.9. Tổ chức thực hiện
 
+(Điều 2 Thông tư số 82/2019/TT-BTC Sửa đổi một số điều của Thông tư số 89/2014TT-BTC ngày 07 tháng 7 năm 2014 hướng dẫn hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất do thực hiện chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp ngày 15/11/2019 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 30/12/2019 )
 
-### Điều 24.9.TT.5.9. Tổ chức thực hiện
+1. Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 12 năm 2019.
 
-*Nội dung chưa có sẵn*
+2. Trong quá trình thực hiện nếu phát sinh vướng mắc đề nghị phản ánh về Bộ Tài chính để xem xét, giải quyết.
 
-**Chỉ mục:** 2
+Điều 24.9.TT.6.6. Trách nhiệm thi hành
 
-**Mã phân cấp:** 2400900000000000500002580251450089550090
+(Điều 6 Thông tư số 02/2020/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 14/04/2020)
 
-**ID:** dk_00038286
+1. Cục Kinh tế hợp tác và Phát triển nông thôn tổ chức triển khai thực hiện Thông tư này; tổng hợp, báo cáo Bộ định kỳ và đột xuất.
 
----
+2. Ủy ban nhân dân cấp tỉnh triển khai thực hiện Thông tư này trên địa bàn tỉnh.
 
+3. Trách nhiệm của chủ trang trại:
 
-### Điều 24.9.TT.6.6. Trách nhiệm thi hành
+a) Kê khai thông tin về trang trại theo mẫu tại Phụ lục III ban hành kèm theo Thông tư này, gửi Ủy ban nhân dân cấp xã trước ngày 15 tháng 11 hằng năm; chịu trách nhiệm trước pháp luật về tính trung thực, chính xác của thông tin kê khai;
 
-*Nội dung chưa có sẵn*
+b) Tổ chức sản xuất kinh doanh phù hợp với quy hoạch, kế hoạch sử dụng đất trên địa bàn; tuân thủ các quy định của pháp luật về chất lượng sản phẩm hàng hóa, an toàn thực phẩm, an toàn dịch bệnh, bảo vệ môi trường.
 
-**Chỉ mục:** 6
+Phụ lục 3 _ TT 02.2020.docx
 
-**Mã phân cấp:** 2400900000000000500002580272070002000060
+Điều 24.9.TT.6.7. Điều khoản thi hành
 
-**ID:** dk_00038287
+(Điều 7 Thông tư số 02/2020/TT-BNNPTNT, có hiệu lực thi hành kể từ ngày 14/04/2020)
 
----
+1. Thông tư này có hiệu lực kể từ ngày 14 tháng 4 năm 2020 và thay thế Thông tư số 27/2011/TT-BNNPTNT ngày 13 tháng 4 năm 2011 của Bộ Nông nghiệp và Phát triển nông thôn quy định về tiêu chí và thủ tục cấp giấy chứng nhận kinh tế trang trại.
 
+2. Giấy chứng nhận kinh tế trang trại được cấp theo Thông tư số 27/2011/TT-BNNPTNT ngày 13 tháng 4 năm 2011 của Bộ Nông nghiệp và Phát triển nông thôn quy định về tiêu chí và thủ tục cấp giấy chứng nhận kinh tế trang trại hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
-### Điều 24.9.TT.6.7. Điều khoản thi hành
+3. Tiêu chí kinh tế trang trại quy định tại Thông tư này là căn cứ để xác định đối tượng hưởng các chính sách của Nhà nước áp dụng cho kinh tế trang trại.
 
-*Nội dung chưa có sẵn*
+4. Trong quá trình thực hiện, nếu có vướng mắc, cơ quan, tổ chức, cá nhân, chủ hộ gia đình sản xuất kinh doanh trong lĩnh vực nông nghiệp kịp thời phản ánh về Bộ Nông nghiệp và Phát triển nông thôn để nghiên cứu giải quyết theo quy định./.
 
-**Chỉ mục:** 7
+## Danh sách điều khoản
 
-**Mã phân cấp:** 2400900000000000500002580272070002000070
+### 24009000000000001000
 
-**ID:** dk_00038288
+Chương I QUY ĐỊNH CHUNG
 
----
+### 2400900000000000100000100000000000000000
 
+Điều 24.9.NĐ.1. Phạm vi điều chỉnh
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Nông nghiệp, nông thôn](/nong-nghiep-nong-thon/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 2400900000000000100000200000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 133
-- **Điều khoản thực tế:** 125
-- **Điều khoản có nội dung:** 47 (37.6%)
-- **ID đề mục:** 9b1d96e2feb24e7f824bb50ed8ee2a7a
+Điều 24.9.NĐ.2. Đối tượng áp dụng
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 2400900000000000100000240265250057000010
 
----
+Điều 24.9.NĐ.1.1. Phạm vi điều chỉnh
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 2400900000000000100000240265250057000020
+
+Điều 24.9.NĐ.1.2. Đối tượng áp dụng
+
+### 2400900000000000100000250239100011000010
+
+Điều 24.9.QĐ.2.1. Phạm vi điều chỉnh
+
+### 2400900000000000100000250239100011000020
+
+Điều 24.9.QĐ.2.2. Đối tượng áp dụng
+
+### 2400900000000000100000280250650013000010
+
+Điều 24.9.TT.4.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 2400900000000000100000280250750013000010
+
+Điều 24.9.TL.1.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 2400900000000000100000280251450089000010
+
+Điều 24.9.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 2400900000000000100000280272070002000010
+
+Điều 24.9.TT.6.1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+### 2400900000000000100000300000000000000000
+
+Điều 24.9.NĐ.3. Giải thích từ ngữ
+
+### 2400900000000000100000340265250057000030
+
+Điều 24.9.NĐ.1.3. Giải thích từ ngữ
+
+### 2400900000000000100000350239100011000040
+
+Điều 24.9.QĐ.2.4. Giải thích từ ngữ
+
+### 2400900000000000100000400000000000000000
+
+Điều 24.9.NĐ.4. Các hoạt động ngành nghề nông thôn
+
+### 24009000000000002000
+
+Chương II CÔNG NHẬN NGHỀ TRUYỀN THỐNG, LÀNG NGHỀ, LÀNG NGHỀ TRUYỀN THỐNG
+
+### 2400900000000000200000500000000000000000
+
+Điều 24.9.NĐ.5. Tiêu chí công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
+
+### 2400900000000000200000600000000000000000
+
+Điều 24.9.NĐ.6. Công nhận nghề truyền thống, làng nghề, làng nghề truyền thống
+
+### 24009000000000003000
+
+Chương III QUẢN LÝ VÀ PHÁT TRIỂN NGÀNH NGHỀ NÔNG THÔN
+
+### 2400900000000000300000700000000000000000
+
+Điều 24.9.NĐ.7. Mặt bằng sản xuất
+
+### 2400900000000000300000750239100011000120
+
+Điều 24.9.QĐ.2.12. Về đất đai
+
+### 2400900000000000300000800000000000000000
+
+Điều 24.9.NĐ.8. Về đầu tư, tín dụng
+
+### 2400900000000000300000850239100011000130
+
+Điều 24.9.QĐ.2.13. Về đầu tư và tín dụng
+
+### 240090000000000030000085023910001100013000802507500134500600
+
+Điều 24.9.TL.1.6. Nguồn vốn thực hiện
+
+### 240090000000000030000085023910001100013000802507500134500700
+
+Điều 24.9.TL.1.7. Hướng dẫn về nội dung và định mức chi
+
+### 240090000000000030000085023910001100013000802507500134500800
+
+Điều 24.9.TL.1.8. Lập,giao dự toán, phân bổ, quản lý và quyết toán nguồn vốn do ngân sách nhà nước cấp
+
+### 2400900000000000300000900000000000000000
+
+Điều 24.9.NĐ.9. Xúc tiến thương mại
+
+### 2400900000000000300000950239100011000180
+
+Điều 24.9.QĐ.2.18. Về thị trường tiêu thụ sản phẩm
+
+### 2400900000000000300001000000000000000000
+
+Điều 24.9.NĐ.10. Khoa học công nghệ
+
+### 2400900000000000300001050239100011000140
+
+Điều 24.9.QĐ.2.14. Về khoa học công nghệ
+
+### 2400900000000000300001100000000000000000
+
+Điều 24.9.NĐ.11. Đào tạo nhân lực
+
+### 2400900000000000300001150239100011000150
+
+Điều 24.9.QĐ.2.15. Về lao động và đào tạo
+
+### 2400900000000000300001200000000000000000
+
+Điều 24.9.NĐ.12. Hỗ trợ phát triển ngành nghề nông thôn
+
+### 2400900000000000300001200502391000110000
+
+Điều 24.9.QĐ.2.3. Mục tiêu
+
+### 2400900000000000300001250239100011000050
+
+Điều 24.9.QĐ.2.5. Định hướng phát triển vùng nguyên liệu
+
+### 2400900000000000300001250239100011000060
+
+Điều 24.9.QĐ.2.6. Quy hoạch phát triển vùng nguyên liệu
+
+### 2400900000000000300001250239100011000070
+
+Điều 24.9.QĐ.2.7. Xây dựng và phê duyệt quy hoạch phát triển vùng nguyên liệu
+
+### 2400900000000000300001250239100011000080
+
+Điều 24.9.QĐ.2.8. Định hướng phát triển các cơ sở sản xuất hàng mây tre
+
+### 2400900000000000300001250239100011000090
+
+Điều 24.9.QĐ.2.9. Quy hoạch các cơ sở sản xuất hàng mây tre
+
+### 2400900000000000300001250239100011000100
+
+Điều 24.9.QĐ.2.10. Quy hoạch các làng nghề sản xuất hàng mây tre
+
+### 2400900000000000300001250239100011000110
+
+Điều 24.9.QĐ.2.11. Xây dựng và phê duyệt quy hoạch phát triển các cơ sở sản xuất hàng mây tre
+
+### 2400900000000000300001250239100011000160
+
+Điều 24.9.QĐ.2.16. Khai thác nguyên liệu mây, tre và hưởng lợi
+
+### 2400900000000000300001250239100011000170
+
+Điều 24.9.QĐ.2.17. Về thuế
+
+### 2400900000000000300001250240600593500000
+
+Điều 24.9.QĐ.2.19. Trách nhiệm của các Bộ, ngành
+
+### 2400900000000000300001250242086170175000
+
+Điều 24.9.QĐ.2.20. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 240090000000000030000125024208617017500000802507500134500300
+
+Điều 24.9.TL.1.3. Kế hoạch phát triển ngành mây tre cấp tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh)
+
+### 240090000000000030000125024208617017500000802507500134500400
+
+Điều 24.9.TL.1.4. Kế hoạch phát triển ngành mây tre cấp huyện
+
+### 240090000000000030000125024208617017500000802507500134500500
+
+Điều 24.9.TL.1.5. Kế hoạch phát triển ngành mây tre cấp xã
+
+### 2400900000000000300001250389158261010000
+
+Điều 24.9.TL.1.2. Nguyên tắc thực hiện
+
+### 2400900000000000300001350389158261010000
+
+Điều 24.9.TL.1.9. Trách nhiệm của các Bộ
+
+### 2400900000000000300001450389158261010000
+
+Điều 24.9.TL.1.10. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+
+### 24009000000000004000
+
+Chương IV QUẢN LÝ VÀ PHÁT TRIỂN LÀNG NGHỀ, LÀNG NGHỀ TRUYỀN THỐNG
+
+### 2400900000000000400001300000000000000000
+
+Điều 24.9.NĐ.13. Chương trình bảo tồn và phát triển làng nghề
+
+### 2400900000000000400001400000000000000000
+
+Điều 24.9.NĐ.14. Hỗ trợ phát triển làng nghề
+
+### 24009000000000004500
+
+Chương V CƠ CHẾ, CHÍNH SÁCH KHUYẾN KHÍCH DOANH NGHIỆP ĐẦU TƯ VÀO NÔNG NGHIỆP, NÔNG THÔN
+
+### 2400900000000000450000540265250057000040
+
+Điều 24.9.NĐ.1.4. Nguyên tắc áp dụng ưu đãi và hỗ trợ đầu tư
+
+### 2400900000000000450000540265250057000050
+
+Điều 24.9.NĐ.1.5. Miễn, giảm tiền sử dụng đất
+
+### 2400900000000000450000640265250057000060
+
+Điều 24.9.NĐ.1.6. Miễn, giảm tiền thuê đất, thuê mặt nước của Nhà nước
+
+### 2400900000000000450000740265250057000070
+
+Điều 24.9.NĐ.1.7. Hỗ trợ tập trung đất đai
+
+### 2400900000000000450000840265250057000080
+
+Điều 24.9.NĐ.1.8. Tiếp cận, hỗ trợ tín dụng
+
+### 2400900000000000450000850249100068000010
+
+Điều 24.9.QĐ.3.1.
+
+### 240090000000000045000085024910006800001000802503600080000100
+
+Điều 24.9.TT.3.1.
+
+### 2400900000000000450000850249100068000020
+
+Điều 24.9.QĐ.3.2.
+
+### 240090000000000045000085024910006800002000802503600080000200
+
+Điều 24.9.TT.3.2.
+
+### 2400900000000000450000850249100068000030
+
+Điều 24.9.QĐ.3.3.
+
+### 240090000000000045000085024910006800003000802506500130000200
+
+Điều 24.9.TT.4.2. Bên cho vay và bên vay
+
+### 240090000000000045000085024910006800003000802506500130000300
+
+Điều 24.9.TT.4.3. Nguyên tắc cho vay
+
+### 240090000000000045000085024910006800003000802506500130000400
+
+Điều 24.9.TT.4.4. Điều kiện vay vốn
+
+### 240090000000000045000085024910006800003000802506500130000500
+
+Điều 24.9.TT.4.5. Lãi suất và mức cho vay
+
+### 240090000000000045000085024910006800003000802506500130000600
+
+Điều 24.9.TT.4.6. Thời hạn cho vay
+
+### 240090000000000045000085024910006800003000802506500139000700
+
+Điều 24.9.TT.4.7. Trách nhiệm của các ngân hàng thương mại
+
+### 240090000000000045000085024910006800003000802506500139000800
+
+Điều 24.9.TT.4.8. Trách nhiệm của khách hàng vay vốn
+
+### 240090000000000045000085024910006800003000802506500139000900
+
+Điều 24.9.TT.4.9. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước
+
+### 240090000000000045000085024910006800003000802514500890000200
+
+Điều 24.9.TT.5.2. Hình thức thực hiện hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+
+### 240090000000000045000085024910006800003000802514500890000300
+
+Điều 24.9.TT.5.3. Điều kiện được ngân sách nhà nước hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+
+### 240090000000000045000085024910006800003000802514500890000400
+
+Điều 24.9.TT.5.4. Mức hỗ trợ, cấp bù và nguồn vốn hỗ trợ lãi suất và cấp bù chênh lệch lãi suất
+
+### 240090000000000045000085024910006800003000802514500890000500
+
+Điều 24.9.TT.5.5. Hồ sơ, thủ tục hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+
+### 240090000000000045000085024910006800003000802514500890000600
+
+Điều 24.9.TT.5.6. Chế độ báo cáo
+
+### 2400900000000000450000940265250057000090
+
+Điều 24.9.NĐ.1.9. Hỗ trợ doanh nghiệp nghiên cứu, chuyển giao, ứng dụng nông nghiệp công nghệ cao
+
+### 2400900000000000450001040265250057000100
+
+Điều 24.9.NĐ.1.10. Hỗ trợ đào tạo nguồn nhân lực, phát triển thị trường
+
+### 2400900000000000450001140265250057000110
+
+Điều 24.9.NĐ.1.11. Hỗ trợ đầu tư cơ sở: Bảo quản, chế biến nông sản; giết mổ gia súc, gia cầm; chế tạo thiết bị, linh kiện, máy nông nghiệp; sản xuất sản phẩm phụ trợ
+
+### 2400900000000000450001240265250057000120
+
+Điều 24.9.NĐ.1.12. Hỗ trợ đầu tư cơ sở chăn nuôi bò sữa, bò thịt
+
+### 2400900000000000450001340265250057000130
+
+Điều 24.9.NĐ.1.13. Hỗ trợ doanh nghiệp cung cấp dịch vụ công và đầu tư kết cấu hạ tầng nông nghiệp, nông thôn
+
+### 2400900000000000450001440265250057000140
+
+Điều 24.9.NĐ.1.14. Nguồn vốn hỗ trợ
+
+### 2400900000000000450001540265250057000150
+
+Điều 24.9.NĐ.1.15. Cơ chế hỗ trợ sau đầu tư
+
+### 2400900000000000450001640265250057000160
+
+Điều 24.9.NĐ.1.16. Trình tự thủ tục đầu tư
+
+### 2400900000000000450001740265250057000170
+
+Điều 24.9.NĐ.1.17. Hồ sơ và thủ tục nhận hỗ trợ
+
+### 2400900000000000450001800000000000000000
+
+Điều 24.9.NĐ.1.18. Trách nhiệm của bộ, ngành trung ương
+
+### 2400900000000000450001900000000000000000
+
+Điều 24.9.NĐ.1.19. Trách nhiệm của địa phương
+
+### 24009000000000004750
+
+Chương VI VỀ KINH TẾ TRANG TRẠI
+
+### 2400900000000000475000140198760003000010
+
+Điều 24.9.NQ.1.1. Đánh giá tình hình
+
+### 2400900000000000475000240198760003000020
+
+Điều 24.9.NQ.1.2. Quan điểm và chính sách phát triển kinh tế trang trại
+
+### 240090000000000047500024019876000300002000802720700020000200
+
+Điều 24.9.TT.6.2. Phân loại trang trại
+
+### 240090000000000047500024019876000300002000802720700020000300
+
+Điều 24.9.TT.6.3. Tiêu chí kinh tế trang trại
+
+### 240090000000000047500024019876000300002000802720700020000400
+
+Điều 24.9.TT.6.4. Cách tính tổng diện tích đất sản xuất và giá trị sản xuất của trang trại
+
+### 240090000000000047500024019876000300002000802720700020000500
+
+Điều 24.9.TT.6.5. Theo dõi, thống kê và chế độ báo cáo về kinh tế trang trại
+
+### 2400900000000000475000240202261025000000
+
+Điều 24.9.NQ.1.3. Tổ chức thực hiện
+
+### 240090000000000047500024020226102500000000802000100614500100
+
+Điều 24.9.TT.1.1. Mục đích, yêu cầu
+
+### 240090000000000047500024020226102500000000802000100614500200
+
+Điều 24.9.TT.1.2. Nội dung qui hoạch phát triển trang trại
+
+### 240090000000000047500024020226102500000000802000100614500300
+
+Điều 24.9.TT.1.3. Phương pháp tiến hành
+
+### 24009000000000004937
+
+Chương VII QUY HOẠCH PHÁT TRIỂN MÍA ĐƯỜNG ĐẾN NĂM 2010 VÀ ĐỊNH HƯỚNG ĐẾN NĂM 2020
+
+### 2400900000000000493700150224460026000010
+
+Điều 24.9.QĐ.1.1.
+
+### 24009000000000005000
+
+Chương VIII TỔ CHỨC THỰC HIỆN
+
+### 2400900000000000500001500000000000000000
+
+Điều 24.9.NĐ.15. Bộ Nông nghiệp và Phát triển nông thôn
+
+### 2400900000000000500001600000000000000000
+
+Điều 24.9.NĐ.16. Bộ Tài nguyên và Môi trường
+
+### 2400900000000000500001700000000000000000
+
+Điều 24.9.NĐ.17. Bộ Công Thương
+
+### 2400900000000000500001800000000000000000
+
+Điều 24.9.NĐ.18. Bộ Khoa học và Công nghệ
+
+### 2400900000000000500001900000000000000000
+
+Điều 24.9.NĐ.19. Bộ Kế hoạch và Đầu tư
+
+### 2400900000000000500002000000000000000000
+
+Điều 24.9.NĐ.20. Bộ Tài chính
+
+### 2400900000000000500002100000000000000000
+
+Điều 24.9.NĐ.21. Bộ Lao động - Thương binh và Xã hội
+
+### 2400900000000000500002200000000000000000
+
+Điều 24.9.NĐ.22. Bộ Văn hóa, Thể thao và Du lịch
+
+### 2400900000000000500002300000000000000000
+
+Điều 24.9.NĐ.23. Ủy ban nhân dân cấp tỉnh
+
+### 2400900000000000500002340265200052000240
+
+Điều 24.9.NĐ.24. Các tổ chức chính trị - xã hội, tổ chức xã hội, nghề nghiệp
+
+### 2400900000000000500002340265200052000250
+
+Điều 24.9.NĐ.25. Điều khoản thi hành
+
+### 2400900000000000500002340315119306770000
+
+Điều 24.9.NĐ.1.20. Điều khoản chuyển tiếp và hiệu lực thi hành
+
+### 2400900000000000500002340364739210291000
+
+Điều 24.9.QĐ.1.2.
+
+### 2400900000000000500002340414111014294000
+
+Điều 24.9.QĐ.1.3.
+
+### 2400900000000000500002350239100013500000
+
+Điều 24.9.QĐ.2.21. Hiệu lực thi hành
+
+### 2400900000000000500002350249100068000040
+
+Điều 24.9.QĐ.2.22. Trách nhiệm thi hành
+
+### 2400900000000000500002350249100068000040
+
+Điều 24.9.QĐ.3.4. Tổ chức thực hiện
+
+### 2400900000000000500002350698363717895000
+
+Điều 24.9.QĐ.3.5. Hiệu lực thi hành
+
+### 2400900000000000500002351140888413041000
+
+Điều 24.9.QĐ.3.6.
+
+### 2400900000000000500002380200010061000040
+
+Điều 24.9.TT.1.4. Tổ chức thực hiện
+
+### 2400900000000000500002380250360008000030
+
+Điều 24.9.TT.3.3. Tổ chức thực hiện
+
+### 2400900000000000500002580250360008000040
+
+Điều 24.9.TT.3.4. Hiệu lực thi hành
+
+### 2400900000000000500002580250360008450050
+
+Điều 24.9.TT.3.5. Hiệu lực thi hành
+
+### 2400900000000000500002580250464742518000
+
+Điều 24.9.TT.4.10. Tổ chức thực hiện
+
+### 2400900000000000500002580250469669250000
+
+Điều 24.9.TL.1.11. Hiệu lực thi hành
+
+### 2400900000000000500002580251450089000070
+
+Điều 24.9.TT.5.7. Điều khoản chuyển tiếp
+
+### 2400900000000000500002580251450089000080
+
+Điều 24.9.TT.5.8. Hiệu lực thi hành và tổ chức thực hiện
+
+### 2400900000000000500002580251450089550090
+
+Điều 24.9.TT.5.9. Tổ chức thực hiện
+
+### 2400900000000000500002580272070002000060
+
+Điều 24.9.TT.6.6. Trách nhiệm thi hành
+
+### 2400900000000000500002580272070002000070
+
+Điều 24.9.TT.6.7. Điều khoản thi hành
+

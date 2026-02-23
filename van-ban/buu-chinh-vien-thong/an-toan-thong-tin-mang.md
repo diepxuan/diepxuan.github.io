@@ -1,3845 +1,6386 @@
 ---
-layout: default
+layout: page
 title: An toàn thông tin mạng
 permalink: /van-ban/buu-chinh-vien-thong/an-toan-thong-tin-mang/
-collection: subtopics
-slug: an-toan-thong-tin-mang
-parent: buu-chinh-vien-thong
 ---
 
 # An toàn thông tin mạng
 
-**Đề mục:** An toàn thông tin mạng  
-**Chủ đề:** [Bưu chính, viễn thông](/buu-chinh-vien-thong/)  
-**Số điều khoản:** 307  
-**Điều khoản có nội dung:** 293/293 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 3.1.LQ.1. Phạm vi điều chỉnh
+Điều 3.1.LQ.1. Phạm vi điều chỉnh
+
+(Điều 1 Luật số 86/2015/QH13 An toàn thông tin mạng ngày 19/11/2015 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Luật này quy định về hoạt động an toàn thông tin mạng, quyền, trách nhiệm của cơ quan, tổ chức, cá nhân trong việc bảo đảm an toàn thông tin mạng; mật mã dân sự; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin mạng; kinh doanh trong lĩnh vực an toàn thông tin mạng; phát triển nguồn nhân lực an toàn thông tin mạng; quản lý nhà nước về an toàn thông tin mạng.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 39.15.LQ.10. Thu thập, cập nhật, điều chỉnh, quản lý, kết nối, chia sẻ, khai thác thông tin trong Cơ sở dữ liệu quốc gia về dân cư; Điều 3.4.NĐ.4.14. Bảo đảm an toàn trong giao dịch điện tử trong hoạt động tài chính)
 
-**Mã phân cấp:** 0300100000000000100000100000000000000000
+Điều 3.1.LQ.2. Đối tượng áp dụng
 
-**ID:** dk_00003212
-
----
-
-
-### Điều 3.1.LQ.2. Đối tượng áp dụng
+(Điều 2 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động an toàn thông tin mạng tại Việt Nam.
 
-**Chỉ mục:** 2
+Điều 3.1.NĐ.1.1. Phạm vi Điều chỉnh
 
-**Mã phân cấp:** 0300100000000000100000200000000000000000
-
-**ID:** dk_00003213
-
----
-
-
-### Điều 3.1.NĐ.1.1. Phạm vi Điều chỉnh
+(Điều 1 Nghị định số 58/2016/NĐ-CP Quy định chi tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất khẩu, nhập khẩu sản phẩm mật mã dân sự ngày 01/07/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này quy định chi Tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất khẩu, nhập khẩu sản phẩm mật mã dân sự; ban hành Danh Mục sản phẩm, dịch vụ mật mã dân sự, Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép; thanh tra, kiểm tra, xử lý vi phạm hành chính trong lĩnh vực mật mã dân sự.
 
-**Chỉ mục:** 1
+Điều 3.1.NĐ.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0300100000000000100000240258700058000010
-
-**ID:** dk_00003214
-
----
-
-
-### Điều 3.1.NĐ.1.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự; xuất khẩu, nhập khẩu sản phẩm mật mã dân sự và các tổ chức, cá nhân khác có liên quan.
 
-**Chỉ mục:** 2
+2. Tổ chức, cá nhân có hành vi vi phạm hành chính trong lĩnh vực mật mã dân sự; người có thẩm quyền lập biên bản, xử phạt vi phạm hành chính trong lĩnh vực mật mã dân sự và các tổ chức, cá nhân khác có liên quan.
 
-**Mã phân cấp:** 0300100000000000100000240258700058000020
+Điều 3.1.NĐ.2.1. Phạm vi điều chỉnh
 
-**ID:** dk_00003215
-
----
-
-
-### Điều 3.1.NĐ.2.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 85/2016/NĐ-CP Về bảo đảm an toàn hệ thống thông tin theo cấp độ ngày 01/07/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này quy định chi tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 3.4.NĐ.4.14. Bảo đảm an toàn trong giao dịch điện tử trong hoạt động tài chính; Điều 3.3.TT.38.8. Tiêu chí bảo đảm an toàn thông tin của )
 
-**Mã phân cấp:** 0300100000000000100000240258700085000010
+Điều 3.1.NĐ.2.2. Đối tượng áp dụng
 
-**ID:** dk_00003216
-
----
-
-
-### Điều 3.1.NĐ.2.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động xây dựng, thiết lập, quản lý, vận hành, nâng cấp, mở rộng hệ thống thông tin tại Việt Nam phục vụ ứng dụng công nghệ thông tin trong hoạt động của cơ quan, tổ chức nhà nước, ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ trực tuyến phục vụ người dân và doanh nghiệp.
 
-**Chỉ mục:** 2
+Khuyến khích tổ chức, cá nhân liên quan khác áp dụng các quy định tại Nghị định này để bảo vệ hệ thống thông tin.
 
-**Mã phân cấp:** 0300100000000000100000240258700085000020
+Điều 3.1.NĐ.3.1. Phạm vi điều chỉnh
 
-**ID:** dk_00003217
-
----
-
-
-### Điều 3.1.NĐ.3.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 108/2016/NĐ-CP Quy định chi tiết điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ngày 01/07/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Nghị định này quy định về:
 
-**Chỉ mục:** 1
+a) Điều kiện, quy trình, thủ tục, hồ sơ cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng;
 
-**Mã phân cấp:** 0300100000000000100000240258700108000010
+b) Sản phẩm, dịch vụ an toàn thông tin mạng;
 
-**ID:** dk_00003218
+c) Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép.
 
----
+2. Nghị định này không điều chỉnh hoạt động kinh doanh sản phẩm, dịch vụ mật mã dân sự và hoạt động kinh doanh dịch vụ chứng thực chữ ký điện tử.
 
+Điều 3.1.NĐ.3.2. Đối tượng áp dụng
 
-### Điều 3.1.NĐ.3.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này áp dụng đối với tổ chức, doanh nghiệp trực tiếp tham gia hoặc có liên quan đến hoạt động sản xuất, nhập khẩu sản phẩm an toàn thông tin mạng và cung cấp dịch vụ an toàn thông tin mạng tại Việt Nam.
 
-**Chỉ mục:** 2
+Điều 3.1.NĐ.4.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 0300100000000000100000240258700108000020
-
-**ID:** dk_00003219
-
----
-
-
-### Điều 3.1.NĐ.4.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 142/2016/NĐ-CP Về ngăn chặn xung đột thông tin trên mạng ngày 14/10/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
 Nghị định này quy định nguyên tắc, nội dung, biện pháp, hợp tác quốc tế và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động ngăn chặn xung đột thông tin trên mạng tại Việt Nam.
 
-**Chỉ mục:** 1
+Điều 3.1.NĐ.4.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0300100000000000100000240259750142000010
-
-**ID:** dk_00003220
-
----
-
-
-### Điều 3.1.NĐ.4.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
 1. Cơ quan, tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài và tổ chức quốc tế tại Việt Nam tham gia hoặc có liên quan đến xung đột thông tin trên mạng.
 
-**Chỉ mục:** 2
+2. Tổ chức quốc tế, tổ chức, cá nhân nước ngoài hoặc người không có quốc tịch, không hoạt động hoặc không sinh sống trên lãnh thổ Việt Nam nhưng có các hoạt động gây xung đột thông tin trên mạng tại Việt Nam.
 
-**Mã phân cấp:** 0300100000000000100000240259750142000020
+Điều 3.1.QĐ.1.1. Phạm vi áp dụng
 
-**ID:** dk_00003221
-
----
-
-
-### Điều 3.1.QĐ.1.1. Phạm vi áp dụng
+(Điều 1 Quyết định số 05/2017/QĐ-TTg Ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia ngày 16/03/2017 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Quyết định này quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia.
 
-**Chỉ mục:** 1
+Hệ thống thông tin do Bộ Quốc phòng, Bộ Công an quản lý không thuộc phạm vi điều chỉnh của Quyết định này.
 
-**Mã phân cấp:** 0300100000000000100000250261280005000010
+Điều 3.1.QĐ.1.2. Đối tượng áp dụng
 
-**ID:** dk_00003222
-
----
-
-
-### Điều 3.1.QĐ.1.2. Đối tượng áp dụng
+(Điều 2 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Quyết định này áp dụng đối với các cơ quan, tổ chức, doanh nghiệp, cá nhân trực tiếp tham gia hoặc có liên quan đến hoạt động ứng cứu sự cố bảo đảm an toàn thông tin mạng tại Việt Nam.
 
-**Chỉ mục:** 2
+Điều 3.1.TT.1.1. Phạm vi áp dụng
 
-**Mã phân cấp:** 0300100000000000100000250261280005000020
-
-**ID:** dk_00003223
-
----
-
-
-### Điều 3.1.TT.1.1. Phạm vi áp dụng
+(Điều 1 Thông tư số 166/2015/TT-BTC Quy định việc quản lý và sử dụng kinh phí thực hiện Dự án Đào tạo ngắn hạn về an toàn, an ninh thông tin trong nước thuộc Đề án Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020 ngày 05/11/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Thông tư này quy định việc quản lý và sử dụng kinh phí thực hiện Dự án Đào tạo ngắn hạn về an toàn, an ninh thông tin (ATANTT) trong nước thuộc Đề án Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020 đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 99/QĐ-TTg ngày 14/01/2014 (sau đây gọi tắt là Đề án 99).
 
-**Chỉ mục:** 1
+Điều 3.1.TT.1.2. Đối tượng thực hiện
 
-**Mã phân cấp:** 0300100000000000100000280256310166000010
-
-**ID:** dk_00003224
-
----
-
-
-### Điều 3.1.TT.1.2. Đối tượng thực hiện
+(Điều 2 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
 
-**Chỉ mục:** 2
+2. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương.
 
-**Mã phân cấp:** 0300100000000000100000280256310166000020
+3. Các doanh nghiệp, tổ chức tài chính, ngân hàng, tổng công ty, tập đoàn kinh tế nhà nước.
 
-**ID:** dk_00003225
+Điều 3.1.TT.2.1. Phạm vi điều chỉnh
 
----
-
-
-### Điều 3.1.TT.2.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 03/2017/TT-BTTTT Quy định chi tiết và hướng dẫn một số điều của Nghị định 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ ngày 24/04/2017 của Bộ Thông tin và Truyền thông, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Thông tư này quy định chi tiết và hướng dẫn bảo đảm an toàn hệ thống thông tin theo cấp độ, bao gồm: Hướng dẫn xác định hệ thống thông tin và cấp độ an toàn hệ thống thông tin; Yêu cầu bảo đảm an toàn hệ thống thông tin theo cấp độ; Kiểm tra, đánh giá an toàn thông tin; Tiếp nhận và thẩm định hồ sơ đề xuất cấp độ; Báo cáo, chia sẻ thông tin.
 
-**Chỉ mục:** 1
+2. Hệ thống thông tin phục vụ hoạt động quốc phòng, an ninh do Bộ Quốc phòng, Bộ Công an quản lý không thuộc phạm vi điều chỉnh của Thông tư này.
 
-**Mã phân cấp:** 0300100000000000100000280261670003650010
+(Điều này có nội dung liên quan đến Điều 32.2.LQ.35. Trách nhiệm của Chính phủ, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các cấp trong việc bảo đảm thực hiện quyền tiếp cận thông tin của Luật 104/2016/QH13 Tiếp cận thông tin ban hành ngày 06/04/2016; Điều 3.3.TT.31.21. Bảo đảm an toàn thông tin và dữ liệu; Điều 3.3.TT.38.8. Tiêu chí bảo đảm an toàn thông tin)
 
-**ID:** dk_00003226
+Điều 3.1.TT.2.2. Đối tượng áp dụng
 
----
-
-
-### Điều 3.1.TT.2.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 Đối tượng áp dụng Thông tư này được thực hiện theo quy định tại Điều 2 Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ (sau đây gọi tắt là Nghị định 85/2016/NĐ-CP).
 
-**Chỉ mục:** 2
+Điều 3.1.TT.3.1. Phạm vi và đối tượng áp dụng
 
-**Mã phân cấp:** 0300100000000000100000280261670003650020
-
-**ID:** dk_00003227
-
----
-
-
-### Điều 3.1.TT.3.1. Phạm vi và đối tượng áp dụng
+(Điều 1 Thông tư số 20/2017/TT-BTTTT Quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc ngày 12/09/2017 của Bộ Thông tin và Truyền thông, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Thông tư này quy định về các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc (không bao gồm hoạt động điều phối ứng cứu sự cố an toàn thông tin mạng nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Quyết định số 05/2017/QĐ-TTg));
 
-**Chỉ mục:** 1
+Các sự cố của hệ thống thông tin do Bộ Quốc phòng, Bộ Công an quản lý không thuộc phạm vi điều chỉnh của Thông tư này.
 
-**Mã phân cấp:** 0300100000000000100000280263080020000010
+2. Đối tượng áp dụng là các cơ quan, tổ chức, cá nhân có liên quan tới hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng.
 
-**ID:** dk_00003228
+Điều 3.1.TT.4.1. Phạm vi điều chỉnh
 
----
-
-
-### Điều 3.1.TT.4.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 31/2017/TT-BTTTT Quy định hoạt động giám sát an toàn hệ thống thông tin ngày 15/11/2017 của Bộ Thông tin và Truyền thông, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
 Thông tư này quy định về hoạt động giám sát an toàn hệ thống thông tin (sau đây gọi tắt là giám sát) trên toàn quốc, không bao gồm các hệ thống thông tin do Bộ Quốc phòng và Bộ Công an quản lý.
 
-**Chỉ mục:** 1
+Điều 3.1.TT.4.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0300100000000000100000280263720031000010
-
-**ID:** dk_00003229
-
----
-
-
-### Điều 3.1.TT.4.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
 Thông tư này áp dụng đối với cơ quan, tổ chức, doanh nghiệp, cá nhân trực tiếp tham gia hoặc có liên quan đến hoạt động giám sát trên toàn quốc.
 
-**Chỉ mục:** 2
+Điều 3.1.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Mã phân cấp:** 0300100000000000100000280263720031000020
+(Điều 1 Thông tư số 18 /2018/TT-NHNN Quy định về an toàn hệ thống thông tin
+trong hoạt động ngân hàng ngày 21/08/2018 của Ngân hàng Nhà nước, có hiệu lực thi hành kể từ ngày 01/01/2019)1. Thông tư này quy định về bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng.
 
-**ID:** dk_00003230
+2. Thông tư này áp dụng đối với các tổ chức tín dụng (trừ quỹ tín dụng nhân dân, tổ chức tài chính vi mô), chi nhánh ngân hàng nước ngoài, các tổ chức cung ứng dịch vụ trung gian thanh toán (sau đây gọi chung là tổ chức).
 
----
+Điều 3.1.TT.6.1. Phạm vi điều chỉnh
 
-
-### Điều 3.1.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng
-
-1. Thông tư này quy định về bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng.
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 0300100000000000100000280266510018000010
-
-**ID:** dk_00003231
-
----
-
-
-### Điều 3.1.TT.6.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 13/2018/TT-BTTTT Quy định Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép và trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng ngày 15/10/2018 của Bộ Thông tin và Truyền thông, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Thông tư này quy định Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép và trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng (sau đây gọi tắt là Giấy phép nhập khẩu).
 
-**Chỉ mục:** 1
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**Mã phân cấp:** 0300100000000000100000280267060013000010
+Điều 3.1.TT.6.2. Đối tượng áp dụng
 
-**ID:** dk_00003232
-
----
-
-
-### Điều 3.1.TT.6.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Thông tư này áp dụng đối với các doanh nghiệp đã được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng thực hiện hoạt động nhập khẩu sản phẩm an toàn thông tin mạng thuộc Danh mục.
 
-**Chỉ mục:** 2
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**Mã phân cấp:** 0300100000000000100000280267060013000020
+Điều 3.1.TT.7.1. Phạm vi điều chỉnh
 
-**ID:** dk_00003233
-
----
-
-
-### Điều 3.1.TT.7.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 121/2018/TT-BTC Quy định về lập dự toán, quản lý, sử dụng và quyết toán kinh phí để thực hỉện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng ngày 12/12/2018 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 Thông tư này quy định về lập dự toán, quản lý, sử dụng và quyết toán kinh phí chi thường xuyên để thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng.
 
-**Chỉ mục:** 1
+Điều 3.1.TT.7.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 0300100000000000100000280267640121000010
-
-**ID:** dk_00003234
-
----
-
-
-### Điều 3.1.TT.7.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
 
-**Chỉ mục:** 2
+2. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương.
 
-**Mã phân cấp:** 0300100000000000100000280267640121000020
+3. Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng (sau đây gọi là Ban Chỉ đạo quốc gia) và Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng của các Bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ban chỉ đạo cấp Bộ, tỉnh); Ban Điều phối ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Cơ quan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Cơ quan điều phối quốc gia về ứng cứu sự cố.
 
-**ID:** dk_00003235
+4. Thành viên mạng lưới ứng cứu sự cố an toàn thông tin quốc gia; đơn vị chuyên trách về ứng cứu sự cố, an toàn thông tin mạng; bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; đội ứng cứu sự cố an toàn thông tin mạng.
 
----
+5. Các doanh nghiệp, tổ chức, cá nhân có liên quan đến hoạt động ứng cứu sự cố, bảo đảm an toàn thông tin mạng.
 
+Điều 3.1.LQ.3. Giải thích từ ngữ
 
-### Điều 3.1.LQ.3. Giải thích từ ngữ
+(Điều 3 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1.* An toàn thông tin mạng* là sự bảo vệ thông tin, hệ thống thông tin trên mạng tránh bị truy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm bảo đảm tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin.
 
-**Mã phân cấp:** 0300100000000000100000300000000000000000
+2. *Mạng* là môi trường trong đó thông tin được cung cấp, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông qua mạng viễn thông và mạng máy tính.
 
-**ID:** dk_00003236
+3. *Hệ thống thông tin* là tập hợp phần cứng, phần mềm và cơ sở dữ liệu được thiết lập phục vụ mục đích tạo lập, cung cấp, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông tin trên mạng.
 
----
+4.* Hệ thống thông tin quan trọng quốc gia *là hệ thống thông tin mà khi bị phá hoại sẽ làm tổn hại đặc biệt nghiêm trọng tới quốc phòng, an ninh quốc gia.
 
+5*. Chủ quản hệ thống thông tin* là cơ quan, tổ chức, cá nhân có thẩm quyền quản lý trực tiếp đối với hệ thống thông tin.
 
-### Điều 3.1.NĐ.2.3. Giải thích từ ngữ
+6.* Xâm phạm an toàn thông tin mạng* là hành vi truy nhập, sử dụng, tiết lộ, làm gián đoạn, sửa đổi, phá hoại trái phép thông tin, hệ thống thông tin.
+
+7.* Sự cố an toàn thông tin mạng *là việc thông tin, hệ thống thông tin bị gây nguy hại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng.
+
+8.* Rủi ro an toàn thông tin mạng* là những nhân tố chủ quan hoặc khách quan có khả năng ảnh hưởng tới trạng thái an toàn thông tin mạng.
+
+9.* Đánh giá rủi ro an toàn thông tin mạng* là việc phát hiện, phân tích, ước lượng mức độ tổn hại, mối đe dọa đối với thông tin, hệ thống thông tin.
+
+10.* Quản lý rủi ro an toàn thông tin mạng* là việc đưa ra các biện pháp nhằm giảm thiểu rủi ro an toàn thông tin mạng.
+
+11.* Phần mềm độc hại* là phần mềm có khả năng gây ra hoạt động không bình thường cho một phần hay toàn bộ hệ thống thông tin hoặc thực hiện sao chép, sửa đổi, xóa bỏ trái phép thông tin lưu trữ trong hệ thống thông tin.
+
+12.* Hệ thống lọc phần mềm độc hại* là tập hợp phần cứng, phần mềm được kết nối vào mạng để phát hiện, ngăn chặn, lọc và thống kê phần mềm độc hại.
+
+13.* Địa chỉ điện tử* là địa chỉ được sử dụng để gửi, nhận thông tin trên mạng bao gồm địa chỉ thư điện tử, số điện thoại, địa chỉ Internet và hình thức tương tự khác.
+
+14.* Xung đột thông tin *là việc hai hoặc nhiều tổ chức trong nước và nước ngoài sử dụng biện pháp công nghệ, kỹ thuật thông tin gây tổn hại đến thông tin, hệ thống thông tin trên mạng.
+
+15*. Thông tin cá nhân* là thông tin gắn với việc xác định danh tính của một người cụ thể.
+
+16.* Chủ thể thông tin cá nhân* là người được xác định từ thông tin cá nhân đó.
+
+17.* Xử lý thông tin cá nhân* là việc thực hiện một hoặc một số thao tác thu thập, biên tập, sử dụng, lưu trữ, cung cấp, chia sẻ, phát tán thông tin cá nhân trên mạng nhằm mục đích thương mại.
+
+18.* Mật mã dân sự* là kỹ thuật mật mã và sản phẩm mật mã được sử dụng để bảo mật hoặc xác thực đối với thông tin không thuộc phạm vi bí mật nhà nước.
+
+19.* Sản phẩm an toàn thông tin mạng *là phần cứng, phần mềm có chức năng bảo vệ thông tin, hệ thống thông tin.
+
+20.* Dịch vụ an toàn thông tin**mạng* là dịch vụ bảo vệ thông tin, hệ thống thông tin.
+
+(Điều này có nội dung liên quan đến Điều 27.5.LQ.82. Thanh tra chuyên ngành về tài nguyên nước)
+
+Điều 3.1.NĐ.2.3. Giải thích từ ngữ
+
+(Điều 3 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. Chủ quản hệ thống thông tin là cơ quan, tổ chức, cá nhân có thẩm quyền quản lý trực tiếp đối với hệ thống thông tin. Đối với cơ quan, tổ chức nhà nước, chủ quản hệ thống thông tin là các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương hoặc là cấp có thẩm quyền quyết định đầu tư dự án xây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin đó.
 
-**Mã phân cấp:** 0300100000000000100000340258700085000030
+2. Xử lý thông tin là việc thực hiện một hoặc một số thao tác tạo lập, cung cấp, thu thập, biên tập, sử dụng, lưu trữ, truyền đưa, chia sẻ, trao đổi thông tin trên mạng.
 
-**ID:** dk_00003237
+3. Đơn vị vận hành hệ thống thông tin là cơ quan, tổ chức được chủ quản hệ thống thông tin giao nhiệm vụ vận hành hệ thống thông tin. Trong trường hợp chủ quản hệ thống thông tin thuê ngoài dịch vụ công nghệ thông tin, đơn vị vận hành hệ thống thông tin là bên cung cấp dịch vụ.
 
----
+4. Đơn vị chuyên trách về công nghệ thông tin là đơn vị chuyên trách về công nghệ thông tin của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương hoặc đơn vị chuyên trách về công nghệ thông tin của chủ quản hệ thống thông tin do chủ quản hệ thống thông tin chỉ định.
 
+5. Đơn vị chuyên trách về an toàn thông tin là đơn vị có chức năng, nhiệm vụ bảo đảm an toàn thông tin của chủ quản hệ thống thông tin.
 
-### Điều 3.1.NĐ.4.3. Giải thích từ ngữ
+6. Bộ phận chuyên trách về an toàn thông tin là bộ phận do chủ quản hệ thống thông tin thành lập hoặc chỉ định để thực thi nhiệm vụ bảo đảm an toàn thông tin và ứng cứu sự cố an toàn thông tin mạng.
+
+7. Dịch vụ trực tuyến là dịch vụ do doanh nghiệp hoặc cơ quan nhà nước cung cấp trên môi trường mạng cho các tổ chức, cá nhân.
+
+Điều 3.1.NĐ.4.3. Giải thích từ ngữ
+
+(Điều 3 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
 Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. Ngăn chặn xung đột thông tin trên mạng là việc thực hiện các biện pháp công nghệ, kỹ thuật để giám sát, phát hiện, cảnh báo, xác định nguồn gốc, chặn lọc, khắc phục và loại trừ xung đột thông tin trên mạng.
 
-**Mã phân cấp:** 0300100000000000100000340259750142000030
+2. Chặn lọc thông tin trên mạng là biện pháp công nghệ, kỹ thuật nhằm tách lọc, ngăn chặn không cho các tín hiệu, gói tin, luồng thông tin gây xung đột đến thông tin, hệ thống thông tin.
 
-**ID:** dk_00003238
+3. Khắc phục xung đột thông tin trên mạng là hoạt động nhằm xử lý sự cố gây xung đột thông tin trên mạng.
 
----
+4. Loại trừ xung đột thông tin trên mạng là hoạt động bảo vệ và đáp trả hợp pháp vào nguồn thông tin gây xung đột trên mạng.
 
+5. Không gian mạng là môi trường được tạo từ cơ sở hạ tầng thông tin và hoạt động của các thành phần xã hội trên cơ sở hạ tầng thông tin đó nhằm cung cấp, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông tin.
 
-### Điều 3.1.TT.2.3. Giải thích từ ngữ
+6. Chủ quyền quốc gia trên không gian mạng là tất cả các quyền của nhà nước đối với không gian mạng, phù hợp với quy định của luật pháp quốc tế.
+
+7. Cơ quan nghiệp vụ ngăn chặn xung đột thông tin trên mạng là các đơn vị nghiệp vụ của Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông được giao nhiệm vụ tham mưu, tổ chức, trực tiếp thực hiện ngăn chặn xung đột thông tin trên mạng (sau đây viết gọn là cơ quan nghiệp vụ).
+
+Điều 3.1.TT.2.3. Giải thích từ ngữ
+
+(Điều 3 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. *Xác thực đa nhân t**ố* là phương pháp xác thực không chỉ dựa vào một mà là kết hợp một số yếu tố liên quan đến người dùng, bao gồm: những thông tin mà người dùng biết (mật khẩu, mã số truy cập, ...), những thông tin mà người dùng sở hữu (chứng thư số, thẻ thông minh, ...) hoặc những thông tin về sinh trắc học của người dùng (vân tay, mống mắt, ...).
 
-**Mã phân cấp:** 0300100000000000100000380261670003650030
+2. *Dự phòng nóng* là khả năng thay thế chức năng của thiết bị khi xảy ra sự cố mà không làm gián đoạn hoạt động của hệ thống.
 
-**ID:** dk_00003239
+3. *Độ phức tạp cần thiết của mật khẩu* là việc bảo đảm mật khẩu có trên 8 ký tự, trong đó bao gồm cả ký tự chữ cái hoa, chữ cái thường, ký tự đặc biệt và chữ số.
 
----
+4. *Thiết bị mạng chính hoặc quan trọng* là các thiết bị khi ngừng một phần hay toàn bộ hoạt động mà không có kế hoạch trước sẽ làm gián đoạn hoạt động bình thường của hệ thống thông tin.
 
+Điều 3.1.TT.3.2. Giải thích từ ngữ
 
-### Điều 3.1.TT.3.2. Giải thích từ ngữ
+(Điều 2 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Sự cố an toàn thông tin mạng là việc thông tin, hệ thống thông tin bị tấn công hoặc gây nguy hại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng (sau đây gọi tắt là sự cố).
 
-**Chỉ mục:** 2
+2. Ứng cứu sự cố an toàn thông tin mạng là hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng gồm: theo dõi, thu thập, phân tích, phát hiện, cảnh báo, điều tra, xác minh sự cố, ngăn chặn sự cố, khôi phục dữ liệu và khôi phục hoạt động bình thường của hệ thống thông tin.
 
-**Mã phân cấp:** 0300100000000000100000380263080020000020
+3. Đầu mối ứng cứu sự cố là bộ phận hoặc cá nhân được thành viên mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia cử để thay mặt cho thành viên liên lạc và trao đổi thông tin với Cơ quan điều phối quốc gia về ứng cứu sự cố hoặc các thành viên khác trong hoạt động điều phối, ứng cứu sự cố.
 
-**ID:** dk_00003240
+Điều 3.1.TT.5.2. Giải thích từ ngữ
 
----
-
-
-### Điều 3.1.TT.5.2. Giải thích từ ngữ
+(Điều 2 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 2
+1. Hệ thống thông tin là một tập hợp các trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu và hệ thống mạng để tạo lập, truyền nhận, thu thập, xử lý, lưu trữ và trao đổi thông tin số phục vụ cho một hoặc nhiều hoạt động kỹ thuật, nghiệp vụ của tổ chức.
 
-**Mã phân cấp:** 0300100000000000100000380266510018000020
+2. Tính bí mật của thông tin là bảo đảm thông tin chỉ được tiếp cận bởi những người được cấp quyền tương ứng.
 
-**ID:** dk_00003241
+3. Tính toàn vẹn của thông tin là bảo vệ sự chính xác và đầy đủ của thông tin và thông tin chỉ được thay đổi bởi những người được cấp quyền.
 
----
+4. Tính sẵn sàng của thông tin là bảo đảm những người được cấp quyền có thể truy xuất thông tin ngay khi có nhu cầu.
 
+5. An toàn thông tin là sự bảo vệ thông tin số, hệ thống thông tin tránh bị truy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm bảo đảm tính bí mật, tính toàn vẹn và tính sẵn sàng của thông tin.
 
-### Điều 3.1.LQ.4. Nguyên tắc bảo đảm an toàn thông tin mạng
+6. Rủi ro công nghệ thông tin là khả năng xảy ra tổn thất khi thực hiện các hoạt động liên quan đến hệ thống thông tin. Rủi ro công nghệ thông tin liên quan đến quản lý, sử dụng phần cứng, phần mềm, truyền thông, giao diện hệ thống, vận hành và con người.
+
+7. Sự cố an ninh mạng (cybersecurity incident) là việc thông tin số, hệ thống thông tin bị tấn công hoặc bị gây nguy hại, ảnh hưởng tới tính bí mật, tính toàn vẹn, tính sẵn sàng.
+
+8. Điểm yếu về mặt kỹ thuật là thành phần trong hệ thống thông tin dễ bị khai thác, lợi dụng khi bị tấn công hoặc xâm nhập bất hợp pháp.
+
+9. Trung tâm dữ liệu bao gồm hạ tầng kỹ thuật (nhà trạm, hệ thống cáp) và hệ thống máy tính cùng các thiết bị phụ trợ được lắp đặt vào đó để xử lý, lưu trữ, trao đổi và quản lý tập trung dữ liệu.
+
+10. Thiết bị di động là thiết bị số được thiết kế có thể di chuyển mà không ảnh hưởng tới khả năng hoạt động, có hệ điều hành, có khả năng xử lý, kết nối mạng và có màn hình hiển thị như máy tính xách tay, máy tính bảng, điện thoại di động thông minh.
+
+11. Vật mang tin là các phương tiện vật chất dùng để lưu giữ và truyền nhận thông tin số.
+
+12. Tường lửa là tập hợp các thành phần hoặc một hệ thống các trang thiết bị, phần mềm được đặt giữa hai mạng, nhằm kiểm soát tất cả các kết nối từ bên trong ra bên ngoài mạng hoặc ngược lại.
+
+13. Mạng không tin cậy là mạng bên ngoài có kết nối vào mạng của tổ chức và không thuộc sự quản lý của tổ chức hoặc tổ chức tín dụng nước ngoài mà tổ chức có quan hệ như là đơn vị phụ thuộc, hiện diện thương mại tại Việt Nam.
+
+14. Dịch vụ điện toán đám mây là các dịch vụ cung cấp tài nguyên máy tính (computing resources) qua môi trường mạng cho phép nhiều đối tượng sử dụng, có thể điều chỉnh và thanh toán theo nhu cầu sử dụng.
+
+15. Tài khoản người sử dụng (tài khoản) là một tập hợp thông tin đại diện duy nhất cho người sử dụng trên hệ thống thông tin, được sử dụng để đăng nhập và truy cập các tài nguyên được cấp phép trên hệ thống thông tin đó.
+
+16. Bên thứ ba là các cá nhân, doanh nghiệp (không bao gồm tổ chức tín dụng nước ngoài và các thành viên thuộc tổ chức tín dụng nước ngoài trong trường hợp tổ chức là đơn vị phụ thuộc, hiện diện thương mại tại Việt Nam của tổ chức tín dụng nước ngoài) có thỏa thuận bằng văn bản (gọi chung là hợp đồng sử dụng dịch vụ) với tổ chức nhằm cung cấp dịch vụ công nghệ thông tin.
+
+17. Cấp có thẩm quyền là chức danh hoặc người được người đại diện hợp pháp của tổ chức phân cấp quản lý, phân công, ủy quyền bằng văn bản để thực hiện một hoặc một số chức năng, nhiệm vụ của tổ chức.
+
+Điều 3.1.LQ.4. Nguyên tắc bảo đảm an toàn thông tin mạng
+
+(Điều 4 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cơ quan, tổ chức, cá nhân có trách nhiệm bảo đảm an toàn thông tin mạng. Hoạt động an toàn thông tin mạng của cơ quan, tổ chức, cá nhân phải đúng quy định của pháp luật, bảo đảm quốc phòng, an ninh quốc gia, bí mật nhà nước, giữ vững ổn định chính trị, trật tự, an toàn xã hội và thúc đẩy phát triển kinh tế - xã hội.
 
-**Chỉ mục:** 4
+2. Tổ chức, cá nhân không được xâm phạm an toàn thông tin mạng của tổ chức, cá nhân khác.
 
-**Mã phân cấp:** 0300100000000000100000400000000000000000
+3. Việc xử lý sự cố an toàn thông tin mạng phải bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân, không xâm phạm đến đời sống riêng tư, bí mật cá nhân, bí mật gia đình của cá nhân, thông tin riêng của tổ chức.
 
-**ID:** dk_00003242
+4. Hoạt động an toàn thông tin mạng phải được thực hiện thường xuyên, liên tục, kịp thời và hiệu quả.
 
----
+Điều 3.1.NĐ.2.4. Nguyên tắc bảo đảm an toàn hệ thống thông tin theo cấp độ
 
-
-### Điều 3.1.NĐ.2.4. Nguyên tắc bảo đảm an toàn hệ thống thông tin theo cấp độ
+(Điều 4 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức được thực hiện thường xuyên, liên tục từ khâu thiết kế, xây dựng, vận hành đến khi hủy bỏ; tuân thủ theo tiêu chuẩn, quy chuẩn kỹ thuật.
 
-**Chỉ mục:** 4
+2. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức được thực hiện một cách tổng thể, đồng bộ, tập trung trong việc đầu tư các giải pháp bảo vệ, có sự dùng chung, chia sẻ tài nguyên để tối ưu hiệu năng, tránh đầu tư thừa, trùng lặp.
 
-**Mã phân cấp:** 030010000000000010000040000000000000000000402587000850000400
+3. Việc phân bổ, bố trí nguồn lực để bảo đảm an toàn hệ thống thông tin thực hiện theo thứ tự ưu tiên từ cấp độ cao xuống cấp độ thấp.
 
-**ID:** dk_00003243
+Điều 3.1.NĐ.2.5. Nguyên tắc xác định cấp độ
 
----
-
-
-### Điều 3.1.NĐ.2.5. Nguyên tắc xác định cấp độ
+(Điều 5 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc xác định hệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc như sau:
 
-**Chỉ mục:** 5
+a) Hệ thống thông tin chỉ có một chủ quản hệ thống thông tin;
 
-**Mã phân cấp:** 030010000000000010000040000000000000000000402587000850000500
+b) Hệ thống thông tin có thể hoạt động độc lập, được thiết lập nhằm trực tiếp phục vụ hoặc hỗ trợ hoạt động nghiệp vụ, sản xuất, kinh doanh cụ thể của cơ quan, tổ chức thuộc một trong các loại hình hệ thống thông tin quy định tại khoản 2 Điều 6 Nghị định này.
 
-**ID:** dk_00003244
+2. Trong trường hợp hệ thống thông tin bao gồm nhiều hệ thống thành phần, mỗi hệ thống thành phần lại tương ứng với một cấp độ khác nhau, thì cấp độ hệ thống thông tin được xác định là cấp độ cao nhất trong các cấp độ của các hệ thống thành phần cấu thành.
 
----
+Điều 3.1.TT.5.3. Nguyên tắc chung
 
+(Điều 3 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.3. Nguyên tắc chung
+ 1. Tổ chức có trách nhiệm bảo đảm an toàn thông tin theo nguyên tắc xác định rõ quyền hạn, trách nhiệm từng bộ phận và cá nhân trong tổ chức.
 
-1. Tổ chức có trách nhiệm bảo đảm an toàn thông tin theo nguyên tắc xác định rõ quyền hạn, trách nhiệm từng bộ phận và cá nhân trong tổ chức.
+ 2. Phân loại hệ thống thông tin theo mức độ quan trọng và áp dụng chính sách an toàn thông tin phù hợp.
 
-**Chỉ mục:** 3
+ 3. Nhận biết, phân loại, đánh giá kịp thời và xử lý có hiệu quả các rủi ro công nghệ thông tin có thể xảy ra trong tổ chức.
 
-**Mã phân cấp:** 030010000000000010000040000000000000000000802665100180000300
+ 4. Xây dựng, triển khai quy chế an toàn thông tin trên cơ sở các quy định tại Thông tư này và hài hòa giữa lợi ích, chi phí và mức độ chấp nhận rủi ro của tổ chức.Điều 3.1.LQ.5. Chính sách của Nhà nước về an toàn thông tin mạng
 
-**ID:** dk_00003245
-
----
-
-
-### Điều 3.1.LQ.5. Chính sách của Nhà nước về an toàn thông tin mạng
+(Điều 5 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Đẩy mạnh đào tạo, phát triển nguồn nhân lực và xây dựng cơ sở hạ tầng, kỹ thuật an toàn thông tin mạng đáp ứng yêu cầu ổn định chính trị, phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội.
 
-**Chỉ mục:** 5
+2. Khuyến khích nghiên cứu, phát triển, áp dụng biện pháp kỹ thuật, công nghệ, hỗ trợ xuất khẩu, mở rộng thị trường cho sản phẩm, dịch vụ an toàn thông tin mạng do tổ chức, cá nhân trong nước sản xuất, cung cấp; tạo điều kiện nhập khẩu sản phẩm, công nghệ hiện đại mà tổ chức, cá nhân trong nước chưa có năng lực sản xuất, cung cấp.
 
-**Mã phân cấp:** 0300100000000000100000500000000000000000
+3. Bảo đảm môi trường cạnh tranh lành mạnh trong hoạt động kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; khuyến khích, tạo điều kiện cho tổ chức, cá nhân tham gia đầu tư, nghiên cứu, phát triển và cung cấp sản phẩm, dịch vụ an toàn thông tin mạng.
 
-**ID:** dk_00003246
+4. Nhà nước bố trí kinh phí để bảo đảm an toàn thông tin mạng của cơ quan nhà nước và an toàn thông tin mạng cho hệ thống thông tin quan trọng quốc gia.
 
----
+(Điều này có nội dung liên quan đến Điều 34.3.LQ.6. Trách nhiệm quản lý nhà nước về ngoại thương)
 
+Điều 3.1.LQ.6. Hợp tác quốc tế về an toàn thông tin mạng
 
-### Điều 3.1.LQ.6. Hợp tác quốc tế về an toàn thông tin mạng
+(Điều 6 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Hợp tác quốc tế về an toàn thông tin mạng phải tuân thủ các nguyên tắc sau đây:
 
-**Chỉ mục:** 6
+a) Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ quốc gia, không can thiệp vào công việc nội bộ của nhau, bình đẳng và các bên cùng có lợi;
 
-**Mã phân cấp:** 0300100000000000100000600000000000000000
+b) Phù hợp với quy định của pháp luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**ID:** dk_00003247
+2. Nội dung hợp tác quốc tế về an toàn thông tin mạng gồm:
 
----
+a) Hợp tác quốc tế trong đào tạo, nghiên cứu và ứng dụng khoa học, kỹ thuật, công nghệ về an toàn thông tin mạng;
 
+b) Hợp tác quốc tế trong phòng, chống hành vi vi phạm pháp luật về an toàn thông tin mạng; điều tra, xử lý sự cố an toàn thông tin mạng, ngăn chặn hoạt động lợi dụng mạng để khủng bố;
 
-### Điều 3.1.LQ.7. Các hành vi bị nghiêm cấm
+c) Hoạt động hợp tác quốc tế khác về an toàn thông tin mạng.
+
+(Điều này có nội dung liên quan đến Điều 1.9.LQ.25. Kiểm soát hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác)
+
+Điều 3.1.LQ.7. Các hành vi bị nghiêm cấm
+
+(Điều 7 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Ngăn chặn việc truyền tải thông tin trên mạng, can thiệp, truy nhập, gây nguy hại, xóa, thay đổi, sao chép và làm sai lệch thông tin trên mạng trái pháp luật.
 
-**Chỉ mục:** 7
+2. Gây ảnh hưởng, cản trở trái pháp luật tới hoạt động bình thường của hệ thống thông tin hoặc tới khả năng truy nhập hệ thống thông tin của người sử dụng.
 
-**Mã phân cấp:** 0300100000000000100000700000000000000000
+3. Tấn công, vô hiệu hóa trái pháp luật làm mất tác dụng của biện pháp bảo vệ an toàn thông tin mạng của hệ thống thông tin; tấn công, chiếm quyền điều khiển, phá hoại hệ thống thông tin.
 
-**ID:** dk_00003248
+4. Phát tán thư rác, phần mềm độc hại, thiết lập hệ thống thông tin giả mạo, lừa đảo.
 
----
+5. Thu thập, sử dụng, phát tán, kinh doanh trái pháp luật thông tin cá nhân của người khác; lợi dụng sơ hở, điểm yếu của hệ thống thông tin để thu thập, khai thác thông tin cá nhân.
 
+6. Xâm nhập trái pháp luật bí mật mật mã và thông tin đã mã hóa hợp pháp của cơ quan, tổ chức, cá nhân; tiết lộ thông tin về sản phẩm mật mã dân sự, thông tin về khách hàng sử dụng hợp pháp sản phẩm mật mã dân sự; sử dụng, kinh doanh các sản phẩm mật mã dân sự không rõ nguồn gốc.
 
-### Điều 3.1.LQ.8. Xử lý vi phạm pháp luật về an toàn thông tin mạng
+(Điều này có nội dung liên quan đến Điều 3.4.NĐ.5.5. Quyền, nghĩa vụ và các hành vi không được làm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử; Điều 3.3.NĐ.10.3. Giải thích thuật ngữ)
+
+Điều 3.1.LQ.8. Xử lý vi phạm pháp luật về an toàn thông tin mạng
+
+(Điều 8 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
-**Chỉ mục:** 8
+Chương II
 
-**Mã phân cấp:** 0300100000000000100000800000000000000000
+BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG
 
-**ID:** dk_00003249
+(Chương này có nội dung liên quan đến Điều 27.5.LQ.7. Hệ thống thông tin, cơ sở dữ liệu tài nguyên nước quốc gia của Luật 28/2023/QH15 Luật Tài nguyên nước 2023 ban hành ngày 27/11/2023; Điều 37.5.NQ.3.11. Bảo đảm an ninh, an toàn, bảo mật thông tin của Nghị quyết 04/2016/NQ-HĐTP Hướng dẫn thi hành một số quy định của Bộ luật Tố Tụng dân sự số 92/2015/QH13, Luật Tố tụng hành chính số 93/2015/QH13 về gửi, nhận đơn khởi kiện, tài liệu, chứng cứ và cấp, tống đạt, thông báo văn bản tố tụng bằng phương tiện điện tử ban hành ngày 30/12/2016)
 
----
+Mục 1
 
+BẢO VỆ THÔNG TIN MẠNG
 
-### Điều 3.1.LQ.9. Phân loại thông tin
+Điều 3.1.LQ.9. Phân loại thông tin
+
+(Điều 9 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cơ quan, tổ chức sở hữu thông tin phân loại thông tin theo thuộc tính bí mật để có biện pháp bảo vệ phù hợp.
 
-**Chỉ mục:** 9
+2. Thông tin thuộc phạm vi bí mật nhà nước được phân loại và bảo vệ theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
-**Mã phân cấp:** 030010000000000020000010000000000000000000900000000000000000
+Cơ quan, tổ chức sử dụng thông tin đã phân loại và chưa phân loại trong hoạt động thuộc lĩnh vực của mình phải có trách nhiệm xây dựng quy định, thủ tục để xử lý thông tin; xác định nội dung và phương pháp ghi truy nhập được phép vào thông tin đã được phân loại.
 
-**ID:** dk_00003252
+Điều 3.1.LQ.10. Quản lý gửi thông tin
 
----
-
-
-### Điều 3.1.LQ.10. Quản lý gửi thông tin
+(Điều 10 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc gửi thông tin trên mạng phải bảo đảm các yêu cầu sau đây:
 
-**Chỉ mục:** 10
+a) Không giả mạo nguồn gốc gửi thông tin;
 
-**Mã phân cấp:** 030010000000000020000010000000000000000001000000000000000000
+b) Tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00003253
+2. Tổ chức, cá nhân không được gửi thông tin mang tính thương mại vào địa chỉ điện tử của người tiếp nhận khi chưa được người tiếp nhận đồng ý hoặc khi người tiếp nhận đã từ chối, trừ trường hợp người tiếp nhận có nghĩa vụ phải tiếp nhận thông tin theo quy định của pháp luật.
 
----
+3. Doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ ứng dụng viễn thông và doanh nghiệp cung cấp dịch vụ công nghệ thông tin gửi thông tin có trách nhiệm sau đây:
 
+a) Tuân thủ quy định của pháp luật về lưu trữ thông tin, bảo vệ thông tin cá nhân, thông tin riêng của tổ chức, cá nhân;
 
-### Điều 3.1.LQ.11. Phòng ngừa, phát hiện, ngăn chặn và xử lý phần mềm độc hại
+b) Áp dụng biện pháp ngăn chặn, xử lý khi nhận được thông báo của tổ chức, cá nhân về việc gửi thông tin vi phạm quy định của pháp luật;
+
+c) Có phương thức để người tiếp nhận thông tin có khả năng từ chối việc tiếp nhận thông tin;
+
+d) Cung cấp điều kiện kỹ thuật và nghiệp vụ cần thiết để cơ quan nhà nước có thẩm quyền thực hiện nhiệm vụ quản lý, bảo đảm an toàn thông tin mạng khi có yêu cầu.
+
+Điều 3.1.LQ.11. Phòng ngừa, phát hiện, ngăn chặn và xử lý phần mềm độc hại
+
+(Điều 11 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện phòng ngừa, ngăn chặn phần mềm độc hại theo hướng dẫn, yêu cầu của cơ quan nhà nước có thẩm quyền.
 
-**Chỉ mục:** 11
+2. Chủ quản hệ thống thông tin quan trọng quốc gia triển khai hệ thống kỹ thuật nghiệp vụ nhằm phòng ngừa, phát hiện, ngăn chặn và xử lý kịp thời phần mềm độc hại.
 
-**Mã phân cấp:** 030010000000000020000010000000000000000001100000000000000000
+3. Doanh nghiệp cung cấp dịch vụ thư điện tử, truyền đưa, lưu trữ thông tin phải có hệ thống lọc phần mềm độc hại trong quá trình gửi, nhận, lưu trữ thông tin trên hệ thống của mình và báo cáo cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
 
-**ID:** dk_00003254
+4. Doanh nghiệp cung cấp dịch vụ Internet có biện pháp quản lý, phòng ngừa, phát hiện, ngăn chặn phát tán phần mềm độc hại và xử lý theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
----
+5. Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và bộ, ngành có liên quan tổ chức phòng ngừa, phát hiện, ngăn chặn và xử lý phần mềm độc hại gây ảnh hưởng đến quốc phòng, an ninh quốc gia.
 
+Điều 3.1.LQ.12. Bảo đảm an toàn tài nguyên viễn thông
 
-### Điều 3.1.LQ.12. Bảo đảm an toàn tài nguyên viễn thông
+(Điều 12 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cơ quan, tổ chức, cá nhân sử dụng tài nguyên viễn thông có trách nhiệm sau đây:
 
-**Chỉ mục:** 12
+a) Áp dụng biện pháp quản lý và kỹ thuật để ngăn chặn mất an toàn thông tin mạng xuất phát từ tần số, kho số, tên miền và địa chỉ Internet của mình;
 
-**Mã phân cấp:** 030010000000000020000010000000000000000001200000000000000000
+b) Phối hợp, cung cấp thông tin liên quan đến an toàn tài nguyên viễn thông theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
-**ID:** dk_00003255
+2. Doanh nghiệp cung cấp dịch vụ trên Internet có trách nhiệm quản lý, phối hợp ngăn chặn mất an toàn thông tin mạng xuất phát từ tài nguyên Internet, từ khách hàng của mình; cung cấp đầy đủ thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền; phối hợp kết nối, định tuyến để bảo đảm hệ thống máy chủ tên miền quốc gia Việt Nam hoạt động an toàn, ổn định.
 
----
+3. Bộ Thông tin và Truyền thông có trách nhiệm thực hiện bảo đảm an toàn thông tin mạng cho hệ thống máy chủ tên miền quốc gia Việt Nam.
 
+Điều 3.1.LQ.13. Ứng cứu sự cố an toàn thông tin mạng
 
-### Điều 3.1.LQ.13. Ứng cứu sự cố an toàn thông tin mạng
+(Điều 13 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Ứng cứu sự cố an toàn thông tin mạng là hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng.
 
-**Chỉ mục:** 13
+2. Ứng cứu sự cố an toàn thông tin mạng phải tuân thủ các nguyên tắc sau đây:
 
-**Mã phân cấp:** 030010000000000020000010000000000000000001300000000000000000
+a) Kịp thời, nhanh chóng, chính xác, đồng bộ và hiệu quả;
 
-**ID:** dk_00003256
+b) Tuân thủ quy định của pháp luật về điều phối ứng cứu sự cố an toàn thông tin mạng;
 
----
+c) Có sự phối hợp giữa cơ quan, tổ chức, doanh nghiệp trong nước và nước ngoài.
 
+3. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh, doanh nghiệp viễn thông, chủ quản hệ thống thông tin quan trọng quốc gia phải thành lập hoặc chỉ định bộ phận chuyên trách ứng cứu sự cố an toàn thông tin mạng.
 
-### Điều 3.1.QĐ.1.6. Đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng
+4. Bộ Thông tin và Truyền thông có trách nhiệm điều phối ứng cứu sự cố an toàn thông tin mạng trên toàn quốc; quy định chi tiết về điều phối ứng cứu sự cố an toàn thông tin mạng.
+
+Điều 3.1.QĐ.1.6. Đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng
+
+(Điều 6 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng là Cơ quan chuyên trách về an toàn thông tin hoặc cơ quan chuyên trách về công nghệ thông tin của các bộ, ngành, Ủy ban nhân dân cấp tỉnh (sau đây gọi tắt là Đơn vị chuyên trách ứng cứu sự cố).
 
-**Chỉ mục:** 6
+Các doanh nghiệp viễn thông, Internet, các cơ quan, tổ chức, doanh nghiệp chủ quản hệ thống thông tin lớn thành lập hoặc chỉ định đơn vị chuyên trách ứng cứu sự cố an toàn thông tin mạng tại cơ quan, tổ chức mình.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050000600
+2. Đơn vị chuyên trách ứng cứu sự cố có trách nhiệm trình thành lập Đội ứng cứu sự cố và tổ chức hoạt động ứng cứu sự cố trong lĩnh vực, địa bàn, phạm vi mình quản lý; tham gia hoạt động ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia khi có yêu cầu từ Cơ quan thường trực hoặc Cơ quan điều phối.
 
-**ID:** dk_00003257
+Điều 3.1.QĐ.1.7. Mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia
 
----
-
-
-### Điều 3.1.QĐ.1.7. Mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia
+(Điều 7 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Thành viên có nghĩa vụ phải tham gia mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia (sau đây gọi tắt là mạng lưới ứng cứu sự cố) gồm:
 
-**Chỉ mục:** 7
+a) Đơn vị chuyên trách về ứng cứu sự cố, an toàn thông tin hoặc công nghệ thống tin của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan trung ương; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương;
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050000700
+b) Cơ quan, đơn vị có chức năng liên quan thuộc Bộ Thông tin và Truyền thông: Cục An toàn thông tin, Trung tâm Ứng cứu khẩn cấp máy tính Việt nam (VNCERT), Trung tâm Internet Việt Nam (VNNIC), Cục Bưu điện Trung ương;
 
-**ID:** dk_00003258
+c) Cơ quan, đơn vị có chức năng liên quan thuộc Bộ Công an: Cục An ninh mạng; Cục Cảnh sát phòng, chống tội phạm sử dụng công nghệ cao;
 
----
+d) Cơ quan, đơn vị có chức năng liên quan thuộc Bộ Quốc phòng: Cục Công nghệ thông tin; Ban Cơ yếu Chính phủ;
 
+đ) Các doanh nghiệp cung cấp dịch vụ hạ tầng viễn thông, Internet (ISP); các tổ chức, doanh nghiệp cung cấp dịch vụ trung tâm dữ liệu, cho thuê không gian lưu trữ thông tin số; đơn vị quản lý, vận hành cơ sở dữ liệu quốc gia; đơn vị chuyên trách về an toàn thông tin, công nghệ thông tin của các tổ chức ngân hàng, tài chính, kho bạc, thuế, hải quan;
 
-### Điều 3.1.TT.3.5. Mạng lưới ứng cứu sự cố
+e) Các tổ chức, doanh nghiệp quản lý, vận hành các hệ thống thông tin quan trọng, các hệ thống điều khiển công nghiệp (SCADA) thuộc các lĩnh vực: Năng lượng, công nghiệp, y tế, tài nguyên và môi trường, giáo dục và đào tạo, dân cư và đô thị.
+
+2. Thành viên tự nguyện tham gia mạng lưới: Là các tổ chức, doanh nghiệp không thuộc danh sách quy định tại khoản 1 Điều này, có năng lực về an toàn thông tin hoặc công nghệ thông tin, có đăng ký và được Cơ quan điều phối quốc gia chấp thuận tham gia mạng lưới. Khuyến khích các tổ chức, doanh nghiệp hoạt động trong lĩnh vực an toàn thông tin, công nghệ thông tin; các tổ chức, doanh nghiệp quản lý, vận hành hệ thống thông tin quy mô lớn, hệ thống thông tin chuyên ngành ngân hàng, tài chính, hệ thống điều khiển công nghiệp (SCADA); và các đơn vị khác có năng lực về an toàn thông tin đăng ký tham gia mạng lưới.
+
+3. Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (Trung tâm VNCERT) là Cơ quan điều phối quốc gia về ứng cứu sự cố (gọi tắt là Cơ quan điều phối quốc gia hay Cơ quan điều phối), có trách nhiệm:
+
+a) Thực hiện chức năng điều phối các hoạt động ứng cứu sự cố trên toàn quốc; có quyền huy động, điều phối các thành viên mạng lưới ứng cứu sự cố và các tổ chức, đơn vị liên quan phối hợp ngăn chặn, xử lý, khắc phục sự cố tại Việt Nam; có quyền quyết định hình thức điều phối các hoạt động ứng cứu sự cố và chịu trách nhiệm về các lệnh/yêu cầu điều phối;
+
+b) Chủ trì xây dựng quy chế hoạt động của mạng lưới; tổ chức và điều hành hoạt động của mạng lưới; tổng hợp và chia sẻ thông tin, cảnh báo sự cố trong mạng lưới; đề xuất và tiếp nhận, quản lý các khoản đóng góp, tài trợ của các thành viên và các tổ chức, cá nhân và nguồn thu hợp pháp khác để chi cho các hoạt động của mạng lưới; là đầu mối quốc gia hợp tác với các tổ chức, doanh nghiệp nước ngoài trong công tác ứng cứu sự cố bảo đảm an toàn thông tin mạng.
+
+c) Bộ Thông tin và Truyền thông thành lập Ban điều hành mạng lưới do lãnh đạo Cơ quan điều phối làm trưởng ban, thành viên là đại diện lãnh đạo một số thành viên mạng lưới để điều hành, phối hợp và tổ chức các hoạt động cho mạng lưới.
+
+4. Các thành viên mạng lưới có trách nhiệm tuân thủ quy chế hoạt động của mạng lưới, tuân thủ các yêu cầu điều phối của cơ quan điều phối, tham gia, đóng góp tích cực cho hoạt động của mạng lưới. Doanh nghiệp viễn thông, nhà cung cấp dịch vụ Internet ISP có trách nhiệm lưu trữ và cung cấp thông tin liên quan đến các địa chỉ IP thuê bao, máy chủ, thiết bị IOT, các log file, nhật ký dịch vụ phân giải tên miền DNS trong phạm vi quản lý của doanh nghiệp; thiết lập môi trường để lắp đặt thiết bị quan trắc, lấy mẫu và cung cấp luồng dữ liệu mạng để phục vụ giám sát, phát hiện sự cố theo yêu cầu của cơ quan điều phối quốc gia; thiết lập đầu mối thường trực 24/7, bố trí nhân, vật lực sẵn sàng phối hợp, triển khai các giải pháp nhằm ứng cứu, khắc phục hậu quả sự cố trong trường hợp nguồn tấn công được xác định xuất phát từ thuê bao thuộc doanh nghiệp mình hoặc khi được yêu cầu từ cơ quan điều phối quốc gia.
+
+Điều 3.1.TT.3.5. Mạng lưới ứng cứu sự cố
+
+(Điều 5 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Mạng lưới ứng cứu sự cố hoạt động trên toàn quốc, gồm thành viên là các đơn vị chuyên trách về ứng cứu sự cố và các cơ quan, tổ chức, doanh nghiệp liên quan được quy định chi tiết tại Điều 7 Quyết định số 05/2017/QĐ-TTg.
 
-**Chỉ mục:** 5
+2. Mạng lưới ứng cứu sự cố hoạt động theo Quy chế hoạt động của Mạng lưới và hướng dẫn liên quan của Cơ quan điều phối quốc gia (Trung tâm ứng cứu khẩn cấp máy tính Việt Nam). Ban điều hành mạng lưới do Bộ Thông tin và Truyền thông thành lập theo quy định tại Điều 7 Quyết định số 05/2017/QĐ-TTg.
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000500
+3. Các thành viên mạng lưới khai báo hồ sơ theo Biểu mẫu số 01 ban hành kèm theo Thông tư này, định kỳ cập nhật hàng năm, gửi Cơ quan điều phối quốc gia. Các tổ chức, doanh nghiệp, cá nhân tự nguyện đăng ký tham gia mạng lưới phải có đơn đăng ký tham gia theo Biểu mẫu số 02, gửi Cơ quan điều phối quốc gia.
 
-**ID:** dk_00003259
+Điều 3.1.TT.3.6. Trách nhiệm, quyền hạn của các thành viên mạng lưới
 
----
-
-
-### Điều 3.1.TT.3.6. Trách nhiệm, quyền hạn của các thành viên mạng lưới
+(Điều 6 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Thành viên mạng lưới có các trách nhiệm và quyền hạn sau:
 
-**Chỉ mục:** 6
+a) Thực hiện các trách nhiệm và quyền hạn quy định tại Quyết định số [05/2017/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-05-2017-qd-ttg-he-thong-phuong-an-ung-cuu-khan-cap-bao-dam-an-toan-thong-tin-mang-quoc-gia-343011.aspx) ;
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000600
+b) Cử Đầu mối ứng cứu sự cố có đủ năng lực, trình độ chuyên môn và kỹ năng nghiệp vụ để thực hiện các hoạt động phối hợp ứng cứu sự cố; bảo đảm duy trì liên lạc thông suốt, liên tục 24/7; công bố thông tin về địa chỉ tiếp nhận sự cố trên Trang/Cổng thông tin điện tử; cung cấp, cập nhật thông tin về Đầu mối ứng cứu sự cố, nhân lực kỹ thuật an toàn thông tin, ứng cứu sự cố thuộc phạm vi quản lý tới Cơ quan điều phối quốc gia; cập nhật thông tin về Đầu mối ứng cứu sự cố, trong vòng 24 giờ khi có thay đổi;
 
-**ID:** dk_00003260
+c) Tổng hợp, xây dựng báo cáo định kỳ 06 tháng (trước ngày 20 tháng 6) 01 năm (trước ngày 15 tháng 12) theo Biểu mẫu số 05 gửi Cơ quan điều phối quốc gia; báo cáo đột xuất khi có yêu cầu của Cơ quan điều phối quốc gia;
 
----
+d) Báo cáo với Cơ quan điều phối quốc gia khi tiếp nhận thông tin, phát hiện các sự cố đối với hệ thống thông tin trong phạm vi quản lý;
 
+đ) Xây dựng và triển khai kế hoạch ứng phó sự cố, hướng dẫn hoạt động ứng cứu sự cố, tổ chức và điều hành hoạt động của Đội ứng cứu sự cố trong phạm vi quản lý;
 
-### Điều 3.1.TT.3.7. Các hoạt động chính của mạng lưới ứng cứu sự cố
+e) Có quyền đề nghị thành viên mạng lưới hướng dẫn, hỗ trợ xử lý và ứng cứu sự cố khi cần thiết; được tham gia các hội thảo, hội nghị giao ban, tập huấn bồi dưỡng, đào tạo, huấn luyện, diễn tập và các hoạt động khác trong mạng lưới;
+
+g) Có quyền được chia sẻ thông tin, kinh nghiệm, cảnh báo về sự cố và tình hình an toàn thông tin mạng trong và ngoài nước;
+
+h) Các thành viên mạng lưới là cơ quan, đơn vị chức năng thuộc Bộ Công an và Bộ Quốc phòng không phải thực hiện Điểm c và Điểm d Khoản này.
+
+2. Trách nhiệm và quyền hạn của Cơ quan điều phối quốc gia:
+
+a) Thực hiện các trách nhiệm và quyền hạn quy định tại Quyết định số [05/2017/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-05-2017-qd-ttg-he-thong-phuong-an-ung-cuu-khan-cap-bao-dam-an-toan-thong-tin-mang-quoc-gia-343011.aspx) ;
+
+b) Công khai trên Trang thông tin điện tử của mình số điện thoại, số fax địa chỉ thư điện tử (email), đường dây nóng và bảo đảm nguồn lực để duy trì trực đường dây nóng liên tục, kịp thời tiếp nhận và xử lý sự cố; tổng hợp thông tin liên lạc (địa chỉ, số điện thoại, số fax, địa chỉ thư điện tử) và thông tin về đầu mối ứng cứu sự cố, nhân lực kỹ thuật an toàn thông tin, ứng cứu sự cố của các thành viên mạng lưới và Đội ứng cứu sự cố của các thành viên mạng lưới;
+
+c) Xây dựng, triển khai và vận hành cổng thông tin mạng lưới, hệ thống kỹ thuật hỗ trợ cho hoạt động liên lạc, trao đổi thông tin trong mạng lưới và các hệ thống kỹ thuật phục vụ các hoạt động điều phối, ứng cứu, xử lý, khắc phục sự cố;
+
+d) Hướng dẫn hoạt động thông báo và hỏi đáp về sự cố an toàn thông tin mạng trên toàn quốc; điều hành mạng lưới; nghiên cứu, đề xuất các biện pháp nhằm tăng cường nguồn lực cho mạng lưới hoạt động có hiệu quả;
+
+đ) Tập hợp, tiếp nhận, xử lý, chuẩn bị thông tin, cảnh báo tới người có thẩm quyền và các cơ quan, tổ chức, đơn vị liên quan về các nguy cơ sự cố an toàn thông tin mạng và các biện pháp phòng ngừa, ngăn chặn, xử lý;
+
+e) Tổ chức hội thảo, hội nghị giao ban, phổ biến, trao đổi thông tin, tập huấn, bồi dưỡng, đào tạo, huấn luyện, diễn tập về an toàn thông tin mạng ứng cứu sự cố; tổ chức các hoạt động chung của mạng lưới.
+
+Điều 3.1.TT.3.7. Các hoạt động chính của mạng lưới ứng cứu sự cố
+
+(Điều 7 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 Ban điều hành mạng lưới tổ chức triển khai các nhiệm vụ của mạng lưới ứng cứu sự cố, gồm các hoạt động chính sau:
 
-**Chỉ mục:** 7
+1. Nghiên cứu, thu thập, tiếp nhận, phân tích, xác minh, đánh giá, cảnh báo về sự cố, rủi ro an toàn thông tin mạng và phần mềm độc hại.
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000700
+2. Phối hợp thực hiện ứng cứu, xử lý, ngăn chặn và khắc phục sự cố; kiểm tra, đốc thúc việc xây dựng, triển khai kế hoạch ứng phó sự cố an toàn thông tin mạng và việc thực hiện các trách nhiệm, nghĩa vụ của thành viên mạng lướiĐiều 3.1.QĐ.1.11. Báo cáo sự cố an toàn thông tin mạng
 
-**ID:** dk_00003261
-
----
-
-
-### Điều 3.1.QĐ.1.11. Báo cáo sự cố an toàn thông tin mạng
+(Điều 11 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Báo cáo sự cố an toàn thông tin mạng:
 
-**Chỉ mục:** 11
+a) Đơn vị vận hành hệ thống thông tin có trách nhiệm báo cáo sự cố tới cơ quan chủ quản, đơn vị chuyên trách ứng cứu sự cố cùng cấp, Cơ quan điều phối quốc gia chậm nhất 5 ngày kể từ khi phát hiện sự cố; trường hợp xác định sự cố có thể vượt khả năng xử lý của mình, đơn vị vận hành hệ thống thông tin phải thực hiện quy trình báo cáo khẩn cấp theo quy định tại khoản 2 đến khoản 5 Điều này ngay khi phát hiện sự cố hoặc xác định sự cố có thể vượt khả năng xử lý của mình.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050001100
+b) Các tổ chức, cá nhân khi phát hiện dấu hiệu tấn công hoặc sự cố an toàn thông tin mạng cần nhanh chóng thông báo cho đơn vị vận hành hệ thống thông tin, cơ quan chủ quản hệ thống thông tin liên quan, cơ quan điều phối quốc gia và đơn vị chuyên trách ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan.
 
-**ID:** dk_00003262
+2. Báo cáo sự cố phải được thực hiện ngay lập tức và được duy trì trong suốt quá trình ứng cứu sự cố gồm: Báo cáo ban đầu; báo cáo diễn biến tình hình; báo cáo phương án ứng cứu cụ thể; báo cáo xin ý kiến chỉ đạo, chỉ huy; báo cáo đề nghị hỗ trợ, phối hợp; báo cáo kết thúc ứng phó.
 
----
+3. Hình thức báo cáo bằng công văn, fax, thư điện tử, nhắn tin đa phương tiện hoặc thông qua hệ thống báo cáo, cảnh báo sự cố an toàn mạng quốc gia; mẫu báo cáo theo quy định về điều phối ứng cứu, hoặc theo hướng dẫn của cơ quan điều phối quốc gia.
 
+4. Nội dung báo cáo ban đầu gồm:
 
-### Điều 3.1.TT.3.9. Thông báo, báo cáo sự cố an toàn thông tin mạng
+a) Tên, địa chỉ Đơn vị vận hành hệ thống thông tin; cơ quan chủ quản hệ thống thông tin; hệ thống thông tin bị sự cố; thời điểm phát hiện sự cố;
+
+b) Đầu mối liên lạc về sự cố của đơn vị vận hành hệ thống bị sự cố: Tên, chức vụ, điện thoại, thư điện tử;
+
+c) Mô tả về sự cố: Loại sự cố, hiện tượng, đánh giá sơ bộ mức độ nguy hại, mức độ lây lan, tác động của sự cố đến hoạt động bình thường của tổ chức;
+
+d) Đơn vị cung cấp dịch vụ hạ tầng công nghệ thông tin, viễn thông;
+
+đ) Liệt kê các biện pháp đã triển khai hoặc dự kiến triển khai để xử lý khắc phục sự cố;
+
+e) Các tổ chức, doanh nghiệp đang hỗ trợ ứng cứu, xử lý và kết quả xử lý sự cố tính đến thời điểm báo cáo;
+
+g) Kết quả ứng cứu sự cố ban đầu;
+
+h) Kiến nghị đề xuất hướng ứng cứu xử lý sự cố (nếu có).
+
+5. Nguyên tắc báo cáo, trao đổi thông tin trong ứng cứu sự cố:
+
+a) Đơn vị vận hành hệ thống thông tin báo cáo Chủ quản hệ thống thông tin, đơn vị chuyên trách ứng cứu sự cố cùng cấp, đồng gửi Cơ quan điều phối quốc gia;
+
+b) Đơn vị chuyên trách ứng cứu sự cố báo cáo Chủ quản hệ thống thông tin, Ban Chỉ đạo cấp trên trực tiếp và Cơ quan điều phối quốc gia;
+
+c) Ban Chỉ đạo cấp bộ, tỉnh và cơ quan điều phối quốc gia báo cáo Cơ quan thường trực và Ban Chỉ đạo quốc gia.
+
+Điều 3.1.TT.3.9. Thông báo, báo cáo sự cố an toàn thông tin mạng
+
+(Điều 9 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Các hình thức thông báo, báo cáo sự cố
 
-**Chỉ mục:** 9
+a) Hình thức thông báo sự cố: Bằng công văn, fax, thư điện tử, nhắn tin đa phương tiện hoặc thông qua hệ thống kỹ thuật báo cáo sự cố an toàn thông tin mạng theo hướng dẫn của Cơ quan điều phối quốc gia;
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000110000802630800200000900
+b) Hình thức báo cáo sự cố: Bằng văn bản giấy hoặc văn bản điện tử (có ký tên và đóng dấu hoặc chữ ký số của người có thẩm quyền).
 
-**ID:** dk_00003263
+2. Báo cáo sự cố an toàn thông tin mạng
 
----
+a) Đơn vị, cá nhân vận hành hệ thống thông tin có trách nhiệm chậm nhất 05 ngày kể từ khi phát hiện sự cố phải thông báo các thông tin của sự cố theo nội dung tại Điểm a Khoản 3 Điều này (Thông báo sự cố) tới đồng thời các cơ quan, đơn vị sau: Chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, Đơn vị chuyên trách về ứng cứu sự cố và thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan (nếu có). Tại thời điểm báo cáo, nếu chưa hoàn thành việc xử lý sự cố, đơn vị, cá nhân vận hành hệ thống phải cập nhật lại thông tin của sự cố cho các cơ quan, đơn vị đã nhận thông tin trước đó ngay khi kết thúc việc xử lý sự cố;
 
+b) Trường hợp đơn vị, cá nhân vận hành hệ thống thông tin xác định sự cố có thể vượt khả năng xử lý của mình phải xây dựng ngay Báo cáo ban đầu sự cố, báo cáo Chủ quản hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố chịu trách nhiệm ứng cứu (nếu có) và Cơ quan điều phối quốc gia; sau khi kết thúc ứng cứu sự cố, chậm nhất trong vòng 05 ngày phải hoàn thiện Báo cáo kết thúc ứng phó sự cố để báo cáo Chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia. Cơ quan điều phối quốc gia chỉ ghi nhận sự cố đã hoàn thành ứng cứu sự cố sau khi đã nhận được Báo cáo kết thúc ứng phó sự cố;
 
-### Điều 3.1.QĐ.1.12. Tiếp nhận, phát hiện, phân loại và xử lý ban đầu sự cố an toàn thông tin mạng
+c) Các tổ chức, cá nhân không phải là đơn vị, cá nhân vận hành hệ thống thông tin khi phát hiện dấu hiệu tấn công hoặc sự cố an toàn thông tin mạng cần nhanh chóng thông báo thông tin của sự cố (Thông báo sự cố) tới đồng thời hoặc một trong các cơ quan, đơn vị sau: Đơn vị, cá nhân vận hành hệ thống thông tin Chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan.
+
+3. Các loại thông báo, báo cáo sự cố:
+
+a) Thông báo sự cố, nội dung gồm: Tên, địa chỉ đơn vị, cá nhân thông báo sự cố; tên hoặc tên miền, địa chỉ IP của hệ thống thông tin bị sự cố; tên địa chỉ của đơn vị, cá nhân vận hành và cơ quan chủ quản hệ thống thông tin bị sự cố (nếu biết); mô tả sự cố và thời điểm phát hiện sự cố; kết quả xử lý sự cố đề xuất, kiến nghị và các thông tin liên quan khác (nếu có);
+
+b) Báo cáo ban đầu sự cố, nội dung theo Biểu mẫu số 03 Phụ lục I ban hành kèm theo Thông tư này;
+
+c) Báo cáo diễn biến tình hình;
+
+d) Báo cáo phương án ứng cứu cụ thể;
+
+đ) Báo cáo đề nghị hỗ trợ, phối hợp;
+
+e) Báo cáo kết thúc ứng phó sự cố, nội dung theo Biểu mẫu số 04 Phụ lục I ban hành kèm theo Thông tư này.
+
+4. Trong quá trình ứng cứu sự cố, đơn vị, cá nhân vận hành hệ thống phải chủ trì, phối hợp với các cơ quan, đơn vị liên quan xây dựng và duy trì thực hiện các báo cáo ứng cứu sự cố theo quy định và yêu cầu của cơ quan có thẩm quyền.
+
+Phụ lục I.doc
+
+Điều 3.1.QĐ.1.12. Tiếp nhận, phát hiện, phân loại và xử lý ban đầu sự cố an toàn thông tin mạng
+
+(Điều 12 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố, khi phát hiện sự cố hoặc nhận được thông báo, báo cáo sự cố an toàn thông tin mạng trong phạm vi mình chịu trách nhiệm phải thực hiện:
 
-**Chỉ mục:** 12
+a) Ghi nhận, tiếp nhận thông báo, báo cáo sự cố an toàn thông tin mạng theo đúng quy trình;
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050001200
+b) Thông báo ngay thông tin sự cố đến Cơ quan điều phối quốc gia, đơn vị vận hành hệ thống thông tin, cơ quan chủ quản hệ thống thông tin và các cơ quan chức năng liên quan;
 
-**ID:** dk_00003264
+c) Phản hồi cho tổ chức, cá nhân gửi thông báo, báo cáo ban đầu ngay sau khi nhận được để xác nhận về việc đã nhận được thông báo, báo cáo sự cố;
 
----
+d) Thẩm tra, xác minh và phân loại sự cố an toàn thông tin mạng để lựa chọn phương án ứng cứu phù hợp hoặc đề xuất với Ban chỉ đạo cấp trên trực tiếp và cơ quan điều phối quốc gia trong trường hợp vượt thẩm quyền;
 
+đ) Chủ động hỗ trợ đơn vị vận hành hệ thống thông tin ứng cứu, xử lý sự cố trong khả năng và trách nhiệm của mình;
 
-### Điều 3.1.TT.3.10. Phát hiện, tiếp nhận, xác minh, xử lý ban đầu và phân loại sự cố an toàn thông tin mạng
+e) Giám sát diễn biến tình hình ứng cứu sự cố và báo cáo Ban Chỉ đạo cấp trên trực tiếp và cơ quan điều phối quốc gia; đề xuất, xin ý kiến chỉ đạo trong trường hợp không thuộc thẩm quyền, phạm vi trách nhiệm của mình hoặc vượt khả năng xử lý của mình;
+
+g) Tổng hợp báo cáo Cơ quan điều phối quốc gia theo định kỳ 6 tháng một lần và báo cáo đột xuất khi được yêu cầu.
+
+2. Cơ quan điều phối quốc gia có trách nhiệm:
+
+a) Công khai trên trang tin điện tử của mình số điện thoại, số fax và email đường dây nóng và bảo đảm nguồn lực để duy trì trực đường dây nóng liên tục để kịp thời tiếp nhận và xử lý sự cố;
+
+b) Ghi nhận, tiếp nhận thông báo, báo cáo sự cố an toàn thông tin mạng theo đúng quy trình;
+
+c) Phản hồi cho tổ chức, cá nhân gửi thông báo, báo cáo ban đầu ngay sau khi nhận được để xác nhận về việc đã nhận được thông báo, báo cáo sự cố;
+
+d) Cung cấp đầu mối liên lạc riêng đối với sự cố nghiêm trọng;
+
+đ) Thẩm tra, xác minh và phân loại sự cố để thực hiện các cảnh báo, điều phối lựa chọn phương án, tổ chức ứng cứu và báo cáo; đề xuất với Cơ quan thường trực quyết định sự cố nghiêm trọng và phương án ứng cứu khẩn cấp phù hợp; báo cáo, đề xuất với Cơ quan thường trực và Ban Chỉ đạo quốc gia các vấn đề vượt thẩm quyền;
+
+e) Tổ chức hoạt động phối hợp với các tổ chức ứng cứu sự cố mạng quốc tế để tiếp nhận các cảnh báo sớm, thông tin về sự cố, nguy cơ về mất an toàn thông tin mạng và phối hợp ứng cứu sự cố, tấn công xuyên biên giới;
+
+g) Thực hiện các trách nhiệm khác của Cơ quan điều phối quốc gia.
+
+3. Đơn vị vận hành hệ thống thông tin khi phát hiện hoặc nhận được thông báo sự cố đối với hệ thống thông tin do mình quản lý, phải thực hiện:
+
+a) Ghi nhận, tiếp nhận thông báo, báo cáo sự cố và tập hợp các thông tin liên quan theo đúng quy trình;
+
+b) Phản hồi cho tổ chức, cá nhân gửi thông báo, báo cáo ban đầu ngay sau khi nhận được để xác nhận về việc đã nhận được thông báo, báo cáo sự cố;
+
+c) Chủ trì, phối hợp cùng đơn vị cung cấp dịch vụ an toàn thông tin mạng (nếu có) và các đơn vị chức năng liên quan tiến hành phân tích, xác minh, đánh giá tình hình, sơ bộ phân loại sự cố và triển khai ngay các hoạt động ứng cứu sự cố và báo cáo theo quy định;
+
+d) Báo cáo về sự cố, diễn biến tình hình ứng cứu sự cố, đề xuất hỗ trợ ứng cứu sự cố hoặc nâng cấp nghiêm trọng của sự cố (khi cần) cho chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia và đơn vị chuyên trách ứng cứu sự cố cùng cấp.
+
+Điều 3.1.TT.3.10. Phát hiện, tiếp nhận, xác minh, xử lý ban đầu và phân loại sự cố an toàn thông tin mạng
+
+(Điều 10 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Đơn vị, cá nhân vận hành hệ thống thông tin, có trách nhiệm:
 
-**Chỉ mục:** 10
+a) Khi phát hiện sự cố: Tổ chức theo dõi, ghi chép và tập hợp các thông tin liên quan đến sự cố và tổ chức thông báo hoặc báo cáo sự cố theo quy định tại Điều 9 của Thông tư này;
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000120000802630800200001000
+b) Khi tiếp nhận thông báo sự cố: Phản hồi ngay cho tổ chức, cá nhân gửi thông báo sự cố để xác nhận thông tin;
 
-**ID:** dk_00003265
+c) Xác minh sự cố và xử lý ban đầu: Chủ trì, phối hợp với đơn vị chịu trách nhiệm bảo đảm an toàn thông tin (nếu có), đơn vị chuyên trách về ứng cứu sự cố liên quan và các doanh nghiệp viễn thông, Internet (ISP) để tiến hành phân tích, xác minh, đánh giá sự cố; thực hiện ngay các hoạt động ứng cứu sự cố ban đầu, triển khai quy trình ứng cứu sự cố theo kế hoạch ứng phó sự cố an toàn thông tin mạng đã được cấp thẩm quyền phê duyệt hoặc quy trình tại Điều 11 của Thông tư này; trường hợp xác định sự cố có khả năng là sự cố nghiêm trọng, cần báo cáo ngay với chủ quản hệ thống thông tin, đơn vị chuyên trách về ứng cứu sự cố liên quan để đề xuất nâng cấp sự cố nghiêm trọng, đồng thời gửi Cơ quan điều phối quốc gia.
 
----
+2. Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố, có trách nhiệm:
 
+a) Khi phát hiện sự cố: Thông báo sự cố ngay đến đơn vị, cá nhân vận hành hệ thống thông tin, chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia;
 
-### Điều 3.1.QĐ.1.13. Quy trình ứng cứu sự cố an toàn thông tin mạng thông thường
+b) Khi tiếp nhận thông báo hoặc báo cáo sự cố: Ghi nhận, tiếp nhận đúng quy định và phản hồi cho tổ chức, cá nhân gửi thông báo hoặc báo cáo sự cố ngay sau khi nhận được để xác nhận thông tin;
+
+c) Tổ chức xác minh và xử lý sự cố: Phối hợp với đơn vị, cá nhân vận hành hệ thống thông tin để thẩm tra, xác minh và xử lý sự cố trong khả năng và trách nhiệm của mình; trường hợp xác định sự cố có khả năng vượt qua khả năng xử lý của mình hoặc có khả năng là sự cố nghiêm trọng, cần báo cáo ngay chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia;
+
+d) Giám sát diễn biến tình hình ứng cứu sự cố và báo cáo hoặc đề xuất, xin ý kiến chỉ đạo của chủ quản hệ thống thông tin và Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh trong trường hợp vượt thẩm quyền, phạm vi trách nhiệm của mình hoặc vượt khả năng xử lý của mình;
+
+đ) Tổng hợp, báo cáo Cơ quan điều phối quốc gia về diễn biến sự cố khi được yêu cầu.
+
+3. Cơ quan điều phối quốc gia có trách nhiệm:
+
+a) Ghi nhận, tiếp nhận thông báo, báo cáo sự cố an toàn thông tin mạng theo đúng quy trình;
+
+b) Phản hồi cho tổ chức, cá nhân gửi thông báo, báo cáo sự cố ngay sau khi nhận được để xác nhận thông tin;
+
+c) Thẩm tra, xác minh và phân loại sự cố để thực hiện các cảnh báo, điều phối lựa chọn phương án, tổ chức ứng cứu và báo cáo, đề xuất với Cơ quan thường trực xem xét, quyết định sự cố nghiêm trọng và phương án ứng cứu khẩn cấp phù hợp. Trường hợp phân loại là sự cố nghiêm trọng, Cơ quan điều phối quốc gia chủ trì, phối hợp với các cơ quan liên quan triển khai các bước theo quy trình ứng cứu sự cố nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg;
+
+d) Tổ chức hoạt động phối hợp với các tổ chức ứng cứu sự cố mạng quốc tế để tiếp nhận các cảnh báo sớm, thông tin về sự cố, nguy cơ về mất an toàn thông tin mạng và phối hợp ứng cứu sự cố, tấn công xuyên biên giới;
+
+đ) Thực hiện các trách nhiệm khác của Cơ quan điều phối quốc gia báo cáo đề xuất với Cơ quan thường trực các vấn đề vượt thẩm quyền.
+
+Điều 3.1.QĐ.1.13. Quy trình ứng cứu sự cố an toàn thông tin mạng thông thường
+
+(Điều 13 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Quy trình ứng cứu sự cố an toàn thông tin mạng thông thường theo các văn bản hướng dẫn, quy định của Bộ Thông tin và Truyền thông và Cơ quan điều phối quốc gia.
 
-**Chỉ mục:** 13
+Phụ lục I.doc
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000502612800050001300
+Điều 3.1.TT.3.4. Nguyên tắc điều phối, ứng cứu sự cố
 
-**ID:** dk_00003266
-
----
-
-
-### Điều 3.1.TT.3.4. Nguyên tắc điều phối, ứng cứu sự cố
+(Điều 4 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Tuân thủ các quy định pháp luật về điều phối, ứng cứu sự cố an toàn thông tin mạng.
 
-**Chỉ mục:** 4
+2. Chủ động, kịp thời, nhanh chóng, chính xác, đồng bộ và hiệu quả.
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200000400
+3. Phối hợp chặt chẽ, chính xác, đồng bộ và hiệu quả giữa các cơ quan tổ chức, doanh nghiệp trong nước và nước ngoài.
 
-**ID:** dk_00003267
+4. Ứng cứu sự cố trước hết phải được thực hiện, xử lý bằng lực lượng tại chỗ và trách nhiệm chính của chủ quản hệ thống thông tin.
 
----
+5. Tuân thủ các điều kiện, nguyên tắc ưu tiên về duy trì hoạt động của hệ thống thông tin đã được cấp thẩm quyền phê duyệt trong kế hoạch ứng phó sự cố.
 
+6. Thông tin trao đổi trong mạng lưới phải được kiểm tra, xác thực đối tượng trước khi thực hiện các bước tác nghiệp tiếp theo.
 
-### Điều 3.1.TT.3.8. Hoạt động điều phối ứng cứu sự cố
+7. Bảo đảm bí mật thông tin biết được khi tham gia, thực hiện các hoạt động ứng cứu sự cố theo yêu cầu của Cơ quan điều phối quốc gia hoặc cơ quan tổ chức, cá nhân gặp sự cố.
+
+Điều 3.1.TT.3.8. Hoạt động điều phối ứng cứu sự cố
+
+(Điều 8 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Điều phối ứng cứu sự cố là hoạt động của Cơ quan điều phối quốc gia và cơ quan có thẩm quyền nhằm huy động, điều hành, phối hợp thống nhất các nguồn lực gồm: nhân lực, vật lực (trang thiết bị), tài lực (tài chính, ngân sách) để phòng ngừa, theo dõi, thu thập, phát hiện, cảnh báo sự cố; tiếp nhận, phân tích xác minh, phân loại sự cố; điều hành, phối hợp, tổ chức ứng cứu sự cố, sẵn sàng ứng phó, khắc phục sự cố nhằm giảm thiểu các rủi ro, thiệt hại do sự cố gây ra.
 
-**Chỉ mục:** 8
+2. Cơ quan điều phối quốc gia thực hiện chức năng cảnh báo, điều phối ứng cứu sự cố trên toàn quốc; có quyền huy động, điều phối các thành viên mạng lưới ứng cứu sự cố và các tổ chức, đơn vị liên quan phối hợp ngăn chặn, xử lý, khắc phục sự cố trên toàn quốc; ban hành và chịu trách nhiệm về các lệnh/yêu cầu điều phối theo Biểu mẫu số 06 ban hành kèm theo Thông tư này;
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200000800
+3. Các tác nghiệp của hoạt động điều phối ứng cứu sự cố:
 
-**ID:** dk_00003268
+a) Theo dõi, phân tích, phát hiện, cảnh báo các nguy cơ, đe dọa, lỗ hổng, sự cố, tấn công mạng và các giải pháp phòng ngừa sự cố;
 
----
+b) Xây dựng, đề xuất phương án, kế hoạch ứng phó với sự cố;
 
+c) Tổ chức huấn luyện, diễn tập ứng cứu sự cố, bảo đảm an toàn thông tin mạng;
 
-### Điều 3.1.TT.3.11. Quy trình ứng cứu sự cố an toàn thông tin mạng
+d) Điều hành, huy động các nguồn lực để ứng cứu sự cố theo thẩm quyền; cung cấp các hỗ trợ kỹ thuật và thực hiện các biện pháp để đối phó, phòng chống tấn công mạng;
+
+đ) Điều tra, phân tích, xác định nguồn gốc, cách thức, phương pháp tấn công để đối phó, ngăn chặn, đồng thời cảnh báo và hướng dẫn để ngăn ngừa sự cố lây lan diện rộng; thu thập, xây dựng báo cáo tổng hợp sự cố;
+
+e) Chia sẻ, trao đổi, cung cấp thông tin giữa các cơ quan, tổ chức có trách nhiệm liên quan về ứng cứu sự cố, hoạt động điều phối ứng cứu sự cố và quá trình xử lý sự cố;
+
+g) Các hoạt động khác liên quan đến ứng cứu sự cố theo quyết định Bộ Thông tin và Truyền thông.
+
+4. Hình thức trao đổi thông tin về điều phối ứng cứu sự cố được thực hiện bằng một hoặc nhiều hình thức như: Công văn, thư điện tử, điện thoại, fax, nhắn tin đa phương tiện hoặc hệ thống kỹ thuật truyền thông tiên tiến; và đảm bảo tuân thủ theo các quy định pháp luật liên quan khi trao đổi thông tin mật.
+
+Điều 3.1.TT.3.11. Quy trình ứng cứu sự cố an toàn thông tin mạng
+
+(Điều 11 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 Quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại Phụ lục II cụ thể gồm:
 
-**Chỉ mục:** 11
+1. Tiếp nhận, phân tích, ứng cứu ban đầu và thông báo sự cố
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200001100
+a) Tiếp nhận, xác minh sự cố
 
-**ID:** dk_00003269
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin.
 
----
+Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, Cơ quan điều phối quốc gia.
 
+Nội dung thực hiện: Theo dõi, tiếp nhận, phân tích các cảnh báo, dấu hiệu sự cố từ các nguồn bên trong và bên ngoài. Khi phân tích, xác minh sự cố đã xảy ra, cần tổ chức ghi nhận, thu thập chứng cứ, xác định nguồn gốc sự cố.
 
-### Điều 3.1.TT.5.44. Quy trình xử lý sự cố
+b) Triển khai các bước ưu tiên ứng cứu ban đầu
 
-Tổ chức quản lý sự cố như sau:
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin.
 
-**Chỉ mục:** 44
+Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan và Cơ quan điều phối quốc gia.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000802665100180004400
+Nội dung: Sau khi đã xác định sự cố xảy ra, đơn vị, cá nhân vận hành hệ thống thông tin căn cứ vào bản chất, dấu hiệu của sự cố tổ chức triển khai các bước ưu tiên ban đầu để xử lý sự cố theo kế hoạch ứng phó sự cố đã được cấp thẩm quyền phê duyệt hoặc theo hướng dẫn của Đơn vị chuyên trách về ứng cứu sự cố liên quan hoặc Cơ quan điều phối quốc gia.
 
-**ID:** dk_00003270
+c) Triển khai lựa chọn phương án ứng cứu
 
----
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin.
 
+Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia.
 
-### Điều 3.1.TT.5.45. Kiểm soát và khắc phục sự cố
+Nội dung thực hiện: Căn cứ theo kế hoạch ứng phó sự cố đã được cấp thẩm quyền phê duyệt hoặc theo hướng dẫn của Đơn vị chuyên trách về ứng cứu sự cố hoặc Cơ quan điều phối quốc gia để lựa chọn phương án ngăn chặn và xử lý sự cố; báo cáo, đề xuất Chủ quản hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh xin ý kiến chỉ đạo nếu cần.
 
-Tổ chức kiểm soát và khắc phục sự cố như sau:
+d) Chỉ đạo xử lý sự cố (nếu cần)
 
-**Chỉ mục:** 45
+Đơn vị chủ trì: Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000802665100180004500
+Đơn vị phối hợp: Chủ quản hệ thống thông tin.
 
-**ID:** dk_00003271
+Nội dung thực hiện: Căn cứ theo báo cáo, đề xuất của Đơn vị, cá nhân vận hành hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh phối hợp với chủ quản hệ thống thông tin và tham khảo ý kiến Cơ quan điều phối quốc gia (nếu cần) thực hiện chỉ đạo Đơn vị chuyên trách về ứng cứu sự cố, triệu tập Đội/bộ phận ứng cứu sự cố thuộc phạm vi quản lý triển khai công tác ứng cứu, xử lý sự cố; chỉ đạo, phân công hoạt động phát ngôn, cung cấp thông tin. Trong quá trình ứng cứu, tùy thuộc vào diễn biến tình hình thực tế, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh có thể quyết định bổ sung thành phần tham gia Đội/bộ phận ứng cứu sự cố, chỉ đạo điều chỉnh phương án ứng cứu sự cố.
 
----
+đ) Báo cáo sự cố
 
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin.
 
-### Điều 3.1.TT.5.46. Trung tâm điều hành an ninh mạng
+Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố liên quan/chịu trách nhiệm, các doanh nghiệp viễn thông, Internet (ISP).
 
-Trung tâm điều hành an ninh mạng thực hiện các nhiệm vụ sau:
+Nội dung thực hiện: Sau khi đã triển khai các bước ưu tiên ứng cứu ban đầu, Đơn vị vận hành hệ thống thông tin tổ chức thông báo, báo cáo sự cố đến các tổ chức, cá nhân liên quan bên trong và bên ngoài cơ quan tổ chức theo quy định tại Điều 9 Thông tư này và quy định nội bộ (nếu có).
 
-**Chỉ mục:** 46
+e) Điều phối công tác ứng cứu
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000802665100180004600
+Đơn vị chủ trì: Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh; Cơ quan điều phối quốc gia.
 
-**ID:** dk_00003272
+Đơn vị phối hợp: Đơn vị, cá nhân vận hành hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan.
 
----
+Nội dung thực hiện: Căn cứ vào tính chất sự cố, đề nghị hỗ trợ của Đơn vị, cá nhân vận hành hệ thống thông tin và Đơn vị chuyên trách về ứng cứu sự cố, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh và Cơ quan điều phối quốc gia thực hiện công tác điều phối, giám sát cơ chế phối hợp, chia sẻ thông tin theo phạm vi, chức năng, nhiệm vụ của mình để huy động nguồn lực ứng cứu sự cố.
 
+2. Triển khai ứng cứu, ngăn chặn và xử lý sự cố
 
-### Điều 3.1.TT.5.47. Hoạt động ứng cứu sự cố an ninh mạng
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin; Đội/bộ phận ứng cứu sự cố.
 
-1. Mạng lưới ứng cứu sự cố an ninh mạng trong ngành Ngân hàng (Mạng lưới) có nhiệm vụ phối hợp các nguồn lực trong và ngoài ngành ứng phó hiệu quả sự cố an ninh mạng, góp phần bảo đảm hệ thống ngân hàng hoạt động an toàn.
+Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia.
 
-**Chỉ mục:** 47
+Nội dung thực hiện:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000130000000000000000000802665100180004700
+a) Triển khai thu thập chứng cứ, phân tích, xác định phạm vi, đối tượng bị ảnh hưởng.
 
-**ID:** dk_00003273
+b) Triển khai phân tích, xác định nguồn gốc tấn công, tổ chức ứng cứu và ngăn chặn, giảm thiểu tác động, thiệt hại đến hệ thống thông tin.
 
----
+3. Xử lý sự cố, gỡ bỏ và khôi phục
 
+a) Xử lý sự cố, gỡ bỏ
 
-### Điều 3.1.LQ.14. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin; Đội/bộ phận ứng cứu sự cố.
+
+Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố; Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia.
+
+Nội dung thực hiện: Sau khi đã triển khai ngăn chặn sự cố, đơn vị, cá nhân vận hành hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố, Đội/bộ phận ứng cứu sự cố triển khai tiêu diệt, gỡ bỏ các mã độc, phần mềm độc hại khắc phục các điểm yếu an toàn thông tin của hệ thống thông tin.
+
+b) Khôi phục
+
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin;.
+
+Đơn vị phối hợp: Đội/bộ phận ứng cứu sự cố, Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia.
+
+Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống chủ trì phối hợp với các đơn vị liên quan triển khai các hoạt động khôi phục hệ thống thông tin dữ liệu và kết nối; cấu hình hệ thống an toàn; bổ sung các thiết bị, phần cứng phần mềm bảo đảm an toàn thông tin cho hệ thống thông tin.
+
+c) Kiểm tra, đánh giá hệ thống thông tin
+
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin.
+
+Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia.
+
+Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống và các đơn vị liên quan triển khai kiểm tra, đánh giá hoạt động của toàn bộ hệ thống thông tin sau khi khắc phục sự cố. Trường hợp hệ thống chưa hoạt động ổn định, cần tiếp tục tổ chức thu thập, xác minh lại nguyên nhân và tổ chức các bước tương ứng tại Khoản 2 và Khoản 3 của Điều này để xử lý dứt điểm, khôi phục hoạt động bình thường của hệ thống thông tin.
+
+4. Tổng kết, đánh giá
+
+Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin.
+
+Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố; Đội/bộ phận ứng cứu sự cố; Chủ quản hệ thống thông tin; Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh; Cơ quan điều phối quốc gia.
+
+Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống bị sự cố phối hợp với Đơn vị chuyên trách về ứng cứu sự cố và Đội/bộ phận ứng cứu sự cố triển khai tổng hợp toàn bộ các thông tin, báo cáo, phân tích có liên quan đến sự cố, công tác triển khai phương án ứng cứu sự cố, báo cáo Chủ quản hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh và Cơ quan điều phối quốc gia; tổ chức phân tích nguyên nhân, rút kinh nghiệm trong hoạt động xử lý sự cố và đề xuất các biện pháp bổ sung nhằm phòng ngừa, ứng cứu đối với các sự cố tương tự trong tương lai.
+
+Phụ lục II.doc
+
+Điều 3.1.TT.5.44. Quy trình xử lý sự cố
+
+(Điều 44 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Tổ chức quản lý sự cố như sau:
+
+ 1. Ban hành quy trình xử lý sự cố an toàn thông tin bao gồm những nội dung tối thiểu sau:
+
+ a) Tiếp nhận thông tin về sự cố phát sinh;
+
+ b) Đánh giá mức độ, phạm vi ảnh hưởng của sự cố đến hoạt động của hệ thống thông tin. Tùy theo mức độ, phạm vi ảnh hưởng của sự cố phải báo cáo đến các cấp quản lý tương ứng để chỉ đạo xử lý;
+
+ c) Thực hiện các biện pháp xử lý, khắc phục sự cố;
+
+ d) Ghi nhận hồ sơ và báo cáo kết quả xử lý sự cố.
+
+ 2. Quy định trách nhiệm của cá nhân, tập thể trong việc báo cáo, tiếp nhận, xử lý các sự cố an toàn thông tin.
+
+ 3. Xây dựng các mẫu biểu để ghi nhận, lưu trữ hồ sơ xử lý sự cố.Điều 3.1.TT.5.45. Kiểm soát và khắc phục sự cố
+
+(Điều 45 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Tổ chức kiểm soát và khắc phục sự cố như sau:
+
+ 1. Lập danh sách sự cố an toàn thông tin và phương án xử lý sự cố đối với các hệ thống thông tin từ mức độ 2 trở lên; tối thiểu 6 tháng một lần thực hiện rà soát, cập nhật danh sách, phương án ứng cứu sự cố.
+
+ 2. Lập tức báo cáo đến cấp có thẩm quyền và những người có liên quan khi phát sinh sự cố an toàn thông tin để có biện pháp khắc phục trong thời gian sớm nhất.
+
+ 3. Trong quá trình kiểm tra, xử lý, khắc phục sự cố thu thập, ghi chép, bảo vệ chứng cứ và lưu trữ tại tổ chức.
+
+ 4. Đánh giá xác định nguyên nhân và thực hiện các biện pháp phòng ngừa tránh sự cố tái diễn sau khi khắc phục sự cố,.
+
+ 5. Trong trường hợp sự cố an toàn thông tin có liên quan đến các vi phạm pháp luật, tổ chức có trách nhiệm thu thập và cung cấp chứng cứ cho cơ quan có thẩm quyền đúng theo quy định của pháp luật.Điều 3.1.TT.5.46. Trung tâm điều hành an ninh mạng
+
+(Điều 46 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Trung tâm điều hành an ninh mạng thực hiện các nhiệm vụ sau:
+
+ 1. Chủ động theo dõi, thu thập, tiếp nhận các thông tin, cảnh báo về các nguy cơ, rủi ro an toàn thông tin từ bên trong và bên ngoài.
+
+ 2. Xây dựng hệ thống quản lý và phân tích sự kiện an toàn thông tin (SIEM), thực hiện thu thập và lưu trữ tập trung tối thiểu các thông tin: nhật ký của các hệ thống thông tin từ mức độ 2 trở lên; cảnh báo, nhật ký của trang thiết bị an ninh mạng (tường lửa, IPS/IDS).
+
+ 3. Phân tích thông tin để phát hiện và cảnh báo về các rủi ro và các nguy cơ tấn công mạng, sự cố an ninh mạng và phải gửi cảnh báo đến người quản trị hệ thống khi phát hiện sự cố liên quan đến các hệ thống: (i) Hệ thống thông tin phục vụ khách hàng yêu cầu hoạt động 24/7; (ii) Hệ thống cung cấp giao dịch trực tuyến; (iii) Hệ thống thông tin mức độ 3.
+
+ 4. Tổ chức điều phối ứng cứu sự cố và khoanh vùng, ngăn chặn, giảm thiểu tác động, thiệt hại đến hệ thống thông tin khi sự cố phát sinh.
+
+ 5. Điều tra, xác định nguồn gốc, cách thức, phương pháp tấn công và thực hiện các biện pháp phòng ngừa tránh sự số tái diễn.
+
+ 6. Cung cấp thông tin theo yêu cầu của Ngân hàng Nhà nước để phục vụ giám sát an ninh mạng ngành Ngân hàng.Điều 3.1.TT.5.47. Hoạt động ứng cứu sự cố an ninh mạng
+
+(Điều 47 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Mạng lưới ứng cứu sự cố an ninh mạng trong ngành Ngân hàng (Mạng lưới) có nhiệm vụ phối hợp các nguồn lực trong và ngoài ngành ứng phó hiệu quả sự cố an ninh mạng, góp phần bảo đảm hệ thống ngân hàng hoạt động an toàn.
+
+ 2. Mạng lưới bao gồm:
+
+ a) Ban điều hành mạng lưới do Thống đốc Ngân hàng Nhà nước thành lập;
+
+ b) Cơ quan điều phối là Cục Công nghệ thông tin (Ngân hàng Nhà nước);
+
+ c) Các thành viên mạng lưới: Cục Công nghệ thông tin (Ngân hàng Nhà nước), tổ chức tín dụng (bộ phận chuyên trách an toàn thông tin) và thành viên tự nguyện tham gia mạng lưới là các cơ quan, tổ chức tự nguyện tham gia.
+
+ 3. Nguyên tắc trong hoạt động điều phối và ứng cứu sự cố
+
+ a) Các tổ chức theo quy định tại điểm c khoản 2 Điều này phải có trách nhiệm cung cấp nguồn lực và tham gia làm thành viên mạng lưới;
+
+ b) Khi gặp sự cố an ninh mạng, các thành viên phải báo cáo Cơ quan điều phối theo quy định tại khoản 1 Điều 53 Thông tư này;
+
+ c) Khi gặp sự cố nghiêm trọng không tự khắc phục được, các thành viên phải gửi yêu cầu hỗ trợ đến Cơ quan điều phối;
+
+ d) Căn cứ vào từng sự cố, Cơ quan điều phối sẽ đề nghị các thành viên mạng lưới hỗ trợ hoặc các cơ quan nhà nước có thẩm quyền hỗ trợ, ứng cứu.
+
+ 4. Nguyên tắc quản lý, sử dụng thông tin trong hoạt động điều phối và ứng cứu sự cố:
+
+ a) Thông tin được trao đổi, cung cấp trong quá trình điều phối và ứng cứu sự cố là thông tin bí mật;
+
+ b) Nghiêm cấm tổ chức, cá nhân sử dụng thông tin trao đổi trong quá trình điều phối và ứng cứu sự cố để làm ảnh hưởng đến uy tín, hình ảnh của tổ chức cung cấp thông tin.Điều 3.1.LQ.14. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+
+(Điều 14 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia là hoạt động ứng cứu sự cố trong tình huống thảm họa hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền nhằm bảo đảm an toàn thông tin mạng quốc gia.
 
-**Chỉ mục:** 14
+2. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia phải tuân thủ các nguyên tắc sau đây:
 
-**Mã phân cấp:** 030010000000000020000010000000000000000001400000000000000000
+a) Tổ chức thực hiện theo phân cấp;
 
-**ID:** dk_00003274
+b) Thực hiện tại chỗ, nhanh chóng, nghiêm ngặt, phối hợp chặt chẽ;
 
----
+c) Áp dụng các biện pháp kỹ thuật, bảo đảm hiệu quả, khả thi.
 
+3. Hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia gồm:
 
-### Điều 3.1.QĐ.1.3. Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng
+a) Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia;
+
+b) Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội;
+
+c) Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng của địa phương;
+
+d) Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng của doanh nghiệp viễn thông.
+
+4. Trách nhiệm bảo đảm an toàn thông tin mạng quốc gia được quy định như sau:
+
+a) Thủ tướng Chính phủ quyết định hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia;
+
+b) Bộ Thông tin và Truyền thông có trách nhiệm chủ trì điều phối công tác ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia;
+
+c) Bộ, ngành, Ủy ban nhân dân các cấp và cơ quan, tổ chức có liên quan trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp, chỉ đạo ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia;
+
+d) Doanh nghiệp viễn thông có trách nhiệm thực hiện biện pháp ứng cứu khẩn cấp, phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành, Ủy ban nhân dân các cấp có liên quan để bảo đảm an toàn thông tin mạng quốc gia.
+
+Điều 3.1.QĐ.1.3. Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng
+
+(Điều 3 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Ban Chỉ đạo an toàn thông tin quốc gia đảm nhiệm chức năng Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng (sau đây gọi là Ban Chỉ đạo quốc gia).
 
-**Chỉ mục:** 3
+2. Ban Chỉ đạo quốc gia có trách nhiệm chỉ đạo Bộ Thông tin và Truyền thông Bộ Công an, Bộ Quốc phòng và các bộ, ngành, địa phương liên quan trong công tác ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000300
+Điều 3.1.QĐ.1.4. Cơ quan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
 
-**ID:** dk_00003275
-
----
-
-
-### Điều 3.1.QĐ.1.4. Cơ quan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+(Điều 4 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Bộ Thông tin và Truyền thông là cơ quan thường trực, giúp việc cho Ban Chỉ đạo quốc gia (sau đây gọi là Cơ quan thường trực) có nhiệm vụ, quyền hạn cụ thể sau:
 
-**Chỉ mục:** 4
+a) Quyết định lựa chọn phương án ứng cứu và chủ trì, chỉ đạo công tác ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia;
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000400
+b) Chỉ đạo Cơ quan điều phối quốc gia tiếp nhận, thu thập, xử lý thông tin, báo cáo về sự cố mất an toàn thông tin mạng quốc gia và đề xuất phương án ứng cứu;
 
-**ID:** dk_00003276
+c) Triệu tập, chỉ đạo Bộ phận tác nghiệp ứng cứu sự cố an toàn thông tin mạng quốc gia theo đề xuất của Cơ quan điều phối quốc gia; chỉ đạo, phân công nhiệm vụ cho các đơn vị chuyên trách về ứng cứu sự cố, các thành viên mạng lưới ứng cứu để triển khai phương án ứng cứu;
 
----
+d) Làm đầu mối hoặc chỉ định Cơ quan điều phối làm đầu mối quốc gia phối hợp với các đơn vị chức năng của các quốc gia khác hoặc các tổ chức quốc tế trong hoạt động ứng cứu, xử lý các sự cố liên quốc gia;
 
+đ) Kiểm tra, giám sát, đôn đốc việc chấp hành của các đơn vị liên quan, báo cáo Ban Chỉ đạo quốc gia về công tác ứng cứu khẩn cấp sự cố an toàn thông tin mạng quốc gia.
 
-### Điều 3.1.TT.3.3. Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc
+2. Trường hợp cần thiết, Bộ Thông tin và Truyền thông chủ trì thành lập Ban điều phối ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Ban điều phối ứng cứu quốc gia), với thành phần gồm: 01 lãnh đạo Bộ Thông tin và Truyền thông làm Trưởng ban, Cơ quan điều phối quốc gia làm thường trực và thành viên là các lãnh đạo cấp Cục, Vụ của một số bộ ngành, tổ chức có liên quan.
+
+Điều 3.1.TT.3.3. Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc
+
+(Điều 3 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc là các cơ quan, tổ chức, đơn vị thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng quốc gia được quy định tại Quyết định số 05/2017/QĐ-TTg. Các cơ quan, tổ chức tham gia hoạt động điều phối, ứng cứu sự cố trên toàn quốc gồm:
 
-**Chỉ mục:** 3
+1. Bộ Thông tin và Truyền thông - Cơ quan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Cơ quan thường trực quốc gia) và Ban điều phối ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Ban điều phối ứng cứu quốc gia); Trung tâm Điều 3.1.QĐ.1.5. Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân đân các tỉnh, thành phố trực thuộc trung ương
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000014000000000000000000050261280005000040000802630800200000300
-
-**ID:** dk_00003277
-
----
-
-
-### Điều 3.1.QĐ.1.5. Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân đân các tỉnh, thành phố trực thuộc trung ương
+(Điều 5 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Ban Chỉ đạo ứng dụng công nghệ thông tin của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương đảm nhiệm chức năng Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng trong phạm vi địa bàn, lĩnh vực mình phụ trách (sau đây gọi là Ban Chỉ đạo cấp bộ, tỉnh).
 
-**Chỉ mục:** 5
+Trong trường hợp chưa có Ban Chỉ đạo ứng dụng công nghệ thông tin hoặc điều kiện đặc thù cần thiết, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh xem xét thành lập Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng trong phạm vi bộ, ngành, địa phương mình do 1 lãnh đạo bộ hoặc lãnh đạo Ủy ban nhân dân cấp tỉnh trực tiếp chỉ đạo.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000500
+2. Trách nhiệm, quyền hạn của Ban chỉ đạo cấp bộ, tỉnh:
 
-**ID:** dk_00003278
+a) Chỉ đạo công tác điều phối, ứng cứu sự cố trong phạm vi ngành, lĩnh vực, địa phương mình; chỉ đạo các cơ quan, đơn vị trực thuộc phối hợp, tuân thủ yêu cầu của Cơ quan điều phối quốc gia trong điều phối, ứng cứu sự cố;
 
----
+b) Triệu tập, chỉ đạo Đội ứng cứu sự cố hoặc Bộ phận tác nghiệp ứng cứu sự cố an toàn thông tin mạng cùng cấp theo đề xuất của đơn vị chuyên trách ứng cứu sự cố;
 
+c) Báo cáo tình hình và xin ý kiến của Ban Chỉ đạo quốc gia qua Cơ quan thường trực về các vấn đề phát sinh vượt thẩm quyền trong quá trình thực hiện nhiệm vụ; chịu sự chỉ đạo, điều hành của Ban Chỉ đạo quốc gia qua Cơ quan thường trực và Cơ quan điều phối quốc gia.
 
-### Điều 3.1.QĐ.1.8. Bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+Điều 3.1.QĐ.1.8. Bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+
+(Điều 8 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Bộ phận tác nghiệp ứng cứu khẩn cấp) do Cơ quan thường trực triệu tập và chịu sự điều hành của Cơ quan thường trực với sự tham gia của các đơn vị sau:
 
-**Chỉ mục:** 8
+a) Cơ quan điều phối quốc gia (Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam VNCERT - thường trực);
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000800
+b) Cục An toàn thông tin, Bộ Thông tin và Truyền thông;
 
-**ID:** dk_00003279
+c) Cục An ninh mạng, Cục Cảnh sát phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an;
 
----
+d) Cục Công nghệ thông tin, Bộ Tổng tham mưu, Bộ Quốc phòng;
 
+đ) Một số đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh, doanh nghiệp viễn thông, Internet, chủ quản hệ thống thông tin quan trọng quốc gia.
 
-### Điều 3.1.QĐ.1.9. Phân nhóm sự cố an toàn thông tin mạng
+2. Quyền hạn của Bộ phận tác nghiệp ứng cứu khẩn cấp
+
+a) Sử dụng các biện pháp nghiệp vụ, trang thiết bị, phương tiện kỹ thuật và các biện pháp khác theo chức năng nhiệm vụ được giao và tuân thủ quy định của pháp luật;
+
+b) Yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin, tài liệu, thiết bị khi có căn cứ xác định liên quan đến sự cố nhằm phục vụ hoạt động ứng cứu;
+
+c) Kiểm tra hệ thống thông tin của cơ quan, tổ chức, cá nhân khi có căn cứ xác định liên quan đến sự cố nhằm phục vụ hoạt động ứng cứu;
+
+d) Yêu cầu cơ quan, tổ chức, doanh nghiệp viễn thông, Internet có liên quan phối hợp thực hiện các công việc cần thiết cho hoạt động ứng cứu, khắc phục sự cố.
+
+3. Cơ chế phối hợp và chia sẻ thông tin giữa các đơn vị tham gia bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia theo quy định của pháp luật và quyết định của Thủ tướng Chính phủ.
+
+Điều 3.1.QĐ.1.9. Phân nhóm sự cố an toàn thông tin mạng
+
+(Điều 9 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Sự cố an toàn thông tin mạng nghiêm trọng là sự cố đáp ứng đồng thời các tiêu chí sau:
 
-**Chỉ mục:** 9
+1. Hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 4, cấp độ 5 hoặc thuộc Danh mục hệ thống thông tin quan trọng quốc gia và bị một trong số các sự cố sau:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050000900
+a) Hệ thống bị gián đoạn dịch vụ;
 
-**ID:** dk_00003280
+b) Dữ liệu tuyệt mật hoặc bí mật nhà nước có khả năng bị tiết lộ;
 
----
+c) Dữ liệu quan trọng của hệ thống không bảo đảm tính toàn vẹn và không có khả năng khôi phục được;
 
+d) Hệ thống bị mất quyền điều khiển;
 
-### Điều 3.1.QĐ.1.10. Hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+đ) Sự cố có khả năng xảy ra trên diện rộng hoặc gây ra các ảnh hưởng dây chuyền, làm tổn hại cho các hệ thống thông tin cấp độ 4 hoặc cấp độ 5 khác.
+
+2. Chủ quản hệ thống thông tin không đủ khả năng tự kiểm soát, xử lý được sự cố.
+
+Điều 3.1.QĐ.1.10. Hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+
+(Điều 10 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia là phương án ứng cứu cho sự cố an toàn thông tin mạng nghiêm trọng đáp ứng các tiêu chí tại Điều 9 và hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 5 hoặc, thuộc Danh mục Hệ thống thông tin quan trọng quốc gia.
 
-**Chỉ mục:** 10
+2. Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội là phương án ứng cứu cho sự cố an toàn thông tin mạng nghiêm trọng đáp ứng các tiêu chí tại Điều 9; hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 4 và chủ quản hệ thống thông tin thuộc các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương (gọi chung là cơ quan trung ương).
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001000
+3. Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng của địa phương là phương án ứng cứu cho sự cố an toàn thông tin mạng nghiêm trọng đáp ứng các tiêu chí tại Điều 9, hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 4 và chủ quản hệ thống thông tin thuộc Ủy ban nhân dân hoặc Tỉnh ủy, Thành ủy các tỉnh, thành phố trực thuộc trung ương quản lý (gọi chung là cơ quan địa phương).
 
-**ID:** dk_00003281
+4. Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng của doanh nghiệp là phương án ứng cứu cho sự cố an toàn thông tin mạng nghiêm trọng đáp ứng các tiêu chí tại Điều 9, hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 4 và chủ quản hệ thống thông tin là doanh nghiệp viễn thông, doanh nghiệp nhà nước có quản lý các hệ thống thông tin từ cấp độ 4 trở lên, hoặc tổ chức, doanh nghiệp có quản lý hệ thống thông tin thuộc Danh mục Hệ thống thông tin quan trọng quốc gia (sau đây gọi chung là doanh nghiệp quản lý hạ tầng thông tin quan trọng).
 
----
+Điều 3.1.QĐ.1.14. Quy trình ứng cứu sự cố an toàn thông tin mạng nghiêm trọng
 
-
-### Điều 3.1.QĐ.1.14. Quy trình ứng cứu sự cố an toàn thông tin mạng nghiêm trọng
+(Điều 14 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Quy trình ứng cứu khẩn cấp sự cố an toàn thông tin mạng nghiêm trọng sau đây được sử dụng chung cho cả bốn phương án ứng cứu khẩn cấp nêu trong Điều 10 Quyết định này, cụ thể bao gồm các bước sau:
 
-**Chỉ mục:** 14
+1. Phát hiện hoặc tiếp nhận sự cố
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001400
+Đơn vị chủ trì: Đơn vị vận hành hệ thống thông tin; Cơ quan điều phối quốc gia.
 
-**ID:** dk_00003282
+Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố; Chủ quản hệ thống thông tin.
 
----
+Nội dung thực hiện: Đơn vị vận hành hệ thống thông tin chịu trách nhiệm liên tục theo dõi, phát hiện các tấn công, sự cố đối với hệ thống mình được giao quản lý, vận hành. Cơ quan điều phối quốc gia là đơn vị đầu mối tổ chức các hoạt động theo dõi, giám sát, phát hiện các sự cố và tiếp nhận thông báo về sự cố an toàn thông tin mạng từ các nguồn khác nhau.
 
+2. Xác minh, phân tích, đánh giá và phân loại sự cố
 
-### Điều 3.1.QĐ.1.15. Trưng dụng tài sản và đình chỉ phương tiện thông tin phục vụ ứng cứu khẩn cấp sự cố an toàn thông tin mạng quốc gia
+Đơn vị chủ trì: Cơ quan điều phối quốc gia.
+
+Đơn vị phối hợp: Chủ quản hệ thống thông tin; Đơn vị chuyên trách về ứng cứu sự cố; Đơn vị vận hành hệ thống thông tin.
+
+Nội dung thực hiện:
+
+a) Cơ quan điều phối quốc gia phối hợp cùng chủ quản hệ thống thông tin (hoặc đơn vị được ủy quyền như đơn vị chuyên trách về ứng cứu sự cố hoặc đơn vị vận hành hệ thống thông tin) xác minh sự cố bao gồm các thông tin sau: Tình trạng sự cố; mức độ sự cố; phạm vi ảnh hưởng của sự cố; đối tượng, địa điểm xảy ra sự cố.
+
+b) Sau khi xác minh được sự cố, Cơ quan điều phối quốc gia có trách nhiệm phân loại sự cố và triển khai tiếp như sau:
+
+- Trường hợp sự cố được phân loại thông thường (không đạt các tiêu chí quy định tại Điều 9 Quyết định này) thì Cơ quan điều phối quốc gia thông báo cho các bên liên quan để tiếp tục triển khai theo phương án ứng cứu sự cố an toàn thông tin mạng thông thường;
+
+- Trường hợp sự cố được phân loại nghiêm trọng (đạt các tiêu chí quy định tại Điều 9 Quyết định này) thì Cơ quan điều phối quốc gia báo cáo Cơ quan thường trực về sự cố nghiêm trọng cùng với các đề xuất: Phương án ứng cứu; các đơn vị tham gia lực lượng ứng cứu; nguồn lực cần thiết để ứng cứu sự cố; dự kiến triệu tập bộ phận tác nghiệp ứng cứu khẩn cấp và thực hiện tiếp theo khoản 3 Điều này.
+
+3. Cơ quan thường trực quyết định lựa chọn phương án và triệu tập các thành viên của bộ phận tác nghiệp ứng cứu khẩn cấp.
+
+Đơn vị chủ trì: Cơ quan thường trực.
+
+Nội dung thực hiện:
+
+a) Cơ quan thường trực căn cứ theo báo cáo của Cơ quan điều phối quốc gia xem xét quyết định lựa chọn phương án ứng cứu khẩn cấp quốc gia và triệu tập bộ phạn tác nghiệp ứng cứu khẩn cấp để ứng cứu, xử lý sự cố. Tùy theo tình hình thực tế, bộ phận tác nghiệp ứng cứu khẩn cấp được huy động từ số các đơn vị theo quy định tại Điều 8 Quyết định này phù hợp với phương án ứng cứu được lựa chọn và đặc thú của sự cố.
+
+b) Nguyên tắc phân công nhiệm vụ triển khai các biện pháp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia như sau:
+
+- Chỉ đạo điều hành hoạt động ứng cứu và giám sát cơ chế phối hợp, chia sẻ thông tin: Bộ Thông tin và Truyền thông, Ban điều phối ứng cứu quốc gia;
+
+- Thu thập, tổng hợp thông tin và chia sẻ, báo cáo: Cơ quan điều phối quốc gia, chủ quản hệ thống thông tin (qua đơn vị vận hành hệ thống thông tin và đơn vị chuyên trách ứng cứu sự cố);
+
+- Phân tích thông tin: Cơ quan điều phối quốc gia, đơn vị vận hành hệ thống thông tin, đơn vị chuyên trách ứng cứu sự cố và các đơn vị tham gia tác nghiệp ứng cứu khẩn cấp;
+
+- Ngăn chặn, xử lý sự cố: Đơn vị vận hành hệ thống thông tin, đơn vị chuyên trách ứng cứu sự cố, Cơ quan điều phối quốc gia và các đơn vị tham gia tác nghiệp ứng cứu khẩn cấp;
+
+- Khắc phục, gỡ bỏ, khôi phục dữ liệu và hoạt động bình thường: Chủ quản hệ thống thông tin, các đơn vị được chủ quản hệ thống thông tin lựa chọn;
+
+- Xử lý hậu quả: Chủ quản hệ thống thông tin, các đơn vị tham gia tác nghiệp ứng cứu khẩn cấp;
+
+- Công bố và xử lý khủng hoảng thông tin: Cơ quan thường trực, Cơ quan điều phối quốc gia.
+
+4. Triển khai phương án ứng cứu ban đầu
+
+Đơn vị chủ trì: Cơ quan điều phối quốc gia, Chủ quản hệ thống thông tin.
+
+Nội dung thực hiện: Cơ quan điều phối quốc gia nhanh chóng phối hợp với chủ quản hệ thống thông tin tiến hành ngay các biện pháp ứng cứu ban đầu, bao gồm:
+
+a) Xác định phạm vi, đối tượng, mục tiêu cần ứng cứu:
+
+- Các sự cố liên quan đã xảy ra;
+
+- Đối tượng đang bị ảnh hưởng;
+
+- Phạm vi bị ảnh hưởng;
+
+- Các mục tiêu ưu tiên trong khắc phục sự cố (khôi phục hoạt động, bảo đảm bí mật dữ liệu; bảo đảm tính toàn vẹn dữ liệu);
+
+- Diễn biến tình hình và phương thức thủ đoạn tấn công;
+
+- Dự đoán các diễn biến tiếp theo có thể xảy ra.
+
+b) Điều phối các hoạt động ứng cứu ban đầu: Cơ quan thường trực chỉ đạo Cơ quan điều phối quốc gia thực hiện điều phối và chia sẻ thông tin, tài liệu liên quan đến tình huống ứng cứu cho các thành viên tham gia theo chức năng, nhiệm vụ được giao.
+
+c) Cảnh báo sự cố trên mạng lưới ứng cứu quốc gia: Cơ quan điều phối quốc gia thực hiện cảnh báo cho các thành viên mạng lưới và các đối tượng có liên quan hoặc có khả năng xảy ra các sự cố tương tự.
+
+d) Tiến hành các biện pháp khôi phục tạm thời:
+
+Căn cứ vào mục tiêu được ưu tiên trong khắc phục sự cố, Chủ quản hệ thống thông tin phối hợp với Cơ quan điều phối quốc gia, các nhà cung cấp dịch vụ và các cơ quan chức năng khác tiến hành khôi phục một số hoạt động, dữ liệu hoặc kết nối cần thiết nhất để giảm thiểu thiệt hại đối với hệ thống thông tin, ảnh hưởng uy tín của cơ quan chủ quản, quản lý hệ thống hoặc gây ảnh hưởng xấu tới xã hội.
+
+Chủ quản hệ thống thông tin phải phối hợp chặt chẽ, cung cấp đầy đủ thông tin để Cơ quan điều phối quốc gia thực hiện giám sát, theo dõi quá trình phục hồi và các tấn công, ảnh hưởng trong thời gian chưa khắc phục triệt để sự cố.
+
+đ) Xử lý hậu quả ban đầu: Chủ quản hệ thống thông tin cần nhanh chóng tiến hành các biện pháp khắc phục khẩn cấp các hậu quả, thiệt hại do tấn công mạng gây ra làm ảnh hưởng đến người dân, xã hội, cơ quan, tổ chức khác theo yêu cầu của Cơ quan thường trực.
+
+e) Ngăn chặn, xử lý các hành vi đã được phát hiện: Cơ quan thường trực điều phối hoặc chỉ đạo Cơ quan điều phối quốc gia thực hiện điều phối các cơ quan chức năng triển khai hỗ trợ phát hiện và xử lý các nguồn phát tán tấn công, ngăn chặn các tấn công từ bên ngoài vào hệ thống thông tin bị sự cố. Cơ quan thường trực cung cấp hoặc chỉ đạo cung cấp các thông tin, chứng cứ liên quan đến các hành vi vi phạm pháp luật có yếu tố cấu thành tội phạm (nếu có) để các cơ quan chức năng thuộc Bộ Công an tiến hành điều tra, xác minh và ngăn chặn tội phạm.
+
+5. Triển khai phương án ứng cứu khẩn cấp
+
+a) Chỉ đạo xử lý sự cố
+
+Đơn vị chủ trì: Cơ quan thường trực, Ban Chỉ đạo ứng cứa sự cố cấp bộ, tỉnh.
+
+Nội dung thực hiện: Căn cứ theo phương án ứng cứu được lựa chọn, Cơ quan thường trực chỉ đạo chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, bộ phận tác nghiệp ứng cứu sự cố triển khai công tác ứng cứu, xử lý sự cố. Trong quá trình ứng cứu, tùy thuộc vào diễn biến tình hình thực tế, Cơ quan thường trực có thể quyết định bổ sung thành phần tham gia tác nghiệp ứng cứu khẩn cấp.
+
+b) Điều phối công tác ứng cứu
+
+Đơn vị chủ trì: Ban điều phối ứng cứu quốc gia, Cơ quan điều phối quốc gia.
+
+Nội dung thực hiện: Căn cứ theo phương án ứng cứu được lựa chọn, Ban Điều phối ứng cứu quốc gia hoặc Cơ quan điều phối quốc gia thực hiện công tác điều phối ứng cứu theo chức năng nhiệm vụ của mình và giám sát cơ chế phối hợp, chia sẻ thông tin.
+
+c) Phát ngôn và công bố thông tin
+
+Cơ quan thường trực chịu trách nhiệm chỉ định người phát ngôn, cung cấp thông tin; quyết định địa điểm, nội dung, thời điểm phát ngôn, cung cấp thông tin cho các cơ quan thông tin đại chúng, các cá nhân và tổ chức có liên quan đến sự cố.
+
+d) Thu thập thông tin
+
+Đơn vị chủ trì: Cơ quan điều phối quốc gia, chủ quản hệ thống thông tin.
+
+Nội dung thực hiện: Căn cứ theo yêu cầu cung cấp thông tin cho các đơn vị thuộc thành phần tác nghiệp ứng cứu khẩn cấp, cơ quan điều phối quốc gia cùng chủ quản hệ thống thông tin phối hợp tiến hành thu thập, tổng hợp và chia sẻ, cung cấp thông tin.
+
+đ) Phân tích, giám sát tình hình liên quan sự cố
+
+Cơ quan điều phối quốc gia chủ trì, phối hợp với chủ quản hệ thống thông tin thực hiện giám sát liên tục diễn biến sự cố và thông báo, cập nhật đến các đơn vị trong bộ phận tác nghiệp ứng cứu khẩn cấp.
+
+Các đơn vị thuộc bộ phận tác nghiệp ứng cứu khẩn cấp dựa trên các thông tin thu thập được, sử dụng các nguồn lực, phương tiện và các quy trình nghiệp vụ của mình để tiến hành phân tích sự cố. Kết quả phân tích sự cố được báo cáo Cơ quan thường trực, Cơ quan điều phối quốc gia và chia sẻ trong bộ phận tác nghiệp ứng cứu khẩn cấp để phục vụ ứng cứu, khắc phục sự cố.
+
+e) Khắc phục sự cố, gỡ bỏ mã độc
+
+Đơn vị chủ trì: Chủ quản hệ thống thông tin.
+
+Đơn vị phối hợp: Cơ quan điều phối quốc gia, các đơn vị khác thuộc Bộ phận tác nghiệp ứng cứu khẩn cấp.
+
+Nội dung thực hiện:
+
+- Sao lưu hệ thống trước và sau khi xử lý sự cố;
+
+- Tiêu diệt các mã độc, phần mềm độc hại;
+
+- Khôi phục hệ thống, dữ liệu và kết nối;
+
+- Cấu hình hệ thống an toàn;
+
+- Kiểm tra thử toàn bộ hệ thống sau khi khắc phục sự cố;
+
+- Khắc phục các điểm yếu an toàn thông tin;
+
+- Bổ sung các thiết bị, phần cứng, phần mềm bảo đảm an toàn thông tin cho hệ thống;
+
+- Triển khai theo dõi, giám sát, ngăn chặn khả năng lặp lại sự cố hoặc xảy ra các sự cố tương tự.
+
+g) Ngăn chặn, xử lý hậu quả
+
+Chủ quản hệ thống thông tin có trách nhiệm xử lý các hậu quả do sự cố hệ thống thông tin của mình gây ra ảnh hưởng đến người dân, cơ quan, tổ chức khác.
+
+Các đơn vị thuộc thành phần tham gia tác nghiệp ứng cứu khẩn cấp, dựa trên các kết quả phân tích, điều tra, sử dụng các nguồn lực, phương tiện và nghiệp vụ của mình để tiến hành ngăn chặn các hành vi gây ra sự cố và hỗ trợ xử lý hậu quả.
+
+h) Xác minh nguyên nhân và truy tìm nguồn gốc
+
+Các đơn vị tham gia tác nghiệp ứng cứu khẩn cấp sau khi phân tích sự cố, tham khảo các kết quả phân tích sự cố của các đơn vị khác, sử dụng các nguồn tin và quy trình nghiệp vụ của mình, chủ động điều tra chi tiết nguyên nhân và truy tìm nguồn gốc, gửi Cơ quan thường trực, Cơ quan điều phối quốc gia để tổng hợp, xác minh, báo cáo Ban Chỉ đạo quốc gia các thông tin liên quan, cụ thể bao gồm:
+
+- Đối tượng bị tấn công;
+
+- Phương thức thủ đoạn tấn công (quy trình, kỹ thuật, mẫu mã đọc, phần mềm độc hại);
+
+- Thời gian tấn công;
+
+- Các thiệt hại đã xảy ra;
+
+- Đối tượng tấn công;
+
+- Dự đoán khả năng xảy ra các tấn công tương tự và thiệt hại.
+
+6. Đánh giá kết quả triển khai phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia
+
+Đơn vị chủ trỉ: Ban Chỉ đạo quốc gia
+
+Nội dung thực hiện: Cơ quan thường trực tổng hợp toàn bộ các báo cáo phân tích có liên quan đến triển khai phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia để báo cáo với Ban Chỉ đạo quốc gia và họp phân tích nguyên nhân, rút kinh nghiệm trong hoạt động xử lý sự cố và đề xuất các biện pháp bổ sung cho các sự cố tương tự.
+
+7. Kết thúc
+
+Đơn vị chủ trì: Cơ quan điều phối quốc gia
+
+Đơn vị phối hợp: Chủ quản hệ thống thông tin, các đơn vị thuộc Bộ phận tác nghiệp ứng cứu khẩn cấp.
+
+Nội dung thực hiện: Cơ quan điều phối quốc gia căn cứ kết quả đánh giá của Ban Chỉ đạo quốc gia sẽ thực hiện hoàn tất các nhiệm vụ sau, kết thúc hoạt động ứng cứu sự cố khẩn cấp:
+
+- Lưu hồ sơ, tài liệu lưu trữ;
+
+- Xây dựng, đúc rút các bài học, kinh nghiệm;
+
+- Đề xuất các kiến nghị về kỹ thuật, chính sách để hạn chế thiệt hại khi xảy ra các tấn công tương tự;
+
+- Báo cáo cơ quan cấp trên, tổ chức họp báo hoặc gửi thông tin cho truyền thông nếu cần thiết.
+
+Điều 3.1.QĐ.1.15. Trưng dụng tài sản và đình chỉ phương tiện thông tin phục vụ ứng cứu khẩn cấp sự cố an toàn thông tin mạng quốc gia
+
+(Điều 15 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Trong quá trình triển khai ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia, khi được Cơ quan thường trực yêu cầu, các cơ quan có chức năng thẩm quyền theo quy định của pháp luật thực hiện:
 
-**Chỉ mục:** 15
+1. Tạm đình chỉ hoặc đình chỉ việc sử dụng phương tiện thông tin liên lạc hoặc các hoạt động khác từ hệ thống thông tin khi có căn cứ xác định các hoạt động này gây nguy hại đặc biệt nghiêm trọng đến lợi ích công cộng hoặc tổn hại nghiêm trọng, đặc biệt nghiêm trọng tới quốc phòng, an ninh.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001500
+2. Trưng dụng phương tiện thông tin, phương tiện, giao thông, phương tiện khác và người đang sử dụng, điều khiển phương tiện đó trong trường hợp cấp bách để thực hiện nhiệm vụ ứng cứu khẩn cấp hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra.
 
-**ID:** dk_00003283
+3. Huy động các nguồn lực trong phạm vi ngành, lĩnh vực, địa phương mình quản lý để triển khai thực hiện ứng cứu sự cố.
 
----
+Điều 3.1.QĐ.1.16. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng
 
-
-### Điều 3.1.QĐ.1.16. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng
+(Điều 16 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Các cơ quan, đơn vị xây dựng và thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng (sau đây gọi tắt là kế hoạch ứng phó sự cố) để đảm bảo nhân lực, vật lực, tài lực và các điều kiện cần thiết để sẵn sàng triển khai kịp thời, hiệu quả phương án ứng cứu sự cố bảo đảm an toàn thông tin mạng, cụ thể như sau:
 
-**Chỉ mục:** 16
+a) Cơ quan điều phối quốc gia xây dựng, trình Bộ Thông tin và Truyền thông phê duyệt để thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng quốc gia và kế hoạch hoạt động của mạng lưới ứng cứu sự cố.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001600
+b) Đơn vị chuyên trách về ứng cứu sự cố của các bộ, cơ quan trung ương xây dựng, trình thủ trưởng cơ quan chủ quản phê duyệt để thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội trong phạm vi bộ, ngành mình quản lý.
 
-**ID:** dk_00003284
+c) Đơn vị chuyên trách về ứng cứu sự cố của các tỉnh, thành phố trực thuộc trung ương xây dựng, trình Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt để thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của địa phương;
 
----
+d) Các thành viên mạng lưới, tổ chức, doanh nghiệp có quản lý hệ thống thông tin thuộc Danh mục hệ thống thông tin quan trọng quốc gia, hệ thống thông tin lớn, hệ thống điều khiển công nghiệp (SCADA) xây dựng, phê duyệt và thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng trong tổ chức, doanh nghiệp mình.
 
+2. Các cơ quan, đơn vị xây dựng kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng theo đề cương tại Phụ lục II của Quyết định này, trong đó chú trọng các nội dung: Các kịch bản tấn công, các nguy cơ, tình huống sự cố có khả năng xảy ra, các phương án ứng cứu theo các kịch bản, tình huống dự kiến và công tác huấn luyện, diễn tập. Trường hợp cần thiết, Bộ Thông tin và Truyền thông xem xét điều chỉnh một số điểm trong đề cương cho phù hợp với tình hình và yêu cầu sự cố an toàn thông tin mạng.
 
-### Điều 3.1.TT.3.12. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng
+3. Cơ quan điều phối quốc gia hướng dẫn việc xây dựng, triển khai kế hoạch ứng phó sự cố, dự phòng ứng cứu, xử lý sự cố an toàn thông tin mạng; tổ chức hoạt động huấn luyện, diễn tập theo vùng, miền và quốc gia, quốc tế; định kỳ kiểm tra, đánh giá việc triển khai kế hoạch ứng phó sự cố an toàn thông tin mạng của các bộ, ngành, địa phương và của các tổ chức, doanh nghiệp.
+
+Phụ lục II.doc
+
+Điều 3.1.TT.3.12. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng
+
+(Điều 12 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Các cơ quan, tổ chức và doanh nghiệp xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của cơ quan, tổ chức và doanh nghiệp mình, trong đó:
 
-**Chỉ mục:** 12
+a) Đối với các hệ thống thông tin đã được phê duyệt cấp độ 04, cấp độ 05 hoặc thuộc Danh mục hệ thống thông tin quan trọng quốc gia, theo Đề cương Kế hoạch ứng phó sự cố an toàn thông tin mạng quy định tại Điều 16 của Quyết định số 05/2017/QĐ-TTg.
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000014000000000000000000050261280005000160000802630800200001200
+b) Đối với các hệ thống thông tin không thuộc Điểm a Khoản 1 Điều này, theo Phụ lục III ban hành kèm theo Thông tư này.
 
-**ID:** dk_00003285
+2. Các chủ quản hệ thống thông tin và cơ quan, đơn vị có thẩm quyền phê duyệt Kế hoạch ứng phó sự cố cần xác định các điều kiện, nguyên tắc ưu tiên để duy trì hoạt động của hệ thống thông tin khi triển khai ứng cứu sự cố và coi nội dung này là một yêu cầu bắt buộc trong Kế hoạch ứng phó sự cố.
 
----
+3. Cơ quan điều phối quốc gia hướng dẫn việc xây dựng, triển khai kế hoạch ứng phó sự cố, dự phòng ứng cứu, xử lý sự cố an toàn thông tin mạng; tổ chức hoạt động huấn luyện, diễn tập theo vùng, miền và quốc gia, quốc tế; xây dựng kế hoạch và tổ chức định kỳ kiểm tra, đánh giá về việc triển khai phương án ứng phó sự cố an toàn thông tin mạng của các bộ, ngành, địa phương và của các tổ chức, doanh nghiệp.
 
+Phụ lục III.doc
 
-### Điều 3.1.QĐ.1.17. Kinh phí
+Điều 3.1.QĐ.1.17. Kinh phí
+
+(Điều 17 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 1. Kinh phí để thực hiện các phương án, kế hoạch, hoạt động điều phối, ứng cứu, khắc phục sự cố an toàn thông tin mạng được lấy từ các nguồn: Ngân sách trung ương; ngân sách địa phương; kinh phí của doanh nghiệp và các nguồn vốn hợp pháp khác theo quy định.
 
-**Chỉ mục:** 17
+2. Kinh phí thực hiện các hoạt động ứng cứu sự cố an toàn thông tin mạng được bố trí trong dự toán chi ngân sách nhà nước của các bộ, cơ quan trung ương và các địa phương (bao gồm chi đầu tư phát triển và chi thường xuyên) và được quản lý, sử dụng, thanh quyết toán theo phân cấp ngân sách quy định tại Luật ngân sách nhà nước và các văn bản hướng dẫn thi hành. Việc bố trí kinh phí thực hiện theo nguyên tắc: Hoạt động, lực lượng thuộc cơ quan cấp nào thì bố trí kinh phí và sử dụng từ nguồn kinh phí của cơ quan cấp đó, cụ thể:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000140000000000000000000502612800050001700
+a) Ngân sách trung ương bảo đảm cho:
 
-**ID:** dk_00003286
+- Hoạt động chỉ đạo, điều hành, kiểm tra, giám sát ứng cứu sự cố của Ban Chỉ đạo quốc gia, Ban Điều phối ứng cứu quốc gia, Cơ quan thường trực ứng cứu sự cố quốc gia;
 
----
+- Hoạt động của Cơ quan điều phối quốc gia gồm: Kinh phí triển khai các hoạt động liên quan thuộc trách nhiệm của cơ quan điều phối quốc gia quy định tại các Điều 7, Điều 11, Điều 12, Điều 13, Điều 14 và Điều 16 Quyết định này; kinh phí bảo đảm hoạt động thường xuyên; tổ chức giám sát phát hiện, cảnh báo; huấn luyện, diễn tập, đào tạo; mua sắm, nâng cấp, gia hạn bản quyền phần mềm, trang thiết bị, bảo dưỡng phương tiện, công cụ tham gia, phối hợp các hoạt động hợp tác quốc tế về an toàn mạng; kinh phí xây dựng và triển khai kế hoạch ứng phó sự cố, kinh phí dự phòng ứng cứu xử lý sự cố nghiêm trọng quốc gia; hỗ trợ các bộ, ngành, địa phương trong điều phối, ứng cứu sự cố; kinh phí thuê dịch vụ kỹ thuật, tổ chức và duy trì đội chuyên gia ứng cứu sự cố và bộ phận tác nghiệp ứng cứu sự cố; kinh phí điều hành và tổ chức các hoạt động của Mạng lưới ứng cứu sự cố, tuyên truyền, tập huấn, hội thảo, giao ban mạng lưới, nghiên cứu chuyên môn, duy trì bộ phận chuyên gia kỹ thuật, nâng cao năng lực và phát triển các đội ứng cứu sự cố; kinh phí kiểm tra, rà quét, đánh giá an toàn thông tin; tạo lập, thu thập, phân tích và chia sẻ thông tin về sự cố; hỗ trợ xây dựng, áp dụng chuẩn ISO 27xxx và các chuẩn quốc tế về an toàn thông tin mạng; triển khai các hoạt động nghiệp vụ đặc thù bảo đảm an toàn thông tin mạng cho các hệ thống thông tin quan trọng của Nhà nước;
 
+- Các bộ, cơ quan trung ương căn cứ các nội dung quy định tại Quyết định này lập dự toán kinh phí hàng năm để triển khai các hoạt động liên quan thuộc trách nhiệm của bộ, ngành mình quy định tại các Điều 7, Điều 11, Điều 12, Điều 13, Điều 14 và Điều 16 Quyết định này; kinh phí xây dựng và triển khai kế hoạch ứng phó sự cố trong bộ, ngành mình; kinh phí dự phòng ứng cứu, xử lý sự cố cho các hệ thống thông tin do bộ, ngành mình quản lý; kinh phí tổ chức đào tạo, huấn luyện, diễn tập và hoạt động của Đội ứng cứu sự cố; kinh phí giám sát, kiểm tra, rà quét, đánh giá an toàn thông tin; hỗ trợ xây dựng, áp dụng chuẩn ISO 27xxx và triển khai các hoạt động nghiệp vụ đặc thù bảo đảm an toàn thông tin mạng cho các hệ thống thông tin thuộc phạm vi quản lý.
 
-### Điều 3.1.TT.3.13. Kinh phí
+b) Ngân sách địa phương bảo đảm cho hoạt động của Ban Chỉ đạo, đơn vị chuyên trách ứng cứu sự cố, đội ứng cứu sự cố của địa phương, gồm: Kinh phí để triển khai các hoạt động liên quan thuộc trách nhiệm của địa phương quy định tại các Điều 7, Điều 11, Điều 12, Điều 13, Điều 14 và Điều 16 Quyết định này; kinh phí triển khai kế hoạch ứng phó sự cố của địa phương; kinh phí dự phòng ứng cứu, xử lý sự cố cho các hệ thống thông tin thuộc địa phương quản lý; kinh phí tổ chức đào tạo, huấn luyện, diễn tập và hoạt động của Đội ứng cứu sự cố; kinh phí giám sát, kiểm tra, rà quét, đánh giá an toàn thông tin; hỗ trợ xây dựng, áp dụng chuẩn ISO 27xxx và triển khai các hoạt động nghiệp vụ đặc thù bảo đảm an toàn thông tin mạng cho các hệ thống thông tin thuộc phạm vi quản lý.
+
+c) Nguồn kinh phí của doanh nghiệp đảm bảo để triển khai các hoạt động liên quan thuộc trách nhiệm của doanh nghiệp quy định tại khoản 4 Điều 7, Điều 11 Điều 12, Điều 13, Điều 14 và Điều 16 Quyết định này; triển khai kế hoạch ứng phó sự cố của doanh nghiệp, dự phòng ứng cứu, xử lý sự cố cho các hệ thống thông tin do doanh nghiệp quản lý; phối hợp giám sát, cung cấp thông tin, tham gia ứng cứu sự cố; tổ chức đào tạo, huấn luyện, diễn tập, duy trì hoạt động của Đội ứng cứu sự cố và các nhiệm vụ khác do doanh nghiệp thực hiện và được hạch toán vào chi phí kinh doanh để thực hiện. Các doanh nghiệp viễn thông, Internet bảo đảm kinh phí để giám sát, ứng cứu sự cố bảo đảm an toàn thông tin mạng trên các kênh kết nối Internet của doanh nghiệp mình và được hạch toán vào chi phí kinh doanh để thực hiện.
+
+d) Chủ quản hệ thống thông tin phải bố trí kinh phí để thực hiện kế hoạch, phương án ứng cứu sự cố, dự phòng kinh phí xử lý sự cố, khắc phục hậu quả, khôi phục dữ liệu và hoạt động bình thường của hệ thống thông tin của mình.
+
+đ) Nguồn vốn từ Quỹ dịch vụ viễn thông công ích Việt Nam được bố trí cho một số hoạt động, nhiệm vụ về điều phối, ứng cứu sự cố bảo đảm an toàn thông tin mạng mà ngân sách nhà nước không chi hoặc chi không đủ của cơ quan điều phối quốc gia, bộ phận tác nghiệp ứng cứu sự cố do cơ quan thường trực triệu tập, hoạt động của mạng lưới ứng cứu sự cố quốc gia, thuê dịch vụ kỹ thuật, tổ chức và duy trì đội chuyên gia ứng cứu sự cố thuộc cơ quan điều phối quốc gia, chi trả cho hao tổn của các doanh nghiệp viễn thông, Internet do triển khai giải pháp ứng cứu, ngăn chặn, xử lý sự cố nghiêm trọng quốc gia, và các hoạt động khác liên quan mà ngân sách nhà nước không chi hoặc chi không đủ.
+
+e) Bộ Tài chính chủ trì, phối hợp với Bộ Thông tin và Truyền thông hướng dẫn chi tiết kinh phí cho công tác điều phối, ứng cứu sự cố bảo đảm an toàn thông tin mạng quy định tại Điều này.
+
+Điều 3.1.TT.3.13. Kinh phí
+
+(Điều 13 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 Kinh phí triển khai các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc thực hiện theo quy định tại Điều 17 Quyết định số 05/2017/QĐ-TTg và các văn bản hướng dẫn liên quan.
 
-**Chỉ mục:** 13
+Điều 3.1.LQ.15. Trách nhiệm của cơ quan, tổ chức, cá nhân trong bảo đảm an toàn thông tin mạng
 
-**Mã phân cấp:** 0300100000000000200000100000000000000000014000000000000000000050261280005000170000802630800200001300
-
-**ID:** dk_00003287
-
----
-
-
-### Điều 3.1.LQ.15. Trách nhiệm của cơ quan, tổ chức, cá nhân trong bảo đảm an toàn thông tin mạng
+(Điều 15 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cơ quan, tổ chức, cá nhân tham gia hoạt động an toàn thông tin mạng có trách nhiệm phối hợp với cơ quan nhà nước có thẩm quyền và tổ chức, cá nhân khác trong việc bảo đảm an toàn thông tin mạng.
 
-**Chỉ mục:** 15
+2. Cơ quan, tổ chức, cá nhân sử dụng dịch vụ trên mạng có trách nhiệm thông báo kịp thời cho doanh nghiệp cung cấp dịch vụ hoặc bộ phận chuyên trách ứng cứu sự cố khi phát hiện các hành vi phá hoại hoặc sự cố an toàn thông tin mạng.
 
-**Mã phân cấp:** 030010000000000020000010000000000000000001500000000000000000
+Điều 3.1.TT.5.16. Yêu cầu chung đối với nơi lắp đặt trang thiết bị công nghệ thông tin
 
-**ID:** dk_00003288
+(Điều 16 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ 1. Bảo vệ bằng tường bao, cổng ra vào hoặc có các biện pháp kiểm soát, hạn chế rủi ro xâm nhập trái phép.
 
+ 2. Thực hiện các biện pháp phòng chống nguy cơ do cháy nổ, ngập lụt.
 
-### Điều 3.1.TT.5.16. Yêu cầu chung đối với nơi lắp đặt trang thiết bị công nghệ thông tin
+ 3. Các khu vực có yêu cầu cao về an toàn, bảo mật như khu vực lắp đặt máy chủ, thiết bị lưu trữ, thiết bị an ninh bảo mật, thiết bị truyền thông phải được cách ly với khu vực dùng chung, phân phối, chuyển hàng; ban hành nội quy, hướng dẫn làm việc và áp dụng biện pháp kiểm soát ra vào khu vực đó.Điều 3.1.TT.5.17. Yêu cầu đối với trung tâm dữ liệu
 
-1. Bảo vệ bằng tường bao, cổng ra vào hoặc có các biện pháp kiểm soát, hạn chế rủi ro xâm nhập trái phép.
+(Điều 17 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 16
+ Ngoài việc bảo đảm yêu cầu tại Điều 16 Thông tư này, Trung tâm dữ liệu phải bảo đảm các yêu cầu sau:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180001600
+ 1. Cổng vào ra tòa nhà trung tâm dữ liệu phải có người kiểm soát 24/7.
 
-**ID:** dk_00003289
+ 2. Cửa vào ra trung tâm dữ liệu phải chắc chắn, có khả năng chống cháy, sử dụng ít nhất hai loại khóa khác nhau và phải có biện pháp bảo vệ và giám sát 24/7.
 
----
+ 3. Khu vực lắp đặt thiết bị phải được tránh nắng chiếu rọi trực tiếp, chống thấm dột nước, tránh ngập lụt. Khu vực lắp đặt thiết bị của hệ thống thông tin từ mức độ 2 trở lên phải được bảo vệ, giám sát 24/7.
 
+ 4. Có tối thiểu một nguồn điện lưới và một nguồn điện máy phát. Có hệ thống chuyển mạch tự động giữa hai nguồn điện, khi cắt điện lưới máy phát phải tự động khởi động cấp nguồn. Nguồn điện phải đấu nối qua hệ thống lưu điện để cấp nguồn cho thiết bị, bảo đảm khả năng duy trì hoạt động liên tục của hệ thống thông tin.
 
-### Điều 3.1.TT.5.17. Yêu cầu đối với trung tâm dữ liệu
+ 5. Có hệ thống điều hòa không khí bảo đảm khả năng hoạt động liên tục.
 
-Ngoài việc bảo đảm yêu cầu tại Điều 16 Thông tư này, Trung tâm dữ liệu phải bảo đảm các yêu cầu sau:
+ 6. Có hệ thống chống sét trực tiếp và lan truyền.
 
-**Chỉ mục:** 17
+ 7. Có hệ thống báo cháy và chữa cháy tự động bảo đảm khi chữa cháy không làm hư hỏng thiết bị lắp đặt bên trong.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180001700
+ 8. Có hệ thống sàn kỹ thuật hoặc lớp cách ly chống nhiễm điện; hệ thống tiếp địa.
 
-**ID:** dk_00003290
+ 9. Có hệ thống camera giám sát, lưu trữ dữ liệu giám sát tối thiểu 100 ngày.
 
----
+ 10. Có hệ thống theo dõi, kiểm soát nhiệt độ, độ ẩm.
 
+ 11. Có hồ sơ nhật ký kiểm soát vào ra trung tâm dữ liệu.Điều 3.1.TT.5.18. An toàn tài sản vật lý
 
-### Điều 3.1.TT.5.18. An toàn tài sản vật lý
+(Điều 18 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-1.Tài sản vật lý phải được bố trí, lắp đặt tại các địa điểm an toàn và được bảo vệ để giảm thiểu những rủi ro do các đe dọa, hiểm họa từ môi trường và các xâm nhập trái phép.
+ 1.Tài sản vật lý phải được bố trí, lắp đặt tại các địa điểm an toàn và được bảo vệ để giảm thiểu những rủi ro do các đe dọa, hiểm họa từ môi trường và các xâm nhập trái phép.
 
-**Chỉ mục:** 18
+ 2.Tài sản vật lý thuộc hệ thống thông tin từ mức độ 2 trở lên phải được bảo đảm về nguồn điện và các hệ thống hỗ trợ khi nguồn điện chính bị gián đoạn. Phải có biện pháp chống quá tải hay sụt giảm điện áp, chống sét lan truyền; có hệ thống tiếp địa; có hệ thống máy phát điện dự phòng và hệ thống lưu điện bảo đảm thiết bị hoạt động liên tục.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180001800
+ 3.Dây cáp cung cấp nguồn điện và dây cáp truyền thông sử dụng trong truyền tải dữ liệu hay những dịch vụ hỗ trợ thông tin phải được bảo vệ khỏi sự xâm phạm hoặc hư hại.
 
-**ID:** dk_00003291
+ 4.Các trang thiết bị dùng cho hoạt động nghiệp vụ lắp đặt bên ngoài trụ sở làm việc của tổ chức phải có biện pháp giám sát, bảo vệ an toàn phòng chống truy cập bất hợp pháp.Điều 3.1.TT.5.19. Trách nhiệm quản lý và quy trình vận hành của tổ chức
 
----
+(Điều 19 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ 1. Tổ chức ban hành các quy trình vận hành đối với hệ thống thông tin từ mức độ 2 trở lên, tối thiểu bao gồm: quy trình bật, tắt hệ thống; quy trình sao lưu, phục hồi dữ liệu; quy trình vận hành ứng dụng; quy trình xử lý sự cố; quy trình giám sát và ghi nhật ký hoạt động của hệ thống. Trong đó phải xác định rõ phạm vi, trách nhiệm của người sử dụng, vận hành hệ thống. Định kỳ tối thiểu mỗi năm một lần, tổ chức thực hiện rà soát, cập nhật, bổ sung các quy trình vận hành hệ thống thông tin để phù hợp thực tế.
 
-### Điều 3.1.TT.5.19. Trách nhiệm quản lý và quy trình vận hành của tổ chức
+ 2. Tổ chức triển khai các quy trình đến toàn bộ các đối tượng tham gia vận hành và giám sát tuân thủ việc thực hiện các quy trình đã ban hành.
 
-1. Tổ chức ban hành các quy trình vận hành đối với hệ thống thông tin từ mức độ 2 trở lên, tối thiểu bao gồm: quy trình bật, tắt hệ thống; quy trình sao lưu, phục hồi dữ liệu; quy trình vận hành ứng dụng; quy trình xử lý sự cố; quy trình giám sát và ghi nhật ký hoạt động của hệ thống. Trong đó phải xác định rõ phạm vi, trách nhiệm của người sử dụng, vận hành hệ thống. Định kỳ tối thiểu mỗi năm một lần, tổ chức thực hiện rà soát, cập nhật, bổ sung các quy trình vận hành hệ thống thông tin để phù hợp thực tế.
+ 3. Môi trường vận hành của hệ thống thông tin từ mức độ 2 trở lên phải đáp ứng yêu cầu:
 
-**Chỉ mục:** 19
+ a) Tách biệt với các môi trường phát triển, kiểm tra và thử nghiệm;
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180001900
+ b) Áp dụng các giải pháp bảo đảm an toàn thông tin;
 
-**ID:** dk_00003292
+ c) Không cài đặt các công cụ, phương tiện phát triển ứng dụng;
 
----
+ d) Loại bỏ hoặc tắt các tính năng, phần mềm tiện ích không sử dụng trên hệ thống thông tin.
 
+ 4. Đối với hệ thống thông tin xử lý giao dịch khách hàng phải đáp ứng yêu cầu sau:
 
-### Điều 3.1.TT.5.20. Lập kế hoạch và chấp nhận hệ thống thông tin
+ a) Không để một cá nhân được đồng thời thực hiện các công việc khởi tạo và phê duyệt một giao dịch;
 
-1. Tổ chức xây dựng tiêu chuẩn, định mức, yêu cầu kỹ thuật để bảo đảm hoạt động bình thường đối với tất cả các hệ thống thông tin hiện có và các hệ thống thông tin khác trước khi đưa vào áp dụng chính thức.
+ b) Áp dụng các biện pháp bảo đảm tính toàn vẹn dữ liệu giao dịch;
 
-**Chỉ mục:** 20
+ c) Mọi thao tác trên hệ thống phải được lưu vết, sẵn sàng cho kiểm tra, kiểm soát khi cần thiết.Điều 3.1.TT.5.20. Lập kế hoạch và chấp nhận hệ thống thông tin
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002000
+(Điều 20 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003293
+ 1. Tổ chức xây dựng tiêu chuẩn, định mức, yêu cầu kỹ thuật để bảo đảm hoạt động bình thường đối với tất cả các hệ thống thông tin hiện có và các hệ thống thông tin khác trước khi đưa vào áp dụng chính thức.
 
----
+ 2. Căn cứ các tiêu chuẩn, định mức, yêu cầu kỹ thuật đã xây dựng, tổ chức giám sát, tối ưu hiệu suất của hệ thống thông tin; đánh giá khả năng đáp ứng, tình trạng hoạt động, cấu hình hệ thống của hệ thống thông tin để dự báo, lập kế hoạch mở rộng, nâng cấp bảo đảm khả năng đáp ứng trong tương lai.
 
+ 3. Tổ chức rà soát, cập nhật tiêu chuẩn, định mức, yêu cầu kỹ thuật khi có sự thay đổi đối với hệ thống thông tin; thực hiện đào tạo và chuyển giao kỹ thuật đối với những nội dung thay đổi cho các nhân sự có liên quan.Điều 3.1.TT.5.21. Sao lưu dự phòng
 
-### Điều 3.1.TT.5.21. Sao lưu dự phòng
+(Điều 21 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-Tổ chức thực hiện sao lưu dự phòng bảo đảm an toàn dữ liệu như sau:
+ Tổ chức thực hiện sao lưu dự phòng bảo đảm an toàn dữ liệu như sau:
 
-**Chỉ mục:** 21
+ 1. Lập danh sách hệ thống thông tin theo mức độ quan trọng cần được sao lưu, kèm theo thời gian lưu trữ, định kỳ sao lưu, phương pháp sao lưu và thời gian kiểm tra phục hồi hệ thống từ dữ liệu sao lưu.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002100
+ 2. Dữ liệu của các hệ thống thông tin từ mức độ 2 trở lên phải có phương án tự động sao lưu phù hợp với tần suất thay đổi của dữ liệu và bảo đảm nguyên tắc dữ liệu phát sinh phải được sao lưu trong vòng 24 giờ. Dữ liệu sao lưu phải được lưu trữ ra phương tiện lưu trữ ngoài (như băng từ, đĩa cứng, đĩa quang hoặc phương tiện lưu trữ khác) và cất giữ, bảo quản an toàn tách rời với khu vực lắp đặt hệ thống thông tin nguồn.
 
-**ID:** dk_00003294
+ 3. Đối với hệ thống thông tin từ mức độ 2 trở lên phải kiểm tra, phục hồi dữ liệu sao lưu từ phương tiện lưu trữ ngoài tối thiểu sáu tháng một lần.
 
----
+ 4. Tổ chức có cả hệ thống thông tin chính và dự phòng đặt ngoài lãnh thổ Việt Nam phải thực hiện lưu trữ thông tin cá nhân, dữ liệu giao dịch của khách hàng tại Việt Nam theo quy định của pháp luật Việt Nam.Điều 3.1.TT.5.22. Quản lý an toàn, bảo mật hệ thống mạng
 
+(Điều 22 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.22. Quản lý an toàn, bảo mật hệ thống mạng
+ Tổ chức thực hiện quản lý an toàn, bảo mật hệ thống mạng như sau:
 
-Tổ chức thực hiện quản lý an toàn, bảo mật hệ thống mạng như sau:
+ 1. Xây dựng quy định về quản lý an toàn, bảo mật hệ thống mạng và quản lý các thiết bị đầu cuối của toàn bộ hệ thống mạng.
 
-**Chỉ mục:** 22
+ 2. Lập, lưu trữ hồ sơ về sơ đồ logic và vật lý đối với hệ thống mạng, bao gồm cả mạng diện rộng (WAN/Intranet) và mạng nội bộ (LAN).
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002200
+ 3. Xây dựng hệ thống mạng của tổ chức đáp ứng yêu cầu tối thiểu sau:
 
-**ID:** dk_00003295
+ a) Chia tách thành các vùng mạng khác nhau theo đối tượng sử dụng, mục đích sử dụng và hệ thống thông tin, tối thiểu: (i) Có phân vùng mạng riêng cho máy chủ của hệ thống thông tin từ mức độ 2 trở lên; (ii) Có phân vùng mạng trung gian (DMZ) để cung cấp dịch vụ trên mạng Internet; (iii) Có phân vùng mạng riêng để cung cấp dịch vụ mạng không dây;
 
----
+ b) Có thiết bị có chức năng tường lửa để kiểm soát các kết nối, truy cập vào ra các vùng mạng quan trọng;
 
+ c) Có thiết bị có chức năng tường lửa và chức năng phát hiện phòng chống xâm nhập để kiểm soát kết nối, truy cập từ mạng không tin cậy vào hệ thống mạng của tổ chức;
 
-### Điều 3.1.TT.5.23. Trao đổi thông tin
+ d) Có giải pháp kiểm soát, phát hiện và ngăn chặn kịp thời các kết nối, truy cập trái phép vào hệ thống mạng nội bộ của tổ chức có hệ thống thông tin từ mức độ 2 trở lên;
 
-Trách nhiệm của tổ chức trong việc trao đổi thông tin với khách hàng và bên thứ ba:
+ đ) Có phương án cân bằng tải và phương án ứng phó tấn công từ chối dịch vụ đối với các hệ thống thông tin từ mức độ 2 trở lên cung cấp dịch vụ trên mạng Internet.
 
-**Chỉ mục:** 23
+ 4. Thiết lập, cấu hình các tính năng theo thiết kế của các trang thiết bị an ninh mạng; thực hiện các biện pháp, giải pháp để dò tìm và phát hiện kịp thời các điểm yếu, lỗ hổng về mặt kỹ thuật của hệ thống mạng; thường xuyên kiểm tra, phát hiện những kết nối, trang thiết bị, phần mềm cài đặt bất hợp pháp vào mạng.Điều 3.1.TT.5.23. Trao đổi thông tin
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002300
+(Điều 23 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003296
+ Trách nhiệm của tổ chức trong việc trao đổi thông tin với khách hàng và bên thứ ba:
 
----
+ 1. Ban hành quy định về trao đổi thông tin tối thiểu gồm: loại thông tin trao đổi; quyền và trách nhiệm của cá nhân khi tiếp cận thông tin; phương tiện trao đổi thông tin; biện pháp bảo đảm tính toàn vẹn, bảo mật khi truyền nhận, xử lý, lưu trữ thông tin; chế độ bảo quản thông tin.
 
+ 2. Khi trao đổi thông tin nội bộ và thông tin bí mật với bên ngoài phải có văn bản thỏa thuận, xác định trách nhiệm và nghĩa vụ của các bên tham gia trong việc sử dụng, bảo đảm an toàn thông tin.
 
-### Điều 3.1.TT.5.24. Quản lý dịch vụ giao dịch trực tuyến
+ 3. Các thông tin bí mật phải được mã hóa hoặc áp dụng các biện pháp bảo mật thông tin trước khi trao đổi.
 
-1. Yêu cầu đối với hệ thống thông tin của tổ chức thực hiện cung cấp dịch vụ giao dịch trực tuyến cho khách hàng:
+ 4. Thực hiện biện pháp bảo vệ trang thiết bị, phần mềm phục vụ trao đổi thông tin nhằm hạn chế việc xâm nhập, khai thác bất hợp pháp.
 
-**Chỉ mục:** 24
+ 5. Thực hiện các biện pháp quản lý, giám sát và kiểm soát chặt chẽ các trang thông tin điện tử cung cấp thông tin, dịch vụ, giao dịch trực tuyến cho khách hàng.Điều 3.1.TT.5.24. Quản lý dịch vụ giao dịch trực tuyến
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002400
+(Điều 24 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003297
+ 1. Yêu cầu đối với hệ thống thông tin của tổ chức thực hiện cung cấp dịch vụ giao dịch trực tuyến cho khách hàng:
 
----
+ a) Bảo đảm tính toàn vẹn của dữ liệu trao đổi với khách hàng trong giao dịch trực tuyến;
 
+ b) Dữ liệu trên đường truyền phải bảo đảm tính bí mật và phải được truyền đầy đủ, đúng địa chỉ và có biện pháp bảo vệ để tránh bị sửa đổi hoặc nhân bản trái phép;
 
-### Điều 3.1.TT.5.25. Giám sát và ghi nhật ký hoạt động của hệ thống thông tin
+ c) Đánh giá mức độ rủi ro trong giao dịch trực tuyến theo đối tượng khách hàng, loại giao dịch, hạn mức giao dịch để cung cấp giải pháp xác thực giao dịch phù hợp theo quy định của Ngân hàng Nhà nước;
 
-Tổ chức thực hiện giám sát và ghi nhật ký hoạt động của hệ thống thông tin như sau:
+ d) Trang thông tin điện tử giao dịch trực tuyến phải được áp dụng các biện pháp chứng thực chống giả mạo và ngăn chặn, chống sửa đổi trái phép.
 
-**Chỉ mục:** 25
+ 2. Xác thực giao dịch của khách hàng phải được thực hiện trực tiếp tại hệ thống thông tin của tổ chức. Trường hợp tổ chức sử dụng dịch vụ xác thực của bên thứ ba thì tổ chức phải quản lý tối thiểu một yếu tố xác thực.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002500
+ 3. Hệ thống dịch vụ giao dịch trực tuyến phải được áp dụng các biện pháp để giám sát chặt chẽ và phát hiện, cảnh báo về:
 
-**ID:** dk_00003298
+ a) Giao dịch đáng ngờ dựa vào các tiêu chí tối thiểu gồm: thời gian giao dịch, địa điểm giao dịch (vị trí địa lý, địa chỉ IP mạng), tần suất giao dịch, số tiền giao dịch, số lần xác thực sai quy định;
 
----
+ b) Hoạt động bất thường của hệ thống;
 
+ c) Các cuộc tấn công từ chối dịch vụ (DoS - Denial of Service attack), tấn công từ chối dịch vụ phân tán (DDoS - Distributed Denial of Service attack).
 
-### Điều 3.1.TT.5.26. Phòng chống mã độc
+ 4. Tổ chức hướng dẫn các biện pháp bảo đảm an toàn thông tin và cảnh bảo rủi ro cho khách hàng trước khi tham gia sử dụng dịch vụ giao dịch trực tuyến và theo định kỳ.
 
-Tổ chức xây dựng và thực hiện quy định về phòng chống mã độc như sau:
+ 5. Khi cung cấp phần mềm ứng dụng giao dịch trực tuyến trên Internet phải áp dụng các biện pháp bảo đảm tính toàn vẹn của phần mềm.Điều 3.1.TT.5.25. Giám sát và ghi nhật ký hoạt động của hệ thống thông tin
 
-**Chỉ mục:** 26
+(Điều 25 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002600
+ Tổ chức thực hiện giám sát và ghi nhật ký hoạt động của hệ thống thông tin như sau:
 
-**ID:** dk_00003299
+ 1. Ghi và lưu trữ nhật ký về hoạt động của hệ thống thông tin và người sử dụng, các lỗi phát sinh, các sự cố an toàn thông tin. Dữ liệu nhật ký của các hệ thống thông tin từ mức độ 2 trở lên phải được lưu trữ trực tuyến tối thiểu 3 tháng theo hình thức tập trung và sao lưu tối thiểu một năm.
 
----
+ 2. Bảo vệ các chức năng ghi nhật ký và thông tin nhật ký, chống giả mạo và truy cập trái phép; bảo đảm người quản trị hệ thống và người sử dụng không thể xóa hay sửa đổi nhật ký hệ thống ghi lại các hoạt động của chính họ.
 
+ 3. Thực hiện việc đồng bộ thời gian giữa các hệ thống thông tin.Điều 3.1.TT.5.26. Phòng chống mã độc
 
-### Điều 3.1.TT.5.27. Yêu cầu đối với kiểm soát truy cập
+(Điều 26 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-1. Tổ chức quy định về quản lý truy cập đối với người sử dụng, nhóm người sử dụng, các thiết bị, công cụ sử dụng để truy cập hệ thống thông tin bảo đảm đáp ứng yêu cầu nghiệp vụ và yêu cầu an toàn thông tin, bao gồm các nội dung cơ bản sau:
+ Tổ chức xây dựng và thực hiện quy định về phòng chống mã độc như sau:
 
-**Chỉ mục:** 27
+ 1. Xác định trách nhiệm của cá nhân và các bộ phận liên quan trong công tác phòng chống mã độc.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002700
+ 2. Triển khai biện pháp, giải pháp phòng chống mã độc cho toàn bộ hệ thống thông tin của tổ chức.
 
-**ID:** dk_00003300
+ 3. Cập nhật mẫu mã độc và phần mềm phòng chống mã độc mới.
 
----
+ 4. Kiểm tra, diệt mã độc đối với vật mang tin nhận từ bên ngoài trước khi sử dụng.
 
+ 5. Kiểm soát việc cài đặt phần mềm bảo đảm tuân thủ theo quy chế an toàn thông tin của tổ chức.
 
-### Điều 3.1.TT.5.28. Quản lý truy cập mạng nội bộ
+ 6. Kiểm soát thư điện tử lạ, các tệp tin đính kèm hoặc các liên kết trong các thư lạ.Điều 3.1.TT.5.27. Yêu cầu đối với kiểm soát truy cập
 
-Tổ chức xây dựng và triển khai các chính sách quản lý truy cập mạng nội bộ đáp ứng các yêu cầu sau:
+(Điều 27 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 28
+ 1. Tổ chức quy định về quản lý truy cập đối với người sử dụng, nhóm người sử dụng, các thiết bị, công cụ sử dụng để truy cập hệ thống thông tin bảo đảm đáp ứng yêu cầu nghiệp vụ và yêu cầu an toàn thông tin, bao gồm các nội dung cơ bản sau:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002800
+ a) Đăng ký, cấp phát, gia hạn và thu hồi quyền truy cập của người sử dụng;
 
-**ID:** dk_00003301
+ b) Mỗi tài khoản truy cập hệ thống phải được gán cho một người sử dụng duy nhất; trường hợp chia sẻ tài khoản dùng chung để truy cập hệ thống thông tin thì phải được phê duyệt bởi cấp có thẩm quyền và xác định được trách nhiệm cá nhân tại mỗi thời điểm sử dụng;
 
----
+ c) Đối với hệ thống thông tin từ mức độ 2 trở lên, phải giới hạn và kiểm soát các truy cập sử dụng tài khoản có quyền quản trị: (i) Thiết lập cơ chế kiểm soát việc tạo tài khoản có quyền quản trị để bảo đảm không một tài khoản nào sử dụng được khi chưa được cấp có thẩm quyền phê duyệt; (ii) Phải có biện pháp giám sát việc sử dụng tài khoản có quyền quản trị; (iii) Việc sử dụng tài khoản có quyền quản trị phải được giới hạn trong khoảng thời gian đủ để thực hiện công việc và phải được thu hồi ngay sau khi kết thúc công việc;
 
+ d) Quản lý, cấp phát mã khóa bí mật truy cập hệ thống thông tin;
 
-### Điều 3.1.TT.5.29. Quản lý truy cập hệ thống thông tin và ứng dụng
+ đ) Rà soát, kiểm tra, xét duyệt lại quyền truy cập của người sử dụng;
 
-Tổ chức xây dựng và triển khai việc quản lý truy cập đáp ứng yêu cầu sau:
+ e) Yêu cầu, điều kiện an toàn thông tin đối với các thiết bị, công cụ sử dụng để truy cập.
 
-**Chỉ mục:** 29
+ 2. Tổ chức xây dựng quy định về quản lý mã khóa bí mật đáp ứng các yêu cầu sau:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180002900
+ a) Mã khóa bí mật phải có độ dài từ sáu ký tự trở lên, cấu tạo gồm các ký tự số, chữ hoa, chữ thường và các ký tự đặc biệt khác nếu hệ thống cho phép; các yêu cầu mã khóa bí mật hợp lệ phải được kiểm tra tự động khi thiết lập mã khóa bí mật;
 
-**ID:** dk_00003302
+ b) Các mã khóa bí mật mặc định của nhà sản xuất cài đặt sẵn trên các trang thiết bị, phần mềm, cơ sở dữ liệu phải được thay đổi trước khi đưa vào sử dụng;
 
----
+ c) Phần mềm quản lý mã khóa bí mật phải có các chức năng: (i) Yêu cầu thay đổi mã khóa bí mật lần đầu đăng nhập (không áp dụng với mã khóa bí mật sử dụng một lần); (ii) thông báo người sử dụng thay đổi mã khóa bí mật sắp hết hạn sử dụng; (iii) huỷ hiệu lực của mã khóa bí mật hết hạn sử dụng; (iv) hủy hiệu lực của mã khóa bí mật khi người sử dụng nhập sai quá số lần cho phép; (v) cho phép thay đổi ngay mã khóa bí mật bị lộ, có nguy cơ bị lộ hoặc theo yêu cầu của người sử dụng; (vi) ngăn chặn việc sử dụng lại mã khóa bí mật cũ trong một khoảng thời gian nhất định.
 
+ 3. Tổ chức xây dựng quy định về trách nhiệm của người sử dụng khi được cấp quyền truy cập bao gồm các nội dung: sử dụng mã khóa bí mật đúng quy định; giữ bí mật mã khóa bí mật; sử dụng thiết bị, công cụ để truy cập; thoát khỏi hệ thống khi không làm việc hoặc tạm thời không làm việc trên hệ thống.Điều 3.1.TT.5.28. Quản lý truy cập mạng nội bộ
 
-### Điều 3.1.TT.5.30. Quản lý kết nối Internet
+(Điều 28 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-Tổ chức quy định và triển khai việc quản lý kết nối Internet đáp ứng yêu cầu sau:
+ Tổ chức xây dựng và triển khai các chính sách quản lý truy cập mạng nội bộ đáp ứng các yêu cầu sau:
 
-**Chỉ mục:** 30
+ 1. Xây dựng và triển khai quy định quản lý truy cập mạng và các dịch vụ mạng gồm các nội dung cơ bản sau:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180003000
+ a) Các mạng và dịch vụ mạng được phép sử dụng, cách thức, phương tiện và các điều kiện an toàn thông tin để truy cập;
 
-**ID:** dk_00003303
+ b) Trách nhiệm của người quản trị, người truy cập;
 
----
+ c) Thủ tục cấp phát, thay đổi, thu hồi quyền kết nối;
 
+ d) Kiểm soát việc quản trị, truy cập, sử dụng mạng.
 
-### Điều 3.1.TT.5.52. Kiểm tra nội bộ
+ 2. Thực hiện các biện pháp kiểm soát chặt chẽ các kết nối từ mạng không tin cậy vào mạng nội bộ của tổ chức bảo đảm an toàn thông tin.
 
-Tổ chức thực hiện kiểm tra nội bộ như sau:
+ 3. Kiểm soát việc cài đặt, sử dụng các công cụ phần mềm hỗ trợ truy cập từ xa.
 
-**Chỉ mục:** 52
+ 4. Kiểm soát truy cập các cổng dùng để cấu hình và quản trị thiết bị mạng.
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180005200
+ 5. Cấp quyền truy cập mạng và dịch vụ mạng phải bảo đảm nguyên tắc quyền vừa đủ để thực hiện nhiệm vụ được giao.
 
-**ID:** dk_00003304
+ 6. Kết nối từ mạng Internet vào mạng nội bộ của tổ chức để phục vụ công việc phải sử dụng mạng riêng ảo và xác thực đa thành tố.Điều 3.1.TT.5.29. Quản lý truy cập hệ thống thông tin và ứng dụng
 
----
+(Điều 29 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ Tổ chức xây dựng và triển khai việc quản lý truy cập đáp ứng yêu cầu sau:
 
-### Điều 3.1.TT.5.53. Chế độ báo cáo
+ 1. Kiểm soát những phần mềm tiện ích có khả năng ảnh hưởng đến hệ thống thông tin.
 
-Tổ chức có trách nhiệm gửi báo cáo về Ngân hàng Nhà nước (Cục Công nghệ thông tin) các nội dung sau:
+ 2. Quy định thời gian truy cập vào ứng dụng tương ứng với thời gian hoạt động nghiệp vụ và dịch vụ mà ứng dụng cung cấp. Tự động ngắt phiên làm việc của người sử dụng sau một thời gian không sử dụng nhằm ngăn chặn sự truy cập trái phép.
 
-**Chỉ mục:** 53
+ 3. Quản lý và phân quyền truy cập thông tin và ứng dụng bảo đảm nguyên tắc cấp quyền vừa đủ để thực hiện nhiệm vụ được giao của người sử dụng:
 
-**Mã phân cấp:** 03001000000000002000001000000000000000000150000000000000000000802665100180005300
+ a) Phân quyền truy cập đến từng thư mục, chức năng của chương trình;
 
-**ID:** dk_00003305
+ b) Phân quyền đọc, ghi, xóa, thực thi đối với thông tin, dữ liệu, chương trình.
 
----
+ 4. Các hệ thống thông tin sử dụng chung nguồn tài nguyên phải được cấp có thẩm quyền phê duyệt. 
 
+ 5. Đối với máy chủ thuộc hệ thống thông tin từ mức độ 2 trở lên phải sử dụng giao thức kết nối an toàn và có phương án chống đăng nhập tự động.Điều 3.1.TT.5.30. Quản lý kết nối Internet
 
-### Điều 3.1.LQ.16. Nguyên tắc bảo vệ thông tin cá nhân trên mạng
+(Điều 30 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Tổ chức quy định và triển khai việc quản lý kết nối Internet đáp ứng yêu cầu sau:
+
+ 1. Quy định quản lý kết nối, truy cập sử dụng Internet gồm các nội dung cơ bản sau:
+
+ a) Trách nhiệm cá nhân và các bộ phận có liên quan trong khai thác sử dụng Internet;
+
+ b) Đối tượng được phép truy cập, kết nối sử dụng Internet;
+
+ c) Các hành vi bị cấm, hạn chế;
+
+ d) Kiểm soát kết nối, truy cập sử dụng Internet;
+
+ đ) Các biện pháp bảo đảm an toàn thông tin khi kết nối Internet.
+
+ 2. Thực hiện quản lý tập trung, thống nhất các cổng kết nối Internet trong toàn bộ tổ chức.
+
+ 3. Triển khai các giải pháp an ninh mạng tại các cổng kết nối Internet để bảo đảm an toàn trước các hiểm họa tấn công từ Internet vào mạng nội bộ của tổ chức.
+
+ 4. Sử dụng các công cụ để dò tìm và phát hiện kịp thời các điểm yếu, lỗ hổng và các tấn công, truy cập bất hợp pháp vào hệ thống mạng nội bộ của tổ chức thông qua cổng kết nối Internet.Điều 3.1.TT.5.52. Kiểm tra nội bộ
+
+(Điều 52 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Tổ chức thực hiện kiểm tra nội bộ như sau:
+
+ 1. Xây dựng quy định kiểm tra nội bộ về công tác bảo đảm an toàn thông tin của tổ chức.
+
+ 2. Xây dựng kế hoạch và thực hiện công tác tự kiểm tra việc tuân thủ các quy định tại Thông tư này và các quy định nội bộ của tổ chức về bảo đảm an toàn thông tin tối thiểu mỗi năm một lần.
+
+ 3. Kết quả kiểm tra về công tác bảo đảm an toàn thông tin của tổ chức phải được lập thành báo cáo gửi người đại diện theo pháp luật và cấp có thẩm quyền, trong đó các vấn đề còn tồn tại chưa bảo đảm tuân thủ các quy định về an toàn thông tin (nếu có) phải có phương án xử lý, kế hoạch thực hiện.
+
+ 4. Tổ chức thực hiện và báo cáo kết quả khắc phục các tồn tại nêu trong báo cáo theo quy định tại khoản 3 Điều này.Điều 3.1.TT.5.53. Chế độ báo cáo
+
+(Điều 53 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ Tổ chức có trách nhiệm gửi báo cáo về Ngân hàng Nhà nước (Cục Công nghệ thông tin) các nội dung sau:
+
+ 1. Báo cáo sự cố an ninh mạng trong vòng 24 giờ kể từ thời điểm sự cố được phát hiện và 05 ngày làm việc sau khi hoàn thành khắc phục sự cố theo Phụ lục kèm theo Thông tư này về địa chỉ thư điện tử cntt@sbv.gov.vn. 
+
+ 2. Báo cáo đánh giá rủi ro theo quy định tại khoản 3 Điều 32 Thông tư này trực tiếp hoặc qua đường bưu điện về Ngân hàng Nhà nước (Cục Công nghệ thông tin, 64 Nguyễn Chí Thanh, Hà Nội) khi thuê ngoài toàn bộ công việc quản trị hệ thống thông tin từ mức độ 2 trở lên trước thời điểm triển khai tối thiểu 10 ngày làm việc.Phụ luc.docx
+
+Mục 2
+
+BẢO VỆ THÔNG TIN CÁ NHÂN
+
+(Mục này có nội dung liên quan đến Điều 22.6.LQ.58. Trách nhiệm của Bộ Thông tin và Truyền thông của Luật 14/2022/QH15 Luật Phòng, chống rửa tiền ban hành ngày 15/11/2022)
+
+Điều 3.1.LQ.16. Nguyên tắc bảo vệ thông tin cá nhân trên mạng
+
+(Điều 16 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cá nhân tự bảo vệ thông tin cá nhân của mình và tuân thủ quy định của pháp luật về cung cấp thông tin cá nhân khi sử dụng dịch vụ trên mạng.
 
-**Chỉ mục:** 16
+2. Cơ quan, tổ chức, cá nhân xử lý thông tin cá nhân có trách nhiệm bảo đảm an toàn thông tin mạng đối với thông tin do mình xử lý.
 
-**Mã phân cấp:** 030010000000000020000020000000000000000001600000000000000000
+3. Tổ chức, cá nhân xử lý thông tin cá nhân phải xây dựng và công bố công khai biện pháp xử lý, bảo vệ thông tin cá nhân của tổ chức, cá nhân mình.
 
-**ID:** dk_00003307
+4. Việc bảo vệ thông tin cá nhân thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
----
+5. Việc xử lý thông tin cá nhân phục vụ mục đích bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội hoặc không nhằm mục đích thương mại được thực hiện theo quy định khác của pháp luật có liên quan.
 
+Điều 3.1.LQ.17. Thu thập và sử dụng thông tin cá nhân
 
-### Điều 3.1.LQ.17. Thu thập và sử dụng thông tin cá nhân
+(Điều 17 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Tổ chức, cá nhân xử lý thông tin cá nhân có trách nhiệm sau đây:
 
-**Chỉ mục:** 17
+a) Tiến hành thu thập thông tin cá nhân sau khi có sự đồng ý của chủ thể thông tin cá nhân về phạm vi, mục đích của việc thu thập và sử dụng thông tin đó;
 
-**Mã phân cấp:** 030010000000000020000020000000000000000001700000000000000000
+b) Chỉ sử dụng thông tin cá nhân đã thu thập vào mục đích khác mục đích ban đầu sau khi có sự đồng ý của chủ thể thông tin cá nhân;
 
-**ID:** dk_00003308
+c) Không được cung cấp, chia sẻ, phát tán thông tin cá nhân mà mình đã thu thập, tiếp cận, kiểm soát cho bên thứ ba, trừ trường hợp có sự đồng ý của chủ thể thông tin cá nhân đó hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
----
+2. Cơ quan nhà nước chịu trách nhiệm bảo mật, lưu trữ thông tin cá nhân do mình thu thập.
 
+3. Chủ thể thông tin cá nhân có quyền yêu cầu tổ chức, cá nhân xử lý thông tin cá nhân cung cấp thông tin cá nhân của mình mà tổ chức, cá nhân đó đã thu thập, lưu trữ.
 
-### Điều 3.1.LQ.18. Cập nhật, sửa đổi và hủy bỏ thông tin cá nhân
+Điều 3.1.LQ.18. Cập nhật, sửa đổi và hủy bỏ thông tin cá nhân
+
+(Điều 18 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Chủ thể thông tin cá nhân có quyền yêu cầu tổ chức, cá nhân xử lý thông tin cá nhân cập nhật, sửa đổi, hủy bỏ thông tin cá nhân của mình mà tổ chức, cá nhân đó đã thu thập, lưu trữ hoặc ngừng cung cấp thông tin cá nhân của mình cho bên thứ ba.
 
-**Chỉ mục:** 18
+2. Ngay khi nhận được yêu cầu của chủ thể thông tin cá nhân về việc cập nhật, sửa đổi, hủy bỏ thông tin cá nhân hoặc đề nghị ngừng cung cấp thông tin cá nhân cho bên thứ ba, tổ chức, cá nhân xử lý thông tin cá nhân có trách nhiệm sau đây:
 
-**Mã phân cấp:** 030010000000000020000020000000000000000001800000000000000000
+a) Thực hiện yêu cầu và thông báo cho chủ thể thông tin cá nhân hoặc cung cấp cho chủ thể thông tin cá nhân quyền tiếp cận để tự cập nhật, sửa đổi, hủy bỏ thông tin cá nhân của mình;
 
-**ID:** dk_00003309
+b) Áp dụng biện pháp phù hợp để bảo vệ thông tin cá nhân; thông báo cho chủ thể thông tin cá nhân đó trong trường hợp chưa thực hiện được yêu cầu do yếu tố kỹ thuật hoặc yếu tố khác.
 
----
+3. Tổ chức, cá nhân xử lý thông tin cá nhân phải hủy bỏ thông tin cá nhân đã được lưu trữ khi đã hoàn thành mục đích sử dụng hoặc hết thời hạn lưu trữ và thông báo cho chủ thể thông tin cá nhân biết, trừ trường hợp pháp luật có quy định khác.
 
+Điều 3.1.LQ.19. Bảo đảm an toàn thông tin cá nhân trên mạng
 
-### Điều 3.1.LQ.19. Bảo đảm an toàn thông tin cá nhân trên mạng
+(Điều 19 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Tổ chức, cá nhân xử lý thông tin cá nhân phải áp dụng biện pháp quản lý, kỹ thuật phù hợp để bảo vệ thông tin cá nhân do mình thu thập, lưu trữ; tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn thông tin mạng.
 
-**Chỉ mục:** 19
+2. Khi xảy ra hoặc có nguy cơ xảy ra sự cố an toàn thông tin mạng, tổ chức, cá nhân xử lý thông tin cá nhân cần áp dụng biện pháp khắc phục, ngăn chặn trong thời gian sớm nhất.
 
-**Mã phân cấp:** 030010000000000020000020000000000000000001900000000000000000
+Điều 3.1.LQ.20. Trách nhiệm của cơ quan quản lý nhà nước trong bảo vệ thông tin cá nhân trên mạng
 
-**ID:** dk_00003310
-
----
-
-
-### Điều 3.1.LQ.20. Trách nhiệm của cơ quan quản lý nhà nước trong bảo vệ thông tin cá nhân trên mạng
+(Điều 20 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Thiết lập kênh thông tin trực tuyến để tiếp nhận kiến nghị, phản ánh của tổ chức, cá nhân liên quan đến bảo đảm an toàn thông tin cá nhân trên mạng.
 
-**Chỉ mục:** 20
+2. Định kỳ hằng năm tổ chức thanh tra, kiểm tra đối với tổ chức, cá nhân xử lý thông tin cá nhân; tổ chức thanh tra, kiểm tra đột xuất trong trường hợp cần thiết.
 
-**Mã phân cấp:** 030010000000000020000020000000000000000002000000000000000000
+Mục 3
 
-**ID:** dk_00003311
+BẢO VỆ HỆ THỐNG THÔNG TIN
 
----
+Điều 3.1.LQ.21. Phân loại cấp độ an toàn hệ thống thông tin
 
-
-### Điều 3.1.LQ.21. Phân loại cấp độ an toàn hệ thống thông tin
+(Điều 21 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Phân loại cấp độ an toàn hệ thống thông tin là việc xác định cấp độ an toàn thông tin của hệ thống thông tin theo cấp độ tăng dần từ 1 đến 5 để áp dụng biện pháp quản lý và kỹ thuật nhằm bảo vệ hệ thống thông tin phù hợp theo cấp độ.
 
-**Chỉ mục:** 21
+2. Hệ thống thông tin được phân loại theo cấp độ an toàn như sau:
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002100000000000000000
+a) Cấp độ 1 là cấp độ mà khi bị phá hoại sẽ làm tổn hại tới quyền và lợi ích hợp pháp của tổ chức, cá nhân nhưng không làm tổn hại tới lợi ích công cộng, trật tự, an toàn xã hội, quốc phòng, an ninh quốc gia;
 
-**ID:** dk_00003313
+b) Cấp độ 2 là cấp độ mà khi bị phá hoại sẽ làm tổn hại nghiêm trọng tới quyền và lợi ích hợp pháp của tổ chức, cá nhân hoặc làm tổn hại tới lợi ích công cộng nhưng không làm tổn hại tới trật tự, an toàn xã hội, quốc phòng, an ninh quốc gia;
 
----
+c) Cấp độ 3 là cấp độ mà khi bị phá hoại sẽ làm tổn hại nghiêm trọng tới sản xuất, lợi ích công cộng và trật tự, an toàn xã hội hoặc làm tổn hại tới quốc phòng, an ninh quốc gia;
 
+d) Cấp độ 4 là cấp độ mà khi bị phá hoại sẽ làm tổn hại đặc biệt nghiêm trọng tới lợi ích công cộng và trật tự, an toàn xã hội hoặc làm tổn hại nghiêm trọng tới quốc phòng, an ninh quốc gia;
 
-### Điều 3.1.NĐ.2.6. Phân loại thông tin và hệ thống thông tin
+đ) Cấp độ 5 là cấp độ mà khi bị phá hoại sẽ làm tổn hại đặc biệt nghiêm trọng tới quốc phòng, an ninh quốc gia.
+
+3. Chính phủ quy định chi tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.
+
+Điều 3.1.NĐ.2.6. Phân loại thông tin và hệ thống thông tin
+
+(Điều 6 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Thông tin xử lý thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
 
-**Chỉ mục:** 6
+a) Thông tin công cộng là thông tin trên mạng của một tổ chức, cá nhân được công khai cho tất cả các đối tượng mà không cần xác định danh tính, địa chỉ cụ thể của các đối tượng đó;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850000600
+b) Thông tin riêng là thông tin trên mạng của một tổ chức, cá nhân mà tổ chức, cá nhân đó không công khai hoặc chỉ công khai cho một hoặc một nhóm đối tượng đã được xác định danh tính, địa chỉ cụ thể;
 
-**ID:** dk_00003314
+c) Thông tin cá nhân là thông tin trên mạng gắn với việc xác định danh tính một người cụ thể;
 
----
+d) Thông tin bí mật nhà nước là thông tin ở mức Mật, Tối Mật, Tuyệt Mật theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
+2. Hệ thống thông tin được phân loại theo chức năng phục vụ hoạt động nghiệp vụ như sau:
 
-### Điều 3.1.NĐ.2.7. Tiêu chí xác định cấp độ 1
+a) Hệ thống thông tin phục vụ hoạt động nội bộ là hệ thống chỉ phục vụ hoạt động quản trị, vận hành nội bộ của cơ quan, tổ chức;
+
+b) Hệ thống thông tin phục vụ người dân, doanh nghiệp là hệ thống trực tiếp hoặc hỗ trợ cung cấp dịch vụ trực tuyến, bao gồm dịch vụ công trực tuyến và dịch vụ trực tuyến khác trong các lĩnh vực viễn thông, công nghệ thông tin, thương mại, tài chính, ngân hàng, y tế, giáo dục và các lĩnh vực chuyên ngành khác;
+
+c) Hệ thống cơ sở hạ tầng thông tin là tập hợp trang thiết bị, đường truyền dẫn kết nối phục vụ chung hoạt động của nhiều cơ quan, tổ chức như mạng diện rộng, cơ sở dữ liệu, trung tâm dữ liệu, điện toán đám mây; xác thực điện tử, chứng thực điện tử, chữ ký số; kết nối liên thông các hệ thống thông tin;
+
+d) Hệ thống thông tin điều khiển công nghiệp là hệ thống có chức năng giám sát, thu thập dữ liệu, quản lý và kiểm soát các hạng mục quan trọng phục vụ điều khiển, vận hành hoạt động bình thường của các công trình xây dựng;
+
+đ) Hệ thống thông tin khác.
+
+Điều 3.1.NĐ.2.7. Tiêu chí xác định cấp độ 1
+
+(Điều 7 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hệ thống thông tin cấp độ 1 là hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và chỉ xử lý thông tin công cộng.
 
-**Chỉ mục:** 7
+Điều 3.1.NĐ.2.8. Tiêu chí xác định cấp độ 2
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850000700
-
-**ID:** dk_00003315
-
----
-
-
-### Điều 3.1.NĐ.2.8. Tiêu chí xác định cấp độ 2
+(Điều 8 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hệ thống thông tin cấp độ 2 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
 
-**Chỉ mục:** 8
+1. Hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và có xử lý thông tin riêng, thông tin cá nhân của người sử dụng nhưng không xử lý thông tin bí mật nhà nước.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850000800
+2. Hệ thống thông tin phục vụ người dân, doanh nghiệp thuộc một trong các loại hình như sau:
 
-**ID:** dk_00003316
+a) Cung cấp thông tin và dịch vụ công trực tuyến từ mức độ 2 trở xuống theo quy định của pháp luật;
 
----
+b) Cung cấp dịch vụ trực tuyến không thuộc danh mục dịch vụ kinh doanh có điều kiện;
 
+c) Cung cấp dịch vụ trực tuyến khác có xử lý thông tin riêng, thông tin cá nhân của dưới 10.000 người sử dụng.
 
-### Điều 3.1.NĐ.2.9. Tiêu chí xác định cấp độ 3
+3. Hệ thống cơ sở hạ tầng thông tin phục vụ hoạt động của một cơ quan, tổ chức.
+
+Điều 3.1.NĐ.2.9. Tiêu chí xác định cấp độ 3
+
+(Điều 9 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hệ thống thông tin cấp độ 3 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
 
-**Chỉ mục:** 9
+1. Hệ thống thông tin xử lý thông tin bí mật nhà nước hoặc hệ thống phục vụ quốc phòng, an ninh khi bị phá hoại sẽ làm tổn hại tới quốc phòng, an ninh quốc gia.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850000900
+2. Hệ thống thông tin phục vụ người dân, doanh nghiệp thuộc một trong các loại hình như sau:
 
-**ID:** dk_00003317
+a) Cung cấp thông tin và dịch vụ công trực tuyến từ mức độ 3 trở lên theo quy định của pháp luật;
 
----
+b) Cung cấp dịch vụ trực tuyến thuộc danh mục dịch vụ kinh doanh có điều kiện;
 
+c) Cung cấp dịch vụ trực tuyến khác có xử lý thông tin riêng, thông tin cá nhân của từ 10.000 người sử dụng trở lên.
 
-### Điều 3.1.NĐ.2.10. Tiêu chí xác định cấp độ 4
+3. Hệ thống cơ sở hạ tầng thông tin dùng chung phục vụ hoạt động của các cơ quan, tổ chức trong phạm vi một ngành, một tỉnh hoặc một số tỉnh.
+
+4. Hệ thống thông tin điều khiển công nghiệp trực tiếp phục vụ điều khiển, vận hành hoạt động bình thường của các công trình xây dựng cấp II, cấp III hoặc cấp IV theo phân cấp của pháp luật về xây dựng.
+
+(Điều này có nội dung liên quan đến Điều 19.5.TT.43.5a. An toàn, an ninh thông tin mạng của Cơ sở dữ liệu quốc gia về khoa học và công nghệ)
+
+Điều 3.1.NĐ.2.10. Tiêu chí xác định cấp độ 4
+
+(Điều 10 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hệ thống thông tin cấp độ 4 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
 
-**Chỉ mục:** 10
+1. Hệ thống thông tin xử lý thông tin bí mật nhà nước hoặc hệ thống phục vụ quốc phòng, an ninh, khi bị phá hoại sẽ làm tổn hại nghiêm trọng quốc phòng, an ninh quốc gia.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001000
+2. Hệ thống thông tin quốc gia phục vụ phát triển Chính phủ điện tử, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.
 
-**ID:** dk_00003318
+3. Hệ thống cơ sở hạ tầng thông tin dùng chung phục vụ hoạt động của các cơ quan, tổ chức trên phạm vi toàn quốc, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.
 
----
+4. Hệ thống thông tin điều khiển công nghiệp trực tiếp phục vụ điều khiển, vận hành hoạt động bình thường của các công trình xây dựng cấp I theo phân cấp của pháp luật về xây dựng.
 
+Điều 3.1.NĐ.2.11. Tiêu chí xác định cấp độ 5
 
-### Điều 3.1.NĐ.2.11. Tiêu chí xác định cấp độ 5
+(Điều 11 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hệ thống thông tin cấp độ 5 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
 
-**Chỉ mục:** 11
+1. Hệ thống thông tin xử lý thông tin bí mật nhà nước hoặc hệ thống phục vụ quốc phòng, an ninh, khi bị phá hoại sẽ làm tổn hại đặc biệt nghiêm trọng tới quốc phòng, an ninh quốc gia.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001100
+2. Hệ thống thông tin phục vụ lưu trữ dữ liệu tập trung đối với một số loại hình thông tin, dữ liệu đặc biệt quan trọng của quốc gia.
 
-**ID:** dk_00003319
+3. Hệ thống cơ sở hạ tầng thông tin quốc gia phục vụ kết nối liên thông hoạt động của Việt Nam với quốc tế.
 
----
+4. Hệ thống thông tin điều khiển công nghiệp trực tiếp phục vụ điều khiển, vận hành hoạt động bình thường của công trình xây dựng cấp đặc biệt theo phân cấp của pháp luật về xây dựng hoặc công trình quan trọng liên quan đến an ninh quốc gia theo pháp luật về an ninh quốc gia.
 
+5. Hệ thống thông tin khác theo quyết định của Thủ tướng Chính phủ.
 
-### Điều 3.1.NĐ.2.12. Thẩm quyền thẩm định và phê duyệt cấp độ
+Điều 3.1.NĐ.2.12. Thẩm quyền thẩm định và phê duyệt cấp độ
+
+(Điều 12 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2:
 
-**Chỉ mục:** 12
+Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin thực hiện thẩm định, phê duyệt hồ sơ đề xuất cấp độ đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001200
+2. Đối với hệ thống thông tin được đề xuất là cấp độ 3:
 
-**ID:** dk_00003320
+a) Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin thực hiện thẩm định hồ sơ đề xuất cấp độ;
 
----
+b) Chủ quản hệ thống thông tin phê duyệt hồ sơ đề xuất cấp độ.
 
+3. Đối với hệ thống thông tin được đề xuất là cấp độ 4 hoặc cấp độ 5:
 
-### Điều 3.1.NĐ.2.13. Trình tự, thủ tục xác định cấp độ đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin
+a) Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và các bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ, trừ trường hợp quy định tại điểm b và điểm c khoản 3 Điều này;
+
+b) Bộ Quốc phòng chủ trì, phối hợp với Bộ Thông tin và Truyền thông và bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ đối với hệ thống thông tin do Bộ Quốc phòng quản lý;
+
+c) Bộ Công an chủ trì, phối hợp với Bộ Thông tin và Truyền thông và bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ đối với hệ thống thông tin do Bộ Công an quản lý;
+
+d) Chủ quản hệ thống thông tin phê duyệt hồ sơ đề xuất cấp độ đối với hệ thống thông tin cấp độ 4; phê duyệt phương án bảo đảm an toàn thông tin đối với hệ thống thông tin cấp độ 5;
+
+đ) Thủ tướng Chính phủ phê duyệt Danh mục hệ thống thông tin cấp độ 5 (Danh mục hệ thống thông tin quan trọng quốc gia).
+
+Điều 3.1.NĐ.2.13. Trình tự, thủ tục xác định cấp độ đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin
+
+(Điều 13 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Chủ đầu tư xây dựng thuyết minh đề xuất cấp độ, lồng ghép vào nội dung của báo cáo nghiên cứu khả thi, dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư của dự án, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt báo cáo nghiên cứu khả thi; dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư theo quy định của pháp luật về đầu tư và quy định Nghị định này.
 
-**Chỉ mục:** 13
+2. Trong trường hợp thuê dịch vụ công nghệ thông tin, đơn vị chủ trì thuê dịch vụ xây dựng thuyết minh đề xuất cấp độ, lồng ghép vào nội dung của kế hoạch, dự án thuê dịch vụ, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt theo quy định của pháp luật về thuê dịch vụ công nghệ thông tin và quy định của Nghị định này.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001300
+3. Tài liệu thuyết minh đề xuất cấp độ theo quy định tại Điều 15 Nghị định này.
 
-**ID:** dk_00003321
+Điều 3.1.NĐ.2.14. Trình tự, thủ tục xác định cấp độ đối với hệ thống thông tin đang vận hành
 
----
-
-
-### Điều 3.1.NĐ.2.14. Trình tự, thủ tục xác định cấp độ đối với hệ thống thông tin đang vận hành
+(Điều 14 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Lập hồ sơ đề xuất cấp độ:
 
-**Chỉ mục:** 14
+a) Đơn vị vận hành hệ thống thông tin lập hồ sơ đề xuất cấp độ theo quy định tại Điều 15 Nghị định này;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001400
+b) Đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2:
 
-**ID:** dk_00003322
+Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị thẩm định để thực hiện thẩm định theo quy định tại khoản 1 Điều 12 Nghị định này;
 
----
+c) Đối với hệ thống thông tin được đề xuất là cấp độ 3:
 
+Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị thẩm định để thực hiện thẩm định theo quy định tại điểm a khoản 2 Điều 12 Nghị định này;
 
-### Điều 3.1.NĐ.2.15. Hồ sơ đề xuất cấp độ
+d) Đối với hệ thống thông tin được đề xuất là cấp độ 4 hoặc cấp độ 5:
+
+- Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin để xin ý kiến chuyên môn về sự phù hợp của đề xuất cấp độ và phương án bảo đảm an toàn hệ thống thông tin theo cấp độ;
+
+- Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin hồ sơ đề xuất cấp độ gửi tới cơ quan thẩm định quy định tại điểm a, điểm b hoặc điểm c khoản 3 Điều 12 Nghị định này.
+
+2. Thẩm định hồ sơ đề xuất cấp độ:
+
+Cơ quan có thẩm quyền thực hiện thẩm định hồ sơ đề xuất cấp độ theo quy định tại Điều 16 Nghị định này.
+
+3. Phê duyệt đề xuất cấp độ:
+
+a) Đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2:
+
+Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin phê duyệt đề xuất cấp độ, gửi báo cáo chủ quản hệ thống thông tin;
+
+b) Đối với hệ thống thông tin được đề xuất là cấp độ 3 hoặc cấp độ 4:
+
+Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin phê duyệt đề xuất cấp độ;
+
+c) Đối với hệ thống thông tin được đề xuất là cấp độ 5:
+
+- Trên cơ sở kết quả thẩm định hồ sơ đề xuất cấp độ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và bộ, ngành có liên quan trình Thủ tướng Chính phủ phê duyệt Danh mục hệ thống thông tin cấp độ 5;
+
+- Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin phê duyệt phương án bảo đảm an toàn thông tin.
+
+Điều 3.1.NĐ.2.15. Hồ sơ đề xuất cấp độ
+
+(Điều 15 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hồ sơ đề xuất cấp độ bao gồm:
 
-**Chỉ mục:** 15
+1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống thông tin.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001500
+2. Tài liệu thiết kế là một trong những tài liệu sau:
 
-**ID:** dk_00003323
+a) Đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin: Thiết kế sơ bộ hoặc tài liệu có giá trị tương đương;
 
----
+b) Đối với hệ thống thông tin đang vận hành: Thiết kế thi công đã được cấp có thẩm quyền phê duyệt hoặc tài liệu có giá trị tương đương.
 
+3. Tài liệu thuyết minh về việc đề xuất cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.
 
-### Điều 3.1.NĐ.2.16. Thẩm định hồ sơ đề xuất cấp độ
+4. Tài liệu thuyết minh phương án bảo đảm an toàn thông tin theo cấp độ tương ứng.
+
+5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin đối với hệ thống thông tin đề xuất cấp độ 4 hoặc cấp độ 5.
+
+Phụ lục.docx
+
+Điều 3.1.NĐ.2.16. Thẩm định hồ sơ đề xuất cấp độ
+
+(Điều 16 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Nội dung thẩm định hồ sơ đề xuất cấp độ:
 
-**Chỉ mục:** 16
+a) Sự phù hợp về việc đề xuất cấp độ;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001600
+b) Sự phù hợp của phương án bảo đảm an toàn hệ thống thông tin trong thiết kế sơ bộ, thiết kế thi công hoặc tài liệu có giá trị tương đương theo cấp độ tương ứng;
 
-**ID:** dk_00003324
+c) Sự phù hợp của phương án bảo đảm an toàn hệ thống thông tin trong quá trình vận hành hệ thống theo cấp độ tương ứng.
 
----
+2. Thời gian thẩm định hồ sơ xác định cấp độ:
 
+a) Đối với hệ thống thông tin đề xuất cấp độ 3, thời gian thẩm định tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ;
 
-### Điều 3.1.TT.2.14. Nộp và tiếp nhận hồ sơ đề xuất cấp độ để thẩm định
+b) Đối với hệ thống thông tin đề xuất cấp độ 4 hoặc cấp độ 5, thời gian thẩm định tối đa là 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
 
-1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
+Phụ lục.docx
 
-**Chỉ mục:** 14
+Điều 3.1.TT.2.14. Nộp và tiếp nhận hồ sơ đề xuất cấp độ để thẩm định
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501400
-
-**ID:** dk_00003325
-
----
-
-
-### Điều 3.1.TT.2.15. Tổ chức thẩm định hồ sơ đề xuất cấp độ
+(Điều 14 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
 
-**Chỉ mục:** 15
+Đơn vị vận hành hệ thống thông tin gửi 01 bản chính và 02 bản sao hợp lệ hồ sơ đề xuất cấp độ tới đơn vị chuyên trách về an toàn thông tin để thẩm định.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501500
+2. Đối với hệ thống thông tin được đề xuất cấp độ 4,5:
 
-**ID:** dk_00003326
+a) Chủ quản hệ thống thông tin gửi 01 bản chính và 04 bản sao hợp lệ hồ sơ đề xuất cấp độ về Bộ Thông tin và Truyền thông (Cục An toàn thông tin) để thẩm định;
 
----
+b) Tổ chức tiếp nhận hồ sơ và địa chỉ tiếp nhận hồ sơ đối với hệ thống thông tin được đề xuất cấp độ 4,5:
 
+Bộ Thông tin và Truyền thông (Cục An toàn thông tin), Tầng 8, Tòa nhà 115 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội.
 
-### Điều 3.1.TT.2.16. Cơ chế phối hợp thẩm định
+Trong trường hợp thay đổi địa chỉ tiếp nhận hồ sơ, Cục An toàn thông tin thông báo công khai việc thay đổi địa chỉ theo quy định.
+
+3. Trong vòng 05 ngày làm việc kể từ ngày tiếp nhận, tổ chức tiếp nhận hồ sơ đề xuất cấp độ kiểm tra tính hợp lệ của hồ sơ. Trong trường hợp hồ sơ không hợp lệ, tổ chức tiếp nhận hồ sơ đề xuất cấp độ thông báo bằng văn bản cho tổ chức nộp hồ sơ biết để bổ sung, hoàn thiện hồ sơ.
+
+Điều 3.1.TT.2.15. Tổ chức thẩm định hồ sơ đề xuất cấp độ
+
+(Điều 15 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
+
+1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
+
+Đơn vị chuyên trách về an toàn thông tin thực hiện thẩm định hồ sơ đề xuất cấp độ theo quy định tại Điều 16 Nghị định 85/2016/NĐ-CP.
+
+Trong quá trình thẩm định, trong trường hợp cần thiết, đơn vị chuyên trách về an toàn thông tin lấy ý kiến bằng văn bản của các đơn vị liên quan.
+
+2. Đối với hệ thống thông tin được đề xuất cấp độ 4,5:
+
+Bộ Thông tin và Truyền thông thực hiện thẩm định hồ sơ đề xuất cấp độ theo quy định tại Điều 16 Nghị định 85/2016/NĐ-CP. Việc tổ chức thẩm định hồ sơ đề xuất cấp độ được thực hiện theo quy trình sau:
+
+a) Cục An toàn thông tin lấy ý kiến bằng văn bản của Vụ Pháp chế và đơn vị liên quan khác thuộc Bộ Thông tin và Truyền thông trong trường hợp cần thiết theo chức năng, nhiệm vụ của các đơn vị;
+
+b) Bộ Thông tin và Truyền thông lấy ý kiến bằng văn bản của Bộ Quốc phòng, Bộ Công an theo quy định.
+
+c) Căn cứ ý kiến bằng văn bản của Bộ Quốc phòng, Bộ Công an và các đơn vị liên quan, trong trường hợp cần thiết, Bộ Thông tin và Truyền thông thành lập Hội đồng thẩm định để trao đổi, thảo luận, cho ý kiến cụ thể. Chủ tịch Hội đồng thẩm định do Bộ trưởng Bộ Thông tin và Truyền thông phân công, đại diện Lãnh đạo Cục An toàn thông tin, Vụ Pháp chế, Trung tâm VNCERT - Bộ Thông tin và Truyền thông, đại diện Lãnh đạo đơn vị chức năng của Bộ Công an, Bộ Quốc phòng và một số chuyên gia độc lập (nếu cần thiết) làm thành viên.
+
+Điều 3.1.TT.2.16. Cơ chế phối hợp thẩm định
+
+(Điều 16 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Đơn vị vận hành hệ thống thông tin có trách nhiệm phối hợp với đơn vị thẩm định hồ sơ đề xuất cấp độ trong việc xác định sự phù hợp của hồ sơ đề xuất cấp độ đối với yêu cầu hoạt động của hệ thống thông tin tương ứng.
 
-**Chỉ mục:** 16
+2. Trong trường hợp cần thiết, đơn vị thẩm định hồ sơ đề xuất cấp độ thực hiện kiểm tra, đánh giá thực tế các phương án bảo đảm an toàn hệ thống thông tin theo cấp độ được đề xuất. Việc kiểm tra, đánh giá bảo đảm không gây ảnh hưởng đến hoạt động bình thường của hệ thống thông tin và có thông báo cho chủ quản hệ thống thông tin, đơn vị vận hành khi phát hiện các điểm yếu an toàn thông tin cần khắc phục.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501600
+…………………………..
 
-**ID:** dk_00003327
+bảo vệ bí mật nguồn gốc, nội dung thông tin theo thống nhất giữa các bên tham gia chia sẻ thông tin.
 
----
+4. Việc chia sẻ thông tin được thực hiện ít nhất mỗi quý một lần và phù hợp với thực tế hoạt động của hệ thống thông tin tương ứng.
 
+5. Các thông tin được chia sẻ bao gồm:
 
-### Điều 3.1.NĐ.2.17. Hồ sơ phê duyệt đề xuất cấp độ
+a) Thông tin chưa được phân tích hoặc đã được phân tích về nguy cơ mất an toàn thông tin; thông tin về các cuộc tấn công mạng đã xảy ra:
+
+- Các loại hình tấn công mạng ghi nhận được tại hệ thống;
+
+- Số lượng các sự kiện tấn công mạng ghi nhận được tại hệ thống;
+
+- Mẫu dữ liệu tấn công mạng thu thập được;
+
+- Các dữ liệu khác theo thống nhất của các bên tham gia chia sẻ thông tin.
+
+b) Các hoạt động bảo đảm an toàn hệ thống thông tin như tuyên truyền, đào tạo, diễn tập và các thông tin khác.
+
+Điều 3.1.NĐ.2.17. Hồ sơ phê duyệt đề xuất cấp độ
+
+(Điều 17 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Hồ sơ phê duyệt đề xuất cấp độ bao gồm:
 
-**Chỉ mục:** 17
+a) Hồ sơ đề xuất cấp độ;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001700
+b) Ý kiến thẩm định của cơ quan chủ trì thẩm định đối với hệ thống thông tin đề xuất từ cấp độ 3 trở lên.
 
-**ID:** dk_00003328
+2. Thời gian xử lý hồ sơ phê duyệt cấp độ:
 
----
+Thời gian xử lý tối đa là 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
 
+Phụ lục.docx
 
-### Điều 3.1.NĐ.2.18. Trình tự, thủ tục xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ
+Điều 3.1.NĐ.2.18. Trình tự, thủ tục xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ
+
+(Điều 18 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Đối với hệ thống thông tin đã được phê duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.
 
-**Chỉ mục:** 18
+Điều 3.1.TT.2.4. Hướng dẫn xác định hệ thống thông tin cụ thể
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000210000000000000000000402587000850001800
-
-**ID:** dk_00003329
-
----
-
-
-### Điều 3.1.TT.2.4. Hướng dẫn xác định hệ thống thông tin cụ thể
+(Điều 4 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Việc xác định hệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc quy định tại khoản 1 Điều 5 Nghị định 85/2016/NĐ-CP.
 
-**Chỉ mục:** 4
+2. Hệ thống thông tin được thiết lập, hình thành thông qua một hoặc một số hình thức sau: Đầu tư xây dựng, thiết lập mới; nâng cấp, mở rộng, tích hợp với hệ thống đã có; thuê hoặc chuyển giao hệ thống.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500400
+3. Hệ thống thông tin phục vụ hoạt động nội bộ là hệ thống chỉ phục vụ hoạt động quản trị, vận hành nội bộ của cơ quan, tổ chức, bao gồm:
 
-**ID:** dk_00003330
+a) Hệ thống thư điện tử;
 
----
+b) Hệ thống quản lý văn bản và điều hành;
 
+c) Hệ thống họp, hội nghị truyền hình trực tuyến;
 
-### Điều 3.1.TT.2.5. Chủ quản hệ thống thông tin
+d) Hệ thống quản lý thông tin cụ thể (nhân sự, tài chính, tài sản hoặc lĩnh vực chuyên môn nghiệp vụ cụ thể khác) hoặc hệ thống quản lý thông tin tổng thể (tích hợp quản lý nhiều chức năng, nghiệp vụ khác nhau);
+
+đ) Hệ thống xử lý thông tin nội bộ.
+
+4. Hệ thống thông tin phục vụ người dân, doanh nghiệp là hệ thống trực tiếp hoặc hỗ trợ cung cấp dịch vụ trực tuyến, bao gồm dịch vụ công trực tuyến và dịch vụ trực tuyến khác trong các lĩnh vực viễn thông, công nghệ thông tin, thương mại, tài chính, ngân hàng, y tế, giáo dục và lĩnh vực chuyên ngành khác, bao gồm:
+
+a) Hệ thống thư điện tử;
+
+b) Hệ thống quản lý văn bản và điều hành;
+
+c) Hệ thống một cửa điện tử;
+
+d) Hệ thống trang, cổng thông tin điện tử;
+
+đ) Hệ thống cung cấp hoặc hỗ trợ cung cấp dịch vụ trực tuyến;
+
+e) Hệ thống chăm sóc khách hàng.
+
+5. Hệ thống cơ sở hạ tầng thông tin là tập hợp trang thiết bị, đường truyền dẫn kết nối phục vụ chung hoạt động của nhiều cơ quan, tổ chức, bao gồm:
+
+a) Mạng nội bộ, mạng diện rộng, mạng truyền số liệu chuyên dùng;
+
+b) Hệ thống cơ sở dữ liệu, trung tâm dữ liệu, điện toán đám mây;
+
+c) Hệ thống xác thực điện tử, chứng thực điện tử, chữ ký số;
+
+d) Hệ thống kết nối liên thông, trục tích hợp các hệ thống thông tin.
+
+6. Hệ thống thông tin điều khiển công nghiệp là hệ thống có chức năng giám sát, thu thập dữ liệu, quản lý và kiểm soát các hạng mục quan trọng phục vụ điều khiển, vận hành hoạt động bình thường của các công trình xây dựng, bao gồm:
+
+a) Hệ thống điều khiển lập trình được (PLCs);
+
+b) Hệ thống điều khiển phân tán (DCS);
+
+c) Hệ thống giám sát và thu thập dữ liệu (SCADA).
+
+7. Hệ thống thông tin khác là hệ thống thông tin không thuộc các loại hình trên, được sử dụng để trực tiếp phục vụ hoặc hỗ trợ hoạt động nghiệp vụ, sản xuất, kinh doanh cụ thể của cơ quan, tổ chức theo lĩnh vực chuyên ngành.
+
+Điều 3.1.TT.2.5. Chủ quản hệ thống thông tin
+
+(Điều 5 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Đối với cơ quan, tổ chức nhà nước, chủ quản hệ thống thông tin là một trong các trường hợp sau:
 
-**Chỉ mục:** 5
+a) Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500500
+b) Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương;
 
-**ID:** dk_00003331
+c) Cấp có thẩm quyền quyết định đầu tư dự án xây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin.
 
----
+2. Đối với doanh nghiệp và tổ chức khác, chủ quản hệ thống thông tin là cấp có thẩm quyền quyết định đầu tư dự án xây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin.
 
+3. Chủ quản hệ thống thông tin có thể ủy quyền cho một tổ chức thay mặt mình thực hiện quyền quản lý trực tiếp đối với hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo quy định tại khoản 2 Điều 20 Nghị định 85/2016/NĐ-CP.
 
-### Điều 3.1.TT.2.6. Đơn vị vận hành hệ thống thông tin
+Việc ủy quyền phải được thực hiện bằng văn bản, trong đó nêu rõ phạm vi và thời hạn ủy quyền. Tổ chức được ủy quyền phải trực tiếp thực hiện quyền và nghĩa vụ của chủ quản hệ thống thông tin mà không được ủy quyền lại cho bên thứ ba.
+
+Điều 3.1.TT.2.6. Đơn vị vận hành hệ thống thông tin
+
+(Điều 6 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Đơn vị vận hành hệ thống thông tin là cơ quan, tổ chức được chủ quản hệ thống thông tin giao nhiệm vụ vận hành hệ thống thông tin.
 
-**Chỉ mục:** 6
+2. Trong trường hợp hệ thống thông tin bao gồm nhiều hệ thống thành phần hoặc phân tán, có nhiều hơn một đơn vị vận hành hệ thống thông tin, chủ quản hệ thống thông tin phải có trách nhiệm chỉ định một đơn vị làm đầu mối để thực hiện quyền và nghĩa vụ của đơn vị vận hành hệ thống thông tin theo quy định của pháp luật.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500600
+3. Trong trường hợp chủ quản hệ thống thông tin thuê ngoài dịch vụ công nghệ thông tin, đơn vị vận hành hệ thống thông tin là bên cung cấp dịch vụ.
 
-**ID:** dk_00003332
+Điều 3.1.TT.2.7. Hướng dẫn xác định và thuyết minh cấp độ an toàn hệ thống thông tin
 
----
-
-
-### Điều 3.1.TT.2.7. Hướng dẫn xác định và thuyết minh cấp độ an toàn hệ thống thông tin
+(Điều 7 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 Việc xác định cấp độ và thuyết minh cấp độ an toàn hệ thống thông tin thực hiện như sau:
 
-**Chỉ mục:** 7
+1. Xác định và phân loại hệ thống thông tin; xác định chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin căn cứ theo quy định tại các Điều 5, 6 Nghị định 85/2016/NĐ-CP và các Điều 4,5,6 Thông tư này.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500700
+2. Xác định loại thông tin được xử lý thông qua hệ thống thông tin căn cứ theo quy định tại khoản 1 Điều 6 Nghị định 85/2016/NĐ-CP.
 
-**ID:** dk_00003333
+3. Xác định cấp độ căn cứ theo quy định tại các điều từ Điều 7 đến Điều 11 Nghị định 85/2016/NĐ-CP. Đối với hệ thống thông tin đề xuất là cấp độ 4 hoặc cấp độ 5, thuyết minh đề xuất cấp độ làm rõ các nội dung sau đây:
 
----
+a) Xác định các hệ thống thông tin khác có liên quan hoặc có kết nối đến hoặc có ảnh hưởng quan trọng tới hoạt động bình thường của hệ thống thông tin được đề xuất; trong đó, xác định rõ mức độ ảnh hưởng đến hệ thống thông tin đang được đề xuất cấp độ khi các hệ thống này bị mất an toàn thông tin.
 
+b) Danh mục đề xuất các thành phần, thiết bị mạng quan trọng, các loại thông tin quan trọng được xử lý trong hệ thống (nếu có);
 
-### Điều 3.1.LQ.22. Nhiệm vụ bảo vệ hệ thống thông tin
+c) Thuyết minh về mức độ quan trọng của các thành phần, thiết bị mạng quan trọng, các loại thông tin, dữ liệu được xử lý hoặc lưu trữ trên hệ thống (nếu có);
+
+d) Thuyết minh về các nguy cơ tấn công mạng, mất an toàn thông tin đối với hệ thống, các thành phần hệ thống và các thiết bị mạng quan trọng; ảnh hưởng của các nguy cơ tấn công mạng, mất an toàn thông tin này đối với các tiêu chí xác định cấp độ theo Điều 10, 11 Nghị định 85/2016/NĐ-CP;
+
+đ) Đánh giá phạm vi và mức độ ảnh hưởng tới lợi ích công cộng, trật tự an toàn xã hội hoặc quốc phòng, an ninh quốc gia khi bị tấn công mạng gây mất an toàn thông tin hoặc gián đoạn hoạt động của từng hệ thống đã được xác định.
+
+Đối với hệ thống thông tin cấp độ 4, thuyết minh yêu cầu cần phải vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước;
+
+e) Thuyết minh khác (nếu có) trên cơ sở thực tế hoạt động của hệ thống thông tin.
+
+Điều 3.1.LQ.22. Nhiệm vụ bảo vệ hệ thống thông tin
+
+(Điều 22 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Xác định cấp độ an toàn thông tin của hệ thống thông tin.
 
-**Chỉ mục:** 22
+2. Đánh giá và quản lý rủi ro an toàn hệ thống thông tin.
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002200000000000000000
+3. Đôn đốc, giám sát, kiểm tra công tác bảo vệ hệ thống thông tin.
 
-**ID:** dk_00003334
+4. Tổ chức triển khai các biện pháp bảo vệ hệ thống thông tin.
 
----
+5. Thực hiện chế độ báo cáo theo quy định.
 
+6. Tổ chức tuyên truyền, nâng cao nhận thức về an toàn thông tin mạng.
 
-### Điều 3.1.TT.5.36. Yêu cầu về an toàn, bảo mật các hệ thống thông tin
+Điều 3.1.TT.5.36. Yêu cầu về an toàn, bảo mật các hệ thống thông tin
 
-Khi xây dựng mới hoặc nâng cấp hệ thống thông tin do tổ chức quản lý trực tiếp, tổ chức phải thực hiện phân loại hệ thống thông tin theo mức độ quan trọng quy định tại khoản 2 Điều 4 Thông tư này. Đối với hệ thống thông tin từ mức độ 2 trở lên, tổ chức thực hiện:
+(Điều 36 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 36
+ Khi xây dựng mới hoặc nâng cấp hệ thống thông tin do tổ chức quản lý trực tiếp, tổ chức phải thực hiện phân loại hệ thống thông tin theo mức độ quan trọng quy định tại khoản 2 Điều 4 Thông tư này. Đối với hệ thống thông tin từ mức độ 2 trở lên, tổ chức thực hiện:
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003600
+ 1. Xây dựng tài liệu thiết kế, mô tả về các phương án bảo đảm an toàn hệ thống thông tin. Trong đó các yêu cầu về an toàn, bảo mật được xây dựng đồng thời với việc xây dựng các yêu cầu kỹ thuật, nghiệp vụ.
 
-**ID:** dk_00003335
+ 2. Xây dựng phương án kiểm tra, xác minh hệ thống được triển khai tuân thủ theo đúng tài liệu thiết kế và yêu cầu bảo đảm an toàn thông tin trước khi nghiệm thu. Kết quả kiểm tra phải lập thành báo cáo và được cấp có thẩm quyền phê duyệt trước khi đưa vào vận hành chính thức.
 
----
+ 3. Giám sát, quản lý chặt chẽ việc thuê mua phần mềm bên ngoài theo quy định tại Điều 35 Thông tư này.Điều 3.1.TT.5.37. Bảo đảm an toàn, bảo mật ứng dụng
 
+(Điều 37 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.37. Bảo đảm an toàn, bảo mật ứng dụng
+ Các chương trình ứng dụng nghiệp vụ phải đáp ứng các yêu cầu tối thiểu sau:
 
-Các chương trình ứng dụng nghiệp vụ phải đáp ứng các yêu cầu tối thiểu sau:
+ 1. Kiểm tra tính hợp lệ của dữ liệu nhập vào các ứng dụng, bảo đảm dữ liệu được nhập vào chính xác và hợp lệ.
 
-**Chỉ mục:** 37
+ 2. Kiểm tra tính hợp lệ của dữ liệu cần được xử lý tự động trong các ứng dụng nhằm phát hiện thông tin sai lệch do các lỗi trong quá trình xử lý hoặc các hành vi sửa đổi thông tin có chủ ý.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003700
+ 3. Có các biện pháp bảo đảm tính xác thực và bảo vệ sự toàn vẹn của dữ liệu được xử lý trong các ứng dụng. 
 
-**ID:** dk_00003336
+ 4. Kiểm tra tính hợp lệ của dữ liệu xuất ra từ các ứng dụng, bảo đảm quá trình xử lý thông tin của các ứng dụng là chính xác và hợp lệ.
 
----
+ 5. Mã khóa bí mật của người sử dụng trong các hệ thống thông tin từ mức độ 2 trở lên phải được mã hóa ở lớp ứng dụng.Điều 3.1.TT.5.38. Quản lý mã hóa
 
+(Điều 38 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.38. Quản lý mã hóa
+ Tổ chức quản lý mã hóa như sau:
 
-Tổ chức quản lý mã hóa như sau:
+ 1. Quy định và đưa vào sử dụng các biện pháp mã hóa theo quy chuẩn kỹ thuật quốc gia về mã hóa dữ liệu sử dụng trong lĩnh vực ngân hàng hoặc tiêu chuẩn quốc tế đã được công nhận.
 
-**Chỉ mục:** 38
+ 2. Có biện pháp quản lý khóa mã hóa để bảo vệ thông tin của tổ chức.Điều 3.1.TT.5.39. An toàn, bảo mật trong quá trình phát triển phần mềm
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003800
+(Điều 39 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003337
+ 1. Tổ chức thực hiện quản lý quá trình phát triển phần mềm như sau:
 
----
+ a) Quản lý, kiểm soát chương trình nguồn. Việc truy cập, tiếp cận chương trình nguồn phải được sự phê duyệt của cấp có thẩm quyền;
 
+ b) Quản lý, bảo vệ tệp tin cấu hình hệ thống.
 
-### Điều 3.1.TT.5.39. An toàn, bảo mật trong quá trình phát triển phần mềm
+ 2. Tổ chức lựa chọn, kiểm soát đối với dữ liệu kiểm tra, thử nghiệm. Không sử dụng dữ liệu thật của hệ thống thông tin vận hành chính thức cho hoạt động kiểm thử khi chưa thực hiện các biện pháp che giấu hoặc thay đổi đối với dữ liệu chứa thông tin khách hàng và thông tin bí mật.Điều 3.1.TT.5.40. Quản lý sự thay đổi hệ thống thông tin
 
-1. Tổ chức thực hiện quản lý quá trình phát triển phần mềm như sau:
+(Điều 40 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 39
+ Tổ chức ban hành quy trình, biện pháp quản lý và kiểm soát sự thay đổi hệ thống thông tin, tối thiểu bao gồm:
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180003900
+ 1. Thực hiện ghi chép lại các thay đổi; lập kế hoạch thay đổi; thực hiện kiểm tra, thử nghiệm sự thay đổi, báo cáo kết quả; phê duyệt kế hoạch thay đổi trước khi áp dụng chính thức thay đổi phiên bản phần mềm, cấu hình phần cứng, tham số phần mềm hệ thống, quy trình vận hành. Có phương án dự phòng cho việc phục hồi hệ thống trong trường hợp thực hiện thay đổi không thành công hoặc gặp các sự cố không có khả năng dự tính trước.
 
-**ID:** dk_00003338
+ 2. Kiểm tra, đánh giá tác động để bảo đảm hệ thống thông tin hoạt động ổn định, an toàn trên môi trường mới đối với hệ thống thông tin từ mức độ 2 trở lên khi thay đổi phiên bản hoặc thay đổi hệ điều hành, cơ sở dữ liệu, phần mềm lớp giữa phải.Điều 3.1.TT.5.41. Đánh giá an ninh bảo mật hệ thống thông tin
 
----
+(Điều 41 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ 1. Nội dung đánh giá hệ thống thông tin của tổ chức về an ninh bảo mật phải bao gồm các nội dung sau:
 
-### Điều 3.1.TT.5.40. Quản lý sự thay đổi hệ thống thông tin
+ a) Đánh giá về kiến trúc hệ thống để xác định tính phù hợp của các thiết bị lắp đặt với kiến trúc hệ thống tổng thể và yêu cầu về an ninh bảo mật;
 
-Tổ chức ban hành quy trình, biện pháp quản lý và kiểm soát sự thay đổi hệ thống thông tin, tối thiểu bao gồm:
+ b) Kiểm tra cấu hình các thiết bị bảo mật, các hệ thống cấp quyền truy cập tự động, hệ thống quản lý thiết bị đầu cuối, danh sách tài khoản;
 
-**Chỉ mục:** 40
+ c) Kiểm tra thử nghiệm mức độ an toàn mạng (Penetration Test), bắt buộc phải thực hiện đối với các hệ thống thông tin có kết nối và cung cấp thông tin, dịch vụ ra Internet, kết nối với khách hàng và bên thứ ba (không áp dụng đối với bên thứ ba là thành viên cùng tập đoàn).
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180004000
+ 2. Tổ chức thực hiện đánh giá an ninh bảo mật đối với hệ thống thông tin từ mức độ 2 trở lên theo các nội dung quy định tại khoản 1 Điều này trước khi đưa vào vận hành chính thức.
 
-**ID:** dk_00003339
+ 3. Trong quá trình vận hành hệ thống thông tin, tổ chức định kỳ thực hiện đánh giá an ninh bảo mật tối thiểu như sau:
 
----
+ a) Sáu tháng một lần đối với hệ thống thông tin mức độ 3 theo các nội dung tại khoản 1 Điều này;
 
+ b) Một năm một lần đối với các hệ thống thông tin mức độ 2 và các trang thiết bị giao tiếp trực tiếp với môi trường bên ngoài như Internet, kết nối với khách hàng và bên thứ ba theo các nội dung tại khoản 1 Điều này;
 
-### Điều 3.1.TT.5.41. Đánh giá an ninh bảo mật hệ thống thông tin
+ c) Hai năm một lần đối với hệ thống thông tin mức độ 1.
 
-1. Nội dung đánh giá hệ thống thông tin của tổ chức về an ninh bảo mật phải bao gồm các nội dung sau:
+ 4. Kết quả đánh giá phải được lập thành văn bản báo cáo người đại diện hợp pháp và cấp có thẩm quyền. Đối với các nội dung chưa tuân thủ quy định về an toàn thông tin (nếu có) phải đề xuất biện pháp, kế hoạch, thời hạn xử lý, khắc phục.Điều 3.1.TT.5.42. Quản lý các điểm yếu về mặt kỹ thuật
 
-**Chỉ mục:** 41
+(Điều 42 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180004100
+ Tổ chức quản lý các điểm yếu về mặt kỹ thuật như sau:
 
-**ID:** dk_00003340
+ 1. Xây dựng quy định về việc đánh giá, quản lý và kiểm soát các điểm yếu về mặt kỹ thuật của các hệ thống thông tin đang sử dụng.
 
----
+ 2. Chủ động phát hiện các điểm yếu về mặt kỹ thuật thông qua các hoạt động:
 
+ a) Thường xuyên cập nhật thông tin liên quan đến lỗ hổng, điểm yếu về mặt kỹ thuật;
 
-### Điều 3.1.TT.5.42. Quản lý các điểm yếu về mặt kỹ thuật
+ b) Thực hiện dò quét, phát hiện các mã độc, lỗ hổng, điểm yếu về mặt kỹ thuật của các hệ thống thông tin đang sử dụng định kỳ tối thiểu như sau: (i) Ba tháng một lần đối với hệ thống thông tin mức độ 3 hoặc các hệ thống thông tin có kết nối với mạng Internet; (ii) Sáu tháng một lần đối với các hệ thống thông tin còn lại.
 
-Tổ chức quản lý các điểm yếu về mặt kỹ thuật như sau:
+ 3. Đánh giá mức độ tác động, rủi ro của từng lỗ hổng, điểm yếu về mặt kỹ thuật được phát hiện của các hệ thống thông tin đang sử dụng và đưa ra phương án, kế hoạch xử lý.
 
-**Chỉ mục:** 42
+ 4. Xây dựng, tổ chức triển khai các giải pháp xử lý, khắc phục và báo cáo kết quả xử lý.Điều 3.1.TT.5.43. Quản lý bảo trì hệ thống thông tin
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180004200
+(Điều 43 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003341
+ Tổ chức quản lý bảo trì hệ thống thông tin như sau:
 
----
+ 1. Ban hành quy định bảo trì hệ thống thông tin ngay sau khi đưa vào hoạt động chính thức. Quy định bảo trì tối thiểu bao gồm các nội dung sau:
 
+ a) Phạm vi, các đối tượng được bảo trì;
 
-### Điều 3.1.TT.5.43. Quản lý bảo trì hệ thống thông tin
+ b) Thời điểm, tần suất bảo trì;
 
-Tổ chức quản lý bảo trì hệ thống thông tin như sau:
+ c) Quy trình, kịch bản kỹ thuật để thực hiện bảo trì của từng cấu phần và toàn bộ hệ thống thông tin;
 
-**Chỉ mục:** 43
+ d) Khi thực hiện bảo trì nếu phát hiện, phát sinh sự cố phải báo cáo cấp có thẩm quyền để xử lý;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180004300
+ đ) Phân công và xác định trách nhiệm của bộ phận thực hiện bảo trì và giám sát bảo trì.
 
-**ID:** dk_00003342
+ 2. Thực hiện bảo trì theo quy định tại khoản 1 Điều này đối với hệ thống thông tin do tổ chức quản lý trực tiếp.
 
----
+ 3. Rà soát quy định bảo trì tối thiểu một năm một lần hoặc khi hệ thống thông tin có sự thay đổi.Điều 3.1.TT.5.48. Nguyên tắc bảo đảm hoạt động liên tục
 
+(Điều 48 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.48. Nguyên tắc bảo đảm hoạt động liên tục
+ 1. Tổ chức thực hiện các yêu cầu tối thiểu sau:
 
-1. Tổ chức thực hiện các yêu cầu tối thiểu sau:
+ a) Phân tích tác động và đánh giá rủi ro đối với việc gián đoạn hoặc ngừng hoạt động của hệ thống thông tin;
 
-**Chỉ mục:** 48
+ b) Xây dựng quy trình và kịch bản bảo đảm hoạt động liên tục hệ thống thông tin theo quy định tại Điều 50 Thông tư này;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180004800
+ c) Tổ chức triển khai bảo đảm hoạt động liên tục theo quy định tại Điều 51 Thông tư này.
 
-**ID:** dk_00003343
+ 2. Trên cơ sở phân tích tác động và đánh giá rủi ro tại điểm a khoản 1 Điều này, tổ chức lập danh sách các hệ thống thông tin cần bảo đảm hoạt động liên tục tối thiểu bao gồm:
 
----
+ a) Hệ thống thông tin phục vụ hoạt động nội bộ hàng ngày của tổ chức và không chấp nhận ngừng vận hành quá 4 giờ làm việc;
 
+ b) Hệ thống phục vụ khách hàng yêu cầu hoạt động 24/7;
 
-### Điều 3.1.TT.5.49. Xây dựng hệ thống dự phòng thảm họa
+ c) Hệ thống cung cấp giao dịch trực tuyến cho khách hàng;
 
-1. Tổ chức xây dựng hệ thống dự phòng thảm họa đáp ứng các yêu cầu sau:
+ d) Hệ thống thông tin mức độ 3.
 
-**Chỉ mục:** 49
+ 3. Các hệ thống cần bảo đảm hoạt động liên tục tại Khoản 2 Điều này phải bảo đảm tính sẵn sàng cao và có hệ thống dự phòng thảm họa.Điều 3.1.TT.5.49. Xây dựng hệ thống dự phòng thảm họa
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180004900
+(Điều 49 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003344
+ 1. Tổ chức xây dựng hệ thống dự phòng thảm họa đáp ứng các yêu cầu sau:
 
----
+ a) Đánh giá rủi ro và xem xét khả năng xảy ra các thảm họa ảnh hưởng đồng thời tới cả hệ thống thông tin chính và hệ thống thông tin dự phòng thảm họa khi lựa chọn địa điểm đặt hệ thống dự phòng thảm họa như: thảm họa tự nhiên như động đất, lũ lụt, bão, đại dịch; thảm họa do yếu tố con người và công nghệ như các sự cố về mạng lưới điện, hỏa hoạn, giao thông, tấn công an ninh mạng;
 
+ b) Địa điểm đặt hệ thống dự phòng phải đáp ứng các yêu cầu quy định tại Điều 16 Thông tư này;
 
-### Điều 3.1.TT.5.50. Xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục
+ c) Hệ thống dự phòng phải bảo đảm khả năng thay thế hệ thống chính trong khoảng thời gian: (i) 4 giờ đồng hồ đối với: hệ thống thông tin phục vụ hoạt động nội bộ hàng ngày của tổ chức và không chấp nhận ngừng vận hành quá 4 giờ làm việc, hệ thống phục vụ khách hàng yêu cầu hoạt động 24/7, hệ thống cung cấp giao dịch trực tuyến cho khách hàng, hệ thống thông tin mức độ 3; (ii) 24 giờ đồng hồ đối với các hệ thống khác.
 
-Tổ chức xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục như sau:
+ 2. Các tổ chức chỉ có một trụ sở làm việc tại Việt Nam phải có văn phòng dự phòng tại một địa điểm khác tách biệt trụ sở làm việc và có trang thiết bị để bảo đảm hoạt động liên tục thay thế trụ sở làm việc.Điều 3.1.TT.5.50. Xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục
 
-**Chỉ mục:** 50
+(Điều 50 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180005000
+ Tổ chức xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục như sau:
 
-**ID:** dk_00003345
+ 1. Xây dựng quy trình xử lý các tình huống mất an toàn, gián đoạn hoạt động của từng cấu phần trong hệ thống thông tin từ mức độ 2 trở lên.
 
----
+ 2. Xây dựng kịch bản chuyển đổi hệ thống dự phòng thay thế cho hoạt động của hệ thống chính, bao gồm nội dung công việc, trình tự thực hiện, dự kiến thời gian hoàn thành đáp ứng các nội dung sau:
 
+ a) Có các nguồn lực, phương tiện và các yêu cầu cần thiết để thực hiện;
 
-### Điều 3.1.TT.5.51. Tổ chức triển khai bảo đảm hoạt động liên tục
+ b) Có các mẫu biểu ghi nhận kết quả;
 
-1. Tổ chức phải có kế hoạch và tổ chức triển khai bảo đảm hoạt động liên tục hệ thống thông tin theo các yêu cầu sau:
+ c) Bố trí và phân công trách nhiệm cho nhân sự tham gia với các vai trò: chỉ đạo thực hiện, giám sát, thực hiện chuyển đổi, vận hành chính thức và kiểm tra kết quả;
 
-**Chỉ mục:** 51
+ d) Áp dụng biện pháp bảo đảm an toàn thông tin;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000220000000000000000000802665100180005100
+ đ) Có phương án bảo đảm hoạt động liên tục khi việc chuyển đổi không thành công. 
 
-**ID:** dk_00003346
+ 3. Các tổ chức chỉ có một trụ sở làm việc tại Việt Nam phải xây dựng kịch bản chuyển đổi hoạt động sang văn phòng dự phòng.
 
----
+ 4. Quy trình, kịch bản chuyển đổi phải được kiểm tra và cập nhật khi có sự thay đổi của hệ thống thông tin, cơ cấu tổ chức, nhân sự và phân công trách nhiệm của các bộ phận có liên quan trong tổ chức.Điều 3.1.TT.5.51. Tổ chức triển khai bảo đảm hoạt động liên tục
 
+(Điều 51 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.LQ.23. Biện pháp bảo vệ hệ thống thông tin
+ 1. Tổ chức phải có kế hoạch và tổ chức triển khai bảo đảm hoạt động liên tục hệ thống thông tin theo các yêu cầu sau:
+
+ a) Tối thiểu sáu tháng một lần, tiến hành kiểm tra, đánh giá hoạt động của hệ thống dự phòng;
+
+ b) Định kỳ hàng năm, thực hiện chuyển hoạt động chính thức từ hệ thống chính sang hệ thống dự phòng tối thiểu 1 ngày làm việc của từng hệ thống thông tin theo danh sách tại khoản 2 Điều 48 Thông tư này; đánh giá kết quả và cập nhật các quy trình, kịch bản chuyển đổi (nếu có).
+
+ 2. Các tổ chức chỉ có một trụ sở làm việc tại Việt Nam phải tổ chức thực hiện diễn tập bảo đảm hoạt động liên tục định kỳ hàng năm.
+
+ 3. Thông báo kế hoạch diễn tập chuyển đổi hoạt động liên tục cho Ngân hàng Nhà nước (Cục Công nghệ thông tin) chậm nhất là 05 ngày làm việc trước khi thực hiện.Điều 3.1.LQ.23. Biện pháp bảo vệ hệ thống thông tin
+
+(Điều 23 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Ban hành quy định về bảo đảm an toàn thông tin mạng trong thiết kế, xây dựng, quản lý, vận hành, sử dụng, nâng cấp, hủy bỏ hệ thống thông tin.
 
-**Chỉ mục:** 23
+2. Áp dụng biện pháp quản lý, kỹ thuật theo tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng để phòng, chống nguy cơ, khắc phục sự cố an toàn thông tin mạng.
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002300000000000000000
+3. Kiểm tra, giám sát việc tuân thủ quy định và đánh giá hiệu quả của các biện pháp quản lý và kỹ thuật được áp dụng.
 
-**ID:** dk_00003347
+4. Giám sát an toàn hệ thống thông tin.
 
----
+Điều 3.1.TT.5.4. Phân loại thông tin và hệ thống thông tin
 
+(Điều 4 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.4. Phân loại thông tin và hệ thống thông tin
+ 1. Thông tin xử lý, lưu trữ thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
 
-1. Thông tin xử lý, lưu trữ thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
+ a) Thông tin công cộng là thông tin được công khai cho tất cả các đối tượng mà không cần xác định danh tính, địa chỉ cụ thể của các đối tượng đó;
 
-**Chỉ mục:** 4
+ b) Thông tin nội bộ là thông tin của tổ chức được phân quyền quản lý, khai thác cho một hoặc một nhóm đối tượng trong tổ chức được xác định danh tính;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000230000000000000000000802665100180000400
+ c) Thông tin bí mật là thông tin: (i) Được xếp ở mức Mật theo quy định của tổ chức và hạn chế đối tượng được tiếp cận; (ii) Mật, Tối Mật, Tuyệt Mật theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
-**ID:** dk_00003348
+ 2. Tiêu chí phân loại theo mức độ quan trọng hệ thống thông tin của các tổ chức:
 
----
+ a) Hệ thống thông tin thông thường (mức độ 1) là hệ thống thông tin phục vụ hoạt động nội bộ của tổ chức hoặc phục vụ khách hàng nhưng không xử lý thông tin bí mật.
 
+ b) Hệ thống thông tin quan trọng (mức độ 2) là hệ thống thông tin có một trong các tiêu chí sau: (i) Hệ thống thông tin có xử lý thông tin bí mật; (ii) Hệ thống thông tin phục vụ hoạt động nội bộ hàng ngày của tổ chức và không chấp nhận ngừng vận hành quá 4 giờ làm việc; (iii) Hệ thống thông tin phục vụ khách hàng yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước; (iv) Hệ thống thông tin cung cấp dịch vụ giao dịch trực tuyến cho khách hàng.
 
-### Điều 3.1.TT.5.5. Quy chế an toàn thông tin
+ c) Hệ thống thông tin đặc biệt quan trọng (mức độ 3) là hệ thống thông tin có một trong các tiêu chí sau: (i) Hệ thống thông tin quốc gia trong ngành Ngân hàng phục vụ phát triển Chính phủ điện tử, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước; (ii) Hệ thống cơ sở hạ tầng thông tin dùng chung trong ngành Ngân hàng phục vụ hoạt động của các cơ quan, tổ chức trên phạm vi toàn quốc yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.
 
-1. Tổ chức xây dựng quy chế an toàn thông tin phù hợp với hệ thống thông tin, cơ cấu tổ chức, yêu cầu quản lý và hoạt động của tổ chức. Quy chế an toàn thông tin phải được người đại diện hợp pháp ký ban hành và triển khai thực hiện trong toàn tổ chức.
+ d) Trong trường hợp hệ thống thông tin bao gồm nhiều hệ thống thành phần, mỗi hệ thống thành phần lại tương ứng với một mức độ quan trọng khác nhau, thì phân loại hệ thống thông tin xác định theo mức độ quan trọng của hệ thống thành phần cung cấp hoạt động kỹ thuật, nghiệp vụ chính.
 
-**Chỉ mục:** 5
+ 3. Tổ chức thực hiện phân loại hệ thống thông tin theo mức độ quan trọng quy định tại khoản 2 Điều này. Danh sách hệ thống thông tin theo mức độ quan trọng phải được người đại diện hợp pháp phê duyệt.Điều 3.1.TT.5.5. Quy chế an toàn thông tin
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000230000000000000000000802665100180000500
+(Điều 5 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003349
+ 1. Tổ chức xây dựng quy chế an toàn thông tin phù hợp với hệ thống thông tin, cơ cấu tổ chức, yêu cầu quản lý và hoạt động của tổ chức. Quy chế an toàn thông tin phải được người đại diện hợp pháp ký ban hành và triển khai thực hiện trong toàn tổ chức.
 
----
+ 2. Quy chế an toàn thông tin tối thiểu gồm các nội dung cơ bản sau:
 
+ a) Quản lý tài sản công nghệ thông tin;
 
-### Điều 3.1.LQ.24. Giám sát an toàn hệ thống thông tin
+ b) Quản lý nguồn nhân lực;
+
+ c) Bảo đảm an toàn về mặt vật lý và môi trường lắp đặt;
+
+ d) Quản lý vận hành và trao đổi thông tin;
+
+ đ) Quản lý truy cập;
+
+ e) Quản lý sử dụng dịch vụ công nghệ thông tin của bên thứ ba;
+
+ g) Quản lý tiếp nhận, phát triển, duy trì hệ thống thông tin;
+
+ h) Quản lý sự cố an toàn thông tin;
+
+ i) Bảo đảm hoạt động liên tục của hệ thống thông tin;
+
+ k) Kiểm tra nội bộ và chế độ báo cáo.
+
+ 3. Tổ chức rà soát quy chế an toàn thông tin tối thiểu mỗi năm một lần, bảo đảm sự đầy đủ của quy chế theo các quy định tại Thông tư này. Khi phát hiện những bất cập, bất hợp lý gây ra mất an toàn thông tin hoặc theo yêu cầu của cơ quan có thẩm quyền, tổ chức tiến hành chỉnh sửa, bổ sung ngay quy chế an toàn thông tin đã ban hành.Điều 3.1.LQ.24. Giám sát an toàn hệ thống thông tin
+
+(Điều 24 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Giám sát an toàn hệ thống thông tin là hoạt động lựa chọn đối tượng giám sát, thu thập, phân tích trạng thái thông tin của đối tượng giám sát nhằm xác định những nhân tố ảnh hưởng đến an toàn hệ thống thông tin; báo cáo, cảnh báo hành vi xâm phạm an toàn thông tin mạng hoặc hành vi có khả năng gây ra sự cố an toàn thông tin mạng đối với hệ thống thông tin; tiến hành phân tích yếu tố then chốt ảnh hưởng tới trạng thái an toàn thông tin mạng; đề xuất thay đổi biện pháp kỹ thuật.
 
-**Chỉ mục:** 24
+2. Đối tượng giám sát an toàn hệ thống thông tin gồm tường lửa, kiểm soát truy nhập, tuyến thông tin chủ yếu, máy chủ quan trọng, thiết bị quan trọng hoặc thiết bị đầu cuối quan trọng.
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002400000000000000000
+3. Doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ công nghệ thông tin, doanh nghiệp cung cấp dịch vụ an toàn thông tin mạng có trách nhiệm phối hợp với chủ quản hệ thống thông tin trong việc giám sát an toàn hệ thống thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
-**ID:** dk_00003350
+Điều 3.1.TT.4.3. Nguyên tắc giám sát
 
----
+(Điều 3 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
+ 1. Đảm bảo được thực hiện thường xuyên, liên tục.
 
-### Điều 3.1.TT.4.3. Nguyên tắc giám sát
+ 2. Chủ động theo dõi, phân tích, phòng ngừa để kịp thời phát hiện, ngăn chặn rủi ro, sự cố an toàn thông tin mạng.
 
-1. Đảm bảo được thực hiện thường xuyên, liên tục.
+ 3. Đảm bảo hoạt động ổn định, bí mật cho thông tin được cung cấp, trao đổi trong quá trình giám sát.
 
-**Chỉ mục:** 3
+ 4. Có sự điều phối, kết hợp chặt chẽ, hiệu quả giữa hoạt động giám sát của Bộ Thông tin và Truyền thông và hoạt động giám sát của chủ quản hệ thống thông tin; từng bước xây dựng khả năng liên thông giữa hệ thống giám sát của Bộ Thông tin và Truyền thông và hệ thống giám sát của chủ quản hệ thống thông tin trên phạm vi toàn quốc.Điều 3.1.TT.4.4. Phương thức giám sát
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000300
+(Điều 4 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-**ID:** dk_00003351
+ 1. Giám sát được thực hiện qua phương thức giám sát trực tiếp hoặc phương thức giám sát gián tiếp. Chủ quản hệ thống thông tin có thể trực tiếp triển khai hoặc thuê dịch vụ giám sát. Trong trường hợp cần thiết, căn cứ vào năng lực, tình hình và nguồn lực thực tế chủ quản hệ thống thông tin đề nghị các đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông hỗ trợ giám sát phù hợp với nguồn lực thực tế.
 
----
+ 2. Giám sát trực tiếp là hoạt động giám sát được tiến hành bằng cách đặt các thiết bị có chức năng phân tích luồng dữ liệu (quan trắc), thu nhận trực tiếp thông tin nhật ký, cảnh báo hệ thống được giám sát để phát hiện ra các dấu hiệu tấn công, rủi ro, sự cố an toàn thông tin mạng. Giám sát trực tiếp bao gồm các hoạt động sau:
 
+ a) Phân tích, thu thập các thông tin an toàn thông tin mạng:
 
-### Điều 3.1.TT.4.4. Phương thức giám sát
+ - Phân tích, quan trắc an toàn thông tin mạng trên đường truyền mạng/luồng thông tin tại các cổng kết nối Internet bằng các công cụ có khả năng phân tích đường truyền mạng để phát hiện tấn công, rủi ro, sự cố an toàn thông tin mạng như thiết bị phát hiện/ngăn ngừa tấn công phù hợp với đối tượng được giám sát (ví dụ: IDS/IPS/Web Firewall v.v...);
 
-1. Giám sát được thực hiện qua phương thức giám sát trực tiếp hoặc phương thức giám sát gián tiếp. Chủ quản hệ thống thông tin có thể trực tiếp triển khai hoặc thuê dịch vụ giám sát. Trong trường hợp cần thiết, căn cứ vào năng lực, tình hình và nguồn lực thực tế chủ quản hệ thống thông tin đề nghị các đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông hỗ trợ giám sát phù hợp với nguồn lực thực tế.
+ - Thu thập nhật ký (log file), cảnh báo an toàn thông tin mạng phản ánh hoạt động các ứng dụng, hệ thống thông tin, thiết bị an toàn thông tin.
 
-**Chỉ mục:** 4
+ b) Tổng hợp, đồng bộ, xác minh và xử lý các thông tin an toàn thông tin mạng để phát hiện ra các tấn công, rủi ro, sự cố an toàn thông tin mạng hoặc loại bỏ các thông tin không chính xác.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000400
+ 3. Giám sát gián tiếp là hoạt động giám sát thực hiện các kỹ thuật thu thập thông tin từ các nguồn thông tin có liên quan; kiểm tra, rà soát đối tượng cần giám sát để phát hiện tình trạng hoạt động, khả năng đáp ứng và kết hợp với một số yếu tố khác có liên quan để phân tích nhằm phát hiện ra các tấn công, rủi ro, sự cố an toàn thông tin mạng. Giám sát gián tiếp bao gồm các hoạt động sau:
 
-**ID:** dk_00003352
+ a) Thu thập, phân tích, xác minh các thông tin về tấn công, rủi ro, sự cố an toàn thông tin mạng liên quan đến đối tượng giám sát từ các nguồn thông tin có liên quan;
 
----
+ b) Kiểm tra, rà soát từ xa hoặc trực tiếp các đối tượng được giám sát để đánh giá tình trạng, phát hiện tấn công, rủi ro, sự cố an toàn thông tin mạng có khả năng bị khai thác, tấn công, gây hại.Điều 3.1.TT.4.6. Hoạt động giám sát của doanh nghiệp
 
+(Điều 6 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-### Điều 3.1.TT.4.6. Hoạt động giám sát của doanh nghiệp
+ Doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ công nghệ thông tin, doanh nghiệp cung cấp dịch vụ an toàn thông tin mạng có trách nhiệm:
 
-Doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ công nghệ thông tin, doanh nghiệp cung cấp dịch vụ an toàn thông tin mạng có trách nhiệm:
+ 1. Phối hợp với chủ quản hệ thống thông tin trong việc giám sát theo yêu cầu của Bộ Thông tin và Truyền thông.
 
-**Chỉ mục:** 6
+ 2. Cung cấp các thông tin về hạ tầng, kỹ thuật, hệ thống mạng và thực hiện các hỗ trợ kỹ thuật theo yêu cầu của Bộ Thông tin và Truyền thông phục vụ cho hoạt động giám sát của Bộ Thông tin và Truyền thông.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000600
+ 3. Thực hiện các nhiệm vụ giám sát theo quy định tại Điều 7 Quyết định số 05/2017/QĐ-TTg của Thủ tướng Chính phủ.Điều 3.1.TT.4.7. Đầu mối giám sát, cảnh báo
 
-**ID:** dk_00003353
+(Điều 7 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
----
+ 1. Chủ quản hệ thống thông tin có trách nhiệm cử cá nhân hoặc bộ phận làm đầu mối giám sát, cảnh báo an toàn thông tin mạng để phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông.
 
+ 2. Đầu mối giám sát phải đảm bảo khả năng cung cấp, tiếp nhận thông tin kịp thời, liên tục. Đầu mối giám sát có chức năng thực hiện hoạt động giám sát trong phạm vi hệ thống thông tin của mình.
 
-### Điều 3.1.TT.4.7. Đầu mối giám sát, cảnh báo
+ 3. Đầu mối giám sát thực hiện cung cấp, trao đổi thông tin theo một hay đồng thời nhiều cách như công văn, thư điện tử, điện thoại, fax, hoặc trao đổi trên một phần mềm trao đổi thông tin chuyên biệt nhằm đảm bảo thông tin được bảo mật.
 
-1. Chủ quản hệ thống thông tin có trách nhiệm cử cá nhân hoặc bộ phận làm đầu mối giám sát, cảnh báo an toàn thông tin mạng để phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông.
+ 4. Thông tin đầu mối giám sát bao gồm: Họ tên cá nhân, tên bộ phận, chức vụ, địa chỉ, số điện thoại (cố định và di động), địa chỉ thư điện tử, chữ ký số (nếu đã có).Điều 3.1.TT.4.8. Trao đổi, cung cấp, chia sẻ thông tin
 
-**Chỉ mục:** 7
+(Điều 8 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000700
+ 1. Khuyến khích các đầu mối giám sát trao đổi, cung cấp thông tin cho nhau nhằm mục đích phối hợp trong công tác giám sát, cảnh báo, ứng cứu sự cố và tăng tính chủ động đối phó với các nguy cơ, mối đe dọa, phương thức, thủ đoạn tấn công an toàn thông tin mạng của tổ chức, cá nhân.
 
-**ID:** dk_00003354
+ 2. Các thông tin chia sẻ, cung cấp và trao đổi bao gồm các thông tin về tấn công, rủi ro, sự cố an toàn thông tin mạng; các phương thức, thủ đoạn, nguồn gốc tấn công; các tác động, ảnh hưởng do sự cố gây ra; biện pháp quản lý, kỹ thuật để xử lý, khắc phục.
 
----
+ 3. Nguyên tắc trao đổi, cung cấp thông tin
 
+ a) Kịp thời, chính xác và áp dụng các biện pháp quản lý, kỹ thuật phù hợp để bảo mật thông tin trao đổi;
 
-### Điều 3.1.TT.4.8. Trao đổi, cung cấp, chia sẻ thông tin
+ b) Chủ động xác minh thông tin trao đổi nhằm đảm bảo tính xác thực của thông tin;
 
-1. Khuyến khích các đầu mối giám sát trao đổi, cung cấp thông tin cho nhau nhằm mục đích phối hợp trong công tác giám sát, cảnh báo, ứng cứu sự cố và tăng tính chủ động đối phó với các nguy cơ, mối đe dọa, phương thức, thủ đoạn tấn công an toàn thông tin mạng của tổ chức, cá nhân.
+ c) Sử dụng một hoặc đồng thời nhiều hình thức trao đổi thông tin như website, công văn, thư điện tử, tin nhắn, điện thoại, fax;
 
-**Chỉ mục:** 8
+ d) Khi cung cấp, trao đổi thông tin với đơn vị chức năng của Bộ Thông tin và Truyền thông cần thực hiện theo hướng dẫn của Bộ Thông tin và Truyền thông.Điều 3.1.TT.4.9. Hoạt động nâng cao năng lực giám sát
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000800
+(Điều 9 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-**ID:** dk_00003355
+ 1. Tổ chức giao ban, hội thảo định kỳ về hoạt động giám sát.
 
----
+ 2. Bồi dưỡng, huấn luyện, diễn tập nhằm nâng cao năng lực giám sát.
 
+ 3. Đôn đốc, kiểm tra việc thực hiện hoạt động giám sát, cảnh báo của các bộ phận chuyên trách về an toàn thông tin mạng.
 
-### Điều 3.1.TT.4.9. Hoạt động nâng cao năng lực giám sát
+ 4. Chia sẻ kiến thức, kinh nghiệm về giám sát, cảnh báo, ứng cứu sự cố.
 
-1. Tổ chức giao ban, hội thảo định kỳ về hoạt động giám sát.
+ 5. Nghiên cứu, xây dựng các công cụ hỗ trợ hoạt động phối hợp, trao đổi thông tin trong công tác giám sát, cảnh báo, ứng cứu sự cố.
 
-**Chỉ mục:** 9
+ 6. Phát triển các sản phẩm, dịch vụ giám sát, phân tích, cảnh báo chuyên sâu cho từng đối tượng giám sát cụ thể.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310000900
+ 7. Thúc đẩy xây dựng các thỏa thuận hợp tác song phương, đa phương giữa bộ phận chuyên trách về an toàn thông tin mạng nhằm nâng cao năng lực giám sát, cảnh báo.
 
-**ID:** dk_00003356
+ 8. Tăng cường hợp tác quốc tế trong công tác giám sát, cảnh báo, ứng cứu sự cố.Điều 3.1.TT.4.10. Mô hình giám sát của Bộ Thông tin và Truyền thông
 
----
+(Điều 10 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
+ 1. Hoạt động giám sát trung tâm:
 
-### Điều 3.1.TT.4.10. Mô hình giám sát của Bộ Thông tin và Truyền thông
+ a) Là việc thu thập, theo dõi, phát hiện, phân tích, xử lý, báo cáo, thu thập chứng cứ về các dấu hiệu tấn công, rủi ro, sự cố an toàn thông tin mạng dựa trên các dữ liệu/thông tin an toàn thông tin mạng được thu thập bởi giám sát trực tiếp thông qua các hệ thống quan trắc cơ sở hoặc giám sát gián tiếp, đồng thời thực hiện việc lưu trữ các dữ liệu thu thập được dưới dạng sự kiện và quản lý tập trung các hệ thống quan trắc cơ sở;
 
-1. Hoạt động giám sát trung tâm:
+ b) Được thực hiện thông qua các Hệ thống giám sát các sự cố an toàn mạng và Hệ thống xử lý tấn công mạng Internet Việt Nam do các đơn vị chức năng của Bộ Thông tin và Truyền thông quản lý và vận hành trên nguyên tắc chia sẻ dữ liệu, hoạt động liên thông để nâng cao hiệu quả giám sát.
 
-**Chỉ mục:** 10
+ 2. Hệ thống quan trắc cơ sở
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310001000
+ a) Là tập hợp các thiết bị, phần mềm có khả năng theo dõi, thu thập, phân tích, cung cấp thông tin nhật ký, trạng thái, cảnh báo cho hoạt động giám sát trung tâm phục vụ cho việc phân tích, phát hiện các sự cố, điểm yếu, nguy cơ, lỗ hổng an toàn thông tin mạng;
 
-**ID:** dk_00003357
+ b) Được cung cấp các điều kiện kỹ thuật và vị trí đặt phù hợp cho việc hoạt động, thu thập dữ liệu từ đối tượng giám sát theo hướng dẫn của đơn vị chức năng của Bộ Thông tin và Truyền thông;
 
----
+ c) Do đơn vị chức năng của Bộ Thông tin và Truyền thông chủ trì, phối hợp với chủ quản hệ thống thông tin xây dựng, thiết lập, quản lý và vận hành theo quy định pháp luật;
 
+ d) Thiết bị/phần mềm thực hiện quan trắc cơ sở được thiết lập để kết nối và phục vụ cho hoạt động giám sát trung tâm dựa trên các tiêu chuẩn, quy chuẩn kỹ thuật hoặc hướng dẫn nghiệp vụ của Bộ Thông tin và Truyền thông.Điều 3.1.TT.4.11. Hoạt động giám sát của Bộ Thông tin và Truyền thông
 
-### Điều 3.1.TT.4.11. Hoạt động giám sát của Bộ Thông tin và Truyền thông
+(Điều 11 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
-1. Bộ Thông tin và Truyền thông thực hiện giám sát hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử.
+ 1. Bộ Thông tin và Truyền thông thực hiện giám sát hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử.
 
-**Chỉ mục:** 11
+ 2. Theo đề nghị của chủ quản hệ thống thông tin, Bộ Thông tin và Truyền thông tổ chức thực hiện giám sát đối với hệ thống thông tin thuộc lĩnh vực quan trọng cần ưu tiên đảm bảo an toàn thông tin mạng phù hợp với nguồn lực thực tế.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000240000000000000000000802637200310001100
+ 3. Hoạt động giám sát trung tâm của Bộ Thông tin và Truyền thông đảm bảo có khả năng tiếp nhận, phân tích thông tin giám sát thu thập được từ hệ thống quan trắc cơ sở và các thiết bị, hệ thống phục vụ giám sát gián tiếp.
 
-**ID:** dk_00003358
+ 4. Hoạt động giám sát của Bộ Thông tin và Truyền thông bao gồm:
 
----
+ a) Lựa chọn, quản lý, cập nhật danh sách đối tượng giám sát quy định tại Thông tư này và các văn bản pháp luật có liên quan;
 
+ b) Theo dõi, trực trung tâm giám sát, lập báo cáo phân tích giám sát; kiểm tra, đôn đốc công tác theo dõi, trực giám sát;
 
-### Điều 3.1.LQ.25. Trách nhiệm của chủ quản hệ thống thông tin
+ c) Tổng hợp, lưu trữ, phân tích, phân loại thông tin, dữ liệu thu thập được từ các hệ thống quan trắc cơ sở, các thiết bị, hệ thống phục vụ giám sát gián tiếp và các nguồn thông tin khác;
+
+ d) Thực hiện kiểm tra, phân tích chứng cứ, dữ liệu để phát hiện các dấu hiệu bất thường, nguy cơ mất an toàn thông tin mạng. Trong trường hợp chưa xác minh rõ nguy cơ, sự cố xảy ra, thực hiện các giải pháp bổ sung nhằm thu thập thêm các thông tin, dữ liệu cần thiết để tăng tính chính xác của kết quả phân tích và thông tin cảnh báo;
+
+ đ) Tiến hành điều tra, xác minh nhằm xác định nguy cơ, sự cố xảy ra đối với các đối tượng giám sát. Phân tích, phân loại tấn công, rủi ro, sự cố an toàn thông tin mạng tùy theo tình hình cụ thể. Cảnh báo cho bộ phận phụ trách về an toàn thông tin mạng, đơn vị vận hành hệ thống thông tin, chủ quản hệ thống thông tin khi phát hiện các tấn công, rủi ro, sự cố xảy ra đối với đối tượng giám sát;
+
+ e) Hướng dẫn việc triển khai giám sát của chủ quản hệ thống thông tin; tổ chức thiết lập và hướng dẫn kết nối từ hệ thống giám sát của chủ quản hệ thống thông tin đến các hệ thống phục vụ giám sát trung tâm của Bộ Thông tin và Truyền thông. Bảo mật dữ liệu an toàn thông tin mạng trong quá trình thu thập và phân tích;
+
+ g) Định kỳ thống kê kết quả giám sát, tình hình cảnh báo và xử lý tấn công, rủi ro, sự cố an toàn thông tin mạng để phục vụ công tác lưu trữ, báo cáo;
+
+ h) Hướng dẫn, hỗ trợ đơn vị vận hành hệ thống thông tin, chủ quản hệ thống thông tin thực hiện ứng cứu, xử lý các tấn công, rủi ro, sự cố an toàn thông tin mạng trong trường hợp cần thiết;
+
+ i) Hỗ trợ một số đơn vị vận hành hệ thống thông tin, chủ quản hệ thống thông tin thiết lập hệ thống quan trắc cơ sở phù hợp với nguồn lực thực tế;
+
+ k) Các đơn vị chức năng của Bộ Thông tin và Truyền thông hàng năm lập dự toán và phê duyệt, phân bổ kinh phí thực hiện nhiệm vụ giám sát từ nguồn ngân sách nhà nước và các nguồn vốn hợp pháp khác theo quy định của pháp luật và hướng dẫn của cơ quan chức năng để trình Bộ trưởng hoặc trình cấp có thẩm quyền phê duyệt.Điều 3.1.LQ.25. Trách nhiệm của chủ quản hệ thống thông tin
+
+(Điều 25 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Chủ quản hệ thống thông tin có trách nhiệm thực hiện bảo vệ hệ thống thông tin theo quy định tại các điều 22, 23 và 24 của Luật này.
 
-**Chỉ mục:** 25
+2. Chủ quản hệ thống thông tin sử dụng ngân sách nhà nước thực hiện trách nhiệm quy định tại khoản 1 Điều này và có trách nhiệm sau đây:
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002500000000000000000
+a) Có phương án bảo đảm an toàn thông tin mạng được cơ quan nhà nước có thẩm quyền thẩm định khi thiết lập, mở rộng hoặc nâng cấp hệ thống thông tin;
 
-**ID:** dk_00003359
+b) Chỉ định cá nhân, bộ phận phụ trách về an toàn thông tin mạng.
 
----
+Điều 3.1.NĐ.2.20. Trách nhiệm của chủ quản hệ thống thông tin
 
-
-### Điều 3.1.NĐ.2.20. Trách nhiệm của chủ quản hệ thống thông tin
+(Điều 20 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Người đứng đầu của cơ quan, tổ chức là chủ quản hệ thống thông tin có trách nhiệm:
 
-**Chỉ mục:** 20
+a) Trực tiếp chỉ đạo và phụ trách công tác bảo đảm an toàn thông tin trong hoạt động của cơ quan, tổ chức mình;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000250000000000000000000402587000850002000
+b) Trong trường hợp chưa có đơn vị chuyên trách về an toàn thông tin độc lập:
 
-**ID:** dk_00003360
+- Chỉ định đơn vị chuyên trách về công nghệ thông tin làm nhiệm vụ đơn vị chuyên trách về an toàn thông tin;
 
----
+- Thành lập hoặc chỉ định bộ phận chuyên trách về an toàn thông tin trực thuộc đơn vị chuyên trách về công nghệ thông tin.
 
+2. Chủ quản hệ thống thông tin có trách nhiệm:
 
-### Điều 3.1.TT.4.5. Yêu cầu giám sát trực tiếp đối với chủ quản hệ thống thông tin
+a) Chỉ đạo đơn vị vận hành hệ thống thông tin lập hồ sơ đề xuất cấp độ; tổ chức thẩm định, phê duyệt hồ sơ đề xuất cấp độ theo quy định Nghị định này;
+
+b) Chỉ đạo, tổ chức thực hiện phương án bảo đảm an toàn hệ thống thông tin theo cấp độ đối với hệ thống thông tin thuộc phạm vi mình quản lý theo quy định tại Điều 25, 26 và 27 của Luật an toàn thông tin mạng, Nghị định này và quy định của pháp luật liên quan;
+
+c) Chỉ đạo, tổ chức thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong phạm vi cơ quan, tổ chức mình, cụ thể như sau:
+
+- Định kỳ 02 năm thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin tổng thể trong hoạt động của cơ quan, tổ chức mình;
+
+- Định kỳ hàng năm thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin đối với các hệ thống cấp độ 3 và cấp độ 4;
+
+- Định kỳ 06 tháng (hoặc đột xuất khi thấy cần thiết hoặc theo yêu cầu, cảnh báo của cơ quan chức năng) thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin đối với hệ thống cấp độ 5;
+
+- Việc kiểm tra, đánh giá an toàn thông tin và đánh giá rủi ro an toàn thông tin đối với hệ thống từ cấp độ 3 trở lên phải do tổ chức chuyên môn được cơ quan có thẩm quyền cấp phép; tổ chức sự nghiệp nhà nước có chức năng, nhiệm vụ phù hợp hoặc do tổ chức chuyên môn được cấp có thẩm quyền chỉ định thực hiện.
+
+d) Chỉ đạo, tổ chức thực hiện đào tạo ngắn hạn, tuyên truyền, phổ biến, nâng cao nhận thức và diễn tập về an toàn thông tin, cụ thể như sau:
+
+- Đào tạo, bồi dưỡng theo các chương trình đào tạo ngắn hạn nâng cao kiến thức, kỹ năng về an toàn thông tin cho cán bộ, công chức, viên chức làm về an toàn thông tin trong cơ quan, tổ chức mình;
+
+- Tuyên truyền, phổ biến nâng cao nhận thức về an toàn thông tin cho cán bộ, công chức, viên chức trong cơ quan, tổ chức mình;
+
+- Diễn tập bảo đảm an toàn thông tin trong hoạt động của cơ quan, tổ chức mình; tham gia diễn tập quốc gia và diễn tập quốc tế do Bộ Thông tin và Truyền thông tổ chức.
+
+đ) Chỉ đạo đơn vị vận hành hệ thống thông tin phối hợp với đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông trong việc triển khai thiết bị, kết nối tới hệ thống kỹ thuật xử lý, giảm thiểu tấn công mạng, hỗ trợ giám sát an toàn thông tin cho hệ thống thông tin cung cấp dịch vụ công trực tuyến, phát triển chính phủ điện tử.
+
+Điều 3.1.TT.4.5. Yêu cầu giám sát trực tiếp đối với chủ quản hệ thống thông tin
+
+(Điều 5 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
 Chủ quản hệ thống thông tin có trách nhiệm chủ động thực hiện giám sát theo quy định hiện hành. Đối với hệ thống thông tin cấp độ 3 trở lên, hoạt động giám sát của chủ quản hệ thống thông tin cần đáp ứng các yêu cầu tối thiểu sau đây:
 
-**Chỉ mục:** 5
+1. Thành phần giám sát trung tâm của chủ quản hệ thống thông tin cần đáp ứng các yêu cầu sau:
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000250000000000000000000802637200310000500
+a) Cung cấp đầy đủ các tính năng thu thập và tổng hợp các thông tin an toàn thông tin mạng;
 
-**ID:** dk_00003361
+b) Phân tích các thông tin thu thập để phát hiện và cảnh báo tấn công, rủi ro, sự cố an toàn thông tin mạng có khả năng ảnh hưởng tới hoạt động hệ thống hoặc khả năng cung cấp các dịch vụ của hệ thống thông tin được giám sát;
 
----
+c) Cung cấp giao diện thuận tiện cho việc theo dõi, giám sát liên tục của cán bộ giám sát;
 
+d) Thực hiện thu thập và phân tích các thông tin đầu vào tối thiểu sau đây: nhật ký máy chủ web (web server) với các ứng dụng web (ví dụ: cổng thông tin điện tử, dịch vụ công trực tuyến v.v...); cảnh báo/nhật ký của thiết bị quan trắc cơ sở; cảnh báo/nhật ký của thiết bị tường lửa được thiết lập bảo vệ luồng kết nối mạng Internet liên quan đến các đối tượng cần giám sát;
 
-### Điều 3.1.LQ.26. Hệ thống thông tin quan trọng quốc gia
+e) Năng lực xử lý thành phần giám sát trung tâm của chủ quản hệ thống thông tin cần phù hợp với khối lượng, định dạng và có khả năng phân tích thông tin an toàn thông tin mạng thu thập từ các hệ thống được giám sát.
+
+2. Thu thập thông tin an toàn thông tin mạng và quan trắc cơ sở cần đáp ứng các yêu cầu sau:
+
+a) Thực hiện thu thập thông tin an toàn thông tin mạng từ nhật ký và cảnh báo của các phần mềm/thiết bị liên quan đến đối tượng cần giám sát để cung cấp cho thành phần giám sát trung tâm của chủ quản hệ thống thông tin hoặc theo yêu cầu của cơ quan chức năng thuộc Bộ Thông tin và Truyền thông. Các thông tin an toàn thông tin mạng tối thiểu cần thu thập và cung cấp bao gồm: nhật ký máy chủ web (web server) của các ứng dụng web (ví dụ: cổng thông tin điện tử, dịch vụ công trực tuyến v.v...); cảnh báo/nhật ký của thiết bị quan trắc cơ sở; cảnh báo/nhật ký của thiết bị tường lửa được thiết lập bảo vệ luồng kết nối mạng Internet liên quan đến các đối tượng cần giám sát;
+
+b) Các thiết bị quan trắc cơ sở đảm bảo các chức năng phát hiện tấn công, rủi ro, sự cố an toàn thông tin mạng; cần được thiết lập để đảm bảo khả năng giám sát bao phủ được tất cả các đường kết nối mạng Internet của đối tượng cần giám sát;
+
+c) Thiết bị quan trắc cần đáp ứng tối thiểu các chức năng phát hiện, tạo lập luật phát hiện tấn công riêng dựa trên các thông tin như: địa chỉ IP nguồn, địa chỉ IP đích, địa chỉ cổng nguồn, địa chỉ cổng đích, các đoạn dữ liệu đặc biệt trong gói tin được truyền qua. Đối với các cơ quan, tổ chức nhà nước tự triển khai thiết bị quan trắc cơ sở, ưu tiên sử dụng các thiết bị phát hiện tấn công đã có (ví dụ: IDS, IPS, tường lửa Web, v.v...) để kết hợp làm thiết bị quan trắc cơ sở;
+
+d) Đối với các hệ thống thông tin phục vụ Chính phủ điện tử sử dụng giao thức có mã hóa (ví dụ: https), cần có phương án kỹ thuật đảm bảo thiết bị quan trắc an toàn thông tin mạng có được đầy đủ thông tin để có thể phát hiện được các tấn công, rủi ro, sự cố an toàn thông tin mạng;
+
+e) Thiết lập, kết nối các thiết bị quan trắc cơ sở với hệ thống giám sát của Bộ Thông tin và Truyền thông theo hướng dẫn và yêu cầu của cơ quan chức năng.
+
+3. Nội dung thực hiện giám sát:
+
+a) Theo dõi, trực giám sát liên tục, lập báo cáo hàng ngày, đảm bảo hệ thống giám sát của chủ quản hệ thống thông tin hoạt động và thu thập thông tin ổn định, liên tục;
+
+b) Xây dựng và ban hành các quy chế giám sát an toàn thông tin mạng, trong đó quy định cụ thể về thời hạn định kỳ thống kê kết quả xử lý, lập báo cáo;
+
+c) Theo dõi, vận hành các thiết bị quan trắc cơ sở đảm bảo ổn định, liên tục, điều chỉnh kịp thời khi có các thay đổi và thực hiện đầy đủ các hướng dẫn của Bộ Thông tin và Truyền thông để đảm bảo hiệu quả giám sát;
+
+d) Lập báo cáo kết quả giám sát hàng tuần để báo cáo chủ quản hệ thống thông tin, nội dung báo cáo tuần bao gồm đầy đủ các thông tin sau: thời gian giám sát; danh mục đối tượng bị tấn công cần chú ý (địa chỉ IP, mô tả dịch vụ cung cấp, thời điểm bị tấn công); kỹ thuật tấn công đã phát hiện được và chứng cứ liên quan; các đối tượng thực hiện tấn công; các thay đổi trong hệ thống được giám sát và hệ thống giám sát; v.v...;
+
+đ) Tiến hành phân loại nguy cơ, rủi ro, sự cố an toàn thông tin mạng tùy theo tình hình cụ thể;
+
+e) Định kỳ thống kê kết quả xử lý nguy cơ, rủi ro, sự cố an toàn thông tin mạng để phục vụ công tác lưu trữ, báo cáo;
+
+g) Trong trường hợp chủ quản hệ thống thông tin đề nghị đơn vị chức năng của Bộ Thông tin và Truyền thông thực hiện giám sát cơ sở hoặc hệ thống thuộc trách nhiệm giám sát của Bộ Thông tin và Truyền thông, chủ quản hệ thống thông tin có trách nhiệm cung cấp và cập nhật thông tin về hệ thống thông tin cần giám sát và mô tả phương án kỹ thuật triển khai hệ thống giám sát của chủ quản hệ thống thông tin cho Bộ Thông tin và Truyền thông theo mẫu phiếu cung cấp thông tin tại Phụ lục 1, trong đó có các thông tin:
+
+- Mô tả đối tượng được giám sát, bao gồm các thông tin cơ bản sau đây: địa chỉ IP, tên miền, dịch vụ cung cấp, tên và phiên bản hệ điều hành, phần mềm ứng dụng web;
+
+- Vị trí đặt hệ thống giám sát của chủ quản hệ thống thông tin, dung lượng các đường truyền kết nối vào đối tượng giám sát của chủ quản hệ thống thông tin, các thông tin dự kiến thu thập và giao thức thu thập, ví dụ cảnh báo của IDS, nhật ký tường lửa (log firewall), nhật ký máy chủ web (log web server), v.v...
+
+h) Năng lực lưu trữ thông tin giám sát tối thiểu đạt mức trung bình 30 ngày hoạt động trong điều kiện bình thường;
+
+i) Cung cấp thông tin giám sát theo định kỳ hoặc đột xuất có yêu cầu của Bộ Thông tin và Truyền thông theo quy định của pháp luật;
+
+k) Báo cáo hoạt động giám sát của chủ quản hệ thống thông tin định kỳ 06 tháng theo mẫu tại Phụ lục 2.
+
+Phụ lục 1.doc
+
+Phụ lục 2.doc
+
+Điều 3.1.LQ.26. Hệ thống thông tin quan trọng quốc gia
+
+(Điều 26 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Khi thiết lập, mở rộng và nâng cấp hệ thống thông tin quan trọng quốc gia phải thực hiện kiểm định an toàn thông tin trước khi đưa vào vận hành, khai thác.
 
-**Chỉ mục:** 26
+2. Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và bộ, ngành có liên quan xây dựng Danh mục hệ thống thông tin quan trọng quốc gia trình Thủ tướng Chính phủ ban hành.
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002600000000000000000
+Điều 3.1.LQ.27. Trách nhiệm bảo đảm an toàn thông tin mạng cho hệ thống thông tin quan trọng quốc gia
 
-**ID:** dk_00003362
-
----
-
-
-### Điều 3.1.LQ.27. Trách nhiệm bảo đảm an toàn thông tin mạng cho hệ thống thông tin quan trọng quốc gia
+(Điều 27 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Chủ quản hệ thống thông tin quan trọng quốc gia có trách nhiệm sau đây:
 
-**Chỉ mục:** 27
+a) Thực hiện quy định tại khoản 2 Điều 25 của Luật này;
 
-**Mã phân cấp:** 030010000000000020000030000000000000000002700000000000000000
+b) Định kỳ đánh giá rủi ro an toàn thông tin mạng. Việc đánh giá rủi ro an toàn thông tin mạng phải do tổ chức chuyên môn được cơ quan nhà nước có thẩm quyền chỉ định thực hiện;
 
-**ID:** dk_00003363
+c) Triển khai biện pháp dự phòng cho hệ thống thông tin;
 
----
+d) Lập kế hoạch bảo vệ, lập phương án và diễn tập phương án bảo vệ hệ thống thông tin quan trọng quốc gia.
 
+2. Bộ Thông tin và Truyền thông có trách nhiệm sau đây:
 
-### Điều 3.1.NĐ.2.19. Phương án bảo đảm an toàn hệ thống thông tin theo cấp độ
+a) Chủ trì, phối hợp với chủ quản hệ thống thông tin quan trọng quốc gia, Bộ Công an và bộ, ngành có liên quan hướng dẫn, đôn đốc, thanh tra, kiểm tra công tác bảo vệ an toàn thông tin mạng đối với hệ thống thông tin quan trọng quốc gia, trừ hệ thống thông tin quy định tại khoản 3 và khoản 4 Điều này;
+
+b) Yêu cầu doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ công nghệ thông tin, doanh nghiệp cung cấp dịch vụ an toàn thông tin mạng tham gia tư vấn, hỗ trợ kỹ thuật, ứng cứu sự cố an toàn thông tin mạng cho hệ thống thông tin quan trọng quốc gia.
+
+3. Bộ Công an chủ trì hướng dẫn, đôn đốc, thanh tra, kiểm tra công tác bảo vệ an toàn thông tin mạng đối với hệ thống thông tin quan trọng quốc gia do Bộ Công an quản lý; phối hợp với Bộ Thông tin và Truyền thông, chủ quản hệ thống thông tin quan trọng quốc gia, bộ, ngành, Ủy ban nhân dân các cấp có liên quan trong việc bảo vệ hệ thống thông tin quan trọng quốc gia khác khi có yêu cầu của cơ quan nhà nước có thẩm quyền.
+
+4. Bộ Quốc phòng chủ trì hướng dẫn, đôn đốc, thanh tra, kiểm tra công tác bảo vệ an toàn thông tin mạng đối với hệ thống thông tin quan trọng quốc gia do Bộ Quốc phòng quản lý.
+
+5. Ban Cơ yếu Chính phủ chủ trì tổ chức triển khai giải pháp dùng mật mã để bảo vệ thông tin trong hệ thống thông tin quan trọng quốc gia của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; phối hợp với chủ quản hệ thống thông tin quan trọng quốc gia trong việc giám sát an toàn thông tin mạng theo quy định của pháp luật.
+
+Điều 3.1.NĐ.2.19. Phương án bảo đảm an toàn hệ thống thông tin theo cấp độ
+
+(Điều 19 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Phương án bảo đảm an toàn hệ thống thông tin phải đáp ứng yêu cầu cơ bản trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn hệ thống thông tin theo cấp độ.
 
-**Chỉ mục:** 19
+2. Phương án bảo đảm an toàn hệ thống thông tin bao gồm các nội dung sau đây:
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850001900
+a) Bảo đảm an toàn hệ thống thông tin trong khâu thiết kế, xây dựng;
 
-**ID:** dk_00003364
+b) Bảo đảm an toàn hệ thống thông tin trong quá trình vận hành;
 
----
+c) Kiểm tra, đánh giá an toàn thông tin;
 
+d) Quản lý rủi ro an toàn thông tin;
 
-### Điều 3.1.TT.2.8. Yêu cầu chung
+đ) Giám sát an toàn thông tin;
+
+e) Dự phòng, ứng cứu sự cố, khôi phục sau thảm họa;
+
+g) Kết thúc vận hành, khai thác, thanh lý, hủy bỏ.
+
+Điều 3.1.TT.2.8. Yêu cầu chung
+
+(Điều 8 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ thực hiện theo yêu cầu cơ bản quy định tại Thông tư này; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin và tiêu chuẩn, quy chuẩn kỹ thuật chuyên ngành có liên quan khác.
 
-**Chỉ mục:** 8
+2. Yêu cầu cơ bản đối với từng cấp độ quy định tại Thông tư này là yêu cầu tối thiểu để bảo đảm an toàn hệ thống thông tin và không bao gồm các yêu cầu bảo đảm an toàn vật lý.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036500800
+3. Yêu cầu cơ bản bao gồm:
 
-**ID:** dk_00003365
+a) Yêu cầu kỹ thuật: An toàn hạ tầng mạng; an toàn máy chủ; an toàn ứng dụng và an toàn dữ liệu;
 
----
+b) Yêu cầu quản lý: Chính sách chung; tổ chức, nhân sự; quản lý thiết kế, xây dựng; quản lý vận hành; kiểm tra, đánh giá và quản lý rủi ro.
 
+4. Việc xây dựng phương án bảo đảm an toàn thông tin đáp ứng yêu cầu cơ bản theo từng cấp độ thực hiện theo nguyên tắc quy định tại khoản 2 Điều 4 Nghị định 85/2016/NĐ-CP, cụ thể như sau:
 
-### Điều 3.1.TT.2.9. Yêu cầu cơ bản đối với từng cấp độ
+a) Đối với hệ thống thông tin cấp độ 1,2,3: Phương án bảo đảm an toàn thông tin phải xem xét khả năng dùng chung giữa các hệ thống thông tin đối với các giải pháp bảo vệ, chia sẻ tài nguyên để tối ưu hiệu năng, tránh đầu tư thừa, trùng lặp, lãng phí. Trong trường hợp đầu tư mới, phải có thuyết minh về việc giải pháp đã có không đáp ứng được yêu cầu cơ bản;
+
+b) Đối với hệ thống thông tin cấp độ 4,5: Phương án bảo đảm an toàn thông tin cần được thiết kế bảo đảm tính sẵn sàng, phân tách và hạn chế ảnh hưởng đến toàn bộ hệ thống khi một thành phần trong hệ thống hoặc có liên quan tới hệ thống bị mất an toàn thông tin.
+
+Điều 3.1.TT.2.9. Yêu cầu cơ bản đối với từng cấp độ
+
+(Điều 9 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 1 phải đáp ứng yêu cầu quy định chi tiết tại Phụ lục 1 ban hành kèm theo Thông tư này.
 
-**Chỉ mục:** 9
+2. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 2 phải đáp ứng yêu cầu như đối với cấp độ 1 và bổ sung yêu cầu quy định chi tiết tại Phụ lục 2 ban hành kèm theo Thông tư này.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036500900
+3. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 3 phải đáp ứng yêu cầu như đối với cấp độ 2 và bổ sung yêu cầu quy định chi tiết tại Phụ lục 3 ban hành kèm theo Thông tư này.
 
-**ID:** dk_00003366
+4. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 4 phải đáp ứng yêu cầu như đối với cấp độ 3 và bổ sung yêu cầu quy định chi tiết tại Phụ lục 4 ban hành kèm theo Thông tư này.
 
----
+5. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 5 phải đáp ứng yêu cầu như đối với cấp độ 4 và bổ sung yêu cầu quy định chi tiết tại Phụ lục 5 ban hành kèm theo Thông tư này.
 
+Phụ lục.doc
 
-### Điều 3.1.TT.2.10. Nội dung, hình thức kiểm tra, đánh giá
+(Điều này có nội dung liên quan đến Điều 3.6.TT.30.12. Quy định về bảo đảm an toàn thông tin cho mạng TSLCD)
+
+Điều 3.1.TT.2.10. Nội dung, hình thức kiểm tra, đánh giá
+
+(Điều 10 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Nội dung kiểm tra, đánh giá:
 
-**Chỉ mục:** 10
+a) Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ;
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501000
+b) Đánh giá hiệu quả của biện pháp bảo đảm an toàn hệ thống thông tin;
 
-**ID:** dk_00003367
+c) Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống;
 
----
+d) Kiểm tra, đánh giá khác do chủ quản hệ thống thông tin quy định.
 
+2. Hình thức kiểm tra, đánh giá:
 
-### Điều 3.1.TT.2.11. Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ
+a) Kiểm tra, đánh giá định kỳ theo kế hoạch của chủ quản hệ thống thông tin;
+
+b) Kiểm tra, đánh giá đột xuất theo yêu cầu của cấp có thẩm quyền.
+
+3. Cấp có thẩm quyền yêu cầu kiểm tra, đánh giá:
+
+a) Bộ trưởng Bộ Thông tin và Truyền thông;
+
+b) Chủ quản hệ thống thông tin đối với hệ thống thông tin thuộc thẩm quyền quản lý;
+
+c) Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin đối với hệ thống thông tin do đơn vị này phê duyệt hồ sơ đề xuất cấp độ.
+
+4. Đơn vị chủ trì kiểm tra, đánh giá là đơn vị được cấp có thẩm quyền giao nhiệm vụ hoặc được lựa chọn để thực hiện nhiệm vụ kiểm tra, đánh giá.
+
+5. Đối tượng kiểm tra, đánh giá là chủ quản hệ thống thông tin hoặc đơn vị vận hành hệ thống thông tin và các hệ thống thông tin có liên quan.
+
+Điều 3.1.TT.2.11. Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ
+
+(Điều 11 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ bao gồm:
 
-**Chỉ mục:** 11
+a) Kiểm tra việc tuân thủ quy định của pháp luật về xác định cấp độ an toàn hệ thống thông tin;
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501100
+b) Kiểm tra việc tuân thủ quy định của pháp luật về thực hiện phương án bảo đảm an toàn hệ thống thông tin theo cấp độ.
 
-**ID:** dk_00003368
+2. Đơn vị chủ trì kiểm tra là một trong những đơn vị sau đây:
 
----
+a) Cục An toàn thông tin;
 
+b) Đơn vị chuyên trách về an toàn thông tin.
 
-### Điều 3.1.TT.2.12. Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin
+3. Kế hoạch kiểm tra định kỳ bao gồm các nội dung sau:
+
+a) Danh sách các đơn vị, hệ thống thông tin (nếu có) sẽ tiến hành kiểm tra;
+
+b) Phạm vi và nội dung kiểm tra;
+
+c) Thời gian tiến hành kiểm tra;
+
+d) Đơn vị phối hợp kiểm tra (nếu có).
+
+4. Quyết định kiểm tra được lập sau khi kế hoạch kiểm tra định kỳ được cấp có thẩm quyền phê duyệt hoặc khi có kiểm tra đột xuất của cấp có thẩm quyền.
+
+5. Đối với kiểm tra định kỳ:
+
+a) Đơn vị chủ trì kiểm tra lập kế hoạch kiểm tra định kỳ cho năm sau trình cấp có thẩm quyền phê duyệt để làm cơ sở triển khai thực hiện;
+
+b) Trường hợp có thay đổi so với kế hoạch kiểm tra định kỳ đã được phê duyệt, đơn vị chủ trì kiểm tra lập kế hoạch kiểm tra định kỳ điều chỉnh trình cấp có thẩm quyền phê duyệt điều chỉnh;
+
+c) Kế hoạch kiểm tra định kỳ được gửi cho đối tượng kiểm tra và cơ quan cấp trên của đối tượng kiểm tra trong thời hạn tối đa 10 ngày kể từ ngày được phê duyệt nhưng tối thiểu 10 ngày trước ngày tiến hành kiểm tra.
+
+6. Đối với kiểm tra đột xuất:
+
+Căn cứ yêu cầu kiểm tra đột xuất, quyết định kiểm tra, Trưởng đoàn kiểm tra quy định các nội dung kiểm tra cho phù hợp.
+
+7. Sau khi kết thúc kiểm tra trực tiếp tại cơ sở, Đoàn kiểm tra có trách nhiệm thông báo cho đối tượng kiểm tra biết và bàn giao tài liệu, trang thiết bị sử dụng (nếu có) trong quá trình kiểm tra.
+
+Đoàn kiểm tra có trách nhiệm dự thảo Báo cáo kiểm tra, gửi cho đối tượng kiểm tra để lấy ý kiến. Trong thời hạn 05 ngày kể từ ngày nhận được dự thảo Báo cáo kiểm tra, đối tượng kiểm tra có trách nhiệm có ý kiến đối với các nội dung dự thảo.
+
+8. Trên cơ sở dự thảo Báo cáo kiểm tra, ý kiến tiếp thu giải trình của đối tượng kiểm tra, trong thời hạn 30 ngày kể từ ngày kết thúc kiểm tra tại cơ sở, Đoàn kiểm tra hoàn thiện Báo cáo kiểm tra và dự thảo kết luận kiểm tra trình cấp có thẩm quyền yêu cầu kiểm tra xem xét, phê duyệt.
+
+Kết luận kiểm tra phải gửi cho đối tượng kiểm tra và cơ quan quản lý cấp trên của đối tượng kiểm tra (nếu có) và các đơn vị có liên quan (nếu cần thiết).
+
+Điều 3.1.TT.2.12. Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin
+
+(Điều 12 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin là việc rà soát một cách tổng thể, xác minh mức độ hiệu quả của phương án bảo đảm an toàn thông tin theo từng tiêu chí, yêu cầu cơ bản cụ thể.
 
-**Chỉ mục:** 12
+Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin đã được áp dụng là cơ sở để tiến hành điều chỉnh phương án bảo đảm an toàn thông tin cho phù hợp với yêu cầu thực tiễn.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501200
+2. Đơn vị chủ trì đánh giá là một trong những tổ chức sau đây:
 
-**ID:** dk_00003369
+a) Cục An toàn thông tin;
 
----
+b) Đơn vị chuyên trách về an toàn thông tin;
 
+c) Tổ chức sự nghiệp nhà nước có chức năng, nhiệm vụ phù hợp;
 
-### Điều 3.1.TT.2.13. Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống
+d) Doanh nghiệp đã được cấp phép cung cấp dịch vụ kiểm tra, đánh giá an toàn thông tin mạng.
+
+3. Đơn vị vận hành hệ thống thông tin lập kế hoạch đánh giá định kỳ cho năm sau trình cấp có thẩm quyền phê duyệt để làm cơ sở triển khai thực hiện. Kế hoạch đánh giá bao gồm:
+
+a) Danh sách các đơn vị, hệ thống thông tin sẽ tiến hành đánh giá;
+
+b) Thời gian tiến hành đánh giá;
+
+c) Đơn vị thực hiện: Tự thực hiện hoặc do đơn vị chuyên trách về an toàn thông tin thực hiện hoặc thuê ngoài theo quy định của pháp luật.
+
+4. Trường hợp có thay đổi so với kế hoạch đánh giá đã được phê duyệt, đơn vị vận hành hệ thống thông tin lập kế hoạch đánh giá điều chỉnh trình cấp có thẩm quyền phê duyệt điều chỉnh.
+
+5. Sau khi kết thúc kiểm tra trực tiếp tại cơ sở, đơn vị chủ trì đánh giá có trách nhiệm thông báo cho đơn vị vận hành hệ thống thông tin biết và bàn giao tài liệu, trang thiết bị sử dụng (nếu có) trong quá trình kiểm tra.
+
+Đơn vị chủ trì đánh giá có trách nhiệm dự thảo Báo cáo đánh giá, gửi cho đơn vị vận hành hệ thống thông tin để lấy ý kiến. Trong thời hạn 05 ngày kể từ ngày nhận được dự thảo Báo cáo đánh giá, đơn vị vận hành hệ thống thông tin có trách nhiệm có ý kiến đối với các nội dung dự thảo.
+
+6. Trên cơ sở dự thảo Báo cáo đánh giá, ý kiến của đơn vị vận hành hệ thống thông tin, đơn vị chủ trì đánh giá hoàn thiện Báo cáo đánh giá, gửi đơn vị vận hành và chủ quản hệ thống thông tin.
+
+Điều 3.1.TT.2.13. Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống
+
+(Điều 13 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống là việc thực hiện dò quét, phát hiện lỗ hổng, điểm yếu của hệ thống, thử nghiệm tấn công xâm nhập hệ thống và đánh giá nguy cơ, thiệt hại có thể có của hệ thống thông tin khi bị đối tượng tấn công xâm nhập.
 
-**Chỉ mục:** 13
+2. Đơn vị chủ trì đánh giá là một trong những tổ chức sau đây:
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501300
+a) Cục An toàn thông tin;
 
-**ID:** dk_00003370
+b) Đơn vị chuyên trách về an toàn thông tin;
 
----
+c) Tổ chức sự nghiệp nhà nước có chức năng, nhiệm vụ phù hợp;
 
+d) Doanh nghiệp đã được cấp phép cung cấp dịch vụ kiểm tra, đánh giá an toàn thông tin mạng hoặc tổ chức khác được chủ quản hệ thống thông tin cho phép thực hiện đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống.
 
-### Điều 3.1.NĐ.2.21. Trách nhiệm của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin
+3. Đơn vị chủ trì đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống có trách nhiệm:
+
+a) Thông báo cho chủ quản hệ thống thông tin về điểm yếu an toàn thông tin phát hiện ra nhằm khắc phục, phòng tránh các sự cố an toàn thông tin;
+
+b) Thực hiện công tác bảo đảm an toàn cho dữ liệu liên quan đến hệ thống được đánh giá, không công bố dữ liệu liên quan khi chưa được sự đồng ý của chủ quản hệ thống thông tin;
+
+c) Việc đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống phải bảo đảm không ảnh hưởng đến hoạt động bình thường của hệ thống.
+
+Điều 3.1.NĐ.2.21. Trách nhiệm của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin
+
+(Điều 21 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Tham mưu, tổ chức thực thi, đôn đốc, kiểm tra, giám sát công tác bảo đảm an toàn thông tin.
 
-**Chỉ mục:** 21
+2. Thẩm định, phê duyệt hoặc cho ý kiến về mặt chuyên môn đối với hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại khoản 1, khoản 2 Điều 12 và khoản 5 Điều 15 Nghị định này.
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850002100
+Điều 3.1.NĐ.2.22. Trách nhiệm của đơn vị vận hành hệ thống thông tin
 
-**ID:** dk_00003371
-
----
-
-
-### Điều 3.1.NĐ.2.22. Trách nhiệm của đơn vị vận hành hệ thống thông tin
+(Điều 22 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Đơn vị vận hành hệ thống thông tin có trách nhiệm:
 
-**Chỉ mục:** 22
+1. Thực hiện xác định cấp độ an toàn hệ thống thông tin theo quy định tại Điều 14 Nghị định này;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850002200
+2. Thực hiện bảo vệ hệ thống thông tin theo quy định của pháp luật và hướng dẫn, tiêu chuẩn, quy chuẩn an toàn thông tin;
 
-**ID:** dk_00003372
+3. Định kỳ đánh giá hiệu quả của các biện pháp bảo đảm an toàn thông tin, báo cáo chủ quản hệ thống thông tin điều chỉnh nếu cần thiết;
 
----
+4. Định kỳ hoặc đột xuất báo cáo công tác thực thi bảo đảm an toàn hệ thống thông tin theo yêu cầu của chủ quản hệ thống thông tin hoặc cơ quan quản lý nhà nước chuyên ngành có thẩm quyền;
 
+5. Phối hợp, thực hiện theo yêu cầu của cơ quan chức năng liên quan của Bộ Thông tin và Truyền thông trong công tác bảo đảm an toàn thông tin.
 
-### Điều 3.1.TT.2.17. Chế độ báo cáo
+Điều 3.1.TT.2.17. Chế độ báo cáo
 
-1. Chủ quản hệ thống thông tin cấp độ 1, 2 chỉ đạo đơn vị vận hành hệ thống thông tin thực hiện chế độ báo cáo định kỳ hoặc đột xuất theo quy định tại khoản 4 Điều 22 Nghị định số 85/2016/NĐ-CP .
+(Điều 17 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
-**Chỉ mục:** 17
+1. Chủ quản hệ thống thông tin cấp độ 1, 2 chỉ đạo đơn vị vận hành hệ thống thông tin thực hiện chế độ báo cáo định kỳ hoặc đột xuất theo quy định tại khoản 4 Điều 22 Nghị định số [85/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx) .
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000220000802616700036501700
+2. Chủ quản hệ thống thông tin cấp độ 3, 4, 5 thực hiện chế độ báo cáo định kỳ hàng năm hoặc báo cáo đột xuất theo yêu cầu của Bộ Thông tin và Truyền thông.
 
-**ID:** dk_00003373
+3. Nội dung báo cáo:
 
----
+a) Tình hình an toàn thông tin của hệ thống thông tin trong kỳ báo cáo;
 
+b) Tiến độ triển khai, áp dụng phương án bảo đảm an toàn hệ thống thông tin theo hồ sơ xác định cấp độ đã được phê duyệt;
 
-### Điều 3.1.TT.2.18. Chia sẻ thông tin
+c) Hiệu quả áp dụng phương án bảo đảm an toàn hệ thống thông tin theo hồ sơ xác định cấp độ đã được phê duyệt;
+
+d) Đề xuất thay đổi cấp độ, phương án bảo đảm an toàn hệ thống thông tin (nếu có);
+
+đ) Nội dung khác phục vụ công tác bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+4. Báo cáo định kỳ gửi về Bộ Thông tin và Truyền thông (Cục An toàn thông tin) trước ngày 30 tháng 11 hàng năm.
+
+Điều 3.1.TT.2.18. Chia sẻ thông tin
+
+(Điều 18 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin cấp 4, 5 và chủ quản hệ thống thông tin là cơ quan, tổ chức nhà nước có trách nhiệm tham gia chia sẻ thông tin với cơ quan quản lý nhà nước về an toàn thông tin đối với công tác bảo đảm an toàn thông tin. Các chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin còn lại tham gia chia sẻ thông tin trên tinh thần tự nguyện.
 
-**Chỉ mục:** 18
+2. Thông tin được chia sẻ thông qua các hình thức trực tiếp, thư điện tử, văn bản, hệ thống chia sẻ thông tin được vận hành bởi Bộ Thông tin và Truyền thông. Đối với thông tin được xác định là thông tin bí mật nhà nước, việc chia sẻ thông tin thực hiện theo quy định của pháp luật về bảo vệ bí mật nhà nước.
 
-**Mã phân cấp:** 0300100000000000200000300000000000000000027000000000000000000040258700085000220000802616700036501800
+3. Việc chia sẻ thông tin dựa trên nguyên tắc bí mật, chọn lọc và bảo đảm lợi ích của các bên tham gia. Đơn vị nhận thông tin được chia sẻ có trách nhiệm bảo vệ bí mật nguồn gốc, nội dung thông tin theo thống nhất giữa các bên tham gia chia sẻ thông tin.
 
-**ID:** dk_00003374
+4. Việc chia sẻ thông tin được thực hiện ít nhất mỗi quý một lần và phù hợp với thực tế hoạt động của hệ thống thông tin tương ứng.
 
----
+5. Các thông tin được chia sẻ bao gồm:
 
+a) Thông tin chưa được phân tích hoặc đã được phân tích về nguy cơ mất an toàn thông tin; thông tin về các cuộc tấn công mạng đã xảy ra:
 
-### Điều 3.1.NĐ.2.23. Trách nhiệm của cơ quan quản lý nhà nước
+- Các loại hình tấn công mạng ghi nhận được tại hệ thống;
+
+- Số lượng các sự kiện tấn công mạng ghi nhận được tại hệ thống;
+
+- Mẫu dữ liệu tấn công mạng thu thập được;
+
+- Các dữ liệu khác theo thống nhất của các bên tham gia chia sẻ thông tin.
+
+b) Các hoạt động bảo đảm an toàn hệ thống thông tin như tuyên truyền, đào tạo, diễn tập và các thông tin khác.
+
+Điều 3.1.NĐ.2.23. Trách nhiệm của cơ quan quản lý nhà nước
+
+(Điều 23 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Bộ Thông tin và Truyền thông có trách nhiệm:
 
-**Chỉ mục:** 23
+a) Thực hiện thẩm định hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại điểm a khoản 3 Điều 12 Nghị định này;
 
-**Mã phân cấp:** 03001000000000002000003000000000000000000270000000000000000000402587000850002300
+b) Xây dựng dự thảo tiêu chuẩn quốc gia, ban hành quy chuẩn kỹ thuật quốc gia về bảo đảm an toàn thông tin theo cấp độ;
 
-**ID:** dk_00003375
+c) Hướng dẫn chi tiết việc xác định hệ thống thông tin quy định tại khoản 2 Điều 6 Nghị định này;
 
----
+d) Ban hành quy định, văn bản hướng dẫn về bảo đảm an toàn hệ thống thông tin theo cấp độ; quy định về đánh giá, chứng nhận hợp chuẩn, hợp quy về bảo đảm an toàn hệ thống thông tin theo cấp độ;
 
+đ) Hướng dẫn các cơ quan, tổ chức thực hiện đào tạo ngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức và diễn tập về an toàn thông tin;
 
-### Điều 3.1.LQ.28. Trách nhiệm của tổ chức, cá nhân trong việc ngăn chặn xung đột thông tin trên mạng
+e) Quy định chi tiết về kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong hoạt động của cơ quan, tổ chức nhà nước, trừ trường hợp quy định tại điểm d khoản 2 và điểm d khoản 3 Điều này;
+
+g) Triển khai các hệ thống hạ tầng kỹ thuật tập trung quy mô quốc gia để xử lý, giảm thiểu tấn công mạng, hỗ trợ giám sát an toàn thông tin cho hệ thống thông tin cung cấp dịch vụ công trực tuyến, phát triển Chính phủ điện tử.
+
+2. Bộ Quốc phòng có trách nhiệm:
+
+a) Thực hiện thẩm định phương án bảo đảm an toàn thông tin trong hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại điểm b khoản 3 Điều 12 Nghị định này;
+
+b) Xây dựng dự thảo tiêu chuẩn, ban hành quy chuẩn kỹ thuật, hướng dẫn về bảo đảm an toàn đối với hệ thống thông tin thuộc phạm vi quản lý;
+
+c) Hướng dẫn về tiêu chí quy định tại khoản 1 Điều 9, khoản 1 Điều 10 và khoản 1 Điều 11 Nghị định này theo chức năng, nhiệm vụ được phân công;
+
+d) Quy định chi tiết về kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong hoạt động của Bộ Quốc phòng.
+
+3. Bộ Công an có trách nhiệm:
+
+a) Thực hiện thẩm định phương án bảo đảm an toàn thông tin trong hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại điểm c khoản 3 Điều 12 Nghị định này;
+
+b) Xây dựng dự thảo tiêu chuẩn, ban hành quy chuẩn kỹ thuật, hướng dẫn về bảo đảm an toàn đối với hệ thống thông tin thuộc phạm vi quản lý;
+
+c) Hướng dẫn về tiêu chí quy định tại khoản 1 Điều 9, khoản 1 Điều 10 và khoản 1 Điều 11 Nghị định này theo chức năng, nhiệm vụ được phân công;
+
+d) Quy định chi tiết về kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong hoạt động của Bộ Công an.
+
+Mục 4
+
+NGĂN CHẶN XUNG ĐỘT THÔNG TIN TRÊN MẠNG
+
+Điều 3.1.LQ.28. Trách nhiệm của tổ chức, cá nhân trong việc ngăn chặn xung đột thông tin trên mạng
+
+(Điều 28 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây:
 
-**Chỉ mục:** 28
+a) Ngăn chặn thông tin phá hoại xuất phát từ hệ thống thông tin của mình; hợp tác xác định nguồn, đẩy lùi, khắc phục hậu quả tấn công mạng được thực hiện thông qua hệ thống thông tin của tổ chức, cá nhân trong nước và nước ngoài;
 
-**Mã phân cấp:** 030010000000000020000040000000000000000002800000000000000000
+b) Ngăn chặn hành động của tổ chức, cá nhân trong nước và nước ngoài có mục đích phá hoại tính nguyên vẹn của mạng;
 
-**ID:** dk_00003377
+c) Loại trừ việc tổ chức thực hiện hoạt động trái pháp luật trên mạng có ảnh hưởng nghiêm trọng đến quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội của tổ chức, cá nhân trong nước và nước ngoài.
 
----
+2. Chính phủ quy định chi tiết về ngăn chặn xung đột thông tin trên mạng.
 
+Điều 3.1.NĐ.4.6. Trách nhiệm của cơ quan nghiệp vụ
 
-### Điều 3.1.NĐ.4.6. Trách nhiệm của cơ quan nghiệp vụ
+(Điều 6 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-1. Tham mưu cho Bộ trưởng tổ chức triển khai các nhiệm vụ thuộc về trách nhiệm của Bộ mình trong ngăn chặn xung đột thông tin trên mạng và phối hợp với các cơ quan nghiệp vụ của các Bộ khác để cùng nhau tổ chức triển khai thực hiện nhiệm vụ.
+ 1. Tham mưu cho Bộ trưởng tổ chức triển khai các nhiệm vụ thuộc về trách nhiệm của Bộ mình trong ngăn chặn xung đột thông tin trên mạng và phối hợp với các cơ quan nghiệp vụ của các Bộ khác để cùng nhau tổ chức triển khai thực hiện nhiệm vụ.
 
-**Chỉ mục:** 6
+ 2. Tiếp nhận thông tin và xử lý xung đột thông tin trên mạng do các tổ chức, cá nhân cung cấp; giám sát, phát hiện, cảnh báo, xác định nguồn gốc, chặn lọc, khắc phục và loại trừ xung đột thông tin trên mạng thuộc chức năng, nhiệm vụ theo quy định tại các khoản 2, 3 và 4 Điều 19 Nghị định này.
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420000600
+ 3. Yêu cầu các tổ chức, cá nhân cung cấp thông tin, tài liệu, phương tiện cần thiết và hỗ trợ cơ quan nghiệp vụ trong hoạt động ngăn chặn xung đột thông tin trên mạng; có trách nhiệm phản hồi và cung cấp thông tin kịp thời đến chủ quản hệ thống thông tin về việc tiếp nhận và quá trình xử lý xung đột thông tin trên mạng.Điều 3.1.NĐ.4.7. Cung cấp thông tin
 
-**ID:** dk_00003378
+(Điều 7 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
----
+ 1. Tổ chức, cá nhân khi phát hiện thấy dấu hiệu, hành vi gây xung đột thông tin trên mạng hoặc khi phát hiện thấy thông tin, hệ thống thông tin bị tổn hại phải có trách nhiệm thông báo và cung cấp đầy đủ thông tin cho cơ quan nghiệp vụ và chủ quản hệ thống thông tin.
 
+ 2. Cơ quan nghiệp vụ có trách nhiệm tiếp nhận, xử lý thông tin do các tổ chức, cá nhân thông báo về xung đột thông tin trên mạng và có trách nhiệm thông báo kết quả khắc phục xung đột thông tin trên mạng với tổ chức, cá nhân đã cung cấp thông tin khi được yêu cầu.
 
-### Điều 3.1.NĐ.4.7. Cung cấp thông tin
+ Điều 3.1.NĐ.4.19. Quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng
 
-1. Tổ chức, cá nhân khi phát hiện thấy dấu hiệu, hành vi gây xung đột thông tin trên mạng hoặc khi phát hiện thấy thông tin, hệ thống thông tin bị tổn hại phải có trách nhiệm thông báo và cung cấp đầy đủ thông tin cho cơ quan nghiệp vụ và chủ quản hệ thống thông tin.
+(Điều 19 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Chỉ mục:** 7
+ 1. Chính phủ thống nhất quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng.
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420000700
+ 2. Bộ Quốc phòng chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với các cơ quan liên quan ngăn chặn xung đột thông tin trên mạng với các mục đích sau đây:
 
-**ID:** dk_00003379
+ a) Phòng, chống chiến tranh thông tin, chiến tranh không gian mạng;
 
----
+ b) Ngăn chặn các lực lượng quân sự nước ngoài sử dụng biện pháp công nghệ, kỹ thuật thông tin gây tổn hại đến thông tin, hệ thống thông tin; hoặc các tổ chức trong nước, nước ngoài sử dụng biện pháp công nghệ, kỹ thuật thông tin gây tổn hại đến thông tin, hệ thống thông tin quân sự, quốc phòng, các hệ thống thông tin có cấp độ 3 trở lên mà khi bị phá hoại sẽ làm tổn hại đến quốc phòng.
 
+ 3. Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với các cơ quan liên quan ngăn chặn xung đột thông tin trên mạng giữa hai hoặc nhiều tổ chức trong nước và nước ngoài sử dụng biện pháp công nghệ, kỹ thuật thông tin gây tổn hại đến an ninh quốc gia, trật tự, an toàn xã hội theo chức năng, nhiệm vụ của Bộ Công an.
 
-### Điều 3.1.NĐ.4.19. Quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng
+ 4. Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với các cơ quan liên quan ngăn chặn xung đột thông tin trên mạng giữa hai hoặc nhiều tổ chức trong nước và nước ngoài sử dụng biện pháp công nghệ, kỹ thuật thông tin gây mất an toàn thông tin mạng đối với các hệ thống thông tin, gây tổn hại tới sản xuất, quyền và lợi ích hợp pháp của tổ chức, cá nhân và lợi ích công cộng theo chức năng, nhiệm vụ của Bộ Thông tin và Truyền thông.(Điều này có nội dung liên quan đến Điều 1.11.LQ.36. Trách nhiệm của Bộ Công an; Điều 1.11.LQ.37. Trách nhiệm của Bộ Quốc phòng; Điều 1.11.LQ.38. Trách nhiệm của Bộ Thông tin và Truyền thông)
 
-1. Chính phủ thống nhất quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng.
+Điều 3.1.NĐ.4.20. Bộ Quốc phòng
 
-**Chỉ mục:** 19
+(Điều 20 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420001900
+ 1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ chủ quyền quốc gia trên không gian mạng theo chức năng, nhiệm vụ của Bộ Quốc Phòng.
 
-**ID:** dk_00003380
+ 2. Tổ chức xây dựng lực lượng nghiệp vụ có tính chiến đấu cao, điều phối và sử dụng các nguồn lực quốc phòng để ngăn chặn xung đột thông tin trên mạng với các mục đích quy định tại khoản 2 Điều 19 Nghị định này và bảo vệ chủ quyền quốc gia trên không gian mạng.
 
----
+ 3. Xây dựng, sửa đổi, bổ sung, trình cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
 
+ 4. Chủ trì, phối hợp với các cơ quan liên quan tổ chức đào tạo, bồi dưỡng nguồn nhân lực thực hiện nhiệm vụ ngăn chặn xung đột thông tin trên mạng.
 
-### Điều 3.1.NĐ.4.20. Bộ Quốc phòng
+ 5. Chỉ đạo lực lượng thuộc quyền phối hợp với cơ quan nghiệp vụ của Bộ Công an, Bộ Thông tin và Truyền thông tổ chức huấn luyện, diễn tập nghiệp vụ ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
 
-1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ chủ quyền quốc gia trên không gian mạng theo chức năng, nhiệm vụ của Bộ Quốc Phòng.
+ 6. Tăng cường đầu tư, trang bị phương tiện đặc thù cho thực hiện nhiệm vụ ngăn chặn xung đột thông tin trên mạng.
 
-**Chỉ mục:** 20
+ 7. Thường xuyên trao đổi thông tin với Bộ Công an, Bộ Thông tin và Truyền thông, Bộ Ngoại giao về hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002000
+ 8. Thực hiện hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng.(Điều này có nội dung liên quan đến Điều 1.11.LQ.37. Trách nhiệm của Bộ Quốc phòng)
 
-**ID:** dk_00003381
+Điều 3.1.NĐ.4.21. Bộ Công an
 
----
+(Điều 21 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
+ 1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm.
 
-### Điều 3.1.NĐ.4.21. Bộ Công an
+ 2. Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Thông tin và Truyền thông, các cơ quan, tổ chức liên quan xây dựng và tổ chức thực hiện các biện pháp nhằm phát hiện, ngăn chặn, đấu tranh, loại trừ các hoạt động trên không gian mạng đe dọa đến an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm; xử lý các hành vi xâm phạm chủ quyền quốc gia trên không gian mạng theo chức năng, nhiệm vụ được giao.
 
-1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm.
+ 3. Chỉ đạo các lực lượng thuộc quyền phối hợp với cơ quan nghiệp vụ của Bộ Quốc phòng, Bộ Thông tin và Truyền thông tổ chức huấn luyện, diễn tập nghiệp vụ ngăn chặn xung đột thông tin trên mạng và bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm; thực hiện hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng.
 
-**Chỉ mục:** 21
+ 4. Thường xuyên trao đổi, cung cấp thông tin với Bộ Quốc phòng, Bộ Thông tin và Truyền thông về tình hình, nguy cơ mất an ninh thông tin và các hoạt động có liên quan đến ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.(Điều này có nội dung liên quan đến Điều 1.11.LQ.36. Trách nhiệm của Bộ Công an)
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002100
+Điều 3.1.NĐ.4.22. Bộ Thông tin và Truyền thông
 
-**ID:** dk_00003382
+(Điều 22 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
----
+ 1. Chủ trì, phối hợp với các bộ, ngành, địa phương, doanh nghiệp, tổ chức triển khai các biện pháp bảo đảm an toàn thông tin; tổ chức kiểm tra đánh giá tình hình mất an toàn thông tin; thực hiện cảnh báo, điều phối ứng cứu và khắc phục sự cố mạng.
 
+ 2. Chủ trì hướng dẫn các bộ, ngành, địa phương và tham mưu cho Chính phủ ban hành danh mục hệ thống thông tin quan trọng quốc gia.
 
-### Điều 3.1.NĐ.4.22. Bộ Thông tin và Truyền thông
+ 3. Thường xuyên trao đổi, cung cấp thông tin cho Bộ Quốc phòng, Bộ Công an về tình hình, nguy cơ mất an toàn thông tin có liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng; thực hiện hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng theo chức năng, nhiệm vụ của Bộ Thông tin và Truyền thông.
 
-1. Chủ trì, phối hợp với các bộ, ngành, địa phương, doanh nghiệp, tổ chức triển khai các biện pháp bảo đảm an toàn thông tin; tổ chức kiểm tra đánh giá tình hình mất an toàn thông tin; thực hiện cảnh báo, điều phối ứng cứu và khắc phục sự cố mạng.
+ 4. Chỉ đạo các cơ quan, đơn vị, doanh nghiệp về công nghệ thông tin, viễn thông, an toàn thông tin phối hợp chặt chẽ với cơ quan nghiệp vụ của Bộ Quốc phòng, Bộ Công an trong việc bảo vệ hệ thống thông tin quan trọng quốc gia, điều tra tội phạm mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.(Điều này có nội dung liên quan đến Điều 1.11.LQ.38. Trách nhiệm của Bộ Thông tin và Truyền thông)
 
-**Chỉ mục:** 22
+Điều 3.1.NĐ.4.23. Bộ Ngoại giao
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002200
+(Điều 23 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**ID:** dk_00003383
+ Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông tổ chức triển khai giải pháp bảo vệ cho hệ thống thông tin trong các cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài; phối hợp thực hiện công tác đối ngoại liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.Điều 3.1.NĐ.4.24. Bộ Khoa học và Công nghệ
 
----
+(Điều 24 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
+ 1. Tham mưu cho Chính phủ xác định các nhiệm vụ khoa học và công nghệ liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
 
-### Điều 3.1.NĐ.4.23. Bộ Ngoại giao
+ 2. Chỉ đạo các cơ quan, đơn vị thuộc quyền quản lý phối hợp với cơ quan nghiệp vụ của Bộ Quốc phòng, Bộ Công an và Bộ Thông tin và Truyền thông thực hiện các nhiệm vụ khoa học và công nghệ, xây dựng tiềm lực khoa học và công nghệ trong việc bảo vệ hệ thống thông tin quan trọng quốc gia và bảo vệ chủ quyền quốc gia trên không gian mạng.Điều 3.1.NĐ.4.25. Bộ Tài chính
 
-Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông tổ chức triển khai giải pháp bảo vệ cho hệ thống thông tin trong các cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài; phối hợp thực hiện công tác đối ngoại liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
+(Điều 25 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Chỉ mục:** 23
+ Bảo đảm kinh phí cho hoạt động ngăn chặn xung đột thông tin trên mạng theo quy định của pháp luật về ngân sách nhà nước.Điều 3.1.NĐ.4.26. Các bộ, ngành khác và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002300
+(Điều 26 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**ID:** dk_00003384
+ 1. Giao nhiệm vụ cho cơ quan tham mưu quản lý nhà nước về công nghệ thông tin, an toàn thông tin mạng thực hiện ngăn chặn xung đột thông tin trên mạng bao gồm giám sát, phát hiện, cảnh báo, xác định nguồn gốc và khắc phục xung đột thông tin trên mạng.
 
----
+ 2. Chủ trì, phối hợp với cơ quan nghiệp vụ tổ chức triển khai các phương án bảo vệ các hệ thống thông tin trong phạm vi quản lý; sẵn sàng huy động lực lượng, phương tiện tham gia hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng theo quy định của pháp luật.
 
+ 3. Phối hợp với cơ quan nghiệp vụ triển khai và đôn đốc thực hiện chính sách, chiến lược, kế hoạch ngăn chặn xung đột thông tin trên mạng; xử lý, khắc phục các vụ việc liên quan đến xung đột thông tin trên mạng.Điều 3.1.NĐ.4.27. Tổ chức, cá nhân
 
-### Điều 3.1.NĐ.4.24. Bộ Khoa học và Công nghệ
+(Điều 27 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-1. Tham mưu cho Chính phủ xác định các nhiệm vụ khoa học và công nghệ liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
+ 1. Chủ quản hệ thống thông tin phải thực hiện các biện pháp bảo vệ hệ thống thông tin và ngăn chặn xung đột xung thông tin trên mạng thuộc quyền quản lý; phối hợp chặt chẽ với cơ quan nghiệp vụ để triển khai các biện pháp ngăn chặn xung đột thông tin trên mạng.
 
-**Chỉ mục:** 24
+ 2. Cơ quan, tổ chức, cá nhân phải có trách nhiệm ngăn chặn các hành động gây nguy cơ xung đột thông tin trên mạng có nguồn gốc từ hệ thống thông tin của mình, cũng như hợp tác xác định nguồn gốc xung đột thông tin trên mạng, khắc phục hậu quả xung đột thông tin trên mạng.Điều 3.1.NĐ.4.28. Doanh nghiệp cung cấp dịch vụ viễn thông, Internet
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002400
+(Điều 28 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**ID:** dk_00003385
+ 1. Cung cấp đầy đủ thông tin, phối hợp xác định và ngăn chặn các nguồn thông tin gây xung đột trên mạng theo yêu cầu của các cơ quan nghiệp vụ.
 
----
+ 2. Triển khai các giải pháp bảo đảm an toàn thông tin mạng; tổ chức giám sát, phát hiện và kịp thời thông báo đến các cơ quan nghiệp vụ về các nguồn thông tin gây xung đột trên mạng.
 
+ 3. Phối hợp với Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông triển khai các giải pháp, biện pháp công nghệ, kỹ thuật thông tin để ngăn chặn xung đột thông tin trên mạng.Điều 3.1.LQ.29. Ngăn chặn hoạt động sử dụng mạng để khủng bố
 
-### Điều 3.1.NĐ.4.25. Bộ Tài chính
-
-Bảo đảm kinh phí cho hoạt động ngăn chặn xung đột thông tin trên mạng theo quy định của pháp luật về ngân sách nhà nước.
-
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002500
-
-**ID:** dk_00003386
-
----
-
-
-### Điều 3.1.NĐ.4.26. Các bộ, ngành khác và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
-
-1. Giao nhiệm vụ cho cơ quan tham mưu quản lý nhà nước về công nghệ thông tin, an toàn thông tin mạng thực hiện ngăn chặn xung đột thông tin trên mạng bao gồm giám sát, phát hiện, cảnh báo, xác định nguồn gốc và khắc phục xung đột thông tin trên mạng.
-
-**Chỉ mục:** 26
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002600
-
-**ID:** dk_00003387
-
----
-
-
-### Điều 3.1.NĐ.4.27. Tổ chức, cá nhân
-
-1. Chủ quản hệ thống thông tin phải thực hiện các biện pháp bảo vệ hệ thống thông tin và ngăn chặn xung đột xung thông tin trên mạng thuộc quyền quản lý; phối hợp chặt chẽ với cơ quan nghiệp vụ để triển khai các biện pháp ngăn chặn xung đột thông tin trên mạng.
-
-**Chỉ mục:** 27
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002700
-
-**ID:** dk_00003388
-
----
-
-
-### Điều 3.1.NĐ.4.28. Doanh nghiệp cung cấp dịch vụ viễn thông, Internet
-
-1. Cung cấp đầy đủ thông tin, phối hợp xác định và ngăn chặn các nguồn thông tin gây xung đột trên mạng theo yêu cầu của các cơ quan nghiệp vụ.
-
-**Chỉ mục:** 28
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000280000000000000000000402597501420002800
-
-**ID:** dk_00003389
-
----
-
-
-### Điều 3.1.LQ.29. Ngăn chặn hoạt động sử dụng mạng để khủng bố
+(Điều 29 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Các biện pháp ngăn chặn hoạt động sử dụng mạng để khủng bố gồm:
 
-**Chỉ mục:** 29
+a) Vô hiệu hóa nguồn Internet sử dụng để thực hiện hành vi khủng bố;
 
-**Mã phân cấp:** 030010000000000020000040000000000000000002900000000000000000
+b) Ngăn chặn việc thiết lập và mở rộng trao đổi thông tin về các tín hiệu, nhân tố, phương pháp và cách sử dụng Internet để thực hiện hành vi khủng bố, về mục tiêu và hoạt động của các tổ chức khủng bố trên mạng;
 
-**ID:** dk_00003390
+c) Trao đổi kinh nghiệm và thực tiễn kiểm soát các nguồn Internet, tìm và kiểm soát nội dung của trang tin điện tử có mục đích khủng bố.
 
----
+2. Chính phủ quy định chi tiết về trách nhiệm thực hiện và các biện pháp ngăn chặn hoạt động sử dụng mạng để khủng bố quy định tại khoản 1 Điều này.
 
+(Điều này có nội dung liên quan đến Điều 1.9.LQ.25. Kiểm soát hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác)
 
-### Điều 3.1.NĐ.4.4. Nguyên tắc ngăn chặn xung đột thông tin trên mạng
+Điều 3.1.NĐ.4.4. Nguyên tắc ngăn chặn xung đột thông tin trên mạng
 
-1. Bảo đảm đúng điều kiện, trình tự, thủ tục, hình thức, thẩm quyền theo quy định của pháp luật và phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+(Điều 4 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Chỉ mục:** 4
+ 1. Bảo đảm đúng điều kiện, trình tự, thủ tục, hình thức, thẩm quyền theo quy định của pháp luật và phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000400
+ 2. Tiến hành thường xuyên, liên tục; chủ động phát hiện, ngăn chặn, khắc phục kịp thời và hiệu quả, không để xảy ra chiến tranh thông tin, chiến tranh không gian mạng dưới mọi hình thức.
 
-**ID:** dk_00003391
+ 3. Tôn trọng, bảo vệ các quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.Điều 3.1.NĐ.4.5. Kinh phí đảm bảo
 
----
+(Điều 5 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
+ 1. Kinh phí đảm bảo cho nhiệm vụ ngăn chặn xung đột thông tin trên mạng do ngân sách nhà nước đảm bảo và được bố trí trong dự toán ngân sách nhà nước hàng năm giao cho Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông.
 
-### Điều 3.1.NĐ.4.5. Kinh phí đảm bảo
+ 2. Việc lập dự toán, chấp hành và quyết toán ngân sách theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn.Điều 3.1.NĐ.4.8. Giám sát, phát hiện và cảnh báo xung đột thông tin trên mạng
 
-1. Kinh phí đảm bảo cho nhiệm vụ ngăn chặn xung đột thông tin trên mạng do ngân sách nhà nước đảm bảo và được bố trí trong dự toán ngân sách nhà nước hàng năm giao cho Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông.
+(Điều 8 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Chỉ mục:** 5
+ 1. Hoạt động giám sát, phát hiện, cảnh báo xung đột thông tin trên mạng phải được cơ quan nghiệp vụ và chủ quản hệ thống thông tin thực hiện thường xuyên, liên tục.
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000500
+ 2. Các hệ thống thông tin quan trọng quốc gia, các cổng kết nối quốc tế phải được triển khai các giải pháp giám sát, phát hiện và cảnh báo xung đột thông tin trên mạng.
 
-**ID:** dk_00003392
+ 3. Chủ quản hệ thống thông tin quan trọng quốc gia, các cổng kết nối quốc tế phải có trách nhiệm phối hợp với cơ quan nghiệp vụ để xây dựng, triển khai, huấn luyện, duy trì hệ thống giám sát, phát hiện và cảnh báo xung đột thông tin trên mạng.
 
----
+ 4. Thông tin giám sát phải được cơ quan nghiệp vụ tiếp nhận, phân tích, xử lý và cảnh báo đến các tổ chức, cá nhân liên quan.Điều 3.1.NĐ.4.9. Tiếp nhận và xử lý xung đột thông tin trên mạng
 
+(Điều 9 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-### Điều 3.1.NĐ.4.8. Giám sát, phát hiện và cảnh báo xung đột thông tin trên mạng
+ 1. Chủ quản hệ thống thông tin có trách nhiệm tiếp nhận, xử lý xung đột thông tin trên mạng và phối hợp với cơ quan nghiệp vụ để ứng cứu sự cố và ngăn chặn xung đột thông tin trên mạng.
 
-1. Hoạt động giám sát, phát hiện, cảnh báo xung đột thông tin trên mạng phải được cơ quan nghiệp vụ và chủ quản hệ thống thông tin thực hiện thường xuyên, liên tục.
+ 2. Cơ quan nghiệp vụ có trách nhiệm tiếp nhận, phân tích, xử lý xung đột thông tin trên mạng giữa các tổ chức, cá nhân trong nước và nước ngoài được quy định tại các khoản 2, 3 và 4 Điều 19 Nghị định này.
 
-**Chỉ mục:** 8
+ 3. Việc xử lý xung đột thông tin trên mạng phải được cơ quan nghiệp vụ thực hiện để không làm gia tăng mức độ xung đột và ngăn chặn không để xảy ra chiến tranh dưới mọi hình thức.
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000800
+ 4. Bộ Quốc phòng chủ trì, phối hợp với Bộ Công an, Bộ Thông tin và Truyền thông thống nhất một đầu mối tiếp nhận và xử lý xung đột thông tin trên mạng, tạo điều kiện cho người dân và doanh nghiệp thuận lợi trong việc cung cấp thông tin liên quan đến xung đột thông tin trên mạng.Điều 3.1.NĐ.4.10. Nội dung xác định nguồn gốc xung đột thông tin trên mạng
 
-**ID:** dk_00003393
+(Điều 10 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
----
+ Nội dung xác định nguồn gốc xung đột thông tin trên mạng bao gồm xác định gói tin, thông tin, địa chỉ nguồn, địa chỉ đích, cổng dịch vụ và cách thức, thủ đoạn xung đột thông tin trên mạng; xác định đối tượng, mục đích và mức độ gây xung đột thông tin trên mạng.Điều 3.1.NĐ.4.11. Kết quả xác định nguồn gốc xung đột thông tin trên mạng
 
+(Điều 11 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-### Điều 3.1.NĐ.4.9. Tiếp nhận và xử lý xung đột thông tin trên mạng
+ 1. Kết quả xác định nguồn gốc xung đột thông tin trên mạng là các tài liệu, bằng chứng, chứng cứ được các cơ quan nghiệp vụ thu thập bảo đảm tính khách quan, chính xác và khoa học.
 
-1. Chủ quản hệ thống thông tin có trách nhiệm tiếp nhận, xử lý xung đột thông tin trên mạng và phối hợp với cơ quan nghiệp vụ để ứng cứu sự cố và ngăn chặn xung đột thông tin trên mạng.
+ 2. Kết quả xác định nguồn gốc xung đột thông tin trên mạng được sử dụng hợp pháp trong tổ chức đấu tranh ngăn chặn xung đột thông tin trên mạng.Điều 3.1.NĐ.4.12. Vai trò, trách nhiệm trong xác định nguồn gốc xung đột thông tin trên mạng
 
-**Chỉ mục:** 9
+(Điều 12 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420000900
+ 1. Xác định nguồn gốc gây xung đột thông tin trên mạng nhằm phát hiện, thu thập, đánh giá, sử dụng làm bằng chứng, chứng cứ.
 
-**ID:** dk_00003394
+ 2. Xung đột thông tin trên mạng phải được các cơ quan nghiệp vụ xác định nguồn gốc, thủ đoạn và tổn thất do xung đột thông tin gây ra để có biện pháp xử lý phù hợp.
 
----
+ 3. Chủ quản hệ thống thông tin liên quan đến xung đột thông tin trên mạng có trách nhiệm phối hợp với các cơ quan nghiệp vụ để xác định chính xác nguồn gốc gây xung đột thông tin trên mạng.
 
+ 4. Cơ quan, tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm cung cấp kịp thời và đầy đủ cho cơ quan nghiệp vụ về thông tin, bằng chứng, chứng cứ để phục vụ công tác xác định nguồn gốc.
 
-### Điều 3.1.NĐ.4.10. Nội dung xác định nguồn gốc xung đột thông tin trên mạng
+ 5. Cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến xung đột thông tin trên mạng phải chịu trách nhiệm cung cấp thông tin chính xác, không được cung cấp thông tin sai lệch, trường hợp cố ý cung cấp thông tin sai lệch với mục đích xấu như nhằm gây chiến tranh, hận thù dân tộc tùy theo mức độ vi phạm sẽ bị xử lý hình sự hoặc xử lý vi phạm hành chính.Điều 3.1.NĐ.4.13. Chặn lọc thông tin trên mạng
 
-Nội dung xác định nguồn gốc xung đột thông tin trên mạng bao gồm xác định gói tin, thông tin, địa chỉ nguồn, địa chỉ đích, cổng dịch vụ và cách thức, thủ đoạn xung đột thông tin trên mạng; xác định đối tượng, mục đích và mức độ gây xung đột thông tin trên mạng.
+(Điều 13 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**Chỉ mục:** 10
+ Chặn lọc thông tin được các doanh nghiệp cung cấp dịch vụ viễn thông, Internet thực hiện khi có một trong các yếu tố sau:
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001000
+ a) Xác định được nguồn gốc xung đột thông tin trên mạng gây ảnh hưởng đến quốc phòng, an ninh và chủ quyền quốc gia trên không gian mạng;
 
-**ID:** dk_00003395
+ b) Khi xác định rõ tính hợp lý về yêu cầu của bên bị xung đột thông tin trên mạng;
 
----
+ c) Khi có yêu cầu của các cơ quan nghiệp vụ.Điều 3.1.NĐ.4.14. Khắc phục xung đột thông tin trên mạng
 
+(Điều 14 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-### Điều 3.1.NĐ.4.11. Kết quả xác định nguồn gốc xung đột thông tin trên mạng
+ 1. Chủ quản hệ thống thông tin chịu trách nhiệm trong việc tổ chức khắc phục xung đột thông tin trên mạng thuộc phạm vi quản lý và chịu sự điều hành của cơ quan nghiệp vụ trong việc tổ chức khắc phục xung đột thông tin trên mạng.
 
-1. Kết quả xác định nguồn gốc xung đột thông tin trên mạng là các tài liệu, bằng chứng, chứng cứ được các cơ quan nghiệp vụ thu thập bảo đảm tính khách quan, chính xác và khoa học.
+ 2. Chủ quản hệ thống thông tin chịu trách nhiệm xây dựng các phương án khắc phục xung đột thông tin trên mạng thuộc phạm vi quản lý và có trách nhiệm tổng hợp, báo cáo tình hình, kết quả khắc phục xung đột thông tin trên mạng cho cơ quan nghiệp vụ.
 
-**Chỉ mục:** 11
+ 3. Cơ quan nghiệp vụ có trách nhiệm phối hợp với cơ quan chủ quản hệ thống thông tin khắc phục xung đột thông tin liên quan tới quốc phòng, an ninh quốc gia và cơ quan nhà nước theo quy định tại các khoản 2, 3 và 4 Điều 19 Nghị định này.Điều 3.1.NĐ.4.15. Loại trừ xung đột thông tin trên mạng
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001100
+(Điều 15 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**ID:** dk_00003396
+ 1. Các cơ quan nghiệp vụ chịu trách nhiệm loại trừ xung đột thông tin trên mạng.
 
----
+ 2. Các doanh nghiệp cung cấp dịch vụ viễn thông, Internet phải có trách nhiệm phối hợp với các cơ quan nghiệp vụ để loại trừ xung đột thông tin trên mạng.
 
+ 3. Loại trừ xung đột thông tin trên mạng được thực hiện khi có các yếu tố sau:
 
-### Điều 3.1.NĐ.4.12. Vai trò, trách nhiệm trong xác định nguồn gốc xung đột thông tin trên mạng
+ a) Xác định rõ nguồn gốc xung đột thông tin trên mạng;
 
-1. Xác định nguồn gốc gây xung đột thông tin trên mạng nhằm phát hiện, thu thập, đánh giá, sử dụng làm bằng chứng, chứng cứ.
+ b) Nhân lực, biện pháp công nghệ, kỹ thuật và đấu tranh ngoại giao có đủ khả năng để loại trừ xung đột thông tin trên mạng;
 
-**Chỉ mục:** 12
+ c) Thông báo trực tiếp hoặc gián tiếp qua điện thoại, email hoặc hệ thống thông tin đại chúng đến tổ chức, cá nhân có liên quan đối với nguồn thông tin gây xung đột thông tin trên mạng.Điều 3.1.NĐ.4.16. Thông tin, tuyên truyền, giáo dục về ngăn chặn xung đột thông tin trên mạng
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001200
+(Điều 16 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**ID:** dk_00003397
+ 1. Nội dung thông tin, tuyên truyền, giáo dục
 
----
+ a) Chính sách pháp luật về ngăn chặn xung đột thông tin trên mạng;
 
+ b) Vị trí, vai trò, tầm quan trọng của công tác ngăn chặn xung đột thông tin trên mạng;
 
-### Điều 3.1.NĐ.4.13. Chặn lọc thông tin trên mạng
+ c) Phương thức, thủ đoạn và nguy cơ gây xung đột thông tin trên mạng;
 
-Chặn lọc thông tin được các doanh nghiệp cung cấp dịch vụ viễn thông, Internet thực hiện khi có một trong các yếu tố sau:
+ d) Kiến thức, kỹ năng chủ động ngăn chặn xung đột thông tin trên mạng;
 
-**Chỉ mục:** 13
+ đ) Biện pháp, kinh nghiệm ngăn chặn xung đột thông tin trên mạng;
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001300
+ e) Trách nhiệm của cơ quan, tổ chức, doanh nghiệp và cá nhân trong ngăn chặn xung đột thông tin trên mạng;
 
-**ID:** dk_00003398
+ g) Các nội dung khác có liên quan đến ngăn chặn xung đột thông tin trên mạng.
 
----
+ 2. Hình thức thông tin, tuyên truyền, giáo dục
 
+ a) Gặp gỡ, trao đổi, đối thoại, thảo luận trực tiếp;
 
-### Điều 3.1.NĐ.4.14. Khắc phục xung đột thông tin trên mạng
+ b) Thông qua các phương tiện thông tin đại chúng;
 
-1. Chủ quản hệ thống thông tin chịu trách nhiệm trong việc tổ chức khắc phục xung đột thông tin trên mạng thuộc phạm vi quản lý và chịu sự điều hành của cơ quan nghiệp vụ trong việc tổ chức khắc phục xung đột thông tin trên mạng.
+ c) Thông qua hoạt động tại các cơ sở giáo dục, đào tạo, hiệp hội an toàn thông tin;
 
-**Chỉ mục:** 14
+ d) Thông qua các cuộc thi tìm hiểu pháp luật, sinh hoạt cộng đồng;
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001400
+ đ) Các hình thức khác phù hợp với quy định của pháp luật.
 
-**ID:** dk_00003399
+ 3. Tăng cường công tác thông tin, tuyên truyền, giáo dục đối với các chủ quản hệ thống thông tin quan trọng quốc gia; các doanh nghiệp cung cấp hạ tầng mạng và dịch vụ viễn thông, Internet; các hiệp hội, câu lạc bộ trong lĩnh vực công nghệ thông tin, an toàn thông tin, điện tử viễn thông và những địa bàn thường xảy ra nhiều vụ việc gây xung đột thông tin trên mạng.
 
----
+ 4. Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông có trách nhiệm phối hợp với Bộ Giáo dục và Đào tạo, các bộ, ngành liên quan tổ chức thông tin, tuyên truyền, giáo dục về ngăn chặn xung đột thông tin trên mạng theo quyền hạn, trách nhiệm được quy định tại các khoản 2, 3 và 4 Điều 19 Nghị định này nhằm nâng cao nhận thức, trách nhiệm và hiệu quả ngăn chặn xung đột thông tin trên mạng.Điều 3.1.NĐ.4.17. Nội dung hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng
 
+(Điều 17 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-### Điều 3.1.NĐ.4.15. Loại trừ xung đột thông tin trên mạng
+ 1. Hợp tác quốc tế thu thập, nghiên cứu, trao đổi thông tin, kinh nghiệm về ngăn chặn xung đột thông tin trên mạng; phối hợp đào tạo, bồi dưỡng, huấn luyện nghiệp vụ về ngăn chặn xung đột thông tin trên mạng; tổ chức hội nghị, hội thảo quốc tế về các vấn đề liên quan đến ngăn chặn xung đột thông tin trên mạng; hỗ trợ về cơ sở vật chất, kỹ thuật, công nghệ nhằm tăng cường lực lượng cho cơ quan nghiệp vụ.
 
-1. Các cơ quan nghiệp vụ chịu trách nhiệm loại trừ xung đột thông tin trên mạng.
+ 2. Hợp tác quốc tế nhằm loại trừ nguy cơ xung đột thông tin mạng trên lãnh thổ của một nước nhằm vào nước khác; phối hợp điều tra khi có yêu cầu ngăn chặn xung đột thông tin mạng từ quốc tế, phù hợp với luật pháp Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**Chỉ mục:** 15
+ 3. Tham vấn về các hoạt động ngăn chặn xung đột thông tin trên mạng và hợp tác giải quyết những vấn đề liên quan đến ngăn chặn xung đột thông tin trên mạng với các quốc gia.Điều 3.1.NĐ.4.18. Từ chối hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng
 
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001500
+(Điều 18 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
-**ID:** dk_00003400
+ Cơ quan nghiệp vụ và các cơ quan, tổ chức có liên quan của Việt Nam có quyền từ chối hợp tác đối với các yêu cầu hợp tác có nội dung gây phương hại đến chủ quyền, quốc phòng, an ninh quốc gia, lợi ích của Nhà nước hoặc có nội dung không phù hợp với quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.Chương III
 
----
+MẬT MÃ DÂN SỰ
 
+Điều 3.1.LQ.30. Sản phẩm, dịch vụ mật mã dân sự
 
-### Điều 3.1.NĐ.4.16. Thông tin, tuyên truyền, giáo dục về ngăn chặn xung đột thông tin trên mạng
-
-1. Nội dung thông tin, tuyên truyền, giáo dục
-
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001600
-
-**ID:** dk_00003401
-
----
-
-
-### Điều 3.1.NĐ.4.17. Nội dung hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng
-
-1. Hợp tác quốc tế thu thập, nghiên cứu, trao đổi thông tin, kinh nghiệm về ngăn chặn xung đột thông tin trên mạng; phối hợp đào tạo, bồi dưỡng, huấn luyện nghiệp vụ về ngăn chặn xung đột thông tin trên mạng; tổ chức hội nghị, hội thảo quốc tế về các vấn đề liên quan đến ngăn chặn xung đột thông tin trên mạng; hỗ trợ về cơ sở vật chất, kỹ thuật, công nghệ nhằm tăng cường lực lượng cho cơ quan nghiệp vụ.
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001700
-
-**ID:** dk_00003402
-
----
-
-
-### Điều 3.1.NĐ.4.18. Từ chối hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng
-
-Cơ quan nghiệp vụ và các cơ quan, tổ chức có liên quan của Việt Nam có quyền từ chối hợp tác đối với các yêu cầu hợp tác có nội dung gây phương hại đến chủ quyền, quốc phòng, an ninh quốc gia, lợi ích của Nhà nước hoặc có nội dung không phù hợp với quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 03001000000000002000004000000000000000000290000000000000000000402597501420001800
-
-**ID:** dk_00003403
-
----
-
-
-### Điều 3.1.LQ.30. Sản phẩm, dịch vụ mật mã dân sự
+(Điều 30 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Sản phẩm mật mã dân sự là các tài liệu, trang thiết bị kỹ thuật và nghiệp vụ mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
 
-**Chỉ mục:** 30
+2. Dịch vụ mật mã dân sự gồm dịch vụ bảo vệ thông tin sử dụng sản phẩm mật mã dân sự; kiểm định, đánh giá sản phẩm mật mã dân sự; tư vấn bảo mật, an toàn thông tin mạng sử dụng sản phẩm mật mã dân sự.
 
-**Mã phân cấp:** 0300100000000000300003000000000000000000
+Điều 3.1.NĐ.1.3. Danh Mục sản phẩm, dịch vụ mật mã dân sự, Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép
 
-**ID:** dk_00003405
-
----
-
-
-### Điều 3.1.NĐ.1.3. Danh Mục sản phẩm, dịch vụ mật mã dân sự, Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép
+(Điều 3 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 53/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 16/04/2018)
 
 Ban hành Danh Mục sản phẩm, dịch vụ mật mã dân sự tại Phụ lục I và Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép tại Phụ lục II kèm theo Nghị định này.
 
-**Chỉ mục:** 3
+Phụ lục II.doc
 
-**Mã phân cấp:** 030010000000000030000300000000000000000000402587000580000300
+Điều 3.1.LQ.31. Kinh doanh sản phẩm, dịch vụ mật mã dân sự
 
-**ID:** dk_00003406
-
----
-
-
-### Điều 3.1.LQ.31. Kinh doanh sản phẩm, dịch vụ mật mã dân sự
+(Điều 31 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp phải có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi kinh doanh sản phẩm, dịch vụ mật mã dân sự thuộc Danh mục sản phẩm, dịch vụ mật mã dân sự.
 
-**Chỉ mục:** 31
+2. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
 
-**Mã phân cấp:** 0300100000000000300003100000000000000000
+a) Có đội ngũ quản lý, điều hành, kỹ thuật đáp ứng yêu cầu chuyên môn về bảo mật, an toàn thông tin;
 
-**ID:** dk_00003407
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ mật mã dân sự;
 
----
+c) Có phương án kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật;
 
+d) Có phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
 
-### Điều 3.1.NĐ.1.4. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+đ) Có phương án kinh doanh phù hợp.
+
+3. Sản phẩm mật mã dân sự phải được kiểm định, chứng nhận hợp quy trước khi lưu thông trên thị trường.
+
+4. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự phải nộp phí theo quy định của pháp luật về phí và lệ phí.
+
+5. Chính phủ ban hành Danh mục sản phẩm, dịch vụ mật mã dân sự và quy định chi tiết Điều này.
+
+Điều 3.1.NĐ.1.4. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+
+(Điều 4 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các Điều kiện quy định tại Khoản 2 Điều 31 Luật an toàn thông tin mạng.
 
-**Chỉ mục:** 4
+2. Điều kiện cấp Giấy phép quy định tại Điểm a Khoản 2 Điều 31 Luật an toàn thông tin mạng được quy định cụ thể như sau: Doanh nghiệp phải có ít nhất 02 cán bộ kỹ thuật có trình độ đại học trở lên thuộc một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin; cán bộ quản lý, Điều hành tốt nghiệp một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin hoặc tốt nghiệp một ngành khác và có chứng chỉ đào tạo về an toàn thông tin.
 
-**Mã phân cấp:** 030010000000000030000310000000000000000000402587000580000400
+3. Điều kiện cấp Giấy phép quy định tại Điểm đ Khoản 2 Điều 31 Luật an toàn thông tin mạng được quy định cụ thể như sau: Doanh nghiệp phải có hệ thống phục vụ khách hàng và bảo đảm kỹ thuật phù hợp với phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm.
 
-**ID:** dk_00003408
+Điều 3.1.LQ.32. Trình tự, thủ tục đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
 
----
-
-
-### Điều 3.1.LQ.32. Trình tự, thủ tục đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+(Điều 32 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự nộp hồ sơ đề nghị cấp Giấy phép tại Ban Cơ yếu Chính phủ.
 
-**Chỉ mục:** 32
+2. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được lập thành hai bộ, gồm:
 
-**Mã phân cấp:** 0300100000000000300003200000000000000000
+a) Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
 
-**ID:** dk_00003409
+b) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương;
 
----
+c) Bản sao văn bằng hoặc chứng chỉ chuyên môn về bảo mật, an toàn thông tin của đội ngũ quản lý, điều hành, kỹ thuật;
 
+d) Phương án kỹ thuật gồm tài liệu về đặc tính kỹ thuật, tham số kỹ thuật của sản phẩm; tiêu chuẩn, quy chuẩn kỹ thuật của sản phẩm; tiêu chuẩn, chất lượng dịch vụ; các biện pháp, giải pháp kỹ thuật; phương án bảo hành, bảo trì sản phẩm;
 
-### Điều 3.1.NĐ.1.6. Trình tự, thủ tục cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+đ) Phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+
+e) Phương án kinh doanh gồm phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm, dịch vụ hệ thống phục vụ khách hàng và bảo đảm kỹ thuật.
+
+3. Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+4. Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự có thời hạn 10 năm.
+
+Điều 3.1.NĐ.1.6. Trình tự, thủ tục cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+
+(Điều 6 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự thực hiện theo quy định tại Điều 34 Luật an toàn thông tin mạng.
 
-**Chỉ mục:** 6
+2. Doanh nghiệp thực hiện các thủ tục cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự nộp hồ sơ trực tiếp, hoặc qua hệ thống bưu chính, hoặc dịch vụ công trực tuyến đến Ban Cơ yếu Chính phủ thông qua Cục Quản lý mật mã dân sự và Kiểm định sản phẩm mật mã theo địa chỉ quy định tại Khoản 2 Điều 5 Nghị định này.
 
-**Mã phân cấp:** 030010000000000030000320000000000000000000402587000580000600
+3. Ban hành các Mẫu số 04, 05 thực hiện thủ tục cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự tại Phụ lục III kèm theo Nghị định này.
 
-**ID:** dk_00003410
+Phụ lục III.doc
 
----
+Điều 3.1.LQ.33. Sửa đổi, bổ sung, cấp lại, gia hạn, tạm đình chỉ và thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
 
-
-### Điều 3.1.LQ.33. Sửa đổi, bổ sung, cấp lại, gia hạn, tạm đình chỉ và thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+(Điều 33 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ mật mã dân sự.
 
-**Chỉ mục:** 33
+Doanh nghiệp có trách nhiệm nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy phép tại Ban Cơ yếu Chính phủ. Hồ sơ được lập thành hai bộ, gồm:
 
-**Mã phân cấp:** 0300100000000000300003300000000000000000
+a) Đơn đề nghị sửa đổi, bổ sung Giấy phép;
 
-**ID:** dk_00003411
+b) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương;
 
----
+c) Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự đã được cấp;
 
+d) Phương án kỹ thuật, phương án bảo mật và an toàn thông tin mạng, phương án kinh doanh đối với sản phẩm, dịch vụ bổ sung theo quy định tại các điểm d, đ và e khoản 2 Điều 32 của Luật này trong trường hợp doanh nghiệp đề nghị bổ sung sản phẩm, dịch vụ mật mã dân sự, ngành, nghề kinh doanh;
 
-### Điều 3.1.NĐ.1.5. Trình tự, thủ tục cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định, sửa đổi, bổ sung và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+2. Trường hợp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự bị mất hoặc bị hư hỏng, doanh nghiệp gửi đơn đề nghị cấp lại Giấy phép, trong đó nêu rõ lý do, tới Ban Cơ yếu Chính phủ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị, Ban Cơ yếu Chính phủ xem xét và cấp lại Giấy phép cho doanh nghiệp.
+
+3. Doanh nghiệp không vi phạm các quy định của pháp luật về kinh doanh sản phẩm, dịch vụ mật mã dân sự được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự một lần với thời gian gia hạn không quá 01 năm.
+
+Hồ sơ đề nghị gia hạn Giấy phép phải được gửi tới Ban Cơ yếu Chính phủ chậm nhất là 60 ngày trước ngày Giấy phép hết hạn. Hồ sơ đề nghị gia hạn Giấy phép được lập thành hai bộ, gồm:
+
+a) Đơn đề nghị gia hạn Giấy phép;
+
+b) Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự đang có hiệu lực;
+
+c) Báo cáo hoạt động của doanh nghiệp trong 02 năm gần nhất.
+
+Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định, quyết định gia hạn và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+4. Doanh nghiệp bị tạm đình chỉ hoạt động kinh doanh sản phẩm, dịch vụ mật mã dân sự có thời hạn không quá 06 tháng trong các trường hợp sau đây:
+
+a) Cung cấp sản phẩm, dịch vụ không đúng với nội dung ghi trên Giấy phép;
+
+b) Không đáp ứng được một trong các điều kiện quy định tại khoản 2 Điều 31 của Luật này;
+
+c) Các trường hợp khác theo quy định của pháp luật.
+
+5. Doanh nghiệp bị thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự trong các trường hợp sau đây:
+
+a) Không triển khai cung cấp dịch vụ trong thời hạn 01 năm kể từ ngày được cấp Giấy phép mà không có lý do chính đáng;
+
+b) Giấy phép đã hết hạn;
+
+c) Hết thời hạn tạm đình chỉ mà doanh nghiệp không khắc phục được các lý do quy định tại khoản 4 Điều này.
+
+Điều 3.1.NĐ.1.5. Trình tự, thủ tục cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+
+(Điều 5 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự thực hiện theo quy định tại Điều 32, Điều 33 Luật an toàn thông tin mạng.
 
-**Chỉ mục:** 5
+2. Doanh nghiệp thực hiện các thủ tục cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự nộp hồ sơ trực tiếp, hoặc qua hệ thống bưu chính, hoặc dịch vụ công trực tuyến đến Ban Cơ yếu Chính phủ thông qua Cục Quản lý mật mã dân sự và Kiểm định sản phẩm mật mã, số điện thoại/số fax: 04-3775.6896, thư điện tử: info@nacis.gov.vn, website: http://www.nacis.gov.vn.
 
-**Mã phân cấp:** 030010000000000030000330000000000000000000402587000580000500
+3. Ban hành các Mẫu số 01, 02, 03 thực hiện thủ tục cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự tại Phụ lục III kèm theo Nghị định này.
 
-**ID:** dk_00003412
+Phụ lục III.doc
 
----
+Điều 3.1.LQ.34. Xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
 
-
-### Điều 3.1.LQ.34. Xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+(Điều 34 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Khi xuất khẩu, nhập khẩu sản phẩm mật mã dân sự thuộc Danh mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép, doanh nghiệp phải có Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự do cơ quan nhà nước có thẩm quyền cấp.
 
-**Chỉ mục:** 34
+2. Doanh nghiệp được cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
 
-**Mã phân cấp:** 0300100000000000300003400000000000000000
+a) Có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
 
-**ID:** dk_00003413
+b) Sản phẩm mật mã dân sự nhập khẩu phải được chứng nhận, công bố hợp quy theo quy định tại Điều 39 của Luật này;
 
----
+c) Đối tượng và mục đích sử dụng sản phẩm mật mã dân sự không gây phương hại đến quốc phòng, an ninh quốc gia và trật tự, an toàn xã hội.
 
+3. Hồ sơ đề nghị cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự gồm:
 
-### Điều 3.1.LQ.35. Trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự
+a) Đơn đề nghị cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự;
+
+b) Bản sao Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
+
+c) Bản sao Giấy chứng nhận hợp quy đối với sản phẩm mật mã dân sự nhập khẩu.
+
+4. Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định và cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+5. Chính phủ ban hành Danh mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép và quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Mục 3 QUẢN LÝ THEO GIẤY PHÉP, THEO ĐIỀU KIỆN XUẤT KHẨU, NHẬP KHẨU)
+
+Điều 3.1.LQ.35. Trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự
+
+(Điều 35 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ của sản phẩm.
 
-**Chỉ mục:** 35
+2. Lập, lưu giữ và bảo mật thông tin của khách hàng, tên, loại hình, số lượng và mục đích sử dụng của sản phẩm, dịch vụ mật mã dân sự.
 
-**Mã phân cấp:** 0300100000000000300003500000000000000000
+3. Định kỳ hằng năm báo cáo Ban Cơ yếu Chính phủ về tình hình kinh doanh, xuất khẩu, nhập khẩu sản phẩm, dịch vụ mật mã dân sự và tổng hợp thông tin khách hàng trước ngày 31 tháng 12.
 
-**ID:** dk_00003414
+4. Có các biện pháp bảo đảm an ninh, an toàn trong vận chuyển và bảo quản sản phẩm mật mã dân sự.
 
----
+5. Từ chối cung cấp sản phẩm, dịch vụ mật mã dân sự khi phát hiện tổ chức, cá nhân vi phạm pháp luật về sử dụng sản phẩm, dịch vụ mật mã dân sự, vi phạm cam kết đã thỏa thuận về sử dụng sản phẩm, dịch vụ do doanh nghiệp cung cấp.
 
+6. Tạm ngừng hoặc ngừng cung cấp sản phẩm, dịch vụ mật mã dân sự để bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
-### Điều 3.1.LQ.36. Trách nhiệm của tổ chức, cá nhân sử dụng sản phẩm, dịch vụ mật mã dân sự
+7. Phối hợp, tạo điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện các biện pháp nghiệp vụ khi có yêu cầu.
+
+(Điều này có nội dung liên quan đến Mục 3 QUẢN LÝ THEO GIẤY PHÉP, THEO ĐIỀU KIỆN XUẤT KHẨU, NHẬP KHẨU)
+
+Điều 3.1.LQ.36. Trách nhiệm của tổ chức, cá nhân sử dụng sản phẩm, dịch vụ mật mã dân sự
+
+(Điều 36 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Tuân thủ các quy định đã cam kết với doanh nghiệp cung cấp sản phẩm mật mã dân sự về quản lý sử dụng khóa mã, chuyển nhượng, sửa chữa, bảo dưỡng, bỏ, tiêu hủy sản phẩm mật mã dân sự và các nội dung khác có liên quan.
 
-**Chỉ mục:** 36
+2. Cung cấp các thông tin cần thiết liên quan tới khóa mã cho cơ quan nhà nước có thẩm quyền khi có yêu cầu.
 
-**Mã phân cấp:** 0300100000000000300003600000000000000000
+3. Phối hợp, tạo điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện các biện pháp ngăn ngừa tội phạm đánh cắp thông tin, khóa mã và sử dụng sản phẩm mật mã dân sự vào những mục đích không hợp pháp.
 
-**ID:** dk_00003415
+4. Tổ chức, cá nhân sử dụng sản phẩm mật mã dân sự không do doanh nghiệp được cấp phép kinh doanh sản phẩm mật mã dân sự cung cấp phải khai báo với Ban Cơ yếu Chính phủ, trừ cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước ngoài và cơ quan đại diện của tổ chức quốc tế liên Chính phủ tại Việt Nam.
 
----
+Chương IV
 
+TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT AN TOÀN THÔNG TIN MẠNG
 
-### Điều 3.1.LQ.37. Tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng
+Điều 3.1.LQ.37. Tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng
+
+(Điều 37 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Tiêu chuẩn an toàn thông tin mạng gồm tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng được công bố, thừa nhận áp dụng tại Việt Nam.
 
-**Chỉ mục:** 37
+2. Quy chuẩn kỹ thuật an toàn thông tin mạng gồm quy chuẩn kỹ thuật quốc gia và quy chuẩn kỹ thuật địa phương đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng được xây dựng, ban hành và áp dụng tại Việt Nam.
 
-**Mã phân cấp:** 0300100000000000400003700000000000000000
+Điều 3.1.TT.8.1.
 
-**ID:** dk_00003417
-
----
-
-
-### Điều 3.1.TT.8.1.
+(Điều 1 Thông tư số 23/2022/TT-BQP Ban hành "Quy chuẩn kỹ thuật quốc gia về đặc tính kỹ thuật mật mã sử dụng trong các sản phẩm mật mã dân sự thuộc nhóm sản phẩm bảo mật luồng IP sử dụng công nghệ IPsec và TLS" ngày 04/04/2022 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 20/05/2022)
 
 Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về đặc tính kỹ thuật mật mã sử dụng trong các sản phẩm mật mã dân sự thuộc nhóm sản phẩm bảo mật luồng IP sử dụng công nghệ IPsec và TLS.
 
-**Chỉ mục:** 1
+Ký hiệu: QCVN 01:2022/BQP.
 
-**Mã phân cấp:** 030010000000000040000370000000000000000000802797300230000100
+QCVN 01.2022-BQP.doc
 
-**ID:** dk_00003418
+Điều 3.1.LQ.38. Quản lý tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng
 
----
-
-
-### Điều 3.1.LQ.38. Quản lý tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng
+(Điều 38 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Chứng nhận hợp quy về an toàn thông tin mạng là việc tổ chức chứng nhận sự phù hợp chứng nhận hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng phù hợp với quy chuẩn kỹ thuật an toàn thông tin mạng.
 
-**Chỉ mục:** 38
+2. Công bố hợp quy về an toàn thông tin mạng là việc tổ chức, doanh nghiệp công bố về sự phù hợp của hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng với quy chuẩn kỹ thuật an toàn thông tin mạng.
 
-**Mã phân cấp:** 0300100000000000400003800000000000000000
+3. Chứng nhận hợp chuẩn về an toàn thông tin mạng là việc tổ chức chứng nhận sự phù hợp chứng nhận hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng phù hợp với tiêu chuẩn an toàn thông tin mạng.
 
-**ID:** dk_00003419
+4. Công bố hợp chuẩn về an toàn thông tin mạng là việc tổ chức, doanh nghiệp công bố về sự phù hợp của hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng với tiêu chuẩn an toàn thông tin mạng.
 
----
+5. Bộ Khoa học và Công nghệ chủ trì, phối hợp với cơ quan có liên quan tổ chức thẩm định và công bố tiêu chuẩn quốc gia về an toàn thông tin mạng theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.
 
+6. Bộ Thông tin và Truyền thông có trách nhiệm sau đây:
 
-### Điều 3.1.LQ.39. Đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng
+a) Xây dựng dự thảo tiêu chuẩn quốc gia an toàn thông tin mạng, trừ tiêu chuẩn quốc gia quy định tại khoản 7 Điều này;
+
+b) Ban hành quy chuẩn kỹ thuật quốc gia an toàn thông tin mạng, trừ quy chuẩn quốc gia quy định tại khoản 7 Điều này; quy định về đánh giá hợp quy về an toàn thông tin mạng;
+
+c) Quản lý chất lượng sản phẩm, dịch vụ an toàn thông tin mạng, trừ sản phẩm, dịch vụ mật mã dân sự;
+
+d) Đăng ký, chỉ định và quản lý hoạt động của tổ chức chứng nhận sự phù hợp về an toàn thông tin mạng, trừ tổ chức chứng nhận sự phù hợp đối với sản phẩm, dịch vụ mật mã dân sự.
+
+7. Ban Cơ yếu Chính phủ có trách nhiệm giúp Bộ trưởng Bộ Quốc phòng xây dựng dự thảo tiêu chuẩn quốc gia đối với sản phẩm, dịch vụ mật mã dân sự trình cơ quan nhà nước có thẩm quyền công bố và hướng dẫn thực hiện; xây dựng, trình Bộ trưởng Bộ Quốc phòng ban hành quy chuẩn kỹ thuật quốc gia đối với sản phẩm, dịch vụ mật mã dân sự, chỉ định và quản lý hoạt động của tổ chức chứng nhận sự phù hợp đối với sản phẩm, dịch vụ mật mã dân sự; quản lý chất lượng sản phẩm, dịch vụ mật mã dân sự.
+
+8. Ủy ban nhân dân cấp tỉnh xây dựng, ban hành và hướng dẫn thực hiện quy chuẩn kỹ thuật địa phương về an toàn thông tin mạng; quản lý chất lượng sản phẩm, dịch vụ an toàn thông tin mạng trên địa bàn.
+
+Điều 3.1.LQ.39. Đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng
+
+(Điều 39 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng được thực hiện trong các trường hợp sau đây:
 
-**Chỉ mục:** 39
+a) Trước khi tổ chức, cá nhân đưa sản phẩm an toàn thông tin mạng vào lưu thông trên thị trường phải thực hiện chứng nhận hợp quy hoặc công bố hợp quy và sử dụng dấu hợp quy;
 
-**Mã phân cấp:** 0300100000000000400003900000000000000000
+b) Phục vụ hoạt động quản lý nhà nước về an toàn thông tin mạng.
 
-**ID:** dk_00003420
+2. Việc đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng phục vụ hệ thống thông tin quan trọng quốc gia và phục vụ hoạt động quản lý nhà nước về an toàn thông tin mạng được thực hiện tại tổ chức chứng nhận sự phù hợp do Bộ trưởng Bộ Thông tin và Truyền thông chỉ định.
 
----
+3. Việc đánh giá hợp chuẩn, hợp quy đối với sản phẩm, dịch vụ mật mã dân sự được thực hiện tại tổ chức chứng nhận sự phù hợp do Bộ trưởng Bộ Quốc phòng chỉ định.
 
+4. Việc thừa nhận kết quả đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng giữa Việt Nam với quốc gia, vùng lãnh thổ khác, giữa tổ chức chứng nhận sự phù hợp của Việt Nam với tổ chức chứng nhận sự phù hợp của quốc gia, vùng lãnh thổ khác được thực hiện theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.
 
-### Điều 3.1.LQ.40. Kinh doanh trong lĩnh vực an toàn thông tin mạng
+(Điều này có nội dung liên quan đến Điều 3.1.LQ.48. Sản phẩm nhập khẩu theo giấy phép trong lĩnh vực an toàn thông tin mạng)
+
+Chương V
+
+KINH DOANH TRONG LĨNH VỰC AN TOÀN THÔNG TIN MẠNG
+
+Mục 1
+
+CẤP GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG
+
+Điều 3.1.LQ.40. Kinh doanh trong lĩnh vực an toàn thông tin mạng
+
+(Điều 40 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Kinh doanh trong lĩnh vực an toàn thông tin mạng là ngành, nghề kinh doanh có điều kiện. Kinh doanh trong lĩnh vực an toàn thông tin mạng gồm kinh doanh sản phẩm an toàn thông tin mạng và kinh doanh dịch vụ an toàn thông tin mạng.
 
-**Chỉ mục:** 40
+2. Doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 41 của Luật này phải có Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng do cơ quan nhà nước có thẩm quyền cấp. Thời hạn của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng là 10 năm.
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004000000000000000000
+3. Việc kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00003423
+Điều kiện kinh doanh, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự, việc xuất khẩu, nhập khẩu sản phẩm mật mã dân sự, trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự và việc sử dụng sản phẩm, dịch vụ mật mã dân sự thực hiện theo quy định tại Chương III của Luật này.
 
----
+Điều kiện kinh doanh, trình tự, thủ tục cấp Giấy phép kinh doanh dịch vụ chứng thực chữ ký điện tử thực hiện theo quy định của pháp luật về giao dịch điện tử.
 
+(Điều này có nội dung liên quan đến Mục 3 QUẢN LÝ THEO GIẤY PHÉP, THEO ĐIỀU KIỆN XUẤT KHẨU, NHẬP KHẨU)
 
-### Điều 3.1.LQ.41. Sản phẩm, dịch vụ trong lĩnh vực an toàn thông tin mạng
+Điều 3.1.LQ.41. Sản phẩm, dịch vụ trong lĩnh vực an toàn thông tin mạng
+
+(Điều 41 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Dịch vụ an toàn thông tin mạng gồm:
 
-**Chỉ mục:** 41
+a) Dịch vụ kiểm tra, đánh giá an toàn thông tin mạng;
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004100000000000000000
+b) Dịch vụ bảo mật thông tin không sử dụng mật mã dân sự;
 
-**ID:** dk_00003424
+c) Dịch vụ mật mã dân sự;
 
----
+d) Dịch vụ chứng thực chữ ký điện tử;
 
+đ) Dịch vụ tư vấn an toàn thông tin mạng;
 
-### Điều 3.1.NĐ.3.3. Sản phẩm, dịch vụ an toàn thông tin mạng
+e) Dịch vụ giám sát an toàn thông tin mạng;
+
+g) Dịch vụ ứng cứu sự cố an toàn thông tin mạng;
+
+h) Dịch vụ khôi phục dữ liệu;
+
+i) Dịch vụ phòng ngừa, chống tấn công mạng;
+
+k) Dịch vụ an toàn thông tin mạng khác.
+
+2. Sản phẩm an toàn thông tin mạng gồm:
+
+a) Sản phẩm mật mã dân sự;
+
+b) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng;
+
+c) Sản phẩm giám sát an toàn thông tin mạng;
+
+d) Sản phẩm chống tấn công, xâm nhập;
+
+đ) Sản phẩm an toàn thông tin mạng khác.
+
+3. Chính phủ quy định chi tiết danh mục sản phẩm, dịch vụ an toàn thông tin mạng quy định tại điểm k khoản 1 và điểm đ khoản 2 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 3.1.LQ.42. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; Điều 3.1.LQ.44. Thẩm định hồ sơ và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng)
+
+Điều 3.1.NĐ.3.3. Sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 3 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Sản phẩm an toàn thông tin mạng gồm:
 
-**Chỉ mục:** 3
+a) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng là các thiết bị phần cứng, phần mềm có các chức năng cơ bản sau: Rà quét, kiểm tra, phân tích cấu hình, hiện trạng, dữ liệu nhật ký của hệ thống thông tin; phát hiện lỗ hổng, điểm yếu; đưa ra đánh giá rủi ro an toàn thông tin;
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000410000000000000000000402587001080000300
+b) Sản phẩm giám sát an toàn thông tin mạng là các thiết bị phần cứng, phần mềm có các chức năng cơ bản sau: Giám sát, phân tích dữ liệu truyền trên hệ thống thông tin; thu thập, phân tích dữ liệu nhật ký theo thời gian thực; phát hiện và đưa ra cảnh báo sự kiện bất thường, có nguy cơ gây mất an toàn thông tin;
 
-**ID:** dk_00003425
+c) Sản phẩm chống tấn công, xâm nhập là các thiết bị phần cứng, phần mềm có chức năng cơ bản ngăn chặn tấn công, xâm nhập vào hệ thống thông tin.
 
----
+2. Dịch vụ an toàn thông tin mạng gồm:
 
+a) Dịch vụ giám sát an toàn thông tin mạng là dịch vụ giám sát, phân tích lưu lượng dữ liệu truyền trên hệ thống thông tin; thu thập, phân tích dữ liệu nhật ký theo thời gian thực; phát hiện và đưa ra cảnh báo sự kiện bất thường, có nguy cơ gây mất an toàn thông tin;
 
-### Điều 3.1.NĐ.3.4. Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép
+b) Dịch vụ phòng ngừa, chống tấn công mạng là dịch vụ ngăn chặn các hành vi tấn công, xâm nhập vào hệ thống thông tin thông qua việc giám sát, thu thập, phân tích các sự kiện đang xảy ra trên hệ thống thông tin;
+
+c) Dịch vụ tư vấn an toàn thông tin mạng là dịch vụ hỗ trợ tư vấn, kiểm tra, đánh giá, triển khai, thiết kế, xây dựng các giải pháp bảo đảm an toàn thông tin;
+
+d) Dịch vụ ứng cứu sự cố an toàn thông tin mạng là dịch vụ xử lý, khắc phục kịp thời sự cố gây mất an toàn thông tin đối với hệ thống thông tin;
+
+đ) Dịch vụ khôi phục dữ liệu là dịch vụ khôi phục dữ liệu trong hệ thống thông tin đã bị xóa hoặc hư hỏng;
+
+e) Dịch vụ kiểm tra, đánh giá an toàn thông tin mạng là dịch vụ rà quét, kiểm tra, phân tích cấu hình, hiện trạng, dữ liệu nhật ký của hệ thống thông tin; phát hiện lỗ hổng, điểm yếu; đưa ra đánh giá rủi ro mất an toàn thông tin;
+
+g) Dịch vụ bảo mật thông tin không sử dụng mật mã dân sự là dịch vụ hỗ trợ người sử dụng bảo đảm tính bí mật của thông tin, hệ thống thông tin mà không sử dụng hệ thống mật mã dân sự.
+
+Điều 3.1.NĐ.3.4. Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép
+
+(Điều 4 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép bao gồm:
 
-**Chỉ mục:** 4
+a) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng;
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000410000000000000000000402587001080000400
+b) Sản phẩm giám sát an toàn thông tin mạng;
 
-**ID:** dk_00003426
+c) Sản phẩm chống tấn công, xâm nhập.
 
----
+2. Bộ Thông tin và Truyền thông xây dựng Danh mục chi tiết các sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép quy định tại khoản 1 Điều này.
 
+3. Doanh nghiệp nhập khẩu sản phẩm an toàn thông tin mạng không thuộc quy định tại khoản 1 Điều này thì không yêu cầu Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng.
 
-### Điều 3.1.TT.6.3. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép
+Điều 3.1.TT.6.3. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép
+
+(Điều 3 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 1. Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép được quy định tại Phụ lục I của Thông tư này.
 
-**Chỉ mục:** 3
+2. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép là thiết bị hoàn chỉnh có đặc tính kỹ thuật, mô tả hàng hóa theo đúng chỉ tiêu kỹ thuật, cấu trúc thiết kế, có thể hoạt động độc lập; không áp dụng đối với linh kiện hoặc phụ kiện hoặc bộ phận của sản phẩm.
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000300
+Phụ lục I.docx
 
-**ID:** dk_00003427
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
----
+Điều 3.1.TT.6.4. Hiệu lực của Giấy phép nhập khẩu
 
-
-### Điều 3.1.TT.6.4. Hiệu lực của Giấy phép nhập khẩu
+(Điều 4 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Thời hạn hiệu lực của Giấy phép nhập khẩu là 02 (hai) năm hoặc bằng thời hạn hiệu lực của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng của doanh nghiệp trong trường hợp thời hạn hiệu lực của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng còn ít hơn 02 (hai) năm.
 
-**Chỉ mục:** 4
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000400
+Điều 3.1.TT.6.5. Lệ phí cấp, cấp lại Giấy phép nhập khẩu
 
-**ID:** dk_00003428
-
----
-
-
-### Điều 3.1.TT.6.5. Lệ phí cấp, cấp lại Giấy phép nhập khẩu
+(Điều 5 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Doanh nghiệp nhập khẩu sản phẩm an toàn thông tin mạng có nghĩa vụ nộp lệ phí cấp, cấp lại Giấy phép nhập khẩu theo quy định tại Thông tư số 269/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí và lệ phí thuộc lĩnh vực an toàn thông tin.
 
-**Chỉ mục:** 5
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000500
+Điều 3.1.LQ.42. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
 
-**ID:** dk_00003429
-
----
-
-
-### Điều 3.1.LQ.42. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+(Điều 42 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung bị hủy bỏ bởi Điều 18 Luật số 35/2018/QH14 có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ sản phẩm, dịch vụ quy định tại các điểm a, b, c, d khoản 1 và điểm a khoản 2 Điều 41 của Luật này, khi đáp ứng đủ các điều kiện sau đây:
 
-**Chỉ mục:** 42
+a) Phù hợp với chiến lược, kế hoạch phát triển an toàn thông tin mạng quốc gia;
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004200000000000000000
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ an toàn thông tin mạng;
 
-**ID:** dk_00003430
+c) Có đội ngũ quản lý, điều hành, kỹ thuật đáp ứng được yêu cầu chuyên môn về an toàn thông tin;
 
----
+d) Có phương án kinh doanh phù hợp.
 
+2. Doanh nghiệp được cấp Giấy phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng khi đáp ứng đủ các điều kiện sau đây:
 
-### Điều 3.1.NĐ.3.5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+a) Các điều kiện quy định tại khoản 1 Điều này;
+
+b) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+
+c) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+
+d) Có phương án kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật;
+
+đ) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+
+e) Đội ngũ quản lý, điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về kiểm tra, đánh giá an toàn thông tin.
+
+3. Doanh nghiệp được cấp Giấy phép kinh doanh dịch vụ bảo mật thông tin không sử dụng mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
+
+a) Các điều kiện quy định tại các điểm a, b, c, d và đ khoản 2 Điều này;
+
+b) Đội ngũ quản lý điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về bảo mật thông tin.
+
+4. Chính phủ quy định chi tiết Điều này.
+
+(Điều này có nội dung liên quan đến Điều 3.1.LQ.41. Sản phẩm, dịch vụ trong lĩnh vực an toàn thông tin mạng; Điều 3.1.LQ.45. Sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng)
+
+Điều 3.1.NĐ.3.5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 5 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Bộ Thông tin và Truyền thông cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.
 
-**Chỉ mục:** 5
+2. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được cấp cho doanh nghiệp có thời hạn là 10 năm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000420000000000000000000402587001080000500
+Điều 3.1.TT.6.6. Cơ quan cấp Giấy phép nhập khẩu
 
-**ID:** dk_00003431
-
----
-
-
-### Điều 3.1.TT.6.6. Cơ quan cấp Giấy phép nhập khẩu
+(Điều 6 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Bộ Thông tin và Truyền thông (Cục An toàn thông tin) là cơ quan cấp Giấy phép nhập khẩu.
 
-**Chỉ mục:** 6
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000042000000000000000000040258700108000050000802670600130000600
+Điều 3.1.NĐ.3.6. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
 
-**ID:** dk_00003432
-
----
-
-
-### Điều 3.1.NĐ.3.6. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+(Điều 6 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này khi đáp ứng đủ các điều kiện quy định tại Điều 42 Luật an toàn thông tin mạng và các điều kiện tại Nghị định này.
 
-**Chỉ mục:** 6
+2. Đối với hoạt động nhập khẩu sản phẩm an toàn thông tin mạng quy định tại khoản 1 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng điều kiện quy định tại khoản 1 Điều này. Trong đó, chi tiết các điều kiện tại điểm c, d khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000420000000000000000000402587001080000600
+a) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có cán bộ kỹ thuật chịu trách nhiệm chính có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
 
-**ID:** dk_00003433
+b) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Mục đích nhập khẩu; phạm vi, đối tượng cung cấp sản phẩm; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; chi tiết các tính năng kỹ thuật cơ bản của sản phẩm.
 
----
+3. Đối với hoạt động sản xuất sản phẩm an toàn thông tin mạng quy định tại khoản 1 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng điều kiện quy định tại khoản 1 Điều này. Trong đó, chi tiết các điều kiện tại điểm b, c, d khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:
 
+a) Có hệ thống trang thiết bị, cơ sở vật chất và công nghệ sản xuất phù hợp với phương án kinh doanh sản phẩm an toàn thông tin mạng;
 
-### Điều 3.1.LQ.43. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+b) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+c) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp sản phẩm; loại hình sản phẩm dự kiến sản xuất; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; các tính năng kỹ thuật cơ bản của sản phẩm.
+
+4. Đối với hoạt động cung cấp dịch vụ an toàn thông tin mạng quy định tại điểm a, b, c, d, đ khoản 2 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng điều kiện quy định tại khoản 1 Điều này. Trong đó, chi tiết các điều kiện tại điểm b, c, d khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:
+
+a) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+
+b) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+c) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ.
+
+5. Đối với hoạt động cung cấp dịch vụ kiểm tra đánh giá an toàn thông tin mạng cần đáp ứng điều kiện quy định tại khoản 2 Điều 42 Luật an toàn thông tin mạng. Đối với hoạt động cung cấp dịch vụ bảo mật thông tin không sử dụng mật mã dân sự cần đáp ứng điều kiện quy định tại khoản 3 Điều 42 Luật an toàn thông tin mạng. Chi tiết các điều kiện tại điểm a, d khoản 2 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:
+
+a) Các điều kiện quy định tại khoản 4 Điều này;
+
+b) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng.
+
+Điều 3.1.LQ.43. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 43 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng nộp hồ sơ đề nghị cấp Giấy phép tại Bộ Thông tin và Truyền thông.
 
-**Chỉ mục:** 43
+2. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được lập thành năm bộ, gồm:
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004300000000000000000
+a) Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trong đó nêu rõ loại hình sản phẩm, dịch vụ an toàn thông tin mạng sẽ kinh doanh;
 
-**ID:** dk_00003434
+b) Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương;
 
----
+c) Bản thuyết minh hệ thống thiết bị kỹ thuật bảo đảm phù hợp với quy định của pháp luật;
 
+d) Phương án kinh doanh gồm phạm vi, đối tượng cung cấp sản phẩm, dịch vụ, tiêu chuẩn, chất lượng sản phẩm, dịch vụ;
 
-### Điều 3.1.NĐ.3.7. Hồ sơ, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+đ) Bản sao văn bằng hoặc chứng chỉ chuyên môn về an toàn thông tin của đội ngũ quản lý, điều hành, kỹ thuật.
+
+3. Ngoài giấy tờ, tài liệu quy định tại khoản 2 Điều này, hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự còn phải có:
+
+a) Phiếu lý lịch tư pháp của người đại diện theo pháp luật và đội ngũ quản lý, điều hành, kỹ thuật;
+
+b) Phương án kỹ thuật;
+
+c) Phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ.
+
+Điều 3.1.NĐ.3.7. Hồ sơ, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 7 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Hồ sơ và trình tự thủ tục cấp, sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo quy định tại Điều 43, 44, 45 Luật an toàn thông tin mạng.
 
-**Chỉ mục:** 7
+Điều 3.1.TT.6.7. Hồ sơ đề nghị cấp Giấy phép nhập khẩu
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000430000000000000000000402587001080000700
-
-**ID:** dk_00003435
-
----
-
-
-### Điều 3.1.TT.6.7. Hồ sơ đề nghị cấp Giấy phép nhập khẩu
+(Điều 7 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Hồ sơ đề nghị cấp Giấy phép nhập khẩu được lập thành 01 (một) bộ, bao gồm:
 
-**Chỉ mục:** 7
+1. Đơn đề nghị cấp Giấy phép nhập khẩu theo Mẫu số 01 tại Phụ lục II của Thông tư này.
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000070000802670600130000700
+2. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng: bản sao.
 
-**ID:** dk_00003436
+3. Giấy chứng nhận hoặc công bố hợp chuẩn, hợp quy: bản sao có chứng thực, trường hợp bản sao không có chứng thực thì mang bản chính để đối chiếu.
 
----
+4. Tài liệu kỹ thuật mô tả chức năng của sản phẩm đề nghị nhập khẩu: bản sao, bằng tiếng Việt Nam hoặc tiếng Anh.
 
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-### Điều 3.1.NĐ.3.8. Tiếp nhận hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Điều 3.1.NĐ.3.8. Tiếp nhận hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 8 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông bằng một trong các hình thức sau:
 
-**Chỉ mục:** 8
+a) Nộp trực tiếp đến đơn vị tiếp nhận hồ sơ;
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000430000000000000000000402587001080000800
+b) Nộp bằng cách sử dụng dịch vụ bưu chính;
 
-**ID:** dk_00003437
+c) Nộp trực tuyến trên Cổng thông tin điện tử của Bộ Thông tin và Truyền thông.
 
----
+2. Đơn vị tiếp nhận hồ sơ có trách nhiệm xác nhận bằng văn bản hoặc qua thư điện tử về việc đã nhận hồ sơ của doanh nghiệp trong vòng 01 ngày làm việc kể từ khi nhận được hồ sơ.
 
+3. Đối với hình thức nộp trực tiếp, ngày nhận hồ sơ là ngày đơn vị tiếp nhận hồ sơ nhận được hồ sơ do doanh nghiệp nộp.
 
-### Điều 3.1.TT.6.8. Tiếp nhận hồ sơ và cấp Giấy phép nhập khẩu
+4. Đối với hình thức nộp bằng cách sử dụng dịch vụ bưu chính, ngày nhận hồ sơ là ngày đơn vị tiếp nhận hồ sơ nhận được hồ sơ do doanh nghiệp cung cấp dịch vụ bưu chính chuyển đến.
+
+5. Đối với hình thức nộp trực tuyến, Bộ Thông tin và Truyền thông triển khai cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo lộ trình cung cấp dịch vụ công trực tuyến của Chính phủ.
+
+Điều 3.1.TT.6.8. Tiếp nhận hồ sơ và cấp Giấy phép nhập khẩu
+
+(Điều 8 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 1. Doanh nghiệp nộp hồ sơ theo một trong các hình thức sau đây:
 
-**Chỉ mục:** 8
+a) Nộp trực tiếp;
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130000800
+b) Nộp thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật;
 
-**ID:** dk_00003438
+c) Nộp trực tuyến.
 
----
+2. Địa chỉ tiếp nhận đối với hồ sơ nộp trực tiếp hoặc sử dụng dịch vụ bưu chính: Cục An toàn thông tin, Tầng 8, Tòa nhà Cục Tần số vô tuyến điện, số 115 đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, Thành phố Hà Nội.
 
+3. Đối với hồ sơ nộp trực tiếp, ngày nhận hồ sơ là ngày Cục An toàn thông tin nhận được hồ sơ do doanh nghiệp trực tiếp nộp.
 
-### Điều 3.1.TT.6.9. Thẩm định và cấp Giấy phép nhập khẩu
+4. Đối với hồ sơ nộp thông qua dịch vụ bưu chính, ngày nhận hồ sơ là ngày Cục An toàn thông tin nhận được hồ sơ do doanh nghiệp cung cấp dịch vụ bưu chính chuyển đến.
+
+5. Đối với hình thức nộp trực tuyến, Cục An toàn thông tin triển khai theo lộ trình cung cấp dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông.
+
+6. Doanh nghiệp nhận Giấy phép nhập khẩu trực tiếp tại trụ sở Cục An toàn thông tin hoặc thông qua dịch vụ bưu chính.
+
+7. Giấy phép nhập khẩu cấp cho doanh nghiệp được công khai trên Cổng thông tin một cửa Quốc gia, Cổng dịch vụ công Quốc gia và Cổng thông tin điện tử của Bộ Thông tin và Truyền thông.
+
+Phụ lục II.docx
+
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
+
+Điều 3.1.TT.6.9. Thẩm định và cấp Giấy phép nhập khẩu
+
+(Điều 9 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 1. Trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận hồ sơ, Cục An toàn thông tin kiểm tra và gửi thông báo cho doanh nghiệp về tính đầy đủ của hồ sơ theo quy định tại Điều 7 của Thông tư này bằng văn bản hoặc hình thức điện tử.
 
-**Chỉ mục:** 9
+2. Trường hợp hồ sơ chưa đầy đủ, doanh nghiệp có trách nhiệm thực hiện bổ sung theo yêu cầu của Cục An toàn thông tin.
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130000900
+3. Trong thời hạn 07 (bảy) ngày làm việc kể từ ngày hồ sơ hợp lệ, Cục An toàn thông tin thẩm định, hoàn thiện và trình hồ sơ cấp Giấy phép nhập khẩu cho Bộ Thông tin và Truyền thông.
 
-**ID:** dk_00003439
+Trường hợp đáp ứng đủ các điều kiện theo quy định tại Khoản 3 Điều 48 Luật an toàn thông tin mạng, Bộ Thông tin và Truyền thông cấp Giấy phép nhập khẩu cho doanh nghiệp theo Mẫu số 03 tại Phụ lục II của Thông tư này.
 
----
+Trường hợp không đáp ứng đủ các điều kiện theo quy định, Bộ Thông tin và Truyền thông (Cục An toàn thông tin) thông báo bằng văn bản cho doanh nghiệp, trong đó nêu rõ lý do không cấp phép.
 
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-### Điều 3.1.TT.6.10. Cấp lại Giấy phép nhập khẩu
+Điều 3.1.TT.6.10. Cấp lại Giấy phép nhập khẩu
+
+(Điều 10 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 1. Đối với Giấy phép nhập khẩu còn hiệu lực và bị mất hoặc bị hư hỏng, doanh nghiệp gửi đơn đề nghị cấp lại Giấy phép nhập khẩu theo Mẫu số 02 tại Phụ lục II của Thông tư này tới Bộ Thông tin và Truyền thông (Cục An toàn thông tin).
 
-**Chỉ mục:** 10
+2. Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được đơn hợp lệ, Bộ Thông tin và Truyền thông xem xét cấp lại Giấy phép nhập khẩu cho doanh nghiệp.
 
-**Mã phân cấp:** 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130001000
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**ID:** dk_00003440
+Điều 3.1.NĐ.3.9. Kiểm tra tính hợp lệ hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
 
----
-
-
-### Điều 3.1.NĐ.3.9. Kiểm tra tính hợp lệ hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+(Điều 9 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải làm bằng tiếng Việt, gồm 01 bộ hồ sơ gốc và 04 bộ bản sao hồ sơ hợp lệ đối với trường hợp đề nghị cấp Giấy phép, 01 bộ hồ sơ gốc và 01 bộ bản sao hồ sơ hợp lệ đối với các trường hợp đề nghị sửa đổi, bổ sung và gia hạn Giấy phép. Bộ hồ sơ gốc phải có đủ chữ ký, dấu xác nhận của doanh nghiệp, các tài liệu do doanh nghiệp lập nếu có từ 02 tờ văn bản trở lên phải có dấu giáp lai. Các bộ bản sao hồ sơ hợp lệ không yêu cầu phải có dấu xác nhận, dấu chứng thực bản sao nhưng phải có dấu giáp lai của doanh nghiệp nộp hồ sơ.
 
-**Chỉ mục:** 9
+2. Mẫu hồ sơ về Đơn đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Mẫu số 02; Phương án kinh doanh quy định tại Mẫu số 03; Phương án kỹ thuật quy định tại Mẫu số 04; Báo cáo tình hình thực hiện Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000430000000000000000000402587001080000900
+3. Bộ Thông tin và Truyền thông kiểm tra và thông báo cho doanh nghiệp nộp hồ sơ biết về tính hợp lệ của hồ sơ sau 03 ngày làm việc kể từ khi nhận được hồ sơ.
 
-**ID:** dk_00003441
+4. Việc kiểm tra tính hợp lệ của hồ sơ được thực hiện dựa trên các tiêu chí sau:
 
----
+a) Hồ sơ được lập theo đúng quy định tại khoản 1 Điều này;
 
+b) Đủ tài liệu quy định tương ứng đối với từng loại hồ sơ đề nghị cấp phép quy định tại Điều 43 Luật an toàn thông tin mạng;
 
-### Điều 3.1.NĐ.3.10. Nộp, giải trình, bổ sung hồ sơ trong quá trình thẩm định
+c) Các tài liệu cung cấp đủ đầu mục thông tin theo yêu cầu và tuân theo mẫu hồ sơ tương ứng đã được quy định tại Phụ lục của Nghị định này.
+
+5. Đối với hồ sơ không hợp lệ, Bộ Thông tin và Truyền thông có văn bản thông báo cho doanh nghiệp nộp hồ sơ và nêu rõ yếu tố không hợp lệ. Doanh nghiệp có quyền nộp lại hồ sơ bổ sung hoặc văn bản giải trình tính hợp lệ. Việc kiểm tra tính hợp lệ của hồ sơ nộp lại được thực hiện theo quy định tại khoản 4 Điều này.
+
+Điều 3.1.NĐ.3.10. Nộp, giải trình, bổ sung hồ sơ trong quá trình thẩm định
+
+(Điều 10 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Trong thời hạn thẩm định hồ sơ, Bộ Thông tin và Truyền thông có quyền gửi thông báo yêu cầu doanh nghiệp bổ sung hồ sơ, giải trình bằng văn bản hoặc giải trình trực tiếp nếu hồ sơ đề nghị cấp phép tương ứng không cung cấp đủ thông tin, không đáp ứng đủ điều kiện theo quy định nhưng không quá 01 lần.
 
-**Chỉ mục:** 10
+2. Doanh nghiệp có trách nhiệm nộp hồ sơ bổ sung, giải trình bằng văn bản hoặc giải trình trực tiếp cho Bộ Thông tin và Truyền thông theo nội dung yêu cầu và trong thời hạn tối đa là 10 ngày làm việc kể từ ngày doanh nghiệp nhận được thông báo quy định tại khoản 1 Điều này. Thời hạn thẩm định được tính tiếp kể từ thời điểm đơn vị tiếp nhận hồ sơ nhận được hồ sơ bổ sung hoặc văn bản giải trình của doanh nghiệp hoặc ngày ký biên bản cuộc họp giải trình.
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000430000000000000000000402587001080001000
+3. Nếu kết thúc thời hạn nộp hồ sơ bổ sung, giải trình quy định tại khoản 2 Điều này, doanh nghiệp không nộp hồ sơ bổ sung hoặc không giải trình và không có văn bản đề nghị được lùi thời hạn nộp bổ sung thì xem như doanh nghiệp từ bỏ việc nộp hồ sơ. Việc tiếp nhận hồ sơ nộp sau khi hết hạn nộp bổ sung, giải trình hoặc sau ngày doanh nghiệp đề nghị được lùi thời hạn được xét như tiếp nhận hồ sơ nộp mới.
 
-**ID:** dk_00003442
+4. Thời gian thẩm định hồ sơ ban đầu và hồ sơ bổ sung, ý kiến giải trình và cấp Giấy phép hoặc ra thông báo không cấp Giấy phép;
 
----
+a) Không vượt quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ đối với hồ sơ đề nghị cấp Giấy phép;
 
+b) Không vượt quá 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ đối với hồ sơ đề nghị gia hạn Giấy phép và hồ sơ đề nghị sửa đổi, bổ sung Giấy phép;
 
-### Điều 3.1.LQ.44. Thẩm định hồ sơ và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+c) Không vượt quá 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ đối với hồ sơ đề nghị cấp lại Giấy phép.
+
+Điều 3.1.LQ.44. Thẩm định hồ sơ và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 44 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Trong thời hạn 40 ngày kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với bộ, ngành có liên quan thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ kinh doanh sản phẩm, dịch vụ quy định tại điểm c, điểm d khoản 1 và điểm a khoản 2 Điều 41 của Luật này; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
 
-**Chỉ mục:** 44
+2. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có nội dung chính sau đây:
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004400000000000000000
+a) Tên doanh nghiệp, tên giao dịch của doanh nghiệp bằng tiếng Việt và tiếng nước ngoài (nếu có); địa chỉ trụ sở chính tại Việt Nam;
 
-**ID:** dk_00003443
+b) Tên của người đại diện theo pháp luật;
 
----
+c) Số giấy phép, ngày cấp giấy phép, ngày hết hạn giấy phép;
 
+d) Sản phẩm, dịch vụ an toàn thông tin mạng được phép kinh doanh.
 
-### Điều 3.1.LQ.45. Sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+3. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải nộp phí theo quy định của pháp luật về phí và lệ phí.
+
+(Điều này có nội dung liên quan đến Điều 3.1.LQ.41. Sản phẩm, dịch vụ trong lĩnh vực an toàn thông tin mạng)
+
+Điều 3.1.LQ.45. Sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 45 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ an toàn thông tin mạng mà mình cung cấp.
 
-**Chỉ mục:** 45
+Doanh nghiệp có trách nhiệm nộp hồ sơ đề nghị sửa đổi, bổ sung nội dung Giấy phép tại Bộ Thông tin và Truyền thông. Hồ sơ được lập thành hai bộ, gồm đơn đề nghị sửa đổi, bổ sung nội dung Giấy phép, báo cáo mô tả chi tiết nội dung đề nghị sửa đổi, bổ sung và các tài liệu khác có liên quan.
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004500000000000000000
+Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông thẩm định, sửa đổi, bổ sung và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
 
-**ID:** dk_00003444
+2. Trường hợp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin bị mất hoặc bị hư hỏng, doanh nghiệp gửi đơn đề nghị cấp lại Giấy phép, trong đó nêu rõ lý do, tới Bộ Thông tin và Truyền thông. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị, Bộ Thông tin và Truyền thông xem xét và cấp lại Giấy phép cho doanh nghiệp.
 
----
+3. Doanh nghiệp không vi phạm quy định của pháp luật về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng một lần với thời gian gia hạn không quá 01 năm. Hồ sơ đề nghị gia hạn Giấy phép phải được gửi tới Bộ Thông tin và Truyền thông chậm nhất là 60 ngày trước ngày Giấy phép hết hạn. Hồ sơ đề nghị gia hạn Giấy phép được lập thành hai bộ, gồm:
 
+a) Đơn đề nghị gia hạn Giấy phép;
 
-### Điều 3.1.LQ.46. Trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+b) Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đang có hiệu lực;
+
+c) Báo cáo hoạt động của doanh nghiệp trong 02 năm gần nhất.
+
+Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông thẩm định, quyết định gia hạn và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+4. Doanh nghiệp bị tạm đình chỉ hoạt động kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có thời hạn không quá 06 tháng trong các trường hợp sau đây:
+
+a) Cung cấp dịch vụ không đúng với nội dung ghi trên Giấy phép;
+
+b) Không đáp ứng được một trong các điều kiện quy định tại Điều 42 của Luật này;
+
+c) Các trường hợp khác theo quy định của pháp luật.
+
+5. Doanh nghiệp bị thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng trong các trường hợp sau đây:
+
+a) Không triển khai cung cấp dịch vụ trong thời hạn 01 năm kể từ ngày được cấp Giấy phép mà không có lý do chính đáng;
+
+b) Giấy phép đã hết hạn;
+
+c) Hết thời hạn tạm đình chỉ mà doanh nghiệp không khắc phục được các lý do quy định tại khoản 4 Điều này.
+
+(Điều này có nội dung liên quan đến Điều 3.1.LQ.42. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng)
+
+Điều 3.1.LQ.46. Trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 46 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ của sản phẩm.
 
-**Chỉ mục:** 46
+2. Lập, lưu giữ và bảo mật thông tin của khách hàng.
 
-**Mã phân cấp:** 030010000000000050000010000000000000000004600000000000000000
+3. Định kỳ hằng năm báo cáo Bộ Thông tin và Truyền thông về tình hình kinh doanh, xuất khẩu, nhập khẩu sản phẩm, dịch vụ an toàn thông tin mạng trước ngày 31 tháng 12.
 
-**ID:** dk_00003445
+4. Từ chối cung cấp sản phẩm, dịch vụ an toàn thông tin mạng khi phát hiện tổ chức, cá nhân vi phạm pháp luật về sử dụng sản phẩm, dịch vụ an toàn thông tin mạng, vi phạm cam kết đã thỏa thuận về sử dụng sản phẩm, dịch vụ do doanh nghiệp cung cấp.
 
----
+5. Tạm ngừng hoặc ngừng cung cấp sản phẩm, dịch vụ an toàn thông tin mạng để bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
+6. Phối hợp, tạo điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện các biện pháp nghiệp vụ khi có yêu cầu.
 
-### Điều 3.1.NĐ.3.11. Chế độ báo cáo của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+(Điều này có nội dung liên quan đến Mục 3 QUẢN LÝ THEO GIẤY PHÉP, THEO ĐIỀU KIỆN XUẤT KHẨU, NHẬP KHẨU)
+
+Điều 3.1.NĐ.3.11. Chế độ báo cáo của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+
+(Điều 11 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có trách nhiệm báo cáo đột xuất theo yêu cầu và báo cáo định kỳ hằng năm (trước ngày 31 tháng 12) về tình hình kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.
 
-**Chỉ mục:** 11
+Điều 3.1.TT.5.31. Các nguyên tắc chung về sử dụng dịch vụ của bên thứ ba
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000460000000000000000000402587001080001100
+(Điều 31 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003446
+ Khi sử dụng dịch vụ công nghệ thông tin của bên thứ ba, tổ chức bảo đảm các nguyên tắc sau đây:
 
----
+ 1. Không làm suy giảm khả năng cung cấp dịch vụ liên tục của tổ chức cho khách hàng.
 
+ 2. Không làm suy giảm việc kiểm soát quy trình nghiệp vụ của tổ chức.
 
-### Điều 3.1.TT.5.31. Các nguyên tắc chung về sử dụng dịch vụ của bên thứ ba
+ 3. Không làm thay đổi trách nhiệm của tổ chức trong việc bảo đảm an toàn thông tin.
 
-Khi sử dụng dịch vụ công nghệ thông tin của bên thứ ba, tổ chức bảo đảm các nguyên tắc sau đây:
+ 4. Dịch vụ công nghệ thông tin của bên thứ ba phải đáp ứng các quy định về bảo đảm an toàn thông tin của đơn vị.Điều 3.1.TT.5.32. Các yêu cầu khi sử dụng dịch vụ của bên thứ ba
 
-**Chỉ mục:** 31
+(Điều 32 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000460000000000000000000802665100180003100
+ Trước khi sử dụng dịch vụ của bên thứ ba, tổ chức thực hiện:
 
-**ID:** dk_00003447
+ 1. Đánh giá rủi ro công nghệ thông tin, rủi ro hoạt động tối thiểu bao gồm các nội dung sau:
 
----
+ a) Nhận diện rủi ro, phân tích, ước lượng mức độ tổn hại, mối đe dọa đến an toàn thông tin;
 
+ b) Khả năng kiểm soát các quy trình nghiệp vụ, khả năng cung cấp dịch vụ liên tục cho khách hàng, khả năng thực hiện nghĩa vụ cung cấp thông tin cho các cơ quan nhà nước;
 
-### Điều 3.1.TT.5.32. Các yêu cầu khi sử dụng dịch vụ của bên thứ ba
+ c) Xác định rõ vai trò, trách nhiệm của các bên liên quan trong việc bảo đảm chất lượng dịch vụ;
 
-Trước khi sử dụng dịch vụ của bên thứ ba, tổ chức thực hiện:
+ d) Xây dựng các biện pháp nhằm giảm thiểu rủi ro, biện pháp phòng ngừa, ứng cứu, khắc phục sự cố;
 
-**Chỉ mục:** 32
+ đ) Rà soát và điều chỉnh chính sách quản lý rủi ro (nếu có).
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000460000000000000000000802665100180003200
+ 2. Trong trường hợp sử dụng dịch vụ điện toán đám mây, ngoài các yêu cầu tại khoản 1 Điều này, tổ chức thực hiện:
 
-**ID:** dk_00003448
+ a) Phân loại hoạt động, nghiệp vụ dự kiến triển khai trên điện toán đám mây dựa trên đánh giá tác động của hoạt động, nghiệp vụ đó với hoạt động của tổ chức;
 
----
+ b) Xây dựng phương án dự phòng đối với các cấu phần của hệ thống thông tin từ mức độ 2 trở lên. Phương án dự phòng phải được kiểm thử và đánh giá sẵn sàng thay thế cho các hoạt động, nghiệp vụ triển khai trên điện toán đám mây;
 
+ c) Xây dựng các tiêu chí lựa chọn bên thứ ba đáp ứng yêu cầu quy định tại Điều 33 Thông tư này;
 
-### Điều 3.1.TT.5.33. Tiêu chí lựa chọn bên thứ ba cung cấp dịch vụ điện toán đám mây
+ d) Rà soát, bổ sung, áp dụng các biện pháp bảo đảm an toàn thông tin của tổ chức, giới hạn truy cập từ điện toán đám mây đến các hệ thống thông tin của tổ chức.
 
-Tiêu chí lựa chọn bên thứ ba bao gồm các nội dung tối thiểu sau:
+ 3. Trường hợp thuê bên thứ ba thực hiện toàn bộ công việc quản trị hệ thống thông tin từ mức độ 2 trở lên, tổ chức thực hiện đánh giá rủi ro theo quy định tại khoản 1 Điều này và gửi báo cáo đánh giá rủi ro cho Ngân hàng Nhà nước (Cục Công nghệ thông tin).Điều 3.1.TT.5.33. Tiêu chí lựa chọn bên thứ ba cung cấp dịch vụ điện toán đám mây
 
-**Chỉ mục:** 33
+(Điều 33 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000460000000000000000000802665100180003300
+ Tiêu chí lựa chọn bên thứ ba bao gồm các nội dung tối thiểu sau:
 
-**ID:** dk_00003449
+ 1. Bên thứ ba phải là doanh nghiệp.
 
----
+ 2. Có hạ tầng công nghệ thông tin tương ứng với dịch vụ mà tổ chức sử dụng đáp ứng các yêu cầu sau:
 
+ a) Các quy định của pháp luật Việt Nam;
 
-### Điều 3.1.TT.5.34. Hợp đồng sử dụng dịch vụ với bên thứ ba
+ b) Có chứng nhận quốc tế còn hiệu lực về bảo đảm an toàn thông tin.Điều 3.1.TT.5.34. Hợp đồng sử dụng dịch vụ với bên thứ ba
 
-Hợp đồng sử dụng dịch vụ ký kết với bên thứ ba phải có tối thiểu những nội dung sau:
+(Điều 34 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 34
+ Hợp đồng sử dụng dịch vụ ký kết với bên thứ ba phải có tối thiểu những nội dung sau:
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000460000000000000000000802665100180003400
+ 1. Cam kết của bên thứ ba về bảo đảm an toàn thông tin bao gồm:
 
-**ID:** dk_00003450
+ a. Đáp ứng yêu cầu quy định tại Điều 33 Thông tư này;
 
----
+ b. Không sao chép, thay đổi, sử dụng hay cung cấp dữ liệu của tổ chức sử dụng dịch vụ cho cá nhân, tổ chức khác, trừ trường hợp có yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật; trong trường hợp này, bên thứ ba phải thông báo cho tổ chức sử dụng dịch vụ trước khi cung cấp dữ liệu, trừ khi việc thông báo sẽ vi phạm pháp luật Việt Nam;
 
+ c. Phổ biến cho nhân sự của bên thứ ba tham gia thực hiện hợp đồng các quy định về bảo đảm an toàn thông tin của tổ chức, thực hiện các biện pháp giám sát bảo đảm tuân thủ.
 
-### Điều 3.1.TT.5.35. Trách nhiệm của tổ chức trong quá trình sử dụng dịch vụ của bên thứ ba
+ 2. Quy định cụ thể thời gian tối đa có thể gián đoạn dịch vụ và thời gian khắc phục sự cố, các yêu cầu liên quan đến bảo đảm hoạt động liên tục (dự phòng tại chỗ, sao lưu dữ liệu, dự phòng thảm họa), các yêu cầu liên quan đến năng lực xử lý, tính toán, lưu trữ, các biện pháp thực hiện khi chất lượng dịch vụ không được bảo đảm.
 
-1. Cung cấp, thông báo và yêu cầu bên thứ ba thực hiện các quy định về an toàn thông tin của tổ chức.
+ 3. Trường hợp bên thứ ba sử dụng nhà thầu phụ không làm thay đổi trách nhiệm của bên thứ ba đối với dịch vụ mà tổ chức sử dụng.
 
-**Chỉ mục:** 35
+ 4. Dữ liệu phát sinh trong quá trình sử dụng dịch vụ là tài sản của tổ chức. Khi chấm dứt sử dụng dịch vụ:
 
-**Mã phân cấp:** 03001000000000005000001000000000000000000460000000000000000000802665100180003500
+ a) Bên thứ ba thực hiện trả lại toàn bộ dữ liệu triển khai và dữ liệu phát sinh trong quá trình sử dụng dịch vụ;
 
-**ID:** dk_00003451
+ b) Bên thứ ba cam kết hoàn thành việc xoá toàn bộ dữ liệu của tổ chức trong một khoảng thời gian xác định.
 
----
+ 5. Bên thứ ba phải thông báo cho tổ chức khi phát hiện nhân sự vi phạm quy định về an toàn thông tin đối với dịch vụ mà tổ chức sử dụng.
 
+ 6. Hợp đồng sử dụng dịch vụ điện toán đám mây, ngoài các nội dung quy định tại các khoản 1, 2, 3, 4, 5 Điều này, phải bổ sung thêm những nội dung sau:
 
-### Điều 3.1.LQ.47. Nguyên tắc quản lý nhập khẩu sản phẩm an toàn thông tin mạng
+ a) Bên thứ ba phải cung cấp báo cáo kiểm toán tuân thủ công nghệ thông tin do tổ chức kiểm toán độc lập thực hiện hàng năm trong thời gian thực hiện hợp đồng;
+
+ b) Bên thứ ba phải cung cấp: công cụ kiểm soát chất lượng dịch vụ đám mây; quy trình giám sát, kiểm soát chất lượng dịch vụ đám mây;
+
+ c) Bên thứ ba phải minh bạch các vị trí (thành phố, quốc gia) đặt trung tâm dữ liệu bên ngoài lãnh thổ Việt Nam triển khai dịch vụ cho tổ chức;
+
+ d) Trách nhiệm bảo vệ dữ liệu, chống truy cập dữ liệu trái phép trên kênh phân phối dịch vụ từ bên thứ ba đến tổ chức;
+
+ đ) Bên thứ ba phải hỗ trợ, hợp tác điều tra trong trường hợp có yêu cầu từ các cơ quan nhà nước có thẩm quyền của Việt Nam theo quy định của pháp luật;
+
+ e) Dữ liệu của tổ chức phải được tách biệt với dữ liệu của khách hàng khác sử dụng trên cùng nền tảng kỹ thuật do bên thứ ba cung cấp.Điều 3.1.TT.5.35. Trách nhiệm của tổ chức trong quá trình sử dụng dịch vụ của bên thứ ba
+
+(Điều 35 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Cung cấp, thông báo và yêu cầu bên thứ ba thực hiện các quy định về an toàn thông tin của tổ chức.
+
+ 2. Có quy trình và bố trí nguồn lực để giám sát, kiểm soát các dịch vụ do bên thứ ba cung cấp bảo đảm chất lượng dịch vụ theo thỏa thuận đã ký kết. Đối với dịch vụ điện toán đám mây, phải giám sát, kiểm soát chất lượng dịch vụ.
+
+ 3. Áp dụng các quy định về an toàn thông tin của tổ chức đối với trang thiết bị, dịch vụ do bên thứ ba cung cấp được triển khai trên hạ tầng do tổ chức quản lý, sử dụng.
+
+ 4. Quản lý các thay đổi đối với dịch vụ do bên thứ ba cung cấp bao gồm: thay đổi nhà cung cấp, thay đổi giải pháp, thay đổi phiên bản, thay đổi các nội dung quy định tại Điều 40 Thông tư này; đánh giá đầy đủ tác động của việc thay đổi, bảo đảm an toàn khi được đưa vào sử dụng.
+
+ 5. Áp dụng các biện pháp giám sát chặt chẽ và giới hạn quyền truy cập của bên thứ ba khi cho phép bên thứ ba truy cập vào hệ thống thông tin của tổ chức.
+
+ 6. Giám sát nhân sự của bên thứ ba trong quá trình thực hiện hợp đồng. Trường hợp phát hiện nhân sự bên thứ ba vi phạm quy định về an toàn thông tin phải thông báo và phối hợp với bên thứ ba áp dụng biện pháp xử lý kịp thời.
+
+ 7. Thu hồi quyền truy cập hệ thống thông tin đã được cấp cho bên thứ ba, thay đổi các khoá, mã khóa bí mật nhận bàn giao từ bên thứ ba ngay sau khi hoàn thành công việc hoặc kết thúc hợp đồng.
+
+ 8. Đối với hệ thống thông tin từ mức độ 2 trở lên hoặc hệ thống thông tin sử dụng dịch vụ điện toán đám mây, phải đánh giá sự tuân thủ các quy định về bảo đảm an toàn thông tin của bên thứ ba theo đúng thỏa thuận đã ký kết. Thực hiện đánh giá sự tuân thủ định kỳ hàng năm hoặc đột xuất khi có nhu cầu. Việc đánh giá tuân thủ có thể sử dụng kết quả kiểm toán công nghệ thông tin của tổ chức kiểm toán độc lập.Mục 2
+
+QUẢN LÝ NHẬP KHẨU SẢN PHẨM AN TOÀN THÔNG TIN MẠNG
+
+(Mục này có nội dung liên quan đến Mục 3 QUẢN LÝ THEO GIẤY PHÉP, THEO ĐIỀU KIỆN XUẤT KHẨU, NHẬP KHẨU của Luật 05/2017/QH14 quản lý ngoại thương ban hành ngày 12/06/2017)
+
+Điều 3.1.LQ.47. Nguyên tắc quản lý nhập khẩu sản phẩm an toàn thông tin mạng
+
+(Điều 47 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Việc quản lý nhập khẩu đối với sản phẩm an toàn thông tin mạng được thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-**Chỉ mục:** 47
+2. Việc nhập khẩu sản phẩm an toàn thông tin mạng của cơ quan, tổ chức, cá nhân được hưởng quyền ưu đãi, miễn trừ ngoại giao thực hiện theo quy định của pháp luật về hải quan, pháp luật về ưu đãi, miễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước ngoài và cơ quan đại diện của tổ chức quốc tế liên Chính phủ tại Việt Nam.
 
-**Mã phân cấp:** 030010000000000050000020000000000000000004700000000000000000
+3. Trong trường hợp Việt Nam chưa có quy chuẩn kỹ thuật an toàn thông tin mạng tương ứng đối với sản phẩm an toàn thông tin mạng nhập khẩu thì áp dụng theo thỏa thuận quốc tế, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**ID:** dk_00003453
+Điều 3.1.LQ.48. Sản phẩm nhập khẩu theo giấy phép trong lĩnh vực an toàn thông tin mạng
 
----
-
-
-### Điều 3.1.LQ.48. Sản phẩm nhập khẩu theo giấy phép trong lĩnh vực an toàn thông tin mạng
+(Điều 48 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Khi nhập khẩu sản phẩm an toàn thông tin mạng thuộc Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép do Chính phủ quy định, doanh nghiệp phải có Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng do cơ quan nhà nước có thẩm quyền cấp.
 
-**Chỉ mục:** 48
+2. Tổ chức, doanh nghiệp nhập khẩu sản phẩm an toàn thông tin mạng phải thực hiện chứng nhận, công bố hợp quy trước khi nhập khẩu theo quy định tại Điều 39 của Luật này.
 
-**Mã phân cấp:** 030010000000000050000020000000000000000004800000000000000000
+3. Tổ chức, doanh nghiệp được cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng khi đáp ứng đủ các điều kiện sau đây:
 
-**ID:** dk_00003454
+a) Có Giấy phép kinh doanh sản phẩm an toàn thông tin mạng;
 
----
+b) Sản phẩm an toàn thông tin mạng phải thực hiện chứng nhận, công bố hợp quy theo quy định tại Điều 39 của Luật này;
 
+c) Đối tượng và mục đích sử dụng sản phẩm an toàn thông tin mạng không gây phương hại đến quốc phòng, an ninh quốc gia và trật tự, an toàn xã hội.
 
-### Điều 3.1.LQ.49. Đào tạo, bồi dưỡng nghiệp vụ về an toàn thông tin mạng
+4. Bộ Thông tin và Truyền thông quy định chi tiết về trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng theo giấy phép.
+
+(Điều này có nội dung liên quan đến Điều 3.1.LQ.39. Đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng)
+
+Chương VI
+
+PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN MẠNG
+
+Điều 3.1.LQ.49. Đào tạo, bồi dưỡng nghiệp vụ về an toàn thông tin mạng
+
+(Điều 49 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Chủ quản hệ thống thông tin có trách nhiệm đào tạo và bồi dưỡng kiến thức, nghiệp vụ cho cán bộ quản lý, kỹ thuật về an toàn thông tin mạng.
 
-**Chỉ mục:** 49
+2. Cán bộ chuyên trách về an toàn thông tin mạng được bố trí, tạo điều kiện làm việc phù hợp với chuyên môn, được ưu tiên bồi dưỡng nghiệp vụ về an toàn thông tin mạng.
 
-**Mã phân cấp:** 0300100000000000600004900000000000000000
+3. Nhà nước khuyến khích tổ chức, cá nhân đầu tư, liên doanh, liên kết với tổ chức khác để đầu tư xây dựng cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp nhằm đào tạo nhân lực trong lĩnh vực an toàn thông tin mạng.
 
-**ID:** dk_00003456
+4. Bộ Nội vụ chủ trì, phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành có liên quan xây dựng kế hoạch và tổ chức thực hiện đào tạo, bồi dưỡng kiến thức, nghiệp vụ về an toàn thông tin mạng cho cán bộ, công chức, viên chức.
 
----
+Điều 3.1.TT.1.3. Nguồn kinh phí
 
-
-### Điều 3.1.TT.1.3. Nguồn kinh phí
+(Điều 3 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 1. Ngân sách nhà nước, gồm ngân sách trung ương và ngân sách địa phương theo phân cấp ngân sách hiện hành.
 
-**Chỉ mục:** 3
+2. Nguồn thu của các cơ quan, đơn vị được phép để lại sử dụng theo quy định của pháp luật.
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000300
+3. Nguồn đóng góp của các doanh nghiệp và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật.
 
-**ID:** dk_00003457
+Điều 3.1.TT.1.4. Đối tượng đào tạo
 
----
-
-
-### Điều 3.1.TT.1.4. Đối tượng đào tạo
+(Điều 4 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 1. Cán bộ, công chức, viên chức làm về ATANTT trong các đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
 
-**Chỉ mục:** 4
+2. Cán bộ, công chức, viên chức làm về ATANTT trong các đơn vị, bộ phận chuyên trách về công nghệ thông tin thuộc các Tổng cục, Cục hoặc đơn vị sự nghiệp (nếu có).
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000400
+3. Cán bộ, công chức, viên chức làm về ATANTT trong các Sở Thông tin và Truyền thông, các Trung tâm Công nghệ thông tin thuộc Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (bao gồm cả các Trung tâm Dữ liệu, Trung tâm Tích hợp dữ liệu và bộ phận kỹ thuật vận hành các hệ thống ứng dụng công nghệ thông tin tại địa phương như hệ thống cổng thông tin điện tử, hệ thống thư điện tử, hệ thống một cửa điện tử, hệ thống quản lý văn bản điện tử).
 
-**ID:** dk_00003458
+4. Cán bộ lãnh đạo và cán bộ chủ chốt của các Bộ, cơ quan Trung ương và các địa phương.
 
----
+5. Cán bộ chuyên trách về ATANTT tại các doanh nghiệp, tổ chức tài chính, ngân hàng, tổng công ty, tập đoàn kinh tế nhà nước.
 
+Điều 3.1.TT.1.5. Nội dung chi, mức chi
 
-### Điều 3.1.TT.1.5. Nội dung chi, mức chi
+(Điều 5 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Nội dung chi, mức chi các hoạt động triển khai dự án Đào tạo ngắn hạn về ATANTT thuộc Đề án 99 thực hiện theo quy định tại Thông tư số 139/2010/TT-BTC ngày 21/9/2010 của Bộ Tài chính quy định việc lập dự toán, quản lý và sử dụng kinh phí từ ngân sách nhà nước dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức. Ngoài ra, Thông tư này hướng dẫn thêm một số nội dung chi, mức chi như sau:
 
-**Chỉ mục:** 5
+1. Chi thuê cơ sở vật chất, bao gồm:
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000500
+a) Chi thuê phòng học.
 
-**ID:** dk_00003459
+b) Chi thuê máy tính, máy chiếu, thuê thiết bị chuyên dụng phục vụ thực hành về an toàn thông tin như Firewall, IPS/IDS, Router, Switch và các thiết bị cần thiết khác.
 
----
+Mức chi theo thực tế thực hiện trên cơ sở tuân thủ các quy định của pháp luật về lựa chọn nhà thầu trong mua sắm thường xuyên.
 
+2. Chi cho giảng viên chính, trợ giảng, cán bộ kỹ thuật trong nước:
 
-### Điều 3.1.TT.1.6. Lập dự toán, quản lý và sử dụng kinh phí
+a) Chi bồi dưỡng giảng viên chính, trợ giảng, cán bộ kỹ thuật:
+
+Căn cứ tình hình thực tế, khả năng kinh phí được cấp có thẩm quyền giao và mức độ phức tạp của khóa học, cơ quan, đơn vị được giao chủ trì tổ chức các khóa đào tạo quyết định các mức chi cụ thể cho phù hợp đối với khóa học đòi hỏi chuyên môn cao, có thể thuê chuyên gia giảng dạy với mức thù lao theo thỏa thuận hoặc áp dụng hệ số tăng cao từ 1,5 - 3,0 lần so với định mức thù lao hiện hành, cụ thể như sau:
+
+- Chi bồi dưỡng giảng viên chính trong nước: Mức tối đa không quá 100.000 đồng/giờ/giảng viên đối với các khóa học đào tạo kiến thức về quản lý và nghiệp vụ bảo đảm ATANTT cho cán bộ quản lý; không quá 120.000 đồng/giờ/giảng viên đối với các khóa học nâng cao kỹ năng về ATANTT dành cho đội ngũ nhân lực làm ATANTT; không quá 200.000 đồng/giờ/giảng viên đối với các khóa học lấy chứng chỉ quốc tế về ATANTT;
+
+- Chi bồi dưỡng trợ giảng, cán bộ kỹ thuật: không quá 50.000 đồng/giờ/người.
+
+Trường hợp phát sinh các khóa đào tạo với yêu cầu kỹ thuật đặc biệt, Bộ trưởng các Bộ, Thủ trưởng các cơ quan Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định mức chi thù lao giảng viên cụ thể bằng văn bản để thực hiện.
+
+b) Chi phí ăn, ở cho giảng viên chính, trợ giảng, cán bộ kỹ thuật trong nước:
+
+Tùy theo địa điểm, thời gian tổ chức lớp học, các cơ quan, đơn vị được giao chủ trì tổ chức các khóa đào tạo, bồi dưỡng CBCC quyết định chi phụ cấp tiền ăn cho giảng viên nhưng tối đa không vượt quá mức chi phụ cấp lưu trú được quy định tại Thông tư số 97/2010/TT-BTC ngày 06 tháng 07 năm 2010 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi tổ chức các cuộc hội nghị đối với các cơ quan nhà nước và đơn vị sự nghiệp công lập và văn bản của Bộ, ngành, địa phương hướng dẫn thực hiện Thông tư số 97/2010/TT-BTC của Bộ Tài chính.
+
+c) Chi phí đi lại cho giảng viên chính, trợ giảng, cán bộ kỹ thuật: gồm vé máy bay, vé tàu, vé taxi đi lại trong quá trình giảng dạy được thanh toán theo thực tế phát sinh.
+
+3. Chi cho giảng viên nước ngoài:
+
+a) Mức thù lao đối với giảng viên nước ngoài do cơ sở đào tạo thỏa thuận với giảng viên nhưng không quá 20.000.000 đồng/người/ngày.
+
+b) Các chi phí khác cho giảng viên nước ngoài như ăn, ở, đi lại, dịch thuật thực hiện theo quy định tại Thông tư số 01/2010/TT-BTC ngày 06/01/2010 của Bộ Tài chính quy định chế độ chi tiêu đón tiếp khách nước ngoài vào làm việc tại Việt Nam, chi tiêu tổ chức các hội nghị, hội thảo quốc tế tại Việt Nam và chi tiêu tiếp khách trong nước.
+
+4. Chi đào tạo, bồi dưỡng theo chứng chỉ quốc tế của các hãng (các đơn vị được ủy quyền của các hãng): thanh toán theo hợp đồng giữa các cơ sở đào tạo và nhà cung cấp, trong đó bao gồm chi phí bản quyền đào tạo và giáo trình đào tạo chính hãng (nếu có); bảo đảm tuân thủ quy định hóa đơn chứng từ và quy định về đấu thầu, mua sắm hàng hóa, dịch vụ.
+
+5. Đối với đào tạo, bồi dưỡng theo hình thức trực tuyến, ngoài các khoản chi được quy định trong Thông tư số 139/2010/TT-BTC ngày 21/9/2010 của Bộ Tài chính, còn được chi cho các nội dung sau:
+
+a) Chi xây dựng chương trình khung, biên soạn chương trình, giáo trình: thực hiện theo Thông tư số 123/2009/TT-BTC ngày 17/6/2009 của Bộ Tài chính quy định nội dung chi, mức chi xây dựng chương trình khung và biên soạn chương trình, giáo trình các môn học đối với các ngành đào tạo Đại học, Cao đẳng, Trung cấp chuyên nghiệp.
+
+b) Chi số hóa bài giảng phục vụ cho đào tạo, bồi dưỡng trực tuyến: thực hiện theo quy định tại Thông tư số 194/2012/TT-BTC ngày 15/11/2012 của Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của cơ quan, đơn vị sử dụng ngân sách nhà nước.
+
+c) Chi xây dựng video bài giảng: áp dụng định mức chi đối với xây dựng chương trình phổ biến kiến thức quy định tại Thông tư số 30/2010/TT-BTTTT ngày 31/12/2010 của Bộ Thông tin và Truyền thông ban hành định mức áp dụng tạm thời về hao phí lao động, hao phí thiết bị trong sản xuất các chương trình truyền hình.
+
+d) Chi mua sắm, xây dựng các phần mềm phục vụ đào tạo, bồi dưỡng trực tuyến: thực hiện theo quy định về xây dựng, mua sắm phần mềm.
+
+đ) Chi thuê, mua các dịch vụ để duy trì, lưu trữ bài giảng trên mạng internet: được thanh toán theo hợp đồng giữa các cơ sở đào tạo và nhà cung cấp, bảo đảm tuân thủ quy định hóa đơn chứng từ và quy định về đấu thầu, mua sắm hàng hóa, dịch vụ.
+
+6. Trong quá trình thực hiện, nếu các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung, thay thế bằng văn bản quy phạm pháp luật mới thì áp dụng theo văn bản sửa đổi, bổ sung, thay thế đó.
+
+Điều 3.1.TT.1.6. Lập dự toán, quản lý và sử dụng kinh phí
+
+(Điều 6 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 1. Lập dự toán: Hàng năm, vào thời gian lập dự toán ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước, các cơ quan, đơn vị được giao nhiệm vụ theo quy định tại Đề án 99 căn cứ nhu cầu đào tạo ngắn hạn về ANATTT xây dựng kế hoạch và dự toán kinh phí thực hiện nhiệm vụ đào tạo cán bộ ANATTT của cơ quan, đơn vị mình, tổng hợp chung trong kế hoạch đào tạo, bồi dưỡng CBCC của năm kế hoạch gửi Bộ Nội vụ tổng hợp (đối với các Bộ, cơ quan Trung ương), gửi Sở Nội vụ (đối với các cơ quan ở địa phương), đồng thời tổng hợp vào dự toán ngân sách năm kế hoạch của Bộ, cơ quan để gửi cơ quan tài chính cùng cấp tổng hợp trình cấp có thẩm quyền theo quy định.
 
-**Chỉ mục:** 6
+2. Phân bổ và giao dự toán: Căn cứ dự toán ngân sách được cấp có thẩm quyền giao; Thủ trưởng cơ quan, đơn vị có trách nhiệm phân bổ và giao dự toán kinh phí cho các đơn vị tổ chức thực hiện (trong đó bao gồm cả kinh phí thực hiện Đề án 99).
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802563101660000600
+3. Sử dụng và quyết toán kinh phí: Việc sử dụng và quyết toán kinh phí bảo đảm thực hiện Đề án 99 theo quy định của Luật Ngân sách nhà nước, các văn bản hướng dẫn thi hành và quy định tại Thông tư này; cuối năm tổng hợp chung trong quyết toán ngân sách hàng năm của cơ quan, đơn vị theo quy định.
 
-**ID:** dk_00003460
+Điều 3.1.TT.5.12. Tổ chức nguồn nhân lực
 
----
+(Điều 12 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
+ 1. Người đại diện hợp pháp phải trực tiếp tham gia chỉ đạo và có trách nhiệm trong công tác xây dựng chiến lược, kế hoạch về bảo đảm an toàn thông tin, ứng cứu các sự cố an ninh mạng xảy ra tại tổ chức.
 
-### Điều 3.1.TT.5.12. Tổ chức nguồn nhân lực
+ 2. Tổ chức quản lý trực tiếp hệ thống thông tin mức độ 2 trở lên thực hiện:
 
-1. Người đại diện hợp pháp phải trực tiếp tham gia chỉ đạo và có trách nhiệm trong công tác xây dựng chiến lược, kế hoạch về bảo đảm an toàn thông tin, ứng cứu các sự cố an ninh mạng xảy ra tại tổ chức.
+ a) Thành lập hoặc chỉ định bộ phận chuyên trách về an toàn thông tin có chức năng, nhiệm vụ bảo đảm an toàn thông tin và ứng cứu sự cố an ninh mạng cho tổ chức;
 
-**Chỉ mục:** 12
+ b) Thành lập hoặc chỉ định bộ phận chuyên trách để quản lý vận hành trung tâm điều hành an ninh mạng đáp ứng yêu cầu quy định tại Điều 46 Thông tư này (không áp dụng với chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán, tổ chức tín dụng phi ngân hàng);
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802665100180001200
+ c) Tách biệt nhân sự giữa các nhiệm vụ: (i) Phát triển với quản trị hệ thống thông tin; (ii) Phát triển với vận hành hệ thống thông tin; (iii) Quản trị với vận hành hệ thống thông tin; (iv) Kiểm tra về an toàn thông tin với phát triển, quản trị, vận hành hệ thống thông tin.Điều 3.1.TT.5.13. Tuyển dụng và phân công nhiệm vụ
 
-**ID:** dk_00003461
+(Điều 13 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ Tổ chức tuyển dụng và phân công nhiệm vụ như sau:
 
+ 1. Xác định trách nhiệm trong việc bảo đảm an toàn thông tin của vị trí cần tuyển dụng hoặc phân công.
 
-### Điều 3.1.TT.5.13. Tuyển dụng và phân công nhiệm vụ
+ 2. Xem xét, đánh giá tư cách đạo đức, trình độ chuyên môn thông qua lý lịch, lý lịch tư pháp trước khi phân công nhân sự làm việc tại các vị trí quan trọng của hệ thống thông tin như: vận hành hệ thống thông tin mức độ 3 hoặc quản trị hệ thống thông tin.
 
-Tổ chức tuyển dụng và phân công nhiệm vụ như sau:
+ 3. Yêu cầu người được tuyển dụng cam kết bảo mật thông tin bằng văn bản riêng hoặc cam kết trong hợp đồng lao động. Cam kết này phải bao gồm các điều khoản về trách nhiệm bảo đảm an toàn thông tin trong và sau khi làm việc tại tổ chức.
 
-**Chỉ mục:** 13
+ 4. Đào tạo, phổ biến các quy định của tổ chức về an toàn thông tin đối với nhân sự mới tuyển dụng.Điều 3.1.TT.5.14. Quản lý sử dụng nguồn nhân lực
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802665100180001300
+(Điều 14 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003462
+ Tổ chức quản lý nguồn nhân lực như sau:
 
----
+ 1. Phổ biến, cập nhật các quy định về an toàn thông tin cho tất cả cá nhân trong tổ chức tối thiểu mỗi năm một lần.
 
+ 2. Kiểm tra việc tuân thủ các quy định về an toàn thông tin đối với cá nhân, bộ phận trực thuộc tối thiểu mỗi năm một lần.
 
-### Điều 3.1.TT.5.14. Quản lý sử dụng nguồn nhân lực
+ 3. Áp dụng các biện pháp xử lý kỷ luật đối với cá nhân, bộ phận vi phạm quy định an toàn thông tin theo quy định của pháp luật và quy định của tổ chức.Điều 3.1.TT.5.15. Chấm dứt hoặc thay đổi công việc
 
-Tổ chức quản lý nguồn nhân lực như sau:
+(Điều 15 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 14
+ Khi cá nhân trong tổ chức chấm dứt hoặc thay đổi công việc, tổ chức thực hiện:
 
-**Mã phân cấp:** 030010000000000060000490000000000000000000802665100180001400
+ 1. Xác định trách nhiệm của cá nhân khi chấm dứt hoặc thay đổi công việc.
 
-**ID:** dk_00003463
+ 2. Yêu cầu cá nhân bàn giao lại tài sản công nghệ thông tin.
 
----
+ 3. Thu hồi ngay quyền truy cập hệ thống thông tin của cá nhân nghỉ việc.
 
+ 4. Thay đổi kịp thời quyền truy cập hệ thống thông tin của cá nhân thay đổi công việc bảo đảm nguyên tắc quyền vừa đủ để thực hiện nhiệm vụ được giao.
 
-### Điều 3.1.TT.5.15. Chấm dứt hoặc thay đổi công việc
+ 5. Rà soát, kiểm tra đối chiếu định kỳ tối thiểu sáu tháng một lần giữa bộ phận quản lý nhân sự và bộ phận quản lý cấp phát, thu hồi quyền truy cập hệ thống thông tin nhằm bảo đảm tuân thủ khoản 3, khoản 4 Điều này.
 
-Khi cá nhân trong tổ chức chấm dứt hoặc thay đổi công việc, tổ chức thực hiện:
+ 6. Thông báo cho Ngân hàng Nhà nước (Cục Công nghệ thông tin) các trường hợp cá nhân làm việc trong lĩnh vực công nghệ thông tin của tổ chức bị kỷ luật với hình thức sa thải, buộc thôi việc hoặc bị truy tố trước pháp luật do vi phạm quy định về an toàn thông tin.Điều 3.1.LQ.50. Văn bằng, chứng chỉ đào tạo về an toàn thông tin mạng
 
-**Chỉ mục:** 15
-
-**Mã phân cấp:** 030010000000000060000490000000000000000000802665100180001500
-
-**ID:** dk_00003464
-
----
-
-
-### Điều 3.1.LQ.50. Văn bằng, chứng chỉ đào tạo về an toàn thông tin mạng
+(Điều 50 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp trong phạm vi nhiệm vụ, quyền hạn của mình cấp văn bằng, chứng chỉ đào tạo về an toàn thông tin mạng.
 
-**Chỉ mục:** 50
+2. Bộ Giáo dục và Đào tạo chủ trì, phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành có liên quan công nhận văn bằng giáo dục đại học về an toàn thông tin mạng do tổ chức nước ngoài cấp.
 
-**Mã phân cấp:** 0300100000000000600005000000000000000000
+3. Bộ Lao động – Thương binh và Xã hội chủ trì, phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành có liên quan công nhận văn bằng, chứng chỉ giáo dục nghề nghiệp về an toàn thông tin mạng do tổ chức nước ngoài cấp.
 
-**ID:** dk_00003465
+Chương VII
 
----
+QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THÔNG TIN MẠNG
 
+Điều 3.1.LQ.51. Nội dung quản lý nhà nước về an toàn thông tin mạng
 
-### Điều 3.1.LQ.51. Nội dung quản lý nhà nước về an toàn thông tin mạng
+(Điều 51 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 18 Luật số 35/2018/QH14 có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 1. Xây dựng chiến lược, kế hoạch và chính sách trong lĩnh vực an toàn thông tin mạng; xây dựng và chỉ đạo thực hiện chương trình quốc gia về an toàn thông tin mạng; tổ chức lập phương án phát triển hạ tầng bảo đảm an toàn thông tin mạng trong quy hoạch hạ tầng thông tin và truyền thông, quy hoạch khác có liên quan theo quy định của pháp luật về quy hoạch.
 
-**Chỉ mục:** 51
+2. Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về an toàn thông tin mạng; xây dựng, công bố tiêu chuẩn quốc gia, ban hành quy chuẩn kỹ thuật về an toàn thông tin mạng.
 
-**Mã phân cấp:** 0300100000000000700005100000000000000000
+3. Quản lý nhà nước về mật mã dân sự.
 
-**ID:** dk_00003467
+4. Quản lý công tác đánh giá, công bố hợp chuẩn, hợp quy về an toàn thông tin mạng.
 
----
+5. Quản lý công tác giám sát an toàn hệ thống thông tin.
 
+6. Thẩm định về an toàn thông tin mạng trong hồ sơ thiết kế hệ thống thông tin.
 
-### Điều 3.1.NĐ.1.7. Thanh tra, kiểm tra
+7. Tuyên truyền, phổ biến pháp luật về an toàn thông tin mạng.
+
+8. Quản lý hoạt động kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.
+
+9. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ về an toàn thông tin mạng; phát triển nguồn nhân lực an toàn thông tin mạng; đào tạo cán bộ chuyên trách về an toàn thông tin mạng.
+
+10. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về an toàn thông tin mạng.
+
+11. Hợp tác quốc tế về an toàn thông tin mạng.
+
+Điều 3.1.NĐ.1.7. Thanh tra, kiểm tra
+
+(Điều 7 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Ban Cơ yếu Chính phủ chủ trì, phối hợp với các Bộ, ngành, địa phương liên quan thanh tra, kiểm tra hoạt động kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự.
 
-**Chỉ mục:** 7
+2. Các tổ chức, cá nhân kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự chịu sự thanh tra, kiểm tra của các cơ quan Nhà nước có thẩm quyền theo quy định của pháp luật về thanh tra.
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000402587000580000700
+Điều 3.1.NĐ.1.8. Xử lý vi phạm các quy định về kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự
 
-**ID:** dk_00003468
-
----
-
-
-### Điều 3.1.NĐ.1.8. Xử lý vi phạm các quy định về kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự
+(Điều 8 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với một trong các hành vi sau đây:
 
-**Chỉ mục:** 8
+a) Mua, bán, chuyển nhượng, cho thuê, cho mượn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự, Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự;
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000402587000580000800
+b) Tẩy xóa, sửa chữa các nội dung trong Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự hoặc Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự;
 
-**ID:** dk_00003469
+c) Không làm thủ tục sửa đổi, bổ sung khi thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ mật mã dân sự;
 
----
+d) Không làm thủ tục cấp lại khi giấy phép bị mất hoặc hư hỏng;
 
+đ) Không báo cáo hoặc báo cáo không đúng thời hạn cho Ban Cơ yếu Chính phủ về tình hình kinh doanh sản phẩm, dịch vụ mật mã dân sự; xuất khẩu, nhập khẩu sản phẩm mật mã dân sự và tổng hợp thông tin khách hàng;
 
-### Điều 3.1.NĐ.1.9. Thẩm quyền xử phạt
+e) Sử dụng sản phẩm mật mã dân sự không do doanh nghiệp được cấp phép kinh doanh sản phẩm mật mã dân sự cung cấp mà không khai báo với Ban Cơ yếu Chính phủ;
+
+g) Không lập, lưu giữ và bảo mật thông tin khách hàng, tên, loại hình, số lượng và Mục đích sử dụng của sản phẩm, dịch vụ mật mã dân sự.
+
+2. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi kinh doanh không đúng nội dung ghi trong Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự hoặc Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự.
+
+3. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi sau đây:
+
+a) Kinh doanh sản phẩm, dịch vụ mật mã dân sự, xuất khẩu, nhập khẩu sản phẩm mật mã dân sự mà không có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự hoặc Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự; hoặc tiếp tục kinh doanh sản phẩm, dịch vụ mật mã dân sự khi Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự đã hết hạn;
+
+b) Không tạm ngừng hoặc ngừng cung cấp sản phẩm, dịch vụ mật mã dân sự để đảm bảo quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội khi có yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+c) Không phối hợp, tạo Điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện các biện pháp nghiệp vụ khi có yêu cầu;
+
+d) Từ chối cung cấp các thông tin cần thiết liên quan tới khóa mã cho cơ quan nhà nước có thẩm quyền khi có yêu cầu.
+
+4. Hình thức xử phạt bổ sung:
+
+a) Tước quyền sử dụng Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự và Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại các Điểm a, b Khoản 1 và Khoản 2 Điều này;
+
+b) Tịch thu tang vật, phương tiện để thực hiện hành vi vi phạm quy định tại Điểm c Khoản 1 và Khoản 3 Điều này.
+
+Điều 3.1.NĐ.1.9. Thẩm quyền xử phạt
+
+(Điều 9 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Thanh tra viên cơ yếu đang thi hành công vụ có thẩm quyền:
 
-**Chỉ mục:** 9
+a) Phạt cảnh cáo;
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000402587000580000900
+b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 500.000 đồng;
 
-**ID:** dk_00003470
+c) Áp dụng các biện pháp khắc phục hậu quả.
 
----
+2. Chánh Thanh tra cơ yếu, Trưởng đoàn thanh tra chuyên ngành có thẩm quyền:
 
+a) Phạt cảnh cáo;
 
-### Điều 3.1.NĐ.1.10. Thẩm quyền lập biên bản vi phạm hành chính
+b) Phạt tiền mức tối đa không quá 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt quy định tại Điểm b Khoản này;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả.
+
+3. Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền mức tối đa không quá 25.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt quy định tại Điểm b Khoản này;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả.
+
+4. Chủ tịch Ủy ban nhân dân cấp tỉnh có thẩm quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền mức tối đa không quá 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt quy định tại Điểm b Khoản này;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả.
+
+5. Công an nhân dân, Bộ đội Biên phòng, Cảnh sát biển, Hải quan, Quản lý thị trường có quyền xử phạt theo thẩm quyền quy định tại Khoản 4, 5, 6, 7 Điều 39, Điều 40, Điều 41, Điều 42, Khoản 4 Điều 45 của Luật xử lý vi phạm hành chính số 15/2012/QH13 ngày 20 tháng 6 năm 2012 đối với các hành vi vi phạm hành chính trong lĩnh vực mật mã dân sự được quy định tại Nghị định này.
+
+Điều 3.1.NĐ.1.10. Thẩm quyền lập biên bản vi phạm hành chính
+
+(Điều 10 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Các chức danh nêu tại Điều 9 Nghị định này, cán bộ đang thi hành công vụ trong lĩnh vực mật mã dân sự có quyền lập biên bản vi phạm hành chính theo quy định.
 
-**Chỉ mục:** 10
+Điều 3.1.NĐ.2.24. Kinh phí bảo đảm an toàn thông tin
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000402587000580001000
-
-**ID:** dk_00003471
-
----
-
-
-### Điều 3.1.NĐ.2.24. Kinh phí bảo đảm an toàn thông tin
+(Điều 24 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Kinh phí thực hiện yêu cầu về an toàn thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức nhà nước do ngân sách nhà nước bảo đảm.
 
-**Chỉ mục:** 24
+2. Kinh phí đầu tư cho an toàn thông tin sử dụng vốn đầu tư công thực hiện theo quy định của Luật đầu tư công. Đối với dự án đầu tư công để xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin, kinh phí đầu tư cho an toàn thông tin theo cấp độ được bố trí trong vốn đầu tư của dự án tương ứng.
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000402587000850002400
+3. Kinh phí thực hiện giám sát, đánh giá, quản lý rủi ro an toàn thông tin; đào tạo ngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức, diễn tập an toàn thông tin và ứng cứu sự cố của cơ quan, tổ chức nhà nước được cân đối bố trí trong dự toán ngân sách hàng năm của cơ quan, tổ chức nhà nước đó theo phân cấp của Luật ngân sách nhà nước.
 
-**ID:** dk_00003472
+4. Bộ Tài chính hướng dẫn mục chi cho công tác bảo đảm an toàn thông tin trong dự toán ngân sách, hướng dẫn quản lý và sử dụng kinh phí sự nghiệp chi cho công tác bảo đảm an toàn thông tin trong hoạt động của các cơ quan, tổ chức nhà nước.
 
----
+5. Căn cứ nhiệm vụ được giao, cơ quan, tổ chức nhà nước thực hiện lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện nhiệm vụ bảo đảm an toàn thông tin theo quy định của Luật ngân sách nhà nước.
 
+Điều 3.1.TT.7.3. Nguồn kinh phí
 
-### Điều 3.1.TT.7.3. Nguồn kinh phí
+(Điều 3 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 1. Ngân sách nhà nước.
 
-**Chỉ mục:** 3
+2. Kinh phí của doanh nghiệp; các khoản đóng góp, tài trợ và các nguồn vốn hợp pháp khác theo quy định.
 
-**Mã phân cấp:** 03001000000000007000051000000000000000000040258700085000240000802676401210000300
+Điều 3.1.TT.7.4. Nguyên tắc quản lý, sử dụng kinh phí
 
-**ID:** dk_00003473
-
----
-
-
-### Điều 3.1.TT.7.4. Nguyên tắc quản lý, sử dụng kinh phí
+(Điều 4 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 1. Đối với kinh phí ngân sách nhà nước:
 
-**Chỉ mục:** 4
+Kinh phí thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng được bố trí trong dự toán ngân sách nhà nước của các bộ, cơ quan trung ương và địa phương theo phân cấp ngân sách hiện hành. Việc bố trí kinh phí thực hiện theo nguyên tắc: Hoạt động, lực lượng thuộc ngân sách cấp nào do ngân sách cấp đó bảo đảm và được tổng hợp vào dự toán ngân sách hàng năm của cơ quan, đơn vị theo quy định của Luật Ngân sách nhà nước và các văn bản pháp luật khác có liên quan, cụ thể:
 
-**Mã phân cấp:** 03001000000000007000051000000000000000000040258700085000240000802676401210000400
+a) Ngân sách trung ương:
 
-**ID:** dk_00003474
+- Bảo đảm kinh phí để triển khai các hoạt động thực hiện nhiệm vụ bảo đảm an toàn thông tin do các cơ quan, tổ chức nhà nước ở trung ương thực hiện quy định tại khoản 1 và khoản 3 Điều 24 Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ (sau đây gọi tắt là Nghị định số 85/2016/NĐ-CP), gồm:
 
----
++ Kinh phí thực hiện yêu cầu về an toàn thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức nhà nước do ngân sách nhà nước bảo đảm;
 
++ Kinh phí thực hiện giám sát, đánh giá, quản lý rủi ro an toàn thông tin; đào tạo ngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức, diễn tập an toàn thông tin và ứng cứu sự cố của cơ quan, tổ chức nhà nước được cân đối bố trí trong dự toán ngân sách hàng năm của cơ quan, tổ chức nhà nước đó theo phân cấp của Luật Ngân sách nhà nước.
 
-### Điều 3.1.TT.7.5. Nội dung chi
+- Bảo đảm kinh phí để triển khai các hoạt động quy định tại điểm a khoản 2 Điều 17 Quyết định số 05/2017/QĐ-TTg ngày 16/3/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Quyết định số 05/2017/QĐ-TTg), gồm:
+
++ Hoạt động chỉ đạo, điều hành, kiểm tra, giám sát ứng cứu sự cố của Ban Chỉ đạo quốc gia, Ban Điều phối ứng cứu quốc gia, cơ quan thường trực ứng cứu sự cố quốc gia;
+
++ Hoạt động của cơ quan điều phối quốc gia;
+
++ Hoạt động, nhiệm vụ của các Bộ, cơ quan trung ương.
+
+b) Ngân sách địa phương:
+
+- Bảo đảm kinh phí hoạt động thực hiện nhiệm vụ bảo đảm an toàn thông tin do cơ quan, tổ chức, đơn vị chuyên trách ở địa phương về an toàn thông tin thực hiện quy định tại khoản 1 và khoản 3 Điều 24 Nghị định số 85/2016/NĐ-CP.
+
+- Bảo đảm hoạt động của Ban Chỉ đạo, đơn vị chuyên trách ứng cứu sự cố, đội ứng cứu sự cố ở địa phương, các nhiệm vụ do địa phương thực hiện quy định tại điểm b khoản 2 Điều 17 Quyết định số 05/2017/QĐ-TTg.
+
+2. Đối với nhiệm vụ ứng cứu sự cố, bảo đảm an toàn thông tin mạng thuộc trách nhiệm của doanh nghiệp thì doanh nghiệp tự bảo đảm kinh phí thực hiện.
+
+3. Kinh phí hỗ trợ thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng phải được quản lý, sử dụng đúng mục đích, đúng chế độ và theo quy định tại Thông tư này.
+
+Điều 3.1.TT.7.5. Nội dung chi
+
+(Điều 5 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 Nội dung chi của ngân sách trung ương, ngân sách địa phương, doanh nghiệp theo quy định tại khoản 2 Điều 17 Quyết định số 05/2017/QĐ-TTg; khoản 1 và khoản 3 Điều 24 Nghị định số 85/2016/NĐ-CP.
 
-**Chỉ mục:** 5
+Điều 3.1.TT.7.6. Mức chi
 
-**Mã phân cấp:** 03001000000000007000051000000000000000000040258700085000240000802676401210000500
-
-**ID:** dk_00003475
-
----
-
-
-### Điều 3.1.TT.7.6. Mức chi
+(Điều 6 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 Các Bộ, cơ quan trung ương, địa phương, cơ quan, đơn vị sử dụng kinh phí ngân sách nhà nước cho công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng phải thực hiện đúng định mức, chế độ chi tiêu tài chính hiện hành do cơ quan Nhà nước có thẩm quyền ban hành.
 
-**Chỉ mục:** 6
+Thông tư này quy định chi tiết mức chi cho một số nội dung, nhiệm vụ cụ thể ứng cứu sự cố, bảo đảm an toàn thông tin mạng như sau:
 
-**Mã phân cấp:** 03001000000000007000051000000000000000000040258700085000240000802676401210000600
+1. Chi tổ chức các hội nghị sơ kết, tổng kết, chuyên đề, hội thảo về công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng; chi đoàn xác minh sự cố, kiểm tra, giám sát, chỉ đạo đánh giá kết quả triển khai, các đoàn tham gia học tập kinh nghiệm trong nước về giám sát, điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng: Thực hiện theo Thông tư số 40/2017/TT-BTC ngày 28/4/2017 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị.
 
-**ID:** dk_00003476
+2. Chi tổ chức các hội thảo quốc tế tại Việt Nam: Thực hiện theo Thông tư số 71/2018/TT-BTC ngày 10/8/2018 quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước.
 
----
+3. Chi các đoàn khảo sát học tập kinh nghiệm, tham gia hội thảo quốc tế tại nước ngoài giám sát, điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng: Thực hiện theo Thông tư số 102/2012/TT-BTC ngày 21/6/2012 của Bộ Tài chính quy định chế độ công tác phí cho cán bộ, công chức nhà nước đi công tác ngắn hạn ở nước ngoài do ngân sách nhà nước bảo đảm kinh phí.
 
+4. Chi duy trì đường dây nóng của cơ quan điều phối quốc gia: Chi các chi phí để duy trì đường dây nóng theo hợp đồng, hóa đơn, chứng từ hợp pháp, hợp lệ; chi hỗ trợ người được giao trực tiếp nhận thông tin từ đường dây nóng (tiếp nhận thông tin 24h/24h và 7 ngày/tuần): 1.300.000 đồng/người/tháng/một đường dây nóng. Người nhận khoản hỗ trợ này thì không được thanh toán tiền lương làm đêm, làm thêm giờ do trực đường dây nóng theo quy định.
 
-### Điều 3.1.TT.7.7. Lập dự toán, phân bổ dự toán, sử dụng và quyết toán
+5. Chi đào tạo, huấn luyện, bồi dưỡng về kỹ năng, nghiệp vụ, chuyên môn điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng: Thực hiện theo Thông tư số 166/2015/TT-BTC ngày 05/11/2015 của Bộ Tài chính quy định việc quản lý và sử dụng kinh phí thực hiện dự án đào tạo ngắn hạn về an toàn, an ninh thông tin trong nước thuộc Đề án đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020.
+
+6. Chi tổ chức diễn tập an toàn thông tin, ứng cứu sự cố:
+
+Thực hiện theo đề án và dự toán được phê duyệt theo nội dung chi và mức chi quy định tại Thông tư số 166/2015/TT-BTC ngày 05/11/2015 của Bộ Tài chính quy định việc quản lý và sử dụng kinh phí thực hiện dự án đào tạo ngắn hạn về an toàn, an ninh thông tin trong nước thuộc Đề án đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020.
+
+7. Chi thuê dịch vụ kỹ thuật, mua sắm, nâng cấp, gia hạn bản quyền phần mềm, trang thiết bị, bảo dưỡng phương tiện công cụ để phục vụ công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng:
+
+a) Chi thuê dịch vụ công nghệ thông tin: Dịch vụ kỹ thuật, gia hạn bản quyền phần mềm, dịch vụ hỗ trợ, bảo trì, bảo dưỡng trang thiết bị, phương tiện công cụ và các dịch vụ khác phục vụ công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng: Thực hiện theo quy định của Luật Đấu thầu và các văn bản hướng dẫn thực hiện. Việc thuê dịch vụ công nghệ thông tin phải phù hợp với kế hoạch ứng phó sự cố, bảo đảm an toàn mạng và kế hoạch thuê dịch vụ công nghệ thông tin được phê duyệt của Bộ, ngành, địa phương;
+
+b) Chi mua sắm, nâng cấp thiết bị, ứng dụng công nghệ thông tin phục vụ công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng theo quy định của Luật Đấu thầu và các văn bản hướng dẫn thực hiện. Việc mua sắm, nâng cấp thiết bị, ứng dụng công nghệ thông tin phải phù hợp với kế hoạch ứng phó sự cố, bảo đảm an toàn thông tin mạng được phê duyệt của Bộ, ngành, địa phương.
+
+8. Chi tạo lập, duy trì, vận hành hệ thống cơ sở dữ liệu thông tin về nguy cơ, sự cố tấn công mạng, cổng/trang thông tin điện tử của cơ quan điều phối quốc gia, mạng lưới ứng cứu sự cố quốc gia, hệ thống chia sẻ thông tin phục vụ công tác điều phối ứng cứu, bảo đảm an toàn thông tin mạng: Thực hiện theo quy định tại Thông tư số 194/2012/TT-BTC ngày 15/11/2012 của Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước.
+
+9. Chi hỗ trợ xây dựng, áp dụng chuẩn ISO 27xxx theo quy định tại Quyết định số 05/2017/QĐ-TTg và các tiêu chuẩn quốc tế về an toàn thông tin mạng: Thực hiện quy định tại Thông tư số 116/2015/TT-BTC ngày 11/8/2015 của Bộ Tài chính quy định công tác quản lý tài chính đối với việc tư vấn, xây dựng, áp dụng, duy trì và cải tiến hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001: 2008 vào hoạt động của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước.
+
+10. Chi hoạt động tuyên truyền phục vụ công tác ứng cứu sự cố, bảo đảm an toàn thông tin: Thực hiện theo quy định tại Thông tư liên tịch số 14/2014/TTLT-BTC-BTP ngày 27/01/2014 của Bộ Tài chính và Bộ Tư pháp quy định về việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm công tác phổ biến, giáo dục pháp luật và chuẩn tiếp cận pháp luật của người dân tại cơ sở.
+
+11. Chi thuê chuyên gia tư vấn ứng cứu sự cố, bảo đảm an toàn thông tin mạng:
+
+a) Đối với thuê chuyên gia trong nước: Áp dụng theo quy định tại Thông tư số 02/2015/TT-BLĐTBXH ngày 12/01/2015 của Bộ Lao động Thương binh và Xã hội quy định mức lương đối với chuyên gia tư vấn trong nước làm cơ sở dự toán gói thầu cung cấp dịch vụ tư vấn áp dụng hình thức hợp đồng theo thời gian sử dụng vốn nhà nước;
+
+b) Đối với thuê chuyên gia tư vấn nước ngoài: Căn cứ vào mức độ cần thiết và triển khai các hoạt động và dự toán kinh phí được duyệt, Bộ trưởng, thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quyết định việc thuê chuyên gia tư vấn nước ngoài và chịu trách nhiệm về quyết định của mình. Mức chi thực hiện theo hợp đồng thực tế thỏa thuận với chuyên gia theo yêu cầu chất lượng, số lượng và thời gian thực hiện công việc.
+
+12. Đối với các nội dung chi có mức chi áp dụng theo các định mức, đơn giá, ngày công, căn cứ quy mô, mức độ, yêu cầu kỹ thuật, công nghệ, nhiệm vụ bảo đảm an toàn thông tin mạng, ứng cứu sự cố và điều kiện thực tế để xác định. Trường hợp nhiệm vụ do công chức, viên chức, người lao động trong cơ quan, đơn vị thực hiện thì chỉ thanh toán tiền lương làm đêm, làm thêm giờ (nếu có) theo quy định. Đối với những nội dung thuê, mua dịch vụ bên ngoài thì thanh toán theo hợp đồng với nhà cung cấp, bảo đảm tuân thủ quy định hóa đơn, chứng từ và quy định về đấu thầu, mua sắm hàng hóa, dịch vụ, bao gồm các nội dung chi sau:
+
+a) Chi điều phối ứng cứu sự cố an toàn thông tin mạng, gồm: Tiếp nhận, phân tích, phân loại sơ bộ sự cố và hệ thống bị sự cố; kiểm tra, xác minh, đánh giá thông tin sự cố; nghiên cứu, điều tra, phân tích sự cố và đề xuất phương thức, giải pháp điều phối, ứng cứu sự cố; điều hành, phối hợp, tổ chức các đơn vị tham gia thực hiện ứng cứu, xử lý sự cố; theo dõi, kiểm tra, đôn đốc thực hiện các lệnh điều phối;
+
+b) Chi tổ chức hỗ trợ ứng cứu, xử lý sự cố, tấn công mạng, gồm: Tiếp nhận, kiểm tra, xác minh, đánh giá, phân loại sự cố; nghiên cứu, điều tra, phân tích sự cố; đề xuất, lựa chọn phương án, hình thức triển khai ứng cứu; thuê dịch vụ kỹ thuật, phương tiện, thiết bị phục vụ xử lý sự cố; triển khai ứng cứu, ngăn chặn và xử lý sự cố; lập báo cáo ứng cứu xử lý sự cố;
+
+c) Chi thực hiện giám sát trực tiếp nhằm theo dõi, phân tích, phát hiện sớm nguy cơ, sự cố cho hệ thống thông tin, gồm: Khảo sát, xây dựng phương án, kế hoạch giám sát; thuê, mua, lắp đặt thiết bị kỹ thuật và nghiên cứu điều chỉnh, bổ sung, cập nhật giám sát; theo dõi, phân tích, xây dựng báo cáo giám sát định kỳ;
+
+d) Chi thực hiện giám sát gián tiếp của cơ quan điều phối quốc gia và cơ quan chức năng đối với hệ thống, dịch vụ công nghệ thông tin phục vụ chính phủ điện tử, gồm: Khảo sát, xây dựng phương án, kế hoạch giám sát; thuê, mua và lắp đặt, triển khai thiết bị kỹ thuật; thu thập, thống kê, tổng hợp tình hình sự cố, nguy cơ, tấn công mạng, các điểm yếu/lỗ hổng an toàn thông tin, các phương thức, thủ đoạn tấn công, xâm hại an toàn thông tin mạng; tổng hợp, phân tích các thông tin, dữ liệu về sự cố từ các nguồn; theo dõi, phân tích, phát hiện các dấu hiệu, nguy cơ ảnh hưởng đến tính sẵn sàng, nguyên vẹn, an toàn của hệ thống;
+
+đ) Xây dựng kịch bản tình huống sự cố, tấn công mạng có thể xảy ra và dự phòng phương án ứng cứu cho hệ thống thông tin, gồm: Khảo sát và xác định phạm vi, quy mô hệ thống thông tin; nghiên cứu, phân tích các tình huống, sự cố có thể xảy ra; xác định phương án ứng cứu theo tình huống và từng hệ thống cụ thể; hướng dẫn, trao đổi thỏa thuận về quy trình ứng cứu, xử lý sự cố và cách thức phối hợp trong quá trình ứng cứu, xử lý sự cố;
+
+e) Chi nghiên cứu, phân tích chuyên sâu, sao lưu dữ liệu và hướng dẫn xử lý phần mềm độc hại (mã độc) nguy hiểm, gồm: Khảo sát hiện trường sự cố và lấy mẫu mã độc; chuẩn bị các công cụ, thiết bị, phần mềm, phương tiện, môi trường phục vụ phân tích; phân tích thông tin cơ bản, đánh giá, kiểm tra để xác minh các thông tin về phần mềm độc hại; nghiên cứu, đề xuất phân loại phần mềm độc hại; phân tích, mô tả chi tiết về phần mềm độc hại; nghiên cứu, phân tích về cơ chế lây nhiễm/tấn công/hoạt động/tác động; nghiên cứu, phân tích về các ảnh hưởng, thiệt hại do mã độc gây ra;
+
+g) Chi rà quét, phát hiện, bóc gỡ các phần mềm độc hại nguy hiểm cho máy chủ, máy trạm và thiết bị đầu cuối; khảo sát, nghiên cứu, xây dựng kế hoạch; thực hiện kiểm tra, rà quét phần mềm độc hại nguy hiểm, khôi phục dữ liệu cho máy chủ; bóc gỡ, xử lý mã độc, khôi phục dữ liệu đã bị mã độc mã hóa và thiết lập an toàn để phòng ngừa mã độc;
+
+h) Chi kiểm tra, đánh giá, phát hiện các nguy cơ, lỗ hổng an toàn thông tin cho cổng/trang thông tin điện tử, hệ thống, phần mềm, ứng dụng, dịch vụ công nghệ thông tin phục vụ chính phủ điện tử, gồm: Khảo sát, thu thập thông tin về hệ thống, xây dựng kế hoạch kiểm tra đánh giá, thiết lập hệ thống mô phỏng và hệ thống hỗ trợ rủi ro, kiểm tra, đánh giá, phân tích điểm yếu, lỗ hổng an toàn thông tin; phân tích kết quả đánh giá và đề xuất giải pháp khắc phục; chuyển giao, hỗ trợ hướng dẫn khắc phục các điểm yếu, lỗ hổng;
+
+i) Kiểm tra, phân tích, đánh giá an toàn thông tin cho hạ tầng, máy chủ, máy trạm và thiết bị mạng, gồm: Khảo sát hệ thống và xây dựng kế hoạch; triển khai hệ thống hỗ trợ dự phòng rủi ro; kiểm tra, đánh giá điểm yếu trong thiết kế và hệ thống mạng; kiểm tra, đánh giá điểm yếu cho từng thiết bị, máy chủ, máy trạm và phần mềm hệ thống, ứng dụng nền tảng; hướng dẫn khắc phục nguy cơ lỗ hổng;
+
+13. Chi điều tra, khảo sát, tổng hợp, thống kê thông tin, số liệu về an toàn thông tin, điều phối, ứng cứu sự cố: Thực hiện theo quy định tại Thông tư số 109/2016/TT-BTC ngày 30/6/2016 của Bộ Tài chính quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện các cuộc điều tra thống kê, tổng điều tra thống kê quốc gia.
+
+14. Các khoản chi khác phục vụ trực tiếp công tác điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng: Mức chi căn cứ vào hóa đơn, chứng từ chi tiêu hợp pháp, hợp lệ và trong phạm vi dự toán được cấp có thẩm quyền giao; thủ trưởng cơ quan, đơn vị quyết định mức chi các khoản chi khác chịu trách nhiệm về quyết định của mình trước pháp luật.
+
+Điều 3.1.TT.7.7. Lập dự toán, phân bổ dự toán, sử dụng và quyết toán
+
+(Điều 7 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 Việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ứng cứu sự cố, bảo đảm an toàn thông tin mạng thực hiện theo quy định tại Luật Ngân sách nhà nước, Luật Kế toán và các văn bản hướng dẫn. Ngoài ra, Thông tư này hướng dẫn một số nội dung cụ thể sau:
 
-**Chỉ mục:** 7
+1. Lập dự toán:
 
-**Mã phân cấp:** 03001000000000007000051000000000000000000040258700085000240000802676401210000700
+Hàng năm, căn cứ các nhiệm vụ được giao về ứng cứu sự cố, bảo đảm an toàn thông tin mạng tại Nghị định số 85/2016/NĐ-CP, Quyết định số 05/2017/QĐ-TTg và hướng dẫn của Bộ Thông tin và Truyền thông về ứng cứu sự cố, bảo đảm an toàn thông tin mạng trên toàn quốc và các quy định tại Thông tư này; các cơ quan, đơn vị xây dựng kế hoạch và lập dự toán cho công tác điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng như sau:
 
-**ID:** dk_00003477
+a) Đối với kinh phí từ nguồn ngân sách trung ương:
 
----
+- Cơ quan điều phối quốc gia về ứng cứu sự cố, Cơ quan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia, Ban Điều phối ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia lập dự toán kinh phí cho công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng gửi Bộ Thông tin và Truyền thông tổng hợp chung vào dự toán ngân sách của Bộ Thông tin và Truyền thông gửi Bộ Tài chính để tổng hợp trình cấp có thẩm quyền quyết định theo quy định.
 
+- Đối với kinh phí chi cho công tác bảo đảm an toàn thông tin, ứng cứu sự cố thuộc trách nhiệm của các Bộ, cơ quan trung ương: Hàng năm các Bộ, cơ quan trung ương lập dự toán và tổng hợp chung vào dự toán ngân sách nhà nước của Bộ, cơ quan trung ương gửi Bộ Tài chính để tổng hợp trình cấp có thẩm quyền quyết định theo quy định.
 
-### Điều 3.1.TT.5.6. Quản lý tài sản công nghệ thông tin
+- Đối với chi thực hiện các dự án: Các Bộ, cơ quan trung ương được giao nhiệm vụ chủ trì thực hiện các dự án đã được Thủ tướng Chính phủ phê duyệt, căn cứ vào mục tiêu, nhiệm vụ của từng dự án lập dự toán (phần kinh phí do ngân sách trung ương bảo đảm) tổng hợp chung trong dự toán của Bộ, cơ quan mình gửi Bộ Tài chính trình cấp có thẩm quyền phê duyệt.
 
-1. Các loại tài sản công nghệ thông tin bao gồm:
+b) Đối với kinh phí từ nguồn ngân sách địa phương:
 
-**Chỉ mục:** 6
+Các cơ quan thực hiện nhiệm vụ bảo đảm an toàn thông tin mạng, các cơ quan được giao nhiệm vụ thường trực Ban chỉ đạo, đơn vị chuyên trách ứng cứu sự cố, đội ứng cứu sự cố của địa phương, các cơ quan, đơn vị có liên quan được giao nhiệm vụ chủ trì triển khai công việc liên quan đến hoạt động bảo đảm an toàn thông tin, ứng cứu sự cố lập dự toán gửi đơn vị dự toán cấp trên để gửi cơ quan tài chính cùng cấp để tổng hợp chung vào dự toán ngân sách địa phương, báo cáo Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh xem xét, quyết định.
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000600
+2. Phân bổ và giao dự toán:
 
-**ID:** dk_00003478
+Các Bộ, cơ quan Trung ương và địa phương phân bổ kinh phí cho các cơ quan, đơn vị trong đó ghi chú cụ thể kinh phí dành cho công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng theo Quyết định số 05/2017/QĐ-TTg và kinh phí thực hiện các dự án về ứng cứu sự cố, bảo đảm an toàn thông tin mạng đã được Thủ tướng Chính phủ phê duyệt.
 
----
+3. Sử dụng, hạch toán và quyết toán kinh phí:
 
+a) Việc sử dụng kinh phí thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng theo quy định tại Luật Ngân sách nhà nước, các văn bản hướng dẫn thi hành và quy định tại Thông tư này;
 
-### Điều 3.1.TT.5.7. Quản lý tài sản thông tin
+b) Việc hạch toán kinh phí chi thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng thực hiện theo quy định của chế độ kế toán hành chính, sự nghiệp và hệ thống mục lục ngân sách nhà nước;
 
-1. Với mỗi hệ thống thông tin phải lập danh sách tài sản thông tin, quy định về thẩm quyền, trách nhiệm của cá nhân hoặc bộ phận của tổ chức được tiếp cận, khai thác và quản lý.
+c) Việc quyết toán kinh phí thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng thực hiện theo quy định tại Luật Kế toán và các văn bản hướng dẫn, Thông tư số 137/2017/TT-BTC ngày 25/12/2017 của Bộ Tài chính quy định về xét duyệt, thẩm định, thông báo và tổng hợp quyết toán năm.
 
-**Chỉ mục:** 7
+Điều 3.1.TT.5.6. Quản lý tài sản công nghệ thông tin
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000700
+(Điều 6 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**ID:** dk_00003479
+ 1. Các loại tài sản công nghệ thông tin bao gồm:
 
----
+ a) Tài sản thông tin: các dữ liệu, thông tin ở dạng số được xử lý, lưu trữ thông qua hệ thống thông tin;
 
+ b) Tài sản vật lý: các thiết bị công nghệ thông tin, phương tiện truyền thông, vật mang tin và các thiết bị phục vụ cho hoạt động của hệ thống thông tin;
 
-### Điều 3.1.TT.5.8. Quản lý tài sản vật lý
+ c) Tài sản phần mềm: các phần mềm hệ thống, phần mềm tiện ích, phần mềm lớp giữa, cơ sở dữ liệu, chương trình ứng dụng, mã nguồn và công cụ phát triển.
 
-1. Với mỗi hệ thống thông tin do tổ chức trực tiếp quản lý phải lập danh sách tài sản vật lý gồm các thông tin cơ bản sau: tên tài sản, giá trị, vị trí lắp đặt, chủ thể quản lý, mục đích sử dụng, tình trạng sử dụng, hệ thống thông tin tương ứng.
+ 2. Tổ chức lập danh sách của tất cả các tài sản công nghệ thông tin gắn với từng hệ thống thông tin theo quy định tại khoản 3, Điều 4 Thông tư này. Định kỳ hàng năm rà soát và cập nhật danh sách tài sản công nghệ thông tin.
 
-**Chỉ mục:** 8
+ 3. Căn cứ theo mức độ quan trọng của hệ thống thông tin, tổ chức thực hiện các biện pháp quản lý, bảo vệ phù hợp với từng loại tài sản công nghệ thông tin.
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000800
+ 4. Căn cứ phân loại tài sản công nghệ thông tin tại khoản 1 Điều này, tổ chức xây dựng và thực hiện các quy định về quản lý và sử dụng tài sản theo quy định tại Điều 7, 8, 9, 10 và Điều 11 Thông tư này.Điều 3.1.TT.5.7. Quản lý tài sản thông tin
 
-**ID:** dk_00003480
+(Điều 7 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
----
+ 1. Với mỗi hệ thống thông tin phải lập danh sách tài sản thông tin, quy định về thẩm quyền, trách nhiệm của cá nhân hoặc bộ phận của tổ chức được tiếp cận, khai thác và quản lý.
 
+ 2. Tài sản thông tin phải phân loại theo quy định tại khoản 1 Điều 4 Thông tư này.
 
-### Điều 3.1.TT.5.9. Quản lý tài sản phần mềm
+ 3. Tài sản thông tin thuộc loại thông tin bí mật phải được mã hóa hoặc có biện pháp bảo vệ để bảo mật thông tin trong quá trình tạo lập, trao đổi, lưu trữ.
 
-1. Với mỗi hệ thống thông tin phải lập danh sách tài sản phần mềm với các thông tin cơ bản gồm: tên tài sản, giá trị, mục đích sử dụng, phạm vi sử dụng, chủ thể quản lý, thông tin về bản quyền, phiên bản, hệ thống thông tin tương ứng.
+ 4. Tài sản thông tin trên hệ thống thông tin mức độ 3 phải áp dụng phương án chống thất thoát dữ liệu.Điều 3.1.TT.5.8. Quản lý tài sản vật lý
 
-**Chỉ mục:** 9
+(Điều 8 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000802665100180000900
+ 1. Với mỗi hệ thống thông tin do tổ chức trực tiếp quản lý phải lập danh sách tài sản vật lý gồm các thông tin cơ bản sau: tên tài sản, giá trị, vị trí lắp đặt, chủ thể quản lý, mục đích sử dụng, tình trạng sử dụng, hệ thống thông tin tương ứng.
 
-**ID:** dk_00003481
+ 2. Tài sản vật lý phải được giao, gán trách nhiệm cho cá nhân hoặc bộ phận quản lý, sử dụng.
 
----
+ 3. Tài sản vật lý khi mang ra khỏi trụ sở của tổ chức phải được sự phê duyệt của cấp có thẩm quyền và phải thực hiện biện pháp bảo vệ để bảo mật thông tin lưu trữ trên tài sản nếu tài sản đó có chứa thông tin bí mật.
 
+ 4.Tài sản vật lý có lưu trữ thông tin bí mật khi thay đổi mục đích sử dụng hoặc thanh lý phải được thực hiện các biện pháp tiêu hủy hoặc xóa thông tin bí mật đó bảo đảm không có khả năng phục hồi. Trường hợp không thể tiêu hủy được thông tin bí mật, tổ chức thực hiện biện pháp tiêu hủy cấu phần lưu trữ dữ liệu trên tài sản đó.
 
-### Điều 3.1.TT.5.10. Quản lý sử dụng thiết bị di động
+ 5. Tài sản vật lý là thiết bị di động, vật mang tin, ngoài các quy định tại Điều này, phải được quản lý theo quy định tại Điều 10, Điều 11 Thông tư này.Điều 3.1.TT.5.9. Quản lý tài sản phần mềm
 
-1.Các thiết bị di động khi kết nối vào hệ thống mạng nội bộ của tổ chức phải được đăng ký để kiểm soát.
+(Điều 9 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-**Chỉ mục:** 10
+ 1. Với mỗi hệ thống thông tin phải lập danh sách tài sản phần mềm với các thông tin cơ bản gồm: tên tài sản, giá trị, mục đích sử dụng, phạm vi sử dụng, chủ thể quản lý, thông tin về bản quyền, phiên bản, hệ thống thông tin tương ứng.
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000802665100180001000
+ 2. Tài sản phần mềm phải được gán trách nhiệm cho cá nhân hoặc bộ phận quản lý.
 
-**ID:** dk_00003482
+ 3. Tài sản phần mềm phải được định kỳ rà soát và cập nhật các bản vá lỗi về an ninh bảo mật.
 
----
+ 4. Tài sản phần mềm khi lưu trữ trên vật mang tin phải tuân thủ các quy định tại Điều 11 Thông tư này.Điều 3.1.TT.5.10. Quản lý sử dụng thiết bị di động
 
+(Điều 10 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
-### Điều 3.1.TT.5.11. Quản lý sử dụng vật mang tin
+ 1.Các thiết bị di động khi kết nối vào hệ thống mạng nội bộ của tổ chức phải được đăng ký để kiểm soát.
 
-1. Kiểm soát việc đấu nối, gỡ bỏ vật mang tin với thiết bị thuộc hệ thống thông tin.
+ 2. Giới hạn phạm vi kết nối từ thiết bị di động đến các dịch vụ, hệ thống thông tin của tổ chức; kiểm soát các kết nối từ thiết bị di động tới các hệ thống thông tin được phép sử dụng tại tổ chức.
 
-**Chỉ mục:** 11
+ 3. Quy định trách nhiệm của cá nhân trong tổ chức khi sử dụng thiết bị di động để phục vụ công việc.
 
-**Mã phân cấp:** 030010000000000070000510000000000000000000802665100180001100
+ 4. Thiết bị di động được sử dụng để phục vụ công việc phải áp dụng các biện pháp kỹ thuật tối thiểu sau:
 
-**ID:** dk_00003483
+ a) Thiết lập chức năng vô hiệu hóa, khóa thiết bị hoặc xóa dữ liệu từ xa trong trường hợp thất lạc hoặc bị mất cắp;
 
----
+ b) Sao lưu dữ liệu trên thiết bị di động nhằm bảo vệ, khôi phục dữ liệu khi cần thiết;
 
+ c) Thực hiện các biện pháp bảo vệ dữ liệu khi bảo hành, bảo trì, sửa chữa thiết bị di động.
 
-### Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng
+ 5. Với thiết bị di động là tài sản của tổ chức, ngoài việc áp dụng các quy định tại khoản 4 Điều này, phải áp dụng các biện pháp kỹ thuật tối thiểu sau đây:
+
+ a) Kiểm soát các phần mềm được cài đặt; cập nhật các phiên bản phần mềm và các bản vá lỗi trên thiết bị di động;
+
+ b) Sử dụng các tính năng bảo vệ thông tin nội bộ, thông tin bí mật (nếu có); thiết lập mã khóa bí mật; cài đặt phần mềm phòng chống mã độc và các lỗi bảo mật khác.Điều 3.1.TT.5.11. Quản lý sử dụng vật mang tin
+
+(Điều 11 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
+
+ 1. Kiểm soát việc đấu nối, gỡ bỏ vật mang tin với thiết bị thuộc hệ thống thông tin.
+
+ 2. Triển khai các biện pháp bảo đảm an toàn vật mang tin khi vận chuyển, lưu trữ.
+
+ 3. Thực hiện biện pháp bảo vệ đối với thông tin bí mật chứa trong vật mang tin.
+
+ 4. Quy định trách nhiệm của cá nhân trong quản lý, sử dụng vật mang tin.Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng
+
+(Điều 52 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 18 Luật số 35/2018/QH14 có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 1. Chính phủ thống nhất quản lý nhà nước về an toàn thông tin mạng.
 
-**Chỉ mục:** 52
+2. Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an toàn thông tin mạng, có nhiệm vụ, quyền hạn sau đây:
 
-**Mã phân cấp:** 0300100000000000700005200000000000000000
+a) Ban hành hoặc xây dựng, trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật, chiến lược, kế hoạch, tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về an toàn thông tin mạng; tổ chức lập phương án phát triển hạ tầng bảo đảm an toàn thông tin mạng trong quy hoạch hạ tầng thông tin và truyền thông, quy hoạch khác có liên quan theo quy định của pháp luật về quy hoạch;
 
-**ID:** dk_00003484
+b) Thẩm định về an toàn thông tin mạng trong hồ sơ thiết kế hệ thống thông tin;
 
----
+c) Quản lý công tác giám sát an toàn hệ thống thông tin trên toàn quốc, trừ hệ thống thông tin quy định tại điểm c khoản 3 và điểm b khoản 5 Điều này;
 
+d) Quản lý công tác đánh giá về an toàn thông tin mạng;
 
-### Điều 3.1.TT.4.12. Cục An toàn thông tin
+đ) Cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, Giấy phép nhập khẩu sản phẩm an toàn thông tin, trừ sản phẩm, dịch vụ mật mã dân sự;
 
-1. Quản lý và vận hành Hệ thống xử lý tấn công mạng Internet Việt Nam để thực hiện hoạt động giám sát trung tâm.
+e) Nghiên cứu, ứng dụng khoa học và công nghệ về an toàn thông tin mạng; đào tạo, bồi dưỡng, phát triển nguồn nhân lực;
 
-**Chỉ mục:** 12
+g) Quản lý và thực hiện hợp tác quốc tế về an toàn thông tin mạng;
 
-**Mã phân cấp:** 030010000000000070000520000000000000000000802637200310001200
+h) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về an toàn thông tin mạng;
 
-**ID:** dk_00003485
+i) Chủ trì, phối hợp với bộ, ngành, Ủy ban nhân dân cấp tỉnh và doanh nghiệp có liên quan trong việc bảo đảm an toàn thông tin mạng;
 
----
+k) Tổ chức tuyên truyền, phổ biến pháp luật về an toàn thông tin mạng;
 
+l) Định kỳ hằng năm báo cáo Chính phủ về hoạt động an toàn thông tin mạng.
 
-### Điều 3.1.TT.4.13. Trung tâm VNCERT
+3. Bộ Quốc phòng có nhiệm vụ, quyền hạn sau đây:
 
-1. Quản lý và vận hành Hệ thống giám sát các sự cố an toàn mạng để thực hiện hoạt động giám sát trung tâm.
+a) Ban hành hoặc xây dựng, trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật, chiến lược, kế hoạch, tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về an toàn thông tin mạng thuộc lĩnh vực do Bộ Quốc phòng quản lý;
 
-**Chỉ mục:** 13
+b) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động bảo đảm an toàn thông tin mạng thuộc lĩnh vực do Bộ Quốc phòng quản lý;
 
-**Mã phân cấp:** 030010000000000070000520000000000000000000802637200310001300
+c) Thực hiện quản lý công tác giám sát an toàn hệ thống thông tin thuộc Bộ Quốc phòng.
 
-**ID:** dk_00003486
+4. Ban Cơ yếu Chính phủ giúp Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về mật mã dân sự, có nhiệm vụ sau đây:
 
----
+a) Xây dựng, trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật về quản lý mật mã dân sự;
 
+b) Chủ trì, phối hợp với bộ, ngành có liên quan xây dựng, trình cơ quan nhà nước có thẩm quyền ban hành tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia đối với sản phẩm, dịch vụ mật mã dân sự;
 
-### Điều 3.1.TT.4.14. Chủ quản các hệ thống thông tin
+c) Quản lý hoạt động kinh doanh, sử dụng mật mã dân sự; quản lý chất lượng sản phẩm, dịch vụ mật mã dân sự; quản lý công tác đánh giá, công bố hợp chuẩn, hợp quy đối với sản phẩm, dịch vụ mật mã dân sự;
 
-1. Chỉ đạo thực hiện giám sát đối với các hệ thống thông tin thuộc phạm vi quản lý, phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông thực hiện giám sát theo quy định.
+d) Xây dựng, trình cấp có thẩm quyền ban hành Danh mục sản phẩm, dịch vụ mật mã dân sự và Danh mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép;
 
-**Chỉ mục:** 14
+đ) Cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự, Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự;
 
-**Mã phân cấp:** 030010000000000070000520000000000000000000802637200310001400
+e) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động kinh doanh, sử dụng mật mã dân sự;
 
-**ID:** dk_00003487
+g) Hợp tác quốc tế về mật mã dân sự.
 
----
+5. Bộ Công an có nhiệm vụ, quyền hạn sau đây:
 
+a) Chủ trì, phối hợp với bộ, ngành có liên quan xây dựng và trình cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền và hướng dẫn thực hiện văn bản quy phạm pháp luật về bảo vệ bí mật nhà nước, phòng, chống tội phạm mạng, lợi dụng mạng để xâm phạm an ninh quốc gia, trật tự, an toàn xã hội;
 
-### Điều 3.1.LQ.53. Hiệu lực thi hành
+b) Thực hiện quản lý công tác giám sát an toàn hệ thống thông tin thuộc Bộ Công an;
+
+c) Tổ chức, chỉ đạo, triển khai công tác phòng, chống tội phạm, tổ chức điều tra tội phạm mạng và hành vi vi phạm pháp luật khác trong lĩnh vực an toàn thông tin mạng;
+
+d) Phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành có liên quan kiểm tra, thanh tra về an toàn thông tin mạng, xử lý vi phạm pháp luật về an toàn thông tin mạng theo thẩm quyền.
+
+6. Bộ Nội vụ có trách nhiệm tổ chức đào tạo, bồi dưỡng kiến thức, nghiệp vụ an toàn thông tin mạng cho cán bộ, công chức, viên chức.
+
+7. Bộ Giáo dục và Đào tạo có trách nhiệm tổ chức đào tạo, phổ biến kiến thức về an toàn thông tin mạng trong cơ sở giáo dục đại học.
+
+8. Bộ Lao động - Thương binh và Xã hội có trách nhiệm tổ chức đào tạo, bồi dưỡng, phổ biến kiến thức về an toàn thông tin mạng trong cơ sở giáo dục nghề nghiệp.
+
+9. Bộ Tài chính có trách nhiệm hướng dẫn, bố trí kinh phí thực hiện nhiệm vụ bảo đảm an toàn thông tin mạng theo quy định của pháp luật.
+
+10. Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý an toàn thông tin mạng của ngành mình và phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về an toàn thông tin mạng.
+
+11. Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về an toàn thông tin mạng ở địa phương.
+
+(Điều này có nội dung liên quan đến Điều 1.11.LQ.36. Trách nhiệm của Bộ Công an; Điều 1.11.LQ.37. Trách nhiệm của Bộ Quốc phòng; Điều 1.11.LQ.38. Trách nhiệm của Bộ Thông tin và Truyền thông; Điều 1.11.LQ.39. Trách nhiệm của Ban Cơ yếu Chính phủ; Điều 1.11.LQ.40. Trách nhiệm của Bộ, ngành, Ủy ban nhân dân cấp tỉnh)
+
+Điều 3.1.TT.4.12. Cục An toàn thông tin
+
+(Điều 12 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
+
+ 1. Quản lý và vận hành Hệ thống xử lý tấn công mạng Internet Việt Nam để thực hiện hoạt động giám sát trung tâm.
+
+ 2. Tổng hợp kết quả giám sát và các thông tin, số liệu về an toàn thông tin mạng phục vụ công tác quản lý nhà nước về an toàn thông tin.
+
+ 3. Đôn đốc việc thực hiện các yêu cầu cơ bản về bảo đảm an toàn hệ thống thông tin và giám sát theo quy định pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+ 4. Chủ trì, phối hợp với Trung tâm VNCERT nghiên cứu xây dựng tiêu chí kỹ thuật và hướng dẫn chi tiết việc kết nối giữa Hệ thống quan trắc cơ sở và Hệ thống xử lý tấn công mạng Internet Việt Nam trình Bộ trưởng Bộ Thông tin và Truyền thông ban hành.
+
+ 5. Phối hợp hoặc chủ trì giám sát các hệ thống thông tin thuộc lĩnh vực quan trọng cần ưu tiên đảm bảo an toàn thông tin mạng theo đề nghị của chủ quản hệ thống thông tin.Điều 3.1.TT.4.13. Trung tâm VNCERT
+
+(Điều 13 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
+
+ 1. Quản lý và vận hành Hệ thống giám sát các sự cố an toàn mạng để thực hiện hoạt động giám sát trung tâm.
+
+ 2. Tổng hợp kết quả giám sát và các thông tin, số liệu về an toàn thông tin mạng phục vụ công tác điều phối, ứng cứu sự cố.
+
+ 3. Chủ trì, phối hợp với Cục An toàn thông tin xây dựng hướng dẫn quy trình giám sát; tổ chức triển khai các hoạt động nâng cao năng lực giám sát; đôn đốc, theo dõi, kiểm tra hoạt động giám sát, cảnh báo an toàn thông tin mạng theo phân công của Bộ trưởng Bộ Thông tin và Truyền thông.
+
+ 4. Chủ trì, phối hợp với Cục An toàn thông tin nghiên cứu xây dựng tiêu chí kỹ thuật và hướng dẫn chi tiết việc kết nối giữa hệ thống quan trắc cơ sở và Hệ thống giám sát các sự cố an toàn mạng trình Bộ trưởng Bộ Thông tin và Truyền thông ban hành.
+
+ 5. Chủ trì thực hiện giám sát, cảnh báo an toàn thông tin mạng đối với các hệ thống thông tin, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử. Phối hợp hoặc chủ trì giám sát các hệ thống thông tin thuộc lĩnh vực quan trọng cần ưu tiên đảm bảo an toàn thông tin mạng theo đề nghị của chủ quản hệ thống thông tin.
+
+ 6. Tổng hợp, báo cáo kết quả giám sát, cảnh báo an toàn thông tin mạng quốc gia và thống kê các tấn công, rủi ro, sự cố an toàn thông tin mạng.Điều 3.1.TT.4.14. Chủ quản các hệ thống thông tin
+
+(Điều 14 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
+
+ 1. Chỉ đạo thực hiện giám sát đối với các hệ thống thông tin thuộc phạm vi quản lý, phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông thực hiện giám sát theo quy định.
+
+ 2. Thực hiện theo các hướng dẫn và phối hợp chặt chẽ với đơn vị chức năng của Bộ Thông tin và Truyền thông trong hoạt động giám sát.
+
+ 3. Cung cấp các thông tin về hoạt động giám sát theo yêu cầu của của Bộ Thông tin và Truyền thông.
+
+ 4. Thực hiện báo cáo kết quả giám sát định kỳ 6 tháng theo mẫu tại Phụ lục 2 hoặc khi có yêu cầu của của Bộ Thông tin và Truyền thông.
+
+ 5. Chuẩn bị các cổng kết nối, giao diện kết nối dự phòng tại các điểm kết nối Internet theo các tiêu chí kỹ thuật đã quy định để thiết lập điểm giám sát của Bộ Thông tin và Truyền thông khi cần.
+
+ 6. Chủ quản hệ thống thông tin do Bộ Thông tin và Truyền thông thực hiện giám sát có trách nhiệm:
+
+ a) Xác định, lập danh sách các hệ thống, đối tượng cần thực hiện giám sát, và cung cấp các thông tin kỹ thuật liên quan của các hệ thống, đối tượng cần thực hiện giám sát gửi Bộ Thông tin và Truyền thông;
+
+ b) Tiến hành triển khai hệ thống giám sát của chủ quản hệ thống thông tin theo quy định tại Thông tư này và quy định pháp luật có liên quan; phối hợp cung cấp các thông tin về hạ tầng, hệ thống thông tin cần giám sát và thực hiện các hỗ trợ kỹ thuật theo yêu cầu của các đơn vị chức năng của Bộ Thông tin và Truyền thông;
+
+ c) Tổ chức đội ngũ tiếp nhận các cảnh báo và xử lý các tấn công, rủi ro, sự cố an toàn thông tin mạng theo cảnh báo, yêu cầu của các đơn vị chức năng của Bộ Thông tin và Truyền thông;
+
+ d) Định kỳ thống kê kết quả xử lý tấn công, rủi ro, sự cố an toàn thông tin mạng phục vụ công tác lưu trữ, báo cáo.
+
+ 7. Hàng năm lập dự toán và phê duyệt, phân bổ kinh phí thực hiện nhiệm vụ giám sát từ nguồn ngân sách nhà nước và các nguồn vốn hợp pháp khác theo quy định của pháp luật và hướng dẫn của cơ quan chức năng.Chương VIII
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 3.1.LQ.53. Hiệu lực thi hành
+
+(Điều 53 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
 
-**Chỉ mục:** 53
+Điều 3.1.LQ.54. Quy định chi tiết
 
-**Mã phân cấp:** 0300100000000000800005300000000000000000
-
-**ID:** dk_00003489
-
----
-
-
-### Điều 3.1.LQ.54. Quy định chi tiết
+(Điều 54 Luật số 86/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.
 
-**Chỉ mục:** 54
+Điều 3.1.NĐ.1.11. Điều Khoản chuyển tiếp
 
-**Mã phân cấp:** 0300100000000000800005400000000000000000
-
-**ID:** dk_00003490
-
----
-
-
-### Điều 3.1.NĐ.1.11. Điều Khoản chuyển tiếp
+(Điều 11 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự đã được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự theo quy định tại Nghị định số 73/2007/NĐ-CP ngày 08 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước mà vẫn còn thời hạn thì không phải làm lại thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự. 30 ngày trước khi giấy phép hết hạn, doanh nghiệp phải làm thủ tục xin cấp phép theo Nghị định này.
 
-**Chỉ mục:** 11
+2. Doanh nghiệp chưa được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự, Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự phải làm thủ tục cấp phép theo các quy định tại Nghị định này.
 
-**Mã phân cấp:** 0300100000000000800005440258700058000110
+Điều 3.1.NĐ.1.12. Hiệu lực thi hành
 
-**ID:** dk_00003491
-
----
-
-
-### Điều 3.1.NĐ.1.12. Hiệu lực thi hành
+(Điều 12 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016 và thay thế Nghị định số 73/2007/NĐ-CP ngày 08 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
 
-**Chỉ mục:** 12
+Điều 3.1.NĐ.1.13. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0300100000000000800005440258700058000120
-
-**ID:** dk_00003492
-
----
-
-
-### Điều 3.1.NĐ.1.13. Trách nhiệm thi hành
+(Điều 13 Nghị định số 58/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 13
+Điều 3.1.NĐ.1.14. Điều Khoản chuyển tiếp
 
-**Mã phân cấp:** 0300100000000000800005440258700058000130
-
-**ID:** dk_00003493
-
----
-
-
-### Điều 3.1.NĐ.1.14. Điều Khoản chuyển tiếp
+(Điều 3 Nghị định số 53/2018/NĐ-CP Sửa đổi, bổ sung Nghị định số 58/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất khẩu, nhập khẩu sản phẩm mật mã dân sự ngày 16/04/2018 của Chính phủ, có hiệu lực thi hành kể từ ngày 16/04/2018)
 
 Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp cho doanh nghiệp tiếp tục có hiệu lực theo thời hạn ghi trên Giấy phép đối với sản phẩm mật mã dân sự mà tên gọi phù hợp với Danh Mục hàng hóa xuất khẩu, nhập khẩu Việt Nam. Cơ quan Hải quan căn cứ vào Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp và thực tế hàng hóa xuất khẩu, nhập khẩu để xác định mã số HS và giải quyết thủ tục thông quan cho doanh nghiệp.
 
-**Chỉ mục:** 3
+Điều 3.1.NĐ.1.15. Hiệu lực thi hành
 
-**Mã phân cấp:** 0300100000000000800005440258700058000140
-
-**ID:** dk_00003494
-
----
-
-
-### Điều 3.1.NĐ.1.15. Hiệu lực thi hành
+(Điều 4 Nghị định số 53/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/04/2018)
 
 Nghị định này có hiệu lực thi hành từ ngày 16 tháng 4 năm 2018.
 
-**Chỉ mục:** 4
+Điều 3.1.NĐ.1.16. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0300100000000000800005440258700058000150
-
-**ID:** dk_00003495
-
----
-
-
-### Điều 3.1.NĐ.1.16. Trách nhiệm thi hành
+(Điều 5 Nghị định số 53/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 16/04/2018)
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 5
+Điều 3.1.NĐ.2.25. Hiệu lực thi hành
 
-**Mã phân cấp:** 0300100000000000800005440258700058000160
-
-**ID:** dk_00003496
-
----
-
-
-### Điều 3.1.NĐ.2.25. Hiệu lực thi hành
+(Điều 25 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
 
-**Chỉ mục:** 25
+Điều 3.1.NĐ.2.26. Tổ chức thực hiện
 
-**Mã phân cấp:** 0300100000000000800005440258700085000250
-
-**ID:** dk_00003497
-
----
-
-
-### Điều 3.1.NĐ.2.26. Tổ chức thực hiện
+(Điều 26 Nghị định số 85/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Bộ Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị định này.
 
-**Chỉ mục:** 26
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 0300100000000000800005440258700085000260
+Điều 3.1.NĐ.3.12. Điều khoản chuyển tiếp
 
-**ID:** dk_00003498
-
----
-
-
-### Điều 3.1.NĐ.3.12. Điều khoản chuyển tiếp
+(Điều 12 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Doanh nghiệp đang kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này cần hoàn tất hồ sơ, thủ tục để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng tối đa 06 tháng kể từ ngày Nghị định này có hiệu lực.
 
-**Chỉ mục:** 12
+2. Đối với các hợp đồng kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đã được ký kết và có giá trị trước thời điểm Nghị định này có hiệu lực thi hành, doanh nghiệp vẫn tiếp tục được thực hiện các nội dung trong hợp đồng.
 
-**Mã phân cấp:** 0300100000000000800005440258700108000120
+Điều 3.1.NĐ.3.13. Hiệu lực thi hành
 
-**ID:** dk_00003499
-
----
-
-
-### Điều 3.1.NĐ.3.13. Hiệu lực thi hành
+(Điều 13 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
 
-**Chỉ mục:** 13
+Điều 3.1.NĐ.3.14. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0300100000000000800005440258700108000130
-
-**ID:** dk_00003500
-
----
-
-
-### Điều 3.1.NĐ.3.14. Trách nhiệm thi hành
+(Điều 14 Nghị định số 108/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
 1. Bộ trưởng Bộ Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra việc thi hành Nghị định này.
 
-**Chỉ mục:** 14
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Mã phân cấp:** 0300100000000000800005440258700108000140
+Điều 3.1.NĐ.4.29. Hiệu lực thi hành
 
-**ID:** dk_00003501
-
----
-
-
-### Điều 3.1.NĐ.4.29. Hiệu lực thi hành
+(Điều 29 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
 Nghị định này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2016.
 
-**Chỉ mục:** 29
+Điều 3.1.NĐ.4.30. Trách nhiệm thi hành
 
-**Mã phân cấp:** 0300100000000000800005440259750142000290
-
-**ID:** dk_00003502
-
----
-
-
-### Điều 3.1.NĐ.4.30. Trách nhiệm thi hành
+(Điều 30 Nghị định số 142/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/12/2016)
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, cơ quan, tổ chức và cá nhân Việt Nam; tổ chức, cá nhân nước ngoài và tổ chức quốc tế tại Việt Nam; doanh nghiệp cung cấp dịch vụ viễn thông, Internet có liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**Chỉ mục:** 30
+Điều 3.1.QĐ.1.18. Hiệu lực thi hành
 
-**Mã phân cấp:** 0300100000000000800005440259750142000300
-
-**ID:** dk_00003503
-
----
-
-
-### Điều 3.1.QĐ.1.18. Hiệu lực thi hành
+(Điều 18 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
 
-**Chỉ mục:** 18
+Điều 3.1.QĐ.1.19. Tổ chức thực hiện
 
-**Mã phân cấp:** 0300100000000000800005450261280005000180
-
-**ID:** dk_00003504
-
----
-
-
-### Điều 3.1.QĐ.1.19. Tổ chức thực hiện
+(Điều 19 Quyết định số 05/2017/QĐ-TTg, có hiệu lực thi hành kể từ ngày 16/03/2017)
 
 Bộ, cơ quan ngang bộ, cơ quan trung ương, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức liên quan triển khai thực hiện Quyết định này.
 
-**Chỉ mục:** 19
+Trong quá trình thực hiện nếu phát sinh vướng mắc hoặc nhận thấy cần thiết phải thay đổi những nội dung quy định trong Quyết định này, các cơ quan, tổ chức có ý kiến bằng văn bản gửi Bộ Thông tin và Truyền thông tổng hợp, báo cáo Thủ tướng Chính phủ để xem xét sửa đổi, bổ sung.
 
-**Mã phân cấp:** 0300100000000000800005450261280005000190
+Điều 3.1.TT.1.7. Tổ chức thực hiện
 
-**ID:** dk_00003505
-
----
-
-
-### Điều 3.1.TT.1.7. Tổ chức thực hiện
+(Điều 7 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 1. Bộ Thông tin và Truyền thông chủ trì biên soạn chương trình, giáo trình đào tạo cho phù hợp với yêu cầu đào tạo của các khóa đào tạo ngắn hạn; tổ chức lựa chọn các đơn vị đào tạo có năng lực để triển khai các khóa đào tạo ngắn hạn về kỹ thuật ATANTT cho đội ngũ cán bộ công nghệ thông tin và ATANTT kỹ thuật cao trong các đơn vị chuyên trách về công nghệ thông tin thuộc các Bộ, cơ quan Trung ương và các địa phương; đào tạo kiến thức ATANTT cho đội ngũ cán bộ lãnh đạo và cán bộ chủ chốt của các Bộ, ngành, địa phương; đào tạo theo chứng chỉ quốc tế về ATANTT.
 
-**Chỉ mục:** 7
+2. Các Bộ, cơ quan Trung ương và các địa phương căn cứ chương trình, giáo trình và hướng dẫn của Bộ Thông tin và Truyền thông, căn cứ khả năng kinh phí của mình để tổ chức các lớp đào tạo ngắn hạn về ATANTT cho đội ngũ cán bộ làm về ATANTT trong các đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan Trung ương; trong các Sở Thông tin và Truyền thông, các Trung tâm công nghệ thông tin thuộc Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các đối tượng cán bộ, công chức, viên chức có liên quan đến ATANTT khác trong phạm vi quản lý của mình.
 
-**Mã phân cấp:** 0300100000000000800005480256310166000070
+3. Các doanh nghiệp, tổ chức tài chính, ngân hàng, tổng công ty, tập đoàn kinh tế nhà nước: Tùy theo nhu cầu và khả năng kinh phí của mình, chủ động thỏa thuận với các cơ sở đào tạo để cử cán bộ tham dự các khóa học và nộp kinh phí cho phù hợp.
 
-**ID:** dk_00003506
+Điều 3.1.TT.1.8. Hiệu lực thi hành
 
----
-
-
-### Điều 3.1.TT.1.8. Hiệu lực thi hành
+(Điều 8 Thông tư số 166/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016.
 
-**Chỉ mục:** 8
+2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cơ quan, đơn vị phản ánh về Bộ Tài chính để giải quyết kịp thời.
 
-**Mã phân cấp:** 0300100000000000800005480256310166000080
+Điều 3.1.TT.2.19. Hiệu lực thi hành
 
-**ID:** dk_00003507
-
----
-
-
-### Điều 3.1.TT.2.19. Hiệu lực thi hành
+(Điều 19 Thông tư số 03/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/07/2017)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2017.
 
-**Chỉ mục:** 19
+2. Trong quá trình thực hiện Thông tư này, nếu có vướng mắc, các cơ quan, đơn vị liên hệ với Bộ Thông tin và Truyền thông (Cục An toàn thông tin) để phối hợp giải quyết.
 
-**Mã phân cấp:** 0300100000000000800005480261670003650190
+Điều 3.1.TT.3.14. Hiệu lực thi hành
 
-**ID:** dk_00003508
-
----
-
-
-### Điều 3.1.TT.3.14. Hiệu lực thi hành
+(Điều 14 Thông tư số 20/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/11/2017)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2017 và bãi bỏ Thông tư số 27/2011/TT-BTTTT ngày 04 tháng 10 năm 2011 của Bộ Thông tin và Truyền thông quy định về điều phối các hoạt động ứng cứu sự cố mạng Internet Việt Nam.
 
-**Chỉ mục:** 14
+2. Trong quá trình thực hiện, nếu có vướng mắc, phát sinh, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Thông tin và Truyền thông (qua Trung tâm ứng cứu khẩn cấp máy tính Việt Nam) để xem xét, bổ sung và sửa đổi.
 
-**Mã phân cấp:** 0300100000000000800005480263080020000140
+Điều 3.1.TT.4.15. Hiệu lực thi hành
 
-**ID:** dk_00003509
-
----
-
-
-### Điều 3.1.TT.4.15. Hiệu lực thi hành
+(Điều 15 Thông tư số 31/2017/TT-BTTTT, có hiệu lực thi hành kể từ ngày 15/01/2018)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2018.
 
-**Chỉ mục:** 15
+2. Trong quá trình thực hiện, nếu có vướng mắc, phát sinh tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Thông tin và Truyền thông để được hướng dẫn hoặc xem xét bổ sung và sửa đổi.
 
-**Mã phân cấp:** 0300100000000000800005480263720031000150
+Điều 3.1.TT.5.54. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước
 
-**ID:** dk_00003510
-
----
-
-
-### Điều 3.1.TT.5.54. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước
+(Điều 54 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 1. Cục Công nghệ thông tin có trách nhiệm:
 
-**Chỉ mục:** 54
+a) Theo dõi, tổng hợp báo cáo Thống đốc Ngân hàng Nhà nước tình hình thực hiện của các tổ chức theo quy định tại Thông tư này;
 
-**Mã phân cấp:** 0300100000000000800005480266510018000540
+b) Hàng năm lập kế hoạch kiểm tra việc thực hiện Thông tư này;
 
-**ID:** dk_00003511
+c) Chủ trì, phối hợp với các đơn vị liên quan thuộc Ngân hàng Nhà nước xử lý các vướng mắc phát sinh trong quá trình triển khai thực hiện Thông tư này.
 
----
+2. Cơ quan Thanh tra, giám sát ngân hàng có trách nhiệm phối hợp với Cục Công nghệ thông tin kiểm tra việc thực hiện Thông tư này tại các tổ chức và xử lý vi phạm hành chính đối với hành vi vi phạm theo quy định của pháp luật.
 
+Điều 3.1.TT.5.55. Hiệu lực thi hành và tổ chức thực hiện
 
-### Điều 3.1.TT.5.55. Hiệu lực thi hành và tổ chức thực hiện
+(Điều 55 Thông tư số 18 /2018/TT-NHNN, có hiệu lực thi hành kể từ ngày 01/01/2019)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019 trừ trường hợp quy định tại khoản 2 Điều này và thay thế Thông tư 31/2015/TT-NHNN ngày 28 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước ban hành Quy định về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng và Quyết định 29/2008/QĐ-NHNN ngày 13 tháng 10 năm 2008 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy định về bảo trì hệ thống trang thiết bị tin học trong ngành Ngân hàng.
 
-**Chỉ mục:** 55
+2. Điểm b khoản 2 Điều 12 có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2020.
 
-**Mã phân cấp:** 0300100000000000800005480266510018000550
+3. Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị liên quan thuộc Ngân hàng Nhà nước, Chủ tịch Hội đồng quản trị, Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, các tổ chức cung ứng dịch vụ trung gian thanh toán có trách nhiệm tổ chức thực hiện Thông tư này.
 
-**ID:** dk_00003512
+Điều 3.1.TT.6.11. Điều khoản chuyển tiếp
 
----
-
-
-### Điều 3.1.TT.6.11. Điều khoản chuyển tiếp
+(Điều 11 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 Doanh nghiệp chưa phải nộp Giấy chứng nhận hoặc công bố hợp chuẩn, hợp quy tại khoản 3 Điều 7 khi nộp hồ sơ đề nghị cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng cho đến khi Bộ Thông tin và Truyền thông ban hành danh mục tiêu chuẩn hoặc quy chuẩn kỹ thuật quốc gia về sản phẩm an toàn thông tin mạng.
 
-**Chỉ mục:** 11
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
-**Mã phân cấp:** 0300100000000000800005480267060013000110
+Điều 3.1.TT.6.12. Điều khoản thi hành
 
-**ID:** dk_00003513
-
----
-
-
-### Điều 3.1.TT.6.12. Điều khoản thi hành
+(Điều 12 Thông tư số 13/2018/TT-BTTTT, có hiệu lực thi hành kể từ ngày 01/12/2018)
 
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2018.
 
-**Chỉ mục:** 12
+2. Chánh Văn phòng, Thủ trưởng các đơn vị thuộc Bộ Thông tin và Truyền thông và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Mã phân cấp:** 0300100000000000800005480267060013000120
+3. Trong quá trình thực hiện, nếu có vấn đề phát sinh hoặc khó khăn, vướng mắc, đề nghị các tổ chức, doanh nghiệp, cá nhân phản ánh về Bộ Thông tin và Truyền thông (Cục An toàn thông tin) để kịp thời giải quyết.
 
-**ID:** dk_00003514
+(Điều này có nội dung liên quan đến Điều 34.3.NĐ.8.7. Hàng hóa xuất khẩu, nhập khẩu theo giấy phép, theo điều kiện)
 
----
+Điều 3.1.TT.7.8. Điều khoản thi hành
 
-
-### Điều 3.1.TT.7.8. Điều khoản thi hành
+(Điều 8 Thông tư số 121/2018/TT-BTC, có hiệu lực thi hành kể từ ngày 01/02/2019)
 
 1. Thông tư có hiệu lực thi hành từ ngày 01 tháng 02 năm 2019.
 
-**Chỉ mục:** 8
+2. Trong quá trình thực hiện, nếu các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì sẽ áp dụng theo các văn bản mới đó.
 
-**Mã phân cấp:** 0300100000000000800005480267640121000080
+3. Chế độ bồi dưỡng đối với cán bộ, công chức, viên chức và người lao động tại các cơ quan, đơn vị quy định tại Thông tư này thực hiện đến hết năm 2020. Từ năm 2021 trở đi thực hiện theo quy định chung về chế độ tiền lương theo Nghị quyết số 27-NQ/TW ngày 21/5/2018 của Hội nghị lần thứ bảy Ban Chấp hành Trung ương khóa XII về cải cách chính sách tiền lương đối với cán bộ, công chức, viên chức, lực lượng vũ trang và người lao động trong doanh nghiệp.
 
-**ID:** dk_00003515
+4. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các Bộ, địa phương phản ánh về Bộ Tài chính để nghiên cứu giải quyết.
 
----
+Điều 3.1.TT.8.2.
 
-
-### Điều 3.1.TT.8.2.
+(Điều 2 Thông tư số 23/2022/TT-BQP, có hiệu lực thi hành kể từ ngày 20/05/2022)
 
 Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2022.
 
-**Chỉ mục:** 2
+Điều 3.1.TT.8.3.
 
-**Mã phân cấp:** 0300100000000000800005480279730023000020
-
-**ID:** dk_00003516
-
----
-
-
-### Điều 3.1.TT.8.3.
+(Điều 3 Thông tư số 23/2022/TT-BQP, có hiệu lực thi hành kể từ ngày 20/05/2022)
 
 Trưởng ban Ban Cơ yếu Chính phủ, Thủ trưởng các cơ quan, đơn vị và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**Chỉ mục:** 3
+## Danh sách điều khoản
 
-**Mã phân cấp:** 0300100000000000800005480279730023000030
+### 03001000000000001000
 
-**ID:** dk_00003517
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 0300100000000000100000100000000000000000
 
+Điều 3.1.LQ.1. Phạm vi điều chỉnh Luật này quy định về hoạt động an toàn thông tin mạng, quyền, trách nhiệm của cơ quan, tổ chức, cá nhân trong việc bảo đảm an toàn thông tin mạng; mật mã dân sự; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin mạng; kinh doanh trong lĩnh vực an toàn thông tin mạng; phát triển nguồn nhân lực an toàn thông tin mạng; quản lý nhà nước về an toàn thông tin mạng.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Bưu chính, viễn thông](/buu-chinh-vien-thong/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 0300100000000000100000200000000000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 307
-- **Điều khoản thực tế:** 293
-- **Điều khoản có nội dung:** 293 (100.0%)
-- **ID đề mục:** 66c590359acd430aaffd86563bc7ce77
+Điều 3.1.LQ.2. Đối tượng áp dụng Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động an toàn thông tin mạng tại Việt Nam.
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 0300100000000000100000240258700058000010
 
----
+Điều 3.1.NĐ.1.1. Phạm vi Điều chỉnh Nghị định này quy định chi Tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất khẩu, nhập khẩu sản phẩm mật mã dân sự; ban hành Danh Mục sản phẩm, dịch vụ mật mã dân sự, Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép; thanh tra, kiểm tra, xử lý vi phạm hành chính trong lĩnh vực mật mã dân sự.
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 0300100000000000100000240258700058000020
+
+Điều 3.1.NĐ.1.2. Đối tượng áp dụng 1. Doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự; xuất khẩu, nhập khẩu sản phẩm mật mã dân sự và các tổ chức, cá nhân khác có liên quan.
+
+### 0300100000000000100000240258700085000010
+
+Điều 3.1.NĐ.2.1. Phạm vi điều chỉnh Nghị định này quy định chi tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.
+
+### 0300100000000000100000240258700085000020
+
+Điều 3.1.NĐ.2.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động xây dựng, thiết lập, quản lý, vận hành, nâng cấp, mở rộng hệ thống thông tin tại Việt Nam phục vụ ứng dụng công nghệ thông tin trong hoạt động của cơ quan, tổ chức nhà nước, ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ trực tuyến phục vụ người dân và doanh nghiệp.
+
+### 0300100000000000100000240258700108000010
+
+Điều 3.1.NĐ.3.1. Phạm vi điều chỉnh 1. Nghị định này quy định về:
+
+### 0300100000000000100000240258700108000020
+
+Điều 3.1.NĐ.3.2. Đối tượng áp dụng Nghị định này áp dụng đối với tổ chức, doanh nghiệp trực tiếp tham gia hoặc có liên quan đến hoạt động sản xuất, nhập khẩu sản phẩm an toàn thông tin mạng và cung cấp dịch vụ an toàn thông tin mạng tại Việt Nam.
+
+### 0300100000000000100000240259750142000010
+
+Điều 3.1.NĐ.4.1. Phạm vi điều chỉnh Nghị định này quy định nguyên tắc, nội dung, biện pháp, hợp tác quốc tế và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động ngăn chặn xung đột thông tin trên mạng tại Việt Nam.
+
+### 0300100000000000100000240259750142000020
+
+Điều 3.1.NĐ.4.2. Đối tượng áp dụng 1. Cơ quan, tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài và tổ chức quốc tế tại Việt Nam tham gia hoặc có liên quan đến xung đột thông tin trên mạng.
+
+### 0300100000000000100000250261280005000010
+
+Điều 3.1.QĐ.1.1. Phạm vi áp dụng Quyết định này quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia.
+
+### 0300100000000000100000250261280005000020
+
+Điều 3.1.QĐ.1.2. Đối tượng áp dụng Quyết định này áp dụng đối với các cơ quan, tổ chức, doanh nghiệp, cá nhân trực tiếp tham gia hoặc có liên quan đến hoạt động ứng cứu sự cố bảo đảm an toàn thông tin mạng tại Việt Nam.
+
+### 0300100000000000100000280256310166000010
+
+Điều 3.1.TT.1.1. Phạm vi áp dụng Thông tư này quy định việc quản lý và sử dụng kinh phí thực hiện Dự án Đào tạo ngắn hạn về an toàn, an ninh thông tin (ATANTT) trong nước thuộc Đề án Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020 đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 99/QĐ-TTg ngày 14/01/2014 (sau đây gọi tắt là Đề án 99).
+
+### 0300100000000000100000280256310166000020
+
+Điều 3.1.TT.1.2. Đối tượng thực hiện 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
+
+### 0300100000000000100000280261670003650010
+
+Điều 3.1.TT.2.1. Phạm vi điều chỉnh 1. Thông tư này quy định chi tiết và hướng dẫn bảo đảm an toàn hệ thống thông tin theo cấp độ, bao gồm: Hướng dẫn xác định hệ thống thông tin và cấp độ an toàn hệ thống thông tin; Yêu cầu bảo đảm an toàn hệ thống thông tin theo cấp độ; Kiểm tra, đánh giá an toàn thông tin; Tiếp nhận và thẩm định hồ sơ đề xuất cấp độ; Báo cáo, chia sẻ thông tin.
+
+### 0300100000000000100000280261670003650020
+
+Điều 3.1.TT.2.2. Đối tượng áp dụng Đối tượng áp dụng Thông tư này được thực hiện theo quy định tại Điều 2 Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ (sau đây gọi tắt là Nghị định 85/2016/NĐ-CP).
+
+### 0300100000000000100000280263080020000010
+
+Điều 3.1.TT.3.1. Phạm vi và đối tượng áp dụng 1. Thông tư này quy định về các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc (không bao gồm hoạt động điều phối ứng cứu sự cố an toàn thông tin mạng nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Quyết định số 05/2017/QĐ-TTg));
+
+### 0300100000000000100000280263720031000010
+
+Điều 3.1.TT.4.1. Phạm vi điều chỉnh Thông tư này quy định về hoạt động giám sát an toàn hệ thống thông tin (sau đây gọi tắt là giám sát) trên toàn quốc, không bao gồm các hệ thống thông tin do Bộ Quốc phòng và Bộ Công an quản lý.
+
+### 0300100000000000100000280263720031000020
+
+Điều 3.1.TT.4.2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, doanh nghiệp, cá nhân trực tiếp tham gia hoặc có liên quan đến hoạt động giám sát trên toàn quốc.
+
+### 0300100000000000100000280266510018000010
+
+Điều 3.1.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng 1. Thông tư này quy định về bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng.
+
+### 0300100000000000100000280267060013000010
+
+Điều 3.1.TT.6.1. Phạm vi điều chỉnh Thông tư này quy định Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép và trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng (sau đây gọi tắt là Giấy phép nhập khẩu).
+
+### 0300100000000000100000280267060013000020
+
+Điều 3.1.TT.6.2. Đối tượng áp dụng Thông tư này áp dụng đối với các doanh nghiệp đã được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng thực hiện hoạt động nhập khẩu sản phẩm an toàn thông tin mạng thuộc Danh mục.
+
+### 0300100000000000100000280267640121000010
+
+Điều 3.1.TT.7.1. Phạm vi điều chỉnh Thông tư này quy định về lập dự toán, quản lý, sử dụng và quyết toán kinh phí chi thường xuyên để thực hiện công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng.
+
+### 0300100000000000100000280267640121000020
+
+Điều 3.1.TT.7.2. Đối tượng áp dụng 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
+
+### 0300100000000000100000300000000000000000
+
+Điều 3.1.LQ.3. Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0300100000000000100000340258700085000030
+
+Điều 3.1.NĐ.2.3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0300100000000000100000340259750142000030
+
+Điều 3.1.NĐ.4.3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0300100000000000100000380261670003650030
+
+Điều 3.1.TT.2.3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0300100000000000100000380263080020000020
+
+Điều 3.1.TT.3.2. Giải thích từ ngữ 1. Sự cố an toàn thông tin mạng là việc thông tin, hệ thống thông tin bị tấn công hoặc gây nguy hại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng (sau đây gọi tắt là sự cố).
+
+### 0300100000000000100000380266510018000020
+
+Điều 3.1.TT.5.2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+### 0300100000000000100000400000000000000000
+
+Điều 3.1.LQ.4. Nguyên tắc bảo đảm an toàn thông tin mạng 1. Cơ quan, tổ chức, cá nhân có trách nhiệm bảo đảm an toàn thông tin mạng. Hoạt động an toàn thông tin mạng của cơ quan, tổ chức, cá nhân phải đúng quy định của pháp luật, bảo đảm quốc phòng, an ninh quốc gia, bí mật nhà nước, giữ vững ổn định chính trị, trật tự, an toàn xã hội và thúc đẩy phát triển kinh tế - xã hội.
+
+### 030010000000000010000040000000000000000000402587000850000400
+
+Điều 3.1.NĐ.2.4. Nguyên tắc bảo đảm an toàn hệ thống thông tin theo cấp độ 1. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức được thực hiện thường xuyên, liên tục từ khâu thiết kế, xây dựng, vận hành đến khi hủy bỏ; tuân thủ theo tiêu chuẩn, quy chuẩn kỹ thuật.
+
+### 030010000000000010000040000000000000000000402587000850000500
+
+Điều 3.1.NĐ.2.5. Nguyên tắc xác định cấp độ 1. Việc xác định hệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc như sau:
+
+### 030010000000000010000040000000000000000000802665100180000300
+
+Điều 3.1.TT.5.3. Nguyên tắc chung 1. Tổ chức có trách nhiệm bảo đảm an toàn thông tin theo nguyên tắc xác định rõ quyền hạn, trách nhiệm từng bộ phận và cá nhân trong tổ chức.
+
+### 0300100000000000100000500000000000000000
+
+Điều 3.1.LQ.5. Chính sách của Nhà nước về an toàn thông tin mạng 1. Đẩy mạnh đào tạo, phát triển nguồn nhân lực và xây dựng cơ sở hạ tầng, kỹ thuật an toàn thông tin mạng đáp ứng yêu cầu ổn định chính trị, phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội.
+
+### 0300100000000000100000600000000000000000
+
+Điều 3.1.LQ.6. Hợp tác quốc tế về an toàn thông tin mạng 1. Hợp tác quốc tế về an toàn thông tin mạng phải tuân thủ các nguyên tắc sau đây:
+
+### 0300100000000000100000700000000000000000
+
+Điều 3.1.LQ.7. Các hành vi bị nghiêm cấm 1. Ngăn chặn việc truyền tải thông tin trên mạng, can thiệp, truy nhập, gây nguy hại, xóa, thay đổi, sao chép và làm sai lệch thông tin trên mạng trái pháp luật.
+
+### 0300100000000000100000800000000000000000
+
+Điều 3.1.LQ.8. Xử lý vi phạm pháp luật về an toàn thông tin mạng Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+
+### 03001000000000002000
+
+Chương II BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG
+
+### 0300100000000000200000100000000000000000
+
+Mục 1 BẢO VỆ THÔNG TIN MẠNG
+
+### 030010000000000020000010000000000000000000900000000000000000
+
+Điều 3.1.LQ.9. Phân loại thông tin 1. Cơ quan, tổ chức sở hữu thông tin phân loại thông tin theo thuộc tính bí mật để có biện pháp bảo vệ phù hợp.
+
+### 030010000000000020000010000000000000000001000000000000000000
+
+Điều 3.1.LQ.10. Quản lý gửi thông tin 1. Việc gửi thông tin trên mạng phải bảo đảm các yêu cầu sau đây:
+
+### 030010000000000020000010000000000000000001100000000000000000
+
+Điều 3.1.LQ.11. Phòng ngừa, phát hiện, ngăn chặn và xử lý phần mềm độc hại 1. Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện phòng ngừa, ngăn chặn phần mềm độc hại theo hướng dẫn, yêu cầu của cơ quan nhà nước có thẩm quyền.
+
+### 030010000000000020000010000000000000000001200000000000000000
+
+Điều 3.1.LQ.12. Bảo đảm an toàn tài nguyên viễn thông 1. Cơ quan, tổ chức, cá nhân sử dụng tài nguyên viễn thông có trách nhiệm sau đây:
+
+### 030010000000000020000010000000000000000001300000000000000000
+
+Điều 3.1.LQ.13. Ứng cứu sự cố an toàn thông tin mạng 1. Ứng cứu sự cố an toàn thông tin mạng là hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng.
+
+### 03001000000000002000001000000000000000000130000000000000000000502612800050000600
+
+Điều 3.1.QĐ.1.6. Đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng 1. Đơn vị chuyên trách về ứng cứu sự cố an toàn thông tin mạng là Cơ quan chuyên trách về an toàn thông tin hoặc cơ quan chuyên trách về công nghệ thông tin của các bộ, ngành, Ủy ban nhân dân cấp tỉnh (sau đây gọi tắt là Đơn vị chuyên trách ứng cứu sự cố).
+
+### 03001000000000002000001000000000000000000130000000000000000000502612800050000700
+
+Điều 3.1.QĐ.1.7. Mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia 1. Thành viên có nghĩa vụ phải tham gia mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia (sau đây gọi tắt là mạng lưới ứng cứu sự cố) gồm:
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000500
+
+Điều 3.1.TT.3.5. Mạng lưới ứng cứu sự cố 1. Mạng lưới ứng cứu sự cố hoạt động trên toàn quốc, gồm thành viên là các đơn vị chuyên trách về ứng cứu sự cố và các cơ quan, tổ chức, doanh nghiệp liên quan được quy định chi tiết tại Điều 7 Quyết định số 05/2017/QĐ-TTg.
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000600
+
+Điều 3.1.TT.3.6. Trách nhiệm, quyền hạn của các thành viên mạng lưới 1. Thành viên mạng lưới có các trách nhiệm và quyền hạn sau:
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000070000802630800200000700
+
+Điều 3.1.TT.3.7. Các hoạt động chính của mạng lưới ứng cứu sự cố Ban điều hành mạng lưới tổ chức triển khai các nhiệm vụ của mạng lưới ứng cứu sự cố, gồm các hoạt động chính sau:
+
+### 03001000000000002000001000000000000000000130000000000000000000502612800050001100
+
+Điều 3.1.QĐ.1.11. Báo cáo sự cố an toàn thông tin mạng 1. Báo cáo sự cố an toàn thông tin mạng:
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000110000802630800200000900
+
+Điều 3.1.TT.3.9. Thông báo, báo cáo sự cố an toàn thông tin mạng 1. Các hình thức thông báo, báo cáo sự cố
+
+### 03001000000000002000001000000000000000000130000000000000000000502612800050001200
+
+Điều 3.1.QĐ.1.12. Tiếp nhận, phát hiện, phân loại và xử lý ban đầu sự cố an toàn thông tin mạng 1. Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố, khi phát hiện sự cố hoặc nhận được thông báo, báo cáo sự cố an toàn thông tin mạng trong phạm vi mình chịu trách nhiệm phải thực hiện:
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000120000802630800200001000
+
+Điều 3.1.TT.3.10. Phát hiện, tiếp nhận, xác minh, xử lý ban đầu và phân loại sự cố an toàn thông tin mạng 1. Đơn vị, cá nhân vận hành hệ thống thông tin, có trách nhiệm:
+
+### 03001000000000002000001000000000000000000130000000000000000000502612800050001300
+
+Điều 3.1.QĐ.1.13. Quy trình ứng cứu sự cố an toàn thông tin mạng thông thường Quy trình ứng cứu sự cố an toàn thông tin mạng thông thường theo các văn bản hướng dẫn, quy định của Bộ Thông tin và Truyền thông và Cơ quan điều phối quốc gia.
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200000400
+
+Điều 3.1.TT.3.4. Nguyên tắc điều phối, ứng cứu sự cố 1. Tuân thủ các quy định pháp luật về điều phối, ứng cứu sự cố an toàn thông tin mạng.
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200000800
+
+Điều 3.1.TT.3.8. Hoạt động điều phối ứng cứu sự cố 1. Điều phối ứng cứu sự cố là hoạt động của Cơ quan điều phối quốc gia và cơ quan có thẩm quyền nhằm huy động, điều hành, phối hợp thống nhất các nguồn lực gồm: nhân lực, vật lực (trang thiết bị), tài lực (tài chính, ngân sách) để phòng ngừa, theo dõi, thu thập, phát hiện, cảnh báo sự cố; tiếp nhận, phân tích xác minh, phân loại sự cố; điều hành, phối hợp, tổ chức ứng cứu sự cố, sẵn sàng ứng phó, khắc phục sự cố nhằm giảm thiểu các rủi ro, thiệt hại do sự cố gây ra.
+
+### 0300100000000000200000100000000000000000013000000000000000000050261280005000130000802630800200001100
+
+Điều 3.1.TT.3.11. Quy trình ứng cứu sự cố an toàn thông tin mạng Quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại Phụ lục II cụ thể gồm:
+
+### 03001000000000002000001000000000000000000130000000000000000000802665100180004400
+
+Điều 3.1.TT.5.44. Quy trình xử lý sự cố Tổ chức quản lý sự cố như sau:
+
+### 03001000000000002000001000000000000000000130000000000000000000802665100180004500
+
+Điều 3.1.TT.5.45. Kiểm soát và khắc phục sự cố Tổ chức kiểm soát và khắc phục sự cố như sau:
+
+### 03001000000000002000001000000000000000000130000000000000000000802665100180004600
+
+Điều 3.1.TT.5.46. Trung tâm điều hành an ninh mạng Trung tâm điều hành an ninh mạng thực hiện các nhiệm vụ sau:
+
+### 03001000000000002000001000000000000000000130000000000000000000802665100180004700
+
+Điều 3.1.TT.5.47. Hoạt động ứng cứu sự cố an ninh mạng 1. Mạng lưới ứng cứu sự cố an ninh mạng trong ngành Ngân hàng (Mạng lưới) có nhiệm vụ phối hợp các nguồn lực trong và ngoài ngành ứng phó hiệu quả sự cố an ninh mạng, góp phần bảo đảm hệ thống ngân hàng hoạt động an toàn.
+
+### 030010000000000020000010000000000000000001400000000000000000
+
+Điều 3.1.LQ.14. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia 1. Ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia là hoạt động ứng cứu sự cố trong tình huống thảm họa hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền nhằm bảo đảm an toàn thông tin mạng quốc gia.
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050000300
+
+Điều 3.1.QĐ.1.3. Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng 1. Ban Chỉ đạo an toàn thông tin quốc gia đảm nhiệm chức năng Ban Chỉ đạo quốc gia về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng (sau đây gọi là Ban Chỉ đạo quốc gia).
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050000400
+
+Điều 3.1.QĐ.1.4. Cơ quan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia 1. Bộ Thông tin và Truyền thông là cơ quan thường trực, giúp việc cho Ban Chỉ đạo quốc gia (sau đây gọi là Cơ quan thường trực) có nhiệm vụ, quyền hạn cụ thể sau:
+
+### 0300100000000000200000100000000000000000014000000000000000000050261280005000040000802630800200000300
+
+Điều 3.1.TT.3.3. Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc là các cơ quan, tổ chức, đơn vị thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng quốc gia được quy định tại Quyết định số 05/2017/QĐ-TTg. Các cơ quan, tổ chức tham gia hoạt động điều phối, ứng cứu sự cố trên toàn quốc gồm:
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050000500
+
+Điều 3.1.QĐ.1.5. Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân đân các tỉnh, thành phố trực thuộc trung ương 1. Ban Chỉ đạo ứng dụng công nghệ thông tin của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương đảm nhiệm chức năng Ban Chỉ đạo ứng cứu khẩn cấp sự cố an toàn thông tin mạng trong phạm vi địa bàn, lĩnh vực mình phụ trách (sau đây gọi là Ban Chỉ đạo cấp bộ, tỉnh).
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050000800
+
+Điều 3.1.QĐ.1.8. Bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia 1. Bộ phận tác nghiệp ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Bộ phận tác nghiệp ứng cứu khẩn cấp) do Cơ quan thường trực triệu tập và chịu sự điều hành của Cơ quan thường trực với sự tham gia của các đơn vị sau:
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050000900
+
+Điều 3.1.QĐ.1.9. Phân nhóm sự cố an toàn thông tin mạng Sự cố an toàn thông tin mạng nghiêm trọng là sự cố đáp ứng đồng thời các tiêu chí sau:
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050001000
+
+Điều 3.1.QĐ.1.10. Hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia 1. Phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia là phương án ứng cứu cho sự cố an toàn thông tin mạng nghiêm trọng đáp ứng các tiêu chí tại Điều 9 và hệ thống thông tin bị sự cố là hệ thống thông tin cấp độ 5 hoặc, thuộc Danh mục Hệ thống thông tin quan trọng quốc gia.
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050001400
+
+Điều 3.1.QĐ.1.14. Quy trình ứng cứu sự cố an toàn thông tin mạng nghiêm trọng Quy trình ứng cứu khẩn cấp sự cố an toàn thông tin mạng nghiêm trọng sau đây được sử dụng chung cho cả bốn phương án ứng cứu khẩn cấp nêu trong Điều 10 Quyết định này, cụ thể bao gồm các bước sau:
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050001500
+
+Điều 3.1.QĐ.1.15. Trưng dụng tài sản và đình chỉ phương tiện thông tin phục vụ ứng cứu khẩn cấp sự cố an toàn thông tin mạng quốc gia Trong quá trình triển khai ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia, khi được Cơ quan thường trực yêu cầu, các cơ quan có chức năng thẩm quyền theo quy định của pháp luật thực hiện:
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050001600
+
+Điều 3.1.QĐ.1.16. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng 1. Các cơ quan, đơn vị xây dựng và thực hiện kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng (sau đây gọi tắt là kế hoạch ứng phó sự cố) để đảm bảo nhân lực, vật lực, tài lực và các điều kiện cần thiết để sẵn sàng triển khai kịp thời, hiệu quả phương án ứng cứu sự cố bảo đảm an toàn thông tin mạng, cụ thể như sau:
+
+### 0300100000000000200000100000000000000000014000000000000000000050261280005000160000802630800200001200
+
+Điều 3.1.TT.3.12. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng 1. Các cơ quan, tổ chức và doanh nghiệp xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của cơ quan, tổ chức và doanh nghiệp mình, trong đó:
+
+### 03001000000000002000001000000000000000000140000000000000000000502612800050001700
+
+Điều 3.1.QĐ.1.17. Kinh phí 1. Kinh phí để thực hiện các phương án, kế hoạch, hoạt động điều phối, ứng cứu, khắc phục sự cố an toàn thông tin mạng được lấy từ các nguồn: Ngân sách trung ương; ngân sách địa phương; kinh phí của doanh nghiệp và các nguồn vốn hợp pháp khác theo quy định.
+
+### 0300100000000000200000100000000000000000014000000000000000000050261280005000170000802630800200001300
+
+Điều 3.1.TT.3.13. Kinh phí Kinh phí triển khai các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc thực hiện theo quy định tại Điều 17 Quyết định số 05/2017/QĐ-TTg và các văn bản hướng dẫn liên quan.
+
+### 030010000000000020000010000000000000000001500000000000000000
+
+Điều 3.1.LQ.15. Trách nhiệm của cơ quan, tổ chức, cá nhân trong bảo đảm an toàn thông tin mạng 1. Cơ quan, tổ chức, cá nhân tham gia hoạt động an toàn thông tin mạng có trách nhiệm phối hợp với cơ quan nhà nước có thẩm quyền và tổ chức, cá nhân khác trong việc bảo đảm an toàn thông tin mạng.
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180001600
+
+Điều 3.1.TT.5.16. Yêu cầu chung đối với nơi lắp đặt trang thiết bị công nghệ thông tin 1. Bảo vệ bằng tường bao, cổng ra vào hoặc có các biện pháp kiểm soát, hạn chế rủi ro xâm nhập trái phép.
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180001700
+
+Điều 3.1.TT.5.17. Yêu cầu đối với trung tâm dữ liệu Ngoài việc bảo đảm yêu cầu tại Điều 16 Thông tư này, Trung tâm dữ liệu phải bảo đảm các yêu cầu sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180001800
+
+Điều 3.1.TT.5.18. An toàn tài sản vật lý 1.Tài sản vật lý phải được bố trí, lắp đặt tại các địa điểm an toàn và được bảo vệ để giảm thiểu những rủi ro do các đe dọa, hiểm họa từ môi trường và các xâm nhập trái phép.
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180001900
+
+Điều 3.1.TT.5.19. Trách nhiệm quản lý và quy trình vận hành của tổ chức 1. Tổ chức ban hành các quy trình vận hành đối với hệ thống thông tin từ mức độ 2 trở lên, tối thiểu bao gồm: quy trình bật, tắt hệ thống; quy trình sao lưu, phục hồi dữ liệu; quy trình vận hành ứng dụng; quy trình xử lý sự cố; quy trình giám sát và ghi nhật ký hoạt động của hệ thống. Trong đó phải xác định rõ phạm vi, trách nhiệm của người sử dụng, vận hành hệ thống. Định kỳ tối thiểu mỗi năm một lần, tổ chức thực hiện rà soát, cập nhật, bổ sung các quy trình vận hành hệ thống thông tin để phù hợp thực tế.
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002000
+
+Điều 3.1.TT.5.20. Lập kế hoạch và chấp nhận hệ thống thông tin 1. Tổ chức xây dựng tiêu chuẩn, định mức, yêu cầu kỹ thuật để bảo đảm hoạt động bình thường đối với tất cả các hệ thống thông tin hiện có và các hệ thống thông tin khác trước khi đưa vào áp dụng chính thức.
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002100
+
+Điều 3.1.TT.5.21. Sao lưu dự phòng Tổ chức thực hiện sao lưu dự phòng bảo đảm an toàn dữ liệu như sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002200
+
+Điều 3.1.TT.5.22. Quản lý an toàn, bảo mật hệ thống mạng Tổ chức thực hiện quản lý an toàn, bảo mật hệ thống mạng như sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002300
+
+Điều 3.1.TT.5.23. Trao đổi thông tin Trách nhiệm của tổ chức trong việc trao đổi thông tin với khách hàng và bên thứ ba:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002400
+
+Điều 3.1.TT.5.24. Quản lý dịch vụ giao dịch trực tuyến 1. Yêu cầu đối với hệ thống thông tin của tổ chức thực hiện cung cấp dịch vụ giao dịch trực tuyến cho khách hàng:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002500
+
+Điều 3.1.TT.5.25. Giám sát và ghi nhật ký hoạt động của hệ thống thông tin Tổ chức thực hiện giám sát và ghi nhật ký hoạt động của hệ thống thông tin như sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002600
+
+Điều 3.1.TT.5.26. Phòng chống mã độc Tổ chức xây dựng và thực hiện quy định về phòng chống mã độc như sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002700
+
+Điều 3.1.TT.5.27. Yêu cầu đối với kiểm soát truy cập 1. Tổ chức quy định về quản lý truy cập đối với người sử dụng, nhóm người sử dụng, các thiết bị, công cụ sử dụng để truy cập hệ thống thông tin bảo đảm đáp ứng yêu cầu nghiệp vụ và yêu cầu an toàn thông tin, bao gồm các nội dung cơ bản sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002800
+
+Điều 3.1.TT.5.28. Quản lý truy cập mạng nội bộ Tổ chức xây dựng và triển khai các chính sách quản lý truy cập mạng nội bộ đáp ứng các yêu cầu sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180002900
+
+Điều 3.1.TT.5.29. Quản lý truy cập hệ thống thông tin và ứng dụng Tổ chức xây dựng và triển khai việc quản lý truy cập đáp ứng yêu cầu sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180003000
+
+Điều 3.1.TT.5.30. Quản lý kết nối Internet Tổ chức quy định và triển khai việc quản lý kết nối Internet đáp ứng yêu cầu sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180005200
+
+Điều 3.1.TT.5.52. Kiểm tra nội bộ Tổ chức thực hiện kiểm tra nội bộ như sau:
+
+### 03001000000000002000001000000000000000000150000000000000000000802665100180005300
+
+Điều 3.1.TT.5.53. Chế độ báo cáo Tổ chức có trách nhiệm gửi báo cáo về Ngân hàng Nhà nước (Cục Công nghệ thông tin) các nội dung sau:
+
+### 0300100000000000200000200000000000000000
+
+Mục 2 BẢO VỆ THÔNG TIN CÁ NHÂN
+
+### 030010000000000020000020000000000000000001600000000000000000
+
+Điều 3.1.LQ.16. Nguyên tắc bảo vệ thông tin cá nhân trên mạng 1. Cá nhân tự bảo vệ thông tin cá nhân của mình và tuân thủ quy định của pháp luật về cung cấp thông tin cá nhân khi sử dụng dịch vụ trên mạng.
+
+### 030010000000000020000020000000000000000001700000000000000000
+
+Điều 3.1.LQ.17. Thu thập và sử dụng thông tin cá nhân 1. Tổ chức, cá nhân xử lý thông tin cá nhân có trách nhiệm sau đây:
+
+### 030010000000000020000020000000000000000001800000000000000000
+
+Điều 3.1.LQ.18. Cập nhật, sửa đổi và hủy bỏ thông tin cá nhân 1. Chủ thể thông tin cá nhân có quyền yêu cầu tổ chức, cá nhân xử lý thông tin cá nhân cập nhật, sửa đổi, hủy bỏ thông tin cá nhân của mình mà tổ chức, cá nhân đó đã thu thập, lưu trữ hoặc ngừng cung cấp thông tin cá nhân của mình cho bên thứ ba.
+
+### 030010000000000020000020000000000000000001900000000000000000
+
+Điều 3.1.LQ.19. Bảo đảm an toàn thông tin cá nhân trên mạng 1. Tổ chức, cá nhân xử lý thông tin cá nhân phải áp dụng biện pháp quản lý, kỹ thuật phù hợp để bảo vệ thông tin cá nhân do mình thu thập, lưu trữ; tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn thông tin mạng.
+
+### 030010000000000020000020000000000000000002000000000000000000
+
+Điều 3.1.LQ.20. Trách nhiệm của cơ quan quản lý nhà nước trong bảo vệ thông tin cá nhân trên mạng 1. Thiết lập kênh thông tin trực tuyến để tiếp nhận kiến nghị, phản ánh của tổ chức, cá nhân liên quan đến bảo đảm an toàn thông tin cá nhân trên mạng.
+
+### 0300100000000000200000300000000000000000
+
+Mục 3 BẢO VỆ HỆ THỐNG THÔNG TIN
+
+### 030010000000000020000030000000000000000002100000000000000000
+
+Điều 3.1.LQ.21. Phân loại cấp độ an toàn hệ thống thông tin 1. Phân loại cấp độ an toàn hệ thống thông tin là việc xác định cấp độ an toàn thông tin của hệ thống thông tin theo cấp độ tăng dần từ 1 đến 5 để áp dụng biện pháp quản lý và kỹ thuật nhằm bảo vệ hệ thống thông tin phù hợp theo cấp độ.
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850000600
+
+Điều 3.1.NĐ.2.6. Phân loại thông tin và hệ thống thông tin 1. Thông tin xử lý thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850000700
+
+Điều 3.1.NĐ.2.7. Tiêu chí xác định cấp độ 1 Hệ thống thông tin cấp độ 1 là hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và chỉ xử lý thông tin công cộng.
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850000800
+
+Điều 3.1.NĐ.2.8. Tiêu chí xác định cấp độ 2 Hệ thống thông tin cấp độ 2 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850000900
+
+Điều 3.1.NĐ.2.9. Tiêu chí xác định cấp độ 3 Hệ thống thông tin cấp độ 3 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001000
+
+Điều 3.1.NĐ.2.10. Tiêu chí xác định cấp độ 4 Hệ thống thông tin cấp độ 4 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001100
+
+Điều 3.1.NĐ.2.11. Tiêu chí xác định cấp độ 5 Hệ thống thông tin cấp độ 5 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001200
+
+Điều 3.1.NĐ.2.12. Thẩm quyền thẩm định và phê duyệt cấp độ 1. Đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001300
+
+Điều 3.1.NĐ.2.13. Trình tự, thủ tục xác định cấp độ đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin 1. Chủ đầu tư xây dựng thuyết minh đề xuất cấp độ, lồng ghép vào nội dung của báo cáo nghiên cứu khả thi, dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư của dự án, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt báo cáo nghiên cứu khả thi; dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư theo quy định của pháp luật về đầu tư và quy định Nghị định này.
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001400
+
+Điều 3.1.NĐ.2.14. Trình tự, thủ tục xác định cấp độ đối với hệ thống thông tin đang vận hành 1. Lập hồ sơ đề xuất cấp độ:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001500
+
+Điều 3.1.NĐ.2.15. Hồ sơ đề xuất cấp độ Hồ sơ đề xuất cấp độ bao gồm:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001600
+
+Điều 3.1.NĐ.2.16. Thẩm định hồ sơ đề xuất cấp độ 1. Nội dung thẩm định hồ sơ đề xuất cấp độ:
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501400
+
+Điều 3.1.TT.2.14. Nộp và tiếp nhận hồ sơ đề xuất cấp độ để thẩm định 1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501500
+
+Điều 3.1.TT.2.15. Tổ chức thẩm định hồ sơ đề xuất cấp độ 1. Đối với hệ thống thông tin được đề xuất cấp độ 1,2,3:
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000160000802616700036501600
+
+Điều 3.1.TT.2.16. Cơ chế phối hợp thẩm định 1. Đơn vị vận hành hệ thống thông tin có trách nhiệm phối hợp với đơn vị thẩm định hồ sơ đề xuất cấp độ trong việc xác định sự phù hợp của hồ sơ đề xuất cấp độ đối với yêu cầu hoạt động của hệ thống thông tin tương ứng.
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001700
+
+Điều 3.1.NĐ.2.17. Hồ sơ phê duyệt đề xuất cấp độ 1. Hồ sơ phê duyệt đề xuất cấp độ bao gồm:
+
+### 03001000000000002000003000000000000000000210000000000000000000402587000850001800
+
+Điều 3.1.NĐ.2.18. Trình tự, thủ tục xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ Đối với hệ thống thông tin đã được phê duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500400
+
+Điều 3.1.TT.2.4. Hướng dẫn xác định hệ thống thông tin cụ thể 1. Việc xác định hệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc quy định tại khoản 1 Điều 5 Nghị định 85/2016/NĐ-CP.
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500500
+
+Điều 3.1.TT.2.5. Chủ quản hệ thống thông tin 1. Đối với cơ quan, tổ chức nhà nước, chủ quản hệ thống thông tin là một trong các trường hợp sau:
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500600
+
+Điều 3.1.TT.2.6. Đơn vị vận hành hệ thống thông tin 1. Đơn vị vận hành hệ thống thông tin là cơ quan, tổ chức được chủ quản hệ thống thông tin giao nhiệm vụ vận hành hệ thống thông tin.
+
+### 0300100000000000200000300000000000000000021000000000000000000040258700085000180000802616700036500700
+
+Điều 3.1.TT.2.7. Hướng dẫn xác định và thuyết minh cấp độ an toàn hệ thống thông tin Việc xác định cấp độ và thuyết minh cấp độ an toàn hệ thống thông tin thực hiện như sau:
+
+### 030010000000000020000030000000000000000002200000000000000000
+
+Điều 3.1.LQ.22. Nhiệm vụ bảo vệ hệ thống thông tin 1. Xác định cấp độ an toàn thông tin của hệ thống thông tin.
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180003600
+
+Điều 3.1.TT.5.36. Yêu cầu về an toàn, bảo mật các hệ thống thông tin Khi xây dựng mới hoặc nâng cấp hệ thống thông tin do tổ chức quản lý trực tiếp, tổ chức phải thực hiện phân loại hệ thống thông tin theo mức độ quan trọng quy định tại khoản 2 Điều 4 Thông tư này. Đối với hệ thống thông tin từ mức độ 2 trở lên, tổ chức thực hiện:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180003700
+
+Điều 3.1.TT.5.37. Bảo đảm an toàn, bảo mật ứng dụng Các chương trình ứng dụng nghiệp vụ phải đáp ứng các yêu cầu tối thiểu sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180003800
+
+Điều 3.1.TT.5.38. Quản lý mã hóa Tổ chức quản lý mã hóa như sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180003900
+
+Điều 3.1.TT.5.39. An toàn, bảo mật trong quá trình phát triển phần mềm 1. Tổ chức thực hiện quản lý quá trình phát triển phần mềm như sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180004000
+
+Điều 3.1.TT.5.40. Quản lý sự thay đổi hệ thống thông tin Tổ chức ban hành quy trình, biện pháp quản lý và kiểm soát sự thay đổi hệ thống thông tin, tối thiểu bao gồm:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180004100
+
+Điều 3.1.TT.5.41. Đánh giá an ninh bảo mật hệ thống thông tin 1. Nội dung đánh giá hệ thống thông tin của tổ chức về an ninh bảo mật phải bao gồm các nội dung sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180004200
+
+Điều 3.1.TT.5.42. Quản lý các điểm yếu về mặt kỹ thuật Tổ chức quản lý các điểm yếu về mặt kỹ thuật như sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180004300
+
+Điều 3.1.TT.5.43. Quản lý bảo trì hệ thống thông tin Tổ chức quản lý bảo trì hệ thống thông tin như sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180004800
+
+Điều 3.1.TT.5.48. Nguyên tắc bảo đảm hoạt động liên tục 1. Tổ chức thực hiện các yêu cầu tối thiểu sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180004900
+
+Điều 3.1.TT.5.49. Xây dựng hệ thống dự phòng thảm họa 1. Tổ chức xây dựng hệ thống dự phòng thảm họa đáp ứng các yêu cầu sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180005000
+
+Điều 3.1.TT.5.50. Xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục Tổ chức xây dựng quy trình, kịch bản bảo đảm hoạt động liên tục như sau:
+
+### 03001000000000002000003000000000000000000220000000000000000000802665100180005100
+
+Điều 3.1.TT.5.51. Tổ chức triển khai bảo đảm hoạt động liên tục 1. Tổ chức phải có kế hoạch và tổ chức triển khai bảo đảm hoạt động liên tục hệ thống thông tin theo các yêu cầu sau:
+
+### 030010000000000020000030000000000000000002300000000000000000
+
+Điều 3.1.LQ.23. Biện pháp bảo vệ hệ thống thông tin 1. Ban hành quy định về bảo đảm an toàn thông tin mạng trong thiết kế, xây dựng, quản lý, vận hành, sử dụng, nâng cấp, hủy bỏ hệ thống thông tin.
+
+### 03001000000000002000003000000000000000000230000000000000000000802665100180000400
+
+Điều 3.1.TT.5.4. Phân loại thông tin và hệ thống thông tin 1. Thông tin xử lý, lưu trữ thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau:
+
+### 03001000000000002000003000000000000000000230000000000000000000802665100180000500
+
+Điều 3.1.TT.5.5. Quy chế an toàn thông tin 1. Tổ chức xây dựng quy chế an toàn thông tin phù hợp với hệ thống thông tin, cơ cấu tổ chức, yêu cầu quản lý và hoạt động của tổ chức. Quy chế an toàn thông tin phải được người đại diện hợp pháp ký ban hành và triển khai thực hiện trong toàn tổ chức.
+
+### 030010000000000020000030000000000000000002400000000000000000
+
+Điều 3.1.LQ.24. Giám sát an toàn hệ thống thông tin 1. Giám sát an toàn hệ thống thông tin là hoạt động lựa chọn đối tượng giám sát, thu thập, phân tích trạng thái thông tin của đối tượng giám sát nhằm xác định những nhân tố ảnh hưởng đến an toàn hệ thống thông tin; báo cáo, cảnh báo hành vi xâm phạm an toàn thông tin mạng hoặc hành vi có khả năng gây ra sự cố an toàn thông tin mạng đối với hệ thống thông tin; tiến hành phân tích yếu tố then chốt ảnh hưởng tới trạng thái an toàn thông tin mạng; đề xuất thay đổi biện pháp kỹ thuật.
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310000300
+
+Điều 3.1.TT.4.3. Nguyên tắc giám sát 1. Đảm bảo được thực hiện thường xuyên, liên tục.
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310000400
+
+Điều 3.1.TT.4.4. Phương thức giám sát 1. Giám sát được thực hiện qua phương thức giám sát trực tiếp hoặc phương thức giám sát gián tiếp. Chủ quản hệ thống thông tin có thể trực tiếp triển khai hoặc thuê dịch vụ giám sát. Trong trường hợp cần thiết, căn cứ vào năng lực, tình hình và nguồn lực thực tế chủ quản hệ thống thông tin đề nghị các đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông hỗ trợ giám sát phù hợp với nguồn lực thực tế.
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310000600
+
+Điều 3.1.TT.4.6. Hoạt động giám sát của doanh nghiệp Doanh nghiệp viễn thông, doanh nghiệp cung cấp dịch vụ công nghệ thông tin, doanh nghiệp cung cấp dịch vụ an toàn thông tin mạng có trách nhiệm:
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310000700
+
+Điều 3.1.TT.4.7. Đầu mối giám sát, cảnh báo 1. Chủ quản hệ thống thông tin có trách nhiệm cử cá nhân hoặc bộ phận làm đầu mối giám sát, cảnh báo an toàn thông tin mạng để phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông.
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310000800
+
+Điều 3.1.TT.4.8. Trao đổi, cung cấp, chia sẻ thông tin 1. Khuyến khích các đầu mối giám sát trao đổi, cung cấp thông tin cho nhau nhằm mục đích phối hợp trong công tác giám sát, cảnh báo, ứng cứu sự cố và tăng tính chủ động đối phó với các nguy cơ, mối đe dọa, phương thức, thủ đoạn tấn công an toàn thông tin mạng của tổ chức, cá nhân.
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310000900
+
+Điều 3.1.TT.4.9. Hoạt động nâng cao năng lực giám sát 1. Tổ chức giao ban, hội thảo định kỳ về hoạt động giám sát.
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310001000
+
+Điều 3.1.TT.4.10. Mô hình giám sát của Bộ Thông tin và Truyền thông 1. Hoạt động giám sát trung tâm:
+
+### 03001000000000002000003000000000000000000240000000000000000000802637200310001100
+
+Điều 3.1.TT.4.11. Hoạt động giám sát của Bộ Thông tin và Truyền thông 1. Bộ Thông tin và Truyền thông thực hiện giám sát hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử.
+
+### 030010000000000020000030000000000000000002500000000000000000
+
+Điều 3.1.LQ.25. Trách nhiệm của chủ quản hệ thống thông tin 1. Chủ quản hệ thống thông tin có trách nhiệm thực hiện bảo vệ hệ thống thông tin theo quy định tại các điều 22, 23 và 24 của Luật này.
+
+### 03001000000000002000003000000000000000000250000000000000000000402587000850002000
+
+Điều 3.1.NĐ.2.20. Trách nhiệm của chủ quản hệ thống thông tin 1. Người đứng đầu của cơ quan, tổ chức là chủ quản hệ thống thông tin có trách nhiệm:
+
+### 03001000000000002000003000000000000000000250000000000000000000802637200310000500
+
+Điều 3.1.TT.4.5. Yêu cầu giám sát trực tiếp đối với chủ quản hệ thống thông tin Chủ quản hệ thống thông tin có trách nhiệm chủ động thực hiện giám sát theo quy định hiện hành. Đối với hệ thống thông tin cấp độ 3 trở lên, hoạt động giám sát của chủ quản hệ thống thông tin cần đáp ứng các yêu cầu tối thiểu sau đây:
+
+### 030010000000000020000030000000000000000002600000000000000000
+
+Điều 3.1.LQ.26. Hệ thống thông tin quan trọng quốc gia 1. Khi thiết lập, mở rộng và nâng cấp hệ thống thông tin quan trọng quốc gia phải thực hiện kiểm định an toàn thông tin trước khi đưa vào vận hành, khai thác.
+
+### 030010000000000020000030000000000000000002700000000000000000
+
+Điều 3.1.LQ.27. Trách nhiệm bảo đảm an toàn thông tin mạng cho hệ thống thông tin quan trọng quốc gia 1. Chủ quản hệ thống thông tin quan trọng quốc gia có trách nhiệm sau đây:
+
+### 03001000000000002000003000000000000000000270000000000000000000402587000850001900
+
+Điều 3.1.NĐ.2.19. Phương án bảo đảm an toàn hệ thống thông tin theo cấp độ 1. Phương án bảo đảm an toàn hệ thống thông tin phải đáp ứng yêu cầu cơ bản trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036500800
+
+Điều 3.1.TT.2.8. Yêu cầu chung 1. Việc bảo đảm an toàn hệ thống thông tin theo cấp độ thực hiện theo yêu cầu cơ bản quy định tại Thông tư này; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin và tiêu chuẩn, quy chuẩn kỹ thuật chuyên ngành có liên quan khác.
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036500900
+
+Điều 3.1.TT.2.9. Yêu cầu cơ bản đối với từng cấp độ 1. Phương án bảo đảm an toàn hệ thống thông tin cấp độ 1 phải đáp ứng yêu cầu quy định chi tiết tại Phụ lục 1 ban hành kèm theo Thông tư này.
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501000
+
+Điều 3.1.TT.2.10. Nội dung, hình thức kiểm tra, đánh giá 1. Nội dung kiểm tra, đánh giá:
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501100
+
+Điều 3.1.TT.2.11. Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ 1. Kiểm tra việc tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ bao gồm:
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501200
+
+Điều 3.1.TT.2.12. Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin 1. Đánh giá hiệu quả của biện pháp bảo đảm an toàn thông tin là việc rà soát một cách tổng thể, xác minh mức độ hiệu quả của phương án bảo đảm an toàn thông tin theo từng tiêu chí, yêu cầu cơ bản cụ thể.
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000190000802616700036501300
+
+Điều 3.1.TT.2.13. Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống 1. Đánh giá phát hiện mã độc, lỗ hổng, điểm yếu, thử nghiệm xâm nhập hệ thống là việc thực hiện dò quét, phát hiện lỗ hổng, điểm yếu của hệ thống, thử nghiệm tấn công xâm nhập hệ thống và đánh giá nguy cơ, thiệt hại có thể có của hệ thống thông tin khi bị đối tượng tấn công xâm nhập.
+
+### 03001000000000002000003000000000000000000270000000000000000000402587000850002100
+
+Điều 3.1.NĐ.2.21. Trách nhiệm của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin 1. Tham mưu, tổ chức thực thi, đôn đốc, kiểm tra, giám sát công tác bảo đảm an toàn thông tin.
+
+### 03001000000000002000003000000000000000000270000000000000000000402587000850002200
+
+Điều 3.1.NĐ.2.22. Trách nhiệm của đơn vị vận hành hệ thống thông tin Đơn vị vận hành hệ thống thông tin có trách nhiệm:
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000220000802616700036501700
+
+Điều 3.1.TT.2.17. Chế độ báo cáo 1. Chủ quản hệ thống thông tin cấp độ 1, 2 chỉ đạo đơn vị vận hành hệ thống thông tin thực hiện chế độ báo cáo định kỳ hoặc đột xuất theo quy định tại khoản 4 Điều 22 Nghị định số 85/2016/NĐ-CP .
+
+### 0300100000000000200000300000000000000000027000000000000000000040258700085000220000802616700036501800
+
+Điều 3.1.TT.2.18. Chia sẻ thông tin 1. Chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin cấp 4, 5 và chủ quản hệ thống thông tin là cơ quan, tổ chức nhà nước có trách nhiệm tham gia chia sẻ thông tin với cơ quan quản lý nhà nước về an toàn thông tin đối với công tác bảo đảm an toàn thông tin. Các chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin còn lại tham gia chia sẻ thông tin trên tinh thần tự nguyện.
+
+### 03001000000000002000003000000000000000000270000000000000000000402587000850002300
+
+Điều 3.1.NĐ.2.23. Trách nhiệm của cơ quan quản lý nhà nước 1. Bộ Thông tin và Truyền thông có trách nhiệm:
+
+### 0300100000000000200000400000000000000000
+
+Mục 4 NGĂN CHẶN XUNG ĐỘT THÔNG TIN TRÊN MẠNG
+
+### 030010000000000020000040000000000000000002800000000000000000
+
+Điều 3.1.LQ.28. Trách nhiệm của tổ chức, cá nhân trong việc ngăn chặn xung đột thông tin trên mạng 1. Tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây:
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420000600
+
+Điều 3.1.NĐ.4.6. Trách nhiệm của cơ quan nghiệp vụ 1. Tham mưu cho Bộ trưởng tổ chức triển khai các nhiệm vụ thuộc về trách nhiệm của Bộ mình trong ngăn chặn xung đột thông tin trên mạng và phối hợp với các cơ quan nghiệp vụ của các Bộ khác để cùng nhau tổ chức triển khai thực hiện nhiệm vụ.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420000700
+
+Điều 3.1.NĐ.4.7. Cung cấp thông tin 1. Tổ chức, cá nhân khi phát hiện thấy dấu hiệu, hành vi gây xung đột thông tin trên mạng hoặc khi phát hiện thấy thông tin, hệ thống thông tin bị tổn hại phải có trách nhiệm thông báo và cung cấp đầy đủ thông tin cho cơ quan nghiệp vụ và chủ quản hệ thống thông tin.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420001900
+
+Điều 3.1.NĐ.4.19. Quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng 1. Chính phủ thống nhất quản lý nhà nước về ngăn chặn xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002000
+
+Điều 3.1.NĐ.4.20. Bộ Quốc phòng 1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ chủ quyền quốc gia trên không gian mạng theo chức năng, nhiệm vụ của Bộ Quốc Phòng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002100
+
+Điều 3.1.NĐ.4.21. Bộ Công an 1. Chủ trì ngăn chặn xung đột thông tin trên mạng nhằm bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và phòng, chống tội phạm.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002200
+
+Điều 3.1.NĐ.4.22. Bộ Thông tin và Truyền thông 1. Chủ trì, phối hợp với các bộ, ngành, địa phương, doanh nghiệp, tổ chức triển khai các biện pháp bảo đảm an toàn thông tin; tổ chức kiểm tra đánh giá tình hình mất an toàn thông tin; thực hiện cảnh báo, điều phối ứng cứu và khắc phục sự cố mạng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002300
+
+Điều 3.1.NĐ.4.23. Bộ Ngoại giao Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông tổ chức triển khai giải pháp bảo vệ cho hệ thống thông tin trong các cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài; phối hợp thực hiện công tác đối ngoại liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002400
+
+Điều 3.1.NĐ.4.24. Bộ Khoa học và Công nghệ 1. Tham mưu cho Chính phủ xác định các nhiệm vụ khoa học và công nghệ liên quan đến hoạt động ngăn chặn xung đột thông tin trên mạng và bảo vệ chủ quyền quốc gia trên không gian mạng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002500
+
+Điều 3.1.NĐ.4.25. Bộ Tài chính Bảo đảm kinh phí cho hoạt động ngăn chặn xung đột thông tin trên mạng theo quy định của pháp luật về ngân sách nhà nước.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002600
+
+Điều 3.1.NĐ.4.26. Các bộ, ngành khác và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương 1. Giao nhiệm vụ cho cơ quan tham mưu quản lý nhà nước về công nghệ thông tin, an toàn thông tin mạng thực hiện ngăn chặn xung đột thông tin trên mạng bao gồm giám sát, phát hiện, cảnh báo, xác định nguồn gốc và khắc phục xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002700
+
+Điều 3.1.NĐ.4.27. Tổ chức, cá nhân 1. Chủ quản hệ thống thông tin phải thực hiện các biện pháp bảo vệ hệ thống thông tin và ngăn chặn xung đột xung thông tin trên mạng thuộc quyền quản lý; phối hợp chặt chẽ với cơ quan nghiệp vụ để triển khai các biện pháp ngăn chặn xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000280000000000000000000402597501420002800
+
+Điều 3.1.NĐ.4.28. Doanh nghiệp cung cấp dịch vụ viễn thông, Internet 1. Cung cấp đầy đủ thông tin, phối hợp xác định và ngăn chặn các nguồn thông tin gây xung đột trên mạng theo yêu cầu của các cơ quan nghiệp vụ.
+
+### 030010000000000020000040000000000000000002900000000000000000
+
+Điều 3.1.LQ.29. Ngăn chặn hoạt động sử dụng mạng để khủng bố 1. Các biện pháp ngăn chặn hoạt động sử dụng mạng để khủng bố gồm:
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420000400
+
+Điều 3.1.NĐ.4.4. Nguyên tắc ngăn chặn xung đột thông tin trên mạng 1. Bảo đảm đúng điều kiện, trình tự, thủ tục, hình thức, thẩm quyền theo quy định của pháp luật và phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420000500
+
+Điều 3.1.NĐ.4.5. Kinh phí đảm bảo 1. Kinh phí đảm bảo cho nhiệm vụ ngăn chặn xung đột thông tin trên mạng do ngân sách nhà nước đảm bảo và được bố trí trong dự toán ngân sách nhà nước hàng năm giao cho Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420000800
+
+Điều 3.1.NĐ.4.8. Giám sát, phát hiện và cảnh báo xung đột thông tin trên mạng 1. Hoạt động giám sát, phát hiện, cảnh báo xung đột thông tin trên mạng phải được cơ quan nghiệp vụ và chủ quản hệ thống thông tin thực hiện thường xuyên, liên tục.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420000900
+
+Điều 3.1.NĐ.4.9. Tiếp nhận và xử lý xung đột thông tin trên mạng 1. Chủ quản hệ thống thông tin có trách nhiệm tiếp nhận, xử lý xung đột thông tin trên mạng và phối hợp với cơ quan nghiệp vụ để ứng cứu sự cố và ngăn chặn xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001000
+
+Điều 3.1.NĐ.4.10. Nội dung xác định nguồn gốc xung đột thông tin trên mạng Nội dung xác định nguồn gốc xung đột thông tin trên mạng bao gồm xác định gói tin, thông tin, địa chỉ nguồn, địa chỉ đích, cổng dịch vụ và cách thức, thủ đoạn xung đột thông tin trên mạng; xác định đối tượng, mục đích và mức độ gây xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001100
+
+Điều 3.1.NĐ.4.11. Kết quả xác định nguồn gốc xung đột thông tin trên mạng 1. Kết quả xác định nguồn gốc xung đột thông tin trên mạng là các tài liệu, bằng chứng, chứng cứ được các cơ quan nghiệp vụ thu thập bảo đảm tính khách quan, chính xác và khoa học.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001200
+
+Điều 3.1.NĐ.4.12. Vai trò, trách nhiệm trong xác định nguồn gốc xung đột thông tin trên mạng 1. Xác định nguồn gốc gây xung đột thông tin trên mạng nhằm phát hiện, thu thập, đánh giá, sử dụng làm bằng chứng, chứng cứ.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001300
+
+Điều 3.1.NĐ.4.13. Chặn lọc thông tin trên mạng Chặn lọc thông tin được các doanh nghiệp cung cấp dịch vụ viễn thông, Internet thực hiện khi có một trong các yếu tố sau:
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001400
+
+Điều 3.1.NĐ.4.14. Khắc phục xung đột thông tin trên mạng 1. Chủ quản hệ thống thông tin chịu trách nhiệm trong việc tổ chức khắc phục xung đột thông tin trên mạng thuộc phạm vi quản lý và chịu sự điều hành của cơ quan nghiệp vụ trong việc tổ chức khắc phục xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001500
+
+Điều 3.1.NĐ.4.15. Loại trừ xung đột thông tin trên mạng 1. Các cơ quan nghiệp vụ chịu trách nhiệm loại trừ xung đột thông tin trên mạng.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001600
+
+Điều 3.1.NĐ.4.16. Thông tin, tuyên truyền, giáo dục về ngăn chặn xung đột thông tin trên mạng 1. Nội dung thông tin, tuyên truyền, giáo dục
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001700
+
+Điều 3.1.NĐ.4.17. Nội dung hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng 1. Hợp tác quốc tế thu thập, nghiên cứu, trao đổi thông tin, kinh nghiệm về ngăn chặn xung đột thông tin trên mạng; phối hợp đào tạo, bồi dưỡng, huấn luyện nghiệp vụ về ngăn chặn xung đột thông tin trên mạng; tổ chức hội nghị, hội thảo quốc tế về các vấn đề liên quan đến ngăn chặn xung đột thông tin trên mạng; hỗ trợ về cơ sở vật chất, kỹ thuật, công nghệ nhằm tăng cường lực lượng cho cơ quan nghiệp vụ.
+
+### 03001000000000002000004000000000000000000290000000000000000000402597501420001800
+
+Điều 3.1.NĐ.4.18. Từ chối hợp tác quốc tế về ngăn chặn xung đột thông tin trên mạng Cơ quan nghiệp vụ và các cơ quan, tổ chức có liên quan của Việt Nam có quyền từ chối hợp tác đối với các yêu cầu hợp tác có nội dung gây phương hại đến chủ quyền, quốc phòng, an ninh quốc gia, lợi ích của Nhà nước hoặc có nội dung không phù hợp với quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
+### 03001000000000003000
+
+Chương III MẬT MÃ DÂN SỰ
+
+### 0300100000000000300003000000000000000000
+
+Điều 3.1.LQ.30. Sản phẩm, dịch vụ mật mã dân sự 1. Sản phẩm mật mã dân sự là các tài liệu, trang thiết bị kỹ thuật và nghiệp vụ mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
+### 030010000000000030000300000000000000000000402587000580000300
+
+Điều 3.1.NĐ.1.3. Danh Mục sản phẩm, dịch vụ mật mã dân sự, Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép Ban hành Danh Mục sản phẩm, dịch vụ mật mã dân sự tại Phụ lục I và Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép tại Phụ lục II kèm theo Nghị định này.
+
+### 0300100000000000300003100000000000000000
+
+Điều 3.1.LQ.31. Kinh doanh sản phẩm, dịch vụ mật mã dân sự 1. Doanh nghiệp phải có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi kinh doanh sản phẩm, dịch vụ mật mã dân sự thuộc Danh mục sản phẩm, dịch vụ mật mã dân sự.
+
+### 030010000000000030000310000000000000000000402587000580000400
+
+Điều 3.1.NĐ.1.4. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự 1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các Điều kiện quy định tại Khoản 2 Điều 31 Luật an toàn thông tin mạng.
+
+### 0300100000000000300003200000000000000000
+
+Điều 3.1.LQ.32. Trình tự, thủ tục đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự 1. Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự nộp hồ sơ đề nghị cấp Giấy phép tại Ban Cơ yếu Chính phủ.
+
+### 030010000000000030000320000000000000000000402587000580000600
+
+Điều 3.1.NĐ.1.6. Trình tự, thủ tục cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự 1. Cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự thực hiện theo quy định tại Điều 34 Luật an toàn thông tin mạng.
+
+### 0300100000000000300003300000000000000000
+
+Điều 3.1.LQ.33. Sửa đổi, bổ sung, cấp lại, gia hạn, tạm đình chỉ và thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự 1. Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ mật mã dân sự.
+
+### 030010000000000030000330000000000000000000402587000580000500
+
+Điều 3.1.NĐ.1.5. Trình tự, thủ tục cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự 1. Cấp mới, sửa đổi, bổ sung, cấp lại, gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự thực hiện theo quy định tại Điều 32, Điều 33 Luật an toàn thông tin mạng.
+
+### 0300100000000000300003400000000000000000
+
+Điều 3.1.LQ.34. Xuất khẩu, nhập khẩu sản phẩm mật mã dân sự 1. Khi xuất khẩu, nhập khẩu sản phẩm mật mã dân sự thuộc Danh mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép, doanh nghiệp phải có Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự do cơ quan nhà nước có thẩm quyền cấp.
+
+### 0300100000000000300003500000000000000000
+
+Điều 3.1.LQ.35. Trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự 1. Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ của sản phẩm.
+
+### 0300100000000000300003600000000000000000
+
+Điều 3.1.LQ.36. Trách nhiệm của tổ chức, cá nhân sử dụng sản phẩm, dịch vụ mật mã dân sự 1. Tuân thủ các quy định đã cam kết với doanh nghiệp cung cấp sản phẩm mật mã dân sự về quản lý sử dụng khóa mã, chuyển nhượng, sửa chữa, bảo dưỡng, bỏ, tiêu hủy sản phẩm mật mã dân sự và các nội dung khác có liên quan.
+
+### 03001000000000004000
+
+Chương IV TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT AN TOÀN THÔNG TIN MẠNG
+
+### 0300100000000000400003700000000000000000
+
+Điều 3.1.LQ.37. Tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng 1. Tiêu chuẩn an toàn thông tin mạng gồm tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng được công bố, thừa nhận áp dụng tại Việt Nam.
+
+### 030010000000000040000370000000000000000000802797300230000100
+
+Điều 3.1.TT.8.1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về đặc tính kỹ thuật mật mã sử dụng trong các sản phẩm mật mã dân sự thuộc nhóm sản phẩm bảo mật luồng IP sử dụng công nghệ IPsec và TLS.
+
+### 0300100000000000400003800000000000000000
+
+Điều 3.1.LQ.38. Quản lý tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng 1. Chứng nhận hợp quy về an toàn thông tin mạng là việc tổ chức chứng nhận sự phù hợp chứng nhận hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an toàn thông tin mạng phù hợp với quy chuẩn kỹ thuật an toàn thông tin mạng.
+
+### 0300100000000000400003900000000000000000
+
+Điều 3.1.LQ.39. Đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng 1. Việc đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng được thực hiện trong các trường hợp sau đây:
+
+### 03001000000000005000
+
+Chương V KINH DOANH TRONG LĨNH VỰC AN TOÀN THÔNG TIN MẠNG
+
+### 0300100000000000500000100000000000000000
+
+Mục 1 CẤP GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG
+
+### 030010000000000050000010000000000000000004000000000000000000
+
+Điều 3.1.LQ.40. Kinh doanh trong lĩnh vực an toàn thông tin mạng 1. Kinh doanh trong lĩnh vực an toàn thông tin mạng là ngành, nghề kinh doanh có điều kiện. Kinh doanh trong lĩnh vực an toàn thông tin mạng gồm kinh doanh sản phẩm an toàn thông tin mạng và kinh doanh dịch vụ an toàn thông tin mạng.
+
+### 030010000000000050000010000000000000000004100000000000000000
+
+Điều 3.1.LQ.41. Sản phẩm, dịch vụ trong lĩnh vực an toàn thông tin mạng 1. Dịch vụ an toàn thông tin mạng gồm:
+
+### 03001000000000005000001000000000000000000410000000000000000000402587001080000300
+
+Điều 3.1.NĐ.3.3. Sản phẩm, dịch vụ an toàn thông tin mạng 1. Sản phẩm an toàn thông tin mạng gồm:
+
+### 03001000000000005000001000000000000000000410000000000000000000402587001080000400
+
+Điều 3.1.NĐ.3.4. Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép 1. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép bao gồm:
+
+### 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000300
+
+Điều 3.1.TT.6.3. Sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép 1. Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép được quy định tại Phụ lục I của Thông tư này.
+
+### 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000400
+
+Điều 3.1.TT.6.4. Hiệu lực của Giấy phép nhập khẩu Thời hạn hiệu lực của Giấy phép nhập khẩu là 02 (hai) năm hoặc bằng thời hạn hiệu lực của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng của doanh nghiệp trong trường hợp thời hạn hiệu lực của Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng còn ít hơn 02 (hai) năm.
+
+### 0300100000000000500000100000000000000000041000000000000000000040258700108000040000802670600130000500
+
+Điều 3.1.TT.6.5. Lệ phí cấp, cấp lại Giấy phép nhập khẩu Doanh nghiệp nhập khẩu sản phẩm an toàn thông tin mạng có nghĩa vụ nộp lệ phí cấp, cấp lại Giấy phép nhập khẩu theo quy định tại Thông tư số 269/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí và lệ phí thuộc lĩnh vực an toàn thông tin.
+
+### 030010000000000050000010000000000000000004200000000000000000
+
+Điều 3.1.LQ.42. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ sản phẩm, dịch vụ quy định tại các điểm a, b, c, d khoản 1 và điểm a khoản 2 Điều 41 của Luật này, khi đáp ứng đủ các điều kiện sau đây:
+
+### 03001000000000005000001000000000000000000420000000000000000000402587001080000500
+
+Điều 3.1.NĐ.3.5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Bộ Thông tin và Truyền thông cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.
+
+### 0300100000000000500000100000000000000000042000000000000000000040258700108000050000802670600130000600
+
+Điều 3.1.TT.6.6. Cơ quan cấp Giấy phép nhập khẩu Bộ Thông tin và Truyền thông (Cục An toàn thông tin) là cơ quan cấp Giấy phép nhập khẩu.
+
+### 03001000000000005000001000000000000000000420000000000000000000402587001080000600
+
+Điều 3.1.NĐ.3.6. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này khi đáp ứng đủ các điều kiện quy định tại Điều 42 Luật an toàn thông tin mạng và các điều kiện tại Nghị định này.
+
+### 030010000000000050000010000000000000000004300000000000000000
+
+Điều 3.1.LQ.43. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng nộp hồ sơ đề nghị cấp Giấy phép tại Bộ Thông tin và Truyền thông.
+
+### 03001000000000005000001000000000000000000430000000000000000000402587001080000700
+
+Điều 3.1.NĐ.3.7. Hồ sơ, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Hồ sơ và trình tự thủ tục cấp, sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo quy định tại Điều 43, 44, 45 Luật an toàn thông tin mạng.
+
+### 0300100000000000500000100000000000000000043000000000000000000040258700108000070000802670600130000700
+
+Điều 3.1.TT.6.7. Hồ sơ đề nghị cấp Giấy phép nhập khẩu Hồ sơ đề nghị cấp Giấy phép nhập khẩu được lập thành 01 (một) bộ, bao gồm:
+
+### 03001000000000005000001000000000000000000430000000000000000000402587001080000800
+
+Điều 3.1.NĐ.3.8. Tiếp nhận hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông bằng một trong các hình thức sau:
+
+### 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130000800
+
+Điều 3.1.TT.6.8. Tiếp nhận hồ sơ và cấp Giấy phép nhập khẩu 1. Doanh nghiệp nộp hồ sơ theo một trong các hình thức sau đây:
+
+### 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130000900
+
+Điều 3.1.TT.6.9. Thẩm định và cấp Giấy phép nhập khẩu 1. Trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận hồ sơ, Cục An toàn thông tin kiểm tra và gửi thông báo cho doanh nghiệp về tính đầy đủ của hồ sơ theo quy định tại Điều 7 của Thông tư này bằng văn bản hoặc hình thức điện tử.
+
+### 0300100000000000500000100000000000000000043000000000000000000040258700108000080000802670600130001000
+
+Điều 3.1.TT.6.10. Cấp lại Giấy phép nhập khẩu 1. Đối với Giấy phép nhập khẩu còn hiệu lực và bị mất hoặc bị hư hỏng, doanh nghiệp gửi đơn đề nghị cấp lại Giấy phép nhập khẩu theo Mẫu số 02 tại Phụ lục II của Thông tư này tới Bộ Thông tin và Truyền thông (Cục An toàn thông tin).
+
+### 03001000000000005000001000000000000000000430000000000000000000402587001080000900
+
+Điều 3.1.NĐ.3.9. Kiểm tra tính hợp lệ hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải làm bằng tiếng Việt, gồm 01 bộ hồ sơ gốc và 04 bộ bản sao hồ sơ hợp lệ đối với trường hợp đề nghị cấp Giấy phép, 01 bộ hồ sơ gốc và 01 bộ bản sao hồ sơ hợp lệ đối với các trường hợp đề nghị sửa đổi, bổ sung và gia hạn Giấy phép. Bộ hồ sơ gốc phải có đủ chữ ký, dấu xác nhận của doanh nghiệp, các tài liệu do doanh nghiệp lập nếu có từ 02 tờ văn bản trở lên phải có dấu giáp lai. Các bộ bản sao hồ sơ hợp lệ không yêu cầu phải có dấu xác nhận, dấu chứng thực bản sao nhưng phải có dấu giáp lai của doanh nghiệp nộp hồ sơ.
+
+### 03001000000000005000001000000000000000000430000000000000000000402587001080001000
+
+Điều 3.1.NĐ.3.10. Nộp, giải trình, bổ sung hồ sơ trong quá trình thẩm định 1. Trong thời hạn thẩm định hồ sơ, Bộ Thông tin và Truyền thông có quyền gửi thông báo yêu cầu doanh nghiệp bổ sung hồ sơ, giải trình bằng văn bản hoặc giải trình trực tiếp nếu hồ sơ đề nghị cấp phép tương ứng không cung cấp đủ thông tin, không đáp ứng đủ điều kiện theo quy định nhưng không quá 01 lần.
+
+### 030010000000000050000010000000000000000004400000000000000000
+
+Điều 3.1.LQ.44. Thẩm định hồ sơ và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Trong thời hạn 40 ngày kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với bộ, ngành có liên quan thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ kinh doanh sản phẩm, dịch vụ quy định tại điểm c, điểm d khoản 1 và điểm a khoản 2 Điều 41 của Luật này; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+### 030010000000000050000010000000000000000004500000000000000000
+
+Điều 3.1.LQ.45. Sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ an toàn thông tin mạng mà mình cung cấp.
+
+### 030010000000000050000010000000000000000004600000000000000000
+
+Điều 3.1.LQ.46. Trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 1. Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ của sản phẩm.
+
+### 03001000000000005000001000000000000000000460000000000000000000402587001080001100
+
+Điều 3.1.NĐ.3.11. Chế độ báo cáo của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có trách nhiệm báo cáo đột xuất theo yêu cầu và báo cáo định kỳ hằng năm (trước ngày 31 tháng 12) về tình hình kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.
+
+### 03001000000000005000001000000000000000000460000000000000000000802665100180003100
+
+Điều 3.1.TT.5.31. Các nguyên tắc chung về sử dụng dịch vụ của bên thứ ba Khi sử dụng dịch vụ công nghệ thông tin của bên thứ ba, tổ chức bảo đảm các nguyên tắc sau đây:
+
+### 03001000000000005000001000000000000000000460000000000000000000802665100180003200
+
+Điều 3.1.TT.5.32. Các yêu cầu khi sử dụng dịch vụ của bên thứ ba Trước khi sử dụng dịch vụ của bên thứ ba, tổ chức thực hiện:
+
+### 03001000000000005000001000000000000000000460000000000000000000802665100180003300
+
+Điều 3.1.TT.5.33. Tiêu chí lựa chọn bên thứ ba cung cấp dịch vụ điện toán đám mây Tiêu chí lựa chọn bên thứ ba bao gồm các nội dung tối thiểu sau:
+
+### 03001000000000005000001000000000000000000460000000000000000000802665100180003400
+
+Điều 3.1.TT.5.34. Hợp đồng sử dụng dịch vụ với bên thứ ba Hợp đồng sử dụng dịch vụ ký kết với bên thứ ba phải có tối thiểu những nội dung sau:
+
+### 03001000000000005000001000000000000000000460000000000000000000802665100180003500
+
+Điều 3.1.TT.5.35. Trách nhiệm của tổ chức trong quá trình sử dụng dịch vụ của bên thứ ba 1. Cung cấp, thông báo và yêu cầu bên thứ ba thực hiện các quy định về an toàn thông tin của tổ chức.
+
+### 0300100000000000500000200000000000000000
+
+Mục 2 QUẢN LÝ NHẬP KHẨU SẢN PHẨM AN TOÀN THÔNG TIN MẠNG
+
+### 030010000000000050000020000000000000000004700000000000000000
+
+Điều 3.1.LQ.47. Nguyên tắc quản lý nhập khẩu sản phẩm an toàn thông tin mạng 1. Việc quản lý nhập khẩu đối với sản phẩm an toàn thông tin mạng được thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+
+### 030010000000000050000020000000000000000004800000000000000000
+
+Điều 3.1.LQ.48. Sản phẩm nhập khẩu theo giấy phép trong lĩnh vực an toàn thông tin mạng 1. Khi nhập khẩu sản phẩm an toàn thông tin mạng thuộc Danh mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép do Chính phủ quy định, doanh nghiệp phải có Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng do cơ quan nhà nước có thẩm quyền cấp.
+
+### 03001000000000006000
+
+Chương VI PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN MẠNG
+
+### 0300100000000000600004900000000000000000
+
+Điều 3.1.LQ.49. Đào tạo, bồi dưỡng nghiệp vụ về an toàn thông tin mạng 1. Chủ quản hệ thống thông tin có trách nhiệm đào tạo và bồi dưỡng kiến thức, nghiệp vụ cho cán bộ quản lý, kỹ thuật về an toàn thông tin mạng.
+
+### 030010000000000060000490000000000000000000802563101660000300
+
+Điều 3.1.TT.1.3. Nguồn kinh phí 1. Ngân sách nhà nước, gồm ngân sách trung ương và ngân sách địa phương theo phân cấp ngân sách hiện hành.
+
+### 030010000000000060000490000000000000000000802563101660000400
+
+Điều 3.1.TT.1.4. Đối tượng đào tạo 1. Cán bộ, công chức, viên chức làm về ATANTT trong các đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương.
+
+### 030010000000000060000490000000000000000000802563101660000500
+
+Điều 3.1.TT.1.5. Nội dung chi, mức chi Nội dung chi, mức chi các hoạt động triển khai dự án Đào tạo ngắn hạn về ATANTT thuộc Đề án 99 thực hiện theo quy định tại Thông tư số 139/2010/TT-BTC ngày 21/9/2010 của Bộ Tài chính quy định việc lập dự toán, quản lý và sử dụng kinh phí từ ngân sách nhà nước dành cho công tác đào tạo, bồi dưỡng cán bộ, công chức. Ngoài ra, Thông tư này hướng dẫn thêm một số nội dung chi, mức chi như sau:
+
+### 030010000000000060000490000000000000000000802563101660000600
+
+Điều 3.1.TT.1.6. Lập dự toán, quản lý và sử dụng kinh phí 1. Lập dự toán: Hàng năm, vào thời gian lập dự toán ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước, các cơ quan, đơn vị được giao nhiệm vụ theo quy định tại Đề án 99 căn cứ nhu cầu đào tạo ngắn hạn về ANATTT xây dựng kế hoạch và dự toán kinh phí thực hiện nhiệm vụ đào tạo cán bộ ANATTT của cơ quan, đơn vị mình, tổng hợp chung trong kế hoạch đào tạo, bồi dưỡng CBCC của năm kế hoạch gửi Bộ Nội vụ tổng hợp (đối với các Bộ, cơ quan Trung ương), gửi Sở Nội vụ (đối với các cơ quan ở địa phương), đồng thời tổng hợp vào dự toán ngân sách năm kế hoạch của Bộ, cơ quan để gửi cơ quan tài chính cùng cấp tổng hợp trình cấp có thẩm quyền theo quy định.
+
+### 030010000000000060000490000000000000000000802665100180001200
+
+Điều 3.1.TT.5.12. Tổ chức nguồn nhân lực 1. Người đại diện hợp pháp phải trực tiếp tham gia chỉ đạo và có trách nhiệm trong công tác xây dựng chiến lược, kế hoạch về bảo đảm an toàn thông tin, ứng cứu các sự cố an ninh mạng xảy ra tại tổ chức.
+
+### 030010000000000060000490000000000000000000802665100180001300
+
+Điều 3.1.TT.5.13. Tuyển dụng và phân công nhiệm vụ Tổ chức tuyển dụng và phân công nhiệm vụ như sau:
+
+### 030010000000000060000490000000000000000000802665100180001400
+
+Điều 3.1.TT.5.14. Quản lý sử dụng nguồn nhân lực Tổ chức quản lý nguồn nhân lực như sau:
+
+### 030010000000000060000490000000000000000000802665100180001500
+
+Điều 3.1.TT.5.15. Chấm dứt hoặc thay đổi công việc Khi cá nhân trong tổ chức chấm dứt hoặc thay đổi công việc, tổ chức thực hiện:
+
+### 0300100000000000600005000000000000000000
+
+Điều 3.1.LQ.50. Văn bằng, chứng chỉ đào tạo về an toàn thông tin mạng 1. Cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp trong phạm vi nhiệm vụ, quyền hạn của mình cấp văn bằng, chứng chỉ đào tạo về an toàn thông tin mạng.
+
+### 03001000000000007000
+
+Chương VII QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THÔNG TIN MẠNG
+
+### 0300100000000000700005100000000000000000
+
+Điều 3.1.LQ.51. Nội dung quản lý nhà nước về an toàn thông tin mạng 1. Xây dựng chiến lược, kế hoạch và chính sách trong lĩnh vực an toàn thông tin mạng; xây dựng và chỉ đạo thực hiện chương trình quốc gia về an toàn thông tin mạng; tổ chức lập phương án phát triển hạ tầng bảo đảm an toàn thông tin mạng trong quy hoạch hạ tầng thông tin và truyền thông, quy hoạch khác có liên quan theo quy định của pháp luật về quy hoạch.
+
+### 030010000000000070000510000000000000000000402587000580000700
+
+Điều 3.1.NĐ.1.7. Thanh tra, kiểm tra 1. Ban Cơ yếu Chính phủ chủ trì, phối hợp với các Bộ, ngành, địa phương liên quan thanh tra, kiểm tra hoạt động kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự.
+
+### 030010000000000070000510000000000000000000402587000580000800
+
+Điều 3.1.NĐ.1.8. Xử lý vi phạm các quy định về kinh doanh sản phẩm, dịch vụ mật mã dân sự và sử dụng sản phẩm mật mã dân sự 1. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với một trong các hành vi sau đây:
+
+### 030010000000000070000510000000000000000000402587000580000900
+
+Điều 3.1.NĐ.1.9. Thẩm quyền xử phạt 1. Thanh tra viên cơ yếu đang thi hành công vụ có thẩm quyền:
+
+### 030010000000000070000510000000000000000000402587000580001000
+
+Điều 3.1.NĐ.1.10. Thẩm quyền lập biên bản vi phạm hành chính Các chức danh nêu tại Điều 9 Nghị định này, cán bộ đang thi hành công vụ trong lĩnh vực mật mã dân sự có quyền lập biên bản vi phạm hành chính theo quy định.
+
+### 030010000000000070000510000000000000000000402587000850002400
+
+Điều 3.1.NĐ.2.24. Kinh phí bảo đảm an toàn thông tin 1. Kinh phí thực hiện yêu cầu về an toàn thông tin theo cấp độ trong hoạt động của cơ quan, tổ chức nhà nước do ngân sách nhà nước bảo đảm.
+
+### 03001000000000007000051000000000000000000040258700085000240000802676401210000300
+
+Điều 3.1.TT.7.3. Nguồn kinh phí 1. Ngân sách nhà nước.
+
+### 03001000000000007000051000000000000000000040258700085000240000802676401210000400
+
+Điều 3.1.TT.7.4. Nguyên tắc quản lý, sử dụng kinh phí 1. Đối với kinh phí ngân sách nhà nước:
+
+### 03001000000000007000051000000000000000000040258700085000240000802676401210000500
+
+Điều 3.1.TT.7.5. Nội dung chi Nội dung chi của ngân sách trung ương, ngân sách địa phương, doanh nghiệp theo quy định tại khoản 2 Điều 17 Quyết định số 05/2017/QĐ-TTg; khoản 1 và khoản 3 Điều 24 Nghị định số 85/2016/NĐ-CP.
+
+### 03001000000000007000051000000000000000000040258700085000240000802676401210000600
+
+Điều 3.1.TT.7.6. Mức chi Các Bộ, cơ quan trung ương, địa phương, cơ quan, đơn vị sử dụng kinh phí ngân sách nhà nước cho công tác ứng cứu sự cố, bảo đảm an toàn thông tin mạng phải thực hiện đúng định mức, chế độ chi tiêu tài chính hiện hành do cơ quan Nhà nước có thẩm quyền ban hành.
+
+### 03001000000000007000051000000000000000000040258700085000240000802676401210000700
+
+Điều 3.1.TT.7.7. Lập dự toán, phân bổ dự toán, sử dụng và quyết toán Việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ứng cứu sự cố, bảo đảm an toàn thông tin mạng thực hiện theo quy định tại Luật Ngân sách nhà nước, Luật Kế toán và các văn bản hướng dẫn. Ngoài ra, Thông tư này hướng dẫn một số nội dung cụ thể sau:
+
+### 030010000000000070000510000000000000000000802665100180000600
+
+Điều 3.1.TT.5.6. Quản lý tài sản công nghệ thông tin 1. Các loại tài sản công nghệ thông tin bao gồm:
+
+### 030010000000000070000510000000000000000000802665100180000700
+
+Điều 3.1.TT.5.7. Quản lý tài sản thông tin 1. Với mỗi hệ thống thông tin phải lập danh sách tài sản thông tin, quy định về thẩm quyền, trách nhiệm của cá nhân hoặc bộ phận của tổ chức được tiếp cận, khai thác và quản lý.
+
+### 030010000000000070000510000000000000000000802665100180000800
+
+Điều 3.1.TT.5.8. Quản lý tài sản vật lý 1. Với mỗi hệ thống thông tin do tổ chức trực tiếp quản lý phải lập danh sách tài sản vật lý gồm các thông tin cơ bản sau: tên tài sản, giá trị, vị trí lắp đặt, chủ thể quản lý, mục đích sử dụng, tình trạng sử dụng, hệ thống thông tin tương ứng.
+
+### 030010000000000070000510000000000000000000802665100180000900
+
+Điều 3.1.TT.5.9. Quản lý tài sản phần mềm 1. Với mỗi hệ thống thông tin phải lập danh sách tài sản phần mềm với các thông tin cơ bản gồm: tên tài sản, giá trị, mục đích sử dụng, phạm vi sử dụng, chủ thể quản lý, thông tin về bản quyền, phiên bản, hệ thống thông tin tương ứng.
+
+### 030010000000000070000510000000000000000000802665100180001000
+
+Điều 3.1.TT.5.10. Quản lý sử dụng thiết bị di động 1.Các thiết bị di động khi kết nối vào hệ thống mạng nội bộ của tổ chức phải được đăng ký để kiểm soát.
+
+### 030010000000000070000510000000000000000000802665100180001100
+
+Điều 3.1.TT.5.11. Quản lý sử dụng vật mang tin 1. Kiểm soát việc đấu nối, gỡ bỏ vật mang tin với thiết bị thuộc hệ thống thông tin.
+
+### 0300100000000000700005200000000000000000
+
+Điều 3.1.LQ.52. Trách nhiệm quản lý nhà nước về an toàn thông tin mạng 1. Chính phủ thống nhất quản lý nhà nước về an toàn thông tin mạng.
+
+### 030010000000000070000520000000000000000000802637200310001200
+
+Điều 3.1.TT.4.12. Cục An toàn thông tin 1. Quản lý và vận hành Hệ thống xử lý tấn công mạng Internet Việt Nam để thực hiện hoạt động giám sát trung tâm.
+
+### 030010000000000070000520000000000000000000802637200310001300
+
+Điều 3.1.TT.4.13. Trung tâm VNCERT 1. Quản lý và vận hành Hệ thống giám sát các sự cố an toàn mạng để thực hiện hoạt động giám sát trung tâm.
+
+### 030010000000000070000520000000000000000000802637200310001400
+
+Điều 3.1.TT.4.14. Chủ quản các hệ thống thông tin 1. Chỉ đạo thực hiện giám sát đối với các hệ thống thông tin thuộc phạm vi quản lý, phối hợp với đơn vị chức năng của Bộ Thông tin và Truyền thông thực hiện giám sát theo quy định.
+
+### 03001000000000008000
+
+Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+### 0300100000000000800005300000000000000000
+
+Điều 3.1.LQ.53. Hiệu lực thi hành Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
+### 0300100000000000800005400000000000000000
+
+Điều 3.1.LQ.54. Quy định chi tiết Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.
+
+### 0300100000000000800005440258700058000110
+
+Điều 3.1.NĐ.1.11. Điều Khoản chuyển tiếp 1. Doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự đã được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự theo quy định tại Nghị định số 73/2007/NĐ-CP ngày 08 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước mà vẫn còn thời hạn thì không phải làm lại thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự. 30 ngày trước khi giấy phép hết hạn, doanh nghiệp phải làm thủ tục xin cấp phép theo Nghị định này.
+
+### 0300100000000000800005440258700058000120
+
+Điều 3.1.NĐ.1.12. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016 và thay thế Nghị định số 73/2007/NĐ-CP ngày 08 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
+### 0300100000000000800005440258700058000130
+
+Điều 3.1.NĐ.1.13. Trách nhiệm thi hành Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
+
+### 0300100000000000800005440258700058000140
+
+Điều 3.1.NĐ.1.14. Điều Khoản chuyển tiếp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp cho doanh nghiệp tiếp tục có hiệu lực theo thời hạn ghi trên Giấy phép đối với sản phẩm mật mã dân sự mà tên gọi phù hợp với Danh Mục hàng hóa xuất khẩu, nhập khẩu Việt Nam. Cơ quan Hải quan căn cứ vào Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp và thực tế hàng hóa xuất khẩu, nhập khẩu để xác định mã số HS và giải quyết thủ tục thông quan cho doanh nghiệp.
+
+### 0300100000000000800005440258700058000150
+
+Điều 3.1.NĐ.1.15. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 16 tháng 4 năm 2018.
+
+### 0300100000000000800005440258700058000160
+
+Điều 3.1.NĐ.1.16. Trách nhiệm thi hành Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
+
+### 0300100000000000800005440258700085000250
+
+Điều 3.1.NĐ.2.25. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
+### 0300100000000000800005440258700085000260
+
+Điều 3.1.NĐ.2.26. Tổ chức thực hiện 1. Bộ Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị định này.
+
+### 0300100000000000800005440258700108000120
+
+Điều 3.1.NĐ.3.12. Điều khoản chuyển tiếp 1. Doanh nghiệp đang kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này cần hoàn tất hồ sơ, thủ tục để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng tối đa 06 tháng kể từ ngày Nghị định này có hiệu lực.
+
+### 0300100000000000800005440258700108000130
+
+Điều 3.1.NĐ.3.13. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
+### 0300100000000000800005440258700108000140
+
+Điều 3.1.NĐ.3.14. Trách nhiệm thi hành 1. Bộ trưởng Bộ Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra việc thi hành Nghị định này.
+
+### 0300100000000000800005440259750142000290
+
+Điều 3.1.NĐ.4.29. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2016.
+
+### 0300100000000000800005440259750142000300
+
+Điều 3.1.NĐ.4.30. Trách nhiệm thi hành Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, cơ quan, tổ chức và cá nhân Việt Nam; tổ chức, cá nhân nước ngoài và tổ chức quốc tế tại Việt Nam; doanh nghiệp cung cấp dịch vụ viễn thông, Internet có liên quan chịu trách nhiệm thi hành Nghị định này.
+
+### 0300100000000000800005450261280005000180
+
+Điều 3.1.QĐ.1.18. Hiệu lực thi hành Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+### 0300100000000000800005450261280005000190
+
+Điều 3.1.QĐ.1.19. Tổ chức thực hiện Bộ, cơ quan ngang bộ, cơ quan trung ương, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức liên quan triển khai thực hiện Quyết định này.
+
+### 0300100000000000800005480256310166000070
+
+Điều 3.1.TT.1.7. Tổ chức thực hiện 1. Bộ Thông tin và Truyền thông chủ trì biên soạn chương trình, giáo trình đào tạo cho phù hợp với yêu cầu đào tạo của các khóa đào tạo ngắn hạn; tổ chức lựa chọn các đơn vị đào tạo có năng lực để triển khai các khóa đào tạo ngắn hạn về kỹ thuật ATANTT cho đội ngũ cán bộ công nghệ thông tin và ATANTT kỹ thuật cao trong các đơn vị chuyên trách về công nghệ thông tin thuộc các Bộ, cơ quan Trung ương và các địa phương; đào tạo kiến thức ATANTT cho đội ngũ cán bộ lãnh đạo và cán bộ chủ chốt của các Bộ, ngành, địa phương; đào tạo theo chứng chỉ quốc tế về ATANTT.
+
+### 0300100000000000800005480256310166000080
+
+Điều 3.1.TT.1.8. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016.
+
+### 0300100000000000800005480261670003650190
+
+Điều 3.1.TT.2.19. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2017.
+
+### 0300100000000000800005480263080020000140
+
+Điều 3.1.TT.3.14. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2017 và bãi bỏ Thông tư số 27/2011/TT-BTTTT ngày 04 tháng 10 năm 2011 của Bộ Thông tin và Truyền thông quy định về điều phối các hoạt động ứng cứu sự cố mạng Internet Việt Nam.
+
+### 0300100000000000800005480263720031000150
+
+Điều 3.1.TT.4.15. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2018.
+
+### 0300100000000000800005480266510018000540
+
+Điều 3.1.TT.5.54. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước 1. Cục Công nghệ thông tin có trách nhiệm:
+
+### 0300100000000000800005480266510018000550
+
+Điều 3.1.TT.5.55. Hiệu lực thi hành và tổ chức thực hiện 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2019 trừ trường hợp quy định tại khoản 2 Điều này và thay thế Thông tư 31/2015/TT-NHNN ngày 28 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước ban hành Quy định về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng và Quyết định 29/2008/QĐ-NHNN ngày 13 tháng 10 năm 2008 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy định về bảo trì hệ thống trang thiết bị tin học trong ngành Ngân hàng.
+
+### 0300100000000000800005480267060013000110
+
+Điều 3.1.TT.6.11. Điều khoản chuyển tiếp Doanh nghiệp chưa phải nộp Giấy chứng nhận hoặc công bố hợp chuẩn, hợp quy tại khoản 3 Điều 7 khi nộp hồ sơ đề nghị cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng cho đến khi Bộ Thông tin và Truyền thông ban hành danh mục tiêu chuẩn hoặc quy chuẩn kỹ thuật quốc gia về sản phẩm an toàn thông tin mạng.
+
+### 0300100000000000800005480267060013000120
+
+Điều 3.1.TT.6.12. Điều khoản thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2018.
+
+### 0300100000000000800005480267640121000080
+
+Điều 3.1.TT.7.8. Điều khoản thi hành 1. Thông tư có hiệu lực thi hành từ ngày 01 tháng 02 năm 2019.
+
+### 0300100000000000800005480279730023000020
+
+Điều 3.1.TT.8.2. Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2022.
+
+### 0300100000000000800005480279730023000030
+
+Điều 3.1.TT.8.3. Trưởng ban Ban Cơ yếu Chính phủ, Thủ trưởng các cơ quan, đơn vị và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+

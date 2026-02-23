@@ -1,1128 +1,1619 @@
 ---
-layout: default
+layout: page
 title: Kiểm soát thủ tục hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/kiem-soat-thu-tuc-hanh-chinh/
-collection: subtopics
-slug: kiem-soat-thu-tuc-hanh-chinh
-parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Kiểm soát thủ tục hành chính
 
-**Đề mục:** Kiểm soát thủ tục hành chính  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-**Số điều khoản:** 94  
-**Điều khoản có nội dung:** 49/84 (58.3%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 44.5.NĐ.1. Phạm vi điều chỉnh
+(Chương này có nội dung liên quan đến Điều 44.5.NĐ.1. Phạm vi điều chỉnh của Nghị định 63/2010/NĐ-CP Về kiểm soát thủ tục hành chính ban hành ngày 08/06/2010)
 
-*Nội dung chưa có sẵn*
+Điều 44.5.NĐ.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Nghị định số 63/2010/NĐ-CP Về kiểm soát thủ tục hành chính ngày 08/06/2010 của Chính phủ, có hiệu lực thi hành kể từ ngày 14/10/2010 )
 
-**Mã phân cấp:** 4400500000000000100000100000000000000000
+1. Nghị định này quy định về kiểm soát việc quy định, thực hiện, rà soát, đánh giá thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
-**ID:** dk_00071626
+2. Nghị định này không điều chỉnh:
 
----
+a) Thủ tục hành chính trong nội bộ của từng cơ quan hành chính nhà nước, giữa cơ quan hành chính nhà nước với nhau không liên quan đến việc giải quyết thủ tục hành chính cho cá nhân, tổ chức; 
 
+b) Thủ tục xử lý vi phạm hành chính; thủ tục thanh tra và thủ tục hành chính có nội dung bí mật nhà nước. 
 
-### Điều 44.5.NĐ.2. Đối tượng áp dụng
+(Điều này có nội dung liên quan đến Chương I NHỮNG QUY ĐỊNH CHUNG)
 
-*Nội dung chưa có sẵn*
+Điều 44.5.NĐ.2. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+(Điều 2 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000100000200000000000000000
+Nghị định này áp dụng đối với cơ quan hành chính nhà nước, người có thẩm quyền, tổ chức, cá nhân trong hoạt động kiểm soát thủ tục hành chính.
 
-**ID:** dk_00071627
+Điều 44.5.TT.1.1. Đối tượng và phạm vi áp dụng
 
----
+(Điều 1 Thông tư số 167/2012/TT-BTC Quy định việc lập dự toán, quản lý và sử dụng kinh phí thực hiện các hoạt động kiểm soát thủ tục hành chính ngày 10/10/2012 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/12/2012 )
 
+1. Đối tượng:
 
-### Điều 44.5.TT.1.1. Đối tượng và phạm vi áp dụng
+a) Cơ quan kiểm soát thủ tục hành chính.
 
-*Nội dung chưa có sẵn*
+b) Hội đồng tư vấn cải cách thủ tục hành chính.
 
-**Chỉ mục:** 1
+c) Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các cấp và các cơ quan, đơn vị thuộc Ủy ban nhân dân các cấp khi thực hiện kiểm soát thủ tục hành chính.
 
-**Mã phân cấp:** 4400500000000000100000280245100167000010
+2. Phạm vi:
 
-**ID:** dk_00071628
+a) Các quy định tại Thông tư này được áp dụng đối với các hoạt động kiểm soát việc quy định, thực hiện, rà soát, đánh giá thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
----
+b) Thông tư này không bao gồm:
 
+- Hoạt động kiểm soát thủ tục hành chính trong nội bộ của từng cơ quan hành chính nhà nước, giữa cơ quan hành chính nhà nước với nhau không liên quan đến việc giải quyết thủ tục hành chính cho cá nhân, tổ chức;
 
-### Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
+- Hoạt động kiểm soát thủ tục xử lý vi phạm hành chính; thủ tục thanh tra và thủ tục hành chính có nội dung bí mật nhà nước.
 
 Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 18/2018/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý của Bộ Công Thương ngày 19/07/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 03/09/2018 )
 
-**Mã phân cấp:** 4400500000000000100000280266180018000010
+1. Thông tư này quy định về hoạt động kiểm soát thủ tục hành chính trong các lĩnh vực thuộc phạm vi chức năng quản lý của Bộ Công Thương (sau đây gọi là lĩnh vực Công Thương), bao gồm: kiểm soát việc ban hành thủ tục hành chính; kiểm soát việc thực hiện thủ tục hành chính; xử lý, phản ánh kiến nghị về quy định hành chính trong lĩnh vực Công Thương; rà soát, đánh giá thủ tục hành chính trong lĩnh vực Công Thương.
 
-**ID:** dk_00071629
+2. Thông tư này áp dụng đối với các đơn vị thuộc Bộ; tổ chức, cá nhân thực hiện thủ tục hành chính trong lĩnh vực Công Thương và các tổ chức, cá nhân khác có liên quan.
 
----
+Điều 44.5.NĐ.3. Giải thích từ ngữ
 
+(Điều 3 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-### Điều 44.5.NĐ.3. Giải thích từ ngữ
+Trong Nghị định này, các từ ngữ  dưới đây được hiểu như sau: 
 
-*Nội dung chưa có sẵn*
+1. "Thủ tục hành chính” là trình tự, cách thức thực hiện, hồ sơ và yêu cầu, điều kiện do cơ quan nhà nước, người có thẩm quyền quy định để giải quyết một công việc cụ thể liên quan đến cá nhân, tổ chức. 
 
-**Chỉ mục:** 3
+2. “Trình tự thực hiện” là thứ tự các bước tiến hành của đối tượng và cơ quan thực hiện thủ tục hành chính trong giải quyết một công việc cụ thể cho cá nhân, tổ chức.
 
-**Mã phân cấp:** 4400500000000000100000300000000000000000
+3. “Hồ sơ” là những loại giấy tờ mà đối tượng thực hiện thủ tục hành chính cần phải nộp hoặc xuất trình cho cơ quan, tổ chức có thẩm quyền giải quyết thủ tục hành chính trước khi cơ quan thực hiện thủ tục hành chính giải quyết một công việc cụ thể cho cá nhân, tổ chức.
 
-**ID:** dk_00071630
+4. "Yêu cầu, điều kiện" là những đòi hỏi mà đối tượng thực hiện thủ tục hành chính phải đáp ứng hoặc phải làm khi thực hiện một thủ tục hành chính cụ thể. 
 
----
+5. “Kiểm soát thủ tục hành chính” là việc xem xét, đánh giá, theo dõi nhằm bảo đảm tính khả thi của quy định về thủ tục hành chính, đáp ứng yêu cầu công khai, minh bạch trong quá trình tổ chức thực hiện thủ tục hành chính.  
 
+6. “Cơ sở dữ liệu quốc gia về thủ tục hành chính”  là tập hợp thông tin về thủ tục hành chính và các văn bản quy phạm pháp luật có quy định về thủ tục hành chính được xây dựng, cập nhật và duy trì trên Trang thông tin điện tử về thủ tục hành chính của Chính phủ nhằm đáp ứng yêu cầu công khai, minh bạch trong quản lý hành chính nhà nước, tạo thuận lợi cho tổ chức, cá nhân truy nhập và sử dụng thông tin chính thức về thủ tục hành chính.
 
-### Điều 44.5.NĐ.4. Nguyên tắc kiểm soát thủ tục hành chính
+(Điều này có nội dung liên quan đến Điều 44.5.TT.9.11. Thẩm quyền công bố thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015)
 
 Điều 44.5.NĐ.4. Nguyên tắc kiểm soát thủ tục hành chính
 
-**Chỉ mục:** 4
+(Điều 4 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000100000400000000000000000
+1. Kiểm soát thủ tục hành chính phải bảo đảm thực hiện có hiệu quả mục tiêu cải cách thủ tục hành chính, cải cách hành chính; bảo đảm điều phối, huy động sự tham gia tích cực, rộng rãi của tất cả các cơ quan, tổ chức, cá nhân vào quá trình kiểm soát thủ tục hành chính.
 
-**ID:** dk_00071631
+2. Kịp thời phát hiện để loại bỏ hoặc chỉnh sửa thủ tục hành chính không phù hợp, phức tạp, phiền hà; bổ sung thủ tục hành chính cần thiết, đáp ứng nhu cầu thực tế; bảo đảm quy định thủ tục hành chính đơn giản, dễ hiểu, dễ thực hiện, tiết kiệm thời gian, chi phí, công sức của đối tượng và cơ quan thực hiện thủ tục hành chính.
 
----
+3. Kiểm soát thủ tục hành chính được thực hiện ngay từ khi đề nghị xây dựng văn bản quy phạm pháp luật và được tiến hành thường xuyên, liên tục trong quá trình tổ chức thực hiện thủ tục hành chính.
 
-
-### Điều 44.5.NĐ.5. Cơ quan, đơn vị  kiểm soát thủ tục hành chính
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.2. Nguyên tắc kiểm soát thủ tục hành chính trong lĩnh vực Công Thương của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 44.5.TT.7.2. Nguyên tắc kiểm soát thủ tục hành chính của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.9.3. Nguyên tắc kiểm soát thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015)
 
 Điều 44.5.NĐ.5. Cơ quan, đơn vị  kiểm soát thủ tục hành chính
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013; Điều 4 Nghị định số 150/2016/NĐ-CP có hiệu lực thi hành kể từ ngày 15/12/2016; Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000100000500000000000000000
+1. Văn phòng Chính phủ giúp Chính phủ thống nhất quản lý nhà nước về công tác kiểm soát thủ tục hành chính.
 
-**ID:** dk_00071632
+Cục Kiểm soát thủ tục hành chính thuộc Văn phòng Chính phủ có chức năng tham mưu, giúp Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ thực hiện quản lý nhà nước về công tác kiểm soát thủ tục hành chính.
 
----
+2. Văn phòng Bộ, cơ quan ngang Bộ có chức năng tham mưu, giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ thực hiện quản lý nhà nước về công tác kiểm soát thủ tục hành chính trong phạm vi ngành, lĩnh vực quản lý.
 
+Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng Bộ, cơ quan ngang Bộ có chức năng tham mưu, giúp Chánh Văn phòng Bộ, cơ quan ngang Bộ thực hiện công tác kiểm soát thủ tục hành chính.
 
-### Điều 44.5.TL.1.1. Vị trí và chức năng
+3. Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có chức năng tham mưu, giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện quản lý nhà nước về công tác kiểm soát thủ tục hành chính tại địa phương.
 
-*Nội dung chưa có sẵn*
+Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có chức năng tham mưu, giúp Chánh văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tổ chức thực hiện công tác kiểm soát thủ tục hành chính.
 
-**Chỉ mục:** 1
+4. Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ quy định cụ thể chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Kiểm soát thủ tục hành chính; chủ trì, phối hợp với Bộ trưởng Bộ Nội vụ hướng dẫn về chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức và biên chế của Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng Bộ, cơ quan ngang Bộ và Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
 
-**Mã phân cấp:** 440050000000000010000050000000000000000000802388700010000100
+(Điều này có nội dung liên quan đến Điều 1. Vị trí và chức năng của Quyết định 74/2010/QĐ-TTg Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Cục Kiểm soát thủ tục hành chính trực thuộc Văn phòng Chính phủ ban hành ngày 22/11/2010)
 
-**ID:** dk_00071633
+Điều 44.5.TL.1.1. Vị trí và chức năng
 
----
+(Điều 1 Thông tư liên tịch số 01/2011/TTLT-VPCP-BNV Hướng dẫn về chức năng, nhiệm vụ, quyền hạn, tổ chức và biên chế của bộ phận kiểm soát thủ tục hành chính thuộc Văn phòng Bộ, Cơ quan ngang Bộ và Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ngày 26/01/2011 của Văn phòng Chính phủ và Bộ Nội vụ, có hiệu lực thi hành kể từ ngày 15/03/2011 )
 
+1. Bộ phận kiểm soát thủ tục hành chính trực thuộc Văn phòng Bộ, cơ quan ngang Bộ (trừ Văn phòng Chính phủ) có tên gọi là Phòng kiểm soát thủ tục hành chính, có chức năng giúp Chánh Văn phòng Bộ, cơ quan ngang Bộ trong việc kiểm soát thủ tục hành chính và tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính thuộc phạm vi chức năng quản lý của Bộ, cơ quan ngang Bộ theo quy định tại Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính (sau đây gọi tắt là Nghị định số 63/2010/NĐ-CP) và Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính (sau đây gọi tắt là Nghị định số 20/2008/NĐ-CP).
 
-### Điều 44.5.TL.1.2. Nhiệm vụ và quyền hạn
+2. Phòng Kiểm soát thủ tục hành chính chịu sự lãnh đạo, quản lý về tổ chức, biên chế và hoạt động của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ; sự chỉ đạo trực tiếp của Chánh Văn phòng Bộ, cơ quan ngang Bộ; đồng thời chịu sự chỉ đạo, hướng dẫn, kiểm tra về chuyên môn, nghiệp vụ của Cục kiểm soát thủ tục hành chính.
 
-*Nội dung chưa có sẵn*
+Điều 44.5.TL.1.2. Nhiệm vụ và quyền hạn
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư liên tịch số 01/2011/TTLT-VPCP-BNV, có hiệu lực thi hành kể từ ngày 15/03/2011)
 
-**Mã phân cấp:** 440050000000000010000050000000000000000000802388700010000200
+1. Tham mưu, giúp Chánh Văn phòng Bộ, cơ quan ngang Bộ:
 
-**ID:** dk_00071634
+a) Xây dựng chương trình, kế hoạch hàng năm về kiểm soát thủ tục hành chính của Bộ, cơ quan ngang Bộ, trình Bộ trưởng, Thủ trưởng cơ quan ngang Bộ phê duyệt;
 
----
+b) Kiểm soát quy định về thủ tục hành chính theo quy định tại Chương II của Nghị định số 63/2010/NĐ-CP;
 
+c) Kiểm soát việc thực hiện thủ tục hành chính thuộc phạm vi chức năng quản lý của Bộ, cơ quan ngang Bộ theo quy định tại Chương III của Nghị định số 63/2010/NĐ-CP;
 
-### Điều 44.5.TL.1.3. Về tổ chức và biên chế
+d) Tiếp nhận, nghiên cứu và phân loại các phản ánh, kiến nghị về quy định hành chính thuộc phạm vi quản lý của Bộ, cơ quan ngang Bộ để giao cho các cục, vụ, đơn vị liên quan thuộc Bộ, cơ quan ngang Bộ xử lý theo quy định tại Nghị định số 20/2008/NĐ-CP; đôn đốc, kiểm tra và kịp thời báo cáo Bộ trưởng, Thủ trưởng cơ quan ngang Bộ biện pháp cần thiết để chấn chỉnh kỷ luật, kỷ cương hành chính tại Bộ, cơ quan ngang Bộ trong việc xử lý phản ánh, kiến nghị của cá nhân, tổ chức;
 
-*Nội dung chưa có sẵn*
+đ) Kiểm soát chất lượng và nhập dữ liệu thủ tục hành chính, văn bản liên quan đã được công bố vào Cơ sở dữ liệu quốc gia về thủ tục hành chính; chịu trách nhiệm về tính chính xác, tính pháp lý của thủ tục hành chính và các văn bản quy phạm pháp luật có liên quan đã được công bố, nhập dữ liệu và đăng tải vào Cơ sở dữ liệu quốc gia về thủ tục hành chính; tổ chức thực hiện tạo đường kết nối về các dịch vụ công trực tuyến cung cấp cho cá nhân, tổ chức từ các cổng thông tin điện tử của Bộ, cơ quan ngang Bộ với Cơ sở dữ liệu quốc gia về thủ tục hành chính theo chỉ đạo của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ;
 
-**Chỉ mục:** 3
+e) Tổ chức thực hiện việc rà soát, đánh giá thủ tục hành chính thuộc phạm vi, chức năng quản lý của Bộ, cơ quan ngang Bộ theo quy định của Nghị định số 63/2010/NĐ-CP;
 
-**Mã phân cấp:** 440050000000000010000050000000000000000000802388700010000300
+g) Kiểm tra, tổng hợp, xây dựng báo cáo về tình hình và kết quả thực hiện việc kiểm soát thủ tục hành chính và việc tiếp nhận, xử lý các phản ánh, kiến nghị về quy định hành chính theo định kỳ hoặc đột xuất để trình Bộ trưởng, Thủ trưởng cơ quan ngang Bộ báo cáo Thủ tướng Chính phủ theo quy định tại Điều 35 của Nghị định số 63/2010/NĐ-CP và quy định tại khoản 1 Điều 22 của Nghị định số 20/2008/NĐ-CP;
 
-**ID:** dk_00071635
+h) Tổ chức tập huấn, bồi dưỡng nghiệp vụ cho cán bộ, công chức làm đầu mối thực hiện nhiệm vụ kiểm soát thủ tục hành chính theo hướng dẫn của Cục Kiểm soát thủ tục hành chính;
 
----
+i) Đôn đốc các vụ, cục, đơn vị liên quan thuộc Bộ, cơ quan ngang Bộ thực hiện việc thống kê các thủ tục hành chính mới ban hành, thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế, thủ tục hành chính bị hủy bỏ hoặc bãi bỏ; thực hiện các chương trình, dự án, đề án về kiểm soát thủ tục hành chính do Bộ, cơ quan ngang Bộ hoặc cơ quan nhà nước cấp trên ban hành;
 
+k) Chủ trì, phối hợp với các cơ quan thông tấn báo chí để thông tin, tuyên truyền về hoạt động kiểm soát thủ tục hành chính và kết quả tiếp nhận, xử lý phản ánh kiến nghị về các quy định hành chính;
 
-### Điều 44.5.TL.1.6. Cơ cấu tổ chức và biên chế
+l) Trong quá trình hoạt động tùy theo yêu cầu, nhiệm vụ được giao, trình Bộ trưởng, Thủ trưởng cơ quan ngang Bộ việc huy động cán bộ, công chức của các vụ, cục, đơn vị liên quan thuộc Bộ, cơ quan ngang Bộ để thực hiện nhiệm vụ kiểm soát thủ tục hành chính; trường hợp cần thiết, trình cấp có thẩm quyền ký hợp đồng và sử dụng chuyên gia tư vấn trong và ngoài khu vực nhà nước đến làm việc theo chế độ hợp đồng khoán việc phù hợp với quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+2. Thực hiện các nhiệm vụ:
 
-**Chỉ mục:** 6
+a) Hướng dẫn, kiểm tra việc điền biểu mẫu đánh giá tác động và tính toán chi phí tuân thủ thủ tục hành chính của các đơn vị được phân công chủ trì soạn thảo văn bản quy phạm pháp luật; đánh giá độc lập tác động của thủ tục hành chính quy định trong dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ theo hướng dẫn của Cục Kiểm soát thủ tục hành chính;
 
-**Mã phân cấp:** 440050000000000010000050000000000000000000802388700010000600
+b) Phối hợp với các đơn vị chức năng thuộc Bộ, cơ quan ngang Bộ kiểm tra lần cuối về sự cần thiết, tính hợp pháp, hợp lý của quy định về thủ tục hành chính và việc lấy ý kiến theo quy định tại Nghị định số 63/2010/NĐ-CP đối với các dự án, dự thảo văn bản quy phạm pháp luật có quy định thủ tục hành chính trước khi trình Bộ trưởng, Thủ trưởng cơ quan ngang Bộ xem xét, quyết định;
 
-**ID:** dk_00071636
+c) Tham gia tập huấn nghiệp vụ do Cục Kiểm soát thủ tục hành chính tổ chức;
 
----
+d) Trong quá trình kiểm tra, tổng hợp tình hình và kết quả thực hiện, nếu phát hiện cơ quan, đơn vị, cán bộ, công chức không thực hiện, thực hiện không đúng yêu cầu hoặc vi phạm quy định về kiểm soát thủ tục hành chính, kịp thời kiến nghị cơ quan, người có thẩm quyền áp dụng các hình thức, biện pháp xử lý theo quy định của pháp luật;
 
+đ) Thực hiện nhiệm vụ, quyền hạn khác do Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh Văn phòng Bộ, cơ quan ngang Bộ giao.
 
-### Điều 44.5.NĐ.6. Các hành vi bị nghiêm cấm
+Điều 44.5.TL.1.3. Về tổ chức và biên chế
 
-*Nội dung chưa có sẵn*
+(Điều 3 Thông tư liên tịch số 01/2011/TTLT-VPCP-BNV, có hiệu lực thi hành kể từ ngày 15/03/2011)
 
-**Chỉ mục:** 6
+1. Phòng Kiểm soát thủ tục hành chính có Trưởng phòng và không quá 02 (hai) Phó Trưởng phòng:
 
-**Mã phân cấp:** 4400500000000000100000600000000000000000
+a) Trưởng Phòng Kiểm soát thủ tục hành chính là người đứng đầu Phòng, chịu trách nhiệm trước Chánh Văn phòng Bộ, cơ quan ngang Bộ, trước Bộ trưởng, Thủ trưởng cơ quan ngang Bộ và trước pháp luật về toàn bộ hoạt động của Phòng;
 
-**ID:** dk_00071637
+b) Phó Trưởng phòng là người giúp Trưởng phòng, chịu trách nhiệm trước Trưởng phòng và trước pháp luật về các nhiệm vụ được phân công. Khi Trưởng phòng vắng mặt, một Phó Trưởng phòng được Trưởng phòng ủy quyền điều hành các hoạt động của Phòng;
 
----
+c) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ bổ nhiệm, miễn nhiệm Trưởng phòng, Phó Trưởng phòng Kiểm soát thủ tục hành chính theo đề nghị của Chánh Văn phòng Bộ, cơ quan ngang Bộ hoặc theo quy định về phân cấp quản lý cán bộ của Bộ, cơ quan ngang Bộ.
 
+2. Biên chế:
 
-### Điều 44.5.NĐ.7. Nguyên tắc quy định thủ tục hành chính
+Biên chế hành chính của Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng Bộ, cơ quan ngang Bộ do Bộ trưởng, Thủ trưởng cơ quan ngang Bộ quyết định trong tổng biên chế hành chính được giao theo quy định của pháp luật và theo chỉ đạo của Thủ tướng Chính phủ.
+
+Điều 44.5.TL.1.6. Cơ cấu tổ chức và biên chế
+
+(Điều 6 Thông tư liên tịch số 01/2011/TTLT-VPCP-BNV, có hiệu lực thi hành kể từ ngày 15/03/2011)
+
+1. Phòng Kiểm soát thủ tục hành chính có Trưởng phòng và không quá 02 (hai) Phó Trưởng phòng; riêng thành phố Hà Nội và thành phố Hồ Chí Minh không quá 03 (ba) Phó Trưởng phòng;
+
+a) Trưởng phòng Kiểm soát thủ tục hành chính là người đứng đầu phòng, chịu trách nhiệm trước Chánh Văn phòng Ủy ban nhân dân cấp tỉnh và trước pháp luật về toàn bộ hoạt động của Phòng;
+
+b) Các Phó Trưởng phòng là người giúp Trưởng phòng, chịu trách nhiệm trước Trưởng phòng và trước pháp luật về nhiệm vụ được phân công; khi Trưởng phòng vắng mặt, một Phó Trưởng phòng được Trưởng phòng ủy quyền điều hành các hoạt động của Phòng;
+
+c) Việc bổ nhiệm, miễn nhiệm Trưởng phòng, Phó Trưởng phòng Kiểm soát thủ tục hành chính hành chính thực hiện theo quy định của pháp luật hoặc theo quy định về phân cấp quản lý cán bộ.
+
+2. Biên chế:
+
+Biên chế hành chính của Phòng Kiểm soát thủ tục hành chính do Ủy ban nhân dân cấp tỉnh quyết định trong tổng số biên chế được giao của Văn phòng Ủy ban nhân dân cấp tỉnh theo quy định của pháp luật và theo chỉ đạo của Thủ tướng Chính phủ.
+
+Điều 44.5.NĐ.6. Các hành vi bị nghiêm cấm
+
+(Điều 6 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
+
+1. Nghiêm cấm cán bộ, công chức được phân công thực hiện thủ tục hành chính thực hiện các hành vi sau đây:
+
+a) Tiết lộ thông tin về hồ sơ tài liệu và các thông tin liên quan đến bí mật kinh doanh, bí mật cá nhân của đối tượng thực hiện thủ tục hành chính mà mình biết được khi thực hiện thủ tục hành chính, trừ trường hợp được đối tượng thực hiện thủ tục hành chính đồng ý bằng văn bản hoặc pháp luật có quy định khác; sử dụng thông tin đó để xâm hại quyền, lợi ích hợp pháp của người khác;
+
+b) Từ chối thực hiện, kéo dài thời gian thực hiện hoặc tự ý yêu cầu bổ sung thêm hồ sơ, giấy tờ ngoài quy định mà không nêu rõ lý do bằng văn bản;
+
+c) Hách dịch, cửa quyền, sách nhiễu, gây phiền hà, gây khó khăn cho đối tượng thực hiện thủ tục hành chính; lợi dụng các quy định, các vướng mắc về thủ tục hành chính để trục lợi; 
+
+d) Nhận tiền hoặc quà biếu dưới bất cứ hình thức nào từ đối tượng thực hiện thủ tục hành chính khi tiếp nhận, giải quyết thủ tục hành chính ngoài phí, lệ phí thực hiện thủ tục hành chính đã được quy định và công bố công khai; 
+
+đ) Đùn đẩy trách nhiệm, thiếu hợp tác, chậm trễ, gây cản trở trong thực hiện nhiệm vụ được giao.
+
+2. Nghiêm cấm đối tượng thực hiện thủ tục hành chính cản trở hoạt động của cơ quan nhà nước, người có thẩm quyền; đưa hối lộ hoặc dùng các thủ đoạn khác để lừa dối cơ quan nhà nước, người có thẩm quyền trong thực hiện thủ tục hành chính.
+
+3. Nghiêm cấm cơ quan, tổ chức, cá nhân có hành vi cản trở hoạt động kiểm soát thủ tục hành chính.
+
+Chương II
+
+QUY ĐỊNH THỦ TỤC HÀNH CHÍNH 
 
 Điều 44.5.NĐ.7. Nguyên tắc quy định thủ tục hành chính
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000200000700000000000000000
+Thủ tục hành chính được quy định phải bảo đảm các nguyên tắc sau:
 
-**ID:** dk_00071639
+1. Đơn giản, dễ hiểu và dễ thực hiện.
 
----
+2. Phù hợp với mục tiêu quản lý hành chính nhà nước.
 
+3. Bảo đảm quyền bình đẳng của các đối tượng thực hiện thủ tục hành chính.
 
-### Điều 44.5.NĐ.8. Yêu cầu của việc quy định thủ tục hành chính
+4. Tiết kiệm thời gian và chi phí của cá nhân, tổ chức và cơ quan hành chính nhà nước.
+
+5. Đảm bảo tính hợp hiến, hợp pháp, thống nhất, đồng bộ, hiệu quả của các quy định về thủ tục hành chính; thủ tục hành chính phải được cơ quan nhà nước có thẩm quyền quy định trên cơ sở bảo đảm tính liên thông giữa các thủ tục hành chính liên quan, thực hiện phân công, phân cấp rõ ràng, minh bạch, hợp lý; dự án, dự thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính thuộc thẩm quyền của cơ quan nào, cơ quan đó phải có trách nhiệm hoàn chỉnh.  
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.9.8. Tham gia ý kiến đối với quy định về thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật; Điều 44.5.NĐ.28. Nội dung rà soát, đánh giá; Điều 44.5.TT.6.45. Thủ tục hành chính, kiểm soát thủ tục hành chính)
 
 Điều 44.5.NĐ.8. Yêu cầu của việc quy định thủ tục hành chính
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000200000800000000000000000
+1. Thủ tục hành chính phải được quy định trong văn bản quy phạm pháp luật theo đúng thẩm quyền được quy định tại Luật ban hành văn bản quy phạm pháp luật.
 
-**ID:** dk_00071640
+2. Việc quy định một thủ tục hành chính chỉ hoàn thành khi đáp ứng đầy đủ các bộ phận tạo thành cơ bản sau đây:
 
----
+a) Tên thủ tục hành chính;
 
+b) Trình tự thực hiện;
 
-### Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật
+c) Cách thức thực hiện;
+
+d) Thành phần, số lượng hồ sơ;
+
+đ) Thời hạn giải quyết;
+
+e) Đối tượng thực hiện thủ tục hành chính;
+
+g) Cơ quan giải quyết thủ tục hành chính;
+
+h) Trường hợp thủ tục hành chính phải có mẫu đơn, mẫu tờ khai hành chính; kết quả thực hiện thủ tục hành chính; yêu cầu, điều kiện; phí, lệ phí thì mẫu đơn, mẫu tờ khai hành chính; kết quả thực hiện thủ tục hành chính; yêu cầu, điều kiện; phí, lệ phí là bộ phận tạo thành của thủ tục hành chính.
+
+3. Khi được luật giao quy định về thủ tục hành chính, cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật có trách nhiệm quy định đầy đủ, rõ ràng, chi tiết, cụ thể về các bộ phận tạo thành của thủ tục hành chính theo quy định tại khoản 2 Điều này
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.2.3. Hình thức và nội dung Quyết định công bố thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 44.5.TT.9.8. Tham gia ý kiến đối với quy định về thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật; Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính; Điều 44.5.TT.6.45. Thủ tục hành chính, kiểm soát thủ tục hành chính)
 
 Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013; Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000200000900000000000000000
+. Ngoài việc tham gia góp ý kiến về nội dung đề nghị xây dựng văn bản quy phạm pháp luật và dự án, dự thảo văn bản quy phạm pháp luật theo quy định của pháp luật về ban hành văn bản quy phạm pháp luật, cơ quan sau đây có trách nhiệm cho ý kiến về nội dung quy định thủ tục hành chính tại đề nghị xây dựng văn bản quy phạm pháp luật và dự án, dự thảo văn bản quy phạm pháp luật:
 
-**ID:** dk_00071641
+a) Văn phòng Chính phủ cho ý kiến về thủ tục hành chính quy định trong đề nghị xây dựng văn bản quy phạm pháp luật và dự án văn bản quy phạm pháp luật do Chính phủ trình Quốc hội, Ủy ban thường vụ Quốc hội, đề nghị xây dựng văn bản quy phạm pháp luật và dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Chính phủ, Thủ tướng Chính phủ;
 
----
+b) Văn phòng Bộ, cơ quan ngang Bộ cho ý kiến về thủ tục hành chính quy định trong đề nghị xây dựng văn bản quy phạm pháp luật và dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ;
 
+c) Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương cho ý kiến về thủ tục hành chính quy định trong đề nghị xây dựng văn bản quy phạm pháp luật và dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
 
-### Điều 44.5.NĐ.10. Đánh giá tác động của thủ tục hành chính
+2. Nội dung cho ý kiến về quy định thủ tục hành chính chủ yếu xem xét các vấn đề được quy định tại Điều 7 và Điều 8 của Nghị định này.
 
-Điều 44.5.NĐ.10. Đánh giá tác động của thủ tục hành chính
+Trong trường hợp cần thiết, các cơ quan quy định tại các điểm a, b và c Khoản 1 Điều này tổ chức lấy ý kiến cơ quan, tổ chức có liên quan và đối tượng chịu sự tác động của quy định về thủ tục hành chính thông qua tham vấn, hội nghị, hội thảo hoặc biểu mẫu lấy ý kiến do Văn phòng Chính phủ25 ban hành và đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính để tổng hợp ý kiến gửi cơ quan chủ trì soạn thảo.
 
-**Chỉ mục:** 10
+3. Cơ quan chủ trì soạn thảo có trách nhiệm nghiên cứu, tiếp thu, giải trình ý kiến góp ý của cơ quan tham gia ý kiến quy định tại Khoản 1 Điều này.
 
-**Mã phân cấp:** 4400500000000000200001000000000000000000
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 15. Lấy ý kiến đối với quy định về thủ tục hành chính của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 19. Tổ chức lấy ý kiến trong quá trình xây dựng dự thảo văn bản quy phạm pháp luật; Điều 28. Tổ chức lấy ý kiến của Thông tư 46/2014/TT-BTNMT Quy định về xây dựng, ban hành văn bản quy phạm pháp luật 
+thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường ban hành ngày 01/08/2014; Điều 44.5.TT.5.18. Kiểm tra việc thực hiện đánh giá tác động của thủ tục hành chính và việc tiếp thu, giải trình nội dung tham gia ý kiến về quy định thủ tục hành chính của cơ quan chủ trì soạn thảo; Điều 44.5.TT.5.19. Kiểm tra việc tham gia ý kiến và thẩm định đối với quy định thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật của Tổ chức pháp chế, Sở Tư pháp của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.NĐ.7. Nguyên tắc quy định thủ tục hành chính; Điều 44.5.NĐ.8. Yêu cầu của việc quy định thủ tục hành chính; Điều 44.5.NĐ.11. Thẩm định quy định về thủ tục hành chính; Điều 44.5.NĐ.22. Phản ánh, kiến nghị về thủ tục hành chính trong quá trình thực hiện)Điều 44.5.NĐ.10. Đánh giá tác động của thủ tục hành chính
 
-**ID:** dk_00071642
+(Điều 10 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013; Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
----
+Việc thực hiện đánh giá tác động của thủ tục hành chính trong đề nghị xây dựng văn bản quy phạm pháp luật và dự án, dự thảo văn bản quy phạm pháp luật được thực hiện theo quy định của Luật ban hành văn bản quy phạm pháp luật, Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật và hướng dẫn của Bộ Tư pháp.
 
+(Điều này có nội dung liên quan đến Điều 44.5.TT.3.1. Phạm vi áp dụng của Thông tư 07/2014/TT-BTP Hướng dẫn việc đánh giá tác động của thủ tục hành chính và rà soát, đánh giá thủ tục hành chính ban hành ngày 24/02/2014; Điều 44.5.TT.5.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 16. Đánh giá tác động của văn bản quy phạm pháp luật của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 4. Đánh giá tác động của văn bản, đánh giá tác động của thủ tục hành chính; Điều 17. Tổ biên tập; Điều 18. Trách nhiệm của đơn vị chủ trì soạn thảo của Thông tư 46/2014/TT-BTNMT Quy định về xây dựng, ban hành văn bản quy phạm pháp luật 
+thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường ban hành ngày 01/08/2014; Điều 44.5.TT.7.4. Đánh giá tác động của thủ tục hành chính của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.18. Kiểm tra việc thực hiện đánh giá tác động của thủ tục hành chính và việc tiếp thu, giải trình nội dung tham gia ý kiến về quy định thủ tục hành chính của cơ quan chủ trì soạn thảo của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 97. Nhiệm vụ của cơ quan chủ trì soạn thảo quyết định của Thủ tướng Chính phủ; Điều 128. Soạn thảo quyết định của Ủy ban nhân dân cấp tỉnh; Điều 44.5.NĐ.11. Thẩm định quy định về thủ tục hành chính)Điều 44.5.NĐ.11. Thẩm định quy định về thủ tục hành chính
 
-### Điều 44.5.NĐ.11. Thẩm định quy định về thủ tục hành chính
+(Điều 11 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013; Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-Điều 44.5.NĐ.11. Thẩm định quy định về thủ tục hành chính
+1. Ngoài việc thẩm định nội dung dự án, dự thảo văn bản quy phạm pháp luật, cơ quan thẩm định có trách nhiệm thẩm định quy định về thủ tục hành chính và thể hiện nội dung này trong Báo cáo thẩm định.
 
-**Chỉ mục:** 11
+2. Nội dung thẩm định thủ tục hành chính chủ yếu xem xét các tiêu chí quy định tại Điều 10 của Nghị định này.
 
-**Mã phân cấp:** 4400500000000000200001100000000000000000
+3. Ngoài thành phần hồ sơ gửi thẩm định theo quy định của pháp luật về ban hành văn bản quy phạm pháp luật, cơ quan gửi thẩm định phải có bản đánh giá tác động về thủ tục hành chính theo quy định tại Điều 10 của Nghị định này.
 
-**ID:** dk_00071643
+Cơ quan thẩm định không tiếp nhận hồ sơ gửi thẩm định nếu dự án, dự thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính chưa có bản đánh giá tác động về thủ tục hành chính và ý kiến góp ý của cơ quan cho ý kiến quy định tại Khoản 1 Điều 9 của Nghị định này.
 
----
+(Điều này có nội dung liên quan đến Điều 44.5.TT.3.4. Trách nhiệm của các cơ quan trong việc đánh giá tác động của thủ tục hành chính của Thông tư 07/2014/TT-BTP Hướng dẫn việc đánh giá tác động của thủ tục hành chính và rà soát, đánh giá thủ tục hành chính ban hành ngày 24/02/2014; Điều 44.5.TT.5.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 17. Hồ sơ đề nghị thẩm định văn bản quy phạm pháp luật về y tế của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 22. Gửi hồ sơ dự thảo văn bản quy phạm pháp luật đề nghị Bộ Tư pháp thẩm định; Điều 30. Tổ chức thẩm định, thẩm tra dự thảo thông tư của Thông tư 46/2014/TT-BTNMT Quy định về xây dựng, ban hành văn bản quy phạm pháp luật 
+thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường ban hành ngày 01/08/2014; Điều 44.5.TT.7.6. Thẩm định quy định về thủ tục hành chính của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.19. Kiểm tra việc tham gia ý kiến và thẩm định đối với quy định thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật của Tổ chức pháp chế, Sở Tư pháp của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.9. Thẩm định quy định về thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 58. Thẩm định dự án luật, pháp lệnh, dự thảo nghị quyết do Chính phủ trình; Điều 59. Hồ sơ dự án luật, pháp lệnh, dự thảo nghị quyết trình Chính phủ; Điều 92. Thẩm định dự thảo nghị định; Điều 93. Hồ sơ dự thảo nghị định trình Chính phủ; Điều 98. Thẩm định dự thảo quyết định của Thủ tướng Chính phủ; Điều 102. Thẩm định dự thảo thông tư; Điều 103. Hồ sơ dự thảo thông tư trình Bộ trưởng, Thủ trưởng cơ quan ngang bộ; Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật; Điều 44.5.NĐ.10. Đánh giá tác động của thủ tục hành chính)Chương III
 
-
-### Điều 44.5.NĐ.12. Nguyên tắc thực hiện thủ tục hành chính
+THỰC HIỆN THỦ TỤC HÀNH CHÍNH
 
 Điều 44.5.NĐ.12. Nguyên tắc thực hiện thủ tục hành chính
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000300001200000000000000000
+1. Bảo đảm công khai, minh bạch các thủ tục hành chính đang được thực hiện. 
 
-**ID:** dk_00071645
+2. Bảo đảm khách quan, công bằng trong thực hiện thủ tục hành chính.
 
----
+3. Bảo đảm tính liên thông, kịp thời, chính xác, không gây phiền hà trong thực hiện thủ tục hành chính.
 
+4. Bảo đảm quyền được phản ánh, kiến nghị của các cá nhân, tổ chức đối với các thủ tục hành chính.
 
-### Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính
+5. Đề cao trách nhiệm của cán bộ, công chức trong giải quyết công việc cho cá nhân, tổ chức.
+
+(Điều này có nội dung liên quan đến Điều 44.5.NĐ.28. Nội dung rà soát, đánh giá; Điều 9.2.NĐ.5. Nguyên tắc đăng ký, cung cấp thông tin)
 
 Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000300001300000000000000000
+Để giải quyết công việc cho cá nhân, tổ chức, thủ tục hành chính phải được công bố dưới hình thức quyết định theo quy định sau đây:
 
-**ID:** dk_00071646
+1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ công bố thủ tục hành chính được quy định trong văn bản quy phạm pháp luật về ngành, lĩnh vực thuộc phạm vi chức năng quản lý của Bộ, cơ quan ngang Bộ;
 
----
+2. Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương công bố:
 
+a) Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của các cấp chính quyền trên địa bàn tỉnh, thành phố trực thuộc trung ương, trong đó phải xác định rõ tên, căn cứ pháp lý, thời gian, địa điểm thực hiện và phí, lệ phí trong trường hợp được phân cấp hoặc ủy quyền quy định.
 
-### Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính
+b) Thủ tục hành chính được giao quy định hoặc quy định chi tiết trong văn bản quy phạm pháp luật của các cấp chính quyền trên địa bàn tỉnh, thành phố trực thuộc trung ương
 
-Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính
+3. Người đứng đầu cơ quan, đơn vị được cơ quan nhà nước cấp trên giao nhiệm vụ hoặc ủy quyền ban hành văn bản hướng dẫn thực hiện thủ tục giải quyết công việc cho cá nhân, tổ chức công bố thủ tục thuộc thẩm quyền giải quyết của cơ quan, đơn vị.
 
-**Chỉ mục:** 14
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.5. Công bố thủ tục hành chính của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 37. Công bố, niêm yết công khai thủ tục hành chính của Thông tư 46/2014/TT-BTNMT Quy định về xây dựng, ban hành văn bản quy phạm pháp luật 
+thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường ban hành ngày 01/08/2014; Điều 44.5.TT.4.5. Trách nhiệm nhập và đăng tải dữ liệu thủ tục hành chính; Điều 44.5.TT.4.6. Quy trình nhập dữ liệu thủ tục hành chính của Thông tư 19/2014/TT-BTP Quy định về nhập, đăng tải, khai thác dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính ban hành ngày 15/09/2014; Điều 44.5.TT.7.8. Thẩm quyền công bố thủ tục hành chính của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính; Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Điều 44.5.NĐ.23. Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính; Điều 44.5.TT.6.46. Thẩm quyền, phạm vi công bố thủ tục hành chính; Điều 44.5.TT.6.47. Công bố thủ tục hành chính)Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính
 
-**Mã phân cấp:** 4400500000000000300001400000000000000000
+(Điều 14 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**ID:** dk_00071647
+1. Tất cả các thủ tục hành chính sau khi ban hành, sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ phải được công bố công khai. 
 
----
+2. Việc công bố công khai thủ tục hành chính, bao gồm: công bố thủ tục hành chính mới ban hành; công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế và công bố thủ tục hành chính bị hủy bỏ hoặc bãi bỏ.
 
+a) Công bố thủ tục hành chính mới ban hành là việc cung cấp các thông tin về thủ tục hành chính theo quy định tại khoản 1 Điều 15 của Nghị định này;
 
-### Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính
+b) Công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế là việc cung cấp các thông tin liên quan đến việc sửa đổi, bổ sung, thay thế của thủ tục hành chính theo quy định tại khoản 2 Điều 15 của Nghị định này;
 
-Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính
+c) Công bố thủ tục hành chính bị hủy bỏ hoặc bãi bỏ là việc xóa bỏ nội dung thông tin về thủ tục hành chính đã được đưa vào Cơ sở dữ liệu quốc gia về thủ tục hành chính theo quy định khoản 3 Điều 15 của Nghị định này.
 
-**Chỉ mục:** 15
+(Điều này có nội dung liên quan đến Điều 44.5.TT.2.2. Điều kiện, phạm vi công bố thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 44.5.TT.5.5. Công bố thủ tục hành chính của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 37. Công bố, niêm yết công khai thủ tục hành chính của Thông tư 46/2014/TT-BTNMT Quy định về xây dựng, ban hành văn bản quy phạm pháp luật 
+thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường ban hành ngày 01/08/2014; Điều 44.5.TT.7.7. Phạm vi công bố thủ tục hành chính của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.10. Phạm vi công bố thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính; Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Điều 44.5.NĐ.23. Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính; Điều 44.5.TT.6.46. Thẩm quyền, phạm vi công bố thủ tục hành chính; Điều 44.5.TT.6.47. Công bố thủ tục hành chính)Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính
 
-**Mã phân cấp:** 4400500000000000300001500000000000000000
+(Điều 15 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013; Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**ID:** dk_00071648
+Quyết định công bố thủ tục hành chính của các cơ quan quy định tại khoản 1 Điều 13 của Nghị định này phải được ban hành chậm nhất trước 20 ngày tính đến ngày văn bản quy phạm pháp luật có quy định về thủ tục hành chính có hiệu lực thi hành.
 
----
+Quyết định công bố thủ tục hành chính của các cơ quan quy định tại các khoản 2 và 3 Điều 13 của Nghị định này phải được ban hành chậm nhất trước 05 ngày tính đến ngày văn bản quy phạm pháp luật có quy định về thủ tục hành chính có hiệu lực thi hành.
 
+Trường hợp văn bản quy phạm pháp luật được ban hành theo trình tự, thủ tục rút gọn có hiệu lực kể từ ngày thông qua hoặc ký ban hành, quyết định công bố thủ tục hành chính phải được ban hành chậm nhất là sau 03 ngày kể từ ngày công bố hoặc ký ban hành văn bản quy phạm pháp luật có quy định về thủ tục hành chính.
 
-### Điều 44.5.NĐ.16. Công khai thủ tục hành chính
+Nội dung quyết định công bố thủ tục hành chính theo quy định sau đây:
 
-*Nội dung chưa có sẵn*
+1. Đối với quyết định công bố thủ tục hành chính mới ban hành, nội dung quyết định bao gồm:
 
-**Chỉ mục:** 16
+a) Các bộ phận tạo thành thủ tục hành chính quy định tại khoản 2 Điều 8 của Nghị định này;
 
-**Mã phân cấp:** 4400500000000000300001600000000000000000
+b) Văn bản quy phạm pháp luật quy định về thủ tục hành chính
 
-**ID:** dk_00071649
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.5. Công bố thủ tục hành chính của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 44.5.TT.7.8. Thẩm quyền công bố thủ tục hành chính; Điều 44.5.TT.7.9. Hình thức và nội dung Quyết định công bố thủ tục hành chính; Điều 44.5.TT.7.10. Thời hạn ban hành Quyết định công bố thủ tục hành chính; Điều 44.5.TT.7.11. Quy trình phối hợp công bố thủ tục hành chính của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.NĐ.8. Yêu cầu của việc quy định thủ tục hành chính; Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính; Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính; Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Điều 44.5.NĐ.23. Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính; Điều 44.5.TT.6.47. Công bố thủ tục hành chính)
 
----
+Điều 44.5.NĐ.16. Công khai thủ tục hành chính
 
+(Điều 16 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-### Điều 44.5.NĐ.17. Hình thức công khai
+Thông tin về thủ tục hành chính đã được người có thẩm quyền công bố theo quy định tại Điều 15 của Nghị định này phải được công khai đầy đủ, thường xuyên, rõ ràng, đúng địa chỉ, dễ tiếp cận, dễ khai thác, sử dụng và phải được đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 44.5.TT.2.8. Phạm vi và trách nhiệm niêm yết công khai thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014)
 
-**Chỉ mục:** 17
+Điều 44.5.NĐ.17. Hình thức công khai
 
-**Mã phân cấp:** 4400500000000000300001700000000000000000
+(Điều 17 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**ID:** dk_00071650
+1. Thủ tục hành chính đã được người có thẩm quyền công bố phải được công khai đầy đủ, chính xác, kịp thời theo các hình thức sau:
 
----
+a) Công khai trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
+b) Công khai tại trụ sở cơ quan, đơn vị trực tiếp tiếp nhận, giải quyết thủ tục hành chính thông qua việc niêm yết hoặc sử dụng các hình thức điện tử phù hợp với điều kiện cơ sở vật chất, kỹ thuật trên cơ sở quyết định công bố thủ tục hành chính hoặc kết xuất, kết nối, tích hợp dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
-### Điều 44.5.NĐ.18. Trách nhiệm của cơ quan thực hiện thủ tục hành chính
+c) Đăng tải trên Cổng thông tin điện tử của Chính phủ, Cổng thông tin điện tử của bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trên cơ sở kết nối, tích hợp với Cơ sở dữ liệu quốc gia về thủ tục hành chính.
+
+2. Ngoài hình thức công khai bắt buộc tại khoản 1 Điều này, việc công khai thủ tục hành chính có thể thực hiện theo các hình thức khác phù hợp với điều kiện thực tế của cơ quan, đơn vị và đối tượng thực hiện thủ tục hành chính
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.2.8. Phạm vi và trách nhiệm niêm yết công khai thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 44.5.TT.7.12. Hình thức công khai của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.15. Hình thức công khai của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015)
 
 Điều 44.5.NĐ.18. Trách nhiệm của cơ quan thực hiện thủ tục hành chính
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000300001800000000000000000
+1. Sử dụng, bố trí cán bộ, công chức có phẩm chất đạo đức tốt, văn hóa giao tiếp chuẩn mực, đủ trình độ về chuyên môn, nghiệp vụ và năng lực phù hợp để thực hiện thủ tục hành chính.
 
-**ID:** dk_00071651
+2. Hướng dẫn, giải thích, cung cấp thông tin chính xác, đầy đủ, kịp thời về thủ tục hành chính cho cá nhân, tổ chức có liên quan. 
 
----
+3. Cấp giấy biên nhận hồ sơ, tài liệu theo quy định.
 
+4. Bảo quản và giữ bí mật về hồ sơ tài liệu và các thông tin liên quan đến bí mật cá nhân trong quá trình giải quyết theo quy định của pháp luật, trừ trường hợp phải thu thập, công bố thông tin, tư liệu theo quyết định của cơ quan, tổ chức nhà nước có thẩm quyền.
 
-### Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+5. Nêu rõ lý do bằng văn bản trong trường hợp từ chối thực hiện hoặc có yêu cầu bổ sung giấy tờ trong thời hạn giải quyết theo quy định.
+
+6. Không tự đặt ra thủ tục hành chính, hồ sơ, giấy tờ ngoài quy định của pháp luật.
+
+7. Phối hợp và chia sẻ thông tin trong quá trình giải quyết công việc của cá nhân, tổ chức.
+
+8. Hỗ trợ người có công, người cao tuổi, người tàn tật, người nghèo, phụ nữ mang thai, trẻ mồ côi và người thuộc diện bảo trợ xã hội khác trong thực hiện thủ tục hành chính.
+
+9. Thực hiện cơ chế một cửa, một cửa liên thông trong thực hiện thủ tục hành chính.
+
+10. Tiếp nhận, xử lý các phản ánh, kiến nghị của cá nhân, tổ chức trong thực hiện thủ tục hành chính.
+
+11. Ứng dụng công nghệ thông tin và các tiến bộ khoa học kỹ thuật trong thực hiện thủ tục hành chính. 
+
+12. Thực hiện quy định khác của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.21. Kiểm tra việc giải quyết thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin)
 
 Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000300001900000000000000000
+1. Chịu trách nhiệm công bố, tổ chức nhập dữ liệu về thủ tục hành chính đã công bố trên Cơ sở dữ liệu quốc gia về thủ tục hành chính theo quy định tại các điều 13, 14, 15 và 24 của Nghị định này; tổ chức thực hiện nghiêm túc các thủ tục hành chính đã công bố công khai trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
-**ID:** dk_00071652
+2. Kiểm tra, đôn đốc cán bộ, công chức thuộc quyền trong việc thực hiện thủ tục hành chính.
 
----
+3. Khen thưởng cán bộ, công chức có thành tích trong thực hiện thủ tục hành chính, kiểm soát thủ tục hành chính hoặc có sáng kiến cải cách thủ tục hành chính.
 
+4. Xử lý nghiêm minh, kịp thời cán bộ, công chức khi có vi phạm trong thực hiện và kiểm soát thủ tục hành chính theo quy định của pháp luật.
 
-### Điều 44.5.NĐ.20. Trách nhiệm của cán bộ, công chức được phân công thực hiện thủ tục hành chính
+5. Cải tiến cách thức, phương pháp thực hiện thủ tục hành chính; kịp thời kiến nghị với cơ quan cấp trên các biện pháp cải cách thủ tục hành chính.
+
+6. Thực hiện quy định khác của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính; Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính; Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính; Điều 44.5.NĐ.24. Nhập, đăng tải công khai thủ tục hành chính đã công bố)
 
 Điều 44.5.NĐ.20. Trách nhiệm của cán bộ, công chức được phân công thực hiện thủ tục hành chính
 
-**Chỉ mục:** 20
+(Điều 20 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000300002000000000000000000
+1. Thực hiện nghiêm túc, đầy đủ nhiệm vụ được giao trong quá trình thực hiện thủ tục hành chính.
 
-**ID:** dk_00071653
+2. Phải tạo thuận lợi cho đối tượng thực hiện thủ tục hành chính; có tác phong, thái độ lịch sự, nghiêm túc, khiêm tốn; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc trong thực hiện thủ tục hành chính. 
 
----
+3. Tiếp nhận và giải quyết hồ sơ của cá nhân, tổ chức theo quy định.
 
+4. Hướng dẫn tổ chức, cá nhân thực hiện trình tự, hồ sơ hành chính đầy đủ, rõ ràng, chính xác không để tổ chức, cá nhân phải đi lại bổ sung hồ sơ quá hai lần cho một vụ việc, trừ trường hợp tổ chức, cá nhân thực hiện không đúng theo hướng dẫn của cán bộ, công chức được phân công thực hiện thủ tục hành chính.
 
-### Điều 44.5.NĐ.21. Quyền và nghĩa vụ của đối tượng thực hiện thủ tục hành chính
+5. Chấp hành nghiêm túc các quy định của cấp có thẩm quyền về thủ tục hành chính đã được người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương công bố.
+
+6. Chủ động tham mưu, đề xuất, sáng kiến cải tiến việc thực hiện thủ tục hành chính; kịp thời phát hiện, kiến nghị với cơ quan, người có thẩm quyền để sửa đổi, bổ sung, thay đổi hoặc hủy bỏ, bãi bỏ các quy định về thủ tục hành chính không phù hợp, thiếu khả thi.
+
+7. Phối hợp với các cơ quan, tổ chức có liên quan trong việc thực hiện thủ tục hành chính.
+
+8. Thực hiện quy định khác của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.21. Kiểm tra việc giải quyết thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 9.2.NĐ.11. Nhiệm vụ, quyền hạn của cơ quan đăng ký, của cơ quan cung cấp thông tin)
 
 Điều 44.5.NĐ.21. Quyền và nghĩa vụ của đối tượng thực hiện thủ tục hành chính
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000300002100000000000000000
+1. Thực hiện đầy đủ các quy định về thủ tục hành chính.
 
-**ID:** dk_00071654
+2. Từ chối thực hiện những yêu cầu không được quy định trong thủ tục hành chính hoặc chưa được công khai theo quy định.
 
----
+3. Chịu trách nhiệm về tính hợp pháp, chính xác của các giấy tờ có trong hồ sơ và cung cấp đầy đủ thông tin có liên quan. 
 
+4. Không được cản trở hoạt động thực hiện thủ tục hành chính của cơ quan nhà nước, người có thẩm quyền.
 
-### Điều 44.5.NĐ.22. Phản ánh, kiến nghị về thủ tục hành chính trong quá trình thực hiện
+5. Không hối lộ hoặc dùng các thủ đoạn khác để lừa dối cơ quan nhà nước, người có thẩm quyền trong thực hiện thủ tục hành chính.
+
+6. Giám sát việc thực hiện thủ tục hành chính; phản ánh, kiến nghị với cơ quan nhà nước, người có thẩm quyền về những bất hợp lý của thủ tục hành chính và các hành vi vi phạm của cán bộ, công chức trong thực hiện thủ tục hành chính.
+
+7. Khiếu nại, tố cáo, khởi kiện các quyết định hành chính và hành vi hành chính theo quy định của pháp luật.
+
+8. Trực tiếp hoặc uỷ quyền cho người đại diện hợp pháp của mình tham gia thực hiện thủ tục hành chính theo quy định của pháp luật.
+
+9. Thực hiện quy định khác của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 9.2.NĐ.9. Quyền, nghĩa vụ của người yêu cầu đăng ký, của người yêu cầu cung cấp thông tin)
 
 Điều 44.5.NĐ.22. Phản ánh, kiến nghị về thủ tục hành chính trong quá trình thực hiện
 
-**Chỉ mục:** 22
+(Điều 22 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**Mã phân cấp:** 4400500000000000300002200000000000000000
+1. Mọi cá nhân, tổ chức có quyền phản ánh, kiến nghị về thủ tục hành chính và việc thực hiện thủ tục hành chính.
 
-**ID:** dk_00071655
+Việc tiếp nhận, xử lý phản ánh, kiến nghị về thủ tục hành chính được thực hiện theo quy định tại pháp luật về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính.
 
----
+2. Bộ Tư pháp chịu trách nhiệm thiết lập, duy trì hoạt động của cổng thông tin phản ánh, kiến nghị, kết quả giải quyết về thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính và chủ động tổ chức lấy ý kiến cá nhân, tổ chức về thủ tục hành chính quy định trong dự án, dự thảo văn bản quy phạm pháp luật do cơ quan chủ trì soạn thảo gửi lấy ý kiến theo quy định tại Khoản 2 Điều 9 của Nghị định này.
 
+(Điều này có nội dung liên quan đến Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật; Điều 44.5.NĐ.26. Trách nhiệm quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính)
 
-### Điều 44.5.NĐ.23. Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính
+Chương IV
+
+CƠ SỞ DỮ LIỆU QUỐC GIA VỀ THỦ TỤC HÀNH CHÍNH
 
 Điều 44.5.NĐ.23. Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính
 
-**Chỉ mục:** 23
+(Điều 23 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000400002300000000000000000
+Thủ tục hành chính được đăng tải trên Cơ sở dữ liệu quốc gia là các thủ tục hành chính được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương công bố theo quy định tại các Điều 13, 14 và 15 của Nghị định này.
 
-**ID:** dk_00071657
-
----
-
-
-### Điều 44.5.NĐ.24. Nhập, đăng tải công khai thủ tục hành chính đã công bố
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính; Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính; Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính)
 
 Điều 44.5.NĐ.24. Nhập, đăng tải công khai thủ tục hành chính đã công bố
 
-**Chỉ mục:** 24
+(Điều 24 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000400002400000000000000000
+1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm tổ chức việc nhập, đăng tải công khai các thủ tục hành chính và văn bản quy định về thủ tục hành chính đã được công bố vào Cơ sở dữ liệu quốc gia về thủ tục hành chính; đồng thời chịu trách nhiệm về tính chính xác của thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
-**ID:** dk_00071658
+2. Thời hạn nhập, đăng tải công khai thủ tục hành chính đã công bố vào Cơ sở dữ liệu quốc gia về thủ tục hành chính chậm nhất là 10 ngày làm việc kể từ ngày ký quyết định công bố của Bộ trưởng, Thủ trưởng cơ quan ngang bộ; 05 ngày làm việc kể từ ngày ký quyết định công bố của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương; 02 ngày làm việc kể từ ngày ký quyết định công bố thủ tục hành chính trong văn bản quy phạm pháp luật được ban hành theo trình tự, thủ tục rút gọn có hiệu lực kể từ ngày thông qua hoặc ký ban hành
 
----
-
-
-### Điều 44.5.NĐ.25. Giá trị của thủ tục hành chính và văn bản quy phạm pháp luật có quy định về thủ tục hành chính trên Cơ sở dữ liệu quốc gia
+(Điều này có nội dung liên quan đến Điều 44.5.TT.4.8. Thời hạn nhập và đăng tải dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia của Thông tư 19/2014/TT-BTP Quy định về nhập, đăng tải, khai thác dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính ban hành ngày 15/09/2014; Điều 44.5.TT.5.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.14. Quy trình phối hợp công bố thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Điều 44.5.NĐ.26. Trách nhiệm quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính)
 
 Điều 44.5.NĐ.25. Giá trị của thủ tục hành chính và văn bản quy phạm pháp luật có quy định về thủ tục hành chính trên Cơ sở dữ liệu quốc gia
 
-**Chỉ mục:** 25
+(Điều 25 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000400002500000000000000000
+Thủ tục hành chính và các văn bản quy định về thủ tục hành chính hoặc văn bản có liên quan về thủ tục hành chính được đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính có giá trị thi hành và được bảo đảm thi hành.
 
-**ID:** dk_00071659
-
----
-
-
-### Điều 44.5.NĐ.26. Trách nhiệm quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính
+Mẫu đơn, mẫu tờ khai hành chính đăng tải kèm theo thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính có giá trị ngang bằng với mẫu đơn, mẫu tờ khai hành chính do cơ quan thực hiện thủ tục hành chính cung cấp trực tiếp.
 
 Điều 44.5.NĐ.26. Trách nhiệm quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính
 
-**Chỉ mục:** 26
+(Điều 26 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000400002600000000000000000
+1. Văn phòng Chính phủ có trách nhiệm chủ trì, phối hợp với các bộ, ngành, địa phương xây dựng và duy trì Cơ sở dữ liệu quốc gia về thủ tục hành chính; hướng dẫn, rà soát, đánh giá, kiểm tra việc nhập, đăng tải công khai, khai thác và quản lý dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.
 
-**ID:** dk_00071660
+2. Bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm quản lý tài khoản đăng nhập, kiểm duyệt, đăng tải, kiểm tra, rà soát dữ liệu thủ tục hành chính; bảo đảm tính thống nhất, đồng bộ giữa thủ tục hành chính được đăng tải trên Cơ sở dữ liệu quốc gia, thủ tục hành chính được đăng tải trên Cổng thông tin điện tử của bộ, ngành, địa phương và thủ tục hành chính được công khai tại nơi tiếp nhận, giải quyết thủ tục hành chính
 
----
+(Điều này có nội dung liên quan đến Điều 44.5.TT.4.3. Dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia; Điều 44.5.TT.4.8. Thời hạn nhập và đăng tải dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia của Thông tư 19/2014/TT-BTP Quy định về nhập, đăng tải, khai thác dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính ban hành ngày 15/09/2014; Điều 44.5.NĐ.22. Phản ánh, kiến nghị về thủ tục hành chính trong quá trình thực hiện; Điều 44.5.NĐ.24. Nhập, đăng tải công khai thủ tục hành chính đã công bố)
 
+Chương V
 
-### Điều 44.5.NĐ.27. Trách nhiệm rà soát, đánh giá
+RÀ SOÁT, ĐÁNH GIÁ THỦ TỤC HÀNH CHÍNH
 
-*Nội dung chưa có sẵn*
+Điều 44.5.NĐ.27. Trách nhiệm rà soát, đánh giá
 
-**Chỉ mục:** 27
+(Điều 27 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000500002700000000000000000
+1. Bộ, cơ quan ngang Bộ chịu trách nhiệm rà soát, đánh giá thủ tục hành chính thuộc phạm vi chức năng quản lý ngành, lĩnh vực được quy định trong các văn bản quy phạm pháp luật của Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ.
 
-**ID:** dk_00071662
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm rà soát, đánh giá thủ tục hành chính thuộc thẩm quyền giải quyết của các cấp chính quyền trên địa bàn tỉnh, thành phố trực thuộc Trung ương .
 
----
+3. Bộ Tư pháp chịu trách nhiệm rà soát, đánh giá độc lập thủ tục hành chính trong các trường hợp sau đây:
 
+a) Theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ; 
 
-### Điều 44.5.NĐ.28. Nội dung rà soát, đánh giá
+b) Thủ tục hành chính có liên quan chặt chẽ với nhau, kết quả thực hiện thủ tục hành chính này là tiền đề để thực hiện thủ tục hành chính tiếp theo; 
 
-*Nội dung chưa có sẵn*
+c) Thủ tục hành chính, qua phát hiện hoặc theo thông tin phản ánh của cá nhân, tổ chức, còn rườm rà, khó thực hiện, gây cản trở hoạt động sản xuất, kinh doanh của tổ chức kinh tế và đời sống của nhân dân.
 
-**Chỉ mục:** 28
+(Điều này có nội dung liên quan đến Điều 44.5.TT.7.15. Trách nhiệm rà soát, đánh giá của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.22. Kiểm tra việc rà soát, đánh giá thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.NĐ.29. Cách thức rà soát, đánh giá)
 
-**Mã phân cấp:** 4400500000000000500002800000000000000000
+Điều 44.5.NĐ.28. Nội dung rà soát, đánh giá
 
-**ID:** dk_00071663
+(Điều 28 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
----
+1. Sự cần thiết, tính hợp lý, tính hợp pháp của thủ tục hành chính, quy định có liên quan đến thủ tục hành chính và chi phí tuân thủ của thủ tục hành chính được rà soát, đánh giá
 
+2. Sự phù hợp của thủ tục hành chính và các quy định có liên quan đến thủ tục hành chính được rà soát, đánh giá với mục tiêu quản lý nhà nước và những thay đổi về kinh tế - xã hội, công nghệ và các điều kiện khách quan khác.
 
-### Điều 44.5.NĐ.29. Cách thức rà soát, đánh giá
+3. Các nguyên tắc nêu tại Điều 7 và Điều 12 của Nghị định này.  
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 44.5.TT.7.16. Nội dung, cách thức và kết quả rà soát, đánh giá của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.22. Kiểm tra việc rà soát, đánh giá thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.23. Nội dung, cách thức và kết quả rà soát, đánh giá thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.5.NĐ.7. Nguyên tắc quy định thủ tục hành chính; Điều 44.5.NĐ.12. Nguyên tắc thực hiện thủ tục hành chính)
 
-**Chỉ mục:** 29
+Điều 44.5.NĐ.29. Cách thức rà soát, đánh giá
 
-**Mã phân cấp:** 4400500000000000500002900000000000000000
+(Điều 29 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, bị bãi bỏ bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**ID:** dk_00071664
+1. Việc rà soát, đánh giá phải được tiến hành trên cơ sở thống kê, tập hợp đầy đủ các thủ tục hành chính, các quy định có liên quan đến thủ tục hành chính cần rà soát, đánh giá để xem xét theo những nội dung quy định tại Điều 28 của Nghị định này. Trong quá trình rà soát, đánh giá phải chú trọng tới đối tượng chịu sự tác động của thủ tục hành chính.  
 
----
+2. Đối với các thủ tục hành chính quy định tại điểm b khoản 3 Điều 27 của Nghị định này, thì việc rà soát, đánh giá cần tiến hành theo nhóm các quy định của thủ tục hành chính và nhóm các quy định có liên quan đến thủ tục hành chính được rà soát, đánh giá. 
 
+3. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Cơ quan kiểm soát thủ tục hành chính rà soát, đánh giá thủ tục hành chính theo kế hoạch hoặc theo sự chỉ đạo của Chính phủ, Thủ tướng Chính phủ. Kết quả rà soát, đánh giá thủ tục hành chính của các cơ quan này là cơ sở để thực hiện đơn giản hoá thủ tục hành chính.
 
-### Điều 44.5.NĐ.30. Kế hoạch rà soát, đánh giá
+4. Huy động sự tham gia rà soát của các đối tượng chịu sự tác động trực tiếp của thủ tục hành chính.
 
-*Nội dung chưa có sẵn*
+(Điều này có nội dung liên quan đến Điều 44.5.TT.7.16. Nội dung, cách thức và kết quả rà soát, đánh giá của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.22. Kiểm tra việc rà soát, đánh giá thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.23. Nội dung, cách thức và kết quả rà soát, đánh giá thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.5.NĐ.27. Trách nhiệm rà soát, đánh giá)
 
-**Chỉ mục:** 30
+Điều 44.5.NĐ.30. Kế hoạch rà soát, đánh giá
 
-**Mã phân cấp:** 4400500000000000500003000000000000000000
+(Điều 30 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**ID:** dk_00071665
+1. Kế hoạch rà soát, đánh giá thủ tục hành chính được xây dựng dựa trên một trong các căn cứ sau:
 
----
+a) Chỉ đạo của Chính phủ, Thủ tướng Chính phủ;
 
+b) Lựa chọn của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; 
 
-### Điều 44.5.NĐ.31. Xử lý kết quả rà soát, đánh giá
+c) Phản ánh, kiến nghị của cá nhân, tổ chức về thủ tục hành chính.
 
-*Nội dung chưa có sẵn*
+2. Nội dung kế hoạch phải xác định rõ thủ tục hành chính cần rà soát, đánh giá, cơ quan thực hiện, thời gian thực hiện, căn cứ lựa chọn và dự kiến sản phẩm. 
 
-**Chỉ mục:** 31
+3. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chủ động xây dựng kế hoạch hàng năm về rà soát, đánh giá thủ tục hành chính thuộc phạm vi chức năng quản lý, gửi Kế hoạch rà soát, đánh giá thủ tục hành chính đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương phê duyệt đến Bộ Tư pháp trước ngày 31 tháng 01 của năm kế hoạch.
 
-**Mã phân cấp:** 4400500000000000500003100000000000000000
+4. Trên cơ sở chỉ đạo của Chính phủ, Thủ tướng Chính phủ và yêu cầu cải cách thủ tục hành chính, Bộ Tư pháp xây dựng kế hoạch rà soát trọng tâm, trình Thủ tướng Chính phủ phê duyệt.
 
-**ID:** dk_00071666
+(Điều này có nội dung liên quan đến Điều 2. Nhiệm vụ và quyền hạn của Quyết định 74/2010/QĐ-TTg Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Cục Kiểm soát thủ tục hành chính trực thuộc Văn phòng Chính phủ ban hành ngày 22/11/2010; Điều 44.5.TT.3.11. Trách nhiệm của các cơ quan trong việc rà soát, đánh giá thủ tục hành chính của Thông tư 07/2014/TT-BTP Hướng dẫn việc đánh giá tác động của thủ tục hành chính và rà soát, đánh giá thủ tục hành chính ban hành ngày 24/02/2014; Điều 44.5.TT.5.22. Kiểm tra việc rà soát, đánh giá thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.21. Xây dựng kế hoạch rà soát, đánh giá thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015)
 
----
+Điều 44.5.NĐ.31. Xử lý kết quả rà soát, đánh giá
 
+(Điều 31 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được bổ sung bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-### Điều 44.5.NĐ.32. Khen thưởng trong thực hiện kiểm soát thủ tục hành chính
+1. Trên cơ sở kết quả rà soát, đánh giá thủ tục hành chính, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ thủ tục hành chính theo thẩm quyền; đề nghị các Bộ, cơ quan ngang Bộ xem xét, xử lý kết quả rà soát, đánh giá thủ tục hành chính thuộc phạm vi, chức năng quản lý của Bộ, cơ quan ngang Bộ.
+
+2. Trên cơ sở kết quả rà soát, đánh giá thủ tục hành chính của Bộ, cơ quan ngang Bộ và đề nghị của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ theo thẩm quyền hoặc tổng hợp phương án sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ thủ tục hành chính, các quy định có liên quan thuộc phạm vi thẩm quyền của Chính phủ, Thủ tướng Chính phủ, gửi Bộ Tư pháp xem xét, đánh giá trước khi trình Chính phủ, Thủ tướng Chính phủ.
+
+Hồ sơ gửi Bộ Tư pháp xem xét, đánh giá, gồm:
+
+- Dự thảo tờ trình;
+
+- Dự thảo văn bản phê duyệt phương án đơn giản hóa thủ tục hành chính;
+
+- Báo cáo kết quả rà soát của Bộ, cơ quan ngang Bộ;
+
+- Báo cáo kết quả rà soát của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và của các cơ quan kèm theo phương án đơn giản hóa thủ tục hành chính đã được Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương hoặc Thủ trưởng cơ quan phê duyệt (nếu có).
+
+Bộ, cơ quan ngang Bộ có trách nhiệm nghiên cứu, tiếp thu, giải trình ý kiến xem xét, đánh giá của Bộ Tư pháp về phương án sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ thủ tục hành chính, các quy định có liên quan thuộc phạm vi thẩm quyền của Chính phủ, Thủ tướng Chính phủ.
+
+3. Bộ Tư pháp chịu trách nhiệm theo dõi, đôn đốc, kiểm tra các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện quyết định phê duyệt phương án sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ thủ tục hành chính, các quy định có liên quan của Chính phủ, Thủ tướng Chính phủ.
+
+(Điều này có nội dung liên quan đến Điều 36. Soạn thảo, ban hành một văn bản sửa đổi, bổ sung, thay thế, bãi bỏ nhiều văn bản quy phạm pháp luật của Nghị định 34/2016/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật ban hành ngày 14/05/2016; Điều 8. Chương trình xây dựng văn bản quy phạm pháp luật của Thông tư 46/2014/TT-BTNMT Quy định về xây dựng, ban hành văn bản quy phạm pháp luật 
+thuộc phạm vi quản lý nhà nước của Bộ Tài nguyên và Môi trường ban hành ngày 01/08/2014; Điều 44.5.TT.5.22. Kiểm tra việc rà soát, đánh giá thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014)Chương VI
+
+KHEN THƯỞNG, KINH PHÍ THỰC HIỆN, THÔNG TIN, BÁO CÁO
 
 Điều 44.5.NĐ.32. Khen thưởng trong thực hiện kiểm soát thủ tục hành chính
 
-**Chỉ mục:** 32
+(Điều 32 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000600003200000000000000000
+1. Cơ quan, cán bộ, công chức có thành tích trong thực hiện kiểm soát thủ tục hành chính thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng.
 
-**ID:** dk_00071668
+2. Cán bộ, công chức được khen thưởng trong thực hiện kiểm soát thủ tục hành chính do có thành tích xuất sắc hoặc công trạng thì được nâng lương trước thời hạn, được ưu tiên khi xem xét bổ nhiệm chức vụ cao hơn nếu cơ quan, tổ chức, đơn vị có nhu cầu. 
 
----
+Điều 44.5.NĐ.33. Xử lý vi phạm
 
+(Điều 33 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-### Điều 44.5.NĐ.33. Xử lý vi phạm
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 33
-
-**Mã phân cấp:** 4400500000000000600003300000000000000000
-
-**ID:** dk_00071669
-
----
-
-
-### Điều 44.5.NĐ.34. Điều kiện đảm bảo về kinh phí thực hiện kiểm soát thủ tục hành chính
+Cơ quan, tổ chức, cá nhân vi phạm các quy định của Nghị định này, thì tùy theo tính chất, mức độ vi phạm mà bị xử lý theo quy định của pháp luật.
 
 Điều 44.5.NĐ.34. Điều kiện đảm bảo về kinh phí thực hiện kiểm soát thủ tục hành chính
 
-**Chỉ mục:** 34
+(Điều 34 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000600003400000000000000000
+1. Kinh phí thực hiện kiểm soát thủ tục hành chính quy định tại Nghị định này do ngân sách nhà nước bảo đảm. Kinh phí thực hiện hoạt động kiểm soát thủ tục hành chính của Bộ, cơ quan trung ương do ngân sách trung ương bảo đảm. Kinh phí thực hiện hoạt động kiểm soát thủ tục hành chính của các tỉnh, thành phố trực thuộc trung ương do ngân sách địa phương bảo đảm. Ngoài kinh phí do ngân sách nhà nước bảo đảm, Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương được huy động và sử dụng các nguồn lực hợp pháp khác để tăng cường thực hiện kiểm soát thủ tục hành chính thuộc phạm vi quản lý.
 
-**ID:** dk_00071670
+2. Bộ Tài chính hướng dẫn việc quản lý và sử dụng kinh phí cho hoạt động kiểm soát thủ tục hành chính theo quy định của Luật Ngân sách nhà nước và văn bản hướng dẫn thi hành.
 
----
+3. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm bố trí kinh phí cho hoạt động kiểm soát thủ tục hành chính trong dự toán ngân sách của cấp mình theo quy định của Luật Ngân sách nhà nước và văn bản hướng dẫn thi hành.
 
+(Điều này có nội dung liên quan đến Điều 31. Nguồn kinh phí và việc lập dự trù kinh phí của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014)Điều 44.5.TT.1.2. Nguồn kinh phí thực hiện
 
-### Điều 44.5.TT.1.2. Nguồn kinh phí thực hiện
+(Điều 2 Thông tư số 167/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/12/2012)
 
-*Nội dung chưa có sẵn*
+ 1. Kinh phí bảo đảm cho việc thực hiện kiểm soát thủ tục hành chính tại các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ do ngân sách Trung ương bảo đảm.
 
-**Chỉ mục:** 2
+ 2. Kinh phí bảo đảm cho việc thực hiện kiểm soát thủ tục hành chính tại các tỉnh, thành phố trực thuộc Trung ương do ngân sách địa phương bảo đảm.
 
-**Mã phân cấp:** 440050000000000060000340000000000000000000802451001670000200
+ 3. Ngoài kinh phí do ngân sách nhà nước bảo đảm, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các tỉnh, thành phố trực thuộc trung ương được huy động và sử dụng các nguồn lực hợp pháp khác để tăng cường thực hiện kiểm soát thủ tục hành chính thuộc phạm vi quản lý.(Điều này có nội dung liên quan đến Điều 32. Sử dụng và thanh quyết toán kinh phí của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 44.5.TT.7.28. Kinh phí thực hiện của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014)Điều 44.5.TT.1.3. Nội dung chi
 
-**ID:** dk_00071671
+(Điều 3 Thông tư số 167/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/12/2012)
 
----
+ 1. Chi cho việc cập nhật dữ liệu thủ tục hành chính vào Cơ sở dữ liệu quốc gia về thủ tục hành chính; công bố, công khai thủ tục hành chính.
 
+ 2. Chi lấy ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật; chi lấy ý kiến tham gia của các chuyên gia đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật thuộc chuyên ngành, lĩnh vực chuyên môn phức tạp (chỉ thanh toán đối với các trường hợp cơ quan chủ trì soạn thảo lấy ý kiến cơ quan kiểm soát thủ tục hành chính quy định tại điểm a khoản 1 Điều 9 Nghị định số 63/2010/NĐ-CP; cơ quan kiểm soát thủ tục hành chính phải lấy ý kiến tham gia của các cơ quan, của chuyên gia).
 
-### Điều 44.5.TT.1.3. Nội dung chi
+ 3. Chi cho các hoạt động rà soát độc lập các quy định về thủ tục hành chính: Lập biểu mẫu rà soát, điền biểu mẫu rà soát; chi xây dựng báo cáo tổng hợp, phân tích về công tác kiểm soát thủ tục hành chính, công tác tiếp nhận xử lý phản ánh, kiến nghị về quy định hành chính trên phạm vi toàn quốc; chi xây dựng báo cáo kết quả rà soát, đánh giá về thủ tục hành chính theo chuyên đề, theo ngành, lĩnh vực.
 
-*Nội dung chưa có sẵn*
+ 4. Chi tổ chức các cuộc họp, hội thảo, tọa đàm lấy ý kiến đối với các quy định về thủ tục hành chính, các phương án đơn giản hoá thủ tục hành chính.
 
-**Chỉ mục:** 3
+ 5. Chi tổ chức hội nghị tập huấn, triển khai công tác chuyên môn, sơ kết, tổng kết, giao ban định kỳ; chi hoạt động kiểm tra, đôn đốc các Bộ, ngành, địa phương.
 
-**Mã phân cấp:** 440050000000000060000340000000000000000000802451001670000300
+ 6. Chi thuê chuyên gia tư vấn chuyên ngành.
 
-**ID:** dk_00071672
+ 7. Chi hỗ trợ cán bộ, công chức làm nhiệm vụ là đầu mối kiểm soát thủ tục hành chính tại các Bộ, ngành, địa phương.
 
----
+ 8. Chi khen thưởng cho các tập thể, cá nhân cán bộ, công chức có thành tích trong hoạt động kiểm soát thủ tục hành chính.
 
+ 9. Các nội dung chi khác liên quan trực tiếp đến hoạt động kiểm soát thủ tục hành chính, gồm:
 
-### Điều 44.5.TT.1.4. Mức chi
+ a) Chi tuyên truyền về hoạt động kiểm soát thủ tục hành chính như: xây dựng tin, bài, ấn phẩm, sản phẩm truyền thông, quảng cáo, chuyên mục về cải cách thủ tục hành chính trên các phương tiện thông tin đại chúng;
 
-*Nội dung chưa có sẵn*
+ b) Chi xây dựng sổ tay nghiệp vụ cho cán bộ làm công tác kiểm soát thủ tục hành chính;
 
-**Chỉ mục:** 4
+ c) Chi mua sắm hàng hoá, dịch vụ như thiết kế đồ họa, mua sắm trang thiết bị, dịch vụ ứng dụng công nghệ thông tin;
 
-**Mã phân cấp:** 440050000000000060000340000000000000000000802451001670000400
+ d) Chi tổ chức các cuộc thi liên quan đến công tác kiểm soát thủ tục hành chính;
 
-**ID:** dk_00071673
+ đ) Chi điều tra, khảo sát về công tác kiểm soát thủ tục hành chính; chi các đề tài nghiên cứu khoa học về công tác kiểm soát thủ tục hành chính;chi các đoàn kiểm tra, đánh giá tình hình thực hiện công tác kiểm soát thủ tục hành chính;
 
----
+ e) Chi tổ chức các đoàn nghiên cứu, trao đổi, học tập kinh nghiệm hoạt động kiểm soát thủ tục hành chính ở trong nước và nước ngoài;
 
+ g) Chi làm thêm giờ;
 
-### Điều 44.5.TT.1.5. Lập, chấp hành dự toán và quyết toán kinh phí
+ h) Chi dịch thuật;
 
-Điều 44.5.TT.1.5. Lập, chấp hành dự toán và quyết toán kinh phí
+ i) Chi khác (nếu có).(Điều này có nội dung liên quan đến Điều 32. Sử dụng và thanh quyết toán kinh phí của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 44.5.TT.7.28. Kinh phí thực hiện của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014)Điều 44.5.TT.1.4. Mức chi
 
-**Chỉ mục:** 5
+(Điều 4 Thông tư số 167/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/12/2012)
 
-**Mã phân cấp:** 440050000000000060000340000000000000000000802451001670000500
+1. Mức chi cụ thể theo phụ lục kèm theo Thông tư.
 
-**ID:** dk_00071674
+2. Các mức chi quy định tại Thông tư này là mức chi tối đa. Căn cứ vào tình hình thực tế, tính chất phức tạp của từng nhiệm vụ chi và khả năng ngân sách; Bộ trưởng các Bộ, cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ; Uỷ ban nhân dân báo cáo Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương quy định mức chi cụ thể cho phù hợp, đảm bảo không vượt quá mức chi quy định tại Thông tư này.
 
----
+3. Trường hợp các Bộ, ngành, địa phương chưa ban hành văn bản quy định mức chi cụ thể thì Thủ trưởng cơ quan, đơn vị quyết định mức chi căn cứ vào mức chi thực tế (có hoá đơn hợp pháp, hợp lệ) nhưng không vượt quá mức chi quy định tại Thông tư này, đảm bảo tiết kiệm, tránh lãng phí, trong phạm vi dự toán được giao và phải được thể hiện trong quy chế chi tiêu nội bộ của cơ quan, đơn vị.
 
+Phu luc_Muc chi bao dam cho hoat dong kiem soat thu tuc hanh chinh.doc
 
-### Điều 44.5.NĐ.35. Chế độ thông tin, báo cáo
+(Điều này có nội dung liên quan đến Điều 32. Sử dụng và thanh quyết toán kinh phí của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 44.5.TT.7.28. Kinh phí thực hiện của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014)Điều 44.5.TT.1.5. Lập, chấp hành dự toán và quyết toán kinh phí
 
-*Nội dung chưa có sẵn*
+(Điều 5 Thông tư số 167/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/12/2012)
 
-**Chỉ mục:** 35
+ Việc lập, chấp hành dự toán và quyết toán kinh phí thực hiện theo quy định hiện hành, Thông tư này hướng dẫn một số điểm cụ thể như sau:
 
-**Mã phân cấp:** 4400500000000000600003500000000000000000
+ 1. Lập dự toán: Hàng năm, vào thời gian lập dự toán ngân sách nhà nước theo quy định của Luật Ngân sách Nhà nước, căn cứ nhiệm vụ công việc dự kiến triển khai năm kế hoạch; các cơ quan, đơn vị kiểm soát thủ tục hành chính có trách nhiệm xây dựng dự toán kinh phí cần thiết thực hiện các nhiệm vụ của năm kế hoạch, tổng hợp chung trong dự toán ngân sách nhà nước hàng năm của cơ quan, đơn vị mình, trình cấp có thẩm quyền phê duyệt.
 
-**ID:** dk_00071675
+ 2. Phân bổ và giao dự toán: Căn cứ dự toán ngân sách được cấp có thẩm quyền giao, Thủ trưởng cơ quan, đơn vị có trách nhiệm phân bổ và giao dự toán kinh phí cho các đơn vị trực thuộc sau khi có ý kiến thẩm tra của cơ quan tài chính cùng cấp.
 
----
+ 3. Sử dụng và quyết toán kinh phí:
 
+ a) Kinh phí kiểm soát thủ tục hành chính được sử dụng và quyết toán theo quy định hiện hành;
 
-### Điều 44.5.NĐ.35a. Kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính
+ b) Kinh phí thực hiện kiểm soát thủ tục hành chính chi cho nội dung nào thì hạch toán vào mục chi tương ứng của mục lục ngân sách nhà nước theo quy định hiện hành;
+
+ c) Cuối năm quyết toán kinh phí kiểm soát thủ tục hành chính, tổng hợp chung vào quyết toán ngân sách hàng năm của cơ quan, đơn vị theo quy định.(Điều này có nội dung liên quan đến Điều 32. Sử dụng và thanh quyết toán kinh phí của Thông tư 22/2014/TT-BYT Quy định việc soạn thảo, ban hành và tổ chức triển khai 
+thi hành văn bản quy phạm pháp luật về y tế ban hành ngày 30/06/2014; Điều 44.5.TT.7.28. Kinh phí thực hiện của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.9.5. Kinh phí bảo đảm cho công tác kiểm soát thủ tục hành chính của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015)Điều 44.5.NĐ.35. Chế độ thông tin, báo cáo
+
+(Điều 35 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
+
+1. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương định kỳ 6 tháng báo cáo Bộ Tư pháp về tình hình và kết quả thực hiện hoạt động kiểm soát thủ tục hành chính của Bộ, ngành, địa phương mình hoặc báo cáo theo yêu cầu đột xuất.
+
+2. Bộ Tư pháp có trách nhiệm tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ về tình hình, kết quả thực hiện hoạt động kiểm soát thủ tục hành chính của các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương theo định kỳ hoặc báo cáo đột xuất khi có yêu cầu của Chính phủ, Thủ tướng Chính phủ.
+
+3. Nội dung báo cáo định kỳ:
+
+a) Tình hình, kết quả kiểm soát quy định về thủ tục hành chính, trong đó nêu rõ tổng số thủ tục hành chính được đánh giá tác động và tổng số văn bản quy phạm pháp luật quy định về thủ tục hành chính được ban hành trong kỳ báo cáo;
+
+b) Tình hình, kết quả và số lượng thủ tục hành chính được công bố; tình hình công khai và cập nhật thủ tục hành chính vào Cơ sở dữ liệu quốc gia về thủ tục hành chính;
+
+c) Tình hình, kết quả thực hiện thủ tục hành chính tại cơ quan hoặc tại địa phương, trong đó nêu rõ việc khen thưởng, xử lý cán bộ, công chức vi phạm quy định về kiểm soát thực hiện thủ tục hành chính (nếu có);
+
+d) Việc rà soát, đơn giản hóa thủ tục hành chính (nếu có);
+
+đ) Vướng mắc, khó khăn trong quá trình thực hiện kiểm soát thủ tục hành chính (nếu có);
+
+e) Tình hình, kết quả tiếp nhận và kết quả xử lý phản ánh, kiến nghị về thủ tục hành chính;
+
+g) Công tác truyền thông hỗ trợ hoạt động kiểm soát thủ tục hành chính;
+
+h) Nội dung khác theo yêu cầu của Bộ Tư pháp hoặc theo chỉ đạo của Thủ tướng Chính phủ.
+
+4. Bộ Tư pháp xây dựng mẫu báo cáo quy định tại Khoản 3 Điều này và hướng dẫn thực hiện.
+
+5. Tình hình, kết quả hoạt động kiểm soát thủ tục hành chính phải được thông tin kịp thời, trung thực và thường xuyên trên Trang tin thủ tục hành chính của Bộ Tư pháp và các phương tiện thông tin đại chúng khác.
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.7.22. Trách nhiệm của Thủ trưởng các cơ quan; Điều 44.5.TT.7.26. Kỳ báo cáo, thời hạn báo cáo theo định kỳ; Điều 44.5.TT.7.27. Trách nhiệm và nội dung báo cáo của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.5.24. Kiểm tra công tác truyền thông về hoạt động kiểm soát thủ tục hành chính và việc thực hiện chế độ thông tin, báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính. của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.5.TT.9.31. Cơ quan, đơn vị của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.12.NĐ.22. Chế độ thông tin báo cáo)
 
 Điều 44.5.NĐ.35a. Kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính
 
-**Chỉ mục:** 35a
+(Điều 35a Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010, được bổ sung, có nội dung được sửa đổi bởi Điều 1 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013; Điều 1 Nghị định số 92/2017/NĐ-CP có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-**Mã phân cấp:** 4400500000000000600003510000000000000000
+1. Kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính được thực hiện theo định kỳ hàng năm hoặc đột xuất trong phạm vi trách nhiệm sau đây:
 
-**ID:** dk_00071676
+a) Cục Kiểm soát thủ tục hành chính giúp Bộ trưởng Bộ Tư pháp kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính tại các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương;
 
----
+b) TVăn phòng Bộ, cơ quan ngang Bộ giúp Bộ trưởng, Thủ trưởng cơ quan kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính tại các vụ, cục, đơn vị trực thuộc;
 
+c) Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính tại các sở, ban, ngành, Ủy ban nhân dân quận, huyện, thành phố, thị xã thuộc tỉnh và Ủy ban nhân dân xã, phường, thị trấn.
 
-### Điều 44.5.TT.7.2. Nguyên tắc kiểm soát thủ tục hành chính trong lĩnh vực Công Thương
+2. Nội dung kiểm tra, gồm:
+
+a) Công tác chỉ đạo, điều hành và tổ chức thực hiện hoạt động kiểm soát thủ tục hành chính;
+
+b) Công tác kiểm soát quy định về thủ tục hành chính tại các dự án, dự thảo văn bản quy phạm pháp luật;
+
+c) Công tác kiểm soát việc thực hiện thủ tục hành chính;
+
+d) Công tác rà soát, đánh giá thủ tục hành chính;
+
+đ) Công tác tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính;
+
+e) Nội dung khác theo yêu cầu của Bộ Tư pháp.
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.5.7. Nguyên tắc kiểm tra nghiệp vụ thực hiện thủ tục hành chính; Điều 44.5.TT.5.8. Nội dung và cách thức kiểm tra nghiệp vụ thực hiện thủ tục hành chính của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014)
+
+Chương VII
+
+QUY ĐỊNH VỀ HOẠT ĐỘNG KIỂM SOÁT THỦ TỤC HÀNH CHÍNH TRONG MỘT SỐ LĨNH VỰC
+
+Mục 1
+
+QUY ĐỊNH VỀ HOẠT ĐỘNG KIỂM SOÁT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC QUẢN LÝ NHÀ NƯỚC CỦA BỘ CÔNG THƯƠNG
 
 Điều 44.5.TT.7.2. Nguyên tắc kiểm soát thủ tục hành chính trong lĩnh vực Công Thương
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000200
+ 1. Bảo đảm thực hiện có hiệu quả mục tiêu cải cách thủ tục hành chính và góp phần cải cách hành chính trong lĩnh vực Công Thương.
 
-**ID:** dk_00071679
+ 2. Bảo đảm quy định thủ tục hành chính công khai, minh bạch, đơn giản, dễ hiểu, dễ thực hiện; tiết kiệm thời gian, chi phí, công sức của đối tượng và cơ quan thực hiện thủ tục hành chính; kịp thời loại bỏ những thủ tục hành chính không phù hợp, phức tạp, phiền hà.Điều 44.5.TT.7.3. Kiểm soát thủ tục hành chính trong quá trình lập đề nghị xây dựng văn bản quy phạm pháp luật
 
----
+(Điều 3 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
+ 1. Trong quá trình lập đề nghị xây dựng văn bản quy phạm pháp luật, các đơn vị thuộc Bộ có trách nhiệm thực hiện đánh giá tác động của thủ tục hành chính theo quy định của Luật Ban hành văn bản quy phạm pháp luật, Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật và hướng dẫn của Bộ Tư pháp.
 
-### Điều 44.5.TT.7.3. Kiểm soát thủ tục hành chính trong quá trình lập đề nghị xây dựng văn bản quy phạm pháp luật
+ 2. Hồ sơ đề nghị xây dựng văn bản quy phạm pháp luật của các đơn vị thuộc Bộ phải được gửi lấy ý kiến Văn phòng Bộ trước khi gửi Vụ Pháp chế thẩm tra.
 
-Điều 44.5.TT.7.3. Kiểm soát thủ tục hành chính trong quá trình lập đề nghị xây dựng văn bản quy phạm pháp luật
+ Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về việc đề nghị thẩm tra thủ tục hành chính trong văn bản quy phạm pháp luật dự kiến xây dựng do các đơn vị gửi đến, Văn phòng Bộ có trách nhiệm trả lời bằng văn bản, trong đó nêu rõ quan điểm đối với nội dung liên quan đến thủ tục hành chính trong văn bản quy phạm pháp luật được đề nghị xây dựng (nếu có).
 
-**Chỉ mục:** 3
+ 3. Trên cơ sở tiếp thu ý kiến của Văn phòng Bộ theo quy định tại khoản 2 Điều này, các đơn vị thuộc Bộ hoàn thiện hồ sơ đề nghị xây dựng văn bản quy phạm pháp luật gửi Vụ Pháp chế để thẩm tra.Điều 44.5.TT.7.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000300
+(Điều 4 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**ID:** dk_00071680
+ 1. Trong quá trình soạn thảo văn bản quy phạm pháp luật, các đơn vị chủ trì soạn thảo văn bản quy phạm pháp luật có trách nhiệm thực hiện việc đánh giá tác động, lấy ý kiến, gửi thẩm định thủ tục hành chính theo quy định tại Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính, Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính, Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính và Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính và các văn bản quy phạm pháp luật khác có liên quan.
 
----
+ 2. Văn phòng Bộ chủ trì, phối hợp với đơn vị chủ trì soạn thảo tổ chức lấy ý kiến riêng đối với nội dung có quy định thủ tục hành chính dưới các hình thức phù hợp (tham vấn, hội nghị, hội thảo, tọa đàm, bằng văn bản...) trong các trường hợp sau:
 
+ a) Nội dung văn bản còn nhiều ý kiến khác nhau về sự cần thiết, hình thức của thủ tục hành chính, cách thức thực hiện quy định có liên quan đến mối quan hệ giữa Trung ương và địa phương hoặc nhiều Bộ, ngành;
 
-### Điều 44.5.TT.7.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật
+ b) Nội dung thủ tục có chi phí tuân thủ lớn nhưng xét thấy chưa được đánh giá một cách đầy đủ, thấu đáo.Điều 44.5.TT.7.5. Công bố thủ tục hành chính
 
-Điều 44.5.TT.7.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật
+(Điều 5 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Chỉ mục:** 4
+ 1. Các thủ tục hành chính phải công bố của Bộ Công Thương bao gồm các thủ tục được quy định tại Luật, Pháp lệnh, Nghị định, Quyết định của Thủ tướng Chính phủ do Bộ Công Thương chủ trì soạn thảo, Thông tư của Bộ trưởng Bộ Công Thương.
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000400
+ 2. Việc công bố thủ tục hành chính được thực hiện thông qua Quyết định công bố thủ tục hành chính của Bộ trưởng Bộ Công Thương.
 
-**ID:** dk_00071681
+ 3. Quy trình, thời hạn xây dựng và ban hành Quyết định công bố thủ tục hành chính của Bộ trưởng Bộ Công Thương thực hiện theo quy định tại Điều 9 Thông tư số 02/2017/TT-VPCP.
 
----
+ 4. Văn phòng Bộ có trách nhiệm công khai Quyết định công bố thủ tục hành chính của Bộ trưởng Bộ Công Thương trên trang thông tin điện tử http://kstthc.moit.gov.vn của Bộ Công Thương và gửi cho các cơ quan, đơn vị có liên quan.Điều 44.5.TT.7.6. Niêm yết thủ tục hành chính
 
+(Điều 6 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-### Điều 44.5.TT.7.5. Công bố thủ tục hành chính
+ 1. Phạm vi, yêu cầu, cách thức niêm yết công khai các thủ tục hành chính theo quy định tại Chương III Thông tư số 02/2017/TT-VPCP.
 
-*Nội dung chưa có sẵn*
+ 2. Các đơn vị thuộc Bộ có chức năng giải quyết thủ tục hành chính cho tổ chức, cá nhân có trách nhiệm niêm yết công khai các thủ tục này theo quy định.
 
-**Chỉ mục:** 5
+ 3. Văn phòng Bộ có trách nhiệm hướng dẫn, kiểm tra, đôn đốc các đơn vị trong niêm yết công khai thủ tục hành chính.Điều 44.5.TT.7.7. Nguyên tắc kiểm tra nghiệp vụ thực hiện thủ tục hành chính
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000500
+(Điều 7 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**ID:** dk_00071682
+ 1. Việc kiểm tra nghiệp vụ thực hiện thủ tục hành chính trong lĩnh vực Công Thương phải đảm bảo thực hiện các quy định tại Chương VII Thông tư số 02/2017/TT-VPCP.
 
----
+ 2. Việc kiểm tra nghiệp vụ được thực hiện theo Kế hoạch kiểm tra nghiệp vụ hàng năm do Văn phòng Bộ đề xuất, hoặc kiểm tra đột xuất theo chỉ đạo của Lãnh đạo Bộ.Điều 44.5.TT.7.8. Nội dung và cách thức kiểm tra nghiệp vụ thực hiện thủ tục hành chính
 
+(Điều 8 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-### Điều 44.5.TT.7.6. Niêm yết thủ tục hành chính
+ 1. Nội dung kiểm tra thực hiện theo quy định tại Mục 3 Chương VII Thông tư số 02/2017/TT-VPCP.
 
-*Nội dung chưa có sẵn*
+ 2. Cách thức kiểm tra thực hiện theo quy định tại Điều 38 Thông tư số 02/2017/TT-VPCP.Điều 44.5.TT.7.9. Trách nhiệm kiểm tra nghiệp vụ thực hiện thủ tục hành chính
 
-**Chỉ mục:** 6
+(Điều 9 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000600
+ 1. Trách nhiệm của Văn phòng Bộ:
 
-**ID:** dk_00071683
+ a) Chủ trì đề xuất Kế hoạch kiểm tra nghiệp vụ thực hiện thủ tục hành chính hàng năm trình Lãnh đạo Bộ ký ban hành;
 
----
+ b) Tổ chức kiểm tra việc thực hiện thủ tục hành chính trong lĩnh vực Công Thương theo quy định của pháp luật;
 
+ c) Phối hợp, đôn đốc các đơn vị trong kiểm tra nghiệp vụ thực hiện thủ tục hành chính trong lĩnh vực Công Thương;
 
-### Điều 44.5.TT.7.7. Nguyên tắc kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+ d) Báo cáo Lãnh đạo Bộ và đề xuất biện pháp xử lý kết quả kiểm tra;
 
-Điều 44.5.TT.7.7. Nguyên tắc kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+ đ) Định kỳ tổng hợp, xây dựng báo cáo công tác kiểm tra nghiệp vụ thực hiện thủ tục hành chính trong lĩnh vực Công Thương theo yêu cầu của cơ quan có thẩm quyền.
 
-**Chỉ mục:** 7
+ 2. Trách nhiệm của các đơn vị thuộc Bộ:
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000700
+ a) Theo dõi việc thực hiện thủ tục hành chính trong quá trình xây dựng, ban hành văn bản;
 
-**ID:** dk_00071684
+ b) Phối hợp, báo cáo Bộ (thông qua Văn phòng Bộ) tình hình thực hiện thủ tục hành chính, những khó khăn, vướng mắc (nếu có).Điều 44.5.TT.7.10. Nơi tiếp nhận phản ánh, kiến nghị
 
----
+(Điều 10 Thông tư số 18/2018/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý của Bộ Công Thương ngày 19/07/2018 của Bộ công thương, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
+ 1. Văn phòng Bộ là đầu mối tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính trong phạm vi quản lý nhà nước của Bộ Công Thương.
 
-### Điều 44.5.TT.7.8. Nội dung và cách thức kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+ 2. Địa chỉ tiếp nhận phản ánh, kiến nghị:
 
-Điều 44.5.TT.7.8. Nội dung và cách thức kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+ Văn phòng Bộ, số 54 Hai Bà Trưng, Hoàn Kiếm, Hà Nội.
 
-**Chỉ mục:** 8
+ Emai: CCHC-VPB@moit.gov.vn.
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000800
+ Website: http://kstthc.moit.gov.vn.
 
-**ID:** dk_00071685
+ Số điện thoại tiếp nhận phản ánh, kiến nghị được đăng tải trên website.Điều 44.5.TT.7.11. Cách thức tiếp nhận phản ánh, kiến nghị
 
----
+(Điều 11 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
+ 1. Phản ánh, kiến nghị bằng văn bản:
 
-### Điều 44.5.TT.7.9. Trách nhiệm kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+ Văn phòng Bộ tiếp nhận các phản ánh, kiến nghị và phân loại, xử lý.
 
-Điều 44.5.TT.7.9. Trách nhiệm kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+ 2. Phản ánh, kiến nghị qua điện thoại:
 
-**Chỉ mục:** 9
+ Hình thức phản ánh, kiến nghị này phải được thực hiện qua số điện thoại tiếp nhận phản ánh, kiến nghị được đăng tải trên website http://kstthc.moit.gov.vn. Người tiếp nhận điện thoại yêu cầu các cá nhân, tổ chức xác nhận lại phản ánh, kiến nghị bằng văn bản hoặc dữ liệu điện tử.
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180000900
+ 3. Phản ánh, kiến nghị bằng dữ liệu điện tử:
 
-**ID:** dk_00071686
+ Phản ánh, kiến nghị bằng dữ liệu điện tử do cá nhân, tổ chức gửi qua email CCHC-VPB@moit.gov.vn hoặc qua hệ thống hỗ trợ trực tuyến tiếp nhận, xử lý phản ánh, kiến nghị tại địa chỉ http://kstthc.moit.gov.vn và sẽ được in thành dạng văn bản.
 
----
+ 4. Phản ánh, kiến nghị thông qua phiếu lấy ý kiến hoặc các tham luận, các ý kiến phát biểu (có tên người, nơi làm việc, công tác) tại hội thảo, hội nghị liên quan đến quy định hành chính, thủ tục hành chính trong lĩnh vực Công Thương được coi là các phản ánh, kiến nghị hợp lệ của tổ chức, cá nhân về quy định hành chính, thủ tục hành chính trong lĩnh vực Công Thương.
 
+ 5. Văn phòng Bộ chủ trì, phối hợp với các đơn vị có liên quan tổ chức các Hội nghị lấy ý kiến tổ chức, cá nhân về thủ tục hành chính trong lĩnh vực Công Thương theo Quyết định của Bộ trưởng.
 
-### Điều 44.5.TT.7.10. Nơi tiếp nhận phản ánh, kiến nghị
+ Điều 44.5.TT.7.12. Phân loại phản ánh, kiến nghị
 
-Điều 44.5.TT.7.10. Nơi tiếp nhận phản ánh, kiến nghị
+(Điều 12 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Chỉ mục:** 10
+ 1. Trường hợp phản ánh, kiến nghị không đáp ứng yêu cầu quy định tại Điều 11 Thông tư này, Văn phòng Bộ liên hệ với cá nhân, tổ chức để hướng dẫn thực hiện phản ánh, kiến nghị theo đúng quy định.
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001000
+ 2. Trường hợp phản ánh, kiến nghị đáp ứng yêu cầu, Văn phòng Bộ tiến hành nghiên cứu nội dung phản ánh, kiến nghị hoặc liên hệ với cá nhân, tổ chức để làm rõ thông tin liên quan.Điều 44.5.TT.7.13. Xử lý phản ánh, kiến nghị
 
-**ID:** dk_00071687
+(Điều 13 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
----
+ Trên cơ sở nghiên cứu và làm rõ thông tin liên quan, Văn phòng Bộ có trách nhiệm:
 
+ 1. Đối với phản ánh, kiến nghị về hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định hành chính của các cơ quan hành chính nhà nước, của công chức Bộ Công Thương, trong thời hạn 02 ngày làm việc kể từ ngày nhận được phản ánh, kiến nghị, Văn phòng Bộ chuyển phản ánh, kiến nghị tới cơ quan, đơn vị được phản ánh, kiến nghị hoặc cơ quan, đơn vị trực tiếp quản lý công chức có hành vi được phản ánh, kiến nghị để xử lý theo quy định của pháp luật và yêu cầu báo cáo Bộ trưởng kết quả xử lý trong thời hạn cụ thể.
 
-### Điều 44.5.TT.7.11. Cách thức tiếp nhận phản ánh, kiến nghị
+ 2. Đối với phản ánh, kiến nghị về nội dung quy định hành chính:
 
-Điều 44.5.TT.7.11. Cách thức tiếp nhận phản ánh, kiến nghị
+ a) Phản ánh, kiến nghị về nội dung quy định hành chính không thuộc thẩm quyền ban hành của Bộ Công Thương: Trong thời hạn 02 ngày làm việc kể từ ngày Văn phòng Bộ nhận được phản ánh, kiến nghị, Văn phòng Bộ hướng dẫn tổ chức, cá nhân gửi phản ánh, kiến nghị đó đến các cơ quan có liên quan;
 
-**Chỉ mục:** 11
+ b) Các văn bản phản ánh, kiến nghị về quy định hành chính thuộc thẩm quyền ban hành của Bộ Công Thương: Văn phòng Bộ chuyển phản ánh, kiến nghị tới cơ quan, đơn vị được giao nhiệm vụ giúp Bộ soạn thảo quy định hành chính để nghiên cứu xử lý và yêu cầu báo cáo lại kết quả xử lý trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận phản ánh, kiến nghị. Riêng đối với các phản ánh, kiến nghị trên Hệ thống thông tin trực tuyến, thời hạn này là 03 ngày làm việc kể từ ngày tiếp nhận phản ánh, kiến nghị;
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001100
+ c) Đối với những phản ánh, kiến nghị phức tạp cần nhiều thời gian để xác minh, nghiên cứu, thời hạn này là 10 ngày làm việc tính từ ngày tiếp nhận phản ánh, kiến nghị;
 
-**ID:** dk_00071688
+ d) Văn phòng Bộ báo cáo Lãnh đạo Bộ để chủ trì xử lý một số phản ánh, kiến nghị về quy định thủ tục hành chính có tác động lớn đến hoạt động kinh doanh và đời sống nhân dân, hoặc đã được xử lý nhưng cá nhân, tổ chức vẫn tiếp tục kiến nghị.
 
----
+ 3. Khi nhận được văn bản chuyển phản ánh, kiến nghị của Văn phòng Bộ, các đơn vị thuộc Bộ có trách nhiệm xem xét xử lý theo đúng quy định của pháp luật, báo cáo Bộ trưởng kết quả xử lý trong thời hạn quy định đồng thời gửi về Văn phòng Bộ để thông báo kết quả xử lý cho cá nhân, tổ chức có phản ánh, kiến nghị.Điều 44.5.TT.7.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
 
+(Điều 14 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-### Điều 44.5.TT.7.12. Phân loại phản ánh, kiến nghị
+ Văn phòng Bộ chịu trách nhiệm theo dõi, đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị của các đơn vị thuộc Bộ; kịp thời báo cáo và tham mưu cho Bộ trưởng các biện pháp cần thiết để chấn chỉnh kỷ cương, kỷ luật hành chính trong việc xử lý phản ánh, kiến nghị của cá nhân, tổ chức.Điều 44.5.TT.7.15. Công khai kết quả xử lý phản ánh, kiến nghị
 
-*Nội dung chưa có sẵn*
+(Điều 15 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Chỉ mục:** 12
+ Văn phòng Bộ chủ trì, phối hợp với các đơn vị có liên quan tổ chức công khai kết quả xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính theo quy định tại Điều 19 Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính.Điều 44.5.TT.7.16. Danh mục thủ tục hành chính trong lĩnh vực Công Thương
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001200
+(Điều 16 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**ID:** dk_00071689
+ 1. Văn phòng Bộ có trách nhiệm thống kê, tập hợp đầy đủ các thủ tục hành chính, các quy định có liên quan đến thủ tục hành chính trong lĩnh vực Công Thương để làm cơ sở cho việc rà soát, đánh giá thủ tục hành chính.
 
----
+ 2. Sau khi lấy ý kiến các đơn vị có thực hiện thủ tục hành chính, Văn phòng Bộ tổng hợp, trình Lãnh đạo Bộ ban hành Quyết định công bố Danh mục thủ tục hành chính hàng năm trong lĩnh vực Công Thương và đăng tải trên trang thông tin điện tử http://kstthc.moit.gov.vn.Điều 44.5.TT.7.17. Kế hoạch rà soát, đánh giá thủ tục hành chính
 
+(Điều 17 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-### Điều 44.5.TT.7.13. Xử lý phản ánh, kiến nghị
+ 1. Căn cứ ban hành Kế hoạch rà soát, đánh giá thủ tục hành chính:
 
-*Nội dung chưa có sẵn*
+ a) Chỉ đạo của Chính phủ, Thủ tướng Chính phủ;
 
-**Chỉ mục:** 13
+ b) Kế hoạch rà soát trọng tâm được Thủ tướng Chính phủ phê duyệt;
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001300
+ c) Chương trình công tác, cải cách hành chính hàng năm của Bộ và chỉ đạo của Lãnh đạo Bộ;
 
-**ID:** dk_00071690
+ d) Phản ánh, kiến nghị của cá nhân, tổ chức về thủ tục hành chính.
 
----
+ 2. Nội dung kế hoạch phải xác định rõ thủ tục hành chính cần rà soát, đánh giá, đơn vị thực hiện, thời gian thực hiện, căn cứ lựa chọn và dự kiến sản phẩm.
 
+ 3. Trên cơ sở quy định tại khoản 1, khoản 2 Điều này, hàng năm, Văn phòng Bộ có trách nhiệm xây dựng kế hoạch rà soát trình Lãnh đạo Bộ phê duyệt, ban hành.Điều 44.5.TT.7.18. Nội dung, cách thức, kết quả rà soát
 
-### Điều 44.5.TT.7.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+(Điều 18 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-Điều 44.5.TT.7.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+ 1. Nội dung rà soát được thực hiện theo quy định tại Chương V Thông tư số 02/2017/TT-VPCP.
 
-**Chỉ mục:** 14
+ 2. Cách thức rà soát:
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001400
+ a) Các đơn vị thuộc Bộ rà soát thủ tục hành chính có liên quan đến phạm vi quản lý của mình theo nhiệm vụ được giao trong Kế hoạch rà soát, gửi kết quả cho Văn phòng Bộ tổng hợp;
 
-**ID:** dk_00071691
+ b) Các đơn vị thuộc Bộ chịu trách nhiệm về tính đầy đủ, đúng đắn của các thông tin cung cấp trong quá trình rà soát theo phân công, đảm bảo thời hạn rà soát theo Kế hoạch.
 
----
+ 3. Văn phòng Bộ có trách nhiệm tổng hợp và thống nhất với các đơn vị về kết quả rà soát thủ tục hành chính trong lĩnh vực Công Thương, báo cáo Lãnh đạo Bộ và các cơ quan có liên quan.
 
+ Trong quá trình xem xét kết quả rà soát hoặc phản hồi của các cơ quan có liên quan, Văn phòng Bộ có thể tiến hành rà soát độc lập các kết quả rà soát thông qua hội thảo, hội nghị, lấy ý kiến các đối tượng chịu tác động, khảo sát, thuê chuyên gia tư vấn độc lập.
 
-### Điều 44.5.TT.7.15. Công khai kết quả xử lý phản ánh, kiến nghị
+ Trường hợp không thống nhất về kết quả rà soát giữa Văn phòng Bộ và các đơn vị, Văn phòng Bộ báo cáo Lãnh đạo Bộ xem xét, quyết định.
 
-Điều 44.5.TT.7.15. Công khai kết quả xử lý phản ánh, kiến nghị
+ 4. Kết quả rà soát là một trong những cơ sở chính để lên phương án đơn giản hóa thủ tục hành chính trong lĩnh vực Công Thương.Điều 44.5.TT.7.19. Hệ thống công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính Bộ Công Thương
 
-**Chỉ mục:** 15
+(Điều 19 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001500
+ 1. Bộ Công Thương thiết lập hệ thống công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính tại các đơn vị có liên quan.
 
-**ID:** dk_00071692
+ 2. Văn phòng Bộ chủ trì, phối hợp với các cơ quan, đơn vị có liên quan lập Hệ thống công chức đầu mối, trình Bộ trưởng quyết định.Điều 44.5.TT.7.20. Nhiệm vụ của công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính
 
----
+(Điều 20 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
+ 1. Công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính có các nhiệm vụ sau:
 
-### Điều 44.5.TT.7.16. Danh mục thủ tục hành chính trong lĩnh vực Công Thương
+ a) Thực hiện công bố, niêm yết thủ tục hành chính theo quy định của pháp luật;
 
-Điều 44.5.TT.7.16. Danh mục thủ tục hành chính trong lĩnh vực Công Thương
+ b) Tiếp nhận, xử lý phản ánh, kiến nghị theo quy định của pháp luật;
 
-**Chỉ mục:** 16
+ c) Chủ trì thực hiện việc rà soát thủ tục hành chính thuộc chức năng, nhiệm vụ của đơn vị mình theo Kế hoạch rà soát do Bộ trưởng Bộ Công Thương ban hành;
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001600
+ d) Tổng hợp, báo cáo theo quy định về công tác kiểm soát thủ tục hành chính của đơn vị mình theo yêu cầu của Văn phòng Bộ;
 
-**ID:** dk_00071693
+ đ) Tham gia phổ biến, tập huấn nghiệp vụ kiểm soát thủ tục hành chính do Bộ tổ chức.Điều 44.5.TT.7.21. Quan hệ chỉ đạo, phối hợp trong kiểm soát thủ tục hành chính
 
----
+(Điều 21 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
+ 1. Bộ trưởng Bộ Công Thương thống nhất chỉ đạo công tác kiểm soát thủ tục hành chính trong lĩnh vực Bộ Công Thương.
 
-### Điều 44.5.TT.7.17. Kế hoạch rà soát, đánh giá thủ tục hành chính
+ 2. Văn phòng Bộ chịu trách nhiệm trước Bộ trưởng Bộ Công Thương về công tác kiểm soát thủ tục hành chính trong lĩnh vực Công Thương.
 
-Điều 44.5.TT.7.17. Kế hoạch rà soát, đánh giá thủ tục hành chính
+ 3. Việc phối hợp thực hiện kiểm soát thủ tục hành chính trong lĩnh vực Công Thương được thực hiện thông qua:
 
-**Chỉ mục:** 17
+ a) Hệ thống công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính;
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001700
+ b) Công tác phổ biến, tập huấn, tiếp nhận phản ánh, kiến nghị về thủ tục hành chính, quy định hành chính của Bộ Công Thương.Điều 44.5.TT.7.22. Trách nhiệm của các đơn vị thuộc Bộ và các tổ chức, cá nhân thực hiện thủ tục hành chính trong lĩnh vực Công Thương
 
-**ID:** dk_00071694
+(Điều 22 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
----
+ 1. Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm trước Bộ trưởng về công tác kiểm soát thủ tục hành chính của đơn vị mình.
 
+ 2. Tổ chức, cá nhân chịu trách nhiệm trước pháp luật và cơ quan nhà nước có thẩm quyền khi thực hiện thủ tục hành chính trong lĩnh vực Công Thương.Điều 44.5.TT.7.23. Khen thưởng và xử lý trách nhiệm
 
-### Điều 44.5.TT.7.18. Nội dung, cách thức, kết quả rà soát
+(Điều 23 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-Điều 44.5.TT.7.18. Nội dung, cách thức, kết quả rà soát
+ 1. Viêc thực hiện quy định về kiểm soát thủ tục hành chính là một trong những căn cứ đánh giá, bình xét thi đua, khen thưởng hàng năm đối với cá nhân, đơn vị thuộc Bộ.
 
-**Chỉ mục:** 18
+ 2. Căn cứ vào kết quả thực hiện công tác kiểm soát thủ tục hành chính, Văn phòng Bộ chủ trì, phối hợp với các đơn vị có liên quan xem xét đề nghị Lãnh đạo Bộ khen thưởng cho các tập thể và cá nhân có thành tích đặc biệt xuất sắc trong công tác kiểm soát thủ tục hành chính.
 
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001800
+ 3. Đơn vị được giao chủ trì soạn thảo văn bản quy phạm pháp luật không được bình xét thi đua, khen thưởng trong năm khi có văn bản do đơn vị đó chủ trì soạn thảo có nội dung liên quan đến thủ tục hành chính nhưng không thực hiện đánh giá thủ tục hành chính hoặc chậm công bố thủ tục hành chính mà không có lý do chính đáng.
 
-**ID:** dk_00071695
+ 4. Văn phòng Bộ không được bình xét thi đua, khen thưởng trong năm khi không có ý kiến bằng văn bản về thủ tục hành chính trong quá trình lập đề nghị, thẩm tra, soạn thảo các văn bản quy phạm pháp luật có nội dung liên quan đến thủ tục hành chính, trừ trường hợp có lý do chính đáng.Điều 44.5.TT.7.24. Kinh phí bảo đảm cho hoạt động kiểm soát thủ tục hành chính
 
----
+(Điều 24 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
+ 1. Vụ Tài chính và Đổi mới doanh nghiệp có trách nhiệm thực hiện phân bổ kinh phí từ ngân sách Nhà nước cho công tác kiểm soát thủ tục hành chính hàng năm của Bộ theo quy định hiện hành.
 
-### Điều 44.5.TT.7.19. Hệ thống công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính Bộ Công Thương
+ 2. Kinh phí này chưa bao gồm kinh phí thực hiện các Đề án theo quy định của Chính phủ, Thủ tướng Chính phủ.
 
-Điều 44.5.TT.7.19. Hệ thống công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính Bộ Công Thương
+ 3. Văn phòng Bộ có trách nhiệm lập dự toán chi tiết và sử dụng kinh phí theo chế độ tài chính, đảm bảo đủ chứng từ hợp pháp, hợp lệ theo quy định hiện hành.Mục 2
 
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180001900
-
-**ID:** dk_00071696
-
----
-
-
-### Điều 44.5.TT.7.20. Nhiệm vụ của công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính
-
-Điều 44.5.TT.7.20. Nhiệm vụ của công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính
-
-**Chỉ mục:** 20
-
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180002000
-
-**ID:** dk_00071697
-
----
-
-
-### Điều 44.5.TT.7.21. Quan hệ chỉ đạo, phối hợp trong kiểm soát thủ tục hành chính
-
-Điều 44.5.TT.7.21. Quan hệ chỉ đạo, phối hợp trong kiểm soát thủ tục hành chính
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180002100
-
-**ID:** dk_00071698
-
----
-
-
-### Điều 44.5.TT.7.22. Trách nhiệm của các đơn vị thuộc Bộ và các tổ chức, cá nhân thực hiện thủ tục hành chính trong lĩnh vực Công Thương
-
-Điều 44.5.TT.7.22. Trách nhiệm của các đơn vị thuộc Bộ và các tổ chức, cá nhân thực hiện thủ tục hành chính trong lĩnh vực Công Thương
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180002200
-
-**ID:** dk_00071699
-
----
-
-
-### Điều 44.5.TT.7.23. Khen thưởng và xử lý trách nhiệm
-
-Điều 44.5.TT.7.23. Khen thưởng và xử lý trách nhiệm
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180002300
-
-**ID:** dk_00071700
-
----
-
-
-### Điều 44.5.TT.7.24. Kinh phí bảo đảm cho hoạt động kiểm soát thủ tục hành chính
-
-Điều 44.5.TT.7.24. Kinh phí bảo đảm cho hoạt động kiểm soát thủ tục hành chính
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 440050000000000065000002000000000000000000802661800180002400
-
-**ID:** dk_00071701
-
----
-
-
-### Điều 44.5.TT.6.45. Thủ tục hành chính, kiểm soát thủ tục hành chính
+QUY ĐỊNH VỀ HOẠT ĐỘNG KIỂM SOÁT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI
 
 Điều 44.5.TT.6.45. Thủ tục hành chính, kiểm soát thủ tục hành chính
 
-**Chỉ mục:** 45
+(Điều 45 Thông tư số 21/2016/TT-BGTVT, có hiệu lực thi hành kể từ ngày 15/10/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 47/2017/TT-BGTVT có hiệu lực thi hành kể từ ngày 01/02/2018)
 
-**Mã phân cấp:** 440050000000000065000004100000000000000000802592500210004500
+1. Thủ tục hành chính là trình tự, cách thức thực hiện, hồ sơ và yêu cầu, điều kiện do cơ quan nhà nước, người có thẩm quyền quy định để giải quyết một công việc cụ thể liên quan đến cá nhân, tổ chức. Thủ tục hành chính phải được quy định trong văn bản quy phạm pháp luật theo đúng thẩm quyền được quy định tại Luật ban hành văn bản quy phạm pháp luật.
 
-**ID:** dk_00071703
+2. Việc quy định một thủ tục hành chính chỉ hoàn thành khi đáp ứng đầy đủ các bộ phận tạo thành cơ bản sau đây:
 
----
+a) Tên thủ tục hành chính;
 
+b) Trình tự thực hiện;
 
-### Điều 44.5.TT.6.46. Thẩm quyền, phạm vi công bố thủ tục hành chính
+c) Cách thức thực hiện;
+
+d) Thành phần, số lượng hồ sơ;
+
+đ) Thời hạn giải quyết;
+
+e) Đối tượng thực hiện thủ tục hành chính;
+
+g) Cơ quan giải quyết thủ tục hành chính;
+
+h) Trường hợp thủ tục hành chính phải có mẫu đơn, mẫu tờ khai hành chính, kết quả thực hiện thủ tục hành chính, yêu cầu, điều kiện, phí, lệ phí thì mẫu đơn, mẫu tờ khai hành chính, kết quả thực hiện thủ tục hành chính, yêu cầu, điều kiện, phí, lệ phí là bộ phận tạo thành của thủ tục hành chính.
+
+3. Kiểm soát thủ tục hành chính là việc xem xét, đánh giá, theo dõi nhằm bảo đảm tính khả thi của quy định về thủ tục hành chính, đáp ứng yêu cầu công khai, minh bạch trong quá trình tổ chức thực hiện. Kiểm soát thủ tục hành chính được thực hiện ngay từ khi đề nghị xây dựng văn bản quy phạm pháp luật và được tiến hành thường xuyên, liên tục trong quá trình tổ chức thực hiện thủ tục hành chính.
+
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 80. Hiệu lực thi hành; Điều 81. Tổ chức thực hiện của Thông tư 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ban hành ngày 25/08/2016; Điều 44.5.NĐ.7. Nguyên tắc quy định thủ tục hành chính; Điều 44.5.NĐ.8. Yêu cầu của việc quy định thủ tục hành chính)
 
 Điều 44.5.TT.6.46. Thẩm quyền, phạm vi công bố thủ tục hành chính
 
-**Chỉ mục:** 46
+(Điều 46 Thông tư số 21/2016/TT-BGTVT, có hiệu lực thi hành kể từ ngày 15/10/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 47/2017/TT-BGTVT có hiệu lực thi hành kể từ ngày 01/02/2018)
 
-**Mã phân cấp:** 440050000000000065000004100000000000000000802592500210004600
+1. Các thủ tục hành chính sau khi ban hành, sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ phải được công bố công khai.
 
-**ID:** dk_00071704
+2. Thủ tục hành chính được công bố bao gồm: thủ tục hành chính mới ban hành; thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế và thủ tục hành chính bị bãi bỏ.
 
----
+3. Bộ trưởng Bộ Giao thông vận tải công bố thủ tục hành chính được quy định trong văn bản quy phạm pháp luật thuộc lĩnh vực quản lý nhà nước của mình.
 
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 80. Hiệu lực thi hành; Điều 81. Tổ chức thực hiện của Thông tư 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ban hành ngày 25/08/2016; Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính; Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính)
 
-### Điều 44.5.TT.6.47. Công bố thủ tục hành chính
+Điều 44.5.TT.6.47. Công bố thủ tục hành chính
 
-*Nội dung chưa có sẵn*
+(Điều 47 Thông tư số 21/2016/TT-BGTVT, có hiệu lực thi hành kể từ ngày 15/10/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 47/2017/TT-BGTVT có hiệu lực thi hành kể từ ngày 01/02/2018)
 
-**Chỉ mục:** 47
+1. Chậm nhất trước 35 ngày, tính đến ngày văn bản quy phạm pháp luật có quy định về thủ tục hành chính có hiệu lực thi hành, cơ quan chủ trì soạn thảo văn bản quy phạm pháp luật có trách nhiệm rà soát, xây dựng nội dung thủ tục hành chính và cung cấp nội dung văn bản qua thư điện tử cho Văn phòng Bộ (Phòng Kiểm soát thủ tục hành chính) để trình Bộ trưởng ban hành Quyết định công bố thủ tục hành chính theo quy định.
 
-**Mã phân cấp:** 440050000000000065000004100000000000000000802592500210004700
+2. Chậm nhất trước 20 ngày, tính đến ngày văn bản quy phạm pháp luật có quy định về thủ tục hành chính có hiệu lực thi hành, Văn phòng Bộ phải trình Bộ trưởng ban hành Quyết định công bố thủ tục hành chính quy định tại văn bản quy phạm pháp luật liên quan.
 
-**ID:** dk_00071705
-
----
-
-
-### Điều 44.5.TT.6.48. Niêm yết công khai các thủ tục hành chính
+(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 80. Hiệu lực thi hành; Điều 81. Tổ chức thực hiện của Thông tư 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ban hành ngày 25/08/2016; Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính; Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính; Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính)
 
 Điều 44.5.TT.6.48. Niêm yết công khai các thủ tục hành chính
 
-**Chỉ mục:** 48
+(Điều 48 Thông tư số 21/2016/TT-BGTVT, có hiệu lực thi hành kể từ ngày 15/10/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 47/2017/TT-BGTVT có hiệu lực thi hành kể từ ngày 01/02/2018)
 
-**Mã phân cấp:** 440050000000000065000004100000000000000000802592500210004800
+1. Trên cơ sở Quyết định công bố thủ tục hành chính của Bộ trưởng, cơ quan, tổ chức trực tiếp tiếp nhận hồ sơ giải quyết thủ tục hành chính phải thực hiện việc niêm yết công khai kịp thời, đảm bảo đúng, đầy đủ các bộ phận cấu thành về kiểm soát thủ tục hành chính; các thủ tục hành chính được niêm yết công khai nếu có yêu cầu về mẫu đơn, mẫu tờ khai thì các mẫu đơn, mẫu tờ khai phải được đính kèm ngay sau thủ tục hành chính đó.
 
-**ID:** dk_00071706
+2. Cách thức niêm yết công khai thủ tục hành chính được thực hiện thống nhất như sau:
 
----
+a) Thủ tục hành chính được niêm yết công khai trên bảng có thể sử dụng bảng gắn trên tường, bảng trụ xoay, bảng di động tùy theo điều kiện cụ thể của cơ quan thực hiện niêm yết công khai;
 
+b) Bảng niêm yết có kích thước thích hợp, đảm bảo niêm yết đầy đủ các thủ tục hành chính và nội dung, địa chỉ tiếp nhận phản ánh, kiến nghị.
 
-### Điều 44.5.TT.6.77. Báo cáo về công tác giải quyết thủ tục hành chính
+3. Thông tin về thủ tục hành chính đã được công bố phải được công khai đầy đủ, chính xác, kịp thời theo các hình thức sau:
+
+a) Công khai trên Cơ sở dữ liệu quốc gia về thủ tục hành chính;
+
+b) Công khai tại trụ sở cơ quan, đơn vị trực tiếp tiếp nhận, giải quyết thủ tục hành chính thông qua việc niêm yết hoặc sử dụng các hình thức điện tử phù hợp với điều kiện cơ sở vật chất, kỹ thuật trên cơ sở quyết định công bố thủ tục hành chính hoặc kết xuất, kết nối, tích hợp dữ liệu thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính;
+
+c) Đăng tải trên Cổng thông tin điện tử của Bộ, cơ quan thực hiện thủ tục hành chính;
+
+d) Ngoài các hình thức công khai bắt buộc tại các điểm a, b và c khoản này, việc công khai thủ tục hành chính có thể thực hiện theo các hình thức khác phù hợp với điều kiện thực tế của cơ quan, đơn vị và đối tượng thực hiện thủ tục hành chính.
+
+(Điều này có nội dung liên quan đến Điều 44.5.TT.2.8. Phạm vi và trách nhiệm niêm yết công khai thủ tục hành chính; Điều 44.5.TT.2.9. Trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc niêm yết thủ tục hành chính; Điều 44.5.TT.2.10. Yêu cầu của việc niêm yết công khai thủ tục hành chính; Điều 44.5.TT.2.11. Cách thức niêm yết công khai thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 80. Hiệu lực thi hành; Điều 81. Tổ chức thực hiện của Thông tư 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ban hành ngày 25/08/2016; Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức)
 
 Điều 44.5.TT.6.77. Báo cáo về công tác giải quyết thủ tục hành chính
 
-**Chỉ mục:** 77
+(Điều 77 Thông tư số 21/2016/TT-BGTVT, có hiệu lực thi hành kể từ ngày 15/10/2016, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 47/2017/TT-BGTVT có hiệu lực thi hành kể từ ngày 01/02/2018)
 
-**Mã phân cấp:** 440050000000000065000004100000000000000000802592500210007700
+1. Định kỳ 06 tháng, hàng năm, cơ quan chủ trì soạn thảo văn bản quy phạm pháp luật báo cáo Văn phòng Bộ về tình hình và kết quả thực hiện hoạt động kiểm soát thủ tục hành chính của mình hoặc báo cáo theo yêu cầu đột xuất.
 
-**ID:** dk_00071707
+2. Văn phòng Bộ có trách nhiệm tổng hợp, báo cáo về tình hình, kết quả thực hiện hoạt động kiểm soát thủ tục hành chính của Bộ theo định kỳ hoặc báo cáo đột xuất khi có yêu cầu
 
----
+(Điều này có nội dung liên quan đến Điều 8. Phạm vi và trách nhiệm niêm yết công khai thủ tục hành chính; Điều 9. Trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc niêm yết thủ tục hành chính; Điều 10. Yêu cầu của việc niêm yết công khai thủ tục hành chính; Điều 11. Cách thức niêm yết công khai thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 80. Hiệu lực thi hành; Điều 81. Tổ chức thực hiện của Thông tư 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ban hành ngày 25/08/2016; Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức)
 
+Chương VIII
 
-### Điều 44.5.NĐ.36. Trách nhiệm thi hành
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 44.5.NĐ.36. Trách nhiệm thi hành
 
-**Chỉ mục:** 36
+(Điều 36 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-**Mã phân cấp:** 4400500000000000700003600000000000000000
+1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.
 
-**ID:** dk_00071709
+2. Bộ Tư pháp có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Nghị định này.
 
----
+Điều 44.5.NĐ.37. Hiệu lực thi hành
 
+(Điều 37 Nghị định số 63/2010/NĐ-CP, có hiệu lực thi hành kể từ ngày 14/10/2010)
 
-### Điều 44.5.NĐ.37. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 14 tháng 10 năm 2010. Bãi bỏ quy định tại Điều 2 của Quyết định số 1699/QĐ-TTg ngày 20 tháng 10 năm 2009 của Thủ tướng Chính phủ về việc thiết lập Cơ sở dữ liệu quốc gia về thủ tục hành chính kể từ thời điểm Nghị định này có hiệu lực thi hành.
 
-*Nội dung chưa có sẵn*
+2. Thủ tục hành chính quy định tại các văn bản quy phạm pháp luật đã được cơ quan nhà nước có thẩm quyền ban hành trước khi Nghị định này có hiệu lực thi hành thì vẫn tiếp tục có hiệu lực thi hành cho đến khi được sửa đổi, bổ sung, thay thế hoặc bị bãi bỏ, hủy bỏ. 
 
-**Chỉ mục:** 37
+Trước ngày 31 tháng 12 năm 2010, cơ quan đã ban hành văn bản sử dụng phương pháp dùng một văn bản quy phạm pháp luật để sửa đổi, bổ sung, thay thế, huỷ bỏ, bãi bỏ thủ tục hành chính quy định trong nhiều văn bản quy phạm pháp luật do chính cơ quan đó ban hành nhằm bảo đảm đơn giản hóa thủ tục hành chính theo yêu cầu của Đề án đơn giản hóa thủ tục hành chính trên các lĩnh vực quản lý nhà nước giai đoạn 2007 - 2010 được phê duyệt kèm theo Quyết định số 30/QĐ-TTg ngày 10 tháng 01 năm 2007 của Thủ tướng Chính phủ. 
 
-**Mã phân cấp:** 4400500000000000700003700000000000000000
+Sau ngày 31 tháng 12 năm 2010, việc sửa đổi, bổ sung, thay thế hoặc bãi bỏ, hủy bỏ thủ tục hành chính được áp dụng theo đúng quy định tại Nghị định này.
 
-**ID:** dk_00071710
+3. Việc quy định mới về thủ tục hành chính trong các văn bản quy phạm pháp luật được áp dụng theo đúng quy định tại Nghị định này kể từ ngày Nghị định này có hiệu lực thi hành./.  
 
----
+Điều 44.5.NĐ.38. Điều khoản thi hành
 
+(Điều 5 Nghị định số 48/2013/NĐ-CP Sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính ngày 14/05/2013 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2013 )
 
-### Điều 44.5.NĐ.38. Điều khoản thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2013.
 
-*Nội dung chưa có sẵn*
+2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-**Chỉ mục:** 5
+Điều 44.5.NĐ.39. Điều khoản chuyển tiếp
 
-**Mã phân cấp:** 4400500000000000700003740236550048000380
+(Điều 6 Nghị định số 92/2017/NĐ-CP Sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính ngày 07/08/2017 của Chính phủ, có hiệu lực thi hành kể từ ngày 25/09/2017 )
 
-**ID:** dk_00071711
+1. Trường hợp Nghị định quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ đã ban hành trước khi Nghị định này có hiệu lực thi hành, bộ, cơ quan ngang bộ thực hiện tổ chức lại Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng bộ, cơ quan ngang bộ trên cơ sở chuyển giao Phòng Kiểm soát thủ tục hành chính thuộc Tổ chức pháp chế của bộ, cơ quan ngang bộ trong trường hợp cơ cấu tổ chức của Tổ chức pháp chế có phòng này hoặc thành lập Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng bộ, cơ quan ngang bộ để thực hiện chức năng, nhiệm vụ kiểm soát thủ tục hành chính, cải cách thủ tục hành chính, tổ chức triển khai thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính được giao theo quy định tại Nghị định này. Riêng Bộ Công an thực hiện theo quy định tại Luật Công an nhân dân.
 
----
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện tổ chức lại Phòng Kiểm soát thủ tục hành chính thuộc Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trên cơ sở chuyển giao Phòng Kiểm soát thủ tục hành chính thuộc Sở Tư pháp để thực hiện chức năng, nhiệm vụ kiểm soát thủ tục hành chính, cải cách thủ tục hành chính, tổ chức triển khai thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính phủ hợp với quy định tại Nghị định này.
 
+Điều 44.5.NĐ.40. Trách nhiệm tổ chức thực hiện
 
-### Điều 44.5.NĐ.39. Điều khoản chuyển tiếp
+(Điều 7 Nghị định số 92/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-*Nội dung chưa có sẵn*
+1. Văn phòng Chính phủ có trách nhiệm:
 
-**Chỉ mục:** 6
+a) Hướng dẫn thực hiện công bố, công khai thủ tục hành chính; rà soát, đánh giá thủ tục hành chính; xây dựng, quản lý và vận hành Cơ sở dữ liệu quốc gia về thủ tục hành chính; kiểm tra, tổng hợp, báo cáo về tình hình, kết quả thực hiện công tác kiểm soát thủ tục hành chính và các nội dung khác theo quy định tại Nghị định này.
 
-**Mã phân cấp:** 4400500000000000700003740236550063000390
+b) Theo dõi, đôn đốc, kiểm tra việc thực hiện Nghị định này.
 
-**ID:** dk_00071712
+2. Bộ Tư pháp có trách nhiệm rà soát, bãi bỏ toàn bộ hoặc một phần Thông tư của Bộ trưởng Bộ Tư pháp khi Thông tư của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thực hiện các nội dung quy định tại điểm a khoản 1 Điều này có hiệu lực thi hành.
 
----
+3. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
+Điều 44.5.NĐ.41. Điều khoản thi hành
 
-### Điều 44.5.NĐ.40. Trách nhiệm tổ chức thực hiện
+(Điều 8 Nghị định số 92/2017/NĐ-CP, có hiệu lực thi hành kể từ ngày 25/09/2017)
 
-*Nội dung chưa có sẵn*
+1. Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 9 năm 2017.
 
-**Chỉ mục:** 7
+2. Nghị định này bãi bỏ khoản 3a Điều 3, khoản 3a Điều 5, khoản 3a Điều 6 Nghị định số 55/2011/NĐ-CP ngày 04 tháng 7 năm 2011 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế (đã được sửa đổi, bổ sung tại Điều 4 Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính); bãi bỏ cụm từ “kiểm soát thủ tục hành chính” tại điểm c khoản 2 Điều 174 Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật.
 
-**Mã phân cấp:** 4400500000000000700003740236550063000400
+Điều 44.5.TL.1.7. Hiệu lực thi hành
 
-**ID:** dk_00071713
+(Điều 7 Thông tư liên tịch số 01/2011/TTLT-VPCP-BNV, có hiệu lực thi hành kể từ ngày 15/03/2011)
 
----
+Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2011.
 
+Điều 44.5.TL.1.8. Trách nhiệm thi hành
 
-### Điều 44.5.NĐ.41. Điều khoản thi hành
+(Điều 8 Thông tư liên tịch số 01/2011/TTLT-VPCP-BNV, có hiệu lực thi hành kể từ ngày 15/03/2011)
 
-*Nội dung chưa có sẵn*
+1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập và quy định cụ thể nhiệm vụ, quyền hạn, cơ cấu tổ chức và biên chế của Phòng Kiểm soát thủ tục hành chính trực thuộc Văn phòng Bộ, cơ quan ngang Bộ, Văn phòng Ủy ban nhân dân cấp tỉnh theo hướng dẫn tại Thông tư liên tịch này.
 
-**Chỉ mục:** 8
+2. Trong quá trình thực hiện, nếu có vấn đề phát sinh hoặc có khó khăn, vướng mắc, Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh và các cơ quan có liên quan phản ánh kịp thời về Văn phòng Chính phủ và Bộ Nội vụ để xem xét, giải quyết theo thẩm quyền.
 
-**Mã phân cấp:** 4400500000000000700003740236550063000410
+Điều 44.5.TT.1.6. Điều khoản thi hành
 
-**ID:** dk_00071714
+(Điều 6 Thông tư số 167/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/12/2012)
 
----
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2012 và thay thế Thông tư số 224/2010/TT-BTC ngày 31 tháng 12 năm 2010 của Bộ Tài chính quy định việc lập dự toán, quản lý và sử dụng kinh phí thực hiện các hoạt động kiểm soát thủ tục hành chính.
 
-
-### Điều 44.5.TL.1.7. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 7
-
-**Mã phân cấp:** 4400500000000000700003780238870001000070
-
-**ID:** dk_00071715
-
----
-
-
-### Điều 44.5.TL.1.8. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 8
-
-**Mã phân cấp:** 4400500000000000700003780238870001000080
-
-**ID:** dk_00071716
-
----
-
-
-### Điều 44.5.TT.1.6. Điều khoản thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 6
-
-**Mã phân cấp:** 4400500000000000700003780245100167000060
-
-**ID:** dk_00071717
-
----
-
-
-### Điều 44.5.TT.7.25. Hiệu lực và trách nhiệm thi hành
+2. Trong quá trình triển khai thực hiện, nếu có khó khăn vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu, giải quyết .
 
 Điều 44.5.TT.7.25. Hiệu lực và trách nhiệm thi hành
 
-**Chỉ mục:** 25
+(Điều 25 Thông tư số 18/2018/TT-BCT, có hiệu lực thi hành kể từ ngày 03/09/2018)
 
-**Mã phân cấp:** 4400500000000000700003780266180018000250
+1. Thông tư này có hiệu lực thi hành từ ngày 03 tháng 9 năm 2018.
 
-**ID:** dk_00071718
+2. Thông tư này thay thế Thông tư số 11/2014/TT-BCT ngày 24 tháng 3 năm 2014 của Bộ trưởng Bộ Công Thương quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công Thương.
 
----
+3. Lãnh đạo Bộ, Thủ trưởng đơn vị thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+4. Văn phòng Bộ có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+## Danh sách điều khoản
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 94
-- **Điều khoản thực tế:** 84
-- **Điều khoản có nội dung:** 49 (58.3%)
-- **ID đề mục:** 606f16865fd04a16aa1b21acef306e78
+### 44005000000000001000
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
----
+### 4400500000000000100000100000000000000000
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 44.5.NĐ.1. Phạm vi điều chỉnh
+
+### 4400500000000000100000200000000000000000
+
+Điều 44.5.NĐ.2. Đối tượng áp dụng
+
+### 4400500000000000100000280245100167000010
+
+Điều 44.5.TT.1.1. Đối tượng và phạm vi áp dụng
+
+### 4400500000000000100000280266180018000010
+
+Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+### 4400500000000000100000300000000000000000
+
+Điều 44.5.NĐ.3. Giải thích từ ngữ
+
+### 4400500000000000100000400000000000000000
+
+Điều 44.5.NĐ.4. Nguyên tắc kiểm soát thủ tục hành chính
+
+### 4400500000000000100000500000000000000000
+
+Điều 44.5.NĐ.5. Cơ quan, đơn vị kiểm soát thủ tục hành chính
+
+### 440050000000000010000050000000000000000000802388700010000100
+
+Điều 44.5.TL.1.1. Vị trí và chức năng
+
+### 440050000000000010000050000000000000000000802388700010000200
+
+Điều 44.5.TL.1.2. Nhiệm vụ và quyền hạn
+
+### 440050000000000010000050000000000000000000802388700010000300
+
+Điều 44.5.TL.1.3. Về tổ chức và biên chế
+
+### 440050000000000010000050000000000000000000802388700010000600
+
+Điều 44.5.TL.1.6. Cơ cấu tổ chức và biên chế
+
+### 4400500000000000100000600000000000000000
+
+Điều 44.5.NĐ.6. Các hành vi bị nghiêm cấm
+
+### 44005000000000002000
+
+Chương II QUY ĐỊNH THỦ TỤC HÀNH CHÍNH
+
+### 4400500000000000200000700000000000000000
+
+Điều 44.5.NĐ.7. Nguyên tắc quy định thủ tục hành chính
+
+### 4400500000000000200000800000000000000000
+
+Điều 44.5.NĐ.8. Yêu cầu của việc quy định thủ tục hành chính
+
+### 4400500000000000200000900000000000000000
+
+Điều 44.5.NĐ.9. Tham gia ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật
+
+### 4400500000000000200001000000000000000000
+
+Điều 44.5.NĐ.10. Đánh giá tác động của thủ tục hành chính
+
+### 4400500000000000200001100000000000000000
+
+Điều 44.5.NĐ.11. Thẩm định quy định về thủ tục hành chính
+
+### 44005000000000003000
+
+Chương III THỰC HIỆN THỦ TỤC HÀNH CHÍNH
+
+### 4400500000000000300001200000000000000000
+
+Điều 44.5.NĐ.12. Nguyên tắc thực hiện thủ tục hành chính
+
+### 4400500000000000300001300000000000000000
+
+Điều 44.5.NĐ.13. Thẩm quyền công bố thủ tục hành chính
+
+### 4400500000000000300001400000000000000000
+
+Điều 44.5.NĐ.14. Phạm vi công bố thủ tục hành chính
+
+### 4400500000000000300001500000000000000000
+
+Điều 44.5.NĐ.15. Quyết định công bố thủ tục hành chính
+
+### 4400500000000000300001600000000000000000
+
+Điều 44.5.NĐ.16. Công khai thủ tục hành chính
+
+### 4400500000000000300001700000000000000000
+
+Điều 44.5.NĐ.17. Hình thức công khai
+
+### 4400500000000000300001800000000000000000
+
+Điều 44.5.NĐ.18. Trách nhiệm của cơ quan thực hiện thủ tục hành chính
+
+### 4400500000000000300001900000000000000000
+
+Điều 44.5.NĐ.19. Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+
+### 4400500000000000300002000000000000000000
+
+Điều 44.5.NĐ.20. Trách nhiệm của cán bộ, công chức được phân công thực hiện thủ tục hành chính
+
+### 4400500000000000300002100000000000000000
+
+Điều 44.5.NĐ.21. Quyền và nghĩa vụ của đối tượng thực hiện thủ tục hành chính
+
+### 4400500000000000300002200000000000000000
+
+Điều 44.5.NĐ.22. Phản ánh, kiến nghị về thủ tục hành chính trong quá trình thực hiện
+
+### 44005000000000004000
+
+Chương IV CƠ SỞ DỮ LIỆU QUỐC GIA VỀ THỦ TỤC HÀNH CHÍNH
+
+### 4400500000000000400002300000000000000000
+
+Điều 44.5.NĐ.23. Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính
+
+### 4400500000000000400002400000000000000000
+
+Điều 44.5.NĐ.24. Nhập, đăng tải công khai thủ tục hành chính đã công bố
+
+### 4400500000000000400002500000000000000000
+
+Điều 44.5.NĐ.25. Giá trị của thủ tục hành chính và văn bản quy phạm pháp luật có quy định về thủ tục hành chính trên Cơ sở dữ liệu quốc gia
+
+### 4400500000000000400002600000000000000000
+
+Điều 44.5.NĐ.26. Trách nhiệm quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính
+
+### 44005000000000005000
+
+Chương V RÀ SOÁT, ĐÁNH GIÁ THỦ TỤC HÀNH CHÍNH
+
+### 4400500000000000500002700000000000000000
+
+Điều 44.5.NĐ.27. Trách nhiệm rà soát, đánh giá
+
+### 4400500000000000500002800000000000000000
+
+Điều 44.5.NĐ.28. Nội dung rà soát, đánh giá
+
+### 4400500000000000500002900000000000000000
+
+Điều 44.5.NĐ.29. Cách thức rà soát, đánh giá
+
+### 4400500000000000500003000000000000000000
+
+Điều 44.5.NĐ.30. Kế hoạch rà soát, đánh giá
+
+### 4400500000000000500003100000000000000000
+
+Điều 44.5.NĐ.31. Xử lý kết quả rà soát, đánh giá
+
+### 44005000000000006000
+
+Chương VI KHEN THƯỞNG, KINH PHÍ THỰC HIỆN, THÔNG TIN, BÁO CÁO
+
+### 4400500000000000600003200000000000000000
+
+Điều 44.5.NĐ.32. Khen thưởng trong thực hiện kiểm soát thủ tục hành chính
+
+### 4400500000000000600003300000000000000000
+
+Điều 44.5.NĐ.33. Xử lý vi phạm
+
+### 4400500000000000600003400000000000000000
+
+Điều 44.5.NĐ.34. Điều kiện đảm bảo về kinh phí thực hiện kiểm soát thủ tục hành chính
+
+### 440050000000000060000340000000000000000000802451001670000200
+
+Điều 44.5.TT.1.2. Nguồn kinh phí thực hiện
+
+### 440050000000000060000340000000000000000000802451001670000300
+
+Điều 44.5.TT.1.3. Nội dung chi
+
+### 440050000000000060000340000000000000000000802451001670000400
+
+Điều 44.5.TT.1.4. Mức chi
+
+### 440050000000000060000340000000000000000000802451001670000500
+
+Điều 44.5.TT.1.5. Lập, chấp hành dự toán và quyết toán kinh phí
+
+### 4400500000000000600003500000000000000000
+
+Điều 44.5.NĐ.35. Chế độ thông tin, báo cáo
+
+### 4400500000000000600003510000000000000000
+
+Điều 44.5.NĐ.35a. Kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính
+
+### 44005000000000006500
+
+Chương VII. QUY ĐỊNH VỀ HOẠT ĐỘNG KIỂM SOÁT THỦ TỤC HÀNH CHÍNH TRONG MỘT SỐ LĨNH VỰC
+
+### 4400500000000000650000020000000000000000
+
+Mục 1 QUY ĐỊNH VỀ HOẠT ĐỘNG KIỂM SOÁT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC QUẢN LÝ NHÀ NƯỚC CỦA BỘ CÔNG THƯƠNG
+
+### 440050000000000065000002000000000000000000802661800180000200
+
+Điều 44.5.TT.7.2. Nguyên tắc kiểm soát thủ tục hành chính trong lĩnh vực Công Thương
+
+### 440050000000000065000002000000000000000000802661800180000300
+
+Điều 44.5.TT.7.3. Kiểm soát thủ tục hành chính trong quá trình lập đề nghị xây dựng văn bản quy phạm pháp luật
+
+### 440050000000000065000002000000000000000000802661800180000400
+
+Điều 44.5.TT.7.4. Kiểm soát thủ tục hành chính trong quá trình soạn thảo, thẩm định văn bản quy phạm pháp luật
+
+### 440050000000000065000002000000000000000000802661800180000500
+
+Điều 44.5.TT.7.5. Công bố thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180000600
+
+Điều 44.5.TT.7.6. Niêm yết thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180000700
+
+Điều 44.5.TT.7.7. Nguyên tắc kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180000800
+
+Điều 44.5.TT.7.8. Nội dung và cách thức kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180000900
+
+Điều 44.5.TT.7.9. Trách nhiệm kiểm tra nghiệp vụ thực hiện thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180001000
+
+Điều 44.5.TT.7.10. Nơi tiếp nhận phản ánh, kiến nghị
+
+### 440050000000000065000002000000000000000000802661800180001100
+
+Điều 44.5.TT.7.11. Cách thức tiếp nhận phản ánh, kiến nghị
+
+### 440050000000000065000002000000000000000000802661800180001200
+
+Điều 44.5.TT.7.12. Phân loại phản ánh, kiến nghị
+
+### 440050000000000065000002000000000000000000802661800180001300
+
+Điều 44.5.TT.7.13. Xử lý phản ánh, kiến nghị
+
+### 440050000000000065000002000000000000000000802661800180001400
+
+Điều 44.5.TT.7.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+
+### 440050000000000065000002000000000000000000802661800180001500
+
+Điều 44.5.TT.7.15. Công khai kết quả xử lý phản ánh, kiến nghị
+
+### 440050000000000065000002000000000000000000802661800180001600
+
+Điều 44.5.TT.7.16. Danh mục thủ tục hành chính trong lĩnh vực Công Thương
+
+### 440050000000000065000002000000000000000000802661800180001700
+
+Điều 44.5.TT.7.17. Kế hoạch rà soát, đánh giá thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180001800
+
+Điều 44.5.TT.7.18. Nội dung, cách thức, kết quả rà soát
+
+### 440050000000000065000002000000000000000000802661800180001900
+
+Điều 44.5.TT.7.19. Hệ thống công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính Bộ Công Thương
+
+### 440050000000000065000002000000000000000000802661800180002000
+
+Điều 44.5.TT.7.20. Nhiệm vụ của công chức đầu mối thực hiện công tác kiểm soát thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180002100
+
+Điều 44.5.TT.7.21. Quan hệ chỉ đạo, phối hợp trong kiểm soát thủ tục hành chính
+
+### 440050000000000065000002000000000000000000802661800180002200
+
+Điều 44.5.TT.7.22. Trách nhiệm của các đơn vị thuộc Bộ và các tổ chức, cá nhân thực hiện thủ tục hành chính trong lĩnh vực Công Thương
+
+### 440050000000000065000002000000000000000000802661800180002300
+
+Điều 44.5.TT.7.23. Khen thưởng và xử lý trách nhiệm
+
+### 440050000000000065000002000000000000000000802661800180002400
+
+Điều 44.5.TT.7.24. Kinh phí bảo đảm cho hoạt động kiểm soát thủ tục hành chính
+
+### 4400500000000000650000041000000000000000
+
+Mục 2. QUY ĐỊNH VỀ HOẠT ĐỘNG KIỂM SOÁT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI
+
+### 440050000000000065000004100000000000000000802592500210004500
+
+Điều 44.5.TT.6.45. Thủ tục hành chính, kiểm soát thủ tục hành chính
+
+### 440050000000000065000004100000000000000000802592500210004600
+
+Điều 44.5.TT.6.46. Thẩm quyền, phạm vi công bố thủ tục hành chính
+
+### 440050000000000065000004100000000000000000802592500210004700
+
+Điều 44.5.TT.6.47. Công bố thủ tục hành chính
+
+### 440050000000000065000004100000000000000000802592500210004800
+
+Điều 44.5.TT.6.48. Niêm yết công khai các thủ tục hành chính
+
+### 440050000000000065000004100000000000000000802592500210007700
+
+Điều 44.5.TT.6.77. Báo cáo về công tác giải quyết thủ tục hành chính
+
+### 44005000000000007000
+
+Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+### 4400500000000000700003600000000000000000
+
+Điều 44.5.NĐ.36. Trách nhiệm thi hành
+
+### 4400500000000000700003700000000000000000
+
+Điều 44.5.NĐ.37. Hiệu lực thi hành
+
+### 4400500000000000700003740236550048000380
+
+Điều 44.5.NĐ.38. Điều khoản thi hành
+
+### 4400500000000000700003740236550063000390
+
+Điều 44.5.NĐ.39. Điều khoản chuyển tiếp
+
+### 4400500000000000700003740236550063000400
+
+Điều 44.5.NĐ.40. Trách nhiệm tổ chức thực hiện
+
+### 4400500000000000700003740236550063000410
+
+Điều 44.5.NĐ.41. Điều khoản thi hành
+
+### 4400500000000000700003780238870001000070
+
+Điều 44.5.TL.1.7. Hiệu lực thi hành
+
+### 4400500000000000700003780238870001000080
+
+Điều 44.5.TL.1.8. Trách nhiệm thi hành
+
+### 4400500000000000700003780245100167000060
+
+Điều 44.5.TT.1.6. Điều khoản thi hành
+
+### 4400500000000000700003780266180018000250
+
+Điều 44.5.TT.7.25. Hiệu lực và trách nhiệm thi hành
+

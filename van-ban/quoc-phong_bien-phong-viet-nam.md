@@ -1,1349 +1,2313 @@
 ---
-layout: default
+layout: page
 title: Biên phòng Việt Nam
 permalink: /van-ban/quoc-phong/bien-phong-viet-nam/
-collection: subtopics
-slug: bien-phong-viet-nam
-parent: quoc-phong
 ---
 
 # Biên phòng Việt Nam
 
-**Đề mục:** Biên phòng Việt Nam  
-**Chủ đề:** [Quốc phòng](/quoc-phong/)  
-**Số điều khoản:** 107  
-**Điều khoản có nội dung:** 101/101 (100.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 25.2.LQ.1. Phạm vi điều chỉnh
+Điều 25.2.LQ.1. Phạm vi điều chỉnh
+
+(Điều 1 Luật số 66/2020/QH14 Biên phòng Việt Nam ngày 11/11/2020 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 Luật này quy định chính sách, nguyên tắc, nhiệm vụ, hoạt động, lực lượng, bảo đảm và trách nhiệm của cơ quan, tổ chức, cá nhân về biên phòng.
 
-**Chỉ mục:** 1
+Điều 25.2.NĐ.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 2500200000000000100000100000000000000000
-
-**ID:** dk_00039829
-
----
-
-
-### Điều 25.2.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 89/2009/NĐ-CP Về hoạt động đối ngoại biên phòng ngày 19/10/2009 của Chính phủ, có hiệu lực thi hành kể từ ngày 02/12/2009 )
 
 1. Nghị định này quy định về nội dung, hình thức, biện pháp, trách nhiệm quản lý nhà nước, bảo đảm ngân sách hoạt động đối ngoại biên phòng.
 
-**Chỉ mục:** 1
+2. Hoạt động đối ngoại quân sự không thuộc phạm vi điều chỉnh của Nghị định này.
 
-**Mã phân cấp:** 2500200000000000100000140234230089000010
+Điều 25.2.NĐ.1.2. Đối tượng áp dụng
 
-**ID:** dk_00039830
-
----
-
-
-### Điều 25.2.NĐ.1.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.
 
-**Chỉ mục:** 2
+2. Ủy ban nhân dân các cấp có đường biên giới trên đất liền.
 
-**Mã phân cấp:** 2500200000000000100000140234230089000020
+3. Bộ đội Biên phòng.
 
-**ID:** dk_00039831
+Điều 25.2.NĐ.2.1. Phạm vi điều chỉnh
 
----
-
-
-### Điều 25.2.NĐ.2.1. Phạm vi điều chỉnh
+(Điều 1 Nghị định số 106/2021/NĐ-CP Quy định chi tiết một số điều Luật Biên phòng Việt Nam ngày 06/12/2021 của Chính phủ, có hiệu lực thi hành kể từ ngày 21/01/2022 )
 
 Nghị định này quy định chi tiết về hệ thống tổ chức; chính sách ưu đãi và chế độ đặc thù đối với Bộ đội Biên phòng; phối hợp giữa bộ, cơ quan ngang bộ, chính quyền địa phương trong thực thi nhiệm vụ biên phòng.
 
-**Chỉ mục:** 1
+Điều 25.2.NĐ.2.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 2500200000000000100000140278540106000010
-
-**ID:** dk_00039832
-
----
-
-
-### Điều 25.2.NĐ.2.2. Đối tượng áp dụng
+(Điều 2 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 Nghị định này áp dụng đối với cơ quan, đơn vị, cán bộ, chiến sĩ Bộ đội Biên phòng và các cơ quan, đơn vị, tổ chức, cá nhân có liên quan.
 
-**Chỉ mục:** 2
+Điều 25.2.TT.1.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 2500200000000000100000140278540106000020
-
-**ID:** dk_00039833
-
----
-
-
-### Điều 25.2.TT.1.1. Phạm vi điều chỉnh
+(Điều 1 Thông tư số 02/2012/TT-BQP Hướng dẫn thực hiện một số điều của nghị định số 89/2009/NĐ-CP ngày 19 tháng 10 năm 2009 của chính phủ về hoạt động đối ngoại Biên phòng ngày 13/01/2012 của Bộ Quốc phòng, có hiệu lực thi hành kể từ ngày 27/02/2012 )
 
 Thông tư này hướng dẫn hoạt động lễ tân; hình thức, biện pháp hoạt động; nội dung chi trong hoạt động đối ngoại biên phòng; trách nhiệm của Bộ đội Biên phòng và các cơ quan, đơn vị liên quan trong thực hiện công tác đối ngoại biên phòng.
 
-**Chỉ mục:** 1
+Điều 25.2.TT.1.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 2500200000000000100000180242390002500010
-
-**ID:** dk_00039834
-
----
-
-
-### Điều 25.2.TT.1.2. Đối tượng áp dụng
+(Điều 2 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 Thông tư này áp dụng đối với:
 
-**Chỉ mục:** 2
+1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Ủy ban nhân dân các cấp có đường biên giới trên đất liền và Bộ đội Biên phòng.
 
-**Mã phân cấp:** 2500200000000000100000180242390002500020
+2. Các đơn vị Bộ đội Biên phòng tuyến biển hoạt động đối ngoại biên phòng áp dụng theo quy định tại Nghị định số 89/2009/NĐ-CP và hướng dẫn của Thông tư này.
 
-**ID:** dk_00039835
+Điều 25.2.LQ.2. Giải thích từ ngữ
 
----
-
-
-### Điều 25.2.LQ.2. Giải thích từ ngữ
+(Điều 2 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 2
+1. Biên phòng là tổng thể các hoạt động, biện pháp bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và bảo đảm an ninh, trật tự, an toàn xã hội ở khu vực biên giới bằng sức mạnh tổng hợp của toàn dân tộc.
 
-**Mã phân cấp:** 2500200000000000100000200000000000000000
+2. Nền biên phòng toàn dân là sức mạnh biên phòng của đất nước, được xây dựng trên nền tảng chính trị, tinh thần và các nguồn lực với phương châm toàn dân, toàn diện, độc lập, tự chủ, tự cường.
 
-**ID:** dk_00039836
+3. Thế trận biên phòng toàn dân là việc tổ chức, triển khai, bố trí lực lượng và các nguồn lực cần thiết để thực hiện nhiệm vụ biên phòng phù hợp với Chiến lược bảo vệ biên giới quốc gia.
 
----
+4. Vành đai biên giới là phần lãnh thổ từ đường biên giới quốc gia trên đất liền trở vào từ 100 m đến 1.000 m do Hội đồng nhân dân cấp tỉnh nơi có biên giới quốc gia quyết định, trường hợp đặc biệt do Thủ tướng Chính phủ quyết định.
 
+5. Cán bộ, chiến sĩ Bộ đội Biên phòng bao gồm sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng, hạ sĩ quan, binh sĩ thuộc biên chế của Bộ đội Biên phòng.
 
-### Điều 25.2.LQ.3. Chính sách của Nhà nước về biên phòng
+Điều 25.2.LQ.3. Chính sách của Nhà nước về biên phòng
+
+(Điều 3 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Thực hiện chính sách độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; xây dựng biên giới hòa bình, hữu nghị, hợp tác và phát triển, ổn định lâu dài với các nước có chung đường biên giới; mở rộng hợp tác quốc tế, đối ngoại quốc phòng, an ninh, đối ngoại biên phòng và đối ngoại nhân dân.
 
-**Chỉ mục:** 3
+2. Giải quyết các vấn đề biên giới quốc gia bằng biện pháp hòa bình trên cơ sở tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, lợi ích chính đáng của nhau, phù hợp với Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-**Mã phân cấp:** 2500200000000000100000300000000000000000
+3. Sử dụng các biện pháp chính đáng, thích hợp để bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.
 
-**ID:** dk_00039837
+4. Thực hiện chính sách đại đoàn kết toàn dân tộc; xây dựng lực lượng bảo vệ biên giới quốc gia toàn dân vững mạnh, rộng khắp, Nhân dân là chủ thể, lực lượng vũ trang nhân dân làm nòng cốt.
 
----
+5. Củng cố, tăng cường quốc phòng, an ninh; ưu tiên nguồn lực đầu tư, hiện đại hóa các công trình biên giới, phát triển kinh tế, văn hóa, xã hội, khoa học, công nghệ, đối ngoại ở khu vực biên giới.
 
+6. Huy động các nguồn lực của cơ quan, tổ chức và cá nhân trong thực thi nhiệm vụ biên phòng.
 
-### Điều 25.2.LQ.4. Nguyên tắc thực thi nhiệm vụ biên phòng
+7. Khuyến khích, tạo điều kiện để cơ quan, tổ chức, cá nhân ủng hộ vật chất, tài chính, tinh thần cho thực hiện nhiệm vụ biên phòng trên nguyên tắc tự nguyện, không trái với pháp luật Việt Nam và phù hợp với pháp luật quốc tế.
+
+(Điều này có nội dung liên quan đến Điều 37.5.LQ.208. Thông báo về phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải; Điều 25.2.LQ.12. Hợp tác quốc tế về biên phòng; Điều 3. Nguyên tắc hoạt động đối ngoại biên phòng của Nghị định 89/2009/NĐ-CP Về hoạt động đối ngoại biên phòng ban hành ngày 19/10/2009)
+
+Điều 25.2.LQ.4. Nguyên tắc thực thi nhiệm vụ biên phòng
+
+(Điều 4 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, biên giới quốc gia của các nước.
 
-**Chỉ mục:** 4
+2. Đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự quản lý tập trung, thống nhất của Nhà nước.
 
-**Mã phân cấp:** 2500200000000000100000400000000000000000
+3. Phát huy sức mạnh tổng hợp của toàn dân, hệ thống chính trị, dựa vào Nhân dân và chịu sự giám sát của Nhân dân.
 
-**ID:** dk_00039838
+4. Kết hợp quốc phòng, an ninh với kinh tế - xã hội và kinh tế - xã hội với quốc phòng, an ninh; kết hợp thực thi nhiệm vụ biên phòng với xây dựng, củng cố hệ thống chính trị, phát triển kinh tế, văn hóa, xã hội, khoa học, công nghệ, đối ngoại ở khu vực biên giới.
 
----
+(Điều này có nội dung liên quan đến Điều 4. Nội dung hoạt động đối ngoại biên phòng của Nghị định 89/2009/NĐ-CP Về hoạt động đối ngoại biên phòng ban hành ngày 19/10/2009; Điều 26.2.QĐ.6.13. Thủ tục điện tử đối với phương tiện thủy nội địa Việt Nam, Campuchia xuất cảnh tại cảng biển, cảng thủy nội địa Việt Nam)
 
+Điều 25.2.NĐ.1.3. Nguyên tắc hoạt động đối ngoại biên phòng
 
-### Điều 25.2.NĐ.1.3. Nguyên tắc hoạt động đối ngoại biên phòng
+(Điều 3 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Giữ vững độc lập chủ quyền, toàn vẹn lãnh thổ quốc gia; bình đẳng, hữu nghị và cùng có lợi.
 
-**Chỉ mục:** 3
+2. Phù hợp với chủ trương, đường lối của Đảng, pháp luật của Nhà nước; các Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và tập quán quốc tế.
 
-**Mã phân cấp:** 250020000000000010000040000000000000000000402342300890000300
+3. Phù hợp với chức năng, nhiệm vụ, thẩm quyền và hoạt động theo phương châm vừa hợp tác vừa đấu tranh góp phần xây dựng biên giới hòa bình, hữu nghị, ổn định chính trị, bảo đảm quốc phòng và an ninh.
 
-**ID:** dk_00039839
+4. Trong quan hệ đối ngoại phải bảo đảm an toàn nội bộ, giữ nghiêm kỹ luật, thận trọng, chặt chẽ theo đúng nội dung, chương trình kế hoạch đã được phê duyệt.
 
----
+(Điều này có nội dung liên quan đến Điều 25.2.LQ.3. Chính sách của Nhà nước về biên phòng)
 
+Điều 25.2.LQ.5. Nhiệm vụ biên phòng
 
-### Điều 25.2.LQ.5. Nhiệm vụ biên phòng
+(Điều 5 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Xây dựng và thực hiện chiến lược, kế hoạch bảo vệ biên giới quốc gia.
 
-**Chỉ mục:** 5
+2. Quản lý, bảo vệ chủ quyền, thống nhất, toàn vẹn lãnh thổ, biên giới quốc gia; xây dựng, quản lý, bảo vệ hệ thống mốc quốc giới, vật đánh dấu, dấu hiệu đường biên giới, công trình biên giới, cửa khẩu, công trình khác ở khu vực biên giới.
 
-**Mã phân cấp:** 2500200000000000100000500000000000000000
+3. Bảo vệ lợi ích quốc gia, dân tộc, hòa bình, an ninh, trật tự, an toàn xã hội, kinh tế, văn hóa, xã hội, tài nguyên, môi trường; bảo đảm việc thi hành pháp luật ở khu vực biên giới, cửa khẩu.
 
-**ID:** dk_00039840
+4. Phát triển kinh tế - xã hội kết hợp với tăng cường và củng cố quốc phòng, an ninh, đối ngoại ở khu vực biên giới.
 
----
+5. Xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân trong nền quốc phòng toàn dân, thế trận quốc phòng toàn dân gắn với nền an ninh nhân dân, thế trận an ninh nhân dân; xây dựng khu vực phòng thủ cấp tỉnh, cấp huyện biên giới, phòng thủ dân sự; phòng, chống, ứng phó, khắc phục sự cố, thiên tai, thảm họa, biến đổi khí hậu, dịch bệnh; tìm kiếm, cứu hộ, cứu nạn ở khu vực biên giới.
 
+6. Hợp tác quốc tế về biên phòng, đối ngoại biên phòng, đối ngoại nhân dân, xây dựng biên giới hòa bình, hữu nghị, hợp tác và phát triển, ổn định lâu dài.
 
-### Điều 25.2.NĐ.1.4. Nội dung hoạt động đối ngoại biên phòng
+7. Sẵn sàng chiến đấu, chiến đấu chống chiến tranh xâm lược, xung đột vũ trang.
+
+Điều 25.2.NĐ.1.4. Nội dung hoạt động đối ngoại biên phòng
+
+(Điều 4 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Thực hiện và tham gia đàm phán, trao đổi, hội đàm định kỳ hoặc đột xuất với các cơ quan hữu quan tương ứng của nước láng giềng về tình hình thực hiện Hiệp định về Quy chế biên giới, các Thỏa thuận về công tác biên phòng; hoạt động quản lý, bảo vệ biên giới, tình hình an ninh, trật tự; phòng chống thiên tai, dịch bệnh…. ở khu vực biên giới, cửa khẩu và giải quyết các vụ việc liên quan đến hai bên biên giới thuộc thẩm quyền theo quy định của pháp luật và tập quán quốc tế.
 
-**Chỉ mục:** 4
+2. Phối hợp với lực lượng bảo vệ biên giới nước láng giềng trong quản lý, bảo vệ biên giới và hệ thống mốc quốc giới, giữ gìn an ninh, trật tự khu vực biên giới, cửa khẩu; kịp thời phát hiện, giải quyết có hiệu quả hoạt động xâm canh, xâm cư, vượt biên trái phép, ngăn chặn, đấu tranh chống buôn lậu, mua bán, vận chuyển trái phép hàng cấm, chất ma túy, cướp, buôn bán người qua biên giới, hoạt động rửa tiền, khủng bố, các tội phạm khác và các hoạt động tuyên truyền kích động gây rối an ninh, chia rẽ quan hệ hữu nghị, đoàn kết giữa chính quyền và nhân dân hai bên biên giới.
 
-**Mã phân cấp:** 250020000000000010000050000000000000000000402342300890000400
+3. Trao trả, tiếp nhận người, tang vật, phương tiện vi phạm Hiệp định về Quy chế biên giới.
 
-**ID:** dk_00039841
+4. Tiếp xúc, gặp gỡ nhân viên, cán bộ của lực lượng bảo vệ biên giới nước láng giềng hoặc thăm viếng xã giao theo quy định.
 
----
+5. Thực hiện các hoạt động đối ngoại biên phòng khác.
 
+(Điều này có nội dung liên quan đến Điều 25.2.LQ.4. Nguyên tắc thực thi nhiệm vụ biên phòng; Điều 25.2.LQ.12. Hợp tác quốc tế về biên phòng)
 
-### Điều 25.2.NĐ.1.6. Hoạt động lễ tân trong đối ngoại biên phòng
+Điều 25.2.NĐ.1.6. Hoạt động lễ tân trong đối ngoại biên phòng
+
+(Điều 6 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Nguyên tắc lễ tân
 
-**Chỉ mục:** 6
+a) Hữu nghị, chu đáo, lịch sự, an toàn.
 
-**Mã phân cấp:** 250020000000000010000050000000000000000000402342300890000600
+b) Tôn trọng, bình đẳng không phân biệt đối xử;
 
-**ID:** dk_00039842
+c) Có đi có lại;
 
----
+d) Kết hợp pháp luật quốc tế với pháp luật quốc gia và truyền thống dân tộc.
 
+2. Nội dung hoạt động lễ tân
 
-### Điều 25.2.TT.1.3. Hoạt động lễ tân trong đối ngoại biên phòng (khoản 2 Điều 6 Nghị định số 89/2009/NĐ-CP)
+a) Đón khách;
+
+b) Bố trí xe đưa, đón; nơi ăn, nghỉ;
+
+c) Trang trí nơi làm việc;
+
+d) Vị trí ngồi làm việc, dự tiệc chiêu đãi;
+
+đ) Trang phục khi làm việc;
+
+e) Thủ tục ký kết văn bản;
+
+g) Trao tặng phẩm;
+
+h) Chụp ảnh;
+
+i) Tham quan;
+
+k) Tiễn khách.
+
+Điều 25.2.TT.1.3. Hoạt động lễ tân trong đối ngoại biên phòng (khoản 2 Điều 6 Nghị định số 89/2009/NĐ-CP)
+
+(Điều 3 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 1. Trang trí nơi hội đàm thực hiện theo Mẫu số 07 tại Phụ lục kèm theo Thông tư này.
 
-**Chỉ mục:** 3
+a) Phông, nền bố trí phù hợp với phòng tiếp đón.
 
-**Mã phân cấp:** 25002000000000001000005000000000000000000040234230089000060000802423900025000300
+b) Tiêu đề trên phông, băng rôn khẩu hiệu được thể hiện song song bằng hai thứ tiếng (Ta và Bạn).
 
-**ID:** dk_00039843
+c) Quốc kỳ nhỏ (Quốc kỳ hội đàm) đặt trên bàn, trước chỗ ngồi của Trưởng đoàn mỗi bên và cùng phía Quốc kỳ to (cỡ 1,2 m - 1,8 m) của mỗi nước treo trên phông chính, hoặc có thể dựng ở phía đầu bàn sát phông, nếu nhìn từ ngoài vào, Quốc kỳ chủ nhà bên phải, Quốc kỳ khách bên trái, chỗ ngồi của mỗi bên theo phía vị trí đặt Quốc kỳ.
 
----
+d) Bố trí bàn tiếp khách có trải khăn, đặt hoa ở giữa.
 
+đ) Trên bàn hội đàm có đặt nước suối, trái cây; nếu dùng nước trà (kể cả trà đen) phải dùng cốc bằng sứ.
 
-### Điều 25.2.NĐ.1.7. Hình thức hoạt động đối ngoại biên phòng
+2. Vị trí ngồi trong hoạt động đối ngoại thực hiện theo Mẫu số 08 tại Phụ lục kèm theo Thông tư này.
+
+a) Cách sắp xếp vị trí ngồi: Bàn hội đàm hoặc bàn làm việc của hai đoàn được xếp theo kiểu bàn dài, bàn ô-van, bàn bầu dục hoặc bàn chữ u. Sắp xếp mỗi đoàn ngồi một phía. Trưởng đoàn của mỗi bên ngồi giữa, bên phải Trưởng đoàn là người số hai, bên phải số hai là số bốn, bên trái Trưởng đoàn là phiên dịch (phiên dịch không xếp số), bên trái phiên dịch là số ba bên trái số ba là số năm và tiếp đến xếp theo thứ tự bên phải rồi bên trái cho đến hết (theo danh sách hội đàm).
+
+b) Trên bàn hội đàm hoặc bàn làm việc đặt biển tên theo số thứ tự đã sắp xếp để các đại biểu ngồi đúng vị trí của mình (biển tên ghi rõ cấp bậc, họ tên, chức vụ; một mặt viết bằng tiếng Việt, một mặt viết bằng tiếng nước Bạn và khi đặt biển tên mặt tiếng Việt quay về phía Ta, tiếng nước bạn quay về phía Bạn).
+
+3. Thủ tục ký kết: Sau hội đàm, những người dự lễ ký của hai bên đứng hàng ngang phía sau người ký, theo thứ tự cấp bậc kể từ giữa ra; những người ký ngồi cùng một phía; kê bàn, trên bàn đặt hoa và Quốc kỳ nhỏ của mỗi nước, có bút ký, giấy thử bút. Sau lễ ký có chúc rượu, có thể quay phim, chụp ảnh.
+
+4. Vị trí ngồi chiêu đãi: Sắp xếp chỗ ngồi phải tương xứng với cương vị của khách. Chỗ ngồi có biển tên; việc xếp chỗ ngồi tùy thuộc hình dáng bàn tiệc, tuy nhiên cần tuân thủ các nguyên tắc sau đây:
+
+a) Theo cấp bậc của đại biểu;
+
+b) Nếu hai đại biểu cùng cấp thì ưu tiên người nhiều tuổi hơn và nữ rồi đến nam;
+
+c) Bố trí xen kẽ đại biểu hai đoàn.
+
+5. Về trang phục: Khi hội đàm mặc tiểu lễ phục theo mùa; khi tham quan, chiêu đãi mặc thường phục (thể hiện lịch sự). Nếu tham gia các đoàn của địa phương hoặc các Bộ, ngành thì mặc theo quyết định của Trưởng đoàn.
+
+6. Thủ tục ký văn bản.
+
+a) Trưởng đoàn hoặc người được ủy quyền ký văn bản của mỗi bên ngồi theo vị trí đã sắp xếp, Ta bên phải, Bạn bên trái; mỗi bên có một người trình ký, các thành viên đứng sau Trưởng đoàn bên mình.
+
+b) Sau khi ký hai bên trao văn bản cho nhau;
+
+c) Chụp ảnh lưu niệm;
+
+d) Trao tặng phẩm: Sau khi ký kết văn bản hoặc sau khi chiêu đãi.
+
+7. Tiễn đoàn Bạn: Trưởng đoàn Ta phát biểu và tiễn Bạn, thành phần tiễn Bạn và mặc trang phục như khi đón Đoàn.
+
+8. Trường hợp có mời Bạn đi tham quan phải có kế hoạch được cấp có thẩm quyền phê duyệt và phải đảm bảo an toàn trong quá trình tham quan.
+
+9. Việc bố trí xe đưa, đón, bố trí nơi ăn, nghỉ cho đoàn Bạn thực hiện theo quy định của pháp luật về công tác lễ tân.
+
+Phu luc_02_2012_TT-BQP.doc
+
+Điều 25.2.NĐ.1.7. Hình thức hoạt động đối ngoại biên phòng
+
+(Điều 7 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Quan hệ tiếp xúc trực tiếp thông qua hội đàm
 
-**Chỉ mục:** 7
+a) Gặp gỡ, đàm phán được thực hiện trong các trường hợp sau:
 
-**Mã phân cấp:** 250020000000000010000050000000000000000000402342300890000700
+- Đàm phán việc thực hiện Điều ước quốc tế về biên giới quốc gia;
 
-**ID:** dk_00039844
+- Trao đổi, hội đàm định kỳ, đột xuất để phối hợp giải quyết các vụ việc xảy ra trên biên giới hoặc các vụ việc liên quan đến công tác quản lý, bảo vệ biên giới, giữ gìn an ninh, trật tự ở khu vực biên giới, cửa khẩu.
 
----
+b) Gặp gỡ làm việc trên đường biên giới hoặc tại một địa điểm thích hợp để trao đổi tình hình thường xuyên hoặc đột xuất; phối hợp thực hiện những nội dung được quy định trong Hiệp định về Quy chế biên giới hoặc giải quyết vụ việc xảy ra ở khu vực biên giới, cửa khẩu.
 
+c) Phối hợp thực hiện tuần tra song phương kiểm tra đường biên giới, mốc quốc giới theo kế hoạch hoặc đột xuất. Trao trả, tiếp nhận người, tang vật, phương tiện vi phạm Hiệp định về Quy chế biên giới;
 
-### Điều 25.2.TT.1.4. Hình thức hoạt động đối ngoại biên phòng (Điều 7 Nghị định số 89/2009/NĐ-CP)
+Việc trao trả và tiếp nhận người vi phạm được thực hiện tại cửa khẩu biên giới hoặc địa điểm khác trên đường biên giới do hai bên thỏa thuận;
 
-Hình thức hoạt động đối ngoại biên phòng bao gồm hội đàm trực tiếp hoặc thông qua thư mời, thư thông báo, thư phản kháng; khi thực hiện hoạt động đối ngoại biên phòng phải thực hiện theo quy trình sau:
+d) Thư mời được thực hiện trong các trường hợp sau:
 
-**Chỉ mục:** 4
+- Mời Bạn hoặc Bạn mời sang làm việc nhằm trao đổi tình hình, giải quyết các vụ việc liên quan đến công tác quản lý, bảo vệ biên giới, giữ gìn an ninh, trật tự ở khu vực biên giới, cửa khẩu theo phân cấp hoặc chỉ đạo của Thủ tướng Chính phủ.
 
-**Mã phân cấp:** 25002000000000001000005000000000000000000040234230089000070000802423900025000400
+- Mời Bạn hoặc Bạn mời sang thăm xã giao chúc mừng nhân dịp ngày lễ, ngày tết, ngày truyền thống và các hoạt động khác.
 
-**ID:** dk_00039845
+2. Quan hệ tiếp xúc gián tiếp
 
----
+a) Thư thông báo, trao đổi được thực hiện trong các trường hợp sau:
 
+- Tình hình liên quan đến công tác quản lý, bảo vệ biên giới quốc gia; thực trạng đường biên giới, mốc quốc giới, việc thực hiện Hiệp định về Quy chế biên giới và các Điều ước quốc tế về biên giới liên quan; nội dung làm việc, hội đàm của các ngành chuyên môn ở địa phương theo kế hoạch thỏa thuận;
 
-### Điều 25.2.NĐ.1.8. Biện pháp hoạt động đối ngoại biên phòng
+- Thông báo cho nước láng giềng biết các vụ tai nạn, án mạng mà nạn nhân là người bên nước Bạn; thông báo trao trả những người vượt biên giới trái phép, những đối tượng bị ta bắt giữ xét thấy cần trao trả hoặc thông báo đối tượng bên ta đang truy tìm để phối hợp truy tìm, bắt giữ;
+
+- Tình hình thiên tai, dịch bệnh xảy ra ở khu vực biên giới;
+
+- Thông báo các nội dung khác theo chỉ đạo của cơ quan cấp trên trực tiếp;
+
+- Thư thông báo được thực hiện theo định kỳ hoặc đột xuất thông qua phương tiện thông tin hoặc sĩ quan liên lạc và tùy theo tính chất, mức độ của vụ việc để thực hiện cho phù hợp.
+
+b) Thư phản kháng được thực hiện khi nước láng giềng có các hoạt động sau:
+
+- Vi phạm chủ quyền lãnh thổ, an ninh biên giới trên đất liền, trên biển, trên không và lòng đất; xê dịch, phá hoại mốc quốc giới, làm sai lệch, chệch hướng đi của đường biên giới quốc gia; làm thay đổi dòng chảy tự nhiên của sông, suối biên giới; xâm canh, xâm cư ở khu vực biên giới, xây dựng các công trình làm ảnh hưởng đến vị trí pháp lý đường biên giới và trái với Hiệp định về Quy chế biên giới;
+
+- Che giấu, tiếp tay cho tội phạm, buôn bán vận chuyển trái phép vũ khí, chất nổ, chất độc hại, ma túy, buôn lậu, buôn bán người qua biên giới, rửa tiền, hoạt động khủng bố, đẩy người qua biên giới.
+
+- Tuyên truyền xuyên tạc đường lối, chính sách của Đảng, pháp luật của Nhà nước Việt Nam; kích động chia rẽ quan hệ hữu nghị với Việt Nam; phá hoại hòa bình, ổn định ở khu vực biên giới với Việt Nam;
+
+- Các hoạt động khác vi phạm Hiệp định về Quy chế biên giới.
+
+3. Quan hệ tiếp xúc xã giao
+
+Tổ chức đoàn sang thăm xã giao hoặc tiếp đón lực lượng chức năng nước láng giềng sang thăm nhân dịp ngày lễ, ngày tết, ngày truyền thống của hai bên; thăm hỏi, chia buồn khi có quốc tang, thiên tai, hỏa hoạn hoặc tham gia các hoạt động khác.
+
+Điều 25.2.TT.1.4. Hình thức hoạt động đối ngoại biên phòng (Điều 7 Nghị định số 89/2009/NĐ-CP)
+
+(Điều 4 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
+
+ Hình thức hoạt động đối ngoại biên phòng bao gồm hội đàm trực tiếp hoặc thông qua thư mời, thư thông báo, thư phản kháng; khi thực hiện hoạt động đối ngoại biên phòng phải thực hiện theo quy trình sau:
+
+ 1. Bạn sang Ta làm việc:
+
+ a) Công tác chuẩn bị trước khi làm việc
+
+ - Báo cáo cấp trên trực tiếp về lý do mời Bạn hoặc do Bạn đề nghị sang Ta làm việc; nêu rõ mục đích, nội dung, chương trình, thành phần, thời gian, địa điểm và những vấn đề cần thiết khác.
+
+ - Xây dựng kế hoạch tổ chức đón tiếp, chương trình, nội dung làm việc, dự kiến các vấn đề có thể nảy sinh và phương án giải quyết thông qua cấp ủy, chỉ huy và trình cấp có thẩm quyền phê duyệt.
+
+ - Báo cáo cấp ủy, chính quyền địa phương theo thẩm quyền.
+
+ - Chuẩn bị tài liệu, vật chất, phương tiện, phòng làm việc, nơi ăn, nghỉ, nơi tiếp khách phù hợp với tính chất, mục đích buổi gặp làm việc.
+
+ - Căn cứ chương trình kế hoạch, nội dung làm việc, mục đích buổi gặp, làm việc, người Chỉ huy chỉ đạo cơ quan giúp việc soạn thảo văn bản.
+
+ b) Tổ chức làm việc
+
+ - Tổ chức đón Bạn tại vạch phân định đường biên giới cửa khẩu hoặc tại điểm qua lại trên biên giới và đưa Bạn về địa điểm hội đàm theo kế hoạch; địa điểm hội đàm có thể tại nhà khách quốc tế của đồn biên phòng cửa khẩu hoặc phòng tổ chức hội đàm do đơn vị dự kiến trong kế hoạch.
+
+ - Tại nơi làm việc, Ta và Bạn tiến hành các thủ tục xã giao ban đầu, giới thiệu thành phần đoàn (quân nhân nếu mặc quân phục, khi được giới thiệu phải thực hiện động tác đứng chào tại chỗ, mặt quay về hướng Trưởng đoàn Bạn), chương trình, nội dung làm việc theo kế hoạch và nội dung đã được phê duyệt.
+
+ Trường hợp có những nội dung phía Bạn phản kháng, nêu vấn đề không đúng sự thật hoặc chưa thể giải đáp kết luận ngay, không thuộc phạm vi, thẩm quyền thì phải bình tĩnh, khôn khéo, thận trọng dùng lý lẽ để thuyết phục hoặc trả lời sau.
+
+ - Ta và Bạn làm thủ tục thông qua và ký biên bản về nội dung kết quả làm việc.
+
+ - Trường hợp Ta và Bạn thống nhất các nội dung làm việc thì cùng ký biên bản; chưa thống nhất thì lập biên bản bảo lưu ý kiến của mỗi phía và cùng ký biên bản.
+
+ - Trường hợp Ta và Bạn không đạt được nội dung theo kế hoạch thì ghi biên bản đơn phương.
+
+ - Tổ chức tiễn Bạn về nước, trao quà lưu niệm, tặng phẩm: Thành phần và nghi thức theo Kế hoạch đã được cấp trên phê duyệt (quà lưu niệm hoặc tặng phẩm không được niêm phong hoặc bọc kín).
+
+ - Kết thúc làm việc: Chỉ huy đơn vị chủ trì đón và các thành viên tham gia đón tiếp Bạn tổ chức họp rút kinh nghiệm đánh giá kết quả làm việc và báo cáo cấp trên trực tiếp; hoàn chỉnh hồ sơ lưu tại đơn vị.
+
+ 2. Ta sang Bạn làm việc:
+
+ a) Công tác chuẩn bị
+
+ - Xây dựng kế hoạch, nội dung, thành phần sang Bạn hội đàm báo cáo cấp có thẩm quyền phê duyệt;
+
+ - Làm thủ tục báo cáo xét duyệt nhân sự thực hiện theo nội dung khoản 1 Điều 5 Thông tư này.
+
+ - Thông báo bằng văn bản trả lời về lời mời của Bạn hoặc đề nghị của Ta sang Bạn làm việc;
+
+ - Tổ chức họp Đoàn phổ biến kế hoạch, chương trình nội dung, phương pháp làm việc, phân công trách nhiệm cho từng thành viên thực hiện.
+
+ b) Khi làm việc với Bạn
+
+ - Tiến hành các thủ tục ban đầu, giới thiệu thành phần Đoàn, phương pháp làm việc.
+
+ - Trình bày nội dung theo văn bản đã chuẩn bị được cấp trên phê duyệt.
+
+ Quá trình làm việc phải bình tĩnh, khôn khéo, thận trọng; trường hợp không thống nhất được đề nghị ghi vào biên bản bảo lưu; đối với những vấn đề Bạn nêu ngoài nội dung, chương trình làm việc hoặc những vấn đề không thuộc phạm vi, quyền hạn thì Trưởng đoàn ghi nhận báo cáo cấp trên.
+
+ - Ký biên bản làm việc, trao quà lưu niệm, tặng phẩm.
+
+ c) Sau khi về đơn vị.
+
+ - Tổ chức họp đoàn rút kinh nghiệm, đánh giá kết quả làm việc và báo cáo cấp trên trực tiếp.
+
+ - Hoàn chỉnh hồ sơ lưu tại đơn vị.
+
+ 3. Tham gia đoàn địa phương
+
+ a) Trường hợp cán bộ của đồn hoặc của Bộ Chỉ huy Bộ đội biên phòng tỉnh, thành phố trực thuộc Trung ương *(sau đây viết gọn là Bộ Chỉ huy Bộ đội biên phòng cấp tỉnh) *được cử tham gia đoàn đàm phán của địa phương, nếu nội dung làm việc liên quan đến quản lý, bảo vệ an ninh, trật tự khu vực biên giới thì cán bộ được cử tham gia đoàn phải nắm vững nội dung chỉ đạo của cấp trên để làm tham mưu cho Trưởng đoàn về nội dung cần trao đổi, bảo đảm đúng chỉ đạo của cấp trên và nguyên tắc quan hệ đối ngoại.
+
+ b) Báo cáo cấp trên trực tiếp kết quả đàm phán của Đoàn.
+
+ c) Thủ tục cử cán bộ ra nước ngoài công tác thực hiện theo quy định tại Điều 6 Thông tư này; kinh phí do địa phương đảm bảo.
+
+ 4. Trình tự thủ tục gặp gỡ làm việc trên đường biên giới hoặc tại một địa điểm thích hợp; phối hợp tuần tra song phương thực hiện theo kế hoạch, nội dung hai bên đã thống nhất.
+
+ 5. Trình tự thủ tục và thẩm quyền đưa ra thư phản kháng
+
+ a) Trình tự thủ tục đưa ra thư phản kháng
+
+ Khi nước Bạn có các hoạt động quy định tại điểm b, khoản 2 Điều 7 Nghị định số 89/2009/NĐ-CP, tiến hành các bước như sau:
+
+ - Tiến hành xác minh, thu thập chứng cứ và lập hồ sơ vụ việc vi phạm;
+
+ - Căn cứ tính chất, mức độ vi phạm báo cáo và đề xuất xin ý kiến cấp trên về hình thức phản kháng (phản kháng trực tiếp hoặc qua thư phản kháng); đồng thời kèm theo dự thảo thư phản kháng để thông qua nội dung;
+
+ - Sau khi được cấp trên thông qua thư phản kháng, giao nhiệm vụ cho sĩ quan liên lạc gửi thư phản kháng qua sĩ quan liên lạc của đồn hoặc trạm đối diện của Bạn;
+
+ - Báo cáo kết quả với cấp trên về thời gian gửi thư phản kháng, ý kiến của phía đối diện (nếu có);
+
+ b) Thẩm quyền đưa ra thư phản kháng
+
+ - Cấp đồn biên phòng Việt Nam với cấp đồn hoặc trạm phía đối diện;
+
+ - Cấp xã biên giới Việt Nam với cấp xã biên giới phía đối diện;
+
+ - Cấp huyện, tỉnh biên giới Việt Nam với cấp huyện, tỉnh biên giới phía đối diện.Điều 25.2.NĐ.1.8. Biện pháp hoạt động đối ngoại biên phòng
+
+(Điều 8 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Khi thực hiện đối ngoại biên phòng phải chuẩn bị chu đáo về mọi mặt và tuân thủ các nguyên tắc về lễ tân ngoại giao, tổ chức đón, tiếp, làm việc và tiễn khách.
 
-**Chỉ mục:** 8
+2. Trong quan hệ tiếp xúc, làm việc phải thực hiện đúng nội dung, kế hoạch, chương trình đã được phê duyệt; trường hợp có thay đổi so với chương trình, kế hoạch phải báo cáo cấp có thẩm quyền theo quy định; mọi hoạt động làm việc, tiếp xúc phải thực hiện thông qua phiên dịch.
 
-**Mã phân cấp:** 250020000000000010000050000000000000000000402342300890000800
+3. Nội dung trao đổi, làm việc giữa hai bên phải được ghi đầy đủ, chi tiết vào biên bản. Biên bản phải lập bằng hai thứ tiếng, tiếng Việt Nam và tiếng nước láng giềng; trong trường hợp cần thiết có thể lập thành ba thứ tiếng (Việt Nam, tiếng nước láng giềng và tiếng Anh hoặc tiếng Pháp) có chữ ký của hai Trưởng đoàn.
 
-**ID:** dk_00039846
+Trường hợp có nội dung mới phát sinh hoặc vượt quá phạm vi thẩm quyền thì ghi nhận, báo cáo cấp trên xin ý kiến chỉ đạo; nếu bạn từ chối hoặc phủ nhận nội dung ta nêu ra thì ghi vào biên bản để bảo lưu ý kiến;
 
----
+Sau khi làm việc phải có văn bản báo cáo cấp có thẩm quyền theo quy định.
 
+4. Căn cứ Hiệp định về Quy chế biên giới và thỏa thuận của hai bên để xác định cấp quan hệ; thành phần gặp gỡ, trao đổi, hội đàm và giải quyết những vấn đề có liên quan đến hai bên biên giới cho phù hợp.
 
-### Điều 25.2.TT.1.6. Biện pháp hoạt động đối ngoại biên phòng (Điều 8 Nghị định số 89/2009/NĐ-CP)
+Điều 25.2.TT.1.6. Biện pháp hoạt động đối ngoại biên phòng (Điều 8 Nghị định số 89/2009/NĐ-CP)
+
+(Điều 6 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 1. Xây dựng kế hoạch hoạt động đối ngoại biên phòng
 
-**Chỉ mục:** 6
+a) Kế hoạch hoạt động đối ngoại biên phòng hàng năm
 
-**Mã phân cấp:** 25002000000000001000005000000000000000000040234230089000080000802423900025000600
+- Chỉ huy trưởng Biên phòng cấp tỉnh xây dựng kế hoạch hoạt động đối ngoại biên phòng hàng năm báo cáo Bộ Tư lệnh Bộ đội Biên phòng phê duyệt (Bộ Tham mưu thẩm định) trước ngày 10 tháng 9 hàng năm.
 
-**ID:** dk_00039847
+- Đồn trưởng đồn biên phòng xây dựng kế hoạch bảo vệ biên giới hàng năm phải xác định nội dung hoạt động đối ngoại biên phòng của đồn báo cáo Chỉ huy trưởng Biên phòng cấp tỉnh phê duyệt.
 
----
+b) Nội dung kế hoạch hoạt động đối ngoại biên phòng hàng năm của Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh:
 
+- Căn cứ xây dựng kế hoạch;
 
-### Điều 25.2.TT.1.5. Trình tự thủ tục, xét duyệt hồ sơ và thủ tục xuất cảnh, nhập cảnh cho cán bộ đi công tác ở nước ngoài thực hiện nhiệm vụ đối ngoại biên phòng
+- Mục đích, yêu cầu;
+
+- Dự kiến số lần làm việc (Ta sang Bạn, Bạn sang Ta);
+
+- Nội dung, phương pháp làm việc;
+
+- Thời gian (theo quý), địa điểm, thành phần;
+
+- Công tác đảm bảo;
+
+- Tổ chức thực hiện.
+
+c) Kế hoạch tổ chức từng lần gặp, làm việc
+
+Kế hoạch tổ chức gặp, làm việc được xây dựng cho từng lần thực hiện và báo cáo Tư lệnh Bộ đội Biên phòng phê duyệt (đối với cấp tỉnh) cần xác định rõ các nội dung sau:
+
+- Mục đích, yêu cầu gặp, làm việc.
+
+- Nội dung, phương pháp tổ chức gặp, làm việc.
+
+- Thời gian, thành phần, địa điểm gặp, làm việc.
+
+- Kinh phí, phương tiện và phân công trách nhiệm tổ chức thực hiện.
+
+- Biện pháp đảm bảo an toàn khi gặp, làm việc.
+
+- Công tác chuẩn bị, nội dung làm việc phải chặt chẽ, báo cáo cấp trên trực tiếp để thông qua. Ngoài nội dung văn bản chuẩn bị trước, cần dự kiến những vấn đề Bạn có thể nêu ra trong khi gặp, làm việc và hướng giải quyết.
+
+2. Trong quan hệ tiếp xúc, làm việc với Bạn phải thực hiện đúng nội dung được phê duyệt; phát biểu, trao đổi trong khi làm việc do Trưởng đoàn thực hiện, ý kiến của các thành viên phản ánh tập trung thống nhất qua Trưởng đoàn (trừ trường hợp Trưởng đoàn ủy quyền hoặc cho phép).
+
+3. Trưởng đoàn chịu trách nhiệm quản lý mọi hoạt động của Đoàn (công tác bảo vệ nội bộ, chế độ bảo mật, báo cáo, quan hệ tiếp xúc, lễ tiết tác phong).
+
+4. Nội dung trao đổi làm việc giữa hai bên phải được ghi đầy đủ, chi tiết vào biên bản song phương hoặc đơn phương thực hiện theo Mẫu số 06 tại Phụ lục kèm theo Thông tư này, nếu biên bản song phương phải lập thành hai bản bằng tiếng Việt và tiếng nước Bạn, có chữ ký của hai Trưởng đoàn.
+
+5. Căn cứ Hiệp định về quy chế biên giới, Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh chủ động quan hệ với lực lượng bảo vệ biên giới, chính quyền địa phương của Bạn thống nhất quy chế phối hợp thực hiện công tác đối ngoại biên phòng.
+
+6. Định kỳ hàng năm lực lượng bảo vệ biên giới cấp tỉnh hai bên gặp nhau 06 tháng một lần, 03 tháng các đồn biên phòng hai bên gặp nhau một lần. Địa điểm được tổ chức theo hình thức luân phiên. Khi có tình huống đột xuất xảy ra liên quan đến an ninh, trật tự trên biên giới, hai bên gặp gỡ thống nhất biện pháp, phối hợp giải quyết. Những nơi phía Bạn không bố trí lực lượng bảo vệ biên giới, đồn biên phòng quan hệ với chính quyền xã hoặc bản biên giới của Bạn.
+
+7. Yêu cầu các biện pháp hoạt động đối ngoại biên phòng:
+
+a) Trong khi làm việc với Bạn nếu có những vấn đề phát sinh ngoài phạm vi nội dung đã thông báo cho Bạn hoặc những vấn đề vượt quá thẩm quyền thì Trưởng đoàn ghi nhận, báo cáo cấp trên xin ý kiến chỉ đạo; nếu Bạn từ chối hoặc phủ nhận nội dung ta nêu ra thì ghi vào biên bản làm việc để bảo lưu ý kiến.
+
+b) Trong quan hệ với lực lượng bảo vệ biên giới, chính quyền địa phương của Bạn; Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh, Đồn trưởng đồn biên phòng căn cứ tình hình thực tế ở biên giới vận dụng hình thức, phương pháp đối ngoại cho phù hợp.
+
+c) Đối với những vụ việc có liên quan đến chủ quyền, an ninh biên giới quốc gia thì Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh, Đồn trưởng đồn biên phòng chủ trì thực hiện, gặp gỡ thông báo, trao đổi hoặc phản kháng.
+
+d) Đối với những vụ việc liên quan đến quan hệ dân sự xảy ra ở khu vực biên giới thì Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh, Đồn trưởng đồn biên phòng phối hợp với các cơ quan chức năng tham mưu cho chính quyền địa phương chủ trì thực hiện thông báo, gặp gỡ, trao đổi hoặc phản kháng.
+
+đ) Trường hợp thăm xã giao chức mừng nhân ngày lễ, tết; chia buồn khi có quốc tang, thiên tai, hỏa hoạn và các hoạt động khác thì chỉ huy đơn vị căn cứ tình hình thực tế giao nhiệm vụ và cử cán bộ thực hiện cho phù hợp.
+
+Phu luc_02_2012_TT-BQP.doc
+
+Điều 25.2.TT.1.5. Trình tự thủ tục, xét duyệt hồ sơ và thủ tục xuất cảnh, nhập cảnh cho cán bộ đi công tác ở nước ngoài thực hiện nhiệm vụ đối ngoại biên phòng
+
+(Điều 5 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 1. Trình tự thủ tục, xét duyệt hồ sơ
 
-**Chỉ mục:** 5
+a) Căn cứ để Chỉ huy đơn vị cử cán bộ ra nước ngoài công tác:
 
-**Mã phân cấp:** 250020000000000010000050000000000000000000802423900025000500
+- Kế hoạch công tác đối ngoại hàng năm và chỉ đạo của Bộ Tư lệnh Bộ đội Biên phòng.
 
-**ID:** dk_00039848
+- Thỏa thuận giữa Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh với Chỉ huy lực lượng bảo vệ biên giới của nước Bạn.
 
----
+- Thư mời của Chỉ huy lực lượng bảo vệ biên giới, cơ quan hữu quan liên quan hoặc chính quyền cấp huyện, cấp tỉnh biên giới nước Bạn (có bản dịch ra tiếng Việt có chữ ký và ghi rõ họ, tên, cấp bậc, chức vụ người dịch và có dấu xác nhận của Chỉ huy đơn vị).
 
+- Quyết định hoặc văn bản của Ủy ban nhân dân cấp tỉnh, cấp huyện về việc thành lập đoàn hoặc đề nghị cử cán bộ đi công tác ở nước Bạn có cán bộ Biên phòng tham gia.
 
-### Điều 25.2.LQ.6. Lực lượng thực thi nhiệm vụ biên phòng
+b) Thủ tục hồ sơ gồm:
+
+- Công văn đề nghị của Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh về việc cử cán bộ đi nước ngoài công tác thực hiện theo Mẫu số 01 tại Phụ lục kèm theo Thông tư này.
+
+- Thư mời của Chỉ huy lực lượng bảo vệ biên giới, cơ quan hữu quan liên quan hoặc chính quyền cấp huyện, tỉnh biên giới nước Bạn (có bản dịch ra tiếng Việt, có chữ ký và ghi rõ họ, tên, cấp bậc, chức vụ người dịch và có dấu xác nhận của Chỉ huy đơn vị).
+
+- Quyết định của Ủy ban nhân dân cấp tỉnh, cấp huyện về việc thành lập đoàn cán bộ đi công tác nước ngoài có cán bộ Biên phòng tham gia.
+
+- Danh sách cán bộ được cử đi công tác nước ngoài, yêu cầu ghi đầy đủ các nội dung theo thực hiện theo Mẫu số 02 - Mẫu DS-74 tại Phụ lục kèm theo Thông tư này và gửi kèm theo 02 ảnh mặc quân phục cỡ 4x6 cm.
+
+c) Thời gian gửi báo cáo và hồ sơ về Bộ tham mưu thuộc Bộ Tư lệnh Bộ đội Biên phòng *(sau đây viết gọn là Bộ Tham mưu) *trước thời hạn đi công tác 07 ngày làm việc đối với cán bộ do Tư lệnh Bộ đội Biên phòng quyết định.
+
+d) Trong thời hạn 03 ngày làm việc, kể từ khi nhận được báo cáo và hồ sơ của Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh, Bộ Tham mưu có trách nhiệm phối hợp, chỉ đạo các cơ quan chức năng thẩm định và làm thủ tục theo quy định trình Tư lệnh Bộ đội Biên phòng ký quyết định hoặc báo cáo trình Bộ Quốc phòng.
+
+đ) Trường hợp gấp, đơn vị báo cáo bằng điện về Bộ Tư lệnh Bộ đội Biên phòng để xem xét, giải quyết, sau đó hoàn chỉnh hồ sơ, thủ tục gửi về Bộ Tham mưu để theo dõi.
+
+e) Trường hợp cán bộ đi nước ngoài học tập, dự hội thảo, làm chuyên gia, thăm và giải quyết việc riêng thực hiện theo Quy chế Tổ chức, quản lý và phối hợp công tác đối ngoại quân sự của Bộ Quốc phòng.
+
+2. Thủ tục xuất cảnh, nhập cảnh
+
+a) Bạn sang Ta làm việc:
+
+- Nếu làm việc tại đồn (cấp đồn và tương đương) đề nghị Bạn gửi danh sách các thành viên trong đoàn (ghi rõ họ tên, cấp bậc, chức vụ, đơn vị, chức vụ trong đoàn) để làm căn cứ đối chiếu danh sách các thành viên trong đoàn và kiểm chứng.
+
+- Trường hợp tổ chức cho Bạn tham quan ở địa bàn thị xã, thị trấn biên giới, Chỉ huy đơn vị cấp tỉnh chủ trì liên hệ thống nhất với Cơ quan quản lý xuất nhập cảnh Công an cấp tỉnh.
+
+- Nếu Bạn sang hội đàm trong phạm vi huyện, tỉnh (cấp tỉnh, cấp huyện) phải có giấy thông hành biên giới hoặc hộ chiếu theo quy định.
+
+b) Ta sang Bạn làm việc:
+
+- Nếu làm việc tại các đồn, trạm cửa khẩu thì gửi danh sách của đoàn cho Bạn (ghi rõ họ tên, cấp bậc, chức vụ, đơn vị, chức vụ trong đoàn).
+
+- Nếu làm việc tại khu vực nội địa (tỉnh, huyện) phải có giấy thông hành hoặc hộ chiếu theo quy định.
+
+Phu luc_02_2012_TT-BQP.doc
+
+Điều 25.2.LQ.6. Lực lượng thực thi nhiệm vụ biên phòng
+
+(Điều 6 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 2. Cơ quan lãnh đạo, chỉ huy, quản lý của cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân quy định tại khoản 1 Điều này.
 
-**Chỉ mục:** 6
+Điều 25.2.LQ.7. Trách nhiệm và chế độ, chính sách của cơ quan, tổ chức, công dân tham gia, phối hợp, cộng tác, giúp đỡ lực lượng thực thi nhiệm vụ biên phòng
 
-**Mã phân cấp:** 2500200000000000100000600000000000000000
-
-**ID:** dk_00039849
-
----
-
-
-### Điều 25.2.LQ.7. Trách nhiệm và chế độ, chính sách của cơ quan, tổ chức, công dân tham gia, phối hợp, cộng tác, giúp đỡ lực lượng thực thi nhiệm vụ biên phòng
+(Điều 7 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Cơ quan, tổ chức, công dân có trách nhiệm tham gia, phối hợp, cộng tác, giúp đỡ lực lượng thực thi nhiệm vụ biên phòng thực hiện nhiệm vụ.
 
-**Chỉ mục:** 7
+2. Công dân ở khu vực biên giới có trách nhiệm tham gia xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân và các phong trào bảo vệ chủ quyền, lãnh thổ, biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu.
 
-**Mã phân cấp:** 2500200000000000100000700000000000000000
+3. Cơ quan, tổ chức, công dân tham gia, phối hợp, cộng tác, giúp đỡ lực lượng thực thi nhiệm vụ biên phòng có thành tích thì được khen thưởng; bị thiệt hại về tài sản thì được đền bù; bị tổn hại về danh dự, nhân phẩm thì được khôi phục; người bị thương tích, tổn hại sức khỏe, tính mạng thì bản thân hoặc gia đình được hưởng chế độ, chính sách theo quy định của pháp luật.
 
-**ID:** dk_00039850
+Điều 25.2.NĐ.1.15. Trách nhiệm của các cơ quan, tổ chức, cá nhân thực hiện hoạt động đối ngoại biên phòng
 
----
-
-
-### Điều 25.2.NĐ.1.15. Trách nhiệm của các cơ quan, tổ chức, cá nhân thực hiện hoạt động đối ngoại biên phòng
+(Điều 15 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 Cơ quan, tổ chức, cá nhân thuộc các Bộ, ngành và Ủy ban nhân dân các cấp; Bộ đội Biên phòng trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các quy định tại Nghị định này và các quy định khác của pháp luật liên quan đến hoạt động đối ngoại biên phòng.
 
-**Chỉ mục:** 15
+Điều 25.2.LQ.8. Các hành vi bị nghiêm cấm về biên phòng
 
-**Mã phân cấp:** 250020000000000010000070000000000000000000402342300890001500
-
-**ID:** dk_00039851
-
----
-
-
-### Điều 25.2.LQ.8. Các hành vi bị nghiêm cấm về biên phòng
+(Điều 8 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Xâm phạm chủ quyền, lãnh thổ quốc gia; phá hoại, gây mất ổn định an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu.
 
-**Chỉ mục:** 8
+2. Sử dụng hoặc cho sử dụng khu vực biên giới của Việt Nam để chống phá, can thiệp vào nước khác; đe dọa sử dụng hoặc sử dụng vũ lực trong quan hệ biên giới.
 
-**Mã phân cấp:** 2500200000000000100000800000000000000000
+3. Giả danh cơ quan, tổ chức, người thực thi nhiệm vụ biên phòng; chống lại, cản trở, trả thù, đe dọa, xâm phạm tính mạng, sức khỏe, xúc phạm danh dự, nhân phẩm người thực thi nhiệm vụ biên phòng.
 
-**ID:** dk_00039852
+4. Mua chuộc, hối lộ, dụ dỗ, lôi kéo hoặc ép buộc người thực thi nhiệm vụ biên phòng làm trái quy định của pháp luật.
 
----
+5. Lợi dụng, lạm dụng việc thực thi nhiệm vụ biên phòng để vi phạm pháp luật, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
+6. Phân biệt đối xử về giới, chia rẽ, kỳ thị dân tộc, chủng tộc, quốc tịch, tín ngưỡng, tôn giáo, trình độ văn hóa trong thực thi nhiệm vụ biên phòng.
 
-### Điều 25.2.NĐ.1.5. Chế độ bảo mật trong hoạt động đối ngoại biên phòng
+7. Sản xuất, sử dụng, mua bán, trao đổi, vận chuyển, phát tán thông tin, hình ảnh sai lệch về chủ quyền, lãnh thổ, biên giới quốc gia.
+
+Điều 25.2.NĐ.1.5. Chế độ bảo mật trong hoạt động đối ngoại biên phòng
+
+(Điều 5 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Tuyệt đối giữ bí mật nhà nước, bí mật quốc phòng, an ninh khi thực hiện hoạt động đối ngoại biên phòng. Nghiêm cấm mọi quan hệ trái phép, phát ngôn làm lộ bí mật nhà nước, làm phương hại đến quốc phòng, an ninh và quan hệ hữu nghị, hợp tác với các nước láng giềng.
 
-**Chỉ mục:** 5
+2. Việc sử dụng tài liệu, tư liệu, mẫu vật thuộc bí mật quân sự, bí mật nhà nước phục vụ cho việc trao đổi, làm việc phải chấp hành đúng quy định của pháp luật về bảo vệ bí mật nhà nước.
 
-**Mã phân cấp:** 250020000000000010000080000000000000000000402342300890000500
+3. Không được lợi dụng quan hệ đối ngoại để buôn bán, trao đổi, tặng, biếu và nhận quà nhằm mục đích trục lợi.
 
-**ID:** dk_00039853
+Chương II
 
----
+HOẠT ĐỘNG CƠ BẢN VỀ BIÊN PHÒNG
 
+Điều 25.2.LQ.9. Nền biên phòng toàn dân, thế trận biên phòng toàn dân
 
-### Điều 25.2.LQ.9. Nền biên phòng toàn dân, thế trận biên phòng toàn dân
+(Điều 9 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Nội dung cơ bản xây dựng nền biên phòng toàn dân bao gồm:
 
-**Chỉ mục:** 9
+a) Xây dựng, tổ chức thực hiện Chiến lược bảo vệ biên giới quốc gia, khu vực phòng thủ, phòng thủ dân sự và kế hoạch phòng thủ ở khu vực biên giới;
 
-**Mã phân cấp:** 2500200000000000200000900000000000000000
+b) Xây dựng, củng cố hệ thống chính trị ở khu vực biên giới;
 
-**ID:** dk_00039855
+c) Xây dựng tiềm lực chính trị, tinh thần, quân sự, an ninh, đối ngoại, kinh tế, văn hóa, xã hội, khoa học, công nghệ đáp ứng yêu cầu nhiệm vụ biên phòng;
 
----
+d) Xây dựng lực lượng bảo vệ biên giới quốc gia toàn dân vững mạnh, rộng khắp; xây dựng Bộ đội Biên phòng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, một số thành phần tiến thẳng lên hiện đại;
 
+đ) Xây dựng phong trào toàn dân tham gia bảo vệ chủ quyền, lãnh thổ, biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu.
 
-### Điều 25.2.LQ.10. Phối hợp thực thi nhiệm vụ biên phòng
+2. Nội dung cơ bản xây dựng thế trận biên phòng toàn dân bao gồm:
+
+a) Xây dựng hệ thống kết cấu hạ tầng, bố trí các cụm dân cư đáp ứng yêu cầu nhiệm vụ xây dựng, phát triển kinh tế - xã hội, quốc phòng, an ninh ở khu vực biên giới;
+
+b) Xây dựng công trình phòng thủ liên hoàn, vững chắc; tổ chức, bố trí lực lượng đáp ứng yêu cầu nhiệm vụ biên phòng;
+
+c) Phối hợp giữa các cơ quan, tổ chức, lực lượng phát huy sức mạnh tổng hợp, kịp thời xử lý các tình huống ở biên giới, khu vực biên giới;
+
+d) Tổ chức Nhân dân tham gia thực hiện nhiệm vụ biên phòng.
+
+(Điều này có nội dung liên quan đến Điều 39.13.LQ.40. Thẩm quyền của Bộ đội biên phòng)
+
+Điều 25.2.LQ.10. Phối hợp thực thi nhiệm vụ biên phòng
+
+(Điều 10 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Phạm vi phối hợp thực thi nhiệm vụ biên phòng được quy định như sau:
 
-**Chỉ mục:** 10
+a) Bộ Quốc phòng chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, chính quyền địa phương cấp tỉnh thực hiện quản lý, bảo vệ biên giới quốc gia, duy trì an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu;
 
-**Mã phân cấp:** 2500200000000000200001000000000000000000
+b) Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ Quốc phòng, chính quyền địa phương cấp tỉnh, cơ quan, tổ chức có liên quan thực thi nhiệm vụ biên phòng;
 
-**ID:** dk_00039856
+c) Chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ, cơ quan ngang Bộ và địa phương, cơ quan, tổ chức có liên quan thực thi nhiệm vụ biên phòng;
 
----
+d) Chính quyền địa phương cấp huyện, cấp xã nơi có biên giới quốc gia, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với địa phương, cơ quan, tổ chức có liên quan thực thi nhiệm vụ biên phòng.
 
+2. Nguyên tắc phối hợp thực thi nhiệm vụ biên phòng bao gồm:
 
-### Điều 25.2.NĐ.1.16. Trách nhiệm phối hợp thực hiện
+a) Căn cứ chức năng, nhiệm vụ, quyền hạn, địa bàn hoạt động của lực lượng thực thi nhiệm vụ biên phòng theo quy định của pháp luật; không làm cản trở hoạt động hợp pháp của cơ quan, tổ chức, cá nhân;
+
+b) Bảo đảm điều hành tập trung, thống nhất theo quy định của pháp luật;
+
+c) Chủ động, linh hoạt, bí mật, kịp thời, hiệu quả và gắn với trách nhiệm của người đứng đầu;
+
+d) Trên cùng một địa bàn, khi phát hiện hành vi vi phạm pháp luật liên quan đến nhiệm vụ, quyền hạn của nhiều cơ quan, tổ chức, lực lượng thì cơ quan, tổ chức, lực lượng nào phát hiện trước phải xử lý theo thẩm quyền do pháp luật quy định; trường hợp vụ việc không thuộc thẩm quyền của mình thì xử lý ban đầu, chuyển giao hồ sơ, người, tang vật, tàu thuyền và phương tiện vi phạm pháp luật cho cơ quan, tổ chức, lực lượng có thẩm quyền chủ trì giải quyết. Cơ quan, tổ chức, lực lượng tiếp nhận có trách nhiệm thông báo kết quả điều tra, xử lý cho cơ quan, tổ chức, lực lượng chuyển giao biết.
+
+3. Nội dung phối hợp thực thi nhiệm vụ biên phòng bao gồm:
+
+a) Trao đổi thông tin, tài liệu; đề xuất cấp có thẩm quyền xây dựng chính sách, pháp luật về biên phòng;
+
+b) Tuần tra, kiểm tra, kiểm soát, xử lý các tình huống về quốc phòng, an ninh, trật tự, an toàn xã hội; đấu tranh phòng, chống tội phạm, vi phạm pháp luật; phòng, chống, ứng phó, khắc phục sự cố, thiên tai, thảm họa, biến đổi khí hậu, dịch bệnh; tìm kiếm, cứu hộ, cứu nạn ở khu vực biên giới, cửa khẩu;
+
+c) Xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh ở khu vực biên giới;
+
+d) Xây dựng lực lượng nòng cốt, chuyên trách;
+
+đ) Đào tạo, tập huấn nghiệp vụ và kỹ năng chuyên môn cho lực lượng thực thi nhiệm vụ biên phòng;
+
+e) Tuyên truyền, phổ biến, giáo dục pháp luật ở khu vực biên giới;
+
+g) Thực hiện các hoạt động phối hợp khác có liên quan.
+
+4. Chính phủ quy định chi tiết việc phối hợp giữa các Bộ, cơ quan ngang Bộ, chính quyền địa phương trong thực thi nhiệm vụ biên phòng.
+
+Bộ trưởng Bộ Quốc phòng quy định chi tiết việc phối hợp giữa Bộ đội Biên phòng và các lực lượng khác thuộc Bộ Quốc phòng trong thực thi nhiệm vụ biên phòng.
+
+(Điều này có nội dung liên quan đến Điều 39.13.LQ.40. Thẩm quyền của Bộ đội biên phòng; Điều 25.2.NĐ.2.7. Trách nhiệm của Bộ Quốc phòng; Điều 25.2.NĐ.2.8. Trách nhiệm của Bộ Ngoại giao; Điều 25.2.NĐ.2.25. Trách nhiệm của cơ quan ngang bộ; Điều 33.4.TL.6.6. Đầu mối trao đổi, cung cấp thông tin; Điều 33.4.TL.6.7. Người có thẩm quyền yêu cầu và cung cấp thông tin)
+
+Điều 25.2.NĐ.1.16. Trách nhiệm phối hợp thực hiện
+
+(Điều 16 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Các cơ quan thực hiện hoạt động đối ngoại biên phòng căn cứ kế hoạch công tác đối ngoại biên phòng hàng năm hoặc kế hoạch đột xuất đã được cấp có thẩm quyền phê duyệt, quy định của Nghị định này và các quy định của pháp luật liên quan đến hoạt động đối ngoại biên phòng để phối hợp, thống nhất về nội dung, phương pháp tổ chức thực hiện.
 
-**Chỉ mục:** 16
+2. Trưởng đoàn có trách nhiệm tổ chức triển khai thực hiện kế hoạch hoạt động đối ngoại đã được phê duyệt. Các thành viên trong đoàn có trách nhiệm tham mưu cho Trưởng đoàn về những nội dung liên quan đến từng lĩnh vực chuyên ngành để thống nhất nội dung, phương pháp làm việc, tránh sơ hở trong tiếp xúc đối ngoại.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402342300890001600
+3. Trong quan hệ tiếp xúc Trưởng đoàn có trách nhiệm:
 
-**ID:** dk_00039857
+a) Quản lý, điều hành mọi hoạt động của đoàn trong tiếp xúc đối ngoại về phát ngôn, lễ tiết tác phong, công tác bảo vệ nội bộ, bảo mật và thực hiện nghiêm chế độ báo cáo theo quy định;
 
----
+b) Là người phát ngôn trong quá trình hội đàm; ý kiến tham gia của thành viên trong đoàn phải tập trung thống nhất qua Trưởng đoàn; thành viên chỉ được phát biểu để làm rõ thêm vấn đề đang trao đổi sau khi được đồng ý của Trưởng đoàn;
 
+c) Trong quá trình làm việc có vấn đề phát sinh ngoài phạm vi nội dung đã thông báo cho Bạn hoặc vượt quá thẩm quyền thì Trưởng đoàn ghi nhận, báo cáo cấp có thẩm quyền xin ý kiến chỉ đạo;
 
-### Điều 25.2.NĐ.2.6. Phạm vi, nguyên tắc và tổ chức hoạt động phối hợp
+d) Kết thúc tiếp xúc đối ngoại, Trưởng đoàn phải báo cáo cấp có thẩm quyền về kết quả hội đàm, trao đổi với Bạn, những nội dung cần kiến nghị, đề xuất và hoàn chỉnh hồ sơ lưu giữ theo quy định.
+
+Điều 25.2.NĐ.2.6. Phạm vi, nguyên tắc và tổ chức hoạt động phối hợp
+
+(Điều 6 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Phạm vi, nguyên tắc phối hợp giữa các bộ, cơ quan ngang bộ, chính quyền địa phương trong thực thi nhiệm vụ biên phòng thực hiện theo quy định tại khoản 1, khoản 2 Điều 10 Luật Biên phòng Việt Nam.
 
-**Chỉ mục:** 6
+2. Bộ Quốc phòng có trách nhiệm phối hợp với các bộ, cơ quan ngang bộ, chính quyền địa phương thực thi nhiệm vụ biên phòng theo quy định từ Điều 7 đến Điều 27 Nghị định này.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060000600
+3. Căn cứ chức năng, nhiệm vụ, quyền hạn, nội dung phối hợp tại khoản 3 Điều 10 Luật Biên phòng Việt Nam, các bộ, cơ quan ngang bộ và chính quyền địa phương các cấp xác định hình thức, phương pháp để phối hợp thực thi hiệu quả nhiệm vụ biên phòng; xây dựng nên biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh và phổ biến, giáo dục pháp luật ở khu vực biên giới.
 
-**ID:** dk_00039858
+4. Căn cứ chức năng, yêu cầu nhiệm vụ, Bộ đội Biên phòng chủ trì xây dựng quy chế phối hợp với các cơ quan, đơn vị, lực lượng chức năng thuộc bộ, cơ quan ngang bộ và chính quyền địa phương theo quy định của Luật Biên phòng Việt Nam và Nghị định này.
 
----
+Điều 25.2.NĐ.2.10. Trách nhiệm của Bộ Tài chính
 
-
-### Điều 25.2.NĐ.2.10. Trách nhiệm của Bộ Tài chính
+(Điều 10 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng tổng hợp, bố trí kinh phí thường xuyên thực hiện các chế độ, chính sách đối với Bộ đội Biên phòng theo quy định của Luật Ngân sách nhà nước và các văn bản quy định chi tiết, hướng dẫn thi hành.
 
-**Chỉ mục:** 10
+2. Chỉ đạo lực lượng Hải quan phòng, chống tội phạm, vi phạm pháp luật về buôn lậu, gian lận thương mại, vi phạm pháp luật về hải quan xảy ra trong phạm vi địa bàn hoạt động của Hải quan theo quy định của pháp luật; bàn giao hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của Bộ đội Biên phòng; tiếp nhận hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của lực lượng chức năng Bộ Tài chính do Bộ đội Biên phòng chuyển giao.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001000
+3. Hướng dẫn, hỗ trợ Bộ đội Biên phòng về công tác chuyên môn nghiệp vụ chuyên ngành thuế, hải quan để phục vụ công tác đấu tranh với các hành vi vi phạm pháp luật có liên quan.
 
-**ID:** dk_00039859
+4. Phối hợp với Bộ Quốc phòng, bộ, ngành liên quan hướng dẫn, đảm bảo chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng quy định tại Điều 4 Nghị định này.
 
----
+Điều 25.2.NĐ.2.11. Trách nhiệm của Bộ Công Thương
 
-
-### Điều 25.2.NĐ.2.11. Trách nhiệm của Bộ Công Thương
+(Điều 11 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chỉ đạo các cơ quan, đơn vị thuộc quyền trao đổi, cung cấp cho Bộ đội Biên phòng thông tin, tài liệu có liên quan tới hoạt động xuất, nhập khẩu, tạm nhập, tái xuất, tái nhập, chuyển khẩu, thương mại biên giới, quá cảnh hàng hóa, hoạt động ủy thác xuất nhập khẩu, xuất xứ hàng hóa vận chuyển ra, vào khu vực biên giới, cửa khẩu; phát triển hạ tầng thương mại biên giới.
 
-**Chỉ mục:** 11
+2. Chỉ đạo các cơ quan, đơn vị thuộc quyền phối hợp với Bộ đội Biên phòng trong bảo vệ an toàn, an ninh hoạt động khảo sát, nghiên cứu, thăm dò, khai thác dầu khí, cấp phép vật liệu nổ công nghiệp; tuyến ống dầu khí, công trình dầu khí trên biển.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001100
+3. Phòng, chống vi phạm pháp luật về thương mại ở khu vực biên giới, cửa khẩu theo quy định của pháp luật; bàn giao hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của Bộ đội Biên phòng; tiếp nhận hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của lực lượng chức năng thuộc Bộ Công Thương do Bộ đội Biên phòng chuyển giao.
 
-**ID:** dk_00039860
+4. Phối hợp với các bộ, ngành, chính quyền địa phương triển khai thực hiện các hoạt động thu hút đầu tư, khai thác tài nguyên cho các tổ chức, cá nhân hoạt động ở khu vực biên giới, cửa khẩu.
 
----
+Điều 25.2.NĐ.2.12. Trách nhiệm của Bộ Kế hoạch và Đầu tư
 
-
-### Điều 25.2.NĐ.2.12. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+(Điều 12 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Phối hợp với Bộ Quốc phòng tổng hợp kế hoạch đầu tư trung hạn, dài hạn và hàng năm của Bộ đội Biên phòng theo các quy định của pháp luật; xác định và đưa vào danh mục các dự án sử dụng vốn ngân sách nhà nước và các dự án ưu tiên xây dựng Bộ đội Biên phòng.
 
-**Chỉ mục:** 12
+2. Theo dõi, kiểm tra, thanh tra kế hoạch, chương trình, dự án về thực thi nhiệm vụ biên phòng.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001200
+3. Ưu tiên bố trí kinh phí cho đầu tư xây dựng cơ sở hạ tầng, doanh trại đối với các đơn vị Bộ đội Biên phòng; hướng dẫn Ủy ban nhân dân cấp tỉnh nơi có biên giới quốc gia lập và đảm bảo ngân sách thực thi nhiệm vụ biên phòng của địa phương.
 
-**ID:** dk_00039861
+Điều 25.2.NĐ.2.13. Trách nhiệm của Bộ Giao thông vận tải
 
----
-
-
-### Điều 25.2.NĐ.2.13. Trách nhiệm của Bộ Giao thông vận tải
+(Điều 13 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì hoặc phối hợp tổ chức thực hiện tìm kiếm cứu nạn trong giao thông đường bộ, đường sắt, đường thủy nội địa, hàng hải và hàng không ở khu vực biên giới theo thẩm quyền.
 
-**Chỉ mục:** 13
+2. Chủ trì, phối hợp với các lực lượng thuộc Bộ Quốc phòng, cơ quan, đơn vị liên quan diễn tập tình huống sự cố an ninh hàng hải ở khu vực biên giới biển.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001300
+3. Chỉ đạo các cơ quan, đơn vị, thuộc quyền thông báo kịp thời cho Bộ đội Biên phòng các thông tin về an ninh, an toàn giao thông đường bộ, đường sắt, đường thủy nội địa, hàng hải ở khu vực biên giới, cửa khẩu.
 
-**ID:** dk_00039862
+4. Bàn giao hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của Bộ đội Biên phòng; tiếp nhận hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của lực lượng chức năng Bộ Giao thông vận tải do Bộ đội Biên phòng chuyển giao.
 
----
+5. Hướng dẫn, hỗ trợ Bộ đội Biên phòng về công tác chuyên môn nghiệp vụ chuyên ngành để phục vụ công tác đấu tranh với các hành vi vi phạm pháp luật về lĩnh vực giao thông đường bộ, đường sắt, đường thủy xảy ra ở khu vực biên giới, cửa khẩu.
 
+Điều 25.2.NĐ.2.14. Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn
 
-### Điều 25.2.NĐ.2.14. Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn
+(Điều 14 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia xây dựng kế hoạch và triển khai hoạt động phòng, chống dịch bệnh đối với động vật, thực vật liên quan hai bên biên giới và ở khu vực biên giới, cửa khẩu; quản lý hoạt động nghề cá; phòng ngừa, phát hiện, ngăn chặn và xử lý các hành vi xâm hại, khai thác thủy sản bất hợp pháp; quản lý, bảo vệ, phòng cháy, chữa cháy rừng; quản lý, khai thác, bảo vệ công trình thủy lợi đê điều; phòng, chống các hành vi buôn lậu vật tư và sản phẩm nông nghiệp, vận chuyển động vật hoang dã trái phép.
 
-**Chỉ mục:** 14
+2. Chỉ đạo các cơ quan, đơn vị, lực lượng chức năng thuộc quyền thông báo, chia sẻ cho Bộ đội Biên phòng các thông tin, tài liệu về dữ liệu tàu cá, khai thác thủy sản, lâm nghiệp và tình hình vi phạm pháp luật của cơ quan, tổ chức, cá nhân ở khu vực biên giới, cửa khẩu có liên quan đến lĩnh vực ngành mình quản lý.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001400
+3. Chỉ đạo lực lượng Kiểm ngư phối hợp với các lực lượng thuộc Bộ Quốc phòng tuần tra, kiểm tra, kiểm soát bảo vệ chủ quyền, quyền chủ quyền, quyền tài phán quốc gia trên các vùng biển Việt Nam; bảo vệ an ninh, an toàn các hoạt động nghiên cứu, bảo tồn nguồn lợi thủy sản trên biển; tìm kiếm, cứu nạn trên biển; đấu tranh phòng, chống cướp biển, cướp có vũ trang.
 
-**ID:** dk_00039863
+4. Bàn giao hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của Bộ đội Biên phòng; tiếp nhận hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của lực lượng chức năng thuộc Bộ Nông nghiệp và Phát triển nông thôn do Bộ đội Biên phòng chuyển giao.
 
----
+5. Hướng dẫn, bồi dưỡng, hỗ trợ cho cán bộ, chiến sĩ Bộ đội Biên phòng về công tác chuyên môn, nghiệp vụ chuyên ngành để xác định các hành vi vi phạm pháp luật trong lĩnh vực quản lý của Bộ Nông nghiệp và Phát triển nông thôn xảy ra ở khu vực biên giới, cửa khẩu.
 
+6. Phối hợp với chính quyền địa phương cấp tỉnh, Bộ Quốc phòng bố trí và ổn định dân cư ra khu vực biên giới, giải quyết di dân tự do; thực hiện chương trình xóa đói, giảm nghèo, chuyển đổi cơ cấu sản xuất và tập quán canh tác, áp dụng tiến bộ kỹ thuật phát triển bền vững kinh tế, xã hội ở khu vực biên giới; xây dựng nông thôn mới gắn với xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân.
 
-### Điều 25.2.NĐ.2.15. Trách nhiệm của Bộ Tài nguyên và Môi trường
+7. Chỉ đạo các đơn vị, lực lượng chức năng thuộc quyền phối hợp với Bộ đội Biên phòng trong xử lý các hành vi vi phạm pháp luật về lĩnh vực thuộc thẩm quyền ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
+
+Điều 25.2.NĐ.2.15. Trách nhiệm của Bộ Tài nguyên và Môi trường
+
+(Điều 15 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chỉ đạo, hướng dẫn các cơ quan, đơn vị thuộc quyền thông báo cho Bộ đội Biên phòng tình hình hoạt động có liên quan đến bảo vệ tài nguyên, môi trường ở khu vực biên giới, cửa khẩu; trao đổi, cung cấp thông tin cảnh báo, dự báo khí tượng thủy văn phục vụ nhiệm vụ của Bộ đội Biên phòng.
 
-**Chỉ mục:** 15
+2. Chỉ đạo lực lượng chức năng thuộc quyền phối hợp với Bộ đội Biên phòng tuần tra, kiểm tra, kiểm soát, xử lý các hành vi vi phạm pháp luật về môi trường ở khu vực biên giới, cửa khẩu; bảo vệ an ninh, an toàn và xử lý các hành vi vi phạm pháp luật đối với các công trình, phương tiện và hoạt động của các trạm quan trắc khí tượng thủy văn quốc gia tại khu vực biên giới, cửa khẩu.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001500
+3. Áp dụng các biện pháp phòng ngừa, phát hiện, xử lý, khắc phục tình trạng ô nhiễm và suy thoái môi trường, các hệ sinh thái ở khu vực biên giới; dự báo, cảnh báo khí tượng thủy văn quốc gia, thiên tai và cấp độ rủi ro thiên tai; kiểm tra, giám sát, khắc phục, giải quyết hậu quả sự cố môi trường, bảo tồn đa dạng sinh học ở khu vực biên giới.
 
-**ID:** dk_00039864
+4. Bàn giao hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của Bộ đội Biên phòng; tiếp nhận hồ sơ, đối tượng, phương tiện, tang vật vi phạm pháp luật thuộc thẩm quyền xử lý của lực lượng chức năng thuộc Bộ Tài nguyên và Môi trường do Bộ đội Biên phòng chuyển giao.
 
----
+5. Hỗ trợ, bồi dưỡng cho cán bộ, chiến sĩ Bộ đội Biên phòng nâng cao trình độ về công tác chuyên môn, nghiệp vụ chuyên ngành tài nguyên, môi trường để xác định các hành vi vi phạm pháp luật trong hoạt động khai thác, sử dụng, bảo vệ tài nguyên, môi trường, khắc phục sự cố môi trường ở khu vực biên giới thuộc thẩm quyền của Bộ đội Biên phòng theo quy định của pháp luật.
 
+Điều 25.2.NĐ.2.16. Trách nhiệm của Bộ Thông tin và Truyền thông
 
-### Điều 25.2.NĐ.2.16. Trách nhiệm của Bộ Thông tin và Truyền thông
+(Điều 16 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan cung cấp tài liệu phục vụ công tác thông tin tuyên truyền và thông tin đối ngoại bằng tiếng Việt, tiếng Anh, tiếng Lào, tiếng Campuchia, tiếng Trung Quốc và tiếng dân tộc thiểu số.
 
-**Chỉ mục:** 16
+2. Chỉ đạo các cơ quan, đơn vị thuộc quyền kết nối hệ thống thông tin phục vụ mục đích quốc phòng, an ninh ở khu vực biên giới, cửa khẩu; trao đổi, cung cấp cho Bộ đội Biên phòng những thông tin, tài liệu cần thiết trong sử dụng mạng di động phục vụ công tác đấu tranh phòng, chống tội phạm, vi phạm pháp luật ở khu vực biên giới, cửa khẩu; tần số vô tuyến điện; tuyến cáp viễn thông khi Bộ đội Biên phòng yêu cầu.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001600
+3. Bảo vệ an toàn các công trình thông tin và viễn thông; phối hợp với Bộ Quốc phòng kiểm tra, kiểm soát và xử lý nhiều có hại giữa các mạng thông tin vô tuyến phục vụ kinh tế - xã hội, quốc phòng và an ninh.
 
-**ID:** dk_00039865
+4. Phối hợp với Bộ Quốc phòng tổ chức bồi dưỡng, nâng cao trình độ chuyên môn nghiệp vụ về bảo mật thông tin, sử dụng trang thiết bị công nghệ, thông tin liên lạc cho cán bộ, chiến sĩ Bộ đội Biên phòng và hỗ trợ khi có sự cố khẩn cấp kỹ thuật về an toàn thông tin phục vụ thực thi nhiệm vụ biên phòng khi có yêu cầu.
 
----
+Điều 25.2.NĐ.2.17. Trách nhiệm của Bộ Y tế
 
-
-### Điều 25.2.NĐ.2.17. Trách nhiệm của Bộ Y tế
+(Điều 17 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh nơi có biên giới quốc gia xây dựng kế hoạch triển khai hoạt động kết hợp quân dân y khám bệnh, chữa bệnh, phòng chống dịch bệnh qua biên giới và ở khu vực biên giới, cửa khẩu.
 
-**Chỉ mục:** 17
+2. Chỉ đạo các cơ quan, đơn vị, lực lượng chức năng thuộc quyền thông báo, cung cấp kịp thời cho Bộ đội Biên phòng các thông tin, tài liệu vi phạm pháp luật về lĩnh vực y tế ở khu vực biên giới, cửa khẩu.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001700
+3. Tổ chức đào tạo, tập huấn, bồi dưỡng, nâng cao trình độ chuyên môn nghiệp vụ về y tế cho cán bộ, chiến sĩ Bộ đội Biên phòng tham gia hoạt động kết hợp quân dân y chăm sóc, bảo vệ, nâng cao sức khỏe Nhân dân và lực lượng vũ trang ở khu vực biên giới, cửa khẩu.
 
-**ID:** dk_00039866
+Điều 25.2.NĐ.2.18. Trách nhiệm của Bộ Giáo dục và Đào tạo
 
----
-
-
-### Điều 25.2.NĐ.2.18. Trách nhiệm của Bộ Giáo dục và Đào tạo
+(Điều 18 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia thực hiện cơ chế, chính sách hỗ trợ đầu tư từ ngân sách nhà nước và huy động các nguồn lực xã hội để phát triển giáo dục, đào tạo ở khu vực biên giới.
 
-**Chỉ mục:** 18
+2. Chỉ đạo cơ quan chức năng thuộc quyền triển khai các dự án đầu tư cho giáo dục, đào tạo ở khu vực biên giới; hướng dẫn thực hiện chính sách bồi dưỡng, đãi ngộ đối với cán bộ Bộ đội Biên phòng tham gia các chương trình, dự án giáo dục, đào tạo ở khu vực biên giới thuộc vùng sâu, vùng xa, vùng đặc biệt khó khăn.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001800
+3. Đào tạo, bồi dưỡng, nâng cao trình độ chuyên môn nghiệp vụ cho cán bộ, chiến sĩ Bộ đội Biên phòng tham gia các chương trình, dự án giáo dục, đào tạo ở khu vực biên giới; tổ chức dạy tiếng dân tộc thiểu số, ngoại ngữ cho Bộ đội Biên phòng và lực lượng chức năng ở khu vực biên giới, cửa khẩu.
 
-**ID:** dk_00039867
+4. Chỉ đạo Sở Giáo dục và Đào tạo các tỉnh, thành phố có biên giới quốc gia phối hợp với Bộ chỉ huy Bộ đội Biên phòng tổ chức tập huấn cho cán bộ, chiến sĩ Bộ đội Biên phòng về tiếng dân tộc thiểu số, nghiệp vụ sư phạm.
 
----
+Điều 25.2.NĐ.2.19. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch
 
-
-### Điều 25.2.NĐ.2.19. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch
+(Điều 19 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia thực hiện chính sách về bảo tồn, phát huy, phát triển các giá trị văn hóa của cộng đồng các dân tộc Việt Nam ở khu vực biên giới; tổ chức thực hiện quy hoạch hệ thống du lịch quốc gia, vùng du lịch, địa bàn du lịch trọng điểm, khu du lịch quốc gia ở khu vực biên giới.
 
-**Chỉ mục:** 19
+2. Chỉ đạo cơ quan chức năng thuộc quyền cung cấp cho Bộ đội Biên phòng những thông tin, tài liệu về quản lý khu du lịch quốc gia, các sự kiện, hội chợ, hội thảo, triển lãm, chương trình hoạt động đối ngoại về văn hóa, gia đình, thể thao và du lịch, hoạt động kinh doanh dịch vụ lữ hành, lưu trú du lịch và dịch vụ du lịch khác ở khu vực biên giới, cửa khẩu.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060001900
+3. Bồi dưỡng, nâng cao trình độ chuyên môn nghiệp vụ về văn hóa, thể thao và du lịch cho cán bộ, chiến sĩ Bộ đội Biên phòng tham gia các chương trình, dự án xúc tiến du lịch quốc gia, liên vùng, liên địa phương ở khu vực biên giới, hướng dẫn, tổ chức thực hiện về thể dục, thể thao.
 
-**ID:** dk_00039868
+Điều 25.2.NĐ.2.20. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
 
----
-
-
-### Điều 25.2.NĐ.2.20. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
+(Điều 20 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia tổ chức thực hiện Chương trình mục tiêu quốc gia giảm nghèo và an sinh xã hội bền vững, các chương trình, đề án trợ giúp xã hội ở khu vực biên giới.
 
-**Chỉ mục:** 20
+2. Đào tạo, bồi dưỡng, nâng cao trình độ chuyên môn nghiệp vụ liên quan cho cán bộ, chiến sĩ Bộ đội Biên phòng tham gia Chương trình mục tiêu quốc gia giảm nghèo bền vững và các chương trình, đề án trợ giúp xã hội ở khu vực biên giới thuộc vùng sâu, vùng xa, vùng đặc biệt khó khăn.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060002000
+Điều 25.2.NĐ.2.21. Trách nhiệm của Bộ Nội vụ
 
-**ID:** dk_00039869
-
----
-
-
-### Điều 25.2.NĐ.2.21. Trách nhiệm của Bộ Nội vụ
+(Điều 21 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia hướng dẫn thực hiện quy hoạch, kế hoạch, chương trình xây dựng đội ngũ cán bộ Bộ đội Biên phòng tham gia xây dựng hệ thống chính trị cơ sở ở khu vực biên giới.
 
-**Chỉ mục:** 21
+2. Phối hợp với Bộ Tài chính, Bộ Quốc phòng trong hướng dẫn thực hiện chính sách, chế độ tiền lương đối với sĩ quan, quân nhân chuyên nghiệp Bộ đội Biên phòng khi được tuyển dụng, tiếp nhận, điều động, biệt phái làm việc trong cơ quan hành chính, đơn vị sự nghiệp công lập của Nhà nước theo yêu cầu nhiệm vụ biên phòng.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060002100
+3. Phối hợp với Bộ Quốc phòng hướng dẫn thực hiện các quy định của Nhà nước, Chính phủ về thi đua khen thưởng; danh hiệu và tiêu chuẩn danh hiệu thi đua; hình thức, đối tượng, tiêu chuẩn khen thưởng đối với tập thể, cá nhân tham gia thực thi nhiệm vụ biên phòng.
 
-**ID:** dk_00039870
+4. Phối hợp với Bộ Quốc phòng, Bộ Tài chính rà soát, quy định, hướng dẫn đảm bảo chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng được quy định tại Điều 4 Nghị định này.
 
----
+Điều 25.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp
 
-
-### Điều 25.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp
+(Điều 22 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Hướng dẫn, theo dõi, đôn đốc, kiểm tra công tác xây dựng pháp luật về biên phòng; phối hợp với Bộ Quốc phòng theo dõi thi hành pháp luật về biên phòng.
 
-**Chỉ mục:** 22
+2. Chỉ đạo, hướng dẫn, kiểm tra, đôn đốc việc thực hiện công tác kiểm tra, rà soát, hệ thống hóa văn bản quy phạm pháp luật về biên phòng.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060002200
+Điều 25.2.NĐ.2.23. Trách nhiệm của Bộ Xây dựng
 
-**ID:** dk_00039871
-
----
-
-
-### Điều 25.2.NĐ.2.23. Trách nhiệm của Bộ Xây dựng
+(Điều 23 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia trong việc lập, trình cấp có thẩm quyền quy hoạch xây dựng vùng liên tỉnh, vùng chức năng đặc thù có yếu tố an ninh, quốc phòng ở khu vực biên giới, cửa khẩu.
 
-**Chỉ mục:** 23
+2. Phối hợp với Bộ Quốc phòng trong hướng dẫn, kiểm tra việc thực hiện các dự án đầu tư xây dựng quan trọng, công trình trọng điểm quốc gia ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060002300
+Điều 25.2.NĐ.2.24. Trách nhiệm của Bộ Khoa học và Công nghệ
 
-**ID:** dk_00039872
-
----
-
-
-### Điều 25.2.NĐ.2.24. Trách nhiệm của Bộ Khoa học và Công nghệ
+(Điều 24 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia trong thực hiện phương hướng, mục tiêu, nhiệm vụ khoa học và công nghệ 05 năm và hằng năm, thúc đẩy việc phát triển lĩnh vực quốc phòng, an ninh, quản lý, bảo vệ biên giới quốc gia trọng điểm trên cơ sở ứng dụng, đổi mới và làm chủ công nghệ, phát triển công nghệ mới, công nghệ cao.
 
-**Chỉ mục:** 24
+2. Phối hợp với Bộ Quốc phòng trong hướng dẫn xây dựng kế hoạch nghiên cứu, ứng dụng khoa học, công nghệ phục vụ cho việc phát triển kết cấu hạ tầng kỹ thuật khu vực biên giới, cửa khẩu và chức năng quản lý, bảo vệ biên giới quốc gia.
 
-**Mã phân cấp:** 250020000000000020000100000000000000000000402785401060002400
+Điều 25.2.LQ.11. Hạn chế hoặc tạm dừng hoạt động ở vành đai biên giới, khu vực biên giới, qua lại biên giới tại cửa khẩu, lối mở biên giới đất liền
 
-**ID:** dk_00039873
-
----
-
-
-### Điều 25.2.LQ.11. Hạn chế hoặc tạm dừng hoạt động ở vành đai biên giới, khu vực biên giới, qua lại biên giới tại cửa khẩu, lối mở biên giới đất liền
+(Điều 11 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 a) Xảy ra tranh chấp về biên giới, lãnh thổ; xung đột vũ trang; địch xâm nhập; hoạt động khác đe dọa đến chủ quyền, lãnh thổ, biên giới quốc gia;
 
-**Chỉ mục:** 11
+b) Xảy ra bạo loạn, khủng bố, bắt cóc con tin, truy bắt tội phạm có vũ khí;
 
-**Mã phân cấp:** 2500200000000000200001100000000000000000
+c) Ngăn chặn thiên tai, hỏa hoạn, lũ lụt, dịch bệnh lan truyền qua biên giới;
 
-**ID:** dk_00039874
+d) Khi có đề nghị hoặc thông báo của Chính phủ, chính quyền địa phương hoặc lực lượng quản lý, bảo vệ biên giới của nước có chung đường biên giới về việc hạn chế hoặc tạm dừng qua lại biên giới.
 
----
+2. Các hoạt động bị hạn chế hoặc tạm dừng bao gồm:
 
+a) Trong vành đai biên giới: ra, vào vành đai biên giới, khu vực có dịch bệnh, hỏa hoạn, lũ lụt, nguy cơ thiên tai xảy ra; họp chợ, tổ chức lễ hội; sản xuất, kinh doanh, xây dựng công trình, thăm dò, khai thác tài nguyên;
 
-### Điều 25.2.LQ.12. Hợp tác quốc tế về biên phòng
+b) Trong khu vực biên giới: ra, vào khu vực biên giới, khu vực có dịch bệnh, hỏa hoạn, lũ lụt, nguy cơ thiên tai xảy ra; họp chợ, tổ chức lễ hội; sản xuất, kinh doanh, xây dựng công trình, thăm dò, khai thác tài nguyên;
+
+c) Qua lại biên giới tại cửa khẩu quốc tế, cửa khẩu chính hoặc cửa khẩu song phương, cửa khẩu phụ, lối mở.
+
+3. Việc quyết định hạn chế hoặc tạm dừng hoạt động trong vành đai biên giới, khu vực biên giới được quy định như sau:
+
+a) Đồn trưởng Đồn Biên phòng quyết định hạn chế hoặc tạm dừng hoạt động trong vành đai biên giới thuộc phạm vi quản lý không quá 12 giờ và báo cáo ngay Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh; thông báo cho cơ quan ngoại vụ địa phương, chính quyền địa phương cấp huyện, cấp xã sở tại;
+
+b) Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh quyết định hạn chế hoặc tạm dừng hoạt động trong khu vực biên giới thuộc phạm vi quản lý không quá 24 giờ và báo cáo ngay Ủy ban nhân dân cấp tỉnh, Tư lệnh Bộ đội Biên phòng; thông báo cho Bộ Ngoại giao, Công an cấp tỉnh.
+
+Trường hợp hết thời hạn 24 giờ, nếu xét thấy cần phải tiếp tục hạn chế hoặc tạm dừng các hoạt động trong khu vực biên giới, Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh có trách nhiệm đề nghị Ủy ban nhân dân cấp tỉnh quyết định tiếp tục hạn chế hoặc tạm dừng nhưng không quá 24 giờ và thông báo cho Bộ Ngoại giao, Công an cấp tỉnh;
+
+c) Quyết định hạn chế hoặc tạm dừng quy định tại điểm a và điểm b khoản này phải thông báo cho cơ quan, tổ chức, cá nhân ở khu vực biên giới; thông báo cho lực lượng quản lý, bảo vệ biên giới của nước có chung đường biên giới.
+
+4. Việc quyết định hạn chế hoặc tạm dừng qua lại biên giới tại cửa khẩu, lối mở được quy định như sau:
+
+a) Đồn trưởng Đồn Biên phòng quyết định hạn chế hoặc tạm dừng qua lại cửa khẩu phụ, lối mở không quá 06 giờ và báo cáo ngay Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh; thông báo cho chính quyền địa phương cấp huyện, cấp xã sở tại, cơ quan, tổ chức, cá nhân ở khu vực biên giới và lực lượng quản lý, bảo vệ biên giới của nước có chung đường biên giới. Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh quyết định hạn chế hoặc tạm dừng qua lại cửa khẩu phụ, lối mở không quá 12 giờ và báo cáo ngay Ủy ban nhân dân cấp tỉnh, Tư lệnh Bộ đội Biên phòng; thông báo cho lực lượng quản lý, bảo vệ biên giới của nước có chung đường biên giới;
+
+b) Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh quyết định hạn chế hoặc tạm dừng qua lại cửa khẩu chính hoặc cửa khẩu song phương không quá 06 giờ và báo cáo ngay Ủy ban nhân dân cấp tỉnh, Tư lệnh Bộ đội Biên phòng; thông báo cho chính quyền địa phương cấp huyện, cấp xã sở tại, cơ quan, tổ chức ở khu vực biên giới và lực lượng quản lý, bảo vệ biên giới của nước có chung đường biên giới;
+
+c) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hạn chế hoặc tạm dừng qua lại cửa khẩu chính hoặc cửa khẩu song phương không quá 24 giờ theo đề nghị của Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh và báo cáo ngay Thủ tướng Chính phủ; thông báo cho chính quyền địa phương của nước có chung đường biên giới;
+
+d) Thủ tướng Chính phủ quyết định hạn chế hoặc tạm dừng qua lại cửa khẩu quốc tế theo đề nghị của Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao. Bộ Ngoại giao có trách nhiệm thông báo cho cơ quan ngoại giao của nước có chung đường biên giới.
+
+5. Trước khi hết thời hạn hạn chế hoặc tạm dừng qua lại biên giới, nếu xét thấy cần tiếp tục hạn chế hoặc tạm dừng thì việc quyết định gia hạn thời gian hạn chế hoặc tạm dừng được thực hiện như sau:
+
+a) Đồn trưởng Đồn Biên phòng quyết định gia hạn thời gian hạn chế hoặc tạm dừng qua lại cửa khẩu phụ, lối mở không quá 06 giờ;
+
+b) Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh quyết định gia hạn thời gian hạn chế hoặc tạm dừng qua lại cửa khẩu chính hoặc cửa khẩu song phương không quá 06 giờ, tại cửa khẩu phụ, lối mở không quá 12 giờ;
+
+c) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định gia hạn thời gian hạn chế hoặc tạm dừng qua lại cửa khẩu chính hoặc cửa khẩu song phương không quá 24 giờ;
+
+d) Việc gia hạn phải được báo cáo ngay và được sự đồng ý của cấp trên trực tiếp trước khi ra quyết định; thông báo cho cơ quan, tổ chức, cá nhân ở khu vực biên giới; thông báo cho cơ quan ngoại vụ địa phương, Bộ Ngoại giao theo quy định tại khoản 3 và khoản 4 Điều này.
+
+6. Trường hợp chấm dứt việc hạn chế hoặc tạm dừng trước thời hạn thì người có thẩm quyền thông báo ngay cho cơ quan có liên quan và trên phương tiện thông tin đại chúng; thông báo cho lực lượng quản lý, bảo vệ biên giới, chính quyền địa phương của nước có chung đường biên giới.
+
+7. Người có thẩm quyền quy định tại Điều này căn cứ tình hình thực tế để ra quyết định và chịu trách nhiệm trước pháp luật về quyết định của mình.
+
+Điều 25.2.LQ.12. Hợp tác quốc tế về biên phòng
+
+(Điều 12 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Nội dung hợp tác quốc tế về biên phòng bao gồm:
 
-**Chỉ mục:** 12
+a) Thiết lập, phát triển quan hệ biên giới; xây dựng, mở rộng quan hệ hữu nghị với chính quyền, nhân dân, lực lượng chức năng của nước có chung đường biên giới và các quốc gia khác; phát triển quan hệ với các tổ chức quốc tế có liên quan;
 
-**Mã phân cấp:** 2500200000000000200001200000000000000000
+b) Ký kết và thực hiện điều ước quốc tế, thỏa thuận quốc tế về biên phòng; thiết lập, thực thi cơ chế hợp tác biên phòng song phương, đa phương theo quy định của pháp luật;
 
-**ID:** dk_00039875
+c) Đàm phán, giải quyết các vấn đề, vụ việc về biên giới, cửa khẩu; tuần tra biên giới; kiểm soát xuất nhập cảnh, xuất nhập khẩu tại cửa khẩu, qua lại biên giới theo quy định của pháp luật; phòng, chống tội phạm, vi phạm pháp luật;
 
----
+d) Đấu tranh ngăn chặn mọi hành động làm phương hại đến quan hệ biên giới giữa Việt Nam với các nước;
 
+đ) Phòng, chống, ứng phó, khắc phục sự cố, thiên tai, thảm họa, biến đổi khí hậu, dịch bệnh; tìm kiếm, cứu hộ, cứu nạn;
 
-### Điều 25.2.LQ.13. Vị trí, chức năng của Bộ đội Biên phòng
+e) Đào tạo, tập huấn nghiệp vụ, trao đổi kinh nghiệm về biên phòng, chuyển giao trang bị, khoa học và công nghệ để tăng cường năng lực thực thi nhiệm vụ biên phòng.
+
+2. Hình thức hợp tác quốc tế về biên phòng bao gồm:
+
+a) Ký kết điều ước quốc tế, thỏa thuận quốc tế;
+
+b) Hội đàm, giao lưu hợp tác;
+
+c) Trao đổi, chia sẻ thông tin;
+
+d) Các hình thức hợp tác khác theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
+(Điều này có nội dung liên quan đến Điều 26.2.LQ.88. Phạm vi trách nhiệm phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới; Điều 25.2.LQ.3. Chính sách của Nhà nước về biên phòng của Luật 66/2020/QH14 Biên phòng Việt Nam ban hành ngày 11/11/2020; Điều 4. Nội dung hoạt động đối ngoại biên phòng của Nghị định 89/2009/NĐ-CP Về hoạt động đối ngoại biên phòng ban hành ngày 19/10/2009)
+
+Chương III
+
+LỰC LƯỢNG BỘ ĐỘI BIÊN PHÒNG
+
+Điều 25.2.LQ.13. Vị trí, chức năng của Bộ đội Biên phòng
+
+(Điều 13 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Bộ đội Biên phòng là lực lượng vũ trang nhân dân, thành phần của Quân đội nhân dân Việt Nam, là lực lượng nòng cốt, chuyên trách quản lý, bảo vệ biên giới quốc gia, khu vực biên giới.
 
-**Chỉ mục:** 13
+2. Bộ đội Biên phòng có chức năng tham mưu cho Bộ trưởng Bộ Quốc phòng ban hành theo thẩm quyền hoặc đề xuất với Đảng, Nhà nước chính sách, pháp luật về biên phòng; thực hiện quản lý nhà nước về quốc phòng, an ninh, đối ngoại và chủ trì, phối hợp với cơ quan, tổ chức duy trì an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
 
-**Mã phân cấp:** 2500200000000000300001300000000000000000
+(Điều này có nội dung liên quan đến Điều 1.1.LQ.22. Các cơ quan chuyên trách bảo vệ an ninh quốc gia)
 
-**ID:** dk_00039877
+Điều 25.2.LQ.14. Nhiệm vụ của Bộ đội Biên phòng
 
----
-
-
-### Điều 25.2.LQ.14. Nhiệm vụ của Bộ đội Biên phòng
+(Điều 14 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Thu thập thông tin, phân tích, đánh giá, dự báo tình hình để thực hiện nhiệm vụ và đề xuất với Bộ Quốc phòng, Đảng, Nhà nước ban hành, chỉ đạo thực hiện chính sách, pháp luật về biên phòng.
 
-**Chỉ mục:** 14
+2. Tham mưu cho Bộ Quốc phòng về công tác quản lý, bảo vệ biên giới quốc gia, duy trì an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu và xây dựng lực lượng Bộ đội Biên phòng.
 
-**Mã phân cấp:** 2500200000000000300001400000000000000000
+3. Thực hiện quản lý, bảo vệ biên giới quốc gia, hệ thống mốc quốc giới, vật đánh dấu, dấu hiệu đường biên giới, công trình biên giới, cửa khẩu; tổ chức kiểm tra việc thực hiện pháp luật về biên phòng.
 
-**ID:** dk_00039878
+4. Duy trì an ninh, trật tự, an toàn xã hội, phòng ngừa, phát hiện, ngăn chặn, đấu tranh với phương thức, thủ đoạn hoạt động của thế lực thù địch, phòng, chống tội phạm, vi phạm pháp luật, bảo vệ quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
 
----
+5. Kiểm soát xuất nhập cảnh tại cửa khẩu do Bộ Quốc phòng quản lý và kiểm soát qua lại biên giới theo quy định của pháp luật.
 
+6. Thực hiện hợp tác quốc tế về biên phòng, đối ngoại biên phòng; giải quyết sự kiện biên giới, cửa khẩu theo quy định của pháp luật.
 
-### Điều 25.2.NĐ.1.14. Trách nhiệm của Bộ đội Biên phòng
+7. Tuyên truyền, phổ biến, giáo dục pháp luật, vận động Nhân dân thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước.
+
+8. Sẵn sàng chiến đấu, chiến đấu chống xung đột vũ trang, chiến tranh xâm lược ở khu vực biên giới.
+
+9. Tham mưu, làm nòng cốt trong xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân ở khu vực biên giới; tham gia xây dựng khu vực phòng thủ cấp tỉnh, cấp huyện biên giới, phòng thủ dân sự.
+
+10. Tiếp nhận, sử dụng nhân lực, phương tiện dân sự để thực hiện nhiệm vụ theo quy định của pháp luật.
+
+11. Tham gia xây dựng hệ thống chính trị cơ sở, sắp xếp ổn định dân cư, xây dựng hệ thống kết cấu hạ tầng, phát triển kinh tế - xã hội và thực hiện chính sách dân tộc, tôn giáo ở khu vực biên giới gắn với xây dựng, củng cố quốc phòng, an ninh.
+
+12. Tham gia phòng, chống, ứng phó, khắc phục sự cố, thiên tai, thảm họa, biến đổi khí hậu, dịch bệnh; tìm kiếm, cứu hộ, cứu nạn ở khu vực biên giới.
+
+(Điều này có nội dung liên quan đến Điều 5. Thủ tục điện tử đối với tàu biển Việt Nam và nước ngoài nhập cảnh tại cảng biển, cảng thủy nội địa; Điều 6. Thủ tục điện tử đối với tàu biển Việt Nam và nước ngoài xuất cảnh tại cảng biển, cảng thủy nội địa; Điều 7. Thủ tục điện tử đối với tàu biển nước ngoài quá cảnh; Điều 10. Thủ tục điện tử đối với tàu biển hoạt động tuyến nội địa vào cảng biển, cảng thủy nội địa; Điều 12. Thủ tục điện tử đối với phương tiện thủy nội địa Việt Nam, Campuchia nhập cảnh tại cảng biển, cảng thủy nội địa Việt Nam của Quyết định 34/2016/QĐ-TTg Quy định thủ tục điện tử đối với tàu thuyền vào, rời cảng biển, cảng thủy nội địa, cảng dầu khí ngoài khơi thông qua Cơ chế một cửa quốc gia ban hành ngày 23/08/2016; Điều 1.1.LQ.22. Các cơ quan chuyên trách bảo vệ an ninh quốc gia; Điều 39.13.LQ.87. Thẩm quyền quyết định cưỡng chế; Điều 26.2.LQ.41. Trách nhiệm của doanh nghiệp kinh doanh cảng, kho, bãi trong hoạt động giám sát hải quan; Điều 26.2.LQ.51. Kiểm tra, giám sát hải quan đối với hàng hóa mua bán, trao đổi của cư dân biên giới; Điều 26.2.LQ.88. Phạm vi trách nhiệm phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới; Điều 37.10.LQ.15. Buồng tạm giữ thuộc đồn biên phòng; Điều 37.11.LQ.9. Các cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều 37.11.LQ.32. Nhiệm vụ, quyền hạn điều tra của Bộ đội biên phòng; Điều 26.2.QĐ.6.8. Thủ tục điện tử đối với tàu biển nhập cảnh tại cảng dầu khí ngoài khơi; Điều 26.2.QĐ.6.9. Thủ tục điện tử đối với tàu biển xuất cảnh tại cảng dầu khí ngoài khơi; Điều 26.2.QĐ.5.11. Thủ tục điện tử đối với tàu biển hoạt động tuyến nội địa rời cảng biển, cảng thủy nội địa; Điều 26.2.QĐ.6.13. Thủ tục điện tử đối với phương tiện thủy nội địa Việt Nam, Campuchia xuất cảnh tại cảng biển, cảng thủy nội địa Việt Nam)
+
+Điều 25.2.NĐ.1.14. Trách nhiệm của Bộ đội Biên phòng
+
+(Điều 14 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Tham mưu cho Bộ Quốc phòng thực hiện quản lý nhà nước về biên giới quốc gia, các chủ trương, chính sách về hoạt động đối ngoại biên phòng và tổ chức thực hiện đối ngoại biên phòng theo chỉ đạo của Bộ trưởng Bộ Quốc phòng, hướng dẫn của Bộ Ngoại giao để quản lý, bảo vệ chủ quyền an ninh biên giới quốc gia, xây dựng biên giới hòa bình, hữu nghị.
 
-**Chỉ mục:** 14
+2. Tham gia các đoàn của Nhà nước, các Bộ, ngành Trung ương, Ủy ban nhân dân theo chỉ đạo của Bộ trưởng Bộ Quốc phòng, kế hoạch của Ủy ban nhân dân cấp tỉnh để đàm phán, trao đổi giải quyết các vấn đề liên quan đến thực hiện Hiệp ước, Hiệp định về biên giới, Thỏa thuận hợp tác biên phòng theo thẩm quyền để bảo vệ chủ quyền quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
 
-**Mã phân cấp:** 250020000000000030000140000000000000000000402342300890001400
+3. Phối hợp với lực lượng bảo vệ biên giới nước láng giềng thực hiện tuần tra, kiểm soát, quản lý, bảo vệ đường biên giới, mốc quốc giới; phối hợp đấu tranh chống tội phạm, ngăn chặn các hoạt động khủng bố, vượt biên, buôn bán vận chuyển các chất ma túy, buôn lậu, buôn bán người qua biên giới, rửa tiền, truy bắt tội phạm, cứu hộ, cứu nạn và tuyên truyền đối ngoại xây dựng biên giới hòa bình, hữu nghị.
 
-**ID:** dk_00039879
+4. Thực hiện trao đổi tình hình liên quan định kỳ hoặc đột xuất với lực lượng bảo vệ biên giới nước láng giềng để:
 
----
+a) Thông báo, trao đổi tình hình thực hiện Hiệp định về Quy chế biên giới, Thỏa thuận hợp tác biên phòng; tình hình vi phạm chủ quyền lãnh thổ; công tác phối hợp đấu tranh, ngăn chặn các hành vi vi phạm các quy định về quản lý, bảo vệ biên giới, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu liên quan đến hai bên biên giới;
 
+b) Tiếp nhận và trao trả người, tang vật, phương tiện vi phạm Hiệp định về Quy chế biên giới;
 
-### Điều 25.2.TT.1.7. Trách nhiệm của Bộ đội Biên phòng trong hoạt động đối ngoại biên phòng (Điều 14 Nghị định số 89/2009/NĐ-CP)
+c) Gửi thư phản kháng các hành vi vi phạm Hiệp định về Quy chế biên giới và các Thỏa thuận đã ký kết;
+
+d) Thông báo việc hạn chế hoặc tạm dừng qua lại biên giới theo quy định của pháp luật.
+
+5. Mời hoặc thăm xã giao theo lời mời; tổ chức đón tiếp lực lượng bảo vệ biên giới nước láng giềng đến làm việc, thăm xã giao chúc mừng nhân dịp ngày lễ, tết hoặc chia buồn khi có quốc tang, thiên tai, hỏa hoạn và các hoạt động khác theo kế hoạch, chỉ đạo của trên.
+
+6. Tổ chức sơ, tổng kết thực hiện công tác đối ngoại biên phòng.
+
+Điều 25.2.TT.1.7. Trách nhiệm của Bộ đội Biên phòng trong hoạt động đối ngoại biên phòng (Điều 14 Nghị định số 89/2009/NĐ-CP)
+
+(Điều 7 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 1. Tư lệnh Bộ đội Biên phòng
 
-**Chỉ mục:** 7
+a) Tham mưu cho Quân ủy Trung ương, Bộ trưởng Bộ Quốc phòng về chủ trương, định hướng công tác đối ngoại biên phòng và tổ chức thực hiện các quyết định của Bộ trưởng Bộ Quốc phòng, hướng dẫn của Bộ Ngoại giao và các cơ quan liên quan đến hoạt động đối ngoại biên phòng để quản lý, bảo vệ chủ quyền an ninh biên giới quốc gia.
 
-**Mã phân cấp:** 25002000000000003000014000000000000000000040234230089000140000802423900025000700
+b) Xây dựng kế hoạch công tác đối ngoại biên phòng hàng năm báo cáo Bộ trưởng Bộ Quốc phòng phê duyệt và tổ chức thực hiện.
 
-**ID:** dk_00039880
+c) Phê duyệt kế hoạch công tác đối ngoại biên phòng hàng năm của Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh và triển khai tổ chức thực hiện.
 
----
+d) Chỉ đạo tổ chức thực hiện các điều ước quốc tế về biên giới được ký kết và các thỏa thuận của cấp có thẩm quyền hai bên biên giới theo quy định của pháp luật và chức năng, nhiệm vụ của Bộ đội Biên phòng.
 
+đ) Chỉ đạo, hướng dẫn thực hiện công tác tuyên truyền, phổ biến giáo dục pháp luật về hoạt động đối ngoại biên phòng, xây dựng biên giới hòa bình, hữu nghị, hợp tác và phát triển.
 
-### Điều 25.2.LQ.15. Quyền hạn của Bộ đội Biên phòng
+e) Tham gia các đoàn đàm phán về biên giới, vùng biển của Nhà nước khi được chỉ định; ký các văn bản hợp tác về công tác biên phòng với lực lượng bảo vệ biên giới nước tiếp giáp và các nước có liên quan theo ủy nhiệm của Bộ trưởng Bộ Quốc phòng.
+
+g) Thăm và mời chỉ huy lực lượng bảo vệ biên giới nước tiếp giáp, các nước có liên quan đến thăm, làm việc với Bộ đội Biên phòng theo chỉ đạo của Bộ trưởng Bộ Quốc phòng.
+
+h) Ký quyết định và chịu trách nhiệm trước Bộ Quốc phòng về việc cử cán bộ thuộc quyền (trừ cán bộ cấp tướng) đi công tác ở các nước có chung đường biên giới để thực hiện hoạt động đối ngoại biên phòng theo quy định tại Điều 4 Nghị định số 89/2009/NĐ-CP và gửi quyết định về Bộ Quốc phòng, Cục Bảo vệ - An ninh/Tổng cục Chính trị, Cục Đối ngoại Bộ Quốc phòng, Cục 25/Tổng cục II (mỗi cơ quan 01 bản).
+
+2. Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh:
+
+a) Tham mưu cho Ban Thường vụ tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh, Tư lệnh Bộ đội Biên phòng về thực hiện công tác đối ngoại biên phòng theo phân cấp của Chính phủ và quy định của Bộ Quốc phòng.
+
+b) Xây dựng kế hoạch thực hiện công tác đối ngoại biên phòng hàng năm báo cáo Tư lệnh Bộ đội Biên phòng phê duyệt và tổ chức thực hiện. Chỉ định cán bộ tham gia các đoàn của địa phương theo chỉ đạo của Tư lệnh Bộ đội Biên phòng.
+
+c) Chỉ đạo Đồn trưởng đồn biên phòng thực hiện quan hệ tiếp xúc theo định kỳ hoặc đột xuất để thông báo, trao đổi tình hình thực hiện Hiệp định về quy chế biên giới và phối hợp với các lực lượng liên quan trên địa bàn quản lý để đấu tranh, ngăn chặn các hành vi vi phạm quy chế khu vực biên giới theo quy định của pháp luật.
+
+d) Tham gia đoàn đàm phán của Ủy ban nhân dân cấp tỉnh giải quyết những vấn đề xảy ra trên biên giới có liên quan đến chủ quyền, an ninh, trật tự ở khu vực biên giới theo phân cấp của Chính phủ.
+
+đ) Thăm, làm việc theo lời mời của Bạn; mời và tổ chức đón tiếp chỉ huy lực lượng bảo vệ biên giới cấp tương đương của Bạn sang Ta làm việc, thăm xã giao nhân ngày lễ, tết hoặc tham gia các hoạt động khác theo chỉ đạo của Tư lệnh Bộ đội Biên phòng thực hiện theo Mẫu số 03 tại Phụ lục kèm theo Thông tư này.
+
+3. Đồn trưởng đồn biên phòng:
+
+a) Tham mưu cho Ban Thường vụ huyện ủy, Chủ tịch Ủy ban nhân dân huyện biên giới quan hệ với chính quyền cấp tương đương của nước tiếp giáp phối hợp giải quyết các vấn đề về an ninh, trật tự và các vấn đề về dân sự liên quan đến chính quyền địa phương hai bên biên giới theo thẩm quyền được quy định tại Hiệp định về quy chế biên giới và chỉ đạo của Chủ tịch Ủy ban nhân dân cấp tỉnh.
+
+b) Quan hệ với Chỉ huy đồn hoặc trạm của lực lượng bảo vệ biên giới nước tiếp giáp theo định kỳ hoặc đột xuất để phối hợp thực hiện Hiệp định về quy chế biên giới gồm:
+
+- Trao đổi tình hình vi phạm chủ quyền lãnh thổ, an ninh, trật tự liên quan đến hai bên biên giới;
+
+- Tiếp nhận các thông báo của nước tiếp giáp và trao trả người vi phạm Hiệp định về quy chế biên giới;
+
+- Phản kháng các hành vi vi phạm Hiệp định về quy chế biên giới thực hiện theo Mẫu số 05 tại Phụ lục kèm theo Thông tư này.
+
+- Thông báo việc hạn chế hoặc tạm dừng qua lại biên giới theo quy định của pháp luật thực hiện theo Mẫu số 04 tại Phụ lục kèm theo Thông tư này.
+
+- Phối hợp tuần tra, kiểm soát, quản lý đường biên giới, mốc quốc giới; phối hợp đấu tranh phòng, chống các loại tội phạm, ngăn chặn các hoạt động khủng bố; tìm kiếm cứu hộ, cứu nạn, thiên tai, dịch bệnh; tuyên truyền, vận động quần chúng nhân dân hai bên biên giới chấp hành nghiêm quy định của Quy chế biên giới, để xây dựng biên giới hòa bình, hữu nghị và hợp tác và phát triển;
+
+c) Mời Bạn hoặc sang Bạn thăm xã giao chúc mừng nhân ngày lễ, tết; chia buồn khi có quốc tang, thiên tai, hỏa hoạn và các hoạt động khác theo chỉ đạo của Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh;
+
+d) Tổ chức đón tiếp chỉ huy lực lượng bảo vệ biên giới nước Bạn đến làm việc, thăm xã giao theo kế hoạch của cấp trên.
+
+Phu luc_02_2012_TT-BQP.doc
+
+Điều 25.2.LQ.15. Quyền hạn của Bộ đội Biên phòng
+
+(Điều 15 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Bố trí, sử dụng lực lượng, phương tiện, thiết bị kỹ thuật để thực thi nhiệm vụ; áp dụng hình thức, biện pháp quản lý, bảo vệ biên giới quốc gia theo quy định tại Điều 19 và Điều 20 của Luật này.
 
-**Chỉ mục:** 15
+2. Tuần tra, kiểm tra, kiểm soát, quản lý, bảo vệ biên giới quốc gia, hệ thống mốc quốc giới, vật đánh dấu, dấu hiệu đường biên giới, công trình biên giới, cửa khẩu; cấp, sửa đổi, bổ sung, hủy bỏ thị thực và các loại giấy tờ trong lĩnh vực quản lý, bảo vệ biên giới quốc gia; kiểm tra, kiểm soát phương tiện khi có dấu hiệu vi phạm pháp luật, xử lý phương tiện vi phạm pháp luật ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
 
-**Mã phân cấp:** 2500200000000000300001500000000000000000
+3. Đấu tranh, ngăn chặn, điều tra, xử lý vi phạm pháp luật ở khu vực biên giới, cửa khẩu theo quy định của pháp luật.
 
-**ID:** dk_00039881
+4. Hạn chế hoặc tạm dừng hoạt động ở vành đai biên giới, khu vực biên giới, qua lại biên giới tại cửa khẩu, lối mở theo quy định tại Điều 11 của Luật này.
 
----
+5. Sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ theo quy định tại Điều 17 của Luật này.
 
+6. Huy động người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự theo quy định tại Điều 18 của Luật này.
 
-### Điều 25.2.LQ.16. Phạm vi hoạt động của Bộ đội Biên phòng
+7. Trực tiếp truy đuổi, bắt giữ người, phương tiện vi phạm pháp luật từ biên giới vào nội địa; phối hợp với các lực lượng truy tìm, bắt giữ người có hành vi vi phạm pháp luật trốn chạy vào nội địa; truy đuổi, bắt giữ người, phương tiện vi phạm pháp luật trốn chạy từ trong nội thủy, lãnh hải Việt Nam ra ngoài phạm vi lãnh hải Việt Nam theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+
+8. Hợp tác, phối hợp với lực lượng chức năng của nước có chung đường biên giới, các nước khác và tổ chức quốc tế trong quản lý, bảo vệ biên giới quốc gia, cửa khẩu, phòng, chống tội phạm, vi phạm pháp luật theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
+(Điều này có nội dung liên quan đến Điều 39.13.LQ.40. Thẩm quyền của Bộ đội biên phòng; Điều 39.13.LQ.87. Thẩm quyền quyết định cưỡng chế)
+
+Điều 25.2.LQ.16. Phạm vi hoạt động của Bộ đội Biên phòng
+
+(Điều 16 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Hoạt động trong khu vực biên giới, cửa khẩu do Bộ Quốc phòng quản lý, địa bàn nội địa để thực hiện chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật.
 
-**Chỉ mục:** 16
+2. Hoạt động ngoài biên giới theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và quy định của pháp luật Việt Nam trong trường hợp vì mục đích nhân đạo, hòa bình, tìm kiếm, cứu hộ, cứu nạn, kiểm soát xuất nhập cảnh, bảo đảm an ninh, trật tự, an toàn xã hội, phòng, chống tội phạm, vi phạm pháp luật.
 
-**Mã phân cấp:** 2500200000000000300001600000000000000000
+Điều 25.2.LQ.17. Sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ
 
-**ID:** dk_00039882
-
----
-
-
-### Điều 25.2.LQ.17. Sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ
+(Điều 17 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Khi thi hành nhiệm vụ, cán bộ, chiến sĩ Bộ đội Biên phòng được sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ theo quy định của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ.
 
-**Chỉ mục:** 17
+2. Ngoài các trường hợp nổ súng quân dụng theo quy định của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, khi thi hành nhiệm vụ đấu tranh phòng, chống tội phạm, vi phạm pháp luật, bảo đảm an ninh, trật tự, an toàn xã hội, cán bộ, chiến sĩ Bộ đội Biên phòng được nổ súng quân dụng vào tàu thuyền trên biển, sông biên giới, trừ tàu thuyền của cơ quan đại diện ngoại giao, cơ quan lãnh sự nước ngoài, cơ quan đại diện tổ chức quốc tế, tàu thuyền có chở người hoặc có con tin, để dừng tàu thuyền, thuộc một trong các trường hợp sau đây:
 
-**Mã phân cấp:** 2500200000000000300001700000000000000000
+a) Đối tượng điều khiển tàu thuyền đó tấn công hoặc đe dọa trực tiếp đến tính mạng người thi hành công vụ;
 
-**ID:** dk_00039883
+b) Khi biết rõ tàu thuyền chở đối tượng phạm tội, vũ khí, vật liệu nổ trái phép, tài liệu phản động, bí mật nhà nước, ma túy, bảo vật quốc gia cố tình chạy trốn;
 
----
+c) Khi tàu thuyền có đối tượng đã thực hiện hành vi cướp biển, cướp có vũ trang theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, quy định của pháp luật về hình sự cố tình chạy trốn.
 
+3. Trường hợp nổ súng quy định tại khoản 2 Điều này, cán bộ, chiến sĩ Bộ đội Biên phòng phải cảnh báo bằng hành động, mệnh lệnh, lời nói hoặc bắn chỉ thiên trước khi nổ súng vào tàu thuyền; phải tuân theo mệnh lệnh của người có thẩm quyền khi thực hiện nhiệm vụ có tổ chức.
 
-### Điều 25.2.LQ.18. Huy động người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự
+Điều 25.2.LQ.18. Huy động người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự
+
+(Điều 18 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Trong trường hợp khẩn cấp để bắt giữ người, tàu thuyền, phương tiện vi phạm pháp luật, tìm kiếm, cứu nạn, cấp cứu người bị nạn, ứng phó, khắc phục sự cố môi trường nghiêm trọng, cán bộ, chiến sĩ Bộ đội Biên phòng được huy động người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự của cơ quan, tổ chức, công dân Việt Nam.
 
-**Chỉ mục:** 18
+2. Việc huy động quy định tại khoản 1 Điều này phải phù hợp với khả năng thực tế của người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự được huy động và phải hoàn trả ngay sau khi tình thế khẩn cấp chấm dứt.
 
-**Mã phân cấp:** 2500200000000000300001800000000000000000
+Trường hợp người, tài sản được huy động làm nhiệm vụ mà bị thiệt hại thì được hưởng chế độ, chính sách, đền bù theo quy định tại khoản 3 Điều 7 của Luật này; đơn vị có cán bộ, chiến sĩ huy động có trách nhiệm giải quyết việc đền bù theo quy định của pháp luật.
 
-**ID:** dk_00039884
+3. Cơ quan, tổ chức, công dân Việt Nam có trách nhiệm thực hiện việc huy động của Bộ đội Biên phòng.
 
----
+4. Trong trường hợp khẩn cấp để bắt giữ người, tàu thuyền, phương tiện vi phạm pháp luật, tìm kiếm, cứu nạn, cấp cứu người bị nạn, ứng phó, khắc phục sự cố môi trường nghiêm trọng, cán bộ, chiến sĩ Bộ đội Biên phòng được đề nghị tổ chức, cá nhân nước ngoài đang hoạt động ở khu vực biên giới hỗ trợ, giúp đỡ.
 
+Điều 25.2.LQ.19. Hình thức quản lý, bảo vệ biên giới quốc gia
 
-### Điều 25.2.LQ.19. Hình thức quản lý, bảo vệ biên giới quốc gia
+(Điều 19 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Hình thức quản lý, bảo vệ biên giới quốc gia bao gồm:
 
-**Chỉ mục:** 19
+a) Quản lý, bảo vệ biên giới thường xuyên được áp dụng trong trường hợp tình hình chủ quyền, lãnh thổ, an ninh, trật tự, an toàn xã hội ở khu vực biên giới ổn định;
 
-**Mã phân cấp:** 2500200000000000300001900000000000000000
+b) Quản lý, bảo vệ biên giới tăng cường được áp dụng khi có sự kiện chính trị, kinh tế, văn hóa, xã hội quan trọng diễn ra ở khu vực biên giới, cửa khẩu, hai bên biên giới; tình hình an ninh, trật tự, an toàn xã hội một số địa bàn ở khu vực biên giới diễn biến phức tạp; địa bàn ngoại biên, khu vực biên giới đang tiến hành diễn tập quân sự, an ninh, trật tự, xảy ra thiên tai, thảm họa, dịch bệnh, cứu hộ, cứu nạn hoặc đang tiến hành hoạt động truy bắt tội phạm mà đối tượng phạm tội có thể vượt qua biên giới; khi lực lượng quản lý, bảo vệ biên giới của nước có chung đường biên giới đề nghị;
 
-**ID:** dk_00039885
+c) Quản lý, bảo vệ biên giới trong tình trạng khẩn cấp về quốc phòng, thiết quân luật, giới nghiêm, tình trạng chiến tranh thực hiện theo quy định của pháp luật về quốc phòng.
 
----
+2. Thẩm quyền quyết định chuyển hình thức quản lý, bảo vệ biên giới quốc gia được quy định như sau:
 
+a) Tư lệnh Bộ đội Biên phòng quyết định chuyển hình thức quản lý, bảo vệ biên giới quy định tại điểm a và điểm b khoản 1 Điều này, báo cáo ngay Bộ Quốc phòng và chịu trách nhiệm trước pháp luật về quyết định của mình;
 
-### Điều 25.2.LQ.20. Biện pháp quản lý, bảo vệ biên giới quốc gia
+b) Bộ trưởng Bộ Quốc phòng quyết định chuyển hình thức quản lý, bảo vệ biên giới quy định tại điểm c khoản 1 Điều này.
+
+3. Bộ trưởng Bộ Quốc phòng quy định chi tiết điểm a và điểm b khoản 1 Điều này.
+
+Điều 25.2.LQ.20. Biện pháp quản lý, bảo vệ biên giới quốc gia
+
+(Điều 20 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Các biện pháp quản lý, bảo vệ biên giới quốc gia bao gồm:
 
-**Chỉ mục:** 20
+a) Vận động quần chúng;
 
-**Mã phân cấp:** 2500200000000000300002000000000000000000
+b) Pháp luật;
 
-**ID:** dk_00039886
+c) Ngoại giao;
 
----
+d) Kinh tế;
 
+đ) Khoa học - kỹ thuật;
 
-### Điều 25.2.LQ.21. Hệ thống tổ chức của Bộ đội Biên phòng
+e) Nghiệp vụ;
+
+g) Vũ trang.
+
+2. Nội dung, điều kiện, thẩm quyền, trình tự, thủ tục và trách nhiệm áp dụng các biện pháp quy định tại khoản 1 Điều này do pháp luật quy định.
+
+Điều 25.2.LQ.21. Hệ thống tổ chức của Bộ đội Biên phòng
+
+(Điều 21 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Hệ thống tổ chức của Bộ đội Biên phòng bao gồm:
 
-**Chỉ mục:** 21
+a) Bộ Tư lệnh Bộ đội Biên phòng;
 
-**Mã phân cấp:** 2500200000000000300002100000000000000000
+b) Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh và các đơn vị trực thuộc Bộ Tư lệnh Bộ đội Biên phòng;
 
-**ID:** dk_00039887
+c) Đồn Biên phòng, Ban chỉ huy Biên phòng cửa khẩu cảng, Hải đội Biên phòng.
 
----
+2. Chính phủ quy định chi tiết Điều này.
 
+(Điều này có nội dung liên quan đến Điều 37.11.NĐ.1.3. Giải thích từ ngữ; Điều 37.11.NĐ.1.4. Nguyên tắc xác định Đồn biên phòng thuộc vùng sâu, vùng xa; Điều 37.11.NĐ.1.5. Tiêu chí xác định Đồn biên phòng thuộc vùng sâu, vùng xa)
 
-### Điều 25.2.NĐ.2.3. Hệ thống tổ chức của Bộ đội Biên phòng
+Điều 25.2.NĐ.2.3. Hệ thống tổ chức của Bộ đội Biên phòng
+
+(Điều 3 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Bộ Tư lệnh Bộ đội Biên phòng
 
-**Chỉ mục:** 3
+a) Cơ quan Bộ Tư lệnh Bộ đội Biên phòng gồm: Bộ Tham mưu; Cục Chính trị; Cục Trinh sát; Cục Phòng, chống ma túy và tội phạm; Cục Cửa khẩu; Cục Hậu cần; Cục Kỹ thuật;
 
-**Mã phân cấp:** 250020000000000030000210000000000000000000402785401060000300
+b) Các đơn vị trực thuộc Bộ Tư lệnh Bộ đội Biên phòng gồm: Hải đoàn Biên phòng; Lữ đoàn thông tin Biên phòng; Học viện Biên phòng; Trường Cao đẳng Biên phòng; Trường Trung cấp 24 Biên phòng; Trung tâm huấn luyện - cơ động;
 
-**ID:** dk_00039888
+c) Cơ quan, đơn vị quy định tại điểm a, điểm b khoản này có các đơn vị trực thuộc.
 
----
+2. Bộ chỉ huy Bộ đội Biên phòng các tỉnh, thành phố trực thuộc trung ương
 
+a) Cơ quan Bộ chỉ huy Bộ đội Biên phòng các tỉnh, thành phố trực thuộc trung ương gồm: Phòng Tham mưu; Phòng Chính trị; Phòng Trinh sát; Phòng Phòng, chống ma túy và tội phạm; Phòng Hậu cần; Phòng Kỹ thuật;
 
-### Điều 25.2.LQ.22. Trang bị của Bộ đội Biên phòng
+b) Cơ quan quy định tại điểm a khoản này có các đơn vị trực thuộc.
+
+3. Đồn Biên phòng; Ban chỉ huy Biên phòng cửa khẩu cảng; Hải đội Biên phòng
+
+a) Đồn Biên phòng gồm: Đội Vũ trang; Đội Vận động quần chúng; Đội Trinh sát; Đội Phòng, chống ma túy và tội phạm; Đội Kiểm soát hành chính; Đội Tham mưu - Hành chính; Đội Tàu thuyền; Trạm Biên phòng;
+
+b) Ban chỉ huy Biên phòng cửa khẩu càng gồm: Ban Tham mưu; Ban Chính trị; Ban Trinh sát; Ban Phòng, chống ma túy và tội phạm; Ban Hậu cần - Kỹ thuật; Đội Hành chính; Đội Thủ tục; Đội Tàu thuyền; Trạm Biên phòng;
+
+c) Hải đội Biên phòng gồm: Đội Tham mưu - Hành chính; Đội Tuần tra biên phòng.
+
+4. Chức năng, nhiệm vụ, quyền hạn và mối quan hệ công tác của các cơ quan, đơn vị thuộc Bộ đội Biên phòng theo quy định của pháp luật, Bộ Quốc phòng.
+
+5. Thẩm quyền thành lập, tổ chức lại, chia tách, sáp nhập, thay đổi tên gọi, giải thể cơ quan, đơn vị thuộc Bộ đội Biên phòng
+
+a) Việc thành lập, tổ chức lại, chia tách, sáp nhập, thay đổi tên gọi, giải thể Bộ Tư lệnh Bộ đội Biên phòng do Chính phủ quyết định;
+
+b) Việc thành lập, tổ chức lại, chia tách, sáp nhập, thay đổi tên gọi, giải thể các cơ quan, đơn vị thuộc khoản 1, khoản 2 và khoản 3 Điều này do Bộ trưởng Bộ Quốc phòng quyết định.
+
+Điều 25.2.LQ.22. Trang bị của Bộ đội Biên phòng
+
+(Điều 22 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Bộ đội Biên phòng được trang bị phương tiện quân sự, dân sự, vũ khí, vật liệu nổ, công cụ hỗ trợ và phương tiện, thiết bị kỹ thuật nghiệp vụ để thực hiện chức năng, nhiệm vụ, quyền hạn.
 
-**Chỉ mục:** 22
+2. Chính phủ quy định việc quản lý, sử dụng và danh mục phương tiện, thiết bị kỹ thuật nghiệp vụ của Bộ đội Biên phòng.
 
-**Mã phân cấp:** 2500200000000000300002200000000000000000
+Điều 25.2.LQ.23. Ngày truyền thống, tên giao dịch quốc tế, con dấu của Bộ đội Biên phòng
 
-**ID:** dk_00039889
-
----
-
-
-### Điều 25.2.LQ.23. Ngày truyền thống, tên giao dịch quốc tế, con dấu của Bộ đội Biên phòng
+(Điều 23 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Ngày 03 tháng 3 hằng năm là ngày truyền thống của Bộ đội Biên phòng, Ngày biên phòng toàn dân.
 
-**Chỉ mục:** 23
+2. Tên giao dịch quốc tế của Bộ đội Biên phòng Việt Nam là Vietnam Border Guard.
 
-**Mã phân cấp:** 2500200000000000300002300000000000000000
+3. Bộ đội Biên phòng sử dụng con dấu có hình Quốc huy trong thực hiện chức năng, nhiệm vụ, quyền hạn được giao.
 
-**ID:** dk_00039890
+Điều 25.2.LQ.24. Trang phục, màu sắc, cờ hiệu, phù hiệu và dấu hiệu nhận biết phương tiện của Bộ đội Biên phòng
 
----
-
-
-### Điều 25.2.LQ.24. Trang phục, màu sắc, cờ hiệu, phù hiệu và dấu hiệu nhận biết phương tiện của Bộ đội Biên phòng
+(Điều 24 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Quân hiệu, cấp hiệu, cờ hiệu, phù hiệu, quân phục, lễ phục của cán bộ, chiến sĩ Bộ đội Biên phòng do Chính phủ quy định.
 
-**Chỉ mục:** 24
+2. Tàu thuyền, tàu bay, ô tô và phương tiện khác của Bộ đội Biên phòng có màu sắc, cờ hiệu, phù hiệu và dấu hiệu nhận biết riêng theo quy định của Bộ Quốc phòng. Khi làm nhiệm vụ, tàu thuyền phải treo quốc kỳ Việt Nam và cờ hiệu Bộ đội Biên phòng.
 
-**Mã phân cấp:** 2500200000000000300002400000000000000000
+Chương IV
 
-**ID:** dk_00039891
+BẢO ĐẢM BIÊN PHÒNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI LỰC LƯỢNG THỰC THI NHIỆM VỤ BIÊN PHÒNG
 
----
+Điều 25.2.LQ.25. Bảo đảm nguồn nhân lực
 
-
-### Điều 25.2.LQ.25. Bảo đảm nguồn nhân lực
+(Điều 25 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Công dân Việt Nam là nguồn nhân lực xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới. Nhà nước có kế hoạch tuyển chọn, đào tạo, bồi dưỡng nguồn nhân lực cho lực lượng thực thi nhiệm vụ biên phòng; ưu tiên cư dân ở khu vực biên giới.
 
-**Chỉ mục:** 25
+2. Cán bộ, chiến sĩ Bộ đội Biên phòng được đào tạo, huấn luyện, bồi dưỡng về chính trị, chuyên môn, nghiệp vụ, pháp luật, ngoại ngữ, tiếng dân tộc và kiến thức cần thiết khác phù hợp với nhiệm vụ, quyền hạn được giao.
 
-**Mã phân cấp:** 2500200000000000400002500000000000000000
+3. Người dân tộc thiểu số ở khu vực biên giới, người có tài năng được ưu tiên, khuyến khích phục vụ lâu dài trong Bộ đội Biên phòng.
 
-**ID:** dk_00039893
+Điều 25.2.LQ.26. Bảo đảm nguồn lực tài chính
 
----
-
-
-### Điều 25.2.LQ.26. Bảo đảm nguồn lực tài chính
+(Điều 26 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 Nhà nước bảo đảm ngân sách cho nhiệm vụ biên phòng theo quy định của pháp luật về ngân sách nhà nước; huy động các nguồn lực tài chính cho nhiệm vụ biên phòng; ưu tiên xây dựng cơ sở hạ tầng, công trình biên giới, cửa khẩu và xây dựng lực lượng nòng cốt, chuyên trách thực thi nhiệm vụ biên phòng.
 
-**Chỉ mục:** 26
+Điều 25.2.LQ.27. Chế độ, chính sách đối với lực lượng thực thi nhiệm vụ biên phòng
 
-**Mã phân cấp:** 2500200000000000400002600000000000000000
-
-**ID:** dk_00039894
-
----
-
-
-### Điều 25.2.LQ.27. Chế độ, chính sách đối với lực lượng thực thi nhiệm vụ biên phòng
+(Điều 27 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Lực lượng thực thi nhiệm vụ biên phòng ở khu vực biên giới được hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.
 
-**Chỉ mục:** 27
+2. Cán bộ, chiến sĩ Bộ đội Biên phòng được hưởng chính sách ưu đãi và chế độ đặc thù phù hợp với tính chất công tác và địa bàn hoạt động do Chính phủ quy định.
 
-**Mã phân cấp:** 2500200000000000400002700000000000000000
+Điều 25.2.NĐ.1.17. Nguồn ngân sách bảo đảm
 
-**ID:** dk_00039895
-
----
-
-
-### Điều 25.2.NĐ.1.17. Nguồn ngân sách bảo đảm
+(Điều 17 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Ngân sách nhà nước bảo đảm cho hoạt động đối ngoại biên phòng.
 
-**Chỉ mục:** 17
+2. Ngân sách khác theo quy định của pháp luật.
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000402342300890001700
+Điều 25.2.NĐ.1.18. Cơ chế bảo đảm ngân sách
 
-**ID:** dk_00039896
-
----
-
-
-### Điều 25.2.NĐ.1.18. Cơ chế bảo đảm ngân sách
+(Điều 18 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Ngân sách bảo đảm cho hoạt động đối ngoại biên phòng của các Bộ, ngành được bố trí trong dự toán ngân sách hàng năm.
 
-**Chỉ mục:** 18
+2. Ngân sách bảo đảm cho hoạt động đối ngoại biên phòng của các địa phương được bố trí trong dự toán ngân sách hàng năm.
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000402342300890001800
+3. Ngân sách bảo đảm cho hoạt động đối ngoại biên phòng của Bộ đội Biên phòng giao Bộ Quốc phòng bố trí trong dự toán ngân sách hàng năm.
 
-**ID:** dk_00039897
+4. Hàng năm các Bộ, ngành, địa phương lập dự toán ngân sách bảo đảm cho hoạt động đối ngoại biên phòng, tổng hợp vào dự toán ngân sách chung, trình cấp có thẩm quyền phê duyệt.
 
----
+Điều 25.2.NĐ.1.19. Nội dung chi hoạt động đối ngoại biên phòng
 
-
-### Điều 25.2.NĐ.1.19. Nội dung chi hoạt động đối ngoại biên phòng
+(Điều 19 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Nội dung chi:
 
-**Chỉ mục:** 19
+a) Chi tiếp đoàn ra, đoàn vào làm việc theo kế hoạch đối ngoại biên phòng;
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000402342300890001900
+b) Đầu tư xây dựng, sửa chữa, nâng cấp cơ sở vật chất, mua sắm trang thiết bị kỹ thuật, phương tiện phục vụ hoạt động đối ngoại biên phòng;
 
-**ID:** dk_00039898
+c) Tổ chức hội nghị, hội thảo;
 
----
+d) Tặng phẩm;
 
+đ) Đào tạo, tập huấn bồi dưỡng nghiệp vụ chuyên ngành;
 
-### Điều 25.2.TT.1.8. Nội dung chi hoạt động đối ngoại biên phòng (Điều 19 Nghị định số 89/2009/NĐ-CP)
+e) Công tác xây dựng hồ sơ lưu trữ;
 
-1. Tiếp Đoàn ra, Đoàn vào làm việc theo kế hoạch đối ngoại biên phòng, cụ thể:
+g) Các hoạt động đối ngoại liên quan khác.
 
-**Chỉ mục:** 8
+2. Mức chi cụ thể thực hiện theo quy định của pháp luật.
 
-**Mã phân cấp:** 25002000000000004000027000000000000000000040234230089000190000802423900025000800
+3. Việc lập dự toán, quản lý, sử dụng ngân sách theo quy định hiện hành của pháp luật.
 
-**ID:** dk_00039899
+Điều 25.2.TT.1.8. Nội dung chi hoạt động đối ngoại biên phòng (Điều 19 Nghị định số 89/2009/NĐ-CP)
 
----
+(Điều 8 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
+ 1. Tiếp Đoàn ra, Đoàn vào làm việc theo kế hoạch đối ngoại biên phòng, cụ thể:
 
-### Điều 25.2.NĐ.2.4. Chính sách ưu đãi và chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng
+ a) Chi cho Đoàn Ta sang Bạn, Đoàn Bạn sang ta theo chương trình, kế hoạch đã được phê duyệt;
+
+ b) Chi tiếp xã giao trong các buổi làm việc.
+
+ 2. Đầu tư xây dựng, sửa chữa, nâng cấp cơ sở vật chất, mua sắm trang thiết bị kỹ thuật, phương tiện phục vụ hoạt động đối ngoại biên phòng, gồm:
+
+ a) Xây nhà khách hoặc phòng hội đàm ở các đồn biên phòng;
+
+ b) Mua trang thiết bị phục vụ cho hội đàm như loa đài, máy ghi âm, máy tính, phông, khẩu hiệu và các vật dụng khác;
+
+ c) Sửa chữa, nâng cấp, bảo dưỡng các trang thiết bị, phương tiện kỹ thuật theo định kỳ.
+
+ 3. Tổ chức hội nghị, hội thảo, gồm: Hội nghị đàm phán, trao đổi thông tin, thông báo tình hình có liên quan đến quản lý, bảo vệ biên giới quốc gia, hội nghị sơ, tổng kết công tác đối ngoại biên phòng theo kế hoạch hàng năm hoặc hội thảo khoa học nội dung liên quan đến hoạt động đối ngoại biên phòng.
+
+ 4. Tặng phẩm:
+
+ a) Tặng phẩm cho tập thể, cá nhân khi Bạn sang Ta;
+
+ b) Tặng phẩm cho tập thể, cá nhân khi Ta sang Bạn.
+
+ 5. Đào tạo, tập huấn bồi dưỡng nghiệp vụ chuyên ngành
+
+ Đào tạo, bồi dưỡng do cơ quan gửi đi học theo kế hoạch hàng năm hoặc tập huấn nghiệp vụ do cơ quan Bộ Tư lệnh Bộ đội Biên phòng hoặc các Bộ, các sở, ban ngành cấp tỉnh tổ chức;
+
+ 6. Công tác xây dựng hồ sơ lưu trữ:
+
+ a) Chi in ấn các biểu mẫu về hoạt động đối ngoại biên phòng;
+
+ b) Chi cho công tác quản lý, khai thác, sử dụng lưu trữ hồ sơ.
+
+ 7. Chi các hoạt động đối ngoại khác:
+
+ a) Chi thăm viếng, chia buồn do thiên tai, hỏa hoạn;
+
+ b) Chi đón tiếp, sang thăm nhân ngày lễ, tết, quốc khánh, truyền thống.
+
+ 8. Mức chi cụ thể, việc lập dự toán, quản lý, sử dụng ngân sách thực hiện theo quy định của pháp luật.
+
+ 9. Kinh phí chi tiếp Bạn của Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh và các đồn, trạm Biên phòng được tính vào kinh phí nghiệp vụ biên phòng.
+
+ 10. Thủ trưởng các cơ quan, đơn vị căn cứ vào dự toán ngân sách được cấp có thẩm quyền giao hàng năm và mức chi theo quy định để thực hiện.Điều 25.2.NĐ.2.4. Chính sách ưu đãi và chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng
+
+(Điều 4 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc Bộ đội Biên phòng thực hiện nhiệm vụ bảo vệ biên giới, hải đảo có thời gian từ 05 năm trở lên nếu có nhu cầu chuyển gia đình đến định cư ổn định cuộc sống lâu dài ở khu vực biên giới, hải đảo được chính quyền địa phương nơi chuyển đến ưu tiên giao đất ở theo quy định của pháp luật về đất đai; hỗ trợ về chỗ ở, nhà ở cho gia đình, việc làm cho vợ hoặc chồng của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc Bộ đội Biên phòng và được hưởng các chế độ, chính sách khác theo quy định.
 
-**Chỉ mục:** 4
+2. Cán bộ, chiến sĩ Bộ đội Biên phòng ngoài được hưởng chế độ tiền lương, phụ cấp và các chính sách khác trong Quân đội còn được hưởng phụ cấp trách nhiệm bảo vệ biên giới, hải đảo trong thời gian trực tiếp làm nhiệm vụ quản lý, bảo vệ biên giới, hải đảo.
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000402785401060000400
+3. Sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc Bộ đội Biên phòng đang có thời gian công tác liên tục từ đủ 05 năm trở lên ở khu vực biên giới đất liền, đảo, quần đảo, hàng tháng được hưởng phụ cấp công tác lâu năm ở biên giới, hải đảo. Trường hợp chế độ phụ cấp công tác lâu năm ở biên giới, hải đảo được quy định tại nhiều văn bản thì chỉ được hưởng một mức cao nhất của chế độ, chính sách đó.
 
-**ID:** dk_00039900
+4. Sĩ quan, quân nhân chuyên nghiệp Bộ đội Biên phòng khi làm cán bộ tăng cường xã biên giới nơi có điều kiện kinh tế, xã hội đặc biệt khó khăn, hàng tháng được hưởng phụ cấp kiêm nhiệm và chế độ bồi dưỡng sức khỏe hàng năm tăng thêm theo quy định của pháp luật.
 
----
+Điều 25.2.NĐ.2.5. Kinh phí đảm bảo chính sách ưu đãi và chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng
 
-
-### Điều 25.2.NĐ.2.5. Kinh phí đảm bảo chính sách ưu đãi và chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng
+(Điều 5 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 Nguồn kinh phí đảm bảo chính sách ưu đãi và chế độ đặc thù do ngân sách nhà nước chi trả được bố trí trong dự toán hằng năm của Bộ Quốc phòng theo quy định của pháp luật về ngân sách nhà nước.
 
-**Chỉ mục:** 5
+Điều 25.2.TL.1.1. Chế độ phụ cấp trách nhiệm quản lý bảo vệ biên giới, hải đảo
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000402785401060000500
-
-**ID:** dk_00039901
-
----
-
-
-### Điều 25.2.TL.1.1. Chế độ phụ cấp trách nhiệm quản lý bảo vệ biên giới, hải đảo
+(Điều 1 Thông tư liên tịch số 2076/1998/TTLT/BQP-BLĐTBXH-BTC Hướng dẫn thực hiện một số chế độ chính sách đối với bộ đội biên phòng ngày 08/07/1998 của Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội và Bộ Tài chính, có hiệu lực thi hành kể từ ngày 23/07/1998 )
 
 1. Đối tượng áp dụng:
 
-**Chỉ mục:** 1
+a) Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng, hạ sĩ quan, binh sĩ thuộc biên chế tại các đồn Biên phòng.
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000801930220765000100
+b) Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng, hạ sĩ quan, binh sĩ thuộc Bộ đội Biên phòng (không thuộc biên chế tại các đồn Biên phòng) được cấp có thẩm quyền điều động đi làm nhiệm vụ trinh sát, tuần tra, kiểm soát, vận động quần chúng bảo vệ chủ quyền biên giới quốc gia.
 
-**ID:** dk_00039902
+2. Mức phụ cấp
 
----
+- Đối với Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng phụ cấp bằng hệ số 0,3 tính trên mức tiền lương tối thiểu do Chính phủ qui định áp dụng đối với cán bộ, công chức Nhà nước;
 
+- Đối với Hạ sĩ quan, binh sĩ phụ cấp bằng hệ số 0,3 tính trên phụ cấp quân hàm binh nhì.
 
-### Điều 25.2.TL.1.2. Chế độ phụ cấp công tác lâu năm ở biên giới, hải đảo
+3. Cách tính trả
+
+- Các đối tượng quy định tại tiết a, điểm 1, mục 1 được tính trả cùng với kỳ lương và phụ cấp quân hàm hàng tháng. Khi rời đồn biên phòng bất kì ngày nào trong tháng (trừ đi phép) từ tháng tiếp theo thôi hưởng khoản phụ cấp trách nhiệm bảo vệ biên giới, hải đảo.
+
+- Các đối tượng qui định tại tiết b, điểm 1 được hưởng phụ cấp theo số ngày thực tế đi làm nhiệm vụ do cấp có thẩm quyền trong Bộ đội Biên phòng quyết định và được tính trả sau mỗi đợt kết thúc làm nhiệm vụ.
+
+*Ví dụ 1:* Một sĩ quan biên chế ở đồn Biên phòng hàng tháng được hưởng phụ cấp trách nhiệm bảo vệ biên giới, hải đảo là 43.200 đồng (144.000 đồng x 0,3).
+
+*Ví dụ 2:* Một binh sĩ biên chế ở đồn Biên phòng, hàng tháng được hưởng phụ cấp trách nhiệm bảo vệ biên giới, hải đảo là 12,960 đồng (43.200 đồng x 0,3).
+
+*Ví dụ 3:* Một sĩ quan biên chế ở 1 đơn vị cơ động, trong tháng được điều động đi tuần tra 3 lần, mỗi lần 5 ngày, tổng cộng là 15 ngày, được hưởng phụ cấp trách nhiệm bảo vệ biên giới, hải đảo là 24. 900 đồng (144.000 đồng x 0,3 x 15 ngày/26 ngày).
+
+Điều 25.2.TL.1.2. Chế độ phụ cấp công tác lâu năm ở biên giới, hải đảo
+
+(Điều 2 Thông tư liên tịch số 2076/1998/TTLT/BQP-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 23/07/1998)
 
 1. Đối tượng áp dụng
 
-**Chỉ mục:** 2
+Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng trong Bộ đội Biên phòng thuộc biên chế tại các đồn, đơn vị Biên phòng đóng quân tại các địa bàn sau:
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000801930220765000200
+- Các xã vùng cao biên giới được công nhận là các xã vùng cao thuộc các tỉnh biên giới theo qui định tại các quyết định hiện hành của Bộ trưởng - Chủ nhiệm Uỷ ban dân tộc và miền núi;
 
-**ID:** dk_00039903
+- Các đảo xa nằm trên lãnh hải Việt Nam (trừ 13 đảo sau: Cái Bầu, Đình Vũ, Cồn Đen, Cồn Lục, Cồn Vành, Đảo Ne, Đảo Ngư, Đảo Sơn Dương, Hòn La, Hòn Trem Bình Ba, Côn Đảo, Phú Quốc).
 
----
+2. Mức phụ cấp
 
+- Phụ cấp công tác lâu năm ở các xã vùng cao biên giới, hải đảo tính trên tiền lương tối thiểu theo quy định của Chính phủ: Đủ 5 năm đến dưới 10 năm hưởng mức hệ số: 0,2; Từ đủ 10 năm đến dưới 15 năm hưởng mức hệ số: 0,3; Từ đủ 15 năm trở lên hưởng mức hệ số: 0,4.
 
-### Điều 25.2.TL.1.3. Chế độ ưu đãi xã hội
+- Thời gian công tác được tính để hưởng phụ cấp công tác lâu năm ở các xã vùng cao biên giới, hải đảo là tổng số thời gian công tác thực tế tại đồn, các đơn vị Biên phòng đóng quân ở các xã vùng cao, đảo xa, nếu đứt quãng thì được cộng dồn.
+
+3. Cách tính trả.
+
+- Phụ cấp công tác lâu năm ở biên giới, hải đảo được trả cùng với kỳ lương hàng tháng.
+
+- Phụ cấp công tác lâu năm ở biên giới, hải đảo chỉ trả cho đối tượng đang công tác tại các xã vùng cao biên giới, đảo xa. Khi được điều động đi đơn vị khác không đóng quân tại xã vùng cao biên giới, đảo xa thì thôi hưởng từ tháng tiếp theo.
+
+*Ví dụ 1:* Một sĩ quan biên chế ở 1 đơn vị Biên phòng đóng quân ở 1 xã vùng cao từ 1/1990 đến 6/1998 (8 năm) hàng tháng được hưởng phụ cấp công tác lâu năm ở biên giới, hải đảo là 28.800 đ (144.000 đ x 0,2).
+
+*Ví dụ 2:* Một sĩ quan có thời gian công tác tại các địa bàn như sau:
+
+Từ tháng 02/1988 đến 02/1990 (2 năm) công tác tại đồn Biên phòng đóng quân ở xã vùng cao.
+
+Từ 3/1990 đến 3/1992 (2 năm) công tác tại đồn Biên phòng đóng quân ở đảo xa.
+
+Từ 4/1992 đến 4/1993 (1 năm) công tác tại Bộ Chỉ huy Bộ đội Biên phòng tỉnh Lào Cai.
+
+Từ 5/1993 đến 6/1998 (5 năm) công tác tại đảo Bạch Long Vĩ (Đảo xa).
+
+Thời gian được tính để hưởng phụ cấp là: 9 năm (2 năm + 2 năm + 5 năm) mức phụ cấp được hưởng hàng tháng là 28.800 đồng (144.000 đồng x 0,2).
+
+*Ví dụ 3:* Một sĩ quan có thời gian công tác như sau:
+
+Từ tháng 8/1978 đến 8/1985 (7 năm) công tác tại một đơn vị Biên phòng đóng quân ở 1 xã vùng cao.
+
+Từ 9/1985 đến 9/1995 (10 năm) công tác tại 1 đơn vị Biên phòng đóng quân ở 1 xã vùng cao.
+
+Từ 10/1995 đến 6/1998 công tác tại Cơ quan Bộ Chỉ huy Bộ đội Biên phòng tỉnh Hà Giang.
+
+Đồng chí sĩ quan này tuy có thời gian công tác ở xã vùng cao biên giới 17 năm nhưng hiện nay đang công tác tại thị xã Hà Giang không phải là xã vùng cao nên không được hưởng phụ cấp công tác lâu năm ở biên giới, hải đảo.
+
+Điều 25.2.TL.1.3. Chế độ ưu đãi xã hội
+
+(Điều 3 Thông tư liên tịch số 2076/1998/TTLT/BQP-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 23/07/1998)
 
 1. Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng, hạ sĩ quan, binh sĩ thuộc Bộ đội Biên phòng trong khi làm nhiệm vụ bảo vệ biên giới, hải đảo ở những địa bàn được coi là đặc biệt khó khăn, gian khổ (theo phụ lục đính kèm) nếu bị ốm đau, tai nạn (trừ trường hợp tự mình gây nên hoặc vi phạm kỷ luật đơn vị) dẫn đến chết (kể cả trường hợp chuyển về tuyến sau điều trị rồi chết) được xét xác nhận là liệt sĩ hoặc bị thương mất sức lao động từ 21% trở lên được xét xác nhận là thương binh hoặc người hưởng chính sách như thương binh.
 
-**Chỉ mục:** 3
+2. Sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ làm nhiệm vụ bảo vệ biên giới, hải đảo ở những địa bàn được coi là đặc biệt khó khăn gian khổ nêu trên, từ 3 năm trở lên (Trường hợp chưa đủ 3 năm phải có 10 năm phục vụ trong quân đội, Công an nhân dân) nếu:
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000801930220765000300
+- Bị ốm đau bệnh tật mất sức lao động từ 61% trở lên xuất ngũ về gia đình được xét xác nhận là bệnh binh;
 
-**ID:** dk_00039904
+- Bị ốm đau, bệnh tật sau đó chuyển sang địa bàn khác (hoặc xuất ngũ) dưới 1 năm mà bị ốm đau do bệnh cũ tái phát (có hồ sơ bệnh cũ điều trị bệnh khi ở địa bàn đặc biệt khó khăn gian khổ kèm theo bệnh án điều trị bệnh tái phát tại các bệnh viên) mất sức lao động từ 61% trở lên được xét xác nhận là bệnh binh.
 
----
+- Thủ tục hồ sơ xét duyệt thực hiện theo qui định tại Thông tư số 22/LĐTBXH ngày 29/8/1995 của Bộ Lao động thương binh xã hội "Hướng dẫn về thủ tục lập và quản lý hồ sơ người có công với cách mạng"; Thông tư số 2285/QP-TT ngày 21/11/1995 của Bộ Quốc phòng và các văn bản khác của liên bộ "Hướng dẫn thực hiện chế độ ưu đãi theo quy định tại Nghị định số 28/CP ngày 29/4/1995 của Chính phủ".
 
+Phu luc_TTLT-BQP-BLDTBXH-BTC.doc
 
-### Điều 25.2.TL.1.4. Chế độ khi chuyển gia đình đến định cư ở vùng cao, hải đảo
+Điều 25.2.TL.1.4. Chế độ khi chuyển gia đình đến định cư ở vùng cao, hải đảo
+
+(Điều 4 Thông tư liên tịch số 2076/1998/TTLT/BQP-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 23/07/1998)
 
 Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng thuộc Bộ đội Biên phòng chuyển gia đình đến vùng cao, hải đảo được hưởng chế độ trợ cấp như hộ gia đình đi xây dựng vùng kinh tế mới hoặc di dân ra đảo theo quy định hiện hành. Kinh phí bảo đảm trích từ nguồn vốn sự nghiệp di dân của ngân sách Nhà nước.
 
-**Chỉ mục:** 4
+Các đơn vị Bộ đội Biên phòng có đối tượng hưởng chế độ trợ cấp này lập dự toán đề nghị duyệt, chi trả và quyết toán với Bộ Quốc phòng.
 
-**Mã phân cấp:** 250020000000000040000270000000000000000000801930220765000400
+Chương V
 
-**ID:** dk_00039905
+TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ BIÊN PHÒNG 
 
----
+Điều 25.2.LQ.28. Trách nhiệm của Chính phủ
 
-
-### Điều 25.2.LQ.28. Trách nhiệm của Chính phủ
+(Điều 28 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Chính phủ thống nhất quản lý nhà nước về biên phòng.
 
-**Chỉ mục:** 28
+2. Nội dung quản lý nhà nước về biên phòng bao gồm:
 
-**Mã phân cấp:** 2500200000000000500002800000000000000000
+a) Ban hành, trình cấp có thẩm quyền ban hành và tổ chức thực hiện chiến lược, chính sách, pháp luật về biên phòng, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân và xây dựng lực lượng nòng cốt, chuyên trách thực thi nhiệm vụ biên phòng;
 
-**ID:** dk_00039907
+b) Tổ chức, chỉ đạo thực thi nhiệm vụ biên phòng;
 
----
+c) Hợp tác quốc tế về biên phòng, đối ngoại biên phòng;
 
+d) Kiểm tra, thanh tra, xử lý vi phạm pháp luật, giải quyết khiếu nại, tố cáo, sơ kết, tổng kết, thi đua, khen thưởng về biên phòng;
 
-### Điều 25.2.NĐ.1.9. Trách nhiệm của Chính phủ
+đ) Tuyên truyền, phổ biến, giáo dục pháp luật về biên phòng.
+
+Điều 25.2.NĐ.1.9. Trách nhiệm của Chính phủ
+
+(Điều 9 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Thống nhất quản lý nhà nước về hoạt động đối ngoại biên phòng.
 
-**Chỉ mục:** 9
+2. Chỉ đạo các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh thực hiện hoạt động đối ngoại biên phòng theo phân cấp và quy định của pháp luật.
 
-**Mã phân cấp:** 250020000000000050000280000000000000000000402342300890000900
+Điều 25.2.LQ.29. Trách nhiệm của Bộ Quốc phòng
 
-**ID:** dk_00039908
-
----
-
-
-### Điều 25.2.LQ.29. Trách nhiệm của Bộ Quốc phòng
+(Điều 29 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về biên phòng và có trách nhiệm sau đây:
 
-**Chỉ mục:** 29
+a) Chủ trì, phối hợp với Bộ Ngoại giao, Bộ Công an trong quản lý, bảo vệ biên giới quốc gia;
 
-**Mã phân cấp:** 2500200000000000500002900000000000000000
+b) Chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, chính quyền địa phương duy trì an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu theo quy định của pháp luật;
 
-**ID:** dk_00039909
+c) Trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn Bộ, cơ quan ngang Bộ, chính quyền địa phương thực hiện việc xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân, thực hiện Ngày biên phòng toàn dân;
 
----
+d) Hướng dẫn Bộ, cơ quan ngang Bộ, chính quyền địa phương nơi có biên giới quốc gia thực hiện quản lý, bảo vệ biên giới quốc gia, khu vực biên giới;
 
+đ) Xây dựng Bộ đội Biên phòng đáp ứng yêu cầu, nhiệm vụ;
 
-### Điều 25.2.NĐ.1.11. Trách nhiệm của Bộ Quốc phòng
+e) Phối hợp với Bộ, cơ quan ngang Bộ, chính quyền địa phương trong xây dựng biên giới quốc gia, khu vực biên giới.
+
+2. Bộ trưởng Bộ Quốc phòng quy định nhiệm vụ, quyền hạn của các lực lượng thuộc quyền trong quản lý, bảo vệ biên giới quốc gia, khu vực biên giới.
+
+Điều 25.2.NĐ.1.11. Trách nhiệm của Bộ Quốc phòng
+
+(Điều 11 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Chủ trì, phối hợp với Bộ Ngoại giao và các Bộ, ngành liên quan chỉ đạo, hướng dẫn Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương thực hiện quản lý nhà nước về biên giới quốc gia. Phối hợp với Bộ Ngoại giao đề xuất chủ trương, chính sách về hoạt động đối ngoại biên phòng và tham gia các đoàn đàm phán giải quyết các vấn đề về biên giới lãnh thổ; xây dựng văn bản quy phạm pháp luật về quản lý, bảo vệ biên giới quốc gia và tổ chức quản lý, bảo vệ biên giới quốc gia thuộc thẩm quyền.
 
-**Chỉ mục:** 11
+2. Chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về hoạt động đối ngoại biên phòng và phối hợp với Bộ Ngoại giao chỉ đạo, hướng dẫn các cơ quan liên quan về nghiệp vụ hoạt động đối ngoại biên phòng.
 
-**Mã phân cấp:** 250020000000000050000290000000000000000000402342300890001100
+3. Ký kết thỏa thuận hợp tác biên phòng với Bộ Quốc phòng (Bộ, ngành liên quan) nước láng giềng về những vấn đề liên quan đến công tác quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự ở khu vực biên giới, cửa khẩu của hai nước theo quy định của pháp luật.
 
-**ID:** dk_00039910
+4. Hợp tác quốc tế về công tác biên phòng và tiến hành hoạt động đối ngoại biên phòng để phối hợp quản lý, bảo vệ biên giới quốc gia, xây dựng biên giới hòa bình, hữu nghị với các nước láng giềng.
 
----
+5. Chỉ đạo, hướng dẫn Bội đội Biên phòng thực hiện nhiệm vụ đối ngoại biên phòng và giải quyết công việc liên quan đến hai bên biên giới theo thẩm quyền. Định kỳ tổ chức sơ, tổng kết thực hiện công tác đối ngoại biên phòng.
 
+Điều 25.2.NĐ.2.7. Trách nhiệm của Bộ Quốc phòng
 
-### Điều 25.2.NĐ.2.7. Trách nhiệm của Bộ Quốc phòng
+(Điều 7 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Ngoại giao, Bộ Công an trao đổi với các bộ, cơ quan ngang bộ, chính quyền địa phương nơi có biên giới quốc gia về tình hình, thông tin liên quan đến quản lý, bảo vệ biên giới quốc gia, tội phạm, vi phạm pháp luật ở khu vực biên giới, cửa khẩu theo quy định của pháp luật; chia sẻ với Bộ Công an về số liệu xuất cảnh, nhập cảnh, quá cảnh, cấp thị thực tại cửa khẩu do Bộ Quốc phòng quản lý; khi có đề nghị, thông báo cho Bộ Công an các thông tin liên quan đến an ninh quốc gia, trật tự, an toàn xã hội, tình hình vi phạm pháp luật ở khu vực biên giới và các thông tin khác liên quan đến chức năng, nhiệm vụ của Bộ Công an.
 
-**Chỉ mục:** 7
+2. Chủ trì, phối hợp với các bộ, ngành và chính quyền địa phương nơi có biên giới quốc gia xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh.
 
-**Mã phân cấp:** 250020000000000050000290000000000000000000402785401060000700
+3. Chủ trì, phối hợp với Bộ Công an, chính quyền địa phương xử lý các tình huống quân sự, quốc phòng ở khu vực biên giới; chỉ đạo Bộ đội Biên phòng phối hợp với Công an địa phương tham mưu cho chính quyền địa phương xử lý tình huống an ninh, trật tự ở khu vực biên giới theo quy định của pháp luật.
 
-**ID:** dk_00039911
+4. Chủ trì, tham mưu cho Chính phủ thực hiện hợp tác quốc tế về biên phòng và đối ngoại biên phòng theo quy định của pháp luật; tham gia ý kiến về quy hoạch, đề án, dự án của các bộ, ngành, địa phương ở khu vực biên giới.
 
----
+5. Chủ trì, phối hợp với các bộ, ngành, chính quyền địa phương xây dựng Bộ đội Biên phòng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, một số thành phần tiến thẳng lên hiện đại; tập huấn nghiệp vụ về quản lý, bảo vệ biên giới quốc gia cho lực lượng thực thi nhiệm vụ biên phòng ở khu vực biên giới.
 
+6. Chủ trì, phối hợp với Bộ Tư pháp và các bộ, ngành liên quan, chính quyền địa phương theo dõi tình hình thi hành pháp luật về biên phòng; hướng dẫn, đôn đốc, kiểm tra công tác xây dựng pháp luật về biên phòng theo quy định của pháp luật.
 
-### Điều 25.2.LQ.30. Trách nhiệm của Bộ Ngoại giao
+7. Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư tổng hợp kế hoạch đầu tư trung hạn, dài hạn và hằng năm của Bộ đội Biên phòng theo các quy định của Luật Đầu tư công; xác định và đưa vào danh mục các dự án sử dụng vốn ngân sách nhà nước và các dự án ưu tiên xây dựng Bộ đội Biên phòng.
+
+8. Chủ trì tìm kiếm, cứu hộ, cứu nạn ở vùng cấm, khu vực quân sự, khu vực biên giới, cửa khẩu do Bộ Quốc phòng quản lý và đối với tàu biển quân sự, tàu bay quân sự nước ngoài lâm nạn trong khu vực biên giới.
+
+9. Chỉ đạo Bộ đội Biên phòng chủ trì, phối hợp với lực lượng chức năng thuộc Công an nhân dân, lực lượng thực thi nhiệm vụ biên phòng thuộc các bộ, cơ quan ngang bộ và chính quyền địa phương duy trì an ninh, trật tự, an toàn xã hội, phòng, chống tội phạm, vi phạm pháp luật ở khu vực biên giới, cửa khẩu do Bộ Quốc phòng quản lý theo quy định của pháp luật.
+
+10. Chỉ đạo các cơ quan, đơn vị thuộc quyền phối hợp với cơ quan, đơn vị, lực lượng chức năng thuộc các bộ, cơ quan ngang bộ, chính quyền địa phương các cấp tạo điều kiện thuận lợi cho Bộ đội Biên phòng thực hiện chức năng, nhiệm vụ, quyền hạn được giao.
+
+11. Phối hợp với các bộ, ngành, địa phương liên quan trong công tác Phòng, chống, ứng phó, khắc phục sự cố, thiên tai, thảm họa; biến đổi khí hậu, dịch bệnh ở khu vực biên giới, cửa khẩu do Bộ Quốc phòng quản lý.
+
+12. Phối hợp với chính quyền địa phương nơi có biên giới tuyển chọn công dân thuộc dân tộc thiểu số định cư ở khu vực biên giới, hải đảo, người có tài năng để tạo nguồn phục vụ lâu dài trong Bộ đội Biên phòng theo kế hoạch tuyển dụng, tuyển chọn hằng năm.
+
+(Điều này có nội dung liên quan đến Điều 25.2.LQ.10. Phối hợp thực thi nhiệm vụ biên phòng)
+
+Điều 25.2.LQ.30. Trách nhiệm của Bộ Ngoại giao
+
+(Điều 30 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ Ngoại giao có trách nhiệm chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, cơ quan có liên quan và chính quyền địa phương thực hiện các nội dung sau đây:
 
-**Chỉ mục:** 30
+1. Đề xuất chủ trương, chính sách và các biện pháp quản lý về biên giới quốc gia;
 
-**Mã phân cấp:** 2500200000000000500003000000000000000000
+2. Thực hiện quản lý nhà nước về hoạt động đối ngoại biên phòng; hướng dẫn lực lượng nòng cốt, chuyên trách về nghiệp vụ đối ngoại biên phòng;
 
-**ID:** dk_00039912
+3. Chỉ đạo, hướng dẫn Ủy ban nhân dân cấp tỉnh nơi có biên giới quốc gia thực hiện quản lý nhà nước về biên giới quốc gia;
 
----
+4. Trình Thủ tướng Chính phủ chỉ đạo hoặc hướng dẫn xử lý theo thẩm quyền vấn đề phát sinh trong hoạt động của Bộ, ngành, địa phương liên quan đến quản lý, bảo vệ biên giới quốc gia;
 
+5. Bồi dưỡng, hướng dẫn lực lượng nòng cốt, chuyên trách thực thi nhiệm vụ biên phòng giải quyết vụ việc liên quan đến biên giới và người nước ngoài.
 
-### Điều 25.2.NĐ.1.12. Trách nhiệm của Bộ Ngoại giao
+Điều 25.2.NĐ.1.12. Trách nhiệm của Bộ Ngoại giao
+
+(Điều 12 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Cung cấp thông tin liên quan đến đối ngoại biên phòng (chủ trương, chính sách của nhà nước về đối ngoại, giải quyết các vấn đề biên giới, lãnh thổ với các nước láng giềng; tình hình quan hệ giữa ta và các nước bạn, thực trạng các vấn đề biên giới và lãnh thổ…) nhằm tạo điều kiện cho việc hoạch định các hoạt động đối ngoại biên phòng.
 
-**Chỉ mục:** 12
+2. Phối hợp với Bộ Quốc phòng trong việc chỉ đạo, hướng dẫn các Bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh và Bộ đội Biên phòng trong thực hiện hoạt động đối ngoại biên phòng.
 
-**Mã phân cấp:** 250020000000000050000300000000000000000000402342300890001200
+3. Đào tạo, bồi dưỡng kiến thức pháp luật, Điều ước quốc tế về biên giới, nghiệp vụ công tác đối ngoại biên phòng cho cán bộ các Bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh, Bộ đội Biên phòng để thực hiện công tác đối ngoại và xử lý những vụ việc liên quan đến hai bên biên giới và người nước ngoài ở địa bàn khu vực biên giới, cửa khẩu.
 
-**ID:** dk_00039913
+Điều 25.2.NĐ.2.8. Trách nhiệm của Bộ Ngoại giao
 
----
-
-
-### Điều 25.2.NĐ.2.8. Trách nhiệm của Bộ Ngoại giao
+(Điều 8 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chủ trì, phối hợp với Bộ Quốc phòng và các bộ, ngành, địa phương có liên quan tổ chức các biện pháp đấu tranh đối ngoại trong trường hợp độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, quốc gia bị xâm phạm hoặc có nguy cơ bị xâm phạm.
 
-**Chỉ mục:** 8
+2. Cung cấp, trao đổi với Bộ Quốc phòng những thông tin, tài liệu về chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước trong phạm vi phụ trách có liên quan đến nhiệm vụ biên phòng theo quy định của pháp luật hiện hành; thông tin về các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có liên quan đến nhiệm vụ biên phòng.
 
-**Mã phân cấp:** 250020000000000050000300000000000000000000402785401060000800
+3. Phối hợp với Bộ Quốc phòng giải quyết các trường hợp tổ chức, cá nhân nước ngoài vi phạm pháp luật Việt Nam, điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên ở khu vực biên giới, cửa khẩu.
 
-**ID:** dk_00039914
+4. Phối hợp với bộ, ngành, địa phương liên quan tập huấn cho cán bộ các cấp về các điều ước quốc tế về biên giới mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
----
+5. Đào tạo, bồi dưỡng, hướng dẫn Bộ đội Biên phòng về nghiệp vụ đối ngoại, phối hợp giải quyết vụ việc liên quan đến biên giới và người nước ngoài.
 
+(Điều này có nội dung liên quan đến Điều 25.2.LQ.10. Phối hợp thực thi nhiệm vụ biên phòng)
 
-### Điều 25.2.LQ.31. Trách nhiệm của Bộ Công an
+Điều 25.2.LQ.31. Trách nhiệm của Bộ Công an
+
+(Điều 31 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ Công an có trách nhiệm phối hợp với Bộ Quốc phòng, Bộ Ngoại giao thực thi nhiệm vụ biên phòng.
 
-**Chỉ mục:** 31
+2. Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, cơ quan có liên quan, chính quyền địa phương nơi có biên giới quốc gia thực hiện các nội dung sau đây:
 
-**Mã phân cấp:** 2500200000000000500003100000000000000000
+a) Xây dựng, củng cố nền an ninh nhân dân gắn với nền quốc phòng toàn dân, nền biên phòng toàn dân ở khu vực biên giới;
 
-**ID:** dk_00039915
+b) Quản lý nhà nước về xuất nhập cảnh, xây dựng, ban hành theo thẩm quyền và trình cấp có thẩm quyền ban hành chính sách, pháp luật về xuất cảnh, nhập cảnh.
 
----
+3. Phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, cơ quan có liên quan, chính quyền địa phương nơi có biên giới quốc gia duy trì an ninh, trật tự, an toàn xã hội, thực thi pháp luật và xử lý các tình huống quân sự, quốc phòng ở khu vực biên giới.
 
+4. Phối hợp với Bộ Quốc phòng đào tạo, bồi dưỡng, hướng dẫn lực lượng nòng cốt, chuyên trách nghiệp vụ, pháp luật về an ninh quốc gia, trật tự, an toàn xã hội, trao đổi thông tin nghiệp vụ liên quan để thực thi nhiệm vụ biên phòng.
 
-### Điều 25.2.NĐ.2.9. Trách nhiệm của Bộ Công an
+5. Chỉ đạo Công an các cấp phối hợp với cơ quan, đơn vị thuộc Bộ Quốc phòng, Bộ Ngoại giao, chính quyền địa phương thực thi nhiệm vụ biên phòng.
+
+(Điều này có nội dung liên quan đến Điều 1.6.LQ.16. Nhiệm vụ và quyền hạn của Công an nhân dân)
+
+Điều 25.2.NĐ.2.9. Trách nhiệm của Bộ Công an
+
+(Điều 9 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Chỉ đạo Công an địa phương phối hợp với Bộ đội Biên phòng tham mưu cho chính quyền địa phương xử lý tình huống an ninh, trật tự ở khu vực biên giới theo quy định của pháp luật. Phối hợp với Bộ Quốc phòng, chính quyền địa phương xử lý các tình huống quân sự, quốc phòng ở khu vực biên giới.
 
-**Chỉ mục:** 9
+2. Chỉ đạo các đơn vị, lực lượng chức năng thuộc quyền phối hợp với Bộ đội Biên phòng bắt giữ người vi phạm pháp luật ở khu vực biên giới đang lẩn trốn ở địa bàn nội địa theo quy định của pháp luật.
 
-**Mã phân cấp:** 250020000000000050000310000000000000000000402785401060000900
+3. Phối hợp với các bộ, ngành, địa phương trong phòng, chống, ứng phó, khắc phục sự cố thiên tai, thảm họa, biến đổi khí hậu, dịch bệnh ở khu vực biên giới theo quy định của pháp luật.
 
-**ID:** dk_00039916
+4. Chỉ đạo các cơ quan, đơn vị, lực lượng chức năng thuộc quyền phối hợp với Bộ đội Biên phòng duy trì an ninh, trật tự, an toàn xã hội, phòng, chống tội phạm, các hành vi vi phạm pháp luật ở khu vực biên giới, cửa khẩu theo quy định của pháp luật; kết nối cơ sở dữ liệu quốc gia phục vụ kiểm soát xuất nhập cảnh.
 
----
+5. Khi có đề nghị của Bộ Quốc phòng, Bộ Ngoại giao, các cơ quan liên quan thông báo cho các bộ, cơ quan này thông tin vi phạm pháp luật về xuất nhập cảnh, thông tin về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội tại khu vực biên giới và các thông tin khác có liên quan theo quy định của pháp luật.
 
+6. Phối hợp với Bộ Quốc phòng đào tạo, bồi dưỡng, hướng dẫn Bộ đội Biên phòng nghiệp vụ và kiến thức pháp luật về an ninh quốc gia, trật tự, an toàn xã hội.
 
-### Điều 25.2.LQ.32. Trách nhiệm của Bộ, cơ quan ngang Bộ
+Điều 25.2.LQ.32. Trách nhiệm của Bộ, cơ quan ngang Bộ
+
+(Điều 32 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, cơ quan ngang Bộ có trách nhiệm phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, Bộ Công an thực hiện quản lý nhà nước về biên phòng.
 
-**Chỉ mục:** 32
+2. Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành và tổ chức thực hiện pháp luật về biên phòng.
 
-**Mã phân cấp:** 2500200000000000500003200000000000000000
+3. Tham gia xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh.
 
-**ID:** dk_00039917
+Điều 25.2.NĐ.1.10. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
 
----
-
-
-### Điều 25.2.NĐ.1.10. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+(Điều 10 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 Trong phạm vi nhiệm vụ, quyền hạn của mình, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm tổ chức thực hiện hoạt động đối ngoại biên phòng theo quy định của pháp luật, hướng dẫn của Bộ Quốc phòng, Bộ Ngoại giao.
 
-**Chỉ mục:** 10
+Điều 25.2.NĐ.2.25. Trách nhiệm của cơ quan ngang bộ
 
-**Mã phân cấp:** 250020000000000050000320000000000000000000402342300890001000
-
-**ID:** dk_00039918
-
----
-
-
-### Điều 25.2.NĐ.2.25. Trách nhiệm của cơ quan ngang bộ
+(Điều 25 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Trách nhiệm của Ủy ban Dân tộc
 
-**Chỉ mục:** 25
+a) Phối hợp với Bộ Quốc phòng và các bộ, ngành liên quan xây dựng, trình cấp có thẩm quyền ban hành các chính sách dân tộc, chính sách đặc thù, các chương trình, dự án, đề án phát triển kinh tế - xã hội hỗ trợ giảm nghèo ở các xã, thôn, bản có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn vùng dân tộc thiểu số ở khu vực biên giới;
 
-**Mã phân cấp:** 250020000000000050000320000000000000000000402785401060002500
+b) Phối hợp với Bộ Quốc phòng triển khai thực hiện chính sách đối với người có uy tín trong đồng bào dân tộc thiểu số vận động quần chúng bảo vệ an ninh biên giới, xây dựng nông thôn mới, xây dựng đời sống văn hóa, xóa bỏ hủ tục lạc hậu;
 
-**ID:** dk_00039919
+c) Phối hợp với Bộ Quốc phòng củng cố, tăng cường tình hữu nghị của cộng đồng các dân tộc thiểu số trên tuyến biên giới; tổ chức giao lưu, trao đổi kinh nghiệm giữa đại biểu các dân tộc thiểu số, người có uy tín trong đồng bào dân tộc thiểu số ở khu vực biên giới góp phần tăng cường đối ngoại nhân dân, xây dựng thế trận lòng dân.
 
----
+2. Cơ quan ngang bộ căn cứ chức năng, nhiệm vụ, quyền hạn, phạm vi lĩnh vực quản lý nhà nước do cơ quan mình phụ trách phối hợp với Bộ Quốc phòng, chính quyền địa phương cấp tỉnh thực thi nhiệm vụ biên phòng theo quy định tại Điều 10 và Điều 32 Luật Biên phòng Việt Nam.
 
+(Điều này có nội dung liên quan đến Điều 25.2.LQ.10. Phối hợp thực thi nhiệm vụ biên phòng)
 
-### Điều 25.2.LQ.33. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân các cấp
+Điều 25.2.LQ.33. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân các cấp
+
+(Điều 33 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Trong phạm vi nhiệm vụ, quyền hạn của mình, Hội đồng nhân dân các cấp nơi có biên giới quốc gia có trách nhiệm sau đây:
 
-**Chỉ mục:** 33
+a) Quyết định chủ trương, biện pháp, huy động các nguồn lực bảo đảm thực thi nhiệm vụ biên phòng phù hợp với Chiến lược bảo vệ biên giới quốc gia, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh;
 
-**Mã phân cấp:** 2500200000000000500003300000000000000000
+b) Quyết định ngân sách bảo đảm thực thi nhiệm vụ biên phòng và xây dựng lực lượng nòng cốt, chuyên trách ở địa phương; chính sách ưu tiên bảo đảm nhà ở, đất ở và các chính sách khác cho cán bộ, chiến sĩ Bộ đội Biên phòng công tác lâu dài ở khu vực biên giới;
 
-**ID:** dk_00039920
+c) Giám sát thực hiện pháp luật về biên phòng ở địa phương.
 
----
+2. Trong phạm vi nhiệm vụ, quyền hạn của mình, Ủy ban nhân dân các cấp nơi có biên giới quốc gia thực hiện quản lý nhà nước về biên phòng và có trách nhiệm sau đây:
 
+a) Lập dự toán ngân sách trình Hội đồng nhân dân cùng cấp bảo đảm thực thi nhiệm vụ biên phòng và xây dựng lực lượng nòng cốt, chuyên trách ở địa phương;
 
-### Điều 25.2.NĐ.1.13. Trách nhiệm của Ủy ban nhân dân các cấp
+b) Tập trung và huy động các nguồn lực xây dựng khu vực biên giới vững mạnh về chính trị, kinh tế, văn hóa, xã hội, khoa học, công nghệ, quốc phòng, an ninh, đối ngoại; xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh ở địa phương; thực hiện Ngày biên phòng toàn dân; thực hiện chính sách hậu phương quân đội;
+
+c) Sắp xếp, bố trí dân cư, xây dựng cơ sở hạ tầng; kết hợp phát triển kinh tế, văn hóa, xã hội, khoa học, công nghệ với củng cố, tăng cường quốc phòng, an ninh, đối ngoại ở khu vực biên giới;
+
+d) Chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp, cơ quan, tổ chức liên quan tổ chức phong trào quần chúng nhân dân tham gia quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở biên giới;
+
+đ) Xây dựng biên giới hòa bình, hữu nghị, hợp tác và phát triển.
+
+3. Trong phạm vi nhiệm vụ, quyền hạn của mình, Hội đồng nhân dân, Ủy ban nhân dân các cấp nơi không có biên giới quốc gia có trách nhiệm sau đây:
+
+a) Hội đồng nhân dân các cấp quyết định chủ trương, biện pháp, ngân sách, giám sát, huy động các nguồn lực bảo đảm thực thi nhiệm vụ biên phòng;
+
+b) Ủy ban nhân dân các cấp tham gia, phối hợp với cơ quan, tổ chức để thực thi nhiệm vụ biên phòng, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh; tuyên truyền, phổ biến, giáo dục pháp luật về biên phòng; tham gia thực hiện các chương trình phát triển kinh tế, văn hóa, xã hội, khoa học, công nghệ, đối ngoại ở biên giới; thực hiện Ngày biên phòng toàn dân; thực hiện chính sách hậu phương quân đội.
+
+Điều 25.2.NĐ.1.13. Trách nhiệm của Ủy ban nhân dân các cấp
+
+(Điều 13 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Ủy ban nhân dân cấp tỉnh có trách nhiệm:
 
-**Chỉ mục:** 13
+a) Ký kết các thỏa thuận, biên bản ghi nhớ với chính quyền địa phương nước láng giềng về những vấn đề liên quan đến hai bên biên giới thuộc thẩm quyền theo quy định của pháp luật và phân cấp của Chính phủ;
 
-**Mã phân cấp:** 250020000000000050000330000000000000000000402342300890001300
+b) Thực hiện công tác đối ngoại biên phòng với chính quyền địa phương nước láng giềng theo quy định của pháp luật và Điều ước quốc tế về biên giới mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; chỉ đạo, hướng dẫn các Ban, ngành liên quan, chính quyền cấp dưới phối hợp với Bộ đội Biên phòng thực hiện hoạt động đối ngoại biên phòng theo chương trình, kế hoạch;
 
-**ID:** dk_00039921
+c) Nghiên cứu, tổng hợp, đánh giá tình hình công tác quản lý biên giới, công tác đối ngoại biên phòng và phối hợp với Bộ Ngoại giao và các Bộ, ngành liên quan trong thực hiện chức năng quản lý nhà nước về biên giới quốc gia và các hoạt động liên quan đến công tác đối ngoại biên phòng theo quy định của pháp luật về quản lý, bảo vệ biên giới quốc gia;
 
----
+d) Tham gia các đoàn đàm phán của Chính phủ, Bộ, ngành liên quan theo kế hoạch, chỉ đạo của trên;
 
+đ) Mời hoặc thăm xã giao theo lời mời; tổ chức đón tiếp các đoàn của chính quyền địa phương, lực lượng bảo vệ biên giới nước láng giềng đến làm việc, thăm xã giao chúc mừng nhân dịp ngày lễ, tết hoặc chia buồn khi có quốc tang, thiên tai, hỏa hoạn và các hoạt động khác theo kế hoạch, chỉ đạo của trên.
 
-### Điều 25.2.NĐ.2.26. Trách nhiệm của chính quyền địa phương các cấp nơi có biên giới quốc gia
+2. Ủy ban nhân dân cấp huyện có trách nhiệm
+
+a) Liên hệ nghiệp vụ với chính quyền cấp huyện nước láng giềng để trao đổi tình hình, giải quyết những vấn đề liên quan đến dân sự, an ninh, trật tự xảy ra ở khu vực biên giới, cửa khẩu theo kế hoạch đã được Ủy ban nhân dân cấp tỉnh phê duyệt;
+
+b) Trao đổi, thống nhất với chính quyền cấp huyện nước láng giềng khi xây dựng những công trình thủy lợi nhỏ trên sông, suối, kênh, rạch biên giới phục vụ cho sinh hoạt và sản xuất của nhân dân trong khu vực biên giới;
+
+c) Tham gia các đoàn đàm phán theo kế hoạch, chỉ đạo của Ủy ban nhân dân cấp tỉnh;
+
+d) Mời hoặc thăm xã giao theo lời mời; tổ chức đón tiếp các đoàn của chính quyền địa phương, lực lượng bảo vệ biên giới nước láng giềng đến làm việc, thăm xã giao chúc mừng nhân dịp ngày lễ, tết hoặc chia buồn khi có quốc tang, thiên tai, hỏa hoạn và các hoạt động khác theo kế hoạch, chỉ đạo của trên.
+
+3. Ủy ban nhân dân cấp xã có trách nhiệm
+
+a) Tham gia cùng các đoàn của Đồn Biên phòng theo kế hoạch, chỉ đạo của Ủy ban nhân dân cấp huyện;
+
+b) Tham gia các hoạt động đối ngoại biên phòng khác theo chỉ đạo của trên.
+
+Điều 25.2.NĐ.2.26. Trách nhiệm của chính quyền địa phương các cấp nơi có biên giới quốc gia
+
+(Điều 26 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Hội đồng nhân dân và Ủy ban nhân dân các cấp ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật về biên phòng.
 
-**Chỉ mục:** 26
+2. Hội đồng nhân dân các cấp: Thực hiện trách nhiệm được giao theo quy định tại khoản 1 Điều 33 Luật Biên phòng Việt Nam.
 
-**Mã phân cấp:** 250020000000000050000330000000000000000000402785401060002600
+3. Trách nhiệm của Ủy ban nhân dân các cấp
 
-**ID:** dk_00039922
+a) Lập dự toán trình Hội đồng nhân dân cùng cấp bảo đảm ngân sách từ các nguồn để thực thi nhiệm vụ biên phòng, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân của địa phương và xây dựng Bộ đội Biên phòng;
 
----
+b) Chủ trì, phối hợp với các bộ, ngành liên quan triển khai thực hiện các chương trình, dự án phát triển kinh tế - xã hội ở khu vực biên giới; triển khai thực hiện xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân và Ngày biên phòng toàn dân ở khu vực biên giới;
 
+c) Chủ trì, phối hợp với Bộ Công an, Bộ Quốc phòng, cơ quan liên quan xử lý tình huống an ninh, trật tự ở khu vực biên giới theo quy định của pháp luật; phối hợp với Bộ Quốc phòng xử lý các tình huống quân sự, quốc phòng ở khu vực biên giới;
 
-### Điều 25.2.NĐ.2.27. Trách nhiệm của Ủy ban nhân dân các cấp nơi không có biên giới quốc gia
+d) Chủ trì huy động lực lượng, phương tiện tại địa phương thực hiện tìm kiếm, cứu hộ, cứu nạn ở khu vực biên giới theo quy định của pháp luật. Phối hợp với các bộ, cơ quan ngang bộ, cơ quan liên quan tổ chức huy động lực lượng, phương tiện dân sự tham gia Phòng, chống, ứng phó, khắc phục sự cố, thiên tai, thảm họa, biến đổi khí hậu, dịch bệnh;
+
+đ) Chủ trì, phối hợp với các cơ quan, đơn vị Quân đội, Công an xây dựng phong trào toàn dân tham gia bảo vệ chủ quyền, lãnh thổ, biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu;
+
+e) Chỉ đạo các cơ quan, lực lượng chức năng thuộc quyền phối hợp với Bộ đội Biên phòng tuần tra, kiểm tra, kiểm soát, bảo vệ đường biên giới, hệ thống mốc quốc giới, công trình biên giới, cửa khẩu; duy trì an ninh, trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật ở khu vực biên giới, cửa khẩu theo quy định của pháp luật;
+
+g) Phối hợp với Bộ Quốc phòng, Bộ đội Biên phòng thực hiện các chương trình phát triển kinh tế, văn hóa, khoa học, công nghệ, đối ngoại ở khu vực biên giới; thực hiện chính sách hậu phương, quân đội;
+
+h) Tổ chức thực hiện giao đất, cho thuê đất, hỗ trợ về chỗ ở, nhà ở, việc làm và các chính sách khác cho sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc Bộ đội Biên phòng định cư lâu dài ở khu vực biên giới, hải đảo theo quy định tại khoản 1 Điều 4 Nghị định này.
+
+Điều 25.2.NĐ.2.27. Trách nhiệm của Ủy ban nhân dân các cấp nơi không có biên giới quốc gia
+
+(Điều 27 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Phối hợp với Bộ Quốc phòng, Bộ đội Biên phòng, cơ quan, tổ chức có liên quan thực thi nhiệm vụ biên phòng, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh.
 
-**Chỉ mục:** 27
+2. Triển khai thực hiện có hiệu quả Ngày biên phòng toàn dân tại địa phương mình.
 
-**Mã phân cấp:** 250020000000000050000330000000000000000000402785401060002700
+3. Phối hợp với các cơ quan, đơn vị Quân đội thực hiện chính sách hậu phương quân đội.
 
-**ID:** dk_00039923
+Điều 25.2.LQ.34. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
 
----
-
-
-### Điều 25.2.LQ.34. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
+(Điều 34 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về biên phòng; giám sát việc thực hiện pháp luật về biên phòng.
 
-**Chỉ mục:** 34
+Chương VI
 
-**Mã phân cấp:** 2500200000000000500003400000000000000000
+ĐIỀU KHOẢN THI HÀNH
 
-**ID:** dk_00039924
+Điều 25.2.LQ.35. Sửa đổi, bổ sung Điều 21 của Luật Biên giới quốc gia số 06/2003/QH11 như sau:
 
----
+(Điều 35 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
+“**Điều 21**
 
-### Điều 25.2.LQ.35. Sửa đổi, bổ sung Điều 21 của Luật Biên giới quốc gia số 06/2003/QH11 như sau:
+1. Trường hợp vì lý do quốc phòng, an ninh, lý do đặc biệt khác hoặc theo đề nghị, thông báo của nước hữu quan, người, phương tiện, hàng hóa có thể bị hạn chế hoặc tạm dừng qua lại biên giới quốc gia, kể cả việc đi qua không gây hại trong lãnh hải Việt Nam.
 
-“Điều 21
+2. Việc hạn chế hoặc tạm dừng hoạt động ở vành đai biên giới, khu vực biên giới, qua lại biên giới tại cửa khẩu, lối mở biên giới đất liền thực hiện theo quy định của Luật Biên phòng Việt Nam.
 
-**Chỉ mục:** 35
+3. Thẩm quyền quyết định việc hạn chế hoặc tạm dừng quy định tại khoản 1 Điều này do Chính phủ quy định, trừ trường hợp quy định tại khoản 2 Điều này. Quyết định về việc hạn chế hoặc tạm dừng phải được thông báo cho chính quyền địa phương và nhà chức trách của nước hữu quan biết.”.
 
-**Mã phân cấp:** 2500200000000000600003500000000000000000
+Điều 25.2.LQ.36. Hiệu lực thi hành
 
-**ID:** dk_00039926
-
----
-
-
-### Điều 25.2.LQ.36. Hiệu lực thi hành
+(Điều 36 Luật số 66/2020/QH14, có hiệu lực thi hành kể từ ngày 01/01/2022)
 
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.
 
-**Chỉ mục:** 36
+2. Pháp lệnh Bộ đội Biên phòng số 02/1997/PL-UBTVQH9 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
-**Mã phân cấp:** 2500200000000000600003600000000000000000
+Điều 25.2.NĐ.1.20. Hiệu lực thi hành
 
-**ID:** dk_00039927
-
----
-
-
-### Điều 25.2.NĐ.1.20. Hiệu lực thi hành
+(Điều 20 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 Nghị định này có hiệu lực thi hành kể từ ngày 02 tháng 12 năm 2009.
 
-**Chỉ mục:** 20
+Điều 25.2.NĐ.1.21. Trách nhiệm hướng dẫn thi hành
 
-**Mã phân cấp:** 2500200000000000600003640234230089000200
-
-**ID:** dk_00039928
-
----
-
-
-### Điều 25.2.NĐ.1.21. Trách nhiệm hướng dẫn thi hành
+(Điều 21 Nghị định số 89/2009/NĐ-CP, có hiệu lực thi hành kể từ ngày 02/12/2009)
 
 1. Bộ Quốc phòng phối hợp với Bộ Ngoại giao chịu trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này.
 
-**Chỉ mục:** 21
+2. Bộ Tài chính phối hợp với Bộ Quốc phòng quy định cụ thể về kinh phí đầu tư xây dựng, chế độ, tiêu chuẩn đảm bảo cho hoạt động đối ngoại biên phòng đối với Bộ đội Biên phòng.
 
-**Mã phân cấp:** 2500200000000000600003640234230089000210
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
 
-**ID:** dk_00039929
+Điều 25.2.NĐ.2.28. Hiệu lực thi hành và quy định chuyển tiếp
 
----
-
-
-### Điều 25.2.NĐ.2.28. Hiệu lực thi hành và quy định chuyển tiếp
+(Điều 28 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 1. Nghị định này có hiệu lực từ ngày 21 tháng 01 năm 2022.
 
-**Chỉ mục:** 28
+2. Nghị định số 02/1998/NĐ-CP ngày 06 tháng 01 năm 1998 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh Bộ đội Biên phòng hết hiệu lực kể từ ngày Nghị định này có hiệu lực; Điều 12 Nghị định số 02/1998/NĐ-CP tiếp tục có hiệu lực thi hành cho đến khi được bãi bỏ, thay thế bằng văn bản quy phạm pháp luật khác.
 
-**Mã phân cấp:** 2500200000000000600003640278540106000280
+3. Điều 6 Thông tư số 2866/1998/TT-BQP ngày 12 tháng 9 năm 1998 của Bộ trưởng Bộ Quốc phòng hướng dẫn thực hiện Nghị định số 02/1998/NĐ-CP; Thông tư liên tịch số 2076/TTLT-BQP-BLĐTBXH-BTC ngày 08 tháng 7 năm 1998 của Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính về thực hiện một số chính sách đối với Bộ đội Biên phòng; Thông tư liên tịch số 35/2004/TTLT-BQP-BLĐTBXH-BTC ngày 24 tháng 3 năm 2004 của Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính về việc sửa đổi, bổ sung một số điểm tại Thông tư liên tịch số 2076/TTLT-BQP-BLĐTBXH-BTC ngày 08 tháng 7 năm 1998 của Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính về thực hiện một số chính sách đối với Bộ đội Biên phòng tiếp tục có hiệu lực thi hành cho đến khi có chế độ, chính sách mới đối với cán bộ, chiến sĩ Bộ đội Biên phòng được ban hành.
 
-**ID:** dk_00039930
+Điều 25.2.NĐ.2.29. Trách nhiệm thi hành
 
----
-
-
-### Điều 25.2.NĐ.2.29. Trách nhiệm thi hành
+(Điều 29 Nghị định số 106/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 21/01/2022)
 
 Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
-**Chỉ mục:** 29
+Điều 25.2.TL.1.5. Tổ chức thực hiện
 
-**Mã phân cấp:** 2500200000000000600003640278540106000290
-
-**ID:** dk_00039931
-
----
-
-
-### Điều 25.2.TL.1.5. Tổ chức thực hiện
+(Điều 5 Thông tư liên tịch số 2076/1998/TTLT/BQP-BLĐTBXH-BTC, có hiệu lực thi hành kể từ ngày 23/07/1998)
 
 Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày ký.
 
-**Chỉ mục:** 5
+Khoản phụ cấp trách nhiệm quản lý bảo vệ biên giới, hải đảo và phụ cấp công tác lâu năm ở biên giới, hải đảo nói tại điểm I và điểm II Thông tư này được thực hiện từ 01/01/1998.
 
-**Mã phân cấp:** 2500200000000000600003680193022076500050
+Quá trình tổ chức thực hiện nếu có vướng mắc các đơn vị phản ánh kịp thời về Liên Bộ Quốc phòng - Lao động thương binh và xã hội - Tài chính để giải quyết.
 
-**ID:** dk_00039932
+Điều 25.2.TT.1.9. Tổ chức thực hiện
 
----
-
-
-### Điều 25.2.TT.1.9. Tổ chức thực hiện
+(Điều 9 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo, hướng dẫn các cơ quan, đơn vị thuộc quyền thực hiện hoạt động đối ngoại biên phòng theo quy định tại Nghị định số 89/2006/NĐ-CP và hướng dẫn tại Thông tư này.
 
-**Chỉ mục:** 9
+2. Bộ Tổng tham mưu, Tổng cục Chính trị chỉ đạo, Cục Đối ngoại hướng dẫn Bộ đội Biên phòng thực hiện hoạt động đối ngoại biên phòng theo quy định tại Nghị định số 89/2009/NĐ-CP và Thông tư này.
 
-**Mã phân cấp:** 2500200000000000600003680242390002500090
+3. Cục Tài chính chủ trì, phối hợp với Bộ Tư lệnh Bộ đội Biên phòng và các cơ quan chức năng liên quan xây dựng, báo cáo trình Bộ Quốc phòng ban hành quy định chế độ chi trong hoạt động đối ngoại biên phòng.
 
-**ID:** dk_00039933
+4. Bộ Tư lệnh Bộ đội Biên phòng
 
----
+a) Chỉ đạo Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh thực hiện hoạt động đối ngoại biên phòng theo quy định của Nghị định số 89/2009/NĐ-CP và hướng dẫn tại Thông tư này;
 
+b) Theo dõi, đôn đốc, kiểm tra, sơ kết công tác hoạt động đối ngoại biên phòng; báo cáo kết quả với Bộ Quốc phòng;
 
-### Điều 25.2.TT.1.10. Hiệu lực thi hành
+c) Hướng dẫn các đơn vị lập dự toán ngân sách bảo đảm cho hoạt động đối ngoại biên phòng, nội dung chi và quyết toán theo quy định.
+
+Điều 25.2.TT.1.10. Hiệu lực thi hành
+
+(Điều 10 Thông tư số 02/2012/TT-BQP, có hiệu lực thi hành kể từ ngày 27/02/2012)
 
 1. Thông tư này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký và thay thế Quyết định số 05/2003/QĐ-BQP ngày 15 tháng 01 năm 2003 của Bộ trưởng Bộ Quốc phòng quy định hoạt động đối ngoại biên phòng.
 
-**Chỉ mục:** 10
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp, Tư lệnh Bộ đội Biên phòng, chỉ huy các cơ quan, đơn vị liên quan có trách nhiệm thực hiện Thông tư này.
 
-**Mã phân cấp:** 2500200000000000600003680242390002500100
+## Danh sách điều khoản
 
-**ID:** dk_00039934
+### 25002000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
+### 2500200000000000100000100000000000000000
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Quốc phòng](/quoc-phong/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Điều 25.2.LQ.1. Phạm vi điều chỉnh Luật này quy định chính sách, nguyên tắc, nhiệm vụ, hoạt động, lực lượng, bảo đảm và trách nhiệm của cơ quan, tổ chức, cá nhân về biên phòng.
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 107
-- **Điều khoản thực tế:** 101
-- **Điều khoản có nội dung:** 101 (100.0%)
-- **ID đề mục:** 4e35f01e45ff4fc6a10537b0a7de5979
+### 2500200000000000100000140234230089000010
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+Điều 25.2.NĐ.1.1. Phạm vi điều chỉnh 1. Nghị định này quy định về nội dung, hình thức, biện pháp, trách nhiệm quản lý nhà nước, bảo đảm ngân sách hoạt động đối ngoại biên phòng.
 
----
+### 2500200000000000100000140234230089000020
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+Điều 25.2.NĐ.1.2. Đối tượng áp dụng 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.
+
+### 2500200000000000100000140278540106000010
+
+Điều 25.2.NĐ.2.1. Phạm vi điều chỉnh Nghị định này quy định chi tiết về hệ thống tổ chức; chính sách ưu đãi và chế độ đặc thù đối với Bộ đội Biên phòng; phối hợp giữa bộ, cơ quan ngang bộ, chính quyền địa phương trong thực thi nhiệm vụ biên phòng.
+
+### 2500200000000000100000140278540106000020
+
+Điều 25.2.NĐ.2.2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, đơn vị, cán bộ, chiến sĩ Bộ đội Biên phòng và các cơ quan, đơn vị, tổ chức, cá nhân có liên quan.
+
+### 2500200000000000100000180242390002500010
+
+Điều 25.2.TT.1.1. Phạm vi điều chỉnh Thông tư này hướng dẫn hoạt động lễ tân; hình thức, biện pháp hoạt động; nội dung chi trong hoạt động đối ngoại biên phòng; trách nhiệm của Bộ đội Biên phòng và các cơ quan, đơn vị liên quan trong thực hiện công tác đối ngoại biên phòng.
+
+### 2500200000000000100000180242390002500020
+
+Điều 25.2.TT.1.2. Đối tượng áp dụng Thông tư này áp dụng đối với:
+
+### 2500200000000000100000200000000000000000
+
+Điều 25.2.LQ.2. Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+### 2500200000000000100000300000000000000000
+
+Điều 25.2.LQ.3. Chính sách của Nhà nước về biên phòng 1. Thực hiện chính sách độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; xây dựng biên giới hòa bình, hữu nghị, hợp tác và phát triển, ổn định lâu dài với các nước có chung đường biên giới; mở rộng hợp tác quốc tế, đối ngoại quốc phòng, an ninh, đối ngoại biên phòng và đối ngoại nhân dân.
+
+### 2500200000000000100000400000000000000000
+
+Điều 25.2.LQ.4. Nguyên tắc thực thi nhiệm vụ biên phòng 1. Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, biên giới quốc gia của các nước.
+
+### 250020000000000010000040000000000000000000402342300890000300
+
+Điều 25.2.NĐ.1.3. Nguyên tắc hoạt động đối ngoại biên phòng 1. Giữ vững độc lập chủ quyền, toàn vẹn lãnh thổ quốc gia; bình đẳng, hữu nghị và cùng có lợi.
+
+### 2500200000000000100000500000000000000000
+
+Điều 25.2.LQ.5. Nhiệm vụ biên phòng 1. Xây dựng và thực hiện chiến lược, kế hoạch bảo vệ biên giới quốc gia.
+
+### 250020000000000010000050000000000000000000402342300890000400
+
+Điều 25.2.NĐ.1.4. Nội dung hoạt động đối ngoại biên phòng 1. Thực hiện và tham gia đàm phán, trao đổi, hội đàm định kỳ hoặc đột xuất với các cơ quan hữu quan tương ứng của nước láng giềng về tình hình thực hiện Hiệp định về Quy chế biên giới, các Thỏa thuận về công tác biên phòng; hoạt động quản lý, bảo vệ biên giới, tình hình an ninh, trật tự; phòng chống thiên tai, dịch bệnh…. ở khu vực biên giới, cửa khẩu và giải quyết các vụ việc liên quan đến hai bên biên giới thuộc thẩm quyền theo quy định của pháp luật và tập quán quốc tế.
+
+### 250020000000000010000050000000000000000000402342300890000600
+
+Điều 25.2.NĐ.1.6. Hoạt động lễ tân trong đối ngoại biên phòng 1. Nguyên tắc lễ tân
+
+### 25002000000000001000005000000000000000000040234230089000060000802423900025000300
+
+Điều 25.2.TT.1.3. Hoạt động lễ tân trong đối ngoại biên phòng (khoản 2 Điều 6 Nghị định số 89/2009/NĐ-CP) 1. Trang trí nơi hội đàm thực hiện theo Mẫu số 07 tại Phụ lục kèm theo Thông tư này.
+
+### 250020000000000010000050000000000000000000402342300890000700
+
+Điều 25.2.NĐ.1.7. Hình thức hoạt động đối ngoại biên phòng 1. Quan hệ tiếp xúc trực tiếp thông qua hội đàm
+
+### 25002000000000001000005000000000000000000040234230089000070000802423900025000400
+
+Điều 25.2.TT.1.4. Hình thức hoạt động đối ngoại biên phòng (Điều 7 Nghị định số 89/2009/NĐ-CP) Hình thức hoạt động đối ngoại biên phòng bao gồm hội đàm trực tiếp hoặc thông qua thư mời, thư thông báo, thư phản kháng; khi thực hiện hoạt động đối ngoại biên phòng phải thực hiện theo quy trình sau:
+
+### 250020000000000010000050000000000000000000402342300890000800
+
+Điều 25.2.NĐ.1.8. Biện pháp hoạt động đối ngoại biên phòng 1. Khi thực hiện đối ngoại biên phòng phải chuẩn bị chu đáo về mọi mặt và tuân thủ các nguyên tắc về lễ tân ngoại giao, tổ chức đón, tiếp, làm việc và tiễn khách.
+
+### 25002000000000001000005000000000000000000040234230089000080000802423900025000600
+
+Điều 25.2.TT.1.6. Biện pháp hoạt động đối ngoại biên phòng (Điều 8 Nghị định số 89/2009/NĐ-CP) 1. Xây dựng kế hoạch hoạt động đối ngoại biên phòng
+
+### 250020000000000010000050000000000000000000802423900025000500
+
+Điều 25.2.TT.1.5. Trình tự thủ tục, xét duyệt hồ sơ và thủ tục xuất cảnh, nhập cảnh cho cán bộ đi công tác ở nước ngoài thực hiện nhiệm vụ đối ngoại biên phòng 1. Trình tự thủ tục, xét duyệt hồ sơ
+
+### 2500200000000000100000600000000000000000
+
+Điều 25.2.LQ.6. Lực lượng thực thi nhiệm vụ biên phòng 2. Cơ quan lãnh đạo, chỉ huy, quản lý của cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân quy định tại khoản 1 Điều này.
+
+### 2500200000000000100000700000000000000000
+
+Điều 25.2.LQ.7. Trách nhiệm và chế độ, chính sách của cơ quan, tổ chức, công dân tham gia, phối hợp, cộng tác, giúp đỡ lực lượng thực thi nhiệm vụ biên phòng 1. Cơ quan, tổ chức, công dân có trách nhiệm tham gia, phối hợp, cộng tác, giúp đỡ lực lượng thực thi nhiệm vụ biên phòng thực hiện nhiệm vụ.
+
+### 250020000000000010000070000000000000000000402342300890001500
+
+Điều 25.2.NĐ.1.15. Trách nhiệm của các cơ quan, tổ chức, cá nhân thực hiện hoạt động đối ngoại biên phòng Cơ quan, tổ chức, cá nhân thuộc các Bộ, ngành và Ủy ban nhân dân các cấp; Bộ đội Biên phòng trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các quy định tại Nghị định này và các quy định khác của pháp luật liên quan đến hoạt động đối ngoại biên phòng.
+
+### 2500200000000000100000800000000000000000
+
+Điều 25.2.LQ.8. Các hành vi bị nghiêm cấm về biên phòng 1. Xâm phạm chủ quyền, lãnh thổ quốc gia; phá hoại, gây mất ổn định an ninh, trật tự, an toàn xã hội ở khu vực biên giới, cửa khẩu.
+
+### 250020000000000010000080000000000000000000402342300890000500
+
+Điều 25.2.NĐ.1.5. Chế độ bảo mật trong hoạt động đối ngoại biên phòng 1. Tuyệt đối giữ bí mật nhà nước, bí mật quốc phòng, an ninh khi thực hiện hoạt động đối ngoại biên phòng. Nghiêm cấm mọi quan hệ trái phép, phát ngôn làm lộ bí mật nhà nước, làm phương hại đến quốc phòng, an ninh và quan hệ hữu nghị, hợp tác với các nước láng giềng.
+
+### 25002000000000002000
+
+Chương II HOẠT ĐỘNG CƠ BẢN VỀ BIÊN PHÒNG
+
+### 2500200000000000200000900000000000000000
+
+Điều 25.2.LQ.9. Nền biên phòng toàn dân, thế trận biên phòng toàn dân 1. Nội dung cơ bản xây dựng nền biên phòng toàn dân bao gồm:
+
+### 2500200000000000200001000000000000000000
+
+Điều 25.2.LQ.10. Phối hợp thực thi nhiệm vụ biên phòng 1. Phạm vi phối hợp thực thi nhiệm vụ biên phòng được quy định như sau:
+
+### 250020000000000020000100000000000000000000402342300890001600
+
+Điều 25.2.NĐ.1.16. Trách nhiệm phối hợp thực hiện 1. Các cơ quan thực hiện hoạt động đối ngoại biên phòng căn cứ kế hoạch công tác đối ngoại biên phòng hàng năm hoặc kế hoạch đột xuất đã được cấp có thẩm quyền phê duyệt, quy định của Nghị định này và các quy định của pháp luật liên quan đến hoạt động đối ngoại biên phòng để phối hợp, thống nhất về nội dung, phương pháp tổ chức thực hiện.
+
+### 250020000000000020000100000000000000000000402785401060000600
+
+Điều 25.2.NĐ.2.6. Phạm vi, nguyên tắc và tổ chức hoạt động phối hợp 1. Phạm vi, nguyên tắc phối hợp giữa các bộ, cơ quan ngang bộ, chính quyền địa phương trong thực thi nhiệm vụ biên phòng thực hiện theo quy định tại khoản 1, khoản 2 Điều 10 Luật Biên phòng Việt Nam.
+
+### 250020000000000020000100000000000000000000402785401060001000
+
+Điều 25.2.NĐ.2.10. Trách nhiệm của Bộ Tài chính 1. Chủ trì, phối hợp với Bộ Quốc phòng tổng hợp, bố trí kinh phí thường xuyên thực hiện các chế độ, chính sách đối với Bộ đội Biên phòng theo quy định của Luật Ngân sách nhà nước và các văn bản quy định chi tiết, hướng dẫn thi hành.
+
+### 250020000000000020000100000000000000000000402785401060001100
+
+Điều 25.2.NĐ.2.11. Trách nhiệm của Bộ Công Thương 1. Chỉ đạo các cơ quan, đơn vị thuộc quyền trao đổi, cung cấp cho Bộ đội Biên phòng thông tin, tài liệu có liên quan tới hoạt động xuất, nhập khẩu, tạm nhập, tái xuất, tái nhập, chuyển khẩu, thương mại biên giới, quá cảnh hàng hóa, hoạt động ủy thác xuất nhập khẩu, xuất xứ hàng hóa vận chuyển ra, vào khu vực biên giới, cửa khẩu; phát triển hạ tầng thương mại biên giới.
+
+### 250020000000000020000100000000000000000000402785401060001200
+
+Điều 25.2.NĐ.2.12. Trách nhiệm của Bộ Kế hoạch và Đầu tư 1. Phối hợp với Bộ Quốc phòng tổng hợp kế hoạch đầu tư trung hạn, dài hạn và hàng năm của Bộ đội Biên phòng theo các quy định của pháp luật; xác định và đưa vào danh mục các dự án sử dụng vốn ngân sách nhà nước và các dự án ưu tiên xây dựng Bộ đội Biên phòng.
+
+### 250020000000000020000100000000000000000000402785401060001300
+
+Điều 25.2.NĐ.2.13. Trách nhiệm của Bộ Giao thông vận tải 1. Chủ trì hoặc phối hợp tổ chức thực hiện tìm kiếm cứu nạn trong giao thông đường bộ, đường sắt, đường thủy nội địa, hàng hải và hàng không ở khu vực biên giới theo thẩm quyền.
+
+### 250020000000000020000100000000000000000000402785401060001400
+
+Điều 25.2.NĐ.2.14. Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia xây dựng kế hoạch và triển khai hoạt động phòng, chống dịch bệnh đối với động vật, thực vật liên quan hai bên biên giới và ở khu vực biên giới, cửa khẩu; quản lý hoạt động nghề cá; phòng ngừa, phát hiện, ngăn chặn và xử lý các hành vi xâm hại, khai thác thủy sản bất hợp pháp; quản lý, bảo vệ, phòng cháy, chữa cháy rừng; quản lý, khai thác, bảo vệ công trình thủy lợi đê điều; phòng, chống các hành vi buôn lậu vật tư và sản phẩm nông nghiệp, vận chuyển động vật hoang dã trái phép.
+
+### 250020000000000020000100000000000000000000402785401060001500
+
+Điều 25.2.NĐ.2.15. Trách nhiệm của Bộ Tài nguyên và Môi trường 1. Chỉ đạo, hướng dẫn các cơ quan, đơn vị thuộc quyền thông báo cho Bộ đội Biên phòng tình hình hoạt động có liên quan đến bảo vệ tài nguyên, môi trường ở khu vực biên giới, cửa khẩu; trao đổi, cung cấp thông tin cảnh báo, dự báo khí tượng thủy văn phục vụ nhiệm vụ của Bộ đội Biên phòng.
+
+### 250020000000000020000100000000000000000000402785401060001600
+
+Điều 25.2.NĐ.2.16. Trách nhiệm của Bộ Thông tin và Truyền thông 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan cung cấp tài liệu phục vụ công tác thông tin tuyên truyền và thông tin đối ngoại bằng tiếng Việt, tiếng Anh, tiếng Lào, tiếng Campuchia, tiếng Trung Quốc và tiếng dân tộc thiểu số.
+
+### 250020000000000020000100000000000000000000402785401060001700
+
+Điều 25.2.NĐ.2.17. Trách nhiệm của Bộ Y tế 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, Ủy ban nhân dân cấp tỉnh nơi có biên giới quốc gia xây dựng kế hoạch triển khai hoạt động kết hợp quân dân y khám bệnh, chữa bệnh, phòng chống dịch bệnh qua biên giới và ở khu vực biên giới, cửa khẩu.
+
+### 250020000000000020000100000000000000000000402785401060001800
+
+Điều 25.2.NĐ.2.18. Trách nhiệm của Bộ Giáo dục và Đào tạo 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia thực hiện cơ chế, chính sách hỗ trợ đầu tư từ ngân sách nhà nước và huy động các nguồn lực xã hội để phát triển giáo dục, đào tạo ở khu vực biên giới.
+
+### 250020000000000020000100000000000000000000402785401060001900
+
+Điều 25.2.NĐ.2.19. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia thực hiện chính sách về bảo tồn, phát huy, phát triển các giá trị văn hóa của cộng đồng các dân tộc Việt Nam ở khu vực biên giới; tổ chức thực hiện quy hoạch hệ thống du lịch quốc gia, vùng du lịch, địa bàn du lịch trọng điểm, khu du lịch quốc gia ở khu vực biên giới.
+
+### 250020000000000020000100000000000000000000402785401060002000
+
+Điều 25.2.NĐ.2.20. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia tổ chức thực hiện Chương trình mục tiêu quốc gia giảm nghèo và an sinh xã hội bền vững, các chương trình, đề án trợ giúp xã hội ở khu vực biên giới.
+
+### 250020000000000020000100000000000000000000402785401060002100
+
+Điều 25.2.NĐ.2.21. Trách nhiệm của Bộ Nội vụ 1. Phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia hướng dẫn thực hiện quy hoạch, kế hoạch, chương trình xây dựng đội ngũ cán bộ Bộ đội Biên phòng tham gia xây dựng hệ thống chính trị cơ sở ở khu vực biên giới.
+
+### 250020000000000020000100000000000000000000402785401060002200
+
+Điều 25.2.NĐ.2.22. Trách nhiệm của Bộ Tư pháp 1. Hướng dẫn, theo dõi, đôn đốc, kiểm tra công tác xây dựng pháp luật về biên phòng; phối hợp với Bộ Quốc phòng theo dõi thi hành pháp luật về biên phòng.
+
+### 250020000000000020000100000000000000000000402785401060002300
+
+Điều 25.2.NĐ.2.23. Trách nhiệm của Bộ Xây dựng 1. Chủ trì, phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia trong việc lập, trình cấp có thẩm quyền quy hoạch xây dựng vùng liên tỉnh, vùng chức năng đặc thù có yếu tố an ninh, quốc phòng ở khu vực biên giới, cửa khẩu.
+
+### 250020000000000020000100000000000000000000402785401060002400
+
+Điều 25.2.NĐ.2.24. Trách nhiệm của Bộ Khoa học và Công nghệ 1. Phối hợp với Bộ Quốc phòng, các bộ, ngành liên quan, chính quyền địa phương cấp tỉnh nơi có biên giới quốc gia trong thực hiện phương hướng, mục tiêu, nhiệm vụ khoa học và công nghệ 05 năm và hằng năm, thúc đẩy việc phát triển lĩnh vực quốc phòng, an ninh, quản lý, bảo vệ biên giới quốc gia trọng điểm trên cơ sở ứng dụng, đổi mới và làm chủ công nghệ, phát triển công nghệ mới, công nghệ cao.
+
+### 2500200000000000200001100000000000000000
+
+Điều 25.2.LQ.11. Hạn chế hoặc tạm dừng hoạt động ở vành đai biên giới, khu vực biên giới, qua lại biên giới tại cửa khẩu, lối mở biên giới đất liền a) Xảy ra tranh chấp về biên giới, lãnh thổ; xung đột vũ trang; địch xâm nhập; hoạt động khác đe dọa đến chủ quyền, lãnh thổ, biên giới quốc gia;
+
+### 2500200000000000200001200000000000000000
+
+Điều 25.2.LQ.12. Hợp tác quốc tế về biên phòng 1. Nội dung hợp tác quốc tế về biên phòng bao gồm:
+
+### 25002000000000003000
+
+Chương III LỰC LƯỢNG BỘ ĐỘI BIÊN PHÒNG
+
+### 2500200000000000300001300000000000000000
+
+Điều 25.2.LQ.13. Vị trí, chức năng của Bộ đội Biên phòng 1. Bộ đội Biên phòng là lực lượng vũ trang nhân dân, thành phần của Quân đội nhân dân Việt Nam, là lực lượng nòng cốt, chuyên trách quản lý, bảo vệ biên giới quốc gia, khu vực biên giới.
+
+### 2500200000000000300001400000000000000000
+
+Điều 25.2.LQ.14. Nhiệm vụ của Bộ đội Biên phòng 1. Thu thập thông tin, phân tích, đánh giá, dự báo tình hình để thực hiện nhiệm vụ và đề xuất với Bộ Quốc phòng, Đảng, Nhà nước ban hành, chỉ đạo thực hiện chính sách, pháp luật về biên phòng.
+
+### 250020000000000030000140000000000000000000402342300890001400
+
+Điều 25.2.NĐ.1.14. Trách nhiệm của Bộ đội Biên phòng 1. Tham mưu cho Bộ Quốc phòng thực hiện quản lý nhà nước về biên giới quốc gia, các chủ trương, chính sách về hoạt động đối ngoại biên phòng và tổ chức thực hiện đối ngoại biên phòng theo chỉ đạo của Bộ trưởng Bộ Quốc phòng, hướng dẫn của Bộ Ngoại giao để quản lý, bảo vệ chủ quyền an ninh biên giới quốc gia, xây dựng biên giới hòa bình, hữu nghị.
+
+### 25002000000000003000014000000000000000000040234230089000140000802423900025000700
+
+Điều 25.2.TT.1.7. Trách nhiệm của Bộ đội Biên phòng trong hoạt động đối ngoại biên phòng (Điều 14 Nghị định số 89/2009/NĐ-CP) 1. Tư lệnh Bộ đội Biên phòng
+
+### 2500200000000000300001500000000000000000
+
+Điều 25.2.LQ.15. Quyền hạn của Bộ đội Biên phòng 1. Bố trí, sử dụng lực lượng, phương tiện, thiết bị kỹ thuật để thực thi nhiệm vụ; áp dụng hình thức, biện pháp quản lý, bảo vệ biên giới quốc gia theo quy định tại Điều 19 và Điều 20 của Luật này.
+
+### 2500200000000000300001600000000000000000
+
+Điều 25.2.LQ.16. Phạm vi hoạt động của Bộ đội Biên phòng 1. Hoạt động trong khu vực biên giới, cửa khẩu do Bộ Quốc phòng quản lý, địa bàn nội địa để thực hiện chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật.
+
+### 2500200000000000300001700000000000000000
+
+Điều 25.2.LQ.17. Sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ 1. Khi thi hành nhiệm vụ, cán bộ, chiến sĩ Bộ đội Biên phòng được sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ theo quy định của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ.
+
+### 2500200000000000300001800000000000000000
+
+Điều 25.2.LQ.18. Huy động người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự 1. Trong trường hợp khẩn cấp để bắt giữ người, tàu thuyền, phương tiện vi phạm pháp luật, tìm kiếm, cứu nạn, cấp cứu người bị nạn, ứng phó, khắc phục sự cố môi trường nghiêm trọng, cán bộ, chiến sĩ Bộ đội Biên phòng được huy động người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự của cơ quan, tổ chức, công dân Việt Nam.
+
+### 2500200000000000300001900000000000000000
+
+Điều 25.2.LQ.19. Hình thức quản lý, bảo vệ biên giới quốc gia 1. Hình thức quản lý, bảo vệ biên giới quốc gia bao gồm:
+
+### 2500200000000000300002000000000000000000
+
+Điều 25.2.LQ.20. Biện pháp quản lý, bảo vệ biên giới quốc gia 1. Các biện pháp quản lý, bảo vệ biên giới quốc gia bao gồm:
+
+### 2500200000000000300002100000000000000000
+
+Điều 25.2.LQ.21. Hệ thống tổ chức của Bộ đội Biên phòng 1. Hệ thống tổ chức của Bộ đội Biên phòng bao gồm:
+
+### 250020000000000030000210000000000000000000402785401060000300
+
+Điều 25.2.NĐ.2.3. Hệ thống tổ chức của Bộ đội Biên phòng 1. Bộ Tư lệnh Bộ đội Biên phòng
+
+### 2500200000000000300002200000000000000000
+
+Điều 25.2.LQ.22. Trang bị của Bộ đội Biên phòng 1. Bộ đội Biên phòng được trang bị phương tiện quân sự, dân sự, vũ khí, vật liệu nổ, công cụ hỗ trợ và phương tiện, thiết bị kỹ thuật nghiệp vụ để thực hiện chức năng, nhiệm vụ, quyền hạn.
+
+### 2500200000000000300002300000000000000000
+
+Điều 25.2.LQ.23. Ngày truyền thống, tên giao dịch quốc tế, con dấu của Bộ đội Biên phòng 1. Ngày 03 tháng 3 hằng năm là ngày truyền thống của Bộ đội Biên phòng, Ngày biên phòng toàn dân.
+
+### 2500200000000000300002400000000000000000
+
+Điều 25.2.LQ.24. Trang phục, màu sắc, cờ hiệu, phù hiệu và dấu hiệu nhận biết phương tiện của Bộ đội Biên phòng 1. Quân hiệu, cấp hiệu, cờ hiệu, phù hiệu, quân phục, lễ phục của cán bộ, chiến sĩ Bộ đội Biên phòng do Chính phủ quy định.
+
+### 25002000000000004000
+
+Chương IV BẢO ĐẢM BIÊN PHÒNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI LỰC LƯỢNG THỰC THI NHIỆM VỤ BIÊN PHÒNG
+
+### 2500200000000000400002500000000000000000
+
+Điều 25.2.LQ.25. Bảo đảm nguồn nhân lực 1. Công dân Việt Nam là nguồn nhân lực xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới. Nhà nước có kế hoạch tuyển chọn, đào tạo, bồi dưỡng nguồn nhân lực cho lực lượng thực thi nhiệm vụ biên phòng; ưu tiên cư dân ở khu vực biên giới.
+
+### 2500200000000000400002600000000000000000
+
+Điều 25.2.LQ.26. Bảo đảm nguồn lực tài chính Nhà nước bảo đảm ngân sách cho nhiệm vụ biên phòng theo quy định của pháp luật về ngân sách nhà nước; huy động các nguồn lực tài chính cho nhiệm vụ biên phòng; ưu tiên xây dựng cơ sở hạ tầng, công trình biên giới, cửa khẩu và xây dựng lực lượng nòng cốt, chuyên trách thực thi nhiệm vụ biên phòng.
+
+### 2500200000000000400002700000000000000000
+
+Điều 25.2.LQ.27. Chế độ, chính sách đối với lực lượng thực thi nhiệm vụ biên phòng 1. Lực lượng thực thi nhiệm vụ biên phòng ở khu vực biên giới được hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.
+
+### 250020000000000040000270000000000000000000402342300890001700
+
+Điều 25.2.NĐ.1.17. Nguồn ngân sách bảo đảm 1. Ngân sách nhà nước bảo đảm cho hoạt động đối ngoại biên phòng.
+
+### 250020000000000040000270000000000000000000402342300890001800
+
+Điều 25.2.NĐ.1.18. Cơ chế bảo đảm ngân sách 1. Ngân sách bảo đảm cho hoạt động đối ngoại biên phòng của các Bộ, ngành được bố trí trong dự toán ngân sách hàng năm.
+
+### 250020000000000040000270000000000000000000402342300890001900
+
+Điều 25.2.NĐ.1.19. Nội dung chi hoạt động đối ngoại biên phòng 1. Nội dung chi:
+
+### 25002000000000004000027000000000000000000040234230089000190000802423900025000800
+
+Điều 25.2.TT.1.8. Nội dung chi hoạt động đối ngoại biên phòng (Điều 19 Nghị định số 89/2009/NĐ-CP) 1. Tiếp Đoàn ra, Đoàn vào làm việc theo kế hoạch đối ngoại biên phòng, cụ thể:
+
+### 250020000000000040000270000000000000000000402785401060000400
+
+Điều 25.2.NĐ.2.4. Chính sách ưu đãi và chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng 1. Sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc Bộ đội Biên phòng thực hiện nhiệm vụ bảo vệ biên giới, hải đảo có thời gian từ 05 năm trở lên nếu có nhu cầu chuyển gia đình đến định cư ổn định cuộc sống lâu dài ở khu vực biên giới, hải đảo được chính quyền địa phương nơi chuyển đến ưu tiên giao đất ở theo quy định của pháp luật về đất đai; hỗ trợ về chỗ ở, nhà ở cho gia đình, việc làm cho vợ hoặc chồng của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc Bộ đội Biên phòng và được hưởng các chế độ, chính sách khác theo quy định.
+
+### 250020000000000040000270000000000000000000402785401060000500
+
+Điều 25.2.NĐ.2.5. Kinh phí đảm bảo chính sách ưu đãi và chế độ đặc thù đối với cán bộ, chiến sĩ Bộ đội Biên phòng Nguồn kinh phí đảm bảo chính sách ưu đãi và chế độ đặc thù do ngân sách nhà nước chi trả được bố trí trong dự toán hằng năm của Bộ Quốc phòng theo quy định của pháp luật về ngân sách nhà nước.
+
+### 250020000000000040000270000000000000000000801930220765000100
+
+Điều 25.2.TL.1.1. Chế độ phụ cấp trách nhiệm quản lý bảo vệ biên giới, hải đảo 1. Đối tượng áp dụng:
+
+### 250020000000000040000270000000000000000000801930220765000200
+
+Điều 25.2.TL.1.2. Chế độ phụ cấp công tác lâu năm ở biên giới, hải đảo 1. Đối tượng áp dụng
+
+### 250020000000000040000270000000000000000000801930220765000300
+
+Điều 25.2.TL.1.3. Chế độ ưu đãi xã hội 1. Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng, hạ sĩ quan, binh sĩ thuộc Bộ đội Biên phòng trong khi làm nhiệm vụ bảo vệ biên giới, hải đảo ở những địa bàn được coi là đặc biệt khó khăn, gian khổ (theo phụ lục đính kèm) nếu bị ốm đau, tai nạn (trừ trường hợp tự mình gây nên hoặc vi phạm kỷ luật đơn vị) dẫn đến chết (kể cả trường hợp chuyển về tuyến sau điều trị rồi chết) được xét xác nhận là liệt sĩ hoặc bị thương mất sức lao động từ 21% trở lên được xét xác nhận là thương binh hoặc người hưởng chính sách như thương binh.
+
+### 250020000000000040000270000000000000000000801930220765000400
+
+Điều 25.2.TL.1.4. Chế độ khi chuyển gia đình đến định cư ở vùng cao, hải đảo Sĩ quan, quân nhân chuyên nghiệp, công nhân viên chức quốc phòng thuộc Bộ đội Biên phòng chuyển gia đình đến vùng cao, hải đảo được hưởng chế độ trợ cấp như hộ gia đình đi xây dựng vùng kinh tế mới hoặc di dân ra đảo theo quy định hiện hành. Kinh phí bảo đảm trích từ nguồn vốn sự nghiệp di dân của ngân sách Nhà nước.
+
+### 25002000000000005000
+
+Chương V TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ BIÊN PHÒNG
+
+### 2500200000000000500002800000000000000000
+
+Điều 25.2.LQ.28. Trách nhiệm của Chính phủ 1. Chính phủ thống nhất quản lý nhà nước về biên phòng.
+
+### 250020000000000050000280000000000000000000402342300890000900
+
+Điều 25.2.NĐ.1.9. Trách nhiệm của Chính phủ 1. Thống nhất quản lý nhà nước về hoạt động đối ngoại biên phòng.
+
+### 2500200000000000500002900000000000000000
+
+Điều 25.2.LQ.29. Trách nhiệm của Bộ Quốc phòng 1. Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về biên phòng và có trách nhiệm sau đây:
+
+### 250020000000000050000290000000000000000000402342300890001100
+
+Điều 25.2.NĐ.1.11. Trách nhiệm của Bộ Quốc phòng 1. Chủ trì, phối hợp với Bộ Ngoại giao và các Bộ, ngành liên quan chỉ đạo, hướng dẫn Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương thực hiện quản lý nhà nước về biên giới quốc gia. Phối hợp với Bộ Ngoại giao đề xuất chủ trương, chính sách về hoạt động đối ngoại biên phòng và tham gia các đoàn đàm phán giải quyết các vấn đề về biên giới lãnh thổ; xây dựng văn bản quy phạm pháp luật về quản lý, bảo vệ biên giới quốc gia và tổ chức quản lý, bảo vệ biên giới quốc gia thuộc thẩm quyền.
+
+### 250020000000000050000290000000000000000000402785401060000700
+
+Điều 25.2.NĐ.2.7. Trách nhiệm của Bộ Quốc phòng 1. Chủ trì, phối hợp với Bộ Ngoại giao, Bộ Công an trao đổi với các bộ, cơ quan ngang bộ, chính quyền địa phương nơi có biên giới quốc gia về tình hình, thông tin liên quan đến quản lý, bảo vệ biên giới quốc gia, tội phạm, vi phạm pháp luật ở khu vực biên giới, cửa khẩu theo quy định của pháp luật; chia sẻ với Bộ Công an về số liệu xuất cảnh, nhập cảnh, quá cảnh, cấp thị thực tại cửa khẩu do Bộ Quốc phòng quản lý; khi có đề nghị, thông báo cho Bộ Công an các thông tin liên quan đến an ninh quốc gia, trật tự, an toàn xã hội, tình hình vi phạm pháp luật ở khu vực biên giới và các thông tin khác liên quan đến chức năng, nhiệm vụ của Bộ Công an.
+
+### 2500200000000000500003000000000000000000
+
+Điều 25.2.LQ.30. Trách nhiệm của Bộ Ngoại giao Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ Ngoại giao có trách nhiệm chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, cơ quan có liên quan và chính quyền địa phương thực hiện các nội dung sau đây:
+
+### 250020000000000050000300000000000000000000402342300890001200
+
+Điều 25.2.NĐ.1.12. Trách nhiệm của Bộ Ngoại giao 1. Cung cấp thông tin liên quan đến đối ngoại biên phòng (chủ trương, chính sách của nhà nước về đối ngoại, giải quyết các vấn đề biên giới, lãnh thổ với các nước láng giềng; tình hình quan hệ giữa ta và các nước bạn, thực trạng các vấn đề biên giới và lãnh thổ…) nhằm tạo điều kiện cho việc hoạch định các hoạt động đối ngoại biên phòng.
+
+### 250020000000000050000300000000000000000000402785401060000800
+
+Điều 25.2.NĐ.2.8. Trách nhiệm của Bộ Ngoại giao 1. Chủ trì, phối hợp với Bộ Quốc phòng và các bộ, ngành, địa phương có liên quan tổ chức các biện pháp đấu tranh đối ngoại trong trường hợp độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, quốc gia bị xâm phạm hoặc có nguy cơ bị xâm phạm.
+
+### 2500200000000000500003100000000000000000
+
+Điều 25.2.LQ.31. Trách nhiệm của Bộ Công an 1. Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ Công an có trách nhiệm phối hợp với Bộ Quốc phòng, Bộ Ngoại giao thực thi nhiệm vụ biên phòng.
+
+### 250020000000000050000310000000000000000000402785401060000900
+
+Điều 25.2.NĐ.2.9. Trách nhiệm của Bộ Công an 1. Chỉ đạo Công an địa phương phối hợp với Bộ đội Biên phòng tham mưu cho chính quyền địa phương xử lý tình huống an ninh, trật tự ở khu vực biên giới theo quy định của pháp luật. Phối hợp với Bộ Quốc phòng, chính quyền địa phương xử lý các tình huống quân sự, quốc phòng ở khu vực biên giới.
+
+### 2500200000000000500003200000000000000000
+
+Điều 25.2.LQ.32. Trách nhiệm của Bộ, cơ quan ngang Bộ 1. Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, cơ quan ngang Bộ có trách nhiệm phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, Bộ Công an thực hiện quản lý nhà nước về biên phòng.
+
+### 250020000000000050000320000000000000000000402342300890001000
+
+Điều 25.2.NĐ.1.10. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ Trong phạm vi nhiệm vụ, quyền hạn của mình, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm tổ chức thực hiện hoạt động đối ngoại biên phòng theo quy định của pháp luật, hướng dẫn của Bộ Quốc phòng, Bộ Ngoại giao.
+
+### 250020000000000050000320000000000000000000402785401060002500
+
+Điều 25.2.NĐ.2.25. Trách nhiệm của cơ quan ngang bộ 1. Trách nhiệm của Ủy ban Dân tộc
+
+### 2500200000000000500003300000000000000000
+
+Điều 25.2.LQ.33. Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân các cấp 1. Trong phạm vi nhiệm vụ, quyền hạn của mình, Hội đồng nhân dân các cấp nơi có biên giới quốc gia có trách nhiệm sau đây:
+
+### 250020000000000050000330000000000000000000402342300890001300
+
+Điều 25.2.NĐ.1.13. Trách nhiệm của Ủy ban nhân dân các cấp 1. Ủy ban nhân dân cấp tỉnh có trách nhiệm:
+
+### 250020000000000050000330000000000000000000402785401060002600
+
+Điều 25.2.NĐ.2.26. Trách nhiệm của chính quyền địa phương các cấp nơi có biên giới quốc gia 1. Hội đồng nhân dân và Ủy ban nhân dân các cấp ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật về biên phòng.
+
+### 250020000000000050000330000000000000000000402785401060002700
+
+Điều 25.2.NĐ.2.27. Trách nhiệm của Ủy ban nhân dân các cấp nơi không có biên giới quốc gia 1. Phối hợp với Bộ Quốc phòng, Bộ đội Biên phòng, cơ quan, tổ chức có liên quan thực thi nhiệm vụ biên phòng, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh.
+
+### 2500200000000000500003400000000000000000
+
+Điều 25.2.LQ.34. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về biên phòng; giám sát việc thực hiện pháp luật về biên phòng.
+
+### 25002000000000006000
+
+Chương VI ĐIỀU KHOẢN THI HÀNH
+
+### 2500200000000000600003500000000000000000
+
+Điều 25.2.LQ.35. Sửa đổi, bổ sung Điều 21 của Luật Biên giới quốc gia số 06/2003/QH11 như sau: “Điều 21
+
+### 2500200000000000600003600000000000000000
+
+Điều 25.2.LQ.36. Hiệu lực thi hành 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.
+
+### 2500200000000000600003640234230089000200
+
+Điều 25.2.NĐ.1.20. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 02 tháng 12 năm 2009.
+
+### 2500200000000000600003640234230089000210
+
+Điều 25.2.NĐ.1.21. Trách nhiệm hướng dẫn thi hành 1. Bộ Quốc phòng phối hợp với Bộ Ngoại giao chịu trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này.
+
+### 2500200000000000600003640278540106000280
+
+Điều 25.2.NĐ.2.28. Hiệu lực thi hành và quy định chuyển tiếp 1. Nghị định này có hiệu lực từ ngày 21 tháng 01 năm 2022.
+
+### 2500200000000000600003640278540106000290
+
+Điều 25.2.NĐ.2.29. Trách nhiệm thi hành Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
+
+### 2500200000000000600003680193022076500050
+
+Điều 25.2.TL.1.5. Tổ chức thực hiện Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày ký.
+
+### 2500200000000000600003680242390002500090
+
+Điều 25.2.TT.1.9. Tổ chức thực hiện 1. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chỉ đạo, hướng dẫn các cơ quan, đơn vị thuộc quyền thực hiện hoạt động đối ngoại biên phòng theo quy định tại Nghị định số 89/2006/NĐ-CP và hướng dẫn tại Thông tư này.
+
+### 2500200000000000600003680242390002500100
+
+Điều 25.2.TT.1.10. Hiệu lực thi hành 1. Thông tư này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký và thay thế Quyết định số 05/2003/QĐ-BQP ngày 15 tháng 01 năm 2003 của Bộ trưởng Bộ Quốc phòng quy định hoạt động đối ngoại biên phòng.
+

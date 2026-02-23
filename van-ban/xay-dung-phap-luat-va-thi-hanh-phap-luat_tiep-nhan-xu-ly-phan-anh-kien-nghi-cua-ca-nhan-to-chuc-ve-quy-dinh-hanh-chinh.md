@@ -1,543 +1,837 @@
 ---
-layout: default
+layout: page
 title: Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 permalink: /van-ban/xay-dung-phap-luat-va-thi-hanh-phap-luat/tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh/
-collection: subtopics
-slug: tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh
-parent: xay-dung-phap-luat-va-thi-hanh-phap-luat
 ---
 
 # Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính
 
-**Đề mục:** Tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính  
-**Chủ đề:** [Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-**Số điều khoản:** 50  
-**Điều khoản có nội dung:** 23/39 (59.0%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 44.12.NĐ.1. Phạm vi điều chỉnh
+Điều 44.12.NĐ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Nghị định số 20/2008/NĐ-CP Về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính ngày 14/02/2008 của Chính phủ, có hiệu lực thi hành kể từ ngày 03/03/2008 )
 
-**Chỉ mục:** 1
+ Nghị định này quy định việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về các quy định hành chính liên quan đến hoạt động kinh doanh, đời sống nhân dân.
 
-**Mã phân cấp:** 4401200000000000100000100000000000000000
+ Nghị định này không quy định về khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo.Điều 44.12.NĐ.2. Đối tượng áp dụng
 
-**ID:** dk_00071968
+(Điều 2 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
----
+ Nghị định này áp dụng cho các đối tượng sau:
 
+ 1. Cơ quan hành chính nhà nước, người có thẩm quyền tiếp nhận, xử lý các phản ánh, kiến nghị về quy định hành chính.
 
-### Điều 44.12.NĐ.2. Đối tượng áp dụng
+ 2. Cá nhân, tổ chức có phản ánh, kiến nghị về quy định hành chính.Điều 44.12.NĐ.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Chỉ mục:** 2
+ Trong Nghị định này các từ ngữ sau đây được hiểu như sau:
 
-**Mã phân cấp:** 4401200000000000100000200000000000000000
+ 1. Quy định hành chính là những quy định về cơ chế, chính sách, thủ tục hành chính liên quan đến hoạt động kinh doanh và đời sống nhân dân, thuộc phạm vi quản lý của các cơ quan hành chính nhà nước, do cơ quan nhà nước, người có thẩm quyền ban hành theo quy định của pháp luật.
 
-**ID:** dk_00071969
+ 2. Cá nhân là công dân Việt Nam, người Việt Nam định cư ở nước ngoài, người nước ngoài có phản ánh, kiến nghị.
 
----
+ 3. Tổ chức là doanh nghiệp, hội, hiệp hội doanh nghiệp, cơ quan hành chính, đơn vị sự nghiệp và các tổ chức khác được thành lập hợp pháp theo quy định của pháp luật có phản ánh, kiến nghị.
 
+ 4. Phản ánh là việc cá nhân, tổ chức có ý kiến với cơ quan hành chính nhà nước về những vấn đề liên quan đến quy định hành chính, bao gồm: những vướng mắc cụ thể trong thực hiện; sự không hợp pháp, không hợp lý, không đồng bộ, không thống nhất với hệ thống pháp luật Việt Nam hoặc điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập và những vấn đề khác.
 
-### Điều 44.12.NĐ.3. Giải thích từ ngữ
+ 5. Kiến nghị là việc cá nhân, tổ chức có phản ánh với cơ quan hành chính nhà nước theo quy định tại khoản 4 Điều này và đề xuất phương án xử lý hoặc có sáng kiến ban hành mới quy định hành chính liên quan đến hoạt động kinh doanh, đời sống nhân dân.Điều 44.12.NĐ.4. Nguyên tắc tiếp nhận, xử lý
 
-*Nội dung chưa có sẵn*
+(Điều 4 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Chỉ mục:** 3
+ 1. Tuân thủ pháp luật.
 
-**Mã phân cấp:** 4401200000000000100000300000000000000000
+ 2. Công khai, minh bạch.
 
-**ID:** dk_00071970
+ 3. Quy trình cụ thể, rõ ràng, thống nhất.
 
----
+ 4. Thủ tục tiếp nhận đơn giản, thuận tiện.
 
+ 5. Tiếp nhận, xử lý đúng thẩm quyền.
 
-### Điều 44.12.NĐ.4. Nguyên tắc tiếp nhận, xử lý
+ 6. Phối hợp trong xử lý phản ánh, kiến nghị.Chương II
 
-*Nội dung chưa có sẵn*
+NỘI DUNG, HÌNH THỨC VÀ YÊU CẦU VỀ PHẢN ÁNH, KIẾN NGHỊ
 
-**Chỉ mục:** 4
+Điều 44.12.NĐ.5. Nội dung phản ánh, kiến nghị
 
-**Mã phân cấp:** 4401200000000000100000400000000000000000
+(Điều 5 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**ID:** dk_00071971
+ 1. Những vướng mắc cụ thể trong thực hiện quy định hành chính do hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định hành chính của cơ quan hành chính nhà nước, của cán bộ, công chức.
 
----
+ 2. Sự không phù hợp của quy định hành chính với thực tế.
 
+ 3. Sự không đồng bộ, không thống nhất của các quy định hành chính.
 
-### Điều 44.12.NĐ.5. Nội dung phản ánh, kiến nghị
+ 4. Quy định hành chính không hợp pháp.
 
-*Nội dung chưa có sẵn*
+ 5. Quy định hành chính trái với các điều ước quốc tế mà Việt Nam đã ký kết hoặc gia nhập.
 
-**Chỉ mục:** 5
+ 6. Những vấn đề khác liên quan đến quy định hành chính.
 
-**Mã phân cấp:** 4401200000000000200000500000000000000000
+ 7. Phương án xử lý những phản ánh quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này.
 
-**ID:** dk_00071973
+ 8. Sáng kiến ban hành mới quy định hành chính liên quan đến hoạt động kinh doanh, đời sống nhân dân.Điều 44.12.NĐ.6. Hình thức phản ánh, kiến nghị
 
----
+(Điều 6 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
+ Các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính được thực hiện thông qua một trong các hình thức sau:
 
-### Điều 44.12.NĐ.6. Hình thức phản ánh, kiến nghị
+ 1. Văn bản.
 
-*Nội dung chưa có sẵn*
+ 2. Điện thoại.
 
-**Chỉ mục:** 6
+ 3. Phiếu lấy ý kiến.Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị
 
-**Mã phân cấp:** 4401200000000000200000600000000000000000
+(Điều 7 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**ID:** dk_00071974
+ 1. Yêu cầu đối với phản ánh, kiến nghị bằng văn bản:
 
----
+ a) Cá nhân, tổ chức chuyển văn bản đến cơ quan tiếp nhận thông qua một trong những cách thức sau:
 
+ - Trực tiếp chuyển đến cơ quan tiếp nhận;
 
-### Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị
+ - Thông qua dịch vụ bưu chính;
 
-Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị
+ - Gửi thông điệp dữ liệu qua mạng máy tính điện tử (thư điện tử, trang tin điện tử hoặc Cổng thông tin điện tử).
 
-**Chỉ mục:** 7
+ b) Sử dụng ngôn ngữ tiếng Việt;
 
-**Mã phân cấp:** 4401200000000000200000700000000000000000
+ c) Thể hiện rõ nội dung phản ánh, kiến nghị;
 
-**ID:** dk_00071975
+ d) Ghi rõ tên, địa chỉ, số điện thoại (hoặc địa chỉ thư tín khi cần liên hệ) của cá nhân, tổ chức có phản ánh, kiến nghị.
 
----
+ 2. Yêu cầu đối với phản ánh, kiến nghị bằng điện thoại:
 
+ a) Chỉ thực hiện phản ánh, kiến nghị thông qua số điện thoại chuyên dùng đã công bố công khai;
 
-### Điều 44.12.NĐ.8. Cơ quan tiếp nhận phản ánh, kiến nghị
+ b) Sử dụng ngôn ngữ tiếng Việt;
+
+ c) Trình bày rõ nội dung phản ánh, kiến nghị;
+
+ d) Thông báo tên, địa chỉ, số điện thoại (hoặc địa chỉ thư tín khi cần liên hệ) của cá nhân, tổ chức có phản ánh, kiến nghị;
+
+ đ) Cán bộ, công chức tiếp nhận phải thể hiện trung thực nội dung phản ánh, kiến nghị bằng văn bản.
+
+ 3. Yêu cầu đối với phản ánh, kiến nghị bằng Phiếu lấy ý kiến:
+
+ a) Chỉ áp dụng khi các cơ quan hành chính nhà nước muốn lấy ý kiến của cá nhân, tổ chức về quy định hành chính cụ thể;
+
+ b) Việc gửi Phiếu lấy ý kiến đến các cá nhân, tổ chức thực hiện thông qua một hoặc nhiều cách thức sau:
+
+ - Gửi công văn lấy ý kiến;
+
+ - Lấy ý kiến qua phương tiện thông tin đại chúng;
+
+ - Gửi thông điệp dữ liệu qua mạng máy tính điện tử (thư điện tử, lấy ý kiến công khai trên trang tin điện tử hoặc Cổng thông tin điện tử);
+
+ c) Sử dụng ngôn ngữ tiếng Việt;
+
+ d) Nội dung Phiếu lấy ý kiến phải thể hiện rõ những vấn đề cần lấy ý kiến.(Điều này có nội dung liên quan đến Điều 7. Yêu cầu đối với phản ánh, kiến nghị của Thông tư 92/2015/TT-BQP Quy định và hướng dẫn hoạt động kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Quốc phòng ban hành ngày 11/08/2015; Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị; Điều 44.12.TT.3.18. Cách thức tiếp nhận phản ánh, kiến nghị)
+
+Chương III
+
+TIẾP NHẬN PHẢN ÁNH, KIẾN NGHỊ
 
 Điều 44.12.NĐ.8. Cơ quan tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008, có nội dung được sửa đổi bởi Điều 2 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**Mã phân cấp:** 4401200000000000300000800000000000000000
+1. Bộ Tư pháp giúp Chính phủ, Thủ tướng Chính phủ tiếp nhận các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính thuộc phạm vi quản lý của Chính phủ, Thủ tướng Chính phủ và của các cơ quan trong hệ thống hành chính nhà nước.
 
-**ID:** dk_00071977
+2. Tổ chức pháp chế của Bộ, cơ quan ngang Bộ giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ tiếp nhận các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính thuộc phạm vi quản lý của Bộ, cơ quan ngang Bộ.
 
----
+3. Sở Tư pháp giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh), Chủ tịch Ủy ban nhân dân cấp tỉnh tiếp nhận các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính thuộc phạm vi quản lý của Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh.
 
-
-### Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị
+4. Đối với hình thức phản ánh, kiến nghị thông qua Phiếu lấy ý kiến, cơ quan hành chính nhà nước nào gửi Phiếu lấy ý kiến thì cơ quan đó tiếp nhận.
 
 Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000300000900000000000000000
+ 1. Đối với các phản ánh, kiến nghị được thực hiện thông qua hình thức văn bản, điện thoại, cơ quan hành chính nhà nước có thẩm quyền tiếp nhận phải tuân thủ quy trình sau:
 
-**ID:** dk_00071978
+ a) Hướng dẫn cá nhân, tổ chức thực hiện phản ánh, kiến nghị theo quy định tại các khoản 1, 2 Điều 7 Nghị định này;
 
----
+ b) Nhận phản ánh, kiến nghị;
 
+ c) Vào sổ tiếp nhận phản ánh, kiến nghị;
 
-### Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị
+ d) Nghiên cứu, đánh giá và phân loại phản ánh, kiến nghị:
+
+ - Phản ánh, kiến nghị không tiếp nhận do không đáp ứng các yêu cầu quy định tại các khoản 1, 2 Điều 7 Nghị định này;
+
+ - Phản ánh, kiến nghị về những vướng mắc cụ thể trong thực hiện quy định hành chính do hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định hành chính của cơ quan hành chính nhà nước, của cán bộ, công chức;
+
+ Trường hợp này, cơ quan tiếp nhận phải chuyển phản ánh kiến nghị tới cơ quan hành chính nhà nước có thẩm quyền xử lý theo quy định của pháp luật.
+
+ - Phản ánh, kiến nghị về quy định hành chính thuộc thẩm quyền xử lý của cơ quan tiếp nhận;
+
+ - Phản ánh, kiến nghị về quy định hành chính không thuộc thẩm quyền xử lý của cơ quan tiếp nhận.
+
+ Trường hợp này, cơ quan tiếp nhận phải chuyển phản ánh, kiến nghị tới cơ quan có thẩm quyền xử lý trong thời hạn không quá 05 ngày làm việc, kể từ ngày tiếp nhận.
+
+ đ) Lưu giữ hồ sơ các phản ánh, kiến nghị đã được tiếp nhận theo quy định của pháp luật về văn thư lưu trữ, đồng thời, lưu vào cơ sở dữ liệu điện tử những phản ánh, kiến nghị đã tiếp nhận.
+
+ 2. Đối với các phản ánh, kiến nghị được thực hiện thông qua hình thức Phiếu lấy ý kiến, cơ quan hành chính nhà nước muốn lấy ý kiến cá nhân, tổ chức phải tuân thủ quy trình sau:
+
+ a) Xác định nội dung cần lấy ý kiến;
+
+ b) Xác định cá nhân, tổ chức là đối tượng cần lấy ý kiến;
+
+ c) Lập Phiếu lấy ý kiến;
+
+ d) Xác định cách thức gửi Phiếu lấy ý kiến và nhận ý kiến trả lời;
+
+ đ) Gửi Phiếu lấy ý kiến đến đối tượng thông qua một hoặc nhiều cách thức quy định tại điểm b khoản 3 Điều 7 Nghị định này;
+
+ e) Theo dõi, đôn đốc các cá nhân, tổ chức trả lời theo hạn định;
+
+ g) Vào sổ tiếp nhận khi nhận được các ý kiến trả lời;
+
+ h) Tập hợp, nghiên cứu, đánh giá, phân loại;
+
+ i) Quyết định việc xử lý theo thẩm quyền hoặc chuyển phản ánh, kiến nghị tới cấp có thẩm quyền xử lý;
+
+ k) Lưu giữ hồ sơ về các phản ánh, kiến nghị đã được tiếp nhận theo quy định của pháp luật về văn thư lưu trữ, đồng thời, lưu vào cơ sở dữ liệu điện tử.(Điều này có nội dung liên quan đến Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị; Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị)
 
 Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000300001000000000000000000
+ 1. Bố trí cán bộ, công chức hoặc bộ phận thực hiện tiếp nhận phản ánh, kiến nghị.
 
-**ID:** dk_00071979
+ 2. Lắp đặt số điện thoại chuyên dùng, kết nối mạng máy tính điện tử và thiết lập địa chỉ website, email.
 
----
+ 3. Công bố công khai địa chỉ cơ quan, địa chỉ thư tín, số điện thoại chuyên dùng, địa chỉ website, địa chỉ email theo quy định tại Điều 13 Nghị định này.
 
-
-### Điều 44.12.NĐ.11. Trách nhiệm của cán bộ, công chức thực hiện việc tiếp nhận phản ánh, kiến nghị
+ 4. Tổ chức thực hiện việc tiếp nhận các phản ánh, kiến nghị theo đúng quy trình quy định tại Điều 9 Nghị định này.(Điều này có nội dung liên quan đến Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị; Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị; Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức)
 
 Điều 44.12.NĐ.11. Trách nhiệm của cán bộ, công chức thực hiện việc tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000300001100000000000000000
+ 1. Hướng dẫn cá nhân, tổ chức thực hiện phản ánh, kiến nghị theo quy định.
 
-**ID:** dk_00071980
+ 2. Không chậm trễ hoặc gây khó khăn, nhũng nhiễu khi tiếp nhận phản ánh, kiến nghị.
 
----
+ 3. Tuân thủ đúng quy trình, thời hạn tiếp nhận.Điều 44.12.NĐ.12. Quyền và trách nhiệm của cá nhân, tổ chức có phản ánh, kiến nghị
 
+(Điều 12 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-### Điều 44.12.NĐ.12. Quyền và trách nhiệm của cá nhân, tổ chức có phản ánh, kiến nghị
+ 1. Có quyền phản ánh, kiến nghị với các cơ quan hành chính nhà nước về quy định hành chính.
 
-Điều 44.12.NĐ.12. Quyền và trách nhiệm của cá nhân, tổ chức có phản ánh, kiến nghị
+ 2. Có quyền yêu cầu cơ quan hành chính nhà nước đã tiếp nhận thông báo về tình hình xử lý phản ánh, kiến nghị.
 
-**Chỉ mục:** 12
+ 3. Phản ánh, kiến nghị phải được trình bày với các cơ quan hành chính nhà nước một cách rõ ràng, trung thực, có căn cứ.
 
-**Mã phân cấp:** 4401200000000000300001200000000000000000
+ 4. Phản ánh, kiến nghị theo đúng hình thức, yêu cầu quy định tại Nghị định này.Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị
 
-**ID:** dk_00071981
+(Điều 13 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008, có nội dung được sửa đổi bởi Điều 2 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
----
+1. Bộ Tư pháp có trách nhiệm công khai địa chỉ cơ quan, địa chỉ thư tín, số điện thoại chuyên dùng, địa chỉ website, địa chỉ email thực hiện việc tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính trên Cổng thông tin điện tử của Chính phủ (Website Chính phủ) hoặc Trang tin điện tử (website) do Thủ tướng Chính phủ chỉ định.
 
+2. Các Bộ, cơ quan ngang Bộ có trách nhiệm công khai địa chỉ cơ quan, địa chỉ thư tín, số điện thoại chuyên dùng, địa chỉ website, địa chỉ email thực hiện việc tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính trên Cổng thông tin điện tử hoặc Trang tin điện tử (website) của Bộ, cơ quan mình và niêm yết công khai tại trụ sở các cơ quan hành chính trực thuộc Bộ, cơ quan.
 
-### Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị
+3. Ủy ban nhân dân cấp tỉnh có trách nhiệm công khai địa chỉ cơ quan, địa chỉ thư tín, số điện thoại chuyên dùng, địa chỉ website, địa chỉ email thực hiện việc tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính trên Cổng thông tin điện tử hoặc Trang tin điện tử (website) của cơ quan mình và niêm yết công khai tại trụ sở các cơ quan hành chính trực thuộc.
 
-Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị
+4. Ngoài hình thức công khai nêu trên, các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh có thể sử dụng các hình thức công khai khác tùy theo điều kiện từng cơ quan.
 
-**Chỉ mục:** 13
-
-**Mã phân cấp:** 4401200000000000300001300000000000000000
-
-**ID:** dk_00071982
-
----
-
-
-### Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức
+(Điều này có nội dung liên quan đến Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị)
 
 Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ngày 07/02/2014 của Bộ Tư pháp, có hiệu lực thi hành kể từ ngày 24/03/2014 )
 
-**Mã phân cấp:** 440120000000000030000130000000000000000000802499500050001200
+ 1. Nội dung hướng dẫn niêm yết thực hiện phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính theo Mẫu số 04 tại Phụ lục II kèm theo Thông tư này.
 
-**ID:** dk_00071983
+ 2. Trách nhiệm thực hiện, hướng dẫn, theo dõi, đôn đốc kiểm tra việc niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức thực hiện theo quy định tại các Điều 8, 9 Thông tư này.(Điều này có nội dung liên quan đến Điều 44.5.TT.2.11. Cách thức niêm yết công khai thủ tục hành chính của Thông tư 05/2014/TT-BTP Hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính ban hành ngày 07/02/2014; Điều 44.5.TT.4.6. Niêm yết thủ tục hành chính của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 44.5.TT.6.14. Niêm yết công khai tại trụ sở cơ quan của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.5.TT.7.20. Kiểm tra việc thực hiện công bố, công khai thủ tục hành chính của Thông tư 25/2014/TT-BTP Hướng dẫn kiểm tra việc thực hiện hoạt động kiểm soát thủ tục hành chính ban hành ngày 31/12/2014; Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị; Điều 44.5.TT.6.48. Niêm yết công khai các thủ tục hành chính; Điều 44.5.TT.6.77. Báo cáo về công tác giải quyết thủ tục hành chính)
 
----
+Chương IV
 
-
-### Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước
+XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ
 
 Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000400001400000000000000000
+ 1. Đối với phản ánh, kiến nghị về những vướng mắc cụ thể trong thực hiện quy định hành chính do hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định hành chính, cơ quan hành chính nhà nước có thẩm quyền xử lý phải xử lý theo đúng quy trình đã được pháp luật quy định.
 
-**ID:** dk_00071985
+ 2. Đối với phản ánh, kiến nghị về nội dung quy định hành chính, cơ quan hành chính nhà nước có thẩm quyền xử lý phải tuân thủ quy trình sau:
 
----
+ a) Làm việc trực tiếp với cá nhân, tổ chức có phản ánh, kiến nghị để làm rõ những nội dung có liên quan (nếu thấy cần thiết);
 
+ b) Nghiên cứu, đánh giá và phân loại phản ánh, kiến nghị:
 
-### Điều 44.12.NĐ.15. Hình thức xử lý phản ánh, kiến nghị
+ - Phản ánh, kiến nghị chưa đủ cơ sở xem xét xử lý, cần tiếp tục tập hợp để nghiên cứu;
+
+ - Phản ánh, kiến nghị có đủ cơ sở để xem xét xử lý.
+
+ c) Đối với phản ánh, kiến nghị có đủ cơ sở xem xét xử lý, cơ quan có thẩm quyền xử lý phải tiến hành xem xét quy định hành chính được phản ánh, kiến nghị theo các tiêu chí sau:
+
+ - Sự cần thiết;
+
+ - Tính hợp lý, hợp pháp;
+
+ - Tính đơn giản, dễ hiểu;
+
+ - Tính khả thi;
+
+ - Sự thống nhất, đồng bộ với các quy định hành chính khác;
+
+ - Sự phù hợp với các điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập.
+
+ d) Quyết định xử lý;
+
+ đ) Công khai kết quả xử lý phản ánh, kiến nghị;
+
+ e) Tổ chức lưu giữ hồ sơ về phản ánh, kiến nghị đã được xử lý theo quy định của pháp luật về văn thư lưu trữ, đồng thời lưu vào cơ sở dữ liệu điện tử.(Điều này có nội dung liên quan đến Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị; Điều 44.12.NĐ.17. Trách nhiệm của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ trong xử lý phản ánh, kiến nghị; Điều 44.12.NĐ.23. Khen thưởng)
 
 Điều 44.12.NĐ.15. Hình thức xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 15
+(Điều 15 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000400001500000000000000000
+ Cơ quan hành chính nhà nước có thẩm quyền xử lý phản ánh, kiến nghị lựa chọn một trong các hình thức sau để xử lý:
 
-**ID:** dk_00071986
+ 1. Sửa đổi, bổ sung, bãi bỏ, huỷ bỏ quy định hành chính theo thẩm quyền.
 
----
+ 2. Kiến nghị cơ quan, người có thẩm quyền xem xét, sửa đổi, bổ sung, bãi bỏ, huỷ bỏ quy định hành chính không đáp ứng các tiêu chí quy định tại điểm c khoản 2 Điều 14 Nghị định này.
 
+ 3. Ban hành theo thẩm quyền hoặc kiến nghị cơ quan, người có thẩm quyền ban hành quy định hành chính mới phục vụ yêu cầu phát triển kinh tế - xã hội và quản lý nhà nước.Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị
 
-### Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị
+(Điều 16 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị
+ 1. Chỉ đạo việc xem xét, nghiên cứu các phản ánh, kiến nghị về quy định hành chính thuộc phạm vi quản lý.
 
-**Chỉ mục:** 16
+ 2. Đối với các phản ánh, kiến nghị không đáp ứng các tiêu chí quy định tại điểm c khoản 2 Điều 14 Nghị định này, tùy theo thẩm quyền quyết định, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ có trách nhiệm:
 
-**Mã phân cấp:** 4401200000000000400001600000000000000000
+ a) Sửa đổi, bổ sung, huỷ bỏ quy định hành chính thuộc thẩm quyền quyết định;
 
-**ID:** dk_00071987
+ b) Đề nghị các Bộ, cơ quan ngang Bộ, Hội đồng nhân dân hoặc Ủy ban nhân dân cấp tỉnh xem xét, sửa đổi, bổ sung, huỷ bỏ, bãi bỏ những quy định hành chính thuộc thẩm quyền quyết định của những cơ quan này;
 
----
+ c) Đề nghị Thủ tướng Chỉnh phủ:
 
+ - Bãi bỏ hoặc đình chỉ việc thực hiện những quy định hành chính thuộc thẩm quyền quyết định của Bộ, cơ quan ngang Bộ và Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh;
 
-### Điều 44.12.NĐ.17. Trách nhiệm của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ trong xử lý phản ánh, kiến nghị
+ - Sửa đổi, bổ sung, huỷ bỏ quy định hành chính thuộc thẩm quyền quyết định của Thủ tướng Chính phủ;
+
+ - Xem xét, đề nghị Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ sửa đổi, bổ sung, huỷ bỏ những quy định hành chính thuộc thẩm quyền quyết định của các cơ quan này.
+
+ 3. Tổ chức lưu trữ hồ sơ, tài liệu và xây dựng cơ sở dữ liệu điện tử các phản ánh, kiến nghị về quy định hành chính và kết quả xử lý.
+
+ 4. Công khai kết quả xử lý phản ánh, kiến nghị.
+
+ 5. Đôn đốc, kiểm tra và kịp thời có biện pháp cần thiết để chấn chỉnh kỷ luật, kỷ cương hành chính trong xử lý phản ánh, kiến nghị.(Điều này có nội dung liên quan đến Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước)
 
 Điều 44.12.NĐ.17. Trách nhiệm của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ trong xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008, có nội dung được sửa đổi bởi Điều 2 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**Mã phân cấp:** 4401200000000000400001700000000000000000
+Ngoài việc thực hiện các quy định tại Điều 16 Nghị định này, Bộ trưởng Bộ Tư pháp còn có trách nhiệm:
 
-**ID:** dk_00071988
+1. Giúp Thủ tướng Chính phủ đôn đốc các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh xử lý dứt điểm, kịp thời và đúng thẩm quyền những phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính.
 
----
+2. Giúp Thủ tướng Chính phủ phát hiện và yêu cầu các cơ quan hành chính nhà nước có thẩm quyền xử lý những quy định hành chính không đáp ứng các tiêu chí quy định tại điểm c khoản 2 Điều 14 Nghị định này.
 
+3. Tổ chức nghiên cứu, đề xuất với Chính phủ, Thủ tướng Chính phủ xử lý các phản ánh, kiến nghị về quy định hành chính liên quan đến hai hay nhiều cơ quan hành chính nhà nước khác nhau và các cơ quan này không thống nhất được về phương án xử lý; những phản ánh, kiến nghị về quy định hành chính đã được các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh xử lý, nhưng cá nhân, tổ chức vẫn tiếp tục phản ánh, kiến nghị; những phản ánh, kiến nghị về quy định hành chính thuộc thẩm quyền quyết định của Chính phủ, Thủ tướng Chính phủ.
 
-### Điều 44.12.NĐ.18. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh trong xử lý phản ánh, kiến nghị
+(Điều này có nội dung liên quan đến Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước)
 
 Điều 44.12.NĐ.18. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh trong xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 18
+(Điều 18 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000400001800000000000000000
+ 1. Chỉ đạo việc xem xét, nghiên cứu các phản ánh, kiến nghị về quy định hành chính thuộc phạm vi quản lý.
 
-**ID:** dk_00071989
+ 2. Đối với các phản ánh, kiến nghị không đáp ứng các tiêu chí quy định tại điểm c khoản 2 Điều 14 Nghị định này, tùy theo thẩm quyền quyết định, Chủ tịch Ủy ban nhân dân cấp tỉnh tiến hành:
 
----
+ a) Sửa đổi, bổ sung, huỷ bỏ quy định hành chính thuộc thẩm quyền quyết định;
 
+ b) Đề nghị Hội đồng nhân dân, Ủy ban nhân dân cùng cấp sửa đổi, bổ sung, huỷ bỏ quy định hành chính thuộc thẩm quyền quyết định của các cơ quan này;
 
-### Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị
+ c) Kiến nghị Bộ trưởng, Thủ trưởng cơ quan ngang Bộ sửa đổi, bổ sung, hủy bỏ các quy định hành chính thuộc thẩm quyền quyết định của các cơ quan này;
 
-Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị
+ d) Đề nghị Thủ tướng Chính phủ:
 
-**Chỉ mục:** 19
+ - Bãi bỏ hoặc đình chỉ thực hiện những quy định hành chính thuộc thẩm quyền quyết định của Bộ, cơ quan ngang Bộ, Hội đồng nhân dân cùng cấp;
 
-**Mã phân cấp:** 4401200000000000400001900000000000000000
+ - Sửa đổi, bổ sung, huỷ bỏ quy định hành chính thuộc thẩm quyền quyết định của Thủ tướng Chính phủ;
 
-**ID:** dk_00071990
+ - Xem xét, đề nghị Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ sửa đổi, bổ sung, huỷ bỏ những quy định hành chính thuộc thẩm quyền quyết định của các cơ quan này.
 
----
+ 3. Tổ chức lưu trữ hồ sơ, tài liệu và xây dựng cơ sở dữ liệu điện tử về các phản ánh, kiến nghị về quy định hành chính và kết quả xử lý.
 
+ 4. Công khai kết quả xử lý phản ánh, kiến nghị.
 
-### Điều 44.12.NĐ.20. Xây dựng cơ sở dữ liệu điện tử
+ 5. Đôn đốc, kiểm tra và kịp thời có biện pháp cần thiết để chấn chỉnh kỷ luật, kỷ cương hành chính trong xử lý phản ánh, kiến nghị.Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị
 
-*Nội dung chưa có sẵn*
+(Điều 19 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Chỉ mục:** 20
+ Thủ trưởng cơ quan hành chính nhà nước có trách nhiệm tổ chức công khai kết quả xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính. Việc công khai được thực hiện thông qua một hoặc nhiều hình thức sau:
 
-**Mã phân cấp:** 4401200000000000500002000000000000000000
+ 1. Đăng tải trên Cổng thông tin hoặc Trang thông tin điện tử (website) của cơ quan.
 
-**ID:** dk_00071992
+ 2. Thông báo trên các phương tiện thông tin đại chúng.
 
----
+ 3. Gửi công văn thông báo cho cá nhân, tổ chức có phản ánh, kiến nghị.
 
+ 4. Các hình thức khác.(Điều này có nội dung liên quan đến Điều 44.12.TT.3.21. Công khai kết quả xử lý phản ánh, kiến nghị)
 
-### Điều 44.12.NĐ.21. Kinh phí thực hiện
+Chương V
 
-*Nội dung chưa có sẵn*
+CÁC ĐIỀU KIỆN BẢO ĐẢM
 
-**Chỉ mục:** 21
+Điều 44.12.NĐ.20. Xây dựng cơ sở dữ liệu điện tử
 
-**Mã phân cấp:** 4401200000000000500002100000000000000000
+(Điều 20 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008, có nội dung được sửa đổi bởi Điều 2 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**ID:** dk_00071993
+1. Bộ Tư pháp có trách nhiệm:
 
----
+a) Xây dựng, quản lý hệ thống cơ sở dữ liệu điện tử các phản ánh, kiến nghị về quy định hành chính thống nhất trong toàn quốc;
 
+b) Công bố công khai cơ sở dữ liệu điện tử các phản ánh, kiến nghị về quy định hành chính trên Cổng thông tin điện tử của Chính phủ (Website Chính phủ);
 
-### Điều 44.12.NĐ.22. Chế độ thông tin báo cáo
+c) Hướng dẫn các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh xây dựng, quản lý, khai thác hệ thống cơ sở dữ liệu điện tử về các phản ánh, kiến nghị về quy định hành chính.
 
-*Nội dung chưa có sẵn*
+2. Các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh có trách nhiệm:
 
-**Chỉ mục:** 22
+a) Xây dựng, quản lý hệ thống cơ sở dữ liệu điện tử về các phản ánh kiến nghị về quy định hành chính theo hướng dẫn của Bộ Tư pháp;
 
-**Mã phân cấp:** 4401200000000000500002200000000000000000
+b) Phối hợp với Bộ Tư pháp trong việc quản lý, công khai và khai thác sử dụng hệ thống cơ sở dữ liệu điện tử này.
 
-**ID:** dk_00071994
+Điều 44.12.NĐ.21. Kinh phí thực hiện
 
----
+(Điều 21 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
+ Công tác tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính của các cơ quan hành chính nhà nước được ngân sách nhà nước bảo đảm trong dự toán chi ngân sách thường xuyên của các cơ quan này theo đúng quy định của Luật Ngân sách nhà nước.
 
-### Điều 44.12.NĐ.23. Khen thưởng
+ Trên cơ sở chức năng, nhiệm vụ của các cơ quan hành chính nhà nước thuộc phạm vi quản lý, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm bố trí kinh phí thực hiện việc nhận, xử lý các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính cho các cơ quan này.Điều 44.12.NĐ.22. Chế độ thông tin báo cáo
 
-*Nội dung chưa có sẵn*
+(Điều 22 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008, có nội dung được sửa đổi bởi Điều 2 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
-**Chỉ mục:** 23
+Chế độ thông tin báo cáo về tình hình và kết quả thực hiện việc tiếp nhận, xử lý phản ánh, kiến nghị về quy định hành chính của Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh được thực hiện theo quy định tại Điều 35 Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính (đã được sửa đổi tại Khoản 10 Điều 1 Nghị định này).
 
-**Mã phân cấp:** 4401200000000000600002300000000000000000
+(Điều này có nội dung liên quan đến Điều 44.5.NĐ.35. Chế độ thông tin, báo cáo)
 
-**ID:** dk_00071996
+Chương VI
 
----
+KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
 
+Điều 44.12.NĐ.23. Khen thưởng
 
-### Điều 44.12.NĐ.24. Xử lý vi phạm
+(Điều 23 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-*Nội dung chưa có sẵn*
+ 1. Cá nhân, tổ chức có những phản ánh, kiến nghị về quy định hành chính đem lại hiệu quả thiết thực, giúp cơ quan hành chính nhà nước sửa đổi, bổ sung, huỷ bỏ, bãi bỏ những quy định hành chính không phù hợp với các tiêu chí quy định tại điểm c khoản 2 Điều 14 Nghị định này thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng.
 
-**Chỉ mục:** 24
+ Thủ trưởng cơ quan hành chính nhà nước thực hiện tiếp nhận, xử lý phản ánh, kiến nghị có trách nhiệm đề xuất hình thức khen thưởng cho cá nhân, tổ chức có phản ánh, kiến nghị.
 
-**Mã phân cấp:** 4401200000000000600002400000000000000000
+ 2. Cán bộ, công chức, người đứng đầu cơ quan tổ chức được giao nhiệm vụ tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính hoàn thành tốt nhiệm vụ theo quy định của Nghị định này được khen thưởng theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước)
 
-**ID:** dk_00071997
+Điều 44.12.NĐ.24. Xử lý vi phạm
 
----
+(Điều 24 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
+ Cán bộ, công chức, Thủ trưởng cơ quan hành chính nhà nước được giao nhiệm vụ tiếp nhận, xử lý các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính nếu vi phạm hoặc không thực hiện đầy đủ trách nhiệm theo các quy định tại Nghị định này thì phải chịu trách nhiệm kỷ luật theo quy định của pháp luật về cán bộ, công chức.Chương VII
 
-### Điều 44.12.TT.2.10. Nơi tiếp nhận phản ánh, kiến nghị
+QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG MỘT SỐ LĨNH VỰC
+
+Mục 1
+
+QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC CÔNG THƯƠNG
 
 Điều 44.12.TT.2.10. Nơi tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ngày 24/03/2014 của Bộ Công Thương, có hiệu lực thi hành kể từ ngày 08/05/2014 )
 
-**Mã phân cấp:** 440120000000000065000002000000000000000000802504000110001000
+ 1. Vụ Pháp chế là đầu mối tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính trong phạm vi quản lý nhà nước của Bộ Công Thương.
 
-**ID:** dk_00072000
+ 2. Địa chỉ tiếp nhận phản ánh, kiến nghị:
 
----
+ Vụ Pháp chế, số 54 Hai Bà Trưng, Hoàn Kiếm, Hà Nội.
 
+ Emai: kstthc@moit.gov.vn
 
-### Điều 44.12.TT.2.11. Cách thức tiếp nhận phản ánh, kiến nghị
+ Website: http://kstthc.moit.gov.vn
+
+ Số điện thoại đường dây nóng được đăng tải trên website.(Điều này có nội dung liên quan đến Điều 44.5.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.5.25. Trách nhiệm thi hành; Điều 44.5.TT.5.26. Hiệu lực thi hành của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014)
 
 Điều 44.12.TT.2.11. Cách thức tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 11
+(Điều 11 Thông tư số 11/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 08/05/2014)
 
-**Mã phân cấp:** 440120000000000065000002000000000000000000802504000110001100
+ 1. Phản ánh, kiến nghị bằng văn bản:
 
-**ID:** dk_00072001
+ Văn phòng Bộ (Phòng Hành chính - bộ phận Văn thư) tiếp nhận các phản ánh, kiến nghị và chuyển cho Vụ Pháp chế để phân loại, xử lý.
 
----
+ 2. Phản ánh, kiến nghị qua điện thoại:
 
+ Hình thức phản ánh, kiến nghị này phải được thực hiện qua số điện thoại đường dây nóng được đăng tải trên website (http://kstthc.moit.gov.vn). Người tiếp nhận điện thoại yêu cầu các cá nhân, tổ chức xác nhận lại phản ánh, kiến nghị bằng văn bản hoặc dữ liệu điện tử.
 
-### Điều 44.12.TT.2.12. Phân loại phản ánh, kiến nghị
+ 3. Phản ánh, kiến nghị bằng dữ liệu điện tử:
 
-*Nội dung chưa có sẵn*
+ Phản ánh, kiến nghị bằng dữ liệu điện tử do cá nhân, tổ chức gửi qua hộp thư điện tử kstthc@moit.gov.vn hoặc qua hệ thống hỗ trợ trực tuyến tiếp nhận, xử lý phản ánh, kiến nghị http://kstthc.moit.gov.vn và sẽ được in thành dạng văn bản.
 
-**Chỉ mục:** 12
+ 4. Phản ánh, kiến nghị thông qua phiếu lấy ý kiến hoặc các tham luận, các ý kiến phát biểu (có tên người, nơi làm việc, công tác) tại hội thảo, hội nghị liên quan đến quy định hành chính, thủ tục hành chính trong lĩnh vực Công Thương được coi là các phản ánh, kiến nghị hợp lệ của tổ chức, cá nhân về quy định hành chính, thủ tục hành chính trong lĩnh vực Công Thương.
 
-**Mã phân cấp:** 440120000000000065000002000000000000000000802504000110001200
+ 5. Vụ Pháp chế chủ trì, phối hợp với các đơn vị có liên quan tổ chức các Hội nghị lấy ý kiến tổ chức, cá nhân về thủ tục hành chính trong lĩnh vực Công Thương theo Quyết định của Bộ trưởng.(Điều này có nội dung liên quan đến Điều 44.5.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.5.25. Trách nhiệm thi hành; Điều 44.5.TT.5.26. Hiệu lực thi hành của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014; Điều 44.12.TT.2.11. Cách thức tiếp nhận phản ánh, kiến nghị)
 
-**ID:** dk_00072002
+Điều 44.12.TT.2.12. Phân loại phản ánh, kiến nghị
 
----
+(Điều 12 Thông tư số 11/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 08/05/2014)
 
+ 1. Trường hợp phản ánh, kiến nghị không đáp ứng yêu cầu quy định tại Điều 11 Thông tư này, Vụ Pháp chế liên hệ với cá nhân, tổ chức để hướng dẫn thực hiện phản ánh, kiến nghị theo đúng quy định.
 
-### Điều 44.12.TT.2.13. Xử lý phản ánh, kiến nghị
+ 2. Trường hợp phản ánh, kiến nghị đáp ứng yêu cầu, Vụ Pháp chế tiến hành nghiên cứu nội dung phản ánh, kiến nghị hoặc liên hệ với cá nhân, tổ chức để làm rõ thông tin liên quan.(Điều này có nội dung liên quan đến Điều 44.5.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.5.25. Trách nhiệm thi hành; Điều 44.5.TT.5.26. Hiệu lực thi hành của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014)
 
-*Nội dung chưa có sẵn*
+Điều 44.12.TT.2.13. Xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 11/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 08/05/2014)
 
-**Mã phân cấp:** 440120000000000065000002000000000000000000802504000110001300
+ Trên cơ sở nghiên cứu và làm rõ thông tin liên quan, Vụ Pháp chế có trách nhiệm:
 
-**ID:** dk_00072003
+ 1. Đối với phản ánh, kiến nghị về hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định hành chính của các cơ quan hành chính nhà nước, của công chức Bộ Công Thương, trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được phản ánh, kiến nghị, Vụ Pháp chế chuyển phản ánh, kiến nghị tới cơ quan, đơn vị được phản ánh, kiến nghị hoặc cơ quan, đơn vị trực tiếp quản lý công chức có hành vi được phản ánh, kiến nghị để xử lý theo quy định của pháp luật và yêu cầu báo cáo Bộ trưởng kết quả xử lý trong thời hạn cụ thể.
 
----
+ 2. Đối với phản ánh, kiến nghị về nội dung quy định hành chính
 
+ a) Phản ánh, kiến nghị về nội dung quy định hành chính không thuộc thẩm quyền ban hành của Bộ Công Thương, Vụ Pháp chế hướng dẫn tổ chức, cá nhân gửi phản ánh, kiến nghị đó đến các cơ quan có liên quan.
 
-### Điều 44.12.TT.2.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+ b) Các văn bản phản ánh, kiến nghị về quy định hành chính thuộc thẩm quyền ban hành của Bộ Công Thương: Vụ Pháp chế chuyển phản ánh, kiến nghị tới cơ quan, đơn vị được giao nhiệm vụ giúp Bộ soạn thảo quy định hành chính để nghiên cứu xử lý và yêu cầu báo cáo lại kết quả xử lý trong thời hạn 05 (năm) ngày làm việc kể từ ngày tiếp nhận phản ánh kiến nghị. Riêng đối với các phản ánh, kiến nghị trên Hệ thống thông tin trực tuyến thời hạn này là 03 (ba) ngày làm việc kể từ ngày tiếp nhận phản ánh, kiến nghị.
+
+ c) Đối với những phản ánh, kiến nghị phức tạp cần nhiều thời gian để xác minh, nghiên cứu, thời hạn này là 10 (mười) ngày làm việc tính từ ngày tiếp nhận phản ánh, kiến nghị.
+
+ d) Vụ Pháp chế báo cáo Lãnh đạo Bộ để chủ trì xử lý một số phản ánh, kiến nghị về quy định thủ tục hành chính có tác động lớn đến hoạt động kinh doanh và đời sống nhân dân, hoặc đã được xử lý nhưng cá nhân, tổ chức vẫn tiếp tục kiến nghị.
+
+ 3. Khi nhận được văn bản chuyển phản ánh, kiến nghị của Vụ Pháp chế, các đơn vị thuộc Bộ có trách nhiệm xem xét xử lý theo đúng quy định của pháp luật, báo cáo Bộ trưởng kết quả xử lý trong thời hạn quy định đồng thời gửi về Vụ Pháp chế để thông báo kết quả xử lý cho cá nhân, tổ chức có phản ánh, kiến nghị.(Điều này có nội dung liên quan đến Điều 44.5.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.5.25. Trách nhiệm thi hành; Điều 44.5.TT.5.26. Hiệu lực thi hành của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014)
 
 Điều 44.12.TT.2.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 11/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 08/05/2014)
 
-**Mã phân cấp:** 440120000000000065000002000000000000000000802504000110001400
-
-**ID:** dk_00072004
-
----
-
-
-### Điều 44.12.TT.2.15. Công khai kết quả xử lý phản ánh, kiến nghị
+ Vụ Pháp chế chịu trách nhiệm theo dõi, đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị của các đơn vị thuộc Bộ; kịp thời báo cáo và tham mưu cho Bộ trưởng các biện pháp cần thiết để chấn chỉnh kỷ cương, kỷ luật hành chính trong việc xử lý phản ánh, kiến nghị của cá nhân, tổ chức.(Điều này có nội dung liên quan đến Điều 44.5.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.5.25. Trách nhiệm thi hành; Điều 44.5.TT.5.26. Hiệu lực thi hành của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014)
 
 Điều 44.12.TT.2.15. Công khai kết quả xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 11/2014/TT-BCT, có hiệu lực thi hành kể từ ngày 08/05/2014)
 
-**Mã phân cấp:** 440120000000000065000002000000000000000000802504000110001500
+ Vụ Pháp chế chủ trì, phối hợp với các đơn vị có liên quan tổ chức công khai kết quả xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính theo quy định tại Điều 19 Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính.(Điều này có nội dung liên quan đến Điều 44.5.TT.5.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.5.25. Trách nhiệm thi hành; Điều 44.5.TT.5.26. Hiệu lực thi hành của Thông tư 11/2014/TT-BCT Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Công thương ban hành ngày 24/03/2014)
 
-**ID:** dk_00072005
+Mục 2
 
----
+QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC VĂN HÓA, THỂ THAO, DU LỊCH
 
+Điều 44.12.TT.3.17. Tiếp nhận phản ánh, kiến nghị
 
-### Điều 44.12.TT.3.17. Tiếp nhận phản ánh, kiến nghị
+(Điều 17 Thông tư số 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ngày 04/12/2014 của Bộ Văn hóa - Thể thao và Du lịch, có hiệu lực thi hành kể từ ngày 01/02/2015 )
 
-*Nội dung chưa có sẵn*
+ 1. Vụ Pháp chế là đầu mối tiếp nhận phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính thuộc phạm vi quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch.
 
-**Chỉ mục:** 17
+ 2. Địa chỉ tiếp nhận phản ánh, kiến nghị:
 
-**Mã phân cấp:** 440120000000000065000003000000000000000000802529500170001700
+ Vụ Pháp chế Bộ Văn hóa, Thể thao và Du lịch, số 51 Ngô Quyền, Hoàn Kiếm, Hà Nội.
 
-**ID:** dk_00072007
+ E-mail: kstthc@mocst.gov.vn
 
----
+ Website: http://bvhttdl.gov.vn
 
-
-### Điều 44.12.TT.3.18. Cách thức tiếp nhận phản ánh, kiến nghị
+ Điện thoại tiếp nhận phản ánh, kiến nghị: 04. 39439232.(Điều này có nội dung liên quan đến Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.7.29. Hiệu lực thi hành của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014)
 
 Điều 44.12.TT.3.18. Cách thức tiếp nhận phản ánh, kiến nghị
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 17/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/02/2015)
 
-**Mã phân cấp:** 440120000000000065000003000000000000000000802529500170001800
+ 1. Phản ánh, kiến nghị bằng văn bản:
 
-**ID:** dk_00072008
+ Phòng Tổng hợp, Kiểm soát thủ tục hành chính thuộc Vụ Pháp chế tiếp nhận, phân loại phản ánh, kiến nghị và trình Vụ trưởng Vụ Pháp chế chuyển cho các cơ quan liên quan để xử lý.
 
----
+ 2. Phản ánh, kiến nghị trực tiếp:
 
+ Trường hợp tổ chức, cá nhân đến phản ánh, kiến nghị trực tiếp, Phòng Tổng hợp, Kiểm soát thủ tục hành chính phân công người tiếp nhận hướng dẫn tổ chức, cá nhân phản ánh, kiến nghị viết văn bản hoặc người tiếp nhận ghi lại nội dung phản ánh, kiến nghị bằng văn bản.
 
-### Điều 44.12.TT.3.19. Phân loại, xử lý phản ánh, kiến nghị
+ 3. Phản ánh, kiến nghị qua điện thoại:
+
+ Tổ chức, cá nhân phản ánh, kiến nghị đến Bộ Văn hóa, Thể thao và Du lịch thông qua số điện thoại phải đáp ứng các yêu cầu quy định tại khoản 2 Điều 7 Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của Chính phủ về việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính (sau đây gọi tắt là Nghị định số 20/2008/NĐ-CP).
+
+ 4. Phản ánh, kiến nghị bằng dữ liệu điện tử:
+
+ Phản ánh, kiến nghị bằng dữ liệu điện tử do cá nhân, tổ chức gửi qua hộp thư điện tử kstthc@mocst.gov.vn hoặc qua website: http://bvhttdl.gov.vn và sẽ được in thành dạng văn bản.
+
+ 5. Phản ánh, kiến nghị thông qua phiếu lấy ý kiến hoặc các tham luận, các ý kiến phát biểu (có tên người, nơi làm việc, công tác) tại hội thảo, hội nghị liên quan đến quy định hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch được coi là các phản ánh, kiến nghị hợp lệ của tổ chức, cá nhân về quy định hành chính, thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch.
+
+ 6. Vụ Pháp chế chủ trì, phối hợp với các cơ quan có liên quan tổ chức Hội nghị tham vấn, lấy ý kiến tổ chức, cá nhân về quy định hành chính trong lĩnh vực quản lý của Bộ Văn hóa, Thể thao và Du lịch theo Quyết định của Bộ trưởng.(Điều này có nội dung liên quan đến Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.7.29. Hiệu lực thi hành của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị)
 
 Điều 44.12.TT.3.19. Phân loại, xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 19
+(Điều 19 Thông tư số 17/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/02/2015)
 
-**Mã phân cấp:** 440120000000000065000003000000000000000000802529500170001900
+ 1. Đối với phản ánh, kiến nghị thuộc thẩm quyền giải quyết của Bộ Văn hóa, Thể thao và Du lịch, trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được phản ánh, kiến nghị, Vụ Pháp chế chuyển phản ánh, kiến nghị tới cơ quan có liên quan hoặc cơ quan trực tiếp quản lý công chức có hành vi được phản ánh, kiến nghị để xử lý theo quy định của pháp luật.
 
-**ID:** dk_00072009
+ Vụ Pháp chế báo cáo Lãnh đạo Bộ để chủ trì xử lý một số phản ánh, kiến nghị về quy định hành chính có tác động lớn đến hoạt động kinh doanh và đời sống nhân dân, hoặc đã được xử lý nhưng cá nhân, tổ chức vẫn tiếp tục kiến nghị.
 
----
+ 2. Đối với phản ánh, kiến nghị không thuộc thẩm quyền giải quyết của Bộ Văn hóa, Thể thao và Du lịch, Vụ Pháp chế hướng dẫn tổ chức, cá nhân gửi phản ánh, kiến nghị đến các cơ quan có liên quan hoặc chuyển phản ánh, kiến nghị tới cơ quan có thẩm quyền xử lý theo quy định của pháp luật.
 
-
-### Điều 44.12.TT.3.20. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+ 3. Khi nhận được văn bản chuyển phản ánh, kiến nghị của Vụ Pháp chế, các cơ quan thuộc Bộ có trách nhiệm xem xét xử lý theo quy định của pháp luật, báo cáo Bộ trưởng về việc xử lý trong thời hạn 07 (bảy) ngày làm việc kể từ ngày tiếp nhận phản ánh, kiến nghị, đồng thời gửi văn bản xử lý về Vụ Pháp chế để thông báo kết quả xử lý cho cá nhân, tổ chức có phản ánh, kiến nghị.(Điều này có nội dung liên quan đến Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.7.29. Hiệu lực thi hành của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014)
 
 Điều 44.12.TT.3.20. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 20
+(Điều 20 Thông tư số 17/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/02/2015)
 
-**Mã phân cấp:** 440120000000000065000003000000000000000000802529500170002000
-
-**ID:** dk_00072010
-
----
-
-
-### Điều 44.12.TT.3.21. Công khai kết quả xử lý phản ánh, kiến nghị
+ Vụ Pháp chế chịu trách nhiệm theo dõi, đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị của các cơ quan; kịp thời báo cáo và tham mưu cho Bộ trưởng các biện pháp cần thiết để chấn chỉnh kỷ cương, kỷ luật hành chính trong việc xử lý phản ánh, kiến nghị của cá nhân, tổ chức.(Điều này có nội dung liên quan đến Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.7.29. Hiệu lực thi hành của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014)
 
 Điều 44.12.TT.3.21. Công khai kết quả xử lý phản ánh, kiến nghị
 
-**Chỉ mục:** 21
+(Điều 21 Thông tư số 17/2014/TT-BVHTTDL, có hiệu lực thi hành kể từ ngày 01/02/2015)
 
-**Mã phân cấp:** 440120000000000065000003000000000000000000802529500170002100
+ Vụ Pháp chế chủ trì, phối hợp với các cơ quan có liên quan tổ chức công khai kết quả xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính theo quy định tại Điều 19 Nghị định số 20/2008/NĐ-CP.(Điều này có nội dung liên quan đến Điều 44.5.TT.7.1. Phạm vi điều chỉnh và đối tượng áp dụng; Điều 44.5.TT.7.29. Hiệu lực thi hành của Thông tư 17/2014/TT-BVHTTDL Quy định về hoạt động kiểm soát thủ tục hành chính trong lĩnh vực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch ban hành ngày 04/12/2014; Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị)
 
-**ID:** dk_00072011
+Mục 3
 
----
-
-
-### Điều 44.12.TT.5.49. Tiếp nhận, xử lý phản ánh, kiến nghị đối với quy định về thủ tục hành chính
+QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI
 
 Điều 44.12.TT.5.49. Tiếp nhận, xử lý phản ánh, kiến nghị đối với quy định về thủ tục hành chính
 
-**Chỉ mục:** 49
+(Điều 49 Thông tư số 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ngày 25/08/2016 của Bộ Giao thông vận tải, có hiệu lực thi hành kể từ ngày 15/10/2016 )
 
-**Mã phân cấp:** 440120000000000065000005000000000000000000802592500210004900
+ 1. Tiếp nhận phản ánh, kiến nghị:
 
-**ID:** dk_00072013
+ a) Đối với phản ánh, kiến nghị gửi trực tiếp hoặc gửi qua hệ thống bưu chính, Văn phòng Bộ thực hiện việc tiếp nhận theo quy định hiện hành về tiếp nhận văn bản đến và chuyển cho Vụ Pháp chế để phân loại phản ánh, kiến nghị;
 
----
+ b) Đối với phản ánh, kiến nghị gửi qua Cổng thông tin điện tử của Bộ Giao thông vận tải hoặc qua thư điện tử, Vụ Pháp chế thực hiện việc tiếp nhận, vào Sổ theo dõi và phân loại phản ánh, kiến nghị;
 
+ c) Đối với phản ánh, kiến nghị qua điện thoại, Vụ Pháp chế có trách nhiệm ghi chép đầy đủ thông tin phản ánh, kiến nghị, vào Sổ theo dõi và phân loại phản ánh, kiến nghị.
 
-### Điều 44.12.NĐ.25. Hiệu lực thi hành
+ 2. Vụ Pháp chế có trách nhiệm vào Sổ theo dõi phản ánh, kiến nghị; xem xét, phân loại phản ánh, kiến nghị theo quy định sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Phản ánh, kiến nghị về nội dung quy định hành chính thuộc phạm vi quản lý của Bộ Giao thông vận tải, Vụ Pháp chế dự thảo văn bản trình Lãnh đạo Bộ phụ trách ký giao nhiệm vụ cho cơ quan, đơn vị thuộc Bộ có chức năng, nhiệm vụ liên quan nghiên cứu, xử lý theo quy định;
 
-**Chỉ mục:** 25
+ b) Phản ánh, kiến nghị liên quan đến hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định hành chính của cơ quan hành chính nhà nước, của cán bộ, công chức các cơ quan, đơn vị thuộc Bộ, Vụ Pháp chế dự thảo văn bản trình Lãnh đạo Bộ chuyển đến cơ quan, đơn vị liên quan xử lý;
 
-**Mã phân cấp:** 4401200000000000700002500000000000000000
+ c) Phản ánh, kiến nghị không thuộc phạm vi quản lý của Bộ Giao thông vận tải, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được phản ánh, kiến nghị, Vụ Pháp chế dự thảo văn bản trình Lãnh đạo Bộ chuyển phản ánh, kiến nghị đến cơ quan nhà nước có thẩm quyền xử lý theo quy định của pháp luật; đồng thời gửi văn bản đó cho cá nhân, tổ chức có phản ánh, kiến nghị.
 
-**ID:** dk_00072015
+ 3. Tiếp nhận phản ánh, kiến nghị được gửi đến các cơ quan, đơn vị thuộc Bộ Giao thông vận tải (không qua Vụ Pháp chế).
 
----
+ Thủ trưởng cơ quan, đơn vị tiếp nhận phản ánh, kiến nghị có trách nhiệm xem xét, xử lý, trình Lãnh đạo Bộ quyết định hoặc trình Lãnh đạo Bộ giao nhiệm vụ cho cơ quan, đơn vị liên quan xử lý theo quy định. Văn bản trình Lãnh đạo Bộ và kết quả xử lý đồng thời gửi Vụ Pháp chế để tổng hợp, báo cáo Bộ Tư pháp theo quy định.(Điều này có nội dung liên quan đến Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng; Điều 80. Hiệu lực thi hành; Điều 81. Tổ chức thực hiện của Thông tư 21/2016/TT-BGTVT Quy định về xây dựng, ban hành, hợp nhất văn bản quy phạm pháp luật, kiểm soát thủ tục hành chính, kiểm tra, xử lý văn bản, rà soát, hệ thống hóa văn bản quy phạm pháp luật và theo dõi thi hành pháp luật trong lĩnh vực giao thông vận tải ban hành ngày 25/08/2016)
 
+Chương VIII
 
-### Điều 44.12.NĐ.26. Trách nhiệm thi hành
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 44.12.NĐ.25. Hiệu lực thi hành
 
-**Chỉ mục:** 26
+(Điều 25 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008)
 
-**Mã phân cấp:** 4401200000000000700002600000000000000000
+ Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
 
-**ID:** dk_00072016
+ Quyết định số 22/2006/QĐ-TTg ngày 24 tháng 01 năm 2006 hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.Điều 44.12.NĐ.26. Trách nhiệm thi hành
 
----
+(Điều 26 Nghị định số 20/2008/NĐ-CP, có hiệu lực thi hành kể từ ngày 03/03/2008, có nội dung được sửa đổi bởi Điều 2 Nghị định số 48/2013/NĐ-CP có hiệu lực thi hành kể từ ngày 01/07/2013)
 
+Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm thi hành Nghị định này.
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Xây dựng pháp luật và thi hành pháp luật](/xay-dung-phap-luat-va-thi-hanh-phap-luat/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+Bộ Tư pháp đôn đốc, kiểm tra việc thực hiện Nghị định này./.
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 50
-- **Điều khoản thực tế:** 39
-- **Điều khoản có nội dung:** 23 (59.0%)
-- **ID đề mục:** 87bb61774c0341738a129a75337bb2e0
+## Danh sách điều khoản
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 44012000000000001000
 
----
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 4401200000000000100000100000000000000000
+
+Điều 44.12.NĐ.1. Phạm vi điều chỉnh
+
+### 4401200000000000100000200000000000000000
+
+Điều 44.12.NĐ.2. Đối tượng áp dụng
+
+### 4401200000000000100000300000000000000000
+
+Điều 44.12.NĐ.3. Giải thích từ ngữ
+
+### 4401200000000000100000400000000000000000
+
+Điều 44.12.NĐ.4. Nguyên tắc tiếp nhận, xử lý
+
+### 44012000000000002000
+
+Chương II NỘI DUNG, HÌNH THỨC VÀ YÊU CẦU VỀ PHẢN ÁNH, KIẾN NGHỊ
+
+### 4401200000000000200000500000000000000000
+
+Điều 44.12.NĐ.5. Nội dung phản ánh, kiến nghị
+
+### 4401200000000000200000600000000000000000
+
+Điều 44.12.NĐ.6. Hình thức phản ánh, kiến nghị
+
+### 4401200000000000200000700000000000000000
+
+Điều 44.12.NĐ.7. Yêu cầu đối với phản ánh, kiến nghị
+
+### 44012000000000003000
+
+Chương III TIẾP NHẬN PHẢN ÁNH, KIẾN NGHỊ
+
+### 4401200000000000300000800000000000000000
+
+Điều 44.12.NĐ.8. Cơ quan tiếp nhận phản ánh, kiến nghị
+
+### 4401200000000000300000900000000000000000
+
+Điều 44.12.NĐ.9. Quy trình tiếp nhận phản ánh, kiến nghị
+
+### 4401200000000000300001000000000000000000
+
+Điều 44.12.NĐ.10. Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị
+
+### 4401200000000000300001100000000000000000
+
+Điều 44.12.NĐ.11. Trách nhiệm của cán bộ, công chức thực hiện việc tiếp nhận phản ánh, kiến nghị
+
+### 4401200000000000300001200000000000000000
+
+Điều 44.12.NĐ.12. Quyền và trách nhiệm của cá nhân, tổ chức có phản ánh, kiến nghị
+
+### 4401200000000000300001300000000000000000
+
+Điều 44.12.NĐ.13. Công khai trong tiếp nhận phản ánh, kiến nghị
+
+### 440120000000000030000130000000000000000000802499500050001200
+
+Điều 44.12.TT.1.12. Niêm yết nội dung hướng dẫn thực hiện phản ánh, kiến nghị của cá nhân, tổ chức
+
+### 44012000000000004000
+
+Chương IV XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ
+
+### 4401200000000000400001400000000000000000
+
+Điều 44.12.NĐ.14. Quy trình xử lý phản ánh, kiến nghị của cơ quan hành chính nhà nước
+
+### 4401200000000000400001500000000000000000
+
+Điều 44.12.NĐ.15. Hình thức xử lý phản ánh, kiến nghị
+
+### 4401200000000000400001600000000000000000
+
+Điều 44.12.NĐ.16. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ trong xử lý phản ánh, kiến nghị
+
+### 4401200000000000400001700000000000000000
+
+Điều 44.12.NĐ.17. Trách nhiệm của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ trong xử lý phản ánh, kiến nghị
+
+### 4401200000000000400001800000000000000000
+
+Điều 44.12.NĐ.18. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh trong xử lý phản ánh, kiến nghị
+
+### 4401200000000000400001900000000000000000
+
+Điều 44.12.NĐ.19. Công khai kết quả xử lý phản ánh, kiến nghị
+
+### 44012000000000005000
+
+Chương V CÁC ĐIỀU KIỆN BẢO ĐẢM
+
+### 4401200000000000500002000000000000000000
+
+Điều 44.12.NĐ.20. Xây dựng cơ sở dữ liệu điện tử
+
+### 4401200000000000500002100000000000000000
+
+Điều 44.12.NĐ.21. Kinh phí thực hiện
+
+### 4401200000000000500002200000000000000000
+
+Điều 44.12.NĐ.22. Chế độ thông tin báo cáo
+
+### 44012000000000006000
+
+Chương VI KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
+
+### 4401200000000000600002300000000000000000
+
+Điều 44.12.NĐ.23. Khen thưởng
+
+### 4401200000000000600002400000000000000000
+
+Điều 44.12.NĐ.24. Xử lý vi phạm
+
+### 44012000000000006500
+
+Chương VII. QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG MỘT SỐ LĨNH VỰC
+
+### 4401200000000000650000020000000000000000
+
+Mục 1 QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC CÔNG THƯƠNG
+
+### 440120000000000065000002000000000000000000802504000110001000
+
+Điều 44.12.TT.2.10. Nơi tiếp nhận phản ánh, kiến nghị
+
+### 440120000000000065000002000000000000000000802504000110001100
+
+Điều 44.12.TT.2.11. Cách thức tiếp nhận phản ánh, kiến nghị
+
+### 440120000000000065000002000000000000000000802504000110001200
+
+Điều 44.12.TT.2.12. Phân loại phản ánh, kiến nghị
+
+### 440120000000000065000002000000000000000000802504000110001300
+
+Điều 44.12.TT.2.13. Xử lý phản ánh, kiến nghị
+
+### 440120000000000065000002000000000000000000802504000110001400
+
+Điều 44.12.TT.2.14. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+
+### 440120000000000065000002000000000000000000802504000110001500
+
+Điều 44.12.TT.2.15. Công khai kết quả xử lý phản ánh, kiến nghị
+
+### 4401200000000000650000030000000000000000
+
+Mục 2 QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC VĂN HÓA, THỂ THAO, DU LỊCH
+
+### 440120000000000065000003000000000000000000802529500170001700
+
+Điều 44.12.TT.3.17. Tiếp nhận phản ánh, kiến nghị
+
+### 440120000000000065000003000000000000000000802529500170001800
+
+Điều 44.12.TT.3.18. Cách thức tiếp nhận phản ánh, kiến nghị
+
+### 440120000000000065000003000000000000000000802529500170001900
+
+Điều 44.12.TT.3.19. Phân loại, xử lý phản ánh, kiến nghị
+
+### 440120000000000065000003000000000000000000802529500170002000
+
+Điều 44.12.TT.3.20. Đôn đốc, kiểm tra việc xử lý phản ánh, kiến nghị
+
+### 440120000000000065000003000000000000000000802529500170002100
+
+Điều 44.12.TT.3.21. Công khai kết quả xử lý phản ánh, kiến nghị
+
+### 4401200000000000650000050000000000000000
+
+Mục 3. QUY ĐỊNH VIỆC TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ CỦA CÁ NHÂN, TỔ CHỨC VỀ QUY ĐỊNH HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI
+
+### 440120000000000065000005000000000000000000802592500210004900
+
+Điều 44.12.TT.5.49. Tiếp nhận, xử lý phản ánh, kiến nghị đối với quy định về thủ tục hành chính
+
+### 44012000000000007000
+
+Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+### 4401200000000000700002500000000000000000
+
+Điều 44.12.NĐ.25. Hiệu lực thi hành
+
+### 4401200000000000700002600000000000000000
+
+Điều 44.12.NĐ.26. Trách nhiệm thi hành
+

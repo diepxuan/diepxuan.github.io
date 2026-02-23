@@ -1,3494 +1,5917 @@
 ---
-layout: default
+layout: page
 title: Kiểm toán độc lập
 permalink: /van-ban/ke-toan-kiem-toan/kiem-toan-doc-lap/
-collection: subtopics
-slug: kiem-toan-doc-lap
-parent: ke-toan-kiem-toan
 ---
 
 # Kiểm toán độc lập
 
-**Đề mục:** Kiểm toán độc lập  
-**Chủ đề:** [Kế toán, kiểm toán](/ke-toan-kiem-toan/)  
-**Số điều khoản:** 278  
-**Điều khoản có nội dung:** 156/266 (58.6%)  
-**Cập nhật:** {{ site.time | date: "%Y-%m-%d" }}
 
-## 📜 Nội dung Điều khoản
+Chương I
 
+NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 17.2.LQ.1. Phạm vi điều chỉnh
+Điều 17.2.LQ.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Luật số 67/2011/QH12 Kiểm toán độc lập ngày 29/03/2011 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2012 )
 
-**Chỉ mục:** 1
+ Luật này quy định nguyên tắc, điều kiện, phạm vi, hình thức hoạt động kiểm toán độc lập; quyền, nghĩa vụ của kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và đơn vị được kiểm toán.Điều 17.2.LQ.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1700200000000000100000100000000000000000
+(Điều 2 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023780
+ Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập.Điều 17.2.NĐ.1.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Nghị định số 17/2012/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Kiểm toán độc lập ngày 13/03/2012 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
+Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Kiểm toán độc lập về Tổ chức nghề nghiệp về kiểm toán; doanh nghiệp kiểm toán; cung cấp dịch vụ kiểm toán qua biên giới; đơn vị được kiểm toán; báo cáo kiểm toán và lưu trữ, sử dụng và tiêu hủy hồ sơ kiểm toán.
 
-### Điều 17.2.LQ.2. Đối tượng áp dụng
+Điều 17.2.NĐ.1.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Chỉ mục:** 2
+Nghị định này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài, doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập.
 
-**Mã phân cấp:** 1700200000000000100000200000000000000000
+Điều 17.2.NĐ.2.1. Phạm vi Điều chỉnh
 
-**ID:** dk_00023781
+(Điều 1 Nghị định số 84/2016/NĐ-CP Về tiêu chuẩn, điều kiện đối với kiểm toán viên hành nghề, tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng ngày 01/07/2016 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
----
+Nghị định này quy định về tiêu chuẩn, Điều kiện đối với kiểm toán viên hành nghề, tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng.
 
+Điều 17.2.NĐ.2.2. Đối tượng áp dụng
 
-### Điều 17.2.NĐ.1.1. Phạm vi điều chỉnh
+(Điều 2 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-*Nội dung chưa có sẵn*
+1. Tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng.
 
-**Chỉ mục:** 1
+2. Đơn vị có lợi ích công chúng, ngoại trừ tổ chức tín dụng không phải là công ty đại chúng, tổ chức tín dụng không thực hiện niêm yết, chào bán chứng khoán ra công chúng.
 
-**Mã phân cấp:** 1700200000000000100000200500000000000000
+3. Tổ chức, cá nhân khác có liên quan đến việc xem xét tiêu chuẩn, Điều kiện đối với kiểm toán viên hành nghề, tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng.
 
-**ID:** dk_00023782
+Điều 17.2.TT.1.1. Phạm vi điều chỉnh
 
----
+(Điều 1 Thông tư số 150/2012/TT-BTC Hướng dẫn cập nhật kiến thức hàng năm cho kiểm toán viên đăng ký hành nghề kiểm toán ngày 12/09/2012 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
+Thông tư này hướng dẫn về cập nhật kiến thức hàng năm cho kiểm toán viên đăng ký hành nghề kiểm toán theo quy định tại điểm h khoản 2 Điều 11 Luật Kiểm toán độc lập.
 
-### Điều 17.2.NĐ.1.2. Đối tượng áp dụng
+Điều 17.2.TT.1.2. Đối tượng áp dụng
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Chỉ mục:** 2
+1. Kiểm toán viên đăng ký hành nghề kiểm toán.
 
-**Mã phân cấp:** 1700200000000000100000200997500000000000
+2. Hội nghề nghiệp về kế toán, kiểm toán (sau đây gọi chung là hội nghề nghiệp) được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận tổ chức các lớp học cập nhật kiến thức cho kiểm toán viên.
 
-**ID:** dk_00023783
+3. Cơ sở đào tạo được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận tổ chức các lớp học cập nhật kiến thức cho kiểm toán viên.
 
----
+4. Doanh nghiệp kiểm toán được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận tự tổ chức các lớp học cập nhật kiến thức cho kiểm toán viên của doanh nghiệp mình.
 
+5. Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tổ chức các lớp học cập nhật kiến thức cho kiểm toán viên là hội viên của mình.
 
-### Điều 17.2.NĐ.2.1. Phạm vi Điều chỉnh
+6. Tổ chức, cá nhân khác có liên quan đến việc cập nhật kiến thức cho kiểm toán viên.
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.2.1. Phạm vi điều chỉnh
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 202/2012/TT-BTC Hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán ngày 19/11/2012 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/03/2013 )
 
-**Mã phân cấp:** 1700200000000000100000201987525000000000
+Thông tư này quy định về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán theo quy định tại điểm i khoản 2 Điều 11 Luật kiểm toán độc lập.
 
-**ID:** dk_00023784
+Điều 17.2.TT.2.2. Đối tượng áp dụng
 
----
+(Điều 2 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
+1. Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
-### Điều 17.2.NĐ.2.2. Đối tượng áp dụng
+2. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi chung là doanh nghiệp kiểm toán).
 
-*Nội dung chưa có sẵn*
+3. Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán.
 
-**Chỉ mục:** 2
+Điều 17.2.TT.3.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 1700200000000000100000202967649750000000
+(Điều 1 Thông tư số 203/2012/TT-BTC Về trình tự, thủ tục cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán ngày 19/11/2012 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/05/2013 )
 
-**ID:** dk_00023785
+Thông tư này quy định về trình tự, thủ tục cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
----
+Điều 17.2.TT.3.2. Đối tượng áp dụng
 
+(Điều 2 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-### Điều 17.2.TT.1.1. Phạm vi điều chỉnh
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi chung là doanh nghiệp kiểm toán).
 
-*Nội dung chưa có sẵn*
+2. Tổ chức, cá nhân có liên quan đến việc cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán**.**
 
-**Chỉ mục:** 1
+Điều 17.2.TT.4.2. Phạm vi và đối tượng áp dụng
 
-**Mã phân cấp:** 1700200000000000100000203452811501250000
+(Điều 2 Thông tư số 214/2012/TT-BTC Ban hành hệ thống chuẩn mực kiểm toán Việt Nam ngày 06/12/2012 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-**ID:** dk_00023786
+Thông tư này ban hành hệ thống chuẩn mực kiểm toán Việt Nam áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ kiểm toán độc lập.
 
----
+Điều 17.2.TT.5.1. Phạm vi điều chỉnh
 
+(Điều 1 Thông tư số 183/2013/TT-BTC Về kiểm toán độc lập đối với đơn vị có lợi ích công chúng ngày 04/12/2013 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-### Điều 17.2.TT.1.2. Đối tượng áp dụng
+1. Thông tư này quy định về kiểm toán độc lập đối với đơn vị có lợi ích công chúng. Đơn vị có lợi ích công chúng là đơn vị được quy định tại Điều 4 của Thông tư này.
 
-*Nội dung chưa có sẵn*
+2. Kiểm toán độc lập đối với tổ chức tín dụng là công ty đại chúng và tổ chức tín dụng thực hiện niêm yết, chào bán chứng khoán ra công chúng phải áp dụng các quy định của Thông tư này, Luật các tổ chức tín dụng và các quy định pháp luật có liên quan.
 
-**Chỉ mục:** 2
+Điều 17.2.TT.5.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1700200000000000100000203935547443743000
+(Điều 2 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-**ID:** dk_00023787
+1. Tổ chức kiểm toán được chấp thuận, kiểm toán viên hành nghề được chấp thuận.
 
----
+2. Đơn vị có lợi ích công chúng.
 
+3. Tổ chức, cá nhân khác có liên quan đến việc kiểm toán báo cáo tài chính, các thông tin tài chính và các báo cáo khác của các đơn vị có lợi ích công chúng.
 
-### Điều 17.2.TT.2.1. Phạm vi điều chỉnh
+Điều 17.2.TT.6.1. Phạm vi điều chỉnh
 
-*Nội dung chưa có sẵn*
+(Điều 1 Thông tư số 157/2014/TT-BTC Quy định về kiểm soát chất lượng dịch vụ kiểm toán ngày 23/10/2014 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 23/10/2014 )
 
-**Chỉ mục:** 1
+Thông tư này quy định việc tổ chức và thực hiện kiểm soát chất lượng dịch vụ kiểm toán, dịch vụ soát xét báo cáo tài chính, thông tin tài chính và dịch vụ đảm bảo khác theo quy định tại Khoản 1 Điều 40 Luật kiểm toán độc lập (sau đây gọi tắt là dịch vụ kiểm toán) của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
-**Mã phân cấp:** 1700200000000000100000204896191969305000
+Điều 17.2.TT.6.2. Đối tượng áp dụng
 
-**ID:** dk_00023788
+(Điều 2 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
----
+1. Doanh nghiệp kiểm toán đang hoạt động tại Việt Nam, chi nhánh của doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi tắt là doanh nghiệp kiểm toán).
 
+2. Kiểm toán viên hành nghề.
 
-### Điều 17.2.TT.2.2. Đối tượng áp dụng
+3. Tổ chức nghề nghiệp về kiểm toán.
 
-*Nội dung chưa có sẵn*
+4. Tổ chức, cá nhân thực hiện việc kiểm soát chất lượng dịch vụ kiểm toán.
 
-**Chỉ mục:** 2
+5. Cơ quan, tổ chức, cá nhân khác có liên quan.
 
-**Mã phân cấp:** 1700200000000000100000205847230049611000
+Điều 17.2.TT.13.1. Phạm vi điều chỉnh
 
-**ID:** dk_00023789
+(Điều 1 Thông tư số 91/2017/TT-BTC Quy định về việc thi, cấp, quản lý chứng chỉ kiểm toán viên và chứng chỉ kế toán viên ngày 31/08/2017 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
----
+Thông tư này quy định về việc thi, cấp, quản lý chứng chỉ kiểm toán viên và chứng chỉ kế toán viên theo quy định tại điểm c khoản 2 Điều 11 Luật kiểm toán độc lập và quy định tại Điều 57, điểm d khoản 2 Điều 71 Luật kế toán.
 
+Điều 17.2.TT.13.2. Đối tượng áp dụng
 
-### Điều 17.2.TT.3.1. Phạm vi điều chỉnh
+(Điều 2 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-*Nội dung chưa có sẵn*
+Đối tượng áp dụng của Thông tư này bao gồm:
 
-**Chỉ mục:** 1
+1. Đối tượng dự thi theo quy định tại Điều 3 và khoản 1 Điều 10 Thông tư này.
 
-**Mã phân cấp:** 1700200000000000100000207259521598866000
+2. Hội đồng thi kiểm toán viên, kế toán viên (sau đây gọi tắt là Hội đồng thi).
 
-**ID:** dk_00023790
+3. Tổ chức nghề nghiệp về kế toán, kiểm toán.
 
----
+4. Tổ chức, cá nhân khác có liên quan đến việc thi, cấp, quản lý chứng chỉ kiểm toán viên và chứng chỉ kế toán viên.
 
+Điều 17.2.TT.14.1. Phạm vi điều chỉnh
 
-### Điều 17.2.TT.3.2. Đối tượng áp dụng
+(Điều 1 Thông tư số 40/2020/TT-BTC Huớng dẫn chế độ báo cáo trong lĩnh vực kế toán, kiểm toán độc lập tại Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một sô điều của Luật kiểm toán độc lập ngày 15/05/2020 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/07/2020 )
 
-*Nội dung chưa có sẵn*
+Thông tư này hướng dẫn chế độ báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán, kiểm toán độc lập qua biên giới phát sinh trong kỳ tại Việt Nam và tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài, doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kế toán, kiểm toán độc lập qua biên giới theo quy định tại Điều 32, Điều 33 Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Điều 13, Điều 14 Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập.
 
-**Chỉ mục:** 2
+Điều 17.2.TT.14.2. Đối tượng áp dụng
 
-**Mã phân cấp:** 1700200000000000100000208650628774883000
+(Điều 2 Thông tư số 40/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**ID:** dk_00023791
+1. Doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam có liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài để cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
 
----
+2. Doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài có cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
 
+3. Doanh nghiệp kiểm toán tại Việt Nam có liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
 
-### Điều 17.2.TT.4.2. Phạm vi và đối tượng áp dụng
+4. Doanh nghiệp kiểm toán nước ngoài có cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1700200000000000100000210477616199385000
-
-**ID:** dk_00023792
-
----
-
-
-### Điều 17.2.TT.5.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1700200000000000100000212715675794400000
-
-**ID:** dk_00023793
-
----
-
-
-### Điều 17.2.TT.5.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1700200000000000100000214897783899540000
-
-**ID:** dk_00023794
-
----
-
-
-### Điều 17.2.TT.6.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1700200000000000100000217450850382553000
-
-**ID:** dk_00023795
-
----
-
-
-### Điều 17.2.TT.6.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1700200000000000100000219927324871076000
-
-**ID:** dk_00023796
-
----
-
-
-### Điều 17.2.TT.13.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1700200000000000100000225132048754456000
-
-**ID:** dk_00023797
-
----
-
-
-### Điều 17.2.TT.13.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1700200000000000100000229998465585416000
-
-**ID:** dk_00023798
-
----
-
-
-### Điều 17.2.TT.14.1. Phạm vi điều chỉnh
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 1
-
-**Mã phân cấp:** 1700200000000000100000280272840040000010
-
-**ID:** dk_00023799
-
----
-
-
-### Điều 17.2.TT.14.2. Đối tượng áp dụng
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 1700200000000000100000280272840040000020
-
-**ID:** dk_00023800
-
----
-
-
-### Điều 17.2.LQ.3. Áp dụng Luật Kiểm toán độc lập, điều ước quốc tế và các luật có liên quan
+5. Tổ chức, cá nhân có liên quan đến chế độ báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán, kiểm toán qua biên giới phát sinh trong kỳ tại Việt Nam và tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài, doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kế toán, kiểm toán qua biên giới.
 
 Điều 17.2.LQ.3. Áp dụng Luật Kiểm toán độc lập, điều ước quốc tế và các luật có liên quan
 
-**Chỉ mục:** 3
+(Điều 3 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000100000300000000000000000
+ 1. Tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài tham gia hoạt động kiểm toán độc lập trên lãnh thổ Việt Nam phải tuân theo Luật này và các quy định khác của pháp luật có liên quan.
 
-**ID:** dk_00023801
+ 2. Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.Điều 17.2.LQ.4. Mục đích của kiểm toán độc lập
 
----
+(Điều 4 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
+ Hoạt động kiểm toán độc lập nhằm góp phần công khai, minh bạch thông tin kinh tế, tài chính của đơn vị được kiểm toán và doanh nghiệp, tổ chức khác; làm lành mạnh môi trường đầu tư; thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng; phát hiện và ngăn chặn vi phạm pháp luật; nâng cao hiệu lực, hiệu quả quản lý, điều hành kinh tế, tài chính của Nhà nước và hoạt động kinh doanh của doanh nghiệp.Điều 17.2.LQ.5. Giải thích từ ngữ
 
-### Điều 17.2.LQ.4. Mục đích của kiểm toán độc lập
+(Điều 5 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-*Nội dung chưa có sẵn*
+ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 4
+ 1. *Kiểm toán độc lập *là việc kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm tra, đưa ra ý kiến độc lập của mình về báo cáo tài chính và công việc kiểm toán khác theo hợp đồng kiểm toán.
 
-**Mã phân cấp:** 1700200000000000100000400000000000000000
+ 2. *Kiểm toán viên *là người được cấp chứng chỉ kiểm toán viên theo quy định của pháp luật hoặc người có chứng chỉ của nước ngoài được Bộ Tài chính công nhận và đạt kỳ thi sát hạch về pháp luật Việt Nam.
 
-**ID:** dk_00023802
+ 3. *Kiểm toán viên hành nghề *là kiểm toán viên đã được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán.
 
----
+ 4. *Thành viên tham gia cuộc kiểm toán *bao gồm kiểm toán viên hành nghề, kiểm toán viên và các thành viên khác.
 
+ 5. *Doanh nghiệp kiểm toán *là doanh nghiệp có đủ điều kiện để kinh doanh dịch vụ kiểm toán theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
 
-### Điều 17.2.LQ.5. Giải thích từ ngữ
+ 6. *Đơn vị được kiểm toán *là doanh nghiệp, tổ chức được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện kiểm toán theo hợp đồng kiểm toán.
 
-*Nội dung chưa có sẵn*
+ 7. *Đơn vị có lợi ích công chúng *là doanh nghiệp, tổ chức mà tính chất và quy mô hoạt động có liên quan nhiều đến lợi ích của công chúng.
 
-**Chỉ mục:** 5
+ 8. *Hành nghề kiểm toán *là hoạt động kinh doanh dịch vụ kiểm toán của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
-**Mã phân cấp:** 1700200000000000100000500000000000000000
+ 9. *Kiểm toán báo cáo tài chính *là việc kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm tra, đưa ra ý kiến về tính trung thực và hợp lý trên các khía cạnh trọng yếu của báo cáo tài chính của đơn vị được kiểm toán theo quy định của chuẩn mực kiểm toán.
 
-**ID:** dk_00023803
+ 10. *Kiểm toán tuân thủ *là việc kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm tra, đưa ra ý kiến về việc tuân thủ pháp luật, quy chế, quy định mà đơn vị được kiểm toán phải thực hiện.
 
----
+ 11. *Kiểm toán hoạt động *là việc kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm tra, đưa ra ý kiến về tính kinh tế, hiệu lực và hiệu quả hoạt động của một bộ phận hoặc toàn bộ đơn vị được kiểm toán.
 
+ 12. *Báo cáo kiểm toán *là văn bản do kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam lập sau khi kết thúc việc kiểm toán, đưa ra ý kiến về báo cáo tài chính và những nội dung khác đã được kiểm toán theo hợp đồng kiểm toán.
 
-### Điều 17.2.NĐ.1.3. Giải thích từ ngữ
+ 13. *Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam *là đơn vị phụ thuộc của doanh nghiệp kiểm toán nước ngoài, không có tư cách pháp nhân, được doanh nghiệp kiểm toán nước ngoài bảo đảm chịu trách nhiệm về mọi nghĩa vụ, cam kết của chi nhánh tại Việt Nam.Điều 17.2.NĐ.1.3. Giải thích từ ngữ
 
-*Nội dung chưa có sẵn*
+(Điều 3 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Chỉ mục:** 3
+Trong Nghị định này, các thuật ngữ dưới đây được hiểu như sau:
 
-**Mã phân cấp:** 170020000000000010000050000000000000000000402429900170000300
+1. Doanh nghiệp kiểm toán tại Việt Nam: Là doanh nghiệp được thành lập và hoạt động theo quy định của pháp luật Việt Nam, có đủ điều kiện kinh doanh dịch vụ kiểm toán theo quy định và đã được Bộ Tài chính Việt Nam cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
-**ID:** dk_00023804
+2. Người có trách nhiệm quản lý, điều hành: Bao gồm chủ sở hữu, giám đốc doanh nghiệp tư nhân, thành viên công ty hợp danh, Chủ tịch Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, thành viên Hội đồng thành viên, Giám đốc hoặc Tổng Giám đốc, Phó Giám đốc hoặc Phó Tổng Giám đốc Công ty; Giám đốc, Phó Giám đốc Chi nhánh doanh nghiệp kiểm toán và các chức danh quản lý khác theo quy định tại Điều lệ hoặc văn bản tương đương của doanh nghiệp, tổ chức.
 
----
+3. Cung cấp dịch vụ kiểm toán qua biên giới: Là việc cung cấp dịch vụ kiểm toán của các doanh nghiệp kiểm toán tại một quốc gia cho các doanh nghiệp, tổ chức thuộc một quốc gia khác.
 
+Điều 17.2.NĐ.2.3. Giải thích từ ngữ
 
-### Điều 17.2.NĐ.2.3. Giải thích từ ngữ
+(Điều 3 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-*Nội dung chưa có sẵn*
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+1. “Tổ chức kiểm toán” là doanh nghiệp kiểm toán và chi nhánh doanh nghiệp kiểm toán nước ngoài hoạt động hợp pháp tại Việt Nam.
 
-**Mã phân cấp:** 170020000000000010000050000000000000000000402587000840000300
+2. “Tổ chức kiểm toán được chấp thuận” là tổ chức kiểm toán được cơ quan nhà nước có thẩm quyền chấp thuận thực hiện kiểm toán các đơn vị có lợi ích công chúng.
 
-**ID:** dk_00023805
+3. “Kiểm toán viên hành nghề được chấp thuận” là kiểm toán viên hành nghề được cơ quan nhà nước có thẩm quyền chấp thuận thực hiện kiểm toán các đơn vị có lợi ích công chúng.
 
----
+4. “Kỳ chấp thuận” là kỳ mà tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng, được tính theo năm dương lịch từ ngày 01 tháng 01 đến ngày 31 tháng 12.
 
+Điều 17.2.TT.5.3. Giải thích từ ngữ
 
-### Điều 17.2.TT.5.3. Giải thích từ ngữ
+(Điều 3 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-*Nội dung chưa có sẵn*
+ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**Chỉ mục:** 3
+ 1. "*Báo cáo tài chính năm của đơn vị có lợi ích công chúng*" là báo cáo tài chính được lập theo quy định của pháp luật về kế toán, bao gồm báo cáo tài chính riêng, báo cáo tài chính tổng hợp và báo cáo tài chính hợp nhất của đơn vị có lợi ích công chúng nếu đơn vị có lợi ích công chúng là đối tượng phải tổng hợp báo cáo tài chính hoặc hợp nhất báo cáo tài chính theo quy định của pháp luật về kế toán.
 
-**Mã phân cấp:** 170020000000000010000050000000000000000000802493001830000300
+ 2. "*Tổ chức kiểm toán*" là doanh nghiệp kiểm toán và chi nhánh doanh nghiệp kiểm toán nước ngoài hoạt động hợp pháp tại Việt Nam.
 
-**ID:** dk_00023806
+ 3. "*Tổ chức kiểm toán được chấp thuận*" là tổ chức kiểm toán được cơ quan Nhà nước có thẩm quyền chấp thuận thực hiện kiểm toán, soát xét báo cáo tài chính, các thông tin tài chính và các báo cáo khác của các đơn vị có lợi ích công chúng.
 
----
+ 4. "*Kiểm toán viên hành nghề được chấp thuận*" là kiểm toán viên hành nghề được cơ quan Nhà nước có thẩm quyền chấp thuận thực hiện kiểm toán, soát xét báo cáo tài chính, các thông tin tài chính và các báo cáo khác của các đơn vị có lợi ích công chúng.
 
+ 5. "*Cơ quan có thẩm quyền chấp thuận*" là Bộ Tài chính đối với việc chấp thuận kiểm toán cho đơn vị có lợi ích công chúng khác; là Ủy ban Chứng khoán Nhà nước đối với việc chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán.Điều 17.2.TT.5.4. Đơn vị có lợi ích công chúng
 
-### Điều 17.2.TT.5.4. Đơn vị có lợi ích công chúng
+(Điều 4 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-*Nội dung chưa có sẵn*
+Trong phạm vi hướng dẫn của Thông tư này, đơn vị có lợi ích công chúng bao gồm:
 
-**Chỉ mục:** 4
+1. Đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán, gồm: công ty đại chúng quy mô lớn, tổ chức niêm yết, tổ chức phát hành chứng khoán ra công chúng, công ty chứng khoán, công ty đầu tư chứng khoán, quỹ và các công ty quản lý quỹ.
 
-**Mã phân cấp:** 170020000000000010000050000000000000000000802493001830000400
+2. Đơn vị có lợi ích công chúng khác, gồm:
 
-**ID:** dk_00023807
+a) Công ty đại chúng ngoại trừ các công ty đại chúng quy mô lớn quy định tại khoản 1 Điều này;
 
----
+b) Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài (trừ các doanh nghiệp bảo hiểm thuộc quy định tại khoản 1 Điều này);
 
+c) Doanh nghiệp, tổ chức khác có liên quan đến lợi ích của công chúng do tính chất, quy mô hoạt động của đơn vị đó theo quy định của pháp luật.
 
-### Điều 17.2.TT.6.3. Giải thích từ ngữ
+Khái niệm công ty đại chúng quy mô lớn được quy định tại khoản 2 Điều 2 của Thông tư số 52/2012/TT-BTC ngày 05/4/2012 của Bộ Tài chính hướng dẫn về việc công bố thông tin trên thị trường chứng khoán.
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.6.3. Giải thích từ ngữ
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Mã phân cấp:** 170020000000000010000050000000000000000000802525301570000300
+ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
-**ID:** dk_00023808
+ 1. Pháp luật và các quy định là những văn bản quy phạm pháp luật do các cơ quan có thẩm quyền ban hành; các văn bản do tổ chức nghề nghiệp, doanh nghiệp và tổ chức khác quy định không trái với pháp luật mà đối tượng được kiểm soát chất lượng dịch vụ kiểm toán phải tuân thủ.
 
----
+ 2. Chuẩn mực nghề nghiệp bao gồm các chuẩn mực kiểm toán, chuẩn mực về dịch vụ soát xét, chuẩn mực về dịch vụ đảm bảo khác, chuẩn mực và các quy định về đạo đức nghề nghiệp có liên quan.
 
+ 3. Kiểm soát chất lượng dịch vụ kiểm toán là việc kiểm tra chất lượng dịch vụ kiểm toán và giám sát hoạt động kiểm toán của doanh nghiệp kiểm toán và kiểm toán viên hành nghề trên cơ sở các quy định và thủ tục do cơ quan có thẩm quyền xây dựng và ban hành nhằm đảm bảo cho doanh nghiệp kiểm toán, kiểm toán viên hành nghề tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan trong quá trình hoạt động.
 
-### Điều 17.2.LQ.6. Chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán
+ 4. Kiểm tra chất lượng dịch vụ kiểm toán là việc thực hiện các thủ tục để đánh giá về hệ thống kiểm soát chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán và đánh giá chất lượng của các hợp đồng dịch vụ kiểm toán đã hoàn thành của doanh nghiệp kiểm toán và kiểm toán viên hành nghề.
 
-Điều 17.2.LQ.6. Chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán
+ 5. Giám sát hoạt động kiểm toán là quy trình quản lý, xem xét và đánh giá thường xuyên việc tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan của doanh nghiệp kiểm toán, kiểm toán viên hành nghề.Điều 17.2.LQ.6. Chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán
 
-**Chỉ mục:** 6
+(Điều 6 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000100000600000000000000000
+ 1. Chuẩn mực kiểm toán là những quy định và hướng dẫn về yêu cầu, nguyên tắc, thủ tục kiểm toán và xử lý các mối quan hệ phát sinh trong hoạt động kiểm toán mà thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải tuân thủ.
 
-**ID:** dk_00023809
+ 2. Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán là những quy định và hướng dẫn về nguyên tắc, nội dung áp dụng các tiêu chuẩn đạo đức nghề nghiệp đối với thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
----
+ 3. Chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán là cơ sở để kiểm tra, đánh giá chất lượng kiểm toán và đạo đức nghề nghiệp của thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
+ 4. Bộ Tài chính quy định chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán trên cơ sở chuẩn mực quốc tế.Điều 17.2.TT.4.1. Ban hành kèm theo Thông tư này ba mươi bảy (37) chuẩn mực kiểm toán Việt Nam có số hiệu và tên gọi như sau:
 
-### Điều 17.2.TT.4.1. Ban hành kèm theo Thông tư này ba mươi bảy (37) chuẩn mực kiểm toán Việt Nam có số hiệu và tên gọi như sau:
+(Điều 1 Thông tư số 214/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-Điều 17.2.TT.4.1. Ban hành kèm theo Thông tư này ba mươi bảy (37) chuẩn mực kiểm toán Việt Nam có số hiệu và tên gọi như sau:
+1. Chuẩn mực kiểm soát chất lượng số 1- Kiểm soát chất lượng doanh nghiệp thực hiện kiểm toán, soát xét báo cáo tài chính, dịch vụ đảm bảo và các dịch vụ liên quan khác (VSQC1).
 
-**Chỉ mục:** 1
+2. Chuẩn mực số 200 - Mục tiêu tổng thể của kiểm toán viên và doanh nghiệp kiểm toán khi thực hiện kiểm toán theo chuẩn mực kiểm toán Việt Nam.
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802456702140000100
+3. Chuẩn mực số 210- Hợp đồng kiểm toán.
 
-**ID:** dk_00023810
+4. Chuẩn mực số 220- Kiểm soát chất lượng hoạt động kiểm toán báo cáo tài chính.
 
----
+5. Chuẩn mực số 230- Tài liệu, hồ sơ kiểm toán.
 
+6. Chuẩn mực số 240- Trách nhiệm của kiểm toán viên liên quan đến gian lận trong quá trình kiểm toán báo cáo tài chính.
 
-### Điều 17.2.TT.7.1. Ban hành kèm theo Thông tư này hai (02) chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét, bao gồm:
+7. Chuẩn mực số 250- Xem xét tính tuân thủ pháp luật và các quy định trong kiểm toán báo cáo tài chính.
+
+8. Chuẩn mực số 260- Trao đổi các vấn đề với Ban quản trị đơn vị được kiểm toán.
+
+9. Chuẩn mực số 265- Trao đổi về những khiếm khuyết trong kiểm soát nội bộ với Ban quản trị và Ban Giám đốc đơn vị được kiểm toán.
+
+10. Chuẩn mực số 300- Lập kế hoạch kiểm toán báo cáo tài chính.
+
+11. Chuẩn mực số 315- Xác định và đánh giá rủi ro có sai sót trọng yếu thông qua hiểu biết về đơn vị được kiểm toán và môi trường của đơn vị.
+
+12. Chuẩn mực số 320- Mức trọng yếu trong lập kế hoạch và thực hiện kiểm toán.
+
+13. Chuẩn mực số 330- Biện pháp xử lý của kiểm toán viên đối với rủi ro đã đánh giá.
+
+14. Chuẩn mực số 402- Các yếu tố cần xem xét khi kiểm toán đơn vị có sử dụng dịch vụ bên ngoài.
+
+15. Chuẩn mực số 450- Đánh giá các sai sót phát hiện trong quá trình kiểm toán.
+
+16. Chuẩn mực số 500- Bằng chứng kiểm toán.
+
+17. Chuẩn mực số 501- Bằng chứng kiểm toán đối với các khoản mục và sự kiện đặc biệt.
+
+18. Chuẩn mực số 505- Thông tin xác nhận từ bên ngoài.
+
+19. Chuẩn mực số 510- Kiểm toán năm đầu tiên – Số dư đầu kỳ.
+
+20. Chuẩn mực số 520- Thủ tục phân tích
+
+21. Chuẩn mực số 530- Lấy mẫu kiểm toán.
+
+22. Chuẩn mực số 540- Kiểm toán các ước tính kế toán (bao gồm ước tính kế toán về giá trị hợp lý và các thuyết minh liên quan).
+
+23. Chuẩn mực số 550- Các bên liên quan.
+
+24. Chuẩn mực số 560- Các sự kiện phát sinh sau ngày kết thúc kỳ kế toán.
+
+25. Chuẩn mực số 570- Hoạt động liên tục.
+
+26. Chuẩn mực số 580- Giải trình bằng văn bản.
+
+27. Chuẩn mực số 600- Lưu ý khi kiểm toán báo cáo tài chính tập đoàn (kể cả công việc của kiểm toán viên đơn vị thành viên).
+
+28. Chuẩn mực số 610- Sử dụng công việc của kiểm toán viên nội bộ.
+
+29. Chuẩn mực số 620- Sử dụng công việc của chuyên gia.
+
+30. Chuẩn mực số 700- Hình thành ý kiến kiểm toán và báo cáo kiểm toán về báo cáo tài chính.
+
+31. Chuẩn mực số 705- Ý kiến kiểm toán không phải là ý kiến chấp nhận toàn phần.
+
+32. Chuẩn mực số 706- Đoạn “Vấn đề cần nhấn mạnh” và “Vấn đề khác” trong báo cáo kiểm toán về báo cáo tài chính.
+
+33. Chuẩn mực số 710- Thông tin so sánh - Dữ liệu tương ứng và báo cáo tài chính so sánh.
+
+34. Chuẩn mực số 720- Các thông tin khác trong tài liệu có báo cáo tài chính đã được kiểm toán.
+
+35. Chuẩn mực số 800- Lưu ý khi kiểm toán báo cáo tài chính được lập theo khuôn khổ về lập và trình bày báo cáo tài chính cho mục đích đặc biệt.
+
+36. Chuẩn mực số 805- Lưu ý khi kiểm toán báo cáo tài chính riêng lẻ và khi kiểm toán các yếu tố, tài khoản hoặc khoản mục cụ thể của báo cáo tài chính.
+
+37. Chuẩn mực số 810- Dịch vụ báo cáo về báo cáo tài chính tóm tắt.
+
+214_2012_TT-BTC_1_179084.pdf
+
+214_2012_TT-BTC_2_179084.pdf
+
+214_2012_TT-BTC_3_179084.pdf
+
+214_2012_TT-BTC_4_179084.pdf
+
+214_2012_TT-BTC_6_179084.pdf
+
+214_2012_TT-BTC_7_179084.pdf
+
+214_2012_TT-BTC_8_179084.pdf
 
 Điều 17.2.TT.7.1. Ban hành kèm theo Thông tư này hai (02) chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét, bao gồm:
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 65/2015/TT-BTC Ban hành các chuấn mực Việt Nam về hợp đồng địch vụ soát xét ngày 08/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000650000100
+1. Chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét số 2400 - Dịch vụ soát xét báo cáo tài chính quá khứ.
 
-**ID:** dk_00023811
+2. Chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét số 2410 - Soát xét thông tin tài chính giữa niên độ do kiểm toán viên độc lập của đơn vị thực hiện.
 
----
-
-
-### Điều 17.2.TT.7.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ soát xét báo cáo tài chính và thông tin tài chính theo quy định tại Điều 1 Thông tư này.
+65_2015_TT-BTC_278013.doc
 
 Điều 17.2.TT.7.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ soát xét báo cáo tài chính và thông tin tài chính theo quy định tại Điều 1 Thông tư này.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000650000200
-
-**ID:** dk_00023812
-
----
-
-
-### Điều 17.2.TT.8.1. Ban hành kèm theo Thông tư này ba (03) chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo khác, bao gồm:
+(Điều 2 Thông tư số 65/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.8.1. Ban hành kèm theo Thông tư này ba (03) chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo khác, bao gồm:
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 66/2015/TT-BTC Ban hành các chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo khác ngày 08/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000660000100
+1. Chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo số 3000 - Hợp đồng dịch vụ đảm bảo ngoài dịch vụ kiểm toán và soát xét thông tin tài chính quá khứ.
 
-**ID:** dk_00023813
+2. Chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo số 3400 - Kiểm tra thông tin tài chính tương lai.
 
----
+3. Chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo số 3420 - Hợp đồng dịch vụ đảm bảo về báo cáo tổng hợp thông tin tài chính theo quy ước trong bản cáo bạch.
 
+CHUẨN MỰC VIỆT NAM VỀ HỢP ĐỒNG DỊCH VỤ ĐẢM BẢO - 3400.docx
 
-### Điều 17.2.TT.8.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ đảm bảo khác theo quy định tại Điều 1 Thông tư này.
+CHUẨN MỰC VIỆT NAM VỀ HỢP ĐỒNG DỊCH VỤ ĐẢM BẢO - 3420.docx
+
+CHUẨN MỰC VIỆT NAM VỀ HỢP ĐỒNG DỊCH VỤ ĐẢM BẢO.docx
 
 Điều 17.2.TT.8.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ đảm bảo khác theo quy định tại Điều 1 Thông tư này.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000660000200
-
-**ID:** dk_00023814
-
----
-
-
-### Điều 17.2.TT.9.1. Ban hành kèm theo Thông tư này Chuẩn mực kiểm toán Việt Nam số 1000 - Kiểm toán báo cáo quyết toán dự án hoàn thành.
+(Điều 2 Thông tư số 66/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.9.1. Ban hành kèm theo Thông tư này Chuẩn mực kiểm toán Việt Nam số 1000 - Kiểm toán báo cáo quyết toán dự án hoàn thành.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 67/2015/TT-BTC Ban hành Chuẩn mực kiểm toán Việt Nam về kiểm toán báo cáo quyết toán dự án hoàn thành ngày 08/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000670000100
-
-**ID:** dk_00023815
-
----
-
-
-### Điều 17.2.TT.9.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ kiểm toán báo cáo quyết toán dự án hoàn thành theo quy định tại Điều 1 Thông tư này.
+chuẩn mực số 1000.docx
 
 Điều 17.2.TT.9.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ kiểm toán báo cáo quyết toán dự án hoàn thành theo quy định tại Điều 1 Thông tư này.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000670000200
-
-**ID:** dk_00023816
-
----
-
-
-### Điều 17.2.TT.10.1. Ban hành kèm theo Thông tư này hai (02) chuẩn mực Việt Nam về dịch vụ liên quan, bao gồm:
+(Điều 2 Thông tư số 67/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
 Điều 17.2.TT.10.1. Ban hành kèm theo Thông tư này hai (02) chuẩn mực Việt Nam về dịch vụ liên quan, bao gồm:
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 68/2015/TT-BTC Ban hành các chuẩn mực Việt Nam về dịch vụ liên quan ngày 08/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000680000100
+1. Chuẩn mực Việt Nam về dịch vụ liên quan số 4400 - Hợp đồng thực hiện các thủ tục thỏa thuận trước đối với thông tin tài chính.
 
-**ID:** dk_00023817
+2. Chuẩn mực Việt Nam về dịch vụ liên quan số 4410 - Dịch vụ tổng hợp thông tin tài chính.
 
----
-
-
-### Điều 17.2.TT.10.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề, doanh nghiệp dịch vụ kế toán, kế toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ liên quan theo quy định tại Điều 1 Thông tư này.
+chuan muc 4400-4410.docx
 
 Điều 17.2.TT.10.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề, doanh nghiệp dịch vụ kế toán, kế toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ liên quan theo quy định tại Điều 1 Thông tư này.
 
-**Chỉ mục:** 2
-
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000680000200
-
-**ID:** dk_00023818
-
----
-
-
-### Điều 17.2.TT.12.1. Ban hành kèm theo Thông tư này Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
+(Điều 2 Thông tư số 68/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.12.1. Ban hành kèm theo Thông tư này Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
 
-**Chỉ mục:** 1
+(Điều 1 Thông tư số 70/2015/TT-BTC Ban hành Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toản ngày 08/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000700000100
-
-**ID:** dk_00023819
-
----
-
-
-### Điều 17.2.TT.12.2. Thông tư này áp dụng đối với người có chứng chỉ hành nghề kế toán, người có chứng chỉ kiểm toán viên, doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và các đối tượng được quy định cụ thể trong nội dung Chuẩn mực, như sau:
+CHUẨN MỰC ĐẠO ĐỨC NGHỀ NGHIỆP KẾ TOÁN
 
 Điều 17.2.TT.12.2. Thông tư này áp dụng đối với người có chứng chỉ hành nghề kế toán, người có chứng chỉ kiểm toán viên, doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và các đối tượng được quy định cụ thể trong nội dung Chuẩn mực, như sau:
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 70/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 170020000000000010000060000000000000000000802545000700000200
+ 1. Phần A của Chuẩn mực áp dụng cho doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và người có chứng chỉ hành nghề kế toán, chứng chỉ kiểm toán viên.
 
-**ID:** dk_00023820
+ 2. Phần B của Chuẩn mực áp dụng cho doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và người có chứng chỉ hành nghề kế toán, chứng chỉ kiểm toán viên làm việc trong doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
----
+ 3. Phần C của Chuẩn mực áp dụng cho người có chứng chỉ hành nghề kế toán, chứng chỉ kiểm toán viên làm việc trong doanh nghiệp.Điều 17.2.LQ.7. Giá trị của báo cáo kiểm toán
 
+(Điều 7 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-### Điều 17.2.LQ.7. Giá trị của báo cáo kiểm toán
+ 1. Báo cáo kiểm toán về báo cáo tài chính đánh giá tính trung thực và hợp lý của báo cáo tài chính, phù hợp với chuẩn mực kế toán, chế độ kế toán do cơ quan, tổ chức có thẩm quyền ban hành.
 
-*Nội dung chưa có sẵn*
+ 2. Báo cáo kiểm toán tuân thủ đánh giá việc tuân thủ pháp luật, quy chế, quy định trong quản lý, sử dụng tiền, tài sản và các nguồn lực khác của đơn vị được kiểm toán.
 
-**Chỉ mục:** 7
+ 3. Báo cáo kiểm toán hoạt động đánh giá tính kinh tế, hiệu lực và hiệu quả trong quản lý, sử dụng tiền, tài sản và các nguồn lực khác của đơn vị được kiểm toán.
 
-**Mã phân cấp:** 1700200000000000100000700000000000000000
+ 4. Báo cáo kiểm toán được sử dụng để:
 
-**ID:** dk_00023821
+ a) Cổ đông, nhà đầu tư, bên tham gia liên doanh, liên kết, khách hàng và tổ chức, cá nhân khác có quyền lợi trực tiếp hoặc liên quan đến đơn vị được kiểm toán xử lý các quan hệ về quyền lợi và nghĩa vụ của các bên có liên quan;
 
----
+ b) Cơ quan nhà nước quản lý điều hành theo chức năng, nhiệm vụ được giao;
 
+ c) Đơn vị được kiểm toán phát hiện, xử lý và ngăn ngừa kịp thời sai sót, yếu kém trong hoạt động của đơn vị. Điều 17.2.LQ.8. Nguyên tắc hoạt động kiểm toán độc lập
 
-### Điều 17.2.LQ.8. Nguyên tắc hoạt động kiểm toán độc lập
+(Điều 8 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-Điều 17.2.LQ.8. Nguyên tắc hoạt động kiểm toán độc lập
+ 1. Tuân thủ pháp luật và chịu trách nhiệm trước pháp luật về hoạt động nghề nghiệp và báo cáo kiểm toán. 
 
-**Chỉ mục:** 8
+ 2. Tuân thủ chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán Việt Nam; đối với công việc kiểm toán theo hợp đồng kiểm toán mà yêu cầu áp dụng chuẩn mực kiểm toán khác thì phải tuân thủ chuẩn mực kiểm toán đó.
 
-**Mã phân cấp:** 1700200000000000100000800000000000000000
+ 3. Độc lập, trung thực, khách quan.
 
-**ID:** dk_00023822
+ 4. Bảo mật thông tin.Điều 17.2.LQ.9. Kiểm toán bắt buộc
 
----
+(Điều 9 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
+1. Kiểm toán bắt buộc là kiểm toán đối với báo cáo tài chính hàng năm, báo cáo quyết toán dự án hoàn thành và các thông tin tài chính khác của đơn vị được kiểm toán quy định tại khoản 1 và khoản 2 Điều 37 của Luật này và các quy định khác của pháp luật có liên quan.
 
-### Điều 17.2.LQ.9. Kiểm toán bắt buộc
+2. Hợp đồng kiểm toán báo cáo tài chính hàng năm của doanh nghiệp, tổ chức bắt buộc phải kiểm toán báo cáo tài chính phải được giao kết chậm nhất là ba mươi ngày trước ngày kết thúc kỳ kế toán năm.
 
-*Nội dung chưa có sẵn*
+3. Doanh nghiệp, tổ chức bắt buộc phải kiểm toán khi nộp báo cáo tài chính cho cơ quan nhà nước có thẩm quyền và khi công khai báo cáo tài chính phải có báo cáo kiểm toán đính kèm; trường hợp cơ quan nhà nước khi nhận báo cáo tài chính của doanh nghiệp, tổ chức bắt buộc phải kiểm toán mà không có báo cáo kiểm toán đính kèm thì có trách nhiệm thông báo với cơ quan nhà nước có thẩm quyền để xử lý theo quy định của pháp luật.
 
-**Chỉ mục:** 9
+Điều 17.2.LQ.10. Khuyến khích kiểm toán
 
-**Mã phân cấp:** 1700200000000000100000900000000000000000
+(Điều 10 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023823
+ Nhà nước khuyến khích doanh nghiệp, tổ chức thuê doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện kiểm toán báo cáo tài chính, báo cáo quyết toán dự án hoàn thành và các công việc kiểm toán khác trước khi nộp cho cơ quan nhà nước có thẩm quyền hoặc trước khi công khai tài chính.Điều 17.2.LQ.11. Quản lý nhà nước về hoạt động kiểm toán độc lập
 
----
+(Điều 11 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
 
+1. Chính phủ thống nhất quản lý nhà nước về hoạt động kiểm toán độc lập
 
-### Điều 17.2.LQ.10. Khuyến khích kiểm toán
+2. Bộ Tài chính chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về hoạt động kiểm toán độc lập, có các nhiệm vụ, quyền hạn sau đây:
 
-*Nội dung chưa có sẵn*
+a) Xây dựng, trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về kiểm toán độc lập;
 
-**Chỉ mục:** 10
+b) Xây dựng, trình Chính phủ quyết định chiến lược và chính sách phát triển hoạt động kiểm toán độc lập;
 
-**Mã phân cấp:** 1700200000000000100001000000000000000000
+c) Quy định điều kiện dự thi, việc tổ chức thi để cấp chứng chỉ kiểm toán viên; cấp, thu hồi và quản lý chứng chỉ kiểm toán viên;
 
-**ID:** dk_00023824
+d) Quy định mẫu Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán, cấp, cấp lại, điều chỉnh và thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
----
+đ) Đình chỉ kinh doanh dịch vụ kiểm toán;
 
+c) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về kiểm toán độc lập;
 
-### Điều 17.2.LQ.11. Quản lý nhà nước về hoạt động kiểm toán độc lập
+g) Thanh tra, kiểm tra hoạt động thuộc lĩnh vực kiểm toán độc lập của tổ chức nghề nghiệp về kiểm toán;
 
-Điều 17.2.LQ.11. Quản lý nhà nước về hoạt động kiểm toán độc lập
+h) Quy định về cập nhật kiến thức cho kiểm toán viên, kiểm toán viên hành nghề;
 
-**Chỉ mục:** 11
+i)  Quy định về đăng ký và quản lý hành nghề kiểm toán; quy định về đình chỉ hành nghề kiểm toán, thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán; quy định về công khai danh sách doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và kiểm toán viên hành nghề;
 
-**Mã phân cấp:** 1700200000000000100001100000000000000000
+k) Quy định về kiểm soát chất lượng dịch vụ kiểm toán;
 
-**ID:** dk_00023825
+l) Tổng kết, đánh giá về hoạt động kiểm toán độc lập và thực hiện các biện pháp hỗ trợ phát triển hoạt động kiểm toán độc lập;
 
----
+m) Hợp tác quốc tế về kiểm toán độc lập.
 
+3. Bộ, cơ quan ngang Bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Tài chính thực hiện quản lý nhà nước về hoạt động kiểm toán độc lập.
 
-### Điều 17.2.TT.1.3. Đối tượng cập nhật kiến thức
+4. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý nhà nước về hoạt động kiểm toán độc lập tại địa phương.
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.1.3. Đối tượng cập nhật kiến thức
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, bởi Điều 1 Thông tư số 56/2015/TT-BTC có hiệu lực thi hành kể từ ngày 08/06/2015)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000300
-
-**ID:** dk_00023826
-
----
-
-
-### Điều 17.2.TT.1.4. Nội dung, tài liệu cập nhật kiến thức
+Đối tượng cập nhật kiến thức là kiểm toán viên hành nghề, kiểm toán viên đăng ký hành nghề kiểm toán; trừ trường hợp đăng ký hành nghề kiểm toán lần đầu trong thời gian từ ngày được cấp chứng chỉ kiểm toán viên đến ngày 31/12 của năm sau năm được cấp chứng chỉ kiểm toán viên
 
 Điều 17.2.TT.1.4. Nội dung, tài liệu cập nhật kiến thức
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000400
+1. Về nội dung cập nhật kiến thức:
 
-**ID:** dk_00023827
+a) Các quy định của pháp luật về kế toán, kiểm toán, tài chính, thuế và pháp luật về kinh tế có liên quan của Việt Nam;
 
----
+b) Kỹ năng quản lý, kinh nghiệm thực hành kế toán, kiểm toán (bao gồm cả quy trình nghiệp vụ kế toán, kiểm toán), chuẩn mực kế toán, kiểm toán quốc tế và đạo đức nghề nghiệp;
 
+c) Các kiến thức và thông tin liên quan đến nghề nghiệp.
 
-### Điều 17.2.TT.1.5. Thời gian cập nhật kiến thức
+2. Về tài liệu cập nhật kiến thức:
 
-*Nội dung chưa có sẵn*
+a) Tài liệu cập nhật kiến thức phải chứa đựng các nội dung theo quy định tại khoản 1 Điều này;
 
-**Chỉ mục:** 5
+b) Tài liệu cập nhật kiến thức được trình bày dưới dạng văn bản hoặc dữ liệu điện tử.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000500
+Điều 17.2.TT.1.5. Thời gian cập nhật kiến thức
 
-**ID:** dk_00023828
+(Điều 5 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, bởi Điều 1 Thông tư số 56/2015/TT-BTC có hiệu lực thi hành kể từ ngày 08/06/2015)
 
----
+1. Thời gian cập nhật kiến thức tối thiểu 40 giờ trong năm trước liền kề năm đăng ký hành nghề kiểm toán, trong đó có tối thiểu 20 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam và 04 giờ cập nhật kiến thức về đạo đức nghề nghiệp.
 
+2. . Kiểm toán viên không hành nghề kiểm toán trong thời gian từ 24 tháng liên tục trở lên tính đến thời điểm đăng ký phải có tối thiểu 80 giờ cập nhật kiến thức trong năm trước liền kề năm đăng ký hành nghề kiểm toán, trong đó có tối thiểu 40 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam và 08 giờ cập nhật kiến thức về đạo đức nghề nghiệp.
 
-### Điều 17.2.TT.1.6. Hình thức cập nhật kiến thức
+3. Số giờ cập nhật kiến thức hàng năm của kiểm toán viên được tính cộng dồn, từ ngày 16/8 của năm trước đến ngày 15/8 của năm sau.
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.1.6. Hình thức cập nhật kiến thức
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000600
+1. Kiểm toán viên tham gia các lớp học do hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán tổ chức, cụ thể như sau:
 
-**ID:** dk_00023829
+a) Lớp học do hội nghề nghiệp được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận tổ chức chung cho tất cả các kiểm toán viên;
 
----
+b) Lớp học do cơ sở đào tạo được Bộ Tài chính chấp thuận tổ chức chung cho tất cả các kiểm toán viên;
 
+c) Lớp học do doanh nghiệp kiểm toán được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận tự tổ chức cho các kiểm toán viên của mình.
 
-### Điều 17.2.TT.1.7. Điều kiện để được chấp thuận tổ chức cập nhật kiến thức
+2. Kiểm toán viên đồng thời là thành viên của tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tham gia cập nhật kiến thức do tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tổ chức.
 
 Điều 17.2.TT.1.7. Điều kiện để được chấp thuận tổ chức cập nhật kiến thức
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000700
+1. Hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán phải đáp ứng các điều kiện chung về tổ chức lớp cập nhật kiến thức như sau:
 
-**ID:** dk_00023830
+a) Có kế hoạch, chương trình cập nhật kiến thức hàng năm phù hợp với quy định tại khoản 1 Điều 4 Thông tư này và phải đăng ký với Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính;
 
----
+b) Có đội ngũ giảng viên tham gia giảng dạy theo quy định tại Điều 8 Thông tư này;
 
+c) Có đủ cơ sở vật chất đảm bảo chất lượng đào tạo như phòng học, bàn ghế, bảng viết, giáo cụ và các trang thiết bị đào tạo khác (tự có hoặc đi thuê);
 
-### Điều 17.2.TT.1.8. Giảng viên tham gia giảng dạy cập nhật kiến thức
+d) Tổ chức cập nhật đầy đủ các nội dung quy định tại khoản 1 Điều 4 Thông tư này; 
+
+đ) Không vi phạm các quy định về tổ chức cập nhật kiến thức cho kiểm toán viên đã được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính kết luận trong thời hạn 03 năm trước liền kề tính đến thời điểm đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên.
+
+2. Các điều kiện cụ thể đối với các tổ chức:
+
+2.1. Đối với hội nghề nghiệp:
+
+Ngoài các điều kiện quy định tại khoản 1 Điều này, hội nghề nghiệp còn phải đáp ứng các điều kiện sau:
+
+a) Có quy chế cập nhật kiến thức cho kiểm toán viên hoặc quy chế đào tạo chung, trong đó có nội dung riêng về cập nhật kiến thức cho kiểm toán viên được ban chấp hành (hoặc đại hội) thông qua;
+
+b) Có bộ phận chuyên trách tổ chức cập nhật kiến thức cho kiểm toán viên được quy định trong Điều lệ hoặc có quyết định thành lập riêng được ban chấp hành
+
+(hoặc đại hội) thông qua;
+
+c) Việc cập nhật kiến thức cho kiểm toán viên được ghi trong chương trình công tác hàng năm được ban chấp hành (hoặc đại hội) thông qua.
+
+2.2. Đối với cơ sở đào tạo:
+
+Ngoài các điều kiện quy định tại khoản 1 Điều này, cơ sở đào tạo còn phải đáp ứng các điều kiện sau:
+
+a) Được thành lập và hoạt động theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+b) Có chuyên ngành đào tạo từ trình độ đại học trở lên về các nội dung quy định tại điểm a khoản 1 Điều 4 Thông tư này.
+
+2.3. Đối với doanh nghiệp kiểm toán tự tổ chức cập nhật kiến thức:
+
+Ngoài các điều kiện quy định tại khoản 1 Điều này, doanh nghiệp kiểm toán còn phải đáp ứng các điều kiện sau:
+
+a) Có từ 20 kiểm toán viên hành nghề trở lên tại thời điểm đăng ký;
+
+b) Có bộ phận đào tạo chuyên trách về cập nhật kiến thức trong cơ cấu tổ chức của doanh nghiệp;
+
+c) Có quy chế đào tạo, cập nhật kiến thức theo từng cấp bậc kiểm toán viên của doanh nghiệp;
+
+d) Có bố trí ngân sách cho việc cập nhật kiến thức cho kiểm toán viên của doanh nghiệp.
 
 Điều 17.2.TT.1.8. Giảng viên tham gia giảng dạy cập nhật kiến thức
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000800
+1. Kiểm toán viên có tối thiểu 7 năm kinh nghiệm hành nghề kiểm toán.
 
-**ID:** dk_00023831
+2. Người có tối thiểu 7 năm kinh nghiệm công tác, nghiên cứu, giảng dạy liên quan tới nội dung giảng dạy.
 
----
-
-
-### Điều 17.2.TT.1.9. Trình tự xem xét, chấp thuận cơ sở đào tạo và doanh nghiệp kiểm toán đủ điều kiện tổ chức cập nhật kiến thức
+3. Người đang hoặc đã từng là thành viên của ban soạn thảo chuẩn mực kế toán, chuẩn mực kiểm toán quốc tế.
 
 Điều 17.2.TT.1.9. Trình tự xem xét, chấp thuận cơ sở đào tạo và doanh nghiệp kiểm toán đủ điều kiện tổ chức cập nhật kiến thức
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500000900
+1. Từ ngày 01/7 đến ngày 15/7 hàng năm, hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán đủ điều kiện, có nhu cầu tổ chức cập nhật kiến thức cho kiểm toán viên phải nộp cho Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính hồ sơ đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên theo quy định tại Điều 10 của Thông tư này.
 
-**ID:** dk_00023832
+2. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ của hội nghề nghiệp, cơ sở đào tạo hoặc doanh nghiệp kiểm toán, Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính xem xét, ra Quyết định (theo mẫu Phụ lục số 02/CNKT) chấp thuận cho hội nghề nghiệp, cơ sở đào tạo hoặc doanh nghiệp kiểm toán được tổ chức cập nhật kiến thức cho kiểm toán viên theo nội dung đã đăng ký. Thời hạn được chấp thuận từ ngày 16/8 năm đăng ký đến 15/8 năm sau. Trường hợp không chấp thuận, Bộ Tài chính có văn bản trả lời và nêu rõ lý do.
 
----
-
-
-### Điều 17.2.TT.1.10. Hồ sơ đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên
+Phụ lục số 01 - 150.2012.tt-btc.docx
 
 Điều 17.2.TT.1.10. Hồ sơ đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001000
+1. Đối với hội nghề nghiệp, hồ sơ gồm:
 
-**ID:** dk_00023833
+a) Bản đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên (theo mẫu Phụ lục số 01/CNKT);
 
----
+b) Bản sao quy chế đào tạo;
 
+c) Tài liệu chứng minh việc có thành lập bộ phận chuyên trách tổ chức cập nhật kiến thức cho kiểm toán viên;
 
-### Điều 17.2.TT.1.11. Tính giờ cập nhật kiến thức
+d) Chương trình, kế hoạch cập nhật kiến thức hàng năm được ban chấp hành (hoặc đại hội) hội thông qua;
 
-*Nội dung chưa có sẵn*
+đ) Dự kiến giảng viên được mời tham gia giảng dạy và dự kiến địa điểm tổ chức lớp học phù hợp với quy định tại khoản 1 Điều 7 Thông tư này.
 
-**Chỉ mục:** 11
+2. Đối với cơ sở đào tạo, hồ sơ gồm:
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001100
+a) Bản đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên (theo mẫu Phụ lục số 01/CNKT);
 
-**ID:** dk_00023834
+b) Bản sao có chứng thực quyết định thành lập cơ sở đào tạo do cơ quan nhà nước có thẩm quyền cấp; Tài liệu chứng minh các chuyên ngành được đào tạo;
 
----
+c) Kế hoạch, chương trình đào tạo được cấp có thẩm quyền của cơ sở đào tạo phê duyệt;
 
+d) Dự kiến giảng viên được mời tham gia giảng dạy và dự kiến địa điểm tổ chức lớp học phù hợp với quy định tại khoản 1 Điều 7 Thông tư này.
 
-### Điều 17.2.TT.1.12. Chưa đủ giờ cập nhật kiến thức
+3. Đối với doanh nghiệp kiểm toán, hồ sơ gồm:
 
-*Nội dung chưa có sẵn*
+a) Bản đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên (theo mẫu Phụ lục số 01/CNKT);
 
-**Chỉ mục:** 12
+b) Danh sách tối thiểu 20 kiểm toán viên hành nghề của doanh nghiệp kiểm toán;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001200
+c) Tài liệu chứng minh đủ điều kiện theo quy định tại khoản 1 và khoản 2.3 Điều 7 Thông tư này.
 
-**ID:** dk_00023835
+4. Các quy định khác:
 
----
+a) Trường hợp có tổ chức bổ sung các lớp học ngoài kế hoạch thì hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán phải có công văn gửi Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính để đăng ký thay đổi, bổ sung trước khi tổ chức lớp học 05 ngày;
 
+b) Trường hợp hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán đăng ký từ năm thứ hai trở đi thì không phải nộp các tài liệu quy định tại điểm b, c khoản 1, điểm b khoản 2, điểm c khoản 3 Điều này nếu không có thay đổi so với lần đăng ký gần nhất.
 
-### Điều 17.2.TT.1.13. Tài liệu chứng minh về giờ cập nhật kiến thức
+Điều 17.2.TT.1.11. Tính giờ cập nhật kiến thức
+
+(Điều 11 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, , có nội dung được sửa đổi bởi Điều 1 Thông tư số 56/2015/TT-BTC có hiệu lực thi hành kể từ ngày 08/06/2015; Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
+
+1. Kiểm toán viên tham gia học cập nhật kiến thức được tính giờ cập nhật kiến thức theo tỷ lệ 1 giờ học bằng 1 giờ cập nhật kiến thức. Thời lượng được tính giờ cập nhật kiến thức không quá 04 giờ/buổi học và không quá 08 giờ/ngày học.
+
+2. Kiểm toán viên tham gia giảng dạy các lớp cập nhật kiến thức cho kiểm toán viên được tính giờ cập nhật kiến thức theo tỷ lệ 1 giờ giảng bằng 1,5 giờ cập nhật kiến thức. Thời lượng được tính giờ giảng không quá 04 giờ/buổi giảng và không quá 08 giờ/ngày giảng.
+
+3. Số giờ cập nhật kiến thức của kiểm toán viên tham gia học tại các lớp học do tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tổ chức chỉ được tính tối đa là 20 giờ/1 năm.
+
+4. Kiểm toán viên phải tham gia đủ thời lượng của một chuyên đề học thì mới được tính số giờ cập nhật kiến thức của chuyên đề đó. Trường hợp kiểm toán viên không tham gia đủ thời lượng học của một chuyên đề thì không được tính giờ cập nhật kiến thức cho thời gian đã tham gia học của chuyên đề đó.
+
+5. Kiểm toán viên tham gia học các lớp cập nhật kiến thức do hội nghề nghiệp, cơ sở đào tạo phối hợp với các đơn vị, tổ chức khác tổ chức thì được tính giờ cập nhật kiến thức theo quy định tại khoản 1 Điều này nếu hội nghề nghiệp, cơ sở đào tạo là đơn vị chủ trì tổ chức các lớp học cập nhật kiến thức đó.
+
+6. Kiểm toán viên tham gia học cập nhật kiến thức tại tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán mà mình là hội viên được tính giờ cập nhật kiến thức theo quy định tại khoản 1 Điều này nếu:
+
+a) Kiểm toán viên là hội viên chính thức của tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán đó;
+
+b) Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán là thành viên của Liên đoàn Kế toán Quốc tế (IFAC) và phải tuân thủ đầy đủ các nghĩa vụ bắt buộc đối với thành viên của IFAC;
+
+c) Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán là đơn vị chủ trì tổ chức các lớp học cập nhật kiến thức, kể cả trường hợp phối hợp với các tổ chức nghề nghiệp khác hoặc các cơ sở đào tạo khác được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận cập nhật kiến thức cho kiểm toán viên;
+
+d) Nội dung cập nhật kiến thức phù hợp với nội dung quy định tại khoản 1 Điều 4 Thông tư này.
+
+7. Về việc tính giờ cập nhật kiến thức cho các kiểm toán viên hành nghề tham gia vào quá trình soạn thảo chuẩn mực kế toán Việt Nam, chuẩn mực kiểm toán Việt Nam:
+
+a) Chỉ tính giờ cập nhật kiến thức cho các kiểm toán viên có tên trong danh sách ban nghiên cứu, soạn thảo, cập nhật chuẩn mực kế toán Việt Nam, chuẩn mực kiểm toán Việt Nam theo quyết định của Bộ Tài chính hoặc tổ chức nghề nghiệp được
+
+Bộ Tài chính uỷ quyền và trực tiếp tham gia các buổi thảo luận, rà soát, cho ý kiến về nội dung các chuẩn mực kế toán Việt Nam, chuẩn mực kiểm toán Việt Nam; Không được tính cho thời gian tham gia các cuộc hội thảo xin ý kiến về chuẩn mực kế toán Việt Nam, chuẩn mực kiểm toán Việt Nam.
+
+b) Kiểm toán viên tham gia các buổi thảo luận, rà soát, cho ý kiến về nội dung các chuẩn mực kế toán Việt Nam, chuẩn mực kiểm toán Việt Nam, chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán Việt Nam được tính theo tỷ lệ 01 giờ tham gia bằng 01 giờ cập nhật về pháp luật kế toán, kiểm toán của Việt Nam. Thời lượng được tính giờ cập nhật kiến thức không quá 04 giờ/buổi họp và không quá 08 giờ/ngày họp.
+
+“8. Về việc tính giờ cập nhật kiến thức cho kiểm toán viên hành nghề là thành viên Đoàn kiểm tra chất lượng dịch vụ kiểm toán:
+
+a) Chỉ tính giờ cập nhật kiến thức cho kiểm toán viên hành nghề là thành viên Đoàn kiểm tra chất lượng dịch vụ kiểm toán có tên trong Quyết định kiểm tra chất lượng dịch vụ kiểm toán của Bộ Tài chính (hoặc Ủy ban Chứng khoán Nhà nước) và trực tiếp đi kiểm tra tại các doanh nghiệp kiểm toán;
+
+b) Kiểm toán viên hành nghề là thành viên Đoàn kiểm tra chất lượng dịch vụ kiểm toán được tính 08 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam cho 01 buổi đi kiểm tra, 16 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam cho 01 ngày đi kiểm tra;
+
+c) Kiểm toán viên hành nghề là thành viên Đoàn kiểm tra chất lượng dịch vụ kiểm toán tham gia khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra do Bộ Tài chính (hoặc Ủy ban Chứng khoánNhà nước) tổ chức được tính theo tỷ lệ 01 giờ tham gia tập huấn bằng 01 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam. Thời lượng được tính giờ cập nhật kiến thức không quá 04 giờ/buổi tập huấn và không quá 08 giờ/ngày tập huấn.
+
+9. Về việc tính giờ cập nhật kiến thức cho kiểm toán viên hành nghề là giảng viên khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra
+
+Kiểm toán viên hành nghề là giảng viên khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra do Bộ Tài chính (hoặc Ủy ban Chứng khoán Nhà nước) tổ chức được tính theo tỷ lệ 01 giờ giảng bằng 01 giờ cập nhật kiến thức về pháp luật kế toán, kiểm toán của Việt Nam. Thời lượng được tính giờ cập nhật kiến thức không quá 04 giờ/buổi giảng và không quá 08 giờ/ngày giảng. Trường hợp kiểm toán viên hành nghề vừa là giảng viên khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra vừa là thành viên Đoàn kiểm tra chất lượng dịch vụ kiểm toán tham gia khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra thì chỉ được tính giờ cập nhật kiến thức với vai trò là giảng viên.
+
+Điều 17.2.TT.1.12. Chưa đủ giờ cập nhật kiến thức
+
+(Điều 12 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, , có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 56/2015/TT-BTC có hiệu lực thi hành kể từ ngày 08/06/2015; Điều 4 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020; Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
+
+1. Trường hợp không có đủ thời gian cập nhật kiến thức theo quy định tại Khoản 1, Khoản 2 Điều 5 Thông tư này vì những lý do đặc biệt (thai sản, ốm đau kéo dài trên 02 tháng; hoặc ốm đau đột xuất vào đúng thời gian tổ chức lớp học cập nhật kiến thức cuối cùng đã đăng ký trong năm về nội dung có số giờ cập nhật kiến thức bị thiếu), kiểm toán viên sẽ được hoãn giờ cập nhật kiến thức trong năm nếu đảm bảo tất cả các điều kiện sau:
+
+a) Đã cập nhật kiến thức ít nhất 20 giờ;
+
+b) Có đơn xin hoãn giờ cập nhật kiến thức (theo mẫu Phụ lục 07/CNKT) để được hành nghề kiểm toán trong năm sau và gửi Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính trước ngày 31/8 hàng năm;
+
+c) Có tài liệu chứng minh cho những lý do nêu trên.
+
+2. 
+
+Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đơn và các tài liệu liên quan theo quy định tại Khoản 1 Điều này, Bộ Tài chính có văn bản thông báo cho kiểm toán viên về việc được hoãn hoặc không được hoãn giờ cập nhật kiến thức.
+
+Kiểm toán viên được hoãn giờ cập nhật kiến thức trong năm nay được tiếp tục hành nghề trong năm sau nếu đã hoàn thành số giờ cập nhật kiến thức còn thiếu trước ngày 15/12 năm nay và thông báo bằng văn bản cho Bộ Tài chính về việc hoàn thành số giờ cập nhật kiến thức trước ngày 25/12 năm nay.
+
+Trường hợp đến hết ngày 15/12 năm nay mà kiểm toán viên không cập nhật đủ số giờ theo quy định hoặc quá ngày 25/12 năm nay mà Bộ Tài chính không nhận được văn bản thông báo tình hình hoàn thành giờ cập nhật kiến thức thì kiểm toán viên sẽ bị đình chỉ hành nghề kiểm toán từ ngày 01/01 đến 31/12 năm sau.
 
 Điều 17.2.TT.1.13. Tài liệu chứng minh về giờ cập nhật kiến thức
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, bởi Điều 1 Thông tư số 56/2015/TT-BTC có hiệu lực thi hành kể từ ngày 08/06/2015)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001300
+1. Đối với kiểm toán viên tham gia lớp học do hội nghề nghiệp, cơ sở đào tạo tổ chức, doanh nghiệp kiểm toán tự tổ chức hoặc tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tổ chức, tài liệu chứng minh giờ cập nhật kiến thức là giấy chứng nhận tham dự cập nhật kiến thức trong đó ghi rõ tên đơn vị tổ chức lớp học, tên người học, số chứng chỉ kiểm toán viên, chuyên đề học, thời gian tổ chức lớp học, số lượng giờ học thực tế.
 
-**ID:** dk_00023836
+2. Đối với kiểm toán viên tham gia giảng dạy các lớp cập nhật kiến thức do hội nghề nghiệp, cơ sở đào tạo tổ chức hoặc tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán tổ chức, tài liệu chứng minh giờ cập nhật kiến thức là giấy xác nhận của đơn vị tổ chức lớp học trong đó ghi rõ họ tên giảng viên, số chứng chỉ kiểm toán viên, chuyên đề đã giảng, thời gian giảng, số lượng giờ giảng theo từng chuyên đề giảng dạy.
 
----
+3. Đối với kiểm toán viên tham gia các buổi thảo luận, rà soát, cho ý kiến về nội dung các chuẩn mực kiểm toán Việt Nam, chuẩn mực kế toán Việt Nam, tài liệu chứng minh giờ cập nhật kiến thức là giấy xác nhận của cơ quan, tổ chức chủ trì việc thảo luận, rà soát kèm theo giấy mời họp (hoặc thông báo họp) và bảng theo dõi chấm công các buổi thảo luận, rà soát, trong đó ghi rõ họ tên và số chứng chỉ kiểm toán viên của kiểm toán viên.
 
-
-### Điều 17.2.TT.1.14. Lưu trữ hồ sơ cập nhật kiến thức cho kiểm toán viên
+4. Đối với kiểm toán viên hành nghề là thành viên Đoàn kiểm tra trực tiếp đi kiểm tra tại các doanh nghiệp kiểm toán, kiểm toán viên hành nghề là giảng viên khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra, kiểm toán viên hành nghề là thành viên Đoàn kiểm tra chất lượng dịch vụ kiểm toán tham gia khóa tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra, tài liệu chứng minh giờ cập nhật kiến thức là giấy xác nhận của cơ quan ra quyết định kiểm tra, trong đó ghi rõ họ và tên, số chứng chỉ kiểm toán viên của kiểm toán viên hành nghề.
 
 Điều 17.2.TT.1.14. Lưu trữ hồ sơ cập nhật kiến thức cho kiểm toán viên
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 4 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020; Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001400
+1. Hồ sơ về tổ chức cập nhật kiến thức phải được lưu trữ gồm:
 
-**ID:** dk_00023837
+a) Bản đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên năm (theo mẫu Phụ lục số 01/CNKT), văn bản chấp thuận của Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính (theo mẫu Phụ lục số 02/CNKT);
 
----
+b) Công văn thông báo về tổ chức các lớp học cập nhật kiến thức (theo mẫu Phụ lục số 03/CNKT);
 
+c) Danh sách tham gia lớp học cập nhật kiến thức (theo mẫu tại Phụ lục số 003 ban hành kèm theo Thông tư này);
 
-### Điều 17.2.TT.1.15. Trách nhiệm của hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán được chấp thuận tổ chức cập nhật kiến thức cho kiểm toán viên
+d) Tài liệu liên quan đến lớp học cập nhật kiến thức theo quy định tại khoản 2 Điều 4 Thông tư này;
+
+đ) Phiếu đánh giá chất lượng lớp học cập nhật kiến thức kiểm toán viên (theo mẫu Phụ lục số 05/CNKT) cho từng lớp học cập nhật;
+
+e) Báo cáo tổng hợp kết quả tổ chức lớp học cập nhật kiến thức kiểm toán viên (theo mẫu Phụ lục số 06/CNKT);
+
+g) Bảng theo dõi điểm danh có chữ ký của từng học viên tham gia học;
+
+h) Hồ sơ về giảng viên các lớp học, gồm: Họ và tên, học hàm, học vị, bằng cấp chuyên môn, số chứng chỉ kiểm toán viên (nếu có), chức vụ, đơn vị công tác, địa chỉ liên hệ, điện thoại, e.mail, hợp đồng giảng dạy.
+
+2. Hồ sơ về tổ chức cập nhật kiến thức cho kiểm toán viên phải được lưu trữ tối thiểu 05 năm kể từ năm thực hiện.
+
+Phụ lục số 003.docx
+
+Phụ lục số 01-06.docx
 
 Điều 17.2.TT.1.15. Trách nhiệm của hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán được chấp thuận tổ chức cập nhật kiến thức cho kiểm toán viên
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 4 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020; Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001500
+1. Tổ chức các lớp học cập nhật kiến thức cho kiểm toán viên theo đúng nội dung, chương trình đã đăng ký và được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận. Trường hợp tổ chức bổ sung các lớp học ngoài kế hoạch hoặc thay đổi nội dung, chương trình của các lớp đã đăng ký thì phải đăng ký bổ sung.
 
-**ID:** dk_00023838
+2. Tổ chức các lớp học với số lượng không quá 200 học viên.
 
----
+3. Chậm nhất là 03 ngày làm việc trước ngày tổ chức mỗi lớp học, hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán phải thông báo với Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính về nội dung chương trình, thời gian, địa điểm tổ chức lớp học, chi tiết về giảng viên, số lượng kiểm toán viên hành nghề đăng ký tham dự học (theo mẫu Phụ lục số 03/CNKT) để Bộ Tài chính thực hiện giám sát và kiểm tra khi cần thiết. Trường hợp có thay đổi về các nội dung trên thì hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán phải thông báo cho Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính trước ngày học đầu tiên ít nhất là 01 ngày làm việc.
 
+4. Chậm nhất là 05 ngày làm việc sau mỗi lớp học cập nhật, phải gửi Danh sách tham gia lớp học cập nhật kiến thức bằng văn bản giấy hoặc bản sao điện tử cho Bộ Tài chính (theo mẫu tại Phụ lục số 003 ban hành kèm theo Thông tư này).
 
-### Điều 17.2.TT.1.16. Trách nhiệm của kiểm toán viên
+5. 
 
-*Nội dung chưa có sẵn*
+Gửi Báo cáo tổng hợp kết quả tổ chức lớp học cập nhật kiến thức kiểm toán viên với những nội dung sau:
 
-**Chỉ mục:** 16
+a) Tên báo cáo: Báo cáo tổng hợp kết quả tổ chức lớp học cập nhật kiến thức kiểm toán viên.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001600
+b) Nội dung yêu cầu báo cáo: Tổng hợp kết quả tổ chức các lớp học cập nhật kiến thức kiểm toán viên trong năm, cụ thể:
 
-**ID:** dk_00023839
+- Số lượng lớp đã tổ chức;
 
----
+- Số lượt kiểm toán viên tham dự;
 
+- Tổng hợp thời gian cập nhật kiến thức của các kiểm toán viên;
 
-### Điều 17.2.TT.1.17. Trách nhiệm của Bộ Tài chính trong việc quản lý tổ chức cập nhật kiến thức cho kiểm toán viên
+- Tự đánh giá về việc tổ chức các lớp học;
+
+- Nội dung kiến nghị với Bộ Tài chính về tình hình tổ chức các lớp học cập nhật kiến thức.
+
+c) Đối tượng thực hiện báo cáo: Hội nghề nghiệp, cơ sở đào tạo hoặc doanh nghiệp kiểm toán được Bộ Tài chính chấp thuận tổ chức cập nhật kiến thức.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 25/8 năm báo cáo.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ hàng năm.
+
+h) Thời gian chốt số liệu báo cáo: Từ ngày 16/8 năm trước đến ngày 15/8 năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 06/CNKT ban hành kèm theo Thông tư này.
+
+k) Biểu mẫu số liệu báo cáo: Theo Phụ lục số 06/CNKT ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, hội nghề nghiệp, cơ sở đào tạo hoặc doanh nghiệp kiểm toán được Bộ Tài chính chấp thuận tổ chức cập nhật kiến thức tổng hợp kết quả tổ chức các lớp học cập nhật kiến thức kiểm toán viên theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+6. Cấp giấy chứng nhận cho học viên đã tham gia cập nhật kiến thức sau mỗi lớp học, trong đó ghi rõ tên đơn vị tổ chức lớp học, tên người học, số chứng chỉ kiểm toán viên, chuyên đề học, thời gian tổ chức lớp học, số lượng giờ học thực tế; Cấp giấy xác nhận cho kiểm toán viên tham gia giảng dạy các lớp cập nhật kiến thức sau mỗi lớp học, trong đó ghi rõ họ tên giảng viên, số chứng chỉ kiểm toán viên, chuyên đề đã giảng, thời gian giảng, số lượng giờ giảng theo từng chuyên đề giảng dạy.
+
+7. Theo dõi, điểm danh đầy đủ đối với các học viên tham gia học.
+
+8. Yêu cầu học viên tham gia học cập nhật kiến thức phải đánh giá chất lượng lớp học vào “Phiếu đánh giá chất lượng lớp học cập nhật kiến thức kiểm toán viên” (theo mẫu Phụ lục số 05/CNKT). Thu lại “Phiếu đánh giá chất lượng lớp học cập nhật kiến thức kiểm toán viên” của các học viên sau mỗi lớp học.
+
+9. Xác nhận số giờ cập nhật kiến thức cho kiểm toán viên khi có đề nghị của kiểm toán viên hoặc khi có yêu cầu của Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính.
+
+10. Lưu trữ hồ sơ về tổ chức cập nhật kiến thức cho kiểm toán viên theo quy định tại Điều 14 của Thông tư này.
+
+11. Cung cấp đầy đủ, kịp thời, chính xác thông tin, tài liệu theo yêu cầu của cơ quan nhà nước có thẩm quyền trong việc tổ chức cập nhật kiến thức cho kiểm toán viên.
+
+Điều 17.2.TT.1.16. Trách nhiệm của kiểm toán viên
+
+(Điều 16 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
+
+1. Cập nhật kiến thức về các nội dung quy định tại khoản 1 Điều 4 của Thông tư này.
+
+2. Đánh giá chất lượng lớp học vào “Phiếu đánh giá chất lượng lớp học cập nhật kiến thức kiểm toán viên” (theo mẫu Phụ lục số 05/CNKT) và nộp lại cho ban tổ chức lớp học sau mỗi lớp học.
+
+3. Phản ánh kịp thời về Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính các dấu hiệu sai phạm của các hội nghề nghiệp, cơ sở đào tạo hoặc doanh nghiệp kiểm toán trong quá trình tổ chức lớp học.
 
 Điều 17.2.TT.1.17. Trách nhiệm của Bộ Tài chính trong việc quản lý tổ chức cập nhật kiến thức cho kiểm toán viên
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001700
+1. Tiếp nhận, xem xét hồ sơ đăng ký tổ chức cập nhật kiến thức của các hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán; Ra quyết định chấp thuận hoặc trả lời không chấp thuận cho hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán được tổ chức cập nhật kiến thức theo quy định.
 
-**ID:** dk_00023840
+2. Hàng năm, chậm nhất là ngày 16/8, công bố trên Trang điện tử của Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính tên các hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán được tổ chức cập nhật kiến thức cho kiểm toán viên và kế hoạch, chương trình mà các hội nghề nghiệp, cơ sở đào tạo hoặc doanh nghiệp kiểm toán đã đăng ký với Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính.
 
----
+3. Giám sát, kiểm tra việc tổ chức cập nhật kiến thức của các hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán; Kịp thời phát hiện và xử lý các hành vi vi phạm theo quy định của pháp luật.
 
+4. Lưu trữ đầy đủ hồ sơ liên quan đến việc tổ chức cập nhật kiến thức của các hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán trong thời hạn tối thiểu là 05 năm kể từ năm thực hiện.
 
-### Điều 17.2.TT.1.18. Các hành vi vi phạm về cập nhật kiến thức
+5. Định kỳ hoặc đột xuất, Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính tiến hành kiểm tra việc tổ chức cập nhật kiến thức của các hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán về việc tổ chức cập nhật kiến thức.
 
 Điều 17.2.TT.1.18. Các hành vi vi phạm về cập nhật kiến thức
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013, có nội dung được sửa đổi bởi Điều 1 Thông tư số 15/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802448201500001800
+1. Tổ chức cập nhật kiến thức cho kiểm toán viên hành nghề để tính giờ cập nhật kiến thức theo quy định tại Điều 11 Thông tư này khi chưa đăng ký với Bộ Tài chính hoặc đã đăng ký nhưng chưa được Cục Quản lý giám sát kế toán, kiểm toán - Bộ Tài chính chấp thuận.
 
-**ID:** dk_00023841
+2. Tổ chức cập nhật kiến thức cho kiểm toán viên hành nghề những nội dung không phù hợp với nội dung đã đăng ký.
 
----
+3. Báo cáo không trung thực về tổ chức cập nhật, như: không tổ chức lớp nhưng báo cáo có tổ chức lớp, báo cáo khống số lượng kiểm toán viên tham gia cập nhật, số giờ cập nhật của kiểm toán viên, tính không đúng quy định về số giờ cập nhật của kiểm toán viên tham gia lớp học.
 
+4. Học hộ, nhờ học hộ, điểm danh hộ, nhờ điểm danh hộ hoặc gian lận khi khai báo giờ cập nhật kiến thức.
 
-### Điều 17.2.TT.2.3. Đăng ký hành nghề kiểm toán
+5. Vi phạm các quy định khác về tổ chức cập nhật kiến thức cho kiểm toán viên hành nghề quy định tại Thông tư này và các quy định khác theo quy định của pháp luật.
 
-*Nội dung chưa có sẵn*
+6. Hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán hoặc kiểm toán viên vi phạm các quy định về tổ chức cập nhật kiến thức sẽ phải chịu các hình thức xử lý theo quy định của pháp luật hiện hành.
 
-**Chỉ mục:** 3
+Điều 17.2.TT.2.3. Đăng ký hành nghề kiểm toán
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000300
+(Điều 3 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**ID:** dk_00023842
+1. Điều kiện đăng ký hành nghề kiểm toán:
 
----
+a) Là kiểm toán viên;
 
+b) Có thời gian thực tế làm kiểm toán từ đủ ba mươi sáu (36) tháng trở lên theo quy định tại khoản 4 Điều này;
 
-### Điều 17.2.TT.2.4. Hồ sơ đăng ký hành nghề kiểm toán
+c) Đủ giờ cập nhật kiến thức theo quy định của Bộ Tài chính.
+
+2. Kiểm toán viên bảo đảm quy định tại khoản 1 Điều này và có hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán theo quy định tại khoản 3 Điều này thì được đăng ký hành nghề kiểm toán.
+
+3. Kiểm toán viên được coi là có hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán khi:
+
+a) Hợp đồng lao động ký kết giữa kiểm toán viên và doanh nghiệp kiểm toán phải bảo đảm các yếu tố theo quy định của Bộ Luật lao động;
+
+b) Thời gian làm việc quy định trong hợp đồng và thời gian thực tế làm việc hàng ngày, hàng tuần của kiểm toán viên bảo đảm đúng và phù hợp với thời gian làm việc hàng ngày, hàng tuần của doanh nghiệp kiểm toán nơi kiểm toán viên đăng ký hành nghề;
+
+Ví dụ: thời gian làm việc của doanh nghiệp kiểm toán từ 08h00 - 17h00 và 06 ngày/tuần thì kiểm toán viên phải làm việc đầy đủ thời gian từ 08h00 - 17h00 hàng ngày và 06 ngày/tuần không bao gồm thời gian làm thêm, ngày nghỉ, ngày lễ.
+
+c) Không đồng thời làm đại diện theo pháp luật, giám đốc (tổng giám đốc), chủ tịch hội đồng quản trị, chủ tịch hội đồng thành viên, kế toán trưởng (hoặc phụ trách kế toán), nhân viên kế toán, kiểm toán nội bộ hoặc các chức danh khác tại đơn vị, tổ chức khác trong thời gian thực tế làm việc hàng ngày, hàng tuần tại doanh nghiệp kiểm toán theo quy định tại điểm b khoản này.
+
+4. Xác định thời gian thực tế làm kiểm toán:
+
+a) Thời gian thực tế làm kiểm toán được tính là thời gian đã làm kiểm toán tại doanh nghiệp kiểm toán theo hợp đồng lao động làm toàn bộ thời gian;
+
+b) Thời gian thực tế làm kiểm toán được tính cộng dồn trong khoảng thời gian kể từ khi được cấp bằng tốt nghiệp đại học đến thời điểm nộp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo nguyên tắc tròn tháng;
+
+c) Thời gian thực tế làm kiểm toán phải có xác nhận của người đại diện theo pháp luật hoặc người được uỷ quyền của người đại diện theo pháp luật của doanh nghiệp kiểm toán nơi kiểm toán viên đã thực tế làm việc. Trường hợp doanh nghiệp kiểm toán nơi kiểm toán viên làm việc đã giải thể, phá sản, chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu thì phải có xác nhận của người đại diện theo pháp luật của doanh nghiệp kiểm toán phù hợp với thời gian mà kiểm toán viên đã làm việc tại doanh nghiệp kiểm toán đó. Trường hợp người đại diện theo pháp luật của doanh nghiệp kiểm toán thời điểm đó đã không còn hoạt động trong lĩnh vực kiểm toán độc lập thì phải có Bản giải trình kèm theo các tài liệu chứng minh về thời gian thực tế làm kiểm toán như bản sao sổ bảo hiểm xã hội, bản sao hợp đồng lao động.
 
 Điều 17.2.TT.2.4. Hồ sơ đăng ký hành nghề kiểm toán
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung bị bãi bỏ bởi Điều 1 Thông tư số 22/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000400
+1. Đơn đề nghị cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 01/ĐKHN ban hành kèm theo Thông tư này.
 
-**ID:** dk_00023843
+2. Bản sao hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán.
 
----
+3. Giấy xác nhận về thời gian thực tế làm kiểm toán theo mẫu quy định tại Phụ lục số 04/ĐKHN ban hành kèm theo Thông tư này hoặc tài liệu chứng minh về thời gian thực tế làm kiểm toán hoặc Bản giải trình kèm theo tài liệu chứng minh về thời gian thực tế làm kiểm toán (trừ các trường hợp quy định tại Điều 16 Thông tư này).
 
+4. Bản thông tin cá nhân theo mẫu quy định tại Phụ lục số 05/ĐKHN ban hành kèm theo Thông tư này.
 
-### Điều 17.2.TT.2.5. Trình tự đăng ký hành nghề kiểm toán
+5. Phiếu lý lịch tư pháp do cơ quan có thẩm quyền cấp trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+
+6. Bị bãi bỏ.
+
+7. Hai ảnh màu cỡ 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+
+8. Bản sao Quyết định thôi việc hoặc Quyết định chấm dứt hợp đồng lao động tại nơi làm việc trước doanh nghiệp kiểm toán.
+
+9. Bản sao Giấy phép lao động tại Việt Nam của kiểm toán viên là người nước ngoài trừ trường hợp pháp luật lao động Việt Nam quy định không cần phải có giấy phép lao động.
+
+10. Tài liệu chứng minh giờ cập nhật kiến thức của kiểm toán viên tại các tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán đối với trường hợp có tính giờ cập nhật kiến thức.
+
+Phụ lục 202.2012.docx
 
 Điều 17.2.TT.2.5. Trình tự đăng ký hành nghề kiểm toán
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000500
+1. Kiểm toán viên phải lập 01 bộ hồ sơ theo quy định tại Điều 4 Thông tư này gửi đến Bộ Tài chính thông qua doanh nghiệp kiểm toán. Các văn bằng, chứng chỉ nếu bằng tiếng nước ngoài phải kèm theo bản dịch bằng tiếng Việt đã được công chứng hoặc chứng thực bởi cơ quan có thẩm quyền theo quy định của pháp luật. Kiểm toán viên phải chịu trách nhiệm về các thông tin đã kê khai trong hồ sơ đăng ký hành nghề kiểm toán. Doanh nghiệp kiểm toán và tổ chức, cá nhân khác có liên quan đến việc xác nhận thông tin trong hồ sơ đăng ký hành nghề của kiểm toán viên phải chịu trách nhiệm liên đới về tính trung thực của thông tin đã xác nhận.
 
-**ID:** dk_00023844
+2. Người đại diện theo pháp luật của doanh nghiệp kiểm toán có trách nhiệm xem xét, rà soát hồ sơ bảo đảm các kiểm toán viên đủ điều kiện đăng ký hành nghề tại tổ chức mình và ký xác nhận trên Đơn đăng ký hành nghề của từng kiểm toán viên.
 
----
+3. Doanh nghiệp kiểm toán đề nghị Bộ Tài chính cấp Giấy chứng nhận đăng ký hành nghề kiểm toán cho các kiểm toán viên đăng ký hành nghề tại đơn vị mình theo mẫu quy định tại Phụ lục số 06/ĐKHN ban hành kèm theo Thông tư này kèm theo hồ sơ đăng ký hành nghề của từng kiểm toán viên. Hồ sơ gửi trực tiếp hoặc gửi qua đường bưu điện đến Bộ Tài chính.
 
+4. Trường hợp cần làm rõ các thông tin trong hồ sơ đăng ký hành nghề, Bộ Tài chính có quyền yêu cầu kiểm toán viên hoặc doanh nghiệp kiểm toán giải trình hoặc cung cấp tài liệu (sổ bảo hiểm xã hội, tài liệu khác) phục vụ cho việc kiểm tra, đối chiếu, xác minh quá trình làm việc và các thông tin khác trong hồ sơ đăng ký hành nghề kiểm toán. Trường hợp kiểm toán viên không bổ sung tài liệu giải trình hoặc tài liệu giải trình không chứng minh đầy đủ các thông tin trong hồ sơ đăng ký hành nghề là xác thực, Bộ Tài chính có quyền từ chối đăng ký hành nghề kiểm toán. Trường hợp từ chối, Bộ Tài chính trả lời bằng văn bản và nêu rõ lý do.
 
-### Điều 17.2.TT.2.6. Giấy chứng nhận đăng ký hành nghề kiểm toán
+5. Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ hợp lệ và đảm bảo đủ điều kiện, Bộ Tài chính xem xét, cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo quy định. Ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán không sớm hơn ngày bắt đầu có hiệu lực của hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán.
+
+Phụ lục 202.2012.docx
 
 Điều 17.2.TT.2.6. Giấy chứng nhận đăng ký hành nghề kiểm toán
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000600
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán bao gồm các nội dung cơ bản sau đây:
 
-**ID:** dk_00023845
+a) Họ và tên, năm sinh, quê quán hoặc quốc tịch, ảnh của người được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán;
 
----
+b) Số và ngày cấp chứng chỉ kiểm toán viên;
 
+c) Tên doanh nghiệp kiểm toán nơi kiểm toán viên đăng ký hành nghề;
 
-### Điều 17.2.TT.2.7. Cấp và sử dụng Giấy chứng nhận đăng ký hành  nghề kiểm toán
+d) Số Giấy chứng nhận đăng ký hành nghề kiểm toán;
 
-Điều 17.2.TT.2.7. Cấp và sử dụng Giấy chứng nhận đăng ký hành  nghề kiểm toán
+đ) Thời hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán.
 
-**Chỉ mục:** 7
+2. Giấy chứng nhận đăng ký hành nghề kiểm toán có thời hạn tối đa là 5 năm (60 tháng) nhưng không quá ngày 31/12 của năm thứ năm kể từ năm bắt đầu có hiệu lực của Giấy chứng nhận đăng ký hành nghề kiểm toán.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000700
+3. Mẫu Giấy chứng nhận đăng ký hành nghề kiểm toán được quy định tại Phụ lục số 07/ĐKHN ban hành kèm theo Thông tư này.
 
-**ID:** dk_00023846
+Phụ lục 202.2012.docx
 
----
+Điều 17.2.TT.2.7. Cấp và sử dụng Giấy chứng nhận đăng ký hành nghề kiểm toán
 
+(Điều 7 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-### Điều 17.2.TT.2.8. Giấy chứng nhận đăng ký hành nghề kiểm toán  hết hiệu lực hoặc không còn giá trị
+1. Kiểm toán viên hành nghề bảo đảm quy định tại Điều 3, nộp đủ hồ sơ quy định tại Điều 4, đúng trình tự quy định tại Điều 5 Thông tư này và nộp đủ lệ phí được Bộ Tài chính xem xét, cấp Giấy chứng nhận đăng ký hành nghề kiểm toán.
 
-Điều 17.2.TT.2.8. Giấy chứng nhận đăng ký hành nghề kiểm toán  hết hiệu lực hoặc không còn giá trị
+2. Chỉ các kiểm toán viên hành nghề được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán mới được ký tên trên báo cáo kiểm toán và báo cáo kết quả công tác soát xét.
 
-**Chỉ mục:** 8
+3. Kiểm toán viên hành nghề phải ghi rõ số Giấy chứng nhận đăng ký hành nghề kiểm toán trên báo cáo kiểm toán và báo cáo kết quả công tác soát xét.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000800
+4. Kiểm toán viên hành nghề không được ký báo cáo kiểm toán và báo cáo kết quả công tác soát xét khi Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị.
 
-**ID:** dk_00023847
+Điều 17.2.TT.2.8. Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị
 
----
+(Điều 8 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
 
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị trong các trường hợp sau:
 
-### Điều 17.2.TT.2.9. Cấp lại Giấy chứng nhận đăng ký hành nghề  kiểm toán
+a) Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn;
 
-Điều 17.2.TT.2.9. Cấp lại Giấy chứng nhận đăng ký hành nghề  kiểm toán
+b) Giấy chứng nhận đăng ký hành nghề kiểm toán bị thu hồi;
 
-**Chỉ mục:** 9
+c) Trong thời gian kiểm toán viên bị đình chỉ hành nghề kiểm toán;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020000900
+d) Kiểm toán viên hành nghề không còn làm việc và chấm dứt hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán ghi trên Giấy chứng nhận đăng ký hành nghề kiểm toán;
 
-**ID:** dk_00023848
+đ) Hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán hết thời hạn hoặc bị chấm dứt hoặc có các thay đổi dẫn đến không còn bảo đảm là hợp đồng lao động làm toàn bộ thời gian theo quy định tại khoản 3 Điều 3 Thông tư này;
 
----
+e) Giấy phép lao động tại Việt Nam của kiểm toán viên hành nghề là người nước ngoài hết hiệu lực hoặc không còn giá trị;
 
+g) Kiểm toán viên hành nghề không tiếp tục hành nghề kiểm toán;
 
-### Điều 17.2.TT.2.10. Điều chỉnh Giấy chứng nhận đăng ký hành  nghề kiểm toán
+h) Doanh nghiệp kiểm toán bị chấm dứt hoạt động, giải thể, phá sản, chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu;
 
-Điều 17.2.TT.2.10. Điều chỉnh Giấy chứng nhận đăng ký hành  nghề kiểm toán
+i) Kiểm toán viên hành nghề bị cấm hành nghề kiểm toán theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật; bị truy cứu trách nhiệm hình sự; bị kết án một trong các tội xâm phạm trật tự quản lý kinh tế, tội phạm về chức vụ liên quan đến tài chính, kế toán, kiểm toán mà chưa được xóa án tích; bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn, đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc;
 
-**Chỉ mục:** 10
+k) Các trường hợp khác theo quy định của pháp luật.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001000
+2. Kiểm toán viên hành nghề sẽ bị xóa tên khỏi danh sách kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán trong thời hạn 15 ngày kể từ ngày Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị.
 
-**ID:** dk_00023849
+Điều 17.2.TT.2.9. Cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán
 
----
+(Điều 9 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán được cấp lại trong các trường hợp sau:
 
-### Điều 17.2.TT.2.11. Công khai thông tin về kiểm toán viên hành  nghề
+a) Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn;
 
-Điều 17.2.TT.2.11. Công khai thông tin về kiểm toán viên hành  nghề
+b) Giấy chứng nhận đăng ký hành nghề kiểm toán bị mất;
 
-**Chỉ mục:** 11
+c) Giấy chứng nhận đăng ký hành nghề kiểm toán bị hỏng.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001100
+2. Trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn, nếu kiểm toán viên hành nghề muốn tiếp tục hành nghề kiểm toán thì nộp hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán. Thời hạn nộp hồ sơ đề nghị cấp lại chậm nhất là 60 ngày trước ngày hết hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán.
 
-**ID:** dk_00023850
+3. Hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán đối với trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn bao gồm:
 
----
+a) Đơn đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 02/ĐKHN ban hành kèm theo Thông tư này;
 
+b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán;
 
-### Điều 17.2.TT.2.12. Đình chỉ hành nghề kiểm toán
+c) Các tài liệu quy định tại khoản 2, khoản 4, khoản 8, khoản 9 Điều 4 Thông tư này nếu có thay đổi so với lần đăng ký hành nghề gần nhất.
 
-*Nội dung chưa có sẵn*
+4. Hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán đối với trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán bị mất, hỏng bao gồm:
 
-**Chỉ mục:** 12
+a) Đơn đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 02/ĐKHN ban hành kèm theo Thông tư này;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001200
+b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán;
 
-**ID:** dk_00023851
+c) Giấy chứng nhận đăng ký hành nghề kiểm toán cũ đối với trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán bị hỏng.
 
----
+5. Bộ Tài chính xem xét, cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán cho kiểm toán viên hành nghề trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và kiểm toán viên hành nghề đảm bảo đủ điều kiện, nộp đủ lệ phí và đúng trình tự quy định tại Điều 5 Thông tư này. Trường hợp từ chối, Bộ Tài chính trả lời bằng văn bản và nêu rõ lý do.
 
+6. Thời hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán cấp lại đối với trường hợp quy định tại điểm a khoản 1 Điều này là thời hạn theo quy định tại khoản 2 Điều 6 Thông tư này; đối với trường hợp quy định tại điểm b, điểm c khoản 1 Điều này là thời hạn của Giấy chứng nhận đã bị mất, bị hỏng.
 
-### Điều 17.2.TT.2.13. Thu hồi Giấy chứng nhận đăng ký hành nghề  kiểm toán
+Phụ lục 202.2012.docx
 
-Điều 17.2.TT.2.13. Thu hồi Giấy chứng nhận đăng ký hành nghề  kiểm toán
+Điều 17.2.TT.2.10. Điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán
 
-**Chỉ mục:** 13
+(Điều 10 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001300
+1. Giấy chứng nhận đăng ký hành nghề kiểm toán được điều chỉnh khi kiểm toán viên thay đổi nơi đăng ký hành nghề kiểm toán mà Giấy chứng nhận đăng ký hành nghề đã được cấp vẫn còn thời hạn.
 
-**ID:** dk_00023852
+2. Hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán bao gồm:
 
----
+a) Đơn đề nghị điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 03/ĐKHN ban hành kèm theo Thông tư này;
 
+b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán;
 
-### Điều 17.2.TT.2.14. Trách nhiệm của kiểm toán viên hành nghề
+c) Các tài liệu quy định tại khoản 2, khoản 8, khoản 9 Điều 4 Thông tư này;
+
+d) Tài liệu quy định tại khoản 4 Điều 4 Thông tư này nếu có thay đổi so với lần đăng ký hành nghề gần nhất;
+
+đ) Giấy chứng nhận đăng ký hành nghề kiểm toán cũ trừ trường hợp đã nộp lại Giấy chứng nhận đăng ký hành nghề khi hết hiệu lực hoặc không còn giá trị theo quy định tại khoản 4 Điều 14 Thông tư này.
+
+3. Bộ Tài chính xem xét, điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán cho kiểm toán viên hành nghề trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và kiểm toán viên hành nghề đảm bảo đủ điều kiện, nộp đủ lệ phí và đúng trình tự quy định tại Điều 5 Thông tư này. Trường hợp từ chối, Bộ Tài chính trả lời bằng văn bản và nêu rõ lý do.
+
+4. Thời hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán điều chỉnh là thời hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán cũ.
+
+Phụ lục 202.2012.docx
+
+Điều 17.2.TT.2.11. Công khai thông tin về kiểm toán viên hành nghề
+
+(Điều 11 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
+
+1. Bộ Tài chính cập nhật thường xuyên và công khai trên trang thông tin điện tử của Bộ Tài chính các thông tin sau:
+
+a) Danh sách kiểm toán viên hành nghề tại từng doanh nghiệp kiểm toán;
+
+b) Danh sách kiểm toán viên hành nghề không được tiếp tục hành nghề kiểm toán, gồm: kiểm toán viên hành nghề bị đình chỉ hành nghề kiểm toán; kiểm toán viên hành nghề bị thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán và các trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị khác theo quy định
+
+2. Bộ Tài chính sẽ bổ sung tên kiểm toán viên hành nghề vào danh sách công khai kiểm toán viên đăng ký hành nghề tại từng doanh nghiệp kiểm toán trong thời hạn 15 ngày kể từ ngày Giấy chứng nhận đăng ký hành nghề kiểm toán được cấp, cấp lại, điều chỉnh hoặc sẽ xoá tên kiểm toán viên hành nghề khỏi danh sách công khai kiểm toán viên đăng ký hành nghề tại từng doanh nghiệp kiểm toán trong thời hạn 15 ngày kể từ ngày Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị.
+
+Điều 17.2.TT.2.12. Đình chỉ hành nghề kiểm toán
+
+(Điều 12 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
+
+1. Kiểm toán viên hành nghề bị đình chỉ hành nghề kiểm toán trong các trường hợp sau:
+
+a) Bị xử phạt vi phạm hành chính về hoạt động kiểm toán độc lập hai lần trong thời gian 36 tháng liên tục;
+
+b) Sử dụng Giấy chứng nhận đăng ký hành nghề kiểm toán đã hết hiệu lực hoặc không còn giá trị trong các hoạt động nghề nghiệp kiểm toán (nếu thời điểm phát hiện hành vi vi phạm đang là kiểm toán viên hành nghề);
+
+c) Không chấp hành quy định của cơ quan có thẩm quyền về việc kiểm tra, thanh tra liên quan đến hoạt động kiểm toán độc lập;
+
+d) Sử dụng thông tin có liên quan đến hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán để xâm phạm lợi ích của Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
+
+đ) Ký báo cáo kiểm toán khi không phải là kiểm toán viên hành nghề (nếu thời điểm phát hiện hành vi vi phạm đang là kiểm toán viên hành nghề);
+
+e) Không lập hồ sơ kiểm toán đối với cuộc kiểm toán hoặc dịch vụ đảm bảo khác;
+
+g) Thực hiện kiểm toán, ký báo cáo kiểm toán hoặc báo cáo kết quả công tác soát xét cho đơn vị có lợi ích công chúng khi chưa được Bộ Tài chính chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng;
+
+h) Ký báo cáo kiểm toán hoặc báo cáo kết quả công tác soát xét cho đơn vị có lợi ích công chúng khi đang bị đình chỉ hoặc hủy bỏ tư cách được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng;
+
+i) Thực hiện kiểm toán, ký báo cáo kiểm toán cho một đơn vị có lợi ích công chúng quá 5 năm tài chính liên tục;
+
+k) Không có đủ số giờ cập nhật kiến thức hàng năm theo quy định của Bộ Tài chính;
+
+l) Vi phạm về các trường hợp kiểm toán viên hành nghề không được thực hiện kiểm toán theo quy định tại Điều 19 Luật kiểm toán độc lập;
+
+m) Cho tổ chức, cá nhân khác ngoài đơn vị mình đang làm việc thuê, mượn, sử dụng Chứng chỉ kiểm toán viên của mình để đăng ký hành nghề kiểm toán hoặc đăng ký hành nghề kiểm toán tại đơn vị nơi mình thực tế không làm việc theo hợp đồng lao động làm toàn bộ thời gian;
+
+n) Có sai phạm nghiêm trọng về chuyên môn hoặc vi phạm nghiêm trọng chuẩn mực kiểm toán, chuẩn mực đạo đức nghề nghiệp về kế toán, kiểm toán.
+
+2. Bộ Tài chính có thẩm quyền đình chỉ hành nghề kiểm toán và gửi quyết định cho người bị đình chỉ, doanh nghiệp kiểm toán nơi người đó đăng ký hành nghề.
+
+3. Trong thời gian bị đình chỉ hành nghề kiểm toán, kiểm toán viên hành nghề không được tiếp tục ký báo cáo kiểm toán và báo cáo kết quả công tác soát xét. Khi hết thời gian đình chỉ hành nghề kiểm toán:
+
+a) Kiểm toán viên hành nghề nếu bảo đảm các quy định tại Điều 3 Thông tư này và Giấy chứng nhận đăng ký hành nghề kiểm toán đã được cấp còn thời hạn và giá trị thì được tiếp tục hành nghề kiểm toán. Bộ Tài chính sẽ bổ sung tên kiểm toán viên hành nghề vào danh sách công khai kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán trong thời hạn 15 ngày kể từ ngày hết thời gian đình chỉ hành nghề kiểm toán;
+
+b) Kiểm toán viên hành nghề vẫn bảo đảm các quy định tại Điều 3 Thông tư này nhưng Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn thì làm thủ tục đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán. Hồ sơ cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán quy định tại khoản 3 Điều 9 Thông tư này;
+
+c) Kiểm toán viên hành nghề có Giấy chứng nhận đăng ký hành nghề kiểm toán còn thời hạn nhưng không còn bảo đảm các quy định tại Điều 3 Thông tư này thì không được tiếp tục hành nghề kiểm toán.
+
+4. Thời gian đình chỉ hành nghề kiểm toán:
+
+a) Đình chỉ hành nghề kiểm toán trong thời gian 06 tháng đối với kiểm toán viên hành nghề thuộc các trường hợp quy định tại điểm a, điểm b, điểm c khoản 1 Điều này;
+
+b) Đình chỉ hành nghề kiểm toán trong thời gian 12 tháng đối với kiểm toán viên hành nghề thuộc các trường hợp quy định tại điểm d, điểm đ, điểm e, điểm g, điểm h, điểm i, điểm k, điểm l, điểm m khoản 1 Điều này;
+
+c) Kiểm toán viên hành nghề thuộc trường hợp quy định tại điểm n khoản 1 Điều này bị đình chỉ hành nghề kiểm toán theo quy định của pháp luật về kiểm soát chất lượng dịch vụ kiểm toán.
+
+Điều 17.2.TT.2.13. Thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+(Điều 13 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
+
+1.  Kiểm toán viên hành nghề bị thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán trong các trường hợp sau:
+
+a) Gian lận, giả mạo hồ sơ để đủ điều kiện được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán;
+
+b) Đăng ký hành nghề kiểm toán tại một doanh nghiệp kiểm toán nhưng thực tế không làm việc toàn thời gian theo hợp đồng lao động tại doanh nghiệp kiểm toán đó;
+
+c) Làm việc cho từ hai doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam trở lên trong cùng một thời gian;
+
+d) Góp vốn vào từ hai doanh nghiệp kiểm toán trở lên;
+
+đ) Bị đình chỉ hành nghề kiểm toán 02 lần trong 36 tháng liên tục;
+
+e) Bị cấm hành nghề kiểm toán theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật; bị truy cứu trách nhiệm hình sự; bị kết án một trong các tội xâm phạm trật tự quản lý kinh tế, tội phạm về chức vụ liên quan đến tài chính, kế toán, kiểm toán mà chưa được xóa án tích; bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn, đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc;
+
+g) Bị thu hồi Chứng chỉ kiểm toán viên.
+
+2. Bộ Tài chính có thẩm quyền thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán và gửi quyết định cho người bị thu hồi Giấy chứng nhận, doanh nghiệp kiểm toán nơi người đó đăng ký hành nghề.
+
+3. Người bị thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán không được tiếp tục ký báo cáo kiểm toán và báo cáo kết quả công tác soát xét và phải nộp lại Giấy chứng nhận đăng ký hành nghề kiểm toán cho Bộ Tài chính theo quy định tại khoản 4 Điều 14 Thông tư này.
+
+4. Người bị thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán không được đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán trong thời hạn mười hai tháng, kể từ ngày quyết định thu hồi có hiệu lực. Hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán quy định tại khoản 3 Điều 9 Thông tư này.
 
 Điều 17.2.TT.2.14. Trách nhiệm của kiểm toán viên hành nghề
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 6 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001400
+1. 
 
-**ID:** dk_00023853
+Gửi Báo cáo duy trì điều kiện hành nghề kiểm toán hàng năm với những nội dung sau:
 
----
+a) Tên báo cáo: Báo cáo duy trì điều kiện hành nghề kiểm toán hàng năm.
 
+b) Nội dung yêu cầu báo cáo: Kê khai việc duy trì từng điều kiện đăng ký hành nghề kiểm toán hàng năm của kiểm toán viên hành nghề, cụ thể:
 
-### Điều 17.2.TT.2.15. Trách nhiệm của doanh nghiệp kiểm toán và  người đại diện theo pháp luật của doanh nghiệp kiểm toán
+- Thông tin cơ bản của kiểm toán viên hành nghề;
 
-Điều 17.2.TT.2.15. Trách nhiệm của doanh nghiệp kiểm toán và  người đại diện theo pháp luật của doanh nghiệp kiểm toán
+-  Số, ngày cấp chứng chỉ kiểm toán viên;
 
-**Chỉ mục:** 15
+- Số, ngày cấp, thời hạn Giấy chứng nhận đăng ký hành nghề kiểm toán;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002020001500
+- Số giờ cập nhật kiến thức từ ngày 16/8 năm trước đến ngày 15/8 năm báo cáo;
 
-**ID:** dk_00023854
+- Thời hạn của hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán;
 
----
+- Việc có thay đổi hay không trong hợp đồng lao động làm toàn bộ thời gian ký kết với doanh nghiệp kiểm toán trong năm so với lần gần nhất;
 
+- Tình hình chấp hành pháp luật về kiểm toán độc lập từ ngày 16/8 năm trước đến ngày 15/8 năm báo cáo.
 
-### Điều 17.2.TT.3.3. Đối tượng được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+c) Đối tượng thực hiện báo cáo: Kiểm toán viên hành nghề.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/8 năm báo cáo.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ hàng năm.
+
+h) Thời gian chốt số liệu báo cáo: Từ ngày 16/8 năm trước đến ngày 15/8 năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 10/ĐKHN ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 10/ĐKHN ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, kiểm toán viên hành nghề kê khai thông tin về việc duy trì các điều kiện để hành nghề kiểm toán theo mẫu và gửi về Bộ Tài chính thông qua doanh nghiệp kiểm toán theo thời hạn quy định.
+
+2. Thông báo bằng văn bản cho Bộ Tài chính chậm nhất là 15 ngày kể từ ngày Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị đối với các trường hợp quy định tại điểm d, đ, e, h khoản 1 Điều 8 Thông tư này theo mẫu quy định tại Phụ lục số 08/ĐKHN ban hành kèm theo Thông tư này.
+
+3. Có văn bản gửi doanh nghiệp kiểm toán về việc không tiếp tục hành nghề kiểm toán theo quy định tại điểm g khoản 1 Điều 8 Thông tư này chậm nhất là 15 ngày trước ngày không tiếp tục hành nghề kiểm toán.
+
+4. Nộp lại Giấy chứng nhận đăng ký hành nghề kiểm toán cũ cho Bộ Tài chính thông qua doanh nghiệp kiểm toán chậm nhất là 15 ngày kể từ ngày Giấy chứng nhận hết hiệu lực hoặc không còn giá trị đối với các trường hợp quy định tại điểm b, d, đ, e, g, h khoản 1 Điều 8 Thông tư này trừ trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán đã được nộp trong hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán.
+
+5. Thông báo bằng văn bản cho Bộ Tài chính khi bị xử phạt vi phạm hành chính trong lĩnh vực kiểm toán chậm nhất là 15 ngày kể từ ngày quyết định xử phạt có hiệu lực.
+
+6. Không được sử dụng Giấy chứng nhận đăng ký hành nghề kiểm toán đã bị hết hiệu lực hoặc không còn giá trị trong các hoạt động nghề nghiệp kiểm toán.
+
+7. Kiểm toán viên đang đăng ký hành nghề tại doanh nghiệp kiểm toán mà còn đồng thời làm đại diện theo pháp luật, giám đốc (phó giám đốc), chủ tịch hội đồng quản trị, chủ tịch hội đồng thành viên, kế toán trưởng (hoặc phụ trách kế toán), nhân viên kế toán, kiểm toán nội bộ hoặc các chức danh khác tại đơn vị, tổ chức khác thì kiểm toán viên hành nghề phải thông báo bằng văn bản cho Bộ Tài chính thời hạn 15 ngày kể từ ngày bắt đầu hoặc ngừng tham gia các công việc hoặc có thay đổi về thời gian làm việc, chức danh tại các đơn vị đó.
+
+8. Cung cấp thông tin định kỳ hoặc đột xuất liên quan đến hoạt động hành nghề kiểm toán của mình theo yêu cầu của Bộ Tài chính.
+
+9. Chấp hành các quy định về thanh tra, kiểm tra việc đăng ký hành nghề kiểm toán của Bộ Tài chính.
+
+10. Trách nhiệm khác theo quy định của pháp luật.
+
+Phụ lục 202.2012.docx
+
+Điều 17.2.TT.2.15. Trách nhiệm của doanh nghiệp kiểm toán và người đại diện theo pháp luật của doanh nghiệp kiểm toán
+
+(Điều 15 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 6 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Quản lý kiểm toán viên đăng ký hành nghề kiểm toán tại đơn vị mình.
+
+2. Người đại diện theo pháp luật của doanh nghiệp kiểm toán có trách nhiệm xem xét, rà soát và ký xác nhận vào các tài liệu phục vụ đăng ký hành nghề kiểm toán và Báo cáo duy trì điều kiện hành nghề hàng năm của các kiểm toán viên đăng ký tại tổ chức mình.
+
+3. 
+
+Gửi báo cáo Tổng hợp tình hình duy trì điều kiện hành nghề kiểm toán hàng năm với những nội dung sau:
+
+a) Tên báo cáo: Tổng hợp tình hình duy trì điều kiện hành nghề kiểm toán hàng năm.
+
+b) Nội dung yêu cầu báo cáo: Tổng hợp thông tin duy trì về điều kiện đăng ký hành nghề kiểm toán trong năm của các kiểm toán viên hành nghề tại doanh nghiệp kiểm toán, cụ thể:
+
+- Tình hình cập nhật kiến thức và thời hạn hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán của các kiểm toán viên hành nghề từ ngày 16/8 năm trước đến 15/8 năm báo cáo;
+
+- Tình hình vi phạm hành chính trong lĩnh vực kiểm toán độc lập trong thời gian từ ngày 16/8 năm trước đến 15/8 năm báo cáo.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán);
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/8 năm báo cáo.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ hàng năm.
+
+h) Thời gian chốt số liệu báo cáo: Từ ngày 16/8 năm trước đến ngày 15/8 năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 11/ĐKHN ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 11/ĐKHN ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Doanh nghiệp kiểm toán lập báo cáo Tổng hợp tình hình duy trì điều kiện hành nghề kiểm toán hàng năm từ Báo cáo duy trì điều kiện hành nghề kiểm toán hàng năm của các kiểm toán viên đang hành nghề tại đơn vị theo mẫu. Doanh nghiệp kiểm toán gửi báo cáo Tổng hợp tình hình duy trì điều kiện hành nghề kiểm toán hàng năm kèm theo Báo cáo duy trì điều kiện hành nghề kiểm toán hàng năm của từng kiểm toán viên về Bộ Tài chính theo thời hạn quy định.
+
+4. Thông báo bằng văn bản cho Bộ Tài chính chậm nhất là 15 ngày kể từ ngày Giấy chứng nhận hết hiệu lực hoặc không còn giá trị đối với các trường hợp quy định tại điểm d, đ, e, g, h, i khoản 1 Điều 8 Thông tư này.
+
+5. Nộp lại Giấy chứng nhận đăng ký hành nghề kiểm toán cũ cho Bộ Tài chính chậm nhất là 30 ngày kể từ ngày Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị đối với các trường hợp quy định tại điểm b, d, đ, e, g, h, i khoản 1 Điều 8 Thông tư này.
+
+6. Thông báo bằng văn bản cho Bộ Tài chính chậm nhất là 15 ngày kể từ ngày có thay đổi danh sách kiểm toán viên hành nghề đã đăng ký với Bộ Tài chính kể cả thay đổi giữa trụ sở chính với các chi nhánh hoặc giữa các chi nhánh của doanh nghiệp kiểm toán theo mẫu quy định tại Phụ lục số 09/ĐKHN ban hành kèm theo Thông tư này.
+
+7. Trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán còn thời hạn nhưng hợp đồng lao động làm toàn bộ thời gian của kiểm toán viên hành nghề tại doanh nghiệp kiểm toán hết thời hạn và kiểm toán viên hành nghề vẫn tiếp tục hành nghề tại doanh nghiệp kiểm toán đó thì phải tiếp tục ký kết hợp đồng lao động mới hoặc gia hạn hợp đồng lao động. Doanh nghiệp kiểm toán phải gửi bản sao hợp đồng lao động mới cho Bộ Tài chính chậm nhất là mười (10) ngày trước ngày hợp đồng lao động hết thời hạn.
+
+8. Khi có thay đổi về thời gian làm việc quy định tại hợp đồng lao động làm toàn bộ thời gian trong hồ sơ đăng ký hành nghề kiểm toán của kiểm toán viên hành nghề, doanh nghiệp kiểm toán phải thông báo bằng văn bản cho Bộ Tài chính kèm theo bản sao hợp đồng lao động mới ký kết với kiểm toán viên chậm nhất là 15 ngày kể từ ngày có thay đổi.
+
+9. Doanh nghiệp kiểm toán không được sử dụng Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề đã chuyển khỏi đơn vị mình hoặc Giấy chứng nhận đã hết hiệu lực hoặc không còn giá trị trong các hoạt động nghề nghiệp kiểm toán.
+
+10. Trách nhiệm khác theo quy định của pháp luật.
+
+Phụ lục 202.2012.docx
 
 Điều 17.2.TT.3.3. Đối tượng được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000300
+Giấy chứng nhận đủ điều kinh doanh dịch vụ kiểm toán được cấp cho công ty trách nhiệm hữu hạn (TNHH), công ty hợp danh, doanh nghiệp tư nhân, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có đủ các điều kiện theo quy định tại Điều 21 Luật kiểm toán độc lập và các quy định tại Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập (dưới đây gọi tắt là Nghị định 17/2012/NĐ-CP). Đối với công ty kiểm toán TNHH một thành viên có vốn đầu tư nước ngoài quy định tại Khoản 3 Điều 62 Luật kiểm toán độc lập không áp dụng điều kiện về mức vốn góp của kiểm toán viên hành nghề quy định tại Khoản 1 Điều 7 và vốn góp của tổ chức quy định tại Điều 6 Nghị định 17/2012/NĐ-CP trừ khi công ty cơ cấu lại tổ chức thành công ty TNHH 2 thành viên trở lên.
 
-**ID:** dk_00023855
+Điều 17.2.TT.3.4. Nguyên tắc lập hồ sơ
 
----
+(Điều 4 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
+1. Các bản sao giấy tờ, văn bằng phải được chứng thực bởi cơ quan có thẩm quyền theo quy định của pháp luật.
 
-### Điều 17.2.TT.3.4. Nguyên tắc lập hồ sơ
+2. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được làm bằng tiếng Việt. Các giấy tờ kèm theo đơn đề nghị bằng tiếng nước ngoài thì phải được dịch ra tiếng Việt và bản dịch phải được chứng thực theo quy định của pháp luật Việt Nam.
 
-*Nội dung chưa có sẵn*
+3. Giấy tờ do cơ quan, tổ chức nước ngoài cấp hoặc công chứng, chứng thực ở nước ngoài phải được hợp pháp hoá lãnh sự theo quy định của pháp luật Việt Nam, trừ trường hợp được miễn hợp pháp hoá lãnh sự theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
 
-**Chỉ mục:** 4
+4. Tổ chức đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải chịu trách nhiệm về tính chính xác, trung thực của hồ sơ gửi Bộ Tài chính.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000400
-
-**ID:** dk_00023856
-
----
-
-
-### Điều 17.2.TT.3.5. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với công ty trách nhiệm hữu hạn, công ty hợp danh và doanh nghiệp tư nhân
+5. Tổ chức, cá nhân trực tiếp xác nhận vốn cùng liên đới chịu trách nhiệm về tính chính xác, trung thực của số vốn tại thời điểm xác nhận.
 
 Điều 17.2.TT.3.5. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với công ty trách nhiệm hữu hạn, công ty hợp danh và doanh nghiệp tư nhân
 
-**Chỉ mục:** 5
+(Điều 5 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung bị bãi bỏ bởi Điều 1 Thông tư số 22/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000500
+1. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục I).
 
-**ID:** dk_00023857
+2. Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư.
 
----
+3. Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp (theo mẫu quy định tại Phụ lục III).
 
+5. Bản sao Quyết định của Hội đồng thành viên về việc bổ nhiệm chức danh Giám đốc (Tổng Giám đốc) đối với công ty TNHH, công ty hợp danh.
 
-### Điều 17.2.TT.3.6. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+6. Bản sao Điều lệ công ty.
+
+7. Danh sách các tổ chức, cá nhân góp vốn, danh sách thành viên hợp danh (theo mẫu quy định tại phụ lục IV), trong đó phải thể hiện rõ các nội dung sau:
+
+a) Họ và tên, địa chỉ thường trú, quốc tịch; Số và ngày cấp, nơi cấp giấy chứng minh nhân dân hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác đối với cá nhân; Số và ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (đối với các cá nhân là kiểm toán viên hành nghề);
+
+b) Tên, địa chỉ đặt trụ sở, số và ngày quyết định thành lập (hoặc đăng ký kinh doanh) đối với tổ chức; Họ và tên, địa chỉ thường trú, quốc tịch, số và ngày cấp, nơi cấp giấy chứng minh nhân dân, hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác; Số và ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán đối với cá nhân được cử là người đại diện phần vốn góp của tổ chức;
+
+c) Số vốn góp theo đăng ký, giá trị vốn đã thực góp, tỷ lệ sở hữu, thời hạn góp vốn.
+
+8. Văn bản xác nhận về vốn đối với công ty TNHH, cụ thể như sau:
+
+a) Đối với doanh nghiệp thành lập mới phải có:
+
+- Biên bản góp vốn của các thành viên sáng lập;
+
+- Trường hợp số vốn được góp bằng tiền thì phải có văn bản xác nhận của ngân hàng thương mại được phép hoạt động tại Việt Nam về số tiền ký quỹ của các thành viên sáng lập. Số tiền ký quỹ tối thiểu phải bằng số vốn góp bằng tiền của các thành viên sáng lập và chỉ được giải ngân sau khi doanh nghiệp được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
+
+- Trường hợp số vốn góp bằng tài sản thì phải có chứng thư của tổ chức có chức năng thẩm định giá đang hoạt động tại Việt Nam về kết quả thẩm định giá tài sản được đưa vào góp vốn. Chứng thư phải còn hiệu lực tính đến ngày nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+b) Đối với doanh nghiệp đang hoạt động phải có văn bản xác nhận của doanh nghiệp kiểm toán độc lập khác về mức vốn hiện có thuộc sở hữu của doanh nghiệp đó được ghi trong báo cáo tài chính của doanh nghiệp tại thời điểm gần nhất (năm đăng ký hoặc năm trước liền kề năm đăng ký).
+
+Phụ lục 203.2012.docx
 
 Điều 17.2.TT.3.6. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
 
-**Chỉ mục:** 6
+(Điều 6 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung bị bãi bỏ bởi Điều 1 Thông tư số 22/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000600
+1. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục II).
 
-**ID:** dk_00023858
+2. Bản sao giấy phép cung cấp dịch vụ kiểm toán của doanh nghiệp kiểm toán nước ngoài (hoặc văn bản tương đương) theo quy định của pháp luật của nước nơi doanh nghiệp kiểm toán nước ngoài đặt trụ sở chính.
 
----
+3. Bản sao Giấy phép thành lập chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam của doanh nghiệp kiểm toán nước ngoài.
 
+4. Văn bản của doanh nghiệp kiểm toán nước ngoài gửi Bộ Tài chính bảo đảm chịu trách nhiệm về mọi nghĩa vụ và cam kết của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
-### Điều 17.2.TT.3.7. Trình tự, thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+5. Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
+7. Quyết định của doanh nghiệp kiểm toán nước ngoài về việc bổ nhiệm chức danh Giám đốc (Tổng Giám đốc) chi nhánh.
+
+8. Văn bản xác nhận của doanh nghiệp kiểm toán độc lập khác về mức vốn hiện có thuộc sở hữu của doanh nghiệp kiểm toán nước ngoài được ghi trong báo cáo tài chính của doanh nghiệp tại thời điểm gần nhất (năm đăng ký hoặc năm trước liền kề năm đăng ký).
+
+9. Tài liệu chứng minh về việc doanh nghiệp kiểm toán nước ngoài cấp vốn cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
+Phụ lục 203.2012.docx
 
 Điều 17.2.TT.3.7. Trình tự, thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 7
+(Điều 7 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000700
+1. Tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán gửi một bộ hồ sơ theo quy định tại Thông tư này tới Bộ Tài chính.
 
-**ID:** dk_00023859
+2. Trong thời gian quy định tại Khoản 1 Điều 23, Khoản 3 Điều 24 Luật kiểm toán độc lập, kể từ ngày tiếp nhận hồ sơ, nếu không có yêu cầu bổ sung hoặc giải trình thì Bộ Tài chính xem xét để cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán; Trường hợp từ chối Bộ Tài chính phải có văn bản trả lời và nêu rõ lý do.
 
----
+3. Trường hợp hồ sơ đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán chưa hợp lệ thì trong thời gian 10 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Bộ Tài chính thông báo cho tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán để hoàn chỉnh hồ sơ.
 
+4. Khi nhận được văn bản yêu cầu hoàn chỉnh hồ sơ, tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải bổ sung, sửa đổi theo thông báo và gửi về Bộ Tài chính. Sau 10 ngày làm việc, kể từ ngày nhận được hồ sơ bổ sung, sửa đổi, nếu Bộ Tài chính không có văn bản yêu cầu sửa đổi, bổ sung thì xem xét cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trong thời gian quy định tại Khoản 1 Điều 23, Khoản 3 Điều 24 Luật kiểm toán độc lập.
 
-### Điều 17.2.TT.3.8. Nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+5. Trường hợp tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã bổ sung, sửa đổi hồ sơ nhưng không đúng với yêu cầu, Bộ Tài chính sẽ thông báo cho tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán để tiếp tục hoàn chỉnh hồ sơ theo quy định tại Khoản 3, Khoản 4 Điều này.
 
 Điều 17.2.TT.3.8. Nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 2 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000800
+1. Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán bao gồm các thông tin chính sau đây:
 
-**ID:** dk_00023860
+a) Tên doanh nghiệp kiểm toán; Tên doanh nghiệp kiểm toán bằng tiếng nước ngoài (nếu có); Tên viết tắt (nếu có); Địa chỉ trụ sở chính;
 
----
+b)  Họ và tên, số và ngày cấp giấy chứng nhận đăng ký hành nghề kiểm toán của người đại diện theo pháp luật và của Giám đốc (Tổng Giám đốc) của doanh nghiệp kiểm toán (nếu không phải là người đại diện theo pháp luật);
 
+c) Số và ngày cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
-### Điều 17.2.TT.3.9. Điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+d) Số, ngày cấp và tên cơ quan cấp Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư;
+
+đ) Các điều khoản, điều kiện doanh nghiệp kiểm toán phải tuân thủ khi sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+2. Mẫu Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán quy định tại Phụ lục V Thông tư này.
+
+Phụ lục 203.2012.docx
 
 Điều 17.2.TT.3.9. Điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030000900
+1. Doanh nghiệp kiểm toán phải làm thủ tục đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán khi có sự thay đổi nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán quy định tại Khoản 1 Điều 8 Thông tư này.
 
-**ID:** dk_00023861
+2. Hồ sơ đề nghị điều chỉnh Giấy chứng nhận kinh doanh dịch vụ kiểm toán bao gồm:
 
----
+a) Đơn đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục VI);
 
+b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã được cấp lần gần nhất;
 
-### Điều 17.2.TT.3.10. Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+c) Báo cáo mô tả chi tiết nội dung đề nghị điều chỉnh và các tài liệu có liên quan đến thông tin điều chỉnh.
+
+Phụ lục 203.2012.docx
 
 Điều 17.2.TT.3.10. Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002030001000
+1. Doanh nghiệp kiểm toán đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được đề nghị cấp lại trong các trường hợp sau:
 
-**ID:** dk_00023862
+a) Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán bị mất hoặc bị hư hỏng;
 
----
+b) Chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu.
 
+2. Doanh nghiệp kiểm toán phải làm thủ tục đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trong thời hạn 20 ngày kể từ ngày Giấy chứng nhận bị mất hoặc bị hư hỏng hoặc hoàn thành việc chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu.
 
-### Điều 17.2.TT.3.11. Nộp lệ phí
+3. Hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với trường hợp bị mất hoặc bị hư hỏng, bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục VII);
 
-**Chỉ mục:** 11
+b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã được cấp, trừ trường hợp bị mất;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501100
+c) Tài liệu có liên quan khác.
 
-**ID:** dk_00023863
+4. Hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với trường hợp chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu thực hiện theo quy định tại Điều 5, Điều 6 Thông tư này.
 
----
+**Điều 1****1****. Nộp lệ phí**
 
+1. Tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải nộp lệ phí ngay khi nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
-### Điều 17.2.TT.3.12. Đình chỉ kinh doanh dịch vụ kiểm toán
+2. Mức lệ phí, việc quản lý, sử dụng lệ phí cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được thực hiện theo quy định của Bộ Tài chính.
+
+**Điều 1****2****. Đình chỉ kinh doanh dịch vụ kiểm toán**
+
+1. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp quy định tại Khoản 1 Điều 27 Luật kiểm toán độc lập.
+
+2. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán phải ngừng kinh doanh dịch vụ kiểm toán kể từ ngày có quyết định đình chỉ.
+
+3. Bộ Tài chính công bố quyết định đình chỉ kinh doanh dịch vụ kiểm toán trên trang thông tin điện tử của Bộ Tài chính trong thời hạn 7 (bảy) ngày kể từ ngày có quyết định đình chỉ.
+
+**Điều 1****3****. Thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán**
+
+1. Doanh nghiệp kiểm toán bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp quy định tại Khoản 2 Điều 27 Luật kiểm toán độc lập.
+
+2. Doanh nghiệp kiểm toán bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải chấm dứt việc kinh doanh dịch vụ kiểm toán kể từ ngày có quyết định thu hồi.
+
+3. Bộ Tài chính công bố quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trên trang thông tin điện tử của Bộ Tài chính trong thời hạn 7 (bảy) ngày kể từ ngày có quyết định thu hồi.
+
+4. Doanh nghiệp kiểm toán phải nộp trả Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho Bộ Tài chính trong thời hạn 10 ngày kể từ ngày có quyết định thu hồi.
+
+**Điều 1****4****. Tạm ngừng kinh doanh dịch vụ kiểm toán**
+
+1. Doanh nghiệp kiểm toán muốn tạm ngừng kinh doanh dịch vụ kiểm toán phải gửi thông báo về việc tạm ngừng kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục XI) đến Bộ Tài chính ít nhất 15 ngày trước ngày dự định tạm ngừng kinh doanh.
+
+2. Danh sách doanh nghiệp kiểm toán tạm ngừng kinh doanh dịch vụ kiểm toán được công khai trên trang thông tin điện tử của Bộ Tài chính.
+
+3. Khi hoạt động trở lại, doanh nghiệp kiểm toán phải bảo đảm điều kiện theo quy định của pháp luật và phải thông báo bằng văn bản cho Bộ Tài chính chậm nhất là 10 ngày trước ngày hoạt động trở lại.
+
+**Điều 1****5****. Chấm dứt kinh doanh dịch vụ kiểm toán**
+
+1. Doanh nghiệp kiểm toán dự định chấm dứt kinh doanh dịch vụ kiểm toán phải gửi 01 bộ hồ sơ đề nghị chấm dứt kinh doanh dịch vụ kiểm toán đến Bộ Tài chính.
+
+2. Hồ sơ đề nghị chấm dứt kinh doanh dịch vụ kiểm toán bao gồm:
+
+a) Đơn đề nghị chấm dứt kinh doanh dịch vụ kiểm toán;
+
+b) Báo cáo về các hợp đồng kiểm toán và các hợp đồng cung cấp dịch vụ khác quy định tại Điểm b Khoản 1 Điều 40 Luật kiểm toán độc lập chưa hoàn thành;
+
+c) Biện pháp và cam kết đảm bảo quyền và lợi ích hợp pháp của khách hàng và các bên có liên quan;
+
+d) Phương án và biện pháp xử lý đối với các hợp đồng kiểm toán và các dịch vụ khác chưa hoàn thành (nếu có).
+
+3. Doanh nghiệp kiểm toán có trách nhiệm thông báo cho khách hàng (đơn vị được kiểm toán) và các bên có liên quan, công bố trên phương tiện thông tin đại chúng về việc chấm dứt kinh doanh dịch vụ kiểm toán ít nhất 30 ngày trước khi chính thức chấm dứt kinh doanh dịch vụ kiểm toán.
+
+4. Thông báo chấm dứt kinh doanh dịch vụ kiểm toán nêu tại Khoản 1 Điều này phải bao gồm các thông tin sau:
+
+a) Thời gian bắt đầu chấm dứt kinh doanh dịch vụ kiểm toán, lý do chấm dứt kinh doanh dịch vụ kiểm toán;
+
+b) Biện pháp và cam kết đảm bảo quyền và lợi ích hợp pháp của khách hàng và các bên có liên quan.
+
+**Điều 1****6****. Chi nhánh doanh nghiệp kiểm toán**
+
+1. Chi nhánh của doanh nghiệp kiểm toán chỉ được kinh doanh dịch vụ kiểm toán khi có đủ điều kiện quy định tại Điều 31 Luật kiểm toán độc lập.
+
+2. Doanh nghiệp kiểm toán đăng ký cho chi nhánh được kinh doanh dịch vụ kiểm toán gửi 01 bộ hồ sơ đến Bộ Tài chính. Hồ sơ gồm:
+
+a) Đơn đăng ký kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán (theo mẫu quy định tại Phụ lục VIII);
+
+b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh do cơ quan đăng ký kinh doanh cấp;
+
+c) Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề làm việc tại chi nhánh;
+
+d) Quyết định bổ nhiệm Giám đốc chi nhánh.
+
+3. Trong thời hạn 30 ngày kể từ ngày tiếp nhận hồ sơ hợp lệ, Bộ Tài chính có văn bản trả lời về việc chấp thuận cho từng chi nhánh. Trường hợp không chấp thuận, Bộ Tài chính phải nêu rõ lý do.
+
+4. Chi nhánh của doanh nghiệp kiểm toán không bảo đảm điều kiện quy định tại Điều 31 Luật kiểm toán độc lập sau ba tháng liên tục thì bị đình chỉ kinh doanh dịch vụ kiểm toán.
+
+5. Trường hợp doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán thì các chi nhánh của doanh nghiệp kiểm toán đó cũng bị đình chỉ kinh doanh dịch vụ kiểm toán.
+
+6. Chi nhánh bị đình chỉ kinh doanh dịch vụ kiểm toán phải chấm dứt việc kinh doanh dịch vụ kiểm toán kể từ ngày có quyết định đình chỉ.
+
+**Điều 1****7****. Trách nhiệm của doanh nghiệp kiểm toán**
+
+1. Duy trì và đảm bảo các điều kiện được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trong suốt thời gian hoạt động.
+
+2. Không sửa chữa, tẩy xóa nội dung ghi trong Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+3. Không cho thuê, cho mượn, cầm cố, mua bán, chuyển nhượng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+4. Báo cáo Bộ Tài chính trong thời hạn 10 ngày kể từ ngày bị mất, bị hư hỏng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+5. Thông báo bằng văn bản (kèm theo tài liệu chứng minh) cho Bộ Tài chính trong thời hạn 10 ngày, kể từ ngày có thay đổi về những nội dung quy định tại Điều 26 Luật kiểm toán độc lập.
+
+6. Chịu sự kiểm tra, thanh tra và chấp hành quyết định xử lý của cơ quan nhà nước có thẩm quyền về việc đảm bảo điều kiện kinh doanh dịch vụ kiểm toán và việc sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+7. Định kỳ hàng năm trước ngày 31/10, hoặc khi có yêu cầu, doanh nghiệp kiểm toán phải báo cáo tình hình duy trì điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục IX) cho Bộ Tài chính kèm theo những tài liệu quy định tại Điều 5, Điều 6 Thông tư này có thay đổi so với lần nộp gần nhất.
+
+8. Hàng năm, doanh nghiệp kiểm toán có trách nhiệm gửi báo cáo tình hình hoạt động năm (theo mẫu quy định tại Phụ lục X) và báo cáo tài chính năm trước liền kề cho Bộ Tài chính. Thời hạn gửi báo cáo tình hình hoạt động năm chậm nhất là ngày 10/4 năm sau. Thời hạn gửi báo cáo tài chính chậm nhất là 90 ngày kể từ ngày kết thúc năm tài chính.
+
+**Điều 1****8****. Công khai thông tin về doanh nghiệp kiểm toán**
+
+1. Bộ Tài chính công khai trên trang thông tin điện tử của Bộ Tài chính:
+
+a) Danh sách các doanh nghiệp kiểm toán đủ điều kiện cung cấp dịch vụ kiểm toán;
+
+b) Danh sách các doanh nghiệp kiểm toán, chi nhánh của doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán, bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán hoặc bị cảnh báo về điều kiện kinh doanh trong thời gian doanh nghiệp kiểm toán, chi nhánh của doanh nghiệp kiểm toán không đảm bảo điều kiện hoạt động dịch vụ kiểm toán theo quy định;
+
+c) Danh sách các doanh nghiệp kiểm toán tạm ngừng kinh doanh dịch vụ kiểm toán, chấm dứt kinh doanh dịch vụ kiểm toán.
+
+2. Trong thời hạn 30 ngày kể từ ngày được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán, doanh nghiệp kiểm toán phải công bố nội dung của Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán quy định tại các Điểm a, b, c Khoản 1 Điều 8 Thông tư này trên một trong các tờ báo viết hoặc báo điện tử trong 03 số liên tiếp.
+
+Phụ lục 203.2012.docx
+
+Điều 17.2.TT.3.11. Nộp lệ phí
+
+(Điều 11 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
+
+1. Tổ chức đề nghị cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải nộp lệ phí ngay khi nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+2. Mức lệ phí, việc quản lý, sử dụng lệ phí cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được thực hiện theo quy định của Bộ Tài chính.
 
 Điều 17.2.TT.3.12. Đình chỉ kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 2 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501200
+1. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán trong các trường hợp sau:
 
-**ID:** dk_00023864
+a) Vi phạm các trường hợp quy định tại điểm a, b khoản 1 Điều 27 và khoản 1b Điều 29 Luật kiểm toán độc lập;
 
----
+b) Cung cấp dịch vụ kiểm toán khi chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán; tiếp tục kinh doanh dịch vụ kiểm toán khi đã tạm ngừng kinh doanh dịch vụ kiểm toán hoặc bị đình chỉ kinh doanh dịch vụ kiểm toán (nếu thời điểm phát hiện hành vi vi phạm doanh nghiệp kiểm toán đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán và đủ điều kiện kinh doanh dịch vụ kiểm toán);
 
+c) Bố trí người ký báo cáo kiểm toán khi không phải là kiểm toán viên hành nghề;
 
-### Điều 17.2.TT.3.13. Thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+d) Bố trí kiểm toán viên hành nghề thực hiện kiểm toán, ký báo cáo kiểm toán báo cáo tài chính cho một đơn vị có lợi ích công chúng quá 5 năm tài chính liên tục từ lần thứ 2 trở đi;
+
+đ) Không cung cấp thông tin, tài liệu theo yêu cầu của cơ quan, tổ chức có thẩm quyền;
+
+e) Không giải trình, hợp tác theo yêu cầu của cơ quan, tổ chức có thẩm quyền;
+
+g) Doanh nghiệp kiểm toán tại Việt Nam liên danh với doanh nghiệp kiểm toán nước ngoài thực hiện không lưu trữ hồ sơ của cuộc kiểm toán đã thực hiện liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam;
+
+h) Sử dụng thông tin có liên quan đến hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán để xâm phạm lợi ích của Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
+
+i) Không lập hồ sơ kiểm toán đối với cuộc kiểm toán;
+
+k) Doanh nghiệp kiểm toán cung cấp dịch vụ kiểm toán hoặc dịch vụ soát xét cho đơn vị có lợi ích công chúng khi chưa được Bộ Tài chính chấp thuận hoặc khi bị đình chỉ hoặc bị hủy bỏ tư cách được chấp thuận kiểm toán;
+
+l) Cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam khi chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam; tiếp tục kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam khi đã tạm ngừng kinh doanh dịch vụ kiểm toán hoặc bị đình chỉ kinh doanh dịch vụ kiểm toán (nếu thời điểm phát hiện hành vi vi phạm doanh nghiệp kiểm toán đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán và đủ điều kiện kinh doanh dịch vụ kiểm toán);
+
+m) Vi phạm trường hợp quy định tại điểm c khoản 1 Điều 27 Luật kiểm toán độc lập.
+
+2. Thời gian đình chỉ kinh doanh dịch vụ kiểm toán:
+
+a) Đình chỉ kinh doanh dịch vụ kiểm toán trong thời gian 03 tháng đối với doanh nghiệp kiểm toán thuộc các trường hợp quy định tại điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e khoản 1 Điều này;
+
+b) Đình chỉ kinh doanh dịch vụ kiểm toán trong thời gian 06 tháng đối với doanh nghiệp kiểm toán thuộc các trường hợp quy định tại điểm g, điểm h, điểm i, điểm k, điểm l khoản 1 Điều này;
+
+c) Doanh nghiệp kiểm toán thuộc trường hợp quy định tại điểm m khoản 1 Điều này bị đình chỉ kinh doanh dịch vụ kiểm toán theo quy định của pháp luật về kiểm soát chất lượng dịch vụ kiểm toán.
+
+3. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán phải ngừng kinh doanh dịch vụ kiểm toán kể từ ngày có quyết định đình chỉ.
+
+Trường hợp doanh nghiệp kiểm toán đang bị đình chỉ kinh doanh dịch vụ kiểm toán hoặc tạm ngừng kinh doanh dịch vụ kiểm toán mà còn bị đình chỉ đối với các hành vi quy định tại khoản 1 Điều này thì thời gian bị đình chỉ này không tính vào thời gian đang bị đình chỉ hoặc đang tạm ngừng kinh doanh dịch vụ kiểm toán.
+
+4. Bộ Tài chính công bố quyết định đình chỉ kinh doanh dịch vụ kiểm toán trên trang thông tin điện tử của Bộ Tài chính trong thời hạn 7 (bảy) ngày kể từ ngày có quyết định đình chỉ.
 
 Điều 17.2.TT.3.13. Thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501300
+1. Doanh nghiệp kiểm toán bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp quy định tại Khoản 2 Điều 27 Luật kiểm toán độc lập.
 
-**ID:** dk_00023865
+2. Doanh nghiệp kiểm toán bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải chấm dứt việc kinh doanh dịch vụ kiểm toán kể từ ngày có quyết định thu hồi.
 
----
+3. Bộ Tài chính công bố quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trên trang thông tin điện tử của Bộ Tài chính trong thời hạn 7 (bảy) ngày kể từ ngày có quyết định thu hồi.
 
-
-### Điều 17.2.TT.3.14. Tạm ngừng kinh doanh dịch vụ kiểm toán
+4. Doanh nghiệp kiểm toán phải nộp trả Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho Bộ Tài chính trong thời hạn 10 ngày kể từ ngày có quyết định thu hồi.
 
 Điều 17.2.TT.3.14. Tạm ngừng kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 14
+(Điều 14 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501400
+1. Doanh nghiệp kiểm toán muốn tạm ngừng kinh doanh dịch vụ kiểm toán phải gửi thông báo về việc tạm ngừng kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục XI) đến Bộ Tài chính ít nhất 15 ngày trước ngày dự định tạm ngừng kinh doanh.
 
-**ID:** dk_00023866
+2. Danh sách doanh nghiệp kiểm toán tạm ngừng kinh doanh dịch vụ kiểm toán được công khai trên trang thông tin điện tử của Bộ Tài chính.
 
----
-
-
-### Điều 17.2.TT.3.15. Chấm dứt kinh doanh dịch vụ kiểm toán
+3. Khi hoạt động trở lại, doanh nghiệp kiểm toán phải bảo đảm điều kiện theo quy định của pháp luật và phải thông báo bằng văn bản cho Bộ Tài chính chậm nhất là 10 ngày trước ngày hoạt động trở lại.
 
 Điều 17.2.TT.3.15. Chấm dứt kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501500
+1. Doanh nghiệp kiểm toán dự định chấm dứt kinh doanh dịch vụ kiểm toán phải gửi 01 bộ hồ sơ đề nghị chấm dứt kinh doanh dịch vụ kiểm toán đến Bộ Tài chính.
 
-**ID:** dk_00023867
+2. Hồ sơ đề nghị chấm dứt kinh doanh dịch vụ kiểm toán bao gồm:
 
----
+a) Đơn đề nghị chấm dứt kinh doanh dịch vụ kiểm toán;
 
+b) Báo cáo về các hợp đồng kiểm toán và các hợp đồng cung cấp dịch vụ khác quy định tại Điểm b Khoản 1 Điều 40 Luật kiểm toán độc lập chưa hoàn thành;
 
-### Điều 17.2.TT.3.16. Chi nhánh doanh nghiệp kiểm toán
+c) Biện pháp và cam kết đảm bảo quyền và lợi ích hợp pháp của khách hàng và các bên có liên quan;
+
+d) Phương án và biện pháp xử lý đối với các hợp đồng kiểm toán và các dịch vụ khác chưa hoàn thành (nếu có).
+
+3. Doanh nghiệp kiểm toán có trách nhiệm thông báo cho khách hàng (đơn vị được kiểm toán) và các bên có liên quan, công bố trên phương tiện thông tin đại chúng về việc chấm dứt kinh doanh dịch vụ kiểm toán ít nhất 30 ngày trước khi chính thức chấm dứt kinh doanh dịch vụ kiểm toán.
+
+4. Thông báo chấm dứt kinh doanh dịch vụ kiểm toán nêu tại Khoản 1 Điều này phải bao gồm các thông tin sau:
+
+a) Thời gian bắt đầu chấm dứt kinh doanh dịch vụ kiểm toán, lý do chấm dứt kinh doanh dịch vụ kiểm toán;
+
+b) Biện pháp và cam kết đảm bảo quyền và lợi ích hợp pháp của khách hàng và các bên có liên quan.
 
 Điều 17.2.TT.3.16. Chi nhánh doanh nghiệp kiểm toán
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 2 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501600
+1. Chi nhánh của doanh nghiệp kiểm toán chỉ được kinh doanh dịch vụ kiểm toán khi có đủ điều kiện quy định tại Điều 31 Luật kiểm toán độc lập.
 
-**ID:** dk_00023868
+2. Doanh nghiệp kiểm toán đăng ký cho chi nhánh được kinh doanh dịch vụ kiểm toán gửi 01 bộ hồ sơ đến Bộ Tài chính. Hồ sơ gồm:
 
----
+a) Đơn đăng ký kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán (theo mẫu quy định tại Phụ lục VIII);
 
+b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh do cơ quan đăng ký kinh doanh cấp;
 
-### Điều 17.2.TT.3.17. Trách nhiệm của doanh nghiệp kiểm toán
+c) Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề làm việc tại chi nhánh;
+
+d) Quyết định bổ nhiệm Giám đốc chi nhánh.
+
+3. Trong thời hạn 30 ngày kể từ ngày tiếp nhận hồ sơ hợp lệ, Bộ Tài chính có văn bản trả lời về việc chấp thuận cho từng chi nhánh. Trường hợp không chấp thuận, Bộ Tài chính phải nêu rõ lý do.
+
+4. Chi nhánh của doanh nghiệp kiểm toán không bảo đảm điều kiện quy định tại Điều 31 Luật kiểm toán độc lập sau 03 tháng liên tục thì bị đình chỉ kinh doanh dịch vụ kiểm toán trong thời gian 03 tháng.
+
+5. Trường hợp doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán thì các chi nhánh của doanh nghiệp kiểm toán đó cũng bị đình chỉ kinh doanh dịch vụ kiểm toán theo thời hạn đình chỉ của doanh nghiệp kiểm toán.
+
+6. Chi nhánh bị đình chỉ kinh doanh dịch vụ kiểm toán phải chấm dứt việc kinh doanh dịch vụ kiểm toán kể từ ngày có quyết định đình chỉ.
 
 Điều 17.2.TT.3.17. Trách nhiệm của doanh nghiệp kiểm toán
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 5 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020; Điều 2 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501700
+1. Duy trì và đảm bảo các điều kiện được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trong suốt thời gian hoạt động.
 
-**ID:** dk_00023869
+2. Không sửa chữa, tẩy xóa nội dung ghi trong Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
----
+3. Không cho thuê, cho mượn, cầm cố, mua bán, chuyển nhượng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
+4. Báo cáo Bộ Tài chính trong thời hạn 10 ngày kể từ ngày bị mất, bị hư hỏng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
-### Điều 17.2.TT.3.18. Công khai thông tin về doanh nghiệp kiểm toán
+5. Thông báo bằng văn bản (kèm theo tài liệu chứng minh) cho Bộ Tài chính trong thời hạn 10 ngày, kể từ ngày có thay đổi về những nội dung quy định tại Điều 26 Luật kiểm toán độc lập.
+
+6. Chịu sự kiểm tra, thanh tra và chấp hành quyết định xử lý của cơ quan nhà nước có thẩm quyền về việc đảm bảo điều kiện kinh doanh dịch vụ kiểm toán và việc sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+7. Gửi Báo cáo tình hình duy trì điều kiện kinh doanh dịch vụ kiểm toán với những nội dung sau:
+
+a) Tên báo cáo: Báo cáo tình hình duy trì điều kiện kinh doanh dịch vụ kiểm toán.
+
+b) Nội dung yêu cầu báo cáo: Kê khai việc duy trì từng điều kiện kinh doanh dịch vụ kiểm toán trong năm của doanh nghiệp kiểm toán. Cụ thể:
+
+- Số và ngày Giấy chứng nhận đăng ký kinh doanh (hoặc Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư) cấp lần gần nhất;
+
+-  Số và ngày Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cấp lần đầu và cấp điều chỉnh/cấp lại lần gần nhất;
+
+- Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán đến thời điểm báo cáo;
+
+- Vốn điều lệ tại thời điểm báo cáo, trong đó chi tiết:
+
++ Vốn góp của kiểm toán viên hành nghề;
+
++ Vốn góp của thành viên là tổ chức; Họ tên và Giấy chứng nhận đăng ký hành nghề kiểm toán của người đại diện của thành viên là tổ chức;
+
+- Vốn chủ sở hữu trên Báo cáo tình hình tài chính năm gần thời điểm báo cáo nhất;
+
+- Việc mua bảo hiểm nghề nghiệp, trích lập quỹ dự phòng rủi ro nghề nghiệp;
+
+- Việc chấp hành pháp luật.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/10 năm báo cáo hoặc khi có yêu cầu của cơ quan có thẩm quyền.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ hàng năm hoặc theo yêu cầu.
+
+h) Thời gian chốt số liệu báo cáo: Tính từ ngày 01/10 năm trước đến ngày 30/9 năm báo cáo hoặc đến thời điểm theo yêu cầu.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục IX ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục IX ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán tổng hợp thông tin các điều kiện kinh doanh kiểm toán theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+8. Gửi Báo cáo tình hình hoạt động năm với những nội dung sau:
+
+a) Tên báo cáo: Báo cáo tình hình hoạt động năm.
+
+b) Nội dung yêu cầu báo cáo: Báo cáo số liệu, thông tin cơ bản nhất về tình hình hoạt động kinh doanh kiểm toán của doanh nghiệp kiểm toán trong năm, cụ thể:
+
+- Tình hình nhân viên;
+
+- Tình hình doanh thu;
+
+- Kết quả kinh doanh;
+
+- Những thay đổi trong năm;
+
+- Thuận lợi, khó khăn và các kiến nghị, đề xuất hoặc thông tin khác công ty cần cung cấp cho Bộ Tài chính (nếu có).
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 10/4 năm sau.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ hàng năm.
+
+h) Thời gian chốt số liệu báo cáo: Từ ngày 01/01 đến ngày 31/12 năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục X ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục X ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán tổng hợp thông tin về tình hình hoạt động kinh doanh kiểm toán theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+9. Thông báo bằng văn bản cho Bộ Tài chính trong thời hạn 10 ngày kể từ ngày kiểm toán viên hành nghề bị cấm hành nghề kiểm toán theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật; bị truy cứu trách nhiệm hình sự; bị kết án một trong các tội xâm phạm trật tự quản lý kinh tế, tội phạm về chức vụ liên quan đến tài chính, kế toán, kiểm toán mà chưa được xóa án tích; bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn, đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc.
+
+10. Mở sổ theo dõi các hợp đồng kiểm toán, báo cáo kiểm toán đã phát hành, đăng ký chữ ký của kiểm toán viên hành nghề tại công ty; thiết lập quy trình phát hành báo cáo kiểm toán và các kiểm soát đối với các chữ ký của kiểm toán viên hành nghề trên báo cáo kiểm toán để thường xuyên rà soát, đối chiếu giữa chữ ký đăng ký với các chữ ký trên báo cáo kiểm toán; kịp thời phát hiện và báo cáo cơ quan có thẩm quyền về con dấu, chữ ký giả mạo, các trường hợp người không đủ điều kiện đăng ký hành nghề, người ký báo cáo kiểm toán mà không thực sự tham gia cuộc kiểm toán.
 
 Điều 17.2.TT.3.18. Công khai thông tin về doanh nghiệp kiểm toán
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802455002035501800
+1. Bộ Tài chính công khai trên trang thông tin điện tử của Bộ Tài chính:
 
-**ID:** dk_00023870
+a) Danh sách các doanh nghiệp kiểm toán đủ điều kiện cung cấp dịch vụ kiểm toán;
 
----
+b) Danh sách các doanh nghiệp kiểm toán, chi nhánh của doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán, bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán hoặc bị cảnh báo về điều kiện kinh doanh trong thời gian doanh nghiệp kiểm toán, chi nhánh của doanh nghiệp kiểm toán không đảm bảo điều kiện hoạt động dịch vụ kiểm toán theo quy định;
 
+c) Danh sách các doanh nghiệp kiểm toán tạm ngừng kinh doanh dịch vụ kiểm toán, chấm dứt kinh doanh dịch vụ kiểm toán.
 
-### Điều 17.2.TT.13.3. Đối tượng dự thi
+2. Trong thời hạn 30 ngày kể từ ngày được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán, doanh nghiệp kiểm toán phải công bố nội dung của Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán quy định tại các Điểm a, b, c Khoản 1 Điều 8 Thông tư này trên một trong các tờ báo viết hoặc báo điện tử trong 03 số liên tiếp.
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.13.3. Đối tượng dự thi
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000300
+Người Việt Nam hoặc người nước ngoài có đủ các điều kiện dự thi quy định tại Điều 4 Thông tư này.
 
-**ID:** dk_00023871
+Điều 17.2.TT.13.4. Điều kiện dự thi
 
----
+(Điều 4 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
+Người dự thi lấy chứng chỉ kiểm toán viên, chứng chỉ kế toán viên phải có đủ các điều kiện sau đây:
 
-### Điều 17.2.TT.13.4. Điều kiện dự thi
+1. Có phẩm chất đạo đức nghề nghiệp, trung thực, liêm khiết, có ý thức chấp hành pháp luật;
 
-*Nội dung chưa có sẵn*
+2. Có bằng tốt nghiệp đại học trở lên về chuyên ngành Tài chính, Ngân hàng, Kế toán, Kiểm toán; hoặc có bằng tốt nghiệp đại học các chuyên ngành khác với tổng số đơn vị học trình (hoặc tiết học) các môn học: Tài chính, Kế toán, Kiểm toán, Phân tích hoạt động tài chính, Thuế từ 7% trở lên trên tổng số học trình (hoặc tiết học) cả khóa học; hoặc có bằng tốt nghiệp đại học các chuyên ngành khác và có văn bằng, chứng chỉ hoàn thành các khoá học do Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp bảo đảm các quy định tại Điều 9 Thông tư này;
 
-**Chỉ mục:** 4
+3. Có thời gian công tác thực tế về tài chính, kế toán, kiểm toán tối thiểu 36 tháng, được tính trong khoảng thời gian từ tháng tốt nghiệp ghi trên bằng tốt nghiệp đại học (hoặc sau đại học) đến thời điểm đăng ký dự thi. Thời gian công tác thực tế về kiểm toán bao gồm thời gian làm trợ lý kiểm toán tại doanh nghiệp kiểm toán, thời gian làm kiểm toán nội bộ tại bộ phận kiểm toán nội bộ của đơn vị, thời gian làm kiểm toán tại cơ quan Kiểm toán Nhà nước;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000400
+4. Nộp đầy đủ, đúng mẫu hồ sơ dự thi và chi phí dự thi theo quy định;
 
-**ID:** dk_00023872
+5. Không thuộc các đối tượng quy định tại khoản 1 và khoản 2 Điều 52 của Luật kế toán.
 
----
+Điều 17.2.TT.13.5. Hồ sơ dự thi
 
+(Điều 5 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017, có nội dung bị bãi bỏ bởi Điều 3 Thông tư số 22/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-### Điều 17.2.TT.13.5. Hồ sơ dự thi
+1. Người đăng ký dự thi lần đầu để lấy chứng chỉ kiểm toán viên hoặc chứng chỉ kế toán viên, hồ sơ dự thi gồm:
 
-*Nội dung chưa có sẵn*
+a) Phiếu đăng ký dự thi có xác nhận của cơ quan, đơn vị nơi đang công tác hoặc của Ủy ban nhân dân địa phương nơi cư trú, có dán ảnh màu cỡ 3x4 và đóng dấu giáp lai theo mẫu quy định tại Phụ lục số 02a hoặc Phụ lục số 02b ban hành kèm theo Thông tư nàykèm theo Giấy xác nhận về thời gian công tác thực tế làm tài chính, kế toán, kiểm toán có chữ ký của người đại diện theo pháp luật (hoặc người được ủy quyền) và đóng dấu xác nhận của cơ quan, đơn vị theo mẫu quy định tại Phụ lục số 06 ban hành kèm theo Thông tư này;
 
-**Chỉ mục:** 5
+c) Sơ yếu lý lịch có xác nhận của cơ quan, đơn vị nơi đang công tác hoặc Uỷ ban nhân dân địa phương nơi cư trú;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000500
+d) Bản sao văn bằng, chứng chỉ theo quy định tại khoản 2 Điều 4 Thông tư này, có xác nhận của tổ chức cấp hoặc cơ quan công chứng. Nếu là bằng tốt nghiệp đại học các chuyên ngành khác thì phải nộp kèm theo bảng điểm có chứng thực ghi rõ số đơn vị học trình (hoặc tiết học) của tất cả các môn học. Trường hợp người dự thi nộp bằng thạc sỹ, tiến sỹ thì phải nộp kèm theo bảng điểm học thạc sỹ, tiến sỹ có ghi rõ ngành học có chứng thực;
 
-**ID:** dk_00023873
+đ) 3 ảnh màu cỡ 3x4cm mới chụp trong vòng 6 tháng và 02 phong bì có dán tem và ghi rõ họ, tên, địa chỉ của người nhận.
 
----
+2. Người đăng ký dự thi tiếp các môn chưa thi hoặc thi lại các môn thi đã thi chưa đạt yêu cầu hoặc thi để đạt tổng số điểm quy định tại khoản 4 Điều 18 Thông tư này, hồ sơ gồm:
 
+a) Phiếu đăng ký dự thi có xác nhận của cơ quan, đơn vị nơi đang công tác hoặc của Ủy ban nhân dân địa phương nơi cư trú, có dán ảnh màu 3x4cm và đóng dấu giáp lai theo mẫu quy định tại Phụ lục số 02a hoặc Phụ lục số 02b ban hành kèm theo Thông tư này;
 
-### Điều 17.2.TT.13.6. Nội dung thi
+c) Ảnh và phong bì như quy định tại điểm đ khoản 1 Điều này.
 
-*Nội dung chưa có sẵn*
+3. Người có chứng chỉ kế toán viên muốn đăng ký dự thi lấy chứng chỉ kiểm toán viên, hồ sơ dự thi gồm:
 
-**Chỉ mục:** 6
+a) Phiếu đăng ký dự thi có xác nhận của cơ quan, đơn vị nơi đang công tác hoặc của Ủy ban nhân dân địa phương nơi cư trú, có dán ảnh màu 3x4cm và đóng dấu giáp lai theo mẫu quy định tại Phụ lục số 02b ban hành kèm theo Thông tư này;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000600
+b) Bản sao có chứng thực chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu;
 
-**ID:** dk_00023874
+c) Sơ yếu lý lịch có xác nhận của cơ quan, đơn vị nơi đang công tác hoặc Uỷ ban nhân dân địa phương nơi cư trú;
 
----
+đ) Ảnh và phong bì như quy định tại điểm đ khoản 1 Điều này.
 
+4. Hồ sơ dự thi do Hội đồng thi phát hành theo mẫu thống nhất. Người đăng ký dự thi phải nộp hồ sơ cho Hội đồng thi hoặc đơn vị được Hội đồng thi uỷ quyền trong thời hạn theo thông báo của Hội đồng thi.
 
-### Điều 17.2.TT.13.7. Thể thức thi
+5. Đơn vị nhận hồ sơ dự thi chỉ nhận hồ sơ khi người đăng ký dự thi nộp đầy đủ giấy tờ trên và nộp đủ chi phí dự thi.
 
-*Nội dung chưa có sẵn*
+6. Chi phí dự thi được hoàn trả cho người không đủ điều kiện dự thi hoặc người có đơn xin không tham dự kỳ thi trong thời hạn 10 ngày kể từ ngày Hội đồng thi công bố danh sách thí sinh đủ điều kiện dự thi.
 
-**Chỉ mục:** 7
+PHỤ LỤC 91.2017.docx
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000700
+Điều 17.2.TT.13.6. Nội dung thi
 
-**ID:** dk_00023875
+(Điều 6 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
----
+1. Người dự thi lấy chứng chỉ kế toán viên thi 4 môn thi sau:
 
+a) Pháp luật về kinh tế và Luật doanh nghiệp;
 
-### Điều 17.2.TT.13.8. Tổ chức các kỳ thi
+b) Tài chính và quản lý tài chính nâng cao;
 
-*Nội dung chưa có sẵn*
+c) Thuế và quản lý thuế nâng cao;
 
-**Chỉ mục:** 8
+d) Kế toán tài chính, kế toán quản trị nâng cao.
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000800
+2. Người dự thi lấy chứng chỉ kiểm toán viên thi 7 môn thi sau:
 
-**ID:** dk_00023876
+a) Pháp luật về kinh tế và Luật doanh nghiệp;
 
----
+b) Tài chính và quản lý tài chính nâng cao;
 
+c) Thuế và quản lý thuế nâng cao;
 
-### Điều 17.2.TT.13.9. Văn bằng, chứng chỉ do Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp
+d) Kế toán tài chính, kế toán quản trị nâng cao;
+
+đ) Kiểm toán và dịch vụ bảo đảm nâng cao;
+
+e) Phân tích hoạt động tài chính nâng cao;
+
+g) Ngoại ngữ trình độ C của 01 trong 05 ngoại ngữ thông dụng: Anh, Nga, Pháp, Trung Quốc, Đức.
+
+3. Người có chứng chỉ kế toán viên dự thi lấy chứng chỉ kiểm toán viên phải thi 03 môn thi sau:
+
+a) Kiểm toán và dịch vụ bảo đảm nâng cao;
+
+b) Phân tích hoạt động tài chính nâng cao;
+
+c) Ngoại ngữ trình độ C của 01 trong 05 ngoại ngữ thông dụng: Anh, Nga, Pháp, Trung Quốc, Đức.
+
+4. Nội dung từng môn thi bao gồm cả phần lý thuyết và phần ứng dụng vào bài tập tình huống quy định tại Phụ lục số 01 Thông tư này. Bộ Tài chính chịu trách nhiệm soạn thảo, cập nhật và công khai nội dung, chương trình tài liệu học, ôn thi lấy chứng chỉ kiểm toán viên và chứng chỉ kế toán viên.
+
+PHỤ LỤC 91.2017.docx
+
+Điều 17.2.TT.13.7. Thể thức thi
+
+(Điều 7 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
+
+Mỗi môn thi quy định tại Điều 6 Thông tư này (trừ môn thi Ngoại ngữ), người dự thi phải làm một bài thi viết trong thời gian 180 phút. Môn thi Ngoại ngữ, người dự thi phải làm một bài thi viết trong thời gian 120 phút.
+
+Điều 17.2.TT.13.8. Tổ chức các kỳ thi
+
+(Điều 8 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
+
+1. Hội đồng thi tổ chức ít nhất mỗi năm một kỳ thi vào quý III hoặc quý IV. Trước ngày thi ít nhất 60 ngày, Hội đồng thi thông báo chính thức trên các phương tiện thông tin đại chúng về điều kiện, tiêu chuẩn, thời gian, địa điểm và các thông tin cần thiết khác liên quan đến kỳ thi.
+
+2. Trong thời hạn chậm nhất 60 ngày kể từ ngày kết thúc thi, Hội đồng thi phải công bố kết quả thi từng môn thi và thông báo cho người dự thi. Trường hợp đặc biệt cần kéo dài thời gian công bố, Chủ tịch Hội đồng thi quyết định nhưng thời gian kéo dài không quá 30 ngày.
 
 Điều 17.2.TT.13.9. Văn bằng, chứng chỉ do Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910000900
+Văn bằng, chứng chỉ hoàn thành các khoá học do Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp được công nhận theo quy định tại khoản 2 Điều 4 Thông tư này nếu thoả mãn đồng thời các điều kiện sau:
 
-**ID:** dk_00023877
+1. Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp văn bằng, chứng chỉ phải là thành viên của Liên đoàn Kế toán quốc tế (IFAC) đã thành lập văn phòng đại diện hoặc chi nhánh hoạt động tại Việt Nam.
 
----
+2. Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán đã ký thoả thuận hợp tác về chương trình thi phối hợp cấp chứng chỉ kiểm toán viên chuyên nghiệp với Bộ Tài chính Việt Nam.
 
+3. Chương trình, nội dung các khoá học được cấp văn bằng, chứng chỉ phải có tổng số đơn vị học trình (hoặc tiết học) về tài chính, kế toán, kiểm toán từ 500 đến 600 tiết học.
 
-### Điều 17.2.TT.13.10. Điều kiện dự thi và nội dung thi sát hạch
+4. Nội dung học, thi và cấp văn bằng, chứng chỉ cho học viên khi hoàn thành các khoá học phải được thực hiện thống nhất ở tất cả các quốc gia nơi Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán có văn phòng đại diện hoặc chi nhánh hoạt động.
 
 Điều 17.2.TT.13.10. Điều kiện dự thi và nội dung thi sát hạch
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001000
+1. Những người có chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên của các tổ chức nghề nghiệp nước ngoài được Bộ Tài chính Việt Nam thừa nhận, muốn được cấp chứng chỉ kiểm toán viên hoặc chứng chỉ kế toán viên của Việt Nam phải dự thi sát hạch kiến thức về luật pháp Việt Nam.
 
-**ID:** dk_00023878
+Trường hợp tổ chức cấp chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên là cơ quan nhà nước có thẩm quyền (không phải là tổ chức nghề nghiệp) thì người dự thi phải là hội viên chính thức của tổ chức nghề nghiệp về kế toán, kiểm toán và tổ chức nghề nghiệp đó phải là thành viên của Liên đoàn Kế toán quốc tế (IFAC). Nội dung học và thi để lấy chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên phải tương đương hoặc cao hơn nội dung học và thi theo quy định tại Điều 6 của Thông tư này.
 
----
+2. Tổ chức nghề nghiệp nước ngoài được Bộ Tài chính Việt Nam thừa nhận phải có đủ các điều kiện sau đây:
 
+a) Là thành viên của Liên đoàn kế toán quốc tế (IFAC);
 
-### Điều 17.2.TT.13.11. Hồ sơ đăng ký dự thi sát hạch
+b) Có nội dung học và thi lấy chứng chỉ kiểm toán viên và chứng chỉ kế toán viên tương đương hoặc cao hơn nội dung học và thi theo quy định tại Điều 6 Thông tư này.
 
-*Nội dung chưa có sẵn*
+3. Tổ chức nghề nghiệp nước ngoài được Bộ Tài chính Việt Nam thừa nhận theo điều kiện quy định tại khoản 2 Điều này gồm:
 
-**Chỉ mục:** 11
+a) Hiệp hội kế toán công chứng Vương quốc Anh (The Association of Chartered Certified Accountants - ACCA);
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001100
+b) Hiệp hội kế toán viên công chứng Australia (CPA Australia);
 
-**ID:** dk_00023879
+c) Viện Kế toán công chứng Anh và xứ Wales (ICAEW).
 
----
+d) Các tổ chức nghề nghiệp nước ngoài khác có đủ điều kiện quy định tại khoản 2 Điều này được Bộ Tài chính Việt Nam thừa nhận chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên.
 
+4. Nội dung kỳ thi sát hạch để cấp chứng chỉ kiểm toán viên gồm các phần:
 
-### Điều 17.2.TT.13.12. Kết quả thi sát hạch
+a) Pháp luật về kinh tế và Luật doanh nghiệp;
 
-*Nội dung chưa có sẵn*
+b) Tài chính và quản lý tài chính;
 
-**Chỉ mục:** 12
+c) Thuế và quản lý thuế;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001200
+d) Kế toán tài chính, kế toán quản trị;
 
-**ID:** dk_00023880
+đ) Kiểm toán và dịch vụ bảo đảm.
 
----
+5. Nội dung kỳ thi sát hạch để cấp chứng chỉ kế toán viên gồm các phần quy định tại các điểm a, b, c, d khoản 4 Điều này.
 
+6. Nội dung, yêu cầu từng phần thi sát hạch quy định tại Phụ lục số 01.
 
-### Điều 17.2.TT.13.13. Hội đồng thi kiểm toán viên, kế toán viên
+7. Người có đủ điều kiện quy định tại khoản 1 Điều này, đã tham dự và đạt yêu cầu các kỳ thi phối hợp giữa Bộ Tài chính Việt Nam với ACCA thì được miễn thi các phần quy định điểm a, điểm c khoản 4 Điều này trong thời gian có hiệu lực của Thỏa thuận hợp tác giữa Bộ Tài chính Việt Nam với ACCA.
+
+8. Ngôn ngữ sử dụng trong kỳ thi là tiếng Việt.
+
+9. Thời gian thi là 180 phút cho cả 05 phần thi. Người tham gia 4 phần thi thì thời gian thi là 145 phút. Người tham gia 3 phần thi thì thời gian thi là 110 phút.
+
+Điều 17.2.TT.13.11. Hồ sơ đăng ký dự thi sát hạch
+
+(Điều 11 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017, có nội dung bị bãi bỏ bởi Điều 3 Thông tư số 22/2024/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2024)
+
+1. Hồ sơ đăng ký dự thi gồm:
+
+a) Phiếu đăng ký dự thi có xác nhận của cơ quan, đơn vị nơi đang công tác, có dán ảnh màu 3x4cm và đóng dấu giáp lai theo mẫu quy định tại Phụ lục số 02c ban hành kèm theo Thông tư này;
+
+b) Bản sao, bản dịch ra tiếng Việt có chứng thực chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên nước ngoài;
+
+c) Tài liệu (bao gồm cả bản dịch ra tiếng Việt có chứng thực nếu tài liệu bằng tiếng nước ngoài) chứng minh người dự thi là hội viên chính thức của tổ chức nghề nghiệp;
+
+d) 03 ảnh màu cỡ 3x4cm chụp trong vòng 6 tháng và 02 phong bì có dán tem và ghi rõ họ, tên, địa chỉ người nhận;
+
+e) Sơ yếu lý lịch có xác nhận của cơ quan, đơn vị nơi đang công tác hoặc Uỷ ban nhân dân địa phương nơi cư trú;
+
+g) Tài liệu chứng minh có đủ các điều kiện quy định tại khoản 2 Điều 10 đối với các tổ chức nghề nghiệp nước ngoài thuộc đối tượng quy định tại điểm d khoản 3 Điều 10.
+
+2. Hồ sơ dự thi do Hội đồng thi phát hành theo mẫu thống nhất. Người đăng ký dự thi phải nộp hồ sơ cho Hội đồng thi chậm nhất 30 ngày trước khi thi.
+
+Điều 17.2.TT.13.12. Kết quả thi sát hạch
+
+(Điều 12 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
+
+1. Thang điểm chấm thi là thang điểm 100. Điểm thi chấm từ 1 điểm trở lên.
+
+2. Đối với thi sát hạch để cấp chứng chỉ kiểm toán viên, bài thi đạt yêu cầu là bài thi đạt từ 70 điểm trở lên; hoặc từ 42 điểm trở lên đối với người được miễn thi các phần quy định tại điểm a và điểm c khoản 4 Điều 10 Thông tư này; hoặc từ 56 điểm trở lên đối với người được miễn thi phần quy định tại điểm a hoặc phần quy định tại điểm c khoản 4 Điều 10 Thông tư này.
+
+3. Đối với thi sát hạch để cấp chứng chỉ kế toán viên, bài thi đạt yêu cầu là bài thi đạt từ 56 điểm trở lên; hoặc từ 28 điểm trở lên đối với người được miễn thi các phần quy định tại điểm a và điểm c khoản 4 Điều 10 Thông tư này; hoặc từ 42 điểm trở lên đối với người được miễn thi phần quy định tại điểm a hoặc phần quy định tại điểm c khoản 4 Điều 10 Thông tư này.
+
+4. Kết quả thi được thông báo cho từng người dự thi. Người đạt yêu cầu bài thi theo quy định tại khoản 2 Điều này được Bộ Tài chính cấp chứng chỉ kiểm toán viên. Người đạt yêu cầu bài thi theo quy định tại khoản 3 Điều này được Bộ Tài chính cấp chứng chỉ kế toán viên.
+
+5. Các quy định khác thực hiện theo Thông tư này.
+
+**Mục 3. HỘI ĐỒNG THI KIỂM TOÁN VIÊN, KẾ TOÁN VIÊN**
 
 Điều 17.2.TT.13.13. Hội đồng thi kiểm toán viên, kế toán viên
 
-**Chỉ mục:** 13
+(Điều 13 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001300
+1. Hội đồng thi do Bộ trưởng Bộ Tài chính thành lập theo đề nghị của Vụ trưởng Vụ Chế độ kế toán và kiểm toán và Vụ trưởng Vụ Tổ chức cán bộ.
 
-**ID:** dk_00023881
+2. Hội đồng thi chịu trách nhiệm tổ chức các kỳ thi kiểm toán viên và kế toán viên theo quy định của Bộ Tài chính. Trong từng kỳ thi, Chủ tịch Hội đồng thi phải thành lập Ban đề thi, Ban coi thi, Ban chấm thi và Ban chấm phúc khảo (nếu cần thiết).
 
----
+Điều 17.2.TT.13.14. Thành phần Hội đồng thi
 
+(Điều 14 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-### Điều 17.2.TT.13.14. Thành phần Hội đồng thi
+1. Hội đồng thi được thành lập cho từng kỳ thi. Thành phần Hội đồng thi không quá 11 người, bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Chủ tịch Hội đồng thi là lãnh đạo Bộ Tài chính hoặc lãnh đạo cấp Vụ trưởng được Bộ trưởng Bộ Tài chính uỷ quyền;
 
-**Chỉ mục:** 14
+b) 04 Phó Chủ tịch là lãnh đạo Vụ Chế độ kế toán và kiểm toán, lãnh đạo Vụ Tổ chức cán bộ của Bộ Tài chính, lãnh đạo tổ chức nghề nghiệp về kế toán, kiểm toán, trong đó lãnh đạo Vụ Chế độ kế toán và kiểm toán là Phó Chủ tịch thường trực;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001400
+c) Uỷ viên thư ký và các uỷ viên Hội đồng thi là đại diện của một số đơn vị thuộc Bộ Tài chính.
 
-**ID:** dk_00023882
+2. Một cá nhân không được tham gia là thành viên Hội đồng thi quá 3 kỳ thi liên tục, ngoại trừ trường hợp cụ thể do Bộ trưởng Bộ Tài chính quyết định.
 
----
+3. Người có bố, mẹ, con, anh, chị, em ruột, vợ (hoặc chồng) của mình (hoặc của vợ hoặc chồng) dự thi kỳ thi nào thì không được tham gia vào Hội đồng thi và tất cả các bộ phận liên quan của kỳ thi đó.
 
+4. Người tham gia phụ đạo, hướng dẫn ôn thi kỳ thi nào không được tham gia là thành viên Hội đồng thi, ra đề thi, duyệt đề thi, chấm thi (kể cả chấm thi lần 1 và chấm thi phúc khảo) kỳ thi đó. Thành viên Hội đồng thi của kỳ thi nào thì không được tham gia giảng bài, phụ đạo, hướng dẫn học, ôn thi kỳ thi đó. Người đã tham gia chấm thi lần 1 thì không được tham gia chấm thi phúc khảo.
 
-### Điều 17.2.TT.13.15. Chế độ làm việc của Hội đồng thi
+5. Văn phòng của Hội đồng thi đặt tại Vụ Chế độ kế toán và kiểm toán - Bộ Tài chính.
+
+6. Giúp việc cho Hội đồng thi có Tổ thường trực do Chủ tịch Hội đồng thi quyết định thành lập theo đề nghị của Vụ Chế độ kế toán và kiểm toán. Thành phần Tổ thường trực không quá 9 người.
+
+7. Chức năng, nhiệm vụ các bộ phận do Hội đồng thi thành lập và tổ chức thực hiện gồm Tổ thường trực, Ban đề thi, Ban coi thi, Ban chấm thi, Ban chấm phúc khảo theo quy định của Bộ Tài chính.
 
 Điều 17.2.TT.13.15. Chế độ làm việc của Hội đồng thi
 
-**Chỉ mục:** 15
+(Điều 15 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001500
+1. Hội đồng thi làm việc theo chế độ tập thể. Các quyết định của Hội đồng thi được thông qua khi có ít nhất 2/3 ý kiến đồng ý của các thành viên Hội đồng thi.
 
-**ID:** dk_00023883
+2. Hội đồng thi được sử dụng con dấu của Bộ Tài chính trong thời gian hoạt động.
 
----
+3. Hội đồng thi được sử dụng thời gian hành chính để tổ chức các kỳ họp và hoạt động thuộc nhiệm vụ, quyền hạn của Hội đồng thi. Các thành viên Hội đồng thi được hưởng thù lao trích từ chi phí dự thi theo mức được Bộ Tài chính duyệt.
 
-
-### Điều 17.2.TT.13.16. Trách nhiệm, quyền hạn của Hội đồng thi
+4. Chương trình và nội dung các kỳ họp Hội đồng thi phải được thông báo bằng văn bản cho các thành viên trước khi họp 5 ngày.
 
 Điều 17.2.TT.13.16. Trách nhiệm, quyền hạn của Hội đồng thi
 
-**Chỉ mục:** 16
+(Điều 16 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001600
+1. Thông báo công khai kế hoạch thi trên các phương tiện thông tin đại chúng.
 
-**ID:** dk_00023884
+2. Tiếp nhận, kiểm tra hồ sơ, lập và xét duyệt danh sách thí sinh dự thi.
 
----
+3. Xây dựng đề thi, đáp án cho mỗi kỳ thi.
 
+4. Tổ chức coi thi, chấm thi.
 
-### Điều 17.2.TT.13.17. Nhiệm vụ, quyền hạn của thành viên Hội đồng thi
+5. Tổng hợp kết quả thi theo từng kỳ thi trình Bộ Tài chính phê duyệt.
+
+6. Công bố kết quả thi và thông báo điểm cho từng thí sinh dự thi theo kết quả phê duyệt của Bộ Tài chính.
+
+7. Tổ chức phúc khảo kết quả thi nếu người dự thi có yêu cầu.
+
+8. Bảo quản, lưu trữ đề thi, bài thi và các tài liệu liên quan đến các kỳ thi cho đến khi bàn giao theo quy định của Bộ Tài chính.
+
+9. Chủ động đề xuất hoặc tham gia vào việc hoàn thiện các quy định về việc thi và cấp chứng chỉ kiểm toán viên và chứng chỉ kế toán viên khi có yêu cầu.
 
 Điều 17.2.TT.13.17. Nhiệm vụ, quyền hạn của thành viên Hội đồng thi
 
-**Chỉ mục:** 17
+(Điều 17 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001700
+1. Chủ tịch Hội đồng thi:
 
-**ID:** dk_00023885
+a) Chịu trách nhiệm tổ chức thực hiện các nhiệm vụ, quyền hạn của Hội đồng thi quy định tại Thông tư này;
 
----
+b) Phân công trách nhiệm cho các Phó Chủ tịch và từng thành viên Hội đồng thi;
 
+c) Quyết định thành lập Ban đề thi, Ban coi thi, Ban chấm thi và Ban chấm phúc khảo;
 
-### Điều 17.2.TT.13.18. Kết quả thi, bảo lưu kết quả thi, đạt yêu cầu thi
+d) Tổ chức việc ra đề thi và đáp án có niêm phong riêng, lựa chọn đề thi, đáp án theo nội dung, chương trình đã quy định, bảo đảm bí mật tuyệt đối đề thi, đáp án trước khi thi; Nếu cần thì mời chuyên gia phản biện đề thi;
+
+đ) Báo cáo Bộ trưởng Bộ Tài chính kết quả các kỳ thi;
+
+e) Uỷ quyền cho Phó Chủ tịch thường trực Hội đồng thi điều hành công việc của Hội đồng thi trong trường hợp vắng mặt.
+
+2. Phó Chủ tịch thường trực Hội đồng thi: Điều hành công việc thường xuyên của Hội đồng theo phân công của Chủ tịch Hội đồng thi.
+
+3. Phó Chủ tịch và các uỷ viên Hội đồng thi: Thực hiện các công việc theo phân công của Chủ tịch Hội đồng thi.
+
+4. Uỷ viên thư ký Hội đồng thi:
+
+a) Tổ chức việc tiếp nhận hồ sơ của thí sinh, trình Hội đồng thi xét duyệt danh sách dự thi;
+
+b) Chuẩn bị các văn bản cần thiết của Hội đồng thi và ghi biên bản các cuộc họp của Hội đồng thi;
+
+c) Lập danh sách thí sinh đủ điều kiện dự thi, danh sách thí sinh không đủ điều kiện dự thi trình Hội đồng thi phê duyệt và công khai danh sách thí sinh trúng tuyển trên trang điện tử của Bộ Tài chính.
+
+d) Thu nhận biên bản vi phạm kỷ luật thi đối với thí sinh trình Hội đồng thi xem xét;
+
+đ) Các công việc khác do Chủ tịch Hội đồng thi phân công.
+
+**Mục 4. KẾT QUẢ THI, BẢO LƯU, PHÊ DUYỆT, HỦY KẾT QUẢ THI**
 
 Điều 17.2.TT.13.18. Kết quả thi, bảo lưu kết quả thi, đạt yêu cầu thi
 
-**Chỉ mục:** 18
+(Điều 18 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001800
+1. Môn thi đạt yêu cầu: Môn thi đạt yêu cầu là môn thi đạt từ điểm 5 trở lên.
 
-**ID:** dk_00023886
+2. Bảo lưu kết quả thi: Điểm của môn thi đạt yêu cầu được bảo lưu trong 3 năm liên tục kể từ năm bắt đầu dự thi môn đó.
 
----
+*Ví dụ: Một người bắt đầu dự thi năm 2017 thì điểm các môn thi đạt yêu cầu của năm 2017 sẽ được bảo lưu trong các năm 2018, 2019. Đến năm 2019, nếu người dự thi vẫn chưa đạt yêu cầu thi thì khi dự thi vào năm 2020 kết quả thi được tính để xét đạt yêu cầu thi sẽ là kết quả thi của các năm 2018, 2019, 2020. Tương tự như vậy cho các năm từ 2021 trở đi.*
 
+3. Thi nâng điểm: Người đạt yêu cầu các môn thi quy định tại các khoản 1, khoản 2, khoản 3 Điều 6 (trừ môn thi Ngoại ngữ) nhưng chưa đạt yêu cầu thi quy định tại khoản 4 Điều này thì được lựa chọn một số môn thi để đăng ký thi nâng điểm, kết quả thi lấy theo điểm thi cao nhất của các lần thitrong thời gian bảo lưu.
 
-### Điều 17.2.TT.13.19. Phê duyệt kết quả thi
+4. Đạt yêu cầu thi:
 
-*Nội dung chưa có sẵn*
+a) Đối với trường hợp dự thi lấy chứng chỉ kế toán viên: Người dự thi đạt yêu cầu cả 4 môn thi quy định tại khoản 1 Điều 6 và có tổng số điểm các môn thi còn được bảo lưu từ 25 điểm trở lên là đạt yêu cầu thi;
 
-**Chỉ mục:** 19
+b) Đối với trường hợp dự thi lấy chứng chỉ kiểm toán viên: Người dự thi đạt yêu cầu cả 7 môn thi quy định tại khoản 2 Điều 6 và có tổng số điểm các môn thi còn được bảo lưu (trừ môn thi Ngoại ngữ) từ 38 điểm trở lên là đạt yêu cầu thi;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910001900
+c) Đối với trường hợp có chứng chỉ kế toán viên dự thi lấy chứng chỉ kiểm toán viên: Người dự thi đạt yêu cầu cả 3 môn thi quy định tại khoản 3 Điều 6 và có tổng số điểm các môn thi còn được bảo lưu (trừ môn thi Ngoại ngữ) từ 12,5 điểm trở lên là đạt yêu cầu thi.
 
-**ID:** dk_00023887
+5. Người dự thi đạt yêu cầu thi theo quy định tại điểm a khoản 4 Điều này được cấp chứng chỉ kế toán viên. Người dự thi đạt yêu cầu thi theo quy định tại điểm b hoặc điểm c khoản 4 Điều này được cấp chứng chỉ kiểm toán viên.
 
----
+Điều 17.2.TT.13.19. Phê duyệt kết quả thi
 
+(Điều 19 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-### Điều 17.2.TT.13.20. Huỷ kết quả thi
+1. Hội đồng thi căn cứ vào kết quả chấm thi của từng môn thi để tổng hợp danh sách kết quả thi từng môn thi của thí sinh trình Bộ Tài chính phê duyệt cho từng kỳ thi.
 
-*Nội dung chưa có sẵn*
+2. Trong thời hạn 15 ngày kể từ ngày công bố kết quả thi, người dự thi có quyền làm đơn xin phúc khảo bài thi gửi Chủ tịch Hội đồng thi. Trường hợp chấm phúc khảo thì kết quả thi lấy theo điểm phúc khảo.
 
-**Chỉ mục:** 20
+Điều 17.2.TT.13.20. Huỷ kết quả thi
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002000
+(Điều 20 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**ID:** dk_00023888
+Điểm của các môn thi vào các năm ngoài thời gian bảo lưu sẽ bị huỷ.
 
----
+Điều 17.2.TT.13.21. Giấy chứng nhận điểm thi
 
+(Điều 21 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-### Điều 17.2.TT.13.21. Giấy chứng nhận điểm thi
+Căn cứ vào kết quả thi đã được Bộ Tài chính phê duyệt, Chủ tịch Hội đồng thi cấp Giấy chứng nhận điểm thi cho từng thí sinh (Phụ lục số 03a, Phụ lục số 03b, Phụ lục số 03c). Giấy chứng nhận điểm thi là cơ sở để lập hồ sơ xin dự thi các môn thi chưa thi, thi lại các môn thi chưa đạt yêu cầu hoặc dự thi để nâng điểm (đối với thí sinh chưa thi đủ hoặc chưa đạt yêu cầu đủ các môn thi).
 
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 21
-
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002100
-
-**ID:** dk_00023889
-
----
-
-
-### Điều 17.2.TT.13.22. Cấp chứng chỉ kiểm toán viên, chứng chỉ kế toán viên
+**Mục 5. CẤP, THU HỒI CHỨNG CHỈ KIỂM TOÁN VIÊN, CHỨNG CHỈ KẾ TOÁN VIÊN**
 
 Điều 17.2.TT.13.22. Cấp chứng chỉ kiểm toán viên, chứng chỉ kế toán viên
 
-**Chỉ mục:** 22
+(Điều 22 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002200
+1. Trong thời hạn 45 ngày kể từ ngày có kết quả thi, Bộ Tài chính cấp chứng chỉ kiểm toán viên hoặc chứng chỉ kế toán viên cho người đạt kết quả thi.
 
-**ID:** dk_00023890
+2. Chứng chỉ kiểm toán viên (Phụ lục số 04) hoặc chứng chỉ kế toán viên (Phụ lục số 05) được trao trực tiếp cho người được cấp chứng chỉ hoặc người được ủy quyền của người được cấp; trường hợp bị mất sẽ không được cấp lại.
 
----
-
-
-### Điều 17.2.TT.13.23. Thu hồi chứng chỉ kiểm toán viên, chứng chỉ kế toán viên
+3. Chứng chỉ kiểm toán viên và chứng chỉ kế toán viên có giá trị pháp lý để đăng ký hành nghề kiểm toán, hành nghề kế toán theo quy định của pháp luật hiện hành về hành nghề kiểm toán, hành nghề kế toán.
 
 Điều 17.2.TT.13.23. Thu hồi chứng chỉ kiểm toán viên, chứng chỉ kế toán viên
 
-**Chỉ mục:** 23
+(Điều 23 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002300
+1. Chứng chỉ kiểm toán viên và chứng chỉ kế toán viên bị thu hồi trong các trường hợp sau:
 
-**ID:** dk_00023891
+a) Kê khai không trung thực về quá trình và thời gian làm việc, kinh nghiệm công tác trong hồ sơ để đủ điều kiện dự thi lấy chứng chỉ kiểm toán viên và chứng chỉ kế toán viên.
 
----
+b) Sửa chữa, giả mạo hoặc gian lận về bằng cấp, chứng chỉ để đủ điều kiện dự thi lấy chứng chỉ kiểm toán viên và chứng chỉ kế toán viên.
 
+c) Thi hộ người khác hoặc nhờ người khác thi hộ trong kỳ thi lấy chứng chỉ kiểm toán viên và chứng chỉ kế toán viên.
 
-### Điều 17.2.TT.13.24. Xử lý vi phạm đối với người tham gia công tác tổ chức thi
+d) Các trường hợp khác theo quy định của pháp luật.
+
+2. Bộ Tài chính có thẩm quyền thu hồi chứng chỉ kiểm toán viên, chứng chỉ kế toán viên.
+
+**Mục 6. XỬ LÝ VI PHẠM**
 
 Điều 17.2.TT.13.24. Xử lý vi phạm đối với người tham gia công tác tổ chức thi
 
-**Chỉ mục:** 24
+(Điều 24 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002400
+1. Các hành vi vi phạm đối với người tham gia công tác tổ chức thi bao gồm:
 
-**ID:** dk_00023892
+a) Mang những tài liệu, vật dụng trái phép vào khu vực làm đề, phòng thi, phòng chấm thi;
 
----
+b) Thiếu trách nhiệm trong việc chuẩn bị cho kỳ thi, làm ảnh hưởng tới kết quả kỳ thi;
 
+c) Làm sai lệch sự thật về hồ sơ của thí sinh;
 
-### Điều 17.2.TT.13.25. Xử lý vi phạm đối với thí sinh
+d) Trực tiếp giải bài cho thí sinh trong lúc đang thi;
 
-*Nội dung chưa có sẵn*
+đ) Làm lộ số phách bài thi;
 
-**Chỉ mục:** 25
+e) Đánh tráo bài thi, số phách hoặc điểm thi của thí sinh;
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002500
+g) Làm mất bài thi của thí sinh khi thu bài thi, vận chuyển, bảo quản, chấm thi;
 
-**ID:** dk_00023893
+h) Sửa chữa, thêm bớt vào bài làm của thí sinh;
 
----
+i) Chữa điểm trên bài thi, trên biên bản chấm thi hoặc trong bảng tổng hợp điểm;
 
+k) Làm lộ đề thi, đáp án thi; mua, bán đề thi, đáp án thi;
 
-### Điều 17.2.TT.13.26. Xử lý các trường hợp vi phạm trong khi chấm thi
+l) Đưa đề thi ra ngoài khu vực thi hoặc đưa bài giải từ ngoài vào khu vực thi trong lúc đang thi;
+
+m) Gian lận thi có tổ chức.
+
+2. Người tham gia công tác tổ chức thi thực hiện các hành vi vi phạm quy định tại khoản 1 Điều này bị Hội đồng thi đình chỉ tham gia công tác tổ chức thi ngay sau khi hành vi vi phạm bị phát hiện đồng thời tuỳ theo mức độ vi phạm có thể bị cơ quan quản lý cán bộ ra quyết định xử lý theo quy định của pháp luật có liên quan, có thể kèm theo việc cấm đảm nhiệm những công việc có liên quan đến Hội đồng thi từ 1 đến 5 năm.
+
+Điều 17.2.TT.13.25. Xử lý vi phạm đối với thí sinh
+
+(Điều 25 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
+
+1. Nhắc nhở đối với thí sinh nói chuyện, trao đổi bài với người khác.
+
+2. Lập biên bản cảnh cáo đối với thí sinh tiếp tục nói chuyện, trao đổi bài với người khác mặc dù đã được nhắc nhở. Trong trường hợp này, thí sinh bị trừ 25% điểm của bài thi.
+
+3. Lập biên bản đình chỉ môn thi đối với thí sinh có một trong các hành vi vi phạm sau:
+
+a) Tiếp tục vi phạm khi đã bị lập biên bản về hành vi nói chuyện, trao đổi bài với người khác;
+
+b) Chuyển giấy nháp hoặc bài thi cho thí sinh khác hoặc nhận giấy nháp hoặc bài thi của thí sinh khác;
+
+c) Mang tài liệu và các vật dụng bị cấm vào phòng thi trong thời gian từ lúc bắt đầu phát đề thi đến hết giờ làm bài thi nhưng chưa sử dụng;
+
+d) Cố tình làm không đúng đề thi của mình.
+
+4. Lập biên bản đình chỉ kỳ thi đối với thí sinh có một trong các hành vi vi phạm sau:
+
+a) Sử dụng tài liệu và các vật dụng bị cấm trong phòng thi trong thời gian từ lúc bắt đầu phát đề thi đến hết giờ làm bài thi;
+
+b) Sử dụng tài liệu, phương tiện kỹ thuật thu, phát, truyền tin, ghi âm, ghi hình, thiết bị chứa đựng thông tin có thể lợi dụng để làm bài thi dưới bất kỳ hình thức nào, kể cả trong và ngoài phòng thi;
+
+c) Cố tình không nộp bài thi, giằng xé bài thi của người khác hoặc dùng bài thi của người khác để nộp làm bài thi của mình.
+
+5. Thí sinh bị đình chỉ thi phải ra khỏi phòng thi ngay sau khi cán bộ coi thi lập biên bản đình chỉ thi và có quyết định của Trưởng điểm thi; phải nộp bài làm và đề thi cho cán bộ coi thi và chỉ được ra khỏi khu vực thi sau 2/3 thời gian làm bài thi.
+
+6. Thí sinh có một trong các hành vi vi phạm quy định tại khoản 3 Điều này trong khi thi môn nào sẽ bị điểm không (0) môn đó. Thí sinh có một trong các hành vi vi phạm quy định tại điểm c, điểm d khoản 3 Điều này sẽ không được thi các môn tiếp theo. Thí sinh có một trong các hành vi vi phạm quy định tại khoản 4 Điều này sẽ không được thi các môn tiếp theo và bị huỷ kết quả thi của cả kỳ thi đó.
+
+7. Huỷ kết quả kỳ thi hiện tại và các kỳ thi trước đó và tước quyền tham dự kỳ thi trong hai năm tiếp theo hoặc đề nghị các cơ quan có thẩm quyền truy cứu trách nhiệm hình sự đối với những thí sinh có một trong các hành vi vi phạm sau:
+
+a) Hành hung cán bộ coi thi, cán bộ tổ chức kỳ thi và các thí sinh khác;
+
+b) Gây rối làm mất trật tự an ninh ở khu vực coi thi, gây hậu quả nghiêm trọng cho kỳ thi;
+
+c) Khai man hồ sơ thi, thi hộ hoặc nhờ người thi hộ.
+
+8. Việc xử lý kỷ luật thí sinh phải được công bố cho thí sinh biết. Nếu thí sinh vi phạm trong quá trình thi mà không chịu ký tên vào biên bản thì hai cán bộ coi thi ký vào biên bản xác nhận hành vi vi phạm của thí sinh. Nếu giữa cán bộ coi thi và Trưởng điểm thi không nhất trí về cách xử lý thì ghi rõ ý kiến hai bên vào biên bản để báo cáo Trưởng ban coi thi quyết định.
 
 Điều 17.2.TT.13.26. Xử lý các trường hợp vi phạm trong khi chấm thi
 
-**Chỉ mục:** 26
+(Điều 26 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 170020000000000010000110000000000000000000802629600910002600
+1. Những bài thi bị nghi vấn có dấu hiệu đánh dấu thì tổ chức chấm tập thể, nếu đủ căn cứ xác đáng để các cán bộ chấm thi và Trưởng môn chấm thi kết luận là lỗi cố ý của thí sinh thì bị trừ 25% điểm toàn bài thi của môn thi đó.
 
-**ID:** dk_00023894
+2. Cho điểm không (0) đối với những bài thi viết trên giấy không đúng quy định hoặc bài thi được xác định là cố ý viết bằng các loại chữ, loại mực khác nhau để đánh dấu bài thi.
 
----
+3. Đối với những bài thi bị nhàu nát do bị thí sinh khác giằng xé thì căn cứ biên bản coi thi, tiến hành chấm bình thường và công nhận kết quả thi.
 
+Điều 17.2.LQ.12. Tổ chức nghề nghiệp về kiểm toán
 
-### Điều 17.2.LQ.12. Tổ chức nghề nghiệp về kiểm toán
+(Điều 12 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-*Nội dung chưa có sẵn*
+ 1. Tổ chức nghề nghiệp về kiểm toán được thành lập, hoạt động theo quy định của pháp luật về hội và có trách nhiệm tuân thủ các quy định của pháp luật về kiểm toán độc lập.
 
-**Chỉ mục:** 12
+ 2. Tổ chức nghề nghiệp về kiểm toán được bồi dưỡng kiến thức cho kiểm toán viên, kiểm toán viên hành nghề và thực hiện một số nhiệm vụ liên quan đến hoạt động kiểm toán độc lập do Chính phủ quy định.Điều 17.2.NĐ.1.4. Tổ chức nghề nghiệp về kiểm toán
 
-**Mã phân cấp:** 1700200000000000100001200000000000000000
+(Điều 4 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**ID:** dk_00023895
+1. Tổ chức nghề nghiệp về kiểm toán là tổ chức xã hội nghề nghiệp của các kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán trong cả nước.
 
----
+2. Tổ chức nghề nghiệp về kiểm toán được:
 
+a) Bồi dưỡng kiến thức cho kiểm toán viên, kiểm toán viên hành nghề;
 
-### Điều 17.2.NĐ.1.4. Tổ chức nghề nghiệp về kiểm toán
+b) Thực hiện việc nghiên cứu, soạn thảo, cập nhật hệ thống chuẩn mực kiểm toán Việt Nam trên cơ sở hệ thống chuẩn mực kiểm toán quốc tế theo quy trình xây dựng, ban hành và công bố Chuẩn mực kiểm toán Việt Nam, trình Bộ trưởng Bộ Tài chính ban hành;
 
-*Nội dung chưa có sẵn*
+c) Tham gia tổ chức thi kiểm toán viên;
 
-**Chỉ mục:** 4
+d) Phối hợp với Bộ Tài chính thực hiện kiểm tra, kiểm soát chất lượng dịch vụ kiểm toán.
 
-**Mã phân cấp:** 170020000000000010000120000000000000000000402429900170000400
+3. Bộ Tài chính quy định cụ thể về điều kiện, cách thức, chế độ báo cáo và giám sát, kiểm tra, thanh tra các hoạt động của tổ chức nghề nghiệp về kiểm toán quy định tại Khoản 2 Điều này.
 
-**ID:** dk_00023896
+Điều 17.2.LQ.13. Các hành vi bị nghiêm cấm
 
----
+(Điều 13 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
+ 1. Nghiêm cấm thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện các hành vi sau đây:
 
-### Điều 17.2.LQ.13. Các hành vi bị nghiêm cấm
+ a) Mua, nhận biếu tặng, nắm giữ cổ phiếu hoặc phần vốn góp của đơn vị được kiểm toán không phân biệt số lượng;
 
-*Nội dung chưa có sẵn*
+ b) Mua, bán trái phiếu hoặc tài sản khác của đơn vị được kiểm toán có ảnh hưởng đến tính độc lập theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán;
 
-**Chỉ mục:** 13
+ c) Nhận hoặc đòi hỏi bất kỳ một khoản tiền, lợi ích nào khác từ đơn vị được kiểm toán ngoài khoản phí dịch vụ và chi phí đã thỏa thuận trong hợp đồng đã giao kết;
 
-**Mã phân cấp:** 1700200000000000100001300000000000000000
+ d) Sách nhiễu, lừa dối khách hàng, đơn vị được kiểm toán;
 
-**ID:** dk_00023897
+ đ) Tiết lộ thông tin về hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán, trừ trường hợp khách hàng, đơn vị được kiểm toán chấp thuận hoặc theo quy định của pháp luật;
 
----
+ e) Thông tin, giới thiệu sai sự thật về trình độ, kinh nghiệm và khả năng cung cấp dịch vụ của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
 
+ g) Tranh giành khách hàng dưới các hình thức ngăn cản, lôi kéo, mua chuộc, thông đồng với khách hàng và các hành vi cạnh tranh không lành mạnh khác;
 
-### Điều 17.2.LQ.14. Tiêu chuẩn kiểm toán viên
+ h) Thực hiện việc thu nợ cho đơn vị được kiểm toán;
 
-*Nội dung chưa có sẵn*
+ i) Thông đồng, móc nối với đơn vị được kiểm toán để làm sai lệch tài liệu kế toán, báo cáo tài chính, hồ sơ kiểm toán và báo cáo sai lệch kết quả kiểm toán;
 
-**Chỉ mục:** 14
+ k) Giả mạo, khai man hồ sơ kiểm toán;
 
-**Mã phân cấp:** 1700200000000000200001400000000000000000
+ l) Thuê, mượn chứng chỉ kiểm toán viên và Giấy chứng nhận đăng ký hành nghề kiểm toán để thực hiện hoạt động nghề nghiệp;
 
-**ID:** dk_00023899
+ m) Cung cấp dịch vụ kiểm toán khi không đủ điều kiện theo quy định của Luật này;
 
----
+ n) Hành vi khác theo quy định của pháp luật;
 
+ 2. Ngoài các quy định tại khoản 1 Điều này, nghiêm cấm kiểm toán viên, kiểm toán viên hành nghề thực hiện các hành vi sau đây:
 
-### Điều 17.2.LQ.15. Đăng ký hành nghề kiểm toán
+ a) Hành nghề kiểm toán với tư cách cá nhân;
 
-*Nội dung chưa có sẵn*
+ b) Giả mạo, cho thuê, cho mượn hoặc cho sử dụng tên và chứng chỉ kiểm toán viên, Giấy chứng nhận đăng ký hành nghề kiểm toán để thực hiện hoạt động kiểm toán;
 
-**Chỉ mục:** 15
+ c) Làm việc cho hai doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam trở lên trong cùng một thời gian;
 
-**Mã phân cấp:** 1700200000000000200001500000000000000000
+ d) Hành vi khác theo quy định của pháp luật.
 
-**ID:** dk_00023900
+ 3. Nghiêm cấm đơn vị được kiểm toán và tổ chức, cá nhân có liên quan thực hiện các hành vi sau đây:
 
----
+ a) Chọn tổ chức, cá nhân không đủ điều kiện hành nghề kiểm toán để ký hợp đồng kiểm toán;
 
+ b) Từ chối cung cấp thông tin, tài liệu cần thiết cho việc kiểm toán theo yêu cầu của kiểm toán viên hành nghề hoặc doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
 
-### Điều 17.2.LQ.16. Những người không được đăng ký hành nghề kiểm toán, không được tiếp tục hành nghề kiểm toán
+ c) Cản trở công việc của thành viên tham gia cuộc kiểm toán;
+
+ d) Cung cấp sai lệch, không trung thực, không đầy đủ, không kịp thời thông tin, tài liệu liên quan đến cuộc kiểm toán;
+
+ đ) Mua chuộc, hối lộ, thông đồng với thành viên tham gia cuộc kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam để làm sai lệch tài liệu kế toán, báo cáo tài chính, hồ sơ kiểm toán và báo cáo kiểm toán;
+
+ e) Che giấu hành vi vi phạm pháp luật về tài chính, kế toán;
+
+ g) Đe dọa, trả thù, ép buộc thành viên tham gia cuộc kiểm toán nhằm làm sai lệch kết quả kiểm toán;
+
+ h) Hành vi khác theo quy định của pháp luật.
+
+ 4. Nghiêm cấm tổ chức, cá nhân can thiệp trái pháp luật và cản trở hoạt động nghề nghiệp của kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam; lợi dụng chức vụ, quyền hạn vi phạm quy định về cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán, Giấy chứng nhận đăng ký hành nghề kiểm toán, kiểm tra, kiểm soát chất lượng dịch vụ kiểm toán, xử lý kỷ luật và xử lý vi phạm hành chính trong hoạt động kiểm toán độc lập.Chương II
+
+KIỂM TOÁN VIÊN VÀ KIỂM TOÁN VIÊN HÀNH NGHỀ
+
+Điều 17.2.LQ.14. Tiêu chuẩn kiểm toán viên
+
+(Điều 14 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
+
+ 1. Kiểm toán viên phải có đủ các tiêu chuẩn sau đây:
+
+ a) Có năng lực hành vi dân sự đầy đủ;
+
+ b) Có phẩm chất đạo đức tốt, có ý thức trách nhiệm, liêm khiết, trung thực, khách quan;
+
+ c) Có bằng tốt nghiệp đại học trở lên thuộc chuyên ngành tài chính, ngân hàng, kế toán, kiểm toán hoặc chuyên ngành khác theo quy định của Bộ Tài chính;
+
+ d) Có Chứng chỉ kiểm toán viên theo quy định của Bộ Tài chính.
+
+ 2. Trường hợp người có chứng chỉ của nước ngoài được Bộ Tài chính công nhận, đạt kỳ thi sát hạch bằng tiếng Việt về pháp luật Việt Nam và có đủ các tiêu chuẩn quy định tại điểm a và điểm b khoản 1 Điều này thì được công nhận là kiểm toán viên.Điều 17.2.LQ.15. Đăng ký hành nghề kiểm toán
+
+(Điều 15 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được bãi bỏ theo quy định tại điểm đ khoản 2 Điều 23 Luật Phí và lệ phí năm 2015)
+
+1. Người có đủ các điều kiện sau đây được đăng ký hành nghề kiểm toán:
+
+a) Là kiểm toán viên;
+
+b) Có thời gian thực tế làm kiểm toán từ đủ ba mươi sáu tháng trở lên;
+
+c) Tham gia đầy đủ chương trình cập nhật kiến thức.
+
+2. Người có đủ các điều kiện quy định tại khoản 1 Điều này thực hiện đăng ký hành nghề kiểm toán và được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo quy định của Bộ Tài chính.
+
+3. (***Được bãi bỏ)***
+
+4. Giấy chứng nhận đăng ký hành nghề kiểm toán chỉ có giá trị khi người được cấp có hợp đồng lao động làm toàn bộ thời gian cho một doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
 Điều 17.2.LQ.16. Những người không được đăng ký hành nghề kiểm toán, không được tiếp tục hành nghề kiểm toán
 
-**Chỉ mục:** 16
+(Điều 16 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
 
-**Mã phân cấp:** 1700200000000000200001600000000000000000
+1. Những người không được đăng ký hành nghề kiểm toán, bao gồm:
 
-**ID:** dk_00023901
+a) Cán bộ, công chức theo quy định của pháp luật về cán bộ, công chức; viên chức theo quy định của pháp luật về viên chức; sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng, viên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan nghiệp vụ, sĩ quan, hạ sĩ quan chuyên môn kỹ thuật, công nhân công an, viên chức trong cơ quan, đơn vị thuộc Công an nhân dân;
 
----
+b) Người đang bị cấm hành nghề kiểm toán theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật; người đang bị truy cứu trách nhiệm hình sự; người đã bị kết án một trong các tội xâm phạm trật tự quản lý kinh tế, tội phạm về chức vụ liên quan đến tài chính, kế toán, kiểm toán mà chưa được xóa án tích; người đang bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn, đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc;
 
+c) Người đã bị kết án về tội xâm phạm trật tự quản lý kinh tế từ nghiêm trọng trở lên.
 
-### Điều 17.2.LQ.17. Quyền của kiểm toán viên hành nghề
+2. Những người không được tiếp tục hành nghề kiểm toán, bao gồm:
+
+a) Những người quy định tại điểm b khoản 1 Điều này;
+
+b) Người có Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị theo quy định của Bộ Tài chính.
 
 Điều 17.2.LQ.17. Quyền của kiểm toán viên hành nghề
 
-**Chỉ mục:** 17
+(Điều 17 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000200001700000000000000000
+ Khi hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề có các quyền sau đây:
 
-**ID:** dk_00023902
+ 1. Hành nghề kiểm toán theo quy định của Luật này;
 
----
+ 2. Độc lập về chuyên môn nghiệp vụ;
 
+ 3. Yêu cầu đơn vị được kiểm toán cung cấp đầy đủ, kịp thời thông tin, tài liệu cần thiết và giải trình các vấn đề có liên quan đến nội dung kiểm toán; yêu cầu kiểm kê tài sản, đối chiếu công nợ của đơn vị được kiểm toán liên quan đến nội dung kiểm toán; kiểm tra toàn bộ hồ sơ, tài liệu có liên quan đến hoạt động kinh tế, tài chính của đơn vị được kiểm toán ở trong và ngoài đơn vị trong quá trình thực hiện kiểm toán;
 
-### Điều 17.2.LQ.18. Nghĩa vụ của kiểm toán viên hành nghề
+ 4. Kiểm tra, xác nhận các thông tin kinh tế, tài chính có liên quan đến đơn vị được kiểm toán ở trong và ngoài đơn vị trong quá trình thực hiện kiểm toán.
 
-Điều 17.2.LQ.18. Nghĩa vụ của kiểm toán viên hành nghề
+ 5. Yêu cầu tổ chức, cá nhân có liên quan cung cấp tài liệu, thông tin cần thiết có liên quan đến nội dung kiểm toán thông qua đơn vị được kiểm toán.
 
-**Chỉ mục:** 18
+ 6. Quyền khác theo quy định của pháp luật.Điều 17.2.LQ.18. Nghĩa vụ của kiểm toán viên hành nghề
 
-**Mã phân cấp:** 1700200000000000200001800000000000000000
+(Điều 18 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023903
+ Khi hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề có các nghĩa vụ sau đây:
 
----
+ 1. Tuân thủ nguyên tắc hoạt động kiểm toán độc lập;
 
+ 2. Không can thiệp vào hoạt động của khách hàng, đơn vị được kiểm toán trong quá trình thực hiện kiểm toán;
 
-### Điều 17.2.LQ.19. Các trường hợp kiểm toán viên hành nghề không được thực hiện kiểm toán
+ 3. Từ chối thực hiện kiểm toán cho khách hàng, đơn vị được kiểm toán nếu xét thấy không bảo đảm tính độc lập, không đủ năng lực chuyên môn, không đủ điều kiện theo quy định của pháp luật;
+
+ 4. Từ chối thực hiện kiểm toán trong trường hợp khách hàng, đơn vị được kiểm toán có yêu cầu trái với đạo đức nghề nghiệp, yêu cầu về chuyên môn, nghiệp vụ hoặc trái với quy định của pháp luật;
+
+ 5. Tham gia đầy đủ chương trình cập nhật kiến thức hàng năm;
+
+ 6. Thường xuyên trau dồi kiến thức chuyên môn và kinh nghiệm nghề nghiệp;
+
+ 7. Thực hiện kiểm toán, soát xét hồ sơ kiểm toán hoặc ký báo cáo kiểm toán và chịu trách nhiệm về báo cáo kiểm toán và hoạt động kiểm toán của mình;
+
+ 8. Báo cáo định kỳ, đột xuất về hoạt động kiểm toán của mình theo yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+ 9. Tuân thủ quy định của Luật này và pháp luật của nước sở tại trong trường hợp hành nghề kiểm toán ở nước ngoài;
+
+ 10. Chấp hành yêu cầu về kiểm tra, kiểm soát chất lượng dịch vụ kiểm toán theo quy định của Bộ Tài chính;
+
+ 11. Nghĩa vụ khác theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 22.3.TT.22.14. Trách nhiệm của tổ chức kiểm toán độc lập, kiểm toán viên hành nghề tham gia kiểm toán tổ chức tín dụng, chi nhánh ngân hàng nước ngoài)
 
 Điều 17.2.LQ.19. Các trường hợp kiểm toán viên hành nghề không được thực hiện kiểm toán
 
-**Chỉ mục:** 19
+(Điều 19 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000200001900000000000000000
+ Kiểm toán viên hành nghề không được thực hiện kiểm toán trong các trường hợp sau đây:
 
-**ID:** dk_00023904
+ 1. Là thành viên, cổ đông sáng lập hoặc mua cổ phần, góp vốn vào đơn vị được kiểm toán;
 
----
+ 2. Là người giữ chức vụ quản lý, điều hành, thành viên ban kiểm soát hoặc là kế toán trưởng của đơn vị được kiểm toán;
 
+ 3. Là người đã từng giữ chức vụ quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng của đơn vị được kiểm toán cho các năm tài chính được kiểm toán;
 
-### Điều 17.2.LQ.20. Các loại doanh nghiệp kiểm toán và chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+ 4. Trong thời gian hai năm, kể từ thời điểm thôi giữ chức vụ quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng của đơn vị được kiểm toán;
+
+ 5. Là người đang thực hiện hoặc đã thực hiện trong năm trước liền kề công việc ghi sổ kế toán, lập báo cáo tài chính hoặc thực hiện kiểm toán nội bộ cho đơn vị được kiểm toán;
+
+ 6. Là người đang thực hiện hoặc đã thực hiện trong năm trước liền kề dịch vụ khác với các dịch vụ quy định tại khoản 5 Điều này có ảnh hưởng đến tính độc lập của kiểm toán viên hành nghề theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán;
+
+ 7. Có bố, mẹ, vợ, chồng, con, anh, chị, em ruột là người có lợi ích tài chính trực tiếp hoặc gián tiếp đáng kể trong đơn vị được kiểm toán theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán hoặc là người giữ chức vụ quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng của đơn vị được kiểm toán;
+
+ 8. Trường hợp khác theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 22.3.TT.22.13. Tiêu chuẩn đối với kiểm toán viên hành nghề và người đại diện của tổ chức kiểm toán độc lập tham gia kiểm toán tổ chức tín dụng, chi nhánh ngân hàng nước ngoài)
+
+Chương III
+
+DOANH NGHIỆP KIỂM TOÁN 
 
 Điều 17.2.LQ.20. Các loại doanh nghiệp kiểm toán và chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
 
-**Chỉ mục:** 20
+(Điều 20 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300002000000000000000000
+ 1. Các loại doanh nghiệp sau đây được kinh doanh dịch vụ kiểm toán:
 
-**ID:** dk_00023906
+ a) Công ty trách nhiệm hữu hạn hai thành viên trở lên;
 
----
+ b) Công ty hợp danh;
 
+ c) Doanh nghiệp tư nhân.
 
-### Điều 17.2.NĐ.1.5. Vốn pháp định đối với Công ty trách nhiệm hữu hạn
+ 2. Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam được kinh doanh dịch vụ kiểm toán theo quy định của pháp luật.
 
-Điều 17.2.NĐ.1.5. Vốn pháp định đối với Công ty trách nhiệm hữu hạn
+ 3. Doanh nghiệp, chi nhánh doanh nghiệp không đủ điều kiện kinh doanh dịch vụ kiểm toán thì không được sử dụng cụm từ “kiểm toán” trong tên gọi.
 
-**Chỉ mục:** 5
+ 4. Doanh nghiệp kiểm toán không được góp vốn để thành lập doanh nghiệp kiểm toán khác, trừ trường hợp góp vốn với doanh nghiệp kiểm toán nước ngoài để thành lập doanh nghiệp kiểm toán tại Việt Nam.Điều 17.2.NĐ.1.5. Vốn pháp định đối với Công ty trách nhiệm hữu hạn
 
-**Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000500
+(Điều 5 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**ID:** dk_00023907
+1. Vốn pháp định đối với Công ty trách nhiệm hữu hạn là 3 (ba) tỷ đồng Việt Nam; từ ngày 01 tháng 01 năm 2015, vốn pháp định là 5 (năm) tỷ đồng Việt Nam.
 
----
-
-
-### Điều 17.2.NĐ.1.6. Thành viên là tổ chức của công ty trách nhiệm hữu hạn hai thành viên trở lên
+2. Trong quá trình hoạt động, công ty trách nhiệm hữu hạn phải luôn duy trì vốn chủ sở hữu trên bảng cân đối kế toán không thấp hơn mức vốn pháp định quy định tại Khoản 1 Điều này. Doanh nghiệp kiểm toán phải bổ sung vốn nếu vốn chủ sở hữu trên bảng cân đối kế toán thấp hơn mức vốn pháp định theo quy định tại Khoản 1 Điều này trong thời gian 03 (ba) tháng kể từ ngày kết thúc năm tài chính.
 
 Điều 17.2.NĐ.1.6. Thành viên là tổ chức của công ty trách nhiệm hữu hạn hai thành viên trở lên
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012, có nội dung được bãi bỏ theo quy định tại Điều 3 Nghị định số 151/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/11/2018)
 
-**Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000600
+1. Thành viên là tổ chức được góp tối đa 35% vốn điều lệ của công ty trách nhiệm hữu hạn kiểm toán hai thành viên trở lên. Trường hợp có nhiều tổ chức góp vốn thì tổng số vốn góp của các tổ chức tối đa bằng 35% vốn điều lệ của công ty trách nhiệm hữu hạn kiểm toán hai thành viên trở lên.
 
-**ID:** dk_00023908
+2. ***(Bị bãi bỏ);***
 
----
-
-
-### Điều 17.2.NĐ.1.7. Mức vốn góp của kiểm toán viên hành nghề
+3. Kiểm toán viên hành nghề là người đại diện của thành viên là tổ chức không được tham gia góp vốn vào doanh nghiệp kiểm toán đó với tư cách cá nhân.
 
 Điều 17.2.NĐ.1.7. Mức vốn góp của kiểm toán viên hành nghề
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000700
+1. Công ty trách nhiệm hữu hạn kiểm toán phải có ít nhất 02 (hai) thành viên góp vốn là kiểm toán viên đăng ký hành nghề tại công ty. Vốn góp của các kiểm toán viên hành nghề phải chiếm trên 50% vốn điều lệ của công ty.
 
-**ID:** dk_00023909
-
----
-
-
-### Điều 17.2.NĐ.1.8. Vốn tối thiểu đối với doanh nghiệp kiểm toán nước ngoài có thành lập chi nhánh tại Việt Nam và vốn được cấp của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+2. Kiểm toán viên hành nghề không được đồng thời là thành viên góp vốn của hai doanh nghiệp kiểm toán trở lên.
 
 Điều 17.2.NĐ.1.8. Vốn tối thiểu đối với doanh nghiệp kiểm toán nước ngoài có thành lập chi nhánh tại Việt Nam và vốn được cấp của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 170020000000000030000200000000000000000000402429900170000800
+1. Doanh nghiệp kiểm toán nước ngoài đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải có vốn chủ sở hữu trên bảng cân đối kế toán tại thời điểm kết thúc năm tài chính gần nhất với thời điểm đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh tối thiểu tương đương 500.000 (năm trăm nghìn) đô la Mỹ.
 
-**ID:** dk_00023910
+2. Vốn được cấp của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không thấp hơn mức vốn pháp định đối với công ty trách nhiệm hữu hạn quy định tại Điều 5 Nghị định này.
 
----
-
-
-### Điều 17.2.LQ.21. Điều kiện cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+3. Trong quá trình hoạt động doanh nghiệp kiểm toán nước ngoài phải duy trì vốn chủ sở hữu trên bảng cân đối kế toán và vốn được cấp của chi nhánh tại Việt Nam không thấp hơn vốn quy định tại Khoản 1 Điều này. Doanh nghiệp kiểm toán nước ngoài, chi nhánh doanh nghiệp kiểm toán nước ngoài phải bổ sung vốn nếu vốn chủ sở hữu trên bảng cân đối kế toán của doanh nghiệp kiểm toán nước ngoài và của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thấp hơn các mức vốn quy định tại Khoản 1 và Khoản 2 Điều này trong thời gian 03 (ba) tháng kể từ ngày kết thúc năm tài chính.
 
 Điều 17.2.LQ.21. Điều kiện cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 21
+(Điều 21 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300002100000000000000000
+ 1. Công ty trách nhiệm hữu hạn hai thành viên trở lên khi đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải có đủ các điều kiện sau đây:
 
-**ID:** dk_00023911
+ a) Có Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật;
 
----
+ b) Có ít nhất năm kiểm toán viên hành nghề, trong đó tối thiểu phải có hai thành viên góp vốn;
 
+ c) Người đại diện theo pháp luật, Giám đốc hoặc Tổng Giám đốc của Công ty trách nhiệm hữu hạn phải là kiểm toán viên hành nghề;
 
-### Điều 17.2.LQ.22. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ d) Bảo đảm vốn pháp định theo quy định của Chính phủ;
+
+ đ) Phần vốn góp của thành viên là tổ chức không được vượt quá mức do Chính phủ quy định. Người đại diện của thành viên là tổ chức phải là kiểm toán viên hành nghề.
+
+ 2. Công ty hợp danh khi đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải có đủ các điều kiện sau đây:
+
+ a) Có Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật;
+
+ b) Có ít nhất năm kiểm toán viên hành nghề, trong đó tối thiểu phải có hai thành viên hợp danh;
+
+ c) Người đại diện theo pháp luật, Giám đốc hoặc Tổng Giám đốc của công ty hợp danh phải là kiểm toán viên hành nghề;
+
+ 3. Doanh nghiệp tư nhân khi đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải có đủ các điều kiện sau đây:
+
+ a) Có Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật;
+
+ b) Có ít nhất năm kiểm toán viên hành nghề, trong đó có chủ doanh nghiệp tư nhân;
+
+ c) Chủ doanh nghiệp tư nhân đồng thời là Giám đốc.
+
+ 4. Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam khi đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải có đủ các điều kiện sau đây:
+
+ a) Doanh nghiệp kiểm toán nước ngoài được phép cung cấp dịch vụ kiểm toán độc lập theo quy định của pháp luật của nước nơi doanh nghiệp kiểm toán nước ngoài đặt trụ sở chính;
+
+ b) Có ít nhất hai kiểm toán viên hành nghề, trong đó có Giám đốc hoặc Tổng giám đốc chi nhánh;
+
+ c) Giám đốc hoặc Tổng giám đốc chi nhánh doanh nghiệp kiểm toán nước ngoài không được giữ chức vụ quản lý, điều hành doanh nghiệp khác tại Việt Nam;
+
+ d) Doanh nghiệp kiểm toán nước ngoài phải có văn bản gửi Bộ Tài chính bảo đảm chịu trách nhiệm về mọi nghĩa vụ và cam kết của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
+
+ đ) Doanh nghiệp kiểm toán nước ngoài phải bảo đảm duy trì vốn không thấp hơn mức vốn pháp định theo quy định của Chính phủ.
+
+ 5. Trong thời hạn sáu tháng, kể từ ngày đăng ký kinh doanh dịch vụ kiểm toán mà doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán thì phải làm thủ tục xóa ngành nghề kinh doanh dịch vụ kiểm toán.(Điều này có nội dung liên quan đến Điều 39.13.NĐ.7.51. Xử phạt hành vi vi phạm quy định về nghĩa vụ thông báo, báo cáo của tổ chức kiểm toán của Nghị định 105/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực kế toán, kiểm toán độc lập ban hành ngày 16/09/2013)
 
 Điều 17.2.LQ.22. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 22
+(Điều 22 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300002200000000000000000
+ Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán gồm có:
 
-**ID:** dk_00023912
+ 1. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
----
+ 2. Bản sao Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư;
 
+ 3. Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề;
 
-### Điều 17.2.LQ.23. Thời hạn cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ 4. Hợp đồng lao động làm toàn bộ thời gian của các kiểm toán viên hành nghề;
 
-Điều 17.2.LQ.23. Thời hạn cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ 5. Tài liệu chứng minh về vốn góp đối với công ty trách nhiệm hữu hạn;
 
-**Chỉ mục:** 23
+ 6. Các giấy tờ khác do Bộ Tài chính quy định.Điều 17.2.LQ.23. Thời hạn cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Mã phân cấp:** 1700200000000000300002300000000000000000
+(Điều 23 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023913
+ 1. Trong thời hạn ba mươi ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Tài chính cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam; trường hợp từ chối, Bộ Tài chính phải trả lời bằng văn bản và nêu rõ lý do.
 
----
+ 2. Trường hợp cần làm rõ vấn đề liên quan đến hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán, Bộ Tài chính yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán giải trình.Điều 17.2.LQ.24. Cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
+(Điều 24 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-### Điều 17.2.LQ.24. Cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ 1. Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được cấp lại hoặc điều chỉnh trong các trường hợp sau đây:
 
-Điều 17.2.LQ.24. Cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ a) Có sự thay đổi nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
-**Chỉ mục:** 24
+ b) Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán bị mất hoặc bị hư hỏng;
 
-**Mã phân cấp:** 1700200000000000300002400000000000000000
+ c) Chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu.
 
-**ID:** dk_00023914
+ 2. Hồ sơ đề nghị cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán gồm có:
 
----
+ a) Đơn đề nghị cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
+ b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã được cấp, trừ trường hợp không còn bản gốc;
 
-### Điều 17.2.LQ.25. Lệ phí cấp, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ c) Các tài liệu khác liên quan đến việc cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
-Điều 17.2.LQ.25. Lệ phí cấp, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ 3. Trong thời hạn hai mươi ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Tài chính cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán; trường hợp từ chối, Bộ Tài chính phải trả lời bằng văn bản và nêu rõ lý do.Điều 17.2.LQ.25. Lệ phí cấp, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**Chỉ mục:** 25
-
-**Mã phân cấp:** 1700200000000000300002500000000000000000
-
-**ID:** dk_00023915
-
----
-
-
-### Điều 17.2.LQ.26. Những thay đổi phải thông báo cho Bộ Tài chính
+(Điều 25 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, được bãi bỏ theo quy định tại điểm đ khoản 2 Điều 23 Luật Phí và lệ phí số 97/2015/QH13)
 
 Điều 17.2.LQ.26. Những thay đổi phải thông báo cho Bộ Tài chính
 
-**Chỉ mục:** 26
+(Điều 26 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300002600000000000000000
+ Trong thời hạn mười ngày, kể từ ngày có thay đổi về những nội dung sau đây, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thông báo bằng văn bản cho Bộ Tài chính:
 
-**ID:** dk_00023916
+ 1. Danh sách kiểm toán viên hành nghề;
 
----
+ 2. Không bảo đảm một trong các điều kiện quy định tại Điều 21 và Điều 31 của Luật này;
 
+ 3. Tên, địa điểm đặt trụ sở chính của doanh nghiệp;
 
-### Điều 17.2.LQ.27. Đình chỉ kinh doanh dịch vụ kiểm toán và thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ 4. Giám đốc hoặc Tổng Giám đốc, người đại diện theo pháp luật, tỷ lệ vốn góp của các thành viên;
 
-Điều 17.2.LQ.27. Đình chỉ kinh doanh dịch vụ kiểm toán và thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+ 5. Tạm ngừng kinh doanh dịch vụ kiểm toán;
 
-**Chỉ mục:** 27
+ 6. Thành lập, chấm dứt hoạt động hoặc thay đổi tên, địa điểm đặt trụ sở chi nhánh kinh doanh dịch vụ kiểm toán;
 
-**Mã phân cấp:** 1700200000000000300002700000000000000000
+ 7. Thực hiện việc chia, tách, sáp nhập, hợp nhất, chuyển đổi, giải thể.Điều 17.2.LQ.27. Đình chỉ kinh doanh dịch vụ kiểm toán và thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
 
-**ID:** dk_00023917
+(Điều 27 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
----
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam bị đình chỉ kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp sau đây:
 
+ a) Hoạt động không đúng phạm vi hoạt động của doanh nghiệp kiểm toán quy định tại khoản 1 Điều 40 của Luật này;
 
-### Điều 17.2.LQ.28. Quyền của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+ b) Không bảo đảm một trong các điều kiện quy định tại các khoản 1, 2, 3 và 4 Điều 21 của Luật này trong ba tháng liên tục;
 
-Điều 17.2.LQ.28. Quyền của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+ c) Có sai phạm nghiêm trọng về chuyên môn hoặc vi phạm chuẩn mực kiểm toán, chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
 
-**Chỉ mục:** 28
+ 2. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán khi thuộc một trong các trường hợp sau đây:
 
-**Mã phân cấp:** 1700200000000000300002800000000000000000
+ a) Kê khai không đúng thực tế hoặc gian lận, giả mạo hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
-**ID:** dk_00023918
+ b) Không kinh doanh dịch vụ kiểm toán trong mười hai tháng liên tục;
 
----
+ c) Không khắc phục được các vi phạm quy định tại khoản 1 Điều này trong thời hạn sáu mươi ngày, kể từ ngày bị đình chỉ;
 
+ d) Bị giải thể, phá sản hoặc tự chấm dứt kinh doanh dịch vụ kiểm toán;
 
-### Điều 17.2.LQ.29. Nghĩa vụ của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+ đ) Bị thu hồi Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư;
 
-Điều 17.2.LQ.29. Nghĩa vụ của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+ e) Doanh nghiệp kiểm toán nước ngoài có chi nhánh kiểm toán tại Việt Nam bị giải thể, phá sản hoặc bị cơ quan có thẩm quyền của nước nơi doanh nghiệp kiểm toán đó đặt trụ sở chính thu hồi giấy phép hoặc đình chỉ hoạt động.
 
-**Chỉ mục:** 29
+ g) Có hành vi vi phạm quy định tại khoản 11 và khoản 15 Điều 59 của Luật này.
 
-**Mã phân cấp:** 1700200000000000300002900000000000000000
+ 3. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán phải chấm dứt việc kinh doanh dịch vụ kiểm toán, kể từ ngày quyết định thu hồi có hiệu lực thi hành.
 
-**ID:** dk_00023919
+ 4. Bộ Tài chính quy định chi tiết việc đình chỉ kinh doanh dịch vụ kiểm toán, thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán và công bố quyết định đình chỉ kinh doanh dịch vụ kiểm toán, thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán trong thời hạn bảy ngày trên trang thông tin điện tử của Bộ Tài chính.Điều 17.2.LQ.28. Quyền của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
 
----
+(Điều 28 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
+ 1. Doanh nghiệp kiểm toán có các quyền sau đây:
 
-### Điều 17.2.LQ.30. Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán
+ a) Cung cấp các dịch vụ quy định tại Điều 40 của Luật này;
+
+ b) Nhận phí dịch vụ;
+
+ c) Thành lập chi nhánh kinh doanh dịch vụ kiểm toán;
+
+ d) Đặt cơ sở kinh doanh dịch vụ kiểm toán ở nước ngoài;
+
+ đ) Tham gia tổ chức kiểm toán quốc tế, tổ chức nghề nghiệp về kiểm toán;
+
+ e) Yêu cầu đơn vị được kiểm toán cung cấp đầy đủ, kịp thời thông tin, tài liệu cần thiết và giải trình các vấn đề có liên quan đến nội dung kiểm toán; yêu cầu kiểm kê tài sản, đối chiếu công nợ của đơn vị được kiểm toán có liên quan đến nội dung kiểm toán; kiểm tra toàn bộ hồ sơ, tài liệu có liên quan đến hoạt động kinh tế, tài chính của đơn vị được kiểm toán ở trong và ngoài đơn vị trong quá trình thực hiện kiểm toán;
+
+ g) Kiểm tra, xác nhận các thông tin kinh tế, tài chính có liên quan đến đơn vị được kiểm toán ở trong và ngoài đơn vị trong quá trình thực hiện kiểm toán;
+
+ h) Yêu cầu tổ chức, cá nhân có liên quan cung cấp tài liệu, thông tin cần thiết có liên quan đến nội dung kiểm toán thông qua đơn vị được kiểm toán;
+
+ i) Quyền khác theo quy định của pháp luật.
+
+ 2. Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có các quyền quy định tại các điểm a, b, e, g, h và i khoản 1 Điều này.Điều 17.2.LQ.29. Nghĩa vụ của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+(Điều 29 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
+
+1. Hoạt động theo nội dung ghi trong Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+1a. Duy trì các điều kiện theo quy định tại Điều 21 của Luật này trong quá trình hoạt động.
+
+1b. Trường hợp doanh nghiệp kiểm toán có chi nhánh thì phải đáp ứng điều kiện quy định tại khoản 1a Điều này và bảo đảm có ít nhất năm kiểm toán viên đăng ký hành nghề tại trụ sở chính, không bao gồm các kiểm toán viên đăng ký hành nghề tại chi nhánh.
+
+2. Bố trí nhân sự có trình độ chuyên môn phù hợp để bảo đảm chất lượng dịch vụ kiểm toán; quản lý hoạt động nghề nghiệp của kiểm toán viên hành nghề.
+
+2a. Không được bố trí kiểm toán viên hành nghề ký báo cáo kiểm toán cho một đơn vị được kiểm toán quá năm năm liên tục. Bộ Tài chính quy định thời gian ngừng để kiểm toán viên hành nghề tiếp tục ký báo cáo kiểm toán cho cùng một đơn vị được kiểm toán.
+
+3. Hàng năm thông báo danh sách kiểm toán viên hành nghề cho cơ quan nhà nước có thẩm quyền;
+
+4. Bồi thường thiệt hại cho khách hàng, đơn vị được kiểm toán trên cơ sở hợp đồng kiểm toán và theo quy định của pháp luật.
+
+5. Mua bảo hiểm trách nhiệm nghề nghiệp cho kiểm toán viên hành nghề hoặc trích lập quỹ dự phòng rủi ro nghề nghiệp theo quy định của Bộ Tài chính.
+
+6. Thông báo cho đơn vị được kiểm toán khi nhận thấy đơn vị được kiểm toán có dấu hiệu vi phạm pháp luật về kinh tế, tài chính, kế toán.
+
+7. Cung cấp thông tin về kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam cho cơ quan nhà nước có thẩm quyền.
+
+8. Cung cấp hồ sơ, tài liệu kiểm toán theo yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền.
+
+9. Báo cáo định kỳ, đột xuất về hoạt động kiểm toán độc lập.
+
+10. Cung cấp kịp thời, đầy đủ, chính xác thông tin, tài liệu theo yêu cầu của cơ quan có thẩm quyền trong quá trình kiểm tra, thanh tra và chịu trách nhiệm về tính chính xác, trung thực của thông tin, tài liệu đã cung cấp; chấp hành quy định của cơ quan nhà nước có thẩm quyền về việc kiểm tra, thanh tra.
+
+11. Chịu trách nhiệm trước pháp luật, trước khách hàng về kết quả kiểm toán theo hợp đồng kiểm toán đã giao kết.
+
+12. Chịu trách nhiệm với người sử dụng kết quả kiểm toán khi người sử dụng kết quả kiểm toán:
+
+a) Có lợi ích liên quan trực tiếp đến kết quả kiểm toán của đơn vị được kiểm toán tại ngày ký báo cáo kiểm toán;
+
+b) Có hiểu biết một cách hợp lý về báo cáo tài chính và cơ sở lập báo cáo tài chính là các chuẩn mực kế toán, chế độ kế toán và các quy định khác của pháp luật có liên quan;
+
+c) Đã sử dụng một cách thận trọng thông tin trên báo cáo tài chính đã kiểm toán.
+
+13. Từ chối thực hiện kiểm toán khi xét thấy không bảo đảm tính độc lập, không đủ năng lực chuyên môn, không đủ điều kiện kiểm toán.
+
+14. Từ chối thực hiện kiểm toán khi khách hàng, đơn vị được kiểm toán có yêu cầu trái với đạo đức nghề nghiệp, yêu cầu chuyên môn, nghiệp vụ hoặc trái với quy định của pháp luật.
+
+15. Tổ chức kiểm toán chất lượng hoạt động và chịu sự kiểm toán chất lượng dịch vụ kiểm toán theo quy định của Bộ Tài chính.
+
+16. Nghĩa vụ khác theo quy định của pháp luật.
+
+(Điều này có nội dung liên quan đến Điều 22.3.TT.22.14. Trách nhiệm của tổ chức kiểm toán độc lập, kiểm toán viên hành nghề tham gia kiểm toán tổ chức tín dụng, chi nhánh ngân hàng nước ngoài)
 
 Điều 17.2.LQ.30. Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán
 
-**Chỉ mục:** 30
+(Điều 30 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300003000000000000000000
+ 1. Doanh nghiệp kiểm toán không được thực hiện kiểm toán trong các trường hợp sau đây:
 
-**ID:** dk_00023920
+ a) Đang thực hiện hoặc đã thực hiện trong năm trước liền kề công việc ghi sổ kế toán, lập báo cáo tài chính hoặc thực hiện kiểm toán nội bộ cho đơn vị được kiểm toán;
 
----
+ b) Đang thực hiện hoặc đã thực hiện trong năm trước liền kề các dịch vụ khác với các dịch vụ quy định tại điểm a khoản này có ảnh hưởng đến tính độc lập của kiểm toán viên hành nghề và doanh nghiệp kiểm toán theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
 
+ c) Thành viên tham gia cuộc kiểm toán, người quản lý, điều hành của doanh nghiệp kiểm toán là thành viên, cổ đông sáng lập hoặc mua cổ phần, góp vốn vào đơn vị được kiểm toán hoặc có quan hệ kinh tế, tài chính khác với đơn vị được kiểm toán theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán;
 
-### Điều 17.2.NĐ.1.9. Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán
+ d) Người có trách nhiệm quản lý, điều hành của doanh nghiệp kiểm toán có bố, mẹ, vợ, chồng, con, anh, chị, em ruột là thành viên, cổ đông sáng lập hoặc mua cổ phần, góp vốn và có ảnh hưởng đáng kể đối với đơn vị được kiểm toán hoặc là người có trách nhiệm quản lý, điều hành, thành viên ban kiểm soát hoặc kế toán trưởng của đơn vị được kiểm toán;
+
+ d) Người có trách nhiệm quản lý, điều hành, thành viên ban kiểm soát hoặc kế toán trưởng của đơn vị được kiểm toán đồng thời là người góp vốn và có ảnh hưởng đáng kể đối với doanh nghiệp kiểm toán;
+
+ e) Doanh nghiệp kiểm toán và đơn vị được kiểm toán có cùng một cá nhân hoặc doanh nghiệp, tổ chức thành lập hoặc tham gia thành lập;
+
+ g) Đơn vị được kiểm toán đã thực hiện trong năm trước liền kề hoặc đang thực hiện kiểm toán báo cáo tài chính cho chính doanh nghiệp kiểm toán;
+
+ h) Trường hợp khác theo quy định của pháp luật.
+
+ 2. Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán trong các trường hợp sau đây:
+
+ a) Đang thực hiện hoặc đã thực hiện trong năm trước liền kề công việc ghi sổ kế toán, lập báo cáo tài chính hoặc thực hiện kiểm toán nội bộ cho đơn vị được kiểm toán;
+
+ b) Đang thực hiện hoặc đã thực hiện trong năm trước liền kề các dịch vụ khác với các dịch vụ quy định tại điểm a khoản này có ảnh hưởng đến tính độc lập của kiểm toán viên hành nghề và chi nhánh theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán;
+
+ c) Thành viên tham gia cuộc kiểm toán, người quản lý, điều hành của chi nhánh là thành viên, cổ đông sáng lập hoặc mua cổ phần, góp vốn vào đơn vị được kiểm toán hoặc có quan hệ kinh tế, tài chính khác với đơn vị được kiểm toán theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán;
+
+ d) Người có trách nhiệm quản lý, điều hành của chi nhánh có bố, mẹ, vợ, chồng, con, anh, chị, em ruột là thành viên, cổ đông sáng lập hoặc mua cổ phần, góp vốn và có ảnh hưởng đáng kể đối với đơn vị được kiểm toán hoặc là người có trách nhiệm quản lý điều hành, thành viên ban kiểm soát hoặc kế toán trưởng của đơn vị được kiểm toán;
+
+ đ) Người có trách nhiệm quản lý, điều hành, thành viên ban kiểm soát hoặc kế toán trưởng của đơn vị được kiểm toán đồng thời là người có ảnh hưởng đáng kể đối với chi nhánh theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán;
+
+ e) Đơn vị được kiểm toán đã thực hiện trong năm trước liền kề hoặc đang thực hiện kiểm toán báo cáo tài chính cho chính chi nhánh;
+
+ g) Trường hợp khác theo quy định của pháp luật.(Điều này có nội dung liên quan đến Điều 22.3.TT.22.11. Điều kiện đối với tổ chức kiểm toán độc lập thực hiện kiểm toán ngân hàng, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài; Điều 22.3.TT.22.12. Điều kiện đối với tổ chức kiểm toán độc lập thực hiện kiểm toán tổ chức tài chính vi mô, quỹ tín dụng nhân dân)
 
 Điều 17.2.NĐ.1.9. Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 170020000000000030000300000000000000000000402429900170000900
+Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán quy định tại Điều 30 của Luật Kiểm toán độc lập được hướng dẫn cụ thể như sau:
 
-**ID:** dk_00023921
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam đang thực hiện hoặc đã thực hiện trong năm trước liền kề một trong các dịch vụ sau cho đơn vị được kiểm toán:
 
----
+a) Công việc ghi sổ kế toán, lập báo cáo tài chính;
 
+b) Thực hiện dịch vụ kiểm toán nội bộ;
 
-### Điều 17.2.LQ.31. Chi nhánh của doanh nghiệp kiểm toán
+c) Thiết kế và thực hiện các thủ tục kiểm soát nội bộ;
+
+d) Các dịch vụ khác có ảnh hưởng đến tính độc lập của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
+
+2. Thành viên tham gia cuộc kiểm toán, người có trách nhiệm quản lý, điều hành, thành viên Ban kiểm soát, kế toán trưởng (hoặc phụ trách kế toán) của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam là thành viên, cổ đông sáng lập hoặc đang nắm giữ cổ phiếu, góp vốn vào đơn vị được kiểm toán hoặc có quan hệ kinh tế, tài chính khác với đơn vị được kiểm toán theo quy định của chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
+
+3. Người có trách nhiệm quản lý, điều hành, thành viên Ban kiểm soát, kế toán trưởng (hoặc phụ trách kế toán) của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có bố, mẹ, vợ, chồng, con, anh, chị, em ruột là thành viên, cổ đông sáng lập hoặc nắm giữ cổ phiếu, góp vốn và nắm giữ từ 20% quyền biểu quyết trở lên đối với đơn vị được kiểm toán hoặc là người có trách nhiệm quản lý, điều hành, thành viên ban kiểm soát, kiểm soát viên, kế toán trưởng (hoặc phụ trách kế toán) của đơn vị được kiểm toán.
+
+4. Người có trách nhiệm quản lý, điều hành, thành viên ban kiểm soát, kiểm soát viên, kế toán trưởng (hoặc phụ trách kế toán) của đơn vị được kiểm toán đồng thời là người góp vốn và nắm giữ từ 20% quyền biểu quyết trở lên đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
+5. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và đơn vị được kiểm toán có các mối quan hệ sau:
+
+a) Có cùng một cá nhân hoặc doanh nghiệp, tổ chức thành lập hoặc tham gia thành lập;
+
+b) Cùng trực tiếp hay gián tiếp chịu sự điều hành, kiểm soát, góp vốn dưới mọi hình thức của một bên khác;
+
+c) Được điều hành hoặc chịu sự kiểm soát về nhân sự, tài chính và hoạt động kinh doanh bởi các cá nhân thuộc một trong các mối quan hệ sau: Vợ và chồng; bố, mẹ và con (không phân biệt con đẻ, con nuôi hoặc con dâu, con rể); anh, chị, em có cùng cha, mẹ (không phân biệt cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi); ông nội, bà nội và cháu nội; ông ngoại, bà ngoại và cháu ngoại; cô, chú, bác, cậu, dì ruột và cháu ruột;
+
+d) Có thỏa thuận hợp tác kinh doanh trên cơ sở hợp đồng;
+
+đ) Cùng là công ty hoặc pháp nhân thuộc cùng một mạng lưới theo quy định của chuẩn mực kiểm toán.
+
+6. Đơn vị được kiểm toán đã thực hiện trong năm trước liền kề hoặc đang thực hiện kiểm toán báo cáo tài chính hoặc các dịch vụ kiểm toán khác cho chính doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
+7. Đơn vị được kiểm toán là tổ chức góp vốn vào doanh nghiệp kiểm toán; đơn vị được kiểm toán là công ty mẹ, các công ty con, công ty liên kết, công ty liên doanh, đơn vị cấp trên, đơn vị cấp dưới, công ty cùng tập đoàn của tổ chức góp vốn vào doanh nghiệp kiểm toán.
+
+8. Doanh nghiệp kiểm toán tham gia trực tiếp hoặc gián tiếp vào việc điều hành, kiểm soát, góp vốn dưới mọi hình thức vào đơn vị được kiểm toán.
+
+9. Trường hợp khác theo quy định của Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán và quy định của pháp luật.
 
 Điều 17.2.LQ.31. Chi nhánh của doanh nghiệp kiểm toán
 
-**Chỉ mục:** 31
+(Điều 31 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300003100000000000000000
+ 1. Điều kiện để chi nhánh của doanh nghiệp kiểm toán được kinh doanh dịch vụ kiểm toán:
 
-**ID:** dk_00023922
+ a) Doanh nghiệp kiểm toán có đủ điều kiện kinh doanh dịch vụ kiểm toán theo quy định tại Điều 21 của Luật này;
 
----
+ b) Chi nhánh có ít nhất hai kiểm toán viên hành nghề, trong đó có Giám đốc chi nhánh. Hai kiểm toán viên hành nghề không được đồng thời là kiểm toán viên đăng ký hành nghề tại trụ sở chính hoặc chi nhánh khác của doanh nghiệp kiểm toán.
 
+ c) Được sự chấp thuận bằng văn bản của Bộ Tài chính.
 
-### Điều 17.2.LQ.32. Cơ sở của doanh nghiệp kiểm toán ở nước ngoài
+ 2. Chi nhánh của doanh nghiệp kiểm toán không bảo đảm điều kiện quy định tại khoản 1 Điều này sau ba tháng liên tục thì bị đình chỉ kinh doanh dịch vụ kiểm toán.
+
+ 3. Trường hợp doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán thì các chi nhánh của doanh nghiệp kiểm toán đó cũng bị đình chỉ kinh doanh dịch vụ kiểm toán.(Điều này có nội dung liên quan đến Điều 39.13.NĐ.7.51. Xử phạt hành vi vi phạm quy định về nghĩa vụ thông báo, báo cáo của tổ chức kiểm toán của Nghị định 105/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực kế toán, kiểm toán độc lập ban hành ngày 16/09/2013)
 
 Điều 17.2.LQ.32. Cơ sở của doanh nghiệp kiểm toán ở nước ngoài
 
-**Chỉ mục:** 32
+(Điều 32 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000300003200000000000000000
+ 1. Doanh nghiệp kiểm toán được thành lập cơ sở kinh doanh dịch vụ kiểm toán ở nước ngoài theo quy định của pháp luật về đầu tư của Việt Nam và pháp luật của nước sở tại.
 
-**ID:** dk_00023923
+ 2. Trong thời hạn ba mươi ngày, kể từ ngày thành lập hoặc chấm dứt hoạt động của cơ sở kinh doanh dịch vụ kiểm toán ở nước ngoài, doanh nghiệp kiểm toán phải thông báo bằng văn bản kèm theo bản sao tài liệu về thành lập hoặc chấm dứt hoạt động của cơ sở cho Bộ Tài chính.Điều 17.2.LQ.33. Tạm ngừng kinh doanh dịch vụ kiểm toán
 
----
+(Điều 33 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam được tạm ngừng kinh doanh dịch vụ kiểm toán nhưng thời hạn tạm ngừng không quá mười hai tháng liên tục.
 
-### Điều 17.2.LQ.33. Tạm ngừng kinh doanh dịch vụ kiểm toán
+ 2. Doanh nghiệp kiểm toán tạm ngừng kinh doanh dịch vụ kiểm toán thì các chi nhánh của doanh nghiệp kiểm toán đó cũng phải tạm ngừng kinh doanh dịch vụ kiểm toán.
 
-Điều 17.2.LQ.33. Tạm ngừng kinh doanh dịch vụ kiểm toán
+ 3. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam tạm ngừng kinh doanh dịch vụ kiểm toán mà chưa hoàn thành hợp đồng kiểm toán đã ký với khách hàng thì phải thỏa thuận với khách hàng về việc thực hiện hợp đồng đó.
 
-**Chỉ mục:** 33
+ 4. Khi hoạt động trở lại, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải bảo đảm điều kiện theo quy định của pháp luật và phải thông báo bằng văn bản cho Bộ Tài chính chậm nhất là mười ngày trước ngày hoạt động trở lại.Điều 17.2.LQ.34. Chấm dứt kinh doanh dịch vụ kiểm toán
 
-**Mã phân cấp:** 1700200000000000300003300000000000000000
+(Điều 34 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023924
+ 1. Doanh nghiệp kiểm toán chấm dứt kinh doanh dịch vụ kiểm toán trong các trường hợp sau đây:
 
----
+ a) Tự chấm dứt;
 
+ b) Bị chia, tách, hợp nhất, sáp nhập, giải thể;
 
-### Điều 17.2.LQ.34. Chấm dứt kinh doanh dịch vụ kiểm toán
+ c) Bị thu hồi Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư hoặc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
-Điều 17.2.LQ.34. Chấm dứt kinh doanh dịch vụ kiểm toán
+ d) Giám đốc doanh nghiệp tư nhân chết;
 
-**Chỉ mục:** 34
+ đ) Trường hợp khác theo quy định của pháp luật về doanh nghiệp.
 
-**Mã phân cấp:** 1700200000000000300003400000000000000000
+ 2. Chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam chấm dứt kinh doanh dịch vụ kiểm toán trong các trường hợp sau đây:
 
-**ID:** dk_00023925
+ a) Theo quyết định của doanh nghiệp kiểm toán nước ngoài đã thành lập chi nhánh;
 
----
+ b) Theo quy định tại điểm c và điểm đ khoản 1 Điều này.
 
+ 3. Trường hợp chấm dứt kinh doanh dịch vụ kiểm toán theo quy định tại điểm a khoản 1 Điều này, doanh nghiệp kiểm toán phải thông báo bằng văn bản cho Bộ Tài chính chậm nhất là ba mươi ngày trước ngày chấm dứt. 
 
-### Điều 17.2.LQ.35. Chấm dứt hoạt động của chi nhánh doanh nghiệp kiểm toán
+ 4. Bộ Tài chính quy định cụ thể về thủ tục chấm dứt kinh doanh dịch vụ kiểm toán.Điều 17.2.LQ.35. Chấm dứt hoạt động của chi nhánh doanh nghiệp kiểm toán
 
-Điều 17.2.LQ.35. Chấm dứt hoạt động của chi nhánh doanh nghiệp kiểm toán
+(Điều 35 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Chỉ mục:** 35
+ 1. Chi nhánh doanh nghiệp kiểm toán chấm dứt hoạt động trong các trường hợp sau đây:
 
-**Mã phân cấp:** 1700200000000000300003500000000000000000
+ a) Theo quyết định của doanh nghiệp kiểm toán đã thành lập chi nhánh;
 
-**ID:** dk_00023926
+ b) Doanh nghiệp kiểm toán đã thành lập chi nhánh chấm dứt hoạt động;
 
----
+ c) Trường hợp khác theo quy định của pháp luật về doanh nghiệp.
 
+ 2. Doanh nghiệp kiểm toán có các quyền, thực hiện nghĩa vụ của chi nhánh và giải quyết các vấn đề liên quan đến việc chấm dứt hoạt động của chi nhánh.Điều 17.2.LQ.36. Doanh nghiệp kiểm toán nước ngoài
 
-### Điều 17.2.LQ.36. Doanh nghiệp kiểm toán nước ngoài
+(Điều 36 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-*Nội dung chưa có sẵn*
+ Doanh nghiệp kiểm toán nước ngoài thực hiện hoạt động kiểm toán tại Việt Nam dưới các hình thức sau:
 
-**Chỉ mục:** 36
+ 1. Góp vốn với doanh nghiệp kiểm toán đã được thành lập và hoạt động tại Việt Nam để thành lập doanh nghiệp kiểm toán;
 
-**Mã phân cấp:** 1700200000000000300003600000000000000000
+ 2. Thành lập chi nhánh doanh nghiệp kiểm toán nước ngoài;
 
-**ID:** dk_00023927
+ 3. Cung cấp dịch vụ kiểm toán qua biên giới theo quy định của Chính phủ.Điều 17.2.NĐ.1.10. Đối tượng cung cấp dịch vụ kiểm toán qua biên giới
 
----
+(Điều 10 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-
-### Điều 17.2.NĐ.1.10. Đối tượng cung cấp dịch vụ kiểm toán qua biên giới
-
-Điều 17.2.NĐ.1.10. Đối tượng cung cấp dịch vụ kiểm toán qua biên giới
-
-**Chỉ mục:** 10
-
-**Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001000
-
-**ID:** dk_00023928
-
----
-
-
-### Điều 17.2.NĐ.1.11. Điều kiện cung cấp dịch vụ kiểm toán qua biên giới
+Đối tượng cung cấp dịch vụ kiểm toán qua biên giới cho các doanh nghiệp, tổ chức tại Việt Nam là doanh nghiệp kiểm toán có quốc tịch tại quốc gia thành viên của Tổ chức Thương mại thế giới hoặc quốc gia có hiệp định với Việt Nam về việc cung cấp dịch vụ kiểm toán qua biên giới.
 
 Điều 17.2.NĐ.1.11. Điều kiện cung cấp dịch vụ kiểm toán qua biên giới
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012, có nội dung được bãi bỏ theo quy định tại Điều 3 Nghị định số 151/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/11/2018)
 
-**Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001100
+1. Doanh nghiệp kiểm toán nước ngoài có đủ các điều kiện sau đây được đăng ký cung cấp dịch vụ kiểm toán qua biên giới:
 
-**ID:** dk_00023929
+a) Được phép cung cấp dịch vụ kiểm toán độc lập theo quy định của pháp luật của nước nơi doanh nghiệp kiểm toán nước ngoài đặt trụ sở chính;
 
----
+b) ***(Bị bãi bỏ);***
 
+c) Có ít nhất 5 (năm) kiểm toán viên được Bộ Tài chính Việt Nam cấp giấy chứng nhận đăng ký hành nghề kiểm toán, trong đó có người đại diện theo pháp luật;
 
-### Điều 17.2.NĐ.1.12. Phương thức cung cấp dịch vụ kiểm toán qua biên giới
+d) Có vốn chủ sở hữu trên bảng cân đối kế toán tương đương 500.000 (năm trăm nghìn) đô la Mỹ vào cuối năm tài chính trước năm cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam;
+
+đ) ***(Bị bãi bỏ);***
+
+e) Ký quỹ bắt buộc số tiền tương đương vốn pháp định quy định tại Khoản 1 Điều 5 Nghị định này tại một ngân hàng thương mại hoạt động hợp pháp tại Việt Nam và có thư bảo lãnh thanh toán của ngân hàng này cam kết thanh toán trong trường hợp trách nhiệm của các hợp đồng kiểm toán cung cấp dịch vụ qua biên giới tại Việt Nam vượt quá mức ký quỹ bắt buộc;
+
+g) ***(Bị bãi bỏ);***
+
+2. Doanh nghiệp kiểm toán nước ngoài chỉ được cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam sau khi đã đăng ký và được Bộ Tài chính Việt Nam cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam. Phương thức cung cấp dịch vụ kiểm toán qua biên giới phải thực hiện theo quy định tại Điều 12 Nghị định này.
+
+3. Doanh nghiệp kiểm toán nước ngoài phải luôn duy trì các điều kiện quy định tại Khoản 1 Điều này trong suốt thời hạn của Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam. Khi không đảm bảo một trong các điều kiện đó, doanh nghiệp kiểm toán nước ngoài có trách nhiệm thông báo cho Bộ Tài chính trong thời hạn 20 ngày kể từ ngày không còn đủ điều kiện theo quy định.
 
 Điều 17.2.NĐ.1.12. Phương thức cung cấp dịch vụ kiểm toán qua biên giới
 
-**Chỉ mục:** 12
+(Điều 12 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001200
+1. Doanh nghiệp kiểm toán nước ngoài khi cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam phải thực hiện liên danh với doanh nghiệp kiểm toán tại Việt Nam có đủ điều kiện cung cấp dịch vụ kiểm toán theo quy định của pháp luật.
 
-**ID:** dk_00023930
+2. Chỉ có doanh nghiệp kiểm toán bảo đảm đủ các điều kiện kinh doanh dịch vụ kiểm toán quy định tại Điều 21 Luật Kiểm toán độc lập và Nghị định này, đã có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán mới được liên doanh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ qua biên giới.
 
----
+3. Doanh nghiệp kiểm toán nước ngoài, doanh nghiệp kiểm toán tại Việt Nam liên danh với doanh nghiệp kiểm toán nước ngoài khi cung cấp dịch vụ kiểm toán qua biên giới và đơn vị được kiểm toán phải giao kết Hợp đồng kiểm toán theo quy định của pháp luật Việt Nam. Hợp đồng kiểm toán phải có đầy đủ chữ ký của người đại diện theo pháp luật của doanh nghiệp kiểm toán nước ngoài, của doanh nghiệp kiểm toán tại Việt Nam và của đơn vị được kiểm toán.
 
+4. Doanh nghiệp kiểm toán nước ngoài và doanh nghiệp kiểm toán tại Việt Nam phải lập Hợp đồng liên danh về việc cung cấp dịch vụ kiểm toán qua biên giới. Hợp đồng liên danh phải phân định rõ trách nhiệm của doanh nghiệp kiểm toán nước ngoài và doanh nghiệp tại Việt Nam trong việc cung cấp dịch vụ kiểm toán qua biên giới.
 
-### Điều 17.2.NĐ.1.13. Trách nhiệm của doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới
+5. Doanh nghiệp kiểm toán nước ngoài, doanh nghiệp kiểm toán tại Việt Nam tham gia hợp đồng liên danh kiểm toán phải cử một kiểm toán viên hành nghề phụ trách phần việc kiểm toán thuộc trách nhiệm của doanh nghiệp mình trong hợp đồng kiểm toán.
+
+6. Báo cáo kiểm toán phải có chữ ký của người đại diện theo pháp luật của doanh nghiệp kiểm toán nước ngoài, của doanh nghiệp kiểm toán tại Việt Nam và các kiểm toán viên hành nghề phụ trách phần việc kiểm toán thuộc trách nhiệm của từng doanh nghiệp trong hợp đồng kiểm toán.
+
+7. Hợp đồng kiểm toán, hợp đồng liên danh, hồ sơ kiểm toán và báo cáo kiểm toán phải lập đồng thời bằng cả hai ngôn ngữ tiếng Việt và tiếng Anh.
+
+8. Mọi giao dịch thanh toán và chuyển tiền liên quan đến cung cấp dịch vụ kiểm toán qua biên giới phải thực hiện bằng hình thức chuyển khoản thông qua tổ chức tín dụng được phép theo quy định của pháp luật về quản lý ngoại hối của Việt Nam.
 
 Điều 17.2.NĐ.1.13. Trách nhiệm của doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới
 
-**Chỉ mục:** 13
+(Điều 13 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001300
+1. Bố trí nhân sự có trình độ chuyên môn phù hợp để bảo đảm chất lượng dịch vụ kiểm toán. Tuân thủ các quy định về các hành vi bị nghiêm cấm, các trường hợp không được thực hiện kiểm toán đối với kiểm toán viên hành nghề và doanh nghiệp kiểm toán và các quy định khác có liên quan quy định tại Luật kiểm toán độc lập của Việt Nam.
 
-**ID:** dk_00023931
+2. Tuân thủ chuẩn mực kiểm toán Việt Nam khi thực hiện cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
 
----
+3. Nộp thuế và thực hiện các nghĩa vụ tài chính khác có liên quan đến cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam theo quy định của pháp luật hiện hành về thuế của Việt Nam.
 
+4. Định kỳ 6 tháng một lần báo cáo Bộ Tài chính tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới phát sinh trong kỳ tại Việt Nam. Mẫu báo cáo do Bộ Tài chính quy định.
 
-### Điều 17.2.TT.14.4. Chế độ báo cáo định kỳ khi cung cấp dịch vụ kiểm toán qua biên giới
+5. Cử người có trách nhiệm, đại diện cho doanh nghiệp báo cáo, giải trình cho các cơ quan chức năng của Việt Nam liên quan đến hợp đồng kiểm toán, hồ sơ kiểm toán, báo cáo kiểm toán và các vấn đề khác liên quan đến việc cung cấp dịch vụ qua biên giới tại Việt Nam.
+
+6. Nộp cho Bộ Tài chính báo cáo tài chính hàng năm đã được kiểm toán kèm theo báo cáo kiểm toán của tổ chức kiểm toán độc lập và văn bản nhận xét của cơ quan quản lý hành nghề kiểm toán nơi doanh nghiệp đóng trụ sở chính về tình hình thực hiện các quy định pháp luật về hoạt động kiểm toán và các quy định pháp luật khác của doanh nghiệp trong thời hạn 120 ngày kể từ ngày kết thúc năm tài chính.
+
+7. Thực hiện các quyền, nghĩa vụ của doanh nghiệp kiểm toán quy định tại Điều 28 và Điều 29 và tuân thủ các quy định khác có liên quan quy định tại Luật Kiểm toán độc lập của Việt Nam.
 
 Điều 17.2.TT.14.4. Chế độ báo cáo định kỳ khi cung cấp dịch vụ kiểm toán qua biên giới
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 40/2020/TT-BTC, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 17002000000000003000036000000000000000000040242990017000130000802728400400000400
+1. Nội dung báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới của doanh nghiệp kiểm toán nước ngoài:
 
-**ID:** dk_00023932
+a) Tên báo cáo: Tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới.
 
----
+b) Nội dung yêu cầu báo cáo:
 
+- Thông tin về các bên liên danh;
 
-### Điều 17.2.NĐ.1.14. Trách nhiệm của doanh nghiệp kiểm toán tại Việt Nam có tham gia liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới
+- Danh sách kiểm toán viên hành nghề của doanh nghiệp kiểm toán nước ngoài;
+
+- Danh sách kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên trong hợp đồng kiểm toán;
+
+- Danh sách hợp đồng cung cấp dịch vụ kiểm toán qua biên giới giao kết trong giai đoạn 06 tháng;
+
+- Tình hình chấp hành pháp luật Việt Nam.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán nước ngoài có cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/7 năm báo cáo đối với báo cáo 6 tháng đầu năm; Chậm nhất là ngày 31/01 năm sau đối với báo cáo 6 tháng cuối năm.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ 6 tháng một lần.
+
+h) Thời gian chốt số liệu báo cáo: Thời gian chốt số liệu 6 tháng đầu năm được tính từ ngày 01/01 đến ngày 30/6 của năm báo cáo. Thời gian chốt số liệu 6 tháng cuối năm được tính từ ngày 01/7 đến ngày 31/12 của năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 03/BC ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 03/BC ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán nước ngoài tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+2. Nội dung báo cáo định kỳ về tình hình thực hiện liên danh với doanh nghiệp kiểm toán toán nước ngoài:
+
+a) Tên báo cáo: Tình hình thực hiện liên danh với doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kiểm toán qua biên giới.
+
+b) Nội dung yêu cầu báo cáo:
+
+- Thông tin về các bên liên danh;
+
+- Danh sách kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên trong hợp đồng kiểm toán;
+
+- Danh sách hợp đồng cung cấp dịch vụ kiểm toán qua biên giới giao kết trong giai đoạn 06 tháng.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán tại Việt Nam có liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật,
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/7 năm báo cáo đối với báo cáo 6 tháng đầu năm; Chậm nhất là ngày 31/01 năm sau đối với báo cáo 6 tháng cuối năm.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ 6 tháng một lần.
+
+h) Thời gian chốt số liệu báo cáo: Thời gian chốt số liệu 6 tháng đầu năm được tính từ ngày 01/01 đến ngày 30/6 của năm báo cáo. Thời gian chốt số liệu 6 tháng cuối năm dược tính từ ngày 01/7 đến ngày 31/12 của năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 04/BC ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 04/BC ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán tại Việt Nam tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+Phụ lục 03-04BC.docx
 
 Điều 17.2.NĐ.1.14. Trách nhiệm của doanh nghiệp kiểm toán tại Việt Nam có tham gia liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới
 
-**Chỉ mục:** 14
+(Điều 14 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 170020000000000030000360000000000000000000402429900170001400
+1. Lưu trữ toàn bộ hồ sơ kiểm toán của cuộc kiểm toán đã thực hiện liên danh để cung cấp cho cơ quan chức năng khi được yêu cầu.
 
-**ID:** dk_00023933
+2. Chịu trách nhiệm trước pháp luật về kết quả kiểm toán. Chịu trách nhiệm giải trình với các cơ quan chức năng về báo cáo kiểm toán, hồ sơ kiểm toán và các vấn đề khác phát sinh từ cuộc kiểm toán liên danh với doanh nghiệp kiểm toán nước ngoài.
 
----
+3. Báo cáo Bộ Tài chính định kỳ 6 tháng một lần về tình hình thực hiện liên danh với doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kiểm toán qua biên giới phát sinh trong kỳ báo cáo. Mẫu báo cáo do Bộ Tài chính quy định.
 
+4. Chịu sự kiểm soát chất lượng dịch vụ kiểm toán hàng năm theo quy định của Bộ Tài chính.
 
-### Điều 17.2.LQ.40. Phạm vi hoạt động của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+Chương V
+
+HOẠT ĐỘNG KIỂM TOÁN ĐỘC LẬP 
+
+Mục 1
+
+HOẠT ĐỘNG CỦA DOANH NGHIỆP KIỂM TOÁN
 
 Điều 17.2.LQ.40. Phạm vi hoạt động của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
 
-**Chỉ mục:** 40
+(Điều 40 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 170020000000000050000001000000000000000004000000000000000000
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam được thực hiện các dịch vụ sau đây:
 
-**ID:** dk_00023936
+ a) Các dịch vụ kiểm toán, gồm kiểm toán báo cáo tài chính, kiểm toán hoạt động, kiểm toán tuân thủ, kiểm toán báo cáo quyết toán dự án hoàn thành, kiểm toán báo cáo tài chính vì mục đích thuế và công việc kiểm toán khác;
 
----
+ b) Dịch vụ soát xét báo cáo tài chính, thông tin tài chính và dịch vụ bảo đảm khác.
 
+ 2. Ngoài các dịch vụ quy định tại khoản 1 Điều này, doanh nghiệp kiểm toán được đăng ký thực hiện các dịch vụ sau đây:
 
-### Điều 17.2.TT.11.1. Ban hành kèm theo Thông tư này Khuôn khổ Việt Nam về hợp đồng dịch vụ đảm bảo.
+ a) Tư vấn kinh tế, tài chính, thuế;
 
-Điều 17.2.TT.11.1. Ban hành kèm theo Thông tư này Khuôn khổ Việt Nam về hợp đồng dịch vụ đảm bảo.
+ b) Tư vấn quản lý, chuyển đổi và tái cơ cấu doanh nghiệp;
 
-**Chỉ mục:** 1
+ c) Tư vấn ứng dụng công nghệ thông tin trong quản trị của doanh nghiệp, tổ chức;
 
-**Mã phân cấp:** 17002000000000005000000100000000000000000400000000000000000000802545000690000100
+ d) Dịch vụ kế toán theo quy định của pháp luật về kế toán;
 
-**ID:** dk_00023937
+ đ) Thẩm định giá tài sản và đánh giá rủi ro kinh doanh;
 
----
+ e) Dịch vụ bồi dưỡng kiến thức tài chính, kế toán, kiểm toán;
 
+ g) Dịch vụ liên quan khác về tài chính, kế toán, thuế theo quy định của pháp luật.
 
-### Điều 17.2.TT.11.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ đảm bảo.
+ 3. Doanh nghiệp đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán theo quy định của Luật này được thực hiện dịch vụ kế toán theo quy định của pháp luật về kế toán mà không phải đăng ký.
+
+ 4. Khi thực hiện dịch vụ quy định tại khoản 1 và khoản 2 Điều này, doanh nghiệp kiểm toán phải có đủ điều kiện theo quy định của Luật này và các quy định khác của pháp luật có liên quan.Điều 17.2.TT.11.1. Ban hành kèm theo Thông tư này Khuôn khổ Việt Nam về hợp đồng dịch vụ đảm bảo.
+
+(Điều 1 Thông tư số 69/2015/TT-BTC Ban hành Khuôn khổ Việt Nam về hợp đồng dịch vụ đảm bảo ngày 08/05/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.11.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ đảm bảo.
 
-**Chỉ mục:** 2
+(Điều 2 Thông tư số 69/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 17002000000000005000000100000000000000000400000000000000000000802545000690000200
+Điều 17.2.LQ.41. Nhận dịch vụ kiểm toán
 
-**ID:** dk_00023938
+(Điều 41 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
----
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam chỉ được nhận dịch vụ kiểm toán theo khả năng của mình trong phạm vi yêu cầu của khách hàng.
 
+ 2. Khi nhận dịch vụ kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thông báo cho khách hàng về quyền, nghĩa vụ và trách nhiệm nghề nghiệp của mình trong việc thực hiện dịch vụ kiểm toán, giới hạn trách nhiệm tài chính của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và kiểm toán viên hành nghề khi xảy ra rủi ro kiểm toán.
 
-### Điều 17.2.LQ.41. Nhận dịch vụ kiểm toán
+ 3. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được chuyển giao dịch vụ kiểm toán mà mình đã giao kết hợp đồng cho doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam khác, trừ trường hợp được khách hàng đồng ý.
 
-*Nội dung chưa có sẵn*
+ 4. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải cử người phụ trách đối với mỗi cuộc kiểm toán. Người phụ trách cuộc kiểm toán phải là kiểm toán viên hành nghề. Báo cáo kiểm toán phải có chữ ký của người phụ trách cuộc kiểm toán.Điều 17.2.LQ.42. Hợp đồng kiểm toán
 
-**Chỉ mục:** 41
+(Điều 42 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 170020000000000050000001000000000000000004100000000000000000
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện dịch vụ kiểm toán theo hợp đồng kiểm toán.
 
-**ID:** dk_00023939
+ 2. Hợp đồng kiểm toán là sự thỏa thuận giữa doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam với khách hàng về việc thực hiện dịch vụ kiểm toán. Hợp đồng kiểm toán được lập thành văn bản và có những nội dung chính sau đây:
 
----
+ a) Tên, địa chỉ của khách hàng hoặc người đại diện của khách hàng, đại diện của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
 
+ b) Mục đích, phạm vi và nội dung dịch vụ kiểm toán, thời hạn thực hiện hợp đồng kiểm toán;
 
-### Điều 17.2.LQ.42. Hợp đồng kiểm toán
+ c) Quyền, nghĩa vụ và trách nhiệm của các bên;
 
-*Nội dung chưa có sẵn*
+ d) Hình thức báo cáo kiểm toán và các hình thức khác thể hiện kết quả kiểm toán như thư quản lý và báo cáo khác;
 
-**Chỉ mục:** 42
+ đ) Phí dịch vụ kiểm toán và chi phí khác do các bên thỏa thuận.Điều 17.2.LQ.43. Nghĩa vụ bảo mật
 
-**Mã phân cấp:** 170020000000000050000001000000000000000004200000000000000000
+(Điều 43 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023940
+ 1. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được tiết lộ thông tin về hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán, trừ trường hợp được khách hàng, đơn vị được kiểm toán chấp thuận hoặc theo quy định của pháp luật.
 
----
+ 2. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được sử dụng thông tin về hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán để xâm phạm lợi ích của Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
+ 3. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải xây dựng và vận hành hệ thống kiểm soát nội bộ nhằm bảo đảm thực hiện nghĩa vụ bảo mật.
 
-### Điều 17.2.LQ.43. Nghĩa vụ bảo mật
+ 4. Cơ quan nhà nước, tổ chức nghề nghiệp về kiểm toán và cá nhân có liên quan có nghĩa vụ giữ bí mật thông tin được cung cấp về hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán theo quy định của pháp luật.Điều 17.2.LQ.44. Phí dịch vụ kiểm toán
 
-*Nội dung chưa có sẵn*
+(Điều 44 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Chỉ mục:** 43
+ 1. Phí dịch vụ kiểm toán do doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và khách hàng thỏa thuận trong hợp đồng kiểm toán theo căn cứ sau đây:
 
-**Mã phân cấp:** 170020000000000050000001000000000000000004300000000000000000
+ a) Nội dung, khối lượng và tính chất công việc;
 
-**ID:** dk_00023941
+ b) Thời gian và điều kiện làm việc của kiểm toán viên hành nghề, kiểm toán viên sử dụng để thực hiện dịch vụ;
 
----
+ c) Trình độ, kinh nghiệm và uy tín của kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
 
+ d) Mức độ trách nhiệm và thời hạn mà việc thực hiện dịch vụ đòi hỏi.
 
-### Điều 17.2.LQ.44. Phí dịch vụ kiểm toán
+ 2. Phí dịch vụ kiểm toán được tính theo các phương thức sau đây:
 
-*Nội dung chưa có sẵn*
+ a) Giờ làm việc của kiểm toán viên hành nghề, kiểm toán viên;
 
-**Chỉ mục:** 44
+ b) Từng dịch vụ kiểm toán với mức phí trọn gói;
 
-**Mã phân cấp:** 170020000000000050000001000000000000000004400000000000000000
+ c) Hợp đồng kiểm toán nhiều kỳ với mức phí cố định từng kỳ.Điều 17.2.LQ.45. Quy trình kiểm toán
 
-**ID:** dk_00023942
+(Điều 45 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
----
+ 1. Quy trình cuộc kiểm toán gồm các bước sau đây:
 
+ a) Chấp nhận, duy trì khách hàng và lập kế hoạch kiểm toán;
 
-### Điều 17.2.LQ.45. Quy trình kiểm toán
+ b) Thực hiện kiểm toán;
 
-*Nội dung chưa có sẵn*
+ c) Kết thúc kiểm toán, lập báo cáo kiểm toán và xử lý sau kiểm toán.
 
-**Chỉ mục:** 45
+ 2. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện các bước của quy trình kiểm toán theo chuẩn mực kiểm toán.Mục 2
 
-**Mã phân cấp:** 170020000000000050000001000000000000000004500000000000000000
-
-**ID:** dk_00023943
-
----
-
-
-### Điều 17.2.LQ.46. Báo cáo kiểm toán về báo cáo tài chính
+BÁO CÁO KIỂM TOÁN
 
 Điều 17.2.LQ.46. Báo cáo kiểm toán về báo cáo tài chính
 
-**Chỉ mục:** 46
+(Điều 46 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 170020000000000050000002000000000000000004600000000000000000
+ 1. Báo cáo kiểm toán về báo cáo tài chính được lập theo quy định của chuẩn mực kiểm toán và có những nội dung sau đây:
 
-**ID:** dk_00023945
+ a) Đối tượng của cuộc kiểm toán;
 
----
+ b) Trách nhiệm của đơn vị được kiểm toán và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
 
+ c) Phạm vi và căn cứ thực hiện cuộc kiểm toán;
 
-### Điều 17.2.NĐ.1.16. Báo cáo kiểm toán
+ d) Địa điểm và thời gian lập báo cáo kiểm toán;
 
-*Nội dung chưa có sẵn*
+ đ) Ý kiến kiểm toán về báo cáo tài chính đã được kiểm toán;
 
-**Chỉ mục:** 16
+ e) Nội dung khác theo quy định của chuẩn mực kiểm toán.
 
-**Mã phân cấp:** 17002000000000005000000200000000000000000460000000000000000000402429900170001600
+ 2. Ngày ký báo cáo kiểm toán không được trước ngày ký báo cáo tài chính.
 
-**ID:** dk_00023946
+ 3. Báo cáo kiểm toán phải có chữ ký của kiểm toán viên hành nghề do doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam giao phụ trách cuộc kiểm toán và người đại diện theo pháp luật của doanh nghiệp kiểm toán hoặc người được ủy quyền bằng văn bản của người đại diện theo pháp luật. Người được ủy quyền bằng văn bản của người đại diện theo pháp luật phải là kiểm toán viên hành nghề.
 
----
+ 4. Báo cáo kiểm toán về báo cáo tài chính hợp nhất của tập đoàn, tổng công ty theo mô hình công ty mẹ - công ty con được thực hiện theo quy định của chuẩn mực kiểm toán.Điều 17.2.NĐ.1.16. Báo cáo kiểm toán
 
+(Điều 16 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-### Điều 17.2.NĐ.1.17. Giải trình về các nội dung ngoại trừ cho báo cáo kiểm toán
+1. Báo cáo kiểm toán về báo cáo tài chính và báo cáo kiểm toán về các công việc kiểm toán khác của các đối tượng bắt buộc phải kiểm toán theo quy định của pháp luật được lập theo quy định của chuẩn mực kiểm toán Việt Nam.
+
+2. Kiểm toán viên hành nghề không được ký báo cáo kiểm toán cho một đơn vị được kiểm toán quá ba (03) năm liên tục.
 
 Điều 17.2.NĐ.1.17. Giải trình về các nội dung ngoại trừ cho báo cáo kiểm toán
 
-**Chỉ mục:** 17
+(Điều 17 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 17002000000000005000000200000000000000000460000000000000000000402429900170001700
+1. Cơ quan quản lý nhà nước có thẩm quyền trong từng lĩnh vực liên quan có quyền yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới, đơn vị được kiểm toán giải trình trực tiếp hoặc bằng văn bản về các nội dung ngoại trừ trong báo cáo kiểm toán.
 
-**ID:** dk_00023947
+2. Chủ tịch công ty, Hội đồng quản trị, Hội đồng thành viên của đơn vị được kiểm toán có quyền yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới giải trình trực tiếp hoặc bằng văn bản về các nội dung ngoại trừ trong báo cáo kiểm toán.
 
----
-
-
-### Điều 17.2.LQ.47. Báo cáo kiểm toán về các công việc kiểm toán khác
+3. Khi có yêu cầu của các đối tượng quy định tại Khoản 1 và Khoản 2 Điều này, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới và đơn vị được kiểm toán có trách nhiệm giải trình trực tiếp hoặc bằng văn bản.
 
 Điều 17.2.LQ.47. Báo cáo kiểm toán về các công việc kiểm toán khác
 
-**Chỉ mục:** 47
+(Điều 47 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 170020000000000050000002000000000000000004700000000000000000
+ Báo cáo kiểm toán về các công việc kiểm toán khác được lập trên cơ sở quy định tại Điều 46 của Luật này và chuẩn mực kiểm toán phù hợp với từng cuộc kiểm toán.Điều 17.2.LQ.48. Ý kiến kiểm toán
 
-**ID:** dk_00023948
+(Điều 48 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
----
+ 1. Căn cứ vào kết quả kiểm toán, kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải đưa ra ý kiến về báo cáo tài chính và các nội dung khác đã được kiểm toán theo quy định của chuẩn mực kiểm toán.
 
+ 2. Bộ Tài chính quy định nội dung không được ngoại trừ trong báo cáo kiểm toán phù hợp với chuẩn mực kiểm toán.
 
-### Điều 17.2.LQ.48. Ý kiến kiểm toán
+ 3. Cơ quan quản lý nhà nước có thẩm quyền, đại diện chủ sở hữu đối với đơn vị được kiểm toán có quyền yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và đơn vị được kiểm toán giải trình về các nội dung ngoại trừ trong báo cáo kiểm toán.(Điều này có nội dung liên quan đến Điều 22.3.TT.22.9. Ý kiến kiểm toán độc lập)
 
-*Nội dung chưa có sẵn*
+Mục 3
 
-**Chỉ mục:** 48
+HỒ SƠ KIỂM TOÁN
 
-**Mã phân cấp:** 170020000000000050000002000000000000000004800000000000000000
+Điều 17.2.LQ.49. Hồ sơ kiểm toán
 
-**ID:** dk_00023949
+(Điều 49 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
----
+ 1. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thu thập và lưu trong hồ sơ kiểm toán tài liệu, thông tin cần thiết liên quan đến từng cuộc kiểm toán đủ để làm cơ sở cho việc hình thành ý kiến kiểm toán của mình và chứng minh rằng cuộc kiểm toán đã được thực hiện theo đúng quy định của pháp luật và chuẩn mực kiểm toán.
 
+ 2. Kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải lập hồ sơ kiểm toán theo quy định của chuẩn mực kiểm toán.Điều 17.2.LQ.50. Bảo quản, lưu trữ hồ sơ kiểm toán
 
-### Điều 17.2.LQ.49. Hồ sơ kiểm toán
+(Điều 50 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-*Nội dung chưa có sẵn*
+ 1. Hồ sơ kiểm toán phải được bảo quản đầy đủ, an toàn trong quá trình sử dụng.
 
-**Chỉ mục:** 49
+ 2. Hồ sơ kiểm toán phải đưa vào lưu trữ trong thời hạn mười hai tháng, kể từ ngày phát hành báo cáo kiểm toán của cuộc kiểm toán. Thời hạn lưu trữ hồ sơ kiểm toán tối thiểu là mười năm.
 
-**Mã phân cấp:** 170020000000000050000003000000000000000004900000000000000000
+ 3. Người đại diện theo pháp luật của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải chịu trách nhiệm tổ chức bảo quản, lưu trữ hồ sơ kiểm toán an toàn, đầy đủ, hợp pháp và bảo mật.
 
-**ID:** dk_00023951
+ 4. Hồ sơ kiểm toán đưa vào lưu trữ phải đầy đủ, có hệ thống, phải phân loại, sắp xếp thành từng bộ hồ sơ riêng theo thứ tự thời gian phát sinh và theo từng hợp đồng kiểm toán, từng cuộc kiểm toán.
 
----
+ 5. Chính phủ quy định chi tiết về lưu trữ, sử dụng và tiêu hủy hồ sơ kiểm toán.Điều 17.2.NĐ.1.18. Lưu trữ hồ sơ kiểm toán
 
+(Điều 18 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-### Điều 17.2.LQ.50. Bảo quản, lưu trữ hồ sơ kiểm toán
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thiết kế và thực hiện các chính sách và thủ tục để duy trì tính bảo mật, an toàn, toàn vẹn, có khả năng tiếp cận và phục hồi được của hồ sơ kiểm toán theo quy định của chuẩn mực kiểm toán.
 
-*Nội dung chưa có sẵn*
+2. Hồ sơ kiểm toán có thể được lưu trữ bằng giấy hoặc dữ liệu điện tử.
 
-**Chỉ mục:** 50
-
-**Mã phân cấp:** 170020000000000050000003000000000000000005000000000000000000
-
-**ID:** dk_00023952
-
----
-
-
-### Điều 17.2.NĐ.1.18. Lưu trữ hồ sơ kiểm toán
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 17002000000000005000000300000000000000000500000000000000000000402429900170001800
-
-**ID:** dk_00023953
-
----
-
-
-### Điều 17.2.NĐ.1.19. Khai thác, sử dụng hồ sơ kiểm toán
+3. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thiết kế và thực hiện các chính sách và thủ tục về lưu trữ hồ sơ kiểm toán trong thời hạn tối thiểu là 10 năm kể từ ngày phát hành báo cáo kiểm toán của cuộc kiểm toán theo quy định của chuẩn mực kiểm toán.
 
 Điều 17.2.NĐ.1.19. Khai thác, sử dụng hồ sơ kiểm toán
 
-**Chỉ mục:** 19
+(Điều 19 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 17002000000000005000000300000000000000000500000000000000000000402429900170001900
+Chỉ được khai thác, sử dụng hồ sơ kiểm toán trong các trường hợp sau đây:
 
-**ID:** dk_00023954
+1. Theo quyết định của người có thẩm quyền của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam trên cơ sở đảm bảo nghĩa vụ về tính bảo mật theo quy định tại Điều 43 của Luật Kiểm toán độc lập.
 
----
+2. Khi có yêu cầu của Tòa án nhân dân, Viện Kiểm sát nhân dân, Cơ quan điều tra, Cơ quan thanh tra, Kiểm toán Nhà nước, Bộ Tài chính và các cơ quan, tổ chức khác theo quy định của pháp luật.
 
+3. Khi có yêu cầu kiểm tra chất lượng kiểm toán; giải quyết khiếu nại, tranh chấp trong hoạt động kiểm toán và các yêu cầu khác theo quy định của pháp luật.
 
-### Điều 17.2.NĐ.1.20. Tiêu hủy hồ sơ kiểm toán
+Điều 17.2.NĐ.1.20. Tiêu hủy hồ sơ kiểm toán
 
-*Nội dung chưa có sẵn*
+(Điều 20 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Chỉ mục:** 20
+1. Hồ sơ kiểm toán đã hết thời hạn lưu trữ, nếu không có quyết định của cơ quan nhà nước có thẩm quyền thì được tiêu hủy theo quyết định của người đại diện theo pháp luật của doanh nghiệp kiểm toán hoặc giám đốc của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
 
-**Mã phân cấp:** 17002000000000005000000300000000000000000500000000000000000000402429900170002000
+2. Hồ sơ kiểm toán lưu trữ của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài nào thì doanh nghiệp kiểm toán, chi nhánh đó thực hiện tiêu hủy.
 
-**ID:** dk_00023955
+3. Hồ sơ kiểm toán được lưu trữ bằng giấy thì doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện việc tiêu hủy hồ sơ kiểm toán bằng cách đốt cháy, cắt, xé nhỏ bằng máy hoặc bằng phương pháp khác nhưng phải bảo đảm các thông tin, số liệu trong hồ sơ kiểm toán đã tiêu hủy không thể sử dụng lại được.
 
----
+4. Hồ sơ kiểm toán lưu trữ bằng dữ liệu điện tử được tiêu hủy phù hợp với quy định của pháp luật có liên quan.
 
+5. Thủ tục tiêu hủy tài liệu kiểm toán:
 
-### Điều 17.2.NĐ.1.21. Lưu trữ, khai thác, sử dụng hồ sơ kiểm toán điện tử và hồ sơ, tài liệu về các dịch vụ khác
+a) Người đại diện theo pháp luật của doanh nghiệp kiểm toán, giám đốc của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam quyết định thành lập “Hội đồng tiêu hủy hồ sơ kiểm toán hết thời hạn lưu trữ”. Thành phần Hội đồng phải có: Lãnh đạo doanh nghiệp kiểm toán hoặc giám đốc của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đại diện của bộ phận lưu trữ và đại diện bộ phận chuyên môn;
+
+b) Hội đồng tiêu hủy hồ sơ kiểm toán phải tiến hành kiểm kê, đánh giá, phân loại theo từng loại hồ sơ kiểm toán, lập “Danh mục hồ sơ kiểm toán tiêu hủy” và “Biên bản tiêu hủy hồ sơ kiểm toán hết thời hạn lưu trữ”;
+
+c) “Biên bản tiêu hủy hồ sơ kiểm toán hết thời hạn lưu trữ” phải lập ngay sau khi tiêu hủy hồ sơ kiểm toán và phải ghi rõ các nội dung: Loại hồ sơ kiểm toán đã tiêu hủy, kết luận và chữ ký của các thành viên Hội đồng tiêu hủy.
 
 Điều 17.2.NĐ.1.21. Lưu trữ, khai thác, sử dụng hồ sơ kiểm toán điện tử và hồ sơ, tài liệu về các dịch vụ khác
 
-**Chỉ mục:** 21
+(Điều 21 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**Mã phân cấp:** 17002000000000005000000300000000000000000500000000000000000000402429900170002100
+1. Hồ sơ kiểm toán được lưu trữ bằng dữ liệu điện tử là các băng từ, đĩa từ… phải được sắp xếp theo thứ tự thời gian, được bảo quản với đủ các điều kiện kỹ thuật chống thoái hóa chứng từ điện tử và chống tình trạng truy cập thông tin bất hợp pháp từ bên ngoài.
 
-**ID:** dk_00023956
+2. Trường hợp hồ sơ kiểm toán được lưu trữ bằng dữ liệu điện tử trên thiết bị đặc biệt thì phải lưu trữ các thiết bị đọc tin phù hợp đảm bảo khai thác được khi cần thiết.
 
----
+3. Việc lưu trữ, khai thác, sử dụng và tiêu hủy hồ sơ kiểm toán được lưu trữ bằng dữ liệu điện tử thực hiện theo quy định tại các Điều 18, 19, 20 của Nghị định này.
 
-
-### Điều 17.2.LQ.51. Hồ sơ, tài liệu về dịch vụ liên quan
+4. Việc lập, bảo quản lưu trữ, tiêu hủy và khai thác, sử dụng hồ sơ, tài liệu về các dịch vụ khác quy định tại Điểm b Khoản 1 Điều 40 của Luật Kiểm toán độc lập được thực hiện như đối với hồ sơ kiểm toán theo quy định tại các Điều 18, 19, 20 và Khoản 1, Khoản 2 Điều 21 của Nghị định này.
 
 Điều 17.2.LQ.51. Hồ sơ, tài liệu về dịch vụ liên quan
 
-**Chỉ mục:** 51
+(Điều 51 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 170020000000000050000003000000000000000005100000000000000000
+ Việc bảo quản, lưu trữ, sử dụng và tiêu hủy hồ sơ, tài liệu về dịch vụ liên quan quy định tại điểm b khoản 1 Điều 40 của Luật này được thực hiện theo quy định tại Điều 49 và Điều 50 của Luật này.Mục 4
 
-**ID:** dk_00023957
-
----
-
-
-### Điều 17.2.LQ.52. Kiểm soát chất lượng dịch vụ kiểm toán
+KIỂM SOÁT CHẤT LƯỢNG DỊCH VỤ KIỂM TOÁN
 
 Điều 17.2.LQ.52. Kiểm soát chất lượng dịch vụ kiểm toán
 
-**Chỉ mục:** 52
+(Điều 52 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 170020000000000050000004000000000000000005200000000000000000
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải xây dựng và tổ chức thực hiện hệ thống kiểm soát chất lượng dịch vụ quy định tại khoản 1 Điều 40 của Luật này, các chính sách và thủ tục kiểm soát chất lượng cho từng cuộc kiểm toán.
 
-**ID:** dk_00023959
+ 2. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam chịu sự kiểm soát của cơ quan có thẩm quyền về chất lượng dịch vụ quy định tại khoản 1 Điều 40 của Luật này.
 
----
+ 3. Bộ Tài chính được huy động kiểm toán viên, kiểm toán viên hành nghề và các chuyên gia khác trong việc thực hiện kiểm soát chất lượng dịch vụ kiểm toán. Việc huy động và bố trí người tham gia kiểm soát chất lượng phải đảm bảo nguyên tắc độc lập, khách quan.
 
+ 4. Trường hợp cần thiết, Bộ trưởng Bộ Tài chính thành lập hội đồng chuyên môn để tư vấn cho việc xử lý các kiến nghị về báo cáo kiểm toán và chất lượng kiểm toán.
 
-### Điều 17.2.TT.6.4. Mục đích kiểm soát chất lượng dịch vụ kiểm toán
+ 5. Bộ Tài chính quy định quy chế kiểm soát chất lượng dịch vụ quy định tại khoản 1 Điều 40 của Luật này.Điều 17.2.TT.6.4. Mục đích kiểm soát chất lượng dịch vụ kiểm toán
 
-Điều 17.2.TT.6.4. Mục đích kiểm soát chất lượng dịch vụ kiểm toán
+(Điều 4 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Chỉ mục:** 4
+ 1. Đánh giá việc xây dựng, phổ biến và tổ chức thực hiện các chính sách và thủ tục kiểm soát chất lượng nội bộ của doanh nghiệp kiểm toán.
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000400
+ 2. Đánh giá tình hình tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan trong việc cung cấp dịch vụ kiểm toán của doanh nghiệp kiểm toán và kiểm toán viên hành nghề.
 
-**ID:** dk_00023960
+ 3. Phát hiện, chấn chỉnh và xử lý kịp thời những sai phạm được phát hiện qua công tác kiểm soát chất lượng dịch vụ kiểm toán.
 
----
+ 4. Góp phần sửa đổi, bổ sung và hoàn thiện hệ thống văn bản pháp luật về kiểm toán độc lập đồng thời nâng cao chất lượng dịch vụ kiểm toán.Điều 17.2.TT.6.5. Nội dung kiểm soát chất lượng dịch vụ kiểm toán
 
+(Điều 5 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-### Điều 17.2.TT.6.5. Nội dung kiểm soát chất lượng dịch vụ kiểm toán
+ 1. Kiểm tra việc xây dựng, ban hành và tổ chức thực hiện các chính sách và thủ tục kiểm soát chất lượng nội bộ của doanh nghiệp kiểm toán.
 
-Điều 17.2.TT.6.5. Nội dung kiểm soát chất lượng dịch vụ kiểm toán
+ 2. Kiểm tra việc thực hiện các hợp đồng dịch vụ kiểm toán đã hoàn thành của doanh nghiệp kiểm toán và kiểm toán viên hành nghề.
 
-**Chỉ mục:** 5
+ 3. Kiểm tra tính tuân thủ các quy định khác của pháp luật về kiểm toán độc lập và pháp luật có liên quan, bao gồm:
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000500
+ a) Việc đăng ký và duy trì điều kiện kinh doanh dịch vụ kiểm toán của doanh nghiệp kiểm toán;
 
-**ID:** dk_00023961
+ b) Việc đăng ký và duy trì điều kiện hành nghề kiểm toán của kiểm toán viên hành nghề;
 
----
+ c) Việc thực hiện kiểm toán độc lập đối với đơn vị có lợi ích công chúng;
 
+ d) Việc thực hiện các nghĩa vụ của doanh nghiệp kiểm toán, kiểm toán viên hành nghề và các nội dung khác có liên quan.
 
-### Điều 17.2.TT.6.6. Hình thức kiểm soát chất lượng dịch vụ kiểm toán
+ 4. Giám sát việc thực hiện các quy định của pháp luật về kiểm toán độc lập và pháp luật có liên quan theo quy định tại Khoản 3 Điều này.Điều 17.2.TT.6.6. Hình thức kiểm soát chất lượng dịch vụ kiểm toán
 
-Điều 17.2.TT.6.6. Hình thức kiểm soát chất lượng dịch vụ kiểm toán
+(Điều 6 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Chỉ mục:** 6
+ 1. Giám sát chất lượng dịch vụ kiểm toán và tình hình tuân thủ quy định pháp luật về kiểm toán độc lập
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000600
+ a) Đánh giá Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán hàng năm do doanh nghiệp kiểm toán gửi Bộ Tài chính, Ủy ban Chứng khoán Nhà nước;
 
-**ID:** dk_00023962
+ b) Đánh giá chất lượng báo cáo kiểm toán của doanh nghiệp kiểm toán thông qua báo cáo tài chính của các đối tượng bắt buộc phải kiểm toán gửi cho Bộ Tài chính, Ủy ban Chứng khoán Nhà nước và cơ quan liên quan theo quy định;
 
----
+ c) Đánh giá việc tuân thủ các quy định về đăng ký và duy trì điều kiện hành nghề kiểm toán của kiểm toán viên hành nghề và điều kiện kinh doanh dịch vụ kiểm toán của doanh nghiệp kiểm toán;
 
+ d) Giám sát thông qua các báo cáo mà doanh nghiệp kiểm toán hàng năm gửi cho Bộ Tài chính, Ủy ban Chứng khoán Nhà nước theo quy định và các thông tin khác thu thập được trong quá trình quản lý.
 
-### Điều 17.2.TT.6.7. Đối tượng được kiểm soát chất lượng dịch vụ kiểm toán
+ 2. Kiểm tra trực tiếp chất lượng dịch vụ kiểm toán
 
-Điều 17.2.TT.6.7. Đối tượng được kiểm soát chất lượng dịch vụ kiểm toán
+ a) Cơ quan có thẩm quyền (Bộ Tài chính, Ủy ban Chứng khoán Nhà nước) thành lập Đoàn kiểm tra định kỳ hoặc đột xuất tại các doanh nghiệp kiểm toán;
 
-**Chỉ mục:** 7
+ b) Kiểm tra dấu hiệu sai phạm về chất lượng dịch vụ kiểm toán đối với các doanh nghiệp kiểm toán và kiểm toán viên hành nghề;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000700
+ c) Kiểm tra xác minh đơn thư, khiếu nại, tố cáo liên quan đến hoạt động kiểm toán độc lập.Điều 17.2.TT.6.7. Đối tượng được kiểm soát chất lượng dịch vụ kiểm toán
 
-**ID:** dk_00023963
+(Điều 7 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
----
+ Đối tượng được kiểm soát chất lượng dịch vụ kiểm toán bao gồm:
 
+ 1. Doanh nghiệp kiểm toán.
 
-### Điều 17.2.TT.6.8. Phân công, phối hợp trong việc kiểm soát chất lượng dịch vụ kiểm toán
+ 2. Kiểm toán viên hành nghề.Điều 17.2.TT.6.8. Phân công, phối hợp trong việc kiểm soát chất lượng dịch vụ kiểm toán
 
-Điều 17.2.TT.6.8. Phân công, phối hợp trong việc kiểm soát chất lượng dịch vụ kiểm toán
+(Điều 8 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Chỉ mục:** 8
+ 1. Doanh nghiệp kiểm toán và kiểm toán viên hành nghề chịu trách nhiệm tự kiểm soát chất lượng dịch vụ kiểm toán do mình cung cấp.
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000800
+ 2. Bộ Tài chính chịu trách nhiệm quản lý và tổ chức thực hiện kiểm soát chất lượng dịch vụ kiểm toán.
 
-**ID:** dk_00023964
+ 3. Ủy ban Chứng khoán Nhà nước chịu trách nhiệm kiểm soát chất lượng dịch vụ kiểm toán đối với các doanh nghiệp kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán.
 
----
+ 4. Tổ chức nghề nghiệp về kiểm toán có trách nhiệm phối hợp với Bộ Tài chính và Ủy ban Chứng khoán Nhà nước tổ chức thực hiện việc kiểm soát chất lượng dịch vụ kiểm toán.Điều 17.2.TT.6.9. Trách nhiệm của các đơn vị trong việc kiểm soát chất lượng dịch vụ kiểm toán
 
+(Điều 9 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 7 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-### Điều 17.2.TT.6.9. Trách nhiệm của các đơn vị trong việc kiểm soát chất lượng dịch vụ kiểm toán
+1. Trách nhiệm của doanh nghiệp kiểm toán
 
-Điều 17.2.TT.6.9. Trách nhiệm của các đơn vị trong việc kiểm soát chất lượng dịch vụ kiểm toán
+a) Xây dựng và tổ chức thực hiện các chính sách và thủ tục kiểm soát chất lượng dịch vụ kiểm toán để đảm bảo các hợp đồng dịch vụ kiểm toán đều được tiến hành phù hợp với chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan;
 
-**Chỉ mục:** 9
+b) Hàng năm, doanh nghiệp kiểm toán căn cứ vào quy trình kiểm tra trực tiếp chất lượng dịch vụ kiểm toán quy định tại Điều 19 Thông tư này, chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan để vận dụng vào việc tổ chức tự kiểm tra chất lượng dịch vụ kiểm toán, có kế hoạch và biện pháp sửa chữa, khắc phục các tồn tại, sai sót phát hiện qua kiểm tra. Khi kết thúc công việc tự kiểm tra, doanh nghiệp kiểm toán lập Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán theo mẫu quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570000900
+c) 
 
-**ID:** dk_00023965
+Gửi Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán với những nội dung sau:
 
----
+(1) Tên báo cáo: Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán.
 
+(2) Nội dung yêu cầu báo cáo:
 
-### Điều 17.2.TT.6.10. Chi phí kiểm soát chất lượng dịch vụ kiểm toán
+- Các thông tin chung về doanh nghiệp kiểm toán;
+
+- Tổ chức và nhân sự của doanh nghiệp kiểm toán tại 31/12 năm báo cáo;
+
+- Việc đào tạo và cập nhật kiến thức cho nhân viên và kiểm toán viên;
+
+- Khách hàng và dịch vụ cung cấp;
+
+- Giá phí dịch vụ;
+
+- Phương pháp làm việc.
+
+(3) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán.
+
+(4) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán);
+
+(5) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+(6) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/5 năm sau.
+
+(7) Tần suất thực hiện báo cáo: Báo cáo định kỳ hàng năm.
+
+(8) Thời gian chốt số liệu báo cáo: Từ ngày 01/01 đến ngày 31/12 năm báo cáo.
+
+(9) Mẫu đề cương báo cáo: Theo Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+(10) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+(11) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+d) Ngoài việc gửi Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán nêu trên, các doanh nghiệp kiểm toán có trách nhiệm báo cáo khi có yêu cầu của Bộ Tài chính hoặc Ủy ban Chứng khoán Nhà nước (sau đây gọi chung là cơ quan kiểm tra) về hoạt động kiểm toán độc lập.
+
+2. Trách nhiệm của Bộ Tài chính
+
+a) Xem xét, đánh giá Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán để giám sát việc tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan của doanh nghiệp kiểm toán, kiểm toán viên hành nghề;
+
+b) Thông báo danh sách doanh nghiệp kiểm toán được kiểm tra trực tiếp chất lượng dịch vụ kiểm toán hàng năm cho Ủy ban Chứng khoán Nhà nước và Tổ chức nghề nghiệp về kiểm toán;
+
+c) Huy động kiểm toán viên hành nghề và các chuyên gia có kinh nghiệm, chuyên môn phù hợp tham gia Đoàn kiểm tra và thành lập Đoàn kiểm tra tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Bộ Tài chính;
+
+d) Xây dựng, ban hành và cập nhật các tài liệu hướng dẫn kiểm tra để phục vụ cho việc kiểm tra chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Bộ Tài chính. Tổ chức tập huấn nghiệp vụ kiểm tra cho các thành viên tham gia Đoàn kiểm tra do Bộ Tài chính huy động;
+
+đ) Ra quyết định kiểm tra và tổ chức thực hiện việc kiểm tra trực tiếp tại các doanh nghiệp kiểm toán, ngoại trừ các doanh nghiệp kiểm toán đã được Ủy ban Chứng khoán Nhà nước trực tiếp kiểm tra;
+
+e) Lập Báo cáo tổng hợp kết quả kiểm tra và Báo cáo tổng hợp các sai phạm phát hiện qua kiểm tra đối với các cuộc kiểm tra trực tiếp định kỳ tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Bộ Tài chính;
+
+g) Xử lý sai phạm qua kiểm tra chất lượng dịch vụ kiểm toán theo thẩm quyền hoặc chuyển cơ quan có thẩm quyền xử lý theo quy định của pháp luật;
+
+h) Theo dõi, kiểm tra, giám sát tình hình thực hiện các kiến nghị sau kiểm tra của doanh nghiệp kiểm toán và kiểm toán viên hành nghề thuộc đối tượng kiểm tra của Bộ Tài chính;
+
+i) Tổ chức trao đổi, phổ biến, rút kinh nghiệm qua kiểm tra chất lượng dịch vụ kiểm toán hàng năm cho kiểm toán viên hành nghề và doanh nghiệp kiểm toán thuộc đối tượng kiểm soát chất lượng dịch vụ kiểm toán của Bộ Tài chính.
+
+3. Trách nhiệm của Ủy ban Chứng khoán Nhà nước
+
+a) Xem xét, đánh giá Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán để giám sát việc tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan của doanh nghiệp kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán;
+
+b) Đề xuất danh sách các doanh nghiệp kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán được kiểm tra trực tiếp chất lượng dịch vụ kiểm toán gửi Bộ Tài chính phê duyệt;
+
+c) Huy động kiểm toán viên hành nghề và các chuyên gia có kinh nghiệm và chuyên môn phù hợp để tham gia Đoàn kiểm tra và thành lập Đoàn kiểm tra tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Ủy ban Chứng khoán Nhà nước.
+
+d) Xây dựng, cập nhật các tài liệu hướng dẫn kiểm tra để phục vụ cho việc kiểm tra chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Ủy ban Chứng khoán Nhà nước. Tổ chức tập huấn nghiệp vụ kiểm tra cho các thành viên tham gia Đoàn kiểm tra do Ủy ban Chứng khoán Nhà nước huy động;
+
+đ) Ra quyết định kiểm tra và tổ chức thực hiện việc kiểm tra trực tiếp tại các doanh nghiệp kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán trên cơ sở danh sách doanh nghiệp kiểm toán được kiểm tra đã được Bộ Tài chính phê duyệt;
+
+e) Lập Báo cáo tổng hợp kết quả kiểm tra và Báo cáo tổng hợp các sai phạm phát hiện qua kiểm tra đối với các cuộc kiểm tra trực tiếp định kỳ tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Ủy ban Chứng khoán Nhà nước và gửi các báo cáo này cho Bộ Tài chính chậm nhất là 15 ngày kể từ ngày kết thúc hoạt động kiểm tra trực tiếp tại các doanh nghiệp kiểm toán;
+
+g) Xử lý các sai phạm phát hiện qua kiểm tra theo thẩm quyền quy định của pháp luật về chứng khoán và thị trường chứng khoán. Trường hợp vượt thẩm quyền phải báo cáo Bộ Tài chính để xử lý;
+
+h) Theo dõi, kiểm tra, giám sát tình hình thực hiện các kiến nghị sau kiểm tra của các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của Ủy ban Chứng khoán Nhà nước;
+
+i) Tổ chức trao đổi, phổ biến, rút kinh nghiệm qua kiểm tra chất lượng dịch vụ kiểm toán hàng năm cho kiểm toán viên hành nghề và doanh nghiệp kiểm toán thuộc đối tượng kiểm soát chất lượng dịch vụ kiểm toán của Ủy ban Chứng khoán Nhà nước.
+
+4. Trách nhiệm của Tổ chức nghề nghiệp về kiểm toán
+
+a) Cử cán bộ có kinh nghiệm và chuyên môn phù hợp tham gia Đoàn kiểm tra khi có yêu cầu của Bộ Tài chính và Ủy ban Chứng khoán Nhà nước;
+
+b) Phối hợp với cơ quan kiểm tra xây dựng, cập nhật các tài liệu hướng dẫn kiểm tra trực tiếp chất lượng dịch vụ kiểm toán;
+
+c) Phối hợp với cơ quan kiểm tra tổ chức tập huấn nghiệp vụ kiểm tra cho các thành viên tham gia Đoàn kiểm tra;
+
+d) Phối hợp với cơ quan kiểm tra tổ chức trao đổi, phổ biến, rút kinh nghiệm qua kiểm tra chất lượng dịch vụ kiểm toán hàng năm cho kiểm toán viên hành nghề và doanh nghiệp kiểm toán;
+
+đ) Thực hiện kiểm soát chất lượng dịch vụ kiểm toán đối với các hội viên của mình theo chức năng, nhiệm vụ và quyền hạn của Tổ chức nghề nghiệp về kiểm toán;
+
+e) Chỉ đạo, theo dõi, kiểm tra, giám sát tình hình thực hiện các kiến nghị sau kiểm tra của các đối tượng được kiểm tra là hội viên của Tổ chức nghề nghiệp về kiểm toán.
 
 Điều 17.2.TT.6.10. Chi phí kiểm soát chất lượng dịch vụ kiểm toán
 
-**Chỉ mục:** 10
+(Điều 10 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001000
+ 1. Chi phí kiểm soát chất lượng dịch vụ kiểm toán do ngân sách nhà nước đảm bảo theo chế độ quy định.
 
-**ID:** dk_00023966
+ 2. Nội dung các khoản chi phí liên quan đến hoạt động kiểm soát chất lượng dịch vụ kiểm toán, bao gồm:
 
----
+ a) Các khoản chi công tác phí cho cá nhân tham gia Đoàn kiểm tra là cán bộ, công chức của Bộ Tài chính và Ủy ban Chứng khoán Nhà nước được thực hiện theo chế độ quy định.
 
+ Đối với các khoản chi cho thành viên Đoàn kiểm tra là cán bộ huy động từ Tổ chức nghề nghiệp về kiểm toán, kiểm toán viên hành nghề huy động từ doanh nghiệp kiểm toán và các đối tượng khác do Bộ Tài chính (hoặc Ủy ban Chứng khoán Nhà nước) chi trả và áp dụng như chế độ quy định đối với cán bộ, công chức Nhà nước;
 
-### Điều 17.2.TT.6.11. Phạm vi, yêu cầu kiểm tra trực tiếp
+ b) Các khoản chi phí có liên quan cho thành viên hội đồng chuyên môn để tư vấn cho Bộ trưởng Bộ Tài chính trong việc xử lý các kiến nghị về báo cáo kiểm toán và chất lượng kiểm toán, về kết quả kiểm tra chất lượng dịch vụ kiểm toán;
 
-Điều 17.2.TT.6.11. Phạm vi, yêu cầu kiểm tra trực tiếp
+ c) Các khoản chi khác thực tế phát sinh có liên quan đến hoạt động kiểm soát chất lượng dịch vụ kiểm toán được cấp có thẩm quyền phê duyệt theo chế độ quy định.
 
-**Chỉ mục:** 11
+ 3. Việc lập dự toán, chấp hành và quyết toán các khoản chi cho hoạt động kiểm soát chất lượng dịch vụ kiểm toán được thực hiện theo quy định của Luật ngân sách nhà nước và văn bản hướng dẫn Luật ngân sách nhà nước.Điều 17.2.TT.6.11. Phạm vi, yêu cầu kiểm tra trực tiếp
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001100
+(Điều 11 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
 
-**ID:** dk_00023967
+1. Phạm vi kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán:
 
----
+a) Bao quát được các yếu tố ảnh hưởng đến chất lượng dịch vụ kiểm toán và các yếu tố cấu thành hệ thống kiểm soát chất lượng dịch vụ kiểm toán theo quy định của Chuẩn mực kiểm soát chất lượng số 1 (VSQC1);
 
+b) Bao quát được các dịch vụ kiểm toán mà doanh nghiệp kiểm toán cung cấp;
 
-### Điều 17.2.TT.6.12. Quyền và nghĩa vụ của đối tượng được kiểm tra trực tiếp
+c)  Các hồ sơ kiểm toán được lựa chọn để kiểm tra phải là các hồ sơ kiểm toán đã phát hành báo cáo kiểm toán trong khoảng thời gian tính từ khi thành lập doanh nghiệp kiểm toán (đối với doanh nghiệp kiểm toán kiểm tra lần đầu) hoặc từ lần kiểm tra gần nhất đến thời điểm kiểm tra đồng thời có thể đánh giá được chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán, kiểm toán viên hành nghề. Trường hợp cần thiết các hồ sơ kiểm toán được kiểm tra còn có thể bao gồm các hồ sơ đã phát hành báo cáo kiểm toán trong thời gian tính từ khi thành lập doanh nghiệp kiểm toán;
+
+d) Tài liệu kiểm tra bao gồm các tài liệu liên quan đến việc xây dựng và tổ chức thực hiện các chính sách và thủ tục kiểm soát chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán; tài liệu, hồ sơ kiểm toán; tài liệu kế toán; các chính sách liên quan đến nhân sự, Biên bản họp Hội đồng thành viên, kế hoạch của Ban Giám đốc doanh nghiệp kiểm toán và các tài liệu, hồ sơ khác có liên quan;
+
+đ) Phạm vi kiểm tra không bao gồm các vấn đề không liên quan đến chất lượng dịch vụ kiểm toán và tính tuân thủ pháp luật về kiểm toán độc lập, pháp luật về chứng khoán của doanh nghiệp kiểm toán, kiểm toán viên hành nghề.
+
+2. Yêu cầu của quá trình kiểm tra trực tiếp chất lượng dịch vụ kiểm toán:
+
+a) Tuân thủ các quy định của pháp luật về kiểm toán độc lập, pháp luật về chứng khoán;
+
+b) Đảm bảo tính độc lập về quyền và lợi ích giữa các thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra với các đối tượng được kiểm tra;
+
+c) Đảm bảo tính khách quan từ việc tổ chức thực hiện các nghiệp vụ kiểm tra đến việc đưa ra kết luận về kết quả kiểm tra;
+
+d) Được tiến hành trên cơ sở tuân thủ các yêu cầu về bảo mật theo quy định của pháp luật về kiểm toán độc lập, chuẩn mực và các quy định về đạo đức nghề nghiệp có liên quan;
+
+đ) Sau mỗi cuộc kiểm tra trực tiếp tại từng doanh nghiệp kiểm toán, Đoàn kiểm tra phải lập Báo cáo kết quả kiểm tra. Các nội dung đánh giá, kết luận về kết quả kiểm tra chất lượng dịch vụ kiểm toán phải trên cơ sở xem xét, đánh giá và xét đoán chuyên môn của các thành viên tham gia Đoàn kiểm tra và phải được nêu rõ ràng trong Báo cáo kết quả kiểm tra. Kết luận kiểm tra về hạn chế, sai sót của đối tượng được kiểm tra phải có đầy đủ bằng chứng thích hợp chứng minh.
 
 Điều 17.2.TT.6.12. Quyền và nghĩa vụ của đối tượng được kiểm tra trực tiếp
 
-**Chỉ mục:** 12
+(Điều 12 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001200
+ 1. Quyền của đối tượng được kiểm tra
 
-**ID:** dk_00023968
+ a) Thông báo bằng văn bản với cơ quan kiểm tra, Trưởng Đoàn kiểm tra khi có căn cứ cho rằng Trưởng Đoàn kiểm tra hoặc thành viên Đoàn kiểm tra vi phạm tính độc lập;
 
----
+ b) Giải trình, kiến nghị với cơ quan kiểm tra về những nội dung còn có ý kiến khác nhau trong kết luận kiểm tra của Đoàn kiểm tra.
 
+ 2. Nghĩa vụ của đối tượng được kiểm tra
 
-### Điều 17.2.TT.6.13. Thời hạn kiểm tra trực tiếp
+ a) Phối hợp và tạo điều kiện thuận lợi cho Đoàn kiểm tra thực hiện công việc kiểm tra;
 
-*Nội dung chưa có sẵn*
+ b) Cung cấp đầy đủ, kịp thời, chính xác, trung thực các tài liệu, thông tin cần thiết có liên quan đến nội dung kiểm tra theo quy định tại Điểm d Khoản 1 Điều 11 Thông tư này;
 
-**Chỉ mục:** 13
+ c) Bố trí kiểm toán viên hành nghề và những người có trách nhiệm liên quan làm việc với Đoàn kiểm tra;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001300
+ d) Trao đổi với Đoàn kiểm tra về tình hình doanh nghiệp và giải trình, cung cấp thông tin về các vấn đề Đoàn kiểm tra yêu cầu;
 
-**ID:** dk_00023969
+ đ) Ký báo cáo kết quả kiểm tra ngay khi kết thúc cuộc kiểm tra;
 
----
+ e) Thực hiện kết luận của Đoàn kiểm tra, thực hiện biện pháp khắc phục các sai sót, tồn tại được phát hiện trong quá trình kiểm tra.Điều 17.2.TT.6.13. Thời hạn kiểm tra trực tiếp
 
+(Điều 13 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-### Điều 17.2.TT.6.14. Thời gian kiểm tra trực tiếp
+ 1. Kiểm tra định kỳ:
 
-*Nội dung chưa có sẵn*
+ a) Kiểm tra ít nhất 3 năm một lần đối với doanh nghiệp kiểm toán thuộc đối tượng được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán;
 
-**Chỉ mục:** 14
+ b) Kiểm tra ít nhất 4 năm một lần đối với doanh nghiệp kiểm toán thuộc đối tượng được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng khác (không bao gồm các doanh nghiệp kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán);
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001400
+ c) Kiểm tra ít nhất 5 năm một lần đối với các doanh nghiệp kiểm toán không thuộc đối tượng quy định tại Điểm a, Điểm b Khoản này;
 
-**ID:** dk_00023970
+ d) Trường hợp kết quả kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán có ý kiến kết luận chất lượng dịch vụ kiểm toán xếp loại 3 “Chất lượng dịch vụ kiểm toán không đạt yêu cầu” hoặc xếp loại 4 “Chất lượng dịch vụ kiểm toán yếu kém, có sai sót nghiêm trọng” thì doanh nghiệp kiểm toán đó sẽ được kiểm tra lại ngay từ 1 đến 2 năm sau đó.
 
----
+ 2. Kiểm tra đột xuất:
 
+ Doanh nghiệp kiểm toán có thể được kiểm tra đột xuất khi thuộc một trong các trường hợp sau đây:
 
-### Điều 17.2.TT.6.15. Tổ chức Đoàn kiểm tra
+ a) Có dấu hiệu sai phạm về kết quả dịch vụ kiểm toán hoặc có dấu hiệu vi phạm nghiêm trọng chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan trong quá trình hoạt động và cung cấp dịch vụ kiểm toán;
 
-*Nội dung chưa có sẵn*
+ b) Cung cấp hợp đồng dịch vụ kiểm toán có khả năng dẫn đến rủi ro kiểm toán lớn, thay thế cho hợp đồng dịch vụ kiểm toán do một doanh nghiệp kiểm toán khác cung cấp cho cùng một khách hàng mà không có lý do chính đáng;
 
-**Chỉ mục:** 15
+ c) Có tranh chấp lớn giữa các thành viên góp vốn hoặc biến động lớn về kiểm toán viên hành nghề của doanh nghiệp kiểm toán dẫn đến có khả năng ảnh hưởng đáng kể đến chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001500
+ d) Có thông tin phản ánh, tố giác về hành vi cạnh tranh không lành mạnh để thu hút khách hàng hoặc làm tổn hại đến lợi ích của các doanh nghiệp kiểm toán khác.
 
-**ID:** dk_00023971
+ 3. Doanh nghiệp kiểm toán đã được kiểm tra đột xuất thì có thể không được tiếp tục kiểm tra định kỳ ngay trong năm đó hoặc kiểm tra định kỳ có thể kết hợp với kiểm tra đột xuất để xác minh những vấn đề nêu tại Khoản 2 Điều này.Điều 17.2.TT.6.14. Thời gian kiểm tra trực tiếp
 
----
+(Điều 14 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
+ 1. Việc kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán được thực hiện vào quý III hoặc quý IV hàng năm. Trường hợp có sự thay đổi so với thời gian trên, Bộ Tài chính có thông báo cụ thể.
 
-### Điều 17.2.TT.6.16. Tiêu chuẩn thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra
+ 2. Thời gian cho một cuộc kiểm tra trực tiếp chất lượng dịch vụ kiểm toán tối đa là 07 ngày làm việc. Khi cần kéo dài thời gian cho một cuộc kiểm tra do vấn đề phức tạp, Trưởng Đoàn kiểm tra báo cáo với cơ quan ra quyết định kiểm tra xem xét, quyết định.Điều 17.2.TT.6.15. Tổ chức Đoàn kiểm tra
 
-Điều 17.2.TT.6.16. Tiêu chuẩn thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra
+(Điều 15 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Chỉ mục:** 16
+ 1. Cơ quan kiểm tra phải thành lập Đoàn kiểm tra cho từng cuộc kiểm tra trực tiếp tại doanh nghiệp kiểm toán thuộc đối tượng kiểm soát chất lượng dịch vụ kiểm toán của đơn vị mình.
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001600
+ 2. Thành phần Đoàn kiểm tra bao gồm Trưởng Đoàn kiểm tra và các thành viên. Số lượng thành viên tham gia Đoàn kiểm tra tùy thuộc vào quy mô của cuộc kiểm tra. Thành viên Đoàn kiểm tra được huy động từ Bộ Tài chính, Ủy ban Chứng khoán Nhà nước, Tổ chức nghề nghiệp về kiểm toán và các doanh nghiệp kiểm toán.
 
-**ID:** dk_00023972
+ 3. Thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra phải có trình độ và kinh nghiệm theo quy định tại Điều 16 Thông tư này.
 
----
+ 4. Thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra không được tham gia kiểm tra trực tiếp tại doanh nghiệp kiểm toán khi thuộc một trong các trường hợp sau đây:
 
+ a) Là thành viên sáng lập hoặc góp vốn vào doanh nghiệp kiểm toán được kiểm tra;
 
-### Điều 17.2.TT.6.17. Quyền và nghĩa vụ của thành viên Đoàn kiểm tra
+ b) Là thành viên trong Ban Giám đốc của doanh nghiệp kiểm toán được kiểm tra;
 
-Điều 17.2.TT.6.17. Quyền và nghĩa vụ của thành viên Đoàn kiểm tra
+ c) Có mối quan hệ lợi ích trực tiếp hoặc gián tiếp đáng kể với đối tượng được kiểm tra;
 
-**Chỉ mục:** 17
+ d) Có bố, mẹ, vợ, chồng, con, anh, chị, em ruột (của mình hoặc của vợ hoặc chồng) có mối quan hệ lợi ích trực tiếp hoặc gián tiếp đáng kể với đối tượng được kiểm tra hoặc là thành viên Ban Giám đốc của doanh nghiệp kiểm toán được kiểm tra;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001700
+ đ) Đã từng làm việc tại doanh nghiệp kiểm toán được kiểm tra và đã thôi việc tại doanh nghiệp đó mà thời gian tính từ thời điểm thôi việc đến thời điểm ra quyết định thành lập Đoàn kiểm tra chưa đủ tròn 24 tháng.Điều 17.2.TT.6.16. Tiêu chuẩn thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra
 
-**ID:** dk_00023973
+(Điều 16 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
----
+ 1. Thành viên Đoàn kiểm tra (trừ cán bộ của Bộ Tài chính và Ủy ban Chứng khoán Nhà nước) phải đảm bảo các tiêu chuẩn sau đây:
 
+ a) Có chứng chỉ kiểm toán viên và có tối thiểu 36 tháng kinh nghiệm thực tế hành nghề kiểm toán hoặc đã có 3 năm kinh nghiệm tham gia Đoàn kiểm tra chất lượng dịch vụ kiểm toán kể từ khi được cấp chứng chỉ kiểm toán viên tính đến thời điểm thành lập Đoàn kiểm tra. Doanh nghiệp kiểm toán cử kiểm toán viên hành nghề tham gia Đoàn kiểm tra phải có kết quả kiểm tra chất lượng dịch vụ kiểm toán đạt yêu cầu trở lên trong lần kiểm tra gần nhất;
 
-### Điều 17.2.TT.6.18. Quyền và nghĩa vụ của Trưởng Đoàn kiểm tra
+ Trường hợp kiểm tra tại các doanh nghiệp kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thì thành viên tham gia Đoàn kiểm tra phải là người đã hoặc đang là thành viên Ban giám đốc doanh nghiệp kiểm toán phụ trách tổng thể hợp đồng dịch vụ hoặc người có trình độ tương đương, có thời gian thực tế hành nghề kiểm toán hoặc soát xét chất lượng kiểm toán cho đơn vị có lợi ích công chúng tối thiểu 24 tháng kể từ khi được cơ quan có thẩm quyền chấp thuận được kiểm toán cho đơn vị có lợi ích công chúng đến thời điểm thành lập Đoàn kiểm tra;
 
-Điều 17.2.TT.6.18. Quyền và nghĩa vụ của Trưởng Đoàn kiểm tra
+ b) Có hiểu biết về chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan áp dụng cho loại dịch vụ được kiểm tra và có kinh nghiệm thực tế trong lĩnh vực, ngành nghề liên quan đến các hợp đồng dịch vụ mà mình kiểm tra;
 
-**Chỉ mục:** 18
+ c) Có đạo đức nghề nghiệp, độc lập, trung thực, khách quan, có tinh thần trách nhiệm cao;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001800
+ d) Đã hoàn thành khoá tập huấn về quy trình, thủ tục, nghiệp vụ kiểm tra do cơ quan kiểm tra tổ chức, trong đó thời lượng tập huấn bắt buộc là 16 giờ đối với thành viên lần đầu tham gia Đoàn kiểm tra và 8 giờ đối với thành viên đã có kinh nghiệm tham gia Đoàn kiểm tra các năm trước; Số giờ tập huấn được tính vào số giờ cập nhật kiến thức bắt buộc hàng năm của kiểm toán viên hành nghề;
 
-**ID:** dk_00023974
+ đ) Không bị xử phạt vi phạm hành chính trong lĩnh vực kế toán, kiểm toán độc lập, chứng khoán hoặc kỷ luật của Tổ chức nghề nghiệp về kiểm toán trong thời hạn 03 năm gần nhất tính đến thời điểm thành lập Đoàn kiểm tra.
 
----
+ 2. Trưởng Đoàn kiểm tra do cơ quan kiểm tra bố trí phù hợp với từng cuộc kiểm tra.Điều 17.2.TT.6.17. Quyền và nghĩa vụ của thành viên Đoàn kiểm tra
 
+(Điều 17 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-### Điều 17.2.TT.6.19. Quy trình kiểm tra trực tiếp chất lượng dịch vụ kiểm toán
+ 1. Quyền của thành viên Đoàn kiểm tra:
 
-Điều 17.2.TT.6.19. Quy trình kiểm tra trực tiếp chất lượng dịch vụ kiểm toán
+ a) Yêu cầu đối tượng được kiểm tra cung cấp đầy đủ, kịp thời tài liệu, thông tin, bố trí thời gian làm việc và giải trình về những vấn đề thuộc phạm vi kiểm tra được phân công;
 
-**Chỉ mục:** 19
+ b) Kiểm tra, đối chiếu, xác minh các thông tin có liên quan ở trong và ngoài doanh nghiệp kiểm toán được kiểm tra trong quá trình thực hiện kiểm tra theo phân công của Trưởng Đoàn kiểm tra;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570001900
+ c) Đưa ra các kết luận, kiến nghị trong phạm vi được phân công kiểm tra;
 
-**ID:** dk_00023975
+ d) Bảo lưu ý kiến của mình về kết quả kiểm tra trong trường hợp các ý kiến này khác với các kết luận, kiến nghị trong Báo cáo kết quả kiểm tra;
 
----
+ đ) Lập Biên bản vi phạm hành chính theo thẩm quyền quy định của pháp luật về xử phạt vi phạm hành chính.
 
+ 2. Nghĩa vụ của thành viên Đoàn kiểm tra:
 
-### Điều 17.2.TT.6.20. Tài liệu hướng dẫn kiểm tra trực tiếp
+ a) Ký cam kết bằng văn bản về tính độc lập và bảo mật thông tin với đối tượng được kiểm tra theo quy định tại Phụ lục số 03 ban hành kèm theo Thông tư này đồng thời phải đảm bảo tuân thủ các cam kết đó;
 
-Điều 17.2.TT.6.20. Tài liệu hướng dẫn kiểm tra trực tiếp
+ b) Từ chối thực hiện kiểm tra nếu xét thấy không đảm bảo tính độc lập, không đủ năng lực chuyên môn, không đủ tiêu chuẩn theo quy định tại Khoản 1 Điều 16 Thông tư này;
 
-**Chỉ mục:** 20
+ c) Thực hiện công việc theo phân công của Trưởng Đoàn kiểm tra một cách chính trực, khách quan, trung thực, vô tư, duy trì sự thận trọng nghề nghiệp;
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002000
+ d) Thu thập đầy đủ bằng chứng thích hợp để làm cơ sở hình thành kết luận kiểm tra về nội dung công việc theo phân công của Trưởng Đoàn kiểm tra. Báo cáo kịp thời với Trưởng Đoàn kiểm tra về các tồn tại, sai sót phát hiện qua kiểm tra;
 
-**ID:** dk_00023976
+ đ) Không được chuyển giao nhiệm vụ cho người khác khi chưa được sự đồng ý của Trưởng Đoàn kiểm tra;
 
----
+ e) Tham gia các cuộc họp giữa Đoàn kiểm tra với đối tượng được kiểm tra về các vấn đề liên quan đến nội dung thuộc phạm vi được phân công kiểm tra;
 
+ g) Ký Báo cáo kết quả kiểm tra và các tài liệu khác có liên quan đến công việc đã thực hiện theo phân công của Trưởng Đoàn kiểm tra;
 
-### Điều 17.2.TT.6.21. Lựa chọn chi nhánh và hợp đồng dịch vụ để kiểm tra trực tiếp
+ h) Không được tiết lộ thông tin về hồ sơ, tài liệu kiểm tra trừ trường hợp theo quy định của pháp luật;
 
-Điều 17.2.TT.6.21. Lựa chọn chi nhánh và hợp đồng dịch vụ để kiểm tra trực tiếp
+ i) Tuân thủ các quy định về kiểm soát chất lượng dịch vụ kiểm toán tại Thông tư này.Điều 17.2.TT.6.18. Quyền và nghĩa vụ của Trưởng Đoàn kiểm tra
 
-**Chỉ mục:** 21
+(Điều 18 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002100
+ 1. Quyền của Trưởng Đoàn kiểm tra:
 
-**ID:** dk_00023977
+ Ngoài các quyền của thành viên Đoàn kiểm tra quy định tại Khoản 1 Điều 17 Thông tư này, Trưởng Đoàn kiểm tra còn có các quyền sau:
 
----
+ a) Phân công nhiệm vụ và điều phối công việc cho các thành viên Đoàn kiểm tra để thực hiện kế hoạch kiểm tra;
 
+ b) Yêu cầu đối tượng được kiểm tra bố trí nhân sự phối hợp làm việc theo kế hoạch kiểm tra;
 
-### Điều 17.2.TT.6.22. Kết luận kiểm tra
+ c) Được kiến nghị với cơ quan kiểm tra về việc xử lý các sai phạm phát hiện qua kiểm tra.
 
-*Nội dung chưa có sẵn*
+ 2. Nghĩa vụ của Trưởng Đoàn kiểm tra:
 
-**Chỉ mục:** 22
+ Ngoài các nghĩa vụ của thành viên Đoàn kiểm tra quy định tại Khoản 2 Điều 17 Thông tư này, Trưởng Đoàn kiểm tra còn có các nghĩa vụ sau:
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002200
+ a) Tổ chức cuộc kiểm tra cho phù hợp với đối tượng được kiểm tra;
 
-**ID:** dk_00023978
+ b) Chỉ đạo việc thu thập, kiểm tra, soát xét và xử lý tất cả các tài liệu liên quan, đảm bảo thu thập và lưu giữ đầy đủ bằng chứng thích hợp về các công việc Đoàn kiểm tra đã thực hiện làm cơ sở đưa ra kết luận kiểm tra;
 
----
+ c) Giám sát việc thực hiện công việc được phân công của các thành viên Đoàn kiểm tra, làm đầu mối trao đổi các vấn đề phát hiện trong quá trình kiểm tra với đối tượng được kiểm tra;
 
+ d) Báo cáo kịp thời với cơ quan kiểm tra khi có thông báo của doanh nghiệp kiểm toán được kiểm tra về việc Trưởng Đoàn kiểm tra hoặc thành viên Đoàn kiểm tra vi phạm tính độc lập hoặc khi có bất đồng giữa thành viên Đoàn kiểm tra với đối tượng được kiểm tra trong thời gian kiểm tra hoặc báo cáo khi có yêu cầu từ cơ quan kiểm tra;
 
-### Điều 17.2.TT.6.23. Xử lý những vấn đề có ý kiến khác nhau về kết quả kiểm tra
+ đ) Lập, ký Báo cáo kết quả kiểm tra và chịu trách nhiệm tổng thể về tính trung thực, khách quan của kết quả kiểm tra.Điều 17.2.TT.6.19. Quy trình kiểm tra trực tiếp chất lượng dịch vụ kiểm toán
 
-Điều 17.2.TT.6.23. Xử lý những vấn đề có ý kiến khác nhau về kết quả kiểm tra
+(Điều 19 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Chỉ mục:** 23
+ 1. Quy trình kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán gồm 4 giai đoạn:
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002300
+ a) Giai đoạn chuẩn bị kiểm tra;
 
-**ID:** dk_00023979
+ b) Giai đoạn thực hiện kiểm tra;
 
----
+ c) Giai đoạn kết thúc kiểm tra;
 
+ d) Giai đoạn sau kiểm tra.
 
-### Điều 17.2.TT.6.24. Xử lý sau kiểm tra
+ Quy trình kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán được quy định cụ thể tại Phụ lục số 01 ban hành kèm theo Thông tư này.
 
-*Nội dung chưa có sẵn*
+ 2. Đối với các cuộc kiểm tra đột xuất chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán quy định tại Khoản 2 Điều 13 Thông tư này được vận dụng quy trình kiểm tra chất lượng dịch vụ kiểm toán quy định tại Phụ lục số 01 ban hành kèm theo Thông tư này cho phù hợp với mục đích, yêu cầu từng cuộc kiểm tra.Điều 17.2.TT.6.20. Tài liệu hướng dẫn kiểm tra trực tiếp
 
-**Chỉ mục:** 24
+(Điều 20 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002400
+ 1. Cơ quan kiểm tra chịu trách nhiệm xây dựng, ban hành và cập nhật các tài liệu hướng dẫn kiểm tra để phục vụ cho việc kiểm tra trực tiếp chất lượng dịch vụ kiểm toán tại các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của đơn vị mình.
 
-**ID:** dk_00023980
+ 2. Tổ chức nghề nghiệp về kiểm toán phối hợp với cơ quan kiểm tra xây dựng, ban hành và cập nhật các tài liệu hướng dẫn kiểm tra trực tiếp chất lượng dịch vụ kiểm toán.Điều 17.2.TT.6.21. Lựa chọn chi nhánh và hợp đồng dịch vụ để kiểm tra trực tiếp
 
----
+(Điều 21 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
+ 1. Lựa chọn chi nhánh để kiểm tra
 
-### Điều 17.2.TT.6.25. Hồ sơ kiểm tra
+ Việc kiểm tra trực tiếp chất lượng dịch vụ kiểm toán thường được thực hiện tại trụ sở chính của doanh nghiệp kiểm toán. Tuy nhiên, đối với các doanh nghiệp kiểm toán có nhiều chi nhánh, việc kiểm tra có thể thực hiện đối với một số chi nhánh theo lựa chọn của Đoàn kiểm tra.
 
-*Nội dung chưa có sẵn*
+ Việc lựa chọn chi nhánh được kiểm tra phải đáp ứng mục tiêu là Đoàn kiểm tra có đủ cơ sở hợp lý để kết luận rằng liệu các chính sách và thủ tục kiểm soát chất lượng dịch vụ kiểm toán có được doanh nghiệp kiểm toán xây dựng, phổ biến và thực hiện thống nhất trong toàn doanh nghiệp hay không.
 
-**Chỉ mục:** 25
+ Việc lựa chọn chi nhánh để kiểm tra được quy định cụ thể trong các tài liệu hướng dẫn kiểm tra trực tiếp chất lượng dịch vụ kiểm toán do cơ quan kiểm tra ban hành.
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002500
+ 2. Lựa chọn hồ sơ về các hợp đồng dịch vụ để kiểm tra
 
-**ID:** dk_00023981
+ a) Việc lựa chọn các hồ sơ hợp đồng dịch vụ kiểm toán để kiểm tra phải đáp ứng mục tiêu là Đoàn kiểm tra có đủ cơ sở hợp lý để kết luận về chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán được kiểm tra;
 
----
+ b) Hồ sơ về các hợp đồng dịch vụ được lựa chọn để kiểm tra phải bao gồm các dịch vụ kiểm toán, dịch vụ soát xét và các dịch vụ đảm bảo khác của doanh nghiệp kiểm toán được kiểm tra, trong đó tập trung vào các hợp đồng có mức độ rủi ro cao. Các yếu tố để đánh giá mức độ rủi ro của hợp đồng bao gồm: Quy mô, lĩnh vực, ngành nghề; mức độ đảm bảo của dịch vụ (kiểm toán, soát xét báo cáo tài chính, thông tin tài chính và các dịch vụ đảm bảo khác); nhóm thực hiện; các tranh chấp, kiện tụng; khách hàng được cung cấp nhiều loại dịch vụ cùng kỳ; khách hàng có phí dịch vụ lớn; khách hàng có giá phí dịch vụ quá cao hoặc quá thấp hoặc không phù hợp với quy mô; các rủi ro liên quan đến khách hàng và khách hàng đặc biệt; kết quả kiểm tra trước đây và các hợp đồng năm đầu tiên; các hợp đồng có báo cáo kiểm toán quá nhanh hoặc quá chậm so với kỳ kế toán năm;
 
+ c) Doanh nghiệp kiểm toán được kiểm tra phải cung cấp danh sách khách hàng theo từng loại hợp đồng kiểm toán, hợp đồng soát xét báo cáo tài chính, thông tin tài chính, hợp đồng dịch vụ đảm bảo khác. Hồ sơ về các hợp đồng dịch vụ được lựa chọn để kiểm tra phải chi tiết:
 
-### Điều 17.2.TT.6.26. Xử lý sai phạm về chất lượng dịch vụ kiểm toán
+ c1) Theo lĩnh vực hoạt động của khách hàng (như sản xuất, thương mại, ngân hàng, bảo hiểm);
 
-Điều 17.2.TT.6.26. Xử lý sai phạm về chất lượng dịch vụ kiểm toán
+ c2) Theo loại hình doanh nghiệp, tổ chức và qui mô của khách hàng (Công ty cổ phần; công ty TNHH, công ty hợp danh, doanh nghiệp tư nhân, hợp tác xã, đơn vị hành chính sự nghiệp, tổ chức đoàn thể xã hội, dự án quốc tế và tổ chức khác);
 
-**Chỉ mục:** 26
+ c3) Theo hình thức sở hữu vốn của khách hàng (Doanh nghiệp có vốn đầu tư nước ngoài, doanh nghiệp nhà nước và doanh nghiệp, tổ chức khác);
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002600
+ c4) Khách hàng là đơn vị có lợi ích công chúng và các doanh nghiệp, tổ chức khác;
 
-**ID:** dk_00023982
+ c5) Kiểm toán viên hành nghề chịu trách nhiệm ký báo cáo kiểm toán, báo cáo dịch vụ soát xét hoặc báo cáo dịch vụ đảm bảo khác.
 
----
+ d) Đoàn kiểm tra có thể chọn một trong số các hồ sơ hợp đồng dịch vụ mà doanh nghiệp kiểm toán được kiểm tra đánh giá là chất lượng tốt. Ngoài các hồ sơ hợp đồng dịch vụ được lựa chọn để kiểm tra đầy đủ theo các yêu cầu kiểm tra, đoàn kiểm tra có thể chọn một số hồ sơ về hợp đồng dịch vụ để kiểm tra các vấn đề có nghi vấn;
 
+ đ) Trong một cuộc kiểm tra định kỳ, ít nhất phải có 3 hồ sơ về các hợp đồng dịch vụ được lựa chọn để kiểm tra. Mỗi hồ sơ về hợp đồng dịch vụ được lựa chọn để kiểm tra, doanh nghiệp kiểm toán phải cung cấp các tài liệu có liên quan như báo cáo tài chính được kiểm toán, báo cáo kiểm toán, hợp đồng dịch vụ theo quy định của chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan;
 
-### Điều 17.2.TT.6.27. Xử lý vi phạm của thành viên Đoàn kiểm tra
+ e) Các hồ sơ hợp đồng dịch vụ được lựa chọn để kiểm tra chỉ được thông báo cho doanh nghiệp kiểm toán được kiểm tra trong buổi đầu thực hiện kiểm tra. Trong thời gian kiểm tra, Đoàn kiểm tra có quyền chọn để kiểm tra bất kỳ hồ sơ về hợp đồng dịch vụ nào mà không phải thông báo trước cho doanh nghiệp kiểm toán được kiểm tra. Hồ sơ về các hợp đồng dịch vụ được lựa chọn phải thuộc phạm vi kiểm tra.Điều 17.2.TT.6.22. Kết luận kiểm tra
+
+(Điều 22 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
+
+ 1. Tuỳ theo mức độ tuân thủ chuẩn mực nghề nghiệp, pháp luật và các quy định có liên quan thể hiện trong từng hồ sơ về hợp đồng dịch vụ kiểm toán và tổng hợp chung toàn doanh nghiệp kiểm toán được kiểm tra theo kết quả xếp loại của phần kiểm tra hệ thống, phần kiểm tra kỹ thuật và xét đoán chuyên môn, Đoàn kiểm tra phải đưa ra các kết luận như sau:
+
+ a) Kết luận về kết quả kiểm tra hệ thống phải được đánh giá theo một trong 4 loại ý kiến nhận xét sau đây:
+
+ a1) Loại 1: Hệ thống kiểm soát chất lượng dịch vụ kiểm toán tốt;
+
+ a2) Loại 2: Hệ thống kiểm soát chất lượng dịch vụ kiểm toán đạt yêu cầu;
+
+ a3) Loại 3: Hệ thống kiểm soát chất lượng dịch vụ kiểm toán không đạt yêu cầu;
+
+ a4) Loại 4: Hệ thống kiểm soát chất lượng dịch vụ kiểm toán yếu kém, có sai sót nghiêm trọng.
+
+ b) Kết luận về kết quả kiểm tra kỹ thuật phải được đánh giá theo một trong 4 loại ý kiến nhận xét sau đây:
+
+ b1) Loại 1: Chất lượng hồ sơ kiểm toán tốt;
+
+ b2) Loại 2: Chất lượng hồ sơ kiểm toán đạt yêu cầu;
+
+ b3) Loại 3: Chất lượng hồ sơ kiểm toán không đạt yêu cầu;
+
+ b4) Loại 4: Chất lượng hồ sơ kiểm toán yếu kém, có sai sót nghiêm trọng.
+
+ c) Kết luận chung về kết quả kiểm tra chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán phải được đánh giá theo một trong 4 loại ý kiến nhận xét sau đây:
+
+ c1) Loại 1: Chất lượng dịch vụ kiểm toán tốt;
+
+ c2) Loại 2: Chất lượng dịch vụ kiểm toán đạt yêu cầu;
+
+ c3) Loại 3: Chất lượng dịch vụ kiểm toán không đạt yêu cầu;
+
+ c4) Loại 4: Chất lượng dịch vụ kiểm toán yếu kém, có sai sót nghiêm trọng.
+
+ 2. Trường hợp doanh nghiệp kiểm toán được kiểm tra không cung cấp đầy đủ các hồ sơ, tài liệu theo yêu cầu của Đoàn kiểm tra thì kết quả kiểm tra chất lượng dịch vụ kiểm toán của doanh nghiệp kiểm toán chỉ được đánh giá loại 3 hoặc loại 4 theo quy định tại Điểm c Khoản 1 Điều này.
+
+ 3. Kết luận về kết quả kiểm tra chất lượng dịch vụ kiểm toán không cung cấp cho doanh nghiệp kiểm toán bất kỳ sự đảm bảo nào về hệ thống kiểm soát chất lượng dịch vụ kiểm toán và chất lượng từng hợp đồng dịch vụ được kiểm tra của doanh nghiệp kiểm toán.
+
+ 4. Cơ quan kiểm tra có trách nhiệm ban hành và cập nhật bộ tiêu chí đánh giá và xếp loại kiểm tra chất lượng dịch vụ kiểm toán áp dụng cho các doanh nghiệp kiểm toán thuộc đối tượng kiểm tra của đơn vị mình.Điều 17.2.TT.6.23. Xử lý những vấn đề có ý kiến khác nhau về kết quả kiểm tra
+
+(Điều 23 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
+
+ 1. Khi có những vấn đề còn có ý kiến khác nhau về kết quả kiểm tra, trường hợp cần thiết, cơ quan kiểm tra có thể xin ý kiến tư vấn của các chuyên gia hoặc thành lập Hội đồng chuyên môn để xem xét lại kết quả kiểm tra.
+
+ 2. Hội đồng chuyên môn bao gồm đại diện Bộ Tài chính hoặc Ủy ban Chứng khoán Nhà nước, đại diện Tổ chức nghề nghiệp về kiểm toán và kiểm toán viên hành nghề huy động từ doanh nghiệp kiểm toán. Chủ tịch Hội đồng chuyên môn phải là Lãnh đạo cấp Vụ của Bộ Tài chính hoặc Lãnh đạo Ủy ban Chứng khoán Nhà nước. Kiểm toán viên hành nghề huy động từ doanh nghiệp kiểm toán phải có kinh nghiệm tương đương với thành viên Ban Giám đốc phụ trách tổng thể hợp đồng dịch vụ. Thành viên Hội đồng chuyên môn phải đảm bảo tính độc lập với đối tượng được kiểm tra, Trưởng Đoàn kiểm tra và thành viên Đoàn kiểm tra có liên quan.
+
+ 3. Doanh nghiệp kiểm toán được kiểm tra được quyền giải trình và cung cấp các thông tin cần thiết, làm cơ sở cho Hội đồng chuyên môn đưa ra kết luận chính thức về kết quả kiểm tra.
+
+ 4. Căn cứ vào các tài liệu do Đoàn kiểm tra và doanh nghiệp kiểm toán được kiểm tra cung cấp, các thành viên của Hội đồng chuyên môn xem xét, thảo luận và đánh giá để đưa ra kết luận về từng vấn đề còn có ý kiến khác nhau.Điều 17.2.TT.6.24. Xử lý sau kiểm tra
+
+(Điều 24 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 7 Thông tư số 39/2020/TT-BTC có hiệu lực thi hành kể từ ngày 01/07/2020)
+
+1. Trong thời hạn 30 ngày kể từ ngày ký Báo cáo kết quả kiểm tra, các doanh nghiệp kiểm toán được kiểm tra phải gửi Bản tổng hợp giải pháp khắc phục sai sót và thực hiện kiến nghị của Đoàn kiểm tra cho cơ quan kiểm tra. Trường hợp doanh nghiệp kiểm toán được kiểm tra là hội viên của Tổ chức nghề nghiệp về kiểm toán, Bản tổng hợp giải pháp khắc phục sai sót và thực hiện kiến nghị của Đoàn kiểm tra phải được đồng thời gửi cho Tổ chức nghề nghiệp về kiểm toán.
+
+Bản tổng hợp giải pháp khắc phục sai sót và thực hiện kiến nghị của Đoàn kiểm tra là tài liệu tham chiếu khi kiểm tra chất lượng dịch vụ kiểm toán lần sau.
+
+2. Cơ quan kiểm tra có trách nhiệm lập Báo cáo tổng hợp kết quả kiểm tra và Báo cáo tổng hợp các sai phạm phát hiện qua kiểm tra trực tiếp định kỳ chất lượng dịch vụ kiểm toán của các đối tượng do đơn vị mình trực tiếp kiểm tra.
+
+Mẫu Báo cáo tổng hợp kết quả kiểm tra và Báo cáo tổng hợp các sai phạm phát hiện qua kiểm tra được quy định cụ thể trong các tài liệu hướng dẫn kiểm tra trực tiếp chất lượng dịch vụ kiểm toán.
+
+Điều 17.2.TT.6.25. Hồ sơ kiểm tra
+
+(Điều 25 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
+
+ 1. Hồ sơ kiểm tra bao gồm: Danh sách doanh nghiệp kiểm toán được kiểm tra; Danh sách thành viên Đoàn kiểm tra; Quyết định kiểm tra; Các hồ sơ do Đoàn kiểm tra cung cấp; Quyết định thành lập Hội đồng chuyên môn; Quyết định xử lý sau kiểm tra và các tài liệu khác có liên quan.
+
+ 2. Đoàn kiểm tra phải lưu vào hồ sơ kiểm tra đầy đủ các thông tin và bằng chứng thích hợp làm cơ sở cho việc hình thành kết luận kiểm tra về từng doanh nghiệp kiểm toán được kiểm tra gồm Báo cáo kết quả kiểm tra, Biên bản vi phạm hành chính (nếu có), các Bảng đánh giá hệ thống kiểm soát chất lượng dịch vụ kiểm toán và Bảng đánh giá từng hồ sơ về hợp đồng dịch vụ được lựa chọn để kiểm tra, các tài liệu làm việc do Đoàn kiểm tra lập, các tài liệu do đối tượng được kiểm tra cung cấp và các tài liệu liên quan khác.
+
+ Trưởng Đoàn kiểm tra phải bàn giao toàn bộ hồ sơ kiểm tra cho cơ quan kiểm tra ngay khi kết thúc cuộc kiểm tra tại từng doanh nghiệp kiểm toán.
+
+ 3. Lưu trữ hồ sơ kiểm tra
+
+ Cơ quan kiểm tra phải có trách nhiệm đưa hồ sơ kiểm tra nhận bàn giao từ Trưởng Đoàn kiểm tra vào lưu trữ. Thời hạn lưu trữ hồ sơ kiểm tra thực hiện theo quy định của pháp luật đối với việc lưu trữ tài liệu của các cơ quan nhà nước.Điều 17.2.TT.6.26. Xử lý sai phạm về chất lượng dịch vụ kiểm toán
+
+(Điều 26 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Thông tư số 05/2025/TT-BTC có hiệu lực thi hành kể từ ngày 24/01/2025)
+
+1. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán trong thời gian 03 tháng khi cơ quan có thẩm quyền kết luận:
+
+a) Chất lượng dịch vụ kiểm toán xếp loại 3 “Chất lượng dịch vụ kiểm toán không đạt yêu cầu” qua hai lần kiểm tra liên tiếp;
+
+b) Chất lượng dịch vụ kiểm toán xếp loại 4 “Chất lượng dịch vụ kiểm toán yếu kém, có sai sót nghiêm trọng”.
+
+2. Doanh nghiệp kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán trong thời gian 06 tháng khi cơ quan có thẩm quyền kết luận chất lượng dịch vụ kiểm toán xếp loại 4 “Chất lượng dịch vụ kiểm toán yếu kém, có sai sót nghiêm trọng” từ lần thứ hai trở đi.
+
+3. Kiểm toán viên hành nghề bị đình chỉ hành nghề kiểm toán trong thời gian 06 tháng khi cơ quan có thẩm quyền kết luận kiểm toán viên hành nghề ký báo cáo kiểm toán có từ 1 đến 2 hồ sơ kiểm toán xếp loại 4 “Chất lượng hồ sơ kiểm toán yếu kém, có sai sót nghiêm trọng”.
+
+4. Kiểm toán viên hành nghề bị đình chỉ hành nghề kiểm toán trong thời gian 12 tháng khi cơ quan có thẩm quyền kết luận kiểm toán viên hành nghề ký báo cáo kiểm toán có trên 02 hồ sơ có kết quả kiểm tra kỹ thuật xếp loại 4 “Chất lượng hồ sơ kiểm toán yếu kém, có sai sót nghiêm trọng”.
+
+5. Doanh nghiệp kiểm toán, kiểm toán viên hành nghề thực hiện kiểm toán cho đơn vị có lợi ích công chúng có cùng hành vi vi phạm quy định tại khoản 1, khoản 2, khoản 3, khoản 4 Điều này thì thời gian đình chỉ tăng lên gấp đôi.
 
 Điều 17.2.TT.6.27. Xử lý vi phạm của thành viên Đoàn kiểm tra
 
-**Chỉ mục:** 27
+(Điều 27 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002700
+ 1. Trưởng Đoàn kiểm tra và thành viên Đoàn kiểm tra không được tham gia Đoàn kiểm tra ngay khi hành vi vi phạm bị phát hiện khi thuộc một trong các trường hợp sau:
 
-**ID:** dk_00023983
+ a) Có yêu cầu trái với đạo đức nghề nghiệp hoặc trái với quy định của pháp luật trong quá trình kiểm tra tại doanh nghiệp kiểm toán;
 
----
+ b) Không tuân thủ các nghĩa vụ của thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra quy định tại Khoản 2 Điều 17 và Khoản 2 Điều 18 Thông tư này;
 
+ 2. Trưởng Đoàn kiểm tra và thành viên Đoàn kiểm tra vi phạm quy định tại Khoản 1 Điều này tùy theo mức độ vi phạm có thể bị cơ quan, tổ chức quản lý cán bộ ra quyết định xử lý theo quy định của pháp luật có liên quan.Điều 17.2.TT.6.28. Công khai kết quả kiểm tra chất lượng dịch vụ kiểm toán
 
-### Điều 17.2.TT.6.28. Công khai kết quả kiểm tra chất lượng dịch vụ kiểm toán
+(Điều 28 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-Điều 17.2.TT.6.28. Công khai kết quả kiểm tra chất lượng dịch vụ kiểm toán
+ Báo cáo kết quả kiểm tra chất lượng dịch vụ kiểm toán được công khai trong phạm vi doanh nghiệp kiểm toán được kiểm tra và được tổng hợp trong Báo cáo tổng hợp kết quả kiểm tra. Báo cáo tổng hợp kết quả kiểm tra hàng năm sẽ được công bố trên trang thông tin điện tử của Bộ Tài chính, Ủy ban Chứng khoán Nhà nước và Tổ chức nghề nghiệp về kiểm toán.Chương VI
 
-**Chỉ mục:** 28
+KIỂM TOÁN BÁO CÁO TÀI CHÍNH CỦA ĐƠN VỊ CÓ LỢI ÍCH CÔNG CHÚNG
 
-**Mã phân cấp:** 17002000000000005000000400000000000000000520000000000000000000802525301570002800
+Chương VI
 
-**ID:** dk_00023984
+ĐƠN VỊ ĐƯỢC KIỂM TOÁN
 
----
+Điều 17.2.LQ.37. Đơn vị được kiểm toán
 
+(Điều 37 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
 
-### Điều 17.2.LQ.37. Đơn vị được kiểm toán
+1. Doanh nghiệp, tổ chức mà pháp luật quy định báo cáo tài chính hàng năm phải được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán, bao gồm:
 
-*Nội dung chưa có sẵn*
+a) Doanh nghiệp có vốn đầu tư nước ngoài;
 
-**Chỉ mục:** 37
+b) Tổ chức tín dụng được thành lập và hoạt động theo Luật Các tổ chức tín dụng;
 
-**Mã phân cấp:** 1700200000000000600003700000000000000000
+c) Tổ chức tài chính, doanh nghiệp kinh doanh bảo hiểm, doanh nghiệp môi giới bảo hiểm.
 
-**ID:** dk_00023987
+d) Công ty đại chúng, tổ chức phát hành và tổ chức kinh doanh chứng khoán.
 
----
+đ) Doanh nghiệp khác có quy mô lớn phải kiểm toán báo cáo tài chính hàng năm theo quy định của Chính phủ.
 
+2. Doanh nghiệp, tổ chức phải được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán, bao gồm:
 
-### Điều 17.2.NĐ.1.15. Đơn vị được kiểm toán
+a) Doanh nghiệp nhà nước, trừ doanh nghiệp nhà nước hoạt động trong lĩnh vực thuộc bí mật nhà nước theo quy định của pháp luật phải được kiểm toán đối với báo cáo tài chính hàng năm;
 
-*Nội dung chưa có sẵn*
+b) Doanh nghiệp, tổ chức thực hiện dự án quan trọng quốc gia, dự án nhóm A sử dụng vốn nhà nước, trừ các dự án trong lĩnh vực thuộc bí mật nhà nước theo quy định của pháp luật phải được kiểm toán đối với báo cáo quyết toán dự án hoàn thành;
 
-**Chỉ mục:** 15
+c) Doanh nghiệp, tổ chức có vốn góp của Nhà nước và dự án sử dụng vốn nhà nước khác do Chính phủ quy định phải được kiểm toán đối với báo cáo tài chính hàng năm hoặc báo cáo quyết toán dự án hoàn thành;
 
-**Mã phân cấp:** 170020000000000060000370000000000000000000402429900170001500
+d) Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải được kiểm toán đối với báo cáo tài chính hàng năm.
 
-**ID:** dk_00023988
+3. Việc kiểm toán báo cáo tài chính và báo cáo quyết toán dự án hoàn thành đối với doanh nghiệp, tổ chức quy định tại các điểm a, b và c khoản 2 Điều này không thay thế cho việc kiểm toán của Kiểm toán Nhà nước.
 
----
+4.  Doanh nghiệp, tổ chức khác theo quy định của luật có liên quan hoặc tự nguyện thực hiện kiểm toán.
 
+Điều 17.2.NĐ.1.15. Đơn vị được kiểm toán
 
-### Điều 17.2.LQ.38. Quyền của đơn vị được kiểm toán
+(Điều 15 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-*Nội dung chưa có sẵn*
+1. Doanh nghiệp, tổ chức mà pháp luật quy định báo cáo tài chính hàng năm phải được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán, bao gồm:
 
-**Chỉ mục:** 38
+a) Doanh nghiệp có vốn đầu tư nước ngoài;
 
-**Mã phân cấp:** 1700200000000000600003800000000000000000
+b) Tổ chức tín dụng được thành lập và hoạt động theo Luật các tổ chức tín dụng, bao gồm cả chi nhánh ngân hàng nước ngoài tại Việt Nam;
 
-**ID:** dk_00023989
+c) Tổ chức tài chính, doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài.
 
----
+d) Công ty đại chúng, tổ chức phát hành và tổ chức kinh doanh chứng khoán.
 
+2. Các doanh nghiệp, tổ chức khác bắt buộc phải kiểm toán theo quy định của pháp luật có liên quan.
 
-### Điều 17.2.LQ.39. Nghĩa vụ của đơn vị được kiểm toán
+3. Doanh nghiệp, tổ chức phải được doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán, bao gồm:
 
-Điều 17.2.LQ.39. Nghĩa vụ của đơn vị được kiểm toán
+a) Doanh nghiệp nhà nước, trừ doanh nghiệp nhà nước hoạt động trong lĩnh vực thuộc bí mật nhà nước theo quy định của pháp luật phải được kiểm toán đối với báo cáo tài chính hàng năm;
 
-**Chỉ mục:** 39
+b) Doanh nghiệp, tổ chức thực hiện dự án quan trọng quốc gia, dự án nhóm A sử dụng vốn nhà nước, trừ các dự án trong lĩnh vực thuộc bí mật nhà nước theo quy định của pháp luật phải được kiểm toán đối với báo cáo quyết toán dự án hoàn thành;
 
-**Mã phân cấp:** 1700200000000000600003900000000000000000
+c) Doanh nghiệp, tổ chức mà các tập đoàn, tổng công ty nhà nước nắm giữ từ 20% quyền biểu quyết trở lên tại thời điểm cuối năm tài chính phải được kiểm toán đối với báo cáo tài chính hàng năm;
 
-**ID:** dk_00023990
+d) Doanh nghiệp mà các tổ chức niêm yết, tổ chức phát hành và tổ chức kinh doanh chứng khoán nắm giữ từ 20% quyền biểu quyết trở lên tại thời điểm cuối năm tài chính phải được kiểm toán đối với báo cáo tài chính hàng năm;
 
----
+đ) Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải được kiểm toán đối với báo cáo tài chính hàng năm.
 
+4. Các doanh nghiệp, tổ chức thuộc đối tượng phải kiểm toán báo cáo tài chính hàng năm quy định tại Khoản 1 và Khoản 2 Điều này nếu theo quy định của pháp luật phải lập báo cáo tài chính hợp nhất hoặc báo cáo tài chính tổng hợp thì phải thực hiện kiểm toán báo cáo tài chính hợp nhất hoặc báo cáo tài chính tổng hợp.
 
-### Điều 17.2.LQ.53. Đơn vị có lợi ích công chúng
+5. Việc kiểm toán báo cáo tài chính và báo cáo quyết toán dự án hoàn thành đối với doanh nghiệp, tổ chức quy định tại các Điểm a và b Khoản 2 Điều này không thay thế cho việc kiểm toán của Kiểm toán Nhà nước.
 
-*Nội dung chưa có sẵn*
+6. Doanh nghiệp, tổ chức khác tự nguyện được kiểm toán.
 
-**Chỉ mục:** 53
+Điều 17.2.LQ.38. Quyền của đơn vị được kiểm toán
 
-**Mã phân cấp:** 1700200000000000600005300000000000000000
+(Điều 38 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00023991
+ 1. Lựa chọn doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và kiểm toán viên hành nghề có đủ điều kiện hành nghề theo quy định của pháp luật để giao kết hợp đồng kiểm toán, trừ trường hợp pháp luật có quy định khác.
 
----
+ 2. Yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam cung cấp thông tin trong hồ sơ đăng ký hành nghề kiểm toán và thông tin về kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện kiểm toán.
 
+ 3. Từ chối cung cấp thông tin, tài liệu không liên quan đến nội dung kiểm toán.
 
-### Điều 17.2.NĐ.2.4. Đơn vị có lợi ích công chúng
+ 4. Đề nghị thay thế thành viên tham gia cuộc kiểm toán khi có căn cứ cho rằng thành viên đó vi phạm nguyên tắc hoạt động kiểm toán độc lập trong quá trình thực hiện kiểm toán.
 
-*Nội dung chưa có sẵn*
+ 5. Thảo luận, giải trình bằng văn bản về những vấn đề được nêu trong dự thảo báo cáo kiểm toán nếu thấy chưa phù hợp.
 
-**Chỉ mục:** 4
+ 6. Khiếu nại về hành vi của thành viên tham gia cuộc kiểm toán trong quá trình thực hiện kiểm toán khi có căn cứ cho rằng hành vi đó là trái pháp luật.
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000400
+ 7. Yêu cầu bồi thường trong trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam gây thiệt hại.
 
-**ID:** dk_00023992
+ 8. Quyền khác theo quy định của pháp luật.Điều 17.2.LQ.39. Nghĩa vụ của đơn vị được kiểm toán
 
----
+(Điều 39 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
 
+1. Cung cấp đầy đủ, chính xác, trung thực, kịp thời, khách quan thông tin, tài liệu cần thiết theo yêu cầu của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và chịu trách nhiệm trước pháp luật về thông tin, tài liệu đã cung cấp.
 
-### Điều 17.2.NĐ.2.5. Điều kiện đối với tổ chức kiểm toán được chấp thuận
+2. Thực hiện yêu cầu của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam về việc thu thập bằng chứng kiểm toán theo yêu cầu của chuẩn mực kiểm toán và điều chỉnh các sai sót để báo cáo kiểm toán không có ý kiến ngoại trừ đối với các nội dung không được ngoại trừ theo quy định tại khoản 2 và khoản 3 Điều 48 của Luật này. Trường hợp không điều chỉnh sai sót theo ý kiến của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán phải giải trình bằng văn bản theo yêu cầu của cơ quan nhà nước có thẩm quyền, đại diện chủ sở hữu đối với đơn vị được kiểm toán.
+
+3. Phối hợp, tạo điều kiện cho kiểm toán viên hành nghề thực hiện kiểm toán.
+
+4. Không được có hành vi hạn chế phạm vi các vấn đề cần kiểm toán.
+
+5. Xem xét đề nghị của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam về tồn tại, sai sót trong báo cáo tài chính và trong việc tuân thủ pháp luật để có biện pháp khắc phục kịp thời.
+
+6. Thông báo kịp thời, đầy đủ các vi phạm pháp luật và vi phạm hợp đồng kiểm toán trong hoạt động kiểm toán của kiểm toán viên hành nghề và doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam cho cơ quan nhà nước có thẩm quyền.
+
+7. Thanh toán phí dịch vụ kiểm toán theo thỏa thuận trong hợp đồng.
+
+8. Trường hợp ký hợp đồng kiểm toán với một doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam quá năm năm liên tục thì phải yêu cầu doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thay đổi kiểm toán viên hành nghề ký báo cáo kiểm toán.
+
+9. Nghĩa vụ khác theo quy định của pháp luật.
+
+Điều 17.2.LQ.53. Đơn vị có lợi ích công chúng
+
+(Điều 53 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
+
+ 1. Tổ chức tín dụng được thành lập và hoạt động theo Luật Các tổ chức tín dụng.
+
+ 2. Tổ chức tài chính, doanh nghiệp kinh doanh bảo hiểm, doanh nghiệp môi giới bảo hiểm.
+
+ 3. Công ty đại chúng, tổ chức phát hành, tổ chức kinh doanh chứng khoán theo quy định của pháp luật về chứng khoán.
+
+ 4. Doanh nghiệp, tổ chức khác có liên quan đến lợi ích của công chúng do tính chất, quy mô hoạt động của đơn vị đó theo quy định của pháp luật.Điều 17.2.NĐ.2.4. Đơn vị có lợi ích công chúng
+
+(Điều 4 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
+
+1. Đơn vị có lợi ích công chúng là các đơn vị được quy định tại Điều 53 Luật kiểm toán độc lập.
+
+2. Đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán, gồm: Công ty đại chúng quy mô lớn theo quy định của pháp luật về chứng khoán, tổ chức niêm yết, tổ chức phát hành chứng khoán ra công chúng, công ty chứng khoán, công ty đầu tư chứng khoán, quỹ và các công ty quản lý quỹ.
+
+3. Đơn vị có lợi ích công chúng khác, gồm:
+
+a) Công ty đại chúng, ngoại trừ các công ty đại chúng quy mô lớn quy định tại Khoản 2 Điều này;
+
+b) Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài (trừ các doanh nghiệp bảo hiểm quy định tại Khoản 2 Điều này);
+
+c) Doanh nghiệp, tổ chức khác có liên quan đến lợi ích của công chúng do tính chất, quy mô hoạt động của đơn vị đó theo quy định của pháp luật.
 
 Điều 17.2.NĐ.2.5. Điều kiện đối với tổ chức kiểm toán được chấp thuận
 
-**Chỉ mục:** 5
+(Điều 5 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được sửa đổi, bổ sung, bãi bỏ theo quy định tại khoản 1 Điều 1 Nghị định số 151/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/11/2018)
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000500
+1. Tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng phải có đủ các Điều kiện sau đây:
 
-**ID:** dk_00023993
+***a) (Bị bãi bỏ);***
 
----
+b) Có vốn Điều lệ hoặc vốn được cấp (đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam) từ 6 tỷ đồng trở lên và phải thường xuyên duy trì vốn chủ sở hữu trên bảng cân đối kế toán không thấp hơn 6 tỷ đồng;
 
+c) Có số lượng kiểm toán viên hành nghề từ 10 người trở lên, trong đó có Giám đốc hoặc Tổng Giám đốc, có đủ các tiêu chuẩn quy định tại Điều 6 Nghị định này;
 
-### Điều 17.2.NĐ.2.6. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
+d) Có thời gian hoạt động kiểm toán tại Việt Nam tối thiểu là 24 tháng tính từ ngày được cơ quan có thẩm quyền xác nhận danh sách đăng ký hành nghề kiểm toán lần đầu hoặc từ ngày được cấp Giấy chứng nhận đủ Điều kiện kinh doanh dịch vụ kiểm toán lần đầu đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán;
+
+*đ) Đã phát hành báo cáo kiểm toán về báo cáo tài chính năm cho tối thiểu 200 đơn vị được kiểm toán tính từ ngày 01 tháng 10 năm trước đến ngày 30 tháng 9 năm nộp hồ sơ đăng ký.*
+
+Trường hợp tổ chức kiểm toán đã được chấp thuận trong năm nộp hồ sơ thì phải có thêm Điều kiện là đã phát hành báo cáo kiểm toán về báo cáo tài chính năm (hoặc báo cáo soát xét báo cáo tài chính) cho tối thiểu 10 đơn vị có lợi ích công chúng tính từ ngày 01 tháng 10 năm trước đến ngày 30 tháng 9 năm nộp hồ sơ đăng ký;
+
+***e) (Bị bãi bỏ);***
+
+g) ***(Bị bãi bỏ);***
+
+h) ***(Bị bãi bỏ);***
+
+i) ***(Bị bãi bỏ);***
+
+2. Tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán, ngoài việc phải đáp ứng các Điều kiện quy định tại các Điểm a, b, e, g, h và i Khoản 1 Điều này, phải có đủ các Điều kiện sau đây:
+
+a) Có số lượng kiểm toán viên hành nghề từ 15 người trở lên, trong đó có Giám đốc hoặc Tổng Giám đốc, có đủ các tiêu chuẩn quy định tại Điều 6 của Nghị định này;
+
+*b) Có thời gian hoạt động kiểm toán tại Việt Nam tối thiểu là 24 tháng tính từ ngày được cơ quan có thẩm quyền xác nhận danh sách đăng ký hành nghề kiểm toán lần đầu hoặc từ ngày được cấp Giấy chứng nhận đủ Điều kiện kinh doanh dịch vụ kiểm toán lần đầu đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán;*
+
+*c) Đã phát hành báo cáo kiểm toán về báo cáo tài chính năm cho tối thiểu 250 đơn vị được kiểm toán tính từ ngày 01 tháng 10 năm trước đến ngày 30 tháng 9 năm nộp hồ sơ đăng ký.*
+
+Trường hợp tổ chức kiểm toán đã được chấp thuận trong năm nộp hồ sơ thì phải có thêm Điều kiện là đã phát hành báo cáo kiểm toán về báo cáo tài chính năm (hoặc báo cáo soát xét báo cáo tài chính) cho tối thiểu 20 đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán tính từ ngày 01 tháng 10 năm trước đến ngày 30 tháng 9 năm nộp hồ sơ đăng ký.
 
 Điều 17.2.NĐ.2.6. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
 
-**Chỉ mục:** 6
+(Điều 6 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000600
+Ngoài các tiêu chuẩn quy định tại Luật kiểm toán độc lập, kiểm toán viên hành nghề được chấp thuận phải có các tiêu chuẩn sau:
 
-**ID:** dk_00023994
+1. Có tên trong danh sách kiểm toán viên đủ Điều kiện hành nghề kiểm toán trong kỳ chấp thuận được Bộ Tài chính công khai tại thời Điểm nộp hồ sơ đăng ký thực hiện kiểm toán.
 
----
-
-
-### Điều 17.2.NĐ.2.7. Các trường hợp tổ chức kiểm toán, kiểm toán viên hành nghề không được xem xét, chấp thuận
+2. Có ít nhất 24 tháng thực tế hành nghề kiểm toán tại Việt Nam tính từ ngày được cơ quan có thẩm quyền xác nhận đủ Điều kiện hành nghề kiểm toán đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán.
 
 Điều 17.2.NĐ.2.7. Các trường hợp tổ chức kiểm toán, kiểm toán viên hành nghề không được xem xét, chấp thuận
 
-**Chỉ mục:** 7
+(Điều 7 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000700
+1. Các trường hợp không được xem xét, chấp thuận bao gồm:
 
-**ID:** dk_00023995
+a) Tổ chức kiểm toán đang bị đình chỉ hoạt động kinh doanh dịch vụ kiểm toán theo quy định của pháp luật về kiểm toán độc lập;
 
----
+b) Tổ chức kiểm toán không sửa chữa, khắc phục kịp thời các sai phạm theo kiến nghị của cơ quan nhà nước có thẩm quyền;
 
+c) Tổ chức kiểm toán có những khiếu kiện về kết quả kiểm toán và đã được cơ quan nhà nước có thẩm quyền kết luận là có sai phạm;
 
-### Điều 17.2.NĐ.2.8. Xử lý đối với các hợp đồng kiểm toán đã ký trong trường hợp không được chấp thuận
+d) Tổ chức kiểm toán có chất lượng kiểm toán không đạt yêu cầu theo kết quả kiểm tra hoặc kết luận của cơ quan, tổ chức có thẩm quyền trong năm được xem xét;
+
+đ) Kiểm toán viên hành nghề phụ trách hồ sơ kiểm toán có chất lượng kiểm toán không đạt yêu cầu theo kết quả kiểm tra hoặc kết luận của cơ quan tổ chức có thẩm quyền trong năm được xem xét;
+
+e) Tổ chức kiểm toán, kiểm toán viên hành nghề có hành vi vi phạm pháp luật liên quan đến hành nghề kiểm toán và đã bị cơ quan có thẩm quyền xử lý vi phạm hành chính theo quy định của pháp luật trong năm được xem xét;
+
+g) Tổ chức kiểm toán, kiểm toán viên hành nghề giả mạo, khai man trong việc kê khai các thông tin trong hồ sơ đăng ký tham gia kiểm toán;
+
+h) Tổ chức kiểm toán, kiểm toán viên hành nghề không giải trình, giải trình không đạt yêu cầu hoặc không cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán theo yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+i) Tổ chức kiểm toán, kiểm toán viên hành nghề bị hủy bỏ tư cách được chấp thuận kiểm toán trong thời gian chưa quá 24 tháng kể từ ngày bị hủy bỏ;
+
+k) Tổ chức kiểm toán, kiểm toán viên hành nghề không thực hiện thông báo, báo cáo theo quy định của pháp luật về kiểm toán độc lập.
+
+2. Tổ chức kiểm toán, kiểm toán viên hành nghề thuộc một trong các trường hợp quy định tại các Điểm d, đ, g và h Khoản 1 Điều này thì sau 12 tháng, kể từ ngày có kết luận, quyết định xử lý của cơ quan có thẩm quyền, mới được xem xét, chấp thuận.
 
 Điều 17.2.NĐ.2.8. Xử lý đối với các hợp đồng kiểm toán đã ký trong trường hợp không được chấp thuận
 
-**Chỉ mục:** 8
+(Điều 8 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000800
+1. Tổ chức kiểm toán, kiểm toán viên hành nghề không được chấp thuận trong kỳ nào thì không được tiếp tục thực hiện các hợp đồng kiểm toán và các dịch vụ đảm bảo khác đã ký và không được ký thêm các hợp đồng kiểm toán mới với đơn vị có lợi ích công chúng trong kỳ đó, trừ trường hợp quy định tại Khoản 2 Điều này.
 
-**ID:** dk_00023996
+2. Tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận trong kỳ trước nhưng không được chấp thuận trong kỳ sau thì chỉ được tiếp tục thực hiện hợp đồng kiểm toán báo cáo tài chính năm đã ký với đơn vị có lợi ích công chúng trong kỳ sau nếu thỏa mãn tất cả các Điều kiện sau:
 
----
+a) Đã thực hiện trong kỳ được chấp thuận việc soát xét báo cáo tài chính bán niên cho đơn vị có lợi ích công chúng thuộc đối tượng bắt buộc phải soát xét báo cáo tài chính bán niên;
 
-
-### Điều 17.2.NĐ.2.9. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+b) Phát hành báo cáo kiểm toán về báo cáo tài chính trong thời gian 90 ngày, kể từ ngày kết thúc năm tài chính của đơn vị có lợi ích công chúng.
 
 Điều 17.2.NĐ.2.9. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
 
-**Chỉ mục:** 9
+(Điều 9 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016, có nội dung được bãi bỏ theo quy định tại Điều 1 Nghị định số 151/2018/NĐ-CP, có hiệu lực thi hành kể từ ngày 07/11/2018)
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840000900
+1. Đơn đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng (theo mẫu tại Phụ lục ban hành kèm theo Nghị định này).
 
-**ID:** dk_00023997
+2. ***(Bị bãi bỏ);***
 
----
+3. Danh sách kiểm toán viên hành nghề đề nghị chấp thuận, trong đó nêu rõ thời gian (số tháng) thực tế hành nghề kiểm toán tại Việt Nam tính từ ngày được cơ quan có thẩm quyền xác nhận đủ Điều kiện hành nghề kiểm toán.
 
+4. Báo cáo tình hình tài chính và tình hình hoạt động của tổ chức kiểm toán trong năm trước liền kề, bao gồm:
 
-### Điều 17.2.NĐ.2.10. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
+a) Báo cáo tài chính đã được kiểm toán;
+
+b) Danh sách báo cáo kiểm toán theo quy định tại Điểm đ Khoản 1 hoặc Điểm c Khoản 2 Điều 5 Nghị định này;
+
+c) Tình hình tổ chức, hoạt động và kinh nghiệm kiểm toán của kiểm toán viên hành nghề và tổ chức kiểm toán;
+
+d) Các vi phạm pháp luật bị xử lý vi phạm hành chính của tổ chức kiểm toán (nếu có);
+
+đ) Các biến động lớn trong năm tài chính ảnh hưởng đến tổ chức, hoạt động và kết quả hoạt động kinh doanh của tổ chức kiểm toán (như tăng, giảm thành viên góp vốn; tăng, giảm vốn Điều lệ);
+
+e) Các biến động lớn trong năm liên quan đến kiểm toán viên hành nghề (như tăng, giảm kiểm toán viên hành nghề, các vi phạm đạo đức nghề nghiệp của kiểm toán viên hành nghề);
+
+g) ***(Bị bãi bỏ);***
+
+5. ***(Bị bãi bỏ);***
+
+6. Trường hợp đăng ký từ lần thứ hai trở đi, tổ chức kiểm toán không phải nộp các tài liệu quy định tại Khoản 2, Điểm c, Điểm g Khoản 4, Khoản 5 Điều này nếu không có thay đổi so với lần đăng ký gần nhất.
 
 Điều 17.2.NĐ.2.10. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
 
-**Chỉ mục:** 10
+(Điều 10 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 170020000000000060000530000000000000000000402587000840001000
+1. Từ ngày 01 tháng 10 đến ngày 20 tháng 10 hàng năm, tổ chức kiểm toán nộp 01 bộ hồ sơ theo quy định tại Điều 9 Nghị định này cho Bộ Tài chính để được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng. Trường hợp tổ chức kiểm toán đăng ký kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán thì đồng thời nộp 01 bộ hồ sơ cho Ủy ban Chứng khoán Nhà nước.
 
-**ID:** dk_00023998
+2. Trong quá trình xem xét, nếu hồ sơ chưa đúng theo quy định thì trong thời gian 10 ngày làm việc, kể từ ngày tiếp nhận hồ sơ cơ quan có thẩm quyền chấp thuận yêu cầu tổ chức kiểm toán hoàn thiện hồ sơ. Tổ chức kiểm toán phải hoàn thiện hồ sơ trước ngày 05 tháng 11. Trường hợp hồ sơ không đạt yêu cầu theo quy định thì cơ quan có thẩm quyền chấp thuận có văn bản thông báo cho tổ chức kiểm toán.
 
----
+3. Bộ Tài chính xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng trước ngày 15 tháng 11 hàng năm trên trang, cổng thông tin điện tử của mình. Tổ chức kiểm toán và kiểm toán viên hành nghề có tên trong danh sách này được thực hiện kiểm toán cho đơn vị có lợi ích công chúng quy định tại Khoản 3 Điều 4 Nghị định này.
 
+Ủy ban Chứng khoán Nhà nước xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán trước ngày 20 tháng 11 hàng năm trên trang, cổng thông tin điện tử của mình. Tổ chức kiểm toán và kiểm toán viên hành nghề có tên trong danh sách này được thực hiện kiểm toán cho đơn vị có lợi ích công chúng quy định tại Khoản 2 Điều 4 Nghị định này.
 
-### Điều 17.2.LQ.54. Chấp thuận doanh nghiệp được kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
+4. Căn cứ danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề được chấp thuận, đơn vị có lợi ích công chúng lựa chọn tổ chức kiểm toán và kiểm toán viên hành nghề để ký hợp đồng thực hiện kiểm toán cho đơn vị mình. Danh sách tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng và danh sách tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán được cập nhật khi có quyết định thay đổi của cơ quan có thẩm quyền.
 
 Điều 17.2.LQ.54. Chấp thuận doanh nghiệp được kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
 
-**Chỉ mục:** 54
+(Điều 54 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000600005400000000000000000
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải được cơ quan có thẩm quyền chấp thuận.
 
-**ID:** dk_00023999
+ 2. Bộ Tài chính quy định tiêu chuẩn, điều kiện lựa chọn, thủ tục xem xét, chấp thuận và các trường hợp đình chỉ hoặc hủy bỏ tư cách doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và kiểm toán viên hành nghề được thực hiện kiểm toán báo cáo tài chính của các đơn vị có lợi ích công chúng, trừ trường hợp pháp luật có quy định khác.Điều 17.2.TT.5.6. Điều kiện đối với tổ chức kiểm toán được chấp thuận
 
----
+(Điều 6 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
+ 1. Tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng phải có đủ các điều kiện sau đây:
 
-### Điều 17.2.TT.5.6. Điều kiện đối với tổ chức kiểm toán được chấp thuận
+ a) Có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán được Bộ Tài chính cấp còn hiệu lực;
 
-Điều 17.2.TT.5.6. Điều kiện đối với tổ chức kiểm toán được chấp thuận
+ b) Có vốn điều lệ hoặc vốn được cấp (đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam) từ 4 tỷ đồng trở lên và phải thường xuyên duy trì vốn chủ sở hữu trên bảng cân đối kế toán không thấp hơn 4 tỷ đồng. Từ kỳ chấp thuận cho năm 2016, số vốn nêu trên là 6 tỷ đồng trở lên;
 
-**Chỉ mục:** 6
+ c) Có số lượng kiểm toán viên hành nghề từ 07 người trở lên, trong đó có Giám đốc hoặc Tổng Giám đốc, có đủ các tiêu chuẩn quy định tại Điều 8 của Thông tư này. Từ kỳ chấp thuận cho năm 2016, có số lượng kiểm toán viên hành nghề từ 10 người trở lên;
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830000600
+ d) Có thời gian hoạt động kiểm toán tại Việt Nam tối thiểu là 24 tháng tính từ ngày được cơ quan có thẩm quyền xác nhận danh sách đăng ký hành nghề kiểm toán lần đầu hoặc từ ngày được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán lần đầu đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán;
 
-**ID:** dk_00024000
+ đ) Đã phát hành báo cáo kiểm toán về báo cáo tài chính cho tối thiểu 100 khách hàng tính từ ngày 01/01 của năm nộp hồ sơ đến ngày nộp hồ sơ đăng ký. Từ kỳ chấp thuận cho năm 2016, số lượng khách hàng tối thiểu này là 250 khách hàng.
 
----
+ Trường hợp tổ chức kiểm toán đã được chấp thuận trong năm nộp hồ sơ thì phải có thêm điều kiện đã phát hành báo cáo kiểm toán (hoặc báo cáo kết quả công tác soát xét) báo cáo tài chính cho tối thiểu 05 khách hàng là đơn vị có lợi ích công chúng tính từ ngày 01/01 của năm nộp hồ sơ đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán. Từ kỳ chấp thuận cho năm 2016, số lượng khách hàng tối thiểu này là 10 khách hàng;
 
+ e) Có hệ thống kiểm soát chất lượng đạt yêu cầu theo quy định của chuẩn mực kiểm toán Việt Nam;
 
-### Điều 17.2.TT.5.7. Các trường hợp tổ chức kiểm toán được chấp thuận không được thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+ g) Đã thực hiện bảo hiểm trách nhiệm nghề nghiệp hoặc trích lập quỹ dự phòng rủi ro nghề nghiệp theo quy định của Bộ Tài chính;
 
-Điều 17.2.TT.5.7. Các trường hợp tổ chức kiểm toán được chấp thuận không được thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+ h) Không thuộc các trường hợp không được xem xét, chấp thuận quy định tại Điều 12 của Thông tư này;
 
-**Chỉ mục:** 7
+ i) Nộp đầy đủ, đúng thời hạn hồ sơ đăng ký thực hiện kiểm toán theo quy định tại Điều 10 và Điều 11 của Thông tư này.
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830000700
+ 2. Tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán, ngoài việc phải đáp ứng các điều kiện quy định tại điểm a, b, e, g, h, i khoản 1 Điều này, phải có đủ các điều kiện sau đây:
 
-**ID:** dk_00024001
+ a) Có số lượng kiểm toán viên hành nghề từ 10 người trở lên, trong đó có Giám đốc hoặc Tổng Giám đốc, có đủ các tiêu chuẩn quy định tại Điều 8 của Thông tư này. Từ kỳ chấp thuận cho năm 2016, có số lượng kiểm toán viên hành nghề từ 15 người trở lên;
 
----
+ b) Có thời gian hoạt động kiểm toán tại Việt Nam tối thiểu là 36 tháng tính từ ngày được cơ quan có thẩm quyền xác nhận danh sách đăng ký hành nghề kiểm toán lần đầu hoặc từ ngày được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán lần đầu đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán;
 
+ c) Đã phát hành báo cáo kiểm toán về báo cáo tài chính cho tối thiểu 150 khách hàng tính từ ngày 01/01 của năm nộp hồ sơ đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán. Từ kỳ chấp thuận cho năm 2016, số lượng khách hàng tối thiểu này là 300 khách hàng.
 
-### Điều 17.2.TT.5.8. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
+ Trường hợp tổ chức kiểm toán đã được chấp thuận trong năm nộp hồ sơ thì phải có thêm điều kiện đã phát hành báo cáo kiểm toán (hoặc báo cáo kết quả công tác soát xét) báo cáo tài chính cho tối thiểu 10 khách hàng là đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán tính từ ngày 01/01 của năm nộp hồ sơ đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán. Từ kỳ chấp thuận cho năm 2016, số lượng khách hàng tối thiểu này là 20 khách hàng.Điều 17.2.TT.5.7. Các trường hợp tổ chức kiểm toán được chấp thuận không được thực hiện kiểm toán cho đơn vị có lợi ích công chúng
 
-Điều 17.2.TT.5.8. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
+(Điều 7 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-**Chỉ mục:** 8
+ Ngoài các trường hợp quy định tại Điều 9 của Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập, tổ chức kiểm toán được chấp thuận không được thực hiện kiểm toán cho đơn vị có lợi ích công chúng trong các trường hợp sau:
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830000800
+ 1. Tổ chức kiểm toán là khách hàng đang hưởng những điều kiện ưu đãi ngoài mức thông thường của đơn vị có lợi ích công chúng.
 
-**ID:** dk_00024002
+ 2. Người có trách nhiệm quản lý, điều hành, thành viên Ban kiểm soát, kế toán trưởng (hoặc phụ trách kế toán) của tổ chức kiểm toán là người có trách nhiệm quản lý, điều hành của đơn vị có lợi ích công chúng được kiểm toán.Điều 17.2.TT.5.8. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
 
----
+(Điều 8 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
+ Ngoài các tiêu chuẩn quy định tại Luật kiểm toán độc lập, kiểm toán viên hành nghề được chấp thuận phải có các tiêu chuẩn sau:
 
-### Điều 17.2.TT.5.9. Kỳ xem xét, chấp thuận
+ 1. Có tên trong danh sách kiểm toán viên đủ điều kiện hành nghề kiểm toán trong kỳ chấp thuận được Bộ Tài chính công khai tại thời điểm nộp hồ sơ đăng ký thực hiện kiểm toán.
 
-*Nội dung chưa có sẵn*
+ 2. Có ít nhất 24 tháng thực tế hành nghề kiểm toán tại Việt Nam tính từ ngày được cơ quan có thẩm quyền xác nhận đủ điều kiện hành nghề kiểm toán đến ngày nộp hồ sơ đăng ký thực hiện kiểm toán.Điều 17.2.TT.5.9. Kỳ xem xét, chấp thuận
 
-**Chỉ mục:** 9
+(Điều 9 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830000900
+ Việc xem xét, chấp thuận tổ chức kiểm toán và kiểm toán viên hành nghề đủ tiêu chuẩn, điều kiện kiểm toán cho đơn vị có lợi ích công chúng được thực hiện định kỳ một năm một lần. Kỳ chấp thuận được tính theo năm dương lịch từ ngày 01/01 đến ngày 31/12.Điều 17.2.TT.5.10. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
 
-**ID:** dk_00024003
+(Điều 10 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
----
+ 1. Đơn đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng (theo mẫu tại Phụ lục 01).
 
+ 2. Bản sao có chứng thực Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư và Điều lệ công ty.
 
-### Điều 17.2.TT.5.10. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+ 3. Bản sao Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
-Điều 17.2.TT.5.10. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+ 4. Danh sách kiểm toán viên hành nghề đề nghị chấp thuận, trong đó nêu rõ thời gian (số tháng) thực tế hành nghề kiểm toán tại Việt Nam tính từ ngày được cơ quan có thẩm quyền xác nhận đủ điều kiện hành nghề kiểm toán.
 
-**Chỉ mục:** 10
+ 5. Báo cáo tình hình tài chính và tình hình hoạt động của tổ chức kiểm toán trong năm trước liền kề, bao gồm:
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001000
+ a) Báo cáo tài chính đã được kiểm toán;
 
-**ID:** dk_00024004
+ b) Danh sách khách hàng theo quy định tại điểm đ khoản 1 hoặc điểm c khoản 2 Điều 6 của Thông tư này;
 
----
+ c) Tình hình tổ chức, hoạt động và kinh nghiệm kiểm toán của kiểm toán viên hành nghề và tổ chức kiểm toán;
 
+ d) Các vi phạm pháp luật bị xử lý vi phạm hành chính của tổ chức kiểm toán (nếu có);
 
-### Điều 17.2.TT.5.11. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
+ đ) Các biến động lớn trong năm tài chính ảnh hưởng đến tổ chức, hoạt động và kết quả hoạt động kinh doanh của tổ chức kiểm toán (như tăng, giảm thành viên góp vốn; tăng, giảm vốn điều lệ);
 
-Điều 17.2.TT.5.11. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
+ e) Các biến động lớn trong năm liên quan đến kiểm toán viên hành nghề (như tăng, giảm kiểm toán viên hành nghề, các vi phạm đạo đức nghề nghiệp của kiểm toán viên hành nghề);
 
-**Chỉ mục:** 11
+ g) Bản mô tả về việc xây dựng và duy trì hệ thống kiểm soát chất lượng theo quy định của chuẩn mực kiểm toán.
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001100
+ 6. Bản sao chứng thực hợp đồng hoặc giấy chứng nhận bảo hiểm trách nhiệm nghề nghiệp đang còn hiệu lực trong trường hợp tổ chức kiểm toán không trích lập quỹ dự phòng rủi ro nghề nghiệp.
 
-**ID:** dk_00024005
+ 7. Trường hợp đăng ký từ lần thứ hai trở đi, tổ chức kiểm toán không phải nộp các tài liệu quy định tại khoản 2, khoản 3, điểm c, điểm g khoản 5, khoản 6 Điều này nếu không có thay đổi so với lần đăng ký gần nhất.Điều 17.2.TT.5.11. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
 
----
+(Điều 11 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
+ 1. Từ ngày 01/10 đến ngày 20/10 hàng năm, tổ chức kiểm toán nộp 01 bộ hồ sơ theo quy định tại Điều 10 của Thông tư này cho Bộ Tài chính để được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng. Trường hợp tổ chức kiểm toán đăng ký kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán thì đồng thời nộp 01 bộ hồ sơ cho Uỷ ban Chứng khoán Nhà nước.
 
-### Điều 17.2.TT.5.12. Các trường hợp không được xem xét, chấp thuận
+ 2. Trong quá trình xem xét, nếu hồ sơ chưa đúng theo quy định thì trong thời gian 10 ngày kể từ ngày tiếp nhận hồ sơ cơ quan có thẩm quyền chấp thuận yêu cầu tổ chức kiểm toán hoàn thiện hồ sơ. Tổ chức kiểm toán phải hoàn thiện hồ sơ trước ngày 05/11. Trường hợp hồ sơ không đạt yêu cầu theo quy định thì cơ quan có thẩm quyền chấp thuận có văn bản thông báo cho tổ chức kiểm toán.
 
-Điều 17.2.TT.5.12. Các trường hợp không được xem xét, chấp thuận
+ 3. Bộ Tài chính xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng (theo mẫu tại Phụ lục 02a, Phụ lục 02b) trước ngày 15/11 hàng năm trên trang, cổng thông tin điện tử của mình. Tổ chức kiểm toán và kiểm toán viên hành nghề có tên trong danh sách này được thực hiện kiểm toán cho đơn vị có lợi ích công chúng quy định tại khoản 2 Điều 4 của Thông tư này.
 
-**Chỉ mục:** 12
+ Uỷ ban Chứng khoán Nhà nước xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán trước ngày 20/11 hàng năm trên trang, cổng thông tin điện tử của mình. Tổ chức kiểm toán và kiểm toán viên hành nghề có tên trong danh sách này được thực hiện kiểm toán cho đơn vị có lợi ích công chúng quy định tại khoản 1 Điều 4 của Thông tư này.
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001200
+ 4. Căn cứ danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề được chấp thuận, đơn vị có lợi ích công chúng lựa chọn tổ chức kiểm toán và kiểm toán viên hành nghề để ký hợp đồng thực hiện kiểm toán cho đơn vị mình. Danh sách tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng và danh sách tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán được cập nhật khi có quyết định thay đổi của cơ quan có thẩm quyền.Điều 17.2.TT.5.12. Các trường hợp không được xem xét, chấp thuận
 
-**ID:** dk_00024006
+(Điều 12 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
----
+ 1. Các trường hợp không được xem xét, chấp thuận bao gồm:
 
+ a) Tổ chức kiểm toán đang bị đình chỉ hoạt động kinh doanh dịch vụ kiểm toán theo quy định của pháp luật về kiểm toán độc lập;
 
-### Điều 17.2.TT.5.13. Đình chỉ hoặc hủy bỏ tư cách được chấp thuận kiểm toán
+ b) Tổ chức kiểm toán không sửa chữa, khắc phục kịp thời các sai phạm theo kiến nghị của cơ quan Nhà nước có thẩm quyền;
 
-Điều 17.2.TT.5.13. Đình chỉ hoặc hủy bỏ tư cách được chấp thuận kiểm toán
+ c) Tổ chức kiểm toán có những khiếu kiện về kết quả kiểm toán và đã được cơ quan nhà nước có thẩm quyền kết luận là có sai phạm;
 
-**Chỉ mục:** 13
+ d) Tổ chức kiểm toán có chất lượng kiểm toán không đạt yêu cầu theo kết quả kiểm tra hoặc kết luận của cơ quan, tổ chức có thẩm quyền trong năm được xem xét;
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001300
+ đ) Kiểm toán viên hành nghề phụ trách hồ sơ kiểm toán có chất lượng kiểm toán không đạt yêu cầu theo kết quả kiểm tra hoặc kết luận của cơ quan, tổ chức có thẩm quyền trong năm được xem xét;
 
-**ID:** dk_00024007
+ e) Tổ chức kiểm toán, kiểm toán viên hành nghề có hành vi vi phạm pháp luật liên quan đến hành nghề kiểm toán và đã bị cơ quan có thẩm quyền xử lý vi phạm hành chính theo quy định của pháp luật trong năm được xem xét;
 
----
+ g) Tổ chức kiểm toán, kiểm toán viên hành nghề giả mạo, khai man trong việc kê khai các thông tin trong hồ sơ đăng ký tham gia kiểm toán;
 
+ h) Tổ chức kiểm toán, kiểm toán viên hành nghề không giải trình, giải trình không đạt yêu cầu hoặc không cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán theo yêu cầu của cơ quan nhà nước có thẩm quyền;
 
-### Điều 17.2.TT.5.14. Nghĩa vụ của tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận
+ i) Tổ chức kiểm toán, kiểm toán viên hành nghề bị hủy bỏ tư cách được chấp thuận kiểm toán trong thời gian chưa quá 24 tháng kể từ ngày bị hủy bỏ;
 
-Điều 17.2.TT.5.14. Nghĩa vụ của tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận
+ k) Tổ chức kiểm toán, kiểm toán viên hành nghề không thực hiện thông báo, báo cáo theo quy định của pháp luật về kiểm toán độc lập;
 
-**Chỉ mục:** 14
+ l) Các trường hợp khác theo quy định của pháp luật.
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001400
+ 2. Tổ chức kiểm toán, kiểm toán viên hành nghề thuộc một trong các trường hợp quy định tại điểm d, đ, g, h khoản 1 Điều này thì sau 12 tháng, kể từ ngày có quyết định xử lý của cơ quan có thẩm quyền, mới được xem xét, chấp thuận.
 
-**ID:** dk_00024008
+ 3. Tổ chức kiểm toán, kiểm toán viên hành nghề không đăng ký thực hiện kiểm toán hoặc có đăng ký nhưng không được chấp thuận không được tiếp tục thực hiện các hợp đồng kiểm toán và các dịch vụ đảm bảo khác đã ký và không được ký thêm các hợp đồng mới với đơn vị có lợi ích công chúng.Điều 17.2.TT.5.13. Đình chỉ hoặc hủy bỏ tư cách được chấp thuận kiểm toán
 
----
+(Điều 13 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
+ 1. Tổ chức kiểm toán, kiểm toán viên hành nghề bị đình chỉ tư cách được chấp thuận kiểm toán trong các trường hợp sau:
 
-### Điều 17.2.TT.5.15. Giám sát, kiểm tra chất lượng
+ a) Tổ chức kiểm toán được chấp thuận kiểm toán tự nguyện rút đơn đăng ký thực hiện kiểm toán;
 
-*Nội dung chưa có sẵn*
+ b) Vi phạm các nghĩa vụ quy định tại khoản 4, 5, 6, 7 Điều 14 của Thông tư này;
 
-**Chỉ mục:** 15
+ c) Chất lượng kiểm toán không đạt yêu cầu theo kết quả kiểm tra hoặc kết luận của cơ quan, tổ chức có thẩm quyền trên cơ sở chuẩn mực kế toán, chế độ kế toán, chuẩn mực kiểm toán và các quy định pháp luật có liên quan;
 
-**Mã phân cấp:** 170020000000000060000540000000000000000000802493001830001500
+ d) Tổ chức kiểm toán không có đủ số lượng kiểm toán viên hành nghề được chấp thuận theo quy định tại điểm c khoản 1 hoặc điểm a khoản 2 Điều 6 của Thông tư này trong vòng 03 tháng liên tục;
 
-**ID:** dk_00024009
+ đ) Tổ chức kiểm toán có những khiếu kiện về kết quả kiểm toán đã được cơ quan có thẩm quyền kết luận là có sai phạm;
 
----
+ e) Tổ chức kiểm toán bị đình chỉ kinh doanh dịch vụ kiểm toán theo quy định của pháp luật về kiểm toán độc lập;
 
+ g) Kiểm toán viên hành nghề có những khiếu kiện về kết quả kiểm toán đã được cơ quan có thẩm quyền kết luận là có sai phạm;
 
-### Điều 17.2.LQ.55. Công khai thông tin của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
+ h) Kiểm toán viên hành nghề bị đình chỉ hành nghề kiểm toán theo quy định của pháp luật về kiểm toán độc lập hoặc Giấy chứng nhận đăng ký hành nghề kiểm toán của kiểm toán viên hành nghề bị hết hiệu lực hoặc không còn giá trị.
 
-Điều 17.2.LQ.55. Công khai thông tin của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
+ 2. Tổ chức kiểm toán, kiểm toán viên hành nghề bị đình chỉ tư cách được chấp thuận kiểm toán kể từ ngày quyết định đình chỉ có hiệu lực và theo thời hạn ghi trong quyết định đình chỉ.
 
-**Chỉ mục:** 55
+ 3. Tổ chức kiểm toán, kiểm toán viên hành nghề bị hủy bỏ tư cách được chấp thuận kiểm toán trong các trường hợp sau:
 
-**Mã phân cấp:** 1700200000000000600005500000000000000000
+ a) Tổ chức kiểm toán bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán, hoặc bị thu hồi Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư; Kiểm toán viên hành nghề bị thu hồi Chứng chỉ kiểm toán viên, Giấy chứng nhận đăng ký hành nghề kiểm toán;
 
-**ID:** dk_00024010
+ b) Vi phạm nghiêm trọng (như vi phạm nhiều lần, vi phạm có hệ thống) các nghĩa vụ quy định tại khoản 4, 5, 6, 7 Điều 14 của Thông tư này;
 
----
+ c) Vi phạm các quy định tại Điều 7 của Thông tư này.
 
+ 4. Tổ chức kiểm toán, kiểm toán viên hành nghề bị hủy bỏ tư cách được chấp thuận kiểm toán chỉ được xem xét chấp thuận lại sau 24 tháng kể từ ngày bị hủy bỏ tư cách được chấp thuận.
 
-### Điều 17.2.LQ.56. Báo cáo minh bạch
+ 5. Tổ chức kiểm toán, kiểm toán viên hành nghề bị đình chỉ hoặc bị hủy bỏ tư cách được chấp thuận kiểm toán không được tiếp tục thực hiện các hợp đồng kiểm toán và các dịch vụ bảo đảm khác đã ký, không được ký thêm các hợp đồng mới với đơn vị có lợi ích công chúng kể từ ngày quyết định đình chỉ tư cách hoặc hủy bỏ tư cách có hiệu lực.Điều 17.2.TT.5.14. Nghĩa vụ của tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận
 
-*Nội dung chưa có sẵn*
+(Điều 14 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-**Chỉ mục:** 56
+ 1. Tuân thủ các nghĩa vụ quy định tại Điều 18 và Điều 29 của Luật kiểm toán độc lập.
 
-**Mã phân cấp:** 1700200000000000600005600000000000000000
+ 2. Nắm vững và thường xuyên cập nhật các quy định của pháp luật có liên quan đến báo cáo tài chính của đơn vị được kiểm toán.
 
-**ID:** dk_00024011
+ 3. Thực hiện kiểm toán và phát hành báo cáo kiểm toán cho đơn vị có lợi ích công chúng trong kỳ được chấp thuận quy định tại Điều 9 của Thông tư này.
 
----
+ 4. Giải trình, cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán theo yêu cầu của cơ quan Nhà nước có thẩm quyền.
 
+ 5. Trong quá trình kiểm toán, nếu phát hiện đơn vị được kiểm toán không tuân thủ pháp luật và các quy định liên quan đến lập và trình bày báo cáo tài chính được kiểm toán thì phải thông báo bằng văn bản và kiến nghị đơn vị được kiểm toán có biện pháp ngăn ngừa, sửa chữa và xử lý sai phạm. Trường hợp đơn vị được kiểm toán không sửa chữa và xử lý sai phạm thì phải ghi ý kiến vào báo cáo kiểm toán hoặc thư quản lý theo quy định của chuẩn mực kiểm toán. Sau khi phát hành báo cáo kiểm toán, nếu nghi ngờ hoặc phát hiện đơn vị được kiểm toán có những sai phạm trọng yếu do không tuân thủ pháp luật và các quy định liên quan đến báo cáo tài chính đã được kiểm toán thì phải thông báo bằng văn bản cho đơn vị được kiểm toán và người thứ ba theo quy định của chuẩn mực kiểm toán Việt Nam và thông báo cho cơ quan có thẩm quyền chấp thuận.
 
-### Điều 17.2.TT.5.16. Báo cáo minh bạch
+ 6. Thực hiện đầy đủ và kịp thời việc phát hành thư quản lý để thông báo cho đơn vị được kiểm toán về:
 
-*Nội dung chưa có sẵn*
+ a) Những nội dung quan trọng phát hiện trong quá trình kiểm toán, đặc biệt là những khiếm khuyết nghiêm trọng trong kiểm soát nội bộ liên quan đến lập và trình bày báo cáo tài chính;
 
-**Chỉ mục:** 16
+ b) Việc bị giới hạn phạm vi kiểm toán dẫn đến việc đưa ra ý kiến ngoại trừ trong báo cáo kiểm toán mà giới hạn này có nguyên nhân từ khách hàng, đơn vị được kiểm toán;
 
-**Mã phân cấp:** 170020000000000060000560000000000000000000802493001830001600
+ c) Việc đơn vị được kiểm toán không đồng ý điều chỉnh các sai sót trọng yếu trong báo cáo tài chính theo đề nghị của tổ chức kiểm toán dẫn đến việc đưa ra ý kiến ngoại trừ trong báo cáo kiểm toán;
 
-**ID:** dk_00024012
+ d) Những hành vi không tuân thủ pháp luật liên quan đến lập và trình bày báo cáo tài chính có thể gây ra sai sót trọng yếu trong báo cáo tài chính.
 
----
+ Đối với những nội dung quy định tại điểm d khoản này thì đồng thời phải thông báo bằng văn bản cho đại diện chủ sở hữu (Chủ tịch công ty, Hội đồng quản trị, Hội đồng thành viên và đại diện chủ sở hữu khác (nếu có) theo quy định của pháp luật) của đơn vị được kiểm toán và cơ quan có thẩm quyền chấp thuận chậm nhất không quá 30 ngày kể từ ngày kiểm toán viên và tổ chức kiểm toán có văn bản kết luận chính thức về ý kiến kiểm toán hoặc kể từ ngày kiểm toán viên hành nghề và tổ chức kiểm toán có đủ cơ sở hợp lý để xác định đơn vị được kiểm toán có hành vi không tuân thủ pháp luật.
 
+ 7. Không được giao một phần hoặc toàn bộ công việc kiểm toán đơn vị có lợi ích công chúng cho tổ chức kiểm toán không được chấp thuận thực hiện, trừ trường hợp sử dụng công việc của chuyên gia theo quy định của chuẩn mực kiểm toán. Trường hợp thực hiện hoạt động liên danh, liên kết trong việc kiểm toán cho đơn vị có lợi ích công chúng thì chỉ được thực hiện giữa các tổ chức kiểm toán được chấp thuận.
 
-### Điều 17.2.LQ.57. Trách nhiệm của đơn vị có lợi ích công chúng
+ 8. Báo cáo cho cơ quan có thẩm quyền chấp thuận khi thay đổi tên gọi, trụ sở, lĩnh vực hành nghề, danh sách kiểm toán viên hành nghề và các thay đổi dẫn đến việc không còn đủ điều kiện được chấp thuận kiểm toán trong vòng 10 ngày kể từ khi có thay đổi.
 
-Điều 17.2.LQ.57. Trách nhiệm của đơn vị có lợi ích công chúng
+ 9. Xây dựng và vận hành hệ thống kiểm soát chất lượng nội bộ theo quy định của Bộ Tài chính.
 
-**Chỉ mục:** 57
+ 10. Thực hiện đầy đủ, kịp thời các kiến nghị về các tồn tại, sai sót phát hiện trong các cuộc kiểm tra, soát xét chất lượng.
 
-**Mã phân cấp:** 1700200000000000600005700000000000000000
+ 11. Bảo mật thông tin theo quy định của pháp luật.
 
-**ID:** dk_00024013
+ 12. Thực hiện các nghĩa vụ khác theo quy định của pháp luật.Điều 17.2.TT.5.15. Giám sát, kiểm tra chất lượng
 
----
+(Điều 15 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
+ 1. Cơ quan có thẩm quyền trong phạm vi chức năng của mình thực hiện việc kiểm tra, soát xét báo cáo tài chính đã được kiểm toán của đơn vị có lợi ích công chúng.
 
-### Điều 17.2.TT.5.17. Trách nhiệm của đơn vị có lợi ích công chúng
+ 2. Bộ Tài chính giám sát, kiểm tra đối với tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng. Uỷ ban Chứng khoán Nhà nước trực tiếp giám sát, kiểm tra đối với tổ chức kiểm toán được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán.
 
-Điều 17.2.TT.5.17. Trách nhiệm của đơn vị có lợi ích công chúng
+ 3. Nội dung giám sát, kiểm tra:
 
-**Chỉ mục:** 17
+ a) Giám sát điều kiện được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng của các tổ chức kiểm toán trong kỳ được chấp thuận;
 
-**Mã phân cấp:** 170020000000000060000570000000000000000000802493001830001700
+ b) Giám sát việc công bố thông tin trong báo cáo minh bạch theo quy định tại Điều 16 của Thông tư này;
 
-**ID:** dk_00024014
+ c) Chủ trì, phối hợp với Hội kiểm toán viên hành nghề Việt Nam tiến hành kiểm tra chất lượng dịch vụ kiểm toán đối với các tổ chức kiểm toán được chấp thuận;
 
----
+ d) Xử lý và công khai kết quả xử lý trên trang thông tin điện tử của mình các sai phạm phát hiện qua kiểm tra chất lượng dịch vụ kiểm toán của tổ chức kiểm toán được chấp thuận.
 
+ 4. Việc kiểm tra chất lượng kiểm toán được thực hiện theo quy định về kiểm soát chất lượng dịch vụ kiểm toán. Ngoài kiểm tra định kỳ, có thể kiểm tra đột xuất nếu tổ chức kiểm toán được chấp thuận có dấu hiệu vi phạm pháp luật, vi phạm chuẩn mực kế toán, chuẩn mực kiểm toán.
 
-### Điều 17.2.LQ.58. Tính độc lập, khách quan
+ 5. Phạm vi kiểm tra chất lượng dịch vụ kiểm toán, bao gồm: Kiểm tra hệ thống kiểm soát chất lượng dịch vụ của tổ chức kiểm toán được chấp thuận, kiểm tra các hồ sơ kiểm toán; kiểm tra, đánh giá việc tuân thủ chuẩn mực kiểm toán và các yêu cầu về tính độc lập, đạo đức nghề nghiệp.
 
-*Nội dung chưa có sẵn*
+ 6. Sau mỗi cuộc kiểm tra phải lập báo cáo kết quả kiểm tra. Báo cáo kết quả kiểm tra phải nêu từng bước của quá trình kiểm tra, nội dung và các phần hành của công việc kiểm tra, các thủ tục kiểm tra đã thực hiện, kết luận về kết quả kiểm tra, các tồn tại và kiến nghị sửa chữa, khắc phục.
 
-**Chỉ mục:** 58
+ 7. Trường hợp cần thiết cơ quan có thẩm quyền lập hội đồng chuyên môn để tư vấn cho việc xem xét, xử lý sai phạm của tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận và đơn vị có lợi ích công chúng.Điều 17.2.LQ.55. Công khai thông tin của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
 
-**Mã phân cấp:** 1700200000000000600005800000000000000000
+(Điều 55 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**ID:** dk_00024015
+ Thông tin về doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải công khai bao gồm:
 
----
+ 1. Thông tin về kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam;
 
+ 2. Thông tin liên quan đến bảo đảm chất lượng;
 
-### Điều 17.2.LQ.59. Các hành vi vi phạm pháp luật về kiểm toán độc lập
+ 3. Thông tin liên quan đến việc thanh tra, xử lý kỷ luật, xử lý vi phạm, giải quyết tranh chấp và giám sát công khai.Điều 17.2.LQ.56. Báo cáo minh bạch
+
+(Điều 56 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
+
+ 1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam đủ tiêu chuẩn, điều kiện được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải công khai trên trang thông tin điện tử của mình báo cáo minh bạch hàng năm trong thời hạn chín mươi ngày, kể từ ngày kết thúc năm tài chính.
+
+ 2. Báo cáo minh bạch phải có chữ ký của người đại diện theo pháp luật của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
+ 3. Bộ Tài chính quy định chi tiết nội dung báo cáo minh bạch quy định tại khoản 1 Điều này.Điều 17.2.TT.5.16. Báo cáo minh bạch
+
+(Điều 16 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
+
+ 1. Trong thời hạn 90 ngày kể từ ngày kết thúc năm tài chính, tổ chức kiểm toán được chấp thuận phải công khai trên trang, cổng thông tin điện tử của mình báo cáo minh bạch hàng năm (theo mẫu tại Phụ lục 03) trong thời gian tối thiểu 12 tháng.
+
+ 2. Báo cáo minh bạch phải được cập nhật thường xuyên các thông tin trong vòng 30 ngày kể từ khi có thay đổi.Điều 17.2.LQ.57. Trách nhiệm của đơn vị có lợi ích công chúng
+
+(Điều 57 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
+
+ 1. Xây dựng và vận hành hệ thống kiểm soát nội bộ phù hợp và có hiệu quả.
+
+ 2. Tổ chức kiểm toán nội bộ theo quy định của pháp luật để bảo vệ an toàn tài sản; đánh giá chất lượng và độ tin cậy của thông tin kinh tế, tài chính, việc chấp hành pháp luật, chế độ, chính sách của Nhà nước và quy định của đơn vị.Điều 17.2.TT.5.17. Trách nhiệm của đơn vị có lợi ích công chúng
+
+(Điều 17 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
+
+ 1. Lựa chọn tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận để thực hiện việc kiểm toán các báo cáo quy định tại Điều 5 của Thông tư này.
+
+ 2. Không được lựa chọn tổ chức kiểm toán được chấp thuận khác đưa ra ý kiến về báo cáo tài chính khi báo cáo tài chính đó đã được một tổ chức kiểm toán được chấp thuận thực hiện kiểm toán, trừ trường hợp được phép theo quy định của pháp luật.
+
+ 3. Chấm dứt việc thực hiện hợp đồng kiểm toán đã ký với tổ chức kiểm toán được chấp thuận trong trường hợp tổ chức kiểm toán đó bị đình chỉ hoặc bị hủy bỏ tư cách được chấp thuận kiểm toán hoặc trong trường hợp tổ chức kiểm toán đó không còn là tổ chức kiểm toán được chấp thuận. Lựa chọn tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận khác để thực hiện kiểm toán các báo cáo quy định tại Điều 5 của Thông tư này.
+
+ 4. Yêu cầu tổ chức kiểm toán được chấp thuận thay đổi kiểm toán viên hành nghề trong trường hợp kiểm toán viên hành nghề đó bị đình chỉ hoặc bị hủy bỏ tư cách được chấp thuận kiểm toán hoặc trong trường hợp kiểm toán viên hành nghề đó không còn là kiểm toán viên hành nghề được chấp thuận.
+
+ 5. Báo cáo với cơ quan có thẩm quyền chấp thuận tổ chức kiểm toán thực hiện kiểm toán cho đơn vị mình lý do thay đổi tổ chức kiểm toán được chấp thuận so với năm trước liền kề và lý do thay đổi tổ chức kiểm toán được chấp thuận đang thực hiện kiểm toán (nếu có).
+
+ 6. Thông báo với cơ quan có thẩm quyền chấp thuận tổ chức kiểm toán thực hiện kiểm toán cho đơn vị mình khi phát hiện kiểm toán viên hành nghề và tổ chức kiểm toán được chấp thuận vi phạm pháp luật về kiểm toán độc lập.
+
+ 7. Giải trình hoặc cung cấp thông tin, số liệu liên quan đến các báo cáo tài chính đã được kiểm toán theo yêu cầu của cơ quan có thẩm quyền.
+
+ 8. Thực hiện đầy đủ các nghĩa vụ quy định tại Điều 39 và trách nhiệm quy định tại Điều 57 của Luật kiểm toán độc lập và các quy định khác của pháp luật hiện hành về kiểm toán độc lập.Điều 17.2.LQ.58. Tính độc lập, khách quan
+
+(Điều 58 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
+
+1. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được bố trí kiểm toán viên hành nghề thực hiện kiểm toán cho một đơn vị có lợi ích công chúng quá năm năm liên tục. Bộ Tài chính quy định thời gian ngừng để kiểm toán viên hành nghề tiếp tục thực hiện kiểm toán cho cùng một đơn vị có lợi ích công chúng.
+
+2. Kiểm toán viên hành nghề đã thực hiện kiểm toán cho đơn vị có lợi ích công chúng chỉ được giữ vị trí quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng của đơn vị có lợi ích công chúng đó sau mười hai tháng, kể từ ngày kết thúc cuộc kiểm toán.
+
+Chương VII
+
+XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT TRANH CHẤP
 
 Điều 17.2.LQ.59. Các hành vi vi phạm pháp luật về kiểm toán độc lập
 
-**Chỉ mục:** 59
+(Điều 59 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000700005900000000000000000
+ Các hành vi vi phạm pháp luật về kiểm toán độc lập gồm có:
 
-**ID:** dk_00024017
+ 1. Kinh doanh dịch vụ kiểm toán mà không có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán hoặc không đúng với nội dung của Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
 
----
+ 2. Cá nhân ký báo cáo kiểm toán khi không đủ điều kiện là kiểm toán viên hành nghề;
 
+ 3. Vi phạm quy định về đăng ký kinh doanh dịch vụ kiểm toán, đăng ký hành nghề kiểm toán;
 
-### Điều 17.2.LQ.60. Xử lý vi phạm pháp luật về kiểm toán độc lập
+ 4. Vi phạm quy định về kiểm tra, kiểm soát chất lượng dịch vụ kiểm toán của Bộ Tài chính;
 
-Điều 17.2.LQ.60. Xử lý vi phạm pháp luật về kiểm toán độc lập
+ 5. Vi phạm quy định đối với kiểm toán báo cáo tài chính của các đơn vị có lợi ích công chúng;
 
-**Chỉ mục:** 60
+ 6. Vi phạm nguyên tắc bảo mật thông tin có liên quan đến hồ sơ kiểm toán, khách hàng, đơn vị được kiểm toán;
 
-**Mã phân cấp:** 1700200000000000700006000000000000000000
+ 7. Thực hiện hành vi bị nghiêm cấm quy định tại Điều 13 của Luật này;
 
-**ID:** dk_00024018
+ 8. Vi phạm quy định về trường hợp không được thực hiện dịch vụ kiểm toán quy định tại Điều 19 và Điều 30 của Luật này;
 
----
+ 9. Kinh doanh dịch vụ kiểm toán khi không có đủ số lượng kiểm toán viên hành nghề theo quy định của Luật này; vi phạm quy định về vốn pháp định, mua bảo hiểm trách nhiệm nghề nghiệp hoặc lập quỹ dự phòng rủi ro nghề nghiệp;
 
+ 10. Do thiếu cẩn trọng dẫn đến sai sót hoặc làm sai lệch kết quả kiểm toán, hồ sơ kiểm toán;
 
-### Điều 17.2.LQ.61. Giải quyết tranh chấp về kiểm toán độc lập
+ 11. Cố tình xác nhận báo cáo tài chính có gian lận, sai sót hoặc thông đồng, móc nối để làm sai lệch tài liệu kế toán, hồ sơ kiểm toán và cung cấp thông tin, số liệu báo cáo sai sự thật;
+
+ 12. Vi phạm quy định về lập, thu thập, phân loại, sử dụng, bảo quản, lưu trữ hồ sơ kiểm toán và hồ sơ tài liệu về các dịch vụ khác có liên quan;
+
+ 13. Kê khai không đúng thực tế để được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán và Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
+
+ 14. Gian lận để được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán và Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán;
+
+ 15. Giả mạo, tẩy xóa, sửa chữa Giấy chứng nhận đăng ký hành nghề kiểm toán và Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+ 16. Vi phạm nguyên tắc hoạt động kiểm toán độc lập;
+
+ 17. Báo cáo không đúng sự thật hoặc không thực hiện chế độ báo cáo theo quy định;
+
+ 18. Đơn vị được kiểm toán vi phạm quy định tại các khoản 1, 2, 3 và 4 Điều 39 của Luật này.
+
+ 19. Hành vi khác vi phạm pháp luật về kiểm toán độc lập.Điều 17.2.LQ.60. Xử lý vi phạm pháp luật về kiểm toán độc lập
+
+(Điều 60 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Luật số 56/2024/QH15 có hiệu lực thi hành kể từ ngày 01/01/2025)
+
+1. Tổ chức, cá nhân có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm bị xử phạt vi phạm hành chính, bị truy cứu trách nhiệm hình sự, chịu các biện pháp quản lý nhà nước theo quy định của Luật này, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+
+2. Mức phạt tiền vi phạm hành chính trong lĩnh vực kiểm toán độc lập tối đa là 02 tỷ đồng đối với tổ chức, 01 tỷ đồng đối với cá nhân. Thời hiệu xử phạt vi phạm hành chính trong lĩnh vực kiểm toán độc lập là năm năm.
+
+3. Chính phủ quy định việc xử lý vi phạm hành chính trong lĩnh vực kiểm toán độc lập.
 
 Điều 17.2.LQ.61. Giải quyết tranh chấp về kiểm toán độc lập
 
-**Chỉ mục:** 61
+(Điều 61 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Mã phân cấp:** 1700200000000000700006100000000000000000
+ 1. Tranh chấp về kiểm toán độc lập được giải quyết như sau:
 
-**ID:** dk_00024019
+ a) Các bên có trách nhiệm tự hòa giải về nội dung tranh chấp;
 
----
+ b) Trường hợp hòa giải không thành thì các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật.
 
+ 2. Thời hiệu khởi kiện yêu cầu giải quyết tranh chấp về kiểm toán độc lập là ba năm, kể từ ngày ký báo cáo kiểm toán.Chương VIII
 
-### Điều 17.2.TT.13.28. Hiệu lực thi hành
+ĐIỀU KHOẢN THI HÀNH
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.13.28. Hiệu lực thi hành
 
-**Chỉ mục:** 28
+(Điều 28 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
-**Mã phân cấp:** 1700200000000000800002800000000000000000
+Thông tư này có hiệu lực kể từ ngày 15 tháng 10 năm 2017 và thay thế Thông tư số [129/2012/TT-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/thong-tu-129-2012-tt-btc-quy-dinh-thi-cap-chung-chi-kiem-toan-vien-145902.aspx) ngày 09/8/2012 của Bộ Tài chính quy định về việc thi và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán.
 
-**ID:** dk_00024021
+Điều 17.2.TT.13.29. Tổ chức thực hiện
 
----
+(Điều 29 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
+Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Vụ trưởng Vụ Tổ chức cán bộ, Chủ tịch Hội đồng thi kiểm toán viên, kế toán viên, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-### Điều 17.2.TT.13.29. Tổ chức thực hiện
+Điều 17.2.LQ.62. Điều khoản chuyển tiếp
 
-*Nội dung chưa có sẵn*
+(Điều 62 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-**Chỉ mục:** 29
+ 1. Trong thời hạn hai năm, kể từ ngày Luật này có hiệu lực, doanh nghiệp cung cấp dịch vụ kiểm toán trước ngày Luật này có hiệu lực bảo đảm các điều kiện theo quy định của Luật này được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
-**Mã phân cấp:** 1700200000000000800002900000000000000000
+ 2. Trong thời hạn ba năm, kể từ ngày Luật này có hiệu lực, người đã được cấp chứng chỉ kiểm toán viên trước ngày Luật này có hiệu lực được đăng ký hành nghề kiểm toán theo quy định của Luật này mà không cần bảo đảm điều kiện về thời gian thực tế làm kiểm toán quy định tại điểm b khoản 1 Điều 15 của Luật này.
 
-**ID:** dk_00024022
+ 3. Doanh nghiệp kiểm toán trách nhiệm hữu hạn một thành viên có vốn đầu tư nước ngoài được thành lập và hoạt động theo quy định của pháp luật trước ngày Luật này có hiệu lực được phép hoạt động theo hình thức công ty trách nhiệm hữu hạn một thành viên đến hết thời hạn của Giấy chứng nhận đầu tư hoặc Giấy phép đầu tư.Điều 17.2.LQ.63. Hiệu lực thi hành
 
----
+(Điều 63 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
+ Luật này có hiệu lực thi hành từ ngày 01 tháng 01 ngày 2012.Điều 17.2.LQ.64. Quy định chi tiết và hướng dẫn thi hành
 
-### Điều 17.2.LQ.62. Điều khoản chuyển tiếp
+(Điều 64 Luật số 67/2011/QH12, có hiệu lực thi hành kể từ ngày 01/01/2012)
 
-*Nội dung chưa có sẵn*
+ Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác trong Luật này để đáp ứng yêu cầu quản lý nhà nước./.
 
-**Chỉ mục:** 62
+ *Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 9 thông qua ngày 29 tháng 3 ngày 2011.*Điều 17.2.NĐ.1.22. Quy định chuyển tiếp
 
-**Mã phân cấp:** 1700200000000000800006200000000000000000
+(Điều 22 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**ID:** dk_00024023
+Trong thời hạn 02 (hai) năm, kể từ ngày Luật kiểm toán độc lập có hiệu lực, doanh nghiệp cung cấp dịch vụ kiểm toán trước ngày Luật Kiểm toán độc lập có hiệu lực phải bảo đảm các điều kiện theo quy định của Luật Kiểm toán độc lập và các quy định tại Nghị định này để được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
 
----
+Trước 30 ngày kể từ ngày hết thời hạn hai năm chuyển tiếp doanh nghiệp kiểm toán phải làm hồ sơ đề nghị Bộ Tài chính cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán theo quy định của Luật Kiểm toán độc lập và các văn bản hướng dẫn.
 
+Điều 17.2.NĐ.1.23. Hiệu lực thi hành
 
-### Điều 17.2.LQ.63. Hiệu lực thi hành
+(Điều 23 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-*Nội dung chưa có sẵn*
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2012.
 
-**Chỉ mục:** 63
+Điều 17.2.NĐ.1.24. Trách nhiệm thi hành
 
-**Mã phân cấp:** 1700200000000000800006300000000000000000
+(Điều 24 Nghị định số 17/2012/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2012)
 
-**ID:** dk_00024024
-
----
-
-
-### Điều 17.2.LQ.64. Quy định chi tiết và hướng dẫn thi hành
-
-Điều 17.2.LQ.64. Quy định chi tiết và hướng dẫn thi hành
-
-**Chỉ mục:** 64
-
-**Mã phân cấp:** 1700200000000000800006400000000000000000
-
-**ID:** dk_00024025
-
----
-
-
-### Điều 17.2.NĐ.1.22. Quy định chuyển tiếp
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 22
-
-**Mã phân cấp:** 1700200000000000800006500000000000000000
-
-**ID:** dk_00024026
-
----
-
-
-### Điều 17.2.NĐ.1.23. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 23
-
-**Mã phân cấp:** 1700200000000000800006600000000000000000
-
-**ID:** dk_00024027
-
----
-
-
-### Điều 17.2.NĐ.1.24. Trách nhiệm thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 24
-
-**Mã phân cấp:** 1700200000000000800006700000000000000000
-
-**ID:** dk_00024028
-
----
-
-
-### Điều 17.2.NĐ.2.11. Hiệu lực thi hành và trách nhiệm thi hành
+Bộ trưởng Bộ Tài chính có trách nhiệm hướng dẫn thực hiện Nghị định này; các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
 
 Điều 17.2.NĐ.2.11. Hiệu lực thi hành và trách nhiệm thi hành
 
-**Chỉ mục:** 11
+(Điều 11 Nghị định số 84/2016/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/07/2016)
 
-**Mã phân cấp:** 1700200000000000800006800000000000000000
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016.
 
-**ID:** dk_00024029
+2. Bộ trưởng Bộ Tài chính có trách nhiệm hướng dẫn thực hiện Nghị định này. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./
 
----
+Điều 17.2.TT.1.19. Điều khoản chuyển tiếp
 
+(Điều 19 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-### Điều 17.2.TT.1.19. Điều khoản chuyển tiếp
+1. Kiểm toán viên cập nhật kiến thức năm 2012 được tính giờ cập nhật kiến thức từ ngày 01/01/2012 đến ngày 31/12/2012.
 
-*Nội dung chưa có sẵn*
+2. Kiểm toán viên cập nhật kiến thức năm 2013 được tính giờ cập nhật kiến thức từ ngày 16/8/2012 đến ngày 15/8/2013, trừ các lớp học đã tính giờ cho năm 2012.
 
-**Chỉ mục:** 19
+Điều 17.2.TT.1.20. Hiệu lực thi hành
 
-**Mã phân cấp:** 1700200000000000800006900000000000000000
+(Điều 20 Thông tư số 150/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2013)
 
-**ID:** dk_00024030
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2013. Các quy định trước đây về cập nhật kiến thức hàng năm cho kiểm toán viên trái với Thông tư này đều bị bãi bỏ.
 
----
+2. Trong quá trình thực hiện, nếu có khó khăn vướng mắc, đề nghị phản ánh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp./.
 
+Điều 17.2.TT.1.21. Điều khoản chuyển tiếp
 
-### Điều 17.2.TT.1.20. Hiệu lực thi hành
+(Điều 2 Thông tư số 56/2015/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 150/2012/TT-BTC ngày 12/9/2012 của Bộ Tài chính hướng dẫn cập nhật kiến thức hàng năm cho kiểm toán viên đăng ký hành nghề kiểm toán ngày 23/04/2015 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 08/06/2015)
 
-*Nội dung chưa có sẵn*
+1. Việc đăng ký hành nghề kiểm toán đối với trường hợp được cấp chứng chỉ kiểm toán viên năm 2014 được áp dụng theo quy định tại Khoản 1 Điều 1 Thông tư này.
 
-**Chỉ mục:** 20
+2. Kiểm toán viên hành nghề đã được Bộ Tài chính chấp thuận bằng văn bản cho hoãn giờ cập nhật kiến thức theo quy định tại Điều 12 Thông tư số 150/2012/TT-BTC thực hiện theo văn bản chấp thuận của Bộ Tài chính.
 
-**Mã phân cấp:** 1700200000000000800007000000000000000000
+Điều 17.2.TT.1.22. Hiệu lực thi hành
 
-**ID:** dk_00024031
+(Điều 3 Thông tư số 56/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 08/06/2015)
 
----
+1. Thông tư này có hiệu lực thi hành kể từ ngày 08/6/2015.
 
+2. Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu, giải quyết./.
 
-### Điều 17.2.TT.1.21. Điều khoản chuyển tiếp
+Điều 17.2.TT.1.23. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 2 Thông tư số 15/2024/TT-BTC Sửa đổi, bổ sung một số điều Thông tư số 150/2012/TT-BTC ngày 12/9/2012 của Bộ trưởng Bộ Tài chính hướng dẫn cập nhật kiến thức hằng năm cho kiểm toán viên đăng ký hành nghề kiểm toán ngày 06/03/2024 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/05/2024)
 
-**Chỉ mục:** 2
+1. Thông tư này có hiệu lực kể từ ngày 1 tháng 5 năm 2024.
 
-**Mã phân cấp:** 1700200000000000800007100000000000000000
+2. Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán, Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-**ID:** dk_00024032
+Điều 17.2.TT.2.16. Điều khoản chuyển tiếp
 
----
+(Điều 16 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
+Trong thời hạn ba năm, kể từ ngày Luật Kiểm toán độc lập có hiệu lực, người đã được cấp chứng chỉ kiểm toán viên trước ngày 01/01/2012 được đăng ký hành nghề kiểm toán theo quy định của Thông tư này mà không cần bảo đảm điều kiện về thời gian thực tế làm kiểm toán quy định tại điểm b khoản 1 Điều 3 Thông tư này.
 
-### Điều 17.2.TT.1.22. Hiệu lực thi hành
+Điều 17.2.TT.2.17. Hiệu lực thi hành
 
-*Nội dung chưa có sẵn*
+(Điều 17 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-**Chỉ mục:** 3
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/3/2013.
 
-**Mã phân cấp:** 1700200000000000800007200000000000000000
+2. Kiểm toán viên đã đăng ký hành nghề cho năm 2013 trước ngày 01/3/2013 chỉ được ký báo cáo kiểm toán và báo cáo kết quả công tác soát xét đến hết ngày 30/6/2013.
 
-**ID:** dk_00024033
+3. Từ ngày 01/7/2013 trở đi, chỉ có các kiểm toán viên hành nghề được cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo quy định tại Thông tư này mới được ký báo cáo kiểm toán và báo cáo kết quả công tác soát xét.
 
----
+4. Các quy định về đăng ký hành nghề kiểm toán của kiểm toán viên và quản lý kiểm toán viên hành nghề quy định tại Thông tư số 64/2004/TT-BTC ngày 29/6/2004 hướng dẫn thi hành một số điều của Nghị định số 105/2004/NĐ-CP ngày 30/3/2004 của Chính phủ về kiểm toán độc lập hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
+Điều 17.2.TT.2.18. Tổ chức thực hiện
 
-### Điều 17.2.TT.1.23. Hiệu lực thi hành
+(Điều 18 Thông tư số 202/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/03/2013)
 
-*Nội dung chưa có sẵn*
+Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Chỉ mục:** 2
+Điều 17.2.TT.2.19. Hiệu lực thi hành
 
-**Mã phân cấp:** 1700200000000000800007280244820150550230
+(Điều 4 Thông tư số 22/2024/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 202/2012/TT-BTC ngày 19/11/2012 hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán, Thông tư số 203/2012/TT-BTC ngày 19/11/2012 về trình tự, thủ tục cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán và Thông tư số 91/2017/TT-BTC ngày 31/8/2017 quy định về việc thi, cấp, quản lý chứng chỉ kiểm toán viên và chứng chỉ kế toán viên ngày 26/03/2024 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/07/2024)
 
-**ID:** dk_00024034
+1. Thông tư này có hiệu lực kể từ ngày 1 tháng 7 năm 2024.
 
----
+2. Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán, Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
 
+Điều 17.2.TT.3.19. Hiệu lực thi hành
 
-### Điều 17.2.TT.2.16. Điều khoản chuyển tiếp
+(Điều 19 Thông tư số 203/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/05/2013)
 
-*Nội dung chưa có sẵn*
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 5 năm 2013.
 
-**Chỉ mục:** 16
-
-**Mã phân cấp:** 1700200000000000800007300000000000000000
-
-**ID:** dk_00024035
-
----
-
-
-### Điều 17.2.TT.2.17. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 17
-
-**Mã phân cấp:** 1700200000000000800007400000000000000000
-
-**ID:** dk_00024036
-
----
-
-
-### Điều 17.2.TT.2.18. Tổ chức thực hiện
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 18
-
-**Mã phân cấp:** 1700200000000000800007500000000000000000
-
-**ID:** dk_00024037
-
----
-
-
-### Điều 17.2.TT.2.19. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 1700200000000000800007580245500202550190
-
-**ID:** dk_00024038
-
----
-
-
-### Điều 17.2.TT.3.19. Hiệu lực thi hành
-
-*Nội dung chưa có sẵn*
-
-**Chỉ mục:** 19
-
-**Mã phân cấp:** 1700200000000000800007600000000000000000
-
-**ID:** dk_00024039
-
----
-
-
-### Điều 17.2.TT.4.3. Hiệu lực thi hành và điều khoản chuyển tiếp
+2. Trong quá trình thực hiện, nếu có khó khăn vướng mắc, đề nghị các đơn vị phản ánh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp./.
 
 Điều 17.2.TT.4.3. Hiệu lực thi hành và điều khoản chuyển tiếp
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 214/2012/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2014)
 
-**Mã phân cấp:** 1700200000000000800007700000000000000000
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2014.
 
-**ID:** dk_00024040
+2. Đối với các cuộc kiểm toán báo cáo tài chính và các công việc kiểm toán khác được thực hiện trước ngày 01/01/2014 mà đến ngày 01/01/2014 trở đi mới phát hành báo cáo kiểm toán thì phải áp dụng hệ thống chuẩn mực kiểm toán Việt Nam ban hành theo Thông tư này.
 
----
+3. Hệ thống chuẩn mực kiểm toán Việt Nam ban hành theo các Quyết định số 120/1999/QĐ-BTC ngày 27/9/1999, Quyết định số 219/2000/QĐ-BTC ngày 29/12/2000, Quyết định số 143/2001/QĐ-BTC ngày 21/12/2001, Quyết định số 28/2003/QĐ-BTC ngày 14/3/2003, Quyết định số 195/2003/QĐ-BTC ngày 28/11/2003, Quyết định số 03/2005/QĐ-BTC ngày 18/01/2005, Quyết định số 101/2005/QĐ-BTC ngày 29/12/2005 của Bộ trưởng Bộ Tài chính hết hiệu lực kể từ ngày 01/01/2014, trừ các chuẩn mực quy định tại khoản 4 Điều này.
 
+4. Các chuẩn mực kiểm toán số 1000 *“Kiểm toán báo cáo quyết toán vốn đầu tư hoàn thành”*, Chuẩn mực kiểm toán số 930 *“Dịch vụ tổng hợp thông tin tài chính*” ban hành theo Quyết định số 03/2005/QĐ-BTC ngày 18/01/2005 của Bộ trưởng Bộ Tài chính, Chuẩn mực kiểm toán số 910 “*Công tác soát xét báo cáo tài chính*”, Chuẩn mực kiểm toán số 920 “*Kiểm tra thông tin tài chính trên cơ sở các thủ tục thoả thuận trước*” ban hành theo Quyết định số 195/2003/QĐ-BTC ngày 28/11/2003 của Bộ trưởng Bộ Tài chính tiếp tục có hiệu lực thi hành cho đến khi có chuẩn mực mới thay thế.
 
-### Điều 17.2.TT.5.18. Tổ chức thực hiện
+Điều 17.2.TT.5.18. Tổ chức thực hiện
 
-*Nội dung chưa có sẵn*
+(Điều 18 Thông tư số 183/2013/TT-BTC, có hiệu lực thi hành kể từ ngày 18/01/2014)
 
-**Chỉ mục:** 18
+1. Thông tư này có hiệu lực thi hành kể từ ngày 18/01/2014 và thay thế Quyết định số 89/2007/QĐ-BTC ngày 24/10/2007 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế lựa chọn doanh nghiệp kiểm toán được chấp thuận kiểm toán cho tổ chức phát hành, tổ chức niêm yết và tổ chức kinh doanh chứng khoán.
 
-**Mã phân cấp:** 1700200000000000800007800000000000000000
+2. Đối với kỳ chấp thuận năm 2014:
 
-**ID:** dk_00024041
+a) Tổ chức kiểm toán đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán phải tuân thủ quy định về điều kiện và hồ sơ theo Quyết định số 89/2007/QĐ-BTC ngày 24/10/2007.
 
----
+b) Tổ chức kiểm toán hiện đang được cung cấp dịch vụ kiểm toán theo quy định có văn bản đề nghị với Bộ Tài chính trước ngày 20/01/2014 để được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng khác. Bộ Tài chính công khai danh sách tổ chức kiểm toán, kiểm toán viên hành nghề được chấp thuận thực hiện kiểm toán cho đơn vị có lợi ích công chúng khác trước ngày 31/01/2014 trên trang, cổng thông tin điện tử của mình.
 
+3. Trong thời hạn 01 năm kể từ ngày Thông tư này có hiệu lực thi hành, căn cứ hướng dẫn của Thông tư này, các Bộ, ngành liên quan rà soát để có quy định thống nhất, phù hợp về điều kiện lựa chọn tổ chức kiểm toán độc lập đủ điều kiện thực hiện kiểm toán cho doanh nghiệp, tổ chức theo quy định của pháp luật chuyên ngành.
 
-### Điều 17.2.TT.6.29. Tổ chức thực hiện
+4. Các Bộ, ngành, Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm hướng dẫn thực hiện Thông tư này.
 
-*Nội dung chưa có sẵn*
+5. Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu, giải quyết./.
 
-**Chỉ mục:** 29
+Điều 17.2.TT.6.29. Tổ chức thực hiện
 
-**Mã phân cấp:** 1700200000000000800007900000000000000000
+(Điều 29 Thông tư số 157/2014/TT-BTC, có hiệu lực thi hành kể từ ngày 23/10/2014)
 
-**ID:** dk_00024042
+1. Thông tư này có hiệu lực thi hành kể từ ngày ký ban hành.
 
----
+2. Các nội dung liên quan đến kiểm soát chất lượng dịch vụ kiểm toán trong doanh nghiệp kiểm toán theo quy định tại Quy chế kiểm soát chất lượng dịch vụ kế toán, kiểm toán ban hành kèm theo Quyết định số 32/2007/QĐ-BTC ngày 15/5/2007 của Bộ Tài chính hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
 
+3. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chủ tịch Ủy ban Chứng khoán Nhà nước, Chánh Văn phòng Bộ, Chủ tịch Hội kiểm toán viên hành nghề Việt Nam, doanh nghiệp kiểm toán, kiểm toán viên hành nghề và các tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này.
 
-### Điều 17.2.TT.6.30. Hiệu lực thi hành
+4. Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu, giải quyết./.
 
-*Nội dung chưa có sẵn*
+Điều 17.2.TT.6.30. Hiệu lực thi hành
 
-**Chỉ mục:** 8
+(Điều 8 Thông tư số 39/2020/TT-BTC Sửa đổi, bổ sung chế độ báo cáo tại một số Thông tư trong lĩnh vực kế toán, kiểm toán độc lập ngày 15/05/2020 của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 01/07/2020)
 
-**Mã phân cấp:** 1700200000000000800007980244820150550300
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2020.
 
-**ID:** dk_00024043
-
----
-
-
-### Điều 17.2.TT.7.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+2. Trong quá trình thực hiện, nếu có khó khăn vướng mắc, đề nghị phản ánh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp
 
 Điều 17.2.TT.7.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 65/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1700200000000000800008000000000000000000
+Đối với các hợp đồng dịch vụ soát xét báo cáo tài chính và thông tin tài chính được thực hiện trước ngày 01/01/2016 mà đến ngày 01/01/2016 trở đi mới phát hành báo cáo soát xét thì phải áp dụng các chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét ban hành theo Thông tư này.
 
-**ID:** dk_00024044
-
----
-
-
-### Điều 17.2.TT.7.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+Chuẩn mực kiểm toán số 910 “*Công tác soát xét báo cáo tài chính*” ban hành theo Quyết định số [195/2003/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-195-2003-qd-btc-cong-bo-sau-chuan-muc-kiem-toan-viet-nam-dot-5-52429.aspx) ngày 28/11/2003 của Bộ trưởng Bộ Tài chính hết hiệu lực kể từ ngày 01/01/2016.
 
 Điều 17.2.TT.7.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 1700200000000000800008100000000000000000
-
-**ID:** dk_00024045
-
----
-
-
-### Điều 17.2.TT.8.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+(Điều 4 Thông tư số 65/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.8.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 66/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1700200000000000800008200000000000000000
-
-**ID:** dk_00024046
-
----
-
-
-### Điều 17.2.TT.8.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+Đối với các hợp đồng dịch vụ đảm bảo khác được thực hiện trước ngày 01/01/2016 mà đến ngày 01/01/2016 trở đi mới phát hành báo cáo dịch vụ đảm bảo thì phải áp dụng các chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo khác ban hành theo Thông tư này.
 
 Điều 17.2.TT.8.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 1700200000000000800008300000000000000000
-
-**ID:** dk_00024047
-
----
-
-
-### Điều 17.2.TT.9.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2015.
+(Điều 4 Thông tư số 66/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.9.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2015.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 67/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
-**Mã phân cấp:** 1700200000000000800008400000000000000000
+Đối với các hợp đồng kiểm toán báo cáo quyết toán dự án hoàn thành được thực hiện trước ngày 01/7/2015 mà đến ngày 01/7/2015 trở đi mới phát hành báo cáo kiểm toán thì phải áp dụng Chuẩn mực kiểm toán Việt Nam về kiểm toán báo cáo quyết toán dự án hoàn thành ban hành theo Thông tư này.
 
-**ID:** dk_00024048
-
----
-
-
-### Điều 17.2.TT.9.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+Chuẩn mực kiểm toán số 1000 *“Kiểm toán báo cáo quyết toán vốn đầu tư hoàn thành” *ban hành theo Quyết định số 03/2005/QĐ-BTC ngày 18/01/2005 của Bộ trưởng Bộ Tài chính hết hiệu lực kể từ ngày 01/7/2015.
 
 Điều 17.2.TT.9.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 1700200000000000800008500000000000000000
-
-**ID:** dk_00024049
-
----
-
-
-### Điều 17.2.TT.10.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+(Điều 4 Thông tư số 67/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/07/2015)
 
 Điều 17.2.TT.10.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
-**Chỉ mục:** 3
+(Điều 3 Thông tư số 68/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1700200000000000800008600000000000000000
+Đối với các hợp đồng dịch vụ liên quan được thực hiện trước ngày 01/01/2016 mà đến ngày 01/01/2016 trở đi mới phát hành báo cáo dịch vụ tổng hợp hoặc báo cáo về các phát hiện thực tế thì phải áp dụng các chuẩn mực Việt Nam về dịch vụ liên quan ban hành theo Thông tư này.
 
-**ID:** dk_00024050
-
----
-
-
-### Điều 17.2.TT.10.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề, doanh nghiệp dịch vụ kế toán, kế toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+Chuẩn mực kiểm toán số 930 *“Dịch vụ tổng hợp thông tin tài chính*” ban hành theo Quyết định số [03/2005/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-03-2005-qd-btc-sau-chuan-muc-kiem-toan-viet-nam-dot-6-52844.aspx) ngày 18/01/2005 của Bộ trưởng Bộ Tài chính và Chuẩn mực kiểm toán số 920 “*Kiểm tra thông tin tài chính trên cơ sở các thủ tục thoả thuận trước*” ban hành theo Quyết định số [195/2003/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-195-2003-qd-btc-cong-bo-sau-chuan-muc-kiem-toan-viet-nam-dot-5-52429.aspx) ngày 28/11/2003 của Bộ trưởng Bộ Tài chính hết hiệu lực kể từ ngày 01/01/2016.
 
 Điều 17.2.TT.10.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề, doanh nghiệp dịch vụ kế toán, kế toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Chỉ mục:** 4
-
-**Mã phân cấp:** 1700200000000000800008700000000000000000
-
-**ID:** dk_00024051
-
----
-
-
-### Điều 17.2.TT.11.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+(Điều 4 Thông tư số 68/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.11.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
-**Chỉ mục:** 3
-
-**Mã phân cấp:** 1700200000000000800008800000000000000000
-
-**ID:** dk_00024052
-
----
-
-
-### Điều 17.2.TT.11.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+(Điều 3 Thông tư số 69/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
 Điều 17.2.TT.11.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Chỉ mục:** 4
+(Điều 4 Thông tư số 69/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Mã phân cấp:** 1700200000000000800008900000000000000000
+Điều 17.2.TT.12.3.
 
-**ID:** dk_00024053
+(Điều 3 Thông tư số 70/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
----
+Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
 
+Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán Việt Nam ban hành theo Quyết định số 87/2005/QĐ-BTC ngày 01/12/2005 của Bộ trưởng Bộ Tài chính hết hiệu lực kể từ ngày 01/01/2016.
 
-### Điều 17.2.TT.12.3.
+Điều 17.2.TT.12.4.
 
-*Nội dung chưa có sẵn*
+(Điều 4 Thông tư số 70/2015/TT-BTC, có hiệu lực thi hành kể từ ngày 01/01/2016)
 
-**Chỉ mục:** 3
+Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên, doanh nghiệp dịch vụ kế toán, người có chứng chỉ hành nghề kế toán và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
 
-**Mã phân cấp:** 1700200000000000800009000000000000000000
+Điều 17.2.TT.13.27. Điều khoản chuyển tiếp
 
-**ID:** dk_00024054
+(Điều 27 Thông tư số 91/2017/TT-BTC, có hiệu lực thi hành kể từ ngày 15/10/2017)
 
----
+1. Chứng chỉ hành nghề kế toán đã được cấp theo các văn bản sau có giá trị như chứng chỉ kế toán viên quy định tại Thông tư này:
 
+- Quyết định số [59/2004/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-59-2004-qd-btc-quy-che-thi-tuyen-cap-chung-chi-kiem-toan-vien-chung-chi-hanh-nghe-ke-toan-52230.aspx) ngày 09/7/2004 của Bộ Tài chính ban hành Quy chế thi tuyển và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán;
 
-### Điều 17.2.TT.12.4.
+- Quyết định số [94/2007/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-94-2007-qd-btc-quy-che-thi-cap-chung-chi-kiem-toan-vien-hanh-nghe-ke-toan-59108.aspx) ngày 16/11/2007 của Bộ Tài chính về ban hành Quy chế thi và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán;
 
-*Nội dung chưa có sẵn*
+- Thông tư số [171/2009/TT-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/thong-tu-171-2009-tt-btc-sua-doi-quy-che-thi-cap-chung-chi-kiem-toan-vien-ke-toan-huong-dan-quyet-dinh-94-2007-qd-btc-93628.aspx) ngày 24/8/2009 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Quy chế thi và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán ban hành kèm theo Quyết định số [94/2007/QĐ-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/quyet-dinh-94-2007-qd-btc-quy-che-thi-cap-chung-chi-kiem-toan-vien-hanh-nghe-ke-toan-59108.aspx) ngày 16/11/2007 của Bộ trưởng Bộ Tài chính;
 
-**Chỉ mục:** 4
+- Thông tư số [129/2012/TT-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/thong-tu-129-2012-tt-btc-quy-dinh-thi-cap-chung-chi-kiem-toan-vien-145902.aspx) ngày 09/8/2012 của Bộ Tài chính quy định về việc thi và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán.
 
-**Mã phân cấp:** 1700200000000000800009100000000000000000
+2. Giấy chứng nhận điểm thi kế toán viên hành nghề đã cấp của các kỳ thi trước theo quy định tại Thông tư số [129/2012/TT-BTC](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/thong-tu-129-2012-tt-btc-quy-dinh-thi-cap-chung-chi-kiem-toan-vien-145902.aspx) ngày 09/8/2012 của Bộ Tài chính quy định về việc thi và cấp chứng chỉ kiểm toán viên và chứng chỉ hành nghề kế toán có giá trị như Giấy chứng nhận điểm thi kế toán viên quy định tại Thông tư này.
 
-**ID:** dk_00024055
+3. Người dự thi lần đầu vào các năm 2015, 2016 được áp dụng quy định tại khoản 2 Điều 18 Thông tư này.
 
----
+## Danh sách điều khoản
 
+### 17002000000000001000
 
-### Điều 17.2.TT.13.27. Điều khoản chuyển tiếp
+Chương I NHỮNG QUY ĐỊNH CHUNG
 
-*Nội dung chưa có sẵn*
+### 1700200000000000100000100000000000000000
 
-**Chỉ mục:** 27
+Điều 17.2.LQ.1. Phạm vi điều chỉnh
 
-**Mã phân cấp:** 1700200000000000800009200000000000000000
+### 1700200000000000100000200000000000000000
 
-**ID:** dk_00024056
+Điều 17.2.LQ.2. Đối tượng áp dụng
 
----
+### 1700200000000000100000200500000000000000
 
+Điều 17.2.NĐ.1.1. Phạm vi điều chỉnh
 
-## 🔙 Quay lại
-[← Danh sách đề mục của Kế toán, kiểm toán](/ke-toan-kiem-toan/)  
-[← Danh sách tất cả Chủ đề](/van-ban/)
+### 1700200000000000100000200997500000000000
 
-## 📊 Thống kê
-- **Tổng số điều khoản:** 278
-- **Điều khoản thực tế:** 266
-- **Điều khoản có nội dung:** 156 (58.6%)
-- **ID đề mục:** 1261f60d79164275a63dda426d1a955d
+Điều 17.2.NĐ.1.2. Đối tượng áp dụng
 
-## 🔍 Tìm kiếm
-Sử dụng chức năng tìm kiếm của website để tìm văn bản cụ thể.
+### 1700200000000000100000201987525000000000
 
----
+Điều 17.2.NĐ.2.1. Phạm vi Điều chỉnh
 
-*Trang này được tạo tự động từ dữ liệu Pháp điển. Cập nhật lần cuối: {{ site.time | date: "%Y-%m-%d" }}*
+### 1700200000000000100000202967649750000000
+
+Điều 17.2.NĐ.2.2. Đối tượng áp dụng
+
+### 1700200000000000100000203452811501250000
+
+Điều 17.2.TT.1.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000203935547443743000
+
+Điều 17.2.TT.1.2. Đối tượng áp dụng
+
+### 1700200000000000100000204896191969305000
+
+Điều 17.2.TT.2.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000205847230049611000
+
+Điều 17.2.TT.2.2. Đối tượng áp dụng
+
+### 1700200000000000100000207259521598866000
+
+Điều 17.2.TT.3.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000208650628774883000
+
+Điều 17.2.TT.3.2. Đối tượng áp dụng
+
+### 1700200000000000100000210477616199385000
+
+Điều 17.2.TT.4.2. Phạm vi và đối tượng áp dụng
+
+### 1700200000000000100000212715675794400000
+
+Điều 17.2.TT.5.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000214897783899540000
+
+Điều 17.2.TT.5.2. Đối tượng áp dụng
+
+### 1700200000000000100000217450850382553000
+
+Điều 17.2.TT.6.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000219927324871076000
+
+Điều 17.2.TT.6.2. Đối tượng áp dụng
+
+### 1700200000000000100000225132048754456000
+
+Điều 17.2.TT.13.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000229998465585416000
+
+Điều 17.2.TT.13.2. Đối tượng áp dụng
+
+### 1700200000000000100000280272840040000010
+
+Điều 17.2.TT.14.1. Phạm vi điều chỉnh
+
+### 1700200000000000100000280272840040000020
+
+Điều 17.2.TT.14.2. Đối tượng áp dụng
+
+### 1700200000000000100000300000000000000000
+
+Điều 17.2.LQ.3. Áp dụng Luật Kiểm toán độc lập, điều ước quốc tế và các luật có liên quan
+
+### 1700200000000000100000400000000000000000
+
+Điều 17.2.LQ.4. Mục đích của kiểm toán độc lập
+
+### 1700200000000000100000500000000000000000
+
+Điều 17.2.LQ.5. Giải thích từ ngữ
+
+### 170020000000000010000050000000000000000000402429900170000300
+
+Điều 17.2.NĐ.1.3. Giải thích từ ngữ
+
+### 170020000000000010000050000000000000000000402587000840000300
+
+Điều 17.2.NĐ.2.3. Giải thích từ ngữ
+
+### 170020000000000010000050000000000000000000802493001830000300
+
+Điều 17.2.TT.5.3. Giải thích từ ngữ
+
+### 170020000000000010000050000000000000000000802493001830000400
+
+Điều 17.2.TT.5.4. Đơn vị có lợi ích công chúng
+
+### 170020000000000010000050000000000000000000802525301570000300
+
+Điều 17.2.TT.6.3. Giải thích từ ngữ
+
+### 1700200000000000100000600000000000000000
+
+Điều 17.2.LQ.6. Chuẩn mực kiểm toán và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán
+
+### 170020000000000010000060000000000000000000802456702140000100
+
+Điều 17.2.TT.4.1. Ban hành kèm theo Thông tư này ba mươi bảy (37) chuẩn mực kiểm toán Việt Nam có số hiệu và tên gọi như sau:
+
+### 170020000000000010000060000000000000000000802545000650000100
+
+Điều 17.2.TT.7.1. Ban hành kèm theo Thông tư này hai (02) chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét, bao gồm:
+
+### 170020000000000010000060000000000000000000802545000650000200
+
+Điều 17.2.TT.7.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ soát xét báo cáo tài chính và thông tin tài chính theo quy định tại Điều 1 Thông tư này.
+
+### 170020000000000010000060000000000000000000802545000660000100
+
+Điều 17.2.TT.8.1. Ban hành kèm theo Thông tư này ba (03) chuẩn mực Việt Nam về hợp đồng dịch vụ đảm bảo khác, bao gồm:
+
+### 170020000000000010000060000000000000000000802545000660000200
+
+Điều 17.2.TT.8.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ đảm bảo khác theo quy định tại Điều 1 Thông tư này.
+
+### 170020000000000010000060000000000000000000802545000670000100
+
+Điều 17.2.TT.9.1. Ban hành kèm theo Thông tư này Chuẩn mực kiểm toán Việt Nam số 1000 - Kiểm toán báo cáo quyết toán dự án hoàn thành.
+
+### 170020000000000010000060000000000000000000802545000670000200
+
+Điều 17.2.TT.9.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ kiểm toán báo cáo quyết toán dự án hoàn thành theo quy định tại Điều 1 Thông tư này.
+
+### 170020000000000010000060000000000000000000802545000680000100
+
+Điều 17.2.TT.10.1. Ban hành kèm theo Thông tư này hai (02) chuẩn mực Việt Nam về dịch vụ liên quan, bao gồm:
+
+### 170020000000000010000060000000000000000000802545000680000200
+
+Điều 17.2.TT.10.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề, doanh nghiệp dịch vụ kế toán, kế toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ liên quan theo quy định tại Điều 1 Thông tư này.
+
+### 170020000000000010000060000000000000000000802545000700000100
+
+Điều 17.2.TT.12.1. Ban hành kèm theo Thông tư này Chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán.
+
+### 170020000000000010000060000000000000000000802545000700000200
+
+Điều 17.2.TT.12.2. Thông tư này áp dụng đối với người có chứng chỉ hành nghề kế toán, người có chứng chỉ kiểm toán viên, doanh nghiệp dịch vụ kế toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và các đối tượng được quy định cụ thể trong nội dung Chuẩn mực, như sau:
+
+### 1700200000000000100000700000000000000000
+
+Điều 17.2.LQ.7. Giá trị của báo cáo kiểm toán
+
+### 1700200000000000100000800000000000000000
+
+Điều 17.2.LQ.8. Nguyên tắc hoạt động kiểm toán độc lập
+
+### 1700200000000000100000900000000000000000
+
+Điều 17.2.LQ.9. Kiểm toán bắt buộc
+
+### 1700200000000000100001000000000000000000
+
+Điều 17.2.LQ.10. Khuyến khích kiểm toán
+
+### 1700200000000000100001100000000000000000
+
+Điều 17.2.LQ.11. Quản lý nhà nước về hoạt động kiểm toán độc lập
+
+### 170020000000000010000110000000000000000000802448201500000300
+
+Điều 17.2.TT.1.3. Đối tượng cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500000400
+
+Điều 17.2.TT.1.4. Nội dung, tài liệu cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500000500
+
+Điều 17.2.TT.1.5. Thời gian cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500000600
+
+Điều 17.2.TT.1.6. Hình thức cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500000700
+
+Điều 17.2.TT.1.7. Điều kiện để được chấp thuận tổ chức cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500000800
+
+Điều 17.2.TT.1.8. Giảng viên tham gia giảng dạy cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500000900
+
+Điều 17.2.TT.1.9. Trình tự xem xét, chấp thuận cơ sở đào tạo và doanh nghiệp kiểm toán đủ điều kiện tổ chức cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500001000
+
+Điều 17.2.TT.1.10. Hồ sơ đăng ký tổ chức cập nhật kiến thức cho kiểm toán viên
+
+### 170020000000000010000110000000000000000000802448201500001100
+
+Điều 17.2.TT.1.11. Tính giờ cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500001200
+
+Điều 17.2.TT.1.12. Chưa đủ giờ cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500001300
+
+Điều 17.2.TT.1.13. Tài liệu chứng minh về giờ cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802448201500001400
+
+Điều 17.2.TT.1.14. Lưu trữ hồ sơ cập nhật kiến thức cho kiểm toán viên
+
+### 170020000000000010000110000000000000000000802448201500001500
+
+Điều 17.2.TT.1.15. Trách nhiệm của hội nghề nghiệp, cơ sở đào tạo, doanh nghiệp kiểm toán được chấp thuận tổ chức cập nhật kiến thức cho kiểm toán viên
+
+### 170020000000000010000110000000000000000000802448201500001600
+
+Điều 17.2.TT.1.16. Trách nhiệm của kiểm toán viên
+
+### 170020000000000010000110000000000000000000802448201500001700
+
+Điều 17.2.TT.1.17. Trách nhiệm của Bộ Tài chính trong việc quản lý tổ chức cập nhật kiến thức cho kiểm toán viên
+
+### 170020000000000010000110000000000000000000802448201500001800
+
+Điều 17.2.TT.1.18. Các hành vi vi phạm về cập nhật kiến thức
+
+### 170020000000000010000110000000000000000000802455002020000300
+
+Điều 17.2.TT.2.3. Đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020000400
+
+Điều 17.2.TT.2.4. Hồ sơ đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020000500
+
+Điều 17.2.TT.2.5. Trình tự đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020000600
+
+Điều 17.2.TT.2.6. Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020000700
+
+Điều 17.2.TT.2.7. Cấp và sử dụng Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020000800
+
+Điều 17.2.TT.2.8. Giấy chứng nhận đăng ký hành nghề kiểm toán hết hiệu lực hoặc không còn giá trị
+
+### 170020000000000010000110000000000000000000802455002020000900
+
+Điều 17.2.TT.2.9. Cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020001000
+
+Điều 17.2.TT.2.10. Điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020001100
+
+Điều 17.2.TT.2.11. Công khai thông tin về kiểm toán viên hành nghề
+
+### 170020000000000010000110000000000000000000802455002020001200
+
+Điều 17.2.TT.2.12. Đình chỉ hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020001300
+
+Điều 17.2.TT.2.13. Thu hồi Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+### 170020000000000010000110000000000000000000802455002020001400
+
+Điều 17.2.TT.2.14. Trách nhiệm của kiểm toán viên hành nghề
+
+### 170020000000000010000110000000000000000000802455002020001500
+
+Điều 17.2.TT.2.15. Trách nhiệm của doanh nghiệp kiểm toán và người đại diện theo pháp luật của doanh nghiệp kiểm toán
+
+### 170020000000000010000110000000000000000000802455002030000300
+
+Điều 17.2.TT.3.3. Đối tượng được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002030000400
+
+Điều 17.2.TT.3.4. Nguyên tắc lập hồ sơ
+
+### 170020000000000010000110000000000000000000802455002030000500
+
+Điều 17.2.TT.3.5. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với công ty trách nhiệm hữu hạn, công ty hợp danh và doanh nghiệp tư nhân
+
+### 170020000000000010000110000000000000000000802455002030000600
+
+Điều 17.2.TT.3.6. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+### 170020000000000010000110000000000000000000802455002030000700
+
+Điều 17.2.TT.3.7. Trình tự, thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002030000800
+
+Điều 17.2.TT.3.8. Nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002030000900
+
+Điều 17.2.TT.3.9. Điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002030001000
+
+Điều 17.2.TT.3.10. Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501100
+
+Điều 17.2.TT.3.11. Nộp lệ phí
+
+### 170020000000000010000110000000000000000000802455002035501200
+
+Điều 17.2.TT.3.12. Đình chỉ kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501300
+
+Điều 17.2.TT.3.13. Thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501400
+
+Điều 17.2.TT.3.14. Tạm ngừng kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501500
+
+Điều 17.2.TT.3.15. Chấm dứt kinh doanh dịch vụ kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501600
+
+Điều 17.2.TT.3.16. Chi nhánh doanh nghiệp kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501700
+
+Điều 17.2.TT.3.17. Trách nhiệm của doanh nghiệp kiểm toán
+
+### 170020000000000010000110000000000000000000802455002035501800
+
+Điều 17.2.TT.3.18. Công khai thông tin về doanh nghiệp kiểm toán
+
+### 170020000000000010000110000000000000000000802629600910000300
+
+Điều 17.2.TT.13.3. Đối tượng dự thi
+
+### 170020000000000010000110000000000000000000802629600910000400
+
+Điều 17.2.TT.13.4. Điều kiện dự thi
+
+### 170020000000000010000110000000000000000000802629600910000500
+
+Điều 17.2.TT.13.5. Hồ sơ dự thi
+
+### 170020000000000010000110000000000000000000802629600910000600
+
+Điều 17.2.TT.13.6. Nội dung thi
+
+### 170020000000000010000110000000000000000000802629600910000700
+
+Điều 17.2.TT.13.7. Thể thức thi
+
+### 170020000000000010000110000000000000000000802629600910000800
+
+Điều 17.2.TT.13.8. Tổ chức các kỳ thi
+
+### 170020000000000010000110000000000000000000802629600910000900
+
+Điều 17.2.TT.13.9. Văn bằng, chứng chỉ do Tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán cấp
+
+### 170020000000000010000110000000000000000000802629600910001000
+
+Điều 17.2.TT.13.10. Điều kiện dự thi và nội dung thi sát hạch
+
+### 170020000000000010000110000000000000000000802629600910001100
+
+Điều 17.2.TT.13.11. Hồ sơ đăng ký dự thi sát hạch
+
+### 170020000000000010000110000000000000000000802629600910001200
+
+Điều 17.2.TT.13.12. Kết quả thi sát hạch
+
+### 170020000000000010000110000000000000000000802629600910001300
+
+Điều 17.2.TT.13.13. Hội đồng thi kiểm toán viên, kế toán viên
+
+### 170020000000000010000110000000000000000000802629600910001400
+
+Điều 17.2.TT.13.14. Thành phần Hội đồng thi
+
+### 170020000000000010000110000000000000000000802629600910001500
+
+Điều 17.2.TT.13.15. Chế độ làm việc của Hội đồng thi
+
+### 170020000000000010000110000000000000000000802629600910001600
+
+Điều 17.2.TT.13.16. Trách nhiệm, quyền hạn của Hội đồng thi
+
+### 170020000000000010000110000000000000000000802629600910001700
+
+Điều 17.2.TT.13.17. Nhiệm vụ, quyền hạn của thành viên Hội đồng thi
+
+### 170020000000000010000110000000000000000000802629600910001800
+
+Điều 17.2.TT.13.18. Kết quả thi, bảo lưu kết quả thi, đạt yêu cầu thi
+
+### 170020000000000010000110000000000000000000802629600910001900
+
+Điều 17.2.TT.13.19. Phê duyệt kết quả thi
+
+### 170020000000000010000110000000000000000000802629600910002000
+
+Điều 17.2.TT.13.20. Huỷ kết quả thi
+
+### 170020000000000010000110000000000000000000802629600910002100
+
+Điều 17.2.TT.13.21. Giấy chứng nhận điểm thi
+
+### 170020000000000010000110000000000000000000802629600910002200
+
+Điều 17.2.TT.13.22. Cấp chứng chỉ kiểm toán viên, chứng chỉ kế toán viên
+
+### 170020000000000010000110000000000000000000802629600910002300
+
+Điều 17.2.TT.13.23. Thu hồi chứng chỉ kiểm toán viên, chứng chỉ kế toán viên
+
+### 170020000000000010000110000000000000000000802629600910002400
+
+Điều 17.2.TT.13.24. Xử lý vi phạm đối với người tham gia công tác tổ chức thi
+
+### 170020000000000010000110000000000000000000802629600910002500
+
+Điều 17.2.TT.13.25. Xử lý vi phạm đối với thí sinh
+
+### 170020000000000010000110000000000000000000802629600910002600
+
+Điều 17.2.TT.13.26. Xử lý các trường hợp vi phạm trong khi chấm thi
+
+### 1700200000000000100001200000000000000000
+
+Điều 17.2.LQ.12. Tổ chức nghề nghiệp về kiểm toán
+
+### 170020000000000010000120000000000000000000402429900170000400
+
+Điều 17.2.NĐ.1.4. Tổ chức nghề nghiệp về kiểm toán
+
+### 1700200000000000100001300000000000000000
+
+Điều 17.2.LQ.13. Các hành vi bị nghiêm cấm
+
+### 17002000000000002000
+
+Chương II KIỂM TOÁN VIÊN VÀ KIỂM TOÁN VIÊN HÀNH NGHỀ
+
+### 1700200000000000200001400000000000000000
+
+Điều 17.2.LQ.14. Tiêu chuẩn kiểm toán viên
+
+### 1700200000000000200001500000000000000000
+
+Điều 17.2.LQ.15. Đăng ký hành nghề kiểm toán
+
+### 1700200000000000200001600000000000000000
+
+Điều 17.2.LQ.16. Những người không được đăng ký hành nghề kiểm toán, không được tiếp tục hành nghề kiểm toán
+
+### 1700200000000000200001700000000000000000
+
+Điều 17.2.LQ.17. Quyền của kiểm toán viên hành nghề
+
+### 1700200000000000200001800000000000000000
+
+Điều 17.2.LQ.18. Nghĩa vụ của kiểm toán viên hành nghề
+
+### 1700200000000000200001900000000000000000
+
+Điều 17.2.LQ.19. Các trường hợp kiểm toán viên hành nghề không được thực hiện kiểm toán
+
+### 17002000000000003000
+
+Chương III DOANH NGHIỆP KIỂM TOÁN
+
+### 1700200000000000300002000000000000000000
+
+Điều 17.2.LQ.20. Các loại doanh nghiệp kiểm toán và chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+### 170020000000000030000200000000000000000000402429900170000500
+
+Điều 17.2.NĐ.1.5. Vốn pháp định đối với Công ty trách nhiệm hữu hạn
+
+### 170020000000000030000200000000000000000000402429900170000600
+
+Điều 17.2.NĐ.1.6. Thành viên là tổ chức của công ty trách nhiệm hữu hạn hai thành viên trở lên
+
+### 170020000000000030000200000000000000000000402429900170000700
+
+Điều 17.2.NĐ.1.7. Mức vốn góp của kiểm toán viên hành nghề
+
+### 170020000000000030000200000000000000000000402429900170000800
+
+Điều 17.2.NĐ.1.8. Vốn tối thiểu đối với doanh nghiệp kiểm toán nước ngoài có thành lập chi nhánh tại Việt Nam và vốn được cấp của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+
+### 1700200000000000300002100000000000000000
+
+Điều 17.2.LQ.21. Điều kiện cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300002200000000000000000
+
+Điều 17.2.LQ.22. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300002300000000000000000
+
+Điều 17.2.LQ.23. Thời hạn cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300002400000000000000000
+
+Điều 17.2.LQ.24. Cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300002500000000000000000
+
+Điều 17.2.LQ.25. Lệ phí cấp, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300002600000000000000000
+
+Điều 17.2.LQ.26. Những thay đổi phải thông báo cho Bộ Tài chính
+
+### 1700200000000000300002700000000000000000
+
+Điều 17.2.LQ.27. Đình chỉ kinh doanh dịch vụ kiểm toán và thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300002800000000000000000
+
+Điều 17.2.LQ.28. Quyền của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+### 1700200000000000300002900000000000000000
+
+Điều 17.2.LQ.29. Nghĩa vụ của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+### 1700200000000000300003000000000000000000
+
+Điều 17.2.LQ.30. Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán
+
+### 170020000000000030000300000000000000000000402429900170000900
+
+Điều 17.2.NĐ.1.9. Các trường hợp doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được thực hiện kiểm toán
+
+### 1700200000000000300003100000000000000000
+
+Điều 17.2.LQ.31. Chi nhánh của doanh nghiệp kiểm toán
+
+### 1700200000000000300003200000000000000000
+
+Điều 17.2.LQ.32. Cơ sở của doanh nghiệp kiểm toán ở nước ngoài
+
+### 1700200000000000300003300000000000000000
+
+Điều 17.2.LQ.33. Tạm ngừng kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300003400000000000000000
+
+Điều 17.2.LQ.34. Chấm dứt kinh doanh dịch vụ kiểm toán
+
+### 1700200000000000300003500000000000000000
+
+Điều 17.2.LQ.35. Chấm dứt hoạt động của chi nhánh doanh nghiệp kiểm toán
+
+### 1700200000000000300003600000000000000000
+
+Điều 17.2.LQ.36. Doanh nghiệp kiểm toán nước ngoài
+
+### 170020000000000030000360000000000000000000402429900170001000
+
+Điều 17.2.NĐ.1.10. Đối tượng cung cấp dịch vụ kiểm toán qua biên giới
+
+### 170020000000000030000360000000000000000000402429900170001100
+
+Điều 17.2.NĐ.1.11. Điều kiện cung cấp dịch vụ kiểm toán qua biên giới
+
+### 170020000000000030000360000000000000000000402429900170001200
+
+Điều 17.2.NĐ.1.12. Phương thức cung cấp dịch vụ kiểm toán qua biên giới
+
+### 170020000000000030000360000000000000000000402429900170001300
+
+Điều 17.2.NĐ.1.13. Trách nhiệm của doanh nghiệp kiểm toán nước ngoài cung cấp dịch vụ kiểm toán qua biên giới
+
+### 17002000000000003000036000000000000000000040242990017000130000802728400400000400
+
+Điều 17.2.TT.14.4. Chế độ báo cáo định kỳ khi cung cấp dịch vụ kiểm toán qua biên giới
+
+### 170020000000000030000360000000000000000000402429900170001400
+
+Điều 17.2.NĐ.1.14. Trách nhiệm của doanh nghiệp kiểm toán tại Việt Nam có tham gia liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới
+
+### 17002000000000005000
+
+Chương V HOẠT ĐỘNG KIỂM TOÁN ĐỘC LẬP
+
+### 1700200000000000500000010000000000000000
+
+Mục 1 HOẠT ĐỘNG CỦA DOANH NGHIỆP KIỂM TOÁN
+
+### 170020000000000050000001000000000000000004000000000000000000
+
+Điều 17.2.LQ.40. Phạm vi hoạt động của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+### 17002000000000005000000100000000000000000400000000000000000000802545000690000100
+
+Điều 17.2.TT.11.1. Ban hành kèm theo Thông tư này Khuôn khổ Việt Nam về hợp đồng dịch vụ đảm bảo.
+
+### 17002000000000005000000100000000000000000400000000000000000000802545000690000200
+
+Điều 17.2.TT.11.2. Thông tư này áp dụng đối với doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan trong quá trình cung cấp dịch vụ đảm bảo.
+
+### 170020000000000050000001000000000000000004100000000000000000
+
+Điều 17.2.LQ.41. Nhận dịch vụ kiểm toán
+
+### 170020000000000050000001000000000000000004200000000000000000
+
+Điều 17.2.LQ.42. Hợp đồng kiểm toán
+
+### 170020000000000050000001000000000000000004300000000000000000
+
+Điều 17.2.LQ.43. Nghĩa vụ bảo mật
+
+### 170020000000000050000001000000000000000004400000000000000000
+
+Điều 17.2.LQ.44. Phí dịch vụ kiểm toán
+
+### 170020000000000050000001000000000000000004500000000000000000
+
+Điều 17.2.LQ.45. Quy trình kiểm toán
+
+### 1700200000000000500000020000000000000000
+
+Mục 2 BÁO CÁO KIỂM TOÁN
+
+### 170020000000000050000002000000000000000004600000000000000000
+
+Điều 17.2.LQ.46. Báo cáo kiểm toán về báo cáo tài chính
+
+### 17002000000000005000000200000000000000000460000000000000000000402429900170001600
+
+Điều 17.2.NĐ.1.16. Báo cáo kiểm toán
+
+### 17002000000000005000000200000000000000000460000000000000000000402429900170001700
+
+Điều 17.2.NĐ.1.17. Giải trình về các nội dung ngoại trừ cho báo cáo kiểm toán
+
+### 170020000000000050000002000000000000000004700000000000000000
+
+Điều 17.2.LQ.47. Báo cáo kiểm toán về các công việc kiểm toán khác
+
+### 170020000000000050000002000000000000000004800000000000000000
+
+Điều 17.2.LQ.48. Ý kiến kiểm toán
+
+### 1700200000000000500000030000000000000000
+
+Mục 3 HỒ SƠ KIỂM TOÁN
+
+### 170020000000000050000003000000000000000004900000000000000000
+
+Điều 17.2.LQ.49. Hồ sơ kiểm toán
+
+### 170020000000000050000003000000000000000005000000000000000000
+
+Điều 17.2.LQ.50. Bảo quản, lưu trữ hồ sơ kiểm toán
+
+### 17002000000000005000000300000000000000000500000000000000000000402429900170001800
+
+Điều 17.2.NĐ.1.18. Lưu trữ hồ sơ kiểm toán
+
+### 17002000000000005000000300000000000000000500000000000000000000402429900170001900
+
+Điều 17.2.NĐ.1.19. Khai thác, sử dụng hồ sơ kiểm toán
+
+### 17002000000000005000000300000000000000000500000000000000000000402429900170002000
+
+Điều 17.2.NĐ.1.20. Tiêu hủy hồ sơ kiểm toán
+
+### 17002000000000005000000300000000000000000500000000000000000000402429900170002100
+
+Điều 17.2.NĐ.1.21. Lưu trữ, khai thác, sử dụng hồ sơ kiểm toán điện tử và hồ sơ, tài liệu về các dịch vụ khác
+
+### 170020000000000050000003000000000000000005100000000000000000
+
+Điều 17.2.LQ.51. Hồ sơ, tài liệu về dịch vụ liên quan
+
+### 1700200000000000500000040000000000000000
+
+Mục 4 KIỂM SOÁT CHẤT LƯỢNG DỊCH VỤ KIỂM TOÁN
+
+### 170020000000000050000004000000000000000005200000000000000000
+
+Điều 17.2.LQ.52. Kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570000400
+
+Điều 17.2.TT.6.4. Mục đích kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570000500
+
+Điều 17.2.TT.6.5. Nội dung kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570000600
+
+Điều 17.2.TT.6.6. Hình thức kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570000700
+
+Điều 17.2.TT.6.7. Đối tượng được kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570000800
+
+Điều 17.2.TT.6.8. Phân công, phối hợp trong việc kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570000900
+
+Điều 17.2.TT.6.9. Trách nhiệm của các đơn vị trong việc kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001000
+
+Điều 17.2.TT.6.10. Chi phí kiểm soát chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001100
+
+Điều 17.2.TT.6.11. Phạm vi, yêu cầu kiểm tra trực tiếp
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001200
+
+Điều 17.2.TT.6.12. Quyền và nghĩa vụ của đối tượng được kiểm tra trực tiếp
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001300
+
+Điều 17.2.TT.6.13. Thời hạn kiểm tra trực tiếp
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001400
+
+Điều 17.2.TT.6.14. Thời gian kiểm tra trực tiếp
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001500
+
+Điều 17.2.TT.6.15. Tổ chức Đoàn kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001600
+
+Điều 17.2.TT.6.16. Tiêu chuẩn thành viên Đoàn kiểm tra và Trưởng Đoàn kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001700
+
+Điều 17.2.TT.6.17. Quyền và nghĩa vụ của thành viên Đoàn kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001800
+
+Điều 17.2.TT.6.18. Quyền và nghĩa vụ của Trưởng Đoàn kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570001900
+
+Điều 17.2.TT.6.19. Quy trình kiểm tra trực tiếp chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002000
+
+Điều 17.2.TT.6.20. Tài liệu hướng dẫn kiểm tra trực tiếp
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002100
+
+Điều 17.2.TT.6.21. Lựa chọn chi nhánh và hợp đồng dịch vụ để kiểm tra trực tiếp
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002200
+
+Điều 17.2.TT.6.22. Kết luận kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002300
+
+Điều 17.2.TT.6.23. Xử lý những vấn đề có ý kiến khác nhau về kết quả kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002400
+
+Điều 17.2.TT.6.24. Xử lý sau kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002500
+
+Điều 17.2.TT.6.25. Hồ sơ kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002600
+
+Điều 17.2.TT.6.26. Xử lý sai phạm về chất lượng dịch vụ kiểm toán
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002700
+
+Điều 17.2.TT.6.27. Xử lý vi phạm của thành viên Đoàn kiểm tra
+
+### 17002000000000005000000400000000000000000520000000000000000000802525301570002800
+
+Điều 17.2.TT.6.28. Công khai kết quả kiểm tra chất lượng dịch vụ kiểm toán
+
+### 17002000000000006000
+
+Chương VI KIỂM TOÁN BÁO CÁO TÀI CHÍNH CỦA ĐƠN VỊ CÓ LỢI ÍCH CÔNG CHÚNG
+
+### 17002000000000006000
+
+Chương VI ĐƠN VỊ ĐƯỢC KIỂM TOÁN
+
+### 1700200000000000600003700000000000000000
+
+Điều 17.2.LQ.37. Đơn vị được kiểm toán
+
+### 170020000000000060000370000000000000000000402429900170001500
+
+Điều 17.2.NĐ.1.15. Đơn vị được kiểm toán
+
+### 1700200000000000600003800000000000000000
+
+Điều 17.2.LQ.38. Quyền của đơn vị được kiểm toán
+
+### 1700200000000000600003900000000000000000
+
+Điều 17.2.LQ.39. Nghĩa vụ của đơn vị được kiểm toán
+
+### 1700200000000000600005300000000000000000
+
+Điều 17.2.LQ.53. Đơn vị có lợi ích công chúng
+
+### 170020000000000060000530000000000000000000402587000840000400
+
+Điều 17.2.NĐ.2.4. Đơn vị có lợi ích công chúng
+
+### 170020000000000060000530000000000000000000402587000840000500
+
+Điều 17.2.NĐ.2.5. Điều kiện đối với tổ chức kiểm toán được chấp thuận
+
+### 170020000000000060000530000000000000000000402587000840000600
+
+Điều 17.2.NĐ.2.6. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
+
+### 170020000000000060000530000000000000000000402587000840000700
+
+Điều 17.2.NĐ.2.7. Các trường hợp tổ chức kiểm toán, kiểm toán viên hành nghề không được xem xét, chấp thuận
+
+### 170020000000000060000530000000000000000000402587000840000800
+
+Điều 17.2.NĐ.2.8. Xử lý đối với các hợp đồng kiểm toán đã ký trong trường hợp không được chấp thuận
+
+### 170020000000000060000530000000000000000000402587000840000900
+
+Điều 17.2.NĐ.2.9. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+
+### 170020000000000060000530000000000000000000402587000840001000
+
+Điều 17.2.NĐ.2.10. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
+
+### 1700200000000000600005400000000000000000
+
+Điều 17.2.LQ.54. Chấp thuận doanh nghiệp được kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
+
+### 170020000000000060000540000000000000000000802493001830000600
+
+Điều 17.2.TT.5.6. Điều kiện đối với tổ chức kiểm toán được chấp thuận
+
+### 170020000000000060000540000000000000000000802493001830000700
+
+Điều 17.2.TT.5.7. Các trường hợp tổ chức kiểm toán được chấp thuận không được thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+
+### 170020000000000060000540000000000000000000802493001830000800
+
+Điều 17.2.TT.5.8. Tiêu chuẩn đối với kiểm toán viên hành nghề được chấp thuận
+
+### 170020000000000060000540000000000000000000802493001830000900
+
+Điều 17.2.TT.5.9. Kỳ xem xét, chấp thuận
+
+### 170020000000000060000540000000000000000000802493001830001000
+
+Điều 17.2.TT.5.10. Hồ sơ đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng
+
+### 170020000000000060000540000000000000000000802493001830001100
+
+Điều 17.2.TT.5.11. Xem xét, chấp thuận và công khai danh sách tổ chức kiểm toán và kiểm toán viên hành nghề
+
+### 170020000000000060000540000000000000000000802493001830001200
+
+Điều 17.2.TT.5.12. Các trường hợp không được xem xét, chấp thuận
+
+### 170020000000000060000540000000000000000000802493001830001300
+
+Điều 17.2.TT.5.13. Đình chỉ hoặc hủy bỏ tư cách được chấp thuận kiểm toán
+
+### 170020000000000060000540000000000000000000802493001830001400
+
+Điều 17.2.TT.5.14. Nghĩa vụ của tổ chức kiểm toán và kiểm toán viên hành nghề được chấp thuận
+
+### 170020000000000060000540000000000000000000802493001830001500
+
+Điều 17.2.TT.5.15. Giám sát, kiểm tra chất lượng
+
+### 1700200000000000600005500000000000000000
+
+Điều 17.2.LQ.55. Công khai thông tin của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng
+
+### 1700200000000000600005600000000000000000
+
+Điều 17.2.LQ.56. Báo cáo minh bạch
+
+### 170020000000000060000560000000000000000000802493001830001600
+
+Điều 17.2.TT.5.16. Báo cáo minh bạch
+
+### 1700200000000000600005700000000000000000
+
+Điều 17.2.LQ.57. Trách nhiệm của đơn vị có lợi ích công chúng
+
+### 170020000000000060000570000000000000000000802493001830001700
+
+Điều 17.2.TT.5.17. Trách nhiệm của đơn vị có lợi ích công chúng
+
+### 1700200000000000600005800000000000000000
+
+Điều 17.2.LQ.58. Tính độc lập, khách quan
+
+### 17002000000000007000
+
+Chương VII XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT TRANH CHẤP
+
+### 1700200000000000700005900000000000000000
+
+Điều 17.2.LQ.59. Các hành vi vi phạm pháp luật về kiểm toán độc lập
+
+### 1700200000000000700006000000000000000000
+
+Điều 17.2.LQ.60. Xử lý vi phạm pháp luật về kiểm toán độc lập
+
+### 1700200000000000700006100000000000000000
+
+Điều 17.2.LQ.61. Giải quyết tranh chấp về kiểm toán độc lập
+
+### 17002000000000008000
+
+Chương VIII ĐIỀU KHOẢN THI HÀNH
+
+### 1700200000000000800002800000000000000000
+
+Điều 17.2.TT.13.28. Hiệu lực thi hành
+
+### 1700200000000000800002900000000000000000
+
+Điều 17.2.TT.13.29. Tổ chức thực hiện
+
+### 1700200000000000800006200000000000000000
+
+Điều 17.2.LQ.62. Điều khoản chuyển tiếp
+
+### 1700200000000000800006300000000000000000
+
+Điều 17.2.LQ.63. Hiệu lực thi hành
+
+### 1700200000000000800006400000000000000000
+
+Điều 17.2.LQ.64. Quy định chi tiết và hướng dẫn thi hành
+
+### 1700200000000000800006500000000000000000
+
+Điều 17.2.NĐ.1.22. Quy định chuyển tiếp
+
+### 1700200000000000800006600000000000000000
+
+Điều 17.2.NĐ.1.23. Hiệu lực thi hành
+
+### 1700200000000000800006700000000000000000
+
+Điều 17.2.NĐ.1.24. Trách nhiệm thi hành
+
+### 1700200000000000800006800000000000000000
+
+Điều 17.2.NĐ.2.11. Hiệu lực thi hành và trách nhiệm thi hành
+
+### 1700200000000000800006900000000000000000
+
+Điều 17.2.TT.1.19. Điều khoản chuyển tiếp
+
+### 1700200000000000800007000000000000000000
+
+Điều 17.2.TT.1.20. Hiệu lực thi hành
+
+### 1700200000000000800007100000000000000000
+
+Điều 17.2.TT.1.21. Điều khoản chuyển tiếp
+
+### 1700200000000000800007200000000000000000
+
+Điều 17.2.TT.1.22. Hiệu lực thi hành
+
+### 1700200000000000800007280244820150550230
+
+Điều 17.2.TT.1.23. Hiệu lực thi hành
+
+### 1700200000000000800007300000000000000000
+
+Điều 17.2.TT.2.16. Điều khoản chuyển tiếp
+
+### 1700200000000000800007400000000000000000
+
+Điều 17.2.TT.2.17. Hiệu lực thi hành
+
+### 1700200000000000800007500000000000000000
+
+Điều 17.2.TT.2.18. Tổ chức thực hiện
+
+### 1700200000000000800007580245500202550190
+
+Điều 17.2.TT.2.19. Hiệu lực thi hành
+
+### 1700200000000000800007600000000000000000
+
+Điều 17.2.TT.3.19. Hiệu lực thi hành
+
+### 1700200000000000800007700000000000000000
+
+Điều 17.2.TT.4.3. Hiệu lực thi hành và điều khoản chuyển tiếp
+
+### 1700200000000000800007800000000000000000
+
+Điều 17.2.TT.5.18. Tổ chức thực hiện
+
+### 1700200000000000800007900000000000000000
+
+Điều 17.2.TT.6.29. Tổ chức thực hiện
+
+### 1700200000000000800007980244820150550300
+
+Điều 17.2.TT.6.30. Hiệu lực thi hành
+
+### 1700200000000000800008000000000000000000
+
+Điều 17.2.TT.7.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+
+### 1700200000000000800008100000000000000000
+
+Điều 17.2.TT.7.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+### 1700200000000000800008200000000000000000
+
+Điều 17.2.TT.8.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+
+### 1700200000000000800008300000000000000000
+
+Điều 17.2.TT.8.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+### 1700200000000000800008400000000000000000
+
+Điều 17.2.TT.9.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2015.
+
+### 1700200000000000800008500000000000000000
+
+Điều 17.2.TT.9.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+### 1700200000000000800008600000000000000000
+
+Điều 17.2.TT.10.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+
+### 1700200000000000800008700000000000000000
+
+Điều 17.2.TT.10.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề, doanh nghiệp dịch vụ kế toán, kế toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+### 1700200000000000800008800000000000000000
+
+Điều 17.2.TT.11.3. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2016.
+
+### 1700200000000000800008900000000000000000
+
+Điều 17.2.TT.11.4. Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+### 1700200000000000800009000000000000000000
+
+Điều 17.2.TT.12.3.
+
+### 1700200000000000800009100000000000000000
+
+Điều 17.2.TT.12.4.
+
+### 1700200000000000800009200000000000000000
+
+Điều 17.2.TT.13.27. Điều khoản chuyển tiếp
+
